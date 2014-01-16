@@ -16,7 +16,7 @@ The President is authorized to issue guarantees in furtherance of the purposes o
 
 &emsp;(4)(A) Not later than September 1 of each year during the period in which the President is authorized to issue loan guarantees under subsection (a) of this section, beginning in fiscal year 1993, the President shall notify the appropriate congressional committees in writing of his intentions regarding the exercise of that authority for the fiscal year beginning on October 1 of that year, including a statement of the total principal amount of guarantees, if any, that the President proposes to issue for that fiscal year.
 
-&emsp;(B) For purposes of this paragraph, the term “appropriate congressional committees” means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives.
+&emsp;(B) For purposes of this paragraph, the term "appropriate congressional committees" means the Committee on Appropriations and the Committee on Foreign Relations of the Senate and the Committee on Appropriations and the Committee on Foreign Affairs of the House of Representatives.
 
 #### (c) Use of guarantees
 
@@ -74,7 +74,7 @@ Section 2183 of this title shall apply to guarantees issued under subsection (a)
 
 (1) Each loan guarantee issued under this section shall guarantee 100 percent of the principal and interest payable on such loans.
 
-(2) The standard terms of any loan or increment guaranteed under this section shall be 30 years with semiannual payments of interest only over the first 10 years, and with semiannual payments of principal and interest on a level payment basis, over the last 20 years thereof, except that the guaranteed loan or any increments issued in a single transaction may include obligations having different maturities, interest rates, and payment terms if the aggregate scheduled debt service for all obligations issued in a single transaction equals the debt service for a single loan or increment of like amount having the standard terms described in this sentence. The guarantor shall not have the right to accelerate any guaranteed loan or increment or to pay any amounts in respect of the guarantees issued other than in accordance with the original payment terms of the loan. For purposes of determining the maximum principal amount of any loan or increment to be guaranteed under this section, the principal amount of each such loan or increment shall be—
+(2) The standard terms of any loan or increment guaranteed under this section shall be 30 years with semiannual payments of interest only over the first 10 years, and with semiannual payments of principal and interest on a level payment basis, over the last 20 years thereof, except that the guaranteed loan or any increments issued in a single transaction may include obligations having different maturities, interestrates, and payment terms if the aggregate scheduled debt service for all obligations issued in a single transaction equals the debt service for a single loan or increment of like amount having the standard terms described in this sentence. The guarantor shall not have the right to accelerate any guaranteed loan or increment or to pay any amounts in respect of the guarantees issued other than in accordance with the original payment terms of the loan. For purposes of determining the maximum principal amount of any loan or increment to be guaranteed under this section, the principal amount of each such loan or increment shall be—
 
 &emsp;(A) in the case of any loan issued on a discount basis, the original issue price (excluding any transaction costs) thereof; or
 
@@ -92,5 +92,5 @@ Section 601(b) of the International Security Assistance and Arms Export Control 
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “issued”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "issued".</i>
 

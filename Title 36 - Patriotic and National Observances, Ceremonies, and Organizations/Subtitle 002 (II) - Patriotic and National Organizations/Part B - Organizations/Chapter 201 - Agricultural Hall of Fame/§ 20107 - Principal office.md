@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 31, 1960, Pub. L. 86–680, §5(a), 74 Stat. 574.
 
-The word “various” is omitted as unnecessary.
+The word "various" is omitted as unnecessary.
 

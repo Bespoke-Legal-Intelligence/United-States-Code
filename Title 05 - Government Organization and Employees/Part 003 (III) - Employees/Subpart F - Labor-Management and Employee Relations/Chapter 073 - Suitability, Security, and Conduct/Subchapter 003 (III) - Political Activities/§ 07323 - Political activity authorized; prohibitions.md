@@ -92,9 +92,9 @@ A prior section 7323, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited 
 
 #### Effective Date of 2004 Amendment
 
-For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of Title 50, War and National Defense.
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of Title 50, War and National Defense.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of Title 50, War and National Defense.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of Title 50, War and National Defense.
 
 #### Effective Date of 2002 Amendment
 

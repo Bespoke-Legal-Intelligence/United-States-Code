@@ -22,7 +22,7 @@ In order to carry out the objectives of this section, the Secretary may by regul
 
 <b>1974</b>—Subsec. (d). Pub. L. 93–259 added subsec. (d).
 
-<b>1961</b>—Subsec. (c). Pub. L. 87–30 inserted “or in any enterprise engaged in commerce or in the production of goods for commerce”.
+<b>1961</b>—Subsec. (c). Pub. L. 87–30 inserted "or in any enterprise engaged in commerce or in the production of goods for commerce".
 
 <b>1949</b>—Subsec. (a). Act Oct. 26, 1949, §10(a), struck out effective date at beginning of subsection and inserted proviso excepting good faith purchaser of goods produced by oppressive child labor.
 
@@ -44,5 +44,5 @@ Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see s
 
 For transfer of functions of other officers, employees, and agencies of Department of Labor, with certain exceptions, to Secretary of Labor, with power to delegate, see Reorg. Plan No. 6 of 1950, §§1, 2, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
-“Secretary of Labor” substituted for “Chief of the Children's Bureau in the Department of Labor” in subsec. (b) by 1946 Reorg. Plan No. 2. See note set out under section 203 of this title.
+"Secretary of Labor" substituted for "Chief of the Children's Bureau in the Department of Labor" in subsec. (b) by 1946 Reorg. Plan No. 2. See note set out under section 203 of this title.
 

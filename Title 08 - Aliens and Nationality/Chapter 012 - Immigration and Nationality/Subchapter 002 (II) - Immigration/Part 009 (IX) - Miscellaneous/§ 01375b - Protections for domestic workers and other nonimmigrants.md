@@ -1,10 +1,10 @@
 ### §1375b. Protections for domestic workers and other nonimmigrants
 
-#### (a) Information pamphlet
+#### (a) Information pamphlet and video for consular waiting rooms
 
 #### (1) Development and distribution
 
-&emsp;The Secretary of State, in consultation with the Secretary of Homeland Security, the Attorney General, and the Secretary of Labor, shall develop an information pamphlet on legal rights and resources for aliens applying for employment- or education-based nonimmigrant visas.
+&emsp;The Secretary of State, in consultation with the Secretary of Homeland Security, the Attorney General, and the Secretary of Labor, shall develop an information pamphlet and video on legal rights and resources for aliens applying for employment- or education-based nonimmigrant visas. The video shall be distributed and shown in consular waiting rooms in embassies and consulates appropriate to the circumstances that are determined to have the greatest concentration of employment or education-based non-immigrant visa applicants, and where sufficient video facilities exist in waiting or other rooms where applicants wait or convene. The Secretary of State is authorized to augment video facilities in such consulates or embassies in order to fulfill the purposes of this section.
 
 #### (2) Consultation
 
@@ -12,7 +12,7 @@
 
 #### (b) Contents
 
-The information pamphlet developed under subsection (a) shall include information concerning items such as—
+The information pamphlet and video developed under subsection (a) shall include information concerning items such as—
 
 &emsp;(1) the nonimmigrant visa application processes, including information about the portability of employment;
 
@@ -46,21 +46,21 @@ The information pamphlet developed under subsection (a) shall include informatio
 
 #### (1) In general
 
-&emsp;To best serve the language groups having the greatest concentration of employment-based nonimmigrant visas, the Secretary of State shall translate the information pamphlet developed under subsection (a) into all relevant foreign languages, to be determined by the Secretary based on the languages spoken by the greatest concentrations of employment- or education-based nonimmigrant visa applicants.
+&emsp;To best serve the language groups having the greatest concentration of employment-based nonimmigrant visas, the Secretary of State shall translate the information pamphlet and produce or dub the video developed under subsection (a) into all relevant foreign languages, to be determined by the Secretary based on the languages spoken by the greatest concentrations of employment- or education-based nonimmigrant visa applicants.
 
 #### (2) Revision
 
-&emsp;Every 2 years, the Secretary of State, in consultation with the Attorney General and the Secretary of Homeland Security, shall determine the specific languages into which the information pamphlet will be translated basedon the languages spoken by the greatest concentrations of employment- or education-based nonimmigrant visa applicants.
+&emsp;Every 2 years, the Secretary of State, in consultation with the Attorney General andthe Secretary of Homeland Security, shall determine the specific languages into which the information pamphlet will be translated and the video produced or dubbed based on the languages spoken by the greatest concentrations of employment- or education-based nonimmigrant visa applicants.
 
 #### (d) Availability and distribution
 
 #### (1) Posting on Federal websites
 
-&emsp;The information pamphlet developed under subsection (a) shall be posted on the websites of the Department of State, the Department of Homeland Security, the Department of Justice, the Department of Labor, and all United States consular posts processing applications for employment- or education-based nonimmigrant visas.
+&emsp;The information pamphlet and video developed under subsection (a) shall be posted on the websites of the Department of State, the Department of Homeland Security, the Department of Justice, the Department of Labor, and all United States consular posts processing applications for employment- or education-based nonimmigrant visas.
 
 #### (2) Other distribution
 
-&emsp;The information pamphlet developed under subsection (a) shall be made available to any—
+&emsp;The information pamphlet and video developed under subsection (a) shall be made available to any—
 
 &emsp;&emsp;(A) government agency;
 
@@ -71,6 +71,10 @@ The information pamphlet developed under subsection (a) shall include informatio
 #### (3) Deadline for pamphlet development and distribution
 
 &emsp;Not later than 180 days after December 23, 2008, the Secretary of State shall distribute and make available the information pamphlet developed under subsection (a) in all the languages referred to in subsection (c).
+
+#### (4) Deadline for video development and distribution
+
+&emsp;Not later than 1 year after March 7, 2013, the Secretary of State shall make available the video developed under subsection (a) produced or dubbed in all the languages referred to in subsection (c).
 
 #### (e) Responsibilities of consular officers of the Department of State
 
@@ -128,9 +132,27 @@ In this section:
 
 &emsp;The term “abusing and exploiting” means any conduct which would constitute a violation of section 1466A, 1589, 1591, 1592, 2251, or 2251A of title 18.
 
-(Pub. L. 110–457, title II, §202, Dec. 23, 2008, 122 Stat. 5055.)
+(Pub. L. 110–457, title II, §202, Dec. 23, 2008, 122 Stat. 5055; Pub. L. 113–4, title XII, §1206, Mar. 7, 2013, 127 Stat. 140.)
 
 #### Codification
 
 Section was enacted as part of the William Wilberforce Trafficking Victims Protection Reauthorization Act of 2008, and not as part of the Immigration and Nationality Act which comprises this chapter.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (a). Pub. L. 113–4, §1206(1)(A), inserted “and video for consular waiting rooms” after “Information pamphlet” in heading.
+
+Subsec. (a)(1). Pub. L. 113–4, §1206(1)(B), inserted “and video” after “information pamphlet” and inserted at end “The video shall be distributed and shown in consular waiting rooms in embassies and consulates appropriate to the circumstances that are determined to have the greatest concentration of employment or education-based non-immigrant visa applicants, and where sufficient video facilities exist in waiting or other rooms where applicants wait or convene. The Secretary of State is authorized to augment video facilities in such consulates or embassies in order to fulfill the purposes of this section.”
+
+Subsec. (b). Pub. L. 113–4, §1206(2), inserted “and video” after “information pamphlet” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 113–4, §1206(3)(A), inserted “and produce or dub the video” after “information pamphlet”.
+
+Subsec. (c)(2). Pub. L. 113–4, §1206(3)(B), inserted “and the video produced or dubbed” after “translated”.
+
+Subsec. (d)(1). Pub. L. 113–4, §1206(4)(A), inserted “and video” after “information pamphlet”.
+
+Subsec. (d)(2). Pub. L. 113–4, §1206(4)(B), inserted “and video” after “information pamphlet” in introductory provisions.
+
+Subsec. (d)(4). Pub. L. 113–4, §1206(4)(C), added par. (4).
 

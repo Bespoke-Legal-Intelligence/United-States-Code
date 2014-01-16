@@ -52,7 +52,7 @@
 |  |  |
 | :--- | ---: |
 | [3391\.](Subchapter%20004%20%28IV%29%20-%20Natural%20Gas%20Curtailment%20Policies/%C2%A7%2003391%20-%20Natural%20gas%20for%20essential%20agricultural%20uses.md) | Natural gas for essential agricultural uses. |
-| [3391a.](Subchapter%20004%20%28IV%29%20-%20Natural%20Gas%20Curtailment%20Policies/%C2%A7%2003391a%20-%20%E2%80%9CEssential%20agricultural%20use%E2%80%9D%20defined.md) | “Essential agricultural use” defined. |
+| [3391a.](Subchapter%20004%20%28IV%29%20-%20Natural%20Gas%20Curtailment%20Policies/%C2%A7%2003391a%20-%20Essential%20agricultural%20use%20defined.md) | "Essential agricultural use" defined. |
 | [3392\.](Subchapter%20004%20%28IV%29%20-%20Natural%20Gas%20Curtailment%20Policies/%C2%A7%2003392%20-%20Natural%20gas%20for%20essential%20industrial%20process%20and%20feedstock%20uses.md) | Natural gas for essential industrial process and feedstock uses. |
 | [3393\.](Subchapter%20004%20%28IV%29%20-%20Natural%20Gas%20Curtailment%20Policies/%C2%A7%2003393%20-%20Establishment%20and%20implementation%20of%20priorities.md) | Establishment and implementation of priorities. |
 | [3394\.](Subchapter%20004%20%28IV%29%20-%20Natural%20Gas%20Curtailment%20Policies/%C2%A7%2003394%20-%20Limitation%20on%20revoking%20or%20amending%20certain%20pre-1969%20certificates%20of%20public%20convenience%20and%20necessity.md) | Limitation on revoking or amending certain pre-1969 certificates of public convenience and necessity. |

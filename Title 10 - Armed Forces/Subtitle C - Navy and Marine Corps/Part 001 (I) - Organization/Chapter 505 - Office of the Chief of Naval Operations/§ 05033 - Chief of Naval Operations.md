@@ -32,7 +32,7 @@
 
 (2) To the extent that such action does not impair the independence of the Chief of Naval Operations in the performance of his duties as a member of the Joint Chiefs of Staff, the Chief of Naval Operations shall inform the Secretary regarding military advice rendered by members of the Joint Chiefs of Staff on matters affecting the Department of the Navy.
 
-(3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief of Naval Operations shall keep the Secretary of the Navy fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
+(3) Subject to the authority, direction, and control of the Secretary of Defense, the Chief ofNaval Operations shall keep the Secretary of the Navy fully informed of significant military operations affecting the duties and responsibilities of the Secretary.
 
 (Added Pub. L. 99–433, title V, §512(b), Oct. 1, 1986, 100 Stat. 1049; amended Pub. L. 100–456, div. A, title V, §519(a)(3), Sept. 29, 1988, 102 Stat. 1972; Pub. L. 108–136, div. A, title V, §501(a), Nov. 24, 2003, 117 Stat. 1456.)
 
@@ -44,13 +44,13 @@ A prior section 5033, acts Aug. 10, 1956, ch. 1041, 70A Stat. 279; Sept. 2, 1958
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136 substituted “from the flag officers of the Navy” for “from officers on theactive-duty list in the line of the Navy who are eligible to command at sea and who hold the grade of rear admiral or above”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136 substituted "from the flag officers of the Navy" for "from officers on the active-duty list in the line of the Navy who are eligible to command at sea and who hold the grade of rear admiral or above".
 
-<b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–456 substituted “full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)” for “joint duty assignment”.
+<b>1988</b>—Subsec. (a)(2)(B). Pub. L. 100–456 substituted "full tour of duty in a joint duty assignment (as defined in section 664(f) of this title)" for "joint duty assignment".
 
 #### Reappointment of Incumbent Chief of Naval Operations
 
-Pub. L. 108–136, div. A, title V, §508, Nov. 24, 2003, 117 Stat. 1458, provided that: “Notwithstanding the provisions of section 5033(a)(1) of title 10, United States Code, the President, by and with the advice and consent of the Senate, may reappoint the officer serving as Chief of Naval Operations on October 1, 2003, for an additional term as Chief of Naval Operations. Such a reappointment shall be for a term of not more than two years.”
+Pub. L. 108–136, div. A, title V, §508, Nov. 24, 2003, 117 Stat. 1458, provided that: "Notwithstanding the provisions of section 5033(a)(1) of title 10, United States Code, the President, by and with the advice and consent of the Senate, may reappoint the officer serving as Chief of Naval Operations on October 1, 2003, for an additional term as Chief of Naval Operations. Such a reappointment shall be for a term of not more than two years."
 
 #### Waiver of Qualifications for Appointment as Service Chief
 

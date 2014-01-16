@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Community food project
 
-&emsp;In this section, the term “community food project” means a community-based project that—
+&emsp;In this section, the term "community food project" means a community-based project that—
 
 &emsp;&emsp;(A) requires a 1-time contribution of Federal assistance to become self-sustaining; and
 
@@ -28,11 +28,11 @@ In this section:
 
 #### (2) Center
 
-&emsp;The term “Center” means the healthy urban food enterprise development center established under subsection (h).
+&emsp;The term "Center" means the healthy urban food enterprise development center established under subsection (h).
 
 #### (3) Underserved community
 
-&emsp;The term “underserved community” means a community (including an urban or rural community or an Indian tribe) that, as determined by the Secretary, has—
+&emsp;The term "underserved community" means a community (including an urban or rural community or an Indian tribe) that, as determined by the Secretary, has—
 
 &emsp;&emsp;(A) limited access to affordable, healthy foods, including fresh fruits and vegetables;
 
@@ -126,7 +126,7 @@ In selecting community food projects to receive assistance under subsection (b) 
 
 #### (1) Definition of eligible entity
 
-&emsp;In this subsection, the term “eligible entity” means—
+&emsp;In this subsection, the term "eligible entity" means—
 
 &emsp;&emsp;(A) a nonprofit organization;
 
@@ -154,7 +154,7 @@ In selecting community food projects to receive assistance under subsection (b) 
 
 #### (A) Technical assistance and information
 
-&emsp;&emsp;The Center shall collect, develop, and provide technical assistance and information to small and medium-sized agricultural producers, food wholesalers and retailers, schools, and other individuals and entities regarding best practices and the availability of assistance for aggregating, storing, processing, and marketing locally produced agricultural products and increasing the availability of such products in underserved communities.
+&emsp;&emsp;The Center shall collect, develop, and provide technical assistance and information to small and medium-sized agricultural producers, food wholesalers and retailers, schools,and other individuals and entities regarding best practices and the availability of assistance for aggregating, storing, processing, and marketing locally produced agricultural products and increasing the availability of such products in underserved communities.
 
 #### (B) Authority to subgrant
 
@@ -206,7 +206,7 @@ In selecting community food projects to receive assistance under subsection (b) 
 
 #### (1) In general
 
-&emsp;The Secretary shall offer to enter into a contract with, or make a grant to, 1 nongovernmental organization that meets the requirements of paragraph (2) to coordinate with Federal agencies, States, political subdivisions, and nongovernmental organizations (collectively referred to in this subsection as “targeted entities”) to gather information, and recommend to the targeted entities, innovative programs for addressing common community problems, including—
+&emsp;The Secretary shall offer to enter into a contract with, or make a grant to, 1 nongovernmental organization that meets the requirements of paragraph (2) to coordinate with Federal agencies, States, political subdivisions, and nongovernmental organizations (collectively referred to in this subsection as "targeted entities") to gather information, and recommend to the targeted entities, innovative programs for addressing common community problems, including—
 
 &emsp;&emsp;(A) loss of farms and ranches;
 
@@ -266,35 +266,35 @@ In selecting community food projects to receive assistance under subsection (b) 
 
 #### Codification
 
-Section 4406(a)(7) of Pub. L. 110–246 directed amendment of section 25 of the “Food and Nutrition Act of 2008” which is classified to this section. Pub. L. 110–380, which directed amendment of section 4406(a)(7) of the “Food, Conservation, and Energy Act of 2008 (Public Law 110–234; 122 Stat. 2902)” by striking “Food and Nutrition Act of 2008” and inserting “Food Stamp Act of 1977” was treated as intending to amend section 4406(a)(7) of Pub. L. 110–246 which was identical to section 4406(a)(7) of Pub. L. 110–234. However, since the amendment by Pub. L. 110–380 was effective Oct. 8, 2008, and the amendment by section 4406(a)(7) of Pub. L. 110–246 was effective Oct. 1, 2008, Pub. L. 110–380 had no effect on the execution of the amendment by section 4406(a)(7) of Pub. L. 110–246 to this section.
+Section 4406(a)(7) of Pub. L. 110–246 directed amendment of section 25 of the "Food and Nutrition Act of 2008" which is classified to this section. Pub. L. 110–380, which directed amendment of section 4406(a)(7) of the "Food, Conservation, and Energy Act of 2008 (Public Law 110–234; 122 Stat. 2902)" by striking "Food and Nutrition Act of 2008" and inserting "Food Stamp Act of 1977" was treated as intending to amend section 4406(a)(7) of Pub. L. 110–246 which was identical to section 4406(a)(7) of Pub. L. 110–234. However, since the amendment by Pub. L. 110–380 was effective Oct. 8, 2008, and the amendment by section 4406(a)(7) of Pub. L. 110–246 was effective Oct. 1, 2008, Pub. L. 110–380 had no effect on the execution of the amendment by section 4406(a)(7) of Pub. L. 110–246 to this section.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §4402(1), added subsec. (a) and struck out former subsec. (a) which defined “community food project”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §4402(1), added subsec. (a) and struck out former subsec. (a) which defined "community food project".
 
-Subsec. (b)(2)(B). Pub. L. 110–246, §4406(a)(7)(A), as amended by Pub. L. 110–380, substituted “for fiscal year 2008 and each fiscal year thereafter” for “for each of fiscal years 1997 through 2007”. See Codification note above.
+Subsec. (b)(2)(B). Pub. L. 110–246, §4406(a)(7)(A), as amended by Pub. L. 110–380, substituted "for fiscal year 2008 and each fiscal year thereafter" for "for each of fiscal years 1997 through 2007". See Codification note above.
 
 Subsecs. (h), (i). Pub. L. 110–246, §4402(2), (3), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-Subsec. (i)(4). Pub. L. 110–246, §4406(a)(7)(B), as amended by Pub. L. 110–380, substituted “each fiscal year thereafter” for “each of fiscal years 2003 through 2007”. See Codification note above.
+Subsec. (i)(4). Pub. L. 110–246, §4406(a)(7)(B), as amended by Pub. L. 110–380, substituted "each fiscal year thereafter" for "each of fiscal years 2003 through 2007". See Codification note above.
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–171, §4125(a)(1), designated pars. (1) to (3) as subpars. (A) to (C) of par. (1), respectively, and added par. (2).
 
-Subsec. (b)(2)(B). Pub. L. 107–171, §4125(a)(2), substituted “$5,000,000” for “$2,500,000” and “2007” for “2002”.
+Subsec. (b)(2)(B). Pub. L. 107–171, §4125(a)(2), substituted "$5,000,000" for "$2,500,000" and "2007" for "2002".
 
-Subsec. (d)(4). Pub. L. 107–171, §4125(a)(3), added par. (4) and struck out former par. (4) which read as follows: “encourage long-term planning activities and multi-system, interagency approaches.”
+Subsec. (d)(4). Pub. L. 107–171, §4125(a)(3), added par. (4) and struck out former par. (4) which read as follows: "encourage long-term planning activities and multi-system, interagency approaches."
 
 Subsec. (h). Pub. L. 107–171, §4125(a)(4), added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows:
 
-“(1)
+"(1)
 
 In general.—The Secretary shall provide for the evaluation of the success of community food projects supported using funds under this section.
 
-“(2)
+"(2)
 
-Report.—Not later than January 30, 2002, the Secretary shall submit a report to Congress regarding the results of the evaluation.”
+Report.—Not later than January 30, 2002, the Secretary shall submit a report to Congress regarding the results of the evaluation."
 
 #### Effective Date of 2008 Amendment
 
@@ -304,5 +304,5 @@ Amendment by sections 4402 and 4406(a)(7) of Pub. L. 110–246 effective Oct. 1,
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–171, title IV, §4125(b), May 13, 2002, 116 Stat. 327, provided that: “The amendments made by this section \[amending this section\] take effect on the date of enactment of this Act \[May 13, 2002\].”
+Pub. L. 107–171, title IV, §4125(b), May 13, 2002, 116 Stat. 327, provided that: "The amendments made by this section \[amending this section\] take effect on the date of enactment of this Act \[May 13, 2002\]."
 

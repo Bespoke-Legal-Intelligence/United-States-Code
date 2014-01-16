@@ -60,7 +60,7 @@ Subsection (a) does not apply to the approval of—
 
 #### (1) Definition
 
-&emsp;In this section, the term “qualifying pathogen” means a pathogen identified and listed by the Secretary under paragraph (2) that has the potential to pose a serious threat to public health, such as—
+&emsp;In this section, the term "qualifying pathogen" means a pathogen identified and listed by the Secretary under paragraph (2) that has the potential to pose a serious threat to public health, such as—
 
 &emsp;&emsp;(A) resistant gram positive pathogens, including methicillin-resistant Staphylococcus aureus, vancomycin-resistant Staphylococcus aureus, and vancomycin-resistant enterococcus;
 
@@ -98,7 +98,7 @@ Subsection (a) does not apply to the approval of—
 
 #### (g) Qualified infectious disease product
 
-The term “qualified infectious disease product” means an antibacterial or antifungal drug for human use intended to treat serious or life-threatening infections, including those caused by—
+The term "qualified infectious disease product" means an antibacterial or antifungal drug for human use intended to treat serious or life-threatening infections, including those caused by—
 
 &emsp;(1) an antibacterial or antifungal resistant pathogen, including novel or emerging infectious pathogens; or
 
@@ -108,5 +108,5 @@ The term “qualified infectious disease product” means an antibacterial or an
 
 #### Effective Date
 
-Pub. L. 112–144, title VIII, §801(b), July 9, 2012, 126 Stat. 1079, provided that: “Section 505E of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355f\], as added by subsection (a), applies only with respect to a drug that is first approved under section 505(c) of such Act (21 U.S.C. 355(c)) on or after the date of the enactment of this Act \[July 9, 2012\].”
+Pub. L. 112–144, title VIII, §801(b), July 9, 2012, 126 Stat. 1079, provided that: "Section 505E of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 355f\], as added by subsection (a), applies only with respect to a drug that is first approved under section 505(c) of such Act (21 U.S.C. 355(c)) on or after the date of the enactment of this Act \[July 9, 2012\]."
 

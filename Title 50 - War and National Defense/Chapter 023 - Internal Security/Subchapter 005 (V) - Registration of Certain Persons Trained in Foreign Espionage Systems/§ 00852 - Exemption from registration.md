@@ -14,7 +14,7 @@ The registration requirements of section 851 of this title do not apply to any p
 
 &emsp;(f) who is an official of a foreign government recognized by the United States, whose name and status and the character of whose duties as such official are of record in the Department of State, and while he is engaged exclusively in activities which are recognized by the Department of State as being within the scope of the functions of such official, and any member of his immediate family who resides with him;
 
-&emsp;(g) who is a member of the staff of or employed by a duly accredited diplomatic or consular officer of a foreign government who is sorecognized by the Department of State, and whose name and status and the character of whose duties as such member or employee are a matter of record in the Department of State, while he is engaged exclusively in the performance of activities recognized by the Department of State as being within the scope of the functions of such member or employee;
+&emsp;(g) who is a member of the staff of or employed by a duly accredited diplomatic or consular officer of a foreign government who is so recognized by the Department of State, and whose name and status and the character of whose duties as such member or employee are a matter of record in the Department of State, while he is engaged exclusively in the performance of activities recognized by the Department of State as being within the scope of the functions of such member or employee;
 
 &emsp;(h) Who <sup>1</sup> is an officially acknowledged and sponsored representative of a foreign government and is in the United States on an official mission for the purpose of conferring or otherwise cooperating with United States intelligence or security personnel;
 
@@ -30,7 +30,7 @@ Section was not enacted as part of the Internal Security Act of 1950 which compr
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

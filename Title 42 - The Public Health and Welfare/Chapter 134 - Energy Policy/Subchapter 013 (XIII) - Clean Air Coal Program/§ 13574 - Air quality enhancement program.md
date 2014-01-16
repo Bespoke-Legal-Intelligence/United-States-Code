@@ -38,5 +38,5 @@ No technology, or level of emission reduction under subsection (a)(2) of this se
 
 (Pub. L. 102–486, title XXXI, §3104, as added Pub. L. 109–58, title IV, §421(a), Aug. 8, 2005, 119 Stat. 759.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “purposes of section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "purposes of section".</i>
 

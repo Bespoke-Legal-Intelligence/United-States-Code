@@ -44,29 +44,29 @@ Historical and Revision Notes
 
 40:761.
 
-Pub. L. 98–63, title I, §101 (1st–9th sentences in par. under heading “Consumer Information Center Fund”), July 30, 1983, 97 Stat. 321.
+Pub. L. 98–63, title I, §101 (1st–9th sentences in par. under heading "Consumer Information Center Fund"), July 30, 1983, 97 Stat. 321.
 
 323(e)
 
 40:761a.
 
-Pub. L. 105–65, title III, (last proviso in par. under heading “Consumer Information Center Fund”), Oct. 27, 1997, 111 Stat. 1377.
+Pub. L. 105–65, title III, (last proviso in par. under heading "Consumer Information Center Fund"), Oct. 27, 1997, 111 Stat. 1377.
 
 In this section, the text of 40:761 (6th–last sentences) is omitted as obsolete.
 
-In subsection (a), the words “Notwithstanding any other provision of law” are omitted as unnecessary.
+In subsection (a), the words "Notwithstanding any other provision of law" are omitted as unnecessary.
 
-In subsection (b), the words “for fiscal year 1983 and subsequent fiscal years” are omitted as obsolete and unnecessary.
+In subsection (b), the words "for fiscal year 1983 and subsequent fiscal years" are omitted as obsolete and unnecessary.
 
-In subsection (e), the words “Notwithstanding any other provision of law” and “during fiscal year 1998 and hereafter” are omitted as unnecessary.
+In subsection (e), the words "Notwithstanding any other provision of law" and "during fiscal year 1998 and hereafter" are omitted as unnecessary.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–8 substituted “Federal Citizen Services” for “Consumer Information Center” and struck out “consumer” after “Federal Government”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–8 substituted "Federal Citizen Services" for "Consumer Information Center" and struck out "consumer" after "Federal Government".
 
-Subsec. (b)(1). Pub. L. 111–8 substituted “Federal Citizen Services” for “Consumer Information Center”.
+Subsec. (b)(1). Pub. L. 111–8 substituted "Federal Citizen Services" for "Consumer Information Center".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Federal Citizen Services Fund”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Federal Citizen Services Fund".</i>
 
 <i><sup>2</sup></i><i> So in original. See 2009 Amendment notes below.</i>
 

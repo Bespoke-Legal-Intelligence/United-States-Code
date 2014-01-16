@@ -38,7 +38,7 @@ Authority of the administrator.—In order to carry out any project under the pr
 
 &emsp;&emsp;(C) seek to coordinate all reviews or requirements with appropriate local, State, and Federal agencies; and
 
-&emsp;&emsp;(D) provide such technical assistance to port authorities or commissions or their subdivisions and agents as needed for project planning, design, and construction.
+&emsp;&emsp;(D) provide such technical assistance and financial assistance, including grants, to port authorities or commissions or their subdivisions and agents as needed for project planning, design, and construction.
 
 &emsp;(3)
 
@@ -106,7 +106,7 @@ Limitation on statutory construction.—Nothing in this section shall be constru
 
 Authorization of appropriations.—There are authorized to be appropriated to the Fund such sums as may be necessary to carry out the program, taking into account amounts received under paragraph (3)(A)(ii).
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1564; Pub. L. 111–84, div. C, title XXXV, §3512, Oct. 28, 2009, 123 Stat. 2722.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1564; Pub. L. 111–84, div. C, title XXXV, §3512, Oct. 28, 2009, 123 Stat. 2722; Pub. L. 113–66, div. C, title XXXV, §3505(b), Dec. 26, 2013, 127 Stat. 1086.)
 
 Historical and Revision Notes
 
@@ -128,9 +128,9 @@ June 5, 1920, ch. 250, §8, 41 Stat. 992; Exec. Order No. 6166, June 10, 1933, �
 
 46 App.:867 (proviso).
 
-In subsection (a), before paragraph (1), the words “Secretary of the Army” are substituted for “Secretary of War” in section 8 of the Merchant Marine Act, 1920 (ch. 250, 41 Stat. 992) because of section 205(a) of the National Security Act of 1947 (ch. 343, 61 Stat. 501). See 10 U.S.C. 3011 et seq. In paragraph (3), the words “apparatus” and “appliances” are omitted as unnecessary. In paragraph (4), the words “consult with” are substituted for “advise with” as being more grammatical.
+In subsection (a), before paragraph (1), the words "Secretary of the Army" are substituted for "Secretary of War" in section 8 of the Merchant Marine Act, 1920 (ch. 250, 41 Stat. 992) because of section 205(a) of the National Security Act of 1947 (ch. 343, 61 Stat. 501). See 10 U.S.C. 3011 et seq. In paragraph (3), the words "apparatus" and "appliances" are omitted as unnecessary. In paragraph (4), the words "consult with" are substituted for "advise with" as being more grammatical.
 
-In subsection (b), the words “rates or practices” are substituted for “rates, charges, rules, or regulations” for consistency in the revised title and with other titles of the United States Code.
+In subsection (b), the words "rates or practices" are substituted for "rates, charges, rules, or regulations" for consistency in the revised title and with other titles of the United States Code.
 
 #### References in Text
 
@@ -142,7 +142,7 @@ Section 250 of the Balanced Budget and Emergency Deficit Control Act of 1985, re
 
 The date of enactment of this subsection, referred to in subsec. (c)(3)(C)(iii)(II)(aa), is the date of enactment of Pub. L. 111–84, which was approved Oct. 28, 2009.
 
-The American Recovery and Reinvestment Act of 2009, referred to in subsec. (c)(3)(C)(iii)(II)(bb), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. The provisions of title XII of div. A of the Act making appropriations are not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
+The American Recovery and Reinvestment Act of 2009, referred to in subsec. (c)(3)(C)(iii)(II)(bb), is Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 115. The provisions oftitle XII of div. A of the Act making appropriations are not classified to the Code. For complete classification of this Act to the Code, see Short Title of 2009 Amendment note set out under section 1 of Title 26, Internal Revenue Code, and Tables.
 
 Section 9008 of Public Law 109–59, referred to in subsec. (c)(3)(D), is section 9008 of Pub. L. 109–59, title IX, Aug. 10, 2005, 119 Stat. 1926, which is not classified to the Code.
 
@@ -152,5 +152,19 @@ Section 3512 of Public Law 110–417, referred to in subsec. (c)(3)(D), is class
 
 #### Amendments
 
+<b>2013</b>—Subsec. (c)(2)(D). Pub. L. 113–66 inserted "and financial assistance, including grants," after "technical assistance".
+
 <b>2009</b>—Subsec. (c). Pub. L. 111–84 added subsec. (c).
+
+#### Strategic Seaports
+
+Pub. L. 113–66, div. C, title XXXV, §3505(a), Dec. 26, 2013, 127 Stat. 1086, provided that:
+
+"(1)
+
+In general.—Under the port infrastructure development program established under section 50302(c) of title 46, United States Code, the Maritime Administrator, in consultation with the Secretary of Defense, may give priority to providing funding to strategic seaports in support of national security requirements.
+
+"(2)
+
+Strategic seaport defined.—In this subsection the term 'strategic seaport' means a military port or and \[sic\] commercial port that is subject to a port planning order or Basic Ordering Agreement (or both) that is projected to be used for the deployment of forces and shipment of ammunition or sustainment supplies in support of military operations."
 

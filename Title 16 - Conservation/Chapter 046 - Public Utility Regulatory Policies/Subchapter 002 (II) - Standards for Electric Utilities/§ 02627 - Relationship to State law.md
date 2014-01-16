@@ -6,7 +6,7 @@ Nothing in this chapter shall authorize or require the recovery by an electric u
 
 #### (b) State authority
 
-Nothing in this chapter prohibits any State regulatory authority or nonregulated electric utility from adopting, pursuant to State law, any standard or rule affecting electric utilities which is different from any standard established by this subchapter.
+Nothing in this chapter prohibits any State regulatory authority or nonregulated electricutility from adopting, pursuant to State law, any standard or rule affecting electric utilities which is different from any standard established by this subchapter.
 
 #### (c) Federal agencies
 
@@ -16,5 +16,5 @@ With respect to any electric utility which is a Federal agency, and with respect
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b), was in the original “this title”, meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original "this title", meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 

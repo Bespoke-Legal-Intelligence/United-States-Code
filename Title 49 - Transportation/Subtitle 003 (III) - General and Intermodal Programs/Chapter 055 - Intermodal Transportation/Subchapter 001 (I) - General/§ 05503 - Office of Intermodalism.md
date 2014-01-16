@@ -116,11 +116,11 @@ The date of enactment of the Motor Carrier Safety Reauthorization Act of 2005, r
 
 #### Amendments
 
-<b>2008</b>—Subsec. (f)(2). Pub. L. 110–244, §301(k)(1), substituted “Motor Carrier Safety Reauthorization Act of 2005” for “Surface Transportation Safety Improvement Act of 2005” in introductory provisions.
+<b>2008</b>—Subsec. (f)(2). Pub. L. 110–244, §301(k)(1), substituted "Motor Carrier Safety Reauthorization Act of 2005" for "Surface Transportation Safety Improvement Act of 2005" in introductory provisions.
 
 Subsecs. (h), (i). Pub. L. 110–244, §301(k)(2), redesignated subsec. (h), relating to authorization of appropriations, as (i) and moved such subsec. to appear in proper order.
 
-<b>2005</b>—Subsec. (e). Pub. L. 109–59, §4149(1), inserted at end “Amounts reserved under section 5504(d) not awarded to States as grants may be used by the Director to provide technical assistance under this subsection.”
+<b>2005</b>—Subsec. (e). Pub. L. 109–59, §4149(1), inserted at end "Amounts reserved under section 5504(d) not awarded to States as grants may be used by the Director to provide technical assistance under this subsection."
 
 Subsecs. (f), (g). Pub. L. 109–59, §4149(2), (3), added subsecs. (f) and (g). Former subsec. (f) redesignated (h) relating to administrative and clerical support.
 
@@ -128,17 +128,17 @@ Subsec. (h). Pub. L. 109–59, §4149(3), added subsec. (h) relating to authoriz
 
 Pub. L. 109–59, §4149(2), redesignated subsec. (f) as (h) relating to administrative and clerical support.
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–426 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary of Transportation shall establish in the Office of the Secretary an Office of Intermodalism.”
+<b>2004</b>—Subsec. (a). Pub. L. 108–426 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The Secretary of Transportation shall establish in the Office of the Secretary an Office of Intermodalism."
 
 <b>1998</b>—Subsecs. (d) to (g). Pub. L. 105–178 redesignated subsecs. (e) to (g) as (d) to (f), respectively, and struck out heading and text of former subsec. (d). Text read as follows:
 
-“(1) The Director shall develop, maintain, and disseminate intermodal transportation data through the Bureau of Transportation Statistics. The Director shall coordinate the collection of data for the data base with the States and metropolitan planning organizations. The data base shall include information on—
+"(1) The Director shall develop, maintain, and disseminate intermodal transportation data through the Bureau of Transportation Statistics. The Director shall coordinate the collection of data for the data base with the States and metropolitan planning organizations. The data base shall include information on—
 
-&emsp;“(A) the volume of property and number of individuals carried in intermodal transportation by relevant classification;
+&emsp;"(A) the volume of property and number of individuals carried in intermodal transportation by relevant classification;
 
-&emsp;“(B) patterns of movement of property and individuals in intermodal transportation by relevant classification by origin and destination; and
+&emsp;"(B) patterns of movement of property and individuals in intermodal transportation by relevant classification by origin and destination; and
 
-&emsp;“(C) public and private investment in intermodal transportation facilities and services.
+&emsp;"(C) public and private investment in intermodal transportation facilities and services.
 
-“(2) The Director shall make information from the data base available to the public.”
+"(2) The Director shall make information from the data base available to the public."
 

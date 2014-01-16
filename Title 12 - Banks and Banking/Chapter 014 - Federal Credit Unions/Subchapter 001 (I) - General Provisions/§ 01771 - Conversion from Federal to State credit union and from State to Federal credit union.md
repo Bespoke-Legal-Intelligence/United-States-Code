@@ -26,11 +26,11 @@ A prior section 1771, act June 26, 1934, ch. 750, §21, as added July 9, 1937, c
 
 #### Amendments
 
-<b>1982</b>—Subsec. (a)(1). Pub. L. 97–320 substituted “of the credit union who vote on the proposal” for “, in person or in writing”, and inserted provision that the written notice of the proposition shall in boldface type state that the issue will be decided by a majority of the members who vote.
+<b>1982</b>—Subsec. (a)(1). Pub. L. 97–320 substituted "of the credit union who vote on the proposal" for ", in person or in writing", and inserted provision that the written notice of the proposition shall in boldface type state that the issue will be decided by a majority of the members who vote.
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–630 substituted “Board” for “Administrator” in two places.
+<b>1978</b>—Subsec. (b). Pub. L. 95–630 substituted "Board" for "Administrator" in two places.
 
-<b>1970</b>—Pub. L. 91–206 substituted “Administration” for “Bureau” and “Administrator” for “Director” wherever appearing.
+<b>1970</b>—Pub. L. 91–206 substituted "Administration" for "Bureau" and "Administrator" for "Director" wherever appearing.
 
 #### Effective Date of 1978 Amendment
 

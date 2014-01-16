@@ -20,11 +20,11 @@ Nothing in this section shall apply to any consumer product, the export of which
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–314, §221(a)(1), substituted “any product which is not in conformity with an applicable consumer product safety rule in effect under this chapter,” for “any product—
+<b>2008</b>—Subsec. (b). Pub. L. 110–314, §221(a)(1), substituted "any product which is not in conformity with an applicable consumer product safety rule in effect under this chapter," for "any product—
 
-&emsp;“(1) which is not in conformity with an applicable consumer product safety standard in effect under this chapter, or
+&emsp;"(1) which is not in conformity with an applicable consumer product safety standard in effect under this chapter, or
 
-&emsp;“(2) which is declared to be a banned hazardous substance by a rule promulgated under section 2058 of this title,”.
+&emsp;"(2) which is declared to be a banned hazardous substance by a rule promulgated under section 2058 of this title,".
 
 Subsecs. (c), (d). Pub. L. 110–314, §221(a)(2), added subsecs. (c) and (d).
 

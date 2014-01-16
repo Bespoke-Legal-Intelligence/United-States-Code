@@ -82,7 +82,7 @@ Mar. 4, 1923, ch. 283, §12 (1st–3d, last pars.), 42 Stat. 1509; June 26, 1946
 
 36:137.
 
-Feb. 11, 1927, ch. 104, §1 (5th proviso in par. under heading “American Battle Monuments Commission”), 44 Stat. 1071.
+Feb. 11, 1927, ch. 104, §1 (5th proviso in par. under heading "American Battle Monuments Commission"), 44 Stat. 1071.
 
 &nbsp;
 
@@ -136,33 +136,33 @@ Mar. 4, 1923, ch. 283, §9, 42 Stat. 1509; June 26, 1946, ch. 502, 60 Stat. 317;
 
 36:136.
 
-Feb. 11, 1927, ch. 104, §1 (3d proviso in par. under heading “American Battle Monuments Commission”), 44 Stat. 1071.
+Feb. 11, 1927, ch. 104, §1 (3d proviso in par. under heading "American Battle Monuments Commission"), 44 Stat. 1071.
 
 2103(k)
 
 36:133.
 
-Feb. 11, 1927, ch. 104, §1 (last proviso in par. under heading “American Battle Monuments Commission”), 44 Stat. 1071.
+Feb. 11, 1927, ch. 104, §1 (last proviso in par. under heading "American Battle Monuments Commission"), 44 Stat. 1071.
 
-In this section, the word “terms” is omitted as included in “conditions”.
+In this section, the word "terms" is omitted as included in "conditions".
 
-In subsection (a), before clause (1), the words “or appropriations” are omitted because of 1:1. In clauses (1) and (5), the words “duties and powers” are substituted for “functions” for consistency in the revised title and with other titles of the United States Code. In clause (2), the words “department, agency, or instrumentality” are substituted for “departments” for consistency in the revised title and with other titles of the Code.
+In subsection (a), before clause (1), the words "or appropriations" are omitted because of 1:1. In clauses (1) and (5), the words "duties and powers" are substituted for "functions" for consistency in the revised title and with other titles of the United States Code. In clause (2), the words "department, agency, or instrumentality" are substituted for "departments" for consistency in the revised title and with other titles of the Code.
 
-In subsection (b), the text of 36:137 is omitted as superseded. The words “which has been or may after June 26, 1946, be” and “<i>Provided</i>, That this subsection shall not be effective until the expiration of the Surplus Property Act of 1944” are omitted as obsolete. Section 38 of the Surplus Property Act of 1944 (ch. 479, 58 Stat. 784) provided that the Act was to expire 3 years after the cessation of hostilities of World War II. The cessation of hostilities was proclaimed on December 31, 1946, by Proclamation No. 2714, 12 Fed. Reg. 1. However, section 602(a)(1) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 399) \[renumbered by section 6(a) and (b) of the Act of September 5, 1950 (ch. 849, 64 Stat. 583)\] repealed the Surplus Property Act of 1944 effective July 1, 1949 (except for sections 13(d), (g), and (h), 28, and 32(b)(2)). Section 13(d), concerning power transmission lines, and section 13(g), concerning property for public airports, do not involve the American Battle Monuments Commission. Section 13(h) was repealed by section 2 of the Act of August 4, 1972 (Public Law 92–362, 86 Stat. 504). Section 28 was repealed by section 21 of the Act of June 25, 1948 (ch. 645, 62 Stat. 868). Section 32(b)(2) was repealed by section 111(a)(1) of the Mutual Educational and Cultural Exchange Act of 1961 (Public Law 87–256, 75 Stat. 538).
+In subsection (b), the text of 36:137 is omitted as superseded. The words "which has been or may after June 26, 1946, be" and "<i>Provided</i>, That this subsection shall not be effective until the expiration of the Surplus Property Act of 1944" are omitted as obsolete. Section 38 of the Surplus Property Act of 1944 (ch. 479, 58 Stat. 784) provided that the Act was to expire 3 years after the cessation of hostilities of World War II. The cessation of hostilities was proclaimed on December 31, 1946, by Proclamation No. 2714, 12 Fed. Reg. 1. However, section 602(a)(1) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 399) \[renumbered by section 6(a) and (b) of the Act of September 5, 1950 (ch. 849, 64 Stat. 583)\] repealed the Surplus Property Act of 1944 effective July 1, 1949 (except for sections 13(d), (g), and (h), 28, and 32(b)(2)). Section 13(d), concerning power transmission lines, and section 13(g), concerning property for public airports, do not involve the American Battle Monuments Commission. Section 13(h) was repealed by section 2 of the Act of August 4, 1972 (Public Law 92–362, 86 Stat. 504). Section 28 was repealed by section 21 of the Act of June 25, 1948 (ch. 645, 62 Stat. 868). Section 32(b)(2) was repealed by section 111(a)(1) of the Mutual Educational and Cultural Exchange Act of 1961 (Public Law 87–256, 75 Stat. 538).
 
-In subsection (c), the words “in its discretion”, “by contract or otherwise”, and “firms of architects” are omitted as unnecessary.
+In subsection (c), the words "in its discretion", "by contract or otherwise", and "firms of architects" are omitted as unnecessary.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (h). Pub. L. 112–234 substituted “of section 3515 of title 31” for “of paragraph (2) of this subsection”, struck out par. (1) designation before “The Commission”, and struck out par. (2) which required the Commission to prepare and submit a financial statement by March 1 of each year beginning with 1998 and to obtain an audit by the Comptroller General of each such financial statement.
+<b>2012</b>—Subsec. (h). Pub. L. 112–234 substituted "of section 3515 of title 31" for "of paragraph (2) of this subsection", struck out par. (1) designation before "The Commission", and struck out par. (2) which required the Commission to prepare and submit a financial statement by March 1 of each year beginning with 1998 and to obtain an audit by the Comptroller General of each such financial statement.
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–217 substituted “section 3111 of title 40” for “section 355 of the Revised Statutes (40 U.S.C. 255)”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–217 substituted "section 3111 of title 40" for "section 355 of the Revised Statutes (40 U.S.C. 255)".
 
-<b>1999</b>—Subsec. (d). Pub. L. 106–117, §604(3)(C), substituted “Chairman” for “chairman”.
+<b>1999</b>—Subsec. (d). Pub. L. 106–117, §604(3)(C), substituted "Chairman" for "chairman".
 
-Subsec. (e). Pub. L. 106–117, §602, amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “The Commission may receive State, local, or private amounts to carry out this chapter. The Commission shall deposit the amounts with the Treasurer of the United States. The Treasurer shall keep the amounts in separate accounts and shall disburse the amounts on vouchers approved by the chairman.”
+Subsec. (e). Pub. L. 106–117, §602, amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "The Commission may receive State, local, or private amounts to carry out this chapter. The Commission shall deposit the amounts with the Treasurer of the United States. The Treasurer shall keep the amounts in separate accounts and shall disburse the amounts on vouchers approved by the chairman."
 
-Subsec. (h)(2)(A)(i). Pub. L. 106–117, §604(3)(A), struck out “, United States Code” after “title 31”.
+Subsec. (h)(2)(A)(i). Pub. L. 106–117, §604(3)(A), struck out ", United States Code" after "title 31".
 
-Subsec. (i). Pub. L. 106–117, §604(3)(B), struck out “, United States Code” after “title 44”.
+Subsec. (i). Pub. L. 106–117, §604(3)(B), struck out ", United States Code" after "title 44".
 

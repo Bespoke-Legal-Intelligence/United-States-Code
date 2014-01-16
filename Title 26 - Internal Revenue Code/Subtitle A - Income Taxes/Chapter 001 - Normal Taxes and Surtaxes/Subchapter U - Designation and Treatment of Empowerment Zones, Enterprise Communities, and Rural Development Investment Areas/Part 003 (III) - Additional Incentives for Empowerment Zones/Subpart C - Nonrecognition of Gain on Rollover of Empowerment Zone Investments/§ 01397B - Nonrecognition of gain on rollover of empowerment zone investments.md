@@ -16,13 +16,13 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified empowerment zone asset” means any property which would be a qualified community asset (as defined in section 1400F) if in section 1400F—
+&emsp;&emsp;The term "qualified empowerment zone asset" means any property which would be a qualified community asset (as defined in section 1400F) if in section 1400F—
 
 &emsp;&emsp;&emsp;(i) references to empowerment zones were substituted for references to renewal communities,
 
 &emsp;&emsp;&emsp;(ii) references to enterprise zone businesses (as defined in section 1397C) were substituted for references to renewal community businesses, and
 
-&emsp;&emsp;&emsp;(iii) the date of the enactment of this paragraph were substituted for “December 31, 2001” each place it appears.
+&emsp;&emsp;&emsp;(iii) the date of the enactment of this paragraph were substituted for "December 31, 2001" each place it appears.
 
 #### (B) Treatment of DC zone
 

@@ -22,7 +22,7 @@ The Secretary may award grants to, and enter into contracts with, eligible entit
 
 #### (2) Priority
 
-&emsp;In making awards of grants under this subsection, the Secretary shall give preference toapplicants that have not previously received an award under this subsection (or section 296p(c) of this title as such section existed on the day before March 23, 2010).
+&emsp;In making awards of grants under this subsection, the Secretary shall give preference to applicants that have not previously received an award under this subsection (or section 296p(c) of this title as such section existed on the day before March 23, 2010).
 
 #### (3) Continuation of an award
 
@@ -38,7 +38,7 @@ The Secretary shall submit to the Congress before the end of each fiscal year a 
 
 #### (f) Eligible entity
 
-For purposes of this section, the term “eligible entity” includes an accredited school of nursing, as defined by section 296(2) of this title, a health care facility, or a partnership of such a school and facility.
+For purposes of this section, the term "eligible entity" includes an accredited school of nursing, as defined by section 296(2) of this title, a health care facility, or a partnership of such a school and facility.
 
 #### (g) Authorization of appropriations
 
@@ -56,5 +56,5 @@ Section 297, act July 1, 1944, ch. 373, title VIII, §830, formerly §821, as ad
 
 Section 297–1, act July 1, 1944, ch. 373, title VIII, §831, as added Pub. L. 96–76, title I, §111, Sept. 29, 1979, 93 Stat. 580; amended Pub. L. 97–414, §8(l), Jan. 4, 1983, 96 Stat. 2061; Pub. L. 99–92, §7, Aug. 16, 1985, 99 Stat. 396; Pub. L. 100–607, title VII, §712, Nov. 4, 1988, 102 Stat. 3160; Pub. L. 102–408, title II, §207, Oct. 13, 1992, 106 Stat. 2074, authorized grants for training of nurse anesthetists.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "and" probably should appear.</i>
 

@@ -30,23 +30,23 @@ Nothing in this Act shall authorize the Commission to prescribe specific packagi
 
 #### (e) Cost-benefit analysis not required
 
-Nothing in this Act shall be construed to require the Consumer Product Safety Commission,in establishing a standard under this section, to prepare a comparison of the costs that would be incurred in complying with such standard with the benefits of such standard.
+Nothing in this Act shall be construed to require the Consumer Product Safety Commission, in establishing a standard under this section, to prepare a comparison of the costs that would be incurred in complying with such standard with the benefits of such standard.
 
 (Pub. L. 91–601, §3, Dec. 30, 1970, 84 Stat. 1670; Pub. L. 92–573, §30(a), Oct. 27, 1972, 86 Stat. 1231; Pub. L. 97–414, §9(k), Jan. 4, 1983, 96 Stat. 2065; Pub. L. 110–314, title II, §233, Aug. 14, 2008, 122 Stat. 3073.)
 
 #### References in Text
 
-For classification to the Code of “this Act”, referred to in text, see References in Text note set out under section 1471 of this title.
+For classification to the Code of "this Act", referred to in text, see References in Text note set out under section 1471 of this title.
 
 #### Amendments
 
 <b>2008</b>—Subsec. (e). Pub. L. 110–314 added subsec. (e).
 
-<b>1983</b>—Subsec. (a). Pub. L. 97–414 struck out “, after consultation with the technical advisory committee provided for in section 1475 of this title” after “The Commission”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–414 struck out ", after consultation with the technical advisory committee provided for in section 1475 of this title" after "The Commission".
 
 #### Transfer of Functions
 
-“Commission” substituted for “Secretary”, “it” substituted for “he”, and “its” substituted for “his” wherever appearing in subsecs. (a) to (d) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
+"Commission" substituted for "Secretary", "it" substituted for "he", and "its" substituted for "his" wherever appearing in subsecs. (a) to (d) pursuant to section 30(a) of Pub. L. 92–573, which is classified to section 2079(a) of this title and which transferred functions of Secretary of Health, Education, and Welfare under this chapter to Consumer Product Safety Commission.
 
 <i><sup>1</sup></i><i> Comma retained in amendment by Pub. L. 97–414.</i>
 

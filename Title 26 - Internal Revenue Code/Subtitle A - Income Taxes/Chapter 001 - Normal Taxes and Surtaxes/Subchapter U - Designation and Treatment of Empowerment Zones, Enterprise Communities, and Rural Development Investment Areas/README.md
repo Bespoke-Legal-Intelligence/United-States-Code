@@ -16,7 +16,7 @@ A prior subchapter U consisted of sections 1391 to 1397, prior to repeal by Pub.
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–34, title II, §226(b)(1), Aug. 5, 1997, 111 Stat. 824, added items for parts IV and V and struck out former item for part IV “Regulations”.
+<b>1997</b>—Pub. L. 105–34, title II, §226(b)(1), Aug. 5, 1997, 111 Stat. 824, added items for parts IV and V and struck out former item for part IV "Regulations".
 
 
 ---

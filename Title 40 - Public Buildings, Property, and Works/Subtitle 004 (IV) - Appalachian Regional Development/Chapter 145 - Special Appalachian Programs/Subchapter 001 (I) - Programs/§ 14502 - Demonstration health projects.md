@@ -188,9 +188,9 @@ Pub. L. 89–4, title II, §202(f), as added Pub. L. 105–393, title II, §207(
 
 40 App.:202(e).
 
-In subsection (c)(1)(A)(ii), the words “where the acquisition of such facilities is the most cost-effective means for providing increased health services” are omitted as unnecessary because of the more narrow requirement that the Commission find that but for the acquisition of the facility, the health services would not be otherwise provided in the area served by the facility.
+In subsection (c)(1)(A)(ii), the words "where the acquisition of such facilities is the most cost-effective means for providing increased health services" are omitted as unnecessary because of the more narrow requirement that the Commission find that but for the acquisition of the facility, the health services would not be otherwise provided in the area served by the facility.
 
-In subsection (f)(1), the words “After September 30, 1998” are omitted as obsolete.
+In subsection (f)(1), the words "After September 30, 1998" are omitted as obsolete.
 
 #### References in Text
 
@@ -202,9 +202,9 @@ The Social Security Act, referred to in subsec. (d)(3), (5), is act Aug. 14, 193
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d)(2). Pub. L. 110–371, §2(b)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: “Grants under this section for the operation (including initial operating amounts and operating deficits, which include the cost of attracting, training, and retaining qualified personnel) of a demonstration health project, whether or not constructed with amounts authorized by this section, may be made for up to 50 percent of the cost of that operation (or 80 percent of the cost of that operation for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title).”
+<b>2008</b>—Subsec. (d)(2). Pub. L. 110–371, §2(b)(1), added par. (2) and struck out heading and text of former par. (2). Text read as follows: "Grants under this section for the operation (including initial operating amounts and operating deficits, which include the cost of attracting, training, and retaining qualified personnel) of a demonstration health project, whether or not constructed with amounts authorized by this section, may be made for up to 50 percent of the cost of that operation (or 80 percent of the cost of that operation for a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title)."
 
-Subsec. (f)(1). Pub. L. 110–371, §2(b)(2)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+Subsec. (f)(1). Pub. L. 110–371, §2(b)(2)(A), substituted "paragraphs (2) and (3)" for "paragraph (2)".
 
 Subsec. (f)(3). Pub. L. 110–371, §2(b)(2)(B), added par. (3).
 

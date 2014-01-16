@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Mar. 3, 1925, ch. 428, §3 (proviso), 43 Stat. 1112.
 
-The word “counterclaim” is substituted for “cross-libel”, and the words “original action” are substituted for “original libel”, to conform to the terminolgy in the Federal Rules of Civil Procedure (28 App. U.S.C.).
+The word "counterclaim" is substituted for "cross-libel", and the words "original action" are substituted for "original libel", to conform to the terminolgy in the Federal Rules of Civil Procedure (28 App. U.S.C.).
 

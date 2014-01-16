@@ -2,7 +2,7 @@
 
 #### (a) Definition of qualifying school
 
-In this section, the term “qualifying school” means a school in severe need, as described in section 1773(d)(1) of this title.
+In this section, the term "qualifying school" means a school in severe need, as described in section 1773(d)(1) of this title.
 
 #### (b) Establishment
 
@@ -12,7 +12,7 @@ Subject to the availability of appropriations provided in advance in an appropri
 
 #### (1) Application
 
-&emsp;To be eligible to receive a grant under this section, a State educational agency shall submit to the Secretary an application at suchtime, in such manner, and containing such information as the Secretary may require.
+&emsp;To be eligible to receive a grant under this section, a State educational agency shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may require.
 
 #### (2) Administration
 

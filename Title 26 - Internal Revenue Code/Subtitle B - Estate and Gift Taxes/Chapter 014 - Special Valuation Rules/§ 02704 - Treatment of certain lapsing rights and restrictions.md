@@ -38,7 +38,7 @@
 
 #### (2) Applicable restriction
 
-&emsp;For purposes of this subsection, the term “applicable restriction” means any restriction—
+&emsp;For purposes of this subsection, the term "applicable restriction" means any restriction—
 
 &emsp;&emsp;(A) which effectively limits the ability of the corporation or partnership to liquidate, and
 
@@ -50,7 +50,7 @@
 
 #### (3) Exceptions
 
-&emsp;The term “applicable restriction” shall not include—
+&emsp;The term "applicable restriction" shall not include—
 
 &emsp;&emsp;(A) any commercially reasonable restriction which arises as part of any financing by the corporation or partnership with a person who is not related to the transferor or transferee, or a member of the family of either, or
 
@@ -66,11 +66,11 @@ For purposes of this section—
 
 #### (1) Control
 
-&emsp;The term “control” has the meaning given such term by section 2701(b)(2).
+&emsp;The term "control" has the meaning given such term by section 2701(b)(2).
 
 #### (2) Member of the family
 
-&emsp;The term “member of the family” means, with respect to any individual—
+&emsp;The term "member of the family" means, with respect to any individual—
 
 &emsp;&emsp;(A) such individual's spouse,
 
@@ -88,7 +88,7 @@ For purposes of this section—
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c)(3). Pub. L. 104–188 substituted “section 2701(e)(3)” for “section 2701(e)(3)(A)”.
+<b>1996</b>—Subsec. (c)(3). Pub. L. 104–188 substituted "section 2701(e)(3)" for "section 2701(e)(3)(A)".
 
 #### Effective Date of 1996 Amendment
 

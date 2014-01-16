@@ -22,7 +22,15 @@ The United States Governor of the Bank is authorized—
 
 &emsp;(B) $9,193,540,271 shall be for callable shares of the Bank.
 
-(July 31, 1945, ch. 339, §70, as added Pub. L. 112–74, div. I, title VII, §7081(a), Dec. 23, 2011, 125 Stat. 1259.)
+(3) In order to pay for the increase in the United States subscription to the Bank undersubsection (a)(1)(B), there are authorized to be appropriated, without fiscal year limitation, $4,639,501,466 for payment by the Secretary of the Treasury.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)—”.</i>
+(4) Of the amount authorized to be appropriated under paragraph (3), $278,370,088 shall be for paid in shares of the Bank, and $4,361,131,378 shall be for callable shares of the Bank.
+
+(July 31, 1945, ch. 339, §70, as added Pub. L. 112–74, div. I, title VII, §7081(a), Dec. 23, 2011, 125 Stat. 1259; amended Pub. L. 113–6, div. F, title VII, §1704(d), Mar. 26, 2013, 127 Stat. 429.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (b)(3), (4). Pub. L. 113–6 added pars. (3) and (4).
+
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph (1)—".</i>
 

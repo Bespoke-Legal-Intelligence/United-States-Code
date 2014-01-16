@@ -4,5 +4,5 @@ In carrying out the provisions of sections 47–2 to 47–6 of this title, the S
 
 (Pub. L. 90–409, §5, as added Pub. L. 99–542, §1(5), Oct. 27, 1986, 100 Stat. 3038.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 

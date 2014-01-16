@@ -30,7 +30,7 @@ Presidential Proclamation No. 5928, referred to in subsec. (a), is set out under
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–383 inserted “(including the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988)” after “of the United States”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–383 inserted "(including the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988)" after "of the United States".
 
 #### Effective Date
 

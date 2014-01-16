@@ -34,7 +34,7 @@ The funds appropriated to carry out this subchapter for any fiscal year that rem
 
 #### (B) Insufficient appropriations
 
-&emsp;&emsp;If in any fiscal year the funds appropriated to carry out this subchapter are insufficient to satisfy the requirement specified in subparagraph (A), then the amount described insubparagraph (A) shall be reduced proportionally.
+&emsp;&emsp;If in any fiscal year the funds appropriated to carry out this subchapter are insufficient to satisfy the requirement specified in subparagraph (A), then the amount described in subparagraph (A) shall be reduced proportionally.
 
 #### (2) Funding in excess of fiscal year 2000 level of activities
 
@@ -68,7 +68,7 @@ From funds available under subsection (c) for national grants, the Secretary sha
 
 #### (e) Allotments for grants to States
 
-From the amount provided for grants to States under subsection (c), the Secretary shall allot for the State grantee in each State an amount that bears the same ratio to such amount as the product of the number of individuals age 55 or older in the State and the allotment percentage of such State bears to the sum of the corresponding products for all States, except as follows:
+From the amount provided for grants to States under subsection (c), the Secretary shall allot for the State grantee in each State an amount that bears the same ratio to such amount as the product of the number of individuals age 55 or older in the State and the allotment percentage of such State bears to the sumof the corresponding products for all States, except as follows:
 
 #### (1) Minimum allotment
 
@@ -98,7 +98,7 @@ For purposes of subsections (d) and (e) and this subsection—
 
 &emsp;(2) the number of individuals age 55 or older in any State and in all States, and the per capita income in any State and in all States, shall be determined by the Secretary on the basis of the most satisfactory data available to the Secretary; and
 
-&emsp;(3) for the purpose of determining the allotment percentage, the term “United States” means the 50 States,<sup>1</sup> and the District of Columbia.
+&emsp;(3) for the purpose of determining the allotment percentage, the term "United States" means the 50 States,<sup>1</sup> and the District of Columbia.
 
 #### (g) Definitions
 
@@ -106,7 +106,7 @@ In this section:
 
 #### (1) Cost per authorized position
 
-&emsp;The term “cost per authorized position” means the sum of—
+&emsp;The term "cost per authorized position" means the sum of—
 
 &emsp;&emsp;(A) the hourly minimum wage rate specified in section 206(a)(1) of title 29, multiplied by the number of hours equal to the product of 21 hours and 52 weeks;
 
@@ -116,7 +116,7 @@ In this section:
 
 #### (2) Fiscal year 2000 level of activities
 
-&emsp;The term “fiscal year 2000 level of activities” means—
+&emsp;The term "fiscal year 2000 level of activities" means—
 
 &emsp;&emsp;(A) with respect to public and nonprofit private agency and organization grantees that operate under this subchapter under national grants from the Secretary, their level of activities for fiscal year 2000; and
 
@@ -124,19 +124,19 @@ In this section:
 
 #### (3) Grants to States
 
-&emsp;The term “grants to States” means grants made under this subchapter by the Secretary to the States.
+&emsp;The term "grants to States" means grants made under this subchapter by the Secretary to the States.
 
 #### (4) Level of activities
 
-&emsp;The term “level of activities” means the number of authorized positions multiplied by the cost per authorized position.
+&emsp;The term "level of activities" means the number of authorized positions multiplied by the cost per authorized position.
 
 #### (5) National grants
 
-&emsp;The term “national grants” means grants made under this subchapter by the Secretary to public and nonprofit private agency and organization grantees that operate under this subchapter.
+&emsp;The term "national grants" means grants made under this subchapter by the Secretary to public and nonprofit private agency and organization grantees that operate under this subchapter.
 
 #### (6) State
 
-&emsp;The term “State” does not include Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
+&emsp;The term "State" does not include Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the United States Virgin Islands.
 
 (Pub. L. 89–73, title V, §506, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2576.)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) In addition to the benefits to which a State, an affected unit of local government or Indian tribe is entitled under this subchapter, the Secretary shall make payments to a State or Indian tribe that is a party to a benefits agreement under section 10173 of this title in accordance with the following schedule:
+(1) In addition to the benefits to which a State, an affected unit of local government orIndian tribe is entitled under this subchapter, the Secretary shall make payments to a State or Indian tribe that is a party to a benefits agreement under section 10173 of this title in accordance with the following schedule:
 
 BENEFITS SCHEDULE<br>(amounts in $ millions)
 
@@ -14,11 +14,11 @@ BENEFITS SCHEDULE<br>(amounts in $ millions)
 
 (2) For purposes of this section, the term—
 
-&emsp;(A) “MRS” means a monitored retrievable storage facility,
+&emsp;(A) "MRS" means a monitored retrievable storage facility,
 
-&emsp;(B) “spent fuel” means high-level radioactive waste or spent nuclear fuel, and
+&emsp;(B) "spent fuel" means high-level radioactive waste or spent nuclear fuel, and
 
-&emsp;(C) “first spent fuel receipt” does not include receipt of spent fuel or high-level radioactive waste for purposes of testing or operational demonstration.
+&emsp;(C) "first spent fuel receipt" does not include receipt of spent fuel or high-level radioactive waste for purposes of testing or operational demonstration.
 
 (3) Annual payments prior to first spent fuel receipt under paragraph (1)(A) shall be made on the date of execution of the benefits agreement and thereafter on the anniversary date of such execution. Annual payments after the first spent fuel receipt until closure of the facility under paragraph (1)(C) shall be made on the anniversary date of such first spent fuel receipt.
 

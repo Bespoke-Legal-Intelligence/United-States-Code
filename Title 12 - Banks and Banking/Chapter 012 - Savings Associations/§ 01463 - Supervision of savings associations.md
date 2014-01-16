@@ -14,7 +14,7 @@
 
 #### (2) Regulations for savings associations
 
-&emsp;The Comptroller may prescribe regulations with respect to savings associations, as theComptroller determines to be appropriate to carry out the purposes of this chapter.
+&emsp;The Comptroller may prescribe regulations with respect to savings associations, as the Comptroller determines to be appropriate to carry out the purposes of this chapter.
 
 #### (3) Safe and sound housing credit to be encouraged
 
@@ -24,7 +24,7 @@
 
 #### (1) In general
 
-&emsp;The Comptroller shall, by regulation, prescribe uniform accounting and disclosure standards for savings associations, to be used in determining savings associations’ compliance with all applicable regulations.
+&emsp;The Comptroller shall, by regulation, prescribe uniform accounting and disclosure standards for savings associations, to be used in determining savings associations' compliance with all applicable regulations.
 
 #### (2) Specific requirements for accounting standards
 
@@ -74,13 +74,13 @@ The savings accounts and share accounts of savings associations insured by the C
 
 #### (A) Deal in
 
-&emsp;&emsp;The term “deal in” includes making, taking, buying, selling, redeeming, or collecting.
+&emsp;&emsp;The term "deal in" includes making, taking, buying, selling, redeeming, or collecting.
 
 #### (B) Lottery
 
-&emsp;&emsp;The term “lottery” includes any arrangement under which—
+&emsp;&emsp;The term "lottery" includes any arrangement under which—
 
-&emsp;&emsp;&emsp;(i) 3 or more persons (hereafter in this subparagraph referred to as the “participants”) advance money or credit to another in exchange for the possibility or expectation that 1 or more but not all of the participants (hereafter in this paragraph referred to as the “winners”) will receive by reason of those participants’ advances more than the amounts those participants have advanced; and
+&emsp;&emsp;&emsp;(i) 3 or more persons (hereafter in this subparagraph referred to as the "participants") advance money or credit to another in exchange for the possibility or expectation that 1 or more but not all of the participants (hereafter in this paragraph referred to as the "winners") will receive by reason of those participants' advances more than the amounts those participants have advanced; and
 
 &emsp;&emsp;&emsp;(ii) the identity of the winners is determined by any means which includes—
 
@@ -92,7 +92,7 @@ The savings accounts and share accounts of savings associations insured by the C
 
 #### (C) Lottery ticket
 
-&emsp;&emsp;The term “lottery ticket” includes any right, privilege, or possibility (and any ticket, receipt, record, or other evidence of any such right, privilege, or possibility) of becoming a winner in a lottery.
+&emsp;&emsp;The term "lottery ticket" includes any right, privilege, or possibility (and any ticket, receipt, record, or other evidence of any such right, privilege, or possibility) of becoming a winner in a lottery.
 
 #### (4) Exception for State lotteries
 
@@ -104,7 +104,7 @@ The savings accounts and share accounts of savings associations insured by the C
 
 #### (f) Federally related mortgage loan disclosures
 
-A savings association may not make a federally related mortgage loan to an agent, trustee,nominee, or other person acting in a fiduciary capacity without requiring that the identity of the person receiving the beneficial interest of such loan shall at all times be revealed to the savings association. At the request of the appropriate Federal banking agency, the savings association shall report to the appropriate Federal banking agency the identity of such person and the nature and amount of the loan.
+A savings association may not make a federally related mortgage loan to an agent, trustee, nominee, or other person acting in a fiduciary capacity without requiring that the identity of the person receiving the beneficial interest of such loan shall at all times be revealed to the savings association. At the request of the appropriate Federal banking agency, the savings association shall report to the appropriate Federal banking agency the identity of such person and the nature and amount of the loan.
 
 #### (g) Preemption of State usury laws
 
@@ -124,7 +124,7 @@ No savings association shall—
 
 #### Prior Provisions
 
-A prior section 1463, acts June 13, 1933, ch. 64, §4, 48 Stat. 129; Apr. 27, 1934, ch. 168, §§1(a), 2–4, 13, 48 Stat. 643–645, 647; June 27, 1934, ch. 847, title V, §§506, 508(b), 48 Stat. 1263, 1264; May 28, 1935, ch. 150, §§10–17(a), 49 Stat. 296, 297; Aug. 11, 1939, ch. 684, 53 Stat. 1403; Oct. 24, 1942, ch. 621, 56 Stat. 986; June 30, 1947, ch. 166, title II, §206(f), 61 Stat. 206, related to creation of Home Owners’ Loan Corporation, for appointment and compensation of its board of directors, for appointment and compensation of its employees, and for other powers, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648.
+A prior section 1463, acts June 13, 1933, ch. 64, §4, 48 Stat. 129; Apr. 27, 1934, ch. 168, §§1(a), 2–4, 13, 48 Stat. 643–645, 647; June 27, 1934, ch. 847, title V, §§506, 508(b), 48 Stat. 1263, 1264; May 28, 1935, ch. 150, §§10–17(a), 49 Stat. 296, 297; Aug. 11, 1939, ch. 684, 53 Stat. 1403; Oct. 24, 1942, ch. 621, 56 Stat. 986; June 30, 1947, ch. 166, title II, §206(f), 61 Stat. 206, related to creation of Home Owners' Loan Corporation, for appointment and compensation of its board of directors, for appointment and compensation of its employees, and for other powers, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648.
 
 A prior section 1463a, act Apr. 27, 1934, ch. 168, §1(b), 48 Stat. 644, provided that amendments made to subsec. (c) of former section 1463 of this title, except with respect to refunding, by act Apr. 27, 1934, should not apply to any bonds prior to Apr. 27, 1934, issued under subsec. (c), or to any bonds thereafter issued in compliance with commitments of the Corporation outstanding on Apr. 27, 1934.
 
@@ -132,29 +132,29 @@ A prior section 1463b, act Apr. 27, 1934, ch. 168, §9, 48 Stat. 646, related to
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §369(4)(A)(i), struck out “Federal” before “savings” in heading.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §369(4)(A)(i), struck out "Federal" before "savings" in heading.
 
 Subsec. (a)(1), (2). Pub. L. 111–203, §369(4)(A)(ii), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
-“(1)
+"(1)
 
 In general.—The Director shall provide for the examination, safe and sound operation, and regulation of savings associations.
 
-“(2)
+"(2)
 
-Regulations.—The Director may issue such regulations as the Director determines to be appropriate to carry out the responsibilities of the Director or the Office.”
+Regulations.—The Director may issue such regulations as the Director determines to be appropriate to carry out the responsibilities of the Director or the Office."
 
-Subsec. (a)(3). Pub. L. 111–203, §369(4)(A)(iii), substituted “Comptroller and the Corporation” for “Director” in two places.
+Subsec. (a)(3). Pub. L. 111–203, §369(4)(A)(iii), substituted "Comptroller and the Corporation" for "Director" in two places.
 
-Subsec. (b). Pub. L. 111–203, §369(4)(B)(ii), substituted “Comptroller” for “Director” wherever appearing.
+Subsec. (b). Pub. L. 111–203, §369(4)(B)(ii), substituted "Comptroller" for "Director" wherever appearing.
 
-Subsec. (b)(2). Pub. L. 111–203, §369(4)(B)(i), inserted “and” at end of subpar. (A), substituted a period for “; and” at end of subpar. (B), and struck out subpar. (C) which read as follows: “prior to January 1, 1994, require full compliance by savings associations with accounting standards in effect at any time before such date not later than provided under the schedule in section 563.23–3 of title 12, Code of Federal Regulations (as in effect on May 1, 1989).”
+Subsec. (b)(2). Pub. L. 111–203, §369(4)(B)(i), inserted "and" at end of subpar. (A), substituted a period for "; and" at end of subpar. (B), and struck out subpar. (C) which read as follows: "prior to January 1, 1994, require full compliance by savings associations with accounting standards in effect at any time before such date not later than provided under the schedule in section 563.23–3 of title 12, Code of Federal Regulations (as in effect on May 1, 1989)."
 
-Subsec. (c). Pub. L. 111–203, §369(4)(C), substituted “The regulations of the Comptroller and the policies of the Comptroller and the Corporation” for “All regulations and policies of the Director” and struck out “of the Currency” before “for national”.
+Subsec. (c). Pub. L. 111–203, §369(4)(C), substituted "The regulations of the Comptroller and the policies of the Comptroller and the Corporation" for "All regulations and policies of the Director" and struck out "of the Currency" before "for national".
 
-Subsec. (e)(5). Pub. L. 111–203, §369(4)(D), substituted “Comptroller” for “Director”.
+Subsec. (e)(5). Pub. L. 111–203, §369(4)(D), substituted "Comptroller" for "Director".
 
-Subsecs. (f), (h). Pub. L. 111–203, §369(4)(E), (F), substituted “appropriate Federal banking agency” for “Director” in two places.
+Subsecs. (f), (h). Pub. L. 111–203, §369(4)(E), (F), substituted "appropriate Federal banking agency" for "Director" in two places.
 
 #### Effective Date of 2010 Amendment
 
@@ -164,57 +164,57 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 Pub. L. 101–73, title III, §308, Aug. 9, 1989, 103 Stat. 353, as amended by Pub. L. 111–203, title III, §367(4), July 21, 2010, 124 Stat. 1556, provided that:
 
-“(a)
+"(a)
 
 Consultation on Methods.—The Secretary of the Treasury shall consult with the Chairman of the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Chairman of the National Credit Union Administration, and the Chairperson of the Board of Directors of the Federal Deposit Insurance Corporation on methods for best achieving the following goals:
 
-&emsp;“(1) Preserving the present number of minority depository institutions.
+&emsp;"(1) Preserving the present number of minority depository institutions.
 
-&emsp;“(2) Preserving their minority character in cases involving mergers or acquisition of a minority depository institution by using general preference guidelines in the following order:
+&emsp;"(2) Preserving their minority character in cases involving mergers or acquisition of a minority depository institution by using general preference guidelines in the following order:
 
-&emsp;&emsp;“(A) Same type of minority depository institution in the same city.
+&emsp;&emsp;"(A) Same type of minority depository institution in the same city.
 
-&emsp;&emsp;“(B) Same type of minority depository institution in the same State.
+&emsp;&emsp;"(B) Same type of minority depository institution in the same State.
 
-&emsp;&emsp;“(C) Same type of minority depository institution nationwide.
+&emsp;&emsp;"(C) Same type of minority depository institution nationwide.
 
-&emsp;&emsp;“(D) Any type of minority depository institution in the same city.
+&emsp;&emsp;"(D) Any type of minority depository institution in the same city.
 
-&emsp;&emsp;“(E) Any type of minority depository institution in the same State.
+&emsp;&emsp;"(E) Any type of minority depository institution in the same State.
 
-&emsp;&emsp;“(F) Any type of minority depository institution nationwide.
+&emsp;&emsp;"(F) Any type of minority depository institution nationwide.
 
-&emsp;&emsp;“(G) Any other bidders.
+&emsp;&emsp;"(G) Any other bidders.
 
-&emsp;“(3) Providing technical assistance to prevent insolvency of institutions not now insolvent.
+&emsp;"(3) Providing technical assistance to prevent insolvency of institutions not now insolvent.
 
-&emsp;“(4) Promoting and encouraging creation of new minority depository institutions.
+&emsp;"(4) Promoting and encouraging creation of new minority depository institutions.
 
-&emsp;“(5) Providing for training, technical assistance, and educational programs.
+&emsp;"(5) Providing for training, technical assistance, and educational programs.
 
-“(b)
+"(b)
 
 Definitions.—For purposes of this section—
 
-&emsp;“(1)
+&emsp;"(1)
 
-Minority financial institution.—The term ‘minority depository institution’ means any depository institution that—
+Minority financial institution.—The term 'minority depository institution' means any depository institution that—
 
-&emsp;&emsp;“(A) if a privately owned institution, 51 percent is owned by one or more socially and economically disadvantaged individuals;
+&emsp;&emsp;"(A) if a privately owned institution, 51 percent is owned by one or more socially and economically disadvantaged individuals;
 
-&emsp;&emsp;“(B) if publicly owned, 51 percent of the stock is owned by one or more socially and economically disadvantaged individuals; and
+&emsp;&emsp;"(B) if publicly owned, 51 percent of the stock is owned by one or more socially and economically disadvantaged individuals; and
 
-&emsp;&emsp;“(C) in the case of a mutual institution where the majority of the Board of Directors, account holders, and the community which it services is predominantly minority.
+&emsp;&emsp;"(C) in the case of a mutual institution where the majority of the Board of Directors, account holders, and the community which it services is predominantly minority.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Minority.—The term ‘minority’ means any black American, Native American, Hispanic American, or Asian American.
+Minority.—The term 'minority' means any black American, Native American, Hispanic American, or Asian American.
 
-“(c)
+"(c)
 
-Reports.—The Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Chairman of the National Credit Union Administration, and the Chairperson of Board of Directors of the Federal Deposit Insurance Corporation shall each submit an annual report to the Congress containing a description of actions taken to carry out this section.”
+Reports.—The Secretary of the Treasury, the Chairman of the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Chairman of the National Credit Union Administration, and the Chairperson of Board of Directors of the Federal Deposit Insurance Corporation shall each submit an annual report to the Congress containing a description of actions taken to carry out this section."
 
-#### Abolition of Home Owners’ Loan Corporation
+#### Abolition of Home Owners' Loan Corporation
 
-Act June 30, 1953, ch. 170, §21, 67 Stat. 126, provided for dissolution and abolition of Home Owners’ Loan Corporation established by former section 1463 of this title.
+Act June 30, 1953, ch. 170, §21, 67 Stat. 126, provided for dissolution and abolition of Home Owners' Loan Corporation established by former section 1463 of this title.
 

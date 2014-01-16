@@ -30,21 +30,21 @@ The President is authorized to exchange notes with the Government of Canada or M
 
 Pub. L. 103–182, title I, §109, Dec. 8, 1993, 107 Stat. 2067, provided that:
 
-“(a)
+"(a)
 
 Effective Dates.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—This title \[enacting this subchapter and amending provisions set out as a note under section 2112 of this title\] (other than the amendment made by section 107 \[amending provisions set out as a note under section 2112 of this title\]) takes effect on the date of the enactment of this Act \[Dec. 8, 1993\].
 
-&emsp;“(2)
+&emsp;"(2)
 
 Section 107 amendment.—The amendment made by section 107 takes effect on the date the Agreement enters into force between the United States and Canada \[Jan. 1, 1994\].
 
-“(b)
+"(b)
 
-Termination of NAFTA Status.—During any period in which a country ceases to be a NAFTA country, sections 101 through 106 \[enacting this section and sections 3312 to 3316 of this title\] shall cease to have effect with respect to such country.”
+Termination of NAFTA Status.—During any period in which a country ceases to be a NAFTA country, sections 101 through 106 \[enacting this section and sections 3312 to 3316 of this title\] shall cease to have effect with respect to such country."
 
 #### North American Free Trade Agreement: Entry Into Force
 
@@ -70,7 +70,7 @@ Sec. 4. <i>Publication of Proposed Rules regarding Technical Regulations and San
 
 &emsp;(3) in the case of a sanitary or phytosanitary measure, where the United States considers it necessary to address an urgent problem relating to sanitary or phytosanitary protection.
 
-(b) For purposes of this section, the term “sanitary or phytosanitary measure” shall be defined in accordance with section 463 of the Trade Agreements Act of 1979 \[19 U.S.C. 2575b\], and “technical regulation” shall be defined in accordance with section 473 of the Trade Agreements Act of 1979 \[19 U.S.C. 2576b\].
+(b) For purposes of this section, the term "sanitary or phytosanitary measure" shall be defined in accordance with section 463 of the Trade Agreements Act of 1979 \[19 U.S.C. 2575b\], and "technical regulation" shall be defined in accordance with section 473 of the Trade Agreements Act of 1979 \[19 U.S.C. 2576b\].
 
 (c) This section supersedes section 1 of Executive Order No. 12662 of December 31, 1988 \[19 U.S.C. 2112 note\].
 
@@ -102,7 +102,7 @@ Sec. 6. <i>Government Use of Patented Technology</i>. (a) Each agency shall, wit
 
 &emsp;(2) is waived whenever a national emergency or other circumstances of extreme urgency exists, except that the patent owner must be notified as soon as it is reasonably practicable to do so.
 
-(b) Agencies shall treat the term “remuneration” as used in Articles 1709(10)(h) and (j) and 1715 of the NAFTA as equivalent to “reasonable and entire compensation” as used in section 1498 of title 28, United States Code.
+(b) Agencies shall treat the term "remuneration" as used in Articles 1709(10)(h) and (j) and 1715 of the NAFTA as equivalent to "reasonable and entire compensation" as used in section 1498 of title 28, United States Code.
 
 (c) In addition to the general provisions of section 7 of this order regarding enforceable rights, nothing in this order is intended to suggest that the giving of notice to a patent owner under Article 1709(10) of the NAFTA constitutes an admission that the Federal Government has infringed a valid privately-owned patent.
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 13, 1953, ch. 427, §5(a), 67 Stat. 563.
 
-The word “office” is substituted for “offices” for consistency with section 150710 and other sections of the revised title. The words “the States of” and “various” are omitted as unnecessary.
+The word "office" is substituted for "offices" for consistency with section 150710 and other sections of the revised title. The words "the States of" and "various" are omitted as unnecessary.
 

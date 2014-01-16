@@ -24,5 +24,5 @@ Historical and Revision Notes
 
 R.S. §4493 (words after semicolon).
 
-Before paragraph (1), the words “bring a civil action” are substituted for “sue” for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). In paragraph (1), the word “carelessness” is omitted as included in “negligence”.
+Before paragraph (1), the words "bring a civil action" are substituted for "sue" for consistency with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). In paragraph (1), the word "carelessness" is omitted as included in "negligence".
 

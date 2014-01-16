@@ -34,7 +34,7 @@ Notwithstanding section 6013(d)(3)—
 
 #### (3) Understatement
 
-&emsp;For purposes of this subsection, the term “understatement” has the meaning given to such term by section 6662(d)(2)(A).
+&emsp;For purposes of this subsection, the term "understatement" has the meaning given to such term by section 6662(d)(2)(A).
 
 #### (c) Procedures to limit liability for taxpayers no longer married or taxpayers legally separated or not living together
 
@@ -82,7 +82,7 @@ Notwithstanding section 6013(d)(3)—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “disqualified asset” means any property or right to property transferred to an individual making the election under this subsection with respect to a joint return by the other individual filing such joint return if the principal purpose of the transfer was the avoidance of tax or payment of tax.
+&emsp;&emsp;&emsp;The term "disqualified asset" means any property or right to property transferred to an individual making the election under this subsection with respect to a joint return by the other individual filing such joint return if the principal purpose of the transfer was the avoidance of tax or payment of tax.
 
 #### (ii) Presumption
 
@@ -126,7 +126,7 @@ For purposes of subsection (c)—
 
 #### (C) Exception for fraud
 
-&emsp;&emsp;The Secretary may provide for an allocation of any item in a manner not prescribed by subparagraph (A) if the Secretary establishes that such allocation is appropriate due to fraud of one or both individuals.
+&emsp;&emsp;The Secretary may provide for an allocation of any item in a manner not prescribedby subparagraph (A) if the Secretary establishes that such allocation is appropriate due to fraud of one or both individuals.
 
 #### (4) Limitations on separate returns disregarded
 
@@ -162,7 +162,7 @@ For purposes of subsection (c)—
 
 #### (ii) Authority to enjoin collection actions
 
-&emsp;&emsp;&emsp;Notwithstanding the provisions of section 7421(a), the beginning of such levy or proceeding during the time the prohibitionunder clause (i) is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this subparagraph to enjoin any action or proceeding unless a timely petition has been filed under subparagraph (A) and then only in respect of the amount of the assessment to which the election under subsection (b) or (c) relates or to which the request under subsection (f) relates.
+&emsp;&emsp;&emsp;Notwithstanding the provisions of section 7421(a), the beginning of such levy or proceeding during the time the prohibition under clause (i) is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this subparagraph to enjoin any action or proceeding unless a timely petition has been filed under subparagraph (A) and then only in respect of the amount of the assessment to which the election under subsection (b) or (c) relates or to which the request under subsection (f) relates.
 
 #### (2) Suspension of running of period of limitations
 
@@ -228,47 +228,47 @@ A prior section 6015, acts Aug. 16, 1954, ch. 736, 68A Stat. 737; Sept. 2, 1958,
 
 #### Amendments
 
-<b>2006</b>—Subsec. (e)(1). Pub. L. 109–432, §408(a), inserted “, or in the case of an individual who requests equitable relief under subsection (f)” after “apply” in introductory provisions.
+<b>2006</b>—Subsec. (e)(1). Pub. L. 109–432, §408(a), inserted ", or in the case of an individual who requests equitable relief under subsection (f)" after "apply" in introductory provisions.
 
-Subsec. (e)(1)(A)(i)(II). Pub. L. 109–432, §408(b)(1), inserted “or request is made” after “filed”.
+Subsec. (e)(1)(A)(i)(II). Pub. L. 109–432, §408(b)(1), inserted "or request is made" after "filed".
 
-Subsec. (e)(1)(B)(i). Pub. L. 109–432, §408(b)(2), inserted “or requesting equitable relief under subsection (f)” after “subsection (b) or (c)” and “or request” after “such election”.
+Subsec. (e)(1)(B)(i). Pub. L. 109–432, §408(b)(2), inserted "or requesting equitable relief under subsection (f)" after "subsection (b) or (c)" and "or request" after "such election".
 
-Subsec. (e)(1)(B)(ii). Pub. L. 109–432, §408(b)(3), inserted “or to which the request under subsection (f) relates” before period at end.
+Subsec. (e)(1)(B)(ii). Pub. L. 109–432, §408(b)(3), inserted "or to which the request under subsection (f) relates" before period at end.
 
-Subsec. (e)(4). Pub. L. 109–432, §408(b)(4), inserted “or the request for equitable relief under subsection (f)” after “subsection (b) or (c)”.
+Subsec. (e)(4). Pub. L. 109–432, §408(b)(4), inserted "or the request for equitable relief under subsection (f)" after "subsection (b) or (c)".
 
-Subsec. (e)(5). Pub. L. 109–432, §408(b)(5), inserted “or who requests equitable relief under subsection (f)” after “subsection (b) or (c)”.
+Subsec. (e)(5). Pub. L. 109–432, §408(b)(5), inserted "or who requests equitable relief under subsection (f)" after "subsection (b) or (c)".
 
-Subsec. (g)(2). Pub. L. 109–432, §408(b)(6), inserted “or of any request for equitable relief under subsection (f)” after “subsection (b) or (c)”.
+Subsec. (g)(2). Pub. L. 109–432, §408(b)(6), inserted "or of any request for equitable relief under subsection (f)" after "subsection (b) or (c)".
 
-Subsec. (h)(2). Pub. L. 109–432, §408(b)(7), inserted “or a request for equitable relief made under subsection (f)” after “subsection (b) or (c)”.
+Subsec. (h)(2). Pub. L. 109–432, §408(b)(7), inserted "or a request for equitable relief made under subsection (f)" after "subsection (b) or (c)".
 
-<b>2000</b>—Subsec. (c)(3)(B). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(1)\], substituted “may be made at any time after a deficiency for such year is asserted but” for “shall be made”.
+<b>2000</b>—Subsec. (c)(3)(B). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(1)\], substituted "may be made at any time after a deficiency for such year is asserted but" for "shall be made".
 
-Subsec. (e)(1). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(3)(A)\], inserted “against whom a deficiency has been asserted and” after “individual” in introductory provisions.
+Subsec. (e)(1). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(3)(A)\], inserted "against whom a deficiency has been asserted and" after "individual" in introductory provisions.
 
-Subsec. (e)(1)(A). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(3)(B)\], amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “The individual may petition the Tax Court (and the Tax Court shall have jurisdiction) to determine the appropriate relief available to the individual under this section if such petition is filed during the 90-day period beginning on the date on which the Secretary mails by certified or registered mail a notice to such individual of the Secretary's determination of relief available to the individual. Notwithstanding the preceding sentence, an individual may file such petition at any time after the date which is 6 months after the date such election is filed with the Secretary and before the close of such 90-day period.”
+Subsec. (e)(1)(A). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(3)(B)\], amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: "The individual may petition the Tax Court (and the Tax Court shall have jurisdiction) to determine the appropriate relief available to the individual under this section if such petition is filed during the 90-day period beginning on the date on which the Secretary mails by certified or registered mail a notice to such individual of the Secretary's determination of relief available to the individual. Notwithstanding the preceding sentence, an individual may file such petition at any time after the date which is 6 months after the date such election is filed with the Secretary and before the close of such 90-day period."
 
-Subsec. (e)(1)(B)(i). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(3)(C)\], substituted “until the close of the 90th day referred to in subparagraph (A)(ii)” for “until the expiration of the 90-day period described in subparagraph (A)” and inserted “under subparagraph (A)” after “filed with the Tax Court”.
+Subsec. (e)(1)(B)(i). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(3)(C)\], substituted "until the close of the 90th day referred to in subparagraph (A)(ii)" for "until the expiration of the 90-day period described in subparagraph (A)" and inserted "under subparagraph (A)" after "filed with the Tax Court".
 
-Subsec. (e)(2). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(3)(D)(ii)\], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The running of the period of limitations in section 6502 on the collection of the assessment to which the petition under paragraph (1)(A) relates shall be suspended for the period during which the Secretary is prohibited by paragraph (1)(B) from collecting by levy or a proceeding in court and for 60 days thereafter.”
+Subsec. (e)(2). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(3)(D)(ii)\], amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "The running of the period of limitations in section 6502 on the collection of the assessment to which the petition under paragraph (1)(A) relates shall be suspended for the period during which the Secretary is prohibited by paragraph (1)(B) from collecting by levy or a proceeding in court and for 60 days thereafter."
 
-Subsec. (e)(3). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(2)(B)\], amended par. (3) generally, substituting “Limitation on Tax Court jurisdiction” for “Applicable rules” in heading and restating provisions relating to limitations on the Tax Court's jurisdiction and eliminating provisions relating to res judicata and allowance of credits or refunds in text.
+Subsec. (e)(3). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(2)(B)\], amended par. (3) generally, substituting "Limitation on Tax Court jurisdiction" for "Applicable rules" in heading and restating provisions relating to limitations on the Tax Court's jurisdiction and eliminating provisions relating to res judicata and allowance of credits or refunds in text.
 
 Subsec. (e)(5). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(3)(D)(i)\], added par. (5).
 
 Subsecs. (g), (h). Pub. L. 106–554, §1(a)(7) \[title III, §313(a)(2)(A)\], added subsec. (g) and redesignated former subsec. (g) as (h).
 
-<b>1998</b>—Subsec. (e)(3)(A). Pub. L. 105–277 substituted “of subsection (b) or (f)” for “of this section”.
+<b>1998</b>—Subsec. (e)(3)(A). Pub. L. 105–277 substituted "of subsection (b) or (f)" for "of this section".
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. C, title IV, §408(c), Dec. 20, 2006, 120 Stat. 3062, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to liability for taxes arising or remaining unpaid on or after the date of the enactment of this Act \[Dec. 20, 2006\].”
+Pub. L. 109–432, div. C, title IV, §408(c), Dec. 20, 2006, 120 Stat. 3062, provided that: "The amendments madeby this section \[amending this section\] shall apply with respect to liability for taxes arising or remaining unpaid on or after the date of the enactment of this Act \[Dec. 20, 2006\]."
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §313(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 6330, 6331, 7421, and 7463 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\]. The amendments made by subsections (c), (d), and (e) \[amending sections 6103, 6110, and 6330 of this title\] shall take effect as if included in the provisions of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\] to which they relate.”
+Pub. L. 106–554, §1(a)(7) \[title III, §313(f)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–643, provided that: "The amendments made by subsections (a) and (b) \[amending this section and sections 6330, 6331, 7421, and 7463 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\]. The amendments made by subsections (c), (d), and (e) \[amending sections 6103, 6110, and 6330 of this title\] shall take effect as if included in the provisions of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\] to which they relate."
 
 #### Effective Date of 1998 Amendment
 
@@ -278,15 +278,15 @@ Amendment by Pub. L. 105–277 effective as if included in the provision of the 
 
 Pub. L. 105–206, title III, §3201(g), July 22, 1998, 112 Stat. 740, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section, amending sections 66, 6013, 6230, and 7421 of this title, and enacting provisions set out as notes under this section and section 6013 of this title\] shall apply to any liability for tax arising after the date of the enactment of this Act \[July 22, 1998\] and any liability for tax arising on or before such date but remaining unpaid as of such date.
 
-“(2) 2-
+"(2) 2-
 
-year period.—The 2-year period under subsection (b)(1)(E) or (c)(3)(B) of section 6015 of the Internal Revenue Code of 1986 shall not expire before the date which is 2 years after the date of the first collection activity after the date of the enactment of this Act \[July 22, 1998\].”
+year period.—The 2-year period under subsection (b)(1)(E) or (c)(3)(B) of section 6015 of the Internal Revenue Code of 1986 shall not expire before the date which is 2 years after the date of the first collection activity after the date of the enactment of this Act \[July 22, 1998\]."
 
 #### Separate Form for Applying for Spousal Relief
 
-Pub. L. 105–206, title III, §3201(c), July 22, 1998, 112 Stat. 740, provided that: “Not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury shall develop a separate form with instructions for use by taxpayers in applying for relief under section 6015(a) of the Internal Revenue Code of 1986, as added by this section.”
+Pub. L. 105–206, title III, §3201(c), July 22, 1998, 112 Stat. 740, provided that: "Not later than 180 days after the date of the enactment of this Act \[July 22, 1998\], the Secretary of the Treasury shall develop a separate form with instructions for use by taxpayers in applying for relief under section 6015(a) of the Internal Revenue Code of 1986, as added by this section."
 

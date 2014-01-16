@@ -10,6 +10,7 @@
 | [2004b.](%C2%A7%2002004b%20-%20Detail%20of%20commissioned%20officers%20as%20students%20at%20schools%20of%20psychology.md) | Detail of commissioned officers as students at schools of psychology. |
 | [2005\.](%C2%A7%2002005%20-%20Advanced%20education%20assistance%20active%20duty%20agreement%3B%20reimbursement%20requirements.md) | Advanced education assistance: active duty agreement; reimbursement requirements. |
 | [2006\.](%C2%A7%2002006%20-%20Department%20of%20Defense%20Education%20Benefits%20Fund.md) | Department of Defense Education Benefits Fund. |
+| [2006a.](%C2%A7%2002006a%20-%20Assistance%20for%20education%20and%20training%20availability%20of%20certain%20assistance%20for%20use%20only%20for%20certain%20programs%20of%20education.md) | Assistance for education and training: availability of certain assistance for use only for certain programs of education. |
 | [2007\.](%C2%A7%2002007%20-%20Payment%20of%20tuition%20for%20off-duty%20training%20or%20education.md) | Payment of tuition for off-duty training or education. |
 | [2008\.](%C2%A7%2002008%20-%20Authority%20to%20use%20funds%20for%20certain%20educational%20purposes.md) | Authority to use funds for certain educational purposes. |
 | [2009\.](%C2%A7%2002009%20-%20Military%20colleges%20female%20students.md) | Military colleges: female students. |
@@ -25,6 +26,8 @@
 
 #### Amendments
 
+<b>2013</b>—Pub. L. 113–66, div. A, title V, §541(b), Dec. 26, 2013, 127 Stat. 762, added item 2006a.
+
 <b>2009</b>—Pub. L. 111–84, div. A, title V, §§521(b), 525(b)(2), Oct. 28, 2009, 123 Stat. 2285, 2287, added items 2004b and 2016.
 
 <b>2006</b>—Pub. L. 109–364, div. A, title V, §536(b), Oct. 17, 2006, 120 Stat. 2209, added item 2004a.
@@ -37,11 +40,11 @@ Pub. L. 109–163, div. A, title V, §538(b), Jan. 6, 2006, 119 Stat. 3250, adde
 
 Pub. L. 104–106, div. A, title V, §572(b), Feb. 10, 1996, 110 Stat. 355, added item 2012.
 
-<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1671(b)(12), Oct. 5, 1994, 108 Stat. 3014, struck out item 2001 “Reserve components”.
+<b>1994</b>—Pub. L. 103–337, div. A, title XVI, §1671(b)(12), Oct. 5, 1994, 108 Stat. 3014, struck out item 2001 "Reserve components".
 
 <b>1991</b>—Pub. L. 102–190, div. A, title X, §1052(a)(2), Dec. 5, 1991, 105 Stat. 1471, added item 2011.
 
-<b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1484(i)(3)(B), (4)(B), Nov. 5, 1990, 104 Stat. 1718, struck out “of the military departments” after “officers” in item 2004 and substituted “Payment” for “Limitation on payment” in item 2007.
+<b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1484(i)(3)(B), (4)(B), Nov. 5, 1990, 104 Stat. 1718, struck out "of the military departments" after "officers" in item 2004 and substituted "Payment" for "Limitation on payment" in item 2007.
 
 <b>1986</b>—Pub. L. 99–661, div. A, title XIII, §1321(a)(2), Nov. 14, 1986, 100 Stat. 3988, added item 2010.
 
@@ -53,81 +56,81 @@ Pub. L. 104–106, div. A, title V, §572(b), Feb. 10, 1996, 110 Stat. 355, adde
 
 <b>1971</b>—Pub. L. 92–168, §4(2), Nov. 24, 1971, 85 Stat. 489, added item 2003.
 
-<b>1970</b>—Pub. L. 91–278, §2(3), June 12, 1970, 84 Stat. 306, substituted “armed forces” for “Army, Navy, Air Force, or Marine Corps” in item 2002.
+<b>1970</b>—Pub. L. 91–278, §2(3), June 12, 1970, 84 Stat. 306, substituted "armed forces" for "Army, Navy, Air Force, or Marine Corps" in item 2002.
 
 <b>1965</b>—Pub. L. 89–160, §1(2), Sept. 1, 1965, 79 Stat. 615, added item 2002.
 
 #### Policy on Active Shooter Training for Certain Law Enforcement Personnel
 
-Pub. L. 112–81, div. A, title III, §367, Dec. 31, 2011, 125 Stat. 1381, provided that: “The Secretary of Defense shall establish policy and promulgate guidelines to ensure civilian and military law enforcement personnel charged with security functions on military installations shall receive Active Shooter Training as described in finding 4.3 of the document entitled ‘Protecting the Force: Lessons From Fort Hood’.”
+Pub. L. 112–81, div. A, title III, §367, Dec. 31, 2011, 125 Stat. 1381, provided that: "The Secretary of Defense shall establish policy and promulgate guidelines to ensure civilian and military law enforcement personnel charged with security functions on military installations shall receive Active Shooter Training as described in finding 4.3 of the document entitled 'Protecting the Force: Lessons From Fort Hood'."
 
 #### Language Training Centers for Members of the Armed Forces and Civilian Employees of the Department of Defense
 
 Pub. L. 111–84, div. A, title V, §529, Oct. 28, 2009, 123 Stat. 2290, provided that:
 
-“(a)
+"(a)
 
-Program Authorized.—The Secretary of Defense may carry out a program to establish language training centers at accredited universities, senior military colleges, or other similar institutions of higher education for purposes of accelerating the development of foundational expertise in critical and strategic languages and regional area studies (as defined by the Secretary of Defense for purposes of this section) for members of the Armed Forces, including members of the reserve components and candidates of the Reserve Officers’ Training Corps programs, and civilian employees of the Department of Defense.
+Program Authorized.—The Secretary of Defense may carry out a program to establish language training centers at accredited universities, senior military colleges, or other similar institutions of higher education for purposes of accelerating the development of foundational expertise in critical and strategic languages and regional area studies (as defined by the Secretary of Defense for purposes of this section) for members of the Armed Forces, including members of the reserve components and candidates of the Reserve Officers' Training Corps programs, and civilian employees of the Department of Defense.
 
-“(b)
+"(b)
 
 Elements.—Each language training center established under the program authorized by subsection (a) shall include the following:
 
-&emsp;“(1) Programs to provide that members of the Armed Forces or civilian employees of the Department of Defense who graduate from the institution of higher education concerned include members or employees, as the case may be, who are skilled in the languages and area studies covered by the program from beginning through advanced skill levels.
+&emsp;"(1) Programs to provide that members of the Armed Forces or civilian employees of the Department of Defense who graduate from the institution of higher education concerned include members or employees, as the case may be, who are skilled in the languages and area studies covered by the program from beginning through advanced skill levels.
 
-&emsp;“(2) Programs of language proficiency training for such members and civilian employees at the institution of higher education concerned in critical and strategic languages tailored to meet operational readiness requirements.
+&emsp;"(2) Programs of language proficiency training for such members and civilian employees at the institution of higher education concerned in critical and strategic languages tailored to meet operational readiness requirements.
 
-&emsp;“(3) Alternative language training delivery systems and modalities to meet language and regional area study requirements for such members and employees whether prior to deployment, during deployment, or post-deployment.
+&emsp;"(3) Alternative language training delivery systems and modalities to meet language and regional area study requirements for such members and employees whether prior to deployment, during deployment, or post-deployment.
 
-&emsp;“(4) Programs on critical and strategic languages under the program that can be incorporated into Reserve Officers’ Training Corps programs to facilitate the development of language skills in such languages among future officers of the Armed Forces.
+&emsp;"(4) Programs on critical and strategic languages under the program that can be incorporated into Reserve Officers' Training Corps programs to facilitate the development of language skills in such languages among future officers of the Armed Forces.
 
-&emsp;“(5) Training and education programs to expand the pool of qualified instructors and educators on critical and strategic languages and regional area studies under the program for the Armed Forces.
+&emsp;"(5) Training and education programs to expand the pool of qualified instructors and educators on critical and strategic languages and regional area studies under the program for the Armed Forces.
 
-&emsp;“(6) Programs to facilitate and encourage the recruitment of native and heritage speakers of critical and strategic languages under the program into the Armed Forces and the civilian workforce of the Department of Defense and to support the Civilian Linguist Reserve Corps.
+&emsp;"(6) Programs to facilitate and encourage the recruitment of native and heritage speakers of critical and strategic languages under the program into the Armed Forces and the civilian workforce of the Department of Defense and to support the Civilian Linguist Reserve Corps.
 
-“(c)
+"(c)
 
 Partnerships With Other Schools.—Any language training center established under the program authorized by subsection (a) may enter into a partnership with one or more local educational agencies to facilitate the development of skills in critical and strategic languages under the program among students attending the elementary and secondary schools of such agencies who may pursue a military career.
 
-“(d)
+"(d)
 
 Coordination.—The Secretary of Defense shall ensure that the language training centers established under the program authorized by subsection (a) are aligned with those of the National Security Education Program, the Defense Language Institute, and other appropriate Department of Defense programs to facilitate and encourage the recruitment of native and heritage speakers of critical and strategic languages under the program into the Armed Forces and the civilian workforce of the Department of Defense and to support the Civilian Linguist Reserve Corps.
 
-“(e)
+"(e)
 
 Report.—Not later than one year after the date of the establishment of the program authorized by subsection (a), the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the program. The report shall include the following:
 
-&emsp;“(1) A description of each language training center established under the program.
+&emsp;"(1) A description of each language training center established under the program.
 
-&emsp;“(2) An assessment of the cost-effectiveness of the program in providing foundational expertise in critical and strategic languages and regional area studies in support of the Defense Language Transformation Roadmap.
+&emsp;"(2) An assessment of the cost-effectiveness of the program in providing foundational expertise in critical and strategic languages and regional area studies in support of the Defense Language Transformation Roadmap.
 
-&emsp;“(3) An assessment of the progress made by each language training center in providing capabilities in critical and strategic languages under the program to members of the Armed Forces and Department of Defense employees.
+&emsp;"(3) An assessment of the progress made by each language training center in providing capabilities in critical and strategic languages under the program to members of the Armed Forces and Department of Defense employees.
 
-&emsp;“(4) A recommendation whether the program should be continued and, if so, recommendations as to any modifications of the program that the Secretary considers appropriate.”
+&emsp;"(4) A recommendation whether the program should be continued and, if so, recommendations as to any modifications of the program that the Secretary considers appropriate."
 
 #### Enhancing Education Partnerships To Improve Accessibility and Flexibility for Members of the Armed Forces
 
 Pub. L. 110–417, \[div. A\], title V, §550, Oct. 14, 2008, 122 Stat. 4468, provided that:
 
-“(a)
+"(a)
 
 Authority.—The Secretary of a military department may enter into one or more education partnership agreements with educational institutions in the United States for the purpose of—
 
-&emsp;“(1) developing plans to improve the accessibility and flexibility of college courses available to eligible members of the Armed Forces;
+&emsp;"(1) developing plans to improve the accessibility and flexibility of college courses available to eligible members of the Armed Forces;
 
-&emsp;“(2) improving the application process for the Armed Forces tuition assistance programs and raising awareness regarding educational opportunities available to such members;
+&emsp;"(2) improving the application process for the Armed Forces tuition assistance programs and raising awareness regarding educational opportunities available to such members;
 
-&emsp;“(3) developing curriculum, distance education programs, and career counseling designed to meet the professional, financial, academic, and social needs of such members; and
+&emsp;"(3) developing curriculum, distance education programs, and career counseling designed to meet the professional, financial, academic, and social needs of such members; and
 
-&emsp;“(4) assessing how resources may be applied more effectively to meet the educational needs of such members.
+&emsp;"(4) assessing how resources may be applied more effectively to meet the educational needs of such members.
 
-“(b)
+"(b)
 
 Cost.—Except as provided in this section, execution of an education partnership agreement with an educational institution shall be at no cost to the Government.
 
-“(c)
+"(c)
 
-Educational Institution Defined.—In this section, the term ‘educational institution’ means an accredited college, university, or technical school in the United States.”
+Educational Institution Defined.—In this section, the term 'educational institution' means an accredited college, university, or technical school in the United States."
 
 
 ---
@@ -142,6 +145,7 @@ Educational Institution Defined.—In this section, the term ‘educational inst
 - [&sect; 02004b - Detail of commissioned officers as students at schools of psychology](%C2%A7%2002004b%20-%20Detail%20of%20commissioned%20officers%20as%20students%20at%20schools%20of%20psychology.md)
 - [&sect; 02005 - Advanced education assistance active duty agreement; reimbursement requirements](%C2%A7%2002005%20-%20Advanced%20education%20assistance%20active%20duty%20agreement%3B%20reimbursement%20requirements.md)
 - [&sect; 02006 - Department of Defense Education Benefits Fund](%C2%A7%2002006%20-%20Department%20of%20Defense%20Education%20Benefits%20Fund.md)
+- [&sect; 02006a - Assistance for education and training availability of certain assistance for use only for certain programs of education](%C2%A7%2002006a%20-%20Assistance%20for%20education%20and%20training%20availability%20of%20certain%20assistance%20for%20use%20only%20for%20certain%20programs%20of%20education.md)
 - [&sect; 02007 - Payment of tuition for off-duty training or education](%C2%A7%2002007%20-%20Payment%20of%20tuition%20for%20off-duty%20training%20or%20education.md)
 - [&sect; 02008 - Authority to use funds for certain educational purposes](%C2%A7%2002008%20-%20Authority%20to%20use%20funds%20for%20certain%20educational%20purposes.md)
 - [&sect; 02009 - Military colleges female students](%C2%A7%2002009%20-%20Military%20colleges%20female%20students.md)

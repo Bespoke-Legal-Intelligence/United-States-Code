@@ -2,7 +2,7 @@
 
 #### (a) Federal support for State coastal fisheries programs
 
-The Secretary in cooperation with the Secretary of the Interior shall develop and implement a program to support the interstate fishery management efforts of the Commission. The program shall include activities to support and enhance State cooperation in collection, management, and analysis of fishery data; law enforcement; habitat conservation; fishery research, including biological and socioeconomic research; and fishery management planning.
+The Secretary in cooperation with the Secretary of the Interior shall develop and implement a program to support the interstate fishery management efforts of the Commission. Theprogram shall include activities to support and enhance State cooperation in collection, management, and analysis of fishery data; law enforcement; habitat conservation; fishery research, including biological and socioeconomic research; and fishery management planning.
 
 #### (b) Federal regulation in exclusive economic zone
 
@@ -24,7 +24,7 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–555 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery” wherever appearing.
+<b>2000</b>—Subsec. (b). Pub. L. 106–555 substituted "Magnuson-Stevens Fishery" for "Magnuson Fishery" wherever appearing.
 
-<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–297 substituted “compatible with” for “necessary to support”.
+<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–297 substituted "compatible with" for "necessary to support".
 

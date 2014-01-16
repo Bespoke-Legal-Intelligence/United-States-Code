@@ -38,19 +38,19 @@
 
 #### (A) Competitively biddable drugs and biologicals defined
 
-&emsp;&emsp;The term “competitively biddable drugs and biologicals” means a drug or biological described in section 1395u(o)(1)(C) of this title and furnished on or after January 1, 2006.
+&emsp;&emsp;The term "competitively biddable drugs and biologicals" means a drug or biological described in section 1395u(o)(1)(C) of this title and furnished on or after January 1, 2006.
 
 #### (B) Program
 
-&emsp;&emsp;The term “program” means the competitive acquisition program under this section.
+&emsp;&emsp;The term "program" means the competitive acquisition program under this section.
 
 #### (C) Competitive acquisition area; area
 
-&emsp;&emsp;The terms “competitive acquisition area” and “area” mean an appropriate geographic region established by the Secretary under the program.
+&emsp;&emsp;The terms "competitive acquisition area" and "area" mean an appropriate geographic region established by the Secretary under the program.
 
 #### (D) Contractor
 
-&emsp;&emsp;The term “contractor” means an entity that has entered into a contract with the Secretary under this section.
+&emsp;&emsp;The term "contractor" means an entity that has entered into a contract with the Secretary under this section.
 
 #### (3) Application of program payment methodology
 
@@ -102,7 +102,7 @@
 
 #### (C) Selecting physician defined
 
-&emsp;&emsp;For purposes of this section, the term “selecting physician” means, with respect to a contractor and category and competitive acquisition area, a physician who has electedthis section to apply and has selected to apply under this section such contractor for such category and area.
+&emsp;&emsp;For purposes of this section, the term "selecting physician" means, with respect to a contractor and category and competitive acquisition area, a physician who has electedthis section to apply and has selected to apply under this section such contractor for such category and area.
 
 #### (b) Program requirements
 
@@ -222,7 +222,7 @@
 
 #### (2) Bid defined
 
-&emsp;In this section, the term “bid” means an offer to furnish a competitively biddable drug or biological for a particular price and time period.
+&emsp;In this section, the term "bid" means an offer to furnish a competitively biddable drug or biological for a particular price and time period.
 
 #### (3) Bidding on a national or regional basis
 
@@ -236,11 +236,11 @@
 
 &emsp;The provisions of subparagraph (D) of section 1396r–8(b)(3) of this title shall apply to periods during which a bid is submitted with respect to a competitively biddable drug or biological under this section in the same manner as it applies to information disclosed under such section, except that any reference—
 
-&emsp;&emsp;(A) in that subparagraph to a “manufacturer or wholesaler” is deemed a reference to a “bidder” under this section;
+&emsp;&emsp;(A) in that subparagraph to a "manufacturer or wholesaler" is deemed a reference to a "bidder" under this section;
 
-&emsp;&emsp;(B) in that section to “prices charged for drugs” is deemed a reference to a “bid” submitted under this section; and
+&emsp;&emsp;(B) in that section to "prices charged for drugs" is deemed a reference to a "bid" submitted under this section; and
 
-&emsp;&emsp;(C) in clause (i) of that section to “this section”, is deemed a reference to “part B of subchapter XVIII of this chapter”.
+&emsp;&emsp;(C) in clause (i) of that section to "this section", is deemed a reference to "part B of subchapter XVIII of this chapter".
 
 #### (6) Inclusion of costs
 
@@ -330,33 +330,33 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. subsec. (b)(4)(
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(3)(A)(iii). Pub. L. 109–432, §108(a)(1), substituted “and biologicals shall be made only to such contractor upon receipt of a claim for a drug or biological supplied by the contractor for administration to a beneficiary.” for “and biologicals—
+<b>2006</b>—Subsec. (a)(3)(A)(iii). Pub. L. 109–432, §108(a)(1), substituted "and biologicals shall be made only to such contractor upon receipt of a claim for a drug or biological supplied by the contractor for administration to a beneficiary." for "and biologicals—
 
-&emsp;“(I) shall be made only to such contractor; and
+&emsp;"(I) shall be made only to such contractor; and
 
-&emsp;“(II) shall be conditioned upon the administration of such drugs and biologicals.”
+&emsp;"(II) shall be conditioned upon the administration of such drugs and biologicals."
 
 Subsec. (a)(3)(D). Pub. L. 109–432, §108(a)(2), added subpar. (D).
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. B, title I, §108(c), Dec. 20, 2006, 120 Stat. 2983, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to payment for drugs and biologicals supplied under section 1847B of the Social Security Act (42 U.S.C. 1395w–3b)—
+Pub. L. 109–432, div. B, title I, §108(c), Dec. 20, 2006, 120 Stat. 2983, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to payment for drugs and biologicals supplied under section 1847B of the Social Security Act (42 U.S.C. 1395w–3b)—
 
-&emsp;“(1) on or after April 1, 2007; and
+&emsp;"(1) on or after April 1, 2007; and
 
-&emsp;“(2) on or after July 1, 2006, and before April 1, 2007, for claims that are unpaid as of April 1, 2007.”
+&emsp;"(2) on or after July 1, 2006, and before April 1, 2007, for claims that are unpaid as of April 1, 2007."
 
 #### Construction of 2006 Amendment
 
-Pub. L. 109–432, div. B, title I, §108(b), Dec. 20, 2006, 120 Stat. 2983, provided that: “Nothing in this section \[amending this section and enacting provisions set out as a note above\] shall be construed as—
+Pub. L. 109–432, div. B, title I, §108(b), Dec. 20, 2006, 120 Stat. 2983, provided that: "Nothing in this section \[amending this section and enacting provisions set out as a note above\] shall be construed as—
 
-&emsp;“(1) requiring the conduct of any additional competition under subsection (b)(1) of section 1847B of the Social Security Act (42 U.S.C. 1395w–3b); or
+&emsp;"(1) requiring the conduct of any additional competition under subsection (b)(1) of section 1847B of the Social Security Act (42 U.S.C. 1395w–3b); or
 
-&emsp;“(2) requiring any additional process for elections by physicians under subsection (a)(1)(A)(ii) of such section or additional selection by a selecting physician of a contractor under subsection (a)(5) of such section.”
+&emsp;"(2) requiring any additional process for elections by physicians under subsection (a)(1)(A)(ii) of such section or additional selection by a selecting physician of a contractor under subsection (a)(5) of such section."
 
 #### Report
 
-Pub. L. 108–173, title III, §303(d)(2), Dec. 8, 2003, 117 Stat. 2252, provided that: “Not later than July 1, 2008, the Secretary \[of Health and Human Services\] shall submit to Congress a report on the program conducted under section 1847B of the Social Security Act \[this section\], as added by paragraph (1). Such report shall include information on savings, reductions in cost-sharing, access to competitively biddable drugs and biologicals, the range of choices of contractors available to physicians, the satisfaction of physicians and ofindividuals enrolled under this part \[probably means part B of title XVIII of the Social Security Act, which is classified to this part\], and information comparing prices for drugs and biologicals under such section and section 1847A of such Act \[section 1395w–3a of this title\], as added by subsection (c).”
+Pub. L. 108–173, title III, §303(d)(2), Dec. 8, 2003, 117 Stat. 2252, provided that: "Not later than July 1, 2008, the Secretary \[of Health and Human Services\] shall submit to Congress a report on the program conducted under section 1847B of the Social Security Act \[42 U.S.C. 1395w–3b\], as added by paragraph (1). Such report shall include information on savings, reductions in cost-sharing, access to competitively biddable drugs and biologicals, the range of choices of contractors available to physicians, the satisfaction of physiciansand of individuals enrolled under this part \[probably means part B of title XVIII of the Social Security Act, 42 U.S.C. 1395j et seq.\], and information comparing prices for drugs and biologicals under such section and section 1847A of such Act \[42 U.S.C. 1395w–3a\], as added by subsection (c)."
 
 #### Application of 2003 Amendment to Physician Specialties
 

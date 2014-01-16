@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established a National Park Service Concessions Management Advisory Board (in this subchapter referred to as the “Advisory Board”) whose purpose shall be to advise the Secretary and National Park Service on matters relating to management of concessions in the National Park System.
+There is hereby established a National Park Service Concessions Management AdvisoryBoard (in this subchapter referred to as the "Advisory Board") whose purpose shall be to advise the Secretary and National Park Service on matters relating to management of concessions in the National Park System.
 
 #### (b) Duties
 
@@ -64,11 +64,11 @@ The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–
 
 #### Amendments
 
-<b>2009</b>—Subsec. (d). Pub. L. 111–11 substituted “2009” for “2008”.
+<b>2009</b>—Subsec. (d). Pub. L. 111–11 substituted "2009" for "2008".
 
 #### Change of Name
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "the".</i>
 

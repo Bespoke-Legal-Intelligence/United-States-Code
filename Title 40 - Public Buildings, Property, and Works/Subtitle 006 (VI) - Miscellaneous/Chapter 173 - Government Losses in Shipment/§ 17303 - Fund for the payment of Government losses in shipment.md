@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—There is a revolving fund in the Treasury known as “the fund for the payment of Government losses in shipment”.
+Establishment.—There is a revolving fund in the Treasury known as "the fund for the payment of Government losses in shipment".
 
 (b)
 
@@ -68,11 +68,11 @@ July 8, 1937, ch. 444, §3 (2d sentence 2d, last provisos, last sentence), 50 St
 
 40:722a.
 
-Pub. L. 103–329, title I (par. under heading “Payment of Government Losses in Shipment”), Sept. 30, 1994, 108 Stat. 2387.
+Pub. L. 103–329, title I (par. under heading "Payment of Government Losses in Shipment"), Sept. 30, 1994, 108 Stat. 2387.
 
-In subsection (a), the words “(hereinafter referred to as ‘the fund’)” are omitted as unnecessary.
+In subsection (a), the words "(hereinafter referred to as 'the fund')" are omitted as unnecessary.
 
 In subsection (b), the text of 40:723 (2d sentence 2d proviso) is omitted as obsolete.
 
-In subsection (e), the text of 40:722 (1st sentence words before 5th comma, 2d sentence, 3d sentence words after 2d comma, and last sentence) and the words “Beginning in fiscal year 1995 and thereafter” in 40:722a are omitted as obsolete. The words “for the fund” are substituted for “to make payments for the replacement of valuables, or the value thereof, lost, destroyed, or damaged in the course of shipments effected pursuant to section 721 of this title” for clarity and to eliminate unnecessary words.
+In subsection (e), the text of 40:722 (1st sentence words before 5th comma, 2d sentence, 3d sentence words after 2d comma, and last sentence) and the words "Beginning in fiscal year 1995 and thereafter" in 40:722a are omitted as obsolete. The words "for the fund" are substituted for "to make payments for the replacement of valuables, or the value thereof, lost, destroyed, or damaged in the course of shipments effected pursuant to section 721 of this title" for clarity and to eliminate unnecessary words.
 

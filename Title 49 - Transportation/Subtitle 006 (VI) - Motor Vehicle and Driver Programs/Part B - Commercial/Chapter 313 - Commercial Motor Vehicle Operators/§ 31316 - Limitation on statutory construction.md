@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Oct. 27, 1986, Pub. L. 99–570, §12017, 100 Stat. 3207–187.
 
-The words “This chapter does not affect” are substituted for “Nothing in this chapter shall be construed to diminish, limit, or otherwise affect” to eliminate unnecessary words.
+The words "This chapter does not affect" are substituted for "Nothing in this chapter shall be construed to diminish, limit, or otherwise affect" to eliminate unnecessary words.
 

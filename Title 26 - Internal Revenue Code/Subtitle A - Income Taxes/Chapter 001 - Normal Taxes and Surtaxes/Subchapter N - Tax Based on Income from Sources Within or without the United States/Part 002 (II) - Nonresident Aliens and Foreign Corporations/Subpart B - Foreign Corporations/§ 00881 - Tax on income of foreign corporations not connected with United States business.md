@@ -40,7 +40,7 @@ Except as provided in subsection (c), there is hereby imposed for each taxable y
 
 &emsp;&emsp;&emsp;(ii) with respect to which the requirements of subparagraphs (A), (B), and (C) of paragraph (1) are met for the taxable year,
 
-> &emsp;&emsp;subsection (a) shall be applied for such taxable year by substituting “10 percent” for “30 percent”.
+> &emsp;&emsp;subsection (a) shall be applied for such taxable year by substituting "10 percent" for "30 percent".
 
 #### (B) Applicability
 
@@ -50,7 +50,7 @@ Except as provided in subsection (c), there is hereby imposed for each taxable y
 
 #### (A) Foreign person
 
-&emsp;&emsp;For purposes of paragraph (1), the term “foreign person” means any person other than—
+&emsp;&emsp;For purposes of paragraph (1), the term "foreign person" means any person other than—
 
 &emsp;&emsp;&emsp;(i) a United States person, or
 
@@ -58,7 +58,7 @@ Except as provided in subsection (c), there is hereby imposed for each taxable y
 
 #### (B) Indirect ownership rules
 
-&emsp;&emsp;For purposes of paragraph (1), the rules of section 318(a)(2) shall apply except that “5 percent” shall be substituted for “50 percent” in subparagraph (C) thereof.
+&emsp;&emsp;For purposes of paragraph (1), the rules of section 318(a)(2) shall apply except that "5 percent" shall be substituted for "50 percent" in subparagraph (C) thereof.
 
 #### (c) Repeal of tax on interest of foreign corporations received from certain portfolio debt investments
 
@@ -68,7 +68,7 @@ Except as provided in subsection (c), there is hereby imposed for each taxable y
 
 #### (2) Portfolio interest
 
-&emsp;For purposes of this subsection, the term “portfolio interest” means any interest (including original issue discount) which—
+&emsp;For purposes of this subsection, the term "portfolio interest" means any interest (including original issue discount) which—
 
 &emsp;&emsp;(A) would be subject to tax under subsection (a) but for this subsection, and
 
@@ -84,7 +84,7 @@ Except as provided in subsection (c), there is hereby imposed for each taxable y
 
 #### (3) Portfolio interest shall not include interest received by certain persons
 
-&emsp;For purposes of this subsection, the term “portfolio interest” shall not include any portfolio interest which—
+&emsp;For purposes of this subsection, the term "portfolio interest" shall not include any portfolio interest which—
 
 &emsp;&emsp;(A) except in the case of interest paid on an obligation of the United States, is received by a bank on an extension of credit made pursuant to a loan agreement entered into in the ordinary course of its trade or business,
 
@@ -94,7 +94,7 @@ Except as provided in subsection (c), there is hereby imposed for each taxable y
 
 #### (4) Portfolio interest not to include certain contingent interest
 
-&emsp;For purposes of this subsection, the term “portfolio interest” shall not include any interest which is treated as not being portfolio interest under the rules of section 871(h)(4).
+&emsp;For purposes of this subsection, the term "portfolio interest" shall not include any interest which is treated as not being portfolio interest under the rules of section 871(h)(4).
 
 #### (5) Special rules for controlled foreign corporations
 
@@ -110,7 +110,7 @@ Except as provided in subsection (c), there is hereby imposed for each taxable y
 
 #### (B) Controlled foreign corporation
 
-&emsp;&emsp;For purposes of this subsection, the term “controlled foreign corporation” has the meaning given to such term by section 957(a).
+&emsp;&emsp;For purposes of this subsection, the term "controlled foreign corporation" has the meaning given to such term by section 957(a).
 
 #### (6) Secretary may cease application of this subsection
 
@@ -118,7 +118,7 @@ Except as provided in subsection (c), there is hereby imposed for each taxable y
 
 #### (7) Registered form
 
-&emsp;For purposes of this subsection, the term “registered form” has the meaning given such term by section 163(f).
+&emsp;For purposes of this subsection, the term "registered form" has the meaning given such term by section 163(f).
 
 #### (d) Tax not to apply to certain interest and dividends
 
@@ -164,83 +164,83 @@ The date of the enactment of this paragraph, referred to in subsec. (b)(2)(B), i
 
 <b>2010</b>—Subsec. (c)(2). Pub. L. 111–147 amended par. (2) generally. Prior to amendment, par. (2) defined portfolio interest to also include interest on certain obligations not in registered form.
 
-<b>2005</b>—Subsec. (e)(1)(C). Pub. L. 109–135 inserted “interest-related dividend received by a controlled foreign corporation” after “shall apply to any”.
+<b>2005</b>—Subsec. (e)(1)(C). Pub. L. 109–135 inserted "interest-related dividend received by a controlled foreign corporation" after "shall apply to any".
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–357, §420(c)(1), substituted “possessions” for “Guam and Virgin Islands corporations” in heading.
+<b>2004</b>—Subsec. (b). Pub. L. 108–357, §420(c)(1), substituted "possessions" for "Guam and Virgin Islands corporations" in heading.
 
-Subsec. (b)(1). Pub. L. 108–357, §420(c)(2), substituted “Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands” for “In general” in heading.
+Subsec. (b)(1). Pub. L. 108–357, §420(c)(2), substituted "Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands" for "In general" in heading.
 
 Subsec. (b)(2), (3). Pub. L. 108–357, §420(a), added par. (2) and redesignated former par. (2) as (3).
 
 Subsec. (e), (f). Pub. L. 108–357, §411(a)(2), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-<b>1993</b>—Subsec. (c)(2)(B)(ii). Pub. L. 103–66, §13237(c)(2), substituted “section 871(h)(5)” for “section 871(h)(4)”.
+<b>1993</b>—Subsec. (c)(2)(B)(ii). Pub. L. 103–66, §13237(c)(2), substituted "section 871(h)(5)" for "section 871(h)(4)".
 
 Subsec. (c)(4), (5). Pub. L. 103–66, §13237(a)(2), added par. (4) and redesignated former par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (c)(6). Pub. L. 103–66, §13237(a)(2), (c)(3), redesignated par. (5) as (6) and substituted “section 871(h)(6)” for “section 871(h)(5)” in two places. Former par. (6) redesignated (7).
+Subsec. (c)(6). Pub. L. 103–66, §13237(a)(2), (c)(3), redesignated par. (5) as (6) and substituted "section 871(h)(6)" for "section 871(h)(5)" in two places. Former par. (6) redesignated (7).
 
 Subsec. (c)(7). Pub. L. 103–66, §13237(a)(2), redesignated par. (6) as (7).
 
 <b>1988</b>—Subsec. (c)(4)(A)(ii) to (v). Pub. L. 100–647 added cls. (ii) and (iii) and struck out former cls. (ii) to (v), which read as follows:
 
-“(ii) Paragraph (4) of section 954(b) (relating to corporations not formed or availed of to avoid tax).
+"(ii) Paragraph (4) of section 954(b) (relating to corporations not formed or availed of to avoid tax).
 
-“(iii) Subparagraph (B) of section 954(c)(3) (relating to certain income derived in active conduct of trade or business).
+"(iii) Subparagraph (B) of section 954(c)(3) (relating to certain income derived in active conduct of trade or business).
 
-“(iv) Subparagraph (C) of section 954(c)(3) (relating to certain income derived by an insurance company).
+"(iv) Subparagraph (C) of section 954(c)(3) (relating to certain income derived by an insurance company).
 
-“(v) Subparagraphs (A) and (B) of section 954(c)(4) (relating to exception for certain income received from related persons).”
+"(v) Subparagraphs (A) and (B) of section 954(c)(4) (relating to exception for certain income received from related persons)."
 
-<b>1986</b>—Subsec. (a)(3)(A). Pub. L. 99–514, §1810(e)(2)(B), amended subpar. (A) generally, striking out “any gain not in excess of” before “the original issue discount”.
+<b>1986</b>—Subsec. (a)(3)(A). Pub. L. 99–514, §1810(e)(2)(B), amended subpar. (A) generally, striking out "any gain not in excess of" before "the original issue discount".
 
-Subsec. (a)(3)(B). Pub. L. 99–514, §1810(e)(2)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this subparagraph only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by paragraph (1) thereon), and”.
+Subsec. (a)(3)(B). Pub. L. 99–514, §1810(e)(2)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this subparagraph only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by paragraph (1) thereon), and".
 
-Subsec. (a)(4). Pub. L. 99–514, §1211(b)(6), struck out “or from payments which are treated as being so contingent under section 871(e),” after “sold or exchanged,”.
+Subsec. (a)(4). Pub. L. 99–514, §1211(b)(6), struck out "or from payments which are treated as being so contingent under section 871(e)," after "sold or exchanged,".
 
-Subsec. (b)(1). Pub. L. 99–514, §1273(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For purposes of this section, a corporation created or organized in Guam or the Virgin Islands or under the law of Guam or the Virgin Islands shall not be treated as a foreign corporation for any taxable year if—
+Subsec. (b)(1). Pub. L. 99–514, §1273(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "For purposes of this section, a corporation created or organized in Guam or the Virgin Islands or under the law of Guam or the Virgin Islands shall not be treated as a foreign corporation for any taxable year if—
 
-&emsp;“(A) at all times during such taxable year less than 25 percent in value of the stock of such corporation is owned (directly or indirectly) by foreign persons, and
+&emsp;"(A) at all times during such taxable year less than 25 percent in value of the stock of such corporation is owned (directly or indirectly) by foreign persons, and
 
-&emsp;“(B) at least 20 percent of the gross income of such corporation is shown to the satisfaction of the Secretary to have been derived from sources within Guam or the Virgin Islands (as the case may be) for the 3-year period ending with the close of the preceding taxable year of such corporation (or for such part of such period as the corporation has been in existence).”
+&emsp;"(B) at least 20 percent of the gross income of such corporation is shown to the satisfaction of the Secretary to have been derived from sources within Guam or the Virgin Islands (as the case may be) for the 3-year period ending with the close of the preceding taxable year of such corporation (or for such part of such period as the corporation has been in existence)."
 
 Subsec. (b)(2). Pub. L. 99–514, §1273(b)(1), (2)(A), redesignated par. (3) as (2) and struck out former par. (2) which provided that par. (1) of this subsection not apply with respect to income tax liability incurred to Guam.
 
-Subsec. (b)(2)(A). Pub. L. 99–514, §1899A(22), substituted “paragraph” for “Paragraph”.
+Subsec. (b)(2)(A). Pub. L. 99–514, §1899A(22), substituted "paragraph" for "Paragraph".
 
 Subsec. (b)(3), (4). Pub. L. 99–514, §1273(b)(2)(A), redesignated par. (3) as (2) and struck out par. (4) which provided a cross reference to sections 934 and 934A.
 
 Subsec. (c). Pub. L. 99–514, §1899A(68), made clarifying amendment to directory language of Pub. L. 98–369, §127(b)(1). See 1984 Amendment note below.
 
-Subsec. (c)(2). Pub. L. 99–514, §1810(d)(1)(B), (3)(C), inserted “which would be subject to tax under subsection (a) but for this subsection and” in introductory provisions and substituted “receives a statement” for “has received a statement” in subpar. (B)(ii).
+Subsec. (c)(2). Pub. L. 99–514, §1810(d)(1)(B), (3)(C), inserted "which would be subject to tax under subsection (a) but for this subsection and" in introductory provisions and substituted "receives a statement" for "has received a statement" in subpar. (B)(ii).
 
-Subsec. (c)(3)(C). Pub. L. 99–514, §1899A(23), inserted a closing parenthesis following “section 864(d)(4)”.
+Subsec. (c)(3)(C). Pub. L. 99–514, §1899A(23), inserted a closing parenthesis following "section 864(d)(4)".
 
-Subsec. (c)(4)(A)(i). Pub. L. 99–514, §1223(b)(2), substituted “less than 5 percent or $1,000,000” for “less than 10 percent”.
+Subsec. (c)(4)(A)(i). Pub. L. 99–514, §1223(b)(2), substituted "less than 5 percent or $1,000,000" for "less than 10 percent".
 
 Subsecs. (d), (e). Pub. L. 99–514, §1214(c)(2), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §127(b)(2), substituted “Except as provided in subsection (c), there” for “There” in introductory provision.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §127(b)(2), substituted "Except as provided in subsection (c), there" for "There" in introductory provision.
 
-Subsec. (a)(1). Pub. L. 98–369, §42(a)(10), substituted “section 1273” for “section 1232(b)”.
+Subsec. (a)(1). Pub. L. 98–369, §42(a)(10), substituted "section 1273" for "section 1232(b)".
 
-Subsec. (a)(3). Pub. L. 98–369, §128(b)(1), amended par. (3) generally, substituting in subpar. (A), “a sale or exchange of an original issue discount obligation, the amount of any gain not in excess of the original issue discount accruing while such obligation was held by the foreign corporation (to the extent such discount was not theretofore taken into account under subparagraph (B)), and” for “bonds or other evidences of indebtedness issued after September 28, 1965, and before April 1, 1972, amounts which under section 1232(a)(2)(B) are considered as ordinary income, and, in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact the obligations were issued after May 27, 1969,”, substituting in subpar. (B), “the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this subparagraph only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by paragraph (1) thereon), and” for “bonds or other evidences of indebtedness issued after March 31, 1972, and payable more than 6 months from the date of original issue (without regard to the period held by the taxpayer), amounts which under section 1232(a)(2)(B) would be considered as ordinary income but for the fact such obligations were issued after May 27, 1969, and”, and striking out subpar. (C) which required that in the case of the payment of interest on an obligation described in subpar. (B), an amount equal to the original issue discount, but not in excess of such interest less the tax imposed by par. (1) thereon, accrued on such obligation since the last payment of interest thereon, be included for purpose of the 30 percent tax.
+Subsec. (a)(3). Pub. L. 98–369, §128(b)(1), amended par. (3) generally, substituting in subpar. (A), "a sale or exchange of an original issue discount obligation, the amount of any gain not in excess of the original issue discount accruing while such obligation was held by the foreign corporation (to the extent such discount was not theretofore taken into account under subparagraph (B)), and" for "bonds or other evidences of indebtedness issued after September 28, 1965, and before April 1, 1972, amounts which under section 1232(a)(2)(B) are considered as ordinary income, and, in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact the obligations were issued after May 27, 1969,", substituting in subpar. (B), "the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this subparagraph only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by paragraph (1) thereon), and" for "bonds or other evidences of indebtedness issued after March 31, 1972, and payable more than 6 months from the date of original issue (without regard to the period held by the taxpayer), amounts which under section 1232(a)(2)(B) would be considered as ordinary income but for the fact such obligations were issued after May 27, 1969, and", and striking out subpar. (C) which required that in the case of the payment of interest on an obligation described in subpar. (B), an amount equal to the original issue discount, but not in excess of such interest less the tax imposed by par. (1) thereon, accrued on such obligation since the last payment of interest thereon, be included for purpose of the 30 percent tax.
 
 Subsec. (b). Pub. L. 98–369, §130(a), amended subsec. (b) generally, substituting provision establishing an exception for certain Guam and Virgin Islands corporations for provision establishing an exception for Guam corporations.
 
 Subsec. (c). Pub. L. 98–369, §127(b)(1), as amended by Pub. L. 99–514, §1899A(68), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Pub. L. 98–369, §128(b)(2), amended subsec. (c) generally, substituting in heading “Cross reference” for “Doubling of tax” and inserting provision directing that for special rules for original issue discount, see section 871(g).
+Pub. L. 98–369, §128(b)(2), amended subsec. (c) generally, substituting in heading "Cross reference" for "Doubling of tax" and inserting provision directing that for special rules for original issue discount, see section 871(g).
 
 Subsec. (d). Pub. L. 98–369, §127(b)(1), as amended by Pub. L. 99–514, §1899A(68), redesignated subsec. (c) as (d).
 
-<b>1976</b>—Subsec. (a)(3)(A), (B). Pub. L. 94–455 substituted “ordinary income” for “gain from the sale or exchange of property which is not a capital asset”.
+<b>1976</b>—Subsec. (a)(3)(A), (B). Pub. L. 94–455 substituted "ordinary income" for "gain from the sale or exchange of property which is not a capital asset".
 
 <b>1972</b>—Subsecs. (b), (c). Pub. L. 92–606 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-<b>1971</b>—Subsec. (a)(1). Pub. L. 92–178, §313(a), inserted “(other than original issue discount as defined in section 1232(b))” after “interest”.
+<b>1971</b>—Subsec. (a)(1). Pub. L. 92–178, §313(a), inserted "(other than original issue discount as defined in section 1232(b))" after "interest".
 
-Subsec. (a)(3). Pub. L. 92–178, §313(c), designated existing provisions as subpar. (A), inserted “and before April 1, 1972,” after “September 28, 1965,”, substituted “section 1232(a)(2)(B)” for “section 1232”, and inserted “, in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact that the obligations were issued after May 27, 1969,”, and added subpars. (B) and (C).
+Subsec. (a)(3). Pub. L. 92–178, §313(c), designated existing provisions as subpar. (A), inserted "and before April 1, 1972," after "September 28, 1965,", substituted "section 1232(a)(2)(B)" for "section 1232", and inserted ", in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact that the obligations were issued after May 27, 1969,", and added subpars. (B) and (C).
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–809 substantially revised the income tax treatment of foreign corporations, substituted the concept of amounts received from sources within the United States by foreign corporations but not effectively connected with the conduct of a trade or business within the United States for the concept of amounts received from sources within the United States by foreign corporations not engaged in trade or business within the United States as the amount upon which the existing 30 percent levy should be imposed, and added contingent income received from the sale of patents and other intangibles and amounts of original issue discount which are treated as ordinary income received on retirement or sale or exchange of bonds or other evidences of indebtedness issued after Sept. 28, 1965, to the specified types of fixed or determinable income.
 
@@ -252,7 +252,7 @@ Amendment by Pub. L. 111–147 applicable to obligations issued after the date w
 
 Amendment by section 411(a)(2) of Pub. L. 108–357 applicable to dividends with respect to taxable years of regulated investment companies beginning after Dec. 31, 2004, see section 411(d)(1) of Pub. L. 108–357, set out as a note under section 871 of this title.
 
-Pub. L. 108–357, title IV, §420(d), Oct. 22, 2004, 118 Stat. 1514, provided that: “The amendments made by this section \[amending this section and section 1442 of this title\] shall apply to dividends paid after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title IV, §420(d), Oct. 22, 2004, 118 Stat. 1514, provided that: "The amendments made by this section \[amending this section and section 1442 of this title\] shall apply to dividends paid after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 1993 Amendment
 
@@ -282,7 +282,7 @@ Amendment by section 127(b) of Pub. L. 98–369 applicable to interest received 
 
 Amendment by section 128(b) of Pub. L. 98–369 applicable to payments made on or after the 60th day after July 18, 1984, with respect to obligations issued after Mar. 31, 1972, see section 128(d)(1) of Pub. L. 98–369, set out as a note under section 871 of this title.
 
-Pub. L. 98–369, div. A, title I, §130(d), July 18, 1984, 98 Stat. 661, provided that: “The amendments made by this section \[amending this section and sections 1442 and 7651 of this title\] shall apply to payments made after March 1, 1984, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §130(d), July 18, 1984, 98 Stat. 661, provided that: "The amendments made by this section \[amending this section and sections 1442 and 7651 of this title\] shall apply to payments made after March 1, 1984, in taxable years ending after such date."
 
 #### Effective Date of 1976 Amendment
 
@@ -290,7 +290,7 @@ Amendment by Pub. L. 94–455 effective for taxable years beginning after Dec. 3
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–606, §2, Oct. 31, 1972, 86 Stat. 1497, provided in part that: “The amendments made by section 1(e)(1) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1971.”
+Pub. L. 92–606, §2, Oct. 31, 1972, 86 Stat. 1497, provided in part that: "The amendments made by section 1(e)(1) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1971."
 
 #### Effective Date of 1971 Amendment
 

@@ -16,7 +16,7 @@ To be eligible to receive a grant award under this section, a State shall submit
 
 &emsp;&emsp;(i) persons convicted of a part 1 violent crime on average serve not less than 85 percent of the prison term established under the State's sentencing and release guidelines; or
 
-&emsp;&emsp;(ii) persons convicted of a part 1 violent crime on average serve not less than 85 percent of the maximum prison term allowed under the sentence imposed by the court (not counting time not actually served such as administrative or statutory incentives for good behavior); and
+&emsp;&emsp;(ii) persons convicted of a part 1 violent crime on average serve not less than 85 percent of the maximum prison term allowedunder the sentence imposed by the court (not counting time not actually served such as administrative or statutory incentives for good behavior); and
 
 &emsp;(2) such State has provided assurances that it will follow guidelines established by the Attorney General in reporting, on a quarterly basis, information regarding the death of any person who is in the process of arrest, is en route to be incarcerated, or is incarcerated at a municipal or county jail, State prison, or other local or State correctional facility (including any juvenile facility) that, at a minimum, includes—
 
@@ -34,7 +34,7 @@ Notwithstanding subsection (a) of this section, a State may provide that the Gov
 
 &emsp;(2) a prisoner whose medical condition precludes the prisoner from posing a threat to the public, but only after a public hearing in which representatives of the public and the prisoner's victims have had an opportunity to be heard regarding a proposed release.
 
-(Pub. L. 103–322, title II, §20104, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26,1996, 110 Stat. 1321, 1321–16; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; amended Pub. L. 106–297, §2, Oct. 13, 2000, 114 Stat. 1045.)
+(Pub. L. 103–322, title II, §20104, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–16; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; amended Pub. L. 106–297, §2, Oct. 13, 2000, 114 Stat. 1045.)
 
 #### Prior Provisions
 

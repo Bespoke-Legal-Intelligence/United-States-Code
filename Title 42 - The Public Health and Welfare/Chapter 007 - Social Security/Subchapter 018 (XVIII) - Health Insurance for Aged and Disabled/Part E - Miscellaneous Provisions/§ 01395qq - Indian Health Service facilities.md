@@ -44,13 +44,13 @@ Section 1645 of title 25, referred to in subsec. (f), was amended generally by s
 
 #### Codification
 
-Pub. L. 111–148, §10221(a), enacted into law S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, “\[e\]xcept as provided in” section 10221(b) of Pub. L. 111–148. Section 201(a) of S. 1790 would have amended this section but was stricken out by section 10221(b)(4) of Pub. L. 111–148.
+Pub. L. 111–148, §10221(a), enacted into law S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, "\[e\]xcept as provided in" section 10221(b) of Pub. L. 111–148. Section 201(a) of S. 1790 would have amended this section but was stricken out by section 10221(b)(4) of Pub. L. 111–148.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e)(1)(A). Pub. L. 111–148, §2902(a), substituted “on or after” for “during the 5-year period beginning on”.
+<b>2010</b>—Subsec. (e)(1)(A). Pub. L. 111–148, §2902(a), substituted "on or after" for "during the 5-year period beginning on".
 
-<b>2003</b>—Subsec. (e)(1)(A). Pub. L. 108–173 inserted “(and for items and services furnished during the 5-year period beginning on January 1, 2005, all items and services for which payment may be made under part B of this subchapter)” after “for services described in paragraph (2)”.
+<b>2003</b>—Subsec. (e)(1)(A). Pub. L. 108–173 inserted "(and for items and services furnished during the 5-year period beginning on January 1, 2005, all items and services for which payment may be made under part B of this subchapter)" after "for services described in paragraph (2)".
 
 <b>2000</b>—Subsec. (e). Pub. L. 106–554, §1(a)(6) \[title IV, §432(a)(2)\], added subsec. (e). Former subsec. (e) redesignated (f).
 
@@ -62,7 +62,7 @@ Subsec. (f). Pub. L. 106–554, §1(a)(6) \[title IV, §432(a)(1)\], redesignate
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title II, §2902(b), Mar. 23, 2010, 124 Stat. 333, provided that: “The amendments made by this section \[amending this section\] shall apply to items or services furnished on or after January 1, 2010.”
+Pub. L. 111–148, title II, §2902(b), Mar. 23, 2010, 124 Stat. 333, provided that: "The amendments made by this section \[amending this section\] shall apply to items or services furnished on or after January 1, 2010."
 
 #### Effective Date of 2000 Amendment
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 106–417 effective Oct. 1, 2000, see section 3(c) of Pub. 
 
 #### Medicare Payments Not Considered in Determining Appropriations for Indian Health Care
 
-Pub. L. 94–437, title IV, §401(c), Sept. 30, 1976, 90 Stat. 1409, provided that any payments received for services provided to beneficiaries under this section were not to be considered in determining appropriations for health care and services to Indians, prior to the generalamendment of section 401 of Pub. L. 94–437 by Pub. L. 102–573, title IV, §401(a), Oct. 29, 1992, 106 Stat. 4565. Similar provisions are contained in section 401(a) of Pub. L. 94–437, which is classified to section 1641(a) of Title 25, Indians.
+Pub. L. 94–437, title IV, §401(c), Sept. 30, 1976, 90 Stat. 1409, provided that any payments received for services provided to beneficiaries under this section were not to be considered in determining appropriations for health care and services to Indians, prior to the general amendment of section 401 of Pub. L. 94–437 by Pub. L. 102–573, title IV, §401(a), Oct. 29, 1992, 106 Stat. 4565. Similar provisions are contained in section 401(a) of Pub. L. 94–437, which is classified to section 1641(a) of Title 25, Indians.
 
 #### Preference in Services for Indians With Medicare Coverage Not Authorized
 

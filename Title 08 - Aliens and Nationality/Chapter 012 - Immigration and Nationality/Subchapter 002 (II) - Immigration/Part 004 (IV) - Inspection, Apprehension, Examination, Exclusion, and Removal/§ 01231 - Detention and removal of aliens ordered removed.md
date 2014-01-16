@@ -24,7 +24,7 @@
 
 #### (2) Detention
 
-&emsp;During the removal period, the Attorney General shall detain the alien. Under no circumstance during the removal period shall the Attorney General release an alien who has been found inadmissible under section1182(a)(2) or 1182(a)(3)(B) of this title or deportable under section 1227(a)(2) or 1227(a)(4)(B) of this title.
+&emsp;During the removal period, the Attorney General shall detain the alien. Under no circumstance during the removal period shall the Attorney General release an alien who has been found inadmissible under section 1182(a)(2) or 1182(a)(3)(B) of this title or deportable under section 1227(a)(2) or 1227(a)(4)(B) of this title.
 
 #### (3) Supervision after 90-day period
 
@@ -62,7 +62,7 @@
 
 #### (5) Reinstatement of removal orders against aliens illegally reentering
 
-&emsp;If the Attorney General finds that an alien has reentered the United States illegally after having been removed or having departed voluntarily, under an order of removal, the prior order of removal is reinstated from its original date and is not subject to being reopened or reviewed, the alien is not eligible and may not apply for any relief under this chapter, and the alien shall be removed under the prior order at any time after the reentry.
+&emsp;If the Attorney General finds that an alien has reentered the United States illegally after having been removed or having departed voluntarily, under an order of removal, the prior order of removal is reinstated from its originaldate and is not subject to being reopened or reviewed, the alien is not eligible and may not apply for any relief under this chapter, and the alien shall be removed under the prior order at any time after the reentry.
 
 #### (6) Inadmissible or criminal aliens
 
@@ -88,7 +88,7 @@
 
 #### (B) Travel from contiguous territory
 
-&emsp;&emsp;If the alien boarded the vessel or aircraft on which the alien arrived in the UnitedStates in a foreign territory contiguous to the United States, an island adjacent to the United States, or an island adjacent to a foreign territory contiguous to the United States, and the alien is not a native, citizen, subject, or national of, or does not reside in, the territory or island, removal shall be to the country in which the alien boarded the vessel that transported the alien to the territory or island.
+&emsp;&emsp;If the alien boarded the vessel or aircraft on which the alien arrived in the United States in a foreign territory contiguous to the United States, an island adjacent to the United States, or an island adjacent to a foreign territory contiguous to the United States, and the alien is not a native, citizen, subject, or national of, or does not reside in, the territory or island, removal shall be to the country in which the alien boarded the vessel that transported the alien to the territory or island.
 
 #### (C) Alternative countries
 
@@ -298,7 +298,7 @@
 
 #### (3) Removal upon order
 
-&emsp;An owner, agent, master, commanding officer, person in charge, purser, or consignee of a vessel, aircraft, or other transportation line shall comply with an order of the Attorney General to take on board, guard safely, and transport to the destination specified any alien ordered to be removed under this chapter.
+&emsp;An owner, agent, master, commanding officer, person in charge, purser, or consignee of a vessel, aircraft, or other transportation lineshall comply with an order of the Attorney General to take on board, guard safely, and transport to the destination specified any alien ordered to be removed under this chapter.
 
 #### (e) Payment of expenses of removal
 
@@ -318,7 +318,7 @@
 
 #### (A) Through appropriation
 
-&emsp;&emsp;Except as provided in subparagraph (B), in the case of an alien who has been admittedor permitted to land and is ordered removed, the cost (if any) of removal of the alien from the port of removal shall be at the expense of the appropriation for the enforcement of this chapter.
+&emsp;&emsp;Except as provided in subparagraph (B), in the case of an alien who has been admitted or permitted to land and is ordered removed, the cost (if any) of removal of the alien from the port of removal shall be at the expense of the appropriation for the enforcement of this chapter.
 
 #### (B) Through owner
 
@@ -366,7 +366,7 @@ Nothing in this section shall be construed to create any substantive or procedur
 
 (1) If the chief executive officer of a State (or, if appropriate, a political subdivision of the State) exercising authority with respect to the incarceration of an undocumented criminal alien submits a written request to the Attorney General, the Attorney General shall, as determined by the Attorney General—
 
-&emsp;(A) enter into a contractual arrangement which provides for compensation to the State or a political subdivision of the State, as may be appropriate, with respect to the incarceration of the undocumented criminal alien; or
+&emsp;(A) enter into a contractual arrangement which provides for compensation to the Stateor a political subdivision of the State, as may be appropriate, with respect to the incarceration of the undocumented criminal alien; or
 
 &emsp;(B) take the undocumented criminal alien into the custody of the Federal Government and incarcerate the alien.
 

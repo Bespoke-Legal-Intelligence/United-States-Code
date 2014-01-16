@@ -30,7 +30,7 @@ Subject to the notification requirement under subsection (b), not more than 10 p
 
 #### (c) Appropriate congressional committees
 
-In this section, the term “appropriate congressional committees” means—
+In this section, the term "appropriate congressional committees" means—
 
 &emsp;(1) the Committee on Foreign Affairs, the Committee on Armed Services, and the Committee on Appropriations of the House of Representatives; and
 

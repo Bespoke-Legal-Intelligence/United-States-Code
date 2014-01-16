@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There shall be in the Corporation a Board of Directors (referred to in this division as the “Board”) that shall be composed of—
+&emsp;There shall be in the Corporation a Board of Directors (referred to in this division as the "Board") that shall be composed of—
 
 &emsp;&emsp;(A) 15 members, including an individual between the ages of 16 and 25 who—
 

@@ -27,7 +27,7 @@
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–304, §15(14), Oct. 6, 2006, 120 Stat. 1703, inserted “single hull” before “non-self-propelled” in item 3719.
+<b>2006</b>—Pub. L. 109–304, §15(14), Oct. 6, 2006, 120 Stat. 1703, inserted "single hull" before "non-self-propelled" in item 3719.
 
 <b>1996</b>—Pub. L. 104–324, title IX, §901(c), Oct. 19, 1996, 110 Stat. 3947, added item 3719.
 

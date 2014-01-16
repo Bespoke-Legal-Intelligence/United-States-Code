@@ -28,5 +28,5 @@ Pub. L. 111–211, §241(a)(4), which directed amendment of section 4208a of the
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–211 inserted “, the Attorney General,” after “the Secretary of the Interior” in introductory provisions. See Codification note above.
+<b>2010</b>—Subsec. (a). Pub. L. 111–211 inserted ", the Attorney General," after "the Secretary of the Interior" in introductory provisions. See Codification note above.
 

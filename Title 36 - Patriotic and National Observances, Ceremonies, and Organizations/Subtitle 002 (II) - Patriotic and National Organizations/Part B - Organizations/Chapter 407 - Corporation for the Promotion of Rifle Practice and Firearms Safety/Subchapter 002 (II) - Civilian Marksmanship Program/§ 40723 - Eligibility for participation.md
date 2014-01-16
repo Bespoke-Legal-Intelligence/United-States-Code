@@ -60,11 +60,11 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, §1613, 110 Stat. 517.
 
 &nbsp;
 
-In subsection (a)(1), the words “shall certify” are substituted for “shall be required to certify”, and the word “felony” is substituted for “Federal or State felony”, to eliminate unnecessary words.
+In subsection (a)(1), the words "shall certify" are substituted for "shall be required to certify", and the word "felony" is substituted for "Federal or State felony", to eliminate unnecessary words.
 
-In subsection (a)(2), the words “provide certification” are substituted for “attach to the person's affidavit a certification”, and the words “law enforcement agencies” are substituted for “appropriate State or Federal law enforcement agency”, to eliminate unnecessary words.
+In subsection (a)(2), the words "provide certification" are substituted for "attach to the person's affidavit a certification", and the words "law enforcement agencies" are substituted for "appropriate State or Federal law enforcement agency", to eliminate unnecessary words.
 
-In subsection (b), the words “may not participate” are substituted for “shall not be eligible to participate” to eliminate unnecessary words. The words “through the Civilian Marksmanship Program” are omitted as unnecessary. The word “felony” is substituted for “Federal or State felony” to eliminate unnecessary words.
+In subsection (b), the words "may not participate" are substituted for "shall not be eligible to participate" to eliminate unnecessary words. The words "through the Civilian Marksmanship Program" are omitted as unnecessary. The word "felony" is substituted for "Federal or State felony" to eliminate unnecessary words.
 
-In subsection (c)(3), the words “the quality of instruction” are substituted for “quality instruction” for consistency in the subsection.
+In subsection (c)(3), the words "the quality of instruction" are substituted for "quality instruction" for consistency in the subsection.
 

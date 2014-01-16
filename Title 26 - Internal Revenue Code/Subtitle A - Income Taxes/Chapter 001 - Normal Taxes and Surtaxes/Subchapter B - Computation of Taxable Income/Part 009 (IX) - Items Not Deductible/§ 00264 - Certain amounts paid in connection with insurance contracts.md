@@ -72,11 +72,11 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 &emsp;&emsp;&emsp;&emsp;(II) which is a contract providing a variable rate of interest, the applicable rate of interest for any month in an applicable period shall be such Moody's rate for the third month preceding the first month in such period.
 
-&emsp;&emsp;&nbsp;For purposes of subclause (II), the term “applicable period” means the 12-month period beginning on the date the policy is issued (and each successive 12-month period thereafter) unless the taxpayer elects a number of months (not greater than 12) other than such 12-month period to be its applicable period. Such an election shall be made not later than the 90th day after the date of the enactment of this sentence and, if made, shall apply to the taxpayer's first taxable year ending on or after October 13, 1995, and all subsequent taxable years unless revoked with the consent of the Secretary.
+&emsp;&emsp;&nbsp;For purposes of subclause (II), the term "applicable period" means the 12-month period beginning on the date the policy is issued (and each successive 12-month period thereafter) unless the taxpayer elects a number of months (not greater than 12) other than such 12-month period to be its applicable period. Such an election shall be made not later than the 90th day after the date of the enactment of this sentence and, if made, shall apply to the taxpayer's first taxable year ending on or after October 13, 1995, and all subsequent taxable years unless revoked with the consent of the Secretary.
 
 #### (3) Key person
 
-&emsp;For purposes of paragraph (1), the term “key person” means an officer or 20-percent owner, except that the number of individuals who may be treated as key persons with respect to any taxpayer shall not exceed the greater of—
+&emsp;For purposes of paragraph (1), the term "key person" means an officer or 20-percent owner, except that the number of individuals who may be treated as key persons with respect to any taxpayer shall not exceed the greater of—
 
 &emsp;&emsp;(A) 5 individuals, or
 
@@ -84,7 +84,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 #### (4) 20-percent owner
 
-&emsp;For purposes of this subsection, the term “20-percent owner” means—
+&emsp;For purposes of this subsection, the term "20-percent owner" means—
 
 &emsp;&emsp;(A) if the taxpayer is a corporation, any person who owns directly 20 percent or more of the outstanding stock of the corporation or stock possessing 20 percent or more of the total combined voting power of all stock of the corporation, or
 
@@ -124,7 +124,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 #### (3) Unborrowed policy cash value
 
-&emsp;For purposes of this subsection, the term “unborrowed policy cash value” means, with respect to any life insurance policy or annuity or endowment contract, the excess of—
+&emsp;For purposes of this subsection, the term "unborrowed policy cash value" means, with respect to any life insurance policy or annuity or endowment contract, the excess of—
 
 &emsp;&emsp;(A) the cash surrender value of such policy or contract determined without regard to any surrender charge, over
 
@@ -154,11 +154,11 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 #### (D) 20-percent owner
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “20-percent owner” has the meaning given such term by subsection (e)(4).
+&emsp;&emsp;For purposes of subparagraph (A), the term "20-percent owner" has the meaning given such term by subsection (e)(4).
 
 #### (E) Master contracts
 
-&emsp;&emsp;If coverage for each insured under a master contract is treated as a separate contract for purposes of sections 817(h), 7702, and 7702A, coverage for each such insured shall be treated as a separate contract for purposes of subparagraph (A). For purposes of the preceding sentence, the term “master contract” shall not include any group life insurance contract (as defined in section 848(e)(2)).
+&emsp;&emsp;If coverage for each insured under a master contract is treated as a separate contract for purposes of sections 817(h), 7702, and 7702A, coverage for each such insured shall be treated as a separate contract for purposes of subparagraph (A). For purposes of the preceding sentence, the term "master contract" shall not include any group life insurance contract (as defined in section 848(e)(2)).
 
 #### (5) Exception for policies and contracts held by natural persons; treatment of partnerships and S corporations
 
@@ -206,7 +206,7 @@ Subsection (a)(3) shall not apply to any amount paid or accrued by a person duri
 
 #### (7) Interest expense
 
-&emsp;The term “interest expense” means the aggregate amount allowable to the taxpayer as a deduction for interest (within the meaning of section 265(b)(4)) for the taxable year (determined without regard to this subsection, section 265(b), and section 291).
+&emsp;The term "interest expense" means the aggregate amount allowable to the taxpayer as a deduction for interest (within the meaning of section 265(b)(4)) for the taxable year (determined without regard to this subsection, section 265(b), and section 291).
 
 #### (8) Aggregation rules
 
@@ -230,51 +230,51 @@ Another section 1084(b) of Pub. L. 105–34 amended sections 805, 807, 812, and 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(3). Pub. L. 105–206, §6010(o)(1), substituted “subsection (d)” for “subsection (c)”.
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–206, §6010(o)(1), substituted "subsection (d)" for "subsection (c)".
 
-Subsec. (a)(4). Pub. L. 105–206, §6010(o)(2), substituted “subsection (e)” for “subsection (d)”.
+Subsec. (a)(4). Pub. L. 105–206, §6010(o)(2), substituted "subsection (e)" for "subsection (d)".
 
 Subsec. (f)(3). Pub. L. 105–277 inserted concluding provisions.
 
 Subsec. (f)(4)(E). Pub. L. 105–206, §6010(o)(3)(A), added subpar. (E).
 
-Subsec. (f)(5)(A)(iv). Pub. L. 105–206, §6010(o)(4)(A), struck out at end “Any report required under the preceding sentence shall be treated as a statement referred to in section 6724(d)(1).”
+Subsec. (f)(5)(A)(iv). Pub. L. 105–206, §6010(o)(4)(A), struck out at end "Any report required under the preceding sentence shall be treated as a statement referred to in section 6724(d)(1)."
 
-Subsec. (f)(8)(A). Pub. L. 105–206, §6010(o)(5), substituted “subsection (e)(5)(B)” for “subsection (d)(5)(B)”.
+Subsec. (f)(8)(A). Pub. L. 105–206, §6010(o)(5), substituted "subsection (e)(5)(B)" for "subsection (d)(5)(B)".
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34, §1084(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Premiums paid on any life insurance policy covering the life of any officer or employee, or of any person financially interested in any trade or business carried on by the taxpayer, when the taxpayer is directly or indirectly a beneficiary under such policy.”
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34, §1084(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Premiums paid on any life insurance policy covering the life of any officer or employee, or of any person financially interested in any trade or business carried on by the taxpayer, when the taxpayer is directly or indirectly a beneficiary under such policy."
 
 Subsec. (a)(4). Pub. L. 105–34, §1602(f)(1), added subpars. (A) and (B) and concluding provisions and struck out former subpars. (A) and (B) and concluding provisions which read as follows:
 
-“(A) is an officer or employee of, or
+"(A) is an officer or employee of, or
 
-“(B) is financially interested in,
+"(B) is financially interested in,
 
-> any trade or business carried on by the taxpayer.”
+> any trade or business carried on by the taxpayer."
 
-Pub. L. 105–34, §1084(b)(1), substituted “individual.” for “individual, who—
+Pub. L. 105–34, §1084(b)(1), substituted "individual." for "individual, who—
 
-&emsp;“(A) is or was an officer or employee, or
+&emsp;"(A) is or was an officer or employee, or
 
-&emsp;“(B) is or was financially interested in,
+&emsp;"(B) is or was financially interested in,
 
-> any trade or business carried on (currently or formerly) by the taxpayer.”
+> any trade or business carried on (currently or formerly) by the taxpayer."
 
 Subsecs. (b), (c). Pub. L. 105–34, §1084(a)(2), added subsec. (b) and redesignated former subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 105–34, §1084(a)(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(2)(B)(ii). Pub. L. 105–34, §1602(f)(2), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “For purposes of subclause (II), the taxpayer shall elect an applicable period for such contract on its return of tax imposed by this chapter for its first taxable year ending on or after October 13, 1995. Such applicable period shall be for any number of months (not greater than 12) specified in the election and may not be changed by the taxpayer without the consent of the Secretary.”
+Subsec. (d)(2)(B)(ii). Pub. L. 105–34, §1602(f)(2), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: "For purposes of subclause (II), the taxpayer shall elect an applicable period for such contract on its return of tax imposed by this chapter for its first taxable year ending on or after October 13, 1995. Such applicable period shall be for any number of months (not greater than 12) specified in the election and may not be changed by the taxpayer without the consent of the Secretary."
 
-Subsec. (d)(4)(B). Pub. L. 105–34, §1602(f)(3), substituted “interest in the taxpayer” for “interest in the employer”.
+Subsec. (d)(4)(B). Pub. L. 105–34, §1602(f)(3), substituted "interest in the taxpayer" for "interest in the employer".
 
 Subsec. (e). Pub. L. 105–34, §1084(a)(2), redesignated subsec. (d) as (e).
 
 Subsec. (f). Pub. L. 105–34, §1084(c), added subsec. (f).
 
-<b>1996</b>—Subsec. (a)(4). Pub. L. 104–191, §501(a)(1), (b)(1), in introductory provisions, substituted “Except as provided in subsection (d), any” for “Any” and inserted “, or any endowment or annuity contracts owned by the taxpayer covering any individual,” after “the life of any individual”.
+<b>1996</b>—Subsec. (a)(4). Pub. L. 104–191, §501(a)(1), (b)(1), in introductory provisions, substituted "Except as provided in subsection (d), any" for "Any" and inserted ", or any endowment or annuity contracts owned by the taxpayer covering any individual," after "the life of any individual".
 
-Pub. L. 104–191, §501(a)(2), struck out “to the extent that the aggregate amount of such indebtedness with respect to policies covering such individual exceeds $50,000” after “carried on by the taxpayer” in concluding provisions.
+Pub. L. 104–191, §501(a)(2), struck out "to the extent that the aggregate amount of such indebtedness with respect to policies covering such individual exceeds $50,000" after "carried on by the taxpayer" in concluding provisions.
 
 Subsec. (d). Pub. L. 104–191, §501(b)(2), added subsec. (d).
 
@@ -300,39 +300,39 @@ Amendment by section 1602(f)(1)–(3) of Pub. L. 105–34 effective as if includ
 
 Pub. L. 104–191, title V, §501(c), Aug. 21, 1996, 110 Stat. 2091, as amended by Pub. L. 105–34, title XVI, §1602(f)(4), Aug. 5, 1997, 111 Stat. 1095, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section\] shall apply to interest paid or accrued after October 13, 1995.
 
-“(2)
+"(2)
 
 Transition rule for existing indebtedness.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—In the case of—
 
-&emsp;&emsp;“(i) indebtedness incurred before January 1, 1996, or
+&emsp;&emsp;"(i) indebtedness incurred before January 1, 1996, or
 
-&emsp;&emsp;“(ii) indebtedness incurred before January 1, 1997 with respect to any contract or policy entered into in 1994 or 1995,
+&emsp;&emsp;"(ii) indebtedness incurred before January 1, 1997 with respect to any contract or policy entered into in 1994 or 1995,
 
 > &emsp;the amendments made by this section shall not apply to qualified interest paid or accrued on such indebtedness after October 13, 1995, and before January 1, 1999.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Qualified interest.—For purposes of subparagraph (A), the qualified interest with respect to any indebtedness for any month is the amount of interest (otherwise deductible) which would be paid or accrued for such month on such indebtedness if—
 
-&emsp;&emsp;“(i) in the case of any interest paid or accrued after December 31, 1995, indebtedness with respect to no more than 20,000 insured individuals were taken into account, and
+&emsp;&emsp;"(i) in the case of any interest paid or accrued after December 31, 1995, indebtedness with respect to no more than 20,000 insured individuals were taken into account, and
 
-&emsp;&emsp;“(ii) the lesser of the following rates of interest were used for such month:
+&emsp;&emsp;"(ii) the lesser of the following rates of interest were used for such month:
 
-&emsp;&emsp;&emsp;“(I) The rate of interest specified under the terms of the indebtedness as in effect on October 13, 1995 (and without regard to modification of such terms after such date).
+&emsp;&emsp;&emsp;"(I) The rate of interest specified under the terms of the indebtedness as in effect on October 13, 1995 (and without regard to modification of such terms after such date).
 
-&emsp;&emsp;&emsp;“(II) The applicable percentage of the rate of interest described as Moody's Corporate Bond Yield Average-Monthly Average Corporates as published by Moody's Investors Service, Inc., or any successor thereto, for such month.
+&emsp;&emsp;&emsp;"(II) The applicable percentage of the rate of interest described as Moody's Corporate Bond Yield Average-Monthly Average Corporates as published by Moody's Investors Service, Inc., or any successor thereto, for such month.
 
 > &emsp;For purposes of clause (i), all persons treated as a single employer under subsection (a) or (b) of section 52 of the Internal Revenue Code of 1986 or subsection (m) or (o) of section 414 of such Code shall be treated as 1 person. Subclause (II) of clause (ii) shall not apply to any month before January 1, 1996.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Applicable percentage.—For purposes of subparagraph (B), the applicable percentage is as follows:
 
@@ -352,45 +352,45 @@ Applicable percentage.—For purposes of subparagraph (B), the applicable percen
 
 &nbsp;1998
 
-&nbsp;80 percent.”
+&nbsp;80 percent."
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title X, §1003(c), Oct. 22, 1986, 100 Stat. 2388, provided that: “The amendments made by thissection \[amending this section\] shall apply to contracts purchased after June 20, 1986, in taxable years ending after such date.”
+Pub. L. 99–514, title X, §1003(c), Oct. 22, 1986, 100 Stat. 2388, provided that: "The amendments made by thissection \[amending this section\] shall apply to contracts purchased after June 20, 1986, in taxable years ending after such date."
 
 #### Effective Date of 1964 Amendment
 
-Pub. L. 88–272, title II, §215(c), Feb. 26, 1964, 78 Stat. 56, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to amounts paid or accrued in taxable years beginning after December 31, 1963.”
+Pub. L. 88–272, title II, §215(c), Feb. 26, 1964, 78 Stat. 56, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to amounts paid or accrued in taxable years beginning after December 31, 1963."
 
 #### Spread of Income Inclusion on Surrender, Etc. of Contracts
 
 Pub. L. 104–191, title V, §501(d), Aug. 21, 1996, 110 Stat. 2092, as amended by Pub. L. 105–34, title XVI, §1602(f)(5), Aug. 5, 1997, 111 Stat. 1095, provided that:
 
-“(1)
+"(1)
 
 In general.—If any amount is received under any life insurance policy or endowment or annuity contract described in paragraph (4) of section 264(a) of the Internal Revenue Code of 1986—
 
-&emsp;“(A) on the complete surrender, redemption, or maturity of such policy or contract during calendar year 1996, 1997, or 1998, or
+&emsp;"(A) on the complete surrender, redemption, or maturity of such policy or contract during calendar year 1996, 1997, or 1998, or
 
-&emsp;“(B) in full discharge during any such calendar year of the obligation under the policy or contract which is in the nature of a refund of the consideration paid for the policy or contract,
+&emsp;"(B) in full discharge during any such calendar year of the obligation under the policy or contract which is in the nature of a refund of the consideration paid for the policy or contract,
 
 > then (in lieu of any other inclusion in gross income) such amount shall be includible in gross income ratably over the 4-taxable year period beginning with the taxable year such amount would (but for this paragraph) be includible. The preceding sentence shall only apply to the extent the amount is includible in gross income for the taxable year in which the event described in subparagraph (A) or (B) occurs.
 
-“(2)
+"(2)
 
 Special rules for applying section 264.—A contract shall not be treated as—
 
-&emsp;“(A) failing to meet the requirement of section 264(c)(1) of the Internal Revenue Code of 1986, or
+&emsp;"(A) failing to meet the requirement of section 264(c)(1) of the Internal Revenue Code of 1986, or
 
-&emsp;“(B) a single premium contract under section 264(b)(1) of such Code,
+&emsp;"(B) a single premium contract under section 264(b)(1) of such Code,
 
 > solely by reason of an occurrence described in subparagraph (A) or (B) of paragraph (1) of this subsection or solely by reason of a lapse occurring after October 13, 1995, by reason of no additional premiums being received under the contract.
 
-“(3)
+"(3)
 
 Special rule for deferred acquisition costs.—In the case of the occurrence of any event described in subparagraph (A) or (B) of paragraph (1) of this subsection with respect to any policy or contract—
 
-&emsp;“(A) section 848 of the Internal Revenue Code of 1986 shall not apply to the unamortized balance (if any) of the specified policy acquisition expenses attributable to such policy or contract immediately before the insurance company's taxable year in which such event occurs, and
+&emsp;"(A) section 848 of the Internal Revenue Code of 1986 shall not apply to the unamortized balance (if any) of the specified policy acquisition expenses attributable to such policy or contract immediately before the insurance company's taxable year in which such event occurs, and
 
-&emsp;“(B) there shall be allowed as a deduction to such company for such taxable year under chapter 1 of such Code an amount equal to such unamortized balance.”
+&emsp;"(B) there shall be allowed as a deduction to such company for such taxable year under chapter 1 of such Code an amount equal to such unamortized balance."
 

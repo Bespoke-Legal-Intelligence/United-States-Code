@@ -12,13 +12,13 @@ Shall be fined under this title or imprisoned not more than five years, or both.
 
 Based on title 18, U.S.C., 1940 ed., §92 (Mar. 4, 1909, ch. 321, §40, 35 Stat. 1096).
 
-Word “employee” was inserted after “officer” in two places to clarify scope of section.
+Word "employee" was inserted after "officer" in two places to clarify scope of section.
 
-The words “five years” were substituted for “ten years” in the punishment provision to conform to like provisions in similar offenses. (See section 1001 of this title.)
+The words "five years" were substituted for "ten years" in the punishment provision to conform to like provisions in similar offenses. (See section 1001 of this title.)
 
 Changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
 

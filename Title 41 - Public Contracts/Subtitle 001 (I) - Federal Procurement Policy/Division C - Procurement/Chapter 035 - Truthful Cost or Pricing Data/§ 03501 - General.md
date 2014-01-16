@@ -6,15 +6,15 @@ Definitions.—In this chapter:
 
 &emsp;(1)
 
-Commercial item.—The term “commercial item” has the meaning provided the term by section 103 of this title.
+Commercial item.—The term "commercial item" has the meaning provided the term by section 103 of this title.
 
 &emsp;(2)
 
-Cost or pricing data.—The term “cost or pricing data” means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification) or, if applicable consistent with section 3506(a)(2) of this title, another date agreed upon between the parties, a prudent buyer or seller would reasonably expect to affect price negotiations significantly. The term does not include information that is judgmental, but does include factual information from which a judgment was derived.
+Cost or pricing data.—The term "cost or pricing data" means all facts that, as of the date of agreement on the price of a contract (or the price of a contract modification) or, if applicable consistent with section 3506(a)(2) of this title, another date agreed upon between the parties, a prudent buyer or seller would reasonably expect to affect price negotiations significantly. The term does not include information that is judgmental, but does include factual information from which a judgment was derived.
 
 &emsp;(3)
 
-Subcontract.—The term “subcontract” includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or a subcontractor.
+Subcontract.—The term "subcontract" includes a transfer of commercial items between divisions, subsidiaries, or affiliates of a contractor or a subcontractor.
 
 (b)
 
@@ -58,5 +58,5 @@ Pub. L. 110–417, \[div. A\], title VIII, §868, Oct. 14, 2008, 122 Stat. 4552.
 
 Subsection (a) of Pub. L. 110–417, §868 is omitted as unnecessary.
 
-In subsection (b)(1), the words “The Federal Acquisition Regulation” are substituted for “The regulations modified pursuant to subsection (a)” for clarity and conformity with the revised title.
+In subsection (b)(1), the words "The Federal Acquisition Regulation" are substituted for "The regulations modified pursuant to subsection (a)" for clarity and conformity with the revised title.
 

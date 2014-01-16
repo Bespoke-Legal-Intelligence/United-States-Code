@@ -38,5 +38,5 @@ A prior section 11904, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1457; Pub. L. 9
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a)(2). Pub. L. 105–102 struck out “a” before “person”.
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–102 struck out "a" before "person".
 

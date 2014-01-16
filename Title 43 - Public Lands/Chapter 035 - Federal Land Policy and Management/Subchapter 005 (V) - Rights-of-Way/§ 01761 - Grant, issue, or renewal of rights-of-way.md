@@ -28,7 +28,7 @@ The Secretary, with respect to the public lands (including public lands, as defi
 
 #### (c) Permanent easement for water systems; issuance, preconditions, etc.
 
-(1) Upon receipt of a written application pursuant to paragraph (2) of this subsection from an applicant meeting the requirements of this subsection, the Secretary of Agriculture shall issue a permanent easement, without a requirement for reimbursement, for a water system as described in subsection (a)(1) of this section, traversing Federal lands within the National Forest System (“National Forest Lands”), constructed and in operation or placed into operation prior to October 21, 1976, if—
+(1) Upon receipt of a written application pursuant to paragraph (2) of this subsection from an applicant meeting the requirements of this subsection, the Secretary of Agriculture shall issue a permanent easement, without a requirement for reimbursement, for a water system as described in subsection (a)(1) of this section, traversing Federal lands within the National Forest System ("National Forest Lands"), constructed and in operation or placed into operation prior to October 21, 1976, if—
 
 &emsp;(A) the traversed National Forest lands are in a State where the appropriation doctrine governs the ownership of water rights;
 
@@ -58,7 +58,7 @@ The Secretary, with respect to the public lands (including public lands, as defi
 
 (C) Except as otherwise provided in this subsection, all rights-of-way issued pursuant to this subsection are subject to all conditions and requirements of this Act.
 
-(D) In the event a right-of-way issued pursuant to this subsection is allowed to deteriorate to the point of threatening persons or property and the holder of the right-of-way, after consultation with the Secretary of Agriculture, refusesto perform the repair and maintenance necessary to remove the threat to persons or property, the Secretary shall have the right to undertake such repair and maintenance on the right-of-way and to assess the holder for the costs of such repair and maintenance, regardless of whether the Secretary had required the holder to furnish a bond or other security pursuant to subsection (i) of this section.
+(D) In the event a right-of-way issued pursuant to this subsection is allowed to deteriorate to the point of threatening persons or property and the holder of the right-of-way, after consultation with the Secretary of Agriculture, refuses to perform the repair and maintenance necessary to remove the threat to persons or property, the Secretary shall have the right to undertake such repair and maintenance on the right-of-way and to assess the holder for the costs of such repair and maintenance, regardless of whether the Secretary had required the holder to furnish a bond or other security pursuant to subsection (i) of this section.
 
 #### (d) Rights-of-way on certain Federal lands
 
@@ -74,9 +74,9 @@ This Act, referred to in subsecs. (b)(1) and (c)(3)(C), is Pub. L. 94–579, Oct
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–486, §2401(1), inserted “(including public lands, as defined in section 1702(e) of this title, which are reserved from entry pursuant to section 24 of the Federal Power Act (16 U.S.C. 818))”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–486, §2401(1), inserted "(including public lands, as defined in section 1702(e) of this title, which are reserved from entry pursuant to section 24 of the Federal Power Act (16 U.S.C. 818))".
 
-Subsec. (a)(4). Pub. L. 102–486, §2401(2), substituted “Federal Energy Regulatory Commission under the Federal Power Act, including part 1 thereof (41 Stat. 1063, 16 U.S.C. 791a–825r).” for “Federal Power Commission under the Federal Power Act of 1935 (49 Stat. 847; 16 U.S.C. 791)”. The substitution was made to reflect the probable intent of Congress, in the absence of closing quotations designating the provisions to be struck out.
+Subsec. (a)(4). Pub. L. 102–486, §2401(2), substituted "Federal Energy Regulatory Commission under theFederal Power Act, including part 1 thereof (41 Stat. 1063, 16 U.S.C. 791a–825r)." for "Federal Power Commission under the Federal Power Act of 1935 (49 Stat. 847; 16 U.S.C. 791)". The substitution was made to reflect the probable intent of Congress, in the absence of closing quotations designating the provisions to be struck out.
 
 Subsec. (d). Pub. L. 102–486, §2401(3), added subsec. (d).
 
@@ -88,9 +88,9 @@ Subsec. (c). Pub. L. 99–545, §1(b), added subsec. (c).
 
 Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with land use permits for other associated land uses issued under sections 1761, and 1763 to 1771 of this title, and such functions of Secretary or other official in Department of the Interior related to compliance with land use permits for temporary use of public lands and other associated land uses, issued under sections 1732, 1761, and 1763 to 1771 of this title, with respect to pre-construction, construction, and initial operation of transportation systems for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(e), (f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade. Functions and authority vested in Secretary of Energy subsequently transferred to Federal Coordinator for Alaska Natural Gas Transportation Projects by section 720d(f) of Title 15.
 
-<i><sup>1</sup></i><i> So in original. Probably should be part “I”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be part "I".</i>
 
 <i><sup>2</sup></i><i> So in original. The period preceding the semicolon probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “right-of-way”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "right-of-way".</i>
 

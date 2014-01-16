@@ -8,11 +8,11 @@
 
 &emsp;&emsp;(B) an educational institution having a regular course of military instruction, and having a member of the Army, Navy, Air Force, or Marine Corps as instructor in military science and tactics.
 
-&emsp;(2) The uniform prescribed by a military society composed of persons discharged honorably or under honorable conditions from the Army, Navy, Air Force, or Marine Corps to be worn by a member of that society when authorized by regulations prescribed by the President.
+&emsp;(2) The uniform prescribed by a military society composed of persons discharged honorably or under honorable conditions from theArmy, Navy, Air Force, or Marine Corps to be worn by a member of that society when authorized by regulations prescribed by the President.
 
 (b) A uniform prescribed under subsection (a) may not include insignia of grade the same as, or similar to, those prescribed for officers of the Army, Navy, Air Force, or Marine Corps.
 
-(c) Under such regulations as the Secretary of the military department concerned may prescribe, any person who is permitted to attend a course of instruction prescribed for members of a reserve officers’ training corps, and who is not a member of that corps, may, while attending that course of instruction, wear the uniform of that corps.
+(c) Under such regulations as the Secretary of the military department concerned may prescribe, any person who is permitted to attend a course of instruction prescribed for members of a reserve officers' training corps, and who is not a member of that corps, may, while attending that course of instruction, wear the uniform of that corps.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 35; Pub. L. 85–355, Mar. 28, 1958, 72 Stat. 66.)
 
@@ -40,9 +40,9 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §125 (words between 4th and 7th semicolons of 1st proviso, and 2d and last provisos, of 1st par.), 39 Stat. 216; June 4, 1920, ch. 228, §8, 41 Stat. 836; Sept. 15, 1951, ch. 402, 65 Stat. 323; July 6, 1953, ch. 180, §1, 67 Stat. 140.
 
-In subsection (a), the word “mark” is omitted as surplusage.
+In subsection (a), the word "mark" is omitted as surplusage.
 
-In subsection (a)(2), the words “persons discharged honorably or under honorable conditions from” are substituted for the words “entirely of honorably discharged officers or enlisted men, or both, of”. The words “Regular or Volunteer” are omitted as surplusage. The words “when authorized by regulations prescribed by” are substituted for the words “upon occasions authorized by regulations of”.
+In subsection (a)(2), the words "persons discharged honorably or under honorable conditions from" are substituted for the words "entirely of honorably discharged officers or enlisted men, or both, of". The words "Regular or Volunteer" are omitted as surplusage. The words "when authorized by regulations prescribed by" are substituted for the words "upon occasions authorized by regulations of".
 
 #### Amendments
 

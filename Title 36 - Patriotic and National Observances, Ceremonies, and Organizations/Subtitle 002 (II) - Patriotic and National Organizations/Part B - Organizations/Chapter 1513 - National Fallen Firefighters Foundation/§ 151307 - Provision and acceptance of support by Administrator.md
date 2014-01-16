@@ -20,7 +20,7 @@ Acceptance by Administrator.—The Administrator may accept, without regard to c
 
 #### Amendment Subsequent to August 15, 1997
 
-<i>Section 5204 of former Title 36, from which subsec. (a) of this section was derived, was amended generally by Pub. L. 105–276, title IV, §427(c), Oct. 21, 1998, 112 Stat. 2511, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding section 101 of this title. As subsequently amended by Pub. L. 106–503 subsec. (a) of this section restated the provisions of section 5204 of former Title 36, as amended by Pub. L. 105–276, §427(c), with the following exceptions—(1) in the introductory provisions of subsec. (a)(1), the words “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000” were used instead of “During the 10-year period beginning on the date of the enactment of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1999”, (2) in subsec. (a)(1)(A), the words “other administrative services to” were used instead of “other required services for the operation of”, and (3) in subsec. (a)(1)(B), the words “may require and accept reimbursements” were used instead of “may accept reimbursement”.</i>
+<i>Section 5204 of former Title 36, from which subsec. (a) of this section was derived, was amended generally by Pub. L. 105–276, title IV, §427(c), Oct. 21, 1998, 112 Stat. 2511, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding section 101 of this title. As subsequently amended by Pub. L. 106–503 subsec. (a) of this section restated the provisions of section 5204 of former Title 36, as amended by Pub. L. 105–276, §427(c), with the following exceptions—(1) in the introductory provisions of subsec. (a)(1), the words "During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000" were used instead of "During the 10-year period beginning on the date of the enactment of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1999", (2) in subsec. (a)(1)(A), the words "other administrative services to" were used instead of "other required services for the operation of", and (3) in subsec. (a)(1)(B), the words "may require and accept reimbursements" were used instead of "may accept reimbursement".</i>
 
 Historical and Revision Notes
 
@@ -44,15 +44,15 @@ Oct. 26, 1992, Pub. L. 102–522, title II, §§205, 206, 106 Stat. 3419.
 
 &nbsp;
 
-In subsection (b), the words “chapters 33 and 51 and subchapter III of chapter 53 of title 5 and related regulations” are substituted for “the Federal civil service classification laws, rules, or regulations” for consistency in the revised title and with other titles of the United States Code.
+In subsection (b), the words "chapters 33 and 51 and subchapter III of chapter 53 of title 5 and related regulations" are substituted for "the Federal civil service classification laws, rules, or regulations" for consistency in the revised title and with other titles of the United States Code.
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–169 substituted “The” for “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000, the”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–169 substituted "The" for "During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000, the".
 
-<b>2000</b>—Subsec. (a)(1). Pub. L. 106–503, §113(d)(1), substituted “During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000, the Administrator” for “The Administrator” in introductory provisions.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–503, §113(d)(1), substituted "During the 10-year period beginning on the date of the enactment of the Fire Administration Authorization Act of 2000, the Administrator" for "The Administrator" in introductory provisions.
 
-Subsec. (a)(1)(B). Pub. L. 106–503, §113(d)(2), substituted “may” for “shall”.
+Subsec. (a)(1)(B). Pub. L. 106–503, §113(d)(2), substituted "may" for "shall".
 
 #### Transfer of Functions
 

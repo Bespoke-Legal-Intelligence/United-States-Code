@@ -8,5 +8,5 @@ The Secretary of <sup>1</sup> Interior is authorized to—
 
 (July 14, 1943, ch. 238, §3, 57 Stat. 564.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of the".</i>
 

@@ -24,5 +24,5 @@ A political subdivision may petition the Attorney General for a termination unde
 
 <b>2006</b>—Pub. L. 109–246 amended section generally. Prior to amendment, section related to termination of listing procedures, basis for termination, and survey or census by the Director of the Census.
 
-<b>1975</b>—Pub. L. 94–73 substituted “on account of race or color, or in contravention of the guarantees set forth in section 1973b(f)(2) of this title” for “on account of race or color”.
+<b>1975</b>—Pub. L. 94–73 substituted "on account of race or color, or in contravention of the guarantees set forth in section 1973b(f)(2) of this title" for "on account of race or color".
 

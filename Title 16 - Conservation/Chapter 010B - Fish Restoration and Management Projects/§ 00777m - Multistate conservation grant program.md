@@ -30,7 +30,7 @@
 
 #### (2) Use of submitted priority list of projects
 
-&emsp;The Secretary of the Interior may make grants under this section only for projectsidentified on a priority list of sport fish restoration projects described in paragraph (3).
+&emsp;The Secretary of the Interior may make grants under this section only for projects identified on a priority list of sport fish restoration projects described in paragraph (3).
 
 #### (3) Priority list of projects
 
@@ -112,13 +112,13 @@ The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–
 
 <b>2010</b>—Subsec. (a)(1). Pub. L. 111–281 made technical correction to directory language of Pub. L. 109–241, §901(r)(2). See 2006 Amendment note below.
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–241, §901(r)(2), as amended by Pub. L. 111–281, substituted “Not more than” for “For each of fiscal years 2006 through 2009, not more than”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–241, §901(r)(2), as amended by Pub. L. 111–281, substituted "Not more than" for "For each of fiscal years 2006 through 2009, not more than".
 
-<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §10118(1), reenacted subsec. (a) and par. (1) headings without change and amended text of par. (1) generally. Prior to amendment, text read as follows: “Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title in a fiscal year, not more than $3,000,000 shall be available to the Secretary of the Interior for making multistate conservation project grants in accordance with this section.”
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §10118(1), reenacted subsec. (a) and par. (1) headings without change and amended text of par. (1) generally. Prior to amendment, text read as follows: "Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title in a fiscal year, not more than $3,000,000 shall be available to the Secretary of the Interior for making multistate conservation project grants in accordance with this section."
 
-Subsec. (a)(2)(B). Pub. L. 109–59, §10118(2), substituted “section 777c(c)” for “section 777c(e)” in two places.
+Subsec. (a)(2)(B). Pub. L. 109–59, §10118(2), substituted "section 777c(c)" for "section 777c(e)" in two places.
 
-Subsec. (e). Pub. L. 109–59, §10118(3), added introductory provisions and struck out former introductory provisions which read as follows: “Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title for each fiscal year and after deducting amounts used for grants under subsection (a) of this section—”.
+Subsec. (e). Pub. L. 109–59, §10118(3), added introductory provisions and struck out former introductory provisions which read as follows: "Of the balance of each annual appropriation made under section 777b of this title remaining after the distribution and use under subsections (a), (b), and (c) of section 777c of this title for each fiscal year and after deducting amounts used for grants under subsection (a) of this section—".
 
 #### Effective Date of 2010 Amendment
 
@@ -126,7 +126,7 @@ Pub. L. 111–281, title IX, §903(a), Oct. 15, 2010, 124 Stat. 3010, provided t
 
 #### Effective Date of 2005 Amendments
 
-From Aug. 10, 2005, to end of fiscal year 2005, subsecs. (a)(1), (2)(B) and (e) of this section considered to read asimmediately before enactment of Pub. L. 109–59, see section 101(b) of Pub. L. 109–74, set out as a note under section 777b of this title.
+From Aug. 10, 2005, to end of fiscal year 2005, subsecs. (a)(1), (2)(B) and (e) of this section considered to read as immediately before enactment of Pub. L. 109–59, see section 101(b) of Pub. L. 109–74, set out as a note under section 777b of this title.
 
 Amendment by Pub. L. 109–59 effective Oct. 1, 2005, see section 10102 of Pub. L. 109–59, set out as a note under section 777b of this title.
 

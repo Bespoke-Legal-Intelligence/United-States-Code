@@ -24,7 +24,7 @@ In a case in which any Federal lands included within the park are legally occupi
 
 #### (5) Taylor Grazing Act
 
-&emsp;Nothing in this subsection affects other provisions concerning leases, permits, or licenses under the Act of June 28, 1934 (commonly known as the “Taylor Grazing Act”) (48 Stat. 1269, chapter 865; 43 U.S.C. 315 et seq.).
+&emsp;Nothing in this subsection affects other provisions concerning leases, permits, or licenses under the Act of June 28, 1934 (commonly known as the "Taylor Grazing Act") (48 Stat. 1269, chapter 865; 43 U.S.C. 315 et seq.).
 
 #### (6) Administration
 

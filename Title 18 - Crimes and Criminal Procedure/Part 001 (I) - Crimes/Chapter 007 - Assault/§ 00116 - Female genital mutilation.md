@@ -20,21 +20,21 @@
 
 #### Effective Date
 
-Pub. L. 104–208, div. C, title VI, §645(c), Sept. 30, 1996, 110 Stat. 3009–709, provided that: “The amendments made by subsection (b) \[enacting this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title VI, §645(c), Sept. 30, 1996, 110 Stat. 3009–709, provided that: "The amendments made by subsection (b) \[enacting this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
 #### Congressional Findings
 
-Pub. L. 104–208, div. C, title VI, §645(a), Sept. 30, 1996, 110 Stat. 3009–708, provided that: “The Congress finds that—
+Pub. L. 104–208, div. C, title VI, §645(a), Sept. 30, 1996, 110 Stat. 3009–708, provided that: "The Congress finds that—
 
-&emsp;“(1) the practice of female genital mutilation is carried out by members of certain cultural and religious groups within the United States;
+&emsp;"(1) the practice of female genital mutilation is carried out by members of certain cultural and religious groups within the United States;
 
-&emsp;“(2) the practice of female genital mutilation often results in the occurrence of physical and psychological health effects that harm the women involved;
+&emsp;"(2) the practice of female genital mutilation often results in the occurrence of physical and psychological health effects that harm the women involved;
 
-&emsp;“(3) such mutilation infringes upon the guarantees of rights secured by Federal and State law, both statutory and constitutional;
+&emsp;"(3) such mutilation infringes upon the guarantees of rights secured by Federal and State law, both statutory and constitutional;
 
-&emsp;“(4) the unique circumstances surrounding the practice of female genital mutilation place it beyond the ability of any single State or local jurisdiction to control;
+&emsp;"(4) the unique circumstances surrounding the practice of female genital mutilation place it beyond the ability of any single State or local jurisdiction to control;
 
-&emsp;“(5) the practice of female genital mutilation can be prohibited without abridging the exercise of any rights guaranteed under the first amendment to the Constitution or under any other law; and
+&emsp;"(5) the practice of female genital mutilation can be prohibited without abridging the exercise of any rights guaranteed under the first amendment to the Constitution or under any other law; and
 
-&emsp;“(6) Congress has the affirmative power under section 8 of article I, the necessary and proper clause, section 5 of the fourteenth Amendment, as well as under the treaty clause, to the Constitution to enact such legislation.”
+&emsp;"(6) Congress has the affirmative power under section 8 of article I, the necessary and proper clause, section 5 of the fourteenth Amendment, as well as under the treaty clause, to the Constitution to enact such legislation."
 

@@ -2,7 +2,7 @@
 
 (a) There is authorized to be appropriated annually to each agency of the Government of the United States, including a Government owned corporation, and of the government of the District of Columbia, on a showing of necessity or desirability, such sums as may be necessary to carry out this subchapter. The head of the agency concerned, out of funds made available by the appropriation, shall—
 
-&emsp;(1) furnish to each of these employees a uniform at a cost not to exceed $400 a year (or such higher maximum amount as the Office of Personnel Management may establish under section 5902); or
+&emsp;(1) furnish to each of these employees a uniform at a cost not to exceed $400 a year (orsuch higher maximum amount as the Office of Personnel Management may establish under section 5902); or
 
 &emsp;(2) pay to each of these employees an allowance for a uniform not to exceed $400 a year (or such higher maximum amount as the Office of Personnel Management may establish under section 5902).
 
@@ -84,7 +84,7 @@ Subsec. (a)(1), (2). Pub. L. 101–509, §529 \[title II, §202(a)(2)\], substit
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 #### Availability of Appropriations for Uniforms and Uniform Allowances
 

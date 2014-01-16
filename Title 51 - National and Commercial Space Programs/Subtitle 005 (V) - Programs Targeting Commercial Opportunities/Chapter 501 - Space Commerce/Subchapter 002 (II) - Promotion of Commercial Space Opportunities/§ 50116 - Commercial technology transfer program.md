@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Administrator shall execute a commercial technology transfer program with the goal of facilitating the exchange of services, products, and intellectual property between the Administration and the private sector. This program shall place at least as much emphasis on encouraging the transfer of Administration technology to the private sector (“spinning out”) as on encouraging use of private sector technology by the Administration. This program shall be maintained in a manner that provides clear benefits for the Administration, the domestic economy, and the research community.
+In General.—The Administrator shall execute a commercial technology transfer program with the goal of facilitating the exchange of services, products, and intellectual property between the Administration and the private sector. This program shall place at least as much emphasis on encouraging the transfer of Administration technology to the private sector ("spinning out") as on encouraging use of private sector technology by the Administration. This program shall be maintained in a manner that provides clear benefits for the Administration, the domestic economy, and the research community.
 
 (b)
 
@@ -28,7 +28,7 @@ Pub. L. 109–155, title VI, §621, Dec. 30, 2005, 119 Stat. 2935.
 
 This section restates provisions originally enacted as part of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2895), and not as part of the Commercial Space Act of 1998 (Public Law 105–303, 112 Stat. 2843), which is generally restated in this chapter.
 
-In subsection (a), in the last sentence, the word “Administration” is substituted for “agency” for clarity and because of the definition of “Administration” added by section 10101 of title 51.
+In subsection (a), in the last sentence, the word "Administration" is substituted for "agency" for clarity and because of the definition of "Administration" added by section 10101 of title 51.
 
-In subsection (b), the date “December 30, 2005” is substituted for “the date of enactment of this Act” to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2895).
+In subsection (b), the date "December 30, 2005" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2895).
 

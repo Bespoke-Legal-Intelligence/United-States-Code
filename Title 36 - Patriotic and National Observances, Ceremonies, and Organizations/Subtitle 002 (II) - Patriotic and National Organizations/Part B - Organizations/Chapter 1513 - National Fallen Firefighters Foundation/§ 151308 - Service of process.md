@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Oct. 26, 1992, Pub. L. 102–522, title II, §204(a)(4), 106 Stat. 3419.
 
-The words “at all times” are omitted as unnecessary and for consistency in the revised title. The word “have” is substituted for “maintain” for consistency in the revised title.
+The words "at all times" are omitted as unnecessary and for consistency in the revised title. The word "have" is substituted for "maintain" for consistency in the revised title.
 

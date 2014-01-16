@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(A) to develop and distribute informational materials on clean energy technologies, including continuation of the 8 websites in existence on December 19, 2007;
 
-&emsp;&emsp;(B) to develop and conduct target market workshops, seminars, Internet programs, and other activities to educate end users, regulators, and stakeholders in a manner that leads to the deployment of clean energy technologies;
+&emsp;&emsp;(B) to develop and conduct target market workshops, seminars, Internet programs, and other activities to educate end users,regulators, and stakeholders in a manner that leads to the deployment of clean energy technologies;
 
 &emsp;&emsp;(C) to provide or coordinate onsite assessments for sites and enterprises that may consider deployment of clean energy technology;
 

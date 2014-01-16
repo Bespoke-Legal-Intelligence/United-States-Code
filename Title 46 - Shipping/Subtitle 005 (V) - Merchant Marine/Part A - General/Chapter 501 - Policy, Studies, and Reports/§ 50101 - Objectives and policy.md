@@ -52,5 +52,5 @@ This section consolidates the source provisions to eliminate repetition.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(4). Pub. L. 111–84 inserted “constructed in the United States” after “vessels”.
+<b>2009</b>—Subsec. (a)(4). Pub. L. 111–84 inserted "constructed in the United States" after "vessels".
 

@@ -6,5 +6,5 @@ That where the Government survey has not been completed the aforesaid descriptio
 
 (July 3, 1926, ch. 776, §1, 44 Stat. 889.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “within”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "within".</i>
 

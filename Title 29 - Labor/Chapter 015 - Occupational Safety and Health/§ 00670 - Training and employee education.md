@@ -46,7 +46,7 @@ The Secretary, in consultation with the Secretary of Health and Human Services, 
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (a) and (c) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (a) and (c) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Retention of Training Institute Course Tuition Fees by OSHA
 

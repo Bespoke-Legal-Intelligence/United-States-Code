@@ -168,11 +168,11 @@ A prior section 3839aa–2, Pub. L. 99–198, title XII, §1240B, as added Pub. 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–55 substituted “2014” for “2012”.
+<b>2011</b>—Subsec. (a). Pub. L. 112–55 substituted "2014" for "2012".
 
 <b>2008</b>—Pub. L. 110–246, §2503, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (h) relating to provision of cost-share payments and incentive payments, application and term of a contract, bidding down, payment amounts, incentive payments, modification or termination of contracts, allocation of funding for fiscal years 2002 through 2007, and funding for federally recognized Native American Indian Tribes and Alaska Native Corporations.
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–171 substituted “2010” for “2007”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–171 substituted "2010" for "2007".
 
 <b>2004</b>—Subsec. (h). Pub. L. 108–447 added subsec. (h).
 

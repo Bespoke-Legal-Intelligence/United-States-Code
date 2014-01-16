@@ -10,7 +10,7 @@
 
 #### References in Text
 
-This Act, referred to in subsec. (b), means the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar.10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§3201 et seq.) of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of Title 22 and Tables.
+This Act, referred to in subsec. (b), means the Nuclear Non-Proliferation Act of 1978, Pub. L. 95–242, Mar. 10, 1978, 92 Stat. 120, which is classified principally to chapter 47 (§3201 et seq.) of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 3201 of Title 22 and Tables.
 
 #### Codification
 

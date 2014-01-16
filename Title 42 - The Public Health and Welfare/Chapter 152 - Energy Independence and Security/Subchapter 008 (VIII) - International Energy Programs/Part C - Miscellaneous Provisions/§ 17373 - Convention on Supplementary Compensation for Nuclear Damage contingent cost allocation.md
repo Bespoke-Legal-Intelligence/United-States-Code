@@ -6,7 +6,7 @@
 
 &emsp;Congress finds that—
 
-&emsp;&emsp;(A) section 2210 of this title (commonly known as the “Price-Anderson Act”)—
+&emsp;&emsp;(A) section 2210 of this title (commonly known as the "Price-Anderson Act")—
 
 &emsp;&emsp;&emsp;(i) provides a predictable legal framework necessary for nuclear projects; and
 
@@ -52,29 +52,29 @@ In this section:
 
 #### (1) Commission
 
-&emsp;The term “Commission” means the Nuclear Regulatory Commission.
+&emsp;The term "Commission" means the Nuclear Regulatory Commission.
 
 #### (2) Contingent cost
 
-&emsp;The term “contingent cost” means the cost to the United States in the event of a covered incident the amount of which is equal to the amount of funds the United States is obligated to make available under paragraph 1(b) of Article III of the Convention.
+&emsp;The term "contingent cost" means the cost to the United States in the event of a covered incident the amount of which is equal to the amount of funds the United States is obligated to make available under paragraph 1(b) of Article III of the Convention.
 
 #### (3) Convention
 
-&emsp;The term “Convention” means the Convention on Supplementary Compensation for Nuclear Damage, done at Vienna on September 12, 1997.
+&emsp;The term "Convention" means the Convention on Supplementary Compensation for Nuclear Damage, done at Vienna on September 12, 1997.
 
 #### (4) Covered incident
 
-&emsp;The term “covered incident” means a nuclear incident the occurrence of which results in a request for funds pursuant to Article VII of the Convention.
+&emsp;The term "covered incident" means a nuclear incident the occurrence of which results in a request for funds pursuant to Article VII of the Convention.
 
 #### (5) Covered installation
 
-&emsp;The term “covered installation” means a nuclear installation at which the occurrence of a nuclear incident could result in a request for funds under Article VII of the Convention.
+&emsp;The term "covered installation" means a nuclear installation at which the occurrence of a nuclear incident could result in a request for funds under Article VII of the Convention.
 
 #### (6) Covered person
 
 #### (A) In general
 
-&emsp;&emsp;The term “covered person” means—
+&emsp;&emsp;The term "covered person" means—
 
 &emsp;&emsp;&emsp;(i) a United States person; and
 
@@ -86,7 +86,7 @@ In this section:
 
 #### (B) Exclusions
 
-&emsp;&emsp;The term “covered person” does not include—
+&emsp;&emsp;The term "covered person" does not include—
 
 &emsp;&emsp;&emsp;(i) the United States; or
 
@@ -94,7 +94,7 @@ In this section:
 
 #### (7) Nuclear supplier
 
-&emsp;The term “nuclear supplier” means a covered person (or a successor in interest of a covered person) that—
+&emsp;The term "nuclear supplier" means a covered person (or a successor in interest of a covered person) that—
 
 &emsp;&emsp;(A) supplies facilities, equipment, fuel, services, or technology pertaining to the design, construction, operation, or decommissioning of a covered installation; or
 
@@ -102,21 +102,21 @@ In this section:
 
 #### (8) Price-Anderson incident
 
-&emsp;The term “Price-Anderson incident” means a covered incident for which section 2210 of this title would make funds available to compensate for public liability (as defined in section 2014 of this title).
+&emsp;The term "Price-Anderson incident" means a covered incident for which section 2210 of this title would make funds available to compensate for public liability (as defined in section 2014 of this title).
 
 #### (9) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Energy.
+&emsp;The term "Secretary" means the Secretary of Energy.
 
 #### (10) United States
 
 #### (A) In general
 
-&emsp;&emsp;The term “United States” has the meaning given the term in section 2014 of this title.
+&emsp;&emsp;The term "United States" has the meaning given the term in section 2014 of this title.
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “United States” includes—
+&emsp;&emsp;The term "United States" includes—
 
 &emsp;&emsp;&emsp;(i) the Commonwealth of Puerto Rico;
 
@@ -128,7 +128,7 @@ In this section:
 
 #### (11) United States person
 
-&emsp;The term “United States person” means—
+&emsp;The term "United States person" means—
 
 &emsp;&emsp;(A) any individual who is a resident, national, or citizen of the United States (other than an individual residing outside of the United States and employed by a person who is not a United States person); and
 
@@ -234,7 +234,7 @@ In this section:
 
 #### (g) Effect on liability
 
-Nothing in any other law (including regulations) limits liability for a covered incident toan amount equal to less than the amount prescribed in paragraph 1(a) of Article IV of the Convention, unless the law—
+Nothing in any other law (including regulations) limits liability for a covered incident to an amount equal to less than the amount prescribed in paragraph 1(a) of Article IV of the Convention, unless the law—
 
 &emsp;(1) specifically refers to this section; and
 
@@ -288,7 +288,7 @@ Nothing in any other law (including regulations) limits liability for a covered 
 
 #### (A) In general
 
-&emsp;&emsp;In any civil action arising under the Convention over which Article XIII of the Convention grants jurisdiction to the courts of the United States, any appeal or review by writ of mandamus or otherwise with respect to a nuclear incident that is not a Price-Anderson incident shall be in accordance with chapter 83 of title 28, except that the appeal or review shall occur in the United States Court of Appeals for the District of Columbia Circuit.
+&emsp;&emsp;In any civil action arising under the Convention over which Article XIII of the Convention grants jurisdiction to the courts of the United States, any appeal or review by writ of mandamus or otherwise with respect to a nuclear incident that is not a Price-Anderson incident shall be in accordance with chapter 83 of title 28, except that the appeal or review shall occur in the United StatesCourt of Appeals for the District of Columbia Circuit.
 
 #### (B) Supreme Court jurisdiction
 
@@ -318,9 +318,9 @@ Nothing in the Convention or this section requires the disclosure of—
 
 &emsp;(1) any data that, at any time, was Restricted Data (as defined in section 2014 of this title);
 
-&emsp;(2) information relating to intelligence sources or methods protected by section 403–1(i) of title 50; or
+&emsp;(2) information relating to intelligence sources or methods protected by section 3024(i) of title 50; or
 
-&emsp;(3) national security information classified under Executive Order 12958 (50 U.S.C. 435 note; relating to classified national security information) (or a successor Executive Order or regulation).
+&emsp;(3) national security information classified under Executive Order 12958 (\[former\] 50 U.S.C. 435 note; relating to classified national security information) (or a successor Executive Order or regulation).
 
 #### (l) Regulations
 
@@ -354,5 +354,5 @@ This section shall take effect on December 19, 2007.
 
 Presidential Proclamation Number 5928, referred to in subsec. (b)(10)(B)(iv), is set out as a note under section 1331 of Title 43, Public Lands.
 
-Executive Order 12958, referred to in subsec. (k)(3), which was formerly set out as a note under section 435 of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
+Executive Order 12958, referred to in subsec. (k)(3), which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
 

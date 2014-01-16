@@ -28,13 +28,13 @@ July 9, 1952, ch. 608 §217(c), 66 Stat. 487.
 
 50:941(c) (1st 21 words).
 
-In subsection (a), the words “unless \* \* \* he was formerly” are substituted for the words “has not held an appointment as”. The words “or any component thereof” are omitted as surplusage.
+In subsection (a), the words "unless \* \* \* he was formerly" are substituted for the words "has not held an appointment as". The words "or any component thereof" are omitted as surplusage.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–163 struck out “and Territories” after “States”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163 struck out "and Territories" after "States".
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 594 of this title as this section.
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–456 struck out "the Canal Zone," after "Puerto Rico,".
 

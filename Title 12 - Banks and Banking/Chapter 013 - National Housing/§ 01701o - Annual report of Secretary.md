@@ -10,9 +10,9 @@ Section was enacted as part of the Housing Act of 1954, and not as part of the N
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–242 inserted section catchline “Annual report of Secretary”.
+<b>1988</b>—Pub. L. 100–242 inserted section catchline "Annual report of Secretary".
 
-<b>1967</b>—Pub. L. 90–19 struck out “FHA” before “insurance” and substituted “Secretary of Housing and Urban Development” and “Department of Housing and Urban Development” for “Housing and Home Finance Administrator” and “Housing and Home Finance Agency”, respectively.
+<b>1967</b>—Pub. L. 90–19 struck out "FHA" before "insurance" and substituted "Secretary of Housing and Urban Development" and "Department of Housing and Urban Development" for "Housing and Home Finance Administrator" and "Housing and Home Finance Agency", respectively.
 
 <b>1965</b>—Pub. L. 89–117 specifically included FHA insurance, urban renewal, public housing, and rent supplement programs within the operation and programs of the Housing and Home Finance Agency which the report shall cover and inserted requirement that the report contain recommendations for improving programs and for new or alternative programs.
 

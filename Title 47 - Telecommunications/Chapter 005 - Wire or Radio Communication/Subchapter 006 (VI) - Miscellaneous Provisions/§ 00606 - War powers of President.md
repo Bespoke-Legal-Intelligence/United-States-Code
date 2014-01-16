@@ -36,13 +36,13 @@ Any person who willfully does or causes or suffers to be done any act prohibited
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning act June 19, 1934, ch. 652,48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning act June 19, 1934, ch. 652,48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 For definition of Canal Zone, referred to in subsec. (c), see section 3602(b) of Title 22, Foreign Relations and Intercourse.
 
 #### Codification
 
-In subsec. (e), “section 1346 or section 1491 of title 28” substituted for “paragraph 20 of section 24 or by section 145, of the Judicial Code, as amended” (which were classified to sections 41(20) and 250 of former Title 28, Judicial Code and Judiciary) on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28, Judiciary and Judicial Procedure. Section 1346 of Title 28 sets forth the basic jurisdiction of the district courts in cases in which the United States is defendant. Section 1491 of Title 28 sets forth the basic jurisdiction of the United States Court of Claims. Sections 24(20) and 145 of the Judicial Code were also classified to sections 1496, 1501, 1503, 2401, 2402, and 2501 of Title 28.
+In subsec. (e), "section 1346 or section 1491 of title 28" substituted for "paragraph 20 of section 24 or by section 145, of the Judicial Code, as amended" (which were classified to sections 41(20) and 250 of former Title 28, Judicial Code and Judiciary) on authority of act June 25, 1948, ch. 646, 62 Stat. 869, the first section of which enacted Title 28, Judiciary and Judicial Procedure. Section 1346 of Title 28 sets forth the basic jurisdiction of the district courts in cases in which the United States is defendant. Section 1491 of Title 28 sets forth the basic jurisdiction of the United States Court of Claims. Sections 24(20) and 145 of the Judicial Code were also classified to sections 1496, 1501, 1503, 2401, 2402, and 2501 of Title 28.
 
 #### Amendments
 
@@ -76,7 +76,7 @@ By virtue of the authority vested in me by the Constitution and statutes, includ
 
 2\. Executive Orders Nos. 8546 of September 24, 1940, 8960 of December 6, 1941, 8964 of December 10, 1941, 9089 of March 6, 1942, and 9183 of June 15, 1942, are revoked.
 
-Harry S Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Harry S. Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 10312
 

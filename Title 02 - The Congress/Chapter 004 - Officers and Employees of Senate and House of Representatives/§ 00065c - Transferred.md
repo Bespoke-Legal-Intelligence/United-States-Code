@@ -1,0 +1,6 @@
+### §65c. Transferred
+
+#### Codification
+
+Section 65c was editorially reclassified as section 6512 of this title.
+

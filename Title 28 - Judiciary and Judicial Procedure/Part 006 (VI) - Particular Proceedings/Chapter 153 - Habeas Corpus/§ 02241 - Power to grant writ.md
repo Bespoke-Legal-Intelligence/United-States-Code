@@ -18,7 +18,7 @@
 
 (d) Where an application for a writ of habeas corpus is made by a person in custody under the judgment and sentence of a State court of a State which contains two or more Federal judicial districts, the application may be filed in the district court for the district wherein such person is in custody or in the district court for the district within which the State court was held which convicted and sentenced him and each of such district courts shall have concurrent jurisdiction to entertain the application. The district court for the district wherein such an application is filed in the exercise of its discretion and in furtherance of justice may transfer the application to the other district court for hearing and determination.
 
-(e)(1) No court, justice, or judge shall have jurisdiction to hear or consider an application for a writ of habeas corpus filed by or on behalf ofan alien detained by the United States who has been determined by the United States to have been properly detained as an enemy combatant or is awaiting such determination.
+(e)(1) No court, justice, or judge shall have jurisdiction to hear or consider an application for a writ of habeas corpus filed by or on behalf of an alien detained by the United States who has been determined by the United States to have been properly detained as an enemy combatant or is awaiting such determination.
 
 (2) Except as provided in paragraphs (2) and (3) of section 1005(e) of the Detainee Treatment Act of 2005 (10 U.S.C. 801 note), no court, justice, or judge shall have jurisdiction to hear or consider any other action against the United States or its agents relating to any aspect of the detention, transfer, treatment, trial, or conditions of confinement of an alien who is or was detained by the United States and has been determined by the United States to have been properly detained as an enemy combatant or is awaiting such determination.
 
@@ -32,7 +32,7 @@ Based on title 28, U.S.C., 1940 ed., §§451, 452, 453 (R.S. §§751, 752, 753; 
 
 Section consolidates sections 451, 452 and 453 of title 28, U.S.C., 1940 ed., with changes in phraseology necessary to effect the consolidation.
 
-Words “for the purpose of an inquiry into the cause of restraint of liberty” in section 452 of title 28, U.S.C., 1940 ed., were omitted as merely descriptive of the writ.
+Words "for the purpose of an inquiry into the cause of restraint of liberty" in section 452 of title 28, U.S.C., 1940 ed., were omitted as merely descriptive of the writ.
 
 Subsection (b) was added to give statutory sanction to orderly and appropriate procedure. A circuit judge who unnecessarily entertains applications which should be addressed to the district court, thereby disqualifies himself to hear such matters on appeal and to that extent limits his usefulness as a judge of the court of appeals. The Supreme Court and Supreme Court Justices should not be burdened with applications for writs cognizable in the district courts.
 
@@ -60,29 +60,29 @@ Subsec. (e). Pub. L. 109–163 added subsec. (e), relating to section 1405 of th
 
 <b>1966</b>—Subsec. (d). Pub. L. 89–590 added subsec. (d).
 
-<b>1949</b>—Subsec. (b). Act May 24, 1949, inserted commas after “Supreme Court” and “any justice thereof”.
+<b>1949</b>—Subsec. (b). Act May 24, 1949, inserted commas after "Supreme Court" and "any justice thereof".
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–366, §7(b), Oct. 17, 2006, 120 Stat. 2636, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 2006\], and shall apply to all cases, without exception, pending on or after the date of the enactment of this Act which relate to any aspect of the detention, transfer, treatment, trial, or conditions of detention of an alien detained by the United States since September 11, 2001.”
+Pub. L. 109–366, §7(b), Oct. 17, 2006, 120 Stat. 2636, provided that: "The amendment made by subsection (a)\[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 2006\], and shall apply to all cases, without exception, pending on or after the date of the enactment of this Act which relate to any aspect of the detention, transfer, treatment, trial, or conditions of detention of an alien detained by the United States since September 11, 2001."
 
 #### Treaty Obligations Not Establishing Grounds for Certain Claims
 
 Pub. L. 109–366, §5, Oct. 17, 2006, 120 Stat. 2631, provided that:
 
-“(a)
+"(a)
 
 In General.—No person may invoke the Geneva Conventions or any protocols thereto in any habeas corpus or other civil action or proceeding to which the United States, or a current or former officer, employee, member of the Armed Forces, or other agent of the United States is a party as a source of rights in any court of the United States or its States or territories.
 
-“(b)
+"(b)
 
-Geneva Conventions Defined.—In this section, the term ‘Geneva Conventions’ means—
+Geneva Conventions Defined.—In this section, the term 'Geneva Conventions' means—
 
-&emsp;“(1) the Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field, done at Geneva August 12, 1949 (6 UST 3114);
+&emsp;"(1) the Convention for the Amelioration of the Condition of the Wounded and Sick in Armed Forces in the Field, done at Geneva August 12, 1949 (6 UST 3114);
 
-&emsp;“(2) the Convention for the Amelioration of the Condition of the Wounded, Sick, and Shipwrecked Members of the Armed Forces at Sea, done at Geneva August 12, 1949 (6 UST 3217);
+&emsp;"(2) the Convention for the Amelioration of the Condition of the Wounded, Sick, and Shipwrecked Members of the Armed Forces at Sea, done at Geneva August 12, 1949 (6 UST 3217);
 
-&emsp;“(3) the Convention Relative to the Treatment of Prisoners of War, done at Geneva August 12, 1949 (6 UST 3316); and
+&emsp;"(3) the Convention Relative to the Treatment of Prisoners of War, done at Geneva August 12, 1949 (6 UST 3316); and
 
-&emsp;“(4) the Convention Relative to the Protection of Civilian Persons in Time of War, done at Geneva August 12, 1949 (6 UST 3516).”
+&emsp;"(4) the Convention Relative to the Protection of Civilian Persons in Time of War, done at Geneva August 12, 1949 (6 UST 3516)."
 

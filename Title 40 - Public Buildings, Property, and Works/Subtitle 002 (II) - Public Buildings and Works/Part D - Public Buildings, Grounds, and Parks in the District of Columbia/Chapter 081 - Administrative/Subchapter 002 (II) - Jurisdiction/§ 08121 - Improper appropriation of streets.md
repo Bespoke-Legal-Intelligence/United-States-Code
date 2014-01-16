@@ -34,7 +34,7 @@ Historical and Revision Notes
 
 R.S. §1818.
 
-In subsection (a)(1), the words “the District of Columbia” are substituted for “the city of Washington” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a)(1), the words "the District of Columbia" are substituted for "the city of Washington" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(3), the word “particularly” is omitted as unnecessary.
+In subsection (a)(3), the word "particularly" is omitted as unnecessary.
 

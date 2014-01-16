@@ -2,7 +2,7 @@
 
 #### (a) Biennial report
 
-Each State educational agency receiving funds under this subpart shall submit, once every 2 years, a report to the Secretary concerning theexpenditure of funds by local educational agencies under this subpart. Each local educational agency receiving funds under this subpart shall submit to the State educational agency such information as may be necessary for such report.
+Each State educational agency receiving funds under this subpart shall submit, once every 2 years, a report to the Secretary concerning the expenditure of funds by local educational agencies under this subpart. Each local educational agency receiving funds under this subpart shall submit to the State educational agency such information as may be necessary for such report.
 
 #### (b) Report to Congress
 

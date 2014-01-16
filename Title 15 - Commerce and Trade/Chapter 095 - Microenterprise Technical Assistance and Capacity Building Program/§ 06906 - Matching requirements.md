@@ -16,7 +16,7 @@ Fees, grants, gifts, funds from loan sources, and in-kind resources of a grant r
 
 #### (2) Limitation
 
-&emsp;Not more than 10 percent of the total funds made available from the Administration in any fiscal year to carry out this chapter may be excepted from the matching requirements of subsection (a) of this section, as authorized by paragraph (1) of this subsection.
+&emsp;Not more than 10 percent of the total funds made available from the Administration inany fiscal year to carry out this chapter may be excepted from the matching requirements of subsection (a) of this section, as authorized by paragraph (1) of this subsection.
 
 (Pub. L. 103–325, title I, §177, as added Pub. L. 106–102, title VII, §725, Nov. 12, 1999, 113 Stat. 1474.)
 

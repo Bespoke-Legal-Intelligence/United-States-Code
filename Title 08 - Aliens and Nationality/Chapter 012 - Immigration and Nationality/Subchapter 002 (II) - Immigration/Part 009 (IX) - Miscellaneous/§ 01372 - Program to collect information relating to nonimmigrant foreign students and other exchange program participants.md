@@ -18,7 +18,7 @@
 
 &emsp;The Attorney General, in consultation with the Secretary of State, shall establish an electronic means to monitor and verify—
 
-&emsp;&emsp;(A) the issuance of documentation of acceptance of a foreign student by an approved institution of higher education or other approved educational institution, or of an exchange visitor program participant by a designated exchange visitor program;
+&emsp;&emsp;(A) the issuance of documentation of acceptance of a foreign student by an approvedinstitution of higher education or other approved educational institution, or of an exchange visitor program participant by a designated exchange visitor program;
 
 &emsp;&emsp;(B) the transmittal of the documentation referred to in subparagraph (A) to the Department of State for use by the Bureau of Consular Affairs;
 
@@ -110,7 +110,7 @@ The Attorney General, in consultation with the Secretary of State, shall designa
 
 #### (3) Aliens described
 
-&emsp;An alien referred to in paragraph (1) is an alien who seeks nonimmigrant status under subparagraph (F), (J), or (M) of section 1101(a)(15) of this title (other than a nonimmigrant under section 1101(a)(15)(J) of this title who seeks to come to the United Statesas a participant in a program sponsored by the Federal Government).
+&emsp;An alien referred to in paragraph (1) is an alien who seeks nonimmigrant status under subparagraph (F), (J), or (M) of section 1101(a)(15) of this title (other than a nonimmigrant under section 1101(a)(15)(J) of this title who seeks to come to the United States as a participant in a program sponsored by the Federal Government).
 
 #### (4) Amount and use of fees
 
@@ -146,7 +146,7 @@ Not later than 4 years after the commencement of the program established under s
 
 #### (2) Revision of fee
 
-&emsp;After the program has been expanded, as provided in paragraph (1), the Attorney General may, on a periodic basis, revise the amount of the fee imposed and collected under subsection (e) of this section in order to take into account changes in the cost of carrying out the program.
+&emsp;After the program has been expanded, as provided in paragraph (1), the Attorney General may, on a periodic basis, revise the amount of the fee imposed and collected undersubsection (e) of this section in order to take into account changes in the cost of carrying out the program.
 
 #### (h) Definitions
 

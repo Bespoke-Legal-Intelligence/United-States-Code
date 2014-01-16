@@ -23,4 +23,4 @@
 - [&sect; 01738o - Sale of qualified debt to eligible countries](%C2%A7%2001738o%20-%20Sale%20of%20qualified%20debt%20to%20eligible%20countries.md)
 - [&sect; 01738p - Sale, reduction, or cancellation of qualified debt to facilitate certain debt swaps](%C2%A7%2001738p%20-%20Sale%2C%20reduction%2C%20or%20cancellation%20of%20qualified%20debt%20to%20facilitate%20certain%20debt%20swaps.md)
 - [&sect; 01738q - Notification to congressional committees](%C2%A7%2001738q%20-%20Notification%20to%20congressional%20committees.md)
-- [&sect; 01738r - &#8220;Qualified debt&#8221; defined](%C2%A7%2001738r%20-%20%E2%80%9CQualified%20debt%E2%80%9D%20defined.md)
+- [&sect; 01738r - Qualified debt defined](%C2%A7%2001738r%20-%20Qualified%20debt%20defined.md)

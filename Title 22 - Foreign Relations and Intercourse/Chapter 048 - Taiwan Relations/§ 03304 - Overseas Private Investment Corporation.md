@@ -10,5 +10,5 @@ Except as provided in subsection (a) of this section, in issuing insurance, rein
 
 (Pub. L. 96–8, §5, Apr. 10, 1979, 93 Stat. 16.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Investment”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Investment".</i>
 

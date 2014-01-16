@@ -6,5 +6,5 @@ The Postal Service may contract for the transportation of mail by vessel without
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–438 struck out “for periods of not in excess of 4 years” before period at end.
+<b>2006</b>—Pub. L. 109–438 struck out "for periods of not in excess of 4 years" before period at end.
 

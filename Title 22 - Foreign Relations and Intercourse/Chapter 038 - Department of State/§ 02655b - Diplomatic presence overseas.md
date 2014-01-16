@@ -24,7 +24,7 @@ References to Foreign Service Institute considered to refer to George P. Shultz 
 
 #### Definitions
 
-For definitions of “Department” and “Secretary” as used in this section, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.
+For definitions of "Department" and "Secretary" as used in this section, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

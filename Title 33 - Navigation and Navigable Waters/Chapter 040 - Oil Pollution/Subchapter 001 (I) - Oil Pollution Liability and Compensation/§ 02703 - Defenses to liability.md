@@ -34,7 +34,7 @@ Subsection (a) of this section does not apply with respect to a responsible part
 
 #### (1) In general
 
-&emsp;For purposes of subsection (a)(3) of this section the term “contractual relationship” includes, but is not limited to, land contracts, deeds, easements, leases, or other instruments transferring title or possession, unless—
+&emsp;For purposes of subsection (a)(3) of this section the term "contractual relationship" includes, but is not limited to, land contracts, deeds, easements, leases, or other instruments transferring title or possession, unless—
 
 &emsp;&emsp;(A) the real property on which the facility concerned is located was acquired by the responsible party after the placement of the oil on, in, or at the real property on which the facility concerned is located;
 
@@ -132,7 +132,7 @@ Subsection (a) of this section does not apply with respect to a responsible part
 
 #### (ii) Real property purchased on or after May 31, 1997
 
-&emsp;&emsp;&emsp;With respect to real property purchased on or after May 31, 1997, until the Secretary promulgates the regulations described in clause (ii), the procedures of the American Society for Testing and Materials, including the document known as “Standard E1527–97”, entitled “Standard Practice for Environmental Site Assessment: Phase I Environmental Site Assessment Process”, shall satisfy the requirements in subparagraph (A).
+&emsp;&emsp;&emsp;With respect to real property purchased on or after May 31, 1997, until the Secretary promulgates the regulations described in clause (ii), the procedures of the American Society for Testing and Materials, including the document known as "Standard E1527–97", entitled "Standard Practice for Environmental Site Assessment: Phase I Environmental Site Assessment Process", shall satisfy the requirements in subparagraph (A).
 
 #### (E) Site inspection and title search
 
@@ -140,7 +140,7 @@ Subsection (a) of this section does not apply with respect to a responsible part
 
 #### (5) Previous owner or operator
 
-&emsp;Nothing in this paragraph or in subsection (a)(3) of this section shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this Act. Notwithstanding this paragraph, if a responsible party obtained actual knowledge of the discharge or substantial threat of discharge of oil at such facility when the responsible party owned the facility and then subsequently transferred ownership of the facility or the real property on which the facility is located to another person without disclosing such knowledge, the responsible party shall be treated as liable under 2702(a) <sup>1</sup> of this titleand no defense under subsection (a) of this section shall be available to such responsible party.
+&emsp;Nothing in this paragraph or in subsection (a)(3) of this section shall diminish the liability of any previous owner or operator of such facility who would otherwise be liable under this Act. Notwithstanding this paragraph, if a responsible party obtained actual knowledge of the discharge or substantial threat of discharge of oil at such facility when the responsible party owned the facility and then subsequently transferred ownership of the facility or the real property on which the facility is located to another person without disclosing such knowledge, the responsible party shall be treated as liable under 2702(a) <sup>1</sup> of this title and no defense under subsection (a) of this section shall be available to such responsible party.
 
 #### (6) Limitation on defense
 
@@ -158,5 +158,5 @@ This Act, referred to in subsec. (d)(5), (6), is Pub. L. 101–380, Aug. 18, 199
 
 <b>2004</b>—Subsec. (d). Pub. L. 108–293 added subsec. (d).
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

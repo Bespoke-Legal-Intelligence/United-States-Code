@@ -2,7 +2,7 @@
 
 (a)
 
-Definition of Basic Research.—In this section, the term “basic research” has the meaning given the term in Office of Management and Budget Circular No. A–11.
+Definition of Basic Research.—In this section, the term "basic research" has the meaning given the term in Office of Management and Budget Circular No. A–11.
 
 (b)
 

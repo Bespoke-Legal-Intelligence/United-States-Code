@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Attorney General is authorized to award grants (referred to as “Jessica Lunsford and Sarah Lunde Grants”) to States, local governments, and Indian tribal governments to assist in—
+&emsp;&emsp;The Attorney General is authorized to award grants (referred to as "Jessica Lunsford and Sarah Lunde Grants") to States, local governments, and Indian tribal governments to assist in—
 
 &emsp;&emsp;&emsp;(i) carrying out programs to outfit sex offenders with electronic monitoring units; and
 
@@ -66,5 +66,5 @@ In making grants under this section, the Attorney General shall ensure that diff
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–400, §4(b), Oct. 13, 2008, 122 Stat. 4228, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to grants provided on or after the date of the enactment of this Act \[Oct. 13, 2008\].”
+Pub. L. 110–400, §4(b), Oct. 13, 2008, 122 Stat. 4228, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to grants provided on or after the date of the enactment of this Act \[Oct. 13, 2008\]."
 

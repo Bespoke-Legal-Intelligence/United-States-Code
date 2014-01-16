@@ -10,7 +10,7 @@ The Congress finds—
 
 &emsp;(4) the delivery of mental health and support services is typically uncoordinated within and among local, State, and Federal entities;
 
-&emsp;(5) mentally ill persons are often inadequately served by (A) programs of the Department of Health and Human Services such as medicare, medicaid, supplemental security income, and social services, and (B) programs of the Department of Housing and Urban Development, the Department of Labor, and other Federal agencies;
+&emsp;(5) mentally ill persons are often inadequately served by (A) programs of the Department of Health and Human Services such as medicare, medicaid, supplemental security income, and social services, and (B) programsof the Department of Housing and Urban Development, the Department of Labor, and other Federal agencies;
 
 &emsp;(6) health care systems often lack general health care personnel with adequate mental health care training and often lack mental health care personnel and consequently many individuals with some level of mental disorder do not receive appropriate mental health care;
 
@@ -24,5 +24,5 @@ The Congress finds—
 
 #### Short Title
 
-Pub. L. 96–398, §1, Oct. 7, 1980, 94 Stat. 1564, provided that: “This Act \[enacting this chapter, amending sections 210, 225a, 229b, 242a, 246, 289k–1, 300l–2, 300m–2, 1396b, 2689a to 2689c, 2689e, 2689g, and 2689h of this title, repealing section 2689q of this title, and enacting provisions set out as notes under section 242a, 246, 289k–1, and 2689b of this title\] may be cited as the ‘Mental Health Systems Act’.”
+Pub. L. 96–398, §1, Oct. 7, 1980, 94 Stat. 1564, provided that: "This Act \[enacting this chapter, amending sections 210, 225a, 229b, 242a, 246, 289k–1, 300l–2, 300m–2, 1396b, 2689a to 2689c, 2689e, 2689g, and 2689h of this title, repealing section 2689q of this title, and enacting provisions set out as notes under section 242a, 246, 289k–1, and 2689b of this title\] may be cited as the 'Mental Health Systems Act'."
 

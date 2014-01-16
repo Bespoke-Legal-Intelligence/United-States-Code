@@ -4,11 +4,11 @@
 
 #### (1) Definition
 
-&emsp;The term “group health plan” means an employee welfare benefit plan (as defined in section 3(1) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(1)\]) to the extent that the plan provides medical care (as defined in paragraph (2)) and including items and services paid for as medical care) to employees or their dependents (as defined under the terms of the plan) directly or through insurance, reimbursement, or otherwise.
+&emsp;The term "group health plan" means an employee welfare benefit plan (as defined in section 3(1) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(1)\]) to the extent that the plan provides medical care (as defined in paragraph (2)) and including items and services paid for as medical care) to employees or their dependents (as defined under the terms of the plan) directly or through insurance, reimbursement, or otherwise.
 
 #### (2) Medical care
 
-&emsp;The term “medical care” means amounts paid for—
+&emsp;The term "medical care" means amounts paid for—
 
 &emsp;&emsp;(A) the diagnosis, cure, mitigation, treatment, or prevention of disease, or amounts paid for the purpose of affecting any structure or function of the body,
 
@@ -24,15 +24,15 @@
 
 #### (1) Health insurance coverage
 
-&emsp;The term “health insurance coverage” means benefits consisting of medical care (provided directly, through insurance or reimbursement, or otherwise and including items and services paid for as medical care) under any hospital or medical service policy or certificate, hospital or medical service plan contract, or health maintenance organization contract offered by a health insurance issuer.
+&emsp;The term "health insurance coverage" means benefits consisting of medical care (provided directly, through insurance or reimbursement, or otherwise and including items and services paid for as medical care) under any hospital or medical service policy or certificate, hospital or medical service plan contract, or health maintenance organization contract offered by a health insurance issuer.
 
 #### (2) Health insurance issuer
 
-&emsp;The term “health insurance issuer” means an insurance company, insurance service, or insurance organization (including a health maintenance organization, as defined in paragraph (3)) which is licensed to engage in the business of insurance in a State and which issubject to State law which regulates insurance (within the meaning of section 514(b)(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1144(b)(2)\]). Such term does not include a group health plan.
+&emsp;The term "health insurance issuer" means an insurance company, insurance service, or insurance organization (including a health maintenance organization, as defined in paragraph (3)) which is licensed to engage in the business of insurance in a State and which is subject to State law which regulates insurance (within the meaning of section 514(b)(2) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1144(b)(2)\]). Such term does not include a group health plan.
 
 #### (3) Health maintenance organization
 
-&emsp;The term “health maintenance organization” means—
+&emsp;The term "health maintenance organization" means—
 
 &emsp;&emsp;(A) a Federally qualified health maintenance organization (as defined in section 300e(a) of this title),
 
@@ -42,15 +42,15 @@
 
 #### (4) Group health insurance coverage
 
-&emsp;The term “group health insurance coverage” means, in connection with a group health plan, health insurance coverage offered in connection with such plan.
+&emsp;The term "group health insurance coverage" means, in connection with a group health plan, health insurance coverage offered in connection with such plan.
 
 #### (5) Individual health insurance coverage
 
-&emsp;The term “individual health insurance coverage” means health insurance coverage offered to individuals in the individual market, but does not include short-term limited duration insurance.
+&emsp;The term "individual health insurance coverage" means health insurance coverage offered to individuals in the individual market, but does not include short-term limited duration insurance.
 
 #### (c) Excepted benefits
 
-For purposes of this subchapter, the term “excepted benefits” means benefits under one or more (or any combination thereof) of the following:
+For purposes of this subchapter, the term "excepted benefits" means benefits under one or more (or any combination thereof) of the following:
 
 #### (1) Benefits not subject to requirements
 
@@ -60,7 +60,7 @@ For purposes of this subchapter, the term “excepted benefits” means benefits
 
 &emsp;(C) Liability insurance, including general liability insurance and automobile liability insurance.
 
-&emsp;(D) Workers’ compensation or similar insurance.
+&emsp;(D) Workers' compensation or similar insurance.
 
 &emsp;(E) Automobile medical payment insurance.
 
@@ -92,15 +92,15 @@ For purposes of this subchapter, the term “excepted benefits” means benefits
 
 #### (1) Applicable State authority
 
-&emsp;The term “applicable State authority” means, with respect to a health insurance issuer in a State, the State insurance commissioner or official or officials designated by the State to enforce the requirements of this subchapter for the State involved with respect to such issuer.
+&emsp;The term "applicable State authority" means, with respect to a health insurance issuer in a State, the State insurance commissioner or official or officials designated by the State to enforce the requirements of this subchapter for the State involved with respect to such issuer.
 
 #### (2) Beneficiary
 
-&emsp;The term “beneficiary” has the meaning given such term under section 3(8) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(8)\].
+&emsp;The term "beneficiary" has the meaning given such term under section 3(8) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(8)\].
 
 #### (3) Bona fide association
 
-&emsp;The term “bona fide association” means, with respect to health insurance coverage offered in a State, an association which—
+&emsp;The term "bona fide association" means, with respect to health insurance coverage offered in a State, an association which—
 
 &emsp;&emsp;(A) has been actively in existence for at least 5 years;
 
@@ -116,7 +116,7 @@ For purposes of this subchapter, the term “excepted benefits” means benefits
 
 #### (4) COBRA continuation provision
 
-&emsp;The term “COBRA continuation provision” means any of the following:
+&emsp;The term "COBRA continuation provision" means any of the following:
 
 &emsp;&emsp;(A) Section 4980B of title 26, other than subsection (f)(1) of such section insofar as it relates to pediatric vaccines.
 
@@ -126,55 +126,55 @@ For purposes of this subchapter, the term “excepted benefits” means benefits
 
 #### (5) Employee
 
-&emsp;The term “employee” has the meaning given such term under section 3(6) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(6)\].
+&emsp;The term "employee" has the meaning given such term under section 3(6) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(6)\].
 
 #### (6) Employer
 
-&emsp;The term “employer” has the meaning given such term under section 3(5) of the EmployeeRetirement Income Security Act of 1974 \[29 U.S.C. 1002(5)\], except that such term shall include only employers of two or more employees.
+&emsp;The term "employer" has the meaning given such term under section 3(5) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(5)\], except that such term shall include only employers of two or more employees.
 
 #### (7) Church plan
 
-&emsp;The term “church plan” has the meaning given such term under section 3(33) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(33)\].
+&emsp;The term "church plan" has the meaning given such term under section 3(33) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(33)\].
 
 #### (8) Governmental plan
 
-&emsp;(A) The term “governmental plan” has the meaning given such term under section 3(32) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(32)\] and any Federal governmental plan.
+&emsp;(A) The term "governmental plan" has the meaning given such term under section 3(32) ofthe Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(32)\] and any Federal governmental plan.
 
 &emsp;(B)
 
-Federal governmental plan.—The term “Federal governmental plan” means a governmental plan established or maintained for its employees by the Government of the United States or by any agency or instrumentality of such Government.
+Federal governmental plan.—The term "Federal governmental plan" means a governmental plan established or maintained for its employees by the Government of the United States or by any agency or instrumentality of such Government.
 
 &emsp;(C)
 
-Non-Federal governmental plan.—The term “non-Federal governmental plan” means a governmental plan that is not a Federal governmental plan.
+Non-Federal governmental plan.—The term "non-Federal governmental plan" means a governmental plan that is not a Federal governmental plan.
 
 #### (9) Health status-related factor
 
-&emsp;The term “health status-related factor” means any of the factors described in section 2702(a)(1).<sup>1</sup>
+&emsp;The term "health status-related factor" means any of the factors described in section 2702(a)(1).<sup>1</sup>
 
 #### (10) Network plan
 
-&emsp;The term “network plan” means health insurance coverage of a health insurance issuer under which the financing and delivery of medical care (including items and services paid for as medical care) are provided, in whole or in part, through a defined set of providers under contract with the issuer.
+&emsp;The term "network plan" means health insurance coverage of a health insurance issuer under which the financing and delivery of medical care (including items and services paid for as medical care) are provided, in whole or in part, through a defined set of providers under contract with the issuer.
 
 #### (11) Participant
 
-&emsp;The term “participant” has the meaning given such term under section 3(7) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(7)\].
+&emsp;The term "participant" has the meaning given such term under section 3(7) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(7)\].
 
 #### (12) Placed for adoption defined
 
-&emsp;The term “placement”, or being “placed”, for adoption, in connection with any placement for adoption of a child with any person, means the assumption and retention by such person of a legal obligation for total or partial support of such child in anticipation of adoption of such child. The child's placement with such person terminates upon the termination of such legal obligation.
+&emsp;The term "placement", or being "placed", for adoption, in connection with any placement for adoption of a child with any person, means the assumption and retention by such person of a legal obligation for total or partial support of such child in anticipation of adoption of such child. The child's placement with such person terminates upon the termination of such legal obligation.
 
 #### (13) Plan sponsor
 
-&emsp;The term “plan sponsor” has the meaning given such term under section 3(16)(B) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(16)(B)\].
+&emsp;The term "plan sponsor" has the meaning given such term under section 3(16)(B) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1002(16)(B)\].
 
 #### (14) State
 
-&emsp;The term “State” means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
+&emsp;The term "State" means each of the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands.
 
 #### (15) Family member
 
-&emsp;The term “family member” means, with respect to any individual—
+&emsp;The term "family member" means, with respect to any individual—
 
 &emsp;&emsp;(A) a dependent (as such term is used for purposes of section 2701(f)(2)) <sup>1</sup> of such individual; and
 
@@ -184,7 +184,7 @@ Non-Federal governmental plan.—The term “non-Federal governmental plan” me
 
 #### (A) In general
 
-&emsp;&emsp;The term “genetic information” means, with respect to any individual, information about—
+&emsp;&emsp;The term "genetic information" means, with respect to any individual, information about—
 
 &emsp;&emsp;&emsp;(i) such individual's genetic tests,
 
@@ -198,17 +198,17 @@ Non-Federal governmental plan.—The term “non-Federal governmental plan” me
 
 #### (C) Exclusions
 
-&emsp;&emsp;The term “genetic information” shall not include information about the sex or age of any individual.
+&emsp;&emsp;The term "genetic information" shall not include information about the sex or age of any individual.
 
 #### (17) Genetic test
 
 #### (A) In general
 
-&emsp;&emsp;The term “genetic test” means an analysis of human DNA, RNA, chromosomes, proteins, or metabolites, that detects genotypes, mutations, or chromosomal changes.
+&emsp;&emsp;The term "genetic test" means an analysis of human DNA, RNA, chromosomes, proteins, or metabolites, that detects genotypes, mutations, or chromosomal changes.
 
 #### (B) Exceptions
 
-&emsp;&emsp;The term “genetic test” does not mean—
+&emsp;&emsp;The term "genetic test" does not mean—
 
 &emsp;&emsp;&emsp;(i) an analysis of proteins or metabolites that does not detect genotypes, mutations, or chromosomal changes; or
 
@@ -216,7 +216,7 @@ Non-Federal governmental plan.—The term “non-Federal governmental plan” me
 
 #### (18) Genetic services
 
-&emsp;The term “genetic services” means—
+&emsp;The term "genetic services" means—
 
 &emsp;&emsp;(A) a genetic test;
 
@@ -226,7 +226,7 @@ Non-Federal governmental plan.—The term “non-Federal governmental plan” me
 
 #### (19) Underwriting purposes
 
-&emsp;The term “underwriting purposes” means, with respect to any group health plan, or health insurance coverage offered in connection with a group health plan—
+&emsp;The term "underwriting purposes" means, with respect to any group health plan, or health insurance coverage offered in connection with a group health plan—
 
 &emsp;&emsp;(A) rules for, or determination of, eligibility (including enrollment and continued eligibility) for benefits under the plan or coverage;
 
@@ -238,11 +238,11 @@ Non-Federal governmental plan.—The term “non-Federal governmental plan” me
 
 #### (20) Qualified health plan
 
-&emsp;The term “qualified health plan” has the meaning given such term in section 18021(a) of this title.
+&emsp;The term "qualified health plan" has the meaning given such term in section 18021(a) of this title.
 
 #### (21) Exchange
 
-&emsp;The term “Exchange” means an American Health Benefit Exchange established under section 18031 of this title.
+&emsp;The term "Exchange" means an American Health Benefit Exchange established under section 18031 of this title.
 
 #### (e) Definitions relating to markets and small employers
 
@@ -252,7 +252,7 @@ For purposes of this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “individual market” means the market for health insurance coverage offered to individuals other than in connection with a group health plan.
+&emsp;&emsp;The term "individual market" means the market for health insurance coverage offered to individuals other than in connection with a group health plan.
 
 #### (B) Treatment of very small groups
 
@@ -266,19 +266,19 @@ For purposes of this subchapter:
 
 #### (2) Large employer
 
-&emsp;The term “large employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 101 employees on business days during the preceding calendar year and who employs at least 2 employees on the first day of the plan year.
+&emsp;The term "large employer" means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 101 employees on business days during the preceding calendar year and who employs at least 2 employees on the first day of the plan year.
 
 #### (3) Large group market
 
-&emsp;The term “large group market” means the health insurance market under which individuals obtain health insurance coverage (directly or through any arrangement) on behalf of themselves (and their dependents) through a group health plan maintained by a large employer.
+&emsp;The term "large group market" means the health insurance market under which individuals obtain health insurance coverage (directly or through any arrangement) on behalf of themselves (and their dependents) through a group health plan maintained by a large employer.
 
 #### (4) Small employer
 
-&emsp;The term “small employer” means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 100 employees on business days during the preceding calendar year and who employs at least 1 employees <sup>3</sup> on the first day of the plan year.
+&emsp;The term "small employer" means, in connection with a group health plan with respect to a calendar year and a plan year, an employer who employed an average of at least 1 but not more than 100 employees on business days during the preceding calendar year and who employs at least 1 employees <sup>3</sup> on the first day of the plan year.
 
 #### (5) Small group market
 
-&emsp;The term “small group market” means the health insurance market under which individuals obtain health insurance coverage (directly or through any arrangement) on behalf of themselves (and their dependents) through a group health plan maintained by a small employer.
+&emsp;The term "small group market" means the health insurance market under which individuals obtain health insurance coverage (directly or through any arrangement) on behalf of themselves (and their dependents) through a group health plan maintained by a small employer.
 
 #### (6) Application of certain rules in determination of employer size
 
@@ -304,15 +304,15 @@ Section 2701, referred to in subsecs. (a)(3) and (d)(15)(A), is a reference to s
 
 The Employee Retirement Income Security Act of 1974, referred to in subsec. (d)(4)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 6 of subtitle B of title I of the Act is classified generally to part 6 (§1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
-Section 2702, referred to in subsec. (d)(9), is a reference to section 2702 of act July 1, 1944. Section 2702, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (b) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010,124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
+Section 2702, referred to in subsec. (d)(9), is a reference to section 2702 of act July 1, 1944. Section 2702, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (b) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
 
 #### Amendments
 
 <b>2010</b>—Subsec. (d)(20), (21). Pub. L. 111–148, §1563(b), formerly §1562(b), as renumbered by Pub. L. 111–148, §10107(b)(1), added pars. (20) and (21).
 
-Subsec. (e)(2). Pub. L. 111–148, §1563(c)(16)(A), formerly §1562(c)(16)(A), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “101” for “51”.
+Subsec. (e)(2). Pub. L. 111–148, §1563(c)(16)(A), formerly §1562(c)(16)(A), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "101" for "51".
 
-Subsec. (e)(4). Pub. L. 111–148, §1563(c)(16)(B), formerly §1562(c)(16)(B), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “100” for “50” and “at least 1” for “at least 2” in two places.
+Subsec. (e)(4). Pub. L. 111–148, §1563(c)(16)(B), formerly §1562(c)(16)(B), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "100" for "50" and "at least 1" for "at least 2" in two places.
 
 <b>2008</b>—Subsec. (d)(15) to (19). Pub. L. 110–233 added pars. (15) to (19).
 
@@ -322,7 +322,7 @@ Amendment by Pub. L. 110–233 applicable, with respect to group health plans an
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “term”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "term".</i>
 
 <i><sup>3</sup></i><i> So in original.</i>
 

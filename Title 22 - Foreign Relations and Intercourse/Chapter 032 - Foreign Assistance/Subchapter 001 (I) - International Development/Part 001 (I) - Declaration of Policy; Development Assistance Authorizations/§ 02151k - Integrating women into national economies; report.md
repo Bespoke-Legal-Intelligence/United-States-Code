@@ -6,7 +6,7 @@ In recognition of the fact that women in developing countries play a significant
 
 #### (b) Assistance to encourage participation and integration of women; prohibition against separate assistance program for women
 
-(1) Up to $10,000,000 of the funds made available each fiscal year under this part and part X of this subchapter shall be used, in addition to funds otherwise available for such purposes, for assistance on such terms and conditions as the President may determine to encourage and promote the participation and integration of women as equal partners in the developmentprocess in the developing countries. These funds shall be used primarily to support activities which will increase the economic productivity and income earning capacity of women.
+(1) Up to $10,000,000 of the funds made available each fiscal year under this part and part X of this subchapter shall be used, in addition to funds otherwise available for such purposes, for assistance on such terms and conditions as the President may determine to encourage and promote the participation and integration of women as equal partners in the development process in the developing countries. These funds shall be used primarily to support activities which will increase the economic productivity and income earning capacity of women.
 
 (2) Nothing in this section shall be construed to authorize the establishment of a separate development assistance program for women.
 
@@ -22,7 +22,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b)(1). Pub. L. 101–513 inserted “and part X of this subchapter” after “this part”.
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–513 inserted "and part X of this subchapter" after "this part".
 
 <b>1981</b>—Subsec. (c). Pub. L. 97–113 added subsec. (c).
 
@@ -36,7 +36,7 @@ Subsec. (d). Pub. L. 96–53 redesignated subsec. (d) as (b).
 
 <b>1977</b>—Pub. L. 95–88 designated existing provisions as subsec. (a), inserted provisions relating to a recognition of the fact that women in developing countries play a significant role in economic production, family support, and the overall development process of the national economies of such countries, and added subsecs. (b) and (c).
 
-<b>1975</b>—Pub. L. 94–161 substituted “This subchapter” for “Sections 2151a through 2151e of this title”.
+<b>1975</b>—Pub. L. 94–161 substituted "This subchapter" for "Sections 2151a through 2151e of this title".
 
 #### Effective Date of 1979 Amendment
 

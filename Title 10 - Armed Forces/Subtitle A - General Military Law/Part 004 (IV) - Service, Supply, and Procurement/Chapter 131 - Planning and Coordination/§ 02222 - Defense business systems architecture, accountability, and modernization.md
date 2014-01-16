@@ -66,11 +66,11 @@ Composition of Enterprise Architecture.—The defense business enterprise archit
 
 Composition of Transition Plan.—The transition plan developed under subsection (c)(1)(B) shall include the following:
 
-&emsp;(1) A listing of the new systems that are expected to be needed to complete the defense business enterprise architecture, along with each system's time-phased milestones, performance measures, financial resource needs, and risks or challenges to integration into the business enterprise architecture.
+&emsp;(1) A listing of the new systems that are expected to be needed to complete the target defense business systems computing environment described in subsection (d)(3), along with each system's time-phased milestones, performance measures, financial resource needs, and risks or challenges to integration into the business enterprise architecture.
 
-&emsp;(2) A listing of the defense business systems existing as of September 30, 2011 (known as “legacy systems”) that will not be part of the defense business enterprise architecture, together with the schedule for terminating those legacy systems that provides for reducing the use of those legacy systems in phases.
+&emsp;(2) A listing of the defense business systems that will be phased out of the defense business systems computing environment within three years after review and certification as "legacy systems" by the investment management process established under subsection (g), together with the schedule for terminating those legacy systems.
 
-&emsp;(3) A listing of the legacy systems (referred to in subparagraph (B)) that will be a part of the target defense business systems computing environment described in subsection (d)(3), together with a strategy for making the modifications to those systems that will be needed to ensure that such systems comply with the defense business enterprise architecture, including time-phased milestones, performance measures, and financial resource needs.
+&emsp;(3) A listing of the existing systems that are part of the target defense business systems computing environment, together with a strategy for making the modifications to those systems that will be needed to ensure that such systems comply with the defense business enterprise architecture, including time-phased milestones, performance measures, and financial resource needs.
 
 (f)
 
@@ -162,527 +162,539 @@ Congressional Reports.—Not later than March 15 of each year from 2012 through 
 
 Definitions.—In this section:
 
-&emsp;(1) The term “defense business system” means an information system, other than a national security system, operated by, for, or on behalf of the Department of Defense, including financial systems, mixed systems, financial data feeder systems, and information technology and information assurance infrastructure, used to support business activities, such as acquisition, financial management, logistics, strategic planning and budgeting, installations and environment, and human resource management.
+&emsp;(1) The term "defense business system" means an information system, other than a national security system, operated by, for, or on behalf of the Department of Defense, including financial systems, mixed systems, financial data feeder systems, and information technology and information assurance infrastructure, used to support business activities, such as acquisition, financial management, logistics, strategic planning and budgeting, installations and environment, and human resource management.
 
-&emsp;(2) The term “covered defense business system program” means any defense business system program that is expected to have a total cost in excess of $1,000,000 over the period of the current future-years defense program submitted to Congress under section 221 of this title.
+&emsp;(2) The term "covered defense business system program" means any defense business system program that is expected to have a total cost in excess of $1,000,000 over the period of the current future-years defense program submitted to Congress under section 221 of this title.
 
-&emsp;(3) The term “enterprise architecture” has the meaning given that term in section 3601(4) of title 44.
+&emsp;(3) The term "enterprise architecture" has the meaning given that term in section 3601(4) of title 44.
 
-&emsp;(4) The terms “information system” and “information technology” have the meanings given those terms in section 11101 of title 40.
+&emsp;(4) The terms "information system" and "information technology" have the meanings given those terms in section 11101 of title 40.
 
-&emsp;(5) The term “national security system” has the meaning given that term in section 3542(b)(2) of title 44.
+&emsp;(5) The term "national security system" has the meaning given that term in section 3542(b)(2) of title 44.
 
-(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–417, \[div. A\], title III, §351, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 111–84, div. A, title X, §1072(a), Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1075(b)(29), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title IX, §901, Dec. 31, 2011, 125 Stat. 1527; Pub. L. 112–239, div. A, title IX, §906, Jan. 2, 2013, 126 Stat. 1869.)
+(Added Pub. L. 108–375, div. A, title III, §332(a)(1), Oct. 28, 2004, 118 Stat. 1851; amended Pub. L. 109–364, div. A, title IX, §906(a), Oct. 17, 2006, 120 Stat. 2354; Pub. L. 110–417, \[div. A\], title III, §351, Oct. 14, 2008, 122 Stat. 4425; Pub. L. 111–84, div. A, title X, §1072(a), Oct. 28, 2009, 123 Stat. 2470; Pub. L. 111–383, div. A, title X, §1075(b)(29), Jan. 7, 2011, 124 Stat. 4370; Pub. L. 112–81, div. A, title IX, §901, Dec. 31, 2011, 125 Stat. 1527; Pub. L. 112–239, div. A, title IX, §906, Jan. 2, 2013, 126 Stat. 1869; Pub. L. 113–66, div. A, title IX, §901, Dec. 26, 2013, 127 Stat. 815.)
 
 #### Prior Provisions
 
-A prior section 2222, added Pub. L. 105–85, div. A, title X, §1008(a)(1), Nov. 18, 1997, 111 Stat. 1870; amended Pub. L. 107–107, div. A, title X, §1009(b)(1)–(3)(A), Dec. 28, 2001,115 Stat. 1208, 1209, required Secretary of Defense to submit to Congress an annual strategic plan for improvement of financial management within Department of Defense and specified statements and matters to be included in the plan, prior to repeal by Pub. L. 107–314, div. A, title X, §1004(h)(1), Dec. 2, 2002, 116 Stat. 2631.
+A prior section 2222, added Pub. L. 105–85, div. A, title X, §1008(a)(1), Nov. 18, 1997, 111 Stat. 1870; amended Pub. L. 107–107, div. A, title X, §1009(b)(1)–(3)(A), Dec. 28, 2001, 115 Stat. 1208, 1209, required Secretary of Defense to submit to Congress an annual strategic plan for improvement of financial management within Department of Defense and specified statements and matters to be included in the plan, prior to repeal by Pub. L. 107–314, div. A, title X, §1004(h)(1), Dec. 2, 2002, 116 Stat. 2631.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (g)(3). Pub. L. 112–239 added par. (3).
+<b>2013</b>—Subsec. (e)(1). Pub. L. 113–66, §901(1), substituted "target defense business systems computing environment described in subsection (d)(3)" for "defense business enterprise architecture".
+
+Subsec. (e)(2). Pub. L. 113–66, §901(2), substituted "that will be phased out of the defense business systems computing environment within three years after review and certification as 'legacy systems' by the investment management process established under subsection (g)" for "existing as of September 30, 2011 (known as 'legacy systems') that will not be part of the defense business enterprise architecture" and struck out "that provides for reducing the use of those legacy systems in phases" before period at end.
+
+Subsec. (e)(3). Pub. L. 113–66, §901(3), substituted "existing systems that are part of the target defense business systems computing environment" for "legacy systems (referred to in subparagraph (B)) that will be a part of the target defense business systems computing environment described in subsection (d)(3)".
+
+Subsec. (g)(3). Pub. L. 112–239 added par. (3).
 
 <b>2011</b>—Pub. L. 112–81 amended section generally. Prior to amendment, section related to architecture, accountability, and modernization of defense business systems.
 
-Subsec. (a). Pub. L. 111–383 substituted “Funds” for “Effective October 1, 2005, funds”.
+Subsec. (a). Pub. L. 111–383 substituted "Funds" for "Effective October 1, 2005, funds".
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–84, §1072(a)(1)(A), (B), added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-Subsec. (a)(2)(A). Pub. L. 111–84, §1072(a)(1)(C), added subpar. (A) and struck out former subpar. (A), which read as follows: “is in compliance with the enterprise architecture developed under subsection (c);”.
+Subsec. (a)(2)(A). Pub. L. 111–84, §1072(a)(1)(C), added subpar. (A) and struck out former subpar. (A), which read as follows: "is in compliance with the enterprise architecture developed under subsection (c);".
 
-Subsec. (a)(3). Pub. L. 111–84, §1072(a)(1)(D), substituted “the certification by the approval authority and the determination by the chief management officer are” for “the certification by the approval authority is”.
+Subsec. (a)(3). Pub. L. 111–84, §1072(a)(1)(D), substituted "the certification by the approval authority and the determination by the chief management officer are" for "the certification by the approval authority is".
 
-Subsec. (f). Pub. L. 111–84, §1072(a)(2), designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), in subpar. (E) substituted “subparagraphs (A) through (D)” for “paragraphs (1) through (4)”, and added par. (2).
+Subsec. (f). Pub. L. 111–84, §1072(a)(2), designated existing provisions as par. (1), redesignated former pars. (1) to (5) as subpars. (A) to (E), respectively, of par. (1), in subpar. (E) substituted "subparagraphs (A) through (D)" for "paragraphs (1) through (4)", and added par. (2).
 
-<b>2008</b>—Subsec. (i). Pub. L. 110–417 substituted “2013” for “2009” in introductory provisions.
+<b>2008</b>—Subsec. (i). Pub. L. 110–417 substituted "2013" for "2009" in introductory provisions.
 
-<b>2006</b>—Subsec. (j)(6). Pub. L. 109–364 substituted “in section 3542(b)(2) of title 44” for “in section 2315 of this title”.
+<b>2006</b>—Subsec. (j)(6). Pub. L. 109–364 substituted "in section 3542(b)(2) of title 44" for "in section 2315 of this title".
+
+#### Audit of Department of Defense Fiscal Year 2018 Financial Statements
+
+Pub. L. 113–66, div. A, title X, §1003(a), Dec. 26, 2013, 127 Stat. 842, provided that: "In addition to the requirement under section 1003(a)(2)(A)(ii) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 10 U.S.C. 2222 note) that the Financial Improvement and Audit Readiness Plan describe specific actions to be taken and the costs associated with ensuring that the financial statements of the Department of Defense are validated as ready for audit by not later than September 30, 2017, upon the conclusion of fiscal year 2018, the Secretary of Defense shall ensure that a full audit is performed on the financial statements of the Department of Defense for such fiscal year. The Secretary shall submit to Congress the results of that audit by not later than March 31, 2019."
 
 #### Review of Obligation and Expenditure Thresholds
 
 Pub. L. 111–383, div. A, title VIII, §882, Jan. 7, 2011, 124 Stat. 4308, provided that:
 
-“(a)
+"(a)
 
 Process Review.—Not later than one year after the date of the enactment of this Act \[Jan. 7, 2011\], the Chief Management Officer of the Department of Defense, in coordination with the Chief Management Officer of each military department, the Director of the Office of Performance Assessment and Root Cause Analysis, the Under Secretary of Defense (Comptroller), and the Comptrollers of the military departments, shall complete a comprehensive review of the use and value of obligation and expenditure benchmarks and propose new benchmarks or processes for tracking financial performance, including, as appropriate—
 
-&emsp;“(1) increased reliance on individual obligation and expenditure plans for measuring program financial performance;
+&emsp;"(1) increased reliance on individual obligation and expenditure plans for measuring program financial performance;
 
-&emsp;“(2) mechanisms to improve funding stability and to increase the predictability of the release of funding for obligation and expenditure; and
+&emsp;"(2) mechanisms to improve funding stability and to increase the predictability of the release of funding for obligation and expenditure; and
 
-&emsp;“(3) streamlined mechanisms for a program manager to submit an appeal for funding changes and to have such appeal evaluated promptly.
+&emsp;"(3) streamlined mechanisms for a program manager to submit an appeal for funding changes and to have such appeal evaluated promptly.
 
-“(b)
+"(b)
 
 Training.—The Under Secretary of Defense for Acquisition, Technology, and Logistics and the Under Secretary of Defense (Comptroller) shall ensure that, as part of the training required for program managers and business managers, an emphasis is placed on obligating and expending appropriated funds in a manner that achieves the best value for the Government and that the purpose and limitations of obligation and expenditure benchmarks are made clear.
 
-“(c)
+"(c)
 
-Report.—The Deputy Chief Management Officer of the Department of Defense shall include a report on the results of the review under this section in the next update of the strategic management plan transmitted to the Committees on Armed Services of the Senate and the House of Representatives under section 904(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 275; 10 U.S.C. note prec. 2201) after the completion of the review.”
+Report.—The Deputy Chief Management Officer of the Department of Defense shall include a report on the results of the review under this section in the next update of the strategic management plan transmitted to the Committees on Armed Services of the Senate and the House of Representatives under section 904(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 275; 10 U.S.C. note prec. 2201) after the completion of the review."
 
 #### Audit Readiness of Financial Statements of the Department of Defense
 
 Pub. L. 112–239, div. A, title X, §1005(b), Jan. 2, 2013, 126 Stat. 1904, provided that:
 
-“(1)
+"(1)
 
 In general.—The Chief Management Officer of the Department of Defense and the Chief Management Officers of each of the military departments shall ensure that plans to achieve an auditable statement of budgetary resources of the Department of Defense by September 30, 2014, include appropriate steps to minimize one-time fixes and manual work-arounds, are sustainable and affordable, and will not delay full auditability of financial statements.
 
-“(2)
+"(2)
 
 Additional elements in fiar plan report.—Each semi-annual report on the Financial Improvement and Audit Readiness Plan of the Department of Defense submitted by the Under Secretary of Defense (Comptroller) under section 1003(b) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note) during the period beginning on the date of the enactment of this Act \[Jan. 2, 2013\] and ending on September 30, 2014, shall include the following:
 
-&emsp;“(A) A description of the actions taken by the military departments pursuant to paragraph (1).
+&emsp;"(A) A description of the actions taken by the military departments pursuant to paragraph (1).
 
-&emsp;“(B) A determination by the Chief Management Officer of each military department whether or not such military department is able to achieve an auditable statement of budgetary resources by September 30, 2014, without an unaffordable or unsustainable level of one-time fixes and manual work-arounds and without delaying the full auditability of the financial statements of such military department.
+&emsp;"(B) A determination by the Chief Management Officer of each military department whether or not such military department is able to achieve an auditable statement of budgetary resources by September 30, 2014, without an unaffordable or unsustainable level of one-time fixes and manual work-arounds and without delaying the full auditability of the financial statements of such military department.
 
-&emsp;“(C) If the Chief Management Officer of a military department determines under subparagraph (B) that the military department is not able to achieve an auditable statement of budgetary resources by September 30, 2014, as described in that subparagraph—
+&emsp;"(C) If the Chief Management Officer of a military department determines under subparagraph (B) that the military department is not able to achieve an auditable statement of budgetary resources by September 30, 2014, as described in that subparagraph—
 
-&emsp;&emsp;“(i) an explanation why the military department is unable to meet the deadline;
+&emsp;&emsp;"(i) an explanation why the military department is unable to meet the deadline;
 
-&emsp;&emsp;“(ii) an alternative deadline by which the military department will achieve an auditable statement of budgetary resources; and
+&emsp;&emsp;"(ii) an alternative deadline by which the military department will achieve an auditable statement of budgetary resources; and
 
-&emsp;&emsp;“(iii) a description of the plan of the military department for meeting the alternative deadline.”
+&emsp;&emsp;"(iii) a description of the plan of the military department for meeting the alternative deadline."
 
 Pub. L. 112–81, div. A, title X, §1003, Dec. 31, 2011, 125 Stat. 1555, provided that:
 
-“(a)
+"(a)
 
 Planning Requirement.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The report to be issued pursuant to section 1003(b) of the National Defense Authorization Act for 2010 (Public Law 111–84; 123 Stat. 2440; 10 U.S.C. 2222 note) and provided by not later than May 15, 2012, shall include a plan, including interim objectives and a schedule of milestones for each military department and for the defense agencies, to support the goal established by the Secretary of Defense that the statement of budgetary resources is validated for audit by not later than September 30, 2014. Consistent with the requirements of such section, the plan shall include process and control improvements and business systems modernization efforts necessary for the Department of Defense to consistently prepare timely, reliable, and complete financial management information.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Semiannual updates.—The reports to be issued pursuant to such section after the report described in paragraph (1) shall update the plan required by such paragraph and explain how the Department has progressed toward meeting the milestones established in the plan.
 
-“(b)
+"(b)
 
 Inclusion of Subordinate Activities for Interim Milestones.—For each interim milestone established pursuant to section 881 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 124 Stat. 4306; 10 U.S.C. 2222 note), the Under Secretary of Defense (Comptroller), in consultation with the Deputy Chief Management Officer of the Department of Defense, the Secretaries of the military departments, and the heads of the defense agencies and defense field activities, shall include a detailed description of the subordinate activities necessary to accomplish each interim milestone, including—
 
-&emsp;“(1) a justification of the time required for each activity;
+&emsp;"(1) a justification of the time required for each activity;
 
-&emsp;“(2) metrics identifying the progress made within each activity; and
+&emsp;"(2) metrics identifying the progress made within each activity; and
 
-&emsp;“(3) mitigating strategies for milestone timeframe slippages.
+&emsp;"(3) mitigating strategies for milestone timeframe slippages.
 
-“(c)
+"(c)
 
 Report Required.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary of Defense shall submit to Congress a report relating to the Financial Improvement and Audit Readiness Plan of the Department of Defense submitted in accordance with section 1003 of the National Defense Authorization Act for 2010 (Public Law 111–84; 123 Stat. 2440 \[2439\]; 10 U.S.C. 2222 note) and section 881 of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011 (Public Law 111–383; 121 Stat. 4306; 10 U.S.C. 2222 note).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Matters covered.—The report shall include a corrective action plan for any identified weaknesses or deficiencies in the execution of the Financial Improvement and Audit Readiness Plan. The corrective action plan shall—
 
-&emsp;&emsp;“(A) identify near- and long-term measures for resolving any such weaknesses or deficiencies;
+&emsp;&emsp;"(A) identify near- and long-term measures for resolving any such weaknesses or deficiencies;
 
-&emsp;&emsp;“(B) assign responsibilities within the Department of Defense to implement such measures;
+&emsp;&emsp;"(B) assign responsibilities within the Department of Defense to implement such measures;
 
-&emsp;&emsp;“(C) specify implementation steps for such measures; and
+&emsp;&emsp;"(C) specify implementation steps for such measures; and
 
-&emsp;&emsp;“(D) provide timeframes for implementation of such measures.”
+&emsp;&emsp;"(D) provide timeframes for implementation of such measures."
 
 Pub. L. 111–383, div. A, title VIII, §881, Jan. 7, 2011, 124 Stat. 4306, provided that:
 
-“(a)
+"(a)
 
 Interim Milestones.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-Requirement.—Not later than 90 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Under Secretary of Defense (Comptroller), in consultation with the Deputy Chief Management Officer of the Department of Defense, the secretaries of the military departments, and the heads of the defense agencies and defense field activities, shall establish interim milestones for achieving audit readiness of the financial statements of the Department of Defense, consistent with the requirements of section 1003 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note).
+Requirement.—Not later than 90 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Under Secretary of Defense (Comptroller), in consultation with the Deputy Chief Management Officer of the Department of Defense, the secretaries of themilitary departments, and the heads of the defense agencies and defense field activities, shall establish interim milestones for achieving audit readiness of the financial statements of the Department of Defense, consistent with the requirements of section 1003 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Matters included.—The interim milestones established pursuant to paragraph (1) shall include, at a minimum, for each military department and for the defense agencies and defense field activities—
 
-&emsp;&emsp;“(A) an interim milestone for achieving audit readiness for each major element of the statement of budgetary resources, including civilian pay, military pay, supply orders, contracts, and funds balance with the Treasury; and
+&emsp;&emsp;"(A) an interim milestone for achieving audit readiness for each major element of the statement of budgetary resources, including civilian pay, military pay, supply orders, contracts, and funds balance with the Treasury; and
 
-&emsp;&emsp;“(B) an interim milestone for addressing the existence and completeness of each major category of Department of Defense assets, including military equipment, real property, inventory, and operating material and supplies.
+&emsp;&emsp;"(B) an interim milestone for addressing the existence and completeness of each major category of Department of Defense assets, including military equipment, real property, inventory, and operating material and supplies.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Description in semiannual reports.—The Under Secretary shall describe each interim milestone established pursuant to paragraph (1) in the next semiannual report submitted pursuant to section 1003(b) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note). Each subsequent semiannual report submitted pursuant to section 1003(b) shall explain how the Department has progressed toward meeting such interim milestones.
 
-“(b)
+"(b)
 
 Valuation of Department of Defense Assets.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Requirement.—Not later than 120 days after the date of the enactment of this Act, the Under Secretary of Defense (Comptroller) shall, in consultation with other appropriate Federal agencies and officials—
 
-&emsp;&emsp;“(A) examine the costs and benefits of alternative approaches to the valuation of Department of Defense assets;
+&emsp;&emsp;"(A) examine the costs and benefits of alternative approaches to the valuation of Department of Defense assets;
 
-&emsp;&emsp;“(B) select an approach to such valuation that is consistent with principles of sound financial management and the conservation of taxpayer resources; and
+&emsp;&emsp;"(B) select an approach to such valuation that is consistent with principles of sound financial management and the conservation of taxpayer resources; and
 
-&emsp;&emsp;“(C) begin the preparation of a business case analysis supporting the selected approach.
+&emsp;&emsp;"(C) begin the preparation of a business case analysis supporting the selected approach.
 
-&emsp;“(2) The Under Secretary shall include information on the alternatives considered, the selected approach, and the business case analysis supporting that approach in the next semiannual report submitted pursuant to section 1003(b) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note).
+&emsp;"(2) The Under Secretary shall include information on the alternatives considered, the selected approach, and the business case analysis supporting that approach in the next semiannual report submitted pursuant to section 1003(b) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note).
 
-“(c)
+"(c)
 
 Remedial Actions Required.—In the event that the Department of Defense, or any component of the Department of Defense, is unable to meet an interim milestone established pursuant to subsection (a), the Under Secretary of Defense (Comptroller) shall—
 
-&emsp;“(1) develop a remediation plan to ensure that—
+&emsp;"(1) develop a remediation plan to ensure that—
 
-&emsp;&emsp;“(A) the component will meet the interim milestone no more than one year after the originally scheduled date; and
+&emsp;&emsp;"(A) the component will meet the interim milestone no more than one year after the originally scheduled date; and
 
-&emsp;&emsp;“(B) the component's failure to meet the interim milestone will not have an adverse impact on the Department's ability to carry out the plan under section 1003(a) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note); and
+&emsp;&emsp;"(B) the component's failure to meet the interim milestone will not have an adverse impact on the Department's ability to carry out the plan under section 1003(a) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note); and
 
-&emsp;“(2) include in the next semiannual report submitted pursuant to section 1003(b) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note)—
+&emsp;"(2) include in the next semiannual report submitted pursuant to section 1003(b) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note)—
 
-&emsp;&emsp;“(A) a statement of the reasons why the Department of Defense, or component of the Department of Defense, will be unable to meet such interim milestone;
+&emsp;&emsp;"(A) a statement of the reasons why the Department of Defense, or component of the Department of Defense, will be unable to meet such interim milestone;
 
-&emsp;&emsp;“(B) the revised completion date for meeting such interim milestone; and
+&emsp;&emsp;"(B) the revised completion date for meeting such interim milestone; and
 
-&emsp;&emsp;“(C) a description of the actions that have been taken and are planned to be taken by the Department of Defense, or component of the Department of Defense, to meet such interim milestone.
+&emsp;&emsp;"(C) a description of the actions that have been taken and are planned to be taken by the Department of Defense, or component of the Department of Defense, to meet such interim milestone.
 
-“(d)
+"(d)
 
 Incentives for Achieving Auditability.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Review required.—Not later than 120 days after the date of the enactment of this Act, the Under Secretary of Defense (Comptroller) shall review options for providing appropriate incentives to the military departments, Defense Agencies, and defense field activities to ensure that financial statements are validated as ready for audit earlier than September 30, 2017.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Options reviewed.—The review performed pursuant to paragraph (1) shall consider changes in policy that reflect the increased confidence that can be placed in auditable financial statements, and shall include, at a minimum, consideration of the following options:
 
-&emsp;&emsp;“(A) Consistent with the need to fund urgent warfighter requirements and operational needs, priority in the release of appropriated funds.
+&emsp;&emsp;"(A) Consistent with the need to fund urgent warfighter requirements and operational needs, priority in the release of appropriated funds.
 
-&emsp;&emsp;“(B) Relief from the frequency of financial reporting in cases in which such reporting is not required by law.
+&emsp;&emsp;"(B) Relief from the frequency of financial reporting in cases in which such reporting is not required by law.
 
-&emsp;&emsp;“(C) Relief from departmental obligation and expenditure thresholds to the extent that such thresholds establish requirements more restrictive than those required by law.
+&emsp;&emsp;"(C) Relief from departmental obligation and expenditure thresholds to the extent that such thresholds establish requirements more restrictive than those required by law.
 
-&emsp;&emsp;“(D) Increases in thresholds for reprogramming of funds.
+&emsp;&emsp;"(D) Increases in thresholds for reprogramming of funds.
 
-&emsp;&emsp;“(E) Personnel management incentives for the financial and business management workforce.
+&emsp;&emsp;"(E) Personnel management incentives for the financial and business management workforce.
 
-&emsp;&emsp;“(F) Such other measures as the Under Secretary considers appropriate.
+&emsp;&emsp;"(F) Such other measures as the Under Secretary considers appropriate.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Report.—The Under Secretary shall include a discussion of the review performed pursuant to paragraph (1) in the next semiannual report pursuant to section 1003(b) of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2439; 10 U.S.C. 2222 note) and for each option considered pursuant to paragraph (2) shall include—
 
-&emsp;&emsp;“(A) an assessment of the extent to which the implementation of the option—
+&emsp;&emsp;"(A) an assessment of the extent to which the implementation of the option—
 
-&emsp;&emsp;&emsp;“(i) would be consistent with the efficient operation of the Department of Defense and the effective funding of essential Department of Defense programs and activities; and
+&emsp;&emsp;&emsp;"(i) would be consistent with the efficient operation of the Department of Defense and the effective funding of essential Department of Defense programs and activities; and
 
-&emsp;&emsp;&emsp;“(ii) would contribute to the achievement of Department of Defense goals to prepare auditable financial statements; and
+&emsp;&emsp;&emsp;"(ii) would contribute to the achievement of Department of Defense goals to prepare auditable financial statements; and
 
-&emsp;&emsp;“(B) a recommendation on whether such option should be adopted, a schedule for implementing the option if adoption is recommended, or a reason for not recommending the option if adoption is not recommended.”
+&emsp;&emsp;"(B) a recommendation on whether such option should be adopted, a schedule for implementing the option if adoption is recommended, or a reason for not recommending the option if adoption is not recommended."
 
-Pub. L. 111–84, div. A, title X, §1003, Oct. 28, 2009, 123 Stat. 2439, as amended by Pub. L. 112–239, div. A, title X, §1005(a), Jan. 2, 2013, 126 Stat. 1904, provided that:
+Pub. L. 111–84, div. A, title X, §1003, Oct. 28, 2009, 123 Stat. 2439, as amended by Pub. L. 112–239, div. A, title X, §1005(a), Jan. 2, 2013, 126 Stat. 1904; Pub. L. 113–66, div. A, title X, §1003(b), Dec. 26, 2013, 127 Stat. 842, provided that:
 
-“(a)
+"(a)
 
 Financial Improvement Audit Readiness Plan.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—The Chief Management Officer of the Department of Defense shall, in consultation with the Under Secretary of Defense (Comptroller), develop and maintain a plan to be known as the ‘Financial Improvement and Audit Readiness Plan’.
+In general.—The Chief Management Officer of the Department of Defense shall, in consultation with the Under Secretary of Defense (Comptroller), develop and maintain a plan to be known as the 'Financial Improvement and Audit Readiness Plan'.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Elements.—The plan required by paragraph (1) shall—
 
-&emsp;&emsp;“(A) describe specific actions to be taken and the costs associated with—
+&emsp;&emsp;"(A) describe specific actions to be taken and the costs associated with—
 
-&emsp;&emsp;&emsp;“(i) correcting the financial management deficiencies that impair the ability of the Department of Defense to prepare timely, reliable, and complete financial management information; and
+&emsp;&emsp;&emsp;"(i) correcting the financial management deficiencies that impair the ability of the Department of Defense to prepare timely, reliable, and complete financial management information;
 
-&emsp;&emsp;&emsp;“(ii) ensuring the financial statements of the Department of Defense are validated as ready for audit by not later than September 30, 2017, and the statement of budgetary resources of the Department of Defense is validated as ready for audit by not later than September 30, 2014;
+&emsp;&emsp;&emsp;"(ii) ensuring the financial statements of the Department of Defense are validated as ready for audit by not later than September 30, 2017, and the statement of budgetary resources of the Department of Defense is validated as ready for audit by not later than September 30, 2014; and
 
-&emsp;&emsp;“(B) systematically tie the actions described under subparagraph (A) to process and control improvements and business systems modernization efforts described in the business enterprise architecture and transition plan required by section 2222 of title 10, United States Code;
+&emsp;&emsp;&emsp;"(iii) ensuring the audit of the financial statements of the Department of Defense for fiscal year 2018 occurs by not later than March 31, 2019.
 
-&emsp;&emsp;“(C) prioritize—
+&emsp;&emsp;"(B) systematically tie the actions described under subparagraph (A) to process and control improvements and business systems modernization efforts described in the business enterprise architecture and transition plan required by section 2222 of title 10, United States Code;
 
-&emsp;&emsp;&emsp;“(i) improving the budgetary information of the Department of Defense, in order to achieve an unqualified audit opinion on the Department's statements of budgetary resources; and
+&emsp;&emsp;"(C) prioritize—
 
-&emsp;&emsp;&emsp;“(ii) as a secondary goal, improving the accuracy and reliability of management information on the Department's mission-critical assets (military and general equipment, real property, inventory, and operating materials and supplies) and validating its accuracy through existence and completeness audits; and
+&emsp;&emsp;&emsp;"(i) improving the budgetary information of the Department of Defense, in order to achieve an unqualified audit opinion on the Department's statements of budgetary resources; and
 
-&emsp;&emsp;“(D) include interim goals, including—
+&emsp;&emsp;&emsp;"(ii) as a secondary goal, improving the accuracy and reliability of management information on the Department's mission-critical assets (military and general equipment, real property, inventory, and operating materials and supplies) and validating its accuracy through existence and completeness audits; and
 
-&emsp;&emsp;&emsp;“(i) the objective of ensuring that the financial statement of each of the Department of the Army, the Department of the Navy, the Department of the Air Force, and the Defense Logistics Agency is validated as ready for audit: and
+&emsp;&emsp;"(D) include interim goals, including—
 
-&emsp;&emsp;&emsp;“(ii) a schedule setting forth milestones for elements of the military departments and financial statements of the military departments to be made ready for audit as part of the progress required to meet the objectives established pursuant to clause (i) of this subparagraph and clause (ii) of subparagraph (A) of this paragraph.
+&emsp;&emsp;&emsp;"(i) the objective of ensuring that the financial statement of each of the Department of the Army, the Department of the Navy, the Department of the Air Force, and the Defense Logistics Agency is validated as ready for audit: and
 
-“(b)
+&emsp;&emsp;&emsp;"(ii) a schedule setting forth milestones for elements of the military departments and financial statements of the military departments to be made ready for audit as part of the progress required to meet the objectives established pursuant to clause (i) of this subparagraph and clause (ii) of subparagraph (A) of this paragraph.
+
+"(b)
 
 Semi-annual Reports on Financial Improvement and Audit Readiness Plan.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than May 15 and November 15 each year, the Under Secretary of Defense (Comptroller) shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the status of the implementation by the Department of Defense of the Financial Improvement and Audit Readiness Plan required by subsection (a).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Elements.—Each report under paragraph (1) shall include, at a minimum—
 
-&emsp;&emsp;“(A) an overview of the steps the Department has taken or plans to take to meet the objectives specified in subsection (a)(2)(A), including progress toward achieving the interim goals and milestone schedule established pursuant to subsection (a)(2)(D); and
+&emsp;&emsp;"(A) an overview of the steps the Department has taken or plans to take to meet the objectives specified in subsection (a)(2)(A), including progress toward achieving the interim goals and milestone schedule established pursuant to subsection (a)(2)(D); and
 
-&emsp;&emsp;“(B) a description of any impediments identified in the efforts of the Department to meet such objectives, and of the actions the Department has taken or plans to take to address such impediments.
+&emsp;&emsp;"(B) a description of any impediments identified in the efforts of the Department to meet such objectives, and of the actions the Department has taken or plans to take to address such impediments.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Additional issues to be addressed in first report.—The first report submitted under paragraph (1) after the date of the enactment of this Act \[Oct. 28, 2009\] shall address, in addition to the elements required by paragraph (2), the actions taken or to be taken by the Department as follows:
 
-&emsp;&emsp;“(A) To develop standardized guidance for financial improvement plans by components of the Department.
+&emsp;&emsp;"(A) To develop standardized guidance for financial improvement plans by components of the Department.
 
-&emsp;&emsp;“(B) To establish a baseline of financial management capabilities and weaknesses at the component level of the Department.
+&emsp;&emsp;"(B) To establish a baseline of financial management capabilities and weaknesses at the component level of the Department.
 
-&emsp;&emsp;“(C) To provide results-oriented metrics for measuring and reporting quantifiable results toward addressing financial management deficiencies.
+&emsp;&emsp;"(C) To provide results-oriented metrics for measuring and reporting quantifiable results toward addressing financial management deficiencies.
 
-&emsp;&emsp;“(D) To define the oversight roles of the Chief Management Officer of the Department of Defense, the chief management officers of the military departments, and other appropriate elements of the Department to ensure that the requirements of the Financial Improvement and Audit Readiness Plan are carried out.
+&emsp;&emsp;"(D) To define the oversight roles of the Chief Management Officer of the Department of Defense, the chief management officers of the military departments, and other appropriate elements of the Department to ensure that the requirements of the Financial Improvement and Audit Readiness Plan are carried out.
 
-&emsp;&emsp;“(E) To assign accountability for carrying out specific elements of the Financial Improvement and Audit Readiness Plan to appropriate officials and organizations at the component level of the Department.
+&emsp;&emsp;"(E) To assign accountability for carrying out specific elements of the Financial Improvement and Audit Readiness Plan to appropriate officials and organizations at the component level of the Department.
 
-&emsp;&emsp;“(F) To develop mechanisms to track budgets and expenditures for the implementation of the requirements of the Financial Improvement and Audit Readiness Plan.
+&emsp;&emsp;"(F) To develop mechanisms to track budgets and expenditures for the implementation of the requirements of the Financial Improvement and Audit Readiness Plan.
 
-&emsp;&emsp;“(G) To develop a mechanism to conduct audits of the military intelligence programs and agencies and to submit audited financial statements for such agencies to Congress in a classified manner.
+&emsp;&emsp;"(G) To develop a mechanism to conduct audits of the military intelligence programs and agencies and to submit audited financial statements for such agencies to Congress in a classified manner.
 
-“(c)
+"(c)
 
-Relationship to Existing Law.—The requirements of this section shall be implemented in a manner that is consistent with the requirements of section 1008 of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 115 Stat. 1204; 10 U.S.C. 2222 \[113\] note).”
+Relationship to Existing Law.—The requirements of this section shall be implemented in a manner that is consistent with the requirements of section 1008 of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 115 Stat. 1204; 10 U.S.C. 2222 \[113\] note)."
 
 #### Business Process Reengineering Efforts; Ongoing Programs
 
 Pub. L. 111–84, div. A, title X, §1072(b), Oct. 28, 2009, 123 Stat. 2471, provided that:
 
-“(1)
+"(1)
 
 In general.—Not later than one year after the date of the enactment of this Act \[Oct. 28, 2009\], the appropriate chief management officer for each defense business system modernization approved by the Defense Business Systems Management Committee before the date of the enactment of this Act that will have a total cost in excess of $100,000,000 shall review such defense business system modernization to determine whether or not appropriate business process reengineering efforts have been undertaken to ensure that—
 
-&emsp;“(A) the business process to be supported by such defense business system modernization will be as streamlined and efficient as practicable; and
+&emsp;"(A) the business process to be supported by such defense business system modernization will be as streamlined and efficient as practicable; and
 
-&emsp;“(B) the need to tailor commercial-off-the-shelf systems to meet unique requirements or incorporate unique interfaces has been eliminated or reduced to the maximum extent practicable.
+&emsp;"(B) the need to tailor commercial-off-the-shelf systems to meet unique requirements or incorporate unique interfaces has been eliminated or reduced to the maximum extent practicable.
 
-“(2)
+"(2)
 
 Action on finding of lack of reengineering efforts.—If the appropriate chief management officer determines that appropriate business process reengineering efforts have not been undertaken with regard to a defense business system modernization as described in paragraph (1), that chief management officer—
 
-&emsp;“(A) shall develop a plan to undertake business process reengineering efforts with respect to the defense business system modernization; and
+&emsp;"(A) shall develop a plan to undertake business process reengineering efforts with respect to the defense business system modernization; and
 
-&emsp;“(B) may direct that the defense business system modernization be restructured or terminated, if necessary to meet the requirements of paragraph (1).
+&emsp;"(B) may direct that the defense business system modernization be restructured or terminated, if necessary to meet the requirements of paragraph (1).
 
-“(3)
+"(3)
 
 Definitions.—In this subsection:
 
-&emsp;“(A) The term ‘appropriate chief management officer’, with respect to a defense business system modernization, has the meaning given that term in paragraph (2) of \[former\] subsection (f) of section 2222 of title 10, United States Code (as amended by subsection (a)(2) of this section).
+&emsp;"(A) The term 'appropriate chief management officer', with respect to a defense business system modernization, has the meaning given that term in paragraph (2) of \[former\] subsection (f) of section 2222 of title 10, United States Code (as amended by subsection (a)(2) of this section).
 
-&emsp;“(B) The term ‘defense business system modernization’ has the meaning given that term in \[former\] subsection (j)(3) of section 2222 of title 10, United States Code.”
+&emsp;"(B) The term 'defense business system modernization' has the meaning given that term in \[former\] subsection (j)(3) of section 2222 of title 10, United States Code."
 
 #### Business Transformation Initiatives for the Military Departments
 
 Pub. L. 110–417, \[div. A\], title IX, §908, Oct. 14, 2008, 122 Stat. 4569, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of each military department shall, acting through the Chief Management Officer of such military department, carry out an initiative for the business transformation of such military department.
 
-“(b)
+"(b)
 
 Objectives.—The objectives of the business transformation initiative of a military department under this section shall include, at a minimum, the following:
 
-&emsp;“(1) The development of a comprehensive business transformation plan, with measurable performance goals and objectives, to achieve an integrated management system for the business operations of the military department.
+&emsp;"(1) The development of a comprehensive business transformation plan, with measurable performance goals and objectives, to achieve an integrated management system for the business operations of the military department.
 
-&emsp;“(2) The development of a well-defined enterprise-wide business systems architecture and transition plan encompassing end-to-end business processes and capable of providing accurately and timely information in support of business decisions of the military department.
+&emsp;"(2) The development of a well-defined enterprise-wide business systems architecture and transition plan encompassing end-to-end business processes and capable of providing accurately and timely information in support of business decisions of the military department.
 
-&emsp;“(3) The implementation of the business transformation plan developed pursuant to paragraph (1) and the business systems architecture and transition plan developed pursuant to paragraph (2).
+&emsp;"(3) The implementation of the business transformation plan developed pursuant to paragraph (1) and the business systems architecture and transition plan developed pursuant to paragraph (2).
 
-“(c)
+"(c)
 
 Business Transformation Offices.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-Establishment.—Not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of each military department shall establish within such military department an office (to be known as the ‘Office of Business Transformation’ of such military department) to assist the Chief Management Officer of such military department in carrying out the initiative required by this section for such military department.
+Establishment.—Not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\], the Secretary of each military department shall establish within such military department an office (to be known as the 'Office of Business Transformation' of such military department) to assist the Chief Management Officer of such military department in carrying out the initiative required by this section for such military department.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Head.—The Office of Business Transformation of a military department under this subsection shall be headed by a Director of Business Transformation, who shall be appointed by the Chief Management Officer of the military department, in consultation with the Director of the Business Transformation Agency of the Department of Defense, from among individuals with significant experience managing large-scale organizations or business transformation efforts.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Supervision.—The Director of Business Transformation of a military department under paragraph (2) shall report directly to the Chief Management Officer of the military department, subject to policy guidance from the Director of the Business Transformation Agency of the Department of Defense.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Authority.—In carrying out the initiative required by this section for a military department, the Director of Business Transformation of the military department under paragraph (2) shall have the authority to require elements of the military department to carry out actions that are within the purpose and scope of the initiative.
 
-“(d)
+"(d)
 
 Responsibilities of Business Transformation Offices.—The Office of Business Transformation of a military department established pursuant to subsection (b) may be responsible for the following:
 
-&emsp;“(1) Transforming the budget, finance, accounting, and human resource operations of the military department in a manner that is consistent with the business transformation plan developed pursuant to subsection (b)(1).
+&emsp;"(1) Transforming the budget, finance, accounting, and human resource operations of the military department in a manner that is consistent with the business transformation plan developed pursuant to subsection (b)(1).
 
-&emsp;“(2) Eliminating or replacing financial management systems of the military department that are inconsistent with the business systems architecture and transition plan developed pursuant to subsection (b)(2).
+&emsp;"(2) Eliminating or replacing financial management systems of the military department that are inconsistent with the business systems architecture and transition plan developed pursuant to subsection (b)(2).
 
-&emsp;“(3) Ensuring that the business transformation plan and the business systems architecture and transition plan are implemented in a manner that is aggressive, realistic, and accurately measured.
+&emsp;"(3) Ensuring that the business transformation plan and the business systems architecture and transition plan are implemented in a manner that is aggressive, realistic, and accurately measured.
 
-&emsp;“(4) Such other responsibilities as the Secretary of that military department determines are appropriate.
+&emsp;"(4) Such other responsibilities as the Secretary of that military department determines are appropriate.
 
-“(e)
+"(e)
 
 Required Elements.—In carrying out the initiative required by this section for a military department, the Chief Management Officer and the Director of Business Transformation of the military department shall ensure that each element of the initiative is consistent with—
 
-&emsp;“(1) the requirements of the Business Enterprise Architecture and Transition Plan developed by the Secretary of Defense pursuant to section 2222 of title 10, United States Code;
+&emsp;"(1) the requirements of the Business Enterprise Architecture and Transition Plan developed by the Secretary of Defense pursuant to section 2222 of title 10, United States Code;
 
-&emsp;“(2) the Standard Financial Information Structure of the Department of Defense;
+&emsp;"(2) the Standard Financial Information Structure of the Department of Defense;
 
-&emsp;“(3) the Federal Financial Management Improvement Act of 1996 \[section 101(f) \[title VIII\] of title I of div. A of Pub. L. 104–208, 31 U.S.C. 3512 note\] (and the amendments made by that Act); and
+&emsp;"(3) the Federal Financial Management Improvement Act of 1996 \[section 101(f) \[title VIII\] of title I of div. A of Pub. L. 104–208, 31 U.S.C. 3512 note\] (and the amendments made by that Act); and
 
-&emsp;“(4) other applicable requirements of law and regulation.
+&emsp;"(4) other applicable requirements of law and regulation.
 
-“(f)
+"(f)
 
 Reports on Implementation.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Initial reports.—Not later than nine months after the date of the enactment of this Act \[Oct. 14, 2008\], the Chief Management Officer of each military department shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the actions taken, and on the actions planned to be taken, by such military department to implement the requirements of this section.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Updates.—Not later than March 1 of each of 2010, 2011, and 2012, the Chief Management Officer of each military department shall submit to the congressional defense committees a current update of the report submitted by such Chief Management Officer under paragraph (1).”
+Updates.—Not later than March 1 of each of 2010, 2011, and 2012, the Chief Management Officer of each military department shall submit to the congressional defense committees a current update of the report submitted by such Chief Management Officer under paragraph (1)."
 
 #### Financial Management Transformation Initiative for the Defense Agencies
 
 Pub. L. 110–181, div. A, title X, §1005, Jan. 28, 2008, 122 Stat. 301, provided that:
 
-“(a)
+"(a)
 
 Financial Management Transformation Initiative.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—The Director of the Business Transformation Agency of the Department of Defense shall carry out an initiative for financial management transformation in the Defense Agencies. The initiative shall be known as the ‘Defense Agencies Initiative’ (in this section referred to as the ‘Initiative’).
+In general.—The Director of the Business Transformation Agency of the Department of Defense shall carry out an initiative for financial management transformation in the Defense Agencies. The initiative shall be known as the 'Defense Agencies Initiative' (in this section referred to as the 'Initiative').
 
-&emsp;“(2)
+&emsp;"(2)
 
 Scope of authority.—In carrying out the Initiative, the Director of the Business Transformation Agency may require the heads of the Defense Agencies to carry out actions that are within the purpose and scope of the Initiative.
 
-“(b)
+"(b)
 
 Purposes.—The purposes of Initiative shall be as follows:
 
-&emsp;“(1) To eliminate or replace financial management systems of the Defense Agencies that are duplicative, redundant, or fail to comply with the standards set forth in subsection (d).
+&emsp;"(1) To eliminate or replace financial management systems of the Defense Agencies that are duplicative, redundant, or fail to comply with the standards set forth in subsection (d).
 
-&emsp;“(2) To transform the budget, finance, and accounting operations of the Defense Agencies to enable the Defense Agencies to achieve accurate and reliable financial information needed to support financial accountability and effective and efficient management decisions.
+&emsp;"(2) To transform the budget, finance, and accounting operations of the Defense Agencies to enable the Defense Agencies to achieve accurate and reliable financial information needed to support financial accountability and effective and efficient management decisions.
 
-“(c)
+"(c)
 
 Required Elements.—The Initiative shall include, to the maximum extent practicable—
 
-&emsp;“(1) the utilization of commercial, off-the-shelf technologies and web-based solutions;
+&emsp;"(1) the utilization of commercial, off-the-shelf technologies and web-based solutions;
 
-&emsp;“(2) a standardized technical environment and an open and accessible architecture; and
+&emsp;"(2) a standardized technical environment and an open and accessible architecture; and
 
-&emsp;“(3) the implementation of common business processes, shared services, and common data structures.
+&emsp;"(3) the implementation of common business processes, shared services, and common data structures.
 
-“(d)
+"(d)
 
 Standards.—In carrying out the Initiative, the Director of the Business Transformation Agency shall ensure that the Initiative is consistent with—
 
-&emsp;“(1) the requirements of the Business Enterprise Architecture and Transition Plan developed pursuant to section 2222 of title 10, United States Code;
+&emsp;"(1) the requirements of the Business Enterprise Architecture and Transition Plan developed pursuant to section 2222 of title 10, United States Code;
 
-&emsp;“(2) the Standard Financial Information Structure of the Department of Defense;
+&emsp;"(2) the Standard Financial Information Structure of the Department of Defense;
 
-&emsp;“(3) the Federal Financial Management Improvement Act of 1996 \[section 101(f) \[title VIII\] of title I of div. A of Pub. L. 104–208, 31 U.S.C. 3512 note\] (and the amendments made by that Act); and
+&emsp;"(3) the Federal Financial Management Improvement Act of 1996 \[section 101(f) \[title VIII\] of title I of div. A of Pub. L. 104–208, 31 U.S.C. 3512 note\] (and the amendments made by that Act); and
 
-&emsp;“(4) other applicable requirements of law and regulation.
+&emsp;"(4) other applicable requirements of law and regulation.
 
-“(e)
+"(e)
 
 Scope.—The Initiative shall be designed to provide, at a minimum, capabilities in the major process areas for both general fund and working capital fund operations of the Defense Agencies as follows:
 
-&emsp;“(1) Budget formulation.
+&emsp;"(1) Budget formulation.
 
-&emsp;“(2) Budget to report, including general ledger and trial balance.
+&emsp;"(2) Budget to report, including general ledger and trial balance.
 
-&emsp;“(3) Procure to pay, including commitments, obligations, and accounts payable.
+&emsp;"(3) Procure to pay, including commitments, obligations, and accounts payable.
 
-&emsp;“(4) Order to fulfill, including billing and accounts receivable.
+&emsp;"(4) Order to fulfill, including billing and accounts receivable.
 
-&emsp;“(5) Cost accounting.
+&emsp;"(5) Cost accounting.
 
-&emsp;“(6) Acquire to retire (account management).
+&emsp;"(6) Acquire to retire (account management).
 
-&emsp;“(7) Time and attendance and employee entitlement.
+&emsp;"(7) Time and attendance and employee entitlement.
 
-&emsp;“(8) Grants financial management.
+&emsp;"(8) Grants financial management.
 
-“(f)
+"(f)
 
 Consultation.—In carrying out subsections (d) and (e), the Director of the Business Transformation Agency shall consult with the Comptroller of the Department of Defense \[now Under Secretary of Defense (Comptroller)\] to ensure that any financial management systems developed for the Defense Agencies, and any changes to the budget, finance, and accounting operations of the Defense Agencies, are consistent with the financial standards and requirements of the Department of Defense.
 
-“(g)
+"(g)
 
 Program Control.—In carrying out the Initiative, the Director of the Business Transformation Agency shall establish—
 
-&emsp;“(1) a board (to be known as the ‘Configuration Control Board’) to manage scope and cost changes to the Initiative; and
+&emsp;"(1) a board (to be known as the 'Configuration Control Board') to manage scope and cost changes to the Initiative; and
 
-&emsp;“(2) a program management office (to be known as the ‘Program Management Office’) to control and enforce assumptions made in the acquisition plan, the cost estimate, and the system integration contract for the Initiative, as directed by the Configuration Control Board.
+&emsp;"(2) a program management office (to be known as the 'Program Management Office') to control and enforce assumptions made in the acquisition plan, the cost estimate, and the system integration contract for the Initiative, as directed by the Configuration Control Board.
 
-“(h)
+"(h)
 
 Plan on Development and Implementation of Initiative.—Not later than six months after the date of the enactment of this Act \[Jan. 28, 2008\], the Director of the Business Transformation Agency shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for the development and implementation of the Initiative. The plan shall provide for the implementation of an initial capability under the Initiative as follows:
 
-&emsp;“(1) In at least one Defense Agency by not later than eight months after the date of the enactment of this Act.
+&emsp;"(1) In at least one Defense Agency by not later than eight months after the date of the enactment of this Act.
 
-&emsp;“(2) In not less than five Defense Agencies by not later than 18 months after the date of the enactment of this Act.”
+&emsp;"(2) In not less than five Defense Agencies by not later than 18 months after the date of the enactment of this Act."
 
 #### Limitation on Financial Management Improvement and Audit Initiatives Within the Department of Defense
 
 Pub. L. 109–364, div. A, title III, §321, Oct. 17, 2006, 120 Stat. 2144, as amended by Pub. L. 111–383, div. A, title X, §1075(g)(1), Jan. 7, 2011, 124 Stat. 4376, provided that:
 
-“(a)
+"(a)
 
 Limitation.—The Secretary of Defense may not obligate or expend any funds for the purpose of any financial management improvement activity relating to the preparation, processing, or auditing of financial statements until the Secretary submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a written determination that each activity proposed to be funded is—
 
-&emsp;“(1) consistent with the financial management improvement plan of the Department of Defense required by section 376(a)(1) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3213); and
+&emsp;"(1) consistent with the financial management improvement plan of the Department of Defense required by section 376(a)(1) of the National Defense Authorization Act for Fiscal Year 2006 (Public Law 109–163; 119 Stat. 3213); and
 
-&emsp;“(2) likely to improve internal controls or otherwise result in sustained improvements in the ability of the Department to produce timely, reliable, and complete financial management information.
+&emsp;"(2) likely to improve internal controls or otherwise result in sustained improvements in the ability of the Department to produce timely, reliable, and complete financial management information.
 
-“(b)
+"(b)
 
-Exception.—The limitation in subsection (a) shall not apply to an activity directed exclusively at assessing the adequacy of internal controls and remediating any inadequacy identified pursuant to such assessment.”
+Exception.—The limitation in subsection (a) shall not apply to an activity directed exclusively at assessing the adequacy of internal controls and remediating any inadequacy identified pursuant to such assessment."
 
 #### Time-Certain Development for Department of Defense Information Technology Business Systems
 
 Pub. L. 109–364, div. A, title VIII, §811, Oct. 17, 2006, 120 Stat. 2316, provided that:
 
-“(a)
+"(a)
 
 Milestone A Limitation.—The Department of Defense executive or entity that is the milestone decision authority for an information system described in subsection (c) may not provide Milestone A approval for the system unless, as part of the decision process for such approval, that authority determines that the system will achieve initial operational capability within a specified period of time not exceeding five years.
 
-“(b)
+"(b)
 
 Initial Operational Capability Limitation.—If an information system described in subsection (c), having received Milestone A approval, has not achieved initial operational capability within five years after the date of such approval, the system shall be deemed to have undergone a critical change in program requiring the evaluation and report required by section 2445c(d) of title 10, United States Code (as added by section 816 of this Act).
 
-“(c)
+"(c)
 
 Covered Systems.—An information system described in this subsection is any Department of Defense information technology business system that is not a national security system, as defined in 3542(b)(2) of title 44, United States Code.
 
-“(d)
+"(d)
 
 Definitions.—In this section:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Milestone decision authority.—The term ‘milestone decision authority’ has the meaning given that term in Department of Defense Instruction 5000.2, dated May 12, 2003.
+Milestone decision authority.—The term 'milestone decision authority' has the meaning given that term in Department of Defense Instruction 5000.2, dated May 12, 2003.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Milestone a.—The term ‘Milestone A’ has the meaning given that term in Department of Defense Instruction 5000.2, dated May 12, 2003.”
+Milestone a.—The term 'Milestone A' has the meaning given that term in Department of Defense Instruction 5000.2, dated May 12, 2003."
 
 <i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

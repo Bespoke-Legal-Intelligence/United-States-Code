@@ -28,7 +28,7 @@
 
 &emsp;(E) ensure that a majority of the Board appointed under paragraph (1)(A) are Indians.
 
-(3) The President shall carry out the activities described in subparagraphs (B) and (C) of paragraph (2) through the Board. The Board maymake recommendations based upon the nominations received, may make recommendations of its own, and may review and make comments to the President or the President's appointed staff on individuals being considered by the President for whom no nominations have been received.
+(3) The President shall carry out the activities described in subparagraphs (B) and (C) of paragraph (2) through the Board. The Board may make recommendations based upon the nominations received, may make recommendations of its own, and may review and make comments to the President or the President's appointed staff on individuals being considered by the President for whom no nominations have been received.
 
 (4) Members of Congress appointed under this section, or their designees, shall be entitled to attend all meetings of the Board and to provide advice to the Board on any matter relating to the Institute.
 
@@ -92,15 +92,15 @@ Members of the Board appointed pursuant to subsection (a)(1)(A) of this section 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(1)(A). Pub. L. 112–166 struck out “by and with the advice and consent of the Senate” after “United States”.
+<b>2012</b>—Subsec. (a)(1)(A). Pub. L. 112–166 struck out "by and with the advice and consent of the Senate" after "United States".
 
-<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–325, §1331(a)(1), substituted “Subject to the provisions of subsection (i)of this section, the voting” for “The voting” and inserted before period at end “, and diverse fields of expertise, including finance, law, fine arts, and higher education administration”.
+<b>1992</b>—Subsec. (a)(1)(A). Pub. L. 102–325, §1331(a)(1), substituted "Subject to the provisions of subsection (i) of this section, the voting" for "The voting" and inserted before period at end ", and diverse fields of expertise, including finance, law, fine arts, and higher education administration".
 
 Subsec. (a)(3), (4). Pub. L. 102–325, §1331(a)(2), (3), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (i). Pub. L. 102–325, §1331(a)(4), added subsec. (i) and struck out former subsec. (i) which read as follows: “(i)
+Subsec. (i). Pub. L. 102–325, §1331(a)(4), added subsec. (i) and struck out former subsec. (i) which read as follows: "(i)
 
-Review by Secretary of the Interior.—For so long as any employee of the Institute is covered under title 5, the Board (acting by majority vote) shall submit final decisions relating to personnel to the Secretary of the Interior. Each such decision shall become final 30 days after the date of its receipt by the Secretary unless the Secretary disapproves of such decision. The Secretary may only disapprove a decision of the Board for just cause.”
+Review by Secretary of the Interior.—For so long as any employee of the Institute is covered under title 5, the Board (acting by majority vote) shall submit final decisions relating to personnel to the Secretary of the Interior. Each such decision shall become final 30 days after the date of its receipt by the Secretary unless the Secretary disapproves of such decision. The Secretary may only disapprove a decision of the Board for just cause."
 
 #### Effective Date of 2012 Amendment
 
@@ -116,7 +116,7 @@ Memorandum of President of the United States, Feb. 22, 1991, 56 F.R. 8099, provi
 
 Memorandum for the Chairman of the Board of Trustees of the Institute of American Indian and Alaska Native Culture and Arts Development
 
-By the authority vested in me as President of the United States by section 301 of Title 3 of the United States Code, I hereby delegate to the Chairman of the Board of Trustees of the Institute of American Indian and Alaska Native Culture and Arts Development the responsibility under section 1505(a)(2)(B) of P.L. 99–498 (20 U.S.C. 4412(a)(2)(B)) to publish in the Federal Register an announcement of the expiration of the terms of the presidentially appointed members of the Board of Trustees of the Institute of American Indian and Alaska Native Culture and Arts Development no less than 4 months prior to their expiration. The authority delegated by this memorandum may be further redelegated within the Institute.
+By the authority vested in me as President of the United States by section 301 of Title 3 of the United States Code, I hereby delegate to the Chairman of the Board of Trustees of the Institute of American Indianand Alaska Native Culture and Arts Development the responsibility under section 1505(a)(2)(B) of P.L. 99–498 (20 U.S.C. 4412(a)(2)(B)) to publish in the Federal Register an announcement of the expiration of the terms of the presidentially appointed members of the Board of Trustees of the Institute of American Indian and Alaska Native Culture and Arts Development no less than 4 months prior to their expiration. The authority delegated by this memorandum may be further redelegated within the Institute.
 
 The delegation of authority to the Secretary of the Interior by memorandum of June 22, 1988, is hereby rescinded.
 

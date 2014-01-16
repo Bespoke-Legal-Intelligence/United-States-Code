@@ -24,11 +24,11 @@ Historical and Revision Notes
 
 July 9, 1952, ch. 608, §410, 66 Stat. 499.
 
-In clause (3) the words “or Naval Reserve” are omitted as surplusage, since the Navy includes the Naval Reserve.
+In clause (3) the words "or Naval Reserve" are omitted as surplusage, since the Navy includes the Naval Reserve.
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–163, §515(b)(3)(E), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §515(b)(3)(E), substituted "Navy Reserve" for "Naval Reserve" in section catchline.
 
-Pub. L. 109–163, §515(b)(1)(U), substituted “Navy Reserve” for “Naval Reserve” in introductory provisions.
+Pub. L. 109–163, §515(b)(1)(U), substituted "Navy Reserve" for "Naval Reserve" in introductory provisions.
 

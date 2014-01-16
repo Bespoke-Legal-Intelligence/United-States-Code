@@ -6,7 +6,7 @@ Officers Not Considered Because of Administrative Error.—(1) In the case of an
 
 (2) A special selection board convened under this subsection shall consider the record of the officer or former officer as that record would have appeared to the promotion board that should have considered the officer or former officer. That record shall be compared with a sampling of the records of those officers of the same grade and competitive category who were recommended for promotion and those officers of the same grade and competitive category who were not recommended for promotion by that board.
 
-(3) If a special selection board convened under paragraph (1) does not recommend for promotionan officer or former officer in a grade below the grade of colonel or, in the case of an officer or former officer of the Navy, captain, whose name was referred to it for consideration, the officer or former officer shall be considered to have failed of selection for promotion.
+(3) If a special selection board convened under paragraph (1) does not recommend for promotion an officer or former officer in a grade below the grade of colonel or, in the case of an officer or former officer of the Navy, captain, whose name was referred to it for consideration, the officer or former officer shall be considered to have failed of selection for promotion.
 
 (b)
 
@@ -24,7 +24,7 @@ Officers Considered But Not Selected; Material Error.—(1) In the case of an of
 
 (c)
 
-Report.—Each special selection board convened under this section shall submit to the Secretary of the military department concerned a written report, signed by each member of the board, containing the name of each officer it recommends for promotion and certifying that the board has considered carefully the record of each officer whose name was referred to it.
+Report.—Each special selection board convened under this section shall submit to the Secretary of the military department concerneda written report, signed by each member of the board, containing the name of each officer it recommends for promotion and certifying that the board has considered carefully the record of each officer whose name was referred to it.
 
 (d)
 
@@ -56,7 +56,7 @@ Limitation of Other Jurisdiction.—No official or court of the United States sh
 
 (h)
 
-Judicial Review.—(1) A court of the United States may review a determination by the Secretary concerned under subsection (a)(1), (b)(1), or (e)(3) not to convene a special selection board. If a court finds the determination to be arbitrary or capricious, not based on substantial evidence, or otherwise contrary to law, it shallremand the case to the Secretary concerned, who shall provide for consideration of the officer or former officer by a special selection board under this section.
+Judicial Review.—(1) A court of the United States may review a determination by the Secretary concerned under subsection (a)(1), (b)(1), or (e)(3) not to convene a special selection board. If a court finds the determination to be arbitrary or capricious, not based on substantial evidence, or otherwise contrary to law, it shall remand the case to the Secretary concerned, who shall provide for consideration of the officer or former officer by a special selection board under this section.
 
 (2) If a court finds that the action of a special selection board which considers an officer or former officer was contrary to law or involved material error of fact or material administrative error, it shall remand the case to the Secretary concerned, who shall provide the officer or former officer reconsideration by a new special selection board.
 
@@ -72,9 +72,9 @@ Provisions similar to those in this section were contained in section 5904 of th
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(1)(A). Pub. L. 109–364 inserted “in a matter material to the decision of the board” after “contrary to law”.
+<b>2006</b>—Subsec. (b)(1)(A). Pub. L. 109–364 inserted "in a matter material to the decision of the board" after "contrary to law".
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107 inserted “or whose name was not placed on an all-fully-qualified-officers list under section 14308(b)(4) of this title because of administrative error,” after “because of administrative error,”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107 inserted "or whose name was not placed on an all-fully-qualified-officers list under section 14308(b)(4) of this title because of administrative error," after "because of administrative error,".
 
 #### Effective Date of 2006 Amendment
 

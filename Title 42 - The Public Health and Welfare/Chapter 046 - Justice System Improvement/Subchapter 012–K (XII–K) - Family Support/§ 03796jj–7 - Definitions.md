@@ -2,9 +2,9 @@
 
 For purposes of this subchapter—
 
-&emsp;(1) the term “family-friendly policy” means a policy to promote or improve the morale and well being of law enforcement personnel and their families; and
+&emsp;(1) the term "family-friendly policy" means a policy to promote or improve the morale and well being of law enforcement personnel and their families; and
 
-&emsp;(2) the term “law enforcement personnel” means individuals employed by Federal, State, and local law enforcement agencies.
+&emsp;(2) the term "law enforcement personnel" means individuals employed by Federal, State, and local law enforcement agencies.
 
 (Pub. L. 90–351, title I, §2308, as added Pub. L. 103–322, title XXI, §210201(a)(3), Sept. 13, 1994, 108 Stat. 2064.)
 

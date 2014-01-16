@@ -20,7 +20,7 @@
 
 &emsp;(4) All other members of the armed forces, including reserve members when not in a duty status, who are designated by regulations of the armed forces or by statute to have those powers.
 
-&emsp;(5) For the performance of notarial acts at locations outside the United States, all employees of a military department or the Coast Guard who are designated by regulations ofthe Secretary concerned or by statute to have those powers for exercise outside the United States.
+&emsp;(5) For the performance of notarial acts at locations outside the United States, all employees of a military department or the Coast Guard who are designated by regulations of the Secretary concerned or by statute to have those powers for exercise outside the United States.
 
 (c) No fee may be paid to or received by any person for the performance of a notarial act authorized in this section.
 
@@ -30,15 +30,15 @@
 
 #### Amendments
 
-<b>2001</b>—Subsec. (b)(2). Pub. L. 107–107, §1103(a), substituted “legal assistance attorneys” for “legal assistance officers”.
+<b>2001</b>—Subsec. (b)(2). Pub. L. 107–107, §1103(a), substituted "legal assistance attorneys" for "legal assistance officers".
 
 Subsec. (b)(5). Pub. L. 107–107, §1103(b), added par. (5).
 
-<b>1996</b>—Subsec. (b)(1). Pub. L. 104–201, §573(1), substituted “, including reserve judge advocates when not in a duty status” for “on active duty or performing inactive-duty training”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–201, §573(1), substituted ", including reserve judge advocates when not in a duty status" for "on active duty or performing inactive-duty training".
 
-Subsec. (b)(3). Pub. L. 104–201, §573(2), substituted “adjutants, including reserve members when not in a duty status” for “adjutants on active duty or performing inactive-duty training”.
+Subsec. (b)(3). Pub. L. 104–201, §573(2), substituted "adjutants, including reserve members when not in a duty status" for "adjutants on active duty or performing inactive-duty training".
 
-Subsec. (b)(4). Pub. L. 104–201, §573(3), substituted “members of the armed forces, including reserve members when not in a duty status,” for “persons on active duty or performing inactive-duty training”.
+Subsec. (b)(4). Pub. L. 104–201, §573(3), substituted "members of the armed forces, including reserve members when not in a duty status," for "persons on active duty or performing inactive-duty training".
 
 #### Transfer of Functions
 

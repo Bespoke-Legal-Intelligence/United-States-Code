@@ -70,7 +70,7 @@ In the case of any territory of the United States except Puerto Rico, the Secret
 
 #### References in Text
 
-Section 300x–30(c) of this title, referred to in subsec. (a)(5), was redesignated section 300x–30(d) of this title by Pub. L. 106–310, div. B, title XXXIII, §3303(c)(1), Oct. 17, 2000, 114 Stat. 1211.
+Section 300x–30(c) of this title, referred to in subsec. (a)(5), was redesignated section 300x–30(d) of this titleby Pub. L. 106–310, div. B, title XXXIII, §3303(c)(1), Oct. 17, 2000, 114 Stat. 1211.
 
 Section 300x–22(c) of this title, referred to in subsec. (e)(2), was redesignated section 300x–22(b) of this title by Pub. L. 106–310, div. B, title XXXIII, §3303(a)(2), Oct. 17, 2000, 114 Stat. 1210.
 
@@ -82,9 +82,9 @@ Another prior section 1932 of act July 1, 1944, was classified to section 300y�
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(1). Pub. L. 106–310, §3303(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “the State involved submits the application not later than the date specified by the Secretary;”.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–310, §3303(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "the State involved submits the application not later than the date specified by the Secretary;".
 
-Subsec. (c). Pub. L. 106–310, §3303(e), substituted “except Puerto Rico” for “whose allotment under section 300x–21 of this title for the fiscal year is the amount specified in section 300x–33(c)(2)(B) of this title”.
+Subsec. (c). Pub. L. 106–310, §3303(e), substituted "except Puerto Rico" for "whose allotment under section 300x–21 of this title for the fiscal year is the amount specified in section 300x–33(c)(2)(B) of this title".
 
 Subsec. (e). Pub. L. 106–310, §3303(f)(1), added subsec. (e).
 

@@ -4,7 +4,7 @@ For purposes of this subchapter:
 
 #### (1) Adult volunteer
 
-&emsp;The term “adult volunteer” means an individual, such as an older adult, an individual with a disability, a parent, or an employee of a business or public or private nonprofit organization, who—
+&emsp;The term "adult volunteer" means an individual, such as an older adult, an individual with a disability, a parent, or an employee of a business or public or private nonprofit organization, who—
 
 &emsp;&emsp;(A) works without financial remuneration in an educational institution to assist students or out-of-school youth; and
 
@@ -12,39 +12,39 @@ For purposes of this subchapter:
 
 #### (2) Alaska Native-serving institution
 
-&emsp;The term “Alaska Native-serving institution” has the meaning given the term in section 1059d(b) of title 20.
+&emsp;The term "Alaska Native-serving institution" has the meaning given the term in section 1059d(b) of title 20.
 
 #### (3) Approved national service position
 
-&emsp;The term “approved national service position” means a national service position for which the Corporation has approved the provision of a national service educational award described in section 12603 of this title as one of the benefits to be provided for successful service in the position.
+&emsp;The term "approved national service position" means a national service position for which the Corporation has approved the provision of a national service educational award described in section 12603 of this title as one of the benefits to be provided for successful service in the position.
 
 #### (4) Approved silver scholar position
 
-&emsp;The term “approved silver scholar position” means a position, in a program described in section 12653c(a) of this title, for which the Corporation has approved the provision of a silver scholarship educational award as one of the benefits to be provided for successful service in the position.
+&emsp;The term "approved silver scholar position" means a position, in a program described in section 12653c(a) of this title, for which the Corporation has approved the provision of a silver scholarship educational award as one of the benefits to be provided for successful service in the position.
 
 #### (5) Approved summer of service position
 
-&emsp;The term “approved summer of service position” means a position, in a program described in section 12563(c)(8) of this title, for which the Corporation has approved the provision of a summer of service educational award as one of the benefits to be provided for successful service in the position.
+&emsp;The term "approved summer of service position" means a position, in a program described in section 12563(c)(8) of this title, for which the Corporation has approved the provision of a summer of service educational award as one of the benefits to be provided for successful service in the position.
 
 #### (6) Asian American and Native American Pacific Islander-serving institution
 
-&emsp;The term “Asian American and Native American Pacific Islander-serving institution” has the meaning given the term in section 1059g(b) of title 20.
+&emsp;The term "Asian American and Native American Pacific Islander-serving institution" has the meaning given the term in section 1059g(b) of title 20.
 
 #### (7) Authorizing committees
 
-&emsp;The term “authorizing committees” means the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
+&emsp;The term "authorizing committees" means the Committee on Education and Labor of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate.
 
 #### (8) Carry out
 
-&emsp;The term “carry out”, when used in connection with a national service program, means the planning, establishment, operation, expansion, or replication of the program.
+&emsp;The term "carry out", when used in connection with a national service program, means the planning, establishment, operation, expansion, or replication of the program.
 
 #### (9) Chief Executive Officer
 
-&emsp;The term “Chief Executive Officer”, except when used to refer to the chief executive officer of a State, means the Chief Executive Officer of the Corporation appointed under section 12651c of this title.
+&emsp;The term "Chief Executive Officer", except when used to refer to the chief executive officer of a State, means the Chief Executive Officer of the Corporation appointed under section 12651c of this title.
 
 #### (10) Community-based agency
 
-&emsp;The term “community-based agency” means a private nonprofit organization (including a church or other religious entity) that—
+&emsp;The term "community-based agency" means a private nonprofit organization (including a church or other religious entity) that—
 
 &emsp;&emsp;(A) is representative of a community or a significant segment of a community; and
 
@@ -52,7 +52,7 @@ For purposes of this subchapter:
 
 #### (11) Community-based entity
 
-&emsp;The term “community-based entity” means a public or private nonprofit organization that—
+&emsp;The term "community-based entity" means a public or private nonprofit organization that—
 
 &emsp;&emsp;(A) has experience with meeting unmet human, educational, environmental, or public safety needs; and
 
@@ -60,11 +60,11 @@ For purposes of this subchapter:
 
 #### (12) Corporation
 
-&emsp;The term “Corporation” means the Corporation for National and Community Service established under section 12651 of this title.
+&emsp;The term "Corporation" means the Corporation for National and Community Service established under section 12651 of this title.
 
 #### (13) Disadvantaged youth
 
-&emsp;The term “disadvantaged youth” includes those youth who are economically disadvantaged and 1 or more of the following:
+&emsp;The term "disadvantaged youth" includes those youth who are economically disadvantaged and 1 or more of the following:
 
 &emsp;&emsp;(A) Who are out-of-school youth, including out-of-school youth who are unemployed.
 
@@ -82,15 +82,15 @@ For purposes of this subchapter:
 
 #### (14) Economically disadvantaged
 
-&emsp;The term “economically disadvantaged” means, with respect to an individual, an individual who is determined by the Chief Executive Officer to be low-income according to the latest available data from the Department of Commerce.
+&emsp;The term "economically disadvantaged" means, with respect to an individual, an individual who is determined by the Chief Executive Officer to be low-income according to the latest available data from the Department of Commerce.
 
 #### (15) Elementary school
 
-&emsp;The term “elementary school” has the same meaning given such term in section 7801 of title 20.
+&emsp;The term "elementary school" has the same meaning given such term in section 7801 of title 20.
 
 #### (16) Encore service program
 
-&emsp;The term “encore service program” means a program, carried out by an eligible entity as described in subsection (a), (b), or (c) of section 12572 of this title, that—
+&emsp;The term "encore service program" means a program, carried out by an eligible entity as described in subsection (a), (b), or (c) of section 12572 of this title, that—
 
 &emsp;&emsp;(A) involves a significant number of participants age 55 or older in the program; and
 
@@ -98,27 +98,27 @@ For purposes of this subchapter:
 
 #### (17) Hispanic-serving institution
 
-&emsp;The term “Hispanic-serving institution” has the meaning given such term in section 1101a(a) of title 20.
+&emsp;The term "Hispanic-serving institution" has the meaning given such term in section 1101a(a) of title 20.
 
 #### (18) Historically black college or university
 
-&emsp;The term “historically black college or university” means a part B institution, as defined in section 1061 of title 20.
+&emsp;The term "historically black college or university" means a part B institution, as defined in section 1061 of title 20.
 
 #### (19) Indian
 
-&emsp;The term “Indian” means a person who is a member of an Indian tribe, or is a “Native”, as defined in section 1602(b) of title 43.
+&emsp;The term "Indian" means a person who is a member of an Indian tribe, or is a "Native", as defined in section 1602(b) of title 43.
 
 #### (20) Indian lands
 
-&emsp;The term “Indian lands” means any real property owned by an Indian tribe, any real property held in trust by the United States for an Indian or Indian tribe, and any real property held by an Indian or Indian tribe that is subject to restrictions on alienation imposed by the United States.
+&emsp;The term "Indian lands" means any real property owned by an Indian tribe, any real property held in trust by the United States for an Indian or Indian tribe, and any real property held by an Indian or Indian tribe that is subject to restrictions on alienation imposed by the United States.
 
 #### (21) Indian tribe
 
-&emsp;The term “Indian tribe” means—
+&emsp;The term "Indian tribe" means—
 
 &emsp;&emsp;(A) an Indian tribe, band, nation, or other organized group or community, including—
 
-&emsp;&emsp;&emsp;(i) any Native village, as defined in section 1602(c) of title 43, whether organized traditionally or pursuant to the Act of June 18, 1934 (commonly known as the “Indian Reorganization Act”; 48 Stat. 984, chapter 576; 25 U.S.C 461 et seq.); and
+&emsp;&emsp;&emsp;(i) any Native village, as defined in section 1602(c) of title 43, whether organized traditionally or pursuant to the Act of June 18, 1934 (commonly known as the "Indian Reorganization Act"; 48 Stat. 984, chapter 576; 25 U.S.C 461 et seq.); and
 
 &emsp;&emsp;&emsp;(ii) any Regional Corporation or Village Corporation, as defined in subsection (g) or (j), respectively, of section 1602 of title 43,
 
@@ -128,35 +128,35 @@ For purposes of this subchapter:
 
 #### (22) Individual with a disability
 
-&emsp;Except as provided in section 12635(a) of this title, the term “individual with a disability” has the meaning given the term in section 705(20)(B) of title 29.
+&emsp;Except as provided in section 12635(a) of this title, the term "individual with a disability" has the meaning given the term in section 705(20)(B) of title 29.
 
 #### (23) Institution of higher education
 
-&emsp;The term “institution of higher education” has the same meaning given such term in sections 1001(a) and 1002(a)(1) of title 20.
+&emsp;The term "institution of higher education" has the same meaning given such term in sections 1001(a) and 1002(a)(1) of title 20.
 
 #### (24) Local educational agency
 
-&emsp;The term “local educational agency” has the same meaning given such term in section 7801 of title 20.
+&emsp;The term "local educational agency" has the same meaning given such term in section 7801 of title 20.
 
 #### (25) Medically underserved population
 
-&emsp;The term “medically underserved population” has the meaning given that term in section 254b(b)(3) of this title.
+&emsp;The term "medically underserved population" has the meaning given that term in section 254b(b)(3) of this title.
 
 #### (26) National service laws
 
-&emsp;The term “national service laws” means this chapter and the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4950 et seq.).
+&emsp;The term "national service laws" means this chapter and the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4950 et seq.).
 
 #### (27) Native American-serving, nontribal institution
 
-&emsp;The term “Native American-serving, nontribal institution” has the meaning given the term in section 1059f(b) of title 20.
+&emsp;The term "Native American-serving, nontribal institution" has the meaning given the term in section 1059f(b) of title 20.
 
 #### (28) Native Hawaiian-serving institution
 
-&emsp;The term “Native Hawaiian-serving institution” has the meaning given the term in section 1059d(b) of title 20.
+&emsp;The term "Native Hawaiian-serving institution" has the meaning given the term in section 1059d(b) of title 20.
 
 #### (29) Out-of-school youth
 
-&emsp;The term “out-of-school youth” means an individual who—
+&emsp;The term "out-of-school youth" means an individual who—
 
 &emsp;&emsp;(A) has not attained the age of 27;
 
@@ -168,7 +168,7 @@ For purposes of this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “participant” means—
+&emsp;&emsp;The term "participant" means—
 
 &emsp;&emsp;&emsp;(i) for purposes of division C of this subchapter, an individual in an approved national service position; and
 
@@ -180,15 +180,15 @@ For purposes of this subchapter:
 
 #### (31) Partnership program
 
-&emsp;The term “partnership program” means a program through which an adult volunteer, a public or private nonprofit organization, an institution of higher education, or a business assists a local educational agency.
+&emsp;The term "partnership program" means a program through which an adult volunteer, a public or private nonprofit organization, an institution of higher education, or a business assists a local educational agency.
 
 #### (32) Predominantly Black Institution
 
-&emsp;The term “Predominantly Black Institution” has the meaning given the term in section 1059e of title 20.
+&emsp;The term "Predominantly Black Institution" has the meaning given the term in section 1059e of title 20.
 
 #### (33) Principles of scientific research
 
-&emsp;The term “principles of scientific research” means principles of research that—
+&emsp;The term "principles of scientific research" means principles of research that—
 
 &emsp;&emsp;(A) apply rigorous, systematic, and objective methodology to obtain reliable and valid knowledge relevant to the subject matter involved;
 
@@ -206,25 +206,25 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(v) presentation of studies and methods in sufficient detail and clarity to allow for replication or, at a minimum, to offer the opportunity to build systematically on the findings of the research;
 
-&emsp;&emsp;&emsp;(vi) acceptance by a peer-reviewed journal or critique by a panel of independent experts through a comparably rigorous, objective, and scientific review; and
+&emsp;&emsp;&emsp;(vi) acceptance by a peer-reviewed journal or critique by a panel of independentexperts through a comparably rigorous, objective, and scientific review; and
 
 &emsp;&emsp;&emsp;(vii) consistency of findings across multiple studies or sites to support the generality of results and conclusions.
 
 #### (34) Program
 
-&emsp;The term “program”, unless the context otherwise requires, and except when used aspart of the term “academic program”, means a program described in section 12523(a) of this title (other than a program referred to in paragraph (3)(B) of such section), 12561a, or 12561(b)(1), or subsection (a), (b), or (c) of section 12572 of this title, or in paragraph (1) or (2) of section 12612(b) of this title, section 12653b of this title, 12653c of this title, 198G,<sup>1</sup> 12653h of this title, or 12653k of this title, or an activity that could be funded under section 12639a, 12653, 12653o, 12653p, or 12657 of this title.
+&emsp;The term "program", unless the context otherwise requires, and except when used as part of the term "academic program", means a program described in section 12523(a) of this title (other than a program referred to in paragraph (3)(B) of such section), 12561a, or 12561(b)(1), or subsection (a), (b), or (c) of section 12572 of this title, or in paragraph (1) or (2) of section 12612(b) of this title, section 12653b of this title, 12653c of this title, 198G,<sup>1</sup> 12653h of this title, or 12653k of this title, or an activity that could be funded under section 12639a, 12653, 12653o, 12653p, or 12657 of this title.
 
 #### (35) Project
 
-&emsp;The term “project” means an activity, carried out through a program that receives assistance under this subchapter, that results in a specific identifiable service or improvement that otherwise would not be done with existing funds, and that does not duplicate the routine services or functions of the employer to whom participants are assigned.
+&emsp;The term "project" means an activity, carried out through a program that receives assistance under this subchapter, that results in a specific identifiable service or improvement that otherwise would not be done with existing funds, and that does not duplicate the routine services or functions of the employer to whom participants are assigned.
 
 #### (36) Qualified organization
 
-&emsp;The term “qualified organization” means a public or private nonprofit organization with experience working with school-age youth that meets such criteria as the Chief Executive Officer may establish.
+&emsp;The term "qualified organization" means a public or private nonprofit organization with experience working with school-age youth that meets such criteria as the Chief Executive Officer may establish.
 
 #### (37) School-age youth
 
-&emsp;The term “school-age youth” means—
+&emsp;The term "school-age youth" means—
 
 &emsp;&emsp;(A) individuals between the ages of 5 and 17, inclusive; and
 
@@ -232,15 +232,15 @@ For purposes of this subchapter:
 
 #### (38) Scientifically valid research
 
-&emsp;The term “scientifically valid research” includes applied research, basic research, and field-initiated research in which the rationale, design, and interpretation are soundly developed in accordance with principles of scientific research.
+&emsp;The term "scientifically valid research" includes applied research, basic research, and field-initiated research in which the rationale, design, and interpretation are soundly developed in accordance with principles of scientific research.
 
 #### (39) Secondary school
 
-&emsp;The term “secondary school” has the same meaning given such term in section 7801 of title 20.
+&emsp;The term "secondary school" has the same meaning given such term in section 7801 of title 20.
 
 #### (40) Service-learning
 
-&emsp;The term “service-learning” means a method—
+&emsp;The term "service-learning" means a method—
 
 &emsp;&emsp;(A) under which students or participants learn and develop through active participation in thoughtfully organized service that—
 
@@ -258,47 +258,47 @@ For purposes of this subchapter:
 
 #### (41) Service-learning coordinator
 
-&emsp;The term “service-learning coordinator” means an individual who provides services as described in subsection (a)(3) or (b) of section 12523 of this title.
+&emsp;The term "service-learning coordinator" means an individual who provides services as described in subsection (a)(3) or (b) of section 12523 of this title.
 
 #### (42) Service sponsor
 
-&emsp;The term “service sponsor” means an organization, or other entity, that has been selected to provide a placement for a participant.
+&emsp;The term "service sponsor" means an organization, or other entity, that has been selected to provide a placement for a participant.
 
 #### (43) State
 
-&emsp;The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (44) State Commission
 
-&emsp;The term “State Commission” means a State Commission on National and Community Service maintained by a State pursuant to section 12638 of this title. Except when used in section 12638 of this title, the term includes an alternative administrative entity for a State approved by the Corporation under such section to act in lieu of a State Commission.
+&emsp;The term "State Commission" means a State Commission on National and Community Service maintained by a State pursuant to section 12638 of this title. Except when used in section 12638 of this title, the term includes an alternative administrative entity for a State approved by the Corporation under such section to act in lieu of a State Commission.
 
 #### (45) State educational agency
 
-&emsp;The term “State educational agency” has the same meaning given such term in section 7801 of title 20.
+&emsp;The term "State educational agency" has the same meaning given such term in section 7801 of title 20.
 
 #### (46) Student
 
-&emsp;The term “student” means an individual who is enrolled in an elementary or secondary school or institution of higher education on a full- or part-time basis.
+&emsp;The term "student" means an individual who is enrolled in an elementary or secondary school or institution of higher education on a full- or part-time basis.
 
 #### (47) Territory
 
-&emsp;The term “territory” means the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "territory" means the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (48) Tribally controlled college or university
 
-&emsp;The term “tribally controlled college or university” has the meaning given such term in section 1801 of title 25.
+&emsp;The term "tribally controlled college or university" has the meaning given such term in section 1801 of title 25.
 
 #### (49) Veteran
 
-&emsp;The term “veteran” has the meaning given the term in section 101 of title 38.
+&emsp;The term "veteran" has the meaning given the term in section 101 of title 38.
 
-(Pub. L. 101–610, title I, §101, Nov. 16, 1990, 104 Stat. 3129; Pub. L. 102–10, §3, Mar. 12, 1991, 105 Stat. 29; Pub. L. 102–384, §3, Oct. 5, 1992, 106 Stat. 1455; Pub. L. 103–82, title I, §111(a), Sept. 21, 1993, 107 Stat. 857; Pub. L. 103–382, title III, §394(h)(1), Oct. 20, 1994, 108 Stat. 4028; Pub. L. 105–220, title IV, §414(g), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–244, title I, §102(a)(13)(K), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 107–110, title X, §1076(ff), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 108–446, title III, §305(m), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 111–13, title I, §1102, Apr. 21, 2009, 123 Stat. 1464.)
+(Pub. L. 101–610, title I, §101, Nov. 16, 1990, 104 Stat. 3129; Pub. L. 102–10, §3, Mar. 12, 1991, 105 Stat. 29; Pub. L. 102–384, §3, Oct. 5, 1992, 106 Stat. 1455; Pub. L. 103–82, title I, §111(a), Sept. 21, 1993, 107 Stat. 857; Pub. L. 103–382, title III, §394(h)(1),Oct. 20, 1994, 108 Stat. 4028; Pub. L. 105–220, title IV, §414(g), Aug. 7, 1998, 112 Stat. 1242; Pub. L. 105–244, title I, §102(a)(13)(K), Oct. 7, 1998, 112 Stat. 1621; Pub. L. 107–110, title X, §1076(ff), Jan. 8, 2002, 115 Stat. 2093; Pub. L. 108–446, title III, §305(m), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 111–13, title I, §1102, Apr. 21, 2009, 123 Stat. 1464.)
 
 #### References in Text
 
-Act of June 18, 1934, referred to in par. (21)(A)(i), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly knownas the Indian Reorganization Act, which is classified generally to subchapter V (§461 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 25 and Tables.
+Act of June 18, 1934, referred to in par. (21)(A)(i), is act June 18, 1934, ch. 576, 48 Stat. 984, popularly known as the Indian Reorganization Act, which is classified generally to subchapter V (§461 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 461 of Title 25 and Tables.
 
-This chapter, referred to in pars. (26) and (30)(A)(ii), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+This chapter, referred to in pars. (26) and (30)(A)(ii), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 The Domestic Volunteer Service Act of 1973, referred to in par. (26), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
@@ -310,63 +310,63 @@ The Individuals with Disabilities Education Act, referred to in par. (37)(B), is
 
 <b>2009</b>—Pub. L. 111–13, §1102(b), redesignated pars. (1) to (49) as (1), (3), (8), (9), (10), (12), (14), (15), (19), (20), (21), (22), (23), (24), (26), (29), (30), (31), (34), (35), (37), (39), (40), (41), (42), (43), (44), (45), (46), (2), (4), (5), (6), (7), (11), (13), (16), (17), (18), (25), (27), (28), (32), (33), (36), (38), (47), (48), and (49), respectively, and rearranged pars. in numerical order.
 
-Par. (3). Pub. L. 111–13, §1102(a)(1), struck out “described in section 12572 of this title” after “service program”.
+Par. (3). Pub. L. 111–13, §1102(a)(1), struck out "described in section 12572 of this title" after "service program".
 
-Par. (13). Pub. L. 111–13, §1102(a)(2), which directed substitution of “sections 1001(a) and 1002(a)(1) of title 20” for “section 1001(a) of title 20”, was executed by making the substitution for “section 1001 of title 20” to reflect the probable intent of Congress.
+Par. (13). Pub. L. 111–13, §1102(a)(2), which directed substitution of "sections 1001(a) and 1002(a)(1) of title 20" for "section 1001(a) of title 20", was executed by making the substitution for "section 1001 of title 20" to reflect the probable intent of Congress.
 
-Par. (17)(B). Pub. L. 111–13, §1102(a)(3), substituted “organization receiving assistance under the national service laws through which the participant is engaging in service” for “program in which the participant is enrolled”.
+Par. (17)(B). Pub. L. 111–13, §1102(a)(3), substituted "organization receiving assistance under the national service laws through which the participant is engaging in service" for "program in which the participant is enrolled".
 
-Par. (19). Pub. L. 111–13, §1102(a)(4), substituted “section 12523(a) of this title” for “section 12521(a) of this title”, struck out “12542(a),” after “(3)(B) of such section),”, substituted “12561a, or 12561(b)(1), or subsection (a), (b), or (c) of section 12572 of this title,” for “12561(b)(1), or 12572(a) of this title,”, inserted “section 12653b of this title, 12653c of this title, 198G, 12653h of this title, or 12653k of this title,” after “section 12612(b) of this title,”, and substituted “12639a, 12653, 12653o, 12653p, or 12657” for “12653, 12653c, or 12653d”.
+Par. (19). Pub. L. 111–13, §1102(a)(4), substituted "section 12523(a) of this title" for "section 12521(a) of this title", struck out "12542(a)," after "(3)(B) of such section),", substituted "12561a, or 12561(b)(1), or subsection (a), (b), or (c) of section 12572 of this title," for "12561(b)(1), or 12572(a) of this title,", inserted "section 12653b of this title, 12653c of this title, 198G, 12653h of this title, or 12653k of this title," after "section 12612(b) of this title,", and substituted "12639a, 12653, 12653o, 12653p, or 12657" for "12653, 12653c, or 12653d".
 
-Par. (21)(B). Pub. L. 111–13, §1102(a)(5), substituted “602(3)” for “602” and “1401(3)” for “1401”.
+Par. (21)(B). Pub. L. 111–13, §1102(a)(5), substituted "602(3)" for "602" and "1401(3)" for "1401".
 
-Par. (24). Pub. L. 111–13, §1102(a)(6), substituted “section 12523 of this title” for “section 12521 of this title”.
+Par. (24). Pub. L. 111–13, §1102(a)(6), substituted "section 12523 of this title" for "section 12521 of this title".
 
-Par. (26). Pub. L. 111–13, §1102(a)(7), struck out “The term also includes Palau, until such time as the Compact of Free Association is ratified.” at end.
+Par. (26). Pub. L. 111–13, §1102(a)(7), struck out "The term also includes Palau, until such time as the Compact of Free Association is ratified." at end.
 
 Pars. (30) to (49). Pub. L. 111–13, §1102(a)(8), added pars. (30) to (49).
 
-<b>2004</b>—Par. (21)(B). Pub. L. 108–446 substituted “section 602” for “section 602(a)(1)” and “1401” for “1401(a)(1)”.
+<b>2004</b>—Par. (21)(B). Pub. L. 108–446 substituted "section 602" for "section 602(a)(1)" and "1401" for "1401(a)(1)".
 
-<b>2002</b>—Pars. (8), (14), (22), (28). Pub. L. 107–110 substituted “section 7801 of title 20” for “section 8801 of title 20”.
+<b>2002</b>—Pars. (8), (14), (22), (28). Pub. L. 107–110 substituted "section 7801 of title 20" for "section 8801 of title 20".
 
-<b>1998</b>—Par. (12). Pub. L. 105–220 substituted “section 705(20)(B) of title 29” for “section 706(8)(B) of title 29”.
+<b>1998</b>—Par. (12). Pub. L. 105–220 substituted "section 705(20)(B) of title 29" for "section 706(8)(B) of title 29".
 
-Par. (13). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+Par. (13). Pub. L. 105–244 substituted "section 1001" for "section 1141(a)".
 
-<b>1994</b>—Par. (8). Pub. L. 103–382, §394(h)(1)(A), substituted “section 8801 of title 20” for “section 2891(8) of title 20”.
+<b>1994</b>—Par. (8). Pub. L. 103–382, §394(h)(1)(A), substituted "section 8801 of title 20" for "section 2891(8) of title 20".
 
-Par. (14). Pub. L. 103–382, §394(h)(1)(B), substituted “section 8801 of title 20” for “section 2891(12) of title 20”.
+Par. (14). Pub. L. 103–382, §394(h)(1)(B), substituted "section 8801 of title 20" for "section 2891(12) of title 20".
 
-Par. (22). Pub. L. 103–382, §394(h)(1)(C), substituted “section 8801 of title 20” for “section 2891(21) of title 20”.
+Par. (22). Pub. L. 103–382, §394(h)(1)(C), substituted "section 8801 of title 20" for "section 2891(21) of title 20".
 
-Par. (28). Pub. L. 103–382, §394(h)(1)(D), substituted “section 8801 of title 20” for “section 2891(23) of title 20”.
+Par. (28). Pub. L. 103–382, §394(h)(1)(D), substituted "section 8801 of title 20" for "section 2891(23) of title 20".
 
 <b>1993</b>—Pub. L. 103–82 amended section generally, substituting provisions consisting of 29 definitions of terms used in this subchapter for former provisions consisting of 30 definitions.
 
-<b>1992</b>—Par. (29). Pub. L. 102–384, §3(1), added par. (29) and struck out former par. (29) which read as follows: “The term ‘summer program’ means a youth corps program authorized under this subchapter that is limited to the months of June, July, and August.”
+<b>1992</b>—Par. (29). Pub. L. 102–384, §3(1), added par. (29) and struck out former par. (29) which read as follows: "The term 'summer program' means a youth corps program authorized under this subchapter that is limited to the months of June, July, and August."
 
-Par. (30). Pub. L. 102–384, §3(2), substituted “living allowances” for “stipends”.
+Par. (30). Pub. L. 102–384, §3(2), substituted "living allowances" for "stipends".
 
 <b>1991</b>—Par. (7). Pub. L. 102–10, §3(1), added par. (7). Former par. (7) redesignated (8).
 
-Par. (8). Pub. L. 102–10, §3(2), (3), redesignated par. (7) as (8) and inserted “an Indian or” before “Indian tribes” in two places. Former par. (8) redesignated (9).
+Par. (8). Pub. L. 102–10, §3(2), (3), redesignated par. (7) as (8) and inserted "an Indian or" before "Indian tribes" in two places. Former par. (8) redesignated (9).
 
 Pars. (9) to (13). Pub. L. 102–10, §3(2), redesignated pars. (8) to (12) as (9) to (13), respectively. Former par. (13) redesignated (14).
 
-Par. (14). Pub. L. 102–10, §3(2), (4), redesignated par. (13) as (14) and inserted at end “Participants shall not be considered employees of the program.” Former par. (14) redesignated (15).
+Par. (14). Pub. L. 102–10, §3(2), (4), redesignated par. (13) as (14) and inserted at end "Participants shall not be considered employees of the program." Former par. (14) redesignated (15).
 
 Pars. (15) to (22). Pub. L. 102–10, §3(2), redesignated pars. (14) to (21) as (15) to (22), respectively. Former par. (22) redesignated (23).
 
-Par. (23). Pub. L. 102–10, §3(5), which directed the substitution of “participants” for “students or out of school youth”, was executed by making the substitution for “students or out-of-school youth” to reflect the probable intent of Congress.
+Par. (23). Pub. L. 102–10, §3(5), which directed the substitution of "participants" for "students or out of school youth", was executed by making the substitution for "students or out-of-school youth" to reflect the probable intent of Congress.
 
 Pub. L. 102–10, §3(2), redesignated par. (22) as (23). Former par. (23) redesignated (24).
 
-Par. (24). Pub. L. 102–10, §3(2), (6), redesignated par. (23) as (24) and in heading and text substituted “participant” for “member”. Former par. (24) redesignated (25).
+Par. (24). Pub. L. 102–10, §3(2), (6), redesignated par. (23) as (24) and in heading and text substituted "participant" for "member". Former par. (24) redesignated (25).
 
 Pars. (25) to (29). Pub. L. 102–10, §3(2), redesignated pars. (24) to (28) as (25) to (29), respectively. Former par. (29) redesignated (30).
 
-Par. (30). Pub. L. 102–10, §3(2), (7), redesignated par. (29) as (30) and inserted “corps” after “youth service”.
+Par. (30). Pub. L. 102–10, §3(2), (7), redesignated par. (29) as (30) and inserted "corps" after "youth service".
 
 #### Change of Name
 
@@ -378,7 +378,7 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub.L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 #### Effective Date of 1998 Amendment
 

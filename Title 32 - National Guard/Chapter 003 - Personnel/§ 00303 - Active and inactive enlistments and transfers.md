@@ -42,11 +42,11 @@ June 3, 1916, ch. 134, §110 (1st 30 words of last par.); restated Sept. 22, 192
 
 In subsection (a), 32:132 (last 23 words) is omitted as covered by section 304 of this title.
 
-In subsection (b), the words “Under such regulations as the Secretary may prescribe” are substituted for the word “likewise”.
+In subsection (b), the words "Under such regulations as the Secretary may prescribe" are substituted for the word "likewise".
 
-In subsection (c), the words “in the inactive \* \* \* National Guard” are substituted for the words “not on the active list”, since there is no active list prescribed for the National Guard.
+In subsection (c), the words "in the inactive \* \* \* National Guard" are substituted for the words "not on the active list", since there is no active list prescribed for the National Guard.
 
-In subsection (d), the words “under any enlistment” are omitted as surplusage.
+In subsection (d), the words "under any enlistment" are omitted as surplusage.
 
 #### Amendments
 

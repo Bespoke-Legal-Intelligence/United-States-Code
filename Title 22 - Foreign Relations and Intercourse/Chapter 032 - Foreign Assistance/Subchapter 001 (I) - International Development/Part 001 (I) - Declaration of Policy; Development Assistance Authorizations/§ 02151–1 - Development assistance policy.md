@@ -56,11 +56,11 @@ Assistance under this part should be used not only for the purpose of transferri
 
 &emsp;(14) Development assistance should, as a fundamental objective, promote private sector activity in open and competitive markets in developing countries, recognizing such activity to be a productive and efficient means of achieving equitable and long term economic growth.
 
-&emsp;(15) United States cooperation in development should recognize as essential the need of developing countries to have access to appropriate technology in order to improve food and water, health and housing, education and employment, and agriculture and industry.
+&emsp;(15) United States cooperation in development should recognize as essential the need ofdeveloping countries to have access to appropriate technology in order to improve food and water, health and housing, education and employment, and agriculture and industry.
 
 &emsp;(16) United States assistance should focus on establishing and upgrading the institutional capacities of developing countries in order to promote long term development. An important component of institution building involves training to expand the human resource potential of people in developing countries.
 
-&emsp;(17) Economic reform and development of effective institutions of democratic governance are mutually reinforcing. The successful transition of a developing country is dependent upon the quality of its economic and governance institutions. Rule of law, mechanisms of accountability and transparency, security of person, property, and investments, are but a few of the critical governance and economicreforms that underpin the sustainability of broad-based economic growth. Programs in support of such reforms strengthen the capacity of people to hold their governments accountable and to create economic opportunity.
+&emsp;(17) Economic reform and development of effective institutions of democratic governance are mutually reinforcing. The successful transition of a developing country is dependent upon the quality of its economic and governance institutions. Rule of law, mechanisms of accountability and transparency, security of person, property, and investments, are but a few of the critical governance and economic reforms that underpin the sustainability of broad-based economic growth. Programs in support of such reforms strengthen the capacity of people to hold their governments accountable and to create economic opportunity.
 
 #### (c) Worldwide cooperative effort to overcome aspects of absolute poverty
 
@@ -70,7 +70,7 @@ The Congress, recognizing the desirability of overcoming the worst aspects of ab
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -90,7 +90,7 @@ Subsec. (b)(7). Pub. L. 96–53, §104(a)(2), inserted applicability to promotio
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–83, title XIII, §1301, Aug. 8, 1985, 99 Stat. 280, provided that: “Except as otherwise provided in this Act, this Act \[see Short Title of 1985 Amendment note set out under section 2151 of this title\] shall take effect on October 1, 1985.”
+Pub. L. 99–83, title XIII, §1301, Aug. 8, 1985, 99 Stat. 280, provided that: "Except as otherwise provided in this Act, this Act \[see Short Title of 1985 Amendment note set out under section 2151 of this title\] shall take effect on October 1, 1985."
 
 #### Effective Date of 1979 Amendment
 

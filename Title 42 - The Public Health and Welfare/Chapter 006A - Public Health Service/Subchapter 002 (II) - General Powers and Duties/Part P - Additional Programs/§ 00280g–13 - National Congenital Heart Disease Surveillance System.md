@@ -4,7 +4,7 @@
 
 The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may—
 
-&emsp;(1) enhance and expand infrastructure to track the epidemiology of congenital heart disease and to organize such information into a nationally-representative, population-based surveillance system that compiles data concerning actual occurrences of congenital heart disease, to be known as the “National Congenital Heart Disease Surveillance System”; or
+&emsp;(1) enhance and expand infrastructure to track the epidemiology of congenital heart disease and to organize such information into a nationally-representative, population-based surveillance system that compiles data concerning actual occurrences of congenital heart disease, to be known as the "National Congenital Heart Disease Surveillance System"; or
 
 &emsp;(2) award a grant to one eligible entity to undertake the activities described in paragraph (1).
 
@@ -38,7 +38,7 @@ The Congenital Heart Disease Surveillance System shall be made available to the 
 
 #### (e) Patient privacy
 
-The Secretary shall ensure that the Congenital Heart Disease Surveillance System is maintained in a manner that complies with the regulations promulgated under section 264 of the Health Insurance Portability and Accountability Act of 1996.
+The Secretary shall ensure that the Congenital Heart Disease Surveillance System is maintained in a manner that complies with the regulations promulgated under section 264 of theHealth Insurance Portability and Accountability Act of 1996.
 
 #### (f) Eligibility for grant
 

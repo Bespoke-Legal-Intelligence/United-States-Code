@@ -8,7 +8,7 @@ It is unlawful for any person—
 
 &emsp;(2) to import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce—
 
-&emsp;&emsp;(A) any fish or wildlife taken, possessed, transported, or sold in violation of any lawor regulation of any State or in violation of any foreign law;
+&emsp;&emsp;(A) any fish or wildlife taken, possessed, transported, or sold in violation of any law or regulation of any State or in violation of any foreign law;
 
 &emsp;&emsp;(B) any plant—
 
@@ -108,7 +108,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 &emsp;&emsp;&emsp;(iv) does not allow direct contact between the public and animals; or
 
-&emsp;&emsp;(D) has custody of the animal solely for the purpose of expeditiously transportingthe animal to a person described in this paragraph with respect to the species.
+&emsp;&emsp;(D) has custody of the animal solely for the purpose of expeditiously transporting the animal to a person described in this paragraph with respect to the species.
 
 #### (3) Regulations
 
@@ -150,7 +150,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 #### (3) Exclusions
 
-&emsp;Paragraphs (1) and (2) shall not apply to plants used exclusively as packaging material to support, protect, or carry another item, unless the packaging material itself is the item being imported.
+&emsp;Paragraphs (1) and (2) shall not apply to plants used exclusively as packaging materialto support, protect, or carry another item, unless the packaging material itself is the item being imported.
 
 #### (4) Review
 
@@ -188,7 +188,7 @@ It is unlawful for any person to make or submit any false record, account, or la
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (f)(1), (4), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
@@ -198,21 +198,21 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2)(B). Pub. L. 110–246, §8204(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: “any plant taken, possessed, transported, or sold in violation of any law or regulation of any State; or”.
+<b>2008</b>—Subsec. (a)(2)(B). Pub. L. 110–246, §8204(b)(1)(A), added subpar. (B) and struck out former subpar. (B) which read as follows: "any plant taken, possessed, transported, or sold in violation of any law or regulation of any State; or".
 
-Subsec. (a)(3)(B). Pub. L. 110–246, §8204(b)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: “to possess any plant taken, possessed, transported, or sold in violation of any law or regulation of any State; or”.
+Subsec. (a)(3)(B). Pub. L. 110–246, §8204(b)(1)(B), added subpar. (B) and struck out former subpar. (B) which read as follows: "to possess any plant taken, possessed, transported, or sold in violation of any law or regulation of any State; or".
 
 Subsec. (f). Pub. L. 110–246, §8204(b)(2), added subsec. (f).
 
 <b>2003</b>—Subsec. (a)(2)(C). Pub. L. 108–191, §3(a)(1)(A), added subpar. (C).
 
-Subsec. (a)(3)(B). Pub. L. 108–191, §3(a)(1)(B), inserted “or” after semicolon at end.
+Subsec. (a)(3)(B). Pub. L. 108–191, §3(a)(1)(B), inserted "or" after semicolon at end.
 
-Subsec. (a)(4). Pub. L. 108–191, §3(a)(1)(C), substituted “paragraphs (1) through (3)” for “paragraphs (1) through (4)”.
+Subsec. (a)(4). Pub. L. 108–191, §3(a)(1)(C), substituted "paragraphs (1) through (3)" for "paragraphs (1) through (4)".
 
 Subsec. (e). Pub. L. 108–191, §3(a)(2), added subsec. (e).
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–653, §101(1), substituted “taken, possessed, transported, or sold” for “taken or possessed”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–653, §101(1), substituted "taken, possessed, transported, or sold" for "taken or possessed".
 
 Subsec. (a)(4), (5). Pub. L. 100–653, §101(2), redesignated par. (5) as (4) and struck out former par. (4), which made it unlawful for any person having imported, exported, transported, sold, purchased, or received any fish or wildlife or plant imported from any foreign country or transported in interstate or foreign commerce, to make or submit any false record, account, label, or identification thereof.
 
@@ -224,5 +224,5 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–191, §3(b), Dec. 19, 2003, 117 Stat. 2872, provided that: “Section 3(a)(2)(C) of the Lacey Act Amendments of 1981 \[16 U.S.C. 3372(a)(2)(C)\] (as added by subsection (a)(1)(A)(iii)) shall apply beginning on the effective date of regulations promulgated under section 3(e)(3) of that Act \[16 U.S.C. 3372(e)(3)\] (as added by subsection (a)(2)) \[Sept. 17, 2007, see 72 F.R. 45938\].”
+Pub. L. 108–191, §3(b), Dec. 19, 2003, 117 Stat. 2872, provided that: "Section 3(a)(2)(C) of the Lacey Act Amendments of 1981 \[16 U.S.C. 3372(a)(2)(C)\] (as added by subsection (a)(1)(A)(iii)) shall apply beginning on the effective date of regulations promulgated under section 3(e)(3) of that Act \[16 U.S.C. 3372(e)(3)\] (as added by subsection (a)(2)) \[Sept. 17, 2007, see 72 F.R. 45938\]."
 

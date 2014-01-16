@@ -82,11 +82,11 @@ The Director may—
 
 #### Amendments
 
-Pub. L. 111–203 substituted “by the Bureau” for “under HUD backup licensing system” in section catchline and “Director” for “Secretary” wherever appearing in text.
+Pub. L. 111–203 substituted "by the Bureau" for "under HUD backup licensing system" in section catchline and "Director" for "Secretary" wherever appearing in text.
 
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Director's”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Director's".</i>
 

@@ -14,7 +14,7 @@ No information acquired pursuant to this subchapter shall be disclosed for law e
 
 #### (d) Notification by United States
 
-Whenever the United States intends to enter into evidence or otherwise use or disclose in any trial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of the United States, against an aggrieved person, any information obtained or derived from a physical search pursuant to the authority of this subchapter, the United States shall, prior to the trial, hearing, or the other proceeding or at a reasonable time prior to an effort to so disclose or so use that information or submit it in evidence, notify the aggrieved person and the court or other authority in which the information is to be disclosed or used that the United States intends to so disclose or so use such information.
+Whenever the United States intends to enter into evidence or otherwise use or disclose in any trial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of the UnitedStates, against an aggrieved person, any information obtained or derived from a physical search pursuant to the authority of this subchapter, the United States shall, prior to the trial, hearing, or the other proceeding or at a reasonable time prior to an effort to so disclose or so use that information or submit it in evidence, notify the aggrieved person and the court or other authority in which the information is to be disclosed or used that the United States intends to so disclose or so use such information.
 
 #### (e) Notification by States or political subdivisions
 
@@ -52,7 +52,7 @@ Orders granting motions or requests under subsection (h) of this section, decisi
 
 &emsp;(C) the fact that during the period information was or was not obtained.
 
-(2) On an ex parte showing of good cause to the judge, the serving of the notice required by this subsection may be postponed or suspended for a period not to exceed 90 days. Thereafter, on a further ex parte showing of good cause, the court shall forego ordering the serving of the notice required under this subsection.
+(2) On an ex parte showing of good cause to the judge, the serving of the notice required by this subsection may be postponed or suspended for aperiod not to exceed 90 days. Thereafter, on a further ex parte showing of good cause, the court shall forego ordering the serving of the notice required under this subsection.
 
 #### (k) Coordination with law enforcement on national security matters
 
@@ -70,17 +70,17 @@ Orders granting motions or requests under subsection (h) of this section, decisi
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 1824(d) of this title, referred to in subsec. (j)(1), was redesignated section 1824(e) of this title by Pub. L. 106–567, title VI, §603(b)(1), Dec. 27, 2000, 114 Stat. 2853.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (k)(1)(B). Pub. L. 110–261, §110(b)(2), substituted “sabotage, international terrorism, or the international proliferation of weapons of mass destruction” for “sabotage or international terrorism”.
+<b>2008</b>—Subsec. (k)(1)(B). Pub. L. 110–261, §110(b)(2), substituted "sabotage, international terrorism, or the international proliferation of weapons of mass destruction" for "sabotage or international terrorism".
 
-Subsec. (k)(2). Pub. L. 110–261, §107(c)(2), substituted “1823(a)(6)” for “1823(a)(7)”.
+Subsec. (k)(2). Pub. L. 110–261, §107(c)(2), substituted "1823(a)(6)" for "1823(a)(7)".
 
-<b>2002</b>—Subsec. (k)(1). Pub. L. 107–296, in introductory provision, inserted “or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision)” after “law enforcement officers”.
+<b>2002</b>—Subsec. (k)(1). Pub. L. 107–296, in introductory provision, inserted "or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision)" after "law enforcement officers".
 
 <b>2001</b>—Subsec. (k). Pub. L. 107–56 added subsec. (k).
 

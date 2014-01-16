@@ -10,7 +10,7 @@ A person is guilty of an offense if he intentionally—
 
 #### (b) Defense
 
-It is a defense to a prosecution under subsection (a) of this section that the defendant was a law enforcement or investigative officer engaged in the course of his official duties and the physical search was authorized by and conducted pursuant to a search warrant or court order of a court of competent jurisdiction.
+It is a defense to a prosecution under subsection (a) of this section that the defendant was a law enforcement or investigative officer engaged in the course of his official duties andthe physical search was authorized by and conducted pursuant to a search warrant or court order of a court of competent jurisdiction.
 
 #### (c) Fine or imprisonment
 
@@ -18,7 +18,7 @@ An offense described in this section is punishable by a fine of not more than $1
 
 #### (d) Federal jurisdiction
 
-There is Federal jurisdiction over an offense under this section if the person committing theoffense was an officer or employee of the United States at the time the offense was committed.
+There is Federal jurisdiction over an offense under this section if the person committing the offense was an officer or employee of the United States at the time the offense was committed.
 
 (Pub. L. 95–511, title III, §307, as added Pub. L. 103–359, title VIII, §807(a)(3), Oct. 14, 1994, 108 Stat. 3452.)
 

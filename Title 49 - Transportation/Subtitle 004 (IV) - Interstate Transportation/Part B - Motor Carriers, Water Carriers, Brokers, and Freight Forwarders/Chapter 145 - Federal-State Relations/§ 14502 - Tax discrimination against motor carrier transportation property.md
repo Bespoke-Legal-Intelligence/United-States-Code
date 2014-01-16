@@ -6,19 +6,19 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Assessment.—The term “assessment” means valuation for a property tax levied by a taxing district.
+Assessment.—The term "assessment" means valuation for a property tax levied by a taxing district.
 
 &emsp;(2)
 
-Assessment jurisdiction.—The term “assessment jurisdiction” means a geographical area in a State used in determining the assessed value of property for ad valorem taxation.
+Assessment jurisdiction.—The term "assessment jurisdiction" means a geographical area in a State used in determining the assessed value of property for ad valorem taxation.
 
 &emsp;(3)
 
-Motor carrier transportation property.—The term “motor carrier transportation property” means property, as defined by the Secretary, owned or used by a motor carrier providing transportation in interstate commerce whether or not such transportation is subject to jurisdiction under subchapter I of chapter 135.
+Motor carrier transportation property.—The term "motor carrier transportation property" means property, as defined by the Secretary, owned or used by a motor carrier providing transportation in interstate commerce whether or not such transportation is subject to jurisdiction under subchapter I of chapter 135.
 
 &emsp;(4)
 
-Commercial and industrial property.—The term “commercial and industrial property” means property, other than transportation property and land used primarily for agricultural purposes or timber growing, devoted to a commercial or industrial use, and subject to a property tax levy.
+Commercial and industrial property.—The term "commercial and industrial property" means property, other than transportation property and land used primarily for agricultural purposes or timber growing, devoted to a commercial or industrial use, and subject to a property tax levy.
 
 (b)
 

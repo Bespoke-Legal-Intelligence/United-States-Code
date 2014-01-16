@@ -6,15 +6,15 @@
 
 (c) As used in this section—
 
-&emsp;(1) The term “scheme in commerce” means any scheme effectuated in whole or in part through the use in interstate or foreign commerce of any facility for transportation or communication;
+&emsp;(1) The term "scheme in commerce" means any scheme effectuated in whole or in part through the use in interstate or foreign commerce of any facility for transportation or communication;
 
-&emsp;(2) The term “sporting contest” means any contest in any sport, between individual contestants or teams of contestants (without regard to the amateur or professional status of the contestants therein), the occurrence of which is publicly announced before its occurrence;
+&emsp;(2) The term "sporting contest" means any contest in any sport, between individual contestants or teams of contestants (without regard to the amateur or professional status of the contestants therein), the occurrence of which is publicly announced before its occurrence;
 
-&emsp;(3) The term “person” means any individual and any partnership, corporation, association, or other entity.
+&emsp;(3) The term "person" means any individual and any partnership, corporation, association, or other entity.
 
 (Added Pub. L. 88–316, §1(a), June 6, 1964, 78 Stat. 203; amended Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
 

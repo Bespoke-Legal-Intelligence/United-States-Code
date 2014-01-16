@@ -40,7 +40,7 @@ The period of limitations for assessment of any such liability of a transferee o
 
 #### (2) Transferee of transferee
 
-&emsp;In the case of the liability of a transferee of a transferee, within 1 year after the expiration of the period of limitation for assessment against the preceding transferee, but not more than 3 years after the expiration of the period of limitation for assessment against the initial transferor;
+&emsp;In the case of the liability of a transferee of a transferee, within 1 year after the expiration of the period of limitation for assessmentagainst the preceding transferee, but not more than 3 years after the expiration of the period of limitation for assessment against the initial transferor;
 
 > except that if, before the expiration of the period of limitation for the assessment of the liability of the transferee, a court proceeding for the collection of the tax or liability in respect thereof has been begun against the initial transferor or the last preceding transferee, respectively, then the period of limitation for assessment of the liability of the transferee shall expire 1 year after the return of execution in the court proceeding.
 
@@ -52,7 +52,7 @@ The period of limitations for assessment of any such liability of a transferee o
 
 #### (1) Extension of time for assessment
 
-&emsp;If before the expiration of the time prescribed in subsection (c) for the assessment of the liability, the Secretary and the transferee or fiduciary have both consented in writing to its assessment after such time, the liability may be assessed at any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon. For the purpose of determining the period of limitation on credit or refund to the transferee or fiduciary of overpayments of tax made by such transferee or fiduciary or overpayments of tax made by the transferor of which the transfereeor fiduciary is legally entitled to credit or refund, such agreement and any extension thereof shall be deemed an agreement and extension thereof referred to in section 6511(c).
+&emsp;If before the expiration of the time prescribed in subsection (c) for the assessment of the liability, the Secretary and the transferee or fiduciary have both consented in writing to its assessment after such time, the liability may be assessed at any time prior to the expiration of the period agreed upon. The period so agreed upon may be extended by subsequent agreements in writing made before the expiration of the period previously agreed upon. For the purpose of determining the period of limitation on credit or refund to the transferee or fiduciary of overpayments of tax made by such transferee or fiduciary or overpayments of tax made by the transferor of which the transferee or fiduciary is legally entitled to credit or refund, such agreement and any extension thereof shall be deemed an agreement and extension thereof referred to in section 6511(c).
 
 #### (2) Extension of time for credit or refund
 
@@ -72,7 +72,7 @@ In the absence of notice to the Secretary under section 6903 of the existence of
 
 #### (h) Definition of transferee
 
-As used in this section, the term “transferee” includes donee, heir, legatee, devisee, and distributee, and with respect to estate taxes, also includes any person who, under section 6324(a)(2), is personally liable for any part of such tax.
+As used in this section, the term "transferee" includes donee, heir, legatee, devisee, and distributee, and with respect to estate taxes, also includes any person who, under section 6324(a)(2), is personally liable for any part of such tax.
 
 #### (i) Extension of time
 
@@ -82,9 +82,9 @@ As used in this section, the term “transferee” includes donee, heir, legatee
 
 #### Amendments
 
-<b>1982</b>—Subsec. (a)(1)(B). Pub. L. 97–258 substituted “section 3713(b) of title 31, United States Code” for “section 3467 of the Revised Statutes (31 U.S.C. 192)”.
+<b>1982</b>—Subsec. (a)(1)(B). Pub. L. 97–258 substituted "section 3713(b) of title 31, United States Code" for "section 3467 of the Revised Statutes (31 U.S.C. 192)".
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

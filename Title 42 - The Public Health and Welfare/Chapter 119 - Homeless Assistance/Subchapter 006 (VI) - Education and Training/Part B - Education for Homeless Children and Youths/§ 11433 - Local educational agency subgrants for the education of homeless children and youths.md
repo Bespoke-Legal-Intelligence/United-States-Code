@@ -56,7 +56,7 @@ A local educational agency that desires to receive a subgrant under this section
 
 #### (2) Need
 
-&emsp;In determining need under paragraph (1), the State educational agency may consider the number of homeless children and youths enrolled in preschool, elementary, and secondary schools within the area served by the local educational agency, and shall consider the needs of such children and youths and the ability of the local educational agency to meetsuch needs. The State educational agency may also consider the following:
+&emsp;In determining need under paragraph (1), the State educational agency may consider the number of homeless children and youths enrolled in preschool, elementary, and secondary schools within the area served by the local educational agency, and shall consider the needs of such children and youths and the ability of the local educational agency to meet such needs. The State educational agency may also consider the following:
 
 &emsp;&emsp;(A) The extent to which the proposed use of funds will facilitate the enrollment, retention, and educational success of homeless children and youths.
 
@@ -136,7 +136,7 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(2
 
 #### Prior Provisions
 
-A prior section 11433, Pub. L. 100–77, title VII, §723, as added Pub. L. 103–382, title III, §323, Oct. 20, 1994, 108 Stat. 3962, related to local educational agency grants for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 107–110.
+A prior section 11433, Pub. L. 100–77, title VII, §723, as added Pub. L. 103–382, title III, §323, Oct. 20, 1994, 108 Stat. 3962, related to local educational agency grantsfor education of homeless children and youth, prior to the general amendment of this part by Pub. L. 107–110.
 
 Another prior section 11433, Pub. L. 100–77, title VII, §723, July 22, 1987, 101 Stat. 527; Pub. L. 100–628, title VII, §702(b), Nov. 7, 1988, 102 Stat. 3245; Pub. L. 101–645, title VI, §612(c), Nov. 29, 1990, 104 Stat. 4739, related to local educational agency grants for education of homeless children and youth, prior to the general amendment of this part by Pub. L. 103–382.
 

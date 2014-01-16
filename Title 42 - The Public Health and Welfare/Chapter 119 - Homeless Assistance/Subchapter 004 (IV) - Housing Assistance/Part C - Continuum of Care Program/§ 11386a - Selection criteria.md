@@ -10,7 +10,7 @@ The Secretary shall award funds to recipients through a national competition bet
 
 &emsp;The criteria established under subsection (a) shall include—
 
-&emsp;&emsp;(A) the previous performance of the recipient regarding homelessness, including performance related to funds provided under section 11372 of this title (except that recipients applying from geographic areas where no funds have been awarded under this part, or under parts C, D, E, or F of subchapter IV of this chapter, as in effect prior to May 20, 2009, shall receive full credit for performance under this subparagraph), measured by criteria that shall be announced by the Secretary, that shall take into account barriers faced by individual homeless people, and that shall include—
+&emsp;&emsp;(A) the previous performance of the recipient regarding homelessness, including performance related to funds provided under section 11372 of this title (except that recipients applying from geographic areas where no funds have been awarded under this part, or under parts C, D, E, or F of subchapter IV of this chapter, as in effect prior to May 20, 2009, shall receive full credit for performance under this subparagraph), measured by criteria that shall be announced by the Secretary, that shall take into account barriersfaced by individual homeless people, and that shall include—
 
 &emsp;&emsp;&emsp;(i) the length of time individuals and families remain homeless;
 
@@ -80,7 +80,7 @@ The Secretary shall award funds to recipients through a national competition bet
 
 #### (A) Notice
 
-&emsp;&emsp;The Secretary shall inform each collaborative applicant, at a time concurrent with the release of the notice of funding availability for the grants, of the pro rata estimated grant amount under this part for the geographic area represented by the collaborative applicant.
+&emsp;&emsp;The Secretary shall inform each collaborative applicant, at a time concurrent withthe release of the notice of funding availability for the grants, of the pro rata estimated grant amount under this part for the geographic area represented by the collaborative applicant.
 
 #### (B) Amount
 
@@ -112,7 +112,7 @@ The Secretary may adjust the formula described in subsection (b)(2) as necessary
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(2), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+This chapter, referred to in subsec. (c)(2), was in the original "this Act", meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Prior Provisions
 

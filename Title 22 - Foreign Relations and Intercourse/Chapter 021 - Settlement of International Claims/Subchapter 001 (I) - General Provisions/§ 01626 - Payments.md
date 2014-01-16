@@ -44,17 +44,17 @@ References to this subchapter deemed to include section 119 of H.R. 2076, see se
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c)(1), (2). Pub. L. 104–316, §202(h)(1), substituted “Secretary of the Treasury” for “Comptroller General” in par. (1) and “Secretary of the Treasury” for “Comptroller General of the United States” in par. (2).
+<b>1996</b>—Subsec. (c)(1), (2). Pub. L. 104–316, §202(h)(1), substituted "Secretary of the Treasury" for "Comptroller General" in par. (1) and "Secretary of the Treasury" for "Comptroller General of the United States" in par. (2).
 
-Subsec. (d). Pub. L. 104–316, §202(h)(2), struck out “, or the Comptroller General of the United States, as the case may be,” after “Secretary of the Treasury”.
+Subsec. (d). Pub. L. 104–316, §202(h)(2), struck out ", or the Comptroller General of the United States, as the case may be," after "Secretary of the Treasury".
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–421, §1(2), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (c)(1). Pub. L. 90–421, §1(3), substituted “any person to whom any payment is to be made pursuant to this subchapter” for “such person” and “, except that if any payment to be made is not over $1000” for “: <i>Provided</i>, That if the total award is not over $500”, and struck out “of the United States” after “Comptroller General”.
+Subsec. (c)(1). Pub. L. 90–421, §1(3), substituted "any person to whom any payment is to be made pursuant to this subchapter" for "such person" and ", except that if any payment to be made is not over $1000" for ": <i>Provided</i>, That if the total award is not over $500", and struck out "of the United States" after "Comptroller General".
 
-<b>1955</b>—Act Aug. 9, 1955, §1, amended credit to section by designating act Mar. 10, 1950, as “title I”.
+<b>1955</b>—Act Aug. 9, 1955, §1, amended credit to section by designating act Mar. 10, 1950, as "title I".
 
-Act Aug. 9, 1955, §2, substituted “subchapter” for “chapter”.
+Act Aug. 9, 1955, §2, substituted "subchapter" for "chapter".
 
 <b>1953</b>—Subsec. (b). Act Aug. 8, 1953, increased the amount deductible to cover expenses from 3 to 5 percent.
 

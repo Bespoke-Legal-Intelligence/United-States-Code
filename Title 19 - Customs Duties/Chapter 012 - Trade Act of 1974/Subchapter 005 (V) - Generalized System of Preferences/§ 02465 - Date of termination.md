@@ -10,163 +10,163 @@ A prior section 2465, Pub. L. 93–618, title V, §505, Jan. 3, 1975, 88 Stat. 2
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–40 substituted “July 31, 2013” for “December 31, 2010”.
+<b>2011</b>—Pub. L. 112–40 substituted "July 31, 2013" for "December 31, 2010".
 
-<b>2009</b>—Pub. L. 111–124 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2009</b>—Pub. L. 111–124 substituted "December 31, 2010" for "December 31, 2009".
 
-<b>2008</b>—Pub. L. 110–436 substituted “December 31, 2009” for “December 31, 2008”.
+<b>2008</b>—Pub. L. 110–436 substituted "December 31, 2009" for "December 31, 2008".
 
-<b>2006</b>—Pub. L. 109–432 substituted “December 31, 2008” for “December 31, 2006”.
+<b>2006</b>—Pub. L. 109–432 substituted "December 31, 2008" for "December 31, 2006".
 
-<b>2002</b>—Pub. L. 107–210 substituted “December 31, 2006” for “September 30, 2001”.
+<b>2002</b>—Pub. L. 107–210 substituted "December 31, 2006" for "September 30, 2001".
 
-<b>1999</b>—Pub. L. 106–170 substituted “September 30, 2001” for “June 30, 1999”.
+<b>1999</b>—Pub. L. 106–170 substituted "September 30, 2001" for "June 30, 1999".
 
-<b>1998</b>—Pub. L. 105–277 substituted “June 30, 1999” for “June 30, 1998”.
+<b>1998</b>—Pub. L. 105–277 substituted "June 30, 1999" for "June 30, 1998".
 
-<b>1997</b>—Pub. L. 105–34 substituted “June 30, 1998” for “May 31, 1997”.
+<b>1997</b>—Pub. L. 105–34 substituted "June 30, 1998" for "May 31, 1997".
 
 #### Effective Date of 2011 Amendment
 
 Pub. L. 112–40, §1(b), Oct. 21, 2011, 125 Stat. 401, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendment made by subsection (a) \[amending this section\] shall apply to articles entered on or after the 15th day after the date of the enactment of this Act \[Oct. 21, 2011\].
 
-“(2)
+"(2)
 
 Retroactive application for certain liquidations and reliquidations.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Notwithstanding section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law and subject to subparagraph (B), any entry of an article to which duty-free treatment or other preferential treatment under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] would have applied if the entry had been made on December 31, 2010, that was made—
 
-&emsp;&emsp;“(i) after December 31, 2010; and
+&emsp;&emsp;"(i) after December 31, 2010; and
 
-&emsp;&emsp;“(ii) before the 15th day after the date of the enactment of this Act,
+&emsp;&emsp;"(ii) before the 15th day after the date of the enactment of this Act,
 
 > &emsp;shall be liquidated or reliquidated as though such entry occurred on the 15th day after the date of the enactment of this Act.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Requests.—A liquidation or reliquidation may be made under subparagraph (A) with respect to an entry only if a request therefor is filed with U.S. Customs and Border Protection not later than 180 days after the date of the enactment of this Act \[Oct. 21, 2011\] that contains sufficient information to enable U.S. Customs and Border Protection—
 
-&emsp;&emsp;“(i) to locate the entry; or
+&emsp;&emsp;"(i) to locate the entry; or
 
-&emsp;&emsp;“(ii) to reconstruct the entry if it cannot be located.
+&emsp;&emsp;"(ii) to reconstruct the entry if it cannot be located.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Payment of amounts owed.—Any amounts owed by the United States pursuant to the liquidation or reliquidation of an entry of an article under subparagraph (A) shall be paid, without interest, not later than 90 days after the date of the liquidation or reliquidation (as the case may be).
 
-“(3)
+"(3)
 
-Definition.—As used in this subsection, the terms ‘enter’ and ‘entry’ include a withdrawal from warehouse for consumption.”
+Definition.—As used in this subsection, the terms 'enter' and 'entry' include a withdrawal from warehouse for consumption."
 
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–170, title V, §508(b), Dec. 17, 1999, 113 Stat. 1923, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendment made by this section \[amending this section\] applies to articles entered on or after the date of the enactment of this Act \[Dec. 17, 1999\].
 
-“(2)
+"(2)
 
 Retroactive application for certain liquidations and reliquidations.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 General rule.—Notwithstanding section 514 of the Tariff Act of 1930 \[19 U.S.C. 1514\] or any other provision of law, and subject to paragraph (3), any entry—
 
-&emsp;&emsp;“(i) of an article to which duty-free treatment under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] would have applied if such entry had been made on July 1, 1999, and such title had been in effect on July 1, 1999; and
+&emsp;&emsp;"(i) of an article to which duty-free treatment under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] would have applied if such entry had been made on July 1, 1999, and such title had been in effect on July 1, 1999; and
 
-&emsp;&emsp;“(ii) that was made—
+&emsp;&emsp;"(ii) that was made—
 
-&emsp;&emsp;&emsp;“(I) after June 30, 1999; and
+&emsp;&emsp;&emsp;"(I) after June 30, 1999; and
 
-&emsp;&emsp;&emsp;“(II) before the date of the enactment of this Act \[Dec. 17, 1999\],
+&emsp;&emsp;&emsp;"(II) before the date of the enactment of this Act \[Dec. 17, 1999\],
 
 > &emsp;shall be liquidated or reliquidated as free of duty, and the Secretary of the Treasury shall refund any duty paid with respect to such entry.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Entry.—As used in this paragraph, the term ‘entry’ includes a withdrawal from warehouse for consumption.
+Entry.—As used in this paragraph, the term 'entry' includes a withdrawal from warehouse for consumption.
 
-“(3)
+"(3)
 
 Requests.—Liquidation or reliquidation may be made under paragraph (2) with respect to an entry only if a request therefore is filed with the Customs Service, within 180 days after the date of the enactment of this Act \[Dec. 17, 1999\], that contains sufficient information to enable the Customs Service—
 
-&emsp;“(A) to locate the entry; or
+&emsp;"(A) to locate the entry; or
 
-&emsp;“(B) to reconstruct the entry if it cannot be located.”
+&emsp;"(B) to reconstruct the entry if it cannot be located."
 
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–277, div. J, title I, §1011(b), Oct. 21, 1998, 112 Stat. 2681–900, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section\] apply to articles entered on or after the date of the enactment of this Act \[Oct. 21, 1998\].
 
-“(2)
+"(2)
 
 Retroactive application for certain liquidations and reliquidations.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 General rule.—Notwithstanding section 514 of the Tariff Act of 1930 \[19 U.S.C. 1514\] or any other provision of law, and subject to paragraph (3), any entry—
 
-&emsp;&emsp;“(i) of an article to which duty-free treatment under title V of the Trade Act of 1974 \[19 U.S.C. 2461et seq.\] would have applied if such entry had been made on July 1, 1998, and such title had been in effect on July 1, 1998, and
+&emsp;&emsp;"(i) of an article to which duty-free treatment under title V of the Trade Act of 1974 \[19 U.S.C. 2461et seq.\] would have applied if such entry had been made on July 1, 1998, and such title had been in effect on July 1, 1998, and
 
-&emsp;&emsp;“(ii) that was made—
+&emsp;&emsp;"(ii) that was made—
 
-&emsp;&emsp;&emsp;“(I) after June 30, 1998, and
+&emsp;&emsp;&emsp;"(I) after June 30, 1998, and
 
-&emsp;&emsp;&emsp;“(II) before the date of enactment of this Act,
+&emsp;&emsp;&emsp;"(II) before the date of enactment of this Act,
 
 > &emsp;shall be liquidated or reliquidated as free of duty, and the Secretary of the Treasury shall refund any duty paid with respect to such entry.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Entry.—As used in this paragraph, the term ‘entry’ includes a withdrawal from warehouse for consumption.
+Entry.—As used in this paragraph, the term 'entry' includes a withdrawal from warehouse for consumption.
 
-“(3)
+"(3)
 
 Requests.—Liquidation or reliquidation may be made under paragraph (2) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date of enactment of this Act, that contains sufficient information to enable the Customs Service—
 
-&emsp;“(A) to locate the entry; or
+&emsp;"(A) to locate the entry; or
 
-&emsp;“(B) to reconstruct the entry if it cannot be located.”
+&emsp;"(B) to reconstruct the entry if it cannot be located."
 
 #### Retroactive Application for Certain Liquidations and Reliquidations
 
 Pub. L. 107–210, div. D, title XLI, §4101(b), Aug. 6, 2002, 116 Stat. 1040, as amended by Pub. L. 108–429, title II, §2004(a)(20), Dec. 3, 2004, 118 Stat. 2591, provided that:
 
-“(1)
+"(1)
 
 In general.—Notwithstanding section 514 of the Tariff Act of 1930 \[19 U.S.C. 1514\] or any other provision of law, and subject to paragraph (2), the entry of any article—
 
-&emsp;“(A) to which duty-free treatment under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] would have applied if the entry had been made on September 30, 2001,
+&emsp;"(A) to which duty-free treatment under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] would have applied if the entry had been made on September 30, 2001,
 
-&emsp;“(B) that was made after September 30, 2001, and before the date of the enactment of this Act \[Aug. 6, 2002\], and
+&emsp;"(B) that was made after September 30, 2001, and before the date of the enactment of this Act \[Aug. 6, 2002\], and
 
-&emsp;“(C) to which duty-free treatment under title V of that Act did not apply,
+&emsp;"(C) to which duty-free treatment under title V of that Act did not apply,
 
 > shall be liquidated or reliquidated as free of duty, and the Secretary of the Treasury shall refund any duty paid with respect to such entry.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Requests.—Liquidation or reliquidation may be made under paragraph (1) with respect to an entry only if a request therefor is filed with the Customs Service, within 180 days after the date of the enactment of this Act, that contains sufficient information to enable the Customs Service—
 
-&emsp;&emsp;“(A) to locate the entry; or
+&emsp;&emsp;"(A) to locate the entry; or
 
-&emsp;&emsp;“(B) to reconstruct the entry if it cannot be located.
+&emsp;&emsp;"(B) to reconstruct the entry if it cannot be located.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Definition.—As used in this subsection, the term ‘entry’ includes a withdrawal from warehouse for consumption.”
+Definition.—As used in this subsection, the term 'entry' includes a withdrawal from warehouse for consumption."
 
 \[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

@@ -26,7 +26,7 @@ Subject to the succeeding provisions of this section, the Secretary shall provid
 
 #### (4) Treatment of self-employment income
 
-&emsp;For purposes of this section, the term “employment income” includes income from self-employment.
+&emsp;For purposes of this section, the term "employment income" includes income from self-employment.
 
 #### (c) Limitations
 
@@ -78,5 +78,5 @@ A benefit under subsection (a) of this section shall be in addition to any amoun
 
 (July 1, 1944, ch. 373, title II, §265, as added Pub. L. 108–20, §2, Apr. 30, 2003, 117 Stat. 642.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “involved”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "involved".</i>
 

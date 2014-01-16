@@ -16,7 +16,7 @@ Madison Fellows shall be selected for their academic achievements and their pote
 
 #### (c) Regional selection of recipients
 
-The Foundation shall adopt selection procedures which shall assure that at least one Madison Fellow shall be selected each year from each State, the District of Columbia, and the Commonwealth of Puerto Rico, and considered as a single entity, Guam, the Virgin Islands, American Samoa, the Trust Territories of the Pacific Islands, and the Commonwealth of the Northern Marianas in which there are at least two resident applicants who meet the minimum criteria established by the Foundation; and, if sufficient funding is available, to invite applications from scholars overseas for study in the United States.
+The Foundation shall adopt selection procedures which shall assure that at least one Madison Fellow shall be selected each year from each State, the District of Columbia, and the Commonwealth of Puerto Rico, and considered as a single entity, Guam, the Virgin Islands, American Samoa, the Trust Territories of the PacificIslands, and the Commonwealth of the Northern Marianas in which there are at least two resident applicants who meet the minimum criteria established by the Foundation; and, if sufficient funding is available, to invite applications from scholars overseas for study in the United States.
 
 (Pub. L. 99–500, §101(b) \[title VIII, §808\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–78, and Pub. L. 99–591, §101(b) \[title VIII, §808\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–78.)
 

@@ -2,11 +2,11 @@
 
 #### (a) Refusal of admission
 
-Any consumer product offered for importation into the customs territory of the United States\(as defined in general note 2 of the Harmonized Tariff Schedule of the United States) shall be refused admission into such customs territory if such product—
+Any consumer product offered for importation into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States) shall be refused admission into such customs territory if such product—
 
 &emsp;(1) fails to comply with an applicable consumer product safety rule;
 
-&emsp;(2) is not accompanied by a certificate required by this chapter or any other Act enforced by the Commission, or is accompanied by a false certificate, if the manufacturer in the exercise of due care has reason to know that the certificate is false or misleading in any material respect, or is not accompanied by any label or certificate (including tracking labels) required under section 2063 of this title or any rule or regulation under such section;
+&emsp;(2) is not accompanied by a certificate required by this chapter or any other Act enforced by the Commission, or is accompaniedby a false certificate, if the manufacturer in the exercise of due care has reason to know that the certificate is false or misleading in any material respect, or is not accompanied by any label or certificate (including tracking labels) required under section 2063 of this title or any rule or regulation under such section;
 
 &emsp;(3) is or has been determined to be an imminently hazardous consumer product in a proceeding brought under section 2061 of this title;
 
@@ -46,7 +46,7 @@ Manufacturers of imported products shall be in compliance with all inspection an
 
 (3) The Commission shall periodically report to the appropriate Congressional committees the results of the surveillance program under paragraph (1).
 
-(Pub. L. 92–573, §17, Oct. 27, 1972, 86 Stat. 1223; Pub. L. 100–418, title I, §1214(d), Aug. 23, 1988, 102Stat. 1156; Pub. L. 101–608, title I, §114, Nov. 16, 1990, 104 Stat. 3118; Pub. L. 110–314, title II, §§216(b), 223(b), (c)(1), 235(c)(6), Aug. 14, 2008, 122 Stat. 3058, 3068, 3069, 3075.)
+(Pub. L. 92–573, §17, Oct. 27, 1972, 86 Stat. 1223; Pub. L. 100–418, title I, §1214(d), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 101–608, title I, §114, Nov. 16, 1990, 104 Stat. 3118; Pub. L. 110–314, title II, §§216(b), 223(b), (c)(1), 235(c)(6), Aug. 14, 2008, 122 Stat. 3058, 3068, 3069, 3075.)
 
 #### References in Text
 
@@ -54,17 +54,17 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (a),
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2). Pub. L. 110–314, §216(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is not accompanied by a certificate required by section 2063 of this title, or is not labeled in accordance with regulations under section 2063(c) of this title;”.
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–314, §216(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "is not accompanied by a certificate required by section 2063 of this title, or is not labeled in accordance with regulations under section 2063(c) of this title;".
 
-Subsec. (e). Pub. L. 110–314, §223(b), amended subsec. (e) generally. Prior to amendment, text read as follows: “Products refused admission into the customs territory of the United States under this section must be exported, except that upon application, the Secretary of the Treasury may permit the destruction of the product in lieu of exportation. If the owner or consignee does not export the product within a reasonable time, the Department of the Treasury may destroy the product.”
+Subsec. (e). Pub. L. 110–314, §223(b), amended subsec. (e) generally. Prior to amendment, text read as follows: "Products refused admission into the customs territory of the United States under this section must be exported, except that upon application, the Secretary of the Treasury may permit the destruction of the product in lieu of exportation. If the owner or consignee does not export the product within a reasonable time, the Department of the Treasury may destroy the product."
 
-Subsec. (g). Pub. L. 110–314, §223(c)(1), amended subsec. (g) generally. Prior to amendment, text read as follows: “The Commission may, by rule, condition the importation of a consumer product on the manufacturer's compliance with the inspection and recordkeeping requirements of this chapter and the Commission's rules with respect to such requirements.”
+Subsec. (g). Pub. L. 110–314, §223(c)(1), amended subsec. (g) generally. Prior to amendment, text read as follows: "The Commission may, by rule, condition the importation of a consumer product on the manufacturer's compliance with the inspection and recordkeeping requirements of this chapter and the Commission's rules with respect to such requirements."
 
-Subsec. (h)(3). Pub. L. 110–314, §235(c)(6), substituted “the appropriate Congressional committees” for “the Congress”.
+Subsec. (h)(3). Pub. L. 110–314, §235(c)(6), substituted "the appropriate Congressional committees" for "the Congress".
 
 <b>1990</b>—Subsec. (h). Pub. L. 101–608 added subsec. (h).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 to the Tariff Schedules of the United States”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–418 substituted "general note 2 of the Harmonized Tariff Schedule of the United States" for "general headnote 2 to the Tariff Schedules of the United States".
 
 #### Effective Date of 2008 Amendment
 
@@ -78,65 +78,65 @@ Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respe
 
 Pub. L. 110–314, title II, §222, Aug. 14, 2008, 122 Stat. 3066, provided that:
 
-“(a)
+"(a)
 
 Risk Assessment Methodology.—Not later than 2 years after the date of enactment of this Act \[Aug. 14, 2008\], the Commission shall develop a risk assessment methodology for the identification of shipments of consumer products that are—
 
-&emsp;“(1) intended for import into the United States; and
+&emsp;"(1) intended for import into the United States; and
 
-&emsp;“(2) likely to include consumer products in violation of section 17(a) of the Consumer Product Safety Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission.
+&emsp;"(2) likely to include consumer products in violation of section 17(a) of the Consumer Product Safety Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission.
 
-“(b)
+"(b)
 
 Use of International Trade Data System and Other Databases.—In developing the methodology required under subsection (a), the Commission shall—
 
-&emsp;“(1) provide for the use of the International Trade Data System, insofar as is practicable, established under section 411(d) of the Tariff Act of 1930 (19 U.S.C. 1411(d)) to evaluate and assess information about shipments of consumer products intended for import into the customs territory of the United States;
+&emsp;"(1) provide for the use of the International Trade Data System, insofar as is practicable, established under section 411(d) of the Tariff Act of 1930 (19 U.S.C. 1411(d)) to evaluate and assess information about shipments of consumer products intended for import into the customs territory of the United States;
 
-&emsp;“(2) incorporate the risk assessment methodology required under this section into its information technology modernization plan;
+&emsp;"(2) incorporate the risk assessment methodology required under this section into its information technology modernization plan;
 
-&emsp;“(3) examine, in consultation with U.S. Customs and Border Protection, how to share information collected and retained by the Commission, including information in the database required under section 6A of the Consumer Product Safety Act \[15 U.S.C. 2055a\], for the purpose of identifying shipments of consumer products in violation of section 17(a) of such Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission; and
+&emsp;"(3) examine, in consultation with U.S. Customs and Border Protection, how to share information collected and retained by the Commission, including information in the database required under section 6A of the Consumer Product Safety Act \[15 U.S.C. 2055a\], for the purpose of identifying shipments of consumer products in violation of section 17(a) of such Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission; and
 
-&emsp;“(4) examine, in consultation with U.S. Customs and Border Protection, how to share information required by section 15(j) of the CPSA \[15 U.S.C. 2064(j)\] as added by section 223 of this Act for the purpose of identifying shipments of consumer products in violation of section 17(a) of the Consumer Product Safety Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission.
+&emsp;"(4) examine, in consultation with U.S. Customs and Border Protection, how to share information required by section 15(j) of the CPSA \[15 U.S.C. 2064(j)\] as added by section 223 of this Act for the purpose of identifying shipments of consumer products in violation of section 17(a) of the Consumer Product Safety Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission.
 
-“(c)
+"(c)
 
 Cooperation With U.S. Customs and Border Protection.—Not later than 1 year after the date of enactment of this Act \[Aug. 14, 2008\], the Commission shall develop a plan for sharing information and coordinating with U.S. Customs and Border Protection that considers, at a minimum, the following:
 
-&emsp;“(1) The number of full-time equivalent personnel employed by the Commission that should be stationed at U.S. ports of entry for the purpose of identifying shipments of consumer products that are in violation of section 17(a) of the Consumer Product Safety Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission.
+&emsp;"(1) The number of full-time equivalent personnel employed by the Commission that should be stationed at U.S. ports of entry for the purpose of identifying shipments of consumer products that are in violation of section 17(a) of the Consumer Product Safety Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission.
 
-&emsp;“(2) The extent and nature of cooperation between the Commission and U.S. Customs and Border Protection personnel stationed at ports of entry in the identification of shipments of consumer product that are in violation of section 17(a) of the Consumer Product Safety Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission under this Act \[see Short Title of 2008 Amendment note set out under section 2051 of this title\] or any other provision of law.
+&emsp;"(2) The extent and nature of cooperation between the Commission and U.S. Customs and Border Protection personnel stationed at ports of entry in the identification of shipments of consumer product that are in violation of section 17(a) of the Consumer Product Safety Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission under this Act \[see Short Title of 2008 Amendment note set out under section 2051 of this title\] or any other provision of law.
 
-&emsp;“(3) The number of full-time equivalent personnel employed by the Commission that should be stationed at the National Targeting Center (or its equivalent) of U.S. Customs and Border Protection, including—
+&emsp;"(3) The number of full-time equivalent personnel employed by the Commission that should be stationed at the National Targeting Center (or its equivalent) of U.S. Customs and Border Protection, including—
 
-&emsp;&emsp;“(A) the extent and nature of cooperation between Commission and U.S. Customs and Border Protection personnel stationed at the National Targeting Center (or its equivalent), as well as at United States ports of entry;
+&emsp;&emsp;"(A) the extent and nature of cooperation between Commission and U.S. Customs and Border Protection personnel stationed at the National Targeting Center (or its equivalent), as well as at United States ports of entry;
 
-&emsp;&emsp;“(B) the responsibilities of Commission personnel assigned to the National Targeting Center (or its equivalent) under subsection (b)(3); and
+&emsp;&emsp;"(B) the responsibilities of Commission personnel assigned to the National Targeting Center (or its equivalent) under subsection (b)(3); and
 
-&emsp;&emsp;“(C) whether the information available at the National Targeting Center (or its equivalent) would be useful to the Commission or U.S. Customs and Border Protection in identifying the consumer products described in subsection (a).
+&emsp;&emsp;"(C) whether the information available at the National Targeting Center (or its equivalent) would be useful to the Commission or U.S. Customs and Border Protection in identifying the consumer products described in subsection (a).
 
-&emsp;“(4) The development of rule sets for the Automated Targeting System and expedited access for the Commission to the Automated Targeting System.
+&emsp;"(4) The development of rule sets for the Automated Targeting System and expedited access for the Commission to the Automated Targeting System.
 
-&emsp;“(5) The information and resources necessary for the development, updating, and effective implementation of the risk assessment methodology required in subsection (a).
+&emsp;"(5) The information and resources necessary for the development, updating, and effective implementation of the risk assessment methodology required in subsection (a).
 
-“(d)
+"(d)
 
 Report to Congress.—Not later than 180 days after completion of the risk assessment methodology required under this section, the Commission shall submit a report to the appropriate Congressional committees concerning, at a minimum, the following:
 
-&emsp;“(1) The Commission's plan for implementing the risk assessment methodology required under this section.
+&emsp;"(1) The Commission's plan for implementing the risk assessment methodology required under this section.
 
-&emsp;“(2) The changes made or necessary to be made to the Commission's memorandum of understanding with U.S. Customs and Border Protection.
+&emsp;"(2) The changes made or necessary to be made to the Commission's memorandum of understanding with U.S. Customs and Border Protection.
 
-&emsp;“(3) The status of—
+&emsp;"(3) The status of—
 
-&emsp;&emsp;“(A) the development of the Automated Targeting System rule set required under subsection (c)(4) of this section;
+&emsp;&emsp;"(A) the development of the Automated Targeting System rule set required under subsection (c)(4) of this section;
 
-&emsp;&emsp;“(B) the Commission's access to the Automated Targeting System; and
+&emsp;&emsp;"(B) the Commission's access to the Automated Targeting System; and
 
-&emsp;&emsp;“(C) the effectiveness of the International Trade Data System in enhancing cooperation between the Commission and U.S. Customs and Border Protection for the purpose of identifying shipments of consumer products in violation of section 17(a) of the Consumer Product Safety Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission;
+&emsp;&emsp;"(C) the effectiveness of the International Trade Data System in enhancing cooperation between the Commission and U.S. Customs and Border Protection for the purpose of identifying shipments of consumer products in violation of section 17(a) ofthe Consumer Product Safety Act (15 U.S.C. 2066(a)) or other import provisions enforced by the Commission;
 
-&emsp;“(4) Whether the Commission requires additional statutory authority under the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\], the Federal Hazardous Substances Act \[15 U.S.C. 1261 et seq.\], the Flammable Fabrics Act \[15 U.S.C. 1191 et seq.\], or the Poison Prevention Packaging Act of 1970 \[15 U.S.C. 1471 et seq.\] in order to implement the risk assessment methodology required under this section.
+&emsp;"(4) Whether the Commission requires additional statutory authority under the Consumer Product Safety Act \[15 U.S.C. 2051 et seq.\], the Federal Hazardous Substances Act \[15 U.S.C. 1261 et seq.\], the Flammable Fabrics Act \[15 U.S.C. 1191 et seq.\], or the Poison Prevention Packaging Act of 1970 \[15 U.S.C. 1471 et seq.\] in order to implement the risk assessment methodology required under this section.
 
-&emsp;“(5) The level of appropriations necessary to implement the risk assessment methodology required under this section.”
+&emsp;"(5) The level of appropriations necessary to implement the risk assessment methodology required under this section."
 
-\[For definitions of “Commission” and “appropriate Congressional committees” used in section 222 of Pub. L. 110–314, set out above, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.\]
+\[For definitions of "Commission" and "appropriate Congressional committees" used in section 222 of Pub. L. 110–314, set out above, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.\]
 

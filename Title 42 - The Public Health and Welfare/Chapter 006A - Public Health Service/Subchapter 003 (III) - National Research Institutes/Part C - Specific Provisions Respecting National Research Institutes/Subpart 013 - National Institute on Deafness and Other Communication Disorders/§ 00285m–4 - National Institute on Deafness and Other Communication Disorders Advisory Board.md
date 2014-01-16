@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish in the Institute the National Deafness and Other Communication Disorders Advisory Board (hereafter in this section referred to as the “Advisory Board”).
+The Secretary shall establish in the Institute the National Deafness and Other Communication Disorders Advisory Board (hereafter in this section referred to as the "Advisory Board").
 
 #### (b) Composition; qualifications; appointed and ex officio members
 
@@ -70,23 +70,23 @@ Pub. L. 100–553 and section 2613(a)(1) of Pub. L. 100–690 contained identica
 
 #### Amendments
 
-<b>2007</b>—Subsec. (j). Pub. L. 109–482 struck out subsec. (j) which read as follows: “The Advisory Board shall prepare an annual report for the Secretary which—
+<b>2007</b>—Subsec. (j). Pub. L. 109–482 struck out subsec. (j) which read as follows: "The Advisory Board shall prepare an annual report for the Secretary which—
 
-&emsp;“(1) describes the Advisory Board's activities in the fiscal year for which the report is made;
+&emsp;"(1) describes the Advisory Board's activities in the fiscal year for which the report is made;
 
-&emsp;“(2) describes and evaluates the progress made in such fiscal year in research, treatment, education, and training with respect to the deafness and other communication disorders;
+&emsp;"(2) describes and evaluates the progress made in such fiscal year in research, treatment, education, and training with respect to the deafness and other communication disorders;
 
-&emsp;“(3) summarizes and analyzes expenditures made by the Federal Government for activities respecting such disorders in such fiscal year; and
+&emsp;"(3) summarizes and analyzes expenditures made by the Federal Government for activities respecting such disorders in such fiscal year; and
 
-&emsp;“(4) contains the Advisory Board's recommendations (if any) for changes in the plan prepared under section 285m–1(a) of this title.”
+&emsp;"(4) contains the Advisory Board's recommendations (if any) for changes in the plan prepared under section 285m–1(a) of this title."
 
-<b>1993</b>—Subsec. (b)(2)(A). Pub. L. 103–43 substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+<b>1993</b>—Subsec. (b)(2)(A). Pub. L. 103–43 substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
-<b>1992</b>—Subsec. (b)(2)(A). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (b)(2)(A). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
-Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
+Pub. L. 102–405 substituted "Under Secretary for Health" for "Chief Medical Director".
 
-<b>1989</b>—Subsec. (k). Pub. L. 101–93 substituted “April 1, 1989” for “90 days after the date of the enactment of the National Institute on Deafness and Other Communication Disorders Act”.
+<b>1989</b>—Subsec. (k). Pub. L. 101–93 substituted "April 1, 1989" for "90 days after the date of the enactment of the National Institute on Deafness and Other Communication Disorders Act".
 
 <b>1988</b>—Pub. L. 100–690, §2613(b)(2), amended this section to read as if the amendments made by Pub. L. 100–690, §2613(a)(1), which enacted this section, had not been enacted. See Codification note above.
 
@@ -106,5 +106,5 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

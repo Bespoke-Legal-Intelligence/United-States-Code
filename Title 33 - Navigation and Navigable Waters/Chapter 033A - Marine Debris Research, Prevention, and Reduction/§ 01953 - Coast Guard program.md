@@ -22,5 +22,5 @@ The Act to Prevent Pollution from Ships, referred to in pars. (1) and (2), is Pu
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–213 struck out subsec. (a) designation and heading “Strategy” and struck out subsecs. (b) and (c) which required reports on the Coast Guard's progress in implementing former subsec. (a) and on the effectiveness of international and national measures to prevent and reduce marine debris and its impact.
+<b>2012</b>—Pub. L. 112–213 struck out subsec. (a) designation and heading "Strategy" and struck out subsecs. (b) and (c) which required reports on the Coast Guard's progress in implementing former subsec. (a) and on the effectiveness of international and national measures to prevent and reduce marine debris and its impact.
 

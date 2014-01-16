@@ -16,5 +16,5 @@ Provisions similar to those in this section were contained in section 1163(b) of
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–106 struck out “or” at end of par. (1), added par. (2), and redesignated former par. (2) as (3).
+<b>1996</b>—Pub. L. 104–106 struck out "or" at end of par. (1), added par. (2), and redesignated former par. (2) as (3).
 

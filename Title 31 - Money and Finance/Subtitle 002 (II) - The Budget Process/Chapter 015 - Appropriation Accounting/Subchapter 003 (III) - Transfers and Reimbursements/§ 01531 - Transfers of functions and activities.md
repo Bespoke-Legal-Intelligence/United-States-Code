@@ -38,11 +38,11 @@ Sept. 12, 1950, ch. 946, §202, 64 Stat. 838.
 
 31:581c(a)(last sentence), (b)(last sentence).
 
-In subsections (a) and (b), the defined term “executive agency” in section 102 of the revised title is substituted for “department or establishment” for consistency and clarity.
+In subsections (a) and (b), the defined term "executive agency" in section 102 of the revised title is substituted for "department or establishment" for consistency and clarity.
 
-In subsection (a), the words “organizational unit or agency” are substituted for “agency”, and the word “appropriation” is substituted for “said funds”, for consistency and clarity.
+In subsection (a), the words "organizational unit or agency" are substituted for "agency", and the word "appropriation" is substituted for "said funds", for consistency and clarity.
 
-Subsection (d) is substituted for “which are hereby authorized to be established” because of the restatement.
+Subsection (d) is substituted for "which are hereby authorized to be established" because of the restatement.
 
 #### Prohibition on Transfer of Funds to Other Departments and Agencies
 

@@ -44,7 +44,7 @@ Another section 3012 of Pub. L. 89–272 as added by Pub. L. 96–463, §7(a), O
 
 #### Amendments
 
-<b>1984</b>—Subsec. (c)(2). Pub. L. 98–616 substituted “$25,000,000 for each of the fiscal years 1985 through 1988” for “$20,000,000”.
+<b>1984</b>—Subsec. (c)(2). Pub. L. 98–616 substituted "$25,000,000 for each of the fiscal years 1985 through 1988" for "$20,000,000".
 
 #### Transfer of Functions
 

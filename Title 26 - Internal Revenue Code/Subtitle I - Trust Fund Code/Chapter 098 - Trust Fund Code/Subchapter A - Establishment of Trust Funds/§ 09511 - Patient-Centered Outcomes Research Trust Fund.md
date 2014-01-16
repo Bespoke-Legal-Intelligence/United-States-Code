@@ -2,7 +2,7 @@
 
 #### (a) Creation of Trust Fund
 
-There is established in the Treasury of the United States a trust fund to be known as the “Patient-Centered Outcomes Research Trust Fund” (hereafter in this section referred to as the “PCORTF”), consisting of such amounts as may be appropriated or credited to such Trust Fund as provided in this section and section 9602(b).
+There is established in the Treasury of the United States a trust fund to be known as the "Patient-Centered Outcomes Research Trust Fund" (hereafter in this section referred to as the "PCORTF"), consisting of such amounts as may be appropriated or credited to such Trust Fund as provided in this section and section 9602(b).
 
 #### (b) Transfers to Fund
 
@@ -32,7 +32,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (2) Trust Fund transfers
 
-&emsp;In addition to the amounts appropriated under paragraph (1), there shall be credited tothe PCORTF the amounts transferred under section 1183 of the Social Security Act.
+&emsp;In addition to the amounts appropriated under paragraph (1), there shall be credited to the PCORTF the amounts transferred under section 1183 of the Social Security Act.
 
 #### (3) Limitation on transfers to PCORTF
 
@@ -72,7 +72,7 @@ The Secretary of the Treasury shall be a trustee of the PCORTF.
 
 #### (e) Net revenues
 
-For purposes of this section, the term “net revenues” means the amount estimated by the Secretary of the Treasury based on the excess of—
+For purposes of this section, the term "net revenues" means the amount estimated by the Secretary of the Treasury based on the excess of—
 
 &emsp;(1) the fees received in the Treasury under subchapter B of chapter 34, over
 

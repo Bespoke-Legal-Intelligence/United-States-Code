@@ -14,7 +14,7 @@ Subsection (a) requires the court to close a bankruptcy case after the estate is
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–353 substituted “A” for “a”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–353 substituted "A" for "a".
 
 #### Effective Date of 1984 Amendment
 

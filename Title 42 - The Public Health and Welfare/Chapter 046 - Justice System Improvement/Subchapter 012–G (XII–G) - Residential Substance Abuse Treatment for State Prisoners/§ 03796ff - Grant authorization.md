@@ -20,7 +20,7 @@ States that demonstrate that they have existing in-prison drug treatment program
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–273, §2102(1), substituted “purpose of—” for “purpose of”, inserted par. (1) designation before “developing”, and added par. (2).
+<b>2002</b>—Subsec. (a). Pub. L. 107–273, §2102(1), substituted "purpose of—" for "purpose of", inserted par. (1) designation before "developing", and added par. (2).
 
 Subsec. (c). Pub. L. 107–273, §2101, added subsec. (c).
 

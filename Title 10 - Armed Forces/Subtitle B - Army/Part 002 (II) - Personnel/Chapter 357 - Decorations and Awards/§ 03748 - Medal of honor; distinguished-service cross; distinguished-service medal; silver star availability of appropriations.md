@@ -16,7 +16,7 @@ Historical and Revision Notes
 
 10:1424.
 
-July 9, 1918, ch. 143 (13th par. under “Ordnance Department”), 40 Stat. 871.
+July 9, 1918, ch. 143 (13th par. under "Ordnance Department"), 40 Stat. 871.
 
-The word “amounts” is substituted for the words “so much as may be”. The word “provide” is substituted for the words “defray the cost of”. The words “medals and devices under” are substituted for the words “medals of honor, distinguished-service crosses, distinguished-service medals, bars, rosettes, and other devices provided for in”. The words “from time to time” are omitted as surplusage.
+The word "amounts" is substituted for the words "so much as may be". The word "provide" is substituted for the words "defray the cost of". The words "medals and devices under" are substituted for the words "medals of honor, distinguished-service crosses, distinguished-service medals, bars, rosettes, and other devices provided for in". The words "from time to time" are omitted as surplusage.
 

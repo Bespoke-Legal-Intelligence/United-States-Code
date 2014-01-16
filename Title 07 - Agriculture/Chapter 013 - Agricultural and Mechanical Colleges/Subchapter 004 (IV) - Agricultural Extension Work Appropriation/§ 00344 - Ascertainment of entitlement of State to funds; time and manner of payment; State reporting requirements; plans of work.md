@@ -2,7 +2,7 @@
 
 #### (a) Ascertainment of entitlement
 
-On or about the first day of October in each year after June 26, 1953, the Secretary of Agriculture shall ascertain as to each State whether it is entitled to receive its share of the annual appropriation for cooperative agricultural extension work under this subchapter and the amount which it is entitled to receive. Before the funds herein provided shall become available to any college for any fiscal year, plans for the work to be carried on under this subchapter shall be submitted by the proper officials of each college and approved by the Secretary of Agriculture. The Secretary shall ensure that each college seeking to receive funds under this subchapter has in place appropriate guidelines, as determined by the Secretary, to minimize actual or potential conflicts of interest among employees of such college whose salaries are funded in whole or in part with such funds.
+On or about the first day of October in each year after June 26, 1953, the Secretary of Agriculture shall ascertain as to each State whether it is entitled to receive its share of the annual appropriation for cooperative agricultural extension work under this subchapter and the amount which it is entitled to receive. Before the funds herein provided shall become available to any college for any fiscal year, plans for the work to be carried on under this subchapter shall be submitted by the proper officials of eachcollege and approved by the Secretary of Agriculture. The Secretary shall ensure that each college seeking to receive funds under this subchapter has in place appropriate guidelines, as determined by the Secretary, to minimize actual or potential conflicts of interest among employees of such college whose salaries are funded in whole or in part with such funds.
 
 #### (b) Time and manner of payment; related reports
 
@@ -40,17 +40,17 @@ To the maximum extent practicable, the Secretary shall consider a plan of work s
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–185 inserted section catchline, designated existing provisions as subsecs. (a) and (b), inserted subsec. headings, in subsec. (b) substituted “The amount to which a State is entitled” for “Such sums”, and added subsecs. (c) to (e).
+<b>1998</b>—Pub. L. 105–185 inserted section catchline, designated existing provisions as subsecs. (a) and (b), inserted subsec. headings, in subsec. (b) substituted "The amount to which a State is entitled" for "Such sums", and added subsecs. (c) to (e).
 
-<b>1990</b>—Pub. L. 101–624 inserted after second sentence “The Secretary shall ensure that each college seeking to receive funds under this subchapter has in place appropriate guidelines, as determined by the Secretary, to minimize actual or potential conflicts of interest among employees of such college whose salaries are funded in whole or in part with such funds.”
+<b>1990</b>—Pub. L. 101–624 inserted after second sentence "The Secretary shall ensure that each college seeking to receive funds under this subchapter has in place appropriate guidelines, as determined by the Secretary, to minimize actual or potential conflicts of interest among employees of such college whose salaries are funded in whole or in part with such funds."
 
-<b>1976</b>—Pub. L. 94–273 substituted “of October” for “of July” and “of April” for “of January”.
+<b>1976</b>—Pub. L. 94–273 substituted "of October" for "of July" and "of April" for "of January".
 
-<b>1962</b>—Pub. L. 87–749 substituted “quarterly payments in or about July, October, January, and April” for “semiannual payments on the first day of January and July”, and struck out “, Territory or possession” wherever appearing.
+<b>1962</b>—Pub. L. 87–749 substituted "quarterly payments in or about July, October, January, and April" for "semiannual payments on the first day of January and July", and struck out ", Territory or possession" wherever appearing.
 
-<b>1953</b>—Act June 26, 1953, among other changes, inserted first two sentences, inserted references to “Territory, or possession” after references to “State,” in sentence commencing “Such sums”, and in such sentence, struck out reference to payment by the Secretary of the Treasury upon warrant of the Secretary of Agriculture, and substituted “January” for “September” with respect to submission of annual detailed statements.
+<b>1953</b>—Act June 26, 1953, among other changes, inserted first two sentences, inserted references to "Territory, or possession" after references to "State," in sentence commencing "Such sums", and in such sentence, struck out reference to payment by the Secretary of the Treasury upon warrant of the Secretary of Agriculture, and substituted "January" for "September" with respect to submission of annual detailed statements.
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–185, title II, §202(c), June 23, 1998, 112 Stat. 533, provided that: “The amendments made by this section \[amending this section and section 361g of this title\] take effect on October 1, 1999.”
+Pub. L. 105–185, title II, §202(c), June 23, 1998, 112 Stat. 533, provided that: "The amendments made by this section \[amending this section and section 361g of this title\] take effect on October 1, 1999."
 

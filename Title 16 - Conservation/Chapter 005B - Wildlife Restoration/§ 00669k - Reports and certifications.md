@@ -22,7 +22,7 @@ At the time at which the President submits a budget request for the Department o
 
 #### (c) Spending certification and report
 
-Not later than 60 days after the end of each fiscal year, the Secretary of the Interior shall certify and report in writing to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate—
+Not later than 60 days after the end of each fiscal year, the Secretary of the Interior shallcertify and report in writing to the Committee on Resources of the House of Representatives and the Committee on Environment and Public Works of the Senate—
 
 &emsp;(1) the amounts, broken down by category, that were used for the fiscal year under section 4(a)(1) of the Pittman-Robertson Wildlife Restoration Act (16 U.S.C. 669c(a)(1)) and section 4(d)(1) of the Dingell-Johnson Sport Fish Restoration Act (16 U.S.C. 777c(d)(1)); <sup>1</sup>
 

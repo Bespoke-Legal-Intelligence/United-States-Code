@@ -75,11 +75,11 @@ tv
 
 &emsp;&emsp;For purposes of subparagraph (A):
 
-&emsp;&emsp;&emsp;(i) The term “RVC” means the regional value-content, expressed as a percentage.
+&emsp;&emsp;&emsp;(i) The term "RVC" means the regional value-content, expressed as a percentage.
 
-&emsp;&emsp;&emsp;(ii) The term “TV” means the transaction value of the good adjusted to a F.O.B. basis.
+&emsp;&emsp;&emsp;(ii) The term "TV" means the transaction value of the good adjusted to a F.O.B. basis.
 
-&emsp;&emsp;&emsp;(iii) The term “VNM” means the value of nonoriginating materials used by the producer in the production of the good.
+&emsp;&emsp;&emsp;(iii) The term "VNM" means the value of nonoriginating materials used by the producer in the production of the good.
 
 #### (3) Net cost method
 
@@ -110,11 +110,11 @@ nc
 
 &emsp;&emsp;For purposes of subparagraph (A):
 
-&emsp;&emsp;&emsp;(i) The term “RVC” means the regional value-content, expressed as a percentage.
+&emsp;&emsp;&emsp;(i) The term "RVC" means the regional value-content, expressed as a percentage.
 
-&emsp;&emsp;&emsp;(ii) The term “NC” means the net cost of the good.
+&emsp;&emsp;&emsp;(ii) The term "NC" means the net cost of the good.
 
-&emsp;&emsp;&emsp;(iii) The term “VNM” means the value of nonoriginating materials used by the producer in the production of the good.
+&emsp;&emsp;&emsp;(iii) The term "VNM" means the value of nonoriginating materials used by the producer in the production of the good.
 
 #### (4) Value of nonoriginating materials used in originating materials
 
@@ -488,7 +488,7 @@ Notwithstanding any other provision of this section, for purposes of applying a 
 
 &emsp;(3) subheading 1806.10.42 or 2106.90.12 that is exported from the territory of Mexico, if any material provided for in subheading 1701.99 used in the production of that good is not a qualifying good,
 
-> such good shall be treated as a nonoriginating good and, for purposes of this subsection, the terms “qualifying good” and “wholly obtained in the territory of” have the meaning given such terms in paragraph 26 of section A of Annex 703.2 of the Agreement.
+> such good shall be treated as a nonoriginating good and, for purposes of this subsection, the terms "qualifying good" and "wholly obtained in the territory of" have the meaning given such terms in paragraph 26 of section A of Annex 703.2 of the Agreement.
 
 #### (p) Definitions
 
@@ -496,7 +496,7 @@ For purposes of this section—
 
 #### (1) Class of motor vehicles
 
-&emsp;The term “class of motor vehicles” means any one of the following categories of motor vehicles:
+&emsp;The term "class of motor vehicles" means any one of the following categories of motor vehicles:
 
 &emsp;&emsp;(A) Motor vehicles provided for in subheading 8701.20, subheading 8704.10, 8704.22, 8704.23, 8704.32, or 8704.90, or heading 8705 or 8706, or motor vehicles designed for the transport of 16 or more persons provided for in subheading 8702.10.00 or 8702.90.00.
 
@@ -508,23 +508,23 @@ For purposes of this section—
 
 #### (2) Customs Valuation Code
 
-&emsp;The term “Customs Valuation Code” means the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade, including its interpretative notes.
+&emsp;The term "Customs Valuation Code" means the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade, including its interpretative notes.
 
 #### (3) F.O.B.
 
-&emsp;The term “F.O.B.” means free on board, regardless of the mode of transportation, at the point of direct shipment by the seller to the buyer.
+&emsp;The term "F.O.B." means free on board, regardless of the mode of transportation, at the point of direct shipment by the seller to the buyer.
 
 #### (4) Fungible goods and fungible materials
 
-&emsp;The terms “fungible goods” and “fungible materials” mean goods or materials that are interchangeable for commercial purposes and whose properties are essentially identical.
+&emsp;The terms "fungible goods" and "fungible materials" mean goods or materials that are interchangeable for commercial purposes and whose properties are essentially identical.
 
 #### (5) Generally Accepted Accounting Principles
 
-&emsp;The term “Generally Accepted Accounting Principles” means the recognized consensus or substantial authoritative support in the territory of a NAFTA country with respect to the recording of revenues, expenses, costs, assets and liabilities, disclosure of information, and preparation of financial statements. These standards may be broad guidelines of general application as well as detailed standards, practices, or procedures.
+&emsp;The term "Generally Accepted Accounting Principles" means the recognized consensus or substantial authoritative support in the territory of a NAFTA country with respect to the recording of revenues, expenses, costs, assets and liabilities, disclosure of information, and preparation of financial statements. These standards may be broad guidelines of general application as well as detailed standards, practices, or procedures.
 
 #### (6) Goods wholly obtained or produced entirely in the territory of one or more of the NAFTA countries
 
-&emsp;The term “goods wholly obtained or produced entirely in the territory of one or more of the NAFTA countries” means—
+&emsp;The term "goods wholly obtained or produced entirely in the territory of one or more of the NAFTA countries" means—
 
 &emsp;&emsp;(A) mineral goods extracted in the territory of one or more of the NAFTA countries;
 
@@ -552,11 +552,11 @@ For purposes of this section—
 
 #### (7) Identical or similar goods
 
-&emsp;The term “identical or similar goods” means “identical goods” and “similar goods”, respectively, as defined in the Customs Valuation Code.
+&emsp;The term "identical or similar goods" means "identical goods" and "similar goods", respectively, as defined in the Customs Valuation Code.
 
 #### (8) Indirect material
 
-&emsp;(A) The term “indirect material” means a good—
+&emsp;(A) The term "indirect material" means a good—
 
 &emsp;&emsp;(i) used in the production, testing, or inspection of a good but not physically incorporated into the good, or
 
@@ -584,71 +584,71 @@ For purposes of this section—
 
 #### (9) Intermediate material
 
-&emsp;The term “intermediate material” means a material that is self-produced, used in the production of a good, and designated pursuant to subsection (b)(10) of this section.
+&emsp;The term "intermediate material" means a material that is self-produced, used in the production of a good, and designated pursuant to subsection (b)(10) of this section.
 
 #### (10) Marque
 
-&emsp;The term “marque” means the trade name used by a separate marketing division of a motor vehicle assembler.
+&emsp;The term "marque" means the trade name used by a separate marketing division of a motor vehicle assembler.
 
 #### (11) Material
 
-&emsp;The term “material” means a good that is used in the production of another good and includes a part or an ingredient.
+&emsp;The term "material" means a good that is used in the production of another good and includes a part or an ingredient.
 
 #### (12) Model line
 
-&emsp;The term “model line” means a group of motor vehicles having the same platform or model name.
+&emsp;The term "model line" means a group of motor vehicles having the same platform or model name.
 
 #### (13) Motor vehicle assembler
 
-&emsp;The term “motor vehicle assembler” means a producer of motor vehicles and any related persons or joint ventures in which the producer participates.
+&emsp;The term "motor vehicle assembler" means a producer of motor vehicles and any related persons or joint ventures in which the producer participates.
 
 #### (14) NAFTA country
 
-&emsp;The term “NAFTA country” means the United States, Canada or Mexico for such time as the Agreement is in force with respect to Canada or Mexico, and the United States applies the Agreement to Canada or Mexico.
+&emsp;The term "NAFTA country" means the United States, Canada or Mexico for such time as the Agreement is in force with respect to Canada or Mexico, and the United States applies the Agreement to Canada or Mexico.
 
 #### (15) New building
 
-&emsp;The term “new building” means a new construction, including at least the pouring or construction of new foundation and floor, the erection of a new structure and roof, and installation of new plumbing, electrical, and other utilities to house a complete vehicle assembly process.
+&emsp;The term "new building" means a new construction, including at least the pouring or construction of new foundation and floor, the erection of a new structure and roof, and installation of new plumbing, electrical, and other utilities to house a complete vehicle assembly process.
 
 #### (16) Net cost
 
-&emsp;The term “net cost” means total cost less sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the total cost.
+&emsp;The term "net cost" means total cost less sales promotion, marketing and after-sales service costs, royalties, shipping and packing costs, and nonallowable interest costs that are included in the total cost.
 
 #### (17) Net cost of a good
 
-&emsp;The term “net cost of a good” means the net cost that can be reasonably allocated to a good using one of the methods set out in subsection (b)(8) of this section.
+&emsp;The term "net cost of a good" means the net cost that can be reasonably allocated to a good using one of the methods set out in subsection (b)(8) of this section.
 
 #### (18) Nonallowable interest costs
 
-&emsp;The term “nonallowable interest costs” means interest costs incurred by a producer as a result of an interest rate that exceeds the applicable Federal Government interest rate for comparable maturities by more than 700 basis points, determined pursuant to regulations implementing this section.
+&emsp;The term "nonallowable interest costs" means interest costs incurred by a producer as a result of an interest rate that exceeds the applicable Federal Government interest rate for comparable maturities by more than 700 basis points, determined pursuant to regulations implementing this section.
 
 #### (19) Nonoriginating good; nonoriginating material
 
-&emsp;The term “nonoriginating good” or “nonoriginating material” means a good or material that does not qualify as an originating good or material under the rules of origin set out in this section.
+&emsp;The term "nonoriginating good" or "nonoriginating material" means a good or material that does not qualify as an originating good or material under the rules of origin set out in this section.
 
 #### (20) Originating
 
-&emsp;The term “originating” means qualifying under the rules of origin set out in this section.
+&emsp;The term "originating" means qualifying under the rules of origin set out in this section.
 
 #### (21) Producer
 
-&emsp;The term “producer” means a person who grows, mines, harvests, fishes, traps, hunts, manufactures, processes, or assembles a good.
+&emsp;The term "producer" means a person who grows, mines, harvests, fishes, traps, hunts, manufactures, processes, or assembles a good.
 
 #### (22) Production
 
-&emsp;The term “production” means growing, mining, harvesting, fishing, trapping, hunting, manufacturing, processing, or assembling a good.
+&emsp;The term "production" means growing, mining, harvesting, fishing, trapping, hunting, manufacturing, processing, or assembling a good.
 
 #### (23) Reasonably allocate
 
-&emsp;The term “reasonably allocate” means to apportion in a manner appropriate to the circumstances.
+&emsp;The term "reasonably allocate" means to apportion in a manner appropriate to the circumstances.
 
 #### (24) Refit
 
-&emsp;The term “refit” means a plant closure, for purposes of plant conversion or retooling, that lasts at least 3 months.
+&emsp;The term "refit" means a plant closure, for purposes of plant conversion or retooling, that lasts at least 3 months.
 
 #### (25) Related persons
 
-&emsp;The term “related persons” means persons specified in any of the following subparagraphs:
+&emsp;The term "related persons" means persons specified in any of the following subparagraphs:
 
 &emsp;&emsp;(A) Persons who are officers or directors of one another's businesses.
 
@@ -666,11 +666,11 @@ For purposes of this section—
 
 &emsp;&emsp;(H) Persons who are members of the same family.
 
-> &emsp;For purposes of this paragraph, the term “members of the same family” means natural or adoptive children, brothers, sisters, parents, grandparents, or spouses.
+> &emsp;For purposes of this paragraph, the term "members of the same family" means natural or adoptive children, brothers, sisters, parents, grandparents, or spouses.
 
 #### (26) Royalties
 
-&emsp;The term “royalties” means payments of any kind, including payments under technical assistance or similar agreements, made as consideration for the use or right to use any copyright, literary, artistic, or scientific work, patent, trademark, design, model, plan, secret formula, or process. It does not include payments under technical assistance or similar agreements that can be related to specific services such as—
+&emsp;The term "royalties" means payments of any kind, including payments under technical assistance or similar agreements, made as consideration for the use or right to use any copyright, literary, artistic, or scientific work, patent, trademark, design, model, plan, secret formula, or process. It does not include payments under technical assistance or similar agreements that can be related to specific services such as—
 
 &emsp;&emsp;(A) personnel training, without regard to where performed; and
 
@@ -678,7 +678,7 @@ For purposes of this section—
 
 #### (27) Sales promotion, marketing, and after-sales service costs
 
-&emsp;The term “sales promotion, marketing, and after-sales service costs” means the costs related to sales promotion, marketing, and after-sales service for the following:
+&emsp;The term "sales promotion, marketing, and after-sales service costs" means the costs related to sales promotion, marketing, and after-sales service for the following:
 
 &emsp;&emsp;(A) Sales and marketing promotion, media advertising, advertising and market research, promotional and demonstration materials, exhibits, sales conferences, trade shows, conventions, banners, marketing displays, free samples, sales, marketing and after-sales service literature (product brochures, catalogs, technical literature, price lists, service manuals, sales aid information), establishment and protection of logos and trademarks, sponsorships, wholesale and retail restocking charges, and entertainment.
 
@@ -686,7 +686,7 @@ For purposes of this section—
 
 &emsp;&emsp;(C) Salaries and wages, sales commissions, bonuses, benefits (such as medical, insurance, and pension), traveling and living expenses, and membership and professional fees for sales promotion, marketing, and after-sales service personnel.
 
-&emsp;&emsp;(D) Recruiting and training of sales promotion, marketing, and after-sales service personnel, and after-sales training of customers’ employees, where such costs are identified separately for sales promotion, marketing, and after-sales service of goods on the financial statements or cost accounts of the producer.
+&emsp;&emsp;(D) Recruiting and training of sales promotion, marketing, and after-sales service personnel, and after-sales training of customers' employees, where such costs are identified separately for sales promotion, marketing, and after-sales service of goods on the financial statements or cost accounts of the producer.
 
 &emsp;&emsp;(E) Product liability insurance.
 
@@ -702,15 +702,15 @@ For purposes of this section—
 
 #### (28) Self-produced material
 
-&emsp;The term “self-produced material” means a material that is produced by the producer of a good and used in the production of that good.
+&emsp;The term "self-produced material" means a material that is produced by the producer of a good and used in the production of that good.
 
 #### (29) Shipping and packing costs
 
-&emsp;The term “shipping and packing costs” means the costs incurred in packing a good for shipment and shipping the good from the point of direct shipment to the buyer, but does not include the costs of preparing and packaging the good for retail sale.
+&emsp;The term "shipping and packing costs" means the costs incurred in packing a good for shipment and shipping the good from the point of direct shipment to the buyer, but does not include the costs of preparing and packaging the good for retail sale.
 
 #### (30) Size category
 
-&emsp;The term “size category” means with respect to a motor vehicle identified in subsection (c)(1)(A) of this section—
+&emsp;The term "size category" means with respect to a motor vehicle identified in subsection (c)(1)(A) of this section—
 
 &emsp;&emsp;(A) 85 cubic feet or less of passenger and luggage interior volume;
 
@@ -724,23 +724,23 @@ For purposes of this section—
 
 #### (31) Territory
 
-&emsp;The term “territory” means a territory described in Annex 201.1 of the Agreement.
+&emsp;The term "territory" means a territory described in Annex 201.1 of the Agreement.
 
 #### (32) Total cost
 
-&emsp;The term “total cost” means all product costs, period costs, and other costs incurred in the territory of one or more of the NAFTA countries.
+&emsp;The term "total cost" means all product costs, period costs, and other costs incurred in the territory of one or more of the NAFTA countries.
 
 #### (33) Transaction value
 
-&emsp;Except as provided in subsection (c)(1) or (c)(2)(A) of this section, the term “transaction value” means the price actually paid or payable for a good or material with respect to a transaction of the producer of the good, adjusted in accordance with the principles of paragraphs 1, 3, and 4 of Article 8 of the Customs Valuation Code and determined without regard to whether the good or material is sold for export.
+&emsp;Except as provided in subsection (c)(1) or (c)(2)(A) of this section, the term "transaction value" means the price actually paid or payable for a good or material with respect to a transaction of the producer of the good, adjusted in accordance with the principles of paragraphs 1, 3, and 4 of Article 8 of the Customs Valuation Code and determined without regard to whether the good or material is sold for export.
 
 #### (34) Underbody
 
-&emsp;The term “underbody” means the floor pan of a motor vehicle.
+&emsp;The term "underbody" means the floor pan of a motor vehicle.
 
 #### (35) Used
 
-&emsp;The term “used” means used or consumed in the production of goods.
+&emsp;The term "used" means used or consumed in the production of goods.
 
 #### (q) Presidential proclamation authority
 
@@ -780,11 +780,11 @@ This title, referred to in subsec. (q)(1)(B), is title II of Pub. L. 103–182, 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (n). Pub. L. 105–206 struck out “most-favored-nation” before “rate of duty”.
+<b>1998</b>—Subsec. (n). Pub. L. 105–206 struck out "most-favored-nation" before "rate of duty".
 
-<b>1996</b>—Subsec. (m)(4)(C). Pub. L. 104–295, §21(a)(2)(A), substituted “subsection (p)” for “subsection (o)”.
+<b>1996</b>—Subsec. (m)(4)(C). Pub. L. 104–295, §21(a)(2)(A), substituted "subsection (p)" for "subsection (o)".
 
-Subsec. (p)(18). Pub. L. 104–295, §21(a)(2)(B), substituted “Federal Government” for “federal government”.
+Subsec. (p)(18). Pub. L. 104–295, §21(a)(2)(B), substituted "Federal Government" for "federal government".
 
 #### Effective Date
 

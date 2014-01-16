@@ -10,7 +10,7 @@ The Secretary may delegate a duty under the program—
 
 #### (b) Eligible entity defined
 
-In this section, the term “eligible entity” means—
+In this section, the term "eligible entity" means—
 
 &emsp;(1) an agency of State or local government or an Indian tribe; or
 
@@ -110,13 +110,13 @@ When delegating a duty under this section, the Secretary shall ensure that the t
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–246, §2403, amended section generally. Prior to amendment, section related to delegation to private organizations.
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–447, §797(1), substituted “transfer title of ownership to an easement under this subpart to” for “permit” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–447, §797(1), substituted "transfer title of ownership to an easement under this subpart to" for "permit" in introductory provisions.
 
 Subsec. (d). Pub. L. 108–447, §797(2), added subsec. (d) and struck out heading and text of former subsec. (d). Text consisted of pars. (1) and (2) relating to reassignment of easements to new private organizations or the Secretary.
 

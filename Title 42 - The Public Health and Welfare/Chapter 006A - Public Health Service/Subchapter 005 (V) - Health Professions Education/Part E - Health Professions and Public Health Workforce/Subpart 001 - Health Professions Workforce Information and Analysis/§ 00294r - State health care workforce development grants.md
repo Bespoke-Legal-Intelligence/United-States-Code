@@ -2,11 +2,11 @@
 
 #### (a) Establishment
 
-There is established a competitive health care workforce development grant program (referred to in this section as the “program”) for the purpose of enabling State partnerships to complete comprehensive planning and to carry out activities leading to coherent and comprehensive health care workforce development strategies at the State and local levels.
+There is established a competitive health care workforce development grant program (referred to in this section as the "program") for the purpose of enabling State partnerships to complete comprehensive planning and to carry out activities leading to coherent and comprehensive health care workforce development strategies at the State and local levels.
 
 #### (b) Fiscal and administrative agent
 
-The Health Resources and Services Administration of the Department of Health and Human Services (referred to in this section as the “Administration”) shall be the fiscal and administrative agent for the grants awarded under this section. The Administration is authorized to carry out the program, in consultation with the National Health Care Workforce Commission (referred to in this section as the “Commission”), which shall review reports on the development, implementation, and evaluation activities of the grant program, including—
+The Health Resources and Services Administration of the Department of Health and Human Services (referred to in this section as the "Administration") shall be the fiscal and administrative agent for the grants awarded under this section. The Administration is authorized to carry out the program, in consultation with the National Health Care Workforce Commission (referred to in this section as the "Commission"), which shall review reports on the development, implementation, and evaluation activities of the grant program, including—
 
 &emsp;(1) administering the grants;
 
@@ -22,7 +22,7 @@ The Health Resources and Services Administration of the Department of Health and
 
 #### (2) Eligibility
 
-&emsp;To be eligible to receive a planning grant, an entity shall be an eligible partnership. An eligible partnership shall be a State workforce investment board, if it includes or modifies the members to include at least one representative from each of the following: health care employer, labor organization, a public 2-year institution of higher education, a public 4-year institution of higher education, the recognized State federation of labor, the State public secondary education agency, the State P–16 orP–20 Council if such a council exists, and a philanthropic organization that is actively engaged in providing learning, mentoring, and work opportunities to recruit, educate, and train individuals for, and retain individuals in, careers in health care and related industries.
+&emsp;To be eligible to receive a planning grant, an entity shall be an eligible partnership. An eligible partnership shall be a State workforce investment board, if it includes or modifies the members to include at least one representative from each of the following: health care employer, labor organization, a public 2-year institution of higher education, a public 4-year institution of higher education, the recognized State federation of labor, the State public secondary education agency, the State P–16 or P–20 Council if such a council exists, and a philanthropic organization that is actively engaged in providing learning, mentoring, and work opportunities to recruit, educate, and train individuals for, and retain individuals in, careers in health care and related industries.
 
 #### (3) Fiscal and administrative agent
 
@@ -192,7 +192,7 @@ A prior section 294x, act July 1, 1944, ch. 373, title VII, §755, as added Oct.
 
 A prior section 294y, act July 1, 1944, ch. 373, title VII, §756, as added Oct. 12, 1976, Pub. L. 94–484, title IV, §408(b)(1), 90 Stat. 2288, which related to authorization of appropriations, was renumbered section 338F of act July 1, 1944, by Pub. L. 97–35 and transferred to section 254q of this title, and subsequently renumbered section 338G of act July 1, 1944, prior to repeal by Pub. L. 100–177, title II, §§201(2), 203, Dec. 1, 1987, 101 Stat. 992, 999.
 
-A prior section 294y–1, act July 1, 1944, ch. 373, title VII, §757, as added Aug. 1, 1977, Pub. L. 95–83, title III, §307(n)(1), 91 Stat. 392; amended Dec. 17, 1980, Pub. L. 96–537, §3(d), 94 Stat. 3174, which related to Indian Health Scholarships, was renumbered section 338G of act July 1, 1944, by Pub. L. 97–35 and transferred to section 254r of this title, and subsequently renumbered section 338I of act July 1, 1944, by Pub. L. 100–177, prior to repeal by Pub. L. 100–713, title I, §104(b)(1), Nov. 23, 1988, 102 Stat. 4787.
+A prior section 294y–1, act July 1, 1944, ch. 373, title VII, §757, as added Aug. 1, 1977, Pub. L. 95–83, title III,§307(n)(1), 91 Stat. 392; amended Dec. 17, 1980, Pub. L. 96–537, §3(d), 94 Stat. 3174, which related to Indian Health Scholarships, was renumbered section 338G of act July 1, 1944, by Pub. L. 97–35 and transferred to section 254r of this title, and subsequently renumbered section 338I of act July 1, 1944, by Pub. L. 100–177, prior to repeal by Pub. L. 100–713, title I, §104(b)(1), Nov. 23, 1988, 102 Stat. 4787.
 
 Prior sections 294z to 294cc were omitted in the general amendment of this subchapter by Pub. L. 102–408.
 
@@ -208,7 +208,7 @@ Section 294cc, act July 1, 1944, ch. 373, title VII, §761, as added Nov. 6, 199
 
 For definitions of terms used in this section, see section 5002(a) of Pub. L. 111–148, set out as a note under section 294q of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “reasonably”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "reasonably".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “develop”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "develop".</i>
 

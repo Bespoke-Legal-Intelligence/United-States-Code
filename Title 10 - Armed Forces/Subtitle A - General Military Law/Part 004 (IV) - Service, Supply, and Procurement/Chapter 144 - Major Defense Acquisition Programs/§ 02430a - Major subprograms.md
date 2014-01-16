@@ -26,13 +26,13 @@ Requirement to Cover Entire Major Defense Acquisition Program.—If a subprogram
 
 Definitions.—Notwithstanding paragraphs (1) and (2) of section 2432(a) of this title, in the case of a major defense acquisition program for which the Secretary has designated one or more major subprograms under this section for the purposes of this chapter—
 
-&emsp;(1) the term “program acquisition unit cost” applies at the level of the subprogram and means the total cost for the development and procurement of, and specific military construction for, the major defense acquisition program that is reasonably allocable to each such major subprogram, divided by the relevant number of fully-configured end items to be produced under such major subprogram;
+&emsp;(1) the term "program acquisition unit cost" applies at the level of the subprogram and means the total cost for the development and procurement of, and specific military construction for, the major defense acquisition program that is reasonably allocable to each such major subprogram, divided by the relevant number of fully-configured end items to be produced under such major subprogram;
 
-&emsp;(2) the term “procurement unit cost” applies at the level of the subprogram and means the total of all funds programmed to be available for obligation for procurement for each such major subprogram, divided by the number of fully-configured end items to be procured under such major subprogram;
+&emsp;(2) the term "procurement unit cost" applies at the level of the subprogram and means the total of all funds programmed to be available for obligation for procurement for each such major subprogram, divided by the number of fully-configured end items to be procured under such major subprogram;
 
-&emsp;(3) the term “major contract”, with respect to a designated major subprogram, means each of the six largest prime, associate, or Government furnished equipment contracts under the subprogram that is in excess of $40,000,000 and that is not a firm-fixed price contract; and
+&emsp;(3) the term "major contract", with respect to a designated major subprogram, means each of the six largest prime, associate, or Government furnished equipment contracts under the subprogram that is in excess of $40,000,000 and that is not a firm-fixed price contract; and
 
-&emsp;(4) the term “life cycle cost”, with respect to a designated major subprogram, means all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control.
+&emsp;(4) the term "life cycle cost", with respect to a designated major subprogram, means all costs of development, procurement, military construction, and operations and support, without regard to funding source or management control.
 
 (Added Pub. L. 110–417, \[div. A\], title VIII, §811(a)(1), Oct. 14, 2008, 122 Stat. 4520; amended Pub. L. 111–383, div. A, title VIII, §814(a), Jan. 7, 2011, 124 Stat. 4266; Pub. L. 112–81, div. A, title IX, §912, Dec. 31, 2011, 125 Stat. 1536.)
 
@@ -40,5 +40,5 @@ Definitions.—Notwithstanding paragraphs (1) and (2) of section 2432(a) of this
 
 <b>2011</b>—Subsec. (a)(1). Pub. L. 112–81 designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (b). Pub. L. 111–383 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), inserted “(other than as provided in paragraph (2))” before semicolon in subpar. (A), and added par. (2).
+Subsec. (b). Pub. L. 111–383 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), inserted "(other than as provided in paragraph (2))" before semicolon in subpar. (A), and added par. (2).
 

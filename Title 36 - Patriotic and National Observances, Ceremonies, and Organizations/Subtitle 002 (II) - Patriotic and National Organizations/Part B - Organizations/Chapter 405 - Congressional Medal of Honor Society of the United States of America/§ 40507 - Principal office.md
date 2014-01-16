@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 14, 1958, Pub. L. 85–642, §5(a), 72 Stat. 598.
 
-The word “various” is omitted as unnecessary. The word “States” is added for clarity and consistency in the revised title.
+The word "various" is omitted as unnecessary. The word "States" is added for clarity and consistency in the revised title.
 

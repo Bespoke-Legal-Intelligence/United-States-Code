@@ -22,7 +22,7 @@ Within 24 months after November 15, 1990, the Administrator shall conduct an ass
 
 #### (1) Authority to establish visibility transport regions
 
-&emsp;Whenever, upon the Administrator's motion or by petition from the Governors of at least two affected States, the Administrator has reason to believe that the current or projected interstate transport of air pollutants from one or more States contributes significantly to visibility impairment in class I areas located in the affected States, the Administrator may establish a transport region for such pollutants that includes such States. The Administrator, upon the Administrator's own motion or upon petition from the Governor of any affected State, or upon the recommendations ofa transport commission established under subsection (b) of this section <sup>1</sup> may—
+&emsp;Whenever, upon the Administrator's motion or by petition from the Governors of at least two affected States, the Administrator has reason to believe that the current or projected interstate transport of air pollutants from one or more States contributes significantly to visibility impairment in class I areas located in the affected States, the Administrator may establish a transport region for such pollutants that includes such States. The Administrator, upon the Administrator's own motion or upon petition from the Governor of any affected State, or upon the recommendations of a transport commission established under subsection (b) of this section <sup>1</sup> may—
 
 &emsp;&emsp;(A) add any State or portion of a State to a visibility transport region when the Administrator determines that the interstate transport of air pollutants from such State significantly contributes to visibility impairment in a class I area located within the transport region, or
 
@@ -62,7 +62,7 @@ A Visibility Transport Commission—
 
 #### (e) Duties of Administrator
 
-(1) The Administrator shall, taking into account the studies pursuant to subsection (a)(1) of this section and the reports pursuant to subsection (d)(2) of this section and any other relevant information, within eighteen months of receipt of the report referred to in subsection (d)(2) of this section, carry out the Administrator's regulatory responsibilities under section 7491 of this title, including criteria for measuring “reasonable progress” toward the national goal.
+(1) The Administrator shall, taking into account the studies pursuant to subsection (a)(1) of this section and the reports pursuant to subsection (d)(2) of this section and any other relevant information, within eighteen months of receipt of the report referred to in subsection (d)(2) of this section, carry out the Administrator's regulatory responsibilities under section 7491 of this title, including criteria for measuring "reasonable progress" toward the national goal.
 
 (2) Any regulations promulgated under section 7491 of this title pursuant to this subsection shall require affected States to revise within 12 months their implementation plans under section 7410 of this title to contain such emission limits, schedules of compliance, and other measures as may be necessary to carry out regulations promulgated pursuant to this subsection.
 
@@ -78,7 +78,7 @@ The Clean Air Act Amendments of 1990, referred to in subsec. (b), probably means
 
 The Federal Advisory Committee Act, referred to in subsec. (c)(4), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Words “subsection (b) of this section” probably should be “paragraph (2)”.</i>
+<i><sup>1</sup></i><i> So in original. Words "subsection (b) of this section" probably should be "paragraph (2)".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
 

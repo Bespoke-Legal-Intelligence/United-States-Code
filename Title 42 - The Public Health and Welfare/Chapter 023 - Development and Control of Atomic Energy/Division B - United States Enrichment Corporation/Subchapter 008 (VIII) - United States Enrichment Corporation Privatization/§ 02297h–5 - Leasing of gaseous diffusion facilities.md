@@ -6,7 +6,7 @@ Concurrent with privatization, the Corporation shall transfer to the private cor
 
 #### (b) Renewal
 
-The private corporation shall have the exclusive option to lease the gaseous diffusion plantsand related property for additional periods following the expiration of the initial term of the lease.
+The private corporation shall have the exclusive option to lease the gaseous diffusion plants and related property for additional periods following the expiration of the initial term of the lease.
 
 #### (c) Exclusion of facilities for production of highly enriched uranium
 
@@ -38,7 +38,7 @@ The execution or transfer of the lease between the Secretary and the Corporation
 
 &emsp;(A) The costs of arming and providing arrest authority to the security police officers required under paragraph (1) shall be paid as follows:
 
-&emsp;&emsp;(i) the Department of Energy (the “Department”) shall pay the percentage of the costs equal to the percentage of the total number of employees at the gaseous diffusion plant who are: (I) employees of the Department or the contractor or subcontractors of the Department; or (II) employees of the private entity leasing the gaseous diffusion plant who perform work on behalf of the Department (including employees of a contractor or subcontractor of the private entity); and
+&emsp;&emsp;(i) the Department of Energy (the "Department") shall pay the percentage of the costs equal to the percentage of the total number of employees at the gaseous diffusion plant who are: (I) employees of the Department or the contractor or subcontractors of the Department; or (II) employees of the private entity leasing the gaseous diffusion plant who perform work on behalf of the Department (including employees of a contractor or subcontractor of the private entity); and
 
 &emsp;&emsp;(ii) the private entity leasing the gaseous diffusion plant shall pay the percentage of the costs equal to the percentage of the total number of employees at the gaseous diffusion plant who are employees of the private entity (including employees of a contractor or subcontractor) other than those employees who perform work for the Department.
 
@@ -50,7 +50,7 @@ The execution or transfer of the lease between the Secretary and the Corporation
 
 #### References in Text
 
-The Atomic Energy Act of 1954, referred to in subsec. (c), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to this chapter (§2011 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (c), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to this chapter (§2011 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Codification
 
@@ -58,7 +58,7 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 #### Amendments
 
-<b>1998</b>—Subsec. (h). Pub. L. 105–245 substituted “all security police officers” for “an adequate number of security guards” in par. (1) and added par. (2).
+<b>1998</b>—Subsec. (h). Pub. L. 105–245 substituted "all security police officers" for "an adequate number of security guards" in par. (1) and added par. (2).
 
 <b>1997</b>—Subsec. (h). Pub. L. 105–62 added subsec. (h).
 

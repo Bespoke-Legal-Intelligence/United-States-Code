@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 40:103.
 
-June 20, 1878, ch. 359 (proviso in 2d par. under heading “Building and Grounds in and Around Washington and the Executive Mansion”), 20 Stat. 220.
+June 20, 1878, ch. 359 (proviso in 2d par. under heading "Building and Grounds in and Around Washington and the Executive Mansion"), 20 Stat. 220.
 
-The words “On and after June 20, 1878” are omitted as obsolete. The words “Only those trees, shrubs, and plants shall be planted in the public reservations” are substituted for “to which purpose only the said productions of the greenhouses and nursery shall be applied” for clarity.
+The words "On and after June 20, 1878" are omitted as obsolete. The words "Only those trees, shrubs, and plants shall be planted in the public reservations" are substituted for "to which purpose only the said productions of the greenhouses and nursery shall be applied" for clarity.
 

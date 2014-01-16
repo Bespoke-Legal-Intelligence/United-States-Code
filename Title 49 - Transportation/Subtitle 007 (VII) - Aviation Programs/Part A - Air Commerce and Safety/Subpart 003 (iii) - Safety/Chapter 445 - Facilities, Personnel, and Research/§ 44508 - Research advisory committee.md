@@ -74,15 +74,15 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §312(f); added Nov. 3, 1988, Pub
 
 49 App.:1353(f)(9).
 
-In subsection (a)(1), before clause (A), the words “There is a” are substituted for “Not later than 180 days after November 3, 1988, the Administrator shall establish” to eliminate obsolete words. In clause (C), the words “operations of” are substituted for “research and training to be carried out by” for consistency with section 44513 of the revised title.
+In subsection (a)(1), before clause (A), the words "There is a" are substituted for "Not later than 180 days after November 3, 1988, the Administrator shall establish" to eliminate obsolete words. In clause (C), the words "operations of" are substituted for "research and training to be carried out by" for consistency with section 44513 of the revised title.
 
-In subsection (a)(2), the words “to the advisory committee” are omitted as surplus.
+In subsection (a)(2), the words "to the advisory committee" are omitted as surplus.
 
-In subsection (b)(1), the words “departments, agencies, and instrumentalities” are substituted for “agencies” for consistency in the revised title and with other titles of the United States Code.
+In subsection (b)(1), the words "departments, agencies, and instrumentalities" are substituted for "agencies" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b)(3), the words “travel or transportation” are omitted as surplus.
+In subsection (b)(3), the words "travel or transportation" are omitted as surplus.
 
-In subsection (e), the words “for fiscal years beginning after September 30, 1988” are omitted as obsolete.
+In subsection (e), the words "for fiscal years beginning after September 30, 1988" are omitted as obsolete.
 
 #### References in Text
 
@@ -94,5 +94,5 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (d), is
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construedas affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 

@@ -1,6 +1,6 @@
 ### §1123. Resource inventory and assessment program
 
-(a) The Chairman shall initiate a resource inventory and assessment program with the objective of making regional and national appraisalsof all types of geothermal resources, including identification of promising target areas for industrial exploration and development. The specific goals shall include—
+(a) The Chairman shall initiate a resource inventory and assessment program with the objective of making regional and national appraisals of all types of geothermal resources, including identification of promising target areas for industrial exploration and development. The specific goals shall include—
 
 &emsp;(1) the improvement of geophysical, geochemical, geological, and hydrological techniques necessary for locating and evaluating geothermal resources;
 
@@ -26,9 +26,9 @@
 
 #### Amendments
 
-<b>1978</b>—Subsec. (b)(4). Pub. L. 95–238 inserted “or administrative regulations” after “legislation” and “, environmental and taxing” after “leasing”.
+<b>1978</b>—Subsec. (b)(4). Pub. L. 95–238 inserted "or administrative regulations" after "legislation" and ", environmental and taxing" after "leasing".
 
 #### Change of Name
 
-“United States Geological Survey” substituted for “Geological Survey” in subsec. (b) pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
+"United States Geological Survey" substituted for "Geological Survey" in subsec. (b) pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
 

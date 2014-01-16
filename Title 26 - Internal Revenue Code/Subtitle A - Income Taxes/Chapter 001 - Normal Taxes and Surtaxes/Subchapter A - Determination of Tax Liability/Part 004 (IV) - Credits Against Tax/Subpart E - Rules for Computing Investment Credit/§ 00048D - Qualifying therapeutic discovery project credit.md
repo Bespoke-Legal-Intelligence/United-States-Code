@@ -40,7 +40,7 @@ For purposes of section 46, the qualifying therapeutic discovery project credit 
 
 #### (1) Qualifying therapeutic discovery project
 
-&emsp;The term “qualifying therapeutic discovery project” means a project which is designed—
+&emsp;The term "qualifying therapeutic discovery project" means a project which is designed—
 
 &emsp;&emsp;(A) to treat or prevent diseases or conditions by conducting pre-clinical activities, clinical trials, and clinical studies, or carrying out research protocols, for the purpose of securing approval of a product under section 505(b) of the Federal Food, Drug, and Cosmetic Act or section 351(a) of the Public Health Service Act,
 
@@ -52,7 +52,7 @@ For purposes of section 46, the qualifying therapeutic discovery project credit 
 
 #### (A) In general
 
-&emsp;&emsp;The term “eligible taxpayer” means a taxpayer which employs not more than 250 employees in all businesses of the taxpayer at the time of the submission of the application under subsection (d)(2).
+&emsp;&emsp;The term "eligible taxpayer" means a taxpayer which employs not more than 250 employees in all businesses of the taxpayer at the time of the submission of the application under subsection (d)(2).
 
 #### (B) Aggregation rules
 
@@ -60,7 +60,7 @@ For purposes of section 46, the qualifying therapeutic discovery project credit 
 
 #### (3) Facility maintenance expenses
 
-&emsp;The term “facility maintenance expenses” means costs paid or incurred to maintain a facility, including—
+&emsp;The term "facility maintenance expenses" means costs paid or incurred to maintain a facility, including—
 
 &emsp;&emsp;(A) mortgage or rent payments,
 
@@ -192,105 +192,105 @@ Section applicable to amounts paid or incurred after Dec. 31, 2008, in taxable y
 
 Pub. L. 111–148, title IX, §9023(e), Mar. 23, 2010, 124 Stat. 881, provided that:
 
-“(1)
+"(1)
 
 In general.—Upon application, the Secretary of the Treasury shall, subject to the requirements of this subsection, provide a grant to each person who makes a qualified investment in a qualifying therapeutic discovery project in the amount of 50 percent of such investment. No grant shall be made under this subsection with respect to any investment unless such investment is made during a taxable year beginning in 2009 or 2010.
 
-“(2)
+"(2)
 
 Application.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—At the stated election of the applicant, an application for certification under section 48D(d)(2) of the Internal Revenue Code of 1986 for a credit under such section for the taxable year of the applicant which begins in 2009 shall be considered to be an application for a grant under paragraph (1) for such taxable year.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Taxable years beginning in 2010.—An application for a grant under paragraph (1) for a taxable year beginning in 2010 shall be submitted—
 
-&emsp;&emsp;“(i) not earlier than the day after the last day of such taxable year, and
+&emsp;&emsp;"(i) not earlier than the day after the last day of such taxable year, and
 
-&emsp;&emsp;“(ii) not later than the due date (including extensions) for filing the return of tax for such taxable year.
+&emsp;&emsp;"(ii) not later than the due date (including extensions) for filing the return of tax for such taxable year.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Information to be submitted.—An application for a grant under paragraph (1) shall include such information and be in such form as the Secretary may require to state the amount of the credit allowable (but for the receipt of a grant under this subsection) under section 48D for the taxable year for the qualified investment with respect to which such application is made.
 
-“(3)
+"(3)
 
 Time for payment of grant.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The Secretary of the Treasury shall make payment of the amount of any grant under paragraph (1) during the 30-day period beginning on the later of—
 
-&emsp;&emsp;“(i) the date of the application for such grant, or
+&emsp;&emsp;"(i) the date of the application for such grant, or
 
-&emsp;&emsp;“(ii) the date the qualified investment for which the grant is being made is made.
+&emsp;&emsp;"(ii) the date the qualified investment for which the grant is being made is made.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Regulations.—In the case of investments of an ongoing nature, the Secretary shall issue regulations to determine the date on which a qualified investment shall be deemed to have been made for purposes of this paragraph.
 
-“(4)
+"(4)
 
-Qualified investment.—For purposes of this subsection, the term ‘qualified investment’ means a qualified investment that is certified under section 48D(d) of the Internal Revenue Code of 1986 for purposes of the credit under such section 48D.
+Qualified investment.—For purposes of this subsection, the term 'qualified investment' means a qualified investment that is certified under section 48D(d) of the Internal Revenue Code of 1986 for purposes of the credit under such section 48D.
 
-“(5)
+"(5)
 
 Application of certain rules.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—In making grants under this subsection, the Secretary of the Treasury shall apply rules similar to the rules of section 50 of the Internal Revenue Code of 1986. In applying such rules, any increase in tax under chapter 1 of such Code by reason of an investment ceasing to be a qualified investment shall be imposed on the person to whom the grant was made.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Special rules.—
 
-&emsp;&emsp;“(i)
+&emsp;&emsp;"(i)
 
 Recapture of excessive grant amounts.—If the amount of a grant made under this subsection exceeds the amount allowable as a grant under this subsection, such excess shall be recaptured under subparagraph (A) as if the investment to which such excess portion of the grant relates had ceased to be a qualified investment immediately after such grant was made.
 
-&emsp;&emsp;“(ii)
+&emsp;&emsp;"(ii)
 
 Grant information not treated as return information.—In no event shall the amount of a grant made under paragraph (1), the identity of the person to whom such grant was made, or a description of the investment with respect to which such grant was made be treated as return information for purposes of section 6103 of the Internal Revenue Code of 1986.
 
-“(6)
+"(6)
 
 Exception for certain non-taxpayers.—The Secretary of the Treasury shall not make any grant under this subsection to—
 
-&emsp;“(A) any Federal, State, or local government (or any political subdivision, agency, or instrumentality thereof),
+&emsp;"(A) any Federal, State, or local government (or any political subdivision, agency, or instrumentality thereof),
 
-&emsp;“(B) any organization described in section 501(c) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code,
+&emsp;"(B) any organization described in section 501(c) of the Internal Revenue Code of 1986 and exempt from tax under section 501(a) of such Code,
 
-&emsp;“(C) any entity referred to in paragraph (4) of section 54(j) of such Code, or
+&emsp;"(C) any entity referred to in paragraph (4) of section 54(j) of such Code, or
 
-&emsp;“(D) any partnership or other pass-thru entity any partner (or other holder of an equity or profits interest) of which is described in subparagraph (A), (B) or (C).
+&emsp;"(D) any partnership or other pass-thru entity any partner (or other holder of an equity or profits interest) of which is described in subparagraph (A), (B) or (C).
 
 > In the case of a partnership or other pass-thru entity described in subparagraph (D), partners and other holders of any equity or profits interest shall provide to such partnership or entity such information as the Secretary of the Treasury may require to carry out the purposes of this paragraph.
 
-“(7)
+"(7)
 
 Secretary.—Any reference in this subsection to the Secretary of the Treasury shall be treated as including the Secretary's delegate.
 
-“(8)
+"(8)
 
 Other terms.—Any term used in this subsection which is also used in section 48D of the Internal Revenue Code of 1986 shall have the same meaning for purposes of this subsection as when used in such section.
 
-“(9)
+"(9)
 
 Denial of double benefit.—No credit shall be allowed under section 46(6) of the Internal Revenue Code of 1986 by reason of section 48D of such Code for any investment for which a grant is awarded under this subsection.
 
-“(10)
+"(10)
 
 Appropriations.—There is hereby appropriated to the Secretary of the Treasury such sums as may be necessary to carry out this subsection.
 
-“(11)
+"(11)
 
 Termination.—The Secretary of the Treasury shall not make any grant to any person under this subsection unless the application of such person for such grant is received before January 1, 2013.
 
-“(12)
+"(12)
 
-Protecting middle class families from tax increases.—It is the sense of the Senate that the Senate should reject any procedural maneuver that would raise taxes on middle class families, such as a motion to commit the pending legislation to the Committee on Finance, which is designed to kill legislation that provides tax cuts for American workers and families, including the affordability tax credit and the small business tax credit.”
+Protecting middle class families from tax increases.—It is the sense of the Senate that the Senate should reject any procedural maneuver that would raise taxes on middle class families, such as a motion to commit the pending legislation to the Committee on Finance, which is designed to kill legislation that provides tax cuts for American workers and families, including the affordability tax credit and the small business tax credit."
 

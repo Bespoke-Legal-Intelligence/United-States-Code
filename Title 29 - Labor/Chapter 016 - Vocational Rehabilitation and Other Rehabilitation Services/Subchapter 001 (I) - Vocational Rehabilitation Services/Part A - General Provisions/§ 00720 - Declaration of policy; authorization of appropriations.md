@@ -56,9 +56,9 @@
 
 &emsp;&emsp;(D) Families and other natural supports can play important roles in the success of a vocational rehabilitation program, if the individual with a disability involved requests, desires, or needs such supports.
 
-&emsp;&emsp;(E) Vocational rehabilitation counselors that are trained and prepared in accordance with State policies and procedures as described in section 721(a)(7)(B) of this title (referred to individually in this subchapter as a “qualified vocational rehabilitation counselor”), other qualified rehabilitation personnel, and other qualified personnel facilitate the accomplishment of the employment outcomes and objectives of an individual.
+&emsp;&emsp;(E) Vocational rehabilitation counselors that are trained and prepared in accordance with State policies and procedures as described in section 721(a)(7)(B) of this title (referred to individually in this subchapter as a "qualified vocational rehabilitation counselor"), other qualified rehabilitation personnel, and other qualified personnel facilitate the accomplishment of the employment outcomes and objectives of an individual.
 
-&emsp;&emsp;(F) Individuals with disabilities and the individuals’ representatives are full partners in a vocational rehabilitation program and must be involved on a regular basis and in a meaningful manner with respect to policy development and implementation.
+&emsp;&emsp;(F) Individuals with disabilities and the individuals' representatives are full partners in a vocational rehabilitation program and must be involved on a regular basis and in a meaningful manner with respect to policy development and implementation.
 
 &emsp;&emsp;(G) Accountability measures must facilitate the accomplishment of the goals and objectives of the program, including providing vocational rehabilitation services to, among others, individuals with the most significant disabilities.
 
@@ -90,7 +90,7 @@
 
 #### (3) Definition
 
-&emsp;For purposes of this section, the term “Consumer Price Index” means the Consumer Price Index for All Urban Consumers, published monthly by the Bureau of Labor Statistics.
+&emsp;For purposes of this section, the term "Consumer Price Index" means the Consumer Price Index for All Urban Consumers, published monthly by the Bureau of Labor Statistics.
 
 #### (d) Extension
 

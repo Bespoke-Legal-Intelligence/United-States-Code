@@ -22,3 +22,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 (Pub. L. 109–55, title I, §1306, Aug. 2, 2005, 119 Stat. 583.)
 
+#### Codification
+
+Section is from the Legislative Branch Appropriations Act, 2006.
+

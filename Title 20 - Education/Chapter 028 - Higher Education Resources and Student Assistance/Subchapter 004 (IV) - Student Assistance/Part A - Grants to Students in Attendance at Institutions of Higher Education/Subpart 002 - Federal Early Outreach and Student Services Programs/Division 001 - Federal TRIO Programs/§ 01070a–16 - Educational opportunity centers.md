@@ -6,7 +6,7 @@ The Secretary shall carry out a program to be known as educational opportunity c
 
 &emsp;(1) to provide information with respect to financial and academic assistance available for individuals desiring to pursue a program of postsecondary education;
 
-&emsp;(2) to provide assistance to such persons in applying for admission to institutions at which a program of postsecondary education is offered, including preparing necessary applications for use by admissions and financial aid officers; and
+&emsp;(2) to provide assistance to such persons in applying for admission to institutions atwhich a program of postsecondary education is offered, including preparing necessary applications for use by admissions and financial aid officers; and
 
 &emsp;(3) to improve the financial literacy and economic literacy of students, including—
 
@@ -58,13 +58,13 @@ In approving applications for educational opportunity centers under this section
 
 Subsec. (b)(5), (6). Pub. L. 110–315, §403(f)(2)(A), (B), added par. (5) and redesignated former par. (5) as (6). Former par. (6) redesignated (7).
 
-Subsec. (b)(7). Pub. L. 110–315, §403(f)(2)(C), added par. (7) and struck out former par. (7) which read as follows: “personal counseling;”.
+Subsec. (b)(7). Pub. L. 110–315, §403(f)(2)(C), added par. (7) and struck out former par. (7) which read as follows: "personal counseling;".
 
 Pub. L. 110–315, §403(f)(2)(A), redesignated former par. (6) as (7). Former par. (7) redesignated (8).
 
 Subsec. (b)(8) to (10). Pub. L. 110–315, §403(f)(2)(A), redesignated pars. (7) to (9) as (8) to (10), respectively. Former par. (10) redesignated (11).
 
-Subsec. (b)(11). Pub. L. 110–315, §403(f)(2)(D), added par. (11) and struck out former par. (11) which read as follows: “programs and activities as described in paragraphs (1) through (9) which are specially designed for students of limited English proficiency.”
+Subsec. (b)(11). Pub. L. 110–315, §403(f)(2)(D), added par. (11) and struck out former par. (11) which read as follows: "programs and activities as described in paragraphs (1) through (9) which are specially designed for students of limited English proficiency."
 
 Pub. L. 110–315, §403(f)(2)(A), redesignated par. (10) as (11).
 

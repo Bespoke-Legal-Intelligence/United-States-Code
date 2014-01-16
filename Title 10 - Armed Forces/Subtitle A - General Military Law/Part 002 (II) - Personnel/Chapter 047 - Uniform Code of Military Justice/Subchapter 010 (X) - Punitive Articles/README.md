@@ -59,7 +59,7 @@
 | [923\.](%C2%A7%2000923%20-%20Art.%20123.%20Forgery.md) | 123\. | Forgery. |
 | [923a.](%C2%A7%2000923a%20-%20Art.%20123a.%20Making%2C%20drawing%2C%20or%20uttering%20check%2C%20draft%2C%20or%20order%20without%20sufficient%20funds.md) | 123a. | Making, drawing, or uttering check, draft, or order without sufficient funds. |
 | [924\.](%C2%A7%2000924%20-%20Art.%20124.%20Maiming.md) | 124\. | Maiming. |
-| [925\.](%C2%A7%2000925%20-%20Art.%20125.%20Sodomy.md) | 125\. | Sodomy. |
+| [925\.](%C2%A7%2000925%20-%20Art%20125.%20Forcible%20sodomy%3B%20bestiality.md) | 125\. | Forcible sodomy; bestiality. |
 | [926\.](%C2%A7%2000926%20-%20Art.%20126.%20Arson.md) | 126\. | Arson. |
 | [927\.](%C2%A7%2000927%20-%20Art.%20127.%20Extortion.md) | 127\. | Extortion. |
 | [928\.](%C2%A7%2000928%20-%20Art.%20128.%20Assault.md) | 128\. | Assault. |
@@ -72,19 +72,21 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, div. A, title V, §541(e), Dec. 31, 2011, 125 Stat. 1410, substituted “Rape and sexual assault generally” for “Rape, sexual assault, and other sexual misconduct” in item 920 and added items 920b and 920c.
+<b>2013</b>—Pub. L. 113–66, div. A, title XVII, §1707(b), Dec. 26, 2013, 127 Stat. 961, substituted "Forcible sodomy; bestiality" for "Sodomy" in item 925.
 
-<b>2006</b>—Pub. L. 109–163, div. A, title V, §552(a)(2), Jan. 6, 2006, 119 Stat. 3262, substituted “Rape, sexual assault, and other sexual misconduct” for “Rape and carnal knowledge” in item 920.
+<b>2011</b>—Pub. L. 112–81, div. A, title V, §541(e), Dec. 31, 2011, 125 Stat. 1410, substituted "Rape and sexual assault generally" for "Rape, sexual assault, and other sexual misconduct" in item 920 and added items 920b and 920c.
+
+<b>2006</b>—Pub. L. 109–163, div. A, title V, §552(a)(2), Jan. 6, 2006, 119 Stat. 3262, substituted "Rape, sexual assault, and other sexual misconduct" for "Rape and carnal knowledge" in item 920.
 
 Pub. L. 109–163, div. A, title V, §551(a)(2), Jan. 6, 2006, 119 Stat. 3256, added item 920a.
 
 <b>2004</b>—Pub. L. 108–212, §3(b), Apr. 1, 2004, 118 Stat. 570, added item 919a.
 
-<b>1997</b>—Pub. L. 105–85, div. A, title X, §1073(a)(10), Nov. 18, 1997, 111 Stat. 1900, struck out “Art.” before “95” in item 895.
+<b>1997</b>—Pub. L. 105–85, div. A, title X, §1073(a)(10), Nov. 18, 1997, 111 Stat. 1900, struck out "Art." before "95" in item 895.
 
-<b>1996</b>—Pub. L. 104–106, div. A, title XI, §1112(b), Feb. 10, 1996, 110 Stat. 461, inserted “flight,” after “Resistance,” in item 895.
+<b>1996</b>—Pub. L. 104–106, div. A, title XI, §1112(b), Feb. 10, 1996, 110 Stat. 461, inserted "flight," after "Resistance," in item 895.
 
-<b>1992</b>—Pub. L. 102–484, div. A, title X, §1066(a)(2), Oct. 23, 1992, 106 Stat. 2506, substituted “operation of a vehicle, aircraft, or vessel” for “driving” in item 911.
+<b>1992</b>—Pub. L. 102–484, div. A, title X, §1066(a)(2), Oct. 23, 1992, 106 Stat. 2506, substituted "operation of a vehicle, aircraft, or vessel" for "driving" in item 911.
 
 <b>1985</b>—Pub. L. 99–145, title V, §534(b), Nov. 8, 1985, 99 Stat. 635, added item 906a.
 
@@ -152,7 +154,7 @@ Pub. L. 109–163, div. A, title V, §551(a)(2), Jan. 6, 2006, 119 Stat. 3256, a
 - [&sect; 00923 - Art. 123. Forgery](%C2%A7%2000923%20-%20Art.%20123.%20Forgery.md)
 - [&sect; 00923a - Art. 123a. Making, drawing, or uttering check, draft, or order without sufficient funds](%C2%A7%2000923a%20-%20Art.%20123a.%20Making%2C%20drawing%2C%20or%20uttering%20check%2C%20draft%2C%20or%20order%20without%20sufficient%20funds.md)
 - [&sect; 00924 - Art. 124. Maiming](%C2%A7%2000924%20-%20Art.%20124.%20Maiming.md)
-- [&sect; 00925 - Art. 125. Sodomy](%C2%A7%2000925%20-%20Art.%20125.%20Sodomy.md)
+- [&sect; 00925 - Art 125. Forcible sodomy; bestiality](%C2%A7%2000925%20-%20Art%20125.%20Forcible%20sodomy%3B%20bestiality.md)
 - [&sect; 00926 - Art. 126. Arson](%C2%A7%2000926%20-%20Art.%20126.%20Arson.md)
 - [&sect; 00927 - Art. 127. Extortion](%C2%A7%2000927%20-%20Art.%20127.%20Extortion.md)
 - [&sect; 00928 - Art. 128. Assault](%C2%A7%2000928%20-%20Art.%20128.%20Assault.md)

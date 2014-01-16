@@ -6,9 +6,9 @@ The United States district courts shall have jurisdiction to restrain (1) any vi
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–140 inserted after second sentence “Any such action to restrain any person from distributing in commerce a general service incandescent lamp that does not comply with the applicable standard established under section 6295(i) of this title or an adapter prohibited under section 6302(a)(6) of this title may also be brought by the attorney general of a State in the name of the State.”
+<b>2007</b>—Pub. L. 110–140 inserted after second sentence "Any such action to restrain any person from distributing in commerce a general service incandescent lamp that does not comply with the applicable standard established under section 6295(i) of this title or an adapter prohibited under section 6302(a)(6) of this title may also be brought by the attorney general of a State in the name of the State."
 
-<b>1978</b>—Pub. L. 95–619 substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Pub. L. 95–619 substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 #### Effective Date of 2007 Amendment
 

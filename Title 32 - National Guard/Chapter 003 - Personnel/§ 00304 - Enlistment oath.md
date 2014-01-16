@@ -2,9 +2,9 @@
 
 Each person enlisting in the National Guard shall sign an enlistment contract and subscribe to the following oath:
 
-&emsp;“I do hereby acknowledge to have voluntarily enlisted this \_\_\_\_ day of \_\_\_\_\_\_\_\_, 19\_\_, in the \_\_\_\_\_\_\_\_\_\_\_\_ National Guard of the State of \_\_\_\_\_\_\_\_\_\_\_\_ for a period of \_\_\_\_ year(s) under the conditions prescribed by law, unless sooner discharged by proper authority.
+&emsp;"I do hereby acknowledge to have voluntarily enlisted this \_\_\_\_ day of \_\_\_\_\_\_\_\_, 19\_\_, in the \_\_\_\_\_\_\_\_\_\_\_\_ National Guard of the State of \_\_\_\_\_\_\_\_\_\_\_\_ for a period of \_\_\_\_ year(s) under the conditions prescribed by law, unless sooner discharged by proper authority.
 
-&emsp;“I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States and of the State of \_\_\_\_\_\_\_\_\_\_\_\_ against all enemies, foreign and domestic; that I will bear true faith and allegiance to them; and that I will obey the orders of the President of the United States and the Governor of \_\_\_\_\_\_\_\_\_\_\_\_ and the orders of the officers appointed over me, according to law and regulations. So help me God.”
+&emsp;"I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States and of the State of \_\_\_\_\_\_\_\_\_\_\_\_ against all enemies, foreign and domestic; that I will bear true faith and allegiance to them; and that I will obey the orders of the President of the United States and the Governor of \_\_\_\_\_\_\_\_\_\_\_\_ and the orders of the officers appointed over me, according to law and regulations. So help me God."
 
 > The oath may be taken before any officer of the National Guard of the State or Territory, or of Puerto Rico, or the District of Columbia, as the case may be, or before any other person authorized by the law of the jurisdiction concerned to administer oaths of enlistment in the National Guard.
 
@@ -24,13 +24,13 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §70; restated June 4, 1920, ch. 227, subch. I, §38; restated June 15, 1933, ch. 87, §8, 48 Stat. 156; June 19, 1935, ch. 277, §3, 49 Stat. 391; July 9, 1952, ch. 608, §806(b), 66 Stat. 506.
 
-The words “or affirmation” are omitted as covered by the definition of the word “oath” in section 1 of title 1. The words “Each person” are substituted for the word “Men”. The words “\_\_\_\_\_\_\_\_\_\_\_\_ National Guard” are substituted for the words “National Guard (Air National Guard)”.
+The words "or affirmation" are omitted as covered by the definition of the word "oath" in section 1 of title 1. The words "Each person" are substituted for the word "Men". The words "\_\_\_\_\_\_\_\_\_\_\_\_ National Guard" are substituted for the words "National Guard (Air National Guard)".
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Pub. L. 100–456 struck out "the Canal Zone," after "Puerto Rico,".
 
-<b>1962</b>—Pub. L. 87–751 substituted “support and defend the Constitution of the United States and of the State of \_\_\_\_\_\_\_\_\_\_\_\_ against all enemies, foreign and domestic; that I will bear true faith and allegiance to them” for “bear true faith and allegiance to the United States of America and to the State of \_\_\_\_\_\_\_\_\_\_\_\_: That I will serve them honestly and faithfully against all their enemies whomsoever” and inserted “So help me God.”
+<b>1962</b>—Pub. L. 87–751 substituted "support and defend the Constitution of the United States and of the State of \_\_\_\_\_\_\_\_\_\_\_\_ against all enemies, foreign and domestic; that I will bear true faith and allegiance to them" for "bear true faith and allegiance to the United States of America and to the State of \_\_\_\_\_\_\_\_\_\_\_\_: That I will serve them honestly and faithfully against all their enemies whomsoever" and inserted "So help me God."
 
 #### Effective Date of 1962 Amendment
 

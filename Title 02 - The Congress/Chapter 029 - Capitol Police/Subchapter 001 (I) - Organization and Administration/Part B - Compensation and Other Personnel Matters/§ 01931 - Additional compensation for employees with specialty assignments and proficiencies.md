@@ -10,11 +10,11 @@ In addition to the regularly scheduled rate of basic pay, each employee holding 
 
 &emsp;(1) such amount may not exceed 25 percent of the employee's annual rate of basic pay; and
 
-&emsp;(2) such amount may not be paid in a calendar year to the extent that, when added to the total basic pay paid or payable to such employee for service performed in the year, such amount would cause the total to exceed the annual rate of basic pay payable for level II of the Executive Schedule, as of the end of such year.
+&emsp;(2) such amount may not be paid in a calendar year to the extent that, when added to the total basic pay paid or payable to such employee for service performed in the year, such amount would cause the total to exceed theannual rate of basic pay payable for level II of the Executive Schedule, as of the end of such year.
 
 #### (c) Manner of payment
 
-The additional compensation authorized by this subsection shall be paid to an employee ina manner determined by the Chief or his designee except when the employee ceases to be assigned to the specialty assignment or ceases to maintain the required proficiency. The loss of such additional compensation shall not constitute an adverse action for any purpose.
+The additional compensation authorized by this subsection shall be paid to an employee in a manner determined by the Chief or his designee except when the employee ceases to be assigned to the specialty assignment or ceases to maintain the required proficiency. The loss of such additional compensation shall not constitute an adverse action for any purpose.
 
 #### (d) Determination not appealable or reviewable
 

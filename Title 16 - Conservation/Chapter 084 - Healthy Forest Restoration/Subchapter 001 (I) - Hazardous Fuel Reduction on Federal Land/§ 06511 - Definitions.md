@@ -4,11 +4,11 @@ In this subchapter:
 
 #### (1) At-risk community
 
-&emsp;The term “at-risk community” means an area—
+&emsp;The term "at-risk community" means an area—
 
 &emsp;&emsp;(A) that is comprised of—
 
-&emsp;&emsp;&emsp;(i) an interface community as defined in the notice entitled “Wildland Urban Interface Communities Within the Vicinity of Federal Lands That Are at High Risk From Wildfire” issued by the Secretary of Agriculture and the Secretary of the Interior in accordance with title IV of the Department of the Interior and Related Agencies Appropriations Act, 2001 (114 Stat. 1009) (66 Fed. Reg. 753, January 4, 2001); or
+&emsp;&emsp;&emsp;(i) an interface community as defined in the notice entitled "Wildland Urban Interface Communities Within the Vicinity of Federal Lands That Are at High Risk From Wildfire" issued by the Secretary of Agriculture and the Secretary of the Interior in accordance with title IV of the Department of the Interior and Related Agencies Appropriations Act, 2001 (114 Stat. 1009) (66 Fed. Reg. 753, January 4, 2001); or
 
 &emsp;&emsp;&emsp;(ii) a group of homes and other structures with basic infrastructure and services (such as utilities and collectively maintained transportation routes) within or adjacent to Federal land;
 
@@ -18,11 +18,11 @@ In this subchapter:
 
 #### (2) Authorized hazardous fuel reduction project
 
-&emsp;The term “authorized hazardous fuel reduction project” means the measures and methods described in the definition of “appropriate tools” contained in the glossary of the Implementation Plan, on Federal land described in section 6512(a) of this title and conducted under sections 6513 and 6514 of this title.
+&emsp;The term "authorized hazardous fuel reduction project" means the measures and methods described in the definition of "appropriate tools" contained in the glossary of the Implementation Plan, on Federal land described in section 6512(a) of this title and conducted under sections 6513 and 6514 of this title.
 
 #### (3) Community wildfire protection plan
 
-&emsp;The term “community wildfire protection plan” means a plan for an at-risk community that—
+&emsp;The term "community wildfire protection plan" means a plan for an at-risk community that—
 
 &emsp;&emsp;(A) is developed within the context of the collaborative agreements and the guidance established by the Wildland Fire Leadership Council and agreed to by the applicable local government, local fire department, and State agency responsible for forest management, in consultation with interested parties and the Federal land management agencies managing land in the vicinity of the at-risk community;
 
@@ -32,7 +32,7 @@ In this subchapter:
 
 #### (4) Condition class 2
 
-&emsp;The term “condition class 2”, with respect to an area of Federal land, means the condition class description developed by the Forest Service Rocky Mountain Research Station in the general technical report entitled “Development of Coarse-Scale Spatial Data for Wildland Fire and Fuel Management” (RMRS–87), dated April 2000 (including any subsequent revision to the report), under which—
+&emsp;The term "condition class 2", with respect to an area of Federal land, means the condition class description developed by the Forest Service Rocky Mountain Research Station in the general technical report entitled "Development of Coarse-Scale Spatial Data for Wildland Fire and Fuel Management" (RMRS–87), dated April 2000 (including any subsequent revision to the report), under which—
 
 &emsp;&emsp;(A) fire regimes on the land have been moderately altered from historical ranges;
 
@@ -48,7 +48,7 @@ In this subchapter:
 
 #### (5) Condition class 3
 
-&emsp;The term “condition class 3”, with respect to an area of Federal land, means the condition class description developed by the Rocky Mountain Research Station in the general technical report referred to in paragraph (4) (including any subsequent revision to the report), under which—
+&emsp;The term "condition class 3", with respect to an area of Federal land, means the condition class description developed by the Rocky Mountain Research Station in the general technical report referred to in paragraph (4) (including any subsequent revision to the report), under which—
 
 &emsp;&emsp;(A) fire regimes on land have been significantly altered from historical ranges;
 
@@ -64,7 +64,7 @@ In this subchapter:
 
 #### (6) Day
 
-&emsp;The term “day” means—
+&emsp;The term "day" means—
 
 &emsp;&emsp;(A) a calendar day; or
 
@@ -72,7 +72,7 @@ In this subchapter:
 
 #### (7) Decision document
 
-&emsp;The term “decision document” means—
+&emsp;The term "decision document" means—
 
 &emsp;&emsp;(A) a decision notice (as that term is used in the Forest Service Handbook);
 
@@ -82,7 +82,7 @@ In this subchapter:
 
 #### (8) Fire regime I
 
-&emsp;The term “fire regime I” means an area—
+&emsp;The term "fire regime I" means an area—
 
 &emsp;&emsp;(A) in which historically there have been low-severity fires with a frequency of 0 through 35 years; and
 
@@ -90,7 +90,7 @@ In this subchapter:
 
 #### (9) Fire regime II
 
-&emsp;The term “fire regime II” means an area—
+&emsp;The term "fire regime II" means an area—
 
 &emsp;&emsp;(A) in which historically there are stand replacement severity fires with a frequency of 0 through 35 years; and
 
@@ -98,7 +98,7 @@ In this subchapter:
 
 #### (10) Fire regime III
 
-&emsp;The term “fire regime III” means an area—
+&emsp;The term "fire regime III" means an area—
 
 &emsp;&emsp;(A) in which historically there are mixed severity fires with a frequency of 35 through 100 years; and
 
@@ -106,15 +106,15 @@ In this subchapter:
 
 #### (11) Implementation Plan
 
-&emsp;The term “Implementation Plan” means the Implementation Plan for the Comprehensive Strategy for a Collaborative Approach for Reducing Wildland Fire Risks to Communities and the Environment, dated May 2002, developed pursuant to the conference report to accompany the Department of the Interior and Related Agencies Appropriations Act, 2001 (House Report No. 106–64) (and subsequent revisions).
+&emsp;The term "Implementation Plan" means the Implementation Plan for the Comprehensive Strategy for a Collaborative Approach for Reducing Wildland Fire Risks to Communities and the Environment, dated May 2002, developed pursuant to the conference report to accompany the Department of the Interior and Related Agencies Appropriations Act, 2001 (House Report No. 106–64) (and subsequent revisions).
 
 #### (12) Municipal water supply system
 
-&emsp;The term “municipal water supply system” means the reservoirs, canals, ditches, flumes, laterals, pipes, pipelines, and other surface facilities and systems constructed or installed for the collection, impoundment, storage, transportation, or distribution of drinking water.
+&emsp;The term "municipal water supply system" means the reservoirs, canals, ditches, flumes, laterals, pipes, pipelines, and other surface facilities and systems constructed or installed for the collection, impoundment, storage, transportation, or distribution of drinking water.
 
 #### (13) Resource management plan
 
-&emsp;The term “resource management plan” means—
+&emsp;The term "resource management plan" means—
 
 &emsp;&emsp;(A) a land and resource management plan prepared for 1 or more units of land of the National Forest System described in section 6502(1)(A) of this title under section 1604 of this title; or
 
@@ -122,7 +122,7 @@ In this subchapter:
 
 #### (14) Secretary
 
-&emsp;The term “Secretary” means—
+&emsp;The term "Secretary" means—
 
 &emsp;&emsp;(A) the Secretary of Agriculture, with respect to land of the National Forest System described in section 6502(1)(A) of this title; and
 
@@ -130,7 +130,7 @@ In this subchapter:
 
 #### (15) Threatened and endangered species habitat
 
-&emsp;The term “threatened and endangered species habitat” means Federal land identified in—
+&emsp;The term "threatened and endangered species habitat" means Federal land identified in—
 
 &emsp;&emsp;(A) a determination that a species is an endangered species or a threatened species under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.);
 
@@ -140,7 +140,7 @@ In this subchapter:
 
 #### (16) Wildland-urban interface
 
-&emsp;The term “wildland-urban interface” means—
+&emsp;The term "wildland-urban interface" means—
 
 &emsp;&emsp;(A) an area within or adjacent to an at-risk community that is identified in recommendations to the Secretary in a community wildfire protection plan; or
 
@@ -164,5 +164,5 @@ In this subchapter:
 
 The Department of the Interior and Related Agencies Appropriations Act, 2001, referred to in pars. (1)(A)(i) and (11), is Pub. L. 106–291, Oct. 11, 2000, 114 Stat. 922. Title IV of the act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-The Endangered Species Act of 1973, referred to in par. (15), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35\(§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+The Endangered Species Act of 1973, referred to in par. (15), is Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified principally to chapter 35 (§1531 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
 

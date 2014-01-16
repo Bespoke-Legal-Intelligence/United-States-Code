@@ -28,7 +28,7 @@ The Secretary shall maintain in the fund, in addition to any account which he ma
 
 #### (c) Use of funds
 
-No part of any payment made under subsection (b) shall be used to defray the expensesof any candidate or delegate who is participating in any presidential nominating convention. Such payments shall be used only—
+No part of any payment made under subsection (b) shall be used to defray the expenses of any candidate or delegate who is participating in any presidential nominating convention. Such payments shall be used only—
 
 &emsp;(1) to defray expenses incurred with respect to a presidential nominating convention (including the payment of deposits) by or on behalf of the national committee receiving such payments; or
 
@@ -54,7 +54,7 @@ No part of any payment made under subsection (b) shall be used to defray the exp
 
 #### (e) Availability of payments
 
-The national committee of a major party or minor party may receive payments under subsection (b)(3) beginning on July 1 of the calendar year immediately preceding the calendar year in which a presidential nominating convention of the political party involved is held.
+The national committee of a major party or minor party may receive payments under subsection (b)(3) beginning on July 1 of the calendaryear immediately preceding the calendar year in which a presidential nominating convention of the political party involved is held.
 
 #### (f) Transfer to the fund
 
@@ -76,13 +76,13 @@ Sections 303 and 315 of the Federal Election Campaign Act of 1971, referred to i
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b)(1). Pub. L. 98–355, §1(a), substituted “$4,000,000” for “$3,000,000”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–355, §1(a), substituted "$4,000,000" for "$3,000,000".
 
-Subsec. (b)(5). Pub. L. 98–355, §1(b), substituted “section 315(b) and section 315(d)” for “section 320(b) and section 320(d)” and “section 315(c)” for “section 320(c)”.
+Subsec. (b)(5). Pub. L. 98–355, §1(b), substituted "section 315(b) and section 315(d)" for "section 320(b) and section 320(d)" and "section 315(c)" for "section 320(c)".
 
-<b>1980</b>—Subsec. (b)(1). Pub. L. 96–187 substituted “$3,000,000” for “$2,000,000”.
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–187 substituted "$3,000,000" for "$2,000,000".
 
-<b>1976</b>—Subsec. (b)(5). Pub. L. 94–283, §307(a), substituted “section 320(b) and section 320(d) of the Federal Election Campaign Act of 1971 are adjusted pursuant to the provisions of section 320(c) of such Act” for “section 608(c) and section 608(f) of title 18, United States Code, are adjusted pursuant to the provisions of section 608(d) of such title”.
+<b>1976</b>—Subsec. (b)(5). Pub. L. 94–283, §307(a), substituted "section 320(b) and section 320(d) of the Federal Election Campaign Act of 1971 are adjusted pursuant to the provisions of section 320(c) of such Act" for "section 608(c) and section 608(f) of title 18, United States Code, are adjusted pursuant to the provisions of section 608(d) of such title".
 
 Subsec. (d)(4). Pub. L. 94–283, §303, added par. (4).
 
@@ -90,7 +90,7 @@ Subsec. (d)(4). Pub. L. 94–283, §303, added par. (4).
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–355, §1(c), July 11, 1984, 98 Stat. 394, provided that: “The amendments made by this section\[amending this section\] shall take effect on January 1, 1984.”
+Pub. L. 98–355, §1(c), July 11, 1984, 98 Stat. 394, provided that: "The amendments made by this section \[amending this section\] shall take effect on January 1, 1984."
 
 #### Effective Date of 1980 Amendment
 

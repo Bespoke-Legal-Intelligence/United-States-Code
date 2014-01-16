@@ -62,7 +62,7 @@ Urgent threats to public health.—The Administrator may promulgate an interim n
 
 &emsp;(E)
 
-Regulation.—For each contaminant that the Administrator determines to regulate under subparagraph (B), the Administrator shall publish maximum contaminant level goals and promulgate, by rule, national primary drinking water regulations under this subsection. The Administrator shall propose the maximum contaminant level goal and national primary drinking water regulation for a contaminant not later than 24 months after the determination to regulate under subparagraph (B), and may publish such proposed regulation concurrent with the determination to regulate. The Administrator shall publish a maximum contaminant level goal and promulgate a national primary drinking water regulation within 18 months after the proposal thereof. The Administrator, by notice in the Federal Register, may extend the deadline for such promulgation for up to 9 months.
+Regulation.—For each contaminant that the Administrator determines to regulate under subparagraph (B), the Administrator shall publish maximum contaminant level goals and promulgate, by rule, national primary drinking water regulations under this subsection. The Administrator shall propose the maximum contaminant level goal and national primary drinking water regulation for a contaminant not later than 24 months after the determination to regulate under subparagraph (B), and may publish such proposed regulation concurrent with the determination to regulate. The Administrator shall publish a maximum contaminant level goal and promulgate a national primary drinking water regulation within 18 months after the proposal thereof. The Administrator, by notice in theFederal Register, may extend the deadline for such promulgation for up to 9 months.
 
 &emsp;(F)
 
@@ -98,7 +98,7 @@ Risk assessment, management, and communication.—
 
 Use of science in decisionmaking.—In carrying out this section, and, to the degree that an Agency action is based on science, the Administrator shall use—
 
-&emsp;&emsp;(i) the best available, peer-reviewed science and supporting studies conducted inaccordance with sound and objective scientific practices; and
+&emsp;&emsp;(i) the best available, peer-reviewed science and supporting studies conducted in accordance with sound and objective scientific practices; and
 
 &emsp;&emsp;(ii) data collected by accepted methods or best available methods (if the reliability of the method and the nature of the decision justifies use of the data).
 
@@ -164,11 +164,11 @@ Maximum contaminant levels.—Except as provided in paragraphs (5) and (6), each
 
 &emsp;(C)
 
-Determination.—At the time the Administrator proposes a national primary drinkingwater regulation under this paragraph, the Administrator shall publish a determination as to whether the benefits of the maximum contaminant level justify, or do not justify, the costs based on the analysis conducted under paragraph (3)(C).
+Determination.—At the time the Administrator proposes a national primary drinking water regulation under this paragraph, the Administrator shall publish a determination as to whether the benefits of the maximum contaminant level justify, or do not justify, the costs based on the analysis conducted under paragraph (3)(C).
 
 &emsp;(D)
 
-Definition of feasible.—For the purposes of this subsection, the term “feasible” means feasible with the use of the best technology, treatment techniques and other means which the Administrator finds, after examination for efficacy under field conditions and not solely under laboratory conditions, are available (taking cost into consideration). For the purpose of this paragraph, granular activated carbon is feasible for the control of synthetic organic chemicals, and any technology, treatment technique, or other means found to be the best available for the control of synthetic organic chemicals must be at least as effective in controlling synthetic organic chemicals as granular activated carbon.
+Definition of feasible.—For the purposes of this subsection, the term "feasible" means feasible with the use of the best technology, treatment techniques and other means which the Administrator finds, after examination for efficacy under field conditions and not solely under laboratory conditions, are available (taking cost into consideration). For the purpose of this paragraph, granular activated carbon is feasible for the control of synthetic organic chemicals, and any technology, treatment technique, or other means found to be the best available for the control of synthetic organic chemicals must be at least as effective in controlling synthetic organic chemicals as granular activated carbon.
 
 &emsp;(E)
 
@@ -220,7 +220,7 @@ Establishment of level.—If the Administrator establishes a maximum contaminant
 
 &emsp;&emsp;(i) the level or levels or treatment techniques shall minimize the overall risk of adverse health effects by balancing the risk from the contaminant and the risk from other contaminants the concentrations of which may be affected by the use of a treatment technique or process that would be employed to attain the maximum contaminant level or levels; and
 
-&emsp;&emsp;(ii) the combination of technology, treatment techniques, or other means required tomeet the level or levels shall not be more stringent than is feasible (as defined in paragraph (4)(D)).
+&emsp;&emsp;(ii) the combination of technology, treatment techniques, or other means required to meet the level or levels shall not be more stringent than is feasible (as defined in paragraph (4)(D)).
 
 (6)
 
@@ -402,7 +402,7 @@ Variance technologies.—
 
 &emsp;(A)
 
-In general.—At the same time as the Administrator promulgates a national primary drinking water regulation for a contaminant pursuant to this section, the Administrator shall issue guidance or regulations describing the best treatment technologies, treatment techniques, or other means (referred to in this paragraph as “variance technology”) for the contaminant that the Administrator finds, after examination for efficacy under field conditions and not solely under laboratory conditions, are available and affordable, as determined by the Administrator in consultation with the States, for public water systems of varying size, considering the quality of the source water to be treated. The Administrator shall identify such variance technologies for public water systems serving—
+In general.—At the same time as the Administrator promulgates a national primary drinking water regulation for a contaminant pursuant to this section, the Administrator shall issue guidance or regulations describing the best treatment technologies, treatment techniques, or other means (referred to in this paragraph as "variance technology") for the contaminant that the Administrator finds, after examination for efficacy under field conditions and not solely under laboratory conditions, are available and affordable, as determined by the Administrator in consultation with the States, for public water systems of varying size, considering the quality of the source water to be treated. The Administrator shall identify such variance technologies for public water systems serving—
 
 &emsp;&emsp;(i) a population of 10,000 or fewer but more than 3,300;
 
@@ -422,7 +422,7 @@ Additional information.—The Administrator shall include in the guidance or reg
 
 &emsp;(D)
 
-Regulations and guidance.—Not later than 2 years after August 6, 1996, and after consultation with the States, the Administrator shall issue guidance or regulations under subparagraph (A) for each national primary drinking water regulation promulgatedprior to August 6, 1996, for which a variance may be granted under section 300g–4(e) of this title. The Administrator may, at any time after a national primary drinking water regulation has been promulgated, issue guidance or regulations describing additional variance technologies. The Administrator shall, not less often than every 7 years, or upon receipt of a petition supported by substantial information, review variance technologies identified under this paragraph. The Administrator shall issue revised guidance or regulations if new or innovative variance technologies become available that meet the requirements of this paragraph and achieve an equal or greater reduction or inactivation efficiency than the variance technologies previously identified under this subparagraph. No public water system shall be required to replace a variance technology during the useful life of the technology for the sole reason that a more efficient variance technology has been listed under this subparagraph.
+Regulations and guidance.—Not later than 2 years after August 6, 1996, and after consultation with the States, the Administrator shall issue guidance or regulations under subparagraph (A) for each national primary drinking water regulation promulgated prior to August 6, 1996, for which a variance may be granted under section 300g–4(e) of this title. The Administrator may, at any time after a national primary drinking water regulation has been promulgated, issue guidance or regulations describing additional variance technologies. The Administrator shall, not less often than every 7 years, or upon receipt of a petition supported by substantial information, review variance technologies identified under this paragraph. The Administrator shall issue revised guidance or regulations if new or innovative variance technologies become available that meet the requirements of this paragraph and achieve an equal or greater reduction or inactivation efficiency than the variance technologies previously identified under this subparagraph. No public water system shall be required to replace a variance technology during the useful life of the technology for the sole reason that a more efficient variance technology has been listed under this subparagraph.
 
 #### (c) Secondary regulations; publication of proposed regulations; promulgation; amendments
 
@@ -448,7 +448,7 @@ The Environmental Research, Development, and Demonstration Act of 1978, referred
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(3). Pub. L. 104–182, §102(c)(2), struck out “paragraph (1), (2), or (3) of” before “subsection (b)” in two places.
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–182, §102(c)(2), struck out "paragraph (1), (2), or (3) of" before "subsection (b)" in two places.
 
 Subsec. (b). Pub. L. 104–182, §102(a), inserted heading.
 
@@ -458,23 +458,23 @@ Subsec. (b)(3). Pub. L. 104–182, §103, added par. (3).
 
 Pub. L. 104–182, §102(a), struck out par. (3) which related to publication of maximum contaminant level goals and promulgation of national primary drinking water regulations for contaminants, other than those referred to in pars. (1) or (2), which may have an adverse effect on human health and are known to occur in public water systems.
 
-Subsec. (b)(4). Pub. L. 104–182, §104(a)(1), designated first sentence as subpar. (A), inserted par. and subpar. (A) headings, designated second sentence as subpar. (B), inserted subpar. (B) heading, substituted “Except as provided in paragraphs (5) and (6), each national” for “Each national” and “specify a maximum contaminant level” for “specify a maximum level”, and added subpar. (C).
+Subsec. (b)(4). Pub. L. 104–182, §104(a)(1), designated first sentence as subpar. (A), inserted par. and subpar. (A) headings, designated second sentence as subpar. (B), inserted subpar. (B) heading, substituted "Except as provided in paragraphs (5) and (6), each national" for "Each national" and "specify a maximum contaminant level" for "specify a maximum level", and added subpar. (C).
 
-Subsec. (b)(4)(D). Pub. L. 104–182, §104(a)(2), (3), redesignated par. (5) as subpar. (D) of par. (4), inserted subpar. heading, and substituted “this paragraph” for “paragraph (4)”.
+Subsec. (b)(4)(D). Pub. L. 104–182, §104(a)(2), (3), redesignated par. (5) as subpar. (D) of par. (4), inserted subpar. heading, and substituted "this paragraph" for "paragraph (4)".
 
-Subsec. (b)(4)(E). Pub. L. 104–182, §§104(a)(4), (5), 105, redesignated par. (6) as subpar. (E)(i) of par. (4), inserted subpar. and cl. headings, substituted “this subsection” for “this paragraph”, and added cls. (ii) to (v).
+Subsec. (b)(4)(E). Pub. L. 104–182, §§104(a)(4), (5), 105, redesignated par. (6) as subpar. (E)(i) of par. (4), inserted subpar. and cl. headings, substituted "this subsection" for "this paragraph", and added cls. (ii) to (v).
 
 Subsec. (b)(5), (6). Pub. L. 104–182, §104(a)(6), added pars. (5) and (6). Former pars. (5) and (6) redesignated subpars. (D) and (E)(i), respectively, of par. (4).
 
 Subsec. (b)(7)(C)(v). Pub. L. 104–182, §106, added cl. (v).
 
-Subsec. (b)(8). Pub. L. 104–182, §501(a)(2), substituted “section 300j–1(e)” for “section 300j–1(g)”.
+Subsec. (b)(8). Pub. L. 104–182, §501(a)(2), substituted "section 300j–1(e)" for "section 300j–1(g)".
 
-Pub. L. 104–182, §107, inserted heading, realigned margins, and substituted “At any time after the end of the 3-year period that begins on August 6, 1996, but not later than the date on which the Administrator promulgates a Stage II rulemaking for disinfectants and disinfection byproducts (as described in paragraph (2)(C)), the Administrator shall also promulgate national primary drinking water regulations requiring disinfection as a treatment technique for all public water systems, including surface water systems and, as necessary, ground water systems. After consultation with the States, the Administrator shall (as part of the regulations) promulgate criteria that the Administrator, or a State that has primary enforcement responsibility under section 300g–2 of this title, shall apply to determine whether disinfection shall be required as a treatment technique for any public water system served by ground water.” for “Not later than 36 months after June 19, 1986, the Administrator shall propose and promulgate national primary drinking water regulations requiring disinfection as a treatment technique for all public water systems.”
+Pub. L. 104–182, §107, inserted heading, realigned margins, and substituted "At any time after the end of the 3-year period that begins on August 6, 1996, but not later than the date on which the Administrator promulgates a Stage II rulemaking for disinfectants and disinfection byproducts (as described in paragraph (2)(C)), the Administrator shall also promulgate national primary drinking water regulations requiring disinfection as a treatment technique for all public water systems, including surface water systems and, as necessary, ground water systems. After consultation with the States, the Administrator shall (as part of the regulations) promulgate criteria that the Administrator, or a State that has primary enforcement responsibility under section 300g–2 of this title, shall apply to determine whether disinfection shall be required as a treatment technique for any public water system served by ground water." for "Not later than 36 months after June 19, 1986, the Administrator shall propose and promulgate national primary drinking water regulations requiring disinfection as a treatment technique for all public water systems."
 
-Subsec. (b)(9). Pub. L. 104–182, §104(c), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “National primary drinking water regulations shall be amended whenever changes in technology, treatment techniques, and other means permit greater protection of the health of persons, but in any event such regulations shall be reviewed at least once every 3 years. Such review shall include an analysis of innovations or changes in technology, treatment techniques or other activities that have occurred over the previous 3-year period and that may provide for greater protection of the health of persons. The findings of such review shall be published in the Federal Register. If, after opportunity for public comment, the Administrator concludes that the technology, treatment techniques, or other means resulting from such innovations or changes are not feasible within the meaning of paragraph (5), an explanation of such conclusion shall be published in the Federal Register.”
+Subsec. (b)(9). Pub. L. 104–182, §104(c), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "National primary drinking water regulations shall be amended whenever changes in technology, treatment techniques, and other means permit greater protection of the health of persons, but in any event such regulations shall be reviewed at least once every 3 years. Such review shall include an analysis of innovations or changes in technology, treatment techniques or other activities that have occurred over the previous 3-year period and that may provide for greater protection of the health of persons. The findings of such review shall be published in the Federal Register. If, after opportunity for public comment, the Administrator concludes that the technology, treatment techniques, or other means resulting from such innovations or changes are not feasible within the meaning of paragraph (5), an explanation of such conclusion shall be published in the Federal Register."
 
-Subsec. (b)(10). Pub. L. 104–182, §108, amended par. (10) generally. Prior to amendment, par. (10) read as follows: “National primary drinking water regulations promulgated under this subsection (and amendments thereto) shall take effect eighteen months after the date of their promulgation. Regulations under subsection (a) of this section shall be superseded by regulations under this subsection to the extent provided by the regulations under this subsection.”
+Subsec. (b)(10). Pub. L. 104–182, §108, amended par. (10) generally. Prior to amendment, par. (10) read as follows: "National primary drinking water regulations promulgated under this subsection (and amendments thereto) shall take effect eighteen months after the date of their promulgation. Regulations under subsection (a) of this section shall be superseded by regulations under this subsection to the extent provided by the regulations under this subsection."
 
 Subsec. (b)(11). Pub. L. 104–182, §501(a)(1), realigned margins.
 
@@ -488,19 +488,19 @@ Subsec. (b)(15). Pub. L. 104–182, §111(a), added par. (15).
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–339, §101(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
-“(1) The Administrator shall publish proposed national interim primary drinking water regulations within 90 days after December 16, 1974. Within 180 days after December 16, 1974, he shall promulgate such regulations with such modifications as he deems appropriate. Regulations under this paragraph may be amended from time to time.
+"(1) The Administrator shall publish proposed national interim primary drinking water regulations within 90 days after December 16, 1974. Within 180 days after December 16, 1974, he shall promulgate such regulations with such modifications as he deems appropriate. Regulations under this paragraph may be amended from time to time.
 
-“(2) National interim primary drinking water regulations promulgated under paragraph (1) shall protect health to the extent feasible, using technology, treatment techniques, and other means, which the Administrator determines are generally available (taking costs into consideration) on December 16, 1974.
+"(2) National interim primary drinking water regulations promulgated under paragraph (1) shall protect health to the extent feasible, using technology, treatment techniques, and other means, which the Administrator determines are generally available (taking costs into consideration) on December 16, 1974.
 
-“(3) The interim primary regulations first promulgated under paragraph (1) shall take effect eighteen months after the date of their promulgation.”
+"(3) The interim primary regulations first promulgated under paragraph (1) shall take effect eighteen months after the date of their promulgation."
 
 Subsec. (b)(1). Pub. L. 99–339, §101(b), substituted provisions establishing standard setting schedules and deadlines for provisions relating to establishment of maximum contaminant levels and a list of contaminants with adverse effect but of undetermined levels.
 
 Subsec. (b)(2). Pub. L. 99–339, §101(b), substituted provisions authorizing the Administrator to substitute contaminants for those referred to in par. (1) and to supply a list of the contaminants proposed for substitution, with the decision of the Administrator to regulate such contaminant not subject to judicial review, for provisions which authorized the Administrator to publish in the Federal Register proposed revised national interim primary drinking water regulations and 180 days after the date of such proposed regulations to promulgate such revised regulations with modification as deemed appropriate.
 
-Subsec. (b)(3). Pub. L. 99–339, §101(b), substituted provisions directing the Administrator to publish maximum contaminant level goals and promulgate national primary drinking water regulations for contaminants, other than specified in par. (1) or (2), which may have an adverse effect on health and are known or anticipated to occur in public water systems, to establish an advisory working group to aid in establishing a list of such contaminants, and to publish, within a specified time, both proposed and final goals and regulations for provisions which required that revised national primary drinking water regulations specify a maximum contaminant level or require the use of treatment techniques for each contaminant, which level or technique was to be as close to the recommended level or technique as feasible, and defined the term “feasible”.
+Subsec. (b)(3). Pub. L. 99–339, §101(b), substituted provisions directing the Administrator to publish maximum contaminant level goals and promulgate national primary drinking water regulations for contaminants, other than specified in par. (1) or (2), which may have an adverse effect on health and are known or anticipated to occur in public water systems, to establish an advisory working group to aid in establishing a list of such contaminants, and to publish, within a specified time, both proposed and final goals and regulations for provisions which required that revised national primary drinking water regulations specify a maximum contaminant level or require the use of treatment techniques for each contaminant, which level or technique was to be as close to the recommended level or technique as feasible, and defined the term "feasible".
 
-Subsec. (b)(4) to (11). Pub. L. 99–339, §101(b), (c)(1), (d), added pars. (4) to (8), redesignated former pars. (4) to (6) as pars. (9) to (11), respectively, in par. (9) substituted “National” for “Revised National” and inserted provision that review include analysis, and publication in Federal Register, of innovations in technology, treatment techniques or other activities occurring during previous three years and their feasibility, and in par. (10) substituted “National” for “Revised National”.
+Subsec. (b)(4) to (11). Pub. L. 99–339, §101(b), (c)(1), (d), added pars. (4) to (8), redesignated former pars. (4) to (6) as pars. (9) to (11), respectively, in par. (9) substituted "National" for "Revised National" and inserted provision that review include analysis, and publication in Federal Register, of innovations in technology, treatment techniques or other activities occurring during previous three years and their feasibility, and in par. (10) substituted "National" for "Revised National".
 
 Subsec. (e). Pub. L. 99–339, §101(e), amended subsec. (e) generally, substituting provisions which relate to the request by the Administrator of comments by the Science Advisory Board prior to proposal of a maximum contaminant level goal and national primary drinking water regulation for provisions which related to study by the National Academy of Sciences to determine the maximum contaminant levels, report to Congress, and funding therefor.
 
@@ -508,13 +508,13 @@ Subsec. (e). Pub. L. 99–339, §101(e), amended subsec. (e) generally, substitu
 
 #### National Primary Drinking Water Regulation for Arsenic
 
-Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–41, provided in part: “That notwithstanding section 1412(b)(12)(A)(v) of the Safe Drinking Water Act, as amended \[subsec. (b)(12)(A)(v) of this section\], the Administrator shall promulgate a national primary drinking water regulation for arsenic not later than June 22, 2001.”
+Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–41, provided in part: "That notwithstanding section 1412(b)(12)(A)(v) of the Safe Drinking Water Act, as amended \[42 U.S.C. 300g–1(b)(12)(A)(v)\], the Administrator shall promulgate a national primary drinking water regulation for arsenic not later than June 22, 2001."
 
 #### Applicability of Prior Requirements
 
-Pub. L. 104–182, title I, §102(b), Aug. 6, 1996, 110 Stat. 1620, provided that: “The requirements of subparagraphs (C) and (D) of section 1412(b)(3) of the Safe Drinking Water Act \[subsec. (b)(3)(C), (D) of this section\] as in effect before the date of enactment of this Act \[Aug. 6, 1996\], and any obligation to promulgate regulations pursuant to such subparagraphs not promulgated as of the date of enactment of this Act, are superseded by the amendments made by subsection (a) \[amending this section\].”
+Pub. L. 104–182, title I, §102(b), Aug. 6, 1996, 110 Stat. 1620, provided that: "The requirements of subparagraphs (C) and (D) of section 1412(b)(3) of the Safe Drinking Water Act \[42 U.S.C. 300g–1(b)(3)(C), (D)\] as in effect before the date of enactment of this Act \[Aug. 6, 1996\], and any obligation to promulgate regulations pursuant to such subparagraphs not promulgated as of the date of enactment of this Act, are superseded by the amendments made by subsection (a) \[amending this section\]."
 
 #### Disinfectants and Disinfection Byproducts
 
-Pub. L. 104–182, title I, §104(b), Aug. 6, 1996, 110 Stat. 1625, provided that: “The Administrator of the Environmental Protection Agency may use the authority of section 1412(b)(5) of the Safe Drinking Water Act \[subsec. (b)(5) of this section\] (as amended by this Act) to promulgate the Stage I and Stage II Disinfectants and Disinfection Byproducts Rules as proposed in volume 59, Federal Register, page 38668 (July 29, 1994). The considerations used in the development of the July 29, 1994, proposed national primary drinking water regulation on disinfectants and disinfection byproducts shall be treated as consistent with such section 1412(b)(5) for purposes of such Stage I and Stage II rules.”
+Pub. L. 104–182, title I, §104(b), Aug. 6, 1996, 110 Stat. 1625, provided that: "The Administrator of the Environmental Protection Agency may use the authority of section 1412(b)(5) of the Safe Drinking Water Act \[42 U.S.C. 300g–1(b)(5)\] (as amended by this Act) to promulgate the Stage I and Stage II Disinfectants and Disinfection Byproducts Rules as proposed in volume 59, Federal Register, page 38668 (July 29, 1994). The considerations used in the development of the July 29, 1994, proposed national primary drinking water regulation on disinfectants and disinfection byproducts shall be treated as consistent with such section 1412(b)(5) for purposes of such Stage I and Stage II rules."
 

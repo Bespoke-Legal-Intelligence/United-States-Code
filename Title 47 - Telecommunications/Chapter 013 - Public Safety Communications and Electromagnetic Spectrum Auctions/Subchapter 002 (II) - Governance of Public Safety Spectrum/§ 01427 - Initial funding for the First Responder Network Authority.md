@@ -12,11 +12,11 @@ Prior to the deposit of proceeds into the Public Safety Trust Fund from the ince
 
 #### (2) Definition
 
-&emsp;For purposes of this subsection, the term “administrative expenses” does not include the costs incurred by the First Responder Network Authority for oversight and audits to protect against waste, fraud, and abuse.
+&emsp;For purposes of this subsection, the term "administrative expenses" does not include the costs incurred by the First Responder Network Authority for oversight and audits to protect against waste, fraud, and abuse.
 
 (Pub. L. 112–96, title VI, §6207, Feb. 22, 2012, 126 Stat. 215.)
 
 #### References in Text
 
-Section 1451, referred to in subsec. (a), was in the original “section 6401” and means section 6401 of Pub. L. 112–96, which enacted section 1451 of this title and amended section 309 of this title.
+Section 1451, referred to in subsec. (a), was in the original "section 6401" and means section 6401 of Pub. L. 112–96, which enacted section 1451 of this title and amended section 309 of this title.
 

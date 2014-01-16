@@ -4,7 +4,7 @@
 
 Definitions.—In this section—
 
-&emsp;(1) “museum” means an organized and permanent institution, the activities of which affect interstate or foreign commerce, that—
+&emsp;(1) "museum" means an organized and permanent institution, the activities of which affect interstate or foreign commerce, that—
 
 &emsp;&emsp;(A) is situated in the United States;
 
@@ -14,7 +14,7 @@ Definitions.—In this section—
 
 &emsp;&emsp;(D) owns, utilizes, and cares for tangible objects that are exhibited to the public on a regular schedule.
 
-&emsp;(2) “object of cultural heritage” means an object that is—
+&emsp;(2) "object of cultural heritage" means an object that is—
 
 &emsp;&emsp;(A) over 100 years old and worth in excess of $5,000; or
 

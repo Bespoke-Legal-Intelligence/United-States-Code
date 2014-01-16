@@ -30,7 +30,7 @@ Section 1058(b)(1)(E) of this title, referred to in subsec. (a), was repealed an
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–325 added subsec. (c).
 
-<b>1987</b>—Subsec. (a)(1). Pub. L. 100–50 substituted “section 1062 of this title” for “section 1061 of this title”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–50 substituted "section 1062 of this title" for "section 1061 of this title".
 
 #### Effective Date of 1992 Amendment
 

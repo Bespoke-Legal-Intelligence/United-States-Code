@@ -9,7 +9,7 @@
 | [7543\.](%C2%A7%2007543%20-%20Useless%20ordnance%20material%20disposition%20of%20proceeds%20on%20sale.md) | Useless ordnance material: disposition of proceeds on sale. |
 | [7544\.](%C2%A7%2007544%20-%20Devices%20and%20trophies%20transfer%20to%20other%20agencies.md) | Devices and trophies: transfer to other agencies. |
 | [7545\.](%C2%A7%2007545%20-%20Obsolete%20material%20and%20articles%20of%20historical%20interest%20loan%20or%20gift.md) | Obsolete material and articles of historical interest: loan or gift. |
-| [7546\.](%C2%A7%2007546%20-%20Loan%20or%20gift%20of%20articles%20to%20ships%E2%80%99%20sponsors%20and%20donors.md) | Loan or gift of articles to ships’ sponsors and donors. |
+| [7546\.](%C2%A7%2007546%20-%20Loan%20or%20gift%20of%20articles%20to%20ships%27%20sponsors%20and%20donors.md) | Loan or gift of articles to ships' sponsors and donors. |
 | [7547\.](%C2%A7%2007547%20-%20Equipment%20for%20instruction%20in%20seamanship%20loan%20to%20military%20schools.md) | Equipment for instruction in seamanship: loan to military schools. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -18,7 +18,7 @@
 
 <b>2009</b>—Pub. L. 111–84, div. A, title V, §592(b), Oct. 28, 2009, 123 Stat. 2337, added item 7541b.
 
-<b>1975</b>—Pub. L. 93–628, §1(b), Jan. 3, 1975, 88 Stat. 2148, inserted “, Naval Sea Cadet Corps and Young Marines of the Marine Corps League” in item 7541.
+<b>1975</b>—Pub. L. 93–628, §1(b), Jan. 3, 1975, 88 Stat. 2148, inserted ", Naval Sea Cadet Corps and Young Marines of the Marine Corps League" in item 7541.
 
 <b>1965</b>—Pub. L. 89–266, §1(2), Oct. 19, 1965, 79 Stat. 990, added item 7541a.
 
@@ -34,5 +34,5 @@
 - [&sect; 07543 - Useless ordnance material disposition of proceeds on sale](%C2%A7%2007543%20-%20Useless%20ordnance%20material%20disposition%20of%20proceeds%20on%20sale.md)
 - [&sect; 07544 - Devices and trophies transfer to other agencies](%C2%A7%2007544%20-%20Devices%20and%20trophies%20transfer%20to%20other%20agencies.md)
 - [&sect; 07545 - Obsolete material and articles of historical interest loan or gift](%C2%A7%2007545%20-%20Obsolete%20material%20and%20articles%20of%20historical%20interest%20loan%20or%20gift.md)
-- [&sect; 07546 - Loan or gift of articles to ships&#8217; sponsors and donors](%C2%A7%2007546%20-%20Loan%20or%20gift%20of%20articles%20to%20ships%E2%80%99%20sponsors%20and%20donors.md)
+- [&sect; 07546 - Loan or gift of articles to ships' sponsors and donors](%C2%A7%2007546%20-%20Loan%20or%20gift%20of%20articles%20to%20ships%27%20sponsors%20and%20donors.md)
 - [&sect; 07547 - Equipment for instruction in seamanship loan to military schools](%C2%A7%2007547%20-%20Equipment%20for%20instruction%20in%20seamanship%20loan%20to%20military%20schools.md)

@@ -18,7 +18,7 @@ Rule for Ground Combat Personnel Policy.—(1) If the Secretary of Defense propo
 
 &emsp;(B) a detailed analysis of legal implication of the proposed change with respect to the constitutionality of the application of the Military Selective Service Act (50 App. U.S.C. 451 et seq.) to males only.
 
-(4) In this subsection, the term “ground combat exclusion policy” means the military personnel policies of the Department of Defense and the military departments, as in effect on October 1, 1994, by which female members of the armed forces are restricted from assignment to units and positions below brigade level whose primary mission is to engage in direct combat on the ground.
+(4) In this subsection, the term "ground combat exclusion policy" means the military personnel policies of the Department of Defense and the military departments, as in effect on October 1, 1994, by which female members of the armed forces are restricted from assignment to units and positions below brigade level whose primary mission is to engage in direct combat on the ground.
 
 (5) For purposes of this subsection, the continuity of a session of Congress is broken only by an adjournment of the Congress sine die.
 
@@ -48,7 +48,7 @@ The Military Selective Service Act, referred to in subsec. (a)(3)(B), is act Jun
 
 #### Prior Provisions
 
-A prior section 652, added Pub. L. 95–485, title IV, §405(d)(1), Oct. 20, 1978, 92 Stat. 1616, related to Ready Reserve requirement of notification of change of status, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994. See section 10205 of this title.
+A prior section 652, added Pub. L. 95–485, title IV, §405(d)(1), Oct. 20, 1978, 92 Stat. 1616, related to ReadyReserve requirement of notification of change of status, prior to repeal by Pub. L. 103–337, div. A, title XVI, §§1661(a)(3)(A), 1691, Oct. 5, 1994, 108 Stat. 2980, 3026, effective Dec. 1, 1994. See section 10205 of this title.
 
 Provisions similar to those in this section were contained in Pub. L. 103–160, div. A, title V, §542, Nov. 30, 1993, 107 Stat. 1659, which was set out as a note under section 113 of this title, prior to repeal by Pub. L. 109–163, §541(c).
 

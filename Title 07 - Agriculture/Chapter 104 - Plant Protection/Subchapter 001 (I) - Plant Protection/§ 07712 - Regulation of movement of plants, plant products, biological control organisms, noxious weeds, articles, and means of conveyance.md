@@ -18,11 +18,11 @@ The Secretary may issue regulations to implement subsection (a) of this section,
 
 &emsp;(3) be subject to remedial measures the Secretary determines to be necessary to prevent the spread of plant pests or noxious weeds; and
 
-&emsp;(4) with respect to plants or biological control organisms, be grown or handled under post-entry quarantine conditions by or under the supervision of the Secretary for the purposes of determining whether the plant or biological control organism may be infested with plant pests or may be a plant pest or noxious weed.
+&emsp;(4) with respect to plants or biological control organisms, be grown or handled underpost-entry quarantine conditions by or under the supervision of the Secretary for the purposes of determining whether the plant or biological control organism may be infested with plant pests or may be a plant pest or noxious weed.
 
 #### (d) Notice
 
-Not later than 1 year after June 20, 2000, the Secretary shall publish for public comment anotice describing the procedures and standards that govern the consideration of import requests. The notice shall—
+Not later than 1 year after June 20, 2000, the Secretary shall publish for public comment a notice describing the procedures and standards that govern the consideration of import requests. The notice shall—
 
 &emsp;(1) specify how public input will be sought in advance of and during the process of promulgating regulations necessitating a risk assessment in order to ensure a fully transparent and publicly accessible process; and
 
@@ -84,7 +84,7 @@ Not later than 1 year after June 20, 2000, the Secretary shall publish for publi
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(2)(E), was in the original “this title”, meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under section 7701 of this title and Tables.
+This chapter, referred to in subsec. (d)(2)(E), was in the original "this title", meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
 #### Transfer of Functions
 

@@ -4,23 +4,23 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (1) Administration
 
-&emsp;The term “Administration” means the Small Business Administration.
+&emsp;The term "Administration" means the Small Business Administration.
 
 #### (2) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Small Business Administration.
+&emsp;The term "Administrator" means the Administrator of the Small Business Administration.
 
 #### (3) Capacity building services
 
-&emsp;The term “capacity building services” means services provided to an organization that is, or that is in the process of becoming, a microenterprise development organization or program, for the purpose of enhancing its ability to provide training and services to disadvantaged entrepreneurs.
+&emsp;The term "capacity building services" means services provided to an organization that is, or that is in the process of becoming, a microenterprise development organization or program, for the purpose of enhancing its ability to provide training and services to disadvantaged entrepreneurs.
 
 #### (4) Collaborative
 
-&emsp;The term “collaborative” means 2 or more nonprofit entities that agree to act jointly as a qualified organization under this chapter.
+&emsp;The term "collaborative" means 2 or more nonprofit entities that agree to act jointly as a qualified organization under this chapter.
 
 #### (5) Disadvantaged entrepreneur
 
-&emsp;The term “disadvantaged entrepreneur” means a microentrepreneur that is—
+&emsp;The term "disadvantaged entrepreneur" means a microentrepreneur that is—
 
 &emsp;&emsp;(A) a low-income person;
 
@@ -30,23 +30,23 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (6) Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning given the term in section 4702 of title 12.
+&emsp;The term "Indian tribe" has the meaning given the term in section 4702 of title 12.
 
 #### (7) Intermediary
 
-&emsp;The term “intermediary” means a private, nonprofit entity that seeks to serve microenterprise development organizations and programs as authorized under section 6904 of this title.
+&emsp;The term "intermediary" means a private, nonprofit entity that seeks to serve microenterprise development organizations and programs as authorized under section 6904 of this title.
 
 #### (8) Low-income person
 
-&emsp;The term “low-income person” has the meaning given the term in section 4702 of title 12.
+&emsp;The term "low-income person" has the meaning given the term in section 4702 of title 12.
 
 #### (9) Microentrepreneur
 
-&emsp;The term “microentrepreneur” means the owner or developer of a microenterprise.
+&emsp;The term "microentrepreneur" means the owner or developer of a microenterprise.
 
 #### (10) Microenterprise
 
-&emsp;The term “microenterprise” means a sole proprietorship, partnership, or corporation that—
+&emsp;The term "microenterprise" means a sole proprietorship, partnership, or corporation that—
 
 &emsp;&emsp;(A) has fewer than 5 employees; and
 
@@ -54,19 +54,19 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (11) Microenterprise development organization or program
 
-&emsp;The term “microenterprise development organization or program” means a nonprofit entity, or a program administered by such an entity, including community development corporations or other nonprofit development organizations and social service organizations, that provides services to disadvantaged entrepreneurs.
+&emsp;The term "microenterprise development organization or program" means a nonprofit entity, or a program administered by such an entity, including community development corporations or other nonprofit development organizations and social service organizations, that provides services to disadvantaged entrepreneurs.
 
 #### (12) Training and technical assistance
 
-&emsp;The term “training and technical assistance” means services and support provided to disadvantaged entrepreneurs, such as assistance for the purpose of enhancing business planning, marketing, management, financial management skills, and assistance for the purpose of accessing financial services.
+&emsp;The term "training and technical assistance" means services and support provided to disadvantaged entrepreneurs, such as assistance for the purpose of enhancing business planning, marketing, management, financial management skills, and assistance for the purpose of accessing financial services.
 
 #### (13) Very low-income person
 
-&emsp;The term “very low-income person” means having an income, adjusted for family size, of not more than 150 percent of the poverty line (as defined in section 9902(2) of title 42, including any revision required by that section).
+&emsp;The term "very low-income person" means having an income, adjusted for family size, of not more than 150 percent of the poverty line (as defined in section 9902(2) of title 42, including any revision required by that section).
 
 (Pub. L. 103–325, title I, §172, as added Pub. L. 106–102, title VII, §725, Nov. 12, 1999, 113 Stat. 1472.)
 
 #### Short Title
 
-Pub. L. 103–325, title I, §171, as added by Pub. L. 106–102, title VII, §725, Nov. 12, 1999, 113 Stat. 1471, provided that: “This subtitle \[subtitle C (§§171–181) of title I of Pub. L. 103–325, as added by Pub. L. 106–102, enacting this chapter\] may be cited as the ‘Program for Investment in Microentrepreneurs Act of 1999’, also referred to as the ‘PRIME Act’.”
+Pub. L. 103–325, title I, §171, as added by Pub. L. 106–102, title VII, §725, Nov. 12, 1999, 113 Stat. 1471, provided that: "This subtitle \[subtitle C (§§171–181) of title I of Pub. L. 103–325, as added by Pub. L. 106–102, enacting this chapter\] may be cited as the 'Program for Investment in Microentrepreneurs Act of 1999', also referred to as the 'PRIME Act'."
 

@@ -10,7 +10,7 @@ Exception.—The regulations prescribed under section 464 of this title shall sp
 
 (c)
 
-Effect of Bankruptcy.—An obligation to repay the United States under this section is,for all purposes, a debt owed the United States. A discharge in bankruptcy under title 11 does not discharge a person from such debt if the discharge order is entered less than five years after the date on which the debt was incurred.
+Effect of Bankruptcy.—An obligation to repay the United States under this section is, for all purposes, a debt owed the United States. A discharge in bankruptcy under title 11 does not discharge a person from such debt if the discharge order is entered less than five years after the date on which the debt was incurred.
 
 (Added Pub. L. 112–81, div. A, title VI, §631(b), Dec. 31, 2011, 125 Stat. 1459.)
 

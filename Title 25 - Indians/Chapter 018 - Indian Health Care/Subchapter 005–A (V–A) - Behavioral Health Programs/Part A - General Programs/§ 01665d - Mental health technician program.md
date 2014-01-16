@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Pursuant to section 13 of this title, the Secretary shall establish and maintain a mentalhealth technician program within the Service which—
+Pursuant to section 13 of this title, the Secretary shall establish and maintain a mental health technician program within the Service which—
 
 &emsp;(1) provides for the training of Indians as mental health technicians; and
 

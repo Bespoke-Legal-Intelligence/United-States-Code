@@ -32,19 +32,19 @@
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (b)(1), (3), was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) and (b)(1), (3), was in the original "this Act", meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 The effective date of this chapter, referred to in subsec. (b)(1), is the effective date of Pub. L. 95–620. See section 901 of Pub. L. 95–620, set out as an Effective Date note under section 8301 of this title.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–486 struck out subsec. (c), which read as follows: “The President shall annually submit a detailed report to each House of the Congress on the actions taken by the President and each Federal agency to implement this section, including the progress and problems associated with implementation of this section.”
+<b>1992</b>—Subsec. (c). Pub. L. 102–486 struck out subsec. (c), which read as follows: "The President shall annually submit a detailed report to each House of the Congress on the actions taken by the President and each Federal agency to implement this section, including the progress and problems associated with implementation of this section."
 
-<b>1987</b>—Subsec. (a)(1). Pub. L. 100–42, §1(c)(14)(A), struck out “, major fuel-burning installation, or other unit” after “electric powerplant” and “, installation, or unit” after “such powerplant”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–42, §1(c)(14)(A), struck out ", major fuel-burning installation, or other unit" after "electric powerplant" and ", installation, or unit" after "such powerplant".
 
-Subsec. (a)(2). Pub. L. 100–42, §1(c)(14)(B), (C), struck out “, installation, or other unit” after “powerplant” in introductory provisions, “, installation, or unit” after “powerplant” in subpar. (A), and last sentence which read as follows: “Any powerplant, installation, or other unit permitted to use natural gas or petroleum under an exemption under this paragraph shall establish and carry out effective fuel conservation measures, as determined by the Secretary.”
+Subsec. (a)(2). Pub. L. 100–42, §1(c)(14)(B), (C), struck out ", installation, or other unit" after "powerplant" in introductory provisions, ", installation, or unit" after "powerplant" in subpar. (A), and last sentence which read as follows: "Any powerplant, installation, or other unit permitted to use natural gas or petroleum under an exemption under this paragraph shall establish and carry out effective fuel conservation measures, as determined by the Secretary."
 
-Subsec. (a)(3). Pub. L. 100–42, §1(c)(14)(D), struck out par. (3) which read as follows: “Any powerplant, installation, or unit owned or operated by any such Federal agency shall be entitled to any exemption by the Secretary to the same extent, in the same manner, and under the same terms and conditions as would apply if it were owned or operated by a nongovernmental person.”
+Subsec. (a)(3). Pub. L. 100–42, §1(c)(14)(D), struck out par. (3) which read as follows: "Any powerplant, installation, or unit owned or operated by any such Federal agency shall be entitled to any exemption by the Secretary to the same extent, in the same manner, and under the same terms and conditions as would apply if it were owned or operated by a nongovernmental person."
 
 #### Termination of Reporting Requirements
 
@@ -52,7 +52,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Transfer of Functions
 
-For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security,and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Ex. Ord. No. 12185. Effectuation of Conservation of Petroleum and Natural Gas by Recipients of Federal Financial Assistance
 

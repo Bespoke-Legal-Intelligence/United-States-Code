@@ -23,7 +23,7 @@
 
 <b>1994</b>—Pub. L. 103–322, title VI, §§60005(b), 60009(b)(2), 60012(b), 60015(b), Sept. 13, 1994, 108 Stat. 1970, 1972–1974, added items 1118 to 1121.
 
-<b>1976</b>—Pub. L. 94–467, §3, Oct. 8, 1976, 90 Stat. 1998, substituted “official guests, or internationally protected persons” for “or official guests” in item 1116.
+<b>1976</b>—Pub. L. 94–467, §3, Oct. 8, 1976, 90 Stat. 1998, substituted "official guests, or internationally protected persons" for "or official guests" in item 1116.
 
 <b>1972</b>—Pub. L. 92–539, title I, §102, Oct. 24, 1972, 86 Stat. 1071, added items 1116 and 1117.
 

@@ -10,7 +10,7 @@ Deviations From Regulations.—Appropriate military authority may authorize airc
 
 (b)
 
-Suspension of Authority.—(1) When the President decides that the government of a foreign country is acting inconsistently with theConvention for the Suppression of Unlawful Seizure of Aircraft or that the government of a foreign country allows territory under its jurisdiction to be used as a base of operations or training of, or as a sanctuary for, or arms, aids, or abets, a terrorist organization that knowingly uses the unlawful seizure, or the threat of an unlawful seizure, of an aircraft as an instrument of policy, the President may suspend the authority of—
+Suspension of Authority.—(1) When the President decides that the government of a foreign country is acting inconsistently with the Convention for the Suppression of Unlawful Seizure of Aircraft or that the government of a foreign country allows territory under its jurisdiction to be used as a base of operations or training of, or as a sanctuary for, or arms, aids, or abets, a terrorist organization that knowingly uses the unlawful seizure, or the threat of an unlawful seizure, of an aircraft as an instrument of policy, the President may suspend the authority of—
 
 &emsp;(A) an air carrier or foreign air carrier to provide foreign air transportation to and from that foreign country;
 
@@ -64,13 +64,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 49 App.:1655(c)(1).
 
-In subsection (a), before clause (1), the words “armed forces” are substituted for “national defense forces” because of 10:101. The words “section 40103(b)(1) and (2) of this title” are substituted for “this subchapter” as being more precise. In clauses (1) and (2), the word “Administrator” in section 307(f) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 750) is retained on authority of 49:106(g). In clause (2), the words “fully” and “required” are omitted as surplus.
+In subsection (a), before clause (1), the words "armed forces" are substituted for "national defense forces" because of 10:101. The words "section 40103(b)(1) and (2) of this title" are substituted for "this subchapter" as being more precise. In clauses (1) and (2), the word "Administrator" in section 307(f) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 750) is retained on authority of 49:106(g). In clause (2), the words "fully" and "required" are omitted as surplus.
 
-In subsection (b)(1), the words “government of a foreign country” are substituted for “foreign nation” for consistency in the revised title and with other titles of the Code. Before clause (A), the words “in a manner” and “in any way” are omitted as surplus. The word “authority” is substituted for “right” as being more precise and for consistency in the revised title.
+In subsection (b)(1), the words "government of a foreign country" are substituted for "foreign nation" for consistency in the revised title and with other titles of the Code. Before clause (A), the words "in a manner" and "in any way" are omitted as surplus. The word "authority" is substituted for "right" as being more precise and for consistency in the revised title.
 
-In subsection (b)(2), the words “deemed to be” are omitted because a legal conclusion is being stated.
+In subsection (b)(2), the words "deemed to be" are omitted because a legal conclusion is being stated.
 
-In subsection (b)(3), the words “by the President” are omitted as surplus.
+In subsection (b)(3), the words "by the President" are omitted as surplus.
 
 #### Aircraft Piracy
 

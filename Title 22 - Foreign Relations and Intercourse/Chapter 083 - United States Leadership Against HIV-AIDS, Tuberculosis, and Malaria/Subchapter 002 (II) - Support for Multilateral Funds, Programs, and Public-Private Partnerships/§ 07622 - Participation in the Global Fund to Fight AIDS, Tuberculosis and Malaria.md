@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(H) for purposes of evaluating total amounts of funds contributed to the Global Fund under subsection (d)(4)(A)(i), the timetable for evaluations of contributions from sources other than the United States should take into account the fiscal calendars of other major contributors; and
 
-&emsp;&emsp;(I) the Global Fund should not support activities involving the “Affordable Medicines Facility-Malaria” or similar entities pending compelling evidence of success from pilot programs as evaluated by the Coordinator of United States Government Activities to Combat Malaria Globally.
+&emsp;&emsp;(I) the Global Fund should not support activities involving the "Affordable Medicines Facility-Malaria" or similar entities pending compelling evidence of success from pilot programs as evaluated by the Coordinator of United States Government Activities to Combat Malaria Globally.
 
 #### (b) Authority for United States participation
 
@@ -98,25 +98,25 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 #### (4) Limitation
 
-&emsp;(A)(i) At any time during fiscal years 2009 through 2013, no United States contribution to the Global Fund may cause the total amount of United States Government contributions to the Global Fund to exceed 33 percent of the total amount of funds contributed to the Global Fund from all sources. Contributions to the Global Fund from the International Bank for Reconstruction and Development and the International Monetary Fund shall not be considered in determining compliance with this paragraph.
+&emsp;(A)(i) At any time during fiscal years 2009 through 2018, no United States contribution to the Global Fund may cause the total amount of United States Government contributions to the Global Fund to exceed 33 percent of the total amount of funds contributed to the Global Fund from all sources. Contributions to the Global Fund from the International Bank for Reconstruction and Development and the International Monetary Fund shall not be considered in determining compliance with this paragraph.
 
-&emsp;(ii) If, at any time during any of the fiscal years 2009 through 2013, the President determines that the Global Fund has provided assistance to a country, the government of which the Secretary of State has determined, for purposes of section 2405(j)(1) of title 50, Appendix, has repeatedly provided support for acts of international terrorism, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the amount expended by the Fund to the government of each such country. The President may waive the application of this clause with respect to assistance for Sudan that is overseen by the Southern Country Coordinating Mechanism, including Southern Sudan, Southern Kordofan, Blue Nile State, and Abyei, if the President determines that the national interest or humanitarian reasons justify such a waiver. The President shall publish each waiver of this clause in the Federal Register and, not later than 15 days before the waiver takes effect, shall consult with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives regarding the proposed waiver.
+&emsp;(ii) If, at any time during any of the fiscal years 2009 through 2018, the President determines that the Global Fund has provided assistance to a country, the government of which the Secretary of State has determined, for purposes of section 2405(j)(1) of title 50, Appendix, has repeatedly provided support foracts of international terrorism, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the amount expended by the Fund to the government of each such country.
 
 &emsp;(iii) If at any time the President determines that the expenses of the Governing, Administrative, and Advisory Bodies (including the Partnership Forum, the Foundation Board, the Secretariat, and the Technical Review Board) of the Global Fund exceed 10 percent of the total expenditures of the Fund for any 2-year period, the United States shall withhold from its contribution for the next fiscal year an amount equal the to the average annual amount expended by the Fund for such 2-year period for the expenses of the Governing, Administrative, and Advisory Bodies in excess of 10 percent of the total expenditures of the Fund.
 
 &emsp;(iv) The President may waive the application of clause (iii) if the President determines that extraordinary circumstances warrant such a waiver. No waiver under this clause may be for any period that exceeds 1 year.
 
-&emsp;(v) If, at any time during any of the fiscal years 2004 through 2008, the President determines that the salary of any individual employed by the Global Fund exceeds the salary of the Vice President of the United States (as determined under section 104 of title 3) forthat fiscal year, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the aggregate amount by which the salary of each such individual exceeds the salary of the Vice President of the United States.
+&emsp;(v) If, at any time during any of the fiscal years 2004 through 2008, the President determines that the salary of any individual employed by the Global Fund exceeds the salary of the Vice President of the United States (as determined under section 104 of title 3) for that fiscal year, then the United States shall withhold from its contribution for the next fiscal year an amount equal to the aggregate amount by which the salary of each such individual exceeds the salary of the Vice President of the United States.
 
-&emsp;(vi) For the purposes of clause (i), “funds contributed to the Global Fund from all sources” means funds contributed to the Global Fund at any time during fiscal years 2009 through 2013 that are not contributed to fulfill a commitment made for a fiscal year before fiscal year 2009.
+&emsp;(vi) For the purposes of clause (i), "funds contributed to the Global Fund from all sources" means funds contributed to the Global Fund at any time during fiscal years 2009 through 2018 that are not contributed to fulfill a commitment made for a fiscal year before fiscal year 2009.
 
-&emsp;(B)(i) Any amount made available under this subsection that is withheld by reason of subparagraph (A)(i) shall be contributed to the Global Fund as soon as practicable, subject to subparagraph (A)(i), after additional contributions to the Global Fund are made from other sources.
+&emsp;(B)(i) Any amount made available that is withheld by reason of subparagraph (A)(i) shall be contributed to the Global Fund as soon as practicable, subject to subparagraph (A)(i), after additional contributions to the Global Fund are made from other sources.
 
-&emsp;(ii) Any amount made available under this subsection that is withheld by reason of subparagraph (A)(iii) shall be transferred to the Activities to Combat HIV/AIDS Globally Fund and shall remain available under the same terms and conditions as funds appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance.
+&emsp;(ii) Any amount made available that is withheld by reason of subparagraph (A)(iii) shall be transferred to the Activities to Combat HIV/AIDS Globally Fund and shall remain available under the same terms and conditions as funds appropriated to carry out section 2151b–2 of this title for HIV/AIDS assistance.
 
-&emsp;(iii) Any amount made available under this subsection that is withheld by reason of clause (ii) or (iii) of subparagraph (A) is authorized to be made available to carry out section 2151b–2 of this title. Amounts made available under the preceding sentence are in addition to amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance.
+&emsp;(iii) Any amount made available that is withheld by reason of clause (ii) or (iii) of subparagraph (A) is authorized to be made available to carry out section 2151b–2 of this title. Amounts made available under the preceding sentence are in addition to amounts appropriated pursuant to the authorization of appropriations under section 7671 of this title for HIV/AIDS assistance.
 
-&emsp;(iv) Notwithstanding clause (i), after July 31 of each of the fiscal years 2009 through 2013, any amount made available under this subsection that is withheld by reason of subparagraph (A)(i) is authorized to be made available to carry out sections 2151b–2, 2151b–3, and 2151b–4 of this title.
+&emsp;(iv) Notwithstanding clause (i), after July 31 of each of the fiscal years 2009 through 2018, any amount made available that is withheld by reason of subparagraph (A)(i) is authorized to be made available to carry out sections 2151b–2, 2151b–3, and 2151b–4 of this title.
 
 &emsp;(C)(i) The President may suspend the application of subparagraph (A) with respect to a fiscal year if the President determines that an international health emergency threatens the national security interests of the United States.
 
@@ -128,13 +128,13 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 #### (5) Withholding funds
 
-&emsp;Notwithstanding any other provision of this chapter, 20 percent of the amounts appropriated pursuant to this chapter for a contribution to support the Global Fund for each of the fiscal years 2010 through 2013 shall be withheld from obligation to the Global Fund until the Secretary of State certifies to the appropriate congressional committees that the Global Fund—
+&emsp;Notwithstanding any other provision of this chapter, 20 percent of the amounts appropriated pursuant to this chapter for a contribution to support the Global Fund for each of the fiscal years 2010 through 2018 shall be withheld from obligation to the Global Fund until the Secretary of State certifies to the appropriate congressional committees that the Global Fund—
 
-&emsp;&emsp;(A) has established an evaluation framework for the performance of Local Fund Agents (referred to in this paragraph as “LFAs”);
+&emsp;&emsp;(A) has established an evaluation framework for the performance of Local Fund Agents (referred to in this paragraph as "LFAs");
 
 &emsp;&emsp;(B) is undertaking a systematic assessment of the performance of LFAs;
 
-&emsp;&emsp;(C) has adopted, and is implementing, a policy to publish on a publicly available Web site—
+&emsp;&emsp;(C) has adopted, and is implementing, a policy to publish on a publicly available Web site in an open, machine readable format—
 
 &emsp;&emsp;&emsp;(i) grant performance reviews;
 
@@ -144,23 +144,41 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 &emsp;&emsp;&emsp;(iv) reports from Board committees to the Board; and
 
-&emsp;&emsp;&emsp;(v) a regular collection and analysis of performance data and funding of grants of the Global Fund, which shall cover all principal recipients and all subrecipients;
+&emsp;&emsp;&emsp;(v) a regular collection, analysis, and reporting of performance data and funding of grants of the Global Fund, which covers all principal recipients and all subrecipients on the fiscal cycle of each grant, and includes the distribution of resources, by grant and principal recipient and subrecipient, for prevention, care, treatment, drugs, and commodities purchase, and other purposes as practicable;
 
 &emsp;&emsp;(D) is maintaining an independent, well-staffed Office of the Inspector General that—
 
 &emsp;&emsp;&emsp;(i) reports directly to the Board of the Global Fund; and
 
-&emsp;&emsp;&emsp;(ii) compiles regular, publicly published audits of financial, programmatic, and reporting aspects of the Global Fund, its grantees, and LFAs;
+&emsp;&emsp;&emsp;(ii) compiles regular, publicly published audits, in an open, machine readable format, of financial, programmatic, and reporting aspects of the Global Fund, its grantees, and LFAs;
 
-&emsp;&emsp;(E) has established, and is reporting publicly on, standard indicators for all program areas;
+&emsp;&emsp;(E) has established, and is reporting publicly, in an open, machine readable format, on, standard indicators for all program areas;
 
 &emsp;&emsp;(F) has established a methodology to track and is publicly reporting on—
 
-&emsp;&emsp;&emsp;(i) all subrecipients and the amount of funds disbursed to each subrecipient on the grant's fiscal cycle; and
+&emsp;&emsp;&emsp;(i) all subrecipients and the amount of funds disbursed to each subrecipient on the grant's fiscal cycle;
 
-&emsp;&emsp;&emsp;(ii) the distribution of resources, by grant and principal recipient, for prevention, care, treatment, drugs and commodities purchase, and other purposes;
+&emsp;&emsp;&emsp;(ii) all principal recipients and subrecipients and the amount of funds disbursed to each principal recipient and subrecipient on the fiscal cycle of the grant;
 
-&emsp;&emsp;(G) has established a policy on tariffs imposed by national governments on all goods and services financed by the Global Fund;
+&emsp;&emsp;&emsp;(iii) expenditure data—
+
+&emsp;&emsp;&emsp;&emsp;(I) tracked by principal recipients and subrecipients by program area, where practicable, prevention, care, and treatment and reported in a format that allows comparison with other funding streams in each country; or
+
+&emsp;&emsp;&emsp;&emsp;(II) if such expenditure data is not available, outlay or disbursement data, and an explanation of progress made toward providing such expenditure data; and
+
+&emsp;&emsp;&emsp;(iv) high-quality grant performance evaluations measuring inputs, outputs, and outcomes, as appropriate, with the goal of achieving outcome reporting;
+
+&emsp;&emsp;(G) has published an annual report on a publicly available Web site in an open, machine readable format, that includes—
+
+&emsp;&emsp;&emsp;(i) a list of all countries imposing import duties and internal taxes on any goods or services financed by the Global Fund;
+
+&emsp;&emsp;&emsp;(ii) a description of the types of goods or services on which the import duties and internal taxes are levied;
+
+&emsp;&emsp;&emsp;(iii) the total cost of the import duties and internal taxes;
+
+&emsp;&emsp;&emsp;(iv) recovered import duties or internal taxes; and
+
+&emsp;&emsp;&emsp;(v) the status of country status-agreements;
 
 &emsp;&emsp;(H) through its Secretariat, has taken meaningful steps to prevent national authorities in recipient countries from imposing taxes or tariffs on goods or services provided by the Fund;
 
@@ -186,7 +204,7 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 #### (2) Duties
 
-&emsp;The interagency technical review panel shall serve as a “shadow” panel to the Global Fund by—
+&emsp;The interagency technical review panel shall serve as a "shadow" panel to the Global Fund by—
 
 &emsp;&emsp;(A) periodically reviewing all proposals received by the Global Fund; and
 
@@ -212,7 +230,7 @@ Not later than 1 year after May 27, 2003, and annually thereafter for the durati
 
 #### (g) Provision of information to Congress
 
-The Coordinator of United States Government Activities to Combat HIV/AIDS Globally shall make available to the Congress the following documents within 30 days of a request by the Congress for such documents:
+The Coordinator of United States Government Activities to Combat HIV/AIDS Globally shallmake available to the Congress the following documents within 30 days of a request by the Congress for such documents:
 
 &emsp;(1) All financial and accounting statements for the Global Fund and the Activities to Combat HIV/AIDS Globally Fund, including administrative and grantee statements.
 
@@ -242,7 +260,7 @@ It is the sense of the Congress that the President should—
 
 &emsp;&emsp;(B) making public service announcements on radio and television.
 
-(Pub. L. 108–25, title II, §202, May 27, 2003, 117 Stat. 724; Pub. L. 108–199, div. D, title V, §595(1), (2), Jan. 23, 2004, 118 Stat. 209; Pub. L. 110–293, title II, §202, July 30, 2008, 122 Stat. 2936.)
+(Pub. L. 108–25, title II, §202, May 27, 2003, 117 Stat. 724; Pub. L. 108–199, div. D, title V, §595(1), (2), Jan. 23, 2004, 118 Stat. 209; Pub. L. 110–293, title II, §202, July 30, 2008, 122 Stat. 2936; Pub. L. 113–56, §4, Dec. 2, 2013, 127 Stat. 649.)
 
 #### References in Text
 
@@ -252,21 +270,47 @@ This chapter, referred to in subsecs. (a)(1)(B)(ii), (d)(5), and (e)(2)(B), was 
 
 #### Amendments
 
+<b>2013</b>—Subsec. (d)(4)(A)(i). Pub. L. 113–56, §4(a)(1)(A), substituted "2018" for "2013".
+
+Subsec. (d)(4)(A)(ii). Pub. L. 113–56, §4(a)(1)(B), substituted "2018" for "2013" and struck out at end "The President may waive the application of this clause with respect to assistance for Sudan that is overseen by the Southern Country Coordinating Mechanism, including Southern Sudan, Southern Kordofan, Blue Nile State, and Abyei, if the President determines that the national interest or humanitarian reasons justify such a waiver. The President shall publish each waiver of this clause in the Federal Register and, not later than 15 days before the waiver takes effect, shall consult with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives regarding the proposed waiver."
+
+Subsec. (d)(4)(A)(vi). Pub. L. 113–56, §4(a)(1)(C), substituted "2018" for "2013".
+
+Subsec. (d)(4)(B). Pub. L. 113–56, §4(a)(2)(A), struck out "under this subsection" after "amount made available" in cls. (i) to (iv).
+
+Subsec. (d)(4)(B)(ii). Pub. L. 113–56, §4(a)(2)(B), substituted "to carry out section 2151b–2 of this title" for "pursuant to the authorization of appropriations under section 7671 of this title".
+
+Subsec. (d)(4)(B)(iv). Pub. L. 113–56, §4(a)(2)(C), substituted "2018" for "2013".
+
+Subsec. (d)(5). Pub. L. 113–56, §4(b)(1)(A), substituted "2018" for "2013" in introductory provisions.
+
+Subsec. (d)(5)(C). Pub. L. 113–56, §4(b)(1)(B)(i), inserted "in an open, machine readable format" after "site" in introductory provisions.
+
+Subsec. (d)(5)(C)(v). Pub. L. 113–56, §4(b)(1)(B)(ii), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: "a regular collection and analysis of performance data and funding of grants of the Global Fund, which shall cover all principal recipients and all subrecipients;".
+
+Subsec. (d)(5)(D)(ii). Pub. L. 113–56, §4(b)(1)(C), inserted ", in an open, machine readable format," after "audits".
+
+Subsec. (d)(5)(E). Pub. L. 113–56, §4(b)(1)(D), inserted ", in an open, machine readable format," after "publicly".
+
+Subsec. (d)(5)(F)(ii) to (iv). Pub. L. 113–56, §4(b)(1)(E), added cls. (ii) to (iv) and struck out former cl. (ii) which read as follows: "the distribution of resources, by grant and principal recipient, for prevention, care, treatment, drugs and commodities purchase, and other purposes;".
+
+Subsec. (d)(5)(G). Pub. L. 113–56, §4(b)(1)(F), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: "has established a policy on tariffs imposed by national governments on all goods and services financed by the Global Fund;".
+
 <b>2008</b>—Subsec. (a). Pub. L. 110–293, §202(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) stated findings of Congress.
 
 Subsec. (b)(3). Pub. L. 110–293, §202(b), added par. (3).
 
-Subsec. (d)(1). Pub. L. 110–293, §202(c)(1), substituted “$2,000,000,000 for fiscal year 2009,” for “$1,000,000,000 for the period of fiscal year 2004 beginning on January 1, 2004” and “each of the fiscal years 2010 through 2013” for “the fiscal years 2005–2008”.
+Subsec. (d)(1). Pub. L. 110–293, §202(c)(1), substituted "$2,000,000,000 for fiscal year 2009," for "$1,000,000,000 for the period of fiscal year 2004 beginning on January 1, 2004" and "each of the fiscal years 2010 through 2013" for "the fiscal years 2005–2008".
 
-Subsec. (d)(4)(A)(i). Pub. L. 110–293, §202(c)(2)(A)(i), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
+Subsec. (d)(4)(A)(i). Pub. L. 110–293, §202(c)(2)(A)(i), substituted "fiscal years 2009 through 2013" for "fiscal years 2004 through 2008".
 
-Subsec. (d)(4)(A)(ii). Pub. L. 110–293, §202(c)(2)(A)(ii), substituted “during any of the fiscal years 2009 through 2013” for “during any of the fiscal years 2004 through 2008” and inserted at end “The President may waive the application of this clause with respect to assistance for Sudan that is overseen by the Southern Country Coordinating Mechanism, including Southern Sudan, Southern Kordofan, Blue Nile State, and Abyei, if the President determines that the national interest or humanitarian reasons justify such a waiver. The President shall publish each waiver of this clause in the Federal Register and, not later than 15 days before the waiver takes effect, shall consult with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives regarding the proposed waiver.”
+Subsec. (d)(4)(A)(ii). Pub. L. 110–293, §202(c)(2)(A)(ii), substituted "during any of the fiscal years 2009 through 2013" for "during any of the fiscal years 2004 through 2008" and inserted at end "The President may waive the application of this clause with respect to assistance for Sudan that is overseen by the Southern Country Coordinating Mechanism, including Southern Sudan, Southern Kordofan, Blue Nile State, and Abyei, if the President determines that the national interest or humanitarian reasons justify such a waiver. The President shall publish each waiver of this clause in the Federal Register and, not later than 15 days before the waiver takes effect, shall consult with the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives regarding the proposed waiver."
 
-Subsec. (d)(4)(A)(vi). Pub. L. 110–293, §202(c)(2)(A)(iii), substituted “For the purposes” for “for the purposes”, “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”, and “before fiscal year 2009” for “prior to fiscal year 2004”.
+Subsec. (d)(4)(A)(vi). Pub. L. 110–293, §202(c)(2)(A)(iii), substituted "For the purposes" for "for the purposes", "fiscal years 2009 through 2013" for "fiscal years 2004 through 2008", and "before fiscal year 2009" for "prior to fiscal year 2004".
 
-Subsec. (d)(4)(B)(iv). Pub. L. 110–293, §202(c)(2)(B), substituted “fiscal years 2009 through 2013” for “fiscal years 2004 through 2008”.
+Subsec. (d)(4)(B)(iv). Pub. L. 110–293, §202(c)(2)(B), substituted "fiscal years 2009 through 2013" for "fiscal years 2004 through 2008".
 
-Subsec. (d)(4)(C)(ii). Pub. L. 110–293, §202(c)(2)(C), substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
+Subsec. (d)(4)(C)(ii). Pub. L. 110–293, §202(c)(2)(C), substituted "Committee on Foreign Affairs" for "Committee on International Relations".
 
 Subsec. (d)(5), (6). Pub. L. 110–293, §202(c)(3), added pars. (5) and (6).
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 June 17, 1932, ch. 268, §6, 47 Stat. 321; July 15, 1942, ch. 505, §4, 56 Stat. 660.
 
-The words “as an organization” are omitted as unnecessary.
+The words "as an organization" are omitted as unnecessary.
 

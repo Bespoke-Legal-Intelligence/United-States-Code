@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (h) of this section, to be identified as an eligible provider of training services described in section 2864(d)(4) of this title (referred to in this section as “training services”) in a local area and to be eligible to receive funds made available under section 2863(b) of this title for the provision of training services, a provider of such services shall meet the requirements of this section.
+&emsp;Except as provided in subsection (h) of this section, to be identified as an eligible provider of training services described in section 2864(d)(4) of this title (referred to in this section as "training services") in a local area and to be eligible to receive funds made available under section 2863(b) of this title for the provision of training services, a provider of such services shall meet the requirements of this section.
 
 #### (2) Providers
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;&emsp;(ii) provides a program that leads to an associate degree, baccalaureate degree, or certificate;
 
-&emsp;&emsp;(B) an entity that carries out programs under the Act of August 16, 1937 (commonly known as the “National Apprenticeship Act” 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.); or
+&emsp;&emsp;(B) an entity that carries out programs under the Act of August 16, 1937 (commonly known as the "National Apprenticeship Act" 50 Stat. 664, chapter 663; 29 U.S.C. 50 et seq.); or
 
 &emsp;&emsp;(C) another public or private provider of a program of training services.
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;&emsp;(i) shall submit an application, to the local board for the local area in which the provider desires to provide training services, at such time and in such manner as may be required, and containing a description of the program;
 
-&emsp;&emsp;&emsp;(ii) if the provider provides training services through a program on the date of application, shall include in the application an appropriate portion of the performance information and program cost information described in subsection (d) of this section for the program, as specified in the procedure, and shall meet appropriate levels of performance for the program, as specified in the procedure; and
+&emsp;&emsp;&emsp;(ii) if the provider provides training services through a program on the date of application, shall include in the application an appropriate portion of the performance information and program cost information described in subsection (d) of this sectionfor the program, as specified in the procedure, and shall meet appropriate levels of performance for the program, as specified in the procedure; and
 
 &emsp;&emsp;&emsp;(iii) if the provider does not provide training services on such date, shall meet appropriate requirements, as specified in the procedure.
 
@@ -58,7 +58,7 @@
 
 #### (1) Procedure
 
-&emsp;Each Governor of a State shall establish a procedure for use by local boards in the State in determining the eligibility of a provider described in subsection (a)(2) of this section to continue to receive funds as described in subsection (a) of this section for a program after an initial period of eligibility under subsection (b) of this section (referred to in this section as “subsequent eligibility”).
+&emsp;Each Governor of a State shall establish a procedure for use by local boards in the State in determining the eligibility of a provider described in subsection (a)(2) of this section to continue to receive funds as described in subsection (a) of this section for a program after an initial period of eligibility under subsection (b) of this section (referred to in this section as "subsequent eligibility").
 
 #### (2) Recommendations
 
@@ -164,7 +164,7 @@
 
 #### (A) State list
 
-&emsp;&emsp;The designated State agency shall compile a single list of the providers identified underparagraph (3) from all local areas in the State and disseminate such list, and the performance information and program cost information described in paragraph (1), to the one-stop delivery systems within the State. Such list and information shall be made widely available to participants in employment and training activities authorized under section 2864 of this title and others through the one-stop delivery system.
+&emsp;&emsp;The designated State agency shall compile a single list of the providers identified under paragraph (3) from all local areas in the State and disseminate such list, and the performance information and program cost information described in paragraph (1), to the one-stop delivery systems within the State. Such list and information shall be made widely available to participants in employment and training activities authorized under section 2864 of this title and others through the one-stop delivery system.
 
 #### (B) Selection from State list
 

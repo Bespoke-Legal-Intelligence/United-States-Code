@@ -71,24 +71,24 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER VII—DISPOSAL OF WAR AND VETERANS’ HOUSING
+#### SUBCHAPTER VII—DISPOSAL OF WAR AND VETERANS' HOUSING
 
 |  |  |
 | :--- | ---: |
-| [1581\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001581%20-%20Housing%20disposition.md) | Housing disposition. |
-| [1582\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001582%20-%20Temporary%20housing%20exempted%20from%20provisions%20of%20section%201553%20of%20this%20title.md) | Temporary housing exempted from provisions of section 1553 of this title. |
-| [1583\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001583%20-%20Redetermination%20of%20demountable%20housing%20as%20temporary%20or%20permanent.md) | Redetermination of demountable housing as temporary or permanent. |
-| [1584\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001584%20-%20Removal%20of%20all%20dwelling%20structures%20on%20land%20under%20Secretary%27s%20control%3B%20temporary%20housing%20exempted%3B%20preference%20in%20fulfilling%20vacancies.md) | Removal of all dwelling structures on land under Secretary's control; temporary housing exempted; preference in fulfilling vacancies. |
-| [1585\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001585%20-%20Acquisition%20of%20housing%20sites.md) | Acquisition of housing sites. |
-| [1586\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001586%20-%20Sale%20of%20specific%20housing%20projects.md) | Sale of specific housing projects. |
-| [1587\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001587%20-%20Disposition%20of%20other%20permanent%20war%20housing.md) | Disposition of other permanent war housing. |
-| [1588\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001588%20-%20Sale%20of%20vacant%20land%20to%20local%20housing%20authorities%3B%20sale%20of%20personal%20property.md) | Sale of vacant land to local housing authorities; sale of personal property. |
-| [1589\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001589%20-%20Conveyance%20of%20land%20and%20nondwelling%20structures%20thereon%20to%20States%20for%20National%20Guard%20purposes.md) | Conveyance of land and nondwelling structures thereon to States for National Guard purposes. |
-| [1589a.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001589a%20-%20Extension%20by%20President%20of%20dates%20for%20disposal%20and%20other%20actions%20relating%20to%20housing%20under%20this%20subchapter.md) | Extension by President of dates for disposal and other actions relating to housing under this subchapter. |
-| [1589b.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001589b%20-%20Establishment%20of%20income%20limitations%20for%20occupancy%20of%20housing%3B%20effect%20on%20prior%20tenants.md) | Establishment of income limitations for occupancy of housing; effect on prior tenants. |
-| [1589c.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001589c%20-%20Transfer%20of%20certain%20housing%20to%20Indians.md) | Transfer of certain housing to Indians. |
-| [1589d.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001589d%20-%20Undisposed%20housing.md) | Undisposed housing. |
-| [1590\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/%C2%A7%2001590%20-%20Definitions.md) | Definitions. |
+| [1581\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%27%20Housing/%C2%A7%2001581%20-%20Housing%20disposition.md) | Housing disposition. |
+| [1582\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%27%20Housing/%C2%A7%2001582%20-%20Temporary%20housing%20exempted%20from%20provisions%20of%20section%201553%20of%20this%20title.md) | Temporary housing exempted from provisions of section 1553 of this title. |
+| [1583\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%27%20Housing/%C2%A7%2001583%20-%20Redetermination%20of%20demountable%20housing%20as%20temporary%20or%20permanent.md) | Redetermination of demountable housing as temporary or permanent. |
+| [1584\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%27%20Housing/%C2%A7%2001584%20-%20Removal%20of%20all%20dwelling%20structures%20on%20land%20under%20Secretary%27s%20control%3B%20temporary%20housing%20exempted%3B%20preference%20in%20fulfilling%20vacancies.md) | Removal of all dwelling structures on land under Secretary's control; temporary housing exempted; preference in fulfilling vacancies. |
+| [1585\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%27%20Housing/%C2%A7%2001585%20-%20Acquisition%20of%20housing%20sites.md) | Acquisition of housing sites. |
+| [1586\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%27%20Housing/%C2%A7%2001586%20-%20Sale%20of%20specific%20housing%20projects.md) | Sale of specific housing projects. |
+| [1587\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%27%20Housing/%C2%A7%2001587%20-%20Disposition%20of%20other%20permanent%20war%20housing.md) | Disposition of other permanent war housing. |
+| [1588\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%27%20Housing/%C2%A7%2001588%20-%20Sale%20of%20vacant%20land%20to%20local%20housing%20authorities%3B%20sale%20of%20personal%20property.md) | Sale of vacant land to local housing authorities; sale of personal property. |
+| [1589\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%27%20Housing/%C2%A7%2001589%20-%20Conveyance%20of%20land%20and%20nondwelling%20structures%20thereon%20to%20States%20for%20National%20Guard%20purposes.md) | Conveyance of land and nondwelling structures thereon to States for National Guard purposes. |
+| [1589a.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%27%20Housing/%C2%A7%2001589a%20-%20Extension%20by%20President%20of%20dates%20for%20disposal%20and%20other%20actions%20relating%20to%20housing%20under%20this%20subchapter.md) | Extension by President of dates for disposal and other actions relating to housing under this subchapter. |
+| [1589b.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%27%20Housing/%C2%A7%2001589b%20-%20Establishment%20of%20income%20limitations%20for%20occupancy%20of%20housing%3B%20effect%20on%20prior%20tenants.md) | Establishment of income limitations for occupancy of housing; effect on prior tenants. |
+| [1589c.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%27%20Housing/%C2%A7%2001589c%20-%20Transfer%20of%20certain%20housing%20to%20Indians.md) | Transfer of certain housing to Indians. |
+| [1589d.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%27%20Housing/%C2%A7%2001589d%20-%20Undisposed%20housing.md) | Undisposed housing. |
+| [1590\.](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%27%20Housing/%C2%A7%2001590%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -163,7 +163,7 @@
 - [Subchapter 004 (IV) - General Provisions Affecting Subchapters II to VII](Subchapter%20004%20%28IV%29%20-%20General%20Provisions%20Affecting%20Subchapters%20II%20to%20VII/README.md)
 - [Subchapter 005 (V) - Defense Housing and Public Works for District of Columbia](Subchapter%20005%20%28V%29%20-%20Defense%20Housing%20and%20Public%20Works%20for%20District%20of%20Columbia/README.md)
 - [Subchapter 006 (VI) - Housing for Distressed Families of Servicemen and Veterans](Subchapter%20006%20%28VI%29%20-%20Housing%20for%20Distressed%20Families%20of%20Servicemen%20and%20Veterans/README.md)
-- [Subchapter 007 (VII) - Disposal of War and Veterans&#8217; Housing](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%E2%80%99%20Housing/README.md)
+- [Subchapter 007 (VII) - Disposal of War and Veterans' Housing](Subchapter%20007%20%28VII%29%20-%20Disposal%20of%20War%20and%20Veterans%27%20Housing/README.md)
 - [Subchapter 008 (VIII) - Critical Defense Housing Areas](Subchapter%20008%20%28VIII%29%20-%20Critical%20Defense%20Housing%20Areas/README.md)
 - [Subchapter 009 (IX) - Defense Housing and Community Facilities and Services](Subchapter%20009%20%28IX%29%20-%20Defense%20Housing%20and%20Community%20Facilities%20and%20Services/README.md)
 - [Subchapter 010 (X) - Development Sites for Isolated Defense Installations](Subchapter%20010%20%28X%29%20-%20Development%20Sites%20for%20Isolated%20Defense%20Installations/README.md)

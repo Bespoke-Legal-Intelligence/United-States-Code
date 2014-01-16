@@ -4,7 +4,7 @@
 
 The Secretary of the Treasury shall make payments on account of awards certified by the Commission pursuant to this subchapter as follows:
 
-&emsp;(1) Payment in full of the principal amount of each award made pursuant to section1641d(a)(1) of this title and each award of $1,000 or less made pursuant to section 1641b or 1641c of this title;
+&emsp;(1) Payment in full of the principal amount of each award made pursuant to section 1641d(a)(1) of this title and each award of $1,000 or less made pursuant to section 1641b or 1641c of this title;
 
 &emsp;(2) Payment in full of the principal amount of each award of $1,000 or less made pursuant to section 1641d(a)(2) of this title;
 
@@ -30,9 +30,9 @@ The Secretary of the Treasury shall make payments on account of awards certified
 
 Such payments, and applications for such payments, shall be made in accordance with such regulations as the Secretary of the Treasury shall prescribe.
 
-#### (c) “Award” defined
+#### (c) "Award" defined
 
-For the purposes of making any such payments, an “award” shall be deemed to mean the aggregate of all awards certified in favor of the same claimant and payable from the same fund.
+For the purposes of making any such payments, an "award" shall be deemed to mean the aggregate of all awards certified in favor of the same claimant and payable from the same fund.
 
 #### (d) Consolidated award
 
@@ -46,5 +46,5 @@ With respect to any claim which, at the time of the award, is vested in persons 
 
 <b>1968</b>—Subsec. (a)(6). Pub. L. 90–421 added par. (6).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “claim”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "claim".</i>
 

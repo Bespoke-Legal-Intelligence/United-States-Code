@@ -32,5 +32,5 @@ July 14, 1964, Pub. L. 88–372, §6, 78 Stat. 316.
 
 &nbsp;
 
-In subsection (a), the words “are as provided in the bylaws” are substituted for “shall . . . be determined as the bylaws of the corporation may provide” for consistency in the revised title.
+In subsection (a), the words "are as provided in the bylaws" are substituted for "shall . . . be determined as the bylaws of the corporation may provide" for consistency in the revised title.
 

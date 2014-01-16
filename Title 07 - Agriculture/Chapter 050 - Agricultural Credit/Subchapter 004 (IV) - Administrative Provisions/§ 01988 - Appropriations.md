@@ -14,13 +14,13 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 (B) After a loan is sold in the secondary market, the lender shall remain obligated under its guarantee agreement with the Secretary, and shall continue to service the loan in accordance with the terms and conditions of such agreement.
 
-(C) The Secretary shall develop such procedures as are necessary for the facilitation, administration, and promotion of secondary market operations, and for determining the increase of farmers’ access to capital at reasonable rates and terms as a result of secondary market operations.
+(C) The Secretary shall develop such procedures as are necessary for the facilitation, administration, and promotion of secondary market operations, and for determining the increase of farmers' access to capital at reasonable rates and terms as a result of secondary market operations.
 
 (D) This subsection shall not be interpreted to impede or extinguish the right of the borrower or the successor in interest to such borrower to prepay (in whole or in part) any loan made under this chapter, or to impede or extinguish the rights of any party under any provision of this chapter.
 
 (2)(A) The Secretary may, directly or through a market maker approved by the Secretary, issue pool certificates representing ownership of part or all of the guaranteed portion of any loan guaranteed by the Secretary under this chapter. Such certificates shall be based on and backed by a pool established or approved by the Secretary and composed solely of the entire guaranteed portion of such loans.
 
-(B) The Secretary may, on such terms and conditions as the Secretary deems appropriate, guarantee the timely payment of the principal and interest on pool certificates issued on behalf of the Secretary by approved market makers for purposes of this subsection. Such guarantee shall be limited to the extent of principal and interest on the guaranteed portions of loans that compose the pool. If a loan in such pool isprepaid, either voluntarily or by reason of default, the guarantee of timely payment of principal and interest on the pool certificates shall be reduced in proportion to the amount of principal and interest such prepaid loan represents in the pool. Interest on prepaid or defaulted loans shall accrue and be guaranteed by the Secretary only through the date of payment on the guarantee. During the term of the pool certificate, the certificate may be called for redemption due to prepayment or default of all loans constituting the pool.
+(B) The Secretary may, on such terms and conditions as the Secretary deems appropriate, guarantee the timely payment of the principal and interest on pool certificates issued on behalf of the Secretary by approved market makers for purposes of this subsection. Such guarantee shall be limited to the extent of principal and interest on the guaranteed portions of loans that compose the pool. If a loan in such pool is prepaid, either voluntarily or by reason of default, the guarantee of timely payment of principal and interest on the pool certificates shall be reduced in proportion to the amount of principal and interest such prepaid loan represents in the pool. Interest on prepaid or defaulted loans shall accrue and be guaranteed by the Secretary only through the date of payment on the guarantee. During the term of the pool certificate, the certificate may be called for redemption due to prepayment or default of all loans constituting the pool.
 
 (C) The full faith and credit of the United States is pledged to the payment of all amounts that may be required to be paid under any guarantee of such pool certificates issued by approved market makers under this subsection. The Secretary may expend amounts in the Agricultural Credit Insurance Fund to make payments on such guarantees.
 
@@ -40,7 +40,7 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 &emsp;(A) Provide for the central collection of registration information from all participating market makers for all loans and pool certificates sold under paragraphs (1) and (2). Such information shall include, with respect to each original sale and any subsequent sale, identification of the interest rate paid by the borrower to the lender, the lender's servicing fee, whether interest on the loan is at a fixed or variable rate, identification of each purchaser of a pool certificate, the interest rate paid on the certificate, and such other information as the Secretary deems appropriate.
 
-&emsp;(B) Before any sale, require the seller to disclose to each prospective purchaser of the portion of a loan guaranteed under this chapter and to each prospective purchaser of a pool certificate issued under paragraph (2), information on the terms, conditions, and yield of such instrument. As used in this subparagraph, if the instrument being sold is a loan, the term “seller” does not include (i) the person who made the loan or (ii) any person who sells three or fewer guaranteed loans per year.
+&emsp;(B) Before any sale, require the seller to disclose to each prospective purchaser of the portion of a loan guaranteed under this chapter and to each prospective purchaser of a pool certificate issued under paragraph (2), information on the terms, conditions, and yield of such instrument. As used in this subparagraph, if the instrument being sold is a loan, the term "seller" does not include (i) the person who made the loan or (ii) any person who sells three or fewer guaranteed loans per year.
 
 &emsp;(C) Provide for adequate custody of any pooled guaranteed loans.
 
@@ -60,7 +60,7 @@ There is authorized to be appropriated to the Secretary such sums as the Congres
 
 #### References in Text
 
-For definition of “this chapter”, referred to in text, see note set out under section 1921 of this title.
+For definition of "this chapter", referred to in text, see note set out under section 1921 of this title.
 
 #### Amendments
 
@@ -68,7 +68,7 @@ For definition of “this chapter”, referred to in text, see note set out unde
 
 <b>1996</b>—Subsecs. (b) to (f). Pub. L. 104–127 redesignated subsec. (f) as (b) and struck out former subsecs. (b) to (e) which provided for: in subsec. (b), form and denomination of notes to obtain funds for making direct loans under this chapter as well as maturities, terms and conditions, interest rate, purchase by Treasury, and public debt transaction; in subsec. (c), establishment of Farmers Home Administration direct loan account as well as deposits into account, liabilities, obligations, expenditures, and net expenditure basis of budgeting; in subsec. (d), sale of notes and mortgages; and in subsec. (e), distribution of real estate loans among States.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–624 inserted “or the Rural Development Administration” after “Farmers Home Administration”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624 inserted "or the Rural Development Administration" after "Farmers Home Administration".
 
 <b>1988</b>—Subsec. (f)(5). Pub. L. 100–399 added par. (5).
 
@@ -82,11 +82,11 @@ Amendment by Pub. L. 100–399 effective as if enacted immediately after enactme
 
 #### Regulations
 
-Pub. L. 100–233, title VII, §711(b), Jan. 6, 1988, 101 Stat. 1709, provided that: “Within 180 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Secretary shall develop and promulgate final regulations to implement this section and the amendment made by this section \[amending this section and enacting provisions set out below\].”
+Pub. L. 100–233, title VII, §711(b), Jan. 6, 1988, 101 Stat. 1709, provided that: "Within 180 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Secretary shall develop and promulgate final regulations to implement this section and the amendment made by this section \[amending this section and enacting provisions set out below\]."
 
 #### Pool Certificates Not To Be Issued Until Final Regulations Take Effect
 
-Pub. L. 100–233, title VII, §711(c), Jan. 6, 1988, 101 Stat. 1709, provided that: “The Secretary of Agriculture shall not implement paragraph (2) of section 338(f) \[now 338(b)\] of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1988(f) \[now 1988(b)\]\], as added by subsection (a), until the final regulations governing the administration of such paragraph take effect.”
+Pub. L. 100–233, title VII, §711(c), Jan. 6, 1988, 101 Stat. 1709, provided that: "The Secretary of Agriculture shall not implement paragraph (2) of section 338(f) \[now 338(b)\] of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1988(f) \[now 1988(b)\]\], as added by subsection (a), until the final regulations governing the administration of such paragraph take effect."
 
 #### Loans to Indians
 

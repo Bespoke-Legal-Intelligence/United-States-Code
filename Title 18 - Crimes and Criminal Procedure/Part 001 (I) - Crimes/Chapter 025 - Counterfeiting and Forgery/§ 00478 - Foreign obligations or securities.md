@@ -16,7 +16,7 @@ Changes were also made in phraseology.
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–56 substituted “20 years” for “five years”.
+<b>2001</b>—Pub. L. 107–56 substituted "20 years" for "five years".
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
 

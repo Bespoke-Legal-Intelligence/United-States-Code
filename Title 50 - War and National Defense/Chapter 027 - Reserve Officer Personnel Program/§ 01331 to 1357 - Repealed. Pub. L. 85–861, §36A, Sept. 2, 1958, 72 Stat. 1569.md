@@ -42,7 +42,7 @@ Section 1350, act Sept. 3, 1954, ch. 1257, title V, §520, 68 Stat. 1179, provid
 
 Section 1351, act Sept. 3, 1954, ch. 1257, title V, §521, 68 Stat. 1179, provided for promotion to captain, major, and lieutenant colonel in the Air National Guard. See section 14301 et seq. of Title 10.
 
-Section 1352, act Sept. 3, 1954, ch. 1257, title V, §522, 68 Stat. 1180, related to deferred officers. See section 14301 et seq. of Title 10, Armed Forces, and section 323 of Title 32, National Guard.
+Section 1352, act Sept. 3, 1954, ch. 1257, title V, §522, 68 Stat. 1180, related to deferred officers. See section14301 et seq. of Title 10, Armed Forces, and section 323 of Title 32, National Guard.
 
 Section 1353, acts Sept. 3, 1954, ch. 1257, title V, §523, 68 Stat. 1181; June 30, 1955, ch. 247, §4(i), 69 Stat. 220, related to maximum ages for retention in active status. See sections 14510 to 14512 of Title 10, Armed Forces.
 

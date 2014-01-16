@@ -24,11 +24,11 @@ Each eligible agency that is using assistance provided under this section to car
 
 #### (1) Criminal offender
 
-&emsp;The term “criminal offender” means any individual who is charged with or convicted of any criminal offense.
+&emsp;The term "criminal offender" means any individual who is charged with or convicted of any criminal offense.
 
 #### (2) Correctional institution
 
-&emsp;The term “correctional institution” means any—
+&emsp;The term "correctional institution" means any—
 
 &emsp;&emsp;(A) prison;
 
@@ -50,7 +50,7 @@ Provisions similar to this section were contained in section 1204 of this title 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277, §101(f) \[title VIII, §404(d)(1)\], substituted “and education” for “or education”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §101(f) \[title VIII, §404(d)(1)\], substituted "and education" for "or education".
 
-Subsec. (c). Pub. L. 105–277, §101(f) \[title VIII, §404(d)(2)\], substituted “within” for “with” before “5 years”.
+Subsec. (c). Pub. L. 105–277, §101(f) \[title VIII, §404(d)(2)\], substituted "within" for "with" before "5 years".
 

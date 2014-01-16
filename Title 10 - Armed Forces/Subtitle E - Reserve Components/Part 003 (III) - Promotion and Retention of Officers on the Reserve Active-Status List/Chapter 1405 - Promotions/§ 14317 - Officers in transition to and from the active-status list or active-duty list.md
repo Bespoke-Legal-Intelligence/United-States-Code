@@ -16,7 +16,7 @@ Effect of Placement on Active-Duty List.—A reserve officer who is on a promoti
 
 (c)
 
-Officers on a Promotion List Removed From Active-Duty List.—An officer who is on the active-duty list and is on a promotion list as the result of selection for promotion by a selection board convened under chapter 36 of this title and who before being promoted is removed from the active-duty list and placed on the reserve active-status list of the same armed force and in the same competitive category (including a regular officer who on removal from the active-duty list is appointed as a reserve officer and placed on the reserve active-status list) shall, under regulations prescribed by the Secretary of Defense, be placed on an appropriate promotion list established under this chapter.
+Officers on a Promotion List Removed From Active-Duty List.—An officer who is on the active-duty list and is on a promotion list as the result of selection for promotion by a selection board convened under chapter 36 of this title and who before being promoted is removed from the active-duty list and placed on the reserve active-status list of the same armed force and in the same competitive category (includinga regular officer who on removal from the active-duty list is appointed as a reserve officer and placed on the reserve active-status list) shall, under regulations prescribed by the Secretary of Defense, be placed on an appropriate promotion list established under this chapter.
 
 (d)
 
@@ -50,17 +50,17 @@ Provisions similar to those in subsec. (a) of this section were contained in sec
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d). Pub. L. 110–417, §513(a), designated first sentence as par. (1) and second sentence as par. (2) and, in par. (1), substituted “unless the officer—” for “unless the officer”, inserted subpar. (A) designation before “is ordered”, substituted “duty; or” for “duty.”, and added subpar. (B).
+<b>2008</b>—Subsec. (d). Pub. L. 110–417, §513(a), designated first sentence as par. (1) and second sentence as par. (2) and, in par. (1), substituted "unless the officer—" for "unless the officer", inserted subpar. (A) designation before "is ordered", substituted "duty; or" for "duty.", and added subpar. (B).
 
-Subsec. (e)(1)(B). Pub. L. 110–417, §513(b), inserted “, or by examination for Federal recognition under title 32” before period at end.
+Subsec. (e)(1)(B). Pub. L. 110–417, §513(b), inserted ", or by examination for Federal recognition under title 32" before period at end.
 
-<b>2003</b>—Subsec. (d). Pub. L. 108–136, §512(a)(1), substituted “Except as provided in subsection (e), if a reserve officer” for “If a reserve officer”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–136, §512(a)(1), substituted "Except as provided in subsection (e), if a reserve officer" for "If a reserve officer".
 
-Subsec. (e). Pub. L. 108–136, §512(a)(2), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary of the military department concerned, a reserve officer who is not on the active-duty list and who is ordered to active duty in time of war or national emergency may, if eligible, be considered for promotion by a mandatory promotion board convened under section 14101(a) or a special selection board convened under section 14502 of this title for not more than two years from the date the officer is ordered to active duty unless the President suspends the operation of this section under the provisions of section 123 or 10213 of this title.”
+Subsec. (e). Pub. L. 108–136, §512(a)(2), amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows: "Under regulations prescribed by the Secretary of the military department concerned, a reserve officer who is not on the active-duty list and who is ordered to active duty in time of war or national emergency may, if eligible, be considered for promotion by a mandatory promotion board convened under section 14101(a) or a special selection board convened under section 14502 of this title for not more than two years from the date the officer is ordered to active duty unless the President suspends the operation of this section under the provisions of section 123 or 10213 of this title."
 
-<b>1997</b>—Subsec. (d). Pub. L. 105–85 substituted “section 14315” for “section 14314”.
+<b>1997</b>—Subsec. (d). Pub. L. 105–85 substituted "section 14315" for "section 14314".
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–106 inserted heading and substituted “123 or 10213” for “10213 or 644”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–106 inserted heading and substituted "123 or 10213" for "10213 or 644".
 
 #### Effective Date of 1996 Amendment
 

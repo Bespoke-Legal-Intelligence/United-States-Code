@@ -62,7 +62,7 @@ An institution of higher education seeking a grant under the program shall submi
 
 &emsp;(4) identification of the organizational unit within the department or division of arts and sciences or the science department at the institution that will adopt teacher certification for elementary and secondary teachers as its primary mission;
 
-&emsp;(5) identification of core faculty within the department or division of arts and sciences or the science department at the institution tochampion teacher preparation in their departments by teaching courses dedicated to preparing future elementary and secondary school teachers, helping create new degree plans, advising prospective students within their major, and assisting as needed with program administration;
+&emsp;(5) identification of core faculty within the department or division of arts and sciences or the science department at the institution to champion teacher preparation in their departments by teaching courses dedicated to preparing future elementary and secondary school teachers, helping create new degree plans, advising prospective students within their major, and assisting as needed with program administration;
 
 &emsp;(6) identification of core faculty in the education department or its equivalent at the institution to champion teacher preparation by creating and teaching courses specific to the preparation of science, technology, engineering, and mathematics and working closely with colleagues in the department or division of arts and sciences or the science department; and
 

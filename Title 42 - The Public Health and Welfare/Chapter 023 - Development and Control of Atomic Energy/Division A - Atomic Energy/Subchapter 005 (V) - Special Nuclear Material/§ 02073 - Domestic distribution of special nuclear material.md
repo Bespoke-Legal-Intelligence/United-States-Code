@@ -24,11 +24,11 @@ The Commission shall establish, by rule, minimum criteria for the issuance of sp
 
 #### (c) Manner of distribution; charges for material sold; agreements; charges for material leased
 
-(1) The Commission may distribute special nuclear material licensed under this section by sale, lease, lease with option to buy, or grant: <i>Provided, however</i>, That unless otherwise authorized by law, the Commission shall not after December 31, 1970, distribute special nuclear material except by sale to any person who possesses or operates a utilization facility under a license issued pursuant to section 2133 or 2134(b) of this title for use in the course of activities under such license; nor shall the Commission permit any such person after June 30, 1973, to continue leasing for use in the course of such activities special nuclear material previously leased to such person by the Commission.
+(1) The Commission may distribute special nuclear material licensed under this section by sale, lease, lease with option to buy, or grant: <i>Provided, however</i>, That unless otherwise authorized by law, the Commission shall not after December 31, 1970, distribute special nuclear material except by sale to any person who possesses or operates a utilization facility under a license issued pursuant to section 2133 or 2134(b) of this title for use in the course of activities under such license; nor shall the Commission permitany such person after June 30, 1973, to continue leasing for use in the course of such activities special nuclear material previously leased to such person by the Commission.
 
 (2) The Commission shall establish reasonable sales prices for the special nuclear material licensed and distributed by sale under this section. Such sales prices shall be established on a nondiscriminatory basis which, in the opinion of the Commission, will provide reasonable compensation to the Government for such special nuclear material.
 
-(3) The Commission is authorized to enter into agreements with licensees for such period of time as the Commission may deem necessary or desirable to distribute to such licensees such quantities of special nuclear material as may be necessary for the conduct of the licensed activity. In such agreements, the Commission may agree to repurchase any special nuclear material licensed and distributed by sale which is not consumed in the course of the licensed activity, or any uranium remaining after irradiation of such special nuclear material, at a repurchaseprice not to exceed the Commission's sale price for comparable special nuclear material or uranium in effect at the time of delivery of such material to the Commission.
+(3) The Commission is authorized to enter into agreements with licensees for such period of time as the Commission may deem necessary or desirable to distribute to such licensees such quantities of special nuclear material as may be necessary for the conduct of the licensed activity. In such agreements, the Commission may agree to repurchase any special nuclear material licensed and distributed by sale which is not consumed in the course of the licensed activity, or any uranium remaining after irradiation of such special nuclear material, at a repurchase price not to exceed the Commission's sale price for comparable special nuclear material or uranium in effect at the time of delivery of such material to the Commission.
 
 (4) The Commission may make a reasonable charge, determined pursuant to this section, for the use of special nuclear material licensed and distributed by lease under subsection (a)(1), (2) or (4) of this section and shall make a reasonable charge determined pursuant to this section for the use of special nuclear material licensed and distributed by lease under subsection (a)(3) of this section. The Commission shall establish criteria in writing for the determination of whether special nuclear material will be distributed by grant and for the determination of whether a charge will be made for the use of special nuclear material licensed and distributed by lease under subsection (a)(1), (2) or (4) of this section, considering, among other things, whether the licensee is a nonprofit or eleemosynary institution and the purposes for which the special nuclear material will be used.
 
@@ -70,7 +70,11 @@ Each license issued pursuant to this section shall contain and be subject to the
 
 The Commission is directed to distribute within the United States sufficient special nuclear material to permit the conduct of widespread independent research and development activities to the maximum extent practicable. In the event that applications for special nuclear material exceed the amount available for distribution, preference shall be given to those activities which are most likely, in the opinion of the Commission, to contribute to basic research, to the development of peacetime uses of atomic energy, or to the economic and military strength of the Nation.
 
-(Aug. 1, 1946, ch. 724, title I, §53, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 930; amended Pub. L. 85–256, §2, Sept. 2, 1957, 71 Stat. 576; Pub. L. 85–681, §§1, 2, Aug. 19, 1958, 72 Stat. 632; Pub. L. 88–489, §§5–8, Aug. 26, 1964, 78 Stat. 603, 604; Pub. L. 90–190, §§9, 10, Dec. 14, 1967, 81 Stat. 577; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(3), (8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §53, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 930; amended Pub. L. 85–256, §2, Sept. 2, 1957, 71 Stat. 576; Pub. L. 85–681, §§1, 2, Aug. 19, 1958, 72 Stat. 632; Pub. L. 88–489, §§5–8, Aug. 26, 1964, 78 Stat. 603, 604; Pub.L. 90–190, §§9, 10, Dec. 14, 1967, 81 Stat. 577; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(3), (8), Oct. 24, 1992, 106 Stat. 2944.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(4) and (e)(3) to (5), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Prior Provisions
 
@@ -78,23 +82,23 @@ Provisions similar to this section were contained in section 1805(a)(4) of this 
 
 #### Amendments
 
-<b>1992</b>—Subsec. (c)(1). Pub. L. 102–486, §902(a)(3), substituted “or grant” for “grant,” and struck out “or through the provision of production or enrichment services” before “: <i>Provided, however</i>” and before “to any person”.
+<b>1992</b>—Subsec. (c)(1). Pub. L. 102–486, §902(a)(3), substituted "or grant" for "grant," and struck out "or through the provision of production or enrichment services" before ": <i>Provided, however</i>" and before "to any person".
 
-<b>1967</b>—Subsec. (c)(1). Pub. L. 90–190, §10, inserted “or through the provision of production or enrichment services” wherever appearing.
+<b>1967</b>—Subsec. (c)(1). Pub. L. 90–190, §10, inserted "or through the provision of production or enrichment services" wherever appearing.
 
 Subsec. (f). Pub. L. 90–190, §9, struck out reference to the limitations on the distribution of special nuclear materials set by the President in determinations made pursuant to section 2061 of this title.
 
-<b>1964</b>—Subsec. (a). Pub. L. 88–489, §5, substituted “(i) to issue licenses to transfer or receive in interstate commerce, transfer, deliver, acquire, possess, own, receive possession of or title to, import, or export underthe terms of an agreement for cooperation arranged pursuant to section 2153 of this title, special nuclear material, (ii) to make special nuclear material available for the period of the license, and, (iii)” for “to issue licenses for the possession of, to make available for the period of the license, and”.
+<b>1964</b>—Subsec. (a). Pub. L. 88–489, §5, substituted "(i) to issue licenses to transfer or receive in interstate commerce, transfer, deliver, acquire, possess, own, receive possession of or title to, import, or export under the terms of an agreement for cooperation arranged pursuant to section 2153 of this title, special nuclear material, (ii) to make special nuclear material available for the period of the license, and, (iii)" for "to issue licenses for the possession of, to make available for the period of the license, and".
 
-Subsec. (c). Pub. L. 88–489, §6, designated existing provisions as par. (4), inserted “by lease” wherever appearing and “special nuclear material will be distributed by grant and for the determination of whether”, and added pars. (1) to (3).
+Subsec. (c). Pub. L. 88–489, §6, designated existing provisions as par. (4), inserted "by lease" wherever appearing and "special nuclear material will be distributed by grant and for the determination of whether", and added pars. (1) to (3).
 
-Subsec. (d). Pub. L. 88–489, §7, inserted “by lease” in introductory provisions, and in ch. (5) substituted “equivalent to the sale price for similar special nuclear material established by the Commission in accordance with subsection (c)(2) of this section, and the Commission may make such a charge with respect to such material consumed in a facility licensed pursuant to section 2134 of this title” for “based on the cost to the Commission, as estimated by the Commission, or the average fair price paid for the production of such special nuclear material as determined by section 2076 of this title, whichever is lower”.
+Subsec. (d). Pub. L. 88–489, §7, inserted "by lease" in introductory provisions, and in ch. (5) substituted "equivalent to the sale price for similar special nuclear material established by the Commission in accordance with subsection (c)(2) of this section, and the Commission may make such a charge with respect to such material consumed in a facility licensed pursuant to section 2134 of this title" for "based on the cost to the Commission, as estimated by the Commission, or the average fair price paid for the production of such special nuclear material as determined by section 2076 of this title, whichever is lower".
 
 Subsec. (e)(1). Pub. L. 88–489, §8, struck out par. (1) which provided that title to all special nuclear material shall at all times be in the United States.
 
 <b>1958</b>—Subsec. (a)(4). Pub. L. 85–681, §1, added par. (4).
 
-Subsec. (c). Pub. L. 85–681, §2, substituted “subsections (a)(1), (2) or (4)” for “subsection (a)(1) or (a) (2)”.
+Subsec. (c). Pub. L. 85–681, §2, substituted "subsections (a)(1), (2) or (4)" for "subsection (a)(1) or (a) (2)".
 
-<b>1957</b>—Subsec. (e)(8). Pub. L. 85–256 inserted “except to the extent that the indemnification and limitation of liability provisions of section 2210 of this title apply,”.
+<b>1957</b>—Subsec. (e)(8). Pub. L. 85–256 inserted "except to the extent that the indemnification and limitation of liability provisions of section 2210 of this title apply,".
 

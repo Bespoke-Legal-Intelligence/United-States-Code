@@ -1,6 +1,6 @@
 ### §2023. Administrative and judicial review; restoration of rights
 
-(a)(1) Whenever an application of a retail food store or wholesale food concern to participate in the supplemental nutrition assistance program is denied pursuant to section 2018 of this title, or a retail food store or wholesale food concern is disqualified or subjected to a civil money penalty under the provisions of section 2021 of this title, or a retail food store or wholesale food concern forfeits a bond under section 2021(d) of this title, or all or part of any claim of a retail food store or wholesale food concern is denied under the provisions of section 2022 of this title, or a claim against a State agency is stated pursuant to the provisions of section 2022 of this title, notice of such administrative action shall be issued to the retail food store, wholesale food concern, or State agency involved.
+(a)(1) Whenever an application of a retail food store or wholesale food concern to participate in the supplemental nutrition assistance program is denied pursuant to section 2018 of this title, or a retail food store or wholesale food concern is disqualified or subjected to a civil money penalty under the provisions of section 2021 of thistitle, or a retail food store or wholesale food concern forfeits a bond under section 2021(d) of this title, or all or part of any claim of a retail food store or wholesale food concern is denied under the provisions of section 2022 of this title, or a claim against a State agency is stated pursuant to the provisions of section 2022 of this title, notice of such administrative action shall be issued to the retail food store, wholesale food concern, or State agency involved.
 
 (2)
 
@@ -34,7 +34,7 @@ Delivery of notices.—A notice under paragraph (1) shall be delivered by any fo
 
 (16) If the court determines that such administrative action is invalid, it shall enter such judgment or order as it determines is in accordance with the law and the evidence.
 
-(17) During the pendency of such judicial review, or any appeal therefrom, the administrative action under review shall be and remain in full force and effect, unless on application to the court on not less than ten days’ notice, and after hearing thereon and a consideration by the court of the applicant's likelihood of prevailing on the merits and of irreparable injury, the court temporarily stays such administrative action pending disposition of such trial or appeal.
+(17) During the pendency of such judicial review, or any appeal therefrom, the administrative action under review shall be and remain in full force and effect, unless on application to the court on not less than ten days' notice, and after hearing thereon and a consideration by the court of the applicant's likelihood of prevailing on the merits and of irreparable injury, the court temporarily stays such administrative action pending disposition of such trial or appeal.
 
 (18)
 
@@ -54,21 +54,21 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program".
 
-Subsec. (b). Pub. L. 110–246, §4002(a)(7), substituted “any allotments” for “any food stamp allotments”.
+Subsec. (b). Pub. L. 110–246, §4002(a)(7), substituted "any allotments" for "any food stamp allotments".
 
-<b>2002</b>—Subsec. (a)(2). Pub. L. 107–171 added heading and text of par. (2) and struck out former par. (2) which read as follows: “Such notice shall be delivered by certified mail or personal service.”
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–171 added heading and text of par. (2) and struck out former par. (2) which read as follows: "Such notice shall be delivered by certified mail or personal service."
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–193 designated first through seventeenth sentences as pars. (1) to (17), respectively, and added par. (18).
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–66 inserted “(including determinations as to whether there is good cause for not imposing all or a portion of the penalty)” after “Determinations regarding claims made pursuant to section 2025(c) of this title” in sixth sentence and struck out at end “Notwithstanding the administrative or judicial review procedures set forth in this subsection, determinations by the Secretary concerning whether a State agency had good cause for its failure to meet error rate tolerance levels established under section 2025(c) of this title are final.”
+<b>1993</b>—Subsec. (a). Pub. L. 103–66 inserted "(including determinations as to whether there is good cause for not imposing all or a portion of the penalty)" after "Determinations regarding claims made pursuant to section 2025(c) of this title" in sixth sentence and struck out at end "Notwithstanding the administrative or judicial review procedures set forth in this subsection, determinations by the Secretary concerning whether a State agency had good cause for its failure to meet error rate tolerance levels established under section 2025(c) of this title are final."
 
 <b>1988</b>—Subsec. (a). Pub. L. 100–435 inserted provisions relating to judicial review and determinations regarding excessive payment error rate claims pursuant to section 2025(c) of this title.
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–198 substituted “on application” for “an application” and “consideration by the court of the applicant's likelihood of prevailing on the merits and of irreparable injury” for “showing of irreparable injury”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–198 substituted "on application" for "an application" and "consideration by the court of the applicant's likelihood of prevailing on the merits and of irreparable injury" for "showing of irreparable injury".
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–253 substituted “section 2021 of this title, or a retail food store or wholesale food concern forfeits a bond under section 2021(d) of this title,” for “section 2021 of this title,”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–253 substituted "section 2021 of this title, or a retail food store or wholesale food concern forfeits a bond under section 2021(d) of this title," for "section 2021 of this title,".
 
 <b>1981</b>—Pub. L. 97–98 designated existing provision as subsec. (a) and added subsec. (b).
 
@@ -90,7 +90,7 @@ Amendment by sections 4001(b) and 4002(a)(7) of Pub. L. 110–246 effective Oct.
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–171, title IV, §4117(b), May 13, 2002, 116 Stat. 316, provided that: “The amendment made by this section \[amending this section\] takes effect on the date of enactment of this Act \[May 13, 2002\].”
+Pub. L. 107–171, title IV, §4117(b), May 13, 2002, 116 Stat. 316, provided that: "The amendment made by this section \[amending this section\] takes effect on the date of enactment of this Act \[May 13, 2002\]."
 
 #### Effective Date of 1993 Amendment
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 97–253 effective Sept. 8, 1982, see section 193(a) of Pub
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–98 effective on earlier of Sept. 8, 1982, or date such amendment became effectivepursuant to section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title, see section 192(b) of Pub. L. 97–253, set out as a note under section 2012 of this title.
+Amendment by Pub. L. 97–98 effective on earlier of Sept. 8, 1982, or date such amendment became effective pursuant to section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title, see section 192(b) of Pub. L. 97–253, set out as a note under section 2012 of this title.
 
 Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agriculture may prescribe, taking into account need for orderly implementation, see section 1338 of Pub. L. 97–98, set out as a note under section 2012 of this title.
 
@@ -118,7 +118,7 @@ Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 958, provided tha
 
 Amendment by Pub. L. 92–603 effective Jan. 1, 1973, see section 411(h) of Pub. L. 92–603, set out as a note under section 2012 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "section".</i>
 

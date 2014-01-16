@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Administration, in consultation with the National Institute of Standards and Technology and the National Technical Information Service, shall establish a Pilot Technology Access Program, for making awards under this section to Small Business Development Centers (hereinafter in this section referred to as “Centers”).
+The Administration, in consultation with the National Institute of Standards and Technology and the National Technical Information Service, shall establish a Pilot Technology Access Program, for making awards under this section to Small Business Development Centers (hereinafter in this section referred to as "Centers").
 
 #### (b) Criteria for selection of Centers
 
@@ -16,7 +16,7 @@ The Administrator of the Small Business Administration shall establish competiti
 
 #### (c) Matching requirement
 
-To be eligible to receive an award under this section, an applicant shall provide a matchingcontribution at least equal to that received under such award, not more than 50 percent of which may be waived overhead or in-kind contributions.
+To be eligible to receive an award under this section, an applicant shall provide a matching contribution at least equal to that received under such award, not more than 50 percent of which may be waived overhead or in-kind contributions.
 
 #### (d) Purpose of awards
 

@@ -34,7 +34,7 @@ Service Agreement for Scholarship Recipients.—(1) To receive financial assista
 
 (c)
 
-Amount of Assistance.—The amount of the financial assistance provided for a person under this section shall be the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost ofbooks, laboratory expenses, and expenses of room and board. The expenses paid, however, shall be limited to those educational expenses normally incurred by students at the institution of higher education involved.
+Amount of Assistance.—The amount of the financial assistance provided for a person under this section shall be the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, and expenses of room and board. The expenses paid, however, shall be limited to those educational expenses normally incurred by students at the institution of higher education involved.
 
 (d)
 
@@ -62,21 +62,21 @@ Employment of Program Participants.—The Secretary of Defense—
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–84, §1103(b), substituted “subsection (f),” for “subsection (g),” in introductory provisions.
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, §1103(b), substituted "subsection (f)," for "subsection (g)," in introductory provisions.
 
-Subsec. (e)(1). Pub. L. 111–84, §1073(a)(20), substituted “subsection (b)” for “section (b)”.
+Subsec. (e)(1). Pub. L. 111–84, §1073(a)(20), substituted "subsection (b)" for "section (b)".
 
 Subsec. (g). Pub. L. 111–84, §1103(a), added subsec. (g).
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–163, §687(c)(8)(A), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows:
 
-“(1) A person who voluntarily terminates service before the end of the period of obligated service required under an agreement entered into under subsection (b) shall refund to the United States an amount determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for financial assistance and otherwise to achieve the goals set forth in section 2200(a) of this title.
+"(1) A person who voluntarily terminates service before the end of the period of obligated service required under an agreement entered into under subsection (b) shall refund to the United States an amount determined by the Secretary of Defense as being appropriate to obtain adequate service in exchange for financial assistance and otherwise to achieve the goals set forth in section 2200(a) of this title.
 
-“(2) An obligation to reimburse the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
+"(2) An obligation to reimburse the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
 
-“(3) The Secretary of Defense may waive, in whole or in part, a refund required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States.”
+"(3) The Secretary of Defense may waive, in whole or in part, a refund required under paragraph (1) if the Secretary determines that recovery would be against equity and good conscience or would be contrary to the best interests of the United States."
 
-Subsecs. (f), (g). Pub. L. 109–163, §687(c)(8)(B), (C), redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f). Text read as follows: “A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (e).”
+Subsecs. (f), (g). Pub. L. 109–163, §687(c)(8)(B), (C), redesignated subsec. (g) as (f) and struck out heading and text of former subsec. (f). Text read as follows: "A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (e)."
 
 #### Savings Provision
 

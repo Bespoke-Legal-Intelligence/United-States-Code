@@ -32,87 +32,87 @@ Aug. 23, 1958, Pub. L. 85–726, §607 (1st sentence), 72 Stat. 779.
 
 Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
 
-In this section, the word “Administrator” in section 607 (1st sentence) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 779) is retained on authority of 49:106(g). In clauses (1) and (2), the word “overhaul” is omitted as surplus. In clause (1), the words “course of” are omitted as surplus. In clause (3), the words “in his opinion” are omitted as surplus.
+In this section, the word "Administrator" in section 607 (1st sentence) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 779) is retained on authority of 49:106(g). In clauses (1) and (2), the word "overhaul" is omitted as surplus. In clause (1), the words "course of" are omitted as surplus. In clause (3), the words "in his opinion" are omitted as surplus.
 
 #### Aircraft Repair and Maintenance Advisory Panel
 
 Pub. L. 106–181, title VII, §734, Apr. 5, 2000, 114 Stat. 170, provided that:
 
-“(a)
+"(a)
 
 Establishment of Panel.—The Administrator \[of the Federal Aviation Administration\]—
 
-&emsp;“(1) shall establish an aircraft repair and maintenance advisory panel to review issues related to the use and oversight of aircraft and aviation component repair and maintenance facilities (in this section referred to as ‘aircraft repair facilities’) located within, or outside of, the United States; and
+&emsp;"(1) shall establish an aircraft repair and maintenance advisory panel to review issues related to the use and oversight of aircraft and aviation component repair and maintenance facilities (in this section referred to as 'aircraft repair facilities') located within, or outside of, the United States; and
 
-&emsp;“(2) may seek the advice of the panel on any issue related to methods to increase safety by improving the oversight of aircraft repair facilities.
+&emsp;"(2) may seek the advice of the panel on any issue related to methods to increase safety by improving the oversight of aircraft repair facilities.
 
-“(b)
+"(b)
 
 Membership.—The panel shall consist of—
 
-&emsp;“(1) nine members appointed by the Administrator as follows:
+&emsp;"(1) nine members appointed by the Administrator as follows:
 
-&emsp;&emsp;“(A) three representatives of labor organizations representing aviation mechanics;
+&emsp;&emsp;"(A) three representatives of labor organizations representing aviation mechanics;
 
-&emsp;&emsp;“(B) one representative of cargo air carriers;
+&emsp;&emsp;"(B) one representative of cargo air carriers;
 
-&emsp;&emsp;“(C) one representative of passenger air carriers;
+&emsp;&emsp;"(C) one representative of passenger air carriers;
 
-&emsp;&emsp;“(D) one representative of aircraft repair facilities;
+&emsp;&emsp;"(D) one representative of aircraft repair facilities;
 
-&emsp;&emsp;“(E) one representative of aircraft manufacturers;
+&emsp;&emsp;"(E) one representative of aircraft manufacturers;
 
-&emsp;&emsp;“(F) one representative of on-demand passenger air carriers and corporate aircraft operations; and
+&emsp;&emsp;"(F) one representative of on-demand passenger air carriers and corporate aircraft operations; and
 
-&emsp;&emsp;“(G) one representative of regional passenger air carriers;
+&emsp;&emsp;"(G) one representative of regional passenger air carriers;
 
-&emsp;“(2) one representative from the Department of Commerce, designated by the Secretary of Commerce;
+&emsp;"(2) one representative from the Department of Commerce, designated by the Secretary of Commerce;
 
-&emsp;“(3) one representative from the Department of State, designated by the Secretary of State; and
+&emsp;"(3) one representative from the Department of State, designated by the Secretary of State; and
 
-&emsp;“(4) one representative from the Federal Aviation Administration, designated by the Administrator.
+&emsp;"(4) one representative from the Federal Aviation Administration, designated by the Administrator.
 
-“(c)
+"(c)
 
 Responsibilities.—The panel shall—
 
-&emsp;“(1) determine the amount and type of work that is being performed by aircraft repair facilities located within, and outside of, the United States; and
+&emsp;"(1) determine the amount and type of work that is being performed by aircraft repair facilities located within, and outside of, the United States; and
 
-&emsp;“(2) provide advice and counsel to the Secretary \[of Transportation\] with respect to the aircraft and aviation component repair work performed by aircraft repair facilities and air carriers, staffing needs, and any balance of trade or safety issues associated with that work.
+&emsp;"(2) provide advice and counsel to the Secretary \[of Transportation\] with respect to the aircraft and aviation component repair work performed by aircraft repair facilities and air carriers, staffing needs, and any balance of trade or safety issues associated with that work.
 
-“(d)
+"(d)
 
 DOT To Request Information From Air Carriers and Repair Facilities.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Collection of information.—The Secretary, by regulation, shall require air carriers, foreign air carriers, domestic repair facilities, and foreign repair facilities to submit such information as the Secretary may require in order to assess balance of trade and safety issues with respect to work performed on aircraft used by air carriers, foreign air carriers, United States corporate operators, and foreign corporate operators.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Drug and alcohol testing information.—Included in the information the Secretary requires under paragraph (1) shall be information on the existence and administration of employee drug and alcohol testing programs in place at the foreign repair facilities, if applicable. The Secretary, if necessary, shall work with the International Civil Aviation Organization to increase the number and improve the administration of employee drug and alcohol testing programs at the foreign repair facilities.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Description of work done.—Included in the information the Secretary requires under paragraph (1) shall be information on the amount and type of work performed on aircraft registered in and outside of the United States.
 
-“(e)
+"(e)
 
 DOT To Facilitate Collection of Information About Aircraft Maintenance.—The Secretary shall facilitate the collection of information from the National Transportation Safety Board, the Federal Aviation Administration, and other appropriate agencies regarding maintenance performed by aircraft repair facilities.
 
-“(f)
+"(f)
 
 DOT To Make Information Available to Public.—The Secretary shall make any relevant information received under subsection (d) available to the public, consistent with the authority to withhold trade secrets or commercial, financial, and other proprietary information under section 552 of title 5, United States Code.
 
-“(g)
+"(g)
 
 Termination.—The panel established under subsection (a) shall terminate on the earlier of—
 
-&emsp;“(1) the date that is 2 years after the date of the enactment of this Act \[Apr. 5, 2000\]; or
+&emsp;"(1) the date that is 2 years after the date of the enactment of this Act \[Apr. 5, 2000\]; or
 
-&emsp;“(2) December 31, 2001.
+&emsp;"(2) December 31, 2001.
 
-“(h)
+"(h)
 
-Definitions.—The definitions contained in section 40102 of title 49, United States Code, shall apply to this section.”
+Definitions.—The definitions contained in section 40102 of title 49, United States Code, shall apply to this section."
 

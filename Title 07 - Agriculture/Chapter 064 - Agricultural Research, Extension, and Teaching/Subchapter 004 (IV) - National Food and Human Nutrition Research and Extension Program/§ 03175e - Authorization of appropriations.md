@@ -16,9 +16,9 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–246, §7116(b), substituted “section 3175(d)(2)” for “section 3175(c)(2)”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246, §7116(b), substituted "section 3175(d)(2)" for "section 3175(c)(2)".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted “$8,000,000 for each of the fiscal years 1991 through 1995.” for “$5,000,000 for the fiscal year ending September 30, 1986; $6,000,000 for the fiscal year ending September 30, 1987; and $8,000,000 for each of the fiscal years ending September 30, 1988, September 30, 1989, and September 30, 1990.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted "$8,000,000 for each of the fiscal years 1991 through 1995." for "$5,000,000 for the fiscal year ending September 30, 1986; $6,000,000 for the fiscal year ending September 30, 1987; and $8,000,000 for each of the fiscal years ending September 30, 1988, September 30, 1989, and September 30, 1990."
 
 #### Effective Date of 2008 Amendment
 

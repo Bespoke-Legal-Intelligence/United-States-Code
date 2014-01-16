@@ -8,7 +8,7 @@
 
 &emsp;(3) may not be made the basis for terminal leave or for a lump-sum payment.
 
-(b) The President may authorize leave of absence to a chief of mission excepted from this subchapter by section 6301(2)(xii) of this title for use in the United States and its territories or possessions. Leave so authorized does not constitute a leave system and may not be made the basis for a lump-sum payment.
+(b) The President may authorize leave of absence to a chief of mission excepted from this subchapter by section 6301(2)(xii) of this title foruse in the United States and its territories or possessions. Leave so authorized does not constitute a leave system and may not be made the basis for a lump-sum payment.
 
 (c) An officer, crewmember, or other employee serving aboard an oceangoing vessel on an extended voyage may be granted leave of absence, under regulations of the Office of Personnel Management, at a rate not to exceed 2 days for each 30 calendar days of that service without regard to other leave provided by this subchapter. Leave so granted—
 
@@ -90,7 +90,7 @@ Functions of President under subsec. (a) of this section delegated to Office of 
 
 Ex. Ord. No. 10471, July 17, 1953, 18 F.R. 4231, as amended by Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13967, provided:
 
-1\. The heads of the several departments and agencies of the Government are hereby authorized and empowered, without the approval, ratification, or other action of the President, to exercise, with respect to personnel in their respective department or agency, the authorityconferred upon the President by section 6305(b) of title 5 of the United States Code, to authorize leaves of absence in accordance with the said section 6305(b) to persons who receive compensation in accordance with section 401 of the Foreign Service Act of 1980 (22 U.S.C. 3961).
+1\. The heads of the several departments and agencies of the Government are hereby authorized and empowered, without the approval, ratification, or other action of the President, to exercise, with respect to personnel in their respective department or agency, the authority conferred upon the President by section 6305(b) of title 5 of the United States Code, to authorize leaves of absence in accordance with the said section 6305(b) to persons who receive compensation in accordance with section 401 of the Foreign Service Act of 1980 (22 U.S.C. 3961).
 
 2\. This order shall be effective as of July 5, 1953.
 

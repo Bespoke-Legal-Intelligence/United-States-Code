@@ -10,11 +10,11 @@
 
 #### Amendments
 
-<b>2011</b>—Subsecs. (a), (b). Pub. L. 112–29 struck out “of this title” after “17”.
+<b>2011</b>—Subsecs. (a), (b). Pub. L. 112–29 struck out "of this title" after "17".
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–616 substituted a comma for “or” after “Receiving Office” and “International Preliminary Examining Authority” for “both”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–616 substituted a comma for "or" after "Receiving Office" and "International Preliminary Examining Authority" for "both".
 
-<b>1984</b>—Subsecs. (a), (c). Pub. L. 98–622 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1984</b>—Subsecs. (a), (c). Pub. L. 98–622 substituted "Patent and Trademark Office" for "Patent Office".
 
 #### Effective Date of 2011 Amendment
 

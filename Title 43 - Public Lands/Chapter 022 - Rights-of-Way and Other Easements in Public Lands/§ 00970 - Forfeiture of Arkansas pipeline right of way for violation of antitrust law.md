@@ -1,12 +1,12 @@
 ### §970. Forfeiture of Arkansas pipeline right of way for violation of antitrust law
 
-If any citizen, company, or corporation taking advantage of the benefits of sections 966 to 970 of this title shall violate the Act of July 2, 1890, entitled “An Act to protect trade and commerce against unlawful restraints and monopolies”, (commonly known as the Sherman antitrust act), or any amendment thereof, the right of way granted in sections 966 to 970 of this title shall be forfeited without further action or declaration on the part of the Government or any proceedings or judgment of any court.
+If any citizen, company, or corporation taking advantage of the benefits of sections 966 to 970 of this title shall violate the Act of July 2, 1890, entitled "An Act to protect trade and commerce against unlawful restraints and monopolies", (commonly known as the Sherman antitrust act), or any amendment thereof, the right of way granted in sections 966 to 970 of this title shall be forfeited without further action or declaration on the part of the Government or any proceedings or judgment of any court.
 
 (Apr. 12, 1910, ch. 155, §5, 36 Stat. 296.)
 
 #### Repeal of Section
 
-<i>Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
+<i>Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to</i><i>the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
 
 #### References in Text
 

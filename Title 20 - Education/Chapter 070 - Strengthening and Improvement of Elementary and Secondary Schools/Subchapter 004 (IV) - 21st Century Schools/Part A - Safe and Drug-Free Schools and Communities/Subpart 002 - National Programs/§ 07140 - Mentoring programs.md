@@ -22,11 +22,11 @@
 
 #### (A) Child with greatest need
 
-&emsp;&emsp;The term “child with greatest need” means a child who is at risk of educational failure, dropping out of school, or involvement in criminal or delinquent activities, or who lacks strong positive role models.
+&emsp;&emsp;The term "child with greatest need" means a child who is at risk of educational failure, dropping out of school, or involvement in criminal or delinquent activities, or who lacks strong positive role models.
 
 #### (B) Eligible entity
 
-&emsp;&emsp;The term “eligible entity” means—
+&emsp;&emsp;The term "eligible entity" means—
 
 &emsp;&emsp;&emsp;(i) a local educational agency;
 
@@ -36,7 +36,7 @@
 
 #### (C) Mentor
 
-&emsp;&emsp;The term “mentor” means a responsible adult, a postsecondary school student, or a secondary school student who works with a child—
+&emsp;&emsp;The term "mentor" means a responsible adult, a postsecondary school student, or a secondary school student who works with a child—
 
 &emsp;&emsp;&emsp;(i) to provide a positive role model for the child;
 
@@ -46,7 +46,7 @@
 
 #### (D) State
 
-&emsp;&emsp;The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;&emsp;The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (b) Grant program
 
@@ -142,7 +142,7 @@
 
 &emsp;&emsp;(I) information on the training that will be provided to mentors; and
 
-&emsp;&emsp;(J) information on the system that the eligible entity will use to manage and monitorinformation relating to the mentoring program's—
+&emsp;&emsp;(J) information on the system that the eligible entity will use to manage and monitor information relating to the mentoring program's—
 
 &emsp;&emsp;&emsp;(i) reference checks;
 
@@ -190,7 +190,7 @@
 
 #### (D) Grant to each State
 
-&emsp;&emsp;Notwithstanding any other provision of this subsection, in awarding grants under subparagraph (A), the Secretary shall select not less than one grant recipient from each State for which there is an eligible entity that submits an application of sufficient quality pursuant to paragraph (4).
+&emsp;&emsp;Notwithstanding any other provision of this subsection, in awarding grants under subparagraph (A), the Secretary shall select not less than one grant recipient from eachState for which there is an eligible entity that submits an application of sufficient quality pursuant to paragraph (4).
 
 #### (6) Model screening guidelines
 

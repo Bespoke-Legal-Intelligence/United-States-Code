@@ -32,13 +32,13 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
 
-The words “their duly authorized agents” are omitted as surplus. The words “may bring a civil action” are substituted for “may apply” for consistency in the revised title and with other titles of the United States Code and rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). The word “prescribed” is added for consistency in the revised title and with other titles of the Code. The words “condition, or limitation” are omitted as being included in “term”. The text of 49 App.:1487(a) (words after semicolon related to Secretary and CAB) is omitted as surplus because of 28:1651 and rule 81(b) of the Federal Rules of Civil Procedure (28 App. U.S.C.).
+The words "their duly authorized agents" are omitted as surplus. The words "may bring a civil action" are substituted for "may apply" for consistency in the revised title and with other titles of the United States Code and rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.). The word "prescribed" is added for consistency in the revised title and with other titles of the Code. The words "condition, or limitation" are omitted as being included in "term". The text of 49 App.:1487(a) (words after semicolon related to Secretary and CAB) is omitted as surplus because of 28:1651 and rule 81(b) of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–71, §140(b)(7), substituted “Department of Transportation” for “Secretary of Transportation and Administrator of the Federal Aviation Administration” in section catchline.
+<b>2001</b>—Pub. L. 107–71, §140(b)(7), substituted "Department of Transportation" for "Secretary of Transportation and Administrator of the Federal Aviation Administration" in section catchline.
 
-Pub. L. 107–71, §140(b)(1), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
+Pub. L. 107–71, §140(b)(1), inserted "the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or" after "(or".
 
 #### Transfer of Functions
 

@@ -12,11 +12,11 @@ Another section 202 of Pub. L. 95–188 amended section 302 of this title.
 
 <b>2000</b>—Pub. L. 106–569 struck out provisions after first sentence relating to annual reports to Congress, transmittal of reports to Congressional Committees, consultations with Committees, report of Committee, changing conditions affecting achievement of objectives and plans, and explanation for deviations from objectives and plans.
 
-<b>1988</b>—Pub. L. 100–418 inserted “, including an analysis of the impact of the exchange rate of the dollar on those trends” after “the Nation” in cl. (1).
+<b>1988</b>—Pub. L. 100–418 inserted ", including an analysis of the impact of the exchange rate of the dollar on those trends" after "the Nation" in cl. (1).
 
-<b>1978</b>—Pub. L. 95–523 substituted provisions relating to independent written reports of the Board of Governors to the Congress for provisions relating to the consultations of the Board of Governors with Congress at semi-annual hearings, substituted “the objectives and plans with respect to the ranges” for “such ranges”, inserted “of the monetary and credit aggregates disclosed in the reports submitted under this section” after “growth or diminution”, and inserted proviso respecting the inclusion of an explanation of reasons for revisions or deviations in subsequent consultations and reports.
+<b>1978</b>—Pub. L. 95–523 substituted provisions relating to independent written reports of the Board of Governors to the Congress for provisions relating to the consultations of the Board of Governors with Congress at semi-annual hearings, substituted "the objectives and plans with respect to the ranges" for "such ranges", inserted "of the monetary and credit aggregates disclosed in the reports submitted under this section" after "growth or diminution", and inserted proviso respecting the inclusion of an explanation of reasons for revisions or deviations in subsequent consultations and reports.
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–523, title I, §108(b), Oct. 27, 1978, 92 Stat. 1898, provided that: “The amendment made by subsection (a) \[amending this section\] takes effect on January 1, 1979.”
+Pub. L. 95–523, title I, §108(b), Oct. 27, 1978, 92 Stat. 1898, provided that: "The amendment made by subsection (a) \[amending this section\] takes effect on January 1, 1979."
 

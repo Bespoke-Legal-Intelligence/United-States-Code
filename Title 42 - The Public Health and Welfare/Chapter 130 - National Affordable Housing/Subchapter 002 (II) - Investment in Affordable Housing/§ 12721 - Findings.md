@@ -28,7 +28,7 @@ The Congress finds that—
 
 &emsp;(9) much of the Nation's housing system works very well and provides a strong base on which national housing policy should build;
 
-&emsp;(10) an increasing number of States and local governments have been successful in producing cost-effective low-income and moderate-income housing by working in partnership with the private sector, including nonprofit community development corporations, community action agencies, neighborhood housing services corporations, trade unions, groups sponsored by religious organizations, limited equity cooperatives, and other tenant organizations;
+&emsp;(10) an increasing number of States and local governments have been successful in producing cost-effective low-income and moderate-income housing by working in partnership with the private sector, including nonprofit community development corporations, community action agencies, neighborhood housing services corporations, trade unions, groups sponsored by religious organizations, limitedequity cooperatives, and other tenant organizations;
 
 &emsp;(11) during the 1980's, nonprofit community housing development organizations, despite severe obstacles caused by inadequate funding, have played an increasingly important role in the production and rehabilitation of affordable housing in communities across the Nation;
 
@@ -48,5 +48,5 @@ The Tax Reform Act of 1986, referred to in par. (3), is Pub. L. 99–514, Oct. 2
 
 #### Short Title
 
-For short title of this subchapter as the “HOME Investment Partnerships Act”, see Short Title note set out under section 12701 of this title.
+For short title of this subchapter as the "HOME Investment Partnerships Act", see Short Title note set out under section 12701 of this title.
 

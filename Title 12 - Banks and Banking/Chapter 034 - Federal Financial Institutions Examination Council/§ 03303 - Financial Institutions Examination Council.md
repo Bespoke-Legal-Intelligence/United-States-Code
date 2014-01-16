@@ -36,13 +36,13 @@ Each member of the Council shall serve without additional compensation but shall
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(4). Pub. L. 111–203 substituted “Director of the Consumer Financial Protection Bureau” for “Director, Office of Thrift Supervision”.
+<b>2010</b>—Subsec. (a)(4). Pub. L. 111–203 substituted "Director of the Consumer Financial Protection Bureau" for "Director, Office of Thrift Supervision".
 
-<b>2006</b>—Subsec. (a)(4). Pub. L. 109–351, §714(a)(1), substituted “Thrift Supervision,” for “Thrift Supervision”.
+<b>2006</b>—Subsec. (a)(4). Pub. L. 109–351, §714(a)(1), substituted "Thrift Supervision," for "Thrift Supervision".
 
 Subsec. (a)(6). Pub. L. 109–351, §714(a)(2), (3), added par. (6).
 
-<b>1989</b>—Subsec. (a)(4). Pub. L. 101–73 substituted “Director, Office of Thrift Supervision” for “Chairman of the Federal Home Loan Bank Board, and”.
+<b>1989</b>—Subsec. (a)(4). Pub. L. 101–73 substituted "Director, Office of Thrift Supervision" for "Chairman of the Federal Home Loan Bank Board, and".
 
 #### Effective Date of 2010 Amendment
 

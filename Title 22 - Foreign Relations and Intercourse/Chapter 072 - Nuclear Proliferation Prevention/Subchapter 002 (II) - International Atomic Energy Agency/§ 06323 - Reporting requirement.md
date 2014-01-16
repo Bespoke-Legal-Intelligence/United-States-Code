@@ -26,5 +26,5 @@ Each report under paragraph (1) <sup>1</sup> shall describe—
 
 (Pub. L. 103–236, title VIII, §843, Apr. 30, 1994, 108 Stat. 524.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection (a) of this section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection (a) of this section".</i>
 

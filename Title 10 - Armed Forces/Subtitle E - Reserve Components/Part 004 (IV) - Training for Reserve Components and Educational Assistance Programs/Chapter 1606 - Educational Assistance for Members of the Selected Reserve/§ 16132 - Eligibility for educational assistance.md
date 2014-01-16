@@ -18,47 +18,47 @@
 
 (d) A person who serves in the Selected Reserve may not receive credit for such service under both the program established by chapter 30 of title 38 and the program established by this chapter but shall elect (in such form and manner as the Secretary of Veterans Affairs may prescribe) the program to which such service is to be credited. However, a person may not receive credit under the program established by this chapter for service (in any grade) on full-time active duty or full-time National Guard duty for the purpose of organizing, administering, recruiting, instructing, or training the reserve components in a position which is included in the end strength required to be authorized each year by section 115(a)(1)(B) of this title.
 
-(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 329, §2132; amended Pub. L. 95–485, title IV, §402(a), Oct. 20, 1978, 92 Stat. 1613; Pub. L. 96–513, title V, §511(69), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–48, §4, June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§110(b), 111(b)(2)–(4), Nov. 18, 1988, 102 Stat. 4170, 4173; Pub. L. 101–189, div. A, title VI, §§643(a), 645(a), (b)(2), Nov. 29, 1989, 103 Stat. 1458; Pub. L. 102–25, title VII, §701(f)(6), Apr. 6, 1991, 105 Stat. 115; renumbered §16132 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (4), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title XV, §1501(b)(34), Feb. 10, 1996, 110 Stat. 498; Pub. L.106–419, title I, §102(d), Nov. 1, 2000, 114 Stat. 1825.)
+(Added Pub. L. 95–79, title IV, §402(a), July 30, 1977, 91 Stat. 329, §2132; amended Pub. L. 95–485, title IV, §402(a), Oct. 20, 1978, 92 Stat. 1613; Pub. L. 96–513, title V, §511(69), Dec. 12, 1980, 94 Stat. 2926; Pub. L. 98–525, title VII, §705(a)(1), Oct. 19, 1984, 98 Stat. 2565; Pub. L. 100–48, §4, June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§110(b), 111(b)(2)–(4), Nov. 18, 1988, 102 Stat. 4170, 4173; Pub. L. 101–189, div. A, title VI, §§643(a), 645(a), (b)(2), Nov. 29, 1989, 103 Stat. 1458; Pub. L. 102–25, title VII, §701(f)(6), Apr. 6, 1991, 105 Stat. 115; renumbered §16132 and amended Pub. L. 103–337, div. A, title XVI, §1663(b)(2), (4), Oct. 5, 1994, 108 Stat. 3006, 3007; Pub. L. 104–106, div. A, title XV, §1501(b)(34), Feb. 10, 1996, 110 Stat. 498; Pub. L. 106–419, title I, §102(d), Nov. 1, 2000, 114 Stat. 1825.)
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(2). Pub. L. 106–419 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “before completing initial active duty for training has completed the requirements of a secondary school diploma (or an equivalency certificate), or in the case of an individual who reenlists or extends an enlistment as described in paragraph (1)(A) of this subsection, has completed such requirements at any time before such reenlistment or extension;”.
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–419 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "before completing initial active duty for training has completed the requirements of a secondary school diploma (or an equivalency certificate), or in the case of an individual who reenlists or extends an enlistment as described in paragraph (1)(A) of this subsection, has completed such requirements at any time before such reenlistment or extension;".
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–106 substituted “sections 16134” for “section 16134”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–106 substituted "sections 16134" for "section 16134".
 
 <b>1994</b>—Pub. L. 103–337, §1663(b)(2), renumbered section 2132 of this title as this section.
 
-Subsec. (a). Pub. L. 103–337, §1663(b)(4)(A), substituted “16131” for “2131” in concluding provisions.
+Subsec. (a). Pub. L. 103–337, §1663(b)(4)(A), substituted "16131" for "2131" in concluding provisions.
 
-Subsec. (c). Pub. L. 103–337, §1663(b)(4)(B), substituted “section 16134 and 16135” for “sections 2134 and 2135”.
+Subsec. (c). Pub. L. 103–337, §1663(b)(4)(B), substituted "section 16134 and 16135" for "sections 2134 and 2135".
 
-<b>1991</b>—Subsec. (d). Pub. L. 102–25 substituted “section 115(a)(1)(B)” for “section 115(b)(1)(A)(ii)”.
+<b>1991</b>—Subsec. (d). Pub. L. 102–25 substituted "section 115(a)(1)(B)" for "section 115(b)(1)(A)(ii)".
 
-<b>1989</b>—Subsec. (c). Pub. L. 101–189, §645(a), substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs” and “to that Secretary” for “to the Administrator”.
+<b>1989</b>—Subsec. (c). Pub. L. 101–189, §645(a), substituted "Secretary of Veterans Affairs" for "Administrator of Veterans' Affairs" and "to that Secretary" for "to the Administrator".
 
-Subsec. (d). Pub. L. 101–189, §645(a)(1), (b)(2), substituted “A person” for “An individual” and “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+Subsec. (d). Pub. L. 101–189, §645(a)(1), (b)(2), substituted "A person" for "An individual" and "Secretary of Veterans Affairs" for "Administrator of Veterans' Affairs".
 
-Pub. L. 101–189, §643(a), inserted at end “However, a person may not receive credit under the program established by this chapter for service (in any grade) on full-time active duty or full-time National Guard duty for the purpose of organizing, administering, recruiting, instructing, or training the reserve components in a position which is included in the end strength required to be authorized each year by section 115(b)(1)(A)(ii) of this title.”
+Pub. L. 101–189, §643(a), inserted at end "However, a person may not receive credit under the program established by this chapter for service (in any grade) on full-time active duty or full-time National Guard duty for the purpose of organizing, administering, recruiting, instructing, or training the reserve components in a position which is included in the end strength required to be authorized each year by section 115(b)(1)(A)(ii) of this title."
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–689, §111(b)(2), substituted “completed the requirements of” for “received”, and inserted before semicolon at end “, or in the case of an individual who reenlists or extends an enlistment as described in paragraph (1)(A) of this subsection, has completed such requirements at any time before such reenlistment or extension”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–689, §111(b)(2), substituted "completed the requirements of" for "received", and inserted before semicolon at end ", or in the case of an individual who reenlists or extends an enlistment as described in paragraph (1)(A) of this subsection, has completed such requirements at any time before such reenlistment or extension".
 
-Subsec. (b). Pub. L. 100–689, §110(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Educational assistance may not be provided to a member under this chapter until the member—
+Subsec. (b). Pub. L. 100–689, §110(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Educational assistance may not be provided to a member under this chapter until the member—
 
-&emsp;“(1) has completed the initial period of active duty for training required of the member; and
+&emsp;"(1) has completed the initial period of active duty for training required of the member; and
 
-&emsp;“(2) has completed 180 days of service in the Selected Reserve.”
+&emsp;"(2) has completed 180 days of service in the Selected Reserve."
 
-Subsec. (c). Pub. L. 100–689, §111(b)(3), inserted at end “At the request of the Administrator of Veterans’ Affairs, the Secretary of Defense shall transmit a notice of entitlement for each such person to the Administrator.”
+Subsec. (c). Pub. L. 100–689, §111(b)(3), inserted at end "At the request of the Administrator of Veterans' Affairs, the Secretary of Defense shall transmit a notice of entitlement for each such person to the Administrator."
 
-Subsec. (d). Pub. L. 100–689, §111(b)(4), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “A person who is entitled to educational assistance under chapter 30 of title 38 based on section 1412 of that title may not also be provided educational assistance under this chapter.”
+Subsec. (d). Pub. L. 100–689, §111(b)(4), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "A person who is entitled to educational assistance under chapter 30 of title 38 based on section 1412 of that title may not also be provided educational assistance under this chapter."
 
-<b>1987</b>—Subsec. (a)(1). Pub. L. 100–48 substituted “after June 30, 1985” for “during the period beginning on July 1, 1985, and ending on June 30, 1988”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–48 substituted "after June 30, 1985" for "during the period beginning on July 1, 1985, and ending on June 30, 1988".
 
 <b>1984</b>—Pub. L. 98–525 amended section generally, updating provisions covering eligibility for educational assistance to cover the period beginning July 1, 1985, and ending June 30, 1988.
 
-<b>1980</b>—Pub. L. 96–513 inserted “of this title” after “section 2131” wherever appearing.
+<b>1980</b>—Pub. L. 96–513 inserted "of this title" after "section 2131" wherever appearing.
 
-<b>1978</b>—Subsec. (b)(1). Pub. L. 95–485 substituted “not less than six years” for “automatically extended by two years” and “last day of the term” for “eighth anniversary”.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–485 substituted "not less than six years" for "automatically extended by two years" and "last day of the term" for "eighth anniversary".
 
 #### Effective Date of 1996 Amendment
 
@@ -78,5 +78,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Savings Provision
 
-Pub. L. 101–189, div. A, title VI, §643(b), Nov. 29, 1989, 103 Stat. 1458, provided that: “The amendment made by subsection (a) \[amending this section\] shall not affect the eligibility for educational assistance of any person who before the date of the enactment of this Act \[Nov. 29, 1989\] is entitled to educational assistance under section 2131(a) \[now 16131(a)\] of title 10, United States Code.”
+Pub. L. 101–189, div. A, title VI, §643(b), Nov. 29, 1989, 103 Stat. 1458, provided that: "The amendment made by subsection (a) \[amending this section\] shall not affect the eligibility for educational assistance of any person who before the date of the enactment of this Act \[Nov. 29, 1989\] is entitled to educational assistance under section 2131(a) \[now 16131(a)\] of title 10, United States Code."
 

@@ -36,7 +36,7 @@ The Secretary is directed, upon the request of any tribal organization and subje
 
 The Secretary is authorized, upon the request of an Indian tribe, to make a grant to any tribal organization for—
 
-&emsp;(1) obtaining technical assistance from providers designated by the tribal organization, including tribal organizations that operate mature contracts, for the purposes of program planning and evaluation, including the development of any management systems necessary for contract management, and the development of cost allocation plans for indirect cost rates; and
+&emsp;(1) obtaining technical assistance from providers designated by the tribal organization, including tribal organizations that operate mature contracts, for the purposes of program planning and evaluation, including the development of any management systems necessaryfor contract management, and the development of cost allocation plans for indirect cost rates; and
 
 &emsp;(2) the planning, designing, monitoring, and evaluating of Federal programs serving the tribe, including Federal administrative functions.
 
@@ -44,7 +44,9 @@ The Secretary is authorized, upon the request of an Indian tribe, to make a gran
 
 #### References in Text
 
-Section 450g of this title, referred to in subsec. (b)(2), was in the original “section 103 of this Act”, meaning section 103 of Pub. L. 93–638, the Indian Self-Determination Act. Section 103(a) and (b) and the first sentence of section 103(c) of Pub. L. 93–638 were repealed, and the remainder of section 103(c) of Pub. L. 93–638 was redesignated as section 102(d) of Pub. L. 93–638 (section 450f(d) of this title) by Pub. L. 100–472, title II, §201(b)(1), Oct. 5, 1988, 102 Stat. 2289. Section 104 of Pub. L. 93–638 was renumbered as section 103 of Pub. L. 93–638 by section 202(a) of Pub. L. 100–472, and is classified to this section.
+Section 450g of this title, referred to in subsec. (b)(2), was in the original "section 103 of this Act", meaning section 103 of Pub. L. 93–638, the Indian Self-Determination Act. Section 103(a) and (b) and the first sentence of section 103(c) of Pub. L. 93–638 were repealed, and the remainder of section 103(c) of Pub. L. 93–638 was redesignated as section 102(d) of Pub. L. 93–638 (section 450f(d) of this title) by Pub. L. 100–472, title II, §201(b)(1), Oct. 5, 1988, 102 Stat. 2289. Section 104 of Pub. L. 93–638 was renumbered as section 103 of Pub. L. 93–638 by section 202(a) of Pub. L. 100–472, and is classified to this section.
+
+This subchapter, referred to in subsec. (d)(1), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Prior Provisions
 
@@ -52,19 +54,19 @@ A prior section 103 of Pub. L. 93–638 was classified to section 450g of this t
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a)(3). Pub. L. 101–644, which directed the substitution of “Indian country (as defined in chapter 53 of title 18)” for “reservation boundaries” in “section 301(a)(3) of the Indian Self-Determination Act (25 U.S.C. 450h(a)(3))”, was executed to this section, section 103(a)(3) of that Act, to reflect the probable intent of Congress.
+<b>1990</b>—Subsec. (a)(3). Pub. L. 101–644, which directed the substitution of "Indian country (as defined in chapter 53 of title 18)" for "reservation boundaries" in "section 301(a)(3) of the Indian Self-Determination Act (25 U.S.C. 450h(a)(3))", was executed to this section, section 103(a)(3) of that Act, to reflect the probable intent of Congress.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–472, §202(b), inserted “or” at end of par. (2), substituted a period for “; or” at end of par. (3), and struck out par. (4) which read as follows: “the planning, designing, monitoring, and evaluating of Federal programs serving the tribe.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–472, §202(b), inserted "or" at end of par. (2), substituted a period for "; or" at end of par. (3), and struck out par. (4) which read as follows: "the planning, designing, monitoring, and evaluating of Federal programs serving the tribe."
 
-Subsec. (b). Pub. L. 100–472, §202(c), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+Subsec. (b). Pub. L. 100–472, §202(c), substituted "Health and Human Services" for "Health, Education, and Welfare".
 
 Subsecs. (d), (e). Pub. L. 100–472, §202(d), added subsecs. (d) and (e).
 
 #### Authority of Secretary To Acquire Lands In Trust
 
-Pub. L. 101–644, title II, §203(g)(2), Nov. 29, 1990, 104 Stat. 4666, provided that: “The amendment made by paragraph (1) \[amending this section\] shall not alter or otherwise modify or affect existing prohibitions or limitations on the Secretary's authority to acquire lands in trust.”
+Pub. L. 101–644, title II, §203(g)(2), Nov. 29, 1990, 104 Stat. 4666, provided that: "The amendment made by paragraph (1) \[amending this section\] shall not alter or otherwise modify or affect existing prohibitions or limitations on the Secretary's authority to acquire lands in trust."
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "the".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

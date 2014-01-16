@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Department a National Advisory Committee on Institutional Quality and Integrity (in this section referred to as the “Committee”) to assess the process of accreditation and the institutional eligibility and certification of institutions of higher education (as defined in section 1002 of this title) under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
+There is established in the Department a National Advisory Committee on Institutional Quality and Integrity (in this section referred to as the "Committee") to assess the process of accreditation and the institutional eligibility and certification of institutions of higher education (as defined in section 1002 of this title) under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (b) Membership
 
@@ -20,11 +20,11 @@ There is established in the Department a National Advisory Committee on Institut
 
 &emsp;Individuals shall be appointed as members of the Committee—
 
-&emsp;&emsp;(A) on the basis of the individuals’ experience, integrity, impartiality, and good judgment;
+&emsp;&emsp;(A) on the basis of the individuals' experience, integrity, impartiality, and good judgment;
 
 &emsp;&emsp;(B) from among individuals who are representatives of, or knowledgeable concerning, education and training beyond secondary education, representing all sectors and types of institutions of higher education (as defined in section 1002 of this title); and
 
-&emsp;&emsp;(C) on the basis of the individuals’ technical qualifications, professional standing, and demonstrated knowledge in the fields of accreditation and administration in higher education.
+&emsp;&emsp;(C) on the basis of the individuals' technical qualifications, professional standing, and demonstrated knowledge in the fields of accreditation and administration in higher education.
 
 #### (3) Terms of members
 
@@ -52,7 +52,7 @@ There is established in the Department a National Advisory Committee on Institut
 
 The Committee shall—
 
-&emsp;(1) advise the Secretary with respect to establishment and enforcement of the standards of accrediting agencies or associations undersubpart 2 of part G of subchapter IV of this chapter;
+&emsp;(1) advise the Secretary with respect to establishment and enforcement of the standards of accrediting agencies or associations under subpart 2 of part G of subchapter IV of this chapter;
 
 &emsp;(2) advise the Secretary with respect to the recognition of a specific accrediting agency or association;
 
@@ -148,15 +148,15 @@ A prior section 1011c, Pub. L. 89–329, title I, §124, as added Pub. L. 102–
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–315, title I, §106(c), Aug. 14, 2008, 122 Stat. 3093, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2009.”
+Pub. L. 110–315, title I, §106(c), Aug. 14, 2008, 122 Stat. 3093, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2009."
 
 #### Transition
 
-Pub. L. 110–315, title I, §106(b), Aug. 14, 2008, 122 Stat. 3093, provided that: “Notwithstanding section 114 of the Higher Education Act of 1965 (20 U.S.C. 1011c) (as in effect before, during, and after the date of enactment of this Act \[Aug. 14, 2008\])—
+Pub. L. 110–315, title I, §106(b), Aug. 14, 2008, 122 Stat. 3093, provided that: "Notwithstanding section 114 of the Higher Education Act of 1965 (20 U.S.C. 1011c) (as in effect before, during, and after the date of enactment of this Act \[Aug. 14, 2008\])—
 
-&emsp;“(1) the term of each member appointed to the National Advisory Committee on Institutional Quality and Integrity before the date of enactment of this Act shall expire on the date of enactment of this Act;
+&emsp;"(1) the term of each member appointed to the National Advisory Committee on Institutional Quality and Integrity before the date of enactment of this Act shall expire on the date of enactment of this Act;
 
-&emsp;“(2) no new members shall be appointed to the National Advisory Committee on Institutional Quality and Integrity during the period beginning on the date of enactment of this Act and ending on January 31, 2009; and
+&emsp;"(2) no new members shall be appointed to the National Advisory Committee on Institutional Quality and Integrity during the period beginning on the date of enactment of this Act and ending on January 31, 2009; and
 
-&emsp;“(3) no meeting of the National Advisory Committee on Institutional Quality and Integrity shall be convened during such period.”
+&emsp;"(3) no meeting of the National Advisory Committee on Institutional Quality and Integrity shall be convened during such period."
 

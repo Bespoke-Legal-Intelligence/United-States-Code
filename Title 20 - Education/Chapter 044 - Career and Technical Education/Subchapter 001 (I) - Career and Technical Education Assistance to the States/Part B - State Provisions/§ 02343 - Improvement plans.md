@@ -48,7 +48,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The eligible agency may, after notice and opportunity for a hearing, withhold from theeligible recipient all, or a portion, of the eligible recipient's allotment under this subchapter if the eligible recipient—
+&emsp;&emsp;The eligible agency may, after notice and opportunity for a hearing, withhold from the eligible recipient all, or a portion, of the eligible recipient's allotment under this subchapter if the eligible recipient—
 
 &emsp;&emsp;&emsp;(i) fails to implement an improvement plan as described in paragraph (2);
 

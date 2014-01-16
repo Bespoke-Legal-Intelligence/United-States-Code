@@ -18,11 +18,11 @@ Historical and Revision Notes
 
 Mar. 4, 1911, ch. 265, §3 (less 1st proviso as applicable to vessels, and less 2d proviso), 36 Stat. 1353.
 
-The words “naval service” are substituted for the words “public service” for uniformity within the section. The citation of the act establishing the nautical institutions is substituted for the words “such schools” for clarity. The word “proper” is omitted as surplusage.
+The words "naval service" are substituted for the words "public service" for uniformity within the section. The citation of the act establishing the nautical institutions is substituted for the words "such schools" for clarity. The word "proper" is omitted as surplusage.
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–304 substituted “chapter 515 of title 46” for “section 1304 of the Merchant Marine Act, 1936 (46 U.S.C. App. 1295c),”.
+<b>2006</b>—Pub. L. 109–304 substituted "chapter 515 of title 46" for "section 1304 of the Merchant Marine Act, 1936 (46 U.S.C. App. 1295c),".
 
-<b>1985</b>—Pub. L. 99–145 substituted “section 1304 of the Merchant Marine Act, 1936 (46 U.S.C. App. 1295c)” for “the Act of March 4, 1911, ch. 265, 36 Stat. 1353, as amended”.
+<b>1985</b>—Pub. L. 99–145 substituted "section 1304 of the Merchant Marine Act, 1936 (46 U.S.C. App. 1295c)" for "the Act of March 4, 1911, ch. 265, 36 Stat. 1353, as amended".
 

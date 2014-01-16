@@ -2,7 +2,7 @@
 
 (a)
 
-Review Required.—(1) The Secretary of Defense shall every four years conduct a comprehensive examination of the quality of life of the members of the armed forces (to be known as the “quadrennial quality of life review”). The review shall include examination of the programs, projects, and activities of the Department of Defense, including the morale, welfare, and recreation activities.
+Review Required.—(1) The Secretary of Defense shall every four years conduct a comprehensive examination of the quality of life of the members of the armed forces (to be known as the "quadrennial quality of life review"). The review shall include examination of the programs, projects, and activities of the Department of Defense, including the morale, welfare, and recreation activities.
 
 (2) The quadrennial quality of life review shall be designed to result in determinations, and to foster policies and actions, that reflect the priority given the quality of life of members of the armed forces as a primary concern of the Department of Defense leadership.
 
@@ -10,7 +10,7 @@ Review Required.—(1) The Secretary of Defense shall every four years conduct a
 
 Conduct of Review.—Each quadrennial quality of life review shall be conducted so as—
 
-&emsp;(1) to assess quality of life priorities and issues consistent with the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 404a);
+&emsp;(1) to assess quality of life priorities and issues consistent with the most recent National Security Strategy prescribed by the President pursuant to section 108 of the National Security Act of 1947 (50 U.S.C. 404a); <sup>1</sup>
 
 &emsp;(2) to identify actions that are needed in order to provide members of the armed forces with the quality of life reasonably necessary to encourage the successful execution of the full range of missions that the members are called on to perform under the national security strategy; and
 
@@ -60,7 +60,13 @@ Submission to Congressional Committees.—(1) The Secretary shall submit a repor
 
 (Added Pub. L. 107–314, div. A, title V, §581(a)(1), Dec. 2, 2002, 116 Stat. 2559.)
 
+#### References in Text
+
+The National Security Act of 1947, referred to in subsec. (b)(1), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 108 of the Act is now classified to section 3043 of Title 50. For complete classification of this Act to the Code, see Tables.
+
 #### First Quadrennial Quality of Life Review
 
 Pub. L. 107–314, div. A, title V, §581(b), Dec. 2, 2002, 116 Stat. 2561, directed that the first quadrennial quality of life review under this section would be conducted during 2003, and that the report on such review was to be submitted not later than the date on which the President submitted the budget for fiscal year 2005 to Congress.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

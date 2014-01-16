@@ -1,0 +1,6 @@
+### §106. Transferred
+
+#### Codification
+
+Section 106 was editorially reclassified as section 6569 of this title.
+

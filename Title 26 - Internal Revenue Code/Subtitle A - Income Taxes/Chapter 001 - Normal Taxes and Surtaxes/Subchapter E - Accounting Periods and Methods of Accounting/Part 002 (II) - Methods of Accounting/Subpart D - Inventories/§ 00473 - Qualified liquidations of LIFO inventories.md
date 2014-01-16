@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualified liquidation” means—
+&emsp;The term "qualified liquidation" means—
 
 &emsp;&emsp;(A) a decrease in the closing inventory of the liquidation year from the opening inventory of such year, but only if
 
@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified inventory interruption” means a regulation, request, or interruption described in subparagraph (B) but only to the extent provided in the notice published pursuant to subparagraph (B).
+&emsp;&emsp;The term "qualified inventory interruption" means a regulation, request, or interruption described in subparagraph (B) but only to the extent provided in the notice published pursuant to subparagraph (B).
 
 #### (B) Determination by Secretary
 
@@ -66,15 +66,15 @@ For purposes of this section—
 
 #### (1) Liquidation year
 
-&emsp;The term “liquidation year” means the taxable year in which occurs the qualified liquidation to which this section applies.
+&emsp;The term "liquidation year" means the taxable year in which occurs the qualified liquidation to which this section applies.
 
 #### (2) Replacement year
 
-&emsp;The term “replacement year” means any taxable year in the replacement period; except that such term shall not include any taxable year after the taxable year in which replacement of the liquidated goods is completed.
+&emsp;The term "replacement year" means any taxable year in the replacement period; except that such term shall not include any taxable year after the taxable year in which replacement of the liquidated goods is completed.
 
 #### (3) Replacement period
 
-&emsp;The term “replacement period” means the shorter of—
+&emsp;The term "replacement period" means the shorter of—
 
 &emsp;&emsp;(A) the period of the 3 taxable years following the liquidation year, or
 
@@ -84,7 +84,7 @@ For purposes of this section—
 
 #### (4) LIFO method
 
-&emsp;The term “LIFO method” means the method of inventorying goods described in section 472.
+&emsp;The term "LIFO method" means the method of inventorying goods described in section 472.
 
 #### (5) Election
 
@@ -132,5 +132,5 @@ The Secretary shall prescribe such regulations as may be necessary to coordinate
 
 #### Effective Date
 
-Pub. L. 96–223, title IV, §403(a)(3), Apr. 2, 1980, 94 Stat. 304, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by paragraphs (1) and (2) \[enacting this section\] shall apply to qualified liquidations (within the meaning of section 473(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) in taxable years ending after October 31, 1979.”
+Pub. L. 96–223, title IV, §403(a)(3), Apr. 2, 1980, 94 Stat. 304, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by paragraphs (1) and (2) \[enacting this section\] shall apply to qualified liquidations (within the meaning of section 473(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) in taxable years ending after October 31, 1979."
 

@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount of marijuana, cocaine, heroin, methamphetamine, ecstasy, and precursor chemicals and other drugs entering the United States;
 
-&emsp;&emsp;&emsp;&emsp;(III) the number of illicit drug manufacturing laboratories seized and destroyed and the number of hectares of marijuana, poppy, and coca cultivated and destroyed domestically and in other countries;
+&emsp;&emsp;&emsp;&emsp;(III) the number of illicit drug manufacturing laboratories seized and destroyed and the number of hectares of marijuana, poppy, and coca cultivatedand destroyed domestically and in other countries;
 
 &emsp;&emsp;&emsp;&emsp;(IV) the number of metric tons of marijuana, heroin, cocaine, and methamphetamine seized and other drugs; and
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(B) in satisfying the requirements of subparagraph (A), shall ensure, to the maximum extent possible, that State, local, and tribal officials and relevant private organizations commit to support and take steps to achieve the goals and objectives of the National Drug Control Strategy;
 
-&emsp;&emsp;(C) with the concurrence of the Attorney General, may require the El Paso Intelligence Center to undertake specific tasks or projects to support or implement the National Drug Control Strategy; and
+&emsp;&emsp;(C) with the concurrence of the Attorney General, may require the El Paso Intelligence Center to undertake specific tasks orprojects to support or implement the National Drug Control Strategy; and
 
 &emsp;&emsp;(D) with the concurrence of the Director of National Intelligence and the Attorney General, may request that the National Drug Intelligence Center undertake specific tasks or projects to support or implement the National Drug Control Strategy.
 
@@ -168,103 +168,103 @@ Subsecs. (c), (d). Pub. L. 109–469, §202, added subsecs. (c) and (d).
 
 Pub. L. 109–469, title XI, §1110, Dec. 29, 2006, 120 Stat. 3543, provided that:
 
-“(a)
+"(a)
 
 In General.—Not later than 120 days after the date of enactment of this Act \[Dec. 29, 2006\], and every 2 years thereafter, the Director of National Drug Control Policy shall submit to the Congress a Southwest Border Counternarcotics Strategy.
 
-“(b)
+"(b)
 
 Purposes.—The Southwest Border Counternarcotics Strategy shall—
 
-&emsp;“(1) set forth the Government's strategy for preventing the illegal trafficking of drugs across the international border between the United States and Mexico, including through ports of entry and between ports of entry on that border;
+&emsp;"(1) set forth the Government's strategy for preventing the illegal trafficking of drugs across the international border between the United States and Mexico, including through ports of entry and between ports of entry on that border;
 
-&emsp;“(2) state the specific roles and responsibilities of the relevant National Drug Control Program agencies (as defined in section 702 of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1701)) for implementing that strategy; and
+&emsp;"(2) state the specific roles and responsibilities of the relevant National Drug Control Program agencies (as defined in section 702 of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1701)) for implementing that strategy; and
 
-&emsp;“(3) identify the specific resources required to enable the relevant National Drug Control Program agencies to implement that strategy.
+&emsp;"(3) identify the specific resources required to enable the relevant National Drug Control Program agencies to implement that strategy.
 
-“(c)
+"(c)
 
 Specific Content Related to Drug Tunnels Between the United States and Mexico.—The Southwest Border Counternarcotics Strategy shall include—
 
-&emsp;“(1) a strategy to end the construction and use of tunnels and subterranean passages that cross the international border between the United States and Mexico for the purpose of illegal trafficking of drugs across such border; and
+&emsp;"(1) a strategy to end the construction and use of tunnels and subterranean passages that cross the international border between the United States and Mexico for the purpose of illegal trafficking of drugs across such border; and
 
-&emsp;“(2) recommendations for criminal penalties for persons who construct or use such a tunnel or subterranean passage for such a purpose.
+&emsp;"(2) recommendations for criminal penalties for persons who construct or use such a tunnel or subterranean passage for such a purpose.
 
-“(d)
+"(d)
 
 Consultation With Other Agencies.—The Director shall issue the Southwest Border Counternarcotics Strategy in consultation with the heads of the relevant National Drug Control Program agencies.
 
-“(e)
+"(e)
 
 Limitation.—The Southwest Border Counternarcotics Strategy shall not change existing agency authorities or the laws governing interagency relationships, but may include recommendations about changes to such authorities or laws.
 
-“(f)
+"(f)
 
-Report to Congress.—The Director shall provide a copy of the Southwest Border Counternarcotics Strategy to the appropriate congressional committees (as defined in section 702 of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1701)), and to the Committee on Armed Services and the Committee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate.
+Report to Congress.—The Director shall provide a copy of the Southwest Border Counternarcotics Strategy to the appropriate congressional committees (as defined in section 702 of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1701)), and to the Committee on Armed Services and theCommittee on Homeland Security of the House of Representatives, and the Committee on Homeland Security and Governmental Affairs and the Committee on Armed Services of the Senate.
 
-“(g)
+"(g)
 
-Treatment of Classified or Law Enforcement Sensitive Information.—Any content of the Southwest Border Counternarcotics Strategy that involves information classified under criteria established by an Executive order, or whose public disclosure, as determined by the Director or the head of any relevant National Drug Control Program agency, would be detrimental to the law enforcement or national security activities of any Federal, State, local, or tribal agency, shall be presented to Congress separately from the rest of the strategy.”
+Treatment of Classified or Law Enforcement Sensitive Information.—Any content of the Southwest Border Counternarcotics Strategy that involves information classified under criteria established by an Executive order, or whose public disclosure, as determined by the Director or the head of any relevant National Drug Control Program agency, would be detrimental to the law enforcement or national security activities of any Federal, State, local, or tribal agency, shall be presented to Congress separately from the rest of the strategy."
 
 #### Requirement for Northern Border Counternarcotics Strategy
 
 Pub. L. 109–469, title XI, §1110A, as added by Pub. L. 111–356, §2, Jan. 4, 2011, 124 Stat. 3976, provided that:
 
-“(a)
+"(a)
 
-Definitions.—In this section, the terms ‘appropriate congressional committees’, ‘Director’, and ‘National Drug Control Program agency’ have the meanings given those terms in section 702 of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1701).
+Definitions.—In this section, the terms 'appropriate congressional committees', 'Director', and 'National Drug Control Program agency' have the meanings given those terms in section 702 of the Office of National Drug Control Policy Reauthorization Act of 1998 (21 U.S.C. 1701).
 
-“(b)
+"(b)
 
 Strategy.—Not later than 180 days after the date of enactment of this section \[Jan. 4, 2011\], and every 2 years thereafter, the Director, in consultation with the head of each relevant National Drug Control Program agency and relevant officials of States, local governments, tribal governments, and the governments of other countries, shall develop a Northern Border Counternarcotics Strategy and submit the strategy to—
 
-&emsp;“(1) the appropriate congressional committees (including the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives);
+&emsp;"(1) the appropriate congressional committees (including the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives);
 
-&emsp;“(2) the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, and the Committee on Indian Affairs of the Senate; and
+&emsp;"(2) the Committee on Armed Services, the Committee on Homeland Security and Governmental Affairs, and the Committee on Indian Affairs of the Senate; and
 
-&emsp;“(3) the Committee on Armed Services, the Committee on Homeland Security, and the Committee on Natural Resources of the House of Representatives.
+&emsp;"(3) the Committee on Armed Services, the Committee on Homeland Security, and the Committee on Natural Resources of the House of Representatives.
 
-“(c)
+"(c)
 
 Purposes.—The Northern Border Counternarcotics Strategy shall—
 
-&emsp;“(1) set forth the strategy of the Federal Government for preventing the illegal trafficking of drugs across the international border between the United States and Canada, including through ports of entry and between ports of entry on the border;
+&emsp;"(1) set forth the strategy of the Federal Government for preventing the illegal trafficking of drugs across the international border between the United States and Canada, including through ports of entry and between ports of entry on the border;
 
-&emsp;“(2) state the specific roles and responsibilities of each relevant National Drug Control Program agency for implementing the strategy;
+&emsp;"(2) state the specific roles and responsibilities of each relevant National Drug Control Program agency for implementing the strategy;
 
-&emsp;“(3) identify the specific resources required to enable the relevant National Drug Control Program agencies to implement the strategy; and
+&emsp;"(3) identify the specific resources required to enable the relevant National Drug Control Program agencies to implement the strategy; and
 
-&emsp;“(4) reflect the unique nature of small communities along the international border between the United States and Canada, ongoing cooperation and coordination with Canadian law enforcement authorities, and variations in the volumes of vehicles and pedestrians crossing through ports of entry along the international border between the United States and Canada.
+&emsp;"(4) reflect the unique nature of small communities along the international border between the United States and Canada, ongoing cooperation and coordination with Canadian law enforcement authorities, and variations in the volumes of vehicles and pedestrians crossing through ports of entry along the international border between the United States and Canada.
 
-“(d)
+"(d)
 
 Specific Content Related to Cross-border Indian Reservations.—The Northern Border Counternarcotics Strategy shall include—
 
-&emsp;“(1) a strategy to end the illegal trafficking of drugs to or through Indian reservations on or near the international border between the United States and Canada; and
+&emsp;"(1) a strategy to end the illegal trafficking of drugs to or through Indian reservations on or near the international border between the United States and Canada; and
 
-&emsp;“(2) recommendations for additional assistance, if any, needed by tribal law enforcement agencies relating to the strategy, including an evaluation of Federal technical and financial assistance, infrastructure capacity building, and interoperability deficiencies.
+&emsp;"(2) recommendations for additional assistance, if any, needed by tribal law enforcement agencies relating to the strategy, including an evaluation of Federal technical and financial assistance, infrastructure capacity building, and interoperability deficiencies.
 
-“(e)
+"(e)
 
 Limitation.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Northern Border Counternarcotics Strategy shall not change the existing agency authorities and this section shall not be construed to amend or modify any law governing interagency relationships.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Legitimate trade and travel.—The Northern Border Counternarcotics Strategy shall be designed to promote, and not hinder, legitimate trade and travel.
 
-“(f)
+"(f)
 
 Treatment of Classified or Law Enforcement Sensitive Information.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Northern Border Counternarcotics Strategy shall be submitted in unclassified form and shall be available to the public.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Annex.—The Northern Border Counternarcotics Strategy may include an annex containing any classified information or information the public disclosure of which, as determined by the Director or the head of any relevant National Drug Control Program agency, would be detrimental to the law enforcement or national security activities of any Federal, State, local, or tribal agency.”
+Annex.—The Northern Border Counternarcotics Strategy may include an annex containing any classified information or information the public disclosure of which, as determined by the Director or the head of any relevant National Drug Control Program agency, would be detrimental to the law enforcement or national security activities of any Federal, State, local, or tribal agency."
 

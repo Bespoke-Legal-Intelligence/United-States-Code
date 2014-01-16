@@ -12,7 +12,7 @@ In General.—In accordance with all applicable Federal law (including regulatio
 
 Included Activities.—The establishment and management under subsection (a)(1) and (a)(2) may include—
 
-&emsp;(1) right-of-way surveys to determine management requirements to control Federal or State noxious weeds as defined in the Plant Protection Act (7 U.S.C. 7701 et seq.) or State law, and brush or tree species, whether native or nonnative, that may be considered by State or local transportation authorities to be a threat with respect to the safety or maintenance of transportation systems;
+&emsp;(1) right-of-way surveys to determine management requirements to control Federal or State noxious weeds as defined in the Plant Protection Act (7 U.S.C. 7701 et seq.) or Statelaw, and brush or tree species, whether native or nonnative, that may be considered by State or local transportation authorities to be a threat with respect to the safety or maintenance of transportation systems;
 
 &emsp;(2) establishment of plants, whether native or nonnative with a preference for native to the maximum extent possible, for the purposes defined in subsection (a)(1);
 

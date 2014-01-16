@@ -18,7 +18,7 @@ Contents.—(1) An airman certificate shall—
 
 &emsp;(E) designate the class the certificate covers.
 
-(2) A certificate issued to a pilot serving in scheduled air transportation shall have the designation “airline transport pilot” of the appropriate class.
+(2) A certificate issued to a pilot serving in scheduled air transportation shall have the designation "airline transport pilot" of the appropriate class.
 
 (c)
 
@@ -34,7 +34,7 @@ Opportunity to withhold information.—Before making any information concerning 
 
 &emsp;(3)
 
-Development and implementation of program.—Not later than 60 days after the date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, the Administrator shall develop and implement, in cooperation with representatives of the aviation industry, a one-time written notification to airmen to set forth the implications of making information concerning an airman available to the public under paragraph (1) and to carry out paragraph (2). The Administrator shall also provide such written notification to each individual who becomes an airman after such date of enactment.
+Development and implementation of program.—Not later than 60 days after thedate of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, the Administrator shall develop and implement, in cooperation with representatives of the aviation industry, a one-time written notification to airmen to set forth the implications of making information concerning an airman available to the public under paragraph (1) and to carry out paragraph (2). The Administrator shall also provide such written notification to each individual who becomes an airman after such date of enactment.
 
 (d)
 
@@ -72,7 +72,7 @@ Modifications in System.—(1) The Administrator of the Federal Aviation Adminis
 
 &emsp;(B) the use of stolen or fraudulent identification in applying for those certificates.
 
-&emsp;(C) the use by an applicant of a post office box or “mail drop” as a return address to evade identification of the applicant's address.
+&emsp;(C) the use by an applicant of a post office box or "mail drop" as a return address to evade identification of the applicant's address.
 
 &emsp;(D) the use of counterfeit and stolen airman certificates by pilots.
 
@@ -80,7 +80,7 @@ Modifications in System.—(1) The Administrator of the Federal Aviation Adminis
 
 (2) The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out paragraph (1) of this subsection and provide a written explanation of how the regulations address each of the deficiencies and abuses described in paragraph (1). In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of Customs, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
 
-(3) For purposes of this section, the term “acts of terrorism” means an activity that involves a violent act or an act dangerous to human life that is a violation of the criminal laws of the United States or of any State, or that would be a criminal violation if committed within the jurisdiction of the United States or of any State, and appears to be intended to intimidate or coerce a civilian population to influence the policy of a government by intimidation or coercion or to affect the conduct of a government by assassination or kidnaping.
+(3) For purposes of this section, the term "acts of terrorism" means an activity that involves a violent act or an act dangerous to human life that is a violation of the criminal laws of the United States or of any State, or that would be a criminal violation if committed within the jurisdiction of the United States or of any State, and appears to be intended to intimidate or coerce a civilian population to influence the policy of a government by intimidation or coercion or to affect the conduct of a government by assassination or kidnaping.
 
 (4) The Administrator is authorized and directed to work with State and local authorities, and other Federal agencies, to assist in the identification of individuals applying for or holding airmen certificates.
 
@@ -98,7 +98,7 @@ FAA records.—From the Administrator of the Federal Aviation Administration, re
 
 &emsp;&emsp;&emsp;(i) current airman certificates (including airman medical certificates) and associated type ratings, including any limitations to those certificates and ratings; and
 
-&emsp;&emsp;&emsp;(ii) summaries of legal enforcement actions resulting in a finding by the Administrator of a violation of this title or a regulation prescribed or order issued under this title that was not subsequently overturned.
+&emsp;&emsp;&emsp;(ii) summaries of legal enforcement actions resulting in a finding by the Administrator of a violation of this title or a regulation prescribed or order issued underthis title that was not subsequently overturned.
 
 &emsp;&emsp;(B)
 
@@ -182,7 +182,7 @@ Right to correct inaccuracies.—An air carrier that maintains or requests and r
 
 &emsp;(10)
 
-Right of pilot to review certain records.—Notwithstanding any other provision of law or agreement, an air carrier shall, upon written request from a pilot who is or has been employed by such carrier, make available, within a reasonable time, but not later than 30 days after the date of the request, to the pilot for review, any and all employment records referred to in paragraph (1)(B)(i) or (ii) pertaining to the employment of the pilot.
+Right of pilot to review certain records.—Notwithstanding any other provision of law or agreement, an air carrier shall, upon written request from a pilot who is orhas been employed by such carrier, make available, within a reasonable time, but not later than 30 days after the date of the request, to the pilot for review, any and all employment records referred to in paragraph (1)(B)(i) or (ii) pertaining to the employment of the pilot.
 
 &emsp;(11)
 
@@ -240,7 +240,7 @@ In general.—Before allowing an individual to begin service as a pilot, an air 
 
 &emsp;(2)
 
-Pilot records database.—The Administrator shall establish an electronic database (in this subsection referred to as the “database”) containing the following records:
+Pilot records database.—The Administrator shall establish an electronic database (in this subsection referred to as the "database") containing the following records:
 
 &emsp;&emsp;(A) FAA
 
@@ -254,7 +254,7 @@ records.—From the Administrator—
 
 &emsp;&emsp;(B)
 
-Air carrier and other records.—From any air carrier or other person (except a branch of the Armed Forces, the National Guard, or a reserve component of the Armed Forces) that has employed an individual as a pilot of a civil or public aircraft, or from the trustee in bankruptcy for the air carrier or person—
+Air carrier and other records.—From any air carrier or other person (except a branch of the Armed Forces, the National Guard, or a reserve component of the Armed Forces) that has employed an individual as a pilot of a civil or public aircraft, or from thetrustee in bankruptcy for the air carrier or person—
 
 &emsp;&emsp;&emsp;(i) records pertaining to the individual that are maintained by the air carrier (other than records relating to flight time, duty time, or rest time) or person, including records under regulations set forth in—
 
@@ -364,7 +364,7 @@ Disclosure of information.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Except as provided by clause (ii), information collected by the Administrator under paragraph (2) shall be exempt from the disclosure requirements of section 552(b)(3)(B) of title 5.
+In general.—Except as provided by clause (ii), information collected by theAdministrator under paragraph (2) shall be exempt from the disclosure requirements of section 552(b)(3)(B) of title 5.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -452,7 +452,7 @@ Exceptions.—Notwithstanding subparagraph (B)—
 
 &emsp;(16)
 
-Special rule.—During the one-year period beginning on the date on which the requirements of this section become effective pursuant to paragraph (15)(B), paragraph (7)(A) shall be applied by substituting “45 days” for “30 days”.
+Special rule.—During the one-year period beginning on the date on which the requirements of this section become effective pursuant to paragraph (15)(B), paragraph (7)(A) shall be applied by substituting "45 days" for "30 days".
 
 (j)
 
@@ -462,7 +462,7 @@ Limitations on Liability; Preemption of State Law.—
 
 Limitation on liability.—No action or proceeding may be brought by or on behalf of an individual who has applied for or is seeking a position with an air carrier as a pilot and who has signed a release from liability, as provided for under subsection (h)(2) or (i)(3), against—
 
-&emsp;&emsp;(A) the air carrier requesting the records of that individual under subsection (h)(1) or accessing the records of that individual under subsection (i)(1);
+&emsp;&emsp;(A) the air carrier requesting the records of that individual under subsection (h)(1) oraccessing the records of that individual under subsection (i)(1);
 
 &emsp;&emsp;(B) a person who has complied with such request;
 
@@ -490,7 +490,7 @@ Prohibition on actions and proceedings against air carriers.—
 
 &emsp;&emsp;(A)
 
-Hiring decisions.—An air carrier may refuse to hire an individual as a pilot if the individual did not provide written consent for the air carrier to receive records under subsection (h)(2)(A) or (i)(3)(A) or did notexecute the release from liability requested under subsection (h)(2)(B) or (i)(3)(B).
+Hiring decisions.—An air carrier may refuse to hire an individual as a pilot if the individual did not provide written consent for the air carrier to receive records under subsection (h)(2)(A) or (i)(3)(A) or did not execute the release from liability requested under subsection (h)(2)(B) or (i)(3)(B).
 
 &emsp;&emsp;(B)
 
@@ -576,23 +576,23 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §602(d); added Nov. 18, 1988, Pu
 
 Nov. 18, 1988, Pub. L. 100–690, §7207(a) (1st sentence), (b), 102 Stat. 4427.
 
-In subsections (a)–(d), the word “Administrator” in section 602(a), (b)(1), and (c) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 776) is retained on authority of 49:106(g).
+In subsections (a)–(d), the word "Administrator" in section 602(a), (b)(1), and (c) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 776) is retained on authority of 49:106(g).
 
-In subsection (a), the text of 49 App.:1422(b) (1st sentence) is omitted as surplus. The words “is qualified” are substituted for “possesses proper qualifications” to eliminate unnecessary words. The words “to be authorized by the certificate” are substituted for “for which the airman certificate is sought” for clarity.
+In subsection (a), the text of 49 App.:1422(b) (1st sentence) is omitted as surplus. The words "is qualified" are substituted for "possesses proper qualifications" to eliminate unnecessary words. The words "to be authorized by the certificate" are substituted for "for which the airman certificate is sought" for clarity.
 
-In subsection (b)(1)(C), the words “conditions, and limitations” are omitted as being included in “terms”.
+In subsection (b)(1)(C), the words "conditions, and limitations" are omitted as being included in "terms".
 
-In subsection (b)(1)(E), the word “designate” is substituted for “be entitled with the designation of” to eliminate unnecessary words.
+In subsection (b)(1)(E), the word "designate" is substituted for "be entitled with the designation of" to eliminate unnecessary words.
 
-In subsection (c)(1), before clause (A), the words “may appeal . . . to” are substituted for “may file with . . . a petition for review of the Secretary of Transportation's action” for consistency with section 1109 of the revised title. The words “the individual holds a certificate that” are substituted for “persons whose certificates” for clarity.
+In subsection (c)(1), before clause (A), the words "may appeal . . . to" are substituted for "may file with . . . a petition for review of the Secretary of Transportation's action" for consistency with section 1109 of the revised title. The words "the individual holds a certificate that" are substituted for "persons whose certificates" for clarity.
 
-In subsection (c)(2), the words “conduct a hearing on the appeal” are substituted for “thereupon assign such petition for hearing” for consistency. The words “In the conduct of such hearing and in determining whether the airman meets the pertinent rules, regulations, or standards” are omitted as surplus. The word “Administrator” is substituted for “Federal Aviation Administration” because of 49:106(b) and (g). The words “meets the applicable regulations” are substituted for “meets the pertinent rules, regulations” because “rules” and “regulations” are synonymous and for consistency in the revised title.
+In subsection (c)(2), the words "conduct a hearing on the appeal" are substituted for "thereupon assign such petition for hearing" for consistency. The words "In the conduct of such hearing and in determining whether the airman meets the pertinent rules, regulations, or standards" are omitted as surplus. The word "Administrator" is substituted for "Federal Aviation Administration" because of 49:106(b) and (g). The words "meets the applicable regulations" are substituted for "meets the pertinent rules, regulations" because "rules" and "regulations" are synonymous and for consistency in the revised title.
 
-In subsection (d), before clause (1), the words “in his discretion” are omitted as surplus. In clause (2), the words “the terms of” and “entered into” are omitted as surplus. The words “government of a foreign country” are substituted for “foreign governments” for consistency in the revised title and with other titles of the United States Code.
+In subsection (d), before clause (1), the words "in his discretion" are omitted as surplus. In clause (2), the words "the terms of" and "entered into" are omitted as surplus. The words "government of a foreign country" are substituted for "foreign governments" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (f)(1), before clause (A), the words “established under this chapter” and “to pilots” are omitted as surplus.
+In subsection (f)(1), before clause (A), the words "established under this chapter" and "to pilots" are omitted as surplus.
 
-In subsection (f)(2), the words “Not later than September 18, 1989” and “final” are omitted as obsolete. The words “Administrator of Drug Enforcement” are substituted for “Drug Enforcement Administration of the Department of Justice” because of section 5(a) of Reorganization Plan No. 2 of 1973 (eff. July 1, 1973, 87 Stat. 1092). The words “Commissioner of Customs” are substituted for “United States Customs Service” because of 19:2071.
+In subsection (f)(2), the words "Not later than September 18, 1989" and "final" are omitted as obsolete. The words "Administrator of Drug Enforcement" are substituted for "Drug Enforcement Administration of the Department of Justice" because of section 5(a) of Reorganization Plan No. 2 of 1973 (eff. July 1, 1973, 87 Stat. 1092). The words "Commissioner of Customs" are substituted for "United States Customs Service" because of 19:2071.
 
 #### References in Text
 
@@ -608,39 +608,39 @@ The text of section 44936(f) to (h) of this title, which was transferred to the 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (d)(2). Pub. L. 112–153 struck out “but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law” after “Federal Aviation Administration”.
+<b>2012</b>—Subsec. (d)(2). Pub. L. 112–153 struck out "but is bound by all validly adopted interpretations of laws and regulations the Administrator carries out unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law" after "Federal Aviation Administration".
 
 Subsec. (d)(3). Pub. L. 112–95, §301(a), added par. (3).
 
-Subsec. (i)(9)(B)(i). Pub. L. 112–95, §310(c), substituted “section 552(b)(3)(B) of title 5” for “section 552 of title 5”.
+Subsec. (i)(9)(B)(i). Pub. L. 112–95, §310(c), substituted "section 552(b)(3)(B) of title 5" for "section 552 of title 5".
 
 <b>2010</b>—Subsec. (h)(16). Pub. L. 111–216, §203(a), added par. (16).
 
 Subsec. (i). Pub. L. 111–216, §203(b)(2), added subsec. (i). Former subsec. (i) redesignated (j).
 
-Subsec. (j). Pub. L. 111–216, §203(c)(1)(A), as amended by Pub. L. 111–249, §6(3), substituted “Limitations” for “Limitation” in heading.
+Subsec. (j). Pub. L. 111–216, §203(c)(1)(A), as amended by Pub. L. 111–249, §6(3), substituted "Limitations" for "Limitation" in heading.
 
 Pub. L. 111–216, §203(b)(1), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
 
-Subsec. (j)(1). Pub. L. 111–216, §203(c)(1)(B)(i), (iii), as amended by Pub. L. 111–249, §6(3), substituted “subsection (h)(2) or (i)(3)” for “paragraph (2)” in introductory provisions and “subsection (h) or (i)” for “subsection (h)” in concluding provisions.
+Subsec. (j)(1). Pub. L. 111–216, §203(c)(1)(B)(i), (iii), as amended by Pub. L. 111–249, §6(3), substituted "subsection (h)(2) or (i)(3)" for "paragraph (2)" in introductory provisions and "subsection (h) or (i)" for "subsection (h)" in concluding provisions.
 
-Subsec. (j)(1)(A). Pub. L. 111–216, §203(c)(1)(B)(ii), as amended by Pub. L. 111–249, §6(3), inserted “or accessing the records of that individual under subsection (i)(1)” before semicolon.
+Subsec. (j)(1)(A). Pub. L. 111–216, §203(c)(1)(B)(ii), as amended by Pub. L. 111–249, §6(3), inserted "or accessing the records of that individual under subsection (i)(1)" before semicolon.
 
-Subsec. (j)(2). Pub. L. 111–216, §203(c)(1)(C), as amended by Pub. L. 111–249, §6(3), substituted “subsection (h) or (i)” for “subsection (h)”.
+Subsec. (j)(2). Pub. L. 111–216, §203(c)(1)(C), as amended by Pub. L. 111–249, §6(3), substituted "subsection (h) or (i)" for "subsection (h)".
 
-Subsec. (j)(3). Pub. L. 111–216, §203(c)(1)(D), as amended by Pub. L. 111–249, §6(3), inserted “or who furnished information to the database established under subsection (i)(2)” after “subsection (h)(1)” in introductory provisions.
+Subsec. (j)(3). Pub. L. 111–216, §203(c)(1)(D), as amended by Pub. L. 111–249, §6(3), inserted "or who furnished information to the database established under subsection (i)(2)" after "subsection (h)(1)" in introductory provisions.
 
 Subsec. (j)(4). Pub. L. 111–216, §203(c)(1)(E), as amended by Pub. L. 111–249, §6(3), added par. (4).
 
-Subsec. (k). Pub. L. 111–216, §203(c)(2), as amended by Pub. L. 111–249, §6(4), substituted “subsection (h) or (i)” for “subsection (h)”.
+Subsec. (k). Pub. L. 111–216, §203(c)(2), as amended by Pub. L. 111–249, §6(4), substituted "subsection (h) or (i)" for "subsection (h)".
 
 Pub. L. 111–216, §203(b)(1), redesignated subsec. (j) as (k).
 
-<b>2001</b>—Subsec. (g)(1). Pub. L. 107–71, §129(1), in first sentence, substituted “needs of airmen” for “needs of pilots” and inserted “and related to combating acts of terrorism” before period at end.
+<b>2001</b>—Subsec. (g)(1). Pub. L. 107–71, §129(1), in first sentence, substituted "needs of airmen" for "needs of pilots" and inserted "and related to combating acts of terrorism" before period at end.
 
 Subsec. (g)(3), (4). Pub. L. 107–71, §129(2), added pars. (3) and (4).
 
-Subsecs. (h) to (j). Pub. L. 107–71, §§138(b), 140(a), amended section identically, redesignating subsecs. (f) to (h) of section 44936 of this title as subsecs. (h) to (j), respectively, of this section, and substituting “subsection (h)” for “subsection (f)” wherever appearing in subsecs. (i) and (j). See Codification note above.
+Subsecs. (h) to (j). Pub. L. 107–71, §§138(b), 140(a), amended section identically, redesignating subsecs. (f) to (h) of section 44936 of this title as subsecs. (h) to (j), respectively, of this section, and substituting "subsection (h)" for "subsection (f)" wherever appearing in subsecs. (i) and (j). See Codification note above.
 
 <b>2000</b>—Subsecs. (c) to (g). Pub. L. 106–181 added subsec. (c) and redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
 
@@ -658,273 +658,273 @@ For transfer of functions, personnel, assets, and liabilities of the United Stat
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
-General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 #### Federal Aviation Administration Enforcement Proceedings and Elimination of Deference
 
 Pub. L. 112–153, §2, Aug. 3, 2012, 126 Stat. 1159, provided that:
 
-“(a)
+"(a)
 
 In General.—Any proceeding conducted under subpart C, D, or F of part 821 of title 49, Code of Federal Regulations, relating to denial, amendment, modification, suspension, or revocation of an airman certificate, shall be conducted, to the extent practicable, in accordance with the Federal Rules of Civil Procedure \[28 U.S.C. App.\] and the Federal Rules of Evidence \[28 U.S.C. App.\].
 
-“(b)
+"(b)
 
 Access to Information.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—Except as provided under paragraph (3), the Administrator of the Federal Aviation Administration (referred to in this section as the ‘Administrator’) shall provide timely, written notification to an individual who is the subject of an investigation relating to the approval, denial, suspension, modification, or revocation of an airman certificate under chapter 447 of title 49, United States Code.
+In general.—Except as provided under paragraph (3), the Administrator of the Federal Aviation Administration (referred to in this section as the 'Administrator') shall provide timely, written notification to an individual who is the subject of an investigation relating to the approval, denial, suspension, modification, or revocation of an airman certificate under chapter 447 of title 49, United States Code.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Information required.—The notification required under paragraph (1) shall inform the individual—
 
-&emsp;&emsp;“(A) of the nature of the investigation;
+&emsp;&emsp;"(A) of the nature of the investigation;
 
-&emsp;&emsp;“(B) that an oral or written response to a Letter of Investigation from the Administrator is not required;
+&emsp;&emsp;"(B) that an oral or written response to a Letter of Investigation from the Administrator is not required;
 
-&emsp;&emsp;“(C) that no action or adverse inference can be taken against the individual for declining to respond to a Letter of Investigation from the Administrator;
+&emsp;&emsp;"(C) that no action or adverse inference can be taken against the individual for declining to respond to a Letter of Investigation from the Administrator;
 
-&emsp;&emsp;“(D) that any response to a Letter of Investigation from the Administrator or to an inquiry made by a representative of the Administrator by the individual may be used as evidence against the individual;
+&emsp;&emsp;"(D) that any response to a Letter of Investigation from the Administrator or to an inquiry made by a representative of the Administrator by the individual may be used as evidence against the individual;
 
-&emsp;&emsp;“(E) that the releasable portions of the Administrator's investigative report will be available to the individual; and
+&emsp;&emsp;"(E) that the releasable portions of the Administrator's investigative report will be available to the individual; and
 
-&emsp;&emsp;“(F) that the individual is entitled to access or otherwise obtain air traffic data described in paragraph (4).
+&emsp;&emsp;"(F) that the individual is entitled to access or otherwise obtain air traffic data described in paragraph (4).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Exception.—The Administrator may delay timely notification under paragraph (1) if the Administrator determines that such notification may threaten the integrity of the investigation.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Access to air traffic data.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 FAA air traffic data.—The Administrator shall provide an individual described in paragraph (1) with timely access to any air traffic data in the possession of the Federal Aviation Administration that would facilitate the individual's ability to productively participate in a proceeding relating to an investigation described in such paragraph.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
-Air traffic data defined.—As used in subparagraph (A), the term ‘air traffic data’ includes—
+Air traffic data defined.—As used in subparagraph (A), the term 'air traffic data' includes—
 
-&emsp;&emsp;&emsp;“(i) relevant air traffic communication tapes;
+&emsp;&emsp;&emsp;"(i) relevant air traffic communication tapes;
 
-&emsp;&emsp;&emsp;“(ii) radar information;
+&emsp;&emsp;&emsp;"(ii) radar information;
 
-&emsp;&emsp;&emsp;“(iii) air traffic controller statements;
+&emsp;&emsp;&emsp;"(iii) air traffic controller statements;
 
-&emsp;&emsp;&emsp;“(iv) flight data;
+&emsp;&emsp;&emsp;"(iv) flight data;
 
-&emsp;&emsp;&emsp;“(v) investigative reports; and
+&emsp;&emsp;&emsp;"(v) investigative reports; and
 
-&emsp;&emsp;&emsp;“(vi) any other air traffic or flight data in the Federal Aviation Administration's possession that would facilitate the individual's ability to productively participate in the proceeding.
+&emsp;&emsp;&emsp;"(vi) any other air traffic or flight data in the Federal Aviation Administration's possession that would facilitate the individual's ability to productively participate in the proceeding.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Government contractor air traffic data.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—Any individual described in paragraph (1) is entitled to obtain any air traffic data that would facilitate the individual's ability to productively participate in a proceeding relating to an investigation described in such paragraph from a government contractor that provides operational services to the Federal Aviation Administration, including control towers and flight service stations.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Required information from individual.—The individual may obtain the information described in clause (i) by submitting a request to the Administrator that—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) describes the facility at which such information is located; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) describes the facility at which such information is located; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) identifies the date on which such information was generated.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) identifies the date on which such information was generated.
 
-&emsp;&emsp;&emsp;“(iii)
+&emsp;&emsp;&emsp;"(iii)
 
 Provision of information to individual.—If the Administrator receives a request under this subparagraph, the Administrator shall—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) request the contractor to provide the requested information; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) request the contractor to provide the requested information; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) upon receiving such information, transmitting the information to the requesting individual in a timely manner.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) upon receiving such information, transmitting the information to the requesting individual in a timely manner.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Timing.—Except when the Administrator determines that an emergency exists under section 44709(c)(2) \[probably should be 44709(e)(2)\] or 46105(c) \[of title 49, United States Code\], the Administrator may not proceed against an individual that is the subject of an investigation described in paragraph (1) during the 30-day period beginning on the date on which the air traffic data required under paragraph (4) is made available to the individual.
 
-“(c)
+"(c)
 
 Amendments to Title 49.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Airman certificates.—\[Amended this section.\]
 
-&emsp;“(2)
+&emsp;"(2)
 
 Amendments, modifications, suspensions, and revocations of certificates.—\[Amended section 44709 of this title.\]
 
-&emsp;“(3)
+&emsp;"(3)
 
 Revocation of airman certificates for controlled substance violations.—\[Amended section 44710 of this title.\]
 
-“(d)
+"(d)
 
 Appeal From Certificate Actions.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Upon a decision by the National Transportation Safety Board upholding an order or a final decision by the Administrator denying an airman certificate under section 44703(d) of title 49, United States Code, or imposing a punitive civil action or an emergency order of revocation under subsections (d) and (e) of section 44709 of such title, an individual substantially affected by an order of the Board may, at the individual's election, file an appeal in the United States district court in which the individual resides or in which the action in question occurred, or in the United States District Court for the District of Columbia. If the individual substantially affected by an order of the Board elects not to file an appeal in a United States district court, the individual may file an appeal in an appropriate United States court of appeals.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Emergency order pending judicial review.—Subsequent to a decision by the Board to uphold an Administrator's emergency order under section 44709(e)(2) of title 49, United States Code, and absent a stay of the enforcement of that order by the Board, the emergency order of amendment, modification, suspension, or revocation of a certificate shall remain in effect, pending the exhaustion of an appeal to a Federal district court as provided in this Act \[amending this section and sections 44709 and 44710 of this title and enacting provisions set out as notes under this section and sections 40101 and 44701 of this title\].
 
-“(e)
+"(e)
 
 Standard of Review.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—In an appeal filed under subsection (d) in a United States district court, the district court shall give full independent review of a denial, suspension, or revocation ordered by the Administrator, including substantive independent and expedited review of any decision by the Administrator to make such order effective immediately.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Evidence.—A United States district court's review under paragraph (1) shall include in evidence any record of the proceeding before the Administrator and any record of the proceeding before the National Transportation Safety Board, including hearing testimony, transcripts, exhibits, decisions, and briefs submitted by the parties.”
+Evidence.—A United States district court's review under paragraph (1) shall include in evidence any record of the proceeding before the Administrator and any record of the proceeding before the National Transportation Safety Board, including hearing testimony, transcripts, exhibits, decisions, and briefs submitted by the parties."
 
 #### Medical Certification
 
 Pub. L. 112–153, §4, Aug. 3, 2012, 126 Stat. 1162, provided that:
 
-“(a)
+"(a)
 
 Assessment.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than 180 days after the date of the enactment of this Act \[Aug. 3, 2012\], the Comptroller General of the United States shall initiate an assessment of the Federal Aviation Administration's medical certification process and the associated medical standards and forms.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Report.—The Comptroller General shall submit a report to Congress based on the assessment required under paragraph (1) that examines—
 
-&emsp;&emsp;“(A) revisions to the medical application form that would provide greater clarity and guidance to applicants;
+&emsp;&emsp;"(A) revisions to the medical application form that would provide greater clarity and guidance to applicants;
 
-&emsp;&emsp;“(B) the alignment of medical qualification policies with present-day qualified medical judgment and practices, as applied to an individual's medically relevant circumstances; and
+&emsp;&emsp;"(B) the alignment of medical qualification policies with present-day qualified medical judgment and practices, as applied to an individual's medically relevant circumstances; and
 
-&emsp;&emsp;“(C) steps that could be taken to promote the public's understanding of the medical requirements that determine an airman's medical certificate eligibility.
+&emsp;&emsp;"(C) steps that could be taken to promote the public's understanding of the medical requirements that determine an airman's medical certificate eligibility.
 
-“(b)
+"(b)
 
 Goals of the Federal Aviation Administration's Medical Certification Process.—The goals of the Federal Aviation Administration's medical certification process are—
 
-&emsp;“(1) to provide questions in the medical application form that—
+&emsp;"(1) to provide questions in the medical application form that—
 
-&emsp;&emsp;“(A) are appropriate without being overly broad;
+&emsp;&emsp;"(A) are appropriate without being overly broad;
 
-&emsp;&emsp;“(B) are subject to a minimum amount of misinterpretation and mistaken responses;
+&emsp;&emsp;"(B) are subject to a minimum amount of misinterpretation and mistaken responses;
 
-&emsp;&emsp;“(C) allow for consistent treatment and responses during the medical application process; and
+&emsp;&emsp;"(C) allow for consistent treatment and responses during the medical application process; and
 
-&emsp;&emsp;“(D) avoid unnecessary allegations that an individual has intentionally falsified answers on the form;
+&emsp;&emsp;"(D) avoid unnecessary allegations that an individual has intentionally falsified answers on the form;
 
-&emsp;“(2) to provide questions that elicit information that is relevant to making a determination of an individual's medical qualifications within the standards identified in the Administrator's regulations;
+&emsp;"(2) to provide questions that elicit information that is relevant to making a determination of an individual's medical qualifications within the standards identified in the Administrator's regulations;
 
-&emsp;“(3) to give medical standards greater meaning by ensuring the information requested aligns with present-day medical judgment and practices; and
+&emsp;"(3) to give medical standards greater meaning by ensuring the information requested aligns with present-day medical judgment and practices; and
 
-&emsp;“(4) to ensure that—
+&emsp;"(4) to ensure that—
 
-&emsp;&emsp;“(A) the application of such medical standards provides an appropriate and fair evaluation of an individual's qualifications; and
+&emsp;&emsp;"(A) the application of such medical standards provides an appropriate and fair evaluation of an individual's qualifications; and
 
-&emsp;&emsp;“(B) the individual understands the basis for determining medical qualifications.
+&emsp;&emsp;"(B) the individual understands the basis for determining medical qualifications.
 
-“(c)
+"(c)
 
 Advice From Private Sector Groups.—The Administrator shall establish a panel, which shall be comprised of representatives of relevant nonprofit and not-for-profit general aviation pilot groups, aviation medical examiners, and other qualified medical experts, to advise the Administrator in carrying out the goals of the assessment required under this section.
 
-“(d)
+"(d)
 
-Federal Aviation Administration Response.—Not later than 1 year after the issuance of the report by the Comptroller General pursuant to subsection (a)(2), the Administrator shall take appropriate actions to respond to such report.”
+Federal Aviation Administration Response.—Not later than 1 year after the issuance of the report by the Comptroller General pursuant to subsection (a)(2), the Administrator shall take appropriate actions to respond to such report."
 
 #### Improved Pilot Licenses
 
 Pub. L. 112–95, title III, §321, Feb. 14, 2012, 126 Stat. 71, provided that:
 
-“(a)
+"(a)
 
 In General.—The Administrator of the Federal Aviation Administration shall issue improved pilot licenses consistent with requirements under this section.
 
-“(b)
+"(b)
 
 Timing.—Not later than 270 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall—
 
-&emsp;“(1) provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
+&emsp;"(1) provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing—
 
-&emsp;&emsp;“(A) a timeline for the phased issuance of improved pilot licenses under this section that ensures all pilots are issued such licenses not later than 2 years after the initial issuance of such licenses under paragraph (2); and
+&emsp;&emsp;"(A) a timeline for the phased issuance of improved pilot licenses under this section that ensures all pilots are issued such licenses not later than 2 years after the initial issuance of such licenses under paragraph (2); and
 
-&emsp;&emsp;“(B) recommendations for the Federal installation of infrastructure necessary to take advantage of information contained on improved pilot licenses issued under this section, which identify the necessary infrastructure, indicate the Federal entity that should be responsible for installing, funding, and operating the infrastructure at airport sterile areas, and provide an estimate of the costs of the infrastructure; and
+&emsp;&emsp;"(B) recommendations for the Federal installation of infrastructure necessary to take advantage of information contained on improved pilot licenses issued under this section, which identify the necessary infrastructure, indicate the Federal entity that should be responsible for installing, funding, and operating the infrastructure at airport sterile areas, and provide an estimate of the costs of the infrastructure; and
 
-&emsp;“(2) begin to issue improved pilot licenses consistent with the requirements of title 49, United States Code, and title 14, Code of Federal Regulations.
+&emsp;"(2) begin to issue improved pilot licenses consistent with the requirements of title 49, United States Code, and title 14, Code of Federal Regulations.
 
-“(c)
+"(c)
 
 Requirements.—Improved pilot licenses issued under this section shall—
 
-&emsp;“(1) be resistant to tampering, alteration, and counterfeiting;
+&emsp;"(1) be resistant to tampering, alteration, and counterfeiting;
 
-&emsp;“(2) include a photograph of the individual to whom the license is issued for identification purposes; and
+&emsp;"(2) include a photograph of the individual to whom the license is issued for identification purposes; and
 
-&emsp;“(3) be smart cards that—
+&emsp;"(3) be smart cards that—
 
-&emsp;&emsp;“(A) accommodate iris and fingerprint biometric identifiers; and
+&emsp;&emsp;"(A) accommodate iris and fingerprint biometric identifiers; and
 
-&emsp;&emsp;“(B) are compliant with Federal Information Processing Standards-201 (FIPS–201) or Personal Identity Verification-Interoperability Standards (PIV–I) for processing through security checkpoints into airport sterile areas.
+&emsp;&emsp;"(B) are compliant with Federal Information Processing Standards-201 (FIPS–201) or Personal Identity Verification-Interoperability Standards (PIV–I) for processing through security checkpoints into airport sterile areas.
 
-“(d)
+"(d)
 
 Tampering.—To the extent practicable, the Administrator shall develop methods to determine or reveal whether any component or security feature of an improved pilot license issued under this section has been tampered with, altered, or counterfeited.
 
-“(e)
+"(e)
 
 Use of Designees.—The Administrator may use designees to carry out subsection (a) to the extent practicable in order to minimize the burdens on pilots.
 
-“(f)
+"(f)
 
 Report to Congress.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], and annually thereafter, the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the issuance of improved pilot licenses under this section.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Expiration.—The Administrator shall not be required to submit annual reports under this subsection after the date on which the Administrator has issued improved pilot licenses under this section to all pilots.”
+Expiration.—The Administrator shall not be required to submit annual reports under this subsection after the date on which the Administrator has issued improved pilot licenses under this section to all pilots."
 
 Pub. L. 108–458, title IV, §4022, Dec. 17, 2004, 118 Stat. 3723, provided that:
 
-“(a)
+"(a)
 
 In General.—Not later than one year after the date of enactment of this Act \[Dec. 17, 2004\], the Administrator of the Federal Aviation Administration shall begin to issue improved pilot licenses consistent with the requirements of title 49, United States Code, and title 14, Code of Federal Regulations.
 
-“(b)
+"(b)
 
 Requirements.—Improved pilots licenses issued under subsection (a) shall—
 
-&emsp;“(1) be resistant to tampering, alteration, and counterfeiting;
+&emsp;"(1) be resistant to tampering, alteration, and counterfeiting;
 
-&emsp;“(2) include a photograph of the individual to whom the license is issued; and
+&emsp;"(2) include a photograph of the individual to whom the license is issued; and
 
-&emsp;“(3) be capable of accommodating a digital photograph, a biometric identifier, or any other unique identifier that the Administrator considers necessary.
+&emsp;"(3) be capable of accommodating a digital photograph, a biometric identifier, or any other unique identifier that the Administrator considers necessary.
 
-“(c)
+"(c)
 
 Tampering.—To the extent practical, the Administrator shall develop methods to determine or reveal whether any component or security feature of a license issued under subsection (a) has been tampered, altered, or counterfeited.
 
-“(d)
+"(d)
 
-Use of Designees.—The Administrator may use designees to carry out subsection (a) to the extent feasible in order to minimize the burdens on pilots.”
+Use of Designees.—The Administrator may use designees to carry out subsection (a) to the extent feasible in order to minimize the burdens on pilots."
 
 #### Crediting of Law Enforcement Flight Time
 
-Pub. L. 106–424, §14, Nov. 1, 2000, 114 Stat. 1888, provided that: “In determining whether an individual meets the aeronautical experience requirements imposed under section 44703 of title 49, United States Code, for an airman certificate or rating, the Secretary of Transportation shall take into account any time spent by that individual operating a public aircraft as defined in section 40102 of title 49, United States Code, if that aircraft is—
+Pub. L. 106–424, §14, Nov. 1, 2000, 114 Stat. 1888, provided that: "In determining whether an individual meets the aeronautical experience requirements imposed under section 44703 of title 49, United States Code, for an airman certificate or rating, the Secretary of Transportation shall take into account any time spent by that individual operating a public aircraft as defined in section 40102 of title 49, United States Code, if that aircraft is—
 
-&emsp;“(1) identifiable by category and class; and
+&emsp;"(1) identifiable by category and class; and
 
-&emsp;“(2) used in law enforcement activities.”
+&emsp;"(2) used in law enforcement activities."
 

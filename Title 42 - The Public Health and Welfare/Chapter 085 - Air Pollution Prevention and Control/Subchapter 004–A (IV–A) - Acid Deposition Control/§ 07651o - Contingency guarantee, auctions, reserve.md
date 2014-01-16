@@ -4,9 +4,9 @@
 
 For purposes of this section—
 
-&emsp;(1) The term “independent power producer” means any person who owns or operates, in whole or in part, one or more new independent power production facilities.
+&emsp;(1) The term "independent power producer" means any person who owns or operates, in whole or in part, one or more new independent power production facilities.
 
-&emsp;(2) The term “new independent power production facility” means a facility that—
+&emsp;(2) The term "new independent power production facility" means a facility that—
 
 &emsp;&emsp;(A) is used for the generation of electric energy, 80 percent or more of which is sold at wholesale;
 
@@ -16,7 +16,7 @@ For purposes of this section—
 
 &emsp;&emsp;(D) is a new unit required to hold allowances under this subchapter.
 
-&emsp;(3) The term “required allowances” means the allowances required to operate such unit for so much of the unit's useful life as occurs after January 1, 2000.
+&emsp;(3) The term "required allowances" means the allowances required to operate such unit for so much of the unit's useful life as occurs after January 1, 2000.
 
 #### (b) Special reserve of allowances
 
@@ -94,7 +94,7 @@ Allowances sold in the spot sale in any year are allowances which may only be us
 
 #### (6) Proceeds
 
-&emsp;Notwithstanding section 3302 of title 31 or any other provision of law, the Administratorshall require that the proceeds of any sale under this subsection be transferred, within 90 days after the sale, without charge, on a pro rata basis to the owners or operators of the affected units from whom the allowances were withheld under subsection (b) of this section and that any unsold allowances be transferred to the Subaccount for Auction Sales established under subsection (d) of this section. No proceeds of any sale under this subsection shall be held by any officer or employee of the United States or treated for any purpose as revenue to the United States or to the Administrator.
+&emsp;Notwithstanding section 3302 of title 31 or any other provision of law, the Administrator shall require that the proceeds of any sale under this subsection be transferred, within 90 days after the sale, without charge, on a pro rata basis to the owners or operators of the affected units from whom the allowances were withheld under subsection (b) of this section and that any unsold allowances be transferred to the Subaccount for Auction Sales established under subsection (d) of this section. No proceeds of any sale under this subsection shall be held by any officer or employee of the United States or treated for any purpose as revenue to the United States or to the Administrator.
 
 #### (7) Termination of subaccount
 

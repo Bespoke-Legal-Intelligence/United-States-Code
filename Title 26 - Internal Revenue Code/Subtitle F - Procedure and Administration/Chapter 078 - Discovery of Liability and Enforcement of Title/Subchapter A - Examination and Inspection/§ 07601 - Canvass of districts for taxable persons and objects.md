@@ -12,5 +12,5 @@ The Secretary shall, to the extent he deems it practicable, cause officers or em
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 

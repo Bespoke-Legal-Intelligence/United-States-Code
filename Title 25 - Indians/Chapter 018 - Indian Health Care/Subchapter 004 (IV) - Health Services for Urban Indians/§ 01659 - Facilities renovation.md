@@ -10,11 +10,11 @@ Amendment by Pub. L. 111–148 is based on section 161 of title I of S. 1790, On
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148 inserted “or construction or expansion of facilities” after “renovations to facilities”.
+<b>2010</b>—Pub. L. 111–148 inserted "or construction or expansion of facilities" after "renovations to facilities".
 
 <b>1992</b>—Pub. L. 102–573, §902(5)(A), made technical amendment to section catchline.
 
 Pub. L. 102–573, §505(b)(2), struck out last sentence which authorized appropriation of $1,000,000 for fiscal year 1992 to carry out this section.
 
-Pub. L. 102–573, §501(b)(6), inserted “or grant recipients” after “contractors” in two places.
+Pub. L. 102–573, §501(b)(6), inserted "or grant recipients" after "contractors" in two places.
 

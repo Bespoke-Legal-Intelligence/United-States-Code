@@ -1,8 +1,8 @@
 ### §285m–3. Multipurpose deafness and other communication disorders center
 
-#### (a) Development, modernization and operation; “modernization” defined
+#### (a) Development, modernization and operation; "modernization" defined
 
-The Director of the Institute shall, after consultation with the advisory council for the Institute, provide for the development, modernization, and operation (including care required for research) of new and existing centers for studies of disorders of hearing and other communication processes. For purposes of this section, the term “modernization” means the alteration, remodeling, improvement, expansion, and repair of existing buildings and the provision of equipment for such buildings to the extent necessary to make them suitable for use as centers described in the preceding sentence.
+The Director of the Institute shall, after consultation with the advisory council for the Institute, provide for the development, modernization, and operation (including care required for research) of new and existing centers for studies of disorders of hearing and other communication processes. For purposes of this section, the term "modernization" means the alteration, remodeling, improvement, expansion, and repair of existing buildings and the provision of equipment for such buildings to the extent necessary to make them suitable for use as centers described in the preceding sentence.
 
 #### (b) Use of facilities; qualifications
 
@@ -16,7 +16,7 @@ Each center assisted under this section shall—
 
 Each center assisted under this section shall, at least, conduct—
 
-&emsp;(1) basic and clinical research into the cause diagnosis, early detection, prevention, control and treatment of disorders of hearing and other communication processes and complications resulting from such disorders, including research into rehabilitative aids, implantable biomaterials, auditory speech processors, speech production devices, and other otolaryngologic procedures;
+&emsp;(1) basic and clinical research into the cause <sup>1</sup> diagnosis, early detection, prevention, control and treatment of disorders of hearing and other communication processes and complications resulting from such disorders, including research into rehabilitative aids, implantable biomaterials, auditory speech processors, speech production devices, and other otolaryngologic procedures;
 
 &emsp;(2) training programs for physicians, scientists, and other health and allied health professionals;
 
@@ -36,7 +36,7 @@ A center may use funds provided under subsection (a) of this section to provide 
 
 Each center assisted under this section may conduct programs—
 
-&emsp;(1) to establish the effectiveness of new and improved methods of detection, referral, and diagnosis of individuals at risk of developing disorders of hearing or other communication processes; and
+&emsp;(1) to establish the effectiveness of new and improved methods of detection, referral, anddiagnosis of individuals at risk of developing disorders of hearing or other communication processes; and
 
 &emsp;(2) to disseminate the results of research, screening, and other activities, and develop means of standardizing patient data and recordkeeping.
 
@@ -61,4 +61,6 @@ Pub. L. 100–553 and Pub. L. 100–607 contained identical provisions enacting 
 #### Effective Date of 1988 Amendment
 
 For effective date of amendment by Pub. L. 100–690, see section 2613(b)(1) of Pub. L. 100–690, set out as an Effect of Enactment of Similar Provisions note under section 285m of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

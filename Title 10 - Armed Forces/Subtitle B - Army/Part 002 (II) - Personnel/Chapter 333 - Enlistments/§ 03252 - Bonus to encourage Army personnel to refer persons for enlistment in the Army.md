@@ -44,7 +44,7 @@ Members in recruiting roles.—A member of the Army or civilian employee of the 
 
 &emsp;(3)
 
-Junior reserve officers’ training corps instructors.—A member of the Army detailed under subsection (c)(1) of section 2031 of this title to serve as an administrator or instructor in the Junior Reserve Officers’ Training Corps program or a retired member of the Army employed as an administrator or instructor in the program under subsection (d) of such section may not be paid a bonus under subsection (a).
+Junior reserve officers' training corps instructors.—A member of the Army detailed under subsection (c)(1) of section 2031 of this title to serve as an administrator or instructor in the Junior Reserve Officers' Training Corps program or a retired member of the Army employed as an administrator or instructor in the program under subsection (d) of such section may not be paid a bonus under subsection (a).
 
 (d)
 
@@ -78,9 +78,9 @@ A prior section 3252, act Aug. 10, 1956, ch. 1041, 70A Stat. 177, provided that 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (h). Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (h). Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-<b>2009</b>—Subsec. (h). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2009</b>—Subsec. (h). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-<b>2008</b>—Subsec. (h). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+<b>2008</b>—Subsec. (h). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
 

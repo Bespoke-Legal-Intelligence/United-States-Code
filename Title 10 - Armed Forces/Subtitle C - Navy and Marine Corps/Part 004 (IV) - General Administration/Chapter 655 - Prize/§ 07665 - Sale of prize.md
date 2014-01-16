@@ -28,7 +28,7 @@ Historical and Revision Notes
 
 R.S. 4627.
 
-In subsection (a) the word “perishing” is omitted as surplusage. The words “in value” are added after “depreciate” for clarity.
+In subsection (a) the word "perishing" is omitted as surplusage. The words "in value" are added after "depreciate" for clarity.
 
-In subsection (c) the words “An appeal does not prevent” are substituted for the words “no appeal shall operate to prevent”.
+In subsection (c) the words "An appeal does not prevent" are substituted for the words "no appeal shall operate to prevent".
 

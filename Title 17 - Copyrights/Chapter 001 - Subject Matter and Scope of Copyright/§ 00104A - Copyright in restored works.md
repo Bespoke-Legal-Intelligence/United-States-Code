@@ -76,7 +76,7 @@ Notices of Intent To Enforce a Restored Copyright.—
 
 &emsp;(1)
 
-Notices of intent filed with the copyright office.—(A)(i) A notice of intent filed with the Copyright Office to enforce a restored copyright shall be signed by the owner of the restored copyright or the owner of an exclusive right therein, who files the notice under subsection (d)(2)(A)(i) (hereafter in this paragraph referred to as the “owner”), or by the owner's agent, shall identify the title of the restored work, and shall include an English translation of the title and any other alternative titles known to the owner by which the restored work may be identified, and an address and telephone number at which the owner may be contacted. If the notice is signed by an agent, the agency relationship must have been constituted in a writing signed by the owner before the filing of the notice. The Copyright Office may specifically require in regulations other information to be included in the notice, but failure to provide such other information shall not invalidate the notice or be a basis for refusal to list the restored work in the Federal Register.
+Notices of intent filed with the copyright office.—(A)(i) A notice of intent filed with the Copyright Office to enforce a restored copyright shall be signed by the owner of the restored copyright or the owner of an exclusive right therein, who files the notice under subsection (d)(2)(A)(i) (hereafter in this paragraph referred to as the "owner"), or by the owner's agent, shall identify the title of the restored work, and shall include an English translation of the title and any other alternative titles known to the owner by which the restored work may be identified, and an address and telephone number at which the owner may be contacted. If the notice is signed by an agent, the agency relationship must have been constituted in a writing signed by the owner before the filing of the notice. The Copyright Office may specifically require in regulations other information to be included in the notice, but failure to provide such other information shall not invalidate the notice or be a basis for refusal to list the restored work in the Federal Register.
 
 &emsp;(ii) If a work in which copyright is restored has no formal title, it shall be described in the notice of intent in detail sufficient to identify it.
 
@@ -128,7 +128,7 @@ Proclamation of Copyright Restoration.—Whenever the President finds that a par
 
 Definitions.—For purposes of this section and section 109(a):
 
-&emsp;(1) The term “date of adherence or proclamation” means the earlier of the date on which a foreign nation which, as of the date the WTO Agreement enters into force with respect to the United States, is not a nation adhering to the Berne Convention or a WTO member country, becomes—
+&emsp;(1) The term "date of adherence or proclamation" means the earlier of the date on which a foreign nation which, as of the date the WTO Agreement enters into force with respect to the United States, is not a nation adhering to the Berne Convention or a WTO member country, becomes—
 
 &emsp;&emsp;(A) a nation adhering to the Berne Convention;
 
@@ -140,13 +140,13 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;&emsp;(E) subject to a Presidential proclamation under subsection (g).
 
-&emsp;(2) The “date of restoration” of a restored copyright is—
+&emsp;(2) The "date of restoration" of a restored copyright is—
 
 &emsp;&emsp;(A) January 1, 1996, if the source country of the restored work is a nation adhering to the Berne Convention or a WTO member country on such date, or
 
 &emsp;&emsp;(B) the date of adherence or proclamation, in the case of any other source country of the restored work.
 
-&emsp;(3) The term “eligible country” means a nation, other than the United States, that—
+&emsp;(3) The term "eligible country" means a nation, other than the United States, that—
 
 &emsp;&emsp;(A) becomes a WTO member country after the date of the enactment of the Uruguay Round Agreements Act;
 
@@ -158,7 +158,7 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;&emsp;(E) after such date of enactment becomes subject to a proclamation under subsection (g).
 
-&emsp;(4) The term “reliance party” means any person who—
+&emsp;(4) The term "reliance party" means any person who—
 
 &emsp;&emsp;(A) with respect to a particular work, engages in acts, before the source country of that work becomes an eligible country, which would have violated section 106 if the restored work had been subject to copyright protection, and who, after the source country becomes an eligible country, continues to engage in such acts;
 
@@ -166,9 +166,9 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;&emsp;(C) as the result of the sale or other disposition of a derivative work covered under subsection (d)(3), or significant assets of a person described in subparagraph (A) or (B), is a successor, assignee, or licensee of that person.
 
-&emsp;(5) The term “restored copyright” means copyright in a restored work under this section.
+&emsp;(5) The term "restored copyright" means copyright in a restored work under this section.
 
-&emsp;(6) The term “restored work” means an original work of authorship that—
+&emsp;(6) The term "restored work" means an original work of authorship that—
 
 &emsp;&emsp;(A) is protected under subsection (a);
 
@@ -186,13 +186,13 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;&emsp;(E) if the source country for the work is an eligible country solely by virtue of its adherence to the WIPO Performances and Phonograms Treaty, is a sound recording.
 
-&emsp;(7) The term “rightholder” means the person—
+&emsp;(7) The term "rightholder" means the person—
 
 &emsp;&emsp;(A) who, with respect to a sound recording, first fixes a sound recording with authorization, or
 
 &emsp;&emsp;(B) who has acquired rights from the person described in subparagraph (A) by means of any conveyance or by operation of law.
 
-&emsp;(8) The “source country” of a restored work is—
+&emsp;(8) The "source country" of a restored work is—
 
 &emsp;&emsp;(A) a nation other than the United States;
 
@@ -220,49 +220,49 @@ Section 101(d)(15) of the Uruguay Round Agreements Act, referred to in subsec. (
 
 <b>1998</b>—Subsec. (h)(1)(A) to (E). Pub. L. 105–304, §102(c)(1), added subpars. (A) to (E) and struck out former subpars. (A) and (B) which read as follows:
 
-“(A) a nation adhering to the Berne Convention or a WTO member country; or
+"(A) a nation adhering to the Berne Convention or a WTO member country; or
 
-“(B) subject to a Presidential proclamation under subsection (g).”
+"(B) subject to a Presidential proclamation under subsection (g)."
 
-Subsec. (h)(3). Pub. L. 105–304, §102(c)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘eligible country’ means a nation, other than the United States, that—
+Subsec. (h)(3). Pub. L. 105–304, §102(c)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The term 'eligible country' means a nation, other than the United States, that—
 
-&emsp;“(A) becomes a WTO member country after the date of the enactment of the Uruguay Round Agreements Act;
+&emsp;"(A) becomes a WTO member country after the date of the enactment of the Uruguay Round Agreements Act;
 
-&emsp;“(B) on such date of enactment is, or after such date of enactment becomes, a member of the Berne Convention; or
+&emsp;"(B) on such date of enactment is, or after such date of enactment becomes, a member of the Berne Convention; or
 
-&emsp;“(C) after such date of enactment becomes subject to a proclamation under subsection (g).
+&emsp;"(C) after such date of enactment becomes subject to a proclamation under subsection (g).
 
-> For purposes of this section, a nation that is a member of the Berne Convention on the date of the enactment of the Uruguay Round Agreements Act shall be construed to become an eligible country on such date of enactment.”
+> For purposes of this section, a nation that is a member of the Berne Convention on the date of the enactment of the Uruguay Round Agreements Act shall be construed to become an eligible country on such date of enactment."
 
 Subsec. (h)(6)(E). Pub. L. 105–304, §102(c)(3), added subpar. (E).
 
-Subsec. (h)(8)(B)(i). Pub. L. 105–304, §102(c)(4), inserted “of which” before “the majority” and struck out “of eligible countries” after “domiciliaries”.
+Subsec. (h)(8)(B)(i). Pub. L. 105–304, §102(c)(4), inserted "of which" before "the majority" and struck out "of eligible countries" after "domiciliaries".
 
-Subsec. (h)(9). Pub. L. 105–304, §102(c)(5), struck out par. (9) which read as follows: “The terms ‘WTO Agreement’ and ‘WTO member country’ have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.”
+Subsec. (h)(9). Pub. L. 105–304, §102(c)(5), struck out par. (9) which read as follows: "The terms 'WTO Agreement' and 'WTO member country' have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act."
 
-<b>1997</b>—Subsec. (d)(3)(A). Pub. L. 105–80, §2(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “In the case of a derivative work that is based upon a restored work and is created—
+<b>1997</b>—Subsec. (d)(3)(A). Pub. L. 105–80, §2(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "In the case of a derivative work that is based upon a restored work and is created—
 
-&emsp;“(i) before the date of the enactment of the Uruguay Round Agreements Act, if the source country of the derivative work is an eligible country on such date, or
+&emsp;"(i) before the date of the enactment of the Uruguay Round Agreements Act, if the source country of the derivative work is an eligible country on such date, or
 
-&emsp;“(ii) before the date of adherence or proclamation, if the source country of the derivative work is not an eligible country on such date of enactment,
+&emsp;"(ii) before the date of adherence or proclamation, if the source country of the derivative work is not an eligible country on such date of enactment,
 
-> a reliance party may continue to exploit that work for the duration of the restored copyright if the reliance party pays to the owner of the restored copyright reasonable compensation for conduct which would be subject to a remedy for infringement but for the provisions of this paragraph.”
+> a reliance party may continue to exploit that work for the duration of the restored copyright if the reliance party pays to the owner of the restored copyright reasonable compensation for conduct which would be subject to a remedy for infringement but for the provisions of this paragraph."
 
-Subsec. (e)(1)(B)(ii). Pub. L. 105–80, §2(2), struck out at end “Such list shall also be published in the Federal Register on an annual basis for the first 2 years after the applicable date of restoration.”
+Subsec. (e)(1)(B)(ii). Pub. L. 105–80, §2(2), struck out at end "Such list shall also be published in the Federal Register on an annual basis for the first 2 years after the applicable date of restoration."
 
 Subsec. (h)(2), (3). Pub. L. 105–80, §2(3), (4), amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
 
-“(2) The ‘date of restoration’ of a restored copyright is the later of—
+"(2) The 'date of restoration' of a restored copyright is the later of—
 
-&emsp;“(A) the date on which the Agreement on Trade-Related Aspects of Intellectual Property referred to in section 101(d)(15) of the Uruguay Round Agreements Act enters into force with respect to the United States, if the source country of the restored work is a nation adhering to the Berne Convention or a WTO member country on such date; or
+&emsp;"(A) the date on which the Agreement on Trade-Related Aspects of Intellectual Property referred to in section 101(d)(15) of the Uruguay Round Agreements Act enters into force with respect to the United States, if the source country of the restored work is a nation adhering to the Berne Convention or a WTO member country on such date; or
 
-&emsp;“(B) the date of adherence or proclamation, in the case of any other source country of the restored work.
+&emsp;"(B) the date of adherence or proclamation, in the case of any other source country of the restored work.
 
-“(3) The term ‘eligible country’ means a nation, other than the United States, that is a WTO member country, adheres to the Berne Convention, or is subject to a proclamation under subsection (g).”
+"(3) The term 'eligible country' means a nation, other than the United States, that is a WTO member country, adheres to the Berne Convention, or is subject to a proclamation under subsection (g)."
 
-<b>1996</b>—Subsec. (h)(3). Pub. L. 104–295 substituted “subsection (g)” for “section 104A(g)”.
+<b>1996</b>—Subsec. (h)(3). Pub. L. 104–295 substituted "subsection (g)" for "section 104A(g)".
 
-<b>1994</b>—Pub. L. 103–465 substituted “Copyright in restored works” for “Copyright in certain motion pictures” as section catchline and amended text generally, substituting present provisions for provisions restoring copyright in certain motion pictures and providing for effective date of protection as well as use of previously owned copies.
+<b>1994</b>—Pub. L. 103–465 substituted "Copyright in restored works" for "Copyright in certain motion pictures" as section catchline and amended text generally, substituting present provisions for provisions restoring copyright in certain motion pictures and providing for effective date of protection as well as use of previously owned copies.
 
 #### Effective Date of 1998 Amendment
 

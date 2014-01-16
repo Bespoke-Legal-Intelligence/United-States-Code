@@ -38,7 +38,7 @@
 
 #### <i>(a) Application for authorization</i>
 
-<i>The Director of the Federal Bureau of Investigation or a designee of the Director (whose rank shall be no lower than Assistant Special Agent in Charge) may make an application for an order authorizing a common carrier, public accommodation facility, physical storage facility, or vehicle rental facility to release records in its possession for an investigation to gather foreign intelligence information or an in</i><i>vestigation concerning international terrorism which investigation is being conducted by the Federal Bureau of Investigation under such guidelines as the Attorney General approves pursuant to Executive Order No. 12333, or a successor order.</i>
+<i>The Director of the Federal Bureau of Investigation or a designee of the Director (whose rank shall be no lower than Assistant Special Agent in Charge) may make an application for an order authorizing a common carrier, public accommodation facility, physical storage facility, or vehicle rental facility to release records in its possession for an investigation to gather foreign intelligence information or an investigation concerning international terrorism which investigation is being conducted by the Federal Bureau of Investigation under such guidelines as the Attorney General approves pursuant to Executive Order No. 12333, or a successor order.</i>
 
 #### <i>(b) Recipient and contents of application</i>
 
@@ -82,21 +82,21 @@ Pub. L. 112–3 amended directory language of Pub. L. 109–177, §102(b)(1). Se
 
 <b>2010</b>—Pub. L. 111–141 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
 
-Subsec. (a). Pub. L. 111–259 substituted “an annual” for “a annual”.
+Subsec. (a). Pub. L. 111–259 substituted "an annual" for "a annual".
 
 <b>2009</b>—Pub. L. 111–118 amended directory language of Pub. L. 109–177, §102(b)(1). See 2006 Amendment note below.
 
 <b>2006</b>—Pub. L. 109–177, §102(b)(1), as amended by Pub. L. 111–118, Pub. L. 111–141, Pub. L. 112–3, and Pub. L. 112–14, amended section effective June 1, 2015, so as to read as it read on Oct. 25, 2001. Prior to amendment, section related to reports to Congressional committees concerning requests for the production of tangible things under section 1861 of this title.
 
-Subsec. (a). Pub. L. 109–177, §106(h)(1), substituted “annual basis” for “semiannual basis” and inserted “and the Committee on the Judiciary” after “and the Select Committee on Intelligence”.
+Subsec. (a). Pub. L. 109–177, §106(h)(1), substituted "annual basis" for "semiannual basis" and inserted "and the Committee on the Judiciary" after "and the Select Committee on Intelligence".
 
-Subsec. (b). Pub. L. 109–177, §106(h)(2)(A), in introductory provisions, substituted “In April of each year, the Attorney General shall submit to the House and Senate Committees on the Judiciary and the House Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence a report setting forth with respect to the preceding calendar year” for “On a semiannual basis, the Attorney General shall provide to the Committees on the Judiciary of the House of Representatives and the Senate a report setting forth with respect to the preceding 6-month period”.
+Subsec. (b). Pub. L. 109–177, §106(h)(2)(A), in introductory provisions, substituted "In April of each year, the Attorney General shall submit to the House and Senate Committees on the Judiciary and the House Permanent Select Committee on Intelligence and the Senate Select Committee on Intelligence a report setting forth with respect to the preceding calendar year" for "On a semiannual basis, the Attorney General shall provide to the Committees on the Judiciary of the House of Representatives and the Senate a report setting forth with respect to the preceding 6-month period".
 
 Subsec. (b)(3). Pub. L. 109–177, §106(h)(2)(B)–(D), added par. (3).
 
 Subsec. (c). Pub. L. 109–177, §106(h)(3), added subsec. (c).
 
-<b>2001</b>—Subsecs. (a), (b)(1). Pub. L. 107–108 substituted “section 1861 of this title” for “section 1842 of this title”.
+<b>2001</b>—Subsecs. (a), (b)(1). Pub. L. 107–108 substituted "section 1861 of this title" for "section 1842 of this title".
 
 #### Effective Date of 2006 Amendment
 

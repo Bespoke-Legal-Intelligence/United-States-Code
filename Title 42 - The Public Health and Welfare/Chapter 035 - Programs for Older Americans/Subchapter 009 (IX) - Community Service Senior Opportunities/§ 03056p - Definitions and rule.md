@@ -6,7 +6,7 @@ For purposes of this subchapter:
 
 #### (1) Community service
 
-&emsp;The term “community service” means—
+&emsp;The term "community service" means—
 
 &emsp;&emsp;(A) social, health, welfare, and educational services (including literacy tutoring), legal and other counseling services and assistance, including tax counseling and assistance and financial counseling, and library, recreational, and other similar services;
 
@@ -24,19 +24,19 @@ For purposes of this subchapter:
 
 #### (2) Community service employment
 
-&emsp;The term “community service employment” means part-time, temporary employment paid with grant funds in projects described in section 3056(b)(1)(D) of this title, through which eligible individuals are engaged in community service and receive work experience and job skills that can lead to unsubsidized employment.
+&emsp;The term "community service employment" means part-time, temporary employment paid with grant funds in projects described in section 3056(b)(1)(D) of this title, through which eligible individuals are engaged in community service and receive work experience and job skills that can lead to unsubsidized employment.
 
 #### (3) Eligible individual
 
 #### (A) In general
 
-&emsp;&emsp;The term “eligible individual” means an individual who is age 55 or older and who has a low income (including any such individual whose income is not more than 125 percent of the poverty line), excluding any income that is unemployment compensation, a benefit received under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.), a payment made to or on behalf of veterans or former members of the Armed Forces under the laws administered by the Secretary of Veterans Affairs, or 25 percent of a benefit received under title II of the Social Security Act (42 U.S.C. 401 et seq.), subject to subsection (b).
+&emsp;&emsp;The term "eligible individual" means an individual who is age 55 or older and who has a low income (including any such individual whose income is not more than 125 percent of the poverty line), excluding any income that is unemployment compensation, a benefit received under title XVI of the Social Security Act (42 U.S.C. 1381 et seq.), a payment made to or on behalf of veterans or former members of the Armed Forces under the laws administered by the Secretary of Veterans Affairs, or 25 percent of a benefit received under title II of the Social Security Act (42 U.S.C. 401 et seq.), subject to subsection (b).
 
 #### (B) Participation
 
 #### (i) Exclusion
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of this paragraph, the term “eligible individual” does not include an individual who has participated in projects under this subchapter for a period of 48 months in the aggregate (whether or not consecutive) after July 1, 2007, unless the period was increased as described in clause (ii).
+&emsp;&emsp;&emsp;Notwithstanding any other provision of this paragraph, the term "eligible individual" does not include an individual who has participated in projects under this subchapter for a period of 48 months in the aggregate (whether or not consecutive) after July 1, 2007, unless the period was increased as described in clause (ii).
 
 #### (ii) Increased periods of participation
 
@@ -54,23 +54,23 @@ For purposes of this subchapter:
 
 #### (4) Income
 
-&emsp;In this section, the term “income” means income received during the 12-month period (or, at the option of the grantee involved, the annualized income for the 6-month period) ending on the date an eligible individual submits an application to participate in a project carried out under this subchapter by such grantee.
+&emsp;In this section, the term "income" means income received during the 12-month period (or, at the option of the grantee involved, the annualized income for the 6-month period) ending on the date an eligible individual submits an application to participate in a project carried out under this subchapter by such grantee.
 
 #### (5) Pacific Island and Asian Americans
 
-&emsp;The term “Pacific Island and Asian Americans” means Americans having origins in any of the original peoples of the Far East, Southeast Asia, the Indian Subcontinent, or the Pacific Islands.
+&emsp;The term "Pacific Island and Asian Americans" means Americans having origins in any of the original peoples of the Far East, Southeast Asia, the Indian Subcontinent, or the Pacific Islands.
 
 #### (6) Program
 
-&emsp;The term “program” means the older American community service employment program established under this subchapter.
+&emsp;The term "program" means the older American community service employment program established under this subchapter.
 
 #### (7) Supportive services
 
-&emsp;The term “supportive services” means services, such as transportation, child care, dependent care, housing, and needs-related payments, that are necessary to enable an individual to participate in activities authorized under this subchapter, consistent with the provisions of this subchapter.
+&emsp;The term "supportive services" means services, such as transportation, child care, dependent care, housing, and needs-related payments, that are necessary to enable an individual to participate in activities authorized under this subchapter, consistent with the provisions of this subchapter.
 
 #### (8) Unemployed
 
-&emsp;The term “unemployed”, used with respect to a person or individual, means an individual who is without a job and who wants and is available for work, including an individual who may have occasional employment that does not result in a constant source of income.
+&emsp;The term "unemployed", used with respect to a person or individual, means an individual who is without a job and who wants and is available for work, including an individual who may have occasional employment that does not result in a constant source of income.
 
 #### (b) Rule
 

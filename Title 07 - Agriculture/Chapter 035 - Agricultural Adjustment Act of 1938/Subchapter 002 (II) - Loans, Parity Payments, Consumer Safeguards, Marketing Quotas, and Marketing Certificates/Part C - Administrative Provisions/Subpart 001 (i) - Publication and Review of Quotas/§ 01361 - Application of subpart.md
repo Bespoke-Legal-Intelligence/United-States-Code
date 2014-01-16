@@ -6,11 +6,11 @@ This subpart shall apply to the publication and review of farm marketing quotas 
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–357 struck out “tobacco,” after “established for”.
+<b>2004</b>—Pub. L. 108–357 struck out "tobacco," after "established for".
 
-<b>2002</b>—Pub. L. 107–171 struck out “peanuts,” after “cotton,”.
+<b>2002</b>—Pub. L. 107–171 struck out "peanuts," after "cotton,".
 
-<b>1941</b>—Act Apr. 3, 1941, inserted “peanuts,” after “cotton,”.
+<b>1941</b>—Act Apr. 3, 1941, inserted "peanuts," after "cotton,".
 
 #### Effective Date of 2004 Amendment
 

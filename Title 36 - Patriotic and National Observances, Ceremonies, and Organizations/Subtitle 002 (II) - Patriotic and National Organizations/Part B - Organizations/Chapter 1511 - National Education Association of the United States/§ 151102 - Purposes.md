@@ -24,5 +24,5 @@ Historical and Revision Notes
 
 June 30, 1906, ch. 3929, §2 (1st sentence), 34 Stat. 805.
 
-Before clause (1), the word “object” is omitted as included in “purposes”.
+Before clause (1), the word "object" is omitted as included in "purposes".
 

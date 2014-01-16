@@ -16,7 +16,7 @@ Not more than 15 per centum of the funds appropriated under this part in any fis
 
 #### Amendments
 
-<b>1988</b>—Subsecs. (a)(3), (b). Pub. L. 100–418 substituted “part” for “subchapter”.
+<b>1988</b>—Subsecs. (a)(3), (b). Pub. L. 100–418 substituted "part" for "subchapter".
 
-<b>1985</b>—Subsec. (a)(1). Pub. L. 99–159 substituted “Secretary” for “Foundation”.
+<b>1985</b>—Subsec. (a)(1). Pub. L. 99–159 substituted "Secretary" for "Foundation".
 

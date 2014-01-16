@@ -14,11 +14,11 @@ A person who, having devised or intending to devise a scheme or artifice to defr
 
 #### Amendments
 
-<b>2010</b>—Par. (1). Pub. L. 111–327, §2(b)(1), struck out “bankruptcy” after “involuntary”.
+<b>2010</b>—Par. (1). Pub. L. 111–327, §2(b)(1), struck out "bankruptcy" after "involuntary".
 
-Pars. (2), (3). Pub. L. 111–327, §2(b)(2), struck out “, including a fraudulent involuntary bankruptcy petition under section 303 of such title” after “title 11”.
+Pars. (2), (3). Pub. L. 111–327, §2(b)(2), struck out ", including a fraudulent involuntary bankruptcy petition under section 303 of such title" after "title 11".
 
-<b>2005</b>—Pars. (1) to (3). Pub. L. 109–8, which directed insertion of “, including a fraudulent involuntary bankruptcy petition under section 303 of such title” after “title 11”, was executed by making the insertion after “title 11” wherever appearing, to reflect the probable intent of Congress.
+<b>2005</b>—Pars. (1) to (3). Pub. L. 109–8, which directed insertion of ", including a fraudulent involuntary bankruptcy petition under section 303 of such title" after "title 11", was executed by making the insertion after "title 11" wherever appearing, to reflect the probable intent of Congress.
 
 #### Effective Date of 2005 Amendment
 

@@ -16,7 +16,7 @@ Months.—(1) If an officer whose name is on a list of officers approved for pro
 
 (2) Before the end of the promotion eligibility period with respect to an officer under paragraph (1), the President may extend that period for purposes of paragraph (1) by an additional 12 months.
 
-(3) In this subsection, the term “promotion eligibility period” means, with respect to an officer whose name is on a list of officers approved for promotion under section 624(a) of this title to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate, the period beginning on the date on which the list is so approved and ending on the first day of the eighteenth month following the month during which the list is so approved.
+(3) In this subsection, the term "promotion eligibility period" means, with respect to an officer whose name is on a list of officers approved for promotion under section 624(a) of this title to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate, the period beginning on the date on which the list is so approved and ending on the first day of the eighteenth month following the month during which the list is so approved.
 
 (d)
 
@@ -34,21 +34,21 @@ Continued Eligibility for Promotion.—(1) An officer whose name is removed from
 
 <b>2011</b>—Subsecs. (d), (e). Pub. L. 111–383 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>2008</b>—Subsec. (d)(1). Pub. L. 110–181 inserted comma after “(a)”.
+<b>2008</b>—Subsec. (d)(1). Pub. L. 110–181 inserted comma after "(a)".
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–364, §515(a)(4)(A), inserted heading.
 
-Subsec. (b). Pub. L. 109–364, §515(a)(1), inserted heading and inserted “to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate” after “the President”.
+Subsec. (b). Pub. L. 109–364, §515(a)(1), inserted heading and inserted "to a grade for which appointment is required by section 624(c) of this title to be made by and with the advice and consent of the Senate" after "the President".
 
 Subsec. (c). Pub. L. 109–364, §515(a)(2)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 109–364, §515(a)(2)(A), (4)(B), redesignated subsec. (c) as (d) and inserted heading.
 
-Subsec. (d)(1). Pub. L. 109–364, §515(a)(3), substituted “(b), or (c)” for “or (b)”.
+Subsec. (d)(1). Pub. L. 109–364, §515(a)(3), substituted "(b), or (c)" for "or (b)".
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title V, §515(c), Oct. 17, 2006, 120 Stat. 2187, provided that: “The amendments made by this section \[amending this section and section 14310 of this title\] shall apply to any promotion list approved by the President after January 1, 2007.”
+Pub. L. 109–364, div. A, title V, §515(c), Oct. 17, 2006, 120 Stat. 2187, provided that: "The amendments made by this section \[amending this section and section 14310 of this title\] shall apply to any promotion list approved by the President after January 1, 2007."
 
 #### Delegation of Functions
 

@@ -22,31 +22,31 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, div. A, title X, §1061(23)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 2815 “Joint use military construction projects: annual evaluation”.
+<b>2011</b>—Pub. L. 112–81, div. A, title X, §1061(23)(B), Dec. 31, 2011, 125 Stat. 1584, struck out item 2815 "Joint use military construction projects: annual evaluation".
 
-<b>2002</b>—Pub. L. 107–314, div. A, title III, §313(d)(2), Dec. 2, 2002, 116 Stat. 2508, struck out item 2810 “Construction projects for environmental response actions”.
+<b>2002</b>—Pub. L. 107–314, div. A, title III, §313(d)(2), Dec. 2, 2002, 116 Stat. 2508, struck out item 2810 "Construction projects for environmental response actions".
 
 <b>2000</b>—Pub. L. 106–398, §1 \[div. B, title XXVIII, §2801(b)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–412, added item 2815.
 
 <b>1999</b>—Pub. L. 106–65, div. B, title XXVIII, §2802(a)(2), Oct. 5, 1999, 113 Stat. 848, added item 2814.
 
-<b>1996</b>—Pub. L. 104–201, div. B, title XXVIII, §2802(c)(2), Sept. 23, 1996, 110 Stat. 2787, substituted “OrganizationsSecurity Investment” for “Organization Infrastructure” in item 2806.
+<b>1996</b>—Pub. L. 104–201, div. B, title XXVIII, §2802(c)(2), Sept. 23, 1996, 110 Stat. 2787, substituted "Organizations Security Investment" for "Organization Infrastructure" in item 2806.
 
 Pub. L. 104–106, div. A, title XV, §1503(a)(31), Feb. 10, 1996, 110 Stat. 512, inserted period at end of item 2811.
 
-<b>1994</b>—Pub. L. 103–337, div. B, title XXVIII, §2801(b), Oct. 5, 1994, 108 Stat. 3050, substituted “Repair” for “Renovation” in item 2811.
+<b>1994</b>—Pub. L. 103–337, div. B, title XXVIII, §2801(b), Oct. 5, 1994, 108 Stat. 3050, substituted "Repair" for "Renovation" in item 2811.
 
 <b>1993</b>—Pub. L. 103–160, div. B, title XXVIII, §2805(a)(2), Nov. 30, 1993, 107 Stat. 1887, added item 2813.
 
-<b>1991</b>—Pub. L. 102–190, div. B, title XXVIII, §2805(a)(2), Dec. 5, 1991, 105 Stat. 1538, substituted “Long-term facilities contracts for certain activities and services” for “Test of long-term facilities contracts” in item 2809.
+<b>1991</b>—Pub. L. 102–190, div. B, title XXVIII, §2805(a)(2), Dec. 5, 1991, 105 Stat. 1538, substituted "Long-term facilities contracts for certain activities and services" for "Test of long-term facilities contracts" in item 2809.
 
 <b>1989</b>—Pub. L. 101–189, div. B, title XXVIII, §2809(b), Nov. 29, 1989, 103 Stat. 1650, added item 2812.
 
-<b>1987</b>—Pub. L. 100–26, §7(e)(3), Apr. 21, 1987, 101 Stat. 281, redesignated item 2810 “Renovation of facilities” as item 2811.
+<b>1987</b>—Pub. L. 100–26, §7(e)(3), Apr. 21, 1987, 101 Stat. 281, redesignated item 2810 "Renovation of facilities" as item 2811.
 
-<b>1986</b>—Pub. L. 99–661, div. A, title III, §315(b), Nov. 14, 1986, 100 Stat. 3854, added item 2810 “Renovation of facilities”.
+<b>1986</b>—Pub. L. 99–661, div. A, title III, §315(b), Nov. 14, 1986, 100 Stat. 3854, added item 2810 "Renovation of facilities".
 
-Pub. L. 99–499, title II, §211(b)(2), Oct. 17, 1986, 100 Stat. 1726, added item 2810 “Construction projects for environmental response actions”.
+Pub. L. 99–499, title II, §211(b)(2), Oct. 17, 1986, 100 Stat. 1726, added item 2810 "Construction projects for environmental response actions".
 
 <b>1985</b>—Pub. L. 99–167, title VIII, §811(b), Dec. 3, 1985, 99 Stat. 991, added item 2809.
 

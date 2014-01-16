@@ -13,7 +13,7 @@
 - [&sect; 01396c - Operation of State plans](%C2%A7%2001396c%20-%20Operation%20of%20State%20plans.md)
 - [&sect; 01396d - Definitions](%C2%A7%2001396d%20-%20Definitions.md)
 - [&sect; 01396e - Enrollment of individuals under group health plans](%C2%A7%2001396e%20-%20Enrollment%20of%20individuals%20under%20group%20health%20plans.md)
-- [&sect; 01396e&#8211;1 - Premium assistance option for children](%C2%A7%2001396e%E2%80%931%20-%20Premium%20assistance%20option%20for%20children.md)
+- [&sect; 01396e&#8211;1 - Premium assistance](%C2%A7%2001396e%E2%80%931%20-%20Premium%20assistance.md)
 - [&sect; 01396f - Observance of religious beliefs](%C2%A7%2001396f%20-%20Observance%20of%20religious%20beliefs.md)
 - [&sect; 01396g - State programs for licensing of administrators of nursing homes](%C2%A7%2001396g%20-%20State%20programs%20for%20licensing%20of%20administrators%20of%20nursing%20homes.md)
 - [&sect; 01396g&#8211;1 - Required laws relating to medical child support](%C2%A7%2001396g%E2%80%931%20-%20Required%20laws%20relating%20to%20medical%20child%20support.md)

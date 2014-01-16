@@ -48,7 +48,7 @@ The disclosure required by subsection (a) of this section shall include—
 
 #### (3) Definitions
 
-&emsp;For purposes of this subsection, the term “State” means any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, or the Northern Mariana Islands.
+&emsp;For purposes of this subsection, the term "State" means any State or territory of the United States, the District of Columbia, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, or the Northern Mariana Islands.
 
 #### (e) Model forms
 
@@ -80,5 +80,9 @@ The disclosure required by subsection (a) of this section shall include—
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–351 designated concluding provisions of subsec. (a) as (b), inserted heading, substituted “Disclosures required by subsection (a)” for “Such disclosures”, redesignated former subsec. (b) as (c), and added subsecs. (d) and (e).
+<b>2006</b>—Pub. L. 109–351 designated concluding provisions of subsec. (a) as (b), inserted heading, substituted "Disclosures required by subsection (a)" for "Such disclosures", redesignated former subsec. (b) as (c), and added subsecs. (d) and (e).
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 

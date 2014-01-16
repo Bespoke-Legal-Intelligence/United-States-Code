@@ -12,7 +12,7 @@ Subpart J—Foreign Currency Transactions
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–647, title I, §1012(v)(1)(C), Nov. 10, 1988, 102 Stat. 3529, added item 986 and struck out former item 986 “Determination of foreign corporation's earnings and profits and foreign taxes”.
+<b>1988</b>—Pub. L. 100–647, title I, §1012(v)(1)(C), Nov. 10, 1988, 102 Stat. 3529, added item 986 and struck out former item 986 "Determination of foreign corporation's earnings and profits and foreign taxes".
 
 
 ---

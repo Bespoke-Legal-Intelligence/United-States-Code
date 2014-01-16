@@ -18,7 +18,7 @@
 
 <b>2001</b>—Pub. L. 107–107, div. A, title V, §582(b)(2), Dec. 28, 2001, 115 Stat. 1124, added item 825a.
 
-<b>1968</b>—Pub. L. 90–632, §2(8), Oct. 24, 1968, 82 Stat. 1336, substituted “Military judge of a general or special court-martial” for “Law officer of a general court-martial” in item 826.
+<b>1968</b>—Pub. L. 90–632, §2(8), Oct. 24, 1968, 82 Stat. 1336, substituted "Military judge of a general or special court-martial" for "Law officer of a general court-martial" in item 826.
 
 
 ---

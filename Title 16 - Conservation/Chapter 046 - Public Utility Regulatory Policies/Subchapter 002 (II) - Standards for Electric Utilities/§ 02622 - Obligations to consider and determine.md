@@ -20,7 +20,7 @@ Each State regulatory authority (with respect to each electric utility for which
 
 (3)(A) Not later than 2 years after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall commence the consideration referred to in section 2621 of this title, or set a hearing date for such consideration, with respect to each standard established by paragraphs (11) through (13) of section 2621(d) of this title.
 
-(B) Not later than 3 years after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in section 2621 of this title with respect to each standard established by paragraphs (11) through (13) of section 2621(d) of this title.
+(B) Not later than 3 years after August 8, 2005, each State regulatory authority (with respect toeach electric utility for which it has ratemaking authority), and each nonregulated electric utility, shall complete the consideration, and shall make the determination, referred to in section 2621 of this title with respect to each standard established by paragraphs (11) through (13) of section 2621(d) of this title.
 
 (4)(A) Not later than 1 year after August 8, 2005, each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall commence the consideration referred to in section 2621 of this title, or set a hearing date for such consideration, with respect to the standard established by paragraph (14) of section 2621(d) of this title.
 
@@ -36,7 +36,7 @@ Each State regulatory authority (with respect to each electric utility for which
 
 #### (c) Failure to comply
 
-Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall undertake the consideration, and make the determination, referred to in section 2621 of this title with respect to each standard established by section 2621(d) of this title in the first rate proceeding commenced after thedate three years after November 9, 1978, respecting the rates of such utility if such State regulatory authority or nonregulated electric utility has not, before such date, complied with subsection (b)(2) of this section with respect to such standard. In the case of each standard established by paragraphs (11) through (13) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (14) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (15),<sup>1</sup> the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standards established by paragraphs (16) through (19) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to December 19, 2007.
+Each State regulatory authority (with respect to each electric utility for which it has ratemaking authority) and each nonregulated electric utility shall undertake the consideration, and make the determination, referred to in section 2621 of this title with respect to each standard established by section 2621(d) of this title in the first rate proceeding commenced after the date three years after November 9, 1978, respecting the rates of such utility if such State regulatory authority or nonregulated electric utility has not, before such date, complied with subsection (b)(2) of this section with respect to such standard. In the case of each standard established by paragraphs (11) through (13) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (14) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standard established by paragraph (15),<sup>1</sup> the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005. In the case of the standards established by paragraphs (16) through (19) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to December 19, 2007.
 
 #### (d) Prior State actions relating to standard under certain paragraphs of section 2621(d)
 
@@ -60,7 +60,7 @@ Subsections (b) and (c) of this section shall not apply to the standard establis
 
 #### (f) Prior State actions relating to standard under section 2621(d)(15)
 
-Subsections (b) and (c) of this section shall not apply to the standard established by paragraph (15) of section 2621(d) of this title in the case of any electric utility in a State if, before August 8, 2005—
+Subsections (b) and (c) of this section shall not apply to the standard established by paragraph\(15) of section 2621(d) of this title in the case of any electric utility in a State if, before August 8, 2005—
 
 &emsp;(1) the State has implemented for such utility the standard concerned (or a comparable standard);
 
@@ -72,21 +72,21 @@ Subsections (b) and (c) of this section shall not apply to the standard establis
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1)(B), was in the original “this title”, meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (a)(1)(B), was in the original "this title", meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
 #### Codification
 
-“October 24, 1992”, referred to in subsec. (b)(1), (2), was in the original “the enactment of the Comprehensive National Energy Policy Act”, and was translated as meaning the enactment of the Energy Policy Act of 1992, Pub. L. 102–486, to reflect the probable intent of Congress. The Comprehensive National Energy Policy Act was the original short title of H.R. 776, which was enacted into law on Oct. 24, 1992, as Pub. L. 102–486.
+"October 24, 1992", referred to in subsec. (b)(1), (2), was in the original "the enactment of the Comprehensive National Energy Policy Act", and was translated as meaning the enactment of the Energy Policy Act of 1992, Pub. L. 102–486, to reflect the probable intent of Congress. The Comprehensive National Energy Policy Act was the original short title of H.R. 776, which was enacted into law on Oct. 24, 1992, as Pub. L. 102–486.
 
 #### Amendments
 
-<b>2009</b>—Subsecs. (b)(6), (d). Pub. L. 111–5 substituted “(16) through (19)” for “(17) through (18)” wherever appearing.
+<b>2009</b>—Subsecs. (b)(6), (d). Pub. L. 111–5 substituted "(16) through (19)" for "(17) through (18)" wherever appearing.
 
 <b>2007</b>—Subsec. (b)(6). Pub. L. 110–140, §1307(b)(1), added par. (6).
 
-Subsec. (c). Pub. L. 110–140, §1307(b)(2), inserted at end “In the case of the standards established by paragraphs (16) through (19) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to December 19, 2007.”
+Subsec. (c). Pub. L. 110–140, §1307(b)(2), inserted at end "In the case of the standards established by paragraphs (16) through (19) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to December 19, 2007."
 
-Subsec. (d). Pub. L. 110–140, §1307(b)(3), inserted “and paragraphs (17) through (18)” before “of section 2621(d)” in introductory provisions.
+Subsec. (d). Pub. L. 110–140, §1307(b)(3), inserted "and paragraphs (17) through (18)" before "of section 2621(d)" in introductory provisions.
 
 <b>2005</b>—Subsec. (b)(3). Pub. L. 109–58, §1251(b)(1), added par. (3).
 
@@ -94,11 +94,11 @@ Subsec. (b)(4). Pub. L. 109–58, §1252(g), added par. (4).
 
 Subsec. (b)(5). Pub. L. 109–58, §1254(b)(1), added par. (5).
 
-Subsec. (c). Pub. L. 109–58, §1254(b)(2), which directed amendment of subsec. (d) by inserting at end “In the case of the standard established by paragraph (15), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”, was executed by making the insertion in subsec. (c) at end to reflect the probable intent of Congress.
+Subsec. (c). Pub. L. 109–58, §1254(b)(2), which directed amendment of subsec. (d) by inserting at end "In the case of the standard established by paragraph (15), the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.", was executed by making the insertion in subsec. (c) at end to reflect the probable intent of Congress.
 
-Pub. L. 109–58, §1252(h), inserted at end “In the case of the standard established by paragraph (14) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
+Pub. L. 109–58, §1252(h), inserted at end "In the case of the standard established by paragraph (14) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005."
 
-Pub. L. 109–58, §1251(b)(2), inserted at end “In the case of each standard established by paragraphs (11) through (13) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005.”
+Pub. L. 109–58, §1251(b)(2), inserted at end "In the case of each standard established by paragraphs (11) through (13) of section 2621(d) of this title, the reference contained in this subsection to November 9, 1978, shall be deemed to be a reference to August 8, 2005."
 
 Subsec. (d). Pub. L. 109–58, §1251(b)(3)(A), added subsec. (d).
 
@@ -106,11 +106,11 @@ Subsec. (e). Pub. L. 109–58, §1252(i)(1), added subsec. (e).
 
 Subsec. (f). Pub. L. 109–58, §1254(b)(3)(A), added subsec. (f).
 
-<b>1992</b>—Subsec. (b)(1), (2). Pub. L. 102–486 inserted “(or after October 24, 1992, in the case of standards under paragraphs (7), (8), and (9) of section 2621(d) of this title)”.
+<b>1992</b>—Subsec. (b)(1), (2). Pub. L. 102–486 inserted "(or after October 24, 1992, in the case of standards under paragraphs (7), (8), and (9) of section 2621(d) of this title)".
 
 #### Effective Date of 2007 Amendment
 
 Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (15) of section 2621(d) of this title,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph (15) of section 2621(d) of this title,".</i>
 

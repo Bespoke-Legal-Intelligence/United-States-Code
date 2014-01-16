@@ -4,7 +4,7 @@ In this subpart:
 
 #### (1) Eligible local educational agency
 
-&emsp;The term “eligible local educational agency” means a local educational agency that—
+&emsp;The term "eligible local educational agency" means a local educational agency that—
 
 &emsp;&emsp;(A) is among the local educational agencies in the State with the highest numbers or percentages of students in kindergarten through grade 3 reading below grade level, based on the most currently available data; and
 
@@ -18,11 +18,11 @@ In this subpart:
 
 #### (2) Eligible professional development provider
 
-&emsp;The term “eligible professional development provider” means a provider of professional development in reading instruction to teachers, including special education teachers, that is based on scientifically based reading research.
+&emsp;The term "eligible professional development provider" means a provider of professional development in reading instruction to teachers, including special education teachers, that is based on scientifically based reading research.
 
 #### (3) Essential components of reading instruction
 
-&emsp;The term “essential components of reading instruction” means explicit and systematic instruction in—
+&emsp;The term "essential components of reading instruction" means explicit and systematic instruction in—
 
 &emsp;&emsp;(A) phonemic awareness;
 
@@ -36,7 +36,7 @@ In this subpart:
 
 #### (4) Instructional staff
 
-&emsp;The term “instructional staff”—
+&emsp;The term "instructional staff"—
 
 &emsp;&emsp;(A) means individuals who have responsibility for teaching children to read; and
 
@@ -44,7 +44,7 @@ In this subpart:
 
 #### (5) Reading
 
-&emsp;The term “reading” means a complex system of deriving meaning from print that requires all of the following:
+&emsp;The term "reading" means a complex system of deriving meaning from print that requires all of the following:
 
 &emsp;&emsp;(A) The skills and knowledge to understand how phonemes, or speech sounds, are connected to print.
 
@@ -60,7 +60,7 @@ In this subpart:
 
 #### (6) Scientifically based reading research
 
-&emsp;The term “scientifically based reading research” means research that—
+&emsp;The term "scientifically based reading research" means research that—
 
 &emsp;&emsp;(A) applies rigorous, systematic, and objective procedures to obtain valid knowledge relevant to reading development, reading instruction, and reading difficulties; and
 
@@ -78,7 +78,7 @@ In this subpart:
 
 #### (A) In general
 
-&emsp;&emsp;The term “screening, diagnostic, and classroom-based instructional reading assessments” means—
+&emsp;&emsp;The term "screening, diagnostic, and classroom-based instructional reading assessments" means—
 
 &emsp;&emsp;&emsp;(i) screening reading assessments;
 
@@ -88,7 +88,7 @@ In this subpart:
 
 #### (B) Screening reading assessment
 
-&emsp;&emsp;The term “screening reading assessment” means an assessment that is—
+&emsp;&emsp;The term "screening reading assessment" means an assessment that is—
 
 &emsp;&emsp;&emsp;(i) valid, reliable, and based on scientifically based reading research; and
 
@@ -96,7 +96,7 @@ In this subpart:
 
 #### (C) Diagnostic reading assessment
 
-&emsp;&emsp;The term “diagnostic reading assessment” means an assessment that is—
+&emsp;&emsp;The term "diagnostic reading assessment" means an assessment that is—
 
 &emsp;&emsp;&emsp;(i) valid, reliable, and based on scientifically based reading research; and
 
@@ -110,7 +110,7 @@ In this subpart:
 
 #### (D) Classroom-based instructional reading assessment
 
-&emsp;&emsp;The term “classroom-based instructional reading assessment” means an assessment that—
+&emsp;&emsp;The term "classroom-based instructional reading assessment" means an assessment that—
 
 &emsp;&emsp;&emsp;(i) evaluates children's learning based on systematic observations by teachers of children performing academic tasks that are part of their daily classroom experience; and
 
@@ -130,5 +130,5 @@ Section 6369a, Pub. L. 89–10, title I, §1210, as added Pub. L. 105–277, div
 
 Section 6369b, Pub. L. 89–10, title I, §1211, as added Pub. L. 105–277, div. A, §101(f) \[title VIII, §205\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–410; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVI, §1604(m)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–333, authorized research. See section 6381j of this title.
 
-Section 6370, Pub. L. 89–10, title I, §1212, formerly §1210, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3584; renumbered §1212, Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409, related to construction of provisions. See section 6381k of this title.
+Section 6370, Pub. L. 89–10, title I, §1212, formerly §1210, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994,108 Stat. 3584; renumbered §1212, Pub. L. 105–277, div. A, §101(f) \[title VIII, §204(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–409, related to construction of provisions. See section 6381k of this title.
 

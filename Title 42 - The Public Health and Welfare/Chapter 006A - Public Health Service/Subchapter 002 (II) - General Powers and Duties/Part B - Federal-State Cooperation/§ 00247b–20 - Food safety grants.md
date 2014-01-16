@@ -12,7 +12,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b). Pub. L. 111–353 substituted “2010” for “2002” and “2011 through 2015” for “2003 through 2006”.
+<b>2011</b>—Subsec. (b). Pub. L. 111–353 substituted "2010" for "2002" and "2011 through 2015" for "2003 through 2006".
 
 <b>2003</b>—Pub. L. 108–75 made technical amendment relating to placement of section within original act.
 

@@ -28,7 +28,7 @@ Wine may be withdrawn from bonded wine cellars on payment or determination of th
 
 #### (5) Bonded premises
 
-&emsp;For purposes of this subsection, the term “bonded premises” means a bonded wine cellar or the bonded premises of a distilled spirits plant.
+&emsp;For purposes of this subsection, the term "bonded premises" means a bonded wine cellaror the bonded premises of a distilled spirits plant.
 
 #### (c) Withdrawals of wine free of tax or without payment of tax
 
@@ -78,23 +78,23 @@ A prior section 5362, act Aug. 16, 1954, ch. 736, 68A Stat. 665, consisted of pr
 
 #### Amendments
 
-<b>1980</b>—Subsec. (c)(4). Pub. L. 96–601, §2(a), substituted “customs bonded” for “class 6 customs manufacturing”.
+<b>1980</b>—Subsec. (c)(4). Pub. L. 96–601, §2(a), substituted "customs bonded" for "class 6 customs manufacturing".
 
 Subsec. (e). Pub. L. 96–601, §2(b), added subsec. (e).
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–39 substituted references to bonded premises for references to bonded wine cellars and inserted provisions relating to wine transferred in bond to a distilled spirits plant which may not be removed for consumption or sale as wine, provisions relating to continued liability for tax on wine transferred to bonded premises, and provisions defining “bonded premises”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–39 substituted references to bonded premises for references to bonded wine cellars and inserted provisions relating to wine transferred in bond to a distilled spirits plant which may not be removed for consumption or sale as wine, provisions relating to continued liability for tax on wine transferred to bonded premises, and provisions defining "bonded premises".
 
-<b>1976</b>—Subsecs. (a) to (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (c). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
-Subsec. (c)(9). Pub. L. 94–455, §1905(c)(4), struck out “and Territories” after “the several States”.
+Subsec. (c)(9). Pub. L. 94–455, §1905(c)(4), struck out "and Territories" after "the several States".
 
-Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 <b>1967</b>—Subsec. (d). Pub. L. 90–73 added subsec. (d).
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–601, §2(c), Dec. 24, 1980, 94 Stat. 3496, provided that: “The amendments made by this section \[amending this section\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Dec. 24, 1980\].”
+Pub. L. 96–601, §2(c), Dec. 24, 1980, 94 Stat. 3496, provided that: "The amendments made by this section \[amending this section\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Dec. 24, 1980\]."
 
 #### Effective Date of 1979 Amendment
 
@@ -106,5 +106,5 @@ Amendment by section 1905(c)(4) of Pub. L. 94–455 effective on first day of fi
 
 #### Effective Date of 1967 Amendment
 
-Pub. L. 90–73, §1(b), Aug. 29, 1967, 81 Stat. 175, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the first month which begins 90 days or more after the date of the enactment of this Act \[Aug. 29, 1967\].”
+Pub. L. 90–73, §1(b), Aug. 29, 1967, 81 Stat. 175, provided that: "The amendment made by subsection (a) \[amending this section\] shall become effective on the first day of the first month which begins 90 days or more after the date of the enactment of this Act \[Aug. 29, 1967\]."
 

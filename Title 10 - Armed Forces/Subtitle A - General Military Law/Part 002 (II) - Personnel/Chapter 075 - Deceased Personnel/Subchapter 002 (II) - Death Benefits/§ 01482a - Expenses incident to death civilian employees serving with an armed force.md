@@ -12,29 +12,29 @@ Payment of Expenses.—The Secretary concerned may pay the expenses incident to 
 
 (b)
 
-Regulations.—The Secretary of Defense shall prescribe regulations to implement this section. The Secretary of Homeland Security shall prescribe regulations to implement thissection with regard to civilian employees of the Department of Homeland Security. Regulations under this subsection shall be uniform to the extent possible and shall provide for the Secretary's consideration of the conditions and circumstances surrounding the death of an employee and the nature of the employee's service with the armed force.
+Regulations.—The Secretary of Defense shall prescribe regulations to implement this section. The Secretary of Homeland Security shall prescribe regulations to implement this section with regard to civilian employees of the Department of Homeland Security. Regulations under this subsection shall be uniform to the extent possible and shall provide for the Secretary's consideration of the conditions and circumstances surrounding the death of an employee and the nature of the employee's service with the armed force.
 
 (c)
 
 Definitions.—In this section:
 
-&emsp;(1) The term “civilian employee” means a person employed by the Federal Government, including a person entitled to basic pay in accordance with the General Schedule provided in section 5332 of title 5 or a similar basic pay schedule of the Federal Government.
+&emsp;(1) The term "civilian employee" means a person employed by the Federal Government, including a person entitled to basic pay in accordance with the General Schedule provided in section 5332 of title 5 or a similar basic pay schedule of the Federal Government.
 
-&emsp;(2) The term “contingency operation” includes humanitarian operations, peacekeeping operations, and similar operations.
+&emsp;(2) The term "contingency operation" includes humanitarian operations, peacekeeping operations, and similar operations.
 
-&emsp;(3) The term “parent” has the meaning given such term in section 1482(e)(5)(A) of this title.
+&emsp;(3) The term "parent" has the meaning given such term in section 1482(e)(5)(A) of this title.
 
-&emsp;(4) The term “Secretary concerned” includes the Secretary of Defense with respect to employees of the Department of Defense who are not employees of a military department.
+&emsp;(4) The term "Secretary concerned" includes the Secretary of Defense with respect to employees of the Department of Defense who are not employees of a military department.
 
 (Added Pub. L. 103–160, div. A, title III, §368(a), Nov. 30, 1993, 107 Stat. 1633; amended Pub. L. 103–337, div. A, title X, §1070(a)(8)(A), Oct. 5, 1994, 108 Stat. 2855; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–383, div. A, title X, §1075(b)(20), Jan. 7, 2011, 124 Stat. 4370.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (c)(3). Pub. L. 111–383 substituted “section 1482(e)(5)(A)” for “section 1482(a)(11)”.
+<b>2011</b>—Subsec. (c)(3). Pub. L. 111–383 substituted "section 1482(e)(5)(A)" for "section 1482(a)(11)".
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in two places.
+<b>2002</b>—Subsec. (b). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation" in two places.
 
-<b>1994</b>—Pub. L. 103–337 substituted “civilian” for “Civilian” in section catchline.
+<b>1994</b>—Pub. L. 103–337 substituted "civilian" for "Civilian" in section catchline.
 
 #### Effective Date of 2002 Amendment
 
@@ -42,5 +42,5 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 #### Effective Date
 
-Pub. L. 103–160, div. A, title III, §368(c), Nov. 30, 1993, 107 Stat. 1634, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to the payment of incidental expenses for civilian employees who die while serving in a contingency operation that occurs after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Pub. L. 103–160, div. A, title III, §368(c), Nov. 30, 1993, 107 Stat. 1634, provided that: "The amendments made by this section \[enacting this section\] shall apply with respect to the payment of incidental expenses for civilian employees who die while serving in a contingency operation that occurs after the date of the enactment of this Act \[Nov. 30, 1993\]."
 

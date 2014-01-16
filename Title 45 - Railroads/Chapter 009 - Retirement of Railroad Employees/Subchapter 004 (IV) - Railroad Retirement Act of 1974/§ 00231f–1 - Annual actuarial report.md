@@ -18,7 +18,7 @@ Section was enacted as part of the Railroad Retirement Solvency Act of 1983, and
 
 #### Amendments
 
-<b>1995</b>—Pub. L. 104–66 which directed the amendment of this section by substituting “As part of the annual report required under section 231u(a) of this title” for “On or before July 1, 1985, and each calendar year thereafter”, was executed by making the substitution for “On or before July 1 of 1985, and of each calendar year thereafter”, to reflect the probable intent of Congress.
+<b>1995</b>—Pub. L. 104–66 which directed the amendment of this section by substituting "As part of the annual report required under section 231u(a) of this title" for "On or before July 1, 1985, and each calendar year thereafter", was executed by making the substitution for "On or before July 1 of 1985, and of each calendar year thereafter", to reflect the probable intent of Congress.
 
-<b>1986</b>—Par. (1). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Par. (1). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 

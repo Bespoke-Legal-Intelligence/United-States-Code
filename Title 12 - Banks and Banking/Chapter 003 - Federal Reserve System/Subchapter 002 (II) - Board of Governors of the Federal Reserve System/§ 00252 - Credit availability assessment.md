@@ -42,43 +42,43 @@ Functions vested in Administrator of National Credit Union Administration transf
 
 Pub. L. 106–102, title I, §109, Nov. 12, 1999, 113 Stat. 1362, provided that:
 
-“(a)
+"(a)
 
 Study.—The Secretary of the Treasury, in consultation with the Federal banking agencies (as defined in section 3(z) of the Federal Deposit Insurance Act \[12 U.S.C. 1813(z)\]), shall conduct a study of the extent to which credit is being provided to and for small businesses and farms, as a result of this Act \[see Tables for classification\] and the amendments made by this Act.
 
-“(b)
+"(b)
 
-Report.—Before the end of the 5-year period beginning on the date of the enactment of this Act \[Nov. 12, 1999\], the Secretary, in consultation with the Federal banking agencies, shall submit a report to the Congress on the study conducted pursuant to subsection (a) and shall include such recommendations as the Secretary determines to be appropriate for administrative and legislative action.”
+Report.—Before the end of the 5-year period beginning on the date of the enactment of this Act \[Nov. 12, 1999\], the Secretary, in consultation with the Federal banking agencies, shall submit a report to the Congress on the study conducted pursuant to subsection (a) and shall include such recommendations as the Secretary determines to be appropriate for administrative and legislative action."
 
 #### Definitions
 
-Pub. L. 104–208, div. A, title II, §2001(c), Sept. 30, 1996, 110 Stat. 3009–397, provided that: “Except as otherwise specified in this title \[see Tables for classification\], the following definitions shall apply for purposes of this title:
+Pub. L. 104–208, div. A, title II, §2001(c), Sept. 30, 1996, 110 Stat. 3009–397, provided that: "Except as otherwise specified in this title \[see Tables for classification\], the following definitions shall apply for purposes of this title:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Appraisal subcommittee.—The term ‘Appraisal Subcommittee’ means the Appraisal Subcommittee established under section 1011 of the Federal Financial Institutions Examination Council Act of 1978 \[12 U.S.C. 3310\] (as in existence on the day before the date of enactment of this Act \[Sept. 30, 1996\]).
+Appraisal subcommittee.—The term 'Appraisal Subcommittee' means the Appraisal Subcommittee established under section 1011 of the Federal Financial Institutions Examination Council Act of 1978 \[12 U.S.C. 3310\] (as in existence on the day before the date of enactment of this Act \[Sept. 30, 1996\]).
 
-&emsp;“(2)
+&emsp;"(2)
 
-Appropriate Federal banking agency.—The term ‘appropriate Federal banking agency’ has the same meaning as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].
+Appropriate Federal banking agency.—The term 'appropriate Federal banking agency' has the same meaning as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].
 
-&emsp;“(3)
+&emsp;"(3)
 
-Board.—The term ‘Board’ means the Board of Governors of the Federal Reserve System.
+Board.—The term 'Board' means the Board of Governors of the Federal Reserve System.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Corporation.—The term ‘Corporation’ means the Federal Deposit Insurance Corporation.
+Corporation.—The term 'Corporation' means the Federal Deposit Insurance Corporation.
 
-&emsp;“(5)
+&emsp;"(5)
 
-Council.—The term ‘Council’ means the Financial Institutions Examination Council established under section 1004 of the Federal Financial Institutions Examination Council Act of 1978 \[12 U.S.C. 3303\].
+Council.—The term 'Council' means the Financial Institutions Examination Council established under section 1004 of the Federal Financial Institutions Examination Council Act of 1978 \[12 U.S.C. 3303\].
 
-&emsp;“(6)
+&emsp;"(6)
 
-Insured credit union.—The term ‘insured credit union’ has the same meaning as in section 101 of the Federal Credit Union Act \[12 U.S.C. 1752\].
+Insured credit union.—The term 'insured credit union' has the same meaning as in section 101 of the Federal Credit Union Act \[12 U.S.C. 1752\].
 
-&emsp;“(7)
+&emsp;"(7)
 
-Insured depository institution.—The term ‘insured depository institution’ has the same meaning as in section 3 of the Federal Deposit Insurance Act.”
+Insured depository institution.—The term 'insured depository institution' has the same meaning as in section 3 of the Federal Deposit Insurance Act."
 

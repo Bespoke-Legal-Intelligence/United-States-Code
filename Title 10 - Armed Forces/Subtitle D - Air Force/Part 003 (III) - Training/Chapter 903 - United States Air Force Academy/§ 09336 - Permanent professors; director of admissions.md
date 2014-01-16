@@ -22,29 +22,29 @@ Act
 
 Aug. 7, 1947, ch. 512, §520(a) 61 Stat. 912.
 
-The word “grade” is substituted for the word “rank”. The words “pay, and allowances” are omitted, since they are determined by the grade held. 10:1079a(a) (last proviso), and the words “Hereafter each of”, “who have been or may hereafter be”, and “and appointed in” are omitted as surplusage.
+The word "grade" is substituted for the word "rank". The words "pay, and allowances" are omitted, since they are determined by the grade held. 10:1079a(a) (last proviso), and the words "Hereafter each of", "who have been or may hereafter be", and "and appointed in" are omitted as surplusage.
 
 #### 1958 Act
 
-The word “regular” is deleted \[in sections 9335 and 9336\] to make clear that a Dean or professor of the United States Air Force Academy holds only the office of “Dean” or “professor” and not the office of “brigadier general” or “colonel”, as the case may be, even though he is entitled to the pay and allowances of that grade.
+The word "regular" is deleted \[in sections 9335 and 9336\] to make clear that a Dean or professor of the United States Air Force Academy holds only the office of "Dean" or "professor" and not the office of "brigadier general" or "colonel", as the case may be, even though he is entitled to the pay and allowances of that grade.
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–136 struck out “, other than the Dean of the Faculty,” after “Academy”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136 struck out ", other than the Dean of the Faculty," after "Academy".
 
-<b>1989</b>—Pub. L. 101–189, §515(b), substituted “director of admissions” for “registrar” in section catchline.
+<b>1989</b>—Pub. L. 101–189, §515(b), substituted "director of admissions" for "registrar" in section catchline.
 
-Subsec. (b). Pub. L. 101–189, §515(a)(4), substituted “director of admissions” for “registrar” in three places.
+Subsec. (b). Pub. L. 101–189, §515(a)(4), substituted "director of admissions" for "registrar" in three places.
 
-<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–525 substituted “on which he would have been promoted had he been selected for promotion from among officers in the promotion zone,” for “when a regular officer, junior to him on the promotion list or active-duty list on which his name was carried before his appointment as a professor, is promoted to the regular grade of colonel,”.
+<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–525 substituted "on which he would have been promoted had he been selected for promotion from among officers in the promotion zone," for "when a regular officer, junior to him on the promotion list or active-duty list on which his name was carried before his appointment as a professor, is promoted to the regular grade of colonel,".
 
-<b>1980</b>—Subsecs. (a), (b). Pub. L. 96–513, §504(24), substituted “after the date when a regular officer, junior to him on the promotion list or active-duty list on which his name was carried” for “after the date when a promotion-list officer, junior to him on the promotion list on which his name was carried”.
+<b>1980</b>—Subsecs. (a), (b). Pub. L. 96–513, §504(24), substituted "after the date when a regular officer, junior to him on the promotion list or active-duty list on which his name was carried" for "after the date when a promotion-list officer, junior to him on the promotion list on which his name was carried".
 
 Subsec. (c). Pub. L. 96–513, §218(b), struck out subsec. (c) which provided that, unless he is serving in a higher grade, an officer detailed to perform the duties of registrar has, while performing those duties, the temporary grade of lieutenant colonel and, after performing those duties for a period of six years, has the temporary grade of colonel.
 
-<b>1958</b>—Pub. L. 85–600, §1(22)(C), inserted “; registrar” in section catchline.
+<b>1958</b>—Pub. L. 85–600, §1(22)(C), inserted "; registrar" in section catchline.
 
-Subsec. (a). Pub. L. 85–861 substituted “has the grade of colonel” for “has the regular grade of colonel” in two places, and “have the grade of lieutenant colonel” for “have the regular grade of lieutenant colonel”.
+Subsec. (a). Pub. L. 85–861 substituted "has the grade of colonel" for "has the regular grade of colonel" in two places, and "have the grade of lieutenant colonel" for "have the regular grade of lieutenant colonel".
 
 Pub. L. 85–600, §1(22)(A), designated existing provisions as subsec. (a).
 

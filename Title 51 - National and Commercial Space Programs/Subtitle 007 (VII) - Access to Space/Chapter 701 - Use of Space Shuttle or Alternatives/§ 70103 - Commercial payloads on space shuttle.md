@@ -6,11 +6,11 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Launch vehicle.—The term “launch vehicle” means any vehicle constructed for the purpose of operating in, or placing a payload in, outer space.
+Launch vehicle.—The term "launch vehicle" means any vehicle constructed for the purpose of operating in, or placing a payload in, outer space.
 
 &emsp;(2)
 
-Payload.—The term “payload” means an object which a person undertakes to place in outer space by means of a launch vehicle, andincludes subcomponents of the launch vehicle specifically designed or adapted for that object.
+Payload.—The term "payload" means an object which a person undertakes to place in outer space by means of a launch vehicle, andincludes subcomponents of the launch vehicle specifically designed or adapted for that object.
 
 (b)
 
@@ -44,5 +44,5 @@ Pub. L. 101–611, title II, §203, Nov. 16, 1990, 104 Stat. 3206; Pub. L. 105�
 
 Pub. L. 101–611, title II, §206, Nov. 16, 1990, 104 Stat. 3207; Pub. L. 105–303, title II, §203(4), Oct. 28, 1998, 112 Stat. 2855.
 
-In subsection (a), the words “this section” are substituted for “this title”, meaning title II of Public Law 101–611, because title II of Public Law 101–611 was previously repealed except for section 201 (a short title provision, classified to 42 U.S.C. 2451 note, in which neither defined term appears) and sections 203 (42 U.S.C. 2465c) and 206 (42 U.S.C. 2465f) of Public Law 101–611, which are restated in this section.
+In subsection (a), the words "this section" are substituted for "this title", meaning title II of Public Law 101–611, because title II of Public Law 101–611 was previously repealed except for section 201 (a short title provision, classified to 42 U.S.C. 2451 note, in which neither defined term appears) and sections 203 (42 U.S.C. 2465c) and 206 (42 U.S.C. 2465f) of Public Law 101–611, which are restated in this section.
 

@@ -2,7 +2,7 @@
 
 #### (a) Appointment of president; outside compensation of officers prohibited; terms
 
-The Board shall appoint the president of the Corporation, who shall be a member of the bar of the highest court of a State and shall be a non-voting ex officio member of the Board, and such other officers as the Board determines to be necessary. No officer of the Corporation may receive any salary or other compensation forservices from any source other than the Corporation during his period of employment by the Corporation, except as authorized by the Board. All officers shall serve at the pleasure of the Board.
+The Board shall appoint the president of the Corporation, who shall be a member of the bar of the highest court of a State and shall be a non-voting ex officio member of the Board, and such other officers as the Board determines to be necessary. No officer of the Corporation may receive any salary or other compensation for services from any source other than the Corporation during his period of employment by the Corporation, except as authorized by the Board. All officers shall serve at the pleasure of the Board.
 
 #### (b) Power of president to appoint and remove employees; nonpartisan appointments
 
@@ -36,5 +36,5 @@ The Corporation and its officers and employees shall be subject to the provision
 
 #### Reimbursement of Officers or Employees
 
-Pub. L. 97–377, title I, §101(d), Dec. 21, 1982, 96 Stat. 1876, provided: “That no officer or employee of the Legal Services Corporation or a recipient program shall be reimbursed for membership in a private club, or be paid severance pay in excess of what would be paid a Federal employee for comparable service.”
+Pub. L. 97–377, title I, §101(d), Dec. 21, 1982, 96 Stat. 1876, provided: "That no officer or employee of the Legal Services Corporation or a recipient program shall be reimbursed for membership in a private club, or be paid severance pay in excess of what would be paid a Federal employee for comparable service."
 

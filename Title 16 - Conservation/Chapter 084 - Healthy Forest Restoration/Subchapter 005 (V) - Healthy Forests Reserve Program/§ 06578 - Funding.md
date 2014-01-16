@@ -16,11 +16,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §8205(c), amended section generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter—
+<b>2008</b>—Pub. L. 110–246, §8205(c), amended section generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this subchapter—
 
-&emsp;“(1) $25,000,000 for fiscal year 2004; and
+&emsp;"(1) $25,000,000 for fiscal year 2004; and
 
-&emsp;“(2) such sums as are necessary for each of fiscal years 2005 through 2008.”
+&emsp;"(2) such sums as are necessary for each of fiscal years 2005 through 2008."
 
 #### Effective Date of 2008 Amendment
 

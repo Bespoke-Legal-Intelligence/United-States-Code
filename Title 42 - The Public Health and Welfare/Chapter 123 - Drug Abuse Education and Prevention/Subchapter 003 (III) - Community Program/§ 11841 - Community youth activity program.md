@@ -22,7 +22,7 @@ The Secretary of Health and Human Services shall make grants to eligible States 
 
 #### (2) Programs of national significance
 
-&emsp;Of amounts appropriated or otherwise available to carry out this section for any fiscal year, the Secretary shall reserve 5 percent to be provided for activities and projects of national significance or projects expected to have a significant impact in preventing the abuse of drugs by youth.
+&emsp;Of amounts appropriated or otherwise available to carry out this section for any fiscalyear, the Secretary shall reserve 5 percent to be provided for activities and projects of national significance or projects expected to have a significant impact in preventing the abuse of drugs by youth.
 
 #### (3) Specified appropriations
 
@@ -40,7 +40,7 @@ The Secretary of Health and Human Services shall make grants to eligible States 
 
 &emsp;&emsp;&emsp;(iii) set aside the remainder to be disbursed as described in subparagraph (B).
 
-> &emsp;&emsp;For purposes of this subparagraph, the term “State” does not include Guam, American Samoa, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
+> &emsp;&emsp;For purposes of this subparagraph, the term "State" does not include Guam, American Samoa, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands.
 
 #### (B) Remainder
 
@@ -98,7 +98,7 @@ Financial assistance may be provided with a grant received under subsection (a)�
 
 #### (1) Community services and partnerships
 
-&emsp;Such assistance may be provided for community services and partnerships designed to develop community activities targeted at drug abuse prevention through education, training,and recreation projects. Such services may be provided by, and such partnerships may be entered into with—
+&emsp;Such assistance may be provided for community services and partnerships designed to develop community activities targeted at drug abuse prevention through education, training, and recreation projects. Such services may be provided by, and such partnerships may be entered into with—
 
 &emsp;&emsp;(A) local educational agencies;
 
@@ -112,7 +112,7 @@ Financial assistance may be provided with a grant received under subsection (a)�
 
 &emsp;&emsp;(F) business organizations; and
 
-> &emsp;in consultation with local and State health departments and with community health or mental health centers when appropriate. Such assistance may be provided to any entity described in subparagraphs (A) through (F), either individually or in partnerships. Applications for such assistance shall include a description of the method to be used to evaluate the impact the particular service or partnership is designed to have on the drug abuse problem within the community.
+> &emsp;in consultation with local and State health departments and with community health ormental health centers when appropriate. Such assistance may be provided to any entity described in subparagraphs (A) through (F), either individually or in partnerships. Applications for such assistance shall include a description of the method to be used to evaluate the impact the particular service or partnership is designed to have on the drug abuse problem within the community.
 
 #### (2) Other activities and projects
 
@@ -134,13 +134,13 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(8
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c)(2). Pub. L. 105–285 struck out “, such as activities authorized by section 9910(a)(2)(F) of this title,” after “national significance”.
+<b>1998</b>—Subsec. (c)(2). Pub. L. 105–285 struck out ", such as activities authorized by section 9910(a)(2)(F) of this title," after "national significance".
 
-<b>1994</b>—Subsec. (d)(8)(A). Pub. L. 103–382 substituted “title IV of the Elementary and Secondary Education Act of 1965” for “the Drug-Free Schools and Communities Act of 1986”.
+<b>1994</b>—Subsec. (d)(8)(A). Pub. L. 103–382 substituted "title IV of the Elementary and Secondary Education Act of 1965" for "the Drug-Free Schools and Communities Act of 1986".
 
-<b>1989</b>—Subsec. (b)(2). Pub. L. 101–93, §4(1)(A), substituted “subsection (e)” for “subsections (c)(3)(B) and (e)”.
+<b>1989</b>—Subsec. (b)(2). Pub. L. 101–93, §4(1)(A), substituted "subsection (e)" for "subsections (c)(3)(B) and (e)".
 
-Subsec. (c)(3)(A). Pub. L. 101–93, §4(1)(B), substituted “subsection (g)” for “subsection (h)”.
+Subsec. (c)(3)(A). Pub. L. 101–93, §4(1)(B), substituted "subsection (g)" for "subsection (h)".
 
 Subsec. (d). Pub. L. 101–226, which directed amendment of section 3521(d) of the National Narcotics Leadership Act of 1988 by adding par. (8) and redesignating former par. (8) as (9), was executed to section 3521(d) of Pub. L. 100–690, the Anti-Drug Abuse Act of 1988, as the probable intent of Congress. Subtitle A (§§1001–1012) of title I of Pub. L. 100–690 is the National Narcotics Leadership Act of 1988.
 
@@ -148,7 +148,7 @@ Subsec. (d). Pub. L. 101–226, which directed amendment of section 3521(d) of t
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “who are”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "who are".</i>
 
-<i><sup>2</sup></i><i> So in original. Words “under subsection (a)” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. Words "under subsection (a)" probably should not appear.</i>
 

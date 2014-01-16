@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of the department in which the Coast Guard is operating shall establish a Navigation Safety Advisory Council (hereinafter referred to as the “Council”), consisting of not more than 21 members. All members shall have expertise in Inland and International vessel navigation Rules of the Road, aids to maritime navigation, maritime law, vessel safety, port safety, or commercial diving safety. Upon appointment, all non-Federal members shall be designated as representative members to represent the viewpoints and interests of one of the following groups or organizations:
+&emsp;The Secretary of the department in which the Coast Guard is operating shall establish a Navigation Safety Advisory Council (hereinafter referred to as the "Council"), consisting of not more than 21 members. All members shall have expertise in Inland and International vessel navigation Rules of the Road, aids to maritime navigation, maritime law, vessel safety, port safety, or commercial diving safety. Upon appointment, all non-Federal members shall be designated as representative members to represent the viewpoints and interests of one of the following groups or organizations:
 
 &emsp;&emsp;(A) Commercial vessel owners or operators.
 
@@ -32,7 +32,7 @@ The Council shall advise, consult with, and make recommendations to the Secretar
 
 #### (c) Executive secretary; staff; travel expenses and status of members
 
-The Secretary shall furnish to the Council an executive secretary and such secretarial, clerical, and other services as are deemed necessary for the conduct of its business. Members of theCouncil, while away from their home or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5. Payments under this section shall not render members of the Council officers or employees of the United States for any purpose.
+The Secretary shall furnish to the Council an executive secretary and such secretarial, clerical, and other services as are deemed necessary for the conduct of its business. Members of the Council, while away from their home or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5. Payments under this section shall not render members of the Council officers or employees of the United States for any purpose.
 
 #### (d) Termination of Council
 
@@ -44,33 +44,33 @@ Unless extended by subsequent Act of Congress, the Council shall terminate on Se
 
 <b>2010</b>—Subsecs. (a), (b). Pub. L. 111–281, §621(f)(1), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which established, and defined the functions and purpose of, the Navigation Safety Advisory Council.
 
-Subsec. (d). Pub. L. 111–281, §621(f)(2), substituted “September 30, 2020” for “September 30, 2010”.
+Subsec. (d). Pub. L. 111–281, §621(f)(2), substituted "September 30, 2020" for "September 30, 2010".
 
-<b>2004</b>—Subsec. (d). Pub. L. 108–293 substituted “September 30, 2010” for “September 30, 2005”.
+<b>2004</b>—Subsec. (d). Pub. L. 108–293 substituted "September 30, 2010" for "September 30, 2005".
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–295 substituted “September 30, 2005” for “September 30, 2000”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–295 substituted "September 30, 2005" for "September 30, 2000".
 
-<b>1996</b>—Pub. L. 104–324, §304(g), which directed the general amendment of the “section heading for section 5(d) of the Inland Navigational Rules Act of 1980 (33 U.S.C. 2073)”, was executed by inserting section catchline, to reflect the probable intent of Congress.
+<b>1996</b>—Pub. L. 104–324, §304(g), which directed the general amendment of the "section heading for section 5(d) of the Inland Navigational Rules Act of 1980 (33 U.S.C. 2073)", was executed by inserting section catchline, to reflect the probable intent of Congress.
 
-Par. (d). Pub. L. 104–324, §304(a), substituted “September 30, 2000” for “September 30, 1995”.
+Par. (d). Pub. L. 104–324, §304(a), substituted "September 30, 2000" for "September 30, 1995".
 
-<b>1989</b>—Par. (a). Pub. L. 101–225, §105(a)(1)(A), substituted “Navigation Safety Advisory Council” for “Rules of the Road Advisory Council”.
+<b>1989</b>—Par. (a). Pub. L. 101–225, §105(a)(1)(A), substituted "Navigation Safety Advisory Council" for "Rules of the Road Advisory Council".
 
-Par. (b). Pub. L. 101–225, §105(a)(1)(B), amended par. (b) generally. Prior to amendment, par. (b) read as follows: “The Council shall advise, consult with, and make recommendations to the Secretary on matters relating to any major proposals for changes to the Inland Rules. The Council may recommend changes to the Inland Rules and International Regulations to the Secretary. Any advice or recommendation made by the Council to the Secretary shall reflect the independent judgment of the Council on the matter concerned. The Council shall meet at the call of the Secretary, but in any event not less than once during each calendar year. All proceedings of the Council shall be public, and a record of the proceedings shall be made available for public inspection. The Council is authorized to make available to Congress any information, advice, and recommendations which the Council is authorized to give to the Secretary.”
+Par. (b). Pub. L. 101–225, §105(a)(1)(B), amended par. (b) generally. Prior to amendment, par. (b) read as follows: "The Council shall advise, consult with, and make recommendations to the Secretary on matters relating to any major proposals for changes to the Inland Rules. The Council may recommend changes to the Inland Rules and International Regulations to the Secretary. Any advice or recommendation made by the Council to the Secretary shall reflect the independent judgment of the Council on the matter concerned. The Council shall meet at the call of the Secretary, but in any event not less than once during each calendar year. All proceedings of the Council shall be public, and a record of the proceedings shall be made available for public inspection. The Council is authorized to make available to Congress any information, advice, and recommendations which the Council is authorized to give to the Secretary."
 
-Par. (d). Pub. L. 101–225, §105(a)(1)(C), substituted “September 30, 1995” for “September 30, 1990”.
+Par. (d). Pub. L. 101–225, §105(a)(1)(C), substituted "September 30, 1995" for "September 30, 1990".
 
 <b>1984</b>—Par. (c). Pub. L. 98–557, §16(b)(2)(A), struck out provisions authorizing members who are not officers or employees of the United States to receive compensation at a rate not exceeding the daily equivalent of the current rate of basic pay for GS–18 of the General Schedule under section 5332 of title 5.
 
-Par. (d). Pub. L. 98–557, §16(b)(2)(B), substituted “on September 30, 1990” for “5 years from the date of enactment of this Act”.
+Par. (d). Pub. L. 98–557, §16(b)(2)(B), substituted "on September 30, 1990" for "5 years from the date of enactment of this Act".
 
 <b>1982</b>—Par. (a). Pub. L. 97–322, §118(c)(1), directed Secretary, not less often than once a year, to publish notice in Federal Register for solicitation of nominations for membership on Council.
 
 Par. (b). Pub. L. 97–322, §118(c)(2), authorized Council to make available to Congress any information, advice, and recommendations which Council is authorized to give to Secretary.
 
-Par. (c). Pub. L. 97–322, §118(c)(3), struck out “or while otherwise engaged in the business of the Council” after “meetings of the Council”, and “, including traveltime” after “section 5332 of title 5”.
+Par. (c). Pub. L. 97–322, §118(c)(3), struck out "or while otherwise engaged in the business of the Council" after "meetings of the Council", and ", including traveltime" after "section 5332 of title 5".
 
 #### References in Other Laws
 
-Pub. L. 101–225, title I, §105(a)(2), Dec. 12, 1989, 103 Stat. 1910, provided that: “Each reference to the Rules of the Road Advisory Council in a law, regulation, order, document, record, or paper of the United States is deemed to be a reference to the Navigation Safety Advisory Council.”
+Pub. L. 101–225, title I, §105(a)(2), Dec. 12, 1989, 103 Stat. 1910, provided that: "Each reference to the Rules of the Road Advisory Council in a law, regulation, order, document, record, or paper of the United States is deemed to be a reference to the Navigation Safety Advisory Council."
 

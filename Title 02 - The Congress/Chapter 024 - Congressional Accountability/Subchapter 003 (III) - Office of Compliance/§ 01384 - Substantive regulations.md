@@ -52,11 +52,11 @@ The Board shall adopt the regulations referred to in subsection (a)(1) of this s
 
 #### (3) Joint referral and discharge in the Senate
 
-&emsp;The presiding officer of the Senate may refer the notice of issuance of regulations, or any resolution of approval of regulations, to one committee or jointly to more than one committee. If a committee of the Senate acts to report a jointly referred measure, any other committee of the Senate must act within 30 calendar days of continuous session, or be automatically discharged.
+&emsp;The presiding officer of the Senate may refer the notice of issuance of regulations, or anyresolution of approval of regulations, to one committee or jointly to more than one committee. If a committee of the Senate acts to report a jointly referred measure, any other committee of the Senate must act within 30 calendar days of continuous session, or be automatically discharged.
 
 #### (4) One-House resolution or concurrent resolution
 
-&emsp;In the case of a resolution of the House of Representatives or the Senate or a concurrent resolution referred to in paragraph (1), the matter after the resolving clause shall be the following: “The following regulations issued by the Office of Compliance on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ are hereby approved:” (the blank space beingappropriately filled in, and the text of the regulations being set forth).
+&emsp;In the case of a resolution of the House of Representatives or the Senate or a concurrent resolution referred to in paragraph (1), the matter after the resolving clause shall be the following: “The following regulations issued by the Office of Compliance on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ are hereby approved:” (the blank space being appropriately filled in, and the text of the regulations being set forth).
 
 #### (5) Joint resolution
 

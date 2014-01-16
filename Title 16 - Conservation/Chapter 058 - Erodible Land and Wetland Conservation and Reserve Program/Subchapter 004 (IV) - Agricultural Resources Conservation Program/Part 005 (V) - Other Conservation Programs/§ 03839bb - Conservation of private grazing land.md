@@ -26,15 +26,15 @@ In this section:
 
 #### (1) Department
 
-&emsp;The term “Department” means the Department of Agriculture.
+&emsp;The term "Department" means the Department of Agriculture.
 
 #### (2) Private grazing land
 
-&emsp;The term “private grazing land” means private, State-owned, tribally-owned, and any other non-federally owned rangeland, pastureland, grazed forest land, and hay land.
+&emsp;The term "private grazing land" means private, State-owned, tribally-owned, and any other non-federally owned rangeland, pastureland, grazed forest land, and hay land.
 
 #### (3) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture.
+&emsp;The term "Secretary" means the Secretary of Agriculture.
 
 #### (c) Private grazing land conservation assistance
 
@@ -142,11 +142,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (e). Pub. L. 110–246, §2601, substituted “2012” for “2007”.
+<b>2008</b>—Subsec. (e). Pub. L. 110–246, §2601, substituted "2012" for "2007".
 
 <b>2002</b>—Pub. L. 107–171 amended section catchline and text generally. Prior to amendment, section required the Secretary to establish conservation farm option pilot programs for producers of wheat, feed grains, cotton, and rice.
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 ofPub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 

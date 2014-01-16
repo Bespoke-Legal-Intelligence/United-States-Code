@@ -18,7 +18,7 @@ The antitrust laws, referred to in text, are defined in section 12 of this title
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–588 substituted “threefold the” for “actual”.
+<b>1990</b>—Pub. L. 101–588 substituted "threefold the" for "actual".
 
 <b>1980</b>—Pub. L. 96–349 inserted provisions respecting award of prejudgment interest including considerations for the court in determining whether an award is just under the circumstances.
 

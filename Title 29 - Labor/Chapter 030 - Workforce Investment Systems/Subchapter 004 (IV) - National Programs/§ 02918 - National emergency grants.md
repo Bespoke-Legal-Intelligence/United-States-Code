@@ -6,7 +6,7 @@ The Secretary is authorized to award national emergency grants in a timely manne
 
 &emsp;(1) to an entity described in subsection (c) of this section to provide employment and training assistance to workers affected by major economic dislocations, such as plant closures, mass layoffs, or closures and realignments of military installations;
 
-&emsp;(2) to provide assistance to the Governor of any State within the boundaries of which is an area that has suffered an emergency or a major disaster as defined in paragraphs (1) and (2), respectively, of section 5122 of title 42 (referred to in this section as the “disaster area”) to provide disaster relief employment in the area;
+&emsp;(2) to provide assistance to the Governor of any State within the boundaries of which is an area that has suffered an emergency or a major disaster as defined in paragraphs (1) and (2), respectively, of section 5122 of title 42 (referred to in this section as the "disaster area") to provide disaster relief employment in the area;
 
 &emsp;(3) to provide additional assistance to a State or local board for eligible dislocated workers in a case in which the State or local board has expended the funds provided under this section to carry out activities described in paragraphs (1) and (2) and can demonstrate the need for additional funds to provide appropriate services for such workers, in accordance with requirements prescribed by the Secretary; and
 
@@ -30,7 +30,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (B) Eligible entity
 
-&emsp;&emsp;In this paragraph, the term “entity” means a State, a local board, an entity described in section 2911(c) of this title, entities determined to be eligible by the Governor of the State involved, and other entities that demonstrate to the Secretary the capability to effectively respond to the circumstances relating to particular dislocations.
+&emsp;&emsp;In this paragraph, the term "entity" means a State, a local board, an entity described in section 2911(c) of this title, entities determined to be eligible by the Governor of the State involved, and other entities that demonstrate to the Secretary the capability to effectively respond to the circumstances relating to particular dislocations.
 
 #### (2) Participant eligibility
 
@@ -50,7 +50,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 &emsp;&emsp;&emsp;&emsp;(II)(aa) is involuntarily separated (as defined in section 1141 of title 10) from active duty or full-time National Guard duty; or
 
-&emsp;&emsp;&emsp;&emsp;(bb) is separated from active duty or full-time National Guard duty pursuant to a special separation benefits programunder section 1174a of title 10 or the voluntary separation incentive program under section 1175 of that title;
+&emsp;&emsp;&emsp;&emsp;(bb) is separated from active duty or full-time National Guard duty pursuant to a special separation benefits program under section 1174a of title 10 or the voluntary separation incentive program under section 1175 of that title;
 
 &emsp;&emsp;&emsp;&emsp;(III) is not entitled to retired or retained pay incident to the separation described in subclause (II); and
 
@@ -66,7 +66,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (D) Definitions
 
-&emsp;&emsp;In this paragraph, the terms “military institution” <sup>1</sup> and “realignment” have the meanings given the terms in section 2910 of the Defense Base Closure and Realignment Act of 1990 (Public Law 101–510; 10 U.S.C. 2687 note).
+&emsp;&emsp;In this paragraph, the terms "military institution" <sup>1</sup> and "realignment" have the meanings given the terms in section 2910 of the Defense Base Closure and Realignment Act of 1990 (Public Law 101–510; 10 U.S.C. 2687 note).
 
 #### (d) Disaster relief employment assistance requirements
 
@@ -134,7 +134,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (A) Health insurance coverage for eligible individuals in order to obtain qualified health insurance that has guaranteed issue and other consumer protections
 
-&emsp;&emsp;Funds made available to a State or entity under paragraph (4)(A) of subsection (a) may be used to provide an eligible individual described in paragraph (4)(C) and such individual's qualifying family members with healthinsurance coverage for the 3-month period that immediately precedes the first eligible coverage month (as defined in section 35(b) of title 26) in which such eligible individual and such individual's qualifying family members are covered by qualified health insurance that meets the requirements described in clauses (i) through (v) <sup>2</sup> of section 35(e)(2)(A) of title 26 (or such longer minimum period as is necessary in order for such eligible individual and such individual's qualifying family members to be covered by qualified health insurance that meets such requirements).
+&emsp;&emsp;Funds made available to a State or entity under paragraph (4)(A) of subsection (a) may be used to provide an eligible individual described in paragraph (4)(C) and such individual's qualifying family members with health insurance coverage for the 3-month period that immediately precedes the first eligible coverage month (as defined in section 35(b) of title 26) in which such eligible individual and such individual's qualifying family members are covered by qualified health insurance that meets the requirements described in clauses (i) through (v) <sup>2</sup> of section 35(e)(2)(A) of title 26 (or such longer minimum period as is necessary in order for such eligible individual and such individual's qualifying family members to be covered by qualified health insurance that meets such requirements).
 
 #### (B) Additional uses
 
@@ -146,7 +146,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (ii) Administrative expenses and start-up expenses to establish group health plan coverage options for qualified health insurance
 
-&emsp;&emsp;&emsp;To pay the administrative expenses related to the enrollment of eligible individuals and such individuals’ qualifying family members in health insurance coverage and qualified health insurance, including—
+&emsp;&emsp;&emsp;To pay the administrative expenses related to the enrollment of eligible individuals and such individuals' qualifying family members in health insurance coverage and qualified health insurance, including—
 
 &emsp;&emsp;&emsp;&emsp;(I) eligibility verification activities;
 
@@ -174,7 +174,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (2) Qualified health insurance
 
-&emsp;For purposes of this subsection and subsection (g), the term “qualified health insurance” has the meaning given that term in section 35(e) of title 26.
+&emsp;For purposes of this subsection and subsection (g), the term "qualified health insurance" has the meaning given that term in section 35(e) of title 26.
 
 #### (3) Availability of funds
 
@@ -194,7 +194,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (4) Eligible individual defined
 
-&emsp;For purposes of this subsection and subsection (g) of this section, the term “eligible individual” means—
+&emsp;For purposes of this subsection and subsection (g) of this section, the term "eligible individual" means—
 
 &emsp;&emsp;(A) an eligible TAA recipient (as defined in section 35(c)(2) of title 26),
 
@@ -210,7 +210,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualifying family member” means—
+&emsp;&emsp;The term "qualifying family member" means—
 
 &emsp;&emsp;&emsp;(i) the eligible individual's spouse, and
 
@@ -224,7 +224,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (6) State
 
-&emsp;For purposes of this subsection and subsection (g) of this section, the term “State” includes an entity as defined in subsection (c)(1)(B) of this section.
+&emsp;For purposes of this subsection and subsection (g) of this section, the term "State" includes an entity as defined in subsection (c)(1)(B) of this section.
 
 #### (7) Other specified coverage
 
@@ -278,7 +278,7 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 &emsp;&emsp;In the case of the death of an eligible individual—
 
-&emsp;&emsp;&emsp;(i) any spouse of such individual (determined at the time of such death) shall be treated as an eligible individual for purposes of this subsection for a period of 24 months beginning with the date of such death, except that the only qualifying family members who may be taken intoaccount with respect to such spouse are those individuals who were qualifying family members immediately before such death, and
+&emsp;&emsp;&emsp;(i) any spouse of such individual (determined at the time of such death) shall be treated as an eligible individual for purposes of this subsection for a period of 24 months beginning with the date of such death, except that the only qualifying family members who may be taken into account with respect to such spouse are those individuals who were qualifying family members immediately before such death, and
 
 &emsp;&emsp;&emsp;(ii) any individual who was a qualifying family member of the decedent immediately before such death shall be treated as an eligible individual for purposes <sup>4</sup> this subsection for a period of 24 months beginning with the date of such death, except that no qualifying family members may be taken into account with respect to such individual.
 
@@ -318,13 +318,13 @@ The Secretary shall designate a dislocated worker office to coordinate the funct
 
 #### (5) Inclusion of certain individuals as eligible individuals
 
-&emsp;For purposes of this subsection, the term “eligible individual” includes an individual who is a member of a group of workers certified after April 1, 2002, under chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2271 et seq.\] (as in effect on the day before the effective date of the Trade Act of 2002) and is participating in the trade adjustment allowance program under such chapter (as so in effect) or who would be determined to be participating in such program under such chapter (as so in effect) if such chapter were applied without regard to section 231(a)(3)(B) of the Trade Act of 1974 \[19 U.S.C. 2291(a)(3)(B)\] (as so in effect).
+&emsp;For purposes of this subsection, the term "eligible individual" includes an individual who is a member of a group of workers certified after April 1, 2002, under chapter 2 of title II of the Trade Act of 1974 \[19 U.S.C. 2271 et seq.\] (as in effect on the day before the effective date of the Trade Act of 2002) and is participating in the trade adjustment allowance program under such chapter (as so in effect) or who would be determined to be participating in such program under such chapter (as so in effect) if such chapter were applied without regard to section 231(a)(3)(B) of the Trade Act of 1974 \[19 U.S.C. 2291(a)(3)(B)\] (as so in effect).
 
 (Pub. L. 105–220, title I, §173, Aug. 7, 1998, 112 Stat. 1035; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(12)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411, 2681–435; Pub. L. 107–210, div. A, title II, §203(a), (b), Aug. 6, 2002, 116 Stat. 963; Pub. L. 111–5, div. B, title I, §§1899E(b), 1899K(a), Feb. 17, 2009, 123 Stat. 427, 433; Pub. L. 111–344, title I, §115(b), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §241(b)(3)(D), Oct. 21, 2011, 125 Stat. 419.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (b), was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 Section 1602 of this title, referred to in subsec. (e)(2)(A)(i), (3)(A), was repealed by Pub. L. 105–220, title I, §199(b)(2), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000.
 
@@ -336,11 +336,11 @@ Chapter 2 of title II of the Trade Act of 1974 (19 U.S.C. 2271 et seq.) (as in e
 
 #### Amendments
 
-<b>2011</b>—Subsec. (f)(8). Pub. L. 112–40 struck out introductory provisions which read as follows: “In the case of eligible coverage months beginning before February 13, 2011—”.
+<b>2011</b>—Subsec. (f)(8). Pub. L. 112–40 struck out introductory provisions which read as follows: "In the case of eligible coverage months beginning before February 13, 2011—".
 
-<b>2010</b>—Subsec. (f)(8). Pub. L. 111–344 substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
+<b>2010</b>—Subsec. (f)(8). Pub. L. 111–344 substituted "February 13, 2011" for "January 1, 2011" in introductory provisions.
 
-<b>2009</b>—Subsec. (f)(1), (2). Pub. L. 111–5, §1899K(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which authorized use of funds to assist enrollment in qualified health insurance and for payment of administrative and start-up expenses and defined “qualified health insurance”.
+<b>2009</b>—Subsec. (f)(1), (2). Pub. L. 111–5, §1899K(a), added pars. (1) and (2) and struck out former pars. (1) and (2) which authorized use of funds to assist enrollment in qualified health insurance and for payment of administrative and start-up expenses and defined "qualified health insurance".
 
 Subsec. (f)(8). Pub. L. 111–5, §1899E(b), added par. (8).
 
@@ -372,13 +372,13 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 #### Construction of 2002 Amendment
 
-Pub. L. 107–210, div. A, title II, §203(f), Aug. 6, 2002, 116 Stat. 972, provided that: “Nothing in this title \[enacting sections 35, 6050T, and 7527 of Title 26, Internal Revenue Code, and section 300gg–45 of Title 42, The Public Health and Welfare, amending this section, sections 1165, 2862, and 2919 of this title, sections 4980B, 6103, 6724, and 7213A of Title 26, section 1324 of Title 31, Money and Finance, and section 300bb–5 of Title 42, renumbering section 35 of Title 26 as section 36 of Title 26, and enacting provisions set out as notes under sections 35 and 6050T of Title 26\] (or the amendments made by this title), other than provisions relating to COBRA continuation coverage and reporting requirements, shall be construed as creating any new mandate on any party regarding health insurance coverage.”
+Pub. L. 107–210, div. A, title II, §203(f), Aug. 6, 2002, 116 Stat. 972, provided that: "Nothing in this title \[enacting sections 35, 6050T, and 7527 of Title 26, Internal Revenue Code, and section 300gg–45 of Title 42, The Public Health and Welfare, amending this section, sections 1165, 2862, and 2919 of this title, sections 4980B, 6103, 6724, and 7213A of Title 26, section 1324 of Title 31, Money and Finance, and section 300bb–5 of Title 42, renumbering section 35 of Title 26 as section 36 of Title 26, and enacting provisions set out as notes under sections 35 and 6050T of Title 26\] (or the amendments made by this title), other than provisions relating to COBRA continuation coverage and reporting requirements, shall be construed as creating any new mandate on any party regarding health insurance coverage."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “ ‘military installation’ ”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be " 'military installation' ".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “ongoing”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "ongoing".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be followed by “of”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be followed by "of".</i>
 

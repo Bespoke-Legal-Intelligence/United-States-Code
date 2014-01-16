@@ -32,7 +32,7 @@ The Secretary may approve a project under this section if the project will enhan
 
 &emsp;(2) enhance compliance with provisions of CITES and laws of the United States or a foreign country that prohibit or regulate the taking or trade of rhinoceros or tigers or the use of rhinoceros or tiger habitat; or
 
-&emsp;(3) develop sound scientific information on that species’ habitat condition and carryingcapacity, total numbers and population trends, or annual reproduction and mortality.
+&emsp;(3) develop sound scientific information on that species' habitat condition and carrying capacity, total numbers and population trends, or annual reproduction and mortality.
 
 #### (e) Project sustainability
 
@@ -46,7 +46,7 @@ Each person that receives assistance under this section for a project shall prov
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c). Pub. L. 110–132 substituted “and to the Administrator” for “, to the Administrator, and to each country within which the project is to be conducted” in third sentence.
+<b>2007</b>—Subsec. (c). Pub. L. 110–132 substituted "and to the Administrator" for ", to the Administrator, and to each country within which the project is to be conducted" in third sentence.
 
-<b>2002</b>—Subsec. (e). Pub. L. 107–112 amended heading and text generally. Prior to amendment, text read as follows: “To the maximum extent practical, the Secretary should give consideration to projects which will enhance sustainable development programs to ensure effective, long-term conservation of rhinoceros and tigers.”
+<b>2002</b>—Subsec. (e). Pub. L. 107–112 amended heading and text generally. Prior to amendment, text read as follows: "To the maximum extent practical, the Secretary should give consideration to projects which will enhance sustainable development programs to ensure effective, long-term conservation of rhinoceros and tigers."
 

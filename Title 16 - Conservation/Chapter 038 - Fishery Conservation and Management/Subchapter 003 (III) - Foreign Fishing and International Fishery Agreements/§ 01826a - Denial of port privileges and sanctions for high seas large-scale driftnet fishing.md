@@ -44,7 +44,7 @@
 
 #### (2) Consultations
 
-&emsp;Not later than 30 days after a nation is identified under paragraph (1)(B), the Presidentshall enter into consultations with the government of that nation for the purpose of obtaining an agreement that will effect the immediate termination of large-scale driftnet fishing or illegal, unreported, or unregulated fishing by the nationals or vessels of that nation beyond the exclusive economic zone of any nation.
+&emsp;Not later than 30 days after a nation is identified under paragraph (1)(B), the President shall enter into consultations with the government of that nation for the purpose of obtaining an agreement that will effect the immediate termination of large-scale driftnet fishing or illegal, unreported, or unregulated fishing by the nationals or vessels of that nation beyond the exclusive economic zone of any nation.
 
 #### (3) Prohibition on imports of fish and fish products and sport fishing equipment
 
@@ -90,49 +90,49 @@ This Act, referred to in subsec. (a)(3)(B), is Pub. L. 102–582, Nov. 2, 1992, 
 
 #### Codification
 
-In subsec. (a)(2)(A), “section 60105 of title 46” substituted for “section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)” on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
+In subsec. (a)(2)(A), "section 60105 of title 46" substituted for "section 4197 of the Revised Statutes of the United States (46 App. U.S.C. 91)" on authority of Pub. L. 109–304, §18(c), Oct. 6, 2006, 120 Stat. 1709, which Act enacted section 60105 of Title 46, Shipping.
 
 Section was enacted as part of the High Seas Driftnet Fisheries Enforcement Act, and not as part of the Magnuson-Stevens Fishery Conservation and Management Act which comprises this chapter.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(1)(A)(i), (B), (2), (4)(A)(i). Pub. L. 109–479 inserted “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
+<b>2007</b>—Subsec. (b)(1)(A)(i), (B), (2), (4)(A)(i). Pub. L. 109–479 inserted "or illegal, unreported, or unregulated fishing" after "driftnet fishing".
 
 #### High Seas Driftnet Fisheries Enforcement; Congressional Statement of Findings and Policy
 
 Pub. L. 102–582, §2, Nov. 2, 1992, 106 Stat. 4900, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, provided that:
 
-“(a)
+"(a)
 
 Findings.—Congress makes the following findings:
 
-&emsp;“(1) Large-scale driftnet fishing on the high seas is highly destructive to the living marine resources and ocean ecosystems of the world's oceans, including anadromous fish and other living marine resources of the United States.
+&emsp;"(1) Large-scale driftnet fishing on the high seas is highly destructive to the living marine resources and ocean ecosystems of the world's oceans, including anadromous fish and other living marine resources of the United States.
 
-&emsp;“(2) The cumulative effects of large-scale driftnet fishing pose a significant threat to the marine ecosystem, and slow-reproducing species like marine mammals, sharks, and seabirds may require many years to recover.
+&emsp;"(2) The cumulative effects of large-scale driftnet fishing pose a significant threat to the marine ecosystem, and slow-reproducing species like marine mammals, sharks, and seabirds may require many years to recover.
 
-&emsp;“(3) Members of the international community have reviewed the best available scientific data on the impacts of large-scale pelagic driftnet fishing, and have failed to conclude that this practice has no significant adverse impacts which threaten the conservation and sustainable management of living marine resources.
+&emsp;"(3) Members of the international community have reviewed the best available scientific data on the impacts of large-scale pelagic driftnet fishing, and have failed to conclude that this practice has no significant adverse impacts which threaten the conservation and sustainable management of living marine resources.
 
-&emsp;“(4) The United Nations, via General Assembly Resolutions numbered 44–225, 45–197, and most recently 46–215 (adopted on December 20, 1991), has called for a worldwide moratorium on all high seas driftnet fishing by December 31, 1992, in all the world's oceans, including enclosed seas and semi-enclosed seas.
+&emsp;"(4) The United Nations, via General Assembly Resolutions numbered 44–225, 45–197, and most recently 46–215 (adopted on December 20, 1991), has called for a worldwide moratorium on all high seas driftnet fishing by December 31, 1992, in all the world's oceans, including enclosed seas and semi-enclosed seas.
 
-&emsp;“(5) The United Nations has commended the unilateral, regional, and international efforts undertaken by members of the international community and international organizations to implement and support the objectives of the General Assembly resolutions.
+&emsp;"(5) The United Nations has commended the unilateral, regional, and international efforts undertaken by members of the international community and international organizations to implement and support the objectives of the General Assembly resolutions.
 
-&emsp;“(6) Operative paragraph (4) of United Nations General Assembly Resolution numbered 46–215 specifically ‘encourages all members of the international community to take measures individually and collectively to prevent large-scale pelagic driftnet fishing operations on the high seas of the world's oceans and seas’.
+&emsp;"(6) Operative paragraph (4) of United Nations General Assembly Resolution numbered 46–215 specifically 'encourages all members of the international community to take measures individually and collectively to prevent large-scale pelagic driftnet fishing operations on the high seas of the world's oceans and seas'.
 
-&emsp;“(7) The United States, in section 307(1)(M) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857(1)(M)), has specificallyprohibited the practice of large-scale driftnet fishing by United States nationals and vessels both within the exclusive economic zone of the United States and beyond the exclusive economic zone of any nation.
+&emsp;"(7) The United States, in section 307(1)(M) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1857(1)(M)), has specifically prohibited the practice of large-scale driftnet fishing by United States nationals and vessels both within the exclusive economic zone of the United States and beyond the exclusive economic zone of any nation.
 
-&emsp;“(8) The Senate, through Senate Resolution 396 of the One Hundredth Congress (approved on March 18, 1988), has called for a moratorium on fishing in the Central Bering Sea and the United States has taken concrete steps to implement such moratorium through international negotiations.
+&emsp;"(8) The Senate, through Senate Resolution 396 of the One Hundredth Congress (approved on March 18, 1988), has called for a moratorium on fishing in the Central Bering Sea and the United States has taken concrete steps to implement such moratorium through international negotiations.
 
-&emsp;“(9) Despite the continued evidence of a decline in the fishery resources of the Bering Sea and the multiyear cooperative negotiations undertaken by the United States, the Russian Federation, Japan, and other concerned fishing nations, some nations refuse to agree to measures to reduce or eliminate unregulated fishing practices in the waters of the Bering Sea beyond the exclusive economic zones of the United States and the Russian Federation.
+&emsp;"(9) Despite the continued evidence of a decline in the fishery resources of the Bering Sea and the multiyear cooperative negotiations undertaken by the United States, the Russian Federation, Japan, and other concerned fishing nations, some nations refuse to agree to measures to reduce or eliminate unregulated fishing practices in the waters of the Bering Sea beyond the exclusive economic zones of the United States and the Russian Federation.
 
-&emsp;“(10) In order to ensure that the global moratorium on large-scale driftnet fishing called for in United Nations General Assembly Resolution numbered 46–215 takes effect by December 31, 1992, and that unregulated fishing practices in the waters of the Central Bering Sea are reduced or eliminated, the United States should take the actions described in this Act \[see Short Title of 1992 Amendments note set out under section 1801 of this title\] and encourage other nations to take similar action.
+&emsp;"(10) In order to ensure that the global moratorium on large-scale driftnet fishing called for in United Nations General Assembly Resolution numbered 46–215 takes effect by December 31, 1992, and that unregulated fishing practices in the waters of the Central Bering Sea are reduced or eliminated, the United States should take the actions described in this Act \[see Short Title of 1992 Amendments note set out under section 1801 of this title\] and encourage other nations to take similar action.
 
-“(b)
+"(b)
 
 Policy.—It is the stated policy of the United States to—
 
-&emsp;“(1) implement United Nations General Assembly Resolution numbered 46–215, approved unanimously on December 20, 1991, which calls for an immediate cessation to further expansion of large-scale driftnet fishing, a 50 percent reduction in existing large-scale driftnet fishing effort by June 30, 1992, and a global moratorium on the use of large-scale driftnets beyond the exclusive economic zone of any nation by December 31, 1992;
+&emsp;"(1) implement United Nations General Assembly Resolution numbered 46–215, approved unanimously on December 20, 1991, which calls for an immediate cessation to further expansion of large-scale driftnet fishing, a 50 percent reduction in existing large-scale driftnet fishing effort by June 30, 1992, and a global moratorium on the use of large-scale driftnets beyond the exclusive economic zone of any nation by December 31, 1992;
 
-&emsp;“(2) bring about a moratorium on fishing in the Central Bering Sea, or an international conservation and management agreement to which the United States and the Russian Federation are parties that regulates fishing in the Central Bering Sea; and
+&emsp;"(2) bring about a moratorium on fishing in the Central Bering Sea, or an international conservation and management agreement to which the United States and the Russian Federation are parties that regulates fishing in the Central Bering Sea; and
 
-&emsp;“(3) secure a permanent ban on the use of destructive fishing practices, and in particular large-scale driftnets, by persons or vessels fishing beyond the exclusive economic zone of any nation.”
+&emsp;"(3) secure a permanent ban on the use of destructive fishing practices, and in particular large-scale driftnets, by persons or vessels fishing beyond the exclusive economic zone of any nation."
 

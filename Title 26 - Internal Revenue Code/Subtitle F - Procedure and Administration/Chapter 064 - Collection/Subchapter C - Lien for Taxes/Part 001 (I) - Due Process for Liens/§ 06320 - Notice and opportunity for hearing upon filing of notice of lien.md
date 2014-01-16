@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(A) the amount of unpaid tax;
 
-&emsp;&emsp;(B) the right of the person to request a hearing during the 30-day period beginning on the day after the 5-day period described in paragraph (2);
+&emsp;&emsp;(B) the right of the person to request a hearing during the 30-day period beginningon the day after the 5-day period described in paragraph (2);
 
 &emsp;&emsp;(C) the administrative appeals available to the taxpayer with respect to such lien and the procedures relating to such appeals; and
 
@@ -56,15 +56,15 @@ For purposes of this section, subsections (c), (d) (other than paragraph (2)(B) 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(1). Pub. L. 109–432, §407(c)(1), substituted “in writing under subsection (a)(3)(B) and states the grounds for the requested hearing” for “under subsection (a)(3)(B)”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–432, §407(c)(1), substituted "in writing under subsection (a)(3)(B) and states the grounds for the requested hearing" for "under subsection (a)(3)(B)".
 
-Subsec. (c). Pub. L. 109–432, §407(c)(2), substituted “(e), and (g)” for “and (e)”.
+Subsec. (c). Pub. L. 109–432, §407(c)(2), substituted "(e), and (g)" for "and (e)".
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title IV, §407(f), Dec. 20, 2006, 120 Stat. 2962, provided that: “The amendments made by this section \[amending this section and sections 6330, 6702, and 7122 of this title\] shall apply to submissions made and issues raised after the date on which the Secretary first prescribes a list under section 6702(c) of the Internal Revenue Code of 1986, as amended by subsection (a) \[list prescribed Mar. 16, 2007, see I.R.S. Notice 2007–30, 2007–14, I.R.B. 883\].”
+Pub. L. 109–432, div. A, title IV, §407(f), Dec. 20, 2006, 120 Stat. 2962, provided that: "The amendments made by this section \[amending this section and sections 6330, 6702, and 7122 of this title\] shall apply to submissions made and issues raised after the date on which the Secretary first prescribes a list under section 6702(c) of the Internal Revenue Code of 1986, as amended by subsection (a) \[list prescribed Mar. 16, 2007, see I.R.S. Notice 2007–30, 2007–14, I.R.B. 883\]."
 
 #### Effective Date
 
-Pub. L. 105–206, title III, §3401(d), July 22, 1998, 112 Stat. 750, provided that: “The amendments made by this section \[enacting this section and section 6330 of this title and amending section 7443A of this title\] shall apply to collection actions initiated after the date which is 180 days after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3401(d), July 22, 1998, 112 Stat. 750, provided that: "The amendments made by this section \[enacting this section and section 6330 of this title and amending section 7443A of this title\] shall apply to collection actions initiated after the date which is 180 days after the date of the enactment of this Act \[July 22, 1998\]."
 

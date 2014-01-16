@@ -54,7 +54,7 @@ Subsec. (h) of this section amended section 1114 of Title 18, Crimes and Crimina
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–508, §3101(1), substituted “$70,000 for each violation, but not less than $5,000 for each willful violation” for “$10,000 for each violation”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–508, §3101(1), substituted "$70,000 for each violation, but not less than $5,000 for each willful violation" for "$10,000 for each violation".
 
-Subsecs. (b) to (d), (i). Pub. L. 101–508, §3101(2), substituted “$7,000” for “$1,000”.
+Subsecs. (b) to (d), (i). Pub. L. 101–508, §3101(2), substituted "$7,000" for "$1,000".
 

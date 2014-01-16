@@ -36,5 +36,5 @@ Historical and Revision Notes
 
 July 29, 1892, ch. 320, §15, 27 Stat. 325; Pub. L. 90–108, §2, Oct. 20, 1967, 81 Stat. 277.
 
-In subsection (b), the word “enclosure” is substituted for “inclosure” to use the more understood term.
+In subsection (b), the word "enclosure" is substituted for "inclosure" to use the more understood term.
 

@@ -116,13 +116,13 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §209(b)(6); added Oct. 24, 1992,
 
 49 App.:2008(b)(4), (5).
 
-In subsection (a), before clause (1), the word “reasonable” and the text of 49 App.:1679b(b)(1) (last sentence) and 2008(b)(1) (last sentence) are omitted as surplus. Clauses (1) and (2) are substituted for “that any pipeline facility is hazardous to life or property” and 49 App.:1679b(b)(2) and 2008(b)(2) to eliminate unnecessary words.
+In subsection (a), before clause (1), the word "reasonable" and the text of 49 App.:1679b(b)(1) (last sentence) and 2008(b)(1) (last sentence) are omitted as surplus. Clauses (1) and (2) are substituted for "that any pipeline facility is hazardous to life or property" and 49 App.:1679b(b)(2) and 2008(b)(2) to eliminate unnecessary words.
 
-In subsection (b)(1), the words “involved” and “(including its resistance to corrosion and deterioration)” are omitted as surplus.
+In subsection (b)(1), the words "involved" and "(including its resistance to corrosion and deterioration)" are omitted as surplus.
 
-In subsection (b)(5), the words “in connection with any investigation conducted by the Board” are omitted as surplus.
+In subsection (b)(5), the words "in connection with any investigation conducted by the Board" are omitted as surplus.
 
-In subsection (c), the words “responsible for pipeline safety” are omitted as surplus.
+In subsection (c), the words "responsible for pipeline safety" are omitted as surplus.
 
 In subsection (e), the text of 49 App.:1679b(b)(4) and 2008(b)(4) is omitted because of 28:516 and 1331.
 
@@ -132,21 +132,21 @@ This amends 49:60112(d) to clarify the restatement of 49 App.:1679b(b)(1) and 20
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–355, §8(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “After notice and an opportunity for a hearing, the Secretary of Transportation may decide a pipeline facility is hazardous if the Secretary decides the facility is—
+<b>2002</b>—Subsec. (a). Pub. L. 107–355, §8(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "After notice and an opportunity for a hearing, the Secretary of Transportation may decide a pipeline facility is hazardous if the Secretary decides the facility is—
 
-&emsp;“(1) hazardous to life, property, or the environment; or
+&emsp;"(1) hazardous to life, property, or the environment; or
 
-&emsp;“(2) constructed or operated, or a component of the facility is constructed or operated, with equipment, material, or a technique the Secretary decides is hazardous to life, property, or the environment.”
+&emsp;"(2) constructed or operated, or a component of the facility is constructed or operated, with equipment, material, or a technique the Secretary decides is hazardous to life, property, or the environment."
 
 Subsec. (d). Pub. L. 107–355, §10(b), designated existing provisions as par. (1), inserted heading, realigned margins, and added pars. (2) and (3).
 
-Pub. L. 107–355, §8(a)(2), substituted “is or would be hazardous” for “is hazardous”.
+Pub. L. 107–355, §8(a)(2), substituted "is or would be hazardous" for "is hazardous".
 
-<b>1994</b>—Subsec. (d). Pub. L. 103–429 inserted before period at end “, including suspended or restricted use of the facility, physical inspection, testing, repair, replacement, or other appropriate action”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–429 inserted before period at end ", including suspended or restricted use of the facility, physical inspection, testing, repair, replacement, or other appropriate action".
 
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 103–429, set out as a note under section 321 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “is”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "is".</i>
 

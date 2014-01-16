@@ -34,7 +34,7 @@ In general.—The Secretary may make grants to qualified private, nonprofit enti
 
 &emsp;&emsp;&emsp;(I) predevelopment costs associated with proposed water and wastewater projects or with existing water and wastewater systems; and
 
-&emsp;&emsp;&emsp;(II) short-term costs incurred for replacement equipment, small-scale extension services, or other small capital projects that are not part of the regular operations and maintenance activities of existing water and wastewater systems.
+&emsp;&emsp;&emsp;(II) short-term costs incurred for replacement equipment, small-scale extension services, or other small capitalprojects that are not part of the regular operations and maintenance activities of existing water and wastewater systems.
 
 &emsp;&emsp;(ii)
 
@@ -94,9 +94,9 @@ Relationship to other authority.—The funds and authorities provided under this
 
 (3) No grant shall be made under paragraph (2) of this subsection in connection with any project unless the Secretary determines that the project (i) will serve a rural area which, if such project is carried out, is not likely to decline in population below that for which the project was designed, (ii) is designed and constructed so that adequate capacity will or can be made available to serve the present population of the area to the extent feasible and to serve the reasonably foreseeable growth needs of the area, and (iii) is necessary for an orderly community development consistent with a comprehensive community water, waste disposal, or other development plan of the rural area.
 
-(4)(A) The term “development cost” means the cost of construction of a facility and the land, easements, and rights-of-way, and water rights necessary to the construction and operation of the facility.
+(4)(A) The term "development cost" means the cost of construction of a facility and the land, easements, and rights-of-way, and water rights necessary to the construction and operation of the facility.
 
-(B) The term “project” shall include facilities providing central service or facilities serving individual properties, or both.
+(B) The term "project" shall include facilities providing central service or facilities serving individual properties, or both.
 
 (5)
 
@@ -110,7 +110,7 @@ Application requirements.—Not earlier than 60 days before a preliminary applic
 
 (9)
 
-Conformity with state drinking water standards.—No Federal funds shall be made available under this section for a water system unless the Secretary determines that the water system will make significant progress toward meeting the standards established under title XIV of the Public Health Service Act (commonly known as the “Safe Drinking Water Act”) (42 U.S.C. 300f et seq.).
+Conformity with state drinking water standards.—No Federal funds shall be made available under this section for a water system unless the Secretary determines that the water system will make significant progress toward meeting the standards established under title XIV of the Public Health Service Act (commonly known as the "Safe Drinking Water Act") (42 U.S.C. 300f et seq.).
 
 (10)
 
@@ -122,7 +122,7 @@ Rural business opportunity grants.—
 
 &emsp;(A)
 
-In general.—The Secretary may make grants, not to exceed $1,500,000 annually, to public bodies, private nonprofit community development corporations or entities, or such other agencies as the Secretary may select to enable the recipients—
+In general.—The Secretary may make grants, not to exceed $1,500,000 annually, topublic bodies, private nonprofit community development corporations or entities, or such other agencies as the Secretary may select to enable the recipients—
 
 &emsp;&emsp;(i) to identify and analyze business opportunities, including opportunities in export markets, that will use local rural economic and human resources;
 
@@ -180,7 +180,7 @@ Selection priority.—In selecting recipients of grants to be made under subpara
 
 &emsp;(C)
 
-Funding.—Not less than 1 nor more than 3 percent of any funds appropriated to carry out paragraph (2) of this subsection for any fiscal year shall be reserved for grants under subparagraph (A) unless the applications, qualifying for grants, received by the Secretary from eligible nonprofit organizations for the fiscal year total less than 1 per centum of those funds.
+Funding.—Not less than 1 nor more than 3 percent of any funds appropriated to carryout paragraph (2) of this subsection for any fiscal year shall be reserved for grants under subparagraph (A) unless the applications, qualifying for grants, received by the Secretary from eligible nonprofit organizations for the fiscal year total less than 1 per centum of those funds.
 
 (15) In the case of water and waste disposal facility projects serving more than one separate rural community, the Secretary shall use the median population level and the community income level of all the separate communities to be served in applying the standards specified in paragraph (2) of this subsection and section 1927(a)(3)(A) of this title.
 
@@ -234,7 +234,7 @@ Community facilities grant program for rural communities with extreme unemployme
 
 &emsp;(A)
 
-Definition of not employed rate.—In this paragraph, the term “not employed rate”, with respect to a community, means the percentage of individuals over the age of 18 who reside within the community and who are ready, willing, and able to be employed but are unable to find employment, as determined by the department of labor of the State in which the community is located.
+Definition of not employed rate.—In this paragraph, the term "not employed rate", with respect to a community, means the percentage of individuals over the age of 18 who reside within the community and who are ready, willing, and able to be employed but are unable to find employment, as determined by the department of labor of the State in which the community is located.
 
 &emsp;(B)
 
@@ -262,7 +262,7 @@ Community facilities grant program for rural communities with high levels of out
 
 &emsp;(A)
 
-Grant authority.—The Secretary may make grants to associations, units of general local government, nonprofit corporations, and Indian tribes (as defined in section 450b of title 25) in a State to provide the Federal share of the cost of developing specific essential community facilities in any geographic area—
+Grant authority.—The Secretary may make grants to associations, units of general local government, nonprofit corporations, andIndian tribes (as defined in section 450b of title 25) in a State to provide the Federal share of the cost of developing specific essential community facilities in any geographic area—
 
 &emsp;&emsp;(i) that is represented by—
 
@@ -294,9 +294,9 @@ In general.—The Secretary shall establish a national rural water and wastewate
 
 &emsp;(B)
 
-Relationship to existing program.—The program established under subparagraph (A) shall not affect the authority of the Secretary to carry out the circuit rider program for which funds are made available under the heading “
+Relationship to existing program.—The program established under subparagraph (A) shall not affect the authority of the Secretary to carry out the circuit rider program for which funds are made available under the heading "
 
-rural community advancement program” in title III of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2002 (115 Stat. 719).
+rural community advancement program" in title III of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2002 (115 Stat. 719).
 
 &emsp;(C)
 
@@ -382,21 +382,21 @@ Any amounts appropriated under this section shall remain available until expende
 
 Section 766 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999, referred to in subsec. (a)(1), is Pub. L. 105–277, div. A, §101(a)\[title VII, §766\], Oct. 21, 1998, 112 Stat. 2681, 2681–37, which is not classified to the Code.
 
-The Rural Electrification Act of 1936, referred to in subsec. (a)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31\(§901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
+The Rural Electrification Act of 1936, referred to in subsec. (a)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
 
-For definition of “this chapter”, referred to in subsec. (a)(2)(C)(iii), (12)(D), (18), see note set out under section 1921 of this title.
+For definition of "this chapter", referred to in subsec. (a)(2)(C)(iii), (12)(D), (18), see note set out under section 1921 of this title.
 
 The Public Health Service Act, referred to in subsec. (a)(9), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title XIV of the Act, known as the Safe Drinking Water Act, is classified principally to subchapter XII (§300f et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of these Acts to the Code, see Short Title note and Short Title of 1974 Amendments note set out under section 201 of Title 42 and Tables.
 
-Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), referred to in subsec. (a)(12)(A), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
+Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), referred to in subsec. (a)(12)(A), is act July 2, 1862, ch. 130, 12 Stat. 503, popularly known as the "Morrill Act" and also as the "First Morrill Act", which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
 Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), referred to in subsec. (a)(12)(A), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
-Section 2009 of this title, referred to in subsec. (a)(21)(A)(ii), was subsequently amended, and no longer defines the term “rural area”.
+Section 2009 of this title, referred to in subsec. (a)(21)(A)(ii), was subsequently amended, and no longer defines the term "rural area".
 
-The Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2002, referred to in subsec. (a)(22)(B), is Pub. L. 107–76, Nov. 28, 2001, 115 Stat. 704. Provisions under the heading “
+The Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2002, referred to in subsec. (a)(22)(B), is Pub. L. 107–76, Nov. 28, 2001, 115 Stat. 704. Provisions under the heading "
 
-rural community advancement program” in title III of the Act appear at 115 Stat. 719 and are not classified to the Code.
+rural community advancement program" in title III of the Act appear at 115 Stat. 719 and are not classified to the Code.
 
 #### Codification
 
@@ -404,33 +404,33 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2)(B)(vii). Pub. L. 110–246, §6001, substituted “2008 through 2012” for “2002 through 2007”.
+<b>2008</b>—Subsec. (a)(2)(B)(vii). Pub. L. 110–246, §6001, substituted "2008 through 2012" for "2002 through 2007".
 
 Subsec. (a)(2)(C). Pub. L. 110–246, §6002(a), added subpar. (C).
 
-Subsec. (a)(11)(C). Pub. L. 110–246, §7511(c)(3), substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research, Education, and Extension Service”.
+Subsec. (a)(11)(C). Pub. L. 110–246, §7511(c)(3), substituted "the National Institute of Food and Agriculture" for "the Cooperative State Research, Education, and Extension Service".
 
-Subsec. (a)(11)(D). Pub. L. 110–246, §6003, substituted “2008 through 2012” for “1996 through 2007”.
+Subsec. (a)(11)(D). Pub. L. 110–246, §6003, substituted "2008 through 2012" for "1996 through 2007".
 
-Subsec. (a)(19)(C)(ii). Pub. L. 110–246, §6004, substituted “June” for “April”.
+Subsec. (a)(19)(C)(ii). Pub. L. 110–246, §6004, substituted "June" for "April".
 
-Subsec. (a)(20)(E). Pub. L. 110–246, §6005, substituted “State” for “state” and struck out “dial-up Internet access or” before “broadband service”.
+Subsec. (a)(20)(E). Pub. L. 110–246, §6005, substituted "State" for "state" and struck out "dial-up Internet access or" before "broadband service".
 
-Subsec. (a)(22)(C). Pub. L. 110–246, §6006, substituted “$25,000,000 for fiscal year 2008” for “$15,000,000 for fiscal year 2003”.
+Subsec. (a)(22)(C). Pub. L. 110–246, §6006, substituted "$25,000,000 for fiscal year 2008" for "$15,000,000 for fiscal year 2003".
 
-Subsec. (a)(25)(A). Pub. L. 110–246, §6007(1), substituted “grants to an entity that is a Tribal College or University” for “grants to tribal colleges and universities” and “specific Tribal College or University” for “specific tribal college or university”.
+Subsec. (a)(25)(A). Pub. L. 110–246, §6007(1), substituted "grants to an entity that is a Tribal College or University" for "grants to tribal colleges and universities" and "specific Tribal College or University" for "specific tribal college or university".
 
-Subsec. (a)(25)(B). Pub. L. 110–246, §6007(2), added subpar. (B) and struck out former subpar. (B) which directed the Secretary to establish the maximum percentage of the cost of the facility that could be covered by a grant, provided that the amount of a grant was not to exceed 75 percent of the cost of developing the facility, and directed the Secretary to provide for a graduated scale that would provide higher percentages for facilities in communities with lower community population and income levels.
+Subsec. (a)(25)(B). Pub. L. 110–246, §6007(2), added subpar. (B) and struck out former subpar. (B) which directed the Secretary to establish the maximum percentage of the cost of the facility that could be covered by a grant, provided that the amount of a grant wasnot to exceed 75 percent of the cost of developing the facility, and directed the Secretary to provide for a graduated scale that would provide higher percentages for facilities in communities with lower community population and income levels.
 
-Subsec. (a)(25)(C). Pub. L. 110–246, §6007(3), substituted “2008 through 2012” for “2003 through 2007”.
+Subsec. (a)(25)(C). Pub. L. 110–246, §6007(3), substituted "2008 through 2012" for "2003 through 2007".
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §6001, inserted after first sentence “The Secretary may also make or insure loans to communities that have been designated as rural empowerment zones or rural enterprise communities pursuant to part I of subchapter U of chapter 1 of title 26, or as rural enterprise communities pursuant to section 766 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999 (Public Law 105–277; 112 Stat. 2681, 2681–37), to provide for the installation or improvement of essential community facilities including necessary related equipment, and to furnish financial assistance or other aid in planning projects for such purposes.”
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §6001, inserted after first sentence "The Secretary may also make or insure loans to communities that have been designated as rural empowerment zones or rural enterprise communities pursuant to part I of subchapter U of chapter 1 of title 26, or as rural enterprise communities pursuant to section 766 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999 (Public Law 105–277; 112 Stat. 2681, 2681–37), to provide for the installation or improvement of essential community facilities including necessary related equipment, and to furnish financial assistance or other aid in planning projects for such purposes."
 
-Subsec. (a)(2). Pub. L. 107–171, §6002, inserted heading, designated existing provisions as subpar. (A) and inserted heading, designated first sentence of subpar. (A) as cl. (i), inserted heading, and struck out “aggregating not to exceed $590,000,000 in any fiscal year” after “authorized to make grants”, designated second sentence of subpar. (A) as cl. (ii), inserted heading, and substituted “subparagraph” for “paragraph”, designated third sentence of subpar. (A) as cl. (iii) and inserted heading, and added subpar. (B).
+Subsec. (a)(2). Pub. L. 107–171, §6002, inserted heading, designated existing provisions as subpar. (A) and inserted heading, designated first sentence of subpar. (A) as cl. (i), inserted heading, and struck out "aggregating not to exceed $590,000,000 in any fiscal year" after "authorized to make grants", designated second sentence of subpar. (A) as cl. (ii), inserted heading, and substituted "subparagraph" for "paragraph", designated third sentence of subpar. (A) as cl. (iii) and inserted heading, and added subpar. (B).
 
-Subsec. (a)(7). Pub. L. 107–171, §6020(b)(1), struck out heading and text of par. (7). Text read as follows: “For the purpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1) and (2), the terms ‘rural’ and ‘rural area’ mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.”
+Subsec. (a)(7). Pub. L. 107–171, §6020(b)(1), struck out heading and text of par. (7). Text read as follows: "For the purpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1) and (2), the terms 'rural' and 'rural area' mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants."
 
-Subsec. (a)(11)(D). Pub. L. 107–171, §6003, substituted “$15,000,000” for “$7,500,000” and “2007” for “2002”.
+Subsec. (a)(11)(D). Pub. L. 107–171, §6003, substituted "$15,000,000" for "$7,500,000" and "2007" for "2002".
 
 Subsec. (a)(19)(C). Pub. L. 107–171, §6004, added subpar. (C).
 
@@ -438,23 +438,23 @@ Subsec. (a)(22) to (25). Pub. L. 107–171, §§6005–6007(a), 6008, added pars
 
 <b>2001</b>—Subsec. (a)(20)(E). Pub. L. 107–76 added subpar. (E).
 
-<b>2000</b>—Subsec. (a)(19)(A). Pub. L. 106–387, which directed amendment of section 306(a)(19)(A) of the Consolidated Farmers Home Administration Act of 1961 by inserting “, Indian tribes (as such term is defined under section 450b(e) of title 25),” after “nonprofit corporations”, was executed to this section, which is section 306(a)(19)(A) of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress.
+<b>2000</b>—Subsec. (a)(19)(A). Pub. L. 106–387, which directed amendment of section 306(a)(19)(A) of the Consolidated Farmers Home Administration Act of 1961 by inserting ", Indian tribes (as such term is defined under section 450b(e) of title 25)," after "nonprofit corporations", was executed to this section, which is section 306(a)(19)(A) of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress.
 
 Subsec. (a)(20). Pub. L. 106–472, §304(a), added par. (20).
 
 Subsec. (a)(21). Pub. L. 106–472, §305(a), added par. (21).
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–127, §741(a)(1), substituted “$590,000,000” for “$500,000,000”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–127, §741(a)(1), substituted "$590,000,000" for "$500,000,000".
 
 Subsec. (a)(5). Pub. L. 104–127, §758, added par. (5).
 
-Subsec. (a)(7). Pub. L. 104–127, §741(a)(2), added par. (7) and struck out former par. (7) which read as follows: “As used in this chapter, the terms ‘rural’ and ‘rural area’ shall not include any area in any city or town which has a population in excess of ten thousand inhabitants, except that (A) for the purpose of loans for essential community facilities under subsection (a)(1) of this section, the terms ‘rural’ and ‘rural area’ may include any area in any city or town that has a population not in excess of twenty thousand inhabitants; and (B) for purposes of loans and grants for private business enterprises under sections 1924(b), 1932 and 1942(b), (c), and (d) of this title the terms ‘rural’ and ‘rural area’ may include all territory of a State that is not within the outer boundary of any city having a population of fifty thousand or more and its immediately adjacent urbanized and urbanizing areas with a population density of more than one hundred persons per square mile, as determined by the Secretary of Agriculture according to the latest decennial census of theUnited States: <i>Provided</i>, That special consideration for such loans and grants shall be given to areas other than cities having a population of more than twenty-five thousand.”
+Subsec. (a)(7). Pub. L. 104–127, §741(a)(2), added par. (7) and struck out former par. (7) which read as follows: "As used in this chapter, the terms 'rural' and 'rural area' shall not include any area in any city or town which has a population in excess of ten thousand inhabitants, except that (A) for the purpose of loans for essential community facilities under subsection (a)(1) of this section, the terms 'rural' and 'rural area' may include any area in any city or town that has a population not in excess of twenty thousand inhabitants; and (B) for purposes of loans and grants for private business enterprises under sections 1924(b), 1932 and 1942(b), (c), and (d) of this title the terms 'rural' and 'rural area' may include all territory of a State that is not within the outer boundary of any city having a population of fifty thousand or more and its immediately adjacent urbanized and urbanizing areas with a population density of more than one hundred persons per square mile, as determined by the Secretary of Agriculture according to the latest decennial census of the United States: <i>Provided</i>, That special consideration for such loans and grants shall be given to areas other than cities having a population of more than twenty-five thousand."
 
 Subsec. (a)(9), (10). Pub. L. 104–127, §741(a)(3), added pars. (9) and (10) and struck out former pars. (9) and (10) which read as follows:
 
-“(9) No Federal funds shall be authorized for use unless it be certified by the appropriate State water pollution control agency that the water supply system authorized will not result in pollution of waters of the State in excess of standards established by that agency.
+"(9) No Federal funds shall be authorized for use unless it be certified by the appropriate State water pollution control agency that the water supply system authorized will not result in pollution of waters of the State in excess of standards established by that agency.
 
-“(10) In the case of sewers and waste disposal systems, no Federal funds shall be advanced hereunder unless the appropriate State water pollution control agency shall certify that the effluent therefrom shall conform with appropriate State and Federal water pollution control standards when and where established.”
+"(10) In the case of sewers and waste disposal systems, no Federal funds shall be advanced hereunder unless the appropriate State water pollution control agency shall certify that the effluent therefrom shall conform with appropriate State and Federal water pollution control standards when and where established."
 
 Subsec. (a)(11). Pub. L. 104–127, §741(a)(3), added par. (11) and struck out former par. (11) which authorized grants to public bodies, private nonprofit community development corporations or entities, or other agencies to enable such recipients to (1) identify and analyze business opportunities, including opportunities in export markets, that would use local rural economic and human resources, (2) identify, train, and provide technical assistance to existing or prospective rural entrepreneurs and managers, (3) establish business support centers and otherwise assist in creation of new rural businesses, development of methods of financing local businesses, and enhancing capacity of local individuals and entities to engage in sound economic activities, and (4) conduct regional, community, and local economic development planning and coordination, and leadership development.
 
@@ -462,11 +462,11 @@ Subsec. (a)(14). Pub. L. 104–127, §741(a)(6)(A)–(D)(i), inserted par. headi
 
 Pub. L. 104–127, §741(a)(4), (5), redesignated par. (16) as (14) and struck out former par. (14) which read as follows:
 
-“(14)(A) The Secretary, under such reasonable rules and conditions as he shall establish, shall make grants to eligible volunteer fire departments for up to 50 per centum of the cost of firefighting equipment needed by such departments but which such departments are unable to purchase through the resources otherwise available to them, and for the cost of the training necessary to enable such departments to use such equipment efficiently.
+"(14)(A) The Secretary, under such reasonable rules and conditions as he shall establish, shall make grants to eligible volunteer fire departments for up to 50 per centum of the cost of firefighting equipment needed by such departments but which such departments are unable to purchase through the resources otherwise available to them, and for the cost of the training necessary to enable such departments to use such equipment efficiently.
 
-“(B) For the purposes of this subsection, the term ‘eligible volunteer fire department’ means any established volunteer fire department in a rural town, village, or unincorporated area where the population is less than two thousand but greater than two hundred, as reasonably determined by the Secretary.”
+"(B) For the purposes of this subsection, the term 'eligible volunteer fire department' means any established volunteer fire department in a rural town, village, or unincorporated area where the population is less than two thousand but greater than two hundred, as reasonably determined by the Secretary."
 
-Subsec. (a)(14)(C). Pub. L. 104–127, §741(a)(6)(D)(ii), which directed substitution of “3 percent of any funds appropriated” for “2 per centum of any funds provided in appropriations Acts”, was executed by making the substitution for “2 per centum of any funds provided in Appropriations Acts”, to reflect the probable intent of Congress.
+Subsec. (a)(14)(C). Pub. L. 104–127, §741(a)(6)(D)(ii), which directed substitution of "3 percent of any funds appropriated" for "2 per centum of any funds provided in appropriations Acts", was executed by making the substitution for "2 per centum of any funds provided in Appropriations Acts", to reflect the probable intent of Congress.
 
 Subsec. (a)(15). Pub. L. 104–127, §741(a)(4), (5), redesignated par. (17) as (15) and struck out former par. (15) which authorized making or insuring of loans to associations, including corporations not operated for profit, Indian tribes on Federal and State reservations and other federally recognized Indian tribes, and public and quasi-public agencies, for purpose of financing construction, acquisition, and operation of transmission facilities for any electric system owned and operated by a public body located in a rural area which was, as of October 1, 1976, receiving bulk power from designated agencies of Department of the Interior.
 
@@ -478,29 +478,29 @@ Pub. L. 104–127, §741(a)(5), redesignated par. (19) as (17).
 
 Subsec. (a)(20). Pub. L. 104–127, §741(a)(5), redesignated par. (20) as (18).
 
-<b>1994</b>—Subsec. (a)(15)(C), (D). Pub. L. 103–354 redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “The Administrator of the Rural Electrification Administration shall administer loans made or insured under this paragraph.”
+<b>1994</b>—Subsec. (a)(15)(C), (D). Pub. L. 103–354 redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "The Administrator of the Rural Electrification Administration shall administer loans made or insured under this paragraph."
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–129 inserted after first sentence “The Secretary may also make loans to any borrower to whom a loan has been made under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.), for the conservation, development, use, and control of water, and the installation of drainage or waste disposal facilities, primarily serving farmers, ranchers, farm tenants, farm laborers, rural businesses, and other rural residents.”
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–129 inserted after first sentence "The Secretary may also make loans to any borrower to whom a loan has been made under the Rural Electrification Act of 1936 (7 U.S.C. 901 et seq.), for the conservation, development, use, and control of water, and the installation of drainage or waste disposal facilities, primarily serving farmers, ranchers, farm tenants, farm laborers, rural businesses, and other rural residents."
 
-<b>1991</b>—Subsec. (a)(11)(B)(ii). Pub. L. 102–237, §701(a)(1), in subcl. (I) inserted “and” after semicolon and in subcl. (II) substituted a period for “; and”.
+<b>1991</b>—Subsec. (a)(11)(B)(ii). Pub. L. 102–237, §701(a)(1), in subcl. (I) inserted "and" after semicolon and in subcl. (II) substituted a period for "; and".
 
-Subsec. (a)(12)(D), (20). Pub. L. 102–237, §701(h)(1)(A), (B), substituted “this chapter” for “this Act”.
+Subsec. (a)(12)(D), (20). Pub. L. 102–237, §701(h)(1)(A), (B), substituted "this chapter" for "this Act".
 
 Subsec. (a)(21). Pub. L. 102–237, §701(a)(2), struck out par. (21) which was identical to par. (20).
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–624, §2328, inserted “rural businesses,” after “farm laborers,”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–624, §2328, inserted "rural businesses," after "farm laborers,".
 
-Subsec. (a)(2). Pub. L. 101–624, §2321, struck out “: <i>Provided</i>, That for fiscal years commencing after September 30, 1981, such grants may not exceed $154,900,000 in any fiscal year” after “in rural areas”.
+Subsec. (a)(2). Pub. L. 101–624, §2321, struck out ": <i>Provided</i>, That for fiscal years commencing after September 30, 1981, such grants may not exceed $154,900,000 in any fiscal year" after "in rural areas".
 
-Subsec. (a)(3). Pub. L. 101–624, §2316(b), struck out “and not inconsistent with any planned development provided in any State, multijurisdictional, county, or municipal plan approved by competent authority for the area in which the rural community is located, and the Secretary shall require the submission of all applications for financial assistance under this section to the multijurisdictional substate areawide general purpose planning and development agency that has been officially designated as a clearinghouse agency under Office of Management and Budget Circular A–95 and to the county or municipal government having jurisdiction over the area in which the proposed project is to be located for review and comment within a designated period of time not to exceed 30 days concerning among other considerations, the effect of the project upon the areawide goals and plans of such agency or government. No loan under this section shall be made that is inconsistent with any multijurisdictional planning and development district areawide plan of such agency. The Secretary is authorized to reimburse such agency or government for the cost of making the required review. Until October 1, 1973, the Secretary may make grants prior to the completion of the comprehensive plan, if the preparation of such plan has been undertaken for the area” after “of the rural area”.
+Subsec. (a)(3). Pub. L. 101–624, §2316(b), struck out "and not inconsistent with any planned development provided in any State, multijurisdictional, county, or municipal plan approved by competent authority for the area in which the rural community is located, and the Secretary shall require the submission of all applications for financial assistance under this section to the multijurisdictional substate areawide general purpose planning and development agency that has been officially designated as a clearinghouse agency under Office of Management and Budget Circular A–95 and to the county or municipal government having jurisdiction over the area in which the proposed project is to be located for review and comment within a designated period of time not to exceed 30 days concerning among other considerations, the effect of the project upon the areawide goals and plans of such agency or government. No loan under this section shall be made that is inconsistent with any multijurisdictional planning and development district areawide plan of such agency. The Secretary is authorized to reimburse such agency or government for the cost of making the required review. Until October 1, 1973, the Secretary may make grants prior to the completion of the comprehensive plan, if the preparation of such plan has been undertaken for the area" after "of the rural area".
 
-Subsec. (a)(11). Pub. L. 101–624, §§2341, 2342, amended par. (11) generally. Prior to amendment, par. (11) read as follows: “The Secretary may make grants, not to exceed $15,000,000 annually, to public bodies or such other agencies as the Secretary may select to provide rural development technical assistance, rural community leadership development, and community and areawide rural development planning.”
+Subsec. (a)(11). Pub. L. 101–624, §§2341, 2342, amended par. (11) generally. Prior to amendment, par. (11) read as follows: "The Secretary may make grants, not to exceed $15,000,000 annually, to public bodies or such other agencies as the Secretary may select to provide rural development technical assistance, rural community leadership development, and community and areawide rural development planning."
 
 Subsec. (a)(20). Pub. L. 101–624, §2329, added par. (20).
 
 Subsec. (a)(21). Pub. L. 101–624, §2393, added par. (21).
 
-<b>1986</b>—Subsec. (a)(1), (15)(B). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (a)(1), (15)(B). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 <b>1985</b>—Subsec. (a)(2). Pub. L. 99–198 provided for graduated scale of grant rates for each project and higher rates in communities having lower community population and income levels.
 
@@ -508,13 +508,13 @@ Subsec. (a)(16) to (19). Pub. L. 99–198 added pars. (16) to (19).
 
 <b>1981</b>—Subsec. (a)(2). Pub. L. 97–35 inserted provisions limiting grants for fiscal years after Sept. 30, 1981.
 
-<b>1980</b>—Subsec. (a)(7). Pub. L. 96–438 provided that for the purpose of loans for essential community facilities under subsection (a)(1) of this section, terms “rural” and “rural area” may include any area in any city or town with a population not in excess of twenty thousand.
+<b>1980</b>—Subsec. (a)(7). Pub. L. 96–438 provided that for the purpose of loans for essential community facilities under subsection (a)(1) of this section, terms "rural" and "rural area" may include any area in any city or town with a population not in excess of twenty thousand.
 
 Subsec. (a)(11) to (15). Pub. L. 96–355 in par. (11) substituted provisions authorizing annual grants not to exceed $15,000,000 for rural development technical assistance, rural community leadership development, etc., for provisions authorizing annual grants not to exceed $10,000,000 for preparation of comprehensive plans for rural development or designated aspects of such rural development, added par. (12), and redesignated former pars. (12) to (14) as (13) to (15), respectively.
 
 <b>1978</b>—Subsec. (a)(1). Pub. L. 95–334, §104, inserted provisions respecting bond counsel requirements for loans under $500,000.
 
-Subsec. (a)(2). Pub. L. 95–334, §105, substituted “$500,000,000” for “$300,000,000” and “75” for “50”.
+Subsec. (a)(2). Pub. L. 95–334, §105, substituted "$500,000,000" for "$300,000,000" and "75" for "50".
 
 Subsec. (a)(7). Pub. L. 95–334, §106, struck out references to the Commonwealth of Puerto Rico and the Virgin Islands.
 
@@ -524,15 +524,15 @@ Subsec. (a)(14). Pub. L. 95–334, §107(a), added par. (14).
 
 <b>1972</b>—Subsec. (a)(1). Pub. L. 92–419, §104(1), (2), authorized loans to Indian tribes on Federal and State reservations and other federally recognized Indian tribes and included as an allowable use provision for essential community facilities including necessary related equipment, respectively.
 
-Subsec. (a)(2). Pub. L. 92–419, §105, substituted “$300,000,000” for “$100,000,000”.
+Subsec. (a)(2). Pub. L. 92–419, §105, substituted "$300,000,000" for "$100,000,000".
 
-Subsec. (a)(3). Pub. L. 92–419, §§106, 107, substituted “project” for “facility” where first appearing; in item (i), substituted “project” for “facility” and inserted in such text “, if such project is carried out,”; in item (ii), substituted “will or can be” for “will be or can be”; substituted “and (iii)” for “or (iii)” and in such item (iii), substituted “an orderly community development consistent with a comprehensive community water, waste disposal, or other development plan” and “development provided in any State, multijurisdictional, county, or municipal plan approved by competent authority” for “orderly community development consistent with a comprehensive community water or sewer development plan” and “development under State, county, or municipal plans approved as official plans by competent authority”, substituted “Secretary shall require the submission of all applications for financial assistance under this section to the multijurisdictional substate areawide general purpose planning and development agency that has been officially designated as a clearinghouse agency under Office of Management and Budget Circular A–95 and to the county or municipal government having jurisdiction over the area in which the proposed project is to be located for review and comment within a designated period of time not to exceed 30 days concerning among other considerations, the effect of the project upon the areawide goals and plans of such agency or government” for “Secretary shall establish regulations requiring the submission of all applications for financial assistance under this chapter to the county or municipal government in which the proposed project is to be located for review and comment by such agency within a designated period of time”; prohibited loans inconsistent with multijurisdictional planning and development district areawide plan of the agency; authorized agency or government reimbursement for cost of making the review; and extended authority for making grants prior to completion of the comprehensive plan from Oct. 1, 1971 to Oct. 1, 1973.
+Subsec. (a)(3). Pub. L. 92–419, §§106, 107, substituted "project" for "facility" where first appearing; in item (i), substituted "project" for "facility" and inserted in such text ", if such project is carried out,"; in item (ii), substituted "will or can be" for "will be or can be"; substituted "and (iii)" for "or (iii)" and in such item (iii), substituted "an orderly community development consistent with a comprehensive community water, waste disposal, or other development plan" and "development provided in any State, multijurisdictional, county, or municipal plan approved by competent authority" for "orderly community development consistent with a comprehensive community water or sewer development plan" and "development under State, county, or municipal plans approved as official plans by competent authority", substituted "Secretary shall require the submission of all applications for financial assistance under this section to the multijurisdictional substate areawide general purpose planning and development agency that has been officially designated as a clearinghouse agency under Office of Management and Budget Circular A–95 and to the county or municipal government having jurisdiction over the area in which the proposed project is to be located for review and comment within a designated period of time not to exceed 30 days concerning among other considerations, the effect of the project upon the areawide goals and plans of such agency or government" for "Secretary shall establish regulations requiring the submission of all applications for financial assistance under this chapter to the county or municipal government in which the proposed project is to be located for review and comment by such agency within a designated period of time"; prohibited loans inconsistent with multijurisdictional planning and development district areawide plan of the agency; authorized agency or government reimbursement for cost of making the review; and extended authority for making grants prior to completion of the comprehensive plan from Oct. 1, 1971 to Oct. 1, 1973.
 
-Subsec. (a)(5). Pub. L. 92–419, §110, struck out provisions of former par. (5) which prohibited any loan or grant under subsec. (a) of this section which would cause the unpaid principal indebtedness of any association under this chapter and Act Aug. 28, 1937, as amended (superseded by this chapter), together with amount of any assistance in the form of a grant to exceed $4,000,000 at any one time.
+Subsec. (a)(5). Pub. L. 92–419, §110, struck out provisions of former par. (5) which prohibited any loan or grant under subsec. (a) of this section which would cause the unpaid principal indebtedness of any association under this chapter and Act Aug. 28, 1937, as amended (superseded by this chapter), together with amountof any assistance in the form of a grant to exceed $4,000,000 at any one time.
 
-Subsec. (a)(6). Pub. L. 92–419, §108, substituted “$30,000,000” for “$15,000,000”, struck out “official” before “comprehensive plans”, and substituted “waste disposal systems” for “sewer systems”.
+Subsec. (a)(6). Pub. L. 92–419, §108, substituted "$30,000,000" for "$15,000,000", struck out "official" before "comprehensive plans", and substituted "waste disposal systems" for "sewer systems".
 
-Subsec. (a)(7). Pub. L. 92–419, §109, substituted definition of “rural” and “rural area” as excluding an area in a city or town with a population in excess of ten thousand inhabitants for prior provision for rural areas for purposes of water and waste disposal projects excluding an area in a city or town with a population in excess of 5,500 inhabitants, provided exception provision and special consideration for loans and grants to areas other than cities having a population of more than twenty-five thousand.
+Subsec. (a)(7). Pub. L. 92–419, §109, substituted definition of "rural" and "rural area" as excluding an area in a city or town with a population in excess of ten thousand inhabitants for prior provision for rural areas for purposes of water and waste disposal projects excluding an area in a city or town with a population in excess of 5,500 inhabitants, provided exception provision and special consideration for loans and grants to areas other than cities having a population of more than twenty-five thousand.
 
 Subsec. (a)(11), (12). Pub. L. 92–419, §§111, 112, added pars. (11) and (12).
 
@@ -542,11 +542,11 @@ Subsec. (c). Pub. L. 91–606 repealed subsec. (c), added by Pub. L. 89–769, �
 
 Subsec. (d). Pub. L. 91–524 added subsec. (d).
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–488 substituted “$100,000,000” for “$50,000,000” in par. (2), “1971” for “1968” in par. (3), and “$15,000,000” for “$5,000,000” in par. (6), respectively.
+<b>1968</b>—Subsec. (a). Pub. L. 90–488 substituted "$100,000,000" for "$50,000,000" in par. (2), "1971" for "1968" in par. (3), and "$15,000,000" for "$5,000,000" in par. (6), respectively.
 
 <b>1966</b>—Subsec. (c). Pub. L. 89–769 added subsec. (c).
 
-<b>1965</b>—Subsec. (a). Pub. L. 89–240 designated existing provisions as par. (1), struck out “including the development of recreational facilities” after “shifts in land use”, substituted “drainage or waste disposal facilities” for “drainage facilities”, inserted “and recreational developments”, deleted provisions which prohibited loans which would cause an association's unpaid principal indebtedness to exceed $500,000, in the case of direct loans and $1,000,000 in the case of insured loans at any one time, and added pars. (2) to (10).
+<b>1965</b>—Subsec. (a). Pub. L. 89–240 designated existing provisions as par. (1), struck out "including the development of recreational facilities" after "shifts in land use", substituted "drainage or waste disposal facilities" for "drainage facilities", inserted "and recreational developments", deleted provisions which prohibited loans which would cause an association's unpaid principal indebtedness to exceed $500,000, in the case of direct loans and $1,000,000 in the case of insured loans at any one time, and added pars. (2) to (10).
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–703 authorized loans to be made or insured to provide for the application or establishment of shifts in land use including the development of recreational facilities.
 
@@ -570,7 +570,7 @@ Pub. L. 95–334, title I, §105, Aug. 4, 1978, 92 Stat. 421, provided that the 
 
 #### Effective Date of 1970 Amendments
 
-Pub. L. 91–617, §1(b), Dec. 31, 1970, 84 Stat. 1855, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to the insured loans sold out of the Agricultural Credit Insurance Fund after the date of the enactment of this Act \[Dec. 31, 1970\].”
+Pub. L. 91–617, §1(b), Dec. 31, 1970, 84 Stat. 1855, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to the insured loans sold out of the Agricultural Credit Insurance Fund after the date of the enactment of this Act \[Dec. 31, 1970\]."
 
 Amendment by Pub. L. 91–606 effective Dec. 31, 1970, see section 304 of Pub. L. 91–606, set out as a note under section 165 of Title 26, Internal Revenue Code.
 
@@ -584,45 +584,45 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 
 #### Assistance in Rural Alaska
 
-Pub. L. 106–387, §1(a) \[title VII, §736\], Oct. 28, 2000, 114 Stat. 1549, 1549A–33, provided that: “Notwithstanding any other provision of law, for any fiscal year, in the case of a high cost, isolated rural area of the State of Alaska that is not connected to a road system—
+Pub. L. 106–387, §1(a) \[title VII, §736\], Oct. 28, 2000, 114 Stat. 1549, 1549A–33, provided that: "Notwithstanding any other provision of law, for any fiscal year, in the case of a high cost, isolated rural area of the State of Alaska that is not connected to a road system—
 
-&emsp;“(1) in the case of assistance provided by the Rural Housing Service for single family housing under title V of the Housing Act of 1949 (7 \[42\] U.S.C. 1471 et seq.), the maximum income level for the assistance shall be 150 percent of the average income level in metropolitan areas of the State;
+&emsp;"(1) in the case of assistance provided by the Rural Housing Service for single family housing under title V of the Housing Act of 1949 (7 \[42\] U.S.C. 1471 et seq.), the maximum income level for the assistance shall be 150 percent of the average income level in metropolitan areas of the State;
 
-&emsp;“(2) in the case of community facility loans and grants provided under paragraphs (1) and (19), respectively, of section 306(a) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1926(a)) and assistance provided under programs carried out by the Rural Utilities Service, the maximum income level for the loans, grants, and assistance shall be 150 percent of the average income level in nonmetropolitan areas of the State;
+&emsp;"(2) in the case of community facility loans and grants provided under paragraphs (1) and (19), respectively, of section 306(a) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1926(a)) and assistance provided under programs carried out by the Rural Utilities Service, the maximum income level for the loans, grants, and assistance shall be 150 percent of the average income level in nonmetropolitan areas of the State;
 
-&emsp;“(3) in the case of a business and industry guaranteed loan made under section 310B(a)(1) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1932(a)(1)), to the extent permitted under that Act, the Secretary of Agriculture shall—
+&emsp;"(3) in the case of a business and industry guaranteed loan made under section 310B(a)(1) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1932(a)(1)), to the extent permitted under that Act, the Secretary of Agriculture shall—
 
-&emsp;&emsp;“(A) guarantee the repayment of 90 percent of the principal and interest due on the loan; and
+&emsp;&emsp;"(A) guarantee the repayment of 90 percent of the principal and interest due on the loan; and
 
-&emsp;&emsp;“(B) charge a loan origination and servicing fee in an amount not to exceed 1 percent of the amount of the loan; and
+&emsp;&emsp;"(B) charge a loan origination and servicing fee in an amount not to exceed 1 percent of the amount of the loan; and
 
-&emsp;“(4) in the case of assistance provided under the Rural Community Development Initiative for fiscal year 2001 carried out under the rural community advancement program established under subtitle E of the Consolidated Farm and Rural Development Act (7 U.S.C. 2009 et seq.), the median household income level, and the not employed rate, with respect to applicants for assistance under the Initiative shall be scored on a community-by-community basis.”
+&emsp;"(4) in the case of assistance provided under the Rural Community Development Initiative for fiscal year 2001 carried out under the rural community advancement program established under subtitle E of the Consolidated Farm and Rural Development Act (7 U.S.C. 2009 et seq.), the median household income level, and the not employed rate, with respect to applicants for assistance under the Initiative shall be scored on a community-by-community basis."
 
 #### Temporary Expanded Eligibility of Certain Timber-Dependent Communities in Pacific Northwest for Loans and Grants From Rural Development Administration
 
 Pub. L. 103–427, Oct. 31, 1994, 108 Stat. 4373, provided that:
 
-“(a)
+"(a)
 
 Findings.—Congress finds the following:
 
-&emsp;“(1) Timber-dependent communities in the Pacific Northwest have contributed significantly to the economic needs of the United States and have helped ensure an adequate national supply of timber and timber products.
+&emsp;"(1) Timber-dependent communities in the Pacific Northwest have contributed significantly to the economic needs of the United States and have helped ensure an adequate national supply of timber and timber products.
 
-&emsp;“(2) A significant portion of the timber traditionally harvested in the Pacific Northwest is derived from Federal forest lands, and these forests have played an important role in sustaining local economies.
+&emsp;"(2) A significant portion of the timber traditionally harvested in the Pacific Northwest is derivedfrom Federal forest lands, and these forests have played an important role in sustaining local economies.
 
-“(b)
+"(b)
 
-Expanded Eligibility.—During the period beginning on the date of the enactment of this Act \[Oct. 31, 1994\] and ending on September 30, 1998, the terms ‘rural’ and ‘rural area’, as used in the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.), shall include any town, city, or municipality—
+Expanded Eligibility.—During the period beginning on the date of the enactment of this Act \[Oct. 31, 1994\] and ending on September 30, 1998, the terms 'rural' and 'rural area', as used in the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.), shall include any town, city, or municipality—
 
-&emsp;“(1) part or all of which lies within 100 miles of the boundary of a national forest covered by the Federal document entitled ‘Forest Plan for a Sustainable Economy and a Sustainable Environment’, dated July 1, 1993;
+&emsp;"(1) part or all of which lies within 100 miles of the boundary of a national forest covered by the Federal document entitled 'Forest Plan for a Sustainable Economy and a Sustainable Environment', dated July 1, 1993;
 
-&emsp;“(2) that is located in a county in which at least 15 percent of the total primary and secondary labor and proprietor income is derived from forestry, wood products, or forest-related industries such as recreation and tourism; and
+&emsp;"(2) that is located in a county in which at least 15 percent of the total primary and secondary labor and proprietor income is derived from forestry, wood products, or forest-related industries such as recreation and tourism; and
 
-&emsp;“(3) that has a population of not more than 25,000 inhabitants.
+&emsp;"(3) that has a population of not more than 25,000 inhabitants.
 
-“(c)
+"(c)
 
-Effect on State Allotments of Funds.—This section shall not be taken into consideration in allotting funds to the various States for purposes of the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.), or otherwise affect or alter the manner under which such funds were allotted to States before the date of the enactment of this Act \[Oct. 31, 1994\].”
+Effect on State Allotments of Funds.—This section shall not be taken into consideration in allotting funds to the various States for purposes of the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.), or otherwise affect or alter the manner under which such funds were allotted to States before the date of the enactment of this Act \[Oct. 31, 1994\]."
 
 #### Rural Wastewater Treatment Circuit Rider Program
 
@@ -630,11 +630,11 @@ Pub. L. 101–624, title XXIII, §2324, Nov. 28, 1990, 104 Stat. 4013, directed 
 
 #### Interest Rate Restructuring for Certain Borrowers
 
-Pub. L. 100–233, title VI, §615(b)(2), Jan. 6, 1988, 101 Stat. 1682, provided that: “Effective July 29, 1987, the interest rate charged on any loan of $2,000,000 or more made on such date under section 306 \[7 U.S.C. 1926\] to any nonprofit corporation shall be the interest rate quoted to such nonprofit corporation by the Farmers Home Administration on June 22, 1987, in the request for obligation of funds made with respect to the loan.”
+Pub. L. 100–233, title VI, §615(b)(2), Jan. 6, 1988, 101 Stat. 1682, provided that: "Effective July 29, 1987, the interest rate charged on any loan of $2,000,000 or more made on such date under section 306 \[7 U.S.C. 1926\] to any nonprofit corporation shall be the interest rate quoted to such nonprofit corporation by the Farmers Home Administration on June 22, 1987, in the request for obligation of funds made with respect to the loan."
 
 #### Lease of Certain Acquired Property
 
-Pub. L. 100–233, title VI, §620, Jan. 6, 1988, 101 Stat. 1684, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture may lease to public or private nonprofit organizations, for a nominal rent, any facilities acquired in connection with the disposition of a loan made by the Secretary under section 306 \[7 U.S.C. 1926\]. Any such lease shall be for such reasonable period of time as the Secretary determines is appropriate.”
+Pub. L. 100–233, title VI, §620, Jan. 6, 1988, 101 Stat. 1684, provided that: "Notwithstanding any other provision of law, the Secretary of Agriculture may lease to public or private nonprofit organizations, for a nominal rent, any facilities acquired in connection with the disposition of a loan made by the Secretary under section 306 \[7 U.S.C. 1926\]. Any such lease shall be for such reasonable period of time as the Secretary determines is appropriate."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

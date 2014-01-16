@@ -20,5 +20,5 @@ Provisions similar to those in this section were contained in section 11712 of t
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before the effective date of this section”.
+<b>1996</b>—Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of this section" and "December 31, 1995" for "the day before the effective date of this section".
 

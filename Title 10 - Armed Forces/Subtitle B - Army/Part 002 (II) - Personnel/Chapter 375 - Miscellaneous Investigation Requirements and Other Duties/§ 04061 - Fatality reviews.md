@@ -2,7 +2,7 @@
 
 (a)
 
-Review of Fatalities.—The Secretary of the Army shall conduct a multidisciplinary, impartial review (referred to as a “fatality review”) in the case of each fatality known or suspected to have resulted from domestic violence or child abuse against any of the following:
+Review of Fatalities.—The Secretary of the Army shall conduct a multidisciplinary, impartial review (referred to as a "fatality review") in the case of each fatality known or suspected to have resulted from domestic violence or child abuse against any of the following:
 
 &emsp;(1) A member of the Army on active duty.
 
@@ -16,7 +16,7 @@ Matters To Be Included.—The report of a fatality review under subsection (a) s
 
 &emsp;(1) An executive summary.
 
-&emsp;(2) Data setting forth victim demographics, injuries, autopsy findings, homicide or suicide methods, weapons, police information, assailant demographics, and household and family information.
+&emsp;(2) Data setting forth victim demographics, injuries, autopsy findings, homicide or suicidemethods, weapons, police information, assailant demographics, and household and family information.
 
 &emsp;(3) Legal disposition.
 
@@ -34,5 +34,5 @@ Guidance.—The Secretary of Defense shall prescribe guidance, which shall be un
 
 #### Effective Date
 
-Pub. L. 108–136, div. A, title V, §576(d), Nov. 24, 2003, 117 Stat. 1488, provided that: “Sections 4061, 6036, and 9061 of title 10, United States Code, as added by this section, apply with respect to fatalities that occur on or after the date of the enactment of this Act \[Nov. 24, 2003\].”
+Pub. L. 108–136, div. A, title V, §576(d), Nov. 24, 2003, 117 Stat. 1488, provided that: "Sections 4061, 6036, and 9061 of title 10, United States Code, as added by this section, apply with respect to fatalities that occur on or after the date of the enactment of this Act \[Nov. 24, 2003\]."
 

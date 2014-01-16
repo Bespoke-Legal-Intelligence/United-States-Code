@@ -36,7 +36,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (B) New coverage
 
-&emsp;&emsp;Paragraphs (2) and (3) shall apply only with respect to any loan made, increased, extended, or renewed after the expiration of the 1-year period beginning on September 23, 1994. Paragraph (1) shall apply with respect to any loan made, increased, extended, or renewed by any lender supervised by the Farm Credit Administration only after the expiration of the period under this subparagraph.
+&emsp;&emsp;Paragraphs (2) and (3) shall apply only with respect to any loan made, increased,extended, or renewed after the expiration of the 1-year period beginning on September 23, 1994. Paragraph (1) shall apply with respect to any loan made, increased, extended, or renewed by any lender supervised by the Farm Credit Administration only after the expiration of the period under this subparagraph.
 
 #### (C) Continued effect of regulations
 
@@ -64,7 +64,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (7) Private flood insurance defined
 
-&emsp;In this subsection, the term “private flood insurance” means an insurance policy that—
+&emsp;In this subsection, the term "private flood insurance" means an insurance policy that—
 
 &emsp;&emsp;(A) is issued by an insurance company that is—
 
@@ -76,7 +76,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 &emsp;&emsp;(C) includes—
 
-&emsp;&emsp;&emsp;(i) a requirement for the insurer to give 45 days’ written notice of cancellation or non-renewal of flood insurance coverage to—
+&emsp;&emsp;&emsp;(i) a requirement for the insurer to give 45 days' written notice of cancellation or non-renewal of flood insurance coverage to—
 
 &emsp;&emsp;&emsp;&emsp;(I) the insured; and
 
@@ -108,7 +108,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (1) Regulated lending institutions
 
-&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\] for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.
+&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulatedlending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\] for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed.
 
 #### (2) Federal agency lenders
 
@@ -118,9 +118,9 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 &emsp;Escrow accounts established pursuant to this subsection shall be subject to the provisions of section 10 of the Real Estate Settlement Procedures Act of 1974 \[12 U.S.C. 2609\].
 
-#### (4) “Residential improved real estate” defined
+#### (4) "Residential improved real estate" defined
 
-&emsp;For purposes of this subsection, the term “residential improved real estate” means improved real estate for which the improvement is a residential building.
+&emsp;For purposes of this subsection, the term "residential improved real estate" means improved real estate for which the improvement is a residential building.
 
 #### (5) Applicability
 
@@ -156,7 +156,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (B) Effect of determination
 
-&emsp;&emsp;Any person to whom a borrower provides a letter issued by the Administrator pursuant to subparagraph (A), stating that the building or mobile home securing the loan of the borrower is not in an area having special flood hazards, shall have no obligation under this title <sup>2</sup> to require the purchase of flood insurance for such building or mobile home during the period determined by the Administrator, which shall be specified in the letter and shall begin on the date on which such letter is provided.
+&emsp;&emsp;Any person to whom a borrower provides a letter issued by the Administrator pursuantto subparagraph (A), stating that the building or mobile home securing the loan of the borrower is not in an area having special flood hazards, shall have no obligation under this title <sup>2</sup> to require the purchase of flood insurance for such building or mobile home during the period determined by the Administrator, which shall be specified in the letter and shall begin on the date on which such letter is provided.
 
 #### (C) Effect of failure to respond
 
@@ -192,9 +192,9 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 &emsp;&emsp;If the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation is found by the Director of the Federal Housing Finance Agency to have a pattern or practice of purchasing loans in violation of the procedures established pursuant to subsection (b)(3) of this section, the Director of such Office <sup>3</sup> shall assess a civil penalty against such enterprise in the amount provided under paragraph (5) of this subsection.
 
-#### (B) “Enterprise” defined
+#### (B) "Enterprise" defined
 
-&emsp;&emsp;For purposes of this subsection, the term “enterprise” means the Federal NationalMortgage Association or the Federal Home Loan Mortgage Corporation.
+&emsp;&emsp;For purposes of this subsection, the term "enterprise" means the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation.
 
 #### (4) Notice and hearing
 
@@ -288,7 +288,7 @@ The National Flood Insurance Act of 1968, referred to in subsecs. (a), (b), (d)(
 
 The Federal Financial Institutions Examination Council Act of 1974, referred to in subsec. (b)(1), probably means the Federal Financial Institutions Examination Council Act of 1978, Pub. L. 95–630, title X, Nov. 10, 1978, 92 Stat. 3694, which is classified principally to chapter 34 (§3301 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of Title 12 and Tables.
 
-Section 522(a) of Public Law 103–325, referred to in subsec. (b)(4)(C), was in original “section 522(a) of such Act”, which generally amended subsec. (b) of this section.
+Section 522(a) of Public Law 103–325, referred to in subsec. (b)(4)(C), was in original "section 522(a) of suchAct", which generally amended subsec. (b) of this section.
 
 This title, referred to in subsec. (e)(5)(B), (C), means title I of Pub. L. 93–234, Dec. 31, 1973, 87 Stat. 977, which enacted this section and section 4104 of this title and amended sections 4001, 4013 to 4016, 4026, 4054, 4056, and 4121 of this title.
 
@@ -298,61 +298,61 @@ Section was enacted as part of the Flood Disaster Protection Act of 1973, and no
 
 #### Amendments
 
-<b>2013</b>—Subsec. (d)(1)(A). Pub. L. 112–281 inserted “residential” before “improved real estate” in two places.
+<b>2013</b>—Subsec. (d)(1)(A). Pub. L. 112–281 inserted "residential" before "improved real estate" in two places.
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(a)(1), substituted “Administrator” for “Director”.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
-Subsec. (b)(1). Pub. L. 112–141, §100239(a)(1), substituted “; and” for period at end, substituted “institutions—” for “institutions”, inserted subpar. (A) designation before “not to make”, and added subpar. (B).
+Subsec. (b)(1). Pub. L. 112–141, §100239(a)(1), substituted "; and" for period at end, substituted "institutions—" for "institutions", inserted subpar. (A) designation before "not to make", and added subpar. (B).
 
-Pub. L. 112–141, §100238(a)(1), substituted “Administrator” for “Director”.
+Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
-Subsec. (b)(2). Pub. L. 112–141, §100239(a)(2), substituted “paragraph (1)(A)” for “paragraph (1)” in two places and inserted “Each Federal agency lender shall accept private flood insurance as satisfaction of the flood insurance coverage requirement under the preceding sentence if the flood insurance coverage provided by such private flood insurance meets the requirements for coverage under such sentence.” after first sentence.
+Subsec. (b)(2). Pub. L. 112–141, §100239(a)(2), substituted "paragraph (1)(A)" for "paragraph (1)" in two places and inserted "Each Federal agency lender shall accept private flood insurance as satisfaction of the flood insurance coverage requirement under the preceding sentence if the flood insurance coverage provided by such private flood insurance meets the requirements for coverage under such sentence." after first sentence.
 
-Pub. L. 112–141, §100238(a)(1), substituted “Administrator” for “Director”.
+Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
-Subsec. (b)(3). Pub. L. 112–141, §100239(a)(3), substituted “paragraph (1)(A). The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation shall accept private flood insurance as satisfaction of the flood insurance coverage requirement under paragraph (1)(A) if the flood insurance coverage provided by such private flood insurance meets the requirements for coverage under such paragraph and any requirements established by the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation, respectively, relating to the financial solvency, strength, or claims-paying ability of private insurance companies from which the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation will accept private flood insurance.” for “paragraph (1).” in concluding provisions.
+Subsec. (b)(3). Pub. L. 112–141, §100239(a)(3), substituted "paragraph (1)(A). The Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation shall accept private flood insurance as satisfaction of the flood insurance coverage requirement under paragraph (1)(A) if the flood insurance coverage provided by such private flood insurance meets the requirements for coverage under such paragraph and any requirements established by the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation, respectively, relating to the financial solvency, strength, or claims-paying ability of private insurance companies from which the Federal National Mortgage Association or the Federal Home Loan Mortgage Corporation will accept private flood insurance." for "paragraph (1)." in concluding provisions.
 
-Subsec. (b)(3)(A). Pub. L. 112–141, §100238(a)(1), substituted “Administrator” for “Director”.
+Subsec. (b)(3)(A). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
 Subsec. (b)(5) to (7). Pub. L. 112–141, §100239(a)(4), added pars. (5) to (7).
 
-Subsec. (c)(1). Pub. L. 112–141, §100238(a)(1), substituted “Administrator” for “Director” in two places.
+Subsec. (c)(1). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director" in two places.
 
-Subsec. (d)(1). Pub. L. 112–141, §100238(a)(1), substituted “Administrator” for “Director”.
+Subsec. (d)(1). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
-Pub. L. 112–141, §100209(a), amended par. (1) generally. Prior to amendment, text read as follows: “Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from theescrow account to the provider of the insurance the amount of insurance premiums owed.”
+Pub. L. 112–141, §100209(a), amended par. (1) generally. Prior to amendment, text read as follows: "Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require that, if a regulated lending institution requires the escrowing of taxes, insurance premiums, fees, or any other charges for a loan secured by residential improved real estate or a mobile home, then all premiums and fees for flood insurance under the National Flood Insurance Act of 1968 for the real estate or mobile home shall be paid to the regulated lending institution or other servicer for the loan in a manner sufficient to make payments as due for the duration of the loan. Upon receipt of the premiums, the regulated lending institution or servicer of the loan shall deposit the premiums in an escrow account on behalf of the borrower. Upon receipt of a notice from the Administrator or the provider of the insurance that insurance premiums are due, the regulated lending institution or servicer shall pay from the escrow account to the provider of the insurance the amount of insurance premiums owed."
 
-Subsec. (e)(1). Pub. L. 112–141, §100238(a)(1), substituted “Administrator” for “Director”.
+Subsec. (e)(1). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
-Subsec. (e)(2). Pub. L. 112–141, §100244(a)(1), substituted “purchasing the insurance, including premiums or fees incurred for coverage beginning on the date on which flood insurance coverage lapsed or did not provide a sufficient coverage amount” for “purchasing the insurance”.
+Subsec. (e)(2). Pub. L. 112–141, §100244(a)(1), substituted "purchasing the insurance, including premiums or fees incurred for coverage beginning on the date on which flood insurance coverage lapsed or did not provide a sufficient coverage amount" for "purchasing the insurance".
 
 Subsec. (e)(3). Pub. L. 112–141, §100244(a)(3), added par. (3). Former par. (3) redesignated (5).
 
-Subsec. (e)(3). Pub. L. 112–141, §100238(a)(1), substituted “Administrator” for “Director” wherever appearing.
+Subsec. (e)(3). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director" wherever appearing.
 
 Subsec. (e)(4) to (6). Pub. L. 112–141, §100244(a)(2), (3), added par. (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
 
-Subsec. (f)(5). Pub. L. 112–141, §100208, substituted “$2,000” for “$350” and struck out at end “The total amount of penalties assessed under this subsection against any single regulated lending institution or enterprise during any calendar year may not exceed $100,000.”
+Subsec. (f)(5). Pub. L. 112–141, §100208, substituted "$2,000" for "$350" and struck out at end "The total amount of penalties assessed under this subsection against any single regulated lending institution or enterprise during any calendar year may not exceed $100,000."
 
-Subsec. (h)(1)(B). Pub. L. 112–141, §100238(a)(1), substituted “Administrator” for “Director”.
+Subsec. (h)(1)(B). Pub. L. 112–141, §100238(a)(1), substituted "Administrator" for "Director".
 
-<b>2008</b>—Subsec. (f)(3)(A). Pub. L. 110–289 substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
+<b>2008</b>—Subsec. (f)(3)(A). Pub. L. 110–289 substituted "Director of the Federal Housing Finance Agency" for "Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development".
 
 <b>1994</b>—Pub. L. 103–325, §531, substituted section catchline for former section catchline.
 
-Subsec. (a). Pub. L. 103–325, §582(c), struck out “, during the anticipated economic or useful life of the project,” before “covered by flood insurance” and inserted at end “The requirement of maintaining flood insurance shall apply during the life of the property, regardless of transfer of ownership of such property.”
+Subsec. (a). Pub. L. 103–325, §582(c), struck out ", during the anticipated economic or useful life of the project," before "covered by flood insurance" and inserted at end "The requirement of maintaining flood insurance shall apply during the life of the property, regardless of transfer of ownership of such property."
 
-Subsec. (b). Pub. L. 103–325, §522(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions shall by regulation direct such institutions not to make, increase, extend, or renew after the expiration of sixty days following December 31, 1973, any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Director as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968, unless the building or mobile home and any personal property securing such loan is covered for the term of the loan by flood insurance in an amount at least equal to the outstanding principal balance of the loan or to the maximum limit of coverage made available with respect to the particular type of property under the Act, whichever is less.”
+Subsec. (b). Pub. L. 103–325, §522(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Each Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions shall by regulation direct such institutions not to make, increase, extend, or renew after the expiration of sixty days following December 31, 1973, any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Director as an area having special flood hazards and in which flood insurance has been made available under the National Flood Insurance Act of 1968, unless the building or mobile home and any personal property securing such loan is covered for the term of the loan by flood insurance in an amount at least equal to the outstanding principal balance of the loan or to the maximum limit of coverage made available with respect to the particular type of property under the Act, whichever is less."
 
 Subsec. (c). Pub. L. 103–325, §522(b), inserted heading, designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
 Subsecs. (d) to (h). Pub. L. 103–325, §§523–526, added subsecs. (d) to (h).
 
-<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary" wherever appearing.
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–141, div. F, title II, §100209(b), July 6, 2012, 126 Stat. 920, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any mortgage outstanding or entered into on or after the expiration of the 2-year period beginning on the date of enactment of this Act \[July 6, 2012\].”
+Pub. L. 112–141, div. F, title II, §100209(b), July 6, 2012, 126 Stat. 920, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any mortgage outstanding or entered into on or after the expiration of the 2-year period beginning on the date of enactment of this Act \[July 6, 2012\]."
 
 #### Effective Date of 1994 Amendment
 
@@ -364,11 +364,11 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-<i><sup>1</sup></i><i> So in original. The word “is” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "is" probably should not appear.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “Agency”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "Agency".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be followed by “of the National Flood Insurance Act of 1968”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be followed by "of the National Flood Insurance Act of 1968".</i>
 

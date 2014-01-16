@@ -26,9 +26,9 @@ Historical and Revision Notes
 
 May 21, 1932, ch. 200, §1 (proviso), 47 Stat. 163.
 
-The words “Theodore Roosevelt Association” are substituted for “Roosevelt Memorial Association” because of section 2 of the Act of May 21, 1953 (ch. 63, 36:210101 note).
+The words "Theodore Roosevelt Association" are substituted for "Roosevelt Memorial Association" because of section 2 of the Act of May 21, 1953 (ch. 63, 36:210101 note).
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–284 substituted “With” for “with” in heading.
+<b>2006</b>—Subsec. (b). Pub. L. 109–284 substituted "With" for "with" in heading.
 

@@ -2,13 +2,13 @@
 
 #### (a) Funding agreement required
 
-The Secretary shall negotiate and enter into a written funding agreement with each Indian tribe participating in self-governance in a manner consistent with the Federal Government'strust responsibility, treaty obligations, and the government-to-government relationship between Indian tribes and the United States.
+The Secretary shall negotiate and enter into a written funding agreement with each Indian tribe participating in self-governance in a manner consistent with the Federal Government's trust responsibility, treaty obligations, and the government-to-government relationship between Indian tribes and the United States.
 
 #### (b) Contents
 
 #### (1) In general
 
-&emsp;Each funding agreement required under subsection (a) of this section shall, as determined by the Indian tribe, authorize the Indian tribe to plan, conduct, consolidate, administer, and receive full tribal share funding, including tribal shares of discretionary Indian Health Service competitive grants (excluding congressionally earmarked competitive grants), for all programs, services, functions, and activities (or portions thereof), that are carried out for the benefit of Indians because of their status as Indians without regard to the agency or office of the Indian Health Service within which the program, service, function, or activity (or portion thereof) is performed.
+&emsp;Each funding agreement required under subsection (a) of this section shall, as determined by the Indian tribe, authorize the Indian tribe to plan, conduct, consolidate, administer, and receive full tribal share funding, including tribal shares of discretionary Indian Health Service competitive grants (excluding congressionally earmarked competitive grants), for all programs, services, functions, and activities (or portions thereof), that are carriedout for the benefit of Indians because of their status as Indians without regard to the agency or office of the Indian Health Service within which the program, service, function, or activity (or portion thereof) is performed.
 
 #### (2) Inclusion of certain programs, services, functions, and activities
 
@@ -76,7 +76,7 @@ Act of August 5, 1954, referred to in subsec. (b)(2)(C), is act Aug. 5, 1954, ch
 
 The Indian Health Care Improvement Act, referred to in subsec. (b)(2)(D), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended, which is classified principally to chapter 18 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (b)(2)(E), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, as amended, which is classified generally to chapter 26 (§2401 et seq.) of this title. For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
+The Indian Alcohol and Substance Abuse Prevention and Treatment Act of 1986, referred to in subsec. (b)(2)(E), is subtitle C of title IV of Pub. L. 99–570, Oct. 27, 1986, 100 Stat. 3207–137, as amended, which is classified generally to chapter 26 (§2401 et seq.) of this title.For complete classification of subtitle C to the Code, see Short Title note set out under section 2401 of this title and Tables.
 
 Title III, referred to in subsec. (f), means title III of Pub. L. 93–638, as added by Pub. L. 100–472, title II, §209, Oct. 5, 1988, 102 Stat. 2296, and amended, which was set out as a note under section 450f of this title prior to repeal by Pub. L. 106–260, §10, Aug. 18, 2000, 114 Stat. 734.
 

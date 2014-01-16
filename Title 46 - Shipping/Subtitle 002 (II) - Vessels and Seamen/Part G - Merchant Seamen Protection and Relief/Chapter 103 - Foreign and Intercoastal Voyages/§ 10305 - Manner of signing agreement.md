@@ -22,15 +22,15 @@ Section 10305 describes the procedures for signing the shipping agreement, and f
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–206 struck out “(a)” before “The agreement”, substituted “the master or individual in charge” for “a shipping commissioner” in par. (2), and struck out subsecs. (b) and (c) which read as follows:
+<b>1993</b>—Pub. L. 103–206 struck out "(a)" before "The agreement", substituted "the master or individual in charge" for "a shipping commissioner" in par. (2), and struck out subsecs. (b) and (c) which read as follows:
 
-“(b) When the crew is first engaged, the agreement shall be signed in duplicate. One of the copies shall be retained by the shipping commissioner. The other copy shall contain space for the description and signatures of seamen engaged subsequent to the first making of the agreement, and shall be delivered to the master.
+"(b) When the crew is first engaged, the agreement shall be signed in duplicate. One of the copies shall be retained by the shipping commissioner. The other copy shall contain space for the description and signatures of seamen engaged subsequent to the first making of the agreement, and shall be delivered to the master.
 
-“(c) An agreement signed before a shipping commissioner shall be acknowledged and signed by the commissioner on the agreement in the manner and form prescribed by regulation. The acknowledgment and certification shall include a statement by the commissioner that the seaman—
+"(c) An agreement signed before a shipping commissioner shall be acknowledged and signed by the commissioner on the agreement in the manner and form prescribed by regulation. The acknowledgment and certification shall include a statement by the commissioner that the seaman—
 
-&emsp;“(1) has read the agreement;
+&emsp;"(1) has read the agreement;
 
-&emsp;“(2) is acquainted with and understands its conditions; and
+&emsp;"(2) is acquainted with and understands its conditions; and
 
-&emsp;“(3) has signed it freely and voluntarily when sober.”
+&emsp;"(3) has signed it freely and voluntarily when sober."
 

@@ -44,7 +44,7 @@
 
 &emsp;(i) in the case of a substance with respect to which notice is required under subsection (a)(1)(A) of this section, the manufacture, processing, distribution in commerce, use, and disposal of the chemical substance or any combination of such activities will not present an unreasonable risk of injury to health or the environment, or
 
-&emsp;(ii) in the case of a chemical substance with respect to which notice is required under subsection (a)(1)(B) of this section, the intended significant new use of the chemical substance will not present an unreasonable risk of injury to health or the environment.
+&emsp;(ii) in the case of a chemical substance with respect to which notice is required under subsection (a)(1)(B) of this section, the intended significant new use of the chemical substancewill not present an unreasonable risk of injury to health or the environment.
 
 (3) Data submitted under paragraph (1) or (2) shall be made available, subject to section 2613 of this title, for examination by interested persons.
 
@@ -58,7 +58,7 @@
 
 (B) The Administrator shall, in prescribing a rule under subparagraph (A) which lists any chemical substance, identify those uses, if any, which the Administrator determines, by rule under subsection (a)(2) of this section, would constitute a significant new use of such substance.
 
-(C) Any rule under subparagraph (A), and any substantive amendment or repeal of such a rule, shall be promulgated pursuant to the procedures specified in section 553 of title 5, except that (i) the Administrator shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions, (ii) a transcript shall be kept of any oral presentation,and (iii) the Administrator shall make and publish with the rule the finding described in subparagraph (A).
+(C) Any rule under subparagraph (A), and any substantive amendment or repeal of such a rule, shall be promulgated pursuant to the procedures specified in section 553 of title 5, except that (i) the Administrator shall give interested persons an opportunity for the oral presentation of data, views, or arguments, in addition to an opportunity to make written submissions, (ii) a transcript shall be kept of any oral presentation, and (iii) the Administrator shall make and publish with the rule the finding described in subparagraph (A).
 
 #### (c) Extension of notice period
 
@@ -110,7 +110,7 @@ The Administrator may for good cause extend for additional periods (not to excee
 
 &emsp;(II) the Administrator issues such an order respecting such substance but such order does not take effect because objections were filed under paragraph (1)(C) with respect to it,
 
-> the Administrator, through attorneys of the Environmental Protection Agency, shall apply tothe United States District Court for the District of Columbia or the United States district court for the judicial district in which the manufacturer or processor, as the case may be, of such substance is found, resides, or transacts business for an injunction to prohibit or limit the manufacture, processing, distribution in commerce, use, or disposal of such substance (or to prohibit or limit any combination of such activities).
+> the Administrator, through attorneys of the Environmental Protection Agency, shall apply to the United States District Court for the District of Columbia or the United States district court for the judicial district in which the manufacturer or processor, as the case may be, of such substance is found, resides, or transacts business for an injunction to prohibit or limit the manufacture, processing, distribution in commerce, use, or disposal of such substance (or to prohibit or limit any combination of such activities).
 
 (ii) If the Administrator issues a proposed order under paragraph (1)(A) respecting a chemical substance but such order does not take effect because objections have been filed under paragraph (1)(C) with respect to it, the Administrator is not required to apply for an injunction under clause (i) respecting such substance if the Administrator determines, on the basis of such objections, that the determinations under paragraph (1)(A) may not be made.
 
@@ -148,7 +148,7 @@ The Administrator may for good cause extend for additional periods (not to excee
 
 > A proposed order issued under clause (i) respecting a chemical substance shall take effect on the expiration of the notification period applicable under subsection (a), (b), or (c) of this section to the manufacture or processing of such substance.
 
-(B) If the district court of the United States to which an application has been made under subparagraph (A)(ii) finds that there is a reasonable basis to conclude that the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance with respect to which such application was made, or that any combination of such activities, presents or will present an unreasonable risk of injury to health or the environment before a rule promulgatedunder section 2605 of this title can protect against such risk, the court shall issue an injunction to prohibit the manufacture, processing, or distribution in commerce of such substance or to prohibit any combination of such activities.
+(B) If the district court of the United States to which an application has been made under subparagraph (A)(ii) finds that there is a reasonable basis to conclude that the manufacture, processing, distribution in commerce, use, or disposal of the chemical substance with respect to which such application was made, or that any combination of such activities, presents or will present an unreasonable risk of injury to health or the environment before a rule promulgated under section 2605 of this title can protect against such risk, the court shall issue an injunction to prohibit the manufacture, processing, or distribution in commerce of such substance or to prohibit any combination of such activities.
 
 (C) The provisions of subparagraphs (B) and (C) of subsection (e)(1) of this section shall apply with respect to an order issued under clause (i) of subparagraph (A); and the provisions of subparagraph (C) of subsection (e)(2) of this section shall apply with respect to an injunction issued under subparagraph (B).
 
@@ -176,7 +176,7 @@ If the Administrator has not initiated any action under this section or section 
 
 (B) If the Administrator exempts any person, under subparagraph (A), from submitting data required under subsection (b)(2) of this section for a chemical substance because of the existence of previously submitted data and if such exemption is granted during the reimbursement period for such data, then (unless such person and the persons referred to in clauses (i) and (ii) agree on the amount and method of reimbursement) the Administrator shall order the person granted the exemption to provide fair and equitable reimbursement (in an amount determined under rules of the Administrator)—
 
-&emsp;(i) to the person who previously submitted the data on which the exemption was based, for a portion of the costs incurred by such person in complying with the requirement under subsection (b)(2) of this section to submit such data, and
+&emsp;(i) to the person who previously submitted the data on which the exemption was based,for a portion of the costs incurred by such person in complying with the requirement under subsection (b)(2) of this section to submit such data, and
 
 &emsp;(ii) to any other person who has been required under this subparagraph to contribute with respect to such costs, for a portion of the amount such person was required to contribute.
 
@@ -194,7 +194,7 @@ If the Administrator has not initiated any action under this section or section 
 
 > &emsp;whichever is later.
 
-(3) The requirements of subsections (a) and (b) of this section do not apply with respect to themanufacturing or processing of any chemical substance which is manufactured or processed, or proposed to be manufactured or processed, only in small quantities (as defined by the Administrator by rule) solely for purposes of—
+(3) The requirements of subsections (a) and (b) of this section do not apply with respect to the manufacturing or processing of any chemical substance which is manufactured or processed, or proposed to be manufactured or processed, only in small quantities (as defined by the Administrator by rule) solely for purposes of—
 
 &emsp;(A) scientific experimentation or analysis, or
 
@@ -208,9 +208,9 @@ If the Administrator has not initiated any action under this section or section 
 
 (6) Immediately upon receipt of an application under paragraph (1) or (5) the Administrator shall publish in the Federal Register notice of the receipt of such application. The Administrator shall give interested persons an opportunity to comment upon any such application and shall, within 45 days of its receipt, either approve or deny the application. The Administrator shall publish in the Federal Register notice of the approval or denial of such an application.
 
-#### (i) “Manufacture” and “process” defined
+#### (i) "Manufacture" and "process" defined
 
-For purposes of this section, the terms “manufacture” and “process” mean manufacturing or processing for commercial purposes.
+For purposes of this section, the terms "manufacture" and "process" mean manufacturing or processing for commercial purposes.
 
 (Pub. L. 94–469, title I, §5, Oct. 11, 1976, 90 Stat. 2012; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 

@@ -34,7 +34,7 @@ Congress urges the President to intensify diplomatic efforts, both in appropriat
 
 #### (b) Reports to Congress
 
-Not later than 180 days after August 10, 2012, and every 180 days thereafter, the President shall submit to the appropriate congressional committees a report on the extent to which diplomatic efforts described in subsection (a) have been successful that includes—
+Not later than 180 days after August 10, 2012, and every 180 days thereafter, the Presidentshall submit to the appropriate congressional committees a report on the extent to which diplomatic efforts described in subsection (a) have been successful that includes—
 
 &emsp;(1) an identification of the countries that have agreed to impose sanctions or take other measures to further the policy set forth in subsection (a);
 
@@ -44,7 +44,7 @@ Not later than 180 days after August 10, 2012, and every 180 days thereafter, th
 
 &emsp;(4) an identification of the countries that have not agreed to impose such sanctions or measures, including such countries granted exceptions for significant reductions in crude oil purchases pursuant to such section 8513a(d)(4)(D);
 
-&emsp;(5) recommendations for additional measures that the United States could take to furtherdiplomatic efforts described in subsection (a); and
+&emsp;(5) recommendations for additional measures that the United States could take to further diplomatic efforts described in subsection (a); and
 
 &emsp;(6) the disposition of any decision with respect to sanctions imposed with respect to Iran by the World Trade Organization or its predecessor organization.
 

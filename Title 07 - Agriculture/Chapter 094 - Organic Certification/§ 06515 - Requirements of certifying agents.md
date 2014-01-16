@@ -74,5 +74,5 @@ A certifying agent that is a private person shall nominate the individual who co
 
 #### Amendments
 
-<b>1991</b>—Subsec. (j)(2). Pub. L. 102–237 substituted “such certifying” for “certifying such”.
+<b>1991</b>—Subsec. (j)(2). Pub. L. 102–237 substituted "such certifying" for "certifying such".
 

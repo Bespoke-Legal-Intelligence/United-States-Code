@@ -18,5 +18,5 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### Codification
 
-Section was enacted as part of the Food Allergen Labeling and Consumer Protection Act of 2004, and not aspart of the Public Health Service Act which comprises this chapter.
+Section was enacted as part of the Food Allergen Labeling and Consumer Protection Act of 2004, and not as part of the Public Health Service Act which comprises this chapter.
 

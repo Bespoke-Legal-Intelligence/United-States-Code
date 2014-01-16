@@ -26,17 +26,17 @@ Section was enacted as part of the America COMPETES Reauthorization Act of 2010,
 
 #### Definitions
 
-Pub. L. 111–358, title IV, §409, Jan. 4, 2011, 124 Stat. 4004, provided that: “In this title \[enacting this section and sections 273a and 278n–2 of this title, amending sections 274, 278g–1, 278g–2, 278g–2a, and 278k of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees, and repealing section 1533 of this title and provisions set out as a note under section 278k of this title\]:
+Pub. L. 111–358, title IV, §409, Jan. 4, 2011, 124 Stat. 4004, provided that: "In this title \[enacting this section and sections 273a and 278n–2 of this title, amending sections 274, 278g–1, 278g–2, 278g–2a, and 278k of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees, and repealing section 1533 of this title and provisions set out as a note under section 278k of this title\]:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Director.—The term ‘Director’ means the Director of the National Institute of Standards and Technology.
+Director.—The term 'Director' means the Director of the National Institute of Standards and Technology.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Federal agency.—The term ‘Federal agency’ has the meaning given such term in section 4 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703).
+Federal agency.—The term 'Federal agency' has the meaning given such term in section 4 of the Stevenson-Wydler Technology Innovation Act of 1980 (15 U.S.C. 3703).
 
-&emsp;“(3)
+&emsp;"(3)
 
-High performance green building.—The term ‘high performance green building’ has the meaning given that term by section 401(13) of the Energy Independence and Security Act of 2009 \[probably should be “2007”\] (42 U.S.C. 17061(13)).”
+High performance green building.—The term 'high performance green building' has the meaning given that term by section 401(13) of the Energy Independence and Security Act of 2009 \[probably should be "2007"\] (42 U.S.C. 17061(13))."
 

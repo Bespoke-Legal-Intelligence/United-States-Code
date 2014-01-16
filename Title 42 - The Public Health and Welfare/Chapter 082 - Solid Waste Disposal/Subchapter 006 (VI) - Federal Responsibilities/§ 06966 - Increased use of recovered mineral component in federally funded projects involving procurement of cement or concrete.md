@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Agency head
 
-&emsp;The term “agency head” means—
+&emsp;The term "agency head" means—
 
 &emsp;&emsp;(A) the Secretary of Transportation; and
 
@@ -14,7 +14,7 @@ In this section:
 
 #### (2) Cement or concrete project
 
-&emsp;The term “cement or concrete project” means a project for the construction or maintenance of a highway or other transportation facility or a Federal, State, or local government building or other public facility that—
+&emsp;The term "cement or concrete project" means a project for the construction or maintenance of a highway or other transportation facility or a Federal, State, or local government building or other public facility that—
 
 &emsp;&emsp;(A) involves the procurement of cement or concrete; and
 
@@ -22,7 +22,7 @@ In this section:
 
 #### (3) Recovered mineral component
 
-&emsp;The term “recovered mineral component” means—
+&emsp;The term "recovered mineral component" means—
 
 &emsp;&emsp;(A) ground granulated blast furnace slag, excluding lead slag;
 

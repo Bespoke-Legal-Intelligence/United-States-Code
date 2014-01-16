@@ -24,7 +24,7 @@ Such effective date, and the effective date of this section, referred to in subs
 
 #### Effective Date
 
-Section effective 6 months after Aug. 10, 1987, or on such later date as the Secretary of the Treasury may prescribe in regulations, see section 1006 of Pub. L. 100–86, set out as an Effective Date of 1987 Amendment note under section 3328 of this title.
+Section effective 6 months after Aug. 10, 1987, or on such later date as the Secretary of the Treasury may prescribe in regulations, see section 1006 of Pub. L.100–86, set out as an Effective Date of 1987 Amendment note under section 3328 of this title.
 
 #### Regulations
 

@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–273, §4002(e)(9)(A), substituted “this chapter” for “this section”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273, §4002(e)(9)(A), substituted "this chapter" for "this section".
 
-Subsec. (b). Pub. L. 107–273, §4002(e)(9)(B), substituted “this section” for “this subsection”.
+Subsec. (b). Pub. L. 107–273, §4002(e)(9)(B), substituted "this section" for "this subsection".
 

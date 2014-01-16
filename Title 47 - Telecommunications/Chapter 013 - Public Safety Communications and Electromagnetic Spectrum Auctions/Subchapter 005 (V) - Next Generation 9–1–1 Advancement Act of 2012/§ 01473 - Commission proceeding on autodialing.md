@@ -16,7 +16,7 @@ The Commission shall issue regulations, after providing the public with notice a
 
 &emsp;(4) protect the list of registered numbers from disclosure or dissemination by parties granted access to the registry; and
 
-&emsp;(5) prohibit the use of automatic dialing or “robocall” equipment to establish contact with registered numbers.
+&emsp;(5) prohibit the use of automatic dialing or "robocall" equipment to establish contact with registered numbers.
 
 #### (c) Enforcement
 

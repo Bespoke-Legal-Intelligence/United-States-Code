@@ -6,7 +6,7 @@ The Attorney General shall by regulation remove from exemption under section 802
 
 #### (b) Factors to be considered
 
-In removing a drug or group of drugs from exemption under subsection (a) of this section, the Attorney General shall consider, with respect to a drug or group of drugs that is proposed to be removed from exemption—
+In removing a drug or group of drugs from exemption under subsection (a) of this section, the Attorney General shall consider, with respect toa drug or group of drugs that is proposed to be removed from exemption—
 
 &emsp;(1) the scope, duration, and significance of the diversion;
 
@@ -48,7 +48,7 @@ The Attorney General shall limit the designation of a drug or a group of drugs r
 
 #### (4) Amendment and modification
 
-&emsp;A regulation reinstating an exemption under paragraph (1) may be modified or revoked withrespect to a particular drug product upon a finding that—
+&emsp;A regulation reinstating an exemption under paragraph (1) may be modified or revoked with respect to a particular drug product upon a finding that—
 
 &emsp;&emsp;(A) applying the factors described in subsection (b) of this section to the drug product, the drug product is being diverted; or
 
@@ -58,7 +58,7 @@ The Attorney General shall limit the designation of a drug or a group of drugs r
 
 #### Amendments
 
-<b>2006</b>—Subsec. (e). Pub. L. 109–177 struck out subsec. (e). Text read as follows: “Pursuant to subsection (d)(1) of this section, the Attorney General shall by regulation reinstate the exemption with respect to a particular ephedrine, pseudoephedrine, or phenylpropanolamine drug product if the Attorney General determines that the drug product is manufactured and distributed in a manner that prevents diversion. In making this determination the Attorney General shall consider the factors listed in subsection (d)(2) of this section. Any regulation issued pursuant to this subsection may be amended or revoked based on the factors listed in subsection (d)(4) of this section.”
+<b>2006</b>—Subsec. (e). Pub. L. 109–177 struck out subsec. (e). Text read as follows: "Pursuant to subsection (d)(1) of this section, the Attorney General shall by regulation reinstate the exemption with respect to a particular ephedrine, pseudoephedrine, or phenylpropanolamine drug product if the Attorney General determines that the drug product is manufactured and distributed in a manner that prevents diversion. In making this determination the Attorney General shall consider the factors listed in subsection (d)(2) of this section. Any regulation issued pursuant to this subsection may be amended or revoked based on the factors listed in subsection (d)(4) of this section."
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–237 added subsec. (e).
 

@@ -18,7 +18,7 @@ Content of Notice.—The notice required by section 1708 of title 41 and section
 
 Required Content of Solicitation and Contract.—(1) The solicitation for the proposed task order contract shall include the information (regarding services) described in section 2304a(b) of this title.
 
-(2) A task order contract entered into under this section shall contain the same informationthat is required by paragraph (1) to be included in the solicitation of offers for that contract.
+(2) A task order contract entered into under this section shall contain the same information that is required by paragraph (1) to be included in the solicitation of offers for that contract.
 
 (e)
 
@@ -56,13 +56,13 @@ Inapplicability to Certain Contracts.—This section does not apply to a contrac
 
 (i)
 
-Advisory and Assistance Services Defined.—In this section, the term “advisory and assistance services” has the meaning given such term in section 1105(g) of title 31.
+Advisory and Assistance Services Defined.—In this section, the term "advisory and assistance services" has the meaning given such term in section 1105(g) of title 31.
 
 (Added Pub. L. 103–355, title I, §1004(a)(1), Oct. 13, 1994, 108 Stat. 3251; amended Pub. L. 111–350, §5(b)(13), Jan. 4, 2011, 124 Stat. 3843.)
 
 #### Amendments
 
-<b>2011</b>—Subsecs. (c), (f)(3). Pub. L. 111–350 substituted “section 1708 of title 41” for “section 18 of the Office of Federal Procurement Policy Act (41 U.S.C. 416)”.
+<b>2011</b>—Subsecs. (c), (f)(3). Pub. L. 111–350 substituted "section 1708 of title 41" for "section 18 of the Office of Federal Procurement Policy Act (41 U.S.C. 416)".
 
 #### Effective Date
 
@@ -76,117 +76,117 @@ This section not to be construed as modifying or superseding, or as intended to 
 
 Pub. L. 109–364, div. A, title VIII, §834, Oct. 17, 2006, 120 Stat. 2332, provided that:
 
-“(a)
+"(a)
 
 Defense Contracts.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Waiver authority.—The head of an agency may issue a waiver to extend a task order contract entered into under section 2304b of title 10, United States Code, for a period not exceeding 10 years, through five one-year options, if the head of the agency determines in writing—
 
-&emsp;&emsp;“(A) that the contract provides engineering or technical services of such a unique and substantial technical nature that award of a new contract would be harmful to the continuity of the program for which the services are performed;
+&emsp;&emsp;"(A) that the contract provides engineering or technical services of such a unique and substantial technical nature that award of a new contract would be harmful to the continuity of the program for which the services are performed;
 
-&emsp;&emsp;“(B) that award of a new contract would create a large disruption in services provided to the Department of Defense; and
+&emsp;&emsp;"(B) that award of a new contract would create a large disruption in services provided to the Department of Defense; and
 
-&emsp;&emsp;“(C) that the Department of Defense would, through award of a new contract, endure program risk during critical program stages due to loss of program corporate knowledge of ongoing program activities.
+&emsp;&emsp;"(C) that the Department of Defense would, through award of a new contract, endure program risk during critical program stages due to loss of program corporate knowledge of ongoing program activities.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Delegation.—The authority of the head of an agency under paragraph (1) may be delegated only to the senior procurement executive of the agency.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Report.—Not later than April 1, 2007, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on advisory and assistance services. The report shall include the following information:
 
-&emsp;&emsp;“(A) The methods used by the Department of Defense to identify a contract as an advisory and assistance services contract, as defined in section 2304b of title 10, United States Code.
+&emsp;&emsp;"(A) The methods used by the Department of Defense to identify a contract as an advisory and assistance services contract, as defined in section 2304b of title 10, United States Code.
 
-&emsp;&emsp;“(B) The number of such contracts awarded by the Department during the five-year period preceding the date of the enactment of this Act \[Oct. 17, 2006\].
+&emsp;&emsp;"(B) The number of such contracts awarded by the Department during the five-year period preceding the date of the enactment of this Act \[Oct. 17, 2006\].
 
-&emsp;&emsp;“(C) The average annual expenditures by the Department for such contracts.
+&emsp;&emsp;"(C) The average annual expenditures by the Department for such contracts.
 
-&emsp;&emsp;“(D) The average length of such contracts.
+&emsp;&emsp;"(D) The average length of such contracts.
 
-&emsp;&emsp;“(E) The number of such contracts recompeted and awarded to the previous award winner.
+&emsp;&emsp;"(E) The number of such contracts recompeted and awarded to the previous award winner.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Prohibition on use of authority by department of defense if report not submitted.—The head of an agency may not issue a waiver under paragraph (1) if the report required by paragraph (3) is not submitted by the date set forth in that paragraph.
 
-“(b)
+"(b)
 
 Civilian Agency Contracts.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Waiver authority.—The head of an executive agency may issue a waiver to extend a task order contract entered into under section 303I of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 253i) \[see 41 U.S.C. 4105\] for a period not exceeding 10 years, through five one-year options, if the head of the agency determines in writing—
 
-&emsp;&emsp;“(A) that the contract provides engineering or technical services of such a unique and substantial technical nature that award of a new contract would be harmful to the continuity of the program for which the services are performed;
+&emsp;&emsp;"(A) that the contract provides engineering or technical services of such a unique and substantial technical nature that award of a new contract would be harmful to the continuity of the program for which the services are performed;
 
-&emsp;&emsp;“(B) that award of a new contract would create a large disruption in services provided to the executive agency; and
+&emsp;&emsp;"(B) that award of a new contract would create a large disruption in services provided to the executive agency; and
 
-&emsp;&emsp;“(C) that the executive agency would, through award of a new contract, endure program risk during critical program stages due to loss of program corporate knowledge of ongoing program activities.
+&emsp;&emsp;"(C) that the executive agency would, through award of a new contract, endure program risk during critical program stages due to loss of program corporate knowledge of ongoing program activities.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Delegation.—The authority of the head of an executive agency under paragraph (1) may be delegated only to the Chief Acquisition Officer of the agency (or the senior procurement executive in the case of an agency for which a Chief Acquisition Officer has not been appointed or designated under section 16(a) of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 414(a)) \[now 41 U.S.C. 1702(a), (b)(1), (2)\]).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Report.—Not later than April 1, 2007, the Administrator for Federal Procurement Policy shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives a report on advisory and assistance services. The report shall include the following information:
 
-&emsp;&emsp;“(A) The methods used by executive agencies to identify a contract as an advisory and assistance services contract, as defined in section 303I(i) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 253i(i)) \[now 41 U.S.C. 4105(a)\].
+&emsp;&emsp;"(A) The methods used by executive agencies to identify a contract as an advisory and assistance services contract, as defined in section 303I(i) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 253i(i)) \[now 41 U.S.C. 4105(a)\].
 
-&emsp;&emsp;“(B) The number of such contracts awarded by each executive agency during the five-year period preceding the date of the enactment of this Act \[Oct. 17, 2006\].
+&emsp;&emsp;"(B) The number of such contracts awarded by each executive agency during the five-year period preceding the date of the enactment of this Act \[Oct. 17, 2006\].
 
-&emsp;&emsp;“(C) The average annual expenditures by each executive agency for such contracts.
+&emsp;&emsp;"(C) The average annual expenditures by each executive agency for such contracts.
 
-&emsp;&emsp;“(D) The average length of such contracts.
+&emsp;&emsp;"(D) The average length of such contracts.
 
-&emsp;&emsp;“(E) The number of such contracts recompeted and awarded to the previous award winner.
+&emsp;&emsp;"(E) The number of such contracts recompeted and awarded to the previous award winner.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Prohibition on use of authority by executive agencies if report not submitted.—The head of an executive agency may not issue a waiver under paragraph (1) if the report required by paragraph (3) is not submitted by the date set forth in that paragraph.
 
-“(c)
+"(c)
 
 Termination of Authority.—A waiver may not be issued under this section after December 31, 2011.
 
-“(d)
+"(d)
 
 Comptroller General Review.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Report requirement.—Not later than one year after the date of the enactment of this Act \[Oct. 17, 2006\], the Comptroller General shall submit to the committees described in paragraph (3) a report on the use of advisory and assistance services contracts by the Federal Government.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Defense and civilian agency contracts covered.—The report shall cover both of the following:
 
-&emsp;&emsp;“(A) Advisory and assistance services contracts as defined in section 2304b of title 10, United States Code.
+&emsp;&emsp;"(A) Advisory and assistance services contracts as defined in section 2304b of title 10, United States Code.
 
-&emsp;&emsp;“(B) Advisory and assistance services contracts as defined in section 303I(i) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 253i(i)) \[now 41 U.S.C. 4105(a)\].
+&emsp;&emsp;"(B) Advisory and assistance services contracts as defined in section 303I(i) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 253i(i)) \[now 41 U.S.C. 4105(a)\].
 
-&emsp;“(3)
+&emsp;"(3)
 
 Matters covered.—The report shall address the following issues:
 
-&emsp;&emsp;“(A) The extent to which executive agencies and elements of the Department of Defense require advisory and assistance services for periods of greater than five years.
+&emsp;&emsp;"(A) The extent to which executive agencies and elements of the Department of Defense require advisory and assistance services for periods of greater than five years.
 
-&emsp;&emsp;“(B) The extent to which such advisory and assistance services are provided by the same contractors under recurring contracts.
+&emsp;&emsp;"(B) The extent to which such advisory and assistance services are provided by the same contractors under recurring contracts.
 
-&emsp;&emsp;“(C) The rationale for contracting for advisory and assistance services that will be needed on a continuing basis, rather than performing the services inside the Federal Government.
+&emsp;&emsp;"(C) The rationale for contracting for advisory and assistance services that will be needed on a continuing basis, rather than performing the services inside the Federal Government.
 
-&emsp;&emsp;“(D) The contract types and oversight mechanisms used by the Federal Government in contracts for advisory and assistance services and the extent to which such contract types and oversight mechanisms are adequate to protect the interests of the Government and taxpayers.
+&emsp;&emsp;"(D) The contract types and oversight mechanisms used by the Federal Government in contracts for advisory and assistance services and the extent to which such contract types and oversight mechanisms are adequate to protect the interests of the Government and taxpayers.
 
-&emsp;&emsp;“(E) The actions taken by the Federal Government to prevent organizational conflicts of interest and improper personal services contracts in its contracts for advisory and assistance services.
+&emsp;&emsp;"(E) The actions taken by the Federal Government to prevent organizational conflicts of interest and improper personal services contracts in its contracts for advisory and assistance services.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Committees.—The committees described in this paragraph are the following:
 
-&emsp;&emsp;“(A) The Committees on Armed Services and on Homeland Security and Governmental Affairs of the Senate.
+&emsp;&emsp;"(A) The Committees on Armed Services and on Homeland Security and Governmental Affairs of the Senate.
 
-&emsp;&emsp;“(B) The Committees on Armed Services and on Government Reform \[now Oversight and Government Reform\] of the House of Representatives.”
+&emsp;&emsp;"(B) The Committees on Armed Services and on Government Reform \[now Oversight and Government Reform\] of the House of Representatives."
 

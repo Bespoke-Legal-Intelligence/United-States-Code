@@ -10,7 +10,7 @@ Assistance made available under this section shall be used for direct assistance
 
 #### (c) Limitation on grant amounts
 
-A resident capacity grant under subsection (d) of this section may not exceed $30,000 per projectand a grant under subsection (e) of this section for predevelopment costs may not exceed $200,000 per project, exclusive of any fees paid to a participating intermediary by the Secretary for administering the program.
+A resident capacity grant under subsection (d) of this section may not exceed $30,000 per project and a grant under subsection (e) of this section for predevelopment costs may not exceed $200,000 per project, exclusive of any fees paid to a participating intermediary by the Secretary for administering the program.
 
 #### (d) Resident capacity grants
 
@@ -52,5 +52,5 @@ Title II of the Emergency Low Income Housing Preservation Act of 1987, referred 
 
 Section 604 of the Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (d)(2), is section 604 of Pub. L. 101–625, which is set out as a note under section 4101 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

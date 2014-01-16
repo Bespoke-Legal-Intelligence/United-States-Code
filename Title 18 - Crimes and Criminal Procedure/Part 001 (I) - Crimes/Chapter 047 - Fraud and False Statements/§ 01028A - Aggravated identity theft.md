@@ -26,7 +26,7 @@ Consecutive Sentence.—Notwithstanding any other provision of law—
 
 (c)
 
-Definition.—For purposes of this section, the term “felony violation enumerated in subsection (c)” means any offense that is a felony violation of—
+Definition.—For purposes of this section, the term "felony violation enumerated in subsection (c)" means any offense that is a felony violation of—
 
 &emsp;(1) section 641 (relating to theft of public money, property, or rewards <sup>1</sup>), section 656 (relating to theft, embezzlement, or misapplication by bank officer or employee), or section 664 (relating to theft from employee benefit plans);
 
@@ -58,5 +58,5 @@ The Immigration and Nationality Act, referred to in subsec. (c)(10), is act June
 
 The Social Security Act, referred to in subsec. (c)(11), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “records”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "records".</i>
 

@@ -22,5 +22,5 @@ A prior section 271 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1052,
 
 For waiver of application of the dual compensation reduction provisions of this section for temporary employees during an emergency, see Ex. Ord. No. 13236, Nov. 27, 2001, 66 F.R. 59671, set out as a note under section 2141 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “2051(c)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "2051(c)".</i>
 

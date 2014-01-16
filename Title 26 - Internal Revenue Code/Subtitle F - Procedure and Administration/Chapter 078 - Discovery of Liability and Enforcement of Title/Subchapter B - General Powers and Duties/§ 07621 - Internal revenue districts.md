@@ -12,9 +12,9 @@ For the purpose mentioned in subsection (a), the President may subdivide any Sta
 
 #### Amendments
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “Territory” after “any State” and “or a Territory and one or more States” after “two or more States”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out "Territory" after "any State" and "or a Territory and one or more States" after "two or more States".
 
-<b>1959</b>—Subsec. (b). Pub. L. 86–70 substituted “may unite into one district two or more States or a Territory and one or more States” for “may unite two or more States or Territories into one district”.
+<b>1959</b>—Subsec. (b). Pub. L. 86–70 substituted "may unite into one district two or more States or a Territory and one or more States" for "may unite two or more States or Territories into one district".
 
 #### Effective Date of 1959 Amendment
 

@@ -12,19 +12,19 @@ In case of violation of an injunction or restraining order issued under this sec
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–80, §3(d)(1), struck out “, and subject to the provisions of section 17 (relating to notice to opposite party) of the Act entitled ‘An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes’, approved October 15, 1914, as amended (U.S.C., 1934 ed., title 28, sec. 381),” after “for cause shown”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–80, §3(d)(1), struck out ", and subject to the provisions of section 17 (relating to notice to opposite party) of the Act entitled 'An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes', approved October 15, 1914, as amended (U.S.C., 1934 ed., title 28, sec. 381)," after "for cause shown".
 
-Subsec. (b). Pub. L. 103–80, §3(d)(2), struck out at end “Such trial shall be conducted in accordance with the practice and procedure applicable in the case of proceedings subject to the provisions of section 22 of such Act of October 15, 1914, as amended (U.S.C., 1934 ed., title 28, sec. 387).”
+Subsec. (b). Pub. L. 103–80, §3(d)(2), struck out at end "Such trial shall be conducted in accordance with the practice and procedure applicable in the case of proceedings subject to the provisions of section 22 of such Act of October 15, 1914, as amended (U.S.C., 1934 ed., title 28, sec. 387)."
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–781, §103(d), struck out “(e),” after “paragraphs”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–781, §103(d), struck out "(e)," after "paragraphs".
 
-Pub. L. 87–781, §201(c), struck out “(f),” after “paragraphs”.
+Pub. L. 87–781, §201(c), struck out "(f)," after "paragraphs".
 
 #### Effective Date of 1962 Amendment
 
 Amendment by section 103(c) of Pub. L. 87–781 effective on first day of seventh calendar month following October 1962, see section 107 of Pub. L. 87–781, set out as a note under section 321 of this title.
 
-Pub. L. 87–781, title II, §203, Oct. 10, 1962, 76 Stat. 793, provided that: “The amendments made by this title \[amending this section and section 374 of this title and enacting provisions set out as notes under sections 321 and 374 of this title\] shall take effect on the date of enactment of this Act \[Oct. 10, 1962\].”
+Pub. L. 87–781, title II, §203, Oct. 10, 1962, 76 Stat. 793, provided that: "The amendments made by this title \[amending this section and section 374 of this title and enacting provisions set out as notes under sections 321 and 374 of this title\] shall take effect on the date of enactment of this Act \[Oct. 10, 1962\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -20,7 +20,7 @@ Section 482 applies in accordance with this subsection to a transaction or serie
 
 (Added Pub. L. 108–357, title II, §248(a), Oct. 22, 2004, 118 Stat. 1456.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “1352(2).”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "1352(2).".</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
 

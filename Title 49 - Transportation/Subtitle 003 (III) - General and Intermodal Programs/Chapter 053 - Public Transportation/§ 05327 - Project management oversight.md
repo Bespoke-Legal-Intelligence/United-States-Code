@@ -44,7 +44,7 @@ Access to Sites and Records.—Each recipient of Federal financial assistance fo
 
 Regulations.—The Secretary shall prescribe regulations necessary to carry out this section. The regulations shall include—
 
-&emsp;(1) a definition of “major capital project” for section 5338(i) that excludes a project to acquire rolling stock or to maintain or rehabilitate a vehicle; and
+&emsp;(1) a definition of "major capital project" for section 5338(i) that excludes a project to acquire rolling stock or to maintain or rehabilitate a vehicle; and
 
 &emsp;(2) a requirement that oversight begin during the project development phase of a project, unless the Secretary finds it more appropriate to begin the oversight during another phase of the project, to maximize the transportation benefits and cost savings associated with project management oversight.
 
@@ -96,13 +96,13 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §23(h); added Nov. 21, 1989, Pub.
 
 49 App.:1619(f).
 
-In subsection (a), before clause (1), the words “as required in each case by the Secretary” are omitted as surplus. In clause (11), the words “such items as” and “where applicable” are omitted as surplus.
+In subsection (a), before clause (1), the words "as required in each case by the Secretary" are omitted as surplus. In clause (11), the words "such items as" and "where applicable" are omitted as surplus.
 
-In subsection (c)(1), the words “Beginning October 1, 1987” are omitted as executed. The words “with any person” are omitted as surplus.
+In subsection (c)(1), the words "Beginning October 1, 1987" are omitted as executed. The words "with any person" are omitted as surplus.
 
-In subsection (c)(2), the words “In addition to the purposes provided for under subsection (a) of this section” and “with any person” are omitted as surplus. The cross-reference to paragraph (1) is not changed. The cross-reference in 49 App.:1619(h), the source provision being restated in this subsection, is no longer correct, but is apparently still meant to apply to funds made available under 49 App.:1619(a).
+In subsection (c)(2), the words "In addition to the purposes provided for under subsection (a) of this section" and "with any person" are omitted as surplus. The cross-reference to paragraph (1) is not changed. The cross-reference in 49 App.:1619(h), the source provision being restated in this subsection, is no longer correct, but is apparently still meant to apply to funds made available under 49 App.:1619(a).
 
-In subsection (e), before clause (1), the text of 49 App.:1619(f) (2d sentence) is omitted as executed. In clause (1), The words “vehicles or other” and “the performance of” are omitted as surplus.
+In subsection (e), before clause (1), the text of 49 App.:1619(f) (2d sentence) is omitted as executed. In clause (1), The words "vehicles or other" and "the performance of" are omitted as surplus.
 
 #### Pub. L. 103–429
 
@@ -114,33 +114,33 @@ This amends 49:5327(c) to correct an erroneous cross-reference.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §20020(1)(A), in introductory provisions, substituted “Federal financial assistance for a major capital project for public transportation under this chapter or any other provision of Federal law, a recipient must prepare a project management plan approved by the Secretary and carry out the project in accordance with the project management plan” for “United States Government financial assistance for a major capital project under this chapter or the National Capital Transportation Act of 1969 (Public Law 91–143, 83 Stat. 320), a recipient must prepare and carry out a project management plan approved by the Secretary of Transportation”.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §20020(1)(A), in introductory provisions, substituted "Federal financial assistance for a major capital project for public transportation under this chapter or any other provision of Federal law, a recipient must prepare a project management plan approved by the Secretary and carry out the project in accordance with the project management plan" for "United States Government financial assistance for a major capital project under this chapter or the National Capital Transportation Act of 1969 (Public Law 91–143, 83 Stat. 320), a recipient must prepare and carry out a project management plan approved by the Secretary of Transportation".
 
-Subsec. (a)(12). Pub. L. 112–141, §20020(1)(B), substituted “quarterly” for “each month”.
+Subsec. (a)(12). Pub. L. 112–141, §20020(1)(B), substituted "quarterly" for "each month".
 
 Subsec. (c). Pub. L. 112–141, §20020(2), (3), added subsec. (c) and struck out former subsec. (c) which related to limitations.
 
 Subsec. (d). Pub. L. 112–141, §20020(2), (4), redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to access to sites and records.
 
-Subsec. (d)(1). Pub. L. 112–141, §20020(5)(A), substituted “section 5338(i)” for “subsection (c) of this section”.
+Subsec. (d)(1). Pub. L. 112–141, §20020(5)(A), substituted "section 5338(i)" for "subsection (c) of this section".
 
-Subsec. (d)(2). Pub. L. 112–141, §20020(5)(B), substituted “project development phase” for “preliminary engineering stage” and “another phase” for “another stage”.
+Subsec. (d)(2). Pub. L. 112–141, §20020(5)(B), substituted "project development phase" for "preliminary engineering stage" and "another phase" for "another stage".
 
 Subsec. (e). Pub. L. 112–141, §20020(4), redesignated subsec. (e) as (d).
 
-Subsec. (f). Pub. L. 112–141, §20020(2), struck out subsec. (f). Text read as follows: “A recipient of financial assistance for a project under this chapter with an estimated total cost of $1,000,000,000 or more shall submit to the Secretary an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project.”
+Subsec. (f). Pub. L. 112–141, §20020(2), struck out subsec. (f). Text read as follows: "A recipient of financial assistance for a project under this chapter with an estimated total cost of $1,000,000,000 or more shall submit to the Secretary an annual financial plan for the project. The plan shall be based on detailed annual estimates of the cost to complete the remaining elements of the project and on reasonable assumptions, as determined by the Secretary, of future increases in the cost to complete the project."
 
 <b>2005</b>—Subsec. (a)(13). Pub. L. 109–59, §3026(a), added par. (13).
 
 Subsec. (c). Pub. L. 109–59, §3026(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) specified limitations on use of available amounts for certain purposes.
 
-<b>1998</b>—Subsec. (c)(2). Pub. L. 105–178, §3024(a), substituted “enter into contracts” for “make contracts” and inserted “and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section” before period at end of first sentence.
+<b>1998</b>—Subsec. (c)(2). Pub. L. 105–178, §3024(a), substituted "enter into contracts" for "make contracts" and inserted "and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section" before period at end of first sentence.
 
 Subsec. (f). Pub. L. 105–178, §3024(b), added subsec. (f).
 
-<b>1996</b>—Subsec. (c)(1). Pub. L. 104–287 substituted “to carry out a major project under section 5309” for “to carry out a major project under section 5307”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–287 substituted "to carry out a major project under section 5309" for "to carry out a major project under section 5307".
 
-<b>1994</b>—Subsec. (c)(1). Pub. L. 103–429 substituted “section 5307, 5309, 5311, or 103(e)(4) or that Act” for “section 5307, 5309, 5311, or 103(e)(4) of that Act”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–429 substituted "section 5307, 5309, 5311, or 103(e)(4) or that Act" for "section 5307, 5309, 5311, or 103(e)(4) of that Act".
 
 #### Effective Date of 2012 Amendment
 
@@ -156,5 +156,5 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Financing of Oversight Activities
 
-Pub. L. 107–87, title III, §319, Dec. 18, 2001, 115 Stat. 858, provided that: “Beginning in fiscal year 2002 and thereafter, the Secretary may use up to 1 percent of the amounts made available to carry out 49 U.S.C. 5309 for oversight activities under 49 U.S.C. 5327.”
+Pub. L. 107–87, title III, §319, Dec. 18, 2001, 115 Stat. 858, provided that: "Beginning in fiscal year 2002 and thereafter, the Secretary may use up to 1 percent of the amounts made available to carry out 49 U.S.C. 5309 for oversight activities under 49 U.S.C. 5327."
 

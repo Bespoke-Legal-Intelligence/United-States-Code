@@ -1,6 +1,6 @@
 ### §§79 to 79z–6. Repealed. Pub. L. 109–58, title XII, §1263, Aug. 8, 2005, 119 Stat. 974
 
-Section 79, acts Aug. 26, 1935, ch. 687, title I, §36, formerly §33, 49 Stat. 838; renumbered §35, Pub. L. 102–486, title VII, §711, Oct. 24, 1992, 106 Stat. 2905; renumbered §36, Pub. L. 104–104, title I, §103, Feb. 8, 1996, 110 Stat. 81, provided that this chapter could be cited as the “Public Utility Holding Company Act of 1935”.
+Section 79, acts Aug. 26, 1935, ch. 687, title I, §36, formerly §33, 49 Stat. 838; renumbered §35, Pub. L. 102–486, title VII, §711, Oct. 24, 1992, 106 Stat. 2905; renumbered §36, Pub. L. 104–104, title I, §103, Feb. 8, 1996, 110 Stat. 81, provided that this chapter could be cited as the "Public Utility Holding Company Act of 1935".
 
 Section 79a, act Aug. 26, 1935, ch. 687, title I, §1, 49 Stat. 803, related to necessity for control of holding companies and set forth policy of chapter.
 
@@ -50,7 +50,7 @@ Section 79w, act Aug. 26, 1935, ch. 687, title I, §23, 49 Stat. 834, related to
 
 Section 79x, acts Aug. 26, 1935, ch. 687, title I, §24, 49 Stat. 834; June 25, 1948, ch. 646, §32(a), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 85–791, §15, Aug. 28, 1958, 72 Stat. 946; Pub. L. 100–181, title IV, §403, Dec. 4, 1987, 101 Stat. 1259, related to judicial review of orders.
 
-Section 79y, acts Aug. 26, 1935, ch. 687, title I, §25, 49 Stat. 835; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139,§127, 63 Stat. 107; Pub. L. 100–181, title IV, §404, Dec. 4, 1987, 101 Stat. 1260, related to court jurisdiction of violations of chapter.
+Section 79y, acts Aug. 26, 1935, ch. 687, title I, §25, 49 Stat. 835; June 25, 1936, ch. 804, 49 Stat. 1921; June 25, 1948, ch. 646, §32(b), 62 Stat. 991; May 24, 1949, ch. 139, §127, 63 Stat. 107; Pub. L. 100–181, title IV, §404, Dec. 4, 1987, 101 Stat. 1260, related to court jurisdiction of violations of chapter.
 
 Section 79z, act Aug. 26, 1935, ch. 687, title I, §26, 49 Stat. 835, related to validity of contracts.
 

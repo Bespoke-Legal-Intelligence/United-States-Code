@@ -6,11 +6,11 @@ The Director may, on such terms and conditions as the Director deems appropriate
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 struck out “that is a nationally recognized statistical rating organization, as such term is defined in section 78c(a) of title 15,” after “entity”.
+<b>2010</b>—Pub. L. 111–203 struck out "that is a nationally recognized statistical rating organization, as such term is defined in section 78c(a) of title 15," after "entity".
 
-<b>2008</b>—Pub. L. 110–289 substituted “regulated entities” for “enterprises by rating organization” in section catchline and “regulated entities” for “enterprises” in text.
+<b>2008</b>—Pub. L. 110–289 substituted "regulated entities" for "enterprises by rating organization" in section catchline and "regulated entities" for "enterprises" in text.
 
-<b>2006</b>—Pub. L. 109–291 substituted “that is a nationally recognized statistical rating organization, as such term is defined in section 78c(a) of title 15” for “effectively recognized by the Division of Market Regulation of the Securities and Exchange Commission as a nationally recognized statistical rating organization for the purposes of the capital rules for broker-dealers”.
+<b>2006</b>—Pub. L. 109–291 substituted "that is a nationally recognized statistical rating organization, as such term is defined in section 78c(a) of title 15" for "effectively recognized by the Division of Market Regulation of the Securities and Exchange Commission as a nationally recognized statistical rating organization for the purposes of the capital rules for broker-dealers".
 
 #### Effective Date of 2010 Amendment
 

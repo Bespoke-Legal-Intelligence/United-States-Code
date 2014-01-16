@@ -8,7 +8,7 @@ Associations may voluntarily merge with other like associations if the plan of m
 
 &emsp;(2) the respective Boards of Directors of the associations involved;
 
-&emsp;(3) a majority vote of the stockholders of each association voting, in person or by proxy, at a duly authorized stockholders’ meeting; and
+&emsp;(3) a majority vote of the stockholders of each association voting, in person or by proxy, at a duly authorized stockholders' meeting; and
 
 &emsp;(4) the Farm Credit Banks involved.
 
@@ -20,9 +20,9 @@ The provisions of subsections (b) and (c) of section 2279c–1 of this title sha
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a)(4). Pub. L. 100–399, §408(s), substituted “the Farm Credit Banks involved” for “the Farm Credit Bank”.
+<b>1988</b>—Subsec. (a)(4). Pub. L. 100–399, §408(s), substituted "the Farm Credit Banks involved" for "the Farm Credit Bank".
 
-Subsec. (b). Pub. L. 100–399, §408(t), substituted “subsections (b) and (c)” for “subsections (b), (c), and (d)”.
+Subsec. (b). Pub. L. 100–399, §408(t), substituted "subsections (b) and (c)" for "subsections (b), (c), and (d)".
 
 #### Effective Date of 1988 Amendment
 

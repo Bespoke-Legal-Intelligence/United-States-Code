@@ -20,7 +20,7 @@ No policy or contract of insurance issued by a carrier to comply with the requir
 
 #### (d) Penalties for failure to secure payment of benefits
 
-(1) Any employer required to secure the payment of benefits under this section who fails to secure such benefits shall be subject to a civil penalty assessed by the Secretary of not more than $1,000 for each day during which such failure occurs. In any case where such employer is a corporation, the president, secretary, and treasurer thereof also shall be severally liable to such civil penalty as provided in this subsection for the failure of such corporation to secure the payment of benefits. Such president, secretary, and treasurer shall be severally personally liable, jointly with such corporation, for any benefit which may accrue under this subchapter in respect to any disability which may occur toany employee of such corporation while it shall so fail to secure the payment of benefits as required by this section.
+(1) Any employer required to secure the payment of benefits under this section who fails to secure such benefits shall be subject to a civil penalty assessed by the Secretary of not more than $1,000 for each day during which such failure occurs. In any case where such employer is a corporation, the president, secretary, and treasurer thereof also shall be severally liable to such civil penalty as provided in this subsection for the failure of such corporation to secure the payment of benefits. Such president, secretary, and treasurer shall be severally personally liable, jointly with such corporation, for any benefit which may accrue under this subchapter in respect to any disability which may occur to any employee of such corporation while it shall so fail to secure the payment of benefits as required by this section.
 
 (2) Any employer of a miner who knowingly transfers, sells, encumbers, assigns, or in any manner disposes of, conceals, secrets,<sup>2</sup> or destroys any property belonging to such employer, after any miner employed by such employer has filed a claim under this subchapter, and with intent to avoid the payment of benefits under this subchapter to such miner or his or her dependents, shall be guilty of a misdemeanor and, upon conviction thereof, shall be punished by a fine of not more than $1,000, or by imprisonment for not more than one year, or both. In any case where such employer is a corporation, the president, secretary, and treasurer thereof also shall be severally liable for such penalty of imprisonment as well as jointly liable with such corporation for such fine.
 
@@ -32,7 +32,7 @@ No policy or contract of insurance issued by a carrier to comply with the requir
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–239 added subsec. (d).
 
-<b>1972</b>—Subsec. (a). Pub. L. 92–303 substituted “a coal mine” for “an underground coal mine”.
+<b>1972</b>—Subsec. (a). Pub. L. 92–303 substituted "a coal mine" for "an underground coal mine".
 
 #### Effective Date of 1978 Amendment
 
@@ -42,7 +42,7 @@ Amendment by Pub. L. 95–239 effective Mar. 1, 1978, see section 20(a) of Pub. 
 
 Amendment by Pub. L. 92–303 effective Dec. 30, 1969, see section 3(c) of Pub. L. 92–303, set out as a note under section 901 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “secretes,”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "secretes,".</i>
 

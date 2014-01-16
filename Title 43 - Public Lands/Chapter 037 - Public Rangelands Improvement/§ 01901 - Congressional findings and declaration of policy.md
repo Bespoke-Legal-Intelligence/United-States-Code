@@ -12,7 +12,7 @@
 
 &emsp;(5) to prevent economic disruption and harm to the western livestock industry, it is in the public interest to charge a fee for livestock grazing permits and leases on the public lands which is based on a formula reflecting annual changes in the costs of production;
 
-&emsp;(6) the Act of December 15, 1971 (85 Stat. 649, 16 U.S.C. 1331 et seq.), continues to be successful in its goal of protecting wild free-roaming horses and burros from capture, branding, harassment, and death, but that certain amendments are necessary thereto to avoid excessive costs in the administration of the Act, and to facilitate the humane adoption or disposal of excess wild free-roaming horses and burros which because they exceed the carrying capacity of the range, pose a threat to their own habitat, fish, wildlife, recreation, water and soil conservation, domestic livestock grazing, and other rangeland values;
+&emsp;(6) the Act of December 15, 1971 (85 Stat. 649, 16 U.S.C. 1331 et seq.), continues to be successful in its goal of protecting wild free-roaming horses and burros from capture, branding, harassment, and death, but that certain amendments are necessary thereto to avoid excessive costs in the administration of the Act, and to facilitate the humane adoption or disposal ofexcess wild free-roaming horses and burros which because they exceed the carrying capacity of the range, pose a threat to their own habitat, fish, wildlife, recreation, water and soil conservation, domestic livestock grazing, and other rangeland values;
 
 (b) The Congress therefore hereby establishes and reaffirms a national policy and commitment to:
 
@@ -32,11 +32,11 @@
 
 Act of December 15, 1971, referred to in subsec. (a)(6), is Pub. L. 92–195, Dec. 15, 1971, 85 Stat. 649, as amended, popularly known as the Wild Free-Roaming Horses and Burros Act, which is classified generally to chapter 30 (§1331 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 16 and Tables.
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 95–514, Oct. 25, 1978, 92 Stat. 1803, which enacted this chapter and amended sections 1739 and 1751 to 1753 of this title and sections 1332 and 1333 of Title 16. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 95–514, Oct. 25, 1978, 92 Stat. 1803, which enacted this chapter and amended sections 1739 and 1751 to 1753 of this title and sections 1332 and 1333 of Title 16. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 
-Pub. L. 95–514, §1, Oct. 25, 1978, 92 Stat. 1803, provided: “That this Act \[enacting this chapter and amending sections 1739 and 1751 to 1753 of this title and sections 1332 and 1333 of Title 16, Conservation\] may be cited as the ‘Public Rangelands Improvement Act of 1978’.”
+Pub. L. 95–514, §1, Oct. 25, 1978, 92 Stat. 1803, provided: "That this Act \[enacting this chapter and amending sections 1739 and 1751 to 1753 of this title and sections 1332 and 1333 of Title 16, Conservation\] may be cited as the 'Public Rangelands Improvement Act of 1978'."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

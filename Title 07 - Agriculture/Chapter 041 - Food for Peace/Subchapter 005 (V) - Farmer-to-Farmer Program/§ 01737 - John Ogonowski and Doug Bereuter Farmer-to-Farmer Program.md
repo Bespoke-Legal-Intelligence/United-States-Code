@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Caribbean Basin country
 
-&emsp;The term “Caribbean Basin country” means a country eligible for designation as a beneficiary country under section 2702 of title 19.
+&emsp;The term "Caribbean Basin country" means a country eligible for designation as a beneficiary country under section 2702 of title 19.
 
 #### (2) Emerging market
 
-&emsp;The term “emerging market” means a country that the Secretary determines—
+&emsp;The term "emerging market" means a country that the Secretary determines—
 
 &emsp;&emsp;(A) is taking steps toward a market-oriented economy through the food, agriculture, or rural business sectors of the economy of the country; and
 
@@ -18,23 +18,23 @@ In this section:
 
 #### (3) Middle income country
 
-&emsp;The term “middle income country” means a country that has developed economically to the point at which the country does not receive bilateral development assistance from the United States.
+&emsp;The term "middle income country" means a country that has developed economically to the point at which the country does not receive bilateral development assistance from the United States.
 
 #### (4) Sub-Saharan African country
 
-&emsp;The term “sub-Saharan African country” has the meaning given the term in section 3706 of title 19.
+&emsp;The term "sub-Saharan African country" has the meaning given the term in section 3706 of title 19.
 
 #### (b) Provision
 
 Notwithstanding any other provision of law, to further assist developing countries, middle-income countries, emerging markets, sub-Saharan African countries, and Caribbean Basin countries to increase farm production and farmer incomes, the President may—
 
-&emsp;(1) establish and administer a program, to be known as the “John Ogonowski and Doug Bereuter Farmer-to-Farmer Program”, of farmer-to-farmer assistance between the United States and such countries to assist in—
+&emsp;(1) establish and administer a program, to be known as the "John Ogonowski and Doug Bereuter Farmer-to-Farmer Program", of farmer-to-farmer assistance between the United States and such countries to assist in—
 
 &emsp;&emsp;(A) increasing food production and distribution; and
 
 &emsp;&emsp;(B) improving the effectiveness of the farming and marketing operations of agricultural producers in those countries;
 
-&emsp;(2) use United States agricultural producers, agriculturalists, colleges and universities (including historically black colleges and universities, land grant colleges or universities, and foundations maintained by colleges or universities), private agribusinesses, private organizations (including grassroots organizations with an established and demonstrated capacity to carry out such a bilateral exchange program), private corporations, and nonprofit farm organizations to work in conjunctionwith agricultural producers and farm organizations in those countries, on a voluntary basis—
+&emsp;(2) use United States agricultural producers, agriculturalists, colleges and universities (including historically black colleges and universities, land grant colleges or universities, and foundations maintained by colleges or universities), private agribusinesses, private organizations (including grassroots organizations with an established and demonstrated capacity to carry out such a bilateral exchange program), private corporations, and nonprofit farm organizations to work in conjunction with agricultural producers and farm organizations in those countries, on a voluntary basis—
 
 &emsp;&emsp;(A) to improve agricultural and agribusiness operations and agricultural systems in those countries, including improving—
 
@@ -154,37 +154,37 @@ Notwithstanding any other provision of law, in addition to any funds that may be
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d). Pub. L. 110–246, §3024(a), in introductory provisions, substituted “not less than the greater of $10,000,000 or” for “not less than” and “2008 through 2012” for “2002 through 2007”.
+<b>2008</b>—Subsec. (d). Pub. L. 110–246, §3024(a), in introductory provisions, substituted "not less than the greater of $10,000,000 or" for "not less than" and "2008 through 2012" for "2002 through 2007".
 
-Subsec. (e)(1). Pub. L. 110–246, §3024(b), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out programs under this section in sub-Saharan African and Caribbean Basin countries $10,000,000 for each of fiscal years 2002 through 2007.”
+Subsec. (e)(1). Pub. L. 110–246, §3024(b), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "There is authorized to be appropriated to carry out programs under this section in sub-Saharan African and Caribbean Basin countries $10,000,000 for each of fiscal years 2002 through 2007."
 
-<b>2004</b>—Pub. L. 108–447, §769(2), inserted “and Doug Bereuter” after “John Ogonowski” in section catchline.
+<b>2004</b>—Pub. L. 108–447, §769(2), inserted "and Doug Bereuter" after "John Ogonowski" in section catchline.
 
-Subsec. (b)(1). Pub. L. 108–447, §769(1), inserted “and Doug Bereuter” after “John Ogonowski” in introductory provisions.
+Subsec. (b)(1). Pub. L. 108–447, §769(1), inserted "and Doug Bereuter" after "John Ogonowski" in introductory provisions.
 
 <b>2002</b>—Pub. L. 107–171 reenacted section catchline without change and amended text generally, substituting, in subsec. (a), provisions relating to definitions for general provisions, in subsec. (b), provisions authorizing the President to administer the program for provisions relating to definitions, in subsec. (c), provisions relating to special emphasis on sub-Saharan African and Caribbean Basin countries for provisions relating to minimum funding, in subsec. (d), provisions relating to minimum funding for provisions relating to designation of program, and adding subsec. (e) relating to authorization of appropriations.
 
-<b>2001</b>—Pub. L. 107–76, §777(1), inserted “John Ogonowski” before “Farmer-to-Farmer Program” in section catchline.
+<b>2001</b>—Pub. L. 107–76, §777(1), inserted "John Ogonowski" before "Farmer-to-Farmer Program" in section catchline.
 
 Subsec. (d). Pub. L. 107–76, §777(2), added subsec. (d).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–127, §277(c)(1)(A), substituted “emerging markets” for “emerging democracies” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §277(c)(1)(A), substituted "emerging markets" for "emerging democracies" in introductory provisions.
 
-Subsec. (a)(6). Pub. L. 104–127, §224(1), added par. (6) and struck out former par. (6) which read as follows: “to the extent practicable, augment the funds available for programs established under this section through the use of foreign currencies that accrue from the sale of agricultural commodities under this chapter, and local currencies generated from other types of foreign assistance activities.”
+Subsec. (a)(6). Pub. L. 104–127, §224(1), added par. (6) and struck out former par. (6) which read as follows: "to the extent practicable, augment the funds available for programs established under this section through the use of foreign currencies that accrue from the sale of agricultural commodities under this chapter, and local currencies generated from other types of foreign assistance activities."
 
-Subsec. (b)(1). Pub. L. 104–127, §277(c)(1)(B), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The term ‘emerging democracy’ means a country that is taking steps toward—
+Subsec. (b)(1). Pub. L. 104–127, §277(c)(1)(B), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "The term 'emerging democracy' means a country that is taking steps toward—
 
-&emsp;“(A) political pluralism, based on progress toward free and fair elections and a multiparty political system;
+&emsp;"(A) political pluralism, based on progress toward free and fair elections and a multiparty political system;
 
-&emsp;“(B) economic reform, based on progress toward a market-oriented economy;
+&emsp;"(B) economic reform, based on progress toward a market-oriented economy;
 
-&emsp;“(C) respect for internationally recognized human rights; and
+&emsp;"(C) respect for internationally recognized human rights; and
 
-&emsp;“(D) a willingness to build a friendly relationship with the United States.”
+&emsp;"(D) a willingness to build a friendly relationship with the United States."
 
-Subsec. (c). Pub. L. 104–127, §224(2), substituted “0.4 percent of the amounts” for “0.2 percent of the amounts”, “1996 through 2002” for “1991 through 1995”, and “0.2 percent to be used” for “0.1 percent to be used”.
+Subsec. (c). Pub. L. 104–127, §224(2), substituted "0.4 percent of the amounts" for "0.2 percent of the amounts", "1996 through 2002" for "1991 through 1995", and "0.2 percent to be used" for "0.1 percent to be used".
 
-<b>1991</b>—Subsec. (a)(3). Pub. L. 102–237 struck out comma after “public”.
+<b>1991</b>—Subsec. (a)(3). Pub. L. 102–237 struck out comma after "public".
 
 #### Effective Date of 2008 Amendment
 
@@ -193,4 +193,8 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 #### Effective Date
 
 Section effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1691 of this title.
+
+#### Delegation of Functions
+
+Functions of President under this section delegated to Administrator of the Agency for International Development by section 4(d) of Ex. Ord. No. 12752, Feb. 25, 1991, 56 F.R. 8256, set out as a note under section 1691 of this title.
 

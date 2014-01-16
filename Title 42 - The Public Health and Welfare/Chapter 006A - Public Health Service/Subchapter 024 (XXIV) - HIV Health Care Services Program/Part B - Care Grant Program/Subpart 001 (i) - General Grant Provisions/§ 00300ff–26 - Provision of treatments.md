@@ -24,7 +24,7 @@ In carrying out this section the State shall—
 
 &emsp;(4) facilitate access to treatments for such individuals;
 
-&emsp;(5) document the progress made in making therapeutics described in subsection (a) of this section available to individuals eligible for assistance under this section; and
+&emsp;(5) document the progress made in making therapeutics described in subsection (a) of thissection available to individuals eligible for assistance under this section; and
 
 &emsp;(6) encourage, support, and enhance adherence to and compliance with treatment regimens, including related medical monitoring.
 
@@ -64,25 +64,25 @@ Section 300ff–22 of this title, referred to in subsec. (d), was amended genera
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
-Subsec. (a). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” in two places.
+Subsec. (a). Pub. L. 109–415, §702(3), substituted "HIV/AIDS" for "HIV disease" in two places.
 
-Pub. L. 109–415, §204(a), substituted “section 300ff–21 of this title” for “this part”.
+Pub. L. 109–415, §204(a), substituted "section 300ff–21 of this title" for "this part".
 
-Pub. L. 109–415, §201(c)(4), substituted “section 300ff–22(b)(3)(B) of this title” for “section 300ff–22(a)(5) of this title”.
+Pub. L. 109–415, §201(c)(4), substituted "section 300ff–22(b)(3)(B) of this title" for "section 300ff–22(a)(5) of this title".
 
-Subsec. (b)(1). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
+Subsec. (b)(1). Pub. L. 109–415, §702(3), substituted "HIV/AIDS" for "HIV disease".
 
-Subsec. (c)(1). Pub. L. 109–415, §202(a)(1), added par. (1) and struck out former par. (1) which read as follows: “determine, in accordance with guidelines issued by the Secretary, which treatments are eligible to be included under the program established under this section;”.
+Subsec. (c)(1). Pub. L. 109–415, §202(a)(1), added par. (1) and struck out former par. (1) which read as follows: "determine, in accordance with guidelines issued by the Secretary, which treatments are eligible to be included under the program established under this section;".
 
-Subsec. (c)(3). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
+Subsec. (c)(3). Pub. L. 109–415, §702(3), substituted "HIV/AIDS" for "HIV disease".
 
 Subsec. (e). Pub. L. 109–415, §202(a)(3), added subsec. (e). Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 109–415, §202(a)(2), redesignated subsec. (e) as (f).
 
-Subsec. (f)(1). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
+Subsec. (f)(1). Pub. L. 109–415, §702(3), substituted "HIV/AIDS" for "HIV disease".
 
-Pub. L. 109–415, §204(a), substituted “section 300ff–21 of this title” for “this part”.
+Pub. L. 109–415, §204(a), substituted "section 300ff–21 of this title" for "this part".
 
 Subsec. (g). Pub. L. 109–415, §202(b), added subsec. (g).
 
@@ -90,7 +90,7 @@ Subsec. (g). Pub. L. 109–415, §202(b), added subsec. (g).
 
 Subsec. (e). Pub. L. 106–345, §204(b), added subsec. (e).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–146, §3(c)(3)(A), substituted “shall use a portion of the amounts” for “may use amounts” and “section 300ff–22(a)(5) of this title to provide therapeutics to treat HIV disease” for “section 300ff–22(a)(4) of this title to provide treatments that have been determined to prolong life” and inserted before period “, including measures for the prevention and treatment of opportunistic infections”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–146, §3(c)(3)(A), substituted "shall use a portion of the amounts" for "may use amounts" and "section 300ff–22(a)(5) of this title to provide therapeutics to treat HIV disease" for "section 300ff–22(a)(4) of this title to provide treatments that have been determined to prolong life" and inserted before period ", including measures for the prevention and treatment of opportunistic infections".
 
 Subsec. (c)(5). Pub. L. 104–146, §3(c)(3)(B), added par. (5).
 

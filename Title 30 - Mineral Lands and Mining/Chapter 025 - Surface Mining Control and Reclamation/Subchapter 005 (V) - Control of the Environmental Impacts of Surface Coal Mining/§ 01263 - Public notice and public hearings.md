@@ -10,9 +10,9 @@ Any person having an interest which is or may be adversely affected or the offic
 
 #### (c) Prior Federal coal lease hearing as evidence
 
-Where the lands included in an application for a permit are the subject of a Federal coal lease in connection with which hearings were held and determinations were made under section 201(a)(3)(A), (B) and (C) of this title, such hearings shall be deemed as to the matters covered to satisfy the requirements of this section and section 1264 of this title and such determinations shall be deemed to be a part of the record and conclusive for purposes of sections 1260, 1264 of this title and this section.
+Where the lands included in an application for a permit are the subject of a Federal coal lease in connection with which hearings were held and determinations were made under section 201(a)(3)(A), (B) and (C) of this title, such hearings shall be deemed as to the matters covered to satisfy the requirements of this section andsection 1264 of this title and such determinations shall be deemed to be a part of the record and conclusive for purposes of sections 1260, 1264 of this title and this section.
 
 (Pub. L. 95–87, title V, §513, Aug. 3, 1977, 91 Stat. 484.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “or”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "or".</i>
 

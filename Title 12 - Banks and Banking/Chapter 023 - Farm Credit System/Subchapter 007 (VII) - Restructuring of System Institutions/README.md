@@ -2,7 +2,7 @@
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–399, title IV, §408(a), Aug. 17, 1988, 102 Stat. 1001, substituted “RESTRUCTURING OF” for “MERGERS OF” in subchapter heading.
+<b>1988</b>—Pub. L. 100–399, title IV, §408(a), Aug. 17, 1988, 102 Stat. 1001, substituted "RESTRUCTURING OF" for "MERGERS OF" in subchapter heading.
 
 
 ---

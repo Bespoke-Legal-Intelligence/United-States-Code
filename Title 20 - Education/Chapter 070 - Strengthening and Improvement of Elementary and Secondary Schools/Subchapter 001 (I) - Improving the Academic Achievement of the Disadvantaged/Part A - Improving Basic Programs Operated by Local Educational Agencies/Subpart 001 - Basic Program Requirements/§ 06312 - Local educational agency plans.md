@@ -4,7 +4,7 @@
 
 #### (1) Subgrants
 
-&emsp;A local educational agency may receive a subgrant under this part for any fiscal year only if such agency has on file with the State educational agency a plan, approved by the State educational agency, that is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], the Carl D. Perkins Careerand Technical Education Act of 2006 \[20 U.S.C. 2301 et seq.\], the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11301 et seq.\], and other Acts, as appropriate.
+&emsp;A local educational agency may receive a subgrant under this part for any fiscal year only if such agency has on file with the State educational agency a plan, approved by the State educational agency, that is coordinated with other programs under this chapter, the Individuals with Disabilities Education Act \[20 U.S.C. 1400 et seq.\], the Carl D. Perkins Career and Technical Education Act of 2006 \[20 U.S.C. 2301 et seq.\], the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11301 et seq.\], and other Acts, as appropriate.
 
 #### (2) Consolidated application
 
@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) a description of high-quality student academic assessments, if any, that are in addition to the academic assessments described in the State plan under section 6311(b)(3) of this title, that the local educational agency and schools served under this part will use—
 
-&emsp;&emsp;&emsp;(i) to determine the success of children served under this part in meeting the State student academic achievement standards, and to provide information to teachers, parents, and students on the progress being made toward meeting the State student academic achievement standards described in section 6311(b)(1)(D)(ii) of this title;
+&emsp;&emsp;&emsp;(i) to determine the success of children served under this part in meeting the State student academic achievement standards, and to provide information toteachers, parents, and students on the progress being made toward meeting the State student academic achievement standards described in section 6311(b)(1)(D)(ii) of this title;
 
 &emsp;&emsp;&emsp;(ii) to assist in diagnosis, teaching, and learning in the classroom in ways that best enable low-achieving children served under this part to meet State student achievement academic standards and do well in the local curriculum;
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;(B) provide technical assistance and support to schoolwide programs;
 
-&emsp;&emsp;(C) work in consultation with schools as the schools develop the schools’ plans pursuant to section 6314 of this title and assist schools as the schools implement such plans or undertake activities pursuant to section 6315 of this title so that each school can make adequate yearly progress toward meeting the State student academic achievement standards;
+&emsp;&emsp;(C) work in consultation with schools as the schools develop the schools' plans pursuant to section 6314 of this title and assist schools as the schools implement such plans or undertake activities pursuant to section 6315 of this title so that each school can make adequate yearly progress toward meeting the State student academic achievement standards;
 
 &emsp;&emsp;(D) fulfill such agency's school improvement responsibilities under section 6316 of this title, including taking actions under paragraphs (7) and (8) of section 6316(b) of this title;
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(A) shall consult with the Secretary of Health and Human Services and shall establish procedures (taking into consideration existing State and local laws, and local teacher contracts) to assist local educational agencies to comply with such subparagraph; and
 
-&emsp;&emsp;(B) shall disseminate to local educational agencies the education performance standards in effect under section 9836a(a)(1)(B) of title 42, and such agencies affected by such subparagraph shall plan for the implementation of such subparagraph (taking into consideration existing State and local laws, and local teacher contracts), including pursuing the availability of other Federal, State, and local funding sources to assist in compliance with such subparagraph.
+&emsp;&emsp;(B) shall disseminate to local educational agencies the education performance standards in effect under section 9836a(a)(1)(B) of title 42, and such agencies affected by such subparagraph shall plan for the implementation of such subparagraph (taking into consideration existing State and local laws, and local teacher contracts), including pursuing the availability of other Federal, State, andlocal funding sources to assist in compliance with such subparagraph.
 
 #### (3) Inapplicability
 
@@ -224,13 +224,13 @@ A prior section 6312, Pub. L. 89–10, title I, §1112, as added Pub. L. 103–3
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(1)(G). Pub. L. 110–134, §29(a)(1), substituted “education performance standards in effect under section 9836a(a)(1)(B) of title 42” for “performance standards established under section 9836a(a) of title 42”.
+<b>2007</b>—Subsec. (c)(1)(G). Pub. L. 110–134, §29(a)(1), substituted "education performance standards in effect under section 9836a(a)(1)(B) of title 42" for "performance standards established under section 9836a(a) of title 42".
 
-Subsec. (c)(2)(B). Pub. L. 110–134, §29(a)(2), substituted “education performance standards in effect under section 9836a(a)(1)(B) of title 42” for “Head Start performance standards as in effect under section 9836a(a) of title 42”.
+Subsec. (c)(2)(B). Pub. L. 110–134, §29(a)(2), substituted "education performance standards in effect under section 9836a(a)(1)(B) of title 42" for "Head Start performance standards as in effect under section 9836a(a) of title 42".
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–270 substituted "Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Technical Education Act of 1998".
 
-<b>2002</b>—Subsec. (b)(1)(F). Pub. L. 107–279 substituted “section 9622(b)(2) of this title” for “section 9010(b)(2) of this title”.
+<b>2002</b>—Subsec. (b)(1)(F). Pub. L. 107–279 substituted "section 9622(b)(2) of this title" for "section 9010(b)(2) of this title".
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “of subchapter III of this chapter”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "of subchapter III of this chapter".</i>
 

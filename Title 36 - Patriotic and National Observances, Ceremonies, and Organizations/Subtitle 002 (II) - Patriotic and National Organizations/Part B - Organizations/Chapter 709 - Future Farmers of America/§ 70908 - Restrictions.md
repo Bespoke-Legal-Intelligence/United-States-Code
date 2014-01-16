@@ -62,7 +62,7 @@ Aug. 30, 1950, ch. 823, §§9, 10, 12, 64 Stat. 566.
 
 &nbsp;
 
-In subsection (a), the words “any shares or” and “its objects and purposes being solely educational” are omitted as unnecessary and for consistency in the revised title.
+In subsection (a), the words "any shares or" and "its objects and purposes being solely educational" are omitted as unnecessary and for consistency in the revised title.
 
-In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The words “as provided in section 285 of this title” are omitted as unnecessary.
+In subsection (c), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title. The words "as provided in section 285 of this title" are omitted as unnecessary.
 

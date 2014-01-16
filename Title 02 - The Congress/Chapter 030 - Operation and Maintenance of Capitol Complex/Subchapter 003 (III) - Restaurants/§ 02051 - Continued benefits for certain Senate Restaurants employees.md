@@ -78,7 +78,7 @@ In this section:
 
 #### (3) Health insurance benefits
 
-&emsp;For purposes of chapters 89, 89A, and 89B of title 5, any period of continuous service performed by a covered individual as an employeeof a contractor, or successor contractor, shall be deemed to be a period of service as an employee of the Architect of the Capitol.
+&emsp;For purposes of chapters 89, 89A, and 89B of title 5, any period of continuous service performed by a covered individual as an employee of a contractor, or successor contractor, shall be deemed to be a period of service as an employee of the Architect of the Capitol.
 
 #### (4) Leave
 
@@ -112,7 +112,7 @@ In this section:
 
 #### (B) Reimbursements and payments by Architect of the Capitol
 
-&emsp;&emsp;From appropriations made available to the Architect of the Capitol under the heading “
+&emsp;&emsp;From appropriations made available to the Architect of the Capitol under the heading“
 
 Senate Office Buildings” under the heading “ARCHITECT OF THE CAPITOL”, the Architect of the Capitol shall—
 
@@ -174,15 +174,15 @@ Senate Office Buildings” under the heading “ARCHITECT OF THE CAPITOL”, the
 
 #### (1) Submission of plan
 
-&emsp;Not later than 30 days after July 17, 2008, the Architect of the Capitol shall submit a plan under section 60q of this title to the applicable committees as provided under that section.
+&emsp;Not later than 30 days after July 17, 2008, the Architect of the Capitol shall submit a plan under section 4505 of this title to the applicable committees as provided under that section.
 
 #### (2) Plan
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding section 60q(e) of this title, the plan submitted under this subsection shall—
+&emsp;&emsp;Notwithstanding section 4505(e) of this title, the plan submitted under this subsection shall—
 
-&emsp;&emsp;&emsp;(i) offer a voluntary separation incentive payment to any employee described under subsection (a)(2)(A) of this section in accordance with section 60q of this title; and
+&emsp;&emsp;&emsp;(i) offer a voluntary separation incentive payment to any employee described under subsection (a)(2)(A) of this section in accordance with section 4505 of this title; and
 
 &emsp;&emsp;&emsp;(ii) offer such a payment to any such employee who becomes a covered individual, if that individual accepts the offer during the 90-day period following the transfer date.
 

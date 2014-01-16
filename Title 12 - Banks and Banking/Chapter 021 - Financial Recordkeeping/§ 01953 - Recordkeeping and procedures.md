@@ -26,21 +26,21 @@ Section 1724 of this title, referred to in subsec. (b), was repealed by Pub. L. 
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–458 made technical correction to Pub. L. 107–56. See 2001 Amendment note below.
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–56, as amended by Pub. L. 108–458, amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Where the Secretary determines that the maintenance of appropriate records and procedures by any uninsured bank or uninsured institution, or any person engaging in the business of carrying on in the United States any of the functions referred to in subsection (b) of this section, has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, he may by regulation require such bank, institution, or person—”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–56, as amended by Pub. L. 108–458, amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "Where the Secretary determines that the maintenance of appropriate records and procedures by any uninsured bank or uninsured institution, or any person engaging in the business of carrying on in the United States any of the functions referred to in subsection (b) of this section, has a high degree of usefulness in criminal, tax, or regulatory investigations or proceedings, he may by regulation require such bank, institution, or person—".
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–325 added subsec. (c).
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–690 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The authority of the Secretary under this section extends to any person engaging in the business of carrying on any of the following functions:
+<b>1988</b>—Subsec. (b). Pub. L. 100–690 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The authority of the Secretary under this section extends to any person engaging in the business of carrying on any of the following functions:
 
-&emsp;“(1) Issuing or redeeming checks, money orders, travelers’ checks, or similar instruments, except as an incident to the conduct of its own nonfinancial business.
+&emsp;"(1) Issuing or redeeming checks, money orders, travelers' checks, or similar instruments, except as an incident to the conduct of its own nonfinancial business.
 
-&emsp;“(2) Transferring funds or credits domestically or internationally.
+&emsp;"(2) Transferring funds or credits domestically or internationally.
 
-&emsp;“(3) Operating a currency exchange or otherwise dealing in foreign currencies or credits.
+&emsp;"(3) Operating a currency exchange or otherwise dealing in foreign currencies or credits.
 
-&emsp;“(4) Operating a credit card system.
+&emsp;"(4) Operating a credit card system.
 
-&emsp;“(5) Performing such similar, related, or substitute functions for any of the foregoing or for banking as may be specified by the Secretary in regulations.”
+&emsp;"(5) Performing such similar, related, or substitute functions for any of the foregoing or for banking as may be specified by the Secretary in regulations."
 
 #### Effective Date of 2004 Amendment
 

@@ -12,7 +12,7 @@
 
 #### (b) Limitations on authorization of appropriations
 
-For payment by the Secretary of the Treasury of the subscription of the United States for shares described in subsection (a) of this section, there are authorized to be appropriated $1,167,010,000 without fiscal year limitation.
+For payment by the Secretary of the Treasury of the subscription of the United States forshares described in subsection (a) of this section, there are authorized to be appropriated $1,167,010,000 without fiscal year limitation.
 
 #### (c) Disposition of net income distributions by Bank
 
@@ -26,5 +26,5 @@ Subsecs. (a) to (c) were in the original (A) to (C), respectively, and pars. (1)
 
 #### First General Capital Increase
 
-Pub. L. 105–118, title V, §560(a), Nov. 26, 1997, 111 Stat. 2425, provided in part that the Secretary of the Treasury may, to effect the United States participation in the first general capital increase of the European Bank for Reconstruction and Development, subscribe to and make payment for 100,000 additional shares of the capital stock of the Bank on behalf of the United States,and authorized $285,772,500 for paid-in capital and $984,327,500 for callable capital of the European Bank for Reconstruction and Development to be appropriated without fiscal year limitation, subject to obtaining the necessary appropriations.
+Pub. L. 105–118, title V, §560(a), Nov. 26, 1997, 111 Stat. 2425, provided in part that the Secretary of the Treasury may, to effect the United States participation in the first general capital increase of the European Bank for Reconstruction and Development, subscribe to and make payment for 100,000 additional shares of the capital stock of the Bank on behalf of the United States, and authorized $285,772,500 for paid-in capital and $984,327,500 for callable capital of the European Bank for Reconstruction and Development to be appropriated without fiscal year limitation, subject to obtaining the necessary appropriations.
 

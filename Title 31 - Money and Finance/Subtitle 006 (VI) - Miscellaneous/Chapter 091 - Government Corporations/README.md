@@ -17,7 +17,7 @@
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–576, title III, §306(b), Nov. 15, 1990, 104 Stat. 2854, substituted “Management” for “Audit”.
+<b>1990</b>—Pub. L. 101–576, title III, §306(b), Nov. 15, 1990, 104 Stat. 2854, substituted "Management" for "Audit".
 
 <b>1986</b>—Pub. L. 99–571, title II, §201(b)(2), Oct. 28, 1986, 100 Stat. 3224, added item 9110.
 

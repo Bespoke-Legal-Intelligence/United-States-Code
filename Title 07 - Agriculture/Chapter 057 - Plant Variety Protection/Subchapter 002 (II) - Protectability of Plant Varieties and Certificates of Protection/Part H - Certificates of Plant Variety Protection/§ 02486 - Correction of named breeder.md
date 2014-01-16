@@ -6,7 +6,7 @@ An error as to the naming of a breeder in the application, without deceptive int
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–349 substituted “the Secretary” for “him” in first sentence and “the person” for “he” in third sentence.
+<b>1994</b>—Pub. L. 103–349 substituted "the Secretary" for "him" in first sentence and "the person" for "he" in third sentence.
 
 #### Effective Date of 1994 Amendment
 

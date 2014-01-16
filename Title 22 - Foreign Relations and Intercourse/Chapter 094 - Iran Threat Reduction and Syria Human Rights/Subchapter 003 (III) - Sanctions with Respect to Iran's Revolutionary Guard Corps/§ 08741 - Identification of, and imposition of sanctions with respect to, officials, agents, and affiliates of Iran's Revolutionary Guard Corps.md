@@ -42,7 +42,7 @@ A sensitive transaction or activity described in this subsection is—
 
 #### (2) Regulatory exceptions to comply with international obligations
 
-&emsp;The requirement to deny visas to and exclude aliens from the United States pursuant to paragraph (1) shall be subject to such regulations as the President may prescribe, including regulatory exceptions to permit the United States to comply with the Agreementbetween the United Nations and the United States of America regarding the Headquarters of the United Nations, signed June 26, 1947, and entered into force November 21, 1947, and other applicable international obligations.
+&emsp;The requirement to deny visas to and exclude aliens from the United States pursuant to paragraph (1) shall be subject to such regulations as the President may prescribe, including regulatory exceptions to permit the United States to comply with the Agreement between the United Nations and the United States of America regarding the Headquarters of the United Nations, signed June 26, 1947, and entered into force November 21, 1947, and other applicable international obligations.
 
 #### (e) Waiver of imposition of sanctions
 

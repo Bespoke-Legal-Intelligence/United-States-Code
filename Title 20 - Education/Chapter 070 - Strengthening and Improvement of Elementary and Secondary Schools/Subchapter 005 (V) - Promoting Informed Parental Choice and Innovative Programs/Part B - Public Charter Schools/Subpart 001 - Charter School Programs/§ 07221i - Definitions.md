@@ -4,7 +4,7 @@ In this subpart:
 
 #### (1) Charter school
 
-&emsp;The term “charter school” means a public school that—
+&emsp;The term "charter school" means a public school that—
 
 &emsp;&emsp;(A) in accordance with a specific State statute authorizing the granting of charters to schools, is exempt from significant State or local rules that inhibit the flexible operation and management of public schools, but not from any rules relating to the other requirements of this paragraph;
 
@@ -32,11 +32,11 @@ In this subpart:
 
 #### (2) Developer
 
-&emsp;The term “developer” means an individual or group of individuals (including a public or private nonprofit organization), which may include teachers, administrators and other school staff, parents, or other members of the local community in which a charter school project will be carried out.
+&emsp;The term "developer" means an individual or group of individuals (including a public or private nonprofit organization), which may include teachers, administrators and other school staff, parents, or other members of the local community in which a charter school project will be carried out.
 
 #### (3) Eligible applicant
 
-&emsp;The term “eligible applicant” means a developer that has—
+&emsp;The term "eligible applicant" means a developer that has—
 
 &emsp;&emsp;(A) applied to an authorized public chartering authority to operate a charter school; and
 
@@ -44,7 +44,7 @@ In this subpart:
 
 #### (4) Authorized public chartering agency
 
-&emsp;The term “authorized public chartering agency” means a State educational agency, local educational agency, or other public entity that has the authority pursuant to State law and approved by the Secretary to authorize or approve a charter school.
+&emsp;The term "authorized public chartering agency" means a State educational agency, local educational agency, or other public entity that has the authority pursuant to State law and approved by the Secretary to authorize or approve a charter school.
 
 (Pub. L. 89–10, title V, §5210, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1798.)
 

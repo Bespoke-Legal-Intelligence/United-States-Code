@@ -6,7 +6,7 @@ Section 1802, added Pub. L. 102–484, div. A, title XIII, §1322(a)(1), Oct. 23
 
 Section 1803, added Pub. L. 102–484, div. A, title XIII, §1322(a)(1), Oct. 23, 1992, 106 Stat. 2552, related to determining needs for volunteers and role of Secretary of State.
 
-Section 1804, added Pub. L. 102–484, div. A, title XIII, §1322(a)(1), Oct. 23, 1992, 106 Stat. 2553; amended Pub. L.103–160, div. A, title XI, §1182(a)(4), Nov. 30, 1993, 107 Stat. 1771, related to the compensation and benefits of volunteers.
+Section 1804, added Pub. L. 102–484, div. A, title XIII, §1322(a)(1), Oct. 23, 1992, 106 Stat. 2553; amended Pub. L. 103–160, div. A, title XI, §1182(a)(4), Nov. 30, 1993, 107 Stat. 1771, related to the compensation and benefits of volunteers.
 
 Section 1805, added Pub. L. 102–484, div. A, title XIII, §1322(a)(1), Oct. 23, 1992, 106 Stat. 2553, provided that selection of volunteers to participate in program under this chapter terminate Sept. 30, 1995.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Shipbuilding Capability Preservation Agreements.—The Secretary of the Navy may enter into an agreement, to be known as a “shipbuilding capability preservation agreement”, with a shipbuilder under which the cost reimbursement rules described in subsection (b) shall be applied to the shipbuilder under a Navy contract for the construction of a ship. Such an agreement may be entered into in any case in which the Secretary determines that the application of such cost reimbursement rules would facilitate the achievement of the policy objectives set forth in section 2501(b) of this title.
+Shipbuilding Capability Preservation Agreements.—The Secretary of the Navy may enter into an agreement, to be known as a "shipbuilding capability preservation agreement", with a shipbuilder under which the cost reimbursement rules described in subsection (b) shall be applied to the shipbuilder under a Navy contract for the construction of a ship. Such an agreement may be entered into in any case in which the Secretary determines that the application of such cost reimbursement rules would facilitate the achievement of the policy objectives set forth in section 2501(b) of this title.
 
 (b)
 
@@ -40,9 +40,9 @@ Applicability.—(1) An agreement entered into with a shipbuilder under subsecti
 
 #### Amendments
 
-<b>1999</b>—Subsec. (d)(2). Pub. L. 106–65 substituted “November 18, 1997,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998”.
+<b>1999</b>—Subsec. (d)(2). Pub. L. 106–65 substituted "November 18, 1997," for "the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998".
 
 #### Procedures for Applications and for Consideration of Agreements
 
-Pub. L. 105–85, div. A, title X, §1027(b), Nov. 18, 1997, 111 Stat. 1880, provided that: “Not later than 30 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary of the Navy shall establish application procedures and procedures for expeditious consideration of shipbuilding capability preservation agreements as authorized by section 7315 of title 10, United States Code, as added by subsection (a).”
+Pub. L. 105–85, div. A, title X, §1027(b), Nov. 18, 1997, 111 Stat. 1880, provided that: "Not later than 30 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary of the Navy shall establish application procedures and procedures for expeditious consideration of shipbuilding capability preservation agreements as authorized by section 7315 of title 10, United States Code, as added by subsection (a)."
 

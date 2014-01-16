@@ -20,7 +20,7 @@ In the case of excess funds described in subsection (a) of this section in proje
 
 &emsp;(2) return the funds to the originating agency.
 
-(Pub. L. 89–136, title II, §211, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3606; amended Pub. L. 108–373, title II, §208, Oct. 27, 2004, 118 Stat. 1763; Pub. L. 111–8, div. G, title I, §1301(b), Mar. 11, 2009, 123 Stat. 829; Pub. L. 111–68, div. A, title I, §1501(a), Oct. 1, 2009, 123 Stat. 2041.)
+(Pub. L. 89–136, title II, §211, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3606; amended Pub. L. 108–373, title II, §208, Oct. 27, 2004, 118 Stat. 1763; Pub. L. 111–8, div. G, titleI, §1301(b), Mar. 11, 2009, 123 Stat. 829; Pub. L. 111–68, div. A, title I, §1501(a), Oct. 1, 2009, 123 Stat. 2041.)
 
 #### Prior Provisions
 
@@ -32,13 +32,13 @@ Section 3151a, Pub. L. 89–136, title III, §302, as added Pub. L. 93–423, §
 
 #### Amendments
 
-<b>2009</b>—Subsec. (d). Pub. L. 111–68 struck out subsec. (d). Text read as follows: “The Comptroller General of the United States shall regularly review the implementation of this section.”
+<b>2009</b>—Subsec. (d). Pub. L. 111–68 struck out subsec. (d). Text read as follows: "The Comptroller General of the United States shall regularly review the implementation of this section."
 
 Pub. L. 111–8 added subsec. (d) and struck out former subsec. (d) which required the Comptroller General to review and report on the implementation of this section.
 
-<b>2004</b>—Pub. L. 108–373 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “In any case in which a grant (including a supplementary grant described in section 3145 of this title) has been made by the Secretary under this subchapter (or made under this chapter, as in effect on the day before the effective date of the Economic Development Administration Reform Act of 1998) for a construction project, and, after the grant has been made but before completion of the project, the cost of the project based on the designs and specifications that was the basis of the grant has decreased because of decreases in costs—
+<b>2004</b>—Pub. L. 108–373 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "In any case in which a grant (including a supplementary grant described in section 3145 of this title) has been made by the Secretary under this subchapter (or made under this chapter, as in effect on the day before the effective date of the Economic Development Administration Reform Act of 1998) for a construction project, and, after the grant has been made but before completion of the project, the cost of the project based on the designs and specifications that was the basis of the grant has decreased because of decreases in costs—
 
-&emsp;“(1) the Secretary may approve, subject to the availability of appropriations, the use of the excessfunds or a portion of the funds to improve the project; and
+&emsp;"(1) the Secretary may approve, subject to the availability of appropriations, the use of the excess funds or a portion of the funds to improve the project; and
 
-&emsp;“(2) any amount of excess funds remaining after application of paragraph (1) shall be deposited in the general fund of the Treasury.”
+&emsp;"(2) any amount of excess funds remaining after application of paragraph (1) shall be deposited in the general fund of the Treasury."
 

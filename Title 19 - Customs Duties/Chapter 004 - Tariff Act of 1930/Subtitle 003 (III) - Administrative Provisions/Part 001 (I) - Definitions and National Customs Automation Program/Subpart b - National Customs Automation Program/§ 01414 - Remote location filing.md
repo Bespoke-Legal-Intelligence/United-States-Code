@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;A Program participant may file electronically an entry of merchandise with the Customs Service from a location other than the district designated in the entry for examination (hereafter in this section referred to as a “remote location”) if—
+&emsp;A Program participant may file electronically an entry of merchandise with the Customs Service from a location other than the district designated in the entry for examination (hereafter in this section referred to as a "remote location") if—
 
 &emsp;&emsp;(A) the Customs Service is satisfied that the participant has the capabilities referred to in paragraph (2)(A) regarding such method of filing; and
 
@@ -64,7 +64,7 @@
 
 #### (C) Appropriate location
 
-&emsp;&emsp;For purposes of subparagraph (B), the “appropriate location” is—
+&emsp;&emsp;For purposes of subparagraph (B), the "appropriate location" is—
 
 &emsp;&emsp;&emsp;(i) before January 1, 1999, a designated location; and
 
@@ -86,9 +86,9 @@ A Program participant that is eligible to file electronically entry information 
 
 As used in this section:
 
-&emsp;(1) The term “designated location” means a customs office located in the customs district designated by the entry filer for purposes of customs examination of the merchandise.
+&emsp;(1) The term "designated location" means a customs office located in the customs district designated by the entry filer for purposes of customs examination of the merchandise.
 
-&emsp;(2) The term “Program participant” means, with respect to an entry of merchandise, any party entitled to make the entry under section 1484(a)(2)(B) of this title.
+&emsp;(2) The term "Program participant" means, with respect to an entry of merchandise, any party entitled to make the entry under section 1484(a)(2)(B) of this title.
 
 (June 17, 1930, ch. 497, title IV, §414, as added Pub. L. 103–182, title VI, §631(2), Dec. 8, 1993, 107 Stat. 2191.)
 

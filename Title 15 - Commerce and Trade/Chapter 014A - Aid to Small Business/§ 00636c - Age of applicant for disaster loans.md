@@ -1,6 +1,6 @@
 ### §636c. Age of applicant for disaster loans
 
-In the administration of any Federal disaster loan program under the authority of section 636a <sup>1</sup> of this title, section 4452 <sup>1</sup> of title 42, or section 233 of Public Law 91–606, the age of any adult loan applicant shall not be considered in determining whether such loan should be made or the amount of such loan.
+In the administration of any Federal disaster loan program under the authority of section636a <sup>1</sup> of this title, section 4452 <sup>1</sup> of title 42, or section 233 of Public Law 91–606, the age of any adult loan applicant shall not be considered in determining whether such loan should be made or the amount of such loan.
 
 (Pub. L. 91–606, title II, §235, Dec. 31, 1970, 84 Stat. 1754.)
 
@@ -10,7 +10,7 @@ Section 636a of this title, referred to in text, was repealed by Pub. L. 97–35
 
 Section 4452 of title 42, referred to in text, was repealed by Pub. L. 93–24, §7, Apr. 20, 1973, 87 Stat. 25.
 
-Section 233 of Public Law 91–606, referred to in text, amended section 1820(a)(2), (f) \[now 3720(a)(2), (f)\] of Title 38, Veterans’ Benefits.
+Section 233 of Public Law 91–606, referred to in text, amended section 1820(a)(2), (f) \[now 3720(a)(2), (f)\] of Title 38, Veterans' Benefits.
 
 #### Codification
 

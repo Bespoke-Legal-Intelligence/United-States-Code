@@ -24,7 +24,7 @@ Upon the request of the Secretary of Agriculture, the Secretary of State shall r
 
 #### (d) Assignment to United States
 
-Any officer or employee appointed and assigned to a post abroad pursuant to this subchapter may, in the discretion of the Secretary of Agriculture, be assigned for duty in the continental United States, without regard to the civil service laws (and without reduction in grade if an appropriate position at the employee's grade is not available in any agency of the Department of Agriculture), for a period of not more than three years: <i>Provided,</i> That the total number of such employees assigned for duty in the continental United States under this provision shall not exceed fifteen at any one time: <i>Provided further,</i> That this Act shall not increase the number of persons employed at grade GS–16, GS–17, or GS–18.
+Any officer or employee appointed and assigned to a post abroad pursuant to this subchapter may, in the discretion of the Secretary of Agriculture, be assigned for duty in the continental United States, without regard to thecivil service laws (and without reduction in grade if an appropriate position at the employee's grade is not available in any agency of the Department of Agriculture), for a period of not more than three years: <i>Provided,</i> That the total number of such employees assigned for duty in the continental United States under this provision shall not exceed fifteen at any one time: <i>Provided further,</i> That this Act shall not increase the number of persons employed at grade GS–16, GS–17, or GS–18.
 
 (Aug. 28, 1954, ch. 1041, title VI, §602(a)–(d), formerly §602(a)–(c), (e), 68 Stat. 908, 909; amended June 28, 1955, ch. 189, §12(c)(13), 69 Stat. 182; Pub. L. 89–106, §4, Aug. 4, 1965, 79 Stat. 431; Pub. L. 94–449, Oct. 1, 1976, 90 Stat. 1500; renumbered §602(a)–(d) and amended Pub. L. 95–501, title III, §301(4), (5), title IV, §401(3), (5), Oct. 21, 1978, 92 Stat. 1688, 1691.)
 
@@ -34,11 +34,11 @@ This Act, referred to in subsec. (d), is act Aug. 28, 1954, ch. 1041, 68 Stat. 8
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–501, §301(4), substituted “this subchapter” for “this chapter”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–501, §301(4), substituted "this subchapter" for "this chapter".
 
 Subsec. (b). Pub. L. 95–501, §301(5), inserted provisions relating to appointment of Agricultural Counselors and rank and privileges to be accorded such counselors or other officers or employees assigned abroad.
 
-Subsecs. (d), (e). Pub. L. 95–501, §§301(4), 401(5), redesignated subsec. (e) as (d) and substituted “this subchapter” for “this chapter”. Former subsec. (d), relating to Presidential regulations, was redesignated section 606B of act Aug. 28, 1954, by section 401(3) of Pub. L. 95–501, which is classified to section 1766a of this title.
+Subsecs. (d), (e). Pub. L. 95–501, §§301(4), 401(5), redesignated subsec. (e) as (d) and substituted "this subchapter" for "this chapter". Former subsec. (d), relating to Presidential regulations, was redesignated section 606B of act Aug. 28, 1954, by section 401(3) of Pub. L. 95–501, which is classified to section 1766a of this title.
 
 Subsec. (f). Pub. L. 95–501, §401(3), redesignated subsec. (f), relating to language training for families of officers and employees assigned abroad, as section 606C of act Aug. 28, 1954, which is classified to section 1766b of this title.
 
@@ -60,7 +60,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 Ex. Ord. No. 10624, July 28, 1955, 20 F.R. 5445, as amended by Ex. Ord. No. 10903, Jan. 9, 1961, 26 F.R. 217; Ex. Ord. No. 11530, May 26, 1970, 35 F.R. 8335; Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13967; Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
-By virtue of the authority vested in me by sections 605, 606B and 606D of Title VI of the Act of August 28,1954, as amended, (7 U.S.C. 1765, 1766a, and 1766c), and by section 301 of title 3 of the United States Code, and as President of the United States, I hereby prescribe the following regulations relating to personnel of the Department of Agriculture assigned to service abroad:
+By virtue of the authority vested in me by sections 605, 606B and 606D of Title VI of the Act of August 28, 1954, as amended, (7 U.S.C. 1765, 1766a, and 1766c), and by section 301 of title 3 of the United States Code, and as President of the United States, I hereby prescribe the following regulations relating to personnel of the Department of Agriculture assigned to service abroad:
 
 Section 1. (a) The provisions of section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) shall be applicable to the official activities of persons assigned abroad under authority of Title VI of the said act of August 28, 1954 \[this chapter\].
 

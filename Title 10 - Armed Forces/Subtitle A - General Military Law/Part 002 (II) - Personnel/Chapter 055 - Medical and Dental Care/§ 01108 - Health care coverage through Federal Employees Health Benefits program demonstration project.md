@@ -2,13 +2,13 @@
 
 (a)
 
-FEHBP Option Demonstration.—The Secretary of Defense, after consulting with the other administering Secretaries, shall enter into an agreement with the Office of Personnel Management to conduct a demonstration project (in this section referred to as the “demonstration project”) under which eligible beneficiaries described in subsection (b) and residing within one of the areas covered by the demonstration project may enroll in health benefits plans offered through the Federal Employees Health Benefits program under chapter 89 of title 5. The number of eligible beneficiaries and family members of such beneficiaries under subsection (b)(2) who may be enrolled in health benefits plans during the enrollment period under subsection (d)(2) may not exceed 66,000.
+FEHBP Option Demonstration.—The Secretary of Defense, after consulting with the other administering Secretaries, shall enter into an agreement with the Office of Personnel Management to conduct a demonstration project (in this section referred to as the "demonstration project") under which eligible beneficiaries described in subsection (b) and residing within one of the areas covered by the demonstration project may enroll in health benefits plans offered through the Federal Employees Health Benefits program under chapter 89 of title 5. The number of eligible beneficiaries and family members of such beneficiaries under subsection (b)(2) who may be enrolled in health benefits plans during the enrollment period under subsection (d)(2) may not exceed 66,000.
 
 (b)
 
 Eligible Beneficiaries; Coverage.—(1) An eligible beneficiary under this subsection is—
 
-&emsp;(A) a member or former member of the uniformed services described in section 1074(b) of this title who is entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.);
+&emsp;(A) a member or former member of the uniformed services described in section 1074(b) of this title who is entitled to hospital insurancebenefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.);
 
 &emsp;(B) an individual who is an unremarried former spouse of a member or former member described in section 1072(2)(F) or 1072(2)(G));
 
@@ -60,7 +60,7 @@ Term of Enrollment in Project.—(1) Subject to paragraphs (2) and (3), the peri
 
 (2) A beneficiary who elects to enroll in the project, and who subsequently discontinues enrollment in the project before the end of the period described in paragraph (1), shall not be eligible to reenroll in the project.
 
-(3) An eligible beneficiary enrolled in a Federal Employees Health Benefits plan under thissection may change health benefits plans and coverage in the same manner as any other Federal Employees Health Benefits program beneficiary may change such plans.
+(3) An eligible beneficiary enrolled in a Federal Employees Health Benefits plan under this section may change health benefits plans and coverage in the same manner as any other Federal Employees Health Benefits program beneficiary may change such plans.
 
 (g)
 
@@ -74,7 +74,7 @@ Separate Risk Pools; Charges.—(1) The Director of the Office of Personnel Mana
 
 (i)
 
-Government Contributions.—The Secretary of Defense shall be responsible for the Government contribution for an eligible beneficiary who enrolls in a health benefits plan under chapter 89 of title 5 in accordance with this section, except that the amount of the contribution may not exceed the amount of the Government contribution which would be payable if the electing beneficiary were an employee (as defined for purposes of such chapter) enrolled in the same health benefits plan and level of benefits.
+Government Contributions.—The Secretary of Defense shall be responsible for the Government contribution for an eligible beneficiary who enrolls in a health benefits plan under chapter 89 of title 5 in accordance with this section, except that the amount of the contribution may not exceed the amount of the Government contribution which would be payable if the electing beneficiary were an employee (as defined for purposes of such chapter)enrolled in the same health benefits plan and level of benefits.
 
 (j)
 
@@ -98,7 +98,7 @@ Section 1896 of the Social Security Act, referred to in subsec. (c)(3), was clas
 
 <b>2013</b>—Subsecs. (j) to (l). Pub. L. 112–239 redesignated subsec. (l) as (j) and struck out former subsecs. (j) and (k) which required reports regarding the demonstration project by the Secretary of Defense and the Director of the Office of Personnel Management and by the Comptroller General.
 
-<b>2004</b>—Subsec. (e). Pub. L. 108–375 substituted “health” for “heath”.
+<b>2004</b>—Subsec. (e). Pub. L. 108–375 substituted "health" for "heath".
 
 #### Change of Name
 

@@ -16,11 +16,11 @@ The Secretary shall establish such performance measures as may be necessary to a
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–411 inserted “an appropriate level of” after “shall include”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–411 inserted "an appropriate level of" after "shall include".
 
 #### Effective Date
 

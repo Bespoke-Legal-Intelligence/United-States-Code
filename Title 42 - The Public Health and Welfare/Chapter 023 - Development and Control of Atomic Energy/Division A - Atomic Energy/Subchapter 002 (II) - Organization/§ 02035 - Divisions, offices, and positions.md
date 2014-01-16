@@ -20,13 +20,17 @@ There is established within the Commission—
 
 (Aug. 1, 1946, ch. 724, title I, §25, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 925; amended Pub. L. 85–287, §3, Sept. 4, 1957, 71 Stat. 612; Pub. L. 88–426, title III, §306(f)(4)–(7), Aug. 14, 1964, 78 Stat. 429, 430; Pub. L. 90–190, §5, Dec. 14, 1967, 81 Stat. 577; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (c), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1802(a)(4)(B) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–190 substituted an Assistant General Manager for Military Application, who would be appointed by the Commission, for the Director of the Division of Military Application as the head of the Division of Military Application, inserted requirement that the Assistant General Manager be a commissioned officer of the Armed Forces serving in general or flag officer rank or grade, as appropriate, and substituted “other program division” for “such division”.
+<b>1967</b>—Subsec. (a). Pub. L. 90–190 substituted an Assistant General Manager for Military Application, who would be appointed by the Commission, for the Director of the Division of Military Application as the head of the Division of Military Application, inserted requirement that the Assistant General Manager be a commissioned officer of the Armed Forces serving in general or flag officer rank or grade, as appropriate, and substituted "other program division" for "such division".
 
 <b>1964</b>—Subsec. (a). Pub. L. 88–426, §306(f)(4), struck out provisions which prescribed the compensation of directors of program divisions.
 
@@ -36,7 +40,7 @@ Subsec. (c). Pub. L. 88–426, §306(f)(6), struck out provisions which prescrib
 
 Subsec. (d). Pub. L. 88–426, §306(f)(7), struck out provisions which prescribed compensation of executive management positions.
 
-<b>1957</b>—Pub. L. 85–287 substituted “Divisions, offices, and positions” for “Divisions and offices” in section catchline.
+<b>1957</b>—Pub. L. 85–287 substituted "Divisions, offices, and positions" for "Divisions and offices" in section catchline.
 
 Subsec. (a). Pub. L. 85–287 increased compensation of Director from $16,000 to $19,000 per annum.
 

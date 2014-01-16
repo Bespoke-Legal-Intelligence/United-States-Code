@@ -16,9 +16,9 @@ Section 14303(a) requires the Secretary to issue, on the request of the owner, a
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–281, §303(e)(1)(C), struck out “International” before “Tonnage” and “(1969)” after “Certificate” in section catchline.
+<b>2010</b>—Pub. L. 111–281, §303(e)(1)(C), struck out "International" before "Tonnage" and "(1969)" after "Certificate" in section catchline.
 
-Subsec. (a). Pub. L. 111–281, §303(e)(1)(A), inserted at end “For a vessel to which the Convention does not apply, the Secretary shall prescribe a certificate to be issued as evidence of a vessel's measurement under this chapter.”
+Subsec. (a). Pub. L. 111–281, §303(e)(1)(A), inserted at end "For a vessel to which the Convention does not apply, the Secretary shall prescribe a certificate to be issued as evidence of a vessel's measurement under this chapter."
 
-Subsec. (b). Pub. L. 111–281, §303(e)(1)(B), inserted “issued under this section” after “The certificate”.
+Subsec. (b). Pub. L. 111–281, §303(e)(1)(B), inserted "issued under this section" after "The certificate".
 

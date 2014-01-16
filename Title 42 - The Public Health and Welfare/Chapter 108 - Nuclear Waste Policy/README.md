@@ -156,7 +156,7 @@
 
 |  |  |
 | :--- | ---: |
-| [10241\.](Subchapter%20004%20%28IV%29%20-%20Nuclear%20Waste%20Negotiator/%C2%A7%2010241%20-%20%E2%80%9CState%E2%80%9D%20defined.md) | “State” defined. |
+| [10241\.](Subchapter%20004%20%28IV%29%20-%20Nuclear%20Waste%20Negotiator/%C2%A7%2010241%20-%20State%20defined.md) | "State" defined. |
 | [10242\.](Subchapter%20004%20%28IV%29%20-%20Nuclear%20Waste%20Negotiator/%C2%A7%2010242%20-%20Office%20of%20Nuclear%20Waste%20Negotiator.md) | Office of Nuclear Waste Negotiator. |
 | [10243\.](Subchapter%20004%20%28IV%29%20-%20Nuclear%20Waste%20Negotiator/%C2%A7%2010243%20-%20Duties%20of%20Negotiator.md) | Duties of Negotiator. |
 | [10244\.](Subchapter%20004%20%28IV%29%20-%20Nuclear%20Waste%20Negotiator/%C2%A7%2010244%20-%20Environmental%20assessment%20of%20sites.md) | Environmental assessment of sites. |

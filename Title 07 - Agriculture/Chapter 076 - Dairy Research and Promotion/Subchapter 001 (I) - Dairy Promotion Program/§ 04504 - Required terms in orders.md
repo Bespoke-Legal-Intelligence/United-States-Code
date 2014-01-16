@@ -112,7 +112,7 @@ In general.—An importer shall be entitled to a refund of any assessment paid u
 
 Expiration.—Refunds under subparagraph (A) shall expire 1 year after the date of enactment of the Food, Conservation, and Energy Act of 2008.
 
-(h) The order shall require the Board to (1) maintain such books and records (which shall beavailable to the Secretary for inspection and audit) as the Secretary may prescribe, (2) prepare and submit to the Secretary, from time to time, such reports as the Secretary may prescribe, and (3) account for the receipt and disbursement of all funds entrusted to it.
+(h) The order shall require the Board to (1) maintain such books and records (which shall be available to the Secretary for inspection and audit) as the Secretary may prescribe, (2) prepare and submit to the Secretary, from time to time, such reports as the Secretary may prescribe, and (3) account for the receipt and disbursement of all funds entrusted to it.
 
 (i) The order shall provide that the Board, with the approval of the Secretary, may invest, pending disbursement under a plan or project, funds collected through assessments authorized under this subchapter only in obligations of the United States or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a bank that is a member of the Federal Reserve System, or in obligations fully guaranteed as to principal and interest by the United States.
 
@@ -134,23 +134,23 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (e)(2). Pub. L. 110–246, §1507(a), substituted “2012” for “2007”.
+<b>2008</b>—Subsec. (e)(2). Pub. L. 110–246, §1507(a), substituted "2012" for "2007".
 
-Subsec. (g)(3). Pub. L. 110–246, §1507(d), added par. (3) and struck out former par. (3) which read as follows: “The rate of assessment for milk produced in the United States and imported dairy products prescribed by the order shall be 15 cents per hundredweight of milk for commercial use or the equivalent thereof, as determined by the Secretary.”
+Subsec. (g)(3). Pub. L. 110–246, §1507(d), added par. (3) and struck out former par. (3) which read as follows: "The rate of assessment for milk produced in the United States and imported dairy products prescribed by the order shall be 15 cents per hundredweight of milk for commercial use or the equivalent thereof, as determined by the Secretary."
 
-Subsec. (g)(6)(B), (C). Pub. L. 110–246, §1507(e), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The assessment on imported dairy products shall be paid by the importer to Customs at the time the entry documents are filed with Customs. Customs shall remit the assessments to the Board. For purposes of this subparagraph, the term ‘importer’ includes persons who hold title to foreign-produced dairy products immediately upon release by Customs, as well as persons who act on behalf of others, as agents, brokers, or consignees, to secure the release of dairy products from Customs.”
+Subsec. (g)(6)(B), (C). Pub. L. 110–246, §1507(e), redesignated subpar. (C) as (B) and struck out former subpar. (B). Prior to amendment, text read as follows: "The assessment on imported dairy products shall be paid by the importer to Customs at the time the entry documents are filed with Customs. Customs shall remit the assessments to the Board. For purposes of this subparagraph, the term 'importer' includes persons who hold title to foreign-produced dairy products immediately upon release by Customs, as well as persons who act on behalf of others, as agents, brokers, or consignees, to secure the release of dairy products from Customs."
 
 Subsec. (g)(7). Pub. L. 110–246, §1507(f), added par. (7).
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–171, §1505(b), inserted heading, designated first to ninth sentences as pars. (1) to (5) and (7) to (10), respectively, and realigned margins, substituted “Except as provided in paragraph (6), the members of the Board” for “Members of the Board” in par. (2) and “is produced as well as importers of dairy products” for “is produced” in par. (8), and added par. (6).
+<b>2002</b>—Subsec. (b). Pub. L. 107–171, §1505(b), inserted heading, designated first to ninth sentences as pars. (1) to (5) and (7) to (10), respectively, and realigned margins, substituted "Except as provided in paragraph (6), the members of the Board" for "Members of the Board" in par. (2) and "is produced as well as importers of dairy products" for "is produced" in par. (8), and added par. (6).
 
-Subsec. (e). Pub. L. 107–171, §1505(c), inserted heading, designated existing provisions as par. (1), inserted heading, and struck out “For each of fiscal years 1997 through 2001, the Board's budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced in the United States from milk produced in the United States.” at end, and added par. (2).
+Subsec. (e). Pub. L. 107–171, §1505(c), inserted heading, designated existing provisions as par. (1), inserted heading, and struck out "For each of fiscal years 1997 through 2001, the Board's budget may provide for theexpenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced in the United States from milk produced in the United States." at end, and added par. (2).
 
-Subsec. (g). Pub. L. 107–171, §1505(d), inserted heading, designated first to fifth sentences as pars. (1) to (5), respectively, and realigned margins, inserted “for milk produced in the United States and imported dairy products” after “The rate of assessment” and “, as determined by the Secretary” before period at end in par. (3), and added par. (6).
+Subsec. (g). Pub. L. 107–171, §1505(d), inserted heading, designated first to fifth sentences as pars. (1) to (5), respectively, and realigned margins, inserted "for milk produced in the United States and imported dairy products" after "The rate of assessment" and ", as determined by the Secretary" before period at end in par. (3), and added par. (6).
 
-Subsec. (k). Pub. L. 107–171, §1505(e), substituted “importer of imported dairy products, each person receiving milk from farmers” for “person receiving milk from farmers” in first sentence.
+Subsec. (k). Pub. L. 107–171, §1505(e), substituted "importer of imported dairy products, each person receiving milk from farmers" for "person receiving milk from farmers" in first sentence.
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–127 inserted at end “For each of fiscal years 1997 through 2001, the Board's budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced in the United States from milk produced in the United States.”
+<b>1996</b>—Subsec. (e). Pub. L. 104–127 inserted at end "For each of fiscal years 1997 through 2001, the Board's budget may provide for the expenditure of revenues available to the Board to develop international markets for, and to promote within such markets, the consumption of dairy products produced in the United States from milk produced in the United States."
 
 #### Effective Date of 2008 Amendment
 

@@ -24,5 +24,5 @@ Nothing in subsections <sup>1</sup> (a), (b), or (c) of this section shall be c
 
 (Pub. L. 107–279, title I, §186, Nov. 5, 2002, 116 Stat. 1973.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

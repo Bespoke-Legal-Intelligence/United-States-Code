@@ -30,9 +30,9 @@ Section 4619 of this title, referred to in subsecs. (a)(1) and (d), was repealed
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–289, §1145(b)(3)(B), substituted “A regulated entity” for “An enterprise”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–289, §1145(b)(3)(B), substituted "A regulated entity" for "An enterprise".
 
-Subsec. (c). Pub. L. 110–289, §1145(b)(3)(A), substituted “a regulated entity” for “an enterprise” in two places.
+Subsec. (c). Pub. L. 110–289, §1145(b)(3)(A), substituted "a regulated entity" for "an enterprise" in two places.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -20,11 +20,11 @@ No instructions under this section respecting adjustments or modifications may r
 
 #### (d) State inspection and maintenance programs
 
-Before January 1, 1981 the authority provided by this section shall be available in any high altitude State (as determined under regulations of the Administrator under regulations promulgated before August 7, 1977) but after December31, 1980, such authority shall be available only in any such State in which an inspection and maintenance program for the testing of motor vehicle emissions has been instituted for the portions of the State where any national ambient air quality standard for auto-related pollutants has not been attained.
+Before January 1, 1981 the authority provided by this section shall be available in any high altitude State (as determined under regulations of the Administrator under regulations promulgated before August 7, 1977) but after December 31, 1980, such authority shall be available only in any such State in which an inspection and maintenance program for the testing of motor vehicle emissions has been instituted for the portions of the State where any national ambient air quality standard for auto-related pollutants has not been attained.
 
 #### (e) High altitude testing
 
-(1) The Administrator shall promptly establish at least one testing center (in addition to the testing centers existing on November 15, 1990) located at a site that represents high altitude conditions, to ascertain in a reasonable manner whether, when in actual use throughout their useful life (as determined under section 7521(d) of this title), each class or category of vehicle and engines to which regulations under section 7521 of this title apply conforms to the emissions standards established by such regulations. For purposes of this subsection, the term “high altitude conditions” refers to high altitude as defined in regulations of the Administrator in effect as of November 15, 1990.
+(1) The Administrator shall promptly establish at least one testing center (in addition to the testing centers existing on November 15, 1990) located at a site that represents high altitude conditions, to ascertain in a reasonable manner whether, when in actual use throughout their useful life (as determined under section 7521(d) of this title), each class or category of vehicle and engines to which regulations under section 7521 of this title apply conforms to the emissions standards established by such regulations. For purposes of this subsection, the term "high altitude conditions" refers to high altitude as defined in regulations of the Administrator in effect as of November 15, 1990.
 
 (2) The Administrator, in cooperation with the Secretary of Energy and the Administrator of the Federal Transit Administration, and such other agencies as the Administrator deems appropriate, shall establish a research and technology assessment center to provide for the development and evaluation of less-polluting heavy-duty engines and fuels for use in buses, heavy-duty trucks, and non-road engines and vehicles, which shall be located at a high-altitude site that represents high-altitude conditions. In establishing and funding such a center, the Administrator shall give preference to proposals which provide for local cost-sharing of facilities and recovery of costs of operation through utilization of such facility for the purposes of this section.
 
@@ -34,17 +34,17 @@ Before January 1, 1981 the authority provided by this section shall be available
 
 #### Codification
 
-In subsec. (d), “August 7, 1977” substituted for “the date of enactment of this Act” to reflect the probable intent of Congress that such date of enactment meant the date of enactment of Pub. L. 95–95.
+In subsec. (d), "August 7, 1977" substituted for "the date of enactment of this Act" to reflect the probable intent of Congress that such date of enactment meant the date of enactment of Pub. L. 95–95.
 
 #### Amendments
 
 <b>1990</b>—Subsec. (e). Pub. L. 101–549 added subsec. (e).
 
-<b>1977</b>—Subsec. (d). Pub. L. 95–190 substituted “December 31, 1980” for “December 31, 1981”.
+<b>1977</b>—Subsec. (d). Pub. L. 95–190 substituted "December 31, 1980" for "December 31, 1981".
 
 #### Change of Name
 
-“Federal Transit Administration” substituted for “Urban Mass Transportation Administration” in subsec. (e)(2) pursuant to section 3004(b) of Pub. L. 102–240, set out as a note under section 107 of Title 49, Transportation.
+"Federal Transit Administration" substituted for "Urban Mass Transportation Administration" in subsec. (e)(2) pursuant to section 3004(b) of Pub. L. 102–240, set out as a note under section 107 of Title 49, Transportation.
 
 #### Effective Date
 

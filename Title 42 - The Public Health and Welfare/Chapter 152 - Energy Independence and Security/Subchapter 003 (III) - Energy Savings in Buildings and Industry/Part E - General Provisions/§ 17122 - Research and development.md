@@ -38,11 +38,11 @@ The Federal Director and the Commercial Director, jointly and in coordination wi
 
 &emsp;&emsp;(C) identifies and tests new and emerging technologies for high-performance green buildings;
 
-&emsp;(3) assist the budget and life-cycle costing functions of the Directors’ Offices under section 17092(d) of this title;
+&emsp;(3) assist the budget and life-cycle costing functions of the Directors' Offices under section 17092(d) of this title;
 
 &emsp;(4) study and identify potential benefits of green buildings relating to security, natural disaster, and emergency needs of the Federal Government; and
 
-&emsp;(5) support other research initiatives determined by the Directors’ Offices.
+&emsp;(5) support other research initiatives determined by the Directors' Offices.
 
 #### (b) Indoor air quality
 

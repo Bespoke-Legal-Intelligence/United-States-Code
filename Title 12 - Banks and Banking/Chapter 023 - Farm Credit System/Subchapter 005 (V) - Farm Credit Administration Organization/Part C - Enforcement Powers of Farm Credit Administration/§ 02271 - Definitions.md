@@ -2,13 +2,13 @@
 
 As used in this part—
 
-&emsp;(1) the terms “cease and desist order that has become final” and “order which has become final” mean a cease and desist order, or an order, issued by the Farm Credit Administration with the consent of the System institution or the director or officer or other person concerned, or with respect to which no petition for review of the action of the Farm Credit Administration has been filed and perfected in a court of appeals as specified in section 2266(b) of this title, or with respect to which the action of the court in which such petition is so filed is not subject to further review by the Supreme Court of the United States in proceedings provided for in section 2266(b) of this title, or an order issued under section 2265 of this title;
+&emsp;(1) the terms "cease and desist order that has become final" and "order which has become final" mean a cease and desist order, or an order, issued by the Farm Credit Administration with the consent of the System institution or the director or officer or other person concerned, or with respect to which no petition for review of the action of the Farm Credit Administration has been filed and perfected in a court of appeals as specified in section 2266(b) of this title, or with respect towhich the action of the court in which such petition is so filed is not subject to further review by the Supreme Court of the United States in proceedings provided for in section 2266(b) of this title, or an order issued under section 2265 of this title;
 
-&emsp;(2) the term “violation” includes without limitation any action (alone or with another or others) for or toward causing, bringingabout, participating in, counseling, or aiding or abetting a violation;
+&emsp;(2) the term "violation" includes without limitation any action (alone or with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation;
 
-&emsp;(3) the terms “institution in the System”, “System institution”, and “institution” mean all institutions enumerated in section 2002 of this title, any service organization chartered under part E of subchapter IV of this chapter, and the Financial Assistance Corporation; and
+&emsp;(3) the terms "institution in the System", "System institution", and "institution" mean all institutions enumerated in section 2002 of this title, any service organization chartered under part E of subchapter IV of this chapter, and the Financial Assistance Corporation; and
 
-&emsp;(4) the term “unsafe or unsound practice” shall—
+&emsp;(4) the term "unsafe or unsound practice" shall—
 
 &emsp;&emsp;(A) have the meaning given to it by the Farm Credit Administration by regulation, rule, or order;
 
@@ -20,17 +20,17 @@ As used in this part—
 
 #### Codification
 
-January 6, 1988, referred to in par. (4)(B), was in the original “the date of the enactment of this paragraph” which was translated as meaning the date of enactment of Pub. L. 100–233, which amended par. (4) generally, to reflect the probable intent of Congress.
+January 6, 1988, referred to in par. (4)(B), was in the original "the date of the enactment of this paragraph" which was translated as meaning the date of enactment of Pub. L. 100–233, which amended par. (4) generally, to reflect the probable intent of Congress.
 
 #### Amendments
 
 <b>1992</b>—Par. (4)(C). Pub. L. 102–552 added subpar. (C).
 
-<b>1991</b>—Par. (3). Pub. L. 102–237 substituted “part E” for “part D”.
+<b>1991</b>—Par. (3). Pub. L. 102–237 substituted "part E" for "part D".
 
-<b>1988</b>—Par. (3). Pub. L. 100–233, §207(d), substituted “Financial Assistance Corporation” for “Capital Corporation”.
+<b>1988</b>—Par. (3). Pub. L. 100–233, §207(d), substituted "Financial Assistance Corporation" for "Capital Corporation".
 
-Par. (4). Pub. L. 100–233, §203, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the term ‘unsafe or unsound practice’ shall have the meaning given to it by the Farm Credit Administration by regulations, rule, or order.”
+Par. (4). Pub. L. 100–233, §203, amended par. (4) generally. Prior to amendment, par. (4) read as follows: "the term 'unsafe or unsound practice' shall have the meaning given to it by the Farm Credit Administration by regulations, rule, or order."
 
 #### Effective Date of 1991 Amendment
 

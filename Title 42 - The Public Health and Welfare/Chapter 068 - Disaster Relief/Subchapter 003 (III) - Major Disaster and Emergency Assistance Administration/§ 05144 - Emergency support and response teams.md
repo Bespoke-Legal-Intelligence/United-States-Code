@@ -32,7 +32,7 @@ The President shall form emergency support teams of Federal personnel to be depl
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
 #### Prior Provisions
 
@@ -40,7 +40,7 @@ A prior section 303 of Pub. L. 93–288 was renumbered section 302 by Pub. L. 10
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b). Pub. L. 111–351 substituted “Administrator” for “Director” wherever appearing.
+<b>2011</b>—Subsec. (b). Pub. L. 111–351 substituted "Administrator" for "Director" wherever appearing.
 
-<b>2006</b>—Pub. L. 109–295 substituted “Emergency support and response teams” for “Emergency support teams” in section catchline, designated existing provisions as subsec. (a), inserted subsec. heading, and added subsec. (b).
+<b>2006</b>—Pub. L. 109–295 substituted "Emergency support and response teams" for "Emergency support teams" in section catchline, designated existing provisions as subsec. (a), inserted subsec. heading, and added subsec. (b).
 

@@ -130,7 +130,7 @@ The Secretary of Homeland Security shall provide to the Center the administrativ
 
 &emsp;&emsp;(G) efforts to consolidate networked systems for the Center;
 
-&emsp;&emsp;(H) the mechanisms for the sharing of homeland security information from the Center to the Office of Intelligence and Analysis, including how such sharing shall be consistent with section 485(b) of title 6;
+&emsp;&emsp;(H) the mechanisms for the sharing of homeland security information from the Center to the Office of Intelligence andAnalysis, including how such sharing shall be consistent with section 485(b) of title 6;
 
 &emsp;&emsp;(I) the ability of participating personnel in the Center to freely access necessary databases and share information regarding issues related to human smuggling, trafficking in persons, and terrorist travel;
 
@@ -150,7 +150,7 @@ The Office of Intelligence and Analysis, in coordination with the Center, shall 
 
 #### References in Text
 
-The Foreign Service Act of 1980, referred to in subsec. (e)(3)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071,which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (e)(3)(B), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
 #### Codification
 

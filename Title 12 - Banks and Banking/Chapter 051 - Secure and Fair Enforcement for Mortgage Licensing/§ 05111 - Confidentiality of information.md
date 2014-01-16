@@ -24,7 +24,7 @@ This section shall not apply with respect to the information or material relatin
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (a), (b)(2). Pub. L. 111–203 substituted “Director” for “Secretary”.
+<b>2010</b>—Subsecs. (a), (b)(2). Pub. L. 111–203 substituted "Director" for "Secretary".
 
 #### Effective Date of 2010 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Compliance orders
 
-(1) Except as provided in paragraph (2), whenever on the basis of any information the Administrator determines that any person has violatedor is in violation of any requirement of this subchapter, the Administrator may issue an order assessing a civil penalty for any past or current violation, requiring compliance immediately or within a specified time period, or both, or the Administrator may commence a civil action in the United States district court in the district in which the violation occurred for appropriate relief, including a temporary or permanent injunction.
+(1) Except as provided in paragraph (2), whenever on the basis of any information the Administrator determines that any person has violated or is in violation of any requirement of this subchapter, the Administrator may issue an order assessing a civil penalty for any past or current violation, requiring compliance immediately or within a specified time period, or both, or the Administrator may commence a civil action in the United States district court in the district in which the violation occurred for appropriate relief, including a temporary or permanent injunction.
 
 (2) In the case of a violation of any requirement of this subchapter where such violation occurs in a State which is authorized to carry out a hazardous waste program under section 6926 of this title, the Administrator shall give notice to the State in which such violation has occurred prior to issuing an order or commencing a civil action under this section.
 
@@ -48,7 +48,7 @@ Any person who—
 
 #### (e) Knowing endangerment
 
-Any person who knowingly transports, treats, stores, disposes of, or exports any hazardouswaste identified or listed under this subchapter or used oil not identified or listed as a hazardous waste under this subchapter in violation of paragraph (1), (2), (3), (4), (5), (6), or (7) of subsection (d) of this section who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall, upon conviction, be subject to a fine of not more than $250,000 or imprisonment for not more than fifteen years, or both. A defendant that is an organization shall, upon conviction of violating this subsection, be subject to a fine of not more than $1,000,000.
+Any person who knowingly transports, treats, stores, disposes of, or exports any hazardous waste identified or listed under this subchapter or used oil not identified or listed as a hazardous waste under this subchapter in violation of paragraph (1), (2), (3), (4), (5), (6), or (7) of subsection (d) of this section who knows at that time that he thereby places another person in imminent danger of death or serious bodily injury, shall, upon conviction, be subject to a fine of not more than $250,000 or imprisonment for not more than fifteen years, or both. A defendant that is an organization shall, upon conviction of violating this subsection, be subject to a fine of not more than $1,000,000.
 
 #### (f) Special rules
 
@@ -80,9 +80,9 @@ For the purposes of subsection (e) of this section—
 
 &emsp;(4) All general defenses, affirmative defenses, and bars to prosecution that may apply with respect to other Federal criminal offenses may apply under subsection (e) of this section and shall be determined by the courts of the United States according to the principles of common law as they may be interpreted in the light of reason and experience. Concepts of justification and excuse applicable under this section may be developed in the light of reason and experience.
 
-&emsp;(5) The term “organization” means a legal entity, other than a government, established, or organized for any purpose, and such term includes a corporation, company, association, firm, partnership, joint stock company, foundation, institution, trust, society, union, or any other association of persons.
+&emsp;(5) The term "organization" means a legal entity, other than a government, established, or organized for any purpose, and such term includes a corporation, company, association, firm, partnership, joint stock company, foundation, institution, trust, society, union, or any other association of persons.
 
-&emsp;(6) The term “serious bodily injury” means—
+&emsp;(6) The term "serious bodily injury" means—
 
 &emsp;&emsp;(A) bodily injury which involves a substantial risk of death;
 
@@ -112,31 +112,31 @@ The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (d)
 
 #### Amendments
 
-<b>1986</b>—Subsec. (d)(4). Pub. L. 99–499, §205(i)(1), inserted “or any used oil not identified or listed as a hazardous waste under this subchapter”.
+<b>1986</b>—Subsec. (d)(4). Pub. L. 99–499, §205(i)(1), inserted "or any used oil not identified or listed as a hazardous waste under this subchapter".
 
-Subsec. (d)(5). Pub. L. 99–499, §205(i)(1), (2), inserted “or any used oil not identified or listed as a hazardous waste under this subchapter” and struck out “; or” after “accompanied by a manifest;”.
+Subsec. (d)(5). Pub. L. 99–499, §205(i)(1), (2), inserted "or any used oil not identified or listed as a hazardous waste under this subchapter" and struck out "; or" after "accompanied by a manifest;".
 
-Subsec. (d)(6). Pub. L. 99–499, §205(i)(3), inserted at end “; or”.
+Subsec. (d)(6). Pub. L. 99–499, §205(i)(3), inserted at end "; or".
 
 Subsec. (d)(7). Pub. L. 99–499, §205(i)(4), added par. (7).
 
-Subsec. (e). Pub. L. 99–499, §205(i)(5), inserted “or used oil not identified or listed as a hazardous waste under this subchapter” and substituted “(5), (6), or (7)” for “(5), or (6)”.
+Subsec. (e). Pub. L. 99–499, §205(i)(5), inserted "or used oil not identified or listed as a hazardous waste under this subchapter" and substituted "(5), (6), or (7)" for "(5), or (6)".
 
-<b>1984</b>—Subsec. (a)(1). Pub. L. 98–616, §403(d)(1), in amending par. (1) generally, expanded authority of Administrator by empowering him to determine that a person “has violated” a requirement of this subchapter, and to assess a civil penalty for a past or current violation.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–616, §403(d)(1), in amending par. (1) generally, expanded authority of Administrator by empowering him to determine that a person "has violated" a requirement of this subchapter, and to assess a civil penalty for a past or current violation.
 
 Subsec. (a)(3). Pub. L. 98–616, §403(d)(2), in amending par. (3) generally, substituted provision that any order issued pursuant to this subsection may include a suspension or revocation of any permit issued by the Administrator or a State under this subchapter and shall state with reasonable specificity the nature of the violation, and provision that any penalty assessed in the order shall not exceed $25,000 per day of noncompliance for each violation of a requirement of this subchapter, and that in assessing such a penalty, the Administrator take into account the seriousness of the violation and any good faith efforts to comply with applicable requirements, for provision that if such violator fails to take corrective action within the time specified in the order, he shall be liable for a civil penalty of not more than $25,000 for each day of continued noncompliance and the Administrator may suspend or revoke any permit issued to the violator, whether issued by the Administrator or the State.
 
-Subsec. (b). Pub. L. 98–616, §233(b), inserted “issued under this section”.
+Subsec. (b). Pub. L. 98–616, §233(b), inserted "issued under this section".
 
 Subsec. (c). Pub. L. 98–616, §403(d)(3), substituted provisions relating to penalties for violation of compliance orders for former provisions which set forth requirements for compliance orders.
 
-Subsec. (d). Pub. L. 98–616, §232(a)(3), amended closing provisions generally. Prior to amendment, closing provisions read as follows: “shall, upon conviction, be subject to a fine of not more than $25,000 ($50,000 in the case of a violation of paragraph (1) or (2)) for each day of violation, or to imprisonment not to exceed one year (two years in the case of a violation of paragraph (1) or (2)), or both. If the conviction is for a violation committed after a first conviction of such person under this paragraph, punishment shall be by a fine of not more than $50,000 per day of violation, or by imprisonment for not more than two years, or by both.”
+Subsec. (d). Pub. L. 98–616, §232(a)(3), amended closing provisions generally. Prior to amendment, closing provisions read as follows: "shall, upon conviction, be subject to a fine of not more than $25,000 ($50,000 in the case of a violation of paragraph (1) or (2)) for each day of violation, or to imprisonment not to exceed one year (two years in the case of a violation of paragraph (1) or (2)), or both. If the conviction is for a violation committed after a first conviction of such person under this paragraph, punishment shall be by a fine of not more than $50,000 per day of violation, or by imprisonment for not more than two years, or by both."
 
-Subsec. (d)(1). Pub. L. 98–616, §232(a)(1), inserted “or causes to be transported” and substituted “this subchapter” for “section 6925 of this title (or section 6926 of this title in case of a State program)”.
+Subsec. (d)(1). Pub. L. 98–616, §232(a)(1), inserted "or causes to be transported" and substituted "this subchapter" for "section 6925 of this title (or section 6926 of this title in case of a State program)".
 
-Subsec. (d)(2). Pub. L. 98–616, §232(a)(2)(A), struck out “either” after “subchapter” in provision preceding subpar. (A).
+Subsec. (d)(2). Pub. L. 98–616, §232(a)(2)(A), struck out "either" after "subchapter" in provision preceding subpar. (A).
 
-Subsec. (d)(2)(A). Pub. L. 98–616, §232(a)(2)(B), (c), substituted “this subchapter” for “section 6925 of this title (or section 6926 of this title in the case of a State program)” and struck out “having obtained” before “a permit under”.
+Subsec. (d)(2)(A). Pub. L. 98–616, §232(a)(2)(B), (c), substituted "this subchapter" for "section 6925 of this title (or section 6926 of this title in the case of a State program)" and struck out "having obtained" before "a permit under".
 
 Subsec. (d)(2)(C). Pub. L. 98–616, §232(a)(2)(C), added subpar. (C).
 
@@ -144,15 +144,15 @@ Subsec. (d)(3) to (5). Pub. L. 98–616, §232(a)(3), in amending pars. (3) and 
 
 Subsec. (d)(6). Pub. L. 98–616, §245(c), added par. (6).
 
-Subsec. (e). Pub. L. 98–616, §232(b), in amending subsec. (e) generally, struck out provisions referring to violations of interim status standards and omission of material information from permit applications, struck out provision requiring proof of “unjustifiable and inexcusable disregard for human life” or “extreme indifference to human life” for conviction under this subsection, and inserted provision increasing maximum prison sentence to fifteen years for violation of subsec. (d)(1) through (6) of this section by one who knowingly places another person in imminent danger of death or serious bodily injury, replacing former provision calling for maximum imprisonment of two years, or five years in cases evidencing extreme indifference to human life.
+Subsec. (e). Pub. L. 98–616, §232(b), in amending subsec. (e) generally, struck out provisions referring to violations of interim status standards and omission of material information from permit applications, struck out provision requiring proof of "unjustifiable and inexcusable disregard for human life" or "extreme indifference to human life" for conviction under this subsection, and inserted provision increasing maximum prison sentence to fifteen years for violation of subsec. (d)(1) through (6) of this section by one who knowingly places another person in imminent danger of death or serious bodily injury, replacing former provision calling for maximum imprisonment of two years, or five years in cases evidencing extreme indifference to human life.
 
 Subsec. (h). Pub. L. 98–616, §233(a), added subsec. (h).
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–482, §13(1), (2), struck out “the Administrator shall give notice to the violator of his failure to comply with such requirement. If such violation extends beyond the thirtieth day after the Administrator's notification” before “the Administrator may issue” and substituted “compliance immediately or within a specified time period” for “compliance within a specified time period”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–482, §13(1), (2), struck out "the Administrator shall give notice to the violator of his failure to comply with such requirement. If such violation extends beyond the thirtieth day after the Administrator's notification" before "the Administrator may issue" and substituted "compliance immediately or within a specified time period" for "compliance within a specified time period".
 
-Subsec. (a)(2). Pub. L. 96–482, §13(2), struck out “thirty days” after “violation has occurred”.
+Subsec. (a)(2). Pub. L. 96–482, §13(2), struck out "thirty days" after "violation has occurred".
 
-Subsec. (b). Pub. L. 96–482, §13(3), substituted “order shall become final unless, no later than thirty days after the order is served” for “order or any suspension or revocation of a permit shall become final unless, no later than thirty days after the order or notice of the suspension or revocation is served”.
+Subsec. (b). Pub. L. 96–482, §13(3), substituted "order shall become final unless, no later than thirty days after the order is served" for "order or any suspension or revocation of a permit shall become final unless, no later than thirty days after the order or notice of the suspension or revocation is served".
 
 Subsec. (c). Pub. L. 96–482, §13(4), authorized orders for suspension or revocation of permits.
 

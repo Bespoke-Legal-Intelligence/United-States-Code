@@ -46,7 +46,7 @@ The Director of the Institute shall provide, in accordance with subsection (c) o
 
 &emsp;(D) demonstration purposes.
 
-> As used in this subsection, the term “construction” does not include the acquisition of land, and the term “training” does not include research training for which Ruth L. Kirschstein National Research Service Awards may be provided under section 288 of this title.
+> As used in this subsection, the term "construction" does not include the acquisition of land, and the term "training" does not include research training for which Ruth L. Kirschstein National Research Service Awards may be provided under section 288 of this title.
 
 (4) Support of a center under paragraph (1) may be for a period of not to exceed five years. Such period may be extended by the Director for additional periods of not more than five years each if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
@@ -54,9 +54,9 @@ The Director of the Institute shall provide, in accordance with subsection (c) o
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c)(3). Pub. L. 107–206 substituted “Ruth L. Kirschstein National Research Service Awards” for “National Research Service Awards” in concluding provisions.
+<b>2002</b>—Subsec. (c)(3). Pub. L. 107–206 substituted "Ruth L. Kirschstein National Research Service Awards" for "National Research Service Awards" in concluding provisions.
 
 <b>1993</b>—Subsec. (a)(1)(D). Pub. L. 103–43 added subpar. (D).
 
-<b>1988</b>—Subsec. (a)(1)(A), (B). Pub. L. 100–607 inserted “and rehabilitation” after “prevention, and treatment”.
+<b>1988</b>—Subsec. (a)(1)(A), (B). Pub. L. 100–607 inserted "and rehabilitation" after "prevention, and treatment".
 

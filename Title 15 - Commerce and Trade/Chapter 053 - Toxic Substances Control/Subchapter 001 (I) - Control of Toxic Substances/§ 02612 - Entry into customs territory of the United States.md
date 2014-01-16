@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) The Secretary of the Treasury shall refuse entry into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States) of any chemical substance, mixture, or article containing a chemical substance or mixture offered for such entry if—
+(1) The Secretary of the Treasury shall refuse entry into the customs territory of the UnitedStates (as defined in general note 2 of the Harmonized Tariff Schedule of the United States) of any chemical substance, mixture, or article containing a chemical substance or mixture offered for such entry if—
 
 &emsp;(A) it fails to comply with any rule in effect under this chapter, or
 
@@ -22,9 +22,9 @@ The Harmonized Tariff Schedule of the United States, referred to in subsec. (a),
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–550 substituted “section 2604 of this title, 2605 of this title, or subchapter IV of this chapter” for “section 2604 or 2605 of this title” in two places and “section 2604 of this title, 2606 of this title or subchapter IV of this chapter” for “section 2604 or 2606 of this title”.
+<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–550 substituted "section 2604 of this title, 2605 of this title, or subchapter IV of this chapter" for "section 2604 or 2605 of this title" in two places and "section 2604 of this title, 2606 of this title or subchapter IV of this chapter" for "section 2604 or 2606 of this title".
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–418 substituted “general note 2 of the Harmonized Tariff Schedule of the United States” for “general headnote 2 to the Tariff Schedules of the United States” in introductory text.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–418 substituted "general note 2 of the Harmonized Tariff Schedule of the United States" for "general headnote 2 to the Tariff Schedules of the United States" in introductory text.
 
 #### Effective Date of 1988 Amendment
 

@@ -82,9 +82,9 @@
 
 &emsp;&emsp;(H) Measures to include teachers in the decisions regarding the use of academic assessments described in section 6311(b)(3) of this title in order to provide information on, and to improve, the achievement of individual students and the overall instructional program.
 
-&emsp;&emsp;(I) Activities to ensure that students who experience difficulty mastering the proficient or advanced levels of academic achievement standards required by section 6311(b)(1) of this title shall be provided with effective, timely additional assistance which shall include measures to ensure that students’ difficulties are identified on a timely basis and to provide sufficient information on which to base effective assistance.
+&emsp;&emsp;(I) Activities to ensure that students who experience difficulty mastering the proficient or advanced levels of academic achievement standards required by section 6311(b)(1) of this title shall be provided with effective, timely additional assistance which shall include measures to ensure that students' difficulties are identified on a timely basis and to provide sufficient information on which to base effective assistance.
 
-&emsp;&emsp;(J) Coordination and integration of Federal, State, and local services and programs, including programs supported under thischapter, violence prevention programs, nutrition programs, housing programs, Head Start, adult education, vocational and technical education, and job training.
+&emsp;&emsp;(J) Coordination and integration of Federal, State, and local services and programs, including programs supported under this chapter, violence prevention programs, nutrition programs, housing programs, Head Start, adult education, vocational and technical education, and job training.
 
 #### (2) Plan
 
@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;(iii) includes a list of State educational agency and local educational agency programs and other Federal programs under subsection (a)(3) of this section that will be consolidated in the schoolwide program; and
 
-&emsp;&emsp;&emsp;(iv) describes how the school will provide individual student academic assessment results in a language the parents can understand, including an interpretation of those results, to the parents of a child who participates in the academic assessments required by section 6311(b)(3) of this title.
+&emsp;&emsp;&emsp;(iv) describes how the school will provide individual student academic assessment results in a language the parents can understand, including an interpretation ofthose results, to the parents of a child who participates in the academic assessments required by section 6311(b)(3) of this title.
 
 #### (B) Plan development
 
@@ -138,5 +138,5 @@ A prior section 6314, Pub. L. 89–10, title I, §1114, as added Pub. L. 103–3
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(2)(B)(v). Pub. L. 109–270 substituted “the Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
+<b>2006</b>—Subsec. (b)(2)(B)(v). Pub. L. 109–270 substituted "the Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Technical Education Act of 1998".
 

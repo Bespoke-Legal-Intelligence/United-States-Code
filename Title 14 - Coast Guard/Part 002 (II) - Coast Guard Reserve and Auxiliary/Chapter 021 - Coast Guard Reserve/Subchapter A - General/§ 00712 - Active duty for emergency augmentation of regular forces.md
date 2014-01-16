@@ -10,7 +10,7 @@
 
 &emsp;(2) does not satisfy any part of the active duty obligation of a member whose statutory Reserve obligation is not already terminated; and
 
-&emsp;(3) entitles a member while engaged therein, or while engaged in authorized travel to orfrom that duty, to all rights and benefits, including pay and allowances and time creditable for pay and retirement purposes, to which the member would be entitled while performing other active duty.
+&emsp;(3) entitles a member while engaged therein, or while engaged in authorized travel to or from that duty, to all rights and benefits, including pay and allowances and time creditable for pay and retirement purposes, to which the member would be entitled while performing other active duty.
 
 (d) Reserve members ordered to active duty under this section shall not be counted in computing authorized strength of members on active duty or members in grade under this title or under any other law.
 
@@ -24,17 +24,17 @@ Provisions similar to those in this section were contained in section 764 of thi
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–53 substituted “section 2(16) of the Homeland Security Act of 2002 (6 U.S.C. 101(16))” for “section 2(15) of the Homeland Security Act of 2002 (6 U.S.C. 101(15))”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–53 substituted "section 2(16) of the Homeland Security Act of 2002 (6 U.S.C. 101(16))" for "section 2(15) of the Homeland Security Act of 2002 (6 U.S.C. 101(15))".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–241, §206(1)–(4), substituted “during a, or to aid in prevention of an imminent,” for “during a”, “catastrophe, act of terrorism (as defined in section 2(15) of the Homeland Security Act of 2002 (6 U.S.C. 101(15))), or transportation security incident as defined in section 70101 of title 46,” for “or catastrophe,”, “60 days in any 4-month period” for “thirty days in any four-month period”, and “120 days in any 2-year period” for “sixty days in any two-year period”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–241, §206(1)–(4), substituted "during a, or to aid in prevention of an imminent," for "during a", "catastrophe, act of terrorism (as defined in section 2(15) of the Homeland Security Act of 2002 (6 U.S.C. 101(15))), or transportation security incident as defined in section 70101 of title 46," for "or catastrophe,", "60 days in any 4-month period" for "thirty days in any four-month period", and "120 days in any 2-year period" for "sixty days in any two-year period".
 
 Subsec. (e). Pub. L. 109–241, §206(5), added subsec. (e).
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–324 added subsec. (d).
 
-<b>1994</b>—Subsec. (c)(1). Pub. L. 103–337 substituted “section 10147 of title 10” for “section 270 of title 10”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–337 substituted "section 10147 of title 10" for "section 270 of title 10".
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–241 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Notwithstanding any other law, and for the emergency augmentation of the Regular Coast Guard forces during a time of serious natural or manmade disaster, accident, or catastrophe the Secretary may, subject to approval by the President and without the consent of the member affected, order to active duty of not more than fourteen days in any four-month period and not more than thirty days in any one-year period from the Coast Guard Ready Reserve an organized training unit, a member thereof, or a member not assigned to a unit organized to serve as a unit.”
+<b>1991</b>—Subsec. (a). Pub. L. 102–241 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Notwithstanding any other law, and for the emergency augmentation of the Regular Coast Guard forces during a time of serious natural or manmade disaster, accident, or catastrophe the Secretary may, subject to approval by the President and without the consent of the member affected, order to active duty of not more than fourteen days in any four-month period and not more than thirty days in any one-year period from the Coast Guard Ready Reserve an organized training unit, a member thereof, or a member not assigned to a unit organized to serve as a unit."
 
 #### Effective Date of 1994 Amendment
 

@@ -36,7 +36,7 @@ For purposes of subsection (a) of this section, the laws or regulations of a Sta
 
 &emsp;(4) The State annually reports to the Director of the Centers for Disease Control and Prevention the number of individuals from whom the names of partners have been sought under the program under paragraph (1), the number of such individuals who provided the names of partners, and the number of partners so named who were notified under the program.
 
-&emsp;(5) The State cooperates with such Director in carrying out a national program of partnernotification, including the sharing of information between the public health officers of the States.
+&emsp;(5) The State cooperates with such Director in carrying out a national program of partner notification, including the sharing of information between the public health officers of the States.
 
 #### (c) Reporting system for cases of HIV/AIDS; preference in making grants
 
@@ -54,9 +54,9 @@ For the purpose of carrying out this section, there is authorized to be appropri
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
-Subsecs. (b), (c). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing.
+Subsecs. (b), (c). Pub. L. 109–415, §702(3), substituted "HIV/AIDS" for "HIV disease" wherever appearing.
 
-Subsec. (d). Pub. L. 109–415, §210, substituted “there is authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2009.” for “there are authorized to be appropriated $30,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 through 2005.”
+Subsec. (d). Pub. L. 109–415, §210, substituted "there is authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2009." for "there are authorized to be appropriated $30,000,000 for fiscal year 2001,and such sums as may be necessary for each of the fiscal years 2002 through 2005."
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

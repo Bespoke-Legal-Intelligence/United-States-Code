@@ -6,5 +6,5 @@ The working group established under section 2223b of this title shall, within 1 
 
 #### Codification
 
-Section was enacted as part of the Firefighters’ Safety Study Act, and not as part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
+Section was enacted as part of the Firefighters' Safety Study Act, and not as part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
 

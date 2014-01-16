@@ -6,21 +6,21 @@ For purposes of this subchapter—
 
 #### (1) Electing corporation
 
-&emsp;The term “electing corporation” means any corporation for which an election is in effect under this subchapter.
+&emsp;The term "electing corporation" means any corporation for which an election is in effect under this subchapter.
 
 #### (2) Electing group; controlled group
 
 #### (A) Electing group
 
-&emsp;&emsp;The term “electing group” means a controlled group of which one or more members is an electing corporation.
+&emsp;&emsp;The term "electing group" means a controlled group of which one or more members is an electing corporation.
 
 #### (B) Controlled group
 
-&emsp;&emsp;The term “controlled group” means any group which would be treated as a single employer under subsection (a) or (b) of section 52 if paragraphs (1) and (2) of section 52(a) did not apply.
+&emsp;&emsp;The term "controlled group" means any group which would be treated as a single employer under subsection (a) or (b) of section 52 if paragraphs (1) and (2) of section 52(a) did not apply.
 
 #### (3) Qualifying vessel operator
 
-&emsp;The term “qualifying vessel operator” means any corporation—
+&emsp;The term "qualifying vessel operator" means any corporation—
 
 &emsp;&emsp;(A) who operates one or more qualifying vessels, and
 
@@ -28,19 +28,19 @@ For purposes of this subchapter—
 
 #### (4) Qualifying vessel
 
-&emsp;The term “qualifying vessel” means a self-propelled (or a combination self-propelled and non-self-propelled) United States flag vessel of not less than 6,000 deadweight tons used exclusively in the United States foreign trade during the period that the election under this subchapter is in effect.
+&emsp;The term "qualifying vessel" means a self-propelled (or a combination self-propelled and non-self-propelled) United States flag vessel of not less than 6,000 deadweight tons used exclusively in the United States foreign trade during the period that the election under this subchapter is in effect.
 
 #### (5) United States flag vessel
 
-&emsp;The term “United States flag vessel” means any vessel documented under the laws of the United States.
+&emsp;The term "United States flag vessel" means any vessel documented under the laws of the United States.
 
 #### (6) United States domestic trade
 
-&emsp;The term “United States domestic trade” means the transportation of goods or passengers between places in the United States.
+&emsp;The term "United States domestic trade" means the transportation of goods or passengers between places in the United States.
 
 #### (7) United States foreign trade
 
-&emsp;The term “United States foreign trade” means the transportation of goods or passengers between a place in the United States and a foreign place or between foreign places.
+&emsp;The term "United States foreign trade" means the transportation of goods or passengers between a place in the United States and a foreign place or between foreign places.
 
 #### (b) Operating a vessel
 
@@ -194,11 +194,11 @@ In applying this subchapter to a partner in a partnership—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified zone domestic trade” means the transportation of goods or passengers between places in the qualified zone if such transportation is in the United States domestic trade.
+&emsp;&emsp;The term "qualified zone domestic trade" means the transportation of goods or passengers between places in the qualified zone if such transportation is in the United States domestic trade.
 
 #### (B) Qualified zone
 
-&emsp;&emsp;The term “qualified zone” means the Great Lakes Waterway and the St. Lawrence Seaway.
+&emsp;&emsp;The term "qualified zone" means the Great Lakes Waterway and the St. Lawrence Seaway.
 
 #### (h) Regulations
 
@@ -208,35 +208,35 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(4). Pub. L. 109–432, §413(a), substituted “6,000” for “10,000 (6,000, in the case of taxable years beginning after December 31, 2005, and ending before January 1, 2011)”.
+<b>2006</b>—Subsec. (a)(4). Pub. L. 109–432, §413(a), substituted "6,000" for "10,000 (6,000, in the case of taxable years beginning after December 31, 2005, and ending before January 1, 2011)".
 
-Pub. L. 109–222 inserted “(6,000, in the case of taxable years beginning after December 31, 2005, and ending before January 1, 2011)” after “10,000”.
+Pub. L. 109–222 inserted "(6,000, in the case of taxable years beginning after December 31, 2005, and ending before January 1, 2011)" after "10,000".
 
 Subsecs. (g), (h). Pub. L. 109–432, §415(a), added subsec. (g) and redesignated former subsec. (g) as (h).
 
-<b>2005</b>—Subsec. (a)(8). Pub. L. 109–135, §403(g)(1)(B), struck out heading and text of par. (8). Text read as follows: “The term ‘charter’ includes an operating agreement.”
+<b>2005</b>—Subsec. (a)(8). Pub. L. 109–135, §403(g)(1)(B), struck out heading and text of par. (8). Text read as follows: "The term 'charter' includes an operating agreement."
 
-Subsec. (b)(1). Pub. L. 109–135, §403(g)(1)(C), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in paragraph (2), a person is treated as operating any vessel during any period if such vessel is—
+Subsec. (b)(1). Pub. L. 109–135, §403(g)(1)(C), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "Except as provided in paragraph (2), a person is treated as operating any vessel during any period if such vessel is—
 
-&emsp;“(A) owned by, or chartered (including a time charter) to, the person, and
+&emsp;"(A) owned by, or chartered (including a time charter) to, the person, and
 
-&emsp;“(B) is in use as a qualifying vessel during such period.”
+&emsp;"(B) is in use as a qualifying vessel during such period."
 
-Subsec. (c)(3). Pub. L. 109–135, §403(g)(2), substituted “determined by treating all members of such group as 1 person.” for “determined—
+Subsec. (c)(3). Pub. L. 109–135, §403(g)(2), substituted "determined by treating all members of such group as 1 person." for "determined—
 
-&emsp;“(A) by treating all members of such group as 1 person, and
+&emsp;"(A) by treating all members of such group as 1 person, and
 
-&emsp;“(B) by disregarding vessel charters between members of such group.”
+&emsp;"(B) by disregarding vessel charters between members of such group."
 
-Subsec. (d)(3). Pub. L. 109–135, §403(g)(1)(D), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the extent of a partner's ownership or charter interest in any vessel owned by or chartered to the partnership shall be determined on the basis of the partner's interest in the partnership.”
+Subsec. (d)(3). Pub. L. 109–135, §403(g)(1)(D), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the extent of a partner's ownership or charter interest in any vessel owned by or chartered to the partnership shall be determined on the basis of the partner's interest in the partnership."
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title IV, §413(b), Dec. 20, 2006, 120 Stat. 2963, provided that: “The amendment made bythis section \[amending this section\] shall take effect as if included in section 205 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\].”
+Pub. L. 109–432, div. A, title IV, §413(b), Dec. 20, 2006, 120 Stat. 2963, provided that: "The amendment made bythis section \[amending this section\] shall take effect as if included in section 205 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\]."
 
-Pub. L. 109–432, div. A, title IV, §415(b), Dec. 20, 2006, 120 Stat. 2965, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 20, 2006\].”
+Pub. L. 109–432, div. A, title IV, §415(b), Dec. 20, 2006, 120 Stat. 2965, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[Dec. 20, 2006\]."
 
-Pub. L. 109–222, title II, §205(b), May 17, 2006, 120 Stat. 350, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2005.”
+Pub. L. 109–222, title II, §205(b), May 17, 2006, 120 Stat. 350, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 2005."
 
 #### Effective Date of 2005 Amendment
 

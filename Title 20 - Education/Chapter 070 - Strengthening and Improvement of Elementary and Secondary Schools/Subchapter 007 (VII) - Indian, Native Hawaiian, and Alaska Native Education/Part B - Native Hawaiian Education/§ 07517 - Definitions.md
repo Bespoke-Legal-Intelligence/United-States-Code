@@ -4,7 +4,7 @@ In this part:
 
 #### (1) Native Hawaiian
 
-&emsp;The term “Native Hawaiian” means any individual who is—
+&emsp;The term "Native Hawaiian" means any individual who is—
 
 &emsp;&emsp;(A) a citizen of the United States; and
 
@@ -18,11 +18,11 @@ In this part:
 
 #### (2) Native Hawaiian community-based organization
 
-&emsp;The term “Native Hawaiian community-based organization” means any organization that is composed primarily of Native Hawaiians from a specific community and that assists in the social, cultural, and educational development of Native Hawaiians in that community.
+&emsp;The term "Native Hawaiian community-based organization" means any organization that is composed primarily of Native Hawaiians from a specific community and that assists in the social, cultural, and educational development of Native Hawaiians in that community.
 
 #### (3) Native Hawaiian educational organization
 
-&emsp;The term “Native Hawaiian educational organization” means a private nonprofit organization that—
+&emsp;The term "Native Hawaiian educational organization" means a private nonprofit organization that—
 
 &emsp;&emsp;(A) serves the interests of Native Hawaiians;
 
@@ -36,11 +36,11 @@ In this part:
 
 #### (4) Native Hawaiian language
 
-&emsp;The term “Native Hawaiian language” means the single Native American language indigenous to the original inhabitants of the State of Hawaii.
+&emsp;The term "Native Hawaiian language" means the single Native American language indigenous to the original inhabitants of the State of Hawaii.
 
 #### (5) Native Hawaiian organization
 
-&emsp;The term “Native Hawaiian organization” means a private nonprofit organization that—
+&emsp;The term "Native Hawaiian organization" means a private nonprofit organization that—
 
 &emsp;&emsp;(A) serves the interests of Native Hawaiians;
 
@@ -50,7 +50,7 @@ In this part:
 
 #### (6) Office of Hawaiian Affairs
 
-&emsp;The term “Office of Hawaiian Affairs” means the Office of Hawaiian Affairs established by the Constitution of the State of Hawaii.
+&emsp;The term "Office of Hawaiian Affairs" means the Office of Hawaiian Affairs established by the Constitution of the State of Hawaii.
 
 (Pub. L. 89–10, title VII, §7207, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1941.)
 

@@ -22,7 +22,7 @@
 
 #### (3) Federal health care program defined
 
-&emsp;In this subsection, the term,<sup>1</sup> “Federal health care program” has the meaning given that term in section 1320a–7b(f) of title 42, except that, for purposes of this subsection, such term shall include the health insurance program under chapter 89 of title 5.
+&emsp;In this subsection, the term,<sup>1</sup> "Federal health care program" has the meaning given that term in section 1320a–7b(f) of title 42, except that, for purposes of this subsection, such term shall include the health insurance program under chapter 89 of title 5.
 
 #### (c) Related provisions
 

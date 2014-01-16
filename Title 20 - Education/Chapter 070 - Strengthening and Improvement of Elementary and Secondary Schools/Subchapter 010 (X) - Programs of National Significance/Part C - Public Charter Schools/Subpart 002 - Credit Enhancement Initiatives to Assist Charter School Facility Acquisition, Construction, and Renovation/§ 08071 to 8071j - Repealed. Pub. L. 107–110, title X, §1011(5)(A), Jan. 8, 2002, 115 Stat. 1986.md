@@ -1,6 +1,6 @@
 ### §§8071 to 8071j. Repealed. Pub. L. 107–110, title X, §1011(5)(A), Jan. 8, 2002, 115 Stat. 1986
 
-Section 8071, Pub. L. 89–10, title X, §10321, as added Pub. L. 106–554, §1(a)(1) \[title III, §322(a)(2)\], Dec. 21,2000, 114 Stat. 2763, 2763A–57, set forth purpose. See section 7223 of this title.
+Section 8071, Pub. L. 89–10, title X, §10321, as added Pub. L. 106–554, §1(a)(1) \[title III, §322(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–57, set forth purpose. See section 7223 of this title.
 
 Section 8071a, Pub. L. 89–10, title X, §10322, as added Pub. L. 106–554, §1(a)(1) \[title III, §322(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–57, related to grants to eligible entities. See section 7223a of this title.
 

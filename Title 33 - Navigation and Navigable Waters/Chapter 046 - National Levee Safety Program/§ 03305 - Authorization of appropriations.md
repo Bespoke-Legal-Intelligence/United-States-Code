@@ -4,7 +4,7 @@ There is authorized to be appropriated to the Secretary to carry out this chapte
 
 (Pub. L. 110–114, title IX, §9006, Nov. 8, 2007, 121 Stat. 1291.)
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 

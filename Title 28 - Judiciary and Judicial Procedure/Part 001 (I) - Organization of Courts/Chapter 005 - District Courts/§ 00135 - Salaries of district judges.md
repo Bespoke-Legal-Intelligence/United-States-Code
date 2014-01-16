@@ -10,9 +10,9 @@ Based on title 28, U.S.C., 1940 ed., §5, and District of Columbia Code, 1940 ed
 
 Section consolidates section 5 of title 28, U.S.C., 1940 ed., and section 11–302 of the District of Columbia Code, 1940 ed.
 
-“Chief judge,” in the District of Columbia, was substituted for “Chief Justice” which appeared in section 11–302 of the District of Columbia Code. (See reviser's note under section 136 of this title.)
+"Chief judge," in the District of Columbia, was substituted for "Chief Justice" which appeared in section 11–302 of the District of Columbia Code. (See reviser's note under section 136 of this title.)
 
-Words “to be paid in monthly installments” were omitted, since the time of payment is a matter of administrative convenience. See 20 Comp. Gen. 834.
+Words "to be paid in monthly installments" were omitted, since the time of payment is a matter of administrative convenience. See 20 Comp. Gen. 834.
 
 The provision of section 5 of title 28, U.S.C., 1940 ed., for salaries of judges of the district court of Alaska was omitted as covered by section 101 of Title 48, U.S.C., 1940 ed., Territories and Insular Possessions, as amended by a separate section in the bill to enact this revised title. The provision of said section for salary of the Virgin Islands district judge was omitted as covered by section 5a of title 28, U.S.C., 1940 ed., as amended by a separate section in the bill to enact this revised title. Such section 5a is recommended for transfer to title 48, U.S.C., 1940 ed., because of the dual nature of the Virgin Islands district court.
 
@@ -38,7 +38,7 @@ Amendment by Pub. L. 88–426 effective on the first day of the first pay period
 
 #### Effective Date of 1955 Amendment
 
-Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under section 31 of Title 2, The Congress.
+Amendment by act Mar. 2, 1955, effective Mar. 1, 1955, see section 5 of act Mar. 2, 1955, set out as a note under section 4501 of Title 2, The Congress.
 
 #### Salary Increases
 

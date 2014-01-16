@@ -46,21 +46,21 @@ Feb. 2, 1901, ch. 192, §40, 31 Stat. 758.
 
 &nbsp;
 
-R.S. 1293; July 16, 1892, ch. 195 (last 15 words before proviso under “Subsistence of the Army”), 27 Stat. 178.
+R.S. 1293; July 16, 1892, ch. 195 (last 15 words before proviso under "Subsistence of the Army"), 27 Stat. 178.
 
 &nbsp;
 
-Mar. 2, 1907, ch. 2511 (1st proviso under “Subsistence Department”), 34 Stat. 1165.
+Mar. 2, 1907, ch. 2511 (1st proviso under "Subsistence Department"), 34 Stat. 1165.
 
 R.S. 1175.
 
-In subsection (a), the words “the components, and the quantities thereof” are substituted for the words “the kinds and quantities of the component articles”. The words “substitutive” and “a due regard” are omitted as surplusage.
+In subsection (a), the words "the components, and the quantities thereof" are substituted for the words "the kinds and quantities of the component articles". The words "substitutive" and "a due regard" are omitted as surplusage.
 
-In subsection (b), the words “the components of the Army ration” are substituted for the words “such supplies as enter into the composition of the ration”.
+In subsection (b), the words "the components of the Army ration" are substituted for the words "such supplies as enter into the composition of the ration".
 
-In subsection (c), the words “on active duty” are inserted for clarity. The words “under such regulations as may be prescribed by the Secretary of the Army”, in 10:725, are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The words “or reserve”, “prescribed for use on emergent occasions”, and “furnished”, in 10:725, are omitted as surplusage.
+In subsection (c), the words "on active duty" are inserted for clarity. The words "under such regulations as may be prescribed by the Secretary of the Army", in 10:725, are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The words "or reserve", "prescribed for use on emergent occasions", and "furnished", in 10:725, are omitted as surplusage.
 
-In subsection (d), the words “Such quantities of” and “may be allowed” are omitted as surplusage.
+In subsection (d), the words "Such quantities of" and "may be allowed" are omitted as surplusage.
 
 #### Delegation of Authority
 

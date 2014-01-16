@@ -12,7 +12,7 @@ Section was not enacted as part of the Agricultural Act of 1949 which is classif
 
 <b>1966</b>—Pub. L. 89–808 struck out special authority of the Commodity Credit Corporation for purchase of fats and oils for donation abroad, now included in the general authority provided by section 1721 et seq. of this title.
 
-<b>1962</b>—Pub. L. 87–703 inserted “and in nonprofit school lunch programs” after “needy persons”.
+<b>1962</b>—Pub. L. 87–703 inserted "and in nonprofit school lunch programs" after "needy persons".
 
 #### Effective Date of 1966 Amendment
 

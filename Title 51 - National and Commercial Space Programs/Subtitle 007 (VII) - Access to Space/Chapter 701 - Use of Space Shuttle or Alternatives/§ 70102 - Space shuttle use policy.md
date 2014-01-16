@@ -20,7 +20,7 @@ Policy.—It shall be the policy of the United States to use the space shuttle�
 
 &emsp;&emsp;(B)
 
-Definition of compelling circumstances.—In this paragraph, the term “compelling circumstances” includes, but is not limited to, occasions when the Administrator determines, in consultation with the Secretary of Defense and the Secretary of State, that important national security or foreign policy interests would be served by a shuttle launch.
+Definition of compelling circumstances.—In this paragraph, the term "compelling circumstances" includes, but is not limited to, occasions when the Administrator determines, in consultation with the Secretary of Defense and the Secretary of State, that important national security or foreign policy interests would be served by a shuttle launch.
 
 &emsp;(2)
 

@@ -44,13 +44,13 @@ Jan. 3, 1975, Pub. L. 93–633, §105(d), 88 Stat. 2157; restated Nov. 16, 1990,
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–59, §7126, substituted “Secretary may” for “Secretary of Transportation may”.
+<b>2005</b>—Subsec. (b). Pub. L. 109–59, §7126, substituted "Secretary may" for "Secretary of Transportation may".
 
-Pub. L. 109–59, §7117(a), inserted “and requirements” after “standards”.
+Pub. L. 109–59, §7117(a), inserted "and requirements" after "standards".
 
-Subsec. (c)(1). Pub. L. 109–59, §7126, substituted “Secretary to prescribe” for “Secretary of Transportation to prescribe”.
+Subsec. (c)(1). Pub. L. 109–59, §7126, substituted "Secretary to prescribe" for "Secretary of Transportation to prescribe".
 
-Pub. L. 109–59, §7117(b)(1), inserted “or requirement” after “standard” wherever appearing.
+Pub. L. 109–59, §7117(b)(1), inserted "or requirement" after "standard" wherever appearing.
 
-Subsec. (c)(2). Pub. L. 109–59, §7117(b)(2), struck out “included in a standard” before “adopted” and inserted “standard or” before “requirement” wherever appearing.
+Subsec. (c)(2). Pub. L. 109–59, §7117(b)(2), struck out "included in a standard" before "adopted" and inserted "standard or" before "requirement" wherever appearing.
 

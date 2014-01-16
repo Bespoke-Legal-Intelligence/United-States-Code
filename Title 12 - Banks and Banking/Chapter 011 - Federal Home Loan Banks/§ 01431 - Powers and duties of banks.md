@@ -24,7 +24,7 @@ The Director shall have full power to require any Federal Home Loan Bank to depo
 
 (B) A Federal Home Loan Bank shall make charges, to be determined and regulated by the Director consistent with the principles set forth in section 248a(c) of this title, or utilize the services of, or act as agent for, or be a member of, a Federal Reserve bank, clearinghouse, or any other public or private financial institution or other agency, in the exercise of any powers or functions pursuant to this paragraph.
 
-(C) The Director is authorized, with respect to participation in the collection and settlement of any items by Federal Home Loan Banks, and with respect to the collection and settlement (including payment by the payor institution) of items payable by Federal savings and loan associations and Federal mutual savings banks, to prescribe rules and regulations regarding the rights, powers, responsibilities, duties, and liabilities, including standards relating thereto, of such Federal Home Loan Banks, associations, or banks and other parties to any such items or their collection and settlement. In prescribing such rules and regulations, the Director may adopt or apply, in whole or in part, generalbanking usage and practices, and, in instances or respects in which they would otherwise not be applicable, Federal Reserve regulations and operating letters, the Uniform Commercial Code, and clearinghouse rules.
+(C) The Director is authorized, with respect to participation in the collection and settlement of any items by Federal Home Loan Banks, and with respect to the collection and settlement (including payment by the payor institution) of items payable by Federal savings and loan associations and Federal mutual savings banks, to prescribe rules and regulations regarding the rights, powers, responsibilities, duties, and liabilities, including standards relating thereto, of such Federal Home Loan Banks, associations, or banks and other parties to any such items or their collection and settlement. In prescribing such rules and regulations, the Director may adopt or apply, in whole or in part, general banking usage and practices, and, in instances or respects in which they would otherwise not be applicable, Federal Reserve regulations and operating letters, the Uniform Commercial Code, and clearinghouse rules.
 
 #### (f) Rediscount of notes held by other banks; purchase of bonds of other banks
 
@@ -32,13 +32,13 @@ The Director is authorized and empowered to permit or to require Federal Home Lo
 
 #### (g) Reserves
 
-Each Federal Home Loan Bank shall at all times have at least an amount equal to the current deposits received from its members invested in (1) obligations of the United States, (2) deposits in banks or trust companies, (3) advances with a maturity of not to exceed five years which are made to members, upon such terms and conditions as the Director may prescribe, and (4) advances with a maturity of not to exceed five years which are made to members whose creditor liabilities (not including advances from the Federal home loan bank) do not exceed 5 per centum of their net assets, and which may be made without the security of home mortgages or other security, upon such terms and conditions as the Director may prescribe.
+Each Federal Home Loan Bank shall at all times have at least an amount equal to the current deposits received from its members invested in (1) obligations of the United States, (2) deposits in banks or trust companies, (3) advances with a maturity of not to exceed five years which are made to members, upon such terms and conditions as the Director may prescribe, and (4) advances with a maturity of not to exceed five years which are made to members whose creditor liabilities (not including advances from the Federal home loan bank) do not exceed 5 per centum of their net assets, andwhich may be made without the security of home mortgages or other security, upon such terms and conditions as the Director may prescribe.
 
 #### (h) Investment of surplus funds
 
 Such part of the assets of each Federal Home Loan Bank (except reserves and amounts provided for in subsection (g) of this section) as are not required for advances to members, may be invested, to such extent as the bank may deem desirable and subject to such regulations, restrictions, and limitations as may be prescribed by the Director, in obligations of the United States, in obligations, participations, or other instruments of or issued by the Federal National Mortgage Association or the Government National Mortgage Association, in mortgages, obligations, or other securities which are or ever have been sold by the Federal Home Loan Mortgage Corporation pursuant to section 1454 or section 1455 of this title, in the stock of the Federal National Mortgage Association, in stock, obligations, or other securities of any small business investment company formed pursuant to section 681 of title 15, for the purpose of aiding members of the Federal Home Loan Bank System, and in such securities as fiduciary and trust funds may be invested in under the laws of the State in which the Federal Home Loan Bank is located.
 
-#### (i) Treasury purchase of banks’ obligations; exercise of authority
+#### (i) Treasury purchase of banks' obligations; exercise of authority
 
 The Secretary of the Treasury is authorized in his discretion to purchase any obligations issued pursuant to this section, as heretofore, now, or hereafter in force and for such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds of the sale of any securities hereafter issued under chapter 31 of title 31, as now or hereafter in force, and the purposes for which securities may be issued under chapter 31 of title 31, as now or hereafter in force, are extended to include such purchases. The Secretary of the Treasury may, at any time, sell, upon such terms and conditions and at such price or prices as he shall determine, any of the obligations acquired by him under this subsection. All redemptions, purchases, and sales by the Secretary of the Treasury of such obligations under this subsection shall be treated as public-debt transactions of the United States. The Secretary of the Treasury shall not at any time purchase any obligations under this paragraph if such purchase would increase the aggregate principal amount of his then outstanding holdings of such obligations under this paragraph to an amount greater than $4,000,000,000. Each purchase of obligations by the Secretary of the Treasury under this subsection shall be upon terms and conditions as shall be determined by the Secretary of the Treasury and shall bear such rate of interest as may be determined by the Secretary of the Treasury taking into consideration the current average market yield for the month preceding the month of such purchase on outstanding marketable obligations of the United States.
 
@@ -74,7 +74,7 @@ Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 3
 
 #### (A) General authority
 
-&emsp;&emsp;In addition to the authority under subsection (i) of this section, the Secretary of the Treasury is authorized to purchase any obligations issued by any Federal Home Loan Bank under any section of this chapter, on such terms and conditions as the Secretary may determine and in such amounts as the Secretary may determine. Nothing in this subsection requires a Federal Home Loan Bank to issue obligations or securities to the Secretary without mutual agreement between the Secretary and the Federal Home Loan Bank. Nothing in this subsection permits or authorizes the Secretary, without the agreement of the Federal Home Loan Bank, to engage in open market purchases of the common securities of any Federal Home Loan Bank.
+&emsp;&emsp;In addition to the authority under subsection (i) of this section, the Secretary of the Treasury is authorized to purchase any obligations issued by any Federal Home Loan Bank under any section of this chapter, on such terms and conditions as the Secretary may determine and in such amounts as the Secretary may determine. Nothing in this subsection requires a Federal Home Loan Bank to issue obligations or securities to the Secretary without mutual agreement between the Secretary and the Federal Home Loan Bank. Nothing in this subsectionpermits or authorizes the Secretary, without the agreement of the Federal Home Loan Bank, to engage in open market purchases of the common securities of any Federal Home Loan Bank.
 
 #### (B) Emergency determination required
 
@@ -138,7 +138,7 @@ Notwithstanding the provisions of section 9105(a)(1)(B) <sup>2</sup> of title 3
 
 #### (5) Authority of the Director with respect to executive compensation
 
-&emsp;The Director shall have the power to approve, disapprove, or modify the executivecompensation of the Federal Home Loan Bank, as defined under Regulation S-K, 17 C.F.R. 229.
+&emsp;The Director shall have the power to approve, disapprove, or modify the executive compensation of the Federal Home Loan Bank, as defined under Regulation S-K, 17 C.F.R. 229.
 
 (July 22, 1932, ch. 522, §11, 47 Stat. 733; June 27, 1934, ch. 847, §503, 48 Stat. 1261; June 27, 1950, ch. 369, §§3, 4, 64 Stat. 257; Aug. 2, 1954, ch. 649, title II, §204(a), 68 Stat. 622; Pub. L. 88–560, title VII, §701(d)(1), Sept. 2, 1964, 78 Stat. 800; Pub. L. 90–448, title VIII, §807(k), Aug. 1, 1968, 82 Stat. 545; Pub. L. 91–151, title I, §3, Dec. 23, 1969, 83 Stat. 374; Pub. L. 91–609, title IX, §914, Dec. 31, 1970, 84 Stat. 1815; Pub. L. 93–383, title VIII, §805(c)(2), Aug. 22, 1974, 88 Stat. 727; Pub. L. 93–495, title I, §112, Oct. 28, 1974, 88 Stat. 1506; Pub. L. 96–153, title III, §324, Dec. 21, 1979, 93 Stat. 1121; Pub. L. 96–221, title III, §311, Mar. 31, 1980, 94 Stat. 149; Pub. L. 97–320, title I, §125(c), Oct. 15, 1982, 96 Stat. 1485; Pub. L. 101–73, title VII, §§701(b)(1)–(3)(A), (c), 709, 710(b)(6), Aug. 9, 1989, 103 Stat. 412, 418; Pub. L. 104–208, div. A, title II, §2704(d)(11)(A), div. D, title II, §208(h)(2), Sept. 30, 1996, 110 Stat. 3009–489, 3009–747; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(1), Feb. 15, 2006, 119 Stat. 3616; Pub. L. 110–289, div. A, title I, §1117(c), title II, §1204(3), (8), (9), July 30, 2008, 122 Stat. 2686, 2786; Pub. L. 111–203, title XIII, §1304(c), July 21, 2010, 124 Stat. 2134.)
 
@@ -148,57 +148,57 @@ Section 9105 of title 31, referred to in subsec. (j), was amended generally by P
 
 #### Codification
 
-In subsecs. (i) (first par.) and (j), “chapter 31 of title 31” substituted for “the Second Liberty Bond Act”, and “section 9105(a)(1)(B) of title 31” and “sections 9107(c)(2) and 9108(d)(1) of title 31” substituted for “the first sentence of section 202 of the Government Corporation Control Act \[31 U.S.C. 857\]” and “the first sentence of subsection (d) of section 303 of the Government Corporation Control Act \[31 U.S.C. 868(d)\]”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsecs. (i) (first par.) and (j), "chapter 31 of title 31" substituted for "the Second Liberty Bond Act", and "section 9105(a)(1)(B) of title 31" and "sections 9107(c)(2) and 9108(d)(1) of title 31" substituted for "the first sentence of section 202 of the Government Corporation Control Act \[31 U.S.C. 857\]" and "the first sentence of subsection (d) of section 303 of the Government Corporation Control Act \[31 U.S.C. 868(d)\]", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
 <b>2010</b>—Subsec. (l)(2)(C), (D). Pub. L. 111–203 added subpar. (C) and redesignated former subpar. (C) as (D).
 
-<b>2008</b>—Pub. L. 110–289, §1204(9), substituted “The Director” for “The Board” wherever appearing in subsecs. (d) to (f).
+<b>2008</b>—Pub. L. 110–289, §1204(9), substituted "The Director" for "The Board" wherever appearing in subsecs. (d) to (f).
 
-Pub. L. 110–289, §1204(8), substituted “the Director” for “the Board” wherever appearing in subsecs. (a) and (e) to (i).
+Pub. L. 110–289, §1204(8), substituted "the Director" for "the Board" wherever appearing in subsecs. (a) and (e) to (i).
 
-Subsec. (b). Pub. L. 110–289, §1204(3)(A), substituted “The Office of Finance, as agent for the Banks,” for “The Board” and “such Office” for “the Board” in first sentence and “the Office of Finance” for “the Board” in second and fourth sentences.
+Subsec. (b). Pub. L. 110–289, §1204(3)(A), substituted "The Office of Finance, as agent for the Banks," for "The Board" and "such Office" for "the Board" in first sentence and "the Office of Finance" for "the Board" in second and fourth sentences.
 
-Subsec. (c). Pub. L. 110–289, §1204(3)(B), substituted “the Office of Finance, as agent for the Banks,” for “the Board” before “may issue” and “such Office” for “the Board” before “may prescribe”.
+Subsec. (c). Pub. L. 110–289, §1204(3)(B), substituted "the Office of Finance, as agent for the Banks," for "the Board" before "may issue" and "such Office" for "the Board" before "may prescribe".
 
-Subsec. (f). Pub. L. 110–289, §1204(3)(C), struck out the two commas after “permit” and inserted “or” and struck out the comma after “require”.
+Subsec. (f). Pub. L. 110–289, §1204(3)(C), struck out the two commas after "permit" and inserted "or" and struck out the comma after "require".
 
 Subsec. (l). Pub. L. 110–289, §1117(c), added subsec. (l).
 
-<b>2006</b>—Subsec. (k). Pub. L. 109–173 substituted “the Deposit Insurance Fund” for “SAIF” in heading and “Deposit Insurance Fund” for “Savings Association Insurance Fund” in pars. (1) and (2).
+<b>2006</b>—Subsec. (k). Pub. L. 109–173 substituted "the Deposit Insurance Fund" for "SAIF" in heading and "Deposit Insurance Fund" for "Savings Association Insurance Fund" in pars. (1) and (2).
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(11)(A). See 1996 Amendment note below.
 
-<b>2004</b>—Subsec. (j). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (j). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1996</b>—Subsec. (h). Pub. L. 104–208, §208(h)(2), substituted “section 681 of title 15” for “section 681(d) of title 15”.
+<b>1996</b>—Subsec. (h). Pub. L. 104–208, §208(h)(2), substituted "section 681 of title 15" for "section 681(d) of title 15".
 
-Subsec. (k). Pub. L. 104–208, §2704(d)(11)(A), which directed the amendment of subsec. (k) by substituting “the Deposit Insurance Fund” for “SAIF” in heading and “Deposit Insurance Fund” for “Savings Association Insurance Fund” in pars. (1) and (2), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (k). Pub. L. 104–208, §2704(d)(11)(A), which directed the amendment of subsec. (k) by substituting "the Deposit Insurance Fund" for "SAIF" in heading and "Deposit Insurance Fund" for "Savings Association Insurance Fund" in pars. (1) and (2), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-<b>1989</b>—Subsecs. (a) to (d). Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
+<b>1989</b>—Subsecs. (a) to (d). Pub. L. 101–73, §701(b)(1), (3)(A), substituted "Board" for "board" wherever appearing.
 
-Subsec. (e)(1). Pub. L. 101–73, §709(1), inserted “incidental to activities” after “other business not”.
+Subsec. (e)(1). Pub. L. 101–73, §709(1), inserted "incidental to activities" after "other business not".
 
-Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board”.
+Pub. L. 101–73, §701(b)(1), (3)(A), substituted "Board" for "board".
 
-Subsec. (e)(2)(C). Pub. L. 101–73, §701(c)(1), which directed insertion of “Federal Home Loan” before “Banks,” was executed the second time that term appeared, because “Federal Home Loan” already preceded the term “Banks,” the first place it appeared.
+Subsec. (e)(2)(C). Pub. L. 101–73, §701(c)(1), which directed insertion of "Federal Home Loan" before "Banks," was executed the second time that term appeared, because "Federal Home Loan" already preceded the term "Banks," the first place it appeared.
 
-Subsec. (f). Pub. L. 101–73, §709(2), which directed amendment of subsec. (f) by striking out “or whenever in the judgment of at least 4 members of the board an emergency exists requiring such action” after “empowered to permit,”, was executed by striking out “or whenever in the judgment of at least four members of the board an emergency exists requiring such action”, as the probable intent of Congress. The amendment probably should also have struck out the comma after “empowered to permit” and the words “, to require,” after “such action”.
+Subsec. (f). Pub. L. 101–73, §709(2), which directed amendment of subsec. (f) by striking out "or whenever in the judgment of at least 4 members of the board an emergency exists requiring such action" after "empowered to permit,", was executed by striking out "or whenever in the judgment of at least four members of the board an emergency exists requiring such action", as the probable intent of Congress. The amendment probably should also have struck out the comma after "empowered to permit" and the words ", to require," after "such action".
 
-Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
+Pub. L. 101–73, §701(b)(1), (3)(A), substituted "Board" for "board" wherever appearing.
 
-Subsec. (g). Pub. L. 101–73, §710(b)(6), struck out “or nonmember borrowers” after “made to members” wherever appearing.
+Subsec. (g). Pub. L. 101–73, §710(b)(6), struck out "or nonmember borrowers" after "made to members" wherever appearing.
 
-Subsec. (h). Pub. L. 101–73, §710(b)(6), struck out “or nonmember borrowers” after “advances to members”.
+Subsec. (h). Pub. L. 101–73, §710(b)(6), struck out "or nonmember borrowers" after "advances to members".
 
-Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board”.
+Pub. L. 101–73, §701(b)(1), (3)(A), substituted "Board" for "board".
 
-Subsec. (i). Pub. L. 101–73, §701(c)(2), inserted “Federal” before “Home Loan Bank System”.
+Subsec. (i). Pub. L. 101–73, §701(c)(2), inserted "Federal" before "Home Loan Bank System".
 
-Pub. L. 101–73, §701(b)(1), (2), substituted “Chairperson of the Board” for “Chairman of the Federal Home Loan Bank Board”.
+Pub. L. 101–73, §701(b)(1), (2), substituted "Chairperson of the Board" for "Chairman of the Federal Home Loan Bank Board".
 
-Subsec. (k). Pub. L. 101–73, §709(3), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The Federal Home Loan Banks are hereby authorized, as directed by the Board, to make loans to the Federal Savings and Loan Insurance Corporation. All such loans shall be made in accordance with the provisions of section 1725(d) of this title.”
+Subsec. (k). Pub. L. 101–73, §709(3), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: "The Federal Home Loan Banks are hereby authorized, as directed by the Board, to make loans to the Federal Savings and Loan Insurance Corporation. All such loans shall be made in accordance with the provisions of section 1725(d) of this title."
 
 <b>1982</b>—Subsec. (k). Pub. L. 97–320 added subsec. (k).
 
@@ -208,15 +208,15 @@ Subsec. (k). Pub. L. 101–73, §709(3), amended subsec. (k) generally. Prior to
 
 <b>1974</b>—Subsec. (h). Pub. L. 93–383 inserted reference to mortgages, obligations, or other securities sold by the Federal Home Loan Mortgage Corporation pursuant to section 1454 or 1455 of this title.
 
-Subsec. (i). Pub. L. 93–495 substituted “obligations under this paragraph” for “obligations under this subsection” wherever appearing in fourth sentence of initial par., in second par. substituted provisions authorizing purchase of obligations issued pursuant to this section in amounts not to exceed $2,000,000,000, for provisions relating to exercise of authority of this subsection by the Secretary of the Treasury, and added third par.
+Subsec. (i). Pub. L. 93–495 substituted "obligations under this paragraph" for "obligations under this subsection" wherever appearing in fourth sentence of initial par., in second par. substituted provisions authorizing purchase of obligations issued pursuant to this section in amounts not to exceed $2,000,000,000, for provisions relating to exercise of authority of this subsection by the Secretary of the Treasury, and added third par.
 
-<b>1970</b>—Subsec. (g). Pub. L. 91–609 substituted “five years” for “one year” in items (3) and (4).
+<b>1970</b>—Subsec. (g). Pub. L. 91–609 substituted "five years" for "one year" in items (3) and (4).
 
 <b>1969</b>—Subsec. (i). Pub. L. 91–151 increased the borrowing limit to $4,000,000,000 and made it a requirement that the rate charged on such borrowing be set at the current market yield on Treasury obligations and added a new paragraph which allows the Secretary to permit members of the Home Loan Bank System to continue to supply funds to the mortgage market during tight market conditions.
 
-<b>1968</b>—Subsec. (h). Pub. L. 90–448 inserted “or the Government National Mortgage Association, in the stock of the Federal National Mortgage Association”.
+<b>1968</b>—Subsec. (h). Pub. L. 90–448 inserted "or the Government National Mortgage Association, in the stock of the Federal National Mortgage Association".
 
-<b>1964</b>—Subsec. (h). Pub. L. 88–560 substituted “in obligations, participations, or other instruments of or issued by the Federal National Mortgage Association” for “in obligations of the Federal National Mortgage Association”.
+<b>1964</b>—Subsec. (h). Pub. L. 88–560 substituted "in obligations, participations, or other instruments of or issued by the Federal National Mortgage Association" for "in obligations of the Federal National Mortgage Association".
 
 <b>1954</b>—Subsec. (h). Act Aug. 2, 1954, inserted reference to obligations of the Federal National Mortgage Association.
 

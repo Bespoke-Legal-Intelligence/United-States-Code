@@ -6,23 +6,23 @@
 
 &emsp;(2) accounts arising under—
 
-&emsp;&emsp;(A) “Allowance or drawback (Internal Revenue)”;
+&emsp;&emsp;(A) "Allowance or drawback (Internal Revenue)";
 
-&emsp;&emsp;(B) “Redemption of stamps (Internal Revenue)”;
+&emsp;&emsp;(B) "Redemption of stamps (Internal Revenue)";
 
-&emsp;&emsp;(C) “Refunding legacy taxes, Act of March 30, 1928”;
+&emsp;&emsp;(C) "Refunding legacy taxes, Act of March 30, 1928";
 
-&emsp;&emsp;(D) “Repayment of taxes on distilled spirits destroyed by casualty”; and
+&emsp;&emsp;(D) "Repayment of taxes on distilled spirits destroyed by casualty"; and
 
-&emsp;&emsp;(E) “Refunds and payments of processing and related taxes”.
+&emsp;&emsp;(E) "Refunds and payments of processing and related taxes".
 
 (b) Disbursements may be made from the appropriation made by this section only for—
 
 &emsp;(1) refunds to the limit of liability of an individual tax account; and
 
-&emsp;(2) refunds due from credit provisions of the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997, or from section 25A, 35, 36, 36A, 36B, 168(k)(4)(F), 53(e), 54B(h), 6428, or 6431, of such Code, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008.
+&emsp;(2) refunds due from credit provisions of the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.) enacted before January 1, 1978, or enacted by the Taxpayer Relief Act of 1997, or from section 25A, 35, 36, 36A, 36B, 168(k)(4)(F), 53(e), 54B(h), 6428, or 6431,<sup>1</sup> of such Code, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–34, title I, §101(d)(1), Aug. 5, 1997, 111 Stat. 799; Pub. L. 107–210, div. A, title II, §201(c)(1), Aug. 6, 2002, 116 Stat. 960; Pub. L. 109–432, div. A,title IV, §402(b)(2), Dec. 20, 2006, 120 Stat. 2954; Pub. L. 110–185, title I, §101(f)(1), Feb. 13, 2008, 122 Stat. 617; Pub. L. 110–234, title XV, §15316(c)(6), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(6), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–289, div. C, title I, §3011(b)(3), title III, §3081(c), July 30, 2008, 122 Stat. 2891, 2906; Pub. L. 111–5, div. B, title I, §§1001(e)(2), 1004(b)(8), 1531(c)(1), Feb. 17, 2009, 123 Stat. 312, 314, 360; Pub. L. 111–148, title I, §1401(d)(1), title X, §10909(b)(2)(P), (c), Mar. 23, 2010, 124 Stat. 220, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 923; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–34, title I, §101(d)(1), Aug. 5, 1997, 111 Stat. 799; Pub. L. 107–210, div. A, title II, §201(c)(1), Aug. 6, 2002, 116 Stat. 960; Pub. L. 109–432, div. A, title IV, §402(b)(2), Dec. 20, 2006, 120 Stat. 2954; Pub. L. 110–185, title I, §101(f)(1), Feb. 13, 2008, 122 Stat. 617; Pub. L. 110–234, title XV, §15316(c)(6), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(6), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–289, div. C, title I, §3011(b)(3), title III, §3081(c), July 30, 2008, 122 Stat. 2891, 2906; Pub. L. 111–5, div. B, title I, §§1001(e)(2), 1004(b)(8), 1531(c)(1), Feb. 17, 2009, 123 Stat. 312, 314, 360; Pub. L. 111–148, title I, §1401(d)(1), title X, §10909(b)(2)(P), (c), Mar. 23, 2010, 124 Stat. 220, 1023; Pub. L. 111–312, title I, §101(b)(1), Dec. 17, 2010, 124 Stat. 3298.)
 
 Historical and Revision Notes
 
@@ -36,7 +36,7 @@ Historical and Revision Notes
 
 31:725q–1a(1st par.).
 
-June 19, 1948, ch. 558, §101(words before proviso in par. under heading “Bureau of Internal Revenue”), 62 Stat. 561.
+June 19, 1948, ch. 558, §101(words before proviso in par. under heading "Bureau of Internal Revenue"), 62 Stat. 561.
 
 1324(b)
 
@@ -44,9 +44,9 @@ June 19, 1948, ch. 558, §101(words before proviso in par. under heading “Bure
 
 June 19, 1948, ch. 558, 62 Stat. 560, §302(last par); added Sept. 8, 1978, Pub. L. 95–355, §303, 92 Stat. 563.
 
-In subsection (a), the words “Necessary amounts are appropriated to the Secretary of the Treasury” are added to reflect the introductory language of the Act of June 19, 1948. The words “on and after June 19, 1948” are omitted as executed.
+In subsection (a), the words "Necessary amounts are appropriated to the Secretary of the Treasury" are added to reflect the introductory language of the Act of June 19, 1948. The words "on and after June 19, 1948" are omitted as executed.
 
-In subsection (b), the words “appropriation made by this section” are substituted for “the appropriation to the Treasury Department entitled ‘Bureau of Internal Revenue Refunding Internal-Revenue Collections’ ” to eliminate unnecessary words.
+In subsection (b), the words "appropriation made by this section" are substituted for "the appropriation to the Treasury Department entitled 'Bureau of Internal Revenue Refunding Internal-Revenue Collections' " to eliminate unnecessary words.
 
 #### References in Text
 
@@ -64,31 +64,31 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(2). Pub. L. 111–148, §10909(b)(2)(P), (c), as amended by Pub. L. 111–312, temporarily inserted “36C,” after “36B,”. See Effective and Termination Dates of 2010 Amendment note below.
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–148, §10909(b)(2)(P), (c), as amended by Pub. L. 111–312, temporarily inserted "36C," after "36B,". See Effective and Termination Dates of 2010 Amendment note below.
 
-Pub. L. 111–148, §1401(d)(1), inserted “36B,” after “36A,”.
+Pub. L. 111–148, §1401(d)(1), inserted "36B," after "36A,".
 
-<b>2009</b>—Subsec. (b)(2). Pub. L. 111–5, §1531(c)(1), substituted “6428, or 6431,” for “or 6428”.
+<b>2009</b>—Subsec. (b)(2). Pub. L. 111–5, §1531(c)(1), substituted "6428, or 6431," for "or 6428".
 
-Pub. L. 111–5, §1004(b)(8), inserted “25A,” after “section”.
+Pub. L. 111–5, §1004(b)(8), inserted "25A," after "section".
 
-Pub. L. 111–5, §1001(e)(2), inserted “36A,” after “36,”.
+Pub. L. 111–5, §1001(e)(2), inserted "36A," after "36,".
 
-<b>2008</b>—Subsec. (b)(2). Pub. L. 110–289, §3081(c), inserted “168(k)(4)(F),” after “36,” and “, or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008” before period at end.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–289, §3081(c), inserted "168(k)(4)(F)," after "36," and ", or due under section 3081(b)(2) of the Housing Assistance Tax Act of 2008" before period at end.
 
-Pub. L. 110–289, §3011(b)(3), inserted “36,” after “35,”.
+Pub. L. 110–289, §3011(b)(3), inserted "36," after "35,".
 
-Pub. L. 110–246, §15316(c)(6), substituted “, 53(e), 54B(h), or 6428” for “or 6428 or 53(e)”.
+Pub. L. 110–246, §15316(c)(6), substituted ", 53(e), 54B(h), or 6428" for "or 6428 or 53(e)".
 
-Pub. L. 110–185 inserted “or 6428” after “section 35”.
+Pub. L. 110–185 inserted "or 6428" after "section 35".
 
-<b>2006</b>—Subsec. (b)(2). Pub. L. 109–432 inserted “or 53(e)” after “section 35”.
+<b>2006</b>—Subsec. (b)(2). Pub. L. 109–432 inserted "or 53(e)" after "section 35".
 
-<b>2002</b>—Subsec. (b)(2). Pub. L. 107–210 inserted “, or from section 35 of such Code” before period at end.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–210 inserted ", or from section 35 of such Code" before period at end.
 
-<b>1997</b>—Subsec. (b)(2). Pub. L. 105–34 inserted before period at end “, or enacted by the Taxpayer Relief Act of 1997”.
+<b>1997</b>—Subsec. (b)(2). Pub. L. 105–34 inserted before period at end ", or enacted by the Taxpayer Relief Act of 1997".
 
-<b>1986</b>—Subsec. (b)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (b)(2). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
 #### Effective and Termination Dates of 2010 Amendment
 
@@ -100,7 +100,7 @@ Amendment by section 10909(b)(2)(P) of Pub. L. 111–148 applicable to taxable y
 
 #### Effective Date of 2009 Amendment
 
-Amendment by section 1001(e)(2) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1001(f) of Pub. L. 111–5, set out as an Effective Date note under section 36A of Title 26, Internal Revenue Code.
+Amendment by section 1001(e)(2) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008,see section 1001(f) of Pub. L. 111–5, set out as an Effective Date note under section 36A of Title 26, Internal Revenue Code.
 
 Amendment by section 1004(b)(8) of Pub. L. 111–5 applicable to taxable years beginning after Dec. 31, 2008, see section 1004(d) of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 24 of Title 26, Internal Revenue Code.
 
@@ -122,7 +122,7 @@ Amendment by Pub. L. 109–432 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 101(e) ofPub. L. 105–34, set out as a note under section 24 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 105–34 applicable to taxable years beginning after Dec. 31, 1997, see section 101(e) of Pub. L. 105–34, set out as a note under section 24 of Title 26, Internal Revenue Code.
 
 #### Construction of 2002 Amendment
 
@@ -130,5 +130,7 @@ Nothing in amendment by Pub. L. 107–210, other than provisions relating to COB
 
 #### Coordination With Refund Provision
 
-Pub. L. 101–508, title XI, §11116, Nov. 5, 1990, 104 Stat. 1388–415, provided that: “For purposes of section 1324(b)(2) of title 31 of the United States Code, section 32 of the Internal Revenue Code of 1986 \[26 U.S.C. 32\] (as amended by this Act) shall be considered to be a credit provision of the Internal Revenue Code of 1954 enacted before January 1, 1978.”
+Pub. L. 101–508, title XI, §11116, Nov. 5, 1990, 104 Stat. 1388–415, provided that: "For purposes of section 1324(b)(2) of title 31 of the United States Code, section 32 of the Internal Revenue Code of 1986 \[26 U.S.C. 32\] (as amended by this Act) shall be considered to be a credit provision of the Internal Revenue Code of 1954 enacted before January 1, 1978."
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -24,17 +24,17 @@ Within 2 years after December 22, 1987, and periodically thereafter, the Secreta
 
 #### Codification
 
-In subsecs. (a)(1), (c), “December 22, 1987” substituted for “the effective date of this subpart” on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.
+In subsecs. (a)(1), (c), "December 22, 1987" substituted for "the effective date of this subpart" on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.
 
 #### Amendments
 
 <b>1989</b>—Subsecs. (b), (c). Pub. L. 101–239 added subsec. (b) and redesignated former subsec. (b) as (c).
 
-<b>1987</b>—Subsecs. (a)(1), (b). Pub. L. 100–203 substituted “effective date of this subpart” for “effective date of this part”.
+<b>1987</b>—Subsecs. (a)(1), (b). Pub. L. 100–203 substituted "effective date of this subpart" for "effective date of this part".
 
 #### Change of Name
 
-Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor,and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
+Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

@@ -88,11 +88,11 @@ In considering grant applications under this section, the Administrator shall gi
 
 #### References in Text
 
-Part C of subchapter II of this chapter, referred to in subsec. (c)(4), was in the original “part C of this subtitle”, and was translated as reading “part C of title II”, meaning part C of title II of Pub. L. 93–415, to reflect the probable intent of Congress. Title V of Pub. L. 93–415 does not contain parts or subtitles.
+Part C of subchapter II of this chapter, referred to in subsec. (c)(4), was in the original "part C of this subtitle", and was translated as reading "part C of title II", meaning part C of title II of Pub. L. 93–415, to reflect the probable intent of Congress. Title V of Pub. L. 93–415 does not contain parts or subtitles.
 
 #### Codification
 
-Another section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended section 5034 of Title 18,Crimes and Criminal Procedure. Pub. L. 111–211, which directed amendment of section 504 of Pub. L. 93–415, was executed to this section, to reflect the probable intent of Congress.
+Another section 504 of Pub. L. 93–415, title V, Sept. 7, 1974, 88 Stat. 1135, amended section 5034 of Title 18, Crimes and Criminal Procedure. Pub. L. 111–211, which directed amendment of section 504 of Pub. L. 93–415, was executed to this section, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
@@ -100,11 +100,11 @@ A prior section 5783, Pub. L. 93–415, title V, §504, as added Pub. L. 102–5
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–211, §246(a)(1), inserted “, or to federally recognized Indian tribe or consortia of federally recognized Indian tribes under subsection (d)” after “subsection (b)” in introductory provisions.
+<b>2010</b>—Subsec. (a). Pub. L. 111–211, §246(a)(1), inserted ", or to federally recognized Indian tribe or consortia of federally recognized Indian tribes under subsection (d)" after "subsection (b)" in introductory provisions.
 
 Subsec. (d). Pub. L. 111–211, §246(a)(2), added subsec. (d).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “tribes”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "tribes".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

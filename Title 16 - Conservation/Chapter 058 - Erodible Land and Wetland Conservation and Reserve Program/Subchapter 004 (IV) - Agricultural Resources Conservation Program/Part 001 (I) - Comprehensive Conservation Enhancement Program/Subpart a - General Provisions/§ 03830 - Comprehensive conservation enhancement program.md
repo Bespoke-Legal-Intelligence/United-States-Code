@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;During the 1996 through 2002 calendar years, the Secretary shall establish a comprehensive conservation enhancement program (referred to in this section as “CCEP”) to be implemented through contracts and the acquisition of easements to assist owners and operators of farms and ranches to conserve and enhance soil, water, and related natural resources, including grazing land, wetland, and wildlife habitat.
+&emsp;During the 1996 through 2002 calendar years, the Secretary shall establish a comprehensive conservation enhancement program (referred to in this section as "CCEP") to be implemented through contracts and the acquisition of easements to assist owners and operators of farms and ranches to conserve and enhance soil, water, and related natural resources, including grazing land, wetland, and wildlife habitat.
 
 #### (2) Means
 
@@ -42,59 +42,59 @@
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–171, §2006(b)(1), substituted “Comprehensive conservation enhancement program” for “Environmental conservation acreage reserve program” in section catchline.
+<b>2002</b>—Pub. L. 107–171, §2006(b)(1), substituted "Comprehensive conservation enhancement program" for "Environmental conservation acreage reserve program" in section catchline.
 
-Subsec. (a)(1). Pub. L. 107–171, §2006(b)(2), (4), substituted “a comprehensive conservation enhancement program” for “an environmental conservation acreage reserve program” and “CCEP” for “ECARP”.
+Subsec. (a)(1). Pub. L. 107–171, §2006(b)(2), (4), substituted "a comprehensive conservation enhancement program" for "an environmental conservation acreage reserve program" and "CCEP" for "ECARP".
 
-Subsecs. (a)(2), (3), (b). Pub. L. 107–171, §2006(b)(4), substituted “CCEP” for “ECARP” wherever appearing.
+Subsecs. (a)(2), (3), (b). Pub. L. 107–171, §2006(b)(4), substituted "CCEP" for "ECARP" wherever appearing.
 
 Subsec. (c). Pub. L. 107–171, §2006(b)(3), struck out heading and text of subsec. (c). Text read as follows:
 
-“(1)
+"(1)
 
 Designation.—The Secretary may designate watersheds, multistate areas, or regions of special environmental sensitivity as conservation priority areas that are eligible for enhanced assistance under this part and part IV of this subchapter.
 
-“(2)
+"(2)
 
 Assistance.—The Secretary may designate areas as conservation priority areas to assist, to the maximum extent practicable, agricultural producers within the conservation priority areas to comply with nonpoint source pollution requirements under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) and other Federal and State environmental laws and to meet other conservation needs.
 
-“(3)
+"(3)
 
 Producers.—The Secretary may provide technical assistance, cost-share payments, and incentive payments to producers in a conservation priority area under this part and part IV of this subchapter based on—
 
-&emsp;“(A) the significance of the soil, water, wildlife habitat, and related natural resource problems in a watershed, multistate area, or region; and
+&emsp;"(A) the significance of the soil, water, wildlife habitat, and related natural resource problems in a watershed, multistate area, or region; and
 
-&emsp;“(B) the structural practices or land management practices that best address the problems, and that maximize environmental benefits for each dollar expended, as determined by the Secretary.”
+&emsp;"(B) the structural practices or land management practices that best address the problems, and that maximize environmental benefits for each dollar expended, as determined by the Secretary."
 
 <b>1996</b>—Pub. L. 104–127 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) requiring Secretary to establish and implement an Environmental Conservation Acreage Reserve Program during 1991 through 1995 calendar years.
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–66 struck out before period at end “to place in the Environmental Conservation Acreage Reserve Program during the 1986 through 1995 calendar years a total of not less than 40,000,000 nor more than 45,000,000 acres”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–66 struck out before period at end "to place in the Environmental Conservation Acreage Reserve Program during the 1986 through 1995 calendar years a total of not less than 40,000,000 nor more than 45,000,000 acres".
 
 #### Conservation Assistance
 
 Pub. L. 106–224, title II, §211, June 20, 2000, 114 Stat. 406, as amended by Pub. L. 107–171, title II, §2503(b)(1)(B), May 13, 2002, 116 Stat. 269, provided that:
 
-“(a)
+"(a)
 
 Establishment.—The Secretary shall use $40,000,000 of funds of the Commodity Credit Corporation to provide financial assistance to farmers and ranchers to—
 
-&emsp;“(1) address threats to soil, water, and related natural resources, including grazing land, wetland, and wildlife habitat;
+&emsp;"(1) address threats to soil, water, and related natural resources, including grazing land, wetland, and wildlife habitat;
 
-&emsp;“(2) comply with Federal and State environmental laws; and
+&emsp;"(2) comply with Federal and State environmental laws; and
 
-&emsp;“(3) make beneficial, cost-effective changes to cropping systems, grazing management, manure, nutrient, pest, or irrigation management, land uses, or other measures needed to conserve and improve soil, water, and related natural resources.
+&emsp;"(3) make beneficial, cost-effective changes to cropping systems, grazing management, manure, nutrient, pest, or irrigation management, land uses, or other measures needed to conserve and improve soil, water, and related natural resources.
 
-“(b)
+"(b)
 
 Type of Assistance.—Assistance under this section may be made in the form of cost share payments or incentive payments, as determined by the Secretary.
 
-“(c)
+"(c)
 
-Areas.—The Secretary shall provide assistance under this section to areas that are not designated under section 1230(c) of the Food Security Act of 1985 (\[former\] 16 U.S.C. 3830(c)).”
+Areas.—The Secretary shall provide assistance under this section to areas that are not designated under section 1230(c) of the Food Security Act of 1985 (\[former\] 16 U.S.C. 3830(c))."
 
 #### Farmland Protection Program
 
 Pub. L. 104–127, title III, §388, Apr. 4, 1996, 110 Stat. 1020, directed Secretary of Agriculture to establish and carry out a farmland protection program, prior to repeal by Pub. L. 107–171, title II, §2503(b)(1)(A), May 13, 2002, 116 Stat. 269.
 
-\[Pub. L. 107–171, title II, §2503(b)(2), May 13, 2002, 116 Stat. 269, provided that: “The amendment made by paragraph (1)(A) \[repealing section 388 of Pub. L. 104–127, formerly set out above\] shall have no effect on any contract entered into under section 388 of the Federal Agriculture Improvement and Reform Act of 1996 \[Pub. L. 104–127\] (16 U.S.C. 3830 note) that is in effect as of the date of enactment of this Act \[May 13, 2002\].”\]
+\[Pub. L. 107–171, title II, §2503(b)(2), May 13, 2002, 116 Stat. 269, provided that: "The amendment made by paragraph (1)(A) \[repealing section 388 of Pub. L. 104–127, formerly set out above\] shall have no effect on any contract entered into under section 388 of the Federal Agriculture Improvement and Reform Act of 1996 \[Pub. L. 104–127\] (16 U.S.C. 3830 note) that is in effect as of the date of enactment of this Act \[May 13, 2002\]."\]
 

@@ -26,5 +26,5 @@ Aug. 6, 1956, ch. 974, §7, 70 Stat. 1050.
 
 Aug. 6, 1956, ch. 974, §10, as added Jan. 30, 1968, Pub. L. 90–251, §4, 82 Stat. 4.
 
-The words “communications companies” are substituted for “telegraph, telephone, radio-broadcasting, and television companies” to eliminate unnecessary words.
+The words "communications companies" are substituted for "telegraph, telephone, radio-broadcasting, and television companies" to eliminate unnecessary words.
 

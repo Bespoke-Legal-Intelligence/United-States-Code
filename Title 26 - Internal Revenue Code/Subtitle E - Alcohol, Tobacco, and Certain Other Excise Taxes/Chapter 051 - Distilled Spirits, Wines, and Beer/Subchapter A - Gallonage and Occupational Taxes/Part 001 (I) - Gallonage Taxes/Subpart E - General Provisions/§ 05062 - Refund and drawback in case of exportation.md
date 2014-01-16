@@ -12,7 +12,7 @@ On the exportation of distilled spirits or wines manufactured, produced, bottled
 
 #### (1) Allowance of tax
 
-&emsp;Upon the exportation of imported distilled spirits, wines, and beer upon which the duties and internal revenue taxes have been paid or determined incident to their importation into the United States, and which have been found after entry to be unmerchantable or not to conform to sample or specifications, and which have been returned to customs custody, the Secretary shall, under such regulations as he shall prescribe, refund, remit, abate, or credit, without interest, to the importer thereof, the full amount of the internal revenue taxes paid or determined with respect to such distilled spirits, wines, or beer.
+&emsp;Upon the exportation of imported distilled spirits, wines, and beer upon which the duties and internal revenue taxes have been paid or determined incident to their importation into the United States, and which have been found after entry to be unmerchantable or not to conform to sample or specifications, and which have been returned to customs custody,the Secretary shall, under such regulations as he shall prescribe, refund, remit, abate, or credit, without interest, to the importer thereof, the full amount of the internal revenue taxes paid or determined with respect to such distilled spirits, wines, or beer.
 
 #### (2) Destruction in lieu of exportation
 
@@ -26,15 +26,15 @@ A prior section 5062, act Aug. 16, 1954, ch. 736, 68A Stat. 614, consisted of pr
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted “have been marked” for “have been stamped or restamped, and marked”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted "have been marked" for "have been stamped or restamped, and marked".
 
-<b>1977</b>—Subsec. (b). Pub. L. 95–176 substituted in first sentence “manufactured, produced, bottled, or packaged in casks or other bulk containers” and “other bulk container” for “manufactured or produced” and “package” and in last sentence “spirits and wines eligible for drawback under this subsection, including the requirements” for “domestic distilled spirits and wines, including the requirement”.
+<b>1977</b>—Subsec. (b). Pub. L. 95–176 substituted in first sentence "manufactured, produced, bottled, or packaged in casks or other bulk containers" and "other bulk container" for "manufactured or produced" and "package" and in last sentence "spirits and wines eligible for drawback under this subsection, including the requirements" for "domestic distilled spirits and wines, including the requirement".
 
-<b>1976</b>—Subsecs. (a), (b), (c)(1). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b), (c)(1). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1968</b>—Subsec. (b). Pub. L. 90–630 permitted, under Treasury regulations, drawback of the tax where the stamping, restamping, or marking is done after the spirits have been removed from the original bottling plant.
 
-<b>1965</b>—Subsec. (c)(1). Pub. L. 89–44 struck out “within six months of their release therefrom” after “customs custody”.
+<b>1965</b>—Subsec. (c)(1). Pub. L. 89–44 struck out "within six months of their release therefrom" after "customs custody".
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–539 added subsec. (c).
 
@@ -56,5 +56,5 @@ Amendment by Pub. L. 89–44 effective July 1, 1965, see section 805(g)(1) of Pu
 
 #### Effective Date of 1964 Amendment
 
-Pub. L. 88–539, §2, Aug. 31, 1964, 78 Stat. 746, provided that: “The amendment made by the first section of this Act \[amending this section\] shall apply with respect to articles exported or destroyed after the date of the enactment of this Act \[Aug. 31, 1964\].”
+Pub. L. 88–539, §2, Aug. 31, 1964, 78 Stat. 746, provided that: "The amendment made by the first section of this Act \[amending this section\] shall apply with respect to articles exported or destroyed after the date of the enactment of this Act \[Aug. 31, 1964\]."
 

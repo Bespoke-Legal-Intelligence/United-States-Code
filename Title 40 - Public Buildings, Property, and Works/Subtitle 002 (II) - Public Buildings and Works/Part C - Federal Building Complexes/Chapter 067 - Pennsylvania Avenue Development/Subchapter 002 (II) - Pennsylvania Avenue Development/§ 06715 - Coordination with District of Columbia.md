@@ -32,7 +32,7 @@ Historical and Revision Notes
 
 Pub. L. 92–578, §9, Oct. 27, 1972, 86 Stat. 1273.
 
-In subsection (b), the word “reconstructing” is omitted as unnecessary.
+In subsection (b), the word "reconstructing" is omitted as unnecessary.
 
 #### References in Text
 

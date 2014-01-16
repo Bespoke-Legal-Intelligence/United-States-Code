@@ -40,11 +40,11 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 49 App.:1655(c)(1).
 
-In this section, the words “functions (including . . . parts of functions)” are omitted as included in “duty, power, activity, or facility”.
+In this section, the words "functions (including . . . parts of functions)" are omitted as included in "duty, power, activity, or facility".
 
-In subsection (a), the words “of a department, agency, or instrumentality of the executive branch of the United States Government” are substituted for “the executive departments or agencies of the Government” for consistency in the revised title and with other titles of the United States Code. The word “unit” is substituted for “organizational entity” for clarity. The words “appropriate” and “civilian and military” are omitted as surplus. The words “officers and employees” are substituted for “personnel” for consistency in the revised title and with other titles of the Code. The words “to the Administrator” are added for clarity.
+In subsection (a), the words "of a department, agency, or instrumentality of the executive branch of the United States Government" are substituted for "the executive departments or agencies of the Government" for consistency in the revised title and with other titles of the United States Code. The word "unit" is substituted for "organizational entity" for clarity. The words "appropriate" and "civilian and military" are omitted as surplus. The words "officers and employees" are substituted for "personnel" for consistency in the revised title and with other titles of the Code. The words "to the Administrator" are added for clarity.
 
-In subsection (b), the text of 49 App.:1343(c) (words before proviso) is omitted as obsolete. The words “Secretary of Defense” are substituted for “Department of Defense” because of 10:133(a). The words “prior to enactment of such proposed legislation” are omitted as obsolete because the legislation was not enacted. The word “appropriate” is omitted as surplus. The words “of the Administration to the Department of Defense” are added for clarity.
+In subsection (b), the text of 49 App.:1343(c) (words before proviso) is omitted as obsolete. The words "Secretary of Defense" are substituted for "Department of Defense" because of 10:133(a). The words "prior to enactment of such proposed legislation" are omitted as obsolete because the legislation was not enacted. The word "appropriate" is omitted as surplus. The words "of the Administration to the Department of Defense" are added for clarity.
 
 #### Ex. Ord. No. 10786. Transfer of Functions of the Airways Modernization Board to the Administrator
 
@@ -108,7 +108,7 @@ NOW, THEREFORE, by virtue of the authority vested in me by Section 302(e) (72 St
 
 Section 1. The Secretary of Defense and the Secretary of Transportation are hereby directed to prepare and develop plans, procedures, policies, programs, and courses of action in anticipation of the probable transfer of the Federal Aviation Administration to the Department of Defense in the event of war. Those plans, policies, procedures, programs, and courses of action shall be prepared and developed in conformity with the following-described standards and conditions—
 
-(A) The Federal Aviation Administration will function as an adjunct of the Department of Defense with the Federal Aviation Administrator being responsible directly to the Secretary of Defense and subject to his authority, direction, and control to the extent deemed by the Secretary to be necessary for the discharge of his responsibilities as Secretary of Defense.
+(A) The Federal Aviation Administration will function as an adjunct of the Department of Defense withthe Federal Aviation Administrator being responsible directly to the Secretary of Defense and subject to his authority, direction, and control to the extent deemed by the Secretary to be necessary for the discharge of his responsibilities as Secretary of Defense.
 
 (B) To the extent deemed by the Secretary of Defense to be necessary for the accomplishment of the military mission, he will be empowered to direct the Administrator to place operational elements of the Federal Aviation Administration under the direct operational control of appropriate military commanders.
 

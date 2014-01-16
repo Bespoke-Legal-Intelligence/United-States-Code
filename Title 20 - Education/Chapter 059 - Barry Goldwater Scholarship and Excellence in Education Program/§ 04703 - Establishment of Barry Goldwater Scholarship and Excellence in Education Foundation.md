@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established, as an independent establishment of the executive branch of the UnitedStates Government, the Barry Goldwater Scholarship and Excellence in Education Foundation.
+There is established, as an independent establishment of the executive branch of the United States Government, the Barry Goldwater Scholarship and Excellence in Education Foundation.
 
 #### (b) Board of Trustees
 
@@ -38,9 +38,9 @@ Members of the Board shall serve without pay, but shall be entitled to reimburse
 
 <b>1993</b>—Subsec. (c)(1)(C). Pub. L. 103–160 added subpar. (C).
 
-<b>1991</b>—Subsec. (b)(3). Pub. L. 102–190 struck out before period at end “, at least one of whom shall be a representative of the aerospace industry and at least one of whom shall be a representative of a private foundation concerned with aerospace education”.
+<b>1991</b>—Subsec. (b)(3). Pub. L. 102–190 struck out before period at end ", at least one of whom shall be a representative of the aerospace industry and at least one of whom shall be a representative of a private foundation concerned with aerospace education".
 
-<b>1987</b>—Subsec. (c)(2). Pub. L. 100–26 substituted “clause (1) or (2)” for “clause (2) or (3)”.
+<b>1987</b>—Subsec. (c)(2). Pub. L. 100–26 substituted "clause (1) or (2)" for "clause (2) or (3)".
 
 #### Effective Date of 1987 Amendment
 

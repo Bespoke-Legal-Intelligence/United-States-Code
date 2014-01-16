@@ -26,7 +26,7 @@ The Agricultural Market Transition Act, referred to in subsec. (a), is title I o
 
 The Commodity Credit Corporation Charter Act, referred to in subsec. (a), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-The Food Security Act of 1985, referred to in subsec. (a), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the “Sodbuster Law”, is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. Subtitle D of title XII of the Act is classified generally to subchapter IV (§3830 et seq.) of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsec. (a), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the "Sodbuster Law", is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. Subtitle D of title XII of the Act is classified generally to subchapter IV (§3830 et seq.) of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 #### Codification
 
@@ -36,15 +36,15 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §1603(a), substituted “Food, Conservation, and Energy Act of 2008” for “Farm Security and Rural Investment Act of 2002”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §1603(a), substituted "Food, Conservation, and Energy Act of 2008" for "Farm Security and Rural Investment Act of 2002".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–171 inserted “title I of the Farm Security and Rural Investment Act of 2002,” after “made available under”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171 inserted "title I of the Farm Security and Rural Investment Act of 2002," after "made available under".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–127 substituted “Any person” for “For each of the 1991 through 1997 crops, any person”, substituted “loans or payments made available under the Agricultural Market Transition Act,” for “production adjustment payments, price support program loans, payments, or benefits made available under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.),”, and struck out “during the 1989 through 1997 crop years” before “, with respect to any commodity produced”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127 substituted "Any person" for "For each of the 1991 through 1997 crops, any person", substituted "loans or payments made available under the Agricultural Market Transition Act," for "production adjustment payments, price support program loans, payments, or benefits made available under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.),", and struck out "during the 1989 through 1997 crop years" before ", with respect to any commodity produced".
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–66 substituted “1997” for “1995” in two places.
+<b>1993</b>—Subsec. (a). Pub. L. 103–66 substituted "1997" for "1995" in two places.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted “1991 through 1995 crops” for “1989 and 1990 crops” and inserted “, or under any contract entered into under title XII during the 1989 through 1995 crop years,” after “(16 U.S.C. 3831 et seq.)”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted "1991 through 1995 crops" for "1989 and 1990 crops" and inserted ", or under any contract entered into under title XII during the 1989 through 1995 crop years," after "(16 U.S.C. 3831 et seq.)".
 
 #### Effective Date of 2008 Amendment
 

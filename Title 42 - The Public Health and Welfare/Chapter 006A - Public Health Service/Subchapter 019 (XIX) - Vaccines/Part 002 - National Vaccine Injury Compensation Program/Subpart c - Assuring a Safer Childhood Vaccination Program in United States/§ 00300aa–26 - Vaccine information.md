@@ -34,57 +34,57 @@ On and after a date determined by the Secretary which is—
 
 > each health care provider who administers a vaccine set forth in the Vaccine Injury Table shall provide to the legal representatives of any child or to any other individual to whom such provider intends to administer such vaccine a copy of the information materials developed pursuant to subsection (a) of this section, supplemented with visual presentations or oral explanations, in appropriate cases. Such materials shall be provided prior to the administration of such vaccine.
 
-(July 1, 1944, ch. 373, title XXI, §2126, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3775; amended Pub. L. 100–203, title IV, §4302(b)(1), Dec. 22, 1987, 101 Stat. 1330–221; Pub.L. 101–239, title VI, §6601(p), Dec. 19, 1989, 103 Stat. 2292; Pub. L. 102–531, title III, §312(d)(15), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 103–183, title VII, §708, Dec. 14, 1993, 107 Stat. 2242.)
+(July 1, 1944, ch. 373, title XXI, §2126, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3775; amended Pub. L. 100–203, title IV, §4302(b)(1), Dec. 22, 1987, 101 Stat. 1330–221; Pub. L. 101–239, title VI, §6601(p), Dec. 19, 1989, 103 Stat. 2292; Pub. L. 102–531, title III, §312(d)(15), Oct. 27, 1992, 106 Stat. 3505; Pub. L. 103–183, title VII, §708, Dec. 14, 1993, 107 Stat. 2242.)
 
 #### Codification
 
-In subsec. (a), “December 22, 1987” substituted for “the effective date of this subpart” on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.
+In subsec. (a), "December 22, 1987" substituted for "the effective date of this subpart" on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–183, §708(c), inserted “or to any other individual” after “to the legal representatives of any child”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–183, §708(c), inserted "or to any other individual" after "to the legal representatives of any child".
 
-Subsec. (b). Pub. L. 103–183, §708(a), struck out “by rule” after “revised” in introductory provisions and substituted “and 60” for “, opportunity for a public hearing, and 90” in par. (1).
+Subsec. (b). Pub. L. 103–183, §708(a), struck out "by rule" after "revised" in introductory provisions and substituted "and 60" for ", opportunity for a public hearing, and 90" in par. (1).
 
-Subsec. (c). Pub. L. 103–183, §708(b), inserted in introductory provisions “shall be based on available data and information,” after “such materials”, added pars. (1) to (4), and struck out former pars. (1) to (10) which read as follows:
+Subsec. (c). Pub. L. 103–183, §708(b), inserted in introductory provisions "shall be based on available data and information," after "such materials", added pars. (1) to (4), and struck out former pars. (1) to (10) which read as follows:
 
-“(1) the frequency, severity, and potential long-term effects of the disease to be prevented by the vaccine,
+"(1) the frequency, severity, and potential long-term effects of the disease to be prevented by the vaccine,
 
-“(2) the symptoms or reactions to the vaccine which, if they occur, should be brought to the immediate attention of the health care provider,
+"(2) the symptoms or reactions to the vaccine which, if they occur, should be brought to the immediate attention of the health care provider,
 
-“(3) precautionary measures legal representatives should take to reduce the risk of any major adverse reactions to the vaccine that may occur,
+"(3) precautionary measures legal representatives should take to reduce the risk of any major adverse reactions to the vaccine that may occur,
 
-“(4) early warning signs or symptoms to which legal representatives should be alert as possible precursors to such major adverse reactions,
+"(4) early warning signs or symptoms to which legal representatives should be alert as possible precursors to such major adverse reactions,
 
-“(5) a description of the manner in which legal representatives should monitor such major adverse reactions, including a form on which reactions can be recorded to assist legal representatives in reporting information to appropriate authorities,
+"(5) a description of the manner in which legal representatives should monitor such major adverse reactions, including a form on which reactions can be recorded to assist legal representatives in reporting information to appropriate authorities,
 
-“(6) a specification of when, how, and to whom legal representatives should report any major adverse reaction,
+"(6) a specification of when, how, and to whom legal representatives should report any major adverse reaction,
 
-“(7) the contraindications to (and bases for delay of) the administration of the vaccine,
+"(7) the contraindications to (and bases for delay of) the administration of the vaccine,
 
-“(8) an identification of the groups, categories, or characteristics of potential recipients of the vaccine who may be at significantly higher risk of major adverse reaction to the vaccine than the general population,
+"(8) an identification of the groups, categories, or characteristics of potential recipients of the vaccine who may be at significantly higher risk of major adverse reaction to the vaccine than the general population,
 
-“(9) a summary of—
+"(9) a summary of—
 
-&emsp;“(A) relevant Federal recommendations concerning a complete schedule of childhood immunizations, and
+&emsp;"(A) relevant Federal recommendations concerning a complete schedule of childhood immunizations, and
 
-&emsp;“(B) the availability of the Program, and
+&emsp;"(B) the availability of the Program, and
 
-“(10) such other relevant information as may be determined by the Secretary.”
+"(10) such other relevant information as may be determined by the Secretary."
 
-Subsec. (d). Pub. L. 103–183, §708(c), (d), in concluding provisions, inserted “or to any other individual” after “to the legal representatives of any child”, substituted “supplemented with visual presentations or oral explanations, in appropriate cases” for “or other written information which meets the requirements of this section”, and struck out “or other information” after “Such materials”.
+Subsec. (d). Pub. L. 103–183, §708(c), (d), in concluding provisions, inserted "or to any other individual" after "to the legal representatives of any child", substituted "supplemented with visual presentations or oral explanations, in appropriate cases" for "or other written information which meets the requirements of this section", and struck out "or other information" after "Such materials".
 
-<b>1992</b>—Subsec. (b)(2). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
-<b>1989</b>—Subsec. (c)(9). Pub. L. 101–239 amended par. (9) generally. Prior to amendment, par. (9) read as follows: “a summary of relevant State and Federal laws concerning the vaccine, including information on—
+<b>1989</b>—Subsec. (c)(9). Pub. L. 101–239 amended par. (9) generally. Prior to amendment, par. (9) read as follows: "a summary of relevant State and Federal laws concerning the vaccine, including information on—
 
-&emsp;“(A) the number of vaccinations required for school attendance and the schedule recommended for such vaccinations, and
+&emsp;"(A) the number of vaccinations required for school attendance and the schedule recommended for such vaccinations, and
 
-&emsp;“(B) the availability of the Program, and”.
+&emsp;"(B) the availability of the Program, and".
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–203 substituted “effective date of this subpart” for “effective date of this part”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203 substituted "effective date of this subpart" for "effective date of this part".
 
 #### Effective Date of 1989 Amendment
 
-For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
+For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currentlypending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
 

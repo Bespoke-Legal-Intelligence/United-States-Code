@@ -28,7 +28,7 @@ Section 1893 of Pub. L. 111–5, which provided for Feb. 13, 2011, termination o
 
 <b>2009</b>—Subsec. (c). Pub. L. 111–5, §§1812, 1893, temporarily added subsec. (c). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–210 struck out “or subpart D of this part” after “this subpart” in pars. (1) and (2).
+<b>2002</b>—Subsec. (b). Pub. L. 107–210 struck out "or subpart D of this part" after "this subpart" in pars. (1) and (2).
 
 <b>1993</b>—Subsec. (b). Pub. L. 103–182 inserted reference to subpart D in pars. (1) and (2).
 

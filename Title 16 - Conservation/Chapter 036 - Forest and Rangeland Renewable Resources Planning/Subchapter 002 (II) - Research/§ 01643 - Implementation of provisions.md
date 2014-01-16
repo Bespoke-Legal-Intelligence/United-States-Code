@@ -16,5 +16,5 @@ In implementing this subchapter, the Secretary may cooperate with international,
 
 #### Amendments
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–513, which directed amendment of “the first section of” this subsection by inserting “international,” before “Federal”, was executed by making the insertion in the first sentence of this subsection to reflect the probable intent of Congress.
+<b>1990</b>—Subsec. (c). Pub. L. 101–513, which directed amendment of "the first section of" this subsection by inserting "international," before "Federal", was executed by making the insertion in the first sentence of this subsection to reflect the probable intent of Congress.
 

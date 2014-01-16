@@ -22,7 +22,7 @@ Multiple Award Contracts.—When multiple task or delivery order contracts are a
 
 (c)
 
-Statement of Work.—A task or delivery order shall include a statement of work thatclearly specifies all tasks to be performed or property to be delivered under the order.
+Statement of Work.—A task or delivery order shall include a statement of work that clearly specifies all tasks to be performed or property to be delivered under the order.
 
 (d)
 
@@ -60,17 +60,17 @@ Applicability.—This section applies to task and delivery order contracts enter
 
 #### Amendments
 
-<b>2013</b>—Subsec. (e)(3). Pub. L. 112–239 struck out par. (3) which read as follows: “Paragraph (1)(B) and paragraph (2) of this subsection shall not be in effect after September 30, 2016.”
+<b>2013</b>—Subsec. (e)(3). Pub. L. 112–239 struck out par. (3) which read as follows: "Paragraph (1)(B) and paragraph (2) of this subsection shall not be in effect after September 30, 2016."
 
-<b>2011</b>—Subsec. (a)(1). Pub. L. 111–350 substituted “section 1708 of title 41” for “section 18 of the Office of Federal Procurement Policy Act (41 U.S.C. 416)”.
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–350 substituted "section 1708 of title 41" for "section 18 of the Office of Federal Procurement Policy Act (41 U.S.C. 416)".
 
 Subsec. (e). Pub. L. 111–383, §1075(f)(5)(A), made technical correction to directory language of Pub. L. 110–181, §843(a)(2)(C). See 2008 Amendment note below.
 
-Subsec. (e)(3). Pub. L. 111–383, §825, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “This subsection shall be in effect for three years, beginning on the date that is 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008.”
+Subsec. (e)(3). Pub. L. 111–383, §825, amended par. (3) generally. Prior to amendment, par. (3) read as follows: "This subsection shall be in effect for three years, beginning on the date that is 120 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 2008."
 
 <b>2008</b>—Subsec. (d). Pub. L. 110–181, §843(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 110–181, §843(a)(2)(C), as amended by Pub. L. 111–383, §1075(f)(5)(A), added subsec. (e) and struck out former subsec. (e). Former text read as follows: “A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued.”
+Subsec. (e). Pub. L. 110–181, §843(a)(2)(C), as amended by Pub. L. 111–383, §1075(f)(5)(A), added subsec. (e) and struck out former subsec. (e). Former text read as follows: "A protest is not authorized in connection with the issuance or proposed issuance of a task or delivery order except for a protest on the ground that the order increases the scope, period, or maximum value of the contract under which the order is issued."
 
 Pub. L. 110–181, §843(a)(2)(A), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
@@ -78,7 +78,7 @@ Subsecs. (f), (g). Pub. L. 110–181, §843(a)(2)(A), redesignated subsecs. (e) 
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title VIII, §843(a)(3)(B), Jan. 28, 2008, 122 Stat. 238, provided that: “The amendments made by paragraph (2) \[amending this section\] shall take effect on the date that is 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], and shall apply with respect to any task or delivery order awarded on or after such date.”
+Pub. L. 110–181, div. A, title VIII, §843(a)(3)(B), Jan. 28, 2008, 122 Stat. 238, provided that: "The amendments made by paragraph (2) \[amending this section\] shall take effect on the date that is 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], and shall apply with respect to any task or delivery order awarded on or after such date."
 
 #### Effective Date
 

@@ -6,23 +6,23 @@ In this section:
 
 #### (1) Class I milk
 
-&emsp;The term “Class I milk” means milk (including milk components) classified as Class I milk under a Federal milk marketing order.
+&emsp;The term "Class I milk" means milk (including milk components) classified as Class I milk under a Federal milk marketing order.
 
 #### (2) Eligible production
 
-&emsp;The term “eligible production” means milk produced by a producer in a participating State.
+&emsp;The term "eligible production" means milk produced by a producer in a participating State.
 
 #### (3) Federal milk marketing order
 
-&emsp;The term “Federal milk marketing order” means an order issued under section 608c of this title.
+&emsp;The term "Federal milk marketing order" means an order issued under section 608c of this title.
 
 #### (4) Participating State
 
-&emsp;The term “participating State” means each State.
+&emsp;The term "participating State" means each State.
 
 #### (5) Producer
 
-&emsp;The term “producer” means an individual or entity that directly or indirectly (as determined by the Secretary)—
+&emsp;The term "producer" means an individual or entity that directly or indirectly (as determined by the Secretary)—
 
 &emsp;&emsp;(A) shares in the risk of producing milk; and
 
@@ -126,7 +126,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–240 substituted “2013” for “2012” wherever appearing.
+<b>2013</b>—Pub. L. 112–240 substituted "2013" for "2012" wherever appearing.
 
 #### Effective Date of 2013 Amendment
 

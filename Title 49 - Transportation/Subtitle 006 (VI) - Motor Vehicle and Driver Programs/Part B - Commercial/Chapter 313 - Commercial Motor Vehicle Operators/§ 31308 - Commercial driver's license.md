@@ -1,6 +1,6 @@
 ### §31308. Commercial driver's license
 
-After consultation with the States, the Secretary of Transportation shall prescribe regulations on minimum uniform standards for the issuance of commercial drivers’ licenses and learner's permits by the States and for information to be contained on each of the licenses and permits. The standards shall require at a minimum that—
+After consultation with the States, the Secretary of Transportation shall prescribe regulations on minimum uniform standards for the issuance of commercial drivers' licenses and learner's permits by the States and for information to be contained on each of the licenses and permits. The standards shall require at a minimum that—
 
 &emsp;(1) an individual issued a commercial driver's license—
 
@@ -42,23 +42,23 @@ Historical and Revision Notes
 
 Oct. 27, 1986, Pub. L. 99–570, §12006, 100 Stat. 3207–175.
 
-The words “Not later than July 15, 1988” are omitted as obsolete.
+The words "Not later than July 15, 1988" are omitted as obsolete.
 
 #### Amendments
 
-<b>2012</b>—Par. (1). Pub. L. 112–141 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “an individual issued a commercial driver's license pass written and driving tests for the operation of a commercial motor vehicle that comply with the minimum standards prescribed by the Secretary under section 31305(a) of this title;”.
+<b>2012</b>—Par. (1). Pub. L. 112–141 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "an individual issued a commercial driver's license passwritten and driving tests for the operation of a commercial motor vehicle that comply with the minimum standards prescribed by the Secretary under section 31305(a) of this title;".
 
 <b>2008</b>—Pub. L. 110–244 amended Pub. L. 109–59, §4122(2)(A). See 2005 Amendment note below.
 
-<b>2005</b>—Pub. L. 109–59, §4122(2)(B), substituted “the licenses and permits” for “the licenses” in introductory provisions.
+<b>2005</b>—Pub. L. 109–59, §4122(2)(B), substituted "the licenses and permits" for "the licenses" in introductory provisions.
 
-Pub. L. 109–59, §4122(2)(A), as amended by Pub. L. 110–244, inserted “and learner's permits” after “licenses” in introductory provisions.
+Pub. L. 109–59, §4122(2)(A), as amended by Pub. L. 110–244, inserted "and learner's permits" after "licenses" in introductory provisions.
 
 Par. (2). Pub. L. 109–59, §4122(2)(D), added par. (2). Former par. (2) redesignated (3).
 
-Pars. (3), (4). Pub. L. 109–59, §4122(2)(C), (E), redesignated pars. (2) and (3) as (3) and (4), respectively, and inserted “or learner's permit” after “license” wherever appearing.
+Pars. (3), (4). Pub. L. 109–59, §4122(2)(C), (E), redesignated pars. (2) and (3) as (3) and (4), respectively, and inserted "or learner's permit" after "license" wherever appearing.
 
-<b>1998</b>—Par. (2). Pub. L. 105–178 inserted before semicolon “and each license issued after January 1, 2001, include unique identifiers (which may include biometric identifiers) to minimize fraud and duplication”.
+<b>1998</b>—Par. (2). Pub. L. 105–178 inserted before semicolon "and each license issued after January 1, 2001, include unique identifiers (which may include biometric identifiers) to minimize fraud and duplication".
 
 #### Effective Date of 2012 Amendment
 
@@ -70,5 +70,5 @@ Amendment by Pub. L. 110–244 effective as of the date of enactment of Pub. L. 
 
 #### Deadline for Issuance of Regulations
 
-Pub. L. 105–178, title IV, §4011(c)(2), June 9, 1998, 112 Stat. 407, provided that: “Not later than 180 days after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall issue regulations to carry out the amendment made by paragraph (1) \[amending this section\].”
+Pub. L. 105–178, title IV, §4011(c)(2), June 9, 1998, 112 Stat. 407, provided that: "Not later than 180 days after the date of enactment of this Act \[June 9, 1998\], the Secretary \[of Transportation\] shall issue regulations to carry out the amendment made by paragraph (1) \[amending this section\]."
 

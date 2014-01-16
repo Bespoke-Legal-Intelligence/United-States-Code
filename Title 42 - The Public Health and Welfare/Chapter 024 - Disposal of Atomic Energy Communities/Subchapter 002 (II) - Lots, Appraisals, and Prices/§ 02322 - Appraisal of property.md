@@ -10,9 +10,9 @@ The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48
 
 #### Amendments
 
-<b>1967</b>—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” for “Federal Housing Commissioner” wherever appearing.
+<b>1967</b>—Pub. L. 90–19 substituted "Secretary of Housing and Urban Development" for "Federal Housing Commissioner" wherever appearing.
 
-<b>1962</b>—Pub. L. 87–719 substituted “The Federal Housing Commissioner shall be reimbursed from the Community Disposal Operations Fund for the cost of such appraisals” for “The Commission shall reimburse the Federal Housing Commissioner for the cost of such appraisals”.
+<b>1962</b>—Pub. L. 87–719 substituted "The Federal Housing Commissioner shall be reimbursed from the Community Disposal Operations Fund for the cost of such appraisals" for "The Commission shall reimburse the Federal Housing Commissioner for the cost of such appraisals".
 
 #### Transfer of Functions
 

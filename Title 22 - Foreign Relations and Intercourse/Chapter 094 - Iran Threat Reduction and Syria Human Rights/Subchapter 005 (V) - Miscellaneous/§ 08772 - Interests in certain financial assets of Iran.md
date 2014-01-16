@@ -42,7 +42,7 @@ In this section:
 
 #### (1) Blocked asset
 
-&emsp;The term “blocked asset”—
+&emsp;The term "blocked asset"—
 
 &emsp;&emsp;(A) means any asset seized or frozen by the United States under section 5(b) of the Appendix to title 50 or under section 202 or 203 of the International Emergency Economic Powers Act (50 U.S.C. 1701 and 1702); and
 
@@ -54,29 +54,29 @@ In this section:
 
 #### (2) Financial asset; securities intermediary
 
-&emsp;The terms “financial asset” and “securities intermediary” have the meanings given thoseterms in the Uniform Commercial Code, but the former includes cash.
+&emsp;The terms "financial asset" and "securities intermediary" have the meanings given those terms in the Uniform Commercial Code, but the former includes cash.
 
 #### (3) Iran
 
-&emsp;The term “Iran” means the Government of Iran, including the central bank or monetary authority of that Government and any agency or instrumentality of that Government.
+&emsp;The term "Iran" means the Government of Iran, including the central bank or monetary authority of that Government and any agency or instrumentality of that Government.
 
 #### (4) Person
 
 #### (A) In general
 
-&emsp;&emsp;The term “person” means an individual or entity.
+&emsp;&emsp;The term "person" means an individual or entity.
 
 #### (B) Entity
 
-&emsp;&emsp;The term “entity” means a partnership, association, trust, joint venture, corporation, group, subgroup, or other organization.
+&emsp;&emsp;The term "entity" means a partnership, association, trust, joint venture, corporation, group, subgroup, or other organization.
 
 #### (5) Terrorist party
 
-&emsp;The term “terrorist party” has the meaning given that term in section 201(d) of the Terrorism Risk Insurance Act of 2002 (28 U.S.C. 1610 note).
+&emsp;The term "terrorist party" has the meaning given that term in section 201(d) of the Terrorism Risk Insurance Act of 2002 (28 U.S.C. 1610 note).
 
 #### (6) United States
 
-&emsp;The term “United States” includes all territory and waters, continental, or insular, subject to the jurisdiction of the United States.
+&emsp;The term "United States" includes all territory and waters, continental, or insular, subject to the jurisdiction of the United States.
 
 (Pub. L. 112–158, title V, §502, Aug. 10, 2012, 126 Stat. 1258.)
 

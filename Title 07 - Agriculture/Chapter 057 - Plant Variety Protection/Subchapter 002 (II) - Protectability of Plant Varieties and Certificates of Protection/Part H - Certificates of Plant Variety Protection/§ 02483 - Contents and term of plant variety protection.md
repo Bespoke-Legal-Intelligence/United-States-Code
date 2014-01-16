@@ -12,7 +12,7 @@
 
 (3) An owner may waive a right provided under this subsection, other than a right that is elected by the owner under paragraph (2)(A).
 
-(4) The Secretary may at the discretion of the Secretary permit such election or waiver to be made after certificating and amend the certificate accordingly, without retroactive effect.
+(4) The Secretary may at the discretion of the Secretary permit such election or waiver to bemade after certificating and amend the certificate accordingly, without retroactive effect.
 
 #### (b) Term
 
@@ -36,27 +36,27 @@ The term of plant variety protection shall also expire if the owner fails to com
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–127, §913(b)(1), (2), inserted heading, designated first sentence as par. (1), inserted par. heading, substituted “Except as provided in paragraph (2), the term” for “The term”, designated second sentence as par. (2), and inserted par. heading.
+<b>1996</b>—Subsec. (b). Pub. L. 104–127, §913(b)(1), (2), inserted heading, designated first sentence as par. (1), inserted par. heading, substituted "Except as provided in paragraph (2), the term" for "The term", designated second sentence as par. (2), and inserted par. heading.
 
-Subsec. (b)(1). Pub. L. 104–127, §913(b)(3), which directed the amendment of par. (2) by striking out “except that, in the case” and inserting “except that—”, subpar. (A), and “(B) in the case”, was executed to par. (1) to reflect the probable intent of Congress.
+Subsec. (b)(1). Pub. L. 104–127, §913(b)(3), which directed the amendment of par. (2) by striking out "except that, in the case" and inserting "except that—", subpar. (A), and "(B) in the case", was executed to par. (1) to reflect the probable intent of Congress.
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–349, §7(1)(A), designated first through fourth sentences as pars. (1) to (4), respectively.
 
-Subsec. (a)(1). Pub. L. 103–349, §13(m)(1)(A), which directed the substitution of “(or the successor in interest of the breeder)” for “(or his successor in interest) his heirs and assignees”, was executed by making the substitution for “(or his successor in interest) his heirs or assignees”, to reflect the probable intent of Congress.
+Subsec. (a)(1). Pub. L. 103–349, §13(m)(1)(A), which directed the substitution of "(or the successor in interest of the breeder)" for "(or his successor in interest) his heirs and assignees", was executed by making the substitution for "(or his successor in interest) his heirs or assignees", to reflect the probable intent of Congress.
 
 Subsec. (a)(2), (3). Pub. L. 103–349, §7(1)(B), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
-“(2) If the owner so elects, the certificate shall also specify that in the United States, seed of the variety shall be sold by variety name only as a class of certified seed and, if specified, shall also conform to the number of generations designated by the owner.
+"(2) If the owner so elects, the certificate shall also specify that in the United States, seed of the variety shall be sold by variety name only as a class of certified seed and, if specified, shall also conform to the number of generations designated by the owner.
 
-“(3) Any rights, or all rights except those elected under the preceding sentence, may be waived; and the certificate shall conform to such waiver.”
+"(3) Any rights, or all rights except those elected under the preceding sentence, may be waived; and the certificate shall conform to such waiver."
 
-Subsec. (a)(4). Pub. L. 103–349, §13(m)(1)(B), substituted “the discretion of the Secretary” for “his discretion”.
+Subsec. (a)(4). Pub. L. 103–349, §13(m)(1)(B), substituted "the discretion of the Secretary" for "his discretion".
 
-Subsec. (b). Pub. L. 103–349, §7(2), in first sentence substituted “20 years” for “eighteen years” and inserted before period at end “, except that, in the case of a tree or vine, the term of the plant variety protection shall expire 25 years from the date of issue of the certificate”.
+Subsec. (b). Pub. L. 103–349, §7(2), in first sentence substituted "20 years" for "eighteen years" and inserted before period at end ", except that, in the case of a tree or vine, the term of the plant variety protection shall expire 25 years from the date of issue of the certificate".
 
-Subsec. (c). Pub. L. 103–349, §§7(3), 13(m)(2), substituted “repository, or requiring the submission of a different name for the variety, except that” for “repository: <i>Provided, however</i>, That” and “the last owner” for “he” before “fails”.
+Subsec. (c). Pub. L. 103–349, §§7(3), 13(m)(2), substituted "repository, or requiring the submission of a different name for the variety, except that" for "repository: <i>Provided, however</i>, That" and "the last owner" for "he" before "fails".
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–574 substituted “eighteen” for “seventeen”.
+<b>1980</b>—Subsec. (b). Pub. L. 96–574 substituted "eighteen" for "seventeen".
 
 #### Effective Date of 1994 Amendment
 

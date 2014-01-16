@@ -6,7 +6,7 @@ In General.—Subject to the limitation in subsection (c), a pilot may serve in 
 
 (b)
 
-Covered Operations Defined.—In this section, the term “covered operations” means operations under part 121 of title 14, Code of Federal Regulations.
+Covered Operations Defined.—In this section, the term "covered operations" means operations under part 121 of title 14, Code of Federal Regulations.
 
 (c)
 
@@ -78,5 +78,5 @@ The date of enactment of this section and such date of enactment, referred to in
 
 #### Amendments
 
-<b>2012</b>—Subsec. (h)(2), (3). Pub. L. 112–95 redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “Not later than 6 months after the date of enactment of this section, and every 6 months thereafter, an air carrier engaged in covered operations shall evaluate the performance of each pilot of the air carrier who has attained 60 years of age through a line check of such pilot. Notwithstanding the preceding sentence, an air carrier shall not be required to conduct for a 6-month period a line check under this paragraph of a pilot serving as second-in-command if the pilot has undergone a regularly scheduled simulator evaluation during that period.”
+<b>2012</b>—Subsec. (h)(2), (3). Pub. L. 112–95 redesignated par. (3) as (2) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "Not later than 6 months after the date of enactment of this section, and every 6 months thereafter, an air carrier engaged in covered operations shall evaluate the performance of each pilot of the air carrier who has attained 60 years of age through a line check of such pilot. Notwithstanding the preceding sentence, an air carrier shall not be required to conduct for a 6-month period a line check under this paragraph of a pilot serving as second-in-command if the pilot has undergone a regularly scheduled simulator evaluation during that period."
 

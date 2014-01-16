@@ -36,7 +36,7 @@ Congress finds that—
 
 <b>1996</b>—Pub. L. 104–127 amended section generally, substituting present provisions for provisions which outlined congressional findings and declaration of purpose of subchapter.
 
-<b>1981</b>—Pub. L. 97–98 substituted “schools or colleges of veterinary medicine and State agricultural experiment stations that conduct animal health and disease research” for “colleges of veterinary medicine or departments of veterinary sciences or animal pathology, and similar units conducting animal health and disease research in the State agricultural experiment stations,”.
+<b>1981</b>—Pub. L. 97–98 substituted "schools or colleges of veterinary medicine and State agricultural experiment stations that conduct animal health and disease research" for "colleges of veterinary medicine or departments of veterinary sciences or animal pathology, and similar units conducting animal health and disease research in the State agricultural experiment stations,".
 
 #### Effective Date of 1981 Amendment
 
@@ -50,35 +50,35 @@ Subchapter effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out
 
 Pub. L. 107–171, title X, §10907, May 13, 2002, 116 Stat. 538, provided that:
 
-“(a)
+"(a)
 
 Scientific Studies.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary of Agriculture may conduct scientific studies on—
 
-&emsp;&emsp;“(A) the transmission of spongiform encephalopathy in deer, elk, and moose; and
+&emsp;&emsp;"(A) the transmission of spongiform encephalopathy in deer, elk, and moose; and
 
-&emsp;&emsp;“(B) chronic wasting disease (including the risks that chronic wasting disease poses to livestock).
+&emsp;&emsp;"(B) chronic wasting disease (including the risks that chronic wasting disease poses to livestock).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Report.—The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the results of any scientific studies conducted under paragraph (1).
 
-“(b)
+"(b)
 
 Vaccines.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Vaccine storage study.—The Secretary may—
 
-&emsp;&emsp;“(A) conduct a study to determine the number of doses of livestock disease vaccines that should be available to protect against livestock diseases that could be introduced into the United States; and
+&emsp;&emsp;"(A) conduct a study to determine the number of doses of livestock disease vaccines that should be available to protect against livestock diseases that could be introduced into the United States; and
 
-&emsp;&emsp;“(B) compare that number with the number of doses of the livestock disease vaccines that are available as of that date.
+&emsp;&emsp;"(B) compare that number with the number of doses of the livestock disease vaccines that are available as of that date.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Stockpiling of vaccines.—If, after conducting the study and comparison described in paragraph (1), the Secretary determines that there is an insufficient number of doses of a particular vaccine referred to in that paragraph, the Secretary may take such actions as are necessary to obtain the required additional doses of the vaccine.”
+Stockpiling of vaccines.—If, after conducting the study and comparison described in paragraph (1), the Secretary determines that there is an insufficient number of doses of a particular vaccine referred to in that paragraph, the Secretary may take such actions as are necessary to obtain the required additional doses of the vaccine."
 

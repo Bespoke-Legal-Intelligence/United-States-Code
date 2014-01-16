@@ -12,11 +12,11 @@ For purposes of expediting an investigation concerning provisional relief under 
 
 #### References in Text
 
-This part, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§301–318) of title III of Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2100, which enacted this part, amended section 2252 of this title, enacted provisions set out as notes under sections 2112 and 3351 of this title, and amended provisions set out as a note under section 2112 of this title.
+This part, referred to in text, was in the original "this subtitle", meaning subtitle A (§§301–318) of title III of Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2100, which enacted this part, amended section 2252 of this title, enacted provisions set out as notes under sections 2112 and 3351 of this title, and amended provisions set out as a note under section 2112 of this title.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–295 substituted “subsection (d)(1)(C)(i) of section 2252” for “section 2252(d)(1)(C)(i) of section 2252”.
+<b>1996</b>—Pub. L. 104–295 substituted "subsection (d)(1)(C)(i) of section 2252" for "section 2252(d)(1)(C)(i) of section 2252".
 
 #### Transfer of Functions
 

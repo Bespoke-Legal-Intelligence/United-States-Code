@@ -36,5 +36,5 @@ Section 31302(3) requires the Secretary, on request, to issue a certificate cont
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–281 struck out “of Transportation” after “Secretary” in introductory provisions.
+<b>2010</b>—Pub. L. 111–281 struck out "of Transportation" after "Secretary" in introductory provisions.
 

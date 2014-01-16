@@ -66,7 +66,7 @@ Beginning on June 22, 2009, the Secretary shall in accordance with this section 
 
 #### (iv) Reallocations
 
-&emsp;&emsp;&emsp;In the case of a class of tobacco products that is not listed in section 387a(b) of this title or deemed by the Secretary in a regulation under section 387a(b) of this title to be subject to this subchapter, the amount of user fees that would otherwise be assessed to such class of tobacco products shall be reallocated to the classes of tobacco products that are subject to this subchapter in the same manner and based on the same relative percentages otherwise determined under clause (ii).
+&emsp;&emsp;&emsp;In the case of a class of tobacco products that is not listed in section 387a(b) of thistitle or deemed by the Secretary in a regulation under section 387a(b) of this title to be subject to this subchapter, the amount of user fees that would otherwise be assessed to such class of tobacco products shall be reallocated to the classes of tobacco products that are subject to this subchapter in the same manner and based on the same relative percentages otherwise determined under clause (ii).
 
 #### (3) Determination of user fee by company
 
@@ -114,7 +114,7 @@ Beginning on June 22, 2009, the Secretary shall in accordance with this section 
 
 #### (A) In general
 
-&emsp;&emsp;Fees appropriated under paragraph (3) are available only for the purpose of paying the costs of the activities of the Food and Drug Administration related to the regulation of tobacco products under this subchapter and the Family Smoking Prevention and Tobacco Control Act (referred to in this subsection as “tobacco regulation activities”), except that such fees may be used for the reimbursement specified in subparagraph (C).
+&emsp;&emsp;Fees appropriated under paragraph (3) are available only for the purpose of paying the costs of the activities of the Food and Drug Administration related to the regulation of tobacco products under this subchapter and the Family Smoking Prevention and Tobacco Control Act (referred to in this subsection as "tobacco regulation activities"), except that such fees may be used for the reimbursement specified in subparagraph (C).
 
 #### (B) Prohibition against use of other funds
 
@@ -156,7 +156,7 @@ In any case where the Secretary does not receive payment of a fee assessed under
 
 If the date of enactment of the Family Smoking Prevention and Tobacco Control Act occurs during fiscal year 2009, the following applies, subject to subsection (c):
 
-&emsp;(1) The Secretary shall determine the fees that would apply for a single quarter of such fiscal year according to the application of subsection (b) to the amount specified in paragraph (1)(A) of such subsection (referred to in this subsection as the “quarterly fee amounts”).
+&emsp;(1) The Secretary shall determine the fees that would apply for a single quarter of such fiscal year according to the application of subsection (b) to the amount specified in paragraph (1)(A) of such subsection (referred to in this subsection as the "quarterly fee amounts").
 
 &emsp;(2) For the quarter in which such date of enactment occurs, the amount of fees assessed shall be a pro rata amount, determined according to the number of days remaining in the quarter (including such date of enactment) and according to the daily equivalent of the quarterly fee amounts. Fees assessed under the preceding sentence shall not be collected until the next quarter.
 

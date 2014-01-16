@@ -54,5 +54,5 @@ A prior section 49105 was renumbered section 50105 of this title.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(1), (2). Pub. L. 105–154 substituted “Ronald Reagan Washington National Airport” for “Washington National Airport”.
+<b>1998</b>—Subsec. (a)(1), (2). Pub. L. 105–154 substituted "Ronald Reagan Washington National Airport" for "Washington National Airport".
 

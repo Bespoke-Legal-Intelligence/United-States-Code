@@ -2,9 +2,9 @@
 
 In this part—
 
-&emsp;“child” means a person who is less than 7 years of age.
+&emsp;"child" means a person who is less than 7 years of age.
 
-&emsp;“community correctional facility” means a residential facility that—
+&emsp;"community correctional facility" means a residential facility that—
 
 &emsp;&emsp;(A) is used only for eligible offenders and their children under 7 years of age;
 
@@ -36,7 +36,7 @@ In this part—
 
 &emsp;&emsp;&emsp;&emsp;(IV) to obtain suitable child care.
 
-&emsp;“eligible offender” means a primary caretaker parent who—
+&emsp;"eligible offender" means a primary caretaker parent who—
 
 &emsp;&emsp;(A) has been sentenced to a term of imprisonment of not more than 7 years or is awaiting sentencing for a conviction punishable by such a term of imprisonment; and
 
@@ -48,15 +48,15 @@ In this part—
 
 &emsp;&emsp;&emsp;(iii) constitutes child neglect or mental, physical, or sexual abuse of a child.
 
-&emsp;“primary caretaker parent” means—
+&emsp;"primary caretaker parent" means—
 
 &emsp;&emsp;(A) a parent who has consistently assumed responsibility for the housing, health, and safety of a child prior to incarceration; or
 
 &emsp;&emsp;(B) a woman who has given birth to a child after or while awaiting her sentencing hearing and who expresses a willingness to assume responsibility for the housing, health, and safety of that child,
 
-> &emsp;a parent who, in the best interest of a child, has arranged for the temporary care of the child in the home of a relative or other responsible adult shall not for that reason be excluded from the category “primary caretaker”.
+> &emsp;a parent who, in the best interest of a child, has arranged for the temporary care of the child in the home of a relative or other responsible adult shall not for that reason be excluded from the category "primary caretaker".
 
-&emsp;“State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
+&emsp;"State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands.
 
 (Pub. L. 103–322, title III, §31903, Sept. 13, 1994, 108 Stat. 1893.)
 

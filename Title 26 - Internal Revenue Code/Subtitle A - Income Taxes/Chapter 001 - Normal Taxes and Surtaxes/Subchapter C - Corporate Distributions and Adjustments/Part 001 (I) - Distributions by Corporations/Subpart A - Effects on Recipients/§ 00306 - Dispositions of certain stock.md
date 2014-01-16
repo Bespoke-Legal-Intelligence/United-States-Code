@@ -74,7 +74,7 @@ Subsection (a) shall not apply—
 
 #### (1) In general
 
-&emsp;For purposes of this subchapter, the term “section 306 stock” means stock which meets the requirements of subparagraph (A), (B), or (C) of this paragraph.
+&emsp;For purposes of this subchapter, the term "section 306 stock" means stock which meets the requirements of subparagraph (A), (B), or (C) of this paragraph.
 
 #### (A) Distributed to seller
 
@@ -96,11 +96,11 @@ Subsection (a) shall not apply—
 
 #### (2) Exception where no earnings and profits
 
-&emsp;For purposes of this section, the term “section 306 stock” does not include any stock no part of the distribution of which would have been a dividend at the time of the distribution if money had been distributed in lieu of the stock.
+&emsp;For purposes of this section, the term "section 306 stock" does not include any stock no part of the distribution of which would have been a dividend at the time of the distribution if money had been distributed in lieu of the stock.
 
 #### (3) Certain stock acquired in section 351 exchange
 
-&emsp;The term “section 306 stock” also includes any stock which is not common stock acquired in an exchange to which section 351 applied if receipt of money (in lieu of the stock) would have been treated as a dividend to any extent. Rules similar to the rules of section 304(b)(2) shall apply—
+&emsp;The term "section 306 stock" also includes any stock which is not common stock acquired in an exchange to which section 351 applied if receipt of money (in lieu of the stock) would have been treated as a dividend to any extent. Rules similar to the rules of section 304(b)(2) shall apply—
 
 &emsp;&emsp;(A) for purposes of the preceding sentence, and
 
@@ -148,15 +148,15 @@ If a substantial change is made in the terms and conditions of any stock, then, 
 
 <b>1990</b>—Subsec. (h). Pub. L. 101–508 struck out subsec. (h) which related to stock received in distributions and reorganizations to which 1939 Code applied.
 
-<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §712(i)(2), substituted “interest, etc.” for “interest” in heading.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §712(i)(2), substituted "interest, etc." for "interest" in heading.
 
 Subsec. (c)(3). Pub. L. 98–369, §712(l)(6), incorporated existing second sentence in provision designated subpar. (A) and added subpar. (B).
 
-Subsec. (c)(4). Pub. L. 98–369, §712(l)(5)(B), substituted “the rules of section 304(c)(3)(B) shall apply” for “sections 318(a)(2)(C) and 318(a)(3)(C) shall be applied without regard to the 50 percent limitation contained therein”.
+Subsec. (c)(4). Pub. L. 98–369, §712(l)(5)(B), substituted "the rules of section 304(c)(3)(B) shall apply" for "sections 318(a)(2)(C) and 318(a)(3)(C) shall be applied without regard to the 50 percent limitation contained therein".
 
-<b>1982</b>—Subsec. (b)(1)(B). Pub. L. 97–248, §222(e)(2), substituted “paragraph (3) or (4) of section 302(b)” for “section 302(b)(3)”.
+<b>1982</b>—Subsec. (b)(1)(B). Pub. L. 97–248, §222(e)(2), substituted "paragraph (3) or (4) of section 302(b)" for "section 302(b)(3)".
 
-Subsec. (b)(2). Pub. L. 97–248, §222(e)(1)(A), struck out “partial or” before “complete liquidation”.
+Subsec. (b)(2). Pub. L. 97–248, §222(e)(1)(A), struck out "partial or" before "complete liquidation".
 
 Subsec. (c)(3). Pub. L. 97–248, §226(b), added par. (3).
 
@@ -168,11 +168,11 @@ Subsec. (c)(4). Pub. L. 97–248, §227(a), added par. (4).
 
 Subsec. (b)(5). Pub. L. 95–600, §702(a)(2), added par. (5) which provided that subsec. (a) of this section shall not apply to the extent that section 303 applies to a distribution in redemption of section 306 stock. See Repeals note below.
 
-<b>1976</b>—Subsec. (a)(1)(A), (B)(i). Pub. L. 94–455, §1901(b)(3)(J), substituted “ordinary income” for “gain from the sale of property which is not a capital asset”.
+<b>1976</b>—Subsec. (a)(1)(A), (B)(i). Pub. L. 94–455, §1901(b)(3)(J), substituted "ordinary income" for "gain from the sale of property which is not a capital asset".
 
-Subsec. (b)(4). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (b)(4). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Subsec. (f). Pub. L. 94–455, §1901(b)(3)(J), substituted “ordinary income” for “gain from the sale of property which is not a capital asset”.
+Subsec. (f). Pub. L. 94–455, §1901(b)(3)(J), substituted "ordinary income" for "gain from the sale of property which is not a capital asset".
 
 #### Effective Date of 2003 Amendment
 
@@ -188,7 +188,7 @@ Amendment by section 222(e)(1)(A), (2) of Pub. L. 97–248 applicable to distrib
 
 Amendment by section 226(b) of Pub. L. 97–248 applicable to transfers occurring after Aug. 31, 1982, except for certain transfers pursuant to an application to form a BHC filed with the Federal Reserve Board before Aug. 16, 1982, see section 226(c) of Pub. L. 97–248, set out as a note under section 304 of this title.
 
-Pub. L. 97–248, title II, §227(c)(1), Sept. 3, 1982, 96 Stat. 492, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to stock received after August 31, 1982, in taxable years ending after such date.”
+Pub. L. 97–248, title II, §227(c)(1), Sept. 3, 1982, 96 Stat. 492, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to stock received after August 31, 1982, in taxable years ending after such date."
 
 #### Effective Date of 1980 Amendment and Revival of Prior Law
 

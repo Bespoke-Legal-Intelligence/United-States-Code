@@ -4,7 +4,7 @@
 
 If the Administrator finds that—
 
-&emsp;(1)(A)(i) the manufacture, distribution in commerce, processing, use, or disposal of a chemical substance or mixture, or that anycombination of such activities, may present an unreasonable risk of injury to health or the environment,
+&emsp;(1)(A)(i) the manufacture, distribution in commerce, processing, use, or disposal of a chemical substance or mixture, or that any combination of such activities, may present an unreasonable risk of injury to health or the environment,
 
 &emsp;(ii) there are insufficient data and experience upon which the effects of such manufacture, distribution in commerce, processing, use, or disposal of such substance or mixture or of any combination of such activities on health or the environment can reasonably be determined or predicted, and
 
@@ -34,7 +34,7 @@ If the Administrator finds that—
 
 (2)(A) The health and environmental effects for which standards for the development of test data may be prescribed include carcinogenesis, mutagenesis, teratogenesis, behavioral disorders, cumulative or synergistic effects, and any other effect which may present an unreasonable risk of injury to health or the environment. The characteristics of chemical substances and mixtures for which such standards may be prescribed include persistence, acute toxicity, subacute toxicity, chronic toxicity, and any other characteristic which may present such a risk. The methodologies that may be prescribed in such standards include epidemiologic studies, serial or hierarchical tests, in vitro tests, and whole animal tests, except that before prescribing epidemiologic studies of employees, the Administrator shall consult with the Director of the National Institute for Occupational Safety and Health.
 
-(B) From time to time, but not less than once each 12 months, the Administrator shall review the adequacy of the standards for development of data prescribed in rules under subsection (a) of this section and shall, if necessary, institute proceedings to make appropriate revisions of such standards.
+(B) From time to time, but not less than once each 12 months, the Administrator shall review the adequacy of the standards for development of data prescribed in rules under subsection (a) of this section and shall, if necessary, instituteproceedings to make appropriate revisions of such standards.
 
 (3)(A) A rule under subsection (a) of this section respecting a chemical substance or mixture shall require the persons described in subparagraph (B) to conduct tests and submit data to the Administrator on such substance or mixture, except that the Administrator may permit two or more of such persons to designate one such person or a qualified third party to conduct such tests and submit such data on behalf of the persons making the designation.
 
@@ -88,7 +88,7 @@ If the Administrator finds that—
 
 &emsp;(ii) to any other person who has been required under this subparagraph to contribute with respect to the costs of complying with such rule, for a portion of the amount such person was required to contribute.
 
-> In promulgating rules for the determination of fair and equitable reimbursement to the personsdescribed in clauses (i) and (ii) for costs incurred with respect to a chemical substance or mixture, the Administrator shall, after consultation with the Attorney General and the Federal Trade Commission, consider the factors described in the second sentence of paragraph (3)(A). An order under this subparagraph shall, for purposes of judicial review, be considered final agency action.
+> In promulgating rules for the determination of fair and equitable reimbursement to the persons described in clauses (i) and (ii) for costs incurred with respect to a chemical substance or mixture, the Administrator shall, after consultation with the Attorney General and the Federal Trade Commission, consider the factors described in the second sentence of paragraph (3)(A). An order under this subparagraph shall, for purposes of judicial review, be considered final agency action.
 
 (B) If any exemption is granted under paragraph (2) on the basis of the fact that one or more persons are developing test data pursuant to a rule promulgated under subsection (a) of this section and if after such exemption is granted the Administrator determines that no such person has complied with such rule, the Administrator shall (i) after providing written notice to the person who holds such exemption and an opportunity for a hearing, by order terminate such exemption, and (ii) notify in writing such person of the requirements of the rule with respect to which such exemption was granted.
 
@@ -176,5 +176,5 @@ The Occupational Safety and Health Act of 1970, referred to in text, is Pub. L. 
 
 Section effective Jan. 1, 1977, except as provided in subsec. (f) of this section, see section 31 of Pub. L. 94–469, set out as a note under section 2601 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “preceding”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "preceding".</i>
 

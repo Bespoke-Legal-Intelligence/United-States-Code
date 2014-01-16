@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Western Area Power Administration.
+&emsp;The term "Administrator" means the Administrator of the Western Area Power Administration.
 
 #### (2) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Treasury.
+&emsp;The term "Secretary" means the Secretary of the Treasury.
 
 #### (b) Authority
 

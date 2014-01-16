@@ -6,9 +6,9 @@ In order to carry out the purpose of this chapter, the Secretary is authorized t
 
 #### Amendments
 
-<b>1969</b>—Pub. L. 91–152 substituted provisions authorizing the Secretary to provide technical assistance, etc., to State and local bodies to carry out the purposes of this chapter for provisions defining “State” and “Secretary” and authorizing to be appropriated such sums as may be necessary for administrative and other expenses. The former provisions of this section are now set forth in section 807 of this title with minor amendments.
+<b>1969</b>—Pub. L. 91–152 substituted provisions authorizing the Secretary to provide technical assistance, etc., to State and local bodies to carry out the purposes of this chapter for provisions defining "State" and "Secretary" and authorizing to be appropriated such sums as may be necessary for administrative and other expenses. The former provisions of this section are now set forth in section 807 of this title with minor amendments.
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–448 inserted “Guam, American Samoa, the Trust Territory of the Pacific Islands,”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–448 inserted "Guam, American Samoa, the Trust Territory of the Pacific Islands,".
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–19 substituted definition of “Secretary” meaning the Secretary of Housing and Urban Development for “Administrator” meaning the Housing and Home Finance Administrator.
+<b>1967</b>—Subsec. (a). Pub. L. 90–19 substituted definition of "Secretary" meaning the Secretary of Housing and Urban Development for "Administrator" meaning the Housing and Home Finance Administrator.
 

@@ -8,7 +8,7 @@ Authorization.—The Secretary concerned may authorize a member of the armed for
 
 Designated Entities.—(1) The Secretary of Defense, and the Secretary of Homeland Security in the case of the Coast Guard when it is not operating as a service in the Navy, shall designate those entities for which authorization under subsection (a) may be provided. The list of entities so designated may not be revised more frequently than semiannually. In making such designations, the Secretary shall designate each military welfare society and may designate any other entity described in paragraph (3). No other entities may be designated.
 
-(2) In this section, the term “military welfare society” means the following:
+(2) In this section, the term "military welfare society" means the following:
 
 &emsp;(A) Army Emergency Relief.
 
@@ -46,7 +46,7 @@ A prior section 1033, act Aug. 10, 1956, ch. 1041, 70A Stat. 80, related to Rese
 
 #### Amendments
 
-<b>2002</b>—Subsecs. (b)(1), (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (b)(1), (d). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 <b>1999</b>—Subsec. (b)(3)(E). Pub. L. 106–65 added subpar. (E).
 

@@ -2,9 +2,9 @@
 
 (a) For purposes of this subchapter, the term—
 
-&emsp;(1) “administrator” means the person or persons described in paragraph (16) of section 1002 of this title;
+&emsp;(1) "administrator" means the person or persons described in paragraph (16) of section 1002 of this title;
 
-&emsp;(2) “substantial employer”, for any plan year of a single-employer plan, means one or more persons—
+&emsp;(2) "substantial employer", for any plan year of a single-employer plan, means one or more persons—
 
 &emsp;&emsp;(A) who are contributing sponsors of the plan in such plan year,
 
@@ -18,7 +18,7 @@
 
 > &emsp;&emsp;total an amount greater than or equal to 10 percent of all contributions required to be paid to or under the plan for such plan year;
 
-&emsp;(3) “multiemployer plan” means a plan—
+&emsp;(3) "multiemployer plan" means a plan—
 
 &emsp;&emsp;(A) to which more than one employer is required to contribute,
 
@@ -30,77 +30,77 @@
 
 &emsp;&emsp;(i) a plan shall be considered a multiemployer plan on and after its termination date if the plan was a multiemployer plan under this paragraph for the plan year preceding such termination, and
 
-&emsp;&emsp;(ii) for any plan year which began before September 26, 1980, the term “multiemployer plan” means a plan described in section 414(f) of title 26 as in effect immediately before such date;
+&emsp;&emsp;(ii) for any plan year which began before September 26, 1980, the term "multiemployer plan" means a plan described in section 414(f) of title 26 as in effect immediately before such date;
 
-&emsp;(4) “corporation”, except where the context clearly requires otherwise, means the Pension Benefit Guaranty Corporation established under section 1302 of this title;
+&emsp;(4) "corporation", except where the context clearly requires otherwise, means the Pension Benefit Guaranty Corporation established under section 1302 of this title;
 
-&emsp;(5) “fund” means the appropriate fund established under section 1305 of this title;
+&emsp;(5) "fund" means the appropriate fund established under section 1305 of this title;
 
-&emsp;(6) “basic benefits” means benefits guaranteed under section 1322 of this title (other than under section 1322(c) <sup>1</sup> of this title), or under section 1322a of this title (other than under section 1322a(g) of this title);
+&emsp;(6) "basic benefits" means benefits guaranteed under section 1322 of this title (other than under section 1322(c) <sup>1</sup> of this title), or under section 1322a of this title (other than under section 1322a(g) of this title);
 
-&emsp;(7) “non-basic benefits” means benefits guaranteed under section 1322(c) <sup>1</sup> of this title or 1322a(g) of this title;
+&emsp;(7) "non-basic benefits" means benefits guaranteed under section 1322(c) <sup>1</sup> of this title or 1322a(g) of this title;
 
-&emsp;(8) “nonforfeitable benefit” means, with respect to a plan, a benefit for which a participant has satisfied the conditions for entitlement under the plan or the requirements of this chapter (other than submission of a formal application, retirement, completion of a required waiting period, or death in the case of a benefit which returns all or a portion of a participant's accumulated mandatory employee contributions upon the participant's death), whether or not the benefit may subsequently be reduced or suspended by a plan amendment, an occurrence of any condition, or operation of this chapter or title 26;
+&emsp;(8) "nonforfeitable benefit" means, with respect to a plan, a benefit for which a participant has satisfied the conditions for entitlement under the plan or the requirements of this chapter (other than submission of a formal application, retirement, completion of a required waiting period, or death in the case of a benefit which returns all or a portion of a participant's accumulated mandatory employee contributions upon the participant's death), whether or not the benefit may subsequently be reduced or suspended by a plan amendment, an occurrence of any condition, or operation of this chapter or title 26;
 
-&emsp;(9) “reorganization index” means the amount determined under section 1421(b) of this title;
+&emsp;(9) "reorganization index" means the amount determined under section 1421(b) of this title;
 
-&emsp;(10) “plan sponsor” means, with respect to a multiemployer plan—
+&emsp;(10) "plan sponsor" means, with respect to a multiemployer plan—
 
 &emsp;&emsp;(A) the plan's joint board of trustees, or
 
 &emsp;&emsp;(B) if the plan has no joint board of trustees, the plan administrator;
 
-&emsp;(11) “contribution base unit” means a unit with respect to which an employer has an obligation to contribute under a multiemployer plan, as defined in regulations prescribed by the Secretary of the Treasury;
+&emsp;(11) "contribution base unit" means a unit with respect to which an employer has an obligation to contribute under a multiemployer plan, as defined in regulations prescribed by the Secretary of the Treasury;
 
-&emsp;(12) “outstanding claim for withdrawal liability” means a plan's claim for the unpaid balance of the liability determined under part 1 of subtitle E of this subchapter for which demand has been made, valued in accordance with regulations prescribed by the corporation;
+&emsp;(12) "outstanding claim for withdrawal liability" means a plan's claim for the unpaid balance of the liability determined under part 1 of subtitle E of this subchapter for which demand has been made, valued in accordance with regulations prescribed by the corporation;
 
-&emsp;(13) “contributing sponsor”, of a single-employer plan, means a person described in section 1082(b)(1) of this title (without regard to section 1082(b)(2) of this title) or section 412(b)(1) of title 26 (without regard to section 412(b)(2) of such title).<sup>2</sup>
+&emsp;(13) "contributing sponsor", of a single-employer plan, means a person described in section 1082(b)(1) of this title (without regard to section 1082(b)(2) of this title) or section 412(b)(1) of title 26 (without regard to section 412(b)(2) of such title).<sup>2</sup>
 
 &emsp;(14) in the case of a single-employer plan—
 
-&emsp;&emsp;(A) “controlled group” means, in connection with any person, a group consisting of such person and all other persons under common control with such person;
+&emsp;&emsp;(A) "controlled group" means, in connection with any person, a group consisting of such person and all other persons under common control with such person;
 
-&emsp;&emsp;(B) the determination of whether two or more persons are under “common control” shall be made under regulations of the corporation which are consistent and coextensive with regulations prescribed for similar purposes by the Secretary of the Treasury under subsections (b) and (c) of section 414 of title 26; and
+&emsp;&emsp;(B) the determination of whether two or more persons are under "common control" shall be made under regulations of the corporation which are consistent and coextensive with regulations prescribed for similar purposes by the Secretary of the Treasury under subsections (b) and (c) of section 414 of title 26; and
 
 &emsp;&emsp;(C)(i) notwithstanding any other provision of this subchapter, during any period in which an individual possesses, directly or indirectly, the power to direct or cause the direction of the management and policies ofan affected air carrier of which he was an accountable owner, whether through the ownership of voting securities, by contract, or otherwise, the affected air carrier shall be considered to be under common control not only with those persons described in subparagraph (B), but also with all related persons; and
 
 &emsp;&emsp;(ii) for purposes of this subparagraph, the term—
 
-&emsp;&emsp;&emsp;(I) “affected air carrier” means an air carrier, as defined in section 40102(a)(2) of title 49, that holds a certificate of public convenience and necessity under section 41102 of title 49 for route number 147, as of November 12, 1991;
+&emsp;&emsp;&emsp;(I) "affected air carrier" means an air carrier, as defined in section 40102(a)(2) of title 49, that holds a certificate of public convenience and necessity under section 41102 of title 49 for route number 147, as of November 12, 1991;
 
-&emsp;&emsp;&emsp;(II) “related person” means any person which was under common control (as determined under subparagraph (B)) with an affected air carrier on October 10, 1991, or any successor to such related person;
+&emsp;&emsp;&emsp;(II) "related person" means any person which was under common control (as determined under subparagraph (B)) with an affected air carrier on October 10, 1991, or any successor to such related person;
 
-&emsp;&emsp;&emsp;(III) “accountable owner” means any individual who on October 10, 1991, owned directly or indirectly through the application of section 318 of title 26 more than 50 percent of the total voting power of the stock of an affected air carrier;
+&emsp;&emsp;&emsp;(III) "accountable owner" means any individual who on October 10, 1991, owned directly or indirectly through the application of section 318 of title 26 more than 50 percent of the total voting power of the stock of an affected air carrier;
 
-&emsp;&emsp;&emsp;(IV) “successor” means any person that acquires, directly or indirectly through the application of section 318 of title 26, more than 50 percent of the total voting power of the stock of a related person, more than 50 percent of the total value of the securities (as defined in section 1002(20) of this title) of the related person, more than 50 percent of the total value of the assets of the related person, or any person into which such related person shall be merged or consolidated; and
+&emsp;&emsp;&emsp;(IV) "successor" means any person that acquires, directly or indirectly through the application of section 318 of title 26, more than 50 percent of the total voting power of the stock of a related person, more than 50 percent of the total value of the securities (as defined in section 1002(20) of this title) of the related person, more than 50 percent of the total value of the assets of the related person, or any person into which such related person shall be merged or consolidated; and
 
-&emsp;&emsp;&emsp;(V) “individual” means a living human being;
+&emsp;&emsp;&emsp;(V) "individual" means a living human being;
 
-&emsp;(15) “single-employer plan” means any defined benefit plan (as defined in section 1002(35) of this title) which is not a multiemployer plan;
+&emsp;(15) "single-employer plan" means any defined benefit plan (as defined in section 1002(35) of this title) which is not a multiemployer plan;
 
-&emsp;(16) “benefit liabilities” means the benefits of employees and their beneficiaries under the plan (within the meaning of section 401(a)(2) of title 26);
+&emsp;(16) "benefit liabilities" means the benefits of employees and their beneficiaries under the plan (within the meaning of section 401(a)(2) of title 26);
 
-&emsp;(17) “amount of unfunded guaranteed benefits”, of a participant or beneficiary as of any date under a single-employer plan, means an amount equal to the excess of—
+&emsp;(17) "amount of unfunded guaranteed benefits", of a participant or beneficiary as of any date under a single-employer plan, means an amount equal to the excess of—
 
 &emsp;&emsp;(A) the actuarial present value (determined as of such date on the basis of assumptions prescribed by the corporation for purposes of section 1344 of this title) of the benefits of the participant or beneficiary under the plan which are guaranteed under section 1322 of this title, over
 
 &emsp;&emsp;(B) the current value (as of such date) of the assets of the plan which are required to be allocated to those benefits under section 1344 of this title;
 
-&emsp;(18) “amount of unfunded benefit liabilities” means, as of any date, the excess (if any) of—
+&emsp;(18) "amount of unfunded benefit liabilities" means, as of any date, the excess (if any) of—
 
 &emsp;&emsp;(A) the value of the benefit liabilities under the plan (determined as of such date on the basis of assumptions prescribed by the corporation for purposes of section 1344 of this title), over
 
 &emsp;&emsp;(B) the current value (as of such date) of the assets of the plan;
 
-&emsp;(19) “outstanding amount of benefit liabilities” means, with respect to any plan, the excess (if any) of—
+&emsp;(19) "outstanding amount of benefit liabilities" means, with respect to any plan, the excess (if any) of—
 
 &emsp;&emsp;(A) the value of the benefit liabilities under the plan (determined as of the termination date on the basis of assumptions prescribed by the corporation for purposes of section 1344 of this title), over
 
 &emsp;&emsp;(B) the value of the benefit liabilities which would be so determined by only taking into account benefits which are guaranteed under section 1322 of this title or to which assets of the plan are allocated under section 1344 of this title;
 
-&emsp;(20) “person” has the meaning set forth in section 1002(9) of this title;
+&emsp;(20) "person" has the meaning set forth in section 1002(9) of this title;
 
-&emsp;(21) “affected party” means, with respect to a plan—
+&emsp;(21) "affected party" means, with respect to a plan—
 
 &emsp;&emsp;(A) each participant in the plan,
 
@@ -118,7 +118,7 @@
 
 &emsp;(A) except as otherwise provided in subtitle E of this subchapter, contributions or other payments shall be considered made under a plan for a plan year if they are made within the period prescribed under section 412(c)(10) <sup>3</sup> of title 26 (determined, in the case of a terminated plan, as if the plan had continued beyond the termination date), and
 
-&emsp;(B) the term “Secretary of the Treasury” means the Secretary of the Treasury or such Secretary's delegate.
+&emsp;(B) the term "Secretary of the Treasury" means the Secretary of the Treasury or such Secretary's delegate.
 
 (Pub. L. 93–406, title IV, §4001, Sept. 2, 1974, 88 Stat. 1003; Pub. L. 96–364, title IV, §402(a)(1), Sept. 26, 1980, 94 Stat. 1296; Pub. L. 99–272, title XI, §11004, Apr. 7, 1986, 100 Stat. 238; Pub. L. 100–203, title IX, §§9312(b)(4), (5), 9313(a)(2)(F), Dec. 22, 1987, 101 Stat. 1330–363, 1330–365; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 102–229, title II, §214, Dec. 12, 1991, 105 Stat. 1718; Pub. L. 103–465, title VII, §761(a)(11), Dec. 8, 1994, 108 Stat. 5034; Pub. L. 109–280, title I, §108(b)(1), formerly §107(b)(1), Aug. 17, 2006, 120 Stat. 819, renumbered Pub. L. 111–192, title II, §202(a), June 25, 2010, 124 Stat. 1297.)
 
@@ -126,55 +126,55 @@
 
 Section 1322(c) of this title, referred to in subsec. (a)(6), (7), was redesignated section 1322(d) of this title by Pub. L. 100–203, title IX, §9312(b)(3)(A)(i), Dec. 22, 1987, 101 Stat. 1330–362.
 
-This chapter, referred to in subsec. (a)(8), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (a)(8), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 Section 412, referred to in subsec. (b)(2)(A), was amended generally by Pub. L. 109–280, title I, §111(a), Aug. 17, 2006, 120 Stat. 820, and as so amended, no longer contains a subsec. (c)(10).
 
 #### Codification
 
-In subsec. (a)(14)(C)(ii)(I), “section 40102(a)(2) of title 49” substituted for “section 101(3) of the Federal Aviation Act of 1958” and “section 41102 of title 49” substituted for “section 401 of such Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (a)(14)(C)(ii)(I), "section 40102(a)(2) of title 49" substituted for "section 101(3) of the Federal Aviation Act of 1958" and "section 41102 of title 49" substituted for "section 401 of such Act" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(13). Pub. L. 109–280 substituted “1082(b)(1)” for “1082(c)(11)(A)”, “1082(b)(2)” for “1082(c)(11)(B)”, “412(b)(1)” for “412(c)(11)(A)”, and “412(b)(2)” for “412(c)(11)(B)”.
+<b>2006</b>—Subsec. (a)(13). Pub. L. 109–280 substituted "1082(b)(1)" for "1082(c)(11)(A)", "1082(b)(2)" for "1082(c)(11)(B)", "412(b)(1)" for "412(c)(11)(A)", and "412(b)(2)" for "412(c)(11)(B)".
 
-<b>1994</b>—Subsec. (a)(13). Pub. L. 103–465 substituted “means a person described in section 1082(c)(11)(A) of this title (without regard to section 1082(c)(11)(B) of this title) or section 412(c)(11)(A) of title 26 (without regard to section 412(c)(11)(B) of such title).” for “means a person—
+<b>1994</b>—Subsec. (a)(13). Pub. L. 103–465 substituted "means a person described in section 1082(c)(11)(A) of this title (without regard to section 1082(c)(11)(B) of this title) or section 412(c)(11)(A) of title 26 (without regard to section 412(c)(11)(B) of such title)." for "means a person—
 
-&emsp;“(A) who is responsible, in connection with such plan, for meeting the funding requirements under section 1082 of this title or section 412 of title 26, or
+&emsp;"(A) who is responsible, in connection with such plan, for meeting the funding requirements under section 1082 of this title or section 412 of title 26, or
 
-&emsp;“(B) who is a member of the controlled group of a person described in subparagraph (A), has been responsible for meeting such funding requirements, and has employed a significant number (as may be defined in regulations of the corporation) of participants under such plan while such person was so responsible;”.
+&emsp;"(B) who is a member of the controlled group of a person described in subparagraph (A), has been responsible for meeting such funding requirements, and has employed a significant number (as may be defined in regulations of the corporation) of participants under such plan while such person was so responsible;".
 
 <b>1991</b>—Subsec. (a)(14)(C). Pub. L. 102–229, which directed the amendment of section 4001(a)(14) of the Employment Retirement Income Security Act of 1974 by adding subpar. (C), was executed to section 4001(a)(14) of the Employee Retirement Income Security Act of 1974, which is classified to this section, to reflect the probable intent of Congress.
 
-<b>1989</b>—Subsecs. (a)(8), (13)(A), (14)(B), (b)(1), (2)(A). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsecs. (a)(8), (13)(A), (14)(B), (b)(1), (2)(A). Pub. L. 101–239 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-<b>1987</b>—Subsec. (a)(16). Pub. L. 100–203, §9312(b)(4), amended par. (16) generally. Prior to amendment, par. (16) read as follows: “ ‘benefit commitments’, to a participant or beneficiary as of any date under a single-employer plan, means all benefits provided by the plan with respect to the participant or beneficiary which—
+<b>1987</b>—Subsec. (a)(16). Pub. L. 100–203, §9312(b)(4), amended par. (16) generally. Prior to amendment, par. (16) read as follows: " 'benefit commitments', to a participant or beneficiary as of any date under a single-employer plan, means all benefits provided by the plan with respect to the participant or beneficiary which—
 
-&emsp;“(A) are guaranteed under section 1322 of this title,
+&emsp;"(A) are guaranteed under section 1322 of this title,
 
-&emsp;“(B) would be guaranteed under section 1322 of this title, but for the operation of subsection 1322(b) of this title, or
+&emsp;"(B) would be guaranteed under section 1322 of this title, but for the operation of subsection 1322(b) of this title, or
 
-&emsp;“(C) constitute—
+&emsp;"(C) constitute—
 
-&emsp;&emsp;“(i) early retirement supplements or subsidies, or
+&emsp;&emsp;"(i) early retirement supplements or subsidies, or
 
-&emsp;&emsp;“(ii) plant closing benefits,
+&emsp;&emsp;"(ii) plant closing benefits,
 
-> &emsp;irrespective of whether any such supplements, subsidies, or benefits are benefits guaranteed under section 1322 of this title, if the participant or beneficiary has satisfied, as of such date, all of the conditions required of him or her under the provisions of the plan to establish entitlement to the benefits, except for the submission of a formal application, retirement, completion of a required waiting period subsequent to application for benefits, or designation of a beneficiary;”.
+> &emsp;irrespective of whether any such supplements, subsidies, or benefits are benefits guaranteed under section 1322 of this title, if the participant or beneficiary has satisfied, as of such date, all of the conditions required of him or her under the provisions of the plan to establish entitlement to the benefits, except for the submission of a formal application, retirement, completion of a required waiting period subsequent to application for benefits, or designation of a beneficiary;".
 
-Subsec. (a)(18). Pub. L. 100–203, §9313(a)(2)(F), amended par. (18) generally. Prior to amendment, par. (18) read as follows: “ ‘amount of unfunded benefit commitments’, of a participant or beneficiary as of any date under a single-employer plan, means an amount equal to the excess of—
+Subsec. (a)(18). Pub. L. 100–203, §9313(a)(2)(F), amended par. (18) generally. Prior to amendment, par. (18) read as follows: " 'amount of unfunded benefit commitments', of a participant or beneficiary as of any date under a single-employer plan, means an amount equal to the excess of—
 
-&emsp;“(A) the actuarial present value (determined as of such date on the basis of assumptions prescribed by the corporation for purposes of section 1344 of this title) of the benefit commitments to the participant or beneficiary under the plan, over
+&emsp;"(A) the actuarial present value (determined as of such date on the basis of assumptions prescribed by the corporation for purposes of section 1344 of this title) of the benefit commitments to the participant or beneficiary under the plan, over
 
-&emsp;“(B) the current value (as of such date) of the assets of the plan which are required to be allocated to those benefit commitments under section 1344 of this title;”.
+&emsp;"(B) the current value (as of such date) of the assets of the plan which are required to be allocated to those benefit commitments under section 1344 of this title;".
 
-Subsec. (a)(19). Pub. L. 100–203, §9312(b)(5), amended par. (19) generally. Prior to amendment, par. (19) read as follows: “ ‘outstanding amount of benefit commitments’, of a participant or beneficiary under a terminated single-employer plan, means the excess of—
+Subsec. (a)(19). Pub. L. 100–203, §9312(b)(5), amended par. (19) generally. Prior to amendment, par. (19) read as follows: " 'outstanding amount of benefit commitments', of a participant or beneficiary under a terminated single-employer plan, means the excess of—
 
-&emsp;“(A) the actuarial present value (determined as of the termination date on the basis of assumptions prescribed by the corporation for purposes of section 1344 of this title) of the benefit commitments to such participant or beneficiary under the plan, over
+&emsp;"(A) the actuarial present value (determined as of the termination date on the basis of assumptions prescribed by the corporation for purposes of section 1344 of this title) of the benefit commitments to such participant or beneficiary under the plan, over
 
-&emsp;“(B) the actuarial present value (determined as of such date on the basis of assumptions prescribed by the corporation for purposes of section 1344 of this title) of the benefits of such participant or beneficiary which are guaranteed under section 1322 of this title or to which assets of the plan are required to be allocated under section 1344 of this title;”.
+&emsp;"(B) the actuarial present value (determined as of such date on the basis of assumptions prescribed by the corporation for purposes of section 1344 of this title) of the benefits of such participant or beneficiary which are guaranteed under section 1322 of this title or to which assets of the plan are required to be allocated under section 1344 of this title;".
 
-<b>1986</b>—Subsec. (a)(2). Pub. L. 99–272, §11004(a)(1), amended par. (2) generally, substituting provisions defining “substantial employer” for any plan year of a single-employer plan for provisions defining “substantial employer” for any plan year as an employer, treating employers who are members of the same affiliated group as one employer, who has made contributions to or under a plan under which more than one employer, other than a multi-employer plan, makes contributions for each of the two immediately preceding plan years or the second and third preceding plan years equaling or exceeding 10 percent of all employer contributions paid to or under that plan for such year.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–272, §11004(a)(1), amended par. (2) generally, substituting provisions defining "substantial employer" for any plan year of a single-employer plan for provisions defining "substantial employer" for any plan year as an employer, treating employers who are members of the same affiliated group as one employer, who has made contributions to or under a plan under which more than one employer, other than a multi-employer plan, makes contributions for each of the two immediately preceding plan years or the second and third preceding plan years equaling or exceeding 10 percent of all employer contributions paid to or under that plan for such year.
 
 Subsec. (a)(13). Pub. L. 99–272, §11004(a)(2)–(4), added par. (13).
 
@@ -186,7 +186,7 @@ Subsec. (b). Pub. L. 99–272, §11004(b), designated existing provisions as par
 
 <b>1980</b>—Subsec. (a)(2). Pub. L. 96–364, §402(a)(1)(A), inserted provision excepting multiemployer plan.
 
-Subsec. (a)(3). Pub. L. 96–364, §402(a)(1)(B), substantially revised definition of term “multiemployer plan” by, among other changes, adding subpars. (A) to (C) and cl. (i), and restating existing provisions as cl. (ii) with respect to plan years beginning before Sept. 26, 1980.
+Subsec. (a)(3). Pub. L. 96–364, §402(a)(1)(B), substantially revised definition of term "multiemployer plan" by, among other changes, adding subpars. (A) to (C) and cl. (i), and restating existing provisions as cl. (ii) with respect to plan years beginning before Sept. 26, 1980.
 
 Subsec. (a)(6). Pub. L. 96–364, §402(a)(1)(C), inserted references to section 1322a of this title.
 
@@ -210,13 +210,13 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IX, §9312(d)(1), Dec. 22, 1987, 101 Stat. 1330–364, as amended by Pub. L. 101–239, title VII, §7881(f)(9), Dec. 19, 1989, 103 Stat. 2440, provided that: “The amendments made by this section \[amending this section and sections 1305, 1322, 1341, 1342, 1349, 1362, 1364, and 1368 of this title and repealing section 1349 of this title\] shall apply with respect to—
+Pub. L. 100–203, title IX, §9312(d)(1), Dec. 22, 1987, 101 Stat. 1330–364, as amended by Pub. L. 101–239, title VII, §7881(f)(9), Dec. 19, 1989, 103 Stat. 2440, provided that: "The amendments made by this section \[amending this section and sections 1305, 1322, 1341, 1342, 1349, 1362, 1364, and 1368 of this title and repealing section 1349 of this title\] shall apply with respect to—
 
-&emsp;“(A) plan terminations under section 4041 of ERISA \[29 U.S.C. 1341\] with respect to which notices of intent to terminate are provided under section 4041(a)(2) of ERISA after December 17, 1987, and
+&emsp;"(A) plan terminations under section 4041 of ERISA \[29 U.S.C. 1341\] with respect to which notices of intent to terminate are provided under section 4041(a)(2) of ERISA after December 17, 1987, and
 
-&emsp;“(B) plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 4042 of ERISA \[29 U.S.C. 1342\] after December 17, 1987.”
+&emsp;"(B) plan terminations with respect to which proceedings are instituted by the Pension Benefit Guaranty Corporation under section 4042 of ERISA \[29 U.S.C. 1342\] after December 17, 1987."
 
-Pub. L. 100–203, title IX, §9313(c), Dec. 22, 1987, 101 Stat. 1330–366, provided that: “The amendments made by this section \[amending this section and sections 1341 and 1367 of this title\] shall apply with respect to plan terminations under section 4041 of ERISA \[29 U.S.C. 1341\] with respect to which notices of intent to terminate are provided under section 4041(a)(2) of ERISA after December 17, 1987.”
+Pub. L. 100–203, title IX, §9313(c), Dec. 22, 1987, 101 Stat. 1330–366, provided that: "The amendments made by this section \[amending this section and sections 1341 and 1367 of this title\] shall apply with respect to plan terminations under section 4041 of ERISA \[29 U.S.C. 1341\] with respect to which notices of intent to terminate are provided under section 4041(a)(2) of ERISA after December 17, 1987."
 
 #### Effective Date of 1986 Amendment
 

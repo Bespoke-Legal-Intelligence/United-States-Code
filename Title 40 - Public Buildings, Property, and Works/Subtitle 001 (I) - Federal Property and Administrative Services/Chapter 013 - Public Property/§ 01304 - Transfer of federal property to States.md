@@ -34,7 +34,7 @@ Widening of Public Roads.—
 
 &emsp;(1)
 
-Definition.—In this subsection, the term “executive agency” means an executive department or independent establishment in the executive branch of the Government, including any wholly owned Government corporation.
+Definition.—In this subsection, the term "executive agency" means an executive department or independent establishment in the executive branch of the Government, including any wholly owned Government corporation.
 
 &emsp;(2)
 
@@ -78,5 +78,5 @@ Aug. 26, 1935, ch. 684, §2, as added Pub. L. 86–608, July 7, 1960, 74 Stat. 3
 
 Pub. L. 94–579, title VII, §706(a) (related to the Act of July 7, 1960 (Pub. L. 86–608, 74 Stat. 363)), Oct. 21, 1976, 90 Stat. 2793.
 
-In subsection (a), the words “Administrator of General Services” and “Administrator” are substituted for “Treasury Department” and “Secretary of the Treasury” in the Act of August 26, 1935 because of sections 301 and 303 of Reorganization Plan No. I of 1939 (eff. July 1, 1939, 53 Stat. 1426, 1427) and section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) \[303(b)\] of the revised title. In paragraph (1), the words “a State or a political subdivision of a State” are substituted for “States, counties, municipalities, or other duly constituted political subdivisions of States” for consistency with subsection (b).
+In subsection (a), the words "Administrator of General Services" and "Administrator" are substituted for "Treasury Department" and "Secretary of the Treasury" in the Act of August 26, 1935 because of sections 301 and 303 of Reorganization Plan No. I of 1939 (eff. July 1, 1939, 53 Stat. 1426, 1427) and section 103(a) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 380), which is restated as section 303(c) \[303(b)\] of the revised title. In paragraph (1), the words "a State or a political subdivision of a State" are substituted for "States, counties, municipalities, or other duly constituted political subdivisions of States" for consistency with subsection (b).
 

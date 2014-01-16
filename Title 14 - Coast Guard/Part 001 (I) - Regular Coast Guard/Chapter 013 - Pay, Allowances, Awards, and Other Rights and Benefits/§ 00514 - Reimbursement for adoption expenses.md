@@ -30,13 +30,13 @@ Regulations.—The Secretary shall prescribe regulations to carry out this secti
 
 Definitions.—In this section:
 
-&emsp;(1) The term “qualifying adoption expenses” means reasonable and necessary expenses that are directly related to the legal adoption of a child under 18 years of age, but only if such adoption is arranged by a qualified adoption agency. Such term does not include any expense incurred—
+&emsp;(1) The term "qualifying adoption expenses" means reasonable and necessary expenses that are directly related to the legal adoption of a child under 18 years of age, but only if such adoption is arranged by a qualified adoption agency. Such term does not include any expense incurred—
 
 &emsp;&emsp;(A) by an adopting parent for travel; or
 
 &emsp;&emsp;(B) in connection with an adoption arranged in violation of Federal, State, or local law.
 
-&emsp;(2) The term “reasonable and necessary expenses” includes—
+&emsp;(2) The term "reasonable and necessary expenses" includes—
 
 &emsp;&emsp;(A) public and private agency fees, including adoption fees charged by an agency in a foreign country;
 
@@ -46,7 +46,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(D) medical expenses, including hospital expenses of the biological mother of the child to be adopted and of a newborn infant to be adopted.
 
-&emsp;(3) The term “qualified adoption agency” means any of the following:
+&emsp;(3) The term "qualified adoption agency" means any of the following:
 
 &emsp;&emsp;(A) A State or local government agency which has responsibility under State or local law for child placement through adoption.
 
@@ -58,7 +58,7 @@ Definitions.—In this section:
 
 #### Amendments
 
-<b>1996</b>—Subsec. (g)(1). Pub. L. 104–201, §652(b)(1), substituted “qualified adoption agency.” for “State or local government agency which has responsibility under State or local law for child placement through adoption or by a nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption.”
+<b>1996</b>—Subsec. (g)(1). Pub. L. 104–201, §652(b)(1), substituted "qualified adoption agency." for "State or local government agency which has responsibility under State or local law for child placement through adoption or by a nonprofit, voluntary adoption agency which is authorized by State or local law to place children for adoption."
 
 Subsec. (g)(3). Pub. L. 104–201, §652(b)(2), added par. (3).
 

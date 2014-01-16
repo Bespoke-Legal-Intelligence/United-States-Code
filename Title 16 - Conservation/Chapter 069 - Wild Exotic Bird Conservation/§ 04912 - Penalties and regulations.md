@@ -32,7 +32,7 @@ The Secretary shall prescribe regulations that are necessary and appropriate to 
 
 #### (e) Savings provisions
 
-The authority of the Secretary under this chapter is in addition to and shall not affect the authority of the Secretary under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) or diminish the authority of the Secretary under the Lacey Act Amendments of 1981 (16 U.S.C. 3371 et seq.). Nothing in this chapter shall be construed as repealing, superseding, or modifying any provision of Federal law.
+The authority of the Secretary under this chapter is in addition to and shall not affect the authority of the Secretary under the Endangered Species Act of 1973 (16 U.S.C. 1531 et seq.) or diminish the authority of the Secretary under the Lacey Act Amendments of 1981 (16 U.S.C.3371 et seq.). Nothing in this chapter shall be construed as repealing, superseding, or modifying any provision of Federal law.
 
 (Pub. L. 102–440, title I, §113, Oct. 23, 1992, 106 Stat. 2231.)
 
@@ -46,9 +46,9 @@ The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79
 
 For termination of Trust Territory of Palau and Northern Marianas, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “4910(a)(1)(A) or (B)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "4910(a)(1)(A) or (B)".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be section “4910(a)(1)(C)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be section "4910(a)(1)(C)".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be section “11(a)”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be section "11(a)".</i>
 

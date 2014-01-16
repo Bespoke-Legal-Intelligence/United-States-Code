@@ -1,0 +1,6 @@
+### §31–2. Transferred
+
+#### Codification
+
+Section 31–2 was editorially reclassified as section 4725 of this title.
+

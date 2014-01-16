@@ -6,7 +6,7 @@ For purposes of this subchapter—
 
 #### (1) Port use
 
-&emsp;The term “port use” means—
+&emsp;The term "port use" means—
 
 &emsp;&emsp;(A) the loading of commercial cargo on, or
 
@@ -18,7 +18,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;The term “port” means any channel or harbor (or component thereof) in the United States, which—
+&emsp;&emsp;The term "port" means any channel or harbor (or component thereof) in the United States, which—
 
 &emsp;&emsp;&emsp;(i) is not an inland waterway, and
 
@@ -26,21 +26,21 @@ For purposes of this subchapter—
 
 #### (B) Exception for certain facilities
 
-&emsp;&emsp;The term “port” does not include any channel or harbor with respect to which no Federal funds have been used since 1977 for construction, maintenance, or operation, or which was deauthorized by Federal law before 1985.
+&emsp;&emsp;The term "port" does not include any channel or harbor with respect to which no Federal funds have been used since 1977 for construction, maintenance, or operation, or which was deauthorized by Federal law before 1985.
 
 #### (C) Special rule for Columbia River
 
-&emsp;&emsp;The term “port” shall include the channels of the Columbia River in the States of Oregon and Washington only up to the downstream side of Bonneville lock and dam.
+&emsp;&emsp;The term "port" shall include the channels of the Columbia River in the States of Oregon and Washington only up to the downstream side of Bonneville lock and dam.
 
 #### (3) Commercial cargo
 
 #### (A) In general
 
-&emsp;&emsp;The term “commercial cargo” means any cargo transported on a commercial vessel, including passengers transported for compensation or hire.
+&emsp;&emsp;The term "commercial cargo" means any cargo transported on a commercial vessel, including passengers transported for compensation or hire.
 
 #### (B) Certain items not included
 
-&emsp;&emsp;The term “commercial cargo” does not include—
+&emsp;&emsp;The term "commercial cargo" does not include—
 
 &emsp;&emsp;&emsp;(i) bunker fuel, ship's stores, sea stores, or the legitimate equipment necessary to the operation of a vessel, or
 
@@ -50,7 +50,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;The term “commercial vessel” means any vessel used—
+&emsp;&emsp;The term "commercial vessel" means any vessel used—
 
 &emsp;&emsp;&emsp;(i) in transporting cargo by water for compensation or hire, or
 
@@ -60,21 +60,21 @@ For purposes of this subchapter—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “commercial vessel” does not include any ferry engaged primarily in the ferrying of passengers (including their vehicles) between points within the United States, or between the United States and contiguous countries.
+&emsp;&emsp;&emsp;The term "commercial vessel" does not include any ferry engaged primarily in the ferrying of passengers (including their vehicles) between points within the United States, or between the United States and contiguous countries.
 
 #### (ii) Ferry
 
-&emsp;&emsp;&emsp;The term “ferry” means any vessel which arrives in the United States on a regular schedule during its operating season at intervals of at least once each business day.
+&emsp;&emsp;&emsp;The term "ferry" means any vessel which arrives in the United States on a regular schedule during its operating season at intervals of at least once each business day.
 
 #### (5) Value
 
 #### (A) In general
 
-&emsp;&emsp;The term “value” means, except as provided in regulations, the value of any commercial cargo as determined by standard commercial documentation.
+&emsp;&emsp;The term "value" means, except as provided in regulations, the value of any commercial cargo as determined by standard commercial documentation.
 
 #### (B) Transportation of passengers
 
-&emsp;&emsp;In the case of the transportation of passengers for hire, the term “value” means the actual charge paid for such service or the prevailing charge for comparable service if no actual charge is paid.
+&emsp;&emsp;In the case of the transportation of passengers for hire, the term "value" means the actual charge paid for such service or the prevailing charge for comparable service if no actual charge is paid.
 
 #### (b) Special rule for Alaska, Hawaii, and possessions
 
@@ -92,11 +92,11 @@ For purposes of this subchapter—
 
 #### (2) Cargo does not include crude oil with respect to Alaska
 
-&emsp;For purposes of this subsection, the term “cargo” does not include crude oil with respect to Alaska.
+&emsp;For purposes of this subsection, the term "cargo" does not include crude oil with respect to Alaska.
 
 #### (3) United States mainland
 
-&emsp;For purposes of this subsection, the term “United States mainland” means the continental United States (not including Alaska).
+&emsp;For purposes of this subsection, the term "United States mainland" means the continental United States (not including Alaska).
 
 #### (c) Coordination of tax where transportation subject to tax imposed by section 4042
 
@@ -114,7 +114,7 @@ No tax shall be imposed under this subchapter on the United States or any agency
 
 #### (1) In general
 
-&emsp;Except to the extent otherwise provided in regulations, all administrative and enforcement provisions of customs laws and regulations shall apply in respect of the tax imposed by this subchapter (and in respect of persons liable therefor) as if such tax were a customs duty. For purposes of the preceding sentence,any penalty expressed in terms of a relationship to the amount of the duty shall be treated as not less than the amount which bears a similar relationship to the value of the cargo.
+&emsp;Except to the extent otherwise provided in regulations, all administrative and enforcement provisions of customs laws and regulations shall apply in respect of the tax imposed by this subchapter (and in respect of persons liable therefor) as if such tax were a customs duty. For purposes of the preceding sentence, any penalty expressed in terms of a relationship to the amount of the duty shall be treated as not less than the amount which bears a similar relationship to the value of the cargo.
 
 #### (2) Jurisdiction of courts and agencies
 
@@ -138,7 +138,7 @@ Except as provided by regulations—
 
 #### (3) Relay cargo
 
-&emsp;Only 1 tax shall be imposed under section 4461(a) on cargo (moving under a single bill of lading) which is unloaded from one vessel and loaded onto another vessel at any port in the United States for relay to or from any port in Alaska, Hawaii, or any possession of the United States. For purposes of this paragraph, the term “cargo” does not include any item not treated as cargo under subsection (b)(2).
+&emsp;Only 1 tax shall be imposed under section 4461(a) on cargo (moving under a single bill of lading) which is unloaded from one vessel and loaded onto another vessel at any port in the United States for relay to or from any port in Alaska, Hawaii, or any possession of the United States. For purposes of this paragraph, the term "cargo" does not include any item not treated as cargo under subsection (b)(2).
 
 #### (h) Exemption for humanitarian and development assistance cargos
 
@@ -156,7 +156,7 @@ The Secretary may prescribe such additional regulations as may be necessary to c
 
 &emsp;(4) providing for the remittance or mitigation of penalties and the settlement or compromise of claims.
 
-(Added Pub. L. 99–662, title XIV, §1402(a), Nov. 17, 1986, 100 Stat. 4266; amended Pub. L. 100–647, title II, §2002(b), title VI, §§6109(a), 6110(a), Nov. 10, 1988, 102 Stat. 3597, 3712; Pub. L. 104–188, title I, §1704(i)(1), Aug. 20, 1996, 110 Stat. 1881; Pub. L. 109–59, title XI, §11116(a), Aug. 10, 2005, 119 Stat. 1950.)
+(Added Pub. L. 99–662, title XIV, §1402(a), Nov. 17, 1986, 100 Stat. 4266; amended Pub. L. 100–647,title II, §2002(b), title VI, §§6109(a), 6110(a), Nov. 10, 1988, 102 Stat. 3597, 3712; Pub. L. 104–188, title I, §1704(i)(1), Aug. 20, 1996, 110 Stat. 1881; Pub. L. 109–59, title XI, §11116(a), Aug. 10, 2005, 119 Stat. 1950.)
 
 #### Prior Provisions
 
@@ -166,9 +166,9 @@ For prior section 4462, see Prior Provisions note set out preceding section 4471
 
 <b>2005</b>—Subsec. (d). Pub. L. 109–59 amended heading and text of subsec. (d) generally, substituting provisions relating to nonapplicability of tax imposed by section 4461(a) to exports for provisions relating to nonapplicability of tax imposed by section 4461(a) to bonded commercial cargo entering the United States for transportation and direct exportation to a foreign country and inapplicability of this provision to certain cargo exported to Canada or Mexico.
 
-<b>1996</b>—Subsec. (b)(1)(D). Pub. L. 104–188 inserted before period at end “, or passengers transported on United States flag vessels operating solely within the State waters of Alaska or Hawaii and adjacent international waters”.
+<b>1996</b>—Subsec. (b)(1)(D). Pub. L. 104–188 inserted before period at end ", or passengers transported on United States flag vessels operating solely within the State waters of Alaska or Hawaii and adjacent international waters".
 
-<b>1988</b>—Subsec. (b)(1)(B). Pub. L. 100–647, §2002(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “cargo loaded on a vessel in Alaska, Hawaii, or any possession of the United States for transportation to the United States mainland for ultimate use or consumption in the United States mainland,”.
+<b>1988</b>—Subsec. (b)(1)(B). Pub. L. 100–647, §2002(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "cargo loaded on a vessel in Alaska, Hawaii, or any possession of the United States for transportation to the United States mainland for ultimate use or consumption in the United States mainland,".
 
 Subsec. (g)(3). Pub. L. 100–647, §6110(a), added par. (3).
 
@@ -180,15 +180,15 @@ Amendment by Pub. L. 109–59 effective before, on, and after Aug. 10, 2005, see
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–188, title I, §1704(i)(2), Aug. 20, 1996, 110 Stat. 1881, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 1402(a) of the Harbor Maintenance Revenue Act of 1986 \[Pub. L. 99–662, title XIV\].”
+Pub. L. 104–188, title I, §1704(i)(2), Aug. 20, 1996, 110 Stat. 1881, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the amendments made by section 1402(a) of the Harbor Maintenance Revenue Act of 1986 \[Pub. L. 99–662, title XIV\]."
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 2002(b) of Pub. L. 100–647 effective as if included in the provision of the Harbor Maintenance Revenue Act of 1986, Pub. L. 99–662, title XIV, to which it relates, see section 2002(d) of Pub. L. 100–647, set out as a note under section 4042 of this title.
 
-Pub. L. 100–647, title VI, §6109(b), Nov. 10, 1988, 102 Stat. 3712, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on April 1, 1987.”
+Pub. L. 100–647, title VI, §6109(b), Nov. 10, 1988, 102 Stat. 3712, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on April 1, 1987."
 
-Pub. L. 100–647, title VI, §6110(b), Nov. 10, 1988, 102 Stat. 3713, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6110(b), Nov. 10, 1988, 102 Stat. 3713, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 #### Effective Date
 
@@ -196,5 +196,5 @@ Section effective Apr. 1, 1987, see section 1402(c) of Pub. L. 99–662, set out
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

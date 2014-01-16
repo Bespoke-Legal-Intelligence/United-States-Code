@@ -70,7 +70,7 @@ Information in Annual Budget Justification.—The Administration shall provide, 
 
 &emsp;&emsp;(C) the civil service full time equivalent assignments per headquarters office, and any division thereof, including the number of Senior Executive Service, noncareer, detailee, and contract personnel per office.
 
-&emsp;(4) Within 14 days of the submission of the budget to Congress an accompanying volumeshall be provided to the Committees on Appropriations containing the following information for each center, facility managed by any center, and federally funded research and development center operated on behalf of the Administration:
+&emsp;(4) Within 14 days of the submission of the budget to Congress an accompanying volume shall be provided to the Committees on Appropriations containing the following information for each center, facility managed by any center, and federally funded research and development center operated on behalf of the Administration:
 
 &emsp;&emsp;(A) The actual, current, proposed funding level, and estimated budgets for the next 5 fiscal years by directorate, theme, program, project, and activity.
 
@@ -114,19 +114,19 @@ Pub. L. 109–155, title I, §101(h)(1), (i), Dec. 30, 2005, 119 Stat. 2903.
 
 42 U.S.C. 16611b.
 
-Pub. L. 110–161, div. B, title III, (7th par. under heading “Administrative Provisions”, at 121 Stat. 1919), Dec. 26, 2007, 121 Stat. 1919.
+Pub. L. 110–161, div. B, title III, (7th par. under heading "Administrative Provisions", at 121 Stat. 1919), Dec. 26, 2007, 121 Stat. 1919.
 
 30103(d)
 
 42 U.S.C. 16611b note.
 
-Pub. L. 111–8, div. B, title III, (3d proviso in par. under heading “Cross Agency Support”, at 123 Stat. 589), Mar. 11, 2009, 123 Stat. 589.
+Pub. L. 111–8, div. B, title III, (3d proviso in par. under heading "Cross Agency Support", at 123 Stat. 589), Mar. 11, 2009, 123 Stat. 589.
 
-In subsection (a)(5), the source law's reference to “section 104” of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2910) is translated as “section 20144” of title 51. Section 104 of the National Aeronautics and Space Administration Authorization Act of 2005 amended the National Aeronautics and Space Act of 1958 (Public Law 85–568, 72 Stat. 426) by inserting a new section 314, which is restated as section 20144 of title 51.
+In subsection (a)(5), the source law's reference to "section 104" of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2910) is translated as "section 20144" of title 51. Section 104 of the National Aeronautics and Space Administration Authorization Act of 2005 amended the National Aeronautics and Space Act of 1958 (Public Law 85–568, 72 Stat. 426) by inserting a new section 314, which is restated as section 20144 of title 51.
 
-In subsection (b), in the matter before paragraph (1), the words “Committee on Science and Technology” are substituted for “Committee on Science” on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+In subsection (b), in the matter before paragraph (1), the words "Committee on Science and Technology" are substituted for "Committee on Science" on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
-In subsection (c), in the matter before paragraph (1), the words “For fiscal year 2009 and hereafter” are omitted as unnecessary.
+In subsection (c), in the matter before paragraph (1), the words "For fiscal year 2009 and hereafter" are omitted as unnecessary.
 
 #### Change of Name
 
@@ -134,19 +134,21 @@ Committee on Science and Technology of House of Representatives changed to Commi
 
 #### Estimates of Receipts and Collections and Proposed Use of Funds From Leases of Non-Excess Property
 
-Pub. L. 112–55, div. B, title III, Nov. 18, 2011, 125 Stat. 625, provided in part: “That each annual budget request shall include an annual estimate of gross receipts and collections and proposed use of all funds collected pursuant to section 315 of the National Aeronautics and Space Act of 1958 (\[former\] 42 U.S.C. 2459j) \[now 51 U.S.C. 20145\].”
+Pub. L. 113–6, div. B, title III, Mar. 26, 2013, 127 Stat. 263, provided in part: "That each annual budget request shall include an annual estimate of gross receipts and collections and proposed use of all funds collected pursuant to section 315 of the National Aeronautics and Space Act of 1958 (\[now\] 51 U.S.C. 20145)."
 
-Similar provisions were contained in the following prior appropriation act:
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 112–55, div. B, title III, Nov. 18, 2011, 125 Stat. 625.
 
 Pub. L. 111–117, div. B, title III, Dec. 16, 2009, 123 Stat. 3144.
 
 #### Transmission of Budget Estimates
 
-Pub. L. 102–588, title II, §210, Nov. 4, 1992, 106 Stat. 5115, provided that: “The Administrator \[of the National Aeronautics and Space Administration\] shall, at the time of submission of the President's annual budget, transmit to the Congress—
+Pub. L. 102–588, title II, §210, Nov. 4, 1992, 106 Stat. 5115, provided that: "The Administrator \[of the National Aeronautics and Space Administration\] shall, at the time of submission of the President's annual budget, transmit to the Congress—
 
-&emsp;“(1) a five-year budget detailing the estimated development costs for each individual program under the jurisdiction of the National Aeronautics and Space Administration for which development costs are expected to exceed $200,000,000; and
+&emsp;"(1) a five-year budget detailing the estimated development costs for each individual program under the jurisdiction of the National Aeronautics and Space Administration for which development costs are expected to exceed $200,000,000; and
 
-&emsp;“(2) an estimate of the life-cycle costs associated with each such program.”
+&emsp;"(2) an estimate of the life-cycle costs associated with each such program."
 
 Similar provisions were contained in the following prior appropriation authorization act:
 

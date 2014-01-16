@@ -22,5 +22,5 @@ Section 6305 requires the Secretary to prescribe regulations about the form and 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–383 substituted “. This subsection does not require the release of information described by section 552(b) of title 5 or protected from disclosure by another law of the United States.” for “, except to the extent that they contain information related to the national security.”
+<b>1998</b>—Subsec. (b). Pub. L. 105–383 substituted ". This subsection does not require the release of information described by section 552(b) of title 5 or protected from disclosure by another law of the United States." for ", except to the extent that they contain information related to the national security."
 

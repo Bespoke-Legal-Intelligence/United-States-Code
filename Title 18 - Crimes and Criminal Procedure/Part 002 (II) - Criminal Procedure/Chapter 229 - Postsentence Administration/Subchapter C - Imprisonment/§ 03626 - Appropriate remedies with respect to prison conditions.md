@@ -20,7 +20,7 @@ Prospective relief.—(A) Prospective relief in any civil action with respect to
 
 &emsp;(2)
 
-Preliminary injunctive relief.—In any civil action with respect to prison conditions, to the extent otherwise authorized by law, the court may enter a temporary restraining order or an order for preliminary injunctive relief. Preliminary injunctive relief must be narrowly drawn, extend no further than necessary to correct the harm the court finds requires preliminary relief, and be the least intrusive means necessary to correct that harm. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the preliminary relief and shall respect the principles of comity set out in paragraph (1)(B) in tailoring any preliminary relief. Preliminary injunctive relief shall automatically expire onthe date that is 90 days after its entry, unless the court makes the findings required under subsection (a)(1) for the entry of prospective relief and makes the order final before the expiration of the 90-day period.
+Preliminary injunctive relief.—In any civil action with respect to prison conditions, to the extent otherwise authorized by law, the court may enter a temporary restraining order or an order for preliminary injunctive relief. Preliminary injunctive relief must be narrowly drawn, extend no further than necessary to correct the harm the court finds requires preliminary relief, and be the least intrusive means necessary to correct that harm. The court shall give substantial weight to any adverse impact on public safety or the operation of a criminal justice system caused by the preliminary relief and shall respect the principles of comity set out in paragraph (1)(B) in tailoring any preliminary relief. Preliminary injunctive relief shall automatically expire on the date that is 90 days after its entry, unless the court makes the findings required under subsection (a)(1) for the entry of prospective relief and makes the order final before the expiration of the 90-day period.
 
 &emsp;(3)
 
@@ -102,7 +102,7 @@ Generally.—The court shall promptly rule on any motion to modify or terminate 
 
 Automatic stay.—Any motion to modify or terminate prospective relief made under subsection (b) shall operate as a stay during the period—
 
-&emsp;&emsp;(A)(i) beginning on the 30th day after such motion is filed, in the case of a motion madeunder paragraph (1) or (2) of subsection (b); or
+&emsp;&emsp;(A)(i) beginning on the 30th day after such motion is filed, in the case of a motion made under paragraph (1) or (2) of subsection (b); or
 
 &emsp;&emsp;(ii) beginning on the 180th day after such motion is filed, in the case of a motion made under any other law; and
 
@@ -162,25 +162,25 @@ Limitations on powers and duties.—A special master appointed under this subsec
 
 Definitions.—As used in this section—
 
-&emsp;(1) the term “consent decree” means any relief entered by the court that is based in whole or in part upon the consent or acquiescence of the parties but does not include private settlements;
+&emsp;(1) the term "consent decree" means any relief entered by the court that is based in whole or in part upon the consent or acquiescence of the parties but does not include private settlements;
 
-&emsp;(2) the term “civil action with respect to prison conditions” means any civil proceeding arising under Federal law with respect to the conditions of confinement or the effects of actions by government officials on the lives of persons confined in prison, but does not include habeas corpus proceedings challenging the fact or duration of confinement in prison;
+&emsp;(2) the term "civil action with respect to prison conditions" means any civil proceeding arising under Federal law with respect to the conditions of confinement or the effects of actions by government officials on the lives of persons confined in prison, but does not include habeas corpus proceedings challenging the fact or duration of confinement in prison;
 
-&emsp;(3) the term “prisoner” means any person subject to incarceration, detention, or admission to any facility who is accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law or the terms and conditions of parole, probation, pretrial release, or diversionary program;
+&emsp;(3) the term "prisoner" means any person subject to incarceration, detention, or admission to any facility who is accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law or the terms and conditions of parole, probation, pretrial release, or diversionary program;
 
-&emsp;(4) the term “prisoner release order” includes any order, including a temporary restraining order or preliminary injunctive relief, that has the purpose or effect of reducing or limiting the prison population, or that directs the release from or nonadmission of prisoners to a prison;
+&emsp;(4) the term "prisoner release order" includes any order, including a temporary restraining order or preliminary injunctive relief, that has the purpose or effect of reducing or limiting the prison population, or that directs the release from or nonadmission of prisoners to a prison;
 
-&emsp;(5) the term “prison” means any Federal, State, or local facility that incarcerates or detains juveniles or adults accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law;
+&emsp;(5) the term "prison" means any Federal, State, or local facility that incarcerates or detains juveniles or adults accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law;
 
-&emsp;(6) the term “private settlement agreement” means an agreement entered into among the parties that is not subject to judicial enforcement other than the reinstatement of the civil proceeding that the agreement settled;
+&emsp;(6) the term "private settlement agreement" means an agreement entered into among the parties that is not subject to judicial enforcement other than the reinstatement of the civil proceeding that the agreement settled;
 
-&emsp;(7) the term “prospective relief” means all relief other than compensatory monetary damages;
+&emsp;(7) the term "prospective relief" means all relief other than compensatory monetary damages;
 
-&emsp;(8) the term “special master” means any person appointed by a Federal court pursuant to Rule 53 of the Federal Rules of Civil Procedure or pursuant to any inherent power of the court to exercise the powers of a master, regardless of the title or description given by the court; and
+&emsp;(8) the term "special master" means any person appointed by a Federal court pursuant to Rule 53 of the Federal Rules of Civil Procedure or pursuant to any inherent power of the court to exercise the powers of a master, regardless of the title or description given by the court; and
 
-&emsp;(9) the term “relief” means all relief in any form that may be granted or approved by the court, and includes consent decrees but does not include private settlement agreements.
+&emsp;(9) the term "relief" means all relief in any form that may be granted or approved by the court, and includes consent decrees but does not include private settlement agreements.
 
-(Added Pub. L. 103–322, title II, §20409(a), Sept. 13, 1994, 108 Stat. 1827; amended Pub. L. 104–134,title I, §101\[(a)\] \[title VIII, §802(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–66; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–119, title I, §123(a), Nov. 26, 1997, 111 Stat. 2470.)
+(Added Pub. L. 103–322, title II, §20409(a), Sept. 13, 1994, 108 Stat. 1827; amended Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §802(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–66; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–119, title I, §123(a), Nov. 26, 1997, 111 Stat. 2470.)
 
 #### References in Text
 
@@ -190,17 +190,17 @@ The Federal Rules of Civil Procedure, referred to in subsec. (g)(8), are set out
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a)(1)(B)(i). Pub. L. 105–119, §123(a)(1)(A), substituted “requires” for “permits”.
+<b>1997</b>—Subsec. (a)(1)(B)(i). Pub. L. 105–119, §123(a)(1)(A), substituted "requires" for "permits".
 
-Subsec. (a)(3)(A). Pub. L. 105–119, §123(a)(1)(B)(i), substituted “no court shall enter a prisoner release order unless” for “no prisoner release order shall be entered unless”.
+Subsec. (a)(3)(A). Pub. L. 105–119, §123(a)(1)(B)(i), substituted "no court shall enter a prisoner release order unless" for "no prisoner release order shall be entered unless".
 
-Subsec. (a)(3)(F). Pub. L. 105–119, §123(a)(1)(B)(ii), inserted “including a legislator” after “local official” and substituted “prison facilities” for “program facilities”.
+Subsec. (a)(3)(F). Pub. L. 105–119, §123(a)(1)(B)(ii), inserted "including a legislator" after "local official" and substituted "prison facilities" for "program facilities".
 
-Subsec. (b)(3). Pub. L. 105–119, §123(a)(2), substituted “current and ongoing” for “current or ongoing”.
+Subsec. (b)(3). Pub. L. 105–119, §123(a)(2), substituted "current and ongoing" for "current or ongoing".
 
-Subsec. (e)(1). Pub. L. 105–119, §123(a)(3)(A), inserted at end “Mandamus shall lie to remedy any failure to issue a prompt ruling on such a motion.”
+Subsec. (e)(1). Pub. L. 105–119, §123(a)(3)(A), inserted at end "Mandamus shall lie to remedy any failure to issue a prompt ruling on such a motion."
 
-Subsec. (e)(2). Pub. L. 105–119, §123(a)(3)(B), substituted “Any motion to modify or terminate prospective relief made under subsection (b) shall operate as a stay” for “Any prospective relief subject to a pending motion shall be automatically stayed”.
+Subsec. (e)(2). Pub. L. 105–119, §123(a)(3)(B), substituted "Any motion to modify or terminate prospective relief made under subsection (b) shall operate as a stay" for "Any prospective relief subject to a pending motion shall be automatically stayed".
 
 Subsec. (e)(3), (4). Pub. L. 105–119, §123(a)(3)(C), added pars. (3) and (4).
 
@@ -208,11 +208,11 @@ Subsec. (e)(3), (4). Pub. L. 105–119, §123(a)(3)(C), added pars. (3) and (4).
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–119, title I, §123(b), Nov. 26, 1997, 111 Stat. 2471, provided that: “The amendments made by this Act \[probably should be “section”, amending this section\] shall take effect upon the date of the enactment of this Act \[Nov. 26, 1997\] and shall apply to pending cases.”
+Pub. L. 105–119, title I, §123(b), Nov. 26, 1997, 111 Stat. 2471, provided that: "The amendments made by this Act \[probably should be "section", amending this section\] shall take effect upon the date of the enactment of this Act \[Nov. 26, 1997\] and shall apply to pending cases."
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §802(b)(1)\], Apr. 26, 1996, 110 Stat. 1321, 1321–70, provided that: “Section 3626 of title 18, United States Code, as amended by this section, shall apply with respect to all prospective relief whether such relief was originally granted or approved before, on, or after the date of the enactment of this title \[Apr. 26, 1996\].”
+Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §802(b)(1)\], Apr. 26, 1996, 110 Stat. 1321, 1321–70, provided that: "Section 3626 of title 18, United States Code, as amended by this section, shall apply with respect to all prospective relief whether such relief was originally granted or approved before, on, or after the date of the enactment of this title \[Apr. 26, 1996\]."
 
 #### Effective and Termination Dates
 
@@ -220,17 +220,17 @@ Pub. L. 103–322, title II, §20409(b), Sept. 13, 1994, 108 Stat. 1828, which p
 
 #### Severability
 
-Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §810\], Apr. 26, 1996, 110 Stat. 1321, 1321–77, provided that: “If any provision of this title \[see Short Title of 1996 Amendment note set out under section 3601 of this title\], an amendment made by this title, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this title, the amendments made by this title, and the application of the provisions of such to any person or circumstance shall not be affected thereby.”
+Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §810\], Apr. 26, 1996, 110 Stat. 1321, 1321–77, provided that: "If any provision of this title \[see Short Title of 1996 Amendment note set out under section 3601 of this title\], an amendment made by this title, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this title, the amendments made by this title, and the application of the provisions of such to any person or circumstance shall not be affected thereby."
 
 #### Special Masters Appointed Prior to April 26, 1996; Prohibition on Use of Funds
 
-Pub. L. 104–208, div. A, title I, §101(a) \[title III, §306\], Sept. 30, 1996, 110 Stat. 3009, 3009–45, provided that: “None of the funds available to the Judiciary in fiscal years 1996 and 1997 and hereafter shall be available for expenses authorized pursuant to section 802(a) of title VIII of section 101(a) of title I of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, Public Law 104–134 \[amending this section\], for costs related to the appointment of Special Masters prior to April 26, 1996.”
+Pub. L. 104–208, div. A, title I, §101(a) \[title III, §306\], Sept. 30, 1996, 110 Stat. 3009, 3009–45, provided that: "None of the funds available to the Judiciary in fiscal years 1996 and 1997 and hereafter shall be available for expenses authorized pursuant to section 802(a) of title VIII of section 101(a) of title I of the Omnibus Consolidated Rescissions and Appropriations Act of 1996, Public Law 104–134 \[amending this section\], for costs related to the appointment of Special Masters prior to April 26, 1996."
 
 #### Payment of Damage Award in Satisfaction of Pending Restitution Orders
 
-Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §807\], Apr. 26, 1996, 110 Stat. 1321, 1321–75, provided that: “Any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, shall be paid directly to satisfy any outstanding restitution orders pending against the prisoner. The remainder of any such award after full payment of all pending restitution orders shall be forwarded to the prisoner.”
+Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §807\], Apr. 26, 1996, 110 Stat. 1321, 1321–75, provided that: "Any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, shall be paid directly to satisfy any outstanding restitution orders pending against the prisoner. The remainder of any such award after full payment of all pending restitution orders shall be forwarded to the prisoner."
 
 #### Notice to Crime Victims of Pending Damage Award
 
-Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §808\], Apr. 26, 1996, 110 Stat. 1321, 1321–76, provided that: “Prior to payment of any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, reasonable efforts shall be made to notify the victims of the crime for which the prisoner was convicted and incarcerated concerning the pending payment of any such compensatory damages.”
+Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §808\], Apr. 26, 1996, 110 Stat. 1321, 1321–76, provided that: "Prior to payment of any compensatory damages awarded to a prisoner in connection with a civil action brought against any Federal, State, or local jail, prison, or correctional facility or against any official or agent of such jail, prison, or correctional facility, reasonable efforts shall be made to notify the victims of the crime for which the prisoner was convicted and incarcerated concerning the pending payment of any such compensatory damages."
 

@@ -1,0 +1,6 @@
+### §442. Transferred
+
+#### Codification
+
+Section 442 was editorially reclassified as section 6566 of this title.
+

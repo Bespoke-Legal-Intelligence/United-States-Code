@@ -44,7 +44,7 @@
 
 (b)(1)(A)(i) The Special Counsel may request any member of the Merit Systems Protection Board to order a stay of any personnel action for 45 days if the Special Counsel determines that there are reasonable grounds to believe that the personnel action was taken, or is to be taken, as a result of a prohibited personnel practice.
 
-(ii) Any member of the Board requested by the Special Counsel to order a stay under clause (i)shall order such stay unless the member determines that, under the facts and circumstances involved, such a stay would not be appropriate.
+(ii) Any member of the Board requested by the Special Counsel to order a stay under clause (i) shall order such stay unless the member determines that, under the facts and circumstances involved, such a stay would not be appropriate.
 
 (iii) Unless denied under clause (ii), any stay under this subparagraph shall be granted within 3 calendar days (excluding Saturdays, Sundays, and legal holidays) after the date of the request for the stay by the Special Counsel.
 
@@ -68,7 +68,7 @@
 
 (D) If the Special Counsel finds, in consultation with the individual subject to the prohibited personnel practice, that the agency has acted to correct the prohibited personnel practice, the Special Counsel shall file such finding with the Board, together with any written comments which the individual may provide.
 
-(E) A determination by the Special Counsel under this paragraph shall not be cited or referred to in any proceeding under this paragraph or any other administrative or judicial proceeding for any purpose, without the consent of the person submitting the allegation of a prohibited personnel practice.
+(E) A determination by the Special Counsel under this paragraph shall not be cited or referred to in any proceeding under this paragraphor any other administrative or judicial proceeding for any purpose, without the consent of the person submitting the allegation of a prohibited personnel practice.
 
 (3) Whenever the Special Counsel petitions the Board for corrective action, the Board shall provide an opportunity for—
 

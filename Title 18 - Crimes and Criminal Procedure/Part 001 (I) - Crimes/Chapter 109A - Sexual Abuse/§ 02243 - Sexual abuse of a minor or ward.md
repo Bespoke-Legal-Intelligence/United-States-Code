@@ -34,7 +34,7 @@ State of Mind Proof Requirement.—In a prosecution under subsection (a) of this
 
 &emsp;(2) that the requisite age difference existed between the persons so engaging.
 
-(Added Pub. L. 99–646, §87(b), Nov. 10, 1986, 100 Stat. 3621, and Pub. L. 99–654, §2, Nov. 14, 1986, 100 Stat. 3661; amended Pub. L. 101–647, title III, §322, Nov. 29, 1990, 104 Stat. 4818; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §121\[7(c)\]\], Sept. 30, 1996, 110 Stat. 3009, 3009–26, 3009–31; Pub. L. 105–314, title III, §301(b), Oct. 30, 1998, 112 Stat. 2979; Pub. L. 109–162, title XI, §1177(a)(4), (b)(1), Jan. 5, 2006, 119 Stat. 3125; Pub. L. 109–248, title II, §207, July 27, 2006, 120 Stat. 615; Pub. L. 110–161, div. E, title V, §554, Dec. 26, 2007, 121 Stat. 2082.)
+(Added Pub. L. 99–646, §87(b), Nov. 10, 1986, 100 Stat. 3621, and Pub. L. 99–654, §2, Nov. 14, 1986, 100 Stat. 3661; amended Pub. L. 101–647, title III, §322, Nov. 29, 1990, 104 Stat. 4818; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §121\[7(c)\]\], Sept. 30,1996, 110 Stat. 3009, 3009–26, 3009–31; Pub. L. 105–314, title III, §301(b), Oct. 30, 1998, 112 Stat. 2979; Pub. L. 109–162, title XI, §1177(a)(4), (b)(1), Jan. 5, 2006, 119 Stat. 3125; Pub. L. 109–248, title II, §207, July 27, 2006, 120 Stat. 615; Pub. L. 110–161, div. E, title V, §554, Dec. 26, 2007, 121 Stat. 2082.)
 
 #### Codification
 
@@ -42,19 +42,19 @@ Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2243.
 
 #### Amendments
 
-<b>2007</b>—Subsecs. (a), (b). Pub. L. 110–161 substituted “the head of any Federal department or agency” for “the Attorney General” in introductory provisions.
+<b>2007</b>—Subsecs. (a), (b). Pub. L. 110–161 substituted "the head of any Federal department or agency" for "the Attorney General" in introductory provisions.
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–248, §207(2), inserted comma after “Attorney General” in introductory provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–248, §207(2), inserted comma after "Attorney General" in introductory provisions.
 
-Pub. L. 109–162, §1177(a)(4), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions.
+Pub. L. 109–162, §1177(a)(4), inserted "or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General" after "in a Federal prison," in introductory provisions.
 
-Subsec. (b). Pub. L. 109–248 inserted comma after “Attorney General” in introductory provisions and substituted “15 years” for “five years” in concluding provisions.
+Subsec. (b). Pub. L. 109–248 inserted comma after "Attorney General" in introductory provisions and substituted "15 years" for "five years" in concluding provisions.
 
-Pub. L. 109–162, §1177(a)(4), (b)(1), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions and substituted “five years” for “one year” in concluding provisions.
+Pub. L. 109–162, §1177(a)(4), (b)(1), inserted "or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General" after "in a Federal prison," in introductory provisions and substituted "five years" for "one year" in concluding provisions.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–314 struck out “crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or” after “Whoever” in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–314 struck out "crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or" after "Whoever" in introductory provisions.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208 inserted “crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or” after “Whoever” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208 inserted "crosses a State line with intent to engage in a sexual act with a person who has not attained the age of 12 years, or" after "Whoever" in introductory provisions.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–647 substituted “15 years” for “five years” in concluding provisions.
+<b>1990</b>—Subsec. (a). Pub. L. 101–647 substituted "15 years" for "five years" in concluding provisions.
 

@@ -72,7 +72,7 @@ Notwithstanding section 104(a) of the Immigration and Nationality Act (8 U.S.C. 
 
 #### (1) In general
 
-&emsp;The Secretary is authorized to assign employees of the Department to each diplomatic and consular post at which visas are issued,unless the Secretary determines that such an assignment at a particular post would not promote homeland security.
+&emsp;The Secretary is authorized to assign employees of the Department to each diplomatic and consular post at which visas are issued, unless the Secretary determines that such an assignment at a particular post would not promote homeland security.
 
 #### (2) Functions
 

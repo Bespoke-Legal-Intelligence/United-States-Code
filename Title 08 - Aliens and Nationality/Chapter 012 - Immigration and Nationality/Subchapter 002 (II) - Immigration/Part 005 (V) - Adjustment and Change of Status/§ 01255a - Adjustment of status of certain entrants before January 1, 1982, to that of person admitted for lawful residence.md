@@ -40,7 +40,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (B) Treatment of brief, casual, and innocent absences
 
-&emsp;&emsp;An alien shall not be considered to have failed to maintain continuous physical presence in the United States for purposes of subparagraph (A) by virtue of brief, casual, and innocent absences from the United States.
+&emsp;&emsp;An alien shall not be considered to have failed to maintain continuous physical presence in the United States for purposes ofsubparagraph (A) by virtue of brief, casual, and innocent absences from the United States.
 
 #### (C) Admissions
 
@@ -192,7 +192,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (6) Penalties for false statements in applications
 
-&emsp;Whoever files an application for adjustment of status under this section and knowingly and willfully falsifies, misrepresents, conceals, or covers up a material fact or makes any false, fictitious, or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious, or fraudulent statement or entry, shall be fined in accordance with title 18 or imprisoned not more than five years, or both.
+&emsp;Whoever files an application for adjustment of status under this section and knowingly andwillfully falsifies, misrepresents, conceals, or covers up a material fact or makes any false, fictitious, or fraudulent statements or representations, or makes or uses any false writing or document knowing the same to contain any false, fictitious, or fraudulent statement or entry, shall be fined in accordance with title 18 or imprisoned not more than five years, or both.
 
 #### (7) Application fees
 
@@ -244,7 +244,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (iii) Special rule for determination of public charge
 
-&emsp;&emsp;&emsp;An alien is not ineligible for adjustment of status under this section due to beinginadmissible under section 1182(a)(4) of this title if the alien demonstrates a history of employment in the United States evidencing self-support without receipt of public cash assistance.
+&emsp;&emsp;&emsp;An alien is not ineligible for adjustment of status under this section due to being inadmissible under section 1182(a)(4) of this title if the alien demonstrates a history of employment in the United States evidencing self-support without receipt of public cash assistance.
 
 #### (C) Medical examination
 
@@ -262,7 +262,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (2) During application period
 
-&emsp;The Attorney General shall provide that in the case of an alien who presents a prima facie application for adjustment of status under subsection (a) of this section during the application period, and until a final determination on the application has been made in accordance with this section, the alien—
+&emsp;The Attorney General shall provide that in the case of an alien who presents a prima facieapplication for adjustment of status under subsection (a) of this section during the application period, and until a final determination on the application has been made in accordance with this section, the alien—
 
 &emsp;&emsp;(A) may not be deported, and
 
@@ -450,7 +450,7 @@ The Social Security Act, referred to in subsec. (h)(1)(A), (2)(B), (3)(A)(ii), (
 
 Section 301 of the Social Security Amendments of 1972, referred to in subsec. (h)(4)(I), is section 301 of Pub. L. 92–603, title III, Oct. 30, 1972, 86 Stat. 1465, which enacted sections 1381 to 1382e and 1383 to 1383c of Title 42.
 
-The Food and Nutrition Act of 2008, referred to in subsec. (h)(1)(A)(iii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51\(§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+The Food and Nutrition Act of 2008, referred to in subsec. (h)(1)(A)(iii), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
 
 The Richard B. Russell National School Lunch Act, referred to in subsec. (h)(4)(A), is act June 4, 1946, ch. 281, 60 Stat. 230, as amended, which is classified generally to chapter 13 (§1751 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1751 of Title 42 and Tables.
 
@@ -600,7 +600,7 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Report on Citizenship of Certain Legalized Aliens
 
-Pub. L. 103–416, title I, §109, Oct. 25, 1994, 108 Stat. 4310, provided that: “Not later than June 30, 1996, theCommissioner of the Immigration and Naturalization Service shall prepare and submit to the Congress a report concerning the citizenship status of aliens legalized under section 245A and section 210 of the Immigration and Nationality Act \[8 U.S.C. 1255a, 1160\]. Such report shall include the following information by district office for each national origin group:
+Pub. L. 103–416, title I, §109, Oct. 25, 1994, 108 Stat. 4310, provided that: “Not later than June 30, 1996, the Commissioner of the Immigration and Naturalization Service shall prepare and submit to the Congress a report concerning the citizenship status of aliens legalized under section 245A and section 210 of the Immigration and Nationality Act \[8 U.S.C. 1255a, 1160\]. Such report shall include the following information by district office for each national origin group:
 
 &emsp;“(1) The number of applications for citizenship filed.
 
@@ -618,7 +618,7 @@ Pub. L. 101–649, title III, §301, Nov. 29, 1990, 104 Stat. 5029, as amended b
 
 Temporary Stay of Removal and Work Authorization for Certain Eligible Immigrants.—The Attorney General shall provide that in the case of an alien who is an eligible immigrant (as defined in subsection (b)(1)) as of May 5, 1988 (in the case of a relationship to a legalized alien described in subsection (b)(2)(B) or (b)(2)(C)) or as of December 1, 1988 (in the case of a relationship to a legalized alien described in subsection (b)(2)(A)), who has entered the United States before such date, who resided in the United States on such date, and who is not lawfully admitted for permanent residence, the alien—
 
-&emsp;“(1) may not be removed or otherwise required to depart from the United States on a ground specified in paragraph (1)(A), (1)(B), (1)(C), (3)(A), of section 237(a) of the Immigration and Nationality Act \[8 U.S.C. 1227(a)\] (other than so much of section 237(a)(1)(A) of such Act as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 212(a) of such Act \[8 U.S.C. 1182(a)\]), and
+&emsp;“(1) may not be removed or otherwise required to depart from the United States on a ground specified in paragraph (1)(A), (1)(B), (1)(C), (3)(A), of section 237(a) of the Immigration and Nationality Act \[8U.S.C. 1227(a)\] (other than so much of section 237(a)(1)(A) of such Act as relates to a ground of inadmissibility described in paragraph (2) or (3) of section 212(a) of such Act \[8 U.S.C. 1182(a)\]), and
 
 &emsp;“(2) shall be granted authorization to engage in employment in the United States and be provided an ‘employment authorized’ endorsement or other appropriate work permit.
 
@@ -692,7 +692,7 @@ Adjustment of Status.—The status of any alien who is a national of a foreign c
 
 &emsp;“(5) meets the requirements of section 245A(a)(4) of the Immigration and Nationality Act (8 U.S.C. 1255a(a)(4)).
 
-> The Attorney General shall provide for the acceptance and processing of applications under this subsection bynot later than 90 days after the date of the enactment of this Act.
+> The Attorney General shall provide for the acceptance and processing of applications under this subsection by not later than 90 days after the date of the enactment of this Act.
 
 “(b)
 
@@ -706,7 +706,7 @@ Pub. L. 99–603, title II, §201(c)(1), Nov. 6, 1986, 100 Stat. 3403, provided 
 
 #### Use of Retired Federal Employees
 
-Pub. L. 99–603, title II, §201(c)(2), Nov. 6, 1986, 100 Stat. 3403, as amended by Pub. L. 100–525, §2(h)(2), Oct. 24, 1988, 102 Stat. 2612, provided that: “Notwithstanding any other provision of law, the retired or retainer pay of a member or former member of the Armed Forces of the United States or the pay and annuity of a retired employee of the Federal Government who retired on or before January 1, 1986, shall not be reduced while such individual is temporarily employed by the Immigration and Naturalization Service for a period of not to exceed 18 months to perform duties in connection with the adjustment of status of aliens under this section \[enacting this section and amending sections 602, 672, and 673 of Title 42, The Public Health and Welfare\]. The Service shall not temporarily employ more than 300 individuals under this paragraph. Notwithstanding any other provision of law, the annuity of a retired employee of the Federal Government shall not be increased or redetermined under chapter 83 or 84 of title 5, United States Code, as a result of a period of temporary employment under this paragraph.”
+Pub. L. 99–603, title II, §201(c)(2), Nov. 6, 1986, 100 Stat. 3403, as amended by Pub. L. 100–525, §2(h)(2), Oct. 24, 1988, 102 Stat. 2612, provided that: “Notwithstanding any other provision of law, the retired or retainer payof a member or former member of the Armed Forces of the United States or the pay and annuity of a retired employee of the Federal Government who retired on or before January 1, 1986, shall not be reduced while such individual is temporarily employed by the Immigration and Naturalization Service for a period of not to exceed 18 months to perform duties in connection with the adjustment of status of aliens under this section \[enacting this section and amending sections 602, 672, and 673 of Title 42, The Public Health and Welfare\]. The Service shall not temporarily employ more than 300 individuals under this paragraph. Notwithstanding any other provision of law, the annuity of a retired employee of the Federal Government shall not be increased or redetermined under chapter 83 or 84 of title 5, United States Code, as a result of a period of temporary employment under this paragraph.”
 
 #### Cuban-Haitian Adjustment
 

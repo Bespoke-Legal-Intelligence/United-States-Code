@@ -30,27 +30,27 @@ Pub. L. 99–646 and Pub. L. 99–654 added identical sections 2244.
 
 #### Amendments
 
-<b>2007</b>—Subsecs. (a), (b). Pub. L. 110–161 substituted “the head of any Federal department or agency” for “the Attorney General”.
+<b>2007</b>—Subsecs. (a), (b). Pub. L. 110–161 substituted "the head of any Federal department or agency" for "the Attorney General".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–248, §207(2), inserted comma after “Attorney General” in introductory provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–248, §207(2), inserted comma after "Attorney General" in introductory provisions.
 
-Pub. L. 109–162, §1177(a)(5), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” in introductory provisions.
+Pub. L. 109–162, §1177(a)(5), inserted "or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General" after "in a Federal prison," in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 109–248, §206(a)(2)(A)(i), inserted “subsection (a) or (b) of” before “section 2241 of this title”.
+Subsec. (a)(1). Pub. L. 109–248, §206(a)(2)(A)(i), inserted "subsection (a) or (b) of" before "section 2241 of this title".
 
-Subsec. (a)(4). Pub. L. 109–162, §1177(b)(2), substituted “two years” for “six months”.
+Subsec. (a)(4). Pub. L. 109–162, §1177(b)(2), substituted "two years" for "six months".
 
 Subsec. (a)(5). Pub. L. 109–248, §206(a)(2)(A)(ii)–(iv), added par. (5).
 
-Subsec. (b). Pub. L. 109–248, §207(2), inserted comma after “Attorney General”.
+Subsec. (b). Pub. L. 109–248, §207(2), inserted comma after "Attorney General".
 
-Pub. L. 109–162, §1177(a)(5), (b)(2), inserted “or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “in a Federal prison,” and substituted “two years” for “six months”.
+Pub. L. 109–162, §1177(a)(5), (b)(2), inserted "or in any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General" after "in a Federal prison," and substituted "two years" for "six months".
 
-Subsec. (c). Pub. L. 109–248, §206(a)(2)(B), inserted “(other than subsection (a)(5))” after “violates this section”.
+Subsec. (c). Pub. L. 109–248, §206(a)(2)(B), inserted "(other than subsection (a)(5))" after "violates this section".
 
 <b>1998</b>—Subsec. (c). Pub. L. 105–314 added subsec. (c).
 
-<b>1994</b>—Subsecs. (a)(4), (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Subsecs. (a)(4), (b). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–690 substituted “ten years” for “five years” in par. (1) and “two years” for “one year” in par. (3).
+<b>1988</b>—Subsec. (a). Pub. L. 100–690 substituted "ten years" for "five years" in par. (1) and "two years" for "one year" in par. (3).
 

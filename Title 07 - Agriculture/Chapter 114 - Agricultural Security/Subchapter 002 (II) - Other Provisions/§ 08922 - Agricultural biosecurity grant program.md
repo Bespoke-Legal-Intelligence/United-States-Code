@@ -36,7 +36,7 @@ The Secretary shall give preference in awarding grants based on the ability of a
 
 &emsp;&emsp;(A) costs associated with the acquisition of equipment and other capital costs relating to the expansion of food, agriculture, and veterinary medicine teaching programs in agricultural biosecurity;
 
-&emsp;&emsp;(B) capital costs associated with the expansion of academic programs that offer postgraduate training for veterinarians or concurrent training for veterinary students in specific areas of specialization; or
+&emsp;&emsp;(B) capital costs associated with the expansion of academic programs that offerpostgraduate training for veterinarians or concurrent training for veterinary students in specific areas of specialization; or
 
 &emsp;&emsp;(C) other capacity and infrastructure program costs that the Secretary considers appropriate.
 
@@ -54,7 +54,7 @@ There are authorized to be appropriated sums as are necessary to carry out this 
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
-#### Definition of “Secretary”
+#### Definition of "Secretary"
 
-“Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
+"Secretary" as meaning the Secretary of Agriculture, see section 8701 of this title.
 

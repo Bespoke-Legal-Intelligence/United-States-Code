@@ -2,7 +2,7 @@
 
 #### (a) Persons eligible; terms and conditions of service; Federal employee status; racial, sex, religious, or color discrimination
 
-The President may enroll in the Peace Corps for service abroad qualified citizens and nationals of the United States (referred to in this chapter as “volunteers”). The terms and conditions of the enrollment, training (including training under section 2507a of this title), compensation, hours of work, benefits, leave, termination, and all other terms and conditions of the service of volunteers shall be exclusively those set forth in this chapter and those consistent therewith which the President may prescribe; and, except as provided in this chapter, volunteers shall not be deemed officers or employees or otherwise in the service or employment of, or holding office under, the United States for any purpose. In carrying out this subsection, there shall be no discrimination against any person on account of race, sex, creed, or color.
+The President may enroll in the Peace Corps for service abroad qualified citizens and nationals of the United States (referred to in this chapter as "volunteers"). The terms and conditions of the enrollment, training (including training under section 2507a of this title), compensation, hours of work, benefits, leave, termination, and all other terms and conditions of the service of volunteers shall be exclusively those set forth in this chapter and those consistent therewith which the President may prescribe; and, except as provided in this chapter, volunteers shall not be deemed officers or employees or otherwise in the service or employment of, or holding office under, the United States for any purpose. In carrying out this subsection, there shall be no discrimination against any person on account of race, sex, creed, or color.
 
 #### (b) Living allowances, travel, leave and related items; transfers of supplies and equipment
 
@@ -10,7 +10,7 @@ Volunteers shall be provided with such living, travel, and leave allowances, and
 
 #### (c) Readjustment allowances
 
-Volunteers shall be entitled to receive a readjustment allowance at a rate not less than $125 for each month of satisfactory service as determined by the President. The readjustment allowance of each volunteer shall be payable on his return to the United States: <i>Provided, however</i>, That, under such circumstances as the President may determine, the accrued readjustment allowance, or any part thereof, may be paid to the volunteer, members of his family or others, during the period of his service, or prior to his return to the United States. In the event of the volunteer's death during the period of his service, the amount of any unpaid readjustment allowance shall be paid in accordance with the provisions of section 5582(b) of title 5. For purposes of the Internal Revenue Code of 1986, a volunteer shall be deemed to be paid and to receive each amount of a readjustment allowance to which he is entitled after December 31, 1964, when such amount is transferred from funds made available under this chapter to the fund from which such readjustment allowance is payable.
+Volunteers shall be entitled to receive a readjustment allowance at a rate not less than $125 for each month of satisfactory service as determined by the President. The readjustment allowance of each volunteer shall be payable on his return to the United States: <i>Provided, however</i>, That, under such circumstances as the President may determine, the accrued readjustment allowance, or any part thereof, may be paid to the volunteer, members of his family or others, during the period of his service, or prior to his return to the United States. In the event of the volunteer's death during the period of his service, the amount of any unpaid readjustment allowance shall be paid in accordance with the provisions of section 5582(b) of title 5. For purposes of the Internal Revenue Code of 1986, a volunteer shall be deemed to be paid and to receive each amount of a readjustment allowance towhich he is entitled after December 31, 1964, when such amount is transferred from funds made available under this chapter to the fund from which such readjustment allowance is payable.
 
 #### (d) Repealed. Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 661
 
@@ -58,7 +58,7 @@ The minor children of a volunteer living with the volunteer may receive—
 
 &emsp;(1) such living, travel, education, and leave allowances, such housing, transportation, subsistence, and essential special items of clothing as the President may determine;
 
-&emsp;(2) such health care, including health care following the volunteer's service for illness or injury incurred during such service, and health and accident insurance, as the President may determine and upon such terms as he may determine, including health care in any facility referred to in subsection (e) of this section, subject to such conditions as the President may prescribe and subject to reimbursement of appropriations as provided in such subsection (e);
+&emsp;(2) such health care, including health care following the volunteer's service for illness orinjury incurred during such service, and health and accident insurance, as the President may determine and upon such terms as he may determine, including health care in any facility referred to in subsection (e) of this section, subject to such conditions as the President may prescribe and subject to reimbursement of appropriations as provided in such subsection (e);
 
 &emsp;(3) such orientation, language, and other training necessary to accomplish the purposes of this chapter as the President may determine; and
 
@@ -72,7 +72,7 @@ The costs of packing and unpacking, transporting to and from a place of storage,
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (e) to (h), and (m), was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in subsecs. (a), (e) to (h), and (m), was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (c), is classified generally to Title 26, Internal Revenue Code.
 
@@ -80,37 +80,37 @@ The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (e)
 
 The Foreign Service Act of 1980, referred to in subsec. (f)(1), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
-The Federal Tort Claims Act, referred to in subsec. (h), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
+The Federal Tort Claims Act, referred to in subsec. (h), is title IV of act Aug. 2, 1946, ch. 753, 60 Stat. 842, which was classified principally to chapter 20 (§§921, 922, 931–934, 941–946) of former Title 28, Judicial Code and Judiciary. Title IV of act Aug. 2, 1946, was substantially repealed and reenacted as sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure, by act June 25, 1948, ch. 646, 62 Stat. 992, the first section of which enacted Title 28. The Federal Tort Claims Act is also commonly used to refer to chapter 171 of Title 28, Judiciary and Judicial Procedure. For complete classification of title IV to the Code, see Tables. For distribution of former sections of Title 28 into the revised Title 28, see Table at the beginning of Title 28.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–57, §8(a)(1), inserted “(including training under section 2507a of this title)” after “training”.
+<b>2011</b>—Subsec. (a). Pub. L. 112–57, §8(a)(1), inserted "(including training under section 2507a of this title)" after "training".
 
-Subsec. (e). Pub. L. 112–57, §8(b), in first sentence, inserted “(including, if necessary, for volunteers and trainees, services under section 2507b of this title)” after “health care” and “including services provided in accordance with section 2507b of this title (except that the six-month limitation shall not apply in the case of such services),” before “as the President”.
+Subsec. (e). Pub. L. 112–57, §8(b), in first sentence, inserted "(including, if necessary, for volunteers and trainees, services under section 2507b of this title)" after "health care" and "including services provided in accordance with section 2507b of this title (except that the six-month limitation shall not apply in the case of such services)," before "as the President".
 
-Subsec. (l). Pub. L. 112–57, §3, inserted “and counsel may be employed and counsel fees, court costs and other expenses may be paid in the support of volunteers who are parties, complaining witnesses, or otherwise participating in the prosecution of crimes committed against such volunteers” before period at end.
+Subsec. (l). Pub. L. 112–57, §3, inserted "and counsel may be employed and counsel fees, court costs and other expenses may be paid in the support of volunteers who are parties, complaining witnesses, or otherwise participating in the prosecution of crimes committed against such volunteers" before period at end.
 
-<b>1999</b>—Subsec. (f)(1)(B). Pub. L. 106–30, §2(b)(1), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1999</b>—Subsec. (f)(1)(B). Pub. L. 106–30, §2(b)(1), substituted "Office of Personnel Management" for "Civil Service Commission".
 
-Subsec. (h). Pub. L. 106–30, §2(b)(2), substituted “section 3342 of title 31, section 5732 and” for “the Federal Voting Assistance Act of 1955 (5 U.S.C. 2171 et seq.), the Act of June 4, 1954, chapter 264, section 4 (5 U.S.C. 73b–5), the Act of December 23, 1944, chapter 716, section 1, as amended (31 U.S.C. 492a),”.
+Subsec. (h). Pub. L. 106–30, §2(b)(2), substituted "section 3342 of title 31, section 5732 and" for "the Federal Voting Assistance Act of 1955 (5 U.S.C. 2171 et seq.), the Act of June 4, 1954, chapter 264, section 4 (5 U.S.C. 73b–5), the Act of December 23, 1944, chapter 716, section 1, as amended (31 U.S.C. 492a),".
 
-Subsec. (j). Pub. L. 106–30, §2(b)(3), substituted “section 3331 of title 5.” for “section 1757 of the Revised Statutes of the United States, as amended (5 U.S.C. 16), and shall swear (or affirm) that he does not advocate the overthrow of our constitutional form of government in the United States, and that he is not a member of an organization that advocates the overthrow of our constitutional form of government in the United States, knowing that such organization so advocates.”
+Subsec. (j). Pub. L. 106–30, §2(b)(3), substituted "section 3331 of title 5." for "section 1757 of the Revised Statutes of the United States, as amended (5 U.S.C. 16), and shall swear (or affirm) that he does not advocate the overthrow of our constitutional form of government in the United States, and that he is not a member of an organization that advocates the overthrow of our constitutional form of government in the United States, knowing that such organization so advocates."
 
-<b>1997</b>—Subsec. (e). Pub. L. 105–12 inserted at end “Health care may not be provided under this subsection in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997.”
+<b>1997</b>—Subsec. (e). Pub. L. 105–12 inserted at end "Health care may not be provided under this subsection in a manner inconsistent with the Assisted Suicide Funding Restriction Act of 1997."
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–83 in amending last sentence generally, struck out provisions prohibiting political tests.
 
-<b>1981</b>—Subsec. (c). Pub. L. 97–113, §606, substituted “not less than $125” for “not to exceed $125”.
+<b>1981</b>—Subsec. (c). Pub. L. 97–113, §606, substituted "not less than $125" for "not to exceed $125".
 
 Subsec. (h). Pub. L. 97–113, §604(b), struck out provision making section 2702 of this title, relating to malpractice protection, applicable to volunteers and vesting the President with the authority reposed in the Secretary of State in section 2702(f) of this title, and deeming a Peace Corps representative to be a principal representative of the United States for purposes of section 2702(g) of this title. See section 2509(i) and (j) of this title.
 
-<b>1980</b>—Subsec. (f)(1)(A). Pub. L. 96–465, §2202- (a)(1)(A), substituted “section 816(a) of the Foreign Service Act of 1980” for “section 852(a)(1) of the Foreign Service Act of 1946, as amended (22 U.S.C. 1092(a)(1)),”.
+<b>1980</b>—Subsec. (f)(1)(A). Pub. L. 96–465, §2202- (a)(1)(A), substituted "section 816(a) of the Foreign Service Act of 1980" for "section 852(a)(1) of the Foreign Service Act of 1946, as amended (22 U.S.C. 1092(a)(1)),".
 
-Subsec. (f)(1)(B). Pub. L. 96–465, §2202(a)(1)(B), substituted “Foreign Service Act of 1980” for “Foreign Service Act of 1946”.
+Subsec. (f)(1)(B). Pub. L. 96–465, §2202(a)(1)(B), substituted "Foreign Service Act of 1980" for "Foreign Service Act of 1946".
 
-Subsec. (h). Pub. L. 96–465, §2202(a)(2), substituted “section 2702 of this title” for “section 817 of this title” and “President” for “Director of ACTION”.
+Subsec. (h). Pub. L. 96–465, §2202(a)(2), substituted "section 2702 of this title" for "section 817 of this title" and "President" for "Director of ACTION".
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–331, §4(1), struck out provisions relating to allowances for volunteers with minor children at the time of their entering a period of pre-enrollment training.
 
@@ -120,7 +120,7 @@ Subsec. (h). Pub. L. 95–331, §4(2), inserted provisions relating to applicabi
 
 Subsec. (c). Pub. L. 94–130, §6, substituted $125 for $75 in initial clause of first sentence.
 
-<b>1970</b>—Subsec. (c). Pub. L. 91–352, §3(a), inserted exception that in case of volunteers having one or more children at time of entering a period of pre-enrollment training, one parent would be entitled to receive a readjustment allowance not exceeding $125 for each month of satisfactory service as determined by the President, and substituted “section 5582(b) of title 5” for “section 61f of title 5”.
+<b>1970</b>—Subsec. (c). Pub. L. 91–352, §3(a), inserted exception that in case of volunteers having one or more children at time of entering a period of pre-enrollment training, one parent would be entitled to receive a readjustment allowance not exceeding $125 for each month of satisfactory service as determined by the President, and substituted "section 5582(b) of title 5" for "section 61f of title 5".
 
 Subsecs. (m), (n). Pub. L. 91–352, §3(b), added subsecs. (m) and (n).
 
@@ -144,9 +144,9 @@ Subsec. (h). Pub. L. 89–134, §2(d), extended check cashing and currency excha
 
 <b>1963</b>—Subsec. (b). Pub. L. 88–200, §2(a), inserted provision for transfer of supplies and equipment.
 
-Subsec. (c). Pub. L. 88–200, §2(b), substituted “a readjustment allowance” for “termination payments” in first sentence, the second sentence reading “The readjustment allowance of each volunteer shall be payable on his return to the United States: <i>Provided, however</i>, That, under such circumstances as the President may determine, the accrued readjustment allowance, or any part thereof, may be paid to the volunteer, members of his family or others, during the period of his service, or prior to his return to the United States” for “The termination payment of each volunteer shall be payable at the termination of his service, or may be paid during the course of his service to the volunteer, to members of his family or to others, under such circumstances as the President may determine” and “readjustment allowance” for “termination payment” in third sentence.
+Subsec. (c). Pub. L. 88–200, §2(b), substituted "a readjustment allowance" for "termination payments" in first sentence, the second sentence reading "The readjustment allowance of each volunteer shall be payable on his return to the United States: <i>Provided, however</i>, That, under such circumstances as the President may determine, the accrued readjustment allowance, or any part thereof, may be paid to the volunteer, members of his family or others, during the period of his service, or prior to his return to the United States" for "The termination payment of each volunteer shall be payable at the termination of his service, or may be paid during the course of his service to the volunteer, to members of his family or to others, under such circumstances as the President may determine" and "readjustment allowance" for "termination payment" in third sentence.
 
-Subsec. (f)(2). Pub. L. 88–200, §2(c), substituted “readjustment allowances” for “termination payments.”
+Subsec. (f)(2). Pub. L. 88–200, §2(c), substituted "readjustment allowances" for "termination payments."
 
 Subsec. (g). Pub. L. 88–200, §2(d), provided for assignment of volunteers to duties on staffs of Peace Corps representatives abroad.
 
@@ -174,37 +174,37 @@ Functions of President under this section, except those under subsec. (f)(1)(B),
 
 Pub. L. 102–565, §3, Oct. 28, 1992, 106 Stat. 4266, provided that:
 
-“(a)
+"(a)
 
 In General.—The Director of the Peace Corps shall contract with an eligible organization or organizations to conduct before January 1, 1997, a total of three evaluations of the health-care needs of the Peace Corps volunteers and the adequacy of the system through which the Peace Corps provides health-care services in meeting those needs.
 
-“(b)
+"(b)
 
 Requirements of the Evaluations.—Each evaluation shall include an assessment of the adequacy of the Peace Corps health-care system—
 
-&emsp;“(1) to provide diagnostic, treatment, and referral services to meet the health-care needs of Peace Corps volunteers, and
+&emsp;"(1) to provide diagnostic, treatment, and referral services to meet the health-care needs of Peace Corps volunteers, and
 
-&emsp;“(2) to conduct health examinations of applicants for enrollment as Peace Corps volunteers and to provide immunization and dental care preparatory to service of applicants for enrollment who have accepted an invitation to begin a period of training for service as a Peace Corps volunteer.
+&emsp;"(2) to conduct health examinations of applicants for enrollment as Peace Corps volunteers and to provide immunization and dental care preparatory to service of applicants for enrollment who have accepted an invitation to begin a period of training for service as a Peace Corps volunteer.
 
-“(c)
+"(c)
 
 Reports to the Peace Corps.—An organization making an evaluation under this section shall submit to the Director of the Peace Corps a report containing its findings and recommendations not later than May 31, 1993, December 31, 1994, and December 31, 1996, as the case may be. Each report shall include recommendations regarding appropriate standards and procedures for ensuring the furnishing of quality medical care and for measuring the quality of care provided to Peace Corps volunteers.
 
-“(d)
+"(d)
 
 Report to Congress.—Not later than 90 days after receipt of a report required by subsection (c), the Director of the Peace Corps shall transmit the report, together with the Director's comments, to the appropriate congressional committees.
 
-“(e)
+"(e)
 
 Definitions.—For purposes of this section—
 
-&emsp;“(1) the term ‘appropriate congressional committees’ means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and
+&emsp;"(1) the term 'appropriate congressional committees' means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives; and
 
-&emsp;“(2) the term ‘eligible organization’ means an independent health-care accreditation organization or other independent organization with expertise in evaluating health-care systems similar to that of the Peace Corps.”
+&emsp;"(2) the term 'eligible organization' means an independent health-care accreditation organization or other independent organization with expertise in evaluating health-care systems similar to that of the Peace Corps."
 
 #### Legal Expenses Incurred Prior to Sept. 13, 1966
 
-Pub. L. 89–572, §2(b), Sept. 13, 1966, 80 Stat. 765, provided that: “The authority contained in subsection (a) \[adding subsec. (l) to this section\] shall extend to counsels fees, costs, and other expenses of the types specified therein that were incurred prior to the date of enactment of this Act \[Sept. 13, 1966\].”
+Pub. L. 89–572, §2(b), Sept. 13, 1966, 80 Stat. 765, provided that: "The authority contained in subsection (a) \[adding subsec. (l) to this section\] shall extend to counsels fees, costs, and other expenses of the types specified therein that were incurred prior to the date of enactment of this Act \[Sept. 13, 1966\]."
 
 #### Ex. Ord. No. 11103. Appointment of Former Volunteers to Civilian Career Services
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Energy shall conduct a scholarship and fellowship program for the purpose of enabling individuals to qualify for employment in environmental restoration and waste management positions in the Department of Energy. The scholarship and fellowship program shall be known as the “Marilyn Lloyd Scholarship and Fellowship Program”.
+The Secretary of Energy shall conduct a scholarship and fellowship program for the purpose of enabling individuals to qualify for employment in environmental restoration and waste management positions in the Department of Energy. The scholarship and fellowship program shall be known as the "Marilyn Lloyd Scholarship and Fellowship Program".
 
 #### (b) Eligibility
 
@@ -34,7 +34,7 @@ An agreement between the Secretary and a participant in the scholarship and fell
 
 &emsp;(B) is voluntarily separated from service or involuntarily separated for cause from the Department of Energy before the end of the period for which the person has agreed to continue in the service of the Department of Energy.
 
-(2) If an employee fails to fulfill his agreement to pay to the Government the total amount of educational assistance provided to the person under the program, plus interest at the rate prescribed by paragraph (4), a sum equal to the amount of the educational assistance (plus such interest) is recoverable by the Government from the person or his estate by—
+(2) If an employee fails to fulfill his agreement to pay to the Government the total amount of educational assistance provided to the person under the program, plus interest at the rate prescribed by paragraph (4), a sum equal to theamount of the educational assistance (plus such interest) is recoverable by the Government from the person or his estate by—
 
 &emsp;(A) in the case of a person who is an employee, setoff against accrued pay, compensation, amount of retirement credit, or other amount due the employee from the Government; and
 
@@ -70,7 +70,7 @@ Of the funds authorized to be appropriated pursuant to section 3101(9)(B), $1,00
 
 #### References in Text
 
-The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I ofchapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
+The Higher Education Act of 1965, referred to in subsec. (f), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended. Title IV of the Act is classified generally to subchapter IV (§1070 et seq.) of chapter 28 of Title 20, Education, and part C (§2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20 and Tables.
 
 Section 3101(9)(B), referred to in subsec. (i), is section 3101(9)(B) of Pub. L. 102–190, div. C, title XXXI, Dec. 5, 1991, 105 Stat. 1564, which is not classified to the Code.
 
@@ -80,9 +80,9 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–244 substituted “section 101 of the Higher Education Act of 1965” for “section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a))”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–244 substituted "section 101 of the Higher Education Act of 1965" for "section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a))".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–337 inserted at end “The scholarship and fellowship program shall be known as the ‘Marilyn Lloyd Scholarship and Fellowship Program’.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 inserted at end "The scholarship and fellowship program shall be known as the 'Marilyn Lloyd Scholarship and Fellowship Program'."
 
 #### Effective Date of 1998 Amendment
 
@@ -90,5 +90,5 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–337, div. C, title XXXI, §3156(b)(2), Oct. 5, 1994, 108 Stat. 3092, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on January 3, 1995.”
+Pub. L. 103–337, div. C, title XXXI, §3156(b)(2), Oct. 5, 1994, 108 Stat. 3092, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on January 3, 1995."
 

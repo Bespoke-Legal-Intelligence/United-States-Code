@@ -14,11 +14,11 @@ Based on title 18, U.S.C., 1940 ed., §94 (Mar. 4, 1909, ch. 321, §42, 35 Stat.
 
 Mandatory punishment provisions were changed to alternative.
 
-Words “armed forces” were substituted for repeated references to military service, naval service, soldier and seamen.
+Words "armed forces" were substituted for repeated references to military service, naval service, soldier and seamen.
 
 Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $2,000" in last par.
 

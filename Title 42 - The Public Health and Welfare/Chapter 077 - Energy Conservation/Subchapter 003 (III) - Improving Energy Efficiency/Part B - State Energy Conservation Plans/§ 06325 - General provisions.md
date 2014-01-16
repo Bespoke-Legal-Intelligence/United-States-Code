@@ -30,7 +30,7 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 #### (g) State Energy Advisory Board
 
-(1)(A) There is hereby established within the Department of Energy a State Energy Advisory Board (hereafter in this subsection referred to asthe “Board”) which shall consist of at least 18 and not more than 21 members appointed by the Secretary as soon as practicable but no later than September 30, 1991. At least eight of the members of the Board shall be persons who serve as directors of the State agency, or a division of such agency, responsible for developing State energy conservation plans pursuant to section 6322 of this title. At least four members shall be directors of State or local low income weatherization assistance programs. Other members shall be appointed from persons who have experience in energy efficiency or renewable energy programs from the private sector, consumer interest groups, utilities, public utility commissions, educational institutions, financial institutions, local government energy programs, or research institutions. A majority of the members of the Board shall be State employees.
+(1)(A) There is hereby established within the Department of Energy a State Energy Advisory Board (hereafter in this subsection referred to as the "Board") which shall consist of at least 18 and not more than 21 members appointed by the Secretary as soon as practicable but no later than September 30, 1991. At least eight of the members of the Board shall be persons who serve as directors of the State agency, or a division of such agency, responsible for developing State energy conservation plans pursuant to section 6322 of this title. At least four members shall be directors of State or local low income weatherization assistance programs. Other members shall be appointed from persons who have experience in energy efficiency or renewable energy programs from the private sector, consumer interest groups, utilities, public utility commissions, educational institutions, financial institutions, local government energy programs, or research institutions. A majority of the members of the Board shall be State employees.
 
 (B)(i) Except as provided in clause (ii), the members of the Board shall serve a term of three years.
 
@@ -58,7 +58,7 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 (7) Consistent with Federal regulations, the Secretary shall reimburse members of the Board for expenses (including travel expenses) necessarily incurred by them in the performance of their duties.
 
-(8) The Board shall meet at least twice a year and shall submit an annual report to the Secretary and the Congress on the activities carried out by the Board in the previous fiscal year, including an accounting of the expenses reimbursed under paragraph (7) with respect to the year for which the report is made and any recommendations it may have for administrative or legislative changes concerning the matters referred to in subparagraphs (A), (B), and (C) of paragraph (2).
+(8) The Board shall meet at least twice a year and shall submit an annual report to the Secretary and the Congress on the activities carried out by the Board in the previous fiscal year, including an accounting of the expenses reimbursed under paragraph (7) with respect to theyear for which the report is made and any recommendations it may have for administrative or legislative changes concerning the matters referred to in subparagraphs (A), (B), and (C) of paragraph (2).
 
 (9) The Board shall continue until terminated by law.
 
@@ -72,25 +72,25 @@ The Energy Conservation and Production Act, referred to in subsec. (g)(2)(A)(i),
 
 #### Amendments
 
-<b>2007</b>—Subsec. (f). Pub. L. 110–140 substituted “$125,000,000 for each of fiscal years 2007 through 2012” for “$100,000,000 for each of the fiscal years 2006 and 2007 and $125,000,000 for fiscal year 2008”.
+<b>2007</b>—Subsec. (f). Pub. L. 110–140 substituted "$125,000,000 for each of fiscal years 2007 through 2012" for "$100,000,000 for each of the fiscal years 2006 and 2007 and $125,000,000 for fiscal year 2008".
 
-<b>2005</b>—Subsec. (f). Pub. L. 109–58 substituted “$100,000,000 for each of the fiscal years 2006 and 2007 and $125,000,000 for fiscal year 2008” for “for fiscal years 1999 through 2003 such sums as may be necessary”.
+<b>2005</b>—Subsec. (f). Pub. L. 109–58 substituted "$100,000,000 for each of the fiscal years 2006 and 2007 and $125,000,000 for fiscal year 2008" for "for fiscal years 1999 through 2003 such sums as may be necessary".
 
 <b>1998</b>—Subsec. (f). Pub. L. 105–388 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows:
 
-“(f)(1) Except as provided in paragraph (2), for the purpose of carrying out this part, there are authorized to be appropriated not to exceed $25,000,000 for fiscal year 1991, $35,000,000 for fiscal year 1992, and $45,000,000 for fiscal year 1993.
+"(f)(1) Except as provided in paragraph (2), for the purpose of carrying out this part, there are authorized to be appropriated not to exceed $25,000,000 for fiscal year 1991, $35,000,000 for fiscal year 1992, and $45,000,000 for fiscal year 1993.
 
-“(2) For the purposes of carrying out section 6323(f) of this title, there is authorized to be appropriated for fiscal year 1994 and each fiscal year thereafter such sums as may be necessary, to remain available until expended.”
+"(2) For the purposes of carrying out section 6323(f) of this title, there is authorized to be appropriated for fiscal year 1994 and each fiscal year thereafter such sums as may be necessary, to remain available until expended."
 
-<b>1995</b>—Subsec. (c). Pub. L. 104–66 substituted “, as part of the report required under section 7267 of this title, report” for “report annually” in first sentence.
+<b>1995</b>—Subsec. (c). Pub. L. 104–66 substituted ", as part of the report required under section 7267 of this title, report" for "report annually" in first sentence.
 
-<b>1992</b>—Subsec. (f). Pub. L. 102–486 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), for the purpose” for “For the purpose”, and added par. (2).
+<b>1992</b>—Subsec. (f). Pub. L. 102–486 designated existing provisions as par. (1), substituted "Except as provided in paragraph (2), for the purpose" for "For the purpose", and added par. (2).
 
-<b>1990</b>—Subsec. (f). Pub. L. 101–440, §8(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “There are authorized to be appropriated for carrying out the provisions of this part (other than section 6327 of this title) $50,000,000 for fiscal year 1976,$50,000,000 for fiscal year 1977, $50,000,000 for fiscal year 1978, and $50,000,000 for fiscal year 1979.”
+<b>1990</b>—Subsec. (f). Pub. L. 101–440, §8(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "There are authorized to be appropriated for carrying out the provisions of this part (other than section 6327 of this title) $50,000,000 for fiscal year 1976, $50,000,000 for fiscal year 1977, $50,000,000 for fiscal year 1978, and $50,000,000 for fiscal year 1979."
 
 Subsec. (g). Pub. L. 101–440, §5, added subsec. (g).
 
-<b>1978</b>—Subsecs. (a) to (c), (e). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Subsecs. (a) to (c), (e). Pub. L. 95–619, §691(b)(2), substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 Subsec. (f). Pub. L. 95–619, §621, authorized to be appropriated $50,000,000 for fiscal year 1979.
 
@@ -98,7 +98,7 @@ Subsec. (f). Pub. L. 95–619, §621, authorized to be appropriated $50,000,000 
 
 Subsec. (e). Pub. L. 94–385, §432(d)(2), added subsec. (e).
 
-Subsec. (f). Pub. L. 94–385, §432(d)(1), (3), redesignated former subsec. (d) as (f) and inserted “(other than section 6327 of this title)” after “part”.
+Subsec. (f). Pub. L. 94–385, §432(d)(1), (3), redesignated former subsec. (d) as (f) and inserted "(other than section 6327 of this title)" after "part".
 
 #### Effective Date of 2007 Amendment
 

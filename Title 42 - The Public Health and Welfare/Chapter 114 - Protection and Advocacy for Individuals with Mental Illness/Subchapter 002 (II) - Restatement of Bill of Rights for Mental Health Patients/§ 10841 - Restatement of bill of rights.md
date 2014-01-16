@@ -76,7 +76,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 
 &emsp;(B) Nothing in this section should—
 
-&emsp;&emsp;(i) obligate an individual mental health or health professional to administer treatmentcontrary to such professional's clinical judgment;
+&emsp;&emsp;(i) obligate an individual mental health or health professional to administer treatment contrary to such professional's clinical judgment;
 
 &emsp;&emsp;(ii) prevent any program or facility from discharging any person for whom the provision of appropriate treatment, consistent with the clinical judgment of the mental health professional primarily responsible for such person's treatment, is or has become impossible as a result of such person's refusal to consent to such treatment;
 
@@ -94,7 +94,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 
 &emsp;(D) Each program and facility should post a notice listing and describing, in language and terms appropriate to the ability of the persons to whom such notice is addressed to understand, the rights described in this section of all persons admitted to such program or facility. Each such notice should conform to the format and content for such notices, and should be posted in all appropriate locations.
 
-&emsp;(4)(A) In the case of a person adjudicated by a court of competent jurisdiction as being incompetent to exercise the right to consent to treatment or experimentation described in subparagraph (D) or (E) of paragraph (1), or the right to confidentiality of or access to records described in subparagraph (H) or (I) of such paragraph, or to provide authorization as described in paragraph (3)(C)(iii), such right may be exercised or such authorization may be provided by the individual appointed by such court as such person's guardian or representative for the purpose of exercising such right or such authorization.
+&emsp;(4)(A) In the case of a person adjudicated by a court of competent jurisdiction as being incompetent to exercise the right to consent to treatment or experimentation described in subparagraph (D) or (E) of paragraph (1), or the right to confidentiality of or access to records described in subparagraph (H) or (I) of such paragraph, or to provide authorization as described in paragraph (3)(C)(iii), such right may be exercised or such authorization maybe provided by the individual appointed by such court as such person's guardian or representative for the purpose of exercising such right or such authorization.
 
 &emsp;(B) In the case of a person who lacks capacity to exercise the right to consent to treatment or experimentation under subparagraph (D) or (E) of paragraph (1), or the right to confidentiality of or access to records described in subparagraph (H) or (I) of such paragraph, or to provide authorization as described in paragraph (3)(C)(iii), because such person has not attained an age considered sufficiently advanced under State law to permit the exercise of such right or such authorization to be legally binding, such right may be exercised or such authorization may be provided on behalf of such person by a parent or legal guardian of such person.
 
@@ -108,5 +108,5 @@ The Mental Health Systems Act, referred to in introductory text, is Pub. L. 96�
 
 #### Amendments
 
-<b>1991</b>—Par. (1)(M)(iii). Pub. L. 102–173 substituted “individuals with mental illness” for “mentally ill individuals”.
+<b>1991</b>—Par. (1)(M)(iii). Pub. L. 102–173 substituted "individuals with mental illness" for "mentally ill individuals".
 

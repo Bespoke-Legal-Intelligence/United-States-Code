@@ -12,9 +12,9 @@ Section 743 requires that notice of the order for relief be given to SIPC and to
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–394 substituted “342” for “342(a)”.
+<b>1994</b>—Pub. L. 103–394 substituted "342" for "342(a)".
 
-<b>1986</b>—Pub. L. 99–554, which directed the amendment of this section by striking “(d)”, rather than “(a)”, could not be executed because “(d)” did not appear in text. See 1994 Amendment note above.
+<b>1986</b>—Pub. L. 99–554, which directed the amendment of this section by striking "(d)", rather than "(a)", could not be executed because "(d)" did not appear in text. See 1994 Amendment note above.
 
 #### Effective Date of 1994 Amendment
 

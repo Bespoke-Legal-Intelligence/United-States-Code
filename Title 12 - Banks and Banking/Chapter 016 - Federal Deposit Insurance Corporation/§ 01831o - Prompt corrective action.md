@@ -18,23 +18,23 @@ For purposes of this section:
 
 #### (A) Well capitalized
 
-&emsp;&emsp;An insured depository institution is “well capitalized” if it significantly exceeds the required minimum level for each relevant capital measure.
+&emsp;&emsp;An insured depository institution is "well capitalized" if it significantly exceeds the required minimum level for each relevant capital measure.
 
 #### (B) Adequately capitalized
 
-&emsp;&emsp;An insured depository institution is “adequately capitalized” if it meets the required minimum level for each relevant capital measure.
+&emsp;&emsp;An insured depository institution is "adequately capitalized" if it meets the required minimum level for each relevant capital measure.
 
 #### (C) Undercapitalized
 
-&emsp;&emsp;An insured depository institution is “undercapitalized” if it fails to meet the required minimum level for any relevant capital measure.
+&emsp;&emsp;An insured depository institution is "undercapitalized" if it fails to meet the required minimum level for any relevant capital measure.
 
 #### (D) Significantly undercapitalized
 
-&emsp;&emsp;An insured depository institution is “significantly undercapitalized” if it is significantly below the required minimum level for any relevant capital measure.
+&emsp;&emsp;An insured depository institution is "significantly undercapitalized" if it is significantly below the required minimum level for any relevant capital measure.
 
 #### (E) Critically undercapitalized
 
-&emsp;&emsp;An insured depository institution is “critically undercapitalized” if it fails to meet any level specified under subsection (c)(3)(A) of this section.
+&emsp;&emsp;An insured depository institution is "critically undercapitalized" if it fails to meet any level specified under subsection (c)(3)(A) of this section.
 
 #### (2) Other definitions
 
@@ -42,15 +42,15 @@ For purposes of this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The “average” of an accounting item (such as total assets or tangible equity) during a given period means the sum of that item at the close of business on each business day during that period divided by the total number of business days in that period.
+&emsp;&emsp;&emsp;The "average" of an accounting item (such as total assets or tangible equity) during a given period means the sum of that item at the close of business on each business day during that period divided by the total number of business days in that period.
 
 #### (ii) Agency may permit weekly averaging for certain institutions
 
-&emsp;&emsp;&emsp;In the case of insured depository institutions that have total assets of less than $300,000,000 and normally file reports of condition reflecting weekly (rather than daily) averages of accounting items, the appropriate Federal banking agency may provide that the “average” of an accounting item during a given period means the sum of that item at the close of business on the relevant business day each week during that period divided by the total number of weeks in that period.
+&emsp;&emsp;&emsp;In the case of insured depository institutions that have total assets of less than $300,000,000 and normally file reports of condition reflecting weekly (rather than daily) averages of accounting items, the appropriate Federal banking agency may provide that the "average" of an accounting item during a given period means the sum of that item at the close of business on the relevant business day each week during that period divided by the total number of weeks in that period.
 
 #### (B) Capital distribution
 
-&emsp;&emsp;The term “capital distribution” means—
+&emsp;&emsp;The term "capital distribution" means—
 
 &emsp;&emsp;&emsp;(i) a distribution of cash or other property by any insured depository institution or company to its owners made on account of that ownership, but not including—
 
@@ -64,31 +64,31 @@ For purposes of this section:
 
 #### (C) Capital restoration plan
 
-&emsp;&emsp;The term “capital restoration plan” means a plan submitted under subsection (e)(2) of this section.
+&emsp;&emsp;The term "capital restoration plan" means a plan submitted under subsection (e)(2) of this section.
 
 #### (D) Company
 
-&emsp;&emsp;The term “company” has the same meaning as in section 1841 of this title.
+&emsp;&emsp;The term "company" has the same meaning as in section 1841 of this title.
 
 #### (E) Compensation
 
-&emsp;&emsp;The term “compensation” includes any payment of money or provision of any other thing of value in consideration of employment.
+&emsp;&emsp;The term "compensation" includes any payment of money or provision of any other thing of value in consideration of employment.
 
 #### (F) Relevant capital measure
 
-&emsp;&emsp;The term “relevant capital measure” means the measures described in subsection (c) of this section.
+&emsp;&emsp;The term "relevant capital measure" means the measures described in subsection (c) of this section.
 
 #### (G) Required minimum level
 
-&emsp;&emsp;The term “required minimum level” means, with respect to each relevant capital measure, the minimum acceptable capital level specified by the appropriate Federal banking agency by regulation.
+&emsp;&emsp;The term "required minimum level" means, with respect to each relevant capital measure, the minimum acceptable capital level specified by the appropriate Federal banking agency by regulation.
 
 #### (H) Senior executive officer
 
-&emsp;&emsp;The term “senior executive officer” has the same meaning as the term “executive officer” in section 375b of this title.
+&emsp;&emsp;The term "senior executive officer" has the same meaning as the term "executive officer" in section 375b of this title.
 
 #### (I) Subordinated debt
 
-&emsp;&emsp;The term “subordinated debt” means debt subordinated to the claims of general creditors.
+&emsp;&emsp;The term "subordinated debt" means debt subordinated to the claims of general creditors.
 
 #### (c) Capital standards
 
@@ -368,7 +368,7 @@ For purposes of this section:
 
 &emsp;&emsp;(C) The action described in paragraph (2)(C) (relating to restricting interest rates).
 
-#### (4) Senior executive officers’ compensation restricted
+#### (4) Senior executive officers' compensation restricted
 
 #### (A) In general
 
@@ -532,13 +532,13 @@ Subsections (e) through (i) of this section (other than paragraph (3) of subsect
 
 #### (B) Material loss defined
 
-&emsp;&emsp;The term “material loss” means any estimated loss in excess of—
+&emsp;&emsp;The term "material loss" means any estimated loss in excess of—
 
 &emsp;&emsp;&emsp;(i) $200,000,000, if the loss occurs during the period beginning on January 1, 2010, and ending on December 31, 2011;
 
 &emsp;&emsp;&emsp;(ii) $150,000,000, if the loss occurs during the period beginning on January 1, 2012, and ending on December 31, 2013; and
 
-&emsp;&emsp;&emsp;(iii) $50,000,000, if the loss occurs on or after January 1, 2014, provided that if the inspector general of a Federal banking agency certifies to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that the number of projected failures of depository institutions that would require material loss reviews for the following 12 months will be greater than 30 and would hinder the effectiveness of its oversight functions, then the definition of “material loss” shall be $75,000,000 for a duration of 1 year from the date of the certification.
+&emsp;&emsp;&emsp;(iii) $50,000,000, if the loss occurs on or after January 1, 2014, provided that if the inspector general of a Federal banking agency certifies to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives that the number of projected failures of depository institutions that would require material loss reviews for the following 12 months will be greater than 30 and would hinder the effectiveness of its oversight functions, then the definition of "material loss" shall be $75,000,000 for a duration of 1 year from the date of the certification.
 
 #### (3) Deadline for report
 
@@ -676,75 +676,75 @@ The Securities Exchange Act of 1934, referred to in subsec. (e)(2)(E)(ii)(III), 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (k). Pub. L. 111–203, §987(b), substituted “Reviews” for “Review” and “losses” for “material loss” in heading.
+<b>2010</b>—Subsec. (k). Pub. L. 111–203, §987(b), substituted "Reviews" for "Review" and "losses" for "material loss" in heading.
 
-Subsec. (k)(2)(B). Pub. L. 111–203, §987(a)(1), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “A loss is material if it exceeds the greater of—
+Subsec. (k)(2)(B). Pub. L. 111–203, §987(a)(1), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: "A loss is material if it exceeds the greater of—
 
-&emsp;“(i) $25,000,000; or
+&emsp;"(i) $25,000,000; or
 
-&emsp;“(ii) 2 percent of the institution's total assets at the time the Corporation initiated assistance under section 1823(c) of this title or was appointed receiver.”
+&emsp;"(ii) 2 percent of the institution's total assets at the time the Corporation initiated assistance under section 1823(c) of this title or was appointed receiver."
 
-Subsec. (k)(4)(A). Pub. L. 111–203, §987(a)(2), substituted “any report on losses required under this subsection,” for “the report” in introductory provisions.
+Subsec. (k)(4)(A). Pub. L. 111–203, §987(a)(2), substituted "any report on losses required under this subsection," for "the report" in introductory provisions.
 
 Subsec. (k)(5). Pub. L. 111–203, §987(a)(5), added par. (5). Former par. (5) redesignated (6).
 
 Subsec. (k)(6). Pub. L. 111–203, §987(a)(3), (4), redesignated par. (5) as (6) and struck out former par. (6). Prior to amendment, par. (6) related to transition rule during the period beginning on July 1, 1993, and ending on June 30, 1997.
 
-<b>2008</b>—Subsec. (j)(2). Pub. L. 110–289 substituted “bridge depository institution” for “bridge bank”.
+<b>2008</b>—Subsec. (j)(2). Pub. L. 110–289 substituted "bridge depository institution" for "bridge bank".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–173, §8(a)(37), substituted “Fund” for “funds” in heading.
+<b>2006</b>—Subsec. (a). Pub. L. 109–173, §8(a)(37), substituted "Fund" for "funds" in heading.
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(AA). See 1996 Amendment note below.
 
-Subsec. (a)(1). Pub. L. 109–173, §8(a)(36), substituted “the Deposit Insurance Fund” for “the deposit insurance fund”.
+Subsec. (a)(1). Pub. L. 109–173, §8(a)(36), substituted "the Deposit Insurance Fund" for "the deposit insurance fund".
 
-Subsec. (k)(1). Pub. L. 109–173, §8(a)(38)(A), substituted “the Deposit Insurance Fund” for “a deposit insurance fund” in introductory provisions.
+Subsec. (k)(1). Pub. L. 109–173, §8(a)(38)(A), substituted "the Deposit Insurance Fund" for "a deposit insurance fund" in introductory provisions.
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(BB)(i). See 1996 Amendment note below.
 
-Subsec. (k)(1)(A)(i). Pub. L. 109–173, §8(a)(36), substituted “the Deposit Insurance Fund” for “the deposit insurance fund”.
+Subsec. (k)(1)(A)(i). Pub. L. 109–173, §8(a)(36), substituted "the Deposit Insurance Fund" for "the deposit insurance fund".
 
-Subsec. (k)(2)(A). Pub. L. 109–173, §8(a)(38)(B), substituted “The Deposit Insurance Fund” for “A deposit insurance fund” in introductory provisions.
+Subsec. (k)(2)(A). Pub. L. 109–173, §8(a)(38)(B), substituted "The Deposit Insurance Fund" for "A deposit insurance fund" in introductory provisions.
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(BB)(ii). See 1996 Amendment note below.
 
-Subsec. (k)(2)(A)(ii). Pub. L. 109–173, §8(a)(38)(C), substituted “the outlays of the Deposit Insurance Fund” for “the deposit insurance fund's outlays”.
+Subsec. (k)(2)(A)(ii). Pub. L. 109–173, §8(a)(38)(C), substituted "the outlays of the Deposit Insurance Fund" for "the deposit insurance fund's outlays".
 
-Subsec. (k)(3)(B). Pub. L. 109–173, §8(a)(38)(C), substituted “the outlays of the Deposit Insurance Fund” for “the deposit insurance fund's outlays”.
+Subsec. (k)(3)(B). Pub. L. 109–173, §8(a)(38)(C), substituted "the outlays of the Deposit Insurance Fund" for "the deposit insurance fund's outlays".
 
 Subsec. (o). Pub. L. 109–173, §8(a)(39), struck out heading and text of par. (1) and designation and heading of par. (2), redesignated former subpars. (A) to (C) of par. (2) as pars. (1) to (3), respectively, and former cls. (i) and (ii) of par. (2)(A) as subpars. (A) and (B) of par. (1), respectively, and realigned margins. Prior to amendment, text of par. (1) read as follows:
 
-“(A)
+"(A)
 
 In general.—In implementing this section, the appropriate Federal banking agency (and, to the extent applicable, the Corporation) shall exercise the same care as if the Savings Association Insurance Fund (rather than the Resolution Trust Corporation) bore the cost of resolving the problems of insured savings associations described in clauses (i) and (ii)(II) of section 1441a(b)(3)(A) of this title.
 
-“(B)
+"(B)
 
-Reports.—Subparagraph (A) does not require reports under subsection (k) of this section.”
+Reports.—Subparagraph (A) does not require reports under subsection (k) of this section."
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(14)(CC). See 1996 Amendment note below.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(AA), which directed substitution of “fund” for “funds” in heading, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2704(d)(14)(AA), which directed substitution of "fund" for "funds" in heading, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (k)(1). Pub. L. 104–208, §2704(d)(14)(BB)(i), which directed substitution of “the Deposit Insurance Fund” for “a deposit insurance fund”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (k)(1). Pub. L. 104–208, §2704(d)(14)(BB)(i), which directed substitution of "the Deposit Insurance Fund" for "a deposit insurance fund", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (k)(2)(A). Pub. L. 104–208, §2704(d)(14)(BB)(ii), which directed substitution of “The Deposit Insurance Fund” for “A deposit insurance fund” in introductory provisions and “the outlays of the Deposit Insurance Fund” for “the deposit insurance fund's outlays” in cl. (ii), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+Subsec. (k)(2)(A). Pub. L. 104–208, §2704(d)(14)(BB)(ii), which directed substitution of "The Deposit Insurance Fund" for "A deposit insurance fund" in introductory provisions and "the outlays of the Deposit Insurance Fund" for "the deposit insurance fund's outlays" in cl. (ii), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (k)(5). Pub. L. 104–316 amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The General Accounting Office shall annually—
+Subsec. (k)(5). Pub. L. 104–316 amended heading and text of par. (5) generally. Prior to amendment, text read as follows: "The General Accounting Office shall annually—
 
-&emsp;“(A) review reports made under paragraph (1) and recommend improvements in the supervision of insured depository institutions (including the implementation of this section); and
+&emsp;"(A) review reports made under paragraph (1) and recommend improvements in the supervision of insured depository institutions (including the implementation of this section); and
 
-&emsp;“(B) verify the accuracy of 1 or more of those reports.”
+&emsp;"(B) verify the accuracy of 1 or more of those reports."
 
 Subsec. (o). Pub. L. 104–208, §2704(d)(14)(CC), which directed the amendment of subsec. (o) by striking par. (1) and the par. designation and heading of par. (2), redesignating subpars. (A) to (C) as pars. (1) to (3), respectively, and cls. (i) and (ii) as subpars. (A) and (B), respectively, and realigning margins, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-<b>1994</b>—Subsec. (f)(6). Pub. L. 103–325 substituted “Commission” for “Commisssion”.
+<b>1994</b>—Subsec. (f)(6). Pub. L. 103–325 substituted "Commission" for "Commisssion".
 
-<b>1992</b>—Subsec. (e)(2)(D)(i). Pub. L. 102–550, §1603(d)(1)(A), struck out “and” after semicolon at end.
+<b>1992</b>—Subsec. (e)(2)(D)(i). Pub. L. 102–550, §1603(d)(1)(A), struck out "and" after semicolon at end.
 
-Subsec. (f)(6). Pub. L. 102–550, §1603(d)(1)(B), (D), in heading substituted “other regulators” for “functional regulators” and in text substituted “appropriate regulator” for “functional regulator (as defined in section 1841(s) of this title)”.
+Subsec. (f)(6). Pub. L. 102–550, §1603(d)(1)(B), (D), in heading substituted "other regulators" for "functional regulators" and in text substituted "appropriate regulator" for "functional regulator (as defined in section 1841(s) of this title)".
 
-Subsec. (g)(1)(B). Pub. L. 102–550, §1603(d)(1)(C), substituted “capitalized (but not well capitalized)” for “capitalized”.
+Subsec. (g)(1)(B). Pub. L. 102–550, §1603(d)(1)(C), substituted "capitalized (but not well capitalized)" for "capitalized".
 
 #### Effective Date of 2010 Amendment
 
@@ -770,51 +770,51 @@ Section effective 1 year after Dec. 19, 1991, see section 131(f) of Pub. L. 102�
 
 #### Regulations
 
-Pub. L. 102–242, title I, §131(b), Dec. 19, 1991, 105 Stat. 2266, provided that: “Each appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) (and the Corporation, acting in the Corporation's capacity as insurer of depository institutions under that Act \[12 U.S.C. 1811 et seq.\]) shall, after notice and opportunity for comment, promulgate final regulations under section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831o\] (as added by subsection (a)) not later than 9 months after the date of enactment of this Act \[Dec. 19, 1991\], and those regulations shall become effective not later than 1 year after that date of enactment.”
+Pub. L. 102–242, title I, §131(b), Dec. 19, 1991, 105 Stat. 2266, provided that: "Each appropriate Federal banking agency (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)) (and the Corporation, acting in the Corporation's capacity as insurer of depository institutions under that Act \[12 U.S.C. 1811 et seq.\]) shall, after notice and opportunity for comment, promulgate final regulations under section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831o\] (as added by subsection (a)) not later than 9 months after the date of enactment of this Act \[Dec. 19, 1991\], and those regulations shall become effective not later than 1 year after that date of enactment."
 
 #### Deposit of Insurance Proceeds
 
 Pub. L. 105–18, title V, §50003, June 12, 1997, 111 Stat. 211, provided that:
 
-“(a)
+"(a)
 
 In General.—The appropriate Federal banking agency may, by order, permit an insured depository institution to subtract from the institution's total assets, in calculating compliance with the leverage limit prescribed under section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831o\], an amount not exceeding the qualifying amount attributable to insurance proceeds, if the agency determines that—
 
-&emsp;“(1) the institution—
+&emsp;"(1) the institution—
 
-&emsp;&emsp;“(A) had its principal place of business within an area in which the President, pursuant to section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5170\], has determined, on or after February 28, 1997, that a major disaster exists, or within an area determined to be eligible for disaster relief under other Federal law by reason of damage related to the 1997 flooding of the Red River of the North, the Minnesota River, and the tributaries of such rivers, on the day before the date of any such determination;
+&emsp;&emsp;"(A) had its principal place of business within an area in which the President, pursuant to section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5170\], has determined, on or after February 28, 1997, that a major disaster exists, or within an area determined to be eligible for disaster relief under other Federal law by reason of damage related to the 1997 flooding of the Red River of the North, the Minnesota River, and the tributaries of such rivers, on the day before the date of any such determination;
 
-&emsp;&emsp;“(B) derives more than 60 percent of its total deposits from persons who normally reside within, or whose principal place of business is normally within, areas of intense devastation caused by the major disaster;
+&emsp;&emsp;"(B) derives more than 60 percent of its total deposits from persons who normally reside within, or whose principal place of business is normally within, areas of intense devastation caused by the major disaster;
 
-&emsp;&emsp;“(C) was adequately capitalized (as defined in section 38 of the Federal Deposit Insurance Act) before the major disaster; and
+&emsp;&emsp;"(C) was adequately capitalized (as defined in section 38 of the Federal Deposit Insurance Act) before the major disaster; and
 
-&emsp;&emsp;“(D) has an acceptable plan for managing the increase in its total assets and total deposits; and
+&emsp;&emsp;"(D) has an acceptable plan for managing the increase in its total assets and total deposits; and
 
-&emsp;“(2) the subtraction is consistent with the purpose of section 38 of the Federal Deposit Insurance Act.
+&emsp;"(2) the subtraction is consistent with the purpose of section 38 of the Federal Deposit Insurance Act.
 
-“(b)
+"(b)
 
 Time Limit on Exceptions.—Any exception made under this section shall expire not later than February 28, 1999.
 
-“(c)
+"(c)
 
 Definitions.—For purposes of this section:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Appropriate federal banking agency.—The term ‘appropriate Federal banking agency’ has the same meaning as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].
+Appropriate federal banking agency.—The term 'appropriate Federal banking agency' has the same meaning as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\].
 
-&emsp;“(2)
+&emsp;"(2)
 
-Insured depository institution.—The term ‘insured depository institution’ has the same meaning as in section 3 of the Federal Deposit Insurance Act.
+Insured depository institution.—The term 'insured depository institution' has the same meaning as in section 3 of the Federal Deposit Insurance Act.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Leverage limit.—The term ‘leverage limit’ has the same meaning as in section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831o\].
+Leverage limit.—The term 'leverage limit' has the same meaning as in section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831o\].
 
-&emsp;“(4)
+&emsp;"(4)
 
-Qualifying amount attributable to insurance proceeds.—The term ‘qualifying amount attributable to insurance proceeds’ means the amount (if any) by which the institution's total assets exceed the institution's average total assets during the calendar quarter ending before the date of any determination referred to in subsection (a)(1)(A), because of the deposit of insurance payments or governmental assistance made with respect to damage caused by, or other costs resulting from, the major disaster.”
+Qualifying amount attributable to insurance proceeds.—The term 'qualifying amount attributable to insurance proceeds' means the amount (if any) by which the institution's total assets exceed the institution's average total assets during the calendar quarter ending before the date of any determination referred to in subsection (a)(1)(A), because of the deposit of insurance payments or governmental assistance made with respect to damage caused by, or other costs resulting from, the major disaster."
 
 Similar provisions were contained in the following prior acts:
 
@@ -826,27 +826,27 @@ Pub. L. 102–485, §4, Oct. 23, 1992, 106 Stat. 2772.
 
 Pub. L. 102–242, title I, §131(e), Dec. 19, 1991, 105 Stat. 2267, provided that:
 
-“(1)
+"(1)
 
 Dismissal from office.—Section 38(f)(2)(F)(ii) of the Federal Deposit Insurance Act \[12 U.S.C. 1831o(f)(2)(F)(ii)\] (as added by subsection (a)) shall not apply with respect to—
 
-&emsp;“(A) any director whose current term as a director commenced on or before the date of enactment of this Act \[Dec. 19, 1991\] and has not been extended—
+&emsp;"(A) any director whose current term as a director commenced on or before the date of enactment of this Act \[Dec. 19, 1991\] and has not been extended—
 
-&emsp;&emsp;“(i) after that date of enactment, or
+&emsp;&emsp;"(i) after that date of enactment, or
 
-&emsp;&emsp;“(ii) to evade section 38(f)(2)(F)(ii); or
+&emsp;&emsp;"(ii) to evade section 38(f)(2)(F)(ii); or
 
-&emsp;“(B) any senior executive officer who accepted employment in his or her current position on or before the date of enactment of this Act and whose contract of employment has not been renewed or renegotiated—
+&emsp;"(B) any senior executive officer who accepted employment in his or her current position on or before the date of enactment of this Act and whose contract of employment has not been renewed or renegotiated—
 
-&emsp;&emsp;“(i) after that date of enactment, or
+&emsp;&emsp;"(i) after that date of enactment, or
 
-&emsp;&emsp;“(ii) to evade section 38(f)(2)(F)(ii).
+&emsp;&emsp;"(ii) to evade section 38(f)(2)(F)(ii).
 
-“(2)
+"(2)
 
 Restricting compensation.—Section 38(f)(4) of the Federal Deposit Insurance Act \[12 U.S.C. 1831o(f)(4)\] (as added by subsection (a)) shall not apply with respect to any senior executive officer who accepted employment in his or her current position on or before the date of enactment of this Act \[Dec. 19, 1991\] and whose contract of employment has not been renewed or renegotiated—
 
-&emsp;“(A) after that date of enactment, or
+&emsp;"(A) after that date of enactment, or
 
-&emsp;“(B) to evade section 38(f)(4).”
+&emsp;"(B) to evade section 38(f)(4)."
 

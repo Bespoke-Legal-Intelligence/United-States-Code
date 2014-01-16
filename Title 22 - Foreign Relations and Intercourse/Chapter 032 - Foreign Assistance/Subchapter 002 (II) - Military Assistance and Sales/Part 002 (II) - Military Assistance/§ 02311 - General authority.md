@@ -40,13 +40,13 @@ In addition to such other terms and conditions as the President may determine pu
 
 &emsp;(B) to any defense article or defense service, or portion thereof, acquired with funds appropriated for military assistance under this chapter.
 
-(Pub. L. 87–195, pt. II, §503, Sept. 4, 1961, 75 Stat. 435; Pub. L. 88–633, §201(a), Oct. 7, 1964, 78 Stat. 1011; Pub. L. 89–171, pt. II, §201(a), Sept. 6, 1965, 79 Stat. 656; Pub. L. 90–137, pt. II, §201(b), Nov. 14, 1967, 81 Stat. 455; Pub. L. 93–189, §12(b)(1), Dec. 17, 1973, 87 Stat. 720; Pub. L. 96–533, title I, §112(a), Dec. 16, 1980, 94 Stat. 3138; Pub. L. 97–113, title I, §§109(c), 110(c), Dec. 29, 1981, 95 Stat. 1526; Pub. L. 99–83, title I, §123(a), Aug. 8, 1985, 99 Stat. 205; Pub. L. 100–461, title V, §586(a), Oct. 1, 1988, 102 Stat. 2268–50.)
+(Pub. L. 87–195, pt. II, §503, Sept. 4, 1961, 75 Stat. 435; Pub. L. 88–633, §201(a), Oct. 7, 1964, 78 Stat.1011; Pub. L. 89–171, pt. II, §201(a), Sept. 6, 1965, 79 Stat. 656; Pub. L. 90–137, pt. II, §201(b), Nov. 14, 1967, 81 Stat. 455; Pub. L. 93–189, §12(b)(1), Dec. 17, 1973, 87 Stat. 720; Pub. L. 96–533, title I, §112(a), Dec. 16, 1980, 94 Stat. 3138; Pub. L. 97–113, title I, §§109(c), 110(c), Dec. 29, 1981, 95 Stat. 1526; Pub. L. 99–83, title I, §123(a), Aug. 8, 1985, 99 Stat. 205; Pub. L. 100–461, title V, §586(a), Oct. 1, 1988, 102 Stat. 2268–50.)
 
 #### References in Text
 
 The Arms Export Control Act, referred to in subsec. (a)(3), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-This chapter, referred to in subsec. (c)(2)(B), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (c)(2)(B), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 
@@ -54,11 +54,11 @@ A guaranty provision, formerly subsec. (e) of this section, was renumbered secti
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–461 inserted in last sentence “or from funds made available on a non-repayable basis under section 23 of the Arms Export Control Act” after “under paragraph (3)” and “(other than the Coast Guard)” after “Armed Forces of the United States”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–461 inserted in last sentence "or from funds made available on a non-repayable basis under section 23 of the Arms Export Control Act" after "under paragraph (3)" and "(other than the Coast Guard)" after "Armed Forces of the United States".
 
 <b>1985</b>—Subsec. (a). Pub. L. 99–83 inserted sentence relating to pricing of sales wholly paid from transferred funds.
 
-<b>1981</b>—Subsec. (a)(3). Pub. L. 97–113, §110(c), substituted “country” for “specified in section 2312(a)(1) of this title, within the dollar limitations of that section”.
+<b>1981</b>—Subsec. (a)(3). Pub. L. 97–113, §110(c), substituted "country" for "specified in section 2312(a)(1) of this title, within the dollar limitations of that section".
 
 Subsec. (b)(5). Pub. L. 97–113 substituted provision respecting payment of restoration or replacement costs for defense articles on loan for provision for making such a loan only if arrangements were made with the agency making the loan for reimbursement in the event the article was lost or destroyed while on loan, the reimbursement of which was to be made first out of any funds available to carry out this part and based on the depreciated value of the article at the time of loss or destruction.
 
@@ -66,19 +66,19 @@ Subsec. (b)(5). Pub. L. 97–113 substituted provision respecting payment of res
 
 <b>1973</b>—Pub. L. 93–189 designated existing provisions as subsec. (a), struck out references to making financial contributions to multilateral programs for the acquisition or construction of facilities for collective defense and providing financial assistance for expenses incident to participation by the United States government in regional or collective defense organizations, and added subsecs. (b) and (c).
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–137, §201(b)(1), substituted “or grant” for “, lease, sale, exchange, grant, or any other means”.
+<b>1967</b>—Subsec. (a). Pub. L. 90–137, §201(b)(1), substituted "or grant" for ", lease, sale, exchange, grant, or any other means".
 
-Subsec. (d). Pub. L. 90–137, §201(b)(2), substituted a period for “; and”.
+Subsec. (d). Pub. L. 90–137, §201(b)(2), substituted a period for "; and".
 
 Subsec. (e). Pub. L. 90–137, §201(b)(3), struck out subsec. (e) which related to the guaranty and insuring against political and credit risks in connection with credit sales for defense articles and services procured in the United States. See Codification note above.
 
-<b>1965</b>—Subsec. (b). Pub. L. 89–171 struck out “in foreign countries” after “facilities”.
+<b>1965</b>—Subsec. (b). Pub. L. 89–171 struck out "in foreign countries" after "facilities".
 
 <b>1964</b>—Subsec. (e). Pub. L. 88–633 added subsec. (e).
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–461, title V, §586(c), Oct. 1, 1988, 102 Stat. 2268–50, provided that: “This section \[amending this section\] shall be effective on October 1, 1989.”
+Pub. L. 100–461, title V, §586(c), Oct. 1, 1988, 102 Stat. 2268–50, provided that: "This section \[amending this section\] shall be effective on October 1, 1989."
 
 #### Effective Date of 1985 Amendment
 
@@ -90,11 +90,11 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Reports to Congressional Committees
 
-Pub. L. 100–461, title III, Oct. 1, 1988, 102 Stat. 2268–17 provided in part: “That the Committees on Appropriations shall be furnished on March 1 of each year a complete report of the status of military assistance funds appropriated by this or any future Act committed for the payment of any sales under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] as regards the individual sale, item description, and estimated sales price.”
+Pub. L. 100–461, title III, Oct. 1, 1988, 102 Stat. 2268–17 provided in part: "That the Committees on Appropriations shall be furnished on March 1 of each year a complete report of the status of military assistance funds appropriated by this or any future Act committed for the payment of any sales under the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] as regards the individual sale, item description, and estimated sales price."
 
 #### Findings by Secretary of State
 

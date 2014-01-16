@@ -6,5 +6,5 @@ Notwithstanding any other provision of law, for fiscal year 2006 and each fiscal
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–74 substituted “for fiscal year 2006 and each fiscal year thereafter, for the purpose of adjudicating” for “in fiscal years 2006 through 2010, for the purpose of reducing the backlog of”.
+<b>2011</b>—Pub. L. 112–74 substituted "for fiscal year 2006 and each fiscal year thereafter, for the purpose of adjudicating" for "in fiscal years 2006 through 2010, for the purpose of reducing the backlog of".
 

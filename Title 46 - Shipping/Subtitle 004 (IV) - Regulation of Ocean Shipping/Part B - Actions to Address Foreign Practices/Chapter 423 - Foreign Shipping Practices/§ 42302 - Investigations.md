@@ -42,5 +42,5 @@ Pub. L. 100–418, title X, §10002(b), (c), Aug. 23, 1988, 102 Stat. 1570; Pub.
 
 46 App.:1710a(c)(2).
 
-In subsection (b), the words “including another component of the United States Government” are substituted for “including any common carrier, shipper, shippers’ association, ocean transportation intermediary, or marine terminal operator, or any branch, department, agency, or other component of the Government of the United States” for consistency with section 42101(b) of the revised title and to eliminate unnecessary words.
+In subsection (b), the words "including another component of the United States Government" are substituted for "including any common carrier, shipper, shippers' association, ocean transportation intermediary, or marine terminal operator, or any branch, department, agency, or other component of the Government of the United States" for consistency with section 42101(b) of the revised title and to eliminate unnecessary words.
 

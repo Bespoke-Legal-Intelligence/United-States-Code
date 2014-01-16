@@ -4,7 +4,7 @@ The Board of Governors of the Federal Reserve System may permit or require any F
 
 The Board of Governors of the Federal Reserve System may at any time require any Federal reserve bank to discontinue any branch of such Federal reserve bank established under this section. The Federal reserve bank shall thereupon proceed to wind up the business of such branch bank, subject to such rules and regulations as the Board of Governors of the Federal Reserve System may prescribe.
 
-No Federal Reserve bank shall have authority hereafter to enter into any contract or contracts for the erection of any branch bank building of any kind or character or to authorize the erection of any such building, except with the approval of the Board of Governors of the Federal Reserve System.
+No Federal Reserve bank shall have authority hereafter to enter into any contract or contractsfor the erection of any branch bank building of any kind or character or to authorize the erection of any such building, except with the approval of the Board of Governors of the Federal Reserve System.
 
 (Dec. 23, 1913, ch. 6, §3, 38 Stat. 253; June 21, 1917, ch. 32, §1, 40 Stat. 232; Feb. 25, 1927, ch. 191, §19, 44 Stat. 1234; Aug. 23, 1935, ch. 614, title II, §203(a), 49 Stat. 704; Pub. L. 87–622, §2, Aug. 31, 1962, 76 Stat. 418.)
 

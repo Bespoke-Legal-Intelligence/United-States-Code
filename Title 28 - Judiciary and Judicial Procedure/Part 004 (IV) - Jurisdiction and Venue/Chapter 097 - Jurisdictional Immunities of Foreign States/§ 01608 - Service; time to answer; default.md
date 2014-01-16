@@ -10,7 +10,7 @@
 
 &emsp;(4) if service cannot be made within 30 days under paragraph (3), by sending two copies of the summons and complaint and a notice of suit, together with a translation of each into the official language of the foreign state, by any form of mail requiring a signed receipt, to be addressed and dispatched by the clerk of the court to the Secretary of State in Washington, District of Columbia, to the attention of the Director of Special Consular Services—and the Secretary shall transmit one copy of the papers through diplomatic channels to the foreign state and shall send to the clerk of the court a certified copy of the diplomatic note indicating when the papers were transmitted.
 
-> As used in this subsection, a “notice of suit” shall mean a notice addressed to a foreign state and in a form prescribed by the Secretary of State by regulation.
+> As used in this subsection, a "notice of suit" shall mean a notice addressed to a foreign state and in a form prescribed by the Secretary of State by regulation.
 
 (b) Service in the courts of the United States and of the States shall be made upon an agency or instrumentality of a foreign state:
 
@@ -34,7 +34,7 @@
 
 (d) In any action brought in a court of the United States or of a State, a foreign state, a political subdivision thereof, or an agency or instrumentality of a foreign state shall serve an answer or other responsive pleading to the complaint within sixty days after service has been made under this section.
 
-(e) No judgment by default shall be entered by a court of the United States or of a State against a foreign state, a political subdivision thereof, or an agency or instrumentality of a foreign state, unless the claimant establishes his claim or right to relief by evidence satisfactory to the court. A copy of any such default judgment shall be sent to the foreign state or political subdivision in the manner prescribed for service in this section.
+(e) No judgment by default shall be entered by a court of the United States or of a State against a foreign state, a political subdivision thereof, or an agency or instrumentality of aforeign state, unless the claimant establishes his claim or right to relief by evidence satisfactory to the court. A copy of any such default judgment shall be sent to the foreign state or political subdivision in the manner prescribed for service in this section.
 
 (Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2894.)
 

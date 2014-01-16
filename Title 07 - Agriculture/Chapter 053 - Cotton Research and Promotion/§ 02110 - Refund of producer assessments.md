@@ -12,7 +12,7 @@ The Cotton Research and Promotion Amendments Act of 1990, referred to in subsec.
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–237 inserted “of this chapter” after “any other section” and struck out “of this chapter,” before “any cotton producer”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–237 inserted "of this chapter" after "any other section" and struck out "of this chapter," before "any cotton producer".
 
-<b>1990</b>—Pub. L. 101–624 designated existing provisions as subsec. (a), substituted “Notwithstanding any other section and except as provided in subsection (b) of this section,” for “Notwithstanding any other provision”, and added subsec. (b).
+<b>1990</b>—Pub. L. 101–624 designated existing provisions as subsec. (a), substituted "Notwithstanding any other section and except as provided in subsection (b) of this section," for "Notwithstanding any other provision", and added subsec. (b).
 

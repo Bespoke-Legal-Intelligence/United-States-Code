@@ -2,7 +2,7 @@
 
 #### (a) Authority of National Center for the Prevention and Control of Sex Offenses; functions
 
-The Secretary, acting through the National Center for the Prevention and Control of Sex Offenses (hereafter in this section referred to as the “Center”), may, directly or by grant, carry out the following:
+The Secretary, acting through the National Center for the Prevention and Control of Sex Offenses (hereafter in this section referred to as the "Center"), may, directly or by grant, carry out the following:
 
 &emsp;(1) A continuing study of sex offenses, including a study and investigation of—
 
@@ -24,7 +24,7 @@ The Secretary, acting through the National Center for the Prevention and Control
 
 &emsp;&emsp;(G) the estimated actual incidence of forcible sex offenses as compared to the reported incidence of forcible sex offenses and the reasons for any difference between the two; and
 
-&emsp;&emsp;(H) the effectiveness of existing private and local and State government educational, counseling, and other programs designed to prevent and control sex offenses.
+&emsp;&emsp;(H) the effectiveness of existing private and local and State government educational,counseling, and other programs designed to prevent and control sex offenses.
 
 &emsp;(2) The compilation, analysis, and publication of summaries of the continuing study conducted under paragraph (1) and the research and demonstration projects conducted under paragraph (5). The Secretary shall submit not later than March 30, 1983, to the Congress a summary of such study and projects together with a review of their effectiveness and recommendations where appropriate.
 
@@ -46,27 +46,27 @@ The Secretary shall appoint an advisory committee to advise, consult with, and m
 
 #### (c) Submission and approval of application; form, manner and contents
 
-No grant may be made under subsection (a) of this section unless an application therefor is submitted to and approved by the Secretary.The application shall be submitted in such form and manner and contain such information as the Secretary may prescribe.
+No grant may be made under subsection (a) of this section unless an application therefor is submitted to and approved by the Secretary. The application shall be submitted in such form and manner and contain such information as the Secretary may prescribe.
 
 #### (d) Authorization of appropriations
 
 For the purpose of carrying out subsection (a) of this section, there are authorized to be appropriated $6,000,000 for the fiscal year ending September 30, 1981, $1,500,000 for the fiscal year ending September 30, 1982, $1,500,000 for the fiscal year ending September 30, 1983.
 
-#### (e) “Sex offense” defined
+#### (e) "Sex offense" defined
 
-For purposes of subsection (a) of this section, the term “sex offense” includes statutory and attempted rape and any other criminal sexual assault (whether homosexual or heterosexual) which involves force or the threat of force.
+For purposes of subsection (a) of this section, the term "sex offense" includes statutory and attempted rape and any other criminal sexual assault (whether homosexual or heterosexual) which involves force or the threat of force.
 
 (Pub. L. 96–398, title VI, §601(a)–(e), Oct. 7, 1980, 94 Stat. 1602, 1603; Pub. L. 97–35, title IX, §902(f)(20), Aug. 13, 1981, 95 Stat. 560; Pub. L. 99–646, §87(d)(3)–(7), Nov. 10, 1986, 100 Stat. 3624; Pub. L. 99–654, §3(b)(3)–(7), Nov. 14, 1986, 100 Stat. 3663, 3664.)
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–646, §87(d)(3), and Pub. L. 99–654, §3(b)(3), amended section catchline identically, substituting “sex offense” for “rape”.
+<b>1986</b>—Pub. L. 99–646, §87(d)(3), and Pub. L. 99–654, §3(b)(3), amended section catchline identically, substituting "sex offense" for "rape".
 
-Subsec. (a). Pub. L. 99–646, §87(d)(4)–(6), and Pub. L. 99–654, §3(b)(4)–(6), in amending subsec. (a) identically, in introductory provision substituted “Sex Offenses” for “Rape”, in par. (1) and in subpars. (A), (C), (D), (G), and (H) of par. (1) substituted “sex offenses” for “rape” wherever appearing, in par. (1)(B) substituted “sex offenses” for “the act of rape”, in par. (1)(E) substituted “a sex offense” for “rape”, and in par. (3)(A) and (B) substituted “sex offenses” for “rape”.
+Subsec. (a). Pub. L. 99–646, §87(d)(4)–(6), and Pub. L. 99–654, §3(b)(4)–(6), in amending subsec. (a) identically, in introductory provision substituted "Sex Offenses" for "Rape", in par. (1) and in subpars. (A), (C), (D), (G), and (H) of par. (1) substituted "sex offenses" for "rape" wherever appearing, in par. (1)(B) substituted "sex offenses" for "the act of rape", in par. (1)(E) substituted "a sex offense" for "rape", and in par. (3)(A) and (B) substituted "sex offenses" for "rape".
 
-Subsec. (e). Pub. L. 99–646, §87(d)(7), and Pub. L. 99–654, §3(b)(7), amended subsec. (e) identically, substituting “the term ‘sex offense’ ” for “the term ‘rape’ ”.
+Subsec. (e). Pub. L. 99–646, §87(d)(7), and Pub. L. 99–654, §3(b)(7), amended subsec. (e) identically, substituting "the term 'sex offense' " for "the term 'rape' ".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35 in par. (5) struck out “community mental health centers and other” after “Assistance to”, and struck out par. (6) which related to provision of consultation and education services.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 in par. (5) struck out "community mental health centers and other" after "Assistance to", and struck out par. (6) which related to provision of consultation and education services.
 
 #### Effective Date of 1986 Amendments
 
@@ -82,5 +82,5 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

@@ -8,7 +8,7 @@
 
 #### (2) On the management
 
-&emsp;In any case in which a tax is imposed by paragraph (1), there is hereby imposed on the participation of any foundation manager in the making of the investment, knowing that it is jeopardizing the carrying out of any of the foundation's exempt purposes, a tax equal to 10 percent of the amount so invested for each year (or part thereof) in the taxable period, unless such participation is not willful and is due to reasonable cause. The tax imposed bythis paragraph shall be paid by any foundation manager who participated in the making of the investment.
+&emsp;In any case in which a tax is imposed by paragraph (1), there is hereby imposed on the participation of any foundation manager in the making of the investment, knowing that it is jeopardizing the carrying out of any of the foundation's exempt purposes, a tax equal to 10 percent of the amount so invested for each year (or part thereof) in the taxable period, unless such participation is not willful and is due to reasonable cause. The tax imposed by this paragraph shall be paid by any foundation manager who participated in the making of the investment.
 
 #### (b) Additional taxes
 
@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (1) Taxable period
 
-&emsp;The term “taxable period” means, with respect to any investment which jeopardizes the carrying out of exempt purposes, the period beginning with the date on which the amount is so invested and ending on the earliest of—
+&emsp;The term "taxable period" means, with respect to any investment which jeopardizes the carrying out of exempt purposes, the period beginning with the date on which the amount is so invested and ending on the earliest of—
 
 &emsp;&emsp;(A) the date of mailing of a notice of deficiency with respect to the tax imposed by subsection (a)(1) under section 6212,
 
@@ -62,17 +62,17 @@ Section 1212(d) of Pub. L. 109–280, which directed the amendment of section 49
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–280, §1212(d)(1), substituted “10 percent” for “5 percent” in pars. (1) and (2). See Codification note above.
+<b>2006</b>—Subsec. (a). Pub. L. 109–280, §1212(d)(1), substituted "10 percent" for "5 percent" in pars. (1) and (2). See Codification note above.
 
-Subsec. (d)(2). Pub. L. 109–280, §1212(d)(2), substituted “$10,000,” for “$5,000,” and “$20,000.” for “$10,000.” See Codification note above.
+Subsec. (d)(2). Pub. L. 109–280, §1212(d)(2), substituted "$10,000," for "$5,000," and "$20,000." for "$10,000." See Codification note above.
 
-<b>1980</b>—Subsec. (b)(1). Pub. L. 96–596, §2(a)(1)(E), substituted “taxable period” for “correction period”.
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–596, §2(a)(1)(E), substituted "taxable period" for "correction period".
 
 Subsec. (e)(1)(B), (C). Pub. L. 96–596, §2(a)(2)(D), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 Subsec. (e)(3). Pub. L. 96–596, §2(a)(3)(D), struck out par. (3), which defined correction period, with respect to any investment which jeopardizes the carrying out of exempt purposes, as the period beginning with the date on which such investment is entered into and ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b)(1) of this section under section 6212 of this title, extended by any period in which a deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to bring about removal from jeopardy.
 
-<b>1976</b>—Subsec. (e)(3)(B). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (e)(3)(B). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 2006 Amendment
 

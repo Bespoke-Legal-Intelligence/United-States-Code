@@ -10,5 +10,5 @@ Whenever the Attorney General has reasonable cause to believe that a violation o
 
 (Pub. L. 103–322, title XXI, §210401, Sept. 13, 1994, 108 Stat. 2071.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection (a) of this section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection (a) of this section".</i>
 

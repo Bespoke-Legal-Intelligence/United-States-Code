@@ -6,7 +6,7 @@
 | :--- | ---: |
 | [181\.](Subchapter%20001%20%28I%29%20-%20General%20Definitions/%C2%A7%2000181%20-%20Short%20title.md) | Short title. |
 | [182\.](Subchapter%20001%20%28I%29%20-%20General%20Definitions/%C2%A7%2000182%20-%20Definitions.md) | Definitions. |
-| [183\.](Subchapter%20001%20%28I%29%20-%20General%20Definitions/%C2%A7%2000183%20-%20When%20transaction%20deemed%20in%20commerce%3B%20%E2%80%9CState%E2%80%9D%20defined.md) | When transaction deemed in commerce; “State” defined. |
+| [183\.](Subchapter%20001%20%28I%29%20-%20General%20Definitions/%C2%A7%2000183%20-%20When%20transaction%20deemed%20in%20commerce%3B%20State%20defined.md) | When transaction deemed in commerce; "State" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -16,7 +16,7 @@
 
 |  |  |
 | :--- | ---: |
-| [191\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000191%20-%20%E2%80%9CPacker%E2%80%9D%20defined.md) | “Packer” defined. |
+| [191\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000191%20-%20Packer%20defined.md) | "Packer" defined. |
 | [192\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000192%20-%20Unlawful%20practices%20enumerated.md) | Unlawful practices enumerated. |
 | [193\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000193%20-%20Procedure%20before%20Secretary%20for%20violations.md) | Procedure before Secretary for violations. |
 | [194\.](Subchapter%20002%20%28II%29%20-%20Packers%20Generally/Part%20A%20-%20General%20Provisions/%C2%A7%2000194%20-%20Conclusiveness%20of%20order%3B%20appeal%20and%20review.md) | Conclusiveness of order; appeal and review. |
@@ -43,8 +43,8 @@
 
 |  |  |
 | :--- | ---: |
-| [201\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000201%20-%20%E2%80%9CStockyard%20owner%E2%80%9D%3B%20%E2%80%9Cstockyard%20services%E2%80%9D%3B%20%E2%80%9Cmarket%20agency%E2%80%9D%3B%20%E2%80%9Cdealer%E2%80%9D%3B%20defined.md) | “Stockyard owner”; “stockyard services”; “market agency”; “dealer”; defined. |
-| [202\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000202%20-%20%E2%80%9CStockyard%E2%80%9D%20defined%3B%20determination%20by%20Secretary%20as%20to%20particular%20yard.md) | “Stockyard” defined; determination by Secretary as to particular yard. |
+| [201\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000201%20-%20Stockyard%20owner%3B%20stockyard%20services%3B%20market%20agency%3B%20dealer%3B%20defined.md) | "Stockyard owner"; "stockyard services"; "market agency"; "dealer"; defined. |
+| [202\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000202%20-%20Stockyard%20defined%3B%20determination%20by%20Secretary%20as%20to%20particular%20yard.md) | "Stockyard" defined; determination by Secretary as to particular yard. |
 | [203\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000203%20-%20Activity%20as%20stockyard%20dealer%20or%20market%20agency%3B%20benefits%20to%20business%20and%20welfare%20of%20stockyard%3B%20registration%3B%20penalty%20for%20failure%20to%20register.md) | Activity as stockyard dealer or market agency; benefits to business and welfare of stockyard; registration; penalty for failure to register. |
 | [204\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000204%20-%20Bond%20and%20suspension%20of%20registrants.md) | Bond and suspension of registrants. |
 | [205\.](Subchapter%20003%20%28III%29%20-%20Stockyards%20and%20Stockyard%20Dealers/%C2%A7%2000205%20-%20General%20duty%20as%20to%20services%3B%20revocation%20of%20registration.md) | General duty as to services; revocation of registration. |
@@ -92,7 +92,7 @@
 | 228b–4. | Violation of final order by live poultry dealer; penalty. |
 | [228c.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000228c%20-%20Federal%20preemption%20of%20State%20and%20local%20requirements.md) | Federal preemption of State and local requirements. |
 | [228d.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000228d%20-%20Annual%20assessment%20of%20cattle%20and%20hog%20industries.md) | Annual assessment of cattle and hog industries. |
-| [229\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229%20-%20Annual%20report.md) | Annual report. |
+| [229\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229%20-%20Repealed.%20Pub.%20L.%20110%E2%80%93234%2C%20title%20XI%2C%2011004%28b%29%2C%20May%2022%2C%202008%2C%20122%20Stat.%201356%2C%20and%20Pub.%20L.%20110%E2%80%93246%2C%20%C2%A74%28a%29%2C%20title%20XI%2C%20%C2%A711004%28b%29%2C%20June%E2%80%A6.md) | Repealed. |
 | [229a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229a%20-%20Repealed.%20Pub.%20L.%20106%E2%80%9378%2C%20title%20IX%2C%20%C2%A7913%28a%29%2C%20Oct.%2022%2C%201999%2C%20113%20Stat.%201205.md) | Repealed. |
 | [229b.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229b%20-%20Right%20to%20discuss%20terms%20of%20contract.md) | Right to discuss terms of contract. |
 | [229c.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2000229c%20-%20Separability.md) | Separability. |

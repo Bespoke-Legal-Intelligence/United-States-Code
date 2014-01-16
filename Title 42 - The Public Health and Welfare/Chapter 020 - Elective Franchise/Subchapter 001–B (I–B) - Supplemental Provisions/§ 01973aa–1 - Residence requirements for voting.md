@@ -22,11 +22,11 @@ Upon the basis of these findings, Congress declares that in order to secure and 
 
 #### (c) Prohibition of denial of right to vote because of durational residency requirement or absentee balloting
 
-No citizen of the United States who is otherwise qualified to vote in any election for President and Vice President shall be denied the right to vote for electors for President and Vice President, or for President and Vice President, in such election because of the failure of such citizen to comply with any durational residency requirement of such State or political subdivision; nor shall any citizen of the United States be denied the right to vote for electors for President and Vice President, or for President and Vice President, in such election because of the failure of such citizen to be physically present in such State or political subdivision at the time of such election, if such citizen shall have complied with the requirements prescribed by the law of such State or political subdivision providing for the casting of absentee ballots in such election.
+No citizen of the United States who is otherwise qualified to vote in any election for President and Vice President shall be denied the right to vote for electors for President and Vice President, or for President and Vice President, in such election because of the failure of such citizen to comply with any durational residency requirement of such State or political subdivision; nor shall any citizen of the United States be denied the right to vote for electors for President and Vice President, or for President and Vice President, in such election because of the failure of such citizen to be physically present in such State or political subdivision at the time of such election, if such citizen shall have complied with the requirements prescribed bythe law of such State or political subdivision providing for the casting of absentee ballots in such election.
 
 #### (d) Registration: time for application; absentee balloting: time of application and return of ballots
 
-For the purposes of this section, each State shall provide by law for the registration or other means of qualification of all duly qualified residents of such State who apply, not later than thirty days immediately prior to any presidential election, for registration or qualificationto vote for the choice of electors for President and Vice President or for President and Vice President in such election; and each State shall provide by law for the casting of absentee ballots for the choice of electors for President and Vice President, or for President and Vice President, by all duly qualified residents of such State who may be absent from their election district or unit in such State on the day such election is held and who have applied therefor not later than seven days immediately prior to such election and have returned such ballots to the appropriate election official of such State not later than the time of closing of the polls in such State on the day of such election.
+For the purposes of this section, each State shall provide by law for the registration or other means of qualification of all duly qualified residents of such State who apply, not later than thirty days immediately prior to any presidential election, for registration or qualification to vote for the choice of electors for President and Vice President or for President and Vice President in such election; and each State shall provide by law for the casting of absentee ballots for the choice of electors for President and Vice President, or for President and Vice President, by all duly qualified residents of such State who may be absent from their election district or unit in such State on the day such election is held and who have applied therefor not later than seven days immediately prior to such election and have returned such ballots to the appropriate election official of such State not later than the time of closing of the polls in such State on the day of such election.
 
 #### (e) Change of residence; voting in person or by absentee ballot in State of prior residence
 
@@ -40,9 +40,9 @@ No citizen of the United States who is otherwise qualified to vote by absentee b
 
 Nothing in this section shall prevent any State or political subdivision from adopting less restrictive voting practices than those that are prescribed herein.
 
-#### (h) “State” defined
+#### (h) "State" defined
 
-The term “State” as used in this section includes each of the several States and the District of Columbia.
+The term "State" as used in this section includes each of the several States and the District of Columbia.
 
 #### (i) False registration, and other fraudulent acts and conspiracies: application of penalty for false information in registering or voting
 

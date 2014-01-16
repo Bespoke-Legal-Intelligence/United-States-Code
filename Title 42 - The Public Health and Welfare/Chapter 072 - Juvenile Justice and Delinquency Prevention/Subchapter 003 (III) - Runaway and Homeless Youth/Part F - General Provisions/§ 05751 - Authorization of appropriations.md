@@ -34,49 +34,49 @@
 
 No funds appropriated to carry out this subchapter may be combined with funds appropriated under any other Act if the purpose of combining such funds is to make a single discretionary grant, or a single discretionary payment, unless such funds are separately identified in all grants and contracts and are used for the purposes specified in this subchapter.
 
-(Pub. L. 93–415, title III, §388, formerly §331, Sept. 7, 1974, 88 Stat. 1132; Pub. L. 94–273, §32(c), Apr. 21, 1976, 90 Stat. 380; renumbered §341 and amended Pub. L. 95–115, §7(c), (d), Oct. 3, 1977, 91 Stat. 1059, 1060; Pub. L. 96–509, §2(b), Dec. 8, 1980, 94 Stat. 2750; renumbered §331 and amended Pub. L. 98–473, title II, §657(a)–(d), (f), Oct. 12, 1984, 98 Stat. 2124, 2125; renumbered §366 and amended Pub. L. 100–690, title VII, §§7273(d), (e)(2), 7280, Nov. 18, 1988, 102 Stat. 4455, 4459; Pub. L. 101–204, title X, §§1001(e)(2), 1003(3), Dec. 7, 1989, 103 Stat. 1827; renumbered §385 and amended Pub. L. 102–586, §3(g)(1)(A)(ii), (i), Nov. 4, 1992, 106 Stat. 5022, 5026; renumbered §388 and amended Pub. L. 106–71, §3(m), (n)(2), Oct. 12, 1999, 113 Stat. 1040, 1041; Pub. L. 108–96, title I, §117, Oct. 10, 2003, 117 Stat. 1170; Pub. L. 110–378, §11, Oct. 8, 2008, 122 Stat. 4073.)
+(Pub. L. 93–415, title III, §388, formerly §331, Sept. 7, 1974, 88 Stat. 1132; Pub. L. 94–273, §32(c), Apr. 21, 1976, 90 Stat. 380; renumbered §341 and amended Pub. L. 95–115, §7(c), (d), Oct. 3, 1977, 91 Stat. 1059, 1060; Pub. L. 96–509, §2(b), Dec. 8, 1980,94 Stat. 2750; renumbered §331 and amended Pub. L. 98–473, title II, §657(a)–(d), (f), Oct. 12, 1984, 98 Stat. 2124, 2125; renumbered §366 and amended Pub. L. 100–690, title VII, §§7273(d), (e)(2), 7280, Nov. 18, 1988, 102 Stat. 4455, 4459; Pub. L. 101–204, title X, §§1001(e)(2), 1003(3), Dec. 7, 1989, 103 Stat. 1827; renumbered §385 and amended Pub. L. 102–586, §3(g)(1)(A)(ii), (i), Nov. 4, 1992, 106 Stat. 5022, 5026; renumbered §388 and amended Pub. L. 106–71, §3(m), (n)(2), Oct. 12, 1999, 113 Stat. 1040, 1041; Pub. L. 108–96, title I, §117, Oct. 10, 2003, 117 Stat. 1170; Pub. L. 110–378, §11, Oct. 8, 2008, 122 Stat. 4073.)
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–378, §11(1), substituted “are authorized” for “is authorized”, “section 5714–25 of this title and part E) $140,000,000 for fiscal year 2009” for “part E of this subchapter) $105,000,000 for fiscal year 2004”, and “2010, 2011, 2012, and 2013” for “2005, 2006, 2007, and 2008”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–378, §11(1), substituted "are authorized" for "is authorized", "section 5714–25 of this title and part E) $140,000,000 for fiscal year 2009" for "part E of this subchapter) $105,000,000 for fiscal year 2004", and "2010, 2011, 2012, and 2013" for "2005, 2006, 2007, and 2008".
 
-Subsec. (a)(3). Pub. L. 110–378, §11(2), designated existing provisions as subpar. (A), inserted heading, inserted “(other than section 5714–25 of this title)” before period, and added subpar. (B).
+Subsec. (a)(3). Pub. L. 110–378, §11(2), designated existing provisions as subpar. (A), inserted heading, inserted "(other than section 5714–25 of this title)" before period, and added subpar. (B).
 
-Subsec. (a)(4). Pub. L. 110–378, §11(3), substituted “are authorized” for “is authorized” and “$25,000,000 for fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013” for “such sums as may be necessary for fiscal years 2004, 2005, 2006, 2007, and 2008”.
+Subsec. (a)(4). Pub. L. 110–378, §11(3), substituted "are authorized" for "is authorized" and "$25,000,000 for fiscal year 2009 and such sums as may be necessary for fiscal years 2010, 2011, 2012, and 2013" for "such sums as may be necessary for fiscal years 2004, 2005, 2006, 2007, and 2008".
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–96, §117(a), substituted “$105,000,000 for fiscal year 2004, and such sums as may be necessary for fiscal years 2005, 2006, 2007, and 2008” for “such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–96, §117(a), substituted "$105,000,000 for fiscal year 2004, and such sums as may be necessary for fiscal years 2005, 2006, 2007, and 2008" for "such sums as may be necessary for fiscal years 2000, 2001, 2002, and 2003".
 
-Subsec. (a)(2)(B). Pub. L. 108–96, §117(c), substituted “45 percent and, in those fiscal years in which continuation grant obligations and the quality and number of applicants for parts A and B of this subchapter warrant not more than 55 percent” for “not less than 20 percent, and not more than 30 percent”.
+Subsec. (a)(2)(B). Pub. L. 108–96, §117(c), substituted "45 percent and, in those fiscal years in which continuation grant obligations and the quality and number of applicants for parts A and B of this subchapter warrant not more than 55 percent" for "not less than 20 percent, and not more than 30 percent".
 
-Subsec. (a)(4). Pub. L. 108–96, §117(b), substituted “2004, 2005, 2006, 2007, and 2008” for “2000, 2001, 2002, and 2003”.
+Subsec. (a)(4). Pub. L. 108–96, §117(b), substituted "2004, 2005, 2006, 2007, and 2008" for "2000, 2001, 2002, and 2003".
 
 <b>1999</b>—Pub. L. 106–71, §3(m), amended section catchline and text generally, substituting provisions relating to appropriations for fiscal years 2000 to 2003 for provisions relating to appropriations for fiscal years 1993 to 1996.
 
 Subsec. (a)(4). Pub. L. 106–71, §3(n)(2), added par. (4).
 
-<b>1992</b>—Pub. L. 102–586, §3(i), which directed the amendment of section “366 of the Juvenile Justice and Delinquency Act of 1974 (42 U.S.C. 5751)”, was executed to this section, which is section 385 of the Juvenile Justice and Delinquency Prevention Act of 1974 (Pub. L. 93–415), to reflect the probable intent of Congress and the intervening renumbering of section 366 of Pub. L. 93–415 as section 385 by section 3(g)(1)(A)(ii) of Pub. L. 102–586. See notes below.
+<b>1992</b>—Pub. L. 102–586, §3(i), which directed the amendment of section "366 of the Juvenile Justice and Delinquency Act of 1974 (42 U.S.C. 5751)", was executed to this section, which is section 385 of the Juvenile Justice and Delinquency Prevention Act of 1974 (Pub. L. 93–415), to reflect the probable intent of Congress and the intervening renumbering of section 366 of Pub. L. 93–415 as section 385 by section 3(g)(1)(A)(ii) of Pub. L. 102–586. See notes below.
 
-Subsec. (a)(1). Pub. L. 102–586, §3(i)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “To carry out the purposes of part A of this subchapter there are authorized to be appropriated such sums as may be necessary for fiscal years 1989, 1990, 1991, and 1992.”
+Subsec. (a)(1). Pub. L. 102–586, §3(i)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "To carry out the purposes of part A of this subchapter there are authorized to be appropriated such sums as may be necessary for fiscal years 1989, 1990, 1991, and 1992."
 
 Subsec. (a)(3) to (5). Pub. L. 102–586, §3(i)(1)(B), added pars. (3) to (5).
 
-Subsec. (b)(1). Pub. L. 102–586, §3(i)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subject to paragraph (2), to carry out the purposes of part B of this subchapter, there are authorized to be appropriated $5,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, and 1992.”
+Subsec. (b)(1). Pub. L. 102–586, §3(i)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Subject to paragraph (2), to carry out the purposes of part B of this subchapter, there are authorized to be appropriated $5,000,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, and 1992."
 
 Subsecs. (c) to (e). Pub. L. 102–586, §3(i)(3), (4), added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–204, §1001(e)(2), amended directory language of Pub. L. 100–690, §7280(2), see 1988 Amendment note below.
 
-Subsec. (a)(1). Pub. L. 101–204, §1003(3), substituted “are authorized” for “is authorized”.
+Subsec. (a)(1). Pub. L. 101–204, §1003(3), substituted "are authorized" for "is authorized".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–690, §7280, as amended by Pub. L. 101–204, §1001(e)(2), designated existing provisions as par. (1), struck out “1985, 1986, 1987, and 1988” after “fiscal years”, inserted “1989, 1990, 1991, and 1992”, and added par. (2).
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §7280, as amended by Pub. L. 101–204, §1001(e)(2), designated existing provisions as par. (1), struck out "1985, 1986, 1987, and 1988" after "fiscal years", inserted "1989, 1990, 1991, and 1992", and added par. (2).
 
 Subsecs. (b) to (d). Pub. L. 100–690, §7273(d), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 <b>1984</b>—Pub. L. 98–473, §657(a), amended section catchline.
 
-Subsec. (a). Pub. L. 98–473, §657(b), substituted “such sums as may be necessary for fiscal years 1985, 1986, 1987, and 1988” for “for each of the fiscal years ending September 30, 1981, September 30, 1982, September 30, 1983, and September 30, 1984 the sum of $25,000,000”.
+Subsec. (a). Pub. L. 98–473, §657(b), substituted "such sums as may be necessary for fiscal years 1985, 1986, 1987, and 1988" for "for each of the fiscal years ending September 30, 1981, September 30, 1982, September 30, 1983, and September 30, 1984 the sum of $25,000,000".
 
-Subsec. (b). Pub. L. 98–473, §657(c), struck out “Associate” before “Administrator”.
+Subsec. (b). Pub. L. 98–473, §657(c), struck out "Associate" before "Administrator".
 
 Subsec. (c). Pub. L. 98–473, §657(d), added subsec. (c).
 
@@ -86,7 +86,7 @@ Subsec. (c). Pub. L. 98–473, §657(d), added subsec. (c).
 
 Subsec. (b). Pub. L. 95–115, §7(d)(2), substituted provisions relating to consultative and coordinating requirements for funded programs and activities, for provisions relating to authorization for funding surveys under part B of this subchapter.
 
-<b>1976</b>—Pub. L. 94–273 substituted “June 30, 1975, and 1976, and September 30, 1977” for “June 30, 1975, 1976, and 1977”.
+<b>1976</b>—Pub. L. 94–273 substituted "June 30, 1975, and 1976, and September 30, 1977" for "June 30, 1975, 1976, and 1977".
 
 #### Effective Date of 1988 Amendment
 

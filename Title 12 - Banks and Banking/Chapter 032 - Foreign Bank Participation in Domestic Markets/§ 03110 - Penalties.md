@@ -18,9 +18,9 @@
 
 &emsp;All penalties collected under authority of this section shall be deposited into the Treasury.
 
-#### (5) “Violate” defined
+#### (5) "Violate" defined
 
-&emsp;For purposes of this section, the term “violate” includes taking any action (alone or with others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+&emsp;For purposes of this section, the term "violate" includes taking any action (alone or with others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
 #### (6) Regulations
 
@@ -72,5 +72,5 @@ The resignation, termination of employment or participation, or separation of an
 
 #### References in Text
 
-For definition of “this chapter”, referred to in subsecs. (a)(1) and (c)(1)(A)(i), (2)(A), see References in Text note set out under section 3101 of this title.
+For definition of "this chapter", referred to in subsecs. (a)(1) and (c)(1)(A)(i), (2)(A), see References in Text note set out under section 3101 of this title.
 

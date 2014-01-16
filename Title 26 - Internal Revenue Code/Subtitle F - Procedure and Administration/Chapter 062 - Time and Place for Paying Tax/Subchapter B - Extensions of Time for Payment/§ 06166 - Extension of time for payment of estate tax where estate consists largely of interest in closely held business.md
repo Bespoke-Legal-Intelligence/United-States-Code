@@ -16,13 +16,13 @@
 
 #### (3) Date for payment of installments
 
-&emsp;If an election is made under paragraph (1), the first installment shall be paid on or before the date selected by the executor which is not more than 5 years after the date prescribed by section 6151(a) for payment of the tax, and each succeeding installment shall be paid on or before the date which is 1 year after the date prescribed by this paragraph for payment of the preceding installment.
+&emsp;If an election is made under paragraph (1), the first installment shall be paid on or before the date selected by the executor which is notmore than 5 years after the date prescribed by section 6151(a) for payment of the tax, and each succeeding installment shall be paid on or before the date which is 1 year after the date prescribed by this paragraph for payment of the preceding installment.
 
 #### (b) Definitions and special rules
 
 #### (1) Interest in closely held business
 
-&emsp;For purposes of this section, the term “interest in a closely held business” means—
+&emsp;For purposes of this section, the term "interest in a closely held business" means—
 
 &emsp;&emsp;(A) an interest as a proprietor in a trade or business carried on as a proprietorship;
 
@@ -66,7 +66,7 @@
 
 #### (3) Farmhouses and certain other structures taken into account
 
-&emsp;For purposes of the 35-percent requirement of subsection (a)(1), an interest in a closelyheld business which is the business of farming includes an interest in residential buildings and related improvements on the farm which are occupied on a regular basis by the owner or lessee of the farm or by persons employed by such owner or lessee for purposes of operating or maintaining the farm.
+&emsp;For purposes of the 35-percent requirement of subsection (a)(1), an interest in a closely held business which is the business of farming includes an interest in residential buildings and related improvements on the farm which are occupied on a regular basis by the owner or lessee of the farm or by persons employed by such owner or lessee for purposes of operating or maintaining the farm.
 
 #### (4) Value
 
@@ -74,11 +74,11 @@
 
 #### (5) Closely held business amount
 
-&emsp;For purposes of this section, the term “closely held business amount” means the value of the interest in a closely held business which qualifies under subsection (a)(1).
+&emsp;For purposes of this section, the term "closely held business amount" means the value of the interest in a closely held business which qualifies under subsection (a)(1).
 
 #### (6) Adjusted gross estate
 
-&emsp;For purposes of this section, the term, “adjusted gross estate” means the value of the gross estate reduced by the sum of the amounts allowable as a deduction under section 2053 or 2054. Such sum shall be determined on the basis of the facts and circumstances in existence on the date (including extensions) for filing the return of tax imposed by section 2001 (or, if earlier, the date on which such return is filed).
+&emsp;For purposes of this section, the term, "adjusted gross estate" means the value of the gross estate reduced by the sum of the amounts allowable as a deduction under section 2053 or 2054. Such sum shall be determined on the basis of the facts and circumstances in existence on the date (including extensions) for filing the return of tax imposed by section 2001 (or, if earlier, the date on which such return is filed).
 
 #### (7) Partnership interests and stock which is not readily tradable
 
@@ -94,7 +94,7 @@
 
 #### (B) Non-readily-tradable stock defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “non-readily-tradable stock” means stock for which, at the time of the decedent's death, there was no market on a stock exchange or in an over-the-counter market.
+&emsp;&emsp;For purposes of this paragraph, the term "non-readily-tradable stock" means stock for which, at the time of the decedent's death, there was no market on a stock exchange or in an over-the-counter market.
 
 #### (8) Stock in holding company treated as business company stock in certain cases
 
@@ -104,7 +104,7 @@
 
 #### (i) Holding company stock treated as business company stock
 
-&emsp;&emsp;&emsp;For purposes of this section, the portion of the stock of any holding company which represents direct ownership (or indirect ownership through 1 or more other holding companies) by such company in a business company shall be deemed to be stock in such business company.
+&emsp;&emsp;&emsp;For purposes of this section, the portion of the stock of any holding company which represents direct ownership (or indirectownership through 1 or more other holding companies) by such company in a business company shall be deemed to be stock in such business company.
 
 #### (ii) 5-year deferral for principal not to apply
 
@@ -122,7 +122,7 @@
 
 #### (ii) Special application where only holding company stock is non-readily-tradable stock
 
-&emsp;&emsp;&emsp;If the requirements of clause (i) are not met, but all of the stock of each holding company taken into account is non-readily-tradable, then this paragraph shall apply, but subsection (a)(1) shall be applied by substituting “5” for “10”.
+&emsp;&emsp;&emsp;If the requirements of clause (i) are not met, but all of the stock of each holding company taken into account is non-readily-tradable, then this paragraph shall apply, but subsection (a)(1) shall be applied by substituting "5" for "10".
 
 #### (C) Application of voting stock requirement of paragraph (1)(C)(i)
 
@@ -134,11 +134,11 @@
 
 #### (i) Holding company
 
-&emsp;&emsp;&emsp;The term “holding company” means any corporation holding stock in another corporation.
+&emsp;&emsp;&emsp;The term "holding company" means any corporation holding stock in another corporation.
 
 #### (ii) Business company
 
-&emsp;&emsp;&emsp;The term “business company” means any corporation carrying on a trade or business.
+&emsp;&emsp;&emsp;The term "business company" means any corporation carrying on a trade or business.
 
 #### (9) Deferral not available for passive assets
 
@@ -152,11 +152,11 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “passive asset” means any asset other than an asset used in carrying on a trade or business.
+&emsp;&emsp;&emsp;The term "passive asset" means any asset other than an asset used in carrying on a trade or business.
 
 #### (ii) Stock treated as passive asset
 
-&emsp;&emsp;&emsp;The term “passive asset” includes any stock in another corporation unless—
+&emsp;&emsp;&emsp;The term "passive asset" includes any stock in another corporation unless—
 
 &emsp;&emsp;&emsp;&emsp;(I) such stock is treated as held by the decedent by reason of an election under paragraph (8), and
 
@@ -188,7 +188,7 @@
 
 #### (iii) 5 equal installments allowed
 
-&emsp;&emsp;&emsp;For purposes of applying subsection (a)(1), “5” shall be substituted for “10”.
+&emsp;&emsp;&emsp;For purposes of applying subsection (a)(1), "5" shall be substituted for "10".
 
 #### (B) Definitions
 
@@ -196,7 +196,7 @@
 
 #### (i) Qualifying lending and finance business
 
-&emsp;&emsp;&emsp;The term “qualifying lending and finance business” means a lending and finance business, if—
+&emsp;&emsp;&emsp;The term "qualifying lending and finance business" means a lending and finance business, if—
 
 &emsp;&emsp;&emsp;&emsp;(I) based on all the facts and circumstances immediately before the date of the decedent's death, there was substantial activity with respect to the lending and finance business, or
 
@@ -204,7 +204,7 @@
 
 #### (ii) Lending and finance business
 
-&emsp;&emsp;&emsp;The term “lending and finance business” means a trade or business of—
+&emsp;&emsp;&emsp;The term "lending and finance business" means a trade or business of—
 
 &emsp;&emsp;&emsp;&emsp;(I) making loans,
 
@@ -218,7 +218,7 @@
 
 #### (iii) Limitation
 
-&emsp;&emsp;&emsp;The term “qualifying lending and finance business” shall not include any interest in an entity, if the stock or debt of such entity or a controlled group (as defined in section 267(f)(1)) of which such entity was a member was readily tradable on an established securities market or secondary market (as defined by the Secretary) at any time within 3 years before the date of the decedent's death.
+&emsp;&emsp;&emsp;The term "qualifying lending and finance business" shall not include any interest in an entity, if the stock or debt of such entity or a controlled group (as defined in section 267(f)(1)) of which such entity was a member was readily tradable on an established securities market or secondary market (as defined by the Secretary) at any time within 3 years before the date of the decedent's death.
 
 #### (c) Special rule for interest in 2 or more closely held businesses
 
@@ -230,7 +230,7 @@ Any election under subsection (a) shall be made not later than the time prescrib
 
 #### (e) Proration of deficiency to installments
 
-If an election is made under subsection (a) to pay any part of the tax imposed by section 2001in installments and a deficiency has been assessed, the deficiency shall (subject to the limitation provided by subsection (a)(2)) be prorated to the installments payable under subsection (a). The part of the deficiency so prorated to any installment the date for payment of which has not arrived shall be collected at the same time as, and as a part of, such installment. The part of the deficiency so prorated to any installment the date for payment of which has arrived shall be paid upon notice and demand from the Secretary. This subsection shall not apply if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
+If an election is made under subsection (a) to pay any part of the tax imposed by section 2001 in installments and a deficiency has been assessed, the deficiency shall (subject to the limitation provided by subsection (a)(2)) be prorated to the installments payable under subsection (a). The part of the deficiency so prorated to any installment the date for payment of which has not arrived shall be collected at the same time as, and as a part of, such installment. The part of the deficiency so prorated to any installment the date for payment of which has arrived shall be paid upon notice and demand from the Secretary. This subsection shall not apply if the deficiency is due to negligence, to intentional disregard of rules and regulations, or to fraud with intent to evade tax.
 
 #### (f) Time for payment of interest
 
@@ -394,23 +394,23 @@ A prior section 6166 was renumbered section 6166A of this title and later repeal
 
 #### Amendments
 
-<b>2001</b>—Subsec. (b)(1)(B)(ii), (C)(ii). Pub. L. 107–16, §571(a), substituted “45” for “15”.
+<b>2001</b>—Subsec. (b)(1)(B)(ii), (C)(ii). Pub. L. 107–16, §571(a), substituted "45" for "15".
 
-Subsec. (b)(8)(B). Pub. L. 107–16, §573(a), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: “No stock shall be taken into account for purposes of applying this paragraph unless it is non-readily-tradable stock (within the meaning of paragraph (7)(B)).”
+Subsec. (b)(8)(B). Pub. L. 107–16, §573(a), reenacted heading without change and amended text of subpar. (B) generally. Prior to amendment, text read as follows: "No stock shall be taken into account for purposes of applying this paragraph unless it is non-readily-tradable stock (within the meaning of paragraph (7)(B))."
 
-Subsec. (b)(9)(B)(iii)(I). Pub. L. 107–16, §571(a), substituted “45” for “15”.
+Subsec. (b)(9)(B)(iii)(I). Pub. L. 107–16, §571(a), substituted "45" for "15".
 
 Subsec. (b)(10). Pub. L. 107–16, §572(a), added par. (10).
 
-<b>2000</b>—Subsec. (k)(5). Pub. L. 106–554 substituted “2035(c)(2)” for “2035(d)(4)”.
+<b>2000</b>—Subsec. (k)(5). Pub. L. 106–554 substituted "2035(c)(2)" for "2035(d)(4)".
 
-<b>1998</b>—Subsec. (b)(7)(A)(iii). Pub. L. 105–206, §6007(c)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: “section 6601(j) (relating to 2-percent rate of interest) shall not apply.”
+<b>1998</b>—Subsec. (b)(7)(A)(iii). Pub. L. 105–206, §6007(c)(1), amended cl. (iii) generally. Prior to amendment, cl. (iii) read as follows: "section 6601(j) (relating to 2-percent rate of interest) shall not apply."
 
-Subsec. (b)(8)(A)(iii). Pub. L. 105–206, §6007(c)(2), reenacted heading without change and amended text of cl. (iii) generally. Prior to amendment, text read as follows: “Section 6601(j) (relating to 2-percent rate of interest) shall not apply.”
+Subsec. (b)(8)(A)(iii). Pub. L. 105–206, §6007(c)(2), reenacted heading without change and amended text of cl. (iii) generally. Prior to amendment, text read as follows: "Section 6601(j) (relating to 2-percent rate of interest) shall not apply."
 
-<b>1997</b>—Subsec. (b)(7)(A)(iii). Pub. L. 105–34 substituted “2-percent” for “4-percent”.
+<b>1997</b>—Subsec. (b)(7)(A)(iii). Pub. L. 105–34 substituted "2-percent" for "4-percent".
 
-Subsec. (b)(8)(A)(iii). Pub. L. 105–34 substituted “2-percent” for “4-percent” in heading and text.
+Subsec. (b)(8)(A)(iii). Pub. L. 105–34 substituted "2-percent" for "4-percent" in heading and text.
 
 <b>1996</b>—Subsec. (k)(6). Pub. L. 104–188 struck out par. (6) which provided cross reference to former section 2210(c) of this title authorizing payment of certain portion of estate tax in installments under provisions of this section.
 
@@ -426,25 +426,25 @@ Subsec. (g)(2)(C). Pub. L. 98–369, §1021(d), added subpar. (C).
 
 Subsec. (j)(6). Pub. L. 98–369, §544(b)(4), added par. (6).
 
-<b>1983</b>—Subsec. (b)(3). Pub. L. 97–448, §104(c)(1), substituted “35-percent requirement” for “65-percent requirement”.
+<b>1983</b>—Subsec. (b)(3). Pub. L. 97–448, §104(c)(1), substituted "35-percent requirement" for "65-percent requirement".
 
-Subsec. (g)(1)(B)(i). Pub. L. 97–448, §104(c)(2), substituted “the redemption of such stock, and the withdrawal of money or other property distributed in such redemption, shall not be treated as a distribution or withdrawal for purposes of subparagraph (A), and” for “subparagraph (A)(i) does not apply with respect to the stock redeemed; and for purposes of such subparagraph the interest in the closely held business shall be considered to be such interest reduced by the value of the stock redeemed, and”.
+Subsec. (g)(1)(B)(i). Pub. L. 97–448, §104(c)(2), substituted "the redemption of such stock, and the withdrawal of money or other property distributed in such redemption, shall not be treated as a distribution or withdrawal for purposes of subparagraph (A), and" for "subparagraph (A)(i) does not apply with respect to the stock redeemed; and for purposes of such subparagraph the interest in the closely held business shall be considered to be such interest reduced by the value of the stock redeemed, and".
 
-Subsec. (g)(1)(B)(ii). Pub. L. 97–448, §104(c)(2), substituted “for purposes of subparagraph (A), the value of the interest in the closely held business shall be considered to be such value reduced by the value of the stock redeemed” for “subparagraph (A)(ii) does not apply with respect to withdrawals of money and other property distributed; and for purposes of such subparagraph the value of the trade or business shall be considered to be such value reduced by the amount of money and other property distributed”.
+Subsec. (g)(1)(B)(ii). Pub. L. 97–448, §104(c)(2), substituted "for purposes of subparagraph (A), the value of the interest in the closely held business shall be considered to be such value reduced by the value of the stock redeemed" for "subparagraph (A)(ii) does not apply with respect to withdrawals of money and other property distributed; and for purposes of such subparagraph the value of the trade or business shall be considered to be such value reduced by the amount of money and other property distributed".
 
 Subsec. (j)(5). Pub. L. 97–448, §104(d)(1)(B), added par. (5).
 
-<b>1981</b>—Pub. L. 97–34, §422(e)(5)(B), substituted “Extension of time” for “Alternate extension of time” in section catchline.
+<b>1981</b>—Pub. L. 97–34, §422(e)(5)(B), substituted "Extension of time" for "Alternate extension of time" in section catchline.
 
-Subsec. (a). Pub. L. 97–34, §422(a)(1), (e)(5)(A), substituted in par. (1) “35 percent” for “65 percent” and struck out par. (4) which provided that no election be made under this section by the executor of the estate of any decedent if an election under section 6166A applies with respect to the estate of such decedent.
+Subsec. (a). Pub. L. 97–34, §422(a)(1), (e)(5)(A), substituted in par. (1) "35 percent" for "65 percent" and struck out par. (4) which provided that no election be made under this section by the executor of the estate of any decedent if an election under section 6166A applies with respect to the estate of such decedent.
 
-Subsec. (c). Pub. L. 97–34, §422(a)(2), substituted “20 percent or more” for “more than 20 percent”.
+Subsec. (c). Pub. L. 97–34, §422(a)(2), substituted "20 percent or more" for "more than 20 percent".
 
-Subsec. (g)(1)(A). Pub. L. 97–34, §422(c)(1), redesignated cl. (i) as cl. (i)(I), substituted “any portion” for “one-third or more in value”, added cl. (i)(II), substituted in cl. (ii) “the aggregate of such distributions, sales, exchanges, or other dispositions and withdrawals equals or exceeds 50 percent of the value of such interest” for “aggregate withdrawals of money and other property from the trade or business, an interest in which qualifies under subsection (a)(1), made with respect to such interest, equal or exceed one-third of the value of such trade or business” and in provision following cl. (ii) substituted “the unpaid portion” for “any unpaid portion”.
+Subsec. (g)(1)(A). Pub. L. 97–34, §422(c)(1), redesignated cl. (i) as cl. (i)(I), substituted "any portion" for "one-third or more in value", added cl. (i)(II), substituted in cl. (ii) "the aggregate of such distributions, sales, exchanges, or other dispositions and withdrawals equals or exceeds 50 percent of the value of such interest" for "aggregate withdrawals of money and other property from the trade or business, an interest in which qualifies under subsection (a)(1), made with respect to such interest, equal or exceed one-third of the value of such trade or business" and in provision following cl. (ii) substituted "the unpaid portion" for "any unpaid portion".
 
 Subsec. (g)(1)(D). Pub. L. 97–34, §422(c)(3), inserted provision for application of a similar rule in the case of a series of subsequent transfers of the property by reason of death so long as each transfer is to a member of the family of the transferor in such transfer.
 
-Subsec. (g)(3). Pub. L. 97–34, §422(c)(2), substituted as heading “Failure to make payment of principal or interest” for “Failure to pay installment”, designated existing provisions as subpar. (A), and in subpar. (A) as so designated, substituted “Except as provided in subparagraph (B), if any payment of principal or interest” for “If any installment” and “extension of time” for “extension of time for the payment of such installment”, and added subpar. (B).
+Subsec. (g)(3). Pub. L. 97–34, §422(c)(2), substituted as heading "Failure to make payment of principal or interest" for "Failure to pay installment", designated existing provisions as subpar. (A), and in subpar. (A) as so designated, substituted "Except as provided in subparagraph (B), if any payment of principal or interest" for "If any installment" and "extension of time" for "extension of time for the payment of such installment", and added subpar. (B).
 
 <b>1978</b>—Subsec. (b)(2)(D). Pub. L. 95–600, §512(a), added subpar. (D).
 
@@ -452,11 +452,11 @@ Subsec. (b)(7). Pub. L. 95–600, §512(b), added par. (7).
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–16, title V, §571(b), June 7, 2001, 115 Stat. 92, provided that: “The amendments made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2001.”
+Pub. L. 107–16, title V, §571(b), June 7, 2001, 115 Stat. 92, provided that: "The amendments made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2001."
 
-Pub. L. 107–16, title V, §572(b), June 7, 2001, 115 Stat. 93, provided that: “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2001.”
+Pub. L. 107–16, title V, §572(b), June 7, 2001, 115 Stat. 93, provided that: "The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2001."
 
-Pub. L. 107–16, title V, §573(b), June 7, 2001, 115 Stat. 93, provided that: “The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2001.”
+Pub. L. 107–16, title V, §573(b), June 7, 2001, 115 Stat. 93, provided that: "The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 2001."
 
 #### Effective Date of 1998 Amendment
 
@@ -476,27 +476,27 @@ Amendment by section 544(b)(4) of Pub. L. 98–369 applicable to estates of dece
 
 Pub. L. 98–369, div. A, title X, §1021(e), July 18, 1984, 98 Stat. 1026, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section\] shall apply with respect to estates of decedents dying after the date of the enactment of this Act \[July 18, 1984\].
 
-“(2)
+"(2)
 
 Special rule.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—At the election of the executor, if—
 
-&emsp;&emsp;“(i) a corporation has 15 or fewer shareholders on June 22, 1984, and at all times thereafter before the date of the decedent's death, and
+&emsp;&emsp;"(i) a corporation has 15 or fewer shareholders on June 22, 1984, and at all times thereafter before the date of the decedent's death, and
 
-&emsp;&emsp;“(ii) stock of such corporation is included in the gross estate of the decedent,
+&emsp;&emsp;"(ii) stock of such corporation is included in the gross estate of the decedent,
 
 > &emsp;then all other corporations all of the stock of which is owned directly or indirectly by the corporation described in clauses (i) and (ii) shall be treated as one corporation for purposes of section 6166 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\].
 
-&emsp;“(B)
+&emsp;"(B)
 
-Effect of election.—Any executor who elects the application of this paragraph shall be treated as having made the election under paragraph (8) of section 6166(b) of such Code.”
+Effect of election.—Any executor who elects the application of this paragraph shall be treated as having made the election under paragraph (8) of section 6166(b) of such Code."
 
 #### Effective Date of 1983 Amendment
 
@@ -506,21 +506,21 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 Pub. L. 97–34, title IV, §422(f), Aug. 13, 1981, 95 Stat. 316, provided that:
 
-“(1)
+"(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 303, 2011, 2204, 2621, 6161, 6324A, 6503, and 7403 of this title and repealing section 6166A of this title\] shall apply to the estates of decedents dying after December 31, 1981.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 303, 2011, 2204, 2621, 6161, 6324A, 6503, and 7403 of this title and repealing section 6166A ofthis title\] shall apply to the estates of decedents dying after December 31, 1981.
 
-“(2)
+"(2)
 
-Acceleration by reason of subsequent death.—The amendment made by subsection (c)(3) \[amending this section\] shall apply to transfers after December 31, 1981.”
+Acceleration by reason of subsequent death.—The amendment made by subsection (c)(3) \[amending this section\] shall apply to transfers after December 31, 1981."
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title V, §512(c), Nov. 6, 1978, 92 Stat. 2883, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to the estates of decedents dying after the date of the enactment of this Act \[Nov. 6, 1978\].”
+Pub. L. 95–600, title V, §512(c), Nov. 6, 1978, 92 Stat. 2883, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to the estates of decedents dying after the date of the enactment of this Act \[Nov. 6, 1978\]."
 
 #### Effective Date
 
-Pub. L. 94–455, title XX, §2004(g), Oct. 4, 1976, 90 Stat. 1872, provided that: “The amendments made by this section \[enacting this section and section 6324A of this title and amending sections 303, 2011, 2204, 6136, 6161, 6503, 6601, and 7403 of this title\] shall apply to the estates of decedents dying after December 31, 1976.”
+Pub. L. 94–455, title XX, §2004(g), Oct. 4, 1976, 90 Stat. 1872, provided that: "The amendments made by this section \[enacting this section and section 6324A of this title and amending sections 303, 2011, 2204, 6136, 6161, 6503, 6601, and 7403 of this title\] shall apply to the estates of decedents dying after December 31, 1976."
 
 #### Land Diverted Under 1983 Payment-in-Kind Program
 

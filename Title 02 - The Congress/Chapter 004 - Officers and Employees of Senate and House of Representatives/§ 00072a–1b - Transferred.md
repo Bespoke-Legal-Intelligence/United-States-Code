@@ -1,0 +1,6 @@
+### §72a–1b. Transferred
+
+#### Codification
+
+Section 72a–1b was editorially reclassified as section 4311 of this title.
+

@@ -16,7 +16,7 @@ Oversight.—(1) The Secretary of Defense shall designate a senior official of t
 
 (d)
 
-Reduced Prices Defined.—In this section, the term “reduced prices” means prices for food and other merchandise determined using the price setting process specified in section 2484 of this title.
+Reduced Prices Defined.—In this section, the term "reduced prices" means prices for food and other merchandise determined using the price setting process specified in section 2484 of this title.
 
 (Added Pub. L. 108–375, div. A, title VI, §651(a)(3), Oct. 28, 2004, 118 Stat. 1965.)
 

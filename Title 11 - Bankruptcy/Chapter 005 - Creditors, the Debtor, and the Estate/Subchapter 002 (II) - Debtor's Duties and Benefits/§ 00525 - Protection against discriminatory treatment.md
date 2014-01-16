@@ -1,6 +1,6 @@
 ### §525. Protection against discriminatory treatment
 
-(a) Except as provided in the Perishable Agricultural Commodities Act, 1930, the Packers and Stockyards Act, 1921, and section 1 of the Act entitled “An Act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1944, and for other purposes,” approved July 12, 1943, a governmental unit may not deny, revoke, suspend, or refuse to renew a license, permit, charter, franchise, or other similar grant to, condition such a grant to, discriminate with respect to such a grant against, deny employment to, terminate the employment of, or discriminate with respect to employment against, a person that is or has been a debtor under this title or a bankrupt or a debtor under the Bankruptcy Act, or another person with whom such bankrupt or debtor has been associated, solely because such bankrupt or debtor is or has been a debtor under this title or a bankrupt or debtor under the Bankruptcy Act, has been insolvent before the commencement of the case under this title, or during the case but before the debtor is granted or denied a discharge, or has not paid a debt that is dischargeable in the case under this title or that was discharged under the Bankruptcy Act.
+(a) Except as provided in the Perishable Agricultural Commodities Act, 1930, the Packers and Stockyards Act, 1921, and section 1 of the Act entitled "An Act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1944, and for other purposes," approved July 12, 1943, a governmental unit may not deny, revoke, suspend, or refuse to renew a license, permit, charter, franchise, or other similar grant to, condition such a grant to, discriminate with respect to such a grant against, deny employment to, terminate the employment of, or discriminate with respect to employment against, a person that is or has been a debtor under this title or a bankrupt or a debtor under the Bankruptcy Act, or another person with whom such bankrupt or debtor has been associated, solely because such bankrupt or debtor is or has been a debtor under this title or a bankrupt or debtor under the Bankruptcy Act, has been insolvent before the commencement of the case under this title, or during the case but before the debtor is granted or denied a discharge, or has not paid a debt that is dischargeable in the case under this title or that was discharged under the Bankruptcy Act.
 
 (b) No private employer may terminate the employment of, or discriminate with respect to employment against, an individual who is or has been a debtor under this title, a debtor or bankrupt under the Bankruptcy Act, or an individual associated with such debtor or bankrupt, solely because such debtor or bankrupt—
 
@@ -12,7 +12,7 @@
 
 (c)(1) A governmental unit that operates a student grant or loan program and a person engaged in a business that includes the making of loans guaranteed or insured under a student loan program may not deny a student grant, loan, loan guarantee, or loan insurance to a person that is or has been a debtor under this title or a bankrupt or debtor under the Bankruptcy Act, or another person with whom the debtor or bankrupt has been associated, because the debtor or bankrupt is or has been a debtor under this title or a bankrupt or debtor under the Bankruptcy Act, has been insolvent before the commencement of a case under this title or during the pendency of the case but before the debtor is granted or denied a discharge, or has not paid a debt that is dischargeable in the case under this title or that was discharged under the Bankruptcy Act.
 
-(2) In this section, “student loan program” means any program operated under title IV of the Higher Education Act of 1965 or a similar program operated under State or local law.
+(2) In this section, "student loan program" means any program operated under title IV of the Higher Education Act of 1965 or a similar program operated under State or local law.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2593; Pub. L. 98–353, title III, §309, July 10, 1984, 98 Stat. 354; Pub. L. 103–394, title III, §313, title V, §501(d)(15), Oct. 22, 1994, 108 Stat. 4140, 4145; Pub. L. 109–8, title XII, §1211, Apr. 20, 2005, 119 Stat. 194.)
 
@@ -24,7 +24,7 @@ This section is additional debtor protection. It codifies the result of <i>Perez
 
 Notwithstanding any other laws, section 525 prohibits a governmental unit from denying, revoking, suspending, or refusing to renew a license, permit, charter, franchise, or other similar grant to, from conditioning such a grant to, from discrimination with respect to such a grant against, deny employment to, terminate the employment of, or discriminate with respect to employment against, a person that is or has been a debtor or that is or has been associated with a debtor. The prohibition extends only to discrimination or other action based solely on the basis of the bankruptcy, on the basis of insolvency before or during bankruptcy prior to a determination of discharge, or on the basis of nonpayment of a debt discharged in the bankruptcy case (the <i>Perez</i> situation). It does not prohibit consideration of other factors, such as future financial responsibility or ability, and does not prohibit imposition of requirements such as net capital rules, if applied nondiscriminatorily.
 
-In addition, the section is not exhaustive. The enumeration of various forms of discrimination against former bankrupts is not intended to permit other forms of discrimination. The courts have been developing the <i>Perez</i> rule. This section permits further development to prohibit actions by governmental or quasi-governmental organizations that perform licensing functions, such as a State bar association or a medical society, or by other organizations that can seriously affect the debtors’ livelihood or fresh start, such as exclusion from a union on the basis of discharge of a debt to the union's credit union.
+In addition, the section is not exhaustive. The enumeration of various forms of discrimination against former bankrupts is not intended to permit other forms of discrimination. The courts have been developing the <i>Perez</i> rule. This section permits further development to prohibit actions by governmental or quasi-governmental organizations that perform licensing functions, such as a State bar association or a medical society, or by other organizations that can seriously affect the debtors' livelihood or fresh start, such as exclusion from a union on the basis of discharge of a debt to the union's credit union.
 
 The effect of the section, and of further interpretations of the <i>Perez</i> rule, is to strengthen the anti-reaffirmation policy found in section 524(b). Discrimination based solely on nonpayment could encourage reaffirmations, contrary to the expressed policy.
 
@@ -36,7 +36,7 @@ The Perishable Agricultural Commodities Act, 1930, referred to in subsec. (a), i
 
 The Packers and Stockyards Act, 1921, referred to in subsec. (a), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, as amended, which is classified generally to chapter 9 (§181 et seq.) of Title 7. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
-Section 1 of the Act entitled “An Act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1944, and for other purposes,” approved July 12, 1943, referred to in subsec. (a), is classified to section 204 of Title 7.
+Section 1 of the Act entitled "An Act making appropriations for the Department of Agriculture for the fiscal year ending June 30, 1944, and for other purposes," approved July 12, 1943, referred to in subsec. (a), is classified to section 204 of Title 7.
 
 The Bankruptcy Act, referred to in text, is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11.
 
@@ -44,15 +44,15 @@ The Higher Education Act of 1965, referred to in subsec. (c)(2), is Pub. L. 89�
 
 #### Amendments
 
-<b>2005</b>—Subsec. (c)(1). Pub. L. 109–8, §1211(1), inserted “student” before “grant, loan,”.
+<b>2005</b>—Subsec. (c)(1). Pub. L. 109–8, §1211(1), inserted "student" before "grant, loan,".
 
-Subsec. (c)(2). Pub. L. 109–8, §1211(2), substituted “any program operated under” for “the program operated under part B, D, or E of”.
+Subsec. (c)(2). Pub. L. 109–8, §1211(2), substituted "any program operated under" for "the program operated under part B, D, or E of".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–394, §501(d)(15), struck out “(7 U.S.C. 499a–499s)” after “Act, 1930”, “(7 U.S.C. 181–229)” after “Act, 1921”, and “(57 Stat. 422; 7 U.S.C. 204)” after “July 12, 1943”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–394, §501(d)(15), struck out "(7 U.S.C. 499a–499s)" after "Act, 1930", "(7 U.S.C. 181–229)" after "Act, 1921", and "(57 Stat. 422; 7 U.S.C. 204)" after "July 12, 1943".
 
 Subsec. (c). Pub. L. 103–394, §313, added subsec. (c).
 
-<b>1984</b>—Pub. L. 98–353 designated existing provisions as subsec. (a), inserted “the” before “Perishable”, and added subsec. (b).
+<b>1984</b>—Pub. L. 98–353 designated existing provisions as subsec. (a), inserted "the" before "Perishable", and added subsec. (b).
 
 #### Effective Date of 2005 Amendment
 

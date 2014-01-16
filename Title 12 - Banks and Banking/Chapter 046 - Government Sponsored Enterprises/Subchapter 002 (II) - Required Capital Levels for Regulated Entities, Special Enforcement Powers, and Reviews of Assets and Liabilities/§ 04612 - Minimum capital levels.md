@@ -50,7 +50,7 @@ The Director shall periodically review the amount of core capital maintained by 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–289, §1111(1), substituted “Enterprises” for “In general” in heading.
+<b>2008</b>—Subsec. (a). Pub. L. 110–289, §1111(1), substituted "Enterprises" for "In general" in heading.
 
 Subsecs. (b) to (f). Pub. L. 110–289, §1111(2), added subsecs. (b) to (f) and struck out former subsec. (b) which related to minimum capital level during transition period.
 

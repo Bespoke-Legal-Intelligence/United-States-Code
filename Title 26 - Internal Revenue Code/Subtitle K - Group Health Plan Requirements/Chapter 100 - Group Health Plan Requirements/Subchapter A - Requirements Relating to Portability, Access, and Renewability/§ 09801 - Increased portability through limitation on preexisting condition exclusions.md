@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “preexisting condition exclusion” means, with respect to coverage, a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before such date.
+&emsp;&emsp;The term "preexisting condition exclusion" means, with respect to coverage, a limitation or exclusion of benefits relating to a condition based on the fact that the condition was present before the date of enrollment for such coverage, whether or not any medical advice, diagnosis, care, or treatment was recommended or received before such date.
 
 #### (B) Treatment of genetic information
 
@@ -26,11 +26,11 @@ For purposes of this section—
 
 #### (2) Enrollment date
 
-&emsp;The term “enrollment date” means, with respect to an individual covered under a group health plan, the date of enrollment of the individual in the plan or, if earlier, the first day of the waiting period for such enrollment.
+&emsp;The term "enrollment date" means, with respect to an individual covered under a group health plan, the date of enrollment of the individual in the plan or, if earlier, the first day of the waiting period for such enrollment.
 
 #### (3) Late enrollee
 
-&emsp;The term “late enrollee” means, with respect to coverage under a group health plan, a participant or beneficiary who enrolls under the plan other than during—
+&emsp;The term "late enrollee" means, with respect to coverage under a group health plan, a participant or beneficiary who enrolls under the plan other than during—
 
 &emsp;&emsp;(A) the first period in which the individual is eligible to enroll under the plan, or
 
@@ -38,13 +38,13 @@ For purposes of this section—
 
 #### (4) Waiting period
 
-&emsp;The term “waiting period” means, with respect to a group health plan and an individual who is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.
+&emsp;The term "waiting period" means, with respect to a group health plan and an individual who is a potential participant or beneficiary in the plan, the period that must pass with respect to the individual before the individual is eligible to be covered for benefits under the terms of the plan.
 
 #### (c) Rules relating to crediting previous coverage
 
 #### (1) Creditable coverage defined
 
-&emsp;For purposes of this part, the term “creditable coverage” means, with respect to an individual, coverage of the individual under any of the following:
+&emsp;For purposes of this part, the term "creditable coverage" means, with respect to an individual, coverage of the individual under any of the following:
 
 &emsp;&emsp;(A) A group health plan.
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of this section, the term “affiliation period” means a period which, under the terms of the health insurance coverage offered by the health maintenance organization, must expire before the health insurance coverage becomes effective. During such an affiliation period, the organization is not required to provide health care services or benefits and no premium shall be charged to the participant or beneficiary.
+&emsp;&emsp;&emsp;For purposes of this section, the term "affiliation period" means a period which, under the terms of the health insurance coverage offered by the health maintenance organization, must expire before the health insurance coverage becomes effective. During such an affiliation period, the organization is not required to provide health care services or benefits and no premium shall be charged to the participant or beneficiary.
 
 #### (ii) Beginning
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (ii) Definitions
 
-&emsp;&emsp;&emsp;The terms “TAA-eligible individual” and “TAA-related loss of coverage” have the meanings given such terms in section 4980B(f)(5)(C)(iv).
+&emsp;&emsp;&emsp;The terms "TAA-eligible individual" and "TAA-related loss of coverage" have the meanings given such terms in section 4980B(f)(5)(C)(iv).
 
 #### (3) Method of crediting coverage
 
@@ -134,7 +134,7 @@ For purposes of this section—
 
 #### (2) Exclusion not applicable to certain adopted children
 
-&emsp;Subject to paragraph (4), a group health plan may not impose any preexisting condition exclusion in the case of a child who is adopted or placed for adoption before attaining 18 years of age and who, as of the last day of the 30-day period beginning on the date of the adoption or placement for adoption, is covered undercreditable coverage. The previous sentence shall not apply to coverage before the date of such adoption or placement for adoption.
+&emsp;Subject to paragraph (4), a group health plan may not impose any preexisting condition exclusion in the case of a child who is adopted or placed for adoption before attaining 18 years of age and who, as of the last day of the 30-day period beginning on the date of the adoption or placement for adoption, is covered under creditable coverage. The previous sentence shall not apply to coverage before the date of such adoption or placement for adoption.
 
 #### (3) Exclusion not applicable to pregnancy
 
@@ -240,7 +240,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;A group health plan shall permit an employee who is eligible, but not enrolled, for coverage under the terms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if either of the following conditions is met:
+&emsp;&emsp;A group health plan shall permit an employee who is eligible, but not enrolled, forcoverage under the terms of the plan (or a dependent of such an employee if the dependent is eligible, but not enrolled, for coverage under such terms) to enroll for coverage under the terms of the plan if either of the following conditions is met:
 
 #### (i) Termination of Medicaid or CHIP coverage
 
@@ -264,7 +264,7 @@ For purposes of this section—
 
 #### (ii) Disclosure about group health plan benefits to States for Medicaid and CHIP eligible individuals
 
-&emsp;&emsp;&emsp;In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity,as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
+&emsp;&emsp;&emsp;In the case of a participant or beneficiary of a group health plan who is covered under a Medicaid plan of a State under title XIX of the Social Security Act or under a State child health plan under title XXI of such Act, the plan administrator of the group health plan shall disclose to the State, upon request, information about the benefits available under the group health plan in sufficient specificity, as determined under regulations of the Secretary of Health and Human Services in consultation with the Secretary that require use of the model coverage coordination disclosure form developed under section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization Act of 2009, so as to permit the State to make a determination (under paragraph (2)(B), (3), or (10) of section 2105(c) of the Social Security Act or otherwise) concerning the cost-effectiveness of the State providing medical or child health assistance through premium assistance for the purchase of coverage under such group health plan and in order for the State to provide supplemental benefits required under paragraph (10)(E) of such section or other authority.
 
 (Added Pub. L. 104–191, title IV, §401(a), Aug. 21, 1996, 110 Stat. 2073; amended Pub. L. 105–34, title XV, §1531(b)(1)(A), Aug. 5, 1997, 111 Stat. 1084; Pub. L. 111–3, title III, §311(a), Feb. 4, 2009, 123 Stat. 64; Pub. L. 111–5, div. B, title I, §1899D(a), Feb. 17, 2009, 123 Stat. 425; Pub. L. 111–344, title I, §114(a), Dec. 29, 2010, 124 Stat. 3615; Pub. L. 112–40, title II, §242(a)(1), Oct. 21, 2011, 125 Stat. 419.)
 
@@ -276,49 +276,49 @@ Section 311(b)(1)(C) of the Children's Health Insurance Program Reauthorization 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (c)(2)(D). Pub. L. 112–40 substituted “January 1, 2014” for “February 13, 2011” in introductory provisions.
+<b>2011</b>—Subsec. (c)(2)(D). Pub. L. 112–40 substituted "January 1, 2014" for "February 13, 2011" in introductory provisions.
 
-<b>2010</b>—Subsec. (c)(2)(D). Pub. L. 111–344 substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
+<b>2010</b>—Subsec. (c)(2)(D). Pub. L. 111–344 substituted "February 13, 2011" for "January 1, 2011" in introductory provisions.
 
 <b>2009</b>—Subsec. (c)(2)(D). Pub. L. 111–5 added subpar. (D).
 
 Subsec. (f)(3). Pub. L. 111–3 added par. (3).
 
-<b>1997</b>—Subsec. (c)(1). Pub. L. 105–34 substituted “section 9832(c)” for “section 9805(c)” in concluding provisions.
+<b>1997</b>—Subsec. (c)(1). Pub. L. 105–34 substituted "section 9832(c)" for "section 9805(c)" in concluding provisions.
 
 #### Effective Date of 2011 Amendment
 
 Pub. L. 112–40, title II, §242(b), Oct. 21, 2011, 125 Stat. 419, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section, section 1181 of Title 29, Labor, and sections 300gg and 300gg–3 of Title 42, The Public Health and Welfare\] shall apply to plan years beginning after February 12, 2011.
 
-“(2)
+"(2)
 
 Transitional rules.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Benefit determinations.—Notwithstanding the amendments made by this section (and the provisions of law amended thereby), a plan shall not be required to modify benefit determinations for the period beginning on February 13, 2011, and ending 30 days after the date of the enactment of this Act \[Oct. 21, 2011\], but a plan shall not fail to be qualified health insurance within the meaning of section 35(e) of the Internal Revenue Code of 1986 during this period merely due to such failure to modify benefit determinations.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Guidance concerning periods before 30 days after enactment.—Except as provided in subparagraph (A), the Secretary of the Treasury (or his designee), in consultation with the Secretary of Health and Human Services and the Secretary of Labor, may issue regulations or other guidance regarding the scope of the application of the amendments made by this section to periods before the date which is 30 days after the date of the enactment of this Act.
 
-&emsp;“(C)
+&emsp;"(C)
 
-Special rule relating to certain loss of coverage.—In the case of a TAA-related loss of coverage (as defined in section 4980B(f)(5)(C)(iv) of the Internal Revenue Code of 1986) that occurs during the period beginning on February 13, 2011, and ending 30 days after the date of the enactment of this Act, the 7-day period described in section 9801(c)(2)(D) of the Internal Revenue Code of 1986, section 701(c)(2)(C) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181(c)(2)(C)\], and section 2701(c)(2)(C) of the Public Health Service Act \[renumbered section 2704(c)(2)(C), see 42 U.S.C. 300gg–3(c)(2)(C)\] shall be extended until 30 days after such date of enactment.”
+Special rule relating to certain loss of coverage.—In the case of a TAA-related loss of coverage (as defined in section 4980B(f)(5)(C)(iv) of the Internal Revenue Code of 1986) that occurs during the period beginning on February 13, 2011, and ending 30 days after the date of the enactment of this Act, the 7-day period described in section 9801(c)(2)(D) of the Internal Revenue Code of 1986, section 701(c)(2)(C) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1181(c)(2)(C)\], and section 2701(c)(2)(C) of the Public Health Service Act \[renumbered section 2704(c)(2)(C), see 42 U.S.C. 300gg–3(c)(2)(C)\] shall be extended until 30 days after such date of enactment."
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–344, title I, §114(d), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendments made by this section \[amending this section, section 1181 of Title 29, Labor, and section 300gg of Title 42, The Public Health and Welfare\] shall apply to plan years beginning after December 31, 2010.”
+Pub. L. 111–344, title I, §114(d), Dec. 29, 2010, 124 Stat. 3615, provided that: "The amendments made by this section \[amending this section, section 1181 of Title 29, Labor, and section 300gg of Title 42, The Public Health and Welfare\] shall apply to plan years beginning after December 31, 2010."
 
 #### Effective Date of 2009 Amendment
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
 
-Pub. L. 111–5, div. B, title I, §1899D(d), Feb. 17, 2009, 123 Stat. 426, provided that: “The amendments made by this section \[amending this section, section 1181 of Title 29, Labor, and section 300gg of Title 42, The Public Health and Welfare\] shall apply to plan years beginning after the date of the enactment of this Act \[Feb. 17, 2009\].”
+Pub. L. 111–5, div. B, title I, §1899D(d), Feb. 17, 2009, 123 Stat. 426, provided that: "The amendments made by this section \[amending this section, section 1181 of Title 29, Labor, and section 300gg of Title 42, The Public Health and Welfare\] shall apply to plan years beginning after the date of the enactment of this Act \[Feb. 17, 2009\]."
 
 Amendment by Pub. L. 111–3 effective Apr. 1, 2009, and applicable to child health assistance and medical assistance provided on or after that date, with certain exceptions, see section 3 of Pub. L. 111–3, set out as an Effective Date note under section 1396 of Title 42, The Public Health and Welfare.
 
@@ -330,65 +330,65 @@ Amendment by Pub. L. 105–34 applicable with respect to group health plans for 
 
 Pub. L. 104–191, title IV, §401(c), Aug. 21, 1996, 110 Stat. 2082, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[enacting this subtitle\] shall apply to plan years beginning after June 30, 1997.
 
-“(2)
+"(2)
 
 Determination of creditable coverage.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Period of coverage.—
 
-&emsp;&emsp;“(i)
+&emsp;&emsp;"(i)
 
 In general.—Subject to clause (ii), no period before July 1, 1996, shall be taken into account under chapter 100 of the Internal Revenue Code of 1986 (as added by this section) in determining creditable coverage.
 
-&emsp;&emsp;“(ii)
+&emsp;&emsp;"(ii)
 
 Special rule for certain periods.—The Secretary of the Treasury, consistent with section 104 \[42 U.S.C. 300gg–92 note\], shall provide for a process whereby individuals who need to establish creditable coverage for periods before July 1, 1996, and who would have such coverage credited but for clause (i) may be given credit for creditable coverage for such periods through the presentation of documents or other means.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Certifications, etc.—
 
-&emsp;&emsp;“(i)
+&emsp;&emsp;"(i)
 
 In general.—Subject to clauses (ii) and (iii), subsection (e) of section 9801 of the Internal Revenue Code of 1986 (as added by this section) shall apply to events occurring after June 30, 1996.
 
-&emsp;&emsp;“(ii)
+&emsp;&emsp;"(ii)
 
 No certification required to be provided before june 1, 1997.—In no case is a certification required to be provided under such subsection before June 1, 1997.
 
-&emsp;&emsp;“(iii)
+&emsp;&emsp;"(iii)
 
 Certification only on written request for events occurring before october 1, 1996.—In the case of an event occurring after June 30, 1996, and before October 1, 1996, a certification is not required to be provided under such subsection unless an individual (with respect to whom the certification is otherwise required to be made) requests such certification in writing.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Transitional rule.—In the case of an individual who seeks to establish creditable coverage for any period for which certification is not required because it relates to an event occurring before June 30, 1996—
 
-&emsp;&emsp;“(i) the individual may present other credible evidence of such coverage in order to establish the period of creditable coverage; and
+&emsp;&emsp;"(i) the individual may present other credible evidence of such coverage in order to establish the period of creditable coverage; and
 
-&emsp;&emsp;“(ii) a group health plan and a health insurance issuer shall not be subject to any penalty or enforcement action with respect to the plan's or issuer's crediting (or not crediting) such coverage if the plan or issuer has sought to comply in good faith with the applicable requirements under the amendments made by this section.
+&emsp;&emsp;"(ii) a group health plan and a health insurance issuer shall not be subject to any penalty or enforcement action with respect to the plan's or issuer's crediting (or not crediting) such coverage if the plan or issuer has sought to comply in good faith with the applicable requirements under the amendments made by this section.
 
-“(3)
+"(3)
 
 Special rule for collective bargaining agreements.—Except as provided in paragraph (2), in the case of a group health plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and one or more employers ratified before the date of the enactment of this Act \[Aug. 21, 1996\], the amendments made by this section shall not apply to plan years beginning before the later of—
 
-&emsp;“(A) the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act), or
+&emsp;"(A) the date on which the last of the collective bargaining agreements relating to the plan terminates (determined without regard to any extension thereof agreed to after the date of the enactment of this Act), or
 
-&emsp;“(B) July 1, 1997.
+&emsp;"(B) July 1, 1997.
 
 > For purposes of subparagraph (A), any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement.
 
-“(4)
+"(4)
 
 Timely regulations.—The Secretary of the Treasury, consistent with section 104, shall first issue by not later than April 1, 1997, such regulations as may be necessary to carry out the amendments made by this section.
 
-“(5)
+"(5)
 
-Limitation on actions.—No enforcement action shall be taken, pursuant to the amendments made by this section, against a group health plan or health insurance issuer with respect to a violation of a requirement imposed by such amendments before January 1, 1998, or, if later, the date of issuance of regulations referred to in paragraph (4), if the plan or issuer has sought to comply in good faith with such requirements.”
+Limitation on actions.—No enforcement action shall be taken, pursuant to the amendments made by this section, against a group health plan or health insurance issuer with respect to a violation of a requirement imposed by such amendments before January 1, 1998, or, if later, the date of issuance of regulations referred to in paragraph (4), if the plan or issuer has sought to comply in good faith with such requirements."
 

@@ -6,15 +6,15 @@ Every manufacturer of manufactured homes shall furnish to the distributor or ret
 
 #### Codification
 
-References to “mobile homes”, wherever appearing in text, changed to “manufactured homes” in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section 308(c)(4) of Pub. L. 96–399 requiring the substitution of “manufactured home” for “mobile home” wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under section 1703 of Title 12, Banks and Banking) providing that the terms “mobile home” and “manufactured home” shall be deemed to include the terms “mobile homes” and “manufactured homes”, respectively.
+References to "mobile homes", wherever appearing in text, changed to "manufactured homes" in view of the amendment of title VI of the Housing and Community Development Act of 1974 (this chapter) by section 308(c)(4) of Pub. L. 96–399 requiring the substitution of "manufactured home" for "mobile home" wherever appearing in title VI of the Housing and Community Development Act of 1974, and section 339B(c) of Pub. L. 97–35 (set out as a note under section 1703 of Title 12, Banks and Banking) providing that the terms "mobile home" and "manufactured home" shall be deemed to include the terms "mobile homes" and "manufactured homes", respectively.
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–569 substituted “retailer” for “dealer”.
+<b>2000</b>—Pub. L. 106–569 substituted "retailer" for "dealer".
 
-<b>1980</b>—Pub. L. 96–399 substituted “manufactured home” for “mobile home” wherever appearing.
+<b>1980</b>—Pub. L. 96–399 substituted "manufactured home" for "mobile home" wherever appearing.
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order orinterpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
+Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
 

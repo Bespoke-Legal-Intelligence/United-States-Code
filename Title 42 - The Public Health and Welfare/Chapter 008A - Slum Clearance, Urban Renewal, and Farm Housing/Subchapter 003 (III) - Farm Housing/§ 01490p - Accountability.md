@@ -36,7 +36,7 @@ The Secretary shall require the disclosure of information with respect to any ap
 
 #### (1) Other government assistance
 
-&emsp;Information regarding any related assistance from the Federal Government, a State, or a unit of general local government, or any agency or instrumentality thereof, that is expected to be made available with respect to the project or activities for which the applicant is seeking assistance under this subchapter. Such related assistance shall includebut not be limited to any loan, grant, guarantee, insurance, payment, rebate, subsidy, credit, tax benefit, or any other form of direct or indirect assistance.
+&emsp;Information regarding any related assistance from the Federal Government, a State, or a unit of general local government, or any agency or instrumentality thereof, that is expected to be made available with respect to the project or activities for which the applicant is seeking assistance under this subchapter. Such related assistance shall include but not be limited to any loan, grant, guarantee, insurance, payment, rebate, subsidy, credit, tax benefit, or any other form of direct or indirect assistance.
 
 #### (2) Interested parties
 
@@ -76,7 +76,7 @@ During the period when an application is pending or assistance is being provided
 
 #### (2) Civil penalties
 
-&emsp;Whoever violates any section <sup>2</sup> of this section shall be subject to the imposition of a civil penalty in a civil action brought by the United States in an appropriate district court of the United States. A civil penalty under this paragraph may not exceed—
+&emsp;Whoever violates any section <sup>2</sup> of this section shall be subject to the imposition of acivil penalty in a civil action brought by the United States in an appropriate district court of the United States. A civil penalty under this paragraph may not exceed—
 
 &emsp;&emsp;(A) $100,000 in the case of an individual; or
 
@@ -98,9 +98,9 @@ The Secretary shall certify that assistance provided by the Secretary to any hou
 
 Not less than 180 days following December 15, 1989, the Secretary shall promulgate regulations to implement this section.
 
-#### (h) “Assistance” defined
+#### (h) "Assistance" defined
 
-For purposes of this section, the term “assistance” means any housing grant, loan, guarantee, insurance, rebate, subsidy, tax credit benefit, or other form of direct or indirect assistance, for the original construction or development of the project.
+For purposes of this section, the term "assistance" means any housing grant, loan, guarantee, insurance, rebate, subsidy, tax credit benefit, or other form of direct or indirect assistance, for the original construction or development of the project.
 
 #### (i) Report by Secretary
 
@@ -110,13 +110,13 @@ The Secretary shall submit to the Congress, not later than 180 days following De
 
 #### Codification
 
-December 15, 1989, referred to in subsec. (g), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 101–235, which enacted this section, to reflect the probable intent of Congress.
+December 15, 1989, referred to in subsec. (g), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 101–235, which enacted this section, to reflect the probable intent of Congress.
 
 #### Amendments
 
 <b>1995</b>—Subsec. (d). Pub. L. 104–65 struck out subsec. (d) which related to regulation of lobbyists and consultants.
 
-<b>1990</b>—Subsec. (h). Pub. L. 101–625 inserted before period at end “, for the original construction or development of the project”.
+<b>1990</b>—Subsec. (h). Pub. L. 101–625 inserted before period at end ", for the original construction or development of the project".
 
 #### Effective Date of 1994 Amendment
 
@@ -124,9 +124,9 @@ Amendment by Pub. L. 104–65 effective Jan. 1, 1996, except as otherwise provid
 
 #### Effective Date
 
-Pub. L. 101–235, title IV, §401(b), Dec. 15, 1989, 103 Stat. 2048, provided that: “Section 536 of the Housing Act of 1949 \[this section\], as added by subsection (a), shall take effect on the effective date of regulations implementing such section.”
+Pub. L. 101–235, title IV, §401(b), Dec. 15, 1989, 103 Stat. 2048, provided that: "Section 536 of the Housing Act of 1949 \[this section\], as added by subsection (a), shall take effect on the effective date of regulations implementing such section."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of this”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of this".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "subsection".</i>
 

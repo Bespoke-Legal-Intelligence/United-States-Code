@@ -2,7 +2,7 @@
 
 (a)
 
-Civil Penalty.—An individual who, when on, or attempting to board, an aircraft in, or intended for operation in, air transportation or intrastate air transportation, has on or about the individual or the property of the individual a concealed dangerous weapon that is or would be accessible to the individual in flight is liable to the United States Government for a civil penalty of not more than $10,000 for each violation.
+Civil Penalty.—An individual who, when on, or attempting to board, an aircraft in, or intended for operation in, air transportation or intrastate air transportation, has on or about the individual or the property of the individuala concealed dangerous weapon that is or would be accessible to the individual in flight is liable to the United States Government for a civil penalty of not more than $10,000 for each violation.
 
 (b)
 
@@ -52,19 +52,19 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 49 App.:1471(d) (words before 3d comma).
 
-In subsection (a), the words “deadly or” and “which shall be recoverable in a civil action brought in the name of the United States” are omitted as surplus.
+In subsection (a), the words "deadly or" and "which shall be recoverable in a civil action brought in the name of the United States" are omitted as surplus.
 
-In subsection (b)(1), the words “imposed under” are substituted for “provided for in” for consistency.
+In subsection (b)(1), the words "imposed under" are substituted for "provided for in" for consistency.
 
-In subsection (b)(2), the words “imposed or compromised” are substituted for “The amount of such penalty when finally determined or fixed by order of the Board, or the amount agreed upon in compromise” to eliminate unnecessary words.
+In subsection (b)(2), the words "imposed or compromised" are substituted for "The amount of such penalty when finally determined or fixed by order of the Board, or the amount agreed upon in compromise" to eliminate unnecessary words.
 
-In subsection (c)(1), the words “State or political subdivision of a State” are substituted for “municipal or State government” for consistency in the revised title and with other titles of the United States Code. The words “or required” are omitted as surplus.
+In subsection (c)(1), the words "State or political subdivision of a State" are substituted for "municipal or State government" for consistency in the revised title and with other titles of the United States Code. The words "or required" are omitted as surplus.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(1). Pub. L. 108–458, §4027(c)(1), substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–458, §4027(c)(1), substituted "Secretary of Homeland Security" for "Secretary of Transportation".
 
-Subsec. (c)(2). Pub. L. 108–458, §4027(c)(2), substituted “Secretary of Homeland Security” for “Under Secretary of Transportation for Security”.
+Subsec. (c)(2). Pub. L. 108–458, §4027(c)(2), substituted "Secretary of Homeland Security" for "Under Secretary of Transportation for Security".
 
-<b>2001</b>—Subsec. (c)(2). Pub. L. 107–71 inserted “or the Under Secretary of Transportation for Security” after “Federal Aviation Administration”.
+<b>2001</b>—Subsec. (c)(2). Pub. L. 107–71 inserted "or the Under Secretary of Transportation for Security" after "Federal Aviation Administration".
 

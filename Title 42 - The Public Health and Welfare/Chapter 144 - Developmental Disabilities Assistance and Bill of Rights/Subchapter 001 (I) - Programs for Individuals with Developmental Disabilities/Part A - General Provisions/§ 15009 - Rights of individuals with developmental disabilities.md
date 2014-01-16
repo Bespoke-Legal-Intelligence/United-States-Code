@@ -42,9 +42,9 @@ Congress makes the following findings respecting the rights of individuals with 
 
 #### (b) Clarification
 
-The rights of individuals with developmental disabilities described in findings made in this section shall be considered to be in addition toany constitutional or other rights otherwise afforded to all individuals.
+The rights of individuals with developmental disabilities described in findings made in this section shall be considered to be in addition to any constitutional or other rights otherwise afforded to all individuals.
 
 (Pub. L. 106–402, title I, §109, Oct. 30, 2000, 114 Stat. 1692.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “habilitation”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "habilitation".</i>
 

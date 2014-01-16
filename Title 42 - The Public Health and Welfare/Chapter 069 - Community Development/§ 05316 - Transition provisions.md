@@ -24,15 +24,15 @@ The Housing Act of 1961, referred to in subsec. (a), is Pub. L. 87–70, June 30
 
 #### Codification
 
-Subsecs. (c), (d), and (e) of section 116 of Pub. L. 93–383 were omitted from this section. Subsec. (c)amended section 1453(b) of this title, subsec. (d) amended section 3311(b) and (c) of this title, and subsec. (e) amended section 1452b(a) and (h) of this title.
+Subsecs. (c), (d), and (e) of section 116 of Pub. L. 93–383 were omitted from this section. Subsec. (c) amended section 1453(b) of this title, subsec. (d) amended section 3311(b) and (c) of this title, and subsec. (e) amended section 1452b(a) and (h) of this title.
 
 #### Amendments
 
-<b>1983</b>—Subsec. (b). Pub. L. 98–181 substituted “prior to such date” for “prior to such date (in that fiscal year)”, and “for that year” for “in that year”.
+<b>1983</b>—Subsec. (b). Pub. L. 98–181 substituted "prior to such date" for "prior to such date (in that fiscal year)", and "for that year" for "in that year".
 
 <b>1981</b>—Subsec. (b). Pub. L. 97–35 substituted provisions relating to submission of required statement for provisions relating to submission of required application.
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–399, §111(h), redesignated subsec. (g) as (b) and struck out “or from a unit of general local government for a grant pursuant to section 5306(h) of this title” after “section 5306(a) of this title”. Former subsec. (b), relating to deductions from grants for fiscal year 1975, was struck out.
+<b>1980</b>—Subsec. (b). Pub. L. 96–399, §111(h), redesignated subsec. (g) as (b) and struck out "or from a unit of general local government for a grant pursuant to section 5306(h) of this title" after "section 5306(a) of this title". Former subsec. (b), relating to deductions from grants for fiscal year 1975, was struck out.
 
 Subsec. (f). Pub. L. 96–399, §111(h)(1), struck out subsec. (f) relating to advances for program period beginning Jan. 1, 1975.
 
@@ -44,7 +44,7 @@ Subsec. (h). Pub. L. 96–399, §111(h)(1), struck out subsec. (h) relating to s
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 98–181, title I \[title I, §110(b)\], Nov. 30, 1983, 97 Stat. 1168, as amended by Pub. L. 98–479, title I, §101(b)(1), Oct. 17, 1984, 98 Stat. 2220, provided that: “The amendments made by this part \[part A (§§101–110) of title I of Pub. L. 98–181, title I, amending this section, sections 5301 to 5308 and 5312 of this title, and provisions set out as a note under section 5305 of this title\] shall apply only to funds available for fiscal year 1984 and thereafter.”
+Pub. L. 98–181, title I \[title I, §110(b)\], Nov. 30, 1983, 97 Stat. 1168, as amended by Pub. L. 98–479, title I, §101(b)(1), Oct. 17, 1984, 98 Stat. 2220, provided that: "The amendments made by this part \[part A (§§101–110) of title I of Pub. L. 98–181, title I, amending this section, sections 5301 to 5308 and 5312 of this title, and provisions set out as a note under section 5305 of this title\] shall apply only to funds available for fiscal year 1984 and thereafter."
 
 #### Effective Date of 1981 Amendment
 

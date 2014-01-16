@@ -10,7 +10,7 @@ The amount of contractor employee compensation under this part for the survivor 
 
 &emsp;&emsp;(A) the employee would have been entitled to compensation under section 7385s–4 of this title for a covered illness; and
 
-&emsp;&emsp;(B) it is at least as likely as not that exposure to a toxic substance at a Department ofEnergy facility was a significant factor in aggravating, contributing to, or causing the death of such employee.
+&emsp;&emsp;(B) it is at least as likely as not that exposure to a toxic substance at a Department of Energy facility was a significant factor in aggravating, contributing to, or causing the death of such employee.
 
 #### (2) Category two
 
@@ -22,7 +22,7 @@ The amount of contractor employee compensation under this part for the survivor 
 
 #### (b) One amount only
 
-The survivor of a covered DOE contractor employee to whom more than one amount under subsection (a) of this section applies shall receive only the highest such amount.
+The survivor of a covered DOE contractor employee to whom more than one amount undersubsection (a) of this section applies shall receive only the highest such amount.
 
 #### (c) Determination and allocation of shares
 
@@ -44,9 +44,9 @@ The amount under subsection (a) of this section shall be paid only as follows:
 
 In this section:
 
-&emsp;(1) The term “covered spouse” means a spouse of the employee who was married to the employee for at least one year immediately before the employee's death.
+&emsp;(1) The term "covered spouse" means a spouse of the employee who was married to the employee for at least one year immediately before the employee's death.
 
-&emsp;(2) The term “covered child” means a child of the employee who, as of the employee's death—
+&emsp;(2) The term "covered child" means a child of the employee who, as of the employee's death—
 
 &emsp;&emsp;(A) had not attained the age of 18 years;
 
@@ -54,7 +54,7 @@ In this section:
 
 &emsp;&emsp;(C) had been incapable of self-support.
 
-&emsp;(3) The term “child” includes a recognized natural child, a stepchild who lived with an individual in a regular parent-child relationship, and an adopted child.
+&emsp;(3) The term "child" includes a recognized natural child, a stepchild who lived with an individual in a regular parent-child relationship, and an adopted child.
 
 (Pub. L. 106–398, §1 \[div. C, title XXXVI, §3674\], as added Pub. L. 108–375, div. C, title XXXI, §3161, Oct. 28, 2004, 118 Stat. 2180.)
 

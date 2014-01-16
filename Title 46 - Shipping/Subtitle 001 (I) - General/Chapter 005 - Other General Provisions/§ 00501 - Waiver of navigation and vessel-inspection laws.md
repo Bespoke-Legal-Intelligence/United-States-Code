@@ -64,13 +64,13 @@ Historical and Revision Notes
 
 Dec. 27, 1950, ch. 1155, §§1, 2, 64 Stat. 1120.
 
-In subsection (b), the words “When the head of an agency . . . considers it necessary” are substituted for “either upon his own initiative or upon the written recommendation of the head of any other Government agency, when he deems that such action is necessary” to eliminate unnecessary words.
+In subsection (b), the words "When the head of an agency . . . considers it necessary" are substituted for "either upon his own initiative or upon the written recommendation of the head of any other Government agency, when he deems that such action is necessary" to eliminate unnecessary words.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(3)(A). Pub. L. 112–239 substituted “the Committee on Transportation and Infrastructure and the Committee on Armed Services of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate” for “the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate” in introductory provisions.
+<b>2013</b>—Subsec. (b)(3)(A). Pub. L. 112–239 substituted "the Committee on Transportation and Infrastructure and the Committee on Armed Services of the House of Representatives and the Committee on Commerce, Science, and Transportation and the Committee on Armed Services of the Senate" for "the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate" in introductory provisions.
 
 <b>2012</b>—Subsec. (b). Pub. L. 112–213 designated existing provisions as par. (1), inserted par. (1) heading, and added pars. (2) and (3).
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–417 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “When the head of an agency responsible for the administration of the navigation or vessel-inspection laws considers it necessary in the interest of national defense, the individual may waive compliance with those laws to the extent, in the manner, and on the terms the individual prescribes.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–417 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "When the head of an agency responsible for the administration of the navigation or vessel-inspection laws considers it necessary in the interest of national defense, the individual may waive compliance with those laws to the extent, in the manner, and on the terms the individual prescribes."
 

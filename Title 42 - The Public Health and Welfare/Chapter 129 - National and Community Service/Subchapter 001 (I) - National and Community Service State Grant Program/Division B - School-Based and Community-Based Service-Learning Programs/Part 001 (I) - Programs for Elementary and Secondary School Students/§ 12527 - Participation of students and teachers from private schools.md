@@ -16,7 +16,7 @@ If a State, territory, Indian tribe, or local educational agency is prohibited b
 
 #### Prior Provisions
 
-A prior section 12527, Pub. L. 101–610, title I, §115, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107Stat. 830, related to consideration of applications, prior to the general amendment of this part by Pub. L. 111–13.
+A prior section 12527, Pub. L. 101–610, title I, §115, as added Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 830, related to consideration of applications, prior to the general amendment of this part by Pub. L. 111–13.
 
 Another prior section 12527, Pub. L. 101–610, title I, §117, Nov. 16, 1990, 104 Stat. 3138; Pub. L. 102–10, §4(5), Mar. 12, 1991, 105 Stat. 30, prescribed authorized uses of funds, prior to repeal by Pub. L. 103–82, §103(a)(2).
 

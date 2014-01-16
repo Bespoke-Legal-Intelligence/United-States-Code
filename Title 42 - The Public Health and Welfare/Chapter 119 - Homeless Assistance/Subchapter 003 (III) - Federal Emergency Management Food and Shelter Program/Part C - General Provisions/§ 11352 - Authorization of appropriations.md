@@ -6,9 +6,9 @@ There are authorized to be appropriated to carry out this subchapter $180,000,00
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–550 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to carry out this subchapter $150,000,000 for each of fiscal years 1991 and 1992.”
+<b>1992</b>—Pub. L. 102–550 amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated to carry out this subchapter $150,000,000 for each of fiscal years 1991 and 1992."
 
-<b>1990</b>—Pub. L. 101–645 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to carry out this subchapter $129,000,000 for fiscal year 1989 and $134,000,000 for fiscal year 1990.”
+<b>1990</b>—Pub. L. 101–645 amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated to carry out this subchapter $129,000,000 for fiscal year 1989 and $134,000,000 for fiscal year 1990."
 
-<b>1988</b>—Pub. L. 100–628 amended section generally, substituting “$129,000,000 for fiscal year 1989 and $134,000,000 for fiscal year 1990” for “$15,000,000 for fiscal year 1987 and $124,000,000 for fiscal year 1988”.
+<b>1988</b>—Pub. L. 100–628 amended section generally, substituting "$129,000,000 for fiscal year 1989 and $134,000,000 for fiscal year 1990" for "$15,000,000 for fiscal year 1987 and $124,000,000 for fiscal year 1988".
 

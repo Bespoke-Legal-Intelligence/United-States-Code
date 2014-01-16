@@ -44,17 +44,17 @@ The following provisions of title 5 apply to the Panama Canal Commission:
 
 #### Amendments
 
-<b>1998</b>—Par. (11). Pub. L. 105–261 struck out par. (11) which read as follows: “Chapter 63 (relating to leave for CONUS employees).”
+<b>1998</b>—Par. (11). Pub. L. 105–261 struck out par. (11) which read as follows: "Chapter 63 (relating to leave for CONUS employees)."
 
-<b>1997</b>—Pars. (10) to (20). Pub. L. 105–85 redesignated pars. (11) to (20) as (10) to (19), respectively, and struck out former par. (10) which read as follows: “Chapter 57 (relating to travel, transportation, and subsistence).”
+<b>1997</b>—Pars. (10) to (20). Pub. L. 105–85 redesignated pars. (11) to (20) as (10) to (19), respectively, and struck out former par. (10) which read as follows: "Chapter 57 (relating to travel, transportation, and subsistence)."
 
-<b>1996</b>—Pub. L. 104–201 substituted “title 5” for “certain laws” in section catchline and amended text generally. Prior to amendment, text read as follows: “This part does not affect the applicability of—
+<b>1996</b>—Pub. L. 104–201 substituted "title 5" for "certain laws" in section catchline and amended text generally. Prior to amendment, text read as follows: "This part does not affect the applicability of—
 
-&emsp;“(1) the provisions of title 5 which relate to preference eligibles;
+&emsp;"(1) the provisions of title 5 which relate to preference eligibles;
 
-&emsp;“(2) the provisions of title 5 which relate to removal or suspension from the competitive service; and
+&emsp;"(2) the provisions of title 5 which relate to removal or suspension from the competitive service; and
 
-&emsp;“(3) the provisions of section 5544(a) of title 5 which relate to wage-board overtime and Sunday rates, with respect to classes of employees who were covered by those provisions on September 27, 1979.”
+&emsp;"(3) the provisions of section 5544(a) of title 5 which relate to wage-board overtime and Sunday rates, with respect to classes of employees who were covered by those provisions on September 27, 1979."
 
 #### Effective Date of 1998 Amendment
 

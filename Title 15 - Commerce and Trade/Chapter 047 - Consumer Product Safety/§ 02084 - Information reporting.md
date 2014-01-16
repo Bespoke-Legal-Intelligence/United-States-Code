@@ -54,23 +54,23 @@ For purposes of this section:
 
 Pub. L. 101–608, title I, §112(f), Nov. 16, 1990, 104 Stat. 3117, provided that:
 
-“(1) The Consumer Product Safety Commission shall report to the Congress on the extent to which reports made to the Commission under section 37 of the Consumer Product Safety Act \[15 U.S.C. 2084\] have assisted the Commission in carrying out its responsibilities under such Act \[15 U.S.C. 2051 et seq.\]. The report—
+"(1) The Consumer Product Safety Commission shall report to the Congress on the extent to which reports made to the Commission under section 37 of the Consumer Product Safety Act \[15 U.S.C. 2084\] have assisted the Commission in carrying out its responsibilities under such Act \[15 U.S.C. 2051 et seq.\]. The report—
 
-&emsp;“(A) shall provide aggregate data and not the details and contents of individual reports filed with the Commission pursuant to such section 37,
+&emsp;"(A) shall provide aggregate data and not the details and contents of individual reports filed with the Commission pursuant to such section 37,
 
-&emsp;“(B) shall not disclose the brand names of products included in reports under such section 15(b) or 37 \[15 U.S.C. 2064(b), 2084\] or the number of reports under such sections for particular models or classes of products, and
+&emsp;"(B) shall not disclose the brand names of products included in reports under such section 15(b) or 37 \[15 U.S.C. 2064(b), 2084\] or the number of reports under such sections for particular models or classes of products, and
 
-&emsp;“(C) shall include—
+&emsp;"(C) shall include—
 
-&emsp;&emsp;“(i) a comparison of the number of reports received under such section 37 and the number of reports received under section 15(b) of such Act,
+&emsp;&emsp;"(i) a comparison of the number of reports received under such section 37 and the number of reports received under section 15(b) of such Act,
 
-&emsp;&emsp;“(ii) a comparison of the number of reports filed with the Commission before the date of the enactment of this Act \[Nov. 16, 1990\] and after such date, and
+&emsp;&emsp;"(ii) a comparison of the number of reports filed with the Commission before the date of the enactment of this Act \[Nov. 16, 1990\] and after such date, and
 
-&emsp;&emsp;“(iii) the total number of settlements and court judgments reported under such section 37 and the total number of rulemakings and enforcement actions undertaken in response to such reports,
+&emsp;&emsp;"(iii) the total number of settlements and court judgments reported under such section 37 and the total number of rulemakings and enforcement actions undertaken in response to such reports,
 
-&emsp;&emsp;“(iv) recommendations of the Commission for additional improvements in reporting under the Consumer Product Safety Act.
+&emsp;&emsp;"(iv) recommendations of the Commission for additional improvements in reporting under the Consumer Product Safety Act.
 
-“(2) The first report under paragraph (1) shall be due February 1, 1992, and the second such report shall be due April 1, 1993.”
+"(2) The first report under paragraph (1) shall be due February 1, 1992, and the second such report shall be due April 1, 1993."
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

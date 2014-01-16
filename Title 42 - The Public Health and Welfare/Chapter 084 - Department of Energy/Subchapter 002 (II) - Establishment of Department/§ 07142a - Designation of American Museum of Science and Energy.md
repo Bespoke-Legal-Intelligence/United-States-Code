@@ -4,23 +4,23 @@
 
 The Museum—
 
-&emsp;(1) is designated as the “American Museum of Science and Energy”; and
+&emsp;(1) is designated as the "American Museum of Science and Energy"; and
 
 &emsp;(2) shall be the official museum of science and energy of the United States.
 
 #### (b) References
 
-Any reference in a law, map, regulation, document, paper, or other record of the United States to the Museum is deemed to be a reference to the “American Museum of Science and Energy”.
+Any reference in a law, map, regulation, document, paper, or other record of the United States to the Museum is deemed to be a reference to the "American Museum of Science and Energy".
 
 #### (c) Property of the United States
 
 #### (1) In general
 
-&emsp;The name “American Museum of Science and Energy” is declared the property of the United States.
+&emsp;The name "American Museum of Science and Energy" is declared the property of the United States.
 
 #### (2) Use
 
-&emsp;The Museum shall have the sole right throughout the United States and its possessions to have and use the name “American Museum of Science and Energy”.
+&emsp;The Museum shall have the sole right throughout the United States and its possessions to have and use the name "American Museum of Science and Energy".
 
 #### (3) Effect on other rights
 

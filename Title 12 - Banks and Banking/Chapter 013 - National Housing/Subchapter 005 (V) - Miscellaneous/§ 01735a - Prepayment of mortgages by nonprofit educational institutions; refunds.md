@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>1967</b>—Subsecs. (a), (b). Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing.
+<b>1967</b>—Subsecs. (a), (b). Pub. L. 90–19 substituted "Secretary" for "Commissioner" wherever appearing.
 

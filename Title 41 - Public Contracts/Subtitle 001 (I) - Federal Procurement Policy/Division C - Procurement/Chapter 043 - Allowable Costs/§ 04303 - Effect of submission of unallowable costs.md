@@ -72,5 +72,5 @@ June 30, 1949, ch. 288, title III, §306(a)–(d), as added Pub. L. 100–700, �
 
 41:256(d).
 
-In subsection (a), the words “(referred to in section 421(c)(1) of this title)” are omitted as unnecessary.
+In subsection (a), the words "(referred to in section 421(c)(1) of this title)" are omitted as unnecessary.
 

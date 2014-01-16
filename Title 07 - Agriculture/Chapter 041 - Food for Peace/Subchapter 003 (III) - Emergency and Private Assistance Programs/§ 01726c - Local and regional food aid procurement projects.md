@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Agency for International Development.
+&emsp;The term "Administrator" means the Administrator of the Agency for International Development.
 
 #### (2) Appropriate committee of Congress
 
-&emsp;The term “appropriate committee of Congress” means—
+&emsp;The term "appropriate committee of Congress" means—
 
 &emsp;&emsp;(A) the Committee on Agriculture, Nutrition, and Forestry of the Senate;
 
@@ -20,7 +20,7 @@ In this section:
 
 #### (3) Eligible commodity
 
-&emsp;The term “eligible commodity” means an agricultural commodity (or the product of an agricultural commodity) that—
+&emsp;The term "eligible commodity" means an agricultural commodity (or the product of an agricultural commodity) that—
 
 &emsp;&emsp;(A) is produced in, and procured from, a developing country; and
 
@@ -28,7 +28,7 @@ In this section:
 
 #### (4) Eligible organization
 
-&emsp;The term “eligible organization” means an organization that is—
+&emsp;The term "eligible organization" means an organization that is—
 
 &emsp;&emsp;(A) described in section 1722(d) of this title; and
 
@@ -56,7 +56,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;In accordance with subparagraph (B), the Secretary shall provide grants to, or enterinto cooperative agreements with, eligible organizations to carry out field-based projects that consist of local or regional procurements of eligible commodities to respond to food crises and disasters in accordance with this section.
+&emsp;&emsp;In accordance with subparagraph (B), the Secretary shall provide grants to, or enter into cooperative agreements with, eligible organizations to carry out field-based projects that consist of local or regional procurements of eligible commodities to respond to food crises and disasters in accordance with this section.
 
 #### (B) Consultation with Administrator
 
@@ -152,7 +152,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (B), in selecting proposals for field-basedprojects to fund under this section, the Secretary shall select a diversity of projects, including projects located in—
+&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (B), in selecting proposals for field-based projects to fund under this section, the Secretary shall select a diversity of projects, including projects located in—
 
 &emsp;&emsp;&emsp;&emsp;(I) food surplus regions;
 
@@ -276,7 +276,7 @@ Section was enacted as part of the Food, Conservation, and Energy Act of 2008, a
 
 Section effective May 22, 2008, see section 4(b) of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-#### Definition of “Secretary”
+#### Definition of "Secretary"
 
-“Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
+"Secretary" as meaning the Secretary of Agriculture, see section 8701 of this title.
 

@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “taxable distribution” means any distribution from a donor advised fund—
+&emsp;The term "taxable distribution" means any distribution from a donor advised fund—
 
 &emsp;&emsp;(A) to any natural person, or
 
@@ -54,7 +54,7 @@ For purposes of this subchapter—
 
 #### (1) Sponsoring organization
 
-&emsp;The term “sponsoring organization” means any organization which—
+&emsp;The term "sponsoring organization" means any organization which—
 
 &emsp;&emsp;(A) is described in section 170(c) (other than in paragraph (1) thereof, and without regard to paragraph (2)(A) thereof),
 
@@ -66,7 +66,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B) or (C), the term “donor advised fund” means a fund or account—
+&emsp;&emsp;Except as provided in subparagraph (B) or (C), the term "donor advised fund" means a fund or account—
 
 &emsp;&emsp;&emsp;(i) which is separately identified by reference to contributions of a donor or donors,
 
@@ -76,13 +76,13 @@ For purposes of this subchapter—
 
 #### (B) Exceptions
 
-&emsp;&emsp;The term “donor advised fund” shall not include any fund or account—
+&emsp;&emsp;The term "donor advised fund" shall not include any fund or account—
 
 &emsp;&emsp;&emsp;(i) which makes distributions only to a single identified organization or governmental entity, or
 
 &emsp;&emsp;&emsp;(ii) with respect to which a person described in subparagraph (A)(iii) advises as to which individuals receive grants for travel, study, or other similar purposes, if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such person's advisory privileges are performed exclusively by such person in the person's capacity as a member of a committee all of the members of which are appointed by the sponsoring organization,
+&emsp;&emsp;&emsp;&emsp;(I) such person's advisory privileges are performed exclusively by such person in the person's capacity as a member ofa committee all of the members of which are appointed by the sponsoring organization,
 
 &emsp;&emsp;&emsp;&emsp;(II) no combination of persons described in subparagraph (A)(iii) (or persons related to such persons) control, directly or indirectly, such committee, and
 
@@ -98,7 +98,7 @@ For purposes of this subchapter—
 
 #### (3) Fund manager
 
-&emsp;The term “fund manager” means, with respect to any sponsoring organization—
+&emsp;The term "fund manager" means, with respect to any sponsoring organization—
 
 &emsp;&emsp;(A) an officer, director, or trustee of such sponsoring organization (or an individual having powers or responsibilities similar to those of officers, directors, or trustees of the sponsoring organization), and
 
@@ -108,7 +108,7 @@ For purposes of this subchapter—
 
 #### (A) In general
 
-&emsp;&emsp;The term “disqualified supporting organization” means, with respect to any distribution—
+&emsp;&emsp;The term "disqualified supporting organization" means, with respect to any distribution—
 
 &emsp;&emsp;&emsp;(i) any type III supporting organization (as defined in section 4943(f)(5)(A)) which is not a functionally integrated type III supporting organization (as defined in section 4943(f)(5)(B)), and
 

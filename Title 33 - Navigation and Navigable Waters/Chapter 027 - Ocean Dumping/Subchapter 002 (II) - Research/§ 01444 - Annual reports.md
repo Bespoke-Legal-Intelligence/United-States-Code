@@ -30,5 +30,5 @@ A prior section 204 of Pub. L. 92–532, which was classified to this section, w
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–627 added subsec. (c).
 
-<b>1986</b>—Pub. L. 99–272 amended section generally. Prior to amendment, section read as follows: “The Administrator of the Environmental Protection Agency is authorized to conduct a study to assist the city of New York in evaluating the technological options available for the removal of heavy metals and other toxic organic materials from the sewage sludge of the city of New York. The study shall also examine options available to reduce the amount of such pollutants entering the sewage system. The study is to be completed by July 1, 1981.”
+<b>1986</b>—Pub. L. 99–272 amended section generally. Prior to amendment, section read as follows: "The Administrator of the Environmental Protection Agency is authorized to conduct a study to assist the city of New York in evaluating the technological options available for the removal of heavy metals and other toxic organic materials from the sewage sludge of the city of New York. The study shall also examine options available to reduce the amount of such pollutants entering the sewage system. The study is to be completed by July 1, 1981."
 

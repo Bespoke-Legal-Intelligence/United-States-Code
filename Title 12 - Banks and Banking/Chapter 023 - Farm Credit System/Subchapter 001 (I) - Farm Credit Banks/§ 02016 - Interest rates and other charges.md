@@ -16,7 +16,7 @@ A prior section 2016, Pub. L. 92–181, title I, §1.8, Dec. 10, 1971, 85 Stat. 
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–399 substituted “such rate or rates of interest or discount, and be” for “interest at a rate or rates, and”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–399 substituted "such rate or rates of interest or discount, and be" for "interest at a rate or rates, and".
 
 #### Effective Date of 1988 Amendment
 

@@ -16,7 +16,7 @@ Approval by commission.—(A) Within ninety days after receipt of a land use ord
 
 (B) If approval is denied, the Commission shall state the reasons for finding the ordinance is inconsistent with the management plan, and shall submit to the county suggested modifications to the ordinance to make it consistent with the management plan.
 
-(C) Each county shall have ninety days after it receives recommendations from the Commission to make modifications designed to eliminate the inconsistencies and to resubmit the ordinance to the Commission for approval. The Commission shall have sixty days to approve or disapprovethe resubmitted ordinance. Any resubmitted ordinance shall become effective upon approval. Should the Commission disapprove the resubmitted ordinance, it shall promptly resubmit the ordinance for reconsideration. Should the Commission fail to act within sixty days, the ordinance shall be deemed to be approved.
+(C) Each county shall have ninety days after it receives recommendations from the Commission to make modifications designed to eliminate the inconsistencies and to resubmit the ordinance to the Commission for approval. The Commission shall have sixty days to approve or disapprove the resubmitted ordinance. Any resubmitted ordinance shall become effective upon approval. Should the Commission disapprove the resubmitted ordinance, it shall promptly resubmit the ordinance for reconsideration. Should the Commission fail to act within sixty days, the ordinance shall be deemed to be approved.
 
 #### (c) Commission land use ordinances
 
@@ -24,7 +24,7 @@ Approval by commission.—(A) Within ninety days after receipt of a land use ord
 
 (2)
 
-Subsequent Compliance.—In the event the Commission has promulgated regulations pursuant to this section, a county may thereafter upon written notice to the Commission elect to adopt a land use ordinance, in which event it shall comply with the provisions of this section for adoption of a land use ordinance. Upon approval of a land use ordinance by the Commission it shall supersede any regulations for the county developed by the Commission, subject to valid existing rights.
+Subsequent Compliance.—In the event the Commission has promulgated regulations pursuant to this section, a county may thereafter upon written notice to the Commission elect to adopt a land use ordinance, in which event it shall comply with the provisions of this sectionfor adoption of a land use ordinance. Upon approval of a land use ordinance by the Commission it shall supersede any regulations for the county developed by the Commission, subject to valid existing rights.
 
 #### (d) Construction of facilities
 

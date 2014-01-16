@@ -10,15 +10,15 @@ Based on title 18, U.S.C., 1940 ed., §319 (Mar. 4, 1909, ch. 321, §196, 35 Sta
 
 Theft provisions alone are retained in this section. Those relating to other offenses were incorporated in section 1703 of this title.
 
-Words “mail or” following “steals any” were omitted as covered by section 1709 of this title.
+Words "mail or" following "steals any" were omitted as covered by section 1709 of this title.
 
 Changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $100”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $100".
 
-<b>1970</b>—Pub. L. 91–375 substituted “Postal Service officer or employee” for “postmaster or Postal Service employee”.
+<b>1970</b>—Pub. L. 91–375 substituted "Postal Service officer or employee" for "postmaster or Postal Service employee".
 
 #### Effective Date of 1970 Amendment
 

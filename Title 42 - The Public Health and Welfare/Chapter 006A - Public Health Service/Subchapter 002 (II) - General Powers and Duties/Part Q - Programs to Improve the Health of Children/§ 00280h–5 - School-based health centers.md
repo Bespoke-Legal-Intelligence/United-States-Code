@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Comprehensive primary health services
 
-&emsp;The term “comprehensive primary health services” means the core services offered by school-based health centers, which shall include the following:
+&emsp;The term "comprehensive primary health services" means the core services offered by school-based health centers, which shall include the following:
 
 #### (A) Physical
 
@@ -14,13 +14,13 @@ In this section:
 
 #### (B) Mental health
 
-&emsp;&emsp;Mental health and substance use disorder assessments, crisis intervention, counseling,treatment, and referral to a continuum of services including emergency psychiatric care, community support programs, inpatient care, and outpatient programs.
+&emsp;&emsp;Mental health and substance use disorder assessments, crisis intervention, counseling, treatment, and referral to a continuum of services including emergency psychiatric care, community support programs, inpatient care, and outpatient programs.
 
 #### (2) Medically underserved children and adolescents
 
 #### (A) In general
 
-&emsp;&emsp;The term “medically underserved children and adolescents” means a population of children and adolescents who are residents of an area designated as a medically underserved area or a health professional shortage area by the Secretary.
+&emsp;&emsp;The term "medically underserved children and adolescents" means a population of children and adolescents who are residents of an area designated as a medically underserved area or a health professional shortage area by the Secretary.
 
 #### (B) Criteria
 
@@ -32,7 +32,7 @@ In this section:
 
 #### (3) School-based health center
 
-&emsp;The term “school-based health center” means a health clinic that—
+&emsp;The term "school-based health center" means a health clinic that—
 
 &emsp;&emsp;(A) meets the definition of a school-based health center under section 1397jj(c)(9)(A) of this title and is administered by a sponsoring facility (as defined in section 1397jj(c)(9)(B) of this title);
 
@@ -42,7 +42,7 @@ In this section:
 
 #### (b) Authority to award grants
 
-The Secretary shall award grants for the costs of the operation of school-based health centers (referred to in this section as “SBHCs”) that meet the requirements of this section.
+The Secretary shall award grants for the costs of the operation of school-based health centers (referred to in this section as "SBHCs") that meet the requirements of this section.
 
 #### (c) Applications
 
@@ -164,7 +164,7 @@ The Health Insurance Portability and Accountability Act of 1996, referred to in 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1)(A). Pub. L. 111–148, §10402(a), inserted “and vision” after “oral”.
+<b>2010</b>—Subsec. (a)(1)(A). Pub. L. 111–148, §10402(a), inserted "and vision" after "oral".
 
 <i><sup>1</sup></i><i> So in original.</i>
 

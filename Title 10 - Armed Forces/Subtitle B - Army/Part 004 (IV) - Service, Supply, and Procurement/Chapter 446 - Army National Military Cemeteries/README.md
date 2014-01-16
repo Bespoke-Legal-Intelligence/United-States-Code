@@ -8,8 +8,13 @@
 | [4724\.](%C2%A7%2004724%20-%20Executive%20Director.md) | Executive Director. |
 | [4725\.](%C2%A7%2004725%20-%20Superintendents.md) | Superintendents. |
 | [4726\.](%C2%A7%2004726%20-%20Oversight%20and%20inspections.md) | Oversight and inspections. |
+| [4727\.](%C2%A7%2004727%20-%20Cemetery%20concessions%20contracts.md) | Cemetery concessions contracts. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Amendments
+
+<b>2013</b>—Pub. L. 113–66, div. A, title V, §585(b), Dec. 26, 2013, 127 Stat. 777, added item 4727.
 
 
 ---
@@ -22,3 +27,4 @@
 - [&sect; 04724 - Executive Director](%C2%A7%2004724%20-%20Executive%20Director.md)
 - [&sect; 04725 - Superintendents](%C2%A7%2004725%20-%20Superintendents.md)
 - [&sect; 04726 - Oversight and inspections](%C2%A7%2004726%20-%20Oversight%20and%20inspections.md)
+- [&sect; 04727 - Cemetery concessions contracts](%C2%A7%2004727%20-%20Cemetery%20concessions%20contracts.md)

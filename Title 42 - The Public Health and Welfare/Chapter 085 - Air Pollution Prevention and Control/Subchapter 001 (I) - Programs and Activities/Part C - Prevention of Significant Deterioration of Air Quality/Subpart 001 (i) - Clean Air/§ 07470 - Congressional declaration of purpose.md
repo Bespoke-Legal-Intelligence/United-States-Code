@@ -2,7 +2,7 @@
 
 The purposes of this part are as follows:
 
-&emsp;(1) to protect public health and welfare from any actual or potential adverse effect which in the Administrator's judgment may reasonably be anticipate <sup>1</sup> to occur from air pollution orfrom exposures to pollutants in other media, which pollutants originate as emissions to the ambient air) <sup>2</sup>, notwithstanding attainment and maintenance of all national ambient air quality standards;
+&emsp;(1) to protect public health and welfare from any actual or potential adverse effect which in the Administrator's judgment may reasonably be anticipate <sup>1</sup> to occur from air pollution or from exposures to pollutants in other media, which pollutants originate as emissions to the ambient air) <sup>2</sup>, notwithstanding attainment and maintenance of all national ambient air quality standards;
 
 &emsp;(2) to preserve, protect, and enhance the air quality in national parks, national wilderness areas, national monuments, national seashores, and other areas of special national or regional natural, recreational, scenic, or historic value;
 
@@ -24,9 +24,9 @@ Pub. L. 95–95, title I, §127(c), Aug. 7, 1977, 91 Stat. 741, required Adminis
 
 #### Study and Report on Progress Made in Program Relating to Significant Deterioration of Air Quality
 
-Pub. L. 95–95, title I, §127(d), Aug. 7, 1977, 91 Stat. 742, directed Administrator, not later than 2 years after Aug. 7, 1977, to complete a study and report to Congress on progress made in carrying out part C of title I of the Clean Air Act (this part) and the problems associated in carrying out such section.
+Pub. L. 95–95, title I, §127(d), Aug. 7, 1977, 91 Stat. 742, directed Administrator, not later than 2 years afterAug. 7, 1977, to complete a study and report to Congress on progress made in carrying out part C of title I of the Clean Air Act (this part) and the problems associated in carrying out such section.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “anticipated”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "anticipated".</i>
 
 <i><sup>2</sup></i><i> So in original. Section was enacted without an opening parenthesis.</i>
 

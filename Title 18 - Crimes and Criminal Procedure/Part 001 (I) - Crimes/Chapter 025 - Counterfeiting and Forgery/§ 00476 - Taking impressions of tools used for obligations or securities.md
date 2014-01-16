@@ -16,7 +16,7 @@ Changes in phraseology were also made.
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–56 inserted “analog, digital, or electronic image,” after “impression, stamp,” and substituted “25 years” for “ten years”.
+<b>2001</b>—Pub. L. 107–56 inserted "analog, digital, or electronic image," after "impression, stamp," and substituted "25 years" for "ten years".
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
 

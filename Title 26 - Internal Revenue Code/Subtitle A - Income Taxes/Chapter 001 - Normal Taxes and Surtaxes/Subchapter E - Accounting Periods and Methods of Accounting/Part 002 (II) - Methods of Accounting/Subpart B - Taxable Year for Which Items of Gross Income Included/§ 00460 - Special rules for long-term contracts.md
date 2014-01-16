@@ -80,7 +80,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (i) Highest rate
 
-&emsp;&emsp;&emsp;The term “highest rate” means—
+&emsp;&emsp;&emsp;The term "highest rate" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) the highest rate of tax specified in section 11, or
 
@@ -88,7 +88,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (ii) Pass-thru entity
 
-&emsp;&emsp;&emsp;The term “pass-thru entity” means any—
+&emsp;&emsp;&emsp;The term "pass-thru entity" means any—
 
 &emsp;&emsp;&emsp;&emsp;(I) partnership,
 
@@ -98,7 +98,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (iii) Closely held pass-thru entity
 
-&emsp;&emsp;&emsp;The term “closely held pass-thru entity” means any pass-thru entity if, at any time during any taxable year for which there is income under the contract, 50 percent or more (by value) of the beneficial interests in such entity are held (directly or indirectly) by or for 5 or fewer persons. For purposes of the preceding sentence, rules similar to the constructive ownership rules of section 1563(e) shall apply.
+&emsp;&emsp;&emsp;The term "closely held pass-thru entity" means any pass-thru entity if, at any time during any taxable year for which there is income under the contract, 50 percent or more (by value) of the beneficial interests in such entity are held (directly or indirectly) by or for 5 or fewer persons. For purposes of the preceding sentence, rules similar to the constructive ownership rules of section 1563(e) shall apply.
 
 #### (5) Election to use 10-percent method
 
@@ -116,7 +116,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (ii) 10-percent year
 
-&emsp;&emsp;&emsp;The term “10-percent year” means the 1st taxable year as of the close of which at least 10 percent of the estimated total contract costs have been incurred.
+&emsp;&emsp;&emsp;The term "10-percent year" means the 1st taxable year as of the close of which at least 10 percent of the estimated total contract costs have been incurred.
 
 #### (C) Election
 
@@ -156,7 +156,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (i) Contract year
 
-&emsp;&emsp;&emsp;The term “contract year” means any taxable year for which income is taken into account under the contract.
+&emsp;&emsp;&emsp;The term "contract year" means any taxable year for which income is taken into account under the contract.
 
 #### (ii) Look-back income or loss
 
@@ -178,13 +178,13 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (B) Interest accrual period
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “interest accrual period” means the period—
+&emsp;&emsp;For purposes of subparagraph (A), the term "interest accrual period" means the period—
 
 &emsp;&emsp;&emsp;(i) beginning on the day after the return due date for any taxable year of the taxpayer, and
 
 &emsp;&emsp;&emsp;(ii) ending on the return due date for the following taxable year.
 
-> &emsp;&emsp;For purposes of the preceding sentence, the term “return due date” means the date prescribed for filing the return of the tax imposed by this chapter (determined without regard to extensions).
+> &emsp;&emsp;For purposes of the preceding sentence, the term "return due date" means the date prescribed for filing the return of the tax imposed by this chapter (determined without regard to extensions).
 
 #### (c) Allocation of costs to contract
 
@@ -230,7 +230,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (5) Independent research and development expenses
 
-&emsp;For purposes of paragraph (4), the term “independent research and development expenses” means any expenses incurred in the performance of research or development, except that such term shall not include—
+&emsp;For purposes of paragraph (4), the term "independent research and development expenses" means any expenses incurred in the performance of research or development, except that such term shall not include—
 
 &emsp;&emsp;(A) any expenses which are directly attributable to a long-term contract in existence when such expenses are incurred, or
 
@@ -244,7 +244,7 @@ In the case of any long-term contract, the taxable income from such contract sha
 
 #### (B) Qualified property
 
-&emsp;&emsp;For purposes of this paragraph, the term “qualified property” means property described in section 168(k)(2) which—
+&emsp;&emsp;For purposes of this paragraph, the term "qualified property" means property described in section 168(k)(2) which—
 
 &emsp;&emsp;&emsp;(i) has a recovery period of 7 years or less, and
 
@@ -256,7 +256,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “Federal long-term contract” means any long-term contract—
+&emsp;The term "Federal long-term contract" means any long-term contract—
 
 &emsp;&emsp;(A) to which the United States (or any agency or instrumentality thereof) is a party, or
 
@@ -296,23 +296,23 @@ For purposes of this section—
 
 #### (3) Controlled group of corporations
 
-&emsp;For purposes of this subsection, the term “controlled group of corporations” has the meaning given to such term by section 1563(a), except that—
+&emsp;For purposes of this subsection, the term "controlled group of corporations" has the meaning given to such term by section 1563(a), except that—
 
-&emsp;&emsp;(A) “more than 50 percent” shall be substituted for “at least 80 percent” each place it appears in section 1563(a)(1), and
+&emsp;&emsp;(A) "more than 50 percent" shall be substituted for "at least 80 percent" each place it appears in section 1563(a)(1), and
 
 &emsp;&emsp;(B) the determination shall be made without regard to subsections (a)(4) and (e)(3)(C) of section 1563.
 
 #### (4) Construction contract
 
-&emsp;For purposes of this subsection, the term “construction contract” means any contract for the building, construction, reconstruction, or rehabilitation of, or the installation of any integral component to, or improvements of, real property.
+&emsp;For purposes of this subsection, the term "construction contract" means any contract for the building, construction, reconstruction, or rehabilitation of, or the installation of any integral component to, or improvements of, real property.
 
 #### (5) Special rule for residential construction contracts which are not home construction contracts
 
 &emsp;In the case of any residential construction contract which is not a home construction contract, subsection (a) (as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1989) shall apply except that such subsection shall be applied—
 
-&emsp;&emsp;(A) by substituting “70 percent” for “90 percent” each place it appears, and
+&emsp;&emsp;(A) by substituting "70 percent" for "90 percent" each place it appears, and
 
-&emsp;&emsp;(B) by substituting “30 percent” for “10 percent”.
+&emsp;&emsp;(B) by substituting "30 percent" for "10 percent".
 
 #### (6) Definitions relating to residential construction contracts
 
@@ -320,7 +320,7 @@ For purposes of this section—
 
 #### (A) Home construction contract
 
-&emsp;&emsp;The term “home construction contract” means any construction contract if 80 percent or more of the estimated total contract costs (as of the close of the taxable year in which the contract was entered into) are reasonably expected to be attributable to activities referred to in paragraph (4) with respect to—
+&emsp;&emsp;The term "home construction contract" means any construction contract if 80 percent or more of the estimated total contract costs (as of the close of the taxable year in which the contract was entered into) are reasonably expected to be attributable to activities referred to in paragraph (4) with respect to—
 
 &emsp;&emsp;&emsp;(i) dwelling units (as defined in section 168(e)(2)(A)(ii)) contained in buildings containing 4 or fewer dwelling units (as so defined), and
 
@@ -330,9 +330,9 @@ For purposes of this section—
 
 #### (B) Residential construction contract
 
-&emsp;&emsp;The term “residential construction contract” means any contract which would be described in subparagraph (A) if clause (i) of such subparagraph reads as follows:
+&emsp;&emsp;The term "residential construction contract" means any contract which would be described in subparagraph (A) if clause (i) of such subparagraph reads as follows:
 
-&emsp;&emsp;&emsp;“(i) dwelling units (as defined in section 168(e)(2)(A)(ii)), and”.
+&emsp;&emsp;&emsp;"(i) dwelling units (as defined in section 168(e)(2)(A)(ii)), and".
 
 #### (f) Long-term contract
 
@@ -340,7 +340,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “long-term contract” means any contract for the manufacture, building, installation, or construction of property if such contract is not completed within the taxable year in which such contract is entered into.
+&emsp;The term "long-term contract" means any contract for the manufacture, building, installation, or construction of property if such contract is not completed within the taxable year in which such contract is entered into.
 
 #### (2) Special rule for manufacturing contracts
 
@@ -360,7 +360,7 @@ For purposes of this section—
 
 #### (g) Contract commencement date
 
-For purposes of this section, the term “contract commencement date” means, with respect to any contract, the first date on which any costs (other than bidding expenses or expenses incurred in connection with negotiating the contract) allocable to such contract are incurred.
+For purposes of this section, the term "contract commencement date" means, with respect to any contract, the first date on which any costs (other than bidding expenses or expenses incurred in connection with negotiating the contract) allocable to such contract are incurred.
 
 #### (h) Regulations
 
@@ -374,69 +374,69 @@ The date of the enactment of the Revenue Reconciliation Act of 1989, referred to
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c)(6)(B)(ii). Pub. L. 112–240 inserted “, or after December 31, 2012, and before January 1, 2014 (January 1, 2015, in the case of property described in section 168(k)(2)(B))” before period at end.
+<b>2013</b>—Subsec. (c)(6)(B)(ii). Pub. L. 112–240 inserted ", or after December 31, 2012, and before January 1, 2014 (January 1, 2015, in the case of property described in section 168(k)(2)(B))" before period at end.
 
 <b>2010</b>—Subsec. (c)(6). Pub. L. 111–240 added par. (6).
 
-<b>1997</b>—Subsec. (b)(2)(C). Pub. L. 105–34, §1211(b)(1), substituted “the adjusted overpayment rate (as defined in paragraph (7))” for “the overpayment rate established by section 6621”.
+<b>1997</b>—Subsec. (b)(2)(C). Pub. L. 105–34, §1211(b)(1), substituted "the adjusted overpayment rate (as defined in paragraph (7))" for "the overpayment rate established by section 6621".
 
 Subsec. (b)(6). Pub. L. 105–34, §1211(a), added par. (6).
 
 Subsec. (b)(7). Pub. L. 105–34, §1211(b)(2), added par. (7).
 
-<b>1996</b>—Subsec. (b)(1). Pub. L. 104–188, §1704(t)(28), which directed that par. (1) be amended by substituting “the look-back method of paragraph (2)” for “the look-back method of paragraph (3)”, could not be executed, because that phrase does not appear in text. See 1989 Amendment note below.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–188, §1704(t)(28), which directed that par. (1) be amended by substituting "the look-back method of paragraph (2)" for "the look-back method of paragraph (3)", could not be executed, because that phrase does not appear in text. See 1989 Amendment note below.
 
-Subsec. (e)(6)(B). Pub. L. 104–188, §1702(h)(15), substituted “section 168(e)(2)(A)(ii)” for “section 167(k)”.
+Subsec. (e)(6)(B). Pub. L. 104–188, §1702(h)(15), substituted "section 168(e)(2)(A)(ii)" for "section 167(k)".
 
-<b>1990</b>—Subsec. (e)(6)(A)(i). Pub. L. 101–508 substituted “section 168(e)(2)(A)(ii)” for “section 167(k)”.
+<b>1990</b>—Subsec. (e)(6)(A)(i). Pub. L. 101–508 substituted "section 168(e)(2)(A)(ii)" for "section 167(k)".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7621(a), substituted “Requirement that percentage of completion method be used” for “Percentage of completion-capitalized cost method” in heading and amended text generally. Prior to amendment, text read as follows:
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7621(a), substituted "Requirement that percentage of completion method be used" for "Percentage of completion-capitalized cost method" in heading and amended text generally. Prior to amendment, text read as follows:
 
-“(1)
+"(1)
 
 In general.—In the case of any long-term contract—
 
-&emsp;“(A) 90 percent of the items with respect to such contract shall be taken into account under the percentage of completion method (as modified by subsection (b)), and
+&emsp;"(A) 90 percent of the items with respect to such contract shall be taken into account under the percentage of completion method (as modified by subsection (b)), and
 
-&emsp;“(B) 10 percent of the items with respect to such contract shall be taken into account under the taxpayer's normal method of accounting.
+&emsp;"(B) 10 percent of the items with respect to such contract shall be taken into account under the taxpayer's normal method of accounting.
 
-“(2) 90
+"(2) 90
 
-percent look-back method to apply.—Upon completion of any long-term contract (or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account), the taxpayer shall pay (or shall be entitled to receive) interest determined by applying the look-back method of subsection (b)(3) to 90 percent of the items with respect to the contract.”
+percent look-back method to apply.—Upon completion of any long-term contract (or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account), the taxpayer shall pay (or shall be entitled to receive) interest determined by applying the look-back method of subsection (b)(3) to 90 percent of the items with respect to the contract."
 
-Subsec. (a)(2). Pub. L. 101–239, §7811(e)(1), inserted “(or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account)” after “any long-term contract”.
+Subsec. (a)(2). Pub. L. 101–239, §7811(e)(1), inserted "(or, with respect to any amount properly taken into account after completion of the contract, when such amount is so properly taken into account)" after "any long-term contract".
 
-Subsec. (b)(1). Pub. L. 101–239, §7621(c)(2)(A), substituted “paragraph (3)” for “paragraph (4)”.
+Subsec. (b)(1). Pub. L. 101–239, §7621(c)(2)(A), substituted "paragraph (3)" for "paragraph (4)".
 
-Pub. L. 101–239, §7621(c)(2)(B), which directed the amendment of par. (1) by substituting “paragraph (2)” for “paragraph (3)”, was executed by making the substitution in subpar. (B) and concluding provisions to reflect the probable intent of Congress.
+Pub. L. 101–239, §7621(c)(2)(B), which directed the amendment of par. (1) by substituting "paragraph (2)" for "paragraph (3)", was executed by making the substitution in subpar. (B) and concluding provisions to reflect the probable intent of Congress.
 
-Pub. L. 101–239, §7621(c)(1), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “
+Pub. L. 101–239, §7621(c)(1), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: "
 
 Subsection (a)
 
-not to apply where percentage of completion method used.—Subsection (a) shall not apply to any long-term contract with respect to which amounts includible in gross income are determined under the percentage of completion method.”
+not to apply where percentage of completion method used.—Subsection (a) shall not apply to any long-term contract with respect to which amounts includible in gross income are determined under the percentage of completion method."
 
 Subsec. (b)(2). Pub. L. 101–239, §7621(c)(1), redesignated par. (3) as (2). Former par. (2) redesignated (1).
 
 Pub. L. 101–239, §7811(e)(4), (6), inserted two sentences at end.
 
-Subsec. (b)(2)(B). Pub. L. 101–239, §7811(e)(2), substituted “any amount properly taken into account” for “any amount received or accrued” and “is so properly taken into account” for “is so received or accrued”.
+Subsec. (b)(2)(B). Pub. L. 101–239, §7811(e)(2), substituted "any amount properly taken into account" for "any amount received or accrued" and "is so properly taken into account" for "is so received or accrued".
 
 Subsec. (b)(3). Pub. L. 101–239, §7621(c)(1), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
-Pub. L. 101–239, §7811(e)(3), in concluding provisions, substituted “any amount properly taken into account” for “any amount received or accrued” and “such amount was properly taken into account” for “such amount was received or accrued”.
+Pub. L. 101–239, §7811(e)(3), in concluding provisions, substituted "any amount properly taken into account" for "any amount received or accrued" and "such amount was properly taken into account" for "such amount was received or accrued".
 
-Subsec. (b)(3)(B). Pub. L. 101–239, §7621(c)(3), substituted “Paragraph (1)(B)” for “Paragraph (2)(B) and subsection (a)(2)” in introductory provisions.
+Subsec. (b)(3)(B). Pub. L. 101–239, §7621(c)(3), substituted "Paragraph (1)(B)" for "Paragraph (2)(B) and subsection (a)(2)" in introductory provisions.
 
 Subsec. (b)(4). Pub. L. 101–239, §7621(c)(1), redesignated par. (5) as (4). Former par. (4) redesignated (3).
 
-Subsec. (b)(4)(A)(i). Pub. L. 101–239, §7621(c)(4)(A), substituted “paragraph (2)” for “paragraph (3)”.
+Subsec. (b)(4)(A)(i). Pub. L. 101–239, §7621(c)(4)(A), substituted "paragraph (2)" for "paragraph (3)".
 
-Subsec. (b)(4)(A)(ii). Pub. L. 101–239, §7621(c)(4)(B), substituted “paragraph (2)(B)” for “paragraph (3)(B)” in introductory provisions.
+Subsec. (b)(4)(A)(ii). Pub. L. 101–239, §7621(c)(4)(B), substituted "paragraph (2)(B)" for "paragraph (3)(B)" in introductory provisions.
 
-Subsec. (b)(4)(A)(ii)(I). Pub. L. 101–239, §7621(c)(4)(C), substituted “paragraph (2)(A)” for “paragraph (3)(A)”.
+Subsec. (b)(4)(A)(ii)(I). Pub. L. 101–239, §7621(c)(4)(C), substituted "paragraph (2)(A)" for "paragraph (3)(A)".
 
-Subsec. (b)(4)(A)(iii). Pub. L. 101–239, §7621(c)(4)(A), substituted “paragraph (2)” for “paragraph (3)” in two places.
+Subsec. (b)(4)(A)(iii). Pub. L. 101–239, §7621(c)(4)(A), substituted "paragraph (2)" for "paragraph (3)" in two places.
 
 Subsec. (b)(5). Pub. L. 101–239, §7621(b), added par. (5).
 
@@ -444,39 +444,39 @@ Pub. L. 101–239, §7621(c)(1), redesignated former par. (5) as (4).
 
 Subsec. (e)(2)(C). Pub. L. 101–239, §7811(e)(5), added subpar. (C).
 
-Subsec. (e)(5). Pub. L. 101–239, §7621(c)(5), inserted introductory provisions and struck out former introductory provisions which read as follows: “In the case of any residential construction contract which is not a home construction contract, subsection (a) shall be applied—”.
+Subsec. (e)(5). Pub. L. 101–239, §7621(c)(5), inserted introductory provisions and struck out former introductory provisions which read as follows: "In the case of any residential construction contract which is not a home construction contract, subsection (a) shall be applied—".
 
-Subsec. (e)(6)(A). Pub. L. 101–239, §7815(e)(1)(A), substituted “activities referred to in paragraph (4) with respect to” for “the building, construction, reconstruction, or rehabilitation of”.
+Subsec. (e)(6)(A). Pub. L. 101–239, §7815(e)(1)(A), substituted "activities referred to in paragraph (4) with respect to" for "the building, construction, reconstruction, or rehabilitation of".
 
-Subsec. (e)(6)(A)(i). Pub. L. 101–239, §7815(e)(1)(B), added cl. (i) and struck out former cl. (i) which read as follows: “dwelling units contained in buildings containing 4 or fewer dwelling units, and”.
+Subsec. (e)(6)(A)(i). Pub. L. 101–239, §7815(e)(1)(B), added cl. (i) and struck out former cl. (i) which read as follows: "dwelling units contained in buildings containing 4 or fewer dwelling units, and".
 
-<b>1988</b>—Subsec. (a)(1)(A). Pub. L. 100–647, §5041(a)(1), substituted “90” for “70”.
+<b>1988</b>—Subsec. (a)(1)(A). Pub. L. 100–647, §5041(a)(1), substituted "90" for "70".
 
-Subsec. (a)(1)(B). Pub. L. 100–647, §5041(a)(2), substituted “10” for “30”.
+Subsec. (a)(1)(B). Pub. L. 100–647, §5041(a)(2), substituted "10" for "30".
 
-Subsec. (a)(2). Pub. L. 100–647, §5041(a)(1), substituted “90” for “70” in heading and in text.
+Subsec. (a)(2). Pub. L. 100–647, §5041(a)(1), substituted "90" for "70" in heading and in text.
 
-Subsec. (b)(2). Pub. L. 100–647, §1008(c)(2)(B), substituted “Except as provided in paragraph (4), in” for “In”.
+Subsec. (b)(2). Pub. L. 100–647, §1008(c)(2)(B), substituted "Except as provided in paragraph (4), in" for "In".
 
-Subsec. (b)(2)(B). Pub. L. 100–647, §1008(c)(4)(B), inserted “(or, with respect to any amount received or accrued after completion of the contract, when such amount is so received or accrued)” after “contract”.
+Subsec. (b)(2)(B). Pub. L. 100–647, §1008(c)(4)(B), inserted "(or, with respect to any amount received or accrued after completion of the contract, when such amount is so received or accrued)" after "contract".
 
-Subsec. (b)(3). Pub. L. 100–647, §1008(c)(4)(A), inserted at end “For purposes of the preceding sentence, any amount received or accrued after completion of the contract shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such amount was received or accrued) such amount to its value as of the completion of the contract. The taxpayer may elect with respect to any contract to have the preceding sentence not apply to such contract.”
+Subsec. (b)(3). Pub. L. 100–647, §1008(c)(4)(A), inserted at end "For purposes of the preceding sentence, any amount received or accrued after completion of the contract shall be taken into account by discounting (using the Federal mid-term rate determined under section 1274(d) as of the time such amount was received or accrued) such amount to its value as of the completion of the contract. The taxpayer may elect with respect to any contract to have the preceding sentence not apply to such contract."
 
-Pub. L. 100–647, §1008(c)(1)(A), substituted “paragraph” for “subparagraph”.
+Pub. L. 100–647, §1008(c)(1)(A), substituted "paragraph" for "subparagraph".
 
-Subsec. (b)(3)(B). Pub. L. 100–647, §1008(c)(1)(B), substituted “subparagraph (A)” for “paragraph (1)” in two places.
+Subsec. (b)(3)(B). Pub. L. 100–647, §1008(c)(1)(B), substituted "subparagraph (A)" for "paragraph (1)" in two places.
 
-Subsec. (b)(3)(C). Pub. L. 100–647, §1008(c)(1)(C), substituted “subparagraph (B)” for “paragraph (1)”.
+Subsec. (b)(3)(C). Pub. L. 100–647, §1008(c)(1)(C), substituted "subparagraph (B)" for "paragraph (1)".
 
 Subsec. (b)(4). Pub. L. 100–647, §1008(c)(2)(A), added par. (4).
 
 Subsec. (b)(5). Pub. L. 100–647, §5041(d), added par. (5).
 
-Subsec. (e)(1). Pub. L. 100–647, §5041(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Subsections (a), (b), and (c)(1) and (2) shall not apply to any construction contract entered into by a taxpayer—
+Subsec. (e)(1). Pub. L. 100–647, §5041(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Subsections (a), (b), and (c)(1) and (2) shall not apply to any construction contract entered into by a taxpayer—
 
-&emsp;“(A) who estimates (at the time such contract is entered into) that such contract will be completed within the 2-year period beginning on the contract commencement date of such contract, and
+&emsp;"(A) who estimates (at the time such contract is entered into) that such contract will be completed within the 2-year period beginning on the contract commencement date of such contract, and
 
-&emsp;“(B) whose average annual gross receipts for the 3 taxable years preceding the taxable year in which such contract is entered into do not exceed $10,000,000.”
+&emsp;"(B) whose average annual gross receipts for the 3 taxable years preceding the taxable year in which such contract is entered into do not exceed $10,000,000."
 
 Subsec. (e)(5). Pub. L. 100–647, §5041(b)(2), added par. (5).
 
@@ -484,7 +484,7 @@ Subsec. (e)(6). Pub. L. 100–647, §5041(b)(3), added par. (6).
 
 Subsec. (h). Pub. L. 100–647, §5041(c), added subsec. (h).
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–203 substituted “70 percent” for “40 percent” in par. (1)(A) and in heading and text of par. (2), and “30 percent” for “60 percent” in par. (1)(B).
+<b>1987</b>—Subsec. (a). Pub. L. 100–203 substituted "70 percent" for "40 percent" in par. (1)(A) and in heading and text of par. (2), and "30 percent" for "60 percent" in par. (1)(B).
 
 #### Effective Date of 2013 Amendment
 
@@ -492,19 +492,19 @@ Amendment by Pub. L. 112–240 applicable to property placed in service after De
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–240, title II, §2023(b), Sept. 27, 2010, 124 Stat. 2559, provided that: “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2009.”
+Pub. L. 111–240, title II, §2023(b), Sept. 27, 2010, 124 Stat. 2559, provided that: "The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2009."
 
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–34, title XII, §1211(c), Aug. 5, 1997, 111 Stat. 1000, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to contracts completed in taxable years ending after the date of the enactment of this Act \[Aug. 5, 1997\].
 
-“(2)
+"(2)
 
-Subsection (b).—The amendments made by subsection (b) \[amending this section\] shall apply for purposes of section 167(g) of the Internal Revenue Code of 1986 to property placed in service after September 13, 1995.”
+Subsection (b).—The amendments made by subsection (b) \[amending this section\] shall apply for purposes of section 167(g) of the Internal Revenue Code of 1986 to property placed in service after September 13, 1995."
 
 #### Effective Date of 1996 Amendment
 
@@ -518,17 +518,17 @@ Amendment by Pub. L. 101–508 applicable to property placed in service after No
 
 Pub. L. 101–239, title VII, §7621(d), Dec. 19, 1989, 103 Stat. 2376, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to contracts entered into on or after July 11, 1989.
 
-“(2)
+"(2)
 
 Binding bids.—The amendments made by this section shall not apply to any contract resulting from the acceptance of a bid made before July 11, 1989. The preceding sentence shall apply only if the bid could not have been revoked or altered at any time on or after July 11, 1989.
 
-“(3)
+"(3)
 
-Special rule for certain ship contracts.—The amendments made by this section shall not apply in the case of a qualified ship contract (as defined in section 10203(b)(2)(B) of the Revenue Act of 1987 \[Pub. L. 100–203, set out below\]).”
+Special rule for certain ship contracts.—The amendments made by this section shall not apply in the case of a qualified ship contract (as defined in section 10203(b)(2)(B) of the Revenue Act of 1987 \[Pub. L. 100–203, set out below\])."
 
 Amendment by sections 7811(e) and 7815(e)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Technical and Miscellaneous Revenue Act of 1988, Pub. L. 100–647, to which such amendment relates, see section 7817 of Pub. L. 101–239, set out as a note under section 1 of this title.
 
@@ -538,79 +538,79 @@ Amendment by section 1008(c)(1), (2), (4) of Pub. L. 100–647 effective, except
 
 Pub. L. 100–647, title V, §5041(e), Nov. 10, 1988, 102 Stat. 3675, as amended by Pub. L. 101–239, title VII, §7815(e)(3), Dec. 19, 1989, 103 Stat. 2419, provided that:
 
-“(1)
+"(1)
 
 Subsections (a), (b),
 
 and (c).—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Except as otherwise provided in this paragraph, the amendments made by subsections (a), (b), and (c) \[amending this section and section 56 of this title\] shall apply to contracts entered into on or after June 21, 1988.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Binding bids.—The amendments made by subsections (a), (b), and (c) shall not apply to any contract resulting from the acceptance of a bid made before June 21, 1988. The preceding sentence shall apply only if the bid could not have been revoked or altered at any time on or after June 21, 1988.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Special rule for certain ship contracts.—The amendments made by subsections (a) and (b) \[amending this section and section 56 of this title\] shall not apply in the case of a qualified ship contract (as defined in section 10203(b)(2)(B) of the Revenue Act of 1987 \[Pub. L. 100–203, set out below\]).
 
-“(2)
+"(2)
 
-Subsection (d).—The amendment made by subsection (d) \[amending this section\] shall apply as if included in the amendments made by section 804 of the Reform Act \[Pub. L. 99–514\]; except that such amendment shall not apply to any contract completed in a taxable year ending before the date of the enactment of this Act \[Nov. 10, 1988\], if the due date (determined with regard to extensions) for the return for such year is before such date of enactment.”
+Subsection (d).—The amendment made by subsection (d) \[amending this section\] shall apply as if included in the amendments made by section 804 of the Reform Act \[Pub. L. 99–514\]; except that such amendment shall not apply to any contract completed in a taxable year ending before the date of the enactment of this Act \[Nov. 10, 1988\], if the due date (determined with regard to extensions) for the return for such year is before such date of enactment."
 
 #### Effective Date of 1987 Amendment
 
 Pub. L. 100–203, title X, §10203(b), Dec. 22, 1987, 101 Stat. 1330–394, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to contracts entered into after October 13, 1987.
 
-“(2)
+"(2)
 
 Special rule for certain ship contracts.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The amendments made by this section shall not apply in the case of a qualified ship contract.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Qualified ship contract.—For purposes of subparagraph (A), the term ‘qualified ship contract’ means any contract for the construction in the United States of not more than 5 ships if—
+Qualified ship contract.—For purposes of subparagraph (A), the term 'qualified ship contract' means any contract for the construction in the United States of not more than 5 ships if—
 
-&emsp;&emsp;“(i) such ships will not be constructed (directly or indirectly) for the Federal Government, and
+&emsp;&emsp;"(i) such ships will not be constructed (directly or indirectly) for the Federal Government, and
 
-&emsp;&emsp;“(ii) the taxpayer reasonably expects to complete such contract within 5 years of the contract commencement date (as defined in section 460(g) of the Internal Revenue Code of 1986).”
+&emsp;&emsp;"(ii) the taxpayer reasonably expects to complete such contract within 5 years of the contract commencement date (as defined in section 460(g) of the Internal Revenue Code of 1986)."
 
 #### Effective Date of 1986 Amendment
 
 Pub. L. 99–514, title VIII, §804(d), Oct. 22, 1986, 100 Stat. 2361, as amended by Pub. L. 100–647, title I, §1008(c)(3), Nov. 10, 1988, 102 Stat. 3439, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[enacting this section\] shall apply to any contract entered into after February 28, 1986.
 
-“(2)
+"(2)
 
 Clarification of treatment of independent research and development expenses.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—For periods before, on, or after the date of enactment of this Act \[Oct. 22, 1986\]—
 
-&emsp;&emsp;“(i) any independent research and development expenses taken into account in determining the total contract price shall not be severable from the contract, and
+&emsp;&emsp;"(i) any independent research and development expenses taken into account in determining the total contract price shall not be severable from the contract, and
 
-&emsp;&emsp;“(ii) any independent research and development expenses shall not be treated as amounts chargeable to capital account.
+&emsp;&emsp;"(ii) any independent research and development expenses shall not be treated as amounts chargeable to capital account.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Independent research and development expenses.—For purposes of subparagraph (A), the term ‘independent research and development expenses’ has the meaning given to such term by section 460(c)(5) of the Internal Revenue Code of 1986, as added by this section.”
+Independent research and development expenses.—For purposes of subparagraph (A), the term 'independent research and development expenses' has the meaning given to such term by section 460(c)(5) of the Internal Revenue Code of 1986, as added by this section."
 
 #### Regulations
 
-Pub. L. 99–514, title VIII, §804(b), Oct. 22, 1986, 100 Stat. 2361, provided that: “The Secretary of the Treasury or his delegate shall modify the income tax regulations relating to accounting for long-term contracts to carry out the provisions of section 460 of the Internal Revenue Code of 1986 (as added by subsection (a)).”
+Pub. L. 99–514, title VIII, §804(b), Oct. 22, 1986, 100 Stat. 2361, provided that: "The Secretary of the Treasury or his delegate shall modify the income tax regulations relating to accounting for long-term contracts to carry out the provisions of section 460 of the Internal Revenue Code of 1986 (as added by subsection (a))."
 
 #### Savings Provision
 
@@ -620,41 +620,41 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 Pub. L. 108–357, title VII, §708, Oct. 22, 2004, 118 Stat. 1550, as amended by Pub. L. 109–135, title IV, §403(s), Dec. 21, 2005, 119 Stat. 2628, provided that:
 
-“(a)
+"(a)
 
 In General.—In the case of a qualified naval ship contract, the taxable income of such contract during the 5-taxable year period beginning with the taxable year in which the construction commencement date occurs shall be determined under a method identical to the method used in the case of a qualified ship contract (as defined in section 10203(b)(2)(B) of the Revenue Act of 1987 \[Pub. L. 100–203, set out as an Effective Date of 1987 Amendment note above\]).
 
-“(b)
+"(b)
 
 Recapture of Tax Benefit.—In the case of a qualified naval ship contract to which subsection (a) applies, the taxpayer's tax imposed by chapter 1 of the Internal Revenue Code of 1986 for the first taxable year following the 5-taxable year period described in subsection (a) shall be increased by the excess (if any) of—
 
-&emsp;“(1) the amount of tax which would have been imposed during such period if this section had not been enacted, over
+&emsp;"(1) the amount of tax which would have been imposed during such period if this section had not been enacted, over
 
-&emsp;“(2) the amount of tax so imposed during such period.
+&emsp;"(2) the amount of tax so imposed during such period.
 
-“(c)
+"(c)
 
 Qualified Naval Ship Contract.—For purposes of this section:
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—The term ‘qualified naval ship contract’ means any contract or portion thereof that is for the construction in the United States of 1 ship or submarine for the Federal Government if the taxpayer reasonably expects the acceptance date will occur no later than 9 years after the construction commencement date.
+In general.—The term 'qualified naval ship contract' means any contract or portion thereof that is for the construction in the United States of 1 ship or submarine for the Federal Government if the taxpayer reasonably expects the acceptance date will occur no later than 9 years after the construction commencement date.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Acceptance date.—The term ‘acceptance date’ means the date 1 year after the date on which the Federal Government issues a letter of acceptance or other similar document for the ship or submarine.
+Acceptance date.—The term 'acceptance date' means the date 1 year after the date on which the Federal Government issues a letter of acceptance or other similar document for the ship or submarine.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Construction commencement date.—The term ‘construction commencement date’ means the date on which the physical fabrication of any section or component of the ship or submarine begins in the taxpayer's shipyard.
+Construction commencement date.—The term 'construction commencement date' means the date on which the physical fabrication of any section or component of the ship or submarine begins in the taxpayer's shipyard.
 
-“(d)
+"(d)
 
 Certain Adjustments Not to Apply.—Section 481 of the Internal Revenue Code of 1986 shall not apply with respect to any change in the method of accounting which is required by this section.
 
-“(e)
+"(e)
 
-Effective Date.—This section shall apply to contracts for ships or submarines with respect to which the construction commencement date occurs after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Effective Date.—This section shall apply to contracts for ships or submarines with respect to which the construction commencement date occurs after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Amortization of Past Service Pension Costs
 

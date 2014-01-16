@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established a Klamath River Basin Fisheries Task Force (hereafter in this subchapter referred to as the “Task Force”).
+There is established a Klamath River Basin Fisheries Task Force (hereafter in this subchapter referred to as the "Task Force").
 
 #### (b) Functions
 
@@ -118,25 +118,25 @@ At such time as the program is expanded to include portions of the Klamath River
 
 &emsp;(2) A representative of the Klamath Tribe, who shall be appointed by the governing body of the Tribe.
 
-(Pub. L. 99–552, §4, Oct. 27, 1986, 100 Stat. 3084; Pub. L. 100–580, §12(a), Oct. 31, 1988, 102 Stat. 2935; Pub. L. 100–653, title VI, §§601, 602(b), 603(1), Nov. 14, 1988, 102 Stat. 3829, 3830; Pub. L. 102–570, §2, Oct. 29, 1992, 106 Stat. 4490.)
+(Pub. L. 99–552, §4, Oct. 27, 1986, 100 Stat. 3084; Pub. L. 100–580, §12(a), Oct. 31, 1988, 102 Stat.2935; Pub. L. 100–653, title VI, §§601, 602(b), 603(1), Nov. 14, 1988, 102 Stat. 3829, 3830; Pub. L. 102–570, §2, Oct. 29, 1992, 106 Stat. 4490.)
 
 #### Amendments
 
 <b>1992</b>—Subsec. (j). Pub. L. 102–570 added subsec. (j).
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–580, §12(a)(A), substituted “14” for “12” in introductory provisions.
+<b>1988</b>—Subsec. (c). Pub. L. 100–580, §12(a)(A), substituted "14" for "12" in introductory provisions.
 
 Subsec. (c)(11), (12). Pub. L. 100–580, §12(a)(B), added pars. (11) and (12).
 
-Subsec. (f)(1). Pub. L. 100–653, §602(b), substituted “Procedures” for “Decisions of Task Force” as par. heading and amended text generally. Prior to amendment, text read as follows: “All decisions of the Task Force must be by unanimous vote of all the members.”
+Subsec. (f)(1). Pub. L. 100–653, §602(b), substituted "Procedures" for "Decisions of Task Force" as par. heading and amended text generally. Prior to amendment, text read as follows: "All decisions of the Task Force must be by unanimous vote of all the members."
 
-Subsec. (h). Pub. L. 100–653, §603(1), substituted “, the State of California, or the State of Oregon” for “or the State of California”.
+Subsec. (h). Pub. L. 100–653, §603(1), substituted ", the State of California, or the State of Oregon" for "or the State of California".
 
-Subsec. (i). Pub. L. 100–653, §601, substituted “Expenses” for “Limitation on spending authority” in heading and amended text generally, designating existing provisions as par. (2) and adding par. (1).
+Subsec. (i). Pub. L. 100–653, §601, substituted "Expenses" for "Limitation on spending authority" in heading and amended text generally, designating existing provisions as par. (2) and adding par. (1).
 
 #### Special Rule
 
-Pub. L. 100–580, §12(b), Oct. 31, 1988, 102 Stat. 2935, provided that: “The initial term of the representative appointed pursuant to section 4(c)(11) and (12) of such Act \[16 U.S.C. 460ss–3(c)(11), (12)\] (as added by the amendment made by subsection (a)) shall be for that time which is the remainder of the terms of the members of the Task Force then serving. Thereafter, the term of such representatives shall be as provided in section 4(e) of such Act.”
+Pub. L. 100–580, §12(b), Oct. 31, 1988, 102 Stat. 2935, provided that: "The initial term of the representative appointed pursuant to section 4(c)(11) and (12) of such Act \[16 U.S.C. 460ss–3(c)(11), (12)\] (as added by the amendment made by subsection (a)) shall be for that time which is the remainder of the terms of the members of the Task Force then serving. Thereafter, the term of such representatives shall be as provided in section 4(e) of such Act."
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a period.</i>
 

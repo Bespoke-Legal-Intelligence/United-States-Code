@@ -2,11 +2,11 @@
 
 #### (a) Establishment
 
-(1) The Secretary of Defense, in consultation with the Commission, may establish a board of contract appeals, to be known as the Panama Canal Board of Contract Appeals, in accordance with sections 7105(a), (c) to (e), (g), 7106(a), and 7107(a) of title 41. Except as otherwise provided by this section, the Panama Canal Board of Contract Appeals (in this section referred to as the “Board”) shall be subject to chapter 71 of title 41 in the same manner as any other agency board of contract appeals established under that chapter.
+(1) The Secretary of Defense, in consultation with the Commission, may establish a board of contract appeals, to be known as the Panama Canal Board of Contract Appeals, in accordance with sections 7105(a), (c) to (e), (g), 7106(a), and 7107(a) of title 41. Except as otherwise provided by this section, the Panama Canal Board of Contract Appeals (in this section referred to as the "Board") shall be subject to chapter 71 of title 41 in the same manner as any other agency board of contract appeals established under that chapter.
 
 (2) The Board shall consist of three members. At least one member of the Board shall be licensed to practice law in the Republic of Panama. Individuals appointed to the Board shall take an oath of office, the form of which shall be prescribed by the Secretary of Defense.
 
-(3) Compensation for members of the Board of Contract Appeals shall be established by the Commission's supervisory board. The annual compensation established for members may not exceed the rate of basic pay established for level IV of the Executive Schedule under section 5315 of title 5. The compensation of a member may not be reduced during the member's term of office from the level established at the time of the appointment of the member.
+(3) Compensation for members of the Board of Contract Appeals shall be established by theCommission's supervisory board. The annual compensation established for members may not exceed the rate of basic pay established for level IV of the Executive Schedule under section 5315 of title 5. The compensation of a member may not be reduced during the member's term of office from the level established at the time of the appointment of the member.
 
 #### (b) Exclusive jurisdiction to decide appeals
 
@@ -46,17 +46,17 @@ The Board may perform functions similar to those described in this section for s
 
 #### Codification
 
-In subsec. (a)(1), “sections 7105(a), (c) to (e), (g), 7106(a), and 7107(a) of title 41” substituted for “section 8 of the Contract Disputes Act of 1978 (41 U.S.C. 607)”, “chapter 71 of title 41” substituted for “the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)”, and “thatchapter” substituted for “that Act” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a)(1), "sections 7105(a), (c) to (e), (g), 7106(a), and 7107(a) of title 41" substituted for "section 8 of the Contract Disputes Act of 1978 (41 U.S.C. 607)", "chapter 71 of title 41" substituted for "the Contract Disputes Act of 1978 (41 U.S.C. 601 et seq.)", and "that chapter" substituted for "that Act" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (b), “section 7104(b)(1) of title 41” substituted for “section 10(a)(1) of the Contract Disputes Act of 1978 (41 U.S.C. 609(a)(1))” and “section 7105(e) of title 41” substituted for “section 8(d) of such Act (41 U.S.C. 607(d))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b), "section 7104(b)(1) of title 41" substituted for "section 10(a)(1) of the Contract Disputes Act of 1978 (41 U.S.C. 609(a)(1))" and "section 7105(e) of title 41" substituted for "section 8(d) of such Act (41 U.S.C. 607(d))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–261, §3510(a)(1), substituted “may” for “shall” in first sentence.
+<b>1998</b>—Subsec. (a). Pub. L. 105–261, §3510(a)(1), substituted "may" for "shall" in first sentence.
 
 Subsec. (a)(3). Pub. L. 105–261, §3510(a)(2), added par. (3).
 
-Subsec. (e). Pub. L. 105–261, §3510(b), struck out “, but not later than January 1, 1999” before period at end.
+Subsec. (e). Pub. L. 105–261, §3510(b), struck out ", but not later than January 1, 1999" before period at end.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subchapter V of chapter 35”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subchapter V of chapter 35".</i>
 

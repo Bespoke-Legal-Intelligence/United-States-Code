@@ -6,7 +6,7 @@ The programs that may be integrated in a demonstration project under any such pl
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–568 substituted “assisting Indian youth and adults to succeed in the workforce, encouraging self-sufficiency, familiarizing Indian Youth and adults with the world of work, facilitating the creation of job opportunities and any services related to these activities” for “job training, tribal work experience, employment opportunities, or skill development, or any program designed for the enhancement of job opportunities or employment training”.
+<b>2000</b>—Pub. L. 106–568 substituted "assisting Indian youth and adults to succeed in the workforce, encouraging self-sufficiency, familiarizing Indian Youth and adults with the world of work, facilitating the creation of job opportunities and any services related to these activities" for "job training, tribal work experience, employment opportunities, or skill development, or any program designed for the enhancement of job opportunities or employment training".
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

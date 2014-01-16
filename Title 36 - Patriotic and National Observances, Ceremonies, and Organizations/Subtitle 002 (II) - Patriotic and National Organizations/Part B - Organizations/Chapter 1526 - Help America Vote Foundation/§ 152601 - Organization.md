@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—The Help America Vote Foundation (in this chapter, the “foundation”) is a federally chartered corporation.
+Federal Charter.—The Help America Vote Foundation (in this chapter, the "foundation") is a federally chartered corporation.
 
 (b)
 

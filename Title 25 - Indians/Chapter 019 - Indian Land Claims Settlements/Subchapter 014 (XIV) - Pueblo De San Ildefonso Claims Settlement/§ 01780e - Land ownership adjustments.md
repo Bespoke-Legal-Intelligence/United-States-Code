@@ -22,7 +22,7 @@ The consideration to be paid for the Federal land authorized for sale in subsect
 
 #### (1) In general
 
-&emsp;All monies received by the Secretary of Agriculture from the sale of National Forest System land as authorized by this subchapter, including receipts from the Northern Tier Land, shall be deposited into the fund established in the Treasury of the United States pursuant to the Sisk Act and shall be available, without further appropriation, authorization, or administrative apportionment for the purchase of land by the Secretary of Agriculture for National Forest System purposes in the State of New Mexico, and for associated administrative costs.
+&emsp;All monies received by the Secretary of Agriculture from the sale of National Forest System land as authorized by this subchapter, including receipts from the Northern Tier Land, shall be deposited into the fund established in the Treasury of the United States pursuant to the Sisk Act and shall be available, without further appropriation, authorization, or administrative apportionment for the purchase of land by the Secretary of Agriculture for National Forest System purposes in the State ofNew Mexico, and for associated administrative costs.
 
 #### (2) Use of funds
 
@@ -110,5 +110,5 @@ The consideration to be paid for the Federal land authorized for sale in subsect
 
 (Pub. L. 109–286, §7, Sept. 27, 2006, 120 Stat. 1221.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “title),”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "title),".</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Minimum required contribution
 
-For purposes of this section and section 1082(a)(2)(A) of this title, except as provided in subsection (f), the term “minimum required contribution” means, with respect to any plan year of a single-employer plan—
+For purposes of this section and section 1082(a)(2)(A) of this title, except as provided in subsection (f), the term "minimum required contribution" means, with respect to any plan year of a single-employer plan—
 
 &emsp;(1) in any case in which the value of plan assets of the plan (as reduced under subsection (f)(4)(B)) is less than the funding target of the plan for the plan year, the sum of—
 
@@ -20,7 +20,7 @@ For purposes of this section:
 
 #### (1) In general
 
-&emsp;Except as provided in subsection (i)(2) with respect to plans in at-risk status, the term “target normal cost” means, for any plan year, the excess of—
+&emsp;Except as provided in subsection (i)(2) with respect to plans in at-risk status, the term "target normal cost" means, for any plan year, the excess of—
 
 &emsp;&emsp;(A) the sum of—
 
@@ -60,7 +60,7 @@ For purposes of this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a plan sponsor elects to apply this subparagraph with respect to the shortfall amortization base of a plan for any eligible plan year (in this subparagraph and paragraph (7) referred to as an “election year”), then, notwithstanding subparagraphs (A) and (B)—
+&emsp;&emsp;&emsp;If a plan sponsor elects to apply this subparagraph with respect to the shortfall amortization base of a plan for any eligible plan year (in this subparagraph and paragraph (7) referred to as an "election year"), then, notwithstanding subparagraphs (A) and (B)—
 
 &emsp;&emsp;&emsp;&emsp;(I) the shortfall amortization installments with respect to such base shall be determined under clause (ii) or (iii), whichever is specified in the election, and
 
@@ -94,7 +94,7 @@ For purposes of this section:
 
 #### (v) Eligible plan year
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “eligible plan year” means any plan year beginning in 2008, 2009, 2010, or 2011, except that a plan year shall only be treated as an eligible plan year if the due date under subsection (j)(1) for the payment of the minimum required contribution for such plan year occurs on or after June 25, 2010.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "eligible plan year" means any plan year beginning in 2008, 2009, 2010, or 2011, except that a plan year shall only be treated as an eligible plan year if the due date under subsection (j)(1) for the payment of the minimum required contribution for such plan year occurs on or after June 25, 2010.
 
 #### (vi) Reporting
 
@@ -198,7 +198,7 @@ For purposes of this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “installment acceleration amount” means, with respect to any plan year in a restriction period with respect to an election year, the sum of—
+&emsp;&emsp;&emsp;The term "installment acceleration amount" means, with respect to any plan year in a restriction period with respect to an election year, the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the aggregate amount of excess employee compensation determined under subparagraph (D) with respect to all employees for the plan year, plus
 
@@ -236,7 +236,7 @@ For purposes of this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “excess employee compensation” means, with respect to any employee for any plan year, the excess (if any) of—
+&emsp;&emsp;&emsp;The term "excess employee compensation" means, with respect to any employee for any plan year, the excess (if any) of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the aggregate amount includible in income under chapter 1 of title 26 for remuneration during the calendar year in which such plan year begins for services performed by the employee for the plan sponsor (whether or not performed during such calendar year), over
 
@@ -274,7 +274,7 @@ For purposes of this section:
 
 #### (vi) Self-employed individual treated as employee
 
-&emsp;&emsp;&emsp;The term “employee” includes, with respect to a calendar year, a self-employed individual who is treated as an employee under section 401(c) of such title for the taxable year ending during such calendar year, and the term “compensation” shall include earned income of such individual with respect to such self-employment.
+&emsp;&emsp;&emsp;The term "employee" includes, with respect to a calendar year, a self-employed individual who is treated as an employee under section 401(c) of such title for the taxable year ending during such calendar year, and the term "compensation" shall include earned income of such individual with respect to such self-employment.
 
 #### (vii) Indexing of amount
 
@@ -282,7 +282,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;&emsp;(I) such dollar amount, multiplied by
 
-&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) of such title for the calendar year, determined by substituting “calendar year 2009” for “calendar year 1992” in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) of such title for the calendar year, determined by substituting "calendar year 2009" for "calendar year 1992" in subparagraph (B) thereof.
 
 &emsp;&emsp;&nbsp;If the amount of any increase under clause (i) is not a multiple of $1,000, such increase shall be rounded to the next lowest multiple of $1,000.
 
@@ -316,7 +316,7 @@ For purposes of this section:
 
 #### (II) Applicable preferred stock
 
-&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the term “applicable preferred stock” means preferred stock which was issued before March 1, 2010 (or which was issued after such date and is held by an employee benefit plan subject to the provisions of this subchapter).
+&emsp;&emsp;&emsp;&emsp;For purposes of subclause (I), the term "applicable preferred stock" means preferred stock which was issued before March 1, 2010 (or which was issued after such date and is held by an employee benefit plan subject to the provisions of this subchapter).
 
 #### (F) Other definitions and rules
 
@@ -324,11 +324,11 @@ For purposes of this section:
 
 #### (i) Plan sponsor
 
-&emsp;&emsp;&emsp;The term “plan sponsor” includes any member of the plan sponsor's controlled group (as defined in section 1082(d)(3) of this title).
+&emsp;&emsp;&emsp;The term "plan sponsor" includes any member of the plan sponsor's controlled group (as defined in section 1082(d)(3) of this title).
 
 #### (ii) Restriction period
 
-&emsp;&emsp;&emsp;The term “restriction period” means, with respect to any election year—
+&emsp;&emsp;&emsp;The term "restriction period" means, with respect to any election year—
 
 &emsp;&emsp;&emsp;&emsp;(I) except as provided in subclause (II), the 3-year period beginning with the election year (or, if later, the first plan year beginning after December 31, 2009), and
 
@@ -352,7 +352,7 @@ For purposes of this section—
 
 #### (2) Funding target attainment percentage
 
-&emsp;The “funding target attainment percentage” of a plan for a plan year is the ratio (expressed as a percentage) which—
+&emsp;The "funding target attainment percentage" of a plan for a plan year is the ratio (expressed as a percentage) which—
 
 &emsp;&emsp;(A) the value of plan assets for the plan year (as reduced under subsection (f)(4)(B)), bears to
 
@@ -478,7 +478,7 @@ For purposes of this section—
 
 #### (ii) Special rule for certain binding agreements with PBGC
 
-&emsp;&emsp;&emsp;For purposes of subsection (c)(4)(B), the value of plan assets shall not be deemed to be reduced for a plan year by the amount of the specified balance if, with respect to such balance, there is in effect for a plan year a binding written agreement with the Pension Benefit Guaranty Corporation which provides that such balance is not available to reduce the minimum required contribution for the plan year. For purposes of the preceding sentence, the term “specified balance” means the prefunding balance or the funding standard carryover balance, as the case may be.
+&emsp;&emsp;&emsp;For purposes of subsection (c)(4)(B), the value of plan assets shall not be deemed to be reduced for a plan year by the amount of the specified balance if, with respect to such balance, there is in effect for a plan year a binding written agreement with the Pension Benefit Guaranty Corporation which provides that such balance is not available to reduce the minimum required contribution for the plan year. For purposes of the preceding sentence, the term "specified balance" means the prefunding balance or the funding standard carryover balance, as the case may be.
 
 #### (C) Availability of balances in plan year for crediting against minimum required contribution
 
@@ -638,7 +638,7 @@ For purposes of this section—
 
 #### (A) Effective interest rate
 
-&emsp;&emsp;For purposes of this section, the term “effective interest rate” means, with respect to any plan for any plan year, the single rate of interest which, if used to determine the present value of the plan's accrued or earned benefits referred to in subsection (d)(1), would result in an amount equal to the funding target of the plan for such plan year.
+&emsp;&emsp;For purposes of this section, the term "effective interest rate" means, with respect to any plan for any plan year, the single rate of interest which, if used to determine the present value of the plan's accrued or earned benefits referred to in subsection (d)(1), would result in an amount equal to the funding target of the plan for such plan year.
 
 #### (B) Interest rates for determining funding target
 
@@ -656,15 +656,15 @@ For purposes of this section—
 
 #### (i) First segment rate
 
-&emsp;&emsp;&emsp;The term “first segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary of the Treasury for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during the 5-year period commencing with such month.
+&emsp;&emsp;&emsp;The term "first segment rate" means, with respect to any month, the single rate of interest which shall be determined by the Secretary of the Treasury for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during the 5-year period commencing with such month.
 
 #### (ii) Second segment rate
 
-&emsp;&emsp;&emsp;The term “second segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary of the Treasury for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during the 15-year period beginning at the end of the period described in clause (i).
+&emsp;&emsp;&emsp;The term "second segment rate" means, with respect to any month, the single rate of interest which shall be determined by the Secretary of the Treasury for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during the 15-year period beginning at the end of the period described in clause (i).
 
 #### (iii) Third segment rate
 
-&emsp;&emsp;&emsp;The term “third segment rate” means, with respect to any month, the single rate of interest which shall be determined by the Secretary of the Treasury for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during periods beginning after the period described in clause (ii).
+&emsp;&emsp;&emsp;The term "third segment rate" means, with respect to any month, the single rate of interest which shall be determined by the Secretary of the Treasury for such month on the basis of the corporate bond yield curve for such month, taking into account only that portion of such yield curve which is based on bonds maturing during periods beginning after the period described in clause (ii).
 
 #### (iv) Segment rate stabilization
 
@@ -690,7 +690,7 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “corporate bond yield curve” means, with respect to any month, a yield curve which is prescribed by the Secretary of the Treasury for such month and which reflects the average, for the 24-month period ending with the month preceding such month, of monthly yields on investment grade corporate bonds with varying maturities and that are in the top 3 quality levels available.
+&emsp;&emsp;&emsp;The term "corporate bond yield curve" means, with respect to any month, a yield curve which is prescribed by the Secretary of the Treasury for such month and which reflects the average, for the 24-month period ending with the month preceding such month, of monthly yields on investment grade corporate bonds with varying maturities and that are in the top 3 quality levels available.
 
 #### (ii) Election to use yield curve
 
@@ -698,7 +698,7 @@ For purposes of this section—
 
 #### (E) Applicable month
 
-&emsp;&emsp;For purposes of this paragraph, the term “applicable month” means, with respect to any plan for any plan year, the month which includes the valuation date of such plan for such plan year or, at the election of the plan sponsor, any of the 4 months which precede such month. Any election made under this subparagraph shall apply to the plan year for which the election is made and all succeeding plan years, unless the election is revoked with the consent of the Secretary of the Treasury.
+&emsp;&emsp;For purposes of this paragraph, the term "applicable month" means, with respect to any plan for any plan year, the month which includes the valuation date of such plan for such plan year or, at the election of the plan sponsor, any of the 4 months which precede such month. Any election made under this subparagraph shall apply to the plan year for which the election is made and all succeeding plan years, unless the election is revoked with the consent of the Secretary of the Treasury.
 
 #### (F) Publication requirements
 
@@ -812,7 +812,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(i) the plan is a single-employer plan to which subchapter III applies,
 
-&emsp;&emsp;&emsp;(ii) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 1306(a)(3)(E)(iii) of this title) of such plan and all other plans maintained by the contributing sponsors (as defined in section 1301(a)(13) of this title) and members of such sponsors’ controlled groups (as defined in section 1301(a)(14) of this title) which are covered by subchapter III (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
+&emsp;&emsp;&emsp;(ii) the aggregate unfunded vested benefits as of the close of the preceding plan year (as determined under section 1306(a)(3)(E)(iii) of this title) of such plan and all other plans maintained by the contributing sponsors (as defined in section 1301(a)(13) of this title) and members of such sponsors' controlled groups (as defined in section 1301(a)(14) of this title) which are covered by subchapter III (disregarding plans with no unfunded vested benefits) exceed $50,000,000, and
 
 &emsp;&emsp;&emsp;(iii) the change in assumptions (determined after taking into account any changes in interest rate and mortality table) results in a decrease in the funding shortfall of the plan for the current plan year that exceeds $50,000,000, or that exceeds $5,000,000 and that is 5 percent or more of the funding target of the plan before such change.
 
@@ -882,7 +882,7 @@ For purposes of this section—
 
 #### (B) Transition rule
 
-&emsp;&emsp;In the case of plan years beginning in 2008, 2009, and 2010, subparagraph (A)(i) shall be applied by substituting the following percentages for “80 percent”:
+&emsp;&emsp;In the case of plan years beginning in 2008, 2009, and 2010, subparagraph (A)(i) shall be applied by substituting the following percentages for "80 percent":
 
 &emsp;&emsp;&emsp;(i) 65 percent in the case of 2008.
 
@@ -908,7 +908,7 @@ For purposes of this section—
 
 #### (ii) Specified automobile manufacturer
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “specified automobile manufacturer” means—
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "specified automobile manufacturer" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) any manufacturer of automobiles, and
 
@@ -1038,7 +1038,7 @@ For purposes of this section—
 
 #### (ii) Required annual payment
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “required annual payment” means the lesser of—
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "required annual payment" means the lesser of—
 
 &emsp;&emsp;&emsp;&emsp;(I) 90 percent of the minimum required contribution (determined without regard to this subsection) to the plan for the plan year under this section, or
 
@@ -1092,7 +1092,7 @@ For purposes of this section—
 
 #### (i) Liquidity shortfall
 
-&emsp;&emsp;&emsp;The term “liquidity shortfall” means, with respect to any required installment, an amount equal to the excess (as of the last day of the quarter for which such installment is made) of—
+&emsp;&emsp;&emsp;The term "liquidity shortfall" means, with respect to any required installment, an amount equal to the excess (as of the last day of the quarter for which such installment is made) of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the base amount with respect to such quarter, over
 
@@ -1102,7 +1102,7 @@ For purposes of this section—
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term “base amount” means, with respect to any quarter, an amount equal to 3 times the sum of the adjusted disbursements from the plan for the 12 months ending on the last day of such quarter.
+&emsp;&emsp;&emsp;&emsp;The term "base amount" means, with respect to any quarter, an amount equal to 3 times the sum of the adjusted disbursements from the plan for the 12 months ending on the last day of such quarter.
 
 #### (II) Special rule
 
@@ -1110,11 +1110,11 @@ For purposes of this section—
 
 #### (iii) Disbursements from the plan
 
-&emsp;&emsp;&emsp;The term “disbursements from the plan” means all disbursements from the trust, including purchases of annuities, payments of single sums and other benefits, and administrative expenses.
+&emsp;&emsp;&emsp;The term "disbursements from the plan" means all disbursements from the trust, including purchases of annuities, payments of single sums and other benefits, and administrative expenses.
 
 #### (iv) Adjusted disbursements
 
-&emsp;&emsp;&emsp;The term “adjusted disbursements” means disbursements from the plan reduced by the product of—
+&emsp;&emsp;&emsp;The term "adjusted disbursements" means disbursements from the plan reduced by the product of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the plan's funding target attainment percentage for the plan year, and
 
@@ -1122,11 +1122,11 @@ For purposes of this section—
 
 #### (v) Liquid assets
 
-&emsp;&emsp;&emsp;The term “liquid assets” means cash, marketable securities, and such other assets as specified by the Secretary of the Treasury in regulations.
+&emsp;&emsp;&emsp;The term "liquid assets" means cash, marketable securities, and such other assets as specified by the Secretary of the Treasury in regulations.
 
 #### (vi) Quarter
 
-&emsp;&emsp;&emsp;The term “quarter” means, with respect to any required installment, the 3-month period preceding the month in which the due date for such installment occurs.
+&emsp;&emsp;&emsp;The term "quarter" means, with respect to any required installment, the 3-month period preceding the month in which the due date for such installment occurs.
 
 #### (F) Regulations
 
@@ -1176,15 +1176,15 @@ For purposes of this section—
 
 #### (A) Contribution payment
 
-&emsp;&emsp;The term “contribution payment” means, in connection with a plan, a contribution payment required to be made to the plan, including any required installment under paragraphs (3) and (4) of subsection (j).
+&emsp;&emsp;The term "contribution payment" means, in connection with a plan, a contribution payment required to be made to the plan, including any required installment under paragraphs (3) and (4) of subsection (j).
 
 #### (B) Due date; required installment
 
-&emsp;&emsp;The terms “due date” and “required installment” have the meanings given such terms by subsection (j).
+&emsp;&emsp;The terms "due date" and "required installment" have the meanings given such terms by subsection (j).
 
 #### (C) Controlled group
 
-&emsp;&emsp;The term “controlled group” means any group treated as a single employer under subsections (b), (c), (m), and (o) of section 414 of title 26.
+&emsp;&emsp;The term "controlled group" means any group treated as a single employer under subsections (b), (c), (m), and (o) of section 414 of title 26.
 
 #### (l) Qualified transfers to health benefit accounts
 
@@ -1206,9 +1206,9 @@ A prior section 1083, Pub. L. 93–406, title I, §303, Sept. 2, 1974, 88 Stat. 
 
 <b>2012</b>—Subsec. (h)(2)(C)(iv). Pub. L. 112–141, §40211(b)(1), added cl. (iv).
 
-Subsec. (h)(2)(F). Pub. L. 112–141, §40211(b)(3)(A), inserted “and the averages determined under subparagraph (C)(iv)” after “subparagraph (C)”.
+Subsec. (h)(2)(F). Pub. L. 112–141, §40211(b)(3)(A), inserted "and the averages determined under subparagraph (C)(iv)" after "subparagraph (C)".
 
-<b>2010</b>—Subsec. (c)(1). Pub. L. 111–192, §201(a)(3)(A), substituted “any shortfall amortization base which has not been fully amortized under this subsection” for “the shortfall amortization bases for such plan year and each of the 6 preceding plan years”.
+<b>2010</b>—Subsec. (c)(1). Pub. L. 111–192, §201(a)(3)(A), substituted "any shortfall amortization base which has not been fully amortized under this subsection" for "the shortfall amortization bases for such plan year and each of the 6 preceding plan years".
 
 Subsec. (c)(2)(D). Pub. L. 111–192, §201(a)(1), added subpar. (D).
 
@@ -1218,35 +1218,35 @@ Subsec. (f)(3)(D). Pub. L. 111–192, §204(a), added subpar. (D).
 
 Subsec. (j)(3)(F). Pub. L. 111–192, §201(a)(3)(B), added subpar. (F).
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–458, §101(b)(1)(A), amended subsec. (b) generally. Prior to amendment, text read as follows: “For purposes of this section, except as provided in subsection (i)(2) with respect to plans in at-risk status, the term ‘target normal cost’ means, for any plan year, the present value of all benefits which are expected to accrue or to be earned under the plan during the plan year. For purposes of this subsection, if any benefit attributable to services performed in a preceding plan year is increased by reason of any increase in compensation during the current plan year, the increase in such benefit shall be treated as having accrued during the current plan year.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–458, §101(b)(1)(A), amended subsec. (b) generally. Prior to amendment, text read as follows: "For purposes of this section, except as provided in subsection (i)(2) with respect to plans in at-risk status, the term 'target normal cost' means, for any plan year, the present value of all benefits which are expected to accrue or to be earned under the plan during the plan year. For purposes of this subsection, if any benefit attributable to services performed in a preceding plan year is increased by reason of any increase in compensation during the current plan year, the increase in such benefit shall be treated as having accrued during the current plan year."
 
-Subsec. (c)(5)(B)(i). Pub. L. 110–458, §202(a)(2), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: “Except as provided in clauses (iii) and (iv), in the case of plan years beginning after 2007 and before 2011, only the applicable percentage of the funding target shall be taken into account under paragraph (3)(A) in determining the funding shortfall for the plan year for purposes of subparagraph (A).”
+Subsec. (c)(5)(B)(i). Pub. L. 110–458, §202(a)(2), added cl. (i) and struck out former cl. (i). Prior to amendment, text read as follows: "Except as provided in clauses (iii) and (iv), in the case of plan years beginning after 2007 and before 2011, only the applicable percentage of the funding target shall be taken into account under paragraph (3)(A) in determining the funding shortfall for the plan year for purposes of subparagraph (A)."
 
-Subsec. (c)(5)(B)(iii). Pub. L. 110–458, §202(a)(1), redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: “Clause (i) shall not apply with respect to any plan year beginning after 2008 unless the shortfall amortization base for each of the preceding years beginning after 2007 was zero (determined after application of this subparagraph).”
+Subsec. (c)(5)(B)(iii). Pub. L. 110–458, §202(a)(1), redesignated cl. (iv) as (iii) and struck out former cl. (iii). Prior to amendment, text read as follows: "Clause (i) shall not apply with respect to any plan year beginning after 2008 unless the shortfall amortization base for each of the preceding years beginning after 2007 was zero (determined after application of this subparagraph)."
 
-Pub. L. 110–458, §101(b)(1)(B), inserted “beginning” before “after 2008”.
+Pub. L. 110–458, §101(b)(1)(B), inserted "beginning" before "after 2008".
 
 Subsec. (c)(5)(B)(iv). Pub. L. 110–458, §202(a)(1), redesignated cl. (iv) as (iii).
 
-Subsec. (c)(5)(B)(iv)(II). Pub. L. 110–458, §101(b)(1)(C), inserted “for such year” after “beginning in 2007)”.
+Subsec. (c)(5)(B)(iv)(II). Pub. L. 110–458, §101(b)(1)(C), inserted "for such year" after "beginning in 2007)".
 
-Subsec. (f)(4)(A). Pub. L. 110–458, §101(b)(1)(D), substituted “paragraph (3)” for “paragraph (2)”.
+Subsec. (f)(4)(A). Pub. L. 110–458, §101(b)(1)(D), substituted "paragraph (3)" for "paragraph (2)".
 
-Subsec. (g)(3)(B). Pub. L. 110–458, §121(a), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: “Any such averaging shall be adjusted for contributions and distributions (as provided by the Secretary of the Treasury).”
+Subsec. (g)(3)(B). Pub. L. 110–458, §121(a), amended concluding provisions generally. Prior to amendment, concluding provisions read as follows: "Any such averaging shall be adjusted for contributions and distributions (as provided by the Secretary of the Treasury)."
 
-Subsec. (h)(2)(F). Pub. L. 110–458, §101(b)(1)(E), substituted “section 1055(g)(3)(B)(iii)(I) of this title for such month)” for “section 1055(g)(3)(B)(iii)(I) of this title) for such month” and “subparagraph (C)” for “subparagraph (B)”.
+Subsec. (h)(2)(F). Pub. L. 110–458, §101(b)(1)(E), substituted "section 1055(g)(3)(B)(iii)(I) of this title for such month)" for "section 1055(g)(3)(B)(iii)(I) of this title) for such month" and "subparagraph (C)" for "subparagraph (B)".
 
-Subsec. (i)(2)(A). Pub. L. 110–458, §101(b)(1)(F)(i)(I), added subpar. (A) and struck out former subpar. (A) which read as follows: “the present value of all benefits which are expected to accrue or be earned under the plan during the plan year, determined using the additional actuarial assumptions described in paragraph (1)(B), plus”.
+Subsec. (i)(2)(A). Pub. L. 110–458, §101(b)(1)(F)(i)(I), added subpar. (A) and struck out former subpar. (A) which read as follows: "the present value of all benefits which are expected to accrue or be earned under the plan during the plan year, determined using the additional actuarial assumptions described in paragraph (1)(B), plus".
 
-Subsec. (i)(2)(B). Pub. L. 110–458, §101(b)(1)(F)(i)(II), substituted “the amount determined under subsection (b)(1)(A)(i) with respect to the plan for the plan year” for “the target normal cost (determined without regard to this paragraph) of the plan for the plan year”.
+Subsec. (i)(2)(B). Pub. L. 110–458, §101(b)(1)(F)(i)(II), substituted "the amount determined under subsection (b)(1)(A)(i) with respect to the plan for the plan year" for "the target normal cost (determined without regard to this paragraph) of the plan for the plan year".
 
-Subsec. (i)(4)(B). Pub. L. 110–458, §101(b)(1)(F)(ii), substituted “subparagraph (A)” for “subparagraph (A)(ii)” in concluding provisions.
+Subsec. (i)(4)(B). Pub. L. 110–458, §101(b)(1)(F)(ii), substituted "subparagraph (A)" for "subparagraph (A)(ii)" in concluding provisions.
 
 Subsec. (j)(3)(A). Pub. L. 110–458, §101(b)(1)(G)(i), inserted last sentence.
 
-Subsec. (j)(3)(E). Pub. L. 110–458, §101(b)(1)(G)(ii), (iii), substituted “, short years, and years with alternate valuation date” for “and short years” in heading and added cl. (iii).
+Subsec. (j)(3)(E). Pub. L. 110–458, §101(b)(1)(G)(ii), (iii), substituted ", short years, and years with alternate valuation date" for "and short years" in heading and added cl. (iii).
 
-Subsec. (k)(6)(B). Pub. L. 110–458, §101(b)(1)(H), struck out “, except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under this section” after “subsection (j)”.
+Subsec. (k)(6)(B). Pub. L. 110–458, §101(b)(1)(H), struck out ", except that in the case of a payment other than a required installment, the due date shall be the date such payment is required to be made under this section" after "subsection (j)".
 
 #### Effective Date of 2012 Amendment
 
@@ -1270,7 +1270,7 @@ Amendment by section 202(a) of Pub. L. 110–458 applicable as if included in th
 
 #### Effective Date
 
-Pub. L. 109–280, title I, §102(c), Aug. 17, 2006, 120 Stat. 809, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to plan years beginning after 2007.”
+Pub. L. 109–280, title I, §102(c), Aug. 17, 2006, 120 Stat. 809, provided that: "The amendments made by this section \[enacting this section\] shall apply with respect to plan years beginning after 2007."
 
 #### Applicability of Amendments by Subtitles A and B of Title I of Pub. L. 109–280
 
@@ -1280,5 +1280,5 @@ For special rules on applicability of amendments by subtitles A (§§101–108) 
 
 For modification of transition rule to pension funding requirements in the case of a plan that was not required to pay a variable rate premium for the plan year beginning in 1996, has not, in any plan year beginning after 1995, merged with another plan (other than a plan sponsored by an employer that was in 1996 within the controlled group of the plan sponsor), and is sponsored by a company that is engaged primarily in the interurban or interstate passenger bus service, see section 115(a)–(c) of Pub. L. 109–280, set out as a note under section 430 of Title 26, Internal Revenue Code.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “to”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "to".</i>
 

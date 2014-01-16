@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Commandant
 
-&emsp;The term “Commandant” means the Commandant of the Coast Guard.
+&emsp;The term "Commandant" means the Commandant of the Coast Guard.
 
 #### (2) Lighthouse
 
-&emsp;The term “Lighthouse” means the Jupiter Inlet Lighthouse located in Palm Beach County, Florida.
+&emsp;The term "Lighthouse" means the Jupiter Inlet Lighthouse located in Palm Beach County, Florida.
 
 #### (3) Local Partners
 
-&emsp;The term “Local Partners” includes—
+&emsp;The term "Local Partners" includes—
 
 &emsp;&emsp;(A) Palm Beach County, Florida;
 
@@ -26,27 +26,27 @@ In this section:
 
 #### (4) Management plan
 
-&emsp;The term “management plan” means the management plan developed under subsection (c)(1).
+&emsp;The term "management plan" means the management plan developed under subsection (c)(1).
 
 #### (5) Map
 
-&emsp;The term “map” means the map entitled “Jupiter Inlet Lighthouse Outstanding Natural Area” and dated October 29, 2007.
+&emsp;The term "map" means the map entitled "Jupiter Inlet Lighthouse Outstanding Natural Area" and dated October 29, 2007.
 
 #### (6) Outstanding Natural Area
 
-&emsp;The term “Outstanding Natural Area” means the Jupiter Inlet Lighthouse Outstanding Natural Area established by subsection (b)(1).
+&emsp;The term "Outstanding Natural Area" means the Jupiter Inlet Lighthouse Outstanding Natural Area established by subsection (b)(1).
 
 #### (7) Public land
 
-&emsp;The term “public land” has the meaning given the term “public lands” in section 103(e) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1702(e)).
+&emsp;The term "public land" has the meaning given the term "public lands" in section 103(e) of the Federal Land Policy and Management Act of 1976 (43 U.S.C. 1702(e)).
 
 #### (8) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior.
+&emsp;The term "Secretary" means the Secretary of the Interior.
 
 #### (9) State
 
-&emsp;The term “State” means the State of Florida.
+&emsp;The term "State" means the State of Florida.
 
 #### (b) Establishment of the Jupiter Inlet Lighthouse Outstanding Natural Area
 
@@ -230,5 +230,5 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (d)(1
 
 Section was enacted as part of the Consolidated Natural Resources Act of 2008, and not as part of the Federal Land Policy and Management Act of 1976 which comprises this chapter.
 
-<i><sup>1</sup></i><i> So in original. The word “Management” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "Management" probably should not appear.</i>
 

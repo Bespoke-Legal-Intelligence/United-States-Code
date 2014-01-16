@@ -2,7 +2,7 @@
 
 (a)
 
-Program Authorized.—Subject to subsection (b), the Secretary may carry out a loan guarantee program to encourage commercial firms to use eligible facilities under this chapter. Under any such program, the Secretary may guarantee the repayment of any loan made to acommercial firm to fund, in whole or in part, the establishment of a commercial activity to use an eligible facility under this chapter.
+Program Authorized.—Subject to subsection (b), the Secretary may carry out a loan guarantee program to encourage commercial firms to use eligible facilities under this chapter. Under any such program, the Secretary may guarantee the repayment of any loan made to a commercial firm to fund, in whole or in part, the establishment of a commercial activity to use an eligible facility under this chapter.
 
 (b)
 
@@ -28,7 +28,7 @@ Program Administration.—(1) The Secretary may enter into an agreement with any
 
 &emsp;&emsp;(ii) the Administrator of the Rural Development Administration.
 
-(3) Each official authorized to do so under an agreement entered into under paragraph (1) may guarantee loans under this section to commercial firms of any size, notwithstanding any limitations on the size of applicants imposed on other loan guarantee programs that the official administers.
+(3) Each official authorized to do so under an agreement entered into under paragraph (1) may guarantee loans under this section to commercial firms of any size, notwithstanding any limitations on the size of applicants imposed onother loan guarantee programs that the official administers.
 
 (4) To the extent practicable, each official processing loan guarantee applications under this section pursuant to an agreement entered into under paragraph (1) shall use the same processing procedures as the official uses for processing loan guarantee applications under other loan guarantee programs that the official administers.
 

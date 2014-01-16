@@ -4,7 +4,3 @@ In the areas of said park lying east of the range line between ranges 9 and 10 a
 
 (June 29, 1938, ch. 812, §2, 52 Stat. 1242.)
 
-#### References in Text
-
-The mining laws of the United States, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-

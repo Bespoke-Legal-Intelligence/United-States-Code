@@ -20,9 +20,9 @@ Historical and Revision Notes
 
 May 6, 1936, ch. 333, 49 Stat. 1263; June 20, 1940, ch. 400, §1(a), (b), 54 Stat. 492.
 
-In subsection (a) the authority to purchase a site and construct the model basin is omitted as executed. The words “David W. Taylor Model Basin, Carderock, Maryland” are inserted to designate the model basin established under this authority. The words “investigations to determine” are substituted for the words “work of investigating and determining.” The phrase “vessels, including aircraft” is changed to read “vessels and aircraft”, and the words “their design” are substituted for “ship design”.
+In subsection (a) the authority to purchase a site and construct the model basin is omitted as executed. The words "David W. Taylor Model Basin, Carderock, Maryland" are inserted to designate the model basin established under this authority. The words "investigations to determine" are substituted for the words "work of investigating and determining." The phrase "vessels, including aircraft" is changed to read "vessels and aircraft", and the words "their design" are substituted for "ship design".
 
 #### Amendments
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted “An officer or agency of the Department of the Navy designated by the Secretary of the Navy” for “The Bureau of Ships”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted "An officer or agency of the Department of the Navy designated by the Secretary of the Navy" for "The Bureau of Ships".
 

@@ -20,7 +20,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in section 8309(d) of this title, any person that violates this chapter, orthat forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided under this chapter may, after notice and opportunity for a hearing on the record, be assessed a civil penalty by the Secretary that does not exceed the greater of—
+&emsp;Except as provided in section 8309(d) of this title, any person that violates this chapter, or that forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided under this chapter may, after notice and opportunity for a hearing on the record, be assessed a civil penalty by the Secretary that does not exceed the greater of—
 
 &emsp;&emsp;(A)(i) $50,000 in the case of any individual, except that the civil penalty may not exceed $1,000 in the case of an initial violation of this chapter by an individual moving regulated articles not for monetary gain;
 
@@ -32,7 +32,7 @@
 
 &emsp;&emsp;&emsp;(II) $1,000,000 if the violations include 1 or more willful violations.
 
-&emsp;&emsp;(B) twice the gross gain or gross loss for any violation or forgery, counterfeiting, or unauthorized use, alteration, defacing or destruction of a certificate, permit, or other document provided under this chapter that results in the person's deriving pecuniary gain or causing pecuniary loss to another person.
+&emsp;&emsp;(B) twice the gross gain or gross loss for any violation or forgery, counterfeiting, or unauthorized use, alteration, defacing or destruction of a certificate, permit, or otherdocument provided under this chapter that results in the person's deriving pecuniary gain or causing pecuniary loss to another person.
 
 #### (2) Factors in determining civil penalty
 
@@ -78,7 +78,7 @@ Subject to the approval of the Attorney General, the Secretary shall establish g
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this subtitle”, meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in text, was in the original "this subtitle", meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 #### Codification
 
@@ -86,7 +86,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(1)(A)(iii). Pub. L. 110–246, §11012(a), added cl. (iii) and struck out former cl. (iii) which read as follows: “$500,000 for all violations adjudicated in a single proceeding; or”.
+<b>2008</b>—Subsec. (b)(1)(A)(iii). Pub. L. 110–246, §11012(a), added cl. (iii) and struck out former cl. (iii) which read as follows: "$500,000 for all violations adjudicated in a single proceeding; or".
 
 #### Effective Date of 2008 Amendment
 

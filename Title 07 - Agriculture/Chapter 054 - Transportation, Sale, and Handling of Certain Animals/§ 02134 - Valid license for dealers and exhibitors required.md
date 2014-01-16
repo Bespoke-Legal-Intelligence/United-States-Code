@@ -6,7 +6,7 @@ No dealer or exhibitor shall sell or offer to sell or transport or offer for tra
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–279 substituted “in commerce” for “affecting commerce” in two places.
+<b>1976</b>—Pub. L. 94–279 substituted "in commerce" for "affecting commerce" in two places.
 
 <b>1970</b>—Pub. L. 91–579 inserted references to exhibitors, offers to sell, and offers to transport, and substituted references to animals for references to dogs and cats.
 

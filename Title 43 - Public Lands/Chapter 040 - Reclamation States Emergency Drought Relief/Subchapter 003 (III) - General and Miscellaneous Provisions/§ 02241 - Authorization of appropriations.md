@@ -6,19 +6,19 @@ Except as otherwise provided in section 2243 of this title (relating to temperat
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–212 substituted “through 2012” for “through 2010”.
+<b>2010</b>—Pub. L. 111–212 substituted "through 2012" for "through 2010".
 
-<b>2006</b>—Pub. L. 109–234 substituted “the period of fiscal years 2006 through 2010” for “fiscal years 1992, 1993, 1994, 1995, 1996, 1999, 2000, 2001, 2002, 2003, and 2004”.
+<b>2006</b>—Pub. L. 109–234 substituted "the period of fiscal years 2006 through 2010" for "fiscal years 1992, 1993, 1994, 1995, 1996, 1999, 2000, 2001, 2002, 2003, and 2004".
 
-<b>2003</b>—Pub. L. 108–137 substituted “2003, and 2004” for “and 2003”.
+<b>2003</b>—Pub. L. 108–137 substituted "2003, and 2004" for "and 2003".
 
-Pub. L. 108–7 substituted “2002, and 2003” for “and 2002”.
+Pub. L. 108–7 substituted "2002, and 2003" for "and 2002".
 
-<b>2001</b>—Pub. L. 107–66 substituted “2001, and 2002” for “and 2001”.
+<b>2001</b>—Pub. L. 107–66 substituted "2001, and 2002" for "and 2001".
 
-<b>2000</b>—Pub. L. 106–377 substituted “2000, and 2001” for “and 2000”.
+<b>2000</b>—Pub. L. 106–377 substituted "2000, and 2001" for "and 2000".
 
-<b>1999</b>—Pub. L. 106–60 substituted “1999, and 2000” for “and 1997”.
+<b>1999</b>—Pub. L. 106–60 substituted "1999, and 2000" for "and 1997".
 
-<b>1996</b>—Pub. L. 104–206 substituted “1996, and 1997” for “and 1996”.
+<b>1996</b>—Pub. L. 104–206 substituted "1996, and 1997" for "and 1996".
 

@@ -1,8 +1,8 @@
 ### §53912. Expiration date
 
-The authority of the Secretary of Transportation to provide insurance and reinsurance under this chapter expires on December 31, 2015.
+The authority of the Secretary of Transportation to provide insurance and reinsurance under this chapter expires on December 31, 2020.
 
-(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1632; Pub. L. 110–417, div. C, title XXXV, §3509, Oct. 14, 2008, 122 Stat. 4769.)
+(Pub. L. 109–304, §8(c), Oct. 6, 2006, 120 Stat. 1632; Pub. L. 110–417, div. C, title XXXV, §3509, Oct. 14, 2008, 122 Stat. 4769; Pub. L. 113–66, div. C, title XXXV, §3502, Dec. 26, 2013, 127 Stat. 1085.)
 
 Historical and Revision Notes
 
@@ -22,5 +22,7 @@ June 29, 1936, ch. 858, title XII, §1214, as added Sept. 7, 1950, ch. 906, 64 S
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–417 substituted “December 31, 2015.” for “December 31, 2010.”
+<b>2013</b>—Pub. L. 113–66 substituted "December 31, 2020" for "December 31, 2015".
+
+<b>2008</b>—Pub. L. 110–417 substituted "December 31, 2015." for "December 31, 2010."
 

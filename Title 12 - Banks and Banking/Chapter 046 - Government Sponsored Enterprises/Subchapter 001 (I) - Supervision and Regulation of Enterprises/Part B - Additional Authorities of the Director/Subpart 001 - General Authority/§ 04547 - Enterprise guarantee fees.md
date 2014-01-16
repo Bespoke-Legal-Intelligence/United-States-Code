@@ -6,7 +6,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Guarantee fee
 
-&emsp;The term “guarantee fee”—
+&emsp;The term "guarantee fee"—
 
 &emsp;&emsp;(A) means a fee described in subsection (b); and
 
@@ -18,7 +18,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Average fees
 
-&emsp;The term “average fees” means the average contractual fee rate of single-family guaranty arrangements by an enterprise entered into during 2011, plus the recognition of any up-front cash payments over an estimated average life, expressed in terms of basis points. Such definition shall be interpreted in a manner consistent with the annual report on guarantee fees by the Federal Housing Finance Agency.
+&emsp;The term "average fees" means the average contractual fee rate of single-family guaranty arrangements by an enterprise entered into during 2011, plus the recognition of any up-front cash payments over an estimated average life, expressed in terms of basis points. Such definition shall be interpreted in a manner consistent with the annual report on guarantee fees by the Federal Housing Finance Agency.
 
 #### (b) Increase
 
@@ -98,5 +98,5 @@ The provisions of this section shall expire on October 1, 2021.
 
 A prior section 4547, Pub. L. 102–550, title XIII, §1327, Oct. 28, 1992, 106 Stat. 3956; Pub. L. 110–289, div. A, title I, §1122(a)(1), July 30, 2008, 122 Stat. 2689, related to authority to require reports by enterprises, prior to repeal by Pub. L. 110–289, div. A , title I, §1104(b), July 30, 2008, 122 Stat. 2667.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “as”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "as".</i>
 

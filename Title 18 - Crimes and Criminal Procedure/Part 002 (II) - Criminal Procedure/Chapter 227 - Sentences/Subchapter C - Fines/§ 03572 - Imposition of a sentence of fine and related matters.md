@@ -6,7 +6,7 @@ Factors To Be Considered.—In determining whether to impose a fine, and the amo
 
 &emsp;(1) the defendant's income, earning capacity, and financial resources;
 
-&emsp;(2) the burden that the fine will impose upon the defendant, any person who is financially dependent on the defendant, or any other person (including a government) that would be responsible for the welfare of any person financially dependent on the defendant, relative to the burden that alternative punishments would impose;
+&emsp;(2) the burden that the fine will impose upon the defendant, any person who is financiallydependent on the defendant, or any other person (including a government) that would be responsible for the welfare of any person financially dependent on the defendant, relative to the burden that alternative punishments would impose;
 
 &emsp;(3) any pecuniary loss inflicted upon others as a result of the offense;
 
@@ -82,23 +82,23 @@ For a prior section 3572, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–132, §207(b)(1), inserted “other than the United States,” after “offense,”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–132, §207(b)(1), inserted "other than the United States," after "offense,".
 
-Subsec. (d). Pub. L. 104–132, §207(b)(2)(A), (B), substituted “(1) A person sentenced to pay a fine or other monetary penalty, including restitution,” for “A person sentenced to pay a fine or other monetary penalty” and struck out at end “If the judgment permits other than immediate payment, the period provided for shall not exceed five years, excluding any period served by the defendant as imprisonment for the offense.”
+Subsec. (d). Pub. L. 104–132, §207(b)(2)(A), (B), substituted "(1) A person sentenced to pay a fine or other monetary penalty, including restitution," for "A person sentenced to pay a fine or other monetary penalty" and struck out at end "If the judgment permits other than immediate payment, the period provided for shall not exceed five years, excluding any period served by the defendant as imprisonment for the offense."
 
 Subsec. (d)(2), (3). Pub. L. 104–132, §207(b)(2)(C), added pars. (2) and (3).
 
-Subsec. (f). Pub. L. 104–132, §207(b)(3), inserted “restitution” after “special assessment,”.
+Subsec. (f). Pub. L. 104–132, §207(b)(3), inserted "restitution" after "special assessment,".
 
-Subsec. (h). Pub. L. 104–132, §207(b)(4), inserted “or payment of restitution” after “A fine”.
+Subsec. (h). Pub. L. 104–132, §207(b)(4), inserted "or payment of restitution" after "A fine".
 
-Subsec. (i). Pub. L. 104–132, §207(b)(5), inserted “or payment of restitution” after “A fine” in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: “When a fine is in default, the entire amount of the fine is due within 30 days after notification of the default, notwithstanding any installment schedule.”
+Subsec. (i). Pub. L. 104–132, §207(b)(5), inserted "or payment of restitution" after "A fine" in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: "When a fine is in default, the entire amount of the fine is due within 30 days after notification of the default, notwithstanding any installment schedule."
 
 <b>1994</b>—Subsec. (a)(6) to (8). Pub. L. 103–322 added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
-<b>1990</b>—Subsec. (c)(2). Pub. L. 101–647 inserted “of the Federal Rules of Criminal Procedure” after “rule 35”.
+<b>1990</b>—Subsec. (c)(2). Pub. L. 101–647 inserted "of the Federal Rules of Criminal Procedure" after "rule 35".
 
-<b>1987</b>—Pub. L. 100–185 inserted “and related matters” in section catchline and amended text generally, revising and restating as subsecs. (a) to (i) provisions formerly contained in subsecs. (a) to (j).
+<b>1987</b>—Pub. L. 100–185 inserted "and related matters" in section catchline and amended text generally, revising and restating as subsecs. (a) to (i) provisions formerly contained in subsecs. (a) to (j).
 
 #### Effective Date of 1996 Amendment
 

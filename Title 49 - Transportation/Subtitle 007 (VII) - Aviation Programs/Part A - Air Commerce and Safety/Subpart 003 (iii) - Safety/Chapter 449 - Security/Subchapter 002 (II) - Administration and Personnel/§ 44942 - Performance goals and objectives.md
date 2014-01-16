@@ -10,7 +10,7 @@ In general.—Within 180 days after the date of enactment of the Aviation and Tr
 
 &emsp;&emsp;(A) establish acceptable levels of performance for aviation security, including screening operations and access control, and
 
-&emsp;&emsp;(B) provide Congress with an action plan, containing measurable goals and milestones,that outlines how those levels of performance will be achieved.
+&emsp;&emsp;(B) provide Congress with an action plan, containing measurable goals and milestones, that outlines how those levels of performance will be achieved.
 
 &emsp;(2)
 

@@ -6,7 +6,7 @@ The Director, in consultation with the United States Fire Administration and oth
 
 #### (b) Annual report
 
-On January 1 of each year, the advisory committee shall transmit to the Committee on Science of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate a report that includes—
+On January 1 of each year, the advisory committee shall transmit to the Committee on Science of the House of Representatives and to the Committee on Commerce, Science, andTransportation of the Senate a report that includes—
 
 &emsp;(1) an evaluation of Team activities, along with recommendations to improve the operation and effectiveness of Teams; and
 
@@ -19,6 +19,8 @@ Section 14 of the Federal Advisory Committee Act shall not apply to the advisory
 (Pub. L. 107–231, §11, Oct. 1, 2002, 116 Stat. 1476.)
 
 #### References in Text
+
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 107–231, Oct. 1, 2002, 116 Stat. 1471, known as the National Construction Safety Team Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7301 of this title and Tables.
 
 Section 14 of the Federal Advisory Committee Act, referred to in subsec. (c), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

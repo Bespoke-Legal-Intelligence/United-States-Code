@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The National Center for Education Evaluation and Regional Assistance shall be headed by a Commissioner for Education Evaluation and Regional Assistance (in this part referred to as the “Evaluation and Regional Assistance Commissioner”) who is highly qualified and has demonstrated a capacity to carry out the mission of the Center and shall—
+The National Center for Education Evaluation and Regional Assistance shall be headed by a Commissioner for Education Evaluation and Regional Assistance (in this part referred to as the "Evaluation and Regional Assistance Commissioner") who is highly qualified and has demonstrated a capacity to carry out the mission of the Center and shall—
 
 &emsp;(1) conduct evaluations pursuant to section 9563 of this title;
 
@@ -20,7 +20,7 @@ The National Center for Education Evaluation and Regional Assistance shall be he
 
 &emsp;(3) make such information accessible in a user-friendly, timely, and efficient manner (including through use of a searchable Internet-based online database that shall include all topics covered in paragraph (2)(E)) to schools, institutions of higher education, educators (including early childhood educators), parents, administrators, policymakers, researchers, public and private entities (including providers of early childhood services), entities responsible for carrying out technical assistance through the Department, and the general public;
 
-&emsp;(4) support the regional educational laboratories in conducting applied research, the development and dissemination of educational research, products and processes, the provision of technical assistance, and other activities to serve the educational needs of such laboratories’ regions;
+&emsp;(4) support the regional educational laboratories in conducting applied research, the development and dissemination of educational research, products and processes, the provision of technical assistance, and other activities to serve the educational needs of such laboratories' regions;
 
 &emsp;(5) manage the National Library of Education described in subsection (d) of this section, and other sources of digital information on education research;
 
@@ -46,7 +46,7 @@ In carrying out subsection (a) of this section, the Evaluation and Regional Assi
 
 #### (c) Continuation
 
-The Director shall continue awards for the support of the Educational Resources Information Center Clearinghouses and contracts for regional educational laboratories (established under subsections (f) and (h) of section 941 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (20 U.S.C. 6041(f) and (h)) (as such awards were in effect on the day before November 5, 2002)) for the duration of those awards, in accordance with the terms and agreements of such awards.
+The Director shall continue awards for the support of the Educational Resources Information Center Clearinghouses and contracts for regional educational laboratories (establishedunder subsections (f) and (h) of section 941 of the Educational Research, Development, Dissemination, and Improvement Act of 1994 (20 U.S.C. 6041(f) and (h)) (as such awards were in effect on the day before November 5, 2002)) for the duration of those awards, in accordance with the terms and agreements of such awards.
 
 #### (d) National Library of Education
 

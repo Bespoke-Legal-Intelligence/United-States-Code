@@ -10,53 +10,53 @@
 
 Indian Employment.—Consistent with section 703(i) of the Civil Rights Act of 1964 (42 U.S.C. 2000e–2(i)), nothing in this section shall preclude the preferential employment of Indians living on or near a reservation on projects and contracts on Indian reservation roads. States may implement a preference for employment of Indians on projects carried out under this title near Indian reservations. The Secretary shall cooperate with Indian tribal governments and the States to implement this subsection.
 
-(Added Pub. L. 90–495, §22(a), Aug. 23, 1968, 82 Stat. 826; amended Pub. L. 91–605, title I, §110, Dec. 31, 1970, 84 Stat. 1719; Pub. L. 93–87, title I, §120, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280,title I, §126, May 5, 1976, 90 Stat. 440; Pub. L. 97–424, title I, §119, Jan. 6, 1983, 96 Stat. 2110; Pub. L. 100–17, title I, §122, Apr. 2, 1987, 101 Stat. 160; Pub. L. 102–240, title I, §1026, Dec. 18, 1991, 105 Stat. 1965; Pub. L. 102–388, title IV, §412, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 105–178, title I, §§1208, 1212(a)(2)(A), June 9, 1998, 112 Stat. 186, 193; Pub. L. 109–59, title I, §1922, Aug. 10, 2005, 119 Stat. 1481; Pub. L. 111–350, §5(e)(1), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 112–141, div. A, title I, §1109, July 6, 2012, 126 Stat. 444.)
+(Added Pub. L. 90–495, §22(a), Aug. 23, 1968, 82 Stat. 826; amended Pub. L. 91–605, title I, §110, Dec. 31, 1970, 84 Stat. 1719; Pub. L. 93–87, title I, §120, Aug. 13, 1973, 87 Stat. 259; Pub. L. 94–280, title I, §126, May 5, 1976, 90 Stat. 440; Pub. L. 97–424, title I, §119, Jan. 6, 1983, 96 Stat. 2110; Pub. L. 100–17, title I, §122, Apr. 2, 1987, 101 Stat. 160; Pub. L. 102–240, title I, §1026, Dec. 18, 1991, 105 Stat. 1965; Pub. L. 102–388, title IV, §412, Oct. 6, 1992, 106 Stat. 1565; Pub. L. 105–178, title I, §§1208, 1212(a)(2)(A), June 9, 1998, 112 Stat. 186, 193; Pub. L. 109–59, title I, §1922, Aug. 10, 2005, 119 Stat. 1481; Pub. L. 111–350, §5(e)(1), Jan. 4, 2011, 124 Stat. 3847; Pub. L. 112–141, div. A, title I, §1109, July 6, 2012, 126 Stat. 444.)
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–141, §1109(a), substituted “From administrative funds made available under section 104(a),” for “Whenever apportionments are made under section 104(b)(3) of this title,” and struck out “and the bridge program under section 144” after “section 104(b)”.
+<b>2012</b>—Subsec. (b). Pub. L. 112–141, §1109(a), substituted "From administrative funds made available under section 104(a)," for "Whenever apportionments are made under section 104(b)(3) of this title," and struck out "and the bridge program under section 144" after "section 104(b)".
 
-Subsec. (c). Pub. L. 112–141, §1109(b), substituted “From administrative funds made available under section 104(a),” for “Whenever apportionments are made under section 104(b)(3),”.
+Subsec. (c). Pub. L. 112–141, §1109(b), substituted "From administrative funds made available under section 104(a)," for "Whenever apportionments are made under section 104(b)(3),".
 
-<b>2011</b>—Subsec. (b). Pub. L. 111–350, §5(e)(1)(A), substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes, as amended (41 U.S.C. 5),”.
+<b>2011</b>—Subsec. (b). Pub. L. 111–350, §5(e)(1)(A), substituted "section 6101(b) to (d) of title 41" for "section 3709 of the Revised Statutes, as amended (41 U.S.C. 5),".
 
-Subsec. (c). Pub. L. 111–350, §5(e)(1)(B), substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes, as amended (41 U.S.C. 5),” and “section 3106 of title 41” for “section 302(e) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252(e))”.
+Subsec. (c). Pub. L. 111–350, §5(e)(1)(B), substituted "section 6101(b) to (d) of title 41" for "section 3709 of the Revised Statutes, as amended (41 U.S.C. 5)," and "section 3106 of title 41" for "section 302(e) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 252(e))".
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–59, §1922(a), in first sentence, substituted “section 135” for “subsection (a) of section 105 of this title”, in second sentence, substituted “The Secretary” for “He”, in third sentence, substituted “if necessary to ensure” for “shall, where he considers it necessary to assure” and inserted “shall” before “require”, and, in last sentence, substituted “the Secretary to” for “him to” and “the Secretary of Transportation” for “he”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §1922(a), in first sentence, substituted "section 135" for "subsection (a) of section 105 of this title", in second sentence, substituted "The Secretary" for "He", in third sentence, substituted "if necessary to ensure" for "shall, where he considers it necessary to assure" and inserted "shall" before "require", and, in last sentence, substituted "the Secretary to" for "him to" and "the Secretary of Transportation" for "he".
 
-Subsec. (b). Pub. L. 109–59, §1922(b), in first sentence, substituted “surface transportation” for “highway construction” and, in second sentence, struck out “he may deem” before “necessary” and “not to exceed $2,500,000 for the transition quarter ending September 30, 1976, and” before “not to exceed $10,000,000”.
+Subsec. (b). Pub. L. 109–59, §1922(b), in first sentence, substituted "surface transportation" for "highway construction" and, in second sentence, struck out "he may deem" before "necessary" and "not to exceed $2,500,000 for the transition quarter ending September 30, 1976, and" before "not to exceed $10,000,000".
 
-Subsec. (c). Pub. L. 109–59, §1922(c), substituted “section 104(b)(3)” for “subsection 104(b)(3) of this title” and struck out “he may deem” before “necessary”.
+Subsec. (c). Pub. L. 109–59, §1922(c), substituted "section 104(b)(3)" for "subsection 104(b)(3) of this title" and struck out "he may deem" before "necessary".
 
-Subsec. (d). Pub. L. 109–59, §1922(d), struck out “
+Subsec. (d). Pub. L. 109–59, §1922(d), struck out "
 
-and Contracting” after “
+and Contracting" after "
 
-Employment” in heading.
+Employment" in heading.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–178, §§1208(a), 1212(a)(2)(A)(ii), inserted “In implementing such programs, a State may reserve training positions for persons who receive welfare assistance from such State; except that the implementation of any such program shall not cause current employees to be displaced or current positions to be supplanted or preclude workers that are participating in an apprenticeship, skill improvement, or other upgrading program registered with the Department of Labor or the appropriate State agency from being referred to, or hired on, projects funded under this title without regard to the length of time of their participation in such program.” after third sentence and substituted “State transportation departments” for “State highway departments”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–178, §§1208(a), 1212(a)(2)(A)(ii), inserted "In implementing such programs, a State may reserve training positions for persons who receive welfare assistance from such State; except that the implementation of any such program shall not cause current employees to be displaced or current positions to be supplanted or preclude workers that are participating in an apprenticeship, skill improvement, or other upgrading program registered with the Department of Labor or the appropriate State agency from being referred to, or hired on, projects funded under this title without regard to the length of time of their participation in such program." after third sentence and substituted "State transportation departments" for "State highway departments".
 
-Subsec. (b). Pub. L. 105–178, §§1208(b), 1212(a)(2)(A)(i), inserted “and technology” after “highway construction” and “, and to develop and fund summer transportation institutes” after “skill improvement programs” and substituted “section 104(b)(3)” for “section 104(b)” and “State transportation department” for “State highway department”.
+Subsec. (b). Pub. L. 105–178, §§1208(b), 1212(a)(2)(A)(i), inserted "and technology" after "highway construction" and ", and to develop and fund summer transportation institutes" after "skill improvement programs" and substituted "section 104(b)(3)" for "section 104(b)" and "State transportation department" for "State highway department".
 
-Subsec. (c). Pub. L. 105–178, §1208(c), substituted “104(b)(3)” for “104(a)”.
+Subsec. (c). Pub. L. 105–178, §1208(c), substituted "104(b)(3)" for "104(a)".
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–388 substituted “½ of 1 percent” for “¼ of 1 percent” in last sentence.
+<b>1992</b>—Subsec. (b). Pub. L. 102–388 substituted "½ of 1 percent" for "¼ of 1 percent" in last sentence.
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–240, §1026(a), (b), inserted “Indian tribal government,” after “institution,” and inserted at end “Notwithstanding any other provision of law, not to exceed ¼ of 1 percent of funds apportioned to a State for the surface transportation program under section 104(b) and the bridge program under section 144 may be available to carry out this subsection upon request of the State highway department to the Secretary.”
+<b>1991</b>—Subsec. (b). Pub. L. 102–240, §1026(a), (b), inserted "Indian tribal government," after "institution," and inserted at end "Notwithstanding any other provision of law, not to exceed ¼ of 1 percent of funds apportioned to a State for the surface transportation program under section 104(b) and the bridge program under section 144 may be available to carry out this subsection upon request of the State highway department to the Secretary."
 
-Subsec. (c). Pub. L. 102–240, §1026(b), inserted “Indian tribal government,” after “institution,”.
+Subsec. (c). Pub. L. 102–240, §1026(b), inserted "Indian tribal government," after "institution,".
 
-Subsec. (d). Pub. L. 102–240, §1026(c), inserted after first sentence “States may implement a preference for employment of Indians on projects carried out under this title near Indian reservations.”
+Subsec. (d). Pub. L. 102–240, §1026(c), inserted after first sentence "States may implement a preference for employment of Indians on projects carried out under this title near Indian reservations."
 
 <b>1987</b>—Subsec. (d). Pub. L. 100–17 added subsec. (d).
 
-<b>1983</b>—Pub. L. 97–424, §119(c), substituted “Nondiscrimination” for “Equal employment opportunity” in section catchline.
+<b>1983</b>—Pub. L. 97–424, §119(c), substituted "Nondiscrimination" for "Equal employment opportunity" in section catchline.
 
-Subsec. (a). Pub. L. 97–424, §119(a), substituted “, national origin, or sex” for “or national origin” after “color, creed”, in two places.
+Subsec. (a). Pub. L. 97–424, §119(a), substituted ", national origin, or sex" for "or national origin" after "color, creed", in two places.
 
 Subsec. (c). Pub. L. 97–424, §119(b), added subsec. (c).
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–280 substituted second sentence “Whenever apportionments are made under section 104(b) of this title, the Secretary shall deduct such sums as he may deem necessary, not to exceed $2,500,000 for the transition quarter ending September 30, 1976, and not to exceed $10,000,000 per fiscal year, for the administration of this subsection.” for “Whenever an apportionment is made under subsections 104(b)(1), (b)(2), (b)(3), (b)(5), and (b)(6) of this title of the sums authorized to be appropriated for expenditure upon the Federal-aid primary and secondary systems, and their extensions within urban areas, the Interstate System, and the Federal-aid urban system for the fiscal years 1972, 1973, 1974, 1975, and 1976, the Secretary shall deduct such sums as he may deem necessary not to exceed $5,000,000 per fiscal year for the fiscal years 1972 and 1973, and $10,000,000 per fiscal year for the fiscal years 1974, 1975 and 1976, for administering the provisions of this subsection to be financed from the appropriation for the Federal-aid systems.”
+<b>1976</b>—Subsec. (b). Pub. L. 94–280 substituted second sentence "Whenever apportionments are made under section 104(b) of this title, the Secretary shall deduct such sums as he may deem necessary, not to exceed $2,500,000 for the transition quarter ending September 30, 1976, and not to exceed $10,000,000 per fiscal year, for the administration of this subsection." for "Whenever an apportionment is made under subsections 104(b)(1), (b)(2), (b)(3), (b)(5), and (b)(6) of this title of the sums authorized to be appropriated for expenditure upon the Federal-aid primary and secondary systems, and their extensions within urban areas, the Interstate System, and the Federal-aid urban system for the fiscal years 1972, 1973, 1974, 1975, and 1976, the Secretary shall deduct such sums as he may deem necessary not to exceed $5,000,000 per fiscal year for the fiscal years 1972 and 1973, and $10,000,000 per fiscal year for the fiscal years 1974, 1975 and 1976, for administering the provisions of this subsection to be financed from the appropriation for the Federal-aid systems."
 
 <b>1973</b>—Subsec. (b). Pub. L. 93–87 included apportionment of appropriated moneys for administration of subsec. (b) provisions for fiscal years 1974, 1975, and 1976, and substituted provisions which made available for such administration $5,000,000 per fiscal year for fiscal years 1972, and 1973, and $10,000,000 per fiscal year for fiscal years 1974, 1975, and 1976, for prior provision making available $5,000,000 per fiscal year for such administration.
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriatedor made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
 #### Effective Date
 

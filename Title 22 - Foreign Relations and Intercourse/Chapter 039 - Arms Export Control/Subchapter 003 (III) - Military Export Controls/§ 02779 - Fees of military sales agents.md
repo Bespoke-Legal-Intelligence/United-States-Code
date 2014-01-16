@@ -18,7 +18,7 @@ The President may, by regulation, prohibit, limit, or prescribe conditions with 
 
 #### (c) Allocation to contract; improper influence
 
-No such contribution, gift, commission, or fee may be included, in whole or in part, in the amount paid under any procurement contract entered into under section 2762 or section 2769 of this title, unless the amount thereof is reasonable, allocable to such contract, and not made to a person who has solicited, promoted, or otherwise secured such sale, or has held himself out as being able to do so, through improper influence. For the purposes of this section, “improper influence” means influence, direct or indirect, which induces or attempts to induce consideration or action by any employee or officer of a purchasing foreign government or international organization with respect to such purchase on any basis other than such consideration of merit as are involved in comparable United States procurements.
+No such contribution, gift, commission, or fee may be included, in whole or in part, in the amount paid under any procurement contract entered into under section 2762 or section 2769 of this title, unless the amount thereof is reasonable, allocable to such contract, and not made to a person who has solicited, promoted, or otherwise secured such sale, or has held himself out as being able to do so, through improper influence. For the purposes of this section, "improper influence" means influence, direct or indirect, which induces or attempts to induce consideration or action by any employee or officer of a purchasing foreign government or international organization with respect to such purchase on any basis other than such consideration of merit as are involved in comparable United States procurements.
 
 #### (d) Availability of records to Congress and Federal agencies
 
@@ -30,7 +30,7 @@ No such contribution, gift, commission, or fee may be included, in whole or in p
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 
@@ -46,5 +46,5 @@ Section effective 60 days after June 30, 1976, see section 604(c) of Pub. L. 94�
 
 #### Delegation of Functions
 
-Functions of President under subsec. (b) of this section delegated to Secretary of State, with Secretary of State required to consult with Secretary of Defense to avoid interference in application of Department of Defense regulations to sales made under section 2762 of this title, by section 1(m) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+For delegation of functions of the President under subsec. (b) of this section, with certain conditions, see section 1(o) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16130, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 

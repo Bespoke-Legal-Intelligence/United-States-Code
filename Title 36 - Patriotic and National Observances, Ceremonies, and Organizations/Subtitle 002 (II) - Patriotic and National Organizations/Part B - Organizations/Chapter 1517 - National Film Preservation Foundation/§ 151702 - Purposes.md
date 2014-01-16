@@ -32,5 +32,5 @@ The National Film Preservation Act of 1996, referred to in par. (2), is title I 
 
 #### Amendments
 
-<b>2008</b>—Par. (1). Pub. L. 110–336 substituted “United States and the repatriation of American films from foreign archives;” for “United States;”.
+<b>2008</b>—Par. (1). Pub. L. 110–336 substituted "United States and the repatriation of American films from foreign archives;" for "United States;".
 

@@ -64,7 +64,7 @@
 
 #### (E) Other below-market loans
 
-&emsp;&emsp;To the extent provided in regulations, any below-market loan which is not described in subparagraph (A), (B), (C), or (F) if the interest arrangements of such loan have a significant effect on any Federal tax liability of the lender or the borrower.
+&emsp;&emsp;To the extent provided in regulations, any below-market loan which is not described insubparagraph (A), (B), (C), or (F) if the interest arrangements of such loan have a significant effect on any Federal tax liability of the lender or the borrower.
 
 #### (F) Loans to qualified continuing care facilities
 
@@ -112,7 +112,7 @@
 
 #### (D) Limitation not to apply where aggregate amount of loans exceed $100,000
 
-&emsp;&emsp;This paragraph shall not apply to any loan made by a lender to a borrower for any dayon which the aggregate outstanding amount of loans between the borrower and lender exceeds $100,000.
+&emsp;&emsp;This paragraph shall not apply to any loan made by a lender to a borrower for any day on which the aggregate outstanding amount of loans between the borrower and lender exceeds $100,000.
 
 #### (E) Net investment income
 
@@ -120,7 +120,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “net investment income” has the meaning given such term by section 163(d)(4).
+&emsp;&emsp;&emsp;The term "net investment income" has the meaning given such term by section 163(d)(4).
 
 #### (ii) De minimis rule
 
@@ -132,7 +132,7 @@
 
 #### (iv) Deferred payment obligations
 
-&emsp;&emsp;&emsp;The term “deferred payment obligation” includes any market discount bond, short-term obligation, United States savings bond, annuity, or similar obligation.
+&emsp;&emsp;&emsp;The term "deferred payment obligation" includes any market discount bond, short-term obligation, United States savings bond, annuity, or similar obligation.
 
 #### (2) Special rule for gift tax
 
@@ -144,7 +144,7 @@ For purposes of this section—
 
 #### (1) Below-market loan
 
-&emsp;The term “below-market loan” means any loan if—
+&emsp;The term "below-market loan" means any loan if—
 
 &emsp;&emsp;(A) in the case of a demand loan, interest is payable on the loan at a rate less than the applicable Federal rate, or
 
@@ -152,7 +152,7 @@ For purposes of this section—
 
 #### (2) Forgone interest
 
-&emsp;The term “forgone interest” means, with respect to any period during which the loan is outstanding, the excess of—
+&emsp;The term "forgone interest" means, with respect to any period during which the loan is outstanding, the excess of—
 
 &emsp;&emsp;(A) the amount of interest which would have been payable on the loan for the period if interest accrued on the loan at the applicable Federal rate and were payable annually on the day referred to in subsection (a)(2), over
 
@@ -182,19 +182,19 @@ For purposes of this section—
 
 #### (3) Gift loan
 
-&emsp;The term “gift loan” means any below-market loan where the forgoing of interest is in the nature of a gift.
+&emsp;The term "gift loan" means any below-market loan where the forgoing of interest is in the nature of a gift.
 
 #### (4) Amount loaned
 
-&emsp;The term “amount loaned” means the amount received by the borrower.
+&emsp;The term "amount loaned" means the amount received by the borrower.
 
 #### (5) Demand loan
 
-&emsp;The term “demand loan” means any loan which is payable in full at any time on the demand of the lender. Such term also includes (for purposes other than determining the applicable Federal rate under paragraph (2)) any loan if the benefits of the interest arrangements of such loan are not transferable and are conditioned on the future performance of substantial services by an individual. To the extent provided in regulations, such term also includes any loan with an indefinite maturity.
+&emsp;The term "demand loan" means any loan which is payable in full at any time on the demand of the lender. Such term also includes (for purposes other than determining the applicable Federal rate under paragraph (2)) any loan if the benefits of the interest arrangements of such loan are not transferable and are conditioned on the future performance of substantial services by an individual. To the extent provided in regulations, such term also includes any loan with an indefinite maturity.
 
 #### (6) Term loan
 
-&emsp;The term “term loan” means any loan which is not a demand loan.
+&emsp;The term "term loan" means any loan which is not a demand loan.
 
 #### (7) Husband and wife treated as 1 person
 
@@ -220,7 +220,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;In the case of any term loan made by an employer to an employee the proceeds ofwhich are used by the employee to purchase a principal residence (within the meaning of section 121), the determination of the applicable Federal rate shall be made as of the date the written contract to purchase such residence was entered into.
+&emsp;&emsp;In the case of any term loan made by an employer to an employee the proceeds of which are used by the employee to purchase a principal residence (within the meaning of section 121), the determination of the applicable Federal rate shall be made as of the date the written contract to purchase such residence was entered into.
 
 #### (B) Paragraph only to apply to cases to which section 217 applies
 
@@ -238,7 +238,7 @@ For purposes of this section—
 
 #### (3) Continuing care contract
 
-&emsp;For purposes of this section, the term “continuing care contract” means a written contract between an individual and a qualified continuing care facility under which—
+&emsp;For purposes of this section, the term "continuing care contract" means a written contract between an individual and a qualified continuing care facility under which—
 
 &emsp;&emsp;(A) the individual or individual's spouse may use a qualified continuing care facility for their life or lives,
 
@@ -258,7 +258,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, the term “qualified continuing care facility” means 1 or more facilities—
+&emsp;&emsp;For purposes of this section, the term "qualified continuing care facility" means 1 or more facilities—
 
 &emsp;&emsp;&emsp;(i) which are designed to provide services under continuing care contracts, and
 
@@ -270,7 +270,7 @@ For purposes of this section—
 
 #### (C) Nursing homes excluded
 
-&emsp;&emsp;The term “qualified continuing care facility” shall not include any facility which is of a type which is traditionally considered a nursing home.
+&emsp;&emsp;The term "qualified continuing care facility" shall not include any facility which is of a type which is traditionally considered a nursing home.
 
 #### (5) Adjustment of limit for inflation
 
@@ -300,7 +300,7 @@ For purposes of this section—
 
 #### (2) Continuing care contract
 
-&emsp;For purposes of this section, the term “continuing care contract” means a written contract between an individual and a qualified continuing care facility under which—
+&emsp;For purposes of this section, the term "continuing care contract" means a written contract between an individual and a qualified continuing care facility under which—
 
 &emsp;&emsp;(A) the individual or individual's spouse may use a qualified continuing care facility for their life or lives,
 
@@ -318,7 +318,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, the term “qualified continuing care facility” means 1 or more facilities—
+&emsp;&emsp;For purposes of this section, the term "qualified continuing care facility" means 1 or more facilities—
 
 &emsp;&emsp;&emsp;(i) which are designed to provide services under continuing care contracts,
 
@@ -328,7 +328,7 @@ For purposes of this section—
 
 #### (B) Nursing homes excluded
 
-&emsp;&emsp;The term “qualified continuing care facility” shall not include any facility which is of a type which is traditionally considered a nursing home.
+&emsp;&emsp;The term "qualified continuing care facility" shall not include any facility which is of a type which is traditionally considered a nursing home.
 
 #### (i) Regulations
 
@@ -344,7 +344,7 @@ For purposes of this section—
 
 #### (2) Estate tax coordination
 
-&emsp;Under regulations prescribed by the Secretary, any loan which is made with donative intent and which is a term loan shall be taken into account for purposes of chapter 11 in a manner consistent with the provisions of subsection (b).
+&emsp;Under regulations prescribed by the Secretary, any loan which is made with donativeintent and which is a term loan shall be taken into account for purposes of chapter 11 in a manner consistent with the provisions of subsection (b).
 
 (Added Pub. L. 98–369, div. A, title I, §172(a), July 18, 1984, 98 Stat. 699; amended Pub. L. 99–121, title II, §§201, 202, Oct. 11, 1985, 99 Stat. 511–513; Pub. L. 99–514, title V, §511(d)(1), title XVIII, §§1812(b)(2)–(4), 1854(c)(2)(B), Oct. 22, 1986, 100 Stat. 2248, 2834, 2879; Pub. L. 100–647, title I, §§1005(c)(15), 1018(u)(48), Nov. 10, 1988, 102 Stat. 3393, 3593; Pub. L. 104–188, title I, §§1602(b)(7), 1704(t)(58), 1906(c)(2), Aug. 20, 1996, 110 Stat. 1834, 1890, 1916; Pub. L. 105–34, title III, §312(d)(1), Aug. 5, 1997, 111 Stat. 839; Pub. L. 105–206, title VI, §6023(30), July 22, 1998, 112 Stat. 826; Pub. L. 106–554, §1(a)(7) \[title III, §319(30)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–648; Pub. L. 109–222, title II, §209(a), (b)(1), May 17, 2006, 120 Stat. 351, 352; Pub. L. 109–432, div. A, title IV, §425(a), Dec. 20, 2006, 120 Stat. 2974.)
 
@@ -354,45 +354,45 @@ For purposes of this section—
 
 Subsec. (h). Pub. L. 109–222, §209(a), added subsec. (h). Former subsec. (h) redesignated (i).
 
-Subsec. (h)(4). Pub. L. 109–432 struck out heading and text of par. (4). Text read as follows: “This subsection shall not apply to any calendar year after 2010.”
+Subsec. (h)(4). Pub. L. 109–432 struck out heading and text of par. (4). Text read as follows: "This subsection shall not apply to any calendar year after 2010."
 
 Subsec. (i). Pub. L. 109–222, §209(a), redesignated subsec. (h) as (i).
 
-<b>2000</b>—Subsec. (f)(3). Pub. L. 106–554 substituted “forgoing” for “foregoing”.
+<b>2000</b>—Subsec. (f)(3). Pub. L. 106–554 substituted "forgoing" for "foregoing".
 
-<b>1998</b>—Subsec. (f)(2)(B). Pub. L. 105–206 substituted “forgone” for “foregone”.
+<b>1998</b>—Subsec. (f)(2)(B). Pub. L. 105–206 substituted "forgone" for "foregone".
 
-<b>1997</b>—Subsec. (f)(11)(A). Pub. L. 105–34 substituted “section 121” for “section 1034”.
+<b>1997</b>—Subsec. (f)(11)(A). Pub. L. 105–34 substituted "section 121" for "section 1034".
 
-<b>1996</b>—Subsec. (a)(1), (2). Pub. L. 104–188, §1704(t)(58)(A), substituted “forgone” for “foregone”.
+<b>1996</b>—Subsec. (a)(1), (2). Pub. L. 104–188, §1704(t)(58)(A), substituted "forgone" for "foregone".
 
-Subsec. (e). Pub. L. 104–188, §1704(t)(58)(B), substituted “forgone” for “foregone” in heading.
+Subsec. (e). Pub. L. 104–188, §1704(t)(58)(B), substituted "forgone" for "foregone" in heading.
 
-Subsec. (e)(2). Pub. L. 104–188, §1704(t)(58), substituted “Forgone” for “Foregone” in heading and “forgone” for “foregone” in introductory provisions of text.
+Subsec. (e)(2). Pub. L. 104–188, §1704(t)(58), substituted "Forgone" for "Foregone" in heading and "forgone" for "foregone" in introductory provisions of text.
 
-Subsec. (f)(8). Pub. L. 104–188, §1906(c)(2), inserted “, 643(i),” before “or 1274” in heading and text.
+Subsec. (f)(8). Pub. L. 104–188, §1906(c)(2), inserted ", 643(i)," before "or 1274" in heading and text.
 
-Subsec. (f)(12). Pub. L. 104–188, §1602(b)(7), struck out par. (12) which read as follows: “
+Subsec. (f)(12). Pub. L. 104–188, §1602(b)(7), struck out par. (12) which read as follows: "
 
-Special rule for certain employer security loans.—This section shall not apply to any loan between a corporation (or any member of the controlled group of corporations which includes such corporation) and an employee stock ownership plan described in section 4975(e)(7) to the extent that the interest rate on such loan is equal to the interest rate paid on a related securities acquisition loan (as described in section 133(b)) to such corporation.”
+Special rule for certain employer security loans.—This section shall not apply to any loan between a corporation (or any member of the controlled group of corporations which includes such corporation) and an employee stock ownership plan described in section 4975(e)(7) to the extent that the interest rate on such loan is equal to the interest rate paid on a related securities acquisition loan (as described in section 133(b)) to such corporation."
 
-<b>1988</b>—Subsec. (d)(1)(E)(i). Pub. L. 100–647, §1005(c)(15), directed substitution of “section 163(d)(4)” for “section 163(d)(3)”, which substitution had been previously made by Pub. L. 99–514, §511(d)(1).
+<b>1988</b>—Subsec. (d)(1)(E)(i). Pub. L. 100–647, §1005(c)(15), directed substitution of "section 163(d)(4)" for "section 163(d)(3)", which substitution had been previously made by Pub. L. 99–514, §511(d)(1).
 
 Subsec. (f)(11), (12). Pub. L. 100–647, §1018(u)(48), redesignated former par. (11), Pub. L. 99–514, relating to special rule for certain employer security loans, as (12).
 
-<b>1986</b>—Subsec. (d)(1)(E)(i). Pub. L. 99–514, §511(d)(1), substituted “section 163(d)(4)” for “section 163(d)(3)”.
+<b>1986</b>—Subsec. (d)(1)(E)(i). Pub. L. 99–514, §511(d)(1), substituted "section 163(d)(4)" for "section 163(d)(3)".
 
-Subsec. (f)(2)(B). Pub. L. 99–514, §1812(b)(4), inserted “, compounded semiannually” before the period at end.
+Subsec. (f)(2)(B). Pub. L. 99–514, §1812(b)(4), inserted ", compounded semiannually" before the period at end.
 
-Subsec. (f)(5). Pub. L. 99–514, §1812(b)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “The term ‘demand loan’ means any loan which is payable in full at any time on the demand of the lender. Such term also includes (for purposes other than determining the applicable Federal rate under paragraph (2)) any loan which is not transferable and the benefits of the interest arrangements of which is conditioned on the future performance of substantial services by an individual.”
+Subsec. (f)(5). Pub. L. 99–514, §1812(b)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "The term 'demand loan' means any loan which is payable in full at any time on the demand of the lender. Such term also includes (for purposes other than determining the applicable Federal rate under paragraph (2)) any loan which is not transferable and the benefits of the interest arrangements of which is conditioned on the future performance of substantial services by an individual."
 
 Subsec. (f)(9). Pub. L. 99–514, §1812(b)(2), amended par. (9) generally, inserting the subpar. (A) designation and adding subpar. (B).
 
 Subsec. (f)(11). Pub. L. 99–514, §1854(c)(2)(B), added par. (11) relating to special rule for certain employer security loans.
 
-<b>1985</b>—Subsec. (c)(1). Pub. L. 99–121, §201(c)(1), inserted “and subsection (g)” after “this subsection” in provisions preceding subpar. (A).
+<b>1985</b>—Subsec. (c)(1). Pub. L. 99–121, §201(c)(1), inserted "and subsection (g)" after "this subsection" in provisions preceding subpar. (A).
 
-Subsec. (c)(1)(E). Pub. L. 99–121, §201(c)(2), substituted “(C), or (F)” for “or (C)”.
+Subsec. (c)(1)(E). Pub. L. 99–121, §201(c)(2), substituted "(C), or (F)" for "or (C)".
 
 Subsec. (c)(1)(F). Pub. L. 99–121, §201(b), added subpar. (f).
 
@@ -402,7 +402,7 @@ Subsecs. (g), (h). Pub. L. 99–121, §201(a), added subsec. (g) and redesignate
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title IV, §425(b), Dec. 20, 2006, 120 Stat. 2974, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in section 209 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\].”
+Pub. L. 109–432, div. A, title IV, §425(b), Dec. 20, 2006, 120 Stat. 2974, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in section 209 of the Tax Increase Prevention and Reconciliation Act of 2005 \[Pub. L. 109–222\]."
 
 Amendment by Pub. L. 109–222 applicable to calendar years beginning after Dec. 31, 2005, with respect to loans made before, on, or after such date, see section 209(c) of Pub. L. 109–222, set out as a note under section 142 of this title.
 
@@ -430,57 +430,57 @@ Amendment by sections 1812(b)(2)–(4) and 1854(c)(2)(B) of Pub. L. 99–514 eff
 
 Pub. L. 99–121, title II, §204(a), (b), Oct. 11, 1985, 99 Stat. 514, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(a)
+"(a)
 
 Section 201.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The amendments made by section 201 \[amending this section\] shall apply with respect to loans made after the date of enactment of this Act \[Oct. 11, 1985\].
 
-&emsp;“(2)
+&emsp;"(2)
 
-Section 7872 not to apply to certain loans.—Section 7872 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall not apply to loans made on or before the date of the enactment of this Act \[Oct. 11, 1985\] to any qualified continuing care facility pursuant to a continuing care contract. For purposes of this paragraph, the terms ‘qualified continuing care facility’ and ‘continuing care contract’ have the meanings given such terms by section 7872(g) of such Code (as added by section 201).
+Section 7872 not to apply to certain loans.—Section 7872 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] shall not apply to loans made on or before the date of the enactment of this Act \[Oct. 11, 1985\] to any qualified continuing care facility pursuant to a continuing care contract. For purposes of this paragraph, the terms 'qualified continuing care facility' and 'continuing care contract' have the meanings given such terms by section 7872(g) of such Code (as added by section 201).
 
-“(b)
+"(b)
 
-Section 202.—The amendment made by section 202 \[amending this section\] shall apply to contracts entered into after June 30, 1985, in taxable years ending after such date.”
+Section 202.—The amendment made by section 202 \[amending this section\] shall apply to contracts entered into after June 30, 1985, in taxable years ending after such date."
 
 #### Effective Date
 
 Pub. L. 98–369, div. A, title I, §172(c), July 18, 1984, 98 Stat. 703, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section\] shall apply to—
 
-&emsp;“(A) term loans made after June 6, 1984, and
+&emsp;"(A) term loans made after June 6, 1984, and
 
-&emsp;“(B) demand loans outstanding after June 6, 1984.
+&emsp;"(B) demand loans outstanding after June 6, 1984.
 
-“(2)
+"(2)
 
 Exception for demand loans outstanding on june 6, 1984, and repaid within 60 days after date of enactment.—The amendments made by this section shall not apply to any demand loan which—
 
-&emsp;“(A) was outstanding on June 6, 1984, and
+&emsp;"(A) was outstanding on June 6, 1984, and
 
-&emsp;“(B) was repaid before the date 60 days after the date of the enactment of this Act \[July 18, 1984\].
+&emsp;"(B) was repaid before the date 60 days after the date of the enactment of this Act \[July 18, 1984\].
 
-“(3)
+"(3)
 
 Exception for certain existing loans to continuing care facilities.—Nothing in this subsection shall be construed to apply the amendments made by this section to any loan made before June 6, 1984, to a continuing care facility by a resident of such facility which is contingent on continued residence at such facility.
 
-“(4)
+"(4)
 
 Applicable federal rate for periods before january 1, 1985.—For periods before January 1, 1985, the applicable Federal rate under paragraph (2) of section 7872(f) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by this section, shall be 10 percent, compounded semiannually.
 
-“(5)
+"(5)
 
 Treatment of renegotiations, etc.—For purposes of this subsection, any loan renegotiated, extended, or revised after June 6, 1984, shall be treated as a loan made after such date.
 
-“(6)
+"(6)
 
-Definition of term and demand loans.—For purposes of this subsection, the terms ‘demand loan’ and ‘term loan’ have the respective meanings given such terms by paragraphs (5) and (6) of section 7872(f) of the Internal Revenue Code of 1986, as added by this section, but the second sentence of such paragraph (5) shall not apply.”
+Definition of term and demand loans.—For purposes of this subsection, the terms 'demand loan' and 'term loan' have the respective meanings given such terms by paragraphs (5) and (6) of section 7872(f) of the Internal Revenue Code of 1986, as added by this section, but the second sentence of such paragraph (5) shall not apply."
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -488,11 +488,11 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Certain Israel or Polish Bonds Not Subject to Rules Relating to Below-Market Loans
 
-Pub. L. 99–514, title XVIII, §1812(b)(5), Oct. 22, 1986, 100 Stat. 2834, as amended by Pub. L. 101–179, title III, §307(a), Nov. 28, 1989, 103 Stat. 1314, provided that: “Section 7872 of the Internal Revenue Code of 1954 \[now 1986\] (relating to treatment of loans with below-market interest rates) shall not apply to any obligation issued by Israel or Poland if—
+Pub. L. 99–514, title XVIII, §1812(b)(5), Oct. 22, 1986, 100 Stat. 2834, as amended by Pub. L. 101–179, title III, §307(a), Nov. 28, 1989, 103 Stat. 1314, provided that: "Section 7872 of the Internal Revenue Code of 1954 \[now 1986\] (relating to treatment of loans with below-market interest rates) shall not apply to any obligation issued by Israel or Poland if—
 
-&emsp;“(A) the obligation is payable in United States dollars, and
+&emsp;"(A) the obligation is payable in United States dollars, and
 
-&emsp;“(B) the obligation bears interest at an annual rate of not less than 4 percent.”
+&emsp;"(B) the obligation bears interest at an annual rate of not less than 4 percent."
 
-\[Pub. L. 101–179, title III, §307(b), Nov. 28, 1989, 103 Stat. 1314, provided that: “The amendments made by this section \[amending section 1812(b)(5) of Pub. L. 99–514, set out above\] shall apply to obligations issued after the date of the enactment of this Act \[Nov. 28, 1989\].”\]
+\[Pub. L. 101–179, title III, §307(b), Nov. 28, 1989, 103 Stat. 1314, provided that: "The amendments made by this section \[amending section 1812(b)(5) of Pub. L. 99–514, set out above\] shall apply to obligations issued after the date of the enactment of this Act \[Nov. 28, 1989\]."\]
 

@@ -10,7 +10,7 @@
 
 &emsp;(1) any final determination of the Secretary of Labor under section 223 of the Trade Act of 1974 with respect to the eligibility of workers for adjustment assistance under such Act;
 
-&emsp;(2) any final determination of the Secretary of Commerce under section 251 of the Trade Act of 1974 with respect to the eligibility of a firm for adjustment assistance under such Act;
+&emsp;(2) any final determination of the Secretary of Commerce under section 251 of the TradeAct of 1974 with respect to the eligibility of a firm for adjustment assistance under such Act;
 
 &emsp;(3) any final determination of the Secretary of Commerce under section 273 <sup>1</sup> of the Trade Act of 1974 with respect to the eligibility of a community for adjustment assistance under such Act; and
 
@@ -30,7 +30,7 @@
 
 (h) The Court of International Trade shall have exclusive jurisdiction of any civil action commenced to review, prior to the importation of the goods involved, a ruling issued by the Secretary of the Treasury, or a refusal to issue or change such a ruling, relating to classification, valuation, rate of duty, marking, restricted merchandise, entry requirements, drawbacks, vessel repairs, or similar matters, but only if the party commencing the civil action demonstrates to the court that he would be irreparably harmed unless given an opportunity to obtain judicial review prior to such importation.
 
-(i) In addition to the jurisdiction conferred upon the Court of International Trade by subsections (a)–(h) of this section and subject to the exception set forth in subsection (j) of this section, the Court of International Trade shall haveexclusive jurisdiction of any civil action commenced against the United States, its agencies, or its officers, that arises out of any law of the United States providing for—
+(i) In addition to the jurisdiction conferred upon the Court of International Trade by subsections (a)–(h) of this section and subject to the exception set forth in subsection (j) of this section, the Court of International Trade shall have exclusive jurisdiction of any civil action commenced against the United States, its agencies, or its officers, that arises out of any law of the United States providing for—
 
 &emsp;(1) revenue from imports or tonnage;
 
@@ -68,7 +68,7 @@ Section 516 of the Tariff Act of 1930, referred to in subsec. (b), is classified
 
 Section 516A of the Tariff Act of 1930, referred to in subsecs. (c) and (i), is classified to section 1516a of Title 19, Customs Duties.
 
-The Trade Act of 1974, referred to in subsec. (d), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§2101 et seq.) of Title 19, Customs Duties. Sections 223, 251, 293, and 296 of the Act are classified to sections 2273, 2341, 2401b, and 2401e, respectively, of Title 19. Section 273 of the Act, formerly classified to section 2371b of Title 19, was repealed by Pub. L. 112–40, title II, §222(a)(1), Oct. 21, 2011, 125 Stat. 411. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
+The Trade Act of 1974, referred to in subsec. (d), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, which is classified principally to chapter 12 (§2101 et seq.) of Title 19,Customs Duties. Sections 223, 251, 293, and 296 of the Act are classified to sections 2273, 2341, 2401b, and 2401e, respectively, of Title 19. Section 273 of the Act, formerly classified to section 2371b of Title 19, was repealed by Pub. L. 112–40, title II, §222(a)(1), Oct. 21, 2011, 125 Stat. 411. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
 
 Section 305(b)(1) of the Trade Agreements Act of 1979, referred to in subsec. (e), is classified to section 2515(b)(1) of Title 19, Customs Duties.
 
@@ -86,23 +86,23 @@ A prior section 1581, act June 25, 1948, ch. 646, 62 Stat. 943, related to power
 
 #### Amendments
 
-<b>2009</b>—Subsec. (d)(3), (4). Pub. L. 111–5 substituted “273” for “271” in par. (3) and added par. (4).
+<b>2009</b>—Subsec. (d)(3), (4). Pub. L. 111–5 substituted "273" for "271" in par. (3) and added par. (4).
 
 <b>1993</b>—Subsec. (g)(3). Pub. L. 103–182, §684(a)(1), added par. (3).
 
-Subsec. (i). Pub. L. 103–182, §414(a)(1), inserted “the North American Free Trade Agreement or” before “the United States-Canada Free-Trade Agreement” in last sentence.
+Subsec. (i). Pub. L. 103–182, §414(a)(1), inserted "the North American Free Trade Agreement or" before "the United States-Canada Free-Trade Agreement" in last sentence.
 
-<b>1988</b>—Subsec. (i). Pub. L. 100–449 temporarily inserted at end “This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a binational panel under article 1904 of the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930.” See Effective and Termination Dates of 1988 Amendment note below.
+<b>1988</b>—Subsec. (i). Pub. L. 100–449 temporarily inserted at end "This subsection shall not confer jurisdiction over an antidumping or countervailing duty determination which is reviewable either by the Court of International Trade under section 516A(a) of the Tariff Act of 1930 or by a binational panel under article 1904 of the United States-Canada Free-Trade Agreement and section 516A(g) of the Tariff Act of 1930." See Effective and Termination Dates of 1988 Amendment note below.
 
-<b>1986</b>—Subsec. (g)(1). Pub. L. 99–514 substituted “(3)” for “(3) or (c)”.
+<b>1986</b>—Subsec. (g)(1). Pub. L. 99–514 substituted "(3)" for "(3) or (c)".
 
-<b>1984</b>—Subsec. (g)(1). Pub. L. 98–573 amended par. (1) generally, substituting “a customs broker's license under section 641(b)(2) or (3) or (c) of the Tariff Act of 1930, or to deny a customs broker's permit under section 641(c)(1) of such Act, or to revoke a license or permit under section 641(b)(5) or (c)(2) of such Act” for “or revoke a customhouse broker's license under section 641(a) of the Tariff Act of 1930”.
+<b>1984</b>—Subsec. (g)(1). Pub. L. 98–573 amended par. (1) generally, substituting "a customs broker's license under section 641(b)(2) or (3) or (c) of the Tariff Act of 1930, or to deny a customs broker's permit under section 641(c)(1) of such Act, or to revoke a license or permit under section 641(b)(5) or (c)(2) of such Act" for "or revoke a customhouse broker's license under section 641(a) of the Tariff Act of 1930".
 
-Subsec. (g)(2). Pub. L. 98–573 amended par. (2) generally, substituting “any decision of the Secretary of the Treasury to revoke or suspend a customs broker's license or permit, or impose a monetary penalty in lieu thereof, under section 641(d)(2)(B) of the Tariff Act of 1930” for “any order of the Secretary of the Treasury to revoke or suspend a customhouse broker's license under section 641(b) of the Tariff Act of 1930”.
+Subsec. (g)(2). Pub. L. 98–573 amended par. (2) generally, substituting "any decision of the Secretary of the Treasury to revoke or suspend a customs broker's license or permit, or impose a monetary penalty in lieu thereof, under section 641(d)(2)(B) of the Tariff Act of 1930" for "any order of the Secretary of the Treasury to revoke or suspend a customhouse broker's license under section 641(b) of the Tariff Act of 1930".
 
 #### Effective Date of 2009 Amendment
 
-Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009Amendment note under section 2271 of Title 19, Customs Duties.
+Except as otherwise provided and subject to certain applicability provisions, amendment by Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
 
 #### Effective Date of 1993 Amendment
 
@@ -124,7 +124,7 @@ Subsecs. (d) and (g) to (i) of this section applicable with respect to civil act
 
 #### Application of 1993 Amendment
 
-Pub. L. 103–182, title VI, §684(b), Dec. 8, 1993, 107 Stat 2219, provided that: “For purposes of applying the amendments made by subsection (a) \[amending this section and sections 2631, 2636, 2640, and 2642 of this title\], any decision or order of the Customs Service denying, suspending, or revoking the accreditation of a private laboratory on or after the date of the enactment of this Act \[Dec. 8, 1993\] and before regulations to implement section 499(b) of the Tariff Act of 1930 \[19 U.S.C. 1499(b)\] are issued shall be treated as having been denied, suspended, or revoked under such section 499(b).”
+Pub. L. 103–182, title VI, §684(b), Dec. 8, 1993, 107 Stat 2219, provided that: "For purposes of applying the amendments made by subsection (a) \[amending this section and sections 2631, 2636, 2640, and 2642 of this title\], any decision or order of the Customs Service denying, suspending, or revoking the accreditation of a private laboratory on or after the date of the enactment of this Act \[Dec. 8, 1993\] and before regulations to implement section 499(b) of the Tariff Act of 1930 \[19 U.S.C. 1499(b)\] are issued shall be treated as having been denied, suspended, or revoked under such section 499(b)."
 
 #### Transfer of Functions
 

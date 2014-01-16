@@ -24,7 +24,7 @@
 
 &emsp;(A) employs individuals who are engaged in hazardous substance response or emergency response at Department of Energy nuclear weapons facilities; and
 
-&emsp;(B) fails (i) to provide for the training of such individuals to carry out such hazardous substance response or emergency response, or (ii) to certify to the Department of Energythat such employees are adequately trained for such response pursuant to orders issued by the Department of Energy relating to employee safety training (including orders numbered 5480.4 and 5480.11).
+&emsp;(B) fails (i) to provide for the training of such individuals to carry out such hazardous substance response or emergency response, or (ii) to certify to the Department of Energy that such employees are adequately trained for such response pursuant to orders issued by the Department of Energy relating to employee safety training (including orders numbered 5480.4 and 5480.11).
 
 (2) Civil penalties assessed under this subsection may not exceed $5,000 for each day in which a failure referred to in paragraph (1)(B) occurs.
 
@@ -34,17 +34,9 @@ The Secretary shall prescribe regulations to carry out this section.
 
 #### (d) Definitions
 
-For the purposes of this section, the term “hazardous substance” includes radioactive waste and mixed radioactive and hazardous waste.
+For the purposes of this section, the term "hazardous substance" includes radioactive waste and mixed radioactive and hazardous waste.
 
-#### (e) Funding
-
-Of the funds authorized to be appropriated pursuant to section 3101(9)(A) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190), $10,000,000 may be used for the purpose of carrying out this section.
-
-(Pub. L. 107–314, div. D, title XLVI, §4641, formerly Pub. L. 102–190, div. C, title XXXI, §3131, Dec. 5, 1991, 105 Stat. 1571; renumbered Pub. L. 107–314, div. D, title XLVI, §4641, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(12), Nov. 24, 2003, 117 Stat. 1779.)
-
-#### References in Text
-
-Section 3101(9)(A) of the National Defense Authorization Act for Fiscal Years 1992 and 1993, referred to in subsec. (e), is section 3101(9)(A) of Pub. L. 102–190, div. C, title XXXI, Dec. 5, 1991, 105 Stat. 1564, which is not classified to the Code.
+(Pub. L. 107–314, div. D, title XLVI, §4641, formerly Pub. L. 102–190, div. C, title XXXI, §3131, Dec. 5, 1991, 105 Stat. 1571; renumbered Pub. L. 107–314, div. D, title XLVI, §4641, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(12), Nov. 24, 2003, 117 Stat. 1779; Pub. L. 113–66, div. C, title XXXI, §3146(g)(9), Dec. 26, 2013, 127 Stat. 1080.)
 
 #### Codification
 
@@ -52,5 +44,7 @@ Section was formerly classified to section 7274d of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (e). Pub. L. 108–136, §3141(i)(12)(D), inserted “of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190)” after “section 3101(9)(A)”.
+<b>2013</b>—Subsec. (e). Pub. L. 113–66 struck out subsec. (e). Text read as follows: "Of the funds authorized to be appropriated pursuant to section 3101(9)(A) of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190), $10,000,000 may be used for the purpose of carrying out this section."
+
+<b>2003</b>—Subsec. (e). Pub. L. 108–136, §3141(i)(12)(D), inserted "of the National Defense Authorization Act for Fiscal Years 1992 and 1993 (Public Law 102–190)" after "section 3101(9)(A)".
 

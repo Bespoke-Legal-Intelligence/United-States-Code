@@ -4,7 +4,7 @@
 
 #### (1) Conditions for privilege
 
-&emsp;A report or result of a self-test (as that term is defined by regulation of the Secretary) shallbe considered to be privileged under paragraph (2) if any person—
+&emsp;A report or result of a self-test (as that term is defined by regulation of the Secretary) shall be considered to be privileged under paragraph (2) if any person—
 
 &emsp;&emsp;(A) conducts, or authorizes an independent third party to conduct, a self-test of any aspect of a residential real estate related lending transaction of that person, or any part of that transaction, in order to determine the level or effectiveness of compliance with this subchapter by that person; and
 
@@ -62,23 +62,23 @@ Privilege provided for in this section applicable to self-test conducted before,
 
 Pub. L. 104–208, div. A, title II, §2302(b)(2), Sept. 30, 1996, 110 Stat. 3009–423, provided that:
 
-“(A)
+"(A)
 
 In general.—Not later than 6 months after the date of enactment of this Act \[Sept. 30, 1996\], in consultation with the Board and after providing notice and an opportunity for public comment, the Secretary of Housing and Urban Development shall prescribe final regulations to implement section 814A of the Fair Housing Act \[42 U.S.C. 3614–1\], as added by this section.
 
-“(B)
+"(B)
 
 Self-test.—
 
-&emsp;“(i)
+&emsp;"(i)
 
-Definition.—The regulations prescribed by the Secretary under subparagraph (A) shall include a definition of the term “self-test” for purposes of section 814A of the Fair Housing Act, as added by this section.
+Definition.—The regulations prescribed by the Secretary under subparagraph (A) shall include a definition of the term "self-test" for purposes of section 814A of the Fair Housing Act, as added by this section.
 
-&emsp;“(ii)
+&emsp;"(ii)
 
 Requirement for self-test.—The regulations prescribed by the Secretary under subparagraph (A) shall specify that a self-test shall be sufficiently extensive to constitute a determination of the level and effectiveness of the compliance by a person engaged in residential real estate related lending activities with the Fair Housing Act \[42 U.S.C. 3601 et seq.\].
 
-&emsp;“(iii)
+&emsp;"(iii)
 
-Substantial similarity to certain equal credit opportunity act regulations.—The regulations prescribed under subparagraph (A) shall be substantially similar to the regulations prescribed by the Board to carry out section 704A of the Equal Credit Opportunity Act \[15 U.S.C. 1691c–1\], as added by this section.”
+Substantial similarity to certain equal credit opportunity act regulations.—The regulations prescribed under subparagraph (A) shall be substantially similar to the regulations prescribed by the Board to carry out section 704A of the EqualCredit Opportunity Act \[15 U.S.C. 1691c–1\], as added by this section."
 

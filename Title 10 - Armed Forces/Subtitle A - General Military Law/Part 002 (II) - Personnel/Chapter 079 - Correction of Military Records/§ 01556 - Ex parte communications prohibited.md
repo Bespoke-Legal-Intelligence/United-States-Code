@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of each military department shall ensure that an applicant seeking corrective action by the Army Review Boards Agency, the Air Force Review Boards Agency, or the Board for Correction of Naval Records, as the case may be, is provided a copy of all correspondence and communications (including summaries of verbal communications) to or from the agency or board, or a member of the staff of the agency or board, with an entity or person outside the agency or board that pertain directly to the applicant's case or have a material effect on the applicant's case.
+In General.—The Secretary of each military department shall ensure that an applicant seeking corrective action by the Army Review Boards Agency, the Air Force Review Boards Agency, or the Board for Correction of NavalRecords, as the case may be, is provided a copy of all correspondence and communications (including summaries of verbal communications) to or from the agency or board, or a member of the staff of the agency or board, with an entity or person outside the agency or board that pertain directly to the applicant's case or have a material effect on the applicant's case.
 
 (b)
 
@@ -22,5 +22,5 @@ Exceptions.—Subsection (a) does not apply to the following:
 
 #### Effective Date
 
-Pub. L. 105–261, div. A, title V, §543(b), Oct. 17, 1998, 112 Stat. 2021, provided that: “Section 1556 of title 10, United States Code, as added by subsection (a), shall apply with respect to correspondence and communications made 60 days or more after the date of the enactment of this Act \[Oct. 17, 1998\].”
+Pub. L. 105–261, div. A, title V, §543(b), Oct. 17, 1998, 112 Stat. 2021, provided that: "Section 1556 of title 10, United States Code, as added by subsection (a), shall apply with respect to correspondence and communications made 60 days or more after the date of the enactment of this Act \[Oct. 17, 1998\]."
 

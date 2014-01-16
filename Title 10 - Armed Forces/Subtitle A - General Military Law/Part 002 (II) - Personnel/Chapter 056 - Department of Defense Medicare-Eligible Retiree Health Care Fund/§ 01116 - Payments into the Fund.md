@@ -8,7 +8,7 @@
 
 (b) At the beginning of each fiscal year, the Secretary of Defense shall determine the sum of the following:
 
-&emsp;(1) The amount of the payment for that year under the amortization schedule determinedby the Board of Actuaries under section 1115(a) of this title for the amortization of the original unfunded liability of the Fund.
+&emsp;(1) The amount of the payment for that year under the amortization schedule determined by the Board of Actuaries under section 1115(a) of this title for the amortization of the original unfunded liability of the Fund.
 
 &emsp;(2) The amount (including any negative amount) of the Department of Defense contribution for that year as determined by the Secretary of Defense under section 1115(b) of this title.
 
@@ -20,7 +20,7 @@
 
 (c) The Secretary of Defense shall promptly certify the amount determined under subsection (b) each year to the Secretary of the Treasury.
 
-(d) At the same time as the Secretary of Defense makes the certification under subsection (c), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives the information provided to the Secretary of the Treasury under that subsection.
+(d) At the same time as the Secretary of Defense makes the certification under subsection\(c), the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives the information provided to the Secretary of the Treasury under that subsection.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title VII, §713(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–182; amended Pub. L. 107–107, div. A, title VII, §711(b)(4), (d), (e)(1), title X, §1048(a)(13), Dec. 28, 2001, 115 Stat. 1165, 1166, 1223; Pub. L. 107–314, div. A, title VII, §704(a), Dec. 2, 2002, 116 Stat. 2584; Pub. L. 108–136, div. A, title VII, §722(b), Nov. 24, 2003, 117 Stat. 1532; Pub. L. 108–375, div. A, title VII, §725(a), Oct. 28, 2004, 118 Stat. 1991.)
 
@@ -28,23 +28,23 @@
 
 <b>2004</b>—Pub. L. 108–375 reenacted section catchline without change and amended text generally. Prior to amendment, section related to, in subsec. (a), calculation of the Department of Defense monthly contribution to the Fund, in subsec. (b), separate calculation by a participating uniformed service, in subsec. (c), payments to the Fund at the beginning of each fiscal year by the Secretary of the Treasury, and, in subsec. (d), amounts paid into the Fund under subsec. (a) from the pay of members of the participating uniformed services.
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–136, §722(b)(1), substituted “the amount that, subject to subsection (b),” for “the amount that” in introductory provisions.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §722(b)(1), substituted "the amount that, subject to subsection (b)," for "the amount that" in introductory provisions.
 
 Subsecs. (b) to (d). Pub. L. 108–136, §722(b)(2), (3), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–314 substituted “pay of members” for “health care programs”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–314 substituted "pay of members" for "health care programs".
 
-<b>2001</b>—Subsec. (a)(1)(A). Pub. L. 107–107, §711(e)(1), substituted “uniformed services retiree health care programs” for “Department of Defense retiree health care programs”.
+<b>2001</b>—Subsec. (a)(1)(A). Pub. L. 107–107, §711(e)(1), substituted "uniformed services retiree health care programs" for "Department of Defense retiree health care programs".
 
-Subsec. (a)(1)(B). Pub. L. 107–107, §711(b)(4), inserted “under the jurisdiction of the Secretary of Defense” after “uniformed services”.
+Subsec. (a)(1)(B). Pub. L. 107–107, §711(b)(4), inserted "under the jurisdiction of the Secretary of Defense" after "uniformed services".
 
-Subsec. (a)(2)(A). Pub. L. 107–107, §711(e)(1), substituted “uniformed services retiree health care programs” for “Department of Defense retiree health care programs”.
+Subsec. (a)(2)(A). Pub. L. 107–107, §711(e)(1), substituted "uniformed services retiree health care programs" for "Department of Defense retiree health care programs".
 
-Subsec. (a)(2)(B). Pub. L. 107–107, §1048(a)(13)(A), inserted an opening parenthesis before “other than for training”.
+Subsec. (a)(2)(B). Pub. L. 107–107, §1048(a)(13)(A), inserted an opening parenthesis before "other than for training".
 
-Pub. L. 107–107, §711(b)(4), (d)(1), inserted “under the jurisdiction of the Secretary of Defense” after “uniformed services” and struck out at end “Amounts paid into the Fund under this subsection shall be paid from funds available for the Defense Health Program.”.
+Pub. L. 107–107, §711(b)(4), (d)(1), inserted "under the jurisdiction of the Secretary of Defense" after "uniformed services" and struck out at end "Amounts paid into the Fund under this subsection shall be paid from funds available for the Defense Health Program.".
 
-Subsec. (b)(2)(D). Pub. L. 107–107, §1048(a)(13)(B), substituted “section 1115(c)(4)” for “section 111(c)(4)”.
+Subsec. (b)(2)(D). Pub. L. 107–107, §1048(a)(13)(B), substituted "section 1115(c)(4)" for "section 111(c)(4)".
 
 Subsec. (c). Pub. L. 107–107, §711(d)(2), added subsec. (c).
 
@@ -62,9 +62,9 @@ Section effective Oct. 1, 2002, see section 1 \[\[div. A\], title VII, §713(b)(
 
 #### Inapplicability to Indian Health Service
 
-Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in part: “That heretofore and hereafter the provisions of 10 U.S.C. 1116 shall not apply to the Indian Health Service”.
+Pub. L. 108–7, div. F, title II, Feb. 20, 2003, 117 Stat. 261, provided in part: "That heretofore and hereafter the provisions of 10 U.S.C. 1116 shall not apply to the Indian Health Service".
 
 #### First Year Contributions
 
-Pub. L. 107–107, div. A, title VII, §711(g), Dec. 28, 2001, 115 Stat. 1167, provided that: “With respect to contributions under section 1116(a) of title 10, United States Code, for the first year that the Department of Defense Medicare-Eligible Retiree Health Care Fund is established under chapter 56 of such title, if the Board of Actuaries is unable to execute its responsibilities with respect to such section, the Secretary of Defense may make contributions under such section using methods and assumptions developed by the Secretary.”
+Pub. L. 107–107, div. A, title VII, §711(g), Dec. 28, 2001, 115 Stat. 1167, provided that: "With respect to contributions under section 1116(a) of title 10, United States Code, for the first year that the Department of Defense Medicare-Eligible Retiree Health Care Fund is established under chapter 56 of such title, if the Board of Actuaries is unable to execute its responsibilities with respect to such section, the Secretary of Defense may make contributions under such section using methods and assumptions developed by the Secretary."
 

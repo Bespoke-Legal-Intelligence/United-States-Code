@@ -4,7 +4,7 @@
 
 #### (1) Requirement
 
-&emsp;Beginning 1 year after June 22, 2009, the label, packaging, and shipping containers of tobacco products other than cigarettes for introduction or delivery for introduction into interstate commerce in the United States shall bear the statement “sale only allowed in the United States”. Beginning 15 months after the issuance of the regulations required by section 1333(d) of title 15, as amended by section 201 of Family <sup>1</sup> Smoking Prevention and Tobacco Control Act, the label, packaging, and shipping containers of cigarettes for introduction or delivery for introduction into interstate commerce in the United States shall bear the statement “Sale only allowed in the United States”.
+&emsp;Beginning 1 year after June 22, 2009, the label, packaging, and shipping containers of tobacco products other than cigarettes for introduction or delivery for introduction into interstate commerce in the United States shall bear the statement "sale only allowed in the United States". Beginning 15 months after the issuance of the regulations required by section 1333(d) of title 15, as amended by section 201 of Family <sup>1</sup> Smoking Prevention and Tobacco Control Act, the label, packaging, and shipping containers of cigarettes for introduction or delivery for introduction into interstate commerce in the United States shall bear the statement "Sale only allowed in the United States".
 
 #### (2) Effective date
 
@@ -18,7 +18,7 @@
 
 #### (2) Inspection
 
-&emsp;In promulgating the regulations described in paragraph (1), the Secretary shall consider which records are needed for inspection to monitor the movement of tobacco products from the point of manufacture through distribution to retail outlets to assist in investigating potential illicit trade, smuggling, or counterfeiting of tobacco products.
+&emsp;In promulgating the regulations described in paragraph (1), the Secretary shall considerwhich records are needed for inspection to monitor the movement of tobacco products from the point of manufacture through distribution to retail outlets to assist in investigating potential illicit trade, smuggling, or counterfeiting of tobacco products.
 
 #### (3) Codes
 
@@ -50,7 +50,7 @@ If the Secretary has a reasonable belief that a tobacco product is part of an il
 
 #### (2) Knowledge defined
 
-&emsp;For purposes of this subsection, the term “knowledge” as applied to a manufacturer or distributor means—
+&emsp;For purposes of this subsection, the term "knowledge" as applied to a manufacturer or distributor means—
 
 &emsp;&emsp;(A) the actual knowledge that the manufacturer or distributor had; or
 
@@ -66,5 +66,5 @@ In carrying out this section, the Secretary shall consult with the Attorney Gene
 
 Section 201 of the Family Smoking Prevention and Tobacco Control Act, referred to in subsec. (a)(1), is section 201 of div. A of Pub. L. 111–31.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “the Family”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "the Family".</i>
 

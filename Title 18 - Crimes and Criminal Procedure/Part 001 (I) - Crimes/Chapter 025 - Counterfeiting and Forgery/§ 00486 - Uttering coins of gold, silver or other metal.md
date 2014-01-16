@@ -8,13 +8,13 @@ Whoever, except as authorized by law, makes or utters or passes, or attempts to 
 
 Based on title 18, U.S.C., 1940 ed., §281 (Mar. 4, 1909, ch. 321, §167, 35 Stat. 1120).
 
-Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
+Reference to persons causing or procuring was omitted as unnecessary in view of definition of "principal" in section 2 of this title.
 
 Changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322, which directed the amendment of this section by substituting “fined under this title” for “fined not more than $2,000”, was executed by making the substitution for “fined not more than $3,000”, to reflect the probable intent of Congress.
+<b>1994</b>—Pub. L. 103–322, which directed the amendment of this section by substituting "fined under this title" for "fined not more than $2,000", was executed by making the substitution for "fined not more than $3,000", to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> See 1994 Amendment note below.</i>
 

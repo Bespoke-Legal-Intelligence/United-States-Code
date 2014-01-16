@@ -20,11 +20,11 @@ Feb. 19, 1948, ch. 65, §11(b), 62 Stat. 25.
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–350 substituted “Sections 6101(b)–(d) and 6304 of title 41” for “Sections 3709 and 3735 of the Revised Statutes (41 U.S.C. 5 and 13)”.
+<b>2011</b>—Pub. L. 111–350 substituted "Sections 6101(b)–(d) and 6304 of title 41" for "Sections 3709 and 3735 of the Revised Statutes (41 U.S.C. 5 and 13)".
 
-<b>1993</b>—Pub. L. 103–160 inserted “or sale” after “procurement”.
+<b>1993</b>—Pub. L. 103–160 inserted "or sale" after "procurement".
 
-<b>1980</b>—Pub. L. 96–513 substituted “Sections 3709 and 3735 of the Revised Statutes (41 U.S.C. 5 and 13)” for “Sections 5, 6, 6a, and 13 of title 41”.
+<b>1980</b>—Pub. L. 96–513 substituted "Sections 3709 and 3735 of the Revised Statutes (41 U.S.C. 5 and 13)" for "Sections 5, 6, 6a, and 13 of title 41".
 
 #### Effective Date of 1980 Amendment
 

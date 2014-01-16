@@ -28,11 +28,11 @@ In the case of a taxpayer who—
 
 #### Amendments
 
-<b>1983</b>—Subsec. (c)(2). Pub. L. 97–452 substituted “chapter 31 of title 31” for “the Second Liberty Bond Act”.
+<b>1983</b>—Subsec. (c)(2). Pub. L. 97–452 substituted "chapter 31 of title 31" for "the Second Liberty Bond Act".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” in two places.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" in two places.
 
-Subsec. (b)(2). Pub. L. 94–455, §1901(c)(2), struck out “, a Territory,” after “a State”.
+Subsec. (b)(2). Pub. L. 94–455, §1901(c)(2), struck out ", a Territory," after "a State".
 
-<b>1959</b>—Subsec. (c)(2). Pub. L. 86–346 designated existing provisions as cl. (A), inserted “of the United States” after “an obligation” and struck out “the maturity value of” before “such series E bond” and “which matures not more than 10 years from the date of maturity of such series E bond” after “income obligation” in such cl. (A), and added cl. (B).
+<b>1959</b>—Subsec. (c)(2). Pub. L. 86–346 designated existing provisions as cl. (A), inserted "of the United States" after "an obligation" and struck out "the maturity value of" before "such series E bond" and "which matures not more than 10 years from the date of maturity of such series E bond" after "income obligation" in such cl. (A), and added cl. (B).
 

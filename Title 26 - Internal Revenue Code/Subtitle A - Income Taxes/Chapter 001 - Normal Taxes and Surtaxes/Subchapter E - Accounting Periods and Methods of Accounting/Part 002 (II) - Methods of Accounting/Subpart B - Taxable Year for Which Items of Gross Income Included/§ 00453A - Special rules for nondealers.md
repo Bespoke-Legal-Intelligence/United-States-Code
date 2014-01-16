@@ -56,7 +56,7 @@ In the case of an installment obligation to which this section applies—
 
 #### (3) Deferred tax liability
 
-&emsp;For purposes of this section, the term “deferred tax liability” means, with respect to any taxable year, the product of—
+&emsp;For purposes of this section, the term "deferred tax liability" means, with respect to any taxable year, the product of—
 
 &emsp;&emsp;(A) the amount of gain with respect to an obligation which has not been recognized as of the close of such taxable year, multiplied by
 
@@ -66,7 +66,7 @@ In the case of an installment obligation to which this section applies—
 
 #### (4) Applicable percentage
 
-&emsp;For purposes of this subsection, the term “applicable percentage” means, with respect to obligations arising in any taxable year, the percentage determined by dividing—
+&emsp;For purposes of this subsection, the term "applicable percentage" means, with respect to obligations arising in any taxable year, the percentage determined by dividing—
 
 &emsp;&emsp;(A) the portion of the aggregate face amount of such obligations outstanding as of the close of such taxable year in excess of $5,000,000, by
 
@@ -84,7 +84,7 @@ In the case of an installment obligation to which this section applies—
 
 #### (1) In general
 
-&emsp;For purposes of section 453, if any indebtedness (hereinafter in this subsection referred to as “secured indebtedness”) is secured by an installment obligation to which this section applies, the net proceeds of the secured indebtedness shall be treated as a payment received on such installment obligation as of the later of—
+&emsp;For purposes of section 453, if any indebtedness (hereinafter in this subsection referred to as "secured indebtedness") is secured by an installment obligation to which this section applies, the net proceeds of the secured indebtedness shall be treated as a payment received on such installment obligation as of the later of—
 
 &emsp;&emsp;(A) the time the indebtedness becomes secured indebtedness, or
 
@@ -122,41 +122,41 @@ Provisions similar to those comprising this section were contained in former sec
 
 #### Amendments
 
-<b>1999</b>—Subsec. (d)(4). Pub. L. 106–170 inserted at end “A payment shall be treated as directly secured by an interest in an installment obligation to the extent an arrangement allows the taxpayer to satisfy all or a portion of the indebtedness with the installment obligation.”
+<b>1999</b>—Subsec. (d)(4). Pub. L. 106–170 inserted at end "A payment shall be treated as directly secured by an interest in an installment obligation to the extent an arrangement allows the taxpayer to satisfy all or a portion of the indebtedness with the installment obligation."
 
-<b>1993</b>—Subsec. (c)(3). Pub. L. 103–66 inserted at end “For purposes of applying the preceding sentence with respect to so much of the gain which, when recognized, will be treated as long-term capital gain, the maximum rate on net capital gain under section 1(h) or 1201 (whichever is appropriate) shall be taken into account.”
+<b>1993</b>—Subsec. (c)(3). Pub. L. 103–66 inserted at end "For purposes of applying the preceding sentence with respect to so much of the gain which, when recognized, will be treated as long-term capital gain, the maximum rate on net capital gain under section 1(h) or 1201 (whichever is appropriate) shall be taken into account."
 
-<b>1989</b>—Subsec. (b)(2)(B). Pub. L. 101–239, §7821(a)(1), substituted “such obligations held by the taxpayer” for “obligations of the taxpayer described in paragraph (1)”.
+<b>1989</b>—Subsec. (b)(2)(B). Pub. L. 101–239, §7821(a)(1), substituted "such obligations held by the taxpayer" for "obligations of the taxpayer described in paragraph (1)".
 
-Subsec. (b)(3). Pub. L. 101–239, §7815(g), substituted “Exception for personal use and farm property” for “Exception for farm property” in heading and amended text generally. Prior to amendment, text read as follows: “An installment obligation shall not be treated as described in paragraph (1) if it arises from the disposition of any property used or produced in the trade or business of farming (within the meaning of section 2032A(e)(4) or (5).”
+Subsec. (b)(3). Pub. L. 101–239, §7815(g), substituted "Exception for personal use and farm property" for "Exception for farm property" in heading and amended text generally. Prior to amendment, text read as follows: "An installment obligation shall not be treated as described in paragraph (1) if it arises from the disposition of any property used or produced in the trade or business of farming (within the meaning of section 2032A(e)(4) or (5)."
 
-Pub. L. 101–239, §7812(c)(2), substituted “(5)).” for “(5).”
+Pub. L. 101–239, §7812(c)(2), substituted "(5))." for "(5)."
 
 Subsec. (c)(5), (6). Pub. L. 101–239, §7821(a)(4)(B), added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (d)(1)(B). Pub. L. 101–239, §7821(a)(3), substituted “the time the proceeds” for “the proceeds”.
+Subsec. (d)(1)(B). Pub. L. 101–239, §7821(a)(3), substituted "the time the proceeds" for "the proceeds".
 
-Subsec. (d)(2)(B). Pub. L. 101–239, §7821(a)(2), substituted “the later of the times referred to in subparagraph (A) or (B) of paragraph (1)” for “such secured indebtedness was incurred”.
+Subsec. (d)(2)(B). Pub. L. 101–239, §7821(a)(2), substituted "the later of the times referred to in subparagraph (A) or (B) of paragraph (1)" for "such secured indebtedness was incurred".
 
-<b>1988</b>—Pub. L. 100–647, §5076(b)(1), struck out “of real property” after “rules for nondealers” in section catchline.
+<b>1988</b>—Pub. L. 100–647, §5076(b)(1), struck out "of real property" after "rules for nondealers" in section catchline.
 
-Subsec. (b)(1). Pub. L. 100–647, §5076(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “This section shall apply to any obligation which arises from the disposition of real property under the installment method which is property used in the taxpayer's trade or business or property held for the production of rental income, but only if the sales price of such property exceeds $150,000.”
+Subsec. (b)(1). Pub. L. 100–647, §5076(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "This section shall apply to any obligation which arises from the disposition of real property under the installment method which is property used in the taxpayer's trade or business or property held for the production of rental income, but only if the sales price of such property exceeds $150,000."
 
-Subsec. (b)(2). Pub. L. 100–647, §2004(d)(7), inserted “and subsection (c)(4)” after “of this paragraph” in last sentence.
+Subsec. (b)(2). Pub. L. 100–647, §2004(d)(7), inserted "and subsection (c)(4)" after "of this paragraph" in last sentence.
 
-Subsec. (b)(3). Pub. L. 100–647, §2004(d)(8), substituted “farm property” for “personal use and farm property” in heading and amended text generally. Prior to amendment, text read as follows: “An installment obligation shall not be treated as described in paragraph (1) if it arises from the disposition—
+Subsec. (b)(3). Pub. L. 100–647, §2004(d)(8), substituted "farm property" for "personal use and farm property" in heading and amended text generally. Prior to amendment, text read as follows: "An installment obligation shall not be treated as described in paragraph (1) if it arises from the disposition—
 
-&emsp;“(A) by an individual of personal use property (within the meaning of section 1275(b)(3)), or
+&emsp;"(A) by an individual of personal use property (within the meaning of section 1275(b)(3)), or
 
-&emsp;“(B) of any property used or produced in the trade or business of farming (within the meaning of section 2032A(e)(4) or (5)).”
+&emsp;"(B) of any property used or produced in the trade or business of farming (within the meaning of section 2032A(e)(4) or (5))."
 
-Subsec. (c). Pub. L. 100–647, §1008(g)(2), substituted “453(k)” for “453(j)” in subsec. (c) as in effect on date before the date of enactment of Pub. L. 100–203 (Dec. 22, 1987).
+Subsec. (c). Pub. L. 100–647, §1008(g)(2), substituted "453(k)" for "453(j)" in subsec. (c) as in effect on date before the date of enactment of Pub. L. 100–203 (Dec. 22, 1987).
 
 Subsec. (e). Pub. L. 100–647, §2004(d)(2), added subsec. (e).
 
-<b>1987</b>—Pub. L. 100–203 substituted “Special rules for nondealers of real property” for “Installment method for dealers in personal property” in section catchline and amended text generally, revising and restating as subsecs. (a) to (d) provisions of former subsecs. (a) to (c).
+<b>1987</b>—Pub. L. 100–203 substituted "Special rules for nondealers of real property" for "Installment method for dealers in personal property" in section catchline and amended text generally, revising and restating as subsecs. (a) to (d) provisions of former subsecs. (a) to (c).
 
-<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514, §812(b)(1), struck out last sentence which read as follows: “This paragraph shall not apply with respect to sales of personal property under a revolving credit type plan.”
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–514, §812(b)(1), struck out last sentence which read as follows: "This paragraph shall not apply with respect to sales of personal property under a revolving credit type plan."
 
 Subsec. (c). Pub. L. 99–514, §812(b)(2), added subsec. (c).
 
@@ -182,19 +182,19 @@ Amendment by section 2004(d)(2), (7), (8) of Pub. L. 100–647 effective, except
 
 Pub. L. 100–647, title V, §5076(c), Nov. 10, 1988, 102 Stat. 3683, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to sales after December 31, 1988.
 
-“(2)
+"(2)
 
 Binding contract, etc.—The amendments made by this section shall not apply to any sale on or before December 31, 1990, if—
 
-&emsp;“(A) such sale is pursuant to a written binding contract in effect on October 21, 1988, and at all times thereafter before such sale,
+&emsp;"(A) such sale is pursuant to a written binding contract in effect on October 21, 1988, and at all times thereafter before such sale,
 
-&emsp;“(B) such sale is pursuant to a letter of intent in effect on October 21, 1988, or
+&emsp;"(B) such sale is pursuant to a letter of intent in effect on October 21, 1988, or
 
-&emsp;“(C) there is a board of directors or shareholder approval for such sale on or before October 21, 1988.”
+&emsp;"(C) there is a board of directors or shareholder approval for such sale on or before October 21, 1988."
 
 #### Effective Date of 1987 Amendment
 
@@ -208,23 +208,23 @@ For effective date, see section 6(a)(4) of Pub. L. 96–471, set out as a note u
 
 Pub. L. 100–647, title VI, §6031, Nov. 10, 1988, 102 Stat. 3695, provided that:
 
-“(a)
+"(a)
 
 General Rule.—Section 453A(d) of the 1986 Code (relating to pledges, etc., of installment obligations) shall not apply to any pledge after December 17, 1987, of an installment obligation to secure any indebtednessif such indebtedness is incurred to refinance indebtedness which was outstanding on December 17, 1987, and which was secured on such date and all times thereafter before such refinancing by a pledge of such installment obligation.
 
-“(b)
+"(b)
 
 Limitation.—Subsection (a) shall not apply to the extent that the principal amount of the indebtedness resulting from the refinancing exceeds the principal amount of the refinanced indebtedness immediately before the refinancing.
 
-“(c)
+"(c)
 
 Certain Refinancings Permitted.—For purposes of subsection (a), if—
 
-&emsp;“(1) a refinancing is attributable to the calling of indebtedness by the creditor, and
+&emsp;"(1) a refinancing is attributable to the calling of indebtedness by the creditor, and
 
-&emsp;“(2) such refinancing is not with the creditor under the refinanced indebtedness or a person related to such creditor,
+&emsp;"(2) such refinancing is not with the creditor under the refinanced indebtedness or a person related to such creditor,
 
-> such refinancing shall, to the extent the refinanced indebtedness qualifies under subsections (a) and (b), be treated as a continuation of such refinanced indebtedness.”
+> such refinancing shall, to the extent the refinanced indebtedness qualifies under subsections (a) and (b), be treated as a continuation of such refinanced indebtedness."
 
 #### Amendment by Pub. L. 99–514 Treated as Change in Method of Accounting
 

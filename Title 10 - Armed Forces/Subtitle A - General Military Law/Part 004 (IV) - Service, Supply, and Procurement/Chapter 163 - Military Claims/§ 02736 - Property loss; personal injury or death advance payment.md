@@ -4,7 +4,7 @@
 
 (2) Payments under this subsection are limited to payments which would otherwise be payable under section 2733 or 2734 of this title or section 715 of title 32.
 
-(3) The Secretary of a military department may delegate the authority to make payments under this subsection to the Judge Advocate General of an armed force under the jurisdictionof the Secretary. The Secretary may delegate such authority to any other officer or employee under the jurisdiction of the Secretary, but only with respect to the payment of amounts of $25,000 or less.
+(3) The Secretary of a military department may delegate the authority to make payments under this subsection to the Judge Advocate General of an armed force under the jurisdiction of the Secretary. The Secretary may delegate such authority to any other officer or employee under the jurisdiction of the Secretary, but only with respect to the payment of amounts of $25,000 or less.
 
 (4) Payments under this subsection shall be made under regulations prescribed by the Secretary of the military department concerned.
 
@@ -18,15 +18,15 @@
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–456 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Under such regulations as the Secretary of a military department may prescribe, payment of an amount not in excess of $10,000 may be made in advance of the submission of a claim to or for any person, or his legal representatives, who was injured or killed, or whose property was damaged or lost, under circumstances for which allowance of a claim is authorized by law. Payments under this subsection are limited to those which would otherwise be payable under section 2733 or 2734 of this title or section 715 of title 32.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–456 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Under such regulations as the Secretary of a military department may prescribe, payment of an amount not in excess of $10,000 may be made in advance of the submission of a claim to or for any person, or his legal representatives, who was injured or killed, or whose property was damaged or lost, under circumstances for which allowance of a claim is authorized by law. Payments under this subsection are limited to those which would otherwise be payable under section 2733 or 2734 of this title or section 715 of title 32."
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–564 substituted “$10,000” for “$1,000”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–564 substituted "$10,000" for "$1,000".
 
-<b>1968</b>—Pub. L. 90–521 substituted “advance payment” for “incident to aircraft or missile operation” in section catchline.
+<b>1968</b>—Pub. L. 90–521 substituted "advance payment" for "incident to aircraft or missile operation" in section catchline.
 
-Subsec. (a). Pub. L. 90–521 substituted “under circumstances” for “as the result of an accident involving an aircraft or missile under the control of that department”.
+Subsec. (a). Pub. L. 90–521 substituted "under circumstances" for "as the result of an accident involving an aircraft or missile under the control of that department".
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–456, div. A, title VII, §735(b), Sept. 29, 1988, 102 Stat. 2006, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any claim which would otherwise be payable under section 2733 or 2734 of title 10, United States Code, or under section 715 of title 32, United States Code, and which has not been finally settled on or before the date of the enactment of this Act \[Sept. 29, 1988\].”
+Pub. L. 100–456, div. A, title VII, §735(b), Sept. 29, 1988, 102 Stat. 2006, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to any claim which would otherwise be payable under section 2733 or 2734 of title 10, United States Code, or under section 715 of title 32, United States Code, and which has not been finally settled on or before the date of the enactment of this Act \[Sept. 29, 1988\]."
 

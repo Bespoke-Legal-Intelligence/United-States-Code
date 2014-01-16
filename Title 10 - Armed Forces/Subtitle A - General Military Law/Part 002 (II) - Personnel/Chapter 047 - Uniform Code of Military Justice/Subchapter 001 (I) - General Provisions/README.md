@@ -11,8 +11,11 @@
 | [805\.](%C2%A7%2000805%20-%20Art.%205.%20Territorial%20applicability%20of%20this%20chapter.md) | 5\. | Territorial applicability of this chapter. |
 | [806\.](%C2%A7%2000806%20-%20Art.%206.%20Judge%20advocates%20and%20legal%20officers.md) | 6\. | Judge advocates and legal officers. |
 | [806a.](%C2%A7%2000806a%20-%20Art.%206a.%20Investigation%20and%20disposition%20of%20matters%20pertaining%20to%20the%20fitness%20of%20military%20judges.md) | 6a. | Investigation and disposition of matters pertaining to the fitness of military judges. |
+| [806b.](%C2%A7%2000806b%20-%20Art.%206b.%20Rights%20of%20the%20victim%20of%20an%20offense%20under%20this%20chapter.md) | 6b. | Rights of the victim of an offense under this chapter. |
 
 #### Amendments
+
+<b>2013</b>—Pub. L. 113–66, div. A, title XVII, §1701(a)(2), Dec. 26, 2013, 127 Stat. 953, added item 806b.
 
 <b>1989</b>—Pub. L. 101–189, div. A, title XIII, §1304(a)(2), Nov. 29, 1989, 103 Stat. 1576, added item 806a.
 
@@ -28,3 +31,4 @@
 - [&sect; 00805 - Art. 5. Territorial applicability of this chapter](%C2%A7%2000805%20-%20Art.%205.%20Territorial%20applicability%20of%20this%20chapter.md)
 - [&sect; 00806 - Art. 6. Judge advocates and legal officers](%C2%A7%2000806%20-%20Art.%206.%20Judge%20advocates%20and%20legal%20officers.md)
 - [&sect; 00806a - Art. 6a. Investigation and disposition of matters pertaining to the fitness of military judges](%C2%A7%2000806a%20-%20Art.%206a.%20Investigation%20and%20disposition%20of%20matters%20pertaining%20to%20the%20fitness%20of%20military%20judges.md)
+- [&sect; 00806b - Art. 6b. Rights of the victim of an offense under this chapter](%C2%A7%2000806b%20-%20Art.%206b.%20Rights%20of%20the%20victim%20of%20an%20offense%20under%20this%20chapter.md)

@@ -128,13 +128,13 @@ micrograms per cubic meter)
 
 (July 14, 1955, ch. 360, title I, §163, as added Pub. L. 95–95, title I, §127(a), Aug. 7, 1977, 91 Stat. 732; amended Pub. L. 95–190, §14(a)(41), Nov. 16, 1977, 91 Stat. 1401.)
 
-#### References In Text
+#### References in Text
 
 The Federal Power Act, referred to in subsec. (c)(1)(B), is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see section 791a of Title 16 and Tables.
 
 #### Amendments
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–190 inserted “section” before “7475”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–190 inserted "section" before "7475".
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

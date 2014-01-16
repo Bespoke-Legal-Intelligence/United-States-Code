@@ -36,7 +36,7 @@ Act
 
 June 28, 1950, ch. 383, §307 (less last sentence), 64 Stat. 270.
 
-The words “authorized by sections 21f and 21h, respectively, of this title” are omitted as surplusage. 10:81–1 (2d sentence) is omitted as covered by section 3064 of this title.
+The words "authorized by sections 21f and 21h, respectively, of this title" are omitted as surplusage. 10:81–1 (2d sentence) is omitted as covered by section 3064 of this title.
 
 1958
 
@@ -56,19 +56,19 @@ Aug. 9, 1955, ch. 654, §3(a), 69 Stat. 579.
 
 #### Amendments
 
-<b>1968</b>—Pub. L. 90–329 substituted “Army Medical Department” for “Army Medical Service”.
+<b>1968</b>—Pub. L. 90–329 substituted "Army Medical Department" for "Army Medical Service".
 
-<b>1958</b>—Pub. L. 85–861 substituted “Army Medical Specialist Corps” for “Women's Medical Specialist Corps” in cl. (8).
+<b>1958</b>—Pub. L. 85–861 substituted "Army Medical Specialist Corps" for "Women's Medical Specialist Corps" in cl. (8).
 
 #### Augmentation of Army Medical Department by Detailing Reserve Officers of Public Health Service
 
 Pub. L. 106–398, §1 \[\[div. A\], title VII, §755(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–197, provided that:
 
-“(a)
+"(a)
 
 Authority.—The Secretary of the Army and the Secretary of Health and Human Services may jointly conduct a program to augment the Army Medical Department by exercising any authorities provided to those officials in law for the detailing of reserve commissioned officers of the Public Health Service not in an active status to the Army Medical Department for that purpose.
 
-“(b)
+"(b)
 
-Agreement.—The Secretary of the Army and the Secretary of Health and Human Services shall enter into an agreement governing any program conducted under subsection (a).”
+Agreement.—The Secretary of the Army and the Secretary of Health and Human Services shall enter into an agreement governing any program conducted under subsection (a)."
 

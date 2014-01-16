@@ -2,7 +2,7 @@
 
 #### (a) Assistance authorized
 
-Upon the request of the owner or operator of a facility that is subject to a routine inspection or a challenge inspection under the Chemical Weapons Convention, the Secretary of Defense may provide technical assistance to that owner or operator related to compliance of that facility with the Convention. Any such assistance shall be provided through the On-Site Inspection Agency of the Department of Defense.
+Upon the request of the owner or operator of a facility that is subject to a routine inspection or a challenge inspection under the Chemical Weapons Convention, the Secretary of Defensemay provide technical assistance to that owner or operator related to compliance of that facility with the Convention. Any such assistance shall be provided through the On-Site Inspection Agency of the Department of Defense.
 
 #### (b) Reimbursement requirement
 
@@ -12,13 +12,13 @@ The Secretary may provide assistance under subsection (a) of this section only t
 
 In this section:
 
-&emsp;(1) The terms “Chemical Weapons Convention” and “Convention” mean the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, ratified by the United States on April 25, 1997, and entered into force on April 29, 1997.
+&emsp;(1) The terms "Chemical Weapons Convention" and "Convention" mean the Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on Their Destruction, ratified by the United States on April 25, 1997, and entered into force on April 29, 1997.
 
-&emsp;(2) The term “facility that is subject to a routine inspection” means a declared facility, as defined in paragraph 15 of part X of the Annex on Implementation and Verification of the Convention.
+&emsp;(2) The term "facility that is subject to a routine inspection" means a declared facility, as defined in paragraph 15 of part X of the Annex on Implementation and Verification of the Convention.
 
-&emsp;(3) The term “challenge inspection” means an inspection conducted under Article IX of the Convention.
+&emsp;(3) The term "challenge inspection" means an inspection conducted under Article IX of the Convention.
 
-&emsp;(4) The term “United States National Authority” means the United States National Authority established or designated pursuant to Article VII, paragraph 4, of the Convention.
+&emsp;(4) The term "United States National Authority" means the United States National Authority established or designated pursuant to Article VII, paragraph 4, of the Convention.
 
 (Pub. L. 105–85, div. A, title XIII, §1303, Nov. 18, 1997, 111 Stat. 1951.)
 

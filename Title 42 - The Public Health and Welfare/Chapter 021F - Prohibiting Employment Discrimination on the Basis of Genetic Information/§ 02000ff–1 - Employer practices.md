@@ -46,7 +46,7 @@ It shall be an unlawful employment practice for an employer to request, require,
 
 &emsp;&emsp;(E) the employer, excluding any licensed health care professional or board certified genetic counselor that is involved in the genetic monitoring program, receives the results of the monitoring only in aggregate terms that do not disclose the identity of specific employees; or
 
-&emsp;(6) where the employer conducts DNA analysis for law enforcement purposes as a forensic laboratory or for purposes of human remains identification, and requests or requires genetic information of such employer's employees, but only to the extent that such genetic information is used for analysis of DNA identification markers for quality control to detect sample contamination.
+&emsp;(6) where the employer conducts DNA analysis for law enforcement purposes as a forensic laboratory or for purposes of human remains identification, and requests or requires genetic information of such employer's employees, but only to the extent that such genetic information is used for analysis of DNA identificationmarkers for quality control to detect sample contamination.
 
 #### (c) Preservation of protections
 
@@ -60,5 +60,5 @@ The Occupational Safety and Health Act of 1970, referred to in subsec. (b)(5)(D)
 
 The Federal Mine Safety and Health Act of 1977, referred to in subsec. (b)(5)(D)(i), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, which is classified principally to chapter 22 (§801 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 30 and Tables.
 
-The Atomic Energy Act of 1954, referred to in subsec. (b)(5)(D)(i), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (b)(5)(D)(i), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 

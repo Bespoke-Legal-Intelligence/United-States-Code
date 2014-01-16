@@ -160,7 +160,7 @@ If—
 
 #### (i) Tax shelter partnerships
 
-&emsp;&emsp;&emsp;In the case of a tax shelter which is a partnership, in applying section 704(d) to a deduction or loss for any taxable year attributable to an item which is deductible by reason of subparagraph (A), the term “cash basis” shall be substituted for the term “adjusted basis”.
+&emsp;&emsp;&emsp;In the case of a tax shelter which is a partnership, in applying section 704(d) to a deduction or loss for any taxable year attributable to an item which is deductible by reason of subparagraph (A), the term "cash basis" shall be substituted for the term "adjusted basis".
 
 #### (ii) Other tax shelters
 
@@ -180,7 +180,7 @@ If—
 
 #### (3) Tax shelter defined
 
-&emsp;For purposes of this subsection, the term “tax shelter” means—
+&emsp;For purposes of this subsection, the term "tax shelter" means—
 
 &emsp;&emsp;(A) any enterprise (other than a C corporation) if at any time interests in such enterprise have been offered for sale in any offering required to be registered with any Federal or State agency having the authority to regulate the offering of securities for sale,
 
@@ -194,7 +194,7 @@ If—
 
 #### (5) Economic performance
 
-&emsp;For purposes of this subsection, the term “economic performance” has the meaning given such term by subsection (h).
+&emsp;For purposes of this subsection, the term "economic performance" has the meaning given such term by subsection (h).
 
 #### (j) Limitation on excess farm losses of certain taxpayers
 
@@ -208,7 +208,7 @@ If—
 
 #### (3) Applicable subsidy
 
-&emsp;For purposes of this subsection, the term “applicable subsidy” means—
+&emsp;For purposes of this subsection, the term "applicable subsidy" means—
 
 &emsp;&emsp;(A) any direct or counter-cyclical payment under title I of the Food, Conservation, and Energy Act of 2008, or any payment elected to be received in lieu of any such payment, or
 
@@ -220,7 +220,7 @@ If—
 
 #### (A) In general
 
-&emsp;&emsp;The term “excess farm loss” means the excess of—
+&emsp;&emsp;The term "excess farm loss" means the excess of—
 
 &emsp;&emsp;&emsp;(i) the aggregate deductions of the taxpayer for the taxable year which are attributable to farming businesses of such taxpayer (determined without regard to whether or not such deductions are disallowed for such taxable year under paragraph (1)), over
 
@@ -234,7 +234,7 @@ If—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “threshold amount” means, with respect to any taxable year, the greater of—
+&emsp;&emsp;&emsp;The term "threshold amount" means, with respect to any taxable year, the greater of—
 
 &emsp;&emsp;&emsp;&emsp;(I) $300,000 ($150,000 in the case of married individuals filing separately), or
 
@@ -252,13 +252,13 @@ If—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “farming business” has the meaning given such term in section 263A(e)(4).
+&emsp;&emsp;&emsp;The term "farming business" has the meaning given such term in section 263A(e)(4).
 
 #### (ii) Certain trades and businesses included
 
 &emsp;&emsp;&emsp;If, without regard to this clause, a taxpayer is engaged in a farming business with respect to any agricultural or horticultural commodity—
 
-&emsp;&emsp;&emsp;&emsp;(I) the term “farming business” shall include any trade or business of the taxpayer of the processing of such commodity (without regard to whether the processing is incidental to the growing, raising, or harvesting of such commodity), and
+&emsp;&emsp;&emsp;&emsp;(I) the term "farming business" shall include any trade or business of the taxpayer of the processing of such commodity (without regard to whether the processing is incidental to the growing, raising, or harvesting of such commodity), and
 
 &emsp;&emsp;&emsp;&emsp;(II) if the taxpayer is a member of a cooperative to which subchapter T applies, any trade or business of the cooperative described in subclause (I) shall be treated as the trade or business of the taxpayer.
 
@@ -298,29 +298,29 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (j). Pub. L. 110–246, §15351(a), added subsec. (j).
 
-<b>2005</b>—Subsec. (i)(3)(C). Pub. L. 109–135 substituted “section 6662(d)(2)(C)(ii)” for “section 6662(d)(2)(C)(iii)”.
+<b>2005</b>—Subsec. (i)(3)(C). Pub. L. 109–135 substituted "section 6662(d)(2)(C)(ii)" for "section 6662(d)(2)(C)(iii)".
 
-<b>1996</b>—Subsec. (i)(3)(C). Pub. L. 104–188, §1704(t)(78), substituted “section 6662(d)(2)(C)(iii)” for “section 6662(d)(2)(C)(ii)”.
+<b>1996</b>—Subsec. (i)(3)(C). Pub. L. 104–188, §1704(t)(78), substituted "section 6662(d)(2)(C)(iii)" for "section 6662(d)(2)(C)(ii)".
 
 Pub. L. 104–188, §1704(t)(24), amended directory language of Pub. L. 101–239. See 1989 Amendment note below.
 
-<b>1990</b>—Subsec. (i)(3)(C). Pub. L. 101–508 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “any tax shelter (within the meaning of section 6662(d)(2)(C)(ii)).”
+<b>1990</b>—Subsec. (i)(3)(C). Pub. L. 101–508 amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "any tax shelter (within the meaning of section 6662(d)(2)(C)(ii))."
 
-<b>1989</b>—Subsec. (i)(3)(C). Pub. L. 101–239, as amended by Pub. L. 104–188, §1704(t)(24), substituted “section 6662(d)(2)(C)(ii)” for “section 6661(b)(2)(C)(ii)”.
+<b>1989</b>—Subsec. (i)(3)(C). Pub. L. 101–239, as amended by Pub. L. 104–188, §1704(t)(24), substituted "section 6662(d)(2)(C)(ii)" for "section 6661(b)(2)(C)(ii)".
 
 <b>1988</b>—Subsec. (h)(5)(B), (C). Pub. L. 100–647, §1018(u)(5), amended Pub. L. 99–514, §823(b)(1). See 1986 Amendment note below.
 
-Subsec. (i)(2). Pub. L. 100–647, §1008(a)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In the case of a tax shelter, economic performance with respect to the act of drilling an oil or gas well shall be treated as having occurred within a taxable year if drilling of the well commences before the close of the 90th day after the close of the taxable year.”
+Subsec. (i)(2). Pub. L. 100–647, §1008(a)(3), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "In the case of a tax shelter, economic performance with respect to the act of drilling an oil or gas well shall be treated as having occurred within a taxable year if drilling of the well commences before the close of the 90th day after the close of the taxable year."
 
-<b>1987</b>—Subsec. (h)(5). Pub. L. 100–203 substituted “items” for “cases to which other provisions of this title specifically apply” in heading and amended text generally. Prior to amendment, text read as follows: “This subsection shall not apply to any item to which any of the following provisions apply:
+<b>1987</b>—Subsec. (h)(5). Pub. L. 100–203 substituted "items" for "cases to which other provisions of this title specifically apply" in heading and amended text generally. Prior to amendment, text read as follows: "This subsection shall not apply to any item to which any of the following provisions apply:
 
-&emsp;“(A) Section 463 (relating to vacation pay).
+&emsp;"(A) Section 463 (relating to vacation pay).
 
-&emsp;“(B) Any other provisions of this title which specifically provides for a deduction for a reserve for estimated expenses.”
+&emsp;"(B) Any other provisions of this title which specifically provides for a deduction for a reserve for estimated expenses."
 
 <b>1986</b>—Subsec. (h)(5)(A). Pub. L. 99–514, §805(c)(5), redesignated subpar. (B) as (A) and struck out former subpar. (A) which referred to subsec. (c) or (f) of section 166.
 
-Subsec. (h)(5)(B). Pub. L. 99–514, §823(b)(1), as amended by Pub. L. 100–647, §1018(u)(5), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “Section 466 (relating to discount coupons).”
+Subsec. (h)(5)(B). Pub. L. 99–514, §823(b)(1), as amended by Pub. L. 100–647, §1018(u)(5), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "Section 466 (relating to discount coupons)."
 
 Pub. L. 99–514, §805(c)(5), redesignated subpar. (C) as (B). Former subpar. (B) redesignated (A).
 
@@ -330,31 +330,31 @@ Pub. L. 99–514, §805(c)(5), redesignated subpar. (D) as (C). Former subpar. (
 
 Subsec. (h)(5)(D). Pub. L. 99–514, §805(c)(5), redesignated subpar. (D) as (C).
 
-Subsec. (i). Pub. L. 99–514, §801(b)(1), substituted “Special rules for tax shelters” for “Tax shelters may not deduct items earlier than when economic performance occurs” in heading.
+Subsec. (i). Pub. L. 99–514, §801(b)(1), substituted "Special rules for tax shelters" for "Tax shelters may not deduct items earlier than when economic performance occurs" in heading.
 
-Subsec. (i)(1). Pub. L. 99–514, §801(b)(1), substituted “Recurring item exception not to apply” for “In general” in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of a tax shelter computing taxable income under the cash receipts and disbursements method of accounting, such tax shelter shall not be allowed a deduction under this chapter with respect to any item any earlier than the time when such item would be treated as incurred under subsection (h) (determined without regard to paragraph (3) thereof).”
+Subsec. (i)(1). Pub. L. 99–514, §801(b)(1), substituted "Recurring item exception not to apply" for "In general" in heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In the case of a tax shelter computing taxable income under the cash receipts and disbursements method of accounting, such tax shelter shall not be allowed a deduction under this chapter with respect to any item any earlier than the time when such item would be treated as incurred under subsection (h) (determined without regard to paragraph (3) thereof)."
 
 Subsec. (i)(2). Pub. L. 99–514, §801(b)(1), amended par. (2) generally, substituting provisions relating to special rule for spudding of oil or gas wells for former provisions consisting of subpars. (A) to (D) which related to deduction of items when economic performance occurson or before 90th day after close of the taxable year to the extent of cash basis.
 
-Pub. L. 99–514, §1807(a)(1), substituted “on or before the 90th day” for “within 90 days” in heading and substituted “before the close of the 90th day after the close of the taxable year” for “within 90 days after the close of the taxable year” in subpar. (A).
+Pub. L. 99–514, §1807(a)(1), substituted "on or before the 90th day" for "within 90 days" in heading and substituted "before the close of the 90th day after the close of the taxable year" for "within 90 days after the close of the taxable year" in subpar. (A).
 
-Subsec. (i)(4). Pub. L. 99–514, §801(b)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “In the case of the trade or business of farming (as defined in section 464(e))—
+Subsec. (i)(4). Pub. L. 99–514, §801(b)(2), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "In the case of the trade or business of farming (as defined in section 464(e))—
 
-&emsp;“(A) any tax shelter described in paragraph (3)(C) shall be treated as a farming syndicate for purposes of section 464; except that this subparagraph shall not apply for purposes of determining the income of an individual meeting the requirements of section 464(c)(2),
+&emsp;"(A) any tax shelter described in paragraph (3)(C) shall be treated as a farming syndicate for purposes of section 464; except that this subparagraph shall not apply for purposes of determining the income of an individual meeting the requirements of section 464(c)(2),
 
-&emsp;“(B) section 464 shall be applied before this subsection, and
+&emsp;"(B) section 464 shall be applied before this subsection, and
 
-&emsp;“(C) in determining whether an entity is a tax shelter, the definition of farming syndicate in section 464(c) shall be substituted for subparagraphs (A) and (B) of paragraph (3).”
+&emsp;"(C) in determining whether an entity is a tax shelter, the definition of farming syndicate in section 464(c) shall be substituted for subparagraphs (A) and (B) of paragraph (3)."
 
-Subsec. (i)(4)(A). Pub. L. 99–514, §1807(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “section 464 shall be applied to any tax shelter described in paragraph (3)(C),”.
+Subsec. (i)(4)(A). Pub. L. 99–514, §1807(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "section 464 shall be applied to any tax shelter described in paragraph (3)(C),".
 
-<b>1984</b>—Subsec. (f)(4). Pub. L. 98–369, §91(e), inserted “determined after application of subsection (h)”.
+<b>1984</b>—Subsec. (f)(4). Pub. L. 98–369, §91(e), inserted "determined after application of subsection (h)".
 
 Subsecs. (h), (i). Pub. L. 98–369, §91(a), added subsecs. (h) and (i).
 
-<b>1976</b>—Subsec. (c)(2), (3). Pub. L. 94–455, §§1901(a)(69)(A), (B), 1906(b)(13)(A), redesignated par. (3) as (2), substituted “in which he” for “which begins after December 31, 1953, and ends after the date of the enactment of this title in which the taxpayer”, and struck out “or his delegate” after “Secretary” wherever appearing. Former par. (2), which related to special limitations on the applicability of par. (1), was struck out.
+<b>1976</b>—Subsec. (c)(2), (3). Pub. L. 94–455, §§1901(a)(69)(A), (B), 1906(b)(13)(A), redesignated par. (3) as (2), substituted "in which he" for "which begins after December 31, 1953, and ends after the date of the enactment of this title in which the taxpayer", and struck out "or his delegate" after "Secretary" wherever appearing. Former par. (2), which related to special limitations on the applicability of par. (1), was struck out.
 
-Subsecs. (d), (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+Subsecs. (d), (e). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
 Subsec. (g). Pub. L. 94–455, §208(a), added subsec. (g).
 
@@ -368,13 +368,13 @@ Subsec. (g). Pub. L. 94–455, §208(a), added subsec. (g).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title XV, §15351(b), May 22, 2008, 122 Stat. 1525, and Pub. L. 110–246, §4(a), title XV, §15351(b), June 18, 2008, 122 Stat. 1664, 2287, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
+Pub. L. 110–234, title XV, §15351(b), May 22, 2008, 122 Stat. 1525, and Pub. L. 110–246, §4(a), title XV, §15351(b), June 18, 2008, 122 Stat. 1664, 2287, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7721(d), Dec. 19, 1989, 103 Stat. 2400, provided that: “The amendments made by this section \[enacting sections 6662 to 6665 of this title, amending this section and sections 1274, 5684, 5761, 6013, 6222, 6601, 6621, 6653, 6672, and 7519 of this title, and repealing sections 6659, 6659A, 6660, 6661, and former section 6662 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1989.”
+Pub. L. 101–239, title VII, §7721(d), Dec. 19, 1989, 103 Stat. 2400, provided that: "The amendments made by this section \[enacting sections 6662 to 6665 of this title, amending this section and sections 1274, 5684, 5761, 6013, 6222, 6601, 6621, 6653, 6672, and 7519 of this title, and repealing sections 6659, 6659A, 6660, 6661, and former section 6662 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1989."
 
 #### Effective Date of 1988 Amendment
 
@@ -398,107 +398,107 @@ Amendment by section 1807(a)(1), (2) of Pub. L. 99–514 effective, except as ot
 
 Pub. L. 98–369, div. A, title I, §91(g)–(i), July 18, 1984, 98 Stat. 608, 609, as amended by Pub. L. 99–514, §2, title XVIII, §1807(a)(3)(B), (4)(F), (5), (6), Oct. 22, 1986, 100 Stat. 2095, 2811, 2813, 2814, provided that:
 
-“(g)
+"(g)
 
 Effective Dates.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Except as provided in this subsection and subsections (h) and (i), the amendments made by this section \[enacting sections 88, 468, and 468A of this title and amending this section and section 172 of this title\] shall apply to amounts with respect to which a deduction would be allowable under chapter 1 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (determined without regard to such amendments) after—
 
-&emsp;&emsp;“(A) in the case of amounts to which section 461(h) of such Code (as added by such amendments) applies, the date of the enactment of this Act \[July 18, 1984\], and
+&emsp;&emsp;"(A) in the case of amounts to which section 461(h) of such Code (as added by such amendments) applies, the date of the enactment of this Act \[July 18, 1984\], and
 
-&emsp;&emsp;“(B) in the case of amounts to which section 461(i) of such Code (as so added) applies, after March 31, 1984.
+&emsp;&emsp;"(B) in the case of amounts to which section 461(i) of such Code (as so added) applies, after March 31, 1984.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Taxpayer may elect earlier application.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—In the case of amounts described in paragraph (1)(A), a taxpayer may elect to have the amendments made by this section apply to amounts which—
 
-&emsp;&emsp;&emsp;“(i) are incurred on or before the date of the enactment of this Act \[July 18, 1984\] (determined without regard to such amendments), and
+&emsp;&emsp;&emsp;"(i) are incurred on or before the date of the enactment of this Act \[July 18, 1984\] (determined without regard to such amendments), and
 
-&emsp;&emsp;&emsp;“(ii) are incurred after the date of the enactment of this Act (determined with regard to such amendments).
+&emsp;&emsp;&emsp;"(ii) are incurred after the date of the enactment of this Act (determined with regard to such amendments).
 
 &nbsp;&nbsp;The Secretary of the Treasury or his delegate may by regulations provide that (in lieu of an election under the preceding sentence) a taxpayer may (subject to such conditions as such regulations may provide) elect to have subsection (h) of section 461 of such Code apply to the taxpayer's entire taxable year in which occurs July 19, 1984.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Election treated as change in the method of accounting.—For purposes of section 481 of the Internal Revenue Code of 1986, if an election is made under subparagraph (A) with respect to any amount, the application of the amendments made by this section shall be treated as a change in method of accounting—
 
-&emsp;&emsp;&emsp;“(i) initiated by the taxpayer,
+&emsp;&emsp;&emsp;"(i) initiated by the taxpayer,
 
-&emsp;&emsp;&emsp;“(ii) made with the consent of the Secretary of the Treasury, and
+&emsp;&emsp;&emsp;"(ii) made with the consent of the Secretary of the Treasury, and
 
-&emsp;&emsp;&emsp;“(iii) with respect to which section 481 of such Code shall be applied by substituting a 3-year adjustment period for a 10-year adjustment period.
+&emsp;&emsp;&emsp;"(iii) with respect to which section 481 of such Code shall be applied by substituting a 3-year adjustment period for a 10-year adjustment period.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Section 461(h)
 
 to apply in certain cases.—Notwithstanding paragraph (1), section 461(h) of the Internal Revenue Code of 1986 (as added by this section) shall be treated as being in effect to the extent necessary to carry out any amendments made by this section which take effect before section 461(h).
 
-&emsp;“(4)
+&emsp;"(4)
 
 Effective date for treatment of mining and solid waste reclamation and closing costs.—Except as otherwise provided in subsection (h), the amendments made by subsection (b) \[enacting section 468 of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\] with respect to taxable years ending after such date.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Rules for nuclear decommissioning costs.—The amendments made by subsections (c) and (f) \[enacting sections 88 and 468A of this title\] shall take effect on the date of the enactment of this Act \[July 18, 1984\] with respect to taxable years ending after such date.
 
-&emsp;“(6)
+&emsp;"(6)
 
 Modification of net operating loss carryback period.—The amendments made by subsection (d) \[amending section 172 of this title\] shall apply to losses for taxable years beginning after December 31, 1983.
 
-“(h)
+"(h)
 
 Exception for Certain Existing Activities and Contracts.—If—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Existing accounting practices.—If, on March 1, 1984, any taxpayer was regularly computing his deduction for mining reclamation activities under a current cost method of accounting (as determined by the Secretary of the Treasury or his delegate), the liability for reclamation activities—
 
-&emsp;&emsp;“(A) for land disturbed before the date of the enactment of this Act \[July 18, 1984\], or
+&emsp;&emsp;"(A) for land disturbed before the date of the enactment of this Act \[July 18, 1984\], or
 
-&emsp;&emsp;“(B) to which paragraph (2) applies,
+&emsp;&emsp;"(B) to which paragraph (2) applies,
 
 > &emsp;shall be treated as having been incurred when the land was disturbed.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Fixed price supply contract.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—In the case of any fixed price supply contract entered into before March 1, 1984, the amendments made by subsection (b) \[enacting section 468 of this title\] shall not apply to any minerals extracted from such property which are sold pursuant to such contract.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 No extension or renegotiation.—Subparagraph (A) shall not apply—
 
-&emsp;&emsp;&emsp;“(i) to any extension of any contract beyond the period such contract was in effect on March 1, 1984, or
+&emsp;&emsp;&emsp;"(i) to any extension of any contract beyond the period such contract was in effect on March 1, 1984, or
 
-&emsp;&emsp;&emsp;“(ii) to any renegotiation of, or other change in, the terms and conditions of such contract in effect on March 1, 1984.
+&emsp;&emsp;&emsp;"(ii) to any renegotiation of, or other change in, the terms and conditions of such contract in effect on March 1, 1984.
 
-“(i)
+"(i)
 
 Transitional Rule for Accrued Vacation Pay.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—In the case of any taxpayer—
 
-&emsp;&emsp;“(A) with respect to whom a deduction was allowable (other than under section 463 of the Internal Revenue Code of 1986) for vested accrued vacation pay for the last taxable year ending before the date of the enactment of this Act \[July 18, 1984\], and
+&emsp;&emsp;"(A) with respect to whom a deduction was allowable (other than under section 463 of the Internal Revenue Code of 1986) for vested accrued vacation pay for the last taxable year ending before the date of the enactment of this Act \[July 18, 1984\], and
 
-&emsp;&emsp;“(B) who elects the application of section 463 of such Code for the first taxable year ending after the date of the enactment of this Act,
+&emsp;&emsp;"(B) who elects the application of section 463 of such Code for the first taxable year ending after the date of the enactment of this Act,
 
 > &emsp;then, for purposes of section 463(b) of such Code, the opening balance of the taxpayer with respect to any vested accrued vacation pay shall be determined under section 463(b)(1) of such Code.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Vested accrued vacation pay.—For purposes of this subsection, the term ‘vested accrued vacation pay’ means any amount allowable under section 162(a) of such Code with respect to vacation pay of employees of the taxpayer (determined without regard to section 463 of such Code).”
+Vested accrued vacation pay.—For purposes of this subsection, the term 'vested accrued vacation pay' means any amount allowable under section 162(a) of such Code with respect to vacation pay of employees of the taxpayer (determined without regard to section 463 of such Code)."
 
 #### Effective Date of 1976 Amendment
 
@@ -506,29 +506,29 @@ Amendment by section 1901(a)(69) of Pub. L. 94–455 effective for taxable years
 
 Pub. L. 94–455, title II, §208(b), Oct. 4, 1976, 90 Stat. 1542, provided that:
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall apply to amounts paid after December 31, 1975, in taxable years ending after such date.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Certain amounts paid before 1977.—The amendment made by subsection (a) \[amending this section\] shall not apply to amounts paid before January 1, 1977, pursuant to a binding contract or written loan commitment which existed on September 16, 1975 (and at all times thereafter), and which required prepayment of such amounts by the taxpayer.”
+Certain amounts paid before 1977.—The amendment made by subsection (a) \[amending this section\] shall not apply to amounts paid before January 1, 1977, pursuant to a binding contract or written loan commitment which existed on September 16, 1975 (and at all times thereafter), and which required prepayment of such amounts by the taxpayer."
 
 #### Effective Date of 1964 Amendment
 
-Pub. L. 88–272, title II, §223(b), Feb. 26, 1964, 78 Stat. 76, provided that: “Except as provided in subsections (c) and (d) \[set out below\]—
+Pub. L. 88–272, title II, §223(b), Feb. 26, 1964, 78 Stat. 76, provided that: "Except as provided in subsections (c) and (d) \[set out below\]—
 
-&emsp;“(1) the amendment made by subsection (a)(1) \[amending this section\] shall apply to taxable years beginning after December 31, 1953, and ending after August 16, 1954, and
+&emsp;"(1) the amendment made by subsection (a)(1) \[amending this section\] shall apply to taxable years beginning after December 31, 1953, and ending after August 16, 1954, and
 
-&emsp;“(2) the amendment made by subsection (a)(2) \[amending section 43 of the Internal Revenue Code of 1939\] shall apply to taxable years to which the Internal Revenue Code of 1939 applies.”
+&emsp;"(2) the amendment made by subsection (a)(2) \[amending section 43 of the Internal Revenue Code of 1939\] shall apply to taxable years to which the Internal Revenue Code of 1939 applies."
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–876, §3(b), Oct. 24, 1962, 76 Stat. 1199, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to taxable years ending after December 31, 1962.”
+Pub. L. 87–876, §3(b), Oct. 24, 1962, 76 Stat. 1199, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only with respect to taxable years ending after December 31, 1962."
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–781, §6(b), Sept. 14, 1960, 74 Stat. 1021, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1960.”
+Pub. L. 86–781, §6(b), Sept. 14, 1960, 74 Stat. 1021, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years ending after December 31, 1960."
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -536,53 +536,53 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Transitional Rule for Certain Amounts
 
-Pub. L. 99–514, title XVIII, §1807(a)(8), Oct. 22, 1986, 100 Stat. 2816, provided that: “For purposes of section 461(h) of the Internal Revenue Code of 1954 \[now 1986\], economic performance shall be treated as occurring on the date of a payment to an insurance company if—
+Pub. L. 99–514, title XVIII, §1807(a)(8), Oct. 22, 1986, 100 Stat. 2816, provided that: "For purposes of section 461(h) of the Internal Revenue Code of 1954 \[now 1986\], economic performance shall be treated as occurring on the date of a payment to an insurance company if—
 
-&emsp;“(A) such payment was made before November 23, 1985, for indemnification against a tort liability relating to personal injury or death caused by inhalation or ingestion of dust from asbestos-containing insulation products,
+&emsp;"(A) such payment was made before November 23, 1985, for indemnification against a tort liability relating to personal injury or death caused by inhalation or ingestion of dust from asbestos-containing insulation products,
 
-&emsp;“(B) such insurance company is unrelated to taxpayer,
+&emsp;"(B) such insurance company is unrelated to taxpayer,
 
-&emsp;“(C) such payment is not refundable, and
+&emsp;"(C) such payment is not refundable, and
 
-&emsp;“(D) the taxpayer is not engaged in the mining of asbestos nor is any member of any affiliated group which includes the taxpayer so engaged.”
+&emsp;"(D) the taxpayer is not engaged in the mining of asbestos nor is any member of any affiliated group which includes the taxpayer so engaged."
 
 #### Transition Rule
 
-Pub. L. 99–514, title XVIII, §1807(c), Oct. 22, 1986, 100 Stat. 2817, provided that: “A taxpayer shall be allowed to use the cash receipts and disbursements method of accounting for taxable years ending after January 1, 1982, if such taxpayer—
+Pub. L. 99–514, title XVIII, §1807(c), Oct. 22, 1986, 100 Stat. 2817, provided that: "A taxpayer shall be allowed to use the cash receipts and disbursements method of accounting for taxable years ending after January 1, 1982, if such taxpayer—
 
-&emsp;“(1) is a partnership which was founded in 1936,
+&emsp;"(1) is a partnership which was founded in 1936,
 
-&emsp;“(2) has over 1,000 professional employees,
+&emsp;"(2) has over 1,000 professional employees,
 
-&emsp;“(3) used a long-term contract method of accounting for a substantial part of its income from the performance of architectural and engineering services, and
+&emsp;"(3) used a long-term contract method of accounting for a substantial part of its income from the performance of architectural and engineering services, and
 
-&emsp;“(4) is headquartered in Chicago, Illinois.”
+&emsp;"(4) is headquartered in Chicago, Illinois."
 
 #### Election as to Transfers in Taxable Years Beginning Before Jan. 1, 1964
 
 Pub. L. 88–272, title II, §223(c), Feb. 26, 1964, 78 Stat. 76, provided that:
 
-“(1) The amendments made by subsection (a) \[amending this section and section 43 of the Internal Revenue Code of 1939\] shall not apply to any transfer of money or other property described in subsection (a) made in a taxable year beginning before January 1, 1964, if the taxpayer elects, in the manner provided by regulations prescribed by the Secretary of the Treasury or his delegate, to have this paragraph apply. Such an election—
+"(1) The amendments made by subsection (a) \[amending this section and section 43 of the Internal Revenue Code of 1939\] shall not apply to any transfer of money or other property described in subsection (a) made in a taxable year beginning before January 1, 1964, if the taxpayer elects, in the manner provided by regulations prescribed by the Secretary of the Treasury or his delegate, to have this paragraph apply. Such an election—
 
-&emsp;“(A) must be made within one year after the date of the enactment of this Act \[Feb. 26, 1964\],
+&emsp;"(A) must be made within one year after the date of the enactment of this Act \[Feb. 26, 1964\],
 
-&emsp;“(B) may not be revoked after the expiration of such one-year period, and
+&emsp;"(B) may not be revoked after the expiration of such one-year period, and
 
-&emsp;“(C) shall apply to all transfers described in the first sentence of this paragraph (other than transfers described in paragraph (2)).
+&emsp;"(C) shall apply to all transfers described in the first sentence of this paragraph (other than transfers described in paragraph (2)).
 
 > In the case of any transfer to which this paragraph applies, the deduction shall be allowed only for the taxable year in which the contest with respect to such transfer is settled.
 
-“(2) Paragraph (1) shall not apply to any transfer if the assessment of any deficiency which would result from the application of the election in respect of such transfer is, on the date of the election under paragraph (1), prevented by the operation of any law or rule of law.
+"(2) Paragraph (1) shall not apply to any transfer if the assessment of any deficiency which would result from the application of the election in respect of such transfer is, on the date of the election under paragraph (1), prevented by the operation of any law or rule of law.
 
-“(3) If the taxpayer makes an election under paragraph (1), and if, on the date of such election, the assessment of any deficiency which results from the application of the election in respect of any transfer is not prevented by the operation of any law or rule of law, the period within which assessment of such deficiency may be made shall not expire earlier than 2 years after the date of the enactment of this Act \[Feb. 26, 1964\].”
+"(3) If the taxpayer makes an election under paragraph (1), and if, on the date of such election, the assessment of any deficiency which results from the application of the election in respect of any transfer is not prevented by the operation of any law or rule of law, the period within which assessment of such deficiency may be made shall not expire earlier than 2 years after the date of the enactment of this Act \[Feb. 26, 1964\]."
 
 #### Certain Other Transfers in Taxable Years Beginning Before Jan. 1, 1964
 
-Pub. L. 88–272, title II, §223(d), Feb. 26, 1964, 78 Stat. 77, provided that: “The amendments made by subsection (a) \[amending this section and section 43 of the Internal Revenue Code of 1939\] shall not apply to any transfer of money or other property described in subsection (a) made in a taxable year beginning before January 1, 1964, if—
+Pub. L. 88–272, title II, §223(d), Feb. 26, 1964, 78 Stat. 77, provided that: "The amendments made by subsection (a) \[amending this section and section 43 of the Internal Revenue Code of 1939\] shall not apply to any transfer of money or other property described in subsection (a) made in a taxable year beginning before January 1, 1964, if—
 
-&emsp;“(1) no deduction has been allowed in respect of such transfer for any taxable year before the taxable year in which the contest with respect to such transfer is settled, and
+&emsp;"(1) no deduction has been allowed in respect of such transfer for any taxable year before the taxable year in which the contest with respect to such transfer is settled, and
 
-&emsp;“(2) refund or credit of any overpayment which would result from the application of such amendments to such transfer is prevented by the operation of any law or rule of law.
+&emsp;"(2) refund or credit of any overpayment which would result from the application of such amendments to such transfer is prevented by the operation of any law or rule of law.
 
-> In the case of any transfer to which this subsection applies, the deduction shall be allowed for the taxable year in which the contest with respect to such transfer is settled.”
+> In the case of any transfer to which this subsection applies, the deduction shall be allowed for the taxable year in which the contest with respect to such transfer is settled."
 

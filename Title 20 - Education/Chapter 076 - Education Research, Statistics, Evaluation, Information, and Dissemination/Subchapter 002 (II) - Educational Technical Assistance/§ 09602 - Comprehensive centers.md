@@ -32,7 +32,7 @@
 
 #### (1) Submission
 
-&emsp;Each local entity, or consortium of such entities, seeking a grant under this section shall submit an application at such time, in such manner, and containing such additional information as the Secretary may reasonably require.
+&emsp;Each local entity, or consortium of such entities, seeking a grant under this section shallsubmit an application at such time, in such manner, and containing such additional information as the Secretary may reasonably require.
 
 #### (2) Plan
 
@@ -104,7 +104,7 @@ Each comprehensive center established under this section shall work with State e
 
 &emsp;&emsp;Each advisory board shall be composed of—
 
-&emsp;&emsp;&emsp;(i) the chief State school officers, or such officers’ designees or other State officials, in each State served by the comprehensive center who have primary responsibility under State law for elementary and secondary education in the State; and
+&emsp;&emsp;&emsp;(i) the chief State school officers, or such officers' designees or other State officials, in each State served by the comprehensive center who have primary responsibilityunder State law for elementary and secondary education in the State; and
 
 &emsp;&emsp;&emsp;(ii) not more than 15 other members who are representative of the educational interests in the region served by the comprehensive center and are selected jointly by the officials specified in clause (i) and the chief executive officer of each State served by the comprehensive center, including the following:
 
@@ -140,7 +140,7 @@ The Educational Research, Development, Dissemination, and Improvement Act of 199
 
 Title XIII of the Elementary and Secondary Education Act of 1965 (as such title existed on the day before January 8, 2002), referred to in subsec. (b)(1), means title XIII of Pub. L. 89–10, as added by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3876, which was classified generally to subchapter XIII (§8601 et seq.) of chapter 70 of this title, prior to amendment by Pub. L. 107–110. Parts A to D of title XIII of Pub. L. 89–10, were classified to parts A (§8621 et seq.), B (§8651 et seq.), C (§8671 et seq.), and D (§8701 et seq.), respectively, of subchapter XIII of chapter 70 of this title, and were redesignated as parts K to N of title IX of Pub. L. 103–227, by Pub. L. 107–110, title X, §§1021(a), 1022(a), 1023(a), 1024(a), Jan. 8, 2002, 115 Stat. 1987, transferred to parts G (§6053 et seq.), H (§6054 et seq.), I (§6055 et seq.), and J (§6056 et seq.), respectively, of subchapter IX of chapter 68 of this title, and subsequently repealed by Pub. L. 107–279, title IV, §403(2), Nov. 5, 2002, 116 Stat. 1985.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsecs. (e)(1) and (f)(1)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of thistitle. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsecs. (e)(1) and (f)(1)(A)(i), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§6301 et seq.) of chapter 70 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 #### Termination of Advisory Boards
 

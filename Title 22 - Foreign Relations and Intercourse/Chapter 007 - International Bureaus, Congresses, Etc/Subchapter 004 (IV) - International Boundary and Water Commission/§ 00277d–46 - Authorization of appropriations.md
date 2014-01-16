@@ -6,5 +6,5 @@ There is authorized to be appropriated such sums as may be necessary to carry ou
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–425 substituted “such sums as may be necessary” for “a total of $156,000,000 for fiscal years 2001 through 2005”.
+<b>2004</b>—Pub. L. 108–425 substituted "such sums as may be necessary" for "a total of $156,000,000 for fiscal years 2001 through 2005".
 

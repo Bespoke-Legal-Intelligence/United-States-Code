@@ -22,7 +22,7 @@
 
 > The determination of years of service may be made on the basis of an affidavit of the employee. Leave provided by this subchapter accrues to an employee who is not paid on the basis of biweekly pay periods on the same basis as it would accrue if the employee were paid on the basis of biweekly pay periods.
 
-(b) Notwithstanding subsection (a) of this section, an employee whose current employment is limited to less than 90 days is entitled to annual leave under this subchapter only after being currently employed for a continuous period of 90 days under successive appointments without a break in service. After completing the 90-day period, the employee is entitled to be credited with the leave that would have accrued to him under subsection (a) of this section except for this subsection.
+(b) Notwithstanding subsection (a) of this section, an employee whose current employment is limited to less than 90 days is entitled to annual leave under this subchapter only after being currently employed for a continuous period of 90 days under successive appointments without abreak in service. After completing the 90-day period, the employee is entitled to be credited with the leave that would have accrued to him under subsection (a) of this section except for this subsection.
 
 (c) A change in the rate of accrual of annual leave by an employee under this section takes effect at the beginning of the pay period after the pay period, or corresponding period for an employee who is not paid on the basis of biweekly pay periods, in which the employee completed the prescribed period of service.
 
@@ -114,7 +114,7 @@ Subsec. (f). Pub. L. 108–411, §202(b), added subsec. (f).
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–411, title II, §202(c), Oct. 30, 2004, 118 Stat. 2312, provided that: “None of the amendments made by subsection (a) \[amending this section\] shall apply in the case of any employee holding a position pursuant to an appointment made before the effective date of the regulations implementing such amendments.”
+Pub. L. 108–411, title II, §202(c), Oct. 30, 2004, 118 Stat. 2312, provided that: “None of the amendments made bysubsection (a) \[amending this section\] shall apply in the case of any employee holding a position pursuant to an appointment made before the effective date of the regulations implementing such amendments.”
 
 #### Effective Date of 1992 Amendment
 
@@ -126,7 +126,7 @@ In General.—Except as otherwise provided in this section, this Act and the ame
 
 “(b)
 
-Exceptions.—(1) The amendment made by section 4(c) \[amending provisions set out as a note under section 31–2 of Title 2, The Congress\] shall be effective as of December 31, 1991.
+Exceptions.—(1) The amendment made by section 4(c) \[amending provisions set out as a note under section 4725 of Title 2, The Congress\] shall be effective as of December 31, 1991.
 
 “(2) The amendments made by section 5(d) \[amending section 8440d of this title\] shall be effective as of December 9, 1991.
 

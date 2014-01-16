@@ -4,15 +4,15 @@ In this chapter:
 
 #### (1) Farm
 
-&emsp;The term “farm” means a farm, as defined by the Bureau of the Census.
+&emsp;The term "farm" means a farm, as defined by the Bureau of the Census.
 
 #### (2) Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning given the term in section 450b of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 450b of title 25.
 
 #### (3) Rural area
 
-&emsp;Except as provided otherwise in this chapter, the term “rural area” means the farm and nonfarm population of—
+&emsp;Except as provided otherwise in this chapter, the term "rural area" means the farm and nonfarm population of—
 
 &emsp;&emsp;(A) any area described in section 1991(a)(13)(C) of this title; and
 
@@ -20,11 +20,11 @@ In this chapter:
 
 #### (4) Territory
 
-&emsp;The term “territory” includes any insular possession of the United States.
+&emsp;The term "territory" includes any insular possession of the United States.
 
 #### (5) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture.
+&emsp;The term "Secretary" means the Secretary of Agriculture.
 
 (May 20, 1936, ch. 432, title I, §13, 49 Stat. 1367; Oct. 28, 1949, ch. 776, §2, 63 Stat. 948; Pub. L. 103–129, §2(c)(3), Nov. 1, 1993, 107 Stat. 1363; Pub. L. 103–354, title II, §235(a)(6), Oct. 13, 1994, 108 Stat. 3221; Pub. L. 110–234, title VI, §6104, May 22, 2008, 122 Stat. 1195; Pub. L. 110–246, §4(a), title VI, §6104, June 18, 2008, 122 Stat. 1664, 1957.)
 
@@ -38,13 +38,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §6104, amended section generally. Prior to amendment, text read as follows: “As used in this chapter the term ‘rural area’, except as provided in section 924(b) of this title, shall be deemed to mean any area of the United States not included within the boundaries of any urban area, as defined by the Bureau of the Census, and such term shall be deemed to include both the farm and nonfarm population thereof; the term ‘farm’ shall be deemed to mean a farm as defined in the publications of the Bureau of the Census; the term ‘person’ shall be deemed to mean any natural person, firm, corporation, or association; the term ‘Territory’ shall be deemed to include any insular possession of the United States; and the term ‘Secretary’ shall be deemed to mean the Secretary of Agriculture.”
+<b>2008</b>—Pub. L. 110–246, §6104, amended section generally. Prior to amendment, text read as follows: "As used in this chapter the term 'rural area', except as provided in section 924(b) of this title, shall be deemed to mean any area of the United States not included within the boundaries of any urban area, as defined bythe Bureau of the Census, and such term shall be deemed to include both the farm and nonfarm population thereof; the term 'farm' shall be deemed to mean a farm as defined in the publications of the Bureau of the Census; the term 'person' shall be deemed to mean any natural person, firm, corporation, or association; the term 'Territory' shall be deemed to include any insular possession of the United States; and the term 'Secretary' shall be deemed to mean the Secretary of Agriculture."
 
-<b>1994</b>—Pub. L. 103–354 inserted before period at end “; and the term ‘Secretary’ shall be deemed to mean the Secretary of Agriculture”.
+<b>1994</b>—Pub. L. 103–354 inserted before period at end "; and the term 'Secretary' shall be deemed to mean the Secretary of Agriculture".
 
-<b>1993</b>—Pub. L. 103–129 inserted “, except as provided in section 924(b) of this title,” before “shall be deemed to mean” and substituted “urban area, as defined by the Bureau of the Census” for “city, village, or borough having a population in excess of fifteen hundred inhabitants,”.
+<b>1993</b>—Pub. L. 103–129 inserted ", except as provided in section 924(b) of this title," before "shall be deemed to mean" and substituted "urban area, as defined by the Bureau of the Census" for "city, village, or borough having a population in excess of fifteen hundred inhabitants,".
 
-<b>1949</b>—Act Oct. 28, 1949, inserted “title I,” in credit of act May 20, 1936.
+<b>1949</b>—Act Oct. 28, 1949, inserted "title I," in credit of act May 20, 1936.
 
 #### Effective Date of 2008 Amendment
 

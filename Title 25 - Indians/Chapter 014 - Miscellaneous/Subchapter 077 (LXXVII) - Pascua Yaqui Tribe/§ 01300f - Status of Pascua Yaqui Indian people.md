@@ -28,7 +28,7 @@ Section is comprised of section 1 of Pub. L. 95–375. Subsec. (d) of section 1 
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–357 inserted after first sentence “The Pascua Yaqui Tribe, a historic Indian tribe, is acknowledged as a federally recognized Indian tribe possessing all the attributes of inherent sovereignty which have not been specifically taken away by Acts of Congress and which are not inconsistent with such tribal status.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–357 inserted after first sentence "The Pascua Yaqui Tribe, a historic Indian tribe, is acknowledged as a federally recognized Indian tribe possessing all the attributes of inherent sovereignty which have not been specifically taken away by Acts of Congress and which are not inconsistent with such tribal status."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “984”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "984".</i>
 

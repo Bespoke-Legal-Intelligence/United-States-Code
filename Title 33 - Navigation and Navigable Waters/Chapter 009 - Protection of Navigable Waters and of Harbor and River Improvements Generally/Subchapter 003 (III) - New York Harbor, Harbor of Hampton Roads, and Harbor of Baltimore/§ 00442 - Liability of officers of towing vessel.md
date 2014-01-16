@@ -6,7 +6,7 @@ Any and every master and engineer, or person or persons acting in such capacity,
 
 #### Amendments
 
-<b>1958</b>—Pub. L. 85–802 substituted “any harbor subject to this subchapter” for “the harbor of New York, or in its adjacent or tributary waters, or in those of Long Island Sound”, and struck out “hereinafter mentioned” after “supervisor of the harbor”.
+<b>1958</b>—Pub. L. 85–802 substituted "any harbor subject to this subchapter" for "the harbor of New York, or in its adjacent or tributary waters, or in those of Long Island Sound", and struck out "hereinafter mentioned" after "supervisor of the harbor".
 
 #### Effective Date of 1958 Amendment
 

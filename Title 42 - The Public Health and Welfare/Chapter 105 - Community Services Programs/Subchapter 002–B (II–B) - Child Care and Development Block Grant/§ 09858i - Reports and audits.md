@@ -56,7 +56,7 @@
 
 #### (i) Authority
 
-&emsp;&emsp;&emsp;A State may comply with the requirement to collect the information describedin subparagraph (B) through the use of disaggregated case record information on a sample of families selected through the use of scientifically acceptable sampling methods approved by the Secretary.
+&emsp;&emsp;&emsp;A State may comply with the requirement to collect the information described in subparagraph (B) through the use of disaggregated case record information on a sample of families selected through the use of scientifically acceptable sampling methods approved by the Secretary.
 
 #### (ii) Sampling and other methods
 
@@ -94,7 +94,7 @@
 
 #### (4) Repayment of amounts
 
-&emsp;Each State shall repay to the United States any amounts determined through an audit under this subsection not to have been expended in accordance with this subchapter, or the Secretary may offset such amounts against any other amount to which the State is or may be entitled under this subchapter.
+&emsp;Each State shall repay to the United States any amounts determined through an auditunder this subsection not to have been expended in accordance with this subchapter, or the Secretary may offset such amounts against any other amount to which the State is or may be entitled under this subchapter.
 
 (Pub. L. 97–35, title VI, §658K, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–243; amended Pub. L. 102–401, §3(a), Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c)(1), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 104–193, title VI, §611, Aug. 22, 1996, 110 Stat. 2284; Pub. L. 105–33, title V, §5602(2), Aug. 5, 1997, 111 Stat. 646; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(FF), May 22, 2008, 122 Stat. 1096, 1098; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(FF), June 18, 2008, 122 Stat. 1664, 1857, 1859.)
 
@@ -110,29 +110,29 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1)(B)(v)(IV). Pub. L. 110–246, §4002(b)(1)(B), (2)(FF), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+<b>2008</b>—Subsec. (a)(1)(B)(v)(IV). Pub. L. 110–246, §4002(b)(1)(B), (2)(FF), substituted "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
-<b>1997</b>—Subsec. (a)(1)(B)(iv). Pub. L. 105–33, §5602(2)(A)(i)(I), added cl. (iv) and struck out former cl. (iv) which read as follows: “whether the family includes only one parent;”.
+<b>1997</b>—Subsec. (a)(1)(B)(iv). Pub. L. 105–33, §5602(2)(A)(i)(I), added cl. (iv) and struck out former cl. (iv) which read as follows: "whether the family includes only one parent;".
 
-Subsec. (a)(1)(B)(v). Pub. L. 105–33, §5602(2)(A)(i)(II)(aa), substituted “including—” for “including the amount obtained from (and separately identified)—” in introductory provisions.
+Subsec. (a)(1)(B)(v). Pub. L. 105–33, §5602(2)(A)(i)(II)(aa), substituted "including—" for "including the amount obtained from (and separately identified)—" in introductory provisions.
 
-Subsec. (a)(1)(B)(v)(II). Pub. L. 105–33, §5602(2)(A)(i)(II)(bb), added subcl. (II) and struck out former subcl. (II) which read as follows: “cash or other assistance under part A of title IV of the Social Security Act;”.
+Subsec. (a)(1)(B)(v)(II). Pub. L. 105–33, §5602(2)(A)(i)(II)(bb), added subcl. (II) and struck out former subcl. (II) which read as follows: "cash or other assistance under part A of title IV of the Social Security Act;".
 
-Subsec. (a)(1)(B)(x). Pub. L. 105–33, §5602(2)(A)(i)(III), substituted “month” for “week”.
+Subsec. (a)(1)(B)(x). Pub. L. 105–33, §5602(2)(A)(i)(III), substituted "month" for "week".
 
-Subsec. (a)(1)(D). Pub. L. 105–33, §5602(2)(A)(ii), added subpar. (D) and struck out heading and text of former subpar. (D). Text read as follows: “The Secretary may disapprove the information collected by a State under this paragraph if the State uses sampling methods to collect such information.”
+Subsec. (a)(1)(D). Pub. L. 105–33, §5602(2)(A)(ii), added subpar. (D) and struck out heading and text of former subpar. (D). Text read as follows: "The Secretary may disapprove the information collected by a State under this paragraph if the State uses sampling methods to collect such information."
 
-Subsec. (a)(2). Pub. L. 105–33, §5602(2)(B), substituted “Annual” for “Biannual” in heading and “12” for “6” in introductory provisions of text.
+Subsec. (a)(2). Pub. L. 105–33, §5602(2)(B), substituted "Annual" for "Biannual" in heading and "12" for "6" in introductory provisions of text.
 
-<b>1996</b>—Pub. L. 104–193, §611(1), substituted “Reports” for “Annual report” in section catchline.
+<b>1996</b>—Pub. L. 104–193, §611(1), substituted "Reports" for "Annual report" in section catchline.
 
 Subsec. (a). Pub. L. 104–193, §611(2), amended heading and text of subsec. (a) generally. Prior to amendment, text related to requirement of reports by Dec. 31, 1992, and annually thereafter, which include specification of expenditures under section 9858c(c)(3) of this title, data on fulfillment of child care needs, description of improvements in affordability and availability, description of review of State licensing and regulatory requirements and policies and results of review, explanation of any reductions in child care standards, and description of standards and health and safety requirements applicable to providers.
 
-Subsec. (b)(1). Pub. L. 104–193, §611(2)\[(3)\](A), substituted “an application approved” for “a application approved”.
+Subsec. (b)(1). Pub. L. 104–193, §611(2)\[(3)\](A), substituted "an application approved" for "a application approved".
 
-Subsec. (b)(2). Pub. L. 104–193, §611(2)\[(3)\](B), substituted “the State that receives” for “any agency administering activities that receive”.
+Subsec. (b)(2). Pub. L. 104–193, §611(2)\[(3)\](B), substituted "the State that receives" for "any agency administering activities that receive".
 
-Subsec. (b)(4). Pub. L. 104–193, §611(2)\[(3)\](C), substituted “entitled under this subchapter” for “entitles under this subchapter”.
+Subsec. (b)(4). Pub. L. 104–193, §611(2)\[(3)\](C), substituted "entitled under this subchapter" for "entitles under this subchapter".
 
 <b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 

@@ -30,7 +30,7 @@ Each inspection of a plant, plant site, or other facility or location in the Uni
 
 #### (B) Special rule for challenge inspections
 
-&emsp;&emsp;In the case of a challenge inspection pursuant to Article IX of the Convention, thenotice shall also include all appropriate evidence or reasons provided by the requesting state party to the Convention for seeking the inspection.
+&emsp;&emsp;In the case of a challenge inspection pursuant to Article IX of the Convention, the notice shall also include all appropriate evidence or reasons provided by the requesting state party to the Convention for seeking the inspection.
 
 #### (4) Separate notices required
 
@@ -88,9 +88,9 @@ The appropriate representatives of the United States, as designated, if present,
 
 #### References in Text
 
-This chapter, referred to in subsec. (f)(1), was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
+This chapter, referred to in subsec. (f)(1), was in the original "this Act" and was translated as reading "this division", meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
 #### Amendments
 
-<b>2001</b>—Subsec. (c). Pub. L. 107–107 substituted “Federal Government (and, in the case of an inspection of a United States Government facility, any accompanying contractor personnel)” for “Federal government”.
+<b>2001</b>—Subsec. (c). Pub. L. 107–107 substituted "Federal Government (and, in the case of an inspection of a United States Government facility, any accompanying contractor personnel)" for "Federal government".
 

@@ -10,7 +10,7 @@ Provisions similar to those in this section were contained in section 853i(a) of
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end.
+<b>2012</b>—Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate" before period at end.
 
 #### Effective Date of 2012 Amendment
 

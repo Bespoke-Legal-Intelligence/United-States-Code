@@ -18,5 +18,5 @@ This section shall apply only during a period beginning on the date of the comme
 
 (Pub. L. 99–198, title XVI, §1628, Dec. 23, 1985, 99 Stat. 1621.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section 4811(b)(2)(A) or 4812(b)(1)(B)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section 4811(b)(2)(A) or 4812(b)(1)(B)".</i>
 

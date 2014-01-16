@@ -1,6 +1,6 @@
 ### §1148. Regional agricultural credit corporations; creation; capital; management; loans; rediscounts; supervision
 
-The Farm Credit Administration is authorized to create in any of the twelve farm credit districts where it may deem the same to be desirable a regional agricultural credit corporation with a paid-up capital of not less than $3,000,000, to be subscribed for by the Farm Credit Administration and paid for out of the unexpended balance of the amounts allocated and made available to the Secretary of Agriculture under section 2 of the Reconstruction Finance Corporation Act. Such corporations shall be managed by officers and agents to be appointed by the Farm Credit Administration under such rules and regulations as it may prescribe. Such corporations are authorized and empowered to make loans or advances to farmers and stockmen, the proceeds of which are to be used for an agricultural purpose (including crop production), or for the raising, breeding, fattening, or marketing of livestock, to charge such rates of interest or discount thereon as in their judgment are fair and equitable, subject to the approval of the Farm Credit Administration, and to rediscount with the Farm Credit Administration and the various Federal reserve banks and Federal intermediate credit banks any paper that they acquire which is eligible for such purpose. All expenses incurred in connection with the operation of such corporations shall be supervised and paid by the Farm Credit Administration under such rulesand regulations as its board of directors may prescribe.
+The Farm Credit Administration is authorized to create in any of the twelve farm credit districts where it may deem the same to be desirable a regional agricultural credit corporation with a paid-up capital of not less than $3,000,000, to be subscribed for by the Farm Credit Administration and paid for out of the unexpended balance of the amounts allocated and made available to the Secretary of Agriculture under section 2 of the Reconstruction Finance Corporation Act. Such corporations shall be managed by officers and agents to be appointed by the Farm Credit Administration under such rules and regulations as it may prescribe. Such corporations are authorized and empowered to make loans or advances to farmers and stockmen, the proceeds of which are to be used for an agricultural purpose (including crop production), or for the raising, breeding, fattening, or marketing of livestock, to charge such rates of interest or discount thereon as in their judgment are fair and equitable, subject to the approval of the Farm Credit Administration, and to rediscount with the Farm Credit Administration and the various Federal reserve banks and Federal intermediate credit banks any paper that they acquire which is eligible for such purpose. All expenses incurred in connection with the operation of such corporations shall be supervised and paid by the Farm Credit Administration under such rules and regulations as its board of directors may prescribe.
 
 (July 21, 1932, ch. 520, §201(e), 47 Stat. 713; Aug. 19, 1937, ch. 704, §5(a), 50 Stat. 704; June 30, 1947, ch. 166, title II, §206, 61 Stat. 208.)
 
@@ -10,17 +10,17 @@ Section 2 of the Reconstruction Finance Corporation Act, referred to in text, re
 
 #### Amendments
 
-<b>1947</b>—Act June 30, 1947, substituted “Farm Credit Administration” for “Reconstruction Finance Corporation” wherever appearing.
+<b>1947</b>—Act June 30, 1947, substituted "Farm Credit Administration" for "Reconstruction Finance Corporation" wherever appearing.
 
 #### Change of Name
 
-Act Aug. 19, 1937, substituted “farm credit districts” for “Federal land-bank districts”.
+Act Aug. 19, 1937, substituted "farm credit districts" for "Federal land-bank districts".
 
 #### Transfer of Functions
 
 Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm Credit Administration, and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq. of this title.
 
-Ex. Ord. No. 6084 of Mar. 27, 1933, set out preceding section 2241 of this title, transferred to the jurisdiction and control of the Farm Credit Administration the functions defined in section 5(e) of the Order, as follows: “The functions of the Reconstruction Finance Corporation and its Board of Directors relating to the appointment of officers and agents to manage regional agricultural credit corporations formed under section 201(e) of the Emergency Relief and Construction Act of 1932 \[this section\]; relating to the establishment of rules and regulations for such management; and relating to the approval of loans and advances made by such corporations and of the terms and conditions thereof.”
+Ex. Ord. No. 6084 of Mar. 27, 1933, set out preceding section 2241 of this title, transferred to the jurisdiction and control of the Farm Credit Administration the functions defined in section 5(e) of the Order, as follows: "The functions of the Reconstruction Finance Corporation and its Board of Directors relating to the appointment of officers and agents to manage regional agricultural credit corporations formed under section 201(e) of the Emergency Relief and Construction Act of 1932 \[this section\]; relating to the establishment of rules and regulations for such management; and relating to the approval of loans and advances made by such corporations and of the terms and conditions thereof."
 
 #### Exceptions From Transfer of Functions
 

@@ -128,7 +128,7 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 #### (v) International financial assistance
 
-&emsp;&emsp;&emsp;The United States shall oppose any loan or financial or technical assistance byinternational financial institutions in accordance with section 262d of this title to a country described in subparagraph (A).
+&emsp;&emsp;&emsp;The United States shall oppose any loan or financial or technical assistance by international financial institutions in accordance with section 262d of this title to a country described in subparagraph (A).
 
 #### (vi) Termination of assistance under Foreign Assistance Act of 1961
 
@@ -162,7 +162,7 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 The Secretary of State shall deny a visa to, and the Attorney General shall exclude from the United States any alien who, after October 21, 1998—
 
-&emsp;(1) is, or previously served as, an officer or employee of the Organization and who has willfully published, divulged, disclosed, or made known in any manner or to any extent not authorized by the Convention any United States confidential business information coming to him in the course of his employment or official duties, or by reason of any examination or investigation of any return, report, or record made to or filed with the Organization, or any officer or employee thereof, such practice or disclosure having resulted in financial loses <sup>1</sup> or damages to a United States person and for which actions or omissions the United States has been found liable of a tort or taking pursuant to this chapter;
+&emsp;(1) is, or previously served as, an officer or employee of the Organization and who has willfully published, divulged, disclosed, or made known in any manner or to any extent not authorized by the Convention any UnitedStates confidential business information coming to him in the course of his employment or official duties, or by reason of any examination or investigation of any return, report, or record made to or filed with the Organization, or any officer or employee thereof, such practice or disclosure having resulted in financial loses <sup>1</sup> or damages to a United States person and for which actions or omissions the United States has been found liable of a tort or taking pursuant to this chapter;
 
 &emsp;(2) traffics in United States confidential business information, a proven claim to which is owned by a United States national;
 
@@ -170,9 +170,9 @@ The Secretary of State shall deny a visa to, and the Attorney General shall excl
 
 &emsp;(4) is a spouse, minor child, or agent of a person excludable under paragraph (1), (2), or (3).
 
-#### (g) “United States confidential business information” defined
+#### (g) "United States confidential business information" defined
 
-In this section, the term “United States confidential business information” means any trade secrets or commercial or financial information that is privileged and confidential—
+In this section, the term "United States confidential business information" means any trade secrets or commercial or financial information that is privileged and confidential—
 
 &emsp;(1) including—
 
@@ -198,7 +198,7 @@ In this section, the term “United States confidential business information” 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act” and was translated as reading “this division”, meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act" and was translated as reading "this division", meaning div. I of Pub. L. 105–277, Oct. 21, 1998, 112 Stat. 2681–856, known as the Chemical Weapons Convention Implementation Act of 1998, to reflect the probable intent of Congress. For complete classification of division I to the Code, see Short Title note set out under section 6701 of this title and Tables.
 
 The Arms Export Control Act, referred to in subsec. (e)(2)(B)(i), (3)(B)(i), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
@@ -208,5 +208,5 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e)(3)(B)(vi), is Pub
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “losses”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "losses".</i>
 

@@ -58,9 +58,9 @@ Aug. 6, 1956, ch. 974, §10, as added Jan. 30, 1968, Pub. L. 90–251, §4, 82 S
 
 &nbsp;
 
-In subsection (a), the words “restrictions, terms, and” are omitted as unnecessary. The word “prescribes” is substituted for “imposed” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the words "restrictions, terms, and" are omitted as unnecessary. The word "prescribes" is substituted for "imposed" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b), the words “With respect to public space”, “goods, wares”, “sidewalk, street, park, reservation, or other”, and “depending on the location of such stand or structure” are omitted as unnecessary.
+In subsection (b), the words "With respect to public space", "goods, wares", "sidewalk, street, park, reservation, or other", and "depending on the location of such stand or structure" are omitted as unnecessary.
 
-In subsection (d), the words “department, agency, or instrumentality” are substituted for “agency” for consistency in the revised title and with other titles of the United States Code. The words “or agencies” are omitted because of 1:1.
+In subsection (d), the words "department, agency, or instrumentality" are substituted for "agency" for consistency in the revised title and with other titles of the United States Code. The words "or agencies" are omitted because of 1:1.
 

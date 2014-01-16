@@ -2,7 +2,7 @@
 
 #### (a) Establishment; availability
 
-To carry out the flood insurance program authorized by this chapter, the Administrator shall establish in the Treasury of the United States a National Flood Insurance Fund (hereinafter referred to as the “fund”) which shall be an account separate from any other accounts or funds available to the Administrator and shall be available as described in subsection (f) of this section, without fiscal year limitation (except as otherwise provided in this section)—
+To carry out the flood insurance program authorized by this chapter, the Administrator shall establish in the Treasury of the United States a National Flood Insurance Fund (hereinafter referred to as the "fund") which shall be an account separate from any other accounts or funds available to the Administrator and shall be available as described in subsection (f) of this section, without fiscal year limitation (except as otherwise provided in this section)—
 
 &emsp;(1) for making such payments as may, from time to time, be required under section 4054 of this title;
 
@@ -22,7 +22,7 @@ To carry out the flood insurance program authorized by this chapter, the Adminis
 
 The fund shall be credited with—
 
-&emsp;(1) such funds borrowed in accordance with the authority provided in section 4016 of thistitle as may from time to time be deposited in the fund;
+&emsp;(1) such funds borrowed in accordance with the authority provided in section 4016 of this title as may from time to time be deposited in the fund;
 
 &emsp;(2) premiums, fees, or other charges which may be paid or collected in connection with the excess loss reinsurance coverage provided under section 4055 of this title;
 
@@ -66,35 +66,35 @@ The fund shall be available, with respect to any fiscal year beginning on or aft
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b)(6), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b)(6), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in two places.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" in two places.
 
-Subsec. (a)(6) to (9). Pub. L. 112–141, §100225(d), inserted “and” at end of par. (6), substituted period for semicolon at end of par. (7), and struck out pars. (8) and (9) which read as follows:
+Subsec. (a)(6) to (9). Pub. L. 112–141, §100225(d), inserted "and" at end of par. (6), substituted period for semicolon at end of par. (7), and struck out pars. (8) and (9) which read as follows:
 
-“(8) for financial assistance under section 4102a of this title to States and communities for taking actions under such section with respect to severe repetitive loss properties, but only to the extent provided in section 4102a(i) of this title; and
+"(8) for financial assistance under section 4102a of this title to States and communities for taking actions under such section with respect to severe repetitive loss properties, but only to the extent provided in section 4102a(i) of this title; and
 
-“(9) for funding, not to exceed $10,000,000 in any fiscal year, for mitigation actions under section 4030 of this title, except that, notwithstanding any other provision of this chapter, amounts made available pursuant to this paragraph shall not be subject to offsetting collections through premium rates for flood insurance coverage under this chapter.”
+"(9) for funding, not to exceed $10,000,000 in any fiscal year, for mitigation actions under section 4030 of this title, except that, notwithstanding any other provision of this chapter, amounts made available pursuant to this paragraph shall not be subject to offsetting collections through premium rates for flood insurance coverage under this chapter."
 
-Subsecs. (b)(5), (c), (d). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” wherever appearing.
+Subsecs. (b)(5), (c), (d). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" wherever appearing.
 
-<b>2004</b>—Subsec. (a)(7), (8). Pub. L. 108–264, §102(b), struck out “and” at end of par. (7), added par. (8), and struck out former par. (8) which read as follows: “for costs of preparing the report under section 577 of the Riegle Community Development and Regulatory Improvement Act of 1994, except that the fund shall be available for the purpose under this paragraph in an amount not to exceed an aggregate of $5,000,000 over the 2-year period beginning on September 23, 1994.”
+<b>2004</b>—Subsec. (a)(7), (8). Pub. L. 108–264, §102(b), struck out "and" at end of par. (7), added par. (8), and struck out former par. (8) which read as follows: "for costs of preparing the report under section 577 of the Riegle Community Development and Regulatory Improvement Act of 1994, except that the fund shall be available for the purpose under this paragraph in an amount not to exceed an aggregate of $5,000,000 over the 2-year period beginning on September 23, 1994."
 
 Subsec. (a)(9). Pub. L. 108–264, §104(b), added par. (9).
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–325, §§554(b)(1), 577(h)(1), in introductory provisions, substituted “shall” for “is authorized to” after “Director”, inserted “an account separate from any other accounts or funds available to the Director and shall be” after “which shall be”, and inserted “(except as otherwise provided in this section)” after “without fiscal year limitation”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–325, §§554(b)(1), 577(h)(1), in introductory provisions, substituted "shall" for "is authorized to" after "Director", inserted "an account separate from any other accounts or funds available to the Director and shall be" after "which shall be", and inserted "(except as otherwise provided in this section)" after "without fiscal year limitation".
 
 Subsec. (a)(6) to (8). Pub. L. 103–325, §§542, 554(b)(2), 577(h)(2), added pars. (6) to (8), respectively.
 
-<b>1990</b>—Subsec. (a)(4). Pub. L. 101–508 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “to pay such administrative expenses (or portion of such expenses) of carrying out the flood insurance program as he may deem necessary; and”.
+<b>1990</b>—Subsec. (a)(4). Pub. L. 101–508 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "to pay such administrative expenses (or portion of such expenses) of carrying out the flood insurance program as he may deem necessary; and".
 
-<b>1988</b>—Subsec. (e). Pub. L. 100–242 substituted “title 31, United States Code,” for “title 31, United States Code”, which for purposes of codification was translated as “title 31”, requiring no change in text.
+<b>1988</b>—Subsec. (e). Pub. L. 100–242 substituted "title 31, United States Code," for "title 31, United States Code", which for purposes of codification was translated as "title 31", requiring no change in text.
 
-<b>1984</b>—Subsec. (e). Pub. L. 98–479 substituted “sections 9103 and 9104 of title 31” for “law (sections 102, 103, and 104 of the Government Corporations Control Act (31 U.S.C. 847–849))”.
+<b>1984</b>—Subsec. (e). Pub. L. 98–479 substituted "sections 9103 and 9104 of title 31" for "law (sections 102, 103, and 104 of the Government Corporations Control Act (31 U.S.C. 847–849))".
 
-<b>1983</b>—Subsecs. (a), (b)(5), (c), (d). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Subsecs. (a), (b)(5), (c), (d). Pub. L. 98–181 substituted "Director" for "Secretary" wherever appearing.
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35, §341(c)(1), inserted reference to subsec. (f) of this section.
 

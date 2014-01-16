@@ -26,11 +26,11 @@ For purposes of this section:
 
 #### (1) State regulatory authority
 
-&emsp;The term “State regulatory authority” has the meaning given that term in section 796(21) of title 16.
+&emsp;The term "State regulatory authority" has the meaning given that term in section 796(21) of title 16.
 
 #### (2) Electric consumer and electric utility
 
-&emsp;The terms “electric consumer” and “electric utility” have the meanings given those terms in section 2602 of title 16.
+&emsp;The terms "electric consumer" and "electric utility" have the meanings given those terms in section 2602 of title 16.
 
 (Pub. L. 109–58, title XII, §1287, Aug. 8, 2005, 119 Stat. 981.)
 

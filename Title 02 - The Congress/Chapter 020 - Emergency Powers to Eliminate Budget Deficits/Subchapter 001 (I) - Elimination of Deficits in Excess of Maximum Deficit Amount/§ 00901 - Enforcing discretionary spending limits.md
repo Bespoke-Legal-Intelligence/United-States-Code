@@ -28,7 +28,7 @@
 
 #### (6) Within-session sequestration
 
-&emsp;If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach within a category for that year (after taking into account any prior sequestration of amounts within that category), 15 days laterthere shall be a sequestration to eliminate that breach within that category following the procedures set forth in paragraphs (2) through (4).
+&emsp;If an appropriation for a fiscal year in progress is enacted (after Congress adjourns to end the session for that budget year and before July 1 of that fiscal year) that causes a breach within a category for that year (after taking into account any prior sequestration of amounts within that category), 15 days later there shall be a sequestration to eliminate that breach within that category following the procedures set forth in paragraphs (2) through (4).
 
 #### (7) Estimates
 
@@ -46,7 +46,7 @@
 
 #### (D) Annual appropriations
 
-&emsp;&emsp;For purposes of this paragraph, amounts provided by annual appropriations shall include any discretionary appropriations for the current year, if any, and the budget year in accounts for which funding is provided in that legislation that result from previously enacted legislation.
+&emsp;&emsp;For purposes of this paragraph, amounts provided by annual appropriations shall include any discretionary appropriations for the current year, if any, and the budget yearin accounts for which funding is provided in that legislation that result from previously enacted legislation.
 
 #### (b) Adjustments to discretionary spending limits
 
@@ -144,41 +144,57 @@
 
 As used in this subchapter, the term “discretionary spending limit” means—
 
-&emsp;(1) with respect to fiscal year 2012—
+&emsp;(1) for fiscal year 2014—
 
-&emsp;&emsp;(A) for the security category, $684,000,000,000 in new budget authority; and
+&emsp;&emsp;(A) for the revised security category, $520,464,000,000 in new budget authority; and
 
-&emsp;&emsp;(B) for the nonsecurity category, $359,000,000,000 in new budget authority;
+&emsp;&emsp;(B) for the revised nonsecurity category, $491,773,000,000 in new budget authority;
 
-&emsp;(2) for fiscal year 2013—
+&emsp;(2) for fiscal year 2015—
 
-&emsp;&emsp;(A) for the security category, as defined in section 900(c)(4)(B) of this title, $684,000,000,000 in budget authority; and
+&emsp;&emsp;(A) for the revised security category, $521,272,000,000 in new budget authority; and
 
-&emsp;&emsp;(B) for the nonsecurity category, as defined in section 900(c)(4)(A) of this title, $359,000,000,000 in budget authority;
+&emsp;&emsp;(B) for the revised nonsecurity category, $492,356,000,000 in new budget authority;
 
-&emsp;(3) for fiscal year 2014—
+&emsp;(3) for fiscal year 2016—
 
-&emsp;&emsp;(A) for the security category, $552,000,000,000 in budget authority; and
+&emsp;&emsp;(A) for the revised security category, $577,000,000,000 in new budget authority; and
 
-&emsp;&emsp;(B) for the nonsecurity category, $506,000,000,000 in budget authority;
+&emsp;&emsp;(B) for the revised nonsecurity category, $530,000,000,000 in new budget authority;
 
-&emsp;(4) with respect to fiscal year 2015, for the discretionary category, $1,086,000,000,000 in new budget authority;
+&emsp;(4) for fiscal year 2017—
 
-&emsp;(5) with respect to fiscal year 2016, for the discretionary category, $1,107,000,000,000 in new budget authority;
+&emsp;&emsp;(A) for the revised security category, $590,000,000,000 in new budget authority; and
 
-&emsp;(6) with respect to fiscal year 2017, for the discretionary category, $1,131,000,000,000 in new budget authority;
+&emsp;&emsp;(B) for the revised nonsecurity category, $541,000,000,000 in new budget authority;
 
-&emsp;(7) with respect to fiscal year 2018, for the discretionary category, $1,156,000,000,000 in new budget authority;
+&emsp;(5) for fiscal year 2018—
 
-&emsp;(8) with respect to fiscal year 2019, for the discretionary category, $1,182,000,000,000 in new budget authority;
+&emsp;&emsp;(A) for the revised security category, $603,000,000,000 in new budget authority; and
 
-&emsp;(9) with respect to fiscal year 2020, for the discretionary category, $1,208,000,000,000 in new budget authority; and
+&emsp;&emsp;(B) for the revised nonsecurity category, $553,000,000,000 in new budget authority;
 
-&emsp;(10) with respect to fiscal year 2021, for the discretionary category, $1,234,000,000,000 in new budget authority;
+&emsp;(6) for fiscal year 2019—
+
+&emsp;&emsp;(A) for the revised security category, $616,000,000,000 in new budget authority; and
+
+&emsp;&emsp;(B) for the revised nonsecurity category, $566,000,000,000 in new budget authority;
+
+&emsp;(7) for fiscal year 2020—
+
+&emsp;&emsp;(A) for the revised security category, $630,000,000,000 in new budget authority; and
+
+&emsp;&emsp;(B) for the revised nonsecurity category, $578,000,000,000 in new budget authority; and
+
+&emsp;(8) for fiscal year 2021—
+
+&emsp;&emsp;(A) for the revised security category, $644,000,000,000 in new budget authority; and
+
+&emsp;&emsp;(B) for the revised nonsecurity category, $590,000,000,000 in new budget authority;
 
 > as adjusted in strict conformance with subsection (b).
 
-(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, §10(a), (b), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(a), (b), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §§8001(a), 8002, Aug. 10, 2005, 119 Stat. 1915, 1916; Pub. L. 112–25, title I, §101, Aug. 2, 2011, 125 Stat. 241; Pub. L. 112–240, title IX, §901(d)(1), Jan. 2, 2013, 126 Stat. 2370.)
+(Pub. L. 99–177, title II, §251, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 754; Pub. L. 100–203, title VIII, §8003(f), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), (e)(2), Nov. 5, 1990, 104 Stat. 1388–577, 1388–593; Pub. L. 103–66, title XIV, §14002(c)(1), Aug. 10, 1993, 107 Stat. 683; Pub. L. 103–87, title V, §571, Sept. 30, 1993, 107 Stat. 971; Pub. L. 103–306, title V, §562, Aug. 23, 1994, 108 Stat. 1649; Pub. L. 103–354, title I, §119(d)(1), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 104–121, title I, §103(b), Mar. 29, 1996, 110 Stat. 848; Pub. L. 104–193, title II, §211(d)(5)(B), Aug. 22, 1996, 110 Stat. 2191; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §577\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–169; Pub. L. 105–33, title X, §10203(a), (b), Aug. 5, 1997, 111 Stat. 698, 701; Pub. L. 105–89, title II, §201(b)(1), Nov. 19, 1997, 111 Stat. 2125; Pub. L. 105–178, title VIII, §8101(a), (d), June 9, 1998, 112 Stat. 488, 490; Pub. L. 106–291, title VIII, §801(a), (b), Oct. 11, 2000, 114 Stat. 1026, 1027; Pub. L. 106–429, §101(a) \[title VII, §701(a)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–64; Pub. L. 107–117, div. C, §101(a), Jan. 10, 2002, 115 Stat. 2341; Pub. L. 108–88, §10(a), (b), Sept. 30, 2003, 117 Stat. 1127; Pub. L. 108–310, §10(a), (b), Sept. 30, 2004, 118 Stat. 1160; Pub. L. 109–59, title VIII, §§8001(a), 8002, Aug. 10, 2005, 119 Stat. 1915, 1916; Pub. L. 112–25, title I, §101, Aug. 2, 2011, 125 Stat. 241; Pub. L. 112–240, title IX, §901(d)(1), Jan. 2, 2013, 126 Stat. 2370; Pub. L. 113–67, div. A, title I, §101(a), Dec. 26, 2013, 127 Stat. 1166.)
 
 #### References in Text
 
@@ -190,7 +206,9 @@ Pub. L. 101–508, §13101(e)(2), redesignated former subsec. (a)(6)(I) of this 
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c)(2), (3). Pub. L. 112–240 amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
+<b>2013</b>—Subsec. (c). Pub. L. 113–67 added pars. (1) to (8) and struck out former pars. (1) to (10) which defineddiscretionary spending limits for fiscal years 2012 to 2021.
+
+Subsec. (c)(2), (3). Pub. L. 112–240 amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
 
 “(2) with respect to fiscal year 2013—
 
@@ -322,7 +340,7 @@ Pub. L. 109–59, title VIII, §8003, Aug. 10, 2005, 119 Stat. 1917, as amended 
 
 “(a)
 
-Highway Category.—For the purposes of \[former\] section 251(b) of the Balanced Budget andEmergency Deficit Control Act of 1985 \[former 2 U.S.C. 901(b)\], the level of obligation limitations for the highway category is—
+Highway Category.—For the purposes of \[former\] section 251(b) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[former 2 U.S.C. 901(b)\], the level of obligation limitations for the highway category is—
 
 &emsp;“(1) for fiscal year 2005, $35,164,292,000;
 

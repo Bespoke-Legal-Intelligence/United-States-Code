@@ -14,7 +14,7 @@
 - [&sect; 09117 - Protection of the environment](%C2%A7%2009117%20-%20Protection%20of%20the%20environment.md)
 - [&sect; 09118 - Marine environmental protection and safety of life and property at sea](%C2%A7%2009118%20-%20Marine%20environmental%20protection%20and%20safety%20of%20life%20and%20property%20at%20sea.md)
 - [&sect; 09119 - Prevention of interference with other uses of high seas](%C2%A7%2009119%20-%20Prevention%20of%20interference%20with%20other%20uses%20of%20high%20seas.md)
-- [&sect; 09120 - Monitoring of licensees&#8217; activities](%C2%A7%2009120%20-%20Monitoring%20of%20licensees%E2%80%99%20activities.md)
+- [&sect; 09120 - Monitoring of licensees' activities](%C2%A7%2009120%20-%20Monitoring%20of%20licensees%27%20activities.md)
 - [&sect; 09121 - Suspension, revocation, and termination of licenses](%C2%A7%2009121%20-%20Suspension%2C%20revocation%2C%20and%20termination%20of%20licenses.md)
 - [&sect; 09122 - Recordkeeping and public access to information](%C2%A7%2009122%20-%20Recordkeeping%20and%20public%20access%20to%20information.md)
 - [&sect; 09123 - Relinquishment or surrender of license](%C2%A7%2009123%20-%20Relinquishment%20or%20surrender%20of%20license.md)

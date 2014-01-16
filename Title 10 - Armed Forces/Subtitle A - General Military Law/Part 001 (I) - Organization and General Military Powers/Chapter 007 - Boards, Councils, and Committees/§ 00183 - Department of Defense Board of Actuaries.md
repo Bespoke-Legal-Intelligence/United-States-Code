@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—There shall be in the Department of Defense a Department of Defense Board of Actuaries (hereinafter in this section referred to as the “Board”).
+In General.—There shall be in the Department of Defense a Department of Defense Board of Actuaries (hereinafter in this section referred to as the "Board").
 
 (b)
 
@@ -48,5 +48,5 @@ A prior section 183, added Pub. L. 105–85, div. A, title IX, §904(a), Nov. 18
 
 #### Initial Service as Board Members
 
-Pub. L. 110–181, div. A, title IX, §906(a)(3), Jan. 28, 2008, 122 Stat. 277, provided that: “Each member of the Department of Defense Retirement Board of Actuaries or the Department of Defense Education Benefits Board of Actuaries as of the date of the enactment of this Act \[Jan. 28, 2008\] shall serve as an initial member of the Department of Defense Board of Actuaries under section 183 of title 10, United States Code (as added by paragraph (1)), from that date until the date otherwise provided for the completion of such individual's term as a member of the Department of Defense Retirement Board of Actuaries or the Department of Defense Education Benefits Board of Actuaries, as the case may be, unless earlier removed by the Secretary of Defense.”
+Pub. L. 110–181, div. A, title IX, §906(a)(3), Jan. 28, 2008, 122 Stat. 277, provided that: "Each member of the Department of Defense Retirement Board of Actuaries or the Department of Defense Education Benefits Board of Actuaries as of the date of the enactment of this Act \[Jan. 28, 2008\] shall serve as an initial member of the Department of Defense Board of Actuaries under section 183 of title 10, United States Code (as added by paragraph (1)), from that date until the date otherwise provided for the completion of such individual's term as a member of the Department of Defense Retirement Board of Actuaries or the Department of Defense Education Benefits Board of Actuaries, as the case may be, unless earlier removed by the Secretary of Defense."
 

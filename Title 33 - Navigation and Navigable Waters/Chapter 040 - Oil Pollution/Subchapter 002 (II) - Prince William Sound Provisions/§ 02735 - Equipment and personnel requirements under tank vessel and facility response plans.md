@@ -18,9 +18,9 @@ In addition to the requirements for response plans for vessels established by se
 
 In this section—
 
-&emsp;(1) the term “Prince William Sound” means all State and Federal waters within Prince William Sound, Alaska, including the approach to Hinchenbrook Entrance out to and encompassing Seal Rocks; and
+&emsp;(1) the term "Prince William Sound" means all State and Federal waters within Prince William Sound, Alaska, including the approach to Hinchenbrook Entrance out to and encompassing Seal Rocks; and
 
-&emsp;(2) the term “worst case discharge” means—
+&emsp;(2) the term "worst case discharge" means—
 
 &emsp;&emsp;(A) in the case of a vessel, a discharge in adverse weather conditions of its entire cargo; and
 
@@ -34,5 +34,5 @@ The Trans-Alaska Pipeline Authorization Act, referred to in subsec. (a), is titl
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–388 substituted “tanker loading cargo at” for “tank vessel operating on Prince William Sound, or” and directed the insertion of “and a response plan for such a facility,” after “(43 U.S.C. 1651 et seq.).”, which was executed by making the insertion after “(43 U.S.C. 1651 et seq.),” to reflect the probable intent of Congress.
+<b>1992</b>—Subsec. (a). Pub. L. 102–388 substituted "tanker loading cargo at" for "tank vessel operating on Prince William Sound, or" and directed the insertion of "and a response plan for such a facility," after "(43 U.S.C. 1651 et seq.).", which was executed by making the insertion after "(43 U.S.C. 1651 et seq.)," to reflect the probable intent of Congress.
 

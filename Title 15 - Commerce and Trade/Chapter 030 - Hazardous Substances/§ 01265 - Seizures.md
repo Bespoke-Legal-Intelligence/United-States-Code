@@ -28,7 +28,7 @@ In the case of removal for trial of any case as provided by subsection (b) of th
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–314 substituted “Commission” for “Secretary”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–314 substituted "Commission" for "Secretary".
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–756 substituted “Any misbranded hazardous substance or banned hazardous substance” for “Any hazardous substance that is in a misbranded package”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–756 substituted "Any misbranded hazardous substance or banned hazardous substance" for "Any hazardous substance that is in a misbranded package".
 

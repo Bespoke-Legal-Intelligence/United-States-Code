@@ -72,7 +72,7 @@ Intrastate Pipeline Facilities.—In the case of an intrastate pipeline facility
 
 (g)
 
-Covered Task Defined.—In this section, the term “covered task”—
+Covered Task Defined.—In this section, the term "covered task"—
 
 &emsp;(1) with respect to a gas pipeline facility, has the meaning such term has under section 192.801 of title 49, Code of Federal Regulations, including any subsequent modifications; and
 
@@ -92,27 +92,27 @@ The date of enactment of this section, referred to in subsecs. (b)(1), (c), (e)(
 
 Pub. L. 107–355, §13(b), Dec. 17, 2002, 116 Stat. 3001, provided that:
 
-“(1)
+"(1)
 
 In general.—Not later than 36 months after the date of enactment of this Act \[Dec. 17, 2002\], the Secretary of Transportation shall—
 
-&emsp;“(A) develop tests and other requirements for certifying the qualifications of individuals who operate computer-based systems for controlling the operations of pipelines; and
+&emsp;"(A) develop tests and other requirements for certifying the qualifications of individuals who operate computer-based systems for controlling the operations of pipelines; and
 
-&emsp;“(B) establish and carry out a pilot program for 3 pipeline facilities under which the individuals operating computer-based systems for controlling the operations of pipelines at such facilities are required to be certified under the process established under subparagraph (A).
+&emsp;"(B) establish and carry out a pilot program for 3 pipeline facilities under which the individuals operating computer-based systems for controlling the operations of pipelines at such facilities are required to be certified under the process established under subparagraph (A).
 
-“(2)
+"(2)
 
 Report.—The Secretary shall include in the report required under section 60131(h) \[of title 49\], as added by subsection (a) of this section, the results of the pilot program. The report shall include—
 
-&emsp;“(A) a description of the pilot program and implementation of the pilot program at each of the 3 pipeline facilities;
+&emsp;"(A) a description of the pilot program and implementation of the pilot program at each of the 3 pipeline facilities;
 
-&emsp;“(B) an evaluation of the pilot program, including the effectiveness of the process for certifying individuals who operate computer-based systems for controlling the operations of pipelines;
+&emsp;"(B) an evaluation of the pilot program, including the effectiveness of the process for certifying individuals who operate computer-based systems for controlling the operations of pipelines;
 
-&emsp;“(C) any recommendations of the Secretary for requiring the certification of all individuals who operate computer-based systems for controlling the operations of pipelines; and
+&emsp;"(C) any recommendations of the Secretary for requiring the certification of all individuals who operate computer-based systems for controlling the operations of pipelines; and
 
-&emsp;“(D) an assessment of the ramifications of requiring the certification of other individuals performing safety-sensitive functions for a pipeline facility.
+&emsp;"(D) an assessment of the ramifications of requiring the certification of other individuals performing safety-sensitive functions for a pipeline facility.
 
-“(3)
+"(3)
 
-Computer-based systems defined.—In this subsection, the term ‘computer-based systems’ means supervisory control and data acquisition systems.”
+Computer-based systems defined.—In this subsection, the term 'computer-based systems' means supervisory control and data acquisition systems."
 

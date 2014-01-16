@@ -24,13 +24,13 @@ Upon receipt of—
 
 &emsp;(2) a sworn affidavit from an individual and a determination by the Secretary that the statement contains sufficient factual allegations to create a reasonable belief that a violation of section 5201 of this title has occurred;
 
-> the Secretary may request the Attorney General of the United States to institute a civil actionfor the imposition and collection of the civil penalty under this section.
+> the Secretary may request the Attorney General of the United States to institute a civil action for the imposition and collection of the civil penalty under this section.
 
 #### (e) Use of penalty money collected
 
 After deduction of costs attributable to collection, money collected from penalties shall be—
 
-&emsp;(1) deposited into the trust fund established pursuant to the Act entitled “An Act to provide that the United States shall aid the States in wildlife-restoration projects, and for other purposes”, approved September 2, 1937 (16 U.S.C. 669) (commonly known as the “Pitman-Robertson Wildlife Restoration Act”), to support the activities authorized by such Act and undertaken by State wildlife management agencies; or
+&emsp;(1) deposited into the trust fund established pursuant to the Act entitled "An Act to provide that the United States shall aid the States in wildlife-restoration projects, and for other purposes", approved September 2, 1937 (16 U.S.C. 669) (commonly known as the "Pitman-Robertson Wildlife Restoration Act"), to support the activities authorized by such Act and undertaken by State wildlife management agencies; or
 
 &emsp;(2) used in such other manner as the Secretary determines will enhance the funding and implementation of—
 

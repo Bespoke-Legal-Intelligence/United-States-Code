@@ -64,17 +64,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §2207(1), inserted “including necessary maintenance activities,” after “values,”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §2207(1), inserted "including necessary maintenance activities," after "values,".
 
-Subsec. (c). Pub. L. 110–246, §2207(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “In determining the acceptability of easement offers, the Secretary may take into consideration—
+Subsec. (c). Pub. L. 110–246, §2207(2), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "In determining the acceptability of easement offers, the Secretary may take into consideration—
 
-&emsp;“(1) the extent to which the purposes of the easement program would be achieved on the land;
+&emsp;"(1) the extent to which the purposes of the easement program would be achieved on the land;
 
-&emsp;“(2) the productivity of the land; and
+&emsp;"(2) the productivity of the land; and
 
-&emsp;“(3) the on-farm and off-farm environmental threats if the land is used for the production of agricultural commodities.”
+&emsp;"(3) the on-farm and off-farm environmental threats if the land is used for the production of agricultural commodities."
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–127 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “In making cost share payments under subsection (a)(1) of this section, the Secretary shall pay the owner an amount that is not less than 50 percent but not more than 75 percent of eligible costs with respect to an easement which is not permanent, and not less than 75 percent but not more than 100 percent of eligible costs with respect to a permanent easement.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–127 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "In making cost share payments under subsection (a)(1) of this section, the Secretary shall pay the owner an amount that is not less than 50 percent but not more than 75 percent of eligible costs with respect to an easement which is not permanent, and not less than 75 percent but not more than 100 percent of eligible costs with respect to a permanent easement."
 
 #### Effective Date of 2008 Amendment
 

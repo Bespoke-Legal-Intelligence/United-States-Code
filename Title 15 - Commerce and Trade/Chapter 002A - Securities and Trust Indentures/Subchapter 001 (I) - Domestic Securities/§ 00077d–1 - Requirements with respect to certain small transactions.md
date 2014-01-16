@@ -34,11 +34,11 @@ A person acting as an intermediary in a transaction involving the offer or sale 
 
 &emsp;(7) ensure that all offering proceeds are only provided to the issuer when the aggregate capital raised from all investors is equal to or greater than a target offering amount, and allow all investors to cancel their commitments to invest, as the Commission shall, by rule, determine appropriate;
 
-&emsp;(8) make such efforts as the Commission determines appropriate, by rule, to ensure that no investor in a 12-month period has purchased securities offered pursuant to section 77d(6) <sup>1</sup> of this title that, in the aggregate, from all issuers, exceed the investment limits set forth in section 77d(6)(B) <sup>1</sup> of this title;
+&emsp;(8) make such efforts as the Commission determines appropriate, by rule, to ensure that no investor in a 12-month period has purchasedsecurities offered pursuant to section 77d(6) <sup>1</sup> of this title that, in the aggregate, from all issuers, exceed the investment limits set forth in section 77d(6)(B) <sup>1</sup> of this title;
 
 &emsp;(9) take such steps to protect the privacy of information collected from investors as the Commission shall, by rule, determine appropriate;
 
-&emsp;(10) not compensate promoters, finders, or lead generators for providing the broker orfunding portal with the personal identifying information of any potential investor;
+&emsp;(10) not compensate promoters, finders, or lead generators for providing the broker or funding portal with the personal identifying information of any potential investor;
 
 &emsp;(11) prohibit its directors, officers, or partners (or any person occupying a similar status or performing a similar function) from having any financial interest in an issuer using its services; and
 
@@ -102,7 +102,7 @@ For purposes of section 77d(6) <sup>1</sup> of this title, an issuer who offers
 
 #### (A) In general
 
-&emsp;&emsp;Subject to paragraph (2), a person who purchases a security in a transaction exempted by the provisions of section 77d(6) <sup>1</sup> of this title may bring an action against an issuer described in paragraph (2), either at law or in equity in any court of competent jurisdiction, to recover the consideration paid forsuch security with interest thereon, less the amount of any income received thereon, upon the tender of such security, or for damages if such person no longer owns the security.
+&emsp;&emsp;Subject to paragraph (2), a person who purchases a security in a transaction exempted by the provisions of section 77d(6) <sup>1</sup> of this title may bring an action against an issuer described in paragraph (2), either at law or in equity in any court of competent jurisdiction, to recover the consideration paid for such security with interest thereon, less the amount of any income received thereon, upon the tender of such security, or for damages if such person no longer owns the security.
 
 #### (B) Liability
 
@@ -118,7 +118,7 @@ For purposes of section 77d(6) <sup>1</sup> of this title, an issuer who offers
 
 #### (3) Definition
 
-&emsp;As used in this subsection, the term “issuer” includes any person who is a director or partner of the issuer, and the principal executive officer or officers, principal financial officer, and controller or principal accounting officer of the issuer (and any person occupying a similar status or performing a similar function) that offers or sells a security in a transaction exempted by the provisions of section 77d(6) <sup>1</sup> of this title, and any person who offers or sells the security in such offering.
+&emsp;As used in this subsection, the term "issuer" includes any person who is a director or partner of the issuer, and the principal executive officer or officers, principal financial officer, and controller or principal accounting officer of the issuer (and any person occupying a similar status or performing a similar function) that offers or sells a security in a transaction exempted by the provisions of section 77d(6) <sup>1</sup> of this title, and any person who offers or sells the security in such offering.
 
 #### (d) Information available to States
 

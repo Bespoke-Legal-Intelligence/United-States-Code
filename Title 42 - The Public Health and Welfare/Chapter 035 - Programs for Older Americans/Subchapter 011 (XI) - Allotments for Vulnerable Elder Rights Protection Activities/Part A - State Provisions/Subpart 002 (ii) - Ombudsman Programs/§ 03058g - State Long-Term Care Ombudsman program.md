@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(i) are made by, or on behalf of, residents; and
 
-&emsp;&emsp;&emsp;(ii) relate to action, inaction, or decisions, that may adversely affect the health, safety, welfare, or rights of the residents (including the welfare and rights of the residents with respect to the appointment and activities of guardians and representative payees), of—
+&emsp;&emsp;&emsp;(ii) relate to action, inaction, or decisions, that may adversely affect thehealth, safety, welfare, or rights of the residents (including the welfare and rights of the residents with respect to the appointment and activities of guardians and representative payees), of—
 
 &emsp;&emsp;&emsp;&emsp;(I) providers, or representatives of providers, of long-term care services;
 
@@ -226,7 +226,7 @@ The State agency shall ensure that—
 
 &emsp;&emsp;(ii) assist the Ombudsman and representatives of the Office in the performance of the official duties of the Ombudsman and representatives; and
 
-&emsp;(B) legal representation is provided to any representative of the Office against whom suitor other legal action is brought or threatened to be brought in connection with the performance of the official duties of the Ombudsman or such a representative; and
+&emsp;(B) legal representation is provided to any representative of the Office against whom suit or other legal action is brought or threatened to be brought in connection with the performance of the official duties of the Ombudsman or such a representative; and
 
 &emsp;(2) the Office pursues administrative, legal, and other appropriate remedies on behalf of residents.
 
@@ -310,7 +310,7 @@ The State shall—
 
 &emsp;(3) provide for appropriate sanctions with respect to the interference, retaliation, and reprisals.
 
-(Pub. L. 89–73, title VII, §712, as added Pub. L. 102–375, title VII, §702, Sept. 30, 1992, 106 Stat.1276; amended Pub. L. 103–171, §3(a)(9), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–402, title IV, §401(b)(9)(D), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–501, title VII, §704, title VIII, §801(e)(2), Nov. 13, 2000, 114 Stat. 2289, 2293.)
+(Pub. L. 89–73, title VII, §712, as added Pub. L. 102–375, title VII, §702, Sept. 30, 1992, 106 Stat. 1276; amended Pub. L. 103–171, §3(a)(9), Dec. 2, 1993, 107 Stat. 1990; Pub. L. 106–402, title IV, §401(b)(9)(D), Oct. 30, 2000, 114 Stat. 1739; Pub. L. 106–501, title VII, §704, title VIII, §801(e)(2), Nov. 13, 2000, 114 Stat. 2289, 2293.)
 
 #### References in Text
 
@@ -322,21 +322,21 @@ The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred t
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(1). Pub. L. 106–501, §801(e)(2), substituted “section 3058a of this title and made available to carry out this subpart” for “section 3058a(a) of this title” in introductory provisions.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–501, §801(e)(2), substituted "section 3058a of this title and made available to carry out this subpart" for "section 3058a(a) of this title" in introductory provisions.
 
-Subsec. (a)(5)(C)(ii). Pub. L. 106–501, §704(1), inserted “and not stand to gain financially through an action or potential action brought on behalf of individuals the Ombudsman serves” after “interest”.
+Subsec. (a)(5)(C)(ii). Pub. L. 106–501, §704(1), inserted "and not stand to gain financially through an action or potential action brought on behalf of individuals the Ombudsman serves" after "interest".
 
-Subsec. (h)(4). Pub. L. 106–501, §704(2)(A), substituted “strengthen and update” for “(A) not later than 1 year after September 30, 1992, establish” in introductory provisions, redesignated cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, redesignated subcls. (I) to (III) of former subpar. (A)(ii) as cls. (i) to (iii), respectively, of subpar. (B), redesignated cl. (iii) of former subpar. (A) as subpar. (C) and struck out “and” at end, and struck out former subpar. (B) which read as follows: “require implementation of the procedures not later than 21 months after September 30, 1992;”.
+Subsec. (h)(4). Pub. L. 106–501, §704(2)(A), substituted "strengthen and update" for "(A) not later than 1 year after September 30, 1992, establish" in introductory provisions, redesignated cls. (i) and (ii) of former subpar. (A) as subpars. (A) and (B), respectively, redesignated subcls. (I) to (III) of former subpar. (A)(ii) as cls. (i) to (iii), respectively, of subpar. (B), redesignated cl. (iii) of former subpar. (A) as subpar. (C) and struck out "and" at end, and struck out former subpar. (B) which read as follows: "require implementation of the procedures not later than 21 months after September 30, 1992;".
 
-Subsec. (h)(6)(A). Pub. L. 106–402 substituted “subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000” for “part A of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6001 et seq.)”.
+Subsec. (h)(6)(A). Pub. L. 106–402 substituted "subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000" for "part A of the Developmental Disabilities Assistance and Bill of Rights Act (42 U.S.C. 6001 et seq.)".
 
 Subsec. (h)(8), (9). Pub. L. 106–501, §704(2)(B)–(D), added par. (8) and redesignated former par. (8) as (9).
 
-<b>1993</b>—Subsecs. (a)(3)(I), (c)(2)(C), (h)(3)(B). Pub. L. 103–171, §3(a)(9)(B), substituted “Assistant Secretary” for “Commissioner”.
+<b>1993</b>—Subsecs. (a)(3)(I), (c)(2)(C), (h)(3)(B). Pub. L. 103–171, §3(a)(9)(B), substituted "Assistant Secretary" for "Commissioner".
 
-Subsec. (h)(4)(A). Pub. L. 103–171, §3(a)(9)(A), substituted “Director of the Office of Long-Term Care Ombudsman Programs” for “Associate Commissioner for Ombudsman Programs”.
+Subsec. (h)(4)(A). Pub. L. 103–171, §3(a)(9)(A), substituted "Director of the Office of Long-Term Care Ombudsman Programs" for "Associate Commissioner for Ombudsman Programs".
 
-Subsec. (j)(1). Pub. L. 103–171, §3(a)(9)(B), substituted “Assistant Secretary” for “Commissioner”.
+Subsec. (j)(1). Pub. L. 103–171, §3(a)(9)(B), substituted "Assistant Secretary" for "Commissioner".
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

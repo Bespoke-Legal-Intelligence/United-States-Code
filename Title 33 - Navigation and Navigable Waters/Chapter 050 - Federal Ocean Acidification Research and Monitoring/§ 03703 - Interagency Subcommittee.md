@@ -52,7 +52,7 @@ The Subcommittee shall—
 
 #### (3) Strategic research plan
 
-&emsp;Not later than 2 years after March 30, 2009, the Subcommittee shall transmit the strategic research plan developed under section 3704 of this title to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology and the Committee on Natural Resources of the House of Representatives. A revised plan shall be submitted at least once every 5 years thereafter.
+&emsp;Not later than 2 years after March 30, 2009, the Subcommittee shall transmit the strategicresearch plan developed under section 3704 of this title to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science and Technology and the Committee on Natural Resources of the House of Representatives. A revised plan shall be submitted at least once every 5 years thereafter.
 
 (Pub. L. 111–11, title XII, §12404, Mar. 30, 2009, 123 Stat. 1437.)
 

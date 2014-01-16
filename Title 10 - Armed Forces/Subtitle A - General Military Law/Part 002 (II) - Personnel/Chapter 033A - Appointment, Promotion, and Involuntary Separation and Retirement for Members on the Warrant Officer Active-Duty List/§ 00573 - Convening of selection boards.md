@@ -22,11 +22,11 @@ Provisions similar to those in this section were contained in section 558 of thi
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–106 substituted “active-duty list” for “active duty list”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–106 substituted "active-duty list" for "active duty list".
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–337, §541(b)(1)(A), substituted “Secretary concerned” for “Secretary of a military department”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–337, §541(b)(1)(A), substituted "Secretary concerned" for "Secretary of a military department".
 
-Subsec. (a)(2). Pub. L. 103–337, §541(b)(1)(B), struck out “of the military department” after “Secretary”.
+Subsec. (a)(2). Pub. L. 103–337, §541(b)(1)(B), struck out "of the military department" after "Secretary".
 
 #### Effective Date of 1994 Amendment
 

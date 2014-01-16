@@ -48,7 +48,7 @@ The Attorney General may dismiss a removal action under this subchapter at any s
 
 #### (3) Denial of order
 
-&emsp;If the judge denies the order requested in the application, the judge shall prepare a written statement of the reasons for the denial, taking all necessary precautions not to disclose any classified information contained in the Government's application.
+&emsp;If the judge denies the order requested in the application, the judge shall prepare a writtenstatement of the reasons for the denial, taking all necessary precautions not to disclose any classified information contained in the Government's application.
 
 #### (d) Exclusive provisions
 
@@ -58,7 +58,7 @@ If an order is issued under this section granting an application, the rights of 
 
 #### References in Text
 
-This chapter, referred to in subsec. (d), was in the original, “this Act”, meaning act June 27, 1952, ch. 477,66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsec. (d), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

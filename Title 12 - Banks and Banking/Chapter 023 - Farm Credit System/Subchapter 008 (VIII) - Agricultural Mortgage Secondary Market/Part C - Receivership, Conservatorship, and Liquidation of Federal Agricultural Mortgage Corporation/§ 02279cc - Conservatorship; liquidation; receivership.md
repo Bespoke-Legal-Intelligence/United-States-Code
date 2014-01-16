@@ -92,7 +92,7 @@ The conservator or receiver for the Corporation shall have such powers to conduc
 
 #### (1) In general
 
-&emsp;If the conservator or receiver of the Corporation determines that it is likely that there will be insufficient funds to pay the ongoing administrative expenses of the conservatorship or receivership or that there will be insufficient liquidity to fund maturing obligations of the conservatorship or receivership, the conservator or receiver may borrow funds in such amounts, from such sources, and at such rates of interest as the conservator or receiver considers necessary or appropriate to meet the administrative expenses or liquidity needs of the conservatorship or receivership.
+&emsp;If the conservator or receiver of the Corporation determines that it is likely that there will be insufficient funds to pay the ongoingadministrative expenses of the conservatorship or receivership or that there will be insufficient liquidity to fund maturing obligations of the conservatorship or receivership, the conservator or receiver may borrow funds in such amounts, from such sources, and at such rates of interest as the conservator or receiver considers necessary or appropriate to meet the administrative expenses or liquidity needs of the conservatorship or receivership.
 
 #### (2) Working capital from Farm Credit banks
 

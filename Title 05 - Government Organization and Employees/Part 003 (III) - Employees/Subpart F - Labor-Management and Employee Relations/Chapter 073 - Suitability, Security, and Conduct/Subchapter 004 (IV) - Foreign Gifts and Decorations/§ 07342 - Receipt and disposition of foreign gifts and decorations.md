@@ -62,13 +62,13 @@
 
 &emsp;&emsp;(ii) an employee may accept gifts of travel or expenses for travel taking place entirely outside the United States (such as transportation, food, and lodging) of more than minimal value if such acceptance is appropriate, consistent with the interests of the United States, and permitted by the employing agency and any regulations which may be prescribed by the employing agency.
 
-(2) Within 60 days after accepting a tangible gift of more than minimal value (other than agift described in paragraph (1)(B)(ii)), an employee shall—
+(2) Within 60 days after accepting a tangible gift of more than minimal value (other than a gift described in paragraph (1)(B)(ii)), an employee shall—
 
 &emsp;(A) deposit the gift for disposal with his or her employing agency; or
 
 &emsp;(B) subject to the approval of the employing agency, deposit the gift with that agency for official use.
 
-> Within 30 days after terminating the official use of a gift under subparagraph (B), the employing agency shall forward the gift to the Administrator of General Services in accordance with subsection (e)(1) or provide for its disposal in accordance with subsection (e)(2).
+> Within 30 days after terminating the official use of a gift under subparagraph (B), the employingagency shall forward the gift to the Administrator of General Services in accordance with subsection (e)(1) or provide for its disposal in accordance with subsection (e)(2).
 
 (3) When an employee deposits a gift of more than minimal value for disposal or for official use pursuant to paragraph (2), or within 30 days after accepting travel or travel expenses as provided in paragraph (1)(B)(ii) unless such travel or travel expenses are accepted in accordance with specific instructions of his or her employing agency, the employee shall file a statement with his or her employing agency or its delegate containing the information prescribed in subsection (f) for that gift.
 
@@ -106,7 +106,7 @@
 
 (B) Any information not provided to the Secretary of State pursuant to the authority in subparagraph (A) shall be transmitted to the Director of National Intelligence who shall keep a record of such information.
 
-(C) In this paragraph, the term “intelligence community” has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).
+(C) In this paragraph, the term “intelligence community” has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).<sup>1</sup>
 
 (g)(1) Each employing agency shall prescribe such regulations as may be necessary to carry out the purpose of this section. For all employing agencies in the executive branch, such regulations shall be prescribed pursuant to guidance provided by the Secretary of State. These regulations shall be implemented by each employing agency for its employees.
 
@@ -180,6 +180,8 @@ Section 152 of the Internal Revenue Code of 1986, referred to in subsec. (a)(1)(
 
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (e)(2), is classified to section 501 of Title 26, Internal Revenue Code.
 
+The National Security Act of 1947, referred to in subsec. (f)(4)(C), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 3 of the Act is now classified to section 3003 of Title 50. For complete classification of this Act to the Code, see Tables.
+
 Section 108A of the Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (k), is classified to section 2458a of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
@@ -228,9 +230,9 @@ Committee on Standards of Official Conduct of House of Representatives changed t
 
 #### Effective Date of 2004 Amendment
 
-For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of Title 50, War and National Defense.
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of Title 50, War and National Defense.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of Title 50, War and National Defense.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of Title 50, War and National Defense.
 
 #### Effective Date of 1977 Amendment
 
@@ -257,4 +259,6 @@ Ex. Ord. No. 11320, Dec. 12, 1966, 31 F.R. 15789, which delegated to the Secreta
 Ex. Ord. No. 11446, Jan. 16, 1969, 34 F.R. 803, as amended by Ex. Ord. No. 13286, §62, Feb. 28, 2003, 68 F.R. 10629, provided:
 
 By virtue of the authority vested in me as President of the United States and as Commander in Chief of the Armed Forces of the United States, I hereby authorize the Secretary of Defense, with respect to members of the Army, Navy, Air Force, and Marine Corps, and the Secretary of Homeland Security, with respect to members of the Coast Guard when it is not operating as a service in the Navy, to prescribe regulations for the acceptance of medals and ribbons which are offered by multilateral organizations, other than the United Nations, to members of the Armed Forces of the United States in recognition of service conducted under the auspices of those organizations. A determination that service for a multilateral organization in a particular geographical area or for a particular purpose constitutes a justifiable basis for authorizing acceptance of the medal or ribbon offered to eligible members of the Armed Forces of the United States shall be made with the concurrence of the Secretary of State.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

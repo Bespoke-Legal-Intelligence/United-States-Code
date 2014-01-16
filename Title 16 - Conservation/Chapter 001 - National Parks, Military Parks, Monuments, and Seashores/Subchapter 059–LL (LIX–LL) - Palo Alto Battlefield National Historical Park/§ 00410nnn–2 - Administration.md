@@ -6,5 +6,5 @@ The Secretary, acting through the Director of the National Park Service, shall m
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–11 substituted “historical park” for “historic site” wherever appearing.
+<b>2009</b>—Pub. L. 111–11 substituted "historical park" for "historic site" wherever appearing.
 

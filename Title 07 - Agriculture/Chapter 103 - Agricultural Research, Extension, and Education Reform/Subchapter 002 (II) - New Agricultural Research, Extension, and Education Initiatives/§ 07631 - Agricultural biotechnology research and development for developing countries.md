@@ -2,7 +2,7 @@
 
 #### (a) Eligible entity
 
-In this section, the term “eligible entity” means—
+In this section, the term "eligible entity" means—
 
 &emsp;(A) an institution of higher education that offers a curriculum in agriculture or the biosciences;
 
@@ -46,7 +46,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–246, §7310, substituted “2012” for “2007”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–246, §7310, substituted "2012" for "2007".
 
 #### Effective Date of 2008 Amendment
 

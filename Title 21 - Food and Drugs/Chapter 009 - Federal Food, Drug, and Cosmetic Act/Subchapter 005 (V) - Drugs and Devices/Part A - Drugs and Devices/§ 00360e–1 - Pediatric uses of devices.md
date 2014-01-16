@@ -38,15 +38,15 @@
 
 #### (c) Pediatric subpopulation
 
-For purposes of this section, the term “pediatric subpopulation” has the meaning given the term in section 360j(m)(6)(E)(ii) of this title.
+For purposes of this section, the term "pediatric subpopulation" has the meaning given the term in section 360j(m)(6)(E)(ii) of this title.
 
 (June 25, 1938, ch. 675, §515A, as added Pub. L. 110–85, title III, §302, Sept. 27, 2007, 121 Stat. 859.)
 
 #### Final Rule Relating to Tracking of Pediatric Uses of Devices
 
-Pub. L. 112–144, title VI, §620(b), July 9, 2012, 126 Stat. 1064, provided that: “The Secretary of Health and Human Services shall issue—
+Pub. L. 112–144, title VI, §620(b), July 9, 2012, 126 Stat. 1064, provided that: "The Secretary of Health and Human Services shall issue—
 
-&emsp;“(1) a proposed rule implementing section 515A(a)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360e–1(a)(2)) not later than December 31, 2012; and
+&emsp;"(1) a proposed rule implementing section 515A(a)(2) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 360e–1(a)(2)) not later than December 31, 2012; and
 
-&emsp;“(2) a final rule implementing such section not later than December 31, 2013.”
+&emsp;"(2) a final rule implementing such section not later than December 31, 2013."
 

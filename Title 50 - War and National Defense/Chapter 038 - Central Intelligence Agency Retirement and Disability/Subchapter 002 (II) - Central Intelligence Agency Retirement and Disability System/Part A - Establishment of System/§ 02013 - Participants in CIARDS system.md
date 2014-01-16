@@ -2,11 +2,11 @@
 
 #### (a) Designation of participants
 
-The Director may from time to time designate employees of the Agency who shall be entitled to participate in the system. Employees so designated who elect to participate in the system are referred to in this chapter as “participants”.
+The Director may from time to time designate employees of the Agency who shall be entitled to participate in the system. Employees so designated who elect to participate in the system are referred to in this chapter as "participants".
 
 #### (b) Qualifying service
 
-Designation of employees under this section may be made only from among employees of theAgency who have completed at least 5 years of qualifying service. For purposes of this chapter, qualifying service is service in the Agency performed in carrying out duties that are determined by the Director—
+Designation of employees under this section may be made only from among employees of the Agency who have completed at least 5 years of qualifying service. For purposes of this chapter, qualifying service is service in the Agency performed in carrying out duties that are determined by the Director—
 
 &emsp;(1) to be in support of Agency activities abroad hazardous to life or health; or
 

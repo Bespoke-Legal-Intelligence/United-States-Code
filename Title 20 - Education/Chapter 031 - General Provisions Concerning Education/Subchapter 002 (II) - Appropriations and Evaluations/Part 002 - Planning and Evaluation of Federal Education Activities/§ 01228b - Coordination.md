@@ -10,5 +10,5 @@ A prior section 428 of Pub. L. 90–247 was renumbered section 435, and is class
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–134 struck out “the National Education Standards and Improvement Council,” before “and any other board”.
+<b>1996</b>—Pub. L. 104–134 struck out "the National Education Standards and Improvement Council," before "and any other board".
 

@@ -11,7 +11,7 @@
 
 #### Amendments
 
-Pub. L. 112–213, title II, §213(c)(2), Dec. 20, 2012, 126 Stat. 1553, substituted “Annual list of projects to Congress” for “Annual Report to Congress” in item 693.
+Pub. L. 112–213, title II, §213(c)(2), Dec. 20, 2012, 126 Stat. 1553, substituted "Annual list of projects to Congress" for "Annual Report to Congress" in item 693.
 
 
 ---

@@ -2,7 +2,7 @@
 
 #### (a) Violations of rules, regulations, or orders promulgated pursuant to Emergency Petroleum Allocation Act of 1973
 
-If upon investigation the Secretary or his authorized representative believes that a person has violated any regulation, rule, or order described in section 7191(a) of this title promulgated pursuant to the Emergency Petroleum Allocation Act of 1973 <sup>1</sup> \[15 U.S.C. 751 et seq.\], he may issue a remedial order to the person. Each remedial order shall be in writing and shall describe with particularity the nature of the violation, including a reference to the provision of such rule, regulation, or order alleged to have been violated. For purposes of this section “person” includes any individual, association, company, corporation, partnership, or other entity however organized.
+If upon investigation the Secretary or his authorized representative believes that a person has violated any regulation, rule, or order described in section 7191(a) of this title promulgated pursuant to the Emergency Petroleum Allocation Act of 1973 <sup>1</sup> \[15 U.S.C. 751 et seq.\], he may issue a remedial order to the person. Each remedial order shall be in writing and shall describe with particularity the nature of the violation, including a reference to the provision of such rule, regulation, or order alleged to have been violated. For purposes of this section "person" includes any individual, association, company, corporation, partnership, or other entity however organized.
 
 #### (b) Notice of intent to contest; final order not subject to review
 
@@ -26,7 +26,7 @@ The provisions of preceding provisions of this section shall be applicable only 
 
 #### (g) Retroactive application; marketing of petroleum products
 
-With respect to any person whose sole petroleum industry operation relates to the marketing of petroleum products, the Secretary or any person acting on his behalf may not exercise discretion to maintain a civil action (other than an action for injunctive relief) or issue a remedial order against such person for any violation of any rule or regulation if—
+With respect to any person whose sole petroleum industry operation relates to the marketing of petroleum products, the Secretary or any person acting on his behalf may not exercise discretion to maintain a civil action (other than an action for injunctive relief) or issue a remedialorder against such person for any violation of any rule or regulation if—
 
 &emsp;(1) such civil action or order is based on a retroactive application of such rule or regulation or is based upon a retroactive interpretation of such rule or regulation; and
 
@@ -40,7 +40,7 @@ The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (a), is P
 
 #### Amendments
 
-<b>1978</b>—Subsecs. (e), (f). Pub. L. 95–620, §805(b), inserted “preceding provisions of” before “this section”.
+<b>1978</b>—Subsecs. (e), (f). Pub. L. 95–620, §805(b), inserted "preceding provisions of" before "this section".
 
 Subsec. (g). Pub. L. 95–620, §805(a), added subsec. (g).
 

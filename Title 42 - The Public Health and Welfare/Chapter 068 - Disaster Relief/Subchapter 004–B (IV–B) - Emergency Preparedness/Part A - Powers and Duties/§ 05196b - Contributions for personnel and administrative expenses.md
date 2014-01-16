@@ -34,7 +34,7 @@ A plan submitted under this section shall—
 
 #### (2) Consultation
 
-&emsp;In developing a catastrophic incident annex submitted under subsection (b)(3), a State shall consult with and seek appropriate comments from local governments, emergency response providers, locally governed multijurisdictional councils of government, and regional planning commissions.
+&emsp;In developing a catastrophic incident annex submitted under subsection (b)(3), a Stateshall consult with and seek appropriate comments from local governments, emergency response providers, locally governed multijurisdictional councils of government, and regional planning commissions.
 
 #### (d) Terms and conditions
 
@@ -60,11 +60,11 @@ If a State fails to submit a plan for approval as required by this section withi
 
 The Administrator shall report annually to the Congress all contributions made pursuant to this section.
 
-(Pub. L. 93–288, title VI, §613, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3106; amended Pub. L. 107–188, title I, §151, June 12, 2002, 116 Stat. 630; Pub. L. 109–295, title VI, §631, Oct. 4, 2006, 120 Stat. 1420; Pub. L. 109–308, §2, Oct. 6, 2006, 120 Stat. 1725;Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
+(Pub. L. 93–288, title VI, §613, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3106; amended Pub. L. 107–188, title I, §151, June 12, 2002, 116 Stat. 630; Pub. L. 109–295, title VI, §631, Oct. 4, 2006, 120 Stat. 1420; Pub. L. 109–308, §2, Oct. 6, 2006, 120 Stat. 1725; Pub. L. 111–351, §3(c)(2), Jan. 4, 2011, 124 Stat. 3864.)
 
 #### Codification
 
-Section 631(2) of Pub. L. 109–295, which directed amendment of this section “by redesignating subsections (c) through (g) and subsections (d) through (h), respectively”, was executed by redesignating subsecs. (c) to (g) as (d) to (h), respectively, to reflect the probable intent of Congress.
+Section 631(2) of Pub. L. 109–295, which directed amendment of this section "by redesignating subsections (c) through (g) and subsections (d) through (h), respectively", was executed by redesignating subsecs. (c) to (g) as (d) to (h), respectively, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
@@ -72,9 +72,9 @@ Provisions similar to those in this section were contained in section 2286 of Ti
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–351 substituted “Administrator” for “Director” wherever appearing.
+<b>2011</b>—Pub. L. 111–351 substituted "Administrator" for "Director" wherever appearing.
 
-<b>2006</b>—Subsec. (b)(3). Pub. L. 109–295, §631(1), inserted “including a catastrophic incident annex,” after “plans,”.
+<b>2006</b>—Subsec. (b)(3). Pub. L. 109–295, §631(1), inserted "including a catastrophic incident annex," after "plans,".
 
 Subsecs. (c) to (f). Pub. L. 109–295, §631(2), (3), added subsec. (c) and redesignated former subsecs. (c) to (e) as (d) to (f), respectively. Former subsec. (f) redesignated (g). See Codification note above.
 
@@ -94,7 +94,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 
 <i><sup>2</sup></i><i> So in original. Two subsecs. (h) have been enacted.</i>
 

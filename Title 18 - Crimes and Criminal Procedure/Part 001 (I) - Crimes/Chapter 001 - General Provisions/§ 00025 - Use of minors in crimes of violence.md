@@ -6,15 +6,15 @@ Definitions.—In this section, the following definitions shall apply:
 
 &emsp;(1)
 
-Crime of violence.—The term “crime of violence” has the meaning set forth in section 16.
+Crime of violence.—The term "crime of violence" has the meaning set forth in section 16.
 
 &emsp;(2)
 
-Minor.—The term “minor” means a person who has not reached 18 years of age.
+Minor.—The term "minor" means a person who has not reached 18 years of age.
 
 &emsp;(3)
 
-Uses.—The term “uses” means employs, hires, persuades, induces, entices, or coerces.
+Uses.—The term "uses" means employs, hires, persuades, induces, entices, or coerces.
 
 (b)
 

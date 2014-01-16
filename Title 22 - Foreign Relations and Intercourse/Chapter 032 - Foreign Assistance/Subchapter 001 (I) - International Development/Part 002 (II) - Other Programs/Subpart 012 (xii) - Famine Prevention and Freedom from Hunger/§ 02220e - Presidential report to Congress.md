@@ -6,7 +6,7 @@ The President shall transmit to the Congress, not later than September 1 of each
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–373 substituted “September 1” for “April 1”.
+<b>2000</b>—Pub. L. 106–373 substituted "September 1" for "April 1".
 
 #### Delegation of Functions
 

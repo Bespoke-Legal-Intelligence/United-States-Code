@@ -1,6 +1,6 @@
 # Printed pages - Title 11 - Bankruptcy
 
-GPO's 2012 edition (laws in effect as of 2013-01-15), from its printed page marks. The exact position of
+GPO's 2013 edition (laws in effect as of 2014-01-16), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title11.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -114,7 +114,7 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00702 - Election of trustee](Chapter%20007%20-%20Liquidation/Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000702%20-%20Election%20of%20trustee.md) | 182–183 |
 | [&sect; 00703 - Successor trustee](Chapter%20007%20-%20Liquidation/Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000703%20-%20Successor%20trustee.md) | 183 |
 | [&sect; 00704 - Duties of trustee](Chapter%20007%20-%20Liquidation/Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000704%20-%20Duties%20of%20trustee.md) | 183–185 |
-| [&sect; 00705 - Creditors&#8217; committee](Chapter%20007%20-%20Liquidation/Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000705%20-%20Creditors%E2%80%99%20committee.md) | 185 |
+| [&sect; 00705 - Creditors' committee](Chapter%20007%20-%20Liquidation/Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000705%20-%20Creditors%27%20committee.md) | 185 |
 | [&sect; 00706 - Conversion](Chapter%20007%20-%20Liquidation/Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000706%20-%20Conversion.md) | 185–186 |
 | [&sect; 00707 - Dismissal of a case or conversion to a case under chapter 11 or 13](Chapter%20007%20-%20Liquidation/Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2000707%20-%20Dismissal%20of%20a%20case%20or%20conversion%20to%20a%20case%20under%20chapter%2011%20or%2013.md) | 186–190 |
 | [Subchapter 002 (II) - Collection, Liquidation, and Distribution of the Estate](Chapter%20007%20-%20Liquidation/Subchapter%20002%20%28II%29%20-%20Collection%2C%20Liquidation%2C%20and%20Distribution%20of%20the%20Estate/README.md) | 190 |
@@ -180,7 +180,7 @@ from edition to edition; the section files hold the text only.
 | [Chapter 011 - Reorganization](Chapter%20011%20-%20Reorganization/README.md) | 226–229 |
 | [Subchapter 001 (I) - Officers and Administration](Chapter%20011%20-%20Reorganization/Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/README.md) | 229 |
 | [&sect; 01101 - Definitions for this chapter](Chapter%20011%20-%20Reorganization/Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2001101%20-%20Definitions%20for%20this%20chapter.md) | 229 |
-| [&sect; 01102 - Creditors&#8217; and equity security holders&#8217; committees](Chapter%20011%20-%20Reorganization/Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2001102%20-%20Creditors%E2%80%99%20and%20equity%20security%20holders%E2%80%99%20committees.md) | 229–230 |
+| [&sect; 01102 - Creditors' and equity security holders' committees](Chapter%20011%20-%20Reorganization/Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2001102%20-%20Creditors%27%20and%20equity%20security%20holders%27%20committees.md) | 229–230 |
 | [&sect; 01103 - Powers and duties of committees](Chapter%20011%20-%20Reorganization/Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2001103%20-%20Powers%20and%20duties%20of%20committees.md) | 230–231 |
 | [&sect; 01104 - Appointment of trustee or examiner](Chapter%20011%20-%20Reorganization/Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2001104%20-%20Appointment%20of%20trustee%20or%20examiner.md) | 231–233 |
 | [&sect; 01105 - Termination of trustee's appointment](Chapter%20011%20-%20Reorganization/Subchapter%20001%20%28I%29%20-%20Officers%20and%20Administration/%C2%A7%2001105%20-%20Termination%20of%20trustee%27s%20appointment.md) | 233 |

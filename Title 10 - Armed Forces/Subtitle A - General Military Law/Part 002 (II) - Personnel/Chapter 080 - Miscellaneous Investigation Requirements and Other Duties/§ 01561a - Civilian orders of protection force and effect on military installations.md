@@ -6,7 +6,7 @@ Force and Effect.—A civilian order of protection shall have the same force and
 
 (b)
 
-Civilian Order of Protection Defined.—In this section, the term “civilian order of protection” has the meaning given the term “protection order” in section 2266(5) of title 18.
+Civilian Order of Protection Defined.—In this section, the term "civilian order of protection" has the meaning given the term "protection order" in section 2266(5) of title 18.
 
 (c)
 

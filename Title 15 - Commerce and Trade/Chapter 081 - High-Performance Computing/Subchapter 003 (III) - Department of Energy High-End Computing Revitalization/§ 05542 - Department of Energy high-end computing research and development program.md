@@ -36,7 +36,7 @@ The program shall—
 
 #### (2) Administration
 
-&emsp;In carrying out this subsection, the Secretary shall provide to Leadership Systems, on a competitive, merit-reviewed basis, access to researchers in United States industry, institutions of higher education, national laboratories, and other Federal agencies.
+&emsp;In carrying out this subsection, the Secretary shall provide to Leadership Systems, ona competitive, merit-reviewed basis, access to researchers in United States industry, institutions of higher education, national laboratories, and other Federal agencies.
 
 #### (d) High-End Software Development Center
 
@@ -64,7 +64,7 @@ The program shall—
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (c)(1) and (d)(1), was in the original “this Act”, meaning Pub. L. 108–423, Nov. 30, 2004, 118 Stat. 2400, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 5501 of this title and Tables.
+This subchapter, referred to in subsecs. (c)(1) and (d)(1), was in the original "this Act", meaning Pub. L. 108–423, Nov. 30, 2004, 118 Stat. 2400, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 5501 of this title and Tables.
 
 #### Codification
 

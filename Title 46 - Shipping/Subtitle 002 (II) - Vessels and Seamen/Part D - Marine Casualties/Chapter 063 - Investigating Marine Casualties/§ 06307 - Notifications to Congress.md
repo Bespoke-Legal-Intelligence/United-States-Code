@@ -28,5 +28,5 @@ Subsection (c) requires the Secretary to submit an annual report to Congress sum
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–295 substituted “Transportation and Infrastructure” for “Merchant Marine and Fisheries”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–295 substituted "Transportation and Infrastructure" for "Merchant Marine and Fisheries".
 

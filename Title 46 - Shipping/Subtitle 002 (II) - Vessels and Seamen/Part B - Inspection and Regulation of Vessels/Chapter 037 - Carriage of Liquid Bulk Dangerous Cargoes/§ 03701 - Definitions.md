@@ -2,11 +2,11 @@
 
 In this chapter—
 
-&emsp;(1) “existing”, when referring to a type of vessel to which this chapter applies, means a vessel that is not a new vessel.
+&emsp;(1) "existing", when referring to a type of vessel to which this chapter applies, means a vessel that is not a new vessel.
 
 &emsp;\[(2) Repealed. Pub. L. 100–424, §8(c)(2), Sept. 9, 1988, 102 Stat. 1593.\]
 
-&emsp;(3) “new”, when referring to a type of vessel to which this chapter applies, means a vessel—
+&emsp;(3) "new", when referring to a type of vessel to which this chapter applies, means a vessel—
 
 &emsp;&emsp;(A) for which the building contract is placed after June 1, 1979;
 
@@ -16,7 +16,7 @@ In this chapter—
 
 &emsp;&emsp;(D) that has undergone a major conversion under a contract made after June 1, 1979, or construction work that began after January 1, 1980, or was completed after June 1, 1982.
 
-&emsp;(4) “person” means an individual (even if not a citizen or national of the United States), a corporation, partnership, association, or other entity (even if not organized or existing under the laws of a State), the United States Government, a State or local government, a government of a foreign country, or an entity of one of those governments.
+&emsp;(4) "person" means an individual (even if not a citizen or national of the United States), a corporation, partnership, association, or other entity (even if not organized or existing under the laws of a State), the United States Government, a State or local government, a government of a foreign country, or an entity of one of those governments.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 521; Pub. L. 99–509, title V, §5102(b)(5), Oct. 21, 1986, 100 Stat. 1927; Pub. L. 100–424, §8(c)(2), Sept. 9, 1988, 102 Stat. 1593.)
 
@@ -54,9 +54,9 @@ Section 3701 contains definitions that are of a special nature with limited appl
 
 #### Amendments
 
-<b>1988</b>—Par. (2). Pub. L. 100–424 struck out par. (2) which read as follows: “ ‘major conversion’ means a conversion of an existing vessel that substantially changes the dimensions or carrying capacity of the vessel or changes the type of vessel or substantially prolongs itslife or that otherwise so changes the vessel that it is essentially a new vessel, as decided by the Secretary.”
+<b>1988</b>—Par. (2). Pub. L. 100–424 struck out par. (2) which read as follows: " 'major conversion' means a conversion of an existing vessel that substantially changes the dimensions or carrying capacity of the vessel or changes the type of vessel or substantially prolongs itslife or that otherwise so changes the vessel that it is essentially a new vessel, as decided by the Secretary."
 
-<b>1986</b>—Pars. (5), (6). Pub. L. 99–509 struck out par. (5) defining “State” as including Trust Territory of the Pacific Islands in addition to its meaning under section 2101(36) of this title, and struck out par. (6) defining “United States” as including the Trust Territory of the Pacific Islands in addition to its meaning under section 2101(44) of this title.
+<b>1986</b>—Pars. (5), (6). Pub. L. 99–509 struck out par. (5) defining "State" as including Trust Territory of the Pacific Islands in addition to its meaning under section 2101(36) of this title, and struck out par. (6) defining "United States" as including the Trust Territory of the Pacific Islands in addition to its meaning under section 2101(44) of this title.
 
 #### Effective Date
 

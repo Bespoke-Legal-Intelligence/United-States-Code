@@ -14,21 +14,21 @@
 
 (e) No preliminary examination in compliance with subsection (a) of this section shall be required to be accorded an arrested person, nor shall such arrested person be discharged from custody or from the requirement of bail or any other condition of release pursuant to subsection (d), if at any time subsequent to the initial appearance of such person before a judge or magistrate judge and prior to the date fixed for the preliminary examination pursuant to subsections (b) and (c) an indictment is returned or, in appropriate cases, an information is filed against such person in a court of the United States.
 
-(f) Proceedings before United States magistrate judges under this section shall be taken down by a court reporter or recorded by suitable sound recording equipment. A copy of the record of such proceeding shall be made available at the expense of the United States to a person who makes affidavit that he is unable to pay or give security therefor, and the expense of such copyshall be paid by the Director of the Administrative Office of the United States Courts.
+(f) Proceedings before United States magistrate judges under this section shall be taken down by a court reporter or recorded by suitable sound recording equipment. A copy of the record of such proceeding shall be made available at the expense of the United States to a person who makes affidavit that he is unable to pay or give security therefor, and the expense of such copy shall be paid by the Director of the Administrative Office of the United States Courts.
 
 (June 25, 1948, ch. 645, 62 Stat. 819; Pub. L. 90–578, title III, §303(a), Oct. 17, 1968, 82 Stat. 1117; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 109–162, title XI, §1179, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 111–16, §3(9), May 7, 2009, 123 Stat. 1608.)
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b)(1). Pub. L. 111–16 substituted “fourteenth day” for “tenth day”.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–16 substituted "fourteenth day" for "tenth day".
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–162 substituted “In the absence of such consent of the accused, the judge or magistrate judge may extend the time limits only on a showing that extraordinary circumstances exist and justice requires the delay.” for “In the absence of such consent of the accused, the date fixed for the preliminary hearing may be a date later than that prescribed by subsection (b), or may be continued to a date subsequent to the date initially fixed therefor, only upon the order of a judge of the appropriate United States district court after a finding that extraordinary circumstances exist, and that the delay of the preliminary hearing is indispensable to the interests of justice.”
+<b>2006</b>—Subsec. (c). Pub. L. 109–162 substituted "In the absence of such consent of the accused, the judge or magistrate judge may extend the time limits only on a showing that extraordinary circumstances exist and justice requires the delay." for "In the absence of such consent of the accused, the date fixed for the preliminary hearing may be a date later than that prescribed by subsection (b), or may be continued to a date subsequent to the date initially fixed therefor, only upon the order of a judge of the appropriate United States district court after a finding that extraordinary circumstances exist, and that the delay of the preliminary hearing is indispensable to the interests of justice."
 
-<b>1968</b>—Pub. L. 90–578 substituted provisions of subsecs. (a) to (f) of this section detailing preliminary examination content for prior provisions which directed attention to the rule in section catchline, and directed one to see Federal Rules of Criminal Procedure, including “Proceedings before commissioner, appearance, advice as to right to counsel, hearing, Rule 5.”.
+<b>1968</b>—Pub. L. 90–578 substituted provisions of subsecs. (a) to (f) of this section detailing preliminary examination content for prior provisions which directed attention to the rule in section catchline, and directed one to see Federal Rules of Criminal Procedure, including "Proceedings before commissioner, appearance, advice as to right to counsel, hearing, Rule 5.".
 
 #### Change of Name
 
-Words “magistrate judge” and “United States magistrate judges” substituted for “magistrate” and “United States magistrates”, respectively, wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words "magistrate judge" and "United States magistrate judges" substituted for "magistrate" and "United States magistrates", respectively, wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 2009 Amendment
 

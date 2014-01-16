@@ -6,7 +6,7 @@
 
 (c) The Director of the Office of Personnel Management shall prescribe such regulations as may be necessary to carry out the purpose of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 423; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 102–378, §2(12), Oct. 2, 1992, 106 Stat. 1347; Pub. L. 110–372, §2(c)(3), Oct. 8, 2008, 122 Stat. 4044.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 423; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224; Pub. L. 102–378, §2(12), Oct. 2, 1992, 106 Stat.1347; Pub. L. 110–372, §2(c)(3), Oct. 8, 2008, 122 Stat. 4044.)
 
 Historical and Revision Notes
 

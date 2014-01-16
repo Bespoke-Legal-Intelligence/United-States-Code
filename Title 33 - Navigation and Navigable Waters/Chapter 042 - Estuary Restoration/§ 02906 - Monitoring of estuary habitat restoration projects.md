@@ -2,7 +2,7 @@
 
 #### (a) Under Secretary
 
-In this section, the term “Under Secretary” means the Under Secretary for Oceans and Atmosphere of the Department of Commerce.
+In this section, the term "Under Secretary" means the Under Secretary for Oceans and Atmosphere of the Department of Commerce.
 
 #### (b) Database of restoration project information
 
@@ -10,7 +10,7 @@ The Under Secretary, in consultation with the Council, shall develop and maintai
 
 #### (c) Monitoring data standards
 
-The Under Secretary, in consultation with the Council, shall develop standard data formats for monitoring projects, along with requirements for types of data collected and frequency of monitoring.
+The Under Secretary, in consultation with the Council, shall develop standard data formats for monitoring projects, along with requirementsfor types of data collected and frequency of monitoring.
 
 #### (d) Coordination of data
 
@@ -28,5 +28,5 @@ The Under Secretary shall make the information collected and maintained under th
 
 #### Amendments
 
-<b>2007</b>—Subsec. (d). Pub. L. 110–114 substituted “have general data compilation, coordination, and analysis responsibilities to carry out this chapter and in support of the strategy developed under this section, including compilation of” for “compile”.
+<b>2007</b>—Subsec. (d). Pub. L. 110–114 substituted "have general data compilation, coordination, and analysis responsibilities to carry out this chapter and in support of the strategy developed under this section, including compilation of" for "compile".
 

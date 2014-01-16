@@ -4,7 +4,7 @@ Any person who—
 
 #### (1) Counterfeiting
 
-&emsp;With intent to defraud, alters, forges, makes, or counterfeits any stamp, coupon, ticket, book, or other device prescribed under authority of this title for the collection or payment of any tax imposed by this title, or sells, lends, or has in his possession any such altered, forged, or counterfeited stamp, coupon, ticket, book, or other device, or makes, uses, sells, or has in his possession any material in imitation of the material used in the manufacture of such stamp, coupon, ticket, book, or other device; or
+&emsp;With intent to defraud, alters, forges, makes, or counterfeits any stamp, coupon,ticket, book, or other device prescribed under authority of this title for the collection or payment of any tax imposed by this title, or sells, lends, or has in his possession any such altered, forged, or counterfeited stamp, coupon, ticket, book, or other device, or makes, uses, sells, or has in his possession any material in imitation of the material used in the manufacture of such stamp, coupon, ticket, book, or other device; or
 
 #### (2) Mutilation or removal
 
@@ -24,7 +24,7 @@ Any person who—
 
 #### (A) Preparation for reuse
 
-&emsp;&emsp;Willfully removes, or alters the cancellation or defacing marks of, or otherwise prepares, any adhesive stamp, with intent touse, or cause the same to be used, after it has already been used; or
+&emsp;&emsp;Willfully removes, or alters the cancellation or defacing marks of, or otherwise prepares, any adhesive stamp, with intent to use, or cause the same to be used, after it has already been used; or
 
 #### (B) Trafficking
 

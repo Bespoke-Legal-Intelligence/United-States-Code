@@ -12,73 +12,73 @@
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–690 inserted “, or is deemed by the verifying officer to be mentally incompetent or otherwise incapable of knowingly and voluntarily consenting to the transfer,” after “under eighteen years of age”, “, guardian ad litem,” after “guardian”, and “The appointment of a guardian ad litem shall be independent of the appointment of counsel under section 4109 of this title.”
+<b>1988</b>—Subsec. (b). Pub. L. 100–690 inserted ", or is deemed by the verifying officer to be mentally incompetent or otherwise incapable of knowingly and voluntarily consenting to the transfer," after "under eighteen years of age", ", guardian ad litem," after "guardian", and "The appointment of a guardian ad litem shall be independent of the appointment of counsel under section 4109 of this title."
 
 #### Authorization of Appropriations
 
-Pub. L. 95–144, §5(a), Oct. 28, 1977, 91 Stat. 1221, provided that: “There is authorized to be appropriated such funds as may be required to carry out the purposes of this Act \[which enacted this chapter and sections 955 of Title 10, Armed Forces, and 2256 of Title 28, Judiciary and Judicial Procedure, amended section 636 of Title 28, and enacted provisions set out as notes under sections 3006A, 4100, and 4102 of this title\]”.
+Pub. L. 95–144, §5(a), Oct. 28, 1977, 91 Stat. 1221, provided that: "There is authorized to be appropriated such funds as may be required to carry out the purposes of this Act \[which enacted this chapter and sections 955 of Title 10, Armed Forces, and 2256 of Title 28, Judiciary and Judicial Procedure, amended section 636 of Title 28, and enacted provisions set out as notes under sections 3006A, 4100, and 4102 of this title\]".
 
 #### Prisoner Transfer Treaties
 
 Pub. L. 104–208, div. C, title III, §330, Sept. 30, 1996, 110 Stat. 3009–631, provided that:
 
-“(a)
+"(a)
 
 Negotiations With Other Countries.—(1) Congress advises the President to begin to negotiate and renegotiate, not later than 90 days after the date of enactment of this Act \[Sept. 30, 1996\], bilateral prisoner transfer treaties, providing for the incarceration, in the country of the alien's nationality, of any alien who—
 
-&emsp;“(A) is a national of a country that is party to such a treaty; and
+&emsp;"(A) is a national of a country that is party to such a treaty; and
 
-&emsp;“(B) has been convicted of a criminal offense under Federal or State law and who—
+&emsp;"(B) has been convicted of a criminal offense under Federal or State law and who—
 
-&emsp;&emsp;“(i) is not in lawful immigration status in the United States, or
+&emsp;&emsp;"(i) is not in lawful immigration status in the United States, or
 
-&emsp;&emsp;“(ii) on the basis of conviction for a criminal offense under Federal or State law, or on any other basis, is subject to deportation or removal under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\],
+&emsp;&emsp;"(ii) on the basis of conviction for a criminal offense under Federal or State law, or on any otherbasis, is subject to deportation or removal under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\],
 
 > for the duration of the prison term to which the alien was sentenced for the offense referred to in subparagraph (B). Any such agreement may provide for the release of such alien pursuant to parole procedures of that country.
 
-“(2) In entering into negotiations under paragraph (1), the President may consider providing for appropriate compensation, subject to the availability of appropriations, in cases where the United States is able to independently verify the adequacy of the sites where aliens will be imprisoned and the length of time the alien is actually incarcerated in the foreign country under such a treaty.
+"(2) In entering into negotiations under paragraph (1), the President may consider providing for appropriate compensation, subject to the availability of appropriations, in cases where the United States is able to independently verify the adequacy of the sites where aliens will be imprisoned and the length of time the alien is actually incarcerated in the foreign country under such a treaty.
 
-“(b)
+"(b)
 
 Sense of Congress.—It is the sense of the Congress that—
 
-&emsp;“(1) the focus of negotiations for such agreements should be—
+&emsp;"(1) the focus of negotiations for such agreements should be—
 
-&emsp;&emsp;“(A) to expedite the transfer of aliens unlawfully in the United States who are (or are about to be) incarcerated in United States prisons,
+&emsp;&emsp;"(A) to expedite the transfer of aliens unlawfully in the United States who are (or are about to be) incarcerated in United States prisons,
 
-&emsp;&emsp;“(B) to ensure that a transferred prisoner serves the balance of the sentence imposed by the United States courts,
+&emsp;&emsp;"(B) to ensure that a transferred prisoner serves the balance of the sentence imposed by the United States courts,
 
-&emsp;&emsp;“(C) to eliminate any requirement of prisoner consent to such a transfer, and
+&emsp;&emsp;"(C) to eliminate any requirement of prisoner consent to such a transfer, and
 
-&emsp;&emsp;“(D) to allow the Federal Government or the States to keep their original prison sentences in force so that transferred prisoners who return to the United States prior to the completion of their original United States sentences can be returned tocustody for the balance of their prisons \[sic\] sentences;
+&emsp;&emsp;"(D) to allow the Federal Government or the States to keep their original prison sentences in force so that transferred prisoners who return to the United States prior to the completion of their original United States sentences can be returned to custody for the balance of their prisons \[sic\] sentences;
 
-&emsp;“(2) the Secretary of State should give priority to concluding an agreement with any country for which the President determines that the number of aliens described in subsection (a) who are nationals of that country in the United States represents a significant percentage of all such aliens in the United States; and
+&emsp;"(2) the Secretary of State should give priority to concluding an agreement with any country for which the President determines that the number of aliens described in subsection (a) who are nationals of that country in the United States represents a significant percentage of all such aliens in the United States; and
 
-&emsp;“(3) no new treaty providing for the transfer of aliens from Federal, State, or local incarceration facilities to a foreign incarceration facility should permit the alien to refuse the transfer.
+&emsp;"(3) no new treaty providing for the transfer of aliens from Federal, State, or local incarceration facilities to a foreign incarceration facility should permit the alien to refuse the transfer.
 
-“(c)
+"(c)
 
 Prisoner Consent.—Notwithstanding any other provision of law, except as required by treaty, the transfer of an alien from a Federal, State, or local incarceration facility under an agreement of the type referred to in subsection (a) shall not require consent of the alien.
 
-“(d)
+"(d)
 
 Annual Report.—Not later than 90 days after the date of the enactment of this Act \[Sept. 30, 1996\], and annually thereafter, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and of the Senate stating whether each prisoner transfer treaty to which the United States is a party has been effective in the preceding 12 months in bringing about the return of deportable incarcerated aliens to the country of which they are nationals and in ensuring that they serve the balance of their sentences.
 
-“(e)
+"(e)
 
 Training Foreign Law Enforcement Personnel.—(1) Subject to paragraph (2), the President shall direct the Border Patrol Academy and the Customs Service Academy to enroll for training an appropriate number of foreign law enforcement personnel, and shall make appointments of foreign law enforcement personnel to such academies, as necessary to further the following United States law enforcement goals:
 
-&emsp;“(A) Preventing of drug smuggling and other cross-border criminal activity.
+&emsp;"(A) Preventing of drug smuggling and other cross-border criminal activity.
 
-&emsp;“(B) Preventing illegal immigration.
+&emsp;"(B) Preventing illegal immigration.
 
-&emsp;“(C) Preventing the illegal entry of goods into the United States (including goods the sale of which is illegal in the United States, the entry of which would cause a quota to be exceeded, or the appropriate duty or tariff for which has not been paid).
+&emsp;"(C) Preventing the illegal entry of goods into the United States (including goods the sale of which is illegal in the United States, the entry of which would cause a quota to be exceeded, or the appropriate duty or tariff for which has not been paid).
 
-“(2) The appointments described in paragraph (1) shall be made only to the extent there is capacity in such academies beyond what is required to train United States citizens needed in the Border Patrol and Customs Service, and only of personnel from a country with which the prisoner transfer treaty has been stated to be effective in the most recent report referred to in subsection (d).
+"(2) The appointments described in paragraph (1) shall be made only to the extent there is capacity in such academies beyond what is required to train United States citizens needed in the Border Patrol and Customs Service, and only of personnel from a country with which the prisoner transfer treaty has been stated to be effective in the most recent report referred to in subsection (d).
 
-“(f)
+"(f)
 
-Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this section.”
+Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this section."
 
 \[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

@@ -26,7 +26,7 @@ The amount of the credit determined under this subsection with respect to any in
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “build America bond” means any obligation (other than a private activity bond) if—
+&emsp;For purposes of this section, the term "build America bond" means any obligation (other than a private activity bond) if—
 
 &emsp;&emsp;(A) the interest on such obligation would (but for this section) be excludable from gross income under section 103,
 
@@ -46,7 +46,7 @@ The amount of the credit determined under this subsection with respect to any in
 
 #### (e) Interest payment date
 
-For purposes of this section, the term “interest payment date” means any date on which the holder of record of the build America bond is entitled to a payment of interest under such bond.
+For purposes of this section, the term "interest payment date" means any date on which the holder of record of the build America bond is entitled to a payment of interest under such bond.
 
 #### (f) Special rules
 
@@ -68,7 +68,7 @@ In the case of a qualified bond issued before January 1, 2011—
 
 #### (2) Qualified bond
 
-&emsp;For purposes of this subsection, the term “qualified bond” means any build America bond issued as part of an issue if—
+&emsp;For purposes of this subsection, the term "qualified bond" means any build America bond issued as part of an issue if—
 
 &emsp;&emsp;(A) 100 percent of the excess of—
 
@@ -92,5 +92,5 @@ Section applicable to obligations issued after Feb. 17, 2009, see section 1531(e
 
 #### Transitional Coordination With State Law
 
-Pub. L. 111–5, div. B, title I, §1531(d), Feb. 17, 2009, 123 Stat. 360, provided that: “Except as otherwise provided by a State after the date of the enactment of this Act \[Feb. 17, 2009\], the interest on any build America bond (as defined in section 54AA of the Internal Revenue Code of 1986, as added by this section) and the amount of any credit determined under such section with respect to such bond shall be treated for purposes of the income tax laws of such State as being exempt from Federal income tax.”
+Pub. L. 111–5, div. B, title I, §1531(d), Feb. 17, 2009, 123 Stat. 360, provided that: "Except as otherwise provided by a State after the date of the enactment of this Act \[Feb. 17, 2009\], the interest on any build America bond (as defined in section 54AA of the Internal Revenue Code of 1986, as added by this section) and the amount of any credit determined under such section with respect to such bond shall be treated for purposes of the income tax laws of such State as being exempt from Federal income tax."
 

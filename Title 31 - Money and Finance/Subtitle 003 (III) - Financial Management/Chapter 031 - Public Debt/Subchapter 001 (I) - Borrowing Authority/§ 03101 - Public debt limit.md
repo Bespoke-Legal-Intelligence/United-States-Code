@@ -1,6 +1,6 @@
 ### §3101. Public debt limit
 
-(a) In this section, the current redemption value of an obligation issued on a discount basisand redeemable before maturity at the option of its holder is deemed to be the face amount of the obligation.
+(a) In this section, the current redemption value of an obligation issued on a discount basis and redeemable before maturity at the option of its holder is deemed to be the face amount of the obligation.
 
 (b) The face amount of obligations issued under this chapter and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) may not be more than $14,294,000,000,000, outstanding at one time, subject to changes periodically made in that amount as provided by law through the congressional budget process described in Rule XLIX <sup>1</sup> of the Rules of the House of Representatives or as provided by section 3101A or otherwise.
 
@@ -36,7 +36,7 @@ Sept. 24, 1917, ch. 56, 40 Stat. 288, §21; added Feb. 4, 1935, ch. 5, §5, 49 S
 
 June 30, 1967, Pub. L. 90–39, §2, 81 Stat. 99.
 
-In subsection (a), the words “is deemed to be” are substituted for “shall be considered . . . to be” because a legal fiction is intended.
+In subsection (a), the words "is deemed to be" are substituted for "shall be considered . . . to be" because a legal fiction is intended.
 
 #### References in Text
 
@@ -46,57 +46,235 @@ Section 1272(a) of the Internal Revenue Code of 1986, referred to in subsec. (c)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b). Pub. L. 112–25 substituted “or as provided by section 3101A or otherwise” for “or otherwise”.
+<b>2011</b>—Subsec. (b). Pub. L. 112–25 substituted "or as provided by section 3101A or otherwise" for "or otherwise".
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–139 substituted “$14,294,000,000,000” for “$12,394,000,000,000”.
+<b>2010</b>—Subsec. (b). Pub. L. 111–139 substituted "$14,294,000,000,000" for "$12,394,000,000,000".
 
-<b>2009</b>—Subsec. (b). Pub. L. 111–123 substituted “$12,394,000,000,000” for “$12,104,000,000,000”.
+<b>2009</b>—Subsec. (b). Pub. L. 111–123 substituted "$12,394,000,000,000" for "$12,104,000,000,000".
 
-Pub. L. 111–5 substituted “$12,104,000,000,000” for “$11,315,000,000,000”.
+Pub. L. 111–5 substituted "$12,104,000,000,000" for "$11,315,000,000,000".
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–343 substituted “$11,315,000,000,000” for “$10,615,000,000,000”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–343 substituted "$11,315,000,000,000" for "$10,615,000,000,000".
 
-Pub. L. 110–289 substituted “$10,615,000,000,000” for “$9,815,000,000,000”.
+Pub. L. 110–289 substituted "$10,615,000,000,000" for "$9,815,000,000,000".
 
-<b>2007</b>—Subsec. (b). Pub. L. 110–91 substituted “$9,815,000,000,000” for “$8,965,000,000,000”.
+<b>2007</b>—Subsec. (b). Pub. L. 110–91 substituted "$9,815,000,000,000" for "$8,965,000,000,000".
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–182 substituted “$8,965,000,000,000” for “$8,184,000,000,000”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–182 substituted "$8,965,000,000,000" for "$8,184,000,000,000".
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–415 substituted “$8,184,000,000,000” for “$7,384,000,000,000”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–415 substituted "$8,184,000,000,000" for "$7,384,000,000,000".
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–24 substituted “$7,384,000,000,000” for “$6,400,000,000,000”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–24 substituted "$7,384,000,000,000" for "$6,400,000,000,000".
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–199 substituted “$6,400,000,000,000” for “$5,950,000,000,000”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–199 substituted "$6,400,000,000,000" for "$5,950,000,000,000".
 
-<b>1997</b>—Subsec. (b). Pub. L. 105–33 substituted “$5,950,000,000,000” for “$5,500,000,000,000”.
+<b>1997</b>—Subsec. (b). Pub. L. 105–33 substituted "$5,950,000,000,000" for "$5,500,000,000,000".
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–121 substituted “$5,500,000,000,000” for “$4,900,000,000,000”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–121 substituted "$5,500,000,000,000" for "$4,900,000,000,000".
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–66 substituted “$4,900,000,000,000” for “$4,145,000,000,000”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–66 substituted "$4,900,000,000,000" for "$4,145,000,000,000".
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–508 substituted “$4,145,000,000,000” for “$3,122,700,000,000”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–508 substituted "$4,145,000,000,000" for "$3,122,700,000,000".
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–140 substituted “$3,122,700,000,000” for “$2,800,000,000,000”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–140 substituted "$3,122,700,000,000" for "$2,800,000,000,000".
 
-Subsec. (c). Pub. L. 101–72 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The face amount of beneficial interests and participations (except those held by their issuer) issued under section 302(c) of the National Housing Act (12 U.S.C. 1717(c)) from July 1, 1967, through June 30, 1968, and outstanding at any time shall be included in the amount taken into account in deciding whether the face amount requirement of subsection (b) of this section has been exceeded. This subsection does not require a change in the budgetary accounting for beneficial interests and participations.”
+Subsec. (c). Pub. L. 101–72 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The face amount of beneficial interests and participations (except those held by their issuer) issued under section 302(c) of the National Housing Act (12 U.S.C. 1717(c)) from July 1, 1967, through June 30, 1968, and outstanding at any time shall be included in the amount taken into account in deciding whether the face amount requirement of subsection (b) of this section has been exceeded. This subsection does not require a change in the budgetary accounting for beneficial interests and participations."
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–119 substituted “$2,800,000,000,000” for “$2,111,000,000,000”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–119 substituted "$2,800,000,000,000" for "$2,111,000,000,000".
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–384, which directed that subsec. (b) be amended by “striking out the dollar limitation contained in such subsection and inserting in lieu thereof ‘$2,111,000,000,000,’ ”, was executed by substituting “$2,111,000,000,000,” for “$1,847,800,000,000, or $2,078,700,000,000 on and after October 1, 1985,” as the probable intent of Congress.
+<b>1986</b>—Subsec. (b). Pub. L. 99–384, which directed that subsec. (b) be amended by "striking out the dollar limitation contained in such subsection and inserting in lieu thereof '$2,111,000,000,000,' ", was executed by substituting "$2,111,000,000,000," for "$1,847,800,000,000, or $2,078,700,000,000 on and after October 1, 1985," as the probable intent of Congress.
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–177 substituted “$1,847,800,000,000, or $2,078,700,000,000 on and after October 1, 1985” for “$1,575,700,000,000, or $1,823,800,000,000 on and after October 1, 1984”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–177 substituted "$1,847,800,000,000, or $2,078,700,000,000 on and after October 1, 1985" for "$1,575,700,000,000, or $1,823,800,000,000 on and after October 1, 1984".
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–475 substituted “$1,575,700,000,000, or $1,823,800,000,000 on and after October 1, 1984,” for “$1,573,000,000,000”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–475 substituted "$1,575,700,000,000, or $1,823,800,000,000 on and after October 1, 1984," for "$1,573,000,000,000".
 
-Pub. L. 98–342 substituted “$1,573,000,000,000” for “$1,389,000,000,000, or $1,490,000,000,000 on and after October 1, 1983,”.
+Pub. L. 98–342 substituted "$1,573,000,000,000" for "$1,389,000,000,000, or $1,490,000,000,000 on and after October 1, 1983,".
 
-<b>1983</b>—Subsec. (b). Pub. L. 98–161 inserted “, or $1,490,000,000,000 on and after October 1, 1983,” after “$1,389,000,000,000”.
+<b>1983</b>—Subsec. (b). Pub. L. 98–161 inserted ", or $1,490,000,000,000 on and after October 1, 1983," after "$1,389,000,000,000".
 
-Pub. L. 98–34 substituted “$1,389,000,000,000” for “$400,000,000,000”.
+Pub. L. 98–34 substituted "$1,389,000,000,000" for "$400,000,000,000".
+
+#### Default Prevention
+
+Pub. L. 113–46, div. B, §1002, Oct. 17, 2013, 127 Stat. 566, provided that:
+
+"(a)
+
+Short Title.—This section may be cited as the 'Default Prevention Act of 2013'.
+
+"(b)
+
+Certification.—Not later than 3 days after the date of enactment of this Act \[Oct. 17, 2013\], the President may submit to Congress a written certification that absent a suspension of the limit under section 3101(b) of title 31, United States Code, the Secretary of the Treasury would be unable to issue debt to meet existing commitments.
+
+"(c)
+
+Suspension.—
+
+&emsp;"(1)
+
+In general.—Section 3101(b) of title 31, United States Code, shall not apply for the period beginning on the date on which the President submits to Congress a certification under subsection (b) and ending on February 7, 2014.
+
+&emsp;"(2)
+
+Special rule relating to obligations issued during suspension period.—Effective February 8, 2014, the limitation in section 3101(b) of title 31, United States Code, as increased by section 3101A of such title and section 2 of the No Budget, No Pay Act of 2013 \[Pub. L. 113–3\] (31 U.S.C. 3101 note), is increased to the extent that—
+
+&emsp;&emsp;"(A) the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on February 8, 2014, exceeds
+
+&emsp;&emsp;"(B) the face amount of such obligations outstanding on the date of enactment of this Act \[Oct. 17, 2013\].
+
+> &emsp;An obligation shall not be taken into account under subparagraph (A) unless the issuance of such obligation was necessary to fund a commitment incurred by the Federal Government that required payment before February 8, 2014.
+
+"(d)
+
+Disapproval.—If there is enacted into law within 22 calendar days after Congress receives a written certification by the President under subsection (b) a joint resolution disapproving the President's exercise of authority to suspend the debt ceiling under subsection (e), effective on the date of enactment of the joint resolution, subsection (c) is amended to read as follows:
+
+" '(c)
+
+Suspension.—
+
+&emsp;" '(1)
+
+In general.—Section 3101(b) of title 31, United States Code, shall not apply for the period beginning on the date on which the President submits to Congress a certification under subsection (b) and ending on the date of enactment of the joint resolution pursuant to section 1002(e) of the Continuing Appropriations Act, 2014 \[Pub. L. 113–46; subsec. (e) of this note\].
+
+&emsp;" '(2)
+
+Special rule relating to obligations issued during suspension period.—Effective on the day after the date of enactment of the joint resolution pursuant to section 1002(e) of the Continuing Appropriations Act, 2014, the limitation in section 3101(b) of title 31, United States Code, as increased by section 3101A of such title and section 2 of the No Budget, No Pay Act of 2013 \[Pub. L. 113–3\] (31 U.S.C. 3101 note), is increased to the extent that—
+
+&emsp;&emsp;" '(A) the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on the day after the date of enactment of the joint resolution pursuant to section 1002(e) of the Continuing Appropriations Act, 2014, exceeds
+
+&emsp;&emsp;" '(B) the face amount of such obligations outstanding on the date of enactment of this Act \[Oct. 17, 2013\].
+
+> &emsp;An obligation shall not be taken into account under subparagraph (A) unless the issuance of such obligation was necessary to fund a commitment incurred by the Federal Government that required payment before the day after the date of enactment of the joint resolution pursuant to section 1002(e) of the Continuing Appropriations Act, 2014 \[Pub. L. 113–46; subsec. (e) of this note\].'.
+
+"(e)
+
+Disapproval Process.—
+
+&emsp;"(1)
+
+Contents of joint resolution.—For the purpose of this subsection, the term 'joint resolution' means only a joint resolution—
+
+&emsp;&emsp;"(A) disapproving the President's exercise of authority to suspend the debt limit that is introduced within 14 calendar days after the date on which the President submits to Congress the certification under subsection (b);
+
+&emsp;&emsp;"(B) which does not have a preamble;
+
+&emsp;&emsp;"(C) the title of which is only as follows: 'Joint resolution relating to the disapproval of the President's exercise of authority to suspend the debt limit, as submitted under section 1002(b) of the Continuing Appropriations Act, 2014 on \_\_\_\_\_\_\_\_\_\_\_\_' (with the blank containing the date of such submission); and
+
+&emsp;&emsp;"(D) the matter after the resolving clause of which is only as follows: 'That Congress disapproves of the President's exercise of authority to suspend the debt limit, as exercised pursuant to the certification under section 1002(b) of the Continuing Appropriations Act, 2014.'.
+
+&emsp;"(2)
+
+Expedited consideration in house of representatives.—
+
+&emsp;&emsp;"(A)
+
+Reporting and discharge.—Any committee of the House of Representatives to which a joint resolution is referred shall report it to the House of Representatives without amendment not later than 5 calendar days after the date of introduction of a joint resolution described in paragraph (1). If a committee fails to report the joint resolution within that period, the committee shall be discharged from further consideration of the joint resolution and the joint resolution shall be referred to the appropriate calendar.
+
+&emsp;&emsp;"(B)
+
+Proceeding to consideration.—After each committee authorized to consider a joint resolution reports it to the House of Representatives or has been discharged from its consideration, it shall be in order, not later than the sixth day after introduction of a joint resolution under paragraph (1), to move to proceed to consider the joint resolution in the House of Representatives. All points of order against the motion are waived. Such a motion shall not be in order after the House of Representatives has disposed of a motion to proceed on a joint resolution. The previous question shall be considered as ordered on the motion to its adoption without intervening motion. The motion shall not be debatable. A motion to reconsider the vote by which the motion is disposed of shall not be in order.
+
+&emsp;&emsp;"(C)
+
+Consideration.—The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except 2 hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
+
+&emsp;"(3)
+
+Expedited procedure in senate.—
+
+&emsp;&emsp;"(A)
+
+Reconvening.—Upon receipt of a certification under subsection (b), if the Senate would otherwise be adjourned, the majority leader of the Senate, after consultation with the minority leader of the Senate, shall notify the Members of the Senate that, pursuant to this subsection, the Senate shall convene not later than the thirteenth calendar day after receipt of such certification.
+
+&emsp;&emsp;"(B)
+
+Placement on calendar.—Upon introduction in the Senate, the joint resolution shall be immediately placed on the calendar.
+
+&emsp;&emsp;"(C)
+
+Floor consideration.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—Notwithstanding rule XXII of the Standing Rules of the Senate, it is in order at any time during the period beginning on the day after the date on which Congress receives a certification under subsection (b) and ending on the 6th day after the date of introduction of a joint resolution under paragraph (1) (even if a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the joint resolution, and all points of order against the joint resolution (and against consideration of the joint resolution) are waived. The motion to proceed is not debatable. The motion is not subject to a motion to postpone. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the joint resolution is agreed to, the joint resolution shall remain the unfinished business until disposed of.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Consideration.—Consideration of the joint resolution, and on all debatable motions and appeals in connection therewith, shall be limited to not more than 10 hours, which shall be divided equally between the majority and minority leaders or their designees. A motion further to limit debate is in order and not debatable. An amendment to, or a motion to postpone, or a motion to proceed to the consideration of other business, or a motion to recommit the joint resolution is not in order.
+
+&emsp;&emsp;&emsp;"(iii)
+
+Vote on passage.—If the Senate has voted to proceed to a joint resolution, the vote on passage of the joint resolution shall occur immediately following the conclusion of consideration of the joint resolution, and a single quorum call at the conclusion of the debate if requested in accordance with the rules of the Senate.
+
+&emsp;&emsp;&emsp;"(iv)
+
+Rulings of the chair on procedure.—Appeals from the decisions of the Chair relating to the application of the rules of the Senate, as the case may be, to the procedure relating to a joint resolution shall be decided without debate.
+
+&emsp;"(4)
+
+Amendment not in order.—A joint resolution of disapproval considered pursuant to this subsection shall not be subject to amendment in either the House of Representatives or the Senate.
+
+&emsp;"(5)
+
+Coordination with action by other house.—
+
+&emsp;&emsp;"(A)
+
+In general.—If, before passing the joint resolution, one House receives from the other a joint resolution—
+
+&emsp;&emsp;&emsp;"(i) the joint resolution of the other House shall not be referred to a committee; and
+
+&emsp;&emsp;&emsp;"(ii) the procedure in the receiving House shall be the same as if no joint resolution had been received from the other House, except that the vote on passage shall be on the joint resolution of the other House.
+
+&emsp;&emsp;"(B)
+
+Treatment of joint resolution of other house.—If the Senate fails to introduce or consider a joint resolution under this subsection, the joint resolution of the House of Representatives shall be entitled to expedited floor procedures under this subsection.
+
+&emsp;&emsp;"(C)
+
+Treatment of companion measures.—If, following passage of the joint resolution in the Senate, the Senate then receives the companion measure from the House of Representatives, the companion measure shall not be debatable.
+
+&emsp;&emsp;"(D)
+
+Consideration after passage.—
+
+&emsp;&emsp;&emsp;"(i)
+
+In general.—If Congress passes a joint resolution, the period beginning on the date the President is presented with the joint resolution and ending on the date the President signs, allows to become law without his signature, or vetoes and returns the joint resolution (but excluding days when either House is not in session) shall be disregarded in computing the calendar day period described in subsection (d).
+
+&emsp;&emsp;&emsp;"(ii)
+
+Debate on a veto message.—Debate on a veto message in the Senate under this subsection shall be 1 hour equally divided between the majority and minority leaders or their designees.
+
+&emsp;"(6)
+
+Rules of house of representatives and senate.—This subsection is enacted by Congress—
+
+&emsp;&emsp;"(A) as an exercise of the rulemaking power of the Senate and House of Representatives, respectively, and as such it is deemed a part of the rules of each House, respectively, but applicable only with respect to the procedure to be followed in thatHouse in the case of a joint resolution, and it supersedes other rules only to the extent that it is inconsistent with such rules; and
+
+&emsp;&emsp;"(B) with full recognition of the constitutional right of either House to change the rules (so far as relating to the procedure of that House) at any time, in the same manner, and to the same extent as in the case of any other rule of that House."
+
+#### Temporary Suspension of Debt Ceiling
+
+Pub. L. 113–3, §2, Feb. 4, 2013, 127 Stat. 51, provided that:
+
+"(a)
+
+Suspension.—Section 3101(b) of title 31, United States Code, shall not apply for the period beginning on the date of the enactment of this Act \[Feb. 4, 2013\] and ending on May 18, 2013.
+
+"(b)
+
+Special Rule Relating to Obligations Issued During Suspension Period.—Effective May 19, 2013, the limitation in section 3101(b) of title 31, United States Code, as increased by section 3101A of such title, is increased to the extent that—
+
+&emsp;"(1) the face amount of obligations issued under chapter 31 of such title and the face amount of obligations whose principal and interest are guaranteed by the United States Government (except guaranteed obligations held by the Secretary of the Treasury) outstanding on May 19, 2013, exceeds
+
+&emsp;"(2) the face amount of such obligations outstanding on the date of the enactment of this Act.
+
+> An obligation shall not be taken into account under paragraph (1) unless the issuance of such obligation was necessary to fund a commitment incurred by the Federal Government that required payment before May 19, 2013."
 
 #### Treatment of Certain Obligations of United States
 
-Pub. L. 104–115, §1(a)–(c), Mar. 12, 1996, 110 Stat. 825, authorized Secretary of the Treasury to issue to each Federal fund obligations of United States under this chapter before Mar. 30, 1996, in amount not to exceed certain designated limits, exempted such obligations from public debt limit and provided for termination of such exemption, and defined “Federal fund” for purpose of section.
+Pub. L. 104–115, §1(a)–(c), Mar. 12, 1996, 110 Stat. 825, authorized Secretary of the Treasury to issue to each Federal fund obligations of United States under this chapter before Mar. 30, 1996, in amount not to exceed certain designated limits, exempted such obligations from public debt limit and provided for termination of such exemption, and defined "Federal fund" for purpose of section.
 
 #### Timely Payment of March 1996 Social Security Benefits Guaranteed
 
@@ -118,7 +296,7 @@ Aug. 7, 1989, Pub. L. 101–72, §1, 103 Stat. 182—Increase of $70,000,000,000
 
 Aug. 10, 1987, Pub. L. 100–84, 101 Stat. 550—Increase to $2,352,000,000,000 for the period Aug. 10, 1987, to Sept. 23, 1987.
 
-May 15, 1987, Pub. L. 100–40, §1(a), 101 Stat. 308, as amended July 30, 1987, Pub. L. 100–80, §1(a), 101 Stat. 542—Increase to $2,320,000,000,000 for the period May 15, 1987, to August 6, 1987. \[Section 1(b) of Pub. L. 100–80 provided that: “The amendment made by subsection (a) \[amending section 1(a) of Pub. L. 100–40\] shall take effect on the date of the enactment of this Act \[July 30, 1987\].”\]
+May 15, 1987, Pub. L. 100–40, §1(a), 101 Stat. 308, as amended July 30, 1987, Pub. L. 100–80, §1(a), 101 Stat. 542—Increase to $2,320,000,000,000 for the period May 15, 1987, to August 6, 1987. \[Section 1(b) of Pub. L. 100–80 provided that: "The amendment made by subsection (a) \[amending section 1(a) of Pub. L. 100–40\] shall take effect on the date of the enactment of this Act \[July 30, 1987\]."\]
 
 Nov. 14, 1985, Pub. L. 99–155, §1, 99 Stat. 814—Provided for a temporary increase of an amount determined by the Secretary of the Treasury as necessary, but not to exceed a public debt limit of $1,903,800,000,000 for the period Nov. 14, 1985, to Dec. 6, 1985.
 
@@ -152,7 +330,7 @@ Pub. L. 95–333, §1, Aug. 3, 1978, 92 Stat. 419, providing for a temporary inc
 
 Pub. L. 95–120, §1, Oct. 4, 1977, 91 Stat. 1090, as amended, providing for a temporary increase of $352,000,000,000 in the public debt limit for the period Oct. 4, 1977, to July 31, 1978, was also repealed by Pub. L. 95–333, §2, Aug. 3, 1978, 92 Stat. 419.
 
-Pub. L. 94–334, §1, June 30, 1976, 90 Stat. 793, providing for a temporary increase of $300,000,000,000 in the public debt limit for the period Apr. 1, 1977, to Sept. 30, 1977, was also repealed by Pub. L. 95–120, §2, Oct. 4, 1977, 91 Stat. 1090.
+Pub. L. 94–334, §1, June 30, 1976, 90 Stat. 793, providing for a temporary increase of $300,000,000,000 in the public debt limit for the period Apr. 1, 1977, to Sept. 30, 1977,was also repealed by Pub. L. 95–120, §2, Oct. 4, 1977, 91 Stat. 1090.
 
 Pub. L. 94–232, §1, Mar. 15, 1976, 90 Stat. 217, provided for a temporary increase of $227,000,000,000 for the period Mar. 15, 1976, to June 30, 1976.
 

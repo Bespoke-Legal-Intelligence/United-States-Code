@@ -17,3 +17,5 @@ Part B—Compensation
 - [&sect; 01850 - Compensation of registered nurses](%C2%A7%2001850%20-%20Compensation%20of%20registered%20nurses.md)
 - [&sect; 01851 - Gratuities for survivors of deceased employees](%C2%A7%2001851%20-%20Gratuities%20for%20survivors%20of%20deceased%20employees.md)
 - [&sect; 01852 - Withholding and remittance of State income tax](%C2%A7%2001852%20-%20Withholding%20and%20remittance%20of%20State%20income%20tax.md)
+- [&sect; 01853 - Exemption of officers and employees of Architect of Capitol from certain Federal pay provisions](%C2%A7%2001853%20-%20Exemption%20of%20officers%20and%20employees%20of%20Architect%20of%20Capitol%20from%20certain%20Federal%20pay%20provisions.md)
+- [&sect; 01854 - Overtime compensation for certain employees of Architect of Capitol](%C2%A7%2001854%20-%20Overtime%20compensation%20for%20certain%20employees%20of%20Architect%20of%20Capitol.md)

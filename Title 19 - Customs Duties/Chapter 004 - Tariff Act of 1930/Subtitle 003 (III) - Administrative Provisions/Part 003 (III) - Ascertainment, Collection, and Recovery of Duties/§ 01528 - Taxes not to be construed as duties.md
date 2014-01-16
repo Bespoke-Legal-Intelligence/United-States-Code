@@ -6,7 +6,7 @@ No tax or other charge imposed by or pursuant to any law of the United States sh
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
+<b>1982</b>—Pub. L. 97–164 substituted "Court of Appeals for the Federal Circuit" for "Court of Customs and Patent Appeals".
 
 <b>1980</b>—Pub. L. 96–417 redesignated the United States Customs Court as the United States Court of International Trade.
 

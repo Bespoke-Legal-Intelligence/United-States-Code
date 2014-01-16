@@ -4,15 +4,15 @@ As used in this subchapter—
 
 #### (1) Insurance
 
-&emsp;The term “insurance” means primary insurance, excess insurance, reinsurance, surplus lines insurance, and any other arrangement for shifting and distributing risk which is determined to be insurance under applicable State or Federal law.
+&emsp;The term "insurance" means primary insurance, excess insurance, reinsurance, surplus lines insurance, and any other arrangement for shifting and distributing risk which is determined to be insurance under applicable State or Federal law.
 
 #### (2) Pollution liability
 
-&emsp;The term “pollution liability” means liability for injuries arising from the release of hazardous substances or pollutants or contaminants.
+&emsp;The term "pollution liability" means liability for injuries arising from the release of hazardous substances or pollutants or contaminants.
 
 #### (3) Risk retention group
 
-&emsp;The term “risk retention group” means any corporation or other limited liability association taxable as a corporation, or as an insurance company, formed under the laws of any State—
+&emsp;The term "risk retention group" means any corporation or other limited liability association taxable as a corporation, or as an insurance company, formed under the laws of any State—
 
 &emsp;&emsp;(A) whose primary activity consists of assuming and spreading all, or any portion, of the pollution liability of its group members;
 
@@ -24,15 +24,15 @@ As used in this subchapter—
 
 #### (4) Purchasing group
 
-&emsp;The term “purchasing group” means any group of persons which has as one of its purposes the purchase of pollution liability insurance on a group basis.
+&emsp;The term "purchasing group" means any group of persons which has as one of its purposes the purchase of pollution liability insurance on a group basis.
 
 #### (5) State
 
-&emsp;The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Marianas, and any other territory or possession over which the United States has jurisdiction.
+&emsp;The term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Marianas, and any other territory or possession over which the United States has jurisdiction.
 
 (Pub. L. 96–510, title IV, §401, as added Pub. L. 99–499, title II, §210(a), formerly §210, Oct. 17, 1986, 100 Stat. 1716; renumbered §210(a), Pub. L. 99–563, §11(c)(1), Oct. 27, 1986, 100 Stat. 3177.)
 
 #### State Powers and Authorities Under Risk Retention Amendments of 1986
 
-Pub. L. 99–499, title II, §210(b), as added by Pub. L. 99–563, §11(c)(1), Oct. 27, 1986, 100 Stat. 3177, provided that: “For purposes of subsection (a) of this section \[enacting this subchapter\], the powers and authorities of States addressed by the Risk Retention Amendments of 1986 \[Pub. L. 99–563, see Short Title of 1986 Amendment note set out under section 3901 of Title 15, Commerce and Trade\] are in addition to those of this Act \[see Short Title of 1986 Amendment note set out under section 9601 of this title\].”
+Pub. L. 99–499, title II, §210(b), as added by Pub. L. 99–563, §11(c)(1), Oct. 27, 1986, 100 Stat. 3177, provided that: "For purposes of subsection (a) of this section \[enacting this subchapter\], the powers and authorities of States addressed by the Risk Retention Amendments of 1986 \[Pub. L. 99–563, see Short Title of 1986 Amendment note set out under section 3901 of Title 15, Commerce and Trade\] are in addition to those of this Act \[see Short Title of 1986 Amendment note set out under section 9601 of this title\]."
 

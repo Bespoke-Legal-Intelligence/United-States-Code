@@ -12,7 +12,7 @@
 
 #### (2) Qualified Gulf Opportunity Zone Bond
 
-&emsp;For purposes of this subsection, the term “qualified Gulf Opportunity Zone Bond” means any bond issued as part of an issue if—
+&emsp;For purposes of this subsection, the term "qualified Gulf Opportunity Zone Bond" means any bond issued as part of an issue if—
 
 &emsp;&emsp;(A)(i) 95 percent or more of the net proceeds (as defined in section 150(a)(3)) of such issue are to be used for qualified project costs, or
 
@@ -42,7 +42,7 @@
 
 #### (4) Qualified project costs
 
-&emsp;For purposes of this subsection, the term “qualified project costs” means—
+&emsp;For purposes of this subsection, the term "qualified project costs" means—
 
 &emsp;&emsp;(A) the cost of any qualified residential rental project (as defined in section 142(d)) located in the Gulf Opportunity Zone, and
 
@@ -58,11 +58,11 @@
 
 &emsp;&emsp;(A) Section 142(d)(1) (defining qualified residential rental project) shall be applied—
 
-&emsp;&emsp;&emsp;(i) by substituting “60 percent” for “50 percent” in subparagraph (A) thereof, and
+&emsp;&emsp;&emsp;(i) by substituting "60 percent" for "50 percent" in subparagraph (A) thereof, and
 
-&emsp;&emsp;&emsp;(ii) by substituting “70 percent” for “60 percent” in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;(ii) by substituting "70 percent" for "60 percent" in subparagraph (B) thereof.
 
-&emsp;&emsp;(B) Section 143 (relating to mortgage revenue bonds: qualified mortgage bond and qualified veterans’ mortgage bond) shall be applied—
+&emsp;&emsp;(B) Section 143 (relating to mortgage revenue bonds: qualified mortgage bond and qualified veterans' mortgage bond) shall be applied—
 
 &emsp;&emsp;&emsp;(i) only with respect to owner-occupied residences in the Gulf Opportunity Zone,
 
@@ -70,13 +70,13 @@
 
 &emsp;&emsp;&emsp;(iii) by applying subsection (f)(3) thereof without regard to subparagraph (A) thereof, and
 
-&emsp;&emsp;&emsp;(iv) by substituting “$150,000” for “$15,000” in subsection (k)(4) thereof.
+&emsp;&emsp;&emsp;(iv) by substituting "$150,000" for "$15,000" in subsection (k)(4) thereof.
 
 &emsp;&emsp;(C) Except as provided in section 143, repayments of principal on financing provided by the issue of which such bond is a part may not be used to provide financing.
 
 &emsp;&emsp;(D) Section 146 (relating to volume cap) shall not apply.
 
-&emsp;&emsp;(E) Section 147(d)(2) (relating to acquisition of existing property not permitted) shall be applied by substituting “50 percent” for “15 percent” each place it appears.
+&emsp;&emsp;(E) Section 147(d)(2) (relating to acquisition of existing property not permitted) shall be applied by substituting "50 percent" for "15 percent" each place it appears.
 
 &emsp;&emsp;(F) Section 148(f)(4)(C) (relating to exception from rebate for certain proceeds to be used to finance construction expenditures) shall apply to the available construction proceeds of bonds which are part of an issue described in paragraph (2)(A)(i).
 
@@ -94,7 +94,7 @@
 
 #### (B) Qualified Go Zone repair or reconstruction
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “qualified GO Zone repair or reconstruction” means any repair of damage caused by Hurricane Katrina, Hurricane Rita, or Hurricane Wilma to a building located in the Gulf Opportunity Zone, the Rita GO Zone, or the Wilma GO Zone (or reconstruction of such building in the case of damage constituting destruction) if the expenditures for such repair or reconstruction are 25 percent or more of the mortgagor's adjusted basis in the residence. For purposes of the preceding sentence, the mortgagor's adjusted basis shall be determined as of the completion of the repair or reconstruction or, if later, the date on which the mortgagor acquires the residence.
+&emsp;&emsp;For purposes of subparagraph (A), the term "qualified GO Zone repair or reconstruction" means any repair of damage caused by Hurricane Katrina, Hurricane Rita, or Hurricane Wilma to a building located in the Gulf Opportunity Zone, the Rita GO Zone, or the Wilma GO Zone (or reconstruction of such building in the case of damage constituting destruction) if the expenditures for such repair or reconstruction are 25 percent or more of the mortgagor's adjusted basis in the residence. For purposes of the preceding sentence, the mortgagor's adjusted basis shall be determined as of the completion of the repair or reconstruction or, if later, the date on which the mortgagor acquires the residence.
 
 #### (C) Termination
 
@@ -160,7 +160,7 @@
 
 #### (B) Gulf Opportunity housing amount
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “Gulf Opportunity housing amount” means, for any calendar year, the amount equal to the product of $18.00 multiplied by the portion of the State population which is in the Gulf Opportunity Zone (as determined on the basis of the most recent census estimate of resident population released by the Bureau of Census before August 28, 2005).
+&emsp;&emsp;For purposes of subparagraph (A), the term "Gulf Opportunity housing amount" means, for any calendar year, the amount equal to the product of $18.00 multiplied by the portion of the State population which is in the Gulf Opportunity Zone (as determined on the basis of the most recent census estimate of resident population released by the Bureau of Census before August 28, 2005).
 
 #### (C) Allocations treated as made first from additional allocation amount for purposes of determining carryover
 
@@ -198,7 +198,7 @@
 
 &emsp;&emsp;(C) in a nonmetropolitan area (as defined in section 42(d)(5)(C)(iv)(IV)),<sup>1</sup>
 
-> &emsp;section 42 shall be applied by substituting “national nonmetropolitan median gross income (determined under rules similar to the rules of section 142(d)(2)(B))” for “area median gross income” in subparagraphs (A) and (B) of section 42(g)(1).
+> &emsp;section 42 shall be applied by substituting "national nonmetropolitan median gross income (determined under rules similar to the rules of section 142(d)(2)(B))" for "area median gross income" in subparagraphs (A) and (B) of section 42(g)(1).
 
 #### (5) Time for making low-income housing credit allocations
 
@@ -228,7 +228,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified Gulf Opportunity Zone property” means property—
+&emsp;&emsp;The term "qualified Gulf Opportunity Zone property" means property—
 
 &emsp;&emsp;&emsp;(i)(I) which is described in section 168(k)(2)(A)(i), or
 
@@ -264,11 +264,11 @@
 
 &emsp;For purposes of this subsection, rules similar to the rules of subparagraph (E) of section 168(k)(2) shall apply, except that such subparagraph shall be applied—
 
-&emsp;&emsp;(A) by substituting “August 27, 2005” for “December 31, 2007” each place it appears therein,
+&emsp;&emsp;(A) by substituting "August 27, 2005" for "December 31, 2007" each place it appears therein,
 
-&emsp;&emsp;(B) without regard to “and before January 1, 2014” in clause (i) thereof, and
+&emsp;&emsp;(B) without regard to "and before January 1, 2014" in clause (i) thereof, and
 
-&emsp;&emsp;(C) by substituting “qualified Gulf Opportunity Zone property” for “qualified property” in clause (iv) thereof.
+&emsp;&emsp;(C) by substituting "qualified Gulf Opportunity Zone property" for "qualified property" in clause (iv) thereof.
 
 #### (4) Allowance against alternative minimum tax
 
@@ -286,7 +286,7 @@
 
 #### (B) Specified Gulf Opportunity Zone extension property
 
-&emsp;&emsp;For purposes of this paragraph, the term “specified Gulf Opportunity Zone extension property” means property—
+&emsp;&emsp;For purposes of this paragraph, the term "specified Gulf Opportunity Zone extension property" means property—
 
 &emsp;&emsp;&emsp;(i) substantially all of the use of which is in one or more specified portions of the GO Zone, and
 
@@ -298,7 +298,7 @@
 
 #### (C) Specified portions of the GO Zone
 
-&emsp;&emsp;For purposes of this paragraph, the term “specified portions of the GO Zone” means those portions of the GO Zone which are in any county or parish which is identified by the Secretary as being a county or parish in which hurricanes occurring during 2005 damaged (in the aggregate) more than 60 percent of the housing units in such county or parish which were occupied (determined according to the 2000 Census).
+&emsp;&emsp;For purposes of this paragraph, the term "specified portions of the GO Zone" means those portions of the GO Zone which are in any county or parish which is identified by the Secretary as being a county or parish in which hurricanes occurring during 2005 damaged (in the aggregate) more than 60 percent of the housing units in such county or parish which were occupied (determined according to the 2000 Census).
 
 #### (D) Only pre-January 1, 2012, basis of real property eligible for additional allowance
 
@@ -306,7 +306,7 @@
 
 #### (E) Exception for bonus depreciation property under section 168(k)
 
-&emsp;&emsp;The term “specified Gulf Opportunity Zone extension property” shall not include any property to which section 168(k) applies.
+&emsp;&emsp;The term "specified Gulf Opportunity Zone extension property" shall not include any property to which section 168(k) applies.
 
 #### (e) Increase in expensing under section 179
 
@@ -332,7 +332,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified section 179 Gulf Opportunity Zone property” means section 179 property (as defined in section 179(d)) which is qualified Gulf Opportunity Zone property (as defined in subsection (d)(2) without regard to subsection (d)(6)).
+&emsp;&emsp;The term "qualified section 179 Gulf Opportunity Zone property" means section 179 property (as defined in section 179(d)) which is qualified Gulf Opportunity Zone property (as defined in subsection (d)(2) without regard to subsection (d)(6)).
 
 #### (B) Extension for certain property
 
@@ -340,7 +340,7 @@
 
 &emsp;&emsp;&emsp;(i) without regard to subsection (d)(6), and
 
-&emsp;&emsp;&emsp;(ii) by substituting “2008” for “2007” in subparagraph (A)(v) thereof.
+&emsp;&emsp;&emsp;(ii) by substituting "2008" for "2007" in subparagraph (A)(v) thereof.
 
 #### (3) Coordination with empowerment zones and renewal communities
 
@@ -358,7 +358,7 @@
 
 #### (2) Qualified Gulf Opportunity Zone clean-up cost
 
-&emsp;For purposes of this subsection, the term “qualified Gulf Opportunity Zone clean-up cost” means any amount paid or incurred during the period beginning on August 28, 2005, and ending on December 31, 2007, for the removal of debris from, or the demolition of structures on, real property which is located in the Gulf Opportunity Zone and which is—
+&emsp;For purposes of this subsection, the term "qualified Gulf Opportunity Zone clean-up cost" means any amount paid or incurred during the period beginning on August 28, 2005, and ending on December 31, 2007, for the removal of debris from, or the demolition of structures on, real property which is located in the Gulf Opportunity Zone and which is—
 
 &emsp;&emsp;(A) held by the taxpayer for use in a trade or business or for the production of income, or
 
@@ -370,7 +370,7 @@
 
 With respect to any qualified environmental remediation expenditure (as defined in section 198(b)) paid or incurred on or after August 28, 2005, in connection with a qualified contaminated site located in the Gulf Opportunity Zone, section 198 (relating to expensing of environmental remediation costs) shall be applied—
 
-&emsp;(1) in the case of expenditures paid or incurred on or after August 28, 2005, and before January 1, 2008, by substituting “December 31, 2007” for the date contained in section 198(h), and
+&emsp;(1) in the case of expenditures paid or incurred on or after August 28, 2005, and before January 1, 2008, by substituting "December 31, 2007" for the date contained in section 198(h), and
 
 &emsp;(2) except as provided in section 198(d)(2), by treating petroleum products (as defined in section 4612(a)(3)) as a hazardous substance.
 
@@ -378,9 +378,9 @@ With respect to any qualified environmental remediation expenditure (as defined 
 
 In the case of qualified rehabilitation expenditures (as defined in section 47(c)) paid or incurred during the period beginning on August 28, 2005, and ending on December 31, 2011, with respect to any qualified rehabilitated building or certified historic structure (as defined in section 47(c)) located in the Gulf Opportunity Zone, subsection (a) of section 47 (relating to rehabilitation credit) shall be applied—
 
-&emsp;(1) by substituting “13 percent” for “10 percent” in paragraph (1) thereof, and
+&emsp;(1) by substituting "13 percent" for "10 percent" in paragraph (1) thereof, and
 
-&emsp;(2) by substituting “26 percent” for “20 percent” in paragraph (2) thereof.
+&emsp;(2) by substituting "26 percent" for "20 percent" in paragraph (2) thereof.
 
 #### (i) Special rules for small timber producers
 
@@ -432,7 +432,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “specified portion” means—
+&emsp;&emsp;&emsp;The term "specified portion" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of qualified timber property any portion of which is located in the Gulf Opportunity Zone, that portion of the taxable year which is on or after August 28, 2005, and before the termination date,
 
@@ -442,7 +442,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (ii) Termination date
 
-&emsp;&emsp;&emsp;The term “termination date” means—
+&emsp;&emsp;&emsp;The term "termination date" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) for purposes of paragraph (1), January 1, 2008, and
 
@@ -450,7 +450,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (B) Qualified timber property
 
-&emsp;&emsp;The term “qualified timber property” has the meaning given such term in section 194(c)(1).
+&emsp;&emsp;The term "qualified timber property" has the meaning given such term in section 194(c)(1).
 
 #### (j) Special rule for Gulf Opportunity Zone public utility casualty losses
 
@@ -460,7 +460,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (2) Gulf Opportunity Zone public utility casualty loss
 
-&emsp;For purposes of this subsection, the term “Gulf Opportunity Zone public utility casualty loss” means any casualty loss of public utility property (as defined in section 168(i)(10)) located in the Gulf Opportunity Zone if—
+&emsp;For purposes of this subsection, the term "Gulf Opportunity Zone public utility casualty loss" means any casualty loss of public utility property (as defined in section 168(i)(10)) located in the Gulf Opportunity Zone if—
 
 &emsp;&emsp;(A) such loss is allowed as a deduction under section 165 for the taxable year,
 
@@ -490,7 +490,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 &emsp;&emsp;Section 172(b)(1) shall be applied with respect to such portion—
 
-&emsp;&emsp;&emsp;(i) by substituting “5 taxable years” for “2 taxable years” in subparagraph (A)(i), and
+&emsp;&emsp;&emsp;(i) by substituting "5 taxable years" for "2 taxable years" in subparagraph (A)(i), and
 
 &emsp;&emsp;&emsp;(ii) by not taking such portion into account in determining any eligible loss of the taxpayer under subparagraph (F) thereof for the taxable year.
 
@@ -500,7 +500,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (2) Qualified Gulf Opportunity Zone loss
 
-&emsp;For purposes of paragraph (1), the term “qualified Gulf Opportunity Zone loss” means the lesser of—
+&emsp;For purposes of paragraph (1), the term "qualified Gulf Opportunity Zone loss" means the lesser of—
 
 &emsp;&emsp;(A) the excess of—
 
@@ -520,7 +520,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 &emsp;&emsp;&emsp;&emsp;(III) whose principal place of employment with the taxpayer after such expense is located in the Gulf Opportunity Zone.
 
-&emsp;&emsp;&nbsp;For purposes of this clause, the term “moving expenses” has the meaning given such term by section 217(b), except that the taxpayer's former residence and new residence may be the same residence if the initial vacating of the residence was as the result of Hurricane Katrina.
+&emsp;&emsp;&nbsp;For purposes of this clause, the term "moving expenses" has the meaning given such term by section 217(b), except that the taxpayer's former residence and new residence may be the same residence if the initial vacating of the residence was as the result of Hurricane Katrina.
 
 &emsp;&emsp;&emsp;(iii) Any deduction allowable under this chapter for expenses paid or incurred after August 27, 2005, and before January 1, 2008, to temporarily house any employee of the taxpayer whose principal place of employment is in the Gulf Opportunity Zone.
 
@@ -532,7 +532,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (2)(B)(i), the term “qualified Gulf Opportunity Zone casualty loss” means any uncompensated section 1231 loss (as defined in section 1231(a)(3)(B)) of property located in the Gulf Opportunity Zone if—
+&emsp;&emsp;For purposes of paragraph (2)(B)(i), the term "qualified Gulf Opportunity Zone casualty loss" means any uncompensated section 1231 loss (as defined in section 1231(a)(3)(B)) of property located in the Gulf Opportunity Zone if—
 
 &emsp;&emsp;&emsp;(i) such loss is allowed as a deduction under section 165 for the taxable year, and
 
@@ -576,7 +576,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (D) Credit allowance date
 
-&emsp;&emsp;For purposes of this subsection, the term “credit allowance date” means March 15, June 15, September 15, and December 15. Such term also includes the last day on which the bond is outstanding.
+&emsp;&emsp;For purposes of this subsection, the term "credit allowance date" means March 15, June 15, September 15, and December 15. Such term also includes the last day on which the bond is outstanding.
 
 #### (E) Special rule for issuance and redemption
 
@@ -596,7 +596,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (A) In general
 
-&emsp;&emsp;The term “Gulf tax credit bond” means any bond issued as part of an issue if—
+&emsp;&emsp;The term "Gulf tax credit bond" means any bond issued as part of an issue if—
 
 &emsp;&emsp;&emsp;(i) the bond is issued by the State of Alabama, Louisiana, or Mississippi,
 
@@ -644,7 +644,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified bond” means any obligation of a State or political subdivision thereof which was outstanding on August 28, 2005.
+&emsp;&emsp;The term "qualified bond" means any obligation of a State or political subdivision thereof which was outstanding on August 28, 2005.
 
 #### (B) Exception for private activity bonds
 
@@ -668,7 +668,7 @@ In the case of qualified rehabilitation expenditures (as defined in section 47(c
 
 #### (A) Bond
 
-&emsp;&emsp;The term “bond” includes any obligation.
+&emsp;&emsp;The term "bond" includes any obligation.
 
 #### (B) Partnership; S corporation; and other pass-thru entities
 
@@ -716,7 +716,7 @@ For purposes of determining if any residential rental project meets the requirem
 
 &emsp;Upon the election of the taxpayer, in the case of any eligible public utility property loss—
 
-&emsp;&emsp;(A) section 165(i) shall be applied by substituting “the fifth taxable year immediately preceding” for “the taxable year immediately preceding”,
+&emsp;&emsp;(A) section 165(i) shall be applied by substituting "the fifth taxable year immediately preceding" for "the taxable year immediately preceding",
 
 &emsp;&emsp;(B) an application for a tentative carryback adjustment of the tax for any prior taxable year affected by the application of subparagraph (A) may be made under section 6411, and
 
@@ -728,11 +728,11 @@ For purposes of determining if any residential rental project meets the requirem
 
 #### (A) In general
 
-&emsp;&emsp;The term “eligible public utility property loss” means any loss with respect to public utility property located in the Gulf Opportunity Zone and attributable to Hurricane Katrina.
+&emsp;&emsp;The term "eligible public utility property loss" means any loss with respect to public utility property located in the Gulf Opportunity Zone and attributable to Hurricane Katrina.
 
 #### (B) Public utility property
 
-&emsp;&emsp;The term “public utility property” has the meaning given such term by section 168(i)(10) without regard to the matter following subparagraph (D) thereof.
+&emsp;&emsp;The term "public utility property" has the meaning given such term by section 168(i)(10) without regard to the matter following subparagraph (D) thereof.
 
 #### (3) Waiver of limitations
 
@@ -742,11 +742,11 @@ For purposes of determining if any residential rental project meets the requirem
 
 #### (1) Qualified Gulf Opportunity Zone property
 
-&emsp;For purposes of subsections (d), (e), and (k)(2)(B)(iv), the term “qualified Gulf Opportunity Zone property” shall not include any property described in paragraph (3).
+&emsp;For purposes of subsections (d), (e), and (k)(2)(B)(iv), the term "qualified Gulf Opportunity Zone property" shall not include any property described in paragraph (3).
 
 #### (2) Qualified Gulf Opportunity Zone casualty losses
 
-&emsp;For purposes of subsection (k)(2)(B)(i), the term “qualified Gulf Opportunity Zone casualty loss” shall not include any loss with respect to any property described in paragraph (3).
+&emsp;For purposes of subsection (k)(2)(B)(i), the term "qualified Gulf Opportunity Zone casualty loss" shall not include any loss with respect to any property described in paragraph (3).
 
 #### (3) Property described
 
@@ -764,7 +764,7 @@ For purposes of determining if any residential rental project meets the requirem
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “gambling or animal racing property” means—
+&emsp;&emsp;&emsp;The term "gambling or animal racing property" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) any equipment, furniture, software, or other property used directly in connection with gambling, the racing of animals, or the on-site viewing of such racing, and
 
@@ -798,45 +798,45 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2013</b>—Subsec. (d)(3)(B). Pub. L. 112–240 substituted “January 1, 2014” for “January 1, 2013”.
+<b>2013</b>—Subsec. (d)(3)(B). Pub. L. 112–240 substituted "January 1, 2014" for "January 1, 2013".
 
-<b>2010</b>—Subsec. (a)(2)(D), (7)(C). Pub. L. 111–312, §764(a), substituted “January 1, 2012” for “January 1, 2011”.
+<b>2010</b>—Subsec. (a)(2)(D), (7)(C). Pub. L. 111–312, §764(a), substituted "January 1, 2012" for "January 1, 2011".
 
-Subsec. (c)(5). Pub. L. 111–312, §763, substituted “January 1, 2012” for “January 1, 2011”.
+Subsec. (c)(5). Pub. L. 111–312, §763, substituted "January 1, 2012" for "January 1, 2011".
 
-Subsec. (d)(3)(B). Pub. L. 111–312, §401(d)(7), substituted “January 1, 2013” for “January 1, 2011”.
+Subsec. (d)(3)(B). Pub. L. 111–312, §401(d)(7), substituted "January 1, 2013" for "January 1, 2011".
 
-Pub. L. 111–240 substituted “January 1, 2011” for “January 1, 2010”.
+Pub. L. 111–240 substituted "January 1, 2011" for "January 1, 2010".
 
-Subsec. (d)(6)(B)(ii). Pub. L. 111–312, §765(a)(1), substituted “December 31, 2011” for “December 31, 2010” in subcls. (I) and (II).
+Subsec. (d)(6)(B)(ii). Pub. L. 111–312, §765(a)(1), substituted "December 31, 2011" for "December 31, 2010" in subcls. (I) and (II).
 
-Subsec. (d)(6)(D). Pub. L. 111–312, §765(a)(2), substituted “January 1, 2012” for “January 1, 2010” in heading and text.
+Subsec. (d)(6)(D). Pub. L. 111–312, §765(a)(2), substituted "January 1, 2012" for "January 1, 2010" in heading and text.
 
-Subsec. (h). Pub. L. 111–312, §762(a), substituted “December 31, 2011” for “December 31, 2009” in introductory provisions.
+Subsec. (h). Pub. L. 111–312, §762(a), substituted "December 31, 2011" for "December 31, 2009" in introductory provisions.
 
-<b>2009</b>—Subsec. (d)(3)(B). Pub. L. 111–5, §1201(a)(2)(E), substituted “January 1, 2010” for “January 1, 2009”.
+<b>2009</b>—Subsec. (d)(3)(B). Pub. L. 111–5, §1201(a)(2)(E), substituted "January 1, 2010" for "January 1, 2009".
 
-Subsec. (l)(3)(B). Pub. L. 111–5, §1531(c)(3), substituted “, I, and J” for “and I”.
+Subsec. (l)(3)(B). Pub. L. 111–5, §1531(c)(3), substituted ", I, and J" for "and I".
 
 <b>2008</b>—Subsec. (a)(8). Pub. L. 110–289, §3082(c)(1), added par. (8).
 
-Subsec. (d)(3)(A). Pub. L. 110–185, §103(c)(9)(A), substituted “December 31, 2007” for “September 10, 2001”.
+Subsec. (d)(3)(A). Pub. L. 110–185, §103(c)(9)(A), substituted "December 31, 2007" for "September 10, 2001".
 
-Subsec. (d)(3)(B). Pub. L. 110–289, §3082(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “by substituting ‘January 1, 2008’ for ‘January 1, 2009’ in clause (i) thereof, and”.
+Subsec. (d)(3)(B). Pub. L. 110–289, §3082(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "by substituting 'January 1, 2008' for 'January 1, 2009' in clause (i) thereof, and".
 
-Pub. L. 110–185, §103(c)(9)(B), substituted “January 1, 2009” for “January 1, 2005”.
+Pub. L. 110–185, §103(c)(9)(B), substituted "January 1, 2009" for "January 1, 2005".
 
 Subsec. (d)(6)(E). Pub. L. 110–185, §103(c)(10), added subpar. (E).
 
-Subsec. (h). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2008” in introductory provisions.
+Subsec. (h). Pub. L. 110–343 substituted "December 31, 2009" for "December 31, 2008" in introductory provisions.
 
-Subsec. (l)(3)(B). Pub. L. 110–246, §15316(c)(1), substituted “subparts C and I” for “subpart C”.
+Subsec. (l)(3)(B). Pub. L. 110–246, §15316(c)(1), substituted "subparts C and I" for "subpart C".
 
 <b>2007</b>—Subsec. (a)(7). Pub. L. 110–28, §8223, added par. (7).
 
-Subsec. (c)(3)(A). Pub. L. 110–28, §8222(b)(1), substituted “the period beginning on January 1, 2006, and ending on December 31, 2010” for “2006, 2007, or 2008”.
+Subsec. (c)(3)(A). Pub. L. 110–28, §8222(b)(1), substituted "the period beginning on January 1, 2006, and ending on December 31, 2010" for "2006, 2007, or 2008".
 
-Subsec. (c)(3)(B)(ii). Pub. L. 110–28, §8222(b)(2), substituted “the period described in subparagraph (A)” for “such period”.
+Subsec. (c)(3)(B)(ii). Pub. L. 110–28, §8222(b)(2), substituted "the period described in subparagraph (A)" for "such period".
 
 Subsec. (c)(5). Pub. L. 110–28, §8222(a), added par. (5). Former par. (5) redesignated (6).
 
@@ -846,13 +846,13 @@ Pub. L. 110–28, §8222(a), redesignated par. (5) as (6).
 
 Subsec. (c)(7). Pub. L. 110–28, §8222(c), redesignated par. (6) as (7).
 
-Subsec. (e)(2). Pub. L. 110–28, §8221, substituted “this subsection—”, subpar. (A) heading, and “The term” for “this subsection, the term” and added subpar. (B).
+Subsec. (e)(2). Pub. L. 110–28, §8221, substituted "this subsection—", subpar. (A) heading, and "The term" for "this subsection, the term" and added subpar. (B).
 
 <b>2006</b>—Subsec. (d)(6). Pub. L. 109–432, §120(a), added par. (6).
 
-Subsec. (e)(2). Pub. L. 109–432, §120(b), inserted “without regard to subsection (d)(6)” after “subsection (d)(2)”.
+Subsec. (e)(2). Pub. L. 109–432, §120(b), inserted "without regard to subsection (d)(6)" after "subsection (d)(2)".
 
-Subsec. (l)(7)(B)(ii). Pub. L. 109–432, §107(b)(2), substituted “1397E(l)” for “1397E(i)”.
+Subsec. (l)(7)(B)(ii). Pub. L. 109–432, §107(b)(2), substituted "1397E(l)" for "1397E(i)".
 
 #### Effective Date of 2013 Amendment
 
@@ -862,9 +862,9 @@ Amendment by Pub. L. 112–240 applicable to property placed in service after De
 
 Amendment by section 401(d)(7) of Pub. L. 111–312 applicable to property placed in service after Dec. 31, 2010, in taxable years ending after such date, see section 401(e)(1) of Pub. L. 111–312, set out as a note under section 168 of this title.
 
-Pub. L. 111–312, title VII, §762(b), Dec. 17, 2010, 124 Stat. 3323, provided that: “The amendment made by this section \[amending this section\] shall apply to amounts paid or incurred after December 31, 2009.”
+Pub. L. 111–312, title VII, §762(b), Dec. 17, 2010, 124 Stat. 3323, provided that: "The amendment made by this section \[amending this section\] shall apply to amounts paid or incurred after December 31, 2009."
 
-Pub. L. 111–312, title VII, §765(b), Dec. 17, 2010, 124 Stat. 3324, provided that: “The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2009.”
+Pub. L. 111–312, title VII, §765(b), Dec. 17, 2010, 124 Stat. 3324, provided that: "The amendment made by this section \[amending this section\] shall apply to property placed in service after December 31, 2009."
 
 Amendment by Pub. L. 111–240 applicable to property placed in service after Dec. 31, 2009, in taxable years ending after such date, see section 2022(c) of Pub. L. 111–240, set out as a note under section 168 of this title.
 
@@ -876,11 +876,11 @@ Amendment by section 1531(c)(3) of Pub. L. 111–5 applicable to obligations iss
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. C, title III, §320(b), Oct. 3, 2008, 122 Stat. 3873, provided that: “The amendment made by this section \[amending this section\] shall apply to expenditures paid or incurred after the date of the enactment of this Act \[Oct. 3, 2008\].”
+Pub. L. 110–343, div. C, title III, §320(b), Oct. 3, 2008, 122 Stat. 3873, provided that: "The amendment made by this section \[amending this section\] shall apply to expenditures paid or incurred after the date of the enactment of this Act \[Oct. 3, 2008\]."
 
-Pub. L. 110–289, div. C, title III, §3082(b)(2), July 30, 2008, 122 Stat. 2907, provided that: “The amendment made by this subsection \[amending this section\] shall apply to property placed in service after December 31, 2007.”
+Pub. L. 110–289, div. C, title III, §3082(b)(2), July 30, 2008, 122 Stat. 2907, provided that: "The amendment made by this subsection \[amending this section\] shall apply to property placed in service after December 31, 2007."
 
-Pub. L. 110–289, div. C, title III, §3082(c)(2), July 30, 2008, 122 Stat. 2908, provided that: ‘The amendment made by this subsection \[amending this section\] shall take effect as if included in the provisions of the Gulf Opportunity Zone Act of 2005 \[Pub. L. 109–135\] to which it relates.”
+Pub. L. 110–289, div. C, title III, §3082(c)(2), July 30, 2008, 122 Stat. 2908, provided that: 'The amendment made by this subsection \[amending this section\] shall take effect as if included in the provisions of the Gulf Opportunity Zone Act of 2005 \[Pub. L. 109–135\] to which it relates."
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
@@ -892,19 +892,19 @@ Amendment by Pub. L. 110–185 applicable to property placed in service after De
 
 Amendment by section 107(b)(2) of Pub. L. 109–432 applicable to obligations issued after Dec. 20, 2006, pursuant to allocations of the national zone academy bond limitation for calendar years after 2005, see section 107(c) of Pub. L. 109–432, set out as a note under section 1397E of this title.
 
-Pub. L. 109–432, div. A, title I, §120(c), Dec. 20, 2006, 120 Stat. 2943, provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in section 101 of the Gulf Opportunity Zone Act of 2005 \[Pub. L. 109–135\].”
+Pub. L. 109–432, div. A, title I, §120(c), Dec. 20, 2006, 120 Stat. 2943, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in section 101 of the Gulf Opportunity Zone Act of 2005 \[Pub. L. 109–135\]."
 
 #### Effective Date
 
 Pub. L. 109–135, title I, §101(c), Dec. 21, 2005, 119 Stat. 2593, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and section 1400M of this title and amending sections 54 and 6049 of this title\] shall apply to taxable years ending on or after August 28, 2005.
 
-“(2)
+"(2)
 
-Carrybacks.—Subsections (i)(2), (j), and (k) of section 1400N of the Internal Revenue Code of 1986 (as added by this section) shall apply to losses arising in such taxable years.”
+Carrybacks.—Subsections (i)(2), (j), and (k) of section 1400N of the Internal Revenue Code of 1986 (as added by this section) shall apply to losses arising in such taxable years."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

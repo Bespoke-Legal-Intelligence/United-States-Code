@@ -72,51 +72,51 @@ Reserve Officers Employed as Military Technician (dual Status).—A reserve offi
 
 <b>2011</b>—Subsec. (i). Pub. L. 112–81 added subsec. (i).
 
-<b>2002</b>—Subsec. (g). Pub. L. 107–314 amended subsec. (g) generally. Prior to amendment, text read as follows: “A reserve component brigadier general of the Army or the Air Force who is in an inactive status is eligible (notwithstanding subsection (a)) for consideration for promotion to major general by a promotion board convened under section 14101(a) of this title if the officer—
+<b>2002</b>—Subsec. (g). Pub. L. 107–314 amended subsec. (g) generally. Prior to amendment, text read as follows: "A reserve component brigadier general of the Army or the Air Force who is in an inactive status is eligible (notwithstanding subsection (a)) for consideration for promotion to major general by a promotion board convened under section 14101(a) of this title if the officer—
 
-&emsp;“(1) has been in an inactive status for less than one year as of the date of the convening of the promotion board; and
+&emsp;"(1) has been in an inactive status for less than one year as of the date of the convening of the promotion board; and
 
-&emsp;“(2) had continuously served for at least one year on the reserve active status list or the active duty list (or a combination of both) immediately before the officer's most recent transfer to an inactive status.”
+&emsp;"(2) had continuously served for at least one year on the reserve active status list or the active duty list (or a combination of both) immediately before the officer's most recent transfer to an inactive status."
 
 <b>2001</b>—Subsec. (c)(5). Pub. L. 107–107 added par. (5).
 
-<b>1999</b>—Subsec. (g)(1), (2). Pub. L. 106–65, §1066(a)(32), substituted “one year” for “1 year”.
+<b>1999</b>—Subsec. (g)(1), (2). Pub. L. 106–65, §1066(a)(32), substituted "one year" for "1 year".
 
 Subsec. (h). Pub. L. 106–65, §513(a), added subsec. (h).
 
 <b>1998</b>—Subsec. (g). Pub. L. 105–261 added subsec. (g).
 
-<b>1997</b>—Subsec. (c). Pub. L. 105–85, §503(b)(1), substituted “grade any of the following officers:” for “grade—” in introductory provisions.
+<b>1997</b>—Subsec. (c). Pub. L. 105–85, §503(b)(1), substituted "grade any of the following officers:" for "grade—" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 105–85, §503(b)(2), (3), substituted “An officer” for “an officer” and “title.” for “title;”.
+Subsec. (c)(1). Pub. L. 105–85, §503(b)(2), (3), substituted "An officer" for "an officer" and "title." for "title;".
 
 Subsec. (c)(2). Pub. L. 105–85, §503(b)(6), added par. (2). Former par. (2) redesignated (3).
 
-Pub. L. 105–85, §503(b)(2), (4), substituted “An officer” for “an officer” and “be.” for “be; or”.
+Pub. L. 105–85, §503(b)(2), (4), substituted "An officer" for "an officer" and "be." for "be; or".
 
-Subsec. (c)(3). Pub. L. 105–85, §503(c), inserted “, if that nomination is pending before the Senate” before period at end.
+Subsec. (c)(3). Pub. L. 105–85, §503(c), inserted ", if that nomination is pending before the Senate" before period at end.
 
-Pub. L. 105–85, §503(b)(5), redesignated par. (2) as (3) and substituted “that grade” for “the next higher grade”. Former par. (3) redesignated (4).
+Pub. L. 105–85, §503(b)(5), redesignated par. (2) as (3) and substituted "that grade" for "the next higher grade". Former par. (3) redesignated (4).
 
-Pub. L. 105–85, §503(b)(2), substituted “An officer” for “an officer”.
+Pub. L. 105–85, §503(b)(2), substituted "An officer" for "an officer".
 
-Subsec. (c)(4). Pub. L. 105–85, §503(c), inserted “, if that nomination is pending before the Senate” before period at end.
+Subsec. (c)(4). Pub. L. 105–85, §503(c), inserted ", if that nomination is pending before the Senate" before period at end.
 
-Pub. L. 105–85, §503(b)(5), redesignated par. (3) as (4) and substituted “that grade” for “the next higher grade”.
+Pub. L. 105–85, §503(b)(5), redesignated par. (3) as (4) and substituted "that grade" for "the next higher grade".
 
 Subsecs. (e) to (g). Pub. L. 105–85, §514(b), redesignated subsecs. (f) and (g) as (e) and (f), respectively, and struck out former subsec. (e) which read as follows:
 
-“(e)
+"(e)
 
-Reserve Officers of the Army; Consideration for Brigadier General and Major General.—In the case of officers of the Army, if the Secretary of the Army determines that vacancies are authorized or anticipated in the reserve grades of major general or brigadier general for officers who are on the reserve active-status list and who are not assigned to units organized to serve as a unit and the Secretary convenes a mandatory promotion board under section 14101(a) of this title to consider officers for promotion to fill such vacancies, the Secretary may limit the officers to be considered by that board to those determined to be exceptionally well qualified for promotion under such criteria and procedures as the Secretary may by regulation prescribe.”
+Reserve Officers of the Army; Consideration for Brigadier General and Major General.—In the case of officers of the Army, if the Secretary of the Army determines that vacancies are authorized or anticipated in the reserve grades of major general or brigadier general for officers who are on the reserve active-status list and who are not assigned to units organized to serve as a unit and the Secretary convenes a mandatory promotion board under section 14101(a) of this title to consider officers for promotion to fill such vacancies, the Secretary may limit the officers to be considered by that board to those determined to be exceptionally well qualified for promotion under such criteria and procedures as the Secretary may by regulation prescribe."
 
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–65, div. A, title V, §513(b), Oct. 5, 1999, 113 Stat. 593, provided that:
 
-“(1) Subsection (h) of section 14301 of title 10, United States Code (as added by subsection (a)), shall apply with respect to boards convened under section 14101(a) of such title before, on, or after the date of the enactment of this Act \[Oct. 5, 1999\].
+"(1) Subsection (h) of section 14301 of title 10, United States Code (as added by subsection (a)), shall apply with respect to boards convened under section 14101(a) of such title before, on, or after the date of the enactment of this Act \[Oct. 5, 1999\].
 
-“(2) The Secretary of the military department concerned, upon receipt of request submitted in a form and manner prescribed by the Secretary, shall expunge from the military records of an officer any indication of a failure of selection of the officer for promotion by a board referred to in paragraph (1) while the officer was ineligible for consideration by that board by reason of section 14301(h) of title 10, United States Code.”
+"(2) The Secretary of the military department concerned, upon receipt of request submitted in a form and manner prescribed by the Secretary, shall expunge from the military records of an officer any indication of a failure of selection of the officer for promotion by a board referred to in paragraph (1) while the officer was ineligible for consideration by that board by reason of section 14301(h) of title 10, United States Code."
 
 #### Effective Date of 1997 Amendment
 

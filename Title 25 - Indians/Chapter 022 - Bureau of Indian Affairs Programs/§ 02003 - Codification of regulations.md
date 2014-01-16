@@ -6,7 +6,7 @@ The provisions of part 32 of title 25, Code of Federal Regulations, as in effect
 
 #### (b) Definition of regulation
 
-In this section, the term “regulation” means any rule, regulation, guideline, interpretation, order, or requirement of general applicability prescribed by any officer or employee of the executive branch.
+In this section, the term "regulation" means any rule, regulation, guideline, interpretation, order, or requirement of general applicability prescribed by any officer or employee of the executive branch.
 
 (Pub. L. 95–561, title XI, §1123, as added Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2019.)
 
@@ -16,7 +16,7 @@ This Act, referred to in subsec. (a), means Pub. L. 95–561, Nov. 1, 1978, 92 S
 
 #### Prior Provisions
 
-A prior section 2003, Pub. L. 95–561, title XI, §1123, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3985, related to the incorporation of regulations into, or the application of regulations to, Pub. L. 95–561, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2003, Pub. L. 95–561, title XI, §1123, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108Stat. 3985, related to the incorporation of regulations into, or the application of regulations to, Pub. L. 95–561, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2003, Pub. L. 95–561, title XI, §1123, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 100–297, title V, §5106, Apr. 28, 1988, 102 Stat. 367, related to the incorporation of regulations into, or the application of regulations to, Pub. L. 95–561, prior to the general amendment of this chapter by Pub. L. 103–382.
 

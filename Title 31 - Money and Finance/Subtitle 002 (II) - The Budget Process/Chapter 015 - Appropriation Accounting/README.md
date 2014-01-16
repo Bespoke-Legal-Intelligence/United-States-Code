@@ -57,11 +57,11 @@
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–106, div. E, title LV, §5502(c), Feb. 10, 1996, 110 Stat. 699, substituted “of a formal protest or other challenge” for “of a protest” in item 1558.
+<b>1996</b>—Pub. L. 104–106, div. E, title LV, §5502(c), Feb. 10, 1996, 110 Stat. 699, substituted "of a formal protest or other challenge" for "of a protest" in item 1558.
 
-<b>1992</b>—Pub. L. 102–484, div. A, title X, §1054(e)(1), Oct. 23, 1992, 106 Stat. 2503, substituted “Definitions; applicability of subchapter” for “Definitions and application” in item 1551 and “Procedure for appropriation accounts available for definite periods” for “Audit, control, and reporting” in item 1552.
+<b>1992</b>—Pub. L. 102–484, div. A, title X, §1054(e)(1), Oct. 23, 1992, 106 Stat. 2503, substituted "Definitions; applicability of subchapter" for "Definitions and application" in item 1551 and "Procedure for appropriation accounts available for definite periods" for "Audit, control, and reporting" in item 1552.
 
-<b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1405(a)(2), Nov. 5, 1990, 104 Stat. 1679, substituted “Audit, control, and reporting” for “Procedure for appropriation accounts available for definite periods” in item 1552 and for “Review of appropriation accounts” in item 1554, “Closing of appropriation accounts available” for “Withdrawal of unobligated balances of appropriations” in item 1555, “General: reports” for “General reports” in item 1556, and “Authority for exemptions in appropriation laws” for “Authorization to exempt” in item 1557.
+<b>1990</b>—Pub. L. 101–510, div. A, title XIV, §1405(a)(2), Nov. 5, 1990, 104 Stat. 1679, substituted "Audit, control, and reporting" for "Procedure for appropriation accounts available for definite periods" in item 1552 and for "Review of appropriation accounts" in item 1554, "Closing of appropriation accounts available" for "Withdrawal of unobligated balances of appropriations" in item 1555, "General: reports" for "General reports" in item 1556, and "Authority for exemptions in appropriation laws" for "Authorization to exempt" in item 1557.
 
 <b>1989</b>—Pub. L. 101–189, div. A, title VIII, §813(b), Nov. 29, 1989, 103 Stat. 1494, added item 1558.
 

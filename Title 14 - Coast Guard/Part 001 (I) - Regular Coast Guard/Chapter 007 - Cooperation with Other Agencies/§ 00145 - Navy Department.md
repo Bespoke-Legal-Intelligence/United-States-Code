@@ -12,13 +12,13 @@
 
 (b) Officers and enlisted men of the Coast Guard shall be permitted to purchase quartermaster supplies from the Navy and the Marine Corps at the same price as is charged the officers and enlisted men of the Navy and Marine Corps.
 
-(c) When the Coast Guard is operating in the Department of Homeland Security, the Secretary shall provide for such peacetime training and planning of reserve strength and facilities as is necessary to insure an organized, manned, and equipped Coast Guard when it is required for wartime operation in the Navy. To this end, the Secretary of the Navy for the Navy, and the Secretary of Homeland Security, for the Coast Guard, may from time to time exchange such information, make available to each other such personnel, vessels, facilities, and equipment, and agree to undertake such assignments and functions for each other as they may agree are necessary and advisable.
+(c) When the Coast Guard is operating in the Department of Homeland Security, the Secretary shall provide for such peacetime training and planning of reserve strength and facilities as is necessary to insure an organized, manned, and equipped Coast Guard when it is required for wartime operation in the Navy. To this end, the Secretary of the Navy for the Navy, and the Secretary of Homeland Security, for the Coast Guard, may from time to time exchange such information, make available to each other such personnel, vessels, facilities, and equipment, andagree to undertake such assignments and functions for each other as they may agree are necessary and advisable.
 
 (d)(1) As part of the services provided by the Secretary of the Navy pursuant to subsection (a)(4), the Secretary may provide support services to chaplain-led programs to assist members of the Coast Guard on active duty and their dependents, and members of the reserve component in an active status and their dependents, in building and maintaining a strong family structure.
 
-(2) In this subsection, the term “support services” include transportation, food, lodging, child care, supplies, fees, and training materials for members of the Coast Guard on active duty and their dependents, and members of the reserve component in an active status and their dependents, while participating in programs referred to in paragraph (1), including participation at retreats and conferences.
+(2) In this subsection, the term "support services" include transportation, food, lodging, child care, supplies, fees, and training materials for members of the Coast Guard on active duty and their dependents, and members of the reserve component in an active status and their dependents, while participating in programs referred to in paragraph (1), including participation at retreats and conferences.
 
-(3) In this subsection, the term “dependents” has the same meaning as defined in section 1072(2) of title 10.
+(3) In this subsection, the term "dependents" has the same meaning as defined in section 1072(2) of title 10.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 506; Aug. 3, 1950, ch. 536, §3, 64 Stat. 406; Pub. L. 94–546, §1(11), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 98–557, §15(a)(3)(D), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 111–281, title II, §223, Oct. 15, 2010, 124 Stat. 2921.)
 
@@ -28,7 +28,7 @@ Subsection (a) is based on title 14, U.S.C., 1946 ed., §§28, 42, 57 (Aug. 29, 
 
 Subsection (b) is based on title 14, U.S.C., 1946 ed., §31 (Mar. 6, 1920, ch. 94, §1, 41 Stat. 506).
 
-Subsection (c) is new. This subsection enacts what has been the practice of the Navy and Coast Guard in keeping the Coast Guard trained to “come on board with some muscle” in time of emergency.
+Subsection (c) is new. This subsection enacts what has been the practice of the Navy and Coast Guard in keeping the Coast Guard trained to "come on board with some muscle" in time of emergency.
 
 Section 3 of this title deals with the relationship of the Coast Guard to the Navy Department. This section deals with cooperation with the Navy. Whereas the status of the Coast Guard in time of war was treated in chapter 1 of this title, this section has application in time of peace when the Coast Guard is not under the Navy Department.
 
@@ -40,13 +40,13 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 Subsec. (d). Pub. L. 111–281, §223(2), added subsec. (d).
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in two places.
+<b>2002</b>—Subsec. (c). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation" in two places.
 
 <b>1984</b>—Subsec. (a)(2). Pub. L. 98–557 substituted reference to members for reference to officers and enlisted men in two places.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–546, §1(11)(a), substituted “at the request of the Secretary” for “at the request of the Secretary of the Treasury”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–546, §1(11)(a), substituted "at the request of the Secretary" for "at the request of the Secretary of the Treasury".
 
-Subsec. (c). Pub. L. 94–546, §1(11)(b), substituted in first sentence “Department of Transportation” for “Treasury Department” and in second sentence “Secretary of Transportation” for “Secretary of the Treasury”.
+Subsec. (c). Pub. L. 94–546, §1(11)(b), substituted in first sentence "Department of Transportation" for "Treasury Department" and in second sentence "Secretary of Transportation" for "Secretary of the Treasury".
 
 <b>1950</b>—Subsec. (a)(3). Act Aug. 3, 1950, added par. (3).
 

@@ -58,7 +58,7 @@ A copy of the complaint or notice of appeal in any action under this section sha
 
 #### Amendments
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239 struck out “1349,” after “section 1341, 1342,”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239 struck out "1349," after "section 1341, 1342,".
 
 #### Effective Date of 1989 Amendment
 

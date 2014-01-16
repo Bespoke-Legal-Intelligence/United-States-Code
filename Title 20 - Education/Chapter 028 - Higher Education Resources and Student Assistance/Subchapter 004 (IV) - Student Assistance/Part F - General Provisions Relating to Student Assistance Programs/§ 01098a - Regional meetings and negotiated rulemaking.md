@@ -36,27 +36,27 @@ The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(1). Pub. L. 111–39, §407(b)(12)(A), substituted “regulations for this subchapter and part C of subchapter I of chapter 34 of title 42. The” for “regulations for parts B, F, and G of this subchapter. The”.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–39, §407(b)(12)(A), substituted "regulations for this subchapter and part C of subchapter I of chapter 34 of title 42. The" for "regulations for parts B, F, and G of this subchapter. The".
 
-Subsec. (a)(2). Pub. L. 111–39, §407(b)(12)(B), substituted “The Secretary shall provide” for text from beginning of par. (2) through “provide”, resulting in text identical to that after execution of the amendment by Pub. L. 105–244, §490D(a)(2)(A). See 1998 Amendment note below.
+Subsec. (a)(2). Pub. L. 111–39, §407(b)(12)(B), substituted "The Secretary shall provide" for text from beginning of par. (2) through "provide", resulting in text identical to that after execution of the amendment by Pub. L. 105–244, §490D(a)(2)(A). See 1998 Amendment note below.
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–315, §494D(a)(1), inserted “State student grant agencies,” after “institutions of higher education,”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–315, §494D(a)(1), inserted "State student grant agencies," after "institutions of higher education,".
 
-Subsec. (a)(2). Pub. L. 110–315, §494D(a)(2), struck out “, as amended by the Higher Education Amendments of 1998” before “through such mechanisms”.
+Subsec. (a)(2). Pub. L. 110–315, §494D(a)(2), struck out ", as amended by the Higher Education Amendments of 1998" before "through such mechanisms".
 
-Subsec. (b)(1). Pub. L. 110–315, §494D(b), struck out “as amended by the Higher Education Amendments of 1998” before “and shall submit”, substituted “The Secretary” for “To the extent possible, the Secretary”, and inserted “with demonstrated expertise or experience in the relevant subjects under negotiation,” after “select individuals”.
+Subsec. (b)(1). Pub. L. 110–315, §494D(b), struck out "as amended by the Higher Education Amendments of 1998" before "and shall submit", substituted "The Secretary" for "To the extent possible, the Secretary", and inserted "with demonstrated expertise or experience in the relevant subjects under negotiation," after "select individuals".
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–244, §490D(a)(1)(C), substituted “The Secretary shall obtain the advice of and recommendations from” for “Such meetings shall include”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–244, §490D(a)(1)(C), substituted "The Secretary shall obtain the advice of and recommendations from" for "Such meetings shall include".
 
-Pub. L. 105–244, §490D(a)(1)(B), which directed the substitution of “this subchapter and part C of subchapter I of chapter 34 of title 42;” for “parts B, F, and G of this subchapter,”, could not be executed because “parts B, F, and G of this subchapter,” does not appear in text.
+Pub. L. 105–244, §490D(a)(1)(B), which directed the substitution of "this subchapter and part C of subchapter I of chapter 34 of title 42;" for "parts B, F, and G of this subchapter,", could not be executed because "parts B, F, and G of this subchapter," does not appear in text.
 
-Pub. L. 105–244, §490D(a)(1)(A), struck out “convene regional meetings to” before “obtain public involvement”.
+Pub. L. 105–244, §490D(a)(1)(A), struck out "convene regional meetings to" before "obtain public involvement".
 
-Subsec. (a)(2). Pub. L. 105–244, §490D(a)(2)(B)–(D), substituted “this subchapter and part C of subchapter I of chapter 34 of title 42” for “parts B, F, and G of this subchapter”, “1998 through such mechanisms as regional meetings and electronic exchanges of information” for “1992”, and “through such mechanisms in” for “at such meetings in”.
+Subsec. (a)(2). Pub. L. 105–244, §490D(a)(2)(B)–(D), substituted "this subchapter and part C of subchapter I of chapter 34 of title 42" for "parts B, F, and G of this subchapter", "1998 through such mechanisms as regional meetings and electronic exchanges of information" for "1992", and "through such mechanisms in" for "at such meetings in".
 
-Pub. L. 105–244, §490D(a)(2)(A), which directed substitution of “The” for “During such meetings the”, was executed by making the substitution for “During such meetings, the” before “Secretary shall provide”, to reflect the probable intent of Congress.
+Pub. L. 105–244, §490D(a)(2)(A), which directed substitution of "The" for "During such meetings the", was executed by making the substitution for "During such meetings, the" before "Secretary shall provide", to reflect the probable intent of Congress.
 
-Subsec. (b). Pub. L. 105–244, §490D(b), designated existing provisions as par. (1), inserted par. (1) heading, substituted “obtaining the advice and recommendations described in subsection (a)(1) of this section” for “holding regional meetings”, “this subchapter and part C of subchapter I of chapter 34 of title 42” for “parts B, F, and G of this subchapter”, “1998” for “1992”, “360-day” for “240-day”, and “section 1232(e)” for “section 1232(g)”, struck out “The Secretary shall follow the guidance provided in sections 305.82–4 and 305.85–5 of chapter 1, Code of Federal Regulations, and any successor recommendation, regulation, or law.” after “rulemaking process.” and “participating in the regional meetings” after “nominated by groups”, and added par. (2).
+Subsec. (b). Pub. L. 105–244, §490D(b), designated existing provisions as par. (1), inserted par. (1) heading, substituted "obtaining the advice and recommendations described in subsection (a)(1) of this section" for "holding regional meetings", "this subchapter and part C of subchapter I of chapter 34 of title 42" for "parts B, F, and G of this subchapter", "1998" for "1992", "360-day" for "240-day", and "section 1232(e)" for "section 1232(g)", struck out "The Secretary shall follow the guidance provided in sections 305.82–4 and 305.85–5 of chapter 1, Code of Federal Regulations, and any successor recommendation, regulation, or law." after "rulemaking process." and "participating in the regional meetings" after "nominated by groups", and added par. (2).
 
 #### Effective Date of 2009 Amendment
 
@@ -74,7 +74,7 @@ This section inapplicable to amendments made by section 309 of Pub. L. 112–74 
 
 This section inapplicable to amendments made by title V of Pub. L. 112–25 or to any regulations promulgated under such amendments, see section 504 of Pub. L. 112–25, set out as a note under section 1089 of this title.
 
-This section inapplicable to amendments made by section 1860(a)(2) of Pub. L. 112–10 or to any regulations promulgated under such amendments, see section1860(c) of Pub. L. 112–10, set out as a note under section 1089 of this title.
+This section inapplicable to amendments made by section 1860(a)(2) of Pub. L. 112–10 or to any regulations promulgated under such amendments, see section 1860(c) of Pub. L. 112–10, set out as a note under section 1089 of this title.
 
 This section inapplicable to amendments made by title IV of Pub. L. 111–39 or to any regulations promulgated under such amendments, see section 409 of Pub. L. 111–39, set out as a note under section 1089 of this title.
 

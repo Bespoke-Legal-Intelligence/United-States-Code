@@ -32,9 +32,9 @@ Violations Regarding Circumvention of Technological Measures.—(1)(A) No person
 
 (3) As used in this subsection—
 
-&emsp;(A) to “circumvent a technological measure” means to descramble a scrambled work, to decrypt an encrypted work, or otherwise to avoid, bypass, remove, deactivate, or impair a technological measure, without the authority of the copyright owner; and
+&emsp;(A) to "circumvent a technological measure" means to descramble a scrambled work, to decrypt an encrypted work, or otherwise to avoid, bypass, remove, deactivate, or impair a technological measure, without the authority of the copyright owner; and
 
-&emsp;(B) a technological measure “effectively controls access to a work” if the measure, in the ordinary course of its operation, requires the application of information, or a process ora treatment, with the authority of the copyright owner, to gain access to the work.
+&emsp;(B) a technological measure "effectively controls access to a work" if the measure, in the ordinary course of its operation, requires the application of information, or a process ora treatment, with the authority of the copyright owner, to gain access to the work.
 
 (b)
 
@@ -48,9 +48,9 @@ Additional Violations.—(1) No person shall manufacture, import, offer to the p
 
 (2) As used in this subsection—
 
-&emsp;(A) to “circumvent protection afforded by a technological measure” means avoiding, bypassing, removing, deactivating, or otherwise impairing a technological measure; and
+&emsp;(A) to "circumvent protection afforded by a technological measure" means avoiding, bypassing, removing, deactivating, or otherwise impairing a technological measure; and
 
-&emsp;(B) a technological measure “effectively protects a right of a copyright owner under this title” if the measure, in the ordinary course of its operation, prevents, restricts, or otherwise limits the exercise of a right of a copyright owner under this title.
+&emsp;(B) a technological measure "effectively protects a right of a copyright owner under this title" if the measure, in the ordinary course of its operation, prevents, restricts, or otherwise limits the exercise of a right of a copyright owner under this title.
 
 (c)
 
@@ -88,7 +88,7 @@ Exemption for Nonprofit Libraries, Archives, and Educational Institutions.—(1)
 
 (e)
 
-Law Enforcement, Intelligence, and Other Government Activities.—This section does not prohibit any lawfully authorized investigative, protective, information security, or intelligence activity of an officer, agent, or employee of the United States, a State, or a political subdivision of a State, or a person acting pursuant to a contract with the United States, a State, or a political subdivision of a State. For purposes of this subsection, the term “information security” means activities carried out in order to identify and address the vulnerabilities of a government computer, computer system, or computer network.
+Law Enforcement, Intelligence, and Other Government Activities.—This section does not prohibit any lawfully authorized investigative, protective, information security, or intelligence activity of an officer, agent, or employee of the United States, a State, or a political subdivision of a State, or a person acting pursuant to a contract with the United States, a State, or a political subdivision of a State. For purposes of this subsection, the term "information security" means activities carried out in order to identify and address the vulnerabilities of a government computer, computer system, or computer network.
 
 (f)
 
@@ -98,7 +98,7 @@ Reverse Engineering.—(1) Notwithstanding the provisions of subsection (a)(1)(A
 
 (3) The information acquired through the acts permitted under paragraph (1), and the means permitted under paragraph (2), may be made available to others if the person referred to in paragraph (1) or (2), as the case may be, provides such information or means solely for the purpose of enabling interoperability of an independently created computer program with other programs, and to the extent that doing so does not constitute infringement under this title or violate applicable law other than this section.
 
-(4) For purposes of this subsection, the term “interoperability” means the ability of computer programs to exchange information, and of such programs mutually to use the information which has been exchanged.
+(4) For purposes of this subsection, the term "interoperability" means the ability of computer programs to exchange information, and of such programs mutually to use the information which has been exchanged.
 
 (g)
 
@@ -108,9 +108,9 @@ Encryption Research.—
 
 Definitions.—For purposes of this subsection—
 
-&emsp;&emsp;(A) the term “encryption research” means activities necessary to identify and analyze flaws and vulnerabilities of encryption technologies applied to copyrighted works, if these activities are conducted to advance the state of knowledge in the field of encryption technology or to assist in the development of encryption products; and
+&emsp;&emsp;(A) the term "encryption research" means activities necessary to identify and analyze flaws and vulnerabilities of encryption technologies applied to copyrighted works, if these activities are conducted to advance the state of knowledge in the field of encryption technology or to assist in the development of encryption products; and
 
-&emsp;&emsp;(B) the term “encryption technology” means the scrambling and descrambling of information using mathematical formulas or algorithms.
+&emsp;&emsp;(B) the term "encryption technology" means the scrambling and descrambling of information using mathematical formulas or algorithms.
 
 &emsp;(2)
 
@@ -188,7 +188,7 @@ Security Testing.—
 
 &emsp;(1)
 
-Definition.—For purposes of this subsection, the term “security testing” means accessing a computer, computer system, or computer network, solely for the purpose of good faith testing, investigating, or correcting, a security flaw or vulnerability, with the authorization of the owner or operator of such computer, computer system, or computer network.
+Definition.—For purposes of this subsection, the term "security testing" means accessing a computer, computer system, or computer network, solely for the purpose of good faith testing, investigating, or correcting, a security flaw or vulnerability, with the authorization of the owner or operator of such computer, computer system, or computer network.
 
 &emsp;(2)
 
@@ -232,7 +232,7 @@ Certain analog devices.—
 
 &emsp;&emsp;&emsp;(ii) any VHS format analog video cassette recorder, or any 8mm format analog video cassette recorder that is not an 8mm analog video cassette camcorder, if the design of the model of such recorder has been modified after such date of enactment so that a model of recorder that previously conformed to the four-line colorstripe copy control technology no longer conforms to such technology.
 
-> &emsp;&emsp;Manufacturers that have not previously manufactured or sold a VHS format analog video cassette recorder, or an 8mm format analog cassette recorder, shall be required to conform to the four-line colorstripe copy control technology in the initial model of any such recorder manufactured after the date of the enactment of this chapter, and thereafter to continue conforming to the four-line colorstripe copy control technology. For purposes of this subparagraph, an analog video cassette recorder “conforms to” the four-line colorstripe copy control technology if it records a signal that, when played back by the playback function of that recorder in the normal viewing mode, exhibits, on a reference display device, a display containing distracting visible lines through portions of the viewable picture.
+> &emsp;&emsp;Manufacturers that have not previously manufactured or sold a VHS format analog video cassette recorder, or an 8mm format analog cassette recorder, shall be required to conform to the four-line colorstripe copy control technology in the initial model of any such recorder manufactured after the date of the enactment of this chapter, and thereafter to continue conforming to the four-line colorstripe copy control technology. For purposes of this subparagraph, an analog video cassette recorder "conforms to" the four-line colorstripe copy control technology if it records a signal that, when played back by the playback function of that recorder in the normal viewing mode, exhibits, on a reference display device, a display containing distracting visible lines through portions of the viewable picture.
 
 &emsp;(2)
 
@@ -262,23 +262,23 @@ Inapplicability.—This subsection shall not—
 
 Definitions.—For purposes of this subsection:
 
-&emsp;&emsp;(A) An “analog video cassette recorder” means a device that records, or a device that includes a function that records, on electromagnetic tape in an analog format the electronic impulses produced by the video and audio portions of a television program, motion picture, or other form of audiovisual work.
+&emsp;&emsp;(A) An "analog video cassette recorder" means a device that records, or a device that includes a function that records, on electromagnetic tape in an analog format the electronic impulses produced by the video and audio portions of a television program, motion picture, or other form of audiovisual work.
 
-&emsp;&emsp;(B) An “analog video cassette camcorder” means an analog video cassette recorder that contains a recording function that operates through a camera lens and through a video input that may be connected with a television or other video playback device.
+&emsp;&emsp;(B) An "analog video cassette camcorder" means an analog video cassette recorder that contains a recording function that operates through a camera lens and through a video input that may be connected with a television or other video playback device.
 
-&emsp;&emsp;(C) An analog video cassette recorder “conforms” to the automatic gain control copy control technology if it—
+&emsp;&emsp;(C) An analog video cassette recorder "conforms" to the automatic gain control copy control technology if it—
 
 &emsp;&emsp;&emsp;(i) detects one or more of the elements of such technology and does not record the motion picture or transmission protected by such technology; or
 
 &emsp;&emsp;&emsp;(ii) records a signal that, when played back, exhibits a meaningfully distorted or degraded display.
 
-&emsp;&emsp;(D) The term “professional analog video cassette recorder” means an analog video cassette recorder that is designed, manufactured, marketed, and intended for use by a person who regularly employs such a device for a lawful business or industrial use, including making, performing, displaying, distributing, or transmitting copies of motion pictures on a commercial scale.
+&emsp;&emsp;(D) The term "professional analog video cassette recorder" means an analog video cassette recorder that is designed, manufactured, marketed, and intended for use by a person who regularly employs such a device for a lawful business or industrial use, including making, performing, displaying, distributing, or transmitting copies of motion pictures on a commercial scale.
 
-&emsp;&emsp;(E) The terms “VHS format”, “8mm format”, “Beta format”, “automatic gain control copy control technology”, “colorstripe copy control technology”, “four-line version of the colorstripe copy control technology”, and “NTSC” have the meanings that are commonly understood in the consumer electronics and motion picture industries as of the date of the enactment of this chapter.
+&emsp;&emsp;(E) The terms "VHS format", "8mm format", "Beta format", "automatic gain control copy control technology", "colorstripe copy control technology", "four-line version of the colorstripe copy control technology", and "NTSC" have the meanings that are commonly understood in the consumer electronics and motion picture industries as of the date of the enactment of this chapter.
 
 &emsp;(5)
 
-Violations.—Any violation of paragraph (1) of this subsection shall be treated as a violation of subsection (b)(1) of this section. Any violation of paragraph (2) of this subsection shall be deemed an “act of circumvention” for the purposes of section 1203(c)(3)(A) of this chapter.
+Violations.—Any violation of paragraph (1) of this subsection shall be treated as a violation of subsection (b)(1) of this section. Any violation of paragraph (2) of this subsection shall be deemed an "act of circumvention" for the purposes of section 1203(c)(3)(A) of this chapter.
 
 (Added Pub. L. 105–304, title I, §103(a), Oct. 28, 1998, 112 Stat. 2863; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title V, §5006\], Nov. 29, 1999, 113 Stat. 1536, 1501A–594.)
 
@@ -290,9 +290,9 @@ The Computer Fraud and Abuse Act of 1986, referred to in subsecs. (g)(2)(D) and 
 
 #### Amendments
 
-<b>1999</b>—Subsec. (a)(1)(C). Pub. L. 106–113 struck out “on the record” after “determination in a rulemaking proceeding” in first sentence.
+<b>1999</b>—Subsec. (a)(1)(C). Pub. L. 106–113 struck out "on the record" after "determination in a rulemaking proceeding" in first sentence.
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(a)(2),”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be subsection "(a)(2),".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "subsection".</i>
 

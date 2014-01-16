@@ -33,7 +33,7 @@
 
 #### Senate Revision Amendment
 
-In the analysis of sections under this chapter heading, a new item, “14. Applicability to Canal Zone.”, was inserted by Senate amendment, to follow underneath item 13, inasmuch as a new section 14, with such a catchline, was inserted, by Senate amendment, in this chapter. See Senate Report No. 1620, amendments Nos. 1 and 3, 80th Cong.
+In the analysis of sections under this chapter heading, a new item, "14. Applicability to Canal Zone.", was inserted by Senate amendment, to follow underneath item 13, inasmuch as a new section 14, with such a catchline, was inserted, by Senate amendment, in this chapter. See Senate Report No. 1620, amendments Nos. 1 and 3, 80th Cong.
 
 #### Amendments
 
@@ -43,13 +43,13 @@ In the analysis of sections under this chapter heading, a new item, “14. Appli
 
 <b>2003</b>—Pub. L. 108–21, title VI, §601(b), Apr. 30, 2003, 117 Stat. 687, added item 25.
 
-<b>2002</b>—Pub. L. 107–273, div. B, title IV, §4004(a), Nov. 2, 2002, 116 Stat. 1812, struck out item 14 “Applicability to Canal Zone; definition”.
+<b>2002</b>—Pub. L. 107–273, div. B, title IV, §4004(a), Nov. 2, 2002, 116 Stat. 1812, struck out item 14 "Applicability to Canal Zone; definition".
 
 <b>1996</b>—Pub. L. 104–191, title II, §241(b), Aug. 21, 1996, 110 Stat. 2016, which directed the amendment of the table of sections at the beginning of chapter 2 of this title by inserting item 24, was executed by inserting item 24 in the table of sections at the beginning of this chapter, to reflect the probable intent of Congress.
 
 <b>1994</b>—Pub. L. 103–332, title XXXII, §§320910(b), 320914(b), Sept. 13, 1994, 108 Stat. 2127, 2128, added items 21 and 23.
 
-<b>1990</b>—Pub. L. 101–647, title XXXV, §3504, Nov. 29, 1990, 104 Stat. 4921, substituted “defense” for “Defense” in item 17.
+<b>1990</b>—Pub. L. 101–647, title XXXV, §3504, Nov. 29, 1990, 104 Stat. 4921, substituted "defense" for "Defense" in item 17.
 
 <b>1989</b>—Pub. L. 101–73, title IX, §962(e)(3), Aug. 9, 1989, 103 Stat. 504, added item 20.
 
@@ -57,11 +57,11 @@ In the analysis of sections under this chapter heading, a new item, “14. Appli
 
 <b>1986</b>—Pub. L. 99–646, §§34(b), 38(b), Nov. 10, 1986, 100 Stat. 3599, renumbered item 20 as 17 and added item 18.
 
-<b>1984</b>—Pub. L. 98–473, title II, §§218(b), 402(b), 1001(b), Oct. 12, 1984, 98 Stat. 2027, 2057, 2136, substituted “Repealed” for “Offenses classified” in item 1 and added items 16 and 20.
+<b>1984</b>—Pub. L. 98–473, title II, §§218(b), 402(b), 1001(b), Oct. 12, 1984, 98 Stat. 2027, 2057, 2136, substituted "Repealed" for "Offenses classified" in item 1 and added items 16 and 20.
 
-<b>1970</b>—Pub. L. 91–375, §6(j)(1), Aug. 12, 1970, 84 Stat. 777, inserted “United States” before “Postal Service” in item 12.
+<b>1970</b>—Pub. L. 91–375, §6(j)(1), Aug. 12, 1970, 84 Stat. 777, inserted "United States" before "Postal Service" in item 12.
 
-<b>1962</b>—Pub. L. 87–845, §3(b), Oct. 18, 1962, 76A Stat. 698, inserted “; definition” in item 14.
+<b>1962</b>—Pub. L. 87–845, §3(b), Oct. 18, 1962, 76A Stat. 698, inserted "; definition" in item 14.
 
 <b>1958</b>—Pub. L. 85–921, §4, Sept. 2, 1958, 72 Stat. 1771, added item 15.
 

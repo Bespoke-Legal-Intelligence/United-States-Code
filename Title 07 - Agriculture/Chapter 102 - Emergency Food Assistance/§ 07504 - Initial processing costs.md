@@ -6,7 +6,7 @@ The Secretary may use funds of the Commodity Credit Corporation to pay costs of 
 
 #### Amendments
 
-<b>1985</b>—Pub. L. 99–198 struck out “, except that wheat from the Food Security Wheat Reserve may not be used to pay such costs” after “equal in value to such costs”.
+<b>1985</b>—Pub. L. 99–198 struck out ", except that wheat from the Food Security Wheat Reserve may not be used to pay such costs" after "equal in value to such costs".
 
 #### Effective Date
 

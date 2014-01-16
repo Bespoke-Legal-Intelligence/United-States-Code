@@ -10,7 +10,7 @@ To be eligible for insurance under this subchapter a mortgage shall meet the fol
 
 &emsp;(1) The mortgaged property shall be held by a mortgagor approved by the Secretary. The Secretary may, in his discretion, require such mortgagor to be regulated or restricted as to capital structure, and methods of operation. The Secretary may make such contracts with, and acquire for not to exceed $100 stock or interest in, any such mortgagor, as the Secretary may deem necessary to render effective such restriction or regulation. Such stock or interest shall be paid for out of the General Insurance Fund, and shall be redeemed by the mortgagor at par upon the termination of all obligations of the Secretary under the insurance.
 
-&emsp;(2) The mortgaged property shall be designed for use for residential purposes by personnel ofthe armed services and situated at or near a military installation, and the Secretary of Defense or his designee shall have certified that there is no intention, so far as can reasonably be foreseen, to substantially curtail the personnel assigned or to be assigned to such installation, and (i) shall have determined that for reasons of safety, security, or other essential military requirements, it is necessary that the personnel involved reside in public quarters: <i>Provided, however</i>, That for the purposes of this subsection housing covered by a mortgage insured, or for which a commitment to insure has been issued, under this section prior to August 11, 1955, may be considered the same as available quarters, and (ii) with the approval of the Secretary, shall have determined that adequate housing is not available for such personnel at reasonable rentals within reasonable commuting distance of the installation and that the mortgaged property will not, so far as can reasonably be foreseen, substantially curtail occupancy in existing housing covered by mortgages insured under this chapter. The housing accommodations shall comply with such standards and conditions as the Secretary may prescribe to establish the acceptability of such property for mortgage insurance, except that the certification of the Secretary of Defense or his designee shall (for purposes of mortgage insurance under this subchapter) be conclusive evidence to the Secretary of the existence of the need for such housing. However, if the Secretary does not concur in the housing needs as certified by the Secretary of Defense, the Secretary may require the Secretary of Defense to guarantee the General Insurance Fund against loss with respect to the mortgage covering such housing. There are authorized to be appropriated such sums as may be necessary to provide for payment to meet losses arising from such guaranty.
+&emsp;(2) The mortgaged property shall be designed for use for residential purposes by personnel of the armed services and situated at or near a military installation, and the Secretary of Defense or his designee shall have certified that there is no intention, so far as can reasonably be foreseen, to substantially curtail the personnel assigned or to be assigned to such installation, and (i) shall have determined that for reasons of safety, security, or other essential military requirements, it is necessary that the personnel involved reside in public quarters: <i>Provided, however</i>, That for the purposes of this subsection housing covered by a mortgage insured, or for which a commitment to insure has been issued, under this section prior to August 11, 1955, may be considered the same as available quarters, and (ii) with the approval of the Secretary, shall have determined that adequate housing is not available for such personnel at reasonable rentals within reasonable commuting distance of the installation and that the mortgaged propertywill not, so far as can reasonably be foreseen, substantially curtail occupancy in existing housing covered by mortgages insured under this chapter. The housing accommodations shall comply with such standards and conditions as the Secretary may prescribe to establish the acceptability of such property for mortgage insurance, except that the certification of the Secretary of Defense or his designee shall (for purposes of mortgage insurance under this subchapter) be conclusive evidence to the Secretary of the existence of the need for such housing. However, if the Secretary does not concur in the housing needs as certified by the Secretary of Defense, the Secretary may require the Secretary of Defense to guarantee the General Insurance Fund against loss with respect to the mortgage covering such housing. There are authorized to be appropriated such sums as may be necessary to provide for payment to meet losses arising from such guaranty.
 
 &emsp;(3) The mortgage shall involve a principal obligation in an amount—
 
@@ -24,7 +24,7 @@ To be eligible for insurance under this subchapter a mortgage shall meet the fol
 
 #### (c) Premium charges
 
-The Secretary is authorized to fix a premium charge for the insurance of mortgages under this subchapter but in the case of any mortgage such charge shall not be less than an amount equivalent to one-half of 1 per centum per annum nor more than an amount equivalent to 1½ per centum per annum of the amount of the principal obligation of the mortgage outstanding at any time, without taking into account delinquent payments or prepayments. Such premium charges shall be payable by the mortgagee, either in cash, or in debentures issued by the Secretary under this subchapter at par plus accrued interest, in such manner as may be prescribed by the Secretary: <i>Provided</i>, That the Secretary may require the payment of one or more such premium charges at the time the mortgage is insured, at such discount rate as he may prescribe not in excess of the interest rate specified in the mortgage. If the Secretary finds, upon the presentation of a mortgage for insurance and the tender of the initial premium charge and such other charges as the Secretary may require, that the mortgage complies with the provisions of this subchapter, such mortgage may be accepted for insurance by endorsement or otherwise as the Secretary may prescribe. In the event that the principal obligation of any mortgage accepted for insurance under this subchapter is paid in full prior to the maturity date, the Secretary is authorized to refund to the mortgagee for the account of the mortgagor all, or such portion as he shall determine to be equitable, of the current unearned premium charges theretofore paid. The Secretary may reduce the payment of premiums provided for herein. The Secretary is further authorized to reduce the amount of the premium charge below one-half of 1 per centum per annum with respect to any mortgage on property acquired by theSecretary of Defense or his designee if the mortgage is insured pursuant to the provisions of this subchapter as in effect prior to August 11, 1955.
+The Secretary is authorized to fix a premium charge for the insurance of mortgages under this subchapter but in the case of any mortgage such charge shall not be less than an amount equivalent to one-half of 1 per centum per annum nor more than an amount equivalent to 1½ per centum per annum of the amount of the principal obligation of the mortgage outstanding at any time, without taking into account delinquent payments or prepayments. Such premium charges shall be payable by the mortgagee, either in cash, or in debentures issued by the Secretary under this subchapter at par plus accrued interest, in such manner as may be prescribed by the Secretary: <i>Provided</i>, That the Secretary may require the payment of one or more such premium charges at the time the mortgage is insured, at such discount rate as he may prescribe not in excess of the interest rate specified in the mortgage. If the Secretary finds, upon the presentation of a mortgage for insurance and the tender of the initial premium charge and such other charges as the Secretary may require, that the mortgage complies with the provisions of this subchapter, such mortgage may be accepted for insurance by endorsement or otherwise as the Secretary may prescribe. In the event that the principal obligation of any mortgage accepted for insurance under this subchapter is paid in full prior to the maturity date, the Secretary is authorized to refund to the mortgagee for the account of the mortgagor all, or such portion as he shall determine to be equitable, of the current unearned premium charges theretofore paid. The Secretary may reduce the payment of premiums provided for herein. The Secretary is further authorized to reduce the amount of the premium charge below one-half of 1 per centum per annum with respect to any mortgage on property acquired by the Secretary of Defense or his designee if the mortgage is insured pursuant to the provisions of this subchapter as in effect prior to August 11, 1955.
 
 #### (d) Default by mortgagor; rights of mortgagee
 
@@ -68,29 +68,29 @@ The General Insurance Fund, referred to in text, was established by section 1735
 
 <b>1980</b>—Subsec. (b)(2). Pub. L. 96–470 struck out provision requiring the Secretary to report to the Committees on Banking and Currency of the Senate and the House of Representatives each instance in which he has required the Secretary of Defense to guarantee the General Insurance Fund and the reasons therefor.
 
-<b>1967</b>—Pub. L. 90–19, §1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1), (2), (3)(A), (B), following (C), and (c) to (k).
+<b>1967</b>—Pub. L. 90–19, §1(a)(3), substituted "Secretary" for "Commissioner" wherever appearing in subsecs. (a), (b)(1), (2), (3)(A), (B), following (C), and (c) to (k).
 
-Subsec. (b)(2). Pub. L. 90–19, §1(p)(1)–(4), substituted “Secretary of Defense” for “Secretary” in first, third, and fourth sentences.
+Subsec. (b)(2). Pub. L. 90–19, §1(p)(1)–(4), substituted "Secretary of Defense" for "Secretary" in first, third, and fourth sentences.
 
-<b>1965</b>—Subsecs. (b)(1), (b)(2), (e), (f), (g). Pub. L. 89–117, §1108(u)(1), substituted “General Insurance Fund” for “Armed Services Housing Mortgage Insurance Fund” wherever appearing.
+<b>1965</b>—Subsecs. (b)(1), (b)(2), (e), (f), (g). Pub. L. 89–117, §1108(u)(1), substituted "General Insurance Fund" for "Armed Services Housing Mortgage Insurance Fund" wherever appearing.
 
-Subsec. (h). Pub. L. 89–117, §1108(u)(2), struck out provision that, as applied to mortgages insured under this subchapter and to property acquired by the Commissioner hereunder, reference in subsecs. (k) and (l) of section 1713 of this title to the “Housing Fund” shall be construed to refer to the “Armed Services Housing Mortgage Insurance Fund”.
+Subsec. (h). Pub. L. 89–117, §1108(u)(2), struck out provision that, as applied to mortgages insured under this subchapter and to property acquired by the Commissioner hereunder, reference in subsecs. (k) and (l) of section 1713 of this title to the "Housing Fund" shall be construed to refer to the "Armed Services Housing Mortgage Insurance Fund".
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–623 substituted “mortgages shall be insured under this section after October 1, 1962” for “mortgages shall be insured under this subchapter after October 1, 1962”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–623 substituted "mortgages shall be insured under this section after October 1, 1962" for "mortgages shall be insured under this subchapter after October 1, 1962".
 
 <b>1961</b>—Subsec. (a). Pub. L. 87–70 made amendment identical to that made by Pub. L. 87–57.
 
-Pub. L. 87–57 substituted “October 1, 1962” for “October 1, 1961”, and “twenty-eight thousand family units” for “twenty-five thousand family housing units”.
+Pub. L. 87–57 substituted "October 1, 1962" for "October 1, 1961", and "twenty-eight thousand family units" for "twenty-five thousand family housing units".
 
-<b>1960</b>—Subsec. (a). Pub. L. 86–500, §507(a), substituted “twenty-five thousand family housing units” for “twenty thousand family housing units”.
+<b>1960</b>—Subsec. (a). Pub. L. 86–500, §507(a), substituted "twenty-five thousand family housing units" for "twenty thousand family housing units".
 
 Subsec. (b)(3). Pub. L. 86–500, §507(c), inserted proviso prohibiting, subject to the limitations of par. (B), the contracting for any family unit included in any mortgaged property after June 8, 1960, if the cost of the unit exceeds $19,800.
 
-<b>1959</b>—Subsec. (a). Pub. L. 86–372, §701(a), substituted “October 1, 1961” for “September 30, 1960”.
+<b>1959</b>—Subsec. (a). Pub. L. 86–372, §701(a), substituted "October 1, 1961" for "September 30, 1960".
 
 Pub. L. 86–149 inserted provisions in subsec. (a) to prohibit insurance of mortgages under this subchapter after Sept. 30, 1960, and to limit the number of housing units which may be contracted for after June 30, 1959 to not more than 20,000.
 
-Subsec. (b)(3). Pub. L. 86–372, §701(b), (c), substituted “but not to exceed thirty years from the beginning of amortization of the mortgage” for “have a maturity of not to exceed twenty-five years”, and inserted provisions authorizing the property or project to include such nondwelling facilities as the Commission deems adequate to serve the occupants.
+Subsec. (b)(3). Pub. L. 86–372, §701(b), (c), substituted "but not to exceed thirty years from the beginning of amortization of the mortgage" for "have a maturity of not to exceed twenty-five years", and inserted provisions authorizing the property or project to include such nondwelling facilities as the Commission deems adequate to serve the occupants.
 
 Subsec. (c). Pub. L. 86–372, §701(d), authorized the Commissioner to reduce the amount of the premium charge below one-half of 1 per centum per annum with respect to any mortgage on property acquired by the Secretary of Defense or his designee if the mortgage is insured pursuant to the provisions of this subchapter as in effect prior to August 11, 1955.
 
@@ -98,19 +98,19 @@ Subsec. (k). Pub. L. 86–372, §701(e), added subsec. (k).
 
 <b>1958</b>—Subsec. (b). Pub. L. 85–364 increased the maximum amount of interest from 4 to 4½ per centum per annum.
 
-<b>1957</b>—Subsec. (a). Pub. L. 85–104, §501, substituted “June 30, 1959” for “June 30, 1958”.
+<b>1957</b>—Subsec. (a). Pub. L. 85–104, §501, substituted "June 30, 1959" for "June 30, 1958".
 
 Subsec. (b)(3)(B). Pub. L. 85–104, §502, inserted proviso that should financing of housing to be constructed pursuant to a single invitation for bids be accomplished by two or more mortgages, any single mortgage may exceed an average of $16,500 if sum of all mortgages for such housing does not exceed average of $16,500.
 
-Subsec. (f). Pub. L. 85–104, §108(c), substituted, in second sentence, “established by the Commissioner pursuant to section 1715o of this title” for “determined by the Commissioner with the approval of the Secretary of the Treasury, at the time the mortgage was accepted for insurance, but not to exceed 3 per centum per annum”.
+Subsec. (f). Pub. L. 85–104, §108(c), substituted, in second sentence, "established by the Commissioner pursuant to section 1715o of this title" for "determined by the Commissioner with the approval of the Secretary of the Treasury, at the time the mortgage was accepted for insurance, but not to exceed 3 per centum per annum".
 
-<b>1956</b>—Subsec. (a). Act Aug. 7, 1956, §§502, 503, inserted “(except mortgages insured pursuant to the provisions of this subchapter in effect prior to August 11, 1955)” and substituted “$2,300,000” for “$1,363,500,000” in first proviso and “June 30, 1958” for “September 30, 1956” in third proviso.
+<b>1956</b>—Subsec. (a). Act Aug. 7, 1956, §§502, 503, inserted "(except mortgages insured pursuant to the provisions of this subchapter in effect prior to August 11, 1955)" and substituted "$2,300,000" for "$1,363,500,000" in first proviso and "June 30, 1958" for "September 30, 1956" in third proviso.
 
 Subsec. (b)(2). Act Aug. 7, 1956, §504, required approval of Commissioner, with determination of Secretary, that new units will not substantially curtail occupancy in existing houses covered by mortgages insured under this chapter, and provided that if Commissioner requires Secretary to guarantee the armed services housing mortgages insurance fund from loss, he shall report to the Committees on Banking and Currency of the Senate and House of Representatives each instance in which he required such a guarantee.
 
-Subsec. (b)(3)(B). Act Aug. 7, 1956, §505, substituted “$16,500” for “$13,500” in two places, and inserted “(including ranges, refrigerators, shades, screens, and fixtures)”.
+Subsec. (b)(3)(B). Act Aug. 7, 1956, §505, substituted "$16,500" for "$13,500" in two places, and inserted "(including ranges, refrigerators, shades, screens, and fixtures)".
 
-Subsec. (b)(3)(C). Act Aug. 7, 1956, §506(a), substituted “eligible bidder with respect to” for “eligible builder of”.
+Subsec. (b)(3)(C). Act Aug. 7, 1956, §506(a), substituted "eligible bidder with respect to" for "eligible builder of".
 
 <b>1955</b>—Subsec. (a). Act Aug. 11, 1955, increased authorization from $500,000,000 to $1,363,500,000, and extended from June 30, 1955, to September 30, 1956, period within which mortgages can be insured.
 
@@ -120,9 +120,9 @@ Subsec. (b). Act Aug. 11, 1955, authorized issuance of insurance for units neces
 
 Subsec. (c). Act Aug. 11, 1955, struck out authorization of Commissioner to require payment by mortgagee of an adjusted premium charge in event that principal obligation of mortgage is paid in full prior to maturity date.
 
-Subsec. (d). Act Aug. 11, 1955, struck out provisions which authorized mortgagee to proceed to foreclose mortgage in event of a default, and which granted mortgagee right to elect benefits of insurance when the United States acquires, or commences condemnation proceedings to acquire, all or a substantial part, of mortgaged property.
+Subsec. (d). Act Aug. 11, 1955, struck out provisions which authorized mortgagee to proceed to foreclosemortgage in event of a default, and which granted mortgagee right to elect benefits of insurance when the United States acquires, or commences condemnation proceedings to acquire, all or a substantial part, of mortgaged property.
 
-Subsecs. (e) to (h). Act Aug. 11, 1955, substituted “Armed Services Housing Mortgage Insurance Fund” for “Military Housing Insurance Fund,” wherever appearing.
+Subsecs. (e) to (h). Act Aug. 11, 1955, substituted "Armed Services Housing Mortgage Insurance Fund" for "Military Housing Insurance Fund," wherever appearing.
 
 Subsec. (i). Act Aug. 11, 1955, struck out the power of the Commissioner to insure under subchapter VI of this chapter.
 
@@ -132,15 +132,15 @@ Subsec. (k). Act Aug. 11, 1955, struck out provisions which authorized utilizati
 
 <b>1954</b>—Subsec. (a). Acts Aug. 2, 1954, §128(a), and June 29, 1954, extended termination date, with respect to authority to insure, from July 31, 1954, to June 30, 1955, and from July 1, 1954, to July 31, 1954, respectively.
 
-Subsec. (b). Act Aug. 2, 1954, §130, in par. immediately following subpar. (C) of par. (3) of the subsection, substituted the requirement that the mortgagor shall enter into the agreement required by section 1715r of this title for former provisions relating to certification of builders’ costs, the certifications now being prescribed into section 1715r.
+Subsec. (b). Act Aug. 2, 1954, §130, in par. immediately following subpar. (C) of par. (3) of the subsection, substituted the requirement that the mortgagor shall enter into the agreement required by section 1715r of this title for former provisions relating to certification of builders' costs, the certifications now being prescribed into section 1715r.
 
 Subsec. (f). Act Aug. 2, 1954, §112(c), in second sentence, substituted a twenty-year period for ten-year period, with respect to the maturity of debentures.
 
-<b>1953</b>—Subsec. (a). Act June 30, 1953, §10(a), in second proviso substituted “July 1, 1954” for “July 1, 1953”.
+<b>1953</b>—Subsec. (a). Act June 30, 1953, §10(a), in second proviso substituted "July 1, 1954" for "July 1, 1953".
 
-Subsec. (b). Act June 30, 1953, §10(b), (c), inserted par. commencing “The mortgagor shall agree”; and, in first sentence of par. commencing “The mortgage shall provide”, substituted “4½ per centum” for “4 per centum”.
+Subsec. (b). Act June 30, 1953, §10(b), (c), inserted par. commencing "The mortgagor shall agree"; and, in first sentence of par. commencing "The mortgage shall provide", substituted "4½ per centum" for "4 per centum".
 
-<b>1951</b>—Subsec. (a). Act Sept. 1, 1951, §601(a), substituted “July 1, 1953” for “July 1, 1951” in second proviso.
+<b>1951</b>—Subsec. (a). Act Sept. 1, 1951, §601(a), substituted "July 1, 1953" for "July 1, 1951" in second proviso.
 
 Subsec. (b)(3)(C). Act Sept. 1, 1951, §601(b), inserted proviso.
 

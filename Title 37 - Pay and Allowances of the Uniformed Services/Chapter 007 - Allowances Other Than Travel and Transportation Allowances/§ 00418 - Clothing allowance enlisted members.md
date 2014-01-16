@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may prescribe the quantity and kind of clothing to be furnished annually to an enlisted member of the armed forces or the National Guard, and may prescribe the amount of a cash allowance to be paid to such a member if clothing is not so furnished to him.
 
-(b) In determining the quantity and kind of clothing or allowances to be furnished pursuant to regulations prescribed under this section topersons employed as National Guard technicians under section 709 of title 32, the Secretary of Defense shall take into account the requirement under subsection (b) of such section for such persons to wear a uniform.
+(b) In determining the quantity and kind of clothing or allowances to be furnished pursuant to regulations prescribed under this section to persons employed as National Guard technicians under section 709 of title 32, the Secretary of Defense shall take into account the requirement under subsection (b) of such section for such persons to wear a uniform.
 
 (c) A uniform allowance may not be paid, and uniforms may not be furnished, under section 1593 of title 10 or section 5901 of title 5 to a person referred to in subsection (b) for a period of employment referred to in that subsection for which clothing is furnished or a uniform allowance is paid under this section.
 
@@ -22,19 +22,19 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §505, 63 Stat. 828.
 
-The words “the armed forces” are substituted for the words “the Army, the Navy, the Air Force, the Marine Corps, the Coast Guard” to conform to the definition in section 101(4) of this title. The words “the Naval Reserve, the Marine Corps Reserve, . . . the National Guard of the United States, the Air National Guard of the United States, the Army Reserve, the Air Force Reserve, and the Coast Guard Reserve” are omitted, since, under the definitions of the armed forces concerned in sections 3062(c), 5001(a)(1) and (2), and 8062(d) of title 10, and section 751a of title 14, those organizations, or their successors, are components of the armed force concerned.
+The words "the armed forces" are substituted for the words "the Army, the Navy, the Air Force, the Marine Corps, the Coast Guard" to conform to the definition in section 101(4) of this title. The words "the Naval Reserve, the Marine Corps Reserve, . . . the National Guard of the United States, the Air National Guard of the United States, the Army Reserve, the Air Force Reserve, and the Coast Guard Reserve" are omitted, since, under the definitions of the armed forces concerned in sections 3062(c), 5001(a)(1) and (2), and 8062(d) of title 10, and section 751a of title 14, those organizations, or their successors, are components of the armed force concerned.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §611(1)\], substituted “The Secretary of Defense and the Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy,” for “The President”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §611(1)\], substituted "The Secretary of Defense and the Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy," for "The President".
 
-Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §611(2)\], substituted “the Secretary of Defense” for “the President”.
+Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §611(2)\], substituted "the Secretary of Defense" for "the President".
 
 <b>1996</b>—Pub. L. 104–106 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-Subsec. (c). Pub. L. 104–201 substituted “for which clothing is furnished or a uniform allowance is paid under this section” for “for which a uniform allowance is paid under section 415 or 416 of this title”.
+Subsec. (c). Pub. L. 104–201 substituted "for which clothing is furnished or a uniform allowance is paid under this section" for "for which a uniform allowance is paid under section 415 or 416 of this title".
 
 #### Effective Date of 2002 Amendment
 
@@ -52,7 +52,7 @@ By virtue of the authority vested in me as President of the United States and as
 
 3\. Existing regulations prescribing the quantity and kind of clothing furnished, and any cash allowances in lieu thereof, shall remain in effect until modified, revoked, or superseded by action taken pursuant to this order.
 
-4\. The term “enlisted men” as used in this order shall be deemed to apply to enlisted persons of either sex.
+4\. The term "enlisted men" as used in this order shall be deemed to apply to enlisted persons of either sex.
 
-5\. This order shall become effective on April 1, 1950, and on that date shall supersede Executive Order No. 10049 \[Apr. 4, 1949, 14 F.R. 1563\] entitled “Delegating the Authority of the President to Prescribe Clothing Allowances, and Cash Allowances in Lieu Thereof, to Enlisted Men in the Armed Forces.”
+5\. This order shall become effective on April 1, 1950, and on that date shall supersede Executive Order No. 10049 \[Apr. 4, 1949, 14 F.R. 1563\] entitled "Delegating the Authority of the President to Prescribe Clothing Allowances, and Cash Allowances in Lieu Thereof, to Enlisted Men in the Armed Forces."
 

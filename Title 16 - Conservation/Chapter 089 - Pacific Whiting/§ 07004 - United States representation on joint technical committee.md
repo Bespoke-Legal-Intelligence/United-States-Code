@@ -18,5 +18,5 @@ In addition to individuals appointed under subsection (a), the Secretary, jointl
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(1). Pub. L. 111–348 substituted “no more than 2” for “at least 6 but not more than 12”.
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–348 substituted "no more than 2" for "at least 6 but not more than 12".
 

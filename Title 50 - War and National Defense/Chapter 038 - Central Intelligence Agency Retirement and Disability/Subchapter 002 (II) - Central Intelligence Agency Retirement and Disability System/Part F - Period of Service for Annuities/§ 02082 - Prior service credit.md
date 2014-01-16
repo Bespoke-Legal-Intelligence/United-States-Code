@@ -24,7 +24,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 #### (2) Effect of retirement deductions not made
 
-&emsp;If a participant has not paid a deposit for civilian service performed before October 1, 1982, for which retirement deductions were not made, such participant's annuity shall be reduced by 10 percent of the deposit described inparagraph (1) remaining unpaid, unless the participant elects to eliminate the service involved for the purpose of the annuity computation.
+&emsp;If a participant has not paid a deposit for civilian service performed before October 1, 1982, for which retirement deductions were not made, such participant's annuity shall be reduced by 10 percent of the deposit described in paragraph (1) remaining unpaid, unless the participant elects to eliminate the service involved for the purpose of the annuity computation.
 
 #### (3) Effect of refund of retirement contributions
 
@@ -70,7 +70,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 #### (1) Application to obtain credit
 
-&emsp;If a deposit required to obtain credit for prior military service described in subsection (a)(2) of this section was not made to another Government retirement fund and transferred under subsection (c)(1) of this section, the participant may obtain credit for such military service, subject to the provisions of this subsection and subsections (f) through (h) of this section, by applying for it to the Director before retirement or separation from the Agency.
+&emsp;If a deposit required to obtain credit for prior military service described in subsection (a)(2) of this section was not made to another Government retirement fund and transferred under subsection (c)(1) of this section, the participant may obtain credit for such military service, subject to the provisions of this subsection and subsections (f) through (h) of thissection, by applying for it to the Director before retirement or separation from the Agency.
 
 #### (2) Employment starting before, on, or after October 1, 1982
 
@@ -82,7 +82,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 &emsp;&emsp;&emsp;(i) each period of military service performed before January 1, 1957, and
 
-&emsp;&emsp;&emsp;(ii) each period of military service performed after December 31, 1956, and before the separation on which entitlement to an annuity under this subchapter is based, only if a deposit (with interest, if any) ismade with respect to that period, as provided in subsection (h) of this section.
+&emsp;&emsp;&emsp;(ii) each period of military service performed after December 31, 1956, and before the separation on which entitlement to an annuity under this subchapter is based, only if a deposit (with interest, if any) is made with respect to that period, as provided in subsection (h) of this section.
 
 #### (3) Effect of receipt of military retired pay
 
@@ -110,7 +110,7 @@ A participant may, subject to the provisions of this section, include in the par
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this section (except paragraph (3) of this subsection) or section 2083 of this title, any military service (other than military service covered by military leave with pay from a civilian position) performed by a participant after December 1956 shall be excluded in determining the aggregate period of service on which an annuity payable under this subchapter to such participant or to the participant's spouse, former spouse, previous spouse, or child is based, if such participant, spouse, former spouse, previous spouse, or child is entitled (or would upon proper application be entitled), at the time of such determination, to monthly old-age or survivors’ insurance benefits under section 402 of title 42, based on such participant's wages and self-employment income. If the military service is not excluded under the preceding sentence, but upon attaining age 62, the participant or spouse, former spouse, or previous spouse becomes entitled (or would upon proper application be entitled) to such benefits, the aggregate period of service on which the annuity is based shall be redetermined, effective as of the first day of the month in which the participant or spouse, former spouse, or previous spouse attains age 62, so as to exclude such service.
+&emsp;Notwithstanding any other provision of this section (except paragraph (3) of this subsection) or section 2083 of this title, any military service (other than military service covered by military leave with pay from a civilian position) performed by a participant after December 1956 shall be excluded in determining the aggregate period of service on which an annuity payable under this subchapter to such participant or to the participant's spouse, former spouse, previous spouse, or child is based, if such participant, spouse, former spouse, previous spouse, or child is entitled (or would upon proper application be entitled), at the time of such determination, to monthly old-age or survivors' insurance benefits under section 402 of title 42, based on such participant's wages and self-employment income. If the military service is not excluded under the preceding sentence, but upon attaining age 62, the participant or spouse, former spouse, or previous spouse becomes entitled (or would upon proper application be entitled) to such benefits, the aggregate period of service on which the annuity is based shall be redetermined, effective as of the first day of the month in which the participant or spouse, former spouse, or previous spouse attains age 62, so as to exclude such service.
 
 #### (2) Limitation
 
@@ -122,13 +122,13 @@ A participant may, subject to the provisions of this section, include in the par
 
 #### (3) Effect of entitlement before September 8, 1982
 
-&emsp;(A) The annuity recomputation required by paragraph (1) shall not apply to any participant who was entitled to an annuity under this subchapter on or before September 8, 1982, or who is entitled to a deferred annuity based on separation from the Agency occurring on or before such date. Instead of an annuity recomputation, the annuity of such participant shall be reduced at age 62 by an amount equal to a fraction of the participant's old-age or survivors’ insurance benefits under section 402 of title 42. The reduction shall be determined by multiplying the participant's monthly Social Security benefit by a fraction, the numerator of which is the participant's total military wages and deemed additional wages (within the meaning of section 429 of title 42) that were subject to Social Security deductions and the denominator of which is the total of all the participant's wages, including military wages, and all self-employment income that were subject to Social Security deductions before the calendar year in which the determination month occurs.
+&emsp;(A) The annuity recomputation required by paragraph (1) shall not apply to any participant who was entitled to an annuity under this subchapter on or before September 8, 1982, or who is entitled to a deferred annuity based on separation from the Agency occurring on or before such date. Instead of an annuity recomputation, the annuity of such participant shall be reduced at age 62 by an amount equal to a fraction of the participant's old-age or survivors' insurance benefits under section 402 of title 42. The reduction shall be determined by multiplying the participant's monthly Social Security benefit by a fraction, the numerator of which is the participant's total military wages and deemed additional wages (within the meaning of section 429 of title 42) that were subject to Social Security deductions and the denominator of which is the total of all the participant's wages, including military wages, and all self-employment income that were subject to Social Security deductions before the calendar year in which the determination month occurs.
 
 &emsp;(B) The reduction determined in accordance with subparagraph (A) shall not be greater than the reduction that would be required under paragraph (1) if such paragraph applied to the participant. The new formula shall be applicable to any annuity payment payable after October 1, 1982, including annuity payments to participants who had previously reached age 62 and whose annuities had already been recomputed.
 
-&emsp;(C) For purposes of this paragraph, the term “determination month” means—
+&emsp;(C) For purposes of this paragraph, the term "determination month" means—
 
-&emsp;&emsp;(i) the first month for which the participant is entitled to old-age or survivors’ insurance benefits (or would be entitled to such benefits upon application therefor); or
+&emsp;&emsp;(i) the first month for which the participant is entitled to old-age or survivors' insurance benefits (or would be entitled to such benefits upon application therefor); or
 
 &emsp;&emsp;(ii) October 1982, in the case of any participant entitled to such benefits for that month.
 
@@ -173,9 +173,9 @@ A prior section 252 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1050;
 
 #### Amendments
 
-<b>2000</b>—Subsec. (h)(1)(A). Pub. L. 106–346, in introductory provisions, substituted “December 31, 2000” for “December 31, 2002” and in table struck out item at end relating to payment of 7.5 percent of basic pay for service period January 1, 2001, to December 31, 2002.
+<b>2000</b>—Subsec. (h)(1)(A). Pub. L. 106–346, in introductory provisions, substituted "December 31, 2000" for "December 31, 2002" and in table struck out item at end relating to payment of 7.5 percent of basic pay for service period January 1, 2001, to December 31, 2002.
 
-<b>1997</b>—Subsec. (h)(1). Pub. L. 105–33 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Each participant who has performed military service before the date of separation on which entitlement to an annuity under this subchapter is based may pay to the Agency an amount equal to 7 percent of the amount of basic pay paid under section 204 of title 37 to the participant for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or, if the Director determines sufficient evidence has not been provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Director under paragraph (4).”
+<b>1997</b>—Subsec. (h)(1). Pub. L. 105–33 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Each participant who has performed military service before the date of separation on which entitlement to an annuity under this subchapter is based may pay to the Agency an amount equal to 7 percent of the amount of basic pay paid under section 204 of title 37 to the participant for each period of military service after December 1956. The amount of such payments shall be based on such evidence of basic pay for military service as the participant may provide or, if the Director determines sufficient evidence has not been provided to adequately determine basic pay for military service, such payment shall be based upon estimates of such basic pay provided to the Director under paragraph (4)."
 
 #### Effective Date of 2000 Amendment
 

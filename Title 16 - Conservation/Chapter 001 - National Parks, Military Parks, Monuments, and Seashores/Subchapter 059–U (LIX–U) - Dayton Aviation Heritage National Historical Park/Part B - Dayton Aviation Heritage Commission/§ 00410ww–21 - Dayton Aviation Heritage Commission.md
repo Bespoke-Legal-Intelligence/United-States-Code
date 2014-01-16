@@ -70,7 +70,7 @@ Section 14(b) of the Federal Advisory Committee Act, referred to in subsec. (i),
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(2), (4) to (7). Pub. L. 104–333 substituted “after consideration of recommendations” for “from recommendations” wherever appearing.
+<b>1996</b>—Subsec. (b)(2), (4) to (7). Pub. L. 104–333 substituted "after consideration of recommendations" for "from recommendations" wherever appearing.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

@@ -20,9 +20,9 @@ Procedures.—
 
 General.—Property subject to forfeiture under this section, any seizure and disposition thereof, and any administrative or judicial proceeding in relation thereto, shall be governed by subsections (b) through (p) of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853), except that any reference under those subsections to—
 
-&emsp;&emsp;(A) “this subchapter or subchapter II” shall be deemed to be a reference to section 229A(a); and
+&emsp;&emsp;(A) "this subchapter or subchapter II" shall be deemed to be a reference to section 229A(a); and
 
-&emsp;&emsp;(B) “subsection (a)” shall be deemed to be a reference to subsection (a) of this section.
+&emsp;&emsp;(B) "subsection (a)" shall be deemed to be a reference to subsection (a) of this section.
 
 &emsp;(2)
 
@@ -30,7 +30,7 @@ Temporary restraining orders.—
 
 &emsp;&emsp;(A)
 
-In general.—For the purposes of forfeiture proceedings under this section, a temporary restraining order may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if, in addition to the circumstances described in section 413(e)(2) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853(e)(2)), the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and exigent circumstances exist that place the life or health of any person in danger.
+In general.—For the purposes of forfeiture proceedings under this section, atemporary restraining order may be entered upon application of the United States without notice or opportunity for a hearing when an information or indictment has not yet been filed with respect to the property, if, in addition to the circumstances described in section 413(e)(2) of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853(e)(2)), the United States demonstrates that there is probable cause to believe that the property with respect to which the order is sought would, in the event of conviction, be subject to forfeiture under this section and exigent circumstances exist that place the life or health of any person in danger.
 
 &emsp;&emsp;(B)
 

@@ -10,13 +10,15 @@ Any funds transferred under this section shall remain available for such purpose
 
 #### (c) Secretarial discretion
 
-The action of any officer, employee, or agent of the Secretary in carrying out this Act, including determining the amount of and making any payment authorized to be made under this chapter, shall not be subject to a review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
+The action of any officer, employee, or agent of the Secretary in carrying out this Act, including determining the amount of and makingany payment authorized to be made under this chapter, shall not be subject to a review by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
 
 (Pub. L. 106–224, title IV, §442, June 20, 2000, 114 Stat. 455; Pub. L. 107–171, title VII, §7504(b), May 13, 2002, 116 Stat. 466; Pub. L. 110–234, title X, §10203(b), May 22, 2008, 122 Stat. 1342; Pub. L. 110–246, §4(a), title X, §10203(b), June 18, 2008, 122 Stat. 1664, 2104.)
 
 #### References in Text
 
 This Act, referred to in subsec. (c), is Pub. L. 106–224, June 20, 2000, 114 Stat. 358, known as the Agricultural Risk Protection Act of 2000. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1501 of this title and Tables.
+
+This chapter, referred to in subsec. (c), was in the original "this title", meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
 #### Codification
 
@@ -26,7 +28,7 @@ Similar provisions relating to authority to transfer funds for emergency arrest 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–246, §10203(b), struck out “of longer than 60 days” after “review”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–246, §10203(b), struck out "of longer than 60 days" after "review".
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–171 added subsec. (c).
 

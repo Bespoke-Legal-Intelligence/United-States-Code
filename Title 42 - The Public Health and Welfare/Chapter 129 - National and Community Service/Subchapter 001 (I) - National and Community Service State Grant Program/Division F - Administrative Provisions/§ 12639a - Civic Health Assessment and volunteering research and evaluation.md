@@ -2,7 +2,7 @@
 
 #### (a) Definition of partnership
 
-In this section, the term “partnership” means the Corporation, acting in conjunction with (consistent with the terms of an agreement entered into between the Corporation and the National Conference) the National Conference on Citizenship referred to in section 150701 of title 36 to carry out this section.
+In this section, the term "partnership" means the Corporation, acting in conjunction with (consistent with the terms of an agreement entered into between the Corporation and the National Conference) the National Conference on Citizenship referred to in section 150701 of title 36 to carry out this section.
 
 #### (b) In general
 
@@ -112,7 +112,7 @@ The partnership shall—
 
 #### (1) Research
 
-&emsp;The partnership shall provide for baseline research and tracking of domestic and international volunteering, and baseline research and tracking related to relevant data on the indicators described in subsection (d). In providing for the research and tracking under this subsection, the partnership shall consider data from the Supplements to the Current Populations Surveys conducted by the Bureau of the Census for the Bureau of Labor Statistics, and data from other public and privatesources, including other data collected by the Bureau of the Census and the Bureau of Labor Statistics.
+&emsp;The partnership shall provide for baseline research and tracking of domestic and international volunteering, and baseline research and tracking related to relevant data on the indicators described in subsection (d). In providing for the research and tracking under this subsection, the partnership shall consider data from the Supplements to the Current Populations Surveys conducted by the Bureau of the Census for the Bureau of Labor Statistics, and data from other public and private sources, including other data collected by the Bureau of the Census and the Bureau of Labor Statistics.
 
 #### (2) Impact research and evaluation
 
@@ -132,7 +132,7 @@ Nothing in this chapter shall be construed to authorize the development, impleme
 
 #### References in Text
 
-This chapter, referred to in subsec. (h), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+This chapter, referred to in subsec. (h), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 #### Effective Date
 

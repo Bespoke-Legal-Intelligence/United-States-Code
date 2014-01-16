@@ -6,19 +6,19 @@ In this section:
 
 #### (1) Advanced nuclear facility
 
-&emsp;The term “advanced nuclear facility” means any nuclear facility the reactor design for which is approved after December 31, 1993, by the Commission (and such design or a substantially similar design of comparable capacity was not approved on or before that date).
+&emsp;The term "advanced nuclear facility" means any nuclear facility the reactor design for which is approved after December 31, 1993, by the Commission (and such design or a substantially similar design of comparable capacity was not approved on or before that date).
 
 #### (2) Combined license
 
-&emsp;The term “combined license” means a combined construction and operating license for an advanced nuclear facility issued by the Commission.
+&emsp;The term "combined license" means a combined construction and operating license for an advanced nuclear facility issued by the Commission.
 
 #### (3) Commission
 
-&emsp;The term “Commission” means the Nuclear Regulatory Commission.
+&emsp;The term "Commission" means the Nuclear Regulatory Commission.
 
 #### (4) Sponsor
 
-&emsp;The term “sponsor” means a person who has applied for or been granted a combined license.
+&emsp;The term "sponsor" means a person who has applied for or been granted a combined license.
 
 #### (b) Contract authority
 
@@ -30,15 +30,15 @@ In this section:
 
 #### (A) Definition of loan cost
 
-&emsp;&emsp;In this paragraph, the term “loan cost” has the meaning given the term “cost of a loan guarantee” under section 661a(5)(C) of title 2.
+&emsp;&emsp;In this paragraph, the term "loan cost" has the meaning given the term "cost of a loan guarantee" under section 661a(5)(C) of title 2.
 
 #### (B) Establishment of accounts
 
 &emsp;&emsp;There is established in the Department 2 separate accounts, which shall be known as the—
 
-&emsp;&emsp;&emsp;(i) “Standby Support Program Account”; and
+&emsp;&emsp;&emsp;(i) "Standby Support Program Account"; and
 
-&emsp;&emsp;&emsp;(ii) “Standby Support Grant Account”.
+&emsp;&emsp;&emsp;(ii) "Standby Support Grant Account".
 
 #### (C) Requirement
 
@@ -140,5 +140,5 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 (Pub. L. 109–58, title VI, §638, Aug. 8, 2005, 119 Stat. 791.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “to”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "to".</i>
 

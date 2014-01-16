@@ -20,7 +20,7 @@ Amounts made available to carry out the other provisions of subchapter I of this
 
 #### References in Text
 
-The Support for East European Democracy (SEED) Act of 1989, referred to in subsec. (b), is Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, as amended, which is classified principally to chapter 63 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
+The Support for East European Democracy (SEED) Act of 1989, referred to in subsec. (b), is Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, as amended, which is classified principally to chapter 63 (§5401 et seq.) of this title.For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -28,9 +28,9 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2). Pub. L. 110–457 inserted “, including investigation of individuals and entities that may be involved in trafficking in persons involving sexual exploitation” before semicolon at end.
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–457 inserted ", including investigation of individuals and entities that may be involved in trafficking in persons involving sexual exploitation" before semicolon at end.
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–193 inserted at end “Assistance may be provided under this section notwithstanding section 2420 of this title.”
+<b>2003</b>—Subsec. (b). Pub. L. 108–193 inserted at end "Assistance may be provided under this section notwithstanding section 2420 of this title."
 
 #### Delegation of Functions
 

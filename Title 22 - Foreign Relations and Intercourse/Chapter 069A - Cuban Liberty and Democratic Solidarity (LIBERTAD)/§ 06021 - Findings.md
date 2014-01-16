@@ -30,9 +30,9 @@ The Congress makes the following findings:
 
 &emsp;(10) The Congress has historically and consistently manifested its solidarity and the solidarity of the American people with the democratic aspirations of the Cuban people.
 
-&emsp;(11) The Cuban Democracy Act of 1992 \[22 U.S.C. 6001 et seq.\] calls upon the President to encourage the governments of countries that conduct trade with Cuba to restrict their tradeand credit relations with Cuba in a manner consistent with the purposes of that Act.
+&emsp;(11) The Cuban Democracy Act of 1992 \[22 U.S.C. 6001 et seq.\] calls upon the President to encourage the governments of countries that conduct trade with Cuba to restrict their trade and credit relations with Cuba in a manner consistent with the purposes of that Act.
 
-&emsp;(12) Amendments to the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] made by the FREEDOM Support Act require that the President, in providing economic assistance to Russia and the emerging Eurasian democracies, take into account the extent to which they are acting to “terminate support for the communist regime in Cuba, including removal of troops, closing military facilities, and ceasing trade subsidies and economic, nuclear, and other assistance”.
+&emsp;(12) Amendments to the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] made by the FREEDOM Support Act require that the President, in providing economic assistance to Russia and the emerging Eurasian democracies, take into account the extent to which they are acting to "terminate support for the communist regime in Cuba, including removal of troops, closing military facilities, and ceasing trade subsidies and economic, nuclear, and other assistance".
 
 &emsp;(13) The Cuban Government engages in the illegal international narcotics trade and harbors fugitives from justice in the United States.
 
@@ -40,7 +40,7 @@ The Congress makes the following findings:
 
 &emsp;(15) The Castro government has utilized from its inception and continues to utilize torture in various forms (including by psychiatry), as well as execution, exile, confiscation, political imprisonment, and other forms of terror and repression, as means of retaining power.
 
-&emsp;(16) Fidel Castro has defined democratic pluralism as “pluralistic garbage” and continues to make clear that he has no intention of tolerating the democratization of Cuban society.
+&emsp;(16) Fidel Castro has defined democratic pluralism as "pluralistic garbage" and continues to make clear that he has no intention of tolerating the democratization of Cuban society.
 
 &emsp;(17) The Castro government holds innocent Cubans hostage in Cuba by no fault of the hostages themselves solely because relatives have escaped the country.
 
@@ -50,17 +50,17 @@ The Congress makes the following findings:
 
 &emsp;(20) The United Nations Commission on Human Rights has repeatedly reported on the unacceptable human rights situation in Cuba and has taken the extraordinary step of appointing a Special Rapporteur.
 
-&emsp;(21) The Cuban Government has consistently refused access to the Special Rapporteur and formally expressed its decision not to “implement so much as one comma” of the United Nations Resolutions appointing the Rapporteur.
+&emsp;(21) The Cuban Government has consistently refused access to the Special Rapporteur and formally expressed its decision not to "implement so much as one comma" of the United Nations Resolutions appointing the Rapporteur.
 
 &emsp;(22) The United Nations General Assembly passed Resolution 47–139 on December 18, 1992, Resolution 48–142 on December 20, 1993, and Resolution 49–200 on December 23, 1994, referencing the Special Rapporteur's reports to the United Nations and condemning violations of human rights and fundamental freedoms in Cuba.
 
-&emsp;(23) Article 39 of Chapter VII of the United Nations Charter provides that the United Nations Security Council “shall determine the existence of any threat to the peace, breach of the peace, or act of aggression and shall make recommendations, or decide what measures shall be taken . . ., to maintain or restore international peace and security.”.
+&emsp;(23) Article 39 of Chapter VII of the United Nations Charter provides that the United Nations Security Council "shall determine the existence of any threat to the peace, breach of the peace, or act of aggression and shall make recommendations, or decide what measures shall be taken . . ., to maintain or restore international peace and security.".
 
-&emsp;(24) The United Nations has determined that massive and systematic violations of human rights may constitute a “threat to peace” under Article 39 and has imposed sanctions due to such violations of human rights in the cases of Rhodesia, South Africa, Iraq, and the former Yugoslavia.
+&emsp;(24) The United Nations has determined that massive and systematic violations of human rights may constitute a "threat to peace" under Article 39 and has imposed sanctions due to such violations of human rights in the cases of Rhodesia, South Africa, Iraq, and the former Yugoslavia.
 
 &emsp;(25) In the case of Haiti, a neighbor of Cuba not as close to the United States as Cuba, the United States led an effort to obtain and did obtain a United Nations Security Council embargo and blockade against that country due to the existence of a military dictatorship in power less than 3 years.
 
-&emsp;(26) United Nations Security Council Resolution 940 of July 31, 1994, subsequently authorized the use of “all necessary means” to restore the “democratically elected government of Haiti”, and the democratically elected government of Haiti was restored to power on October 15, 1994.
+&emsp;(26) United Nations Security Council Resolution 940 of July 31, 1994, subsequently authorized the use of "all necessary means" to restore the "democratically elected government of Haiti", and the democratically elected government of Haiti was restored to power on October 15, 1994.
 
 &emsp;(27) The Cuban people deserve to be assisted in a decisive manner to end the tyranny that has oppressed them for 36 years, and the continued failure to do so constitutes ethically improper conduct by the international community.
 
@@ -78,5 +78,5 @@ The FREEDOM Support Act, referred to in par. (12), is Pub. L. 102–511, Oct. 24
 
 #### Short Title
 
-Pub. L. 104–114, §1(a), Mar. 12, 1996, 110 Stat. 785, provided that: “This Act \[enacting this chapter and sections 1643l and 1643m of this title, amending sections 2295a, 2295b, 2370, 6003, and 6004 of this title, section 1611 of Title 28, Judiciary and Judicial Procedure, and section 16 of Title 50, Appendix, War and National Defense, repealing sections 1465 to 1465f, 1465aa to 1465ff, 6003, and 6005 of this title, amending provisions set out as a note under section 1446g of Title 7, Agriculture, and repealing provisions set out as notes under sections 1465, 1465c, and 1465aa of this title\] may be cited as the ‘Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996’.”
+Pub. L. 104–114, §1(a), Mar. 12, 1996, 110 Stat. 785, provided that: "This Act \[enacting this chapter and sections 1643l and 1643m of this title, amending sections 2295a, 2295b, 2370, 6003, and 6004 of this title, section 1611 of Title 28, Judiciary and Judicial Procedure, and section 16 of Title 50, Appendix, War and National Defense, repealing sections 1465 to 1465f, 1465aa to 1465ff, 6003, and 6005 of this title, amending provisions set out as a note under section 1446g of Title 7, Agriculture, and repealing provisions set out as notes under sections 1465, 1465c, and 1465aa of this title\] may be cited as the 'Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996'."
 

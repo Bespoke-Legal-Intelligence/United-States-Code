@@ -32,7 +32,7 @@ It is the sense of Congress that—
 
 &emsp;&emsp;(C) fully disclosing all information regarding citizens of Japan and the Republic of Korea abducted by the Government of North Korea;
 
-&emsp;&emsp;(D) allowing such abductees, along with their families, complete and genuine freedom to leave North Korea and return to the abductees’ original home countries;
+&emsp;&emsp;(D) allowing such abductees, along with their families, complete and genuine freedom to leave North Korea and return to the abductees' original home countries;
 
 &emsp;&emsp;(E) reforming the North Korean prison and labor camp system, and subjecting such reforms to independent international monitoring; and
 

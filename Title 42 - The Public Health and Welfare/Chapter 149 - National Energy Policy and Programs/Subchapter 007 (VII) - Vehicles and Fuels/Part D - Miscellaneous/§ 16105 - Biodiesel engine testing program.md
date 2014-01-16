@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later that <sup>1</sup> 180 days after August 8, 2005, the Secretary shall initiate a partnership with diesel engine, diesel fuel injection system, and diesel vehicle manufacturers and diesel and biodiesel fuel providers, to include biodiesel testing in advanced diesel engine and fuel system technology.
+Not later that <sup>1</sup> 180 days after August 8, 2005, the Secretary shall initiate a partnership with diesel engine, diesel fuel injection system, and diesel vehicle manufacturers and diesel and biodiesel fuel providers, to include biodiesel testingin advanced diesel engine and fuel system technology.
 
 #### (b) Scope
 
@@ -26,9 +26,9 @@ There are authorized to be appropriated $5,000,000 for each of fiscal years 2006
 
 #### (e) Definition
 
-For purposes of this section, the term “biodiesel” means a diesel fuel substitute produced from nonpetroleum renewable resources that meets the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 7545 of this title and that meets the American Society for Testing and Materials D6751–02a Standard Specification for Biodiesel Fuel (B100) Blend Stock for Distillate Fuels.
+For purposes of this section, the term "biodiesel" means a diesel fuel substitute produced from nonpetroleum renewable resources that meets the registration requirements for fuels and fuel additives established by the Environmental Protection Agency under section 7545 of this title and that meets the American Society for Testing and Materials D6751–02a Standard Specification for Biodiesel Fuel (B100) Blend Stock for Distillate Fuels.
 
 (Pub. L. 109–58, title VII, §757, Aug. 8, 2005, 119 Stat. 832.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “than”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "than".</i>
 

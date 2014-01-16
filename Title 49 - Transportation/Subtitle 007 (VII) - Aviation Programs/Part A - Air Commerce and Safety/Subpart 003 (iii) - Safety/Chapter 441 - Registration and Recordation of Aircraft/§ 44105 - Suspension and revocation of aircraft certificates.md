@@ -26,5 +26,5 @@ Aug. 23, 1958, Pub. L. 85–726, §501(e)(1), 72 Stat. 772; Oct. 19, 1984, Pub. 
 
 Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
 
-The words “when the aircraft no longer meets” are substituted for “for any cause which renders the aircraft ineligible” for consistency.
+The words "when the aircraft no longer meets" are substituted for "for any cause which renders the aircraft ineligible" for consistency.
 

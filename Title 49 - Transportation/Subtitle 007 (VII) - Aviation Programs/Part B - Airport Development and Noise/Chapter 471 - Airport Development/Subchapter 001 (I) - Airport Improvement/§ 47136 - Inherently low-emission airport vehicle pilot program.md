@@ -56,7 +56,7 @@ Report to Congress.—Not later than 18 months after the date of the enactment o
 
 (i)
 
-Inherently Low-Emission Vehicle Activity Defined.—In this section, the term “inherently low-emission vehicle activity” means—
+Inherently Low-Emission Vehicle Activity Defined.—In this section, the term "inherently low-emission vehicle activity" means—
 
 &emsp;(1) the construction of infrastructure or modifications at public-use airports to enable the delivery of fuel and services necessary for the use of vehicles that are certified as inherently low-emission vehicles under title 40 of the Code of Federal Regulations and that—
 
@@ -88,7 +88,7 @@ The date of the enactment of this section, referred to in subsec. (h), is the da
 
 #### Amendments
 
-<b>2012</b>—Subsec. (f)(2). Pub. L. 112–95 substituted “University transportation center” for “Eligible consortium” in heading and “a university transportation center” for “an eligible consortium” in text.
+<b>2012</b>—Subsec. (f)(2). Pub. L. 112–95 substituted "University transportation center" for "Eligible consortium" in heading and "a university transportation center" for "an eligible consortium" in text.
 
 #### Effective Date
 

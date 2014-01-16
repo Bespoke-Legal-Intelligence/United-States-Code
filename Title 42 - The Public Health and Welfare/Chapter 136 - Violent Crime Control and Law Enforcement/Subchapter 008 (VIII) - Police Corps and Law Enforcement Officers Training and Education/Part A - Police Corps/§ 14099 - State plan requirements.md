@@ -38,5 +38,5 @@ A State Police Corps plan shall—
 
 #### Amendments
 
-<b>2002</b>—Par. (2). Pub. L. 107–273 substituted “except with permission of the Director, no more than 25 percent” for “no more than 10 percent”.
+<b>2002</b>—Par. (2). Pub. L. 107–273 substituted "except with permission of the Director, no more than 25 percent" for "no more than 10 percent".
 

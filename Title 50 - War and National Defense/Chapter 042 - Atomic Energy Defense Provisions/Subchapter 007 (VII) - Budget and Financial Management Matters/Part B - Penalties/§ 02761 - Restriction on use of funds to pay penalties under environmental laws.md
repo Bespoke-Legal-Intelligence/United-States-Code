@@ -10,15 +10,17 @@ Subsection (a) shall not apply with respect to an environmental requirement if�
 
 &emsp;(1) the President fails to request funds for compliance with the environmental requirement; or
 
-&emsp;(2) the Congress has appropriated funds for such purpose (and such funds have not been sequestered, deferred, or rescinded) and the Secretary of Energy fails to use the funds for such purpose.
+&emsp;(2) Congress has appropriated funds for such purpose (and such funds have not been sequestered, deferred, or rescinded) and the Secretary of Energy fails to use the funds for such purpose.
 
-(Pub. L. 107–314, div. D, title XLVII, §4721, formerly Pub. L. 99–661, div. C, title I, §3132, Nov. 14, 1986, 100 Stat. 4063; renumbered Pub. L. 107–314, div. D, title XLVII, §4721, and amended Pub. L. 108–136, div. C, title XXXI, §3141(j)(4), Nov. 24, 2003, 117 Stat. 1781.)
+(Pub. L. 107–314, div. D, title XLVII, §4721, formerly Pub. L. 99–661, div. C, title I, §3132, Nov. 14, 1986, 100 Stat. 4063; renumbered Pub. L. 107–314, div. D, title XLVII, §4721, and amended Pub. L. 108–136, div. C, title XXXI, §3141(j)(4), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 113–66, div. C, title XXXI, §3146(h)(5), Dec. 26, 2013, 127 Stat. 1081.)
 
 #### Codification
 
 Section was formerly classified to section 7273a of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(2). Pub. L. 113–66 substituted "Congress" for "the Congress".
 
 <b>2003</b>—Pub. L. 108–136, §3141(j)(4)(D), made technical amendment to section catchline.
 

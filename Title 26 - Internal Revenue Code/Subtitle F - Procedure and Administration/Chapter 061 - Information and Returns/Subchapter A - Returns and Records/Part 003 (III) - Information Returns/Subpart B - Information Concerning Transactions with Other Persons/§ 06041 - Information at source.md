@@ -6,7 +6,7 @@ All persons engaged in a trade or business and making payment in the course of s
 
 #### (b) Collection of foreign items
 
-In the case of collections of items (not payable in the United States) of interest upon the bonds of foreign countries and interest upon the bondsof and dividends from foreign corporations by any person undertaking as a matter of business or for profit the collection of foreign payments of such interest or dividends by means of coupons, checks, or bills of exchange, such person shall make a return according to the forms or regulations prescribed by the Secretary, setting forth the amount paid and the name and address of the recipient of each such payment.
+In the case of collections of items (not payable in the United States) of interest upon the bonds of foreign countries and interest upon the bonds of and dividends from foreign corporations by any person undertaking as a matter of business or for profit the collection of foreign payments of such interest or dividends by means of coupons, checks, or bills of exchange, such person shall make a return according to the forms or regulations prescribed by the Secretary, setting forth the amount paid and the name and address of the recipient of each such payment.
 
 #### (c) Recipient to furnish name and address
 
@@ -42,25 +42,25 @@ Subsection (a) shall apply to—
 
 &emsp;(2) any amount includible under section 409A and which is not treated as wages under section 3401(a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 745; Pub. L. 87–834, §19(f), Oct. 16, 1962, 76 Stat. 1058; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title V, §501(b), Nov. 6, 1978, 92 Stat. 2878; Pub. L. 97–34, title VII, §723(b)(1), Aug. 13, 1981, 95 Stat. 344; Pub. L. 97–248, title III, §309(b)(1), Sept. 3, 1982, 96 Stat. 595; Pub. L. 98–369, div. A, title VII, §722(h)(4)(B), July 18, 1984, 98 Stat. 976; Pub. L. 99–514, title XV, §§1501(c)(1), 1523(b)(2), Oct. 22, 1986, 100 Stat. 2736, 2748; Pub. L. 104–168, title XII, §1201(a)(1), July 30, 1996, 110 Stat. 1469; Pub. L. 108–173, title XII, §1203(a), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–357, title VIII, §885(b)(3), Oct. 22, 2004, 118 Stat. 1640; Pub. L. 111–148, title IX, §9006(a), (b), Mar. 23, 2010, 124 Stat. 855; Pub. L. 111–240, title II, §2101(a), Sept. 27, 2010, 124 Stat. 2561; Pub. L. 112–9, §§2(a), (b), 3(a), Apr. 14, 2011, 125 Stat. 36.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 745; Pub. L. 87–834, §19(f), Oct. 16, 1962, 76 Stat. 1058; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 95–600, title V, §501(b), Nov. 6, 1978, 92 Stat. 2878; Pub. L. 97–34, title VII, §723(b)(1), Aug. 13, 1981, 95 Stat. 344; Pub. L.97–248, title III, §309(b)(1), Sept. 3, 1982, 96 Stat. 595; Pub. L. 98–369, div. A, title VII, §722(h)(4)(B), July 18, 1984, 98 Stat. 976; Pub. L. 99–514, title XV, §§1501(c)(1), 1523(b)(2), Oct. 22, 1986, 100 Stat. 2736, 2748; Pub. L. 104–168, title XII, §1201(a)(1), July 30, 1996, 110 Stat. 1469; Pub. L. 108–173, title XII, §1203(a), Dec. 8, 2003, 117 Stat. 2480; Pub. L. 108–357, title VIII, §885(b)(3), Oct. 22, 2004, 118 Stat. 1640; Pub. L. 111–148, title IX, §9006(a), (b), Mar. 23, 2010, 124 Stat. 855; Pub. L. 111–240, title II, §2101(a), Sept. 27, 2010, 124 Stat. 2561; Pub. L. 112–9, §§2(a), (b), 3(a), Apr. 14, 2011, 125 Stat. 36.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–9, §2(b), struck out “amounts in consideration for property,” after “salaries, wages,”, “gross proceeds,” after “emoluments, or other”, and “gross proceeds,” after “setting forth the amount of such”.
+<b>2011</b>—Subsec. (a). Pub. L. 112–9, §2(b), struck out "amounts in consideration for property," after "salaries, wages,", "gross proceeds," after "emoluments, or other", and "gross proceeds," after "setting forth the amount of such".
 
 Subsec. (h). Pub. L. 112–9, §3(a), struck out subsec. (h) which related to treatment of rental property expense payments.
 
 Subsecs. (i), (j). Pub. L. 112–9, §2(a), struck out subsecs. (i) and (j) which read as follows:
 
-“(i)
+"(i)
 
-Application to Corporations.—Notwithstanding any regulation prescribed by the Secretary before the date of the enactment of this subsection, for purposes of this section the term ‘person’ includes any corporation that is not an organization exempt from tax under section 501(a).
+Application to Corporations.—Notwithstanding any regulation prescribed by the Secretary before the date of the enactment of this subsection, for purposes of this section the term 'person' includes any corporation that is not an organization exempt from tax under section 501(a).
 
-“(j)
+"(j)
 
-Regulations.—The Secretary may prescribe such regulations and other guidance as may be appropriate or necessary to carry out the purposes of this section, including rules to prevent duplicative reporting of transactions.”
+Regulations.—The Secretary may prescribe such regulations and other guidance as may be appropriate or necessary to carry out the purposes of this section, including rules to prevent duplicative reporting of transactions."
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148, §9006(b), inserted “amounts in consideration for property,” after “salaries, wages,”, “gross proceeds,” after “emoluments, or other”, and “gross proceeds,” after “setting forth the amount of such”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §9006(b), inserted "amounts in consideration for property," after "salaries, wages,", "gross proceeds," after "emoluments, or other", and "gross proceeds," after "setting forth the amount of such".
 
 Subsec. (h). Pub. L. 111–240 added subsec. (h). Former subsec. (h) redesignated (i).
 
@@ -76,37 +76,37 @@ Subsec. (j). Pub. L. 111–240 redesignated subsec. (i) as (j).
 
 <b>2003</b>—Subsec. (f). Pub. L. 108–173 added subsec. (f).
 
-<b>1996</b>—Subsec. (d)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–168 substituted "name, address, and phone number of the information contact" for "name and address".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1523(b)(2), substituted “6049(a), or 6050N(a)” for “or 6049(a)”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1523(b)(2), substituted "6049(a), or 6050N(a)" for "or 6049(a)".
 
-Subsec. (d). Pub. L. 99–514, §1501(c)(1), in amending subsec. (d) generally, substituted “information is required” for “information is furnished” in heading and, in text, substituted references to persons required to make returns for former references to persons making returns.
+Subsec. (d). Pub. L. 99–514, §1501(c)(1), in amending subsec. (d) generally, substituted "information is required" for "information is furnished" in heading and, in text, substituted references to persons required to make returns for former references to persons making returns.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369 inserted “6047(e),”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 inserted "6047(e),".
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–248 substituted “6049(a)” for “6049(a)(1)”, and “or 6045” for “6045, 6049(a)(2), or 6049(a)(3)”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–248 substituted "6049(a)" for "6049(a)(1)", and "or 6045" for "6045, 6049(a)(2), or 6049(a)(3)".
 
 <b>1981</b>—Subsecs. (d), (e). Pub. L. 97–34 added subsec. (d) and redesignated former subsec. (d) as (e).
 
 <b>1978</b>—Subsecs. (c), (d). Pub. L. 95–600 added subsec. (d) and redesignated subsec. (d) as (c).
 
-<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–834, §19(f)(1), substituted “(other than payments to which section 6042(a)(1), 6044(a)(1), or 6049(a)(1) applies, and other than payments with respect to which a statement is required under the authority of section 6042(a)(2), 6044(a)(2), 6045, 6049(a)(2), or 6049(a)(3))” for “other than payments described in section 6042(1) or section 6045)”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–834, §19(f)(1), substituted "(other than payments to which section 6042(a)(1), 6044(a)(1), or 6049(a)(1) applies, and other than payments with respect to which a statement is required under the authority of section 6042(a)(2), 6044(a)(2), 6045, 6049(a)(2), or 6049(a)(3))" for "other than payments described in section 6042(1) or section 6045)".
 
 Subsec. (c). Pub. L. 87–834, §19(f)(2), repealed subsec. (c) which related to returns of payments of interest by corporations.
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–9, §2(c), Apr. 14, 2011, 125 Stat. 36, provided that: “The amendments made by this section \[amending this section\] shall apply to payments made after December 31, 2011.”
+Pub. L. 112–9, §2(c), Apr. 14, 2011, 125 Stat. 36, provided that: "The amendments made by this section \[amending this section\] shall apply to payments made after December 31, 2011."
 
-Pub. L. 112–9, §3(b), Apr. 14, 2011, 125 Stat. 36, provided that: “The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 2010.”
+Pub. L. 112–9, §3(b), Apr. 14, 2011, 125 Stat. 36, provided that: "The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 2010."
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–240, title II, §2101(b), Sept. 27, 2010, 124 Stat. 2561, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to payments made after December 31, 2010.”
+Pub. L. 111–240, title II, §2101(b), Sept. 27, 2010, 124 Stat. 2561, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to payments made after December 31, 2010."
 
-Pub. L. 111–148, title IX, §9006(c), Mar. 23, 2010, 124 Stat. 855, provided that: “The amendments made by this section \[amending this section\] shall apply to payments made after December 31, 2011.”
+Pub. L. 111–148, title IX, §9006(c), Mar. 23, 2010, 124 Stat. 855, provided that: "The amendments made by this section \[amending this section\] shall apply to payments made after December 31, 2011."
 
 #### Effective Date of 2004 Amendment
 
@@ -114,11 +114,11 @@ Amendment by Pub. L. 108–357 applicable to amounts deferred after Dec. 31, 200
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title XII, §1203(b), Dec. 8, 2003, 117 Stat. 2480, provided that: “The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 2002.”
+Pub. L. 108–173, title XII, §1203(b), Dec. 8, 2003, 117 Stat. 2480, provided that: "The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 2002."
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–168, title XII, §1201(b), July 30, 1996, 110 Stat. 1470, provided that: “The amendments made by subsection (a) \[amending this section and sections 6041A, 6042, 6044, 6045, 6049, 6050B, 6050H to 6050K, and 6050N of this title\] shall apply to statements required to be furnished after December 31, 1996 (determined without regard to any extension).”
+Pub. L. 104–168, title XII, §1201(b), July 30, 1996, 110 Stat. 1470, provided that: "The amendments made by subsection (a) \[amending this section and sections 6041A, 6042, 6044, 6045, 6049, 6050B, 6050H to 6050K, and 6050N of this title\] shall apply to statements required to be furnished after December 31, 1996 (determined without regard to any extension)."
 
 #### Effective Date of 1986 Amendment
 
@@ -148,21 +148,21 @@ Amendment by Pub. L. 87–834 applicable to payments of dividends and interest m
 
 #### Allowance of Electronic 1099's
 
-Pub. L. 107–147, title IV, §401, Mar. 9, 2002, 116 Stat. 40, provided that: “Any person required to furnish a statement under any section of subpart B of part III of subchapter A of chapter 61 of the Internal Revenue Code of 1986 for any taxable year ending after the date of the enactment of this Act \[Mar. 9, 2002\], may electronically furnish such statement (without regard to any first class mailing requirement) to any recipient who has consented to the electronic provision of the statement in a manner similar to the one permitted under regulations issued under section 6051 of such Code or in such other manner as provided by the Secretary.”
+Pub. L. 107–147, title IV, §401, Mar. 9, 2002, 116 Stat. 40, provided that: "Any person required to furnish a statement under any section of subpart B of part III of subchapter A of chapter 61 of the Internal Revenue Code of 1986 for any taxable year ending after the date of the enactment of this Act \[Mar. 9, 2002\], may electronically furnish such statement (without regard to any first class mailing requirement) to any recipient who has consented to the electronic provision of the statement in a manner similar to the one permitted under regulations issued under section 6051 of such Code or in such other manner as provided by the Secretary."
 
 #### Employer's Duties in Connection With Recording and Reporting of Tips
 
 Pub. L. 94–455, title XXI, §2211, Oct. 4, 1976, 90 Stat. 1905, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(a)
+"(a)
 
 Suspension of Rulings.—Until January 1, 1979, the law with respect to the duty of an employer under section 6041(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] to report charge account tips of employees to the Internal Revenue Service (other than charge account tips included in statements furnished to the employer under section 6053(a) of such Code) shall be administered—
 
-&emsp;“(1) without regard to Revenue Rulings 75–400 and 76–231, and
+&emsp;"(1) without regard to Revenue Rulings 75–400 and 76–231, and
 
-&emsp;“(2) in accordance with the manner in which such law was administered before the issuance of such rulings.
+&emsp;"(2) in accordance with the manner in which such law was administered before the issuance of such rulings.
 
-“(b)
+"(b)
 
-Effective Date.—This section shall take effect on January 1, 1976.”
+Effective Date.—This section shall take effect on January 1, 1976."
 

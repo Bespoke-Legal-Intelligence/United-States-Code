@@ -26,7 +26,7 @@ Any person who—
 
 #### (6) Distilling on prohibited premises
 
-&emsp;uses, or possesses with intent to use, any still, boiler, or other utensil for the purpose of producing distilled spirits, or aids or assists therein, or causes or procures the same to be done, in any dwelling house, or in any shed,yard, or inclosure connected with such dwelling house (except as authorized under section 5178(a)(1)(C)), or on board any vessel or boat, or on any premises where beer or wine is made or produced, or where liquors of any description are retailed, or on premises where any other business is carried on (except when authorized under section 5178(b)); or
+&emsp;uses, or possesses with intent to use, any still, boiler, or other utensil for the purpose of producing distilled spirits, or aids or assists therein, or causes or procures the same to be done, in any dwelling house, or in any shed, yard, or inclosure connected with such dwelling house (except as authorized under section 5178(a)(1)(C)), or on board any vessel or boat, or on any premises where beer or wine is made or produced, or where liquors of any description are retailed, or on premises where any other business is carried on (except when authorized under section 5178(b)); or
 
 #### (7) Unlawful production, removal, or use of material fit for production of distilled spirits
 
@@ -110,23 +110,23 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 627, 64
 
 <b>1980</b>—Subsec. (a)(15). Pub. L. 96–223 added par. (15).
 
-<b>1979</b>—Subsec. (a)(2). Pub. L. 96–39, §807(a)(52)(A), struck out “distiller or rectifier” in heading and substituted “processor” for “rectifier” and “section 5171(c)” for “section 5171(a)” in text.
+<b>1979</b>—Subsec. (a)(2). Pub. L. 96–39, §807(a)(52)(A), struck out "distiller or rectifier" in heading and substituted "processor" for "rectifier" and "section 5171(c)" for "section 5171(a)" in text.
 
-Subsec. (a)(3). Pub. L. 96–39, §807(a)(52)(B), substituted “warehouseman, or processor” for “bonded warehouseman, rectifier, or bottler”.
+Subsec. (a)(3). Pub. L. 96–39, §807(a)(52)(B), substituted "warehouseman, or processor" for "bonded warehouseman, rectifier, or bottler".
 
-Subsec. (a)(4). Pub. L. 96–39, §807(a)(52)(C), substituted “warehouseman, or processor” for “or rectifier” in heading and in text.
+Subsec. (a)(4). Pub. L. 96–39, §807(a)(52)(C), substituted "warehouseman, or processor" for "or rectifier" in heading and in text.
 
-Subsec. (a)(5). Pub. L. 96–39, §807(a)(52)(B), substituted “warehouseman, or processor” for “bonded warehouseman, rectifier, or bottler”.
+Subsec. (a)(5). Pub. L. 96–39, §807(a)(52)(B), substituted "warehouseman, or processor" for "bonded warehouseman, rectifier, or bottler".
 
-Subsec. (a)(10). Pub. L. 96–39, §807(a)(52)(D), substituted “processing” for “rectifying or bottling” in par. (10) heading, “processor” for “rectifier, or a bottler of distilled spirits” in text preceding subpar. (A), and “processed” for “rectified or bottled” in subpar. (A).
+Subsec. (a)(10). Pub. L. 96–39, §807(a)(52)(D), substituted "processing" for "rectifying or bottling" in par. (10) heading, "processor" for "rectifier, or a bottler of distilled spirits" in text preceding subpar. (A), and "processed" for "rectified or bottled" in subpar. (A).
 
-Subsec. (a)(11). Pub. L. 96–39, §807(a)(52)(E), substituted “or processing” for “rectification, or bottling” in heading and “or processes” for “rectifies, or bottles” in text.
+Subsec. (a)(11). Pub. L. 96–39, §807(a)(52)(E), substituted "or processing" for "rectification, or bottling" in heading and "or processes" for "rectifies, or bottles" in text.
 
-Subsec. (b). Pub. L. 96–39, §807(a)(52)(F), substituted “processor” for “rectifier”.
+Subsec. (b). Pub. L. 96–39, §807(a)(52)(F), substituted "processor" for "rectifier".
 
-<b>1976</b>—Subsec. (a)(7). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a)(7). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Subsec. (b). Pub. L. 94–455, §1905(a)(22), struck out par. (1) relating to presumptions in the matter of unregistered stills, par. (3) relating to presumptions in the matter of unlawful production, removal, or use of material fit for production of distilled spirits, and par. (4) relating to presumptions in the matter of unlawful production of distilled spirits, and struck out the number designation “(2)” and heading for former par. (2), leaving only the text for former par. (2) relating to presumptions in the matter of failure or refusal of distiller or rectifier to give bond.
+Subsec. (b). Pub. L. 94–455, §1905(a)(22), struck out par. (1) relating to presumptions in the matter of unregistered stills, par. (3) relating to presumptions in the matter of unlawful production, removal, or use of material fit for production of distilled spirits, and par. (4) relating to presumptions in the matter of unlawful production of distilled spirits, and struck out the number designation "(2)" and heading for former par. (2), leaving only the text for former par. (2) relating to presumptions in the matter of failure or refusal of distiller or rectifier to give bond.
 
 #### Effective Date of 1980 Amendment
 
@@ -146,7 +146,7 @@ Section effective July 1, 1959, see section 210(a)(1) of Pub. L. 85–859, set o
 
 #### Prosecution and Punishment of Offenses Committed and Penalties or Forfeitures Incurred; Savings Provision
 
-Pub. L. 85–859, title II, §210(c), Sept. 2, 1958, 72 Stat. 1435, provided that: “All offenses committed, and all penalties or forfeitures incurred, under any provision of law amended by this title \[enacting sections 5849, 5854, 5855 and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 7272, 7301, 7224 to 7326, 7609, 7652 and 7655 of this title, and enacting notes set out under this section and sections 5001, 5006, 5025, 5064, 5175, and 5304 of this title\], may be prosecuted and punished in the same manner and with the same effect as if this title had not been enacted.”
+Pub. L. 85–859, title II, §210(c), Sept. 2, 1958, 72 Stat. 1435, provided that: "All offenses committed, and all penalties or forfeitures incurred, under any provision of law amended by this title \[enacting sections 5849, 5854, 5855 and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 7272, 7301, 7224 to 7326, 7609, 7652 and 7655 of this title, and enacting notes set out under this section and sections 5001, 5006, 5025, 5064, 5175, and 5304 of this title\], may be prosecuted and punished in the same manner and with the same effect as if this title had not been enacted."
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

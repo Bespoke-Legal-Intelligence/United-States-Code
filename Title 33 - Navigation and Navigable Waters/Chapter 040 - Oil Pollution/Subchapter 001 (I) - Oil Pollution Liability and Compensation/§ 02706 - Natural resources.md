@@ -42,9 +42,9 @@ In the case of natural resource damages under section 2702(b)(2)(A) of this titl
 
 &emsp;&emsp;(A) shall assess natural resource damages under section 2702(b)(2)(A) of this title for the natural resources under their trusteeship;
 
-&emsp;&emsp;(B) may, upon request of and reimbursement from a State or Indian tribe and at the Federal officials’ discretion, assess damages for the natural resources under the State's or tribe's trusteeship; and
+&emsp;&emsp;(B) may, upon request of and reimbursement from a State or Indian tribe and at the Federal officials' discretion, assess damages for the natural resources under the State's or tribe's trusteeship; and
 
-&emsp;&emsp;(C) shall develop and implement a plan for the restoration, rehabilitation, replacement, or acquisition of the equivalent, of the natural resources under their trusteeship.
+&emsp;&emsp;(C) shall develop and implement a plan for the restoration, rehabilitation, replacement,or acquisition of the equivalent, of the natural resources under their trusteeship.
 
 #### (2) State trustees
 
@@ -102,7 +102,7 @@ In the case of natural resource damages under section 2702(b)(2)(A) of this titl
 
 #### (2) Rebuttable presumption
 
-&emsp;Any determination or assessment of damages to natural resources for the purposes of this Act made under subsection (d) of this section by a Federal, State, or Indian trustee in accordance with the regulations promulgatedunder paragraph (1) shall have the force and effect of a rebuttable presumption on behalf of the trustee in any administrative or judicial proceeding under this Act.
+&emsp;Any determination or assessment of damages to natural resources for the purposes of this Act made under subsection (d) of this section by a Federal, State, or Indian trustee in accordance with the regulations promulgated under paragraph (1) shall have the force and effect of a rebuttable presumption on behalf of the trustee in any administrative or judicial proceeding under this Act.
 
 #### (f) Use of recovered sums
 
@@ -126,33 +126,33 @@ Functions of President under subsec. (b)(3) and (4) of this section delegated to
 
 Pub. L. 102–567, title II, §205, Oct. 29, 1992, 106 Stat. 4282, provided that:
 
-“(a)
+"(a)
 
-Treatment of Amounts Received as Reimbursement of Expenses.—Notwithstanding any other provision of law, amounts received by the United States as reimbursement of expenses related to oil or hazardous substance spill response activities, or natural resource damage assessment, restoration, rehabilitation, replacement, or acquisition activities, conducted (or to be conducted) by the National Oceanic and Atmospheric Administration—
+Treatment of Amounts Received as Reimbursement of Expenses.—Notwithstanding any otherprovision of law, amounts received by the United States as reimbursement of expenses related to oil or hazardous substance spill response activities, or natural resource damage assessment, restoration, rehabilitation, replacement, or acquisition activities, conducted (or to be conducted) by the National Oceanic and Atmospheric Administration—
 
-&emsp;“(1) shall be deposited into the Fund;
+&emsp;"(1) shall be deposited into the Fund;
 
-&emsp;“(2) shall be available, without fiscal year limitation and without apportionment, for use in accordance with the law under which the activities are conducted; and
+&emsp;"(2) shall be available, without fiscal year limitation and without apportionment, for use in accordance with the law under which the activities are conducted; and
 
-&emsp;“(3) shall not be considered to be an augmentation of appropriations.
+&emsp;"(3) shall not be considered to be an augmentation of appropriations.
 
-“(b)
+"(b)
 
 Application.—Subsection (a) shall apply to amounts described in subsection (a) that are received—
 
-&emsp;“(1) after the date of the enactment of this Act \[Oct. 29, 1992\]; or
+&emsp;"(1) after the date of the enactment of this Act \[Oct. 29, 1992\]; or
 
-&emsp;“(2) with respect to the oil spill associated with the grounding of the EXXON VALDEZ.
+&emsp;"(2) with respect to the oil spill associated with the grounding of the EXXON VALDEZ.
 
-“(c)
+"(c)
 
 Definitions.—For purposes of this section—
 
-&emsp;“(1) the term ‘Fund’ means the Damage Assessment and Restoration Revolving Fund of the National Oceanic and Atmospheric Administration referred to in title I of Public Law 101–515 under the heading ‘National Oceanic and Atmospheric Administration’ (104 Stat. 2105) \[set out as a note below\]; and
+&emsp;"(1) the term 'Fund' means the Damage Assessment and Restoration Revolving Fund of the National Oceanic and Atmospheric Administration referred to in title I of Public Law 101–515 under the heading 'National Oceanic and Atmospheric Administration' (104 Stat. 2105) \[set out as a note below\]; and
 
-&emsp;“(2) the term ‘expenses’ includes incremental and base salaries, ships, aircraft, and associated indirect costs, except the term does not include base salaries and benefits of National Oceanic and Atmospheric Administration Support Coordinators.”
+&emsp;"(2) the term 'expenses' includes incremental and base salaries, ships, aircraft, and associated indirect costs, except the term does not include base salaries and benefits of National Oceanic and Atmospheric Administration Support Coordinators."
 
 #### Damage Assessment and Restoration Revolving Fund; Deposits; Availability; Transfer
 
-Pub. L. 101–515, title I, Nov. 5, 1990, 104 Stat. 2105, provided that: “For contingency planning, response and natural resource damage assessment and restoration activities, pursuant to the Comprehensive Environmental Response, Compensation\[,\] and Liability Act \[of 1980\], as amended \[42 U.S.C. 9601 et seq.\], the Federal Water Pollution Control Act, as amended \[33 U.S.C. 1251 et seq.\], the Marine Protection, Research\[,\] and Sanctuaries Act \[of 1972\], as amended \[16 U.S.C. 1431et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.\], and the Oil Pollution Act of 1990 \[33 U.S.C. 2701 et seq.\], $5,000,000 to remain available until expended: <i>Provided</i>, That notwithstanding any other provision of law, in fiscal year 1991 and thereafter, sums provided by any party or governmental entity for natural resource damage assessment, response or restoration activities conducted or to be conducted by the National Oceanic and Atmospheric Administration as a result of any injury to the marine environment and/or resources for which the National Oceanic and Atmospheric Administration acts as trustee of said marine environment and/or resources, shall be deposited in the Damage Assessment and Restoration Revolving Fund and said funds so deposited shall remain available until expended: <i>Provided further</i>, That for purposes of obligation and expenditure in fiscal year 1991 and thereafter, sums available in the Damage Assessment and Restoration Revolving Fund may be transferred, upon the approval of the Secretary of Commerce or his delegate, to the Operations, Research, and Facilities appropriation of the National Oceanic and Atmospheric Administration.”
+Pub. L. 101–515, title I, Nov. 5, 1990, 104 Stat. 2105, provided that: "For contingency planning, response and natural resource damage assessment and restoration activities, pursuant to the Comprehensive Environmental Response, Compensation\[,\] and Liability Act \[of 1980\], as amended \[42 U.S.C. 9601 et seq.\], the Federal Water Pollution Control Act, as amended \[33 U.S.C. 1251 et seq.\], the Marine Protection, Research\[,\] and Sanctuaries Act \[of 1972\], as amended \[16 U.S.C. 1431et seq., 1447 et seq.; 33 U.S.C. 1401 et seq., 2801 et seq.\], and the Oil Pollution Act of 1990 \[33 U.S.C. 2701 et seq.\], $5,000,000 to remain available until expended: <i>Provided</i>, That notwithstanding any other provision of law, in fiscal year 1991 and thereafter, sums provided by any party or governmental entity for natural resource damage assessment, response or restoration activities conducted or to be conducted by the National Oceanic and Atmospheric Administration as a result of any injury to the marine environment and/or resources for which the National Oceanic and Atmospheric Administration acts as trustee of said marine environment and/or resources, shall be deposited in the Damage Assessment and Restoration Revolving Fund and said funds so deposited shall remain available until expended: <i>Provided further</i>, That for purposes of obligation and expenditure in fiscal year 1991 and thereafter, sums available in the Damage Assessment and Restoration Revolving Fund may be transferred, upon the approval of the Secretary of Commerce or his delegate, to the Operations, Research, and Facilities appropriation of the National Oceanic and Atmospheric Administration."
 

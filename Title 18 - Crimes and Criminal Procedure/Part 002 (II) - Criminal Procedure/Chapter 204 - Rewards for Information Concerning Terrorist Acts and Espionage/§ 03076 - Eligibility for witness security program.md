@@ -10,5 +10,5 @@ Section 36 of the State Department Basic Authorities Act of 1956, referred to in
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–646 substituted “chapter 224 of this title” for “title V of the Organized Crime Control Act of 1970”.
+<b>1986</b>—Pub. L. 99–646 substituted "chapter 224 of this title" for "title V of the Organized Crime Control Act of 1970".
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Oct. 20, 1978, Pub. L. 95–493, §5(b) 92 Stat. 1644.
 
-The words “at all times” are omitted as unnecessary. The words “to receive” are substituted for “authorized to accept”, and the words “is notice to or service on” are substituted for “shall be deemed as service or notice upon”, for consistency in the revised title.
+The words "at all times" are omitted as unnecessary. The words "to receive" are substituted for "authorized to accept", and the words "is notice to or service on" are substituted for "shall be deemed as service or notice upon", for consistency in the revised title.
 

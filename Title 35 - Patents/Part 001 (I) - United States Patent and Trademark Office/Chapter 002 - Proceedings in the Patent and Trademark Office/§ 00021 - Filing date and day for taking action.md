@@ -10,17 +10,17 @@
 
 Based on Title 35, U.S.C., 1946 ed., §21 (Mar. 2, 1927, ch. 273, §14, 44 Stat. 1337).
 
-“Fixed by statute” is omitted from the corresponding section of the existing statute as unnecessary. Saturday is added as a day on which action need not be taken.
+"Fixed by statute" is omitted from the corresponding section of the existing statute as unnecessary. Saturday is added as a day on which action need not be taken.
 
 #### Amendments
 
 <b>2002</b>—Subsec. (a). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in two places.
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" in two places.
 
-<b>1982</b>—Pub. L. 97–247 substituted “Filing date and day for taking action” for “Day for taking action falling on Saturday, Sunday, or holiday” as section catchline, added subsec. (a), redesignated existing provisions as subsec. (b) and inserted “Federal” after “Sunday, or a”.
+<b>1982</b>—Pub. L. 97–247 substituted "Filing date and day for taking action" for "Day for taking action falling on Saturday, Sunday, or holiday" as section catchline, added subsec. (a), redesignated existing provisions as subsec. (b) and inserted "Federal" after "Sunday, or a".
 
-<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 #### Effective Date of 1999 Amendment
 

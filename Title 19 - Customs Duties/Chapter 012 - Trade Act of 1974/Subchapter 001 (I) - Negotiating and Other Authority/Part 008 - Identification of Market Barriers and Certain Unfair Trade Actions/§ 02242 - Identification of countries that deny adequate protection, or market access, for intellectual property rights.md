@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-By no later than the date that is 30 days after the date on which the annual report is submitted to Congressional committees under section 2241(b) of this title, the United States Trade Representative (hereafter in this section referred to as the “Trade Representative”) shall identify—
+By no later than the date that is 30 days after the date on which the annual report is submitted to Congressional committees under section 2241(b) of this title, the United States Trade Representative (hereafter in this section referred to as the "Trade Representative") shall identify—
 
 &emsp;(1) those foreign countries that—
 
@@ -14,7 +14,7 @@ By no later than the date that is 30 days after the date on which the annual rep
 
 #### (b) Special rules for identifications
 
-(1) In identifying priority foreign countries under subsection (a)(2) of this section, the Trade Representative shall only identify those foreign countries—
+(1) In identifying priority foreign countries under subsection (a)(2) of this section, the TradeRepresentative shall only identify those foreign countries—
 
 &emsp;(A) that have the most onerous or egregious acts, policies, or practices that—
 
@@ -62,7 +62,7 @@ By no later than the date that is 30 days after the date on which the annual rep
 
 For purposes of this section—
 
-&emsp;(1) The term “persons that rely upon intellectual property protection” means persons involved in—
+&emsp;(1) The term "persons that rely upon intellectual property protection" means persons involved in—
 
 &emsp;&emsp;(A) the creation, production or licensing of works of authorship (within the meaning of sections 102 and 103 of title 17) that are copyrighted, or
 
@@ -96,7 +96,7 @@ The Trade Representative shall publish in the Federal Register a list of foreign
 
 #### (2) Special rules for identifications
 
-&emsp;For purposes of section 2412(b)(2)(A) of this title, an act, policy, or practice identified under this subsection shall be treated as an act, policy, or practice that is the basis for identification of a country under subsection\(a)(2) of this section, unless the United States has already taken action pursuant to article 2106 of the North American Free Trade Agreement in response to such act, policy, or practice. In deciding whether to identify an act, policy, or practice under paragraph (1), the Trade Representative shall—
+&emsp;For purposes of section 2412(b)(2)(A) of this title, an act, policy, or practice identified under this subsection shall be treated as an act, policy, or practice that is the basis for identification of a country under subsection (a)(2) of this section, unless the United States has already taken action pursuant to article 2106 of the North American Free Trade Agreement in response to such act, policy, or practice. In deciding whether to identify an act, policy, or practice under paragraph (1), the Trade Representative shall—
 
 &emsp;&emsp;(A) consult with and take into account the views of representatives of the relevant domestic industries, appropriate committees established pursuant to section 2155 of this title, and appropriate officers of the Federal Government, and
 
@@ -104,7 +104,7 @@ The Trade Representative shall publish in the Federal Register a list of foreign
 
 #### (3) Cultural industries
 
-&emsp;For purposes of this subsection, the term “cultural industries” means persons engaged in any of the following activities:
+&emsp;For purposes of this subsection, the term "cultural industries" means persons engaged in any of the following activities:
 
 &emsp;&emsp;(A) The publication, distribution, or sale of books, magazines, periodicals, or newspapers in print or machine readable form but not including the sole activity of printing or typesetting any of the foregoing.
 
@@ -124,11 +124,11 @@ The Trade Representative shall, by not later than the date by which countries ar
 
 #### Amendments
 
-<b>1999</b>—Subsec. (b)(2)(A). Pub. L. 106–113 substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents and Trademarks”.
+<b>1999</b>—Subsec. (b)(2)(A). Pub. L. 106–113 substituted "Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office" for "Commissioner of Patents and Trademarks".
 
 <b>1994</b>—Subsec. (b)(4). Pub. L. 103–465, §313(1), added par. (4).
 
-Subsec. (d)(3). Pub. L. 103–465, §313(2)(A), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “A foreign country denies fair and equitable market access if the foreign country effectively denies access to a market for a product protected by a copyright, patent, or process patent through the use of laws, procedures, practices, or regulations which—”.
+Subsec. (d)(3). Pub. L. 103–465, §313(2)(A), amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "A foreign country denies fair and equitable market access if the foreign country effectively denies access to a market for a product protected by a copyright, patent, or process patent through the use of laws, procedures, practices, or regulations which—".
 
 Subsec. (d)(4). Pub. L. 103–465, §313(2)(B), added par. (4).
 
@@ -156,11 +156,11 @@ Pub. L. 101–189, div. A, title VIII, §852, Nov. 29, 1989, 103 Stat. 1517, as 
 
 Pub. L. 100–418, title I, §1303(a), Aug. 23, 1988, 102 Stat. 1179, provided that:
 
-“(1) The Congress finds that—
+"(1) The Congress finds that—
 
-&emsp;“(A) international protection of intellectual property rights is vital to the international competitiveness of United States persons that rely on protection of intellectual property rights; and
+&emsp;"(A) international protection of intellectual property rights is vital to the international competitiveness of United States persons that rely on protection of intellectual property rights; and
 
-&emsp;“(B) the absence of adequate and effective protection of United States intellectual property rights, and the denial of fair and equitable market access, seriously impede the ability of the United States persons that rely on protection of intellectual property rights to export and operate overseas, thereby harming the economic interests of the United States.
+&emsp;"(B) the absence of adequate and effective protection of United States intellectual property rights, and the denial of fair and equitable market access, seriously impede the ability of the United States persons that rely on protection of intellectual property rights to export and operate overseas, thereby harming the economic interests of the United States.
 
-“(2) The purpose of this section \[enacting this section and this note\] is to provide for the development of an overall strategy to ensure adequate and effective protection of intellectual property rights and fair and equitable market access for United States persons that rely on protection of intellectual property rights.”
+"(2) The purpose of this section \[enacting this section and this note\] is to provide for the development of an overall strategy to ensure adequate and effective protection of intellectual property rights and fair andequitable market access for United States persons that rely on protection of intellectual property rights."
 

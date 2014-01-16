@@ -44,9 +44,9 @@ Eligible intermediaries selected under subsection (b) of this section to disburs
 
 &emsp;(2) receive a reasonable administrative fee, except that they may not provide other services to grant recipients with respect to projects that are the subject of the grant application and may not receive payment, directly or indirectly, from the proceeds of grants they have approved.
 
-#### (d) “Eligible intermediary” defined
+#### (d) "Eligible intermediary" defined
 
-For purposes of this section, the term “eligible intermediary” means a State, regional, or national organization (including a quasi-public organization) or a State or local housing agency that—
+For purposes of this section, the term "eligible intermediary" means a State, regional, or national organization (including a quasi-public organization) or a State or local housing agency that—
 
 &emsp;(1) has as a central purpose the preservation of existing affordable housing and the prevention of displacement;
 
@@ -66,7 +66,7 @@ For purposes of this section, the term “eligible intermediary” means a State
 
 This title, referred to in subsec. (b)(2), means title II of Pub. L. 100–242, as amended by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
-The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (b)(2), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, as amended, which was classified principally as a note under section 1715l of this title. Title II of Pub. L. 100–242 was amended generally by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to theCode, see Short Title note set out under section 4101 of this title and Tables.
+The Emergency Low Income Housing Preservation Act of 1987, referred to in subsec. (b)(2), is title II of Pub. L. 100–242, Feb. 5, 1988, 101 Stat. 1877, as amended, which was classified principally as a note under section 1715l of this title. Title II of Pub. L. 100–242 was amended generally by Pub. L. 101–625, title VI, §601(a), Nov. 28, 1990, 104 Stat. 4249, and is now known as the Low-Income Housing Preservation and Resident Homeownership Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,7 +12,7 @@ Section was not enacted as part of the Commodity Exchange Act which comprises th
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203 inserted “motion picture box office receipts (or any index, measure, value, or data related to such receipts) or” after “sale of”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203 inserted "motion picture box office receipts (or any index, measure, value, or data related to such receipts) or" after "sale of".
 
 #### Effective Date of 2010 Amendment
 
@@ -20,5 +20,5 @@ Amendment by Pub. L. 111–203 effective on the later of 360 days after July 21,
 
 #### Effective Date
 
-Pub. L. 85–839, §2, Aug. 28, 1958, 72 Stat. 1013, provided that: “This Act \[enacting this section\] shall take effect thirty days after its enactment \[Aug. 28, 1958\].”
+Pub. L. 85–839, §2, Aug. 28, 1958, 72 Stat. 1013, provided that: "This Act \[enacting this section\] shall take effect thirty days after its enactment \[Aug. 28, 1958\]."
 

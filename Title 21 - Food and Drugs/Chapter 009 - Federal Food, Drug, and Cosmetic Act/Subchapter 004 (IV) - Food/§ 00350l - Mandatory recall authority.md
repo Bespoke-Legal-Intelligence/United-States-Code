@@ -130,13 +130,13 @@ Nothing in this section to be construed to alter jurisdiction and authorities es
 
 #### Search Engine
 
-Pub. L. 111–353, title II, §206(b), Jan. 4, 2011, 124 Stat. 3942, provided that: “Not later than 90 days after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary shall modify the Internet Web site of the Food and Drug Administration to include a search engine that—
+Pub. L. 111–353, title II, §206(b), Jan. 4, 2011, 124 Stat. 3942, provided that: "Not later than 90 days after the date of enactment of this Act \[Jan. 4, 2011\], the Secretary shall modify the Internet Web site of the Food and Drug Administration to include a search engine that—
 
-&emsp;“(1) is consumer-friendly, as determined by the Secretary; and
+&emsp;"(1) is consumer-friendly, as determined by the Secretary; and
 
-&emsp;“(2) provides a means by which an individual may locate relevant information regarding each article of food subject to a recall under section 423 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350l\] and the status of such recall (such as whether a recall is ongoing or has been completed).”
+&emsp;"(2) provides a means by which an individual may locate relevant information regarding each article of food subject to a recall under section 423 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 350l\] and the status of such recall (such as whether a recall is ongoing or has been completed)."
 
-<i><sup>1</sup></i><i> So in original. The words “to immediately cease distribution of such article.” probably should follow cl. (ii).</i>
+<i><sup>1</sup></i><i> So in original. The words "to immediately cease distribution of such article." probably should follow cl. (ii).</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “paragraph (1).”</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "paragraph (1)."</i>
 

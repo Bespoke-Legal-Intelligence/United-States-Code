@@ -20,5 +20,5 @@ Section was enacted as part of the National Historic Preservation Act Amendments
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 

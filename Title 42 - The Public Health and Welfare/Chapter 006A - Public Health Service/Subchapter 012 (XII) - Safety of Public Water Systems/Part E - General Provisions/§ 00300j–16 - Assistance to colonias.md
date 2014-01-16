@@ -6,11 +6,11 @@ As used in this section:
 
 #### (1) Border State
 
-&emsp;The term “border State” means Arizona, California, New Mexico, and Texas.
+&emsp;The term "border State" means Arizona, California, New Mexico, and Texas.
 
 #### (2) Eligible community
 
-&emsp;The term “eligible community” means a low-income community with economic hardship that—
+&emsp;The term "eligible community" means a low-income community with economic hardship that—
 
 &emsp;&emsp;(A) is commonly referred to as a colonia;
 

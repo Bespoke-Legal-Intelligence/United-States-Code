@@ -16,27 +16,27 @@ For purposes of this section the following definitions shall apply:
 
 #### (1) Home
 
-&emsp;The term “home” means any 1- to 4-family dwelling. Such term includes any dwelling unit in a condominium project or cooperative project consisting of not more than 4 dwelling units, any town house, and any manufactured home.
+&emsp;The term "home" means any 1- to 4-family dwelling. Such term includes any dwelling unit in a condominium project or cooperative project consisting of not more than 4 dwelling units, any town house, and any manufactured home.
 
 #### (2) Metropolitan statistical area
 
-&emsp;The term “metropolitan statistical area” means a metropolitan statistical area as established by the Office of Management and Budget.
+&emsp;The term "metropolitan statistical area" means a metropolitan statistical area as established by the Office of Management and Budget.
 
 #### (3) Nonprofit organization
 
-&emsp;The term “nonprofit organization” means a private nonprofit corporation, or other private nonprofit legal entity, that is approved by the Secretary as to financial responsibility.
+&emsp;The term "nonprofit organization" means a private nonprofit corporation, or other private nonprofit legal entity, that is approved by the Secretary as to financial responsibility.
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Housing and Urban Development.
+&emsp;The term "Secretary" means the Secretary of Housing and Urban Development.
 
 #### (5) State
 
-&emsp;The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+&emsp;The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
 #### (6) Unit of general local government
 
-&emsp;The term “unit of general local government” means any borough, city, county, parish, town, township, village, or other general purpose political subdivision of a State.
+&emsp;The term "unit of general local government" means any borough, city, county, parish, town, township, village, or other general purpose political subdivision of a State.
 
 #### (c) Assistance to nonprofit organizations
 
@@ -120,7 +120,7 @@ For purposes of this section the following definitions shall apply:
 
 &emsp;&emsp;(B) non-Federal public and private financial or other contributions (including tax abatements, waivers of fees related to development, waivers of construction, development, or zoning requirements, and direct financial contributions) will reduce the cost of home <sup>1</sup> constructed or rehabilitated under each program;
 
-&emsp;&emsp;(C) each program will produce the greatest number of units for the least amount of assistance provided under this section, takinginto consideration the cost differences among different market areas; and
+&emsp;&emsp;(C) each program will produce the greatest number of units for the least amount of assistance provided under this section, taking into consideration the cost differences among different market areas; and
 
 &emsp;&emsp;(D) each program provides for the involvement of local residents in the planning, and construction or rehabilitation, of homes.
 
@@ -146,7 +146,7 @@ Section was enacted as part of the Housing and Community Development Act of 1992
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “homes”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "homes".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “this section.”</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "this section."</i>
 

@@ -6,21 +6,21 @@ For purposes of this subchapter, unless the context otherwise requires, the foll
 
 #### (1) Bank holding company
 
-&emsp;The term “bank holding company” has the same meaning as in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841). A foreign bank or company that is treated as a bank holding company for purposes of the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], pursuant to section 3106(a) of this title, shall be treated as a bank holding company for purposes of this subchapter.
+&emsp;The term "bank holding company" has the same meaning as in section 2 of the Bank Holding Company Act of 1956 (12 U.S.C. 1841). A foreign bank or company that is treated as a bank holding company for purposes of the Bank Holding Company Act of 1956 \[12 U.S.C. 1841 et seq.\], pursuant to section 3106(a) of this title, shall be treated as a bank holding company for purposes of this subchapter.
 
 #### (2) Chairperson
 
-&emsp;The term “Chairperson” means the Chairperson of the Council.
+&emsp;The term "Chairperson" means the Chairperson of the Council.
 
 #### (3) Member agency
 
-&emsp;The term “member agency” means an agency represented by a voting member of the Council.
+&emsp;The term "member agency" means an agency represented by a voting member of the Council.
 
 #### (4) Nonbank financial company definitions
 
 #### (A) Foreign nonbank financial company
 
-&emsp;&emsp;The term “foreign nonbank financial company” means a company (other than a company that is, or is treated in the United States as, a bank holding company) that is—
+&emsp;&emsp;The term "foreign nonbank financial company" means a company (other than a company that is, or is treated in the United States as, a bank holding company) that is—
 
 &emsp;&emsp;&emsp;(i) incorporated or organized in a country other than the United States; and
 
@@ -28,7 +28,7 @@ For purposes of this subchapter, unless the context otherwise requires, the foll
 
 #### (B) U.S. nonbank financial company
 
-&emsp;&emsp;The term “U.S. nonbank financial company” means a company (other than a bank holding company, a Farm Credit System institution chartered and subject to the provisions of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.), or a national securities exchange (or parent thereof), clearing agency (or parent thereof, unless the parent is a bank holding company), security-based swap execution facility, or security-based swap data repository registered with the Commission, or a board of trade designated as a contract market (or parent thereof), or a derivatives clearing organization (or parent thereof, unless the parent is a bank holding company), swap execution facility or a swap data repository registered with the Commodity Futures Trading Commission), that is—
+&emsp;&emsp;The term "U.S. nonbank financial company" means a company (other than a bank holding company, a Farm Credit System institution chartered and subject to the provisions of the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.), or a national securities exchange (or parent thereof), clearing agency (or parent thereof, unless the parent is a bank holding company), security-based swap execution facility, or security-based swap data repository registered with the Commission, or a board of trade designated as a contract market (or parent thereof), or a derivatives clearing organization (or parent thereof, unless the parent is a bank holding company), swap execution facility or a swap data repository registered with the Commodity Futures Trading Commission), that is—
 
 &emsp;&emsp;&emsp;(i) incorporated or organized under the laws of the United States or any State; and
 
@@ -36,19 +36,19 @@ For purposes of this subchapter, unless the context otherwise requires, the foll
 
 #### (C) Nonbank financial company
 
-&emsp;&emsp;The term “nonbank financial company” means a U.S. nonbank financial company and a foreign nonbank financial company.
+&emsp;&emsp;The term "nonbank financial company" means a U.S. nonbank financial company and a foreign nonbank financial company.
 
 #### (D) Nonbank financial company supervised by the Board of Governors
 
-&emsp;&emsp;The term “nonbank financial company supervised by the Board of Governors” means a nonbank financial company that the Council has determined under section 5323 of this title shall be supervised by the Board of Governors.
+&emsp;&emsp;The term "nonbank financial company supervised by the Board of Governors" means a nonbank financial company that the Council has determined under section 5323 of this title shall be supervised by the Board of Governors.
 
 #### (5) Office of Financial Research
 
-&emsp;The term “Office of Financial Research” means the office established under section 5342 of this title.
+&emsp;The term "Office of Financial Research" means the office established under section 5342 of this title.
 
 #### (6) Predominantly engaged
 
-&emsp;A company is “predominantly engaged in financial activities” if—
+&emsp;A company is "predominantly engaged in financial activities" if—
 
 &emsp;&emsp;(A) the annual gross revenues derived by the company and all of its subsidiaries from activities that are financial in nature (as defined in section 4(k) of the Bank Holding Company Act of 1956 \[12 U.S.C. 1843(k)\]) and, if applicable, from the ownership or control of one or more insured depository institutions, represents 85 percent or more of the consolidated annual gross revenues of the company; or
 
@@ -56,7 +56,7 @@ For purposes of this subchapter, unless the context otherwise requires, the foll
 
 #### (7) Significant institutions
 
-&emsp;The terms “significant nonbank financial company” and “significant bank holding company” have the meanings given those terms by rule of the Board of Governors, but in no instance shall the term “significant nonbank financial company” include those entities that are excluded under paragraph (4)(B).
+&emsp;The terms "significant nonbank financial company" and "significant bank holding company" have the meanings given those terms by rule of the Board of Governors, but in no instance shall the term "significant nonbank financial company" include those entities that are excluded under paragraph (4)(B).
 
 #### (b) Definitional criteria
 
@@ -64,19 +64,19 @@ The Board of Governors shall establish, by regulation, the requirements for dete
 
 #### (c) Foreign nonbank financial companies
 
-For purposes of the application of parts A and C (other than section 5323(b) of this title) withrespect to a foreign nonbank financial company, references in this subchapter to “company” or “subsidiary” include only the United States activities and subsidiaries of such foreign company, except as otherwise provided.
+For purposes of the application of parts A and C (other than section 5323(b) of this title) withrespect to a foreign nonbank financial company, references in this subchapter to "company" or "subsidiary" include only the United States activities and subsidiaries of such foreign company, except as otherwise provided.
 
 (Pub. L. 111–203, title I, §102, July 21, 2010, 124 Stat. 1391.)
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (a) and (c), was in the original “this title”, meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
+This subchapter, referred to in subsecs. (a) and (c), was in the original "this title", meaning title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1391, which is classified principally to this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 The Bank Holding Company Act of 1956, referred to in subsec. (a)(1), is act May 9, 1956, ch. 240, 70 Stat. 133, which is classified principally to chapter 17 (§1841 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1841 of this title and Tables.
 
 The Farm Credit Act of 1971, referred to in subsec. (a)(4)(B), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, which is classified principally to chapter 23 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of this title and Tables.
 
-Part C, referred to in subsec. (c), was in the original “subtitle C”, meaning subtitle C (§§161–176) of title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1420, which is classified principally to part C (§5361 et seq.) of this subchapter. For complete classification of subtitle C to the Code, see Tables.
+Part C, referred to in subsec. (c), was in the original "subtitle C", meaning subtitle C (§§161–176) of title I of Pub. L. 111–203, July 21, 2010, 124 Stat. 1420, which is classified principally to part C (§5361 et seq.) of this subchapter. For complete classification of subtitle C to the Code, see Tables.
 
 #### Effective Date
 
@@ -84,5 +84,5 @@ Subchapter effective 1 day after July 21, 2010, except as otherwise provided, se
 
 #### Short Title
 
-This subchapter known as the “Financial Stability Act of 2010”, see Short Title note set out under section 5301 of this title.
+This subchapter known as the "Financial Stability Act of 2010", see Short Title note set out under section 5301 of this title.
 

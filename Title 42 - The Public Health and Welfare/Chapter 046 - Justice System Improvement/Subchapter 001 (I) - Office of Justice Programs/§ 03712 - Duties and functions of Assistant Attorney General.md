@@ -12,7 +12,7 @@ The Assistant Attorney General shall—
 
 &emsp;(4) maintain liaison with public and private educational and research institutions, State and local governments, and governments of other nations relating to criminal justice;
 
-&emsp;(5) coordinate and provide staff support to coordinate the activities of the Office and the Bureau of Justice Assistance, the National Institute of Justice, the Bureau of Justice Statistics, the Office for Victims of Crime, andthe Office of Juvenile Justice and Delinquency Prevention; and
+&emsp;(5) coordinate and provide staff support to coordinate the activities of the Office and the Bureau of Justice Assistance, the National Institute of Justice, the Bureau of Justice Statistics, the Office for Victims of Crime, and the Office of Juvenile Justice and Delinquency Prevention; and
 
 &emsp;(6) exercise such other powers and functions as may be vested in the Assistant Attorney General pursuant to this chapter or by delegation of the Attorney General, including placing special conditions on all grants, and determining priority purposes for formula grants.
 
@@ -24,7 +24,7 @@ The Assistant Attorney General shall submit an annual report to the President an
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(6), was in the original “this title”, meaning title I of Pub. L. 90–351, as added by Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (a)(6), was in the original "this title", meaning title I of Pub. L. 90–351, as added by Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1167, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
 #### Prior Provisions
 
@@ -32,11 +32,11 @@ A prior section 3712, Pub. L. 90–351, title I, §102, as added Pub. L. 96–15
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(5). Pub. L. 109–162, §1152(a), inserted “the Office for Victims of Crime,” after “the Bureau of Justice Statistics,”.
+<b>2006</b>—Subsec. (a)(5). Pub. L. 109–162, §1152(a), inserted "the Office for Victims of Crime," after "the Bureau of Justice Statistics,".
 
-Subsec. (a)(6). Pub. L. 109–162, §1152(b), inserted “, including placing special conditions on all grants, and determining priority purposes for formula grants” before period at end.
+Subsec. (a)(6). Pub. L. 109–162, §1152(b), inserted ", including placing special conditions on all grants, and determining priority purposes for formula grants" before period at end.
 
-<b>2002</b>—Subsec. (a)(5). Pub. L. 107–296 inserted “coordinate and” before “provide”.
+<b>2002</b>—Subsec. (a)(5). Pub. L. 107–296 inserted "coordinate and" before "provide".
 
 #### Effective Date of 2002 Amendment
 

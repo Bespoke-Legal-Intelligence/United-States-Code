@@ -44,6 +44,14 @@ Pub. L. 107–207, §1, Aug. 5, 2002, 116 Stat. 926, provided that: “This Act 
 
 Pub. L. 104–199, §1, Sept. 21, 1996, 110 Stat. 2419, provided that: “This Act \[enacting section 7 of this title and section 1738C of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Defense of Marriage Act’.”
 
+#### References in Pub. L. 113–67
+
+Pub. L. 113–67, div. A, §1(c), Dec. 26, 2013, 127 Stat. 1166, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act \[Bipartisan Budget Act of 2013, see Tables for classification\] shall be treated as referring only to the provisions of that division.”
+
+#### References in Pub. L. 113–6
+
+Pub. L. 113–6, §3, Mar. 26, 2013, 127 Stat. 199, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in division A, B, C, D, or E of this Act \[Consolidated and Further Continuing Appropriations Act, 2013, see Tables for classification\] shall be treated as referring only to the provisions of that division.”
+
 #### References in Pub. L. 112–74
 
 Pub. L. 112–74, §3, Dec. 23, 2011, 125 Stat. 787, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act \[Consolidated Appropriations Act, 2012, see Tables for classification\] shall be treated as referring only to the provisions of that division.”
@@ -82,7 +90,7 @@ Pub. L. 110–161, §3, Dec. 26, 2007, 121 Stat. 1845, provided that: “Except 
 
 #### References in Pub. L. 110–116
 
-Pub. L. 110–116, §2, Nov. 13, 2007, 121 Stat. 1295, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in any division of this Act \[see Tables for classification\] shall be treated as referencing only to the provisions of that division.”
+Pub. L. 110–116, §2, Nov. 13, 2007, 121 Stat. 1295, provided that: “Except as expressly provided otherwise,any reference to ‘this Act’ contained in any division of this Act \[see Tables for classification\] shall be treated as referencing only to the provisions of that division.”
 
 #### References in Pub. L. 109–289
 
@@ -90,7 +98,7 @@ Pub. L. 109–289, div. A, title VIII, §8112, Sept. 29, 2006, 120 Stat. 1299, p
 
 #### References in Pub. L. 109–148
 
-Pub. L. 109–148, div. B, title V, §5002, Dec. 30, 2005, 119 Stat. 2813, provided that: “Except as expressly providedotherwise, any reference to ‘this Act’ contained in either division A \[Department of Defense Appropriations Act, 2006, see Tables for classification\] or division B \[Emergency Supplemental Appropriations Act to Address Hurricanes in the Gulf of Mexico and Pandemic Influenza, 2006, see Tables for classification\] shall be treated as referring only to the provisions of that division.”
+Pub. L. 109–148, div. B, title V, §5002, Dec. 30, 2005, 119 Stat. 2813, provided that: “Except as expressly provided otherwise, any reference to ‘this Act’ contained in either division A \[Department of Defense Appropriations Act, 2006, see Tables for classification\] or division B \[Emergency Supplemental Appropriations Act to Address Hurricanes in the Gulf of Mexico and Pandemic Influenza, 2006, see Tables for classification\] shall be treated as referring only to the provisions of that division.”
 
 #### References in Pub. L. 109–115
 

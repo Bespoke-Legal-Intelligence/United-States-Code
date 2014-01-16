@@ -6,7 +6,7 @@ Santa Fe, New Mexico, shall be maintained as the location for the Institute of I
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–325 struck out “The site of the Institute of American Indian Arts, at” before “Santa Fe, New Mexico” and substituted “the Board may enter” for “the Secretary may enter”.
+<b>1992</b>—Pub. L. 102–325 struck out "The site of the Institute of American Indian Arts, at" before "Santa Fe, New Mexico" and substituted "the Board may enter" for "the Secretary may enter".
 
 #### Effective Date of 1992 Amendment
 

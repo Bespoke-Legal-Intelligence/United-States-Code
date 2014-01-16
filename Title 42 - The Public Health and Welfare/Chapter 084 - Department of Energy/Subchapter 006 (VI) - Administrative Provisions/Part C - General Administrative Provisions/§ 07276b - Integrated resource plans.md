@@ -12,7 +12,7 @@ The Administrator shall approve an integrated resource plan submitted as require
 
 &emsp;(2) Included a 2-year action plan and a 5-year action plan which describe specific actions the customer will take to implement its integrated resource plan.
 
-&emsp;(3) Designated “least-cost options” to be utilized by the customer for the purpose of providing reliable electric service to its retail consumers and explained the reasons why such options were selected.
+&emsp;(3) Designated "least-cost options" to be utilized by the customer for the purpose of providing reliable electric service to its retail consumers and explained the reasons why such options were selected.
 
 &emsp;(4) To the extent practicable, minimized adverse environmental effects of new resource acquisitions.
 
@@ -26,7 +26,7 @@ The Administrator shall approve an integrated resource plan submitted as require
 
 #### (c) Use of other integrated resource plans
 
-Where a customer or group of customers are implementing integrated resource planning under a program responding to Federal, State, or other initiatives, including integrated resource planning considered and implemented pursuant to section 2621(d) of title 16, in evaluating that customer's integrated resource planunder sections 7275 to 7276c of this title, the Administrator shall accept such plan as fulfillment of the requirements of sections 7275 to 7276c of this title to the extent such plan substantially complies with the requirements of sections 7275 to 7276c of this title.
+Where a customer or group of customers are implementing integrated resource planning under a program responding to Federal, State, or other initiatives, including integrated resource planning considered and implemented pursuant to section 2621(d) of title 16, in evaluating that customer's integrated resource plan under sections 7275 to 7276c of this title, the Administrator shall accept such plan as fulfillment of the requirements of sections 7275 to 7276c of this title to the extent such plan substantially complies with the requirements of sections 7275 to 7276c of this title.
 
 #### (d) Compliance with integrated resource plans
 
@@ -36,7 +36,7 @@ Within 1 year after October 24, 1992, the Administrator shall, by regulation, re
 
 #### (1) No approved plan
 
-&emsp;If an integrated resource plan for any customer is not submitted before the date 12 months after the guidelines are amended as required under this section or if the plan is disapproved by the Administrator and a revised plan is not resubmitted by the date 9 months after the date of such disapproval, the Administrator shall impose a surcharge of 10 percent of the purchase price on all power obtained by that customer from the Western Area Power Administration after such date. The surcharge shall remain in effect until an integrated resource plan is approved for that customer. If the plan is not submitted for more than one year after the required date, the surcharge shall increase to 20 percent for the second year (or any portion thereof prior to approval of the plan) and to 30 percent thereafter until the plan is submitted or the contract for the purchase of power by such customer from the Western Area Power Administration terminates.
+&emsp;If an integrated resource plan for any customer is not submitted before the date 12 months after the guidelines are amended as required under this section or if the plan is disapproved by the Administrator and a revised plan is not resubmitted by the date 9 months after the date of such disapproval, the Administrator shall impose a surcharge of 10 percent of the purchase price on all power obtained by that customer from the Western Area Power Administration after such date. The surcharge shall remain in effect until an integrated resource plan is approved for that customer. If the plan is not submitted for more than one year after the required date, the surcharge shall increase to 20 percent for the second year (or any portion thereof prior to approval of the plan) and to 30 percent thereafter until theplan is submitted or the contract for the purchase of power by such customer from the Western Area Power Administration terminates.
 
 #### (2) Failure to comply with approved plan
 

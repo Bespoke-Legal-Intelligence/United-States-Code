@@ -20,139 +20,139 @@ It is the purpose of this subchapter to require that consumer reporting agencies
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–159, §3, Dec. 4, 2003, 117 Stat. 1953, provided that: “Except as otherwise specifically provided in this Act \[see Short Title of 2003 Amendment note set out under section 1601 of this title\] and the amendments made by this Act—
+Pub. L. 108–159, §3, Dec. 4, 2003, 117 Stat. 1953, provided that: "Except as otherwise specifically provided in this Act \[see Short Title of 2003 Amendment note set out under section 1601 of this title\] and the amendments made by this Act—
 
-&emsp;“(1) before the end of the 2-month period beginning on the date of enactment of this Act \[Dec. 4, 2003\], the Board and the Commission shall jointly prescribe regulations in final form establishing effective dates for each provision of this Act; and
+&emsp;"(1) before the end of the 2-month period beginning on the date of enactment of this Act \[Dec. 4, 2003\], the Board and the Commission shall jointly prescribe regulations in final form establishing effective dates for each provision of this Act; and
 
-&emsp;“(2) the regulations prescribed under paragraph (1) shall establish effective dates that are as early as possible, while allowing a reasonable time for the implementation of the provisions of this Act, but in no case shall any such effective date be later than 10 months after the date of issuance of such regulations in final form.”
+&emsp;"(2) the regulations prescribed under paragraph (1) shall establish effective dates that are as early as possible, while allowing a reasonable time for the implementation of the provisions of this Act, but in no case shall any such effective date be later than 10 months after the date of issuance of such regulations in final form."
 
 > \[For final rules adopted by Board of Governors of the Federal Reserve System and Federal Trade Commission establishing effective dates for provisions of Pub. L. 108–159, see 68 F.R. 74467 (joint interim final rules) and 69 F.R. 6526 (joint final rules).\]
 
 #### Effective Date
 
-Section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §602, Oct. 26, 1970, 84 Stat. 1136, provided that: “Title VI \[enacting this subchapter\] takes effect upon the expiration of one hundred and eighty days following the date of its enactment \[Oct. 26, 1970\].”
+Section 504(d) of Pub. L. 90–321, as added by Pub. L. 91–508, title VI, §602, Oct. 26, 1970, 84 Stat. 1136, provided that: "Title VI \[enacting this subchapter\] takes effect upon the expiration of one hundred and eighty days following the date of its enactment \[Oct. 26, 1970\]."
 
 #### Short Title
 
-This subchapter known as the “Fair Credit Reporting Act”, see Short Title note set out under section 1601 of this title.
+This subchapter known as the "Fair Credit Reporting Act", see Short Title note set out under section 1601 of this title.
 
 #### Study of Effects of Credit Scores and Credit-Based Insurance Scores on Availability and Affordability of Financial Products
 
 Pub. L. 108–159, title II, §215, Dec. 4, 2003, 117 Stat. 1984, provided that:
 
-“(a)
+"(a)
 
 Study Required.—The Commission and the Board, in consultation with the Office of Fair Housing and Equal Opportunity of the Department of Housing and Urban Development, shall conduct a study of—
 
-&emsp;“(1) the effects of the use of credit scores and credit-based insurance scores on the availability and affordability of financial products and services, including credit cards, mortgages, auto loans, and property and casualty insurance;
+&emsp;"(1) the effects of the use of credit scores and credit-based insurance scores on the availability and affordability of financial products and services, including credit cards, mortgages, auto loans, and property and casualty insurance;
 
-&emsp;“(2) the statistical relationship, utilizing a multivariate analysis that controls for prohibited factors under the Equal Credit Opportunity Act \[15 U.S.C. 1691 et seq.\] and other known risk factors, between credit scores and credit-based insurance scores and the quantifiable risks and actual losses experienced by businesses;
+&emsp;"(2) the statistical relationship, utilizing a multivariate analysis that controls for prohibited factors under the Equal Credit Opportunity Act \[15 U.S.C. 1691 et seq.\] and other known risk factors, between credit scores and credit-based insurance scores and the quantifiable risks and actual losses experienced by businesses;
 
-&emsp;“(3) the extent to which, if any, the use of credit scoring models, credit scores, and credit-based insurance scores impact on the availability and affordability of credit and insurance to the extent information is currently available or is available through proxies, by geography, income, ethnicity, race, color, religion, national origin, age, sex, marital status, and creed, including the extent to which the consideration or lack of consideration of certain factors by credit scoring systems could result in negative or differential treatment of protected classes under the Equal Credit Opportunity Act, and the extent to which, if any, the use of underwriting systems relying on these models could achieve comparable results through the use of factors with less negative impact; and
+&emsp;"(3) the extent to which, if any, the use of credit scoring models, credit scores, and credit-based insurance scores impact on the availability and affordability of credit and insurance to the extent information is currently available or is available through proxies, by geography, income, ethnicity, race, color, religion, national origin, age, sex, marital status, and creed, including the extent to which the consideration or lack of consideration of certain factors by credit scoring systems could result in negative or differential treatment of protected classes under the Equal Credit Opportunity Act, and the extent to which, if any, the use of underwriting systems relying on these models could achieve comparable results through the use of factors with less negative impact; and
 
-&emsp;“(4) the extent to which credit scoring systems are used by businesses, the factors considered by such systems, and the effects of variables which are not considered by such systems.
+&emsp;"(4) the extent to which credit scoring systems are used by businesses, the factors considered by such systems, and the effects of variables which are not considered by such systems.
 
-“(b)
+"(b)
 
-Public Participation.—The Commission shall seek public input about the prescribed methodologyand research design of the study described in subsection (a), including from relevant Federal regulators, State insurance regulators, community, civil rights, consumer, and housing groups.
+Public Participation.—The Commission shall seek public input about the prescribed methodology and research design of the study described in subsection (a), including from relevant Federal regulators, State insurance regulators, community, civil rights, consumer, and housing groups.
 
-“(c)
+"(c)
 
 Report Required.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Before the end of the 24-month period beginning on the date of enactment of this Act \[Dec. 4, 2003\], the Commission shall submit a detailed report on the study conducted pursuant to subsection (a) to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Contents of report.—The report submitted under paragraph (1) shall include the findings and conclusions of the Commission, recommendations to address specific areas of concerns addressed in the study, and recommendations for legislative or administrative action that the Commission may determine to be necessary to ensure that credit and credit-based insurance scores are used appropriately and fairly to avoid negative effects.”
+Contents of report.—The report submitted under paragraph (1) shall include the findings and conclusions of the Commission, recommendations to address specific areas of concerns addressed in the study, and recommendations for legislative or administrative action that the Commission may determine to be necessary to ensure that credit and credit-based insurance scores are used appropriately and fairly to avoid negative effects."
 
 #### FTC Study of Issues Relating to the Fair Credit Reporting Act
 
 Pub. L. 108–159, title III, §318, Dec. 4, 2003, 117 Stat. 1998, provided that:
 
-“(a)
+"(a)
 
 Study Required.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Commission shall conduct a study on ways to improve the operation of the Fair Credit Reporting Act \[15 U.S.C. 1681 et seq.\].
 
-&emsp;“(2)
+&emsp;"(2)
 
 Areas for study.—In conducting the study under paragraph (1), the Commission shall review—
 
-&emsp;&emsp;“(A) the efficacy of increasing the number of points of identifying information that a credit reporting agency is required to match to ensure that a consumer is the correct individual to whom a consumer report relates before releasing a consumer report to a user, including—
+&emsp;&emsp;"(A) the efficacy of increasing the number of points of identifying information that a credit reporting agency is required to match to ensure that a consumer is the correct individual to whom a consumer report relates before releasing a consumer report to a user, including—
 
-&emsp;&emsp;&emsp;“(i) the extent to which requiring additional points of such identifying information to match would—
+&emsp;&emsp;&emsp;"(i) the extent to which requiring additional points of such identifying information to match would—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) enhance the accuracy of credit reports; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) enhance the accuracy of credit reports; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) combat the provision of incorrect consumer reports to users;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) combat the provision of incorrect consumer reports to users;
 
-&emsp;&emsp;&emsp;“(ii) the extent to which requiring an exact match of the first and last name, social security number, and address and ZIP Code of the consumer would enhance the likelihood of increasing credit report accuracy; and
+&emsp;&emsp;&emsp;"(ii) the extent to which requiring an exact match of the first and last name, social security number, and address and ZIP Code of the consumer would enhance the likelihood of increasing credit report accuracy; and
 
-&emsp;&emsp;&emsp;“(iii) the effects of allowing consumer reporting agencies to use partial matches of social security numbers and name recognition software on the accuracy of credit reports;
+&emsp;&emsp;&emsp;"(iii) the effects of allowing consumer reporting agencies to use partial matches of social security numbers and name recognition software on the accuracy of credit reports;
 
-&emsp;&emsp;“(B) requiring notification to consumers when negative information has been added to their credit reports, including—
+&emsp;&emsp;"(B) requiring notification to consumers when negative information has been added to their credit reports, including—
 
-&emsp;&emsp;&emsp;“(i) the potential impact of such notification on the ability of consumers to identify errors on their credit reports; and
+&emsp;&emsp;&emsp;"(i) the potential impact of such notification on the ability of consumers to identify errors on their credit reports; and
 
-&emsp;&emsp;&emsp;“(ii) the potential impact of such notification on the ability of consumers to remove fraudulent information from their credit reports;
+&emsp;&emsp;&emsp;"(ii) the potential impact of such notification on the ability of consumers to remove fraudulent information from their credit reports;
 
-&emsp;&emsp;“(C) the effects of requiring that a consumer who has experienced an adverse action based on a credit report receives a copy of the same credit report that the creditor relied on in taking the adverse action, including—
+&emsp;&emsp;"(C) the effects of requiring that a consumer who has experienced an adverse action based on a credit report receives a copy of the same credit report that the creditor relied on in taking the adverse action, including—
 
-&emsp;&emsp;&emsp;“(i) the extent to which providing such reports to consumers would increase the ability of consumers to identify errors in their credit reports; and
+&emsp;&emsp;&emsp;"(i) the extent to which providing such reports to consumers would increase the ability of consumers to identify errors in their credit reports; and
 
-&emsp;&emsp;&emsp;“(ii) the extent to which providing such reports to consumers would increase the ability of consumers to remove fraudulent information from their credit reports;
+&emsp;&emsp;&emsp;"(ii) the extent to which providing such reports to consumers would increase the ability of consumers to remove fraudulent information from their credit reports;
 
-&emsp;&emsp;“(D) any common financial transactions that are not generally reported to the consumer reporting agencies, but would provide useful information in determining the credit worthiness of consumers; and
+&emsp;&emsp;"(D) any common financial transactions that are not generally reported to the consumer reporting agencies, but would provide useful information in determining the credit worthiness of consumers; and
 
-&emsp;&emsp;“(E) any actions that might be taken within a voluntary reporting system to encourage the reporting of the types of transactions described in subparagraph (D).
+&emsp;&emsp;"(E) any actions that might be taken within a voluntary reporting system to encourage the reporting of the types of transactions described in subparagraph (D).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Costs and benefits.—With respect to each area of study described in paragraph (2), the Commission shall consider the extent to which such requirements would benefit consumers, balanced against the cost of implementing such provisions.
 
-“(b)
+"(b)
 
-Report Required.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2003\], the chairman of the Commission shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives containing a detailed summary of the findings and conclusions of the study under this section, together with such recommendations for legislative or administrative actions as may be appropriate.”
+Report Required.—Not later than 1 year after the date of enactment of this Act \[Dec. 4, 2003\], the chairman of the Commission shall submit a report to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives containing a detailed summary of the findings and conclusions of the study under this section, together with such recommendations for legislative or administrative actions as may be appropriate."
 
 #### FTC Study of the Accuracy of Consumer Reports
 
 Pub. L. 108–159, title III, §319, Dec. 4, 2003, 117 Stat. 1999, provided that:
 
-“(a)
+"(a)
 
 Study Required.—Until the final report is submitted under subsection (b)(2), the Commission shall conduct an ongoing study of the accuracy and completeness of information contained in consumer reports prepared or maintained by consumer reporting agencies and methods for improving the accuracy and completeness of such information.
 
-“(b)
+"(b)
 
 Biennial Reports Required.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Interim reports.—The Commission shall submit an interim report to the Congress on the study conducted under subsection (a) at the end of the 1-year period beginning on the date of enactment of this Act \[Dec. 4, 2003\] and biennially thereafter for 8 years.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Final report.—The Commission shall submit a final report to the Congress on the study conducted under subsection (a) at the end of the 2-year period beginning on the date on which the final interim report is submitted to the Congress under paragraph (1).
 
-&emsp;“(3)
+&emsp;"(3)
 
-Contents.—Each report submitted under this subsection shall contain a detailed summary of the findings and conclusions of the Commission with respect to the study required under subsection (a) and such recommendations for legislative and administrative action as the Commission may determine to be appropriate.”
+Contents.—Each report submitted under this subsection shall contain a detailed summary of the findings and conclusions of the Commission with respect to the study required under subsection (a) and such recommendations for legislative and administrative action as the Commission may determine to be appropriate."
 
 #### Definitions
 
-Pub. L. 108–159, §2, Dec. 4, 2003, 117 Stat. 1953, provided that: “As used in this Act \[see Short Title of 2003 Amendment note set out under section 1601 of this title\]—
+Pub. L. 108–159, §2, Dec. 4, 2003, 117 Stat. 1953, provided that: "As used in this Act \[see Short Title of 2003 Amendment note set out under section 1601 of this title\]—
 
-&emsp;“(1) the term ‘Board’ means the Board of Governors of the Federal Reserve System;
+&emsp;"(1) the term 'Board' means the Board of Governors of the Federal Reserve System;
 
-&emsp;“(2) the term ‘Commission’, other than as used in title V \[20 U.S.C. 9701 et seq.\], means the Federal Trade Commission;
+&emsp;"(2) the term 'Commission', other than as used in title V \[20 U.S.C. 9701 et seq.\], means the Federal Trade Commission;
 
-&emsp;“(3) the terms ‘consumer’, ‘consumer report’, ‘consumer reporting agency’, ‘creditor’, ‘Federal banking agencies’, and ‘financial institution’ have the same meanings as in section 603 of the Fair Credit Reporting Act \[15 U.S.C. 1681a\], as amended by this Act; and
+&emsp;"(3) the terms 'consumer', 'consumer report', 'consumer reporting agency', 'creditor', 'Federal banking agencies', and 'financial institution' have the same meanings as in section 603 of the Fair Credit Reporting Act \[15 U.S.C. 1681a\], as amended by this Act; and
 
-&emsp;“(4) the term ‘affiliates’ means persons that are related by common ownership or affiliated by corporate control.”
+&emsp;"(4) the term 'affiliates' means persons that are related by common ownership or affiliated by corporate control."
 

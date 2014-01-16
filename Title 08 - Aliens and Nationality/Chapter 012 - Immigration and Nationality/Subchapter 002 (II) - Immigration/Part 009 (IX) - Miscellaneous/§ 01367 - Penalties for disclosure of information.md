@@ -18,7 +18,7 @@ Except as provided in subsection (b) of this section, in no case may the Attorne
 
 &emsp;&emsp;(F) in the case of an alien applying for status under section 101(a)(15)(T) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(T)), under section 7105(b)(1)(E)(i)(II)(bb) of title 22, under section 244(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1254a(a)(3)), as in effect prior to March 31, 1999, or as a VAWA self-petitioner (as defined in section 101(a)(51) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(51)) <sup>2</sup>, the trafficker or perpetrator,
 
-> &emsp;unless the alien has been convicted of a crime or crimes listed in section 241(a)(2) of the Immigration and Nationality Act \[8 U.S.C. 1227(a)(2)\]; or
+> &emsp;unless the alien has been convicted of a crime or crimes listed in section 237(a)(2) of the Immigration and Nationality Act \[8 U.S.C. 1227(a)(2)\]; or
 
 &emsp;(2) permit use by or disclosure to anyone (other than a sworn officer or employee of the Department, or bureau or agency thereof, for legitimate Department, bureau, or agency purposes) of any information which relates to an alien who is the beneficiary of an application for relief under paragraph (15)(T), (15)(U), or (51) of section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(T), (U), (51)\] or section 240A(b)(2) of such Act \[8 U.S.C. 1229b(b)(2)\].
 
@@ -26,19 +26,21 @@ Except as provided in subsection (b) of this section, in no case may the Attorne
 
 #### (b) Exceptions
 
-(1) The Attorney General may provide, in the Attorney General's discretion, for the disclosure of information in the same manner and circumstances as census information may be disclosed by the Secretary of Commerce under section 8 of title 13.
+(1) The Secretary of Homeland Security or the Attorney General may provide, in the Secretary's or the Attorney General's discretion, for the disclosure of information in the same manner and circumstances as census information may be disclosed by the Secretary of Commerce under section 8 of title 13.
 
-(2) The Attorney General may provide in the discretion of the Attorney General for the disclosure of information to law enforcement officials to be used solely for a legitimate law enforcement purpose.
+(2) The Secretary of Homeland Security or the Attorney General may provide in the discretion of the Secretary or the Attorney General for the disclosure of information to law enforcement officials to be used solely for a legitimate law enforcement purpose in a manner that protects the confidentiality of such information.
 
 (3) Subsection (a) of this section shall not be construed as preventing disclosure of information in connection with judicial review of a determination in a manner that protects the confidentiality of such information.
 
 (4) Subsection (a)(2) of this section shall not apply if all the battered individuals in the case are adults and they have all waived the restrictions of such subsection.
 
-(5) The Attorney General is authorized to disclose information, to Federal, State, and local public and private agencies providing benefits, to be used solely in making determinations of eligibility for benefits pursuant to section 1641(c) of this title.
+(5) The Secretary of Homeland Security and the Attorney General are authorized to disclose information, to Federal, State, and local public and private agencies providing benefits, to be used solely in making determinations of eligibility for benefits pursuant to section 1641(c) of this title.
 
 (6) Subsection (a) of this section may not be construed to prevent the Attorney General and the Secretary of Homeland Security from disclosing to the chairmen and ranking members of the Committee on the Judiciary of the Senate or the Committee on the Judiciary of the House of Representatives, for the exercise of congressional oversight authority, information on closed cases under this section in a manner that protects the confidentiality of such information and that omits personally identifying information (including locational information about individuals).
 
 (7) Government entities adjudicating applications for relief under subsection (a)(2) of this section, and government personnel carrying out mandated duties under section 101(i)(1) of the Immigration and Nationality Act \[8 U.S.C. 1101(i)(1)\], may, with the prior written consent of the alien involved, communicate with nonprofit, nongovernmental victims’ service providers for the sole purpose of assisting victims in obtaining victim services from programs with expertise working with immigrant victims. Agencies receiving referrals are bound by the provisions of this section. Nothing in this paragraph shall be construed as affecting the ability of an applicant to designate a safe organization through whom governmental agencies may communicate with the applicant.
+
+(8) Notwithstanding subsection (a)(2), the Secretary of Homeland Security, the Secretary of State, or the Attorney General may provide in the discretion of either such Secretary or the Attorney General for the disclosure of information to national security officials to be used solely for a national security purpose in a manner that protects the confidentiality of such information.
 
 #### (c) Penalties for violations
 
@@ -46,13 +48,13 @@ Anyone who willfully uses, publishes, or permits information to be disclosed in 
 
 #### (d) Guidance
 
-The Attorney General and the Secretary of Homeland Security shall provide guidance to officers and employees of the Department of Justice or the Department of Homeland Security who have access to information covered by this section regarding the provisions of this section, including the provisions to protect victims of domestic violence from harm that could result from the inappropriate disclosure of covered information.
+The Attorney General, Secretary of State, and the Secretary of Homeland Security shall provide guidance to officers and employees of the Department of Justice, Department of State, or the Department of Homeland Security who have access to information covered by this section regarding the provisions of this section, including the provisions to protect victims of domestic violence and severe forms of trafficking in persons or criminal activity listed in section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(u)) from harm that could result from the inappropriate disclosure of covered information.
 
-(Pub. L. 104–208, div. C, title III, §§308(g)(8)(D), 384, Sept. 30, 1996, 110 Stat. 3009–624, 3009–652; Pub. L. 105–33, title V, §5572(b), Aug. 5, 1997, 111 Stat. 641; Pub. L. 106–386, div. B, title V, §1513(d), Oct. 28, 2000, 114 Stat. 1536; Pub. L. 109–162, title VIII, §817, Jan. 5, 2006, 119 Stat. 3060; Pub. L. 109–271, §6(h), Aug. 12, 2006, 120 Stat. 763.)
+(Pub. L. 104–208, div. C, title III, §§308(g)(8)(D), 384, Sept. 30, 1996, 110 Stat. 3009–624, 3009–652; Pub. L. 105–33, title V, §5572(b), Aug. 5, 1997, 111 Stat. 641; Pub. L. 106–386, div. B, title V, §1513(d), Oct. 28, 2000, 114 Stat. 1536; Pub. L. 109–162, title VIII, §817, Jan. 5, 2006, 119 Stat. 3060; Pub. L. 109–271, §6(h), Aug. 12, 2006, 120 Stat. 763; Pub. L. 113–4, title VIII, §810(a), (b), (d), Mar. 7, 2013, 127 Stat. 117, 118.)
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsec. (a)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsec. (a)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Codification
 
@@ -61,6 +63,18 @@ Section was enacted as part of the Illegal Immigration Reform and Immigrant Resp
 Section is comprised of section 384 of div. C of Pub. L. 104–208. Another subsec. (d) of section 384 of div. C of Pub. L. 104–208 amended sections 1160 and 1255a of this title and enacted provisions set out as a note under section 1160 of this title.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (a)(1). Pub. L. 113–4, §810(d), which directed the substitution of “237(a)(2)” for “241(a)(2)” in concluding provisions of section 384(a)(1) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1986, was executed to this section, which is section 384 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, to reflect the probable intent of Congress.
+
+Subsec. (b)(1). Pub. L. 113–4, §810(a)(1), inserted “Secretary of Homeland Security or the” before “Attorney General may” and “Secretary's or the” before “Attorney General's discretion”.
+
+Subsec. (b)(2). Pub. L. 113–4, §810(a)(2), inserted “Secretary of Homeland Security or the” before “Attorney General may”, “Secretary or the” before “Attorney General for”, and “in a manner that protects the confidentiality of such information” before period at end.
+
+Subsec. (b)(5). Pub. L. 113–4, §810(a)(3), substituted “Secretary of Homeland Security and the Attorney General are” for “Attorney General is”.
+
+Subsec. (b)(8). Pub. L. 113–4, §810(a)(4), added par. (8).
+
+Subsec. (d). Pub. L. 113–4, §810(b), inserted “, Secretary of State,” after “The Attorney General”, “, Department of State,” after “Department of Justice”, and “and severe forms of trafficking in persons or criminal activity listed in section 101(a)(15)(U) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(u))” after “domestic violence”.
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–162, §817(1)(A), substituted “, the Secretary of Homeland Security, the Secretary of State, or any other official or employee of the Department of Homeland Security or Department of State (including any bureau or agency of either of such Departments)” for “(including any bureau or agency of such Department)” in introductory provisions.
 
@@ -93,6 +107,10 @@ Amendment by section 308(g)(8)(D) of Pub. L. 104–208 effective, with certain t
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
 For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+#### Implementation
+
+Pub. L. 113–4, title VIII, §810(c), Mar. 7, 2013, 127 Stat. 118, provided that: “Not later than 180 days after the date of the enactment of this Act \[Mar. 7, 2013\], the Attorney General, the Secretary of State, and Secretary of Homeland Security shall provide the guidance required by section 384(d) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1367(d)), consistent with the amendments made by subsections (a) and (b) \[amending this section\].”
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
 

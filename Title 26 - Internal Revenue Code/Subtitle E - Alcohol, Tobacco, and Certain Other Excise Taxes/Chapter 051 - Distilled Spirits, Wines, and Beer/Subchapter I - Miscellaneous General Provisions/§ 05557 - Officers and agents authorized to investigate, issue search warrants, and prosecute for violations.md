@@ -16,15 +16,15 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (b), are set out
 
 #### Prior Provisions
 
-A prior section 5557, act Aug. 16, 1954, ch. 736, 68A Stat. 681, related to applicability of other provisions, prior to the general revision of this chapter by Pub. L. 85–859. See section 5560 of this title.
+A prior section 5557, act Aug. 16, 1954, ch. 736, 68A Stat. 681, related to applicability of other provisions,prior to the general revision of this chapter by Pub. L. 85–859. See section 5560 of this title.
 
 Provisions similar to those comprising this section were contained in prior section 5314, act Aug. 16, 1954, ch. 736, 68A Stat. 659, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Change of Name
 
-“United States magistrate judges” substituted for “United States magistrates” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, “United States magistrates” substituted for “United States commissioners” pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
+"United States magistrate judges" substituted for "United States magistrates" in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure. Previously, "United States magistrates" substituted for "United States commissioners" pursuant to Pub. L. 90–578. See chapter 43 (§631 et seq.) of Title 28.
 

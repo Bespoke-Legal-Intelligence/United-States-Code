@@ -2,7 +2,7 @@
 
 #### (a) Authorization; eligibility; scope
 
-Subject to subsection (b) of this section, the President may provide training and related support to military and civilian defense personnel of a friendly foreign country or an internationalorganization. Such training and related support shall be provided by a Secretary of a military department and may include the provision of transportation, food services, health services, and logistics and the use of facilities and equipment.
+Subject to subsection (b) of this section, the President may provide training and related support to military and civilian defense personnel of a friendly foreign country or an international organization. Such training and related support shall be provided by a Secretary of a military department and may include the provision of transportation, food services, health services, and logistics and the use of facilities and equipment.
 
 #### (b) Reciprocal arrangements; reimbursement
 
@@ -24,5 +24,5 @@ Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as 
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense by section 1(d) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+For delegation of functions of the President under this section, see section 1(d) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 

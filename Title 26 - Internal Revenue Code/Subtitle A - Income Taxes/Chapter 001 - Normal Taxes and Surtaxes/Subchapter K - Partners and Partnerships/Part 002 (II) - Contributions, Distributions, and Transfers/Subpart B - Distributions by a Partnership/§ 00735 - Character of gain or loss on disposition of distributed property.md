@@ -34,11 +34,11 @@ In determining the period for which a partner has held property received in a di
 
 #### Amendments
 
-<b>1997</b>—Subsecs. (a)(2), (c)(1). Pub. L. 105–34 substituted “section 751(d)” for “section 751(d)(2)”.
+<b>1997</b>—Subsecs. (a)(2), (c)(1). Pub. L. 105–34 substituted "section 751(d)" for "section 751(d)(2)".
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–369 added subsec. (c).
 
-<b>1976</b>—Subsec. (a)(1), (2). Pub. L. 94–455 substituted “as ordinary income or as ordinary loss, as the case may be” for “gain or loss from the sale or exchange of property other than a capital asset”.
+<b>1976</b>—Subsec. (a)(1), (2). Pub. L. 94–455 substituted "as ordinary income or as ordinary loss, as the case may be" for "gain or loss from the sale or exchange of property other than a capital asset".
 
 #### Effective Date of 1997 Amendment
 
@@ -46,7 +46,7 @@ Amendment by Pub. L. 105–34 applicable to sales, exchanges, and distributions 
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §74(d)(2), July 18, 1984, 98 Stat. 594, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply to property distributed after March 31, 1984, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §74(d)(2), July 18, 1984, 98 Stat. 594, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply to property distributed after March 31, 1984, in taxable years ending after such date."
 
 #### Effective Date of 1976 Amendment
 

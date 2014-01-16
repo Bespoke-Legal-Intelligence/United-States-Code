@@ -60,9 +60,9 @@ Pub. L. 89–4, title I, §107, Mar. 9, 1965, 79 Stat. 9; Pub. L. 94–188, titl
 
 40 App.:107(b).
 
-In subsection (b)(1), the words “for the purpose” are omitted as unnecessary.
+In subsection (b)(1), the words "for the purpose" are omitted as unnecessary.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(2). Pub. L. 109–284 substituted “subsection (a)(2)” for “section (a)(2)”.
+<b>2006</b>—Subsec. (b)(2). Pub. L. 109–284 substituted "subsection (a)(2)" for "section (a)(2)".
 

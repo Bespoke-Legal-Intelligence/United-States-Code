@@ -12,7 +12,7 @@ In order to encourage and facilitate participation by private enterprise to the 
 
 &emsp;(2) establish an effective system for obtaining adequate information with respect to the activities of, and opportunities for, nongovernmental participation in the development process, and for utilizing such information in the planning, direction, and execution of programs carried out under this chapter, and in the coordination of such programs with the ever-increasing developmental activities of nongovernmental United States institutions;
 
-&emsp;(3) accelerate a program of negotiating treaties for commerce and trade, including tax treaties, which shall include provisions to encourage and facilitate the flow of private investment to, and its equitable treatment in, friendly countries and areas participating in programs under this chapter;
+&emsp;(3) accelerate a program of negotiating treaties for commerce and trade, including tax treaties, which shall include provisions to encourage and facilitate the flow of private investment to, and its equitable treatment in,friendly countries and areas participating in programs under this chapter;
 
 &emsp;(4) seek, consistent with the national interest, compliance by other countries or areas with all treaties for commerce and trade and taxes, and take all reasonable measures under this chapter or other authority to secure compliance therewith and to assist United States citizens in obtaining just compensation for losses sustained by them or payments exacted from them as a result of measures taken or imposed by any country or area thereof in violation of any such treaty;
 
@@ -48,7 +48,7 @@ It is the sense of Congress that the Agency for International Development should
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (d), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (b) and (d), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II
 
@@ -58,7 +58,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 <b>1981</b>—Subsec. (e)(2). Pub. L. 97–113 struck out par. (2) which required reports to Congress on Agency for International Development contracts over $100,000 entered into without competitive selection. See section 2394(a)(2)(F) of this title.
 
-<b>1978</b>—Subsec. (b)(5). Pub. L. 95–424 substituted “section 2151t” for “section 2161”.
+<b>1978</b>—Subsec. (b)(5). Pub. L. 95–424 substituted "section 2151t" for "section 2161".
 
 Subsec. (e). Pub. L. 95–424 added subsec. (e).
 
@@ -68,11 +68,11 @@ Subsec. (e). Pub. L. 95–424 added subsec. (e).
 
 Subsec. (c). Pub. L. 89–583, §301(a)(4), substituted provisions relating to International Private Investment Advisory Council on Foreign Aid for former provisions relating to Advisory Committee on Private Enterprise in Foreign Aid.
 
-<b>1964</b>—Subsec. (c)(4). Pub. L. 88–633, §301(a), substituted “June 30, 1965” for “December 31, 1964”.
+<b>1964</b>—Subsec. (c)(4). Pub. L. 88–633, §301(a), substituted "June 30, 1965" for "December 31, 1964".
 
 Subsec. (d). Pub. L. 88–633, §301(b), added subsec. (d).
 
-<b>1963</b>—Subsec. (b). Pub. L. 88–205, §301(a), substituted “to the maximum extent practicable” for “wherever appropriate” in par. (4), and added pars. (5) and (6).
+<b>1963</b>—Subsec. (b). Pub. L. 88–205, §301(a), substituted "to the maximum extent practicable" for "wherever appropriate" in par. (4), and added pars. (5) and (6).
 
 Subsec. (c). Pub. L. 88–205, §301(b), added subsec. (c).
 

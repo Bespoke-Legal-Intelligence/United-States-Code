@@ -2,7 +2,7 @@
 
 (a)
 
-Eligible Career Enlisted Flyer Defined.—In this section, the term “eligible career enlisted flyer” means an enlisted member of the armed forces who—
+Eligible Career Enlisted Flyer Defined.—In this section, the term "eligible career enlisted flyer" means an enlisted member of the armed forces who—
 
 &emsp;(1) is entitled to basic pay under section 204 of this title, or is entitled to pay under section 206 of this title as described in subsection (e) of this section;
 
@@ -20,7 +20,7 @@ Incentive Pay Authorized.—(1) The Secretary concerned may pay monthly incentiv
 
 (c)
 
-Operational Flying Duty Requirements.—(1) An eligible career enlisted flyer must perform operational flying duties for 6 of the first 10, 9 of the first 15, and 14 of the first 20 years of aviation service, to be eligible forcontinuous monthly incentive pay under this section.
+Operational Flying Duty Requirements.—(1) An eligible career enlisted flyer must perform operational flying duties for 6 of the first 10, 9 of the first 15, and 14 of the first 20 years of aviation service, to be eligible for continuous monthly incentive pay under this section.
 
 (2) Upon completion of 10, 15, or 20 years of aviation service, an enlisted member who has not performed the minimum required operational flying duties specified in paragraph (1) during the prescribed period, although otherwise meeting the definition in subsection (a), may no longer be paid continuous monthly incentive pay except as provided in paragraph (3). Payment of continuous monthly incentive pay may be resumed if the member meets the minimum operational flying duty requirement upon completion of the next established period of aviation service.
 
@@ -43,7 +43,7 @@ Monthly Maximum Rates.—The monthly rate of any career enlisted flyer incentive
 
 (e)
 
-Eligibility of Reserve Component Members When Performing Inactive Duty Training.—Under regulations prescribed by the Secretary concerned, when a member of a reserve component or the National Guard, who is entitled to compensation under section 206 of this title, meets the definition of eligible career enlisted flyer, the Secretary concerned may increase the member's compensation by an amount equal to 1/30 of the monthly incentive pay authorized by the Secretary concerned under subsection (d) for a member of corresponding years of aviation service who is entitled to basic pay under section 204 of this title. The reserve component member may receive the increase for as long as the member is qualified for it, for each regular period of instruction or period of appropriate duty, at which the member is engaged for at least two hours, or for the performance of such other equivalent training, instruction, duty or appropriate duties, as the Secretary may prescribe under section 206(a) of this title.
+Eligibility of Reserve Component Members When Performing Inactive Duty Training.—Under regulations prescribed by the Secretary concerned, when a member of a reserve component or the National Guard, who is entitled to compensation under section 206 of this title, meets the definition of eligible career enlisted flyer, the Secretary concerned may increase the member's compensation by an amount equal to 1/30 of the monthly incentive pay authorized by the Secretary concerned under subsection (d) for a member of corresponding years of aviation service who is entitled to basic pay under section 204 of this title. The reserve component member may receive the increase for as long as the member is qualified forit, for each regular period of instruction or period of appropriate duty, at which the member is engaged for at least two hours, or for the performance of such other equivalent training, instruction, duty or appropriate duties, as the Secretary may prescribe under section 206(a) of this title.
 
 (f)
 
@@ -61,13 +61,13 @@ Specialty Code of Dropsonde System Operators.—Within the Air Force, the Secret
 
 Definitions.—In this section:
 
-&emsp;(1) The term “aviation service” means participation in aerial flight performed, under regulations prescribed by the Secretary concerned, by an eligible career enlisted flyer.
+&emsp;(1) The term "aviation service" means participation in aerial flight performed, under regulations prescribed by the Secretary concerned, by an eligible career enlisted flyer.
 
-&emsp;(2) The term “operational flying duty” means flying performed under competent orders while serving in assignments, including an assignment as a dropsonde system operator, in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying duty performed by members in training that leads to the award of an enlisted aviation rating or military occupational specialty designated as a career enlisted flyer rating or specialty by the Secretary concerned.
+&emsp;(2) The term "operational flying duty" means flying performed under competent orders while serving in assignments, including an assignment as a dropsonde system operator, in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying duty performed by members in training that leads to the award of an enlisted aviation rating or military occupational specialty designated as a career enlisted flyer rating or specialty by the Secretary concerned.
 
 (Added Pub. L. 106–65, div. A, title VI, §628(a)(1), Oct. 5, 1999, 113 Stat. 657.)
 
 #### Effective Date
 
-Pub. L. 106–65, div. A, title VI, §628(b), Oct. 5, 1999, 113 Stat. 659, provided that: “The amendments made by subsection (a) \[enacting this section\] shall take effect on October 1, 1999.”
+Pub. L. 106–65, div. A, title VI, §628(b), Oct. 5, 1999, 113 Stat. 659, provided that: "The amendments made by subsection (a) \[enacting this section\] shall take effect on October 1, 1999."
 

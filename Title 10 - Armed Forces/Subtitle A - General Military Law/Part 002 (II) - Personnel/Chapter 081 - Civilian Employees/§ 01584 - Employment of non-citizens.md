@@ -22,23 +22,23 @@ Historical and Revision Notes
 
 July 16, 1952, ch. 882, §2, 66 Stat. 725.
 
-The words “appointment or” are omitted as surplusage.
+The words "appointment or" are omitted as surplusage.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–106 struck out subsec. (a) heading “Waiver of employment restrictions for certain personnel”, designated subsec. (a) as entire section, and struck out subsec. (b) which read as follows: “
+<b>1996</b>—Pub. L. 104–106 struck out subsec. (a) heading "Waiver of employment restrictions for certain personnel", designated subsec. (a) as entire section, and struck out subsec. (b) which read as follows: "
 
 Notice to Congress of Certain Salary Increases.—The Secretary of Defense shall notify the Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives when any salary increase granted to direct and indirect hire foreign national employees of the Department of Defense overseas, stated as a percentage, is greater than the higher of the following percentages:
 
-&emsp;“(1) The percentage pay increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of section 5332 of title 5.
+&emsp;"(1) The percentage pay increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of section 5332 of title 5.
 
-&emsp;“(2) The percentage increase provided to national government employees of the host nation.”
+&emsp;"(2) The percentage increase provided to national government employees of the host nation."
 
-<b>1990</b>—Pub. L. 101–510, §1482(b), substituted “personnel of the Department of Defense” for “any expert, scientist, technician, or professional person whose employment in connection with the research and development activities of a military department is determined to be necessary by the Secretary of that department” in subsec. (a).
+<b>1990</b>—Pub. L. 101–510, §1482(b), substituted "personnel of the Department of Defense" for "any expert, scientist, technician, or professional person whose employment in connection with the research and development activities of a military department is determined to be necessary by the Secretary of that department" in subsec. (a).
 
-Pub. L. 101–510, §1481(d)(1), (2), substituted “Employment of non-citizens” for “Laws relating to employment of non-citizens: not applicable to research and development activities” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+Pub. L. 101–510, §1481(d)(1), (2), substituted "Employment of non-citizens" for "Laws relating to employment of non-citizens: not applicable to research and development activities" in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 
-<b>1982</b>—Pub. L. 97–295 substituted “pay” for “compensation”.
+<b>1982</b>—Pub. L. 97–295 substituted "pay" for "compensation".
 
 #### Effective Date of 1990 Amendment
 
@@ -46,9 +46,11 @@ Amendment by section 1482(b) of Pub. L. 101–510 effective Oct. 1, 1991, see se
 
 #### Citizenship Requirement Not Applicable
 
-Pub. L. 112–74, div. A, title VIII, §8002, Dec. 23, 2011, 125 Stat. 804, provided that: “During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: <i>Provided</i>, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act \[div. A of Pub. L. 112–74, see Tables for classification\] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of section 5332 of title 5, United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: <i>Provided further</i>, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]: <i>Provided further</i>, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey.”
+Pub. L. 113–6, div. C, title VIII, §8002, Mar. 26, 2013, 127 Stat. 295, provided that: "During the current fiscal year, provisions of law prohibiting the payment of compensation to, or employment of, any person not a citizen of the United States shall not apply to personnel of the Department of Defense: <i>Provided</i>, That salary increases granted to direct and indirect hire foreign national employees of the Department of Defense funded by this Act \[div. C of Pub. L. 113–6, see Tables for classification\] shall not be at a rate in excess of the percentage increase authorized by law for civilian employees of the Department of Defense whose pay is computed under the provisions of section 5332 of title 5, United States Code, or at a rate in excess of the percentage increase provided by the appropriate host nation to its own employees, whichever is higher: <i>Provided further</i>, That this section shall not apply to Department of Defense foreign service national employees serving at United States diplomatic missions whose pay is set by the Department of State under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\]: <i>Provided further</i>, That the limitations of this provision shall not apply to foreign national employees of the Department of Defense in the Republic of Turkey."
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 112–74, div. A, title VIII, §8002, Dec. 23, 2011, 125 Stat. 804.
 
 Pub. L. 112–10, div. A, title VIII, §8002, Apr. 15, 2011, 125 Stat. 55.
 
@@ -190,5 +192,5 @@ July 2, 1942, ch. 477, §1, 56 Stat. 613.
 
 #### Salary Increases to Foreign National Employees; Notice to Congress
 
-Pub. L. 100–463, title VIII, §8114, Oct. 1, 1988, 102 Stat. 2270–38, which directed Secretary of Defense to notify House and Senate Committees on Appropriations when salary increases granted to foreign national employees were at a rate in excess of the percentage pay increase authorized by law for civilian employees of Department of Defense whose pay was computed under section 5332 of title 5 or at a rate in excess of the percentage increase provided to National Government employees of the host nation, whichever was higher, was repealed and restated in subsec. (b) of this section by Pub. L. 101–510, §1481(d)(1)(B), (4)(A).
+Pub. L. 100–463, title VIII, §8114, Oct. 1, 1988, 102 Stat. 2270–38, which directed Secretary of Defense to notifyHouse and Senate Committees on Appropriations when salary increases granted to foreign national employees were at a rate in excess of the percentage pay increase authorized by law for civilian employees of Department of Defense whose pay was computed under section 5332 of title 5 or at a rate in excess of the percentage increase provided to National Government employees of the host nation, whichever was higher, was repealed and restated in subsec. (b) of this section by Pub. L. 101–510, §1481(d)(1)(B), (4)(A).
 

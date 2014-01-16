@@ -118,7 +118,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;&emsp;&emsp;&emsp;(II) to facilitate the educational preparation of such students to enter the designated health professions school; and
 
-&emsp;&emsp;&emsp;(ii) the designated health professions school will make efforts to recruit Native American students, including students who have participated in the undergraduate program carried out under arrangements established by the school pursuantto clause (i) and will assist Native American students regarding the completion of the educational requirements for a degree from the designated health professions school.
+&emsp;&emsp;&emsp;(ii) the designated health professions school will make efforts to recruit Native American students, including students who have participated in the undergraduate program carried out under arrangements established by the school pursuant to clause (i) and will assist Native American students regarding the completion of the educational requirements for a degree from the designated health professions school.
 
 #### (5) Other centers of excellence
 
@@ -162,19 +162,19 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “health professions school” means, except as provided in subparagraph (B), a school of medicine, a school of osteopathic medicine, a school of dentistry, a school of pharmacy, or a graduate program in behavioral or mental health.
+&emsp;&emsp;The term "health professions school" means, except as provided in subparagraph (B), a school of medicine, a school of osteopathic medicine, a school of dentistry, a school of pharmacy, or a graduate program in behavioral or mental health.
 
 #### (B) Exception
 
-&emsp;&emsp;The definition established in subparagraph (A) shall not apply to the use of the term “designated health professions school” for purposes of subsection (c)(2) of this section.
+&emsp;&emsp;The definition established in subparagraph (A) shall not apply to the use of the term "designated health professions school" for purposes of subsection (c)(2) of this section.
 
 #### (2) Program of excellence
 
-&emsp;The term “program of excellence” means any program carried out by a designated health professions school with a grant made under subsection (a) of this section, if the program is for purposes for which the school involved is authorized in subsection (b) or (c) of this section to expend the grant.
+&emsp;The term "program of excellence" means any program carried out by a designatedhealth professions school with a grant made under subsection (a) of this section, if the program is for purposes for which the school involved is authorized in subsection (b) or (c) of this section to expend the grant.
 
 #### (3) Native Americans
 
-&emsp;The term “Native Americans” means American Indians, Alaskan Natives, Aleuts, and Native Hawaiians.
+&emsp;The term "Native Americans" means American Indians, Alaskan Natives, Aleuts, and Native Hawaiians.
 
 #### (h) Formula for allocations
 
@@ -198,7 +198,7 @@ In this section:
 
 &emsp;&emsp;If amounts appropriated under subsection (i) for a fiscal year exceed $24,000,000 but are less than $30,000,000—
 
-&emsp;&emsp;&emsp;(i) 80 percent of such excess amounts shall be made available for grants under subsection (a) to health professions schools that meet the requirements described in paragraph (3) or (4) of subsection\(c) (including meeting conditions pursuant to subsection (e)); and
+&emsp;&emsp;&emsp;(i) 80 percent of such excess amounts shall be made available for grants under subsection (a) to health professions schools that meet the requirements described in paragraph (3) or (4) of subsection (c) (including meeting conditions pursuant to subsection (e)); and
 
 &emsp;&emsp;&emsp;(ii) 20 percent of such excess amount shall be made available for grants under subsection (a) to health professions schools that meet the conditions described in subsection (c)(5).
 
@@ -268,9 +268,9 @@ A prior section 736 of act July 1, 1944, was classified to section 294i of this 
 
 #### Savings Provision
 
-Pub. L. 105–392, title I, §110, Nov. 13, 1998, 112 Stat. 3562, provided that: “In the case of any authority for making awards of grants or contracts that is terminated by the amendments made by this subtitle \[subtitle A (§§101–110) of title I of Pub. L. 105–392, see Tables for classification\], the Secretary of Health and HumanServices may, notwithstanding the termination of the authority, continue in effect any grant or contract made under the authority that is in effect on the day before the date of the enactment of this Act \[Nov. 13, 1998\], subject to the duration of any such grant or contract not exceeding the period determined by the Secretary in first approving such financial assistance, or in approving the most recent request made (before the date of such enactment) for continuation of such assistance, as the case may be.”
+Pub. L. 105–392, title I, §110, Nov. 13, 1998, 112 Stat. 3562, provided that: "In the case of any authority for making awards of grants or contracts that is terminated by the amendments made by this subtitle \[subtitle A (§§101–110) of title I of Pub. L. 105–392, see Tables for classification\], the Secretary of Health and Human Services may, notwithstanding the termination of the authority, continue in effect any grant or contract made under the authority that is in effect on the day before the date of the enactment of this Act \[Nov. 13, 1998\], subject to the duration of any such grant or contract not exceeding the period determined by the Secretary in first approving such financial assistance, or in approving the most recent request made (before the date of such enactment) for continuation of such assistance, as the case may be."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph".</i>
 
-<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

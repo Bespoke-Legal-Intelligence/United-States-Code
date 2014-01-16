@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, no Federal disaster relief assistanc
 
 #### (1) Duty to notify
 
-&emsp;In the event of the transfer of any property described in paragraph (3), the transferor shall, not later than the date on which such transfer occurs, notify the transferee in writing of the requirements to—
+&emsp;In the event of the transfer of any property described in paragraph (3), the transferorshall, not later than the date on which such transfer occurs, notify the transferee in writing of the requirements to—
 
 &emsp;&emsp;(A) obtain flood insurance in accordance with applicable Federal law with respect to such property, if the property is not so insured as of the date on which the property is transferred; and
 
@@ -34,9 +34,9 @@ Notwithstanding any other provision of law, no Federal disaster relief assistanc
 
 #### (c) Omitted
 
-#### (d) “Flood disaster area” defined
+#### (d) "Flood disaster area" defined
 
-For purposes of this section, the term “flood disaster area” means an area with respect to which—
+For purposes of this section, the term "flood disaster area" means an area with respect to which—
 
 &emsp;(1) the Secretary of Agriculture finds, or has found, to have been substantially affected by a natural disaster in the United States pursuant to section 1961(a) of title 7; or
 

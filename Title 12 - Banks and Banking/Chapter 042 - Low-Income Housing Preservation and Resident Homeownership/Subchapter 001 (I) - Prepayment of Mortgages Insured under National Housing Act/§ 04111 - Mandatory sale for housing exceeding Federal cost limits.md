@@ -40,5 +40,5 @@ If no bona fide offer to purchase any eligible low-income housing subject to thi
 
 #### Amendments
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–550 substituted “than” for “that” before “the preservation”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–550 substituted "than" for "that" before "the preservation".
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Within the Conservation Area, there is designated as wilderness, and as a component of the National Wilderness Preservation System, the Gunnison Gorge Wilderness, consisting of approximately 17,700 acres, as generally depicted on the Map.
+&emsp;Within the Conservation Area, there is designated as wilderness, and as a component ofthe National Wilderness Preservation System, the Gunnison Gorge Wilderness, consisting of approximately 17,700 acres, as generally depicted on the Map.
 
 #### (2) Administration
 
@@ -26,7 +26,7 @@ As provided in section 4(d)(7) of the Wilderness Act (16 U.S.C. 1133(d)(7)), not
 
 #### (d) Maps and legal descriptions
 
-As soon as practicable after October 21, 1999, the Secretary of the Interior shall file a map and a legal description of the Gunnison Gorge Wilderness with the Committee on Energy and Natural Resources of the United States Senateand the Committee on Resources of the United States House of Representatives. This map and description shall have the same force and effect as if included in this subchapter. The Secretary of the Interior may correct clerical and typographical errors in the map and legal description. The map and legal description shall be on file and available in the office of the Director of the Bureau of Land Management (BLM).
+As soon as practicable after October 21, 1999, the Secretary of the Interior shall file a map and a legal description of the Gunnison Gorge Wilderness with the Committee on Energy and Natural Resources of the United States Senate and the Committee on Resources of the United States House of Representatives. This map and description shall have the same force and effect as if included in this subchapter. The Secretary of the Interior may correct clerical and typographical errors in the map and legal description. The map and legal description shall be on file and available in the office of the Director of the Bureau of Land Management (BLM).
 
 (Pub. L. 106–76, §8, Oct. 21, 1999, 113 Stat. 1130.)
 

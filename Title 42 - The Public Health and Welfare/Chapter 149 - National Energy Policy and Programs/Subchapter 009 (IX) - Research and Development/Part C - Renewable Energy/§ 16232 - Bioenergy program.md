@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Biomass
 
-&emsp;The term “biomass” means—
+&emsp;The term "biomass" means—
 
 &emsp;&emsp;(A) any organic material grown for the purpose of being converted to energy;
 
@@ -20,7 +20,7 @@ In this section:
 
 #### (2) Lignocellulosic feedstock
 
-&emsp;The term “lignocellulosic feedstock” means any portion of a plant or coproduct from conversion, including crops, trees, forest residues, and agricultural residues not specifically grown for food, including from barley grain, grapeseed, rice bran, rice hulls, rice straw, soybean matter, and sugarcane bagasse.
+&emsp;The term "lignocellulosic feedstock" means any portion of a plant or coproduct from conversion, including crops, trees, forest residues, and agricultural residues not specifically grown for food, including from barley grain, grapeseed, rice bran, rice hulls, rice straw, soybean matter, and sugarcane bagasse.
 
 #### (b) Program
 

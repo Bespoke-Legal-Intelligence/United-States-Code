@@ -10,7 +10,7 @@ In the case of any lease described in subsection (a) of an article taxable under
 
 #### (c) Definition of total tax
 
-For purposes of this section, the term “total tax” means—
+For purposes of this section, the term "total tax" means—
 
 &emsp;(1) except as provided in paragraph (2), the tax computed on the constructive sale price for such article which would be determined under section 4216(b) if such article were sold at retail on the date of the first lease to which subsection (b) applies; or
 
@@ -26,7 +26,7 @@ For purposes of this section, the term “total tax” means—
 
 #### (2) Sale before total tax becomes payable
 
-&emsp;If the taxpayer sells an article before the total tax has become payable, then the tax payable on such sale shall be whichever of the following is the smaller:
+&emsp;If the taxpayer sells an article before the total tax has become payable, then the taxpayable on such sale shall be whichever of the following is the smaller:
 
 &emsp;&emsp;(A) the difference between (i) the tax imposed on lease payments under leases of such article to which subsection (b) applies, and (ii) the total tax, or
 
@@ -64,11 +64,11 @@ For purposes of this section, the term “total tax” means—
 
 #### (A) Manufacturer
 
-&emsp;&emsp;The term “manufacturer” includes a producer or importer.
+&emsp;&emsp;The term "manufacturer" includes a producer or importer.
 
 #### (B) Total gas guzzler tax
 
-&emsp;&emsp;The term “total gas guzzler tax” means the tax imposed by section 4064, computed at the rate in effect on the date of the first lease.
+&emsp;&emsp;The term "total gas guzzler tax" means the tax imposed by section 4064, computed at the rate in effect on the date of the first lease.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 494; Aug. 9, 1955, ch. 677, §3, 69 Stat. 614; Pub. L. 85–859, title I, §117(a), Sept. 2, 1958, 72 Stat. 1280; Pub. L. 94–455, title XIX, §1904 (a)(3), Oct. 4, 1976, 90 Stat. 1811; Pub. L. 95–618, title II, §201(d), Nov. 9, 1978, 92 Stat. 3184.)
 
@@ -78,7 +78,7 @@ For purposes of this section, the term “total tax” means—
 
 <b>1976</b>—Subsec. (d)(4). Pub. L. 94–455 struck out par. (4) relating to special transitional rules applicable to leases.
 
-<b>1958</b>—Pub. L. 85–859 substituted “Leases” for “Lease considered as sale” in section catchline.
+<b>1958</b>—Pub. L. 85–859 substituted "Leases" for "Lease considered as sale" in section catchline.
 
 Subsec. (a). Pub. L. 85–859 redesignated existing provisions as subsec. (a) and struck out provisions which made subsection inapplicable to the lease of an article upon which the tax has been paid in the manner provided in section 4216(d)(1) or the total tax has been paid in the manner provided in section 4216(d)(2) of this title.
 
@@ -104,5 +104,5 @@ Section effective on first day of first month which begins more than ten days af
 
 #### Application of Leases of Utility Trailers
 
-Pub. L. 85–859, title I, §117(c), Sept. 2, 1958, 72 Stat. 1281, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4216 of this title\] shall not apply to any lease of an article if section 4216(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, prior subsec. (d) of section 4216 of this title\] applied to any lease of such article before the effective date specified in section 1(c) of this Act.”
+Pub. L. 85–859, title I, §117(c), Sept. 2, 1958, 72 Stat. 1281, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 4216 of this title\] shall not apply to any lease of an article if section 4216(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, prior subsec. (d) of section 4216 of this title\] applied to any lease of such article before the effective date specified in section 1(c) of this Act."
 

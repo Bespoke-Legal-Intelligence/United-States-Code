@@ -6,7 +6,7 @@ In General.—An individual who is certified by the Secretary of Transportation 
 
 (b)
 
-Time for Application.—An individual may submit an application for certification under subsection (c) to the Secretary not later than 45 days after the date the individual completes a period of employment described in subsection\(c)(1)(A) with respect to which the application is submitted.
+Time for Application.—An individual may submit an application for certification under subsection (c) to the Secretary not later than 45 days after the date the individual completes a period of employment described in subsection (c)(1)(A) with respect to which the application is submitted.
 
 (c)
 
@@ -48,7 +48,7 @@ Historical and Revision Notes
 
 June 29, 1936, ch. 858, title III, §302, as added Pub. L. 104–239, §10(a), Oct. 8, 1996, 110 Stat. 3133.
 
-In subsection (c)(1)(B), the words “(as applicable)” are omitted as unnecessary.
+In subsection (c)(1)(B), the words "(as applicable)" are omitted as unnecessary.
 
-In subsection (d), the words “certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a))” are substituted for “certificate referred to in paragraph (1) of section 4301(a) of title 38” because section 4301 of title 38 was amended generally by section 2(a) of Public Law 103–353, and before the amendment section 4301(a)(1) referred to a certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)).
+In subsection (d), the words "certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a))" are substituted for "certificate referred to in paragraph (1) of section 4301(a) of title 38" because section 4301 of title 38 was amended generally by section 2(a) of Public Law 103–353, and before the amendment section 4301(a)(1) referred to a certificate described in section 9(a) of the Military Selective Service Act (50 App. U.S.C. 459(a)).
 

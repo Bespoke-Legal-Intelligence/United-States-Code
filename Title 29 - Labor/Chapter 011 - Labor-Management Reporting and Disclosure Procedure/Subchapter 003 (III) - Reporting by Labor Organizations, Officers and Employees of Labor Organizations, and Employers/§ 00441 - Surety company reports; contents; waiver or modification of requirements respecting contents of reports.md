@@ -6,11 +6,11 @@ Each surety company which issues any bond required by this chapter or the Employ
 
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974,88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in text, is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended, which is classified principally to chapter 18 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
 
-<b>1974</b>—Pub. L. 93–406 substituted “Employee Retirement Income Security Act of 1974” for “Welfare and Pension Plans Disclosure Act”.
+<b>1974</b>—Pub. L. 93–406 substituted "Employee Retirement Income Security Act of 1974" for "Welfare and Pension Plans Disclosure Act".
 
 #### Effective Date of 1974 Amendment
 

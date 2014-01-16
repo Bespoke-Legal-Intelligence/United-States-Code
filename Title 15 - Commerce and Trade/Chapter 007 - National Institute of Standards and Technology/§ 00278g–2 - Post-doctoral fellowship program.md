@@ -10,17 +10,17 @@ A prior section 19 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and i
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–358, §407(a), struck out “, in conjunction with the National Academy of Sciences,” after “The Institute”.
+<b>2011</b>—Pub. L. 111–358, §407(a), struck out ", in conjunction with the National Academy of Sciences," after "The Institute".
 
-Pub. L. 111–358, §406(b), inserted at end “In evaluating applications for fellowships under this section, the Director shall give consideration to the goal of promoting the participation of underrepresented minorities in research areas supported by the Institute.”
+Pub. L. 111–358, §406(b), inserted at end "In evaluating applications for fellowships under this section, the Director shall give consideration to the goal of promoting the participation of underrepresented minorities in research areas supported by the Institute."
 
-<b>2007</b>—Pub. L. 110–69 substituted “nor more than 120 new fellows” for “nor more than 60 new fellows”.
+<b>2007</b>—Pub. L. 110–69 substituted "nor more than 120 new fellows" for "nor more than 60 new fellows".
 
-<b>1996</b>—Pub. L. 104–113 inserted “, subject to the availability of appropriations,” after “post-doctoral fellowship program” and substituted “nor more than 60” for “nor more than forty”.
+<b>1996</b>—Pub. L. 104–113 inserted ", subject to the availability of appropriations," after "post-doctoral fellowship program" and substituted "nor more than 60" for "nor more than forty".
 
-<b>1988</b>—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards”.
+<b>1988</b>—Pub. L. 100–418 substituted "Institute" for "National Bureau of Standards".
 
 #### Effective Date
 
-Pub. L. 99–574, §8(b), Oct. 28, 1986, 100 Stat. 3238, provided that: “The amendments made by subsection (a) \[enacting this section\] shall be effective October 1, 1987.”
+Pub. L. 99–574, §8(b), Oct. 28, 1986, 100 Stat. 3238, provided that: "The amendments made by subsection (a) \[enacting this section\] shall be effective October 1, 1987."
 

@@ -50,9 +50,9 @@ Surveys, Reports, and Compensation Plans.—(1) If as a result of an activity ca
 
 (e)
 
-Congressional Resolutions.—(1) In this subsection, “resolution”—
+Congressional Resolutions.—(1) In this subsection, "resolution"—
 
-&emsp;(A) means a joint resolution of Congress the matter after the resolving clause of which is as follows: “That the Congress approves the compensation plan numbered \_\_\_\_\_\_\_\_\_\_ submitted to the Congress on \_\_\_\_\_\_\_\_\_\_ XX, 20\_\_\_\_.”, with the blank spaces being filled appropriately; but
+&emsp;(A) means a joint resolution of Congress the matter after the resolving clause of which is as follows: "That the Congress approves the compensation plan numbered \_\_\_\_\_\_\_\_\_\_ submitted to the Congress on \_\_\_\_\_\_\_\_\_\_ XX, 20\_\_\_\_.", with the blank spaces being filled appropriately; but
 
 &emsp;(B) does not include a resolution that includes more than one compensation plan.
 
@@ -154,25 +154,25 @@ Oct. 30, 1984, Pub. L. 98–575, §16(b)(1)–(4), 98 Stat. 3061; restated Nov. 
 
 Oct. 30, 1984, Pub. L. 98–575, §16(b)(5), 98 Stat. 3061; restated Nov. 15, 1988, Pub. L. 100–657, §5(a), 102 Stat. 3903; Nov. 4, 1992, Pub. L. 102–588, §503, 106 Stat. 5124.
 
-In subsection (a)(1), before clause (A), the word “particular” is omitted as surplus. In clause (B), the words “the level that is” are omitted as surplus.
+In subsection (a)(1), before clause (A), the word "particular" is omitted as surplus. In clause (B), the words "the level that is" are omitted as surplus.
 
-In subsection (b)(1), the words “civil action” are substituted for “suit” for consistency in the revised title and with other titles of the United States Code and rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
+In subsection (b)(1), the words "civil action" are substituted for "suit" for consistency in the revised title and with other titles of the United States Code and rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
-In subsection (b)(2), the words “the Government must be given an opportunity” are substituted for “by the United States, at its election” for clarity.
+In subsection (b)(2), the words "the Government must be given an opportunity" are substituted for "by the United States, at its election" for clarity.
 
-In subsection (c), the words “just and” and “judgment” are omitted as surplus.
+In subsection (c), the words "just and" and "judgment" are omitted as surplus.
 
-In subsection (d), the word “particular” is omitted as surplus.
+In subsection (d), the word "particular" is omitted as surplus.
 
-In subsection (d)(2), before clause (A), the words “or plans” are omitted because of 1:1.
+In subsection (d)(2), before clause (A), the words "or plans" are omitted because of 1:1.
 
-In subsection (e)(1), before clause (A), the text of 49 App.:2615(b)(4)(D)(i) is omitted as surplus. In clause (A), the word “only” is omitted as surplus. The word “Congress” is substituted for “the first blank space therein being filled with the name of the resolving House” to correct an error in the law.
+In subsection (e)(1), before clause (A), the text of 49 App.:2615(b)(4)(D)(i) is omitted as surplus. In clause (A), the word "only" is omitted as surplus. The word "Congress" is substituted for "the first blank space therein being filled with the name of the resolving House" to correct an error in the law.
 
-In subsection (e)(3), the words “once introduced with respect to a compensation plan” are omitted as surplus.
+In subsection (e)(3), the words "once introduced with respect to a compensation plan" are omitted as surplus.
 
-In subsection (e)(4)(A), the word “either” is omitted as surplus.
+In subsection (e)(4)(A), the word "either" is omitted as surplus.
 
-In subsection (f), the word “only” is omitted as surplus.
+In subsection (f), the word "only" is omitted as surplus.
 
 #### Pub. L. 104–287
 
@@ -180,35 +180,35 @@ This amends 49:70113(e)(6)(D) to correct an error in the codification enacted by
 
 #### Amendments
 
-<b>2013</b>—Subsec. (f). Pub. L. 112–273 substituted “December 31, 2013” for “December 31, 2012”.
+<b>2013</b>—Subsec. (f). Pub. L. 112–273 substituted "December 31, 2013" for "December 31, 2012".
 
 <b>2010</b>—Pub. L. 111–314, §4(d)(2), (3)(O), successively renumbered section 70113 of title 49 and section 70113 of this title as this section.
 
-Subsec. (a)(1)(A). Pub. L. 111–314, §4(d)(5)(Q), substituted “section 50914(a)(1)(A)” for “section 70112(a)(1)(A)”.
+Subsec. (a)(1)(A). Pub. L. 111–314, §4(d)(5)(Q), substituted "section 50914(a)(1)(A)" for "section 70112(a)(1)(A)".
 
-Subsec. (a)(2). Pub. L. 111–314, §4(d)(5)(R), substituted “section 50914(a)(1)(A)” for “section 70112(a)(1)(A)” and “section 50914(a)(1)” for “section 70112(a)(1)”.
+Subsec. (a)(2). Pub. L. 111–314, §4(d)(5)(R), substituted "section 50914(a)(1)(A)" for "section 70112(a)(1)(A)" and "section 50914(a)(1)" for "section 70112(a)(1)".
 
-<b>2009</b>—Subsec. (f). Pub. L. 111–125 substituted “December 31, 2012.” for “December 31, 2009.”
+<b>2009</b>—Subsec. (f). Pub. L. 111–125 substituted "December 31, 2012." for "December 31, 2009."
 
-<b>2004</b>—Subsec. (a)(1). Pub. L. 108–492, §2(c)(22), inserted “but not against a space flight participant,” after “subcontractor of a customer,”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–492, §2(c)(22), inserted "but not against a space flight participant," after "subcontractor of a customer,".
 
-Subsec. (f). Pub. L. 108–492, §2(c)(23), inserted at end “This section does not apply to permits.”
+Subsec. (f). Pub. L. 108–492, §2(c)(23), inserted at end "This section does not apply to permits."
 
-Pub. L. 108–428 substituted “December 31, 2009” for “December 31, 2004”.
+Pub. L. 108–428 substituted "December 31, 2009" for "December 31, 2004".
 
-<b>2000</b>—Subsec. (e)(1)(A). Pub. L. 106–405, §6(a), substituted “20\_\_\_\_” for “19\_\_\_\_”.
+<b>2000</b>—Subsec. (e)(1)(A). Pub. L. 106–405, §6(a), substituted "20\_\_\_\_" for "19\_\_\_\_".
 
-Subsec. (f). Pub. L. 106–405, §5(b), substituted “December 31, 2004” for “December 31, 2001”.
+Subsec. (f). Pub. L. 106–405, §5(b), substituted "December 31, 2004" for "December 31, 2001".
 
-Pub. L. 106–377 substituted “December 31, 2001” for “December 31, 2000”.
+Pub. L. 106–377 substituted "December 31, 2001" for "December 31, 2000".
 
-<b>1999</b>—Subsec. (f). Pub. L. 106–74 substituted “December 31, 2000” for “December 31, 1999”.
+<b>1999</b>—Subsec. (f). Pub. L. 106–74 substituted "December 31, 2000" for "December 31, 1999".
 
-<b>1998</b>—Subsecs. (a)(1), (d)(1), (2). Pub. L. 105–303 inserted “or reentry” after “one launch”.
+<b>1998</b>—Subsecs. (a)(1), (d)(1), (2). Pub. L. 105–303 inserted "or reentry" after "one launch".
 
-<b>1996</b>—Subsec. (e)(6)(D). Pub. L. 104–287 substituted “related to a resolution” for “related to resolution”.
+<b>1996</b>—Subsec. (e)(6)(D). Pub. L. 104–287 substituted "related to a resolution" for "related to resolution".
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–405, §6(b), Nov. 1, 2000, 114 Stat. 1752, provided that: “The amendment made by subsection (a) \[amending this section\] takes effect on January 1, 2000.”
+Pub. L. 106–405, §6(b), Nov. 1, 2000, 114 Stat. 1752, provided that: "The amendment made by subsection (a) \[amending this section\] takes effect on January 1, 2000."
 

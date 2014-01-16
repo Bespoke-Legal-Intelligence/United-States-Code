@@ -34,7 +34,7 @@
 
 #### (c) Postal Service defined
 
-The term “Postal Service” means the United States Postal Service established under section 201 of title 39.
+The term "Postal Service" means the United States Postal Service established under section 201 of title 39.
 
 (Pub. L. 107–252, title II, §246, Oct. 29, 2002, 116 Stat. 1691.)
 

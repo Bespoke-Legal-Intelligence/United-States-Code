@@ -72,19 +72,19 @@ In this section:
 
 #### (1) Indian; Indian tribe
 
-&emsp;The terms “Indian” and “Indian tribe” have the meanings given the terms in section 2 of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801).
+&emsp;The terms "Indian" and "Indian tribe" have the meanings given the terms in section 2 of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801).
 
 #### (2) Indian student count
 
 #### (A) In general
 
-&emsp;&emsp;The term “Indian student count” means a number equal to the total number of Indian students enrolled in each tribally controlled postsecondary career and technical institution, as determined in accordance with subparagraph (B).
+&emsp;&emsp;The term "Indian student count" means a number equal to the total number of Indian students enrolled in each tribally controlled postsecondary career and technical institution, as determined in accordance with subparagraph (B).
 
 #### (B) Determination
 
 #### (i) Enrollment
 
-&emsp;&emsp;&emsp;For each academic year, the Indian student count shall be determined on the basis of the enrollments of Indian students as in effect at the conclusion of—
+&emsp;&emsp;&emsp;For each academic year, the Indian student count shall be determined on thebasis of the enrollments of Indian students as in effect at the conclusion of—
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of the fall term, the third week of the fall term; and
 
@@ -114,7 +114,7 @@ In this section:
 
 #### (III) Credits toward secondary school degree
 
-&emsp;&emsp;&emsp;&emsp;No credit earned by an Indian student for the purpose of obtaining a secondaryschool degree (or the recognized equivalent of such a degree) shall be counted toward the determination of the Indian student count under this clause.
+&emsp;&emsp;&emsp;&emsp;No credit earned by an Indian student for the purpose of obtaining a secondary school degree (or the recognized equivalent of such a degree) shall be counted toward the determination of the Indian student count under this clause.
 
 #### (v) Continuing education programs
 
@@ -144,9 +144,9 @@ Another prior section 2327, Pub. L. 88–210, title I, §117, as added Pub. L. 1
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315, §941(j)(2)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary shall, subject to the availability of appropriations, make grants pursuant to this section to tribally controlled postsecondary career and technical institutions that are not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) to provide basic support for the education and training of Indian students.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §941(j)(2)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary shall, subject to the availability of appropriations, make grants pursuant to this section to tribally controlled postsecondary career and technical institutions that are not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) to provide basic support for the education and training of Indian students."
 
-Subsec. (d). Pub. L. 110–315, §941(j)(2)(B), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Any tribally controlled postsecondary career and technical institution that is not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) that desires to receive a grant under this section shall submit an application to the Secretary in such manner and form as the Secretary may require.”
+Subsec. (d). Pub. L. 110–315, §941(j)(2)(B), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "Any tribally controlled postsecondary career and technical institution that is not receiving Federal support under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) or the Navajo Community College Act (25 U.S.C. 640a et seq.) that desires to receive a grant under this section shall submit an application to the Secretary in such manner and form as the Secretary may require."
 
-Subsec. (h)(1). Pub. L. 110–315, §941(k)(2)(D)(ii), substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
+Subsec. (h)(1). Pub. L. 110–315, §941(k)(2)(D)(ii), substituted "the Tribally Controlled Colleges and Universities Assistance Act of 1978" for "the Tribally Controlled College or University Assistance Act of 1978".
 

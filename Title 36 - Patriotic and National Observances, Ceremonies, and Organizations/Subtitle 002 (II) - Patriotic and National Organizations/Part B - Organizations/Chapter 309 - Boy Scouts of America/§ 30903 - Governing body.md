@@ -50,7 +50,7 @@ June 15, 1916, ch. 148, §5 (1st–5th, 7th, 8th sentences), 39 Stat. 228.
 
 In subsection (a), the text of 36:25 (3d sentence) is omitted as executed and obsolete.
 
-In subsection (c)(1)(A), the words “have and” are omitted as unnecessary. The word “activities” is substituted for “business affairs” for consistency in the revised title.
+In subsection (c)(1)(A), the words "have and" are omitted as unnecessary. The word "activities" is substituted for "business affairs" for consistency in the revised title.
 
-In subsection (c)(1)(B), the words “have power to” are omitted as unnecessary.
+In subsection (c)(1)(B), the words "have power to" are omitted as unnecessary.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Authorized Assistance.—(1) To the extent provided in defense authorization Acts, funds authorized to be appropriated to the Department of Defense for a fiscal year for humanitarian assistance shall be used for the purpose of providing transportation of humanitarian relief and for other humanitarian purposes worldwide.
+Authorized Assistance.—(1) To the extent provided in defense authorization Acts, fundsauthorized to be appropriated to the Department of Defense for a fiscal year for humanitarian assistance shall be used for the purpose of providing transportation of humanitarian relief and for other humanitarian purposes worldwide.
 
 (2) The Secretary of Defense may use the authority provided by paragraph (1) to transport supplies intended for use to respond to, or mitigate the effects of, an event or condition, such as an oil spill, that threatens serious harm to the environment, but only if other sources to provide such transportation are not readily available. The Secretary may require reimbursement for costs incurred by the Department of Defense to transport supplies under this paragraph.
 
@@ -30,7 +30,7 @@ Report Regarding Relief for Unauthorized Countries.—In any case in which the S
 
 (e)
 
-Definition.—In this section, the term “defense authorization Act” means an Act that authorizes appropriations for one or more fiscal years for military activities of the Department of Defense, including authorizations of appropriations for the activities described in paragraph (7) of section 114(a) of this title.
+Definition.—In this section, the term "defense authorization Act" means an Act that authorizes appropriations for one or more fiscal years for military activities of the Department of Defense, including authorizations of appropriations for the activities described in paragraph (7) of section 114(a) of this title.
 
 (f)
 
@@ -44,35 +44,35 @@ Congressional Committees.—The congressional committees referred to in subsecti
 
 #### Amendments
 
-<b>2013</b>—Subsec. (f)(2). Pub. L. 112–239 substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
+<b>2013</b>—Subsec. (f)(2). Pub. L. 112–239 substituted "Committee on Foreign Affairs" for "Committee on International Relations".
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–136 designated existing provisions as par. (1) and added par. (2).
 
 <b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], renumbered section 2551 of this title as this section.
 
-Subsec. (c)(3)(C). Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(c)(1)\], substituted “section 2557” for “section 2547”.
+Subsec. (c)(3)(C). Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(c)(1)\], substituted "section 2557" for "section 2547".
 
-<b>1999</b>—Subsec. (f)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>1999</b>—Subsec. (f)(2). Pub. L. 106–65 substituted "Committee on Armed Services" for "Committee on National Security".
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–106, §1312(1), (2), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: “
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §1312(1), (2), redesignated subsec. (d) as (b) and struck out former subsec. (b) which read as follows: "
 
 Authority To Transfer Funds.—To the extent provided in defense authorization Acts for a fiscal year, the Secretary of Defense may transfer to the Secretary of State funds appropriated for the purposes of this section to provide for—
 
-&emsp;“(1) the payment of administrative costs incurred in providing the transportation described in subsection (a); and
+&emsp;"(1) the payment of administrative costs incurred in providing the transportation described in subsection (a); and
 
-&emsp;“(2) the purchase or other acquisition of transportation assets for the distribution of humanitarian relief supplies in the country of destination.”
+&emsp;"(2) the purchase or other acquisition of transportation assets for the distribution of humanitarian relief supplies in the country of destination."
 
 Subsec. (c). Pub. L. 104–106, §1312(1), (3), added subsec. (c) and struck out former subsec. (c) which read as follows:
 
-“(c)
+"(c)
 
 Transportation of Humanitarian Relief.—(1) Transportation of humanitarian relief provided with funds appropriated for the purposes of this section shall be provided under the direction of the Secretary of State.
 
-“(2) Such transportation shall be provided by the most economical commercial or military means available, unless the Secretary of State determines that it is in the national interest of the United States to provide such transportation other than by the most economical means available. The means used to provide such transportation may include the use of aircraft and personnel of the reserve components of the Armed Forces.
+"(2) Such transportation shall be provided by the most economical commercial or military means available, unless the Secretary of State determines that it is in the national interest of the United States to provide such transportation other than by the most economical means available. The means used to provide such transportation may include the use of aircraft and personnel of the reserve components of the Armed Forces.
 
-“(3) Nothing in this subsection shall be construed as waiving the requirements of section 2631 of this title and sections 901(b) and 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b) and 1241f).”
+"(3) Nothing in this subsection shall be construed as waiving the requirements of section 2631 of this title and sections 901(b) and 901b of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b) and 1241f)."
 
-Subsec. (d). Pub. L. 104–106, §1312(4), redesignated subsec. (f) as (d) and substituted “the congressional committees specified in subsection (f) and the Committees on Appropriations of the Senate and House of Representatives of the” for “the Committees on Appropriations and on Armed Services of the Senate and House of Representatives, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives of the”. Former subsec. (d) redesignated (b).
+Subsec. (d). Pub. L. 104–106, §1312(4), redesignated subsec. (f) as (d) and substituted "the congressional committees specified in subsection (f) and the Committees on Appropriations of the Senate and House of Representatives of the" for "the Committees on Appropriations and on Armed Services of the Senate and House of Representatives, the Committee on Foreign Relations of the Senate, and the Committee on Foreign Affairs of the House of Representatives of the". Former subsec. (d) redesignated (b).
 
 Subsec. (e). Pub. L. 104–106, §1312(3), (5), redesignated subsec. (g) as (e) and struck out former subsec. (e) which required status reports and specified time for submission, coverage, and contents.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—American Gold Star Mothers, Incorporated (in this chapter, the “corporation”), incorporated in the District of Columbia, is a federally chartered corporation.
+Federal Charter.—American Gold Star Mothers, Incorporated (in this chapter, the "corporation"), incorporated in the District of Columbia, is a federally chartered corporation.
 
 (b)
 

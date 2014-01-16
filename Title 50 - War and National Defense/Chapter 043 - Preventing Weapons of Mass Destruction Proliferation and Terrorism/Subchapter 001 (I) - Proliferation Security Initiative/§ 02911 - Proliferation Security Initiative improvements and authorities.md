@@ -2,7 +2,7 @@
 
 #### (a) Sense of Congress
 
-It is the sense of Congress, consistent with the 9/11 Commission's recommendations, that the President should strive to expand and strengthen the Proliferation Security Initiative (in this subchapter referred to as “PSI”) announced by the President on May 31, 2003, with a particular emphasis on the following:
+It is the sense of Congress, consistent with the 9/11 Commission's recommendations, that the President should strive to expand and strengthen the Proliferation Security Initiative (in this subchapter referred to as "PSI") announced by the President on May 31, 2003, with a particular emphasis on the following:
 
 &emsp;(1) Issuing a presidential directive to the relevant United States Government agencies and departments that directs such agencies and departments to—
 
@@ -14,11 +14,11 @@ It is the sense of Congress, consistent with the 9/11 Commission's recommendatio
 
 &emsp;(2) Increasing PSI cooperation with all countries.
 
-&emsp;(3) Implementing the recommendations of the Government Accountability Office (GAO) in the September 2006 report titled “Better Controls Needed to Plan and Manage Proliferation Security Initiative Activities” (GAO–06–937C) regarding the following:
+&emsp;(3) Implementing the recommendations of the Government Accountability Office (GAO) in the September 2006 report titled "Better Controls Needed to Plan and Manage Proliferation Security Initiative Activities" (GAO–06–937C) regarding the following:
 
 &emsp;&emsp;(A) The Department of Defense and the Department of State should establish clear PSI roles and responsibilities, policies and procedures, interagency communication mechanisms, documentation requirements, and indicators to measure program results.
 
-&emsp;&emsp;(B) The Department of Defense and the Department of State should develop a strategyto work with PSI-participating countries to resolve issues that are impediments to conducting successful PSI interdictions.
+&emsp;&emsp;(B) The Department of Defense and the Department of State should develop a strategy to work with PSI-participating countries to resolve issues that are impediments to conducting successful PSI interdictions.
 
 &emsp;(4) Establishing a multilateral mechanism to increase coordination, cooperation, and compliance among PSI-participating countries.
 
@@ -34,7 +34,7 @@ It is the sense of Congress, consistent with the 9/11 Commission's recommendatio
 
 &emsp;&emsp;(A) A 3-year plan, beginning with the fiscal year for the budget request, that specifies the amount of funding and other resources to be provided by the United States for PSI-related activities over the term of the plan, including the purposes for which such funding and resources will be used.
 
-&emsp;&emsp;(B) For the report submitted in 2008, a description of the PSI-related activities carried out during the 3 fiscal years preceding the year of the report, and for the report submitted in 2009 and each year thereafter, a description of the PSI-related activities carried out during the fiscal year preceding the year of the report. The description shall include, for each fiscal year covered by the report—
+&emsp;&emsp;(B) For the report submitted in 2008, a description of the PSI-related activities carried out during the 3 fiscal years precedingthe year of the report, and for the report submitted in 2009 and each year thereafter, a description of the PSI-related activities carried out during the fiscal year preceding the year of the report. The description shall include, for each fiscal year covered by the report—
 
 &emsp;&emsp;&emsp;(i) the amounts obligated and expended for such activities and the purposes for which such amounts were obligated and expended;
 
@@ -68,7 +68,7 @@ The Government Accountability Office shall submit to Congress, for each of fisca
 
 <b>2013</b>—Subsec. (b)(2). Pub. L. 112–239, §1076(a)(20)(B), made technical amendment to directory language of Pub. L. 112–81, §1067. See 2011 Amendment note below.
 
-<b>2011</b>—Subsec. (b)(2). Pub. L. 112–81, §1067, formerly §1067(b), as amended by Pub. L. 112–239, §1076(a)(20)(B), substituted “of each even-numbered year” for “of each year” in introductory provisions.
+<b>2011</b>—Subsec. (b)(2). Pub. L. 112–81, §1067, formerly §1067(b), as amended by Pub. L. 112–239, §1076(a)(20)(B), substituted "of each even-numbered year" for "of each year" in introductory provisions.
 
 #### Effective Date of 2013 Amendment
 

@@ -6,5 +6,5 @@ The Secretary shall classify, by gender, records of applicants for loans and loa
 
 #### References in Text
 
-For definition of “this chapter”, referred to in text, see note set out under section 1921 of this title.
+For definition of "this chapter", referred to in text, see note set out under section 1921 of this title.
 

@@ -2,11 +2,11 @@
 
 For purposes of this chapter—
 
-&emsp;(1) the term “agricultural land” means any land located in one or more States and used for agricultural, forestry, or timber production purposes as determined by the Secretary under regulations to be prescribed by the Secretary;
+&emsp;(1) the term "agricultural land" means any land located in one or more States and used for agricultural, forestry, or timber production purposes as determined by the Secretary under regulations to be prescribed by the Secretary;
 
-&emsp;(2) the term “foreign government” means any government other than the Federal Government or any government of a State or a political subdivision of a State;
+&emsp;(2) the term "foreign government" means any government other than the Federal Government or any government of a State or a political subdivision of a State;
 
-&emsp;(3) the term “foreign person” means—
+&emsp;(3) the term "foreign person" means—
 
 &emsp;&emsp;(A) any individual—
 
@@ -34,11 +34,11 @@ For purposes of this chapter—
 
 &emsp;&emsp;(D) any foreign government;
 
-&emsp;(4) the term “person” includes any individual, corporation, company, association, firm, partnership, society, joint stock company, trust, estate, or any other legal entity;
+&emsp;(4) the term "person" includes any individual, corporation, company, association, firm, partnership, society, joint stock company, trust, estate, or any other legal entity;
 
-&emsp;(5) the term “Secretary” means the Secretary of Agriculture; and
+&emsp;(5) the term "Secretary" means the Secretary of Agriculture; and
 
-&emsp;(6) the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or any other territory or possession of the United States.
+&emsp;(6) the term "State" means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or any other territory or possession of the United States.
 
 (Pub. L. 95–460, §9, Oct. 14, 1978, 92 Stat. 1266.)
 

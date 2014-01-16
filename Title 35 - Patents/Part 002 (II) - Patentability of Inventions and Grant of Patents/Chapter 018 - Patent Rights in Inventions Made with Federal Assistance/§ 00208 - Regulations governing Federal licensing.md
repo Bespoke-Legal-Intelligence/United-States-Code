@@ -6,5 +6,5 @@ The Secretary of Commerce is authorized to promulgate regulations specifying the
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–620 substituted “Secretary of Commerce” for “Administrator of General Services”.
+<b>1984</b>—Pub. L. 98–620 substituted "Secretary of Commerce" for "Administrator of General Services".
 

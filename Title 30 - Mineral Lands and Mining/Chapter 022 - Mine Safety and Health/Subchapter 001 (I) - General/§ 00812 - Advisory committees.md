@@ -38,7 +38,7 @@
 
 #### (c) Additional advisory committees; chairman; conflicts of interest
 
-The Secretary or the Secretary of Health and Human Services may appoint other advisory committees as he deems appropriate to advise him in carrying out the provisions of this chapter. The Secretary or the Secretary of Health and Human Services, as the case may be, shallappoint the chairman of each such committee. A majority of the members (including the chairman) of any such advisory committee appointed pursuant to this subsection shall be composed of individuals who have no economic interests in the coal or other mining industry, and who are not operators, miners, or officers or employees of the Federal Government or any State or local government.
+The Secretary or the Secretary of Health and Human Services may appoint other advisory committees as he deems appropriate to advise him in carrying out the provisions of this chapter. The Secretary or the Secretary of Health and Human Services, as the case may be, shall appoint the chairman of each such committee. A majority of the members (including the chairman) of any such advisory committee appointed pursuant to this subsection shall be composed of individuals who have no economic interests in the coal or other mining industry, and who are not operators, miners, or officers or employees of the Federal Government or any State or local government.
 
 #### (d) Compensation; travel and subsistence expenses
 
@@ -48,25 +48,25 @@ Advisory committee members, other than officers or employees of Federal, State, 
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+<b>1988</b>—Subsec. (a)(1)(B). Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "National Bureau of Standards".
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–164 expanded the area of coverage for the committee on mine safety research from “coal mines” to “coal or other mines”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–164 expanded the area of coverage for the committee on mine safety research from "coal mines" to "coal or other mines".
 
-Subsec. (b). Pub. L. 95–164 expanded the area of coverage for the advisory committee on mine health research from “coal mines” to “coal or other mines”.
+Subsec. (b). Pub. L. 95–164 expanded the area of coverage for the advisory committee on mine health research from "coal mines" to "coal or other mines".
 
-Subsec. (c). Pub. L. 95–164 struck out “, who shall be an individual who has no economic interest in the coal mining industry, and who is not an operator, miner, or an officer or employee of the Federal Government or any State or local government” after “chairman of each such committee” and inserted “(including the chairman)” after “A majority of the members”.
+Subsec. (c). Pub. L. 95–164 struck out ", who shall be an individual who has no economic interest in the coal mining industry, and who is not an operator, miner, or an officer or employee of the Federal Government or any State or local government" after "chairman of each such committee" and inserted "(including the chairman)" after "A majority of the members".
 
 Subsec. (d). Pub. L. 95–164 reenacted subsec. (d) without change.
 
 #### Change of Name
 
-“United States Bureau of Mines” substituted for “Bureau of Mines” in subsec. (b)(1)(A) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
+"United States Bureau of Mines" substituted for "Bureau of Mines" in subsec. (b)(1)(A) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of this title. For provisions relating to closure and transfer of functions of the United States Bureau of Mines, see Transfer of Functions note set out under section 1 of this title.
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsecs. (b) and (c) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsecs. (b) and (c) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1977 Amendment
 
@@ -78,7 +78,7 @@ Functions vested by law in Office of Science and Technology and in Director or D
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case ofa committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

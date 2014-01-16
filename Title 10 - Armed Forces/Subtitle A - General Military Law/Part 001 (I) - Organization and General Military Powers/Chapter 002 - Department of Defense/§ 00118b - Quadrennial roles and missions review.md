@@ -2,7 +2,7 @@
 
 (a)
 
-Review Required.—The Secretary of Defense shall every four years conduct a comprehensive assessment (to be known as the “quadrennial roles and missions review”) of the roles and missions of the armed forces and the core competencies and capabilities of the Department of Defense to perform and support such roles and missions.
+Review Required.—The Secretary of Defense shall every four years conduct a comprehensive assessment (to be known as the "quadrennial roles and missions review") of the roles and missions of the armed forces and the core competencies and capabilities of the Department of Defense to perform and support such roles and missions.
 
 (b)
 
@@ -40,21 +40,21 @@ Report.—The Secretary shall submit a report on the quadrennial roles and missi
 
 #### Inclusion of Assessment of Joint Military Training and Force Allocations in Quadrennial Defense Review and National Military Strategy
 
-Pub. L. 112–81, div. A, title III, §348, Dec. 31, 2011, 125 Stat. 1375, provided that: “The assessments of the National Military Strategy conducted by the Chairman of the Joint Chiefs of Staff under section 153(b) of this title \[sic; probably means Title 10, Armed Forces\], andthe quadrennial roles and missions review pursuant to section 118b of this title \[sic\], shall include an assessment of joint military training and force allocations to determine—
+Pub. L. 112–81, div. A, title III, §348, Dec. 31, 2011, 125 Stat. 1375, provided that: "The assessments of the National Military Strategy conducted by the Chairman of the Joint Chiefs of Staff under section 153(b) of this title \[sic; probably means Title 10, Armed Forces\], and the quadrennial roles and missions review pursuant to section 118b of this title \[sic\], shall include an assessment of joint military training and force allocations to determine—
 
-&emsp;“(1) the compliance of the military departments with the joint training, doctrine, and resource allocation recommendations promulgated by the Joint Chiefs of Staff; and
+&emsp;"(1) the compliance of the military departments with the joint training, doctrine, and resource allocation recommendations promulgated by the Joint Chiefs of Staff; and
 
-&emsp;“(2) the effectiveness of the Joint Staff in carrying out the missions of planning and experimentation formerly accomplished by Joint Forces Command.”
+&emsp;"(2) the effectiveness of the Joint Staff in carrying out the missions of planning and experimentation formerly accomplished by Joint Forces Command."
 
 #### Timing of Quadrennial Roles and Missions Review
 
 Pub. L. 110–181, div. A, title IX, §941(c), Jan. 28, 2008, 122 Stat. 287, provided that:
 
-“(1)
+"(1)
 
 First review.—The first quadrennial roles and missions review under section 118b of title 10, United States Code, as added by subsection (a), shall be conducted during 2008.
 
-“(2)
+"(2)
 
-Subsequent reviews.—Subsequent reviews shall be conducted every four years, beginning in 2011.”
+Subsequent reviews.—Subsequent reviews shall be conducted every four years, beginning in 2011."
 

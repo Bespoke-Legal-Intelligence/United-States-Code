@@ -8,7 +8,7 @@
 
 #### (2) Part B
 
-&emsp;There are authorized to be appropriated to carry out part B $100,000,000 for fiscal year 2009and such sums as may be necessary for each of the five succeeding fiscal years.
+&emsp;There are authorized to be appropriated to carry out part B $100,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years.
 
 #### (b) Use of multiple year awards
 
@@ -26,7 +26,7 @@ Another prior section 528 of Pub. L. 89–329 was classified to section 1118 of 
 
 Prior sections 1104 to 1104k, 1105 to 1105i, 1106 to 1106g, and 1107 were omitted in the general amendment of this subchapter by Pub. L. 105–244.
 
-Section 1104, Pub. L. 89–329, title V, §521, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 677, related to purpose of Paul Douglas Teacher Scholarship program and provided that scholarships be referred to as “Paul Douglas Teacher Scholarships”.
+Section 1104, Pub. L. 89–329, title V, §521, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 677, related to purpose of Paul Douglas Teacher Scholarship program and provided that scholarships be referred to as "Paul Douglas Teacher Scholarships".
 
 A prior section 1104, Pub. L. 89–329, title V, §514, Nov. 8, 1965, 79 Stat. 1257; Pub. L. 90–35, §3(a)(3), (g)(1), June 29, 1967, 81 Stat. 85, 86; Pub. L. 90–575, title II, §232, Oct. 16, 1968, 82 Stat. 1039; Pub. L. 91–230, title VIII, §§804(e), 805(c), Apr. 13, 1970, 84 Stat. 191, 192; Pub. L. 93–380, title VIII, §835(a)(4), Aug. 21, 1974, 88 Stat. 605; Pub. L. 94–482, title I, §152(e), Oct. 12, 1976, 90 Stat. 2153; Pub. L. 96–374, title V, §502(e), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1459, 1503, set forth provisions respecting compensation of program members, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
 
@@ -52,7 +52,7 @@ Section 1104j, Pub. L. 89–329, title V, §530A, as added Pub. L. 102–325, ti
 
 Section 1104k, Pub. L. 89–329, title V, §530B, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 683, authorized appropriations for Paul Douglas Teacher Scholarship program.
 
-Section 1105, Pub. L. 89–329, title V, §531, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 684, related to purpose of Christa McAuliffe fellowship program and provided that fellowship recipients be known as “Christa McAuliffe fellows”.
+Section 1105, Pub. L. 89–329, title V, §531, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 684, related to purpose of Christa McAuliffe fellowship program and provided that fellowship recipients be known as "Christa McAuliffe fellows".
 
 A prior section 1105, Pub. L. 89–329, title V, §521, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1498, provided that the purpose of former part B of this subchapter was to encourage partnerships between institutions of higher education and secondary schools serving low-income students, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
@@ -60,7 +60,7 @@ Another prior section 1105, Pub. L. 89–329, title V, §515, Nov. 8, 1965, 79 S
 
 Section 1105a, Pub. L. 89–329, title V, §532, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 684, authorized grants to State education agencies for Christa McAuliffe fellowship program.
 
-A prior section 1105a, Pub. L. 89–329, title V, §522, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1498, related to partnership agreements between institutions of higher education and secondary schools serving low-income students, prior to the general amendment of this subchapter by Pub. L. 102–325.
+A prior section 1105a, Pub. L. 89–329, title V, §522, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1498, related to partnership agreements betweeninstitutions of higher education and secondary schools serving low-income students, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
 Section 1105b, Pub. L. 89–329, title V, §533, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 684, related to award and use of Christa McAuliffe fellowships.
 
@@ -122,7 +122,7 @@ Section 1107d, Pub. L. 89–329, title V, §535, as added Pub. L. 99–498, titl
 
 Prior sections 1108 to 1108g were repealed by Pub. L. 102–325, title V, §501(b), July 23, 1992, 106 Stat. 719, effective July 1, 1995.
 
-Section 1108, Pub. L. 89–329, title V, §552, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 698, provided that subpart 2 of former part D of this subchapter could be cited as the “Alternative Routes to Teacher Certification and Licensure Act of 1992”.
+Section 1108, Pub. L. 89–329, title V, §552, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 698, provided that subpart 2 of former part D of this subchapter could be cited as the "Alternative Routes to Teacher Certification and Licensure Act of 1992".
 
 A prior section 1108, Pub. L. 89–329, title V, §518, as added Pub. L. 90–35, §4, June 29, 1967, 81 Stat. 87; amended Pub. L. 90–575, title II, §§231(a), 233(a), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 92–318, title I, §§141(a)(1)(B), (c)(1)(D), (2)(A), 143(a)(1), June 23, 1972, 86 Stat. 284–286, authorized a program for making grants to States to alleviate teacher shortages, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
 
@@ -136,7 +136,7 @@ Section 1108d, Pub. L. 89–329, title V, §556, as added Pub. L. 102–325, tit
 
 Section 1108e, Pub. L. 89–329, title V, §557, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 700, outlined permissible uses of funds.
 
-Section 1108f, Pub. L. 89–329, title V, §558, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 700, defined “State” for purposes of subpart 2 of former part D of this subchapter.
+Section 1108f, Pub. L. 89–329, title V, §558, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat.700, defined "State" for purposes of subpart 2 of former part D of this subchapter.
 
 Section 1108g, Pub. L. 89–329, title V, §559, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 700, authorized appropriations for fiscal year 1993 to carry out subpart 2 of former part D of this subchapter.
 
@@ -170,7 +170,7 @@ Section 1110, Pub. L. 89–329, title V, §566, as added Pub. L. 102–325, titl
 
 A prior section 1110, Pub. L. 89–329, title V, §520, as added Pub. L. 90–35, §4, June 29, 1967, 81 Stat. 88; amended Pub. L. 90–575, title II, §233(b), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 92–318, title I, §§143(a)(2), (3), 144(a), 145(a), 146(a), June 23, 1972, 86 Stat. 286, 287, set forth requirements for State plans as prerequisite for receipt of grant by State, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
 
-Section 1110a, Pub. L. 89–329, title V, §567, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 703, defined “developmentally appropriate” and “middle school”.
+Section 1110a, Pub. L. 89–329, title V, §567, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 703, defined "developmentally appropriate" and "middle school".
 
 A prior section 1110a, Pub. L. 89–329, title V, §520A, as added Pub. L. 90–35, §4, June 29, 1967, 81 Stat. 89, set forth manner of repayment of amounts expended by each State for implementation of State plan, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
 
@@ -264,7 +264,7 @@ A prior section 1114, Pub. L. 89–329, title V, §524, Nov. 8, 1965, 79 Stat. 1
 
 Section 1114a, Pub. L. 89–329, title V, §587, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 714, related to development of foreign language and culture instructional materials.
 
-Section 1115, Pub. L. 89–329, title V, §591, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 714, authorized grants for development of model programs for educational excellence, teacher training, and educational reform.
+Section 1115, Pub. L. 89–329, title V, §591, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat.714, authorized grants for development of model programs for educational excellence, teacher training, and educational reform.
 
 A prior section 1115, Pub. L. 89–329, title V, §571, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1512, related to State task forces on teacher training, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
@@ -316,7 +316,7 @@ Another prior section 1119b–2, Pub. L. 89–329, title V, §543, as added Pub.
 
 Section 1119b–3, Pub. L. 89–329, title V, §544, as added Pub. L. 96–374, title V, §505(a), Oct. 3, 1980, 94 Stat. 1463, set out conditions for maintaining fellowships in training teachers for handicapped children.
 
-Section 1119b–4, Pub. L. 89–329, title V, §545, as added Pub. L. 96–374, title V, §505(a), Oct. 3, 1980, 94 Stat. 1463, defined “special education”.
+Section 1119b–4, Pub. L. 89–329, title V, §545, as added Pub. L. 96–374, title V, §505(a), Oct. 3, 1980, 94 Stat. 1463, defined "special education".
 
 Section 1119b–5, Pub. L. 89–329, title V, §546, as added Pub. L. 96–374, title V, §505(a), Oct. 3, 1980, 94 Stat. 1463, authorized appropriations for fiscal years 1981 to 1985 to carry out grant program for training teachers for handicapped children.
 
@@ -334,7 +334,7 @@ Another prior section 1119c–2, Pub. L. 89–329, title V, §553, as added Pub.
 
 Section 1119c–3, Pub. L. 89–329, title V, §554, as added Pub. L. 90–576, title II, §201, Oct. 16, 1968, 82 Stat. 1094, related to familiarizing teachers with new curricular methods, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(C), title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2152, 2215.
 
-Section 1119c–4, Pub. L. 89–329, title V, §555, as added Pub. L. 94–482, title I, §151(a)(4)(B), Oct. 12, 1976, 90 Stat.2152, authorized appropriation for the fiscal years ending prior to Oct. 1, 1977, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(C), title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2152, 2215.
+Section 1119c–4, Pub. L. 89–329, title V, §555, as added Pub. L. 94–482, title I, §151(a)(4)(B), Oct. 12, 1976, 90 Stat. 2152, authorized appropriation for the fiscal years ending prior to Oct. 1, 1977, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(C), title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2152, 2215.
 
 An identical section 555 of Pub. L. 89–329, as added Pub. L. 94–482, title II, §201(q), Oct. 12, 1976, 90 Stat. 2169, was also classified to section 1119c–4, and was repealed by Pub. L. 94–482, title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2215.
 
@@ -372,5 +372,5 @@ Section 1119e–5, Pub. L. 89–329, title V, §576, as added Pub. L. 98–558, 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315, §505, amended subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this subchapter $62,500,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §505, amended subsec. (a) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this subchapter $62,500,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years."
 

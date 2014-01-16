@@ -4,7 +4,7 @@
 
 Northeast Corridor Infrastructure and Operations Advisory Commission.—
 
-&emsp;(1) Within 180 days after the date of enactment of the Passenger Rail Investment and Improvement Act of 2008, the Secretary of Transportation shall establish a Northeast Corridor Infrastructure and Operations Advisory Commission (referred to in this section as the “Commission”) to promote mutual cooperation and planning pertaining to the rail operations and related activities of the Northeast Corridor. The Commission shall be made up of—
+&emsp;(1) Within 180 days after the date of enactment of the Passenger Rail Investment and Improvement Act of 2008, the Secretary of Transportation shall establish a Northeast Corridor Infrastructure and Operations Advisory Commission (referred to in this section as the "Commission") to promote mutual cooperation and planning pertaining to the rail operations and related activities of the Northeast Corridor. The Commission shall be made up of—
 
 &emsp;&emsp;(A) members representing Amtrak;
 
@@ -16,7 +16,7 @@ Northeast Corridor Infrastructure and Operations Advisory Commission.—
 
 &emsp;(2) The Secretary shall ensure that the membership belonging to any of the groups enumerated under paragraph (1) shall not constitute a majority of the Commission's memberships.
 
-&emsp;(3) The Commission shall establish a schedule and location for convening meetings, but shall meet no less than four times per fiscal year, and the Commission shall develop rules and procedures to govern the Commission's proceedings.
+&emsp;(3) The Commission shall establish a schedule and location for convening meetings, butshall meet no less than four times per fiscal year, and the Commission shall develop rules and procedures to govern the Commission's proceedings.
 
 &emsp;(4) A vacancy in the Commission shall be filled in the manner in which the original appointment was made.
 
@@ -96,7 +96,7 @@ Revisions.—The Commission may make necessary revisions to the formula develope
 
 (d)
 
-Transmission of Statement of Goals and Recommendations.—The Commission shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
+Transmission of Statement of Goals and Recommendations.—The Commission shall transmit to the Committee on Commerce,Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives—
 
 &emsp;(1) the statement of goals developed under subsection (b) within 1 year after the date of enactment of the Passenger Rail Investment and Improvement Act of 2008; and
 
@@ -170,13 +170,13 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §505(a), (b); added Aug. 13, 19
 
 June 22, 1988, Pub. L. 100–342, §11, 102 Stat. 629; Sept. 3, 1992, Pub. L. 102–365, §18, 106 Stat. 982.
 
-In subsection (a)(2), before clause (A), the words “develop and” are omitted as surplus. In clause (B)(v), the word “rates” is substituted for “fares, tariffs” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a)(2), before clause (A), the words "develop and" are omitted as surplus. In clause (B)(v), the word "rates" is substituted for "fares, tariffs" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(3), the words “of opinions” and “(among or between the Corporation, Amtrak Commuter, other railroads, commuter authorities, and other State, local, and regional agencies responsible for the provision of commuter rail, rapid rail, or rail freight service), with respect to all matters” are omitted as surplus. The words “for facilities and transportation matters under” are substituted for “those conferred on the Commission in” for clarity.
+In subsection (a)(3), the words "of opinions" and "(among or between the Corporation, Amtrak Commuter, other railroads, commuter authorities, and other State, local, and regional agencies responsible for the provision of commuter rail, rapid rail, or rail freight service), with respect to all matters" are omitted as surplus. The words "for facilities and transportation matters under" are substituted for "those conferred on the Commission in" for clarity.
 
-In subsection (b)(1), the words “Within 30 days after the date of enactment of this Act . . . shall establish” are omitted as executed.
+In subsection (b)(1), the words "Within 30 days after the date of enactment of this Act . . . shall establish" are omitted as executed.
 
-In subsection (b)(3), the words “each Congress” are substituted for “the 103rd Congress, and biennially thereafter” to eliminate unnecessary words. The words “pursuant to the provisions of this section” are omitted as unnecessary.
+In subsection (b)(3), the words "each Congress" are substituted for "the 103rd Congress, and biennially thereafter" to eliminate unnecessary words. The words "pursuant to the provisions of this section" are omitted as unnecessary.
 
 #### References in Text
 

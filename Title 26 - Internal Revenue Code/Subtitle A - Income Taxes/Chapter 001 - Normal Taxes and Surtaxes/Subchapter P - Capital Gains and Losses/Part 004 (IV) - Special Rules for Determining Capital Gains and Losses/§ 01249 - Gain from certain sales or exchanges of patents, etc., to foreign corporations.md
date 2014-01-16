@@ -12,9 +12,9 @@ For purposes of subsection (a), control means, with respect to any foreign corpo
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455 substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 substituted "ordinary income" for "gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231".
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–809 substituted “Gain” for “Except as provided in subsection (c), gain”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–809 substituted "Gain" for "Except as provided in subsection (c), gain".
 
 #### Effective Date of 1976 Amendment
 
@@ -26,5 +26,5 @@ Amendment by Pub. L. 89–809 applicable with respect to taxable years beginning
 
 #### Effective Date
 
-Pub. L. 87–834, §16(c), Oct. 16, 1962, 76 Stat. 1045, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1962.”
+Pub. L. 87–834, §16(c), Oct. 16, 1962, 76 Stat. 1045, provided that: "The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 1962."
 

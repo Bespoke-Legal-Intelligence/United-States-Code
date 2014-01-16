@@ -10,47 +10,47 @@ It is therefore declared to be the policy of the Congress and the purpose of thi
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–624, in first undesignated par., inserted “and also outside the United States”, struck out “in large part” before “in the channels of interstate”, “All cotton produced in the United States is in the current of interstate or foreign commerce or directly burdens, obstructs, or affects interstate or foreign commerce in cotton and cotton products.” before “The efficient production”, and “In the years since World War II, United States cotton and the products thereof have been confronted with intensive competition, both at home and abroad, from foreign-grown cotton and from other fibers, primarily manmade fibers.” after “economy of the Nation.”, and substituted “The great inroads on the market and uses for” for “The great inroads on the market and uses for United States” and, in third undesignated par., substituted “marketed” for “harvested” and inserted “and on imports of cotton”.
+<b>1990</b>—Pub. L. 101–624, in first undesignated par., inserted "and also outside the United States", struck out "in large part" before "in the channels of interstate", "All cotton produced in the United States is in the current of interstate or foreign commerce or directly burdens, obstructs, or affects interstate or foreign commerce in cotton and cotton products." before "The efficient production", and "In the years since World War II, United States cotton and the products thereof have been confronted with intensive competition, both at home and abroad, from foreign-grown cotton and from other fibers, primarily manmade fibers." after "economy of the Nation.", and substituted "The great inroads on the market and uses for" for "The great inroads on the market and uses for United States" and, in third undesignated par., substituted "marketed" for "harvested" and inserted "and on imports of cotton".
 
 #### Effective Date
 
-Pub. L. 89–502, §20, July 13, 1966, 80 Stat. 287, provided that: “This Act \[enacting this chapter\] shall take effect upon enactment \[July 13, 1966\]”.
+Pub. L. 89–502, §20, July 13, 1966, 80 Stat. 287, provided that: "This Act \[enacting this chapter\] shall take effect upon enactment \[July 13, 1966\]".
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–624, title XIX, §1990, Nov. 28, 1990, 104 Stat. 3909, provided that: “This subtitle \[subtitle G (§§1990–1998) of title XIX of Pub. L. 101–624, amending this section and sections 2106 to 2110 and 2116 of this title, and enacting provisions set out below\] may be cited as the ‘Cotton Research and Promotion Act Amendments of 1990’.”
+Pub. L. 101–624, title XIX, §1990, Nov. 28, 1990, 104 Stat. 3909, provided that: "This subtitle \[subtitle G (§§1990–1998) of title XIX of Pub. L. 101–624, amending this section and sections 2106 to 2110 and 2116 of this title, and enacting provisions set out below\] may be cited as the 'Cotton Research and Promotion Act Amendments of 1990'."
 
 #### Short Title
 
-Pub. L. 89–502, §1, July 13, 1966, 80 Stat. 279, provided: “That this Act \[enacting this chapter\] shall be known as the ‘Cotton Research and Promotion Act’.”
+Pub. L. 89–502, §1, July 13, 1966, 80 Stat. 279, provided: "That this Act \[enacting this chapter\] shall be known as the 'Cotton Research and Promotion Act'."
 
 #### Reports on Implementation and Enforcement of Cotton Research and Promotion Program
 
 Pub. L. 101–624, title XIX, §1998, Nov. 28, 1990, 104 Stat. 3913, as amended by Pub. L. 102–237, title VIII, §808(b), Dec. 13, 1991, 105 Stat. 1883, provided that:
 
-“(a)
+"(a)
 
 In General.—Not later than 1 year after the date on which imports are subject to assessments under this subtitle \[subtitle G of title XIX of Pub. L. 101–624, see Short Title of 1990 Amendment note above\]—
 
-&emsp;“(1) the Secretary of Agriculture shall prepare a report concerning the implementation and enforcement of the cotton research and promotion program, and any problems that may have arisen in the implementation and enforcement of such program; and
+&emsp;"(1) the Secretary of Agriculture shall prepare a report concerning the implementation and enforcement of the cotton research and promotion program, and any problems that may have arisen in the implementation and enforcement of such program; and
 
-&emsp;“(2) the Customs Service shall, if on such date it has any role in the implementation or enforcement of such assessments, prepare a report concerning such implementation and enforcement as it relates to imports.
+&emsp;"(2) the Customs Service shall, if on such date it has any role in the implementation or enforcement of such assessments, prepare a report concerning such implementation and enforcement as it relates to imports.
 
-“(b)
+"(b)
 
 Comptroller General Report.—Not prior to the date that occurs 3 years after the date on which imports are subject to assessments under this subtitle, the Comptroller General shall prepare a report concerning the administration of the cotton research and promotion program as it relates to such imports. Such report shall be submitted not later than 6 months after such date, and include an analysis of—
 
-&emsp;“(1) the growth in the United States market for cotton and cotton products, with particular attention provided to the period of time subsequent to the imposition of assessments on such imports;
+&emsp;"(1) the growth in the United States market for cotton and cotton products, with particular attention provided to the period of time subsequent to the imposition of assessments on such imports;
 
-&emsp;“(2) the extent to which import restrictions, such as quotas, on imports of cotton and cotton-containing products have permitted or prevented importers from benefiting from any such growth in the United States market; and
+&emsp;"(2) the extent to which import restrictions, such as quotas, on imports of cotton and cotton-containing products have permitted or prevented importers from benefiting from any such growth in the United States market; and
 
-&emsp;“(3) the relevant United States international obligations applicable under trade agreements that relate to the assessments on imports of cotton and cotton products under this subtitle.
+&emsp;"(3) the relevant United States international obligations applicable under trade agreements that relate to the assessments on imports of cotton and cotton products under this subtitle.
 
-“(c)
+"(c)
 
 Submission.—The reports required under subsections (a) and (b) shall be submitted to the Committee on Agriculture and the Committee on Ways and Means of the House of Representatives, and the Committee on Agriculture, Nutrition, and Forestry and the Committee on Finance of the Senate not later than the applicable dates referred to in such subsections.
 
-“(d)
+"(d)
 
-Authorization of Appropriations.—There are authorized to be appropriated such funds as may be necessary to carry out this section.”
+Authorization of Appropriations.—There are authorized to be appropriated such funds as may be necessary to carry out this section."
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 R.S. §1830.
 
-The word “ailanthus” is substituted for “ailantus” to correct an error in the source provision.
+The word "ailanthus" is substituted for "ailantus" to correct an error in the source provision.
 

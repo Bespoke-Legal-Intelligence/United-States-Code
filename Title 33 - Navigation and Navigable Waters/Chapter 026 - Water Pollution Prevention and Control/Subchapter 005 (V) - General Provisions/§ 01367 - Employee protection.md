@@ -10,7 +10,7 @@ Any employee or a representative of employees who believes that he has been fire
 
 #### (c) Costs and expenses
 
-Whenever an order is issued under this section to abate such violation, at the request of the applicant, a sum equal to the aggregate amount of all costs and expenses (including the attorney's fees), as determined by the Secretary of Labor, to have been reasonably incurred by the applicant for, or in connection with, the institution and prosecution of such proceedings, shall be assessed against the person committing such violation.
+Whenever an order is issued under this section to abate such violation, at the request of the applicant, a sum equal to the aggregate amount of all costs and expenses (including the attorney's fees), as determined by the Secretary of Labor, to have been reasonably incurred by the applicant for, or in connection with, the institutionand prosecution of such proceedings, shall be assessed against the person committing such violation.
 
 #### (d) Deliberate violations by employee acting without direction from his employer or his agent
 

@@ -36,11 +36,11 @@ Aug. 26, 1958, Pub. L. 85–761, §6, 72 Stat. 857.
 
 In this section, the text of 36:826(d) is omitted as obsolete.
 
-In subsection (a), the words “has received” are substituted for “who have received or who may hereafter receive”, and the words “as a member” are substituted for “are, have been, or may become members”, for clarity and to eliminate unnecessary words.
+In subsection (a), the words "has received" are substituted for "who have received or who may hereafter receive", and the words "as a member" are substituted for "are, have been, or may become members", for clarity and to eliminate unnecessary words.
 
-In subsection (b), the word “may” is substituted for “shall have the power, moreover, to” for consistency and to eliminate unnecessary words.
+In subsection (b), the word "may" is substituted for "shall have the power, moreover, to" for consistency and to eliminate unnecessary words.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–207 substituted “the parents, spouse, siblings, and lineal descendants” for “parents and lineal descendants”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–207 substituted "the parents, spouse, siblings, and lineal descendants" for "parents and lineal descendants".
 

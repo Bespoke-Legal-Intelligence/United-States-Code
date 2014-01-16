@@ -58,7 +58,7 @@ A national securities exchange shall, to the extent that the exchange also opera
 
 #### (3) Security-based swaps not readily susceptible to manipulation
 
-&emsp;The security-based swap execution facility shall permit trading only in security-based swaps that are not readily susceptible to manipulation.
+&emsp;The security-based swap execution facility shall permit trading only in security-basedswaps that are not readily susceptible to manipulation.
 
 #### (4) Monitoring of trading and trade processing
 
@@ -142,7 +142,7 @@ A national securities exchange shall, to the extent that the exchange also opera
 
 &emsp;&emsp;&emsp;(i) enables the organization to meet its financial obligations to its members and participants notwithstanding a default by the member or participant creating the largest financial exposure for that organization in extreme but plausible market conditions; and
 
-&emsp;&emsp;&emsp;(ii) exceeds the total amount that would enable the security-based swap execution facility to cover the operating costs of the security-based swap execution facility for a 1-year period, as calculated on a rolling basis.
+&emsp;&emsp;&emsp;(ii) exceeds the total amount that would enable the security-based swap executionfacility to cover the operating costs of the security-based swap execution facility for a 1-year period, as calculated on a rolling basis.
 
 #### (13) System safeguards
 
@@ -234,13 +234,13 @@ The Commission shall prescribe rules governing the regulation of security-based 
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(9)(A)(ii), (10), (14)(B)(v), (C)(i)(I), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsec. (d)(9)(A)(ii), (10), (14)(B)(v), (C)(i)(I), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 #### Effective Date
 
 Section effective on the later of 360 days after July 21, 2010, or, to the extent a provision of subtitle B (§§761–774) of title VII of Pub. L. 111–203 requires a rulemaking, not less than 60 days after publication of the final rule or regulation implementing such provision of subtitle B, see section 774 of Pub. L. 111–203, set out as an Effective Date of 2010 Amendment note under section 77b of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “take”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "take".</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
 

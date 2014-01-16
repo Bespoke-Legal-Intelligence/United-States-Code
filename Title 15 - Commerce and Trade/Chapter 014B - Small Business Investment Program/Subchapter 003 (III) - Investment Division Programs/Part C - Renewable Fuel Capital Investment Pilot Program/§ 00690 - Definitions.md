@@ -4,11 +4,11 @@ In this part:
 
 #### (1) Operational assistance
 
-&emsp;The term “operational assistance” means management, marketing, and other technicalassistance that assists a small business concern with business development.
+&emsp;The term "operational assistance" means management, marketing, and other technical assistance that assists a small business concern with business development.
 
 #### (2) Participation agreement
 
-&emsp;The term “participation agreement” means an agreement, between the Administrator and a company granted final approval under section 690c(e) of this title, that—
+&emsp;The term "participation agreement" means an agreement, between the Administrator and a company granted final approval under section 690c(e) of this title, that—
 
 &emsp;&emsp;(A) details the operating plan and investment criteria of the company; and
 
@@ -16,11 +16,11 @@ In this part:
 
 #### (3) Renewable energy
 
-&emsp;The term “renewable energy” means energy derived from resources that are regenerative or that cannot be depleted, including solar, wind, ethanol, and biodiesel fuels.
+&emsp;The term "renewable energy" means energy derived from resources that are regenerative or that cannot be depleted, including solar, wind, ethanol, and biodiesel fuels.
 
 #### (4) Renewable Fuel Capital Investment company
 
-&emsp;The term “Renewable Fuel Capital Investment company” means a company—
+&emsp;The term "Renewable Fuel Capital Investment company" means a company—
 
 &emsp;&emsp;(A) that—
 
@@ -32,11 +32,11 @@ In this part:
 
 #### (5) State
 
-&emsp;The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
+&emsp;The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
 
 #### (6) Venture capital
 
-&emsp;The term “venture capital” means capital in the form of equity capital investments, as that term is defined in section 683(g)(4) of this title.
+&emsp;The term "venture capital" means capital in the form of equity capital investments, as that term is defined in section 683(g)(4) of this title.
 
 (Pub. L. 85–699, title III, §381, as added Pub. L. 110–140, title XII, §1207, Dec. 19, 2007, 121 Stat. 1774.)
 

@@ -10,7 +10,7 @@
 
 capitol buildings”, under the general headings “JOINT ITEMS”, “ARCHITECT OF THE CAPITOL”, and “
 
-Capitol Buildings and Grounds” in title I of the Legislative BranchAppropriations Act, 1995 (108 Stat. 1434), including any unexpended balance from a prior fiscal year and any unexpended balance under such headings in this Act; and
+Capitol Buildings and Grounds” in title I of the Legislative Branch Appropriations Act, 1995 (108 Stat. 1434), including any unexpended balance from a prior fiscal year and any unexpended balance under such headings in this Act; and
 
 &emsp;(B) the unexpended balance of the appropriation for an improved security plan, as transferred to the Architect of the Capitol by section 102 of the Legislative Branch Appropriations Act, 1989 (102 Stat. 2165).
 

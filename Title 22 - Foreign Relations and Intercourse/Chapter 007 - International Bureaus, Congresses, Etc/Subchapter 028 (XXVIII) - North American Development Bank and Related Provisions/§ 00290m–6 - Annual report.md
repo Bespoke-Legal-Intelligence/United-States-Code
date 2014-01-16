@@ -8,7 +8,7 @@ The Secretary of the Treasury shall submit annually to the Committee on Financia
 
 &emsp;(3) The number and description of the projects which have been certified by the Border Environment Cooperation Commission, but yet not financed by the North American Development Bank, and the reasons that the projects have not yet been financed.
 
-&emsp;(4) The total of the paid-in capital, callable capital, and retained earnings of the NorthAmerican Development Bank, and the uses of such amounts.
+&emsp;(4) The total of the paid-in capital, callable capital, and retained earnings of the North American Development Bank, and the uses of such amounts.
 
 &emsp;(5) A description of any efforts and discussions between the United States and Mexican governments to expand the type of projects which the North American Development Bank finances beyond environmental projects.
 

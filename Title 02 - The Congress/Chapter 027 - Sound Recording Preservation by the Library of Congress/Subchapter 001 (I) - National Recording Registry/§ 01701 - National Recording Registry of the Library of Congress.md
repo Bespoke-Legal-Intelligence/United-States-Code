@@ -1,6 +1,6 @@
 ### §1701. National Recording Registry of the Library of Congress
 
-The Librarian of Congress shall establish the National Recording Registry for the purpose of maintaining and preserving sound recordings that are culturally, historically, or aesthetically significant.
+The Librarian of Congress shall establish the National Recording Registry for the purpose ofmaintaining and preserving sound recordings that are culturally, historically, or aesthetically significant.
 
 (Pub. L. 106–474, title I, §101, Nov. 9, 2000, 114 Stat. 2085.)
 

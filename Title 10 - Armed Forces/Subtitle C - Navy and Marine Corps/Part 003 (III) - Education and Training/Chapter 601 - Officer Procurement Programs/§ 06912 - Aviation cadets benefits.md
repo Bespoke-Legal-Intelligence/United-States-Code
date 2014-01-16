@@ -26,9 +26,9 @@ Aug. 4, 1942, ch. 547, §4, 56 Stat. 737; Oct. 12, 1949, ch. 681, §527, 63 Stat
 
 Aug. 4, 1942, ch. 547, §6, 56 Stat. 738.
 
-In subsection (b) the words “and at the same rates” are omitted as covered by the words “on the same basis”.
+In subsection (b) the words "and at the same rates" are omitted as covered by the words "on the same basis".
 
-In subsection (c) the words “enlisted members in pay grade E–4” are substituted for “enlisted men of the fourth pay grade” to conform to the terminology of the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.). The words “by law or regulation” are omitted as surplusage. The words “and the premiums on their life insurance” are omitted as impliedly repealed by §10 of the Insurance Act of 1951, 65 Stat. 37, which provided that such premium payments shall not be made by the Government.
+In subsection (c) the words "enlisted members in pay grade E–4" are substituted for "enlisted men of the fourth pay grade" to conform to the terminology of the Career Compensation Act of 1949 (37 U.S.C. 231 et seq.). The words "by law or regulation" are omitted as surplusage. The words "and the premiums on their life insurance" are omitted as impliedly repealed by §10 of the Insurance Act of 1951, 65 Stat. 37, which provided that such premium payments shall not be made by the Government.
 
 1958
 
@@ -50,9 +50,9 @@ Section 6912 is amended by eliminating subsections (a) (less clause (4)) and (b)
 
 #### Amendments
 
-<b>1962</b>—Pub. L. 87–649 substituted “section 402(a) and (b) of title 37” for “section 251(a) of title 37”.
+<b>1962</b>—Pub. L. 87–649 substituted "section 402(a) and (b) of title 37" for "section 251(a) of title 37".
 
-<b>1958</b>—Pub. L. 85–861 substituted “benefits” for “pay and allowances” in section catchline, and struck out provisions which prescribed the rate of pay of cadets, which authorized them to receive the same allowances for subsistence as prescribed for officers, which related to the furnishing of quarters, medical care and hospitalization, and which authorized transportation and expenses while traveling under orders.
+<b>1958</b>—Pub. L. 85–861 substituted "benefits" for "pay and allowances" in section catchline, and struck out provisions which prescribed the rate of pay of cadets, which authorized them to receive the same allowances for subsistence as prescribed for officers, which related to the furnishing of quarters, medical care and hospitalization, and which authorized transportation and expenses while traveling under orders.
 
 #### Effective Date of 1962 Amendment
 

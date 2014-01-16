@@ -8,15 +8,21 @@ Beginning with respect to fiscal year 2009, the Secretary shall assess and colle
 
 #### (A) In general
 
-&emsp;&emsp;Each person that submits, on or after July 1, 2008, an abbreviated application for a generic new animal drug shall be subject to a fee as established in subsection (b) for such an application.
+&emsp;&emsp;Each person that submits, on or after July 1, 2008, an abbreviated application for a generic new animal drug shall be subject to a fee as established in subsection (c) for such an application.
 
 #### (B) Payment
 
 &emsp;&emsp;The fee required by subparagraph (A) shall be due upon submission of the abbreviated application.
 
-#### (C) Exception for previously filed application
+#### (C) Exceptions
 
-&emsp;&emsp;If an abbreviated application was submitted by a person that paid the fee for such application, was accepted for filing, and was not approved or was withdrawn (without a waiver or refund), the submission of an abbreviated application for the same product by the same person (or the person's licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
+#### (i) Previously filed application
+
+&emsp;&emsp;&emsp;If an abbreviated application was submitted by a person that paid the fee for such application, was accepted for filing, and was not approved or was withdrawn\(without a waiver or refund), the submission of an abbreviated application for the same product by the same person (or the person's licensee, assignee, or successor) shall not be subject to a fee under subparagraph (A).
+
+#### (ii) Certain abbreviated applications involving combination animal drugs
+
+&emsp;&emsp;&emsp;An abbreviated application which is subject to the criteria in section 360b(d)(4) of this title and submitted on or after October 1, 2013 shall be subject to a fee equal to 50 percent of the amount of the abbreviated application fee established in subsection (c).
 
 #### (D) Refund of fee if application refused for filing
 
@@ -28,13 +34,27 @@ Beginning with respect to fiscal year 2009, the Secretary shall assess and colle
 
 #### (2) Generic new animal drug product fee
 
-&emsp;Each person—
+#### (A) In general
 
-&emsp;&emsp;(A) who is named as the applicant in an abbreviated application or supplemental abbreviated application for a generic new animal drug product which has been submitted for listing under section 360 of this title, and
+&emsp;&emsp;Each person—
 
-&emsp;&emsp;(B) who, after September 1, 2008, had pending before the Secretary an abbreviated application or supplemental abbreviated application,
+&emsp;&emsp;&emsp;(i) who is named as the applicant in an abbreviated application or supplemental abbreviated application for a generic new animal drug product which has been submitted for listing under section 360 of this title; and
 
-> &emsp;shall pay for each such generic new animal drug product the annual fee established in subsection (b). Such fee shall be payable for the fiscal year in which the generic new animal drug product is first submitted for listing under section 360 of this title, or is submitted for relisting under section 360 of this title if the generic new animal drug product has been withdrawn from listing and relisted. After such fee is paid for that fiscal year, such fee shall be payable on or before January 31 of each year. Such fee shall be paid only once for each generic new animal drug product for a fiscal year in which the fee is payable.
+&emsp;&emsp;&emsp;(ii) who, after September 1, 2008, had pending before the Secretary an abbreviated application or supplemental abbreviated application,
+
+> &emsp;&emsp;shall pay for each such generic new animal drug product the annual fee established in subsection (c).
+
+#### (B) Payment; fee due date
+
+&emsp;&emsp;Such fee shall be payable for the fiscal year in which the generic new animal drug product is first submitted for listing under section 360 of this title, or is submitted for relisting under section 360 of this title if the generic new animal drug product has been withdrawn from listing and relisted. After such fee is paid for that fiscal year, such fee shall be due each subsequent fiscal year that the product remains listed, upon the later of—
+
+&emsp;&emsp;&emsp;(i) the first business day after the date of enactment of an appropriations Act providing for the collection and obligation of fees for such fiscal year under this section; or
+
+&emsp;&emsp;&emsp;(ii) January 31 of each year.
+
+#### (C) Limitation
+
+&emsp;&emsp;Such fee shall be paid only once for each generic new animal drug product for a fiscal year in which the fee is payable.
 
 #### (3) Generic new animal drug sponsor fee
 
@@ -42,55 +62,63 @@ Beginning with respect to fiscal year 2009, the Secretary shall assess and colle
 
 &emsp;&emsp;Each person—
 
-&emsp;&emsp;&emsp;(i) who meets the definition of a generic new animal drug sponsor within a fiscal year, and
+&emsp;&emsp;&emsp;(i) who meets the definition of a generic new animal drug sponsor within a fiscal year; and
 
 &emsp;&emsp;&emsp;(ii) who, after September 1, 2008, had pending before the Secretary an abbreviated application, a supplemental abbreviated application, or an investigational submission,
 
-> &emsp;&emsp;shall be assessed an annual fee established under subsection (b). The fee shall be paid on or before January 31 of each year.
+> &emsp;&emsp;shall be assessed an annual generic new animal drug sponsor fee as established under subsection (c).
 
-#### (B) Amount of fee
+#### (B) Payment; fee due date
+
+&emsp;&emsp;Such fee shall be due each fiscal year upon the later of—
+
+&emsp;&emsp;&emsp;(i) the first business day after the date of enactment of an appropriations Act providing for the collection and obligation of fees for such fiscal year under this section; or
+
+&emsp;&emsp;&emsp;(ii) January 31 of each year.
+
+#### (C) Amount of fee
 
 &emsp;&emsp;Each generic new animal drug sponsor shall pay only 1 such fee each fiscal year, as follows:
 
-&emsp;&emsp;&emsp;(i) 100 percent of the amount of the generic new animal drug sponsor fee published for that fiscal year under subsection (c)(3) for an applicant with more than 6 approved abbreviated applications.
+&emsp;&emsp;&emsp;(i) 100 percent of the amount of the generic new animal drug sponsor fee published for that fiscal year under subsection (c) for an applicant with more than 6 approved abbreviated applications.
 
-&emsp;&emsp;&emsp;(ii) 75 percent of the amount of the generic new animal drug sponsor fee published for that fiscal year under subsection (c)(3) for an applicant with more than 1 and fewer than 7 approved abbreviated applications.
+&emsp;&emsp;&emsp;(ii) 75 percent of the amount of the generic new animal drug sponsor fee published for that fiscal year under subsection (c) for an applicant with more than 1 and fewer than 7 approved abbreviated applications.
 
-&emsp;&emsp;&emsp;(iii) 50 percent of the amount of the generic new animal drug sponsor fee published for that fiscal year under subsection (c)(3) for an applicant with 1 or fewer approved abbreviated applications.
+&emsp;&emsp;&emsp;(iii) 50 percent of the amount of the generic new animal drug sponsor fee published for that fiscal year under subsection (c) for an applicant with 1 or fewer approved abbreviated applications.
 
 #### (b) Fee amounts
 
-Except as provided in subsection (a)(1) and subsections (c), (d), (f), and (g), the fees required under subsection (a) shall be established to generate fee revenue amounts as follows:
+Subject to subsections (c), (d), (f), and (g), the fees required under subsection (a) shall be established to generate fee revenue amounts as follows:
 
 #### (1) Total fee revenues for application fees
 
-&emsp;The total fee revenues to be collected in abbreviated application fees under subsection (a)(1) shall be $1,449,000 for fiscal year 2009, $1,532,000 for fiscal year 2010, $1,619,000 for fiscal year 2011, $1,712,000 for fiscal year 2012, and $1,809,000 for fiscal year 2013.
+&emsp;The total fee revenues to be collected in abbreviated application fees under subsection (a)(1) shall be $1,832,000 for fiscal year 2014, $1,736,000 for fiscal year 2015, $1,857,000 for fiscal year 2016, $1,984,000 for fiscal year 2017, and $2,117,000 for fiscal year 2018.
 
 #### (2) Total fee revenues for product fees
 
-&emsp;The total fee revenues to be collected in generic new animal drug product fees under subsection (a)(2) shall be $1,691,000 for fiscal year 2009, $1,787,000 for fiscal year 2010, $1,889,000 for fiscal year 2011, $1,997,000 for fiscal year 2012, and $2,111,000 for fiscal year 2013.
+&emsp;The total fee revenues to be collected in generic new animal drug product fees under subsection (a)(2) shall be $2,748,000 for fiscal year 2014, $2,604,000 for fiscal year 2015, $2,786,000 for fiscal year 2016, $2,976,000 for fiscal year 2017, and $3,175,000 for fiscal year 2018.
 
 #### (3) Total fee revenues for sponsor fees
 
-&emsp;The total fee revenues to be collected in generic new animal drug sponsor fees under subsection (a)(3) shall be $1,691,000 for fiscal year 2009, $1,787,000 for fiscal year 2010, $1,889,000 for fiscal year 2011, $1,997,000 for fiscal year 2012, and $2,111,000 for fiscal year 2013.
+&emsp;The total fee revenues to be collected in generic new animal drug sponsor fees under subsection (a)(3) shall be $2,748,000 for fiscal year 2014, $2,604,000 for fiscal year 2015, $2,786,000 for fiscal year 2016, $2,976,000 for fiscal year 2017, and $3,175,000 for fiscal year 2018.
 
-#### (c) Adjustments
+#### (c) Annual fee setting; adjustments
 
-#### (1) Workload adjustment
+#### (1) Annual fee setting
 
-&emsp;The fee revenues shall be adjusted each fiscal year after fiscal year 2009 to reflect changes in review workload. With respect to such adjustment:
+&emsp;The Secretary shall establish, 60 days before the start of each fiscal year beginning after September 30, 2008, for that fiscal year, abbreviated application fees, generic new animal drug sponsor fees, and generic new animal drug product fees, based on the revenue amounts established under subsection (b) and the adjustments provided under this subsection.
+
+#### (2) Workload adjustment
+
+&emsp;The fee revenues shall be adjusted each fiscal year after fiscal year 2014 to reflect changes in review workload. With respect to such adjustment:
 
 &emsp;&emsp;(A) This adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of abbreviated applications for generic new animal drugs, manufacturing supplemental abbreviated applications for generic new animal drugs, investigational generic new animal drug study submissions, and investigational generic new animal drug protocol submissions submitted to the Secretary. The Secretary shall publish in the Federal Register the fees resulting from this adjustment and the supporting methodologies.
 
 &emsp;&emsp;(B) Under no circumstances shall this workload adjustment result in fee revenues for a fiscal year that are less than the fee revenues for that fiscal year established in subsection (b).
 
-#### (2) Final year adjustment
+#### (3) Final year adjustment
 
-&emsp;For fiscal year 2013, the Secretary may further increase the fees to provide for up to 3 months of operating reserves of carryover user fees for the process for the review of abbreviated applications for generic new animal drugs for the first 3 months of fiscal year 2014. If the Food and Drug Administration has carryover balances for the process for the review of abbreviated applications for generic new animal drugs in excess of 3 months of such operating reserves, then this adjustment shall not be made. If this adjustment is necessary, then the rationale for the amount of the increase shall be contained in the annual notice setting fees for fiscal year 2013.
-
-#### (3) Annual fee setting
-
-&emsp;The Secretary shall establish, 60 days before the start of each fiscal year beginning after September 30, 2008, for that fiscal year, abbreviated application fees, generic new animal drug sponsor fees, and generic new animal drug product fees based on the revenue amounts established under subsection (b) and the adjustments provided under this subsection.
+&emsp;For fiscal year 2018, the Secretary may, in addition to other adjustments under this subsection, further increase the fees under this section, if such an adjustment is necessary, to provide for up to 3 months of operating reserves of carryover user fees for the process for the review of abbreviated applications for generic new animal drugs for the first 3 months of fiscal year 2019. If the Food and Drug Administration has carryover balances for the process for the review of abbreviated applications for generic new animal drugs in excess of 3 months of such operating reserves, then this adjustment shall not be made. If this adjustment is necessary, then the rationale for the amount of the increase shall be contained in the annual notice setting fees for fiscal year 2018.
 
 #### (4) Limit
 
@@ -118,17 +146,17 @@ An abbreviated application for a generic new animal drug submitted by a person s
 
 #### (1) In general
 
-&emsp;Fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salary and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of abbreviated applications for generic new animal drugs.
+&emsp;Subject to paragraph (2)(C), fees authorized under subsection (a) shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to be appropriated to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to suchappropriation account for salary and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of abbreviated applications for generic new animal drugs.
 
-#### (2) Collections and appropriation acts
+#### (2) Collections and appropriation Acts
 
 #### (A) In general
 
 &emsp;&emsp;The fees authorized by this section—
 
-&emsp;&emsp;&emsp;(i) shall be retained in each fiscal year in an amount not to exceed the amount specified in appropriation Acts, or otherwise made available for obligation for such fiscal year; and
+&emsp;&emsp;&emsp;(i) subject to subparagraph (C), shall be collected and available in each fiscal year in an amount not to exceed the amount specified in appropriation Acts, or otherwise made available for obligation for such fiscal year; and
 
-&emsp;&emsp;&emsp;(ii) shall only be collected and available to defray increases in the costs of the resources allocated for the process for the review of abbreviated applications for generic new animal drugs (including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 2008 multiplied by the adjustment factor.
+&emsp;&emsp;&emsp;(ii) shall be available to defray increases in the costs of the resources allocated for the process for the review of abbreviated applications for generic new animal drugs (including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 2008 multiplied by the adjustment factor.
 
 #### (B) Compliance
 
@@ -140,25 +168,29 @@ An abbreviated application for a generic new animal drug submitted by a person s
 
 &emsp;&emsp;&emsp;(II) such costs are not more than 5 percent below the level specified in subparagraph (A)(ii).
 
+#### (C) Provision for early payments
+
+&emsp;&emsp;Payment of fees authorized under this section for a fiscal year, prior to the due date for such fees, may be accepted by the Secretary in accordance with authority provided in advance in a prior year appropriations Act.
+
 #### (3) Authorization of appropriations
 
 &emsp;There are authorized to be appropriated for fees under this section—
 
-&emsp;&emsp;(A) $4,831,000 for fiscal year 2009;
+&emsp;&emsp;(A) $7,328,000 for fiscal year 2014;
 
-&emsp;&emsp;(B) $5,106,000 for fiscal year 2010;
+&emsp;&emsp;(B) $6,944,000 for fiscal year 2015;
 
-&emsp;&emsp;(C) $5,397,000 for fiscal year 2011;
+&emsp;&emsp;(C) $7,429,000 for fiscal year 2016;
 
-&emsp;&emsp;(D) $5,706,000 for fiscal year 2012; and
+&emsp;&emsp;(D) $7,936,000 for fiscal year 2017; and
 
-&emsp;&emsp;(E) $6,031,000 for fiscal year 2013;
+&emsp;&emsp;(E) $8,467,000 for fiscal year 2018;
 
 > &emsp;as adjusted to reflect adjustments in the total fee revenues made under this section and changes in the total amounts collected by abbreviated application fees, generic new animal drug sponsor fees, and generic new animal drug product fees.
 
 #### (4) Offset
 
-&emsp;If the sum of the cumulative amount of fees collected under this section for the fiscal years 2009 through 2011 and the amount of fees estimated to be collected under this section for fiscal year 2012 exceeds the cumulative amount appropriated under paragraph (3) for the fiscal years 2009 through 2012, the excess amount shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2013.
+&emsp;If the sum of the cumulative amount of fees collected under this section for the fiscal years 2014 through 2016 and the amount of fees estimated to be collected under this section for fiscal year 2017 exceeds the cumulative amount appropriated under paragraph (3) for the fiscal years 2014 through 2017, the excess amount shall be credited to the appropriation account of the Food and Drug Administration as provided in paragraph (1), and shall be subtracted from the amount of fees that would otherwise be authorized to be collected under this section pursuant to appropriation Acts for fiscal year 2018.
 
 #### (h) Collection of unpaid fees
 
@@ -178,11 +210,11 @@ In this section and section 379j–22 of this title:
 
 #### (1) Abbreviated application for a generic new animal drug
 
-&emsp;The terms “abbreviated application for a generic new animal drug” and “abbreviated application” mean an abbreviated application for the approval of any generic new animal drug submitted under section 360b(b)(2) of this title. Such term does not include a supplemental abbreviated application for a generic new animal drug.
+&emsp;The terms "abbreviated application for a generic new animal drug" and "abbreviated application" mean an abbreviated application for the approval of any generic new animal drug submitted under section 360b(b)(2) of this title. Such term does not include a supplemental abbreviated application for a generic new animal drug.
 
 #### (2) Adjustment factor
 
-&emsp;The term “adjustment factor” applicable to a fiscal year is the Consumer Price Index for all urban consumers (all items; United States city average) for October of the preceding fiscal year divided by—
+&emsp;The term "adjustment factor" applicable to a fiscal year is the Consumer Price Index for all urban consumers (all items; United States city average) for October of the preceding fiscal year divided by—
 
 &emsp;&emsp;(A) for purposes of subsection (f)(1), such Index for October 2002; and
 
@@ -190,7 +222,7 @@ In this section and section 379j–22 of this title:
 
 #### (3) Costs of resources allocated for the process for the review of abbreviated applications for generic new animal drugs
 
-&emsp;The term “costs of resources allocated for the process for the review of abbreviated applications for generic new animal drugs” means the expenses incurred in connection with the process for the review of abbreviated applications for generic new animal drugs for—
+&emsp;The term "costs of resources allocated for the process for the review of abbreviated applications for generic new animal drugs" meansthe expenses in connection with the process for the review of abbreviated applications for generic new animal drugs for—
 
 &emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees consulted with respect to the review of specific abbreviated applications, supplemental abbreviated applications, or investigational submissions, and costs related to such officers, employees, committees, and contractors, including costs for travel, education, and recruitment and other personnel activities;
 
@@ -202,23 +234,23 @@ In this section and section 379j–22 of this title:
 
 #### (4) Final dosage form
 
-&emsp;The term “final dosage form” means, with respect to a generic new animal drug product, a finished dosage form which is approved for administration to an animal without substantial further manufacturing. Such term includes generic new animal drug products intended for mixing in animal feeds.
+&emsp;The term "final dosage form" means, with respect to a generic new animal drug product, a finished dosage form which is approved for administration to an animal without substantial further manufacturing. Such term includes generic new animal drug products intended for mixing in animal feeds.
 
 #### (5) Generic new animal drug
 
-&emsp;The term “generic new animal drug” means a new animal drug that is the subject of an abbreviated application.
+&emsp;The term "generic new animal drug" means a new animal drug that is the subject of an abbreviated application.
 
 #### (6) Generic new animal drug product
 
-&emsp;The term “generic new animal drug product” means each specific strength or potency of a particular active ingredient or ingredients in final dosage form marketed by a particular manufacturer or distributor, which is uniquely identified by the labeler code and product code portions of the national drug code, and for which an abbreviated application for a generic new animal drug or a supplemental abbreviated application has been approved.
+&emsp;The term "generic new animal drug product" means each specific strength or potency of a particular active ingredient or ingredients in final dosage form marketed by a particular manufacturer or distributor, which is uniquely identified by the labeler code and product code portions of the national drug code, and for which an abbreviated application for a generic new animal drug or a supplemental abbreviated application has been approved.
 
 #### (7) Generic new animal drug sponsor
 
-&emsp;The term “generic new animal drug sponsor” means either an applicant named in an abbreviated application for a generic new animal drug that has not been withdrawn by the applicant and for which approval has not been withdrawn by the Secretary, or a person who has submitted an investigational submission for a generic new animal drug that has not been terminated or otherwise rendered inactive by the Secretary.
+&emsp;The term "generic new animal drug sponsor" means either an applicant named in an abbreviated application for a generic new animal drug that has not been withdrawn by the applicant and for which approval has not been withdrawn by the Secretary, or a person who has submitted an investigational submission for a generic new animal drug that has not been terminated or otherwise rendered inactive by the Secretary.
 
 #### (8) Investigational submission for a generic new animal drug
 
-&emsp;The terms “investigational submission for a generic new animal drug” and “investigational submission” mean—
+&emsp;The terms "investigational submission for a generic new animal drug" and "investigational submission" mean—
 
 &emsp;&emsp;(A) the filing of a claim for an investigational exemption under section 360b(j) of this title for a generic new animal drug intended to be the subject of an abbreviated application or a supplemental abbreviated application; or
 
@@ -226,11 +258,11 @@ In this section and section 379j–22 of this title:
 
 #### (9) Person
 
-&emsp;The term “person” includes an affiliate thereof (as such term is defined in section 379g(11) of this title).
+&emsp;The term "person" includes an affiliate thereof (as such term is defined in section 379g(11) of this title).
 
 #### (10) Process for the review of abbreviated applications for generic new animal drugs
 
-&emsp;The term “process for the review of abbreviated applications for generic new animal drugs” means the following activities of the Secretary with respect to the review of abbreviated applications, supplemental abbreviated applications, and investigational submissions:
+&emsp;The term "process for the review of abbreviated applications for generic new animal drugs" means the following activities of the Secretary with respect to the review of abbreviated applications, supplemental abbreviated applications, and investigational submissions:
 
 &emsp;&emsp;(A) The activities necessary for the review of abbreviated applications, supplemental abbreviated applications, and investigational submissions.
 
@@ -250,29 +282,45 @@ In this section and section 379j–22 of this title:
 
 #### (11) Supplemental abbreviated application for generic new animal drug
 
-&emsp;The terms “supplemental abbreviated application for a generic new animal drug” and “supplemental abbreviated application” mean a request to the Secretary to approve a change in an approved abbreviated application.
+&emsp;The terms "supplemental abbreviated application for a generic new animal drug" and "supplemental abbreviated application" mean a request to the Secretary to approve a change in an approved abbreviated application.
 
-(June 25, 1938, ch. 675, §741, as added Pub. L. 110–316, title II, §202(b), Aug. 14, 2008, 122 Stat. 3515.)
+(June 25, 1938, ch. 675, §741, as added Pub. L. 110–316, title II, §202(b), Aug. 14, 2008, 122 Stat. 3515; amended Pub. L. 113–14, title II, §202, June 13, 2013, 127 Stat. 465.)
 
 #### Termination of Section
 
-<i>For termination of section by section 204(a) of Pub. L. 110–316, see Termination Date note below.</i>
+<i>For termination of section by section 206(a) of Pub. L. 113–14, see Termination Date note below.</i>
 
 #### Prior Provisions
 
 A prior section 741 of act June 25, 1938, was renumbered section 745 and is classified to section 379k of this title.
 
+#### Amendments
+
+<b>2013</b>—Pub. L. 113–14 amended section generally. Prior to amendment, section related to authority to assess and use generic new animal drug fees.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 113–14, title II, §205, June 13, 2013, 127 Stat. 474, provided that: "The amendments made by this title \[amending this section and section 379j–22 of this title and repealing provisions set out as notes under this section and section 379j–22 of this title\] shall take effect on October 1, 2013, or the date of enactment of this Act \[June 13, 2013\], whichever is later, except that fees under part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–21 et seq.\], as amended by this title, shall be assessed for all abbreviated applications for a generic new animal drug and supplemental abbreviated applications for a generic new animal drug received on or after October 1, 2013, regardless of the date of enactment of this Act."
+
 #### Termination Date
 
-Pub. L. 110–316, title II, §204(a), Aug. 14, 2008, 122 Stat. 3524, provided that: “The amendments made by section 202 \[enacting this section and amending sections 379k, 379l, and 379o of this title\] shall cease to be effective October 1, 2013.”
+Pub. L. 113–14, title II, §206(a), June 13, 2013, 127 Stat. 474, provided that: "Section 741 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–21) shall cease to be effective October 1, 2018."
+
+Pub. L. 110–316, title II, §204(a), Aug. 14, 2008, 122 Stat. 3524, which provided that the amendments made by section 202 of Pub. L. 110–316 (enacting this section and amending sections 379k, 379l, and 379o of this title) would cease to be effective Oct. 1, 2013, was repealed by Pub. L. 113–14, title II, §206(c)(1), June 13, 2013, 127 Stat. 474.
+
+#### Savings Provisions
+
+Pub. L. 113–14, title II, §204, June 13, 2013, 127 Stat. 474, provided that: "Notwithstanding the amendments made by this title \[amending this section and section 379j–22 of this title and repealing provisions set out as notes under this section and section 379j–22 of this title\], part 5 of subchapter C of chapter VII of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379j–21 et seq.\], as in effect on the day before the date of enactment of this title \[June 13, 2013\], shall continue to be in effect with respect to abbreviated applications for a generic new animal drug and supplemental abbreviated applications for a generic new animal drug (as defined in such part as of such day) that on or after October 1, 2008, but before October 1, 2013, were accepted by the Food and Drug Administration for filing with respect to assessing and collecting any fee required by such part for a fiscal year prior to fiscal year 2014."
 
 #### Findings
 
-Pub. L. 110–316, title II, §201(b), Aug. 14, 2008, 122 Stat. 3515, provided that: “Congress finds as follows:
+Pub. L. 113–14, title II, §201(b), June 13, 2013, 127 Stat. 464, provided that: "The fees authorized by this title \[see Short Title of 2013 Amendment note set out under section 301 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
 
-&emsp;“(1) Prompt approval of abbreviated applications for safe and effective generic new animal drugs will reduce animal healthcare costs and promote the well-being of animal health and the public health.
+Pub. L. 110–316, title II, §201(b), Aug. 14, 2008, 122 Stat. 3515, provided that: "Congress finds as follows:
 
-&emsp;“(2) Animal health and the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for the review of abbreviated applications for the approval of generic new animal drugs.
+&emsp;"(1) Prompt approval of abbreviated applications for safe and effective generic new animal drugs will reduce animal healthcare costs and promote the well-being of animal health and the public health.
 
-&emsp;“(3) The fees authorized by this title \[see Short Title of 2008 Amendment note set out under section 301 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor,and Pensions of the Senate as set forth in the Congressional Record.”
+&emsp;"(2) Animal health and the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for the review of abbreviated applications for the approval of generic new animal drugs.
+
+&emsp;"(3) The fees authorized by this title \[see Short Title of 2008 Amendment note set out under section 301 of this title\] will be dedicated toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs as set forth in the goals identified in the letters from the Secretary of Health and Human Services to the Chairman of the Committee on Energy and Commerce of the House of Representatives and the Chairman of the Committee on Health, Education, Labor, and Pensions of the Senate as set forth in the Congressional Record."
 

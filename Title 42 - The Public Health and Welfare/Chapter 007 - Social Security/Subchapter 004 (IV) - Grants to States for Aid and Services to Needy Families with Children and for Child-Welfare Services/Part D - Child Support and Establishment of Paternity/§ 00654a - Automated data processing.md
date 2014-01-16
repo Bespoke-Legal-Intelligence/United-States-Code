@@ -56,7 +56,7 @@ The State agency shall have in effect safeguards on the integrity, accuracy, and
 
 #### (1) Contents
 
-&emsp;The automated system required by this section shall include a registry (which shall be known as the “State case registry”) that contains records with respect to—
+&emsp;The automated system required by this section shall include a registry (which shall be known as the "State case registry") that contains records with respect to—
 
 &emsp;&emsp;(A) each case in which services are being provided by the State agency under the State plan approved under this part; and
 
@@ -136,9 +136,9 @@ The State shall use the automated system required by this section to extract inf
 
 &emsp;&emsp;(C) automatic use of enforcement procedures (including procedures authorized pursuant to section 666(c) of this title) if payments are not timely made.
 
-#### (2) “Business day” defined
+#### (2) "Business day" defined
 
-&emsp;As used in paragraph (1), the term “business day” means a day on which State offices are open for regular business.
+&emsp;As used in paragraph (1), the term "business day" means a day on which State offices are open for regular business.
 
 #### (h) Expedited administrative procedures
 
@@ -154,7 +154,7 @@ The Internal Revenue Code of 1986, referred to in subsecs. (d)(4) and (f), is cl
 
 <b>1999</b>—Subsec. (f)(5). Pub. L. 106–113 added par. (5).
 
-<b>1997</b>—Subsec. (e)(4)(D). Pub. L. 105–34 substituted “the birth date and, beginning not later than October 1, 1999, the social security number, of any child” for “the birth date of any child”.
+<b>1997</b>—Subsec. (e)(4)(D). Pub. L. 105–34 substituted "the birth date and, beginning not later than October 1, 1999, the social security number, of any child" for "the birth date of any child".
 
 <b>1996</b>—Subsecs. (e), (f). Pub. L. 104–193, §311, added subsecs. (e) and (f).
 
@@ -176,5 +176,5 @@ For provisions relating to effective date of title III of Pub. L. 104–193, see
 
 #### Regulations
 
-Pub. L. 104–193, title III, §344(a)(3), Aug. 22, 1996, 110 Stat. 2236, provided that: “The Secretary of Health and Human Services shall prescribe final regulations for implementation of section 454A of the Social Security Act \[this section\] not later than 2 years after the date of the enactment of this Act \[Aug. 22, 1996\].”
+Pub. L. 104–193, title III, §344(a)(3), Aug. 22, 1996, 110 Stat. 2236, provided that: "The Secretary of Health and Human Services shall prescribe final regulations for implementation of section 454A of the Social Security Act \[42 U.S.C. 654a\] not later than 2 years after the date of the enactment of this Act \[Aug. 22, 1996\]."
 

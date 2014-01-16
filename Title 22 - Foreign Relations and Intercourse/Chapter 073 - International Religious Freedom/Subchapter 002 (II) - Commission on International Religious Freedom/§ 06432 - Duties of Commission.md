@@ -28,5 +28,5 @@ The Commission shall, on an ongoing basis, monitor facts and circumstances of vi
 
 #### Amendments
 
-<b>1999</b>—Subsec. (f). Pub. L. 106–55 struck out heading and text of subsec. (f). Text read as follows: “The Commission may, for the purpose of carrying out its duties under this subchapter, hold hearings, sit and act at times and places in the United States, take testimony, and receive evidence as the Commission considers advisable to carry out the purposes of this chapter.”
+<b>1999</b>—Subsec. (f). Pub. L. 106–55 struck out heading and text of subsec. (f). Text read as follows: "The Commission may, for the purpose of carrying out its duties under this subchapter, hold hearings, sit and act at times and places in the United States, take testimony, and receive evidence as the Commission considers advisable to carry out the purposes of this chapter."
 

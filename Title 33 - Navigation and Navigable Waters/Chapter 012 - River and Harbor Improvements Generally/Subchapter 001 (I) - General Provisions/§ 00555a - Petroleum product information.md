@@ -30,9 +30,9 @@ The Secretary shall not disclose information to a State taxing agency of a State
 
 For purposes of this section, the term—
 
-&emsp;(1) “petroleum product information” means information relating to petroleum products transported by vessel which is received by the Secretary (A) under section 555 of this title, or (B) under any other legal authority; and
+&emsp;(1) "petroleum product information" means information relating to petroleum products transported by vessel which is received by the Secretary (A) under section 555 of this title, or (B) under any other legal authority; and
 
-&emsp;(2) “State taxing agency” means any State agency, body, or commission, or its legal representative, which is charged under the laws of such State with responsibility for the administration of State tax laws.
+&emsp;(2) "State taxing agency" means any State agency, body, or commission, or its legal representative, which is charged under the laws of such State with responsibility for the administration of State tax laws.
 
 #### (f) Omitted
 
@@ -42,7 +42,7 @@ For purposes of this section, the term—
 
 Subsec. (f) of this section amended section 555 of this title.
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2201 of this title.
 

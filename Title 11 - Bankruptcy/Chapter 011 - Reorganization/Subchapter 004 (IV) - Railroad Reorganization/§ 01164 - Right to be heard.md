@@ -18,7 +18,7 @@ Section 1164 of the House amendment is derived from section 1163 of the House bi
 
 #### Amendments
 
-<b>1995</b>—Pub. L. 104–88 substituted “Board” for “Commission”.
+<b>1995</b>—Pub. L. 104–88 substituted "Board" for "Commission".
 
 #### Effective Date of 1995 Amendment
 

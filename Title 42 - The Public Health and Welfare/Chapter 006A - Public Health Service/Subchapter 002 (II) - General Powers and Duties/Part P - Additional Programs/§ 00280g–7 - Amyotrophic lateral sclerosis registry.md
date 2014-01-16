@@ -6,7 +6,7 @@
 
 &emsp;Not later than 1 year after the receipt of the report described in subsection (b)(2)(A), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may, if scientifically advisable—
 
-&emsp;&emsp;(A) develop a system to collect data on amyotrophic lateral sclerosis (referred to in this section as “ALS”) and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in some cases progress to ALS, including information with respect to the incidence and prevalence of the disease in the United States; and
+&emsp;&emsp;(A) develop a system to collect data on amyotrophic lateral sclerosis (referred to inthis section as "ALS") and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in some cases progress to ALS, including information with respect to the incidence and prevalence of the disease in the United States; and
 
 &emsp;&emsp;(B) establish a national registry for the collection and storage of such data to develop a population-based registry of cases in the United States of ALS and other motor neuron disorders that can be confused with ALS, misdiagnosed as ALS, and in some cases progress to ALS.
 
@@ -28,7 +28,7 @@
 
 #### (1) Establishment
 
-&emsp;Not later than 180 days after October 8, 2008, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may establish a committee to be known as the Advisory Committee on the National ALS Registry (referred to in this section as the “Advisory Committee”). The Advisory Committee shall be composed of not more than 27 members to be appointed by the Secretary, acting through the Centers for Disease Control and Prevention, of which—
+&emsp;Not later than 180 days after October 8, 2008, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may establish a committee to be known as the Advisory Committee on the National ALS Registry (referred to in this section as the "Advisory Committee"). The Advisory Committee shall be composed of not more than 27 members to be appointed by the Secretary, acting through the Centers for Disease Control and Prevention, of which—
 
 &emsp;&emsp;(A) two-thirds of such members shall represent governmental agencies—
 
@@ -86,7 +86,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;In establishing the National ALS Registry under subsection (a), the Secretary, acting through the Director of the Centers for Disease Control and Prevention, may—
 
-&emsp;&emsp;(A) identify, build upon, expand, and coordinate among existing data and surveillance systems, surveys, registries, and other Federal public health and environmental infrastructure wherever possible, which may include—
+&emsp;&emsp;(A) identify, build upon, expand, and coordinate among existing data and surveillancesystems, surveys, registries, and other Federal public health and environmental infrastructure wherever possible, which may include—
 
 &emsp;&emsp;&emsp;(i) any registry pilot projects previously supported by the Centers for Disease Control and Prevention;
 
@@ -102,7 +102,7 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 &emsp;&emsp;&emsp;(vii) any other existing or relevant databases that collect or maintain information on those motor neuron diseases recommended by the Advisory Committee established in subsection (b); and
 
-&emsp;&emsp;(B) provide for research access to ALS data as recommended by the Advisory Committee established in subsection (b) to the extent permitted by applicable statutes and regulations and in a manner that protectspersonal privacy consistent with applicable privacy statutes and regulations.
+&emsp;&emsp;(B) provide for research access to ALS data as recommended by the Advisory Committee established in subsection (b) to the extent permitted by applicable statutes and regulations and in a manner that protects personal privacy consistent with applicable privacy statutes and regulations.
 
 &emsp;&emsp;(C)
 
@@ -110,7 +110,7 @@ Coordination with nih and department of veterans affairs.—Consistent with appl
 
 #### (e) Definition
 
-For the purposes of this section, the term “national voluntary health association” means a national non-profit organization with chapters or other affiliated organizations in States throughout the United States with experience serving the population of individuals with ALS and have demonstrated experience in ALS research, care, and patient services.
+For the purposes of this section, the term "national voluntary health association" means a national non-profit organization with chapters or other affiliated organizations in States throughout the United States with experience serving the population of individuals with ALS and have demonstrated experience in ALS research, care, and patient services.
 
 (July 1, 1944, ch. 373, title III, §399S, formerly §399R, as added Pub. L. 110–373, §2, Oct. 8, 2008, 122 Stat. 4047; renumbered §399S, Pub. L. 111–148, title IV, §4003(b)(2)(A), Mar. 23, 2010, 124 Stat. 544.)
 
@@ -118,7 +118,7 @@ For the purposes of this section, the term “national voluntary health associat
 
 The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (b)(1)(A)(ii), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “national voluntary health associations;”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "national voluntary health associations;".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

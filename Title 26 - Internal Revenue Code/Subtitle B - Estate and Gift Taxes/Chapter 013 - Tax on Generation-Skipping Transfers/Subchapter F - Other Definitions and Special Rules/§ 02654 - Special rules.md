@@ -38,13 +38,13 @@ A trustee shall not be personally liable for any increase in the tax imposed by 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–206 inserted at end “For purposes of this subsection, a trust shall be treated as part of an estate during any period that the trust is so treated under section 645.”
+<b>1998</b>—Subsec. (b). Pub. L. 105–206 inserted at end "For purposes of this subsection, a trust shall be treated as part of an estate during any period that the trust is so treated under section 645."
 
-<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239 inserted at end “The preceding shall be applied after any basis adjustment under section 1015 with respect to the transfer.”
+<b>1989</b>—Subsec. (a)(1). Pub. L. 101–239 inserted at end "The preceding shall be applied after any basis adjustment under section 1015 with respect to the transfer."
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–647, §1014(g)(12), inserted “or decrease” after “any increase” and “or decrease (as the case may be)” after “such increase”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–647, §1014(g)(12), inserted "or decrease" after "any increase" and "or decrease (as the case may be)" after "such increase".
 
-Subsec. (b). Pub. L. 100–647, §1014(g)(13), substituted “Certain trusts” for “Separate shares” in heading and amended text generally. Prior to amendment, text read as follows: “Substantially separate and independent shares of different beneficiaries in a trust shall be treated as separate trusts.”
+Subsec. (b). Pub. L. 100–647, §1014(g)(13), substituted "Certain trusts" for "Separate shares" in heading and amended text generally. Prior to amendment, text read as follows: "Substantially separate and independent shares of different beneficiaries in a trust shall be treated as separate trusts."
 
 #### Effective Date of 1998 Amendment
 

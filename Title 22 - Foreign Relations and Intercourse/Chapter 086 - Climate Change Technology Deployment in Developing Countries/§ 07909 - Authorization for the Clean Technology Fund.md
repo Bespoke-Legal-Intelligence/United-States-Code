@@ -12,7 +12,7 @@ The Secretary of the Treasury shall use the voice and vote of the United States 
 
 &emsp;(B) Prior to the obligation of funds, recipient countries submit to the governing body of the Fund, and the governing body of the Fund appropriately reviews and considers, an investment plan that will achieve significant net reductions in national-level greenhouse gas emissions;
 
-&emsp;(C) The investment plan for a recipient country, whose borrowing status is classified by the World Bank as “International Development Association (IDA) blend”, shall have at least 15 percent of its total cost for public sector activities contributed from the public funds of the recipient country, and any recipient country whose borrowing status is classified by the World Bank as “International Bank for Reconstruction and Development (IBRD) Only” status, shall have at least 25 percent of its total cost for public sector activities contributed from public funds of the recipient country; and
+&emsp;(C) The investment plan for a recipient country, whose borrowing status is classified by the World Bank as "International Development Association (IDA) blend", shall have at least 15 percent of its total cost for public sector activities contributed from the public funds of the recipient country, and any recipient country whose borrowing status is classified by the World Bank as "International Bank for Reconstruction and Development (IBRD) Only" status, shall have at least 25 percent of its total cost for public sector activities contributed from public funds of the recipient country; and
 
 &emsp;(D) Assistance made available by the Fund is used exclusively to support the deployment of clean energy technologies in developing countries (including, where appropriate, through the provision of technical support or support for policy or institutional reforms) in a manner that achieves substantial net reductions in greenhouse gas emissions.
 
@@ -30,15 +30,15 @@ For purposes of this section—
 
 #### (A) Net reductions
 
-&emsp;The term “net reductions” refers to the extent to which a project or program supported under this section results in lower greenhousegas emissions than would be emitted by the same entity or sector in the same country in the absence of the Fund's project, taking into account, unless impracticable, effects beyond the physical boundaries of the project or program that result from project or program activities.
+&emsp;The term "net reductions" refers to the extent to which a project or program supported under this section results in lower greenhouse gas emissions than would be emitted by the same entity or sector in the same country in the absence of the Fund's project, taking into account, unless impracticable, effects beyond the physical boundaries of the project or program that result from project or program activities.
 
 #### (B) Public sector activities
 
-&emsp;The term “public sector activities” may include sovereign loans assumed by the recipient country to contribute to the financing of the investment plan.
+&emsp;The term "public sector activities" may include sovereign loans assumed by the recipient country to contribute to the financing of the investment plan.
 
 #### (C) Clean energy technology
 
-&emsp;The term “clean energy technology” means a technology that, as compared with technologies being deployed at that time for widespread commercial use in the country involved—
+&emsp;The term "clean energy technology" means a technology that, as compared with technologies being deployed at that time for widespread commercial use in the country involved—
 
 &emsp;&emsp;(i) achieves substantial reductions in greenhouse gas emissions;
 
@@ -60,5 +60,5 @@ Section was enacted as part of the Department of State, Foreign Operations, and 
 
 #### Continuation of Prior Law
 
-Pub. L. 112–74, div. I, title VII, §7062(c)(8), Dec. 23, 2011, 125 Stat. 1250, provided that: “Section 7081(g)(2) and (4) of division F of Public Law 111–117 \[22 U.S.C. 7909(2), (4)\] shall continue in effect during fiscal year 2012 as if part of this Act \[div. I of Pub. L. 112–74, 125 Stat. 1164\].”
+Pub. L. 112–74, div. I, title VII, §7062(c)(8), Dec. 23, 2011, 125 Stat. 1250, provided that: "Section 7081(g)(2) and (4) of division F of Public Law 111–117 \[22 U.S.C. 7909(2), (4)\] shall continue in effect during fiscal year 2012 as if part of this Act \[div. I of Pub. L. 112–74, 125 Stat. 1164\]."
 

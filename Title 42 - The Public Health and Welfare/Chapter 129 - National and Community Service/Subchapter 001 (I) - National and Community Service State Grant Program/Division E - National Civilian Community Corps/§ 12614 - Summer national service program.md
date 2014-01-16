@@ -12,7 +12,7 @@ To the extent practicable, at least 50 percent of the participants in the summer
 
 The training and service of Corps members under the summer national service program in each year shall be conducted after April 30 and before October 1 of that year.
 
-(Pub. L. 101–610, title I, §154, formerly §195C, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2524; renumbered §154 and amended Pub. L. 103–82, title I, §104(b), (e)(2)(B), Sept. 21, 1993, 107 Stat. 840, 847; Pub. L. 111–13, title I, §1504, Apr. 21, 2009, 123 Stat. 1522.)
+(Pub. L. 101–610, title I, §154, formerly §195C, as added Pub. L. 102–484, div. A, title X, §1092(a)(1),Oct. 23, 1992, 106 Stat. 2524; renumbered §154 and amended Pub. L. 103–82, title I, §104(b), (e)(2)(B), Sept. 21, 1993, 107 Stat. 840, 847; Pub. L. 111–13, title I, §1504, Apr. 21, 2009, 123 Stat. 1522.)
 
 #### Codification
 
@@ -24,11 +24,11 @@ A prior section 12614, Pub. L. 101–610, title I, §163, Nov. 16, 1990, 104 Sta
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1504(1), substituted “National Civilian Community Corps Program” for “Civilian Community Corps Demonstration Program” and “on National Civilian Community Corps” for “on Civilian Community Corps”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–13, §1504(1), substituted "National Civilian Community Corps Program" for "Civilian Community Corps Demonstration Program" and "on National Civilian Community Corps" for "on Civilian Community Corps".
 
-Subsec. (b). Pub. L. 111–13, §1504(2), substituted “shall be from economically and ethnically diverse backgrounds, including youth who are in foster care.” for “shall be economically disadvantaged youths.”
+Subsec. (b). Pub. L. 111–13, §1504(2), substituted "shall be from economically and ethnically diverse backgrounds, including youth who are in foster care." for "shall be economically disadvantaged youths."
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–82, §104(e)(2)(B), substituted “section 12612(a)” for “section 12653a(a)”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–82, §104(e)(2)(B), substituted "section 12612(a)" for "section 12653a(a)".
 
 #### Effective Date of 2009 Amendment
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Nov. 6, 1986, Pub. L. 99–604, §2, 100 Stat. 3446.
 
-The words “each State” are substituted for “State or States” for consistency in the revised title. The words “and subject to the laws of such State or States” are omitted as unnecessary.
+The words "each State" are substituted for "State or States" for consistency in the revised title. The words "and subject to the laws of such State or States" are omitted as unnecessary.
 

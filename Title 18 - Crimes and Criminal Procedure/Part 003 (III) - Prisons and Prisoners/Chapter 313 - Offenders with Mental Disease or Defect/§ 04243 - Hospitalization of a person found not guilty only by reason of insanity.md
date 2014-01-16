@@ -42,7 +42,7 @@ Discharge.—When the director of the facility in which an acquitted person is h
 
 (g)
 
-Revocation of Conditional Discharge.—The director of a medical facility responsible foradministering a regimen imposed on an acquitted person conditionally discharged under subsection (f) shall notify the Attorney General and the court having jurisdiction over the person of any failure of the person to comply with the regimen. Upon such notice, or upon other probable cause to believe that the person has failed to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, the person may be arrested, and, upon arrest, shall be taken without unnecessary delay before the court having jurisdiction over him. The court shall, after a hearing, determine whether the person should be remanded to a suitable facility on the ground that, in light of his failure to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, his continued release would create a substantial risk of bodily injury to another person or serious damage to property of another.
+Revocation of Conditional Discharge.—The director of a medical facility responsible for administering a regimen imposed on an acquitted person conditionally discharged under subsection (f) shall notify the Attorney General and the court having jurisdiction over the person of any failure of the person to comply with the regimen. Upon such notice, or upon other probable cause to believe that the person has failed to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, the person may be arrested, and, upon arrest, shall be taken without unnecessary delay before the court having jurisdiction over him. The court shall, after a hearing, determine whether the person should be remanded to a suitable facility on the ground that, in light of his failure to comply with the prescribed regimen of medical, psychiatric, or psychological care or treatment, his continued release would create a substantial risk of bodily injury to another person or serious damage to property of another.
 
 (h)
 
@@ -106,25 +106,25 @@ Changes were made in translations and phraseology, and unnecessary words omitted
 
 <b>1988</b>—Subsec. (h). Pub. L. 100–690 added subsec. (h).
 
-<b>1984</b>—Pub. L. 98–473 amended section generally, substituting “Hospitalization of a person found not guilty only by reason of insanity” for “Delivery to state authorities on expiration of sentence” in section catchline, and substituting provisions relating to determination of present mental condition of acquitted person, examination and report, hearing, etc., for provisions relating to duties of the superintendent of the United States hospital for defective delinquents regarding delivery to state authorities on expiration of sentence of any insane person.
+<b>1984</b>—Pub. L. 98–473 amended section generally, substituting "Hospitalization of a person found not guilty only by reason of insanity" for "Delivery to state authorities on expiration of sentence" in section catchline, and substituting provisions relating to determination of present mental condition of acquitted person, examination and report, hearing, etc., for provisions relating to duties of the superintendent of the United States hospital for defective delinquents regarding delivery to state authorities on expiration of sentence of any insane person.
 
 #### Severability
 
-Pub. L. 104–294, title III, §301(d), Oct. 11, 1996, 110 Stat. 3495, provided that: “If any provision of this section \[amending this section and enacting provisions set out as notes below\], an amendment made by this section, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this section and the amendments made by this section shall not be affected thereby.”
+Pub. L. 104–294, title III, §301(d), Oct. 11, 1996, 110 Stat. 3495, provided that: "If any provision of this section \[amending this section and enacting provisions set out as notes below\], an amendment made by this section, or the application of such provision or amendment to any person or circumstance is held to be unconstitutional, the remainder of this section and the amendments made by this section shall not be affected thereby."
 
 #### Transfer of Records
 
-Pub. L. 104–294, title III, §301(b), Oct. 11, 1996, 110 Stat. 3495, provided that: “Notwithstanding any provision of the District of Columbia Code or any other provision of law, the District of Columbia and St. Elizabeth's Hospital—
+Pub. L. 104–294, title III, §301(b), Oct. 11, 1996, 110 Stat. 3495, provided that: "Notwithstanding any provision of the District of Columbia Code or any other provision of law, the District of Columbia and St. Elizabeth's Hospital—
 
-&emsp;“(1) not later than 30 days after the date of enactment of this Act \[Oct. 11, 1996\], shall provide to the Attorney General copies of all records in the custody or control of the District or the Hospital on such date of enactment pertaining to persons described in section 4243(i) of title 18, United States Code (as added by subsection (a));
+&emsp;"(1) not later than 30 days after the date of enactment of this Act \[Oct. 11, 1996\], shall provide to the Attorney General copies of all records in the custody or control of the District or the Hospital on such date of enactment pertaining to persons described in section 4243(i) of title 18, United States Code (as added by subsection (a));
 
-&emsp;“(2) not later than 30 days after the creation of any records by employees, agents, or contractors of the District of Columbia or of St. Elizabeth's Hospital pertaining to persons described in section 4243(i) of title 18, United States Code, provide to the Attorney General copies of all such records created after the date of enactment of this Act;
+&emsp;"(2) not later than 30 days after the creation of any records by employees, agents, or contractors of the District of Columbia or of St. Elizabeth's Hospital pertaining to persons described in section 4243(i) of title 18, United States Code, provide to the Attorney General copies of all such records created after the date of enactment of this Act;
 
-&emsp;“(3) shall not prevent or impede any employee, agent, or contractor of the District of Columbia or of St. Elizabeth's Hospital who has obtained knowledge of the persons described in section 4243(i) of title 18, United States Code, in the employee's professional capacity from providing that knowledge to the Attorney General, nor shall civil or criminal liability attach to such employees, agents, or contractors who provide such knowledge; and
+&emsp;"(3) shall not prevent or impede any employee, agent, or contractor of the District of Columbia or of St. Elizabeth's Hospital who has obtained knowledge of the persons described in section 4243(i) of title 18, United States Code, in the employee's professional capacity from providing that knowledge to the Attorney General, nor shall civil or criminal liability attach to such employees, agents, or contractors who provide such knowledge; and
 
-&emsp;“(4) shall not prevent or impede interviews of persons described in section 4243(i) of title 18, United States Code, by representatives of the Attorney General, if such persons voluntarily consent to such interviews.”
+&emsp;"(4) shall not prevent or impede interviews of persons described in section 4243(i) of title 18, United States Code, by representatives of the Attorney General, if such persons voluntarily consent to such interviews."
 
 #### Clarification of Effect on Certain Testimonial Privileges
 
-Pub. L. 104–294, title III, §301(c), Oct. 11, 1996, 110 Stat. 3495, provided that: “The amendments made by this section \[amending this section and enacting provisions set out as notes above\] shall not be construed to affect in any manner any doctor-patient or psychotherapist-patient testimonial privilege that may be otherwise applicable to persons found not guilty by reason of insanity and affected by this section.”
+Pub. L. 104–294, title III, §301(c), Oct. 11, 1996, 110 Stat. 3495, provided that: "The amendments made by this section \[amending this section and enacting provisions set out as notes above\] shall not be construed to affect in any manner any doctor-patient or psychotherapist-patient testimonial privilege that may be otherwise applicable to persons found not guilty by reason of insanity and affected by this section."
 

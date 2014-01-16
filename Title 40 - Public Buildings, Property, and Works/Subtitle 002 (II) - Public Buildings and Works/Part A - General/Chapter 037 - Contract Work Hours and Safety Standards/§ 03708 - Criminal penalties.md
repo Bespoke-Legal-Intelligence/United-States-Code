@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 87–581, title I, §106, Aug. 13, 1962, 76 Stat. 359.
 
-The words “shall be fined under title 18” are substituted for “shall be deemed guilty of a misdemeanor, and for each and every such offense shall, upon conviction, be punished by a fine of not to exceed $1,000” for consistency with chapter 227 of title 18. The words “in the discretion of the court having jurisdiction thereof” are omitted as unnecessary.
+The words "shall be fined under title 18" are substituted for "shall be deemed guilty of a misdemeanor, and for each and every such offense shall, upon conviction, be punished by a fine of not to exceed $1,000" for consistency with chapter 227 of title 18. The words "in the discretion of the court having jurisdiction thereof" are omitted as unnecessary.
 

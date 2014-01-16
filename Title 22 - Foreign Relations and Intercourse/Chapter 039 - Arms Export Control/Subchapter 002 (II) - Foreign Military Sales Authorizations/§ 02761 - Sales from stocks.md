@@ -52,9 +52,9 @@ If the President determines it to be in the national interest pursuant to subsec
 
 (C) The President may waive, for particular sales of major defense equipment, any increase in a charge or charges previously considered appropriate under paragraph (1)(B) if the increase results from a correction of an estimate (reasonable when made) of the production quantity base that was used for calculating the charge or charges for purposes of such paragraph.
 
-(3)(A) The President may waive the charges for administrative services that would otherwise be required by paragraph (1)(A) in connection with any sale to the Maintenance and SupplyAgency of the North Atlantic Treaty Organization in support of—
+(3)(A) The President may waive the charges for administrative services that would otherwise be required by paragraph (1)(A) in connection with any sale to the North Atlantic Treaty Organization (NATO) Support Organization and its executive agencies in support of—
 
-&emsp;(i) a weapon system partnership agreement; or
+&emsp;(i) a support partnership agreement; or
 
 &emsp;(ii) a NATO/SHAPE project.
 
@@ -62,17 +62,17 @@ If the President determines it to be in the national interest pursuant to subsec
 
 (C) As used in this paragraph—
 
-&emsp;(i) the term “weapon system partnership agreement” means an agreement between two or more member countries of the Maintenance and Supply Agency of the North Atlantic Treaty Organization that—
+&emsp;(i) the term "weapon system partnership agreement" means an agreement between two or more member countries of the North Atlantic Treaty Organization (NATO) Support Organization and its executive agencies that—
 
 &emsp;&emsp;(I) is entered into pursuant to the terms of the charter of that organization; and
 
-&emsp;&emsp;(II) is for the common logistic support of a specific weapon system common to the participating countries; and
+&emsp;&emsp;(II) is for the common logistic support of activities common to the participating countries; and
 
-&emsp;(ii) the term “NATO/SHAPE project” means a common-funded project supported by allocated credits from North Atlantic Treaty Organization bodies or by host nations with NATO Infrastructure funds.
+&emsp;(ii) the term "NATO/SHAPE project" means a common-funded project supported by allocated credits from North Atlantic Treaty Organization bodies or by host nations with NATO Infrastructure funds.
 
 #### (f) Public inspection of contracts
 
-Any contracts entered into between the United States and a foreign country under the authority of this section or section 2762 of this title shall be prepared in a manner which will permit them to be made available for public inspection to the fullest extent possible consistent with the national security of the United States.
+Any contracts entered into between the United States and a foreign country under theauthority of this section or section 2762 of this title shall be prepared in a manner which will permit them to be made available for public inspection to the fullest extent possible consistent with the national security of the United States.
 
 #### (g) North Atlantic Treaty Organization standardization agreements, similar agreements; reimbursement for costs; transmittal to Congress
 
@@ -178,11 +178,11 @@ Before entering into the sale under this chapter of defense articles that are ex
 
 &emsp;The authority of the President to accept the return of a defense article as provided in paragraph (1) shall not be subject to chapter 137 of title 10 or any other provision of law relating to the conclusion of contracts.
 
-(Pub. L. 90–629, ch. 2, §21, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 94–329, title II, §§205, 206, June 30, 1976, 90 Stat. 736, 738; Pub. L. 95–384, §16, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §12, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §§102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, 94 Stat. 3132, 3134, 3140; Pub. L. 97–113, title I, §§103, 104, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 97–392, §3, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 98–473, title I,§101(1) \[title III, §301\], Oct. 12, 1984, 98 Stat. 1884, 1895; Pub. L. 99–83, title I, §§107(a), 108–111, Aug. 8, 1985, 99 Stat. 196, 197; Pub. L. 100–202, §101(e) \[title V, §580\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 100–456, div. A, title X, §1002, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–165, title IX, §9104(c), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 102–25, title VII, §705(d)(1), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–484, div. A, title I, §114, Oct. 23, 1992, 106 Stat. 2333; Pub. L. 103–236, title VII, §731(d), Apr. 30, 1994, 108 Stat. 503; Pub. L. 104–106, div. A, title I, §112, div. D, title XLIII, §4303(a), Feb. 10, 1996, 110 Stat. 206, 658; Pub. L. 104–164, title I, §§104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, 110 Stat. 1426, 1428, 1435, 1438, 1439; Pub. L. 104–201, div. B, title XXVIII, §2802(d)(2), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1222\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498; Pub. L. 109–102, title V, §534(l)(1), (2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 110–429, title II, §203(b)(1), (3), (4), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, §301(1), Oct. 8, 2010, 124 Stat. 2804.)
+(Pub. L. 90–629, ch. 2, §21, Oct. 22, 1968, 82 Stat. 1323; Pub. L. 94–329, title II, §§205, 206, June 30, 1976, 90 Stat. 736, 738; Pub. L. 95–384, §16, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §12, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §§102, 103, 105(b)(1), 115(b)(2), Dec. 16, 1980, 94 Stat. 3132, 3134, 3140; Pub. L. 97–113, title I, §§103, 104, Dec. 29, 1981, 95 Stat. 1521; Pub. L. 97–392, §3, Dec. 29, 1982, 96 Stat. 1963; Pub. L. 98–473, title I, §101(1) \[title III, §301\], Oct. 12, 1984, 98 Stat. 1884, 1895; Pub. L. 99–83, title I, §§107(a), 108–111, Aug. 8, 1985, 99 Stat. 196, 197; Pub. L. 100–202, §101(e) \[title V, §580\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–181; Pub. L. 100–456, div. A, title X, §1002, Sept. 29, 1988, 102 Stat. 2037; Pub. L. 101–165, title IX, §9104(c), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 102–25, title VII, §705(d)(1), Apr. 6, 1991, 105 Stat. 120; Pub. L. 102–484, div. A, title I, §114, Oct. 23, 1992, 106 Stat. 2333; Pub. L. 103–236, title VII, §731(d), Apr. 30, 1994, 108 Stat. 503; Pub. L. 104–106, div. A, title I, §112, div. D, title XLIII, §4303(a), Feb. 10, 1996, 110 Stat. 206, 658; Pub. L. 104–164, title I, §§104(b)(1), 112(c)(2), 147(a)(3)(A), (b), 152(a), (b), July 21, 1996, 110 Stat. 1426, 1428, 1435, 1438, 1439; Pub. L. 104–201, div. B, title XXVIII, §2802(d)(2), Sept. 23, 1996, 110 Stat. 2787; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1222\], Nov. 29, 1999, 113 Stat. 1536, 1501A–498; Pub. L. 109–102, title V, §534(l)(1), (2), Nov. 14, 2005, 119 Stat. 2211; Pub. L. 110–429, title II, §203(b)(1), (3), (4), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title III, §301(1), Oct. 8, 2010, 124 Stat. 2804; Pub. L. 113–66, div. A, title XII, §1250(b), Dec. 26, 2013, 127 Stat. 926.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1)(C) and (c)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. Chapter 5 of part II of such Act is classified generally to part V of subchapter II (§2347 et seq.) of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -194,39 +194,47 @@ Amendment by Pub. L. 98–473 is based on section 102 of S. 2346, Ninety-eighth 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e)(2)(A). Pub. L. 111–266 inserted “Israel,” before “or New Zealand”.
+<b>2013</b>—Subsec. (e)(3)(A). Pub. L. 113–66, §1250(b)(1), substituted "North Atlantic Treaty Organization (NATO) Support Organization and its executive agencies" for "Maintenance and Supply Agency of the North Atlantic Treaty Organization" in introductory provisions.
 
-<b>2008</b>—Subsec. (e)(2)(A). Pub. L. 110–429, §203(b)(1), inserted “the Republic of Korea,” before “or New Zealand”.
+Subsec. (e)(3)(A)(i). Pub. L. 113–66, §1250(b)(2), substituted "support partnership agreement" for "weapon system partnership agreement".
 
-Subsec. (h)(1)(A). Pub. L. 110–429, §203(b)(3), inserted “the Republic of Korea,” before “or Israel”.
+Subsec. (e)(3)(C)(i). Pub. L. 113–66, §1250(b)(1), substituted "North Atlantic Treaty Organization (NATO) Support Organization and its executive agencies" for "Maintenance and Supply Agency of the North Atlantic Treaty Organization" in introductory provisions.
 
-Subsec. (h)(2). Pub. L. 110–429, §203(b)(4), substituted “, to any member government of that Organization, or to the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel” for “or to any member government of that Organization if that Organization or member government”.
+Subsec. (e)(3)(C)(i)(II). Pub. L. 113–66, §1250(b)(3), substituted "activities" for "a specific weapon system".
 
-<b>2005</b>—Subsec. (h)(1)(A). Pub. L. 109–102, §534(l)(1), inserted “or the Governments of Australia, New Zealand, Japan, or Israel” after “North Atlantic Treaty Organization”.
+<b>2010</b>—Subsec. (e)(2)(A). Pub. L. 111–266 inserted "Israel," before "or New Zealand".
 
-Subsec. (h)(2). Pub. L. 109–102, §534(l)(2), which directed the substitution of “, to any member of that Organization, or to the Governments of Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of Australia, New Zealand, Japan, or Israel” for “or to any member government that Organization if that Organization or member government”, could not be executed because the phrase “or to any member government that Organization if that Organization or member government” does not appear in text.
+<b>2008</b>—Subsec. (e)(2)(A). Pub. L. 110–429, §203(b)(1), inserted "the Republic of Korea," before "or New Zealand".
 
-<b>1999</b>—Subsec. (a)(1). Pub. L. 106–113 inserted “and the Coast Guard” after “Department of Defense” in introductory provisions.
+Subsec. (h)(1)(A). Pub. L. 110–429, §203(b)(3), inserted "the Republic of Korea," before "or Israel".
 
-<b>1996</b>—Subsec. (a)(1)(C). Pub. L. 104–164, §112(c)(2), inserted “or to any high-income foreign country (as described in that chapter)”.
+Subsec. (h)(2). Pub. L. 110–429, §203(b)(4), substituted ", to any member government of that Organization, or to the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of the Republic of Korea, Australia, New Zealand, Japan, or Israel" for "or to any member government of that Organization if that Organization or member government".
+
+<b>2005</b>—Subsec. (h)(1)(A). Pub. L. 109–102, §534(l)(1), inserted "or the Governments of Australia, New Zealand, Japan, or Israel" after "North Atlantic Treaty Organization".
+
+Subsec. (h)(2). Pub. L. 109–102, §534(l)(2), which directed the substitution of ", to any member of that Organization, or to the Governments of Australia, New Zealand, Japan, or Israel if that Organization, member government, or the Governments of Australia, New Zealand, Japan, or Israel" for "or to any member government that Organization if that Organization or member government", could not be executed because the phrase "or to any member government that Organization if that Organization or member government" does not appear in text.
+
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–113 inserted "and the Coast Guard" after "Department of Defense" in introductory provisions.
+
+<b>1996</b>—Subsec. (a)(1)(C). Pub. L. 104–164, §112(c)(2), inserted "or to any high-income foreign country (as described in that chapter)".
 
 Subsec. (e)(2). Pub. L. 104–106, §4303(a), designated existing provisions as subpar. (A) and added subpars. (B) and (C).
 
-Subsec. (g). Pub. L. 104–164, §147(a)(3)(A), (b), substituted “similar agreements with countries” for “similar agreements with Japan, Australia, and New Zealand, and with other countries” in first sentence and struck out at end “As used in this subsection, the term ‘major non-NATO allies’ means those countries designated as major non-NATO allies for purposes of section 2350a(i)(3) of title 10.”
+Subsec. (g). Pub. L. 104–164, §147(a)(3)(A), (b), substituted "similar agreements with countries" for "similar agreements with Japan, Australia, and New Zealand, and with other countries" in first sentence and struck out at end "As used in this subsection, the term 'major non-NATO allies' means those countries designated as major non-NATO allies for purposes of section 2350a(i)(3) of title 10."
 
-Subsec. (h)(1)(B). Pub. L. 104–201 substituted “Security Investment program” for “Infrastructure Program”.
+Subsec. (h)(1)(B). Pub. L. 104–201 substituted "Security Investment program" for "Infrastructure Program".
 
 Subsec. (j). Pub. L. 104–106, §112, struck out heading and text of subsec. (j). Text read as follows:
 
-“(1) Funds received from the sale of tanks under this section shall be available for the upgrading of tanks for fielding to the Army.
+"(1) Funds received from the sale of tanks under this section shall be available for the upgrading of tanks for fielding to the Army.
 
-“(2) Funds received from the sale of infantry fighting vehicles or armored personnel carriers under this section shall be available for the upgrading of infantry fighting vehicles or armored personnel carriers for fielding to the Army.
+"(2) Funds received from the sale of infantry fighting vehicles or armored personnel carriers under this section shall be available for the upgrading of infantry fighting vehicles or armored personnel carriers for fielding to the Army.
 
-“(3) Paragraphs (1) and (2) apply only to the extent provided in advance in appropriations Acts.
+"(3) Paragraphs (1) and (2) apply only to the extent provided in advance in appropriations Acts.
 
-“(4) This subsection applies with respect to funds received from sales occurring after September 30, 1989.”
+"(4) This subsection applies with respect to funds received from sales occurring after September 30, 1989."
 
-Subsec. (k). Pub. L. 104–164, §104(b)(1), substituted “the President shall determine that the sale of such articles will not have an adverse impact on the national technology and industrial base and, particularly, will not reduce the opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are transferred.” for “the President shall first consider the effects of the sale of the articles on the national technology and industrial base, particularly the extent, if any, to which the sale reduces the opportunities of entities in the national technology and industrial base to sell new equipment to the country or countries to which the excess defense articles are sold.”
+Subsec. (k). Pub. L. 104–164, §104(b)(1), substituted "the President shall determine that the sale of such articles will not have an adverse impact on the national technology and industrial base and, particularly, will not reduce the opportunities of entities in the national technology and industrial base to sell new or used equipment to the countries to which such articles are transferred." for "the President shall first consider the effects of the sale of the articles on the national technology and industrial base, particularly the extent, if any, to which the sale reduces the opportunities of entities in the national technology and industrial base to sell new equipment to the country or countries to which the excess defense articles are sold."
 
 Subsec. (l). Pub. L. 104–164, §152(a), added subsec. (l).
 
@@ -236,7 +244,7 @@ Subsec. (m). Pub. L. 104–164, §152(b), added subsec. (m).
 
 <b>1992</b>—Subsec. (j). Pub. L. 102–484 added subsec. (j).
 
-<b>1991</b>—Subsec. (g). Pub. L. 102–25 substituted “section 2350a(i)(3) of title 10” for “section 2767a of this title”.
+<b>1991</b>—Subsec. (g). Pub. L. 102–25 substituted "section 2350a(i)(3) of title 10" for "section 2767a of this title".
 
 <b>1989</b>—Subsec. (e)(1)(A). Pub. L. 101–165, §9104(c)(1), inserted reference to section 2792(b) and (c) of this title.
 
@@ -248,9 +256,9 @@ Subsec. (e)(2). Pub. L. 101–165, §9104(c)(4), substituted reference to par. (
 
 <b>1988</b>—Subsec. (e)(3). Pub. L. 100–456 added par. (3).
 
-<b>1987</b>—Subsec. (g). Pub. L. 100–202 inserted “and with other countries which are major non-NATO allies,”after “New Zealand,” and inserted last sentence defining “major non-NATO allies”.
+<b>1987</b>—Subsec. (g). Pub. L. 100–202 inserted "and with other countries which are major non-NATO allies," after "New Zealand," and inserted last sentence defining "major non-NATO allies".
 
-<b>1985</b>—Subsec. (a)(1). Pub. L. 99–83, §107(a)(1), (2), designated existing provisions as par. (1), and substituted “(A)”, “(B)”, and “(C)” for “(1)”, “(2)”, and “(3)”, respectively.
+<b>1985</b>—Subsec. (a)(1). Pub. L. 99–83, §107(a)(1), (2), designated existing provisions as par. (1), and substituted "(A)", "(B)", and "(C)" for "(1)", "(2)", and "(3)", respectively.
 
 Subsec. (a)(1)(C). Pub. L. 99–83, §108(a), inserted provisions relating to training sold to a purchaser receiving assistance under chapter 5 of part II of the Foreign Assistance Act of 1961.
 
@@ -260,11 +268,11 @@ Subsec. (e)(1)(A). Pub. L. 99–83, §109, inserted provisions excluding pro rat
 
 Subsec. (g). Pub. L. 99–83, §108(b), added subsec. (g).
 
-Subsec. (h)(1). Pub. L. 99–83, §§110, 111(1), (2), designated existing provisions as par. (1), inserted applicability to contract administrative services, and substituted “(A)” and “(B)” for “(1)” and “(2)”, respectively.
+Subsec. (h)(1). Pub. L. 99–83, §§110, 111(1), (2), designated existing provisions as par. (1), inserted applicability to contract administrative services, and substituted "(A)" and "(B)" for "(1)" and "(2)", respectively.
 
 Subsec. (h)(2). Pub. L. 99–83, §111(3), added par. (2).
 
-<b>1984</b>—Subsec. (a)(3). Pub. L. 98–473 struck out “sold to a purchaser who is concurrently receiving assistance under chapter 5 of part II of the Foreign Assistance Act of 1961” after “in the case of training”.
+<b>1984</b>—Subsec. (a)(3). Pub. L. 98–473 struck out "sold to a purchaser who is concurrently receiving assistance under chapter 5 of part II of the Foreign Assistance Act of 1961" after "in the case of training".
 
 Subsec. (g). Pub. L. 98–473 struck out subsec. (g) which related to NATO standardization agreements and similar agreements with Japan, Australia, and New Zealand.
 
@@ -276,11 +284,11 @@ Subsec. (e)(2). Pub. L. 97–113, §104, authorized reduction or waiver of charg
 
 <b>1980</b>—Subsec. (a)(3). Pub. L. 96–533, §115(b)(2), included payment, in case of training sold to a purchaser currently receiving international military education and training assistance, of additional costs incurred by the United States Government in furnishing the training.
 
-Subsec. (c). Pub. L. 96–533, §102, designated existing provision as par. (1), substituted “training and advising that may engage United States personnel in combat activities” for “training, advising, or otherwise providing assistance regarding combat activities”, and added par. (2).
+Subsec. (c). Pub. L. 96–533, §102, designated existing provision as par. (1), substituted "training and advising that may engage United States personnel in combat activities" for "training, advising, or otherwise providing assistance regarding combat activities", and added par. (2).
 
 Subsec. (g). Pub. L. 96–533, §103, authorized the President to enter into standardization agreements with Japan, Australia, and New Zealand.
 
-Subsec. (h). Pub. L. 96–533, §105(b)(1), substituted “defense articles, defense services, or design and construction services” for “defense articles or defense services” in two places.
+Subsec. (h). Pub. L. 96–533, §105(b)(1), substituted "defense articles, defense services, or design and construction services" for "defense articles or defense services" in two places.
 
 <b>1979</b>—Subsecs. (h), (i). Pub. L. 96–92 added subsec. (h) and redesignated former subsec. (h) as (i).
 
@@ -294,31 +302,31 @@ Subsecs. (b) to (h). Pub. L. 94–329, §§205, 206, added subsecs. (b) to (h).
 
 Pub. L. 104–106, div. D, title XLIII, §4303(b)–(d), Feb. 10, 1996, 110 Stat. 659, provided that:
 
-“(b)
+"(b)
 
 Conditions.—Subsection (a) \[amending this section\] shall be effective only if—
 
-&emsp;“(1) the President, in the budget of the President for fiscal year 1997, proposes legislation that if enacted would be qualifying offsetting legislation; and
+&emsp;"(1) the President, in the budget of the President for fiscal year 1997, proposes legislation that if enacted would be qualifying offsetting legislation; and
 
-&emsp;“(2) there is enacted qualifying offsetting legislation.
+&emsp;"(2) there is enacted qualifying offsetting legislation.
 
-“(c)
+"(c)
 
 Effective Date.—If the conditions in subsection (b) are met, then the amendments made by subsection (a) shall take effect on the date of the enactment of qualifying offsetting legislation \[Sept. 23, 1996\].
 
-“(d)
+"(d)
 
 Definitions.—For purposes of this section:
 
-&emsp;“(1) The term ‘qualifying offsetting legislation’ means legislation that includes provisions that—
+&emsp;"(1) The term 'qualifying offsetting legislation' means legislation that includes provisions that—
 
-&emsp;&emsp;“(A) offset fully the estimated revenues lost as a result of the amendments made by subsection (a) for each of the fiscal years 1997 through 2005;
+&emsp;&emsp;"(A) offset fully the estimated revenues lost as a result of the amendments made by subsection (a) for each of the fiscal years 1997 through 2005;
 
-&emsp;&emsp;“(B) expressly state that they are enacted for the purpose of the offset described in subparagraph (A); and
+&emsp;&emsp;"(B) expressly state that they are enacted for the purpose of the offset described in subparagraph (A); and
 
-&emsp;&emsp;“(C) are included in full on the PayGo scorecard.
+&emsp;&emsp;"(C) are included in full on the PayGo scorecard.
 
-&emsp;“(2) The term ‘PayGo scorecard’ means the estimates that are made by the Director of the Congressional Budget Office and the Director of the Office of Management and Budget under section 252(d) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(d)\].”
+&emsp;"(2) The term 'PayGo scorecard' means the estimates that are made by the Director of the Congressional Budget Office and the Director of the Office of Management and Budget under section 252(d) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902(d)\]."
 
 \[Qualifying offsetting legislation was enacted by Pub. L. 104–201, §3303, listed in a Materials in the National Defense Stockpile table under section 98d of Title 50, War and National Defense.\]
 
@@ -328,7 +336,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Regulations
 
-Pub. L. 104–164, title I, §152(c), July 21, 1996, 110 Stat. 1439, provided that: “Under the direction of the President, the Secretary of Defense shall promulgate regulations to implement subsections (l) and (m) of section 21 of the Arms Export Control Act \[22 U.S.C. 2761(l), (m)\], as added by this section.”
+Pub. L. 104–164, title I, §152(c), July 21, 1996, 110 Stat. 1439, provided that: "Under the direction of the President, the Secretary of Defense shall promulgate regulations to implement subsections (l) and (m) of section 21 of the Arms Export Control Act \[22 U.S.C. 2761(l), (m)\], as added by this section."
 
 #### Transfer of Functions
 
@@ -336,7 +344,7 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Delegation of Functions
 
-Functions of President under this section, except the last sentence of subsec. (d) and subsec. (i), delegated to Secretary of Defense by section 1(c) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+For delegation of certain functions of the President under this section, see section 1(c) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

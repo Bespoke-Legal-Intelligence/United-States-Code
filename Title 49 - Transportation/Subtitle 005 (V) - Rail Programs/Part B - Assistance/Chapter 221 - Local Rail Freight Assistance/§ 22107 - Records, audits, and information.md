@@ -54,19 +54,19 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §5(k)–(m); added Feb. 5, 1976,
 
 49 App.:1654(m).
 
-In subsection (a), before clause (1), the words “an arrangement” are substituted for “whether in the form of grants, subgrants, contracts, subcontracts, or other arrangements”, and the word “project” is substituted for “project or undertaking”, to eliminate unnecessary words and for consistency in this chapter.
+In subsection (a), before clause (1), the words "an arrangement" are substituted for "whether in the form of grants, subgrants, contracts, subcontracts, or other arrangements", and the word "project" is substituted for "project or undertaking", to eliminate unnecessary words and for consistency in this chapter.
 
 Subsection (b) is substituted for 49 App.:1654(k)(2) and (3) because of 31:ch. 75.
 
-In subsection (d), the words “Not later than” are substituted for “On or before” for clarity. The word “submit” is substituted for “prepare, update, and submit” to eliminate unnecessary words. The words “based on level of usage” are omitted as surplus.
+In subsection (d), the words "Not later than" are substituted for "On or before" for clarity. The word "submit" is substituted for "prepare, update, and submit" to eliminate unnecessary words. The words "based on level of usage" are omitted as surplus.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–316 struck out “and the Comptroller General” after “Secretary”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–316 struck out "and the Comptroller General" after "Secretary".
 
-<b>1995</b>—Subsec. (c). Pub. L. 104–88, §308(f)(4), substituted “Surface Transportation Board” for “Interstate Commerce Commission” and “The Board” for “The Commission”.
+<b>1995</b>—Subsec. (c). Pub. L. 104–88, §308(f)(4), substituted "Surface Transportation Board" for "Interstate Commerce Commission" and "The Board" for "The Commission".
 
-Subsec. (d). Pub. L. 104–88, §308(f)(5), substituted “part A of subtitle IV” for “subchapter I of chapter 105”.
+Subsec. (d). Pub. L. 104–88, §308(f)(5), substituted "part A of subtitle IV" for "subchapter I of chapter 105".
 
 #### Effective Date of 1995 Amendment
 

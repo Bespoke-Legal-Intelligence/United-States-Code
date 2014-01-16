@@ -16,11 +16,11 @@ A prior section 603 of Pub. L. 95–501 enacted provisions set out as a note und
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954".
 
-<b>1996</b>—Pub. L. 104–127, §251, in first sentence, substituted “Subject to section 6917 of this title, the” for “The”.
+<b>1996</b>—Pub. L. 104–127, §251, in first sentence, substituted "Subject to section 6917 of this title, the" for "The".
 
-Pub. L. 104–127, §241(c)(2), in last sentence, substituted “or in a consolidated report” for “, in a consolidated report, or in the Long-Term Agricultural Trade Strategy Report (and annual updates to such report) prepared under section 5711 of this title”.
+Pub. L. 104–127, §241(c)(2), in last sentence, substituted "or in a consolidated report" for ", in a consolidated report, or in the Long-Term Agricultural Trade Strategy Report (and annual updates to such report) prepared under section 5711 of this title".
 
 #### Effective Date of 2008 Amendment
 

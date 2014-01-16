@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Program
 
-&emsp;The term “Program” means the Technology Infrastructure Program established under subsection (b).
+&emsp;The term "Program" means the Technology Infrastructure Program established under subsection (b).
 
 #### (2) Technology cluster
 
-&emsp;The term “technology cluster” means a concentration of technology-related business concerns, institutions of higher education, or nonprofit institutions, that reinforce each other's performance in the areas of technology development through formal or informal relationships.
+&emsp;The term "technology cluster" means a concentration of technology-related business concerns, institutions of higher education, or nonprofit institutions, that reinforce each other's performance in the areas of technology development through formal or informal relationships.
 
 #### (3) Technology-related business concern
 
-&emsp;The term “technology-related business concern” means a for-profit corporation, company, association, firm, partnership, or small business concern that—
+&emsp;The term "technology-related business concern" means a for-profit corporation, company, association, firm, partnership, or small business concern that—
 
 &emsp;&emsp;(A) conducts scientific or engineering research;
 
@@ -30,7 +30,7 @@ The Secretary shall establish a Technology Infrastructure Program in accordance 
 
 #### (c) Purpose
 
-The purpose of the Program shall be to improve the ability of National Laboratories andsingle-purpose research facilities to support departmental missions by—
+The purpose of the Program shall be to improve the ability of National Laboratories and single-purpose research facilities to support departmental missions by—
 
 &emsp;(1) stimulating the development of technology clusters that can support departmental missions at the National Laboratories or single-purpose research facilities;
 
@@ -138,5 +138,5 @@ There are authorized to be appropriated to the Secretary for activities under th
 
 #### Codification
 
-In subsec. (e)(3)(C), “section 1303(a)(1) of title 41” substituted for “section 25(c)(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c)(1))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (e)(3)(C), "section 1303(a)(1) of title 41" substituted for "section 25(c)(1) of the Office of Federal Procurement Policy Act (41 U.S.C. 421(c)(1))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

@@ -10,7 +10,7 @@ Section was enacted as part of section 3 of act June 29, 1888. Said section 3 of
 
 #### Amendments
 
-<b>1958</b>—Pub. L. 85–802 substituted “any supervisor of a harbor” for “the supervisor of the harbor”.
+<b>1958</b>—Pub. L. 85–802 substituted "any supervisor of a harbor" for "the supervisor of the harbor".
 
 #### Effective Date of 1958 Amendment
 

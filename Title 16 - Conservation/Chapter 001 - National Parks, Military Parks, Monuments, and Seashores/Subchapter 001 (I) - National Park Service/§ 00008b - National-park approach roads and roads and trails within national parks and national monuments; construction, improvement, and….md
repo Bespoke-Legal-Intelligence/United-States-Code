@@ -14,7 +14,7 @@ Functions of Administrator of General Services with respect to Bureau of Public 
 
 Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator transferred to Administrator of General Services by section 103(a) of act June 30, 1949. Both Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of that act. See Historical and Revision Notes under section 303(b) of Title 40, Public Buildings, Property, and Works. Section 303(b) of Title 40 was amended generally by Pub. L. 109–313, §2(a)(1), Oct. 6, 2006, 120 Stat. 1734, and, as so amended, no longer relates to the Federal Works Agency and Commissioner of Public Buildings. See 2006 Amendment note under section 303 of Title 40.
 
-Functions of Secretary of Agriculture with respect to Public Roads Administration transferred to FederalWorks Administrator by Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
+Functions of Secretary of Agriculture with respect to Public Roads Administration transferred to Federal Works Administrator by Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Effective Date of Transfer of Functions
 

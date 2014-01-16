@@ -78,7 +78,7 @@ The categories of institutions described in subsection (a) shall be the followin
 
 #### (d) Definitions
 
-In this section, the terms “tuition and fees” and “net price” have the meaning given to such terms in section 1015a of this title.
+In this section, the terms "tuition and fees" and "net price" have the meaning given to such terms in section 1015a of this title.
 
 #### (e) Authorization
 
@@ -88,7 +88,7 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(1)(B). Pub. L. 111–39 substituted “of institutions” for “of for institutions”.
+<b>2009</b>—Subsec. (a)(1)(B). Pub. L. 111–39 substituted "of institutions" for "of for institutions".
 
 #### Effective Date of 2009 Amendment
 

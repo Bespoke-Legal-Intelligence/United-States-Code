@@ -30,7 +30,7 @@
 
 #### (2) Stock issued as consideration for contribution
 
-&emsp;The Corporation, from time to time, shall issue to each originator or certified facility voting common stock evidencing any capital contributions made pursuant to this subsection.
+&emsp;The Corporation, from time to time, shall issue to each originator or certified facilityvoting common stock evidencing any capital contributions made pursuant to this subsection.
 
 #### (c) Dividends
 
@@ -68,9 +68,9 @@ The Corporation is authorized to issue nonvoting common stock having such par va
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–399, §601(d), in penultimate sentence, inserted “and” after “institutions” and inserted “, including national banking associations (which shall be allowed to purchase and hold such stock)” before period at end.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–399, §601(d), in penultimate sentence, inserted "and" after "institutions" and inserted ", including national banking associations (which shall be allowed to purchase and hold such stock)" before period at end.
 
-Subsec. (e)(1). Pub. L. 100–399, §601(e), substituted “books of the Corporation” for “books of the Association”.
+Subsec. (e)(1). Pub. L. 100–399, §601(e), substituted "books of the Corporation" for "books of the Association".
 
 #### Effective Date of 1988 Amendment
 

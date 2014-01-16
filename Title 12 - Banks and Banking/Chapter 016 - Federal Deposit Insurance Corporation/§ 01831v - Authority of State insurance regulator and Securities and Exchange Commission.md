@@ -22,11 +22,11 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Functionally regulated subsidiary
 
-&emsp;The term “functionally regulated subsidiary” has the meaning given the term in section 1844(c)(5) of this title.
+&emsp;The term "functionally regulated subsidiary" has the meaning given the term in section 1844(c)(5) of this title.
 
 #### (2) Functionally regulated affiliate
 
-&emsp;The term “functionally regulated affiliate” means, with respect to any depository institution, any affiliate of such depository institution that is—
+&emsp;The term "functionally regulated affiliate" means, with respect to any depository institution, any affiliate of such depository institution that is—
 
 &emsp;&emsp;(A) not a depository institution holding company; and
 

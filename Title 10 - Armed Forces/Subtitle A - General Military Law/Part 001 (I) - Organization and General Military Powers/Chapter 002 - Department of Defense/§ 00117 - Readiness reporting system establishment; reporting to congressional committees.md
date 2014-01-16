@@ -4,7 +4,7 @@
 
 Required Readiness Reporting System.—The Secretary of Defense shall establish a comprehensive readiness reporting system for the Department of Defense. The readiness reporting system shall measure in an objective, accurate, and timely manner the capability of the armed forces to carry out—
 
-&emsp;(1) the National Security Strategy prescribed by the President in the most recent annual national security strategy report under section 108 of the National Security Act of 1947 (50 U.S.C. 404a);
+&emsp;(1) the National Security Strategy prescribed by the President in the most recent annual national security strategy report under section 108 of the National Security Act of 1947 (50 U.S.C. 404a); <sup>1</sup>
 
 &emsp;(2) the defense planning guidance provided by the Secretary of Defense pursuant to section 113(g) of this title; and
 
@@ -60,6 +60,10 @@ Regulations.—The Secretary shall prescribe regulations to carry out this secti
 
 (Added Pub. L. 105–261, div. A, title III, §373(a)(1), Oct. 17, 1998, 112 Stat. 1990; amended Pub. L. 106–65, div. A, title III, §361(d)(1), title X, §1067(1), Oct. 5, 1999, 113 Stat. 575, 774; Pub. L. 106–398, §1 \[\[div. A\], title III, §371\], Oct. 30, 2000, 114 Stat. 1654, 1654A–80; Pub. L. 108–136, div. A, title X, §1031(a)(1), Nov. 24, 2003, 117 Stat. 1595; Pub. L. 112–239, div. A, title VIII, §845(a), Jan. 2, 2013, 126 Stat. 1848.)
 
+#### References in Text
+
+The National Security Act of 1947, referred to in subsec. (a)(1), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 108 of the Act is now classified to section 3043 of Title 50. For complete classification of this Act to the Code, see Tables.
+
 #### Prior Provisions
 
 A prior section 117, added Pub. L. 97–295, §1(2)(A), Oct. 12, 1982, 96 Stat. 1287, §133a; renumbered §117 and amended Pub. L. 99–433, title I, §§101(a)(2), 110(d)(3), Oct. 1, 1986, 100 Stat. 994, 1002, required annual report on North Atlantic Treaty Organization readiness, prior to repeal by Pub. L. 101–510, div. A, title XIII, §1301(1), Nov. 5, 1990, 104 Stat. 1668.
@@ -68,25 +72,27 @@ A prior section 117, added Pub. L. 97–295, §1(2)(A), Oct. 12, 1982, 96 Stat. 
 
 <b>2013</b>—Subsec. (c)(8). Pub. L. 112–239 added par. (8).
 
-<b>2003</b>—Subsec. (e). Pub. L. 108–136 substituted “each quarter submit to the congressional defense committees a report in writing containing the results of the most recent joint readiness review under subsection (d)(1)(A)” for “each month submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report in writing containing the results of the most recent joint readiness review or monthly review conducted under subsection (d)”.
+<b>2003</b>—Subsec. (e). Pub. L. 108–136 substituted "each quarter submit to the congressional defense committees a report in writing containing the results of the most recent joint readiness review under subsection (d)(1)(A)" for "each month submit to the Committee on Armed Services and the Committee on Appropriations of the Senate and the Committee on Armed Services and the Committee on Appropriations of the House of Representatives a report in writing containing the results of the most recent joint readiness review or monthly review conducted under subsection (d)".
 
 <b>2000</b>—Subsec. (c)(7). Pub. L. 106–398 added par. (7).
 
-<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65, §361(d)(1)(A), substituted “with (A) any change in the overall readiness status of a unit that is required to be reported as part of the readiness reporting system being reported within 24 hours of the event necessitating the change in readiness status, and (B) any change in the overall readiness status of an element of the training establishment or an element of defense infrastructure that is required to be reported as part of the readiness reporting system being reported within 72 hours” for “with any change in the overall readiness status of a unit, an element of the training establishment, or an element of defense infrastructure, that is required to be reported as part of the readiness reporting system, being reported within 24 hours”.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65, §361(d)(1)(A), substituted "with (A) any change in the overall readiness status of a unit that is required to be reported as part of the readiness reporting system being reported within 24 hours of the event necessitating the change in readiness status, and (B) any change in the overall readiness status of an element of the training establishment or an element of defense infrastructure that is required to be reported as part of the readiness reporting system being reported within 72 hours" for "with any change in the overall readiness status of a unit, an element of the training establishment, or an element of defense infrastructure, that is required to be reported as part of the readiness reporting system, being reported within 24 hours".
 
-Subsec. (c)(2), (3), (5). Pub. L. 106–65, §361(d)(1)(B), substituted “an annual” for “a quarterly”.
+Subsec. (c)(2), (3), (5). Pub. L. 106–65, §361(d)(1)(B), substituted "an annual" for "a quarterly".
 
-Subsec. (e). Pub. L. 106–65, §1067(1), substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+Subsec. (e). Pub. L. 106–65, §1067(1), substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 
 #### Defense Materiel Readiness Board
 
-Pub. L. 112–239, div. A, title XVI, §1601(a), Jan. 2, 2013, 126 Stat. 2062, provided that: “The Defense Materiel Readiness Board established pursuant to section 871 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 117 note) \[formerly set out below\] is hereby disestablished.”
+Pub. L. 112–239, div. A, title XVI, §1601(a), Jan. 2, 2013, 126 Stat. 2062, provided that: "The Defense Materiel Readiness Board established pursuant to section 871 of the National Defense Authorization Act for Fiscal Year2008 (Public Law 110–181; 10 U.S.C. 117 note) \[formerly set out below\] is hereby disestablished."
 
-Pub. L. 112–239, div. A, title XVI, §1601(b), Jan. 2, 2013, 126 Stat. 2062, provided that: “The Department of Defense Strategic Readiness Fund established by section 872(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 117 note) \[formerly set out below\] is hereby closed.”
+Pub. L. 112–239, div. A, title XVI, §1601(b), Jan. 2, 2013, 126 Stat. 2062, provided that: "The Department of Defense Strategic Readiness Fund established by section 872(d) of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 10 U.S.C. 117 note) \[formerly set out below\] is hereby closed."
 
 Pub. L. 110–181, div. A, title VIII, subtitle G, Jan. 28, 2008, 122 Stat. 260, which required Secretary of Defense to establish Defense Materiel Readiness Board to provide independent assessments of materiel readiness, materiel readiness shortfalls, and materiel readiness plans to Secretary of Defense and Congress; provided for designation of critical materiel readiness shortfalls; established Department of Defense Strategic Readiness Fund; and required Secretary of military department to notify Congress with respect to determination that use of a multiyear procurement contract would address a critical material readiness shortfall, was repealed by Pub. L. 112–239, div. A, title XVI, §1601(c), Jan. 2, 2013, 126 Stat. 2062.
 
 #### Implementation
 
 Pub. L. 105–261, div. A, title III, §373(b), (c), Oct. 17, 1998, 112 Stat. 1992, as amended by Pub. L. 106–65, div. A, title III, §361(d)(2), Oct. 5, 1999, 113 Stat. 575, directed the Secretary of Defense to submit to Congress a report, not later than Mar. 1, 1999, setting forth a plan for implementation of this section, and required the Secretary to establish and implement the readiness reporting system required by this section so as to ensure that required capabilities would be attained not later than Apr. 1, 2000.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

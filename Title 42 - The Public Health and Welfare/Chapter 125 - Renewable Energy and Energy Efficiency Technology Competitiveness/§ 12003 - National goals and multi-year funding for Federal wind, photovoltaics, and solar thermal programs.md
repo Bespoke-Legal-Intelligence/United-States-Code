@@ -52,7 +52,7 @@ The following are declared to be the national goals for the wind, photovoltaics,
 
 #### (4) Alcohol from biomass
 
-&emsp;(A) In general, the goal of the Alcohol From Biomass Program shall be to advance research and development to a point where alcohol from biomass technology is cost-competitive with conventional hydrocarbon transportation fuels, and to promote the integration of thistechnology into the transportation fuel sector of the economy.
+&emsp;(A) In general, the goal of the Alcohol From Biomass Program shall be to advance research and development to a point where alcohol from biomass technology is cost-competitive with conventional hydrocarbon transportation fuels, and to promote the integration of this technology into the transportation fuel sector of the economy.
 
 &emsp;(B)(i) Specific goals for producing ethanol from biomass shall be to—
 
@@ -104,13 +104,13 @@ There are authorized to be appropriated to the Secretary for the following renew
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a)(4), (5). Pub. L. 102–486, §1202(b)(1), added par. (4), redesignated former par. (4) as (5), and inserted “Biodiesel Energy Systems,” after “Biofuels Energy Systems,”.
+<b>1992</b>—Subsec. (a)(4), (5). Pub. L. 102–486, §1202(b)(1), added par. (4), redesignated former par. (4) as (5), and inserted "Biodiesel Energy Systems," after "Biofuels Energy Systems,".
 
-Subsec. (c)(3). Pub. L. 102–486, §2125(1)–(3), struck out par. (3) which read as follows: “not to exceed $124,000,000 for fiscal year 1993, of which—
+Subsec. (c)(3). Pub. L. 102–486, §2125(1)–(3), struck out par. (3) which read as follows: "not to exceed $124,000,000 for fiscal year 1993, of which—
 
-&emsp;“(A) not to exceed $40,000,000 shall be available for the Photovoltaic Energy Systems Program;
+&emsp;"(A) not to exceed $40,000,000 shall be available for the Photovoltaic Energy Systems Program;
 
-&emsp;“(B) not to exceed $23,000,000 shall be available for the Geothermal Energy Systems Program; and
+&emsp;"(B) not to exceed $23,000,000 shall be available for the Geothermal Energy Systems Program; and
 
-&emsp;“(C) not to exceed $6,000,000 shall be available for the Hydrogen Energy Systems Program.”
+&emsp;"(C) not to exceed $6,000,000 shall be available for the Hydrogen Energy Systems Program."
 

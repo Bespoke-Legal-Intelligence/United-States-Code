@@ -7,7 +7,7 @@
 
 - [&sect; 02911 - Native American programs](%C2%A7%2002911%20-%20Native%20American%20programs.md)
 - [&sect; 02912 - Migrant and seasonal farmworker programs](%C2%A7%2002912%20-%20Migrant%20and%20seasonal%20farmworker%20programs.md)
-- [&sect; 02913 - Veterans&#8217; workforce investment programs](%C2%A7%2002913%20-%20Veterans%E2%80%99%20workforce%20investment%20programs.md)
+- [&sect; 02913 - Veterans' workforce investment programs](%C2%A7%2002913%20-%20Veterans%27%20workforce%20investment%20programs.md)
 - [&sect; 02914 - Youth opportunity grants](%C2%A7%2002914%20-%20Youth%20opportunity%20grants.md)
 - [&sect; 02915 - Technical assistance](%C2%A7%2002915%20-%20Technical%20assistance.md)
 - [&sect; 02916 - Demonstration, pilot, multiservice, research, and multistate projects](%C2%A7%2002916%20-%20Demonstration%2C%20pilot%2C%20multiservice%2C%20research%2C%20and%20multistate%20projects.md)

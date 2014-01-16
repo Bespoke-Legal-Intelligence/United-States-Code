@@ -22,7 +22,7 @@ Treatment of Certain Financial Incentives.—Financial incentives received from 
 
 (c)
 
-Energy Savings Financial Incentives Fund.—There is established in the Treasury a fund to be known as the “Energy Savings Financial Incentives Fund”. The Fund shall consist of any amount deposited in the Fund pursuant to subsection (b)(2) and amounts appropriated or otherwise made available to the Fund by law.
+Energy Savings Financial Incentives Fund.—There is established in the Treasury a fund to be known as the "Energy Savings Financial Incentives Fund". The Fund shall consist of any amount deposited in the Fund pursuant to subsection (b)(2) and amounts appropriated or otherwise made available to the Fund by law.
 
 (Added Pub. L. 111–84, div. B, title XXVIII, §2843(a), Oct. 28, 2009, 123 Stat. 2681.)
 

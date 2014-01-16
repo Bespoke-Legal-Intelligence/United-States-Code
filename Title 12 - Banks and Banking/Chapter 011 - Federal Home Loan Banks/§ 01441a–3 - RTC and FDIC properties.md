@@ -34,7 +34,7 @@ For purposes of this section:
 
 #### (1) Corporation concerned
 
-&emsp;The term “corporation concerned” means—
+&emsp;The term "corporation concerned" means—
 
 &emsp;&emsp;(A) the Federal Deposit Insurance Corporation, with respect to matters relating to the Federal Deposit Insurance Corporation; and
 
@@ -42,7 +42,7 @@ For purposes of this section:
 
 #### (2) Covered property
 
-&emsp;The term “covered property” means any property—
+&emsp;The term "covered property" means any property—
 
 &emsp;&emsp;(A) to which—
 
@@ -58,11 +58,11 @@ For purposes of this section:
 
 #### (3) Governmental agency
 
-&emsp;The term “governmental agency” means any agency or entity of the Federal Government or a State or local government.
+&emsp;The term "governmental agency" means any agency or entity of the Federal Government or a State or local government.
 
 #### (4) Undeveloped
 
-&emsp;The term “undeveloped” means—
+&emsp;The term "undeveloped" means—
 
 &emsp;&emsp;(A) containing few manmade structures and having geomorphic and ecological processes that are not significantly impeded by any such structures or human activity; and
 
@@ -76,7 +76,7 @@ Section was enacted as part of the Coastal Barrier Improvement Act of 1990, and 
 
 #### Amendments
 
-<b>1999</b>—Subsec. (c)(2)(B)(i). Pub. L. 106–167 substituted “John H. Chafee Coastal Barrier Resources System” for “Coastal Barrier Resources System”.
+<b>1999</b>—Subsec. (c)(2)(B)(i). Pub. L. 106–167 substituted "John H. Chafee Coastal Barrier Resources System" for "Coastal Barrier Resources System".
 
 #### Termination of Reporting Requirements
 

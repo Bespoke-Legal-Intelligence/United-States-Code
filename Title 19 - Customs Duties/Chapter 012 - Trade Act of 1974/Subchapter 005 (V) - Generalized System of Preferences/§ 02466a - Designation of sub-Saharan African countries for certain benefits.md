@@ -36,9 +36,9 @@
 
 For purposes of this subchapter—
 
-&emsp;(1) the terms “beneficiary sub-Saharan African country” and “beneficiary sub-Saharan African countries” mean a country or countries listed in section 107 of the African Growth and Opportunity Act \[19 U.S.C. 3706\] that the President has determined is eligible under subsection (a) of this section.
+&emsp;(1) the terms "beneficiary sub-Saharan African country" and "beneficiary sub-Saharan African countries" mean a country or countries listed in section 107 of the African Growth and Opportunity Act \[19 U.S.C. 3706\] that the President has determined is eligible under subsection (a) of this section.
 
-&emsp;(2) the term “former beneficiary sub-Saharan African country” means a country that, after being designated as a beneficiary sub-Saharan African country under the African Growth and Opportunity Act \[19 U.S.C. 3701 et seq.\], ceased to be designated as such a country by reason of its entering into a free trade agreement with the United States.
+&emsp;(2) the term "former beneficiary sub-Saharan African country" means a country that, after being designated as a beneficiary sub-Saharan African country under the African Growth and Opportunity Act \[19 U.S.C. 3701 et seq.\], ceased to be designated as such a country by reason of its entering into a free trade agreement with the United States.
 
 (Pub. L. 93–618, title V, §506A, as added Pub. L. 106–200, title I, §111(a), May 18, 2000, 114 Stat. 257; amended Pub. L. 108–274, §7(a)(2), July 13, 2004, 118 Stat. 823.)
 
@@ -48,7 +48,7 @@ The African Growth and Opportunity Act, referred to in subsec. (c)(2), is title 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(2)(B). Pub. L. 108–274, §7(a)(2)(A), inserted “or former beneficiary sub-Saharan African countries” after “countries”.
+<b>2004</b>—Subsec. (b)(2)(B). Pub. L. 108–274, §7(a)(2)(A), inserted "or former beneficiary sub-Saharan African countries" after "countries".
 
-Subsec. (c). Pub. L. 108–274, §7(a)(2)(B), substituted “subchapter—” for “subchapter,”, inserted par. (1) designation before “the terms”, and added par. (2).
+Subsec. (c). Pub. L. 108–274, §7(a)(2)(B), substituted "subchapter—" for "subchapter,", inserted par. (1) designation before "the terms", and added par. (2).
 

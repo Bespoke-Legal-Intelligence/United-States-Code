@@ -32,11 +32,11 @@ No insurance, guaranty, or reinsurance of any equity investment shall extend bey
 
 #### (f) Limitations on amounts
 
-Compensation for insurance, reinsurance, or guaranties issued under this subpart shall not exceed the dollar value, as of the date of the investment, of the investment made in the project with the approval of the Corporation plus interest, earnings, or profits actually accrued on such investment to the extent provided by such insurance, reinsurance, or guaranty, except that theCorporation may provide that (1) appropriate adjustments in the insured dollar value be made to reflect the replacement cost of project assets, (2) compensation for a claim of loss under insurance of an equity investment may be computed on the basis of the net book value attributable to such equity investment on the date of loss, and (3) compensation for loss due to business interruption may be computed on a basis to be determined by the Corporation which reflects amounts lost. Notwithstanding the preceding sentence, the Corporation shall limit the amount of direct insurance and reinsurance issued by it under section 2194 or 2194b of this title so that risk of loss as to at least 10 per centum of the total investment of the insured and its affiliates in the project is borne by the insured and such affiliates, except that such limitation shall not apply to direct insurance or reinsurance of loans by banks or other financial institutions to unrelated parties.
+Compensation for insurance, reinsurance, or guaranties issued under this subpart shall not exceed the dollar value, as of the date of the investment, of the investment made in the project with the approval of the Corporation plus interest, earnings, or profits actually accrued on such investment to the extent provided by such insurance, reinsurance, or guaranty, except that the Corporation may provide that (1) appropriate adjustments in the insured dollar value be made to reflect the replacement cost of project assets, (2) compensation for a claim of loss under insurance of an equity investment may be computed on the basis of the net book value attributable to such equity investment on the date of loss, and (3) compensation for loss due to business interruption may be computed on a basis to be determined by the Corporation which reflects amounts lost. Notwithstanding the preceding sentence, the Corporation shall limit the amount of direct insurance and reinsurance issued by it under section 2194 or 2194b of this title so that risk of loss as to at least 10 per centum of the total investment of the insured and its affiliates in the project is borne by the insured and such affiliates, except that such limitation shall not apply to direct insurance or reinsurance of loans by banks or other financial institutions to unrelated parties.
 
 #### (g) Fraud or misrepresentation
 
-No payment may be made under any guaranty, insurance, or reinsurance issued pursuant to this subpart for any loss arising out of fraud or misrepresentation for which the party seeking payment is responsible.
+No payment may be made under any guaranty, insurance, or reinsurance issued pursuant tothis subpart for any loss arising out of fraud or misrepresentation for which the party seeking payment is responsible.
 
 #### (h) Limits of obligation
 
@@ -80,7 +80,7 @@ In making a determination to issue insurance, guaranties, or reinsurance under t
 
 #### (n) Penalties for fraud
 
-Whoever knowingly makes any false statement or report, or willfully overvalues any land,property, or security, for the purpose of influencing in any way the action of the Corporation with respect to any insurance, reinsurance, guarantee, loan, equity investment, or other activity of the Corporation under section 2194 of this title or any change or extension of any such insurance, reinsurance, guarantee, loan, equity investment, or activity, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
+Whoever knowingly makes any false statement or report, or willfully overvalues any land, property, or security, for the purpose of influencing in any way the action of the Corporation with respect to any insurance, reinsurance, guarantee, loan, equity investment, or other activity of the Corporation under section 2194 of this title or any change or extension of any such insurance, reinsurance, guarantee, loan, equity investment, or activity, by renewal, deferment of action or otherwise, or the acceptance, release, or substitution of security therefor, shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
 #### (o) Use of local currencies
 
@@ -96,7 +96,7 @@ The Foreign Assistance Act of 1969, referred to in subsec. (c), is Pub. L. 91–
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (d)(2), is title V of Pub. L. 93–344, as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
-This chapter, referred to in subsec. (j), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (j), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Foreign Corrupt Practices Act of 1977, referred to in subsec. (l), is title I of Pub. L. 95–213, Dec. 19, 1977, 91 Stat. 1494, as amended, which enacted sections 78dd–1 to 78dd–3 of Title 15, Commerce and Trade, and amended sections 78m and 78ff of Title 15. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 78a of Title 15 and Tables.
 
@@ -106,7 +106,7 @@ Amendment by Pub. L. 100–461 is based on section 110(c) of title I of H.R. 526
 
 #### Amendments
 
-<b>1992</b>—Subsec. (d). Pub. L. 102–549, §105(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Fees shall be charged for insurance, guaranty, and reinsurance coverage in amounts to be determined by the Corporation. In the event fees charged for investment insurance, guaranties, or reinsurance are reduced, fees to be paid under existing contracts for the same type of insurance, guaranties, or reinsurance and for similar guaranties issued under predecessor guaranty authority may be reduced.”
+<b>1992</b>—Subsec. (d). Pub. L. 102–549, §105(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Fees shall be charged for insurance, guaranty, and reinsurance coverage in amounts to be determined by the Corporation. In the event fees charged for investment insurance, guaranties, or reinsurance are reduced, fees to be paid under existing contracts for the same type of insurance, guaranties, or reinsurance and for similar guaranties issued under predecessor guaranty authority may be reduced."
 
 Subsecs. (n), (o). Pub. L. 102–549, §105(b), (c), added subsecs. (n) and (o).
 
@@ -114,11 +114,11 @@ Subsecs. (n), (o). Pub. L. 102–549, §105(b), (c), added subsecs. (n) and (o).
 
 <b>1985</b>—Subsec. (f). Pub. L. 99–204, §6(b), added cl. (3).
 
-Pub. L. 99–204, §9(b)(2), inserted “or 2194b” after “section 2194”.
+Pub. L. 99–204, §9(b)(2), inserted "or 2194b" after "section 2194".
 
 Subsec. (m). Pub. L. 99–204, §4(b), added subsec. (m).
 
-<b>1981</b>—Subsec. (f). Pub. L. 97–65 substituted “Compensation for insurance, reinsurance, or guaranties issued under this subpart shall not exceed the dollar value, as of the date of the investment, of the investment made in the project with the approval of the Corporation plus interest, earnings, or profits actually accrued on such investment to the extent provided by such insurance, reinsurance, or guaranty, except that the Corporation may provide that (1) appropriate adjustments in the insured dollar value be made to reflect the replacement cost of project assets, and (2) compensation for a claim of loss under insurance of an equity investment may be computed on the basis of the net book value attributable to such equity investment on the date of loss” for “No insurance, reinsurance, or guaranty issued under this subpart shall exceed the dollar value, as of the date of the investment, of the investment made in the project with the approval of the Corporation plus interest, earnings or profits actually accrued on said investment to the extent provided by such insurance, reinsurance, or guaranty, except that the Corporation may provide for appropriate adjustments in the insured dollar value to reflect the replacement cost of project assets”, and struck out provision that the preceding sentence not apply to the extent not permitted by State law.
+<b>1981</b>—Subsec. (f). Pub. L. 97–65 substituted "Compensation for insurance, reinsurance, or guaranties issued under this subpart shall not exceed the dollar value, as of the date of the investment, of the investment made in the project with the approval of the Corporation plus interest, earnings, or profits actually accrued on such investment to the extent provided by such insurance, reinsurance, or guaranty, except that the Corporation may provide that (1) appropriate adjustments in the insured dollar value be made to reflect the replacement cost of project assets, and (2) compensation for a claim of loss under insurance of an equity investment may be computed on the basis of the net book value attributable to such equity investment on the date of loss" for "No insurance, reinsurance, or guaranty issued under this subpart shall exceed the dollar value, as of the date of the investment, of the investment made in the project with the approval of the Corporation plus interest, earnings or profits actually accrued on said investment to the extent provided by such insurance, reinsurance, or guaranty, except that the Corporation may provide for appropriate adjustments in the insured dollar value to reflect the replacement cost of project assets", and struck out provision that the preceding sentence not apply to the extent not permitted by State law.
 
 <b>1978</b>—Subsec. (f). Pub. L. 95–268, §5, inserted provisions excepting from dollar amounts adjustments in the insured dollar amounts to reflect replacement cost of project assets, and provisions excepting from limitations loans by banks or other financial institutions to unrelated parties.
 
@@ -130,7 +130,7 @@ Subsec. (d). Pub. L. 93–390, §2(4)(D), inserted provisions authorizing fees t
 
 Subsec. (e). Pub. L. 93–390, §2(4)(E), inserted reference to reinsurance.
 
-Subsec. (f). Pub. L. 93–390, §2(4)(F), (G), inserted “reinsurance” before “or guaranty” wherever appearing and provisions relating to limitations on the amount of direct insurance or reinsurance.
+Subsec. (f). Pub. L. 93–390, §2(4)(F), (G), inserted "reinsurance" before "or guaranty" wherever appearing and provisions relating to limitations on the amount of direct insurance or reinsurance.
 
 Subsec. (g). Pub. L. 93–390, §2(4)(H), inserted applicability to insurance and reinsurance.
 
@@ -138,7 +138,7 @@ Subsecs. (h) to (k). Pub. L. 93–390, §2(4)(I)–(K), inserted reference to re
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

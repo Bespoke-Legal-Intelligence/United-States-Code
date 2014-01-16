@@ -4,7 +4,7 @@ For the purposes of this subpart:
 
 #### (1) Eligible institution
 
-&emsp;The term “eligible institution” means an institution of higher education, as defined in section 1002 of this title, that the Secretary determines—
+&emsp;The term "eligible institution" means an institution of higher education, as defined in section 1002 of this title, that the Secretary determines—
 
 &emsp;&emsp;(A) provides high quality teacher preparation and professional development services, including extensive clinical experience as a part of pre-service preparation;
 
@@ -16,17 +16,17 @@ For the purposes of this subpart:
 
 #### (2) Post-baccalaureate
 
-&emsp;The term “post-baccalaureate” means a program of instruction for individuals who havecompleted a baccalaureate degree, that does not lead to a graduate degree, and that consists of courses required by a State in order for a teacher candidate to receive a professional certification or licensing credential that is required for employment as a teacher in an elementary school or secondary school in that State, except that such term shall not include any program of instruction offered by an eligible institution that offers a baccalaureate degree in education.
+&emsp;The term "post-baccalaureate" means a program of instruction for individuals who have completed a baccalaureate degree, that does not lead to a graduate degree, and that consists of courses required by a State in order for a teacher candidate to receive a professional certification or licensing credential that is required for employment as a teacher in an elementary school or secondary school in that State, except that such term shall not include any program of instruction offered by an eligible institution that offers a baccalaureate degree in education.
 
 #### (3) Teacher candidate
 
-&emsp;The term “teacher candidate” means a student or teacher described in subparagraph (A) or (B) of section 1070g–2(a)(2) of this title.
+&emsp;The term "teacher candidate" means a student or teacher described in subparagraph (A) or (B) of section 1070g–2(a)(2) of this title.
 
 (Pub. L. 89–329, title IV, §420L, as added Pub. L. 110–84, title I, §104, Sept. 27, 2007, 121 Stat. 786; amended Pub. L. 110–153, §3(1), Dec. 21, 2007, 121 Stat. 1824.)
 
 #### Amendments
 
-<b>2007</b>—Par. (1)(B). Pub. L. 110–153 substituted “responsible” for “sound”.
+<b>2007</b>—Par. (1)(B). Pub. L. 110–153 substituted "responsible" for "sound".
 
 #### Effective Date
 

@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00391 - Establishment of &#8220;reclamation fund&#8221;](%C2%A7%2000391%20-%20Establishment%20of%20%E2%80%9Creclamation%20fund%E2%80%9D.md)
+- [&sect; 00391 - Establishment of reclamation fund](%C2%A7%2000391%20-%20Establishment%20of%20reclamation%20fund.md)
 - [&sect; 00391a - Advances to reclamation fund](%C2%A7%2000391a%20-%20Advances%20to%20reclamation%20fund.md)
 - [&sect; 00391a&#8211;1 - Increase in reclamation fund; reimbursement of advances from Treasury](%C2%A7%2000391a%E2%80%931%20-%20Increase%20in%20reclamation%20fund%3B%20reimbursement%20of%20advances%20from%20Treasury.md)
 - [&sect; 00391b - Omitted](%C2%A7%2000391b%20-%20Omitted.md)

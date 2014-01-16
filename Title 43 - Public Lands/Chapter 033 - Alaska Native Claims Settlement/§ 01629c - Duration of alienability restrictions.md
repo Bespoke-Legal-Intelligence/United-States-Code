@@ -38,7 +38,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (C) If an amendment or amendments approved pursuant to subparagraph (A) or this subparagraph maintains or extends alienability restrictions for a specified period of time, termination of the restrictions at the close of such period may be postponed if a further amendment to the articles of incorporation of the corporation is approved to extend the restrictions. There shall be no limit on the number of such amendments that can be approved. Such amendments shall not be effective to extend the restrictions unless approved prior to the expiration of the period of maintenance or extension then in force.
 
-(D) The board of directors may ask the shareholders to approve en bloc pursuant to a single vote a series of amendments (including an amendment to authorize the issuance of stock pursuant to section 1606(g) of this title) to implement a recapitalization plan that includes a provision maintaining alienability restrictions.
+(D) The board of directors may ask the shareholders to approve en bloc pursuant to a single vote a series of amendments (including an amendment to authorize the issuance of stockpursuant to section 1606(g) of this title) to implement a recapitalization plan that includes a provision maintaining alienability restrictions.
 
 (2)(A) If an amendment to the articles of incorporation of a Native Corporation maintaining or extending alienability restrictions for a specified period of time is approved pursuant to paragraph (1), the restrictions shall automatically terminate at the end of such period unless the restrictions are extended in accordance with the provisions of paragraph (1)(C).
 
@@ -58,7 +58,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (B)(i) The board of directors of a Native Corporation electing application of this subsection shall, at least once prior to January 1, 1991, approve, and submit to a vote of the shareholders, an amendment to the articles of incorporation of the corporation to extend alienability restrictions. If the amendment is not approved by the shareholders, the board of directors may submit another such amendment to the shareholders once or more a year until December 18, 1991.
 
-(ii) In lieu of approving the amendment to the articles of incorporation described in clause (i) and submitting such amendment to a vote of the shareholders, at any time prior to January 1, 1991, the board of directors of a Native Corporation that has approved a resolution described in paragraph (1)(A) may approve a new resolution rescinding that prior resolution. Upon approval of the new resolution rescinding a resolution described in paragraph (1)(A), the latter resolution shall be void and alienability restrictions on the Settlement Common Stock of such corporationshall continue subsequent to December 18, 1991, until such time as the alienability restrictions are terminated pursuant to the procedure described in subsection (b) of this section.
+(ii) In lieu of approving the amendment to the articles of incorporation described in clause (i) and submitting such amendment to a vote of the shareholders, at any time prior to January 1, 1991, the board of directors of a Native Corporation that has approved a resolution described in paragraph (1)(A) may approve a new resolution rescinding that prior resolution. Upon approval of the new resolution rescinding a resolution described in paragraph (1)(A), the latter resolution shall be void and alienability restrictions on the Settlement Common Stock of such corporation shall continue subsequent to December 18, 1991, until such time as the alienability restrictions are terminated pursuant to the procedure described in subsection (b) of this section.
 
 (iii) Notwithstanding any other provision of law, a civil action that challenges the constitutionality of any provision in clause (ii) shall be barred unless it is filed within one year after the date of the vote of the board of directors approving a resolution to rescind a prior opt-in election under paragraph (1)(A). Any such civil action shall be filed in accordance with section 16(b) of the Alaska Native Claims Settlement Act Amendments of 1987 (101 Stat. 1813–1814).
 
@@ -100,7 +100,7 @@ Alienability restrictions shall continue until terminated in accordance with the
 
 (ii) Alienable common stock issued in exchange for a class of Settlement Common Stock carrying greater per share voting power than Settlement Common Stock issued pursuant to subsections (g)(1)(A) and (g)(1)(B) of this section shall carry such voting power and be subject to such other terms as may be provided in the amendment to the articles of incorporation authorizing the issuance of such class of Settlement Common Stock.
 
-(iii) In the resolution authorized by paragraph (5)(B), the board of directors shall provide that each share of Settlement Common Stock carrying the right to share in distributions made toshareholders pursuant to subsections (j) and (m) of section 1606 of this title shall be exchanged either for—
+(iii) In the resolution authorized by paragraph (5)(B), the board of directors shall provide that each share of Settlement Common Stock carrying the right to share in distributions made to shareholders pursuant to subsections (j) and (m) of section 1606 of this title shall be exchanged either for—
 
 &emsp;(I) a share of alienable common stock carrying such right, or
 
@@ -148,9 +148,9 @@ Section 16(b) of the Alaska Native Claims Settlement Act Amendments of 1987, ref
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–201 substituted “July 16, 1993: <i>Provided, however</i>, That this prohibition shall not apply to a Native Corporation whose board of directors approves, no later than March 1, 1992, a resolution (certified by the corporate secretary of such corporation) electing to decline the application of such prohibition” for “December 18, 1991”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–201 substituted "July 16, 1993: <i>Provided, however</i>, That this prohibition shall not apply to a Native Corporation whose board of directors approves, no later than March 1, 1992, a resolution (certified by the corporate secretary of such corporation) electing to decline the application of such prohibition" for "December 18, 1991".
 
-<b>1990</b>—Subsec. (d)(1)(A). Pub. L. 101–378, §301(1), inserted before period at end “and such resolution is not validly rescinded pursuant to paragraph (2)(B)(ii)”.
+<b>1990</b>—Subsec. (d)(1)(A). Pub. L. 101–378, §301(1), inserted before period at end "and such resolution is not validly rescinded pursuant to paragraph (2)(B)(ii)".
 
 Subsec. (d)(2)(B). Pub. L. 101–378, §301(2), (3), designated existing provisions as cl. (i) and added cls. (ii) and (iii).
 

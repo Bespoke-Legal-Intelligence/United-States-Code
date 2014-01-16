@@ -14,7 +14,7 @@
 
 #### (2) 2008 State employment decline
 
-&emsp;For purposes of this subsection, the term “2008 State employment decline” means, with respect to any State, the excess (if any) of—
+&emsp;For purposes of this subsection, the term "2008 State employment decline" means, with respect to any State, the excess (if any) of—
 
 &emsp;&emsp;(A) the number of individuals employed in such State determined for December 2007, over
 
@@ -28,7 +28,7 @@
 
 #### (B) Large municipalities
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “large municipality” means a municipality with a population of more than 100,000.
+&emsp;&emsp;For purposes of subparagraph (A), the term "large municipality" means a municipality with a population of more than 100,000.
 
 #### (C) Determination of local employment declines
 
@@ -46,7 +46,7 @@
 
 #### (b) Recovery zone
 
-For purposes of this part, the term “recovery zone” means—
+For purposes of this part, the term "recovery zone" means—
 
 &emsp;(1) any area designated by the issuer as having significant poverty, unemployment, rate of home foreclosures, or general distress,
 
@@ -62,7 +62,7 @@ The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (b)
 
 #### Effective Date
 
-Pub. L. 111–5, div. B, title I, §1401(c), Feb. 17, 2009, 123 Stat. 351, provided that: “The amendments made by this section \[enacting this part\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 17, 2009\].”
+Pub. L. 111–5, div. B, title I, §1401(c), Feb. 17, 2009, 123 Stat. 351, provided that: "The amendments made by this section \[enacting this part\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 17, 2009\]."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

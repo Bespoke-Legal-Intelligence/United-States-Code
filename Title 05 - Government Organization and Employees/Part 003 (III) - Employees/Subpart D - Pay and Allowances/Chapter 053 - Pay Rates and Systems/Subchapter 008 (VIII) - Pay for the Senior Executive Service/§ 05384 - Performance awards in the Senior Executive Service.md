@@ -20,7 +20,7 @@
 
 (d) The Office of Personnel Management may issue guidance to agencies concerning the proportion of Senior Executive Service salary expenses that may be appropriately applied to payment of performance awards and the distribution of awards.
 
-(Added Pub. L. 95–454, title IV, §407(a), Oct. 13, 1978, 92 Stat. 1172; amended Pub. L. 98–615, title III, §302, Nov. 8, 1984, 98 Stat. 3217; Pub. L. 101–136, title VI, §625(a), Nov. 3, 1989, 103 Stat. 822; Pub. L. 105–277, div. A, §101(h) \[title VI, §632(a)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523.)
+(Added Pub. L. 95–454, title IV, §407(a), Oct. 13, 1978, 92 Stat. 1172; amended Pub. L. 98–615, titleIII, §302, Nov. 8, 1984, 98 Stat. 3217; Pub. L. 101–136, title VI, §625(a), Nov. 3, 1989, 103 Stat. 822; Pub. L. 105–277, div. A, §101(h) \[title VI, §632(a)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–523.)
 
 #### Amendments
 

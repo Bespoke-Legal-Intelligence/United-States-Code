@@ -16,7 +16,7 @@ Not later than 12 months after July 30, 2008, the Director shall submit to Congr
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Director” for “Secretary” wherever appearing.
+<b>2010</b>—Pub. L. 111–203 substituted "Director" for "Secretary" wherever appearing.
 
 #### Effective Date of 2010 Amendment
 

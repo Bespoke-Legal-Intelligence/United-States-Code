@@ -18,5 +18,5 @@ Minor changes of phraseology were made.
 
 #### Amendments
 
-<b>1959</b>—Pub. L. 86–256 substituted “punishable by imprisonment for” for “and sentenced to terms of imprisonment of” in first sentence.
+<b>1959</b>—Pub. L. 86–256 substituted "punishable by imprisonment for" for "and sentenced to terms of imprisonment of" in first sentence.
 

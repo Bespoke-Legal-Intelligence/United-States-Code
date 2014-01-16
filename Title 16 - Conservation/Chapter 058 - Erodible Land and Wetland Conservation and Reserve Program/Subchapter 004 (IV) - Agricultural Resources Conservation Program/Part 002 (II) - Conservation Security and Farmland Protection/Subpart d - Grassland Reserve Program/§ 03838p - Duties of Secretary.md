@@ -20,7 +20,7 @@
 
 #### (1) In general
 
-&emsp;In return for the execution of a rental contract or the granting of an easement by an owner or operator under the program, the Secretary shall—
+&emsp;In return for the execution of a rental contract or the granting of an easement by anowner or operator under the program, the Secretary shall—
 
 &emsp;&emsp;(A) make rental contract or easement payments to the owner or operator in accordance with paragraphs (2) and (3); and
 
@@ -68,7 +68,7 @@
 
 #### (B) Payment limitation
 
-&emsp;&emsp;Payments made under 1 or more restoration agreements to a person or legal entity,directly or indirectly, may not exceed, in the aggregate, $50,000 per year.
+&emsp;&emsp;Payments made under 1 or more restoration agreements to a person or legal entity, directly or indirectly, may not exceed, in the aggregate, $50,000 per year.
 
 #### (5) Payments to others
 
@@ -88,5 +88,5 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 

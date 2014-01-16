@@ -4,39 +4,39 @@ In this division:
 
 #### (1) Board
 
-&emsp;The term “Board” means the Board of Directors of the Corporation.
+&emsp;The term "Board" means the Board of Directors of the Corporation.
 
 #### (2) Campus director
 
-&emsp;The term “campus director”, with respect to a Corps campus, means the head of the campus under section 12615(d) of this title.
+&emsp;The term "campus director", with respect to a Corps campus, means the head of the campus under section 12615(d) of this title.
 
 #### (3) Corps
 
-&emsp;The term “Corps” means the National Civilian Community Corps required under section 12615 of this title as part of the National Civilian Community Corps Program.
+&emsp;The term "Corps" means the National Civilian Community Corps required under section 12615 of this title as part of the National Civilian Community Corps Program.
 
 #### (4) Corps campus
 
-&emsp;The term “Corps campus” means the facility or central location established as the operational headquarters and boarding place for particular Corps units.
+&emsp;The term "Corps campus" means the facility or central location established as the operational headquarters and boarding place for particular Corps units.
 
 #### (5) Corps members
 
-&emsp;The term “Corps members” means persons receiving training and participating in projects under the National Civilian Community Corps Program.
+&emsp;The term "Corps members" means persons receiving training and participating in projects under the National Civilian Community Corps Program.
 
 #### (6) Director
 
-&emsp;The term “Director” means the Director of the National Civilian Community Corps.
+&emsp;The term "Director" means the Director of the National Civilian Community Corps.
 
 #### (7) Institution of higher education
 
-&emsp;The term “institution of higher education” has the meaning given that term in section 1001 of title 20.
+&emsp;The term "institution of higher education" has the meaning given that term in section 1001 of title 20.
 
 #### (8) Program
 
-&emsp;The term “Program” means the National Civilian Community Corps Program established pursuant to section 12612 of this title.
+&emsp;The term "Program" means the National Civilian Community Corps Program established pursuant to section 12612 of this title.
 
 #### (9) Service-learning
 
-&emsp;The term “service-learning”, with respect to Corps members, means a method—
+&emsp;The term "service-learning", with respect to Corps members, means a method—
 
 &emsp;&emsp;(A) under which Corps members learn and develop through active participation in thoughtfully organized service experiences that meet actual community needs;
 
@@ -48,7 +48,7 @@ In this division:
 
 #### (10) Unit
 
-&emsp;The term “unit” means a unit of the Corps referred to in section 12615(c) of this title.
+&emsp;The term "unit" means a unit of the Corps referred to in section 12615(c) of this title.
 
 (Pub. L. 101–610, title I, §165, formerly §195O, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2532; renumbered §166 and amended Pub. L. 103–82, title I, §104(b), (e)(2)(H), title IV, §§402(b)(2), 403(a)(4), Sept. 21, 1993, 107 Stat. 840, 847, 919; Pub. L. 105–244, title I, §102(a)(13)(L), Oct. 7, 1998, 112 Stat. 1621; renumbered §165 and amended Pub. L. 111–13, title I, §1516, Apr. 21, 2009, 123 Stat. 1528.)
 
@@ -66,53 +66,53 @@ Another prior section 165 of Pub. L. 101–610 was classified to section 12621 o
 
 <b>2009</b>—Pars. (2) to (4). Pub. L. 111–13, §1516(2)(A), (C), added pars. (2) to (4) and struck out former pars. (2) and (3) which read as follows:
 
-“(2)
+"(2)
 
-Corps.—The terms ‘Civilian Community Corps’ and ‘Corps’ mean the Civilian Community Corps required under section 12615 of this title as part of the Civilian Community Corps Demonstration Program.
+Corps.—The terms 'Civilian Community Corps' and 'Corps' mean the Civilian Community Corps required under section 12615 of this title as part of the Civilian Community Corps Demonstration Program.
 
-“(3)
+"(3)
 
-Corps camp.—The term ‘Corps camp’ means the facility or central location established as the operational headquarters and boarding place for particular Corps units.”
+Corps camp.—The term 'Corps camp' means the facility or central location established as the operational headquarters and boarding place for particular Corps units."
 
 > Former par. (4) redesignated (5).
 
-Par. (5). Pub. L. 111–13, §1516(2)(B), (D), redesignated par. (4) as (5) and substituted “National Civilian Community Corps Program” for “Civilian Community Corps Demonstration Program”. Former par. (5) redesignated (6).
+Par. (5). Pub. L. 111–13, §1516(2)(B), (D), redesignated par. (4) as (5) and substituted "National Civilian Community Corps Program" for "Civilian Community Corps Demonstration Program". Former par. (5) redesignated (6).
 
-Par. (6). Pub. L. 111–13, §1516(2)(B), (E), redesignated par. (5) as (6) and inserted “National” before “Civilian Community Corps”. Former par. (6) redesignated (7).
+Par. (6). Pub. L. 111–13, §1516(2)(B), (E), redesignated par. (5) as (6) and inserted "National" before "Civilian Community Corps". Former par. (6) redesignated (7).
 
 Par. (7). Pub. L. 111–13, §1516(2)(B), redesignated par. (6) as (7). Former par. (7) redesignated (8).
 
-Par. (8). Pub. L. 111–13, §1516(2)(F), which directed substitution of “The term ‘Program’ means the National Civilian Community Corps Program” for “ ‘The terms’ and all that follows through ‘Demonstration Program’ ”, was executed by making the substitution for “The terms ‘Civilian Community Corps Demonstration Program’ and ‘Program’ mean the Civilian Community Corps Demonstration Program” to reflect the probable intent of Congress.
+Par. (8). Pub. L. 111–13, §1516(2)(F), which directed substitution of "The term 'Program' means the National Civilian Community Corps Program" for " 'The terms' and all that follows through 'Demonstration Program' ", was executed by making the substitution for "The terms 'Civilian Community Corps Demonstration Program' and 'Program' mean the Civilian Community Corps Demonstration Program" to reflect the probable intent of Congress.
 
 Pub. L. 111–13, §1516(2)(B), redesignated par. (7) as (8). Former par. (8) redesignated (9).
 
-Par. (9). Pub. L. 111–13, §1516(2)(G), substituted “Service-learning” for “Service learning” in heading and “service-learning” for “service learning” in introductory provisions.
+Par. (9). Pub. L. 111–13, §1516(2)(G), substituted "Service-learning" for "Service learning" in heading and "service-learning" for "service learning" in introductory provisions.
 
-Pub. L. 111–13, §1516(2)(A), (B), redesignated par. (8) as (9) and struck out former par. (9). Text read as follows: “The term ‘superintendent’, with respect to a Corps camp, means the head of the camp under section 12615(d) of this title.”
+Pub. L. 111–13, §1516(2)(A), (B), redesignated par. (8) as (9) and struck out former par. (9). Text read as follows: "The term 'superintendent', with respect to a Corps camp, means the head of the camp under section 12615(d) of this title."
 
-<b>1998</b>—Par. (6). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+<b>1998</b>—Par. (6). Pub. L. 105–244 substituted "section 1001" for "section 1141(a)".
 
-<b>1993</b>—Par. (1). Pub. L. 103–82, §402(b)(2), substituted “Corporation” for “Commission on National and Community Service”.
+<b>1993</b>—Par. (1). Pub. L. 103–82, §402(b)(2), substituted "Corporation" for "Commission on National and Community Service".
 
-Par. (2). Pub. L. 103–82, §104(e)(2)(H)(i), substituted “section 12615” for “section 12653d”.
+Par. (2). Pub. L. 103–82, §104(e)(2)(H)(i), substituted "section 12615" for "section 12653d".
 
-Par. (6). Pub. L. 103–82, §403(a)(4), which directed amendment of par. (6) of this section by striking par. (6) and redesignating par. (7) of this section as (6) was executed by redesignating par. (7) of this section as (6) and striking out former par. (6) which defined “Executive Director” as Executive Director of Commission on National and Community Service, to reflect the probable intent of Congress.
+Par. (6). Pub. L. 103–82, §403(a)(4), which directed amendment of par. (6) of this section by striking par. (6) and redesignating par. (7) of this section as (6) was executed by redesignating par. (7) of this section as (6) and striking out former par. (6) which defined "Executive Director" as Executive Director of Commission on National and Community Service, to reflect the probable intent of Congress.
 
 Par. (7). Pub. L. 103–82, §403(a)(4)(B), which directed amendment of par. (6) of this section by redesignating par. (8) as (7) was executed by redesignating par. (8) of this section as (7), to reflect the probable intent of Congress. Former par. (7) redesignated (6).
 
 Par. (8). Pub. L. 103–82, §403(a)(4)(B), which directed amendment of par. (6) of this section by redesignating par. (9) as (8) was executed by redesignating par. (9) of this section as (8), to reflect the probable intent of Congress. Former par. (8) redesignated (7).
 
-Pub. L. 103–82, §104(e)(2)(H)(ii), substituted “section 12612” for “section 12653a”.
+Pub. L. 103–82, §104(e)(2)(H)(ii), substituted "section 12612" for "section 12653a".
 
 Par. (9). Pub. L. 103–82, §403(a)(4)(B), which directed amendment of par. (6) of this section by redesignating par. (10) as (9) was executed by redesignating par. (10) of this section as (9), to reflect the probable intent of Congress. Former par. (9) redesignated (8).
 
 Par. (10). Pub. L. 103–82, §403(a)(4)(B), which directed amendment of par. (6) of this section by redesignating par. (11) as (10) was executed by redesignating par. (11) of this section as (10), to reflect the probable intent of Congress. Former par. (10) redesignated (9).
 
-Pub. L. 103–82, §104(e)(2)(H)(iii), substituted “section 12615(d)” for “section 12653d(d)”.
+Pub. L. 103–82, §104(e)(2)(H)(iii), substituted "section 12615(d)" for "section 12653d(d)".
 
 Par. (11). Pub. L. 103–82, §403(a)(4)(B), which directed amendment of par. (6) of this section by redesignating par. (11) as (10) was executed by redesignating par. (11) of this section as (10), to reflect the probable intent of Congress.
 
-Pub. L. 103–82, §104(e)(2)(H)(iv), substituted “section 12615(c)” for “section 12653d(c)”.
+Pub. L. 103–82, §104(e)(2)(H)(iv), substituted "section 12615(c)" for "section 12653d(c)".
 
 #### Effective Date of 2009 Amendment
 

@@ -6,7 +6,7 @@ Any tax paid by any brewer on beer removed for consumption or sale may be refund
 
 #### (b) Beer lost by fire, theft, casualty, or act of God
 
-Subject to regulations prescribed by the Secretary, the tax paid by any brewer on beer removed for consumption or sale may be refunded or credited to the brewer, without interest, or if the tax has not been paid, the brewer may be relieved of liability therefor, if such beer is lost, whether by theft or otherwise, or is destroyed or otherwise rendered unmerchantable by fire, casualty, or act of God before the transfer of title thereto to any other person. In any case in which beer is lost or destroyed, whether by theft or otherwise, the Secretary may require thebrewer to file a claim for relief from the tax and submit proof as to the cause of such loss. In every case where it appears that the loss was by theft, the first sentence shall not apply unless the brewer establishes to the satisfaction of the Secretary that such theft occurred before removal from the brewery and occurred without connivance, collusion, fraud, or negligence on the part of the brewer, consignor, consignee, bailee, or carrier, or the employees or agents of any of them.
+Subject to regulations prescribed by the Secretary, the tax paid by any brewer on beer removed for consumption or sale may be refunded or credited to the brewer, without interest, or if the tax has not been paid, the brewer may be relieved of liability therefor, if such beer is lost, whether by theft or otherwise, or is destroyed or otherwise rendered unmerchantable by fire, casualty, or act of God before the transfer of title thereto to any other person. In any case in which beer is lost or destroyed, whether by theft or otherwise, the Secretary may require the brewer to file a claim for relief from the tax and submit proof as to the cause of such loss. In every case where it appears that the loss was by theft, the first sentence shall not apply unless the brewer establishes to the satisfaction of the Secretary that such theft occurred before removal from the brewery and occurred without connivance, collusion, fraud, or negligence on the part of the brewer, consignor, consignee, bailee, or carrier, or the employees or agents of any of them.
 
 #### (c) Beer received at a distilled spirits plant
 
@@ -20,23 +20,23 @@ No claim under this section shall be allowed (1) unless filed within 6 months af
 
 #### Prior Provisions
 
-A prior section 5056, act Aug. 16, 1954, ch. 736, 68A Stat. 613, related to “drawback of tax” prior to the general revision of this chapter by Pub. L. 85–859. See section 5055 of this title.
+A prior section 5056, act Aug. 16, 1954, ch. 736, 68A Stat. 613, related to "drawback of tax" prior to the general revision of this chapter by Pub. L. 85–859. See section 5055 of this title.
 
 A prior section 5057, act Aug. 16, 1954, ch. 736, 68A Stat. 613, related to refund and credit of tax or relief from liability, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 
-<b>1998</b>—Subsecs. (a) to (c). Pub. L. 105–206 substituted “removed for consumption or sale” for “produced in the United States”.
+<b>1998</b>—Subsecs. (a) to (c). Pub. L. 105–206 substituted "removed for consumption or sale" for "produced in the United States".
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–34, §1414(c)(1), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 105–34 redesignated subsec. (c) as (d) and substituted “rendering unmerchantable, or receipt on the bonded premises of a distilled spirits plant” for “or rendering unmerchantable”.
+Subsec. (d). Pub. L. 105–34 redesignated subsec. (c) as (d) and substituted "rendering unmerchantable, or receipt on the bonded premises of a distilled spirits plant" for "or rendering unmerchantable".
 
-<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1971</b>—Subsec. (a). Pub. L. 91–673 inserted provision permitting credit or refund of tax if the beer is returned to any brewery of the brewer who paid the tax, and provided for offset or deduction against amount of beer removed from the brewery on the day of return if the beer is returned to the same brewery from which it was withdrawn.
 
-Subsec. (b). Pub. L. 91–673 inserted provisions for credit or refund or relief from liability of tax when the beer is lost by theft or otherwise or rendered unmerchantable by fire, casualty or act of God, before the transfer of title to any other party, and required the brewer to file claim for relief from the tax and submit proof of the cause of the loss, and in the case of theft, to further prove that such theft occurred before removal from the brewery and without connivance, collusion, fraud, or negligence on the part of the brewer, consignor, consignee, bailee, or carrier, or the employees or agents of any of them.
+Subsec. (b). Pub. L. 91–673 inserted provisions for credit or refund or relief from liability of tax when the beer is lost by theft or otherwise or rendered unmerchantable by fire, casualty or act of God, before the transfer of title to any other party, and required the brewer to file claim for relief from the tax and submitproof of the cause of the loss, and in the case of theft, to further prove that such theft occurred before removal from the brewery and without connivance, collusion, fraud, or negligence on the part of the brewer, consignor, consignee, bailee, or carrier, or the employees or agents of any of them.
 
 Subsec. (c). Pub. L. 91–673 substantially reenacted subsec. (c) to reflect changes in subsec. (b).
 
@@ -50,5 +50,5 @@ Amendment by Pub. L. 105–34 effective on the 1st day of the 1st calendar quart
 
 #### Effective Date of 1971 Amendment
 
-Pub. L. 91–673, §5, Jan. 12, 1971, 84 Stat. 2058, provided that: “The amendments made by the first four sections of this Act \[enacting section 5417 of this title and amending this section and sections 5052, 5053, 5401, 5402, 5411, 5412, and 5416 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Jan. 12, 1971\].”
+Pub. L. 91–673, §5, Jan. 12, 1971, 84 Stat. 2058, provided that: "The amendments made by the first four sections of this Act \[enacting section 5417 of this title and amending this section and sections 5052, 5053, 5401, 5402, 5411, 5412, and 5416 of this title\] shall take effect on the first day of the first calendar month which begins more than 90 days after the date of the enactment of this Act \[Jan. 12, 1971\]."
 

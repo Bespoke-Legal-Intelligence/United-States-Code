@@ -12,7 +12,7 @@ Subchapter B of chapter 63 (relating to deficiency procedures) shall not apply w
 
 #### (1) In general
 
-&emsp;If, within 30 days after the day on which notice and demand of any penalty under section 6700 or 6701 is made against any person, such person pays an amount which is not less than 15 percent of the amount of such penalty and files a claim for refund of the amount so paid, no levy or proceeding in court for the collection of the remainder of such penalty shall be made, begun, or prosecuted until the final resolution of a proceeding begun as provided in paragraph (2). Notwithstanding the provisions of section 7421(a), the beginning of such proceeding or levy during the time such prohibition is in force may be enjoined by a proceeding in the proper court. Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).
+&emsp;If, within 30 days after the day on which notice and demand of any penalty under section 6700 or 6701 is made against any person, such person pays an amount which is not less than 15 percent of the amount of such penalty and files a claim for refund of the amount so paid,no levy or proceeding in court for the collection of the remainder of such penalty shall be made, begun, or prosecuted until the final resolution of a proceeding begun as provided in paragraph (2). Notwithstanding the provisions of section 7421(a), the beginning of such proceeding or levy during the time such prohibition is in force may be enjoined by a proceeding in the proper court. Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).
 
 #### (2) Person must bring suit in district court to determine his liability for penalty
 
@@ -26,17 +26,17 @@ Subchapter B of chapter 63 (relating to deficiency procedures) shall not apply w
 
 #### Amendments
 
-<b>1989</b>—Subsec. (c)(1). Pub. L. 101–239, §7737(a), inserted at end “Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2).”
+<b>1989</b>—Subsec. (c)(1). Pub. L. 101–239, §7737(a), inserted at end "Nothing in this paragraph shall be construed to prohibit any counterclaim for the remainder of such penalty in a proceeding begun as provided in paragraph (2)."
 
-Pub. L. 101–239, §7736(a), substituted “section 6700 or 6701” for “section 6700, 6701, or 6702”.
+Pub. L. 101–239, §7736(a), substituted "section 6700 or 6701" for "section 6700, 6701, or 6702".
 
-Subsec. (c)(2). Pub. L. 101–239, §7736(a), substituted “section 6700 or 6701” for “section 6700, 6701, or 6702”.
+Subsec. (c)(2). Pub. L. 101–239, §7736(a), substituted "section 6700 or 6701" for "section 6700, 6701, or 6702".
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7736(b), Dec. 19, 1989, 103 Stat. 2404, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to returns filed after December 31, 1989.”
+Pub. L. 101–239, title VII, §7736(b), Dec. 19, 1989, 103 Stat. 2404, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to returns filed after December 31, 1989."
 
 #### Effective Date
 
-Pub. L. 97–248, title III, §322(c), Sept. 3, 1982, 96 Stat. 613, provided that: “The amendments made by this section \[enacting this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title III, §322(c), Sept. 3, 1982, 96 Stat. 613, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\]."
 

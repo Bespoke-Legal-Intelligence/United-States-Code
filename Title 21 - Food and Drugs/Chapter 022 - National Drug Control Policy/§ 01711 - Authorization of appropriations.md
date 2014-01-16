@@ -10,11 +10,11 @@ There are authorized to be appropriated to carry out this chapter except activit
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
+This chapter, referred to in text, was in the original "this title", meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–469 substituted “chapter except activities otherwise specified,” for “chapter,” and “2006 through 2010” for “1999 through 2003”.
+<b>2006</b>—Pub. L. 109–469 substituted "chapter except activities otherwise specified," for "chapter," and "2006 through 2010" for "1999 through 2003".
 
 #### Appropriations
 

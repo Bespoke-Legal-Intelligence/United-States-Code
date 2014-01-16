@@ -104,13 +104,13 @@ Oct. 30, 1970, Pub. L. 91–518, §601, 84 Stat. 1338; June 22, 1972, Pub. L. 92
 
 Feb. 5, 1976, Pub. L. 94–210, §704(b)(1) (related to §601), 90 Stat. 123; Jan. 14, 1983, Pub. L. 97–468, §301(4)(A), 96 Stat. 2549.
 
-In subsection (a)(2), before clause (A), the words “In addition to amounts that may be appropriated under section 24909 of this title” are added for clarity.
+In subsection (a)(2), before clause (A), the words "In addition to amounts that may be appropriated under section 24909 of this title" are added for clarity.
 
-In subsection (a)(3)(B) and (C), the words “or States” are omitted because of 1:1. Before each clause (i), the words “Except as provided in clause (ii)” are omitted as surplus.
+In subsection (a)(3)(B) and (C), the words "or States" are omitted because of 1:1. Before each clause (i), the words "Except as provided in clause (ii)" are omitted as surplus.
 
-In subsection (d), before clause (1), the words “by the Secretary” and “for expenditure by it” are omitted as surplus.
+In subsection (d), before clause (1), the words "by the Secretary" and "for expenditure by it" are omitted as surplus.
 
-In subsection (e)(2), the words “Funds appropriated pursuant to this section shall be made available to the Secretary during the fiscal year for which appropriated” are omitted as surplus.
+In subsection (e)(2), the words "Funds appropriated pursuant to this section shall be made available to the Secretary during the fiscal year for which appropriated" are omitted as surplus.
 
 #### References in Text
 
@@ -128,21 +128,21 @@ Section 24704 of this title, referred to in subsec. (b), was repealed by Pub. L.
 
 Pub. L. 105–134, title II, §209, Dec. 2, 1997, 111 Stat. 2584, provided that:
 
-“(a)
+"(a)
 
 In General.—Amtrak may not use any amount received under section 977 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34, 26 U.S.C. 172 note\]—
 
-&emsp;“(1) for any purpose other than making payments to non-Amtrak States (pursuant to section 977(c) of that Act), or the financing of qualified expenses (as that term is defined in section 977(e)(1) of that Act); or
+&emsp;"(1) for any purpose other than making payments to non-Amtrak States (pursuant to section 977(c) of that Act), or the financing of qualified expenses (as that term is defined in section 977(e)(1) of that Act); or
 
-&emsp;“(2) to offset other amounts used for any purpose other than the financing of such expenses.
+&emsp;"(2) to offset other amounts used for any purpose other than the financing of such expenses.
 
-“(b)
+"(b)
 
-Report by ARC.—The Amtrak Reform Council shall report quarterly to the Congress on the use of amounts received by Amtrak under section 977 of the Taxpayer Relief Act of 1997.”
+Report by ARC.—The Amtrak Reform Council shall report quarterly to the Congress on the use of amounts received by Amtrak under section 977 of the Taxpayer Relief Act of 1997."
 
 #### Reform Board
 
-Pub. L. 105–134, title IV, §411(b), Dec. 2, 1997, 111 Stat. 2589, provided that: “If the Reform Board has not assumed the responsibilities of the Board of Directors of Amtrak before July 1, 1998, all provisions authorizing appropriations under the amendments made by section 301(a) of this Act \[amending this section\] for a fiscal year after fiscal year 1998 shall cease to be effective. The preceding sentence shall have no effect on funds provided to Amtrak pursuant to section 977 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34, 26 U.S.C. 172 note\].”
+Pub. L. 105–134, title IV, §411(b), Dec. 2, 1997, 111 Stat. 2589, provided that: "If the Reform Board has not assumed the responsibilities of the Board of Directors of Amtrak before July 1, 1998, all provisions authorizing appropriations under the amendments made by section 301(a) of this Act \[amending this section\] for a fiscal year after fiscal year 1998 shall cease to be effective. The preceding sentence shall have no effect on funds provided to Amtrak pursuant to section 977 of the Taxpayer Relief Act of 1997 \[Pub. L. 105–34, 26 U.S.C. 172 note\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

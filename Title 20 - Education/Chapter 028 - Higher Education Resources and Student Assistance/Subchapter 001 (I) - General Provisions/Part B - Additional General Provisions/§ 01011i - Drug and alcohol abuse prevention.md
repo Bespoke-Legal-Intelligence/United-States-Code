@@ -38,7 +38,7 @@ Each institution of higher education that provides the certification required by
 
 #### (1) In general
 
-&emsp;The Secretary shall publish regulations to implement and enforce the provisions of this section, including regulations that provide for—
+&emsp;The Secretary shall publish regulations to implement and enforce the provisions of thissection, including regulations that provide for—
 
 &emsp;&emsp;(A) the periodic review of a representative sample of programs required by subsection (a) of this section; and
 
@@ -94,7 +94,7 @@ Provisions similar to subsecs. (a) to (d) of this section were contained in sect
 
 <b>2008</b>—Subsec. (a)(2)(B) to (D). Pub. L. 110–315, §107(1), added subpars. (B) and (C) and redesignated former subpar. (B) as (D).
 
-Subsec. (e)(5). Pub. L. 110–315, §107(2), substituted “such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years” for “$5,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+Subsec. (e)(5). Pub. L. 110–315, §107(2), substituted "such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years" for "$5,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years".
 
 Subsec. (f). Pub. L. 110–315, §107(3), struck out subsec. (f) which related to National Recognition Awards for outstanding alcohol and drug abuse prevention programs.
 

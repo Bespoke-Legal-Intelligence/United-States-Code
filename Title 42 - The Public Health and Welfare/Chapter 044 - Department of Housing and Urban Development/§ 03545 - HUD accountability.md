@@ -38,11 +38,11 @@
 
 &emsp;(ii) The notification referred to in clause (i) of this subsection shall be published as a Notice in the Federal Register at least quarterly.
 
-&emsp;(iii) For purposes of this subparagraph, the term “funding decision” means the decision of the Secretary to make available grants, loans, or any other form of financial assistance to an individual or to an entity, including (but not limited to) a State or local government or agency thereof (including a public housing agency), an Indian tribe, or a nonprofit organization, under any program administered by the Department that provides, by statute, regulation, or otherwise, for the competitive distribution of financial assistance.
+&emsp;(iii) For purposes of this subparagraph, the term "funding decision" means the decision of the Secretary to make available grants, loans, or any other form of financial assistance to an individual or to an entity, including (but not limited to) a State or local government or agency thereof (including a public housing agency), an Indian tribe, or a nonprofit organization, under any program administered by the Department that provides, by statute, regulation, or otherwise, for the competitive distribution of financial assistance.
 
 &emsp;(D) The Secretary shall publish a notice in the Federal Register at least annually informing the public of the allocation of assistance under section 1439(d)(1)(A) of this title.
 
-&emsp;(E) The Secretary shall ensure that each application and all related documentation andother information referred to in subparagraph (B), including each letter of support, is readily available for public inspection for a period of not less than 5 years, beginning not less than 30 days following the date on which the award or allocation is made.
+&emsp;(E) The Secretary shall ensure that each application and all related documentation and other information referred to in subparagraph (B), including each letter of support, is readily available for public inspection for a period of not less than 5 years, beginning not less than 30 days following the date on which the award or allocation is made.
 
 #### (5) Emergency exception
 
@@ -144,7 +144,7 @@ If the Secretary receives or obtains information providing a reasonable basis to
 
 #### (i) Action to collect penalty
 
-If any person fails to comply with the determination or order of the Secretary imposing a civil money penalty under subsection (f) of this section, after the determination or order is no longer subject to review as provided by subsections (g)(1) and (h) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys’ fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
+If any person fails to comply with the determination or order of the Secretary imposing a civil money penalty under subsection (f) of this section, after the determination or order is no longer subject to review as provided by subsections (g)(1) and (h) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the person and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys' fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
 
 #### (j) Settlement by Secretary
 
@@ -162,15 +162,15 @@ The Secretary shall deposit all civil money penalties collected under this secti
 
 For the purpose of this section—
 
-&emsp;(1) The term “Department” means the Department of Housing and Urban Development.
+&emsp;(1) The term "Department" means the Department of Housing and Urban Development.
 
-&emsp;(2) The term “Secretary” means the Secretary of Housing and Urban Development.
+&emsp;(2) The term "Secretary" means the Secretary of Housing and Urban Development.
 
-&emsp;(3) The term “person” means an individual (including a consultant, lobbyist, or lawyer), corporation, company, association, authority, firm, partnership, society, State, local government, or any other organization or group of people.
+&emsp;(3) The term "person" means an individual (including a consultant, lobbyist, or lawyer), corporation, company, association, authority, firm, partnership, society, State, local government, or any other organization or group of people.
 
-&emsp;(4) The term “assistance within the jurisdiction of the Department” includes any contract, grant, loan, cooperative agreement, or other form of assistance, including the insurance or guarantee of a loan, mortgage, or pool of mortgages.
+&emsp;(4) The term "assistance within the jurisdiction of the Department" includes any contract, grant, loan, cooperative agreement, or other form of assistance, including the insurance or guarantee of a loan, mortgage, or pool of mortgages.
 
-&emsp;(5) The term “knowingly” means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.
+&emsp;(5) The term "knowingly" means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.
 
 #### (n) Effective date
 
@@ -188,35 +188,35 @@ Section was enacted as part of the Department of Housing and Urban Development R
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d). Pub. L. 110–289 inserted “, as such term is defined in subsection (m), except that for purposes of this subsection such term shall not include any mortgage insurance provided pursuant to title II of the National Housing Act (12 U.S.C. 1707 et seq.)” after “Department” and “such” after “amount of”.
+<b>2008</b>—Subsec. (d). Pub. L. 110–289 inserted ", as such term is defined in subsection (m), except that for purposes of this subsection such term shall not include any mortgage insurance provided pursuant to title II of the National Housing Act (12 U.S.C. 1707 et seq.)" after "Department" and "such" after "amount of".
 
 #### Subsidy Layering Review
 
 Pub. L. 102–550, title IX, §911, Oct. 28, 1992, 106 Stat. 3875, as amended by Pub. L. 103–233, title III, §308, Apr. 11, 1994, 108 Stat. 379, provided that:
 
-“(a)
+"(a)
 
 Certification of Subsidy Layering Compliance.—The requirements of section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 \[42 U.S.C. 3545(d)\] may be satisfied in connection with a project receiving assistance under a program that is within the jurisdiction of the Department of Housing and Urban Development and under section 42 of the Internal Revenue Code of 1986 \[26 U.S.C. 42\] by a certification by a housing credit agency to the Secretary, submitted in accordance with guidelines established by the Secretary, that the combination of assistance within the jurisdiction of the Secretary and other government assistance provided in connection with a property for which assistance is to be provided within the jurisdiction of the Department of Housing and Urban Development and under section 42 of the Internal Revenue Code of 1986 shall not be any greater than is necessary to provide affordable housing.
 
-“(b)
+"(b)
 
 In Particular.—The guidelines established pursuant to subsection (a) shall—
 
-&emsp;“(1) require that the amount of equity capital contributed by investors to a project partnership is not less than the amount generally contributed by investors in current market conditions, as determined by the housing credit agency; and
+&emsp;"(1) require that the amount of equity capital contributed by investors to a project partnership is not less than the amount generally contributed by investors in current market conditions, as determined by the housing credit agency; and
 
-&emsp;“(2) require that project costs, including developer fees, are within a reasonable range, taking into account project size, project characteristics, project location and project risk factors, as determined by the housing credit agency.
+&emsp;"(2) require that project costs, including developer fees, are within a reasonable range, taking into account project size, project characteristics, project location and project risk factors, as determined by the housing credit agency.
 
-“(c)
+"(c)
 
 Revocation by Secretary.—If the Secretary determines that a housing credit agency has failed to comply with the guidelines established under subsection (a), the Secretary—
 
-&emsp;“(1) may inform the housing credit agency that the agency may no longer submit certification of subsidy layering compliance under this section; and
+&emsp;"(1) may inform the housing credit agency that the agency may no longer submit certification of subsidy layering compliance under this section; and
 
-&emsp;“(2) shall carry out section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 \[42 U.S.C. 3545(d)\] relating to affected projects allocated a low-income housing tax credit pursuant to section 42 of the Internal Revenue Code of 1986 \[26 U.S.C. 42\].
+&emsp;"(2) shall carry out section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 \[42 U.S.C. 3545(d)\] relating to affected projects allocated a low-income housing tax credit pursuant to section 42 of the Internal Revenue Code of 1986 \[26 U.S.C. 42\].
 
-“(d)
+"(d)
 
-Applicability.—Section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 (42 U.S.C. 3545(d)) shall apply only to projects for which an application for assistance or insurance was filed after the date of enactment of the Housing and Urban Development Reform Act \[probably should be Department of Housing and Urban Development Reform Act of 1989, enacted Dec. 15, 1989\].”
+Applicability.—Section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 (42 U.S.C. 3545(d)) shall apply only to projects for which an application for assistance or insurance was filed after the date of enactment of the Housing and Urban Development Reform Act \[probably should be Department of Housing and Urban Development Reform Act of 1989, enacted Dec. 15, 1989\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

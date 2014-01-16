@@ -30,15 +30,15 @@ Oct. 30, 1984, Pub. L. 98–575, §14, 98 Stat. 3060.
 
 49 App.:2613(b).
 
-In subsection (a), the word “duties” is substituted for “responsibilities” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the word "duties" is substituted for "responsibilities" for consistency in the revised title and with other titles of the United States Code.
 
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–314, §4(d)(2), (3)(G), successively renumbered section 70106 of title 49 and section 70106 of this title as this section.
 
-Subsec. (a). Pub. L. 111–314, §4(d)(5)(I), substituted “sections 50904(c), 50905, and 50906” for “sections 70104(c), 70105, and 70105a”.
+Subsec. (a). Pub. L. 111–314, §4(d)(5)(I), substituted "sections 50904(c), 50905, and 50906" for "sections 70104(c), 70105, and 70105a".
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–492 inserted “at a site used for crew or space flight participant training,” after “assemble a launch vehicle or reentry vehicle,” and substituted “sections 70104(c), 70105, and 70105a” for “section 70104(c)”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–492 inserted "at a site used for crew or space flight participant training," after "assemble a launch vehicle or reentry vehicle," and substituted "sections 70104(c), 70105, and 70105a" for "section 70104(c)".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–303, in first sentence, inserted “or reentry site” after “observer at a launch site” and “or reentry vehicle” after “assemble a launch vehicle” and after “with a launch vehicle”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–303, in first sentence, inserted "or reentry site" after "observer at a launch site" and "or reentry vehicle" after "assemble a launch vehicle" and after "with a launch vehicle".
 

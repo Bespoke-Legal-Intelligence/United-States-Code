@@ -20,15 +20,15 @@ Credits, Discounts, Commissions, Fees.—(1) A contract entered into under this 
 
 Definitions.—In this section:
 
-&emsp;(1) The term “head of an agency” has the meaning given that term in section 2302(1) of this title.
+&emsp;(1) The term "head of an agency" has the meaning given that term in section 2302(1) of this title.
 
-&emsp;(2) The term “official travel” means travel at the expense of the Federal Government.
+&emsp;(2) The term "official travel" means travel at the expense of the Federal Government.
 
-&emsp;(3) The term “unofficial travel” means personal travel or other travel that is not paid for or reimbursed by the Federal Government out of appropriated funds.
+&emsp;(3) The term "unofficial travel" means personal travel or other travel that is not paid for or reimbursed by the Federal Government out of appropriated funds.
 
 (d)
 
-Inapplicability to Coast Guard and NASA.—This section does not apply to the Coast Guard when it is not operating as a service inthe Navy, nor to the National Aeronautics and Space Administration.
+Inapplicability to Coast Guard and NASA.—This section does not apply to the Coast Guard when it is not operating as a service in the Navy, nor to the National Aeronautics and Space Administration.
 
 (Added Pub. L. 105–261, div. A, title VIII, §813(a), Oct. 17, 1998, 112 Stat. 2087.)
 

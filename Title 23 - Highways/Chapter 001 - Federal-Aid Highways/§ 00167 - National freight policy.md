@@ -40,7 +40,7 @@ In general.—The Secretary shall establish a national freight network in accord
 
 Network components.—The national freight network shall consist of—
 
-&emsp;&emsp;(A) the primary freight network, as designated by the Secretary under subsection (d) (referred to in this section as the “primary freight network”) as most critical to the movement of freight;
+&emsp;&emsp;(A) the primary freight network, as designated by the Secretary under subsection (d) (referred to in this section as the "primary freight network") as most critical to the movement of freight;
 
 &emsp;&emsp;(B) the portions of the Interstate System not designated as part of the primary freight network; and
 
@@ -92,7 +92,7 @@ Redesignation of primary freight network.—Effective beginning 10 years after t
 
 (e)
 
-Critical Rural Freight Corridors.—A State may designate a road within the borders of the State as a critical rural freight corridor if the road—
+Critical Rural Freight Corridors.—A State may designate a road within the bordersof the State as a critical rural freight corridor if the road—
 
 &emsp;(1) is a rural principal arterial roadway and has a minimum of 25 percent of the annual average daily traffic of the road measured in passenger vehicle equivalent units from trucks (FHWA vehicle class 8 to 13);
 
@@ -170,7 +170,7 @@ Consultation.—The Secretary shall consult with Federal, State, and other stake
 
 (i)
 
-Definition of Aerotropolis Transportation System.—In this section, the term “aerotropolis transportation system” means a planned and coordinated multimodal freight and passenger transportation network that, as determined by the Secretary, provides efficient, cost-effective, sustainable, and intermodal connectivity to a defined region of economic significance centered around a major airport.
+Definition of Aerotropolis Transportation System.—In this section, the term "aerotropolis transportation system" means a planned and coordinated multimodal freight and passenger transportation network that, as determined by the Secretary, provides efficient, cost-effective, sustainable, and intermodal connectivity to a defined region of economic significance centered around a major airport.
 
 (Added Pub. L. 112–141, div. A, title I, §1115(a), July 6, 2012, 126 Stat. 468.)
 
@@ -186,91 +186,91 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 Pub. L. 112–141, div. A, title I, §§1116–1118, July 6, 2012, 126 Stat. 472, 473, provided that:
 
-#### “SEC. 1116. PRIORITIZATION OF PROJECTS TO IMPROVE FREIGHT MOVEMENT.
+#### "SEC. 1116. PRIORITIZATION OF PROJECTS TO IMPROVE FREIGHT MOVEMENT.
 
-“(a)
+"(a)
 
 In General.—Notwithstanding section 120 of title 23, United States Code, the Secretary may increase the Federal share payable for any project to 95 percent for projects on the Interstate System and 90 percent for any other project if the Secretary certifies that the project meets the requirements of this section.
 
-“(b)
+"(b)
 
 Increased Funding.—To be eligible for the increased Federal funding share under this section, a project shall—
 
-&emsp;“(1) demonstrate the improvement made by the project to the efficient movement of freight, including making progress towards meeting performance targets for freight movement established under section 150(d) of title 23, United States Code; and
+&emsp;"(1) demonstrate the improvement made by the project to the efficient movement of freight, including making progress towards meeting performance targets for freight movement established under section 150(d) of title 23, United States Code; and
 
-&emsp;“(2) be identified in a State freight plan developed pursuant to section 1118.
+&emsp;"(2) be identified in a State freight plan developed pursuant to section 1118.
 
-“(c)
+"(c)
 
 Eligible Projects.—Eligible projects to improve the movement of freight under this section may include, but are not limited to—
 
-&emsp;“(1) construction, reconstruction, rehabilitation, and operational improvements directly relating to improving freight movement;
+&emsp;"(1) construction, reconstruction, rehabilitation, and operational improvements directly relating to improving freight movement;
 
-&emsp;“(2) intelligent transportation systems and other technology to improve the flow of freight;
+&emsp;"(2) intelligent transportation systems and other technology to improve the flow of freight;
 
-&emsp;“(3) efforts to reduce the environmental impacts of freight movement on the primary freight network;
+&emsp;"(3) efforts to reduce the environmental impacts of freight movement on the primary freight network;
 
-&emsp;“(4) railway-highway grade separation;
+&emsp;"(4) railway-highway grade separation;
 
-&emsp;“(5) geometric improvements to interchanges and ramps. \[sic\]
+&emsp;"(5) geometric improvements to interchanges and ramps. \[sic\]
 
-&emsp;“(6) truck-only lanes;
+&emsp;"(6) truck-only lanes;
 
-&emsp;“(7) climbing and runaway truck lanes;
+&emsp;"(7) climbing and runaway truck lanes;
 
-&emsp;“(8) truck parking facilities eligible for funding under section 1401;
+&emsp;"(8) truck parking facilities eligible for funding under section 1401;
 
-&emsp;“(9) real-time traffic, truck parking, roadway condition, and multimodal transportation information systems;
+&emsp;"(9) real-time traffic, truck parking, roadway condition, and multimodal transportation information systems;
 
-&emsp;“(10) improvements to freight intermodal connectors; and
+&emsp;"(10) improvements to freight intermodal connectors; and
 
-&emsp;“(11) improvements to truck bottlenecks.
+&emsp;"(11) improvements to truck bottlenecks.
 
-#### “SEC. 1117. STATE FREIGHT ADVISORY COMMITTEES.
+#### "SEC. 1117. STATE FREIGHT ADVISORY COMMITTEES.
 
-“(a)
+"(a)
 
 In General.—The Secretary shall encourage each State to establish a freight advisory committee consisting of a representative cross-section of public and private sector freight stakeholders, including representatives of ports, shippers, carriers, freight-related associations, the freight industry workforce, the transportation department of the State, and local governments.
 
-“(b)
+"(b)
 
 Role of Committee.—A freight advisory committee of a State described in subsection (a) shall—
 
-&emsp;“(1) advise the State on freight-related priorities, issues, projects, and funding needs;
+&emsp;"(1) advise the State on freight-related priorities, issues, projects, and funding needs;
 
-&emsp;“(2) serve as a forum for discussion for State transportation decisions affecting freight mobility;
+&emsp;"(2) serve as a forum for discussion for State transportation decisions affecting freight mobility;
 
-&emsp;“(3) communicate and coordinate regional priorities with other organizations;
+&emsp;"(3) communicate and coordinate regional priorities with other organizations;
 
-&emsp;“(4) promote the sharing of information between the private and public sectors on freight issues; and
+&emsp;"(4) promote the sharing of information between the private and public sectors on freight issues; and
 
-&emsp;“(5) participate in the development of the freight plan of the State described in section 1118.
+&emsp;"(5) participate in the development of the freight plan of the State described in section 1118.
 
-#### “SEC. 1118. STATE FREIGHT PLANS.
+#### "SEC. 1118. STATE FREIGHT PLANS.
 
-“(a)
+"(a)
 
 In General.—The Secretary shall encourage each State to develop a freight plan that provides a comprehensive plan for the immediate and long-range planning activities and investments of the State with respect to freight.
 
-“(b)
+"(b)
 
 Plan Contents.—A freight plan described in subsection (a) shall include, at a minimum—
 
-&emsp;“(1) an identification of significant freight system trends, needs, and issues with respect to the State;
+&emsp;"(1) an identification of significant freight system trends, needs, and issues with respect to the State;
 
-&emsp;“(2) a description of the freight policies, strategies, and performance measures that will guide the freight-related transportation investment decisions of the State;
+&emsp;"(2) a description of the freight policies, strategies, and performance measures that will guide the freight-related transportation investment decisions of the State;
 
-&emsp;“(3) a description of how the plan will improve the ability of the State to meet the national freight goals established under section 167 of title 23, United States Code;
+&emsp;"(3) a description of how the plan will improve the ability of the State to meet the national freight goals established under section 167 of title 23, United States Code;
 
-&emsp;“(4) evidence of consideration of innovative technologies and operational strategies, including intelligent transportation systems, that improve the safety and efficiency of freight movement;
+&emsp;"(4) evidence of consideration of innovative technologies and operational strategies, including intelligent transportation systems, that improve the safety and efficiency of freight movement;
 
-&emsp;“(5) in the case of routes on which travel by heavy vehicles (including mining, agricultural, energy cargo or equipment, and timber vehicles) is projected to substantially deteriorate the condition of roadways, a description of improvements that may be required to reduce or impede the deterioration; and
+&emsp;"(5) in the case of routes on which travel by heavy vehicles (including mining, agricultural, energy cargo or equipment, and timber vehicles) is projected to substantially deteriorate the condition of roadways, a description of improvements that may be required to reduce or impede the deterioration; and
 
-&emsp;“(6) an inventory of facilities with freight mobility issues, such as truck bottlenecks, within the State, and a description of the strategies the State is employing to address those freight mobility issues.
+&emsp;"(6) an inventory of facilities with freight mobility issues, such as truck bottlenecks, within the State, and a description of the strategies the State is employing to address those freight mobility issues.
 
-“(c)
+"(c)
 
-Relationship to Long-range Plan.—A freight plan described in subsection (a) may be developed separate from or incorporated into the statewide strategic long-range transportation plan required by section 135 of title 23, United States Code.”
+Relationship to Long-range Plan.—A freight plan described in subsection (a) may be developed separate from or incorporated into the statewide strategic long-range transportation plan required by section 135 of title 23, United States Code."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -4,9 +4,9 @@
 
 In this section:
 
-&emsp;(1) The term “Administrator” means the Administrator of the Bonneville Power Administration and the Administrator of the Western Area Power Administration.
+&emsp;(1) The term "Administrator" means the Administrator of the Bonneville Power Administration and the Administrator of the Western Area Power Administration.
 
-&emsp;(2) The term “power marketing administration” means—
+&emsp;(2) The term "power marketing administration" means—
 
 &emsp;&emsp;(A) the Bonneville Power Administration;
 

@@ -6,7 +6,7 @@
 
 &emsp;Notwithstanding any other provision of law, the Secretary may approve any lease or agreement that affects individually owned allotted land or any other land held in trust or restricted status by the Secretary on behalf of an Indian, if—
 
-&emsp;&emsp;(A) the owners of not less than the applicable percentage (determined under subsection (b) of this section) of the undivided interest in the allotted land that is covered by the lease or agreement consent in writing to the lease or agreement; and
+&emsp;&emsp;(A) the owners of not less than the applicable percentage (determined under subsection\(b) of this section) of the undivided interest in the allotted land that is covered by the lease or agreement consent in writing to the lease or agreement; and
 
 &emsp;&emsp;(B) the Secretary determines that approving the lease or agreement is in the best interest of the owners of the undivided interest in the allotted land.
 
@@ -16,7 +16,7 @@
 
 #### (3) Definition
 
-&emsp;In this section, the term “allotted land” includes any land held in trust or restricted status by the Secretary on behalf of one or more Indians.
+&emsp;In this section, the term "allotted land" includes any land held in trust or restricted status by the Secretary on behalf of one or more Indians.
 
 #### (b) Applicable percentage
 
@@ -88,7 +88,7 @@ The Secretary may give written consent to a lease or agreement under subsection 
 
 #### (f) Rule of construction
 
-Nothing in this section shall be construed to amend or modify the provisions of Public Law 105–188 (25 U.S.C. 396 note), the American Indian Agricultural Resources Management Act (25 U.S.C. 3701 et seq.), title II of the Indian Land Consolidation Act Amendments of 2000, or any other Act that provides specific standards for the percentage of ownership interest that must approve a lease or agreement on a specified reservation.
+Nothing in this section shall be construed to amend or modify the provisions of Public Law 105–188 (25 U.S.C. 396 note), the American IndianAgricultural Resources Management Act (25 U.S.C. 3701 et seq.), title II of the Indian Land Consolidation Act Amendments of 2000, or any other Act that provides specific standards for the percentage of ownership interest that must approve a lease or agreement on a specified reservation.
 
 #### (g) Other laws
 
@@ -102,11 +102,11 @@ The American Indian Agricultural Resources Management Act, referred to in subsec
 
 The Indian Land Consolidation Act Amendments of 2000, referred to in subsec. (f), is Pub. L. 106–462, Nov. 7, 2000, 114 Stat. 1991. Title II of the Act enacted provisions classified as a note under section 396 of this title. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 2201 of this title and Tables.
 
-This chapter, referred to in subsec. (g), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (g), was in the original "this Act", which was translated as reading "this title", meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(1)(A). Pub. L. 108–374, §6(a)(10), substituted “90” for “100”.
+<b>2004</b>—Subsec. (b)(1)(A). Pub. L. 108–374, §6(a)(10), substituted "90" for "100".
 
 Subsec. (g). Pub. L. 108–374, §6(a)(11), added subsec. (g).
 

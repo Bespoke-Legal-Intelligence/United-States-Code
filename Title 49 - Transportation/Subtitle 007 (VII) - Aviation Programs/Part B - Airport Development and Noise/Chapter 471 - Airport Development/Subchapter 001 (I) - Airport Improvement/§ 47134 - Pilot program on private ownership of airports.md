@@ -16,7 +16,7 @@ Use of revenues.—
 
 In general.—The Secretary may grant an exemption to a sponsor from the provisions of sections 47107(b) and 47133 of this title (and any other law, regulation, or grant assurance) to the extent necessary to permit the sponsor to recover from the sale or lease of the airport such amount as may be approved—
 
-&emsp;&emsp;&emsp;(i) in the case of a primary airport, by at least 65 percent of the scheduled air carriers serving the airport and by scheduled and nonscheduled air carriers whose aircraft landing at the airport during the preceding calendar year, had a total landed weight during the preceding calendar yearof at least 65 percent of the total landed weight of all aircraft landing at the airport during such year; or
+&emsp;&emsp;&emsp;(i) in the case of a primary airport, by at least 65 percent of the scheduled air carriers serving the airport and by scheduledand nonscheduled air carriers whose aircraft landing at the airport during the preceding calendar year, had a total landed weight during the preceding calendar year of at least 65 percent of the total landed weight of all aircraft landing at the airport during such year; or
 
 &emsp;&emsp;&emsp;(ii) in the case of a nonprimary airport, by the Secretary after the airport has consulted with at least 65 percent of the owners of aircraft based at that airport, as determined by the Secretary.
 
@@ -26,7 +26,7 @@ Objection to exemption.—An air carrier shall be deemed to have approved a spon
 
 &emsp;&emsp;(C)
 
-Landed weight defined.—In this paragraph, the term “landed weight” means the weight of aircraft transporting passengers or cargo, or both, in intrastate, interstate, and foreign air transportation, as the Secretary determines under regulations the Secretary prescribes.
+Landed weight defined.—In this paragraph, the term "landed weight" means the weight of aircraft transporting passengers or cargo, or both, in intrastate, interstate, and foreign air transportation, as the Secretary determines under regulations the Secretary prescribes.
 
 &emsp;(2)
 
@@ -114,7 +114,7 @@ Report.—Not later than 2 years after the date of the initial approval of an ap
 
 (m)
 
-General Aviation Airport Defined.—In this section, the term “general aviation airport” means an airport that is not a commercial service airport.
+General Aviation Airport Defined.—In this section, the term "general aviation airport" means an airport that is not a commercial service airport.
 
 (Added Pub. L. 104–264, title I, §149(a)(1), Oct. 9, 1996, 110 Stat. 3224; amended Pub. L. 108–176, title I, §155(a), Dec. 12, 2003, 117 Stat. 2508; Pub. L. 112–95, title I, §§111(c)(2)(A)(iv), 156, Feb. 14, 2012, 126 Stat. 18, 36.)
 
@@ -124,21 +124,21 @@ The Airport and Airway Improvement Act of 1982, referred to in subsec. (b)(2), i
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–95, §156, substituted “10 airports” for “5 airports” in introductory provisions.
+<b>2012</b>—Subsec. (b). Pub. L. 112–95, §156, substituted "10 airports" for "5 airports" in introductory provisions.
 
-Subsec. (g)(1). Pub. L. 112–95, §111(c)(2)(A)(iv), substituted “charge” for “fee”.
+Subsec. (g)(1). Pub. L. 112–95, §111(c)(2)(A)(iv), substituted "charge" for "fee".
 
 <b>2003</b>—Subsec. (b)(1)(A). Pub. L. 108–176, §155(a)(1), added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
-“(i) by at least 65 percent of the air carriers serving the airport; and
+"(i) by at least 65 percent of the air carriers serving the airport; and
 
-“(ii) by air carriers whose aircraft landing at the airport during the preceding calendar year had a total landed weight during the preceding calendar year of at least 65 percent of the total landed weight of all aircraft landing at the airport during such year.”
+"(ii) by air carriers whose aircraft landing at the airport during the preceding calendar year had a total landed weight during the preceding calendar year of at least 65 percent of the total landed weight of all aircraft landing at the airport during such year."
 
 Subsec. (b)(1)(B), (C). Pub. L. 108–176, §155(a)(2), (3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–176, title I, §155(b), Dec. 12, 2003, 117 Stat. 2508, provided that: “The amendments made by subsection (a) \[amending this section\] shall not affect any application submitted before the date of enactment of this Act \[Dec. 12, 2003\].”
+Pub. L. 108–176, title I, §155(b), Dec. 12, 2003, 117 Stat. 2508, provided that: "The amendments made by subsection (a) \[amending this section\] shall not affect any application submitted before the date of enactment of this Act \[Dec. 12, 2003\]."
 
 #### Effective Date
 
@@ -146,5 +146,5 @@ Except as otherwise specifically provided, section applicable only to fiscal yea
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
-General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 

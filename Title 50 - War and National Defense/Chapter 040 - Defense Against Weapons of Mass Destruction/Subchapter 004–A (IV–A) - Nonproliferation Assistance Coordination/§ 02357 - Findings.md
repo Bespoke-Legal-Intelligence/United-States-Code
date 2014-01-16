@@ -14,5 +14,5 @@ Congress finds that—
 
 #### Short Title
 
-For short title of subtitle C (§§1331–1339) of title XIII of div. B of Pub. L. 107–228, which enacted this subchapter, as the “Nonproliferation Assistance Coordination Act of 2002”, see section 1331 of Pub. L. 107–228, set out as a note under section 2301 of this title.
+For short title of subtitle C (§§1331–1339) of title XIII of div. B of Pub. L. 107–228, which enacted this subchapter, as the "Nonproliferation Assistance Coordination Act of 2002", see section 1331 of Pub. L. 107–228, set out as a note under section 2301 of this title.
 

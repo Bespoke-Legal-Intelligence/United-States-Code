@@ -8,7 +8,7 @@
 | [424\.](%C2%A7%2000424%20-%20Disclosure%20of%20organizational%20and%20personnel%20information%20exemption%20for%20specified%20intelligence%20agencies.md) | Disclosure of organizational and personnel information: exemption for specified intelligence agencies. |
 | [425\.](%C2%A7%2000425%20-%20Prohibition%20of%20unauthorized%20use%20of%20name%2C%20initials%2C%20or%20seal%20specified%20intelligence%20agencies.md) | Prohibition of unauthorized use of name, initials, or seal: specified intelligence agencies. |
 | [426\.](%C2%A7%2000426%20-%20Integration%20of%20Department%20of%20Defense%20intelligence%2C%20surveillance%2C%20and%20reconnaissance%20capabilities.md) | Integration of Department of Defense intelligence, surveillance, and reconnaissance capabilities. |
-| \[427. | Repealed.\] |
+| [427\.](%C2%A7%2000427%20-%20Conflict%20Records%20Research%20Center.md) | Conflict Records Research Center. |
 | [428\.](%C2%A7%2000428%20-%20Defense%20industrial%20security.md) | Defense industrial security. |
 | [429\.](%C2%A7%2000429%20-%20Appropriations%20for%20Defense%20intelligence%20elements%20accounts%20for%20transfers%3B%20transfer%20authority.md) | Appropriations for Defense intelligence elements: accounts for transfers; transfer authority. |
 
@@ -16,35 +16,37 @@
 
 #### Amendments
 
+<b>2013</b>—Pub. L. 113–66, div. A, title X, §1071(b), Dec. 26, 2013, 127 Stat. 868, added item 427.
+
 <b>2012</b>—Pub. L. 112–87, title IV, §433(b), Jan. 3, 2012, 125 Stat. 1895, added item 429.
 
-<b>2011</b>—Pub. L. 112–81, div. A, title X, §1061(4)(B), Dec. 31, 2011, 125 Stat. 1583, struck out item 427 “Intelligence oversight activities of Department of Defense: annual reports”.
+<b>2011</b>—Pub. L. 112–81, div. A, title X, §1061(4)(B), Dec. 31, 2011, 125 Stat. 1583, struck out item 427 "Intelligence oversight activities of Department of Defense: annual reports".
 
 Pub. L. 111–383, div. A, title X, §1075(d)(10), Jan. 7, 2011, 124 Stat. 4373, made technical correction to directory language of Pub. L. 111–84, §921(b)(2). See 2009 Amendment note below.
 
 <b>2009</b>—Pub. L. 111–84, div. A, title X, §1073(a)(5), Oct. 28, 2009, 123 Stat. 2472, redesignated item 438 as 428.
 
-Pub. L. 111–84, div. A, title IX, §921(b)(2), Oct. 28, 2009, 123 Stat. 2432, as amended by Pub. L. 111–383, div. A, title X, §1075(d)(10), Jan. 7, 2011, 124 Stat. 4373, added item 423 and struck out former item 423 “Authority to use proceeds from counterintelligence operations of the military departments”.
+Pub. L. 111–84, div. A, title IX, §921(b)(2), Oct. 28, 2009, 123 Stat. 2432, as amended by Pub. L. 111–383, div. A, title X, §1075(d)(10), Jan. 7, 2011, 124 Stat. 4373, added item 423 and struck out former item 423 "Authority to use proceeds from counterintelligence operations of the military departments".
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title VIII, §845(a)(2), Oct. 14, 2008, 122 Stat. 4542, added item 438.
 
 <b>2006</b>—Pub. L. 109–364, div. A, title IX, §932(b), Oct. 17, 2006, 120 Stat. 2363, added item 427.
 
-<b>2003</b>—Pub. L. 108–136, div. A, title IX, §§921(d)(5)(B)(ii), 923(c)(2), Nov. 24, 2003, 117 Stat. 1569, 1576, substituted “Disclosure of organizational and personnel information: exemption for specified intelligence agencies” for “Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency, National Reconnaissance Office, and National Imagery and Mapping Agency” in item 424 and added item 426.
+<b>2003</b>—Pub. L. 108–136, div. A, title IX, §§921(d)(5)(B)(ii), 923(c)(2), Nov. 24, 2003, 117 Stat. 1569, 1576, substituted "Disclosure of organizational and personnel information: exemption for specified intelligence agencies" for "Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency, National Reconnaissance Office, and National Imagery and Mapping Agency" in item 424 and added item 426.
 
-<b>2001</b>—Pub. L. 107–108, title V, §501(b)(3), Dec. 28, 2001, 115 Stat. 1404, substituted “Use of funds for certain incidental purposes” for “Counterintelligence official reception and representation expenses” in item 422.
+<b>2001</b>—Pub. L. 107–108, title V, §501(b)(3), Dec. 28, 2001, 115 Stat. 1404, substituted "Use of funds for certain incidental purposes" for "Counterintelligence official reception and representation expenses" in item 422.
 
-<b>1997</b>—Pub. L. 105–107, title V, §503(d)(2), Nov. 20, 1997, 111 Stat. 2263, added items 424 and 425 and struck out former items 424 “Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency” and 425 “Disclosure of personnel information: exemption for National Reconnaissance Office”.
+<b>1997</b>—Pub. L. 105–107, title V, §503(d)(2), Nov. 20, 1997, 111 Stat. 2263, added items 424 and 425 and struck out former items 424 "Disclosure of organizational and personnel information: exemption for Defense Intelligence Agency" and 425 "Disclosure of personnel information: exemption for National Reconnaissance Office".
 
 <b>1993</b>—Pub. L. 103–178, title V, §503(a)(2), Dec. 3, 1993, 107 Stat. 2039, added item 425.
 
 <b>1991</b>—Pub. L. 102–88, title V, §504(a)(1), Aug. 14, 1991, 105 Stat. 437, added subchapter heading.
 
-<b>1989</b>—Pub. L. 101–189, div. A, title XVI, §1622(c)(2), Nov. 29, 1989, 103 Stat. 1604, substituted “Funds for foreign cryptologic support” for “Funds for Foreign Cryptologic Support” in item 421.
+<b>1989</b>—Pub. L. 101–189, div. A, title XVI, §1622(c)(2), Nov. 29, 1989, 103 Stat. 1604, substituted "Funds for foreign cryptologic support" for "Funds for Foreign Cryptologic Support" in item 421.
 
-<b>1988</b>—Pub. L. 100–453, title VII, §§701(b), 703(b), Sept. 29, 1988, 102 Stat. 1912, 1913, in item 421 substituted “Funds for Foreign Cryptologic Support” for “Funds transfers for foreign cryptologic support” and added item 424.
+<b>1988</b>—Pub. L. 100–453, title VII, §§701(b), 703(b), Sept. 29, 1988, 102 Stat. 1912, 1913, in item 421 substituted "Funds for Foreign Cryptologic Support" for "Funds transfers for foreign cryptologic support" and added item 424.
 
-<b>1987</b>—Pub. L. 100–180, div. A, title XII, §1231(3), Dec. 4, 1987, 101 Stat. 1160, substituted “departments” for “department” in item 423.
+<b>1987</b>—Pub. L. 100–180, div. A, title XII, §1231(3), Dec. 4, 1987, 101 Stat. 1160, substituted "departments" for "department" in item 423.
 
 
 ---
@@ -57,6 +59,6 @@ Pub. L. 111–84, div. A, title IX, §921(b)(2), Oct. 28, 2009, 123 Stat. 2432, 
 - [&sect; 00424 - Disclosure of organizational and personnel information exemption for specified intelligence agencies](%C2%A7%2000424%20-%20Disclosure%20of%20organizational%20and%20personnel%20information%20exemption%20for%20specified%20intelligence%20agencies.md)
 - [&sect; 00425 - Prohibition of unauthorized use of name, initials, or seal specified intelligence agencies](%C2%A7%2000425%20-%20Prohibition%20of%20unauthorized%20use%20of%20name%2C%20initials%2C%20or%20seal%20specified%20intelligence%20agencies.md)
 - [&sect; 00426 - Integration of Department of Defense intelligence, surveillance, and reconnaissance capabilities](%C2%A7%2000426%20-%20Integration%20of%20Department%20of%20Defense%20intelligence%2C%20surveillance%2C%20and%20reconnaissance%20capabilities.md)
-- [&sect; 00427 - Repealed. Pub. L. 112&#8211;81, div. A, title X, &sect;1061(4)(A), Dec. 31, 2011, 125 Stat. 1583](%C2%A7%2000427%20-%20Repealed.%20Pub.%20L.%20112%E2%80%9381%2C%20div.%20A%2C%20title%20X%2C%20%C2%A71061%284%29%28A%29%2C%20Dec.%2031%2C%202011%2C%20125%20Stat.%201583.md)
+- [&sect; 00427 - Conflict Records Research Center](%C2%A7%2000427%20-%20Conflict%20Records%20Research%20Center.md)
 - [&sect; 00428 - Defense industrial security](%C2%A7%2000428%20-%20Defense%20industrial%20security.md)
 - [&sect; 00429 - Appropriations for Defense intelligence elements accounts for transfers; transfer authority](%C2%A7%2000429%20-%20Appropriations%20for%20Defense%20intelligence%20elements%20accounts%20for%20transfers%3B%20transfer%20authority.md)

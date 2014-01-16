@@ -34,7 +34,7 @@ Disbursal.—Any gift, devise, or bequest made for the benefit of a particular n
 
 &emsp;&emsp;(ii)
 
-Matching.—Subject to the availability of appropriations and the requirements ofthe National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match gifts, devises, and bequests made for the benefit of a particular national wildlife refuge or complex of geographically related refuges. With respect to each gift, devise, or bequest, the amount of Federal funds may not exceed the amount (or, in the case of property or in-kind services, the fair market value) of the gift, devise, or bequest.
+Matching.—Subject to the availability of appropriations and the requirements of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match gifts, devises, and bequests made for the benefit of a particular national wildlife refuge or complex of geographically related refuges. With respect to each gift, devise, or bequest, the amount of Federal funds may not exceed the amount (or, in the case of property or in-kind services, the fair market value) of the gift, devise, or bequest.
 
 (3) For the purpose of Federal income, estate, and gift taxes, property, or proceeds therefrom, or interests therein, accepted under this subsection shall be considered as a gift or bequest to the United States.
 
@@ -48,7 +48,7 @@ Matching.—Subject to the availability of appropriations and the requirements o
 
 (4) For the purpose of the tort claim provisions of title 28, a volunteer under this subsection shall be considered a Federal employee.
 
-(5) For the purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federal employees for work injuries, volunteers under this subsection shall be deemed employees of the United States within the meaning of the term “employees” as defined in section 8101 of title 5, and the provisions of that subchapter shall apply.
+(5) For the purposes of subchapter I of chapter 81 of title 5, relating to compensation to Federal employees for work injuries, volunteers under this subsection shall be deemed employees of the United States within the meaning of the term "employees" as defined in section 8101 of title 5, and the provisions of that subchapter shall apply.
 
 (6)
 
@@ -58,7 +58,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (1) Definition of partner organization
 
-&emsp;In this subsection, the term “partner organization” means an organization that—
+&emsp;In this subsection, the term "partner organization" means an organization that—
 
 &emsp;&emsp;(A) draws its membership from private individuals, organizations, corporations, academic institutions, or State or local governments;
 
@@ -90,7 +90,7 @@ Senior volunteer corps.—The Secretary of the Interior may establish a Senior V
 
 #### (i) Matching
 
-&emsp;&emsp;&emsp;Subject to the availability of appropriations and the requirements of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match non-Federal fundsdonated under a cooperative agreement under this paragraph. With respect to each project or program, the amount of funds provided by the Secretary may not exceed the amount of the non-Federal funds donated through the project or program.
+&emsp;&emsp;&emsp;Subject to the availability of appropriations and the requirements of the National Wildlife Refuge System Administration Act of 1966 (16 U.S.C. 668dd et seq.) and other applicable law, the Secretary may provide funds to match non-Federal funds donated under a cooperative agreement under this paragraph. With respect to each project or program, the amount of funds provided by the Secretary may not exceed the amount of the non-Federal funds donated through the project or program.
 
 #### (ii) Use of Federal funds
 
@@ -142,33 +142,33 @@ The National Wildlife Refuge System Administration Act of 1966, referred to in s
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(2)(B)(ii). Pub. L. 111–357, §2(b), substituted “National Wildlife Refuge System Administration Act of 1966” for “National Wildlife Refuge Administration Act of 1966”.
+<b>2011</b>—Subsec. (b)(2)(B)(ii). Pub. L. 111–357, §2(b), substituted "National Wildlife Refuge System Administration Act of 1966" for "National Wildlife Refuge Administration Act of 1966".
 
-Subsec. (d)(2)(C)(i). Pub. L. 111–357, §2(b), substituted “National Wildlife Refuge System Administration Act of 1966” for “National Wildlife Refuge Administration Act of 1966”.
+Subsec. (d)(2)(C)(i). Pub. L. 111–357, §2(b), substituted "National Wildlife Refuge System Administration Act of 1966" for "National Wildlife Refuge Administration Act of 1966".
 
 Subsec. (f). Pub. L. 111–357, §4(a)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Pub. L. 111–357, §2(a), amended subsec. (f) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), and (e) of this section $2,000,000 for each of fiscal years 2004 through 2009.”
+Pub. L. 111–357, §2(a), amended subsec. (f) generally. Prior to amendment, text read as follows: "There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), and (e) of this section $2,000,000 for each of fiscal years 2004 through 2009."
 
 Subsec. (g). Pub. L. 111–357, §4(a)(1), redesignated subsec. (f) as (g).
 
-<b>2004</b>—Subsec. (d)(2)(A). Pub. L. 108–327, §4, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary of the Interior may enter into a cooperative agreement (within the meaning of chapter 63 of title 31) with any partner organization, academic institution, or State or local government agency to carry out 1 ormore projects or programs for a refuge or complex of geographically related refuges in accordance with this subsection.”
+<b>2004</b>—Subsec. (d)(2)(A). Pub. L. 108–327, §4, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The Secretary of the Interior may enter into a cooperative agreement (within the meaning of chapter 63 of title 31) with any partner organization, academic institution, or State or local government agency to carry out 1 or more projects or programs for a refuge or complex of geographically related refuges in accordance with this subsection."
 
-Subsec. (f). Pub. L. 108–327, §2, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), and (e) of this section $2,000,000 for each of fiscal years 1999 through 2004.”
+Subsec. (f). Pub. L. 108–327, §2, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "There is authorized to be appropriated to the Secretary of the Interior to carry out subsections (b), (c), (d), and (e) of this section $2,000,000 for each of fiscal years 1999 through 2004."
 
 <b>1998</b>—Subsec. (b)(2). Pub. L. 105–242, §3, inserted par. (2) heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
 
-Subsec. (c)(2). Pub. L. 105–242, §4(b), inserted “awards (including nominal cash awards) and recognition,” after “lodging,” and “without regard to their places of residence” after “volunteers”.
+Subsec. (c)(2). Pub. L. 105–242, §4(b), inserted "awards (including nominal cash awards) and recognition," after "lodging," and "without regard to their places of residence" after "volunteers".
 
-Subsec. (c)(6). Pub. L. 105–242, §4(c), added par. (6) and struck out former par. (6) which read as follows: “There are authorized to be appropriated to carry out this subsection $100,000 for the Secretary of the Interior and $50,000 for the Secretary of Commerce for each of the fiscal years 1980, 1981, 1982, 1983, 1984, 1985, and 1986.”
+Subsec. (c)(6). Pub. L. 105–242, §4(c), added par. (6) and struck out former par. (6) which read as follows: "There are authorized to be appropriated to carry out this subsection $100,000 for the Secretary of the Interior and $50,000 for the Secretary of Commerce for each of the fiscal years 1980, 1981, 1982, 1983, 1984, 1985, and 1986."
 
 Subsecs. (d) to (f). Pub. L. 105–242, §§5–7, added subsecs. (d) to (f).
 
-<b>1984</b>—Subsec. (c)(6). Pub. L. 98–498 substituted “1984, 1985, and 1986” for “and 1984”.
+<b>1984</b>—Subsec. (c)(6). Pub. L. 98–498 substituted "1984, 1985, and 1986" for "and 1984".
 
-<b>1983</b>—Subsec. (c)(6). Pub. L. 98–44 substituted “, 1983, and 1984” for “and 1983”.
+<b>1983</b>—Subsec. (c)(6). Pub. L. 98–44 substituted ", 1983, and 1984" for "and 1983".
 
-<b>1982</b>—Subsec. (c)(6). Pub. L. 97–347 substituted “1982 and 1983” for “and 1982”.
+<b>1982</b>—Subsec. (c)(6). Pub. L. 97–347 substituted "1982 and 1983" for "and 1982".
 
 <b>1978</b>—Subsec. (a)(4). Pub. L. 95–616, §4(1), reenacted existing provisions, substituting reference to fish resources for prior reference to fisheries resources and incorporated provisions of par. (5) relating to wildlife resources, substituting reference to acquisition by purchase or exchange of land and water for prior reference to acquisition of refuge lands.
 
@@ -184,27 +184,27 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior by
 
 Pub. L. 105–242, §2, Oct. 5, 1998, 112 Stat. 1574, provided that:
 
-“(a)
+"(a)
 
 Findings.—Congress finds that—
 
-&emsp;“(1) the National Wildlife Refuge System (referred to in this Act \[amending this section and enacting provisions set out as notes under this section and section 742a of this title\] as the ‘System’), consisting of more than 500 refuges and 93,000,000 acres, plays an integral role in the protection of the natural resources of the United States;
+&emsp;"(1) the National Wildlife Refuge System (referred to in this Act \[amending this section and enacting provisions set out as notes under this section and section 742a of this title\] as the 'System'), consisting of more than 500 refuges and 93,000,000 acres, plays an integral role in the protection of the natural resources of the United States;
 
-&emsp;“(2) the National Wildlife Refuge System Improvement Act of 1997 (Public Law 105–57; 111 Stat. 1252) \[see Tables for classification\] significantly improved the law governing the System, although the financial resources for implementing this law and managing the System remain limited;
+&emsp;"(2) the National Wildlife Refuge System Improvement Act of 1997 (Public Law 105–57; 111 Stat. 1252) \[see Tables for classification\] significantly improved the law governing the System, although the financial resources for implementing this law and managing the System remain limited;
 
-&emsp;“(3) by encouraging volunteer programs and donations, and facilitating non-Federal partnerships with refuges, Federal funding for the refuges can be supplemented and the System can fully benefit from the amendments made by the National Wildlife Refuge System Improvement Act of 1997; and
+&emsp;"(3) by encouraging volunteer programs and donations, and facilitating non-Federal partnerships with refuges, Federal funding for the refuges can be supplemented and the System can fully benefit from the amendments made by the National Wildlife Refuge System Improvement Act of 1997; and
 
-&emsp;“(4) by encouraging refuge educational programs, public awareness of the resources of the System and public participation in the conservation of those resources can be promoted.
+&emsp;"(4) by encouraging refuge educational programs, public awareness of the resources of the System and public participation in the conservation of those resources can be promoted.
 
-“(b)
+"(b)
 
 Purposes.—The purposes of this Act are—
 
-&emsp;“(1) to encourage the use of volunteers to assist the United States Fish and Wildlife Service in the management of refuges within the System;
+&emsp;"(1) to encourage the use of volunteers to assist the United States Fish and Wildlife Service in the management of refuges within the System;
 
-&emsp;“(2) to facilitate partnerships between the System and non-Federal entities to promote public awareness of the resources of the System and public participation in the conservation of those resources; and
+&emsp;"(2) to facilitate partnerships between the System and non-Federal entities to promote public awareness of the resources of the System and public participation in the conservation of those resources; and
 
-&emsp;“(3) to encourage donations and other contributions by persons and organizations to the System.”
+&emsp;"(3) to encourage donations and other contributions by persons and organizations to the System."
 
 #### Pilot Projects
 

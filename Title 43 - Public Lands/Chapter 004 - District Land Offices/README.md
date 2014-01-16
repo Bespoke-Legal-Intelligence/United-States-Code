@@ -23,7 +23,7 @@
 | [100\.](%C2%A7%2000100%20-%20Disqualification.md) | Disqualification. |
 | [101\.](%C2%A7%2000101%20-%20Report%20of%20disqualification%3B%20designation%20of%20officer%20to%20act.md) | Report of disqualification; designation of officer to act. |
 | [102\.](%C2%A7%2000102%20-%20Attendance%20of%20witnesses.md) | Attendance of witnesses. |
-| [103\.](%C2%A7%2000103%20-%20Witnesses%E2%80%99%20fees.md) | Witnesses’ fees. |
+| [103\.](%C2%A7%2000103%20-%20Witnesses%27%20fees.md) | Witnesses' fees. |
 | [104\.](%C2%A7%2000104%20-%20Disobedience%20to%20subpoena.md) | Disobedience to subpoena. |
 | [105\.](%C2%A7%2000105%20-%20Depositions%20of%20witnesses%20residing%20outside%20county.md) | Depositions of witnesses residing outside county. |
 | [106\.](%C2%A7%2000106%20-%20Continuing%20taking%20of%20depositions%20in%20behalf%20of%20opposite%20party.md) | Continuing taking of depositions in behalf of opposite party. |
@@ -61,7 +61,7 @@
 - [&sect; 00100 - Disqualification](%C2%A7%2000100%20-%20Disqualification.md)
 - [&sect; 00101 - Report of disqualification; designation of officer to act](%C2%A7%2000101%20-%20Report%20of%20disqualification%3B%20designation%20of%20officer%20to%20act.md)
 - [&sect; 00102 - Attendance of witnesses](%C2%A7%2000102%20-%20Attendance%20of%20witnesses.md)
-- [&sect; 00103 - Witnesses&#8217; fees](%C2%A7%2000103%20-%20Witnesses%E2%80%99%20fees.md)
+- [&sect; 00103 - Witnesses' fees](%C2%A7%2000103%20-%20Witnesses%27%20fees.md)
 - [&sect; 00104 - Disobedience to subpoena](%C2%A7%2000104%20-%20Disobedience%20to%20subpoena.md)
 - [&sect; 00105 - Depositions of witnesses residing outside county](%C2%A7%2000105%20-%20Depositions%20of%20witnesses%20residing%20outside%20county.md)
 - [&sect; 00106 - Continuing taking of depositions in behalf of opposite party](%C2%A7%2000106%20-%20Continuing%20taking%20of%20depositions%20in%20behalf%20of%20opposite%20party.md)

@@ -54,7 +54,7 @@ Jurisdiction.—There is jurisdiction over the offenses in subsection (a) if—
 
 &emsp;&emsp;(E) the offense is committed against a state or government facility of the United States, including an embassy or other diplomatic or consular premises of the United States;
 
-&emsp;&emsp;(F) the offense is committed on board a vessel flying the flag of the United States or an aircraft which is registered under the laws of the United States at the time the offense is committed; or
+&emsp;&emsp;(F) the offense is committed on board a vessel flying the flag of the United States oran aircraft which is registered under the laws of the United States at the time the offense is committed; or
 
 &emsp;&emsp;(G) the offense is committed on board an aircraft which is operated by the United States.
 
@@ -76,29 +76,29 @@ Exemptions to Jurisdiction.—This section does not apply to—
 
 Definitions.—As used in this section, the term—
 
-&emsp;(1) “serious bodily injury” has the meaning given that term in section 1365(g)(3) of this title; <sup>1</sup>
+&emsp;(1) "serious bodily injury" has the meaning given that term in section 1365(g)(3) of this title; <sup>1</sup>
 
-&emsp;(2) “national of the United States” has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
+&emsp;(2) "national of the United States" has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
 
-&emsp;(3) “state or government facility” includes any permanent or temporary facility or conveyance that is used or occupied by representatives of a state, members of Government, the legislature or the judiciary or by officials or employees of a state or any other public authority or entity or by employees or officials of an intergovernmental organization in connection with their official duties;
+&emsp;(3) "state or government facility" includes any permanent or temporary facility or conveyance that is used or occupied by representatives of a state, members of Government, the legislature or the judiciary or by officials or employees of a state or any other public authority or entity or by employees or officials of an intergovernmental organization in connection with their official duties;
 
-&emsp;(4) “intergovernmental organization” includes international organization (as defined in section 1116(b)(5) of this title);
+&emsp;(4) "intergovernmental organization" includes international organization (as defined in section 1116(b)(5) of this title);
 
-&emsp;(5) “infrastructure facility” means any publicly or privately owned facility providing or distributing services for the benefit of the public, such as water, sewage, energy, fuel, or communications;
+&emsp;(5) "infrastructure facility" means any publicly or privately owned facility providing or distributing services for the benefit of the public, such as water, sewage, energy, fuel, or communications;
 
-&emsp;(6) “place of public use” means those parts of any building, land, street, waterway, or other location that are accessible or open to members of the public, whether continuously, periodically, or occasionally, and encompasses any commercial, business, cultural, historical, educational, religious, governmental, entertainment, recreational, or similar place that is so accessible or open to the public;
+&emsp;(6) "place of public use" means those parts of any building, land, street, waterway, or other location that are accessible or open to members of the public, whether continuously, periodically, or occasionally, and encompasses any commercial, business, cultural, historical, educational, religious, governmental, entertainment, recreational, or similar place that is so accessible or open to the public;
 
-&emsp;(7) “public transportation system” means all facilities, conveyances, and instrumentalities, whether publicly or privately owned, that are used in or for publicly available services for the transportation of persons or cargo;
+&emsp;(7) "public transportation system" means all facilities, conveyances, and instrumentalities, whether publicly or privately owned, that are used in or for publicly available services for the transportation of persons or cargo;
 
-&emsp;(8) “explosive” has the meaning given in section 844(j) of this title insofar that it is designed, or has the capability, to cause death, serious bodily injury, or substantial material damage;
+&emsp;(8) "explosive" has the meaning given in section 844(j) of this title insofar that it is designed, or has the capability, to cause death, serious bodily injury, or substantial material damage;
 
-&emsp;(9) “other lethal device” means any weapon or device that is designed or has the capability to cause death, serious bodily injury, or substantial damage to property through the release, dissemination, or impact of toxic chemicals, biological agents, or toxins (as those terms are defined in section 178 of this title) or radiation or radioactive material;
+&emsp;(9) "other lethal device" means any weapon or device that is designed or has the capability to cause death, serious bodily injury, or substantial damage to property through the release, dissemination, or impact of toxic chemicals, biological agents, or toxins (as those terms are defined in section 178 of this title) or radiation or radioactive material;
 
-&emsp;(10) “military forces of a state” means the armed forces of a state which are organized, trained, and equipped under its internal law for the primary purpose of national defense or security, and persons acting in support of those armed forces who are under their formal command, control, and responsibility;
+&emsp;(10) "military forces of a state" means the armed forces of a state which are organized, trained, and equipped under its internal law for the primary purpose of national defense or security, and persons acting in support of those armed forces who are under their formal command, control, and responsibility;
 
-&emsp;(11) “armed conflict” does not include internal disturbances and tensions, such as riots, isolated and sporadic acts of violence, and other acts of a similar nature; and
+&emsp;(11) "armed conflict" does not include internal disturbances and tensions, such as riots, isolated and sporadic acts of violence, and other acts of a similar nature; and
 
-&emsp;(12) “state” has the same meaning as that term has under international law, and includes all political subdivisions thereof.
+&emsp;(12) "state" has the same meaning as that term has under international law, and includes all political subdivisions thereof.
 
 (Added Pub. L. 107–197, title I, §102(a), June 25, 2002, 116 Stat. 721.)
 
@@ -108,11 +108,11 @@ Section 1365(g)(3), referred to in subsec. (e)(1), was redesignated section 1365
 
 #### Effective Date
 
-Pub. L. 107–197, title I, §103, June 25, 2002, 116 Stat. 724, provided that: “Section 102 \[enacting this section and provisions set out as a note below\] shall take effect on the date that the International Convention for the Suppression of Terrorist Bombings enters into force for the United States \[July 26, 2002\].”
+Pub. L. 107–197, title I, §103, June 25, 2002, 116 Stat. 724, provided that: "Section 102 \[enacting this section and provisions set out as a note below\] shall take effect on the date that the International Convention for the Suppression of Terrorist Bombings enters into force for the United States \[July 26, 2002\]."
 
 #### Disclaimer
 
-Pub. L. 107–197, title I, §102(c), June 25, 2002, 116 Stat. 724, provided that: “Nothing contained in this section \[enacting this section and provisions set out as a note above\] is intended to affect the applicability of any other Federal or State law which might pertain to the underlying conduct.”
+Pub. L. 107–197, title I, §102(c), June 25, 2002, 116 Stat. 724, provided that: "Nothing contained in this section \[enacting this section and provisions set out as a note above\] is intended to affect the applicability of any other Federal or State law which might pertain to the underlying conduct."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

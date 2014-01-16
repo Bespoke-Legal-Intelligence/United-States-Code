@@ -122,7 +122,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (A) Commodity Credit Corporation stocks
 
-&emsp;&emsp;If stocks of a commodity acquired by the Commodity Credit Corporation are not readily available to make full payment in kind to the owner or operator, the Secretary maysubstitute full or partial payment in cash for payment in kind.
+&emsp;&emsp;If stocks of a commodity acquired by the Commodity Credit Corporation are not readily available to make full payment in kind to the owner or operator, the Secretary may substitute full or partial payment in cash for payment in kind.
 
 #### (B) Special conservation reserve enhancement program
 
@@ -176,19 +176,19 @@ A prior section 3834, Pub. L. 99–198, title XII, §1234, Dec. 23, 1985, 99 Sta
 
 <b>2008</b>—Subsec. (b)(3). Pub. L. 110–246, §2109, added par. (3) and struck out former par. (3) which related to the making of payments to an owner or operator of land devoted to the production of hardwood trees, windbreaks, shelterbelts, or wildlife corridors.
 
-Subsec. (c)(3). Pub. L. 110–246, §2110(a), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “In determining the acceptability of contract offers, the Secretary may—
+Subsec. (c)(3). Pub. L. 110–246, §2110(a), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "In determining the acceptability of contract offers, the Secretary may—
 
-&emsp;“(A) take into consideration the extent to which enrollment of the land that is the subject of the contract offer would improve soil resources, water quality, wildlife habitat, or provide other environmental benefits; and
+&emsp;"(A) take into consideration the extent to which enrollment of the land that is the subject of the contract offer would improve soil resources, water quality, wildlife habitat, or provide other environmental benefits; and
 
-&emsp;“(B) establish different criteria in various States and regions of the United States based on the extent to which water quality or wildlife habitat may be improved or erosion may be abated.”
+&emsp;"(B) establish different criteria in various States and regions of the United States based on the extent to which water quality or wildlife habitat may be improved or erosion may be abated."
 
 Subsec. (c)(5). Pub. L. 110–246, §2110(b)(1), added par. (5).
 
-Subsec. (f)(1). Pub. L. 110–246, §2110(c)(1), substituted “received by a person or legal entity, directly or indirectly,” for “made to a person”.
+Subsec. (f)(1). Pub. L. 110–246, §2110(c)(1), substituted "received by a person or legal entity, directly or indirectly," for "made to a person".
 
-Subsec. (f)(2). Pub. L. 110–246, §2110(c)(2), struck out par. (2) which related to promulgation of regulations defining the term “person” as used in subsec. (f) and providing terms and conditions determined necessary to ensure a fair and reasonable application of the subsec. (f) limitation.
+Subsec. (f)(2). Pub. L. 110–246, §2110(c)(2), struck out par. (2) which related to promulgation of regulations defining the term "person" as used in subsec. (f) and providing terms and conditions determined necessary to ensure a fair and reasonable application of the subsec. (f) limitation.
 
-Subsec. (f)(4)(A). Pub. L. 110–246, §2110(c)(3), substituted “any person or legal entity” for “any person”.
+Subsec. (f)(4)(A). Pub. L. 110–246, §2110(c)(3), substituted "any person or legal entity" for "any person".
 
 #### Effective Date of 2008 Amendment
 
@@ -196,7 +196,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### First Survey Pursuant to Subsection (c)(5)
 
-Pub. L. 110–234, title II, §2110(b)(2), May 22, 2008, 122 Stat. 1035, and Pub. L. 110–246, §4(a), title II, §2110(b)(2), June 18, 2008, 122 Stat. 1664, 1763, provided that: “The first survey required by paragraph (5) of section 1234(c)of the Food Security Act of 1985 (16 U.S.C. 3834(c)), as added by subsection (a), shall be conducted not later than 1 year after the date of enactment of this Act \[June 18, 2008\].”
+Pub. L. 110–234, title II, §2110(b)(2), May 22, 2008, 122 Stat. 1035, and Pub. L. 110–246, §4(a), title II, §2110(b)(2), June 18, 2008, 122 Stat. 1664, 1763, provided that: "The first survey required by paragraph (5) of section 1234(c) of the Food Security Act of 1985 (16 U.S.C. 3834(c)), as added by subsection (a), shall be conducted not later than 1 year after the date of enactment of this Act \[June 18, 2008\]."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 

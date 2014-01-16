@@ -36,7 +36,7 @@
 | [441i.](Subchapter%20001%20%28I%29%20-%20Disclosure%20of%20Federal%20Campaign%20Funds/%C2%A7%2000441i%20-%20Soft%20money%20of%20political%20parties.md) | Soft money of political parties. |
 | [441j.](Subchapter%20001%20%28I%29%20-%20Disclosure%20of%20Federal%20Campaign%20Funds/%C2%A7%2000441j%20-%20Repealed.%20Pub.%20L.%2096%E2%80%93187%2C%20title%20I%2C%20%C2%A7105%281%29%2C%20Jan.%208%2C%201980%2C%2093%20Stat.%201354.md) | Repealed. |
 | [441k.](Subchapter%20001%20%28I%29%20-%20Disclosure%20of%20Federal%20Campaign%20Funds/%C2%A7%2000441k%20-%20Prohibition%20of%20contributions%20by%20minors.md) | Prohibition of contributions by minors. |
-| [442\.](Subchapter%20001%20%28I%29%20-%20Disclosure%20of%20Federal%20Campaign%20Funds/%C2%A7%2000442%20-%20Authority%20to%20procure%20technical%20support%20and%20other%20services%20and%20incur%20travel%20expenses%3B%20payment%20of%20such%20expenses.md) | Authority to procure technical support and other services and incur travel expenses; payment of such expenses. |
+| [442\.](Subchapter%20001%20%28I%29%20-%20Disclosure%20of%20Federal%20Campaign%20Funds/%C2%A7%2000442%20-%20Transferred.md) | Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

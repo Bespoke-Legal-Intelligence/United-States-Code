@@ -20,7 +20,7 @@ The Secretary, in consultation with the Secretary of Defense, shall, not later t
 
 #### (c) Exception
 
-The requirements of this section do not apply to a private secondary school that maintains areligious objection to service in the Armed Forces if the objection is verifiable through the corporate or other organizational documents or materials of that school.
+The requirements of this section do not apply to a private secondary school that maintains a religious objection to service in the Armed Forces if the objection is verifiable through the corporate or other organizational documents or materials of that school.
 
 #### (d) Special rule
 

@@ -14,17 +14,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §7140, substituted “2012” for “2007”.
+<b>2008</b>—Pub. L. 110–246, §7140, substituted "2012" for "2007".
 
-<b>2002</b>—Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Pub. L. 107–171 substituted "2007" for "2002".
 
-<b>1998</b>—Pub. L. 105–185 substituted “2002” for “1997”.
+<b>1998</b>—Pub. L. 105–185 substituted "2002" for "1997".
 
-<b>1996</b>—Pub. L. 104–127 substituted “1997” for “1995”.
+<b>1996</b>—Pub. L. 104–127 substituted "1997" for "1995".
 
-<b>1990</b>—Pub. L. 101–624 substituted “each of the fiscal years 1991 through 1995” for “each fiscal year beginning after the effective date of this subchapter, and ending with the fiscal year ending September 30, 1990” and inserted at end “Funds appropriated under this section or section 3323 of this title may not be used to acquire or construct a building.”
+<b>1990</b>—Pub. L. 101–624 substituted "each of the fiscal years 1991 through 1995" for "each fiscal year beginning after the effective date of this subchapter, and ending with the fiscal year ending September 30, 1990" and inserted at end "Funds appropriated under this section or section 3323 of this title may not be used to acquire or construct a building."
 
-<b>1985</b>—Pub. L. 99–198 in amending section generally, struck out subsec. (a) designation, substituted “fiscal year ending September 30, 1990” for “fiscal year ending September 30, 1985, and not in excess of such sums as may after December 22, 1981, be authorized by law for any subsequent fiscal year”, and struck out subsec. (b) relating to allocation of funds and consultations by Secretary with Board in development of plans for use of funds.
+<b>1985</b>—Pub. L. 99–198 in amending section generally, struck out subsec. (a) designation, substituted "fiscal year ending September 30, 1990" for "fiscal year ending September 30, 1985, and not in excess of such sums as may after December 22, 1981, be authorized by law for any subsequent fiscal year", and struck out subsec. (b) relating to allocation of funds and consultations by Secretary with Board in development of plans for use of funds.
 
 #### Effective Date of 2008 Amendment
 

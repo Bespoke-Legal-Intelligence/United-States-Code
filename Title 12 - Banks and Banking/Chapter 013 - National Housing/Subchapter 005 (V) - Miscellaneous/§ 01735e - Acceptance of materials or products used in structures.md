@@ -6,5 +6,5 @@ The Secretary shall adopt a uniform procedure for the acceptance of materials an
 
 #### Amendments
 
-<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing.
+<b>1967</b>—Pub. L. 90–19 substituted "Secretary" for "Commissioner" wherever appearing.
 

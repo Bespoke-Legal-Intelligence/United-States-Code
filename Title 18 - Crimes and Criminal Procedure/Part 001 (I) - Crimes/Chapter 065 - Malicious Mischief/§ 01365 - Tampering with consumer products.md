@@ -14,7 +14,7 @@
 
 (c)(1) Whoever knowingly communicates false information that a consumer product has been tainted, if such product or the results of such communication affect interstate or foreign commerce, and if such tainting, had it occurred, would create a risk of death or bodily injury to another person, shall be fined under this title or imprisoned not more than five years, or both.
 
-(2) As used in paragraph (1) of this subsection, the term “communicates false information” means communicates information that is false and that the communicator knows is false, under circumstances in which the information may reasonably be expected to be believed.
+(2) As used in paragraph (1) of this subsection, the term "communicates false information" means communicates information that is false and that the communicator knows is false, under circumstances in which the information may reasonably be expected to be believed.
 
 (d) Whoever knowingly threatens, under circumstances in which the threat may reasonably be expected to be believed, that conduct that, if it occurred, would violate subsection (a) of this section will occur, shall be fined under this title or imprisoned not more than five years, or both.
 
@@ -24,21 +24,21 @@
 
 (2) Notwithstanding the provisions of paragraph (1), if any person commits a violation of this subsection after a prior conviction under this section becomes final, such person shall be fined under this title, imprisoned for not more than 3 years, or both.
 
-(3) In this subsection, the term “writing” means any form of representation or communication, including hand-bills, notices, or advertising, that contain letters, words, or pictorial representations.
+(3) In this subsection, the term "writing" means any form of representation or communication, including hand-bills, notices, or advertising, that contain letters, words, or pictorial representations.
 
 (g) In addition to any other agency which has authority to investigate violations of this section, the Food and Drug Administration and the Department of Agriculture, respectively, have authority to investigate violations of this section involving a consumer product that is regulated by a provision of law such Administration or Department, as the case may be, administers.
 
 (h) As used in this section—
 
-&emsp;(1) the term “consumer product” means—
+&emsp;(1) the term "consumer product" means—
 
-&emsp;&emsp;(A) any “food”, “drug”, “device”, or “cosmetic”, as those terms are respectively defined in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321); or
+&emsp;&emsp;(A) any "food", "drug", "device", or "cosmetic", as those terms are respectively defined in section 201 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321); or
 
 &emsp;&emsp;(B) any article, product, or commodity which is customarily produced or distributed for consumption by individuals, or use by individuals for purposes of personal care or in the performance of services ordinarily rendered within the household, and which is designed to be consumed or expended in the course of such consumption or use;
 
-&emsp;(2) the term “labeling” has the meaning given such term in section 201(m) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(m));
+&emsp;(2) the term "labeling" has the meaning given such term in section 201(m) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321(m));
 
-&emsp;(3) the term “serious bodily injury” means bodily injury which involves—
+&emsp;(3) the term "serious bodily injury" means bodily injury which involves—
 
 &emsp;&emsp;(A) a substantial risk of death;
 
@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(D) protracted loss or impairment of the function of a bodily member, organ, or mental faculty; and
 
-&emsp;(4) the term “bodily injury” means—
+&emsp;(4) the term "bodily injury" means—
 
 &emsp;&emsp;(A) a cut, abrasion, bruise, burn, or disfigurement;
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(E) any other injury to the body, no matter how temporary.
 
-(Added Pub. L. 98–127, §2, Oct. 13, 1983, 97 Stat. 831; amended Pub. L. 101–647, title XXXV, §3544,Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–322, title XXXIII, §330016(1)(L), (O), (Q), (S), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 107–307, §2, Dec. 2, 2002, 116 Stat. 2445.)
+(Added Pub. L. 98–127, §2, Oct. 13, 1983, 97 Stat. 831; amended Pub. L. 101–647, title XXXV, §3544, Nov. 29, 1990, 104 Stat. 4926; Pub. L. 103–322, title XXXIII, §330016(1)(L), (O), (Q), (S), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 107–307, §2, Dec. 2, 2002, 116 Stat. 2445.)
 
 #### Codification
 
@@ -70,23 +70,23 @@ Another section 1365 was renumbered section 1366 of this title.
 
 <b>2002</b>—Subsecs. (f) to (h). Pub. L. 107–307 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–322, §330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–322, §330016(1)(O), substituted "fined under this title" for "fined not more than $25,000".
 
-Subsec. (a)(2), (3). Pub. L. 103–322, §330016(1)(S), substituted “fined under this title” for “fined not more than $100,000”.
+Subsec. (a)(2), (3). Pub. L. 103–322, §330016(1)(S), substituted "fined under this title" for "fined not more than $100,000".
 
-Subsec. (a)(4). Pub. L. 103–322, §330016(1)(Q), substituted “fined under this title” for “fined not more than $50,000”.
+Subsec. (a)(4). Pub. L. 103–322, §330016(1)(Q), substituted "fined under this title" for "fined not more than $50,000".
 
-Subsec. (b). Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
+Subsec. (b). Pub. L. 103–322, §330016(1)(L), substituted "fined under this title" for "fined not more than $10,000".
 
-Subsecs. (c)(1), (d), (e). Pub. L. 103–322, §330016(1)(O), substituted “fined under this title” for “fined not more than $25,000”.
+Subsecs. (c)(1), (d), (e). Pub. L. 103–322, §330016(1)(O), substituted "fined under this title" for "fined not more than $25,000".
 
-<b>1990</b>—Subsec. (g)(1)(A). Pub. L. 101–647 inserted opening quotation marks before “device”.
+<b>1990</b>—Subsec. (g)(1)(A). Pub. L. 101–647 inserted opening quotation marks before "device".
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–307, §1, Dec. 2, 2002, 116 Stat. 2445, provided that: “This Act \[amending this section\] may be cited as the ‘Product Packaging Protection Act of 2002’.”
+Pub. L. 107–307, §1, Dec. 2, 2002, 116 Stat. 2445, provided that: "This Act \[amending this section\] may be cited as the 'Product Packaging Protection Act of 2002'."
 
 #### Short Title
 
-Pub. L. 98–127, §1, Oct. 13, 1983, 97 Stat. 831, provided: “That this Act \[enacting this section and section 155A of Title 35, Patents\] may be cited as the ‘Federal Anti-Tampering Act’.”
+Pub. L. 98–127, §1, Oct. 13, 1983, 97 Stat. 831, provided: "That this Act \[enacting this section and section 155A of Title 35, Patents\] may be cited as the 'Federal Anti-Tampering Act'."
 

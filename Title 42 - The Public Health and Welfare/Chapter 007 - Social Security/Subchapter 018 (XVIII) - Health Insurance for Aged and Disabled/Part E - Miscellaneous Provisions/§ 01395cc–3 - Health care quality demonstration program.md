@@ -6,13 +6,13 @@ In this section:
 
 #### (1) Beneficiary
 
-&emsp;The term “beneficiary” means an individual who is entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, including any individual who is enrolled in a Medicare Advantage plan under part C of this subchapter.
+&emsp;The term "beneficiary" means an individual who is entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter, including any individual who is enrolled in a Medicare Advantage plan under part C of this subchapter.
 
 #### (2) Health care group
 
 #### (A) In general
 
-&emsp;&emsp;The term “health care group” means—
+&emsp;&emsp;The term "health care group" means—
 
 &emsp;&emsp;&emsp;(i) a group of physicians that is organized at least in part for the purpose of providing physician's services under this subchapter;
 
@@ -26,7 +26,7 @@ In this section:
 
 #### (3) Physician
 
-&emsp;Except as otherwise provided for by the Secretary, the term “physician” means any individual who furnishes services that may be paid for as physicians’ services under this subchapter.
+&emsp;Except as otherwise provided for by the Secretary, the term "physician" means any individual who furnishes services that may be paid for as physicians' services under this subchapter.
 
 #### (b) Demonstration projects
 
@@ -36,7 +36,7 @@ The Secretary shall establish a demonstration program under which the Secretary 
 
 &emsp;(2) the appropriate use of best practice guidelines by providers and services by beneficiaries;
 
-&emsp;(3) reduced scientific uncertainty in the delivery of care through the examination of variations in the utilization and allocation of services, and outcomes measurement and research;
+&emsp;(3) reduced scientific uncertainty in the delivery of care through the examination of variations in the utilization and allocation ofservices, and outcomes measurement and research;
 
 &emsp;(4) encourage shared decision making between providers and patients;
 
@@ -114,7 +114,7 @@ The Health Insurance Portability and Accountability Act of 1996, referred to in 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–148 struck out “5-year” before “demonstration program” in introductory provisions.
+<b>2010</b>—Subsec. (b). Pub. L. 111–148 struck out "5-year" before "demonstration program" in introductory provisions.
 
-Subsec. (f). Pub. L. 111–148 struck out “5-year” before “period of the demonstration program”.
+Subsec. (f). Pub. L. 111–148 struck out "5-year" before "period of the demonstration program".
 

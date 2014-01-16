@@ -10,7 +10,7 @@ Consolidation of Parker and Davis Dam projects as not affecting this subchapter,
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00617 - Colorado River Basin; protection and development; dam, reservoir, and incidental works; water, water power, and electrical energy; eminent&#8230;](%C2%A7%2000617%20-%20Colorado%20River%20Basin%3B%20protection%20and%20development%3B%20dam%2C%20reservoir%2C%20and%20incidental%20works%3B%20water%2C%20water%20power%2C%20and%20electrical%20energy%3B%20eminent%E2%80%A6.md)
-- [&sect; 00617a - &#8220;Colorado River Dam Fund&#8221;](%C2%A7%2000617a%20-%20%E2%80%9CColorado%20River%20Dam%20Fund%E2%80%9D.md)
+- [&sect; 00617a - Colorado River Dam Fund](%C2%A7%2000617a%20-%20Colorado%20River%20Dam%20Fund.md)
 - [&sect; 00617b - Authorization of appropriations](%C2%A7%2000617b%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00617c - Condition precedent to taking effect of provisions](%C2%A7%2000617c%20-%20Condition%20precedent%20to%20taking%20effect%20of%20provisions.md)
 - [&sect; 00617d - Contracts for storage and use of waters for irrigation and domestic purposes; generation and sale of electrical energy](%C2%A7%2000617d%20-%20Contracts%20for%20storage%20and%20use%20of%20waters%20for%20irrigation%20and%20domestic%20purposes%3B%20generation%20and%20sale%20of%20electrical%20energy.md)

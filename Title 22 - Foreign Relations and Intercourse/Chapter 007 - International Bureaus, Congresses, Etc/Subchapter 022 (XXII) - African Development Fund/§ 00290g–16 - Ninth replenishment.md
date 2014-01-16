@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The United States Governor of the Fund may contribute on behalf of the United States an amount equal to the amount appropriated under subsection (b) of this section, pursuant to the resolution of the Fund entitled “The Ninth General Replenishment of Resources of the African Development Fund”.
+&emsp;The United States Governor of the Fund may contribute on behalf of the United States an amount equal to the amount appropriated under subsection (b) of this section, pursuantto the resolution of the Fund entitled "The Ninth General Replenishment of Resources of the African Development Fund".
 
 #### (2) Subject to appropriations
 

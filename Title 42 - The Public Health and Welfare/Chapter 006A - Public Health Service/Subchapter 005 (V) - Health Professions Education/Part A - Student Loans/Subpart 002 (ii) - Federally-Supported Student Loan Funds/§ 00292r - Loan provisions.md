@@ -68,7 +68,7 @@ Subject to regulations of the Secretary, and in accordance with this section, a 
 
 #### (j) Authority of schools regarding rate of payment
 
-A school may provide, in accordance with regulations of the Secretary, that during the repayment period of a loan from a loan fund established pursuant to an agreement under this subpart payments of principal and interest by the borrower with respect to all the outstanding loans made to him from loan funds so established shall be at a rate equal to not less than $40 per month.
+A school may provide, in accordance with regulations of the Secretary, that during the repayment period of a loan from a loan fund established pursuant to an agreement under this subpart payments of principal and interest by theborrower with respect to all the outstanding loans made to him from loan funds so established shall be at a rate equal to not less than $40 per month.
 
 #### (k) Authority regarding repayments by Secretary
 
@@ -84,7 +84,7 @@ Upon application by a person who received, and is under an obligation to repay, 
 
 #### (l) Collection efforts by Secretary
 
-The Secretary is authorized to attempt to collect any loan which was made under this subpart, which is in default, and which was referred to the Secretary by a school with which the Secretary has an agreement under this subpart, on behalf of that school under such terms and conditions as the Secretary may prescribe (including reimbursement from the school's student loan fund for expenses the Secretary may reasonably incur in attempting collection), but only if the school has complied with such requirements as the Secretary may specify by regulation with respect to the collection of loansunder this subpart. A loan so referred shall be treated as a debt subject to section 5514 of title 5. Amounts collected shall be deposited in the school's student loan fund. Whenever the Secretary desires the institution of a civil action regarding any such loan, the Secretary shall refer the matter to the Attorney General for appropriate action.
+The Secretary is authorized to attempt to collect any loan which was made under this subpart, which is in default, and which was referred to the Secretary by a school with which the Secretary has an agreement under this subpart, on behalf of that school under such terms and conditions as the Secretary may prescribe (including reimbursement from the school's student loan fund for expenses the Secretary may reasonably incur in attempting collection), but only if the school has complied with such requirements as the Secretary may specify by regulation with respect to the collection of loans under this subpart. A loan so referred shall be treated as a debt subject to section 5514 of title 5. Amounts collected shall be deposited in the school's student loan fund. Whenever the Secretary desires the institution of a civil action regarding any such loan, the Secretary shall refer the matter to the Attorney General for appropriate action.
 
 #### (m) Elimination of statute of limitation for loan collections
 
@@ -108,31 +108,31 @@ A prior section 722 of act July 1, 1944, was classified to section 293b of this 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–392, §134(a)(1), substituted “the cost of attendance (including tuition, other reasonable educational expenses, and reasonable living costs) for that year at the educational institution attended by the student (as determined by such educational institution).” for “the sum of—
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–392, §134(a)(1), substituted "the cost of attendance (including tuition, other reasonable educational expenses, and reasonable living costs) for that year at the educational institution attended by the student (as determined by such educational institution)." for "the sum of—
 
-&emsp;“(A) the cost of tuition for such year at such school, and
+&emsp;"(A) the cost of tuition for such year at such school, and
 
-&emsp;“(B) $2,500.”
+&emsp;"(B) $2,500."
 
-Subsec. (a)(2). Pub. L. 105–392, §134(a)(2), substituted “the amount of the loan may, in the case of the third or fourth year of a student at a school of medicine or osteopathic medicine, be increased to the extent necessary” for “the amount $2,500 may, in the case of the third or fourth year of a student at school of medicine or osteopathic medicine, be increased to the extent necessary (including such $2,500)”.
+Subsec. (a)(2). Pub. L. 105–392, §134(a)(2), substituted "the amount of the loan may, in the case of the third or fourth year of a student at a school of medicine or osteopathic medicine, be increased to the extent necessary" for "the amount $2,500 may, in the case of the third or fourth year of a student at school of medicine or osteopathic medicine, be increased to the extent necessary (including such $2,500)".
 
-Subsec. (c). Pub. L. 105–392, §134(a)(3), in heading, substituted “repayment” for “ten-year” and, in introductory provisions, substituted “period of not less than 10 years nor more than 25 years, at the discretion of the institution, which begins” for “ten-year period which begins” and “such period” for “such ten-year period”.
+Subsec. (c). Pub. L. 105–392, §134(a)(3), in heading, substituted "repayment" for "ten-year" and, in introductory provisions, substituted "period of not less than 10 years nor more than 25 years, at the discretion of the institution, which begins" for "ten-year period which begins" and "such period" for "such ten-year period".
 
-Subsec. (j). Pub. L. 105–392, §134(a)(4), substituted “$40” for “$15”.
+Subsec. (j). Pub. L. 105–392, §134(a)(4), substituted "$40" for "$15".
 
 Subsec. (m). Pub. L. 105–392, §134(b)(1), added subsec. (m).
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–43, §2014(b)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Loans from a student loan fund (established under an agreement with a school under section 292q of this title) may not exceed for any student for each school year (or its equivalent) the sum of—
+<b>1993</b>—Subsec. (a). Pub. L. 103–43, §2014(b)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "Loans from a student loan fund (established under an agreement with a school under section 292q of this title) may not exceed for any student for each school year (or its equivalent) the sum of—
 
-&emsp;“(1) the cost of tuition for such year at such school, and
+&emsp;"(1) the cost of tuition for such year at such school, and
 
-&emsp;“(2) $2,500.”
+&emsp;"(2) $2,500."
 
-Subsec. (b)(2), (3). Pub. L. 103–43, §2014(b)(2), redesignated par. (3) as (2) and struck out former par. (2), which read as follows: “who, if pursuing a full-time course of study at the school leading to a degree of doctor of medicine or doctor of osteopathy, is of exceptional financial need (as defined by regulations of the Secretary); and”.
+Subsec. (b)(2), (3). Pub. L. 103–43, §2014(b)(2), redesignated par. (3) as (2) and struck out former par. (2), which read as follows: "who, if pursuing a full-time course of study at the school leading to a degree of doctor of medicine or doctor of osteopathy, is of exceptional financial need (as defined by regulations of the Secretary); and".
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–392, title I, §134(b)(2), Nov. 13, 1998, 112 Stat. 3578, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to actions pending on or after the date of enactment of this Act \[Nov. 13, 1998\].”
+Pub. L. 105–392, title I, §134(b)(2), Nov. 13, 1998, 112 Stat. 3578, provided that: "The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to actions pending on or after the date of enactment of this Act \[Nov. 13, 1998\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “under this subpart”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "under this subpart".</i>
 

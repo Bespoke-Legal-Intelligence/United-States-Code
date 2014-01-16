@@ -8,7 +8,7 @@
 
 (b) In addition to consideration of the licensee's programming as required under subsection (a) of this section, the Commission may consider—
 
-&emsp;(1) any special nonbroadcast efforts by the licensee which enhance the educational andinformational value of such programming to children; and
+&emsp;(1) any special nonbroadcast efforts by the licensee which enhance the educational and informational value of such programming to children; and
 
 &emsp;(2) any special efforts by the licensee to produce or support programming broadcast by another station in the licensee's marketplace which is specifically designed to serve the educational and informational needs of children.
 
@@ -20,7 +20,7 @@ Section was enacted as part of the Children's Television Act of 1990, and not as
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–414 substituted “noncommercial” for “noncommerical”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–414 substituted "noncommercial" for "noncommerical".
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–356 inserted reference to commercial or noncommercial television broadcast licenses.
 

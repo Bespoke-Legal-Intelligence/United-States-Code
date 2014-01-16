@@ -104,9 +104,9 @@ Members of the Board shall be entitled (to the same extent as provided in sectio
 
 #### Amendments
 
-<b>1996</b>—Subsec. (f)(1)(B). Pub. L. 104–278 substituted “a senior official” for “an Assistant Secretary”.
+<b>1996</b>—Subsec. (f)(1)(B). Pub. L. 104–278 substituted "a senior official" for "an Assistant Secretary".
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “At”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "At".</i>
 

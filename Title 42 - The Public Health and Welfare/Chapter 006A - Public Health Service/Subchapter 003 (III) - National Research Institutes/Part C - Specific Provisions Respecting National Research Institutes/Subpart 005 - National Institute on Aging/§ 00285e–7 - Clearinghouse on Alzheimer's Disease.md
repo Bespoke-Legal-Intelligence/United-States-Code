@@ -2,7 +2,7 @@
 
 #### (a) Establishment; purpose; duties; publication of summary
 
-The Director of the Institute shall establish the Clearinghouse on Alzheimer's Disease (hereinafter referred to as the “Clearinghouse”). The purpose of the Clearinghouse is the dissemination of information concerning services available for individuals with Alzheimer's disease and related dementias and their families. The Clearinghouse shall—
+The Director of the Institute shall establish the Clearinghouse on Alzheimer's Disease (hereinafter referred to as the "Clearinghouse"). The purpose of the Clearinghouse is the dissemination of information concerning services available for individuals with Alzheimer's disease and related dementias and their families. The Clearinghouse shall—
 
 &emsp;(1) compile, archive, and disseminate information concerning research, demonstration, evaluation, and training programs and projects concerning Alzheimer's disease and related dementias; and
 
@@ -30,9 +30,9 @@ Section was formerly classified to section 11281 of this title prior to renumber
 
 <b>1988</b>—Pub. L. 100–607, §142(a), renumbered section 11281 of this title as this section.
 
-Subsec. (a). Pub. L. 100–607, §142(d)(4)(A), substituted “the Institute” for “the National Institute on Aging” in introductory provisions.
+Subsec. (a). Pub. L. 100–607, §142(d)(4)(A), substituted "the Institute" for "the National Institute on Aging" in introductory provisions.
 
-Subsec. (c). Pub. L. 100–607, §142(d)(4)(B), substituted “the Institute” for “the National Institute on Aging” and “part D” for “part E”.
+Subsec. (c). Pub. L. 100–607, §142(d)(4)(B), substituted "the Institute" for "the National Institute on Aging" and "part D" for "part E".
 
 <i><sup>1</sup></i><i> So in original. No subsec. (a)(3) has been enacted.</i>
 

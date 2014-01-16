@@ -6,7 +6,7 @@ Limitations on Discovery or Access by the Accused.—
 
 &emsp;(1)
 
-Declarations by the united states of damage to national security.—In any case before a military commission in which the United States seeks to delete, withhold, or otherwise obtain other relief with respect to the discovery of or access to any classified information, the trial counsel shall submit a declaration invoking the United States’ classified information privilege and setting forth the damage to the national security that the discovery of or access to such information reasonably could be expected to cause. The declaration shall be signed by a knowledgeable United States official possessing authority to classify information.
+Declarations by the united states of damage to national security.—In any case before a military commission in which the United States seeks to delete, withhold, or otherwise obtain other relief with respect to the discovery of or access to any classified information, the trial counsel shall submit a declaration invoking the United States' classified information privilege and setting forth the damage to the national security that the discovery of or access to such information reasonably could be expected to cause. The declaration shall be signed by a knowledgeable United States official possessing authority to classify information.
 
 &emsp;(2)
 
@@ -36,7 +36,7 @@ Action by military judge.—The military judge shall grant the request of the tr
 
 (c)
 
-Reconsideration.—An order of a military judge authorizing a request of the trial counsel to substitute, summarize, withhold, or prevent access to classified information under this section is not subject to a motion for reconsideration by the accused, if such order was entered pursuant to an ex parte showing under this section.
+Reconsideration.—An order of a military judge authorizing a request of the trial counsel to substitute, summarize, withhold, or prevent access to classified information under this section is not subject to a motion for reconsideration by the accused, if such order was enteredpursuant to an ex parte showing under this section.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2592.)
 

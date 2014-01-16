@@ -6,7 +6,7 @@ Any agency or officer of the United States Government carrying out functions und
 
 #### (b) Appointments excepted from civil-service laws; supergrade positions; reinstatement
 
-Of the personnel employed in the United States to carry out subchapter I of this chapter or coordinate subchapter I and subchapter II of this chapter, not to exceed one hundred and ten may be appointed, compensated, or removed without regard to the provisions of any law, of whom not to exceed fifty-one may be compensated at rates higher than those provided for grade 15 of the general schedule established bysection 5332 of title 5, but not in excess of the highest rate of grade 18 of such general schedule: <i>Provided</i>, That, under such regulations as the President shall prescribe, officers and employees of the United States Government who are appointed to any of the above positions may be entitled, upon removal from such position, to reinstatement to the position occupied at the time of appointment or to a position of comparable grade and salary. Such positions shall be in addition to those authorized by law to be filled by Presidential appointment, and in addition to the number authorized by section 5108 of title 5.
+Of the personnel employed in the United States to carry out subchapter I of this chapter or coordinate subchapter I and subchapter II of this chapter, not to exceed one hundred and ten may be appointed, compensated, or removed without regard to the provisions of any law, of whom not to exceed fifty-one may be compensated at rates higher than those provided for grade 15 of the general schedule established by section 5332 of title 5, but not in excess of the highest rate of grade 18 of such general schedule: <i>Provided</i>, That, under such regulations as the President shall prescribe, officers and employees of the United States Government who are appointed to any of the above positions may be entitled, upon removal from such position, to reinstatement to the position occupied at the time of appointment or to a position of comparable grade and salary. Such positions shall be in addition to those authorized by law to be filled by Presidential appointment, and in addition to the number authorized by section 5108 of title 5.
 
 #### (c) Additional supergrade positions
 
@@ -32,7 +32,7 @@ Notwithstanding any other provision of law, officers and employees of the United
 
 To the maximum extent practicable officers and employees performing functions under this chapter abroad shall be assigned to countries and positions for which they have special competence, such as appropriate language and practical experience.
 
-#### (j) Reemployment of annuitants under the Civil Service Retirement System and the Federal Employees’ Retirement System
+#### (j) Reemployment of annuitants under the Civil Service Retirement System and the Federal Employees' Retirement System
 
 (1)(A) To facilitate the assignment of persons to Iraq, Pakistan, and Afghanistan or to posts vacated by members of the Service assigned to Iraq, Pakistan, and Afghanistan, the Administrator of the United States Agency for International Development may waive the application of the provisions of section 8344 or 8468 of title 5 on a case-by-case basis for employment of an annuitant in a position in the United States Agency for International Development for which there is exceptional difficulty in recruiting or retaining a qualified employee, or when a temporary emergency hiring need exists.
 
@@ -46,9 +46,9 @@ To the maximum extent practicable officers and employees performing functions un
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (d), (f), (h), and (i), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (a), (d), (f), (h), and (i), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-The Foreign Service Act of 1980, referred to in subsec. (d), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, whichis classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (d), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
 
@@ -56,13 +56,13 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 #### Amendments
 
-<b>2009</b>—Subsec. (j)(1)(A). Pub. L. 111–32 inserted “, Pakistan,” after “Iraq” in two places.
+<b>2009</b>—Subsec. (j)(1)(A). Pub. L. 111–32 inserted ", Pakistan," after "Iraq" in two places.
 
-Subsec. (j)(1)(B). Pub. L. 111–32 substituted “2010” for “2008”.
+Subsec. (j)(1)(B). Pub. L. 111–32 substituted "2010" for "2008".
 
 <b>2006</b>—Subsec. (j). Pub. L. 109–234 added subsec. (j).
 
-<b>1981</b>—Subsec. (d). Pub. L. 97–113 substituted “or under chapter 53 of title 5, or at any other rate authorized by law, together with allowances and benefits under the Foreign Service Act of 1980” for “together with allowances and benefits under that Act”.
+<b>1981</b>—Subsec. (d). Pub. L. 97–113 substituted "or under chapter 53 of title 5, or at any other rate authorized by law, together with allowances and benefits under the Foreign Service Act of 1980" for "together with allowances and benefits under that Act".
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–465, §2203(a), substituted references to the Foreign Service Act of 1980, for references to the Foreign Service Act of 1946, and struck out provisions relating to the applicability of section 1005 of the Foreign Service Act of 1946 and relating to the utilization of Presidential authority under the Foreign Service Act of 1946 to carry out the functions of this chapter.
 
@@ -78,27 +78,27 @@ Subsec. (k). Pub. L. 96–465, §2205(8), struck out subsec. (k) which related t
 
 <b>1973</b>—Subsec. (k). Pub. L. 93–189 added subsec. (k).
 
-<b>1968</b>—Subsec. (c). Pub. L. 90–554 inserted “or any Act superseding subchapter II of this chapter in whole or in part” after “to carry out subchapter II of this chapter”.
+<b>1968</b>—Subsec. (c). Pub. L. 90–554 inserted "or any Act superseding subchapter II of this chapter in whole or in part" after "to carry out subchapter II of this chapter".
 
 <b>1967</b>—Subsecs. (b), (c). Pub. L. 90–137, §302(b), (c), substituted references to section 5332 of title 5 for former references to the Classification Act of 1949, as amended, and to section 5108 for former section 1105 of title 5.
 
 Subsec. (d)(2). Pub. L. 90–137, §302(d), authorized an increase in the assignment of foreign personnel from forty to fifty persons.
 
-<b>1965</b>—Subsec. (d)(2). Pub. L. 89–171 substituted “forty” for “twenty”.
+<b>1965</b>—Subsec. (d)(2). Pub. L. 89–171 substituted "forty" for "twenty".
 
-<b>1964</b>—Subsec. (d)(2). Pub. L. 88–633, §302(a)(1), substituted “the assignment to such duty of more than twenty persons at any one time” for “more than thirty persons in the aggregate”.
+<b>1964</b>—Subsec. (d)(2). Pub. L. 88–633, §302(a)(1), substituted "the assignment to such duty of more thantwenty persons at any one time" for "more than thirty persons in the aggregate".
 
 Subsec. (j). Pub. L. 88–633, §302(a)(2), added subsec. (j).
 
-<b>1962</b>—Subsec. (b). Pub. L. 87–793, §1001(k)(1), substituted “but not in excess of the highest rate of grade 18 of such general schedule” for “and of these, not to exceed eight may be compensated at a rate in excess of the highest rate provided for grades of such general schedule but not in excess of $19,000 per year”.
+<b>1962</b>—Subsec. (b). Pub. L. 87–793, §1001(k)(1), substituted "but not in excess of the highest rate of grade 18 of such general schedule" for "and of these, not to exceed eight may be compensated at a rate in excess of the highest rate provided for grades of such general schedule but not in excess of $19,000 per year".
 
-Pub. L. 87–565, §302(c)(1), substituted “one hundred and ten” for “seventy-six”.
+Pub. L. 87–565, §302(c)(1), substituted "one hundred and ten" for "seventy-six".
 
-Subsec. (c). Pub. L. 87–793, §1001(k)(2), substituted “but not in excess of the highest rate of grade 18 of such general schedule” for “and of these, not to exceed three may be compensated at a rate in excess of the highest rate provided for grades of such general schedule but not in excess of $19,000 per year”.
+Subsec. (c). Pub. L. 87–793, §1001(k)(2), substituted "but not in excess of the highest rate of grade 18 of such general schedule" for "and of these, not to exceed three may be compensated at a rate in excess of the highest rate provided for grades of such general schedule but not in excess of $19,000 per year".
 
 Subsec. (d)(2). Pub. L. 87–565, §302(c)(2), authorized the President to initially assign personnel, not exceeding 30 persons in the aggregate, for duty within the United States for a period not exceeding two years for preparation for duty outside the United States.
 
-Subsec. (f). Pub. L. 87–565, §302(c)(3), inserted “with respect to specific projects”, and “agencies of”, and excluded services of employees of agencies primarily responsible for administering subchapter I or II of this chapter from the purview of this subsection.
+Subsec. (f). Pub. L. 87–565, §302(c)(3), inserted "with respect to specific projects", and "agencies of", and excluded services of employees of agencies primarily responsible for administering subchapter I or II of this chapter from the purview of this subsection.
 
 #### Effective Date of 1980 Amendment
 
@@ -116,7 +116,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Extension of Authority
 
-Pub. L. 112–74, div. I, title VII, §7034(m)(6), Dec. 23, 2011, 125 Stat. 1216, provided that: “Section 625(j)(1) of the Foreign Assistance Act of 1961 (22 U.S.C. 2385(j)(1)) shall be applied by substituting ‘September 30, 2012’ for ‘October 1, 2010’ in subparagraph (B).”
+Pub. L. 112–74, div. I, title VII, §7034(m)(6), Dec. 23, 2011, 125 Stat. 1216, provided that: "Section 625(j)(1) of the Foreign Assistance Act of 1961 (22 U.S.C. 2385(j)(1)) shall be applied by substituting 'September 30, 2012' for 'October 1, 2010' in subparagraph (B)."
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

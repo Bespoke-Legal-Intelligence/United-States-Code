@@ -46,15 +46,15 @@ Any person may apply to the Secretary for a grant or contract under this section
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–394, §6(1), substituted “1123(c)(4)(F) of this title or that are appropriated under section 1127(b) of this title.” for “1123(c)(4)(F) of this title.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–394, §6(1), substituted "1123(c)(4)(F) of this title or that are appropriated under section 1127(b) of this title." for "1123(c)(4)(F) of this title."
 
-Subsec. (b). Pub. L. 110–394, §6(2), inserted concluding provisions and struck out former concluding provisions which read as follows: “The total amount which may be provided for grants under this subsection during any fiscal year shall not exceed an amount equal to 1 percent of the total funds appropriated for such year pursuant to section 1131 of this title.”
+Subsec. (b). Pub. L. 110–394, §6(2), inserted concluding provisions and struck out former concluding provisions which read as follows: "The total amount which may be provided for grants under this subsection during any fiscal year shall not exceed an amount equal to 1 percent of the total funds appropriated for such year pursuant to section 1131 of this title."
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–299 substituted “section 1123(c)(4)(F)” for “section 1123(d)(6)” in concluding provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–299 substituted "section 1123(c)(4)(F)" for "section 1123(d)(6)" in concluding provisions.
 
 <b>1991</b>—Subsec. (b)(3). Pub. L. 102–186 struck out reference to section 1125 of this title after reference to subsection (a) of this section.
 
-<b>1987</b>—Subsec. (d)(1). Pub. L. 100–220 inserted at end “Terms, conditions, and requirements imposed by the Secretary under this paragraph shall minimize any requirement of prior Federal approval.”
+<b>1987</b>—Subsec. (d)(1). Pub. L. 100–220 inserted at end "Terms, conditions, and requirements imposed by the Secretary under this paragraph shall minimize any requirement of prior Federal approval."
 
 <b>1980</b>—Subsec. (d)(2). Pub. L. 96–289 authorized application of any payment under a grant or contract to the short-term rental of buildings or facilities for meetings which are in direct support of any sea grant program or project.
 

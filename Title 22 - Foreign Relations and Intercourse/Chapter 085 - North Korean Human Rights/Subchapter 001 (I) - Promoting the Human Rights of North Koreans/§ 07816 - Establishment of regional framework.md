@@ -10,5 +10,5 @@ It is the sense of Congress that the United Sates <sup>1</sup> should explore t
 
 (Pub. L. 108–333, title I, §106, Oct. 18, 2004, 118 Stat. 1292.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “States”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "States".</i>
 

@@ -4,71 +4,71 @@ As used in this chapter:
 
 #### (1) Board
 
-&emsp;The term “Board” means the Lime Board provided for under section 6204(b) of this title.
+&emsp;The term "Board" means the Lime Board provided for under section 6204(b) of this title.
 
 #### (2) Consumer information
 
-&emsp;The term “consumer information” means any action taken to provide information to, and broaden the understanding of, the general public regarding the use, nutritional attributes, and care of limes.
+&emsp;The term "consumer information" means any action taken to provide information to, and broaden the understanding of, the general public regarding the use, nutritional attributes, and care of limes.
 
 #### (3) Handle
 
-&emsp;The term “handle” means to sell, purchase, or package limes.
+&emsp;The term "handle" means to sell, purchase, or package limes.
 
 #### (4) Handler
 
-&emsp;The term “handler” means any person in the business of handling limes.
+&emsp;The term "handler" means any person in the business of handling limes.
 
 #### (5) Importer
 
-&emsp;The term “importer” means any person who imports limes into the United States.
+&emsp;The term "importer" means any person who imports limes into the United States.
 
 #### (6) Lime
 
-&emsp;The term “lime” means the fruit of a citrus latifolia tree for the fresh market.
+&emsp;The term "lime" means the fruit of a citrus latifolia tree for the fresh market.
 
 #### (7) Marketing
 
-&emsp;The term “marketing” means the sale or other disposition of limes in commerce.
+&emsp;The term "marketing" means the sale or other disposition of limes in commerce.
 
 #### (8) Order
 
-&emsp;The term “order” means a lime research, promotion, and consumer information order issued by the Secretary under section 6203(a) of this title.
+&emsp;The term "order" means a lime research, promotion, and consumer information order issued by the Secretary under section 6203(a) of this title.
 
 #### (9) Person
 
-&emsp;The term “person” means any individual, group of individuals, partnership, corporation, association, cooperative, or other legal entity.
+&emsp;The term "person" means any individual, group of individuals, partnership, corporation, association, cooperative, or other legal entity.
 
 #### (10) Producer
 
-&emsp;The term “producer” means any person who produces limes in the United States for sale in commerce.
+&emsp;The term "producer" means any person who produces limes in the United States for sale in commerce.
 
 #### (11) Producer-handler
 
-&emsp;The term “producer-handler” means any person who is both a producer and handler of limes.
+&emsp;The term "producer-handler" means any person who is both a producer and handler of limes.
 
 #### (12) Promotion
 
-&emsp;The term “promotion” means any action taken under this chapter (including paid advertising) to present a favorable image for limes to the general public with the express intent of improving the competitive position and stimulating the sale of limes.
+&emsp;The term "promotion" means any action taken under this chapter (including paid advertising) to present a favorable image for limes to the general public with the express intent of improving the competitive position and stimulating the sale of limes.
 
 #### (13) Research
 
-&emsp;The term “research” means any type of research relating to the use and nutritional value of limes and designed to advance the image, desirability, marketability, or quality of limes.
+&emsp;The term "research" means any type of research relating to the use and nutritional value of limes and designed to advance the image, desirability, marketability, or quality of limes.
 
 #### (14) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture.
+&emsp;The term "Secretary" means the Secretary of Agriculture.
 
 #### (15) State and United States
 
 &emsp;The term—
 
-&emsp;&emsp;(A) “State” means each of the 50 States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico; and
+&emsp;&emsp;(A) "State" means each of the 50 States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico; and
 
-&emsp;&emsp;(B) “United States” means the 50 States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;&emsp;(B) "United States" means the 50 States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 (Pub. L. 101–624, title XIX, §1953, Nov. 28, 1990, 104 Stat. 3871; Pub. L. 103–194, §3, Dec. 14, 1993, 107 Stat. 2295.)
 
 #### Amendments
 
-<b>1993</b>—Par. (6). Pub. L. 103–194 substituted “citrus latifolia” for “citrus aurantifolia”.
+<b>1993</b>—Par. (6). Pub. L. 103–194 substituted "citrus latifolia" for "citrus aurantifolia".
 

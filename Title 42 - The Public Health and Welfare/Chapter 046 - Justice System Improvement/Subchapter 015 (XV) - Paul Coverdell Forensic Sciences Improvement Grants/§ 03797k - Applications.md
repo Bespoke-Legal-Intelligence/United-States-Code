@@ -4,7 +4,7 @@ To request a grant under this subchapter, a State or unit of local government sh
 
 &emsp;(1) a certification that the State or unit of local government has developed a plan for forensic science laboratories under a program described in section 3797m(a) of this title, and a specific description of the manner in which the grant will be used to carry out that plan;
 
-&emsp;(2) a certification that any forensic science laboratory system, medical examiner's office, or coroner's office in the State, including any laboratory operated by a unit of local government within the State, that will receive any portion of the grant amount uses generally accepted laboratory practices and procedures, established by accrediting organizations or appropriate certifying bodies;
+&emsp;(2) a certification that any forensic science laboratory system, medical examiner's office, or coroner's office in the State, including anylaboratory operated by a unit of local government within the State, that will receive any portion of the grant amount uses generally accepted laboratory practices and procedures, established by accrediting organizations or appropriate certifying bodies;
 
 &emsp;(3) a specific description of any new facility to be constructed as part of the program for a State or local plan described in paragraph (1), and the estimated costs of that facility, and a certification that the amount of the grant used for the costs of the facility will not exceed the limitations set forth in section 3797m(c) of this title; and
 
@@ -16,11 +16,11 @@ To request a grant under this subchapter, a State or unit of local government sh
 
 <b>2004</b>—Par. (4). Pub. L. 108–405 added par. (4).
 
-<b>2002</b>—Pub. L. 107–273, §5001(b)(2)(A), inserted “or unit of local government” after “State” in introductory provisions.
+<b>2002</b>—Pub. L. 107–273, §5001(b)(2)(A), inserted "or unit of local government" after "State" in introductory provisions.
 
-Par. (1). Pub. L. 107–273, §5001(b)(2)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “a certification that the State has developed a consolidated State plan for forensic science laboratories operated by the State or by other units of local government within the State under a program described in section 3797m(a) of this title, and a specific description of the manner in which the grant will be used to carry out that plan;”.
+Par. (1). Pub. L. 107–273, §5001(b)(2)(B), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "a certification that the State has developed a consolidated State plan for forensic science laboratories operated by the State or by other units of local government within the State under a program described in section 3797m(a) of this title, and a specific description of the manner in which the grant will be used to carry out that plan;".
 
-Par. (2). Pub. L. 107–273, §5001(b)(2)(C), inserted “or appropriate certifying bodies” after “accrediting organizations”.
+Par. (2). Pub. L. 107–273, §5001(b)(2)(C), inserted "or appropriate certifying bodies" after "accrediting organizations".
 
-Par. (3). Pub. L. 107–273, §5001(b)(2)(D), inserted “for a State or local plan” after “program”.
+Par. (3). Pub. L. 107–273, §5001(b)(2)(D), inserted "for a State or local plan" after "program".
 

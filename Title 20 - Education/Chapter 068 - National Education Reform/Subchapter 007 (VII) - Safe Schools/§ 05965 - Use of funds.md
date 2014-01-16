@@ -30,13 +30,13 @@ A local educational agency shall use grant funds received under this subchapter 
 
 &emsp;&emsp;(C) student-led activities such as peer mediation, peer counseling, and student courts; or
 
-&emsp;&emsp;(D) alternative after-school programs that provide safe havens for students, which may include cultural, recreational, educational and instructional activities, and mentoring and community service programs.
+&emsp;&emsp;(D) alternative after-school programs that provide safe havens for students, which mayinclude cultural, recreational, educational and instructional activities, and mentoring and community service programs.
 
 &emsp;(9) Educating students and parents regarding the dangers of guns and other weapons and the consequences of their use.
 
 &emsp;(10) Developing and implementing innovative curricula to prevent violence in schools and training staff how to stop disruptive or violent behavior if such behavior occurs.
 
-&emsp;(11) Supporting “safe zones of passage” for students between home and school through such measures as Drug- and Weapon-Free School Zones, enhanced law enforcement, and neighborhood patrols.
+&emsp;(11) Supporting "safe zones of passage" for students between home and school through such measures as Drug- and Weapon-Free School Zones, enhanced law enforcement, and neighborhood patrols.
 
 &emsp;(12) Counseling programs for victims and witnesses of school violence and crime.
 

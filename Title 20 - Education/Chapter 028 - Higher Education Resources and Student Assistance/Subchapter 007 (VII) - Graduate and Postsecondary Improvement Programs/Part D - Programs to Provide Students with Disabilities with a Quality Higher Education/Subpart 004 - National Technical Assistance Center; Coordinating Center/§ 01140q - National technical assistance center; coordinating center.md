@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;From amounts appropriated under section 1140r of this title, the Secretary shall award a grant to, or enter into a contract or cooperative agreement with, an eligible entity to provide for the establishment and support of a National Center for Information and Technical Support for Postsecondary Students with Disabilities (in this subsection referred to as the “National Center”). The National Center shall carry out the duties set forth in paragraph (4).
+&emsp;From amounts appropriated under section 1140r of this title, the Secretary shall award a grant to, or enter into a contract or cooperative agreement with, an eligible entity to provide for the establishment and support of a National Center for Information and Technical Support for Postsecondary Students with Disabilities (in this subsection referred to as the "National Center"). The National Center shall carry out the duties set forth in paragraph (4).
 
 #### (2) Administration
 
@@ -12,7 +12,7 @@
 
 #### (3) Eligible entity
 
-&emsp;In this subpart, the term “eligible entity” means an institution of higher education, a nonprofit organization, or partnership of two or more such institutions or organizations, with demonstrated expertise in—
+&emsp;In this subpart, the term "eligible entity" means an institution of higher education, a nonprofit organization, or partnership of two or more such institutions or organizations, with demonstrated expertise in—
 
 &emsp;&emsp;(A) supporting students with disabilities in postsecondary education;
 
@@ -94,7 +94,7 @@
 
 #### (1) Definition of eligible entity
 
-&emsp;In this subsection, the term “eligible entity” means an entity, or a partnership of entities, that has demonstrated expertise in the fields of—
+&emsp;In this subsection, the term "eligible entity" means an entity, or a partnership of entities, that has demonstrated expertise in the fields of—
 
 &emsp;&emsp;(A) higher education;
 

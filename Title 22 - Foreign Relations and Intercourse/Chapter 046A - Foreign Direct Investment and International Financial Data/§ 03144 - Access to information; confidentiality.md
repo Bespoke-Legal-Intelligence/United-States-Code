@@ -6,7 +6,7 @@
 
 (2) Only those officers and employees who have sworn to observe the provisions of section 5(c) of the International Investment and Trade in Services Survey Act (22 U.S.C. 3104(c)) may have access under this Act to information to which such provisions apply, and such officers and employees are subject to the penalties for improper disclosure of such information provided in section 5(e) of that Act \[22 U.S.C. 3104(e)\] to the same extent as such section applies to officers or employees designated to perform functions under that Act \[22 U.S.C. 3101 et seq.\].
 
-(3) Those officers and employees referred to in paragraphs (1) and (2) of this section shall be subject to any other restriction or penalty imposed by law with respect to disclosure of information to which such officers or employees have access under this Act.
+(3) Those officers and employees referred to in paragraphs (1) and (2) of this section shall besubject to any other restriction or penalty imposed by law with respect to disclosure of information to which such officers or employees have access under this Act.
 
 #### (b) Violations and penalties
 

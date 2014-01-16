@@ -10,11 +10,11 @@ A prior section 419 was renumbered section 420 of this title.
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–189 substituted “an officer” for “a officer” in two places and struck out “to” after “may be paid”.
+<b>1989</b>—Pub. L. 101–189 substituted "an officer" for "a officer" in two places and struck out "to" after "may be paid".
 
-<b>1988</b>—Pub. L. 100–456 substituted “officer” for “member” in three places, “may be paid” for “is entitled”, and “officer's” for “member's”.
+<b>1988</b>—Pub. L. 100–456 substituted "officer" for "member" in three places, "may be paid" for "is entitled", and "officer's" for "member's".
 
 #### Effective Date
 
-Pub. L. 100–180, div. A, title VI, §611(b), Dec. 4, 1987, 101 Stat. 1093, provided that: “Section 419 of title 37,United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Dec. 4, 1987\]. No member may be paid a clothing allowance under such section for any period before such date.”
+Pub. L. 100–180, div. A, title VI, §611(b), Dec. 4, 1987, 101 Stat. 1093, provided that: "Section 419 of title 37, United States Code, as added by subsection (a), shall take effect on the date of the enactment of this Act \[Dec. 4, 1987\]. No member may be paid a clothing allowance under such section for any period before such date."
 

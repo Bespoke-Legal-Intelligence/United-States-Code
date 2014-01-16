@@ -6,7 +6,7 @@ For the purpose of facilitating and simplifying the administration of the laws g
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–509 substituted “Deputy Secretary” for “Under Secretary” before “or to an Assistant Secretary”.
+<b>1990</b>—Pub. L. 101–509 substituted "Deputy Secretary" for "Under Secretary" before "or to an Assistant Secretary".
 
 #### Effective Date of 1990 Amendment
 

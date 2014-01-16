@@ -2,9 +2,9 @@
 
 For purposes of this chapter—
 
-&emsp;(1) the terms “Helen Keller National Center for Youths and Adults who are Deaf-Blind” and “Center” mean the Helen Keller National Center for Youths and Adults who are Deaf-Blind, and its affiliated network, operated pursuant to this chapter;
+&emsp;(1) the terms "Helen Keller National Center for Youths and Adults who are Deaf-Blind" and "Center" mean the Helen Keller National Center for Youths and Adults who are Deaf-Blind, and its affiliated network, operated pursuant to this chapter;
 
-&emsp;(2) the term “individual who is deaf-blind” means any individual—
+&emsp;(2) the term "individual who is deaf-blind" means any individual—
 
 &emsp;&emsp;(A)(i) who has a central visual acuity of 20/200 or less in the better eye with corrective lenses, or a field defect such that the peripheral diameter of visual field subtends an angular distance no greater than 20 degrees, or a progressive visual loss having a prognosis leading to one or both these conditions;
 
@@ -16,13 +16,13 @@ For purposes of this chapter—
 
 &emsp;&emsp;(C) meets such other requirements as the Secretary may prescribe by regulation; and
 
-&emsp;(3) the term “Secretary” means the Secretary of Education.
+&emsp;(3) the term "Secretary" means the Secretary of Education.
 
 (Pub. L. 98–221, title II, §206, Feb. 22, 1984, 98 Stat. 34; Pub. L. 102–569, title IX, §§905, 908(c)(1), Oct. 29, 1992, 106 Stat. 4482, 4486.)
 
 #### Amendments
 
-<b>1992</b>—Par. (1). Pub. L. 102–569, §§905(1), 908(c)(1), substituted “Youths and Adults who are Deaf-Blind” for “Deaf-Blind Youths and Adults” in two places and struck out “section 313 of the Rehabilitation Act of 1973 and continued under” after “operated pursuant to”.
+<b>1992</b>—Par. (1). Pub. L. 102–569, §§905(1), 908(c)(1), substituted "Youths and Adults who are Deaf-Blind" for "Deaf-Blind Youths and Adults" in two places and struck out "section 313 of the Rehabilitation Act of 1973 and continued under" after "operated pursuant to".
 
-Par. (2). Pub. L. 102–569, §905(2), amended par. (2) generally, substituting present provisions for provisions defining “deaf-blind individual”.
+Par. (2). Pub. L. 102–569, §905(2), amended par. (2) generally, substituting present provisions for provisions defining "deaf-blind individual".
 

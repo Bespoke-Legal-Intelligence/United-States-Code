@@ -8,7 +8,7 @@
 
 &emsp;(3) retainer pay payable to members of the Fleet Reserve and Fleet Marine Corps Reserve;
 
-&emsp;(4) benefits payable under programs under the jurisdiction of the Department of Defense that provide annuities for survivors of members and former members of the armed forces, including chapter 73 of this title, section 4 of Public Law 92–425, and section 5 of Public Law 96–402; and
+&emsp;(4) benefits payable under programs under the jurisdiction of the Department of Defensethat provide annuities for survivors of members and former members of the armed forces, including chapter 73 of this title, section 4 of Public Law 92–425, and section 5 of Public Law 96–402; and
 
 &emsp;(5) amounts payable under section 1408(h) of this title.
 
@@ -24,19 +24,19 @@ Section 5 of Public Law 96–402, referred to in subsec. (a)(4), is set out as a
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(1). Pub. L. 108–375 substituted “1413a” for “1413, 1413a,”.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–375 substituted "1413a" for "1413, 1413a,".
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136 inserted before semicolon at end “and payments under section 1413, 1413a, or 1414 of this title paid to such members”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136 inserted before semicolon at end "and payments under section 1413, 1413a, or 1414 of this title paid to such members".
 
-<b>2002</b>—Subsec. (a)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–106 substituted “chapter 1223” for “chapter 67”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–106 substituted "chapter 1223" for "chapter 67".
 
 <b>1993</b>—Subsec. (a)(5). Pub. L. 103–35 made technical amendment to directory language of Pub. L. 102–484, §653(b)(2). See 1992 Amendment note below.
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–484, as amended by Pub. L. 103–35, added par. (5).
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted “members” for “persons” in par. (1), added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted "members" for "persons" in par. (1), added par. (2), and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 #### Effective Date of 2003 Amendment
 
@@ -56,5 +56,5 @@ Amendment by Pub. L. 103–35 applicable as if included in the enactment of Pub.
 
 #### Effective Date
 
-Pub. L. 98–94, title IX, §925(b)(2), Sept. 24, 1983, 97 Stat. 648, provided that: “Sections 1463 (relating to payments from the Fund) and 1466 (relating to payments to the Fund) of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1984.”
+Pub. L. 98–94, title IX, §925(b)(2), Sept. 24, 1983, 97 Stat. 648, provided that: "Sections 1463 (relating to payments from the Fund) and 1466 (relating to payments to the Fund) of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1984."
 

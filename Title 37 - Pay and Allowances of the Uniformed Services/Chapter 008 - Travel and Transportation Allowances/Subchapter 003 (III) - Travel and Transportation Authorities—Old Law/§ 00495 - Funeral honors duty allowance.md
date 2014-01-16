@@ -4,7 +4,7 @@
 
 Allowance Authorized.—(1) The Secretary concerned may authorize payment of an allowance to a member of the Ready Reserve for any day on which the member performs at least two hours of funeral honors duty pursuant to section 12503 of title 10 or section 115 of title 32.
 
-(2) The Secretary concerned may also authorize payment of that allowance to a member of the armed forces in a retired status for any day on which the member serves in a funeral honors detail under section 1491 of title 10, if the time required for service in such detail (including time for preparation) is not less than two hours. The amount of an allowance paid to a member under this paragraph shall be in addition to any other compensation to which the member may be entitled under this title or title 10 or 38.
+(2) The Secretary concerned may also authorize payment of that allowance to a member of the armed forces in a retired status for any day on which the member serves in a funeral honors detail under section 1491 of title 10, if the time required for service in such detail (including time for preparation) is not less than two hours.The amount of an allowance paid to a member under this paragraph shall be in addition to any other compensation to which the member may be entitled under this title or title 10 or 38.
 
 (b)
 
@@ -26,7 +26,7 @@ Subsec. (c). Pub. L. 112–81, §631(e)(32), added subsec. (c).
 
 <b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(c)(1)(A)(i)\], made technical amendment to directory language of Pub. L. 106–65, §578(j), which enacted this section.
 
-Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title V, §575(b)\], struck out heading and text of subsec. (c). Text read as follows: “Except for expenses reimbursed under subsection (c) of section 12503 of title 10 or subsection (c) of section 115 of title 32, the allowance paid under this section is the only monetary compensation authorized to be paid a member for the performance of funeral honors duty pursuant to such section, regardless of the grade in which the member is serving, and shall constitute payment in full to the member.”
+Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title V, §575(b)\], struck out heading and text of subsec. (c). Text read as follows: "Except for expenses reimbursed under subsection (c) of section 12503 of title 10 or subsection (c) of section 115 of title 32, the allowance paid under this section is the only monetary compensation authorized to be paid a member for the performance of funeral honors duty pursuant to such section, regardless of the grade in which the member is serving, and shall constitute payment in full to the member."
 
 #### Effective Date of 2000 Amendment
 

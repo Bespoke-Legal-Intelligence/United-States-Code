@@ -14,9 +14,9 @@ A declaration filed pursuant to section 4201 <sup>1</sup> of this title and in 
 
 &emsp;(5) the declaration consists of allegations or transactions that have been disclosed to a member of the public in a criminal, civil, or administrative proceeding, in a congressional, administrative, or Government Accountability Office report, hearing, audit or investigation, by any other government source, or by the news media, unless the person providing the declaration is the original source of the information.
 
-#### (b) “Original source” defined
+#### (b) "Original source" defined
 
-For the purposes of subsection (a)(5) of this section, the term “original source” means a person who has direct and independent knowledge of the information contained in the declaration and who voluntarily provided the information to the government prior to the disclosure.
+For the purposes of subsection (a)(5) of this section, the term "original source" means a person who has direct and independent knowledge of the information contained in the declaration and who voluntarily provided the information to the government prior to the disclosure.
 
 #### (c) Notice of invalidity
 
@@ -26,11 +26,11 @@ If the Attorney General determines at any time that a declaration is invalid und
 
 #### References in Text
 
-Section 4201 of this title, referred to in subsec. (a), was in the original “section 811”, and was translated as reading “section 2561”, meaning section 2561 of Pub. L. 101–647, as the probable intent of Congress, because Pub. L. 101–647 does not contain a section 811.
+Section 4201 of this title, referred to in subsec. (a), was in the original "section 811", and was translated asreading "section 2561", meaning section 2561 of Pub. L. 101–647, as the probable intent of Congress, because Pub. L. 101–647 does not contain a section 811.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(5). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a)(5). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

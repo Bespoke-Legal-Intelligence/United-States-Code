@@ -2,7 +2,7 @@
 
 #### (a) Short title
 
-This section incorporates and expands upon provisions of the Driftnet Impact Monitoring, Assessment, and Control Act of 1987 and may be cited as the “Driftnet Act Amendments of 1990”.
+This section incorporates and expands upon provisions of the Driftnet Impact Monitoring, Assessment, and Control Act of 1987 and may be cited as the "Driftnet Act Amendments of 1990".
 
 #### (b) Findings
 
@@ -76,11 +76,11 @@ If at any time the Secretary, in consultation with the Secretary of State and th
 
 This section shall not serve or be construed to expand or diminish the sovereign rights of the United States, as stated by Presidential Proclamation Numbered 5030, dated March 10, 1983, and reflected in this chapter or other existing law.
 
-#### (h) “Living marine resources” defined
+#### (h) "Living marine resources" defined
 
-As used in this section, the term “living marine resources” includes fish, marine mammals, sea turtles, and seabirds and other waterfowl.
+As used in this section, the term "living marine resources" includes fish, marine mammals, sea turtles, and seabirds and other waterfowl.
 
-(Pub. L. 94–265, title II, §206, as added Pub. L. 95–6, §3(1), Feb. 21, 1977, 91 Stat. 15; amendedPub. L. 99–659, title I, §101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §107(a), Nov. 28, 1990, 104 Stat. 4441; Pub. L. 104–297, title I, §105(f), Oct. 11, 1996, 110 Stat. 3569.)
+(Pub. L. 94–265, title II, §206, as added Pub. L. 95–6, §3(1), Feb. 21, 1977, 91 Stat. 15; amended Pub. L. 99–659, title I, §101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §107(a), Nov. 28, 1990, 104 Stat. 4441; Pub. L. 104–297, title I, §105(f), Oct. 11, 1996, 110 Stat. 3569.)
 
 #### References in Text
 
@@ -88,21 +88,21 @@ The Driftnet Impact Monitoring, Assessment, and Control Act of 1987, referred to
 
 Presidential Proclamation Numbered 5030, referred to in subsec. (g), is set out under section 1453 of this title.
 
-This chapter, referred to in subsec. (g), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (g), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 
 <b>1996</b>—Subsec. (e). Pub. L. 104–297, §105(f)(1), redesignated pars. (5) and (6) as (3) and (4), respectively, and struck out former pars. (3) and (4) which read as follows:
 
-“(3) identifying and evaluating the effectiveness of unilateral measures and multilateral measures, including sanctions, that are available to encourage nations to agree to and comply with this section, and recommendations for legislation to authorize any additional measures that are needed if those are considered ineffective;
+"(3) identifying and evaluating the effectiveness of unilateral measures and multilateral measures, including sanctions, that are available to encourage nations to agree to and comply with this section, and recommendations for legislation to authorize any additional measures that are needed if those are considered ineffective;
 
-“(4) identifying, evaluating, and making any recommendations considered necessary to improve the effectiveness of the law, policy, and procedures governing enforcement of the exclusive management authority of the United States over anadromous species against fishing vessels engaged in fishing beyond the exclusive economic zone of any nation;”.
+"(4) identifying, evaluating, and making any recommendations considered necessary to improve the effectiveness of the law, policy, and procedures governing enforcement of the exclusive management authority of the United States over anadromous species against fishing vessels engaged in fishing beyond the exclusive economic zone of any nation;".
 
-Subsec. (f). Pub. L. 104–297, §105(f)(2), substituted “subsection (e)(4) of this section” for “subsection (e)(6) of this section”.
+Subsec. (f). Pub. L. 104–297, §105(f)(2), substituted "subsection (e)(4) of this section" for "subsection (e)(6) of this section".
 
 <b>1990</b>—Pub. L. 101–627 amended section generally, substituting provisions relating to large-scale driftnet fishing for provisions relating to transitional provisions.
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–659 substituted “exclusive economic zone” for “fishery conservation zone”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–659 substituted "exclusive economic zone" for "fishery conservation zone".
 
 #### Transfer of Functions
 
@@ -110,5 +110,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives byHouse Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 

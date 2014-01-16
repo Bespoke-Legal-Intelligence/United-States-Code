@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 July 14, 1964, Pub. L. 88–376, §5(a), 78 Stat. 322.
 
-The words “shall not be confined to that place and” are omitted as unnecessary. The words “throughout the various States, the Commonwealth of Puerto Rico, and the possessions of the United States, and in other areas” are omitted as included in “throughout the world”.
+The words "shall not be confined to that place and" are omitted as unnecessary. The words "throughout the various States, the Commonwealth of Puerto Rico, and the possessions of the United States, and in other areas" are omitted as included in "throughout the world".
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—There is a special deposit account in the Treasury known as the “Union Station Fund”, which shall be administered as a revolving fund.
+Establishment.—There is a special deposit account in the Treasury known as the "Union Station Fund", which shall be administered as a revolving fund.
 
 (b)
 
@@ -36,7 +36,7 @@ Pub. L. 90–264, title I, §117, as added Pub. L. 97–125, §3(3), Dec. 29, 19
 
 6906(b)
 
-40:817(b) (last sentence words before “and the balance”).
+40:817(b) (last sentence words before "and the balance").
 
 6906(c)
 
@@ -44,7 +44,7 @@ Pub. L. 90–264, title I, §117, as added Pub. L. 97–125, §3(3), Dec. 29, 19
 
 6906(d)
 
-40:817(b) (last sentence words after “activities authorized by this part”).
+40:817(b) (last sentence words after "activities authorized by this part").
 
-In subsection (c), the words “without limitation” are omitted as unnecessary.
+In subsection (c), the words "without limitation" are omitted as unnecessary.
 

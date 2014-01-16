@@ -62,13 +62,13 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, §1614(b), (c), (e)(1), 110 Stat. 5
 
 &nbsp;
 
-In subsection (a), the words “repair parts, and other supplies” are substituted for “repair parts, and accouterments” for consistency in the revised title.
+In subsection (a), the words "repair parts, and other supplies" are substituted for "repair parts, and accouterments" for consistency in the revised title.
 
-In subsection (b)(1), the words “repair parts, and other supplies” are substituted for “targets, repair parts and accouterments, and other supplies and appliances” for consistency in the revised title.
+In subsection (b)(1), the words "repair parts, and other supplies" are substituted for "targets, repair parts and accouterments, and other supplies and appliances" for consistency in the revised title.
 
-In subsection (b)(2), the word “appropriate” is omitted as unnecessary.
+In subsection (b)(2), the word "appropriate" is omitted as unnecessary.
 
-In subsection (c)(1), the word “sell” is substituted for “offer for sale” to eliminate unnecessary words.
+In subsection (c)(1), the word "sell" is substituted for "offer for sale" to eliminate unnecessary words.
 
-In subsection (c)(2), the words “any item” are substituted for “rifles, ammunition, or any other item available for sale to individuals under the Civilian Marksmanship Program” to eliminate unnecessary words.
+In subsection (c)(2), the words "any item" are substituted for "rifles, ammunition, or any other item available for sale to individuals under the Civilian Marksmanship Program" to eliminate unnecessary words.
 

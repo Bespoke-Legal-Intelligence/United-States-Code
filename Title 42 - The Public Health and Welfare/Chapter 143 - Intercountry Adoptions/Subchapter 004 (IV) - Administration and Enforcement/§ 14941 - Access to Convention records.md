@@ -18,7 +18,7 @@
 
 #### (2) Exception for administration of the Convention
 
-&emsp;A Convention record may be disclosed, and access to such a record may be provided, in whole or in part, among the Secretary, the Attorney General, central authorities, accredited agencies, and approved persons, only to the extent necessary to administer the Convention or this chapter.
+&emsp;A Convention record may be disclosed, and access to such a record may be provided, inwhole or in part, among the Secretary, the Attorney General, central authorities, accredited agencies, and approved persons, only to the extent necessary to administer the Convention or this chapter.
 
 #### (3) Penalties for unlawful disclosure
 
@@ -34,7 +34,7 @@ Disclosure of, access to, and penalties for unlawful disclosure of, adoption rec
 
 The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
-This chapter, referred to in subsec. (b)(2), was in the original “this Act”, meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
+This chapter, referred to in subsec. (b)(2), was in the original "this Act", meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
 
 #### Effective Date
 

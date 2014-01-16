@@ -28,7 +28,7 @@ Subsection (c) deems the lessor a carrier subject to the provisions of the Inter
 
 #### Amendments
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–353 directed substitution of “subtitle IV of title 49” for “the Interstate Commerce Act (49 U.S.C. 1 et seq.)”, which substitution had previously been made by Pub. L. 97–449.
+<b>1984</b>—Subsec. (c). Pub. L. 98–353 directed substitution of "subtitle IV of title 49" for "the Interstate Commerce Act (49 U.S.C. 1 et seq.)", which substitution had previously been made by Pub. L. 97–449.
 
-<b>1983</b>—Subsec. (c). Pub. L. 97–449 substituted “subtitle IV of title 49” for “the Interstate Commerce Act (49 U.S.C. §1 et seq.)”.
+<b>1983</b>—Subsec. (c). Pub. L. 97–449 substituted "subtitle IV of title 49" for "the Interstate Commerce Act (49 U.S.C. §1 et seq.)".
 

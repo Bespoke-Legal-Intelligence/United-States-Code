@@ -12,7 +12,7 @@ Whenever the Commission finds that—
 
 #### Amendments
 
-<b>1981</b>—Pub. L. 97–35 substituted “may, in accordance with” for “may propose and, in accordance with”.
+<b>1981</b>—Pub. L. 97–35 substituted "may, in accordance with" for "may propose and, in accordance with".
 
 #### Effective Date of 1981 Amendment
 

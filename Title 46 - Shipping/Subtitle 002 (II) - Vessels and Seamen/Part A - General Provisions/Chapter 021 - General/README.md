@@ -31,11 +31,11 @@ Chapter 21 contains definitions that are general in nature and applicable to all
 
 <b>2010</b>—Pub. L. 111–281, title V, §522(b), title VI, §608(b), Oct. 15, 2010, 124 Stat. 2957, 2968, added items 2116 to 2118.
 
-<b>2008</b>—Pub. L. 110–181, div. C, title XXXV, §3529(a)(1), Jan. 28, 2008, 122 Stat. 603, struck out item 2108 “Refund of penalties”.
+<b>2008</b>—Pub. L. 110–181, div. C, title XXXV, §3529(a)(1), Jan. 28, 2008, 122 Stat. 603, struck out item 2108 "Refund of penalties".
 
 <b>1996</b>—Pub. L. 104–324, title III, §303(b), Oct. 19, 1996, 110 Stat. 3917, added item 2115.
 
-<b>1990</b>—Pub. L. 101–508, title X, §10401(b), Nov. 5, 1990, 104 Stat. 1388–398, substituted “Fees” for “Fees prohibited” in item 2110.
+<b>1990</b>—Pub. L. 101–508, title X, §10401(b), Nov. 5, 1990, 104 Stat. 1388–398, substituted "Fees" for "Fees prohibited" in item 2110.
 
 <b>1984</b>—Pub. L. 98–557, §13(b), Oct. 30, 1984, 98 Stat. 2864, added item 2114.
 

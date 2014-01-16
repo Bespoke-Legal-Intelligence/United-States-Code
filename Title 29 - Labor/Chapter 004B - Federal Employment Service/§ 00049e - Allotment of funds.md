@@ -26,7 +26,7 @@ A prior section 49e, act June 6, 1933, ch. 49, §6, 48 Stat. 115, related to app
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–220 substituted “Secretary” for “Secretary of Labor” in concluding provisions.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–220 substituted "Secretary" for "Secretary of Labor" in concluding provisions.
 
 #### Effective Date of 1998 Amendment
 

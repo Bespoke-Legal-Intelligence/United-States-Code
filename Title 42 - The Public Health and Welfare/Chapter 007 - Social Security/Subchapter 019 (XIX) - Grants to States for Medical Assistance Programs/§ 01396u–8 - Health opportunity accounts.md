@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this subchapter, the Secretary shall establish a demonstration program under which States may provide under their State plans under this subchapter (including such a plan operating under a statewide waiver under section 1315 of this title) in accordance with this section for the provision of alternative benefits consistent with subsection (c) for eligible population groups in one or more geographic areas of the State specified by the State. An amendment under the previous sentence is referred to in this section as a “State demonstration program”.
+&emsp;Notwithstanding any other provision of this subchapter, the Secretary shall establish a demonstration program under which States may provide under their State plans under this subchapter (including such a plan operating under a statewide waiver under section 1315 of this title) in accordance with this section for the provision of alternative benefits consistent with subsection (c) for eligible population groups in one or more geographic areas of the State specified by the State. An amendment under the previous sentence is referred to in this section as a "State demonstration program".
 
 #### (2) Initial demonstration
 
@@ -134,9 +134,9 @@
 
 &emsp;&emsp;For purposes of this paragraph:
 
-&emsp;&emsp;&emsp;(i) The term “demonstration program Medicaid services” means, with respect to an individual participating in a State demonstration program, services for which the individual would be provided medical assistance under this subchapter but for the application of the deductible described in paragraph (1)(A).
+&emsp;&emsp;&emsp;(i) The term "demonstration program Medicaid services" means, with respect to an individual participating in a State demonstration program, services for which the individual would be provided medical assistance under this subchapter but for the application of the deductible described in paragraph (1)(A).
 
-&emsp;&emsp;&emsp;(ii) The term “participating provider” means—
+&emsp;&emsp;&emsp;(ii) The term "participating provider" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) with respect to an individual described in subparagraph (A), a health care provider that has entered into a participation agreement with the State for the provision of services to individuals entitled to benefits under the State plan; or
 
@@ -166,7 +166,7 @@
 
 #### (B) Maximum out-of-pocket cost sharing
 
-&emsp;&emsp;For purposes of subparagraph (A)(ii), the term “maximum out-of-pocket cost sharing” means, for an individual or family, the amount by which the annual deductible level applied under paragraph (1)(A) to the individual or family exceeds the balance in the health opportunity account for the individual or family.
+&emsp;&emsp;For purposes of subparagraph (A)(ii), the term "maximum out-of-pocket cost sharing" means, for an individual or family, the amount by which the annual deductible level applied under paragraph (1)(A) to the individual or family exceeds the balance in the health opportunity account for the individual or family.
 
 #### (8) Contributions by employers
 
@@ -176,7 +176,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “health opportunity account” means an account that meets the requirements of this subsection.
+&emsp;For purposes of this section, the term "health opportunity account" means an account that meets the requirements of this subsection.
 
 #### (2) Contributions
 
@@ -268,7 +268,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) shall be available for the purchase of health insurance coverage; and
 
-&emsp;&emsp;&emsp;&emsp;(II) may, subject to clause (iv), be made available (at the option of theState) for such additional expenditures (such as job training and tuition expenses) specified by the State (and approved by the Secretary) as the State may specify.
+&emsp;&emsp;&emsp;&emsp;(II) may, subject to clause (iv), be made available (at the option of the State) for such additional expenditures (such as job training and tuition expenses) specified by the State (and approved by the Secretary) as the State may specify.
 
 #### (iii) Exception from 25 percent savings to Government for private contributions
 
@@ -310,7 +310,7 @@ A prior section 1938 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 #### Prohibiting Initiation of New Health Opportunity Account Demonstration Programs
 
-Pub. L. 111–3, title VI, §613, Feb. 4, 2009, 123 Stat. 101, provided that: “After the date of the enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and Human Services may not approve any new demonstration programs under section 1938 of the Social Security Act (42 U.S.C. 1396u–8).”
+Pub. L. 111–3, title VI, §613, Feb. 4, 2009, 123 Stat. 101, provided that: "After the date of the enactment of this Act \[Feb. 4, 2009\], the Secretary of Health and Human Services may not approve any new demonstration programs under section 1938 of the Social Security Act (42 U.S.C. 1396u–8)."
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

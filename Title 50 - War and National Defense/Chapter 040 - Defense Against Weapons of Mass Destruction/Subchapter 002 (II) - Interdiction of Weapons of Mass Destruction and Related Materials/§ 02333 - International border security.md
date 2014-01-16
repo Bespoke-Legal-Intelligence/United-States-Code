@@ -6,7 +6,7 @@ The Secretary of Defense, in consultation and cooperation with the Commissioner 
 
 #### (b) Other countries
 
-The Secretary of Defense may carry out programs under subsection (a) of this section in a country other than a country specified in that subsection if the Secretary determines that there exists in that country a significant threat of the unauthorized transfer and transportation of nuclear, biological, or chemical weapons or related materials.
+The Secretary of Defense may carry out programs under subsection (a) of this section in a country other than a country specified in that subsection if the Secretary determines that there exists in that country a significant threat of the unauthorized transfer and transportationof nuclear, biological, or chemical weapons or related materials.
 
 #### (c) Assistance to states of former Soviet Union
 
@@ -16,7 +16,7 @@ Assistance under programs referred to in subsection (a) of this section may (not
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–375 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “Of the total amount authorized to be appropriated by section 301, $15,000,000 is availablefor carrying out the programs referred to in subsection (a) of this section.”
+<b>2004</b>—Subsec. (b). Pub. L. 108–375 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "Of the total amount authorized to be appropriated by section 301, $15,000,000 is available for carrying out the programs referred to in subsection (a) of this section."
 
 #### Transfer of Functions
 

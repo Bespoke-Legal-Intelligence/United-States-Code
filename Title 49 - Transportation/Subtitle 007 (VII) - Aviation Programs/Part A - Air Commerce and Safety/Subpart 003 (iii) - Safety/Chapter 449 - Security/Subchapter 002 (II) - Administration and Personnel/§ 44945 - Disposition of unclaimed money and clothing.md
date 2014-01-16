@@ -10,7 +10,7 @@ Disposition of Unclaimed Clothing.—
 
 &emsp;(1)
 
-In general.—In disposing of unclaimed clothing recovered at any airport security checkpoint, the Assistant Secretary shall make every reasonable effort, in consultation with the Secretary of Veterans Affairs, to transfer the clothing to the local airport authority or other local authorities for donation to charity, including local veterans organizations or other local charitable organizations for distribution to homeless or needy veterans and veteran families.
+In general.—In disposing of unclaimed clothing recovered at any airport security checkpoint, the Assistant Secretary shallmake every reasonable effort, in consultation with the Secretary of Veterans Affairs, to transfer the clothing to the local airport authority or other local authorities for donation to charity, including local veterans organizations or other local charitable organizations for distribution to homeless or needy veterans and veteran families.
 
 &emsp;(2)
 
@@ -28,9 +28,9 @@ Limitation.—Nothing in this subsection shall create a cost to the Government.
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–271 inserted “and clothing” after “money” in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
+<b>2013</b>—Pub. L. 112–271 inserted "and clothing" after "money" in section catchline, designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 #### Annual Report
 
-Pub. L. 108–334, title V, §515(b), Oct. 18, 2004, 118 Stat. 1318, provided that: “Not later than 180 days after the date of enactment of this Act \[Oct. 18, 2004\] and annually thereafter, the Administrator of the Transportation Security Administration shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives; the Committee on Appropriations of the House of Representatives; the Committee on Commerce, Science and Transportation of the Senate; and the Committee on Appropriations of the Senate, a report that contains a detailed description of the amount of unclaimed money recovered in total and at each individual airport, and specifically how the unclaimed money is being used to provide civil aviation security.”
+Pub. L. 108–334, title V, §515(b), Oct. 18, 2004, 118 Stat. 1318, provided that: "Not later than 180 days after the date of enactment of this Act \[Oct. 18, 2004\] and annually thereafter, the Administrator of the Transportation Security Administration shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives; the Committee on Appropriations of the House of Representatives; the Committee on Commerce, Science and Transportation of the Senate; and the Committee on Appropriations of the Senate, a report that contains a detailed description of the amount of unclaimed money recovered in total and at each individual airport, and specifically how the unclaimed money is being used to provide civil aviation security."
 

@@ -26,13 +26,13 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 (B) For purposes of paragraph (3)—
 
-&emsp;(i) the term “gross income” means “earned income” within the meaning of section 911(b) of title 26 (determined without regard to any community property laws),
+&emsp;(i) the term "gross income" means "earned income" within the meaning of section 911(b) of title 26 (determined without regard to any community property laws),
 
-&emsp;(ii) in the case of a participant in a plan under which contributions are made by more than one employer, amounts received as gross income from any employer under that planshall be aggregated with amounts received from any other employer under that plan during the same period, and
+&emsp;(ii) in the case of a participant in a plan under which contributions are made by more than one employer, amounts received as gross income from any employer under that plan shall be aggregated with amounts received from any other employer under that plan during the same period, and
 
 &emsp;(iii) any non-basic benefit shall be disregarded.
 
-(5)(A) For purposes of this paragraph, the term “majority owner” means an individual who, at any time during the 60-month period ending on the date the determination is being made—
+(5)(A) For purposes of this paragraph, the term "majority owner" means an individual who, at any time during the 60-month period ending on the date the determination is being made—
 
 &emsp;(i) owns the entire interest in an unincorporated trade or business,
 
@@ -48,7 +48,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 &emsp;(ii) the amount of benefits that would be guaranteed under this section if the participant were not a majority owner.
 
-(6)(A) No benefits accrued under a plan after the date on which the Secretary of the Treasury issues notice that he has determined that any trust which is a part of a plan does not meet the requirements of section 401(a) of title 26, or that the plan does not meet the requirements of section 404(a)(2) of title 26, are guaranteed under this section unless such determination is erroneous. This subparagraph does not apply if the Secretary subsequently issues a notice that such trust meets the requirements of section 401(a) of title 26 or that the plan meets the requirements of section 404(a)(2) of title 26 and if the Secretary determines that the trust or plan has taken action necessary to meet such requirements during the period between the issuance of the notice referred to in the preceding sentence and the issuance of the notice referred to in this sentence.
+(6)(A) No benefits accrued under a plan after the date on which the Secretary of the Treasury issues notice that he has determined that any trust which is a part of a plan does not meet the requirements of section 401(a) of title 26, or that the plan does not meet the requirements of section 404(a)(2) of title 26, are guaranteed under this section unless such determination is erroneous. This subparagraph does not apply if the Secretary subsequently issues a notice that suchtrust meets the requirements of section 401(a) of title 26 or that the plan meets the requirements of section 404(a)(2) of title 26 and if the Secretary determines that the trust or plan has taken action necessary to meet such requirements during the period between the issuance of the notice referred to in the preceding sentence and the issuance of the notice referred to in this sentence.
 
 (B) No benefits accrued under a plan after the date on which an amendment of the plan is adopted which causes the Secretary of the Treasury to determine that any trust under the plan has ceased to meet the requirements of section 401(a) of title 26 or that the plan has ceased to meet the requirements of section 404(a)(2) of title 26, are guaranteed under this section unless such determination is erroneous. This subparagraph shall not apply if the amendment is revoked as of the date it was first effective or amended to comply with such requirements.
 
@@ -74,7 +74,7 @@ Subject to the limitations contained in subsection (b) of this section, the corp
 
 (3)(A)
 
-In general.—Except as provided in subparagraph (C), the term “recovery ratio” means the ratio which—
+In general.—Except as provided in subparagraph (C), the term "recovery ratio" means the ratio which—
 
 &emsp;(i) the sum of the values of all recoveries under section 1362, 1363, or 1364 of this title, determined by the corporation in connection with plan terminations described under subparagraph (B), bears to
 
@@ -84,9 +84,9 @@ In general.—Except as provided in subparagraph (C), the term “recovery ratio
 
 &emsp;(i) the corporation has determined the value of recoveries under section 1362, 1363, or 1364 of this title, and
 
-&emsp;(ii) notices of intent to terminate were provided (or in the case of a termination by the corporation, a notice of determination under section 1342 of this title was issued) during the 5-Federal fiscal year period ending with the third fiscal year preceding the fiscal year inwhich occurs the date of the notice of intent to terminate (or the notice of determination under section 1342 of this title) with respect to the plan termination for which the recovery ratio is being determined.
+&emsp;(ii) notices of intent to terminate were provided (or in the case of a termination by the corporation, a notice of determination under section 1342 of this title was issued) during the 5-Federal fiscal year period ending with the third fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate (or the notice of determination under section 1342 of this title) with respect to the plan termination for which the recovery ratio is being determined.
 
-(C) In the case of a terminated plan with respect to which the outstanding amount of benefit liabilities exceeds $20,000,000, for purposes of this section, the term “recovery ratio” means, with respect to the termination of such plan, the ratio of—
+(C) In the case of a terminated plan with respect to which the outstanding amount of benefit liabilities exceeds $20,000,000, for purposes of this section, the term "recovery ratio" means, with respect to the termination of such plan, the ratio of—
 
 &emsp;(i) the value of the recoveries of the corporation under section 1362, 1363, or 1364 of this title in connection with such plan, to
 
@@ -140,61 +140,61 @@ Section 402(a)(1) of the Pension Protection Act of 2006, referred to in subsec. 
 
 Subsec. (b)(8). Pub. L. 109–280, §403(a), added par. (8).
 
-Subsec. (c)(3)(A). Pub. L. 109–280, §408(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in subparagraph (C), for purposes of this subsection, the term ‘recovery ratio’ means the average ratio, with respect to prior plan terminations described in subparagraph (B), of—
+Subsec. (c)(3)(A). Pub. L. 109–280, §408(b)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "Except as provided in subparagraph (C), for purposes of this subsection, the term 'recovery ratio' means the average ratio, with respect to prior plan terminations described in subparagraph (B), of—
 
-&emsp;“(i) the value of the recovery of the corporation under section 1362, 1363, or 1364 of this title in connection with such prior terminations, to
+&emsp;"(i) the value of the recovery of the corporation under section 1362, 1363, or 1364 of this title in connection with such prior terminations, to
 
-&emsp;“(ii) the amount of unfunded benefit liabilities under such plans as of the termination date in connection with such prior terminations.”
+&emsp;"(ii) the amount of unfunded benefit liabilities under such plans as of the termination date in connection with such prior terminations."
 
-Subsec. (c)(3)(B)(ii). Pub. L. 109–280, §408(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “notices of intent to terminate were provided after December 17, 1987, and during the 5-Federal fiscal year period ending with the fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate with respect to the plan termination for which the recovery ratio is being determined.”
+Subsec. (c)(3)(B)(ii). Pub. L. 109–280, §408(a), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "notices of intent to terminate were provided after December 17, 1987, and during the 5-Federal fiscal year period ending with the fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate with respect to the plan termination for which the recovery ratio is being determined."
 
 Subsec. (g). Pub. L. 109–280, §404(a), which directed amendment of this section, as amended by Pub. L. 109–280, by adding subsec. (g) at the end, was executed by adding subsec. (g) after subsec. (f) and before subsec. (h) to reflect the probable intent of Congress.
 
 Subsec. (h). Pub. L. 109–280, §402(g)(2)(A), added subsec. (h).
 
-<b>1994</b>—Subsec. (b)(3). Pub. L. 103–465, §777(a), inserted at end “The maximum guaranteed monthly benefitshall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act, and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply.”
+<b>1994</b>—Subsec. (b)(3). Pub. L. 103–465, §777(a), inserted at end "The maximum guaranteed monthly benefit shall not be reduced solely on account of the age of a participant in the case of a benefit payable by reason of disability that occurred on or before the termination date, if the participant demonstrates to the satisfaction of the corporation that the Social Security Administration has determined that the participant satisfies the definition of disability under title II or XVI of the Social Security Act, and the regulations thereunder. If a benefit payable by reason of disability is converted to an early or normal retirement benefit for reasons other than a change in the health of the participant, such early or normal retirement benefit shall be treated as a continuation of the benefit payable by reason of disability and this subparagraph shall continue to apply."
 
 Subsec. (f). Pub. L. 103–465, §766(c), added subsec. (f).
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7894(g)(3)(B), substituted “this subchapter” for “section 1321 of this title”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7894(g)(3)(B), substituted "this subchapter" for "section 1321 of this title".
 
-Subsec. (b)(2). Pub. L. 101–239, §7894(g)(1), substituted “60-month” for “60 month”.
+Subsec. (b)(2). Pub. L. 101–239, §7894(g)(1), substituted "60-month" for "60 month".
 
-Subsec. (b)(4)(B)(i), (5)(A), (6). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (b)(4)(B)(i), (5)(A), (6). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-Subsec. (c)(1). Pub. L. 101–239, §7881(f)(11), substituted “under section 1344(a) of this title. Such payment shall be made to such participant” for “under section 1344(a) of this title, to such participant”.
+Subsec. (c)(1). Pub. L. 101–239, §7881(f)(11), substituted "under section 1344(a) of this title. Such payment shall be made to such participant" for "under section 1344(a) of this title, to such participant".
 
-Pub. L. 101–239, §7881(f)(4), struck out “(in the case of a deceased participant)” before “to such participant's beneficiaries”.
+Pub. L. 101–239, §7881(f)(4), struck out "(in the case of a deceased participant)" before "to such participant's beneficiaries".
 
-Subsec. (c)(3)(B)(ii). Pub. L. 101–239, §7881(f)(5), inserted before period at end “, and during the 5-Federal fiscal year period ending with the fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate with respect to the plan termination for which the recovery ratio is being determined”.
+Subsec. (c)(3)(B)(ii). Pub. L. 101–239, §7881(f)(5), inserted before period at end ", and during the 5-Federal fiscal year period ending with the fiscal year preceding the fiscal year in which occurs the date of the notice of intent to terminate with respect to the plan termination for which the recovery ratio is being determined".
 
 <b>1987</b>—Subsecs. (c) to (e). Pub. L. 100–203 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-Subsec. (b)(7). Pub. L. 99–272, §11016(c)(8), in provisions following subpar. (B) substituted “12 months beginning with” for “12 months following”.
+Subsec. (b)(7). Pub. L. 99–272, §11016(c)(8), in provisions following subpar. (B) substituted "12 months beginning with" for "12 months following".
 
 Subsec. (d). Pub. L. 99–272, §11016(c)(9), added subsec. (d).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–364, §403(c)(2), inserted “, in accordance with this section,” after “guarantee” and “single-employer” before “plan which”, and struck out “the terms of” after “under”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364, §403(c)(2), inserted ", in accordance with this section," after "guarantee" and "single-employer" before "plan which", and struck out "the terms of" after "under".
 
-Subsec. (b). Pub. L. 96–364, §403(c)(3), (4), in par. (1) substituted “(7)” for “(8)”, struck out par. (5) relating to receipt of a life annuity commencing at age 65, and redesignated pars. (6) to (8) as (5) to (7), respectively.
+Subsec. (b). Pub. L. 96–364, §403(c)(3), (4), in par. (1) substituted "(7)" for "(8)", struck out par. (5) relatingto receipt of a life annuity commencing at age 65, and redesignated pars. (6) to (8) as (5) to (7), respectively.
 
 #### Effective Date of 2006 Amendment
 
 Amendment by section 402(g)(2)(A) of Pub. L. 109–280 applicable to plan years ending after Aug. 17, 2006, see section 402(j) of Pub. L. 109–280, set out as a Special Funding Rules for Certain Plans Maintained by Commercial Airlines note under section 430 of Title 26, Internal Revenue Code.
 
-Pub. L. 109–280, title IV, §403(b), Aug. 17, 2006, 120 Stat. 928, provided that: “The amendment made by this section \[amending this section\] shall apply to benefits that become payable as a result of an event which occurs after July 26, 2005.”
+Pub. L. 109–280, title IV, §403(b), Aug. 17, 2006, 120 Stat. 928, provided that: "The amendment made by this section \[amending this section\] shall apply to benefits that become payable as a result of an event which occurs after July 26, 2005."
 
-Pub. L. 109–280, title IV, §404(c), Aug. 17, 2006, 120 Stat. 928, provided that: “The amendments made this section \[amending this section and section 1344 of this title\] shall apply with respect to proceedings initiated under title 11, United States Code, or under any similar Federal law or law of a State or political subdivision, on or after the date that is 30 days after the date of enactment of this Act \[Aug. 17, 2006\].”
+Pub. L. 109–280, title IV, §404(c), Aug. 17, 2006, 120 Stat. 928, provided that: "The amendments made this section \[amending this section and section 1344 of this title\] shall apply with respect to proceedings initiated under title 11, United States Code, or under any similar Federal law or law of a State or political subdivision, on or after the date that is 30 days after the date of enactment of this Act \[Aug. 17, 2006\]."
 
 Amendment by section 407(a) of Pub. L. 109–280 applicable to plan terminations under section 1341(c) of this title with respect to which notices of intent to terminate are provided under section 1341(a)(2) of this title after Dec. 31, 2005, and under section 1342 of this title with respect to which notices of determination are provided under such section after such date, see section 407(d)(1) of Pub. L. 109–280, set out as a note under section 1321 of this title.
 
-Pub. L. 109–280, title IV, §408(c), Aug. 17, 2006, 120 Stat. 932, provided that: “The amendments made by this section \[amending this section and section 1344 of this title\] shall apply for any termination for which notices of intent to terminate are provided (or in the case of a termination by the corporation, a notice of determination under section 4042 under the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1342\] is issued) on or after the date which is 30 days after the date of enactment of this section \[Aug. 17, 2006\].”
+Pub. L. 109–280, title IV, §408(c), Aug. 17, 2006, 120 Stat. 932, provided that: "The amendments made by this section \[amending this section and section 1344 of this title\] shall apply for any termination for which notices of intent to terminate are provided (or in the case of a termination by the corporation, a notice of determination under section 4042 under the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1342\] is issued) on or after the date which is 30 days after the date of enactment of this section \[Aug. 17, 2006\]."
 
 #### Effective Date of 1994 Amendment
 
 Amendment by section 766(c) of Pub. L. 103–465 applicable to plan amendments adopted on or after Dec. 8, 1994, see section 766(d) of Pub. L. 103–465, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Pub. L. 103–465, title VII, §777(b), Dec. 8, 1994, 108 Stat. 5049, provided that: “The amendment made by this section \[amending this section\] shall be effective for plan terminations under section 4041(c) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1341(c)\] with respect to which notices of intent to terminate are provided under section 4041(a)(2) of such Act \[29 U.S.C. 1342\], or under section 4042 of such Act with respect to which proceedings are instituted by the corporation, on or after the date of enactment of this Act \[Dec. 8, 1994\].”
+Pub. L. 103–465, title VII, §777(b), Dec. 8, 1994, 108 Stat. 5049, provided that: "The amendment made by this section \[amending this section\] shall be effective for plan terminations under section 4041(c) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1341(c)\] with respect to which notices of intent to terminate are provided under section 4041(a)(2) of such Act \[29 U.S.C. 1342\], or under section 4042 of such Act with respect to which proceedings are instituted by the corporation, on or after the date of enactment of this Act \[Dec. 8, 1994\]."
 
 #### Effective Date of 1989 Amendment
 
@@ -220,13 +220,13 @@ Amendment by Pub. L. 96–364 effective Sept. 26, 1980, except as specifically p
 
 Pub. L. 100–203, title IX, §9312(b)(3)(B), Dec. 22, 1987, 101 Stat. 1330–363, as amended by Pub. L. 101–239, title VII, §7881(f)(1), (6), Dec. 19, 1989, 103 Stat. 2440, provided that:
 
-“(i)
+"(i)
 
 In general.—In the case of any plan termination to which the amendments made by this section \[amending sections 1301, 1305, 1322, 1341, 1342, 1349, 1362, 1364, and 1368 of this title and repealing section 1349 of this title\] apply and with respect to which notices of intent to terminate were provided on or before December 17, 1990—
 
-&emsp;“(I) subparagraph (A) of section 4022(c)(3) of ERISA \[29 U.S.C. 1322(c)(3)(A)\] (as amended by this paragraph) shall not apply, and
+&emsp;"(I) subparagraph (A) of section 4022(c)(3) of ERISA \[29 U.S.C. 1322(c)(3)(A)\] (as amended by this paragraph) shall not apply, and
 
-&emsp;“(II) subparagraph (C) of section 4022(c)(3) of ERISA (as so amended) shall apply irrespective of the outstanding amount of benefit liabilities under the plan.
+&emsp;"(II) subparagraph (C) of section 4022(c)(3) of ERISA (as so amended) shall apply irrespective of the outstanding amount of benefit liabilities under the plan.
 
-“(ii) \[Repealed. Pub. L. 101–239, title VII, §7881(f)(6), Dec. 19, 1989, 103 Stat. 2440.\]”
+"(ii) \[Repealed. Pub. L. 101–239, title VII, §7881(f)(6), Dec. 19, 1989, 103 Stat. 2440.\]"
 

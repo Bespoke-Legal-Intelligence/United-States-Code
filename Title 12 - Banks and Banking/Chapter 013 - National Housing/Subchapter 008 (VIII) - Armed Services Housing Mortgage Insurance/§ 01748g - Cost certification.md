@@ -6,7 +6,7 @@ Except in the case of mortgages on multifamily rental housing projects insured u
 
 #### Amendments
 
-<b>1959</b>—Pub. L. 86–372 substituted “Except in the case of mortgages on multifamily rental housing projects insured under section 1748h–2 of this title, the” for “The”.
+<b>1959</b>—Pub. L. 86–372 substituted "Except in the case of mortgages on multifamily rental housing projects insured under section 1748h–2 of this title, the" for "The".
 
 <b>1955</b>—Act Aug. 11, 1955, struck out provisions requiring cost certifications.
 

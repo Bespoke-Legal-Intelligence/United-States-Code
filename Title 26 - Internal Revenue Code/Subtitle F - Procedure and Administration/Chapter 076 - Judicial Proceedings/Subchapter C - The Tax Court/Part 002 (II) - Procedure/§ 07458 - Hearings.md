@@ -6,5 +6,5 @@ Notice and opportunity to be heard upon any proceeding instituted before the Tax
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” and struck out “nor his delegate” after “nor the Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" and struck out "nor his delegate" after "nor the Secretary".
 

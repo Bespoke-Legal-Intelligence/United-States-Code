@@ -8,7 +8,7 @@
 
 #### (2) Alternative administrative entity
 
-&emsp;The chief executive officer of a State may apply to the Corporation for approval to usean alternative administrative entity to carry out the duties otherwise entrusted to a State Commission under this chapter. The chief executive officer shall ensure that any alternative administrative entity used in lieu of a State Commission provides for the individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) of this section to play a significant policymaking role in carrying out the duties otherwise entrusted to a State Commission, including the submission of applications on behalf of the State under section 12582 of this title.
+&emsp;The chief executive officer of a State may apply to the Corporation for approval to use an alternative administrative entity to carry out the duties otherwise entrusted to a State Commission under this chapter. The chief executive officer shall ensure that any alternative administrative entity used in lieu of a State Commission provides for the individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) of this section to play a significant policymaking role in carrying out the duties otherwise entrusted to a State Commission, including the submission of applications on behalf of the State under section 12582 of this title.
 
 #### (b) Appointment and size
 
@@ -152,7 +152,7 @@ The State Commission or alternative administrative entity for a State shall be r
 
 &emsp;&emsp;(B) to apply for assistance under the national service laws using, if appropriate, information and materials available through a clearinghouse established under section 12653a <sup>1</sup> of this title.
 
-&emsp;(7) Assistance in the provision of health care and child care benefits under section 12594 of this title to participants in national service programs that receive assistance under section 12571 of this title.
+&emsp;(7) Assistance in the provision of health care and child care benefits under section 12594 ofthis title to participants in national service programs that receive assistance under section 12571 of this title.
 
 &emsp;(8) Development of a State system for the recruitment and placement of participants in programs that receive assistance under the national service laws and dissemination of information concerning national service programs that receive such assistance or approved national service positions.
 
@@ -238,7 +238,7 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 #### (3) Rejection
 
-&emsp;The Corporation may reject a State Commission if the Corporation determines that the composition, membership, or duties of the State Commission do not comply with the requirements of this section. The Corporation may reject a request to use an alternative administrative entity in lieu of a State Commission if the Corporation determines that the entity does not provide for the individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) of this section to play a significant policymaking role as described in paragraph\(2). If the Corporation rejects a State Commission or alternative administrative entity under this paragraph, the Corporation shall promptly notify the State of the reasons for the rejection.
+&emsp;The Corporation may reject a State Commission if the Corporation determines that the composition, membership, or duties of the State Commission do not comply with the requirements of this section. The Corporation may reject a request to use an alternative administrative entity in lieu of a State Commission if the Corporation determines that the entity does not provide for the individuals described in paragraph (1), and some of the individuals described in paragraph (2), of subsection (c) of this section to play a significant policymaking role as described in paragraph (2). If the Corporation rejects a State Commission or alternative administrative entity under this paragraph, the Corporation shall promptly notify the State of the reasons for the rejection.
 
 #### (4) Resubmission and reconsideration
 
@@ -308,15 +308,15 @@ Subject to such requirements as the Corporation may prescribe, a State Commissio
 
 &emsp;&emsp;(C) to limit or alter in any way the immunities that are available under applicable law for State officials and employees not described in this subsection.
 
-(Pub. L. 101–610, title I, §178, as added and amended Pub. L. 103–82, title II, §201(a), title IV, §405(p)(1), Sept. 21, 1993, 107 Stat. 867, 922; Pub. L. 111–13, title I, §1606, Apr. 21, 2009, 123 Stat. 1530.)
+(Pub. L. 101–610, title I, §178, as added and amended Pub. L. 103–82, title II, §201(a), title IV,§405(p)(1), Sept. 21, 1993, 107 Stat. 867, 922; Pub. L. 111–13, title I, §1606, Apr. 21, 2009, 123 Stat. 1530.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(2) and (k)(1), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+This chapter, referred to in subsecs. (a)(2) and (k)(1), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, known as the National and Community Service Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 The Domestic Volunteer Service Act of 1973, referred to in subsecs. (c)(2)(E) and (e)(5), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
-Section 12653a of this title, referred to in subsec. (e)(6)(B), was in the original “section 198A”, meaningsection 198A of Pub. L. 101–610, as added by section 104(c) of Pub. L. 103–82, which was repealed, and section 198B was redesignated section 198A, by Pub. L. 111–13, title I, §1803(a)(1), (b), Apr. 21, 2009, 123 Stat. 1554. Provisions similar to section 12653a are now contained in section 12653o of this title.
+Section 12653a of this title, referred to in subsec. (e)(6)(B), was in the original "section 198A", meaning section 198A of Pub. L. 101–610, as added by section 104(c) of Pub. L. 103–82, which was repealed, and section 198B was redesignated section 198A, by Pub. L. 111–13, title I, §1803(a)(1), (b), Apr. 21, 2009, 123 Stat. 1554. Provisions similar to section 12653a are now contained in section 12653o of this title.
 
 The Community Services Block Grant Act, referred to in subsec. (k)(1), is subtitle B (§671 et seq.) of title VI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 511, which is classified generally to chapter 106 (§9901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9901 of this title and Tables.
 
@@ -326,23 +326,23 @@ A prior section 12638, Pub. L. 101–610, title I, §178, Nov. 16, 1990, 104 Sta
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(2). Pub. L. 111–13, §1606(1), substituted “section 12582” for “sections 12543 and 12582”.
+<b>2009</b>—Subsec. (a)(2). Pub. L. 111–13, §1606(1), substituted "section 12582" for "sections 12543 and 12582".
 
-Subsec. (c)(1)(I). Pub. L. 111–13, §1606(2)(A), substituted “subsection (a), (b), or (c) of section 12572 of this title.” for “section 12572(a) of this title, such as a youth corps program described in section 12572(a)(2) of this title.”
+Subsec. (c)(1)(I). Pub. L. 111–13, §1606(2)(A), substituted "subsection (a), (b), or (c) of section 12572 of this title." for "section 12572(a) of this title, such as a youth corps program described in section 12572(a)(2) of this title."
 
 Subsec. (c)(1)(J). Pub. L. 111–13, §1606(2)(B), added subpar. (J).
 
-Subsec. (c)(3). Pub. L. 111–13, §1606(3), struck out “, unless the State permits the representative to serve as a voting member of the State Commission or alternative administrative entity” before period at end.
+Subsec. (c)(3). Pub. L. 111–13, §1606(3), struck out ", unless the State permits the representative to serve as a voting member of the State Commission or alternative administrative entity" before period at end.
 
-Subsec. (d)(6)(B). Pub. L. 111–13, §1606(4), substituted “section 12651d(b)(12)” for “section 12651d(b)(11)”.
+Subsec. (d)(6)(B). Pub. L. 111–13, §1606(4), substituted "section 12651d(b)(12)" for "section 12651d(b)(11)".
 
 Subsec. (e)(1). Pub. L. 111–13, §1606(5)(A), added par. (1) and struck out former par. (1) which related to preparation of a national service plan for the State.
 
-Subsec. (e)(2). Pub. L. 111–13, §1606(5)(B), substituted “section 12582” for “sections 12543 and 12582”.
+Subsec. (e)(2). Pub. L. 111–13, §1606(5)(B), substituted "section 12582" for "sections 12543 and 12582".
 
 Subsecs. (f) to (l). Pub. L. 111–13, §1606(6), (7), added subsecs. (f) and (g) and redesignated former subsecs. (f) to (j) as (h) to (l), respectively.
 
-<b>1993</b>—Subsec. (i)(2)(A). Pub. L. 103–82, §405(p)(1), substituted “the Corporation” for “ACTION, or of the Corporation,” before “that carries out”.
+<b>1993</b>—Subsec. (i)(2)(A). Pub. L. 103–82, §405(p)(1), substituted "the Corporation" for "ACTION, or of the Corporation," before "that carries out".
 
 #### Effective Date of 2009 Amendment
 
@@ -354,21 +354,21 @@ Amendment by section 405(p)(1) of Pub. L. 103–82 effective Apr. 4, 1994, see s
 
 #### Effective Date
 
-Pub. L. 103–82, title II, §201(c), Sept. 21, 1993, 107 Stat. 873, provided that: “The amendments made by this section \[enacting this section and repealing former section 12638 of this title\] shall take effect on October 1, 1993.”
+Pub. L. 103–82, title II, §201(c), Sept. 21, 1993, 107 Stat. 873, provided that: "The amendments made by this section \[enacting this section and repealing former section 12638 of this title\] shall take effect on October 1, 1993."
 
 #### Transitional Provisions
 
 Pub. L. 103–82, title II, §201(d), Sept. 21, 1993, 107 Stat. 873, provided that:
 
-“(1)
+"(1)
 
 Use of alternatives to state commission.—If a State does not have a State Commission on National and Community Service that satisfies the requirements specified in section 178 of the National and Community Service Act of 1990 \[42 U.S.C. 12638\], as amended by subsection (a), the Corporation for National and Community Service may authorize the chief executive officer of the State to use an existing agency of the State to perform the duties otherwise reserved to a State Commission under subsection (e) of such section.
 
-“(2)
+"(2)
 
-Application of subsection.—This subsection shall apply only during the 27-month period beginning on the date of the enactment of this Act \[Sept. 21, 1993\].”
+Application of subsection.—This subsection shall apply only during the 27-month period beginning on the date of the enactment of this Act \[Sept. 21, 1993\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The word “to” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "to" probably should not appear.</i>
 

@@ -28,15 +28,15 @@ In this section:
 
 #### (1) Agricultural commodity
 
-&emsp;The term “agricultural commodity” has the meaning given that term in section 5602 of title 7.
+&emsp;The term "agricultural commodity" has the meaning given that term in section 5602 of title 7.
 
 #### (2) Medical device
 
-&emsp;The term “medical device” has the meaning given the term “device” in section 321 of title 21.
+&emsp;The term "medical device" has the meaning given the term "device" in section 321 of title 21.
 
 #### (3) Medicine
 
-&emsp;The term “medicine” has the meaning given the term “drug” in section 321 of title 21.
+&emsp;The term "medicine" has the meaning given the term "drug" in section 321 of title 21.
 
 #### (d) Application of provisions of Iran Sanctions Act of 1996
 
@@ -70,7 +70,7 @@ Nothing in this section shall be construed to limit the authority of the Preside
 
 #### References in Text
 
-The Iran Sanctions Act of 1996, referred to in subsecs. (a), (d), and (e), is Pub. L. 104–172, Aug. 5, 1996, 110 Stat. 1541, which is set out as a note under section 1701 of Title 50, War and National Defense. Section 6(a) of the Act, as amended by section 204, is section 6(a) of Pub. L. 104–172, as amended by section 204 of Pub. L. 112–158.
+The Iran Sanctions Act of 1996, referred to in subsecs. (a), (d), and (e), is Pub. L. 104–172, Aug. 5, 1996, 110 Stat.1541, which is set out as a note under section 1701 of Title 50, War and National Defense. Section 6(a) of the Act, as amended by section 204, is section 6(a) of Pub. L. 104–172, as amended by section 204 of Pub. L. 112–158.
 
 This Act, referred to in subsecs. (d) and (e), is Pub. L. 112–158, Aug. 10, 2012, 126 Stat. 1214, known as the Iran Threat Reduction and Syria Human Rights Act of 2012, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8701 of this title and Tables.
 

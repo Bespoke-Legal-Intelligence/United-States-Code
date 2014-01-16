@@ -10,13 +10,13 @@ Act Feb. 20, 1905, ch. 592, §27, 33 Stat. 730.
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–43 substituted “trademarks” for “trade-marks”.
+<b>1999</b>—Pub. L. 106–43 substituted "trademarks" for "trade-marks".
 
-<b>1998</b>—Pub. L. 105–330, §201(a)(11), substituted “name of any domestic” for “name of the any domestic”.
+<b>1998</b>—Pub. L. 105–330, §201(a)(11), substituted "name of any domestic" for "name of the any domestic".
 
-Pub. L. 105–330, §201(a)(12), substituted “trademark” for “trade-mark” wherever appearing.
+Pub. L. 105–330, §201(a)(12), substituted "trademark" for "trade-mark" wherever appearing.
 
-<b>1978</b>—Pub. L. 95–410 substituted “Except as provided in subsection (d) of section 1526 of title 19, no article” for “No article”.
+<b>1978</b>—Pub. L. 95–410 substituted "Except as provided in subsection (d) of section 1526 of title 19, no article" for "No article".
 
 #### Effective Date of 1998 Amendment
 

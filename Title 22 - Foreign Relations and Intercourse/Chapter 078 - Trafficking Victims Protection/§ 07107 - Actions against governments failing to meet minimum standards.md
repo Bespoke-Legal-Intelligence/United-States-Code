@@ -12,7 +12,7 @@ It is the policy of the United States not to provide nonhumanitarian, nontrade-r
 
 #### (1) Annual report
 
-&emsp;Not later than June 1 of each year, the Secretary of State shall submit to the appropriate congressional committees a report with respect to the status of severe forms of trafficking in persons that shall include—
+&emsp;Not later than June 1 of each year, the Secretary of State shall submit to the appropriate congressional committees a report describing the anti-trafficking efforts of the United States and foreign governments according to the minimum standards and criteria enumerated in section 7106 of this title, and the nature and scope of trafficking in persons in each country and analysis of the trend lines for individual governmental efforts. The report should include—
 
 &emsp;&emsp;(A) a list of those countries, if any, to which the minimum standards for the elimination of trafficking are applicable and whose governments fully comply with such standards;
 
@@ -22,21 +22,13 @@ It is the policy of the United States not to provide nonhumanitarian, nontrade-r
 
 &emsp;&emsp;(D) information on the measures taken by the United Nations, the Organization for Security and Cooperation in Europe, the North Atlantic Treaty Organization and, as appropriate, other multilateral organizations in which the United States participates, to prevent the involvement of the organization's employees, contractor personnel, and peacekeeping forces in trafficking in persons or the exploitation of victims of trafficking;
 
-&emsp;&emsp;(E) reporting and analysis on the emergence or shifting of global patterns in human trafficking, including data on the number of victims trafficked to, through, or from major source and destination countries, disaggregated by nationality, gender, and age, to the extent possible; and
+&emsp;&emsp;(E) reporting and analysis on the emergence or shifting of global patterns in human trafficking, including data on the number of victims trafficked to, through, or from major source and destination countries, disaggregated by nationality, gender, and age, to the extent possible;
 
-&emsp;&emsp;(F) emerging issues in human trafficking.
+&emsp;&emsp;(F) emerging issues in human trafficking; and
 
-#### (2) Interim reports
+&emsp;&emsp;(G) a section entitled "Promising Practices in the Eradication of Trafficking in Persons" to highlight effective practices and use of innovation and technology in prevention, protection, prosecution, and partnerships, including by foreign governments, the private sector, and domestic civil society actors.
 
-&emsp;In addition to the annual report under paragraph (1), the Secretary of State may submit to the appropriate congressional committees at any time one or more interim reports with respect to the status of severe forms of trafficking in persons, including information about countries whose governments—
-
-&emsp;&emsp;(A) have come into or out of compliance with the minimum standards for the elimination of trafficking; or
-
-&emsp;&emsp;(B) have begun or ceased to make significant efforts to bring themselves into compliance,
-
-> &emsp;since the transmission of the last annual report.
-
-#### (3) Special watch list
+#### (2) Special watch list
 
 #### (A) Submission of list
 
@@ -60,7 +52,7 @@ It is the policy of the United States not to provide nonhumanitarian, nontrade-r
 
 #### (C) Relation of special watch list to annual trafficking in persons report
 
-&emsp;&emsp;A determination that a country shall not be placed on the special watch list described in subparagraph (A) shall not affect in any way the determination to be made in the following year as to whether a country is complying with the minimum standards for the elimination of trafficking or whether a country is making significant efforts to bring itself into compliance with such standards.
+&emsp;&emsp;A determination that a country shall not be placed on the special watch list described in subparagraph (A) shall not affect in anyway the determination to be made in the following year as to whether a country is complying with the minimum standards for the elimination of trafficking or whether a country is making significant efforts to bring itself into compliance with such standards.
 
 #### (D) Countries on special watch list for 2 consecutive years
 
@@ -78,7 +70,11 @@ It is the policy of the United States not to provide nonhumanitarian, nontrade-r
 
 &emsp;&emsp;&emsp;&emsp;(III) the country is devoting sufficient resources to implement the plan.
 
-#### (4) Significant efforts
+#### (E) Public notice
+
+&emsp;&emsp;Not later than 30 days after notifying Congress of each country determined to have met the requirements under subclauses (I) through (III) of subparagraph (D)(ii), the Secretary of State shall provide a detailed description of the credible evidence supporting such determination on a publicly available website maintained by the Department of State.
+
+#### (3) Significant efforts
 
 &emsp;In determinations under paragraph (1) or (2) as to whether the government of a country is making significant efforts to bring itself into compliance with the minimum standards for the elimination of trafficking, the Secretary of State shall consider—
 
@@ -140,85 +136,95 @@ The determinations referred to in subsection (c) of this section are the followi
 
 #### (6) Definition of multilateral development bank
 
-&emsp;In this subsection, the term “multilateral development bank” refers to any of the following institutions: the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the Inter-American Investment Corporation, the African Development Bank, the African Development Fund, the European Bank for Reconstruction and Development, and the Multilateral Investment Guaranty Agency.
+&emsp;In this subsection, the term "multilateral development bank" refers to any of the following institutions: the International Bank for Reconstruction and Development, the International Development Association, the International Finance Corporation, the Inter-American Development Bank, the Asian Development Bank, the Inter-American Investment Corporation, the African Development Bank, the African Development Fund, the European Bank for Reconstruction and Development, and the Multilateral Investment Guaranty Agency.
 
 #### (e) Certification
 
-Together with any notification under subsection (c) of this section, the President shall provide a certification by the Secretary of State that, with respect to any assistance described in clause (ii), (iii), or (v) of section 7102(7)(A) of this title, or with respect to any assistance described in section 7102(7)(B) of this title, no assistance is intended to be received or used by any agency or official who has participated in, facilitated, or condoned a severe form of trafficking in persons.
+Together with any notification under subsection (c) of this section, the President shall provide a certification by the Secretary of State that, with respect to any assistance described in clause (ii), (iii), or (v) of section 7102(8)(A) of this title, or with respect to any assistance described in section 7102(8)(B) of this title, no assistance is intended to be received or used by any agency or official who has participated in, facilitated, or condoned a severe form of trafficking in persons.
 
 #### (f) Subsequent waiver authority
 
-After the President has made a determination described in subsection (d)(1) of this section with respect to the government of a country, the President may at any time make a determination described in paragraphs (4) and (5) of subsection (d) of this section to waive, in whole orin part, the measures imposed against the country by the previous determination under subsection (d)(1) of this section.
+After the President has made a determination described in subsection (d)(1) of this section with respect to the government of a country, the President may at any time make a determination described in paragraphs (4) and (5) of subsection (d) of this section to waive, in whole or in part, the measures imposed against the country by the previous determination under subsection (d)(1) of this section.
 
-(Pub. L. 106–386, div. A, §110, Oct. 28, 2000, 114 Stat. 1482; Pub. L. 108–193, §6(e), (h), (i), Dec. 19, 2003, 117 Stat. 2882, 2884; Pub. L. 109–164, title I, §104(e)(1), Jan. 10, 2006, 119 Stat. 3565; Pub. L. 110–457, title I, §§107(a), (b), 108(b), Dec. 23, 2008, 122 Stat. 5049, 5051.)
+(Pub. L. 106–386, div. A, §110, Oct. 28, 2000, 114 Stat. 1482; Pub. L. 108–193, §6(e), (h), (i), Dec. 19, 2003, 117 Stat. 2882, 2884; Pub. L. 109–164, title I, §104(e)(1), Jan. 10, 2006, 119 Stat. 3565; Pub. L. 110–457, title I, §§107(a), (b), 108(b), Dec. 23, 2008, 122 Stat. 5049, 5051; Pub. L. 113–4, title XII, §§1205, 1212(b)(2)(A)(i), Mar. 7, 2013, 127 Stat. 139, 143.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (d)(4), was in the original "this division", meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, known as the Trafficking Victims Protection Act of 2000, which is classified principally to this chapter. For complete classification of division A to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b)(1). Pub. L. 113–4, §1205(1)(A), in introductory provisions, substituted "describing the anti-trafficking efforts of the United States and foreign governments according to the minimum standards and criteria enumerated in section 7106 of this title, and the nature and scope of trafficking in persons in each country and analysis of the trend lines for individual governmental efforts. The report should include—" for "with respect to the status of severe forms of trafficking in persons that shall include—".
+
+Subsec. (b)(1)(G). Pub. L. 113–4, §1205(1)(B)–(D), added subpar. (G).
+
+Subsec. (b)(2) to (4). Pub. L. 113–4, §1205(2)–(4), redesignated pars. (3) and (4) as (2) and (3), respectively, added subpar. (E) in par. (2), and struck out former par. (2) which related to interim reports.
+
+Subsec. (e). Pub. L. 113–4, §1212(b)(2)(A)(i), substituted "section 7102(8)(A)" for "section 7102(7)(A) and "section 7102(8)(B)" for "section 7102(7)(B)".
 
 <b>2008</b>—Subsec. (b)(1)(E), (F). Pub. L. 110–457, §108(b), added subpars. (E) and (F).
 
 Subsec. (b)(3)(D). Pub. L. 110–457, §107(a), added subpar. (D).
 
-Subsec. (d)(1)(A)(ii). Pub. L. 110–457, §107(b), inserted “such assistance to the government of the country for the subsequent fiscal year and will not provide” after “the United States will not provide”.
+Subsec. (d)(1)(A)(ii). Pub. L. 110–457, §107(b), inserted "such assistance to the government of the country for the subsequent fiscal year and will not provide" after "the United States will not provide".
 
 <b>2006</b>—Subsec. (b)(1)(D). Pub. L. 109–164 added subpar. (D).
 
 <b>2003</b>—Subsec. (b)(3), (4). Pub. L. 108–193, §6(e), added par. (3) and redesignated former par. (3) as (4).
 
-Subsec. (d)(4). Pub. L. 108–193, §6(h)(1), inserted “or funding for participation in educational and cultural exchange programs” after “nonhumanitarian, nontrade-related foreign assistance”.
+Subsec. (d)(4). Pub. L. 108–193, §6(h)(1), inserted "or funding for participation in educational and cultural exchange programs" after "nonhumanitarian, nontrade-related foreign assistance".
 
-Subsec. (d)(5)(A)(i). Pub. L. 108–193, §6(h)(2), inserted “or funding for participation in educational and cultural exchange programs” after “foreign assistance”.
+Subsec. (d)(5)(A)(i). Pub. L. 108–193, §6(h)(2), inserted "or funding for participation in educational and cultural exchange programs" after "foreign assistance".
 
 Subsec. (f). Pub. L. 108–193, §6(i), added subsec. (f).
 
 #### Translation of Trafficking-in-Persons Report
 
-Pub. L. 110–457, title I, §107(c), Dec. 23, 2008, 122 Stat. 5050, provided that: “The Secretary of State shall—
+Pub. L. 110–457, title I, §107(c), Dec. 23, 2008, 122 Stat. 5050, provided that: "The Secretary of State shall—
 
-&emsp;“(1) timely translate the annual report submitted under section 110(b) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107(b)) into the principal languages of as many countries as possible, with particular emphasis on the languages of the countries on the lists described in subparagraphs (B) and (C) of section 110(b)(1) of such Act; and
+&emsp;"(1) timely translate the annual report submitted under section 110(b) of the Trafficking Victims Protection Act of 2000 (22 U.S.C. 7107(b)) into the principal languages of as many countries as possible, with particular emphasis on the languages of the countries on the lists described in subparagraphs (B) and (C) of section 110(b)(1) of such Act; and
 
-&emsp;“(2) ensure that the translations described in paragraph (1) are made available to the public through postings on the Internet website of the Department of State and other appropriate websites.”
+&emsp;"(2) ensure that the translations described in paragraph (1) are made available to the public throughpostings on the Internet website of the Department of State and other appropriate websites."
 
-#### Presidential Determination With Respect to Foreign Governments’ Efforts Regarding Trafficking in Persons
+#### Presidential Determination With Respect to Foreign Governments' Efforts Regarding Trafficking in Persons
 
-Determination of President of the United States, No. 2012–16, Sept. 14, 2012, 77 F.R. 58921, as corrected by Department of State Public Notice 8048, dated Sept. 28, 2012, 77 F.R. 61046, provided:
+Determination of President of the United States, No. 2013–16, Sept. 17, 2013, 78 F.R. 58861, provided:
 
 Memorandum for the Secretary of State
 
-Consistent with section 110 of the Trafficking Victims Protection Act of 2000 (Division A of Public Law 106–386), as amended (the “Act”), I hereby:
+Consistent with section 110 of the Trafficking Victims Protection Act of 2000 (Division A of Public Law 106–386), as amended (the "Act"), I hereby:
 
-Make the determination provided in section 110(d)(1)(A)(i) of the Act, with respect to the Democratic Republic of the Congo, Equatorial Guinea, Sudan, and Zimbabwe, not to provide certain funding for those countries’ governments for Fiscal Year 2013, until such governments comply with the minimum standards or make significant efforts to bring themselves into compliance, as may be determined by the Secretary of State in a report to the Congress pursuant to section 110(b) of the Act;
+Make the determination provided in section 110(d)(1)(A)(i) of the Act, with respect to the Democratic People's Republic of Korea, the Democratic Republic of the Congo, Equatorial Guinea, Iran, Sudan, and Zimbabwe, not to provide certain funding for those countries' governments for Fiscal Year (FY) 2014, until such governments comply with the minimum standards or make significant efforts to bring themselves into compliance, as may be determined by the Secretary of State in a report to the Congress pursuant to section 110(b) of the Act;
 
-Make the determination provided in section 110(d)(1)(A)(ii) of the Act, with respect to Cuba, the Democratic People's Republic of Korea, Eritrea, Iran, Madagascar, and Syria not to provide certain funding for those countries’ governments for Fiscal Year 2013, until such governments comply with the minimum standards or make significant efforts to bring themselves into compliance, as may be determined by the Secretary of State in a report to the Congress pursuant to section 110(b) of the Act;
+Make the determination provided in section 110(d)(1)(A)(ii) of the Act, with respect to Cuba, Eritrea, and Syria not to provide certain funding for those countries' governments for FY 2014, until such governments comply with the minimum standards or make significant efforts to bring themselves into compliance, as may be determined by the Secretary of State in a report to the Congress pursuant to section 110(b) of the Act;
 
-Determine, consistent with section 110(d)(4) of the Act, with respect to Algeria, the Central African Republic, Kuwait, Libya, Papua New Guinea, Saudi Arabia, and Yemen that provision to these countries’ governments of all programs, projects, or activities of assistance described in sections 110(d)(1)(A)(i)–(ii) and 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to Algeria, the Central African Republic, People's Republic of China, Guinea-Bissau, Kuwait, Libya, Mauritania, Papua New Guinea, Russia, Saudi Arabia, Uzbekistan, and Yemen that provision to these countries' governments of all programs, projects, or activities of assistance described in sections 110(d)(1)(A)(i)–(ii) and 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Determine, consistent with section 110(d)(4) of the Act, with respect to the Democratic Republic of the Congo, that assistance and programs described in section 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act, with the exception of Foreign Military Sales and Foreign Military Financing to the army of the Democratic Republic of the Congo, would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to the Democratic Republic of the Congo, that assistance and programs described in section 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act, with the exception of foreign military sales and foreign military financing to the army of the Democratic Republic of the Congo, would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Determine, consistent with section 110(d)(4) of the Act, with respect to Sudan, that assistance and programs described in section 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act, with the exception of Foreign Military Sales and Foreign Military Financing to the Sudanese land forces, air forces, and Popular Defense Force, would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to Sudan, that assistance and programs described in section 110(d)(1)(A)(i) and 110(d)(1)(B) of the Act, with the exception of foreign military sales and foreign military financing to the Sudanese land forces, air forces, and popular defense force, would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Determine, consistent with section 110(d)(4) of the Act, with respect to Iran, that a partial waiver to allow funding for educational and cultural exchange programs described in section 110(d)(1)(A)(ii) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to Syria and Eritrea, that a partial waiver to allow funding for educational and cultural exchange programs described in section 110(d)(1)(A)(ii) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Determine, consistent with section 110(d)(4) of the Act, with respect to Syria, that a partial waiver to allow funding for educational and cultural exchange programs described in section 110(d)(1)(A)(ii) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to Equatorial Guinea, that a partial waiver to allow funding for programs described in section 110(d)(1)(A)(i) of the Act to support programs to study and combat the spread of infectious diseases and to advance sustainable natural resource management and biodiversity and to support the participation of government employees or officials in young leader exchanges programming would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Determine, consistent with section 110(d)(4) of the Act, with respect to Equatorial Guinea, that a partial waiver to allow funding for programs described in section 110(d)(1)(A)(i) of the Act to support programs to study and combat the spread of infectious diseases and to advance sustainable natural resource management and biodiversity would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to Syria and Equatorial Guinea, that assistance described in section 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
-Determine, consistent with section 110(d)(4) of the Act, with respect to Equatorial Guinea, that assistance described in section 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States;
-
-Determine, consistent with section 110(d)(4) of the Act, with respect to Zimbabwe, that a partial waiver to allow funding for programs described in section 110(d)(1)(A)(i) of the Act for assistance for victims of trafficking in persons or to combat such trafficking, and for programs to support the promotion of health, good governance, education, agriculture and food security, poverty reduction, livelihoods, family planning, and macroeconomic growth including anticorruption, and programs that would have a significant adverse effect on vulnerable populations if suspended, would promote the purposes of the Act or is otherwise in the national interest of the United States;
+Determine, consistent with section 110(d)(4) of the Act, with respect to Zimbabwe, that a partial waiver to allow funding for programs described in section 110(d)(1)(A)(i) of the Act for assistance for victims of trafficking in persons or to combat such trafficking, and for programs to support the promotion of health, good governance, education, leadership, agriculture and food security, poverty reduction, livelihoods, family planning, and macroeconomic growth including anti-corruption, and programs that would have a significant adverse effect on vulnerable populations if suspended, would promote the purposes of the Act or is otherwise in the national interest of the United States;
 
 And determine, consistent with section 110(d)(4) of the Act, with respect to Zimbabwe, that assistance described in section 110(d)(1)(B) of the Act, which:
 
-(1) is a regional program, project, or activity under which the total benefit to Zimbabwe does not exceed 10 percent of the total value of such program, project, or activity; or
+(1) is a regional program, project, or activity under which the total benefit to Zimbabwe does not exceed 10 percent of the total value of such program, project, or activity;
 
-(2) has as its primary objective the addressing of basic human needs, as defined by the Department of the Treasury with respect to other, existing legislative mandates concerning U.S. participation in the multilateral development banks; or
+(2) has as its primary objective the addressing of basic human needs, as defined by the Department of the Treasury with respect to other, existing legislative mandates concerning U.S. participation in the multilateral development banks;
 
-(3) is complementary to or has similar policy objectives to programs being implemented bilaterally by the United States Government; or
+(3) is complementary to or has similar policy objectives to programs being implemented bilaterally by the United States Government;
 
-(4) has as its primary objective the improvement of Zimbabwe's legal system, including in areas that impact Zimbabwe's ability to investigate and prosecute trafficking cases or otherwise improve implementation of its anti-trafficking policy, regulations, or legislation; or
+(4) has as its primary objective the improvement of Zimbabwe's legal system, including in areas that impact Zimbabwe's ability to investigate and prosecute trafficking cases or otherwise improve implementation of its anti-trafficking policy, regulations, or legislation;
 
-(5) is engaging a government, international organization, or civil society organization, and seeks as its primary objective(s) to: (a) increase efforts to investigate and prosecute trafficking in persons crimes; (b) increase protection for victims of trafficking through better screening, identification, rescue or removal, aftercare (shelter, counseling), training, and reintegration; or (c) expand prevention efforts through education and awareness campaigns highlighting the dangers of trafficking or training and economic empowerment of populations clearly at risk of falling victim to trafficking; or
+(5) is engaging a government, international organization, or civil society organization, and seeks as its primary objective(s) to: (a) increase efforts to investigate and prosecute trafficking in persons crimes; (b) increase protection for victims of trafficking through better screening, identification, rescue and removal, aftercare (shelter, counseling), training, and reintegration; or (c) expand prevention efforts through education and awareness campaigns highlighting the dangers of trafficking in persons or training and economic empowerment of populations clearly at risk of falling victim to trafficking; or
 
-(6) is targeted macroeconomic assistance from the International Monetary Fund that strengthens the macroeconomic management capacity of Zimbabwe, would promote the purposes of the Act, or is otherwise in the national interest of the United States.
+(6) is targeted macroeconomic assistance from the International Monetary Fund that strengthens the macroeconomic management capacity of Zimbabwe; would promote the purposes of the Act or is otherwise in the national interest of the United States.
 
 The certification required by section 110(e) of the Act is provided herewith.
 
@@ -227,6 +233,8 @@ You are hereby authorized and directed to submit this determination to the Congr
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior determinations and certifications regarding trafficking in persons were contained in the following:
+
+Determination of President of the United States, No. 2012–16, Sept. 14, 2012, 77 F.R. 58921, as corrected by Department of State Public Notice 8048, dated Sept. 28, 2012, 77 F.R. 61046.
 
 Determination of President of the United States, No. 2011–18, Sept. 30, 2011, 76 F.R. 62599.
 
@@ -260,13 +268,17 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Delegation of Authority Pursuant to Sections 110(d)(4) and 110(f) of the Trafficking Victims Protection Act of 2000, as Amended
 
-Memorandum of President of the United States, Feb. 3, 2012, 77 F.R. 11375, provided:
+Memorandum of President of the United States, July 29, 2013, 78 F.R. 48027, provided:
 
 Memorandum for the Secretary of State
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to you the authority conferred upon the President by the Trafficking Victims Protection Act of 2000 (Division A of Public Law 106–386), as amended (the “Act”), to determine, consistent with sections 110(d)(4) and 110(f) of the Act, with respect to Burma for fiscal year 2012, that assistance described in section 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to the Secretary of State the authority conferred upon the President by the Trafficking Victims Protection Act of 2000 (Division A of Public Law 106–386), as amended (the "Act"), to determine, consistent with sections 110(d)(4) and 110(f) of the Act, with respect to Syria for Fiscal Year 2013, that assistance described in section 110(d)(1)(B) of the Act would promote the purposes of the Act or is otherwise in the national interest of the United States.
 
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Similar provisions delegating authority under section 110(d)(4) and (f) of the Trafficking Victims Protection Act of 2000 were contained in the following:
+
+Memorandum of President of the United States, Feb. 3, 2012, 77 F.R. 11375.—Burma, fiscal year 2012.
 

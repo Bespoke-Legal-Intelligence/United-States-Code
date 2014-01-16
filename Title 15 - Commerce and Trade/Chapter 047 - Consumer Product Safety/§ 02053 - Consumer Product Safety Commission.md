@@ -2,7 +2,7 @@
 
 #### (a) Establishment; Chairman
 
-An independent regulatory commission is hereby established, to be known as the Consumer Product Safety Commission, consisting of five Commissioners who shall be appointed by the President, by and with the advice and consent of the Senate. In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risks to safety, are qualified to serve as members of the Commission. The Chairman shall be appointed by the President, by and with the advice and consent of the Senate, from among the members of the Commission. An individual may be appointed as a member of the Commission and as Chairman at the same time. Any member of the Commission may be removed by the President for neglect of duty or malfeasance in office but for no other cause.
+An independent regulatory commission is hereby established, to be known as the Consumer Product Safety Commission, consisting of five Commissioners who shall be appointed by the President, by and with the advice and consent of the Senate. In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risks to safety, are qualified to serve as members of the Commission. The Chairman shall be appointed by thePresident, by and with the advice and consent of the Senate, from among the members of the Commission. An individual may be appointed as a member of the Commission and as Chairman at the same time. Any member of the Commission may be removed by the President for neglect of duty or malfeasance in office but for no other cause.
 
 #### (b) Term; vacancies
 
@@ -32,7 +32,7 @@ The Commission shall maintain a principal office and such field offices as it de
 
 #### (g) Executive Director; officers and employees
 
-(1)(A) The Chairman, subject to the approval of the Commission, shall appoint as officers of the Commission an Executive Director, a General Counsel, an Associate Executive Director for Engineering Sciences, an Associate Executive Director for Epidemiology, an Associate Executive Director for Compliance and Administrative Litigation, an Associate Executive Director for Health Sciences, an Associate Executive Director for Economic Analysis, an Associate Executive Director for Administration, an Associate Executive Director for Field Operations, a Director for Office of Program, Management, and Budget, and a Director for Office of Information and Public Affairs. Any other individual appointed to a position designated as an Associate Executive Director shall be appointed by the Chairman, subject to the approval of the Commission. The Chairman mayonly appoint an attorney to the position of Associate Executive Director of Compliance and Administrative Litigation except the position of acting Associate Executive Director of Compliance and Administrative Litigation.
+(1)(A) The Chairman, subject to the approval of the Commission, shall appoint as officers of the Commission an Executive Director, a General Counsel, an Associate Executive Director for Engineering Sciences, an Associate Executive Director for Epidemiology, an Associate Executive Director for Compliance and Administrative Litigation, an Associate Executive Director for Health Sciences, an Associate Executive Director for Economic Analysis, an Associate Executive Director for Administration, an Associate Executive Director for Field Operations, a Director for Office of Program, Management, and Budget, and a Director for Office of Information and Public Affairs. Any other individual appointed to a position designated as an Associate Executive Director shall be appointed by the Chairman, subject to the approval of the Commission. The Chairman may only appoint an attorney to the position of Associate Executive Director of Compliance and Administrative Litigation except the position of acting Associate Executive Director of Compliance and Administrative Litigation.
 
 (B)(i) No individual may be appointed to such a position on an acting basis for a period longer than 90 days unless such appointment is approved by the Commission.
 
@@ -82,29 +82,29 @@ Subsec. (h) of this section amended sections 5314 and 5315 of Title 5, Governmen
 
 <b>2011</b>—Subsec. (g)(5). Pub. L. 112–74 added par. (5).
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–608, §102, inserted after first sentence “In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risks to safety, are qualified to serve as members of the Commission.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–608, §102, inserted after first sentence "In making such appointments, the President shall consider individuals who, by reason of their background and expertise in areas related to consumer products and protection of the public from risks to safety, are qualified to serve as members of the Commission."
 
-Subsec. (d). Pub. L. 101–608, §103, inserted before period at end of first sentence “, except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for the transaction of business, and if there are only two members serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the date of the vacancy which caused the number of Commission members to decline to two”.
+Subsec. (d). Pub. L. 101–608, §103, inserted before period at end of first sentence ", except that if there are only three members serving on the Commission because of vacancies in the Commission, two members of the Commission shall constitute a quorum for the transaction of business, and if there are only two members serving on the Commission because of vacancies in the Commission, two members shall constitute a quorum for the six month period beginning on the date of the vacancy which caused the number of Commission members to decline to two".
 
-Subsec. (g)(1). Pub. L. 101–608, §104, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Chairman, subject to the approval of the Commission, shall appoint an Executive Director, a General Counsel, a Director of Engineering Sciences, a Director of Epidemiology, and a Director of Information. No individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule.”
+Subsec. (g)(1). Pub. L. 101–608, §104, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Chairman, subject to the approval of the Commission, shall appoint an Executive Director, a General Counsel, a Director of Engineering Sciences, a Director of Epidemiology, and a Director of Information. No individual so appointed may receive pay in excess of the annual rate of basic pay in effect for grade GS–18 of the General Schedule."
 
 Subsec. (j). Pub. L. 101–608, §105(a), added subsec. (j).
 
 <b>1980</b>—Subsec. (g)(2). Pub. L. 96–373 struck out prohibition against regular personnel acceptance of employment or compensation from manufacturer subject to this chapter for period of twelve months following termination of employment with Commission when compensated within preceding period of twelve months at rate in excess of annual rate of basic pay in effect for grade GS–14 of the General Schedule.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–631, §2(a), substituted “Senate. The Chairman shall be appointed by the President, by and with the advice and consent of the Senate,from among the members of the Commission. An individual may be appointed as a member of the Commission and as Chairman at the same time.” for “Senate, one of whom shall be designated by the President as Chairman. The Chairman, when so designated shall act as Chairman until the expiration of his term of office as Commissioner.”
+<b>1978</b>—Subsec. (a). Pub. L. 95–631, §2(a), substituted "Senate. The Chairman shall be appointed by the President, by and with the advice and consent of the Senate, from among the members of the Commission. An individual may be appointed as a member of the Commission and as Chairman at the same time." for "Senate, one of whom shall be designated by the President as Chairman. The Chairman, when so designated shall act as Chairman until the expiration of his term of office as Commissioner."
 
-Subsec. (i)(1)(A), (B). Pub. L. 95–631, §2(b), struck out “before January 1, 1978,” after “deceit” in cl. (A) and “before January 1, 1978” after “employee thereof” in cl. (B).
+Subsec. (i)(1)(A), (B). Pub. L. 95–631, §2(b), struck out "before January 1, 1978," after "deceit" in cl. (A) and "before January 1, 1978" after "employee thereof" in cl. (B).
 
 <b>1976</b>—Subsec. (f)(3). Pub. L. 94–284, §4(a), added par. (3).
 
-Subsec. (g). Pub. L. 94–284, §4(b), substituted “regular” for “full-time” before “officer or employee of the Commission” and added pars. (3) and (4).
+Subsec. (g). Pub. L. 94–284, §4(b), substituted "regular" for "full-time" before "officer or employee of the Commission" and added pars. (3) and (4).
 
 Subsec (i). Pub. L. 94–284, §5, added subsec. (i).
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–608, title I, §105(b), Nov. 16, 1990, 104 Stat. 3111, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years which begin more than 180 days after the date of the enactment of this Act \[Nov. 16, 1990\].”
+Pub. L. 101–608, title I, §105(b), Nov. 16, 1990, 104 Stat. 3111, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to fiscal years which begin more than 180 daysafter the date of the enactment of this Act \[Nov. 16, 1990\]."
 
 #### Effective Date
 
@@ -112,17 +112,17 @@ Section effective Oct. 27, 1972, see section 34(1) of Pub. L. 92–573, set out 
 
 #### Interim Quorum
 
-Pub. L. 110–314, title II, §202(a), Aug. 14, 2008, 122 Stat. 3039, provided that: “Notwithstanding section 4(d) of the Consumer Product Safety Act (15 U.S.C. 2053(d)), 2 members of the \[Consumer Product Safety\] Commission, if they are not affiliated with the same political party, shall constitute a quorum for the transaction of business for the 1 year period beginning on the date of enactment of this Act \[Aug. 14, 2008\].”
+Pub. L. 110–314, title II, §202(a), Aug. 14, 2008, 122 Stat. 3039, provided that: "Notwithstanding section 4(d) of the Consumer Product Safety Act (15 U.S.C. 2053(d)), 2 members of the \[Consumer Product Safety\] Commission, if they are not affiliated with the same political party, shall constitute a quorum for the transaction of business for the 1 year period beginning on the date of enactment of this Act \[Aug. 14, 2008\]."
 
 #### Upgrade of Commission Information Technology Systems
 
-Pub. L. 110–314, title II, §212(b), Aug. 14, 2008, 122 Stat. 3052, provided that: “The \[Consumer Product Safety\] Commission shall expedite efforts to upgrade and improve the information technology systems in use by the Commission on the date of enactment of this Act \[Aug. 14, 2008\].”
+Pub. L. 110–314, title II, §212(b), Aug. 14, 2008, 122 Stat. 3052, provided that: "The \[Consumer Product Safety\] Commission shall expedite efforts to upgrade and improve the information technology systems in use by the Commission on the date of enactment of this Act \[Aug. 14, 2008\]."
 
 #### Reduction in Number of Commissioners
 
 Pub. L. 102–389, title III, Oct. 6, 1992, 106 Stat. 1596, provided in part that funds would not be available for the personnel compensation and benefits of more than three Commissioners of the Consumer Product Safety Commission for fiscal year 1993 and thereafter, prior to repeal by Pub. L. 110–314, title II, §202(b)(1), Aug. 14, 2008, 122 Stat. 3040.
 
-\[Pub. L. 110–314, title II, §202(b)(2), Aug. 14, 2008, 122 Stat. 3040, provided that: “The amendment made by paragraph (1) \[repealing provisions of title III of Pub. L. 102–389, formerly set out above\] shall take effect 1 year after the date of enactment of this Act \[Aug. 14, 2008\].”\]
+\[Pub. L. 110–314, title II, §202(b)(2), Aug. 14, 2008, 122 Stat. 3040, provided that: "The amendment made by paragraph (1) \[repealing provisions of title III of Pub. L. 102–389, formerly set out above\] shall take effect 1 year after the date of enactment of this Act \[Aug. 14, 2008\]."\]
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

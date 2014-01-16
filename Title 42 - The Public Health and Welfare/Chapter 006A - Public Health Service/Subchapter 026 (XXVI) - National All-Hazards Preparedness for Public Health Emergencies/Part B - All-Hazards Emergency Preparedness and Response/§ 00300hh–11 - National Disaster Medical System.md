@@ -22,7 +22,7 @@
 
 &emsp;&emsp;The Secretary may activate the National Disaster Medical System to—
 
-&emsp;&emsp;&emsp;(i) provide health services, health-related social services, other appropriate human services, and appropriate auxiliary services to respond to the needs of victims of a public health emergency (whether or not determined to be a public health emergency under section 247d of this title); or
+&emsp;&emsp;&emsp;(i) provide health services, health-related social services, other appropriate human services, and appropriate auxiliary services to respond to the needs of victims of a public health emergency, including at-risk individuals as applicable (whether or not determined to be a public health emergency under section 247d of this title); or
 
 &emsp;&emsp;&emsp;(ii) be present at locations, and for limited periods of time, specified by the Secretary on the basis that the Secretary has determined that a location is at risk of a public health emergency during the time specified.
 
@@ -30,7 +30,15 @@
 
 &emsp;&emsp;The National Disaster Medical System shall carry out such ongoing activities as may be necessary to prepare for the provision of services described in subparagraph (A) in the event that the Secretary activates the National Disaster Medical System for such purposes.
 
-#### (C) Test for mobilization of System
+#### (C) Considerations for at-risk populations
+
+&emsp;&emsp;The Secretary shall take steps to ensure that an appropriate specialized and focused range of public health and medical capabilities are <sup>1</sup> represented in the National Disaster Medical System, which take <sup>2</sup> into account the needs of at-risk individuals, in the event of a public health emergency.
+
+#### (D) Administration
+
+&emsp;&emsp;The Secretary may determine and pay claims for reimbursement for services under subparagraph (A) directly or through contracts that provide for payment in advance or by way of reimbursement.
+
+#### (E) Test for mobilization of System
 
 &emsp;&emsp;During the one-year period beginning on December 19, 2006, the Secretary shall conduct an exercise to test the capability and timeliness of the National Disaster Medical System to mobilize and otherwise respond effectively to a bioterrorist attack or other public health emergency that affects two or more geographic locations concurrently. Thereafter, the Secretary may periodically conduct such exercises regarding the National Disaster Medical System as the Secretary determines to be appropriate.
 
@@ -66,21 +74,21 @@
 
 #### (1) Intermittent disaster-response appointee
 
-&emsp;For purposes of this subsection, the term “intermittent disaster-response appointee” means an individual appointed by the Secretary under subsection (c) of this section.
+&emsp;For purposes of this subsection, the term "intermittent disaster-response appointee" means an individual appointed by the Secretary under subsection (c) of this section.
 
 #### (2) Compensation for work injuries
 
-&emsp;An intermittent disaster-response appointee shall, while acting in the scope of such appointment, be considered to be an employee of the Public Health Service performing medical, surgical, dental, or related functions, and an injury sustained by such an individual shall be deemed “in the performance of duty”, for purposes of chapter 81 of title 5 pertaining to compensation for work injuries. With respect to the participation of individuals appointed under subsection (c) of this section in training programs authorized by the Assistant Secretary for Preparedness and Response or a comparable official of any Federal agency specified in subsection (a)(2)(B) of this section, injuries sustained by such an individual, while acting within the scope of such participation, also shall be deemed “in the performance of duty” for purposes of chapter 81 of title 5 (regardless of whether the individuals receive compensation for such participation). In the event of an injury to such an intermittent disaster-response appointee, the Secretary of Labor shall be responsible for making determinations as to whether the claimant is entitled to compensation or other benefits in accordance with chapter 81 of title 5.
+&emsp;An intermittent disaster-response appointee shall, while acting in the scope of such appointment, be considered to be an employee of the Public Health Service performing medical, surgical, dental, or related functions, and an injury sustained by such an individual shall be deemed "in the performance of duty", for purposes of chapter 81 of title 5 pertaining to compensation for work injuries. With respect to the participation of individuals appointed under subsection (c) of this section in training programs authorized by the Assistant Secretary for Preparedness and Response or a comparable official of any Federal agency specified in subsection (a)(2)(B) of this section, injuries sustained by such an individual, while acting within the scope of such participation, also shall be deemed "in the performance of duty" for purposes of chapter 81 of title 5 (regardless of whether the individuals receive compensation for such participation). In the event of an injury to such an intermittent disaster-response appointee, the Secretary of Labor shall be responsible for making determinations as to whether the claimant is entitled to compensation or other benefits in accordance with chapter 81 of title 5.
 
 #### (3) Employment and reemployment rights
 
 #### (A) In general
 
-&emsp;&emsp;Service as an intermittent disaster-response appointee when the Secretary activates the National Disaster Medical System or when the individual participates in a training program authorized by the Assistant Secretary for Preparedness and Response or a comparable official of any Federal agency specified in subsection (a)(2)(B) of this section shall be deemed “service in the uniformed services” for purposes of chapter 43 of title 38 pertaining to employment and reemployment rights of individuals who have performed service in the uniformed services (regardless of whether the individual receives compensation for such participation). All rights and obligations of such persons and procedures for assistance, enforcement, and investigation shall be as provided for in chapter 43 of title 38.
+&emsp;&emsp;Service as an intermittent disaster-response appointee when the Secretary activates the National Disaster Medical System or when the individual participates in a training program authorized by the Assistant Secretary for Preparedness and Response or a comparable official of any Federal agency specified in subsection (a)(2)(B) of this section shall be deemed "service in the uniformed services" for purposes of chapter 43 of title 38 pertaining to employment and reemployment rights of individuals who have performed service in the uniformed services (regardless of whether the individual receives compensation for such participation). All rights and obligations of such persons and procedures for assistance, enforcement, and investigation shall be as provided for in chapter 43 of title 38.
 
 #### (B) Notice of absence from position of employment
 
-&emsp;&emsp;Preclusion of giving notice of service by necessity of Service as an intermittent disaster-response appointee when the Secretary activates the National Disaster Medical System shall be deemed preclusion by “military necessity” for purposes of section 4312(b) of title 38 pertaining to giving notice of absence from a position of employment. A determination of such necessity shall be made by the Secretary, in consultation with the Secretary of Defense, and shall not be subject to judicial review.
+&emsp;&emsp;Preclusion of giving notice of service by necessity of Service as an intermittent disaster-response appointee when the Secretary activates the National Disaster Medical System shall be deemed preclusion by "military necessity" for purposes of section 4312(b) of title 38 pertaining to giving notice of absence from a position of employment. A determination of such necessity shall be made by the Secretary, in consultation with the Secretary of Defense, and shall not be subject to judicial review.
 
 #### (4) Limitation
 
@@ -92,65 +100,75 @@ If the Secretary assigns commissioned officers of the Regular or Reserve Corps t
 
 #### (f) Definition
 
-For purposes of this section, the term “auxiliary services” includes mortuary services, veterinary services, and other services that are determined by the Secretary to be appropriate with respect to the needs referred to in subsection (a)(3)(A) of this section.
+For purposes of this section, the term "auxiliary services" includes mortuary services, veterinary services, and other services that are determined by the Secretary to be appropriate with respect to the needs referred to in subsection (a)(3)(A) of this section.
 
 #### (g) Authorization of appropriations
 
-For the purpose of providing for the Assistant Secretary for Preparedness and Response and the operations of the National Disaster Medical System, other than purposes for which amounts in the Public Health Emergency Fund under section 247d of this title are available, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2007 through 2011.
+For the purpose of providing for the Assistant Secretary for Preparedness and Response and the operations of the National Disaster Medical System, other than purposes for which amounts in the Public Health Emergency Fund under section 247d of this title are available, there are authorized to be appropriated $52,700,000 for each of fiscal years 2014 through 2018.
 
-(July 1, 1944, ch. 373, title XXVIII, §2812, formerly §2811, as added Pub. L. 107–188, title I, §102(a), June 12, 2002, 116 Stat. 599; renumbered §2812 and amended Pub. L. 109–417, title I, §102(a)(2), (4), title III, §301(a), Dec. 19, 2006, 120 Stat. 2832, 2834, 2853.)
+(July 1, 1944, ch. 373, title XXVIII, §2812, formerly §2811, as added Pub. L. 107–188, title I, §102(a), June 12, 2002, 116 Stat. 599; renumbered §2812 and amended Pub. L. 109–417, title I, §102(a)(2), (4), title III, §301(a), Dec. 19, 2006, 120 Stat. 2832, 2834, 2853; Pub. L. 113–5, title I, §104, Mar. 13, 2013, 127 Stat. 170.)
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–417, §301(a)(1), substituted “National Disaster Medical System” for “Coordination of preparedness for and response to bioterrorism and other public health emergencies” in section catchline.
+<b>2013</b>—Subsec. (a)(3)(A)(i). Pub. L. 113–5, §104(1)(A), inserted ", including at-risk individuals as applicable" after "victims of a public health emergency".
+
+Subsec. (a)(3)(C) to (E). Pub. L. 113–5, §104(1)(B), (C), added subpars. (C) and (D) and redesignated former subpar. (C) as (E).
+
+Subsec. (g). Pub. L. 113–5, §104(2), substituted "$52,700,000 for each of fiscal years 2014 through 2018" for "such sums as may be necessary for each of the fiscal years 2007 through 2011".
+
+<b>2006</b>—Pub. L. 109–417, §301(a)(1), substituted "National Disaster Medical System" for "Coordination of preparedness for and response to bioterrorism and other public health emergencies" in section catchline.
 
 Subsec. (a). Pub. L. 109–417, §301(a)(2), (3), redesignated subsec. (b) as (a) and struck out former subsec. (a) which related to establishment of position and duties of Assistant Secretary for Public Health Emergency Preparedness.
 
-Subsec. (a)(2)(B). Pub. L. 109–417, §301(a)(4)(A), substituted “Department of Homeland Security” for “Federal Emergency Management Agency”.
+Subsec. (a)(2)(B). Pub. L. 109–417, §301(a)(4)(A), substituted "Department of Homeland Security" for "Federal Emergency Management Agency".
 
-Subsec. (a)(3)(C). Pub. L. 109–417, §301(a)(4)(B), substituted “December 19, 2006” for “June 12, 2002”.
+Subsec. (a)(3)(C). Pub. L. 109–417, §301(a)(4)(B), substituted "December 19, 2006" for "June 12, 2002".
 
-Subsec. (b). Pub. L. 109–417, §301(a)(5), substituted “Modifications” for “Criteria” in heading, added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “The Secretary shall establish criteria for the operation of the National Disaster Medical System.”
+Subsec. (b). Pub. L. 109–417, §301(a)(5), substituted "Modifications" for "Criteria" in heading, added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: "The Secretary shall establish criteria for the operation of the National Disaster Medical System."
 
 Pub. L. 109–417, §301(a)(3), redesignated subsec. (c) as (b). Former subsec. (b) redesignated (a).
 
-Subsec. (b)(1). Pub. L. 109–417, §102(a)(4), substituted “Assistant Secretary for Preparedness and Response” for “Assistant Secretary for Public Health Emergency Preparedness”.
+Subsec. (b)(1). Pub. L. 109–417, §102(a)(4), substituted "Assistant Secretary for Preparedness and Response" for "Assistant Secretary for Public Health Emergency Preparedness".
 
-Subsec. (b)(3)(A). Pub. L. 109–417, §301(a)(6), substituted “subsection (a)(3)(A)” for “subsection (b)(3)(A)”.
+Subsec. (b)(3)(A). Pub. L. 109–417, §301(a)(6), substituted "subsection (a)(3)(A)" for "subsection (b)(3)(A)".
 
 Subsec. (c). Pub. L. 109–417, §301(a)(3), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
 
-Subsec. (c)(2). Pub. L. 109–417, §301(a)(6), substituted “subsection (a)(2)(B)” for “subsection (b)(2)(B)”.
+Subsec. (c)(2). Pub. L. 109–417, §301(a)(6), substituted "subsection (a)(2)(B)" for "subsection (b)(2)(B)".
 
-Subsec. (d). Pub. L. 109–417, §301(a)(7), substituted “subsection (c)” for “subsection (d)” in pars. (1) and (2).
+Subsec. (d). Pub. L. 109–417, §301(a)(7), substituted "subsection (c)" for "subsection (d)" in pars. (1) and (2).
 
-Pub. L. 109–417, §301(a)(6), substituted “subsection (a)(2)(B)” for “subsection (b)(2)(B)” in pars. (2) and (3)(A).
+Pub. L. 109–417, §301(a)(6), substituted "subsection (a)(2)(B)" for "subsection (b)(2)(B)" in pars. (2) and (3)(A).
 
 Pub. L. 109–417, §301(a)(3), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
 
-Subsec. (d)(2). Pub. L. 109–417, §102(a)(4), substituted “Assistant Secretary for Preparedness and Response” for “Assistant Secretary for Public Health Emergency Preparedness”.
+Subsec. (d)(2). Pub. L. 109–417, §102(a)(4), substituted "Assistant Secretary for Preparedness and Response" for "Assistant Secretary for Public Health Emergency Preparedness".
 
 Subsec. (e). Pub. L. 109–417, §301(a)(3), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (e)(2), (3)(A). Pub. L. 109–417, §102(a)(4), substituted “Assistant Secretary for Preparedness and Response” for “Assistant Secretary for Public Health Emergency Preparedness”.
+Subsec. (e)(2), (3)(A). Pub. L. 109–417, §102(a)(4), substituted "Assistant Secretary for Preparedness and Response" for "Assistant Secretary for Public Health Emergency Preparedness".
 
-Subsec. (f). Pub. L. 109–417, §301(a)(6), substituted “subsection (a)(3)(A)” for “subsection (b)(3)(A)”.
+Subsec. (f). Pub. L. 109–417, §301(a)(6), substituted "subsection (a)(3)(A)" for "subsection (b)(3)(A)".
 
 Pub. L. 109–417, §301(a)(3), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (g). Pub. L. 109–417, §301(a)(8), substituted “2007 through 2011” for “2002 through 2006”.
+Subsec. (g). Pub. L. 109–417, §301(a)(8), substituted "2007 through 2011" for "2002 through 2006".
 
 Pub. L. 109–417, §301(a)(3), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
 Subsec. (h). Pub. L. 109–417, §301(a)(3), redesignated subsec. (h) as (g).
 
-Pub. L. 109–417, §102(a)(4), substituted “Assistant Secretary for Preparedness and Response” for “Assistant Secretary for Public Health Emergency Preparedness”.
+Pub. L. 109–417, §102(a)(4), substituted "Assistant Secretary for Preparedness and Response" for "Assistant Secretary for Public Health Emergency Preparedness".
 
 #### Transfer of Functions
 
-Pub. L. 109–417, title III, §301(b), Dec. 19, 2006, 120 Stat. 2854, provided that: “There shall be transferred to the Secretary of Health and Human Services the functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Homeland Security, including the functions of the Secretary of Homeland Security and the Under Secretary for Emergency Preparedness and Response relating thereto.”
+Pub. L. 109–417, title III, §301(b), Dec. 19, 2006, 120 Stat. 2854, provided that: "There shall be transferred to the Secretary of Health and Human Services the functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Homeland Security, including the functions of the Secretary of Homeland Security and the Under Secretary for Emergency Preparedness and Response relating thereto."
 
-Pub. L. 109–295, title III, Oct. 4, 2006, 120 Stat. 1372, provided in part: “That the total amount appropriated and, notwithstanding any other provision of law, the functions, personnel, assets, and liabilities of the National Disaster Medical System established under section 2811(b) \[now 2812(a)\] of the Public Health Service Act (42 U.S.C. 300hh–11(b) \[now 300hh–11(a)\]), including any functions of the Secretary of Homeland Security relating to such System, shall be permanently transferred to the Secretary of the Department of Health and Human Services effective January 1, 2007.”
+Pub. L. 109–295, title III, Oct. 4, 2006, 120 Stat. 1372, provided in part: "That the total amount appropriated and, notwithstanding any other provision of law, the functions, personnel, assets, and liabilities of the National Disaster Medical System established under section 2811(b) \[now 2812(a)\] of the Public Health Service Act (42 U.S.C. 300hh–11(b) \[now 300hh–11(a)\]), including any functions of the Secretary of Homeland Security relating to such System, shall be permanently transferred to the Secretary of the Department of Health and Human Services effective January 1, 2007."
 
 For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness (now Assistant Secretary for Preparedness and Response) relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(5) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "is".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "takes".</i>
 

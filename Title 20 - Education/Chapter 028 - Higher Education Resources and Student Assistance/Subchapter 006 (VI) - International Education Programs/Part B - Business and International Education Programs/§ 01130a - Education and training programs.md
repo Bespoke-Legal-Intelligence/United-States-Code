@@ -48,11 +48,11 @@ A prior section 613 of Pub. L. 89–329 was renumbered section 614 and is classi
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–315 inserted at end “Each such application shall include an assurance that, where applicable, the activities funded by the grant will reflect diverse perspectives and a wide range of views on world regions and international affairs.”
+<b>2008</b>—Subsec. (c). Pub. L. 110–315 inserted at end "Each such application shall include an assurance that, where applicable, the activities funded by the grant will reflect diverse perspectives and a wide range of views on world regions and international affairs."
 
 <b>1992</b>—Pub. L. 102–325 amended section generally, adding provisions relating to establishment of linkages overseas with institutions of higher education and organizations that contribute to educational objectives of this section and relating to summer institutes in international business, foreign area and other international studies designed to carry out purposes of this section.
 
-<b>1988</b>—Subsecs. (a), (c), (d). Pub. L. 100–418 substituted “section” for “part” wherever appearing.
+<b>1988</b>—Subsecs. (a), (c), (d). Pub. L. 100–418 substituted "section" for "part" wherever appearing.
 
 <b>1986</b>—Subsec. (b)(10). Pub. L. 99–498 added par. (10).
 

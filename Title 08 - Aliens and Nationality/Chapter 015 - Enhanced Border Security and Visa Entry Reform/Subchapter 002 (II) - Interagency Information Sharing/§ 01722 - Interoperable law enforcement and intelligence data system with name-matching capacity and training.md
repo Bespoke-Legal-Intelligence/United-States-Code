@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(B) to any Federal official responsible for determining an alien's admissibility to or deportability from the United States; and
 
-&emsp;&emsp;(C) to any Federal law enforcement or intelligence officer determined by regulation to be responsible for the investigation or identification of aliens.
+&emsp;&emsp;(C) to any Federal law enforcement or intelligence officer determined by regulationto be responsible for the investigation or identification of aliens.
 
 #### (6) Limitation on access
 
@@ -102,7 +102,7 @@
 
 #### References in Text
 
-Section 309 of the Intelligence Authorization Act for Fiscal Year 1998, referred to in subsec. (b)(5), is section 309 of Pub. L. 105–107, title III, Nov. 20, 1997, 111 Stat. 2253, which was set out as a note under former section 403–3 of Title 50, War and National Defense, and is now set out as a note under section 403–1 of Title 50.
+Section 309 of the Intelligence Authorization Act for Fiscal Year 1998, referred to in subsec. (b)(5), is section 309 of Pub. L. 105–107, title III, Nov. 20, 1997, 111 Stat. 2253, which was set out as a note under former section 403–3 of Title 50, War and National Defense, and is now set out as a note under section 3024 of Title 50.
 
 #### Codification
 
@@ -110,7 +110,7 @@ Section is comprised of section 202 of Pub. L. 107–173. Subsec. (a)(4)(B) of s
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

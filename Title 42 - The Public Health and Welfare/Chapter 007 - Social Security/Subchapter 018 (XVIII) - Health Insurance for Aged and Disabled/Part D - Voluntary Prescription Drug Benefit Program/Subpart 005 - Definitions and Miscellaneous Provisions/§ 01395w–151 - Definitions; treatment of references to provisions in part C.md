@@ -6,59 +6,59 @@ For purposes of this part:
 
 #### (1) Basic prescription drug coverage
 
-&emsp;The term “basic prescription drug coverage” is defined in section 1395w–102(a)(3) of this title.
+&emsp;The term "basic prescription drug coverage" is defined in section 1395w–102(a)(3) of this title.
 
 #### (2) Covered part D drug
 
-&emsp;The term “covered part D drug” is defined in section 1395w–102(e) of this title.
+&emsp;The term "covered part D drug" is defined in section 1395w–102(e) of this title.
 
 #### (3) Creditable prescription drug coverage
 
-&emsp;The term “creditable prescription drug coverage” has the meaning given such term in section 1395w–113(b)(4) of this title.
+&emsp;The term "creditable prescription drug coverage" has the meaning given such term in section 1395w–113(b)(4) of this title.
 
 #### (4) Part D eligible individual
 
-&emsp;The term “part D eligible individual” has the meaning given such term in section 1395w–101(a)(3)(A) of this title.<sup>1</sup>
+&emsp;The term "part D eligible individual" has the meaning given such term in section 1395w–101(a)(3)(A) of this title.<sup>1</sup>
 
 #### (5) Fallback prescription drug plan
 
-&emsp;The term “fallback prescription drug plan” has the meaning given such term in section 1395w–111(g)(4) of this title.
+&emsp;The term "fallback prescription drug plan" has the meaning given such term in section 1395w–111(g)(4) of this title.
 
 #### (6) Initial coverage limit
 
-&emsp;The term “initial coverage limit” means such limit as established under section 1395w–102(b)(3) of this title, or, in the case of coverage that is not standard prescription drug coverage, the comparable limit (if any) established under the coverage.
+&emsp;The term "initial coverage limit" means such limit as established under section 1395w–102(b)(3) of this title, or, in the case of coverage that is not standard prescription drug coverage, the comparable limit (if any) established under the coverage.
 
 #### (7) Insurance risk
 
-&emsp;The term “insurance risk” means, with respect to a participating pharmacy, risk of the type commonly assumed only by insurers licensed by a State and does not include payment variations designed to reflect performance-based measures of activities within the control of the pharmacy, such as formulary compliance and generic drug substitution.
+&emsp;The term "insurance risk" means, with respect to a participating pharmacy, risk of the type commonly assumed only by insurers licensed by a State and does not include payment variations designed to reflect performance-based measures of activities within the control of the pharmacy, such as formulary compliance and generic drug substitution.
 
 #### (8) MA plan
 
-&emsp;The term “MA plan” has the meaning given such term in section 1395w–101(a)(3)(B) of this title.<sup>1</sup>
+&emsp;The term "MA plan" has the meaning given such term in section 1395w–101(a)(3)(B) of this title.<sup>1</sup>
 
 #### (9) MA–PD plan
 
-&emsp;The term “MA–PD plan” has the meaning given such term in section 1395w–101(a)(3)(C) of this title.<sup>1</sup>
+&emsp;The term "MA–PD plan" has the meaning given such term in section 1395w–101(a)(3)(C) of this title.<sup>1</sup>
 
 #### (10) Medicare Prescription Drug Account
 
-&emsp;The term “Medicare Prescription Drug Account” means the Account created under section 1395w–116(a) of this title.
+&emsp;The term "Medicare Prescription Drug Account" means the Account created under section 1395w–116(a) of this title.
 
 #### (11) PDP approved bid
 
-&emsp;The term “PDP approved bid” has the meaning given such term in section 1395w–113(a)(6) of this title.
+&emsp;The term "PDP approved bid" has the meaning given such term in section 1395w–113(a)(6) of this title.
 
 #### (12) PDP region
 
-&emsp;The term “PDP region” means such a region as provided under section 1395w–111(a)(2) of this title.
+&emsp;The term "PDP region" means such a region as provided under section 1395w–111(a)(2) of this title.
 
 #### (13) PDP sponsor
 
-&emsp;The term “PDP sponsor” means a nongovernmental entity that is certified under this part as meeting the requirements and standards of this part for such a sponsor.
+&emsp;The term "PDP sponsor" means a nongovernmental entity that is certified under this part as meeting the requirements and standards of this part for such a sponsor.
 
 #### (14) Prescription drug plan
 
-&emsp;The term “prescription drug plan” means prescription drug coverage that is offered—
+&emsp;The term "prescription drug plan" means prescription drug coverage that is offered—
 
 &emsp;&emsp;(A) under a policy, contract, or plan that has been approved under section 1395w–111(e) of this title; and
 
@@ -66,19 +66,19 @@ For purposes of this part:
 
 #### (15) Qualified prescription drug coverage
 
-&emsp;The term “qualified prescription drug coverage” is defined in section 1395w–102(a)(1) of this title.
+&emsp;The term "qualified prescription drug coverage" is defined in section 1395w–102(a)(1) of this title.
 
 #### (16) Standard prescription drug coverage
 
-&emsp;The term “standard prescription drug coverage” is defined in section 1395w–102(b) of this title.
+&emsp;The term "standard prescription drug coverage" is defined in section 1395w–102(b) of this title.
 
 #### (17) State Pharmaceutical Assistance Program
 
-&emsp;The term “State Pharmaceutical Assistance Program” has the meaning given such term in section 1395w–133(b) of this title.
+&emsp;The term "State Pharmaceutical Assistance Program" has the meaning given such term in section 1395w–133(b) of this title.
 
 #### (18) Subsidy eligible individual
 
-&emsp;The term “subsidy eligible individual” has the meaning given such term in section 1395w–114(a)(3)(A) of this title.
+&emsp;The term "subsidy eligible individual" has the meaning given such term in section 1395w–114(a)(3)(A) of this title.
 
 #### (b) Application of part C provisions under this part
 
@@ -98,7 +98,7 @@ For purposes of applying provisions of part C of this subchapter under this part
 
 #### References in Text
 
-Section 1395w–101(a)(3) of this title, referred to in subsec. (a)(4), (8), (9), was in the original “section 1860D–1(a)(4)”, and was translated as meaning section 1860D–1(a)(3) of act Aug. 14, 1935, which is classified to section 1395w–101(a)(3) of this title, to reflect the probable intent of Congress, because section 1395w–101(a) of this title does not contain a par. (4) and par. (3) defines terms for purposes of this part.
+Section 1395w–101(a)(3) of this title, referred to in subsec. (a)(4), (8), (9), was in the original "section 1860D–1(a)(4)", and was translated as meaning section 1860D–1(a)(3) of act Aug. 14, 1935, which is classified to section 1395w–101(a)(3) of this title, to reflect the probable intent of Congress, because section 1395w–101(a) of this title does not contain a par. (4) and par. (3) defines terms for purposes of this part.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

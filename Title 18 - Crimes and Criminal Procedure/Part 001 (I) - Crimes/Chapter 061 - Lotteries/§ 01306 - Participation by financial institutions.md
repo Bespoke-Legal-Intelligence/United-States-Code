@@ -14,7 +14,7 @@ Section 20 of the Federal Deposit Insurance Act, referred to in text, is classif
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".
 
 <b>1989</b>—Pub. L. 101–73 struck out reference to section 410 of the National Housing Act.
 

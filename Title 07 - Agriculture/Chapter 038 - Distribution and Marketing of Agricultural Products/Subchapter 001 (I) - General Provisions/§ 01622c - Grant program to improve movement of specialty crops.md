@@ -42,7 +42,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Definitions
 
-“Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
+"Secretary" as meaning the Secretary of Agriculture, see section 8701 of this title.
 
-“Specialty crop” as having the meaning given the term in section 3 of Pub. L. 108–465, set out as a note under section 1621 of this title, see section 10001(1) of Pub. L. 110–246, set out as a note under section 1622b of this title.
+"Specialty crop" as having the meaning given the term in section 3 of Pub. L. 108–465, set out as a note under section 1621 of this title, see section 10001(1) of Pub. L. 110–246, set out as a note under section 1622b of this title.
 

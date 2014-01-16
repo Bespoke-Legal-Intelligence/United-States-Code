@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In each fiscal year of the demonstration program under this subchapter, amounts made available to a participating jurisdiction under the demonstration program shall be subject to the same terms and conditions as such amounts would be subject to if made available under the provisions of this chapter pursuant to which covered housing assistance is otherwise madeavailable under this chapter to the public housing agency for the jurisdiction, except that—
+In each fiscal year of the demonstration program under this subchapter, amounts made available to a participating jurisdiction under the demonstration program shall be subject to the same terms and conditions as such amounts would be subject to if made available under the provisions of this chapter pursuant to which covered housing assistance is otherwise made available under this chapter to the public housing agency for the jurisdiction, except that—
 
 &emsp;(1) the Secretary may waive any such term or condition identified by the jurisdiction to the extent that the Secretary determines such action to be appropriate to carry out the purposes of the demonstration program under this subchapter; and
 

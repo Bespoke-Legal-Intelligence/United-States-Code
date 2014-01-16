@@ -66,7 +66,7 @@ June 6, 1924, ch. 270, §1(a), 43 Stat. 463; Apr. 30, 1926, ch. 198, 44 Stat. 37
 
 40:71(a) (last sentence).
 
-In subsection (a)(7), the words “from time to time” are omitted as unnecessary.
+In subsection (a)(7), the words "from time to time" are omitted as unnecessary.
 
 In subsection (b), the text of 40:72a, restated as section 8732 of the revised title, is included in the purposesand objectives of this chapter because by its terms, the authority of the National Capital Planning Commission is enlarged as provided in that section.
 

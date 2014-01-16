@@ -32,7 +32,7 @@ During a period of 5 years beginning on October 21, 1986, the following obligati
 
 #### Amendments
 
-<b>1989</b>—Subsec. (a)(2). Pub. L. 101–213 struck out par. (2) which set forth circumstances under which Corporation could declare or pay a common or preferred stock dividend and defined terms “common stock dividend” and “preferred stock dividend”.
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–213 struck out par. (2) which set forth circumstances under which Corporation could declare or pay a common or preferred stock dividend and defined terms "common stock dividend" and "preferred stock dividend".
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

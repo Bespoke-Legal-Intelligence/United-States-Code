@@ -44,7 +44,7 @@ The financial and technical capability of an Indian tribe or community to safely
 
 (1) The Secretary is authorized to provide financial assistance to Indian tribes and communities in an amount equal to the Federal share of the costs of operating, managing, and maintaining the facilities provided under the plan described in subsection (c) of this section.
 
-(2) For the purposes of paragraph (1), the term “Federal share” means 80 percent of the costs described in paragraph (1).
+(2) For the purposes of paragraph (1), the term "Federal share" means 80 percent of the costs described in paragraph (1).
 
 (3) With respect to Indian tribes with fewer than 1,000 enrolled members, the non-Federal portion of the costs of operating, managing, and maintaining such facilities may be provided, in part, through cash donations or in kind property, fairly evaluated.
 
@@ -106,19 +106,19 @@ Programs administered by Indian tribes or tribal organizations under the authori
 
 #### References in Text
 
-The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383,Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
+The Housing and Community Development Act of 1974, referred to in subsec. (b)(3)(A), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 
 The Indian Self-Determination Act, referred to in subsecs. (f) and (g)(2), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (e). Pub. L. 102–573, §302(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of this section shall not diminish the primary responsibility of the Indian family, community, or tribe to establish, collect, and utilize reasonable user fees, or otherwise set aside funding, for the purpose of operating and maintaining sanitation facilities.”
+<b>1992</b>—Subsec. (e). Pub. L. 102–573, §302(1), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "The provisions of this section shall not diminish the primary responsibility of the Indian family, community, or tribe to establish, collect, and utilize reasonable user fees, or otherwise set aside funding, for the purpose of operating and maintaining sanitation facilities."
 
-Subsec. (f)(1). Pub. L. 102–573, §302(2), substituted “this section” for “subsection (h) of this section”.
+Subsec. (f)(1). Pub. L. 102–573, §302(2), substituted "this section" for "subsection (h) of this section".
 
-Subsec. (g)(1). Pub. L. 102–573, §302(3)(A), substituted “The Secretary shall submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report” for “The Secretary shall submit to the Congress an annual report”.
+Subsec. (g)(1). Pub. L. 102–573, §302(3)(A), substituted "The Secretary shall submit to the President, for inclusion in each report required to be transmitted to the Congress under section 1671 of this title, a report" for "The Secretary shall submit to the Congress an annual report".
 
-Subsec. (g)(2) to (6). Pub. L. 102–573, §302(3)(B), redesignated pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: “The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the President submits the budget to the Congress under section 1105 of title 31.”
+Subsec. (g)(2) to (6). Pub. L. 102–573, §302(3)(B), redesignated pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: "The first report required under paragraph (1) shall be submitted by no later than the date that is 180 days after November 23, 1988, and, beginning in 1990, each subsequent annual report shall be submitted by the date that is 60 days after the date on which the President submits the budget to the Congress under section 1105 of title 31."
 
 Subsec. (h). Pub. L. 102–573, §307(b)(1), struck out subsec. (h) which authorized appropriations to carry out subsec. (b)(2) for fiscal years 1990 to 1992.
 

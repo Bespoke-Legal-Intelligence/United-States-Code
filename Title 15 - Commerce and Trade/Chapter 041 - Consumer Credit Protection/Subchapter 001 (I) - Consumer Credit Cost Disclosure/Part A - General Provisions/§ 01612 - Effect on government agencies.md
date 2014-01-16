@@ -20,7 +20,7 @@ A creditor participating in a credit program administered, insured, or guarantee
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203 substituted “Bureau” for “Board”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203 substituted "Bureau" for "Board".
 
 <b>1980</b>—Pub. L. 96–221 amended section generally, designating existing provisions as subsec. (b) and adding subsecs. (a), (c), and (d).
 

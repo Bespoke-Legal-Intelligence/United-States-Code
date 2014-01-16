@@ -26,13 +26,13 @@ In the case of a dispute arising in connection with a claim under this section, 
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c). Pub. L. 112–239 substituted “Administrator of FEMA” for “Director”.
+<b>2013</b>—Subsec. (c). Pub. L. 112–239 substituted "Administrator of FEMA" for "Director".
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–503 substituted “Director shall forward” for “Secretary shall forward”.
+<b>2000</b>—Subsec. (c). Pub. L. 106–503 substituted "Director shall forward" for "Secretary shall forward".
 
-<b>1992</b>—Subsec. (d). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (d). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
-<b>1982</b>—Subsec. (d). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims of the United States”.
+<b>1982</b>—Subsec. (d). Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims of the United States".
 
 #### Effective Date of 1992 Amendment
 

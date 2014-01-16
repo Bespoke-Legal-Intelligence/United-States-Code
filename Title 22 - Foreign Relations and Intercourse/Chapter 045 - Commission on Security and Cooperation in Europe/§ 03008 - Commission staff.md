@@ -28,17 +28,17 @@ All staff appointments shall be made without regard to the provisions of title 5
 
 (Pub. L. 94–304, §8, June 3, 1976, 90 Stat. 662; Pub. L. 99–7, §5, Mar. 27, 1985, 99 Stat. 19; Pub. L. 104–186, title II, §218(3), Aug. 20, 1996, 110 Stat. 1747.)
 
-#### References In Text
+#### References in Text
 
 Section 3304(c) of title 5, referred to in subsec. (d)(2), was repealed and section 3304(d) was redesignated 3304(c) by Pub. L. 104–65, §16(a), (b), Dec. 19, 1995, 109 Stat. 703.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (d)(2). Pub. L. 104–186 substituted “Chief Administrative Officer” for “Clerk”.
+<b>1996</b>—Subsec. (d)(2). Pub. L. 104–186 substituted "Chief Administrative Officer" for "Clerk".
 
 <b>1985</b>—Subsecs. (a), (b). Pub. L. 99–7, in amending section generally, added subsecs. (a) and (b).
 
-Subsec. (c). Pub. L. 99–7, in amending section generally, designated existing provisions as subsec. (c) and substituted “All staff appointments shall be made” for “The Commission may appoint and fix the pay of such staff personnel as it deems desirable,”.
+Subsec. (c). Pub. L. 99–7, in amending section generally, designated existing provisions as subsec. (c) and substituted "All staff appointments shall be made" for "The Commission may appoint and fix the pay of such staff personnel as it deems desirable,".
 
 Subsec. (d). Pub. L. 99–7, in amending section generally, added subsec. (d).
 

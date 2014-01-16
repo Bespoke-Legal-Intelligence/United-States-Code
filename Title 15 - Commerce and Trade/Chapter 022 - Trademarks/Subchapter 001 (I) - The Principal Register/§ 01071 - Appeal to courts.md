@@ -12,7 +12,7 @@
 
 #### (b) Civil action; persons entitled to; jurisdiction of court; status of Director; procedure
 
-(1) Whenever a person authorized by subsection (a) of this section to appeal to the United States Court of Appeals for the Federal Circuit is dissatisfied with the decision of the Director or Trademark Trial and Appeal Board, said person may, unless appeal has been taken to said United States Court of Appeals for the Federal Circuit, have remedy by a civil action if commenced within such time after such decision, not less than sixty days, as the Director appoints or as provided in subsection (a) of this section. The court may adjudge that an applicant is entitled to a registration upon the application involved, that a registration involved should be canceled, or such other matter as the issues in the proceeding require, as the facts inthe case may appear. Such adjudication shall authorize the Director to take any necessary action, upon compliance with the requirements of law. However, no final judgment shall be entered in favor of an applicant under section 1051(b) of this title before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to section 1057(c) of this title.
+(1) Whenever a person authorized by subsection (a) of this section to appeal to the United States Court of Appeals for the Federal Circuit is dissatisfied with the decision of the Director or Trademark Trial and Appeal Board, said person may, unless appeal has been taken to said United States Court of Appeals for the Federal Circuit, have remedy by a civil action if commenced within such time after such decision, not less than sixty days, as the Director appoints or as provided in subsection (a) of this section. The court may adjudge that an applicant is entitled to a registration upon the application involved, that a registration involved should be canceled, or such other matter as the issues in the proceeding require, as the facts in the case may appear. Such adjudication shall authorize the Director to take any necessary action, upon compliance with the requirements of law. However, no final judgment shall be entered in favor of an applicant under section 1051(b) of this title before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to section 1057(c) of this title.
 
 (2) The Director shall not be made a party to an inter partes proceeding under this subsection, but he shall be notified of the filing of the complaint by the clerk of the court in which it is filed and shall have the right to intervene in the action.
 
@@ -24,7 +24,7 @@
 
 #### Codification
 
-Pub. L. 93–596, which provided for the substitution of “Patent and Trademark Office” for “Patent Office” each time appearing in this chapter, became effective Jan. 2, 1975, as did Pub. L. 93–600, which in the course of amending subsec. (a)(3) and (4) of this section, referred merely to “Patent Office”. “Patent and Trademark Office” has been substituted for “Patent Office” in subsec. (a)(3) and (4) on authority of Pub. L. 93–596.
+Pub. L. 93–596, which provided for the substitution of "Patent and Trademark Office" for "Patent Office" each time appearing in this chapter, became effective Jan. 2, 1975, as did Pub. L. 93–600, which in the course of amending subsec. (a)(3) and (4) of this section, referred merely to "Patent Office". "Patent and Trademark Office" has been substituted for "Patent Office" in subsec. (a)(3) and (4) on authority of Pub. L. 93–596.
 
 #### Prior Provisions
 
@@ -32,55 +32,55 @@ Acts Feb. 20, 1905, ch. 592, §§9, 22, 33 Stat. 727, 729; Mar. 2, 1929, ch. 488
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(4). Pub. L. 112–29 substituted “United States District Court for the Eastern District of Virginia” for “United States District Court for the District of Columbia”.
+<b>2011</b>—Subsec. (b)(4). Pub. L. 112–29 substituted "United States District Court for the Eastern District of Virginia" for "United States District Court for the District of Columbia".
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–146, §3(c)(2), inserted “or section 1141k of this title” after “section 1058 of this title”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–146, §3(c)(2), inserted "or section 1141k of this title" after "section 1058 of this title".
 
-Subsec. (a)(2) to (4). Pub. L. 111–146, §3(c)(1), inserted “United States” before “Patent and Trademark Office” wherever appearing.
+Subsec. (a)(2) to (4). Pub. L. 111–146, §3(c)(1), inserted "United States" before "Patent and Trademark Office" wherever appearing.
 
-Subsec. (b)(3). Pub. L. 111–146, §3(c)(1), inserted “United States” before “Patent and Trademark Office” in two places.
+Subsec. (b)(3). Pub. L. 111–146, §3(c)(1), inserted "United States" before "Patent and Trademark Office" in two places.
 
-Subsec. (b)(4). Pub. L. 111–146, §3(c)(1), (3), inserted “United States” before “Patent and Trademark Office” and substituted “If there are” for “If there be”.
+Subsec. (b)(4). Pub. L. 111–146, §3(c)(1), (3), inserted "United States" before "Patent and Trademark Office" and substituted "If there are" for "If there be".
 
-<b>1999</b>—Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
+<b>1999</b>—Pub. L. 106–113 substituted "Director" for "Commissioner" wherever appearing.
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–667, §120(1), made technical amendments to references in the original act to subsection (b) of this section resulting in no change in text, and substituted “paragraph (2) of this subsection” for “subsection (a)(2) of this section” and “action under subsection” for “action under said subsection”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–667, §120(1), made technical amendments to references in the original act to subsection (b) of this section resulting in no change in text, and substituted "paragraph (2) of this subsection" for "subsection (a)(2) of this section" and "action under subsection" for "action under said subsection".
 
 Subsec. (a)(4). Pub. L. 100–667, §120(2), inserted provision that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
 
 Subsec. (b)(1). Pub. L. 100–667, §120(3), made technical amendments to references in the original act to subsection (a) of this section resulting in no change in text and inserted provision that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
 
-Subsec. (b)(3). Pub. L. 100–667, §120(4), amended first sentence generally. Prior to amendment, first sentence read as follows: “In all cases where there is no adverse party, a copy of the complaint shall be served on the Commissioner; and all the expenses of the proceedings shall be paid by the party bringing them, whether the final decision is in his favor or not.”
+Subsec. (b)(3). Pub. L. 100–667, §120(4), amended first sentence generally. Prior to amendment, first sentence read as follows: "In all cases where there is no adverse party, a copy of the complaint shall be served on the Commissioner; and all the expenses of the proceedings shall be paid by the party bringing them, whether the final decision is in his favor or not."
 
 <b>1984</b>—Subsec. (a)(2). Pub. L. 98–620 substituted provisions requiring the appellant to file a written notice of appeal in the Patent and Trademark Office directed to the Commissioner for provisions requiring the appellant to file the notice of appeal with the Commissioner, and struck out provision which required the notice of appeal to specify the party or parties taking the appeal, to designate the decision or part thereof appealed from, and to state that the appeal was being taken to the United States Court of Appeals for the Federal Circuit.
 
 Subsec. (a)(3). Pub. L. 98–620 substituted provisions requiring the Commissioner to transmit to the United States Court of Appeals for the Federal Circuit a certified list of the documents comprising the record in the Patent and Trademark Office for provisions which required the Commissioner to transmit to the court certified copies of all the necessary original papers and evidence in the case specified by the appellant, and any additional papers and evidence specified by the appellee, and inserted provision that the court may request that the Commissioner forward the original or certified copies of such documents during the pendency of the appeal.
 
-Subsec. (a)(4). Pub. L. 98–620 substituted provisions requiring the court to review the decision from which the appeal is taken on the record before the Patent and Trademark Office, and, upon its determination, to issueits mandate and opinion to the Commissioner for provisions which required the court to decide such appeal on the evidence produced before the Patent and Trademark Office and to return to the Commissioner a certificate of its proceedings and decision.
+Subsec. (a)(4). Pub. L. 98–620 substituted provisions requiring the court to review the decision from which the appeal is taken on the record before the Patent and Trademark Office, and, upon its determination, to issue its mandate and opinion to the Commissioner for provisions which required the court to decide such appeal on the evidence produced before the Patent and Trademark Office and to return to the Commissioner a certificate of its proceedings and decision.
 
-<b>1982</b>—Subsecs. (a)(1), (2), (b)(1). Pub. L. 97–164 substituted “United States Court of Appeals for the Federal Circuit” for “United States Court of Customs and Patent Appeals” and “Court of Customs and Patent Appeals” wherever appearing.
+<b>1982</b>—Subsecs. (a)(1), (2), (b)(1). Pub. L. 97–164 substituted "United States Court of Appeals for the Federal Circuit" for "United States Court of Customs and Patent Appeals" and "Court of Customs and Patent Appeals" wherever appearing.
 
 <b>1975</b>—Subsec. (a)(2). Pub. L. 93–600 substituted provisions relating to filing of notice of appeal with the Commissioner and the contents of such notice of appeal, for provisions relating to giving notice of appeal to the Commissioner and requiring filing in the Patent Office reasons for appeal.
 
 Subsec. (a)(3). Pub. L. 93–600 inserted provision requiring the Commissioner to furnish the court with a brief explaining the grounds of the decision of the Office.
 
-Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
-Subsec. (a)(4). Pub. L. 93–600 substituted “decide” for “hear and determine” and struck out “Upon its determination,” before “the court shall return” and provision requiring the decision to be confined to the points set forth in the reasons of appeal.
+Subsec. (a)(4). Pub. L. 93–600 substituted "decide" for "hear and determine" and struck out "Upon its determination," before "the court shall return" and provision requiring the decision to be confined to the points set forth in the reasons of appeal.
 
-Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” in two places.
+Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office" in two places.
 
-Subsec. (b)(3), (4). Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+Subsec. (b)(3), (4). Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 <b>1962</b>—Pub. L. 87–772 amended section generally, and among other changes, incorporated with necessary changes in language, the various provisions of Title 35, Patents, relating to the procedure of appeals to the Court of Customs and Patent Appeals and review by civil action in patent cases, which had previously been incorporated by reference only.
 
-<b>1958</b>—Pub. L. 85–609 authorized appeals by persons dissatisfied with the decision of the Trademark Trial and Appeal Board, and substituted “Trademark Trial and Appeal Board” for “Commissioner” in proviso.
+<b>1958</b>—Pub. L. 85–609 authorized appeals by persons dissatisfied with the decision of the Trademark Trial and Appeal Board, and substituted "Trademark Trial and Appeal Board" for "Commissioner" in proviso.
 
 <b>1952</b>—Act July 19, 1952, substituted references to new title 35 for repealed section of title 35.
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–29, §9(b), Sept. 16, 2011, 125 Stat. 316, provided that: “The amendments made by this section \[amending this section and sections 32, 145, 146, 154, and 293 of Title 35, Patents\] shall take effect on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any civil action commenced on or after that date.”
+Pub. L. 112–29, §9(b), Sept. 16, 2011, 125 Stat. 316, provided that: "The amendments made by this section \[amending this section and sections 32, 145, 146, 154, and 293 of Title 35, Patents\] shall take effect on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any civil action commenced on or after that date."
 
 #### Effective Date of 1999 Amendment
 

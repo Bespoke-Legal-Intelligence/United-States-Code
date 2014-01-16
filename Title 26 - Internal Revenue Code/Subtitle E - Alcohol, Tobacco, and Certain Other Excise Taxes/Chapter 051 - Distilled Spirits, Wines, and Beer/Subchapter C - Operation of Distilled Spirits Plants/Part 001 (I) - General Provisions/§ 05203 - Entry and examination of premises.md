@@ -10,7 +10,7 @@ It shall be lawful for any internal revenue officer at all times, as well by nig
 
 #### (c) Furnishing facilities and assistance
 
-On the demand of any internal revenue officer or agent, every proprietor of a distilled spiritsplant shall furnish the necessary facilities and assistance to enable the officer or agent to gauge the spirits in any container or to examine any apparatus, equipment, containers, or materials on such premises. Such proprietor shall also, on demand of such officer or agent, open all doors, and open for examination all boxes, packages, and all casks, barrels, and other vessels on such premises.
+On the demand of any internal revenue officer or agent, every proprietor of a distilled spirits plant shall furnish the necessary facilities and assistance to enable the officer or agent to gauge the spirits in any container or to examine any apparatus, equipment, containers, or materials on such premises. Such proprietor shall also, on demand of such officer or agent, open all doors, and open for examination all boxes, packages, and all casks, barrels, and other vessels on such premises.
 
 #### (d) Authority to break up grounds or walls
 
@@ -40,13 +40,13 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 636, 65
 
 #### Amendments
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–39, §807(a)(22)(A), substituted “where distilled spirits operations are carried on” for “where distilled spirits are produced or rectified”.
+<b>1979</b>—Subsec. (b). Pub. L. 96–39, §807(a)(22)(A), substituted "where distilled spirits operations are carried on" for "where distilled spirits are produced or rectified".
 
-Subsec. (c). Pub. L. 96–39, §807(a)(22)(B), substituted “on such premises” for “not under the control of the internal revenue officer in charge”.
+Subsec. (c). Pub. L. 96–39, §807(a)(22)(B), substituted "on such premises" for "not under the control of the internal revenue officer in charge".
 
-Subsec. (d). Pub. L. 96–39, §807(a)(22)(C), substituted “where distilled spirits operations are carried on” for “where distilled spirits are produced or rectified”.
+Subsec. (d). Pub. L. 96–39, §807(a)(22)(C), substituted "where distilled spirits operations are carried on" for "where distilled spirits are produced or rectified".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 1979 Amendment
 

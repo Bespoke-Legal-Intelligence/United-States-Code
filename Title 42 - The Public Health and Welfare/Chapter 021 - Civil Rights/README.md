@@ -66,7 +66,7 @@
 | [2000b.](Subchapter%20003%20%28III%29%20-%20Public%20Facilities/%C2%A7%2002000b%20-%20Civil%20actions%20by%20the%20Attorney%20General.md) | Civil actions by the Attorney General. |
 | 2000b–1. | Liability of United States for costs and attorney's fee. |
 | 2000b–2. | Personal suits for relief against discrimination in public facilities. |
-| 2000b–3. | “Complaint” defined. |
+| 2000b–3. | "Complaint" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -96,7 +96,7 @@
 | 2000d–2. | Judicial review; administrative procedure provisions. |
 | 2000d–3. | Construction of provisions not to authorize administrative action with respect to employment practices except where primary objective of Federal financial assistance is to provide employment. |
 | 2000d–4. | Federal authority and financial assistance to programs or activities by way of contract of insurance or guaranty. |
-| 2000d–4a. | “Program or activity” and “program” defined. |
+| 2000d–4a. | "Program or activity" and "program" defined. |
 | 2000d–5. | Prohibited deferral of action on applications by local educational agencies seeking Federal funds for alleged noncompliance with Civil Rights Act. |
 | 2000d–6. | Policy of United States as to application of nondiscrimination provisions in schools of local educational agencies. |
 | 2000d–7. | Civil rights remedies equalization. |
@@ -118,7 +118,7 @@
 | 2000e–8. | Investigations. |
 | 2000e–9. | Conduct of hearings and investigations pursuant to section 161 of title 29. |
 | 2000e–10. | Posting of notices; penalties. |
-| 2000e–11. | Veterans’ special rights or preference. |
+| 2000e–11. | Veterans' special rights or preference. |
 | 2000e–12. | Regulations; conformity of regulations with administrative procedure provisions; reliance on interpretations and instructions of Commission. |
 | 2000e–13. | Application to personnel of Commission of sections 111 and 1114 of title 18; punishment for violation of section 1114 of title 18. |
 | 2000e–14. | Equal Employment Opportunity Coordinating Council; establishment; composition; duties; report to President and Congress. |

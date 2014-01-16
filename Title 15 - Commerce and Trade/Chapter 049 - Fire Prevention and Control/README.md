@@ -28,7 +28,7 @@
 | [2223b.](%C2%A7%2002223b%20-%20Working%20group.md) | Working group. |
 | [2223c.](%C2%A7%2002223c%20-%20Report%20and%20recommendations.md) | Report and recommendations. |
 | [2223d.](%C2%A7%2002223d%20-%20Annual%20revision%20of%20recommendations.md) | Annual revision of recommendations. |
-| [2223e.](%C2%A7%2002223e%20-%20%E2%80%9CEmergency%20response%20personnel%E2%80%9D%20defined.md) | “Emergency response personnel” defined. |
+| [2223e.](%C2%A7%2002223e%20-%20Emergency%20response%20personnel%20defined.md) | "Emergency response personnel" defined. |
 | [2224\.](%C2%A7%2002224%20-%20Listings%20of%20places%20of%20public%20accommodation.md) | Listings of places of public accommodation. |
 | [2225\.](%C2%A7%2002225%20-%20Fire%20prevention%20and%20control%20guidelines%20for%20places%20of%20public%20accommodation.md) | Fire prevention and control guidelines for places of public accommodation. |
 | [2225a.](%C2%A7%2002225a%20-%20Prohibiting%20Federal%20funding%20of%20conferences%20held%20at%20non-certified%20places%20of%20public%20accommodation.md) | Prohibiting Federal funding of conferences held at non-certified places of public accommodation. |
@@ -76,7 +76,7 @@
 - [&sect; 02223b - Working group](%C2%A7%2002223b%20-%20Working%20group.md)
 - [&sect; 02223c - Report and recommendations](%C2%A7%2002223c%20-%20Report%20and%20recommendations.md)
 - [&sect; 02223d - Annual revision of recommendations](%C2%A7%2002223d%20-%20Annual%20revision%20of%20recommendations.md)
-- [&sect; 02223e - &#8220;Emergency response personnel&#8221; defined](%C2%A7%2002223e%20-%20%E2%80%9CEmergency%20response%20personnel%E2%80%9D%20defined.md)
+- [&sect; 02223e - Emergency response personnel defined](%C2%A7%2002223e%20-%20Emergency%20response%20personnel%20defined.md)
 - [&sect; 02224 - Listings of places of public accommodation](%C2%A7%2002224%20-%20Listings%20of%20places%20of%20public%20accommodation.md)
 - [&sect; 02225 - Fire prevention and control guidelines for places of public accommodation](%C2%A7%2002225%20-%20Fire%20prevention%20and%20control%20guidelines%20for%20places%20of%20public%20accommodation.md)
 - [&sect; 02225a - Prohibiting Federal funding of conferences held at non-certified places of public accommodation](%C2%A7%2002225a%20-%20Prohibiting%20Federal%20funding%20of%20conferences%20held%20at%20non-certified%20places%20of%20public%20accommodation.md)

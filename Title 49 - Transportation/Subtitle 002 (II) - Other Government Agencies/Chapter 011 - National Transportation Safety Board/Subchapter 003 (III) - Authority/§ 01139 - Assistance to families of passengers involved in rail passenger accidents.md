@@ -88,7 +88,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Rail passenger accident.—The term “rail passenger accident” means any rail passenger disaster resulting in a major loss of life occurring in the provision of—
+Rail passenger accident.—The term "rail passenger accident" means any rail passenger disaster resulting in a major loss of life occurring in the provision of—
 
 &emsp;&emsp;(A) interstate intercity rail passenger transportation (as such term is defined in section 24102); or
 
@@ -98,7 +98,7 @@ Rail passenger accident.—The term “rail passenger accident” means any rail
 
 &emsp;(2)
 
-Rail passenger carrier.—The term “rail passenger carrier” means a rail carrier providing—
+Rail passenger carrier.—The term "rail passenger carrier" means a rail carrier providing—
 
 &emsp;&emsp;(A) interstate intercity rail passenger transportation (as such term is defined in section 24102); or
 
@@ -108,7 +108,7 @@ Rail passenger carrier.—The term “rail passenger carrier” means a rail car
 
 &emsp;(3)
 
-Passenger.—The term “passenger” includes—
+Passenger.—The term "passenger" includes—
 
 &emsp;&emsp;(A) an employee of a rail passenger carrier aboard a train;
 
@@ -142,25 +142,25 @@ Savings Clause.—Nothing in this section shall be construed to abridge the auth
 
 Pub. L. 110–432, div. A, title V, §503, Oct. 16, 2008, 122 Stat. 4899, provided that:
 
-“(a)
+"(a)
 
 Establishment.—The Secretary \[of Transportation\], in cooperation with the National Transportation Safety Board, organizations potentially designated under section 1139(a)(2) of title 49, United States Code, rail passenger carriers (as defined in section 1139(h)(2) of title 49, United States Code), and families which have been involved in rail accidents, shall establish a task force consisting of representatives of such entities and families, representatives of rail passenger carrier employees, and representatives of such other entities as the Secretary considers appropriate.
 
-“(b)
+"(b)
 
 Model Plan and Recommendations.—The task force established pursuant to subsection (a) shall develop—
 
-&emsp;“(1) a model plan to assist rail passenger carriers in responding to passenger rail accidents;
+&emsp;"(1) a model plan to assist rail passenger carriers in responding to passenger rail accidents;
 
-&emsp;“(2) recommendations on methods to improve the timeliness of the notification provided by passenger rail carriers to the families of passengers involved in a passenger rail accident;
+&emsp;"(2) recommendations on methods to improve the timeliness of the notification provided by passenger rail carriers to the families of passengers involved in a passenger rail accident;
 
-&emsp;“(3) recommendations on methods to ensure that the families of passengers involved in a passenger rail accident who are not citizens of the United States receive appropriate assistance; and
+&emsp;"(3) recommendations on methods to ensure that the families of passengers involved in a passenger rail accident who are not citizens of the United States receive appropriate assistance; and
 
-&emsp;“(4) recommendations on methods to ensure that emergency services personnel have as immediate and accurate a count of the number of passengers onboard the train as possible.
+&emsp;"(4) recommendations on methods to ensure that emergency services personnel have as immediate and accurate a count of the number of passengers onboard the train as possible.
 
-“(c)
+"(c)
 
-Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 16, 2008\], the Secretary shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure and the Senate Committee on Commerce, Science, and Transportation containing the model plan and recommendations developed by the task force under subsection (b).”
+Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 16, 2008\], the Secretary shall transmit a report to the House of Representatives Committee on Transportation and Infrastructure and the Senate Committee on Commerce, Science, and Transportation containing the model plan and recommendations developed by the task force under subsection (b)."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “post-trauma”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "post-trauma".</i>
 

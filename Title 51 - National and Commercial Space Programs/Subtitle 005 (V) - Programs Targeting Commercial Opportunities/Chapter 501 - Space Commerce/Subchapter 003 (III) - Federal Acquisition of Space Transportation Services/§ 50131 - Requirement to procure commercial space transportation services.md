@@ -68,5 +68,5 @@ Pub. L. 105–303, title II, §201, Oct. 28, 1998, 112 Stat. 2854.
 
 42 U.S.C. 14731(d).
 
-In subsection (d), the date “October 28, 1998” is substituted for “the date of the enactment of this Act” and for “such date” to reflect the date of enactment of the Commercial Space Act of 1998 (Public Law 105–303, 112 Stat. 2843).
+In subsection (d), the date "October 28, 1998" is substituted for "the date of the enactment of this Act" and for "such date" to reflect the date of enactment of the Commercial Space Act of 1998 (Public Law 105–303, 112 Stat. 2843).
 

@@ -6,7 +6,7 @@ From funds made available to carry out this subpart under section 7103(2) of thi
 
 #### (b) Use of funds
 
-Amounts received under a grant under subsection (a) of this section shall be used by local educational agencies to recruit, hire, and train individuals to serve as drug prevention andschool safety program coordinators in schools with significant drug and school safety problems. Such coordinators shall be responsible for developing, conducting, and analyzing assessments of drug and crime problems at their schools, and administering the safe and drug-free grant program at such schools.
+Amounts received under a grant under subsection (a) of this section shall be used by local educational agencies to recruit, hire, and train individuals to serve as drug prevention and school safety program coordinators in schools with significant drug and school safety problems. Such coordinators shall be responsible for developing, conducting, and analyzing assessments of drug and crime problems at their schools, and administering the safe and drug-free grant program at such schools.
 
 (Pub. L. 89–10, title IV, §4125, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1755.)
 

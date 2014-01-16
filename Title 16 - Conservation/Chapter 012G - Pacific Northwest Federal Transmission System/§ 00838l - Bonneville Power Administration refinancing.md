@@ -4,9 +4,9 @@
 
 For the purposes of this section—
 
-&emsp;(1) “Administrator” means the Administrator of the Bonneville Power Administration;
+&emsp;(1) "Administrator" means the Administrator of the Bonneville Power Administration;
 
-&emsp;(2) “capital investment” means a capitalized cost funded by Federal appropriations that—
+&emsp;(2) "capital investment" means a capitalized cost funded by Federal appropriations that—
 
 &emsp;&emsp;(A) is for a project, facility, or separable unit or feature of a project or facility;
 
@@ -16,17 +16,17 @@ For the purposes of this section—
 
 &emsp;&emsp;(D) excludes an investment financed by the current revenues of the Administrator or by bonds issued and sold, or authorized to be issued and sold, by the Administrator under section 838k of this title;
 
-&emsp;(3) “new capital investment” means a capital investment for a project, facility, or separable unit or feature of a project or facility, placed in service after September 30, 1996;
+&emsp;(3) "new capital investment" means a capital investment for a project, facility, or separable unit or feature of a project or facility, placed in service after September 30, 1996;
 
-&emsp;(4) “old capital investment” means a capital investment the capitalized cost of which—
+&emsp;(4) "old capital investment" means a capital investment the capitalized cost of which—
 
 &emsp;&emsp;(A) was incurred, but not repaid, before October 1, 1996, and
 
 &emsp;&emsp;(B) was for a project, facility, or separable unit or feature of a project or facility, placed in service before October 1, 1996;
 
-&emsp;(5) “repayment date” means the end of the period within which the Administrator's rates are to assure the repayment of the principal amount of a capital investment; and
+&emsp;(5) "repayment date" means the end of the period within which the Administrator's rates are to assure the repayment of the principal amount of a capital investment; and
 
-&emsp;(6) “Treasury rate” means—
+&emsp;(6) "Treasury rate" means—
 
 &emsp;&emsp;(A) for an old capital investment, a rate determined by the Secretary of the Treasury, taking into consideration prevailing market yields, during the month preceding October 1, 1996, on outstanding interest-bearing obligations of the United States with periods to maturity comparable to the period between October 1, 1996, and the repayment date for the old capital investment; and
 
@@ -48,7 +48,7 @@ For the purposes of this section—
 
 #### (3) Old payment amounts
 
-&emsp;For the purposes of this subsection, “old payment amounts” means, for an old capital investment, the annual interest and principal that the Administrator would have paid to the United States Treasury from October 1, 1996, if this section had not been enacted, assuming that—
+&emsp;For the purposes of this subsection, "old payment amounts" means, for an old capital investment, the annual interest and principal that the Administrator would have paid to the United States Treasury from October 1, 1996, if this section had not been enacted, assuming that—
 
 &emsp;&emsp;(A) the principal were repaid—
 
@@ -90,7 +90,7 @@ During the period October 1, 1996, through September 30, 2001, the total new pri
 
 #### (3) One-year rate
 
-&emsp;For the purposes of this section, “one-year rate” for a fiscal year means a rate determined by the Secretary of the Treasury, taking into consideration prevailing market yields, during the month preceding the beginning of the fiscal year, on outstanding interest-bearing obligations of the United States with periods to maturity of approximately one year.
+&emsp;For the purposes of this section, "one-year rate" for a fiscal year means a rate determined by the Secretary of the Treasury, taking into consideration prevailing market yields, during the month preceding the beginning of the fiscal year, on outstanding interest-bearing obligations of the United States with periods to maturity of approximately one year.
 
 #### (g) Interest rates for new capital investments
 
@@ -130,7 +130,7 @@ In each contract of the Administrator that provides for the Administrator to sel
 
 #### (1) Repayment
 
-&emsp;This section does not affect the obligation of the Administrator to repay the principal associated with each capital investment, and topay interest on the principal, only from the “Administrator's net proceeds,” as defined in section 838k(b) of this title.
+&emsp;This section does not affect the obligation of the Administrator to repay the principal associated with each capital investment, and topay interest on the principal, only from the "Administrator's net proceeds," as defined in section 838k(b) of this title.
 
 #### (2) Payment of capital investment
 
@@ -144,5 +144,5 @@ Section was enacted as part of the Omnibus Consolidated Rescissions and Appropri
 
 Section is comprised of section 3201 of Pub. L. 104–134. Subsec. (h) of section 3201 of Pub. L. 104–134 amended section 6 of Pub. L. 103–436, which is not classified to the Code.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section;” or “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section;" or "section".</i>
 

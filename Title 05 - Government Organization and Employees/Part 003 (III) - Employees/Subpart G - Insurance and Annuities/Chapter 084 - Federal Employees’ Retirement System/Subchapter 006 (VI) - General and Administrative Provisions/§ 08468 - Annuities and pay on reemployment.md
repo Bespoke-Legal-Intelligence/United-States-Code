@@ -28,7 +28,7 @@
 
 (2) The Office shall prescribe regulations for the exercise of any authority under this subsection, including criteria for any exercise of authority and procedures for terminating a delegation of authority under paragraph (1)(B).
 
-(g)(1) If warranted by circumstances described in subsection (f)(1)(A) or (B) (as applicable), the Director of the Administrative Office of the United States Courts shall, with respect to an employee in the judicial branch, have the same waiver authority as would be available to the Director of the Office of Personnel Management, or a duly authorized agency head, under subsection (f) with respect to an employee of an Executive agency.
+(g)(1) If warranted by circumstances described in subsection (f)(1)(A) or (B) (as applicable), theDirector of the Administrative Office of the United States Courts shall, with respect to an employee in the judicial branch, have the same waiver authority as would be available to the Director of the Office of Personnel Management, or a duly authorized agency head, under subsection (f) with respect to an employee of an Executive agency.
 
 (2) Authority under this subsection may not be exercised with respect to a justice or judge of the United States, as defined in section 451 of title 28.
 

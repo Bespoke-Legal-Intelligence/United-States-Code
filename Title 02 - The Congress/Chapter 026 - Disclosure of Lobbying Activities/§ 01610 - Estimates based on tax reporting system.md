@@ -8,7 +8,7 @@ A person, other than a lobbying firm, that is required to report and does report
 
 &emsp;(2) for all other purposes consider as lobbying contacts and lobbying activities only—
 
-&emsp;&emsp;(A) lobbying contacts with covered legislative branch officials (as defined in section 1602(4) of this title) and lobbying activities in support of such contacts; and
+&emsp;&emsp;(A) lobbying contacts with covered legislative branch officials (as defined in section1602(4) of this title) and lobbying activities in support of such contacts; and
 
 &emsp;&emsp;(B) lobbying of Federal executive branch officials to the extent that such activities are influencing legislation as defined in section 4911(d) of title 26.
 

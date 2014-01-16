@@ -5,7 +5,7 @@ Part VII—Debt-for-Nature Exchanges
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 02281 - &#8220;Debt-for-nature exchange&#8221; defined](%C2%A7%2002281%20-%20%E2%80%9CDebt-for-nature%20exchange%E2%80%9D%20defined.md)
+- [&sect; 02281 - Debt-for-nature exchange defined](%C2%A7%2002281%20-%20Debt-for-nature%20exchange%20defined.md)
 - [&sect; 02282 - Assistance for commercial debt exchanges](%C2%A7%2002282%20-%20Assistance%20for%20commercial%20debt%20exchanges.md)
 - [&sect; 02283 - Eligible projects](%C2%A7%2002283%20-%20Eligible%20projects.md)
 - [&sect; 02284 - Eligible countries](%C2%A7%2002284%20-%20Eligible%20countries.md)

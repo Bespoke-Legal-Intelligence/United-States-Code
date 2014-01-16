@@ -1,6 +1,6 @@
 ### §1216. Other matters within the jurisdiction of the Office of Special Counsel
 
-(a) In addition to the authority otherwise provided in this chapter, the Special Counsel shall, except as provided in subsection (b), conduct an investigation of any allegation concerning—
+(a) In addition to the authority otherwise provided in this chapter, the Special Counsel shall,except as provided in subsection (b), conduct an investigation of any allegation concerning—
 
 &emsp;(1) political activity prohibited under subchapter III of chapter 73, relating to political activities by Federal employees;
 

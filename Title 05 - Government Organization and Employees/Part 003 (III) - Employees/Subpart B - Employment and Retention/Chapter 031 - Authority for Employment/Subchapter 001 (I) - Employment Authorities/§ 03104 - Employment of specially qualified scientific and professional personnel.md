@@ -80,6 +80,10 @@ The amendment to 5 U.S.C. 3104(a)(5) reflects Public Law 89–492, section 5.
 
 The other amendments to 5 U.S.C. 3104 are based on section 302 of the act of July 20, 1958, Public Law 85–568 (72 Stat. 433), 42 U.S.C. 2453, and transfer plan, effective March 15, 1960, 25 Federal Register 2151, section (2)(a)(2), (b) of which in effect transferred from the Department of Defense to the National Aeronautics and Space Administration 12 of the 450 scientific and professional positions authorized by section 2 of Public Law 86–377 (10 U.S.C. 1581). Provisions relating to the date for reporting to Congress are based on 10 U.S.C. 1582.
 
+#### References in Text
+
+The General Schedule, referred to in subsec. (a), is set out under section 5332 of this title.
+
 #### Amendments
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–372 substituted “prescribes and publishes in such form as the Director may determine” for “prescribes”.
@@ -156,7 +160,7 @@ Limitations on Additional Payments.—(1) Subject to paragraph (3), the total am
 
 “(2) In paragraph (1), the term ‘base quarter’ has the meaning given that term in section 5302(3) of title 5, United States Code.
 
-“(3) Notwithstanding any other provision of this section or section 5307 of title 5, United States Code, no additional payments may be paid to an employee undersubsection (b)(3) in any calendar year if, or to the extent that, the employee's total annual compensation in such calendar year will exceed the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3, United States Code.
+“(3) Notwithstanding any other provision of this section or section 5307 of title 5, United States Code, no additional payments may be paid to an employee under subsection (b)(3) in any calendar year if, or to the extent that, the employee's total annual compensation in such calendar year will exceed the maximum amount of total annual compensation payable at the salary set in accordance with section 104 of title 3, United States Code.
 
 “(4) An employee appointed under the program is not eligible for any bonus, monetary award, or other monetary incentive for service under the appointment other than payments authorized by this section.
 
@@ -174,7 +178,7 @@ Period of Program.—(1) The period for carrying out the program authorized unde
 
 “(f)
 
-Savings Provisions.—In the case of an employee who, on the last day of the program period specified in subsection (e)(1), is serving in a position pursuant to an appointment under subsection (b)(1)—
+Savings Provisions.—In the case of an employee who, on the last day of the program period specified insubsection (e)(1), is serving in a position pursuant to an appointment under subsection (b)(1)—
 
 &emsp;“(1) the termination of the program does not terminate the employee's employment in that position before the expiration of the lesser of—
 
@@ -210,9 +214,11 @@ Annual Report.—(1)(A) Not later than December 31 of each year in which the aut
 
 #### FBI Personnel Management System for Non-Special Agent Employees; Secretary of the Treasury
 
-Pub. L. 112–55, div. B, title II, §206, Nov. 18, 2011, 125 Stat. 619, provided that: “The Attorney General is authorized to extend through September 30, 2013, the Personnel Management Demonstration Project transferred to the Attorney General pursuant to \[former\] section 1115 of the Homeland Security Act of 2002, Public Law 107–296 (28 U.S.C. 599B) without limitation on the number of employees or the positions covered.”
+Pub. L. 113–6, div. B, title II, §206, Mar. 26, 2013, 127 Stat. 257, provided that: “The Attorney General is authorized to extend through September 30, 2014, the Personnel Management Demonstration Project transferred to the Attorney General pursuant to \[former\] section 1115 of the Homeland Security Act of 2002 (Public Law 107–296; 28 U.S.C. 599B) without limitation on the number of employees or the positions covered.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 112–55, div. B, title II, §206, Nov. 18, 2011, 125 Stat. 619.
 
 Pub. L. 111–117, div. B, title II, §206, Dec. 16, 2009, 123 Stat. 3139.
 
@@ -250,5 +256,5 @@ Pub. L. 95–454, title IV, §414(a)(3), Oct. 13, 1978, 92 Stat. 1178, provided 
 
 \[Pub. L. 95–454, title IV, §415(a)(3), Oct. 13, 1978, 92 Stat. 1179, provided that the provisions of section 414(a)(3) are effective 180 days after Oct. 13, 1978.\]
 
-\[References in laws to rates of pay for GS–16, 17, or 18, or to maximum rates of pay under General Schedule, to be considered references to rates payable under specified sections of this title, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of this title.\]
+\[References in laws to rates of pay for GS–16, 17, or 18, or to maximum rates of pay under General Schedule, tobe considered references to rates payable under specified sections of this title, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of this title.\]
 

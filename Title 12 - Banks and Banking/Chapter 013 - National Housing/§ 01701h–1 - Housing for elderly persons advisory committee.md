@@ -10,7 +10,7 @@ Section was enacted as part of the Housing Act of 1956, and not as part of the N
 
 #### Amendments
 
-<b>1967</b>—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” for “Housing and Home Finance Administrator”.
+<b>1967</b>—Pub. L. 90–19 substituted "Secretary of Housing and Urban Development" for "Housing and Home Finance Administrator".
 
 #### Termination of Advisory Committees
 

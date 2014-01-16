@@ -120,7 +120,7 @@ In carrying out subsection (d) of this section, the Authority may—
 
 &emsp;(5) request the head of any Federal department or agency to detail to the Authority such personnel as the Authority requires to carry out duties of the Authority, each such detail to be without loss of seniority, pay, or other employee status;
 
-&emsp;(6) request the head of any State department or agency or local government to detail to theAuthority such personnel as the Authority requires to carry out duties of the Authority, each such detail to be without loss of seniority, pay, or other employee status;
+&emsp;(6) request the head of any State department or agency or local government to detail to the Authority such personnel as the Authority requires to carry out duties of the Authority, each such detail to be without loss of seniority, pay, or other employee status;
 
 &emsp;(7) provide for coverage of Authority employees in a suitable retirement and employee benefit system by—
 
@@ -172,7 +172,7 @@ A Federal agency shall—
 
 &emsp;&emsp;If a State is delinquent in payment of the State's share of administrative expenses of the Authority under this subsection—
 
-&emsp;&emsp;&emsp;(i) no assistance under this subchapter shall be furnished to the State (including assistance to a political subdivision or a resident of the State); and
+&emsp;&emsp;&emsp;(i) no assistance under this subchapter shall be furnished to the State (includingassistance to a political subdivision or a resident of the State); and
 
 &emsp;&emsp;&emsp;(ii) no member of the Authority from the State shall participate or vote in any action by the Authority.
 
@@ -282,19 +282,19 @@ The Authority may declare void any contract, loan, or grant of or by the Authori
 
 <b>2009</b>—Subsec. (c)(1). Pub. L. 111–85, which directed amendment of section 382B(c) of the Delta Regional Authority Act of 2000 by adding par. (1) and striking out former par. (1), was executed to this section, which is section 382B of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress. Prior to amendment, text read as follows:
 
-“(A)
+"(A)
 
 Temporary method.—During the period beginning on May 13, 2002, and ending on December 31, 2008, a decision by the Authority shall require the affirmative vote of the Federal cochairperson and a majority of the State members (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.
 
-“(B)
+"(B)
 
-Permanent method.—Effective beginning on January 1, 2009, a decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.”
+Permanent method.—Effective beginning on January 1, 2009, a decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective."
 
-<b>2004</b>—Subsec. (c)(1)(A). Pub. L. 108–447, §506(1), substituted “2008” for “2004”.
+<b>2004</b>—Subsec. (c)(1)(A). Pub. L. 108–447, §506(1), substituted "2008" for "2004".
 
-Subsec. (c)(1)(B). Pub. L. 108–447, §506(2), substituted “2009” for “2005”.
+Subsec. (c)(1)(B). Pub. L. 108–447, §506(2), substituted "2009" for "2005".
 
-<b>2002</b>—Subsec. (c)(1). Pub. L. 107–171, §6027(a), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.”
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–171, §6027(a), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "A decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective."
 
-Subsec. (e)(4). Pub. L. 107–171, §6027(b), substituted “, rules, and regulations” for “and rules”.
+Subsec. (e)(4). Pub. L. 107–171, §6027(b), substituted ", rules, and regulations" for "and rules".
 

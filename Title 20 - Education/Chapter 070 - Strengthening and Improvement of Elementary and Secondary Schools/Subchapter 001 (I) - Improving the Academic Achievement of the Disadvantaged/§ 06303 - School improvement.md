@@ -2,7 +2,7 @@
 
 #### (a) State reservations
 
-Each State shall reserve 2 percent of the amount the State receives under subpart 2 of part A of this subchapter for fiscal years 2002 and 2003, and 4 percent of the amount received under such subpart for fiscal years 2004 through 2007, to carry out subsection (b) of this section and to carry out the State's responsibilities under sections 6316 and 6317 of this title, including carrying out the State educational agency's statewide system of technical assistance and support for local educational agencies.
+Each State shall reserve 2 percent of the amount the State receives under subpart 2 of part A of this subchapter for fiscal years 2002 and 2003, and 4 percent of the amount receivedunder such subpart for fiscal years 2004 through 2007, to carry out subsection (b) of this section and to carry out the State's responsibilities under sections 6316 and 6317 of this title, including carrying out the State educational agency's statewide system of technical assistance and support for local educational agencies.
 
 #### (b) Uses
 
@@ -94,5 +94,5 @@ A prior section 6303, Pub. L. 89–10, title I, §1003, as added Pub. L. 103–3
 
 A prior section 1003 of Pub. L. 89–10 was renumbered section 9003 and was classified to section 3383 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subpart 2 of part A of this subchapter”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subpart 2 of part A of this subchapter".</i>
 

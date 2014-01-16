@@ -8,11 +8,11 @@ Whoever, being an officer or employee of the United States, on behalf of the Uni
 
 Based on title 18, U.S.C., 1940 ed., §205 (Mar. 4, 1909, ch. 321, §115, 35 Stat. 1109).
 
-Words “agency” and “employee” were inserted to eliminate any ambiguity as to scope of section. (See definition of agency under section 6 of this title.)
+Words "agency" and "employee" were inserted to eliminate any ambiguity as to scope of section. (See definition of agency under section 6 of this title.)
 
 Changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $3,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $3,000".
 

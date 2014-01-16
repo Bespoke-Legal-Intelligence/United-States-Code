@@ -30,7 +30,7 @@ The Secretary shall by contract provide for the establishment and operation of a
 
 &emsp;(D) assist organ procurement organizations in the nationwide distribution of organs equitably among transplant patients,
 
-&emsp;(E) adopt and use standards of quality for the acquisition and transportation of donated organs, including standards for preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome,
+&emsp;(E) adopt and use standards of quality for the acquisition and transportation of donated organs,
 
 &emsp;(F) prepare and distribute, on a regionalized basis (and, to the extent practicable, among regions or on a national basis), samples of blood sera from individuals who are included on the list and whose immune system makes it difficult for them to receive organs, in order to facilitate matching the compatibility of such individuals with organ donors,
 
@@ -44,13 +44,23 @@ The Secretary shall by contract provide for the establishment and operation of a
 
 &emsp;(K) work actively to increase the supply of donated organs,
 
-&emsp;(L) submit to the Secretary an annual report containing information on the comparative costs and patient outcomes at each transplantcenter affiliated with the organ procurement and transplantation network,
+&emsp;(L) submit to the Secretary an annual report containing information on the comparative costs and patient outcomes at each transplant center affiliated with the organ procurement and transplantation network,
 
 &emsp;(M) recognize the differences in health and in organ transplantation issues between children and adults throughout the system and adopt criteria, polices, and procedures that address the unique health care needs of children,
 
 &emsp;(N) carry out studies and demonstration projects for the purpose of improving procedures for organ donation procurement and allocation, including but not limited to projects to examine and attempt to increase transplantation among populations with special needs, including children and individuals who are members of racial or ethnic minority groups, and among populations with limited access to transportation, and
 
-&emsp;(O) provide that for purposes of this paragraph, the term “children” refers to individuals who are under the age of 18.
+&emsp;(O) provide that for purposes of this paragraph, the term "children" refers to individuals who are under the age of 18.
+
+(3)
+
+Clarification.—In adopting and using standards of quality under paragraph (2)(E), the Organ Procurement and Transplantation Network may adopt and use such standards with respect to organs infected with human immunodeficiency virus (in this paragraph referred to as "HIV"), provided that any such standards ensure that organs infected with HIV may be transplanted only into individuals who—
+
+&emsp;(A) are infected with HIV before receiving such organ; and
+
+&emsp;(B)(i) are participating in clinical research approved by an institutional review board under the criteria, standards, and regulations described in subsections (a) and (b) of section 274f–5 of this title; or
+
+&emsp;(ii) if the Secretary has determined under section 274f–5(c) of this title that participation in such clinical research, as a requirement for such transplants, is no longer warranted, are receiving a transplant under the standards and regulations under section 274f–5(c) of this title.
 
 #### (c) Consideration of critical comments
 
@@ -60,7 +70,7 @@ The Secretary shall establish procedures for—
 
 &emsp;(2) the consideration by the Secretary of such critical comments.
 
-(July 1, 1944, ch. 373, title III, §372, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2344; amended Pub. L. 100–607, title IV, §403, Nov. 4, 1988, 102 Stat. 3115; Pub. L. 101–616, title II, §202(a)–(c), Nov. 16, 1990, 104 Stat. 3283, 3284; Pub. L. 106–310, div. A, title XXI, §2101(a), Oct. 17, 2000, 114 Stat. 1156; Pub. L. 110–426, §2, Oct. 15, 2008, 122 Stat. 4835.)
+(July 1, 1944, ch. 373, title III, §372, as added Pub. L. 98–507, title II, §201, Oct. 19, 1984, 98 Stat. 2344; amended Pub. L. 100–607, title IV, §403, Nov. 4, 1988, 102 Stat. 3115; Pub. L. 101–616, title II, §202(a)–(c), Nov. 16, 1990, 104 Stat. 3283, 3284; Pub. L. 106–310, div. A, title XXI, §2101(a), Oct. 17, 2000, 114 Stat. 1156; Pub. L. 110–426, §2, Oct. 15, 2008, 122 Stat. 4835; Pub. L. 113–51, §2(a)(1), Nov. 21, 2013, 127 Stat. 579.)
 
 #### Prior Provisions
 
@@ -70,27 +80,31 @@ Another section 372 of act July 1, 1944, added by act Aug. 3, 1956, ch. 941, §1
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–426 substituted “$7,000,000” for “$2,000,000”.
+<b>2013</b>—Subsec. (b)(2)(E). Pub. L. 113–51, §2(a)(1)(A), struck out ", including standards for preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome" after "organs".
+
+Subsec. (b)(3). Pub. L. 113–51, §2(a)(1)(B), added par. (3).
+
+<b>2008</b>—Subsec. (a). Pub. L. 110–426 substituted "$7,000,000" for "$2,000,000".
 
 <b>2000</b>—Subsec. (b)(2)(M) to(O). Pub. L. 106–310 added subpars. (M) to (O).
 
-<b>1990</b>—Subsec. (b)(1)(A). Pub. L. 101–616, §202(a)(1), substituted “that has an expertise in organ procurement and transplantation” for “which is not engaged in any activity unrelated to organ procurement”.
+<b>1990</b>—Subsec. (b)(1)(A). Pub. L. 101–616, §202(a)(1), substituted "that has an expertise in organ procurement and transplantation" for "which is not engaged in any activity unrelated to organ procurement".
 
-Subsec. (b)(1)(B). Pub. L. 101–616, §202(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “have a board of directors which includes representatives of organ procurement organizations (including organizations which have received grants under section 273 of this title), transplant centers, voluntary health associations, and the general public.”
+Subsec. (b)(1)(B). Pub. L. 101–616, §202(a)(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "have a board of directors which includes representatives of organ procurement organizations (including organizations which have received grants under section 273 of this title), transplant centers, voluntary health associations, and the general public."
 
-Subsec. (b)(2)(D). Pub. L. 101–616, §202(b)(1), inserted “nationwide” after “organizations in the” and “equitably among transplant patients” after “organs”.
+Subsec. (b)(2)(D). Pub. L. 101–616, §202(b)(1), inserted "nationwide" after "organizations in the" and "equitably among transplant patients" after "organs".
 
-Subsec. (b)(2)(F). Pub. L. 101–616, §202(c), substituted “compatibility” for “compatability”.
+Subsec. (b)(2)(F). Pub. L. 101–616, §202(c), substituted "compatibility" for "compatability".
 
 Subsec. (b)(2)(K), (L). Pub. L. 101–616, §202(b)(2)–(4), added subpars. (K) and (L).
 
 <b>1988</b>—Subsec. (b)(2)(B), (C). Pub. L. 100–607, §403(a)(1), added subpar. (B) and redesignated former subpars. (B) and (C) as (C) and (D), respectively.
 
-Subsec. (b)(2)(D). Pub. L. 100–607, §403(a)(1), (2), redesignated former subpar. (C) as (D) and substituted “organs” for “organs which cannot be placed within the service areas of the organizations”. Former subpar. (D) redesignated (E).
+Subsec. (b)(2)(D). Pub. L. 100–607, §403(a)(1), (2), redesignated former subpar. (C) as (D) and substituted "organs" for "organs which cannot be placed within the service areas of the organizations". Former subpar. (D) redesignated (E).
 
-Subsec. (b)(2)(E). Pub. L. 100–607, §403(a)(1), (3), redesignated former subpar. (D) as (E) and inserted “including standards for preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome,” after “organs,”. Former subpar. (E) redesignated (F).
+Subsec. (b)(2)(E). Pub. L. 100–607, §403(a)(1), (3), redesignated former subpar. (D) as (E) and inserted "including standards for preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deficiency syndrome," after "organs,". Former subpar. (E) redesignated (F).
 
-Subsec. (b)(2)(F). Pub. L. 100–607, §403(a)(1), (4), redesignated former subpar. (E) as (F) and inserted “(and, to the extent practicable, among regions or on a national basis)” after “basis”. Former subpar. (F) redesignated (G).
+Subsec. (b)(2)(F). Pub. L. 100–607, §403(a)(1), (4), redesignated former subpar. (E) as (F) and inserted "(and, to the extent practicable, among regions or on a national basis)" after "basis". Former subpar. (F) redesignated (G).
 
 Subsec. (b)(2)(G) to (I). Pub. L. 100–607, §403(a)(1), redesignated former subpars. (F) to (H) as (G) to (I), respectively.
 
@@ -100,27 +114,27 @@ Subsec. (c). Pub. L. 100–607, §403(b), added subsec. (c).
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–616, title II, §202(d), Nov. 16, 1990, 104 Stat. 3284, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective on December 31, 1990.”
+Pub. L. 101–616, title II, §202(d), Nov. 16, 1990, 104 Stat. 3284, provided that: "The amendments made by subsection (a) \[amending this section\] shall become effective on December 31, 1990."
 
 #### Report; Limitation on Amendment by Pub. L. 110–426
 
 Pub. L. 110–426, §3, Oct. 15, 2008, 122 Stat. 4835, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of Health and Human Services shall request that the Executive Director of the Organ Procurement and Transplantation Network submit to Congress, not later than 1 year after the date of enactment of this Act \[Oct. 15, 2008\], a report that shall include—
 
-&emsp;“(1) the identity of transplant programs that have become inactive or have closed since the heart allocation policy change of 2006;
+&emsp;"(1) the identity of transplant programs that have become inactive or have closed since the heart allocation policy change of 2006;
 
-&emsp;“(2) the distance to the next closest operational heart transplant center from such inactivated or closed programs and an evaluation of whether or not access to care has been reduced to the population previously serviced by such inactive or closed program;
+&emsp;"(2) the distance to the next closest operational heart transplant center from such inactivated or closed programs and an evaluation of whether or not access to care has been reduced to the population previously serviced by such inactive or closed program;
 
-&emsp;“(3) the number of patients with rural zip codes that received transplants after the heart allocation policy change of 2006 as compared with the number of such patients that received such transplants prior to such heart allocation policy change;
+&emsp;"(3) the number of patients with rural zip codes that received transplants after the heart allocation policy change of 2006 as compared with the number of such patients that received such transplants prior to such heart allocation policy change;
 
-&emsp;“(4) a comparison of the number of transplants performed, the mortality rate for individuals on the transplant waiting lists, and the post-transplant survival rate nationally and by region prior to and after the heart allocation policy change of 2006; and
+&emsp;"(4) a comparison of the number of transplants performed, the mortality rate for individuals on the transplant waiting lists, and the post-transplant survival rate nationally and by region prior to and after the heart allocation policy change of 2006; and
 
-&emsp;“(5) specifically with respect to allosensitized patients, a comparison of the number of heart transplants performed, the mortality rate for individuals on the heart transplant waiting lists, and the post heart transplant survival rate nationally and by region prior to and after the heart allocation policy change of 2006.
+&emsp;"(5) specifically with respect to allosensitized patients, a comparison of the number of heart transplants performed, the mortality rate for individuals on the heart transplant waiting lists, and the post heart transplant survival rate nationally and by region prior to and after the heart allocation policy change of 2006.
 
-“(b)
+"(b)
 
-Limitation on Funding.—The increase provided for in the amendment made by section 2 \[amending this section\] shall not apply with respect to contracts entered into under section 372(a) of the Public Health Service Act (42 U.S.C. 274(a)) after the date that is 1 year after the date of enactment of this Act \[Oct. 15, 2008\] if the Executive Director of the Organ Procurement and Transplantation Network fails to submit the report under subsection (a).”
+Limitation on Funding.—The increase provided for in the amendment made by section 2 \[amending this section\] shall not apply with respect to contracts entered into under section 372(a) of the Public Health Service Act (42 U.S.C. 274(a)) after the date that is 1 year after the date of enactment of this Act \[Oct. 15, 2008\] if the Executive Director of the Organ Procurement and Transplantation Network fails to submit the report under subsection (a)."
 

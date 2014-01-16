@@ -14,7 +14,7 @@ Maximum Payment.—The aggregate amount of the stipend paid a member of the Indi
 
 Payment Requirements.—(1) The stipend authorized by this section may not be disbursed in kind.
 
-(2) Payment of a stipend to a member of the Individual Ready Reserve under this section for participation in screening shall be made on orafter the date of participation in such screening, but not later than 30 days after such date.
+(2) Payment of a stipend to a member of the Individual Ready Reserve under this section for participation in screening shall be made on or after the date of participation in such screening, but not later than 30 days after such date.
 
 (Added Pub. L. 110–181, div. A, title VI, §633(a)(1), Jan. 28, 2008, 122 Stat. 154.)
 

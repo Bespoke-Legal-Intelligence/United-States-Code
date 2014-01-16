@@ -2,7 +2,7 @@
 
 #### (a) Insurance producers subject to assessment
 
-The Association may establish such application and membership fees as the Associationfinds necessary to cover the costs of its operations, including fees made reimbursable to the NAIC under subsection (b) of this section, except that, in setting such fees, the Association may not discriminate against smaller insurance producers.
+The Association may establish such application and membership fees as the Association finds necessary to cover the costs of its operations, including fees made reimbursable to the NAIC under subsection (b) of this section, except that, in setting such fees, the Association may not discriminate against smaller insurance producers.
 
 #### (b) NAIC assessments
 

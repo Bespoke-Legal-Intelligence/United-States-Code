@@ -10,7 +10,7 @@ The Trust shall assume all authority provided by sections 698v to 698v–10 of t
 
 #### (b) Management responsibilities
 
-Upon assumption of management of the Preserve under subsection (a) of this section, the Trust shall manage the land and resources of thePreserve and the use thereof including, but not limited to such activities as—
+Upon assumption of management of the Preserve under subsection (a) of this section, the Trust shall manage the land and resources of the Preserve and the use thereof including, but not limited to such activities as—
 
 &emsp;(1) administration of the operations of the Preserve;
 
@@ -116,7 +116,7 @@ Within two years after assumption of management responsibilities for the Preserv
 
 #### (5) Consultation with tribes and Pueblos
 
-&emsp;The Trust is authorized and directed to cooperate and consult with Indian tribes and Pueblos on management policies and practices for the Preserve which may affect them. The Trust is authorized to allow the use of lands within the Preserve for religious and cultural uses by Native Americans and, in so doing, may set aside places and times of exclusive use consistent with the American Indian Religious Freedom Act \[42 U.S.C. 1996, 1996a\] and other applicable statutes.
+&emsp;The Trust is authorized and directed to cooperate and consult with Indian tribes andPueblos on management policies and practices for the Preserve which may affect them. The Trust is authorized to allow the use of lands within the Preserve for religious and cultural uses by Native Americans and, in so doing, may set aside places and times of exclusive use consistent with the American Indian Religious Freedom Act \[42 U.S.C. 1996, 1996a\] and other applicable statutes.
 
 #### (6) No administrative appeal
 
@@ -172,7 +172,7 @@ Within two years after assumption of management responsibilities for the Preserv
 
 #### (B) Reimbursable services
 
-&emsp;&emsp;To the extent generally authorized at other units of the National Forest Systemand subject to the availability of appropriations under section 698v–9(a) of this title, the Secretary shall provide presuppression and nonemergency rehabilitation and restoration services for the Trust at any time on a reimbursable basis.
+&emsp;&emsp;To the extent generally authorized at other units of the National Forest System and subject to the availability of appropriations under section 698v–9(a) of this title, the Secretary shall provide presuppression and nonemergency rehabilitation and restoration services for the Trust at any time on a reimbursable basis.
 
 (Pub. L. 106–248, title I, §108, July 25, 2000, 114 Stat. 607; Pub. L. 109–54, title IV, §432(a), Aug. 2, 2005, 119 Stat. 556; Pub. L. 109–132, §4, Dec. 20, 2005, 119 Stat. 2571.)
 
@@ -184,19 +184,19 @@ The American Indian Religious Freedom Act, referred to in subsec. (f)(5), is Pub
 
 #### Codification
 
-“Section 1302 of title 40” substituted in subsec. (c)(1) for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Section 1302 of title 40" substituted in subsec. (c)(1) for "section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
-<b>2005</b>—Subsec. (c)(3). Pub. L. 109–132, §4(a), designated existing provisions as subpars. (A) to (C), inserted subpar. headings, in subpar. (C), substituted “The easement” for “Any such easement”, and added subpar. (D).
+<b>2005</b>—Subsec. (c)(3). Pub. L. 109–132, §4(a), designated existing provisions as subpars. (A) to (C), inserted subpar. headings, in subpar. (C), substituted "The easement" for "Any such easement", and added subpar. (D).
 
-Subsec. (g). Pub. L. 109–54, §432(a)(3), and Pub. L. 109–132, §4(b)(3), which both directed amendment of subsec. (g) by substituting slightly different pars. (2) for “At the request of the Trust, the Secretary may provide fire presuppression, fire suppression, and rehabilitation services: <i>Provided</i>, That the Trust shall reimburse the Secretary for salaries and expenses of fire management personnel, commensurate with services provided.” at end, were executed by adding the par. (2) from Pub. L. 109–132 first and the par. (2) from Pub. L. 109–54 second.
+Subsec. (g). Pub. L. 109–54, §432(a)(3), and Pub. L. 109–132, §4(b)(3), which both directed amendment of subsec. (g) by substituting slightly different pars. (2) for "At the request of the Trust, the Secretary may provide fire presuppression, fire suppression, and rehabilitation services: <i>Provided</i>, That the Trust shall reimburse the Secretary for salaries and expenses of fire management personnel, commensurate with services provided." at end, were executed by adding the par. (2) from Pub. L. 109–132 first and the par. (2) from Pub. L. 109–54 second.
 
 Pub. L. 109–54, §432(a)(1), (2), and Pub. L. 109–132, §4(b)(1), (2), amended subsec. (g) identically inserting par. (1) designation and heading at beginning of subsec., subpar. (A) designation and heading at beginning of first sentence, and subpar. (B) designation and heading at beginning of second sentence.
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–54, title IV, §432(b), Aug. 2, 2005, 119 Stat. 557, provided that: “The amendments made by subsection (a) \[amending this section\] take effect as of January 1, 2005.”
+Pub. L. 109–54, title IV, §432(b), Aug. 2, 2005, 119 Stat. 557, provided that: "The amendments made by subsection (a) \[amending this section\] take effect as of January 1, 2005."
 
 <i><sup>1</sup></i><i> So in original. Two pars. (2) have been enacted.</i>
 

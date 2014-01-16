@@ -16,7 +16,7 @@ To be eligible for insurance under this section a mortgage shall meet the follow
 
 &emsp;&emsp;(A) not to exceed $5,000,000; and
 
-&emsp;&emsp;(B) not to exceed 90 per centum of the amount which the Secretary estimates willbe the necessary current cost of the completed property or project, including the land; the proposed physical improvements; utilities within the boundaries of the property or project; architects’ fees; taxes and interest accruing during construction; and other miscellaneous charges incidental to construction and approved by the Secretary: <i>Provided</i>, That such mortgage shall not in any event exceed the amount which the Secretary estimates will be the cost of the completed physical improvements on the property or project, exclusive of off-site public utilities and streets, and organization and legal expenses: <i>And provided further</i>, That the principal obligation of the mortgage shall not, in any event, exceed 90 per centum of the Secretary's estimate of the replacement cost of the property or project on the basis of the costs prevailing on December 31, 1947, for properties or projects of comparable quality in the locality where such property or project is to be located; and
+&emsp;&emsp;(B) not to exceed 90 per centum of the amount which the Secretary estimates will be the necessary current cost of the completed property or project, including the land; the proposed physical improvements; utilities within the boundaries of the property or project; architects' fees; taxes and interest accruing during construction; and other miscellaneous charges incidental to construction and approved by the Secretary: <i>Provided</i>, That such mortgage shall not in any event exceed the amount which the Secretary estimates will be the cost of the completed physical improvements on the property or project, exclusive of off-site public utilities and streets, and organization and legal expenses: <i>And provided further</i>, That the principal obligation of the mortgage shall not, in any event, exceed 90 per centum of the Secretary's estimate of the replacement cost of the property or project on the basis of the costs prevailing on December 31,1947, for properties or projects of comparable quality in the locality where such property or project is to be located; and
 
 &emsp;&emsp;(C) not to exceed $8,100 per family unit for such part of such property or project as may be attributable to dwelling use.
 
@@ -36,13 +36,13 @@ Debentures issued under this section shall be issued in accordance with the prov
 
 #### (f) Applicability of other provisions
 
-The provisions of section 1713(k) of this title shall be applicable to mortgages insured underthis section, except that, as applied to such mortgages, the reference therein to subsection (g) shall be construed to refer to subsection (c) of this section.
+The provisions of section 1713(k) of this title shall be applicable to mortgages insured under this section, except that, as applied to such mortgages, the reference therein to subsection (g) shall be construed to refer to subsection (c) of this section.
 
 #### (g) Mortgages in connection with sale of property under subchapter I, II, VIII, or X of this chapter
 
 The Secretary shall also have power to insure under this subchapter or subchapter I, II, VIII, or X of this chapter any mortgage executed in connection with the sale by him of any property acquired under any of such subchapters without regard to limitations upon eligibility, time, or aggregate amount contained therein.
 
-(June 27, 1934, ch. 847, title VI, §608, as added May 26, 1942, ch. 319, §11, 56 Stat. 303; amended Mar. 31, 1945, ch. 48, §2, 59 Stat. 47; May 22, 1946, ch. 268, §10(f), (g), 60 Stat. 214; Aug. 10, 1948, ch. 832, title I, §101(b), (c), 62 Stat. 1269; Apr. 20, 1950, ch. 94, title I, §122, 64 Stat. 59; Sept. 1, 1951, ch. 378, title II, §206, 65 Stat. 303; Pub. L. 89–117, title XI, §1108(q), Aug. 10, 1965, 79 Stat. 506; Pub. L. 90–19, §1(a)(3), (4), May 25, 1967, 81 Stat. 17.)
+(June 27, 1934, ch. 847, title VI, §608, as added May 26, 1942, ch. 319, §11, 56 Stat. 303; amended Mar. 31, 1945, ch. 48, §2, 59 Stat. 47; May 22, 1946, ch. 268, §10(f), (g), 60 Stat. 214; Aug. 10, 1948, ch. 832, title I, §101(b), (c), 62 Stat. 1269; Apr. 20, 1950,ch. 94, title I, §122, 64 Stat. 59; Sept. 1, 1951, ch. 378, title II, §206, 65 Stat. 303; Pub. L. 89–117, title XI, §1108(q), Aug. 10, 1965, 79 Stat. 506; Pub. L. 90–19, §1(a)(3), (4), May 25, 1967, 81 Stat. 17.)
 
 #### References in Text
 
@@ -50,25 +50,25 @@ The General Insurance Fund, referred to in subsecs. (b) and (d), was established
 
 #### Amendments
 
-<b>1967</b>—Pub. L. 90–19, §1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (b)(1), (2), (3)(B), following (C), (c), (d), and (g).
+<b>1967</b>—Pub. L. 90–19, §1(a)(3), substituted "Secretary" for "Commissioner" wherever appearing in subsecs. (a), (b)(1), (2), (3)(B), following (C), (c), (d), and (g).
 
-Subsec. (b)(3)(B). Pub. L. 90–19, §1(a)(4), substituted “Secretary's” for “Commissioner's”.
+Subsec. (b)(3)(B). Pub. L. 90–19, §1(a)(4), substituted "Secretary's" for "Commissioner's".
 
-<b>1965</b>—Subsecs. (b)(1), (d). Pub. L. 89–117, §1108(q)(1), substituted “General Insurance Fund” for “War Housing Insurance Fund”.
+<b>1965</b>—Subsecs. (b)(1), (d). Pub. L. 89–117, §1108(q)(1), substituted "General Insurance Fund" for "War Housing Insurance Fund".
 
-Subsec. (f). Pub. L. 89–117, §1108(q)(2), struck out provisions that, as applied to mortgages insured under this section, all references in section 1713(k) of this title to the “Housing Fund” shall be construed to refer to the “War Housing Insurance Fund”.
+Subsec. (f). Pub. L. 89–117, §1108(q)(2), struck out provisions that, as applied to mortgages insured under this section, all references in section 1713(k) of this title to the "Housing Fund" shall be construed to refer to the "War Housing Insurance Fund".
 
 <b>1951</b>—Subsec. (g). Act Sept. 1, 1951, inserted references to subchapters I, VIII and X of this chapter.
 
-<b>1950</b>—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator” wherever appearing.
+<b>1950</b>—Act Apr. 20, 1950, substituted "Commissioner" for "Administrator" wherever appearing.
 
-<b>1948</b>—Subsec. (b). Act Aug. 10, 1948, inserted second proviso in par. (3)(B), substituted “$8,100 per family unit” for “$1,500 per room” and struck out proviso relating to authority to increase “$1,500” to “$1,800” per room.
+<b>1948</b>—Subsec. (b). Act Aug. 10, 1948, inserted second proviso in par. (3)(B), substituted "$8,100 per family unit" for "$1,500 per room" and struck out proviso relating to authority to increase "$1,500" to "$1,800" per room.
 
-<b>1946</b>—Subsec. (b)(2). Act May 22, 1946, substituted “Preference or priority of opportunity in the occupancy of the mortgaged property for veterans of World War II and their immediate families, and for hardship cases as defined by the Administrator, shall be provided under such regulations and procedures as may be prescribed by the Administrator” for “The mortgaged property shall be designed for rent for residential use by warworkers”.
+<b>1946</b>—Subsec. (b)(2). Act May 22, 1946, substituted "Preference or priority of opportunity in the occupancy of the mortgaged property for veterans of World War II and their immediate families, and for hardship cases as defined by the Administrator, shall be provided under such regulations and procedures as may be prescribed by the Administrator" for "The mortgaged property shall be designed for rent for residential use by warworkers".
 
-Subsec. (b)(3). Act May 22, 1946, substituted “necessary current cost” after “estimates will be the” for “reasonable replacement cost” in par. (B), and increased mortgage per room from $1,350 to $1,500 and inserted proviso in par. (C).
+Subsec. (b)(3). Act May 22, 1946, substituted "necessary current cost" after "estimates will be the" for "reasonable replacement cost" in par. (B), and increased mortgage per room from $1,350 to $1,500 and inserted proviso in par. (C).
 
-Subsec. (c). Act May 22, 1946, inserted “and any mortgage insurance premiums paid after default” before semicolon in cl. (C) of third sentence.
+Subsec. (c). Act May 22, 1946, inserted "and any mortgage insurance premiums paid after default" before semicolon in cl. (C) of third sentence.
 
 <b>1945</b>—Subsec. (g). Act Mar. 31, 1945, inserted provisions empowering Commissioner to insure mortgages without regard to any limitations upon time or aggregate amount contained in this subchapter.
 

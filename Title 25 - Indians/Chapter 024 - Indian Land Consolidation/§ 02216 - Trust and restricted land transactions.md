@@ -30,7 +30,7 @@ It is the policy of the United States to encourage and assist the consolidation 
 
 &emsp;&emsp;&emsp;(i) to an Indian person who is the owner's spouse, brother, sister, lineal ancestor, lineal descendant, or collateral heir; or
 
-&emsp;&emsp;&emsp;(ii) to an Indian co-owner or to the tribe with jurisdiction over the subject parcel ofland, where the grantor owns a fractional interest that represents 5 percent or less of the parcel.
+&emsp;&emsp;&emsp;(ii) to an Indian co-owner or to the tribe with jurisdiction over the subject parcel of land, where the grantor owns a fractional interest that represents 5 percent or less of the parcel.
 
 #### (2) Limitation
 
@@ -78,17 +78,17 @@ Notwithstanding any other provision of law, the names and mailing addresses of t
 
 #### Amendments
 
-<b>2005</b>—Subsec. (e). Pub. L. 109–157 substituted “be made available to—” for “be made available to”.
+<b>2005</b>—Subsec. (e). Pub. L. 109–157 substituted "be made available to—" for "be made available to".
 
-<b>2004</b>—Subsec. (b)(1)(B). Pub. L. 108–374, §6(a)(9)(A), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “The requirement for an estimate of value under subparagraph (A) may be waived in writing by an Indian selling, exchanging, or conveying by gift deed for no or nominal consideration an interest in land with an Indian person who is the owner's spouse, brother, sister, lineal ancestor of Indian blood, lineal descendant, or collateral heir.”
+<b>2004</b>—Subsec. (b)(1)(B). Pub. L. 108–374, §6(a)(9)(A), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: "The requirement for an estimate of value under subparagraph (A) may be waived in writing by an Indian selling, exchanging, or conveying by gift deed for no or nominal consideration an interest in land with an Indian person who is the owner's spouse, brother, sister, lineal ancestor of Indian blood, lineal descendant, or collateral heir."
 
-Subsec. (e). Pub. L. 108–374, §6(a)(9)(B), added introductory provisions and struck out former introductory provisions which read as follows: “Notwithstanding any other provision of law, the names and mailing addresses of the Indian owners of trust or restricted lands, and information on the location of the parcel and the percentage of undivided interest owned by each individual, or of any interest in trust or restricted lands, shall, upon written request, be made available to—”.
+Subsec. (e). Pub. L. 108–374, §6(a)(9)(B), added introductory provisions and struck out former introductory provisions which read as follows: "Notwithstanding any other provision of law, the names and mailing addresses of the Indian owners of trust or restricted lands, and information on the location of the parcel and the percentage of undivided interest owned by each individual, or of any interest in trust or restricted lands, shall, upon written request, be made available to—".
 
-Subsec. (e)(1). Pub. L. 108–374, §6(a)(9)(C), struck out “Indian” before “owners”.
+Subsec. (e)(1). Pub. L. 108–374, §6(a)(9)(C), struck out "Indian" before "owners".
 
-Subsec. (e)(3). Pub. L. 108–374, §6(a)(9)(D), substituted “any person that is leasing, using, or consolidating, or is applying to lease, use, or consolidate,” for “prospective applicants for the leasing, use, or consolidation of”.
+Subsec. (e)(3). Pub. L. 108–374, §6(a)(9)(D), substituted "any person that is leasing, using, or consolidating, or is applying to lease, use, or consolidate," for "prospective applicants for the leasing, use, or consolidation of".
 
-Subsec. (f). Pub. L. 108–374, §6(a)(9)(E), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “After the expiration of the limitation period provided for in subsection (b)(2) of this section and prior to considering an Indian application to terminate the trust status or to remove the restrictions on alienation from trust or restricted land sold, exchanged or otherwise conveyed under this section, the Indian tribe that exercises jurisdiction over the parcel of such land shall be notified of the application and given the opportunity to match the purchase price that has been offered for the trust or restricted land involved.”
+Subsec. (f). Pub. L. 108–374, §6(a)(9)(E), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: "After the expiration of the limitation period provided for in subsection (b)(2) of this section and prior to considering an Indian application to terminate the trust status or to remove the restrictions on alienation from trust or restricted land sold, exchanged or otherwise conveyed under this section, the Indian tribe that exercises jurisdiction over the parcel of such land shall be notified of the application and given the opportunity to match the purchase price that has been offered for the trust or restricted land involved."
 
 #### Effective Date of 2005 Amendment
 

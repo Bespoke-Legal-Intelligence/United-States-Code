@@ -32,5 +32,5 @@ Aug. 10, 1982, Pub. L. 97–234, §§8(f), 15 (1st sentence), 96 Stat. 262, 263.
 
 &nbsp;
 
-In subsection (a), the words “organized and” are omitted as unnecessary.
+In subsection (a), the words "organized and" are omitted as unnecessary.
 

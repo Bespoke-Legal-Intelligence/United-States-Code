@@ -26,5 +26,5 @@ This section \[section 51\] conforms section 3242 of title 18, U.S.C., with sect
 
 <b>1966</b>—Pub. L. 89–707 added carnal knowledge and assault with intent to commit rape as offenses cognizable within the exclusive jurisdiction of the United States when committed on and within the Indian country.
 
-<b>1949</b>—Act May 24, 1949, substituted “within the Indian country” for “within any Indian reservation, including rights-of-way running through the reservation,”.
+<b>1949</b>—Act May 24, 1949, substituted "within the Indian country" for "within any Indian reservation, including rights-of-way running through the reservation,".
 

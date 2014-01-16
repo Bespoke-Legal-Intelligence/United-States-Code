@@ -24,5 +24,5 @@ Historical and Revision Notes
 
 Sept. 7, 1962, Pub. L. 87–650, §5, 76 Stat. 503.
 
-Before clause (1), the words “is limited to” are substituted for “shall be” for clarity.
+Before clause (1), the words "is limited to" are substituted for "shall be" for clarity.
 

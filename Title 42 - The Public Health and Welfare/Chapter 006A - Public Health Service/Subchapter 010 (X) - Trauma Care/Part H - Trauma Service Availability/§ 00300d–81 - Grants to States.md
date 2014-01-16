@@ -82,5 +82,5 @@ The following shall apply with respect to grants provided in this part:
 
 (July 1, 1944, ch. 373, title XII, §1281, as added Pub. L. 111–148, title III, §3505(b), Mar. 23, 2010, 124 Stat. 525.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "the".</i>
 

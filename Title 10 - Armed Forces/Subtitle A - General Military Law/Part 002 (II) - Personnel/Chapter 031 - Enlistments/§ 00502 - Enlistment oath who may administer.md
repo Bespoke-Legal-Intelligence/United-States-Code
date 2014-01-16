@@ -4,7 +4,7 @@
 
 Enlistment Oath.—Each person enlisting in an armed force shall take the following oath:
 
-&emsp;“I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; and that I will obey the orders of the President of the United States and the orders of the officers appointed over me, according to regulations and the Uniform Code of Military Justice. So help me God.”
+&emsp;"I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will beartrue faith and allegiance to the same; and that I will obey the orders of the President of the United States and the orders of the officers appointed over me, according to regulations and the Uniform Code of Military Justice. So help me God."
 
 (b)
 
@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 May 5, 1950, ch. 169, §8, 64 Stat. 146.
 
-The words “or affirmation” are omitted as covered by the definition of the word “oath” in section 1 of title 1. The words “of any armed force” are inserted in the last sentence, since they are necessarily implied by their use in the source statute.
+The words "or affirmation" are omitted as covered by the definition of the word "oath" in section 1 of title 1. The words "of any armed force" are inserted in the last sentence, since they are necessarily implied by their use in the source statute.
 
 #### References in Text
 
@@ -34,13 +34,13 @@ The Uniform Code of Military Justice, referred to in the oath, is classified to 
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–364 designated existing provisions as subsec. (a), inserted heading, struck out concluding provisions which read as follows: “This oath may be taken before any commissioned officer of any armed force.”, and added subsec. (b).
+<b>2006</b>—Pub. L. 109–364 designated existing provisions as subsec. (a), inserted heading, struck out concluding provisions which read as follows: "This oath may be taken before any commissioned officer of any armed force.", and added subsec. (b).
 
-<b>1989</b>—Pub. L. 101–189 struck out “or affirmation” after “This oath”.
+<b>1989</b>—Pub. L. 101–189 struck out "or affirmation" after "This oath".
 
-<b>1962</b>—Pub. L. 87–751 substituted “support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same” for “bear true faith and allegiance to the United States of America; that I will serve them honestly and faithfully against all their enemies whomsoever” and inserted “So help me God” in the oath, and “or affirmation” in text.
+<b>1962</b>—Pub. L. 87–751 substituted "support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same" for "bear true faith and allegiance to the United States of America; that I will serve them honestly and faithfully against all their enemies whomsoever" and inserted "So help me God" in the oath, and "or affirmation" in text.
 
 #### Effective Date of 1962 Amendment
 
-Pub. L. 87–751, §3, Oct. 5, 1962, 76 Stat. 748, provided that: “This Act \[amending this section and section 304 of Title 32, National Guard\] does not affect any oath taken before one year after its enactment \[Oct. 5, 1962\].”
+Pub. L. 87–751, §3, Oct. 5, 1962, 76 Stat. 748, provided that: "This Act \[amending this section and section 304 of Title 32, National Guard\] does not affect any oath taken before one year after its enactment \[Oct. 5, 1962\]."
 

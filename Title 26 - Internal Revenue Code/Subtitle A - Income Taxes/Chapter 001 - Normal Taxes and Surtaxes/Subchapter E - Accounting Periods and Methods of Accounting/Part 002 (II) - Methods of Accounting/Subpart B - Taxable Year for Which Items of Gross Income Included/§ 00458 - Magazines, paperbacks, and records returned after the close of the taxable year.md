@@ -10,15 +10,15 @@ For purposes of this section—
 
 #### (1) Magazine
 
-&emsp;The term “magazine” includes any other periodical.
+&emsp;The term "magazine" includes any other periodical.
 
 #### (2) Paperback
 
-&emsp;The term “paperback” means any book which has a flexible outer cover and the pages of which are affixed directly to such outer cover. Such term does not include a magazine.
+&emsp;The term "paperback" means any book which has a flexible outer cover and the pages of which are affixed directly to such outer cover. Such term does not include a magazine.
 
 #### (3) Record
 
-&emsp;The term “record” means a disc, tape, or similar object on which musical, spoken, or other sounds are recorded.
+&emsp;The term "record" means a disc, tape, or similar object on which musical, spoken, or other sounds are recorded.
 
 #### (4) Separate application with respect to magazines, paperbacks, and records
 
@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (7) Merchandise return period
 
-&emsp;&emsp;(A) Except as provided in subparagraph (B), the term “merchandise return period” means, with respect to any taxable year—
+&emsp;&emsp;(A) Except as provided in subparagraph (B), the term "merchandise return period" means, with respect to any taxable year—
 
 &emsp;&emsp;&emsp;(i) in the case of magazines, the period of 2 months and 15 days first occurring after the close of taxable year, or
 
@@ -132,9 +132,9 @@ In applying section 481(c) with respect to any election under this section which
 
 #### Effective Date
 
-Pub. L. 95–600, title III, §372(c), Nov. 6, 1978, 92 Stat. 2862, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after September 30, 1979.”
+Pub. L. 95–600, title III, §372(c), Nov. 6, 1978, 92 Stat. 2862, provided that: "The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after September 30, 1979."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Repurchase”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Repurchase".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “prescribe”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "prescribe".</i>
 

@@ -8,7 +8,7 @@
 
 #### (2) Investigations
 
-&emsp;The Secretary, in coordination with the Inspector General of the Department of Health and Human Services, may investigate the affairs of an Exchange, may examine the properties and records of an Exchange, and may require periodic reports in relation to activities undertaken by an Exchange. An Exchange shall fully cooperate in any investigation conducted under this paragraph.
+&emsp;The Secretary, in coordination with the Inspector General of the Department of Healthand Human Services, may investigate the affairs of an Exchange, may examine the properties and records of an Exchange, and may require periodic reports in relation to activities undertaken by an Exchange. An Exchange shall fully cooperate in any investigation conducted under this paragraph.
 
 #### (3) Audits
 
@@ -66,7 +66,7 @@ The False Claims Act, referred to in subsec. (a)(6), was the popular name for se
 
 #### Termination of Provision
 
-Pub. L. 111–148, title X, §10104(j)(1), Mar. 23, 2010, 124 Stat. 901, provided that: “Subparagraph (B) of section 1313(a)(6) of this Act \[42 U.S.C. 18033(a)(6)(B)\] is hereby deemed null, void, and of no effect.”
+Pub. L. 111–148, title X, §10104(j)(1), Mar. 23, 2010, 124 Stat. 901, provided that: "Subparagraph (B) of section 1313(a)(6) of this Act \[42 U.S.C. 18033(a)(6)(B)\] is hereby deemed null, void, and of no effect."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

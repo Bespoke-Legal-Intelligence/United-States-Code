@@ -12,7 +12,7 @@ The notice instituting proceedings pursuant to subsection (a) of this section sh
 
 #### (1) In general
 
-&emsp;Whenever the Commission determines that the alleged violation or threatened violation specified in the notice instituting proceedings pursuant to subsection (a) of this section, or the continuation thereof, is likely to result in significant dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest, including, but not limited to, losses to the Securities Investor Protection Corporation, prior to the completion of the proceedings, the Commission may enter a temporary order requiring the respondent to cease and desist from the violation or threatened violation and to take such action to prevent the violation or threatened violation and to prevent dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest as the Commission deems appropriate pending completion of such proceeding. Such an order shall be entered only after notice and opportunity for a hearing, unless the Commission determines that notice and hearing prior to entry would be impracticable or contrary to the public interest. A temporary order shall become effective upon service upon the respondent and, unless set aside, limited, or suspended by the Commission or a court of competent jurisdiction, shall remain effective and enforceable pending the completion of the proceedings.
+&emsp;Whenever the Commission determines that the alleged violation or threatened violation specified in the notice instituting proceedings pursuant to subsection (a) of this section, or the continuation thereof, is likely to result insignificant dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest, including, but not limited to, losses to the Securities Investor Protection Corporation, prior to the completion of the proceedings, the Commission may enter a temporary order requiring the respondent to cease and desist from the violation or threatened violation and to take such action to prevent the violation or threatened violation and to prevent dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest as the Commission deems appropriate pending completion of such proceeding. Such an order shall be entered only after notice and opportunity for a hearing, unless the Commission determines that notice and hearing prior to entry would be impracticable or contrary to the public interest. A temporary order shall become effective upon service upon the respondent and, unless set aside, limited, or suspended by the Commission or a court of competent jurisdiction, shall remain effective and enforceable pending the completion of the proceedings.
 
 #### (2) Applicability
 
@@ -76,7 +76,7 @@ In any cease-and-desist proceeding under subsection (a) of this section, the Com
 
 #### (C) Third tier
 
-&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the maximum amount of penalty foreach such act or omission shall be $150,000 for a natural person or $725,000 for any other person, if—
+&emsp;&emsp;Notwithstanding subparagraphs (A) and (B), the maximum amount of penalty for each such act or omission shall be $150,000 for a natural person or $725,000 for any other person, if—
 
 &emsp;&emsp;&emsp;(i) the act or omission described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
 

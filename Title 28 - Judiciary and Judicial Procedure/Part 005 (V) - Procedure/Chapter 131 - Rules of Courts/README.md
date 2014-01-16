@@ -14,13 +14,13 @@
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–702, title IV, §401(d), Nov. 19, 1988, 102 Stat. 4650, added items 2072 to 2075 and struck out former items 2072 “Rules of civil procedure”, 2075 “Bankruptcy rules”, and 2076 “Rules of evidence”.
+<b>1988</b>—Pub. L. 100–702, title IV, §401(d), Nov. 19, 1988, 102 Stat. 4650, added items 2072 to 2075 and struck out former items 2072 "Rules of civil procedure", 2075 "Bankruptcy rules", and 2076 "Rules of evidence".
 
 <b>1982</b>—Pub. L. 97–164, title II, §208(b), Apr. 2, 1982, 96 Stat. 55, added item 2077.
 
 <b>1975</b>—Pub. L. 93–595, §2(a)(2), Jan. 2, 1975, 88 Stat. 1949, added item 2076.
 
-<b>1966</b>—Pub. L. 89–773, §3, Nov. 6, 1966, 80 Stat. 1323, struck out “for district courts” in item 2072 and struck out items 2073 and 2074.
+<b>1966</b>—Pub. L. 89–773, §3, Nov. 6, 1966, 80 Stat. 1323, struck out "for district courts" in item 2072 and struck out items 2073 and 2074.
 
 <b>1964</b>—Pub. L. 88–623, §2, Oct. 3, 1964, 78 Stat. 1001, added item 2075.
 

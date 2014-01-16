@@ -24,11 +24,11 @@ Registration granted under this section shall not entitle a registrant to import
 
 (3) The Attorney General may limit the revocation or suspension of a registration to the particular controlled substance, or substances, or list I chemical or chemicals, with respect to which grounds for revocation or suspension exist.
 
-(4) Before taking action pursuant to this subsection, the Attorney General shall serve upon the applicant or registrant an order to show cause as to why the registration should not be denied, revoked, or suspended. The order to show cause shall contain a statement of thebasis thereof and shall call upon the applicant or registrant to appear before the Attorney General, or his designee, at a time and place stated in the order, but in no event less than thirty days after the date of receipt of the order. Proceedings to deny, revoke, or suspend shall be conducted pursuant to this subsection in accordance with subchapter II of chapter 5 of title 5. Such proceedings shall be independent of, and not in lieu of, criminal prosecutions or other proceedings under this subchapter or any other law of the United States.
+(4) Before taking action pursuant to this subsection, the Attorney General shall serve upon the applicant or registrant an order to show cause as to why the registration should not be denied, revoked, or suspended. The order to show cause shall contain a statement of the basis thereof and shall call upon the applicant or registrant to appear before the Attorney General, or his designee, at a time and place stated in the order, but in no event less than thirty days after the date of receipt of the order. Proceedings to deny, revoke, or suspend shall be conducted pursuant to this subsection in accordance with subchapter II of chapter 5 of title 5. Such proceedings shall be independent of, and not in lieu of, criminal prosecutions or other proceedings under this subchapter or any other law of the United States.
 
 (5) The Attorney General may, in his discretion, suspend any registration simultaneously with the institution of proceedings under this subsection, in cases where he finds that there is an imminent danger to the public health and safety. Such suspension shall continue in effect until the conclusion of such proceedings, including judicial review thereof, unless sooner withdrawn by the Attorney General or dissolved by a court of competent jurisdiction.
 
-(6) In the event that the Attorney General suspends or revokes a registration granted under this section, all controlled substances or list I chemicals owned or possessed by the registrant pursuant to such registration at the time of suspension or the effective date of the revocation order, as the case may be, may, in the discretion of the Attorney General, be seized or placed under seal. No disposition may be made of any controlled substances or list I chemicals under seal until the time for taking an appeal has elapsed or until all appeals have been concluded, except that a court, upon application therefor, may at any time order the sale of perishable controlled substances or list I chemicals. Any such order shall require the deposit of the proceeds of the sale with the court. Upon a revocation order becoming final, all such controlled substances or list I chemicals (or proceeds of the sale thereof which have been deposited with the court) shall be forfeited to the United States; and the Attorney General shall dispose of such controlled substances or list I chemicals in accordance with section 881(e) of this title.
+(6) In the event that the Attorney General suspends or revokes a registration granted under this section, all controlled substances or list I chemicals owned or possessed by the registrant pursuant to such registration at the time of suspension or the effective date of the revocation order, as the case may be, may, in the discretion of the Attorney General, be seized or placed under seal. No disposition may be made of any controlled substances or list I chemicals under seal until the time for taking an appeal has elapsed or until all appeals have been concluded, except that a court, upon application therefor, may at any time order the sale of perishable controlled substances or list I chemicals. Any such order shall require the deposit of the proceeds of the sale with the court. Upon a revocation order becoming final, all such controlled substances or list I chemicals (or proceeds of the sale thereof which have been deposited with the court) shall be forfeited to the United States;and the Attorney General shall dispose of such controlled substances or list I chemicals in accordance with section 881(e) of this title.
 
 #### (e) Registration period
 
@@ -56,29 +56,29 @@ Except in emergency situations as described in section 952(a)(2)(A) of this titl
 
 Schedules I, II, III, IV, and V, referred to in subsecs. (a), (c), and (i), are set out in section 812(c) of this title.
 
-This subchapter, referred to in subsecs. (d)(4) and (g), was in the original “this title”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended. Part A of title III comprises this subchapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
+This subchapter, referred to in subsecs. (d)(4) and (g), was in the original "this title", meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended. Part A of title III comprises this subchapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
 #### Codification
 
-In subsecs. (a) and (d), “May 1, 1971” substituted for “the effective date of this section” and “the effective date of this part”, respectively.
+In subsecs. (a) and (d), "May 1, 1971" substituted for "the effective date of this section" and "the effective date of this part", respectively.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (f). Pub. L. 108–447, which directed amendment of subsec. (f) of section 1088 of the Controlled Substances Import and Export Act by inserting “and control” after “the registration” and substituting “listed chemicals” for “list I chemicals under this section”, was executed to subsec. (f) of this section, which is section 1008 of the Controlled Substances Import and Export Act, to reflect the probable intent of Congress.
+<b>2004</b>—Subsec. (f). Pub. L. 108–447, which directed amendment of subsec. (f) of section 1088 of the Controlled Substances Import and Export Act by inserting "and control" after "the registration" and substituting "listed chemicals" for "list I chemicals under this section", was executed to subsec. (f) of this section, which is section 1008 of the Controlled Substances Import and Export Act, to reflect the probable intent of Congress.
 
 <b>1993</b>—Subsec. (c). Pub. L. 103–200, §3(f)(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d)(3). Pub. L. 103–200, §3(f)(2)(A), inserted “or list I chemical or chemicals,” after “substances,”.
+Subsec. (d)(3). Pub. L. 103–200, §3(f)(2)(A), inserted "or list I chemical or chemicals," after "substances,".
 
-Subsec. (d)(6). Pub. L. 103–200, §3(f)(2)(B), inserted “or list I chemicals” after “controlled substances” wherever appearing.
+Subsec. (d)(6). Pub. L. 103–200, §3(f)(2)(B), inserted "or list I chemicals" after "controlled substances" wherever appearing.
 
 Subsec. (e). Pub. L. 103–200, §3(f)(3), inserted reference to section 830 of this title.
 
-Subsecs. (f) to (h). Pub. L. 103–200, §3(f)(4), inserted “or list I chemicals” after “controlled substances”.
+Subsecs. (f) to (h). Pub. L. 103–200, §3(f)(4), inserted "or list I chemicals" after "controlled substances".
 
-<b>1986</b>—Subsec. (e). Pub. L. 99–570 substituted “sections” for first reference to “section”.
+<b>1986</b>—Subsec. (e). Pub. L. 99–570 substituted "sections" for first reference to "section".
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–473, §524, substituted “Registration granted under this section shall not entitle a registrant to import or export controlled substances other than specified in the registration” for “Registration granted under subsection (a) of this section shall not entitle a registrant to import or export controlled substances in schedule I or II other than those specified in the registration”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–473, §524, substituted "Registration granted under this section shall not entitle a registrant to import or export controlled substances other than specified in the registration" for "Registration granted under subsection (a) of this section shall not entitle a registrant to import or export controlled substances in schedule I or II other than those specified in the registration".
 
 Subsecs. (d) to (i). Pub. L. 98–473, §525, added subsec. (d), redesignated former subsec. (d) as (e) and struck out reference to section 824 of this title, and redesignated former subsecs. (e) to (h) as (f) to (i), respectively.
 

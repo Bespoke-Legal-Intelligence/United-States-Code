@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—A Member of Congress may not enter into or benefit from a contract or agreement or any part of a contract or agreement with the Federal Government.
+In General.—A Member of Congress may not enter into or benefit from a contract oragreement or any part of a contract or agreement with the Federal Government.
 
 (b)
 
@@ -20,7 +20,7 @@ Certain acts.—Subsection (a) does not apply to a contract entered into under�
 
 &emsp;&emsp;(B) the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.); or
 
-&emsp;&emsp;(C) the Home Owners’ Loan Act (12 U.S.C. 1461 et seq.).
+&emsp;&emsp;(C) the Home Owners' Loan Act (12 U.S.C. 1461 et seq.).
 
 &emsp;(3)
 
@@ -50,9 +50,9 @@ R.S. §3741; Feb. 27, 1877, ch. 69, (16th complete par. on p. 249), 19 Stat. 249
 
 Jan. 25, 1934, ch. 5, (related to R.S. §3741), 48 Stat. 337; June 27, 1934, ch. 847, title V, §510, 48 Stat. 1264; Aug. 26, 1937, ch. 821, 50 Stat. 838.
 
-In subsection (b)(2), the words “Emergency Farm Mortgage Act of 1933” and “Federal Farm Mortgage Corporation Act” are omitted because all provisions of those Acts have previously been executed or repealed.
+In subsection (b)(2), the words "Emergency Farm Mortgage Act of 1933" and "Federal Farm Mortgage Corporation Act" are omitted because all provisions of those Acts have previously been executed or repealed.
 
-In subsection (b)(2)(B), the words “Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)” are substituted for “Federal Farm Loan Act” and “Farm Credit Act of 1933” because of section 5.40(a), formerly 5.26(a), of the Farm Credit Act of 1971 (Pub. L. 92–181, 12 U.S.C. 2001 note).
+In subsection (b)(2)(B), the words "Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.)" are substituted for "Federal Farm Loan Act" and "Farm Credit Act of 1933" because of section 5.40(a), formerly 5.26(a), of the Farm Credit Act of 1971 (Pub. L. 92–181, 12 U.S.C. 2001 note).
 
-In subsection (b)(2)(C), the words “Home Owners’ Loan Act” are substituted for “Home Owners’ Loan Act of 1933” because of the amendment to 12:1461 made by Public Law 101–73.
+In subsection (b)(2)(C), the words "Home Owners' Loan Act" are substituted for "Home Owners' Loan Act of 1933" because of the amendment to 12:1461 made by Public Law 101–73.
 

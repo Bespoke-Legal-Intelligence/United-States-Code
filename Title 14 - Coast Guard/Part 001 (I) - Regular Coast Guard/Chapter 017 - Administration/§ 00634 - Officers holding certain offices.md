@@ -22,7 +22,7 @@ This amends 14:634(b) to reflect the effect of 28:631(c) and sections 401(a) and
 
 #### Amendments
 
-<b>1982</b>—Subsec. (b). Pub. L. 97–295 struck out “United States Commissioners or” after “appointed as” and last sentence which provided that any commissioned officer appointed as United States Commissioner in Alaska shall not be required to execute a bond for the faithful performance of his official duties as such Commissioner.
+<b>1982</b>—Subsec. (b). Pub. L. 97–295 struck out "United States Commissioners or" after "appointed as" and last sentence which provided that any commissioned officer appointed as United States Commissioner in Alaska shall not be required to execute a bond for the faithful performance of his official duties as such Commissioner.
 
-<b>1959</b>—Subsec. (b). Pub. L. 86–70 substituted “in Alaska” for “in and for the territory of Alaska” in two places.
+<b>1959</b>—Subsec. (b). Pub. L. 86–70 substituted "in Alaska" for "in and for the territory of Alaska" in two places.
 

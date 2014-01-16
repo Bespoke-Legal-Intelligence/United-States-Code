@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 102–555, title VI, §602, Oct. 28, 1992, 106 Stat. 4180.
 
-The date “October 28, 1992” is substituted for “the enactment of this Act” to reflect the date of enactment of the Land Remote Sensing Policy Act of 1992 (Public Law 102–555, 106 Stat. 4163).
+The date "October 28, 1992" is substituted for "the enactment of this Act" to reflect the date of enactment of the Land Remote Sensing Policy Act of 1992 (Public Law 102–555, 106 Stat. 4163).
 

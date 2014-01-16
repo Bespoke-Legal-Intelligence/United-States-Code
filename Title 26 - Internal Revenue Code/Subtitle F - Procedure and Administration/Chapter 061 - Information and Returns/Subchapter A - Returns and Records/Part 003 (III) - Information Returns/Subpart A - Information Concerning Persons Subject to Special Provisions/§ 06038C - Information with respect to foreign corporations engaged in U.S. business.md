@@ -2,7 +2,7 @@
 
 #### (a) Requirement
 
-If a foreign corporation (hereinafter in this section referred to as the “reporting corporation”) is engaged in a trade or business within the United States at any time during a taxable year—
+If a foreign corporation (hereinafter in this section referred to as the "reporting corporation") is engaged in a trade or business within the United States at any time during a taxable year—
 
 &emsp;(1) such corporation shall furnish (at such time and in such manner as the Secretary shall by regulations prescribe) the information described in subsection (b), and
 
@@ -30,7 +30,7 @@ The provisions of subsection (d) of section 6038A shall apply to—
 
 #### (1) Agreement to treat corporation as agent
 
-&emsp;The rules of paragraph (3) shall apply to any transaction between the reporting corporation and any related party who is a foreign person unless such related party agrees (in such manner and at such time as the Secretary shall prescribe) to authorize the reporting corporation to act as such related party's limited agent solely for purposes of applying sections 7602, 7603, and 7604 with respect to any request by the Secretary to examine records or produce testimony related to any such transaction or with respect to any summons by the Secretary for such records or testimony. The appearance of persons or production of records by reason of the reporting corporation being such an agent shall not subject such persons or records to legal process for any purpose other than determining the correct treatment under this title of any transaction between the reporting corporation and such related party.
+&emsp;The rules of paragraph (3) shall apply to any transaction between the reporting corporation and any related party who is a foreign person unless such related party agrees (in such manner and at such time as the Secretary shall prescribe) to authorize the reporting corporation to act as such related party's limited agent solely for purposes of applying sections 7602, 7603, and 7604 with respect to any request by the Secretary to examine records or produce testimony related to any such transaction or with respect to any summons by the Secretary for such records or testimony. The appearance of persons or production of records by reason of the reporting corporation being such an agent shall not subject such personsor records to legal process for any purpose other than determining the correct treatment under this title of any transaction between the reporting corporation and such related party.
 
 #### (2) Rules where information not furnished
 
@@ -50,11 +50,11 @@ The provisions of subsection (d) of section 6038A shall apply to—
 
 #### (4) Judicial proceedings
 
-&emsp;The provisions of section 6038A(e)(4) shall apply with respect to any summons referred to in paragraph (2)(A); except that subparagraph (D) of such section shall be applied by substituting “transaction or item” for “transaction”.
+&emsp;The provisions of section 6038A(e)(4) shall apply with respect to any summons referred to in paragraph (2)(A); except that subparagraph (D) of such section shall be applied by substituting "transaction or item" for "transaction".
 
 #### (e) Definitions
 
-For purposes of this section, the terms “related party”, “foreign person”, and “records” have the respective meanings given to such terms by section 6038A(c).
+For purposes of this section, the terms "related party", "foreign person", and "records" have the respective meanings given to such terms by section 6038A(c).
 
 (Added Pub. L. 101–508, title XI, §11315(a), Nov. 5, 1990, 104 Stat. 1388–456.)
 

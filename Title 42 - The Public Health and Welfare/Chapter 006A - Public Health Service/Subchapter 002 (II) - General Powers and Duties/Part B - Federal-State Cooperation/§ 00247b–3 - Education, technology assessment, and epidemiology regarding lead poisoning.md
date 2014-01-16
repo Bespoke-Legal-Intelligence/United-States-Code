@@ -8,7 +8,7 @@
 
 #### (2) Interagency Task Force
 
-&emsp;(A) Not later than 6 months after October 27, 1992, the Secretary shall establish a council to be known as the Interagency Task Force on the Prevention of Lead Poisoning (in this paragraph referred to as the “Task Force”). The Task Force shall coordinate the efforts of Federal agencies to prevent lead poisoning.
+&emsp;(A) Not later than 6 months after October 27, 1992, the Secretary shall establish a council to be known as the Interagency Task Force on the Prevention of Lead Poisoning (in this paragraph referred to as the "Task Force"). The Task Force shall coordinate the efforts of Federal agencies to prevent lead poisoning.
 
 &emsp;(B) The Task Force shall be composed of—
 
@@ -24,13 +24,13 @@
 
 &emsp;&emsp;(i) review, evaluate, and coordinate current strategies and plans formulated by the officials serving as members of the Task Force, including—
 
-&emsp;&emsp;&emsp;(I) the plan of the Secretary of Health and Human Services entitled “Strategic Plan for the Elimination of Lead Poisoning”, dated February 21, 1991;
+&emsp;&emsp;&emsp;(I) the plan of the Secretary of Health and Human Services entitled "Strategic Plan for the Elimination of Lead Poisoning", dated February 21, 1991;
 
-&emsp;&emsp;&emsp;(II) the plan of the Secretary of Housing and Urban Development entitled “Comprehensive and Workable Plan for the Abatement of Lead-Based Paint in Privately Owned Housing”, dated December 7, 1990; and
+&emsp;&emsp;&emsp;(II) the plan of the Secretary of Housing and Urban Development entitled "Comprehensive and Workable Plan for the Abatement of Lead-Based Paint in Privately Owned Housing", dated December 7, 1990; and
 
-&emsp;&emsp;&emsp;(III) the strategy of the Administrator of the Environmental Protection Agency entitled “Strategy for Reducing Lead Exposures”, dated February 21, 1991;
+&emsp;&emsp;&emsp;(III) the strategy of the Administrator of the Environmental Protection Agency entitled "Strategy for Reducing Lead Exposures", dated February 21, 1991;
 
-&emsp;&emsp;(ii) develop a unified implementation plan for programs that receive Federal financialassistance for activities related to the prevention of lead poisoning;
+&emsp;&emsp;(ii) develop a unified implementation plan for programs that receive Federal financial assistance for activities related to the prevention of lead poisoning;
 
 &emsp;&emsp;(iii) establish a mechanism for sharing and disseminating information among the agencies represented on the Task Force;
 

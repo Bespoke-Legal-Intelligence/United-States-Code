@@ -6,11 +6,11 @@ Notwithstanding the provisions of existing law, except the Commodity Credit Corp
 
 #### References in Text
 
-The Commodity Credit Corporation Charter Act, referred to in text, is act June 29, 1948, ch. 704, 62 Stat.1070, as amended, and is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
+The Commodity Credit Corporation Charter Act, referred to in text, is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, and is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
 #### Codification
 
 Section was formerly classified to section 565b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
-“Sections 3111 and 3112 of title 40” substituted in text for “section 355, Revised Statutes, as amended (40 U.S.C. 255)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Sections 3111 and 3112 of title 40" substituted in text for "section 355, Revised Statutes, as amended (40 U.S.C. 255)" on authority of Pub. L. 107–217, §5(c), Aug.21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 

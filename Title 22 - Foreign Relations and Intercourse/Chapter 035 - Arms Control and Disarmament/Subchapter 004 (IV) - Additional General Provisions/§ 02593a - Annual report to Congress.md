@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than April 15 of each year, the President shall submit to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate a report prepared by the Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with the Secretary of Defense, the Secretary of Energy, and the Chairman of the Joint Chiefs of Staff on the status of United States policy and actions with respect to arms control, nonproliferation, and disarmament. Such report shall include—
+Not later than April 15 of each year, the President shall submit to the appropriate congressional committees a report prepared by the Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with the Secretary of Defense, the Secretary of Energy, and the Chairman of the Joint Chiefs of Staff on the status of United States policy and actions with respect to arms control, nonproliferation, and disarmament. Such report shall include—
 
 &emsp;(1) a detailed statement concerning the arms control, nonproliferation, and disarmament objectives of the executive branch of Government for the forthcoming year;
 
@@ -34,13 +34,25 @@ The report required by this section shall be submitted in unclassified form, wit
 
 #### (c) Reporting consecutive noncompliance
 
-If the President in consecutive reports submitted to the Congress under this section reports that any designated nation is not in full compliance with its binding nonproliferation commitments to the United States, then the President shall include in the second such report an assessment of what actions are necessary to compensate for such violations.
+If the President in consecutive reports submitted to the appropriate congressional committees under this section reports that any designated nation is not in full compliance with its binding nonproliferation commitments to the United States, then the President shall include in the second such report an assessment of what actions are necessary to compensate for such violations.
 
 #### (d) Additional requirement
 
 Each report required by this section shall include a discussion of each significant issue described in subsection (a)(6) of this section that was contained in a previous report issued under this section during 1995, or after December 31, 1995, until the question or concern has been resolved and such resolution has been reported in detail to the appropriate committees of Congress (as defined in section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999).
 
-(Pub. L. 87–297, title IV, §403, formerly §51, as added and amended Pub. L. 103–236, title VII, §717(a)(3), title VIII, §828(a), Apr. 30, 1994, 108 Stat. 498, 520; renumbered §403 and amended, Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(15), (21), Oct. 21, 1998, 112 Stat. 2681–771, 2681–772; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1113\], Nov. 29, 1999, 113 Stat. 1536, 1501A–487; Pub. L. 107–228, div. B, title XI, §1103, Sept. 30, 2002, 116 Stat. 1426.)
+#### (e) Congressional briefing
+
+Not later than May 15 of each year, the President shall provide to the appropriate congressional committees a briefing on the most-recent report required by this section.
+
+#### (f) Appropriate congressional committees defined
+
+In this section, the term "appropriate congressional committees" means—
+
+&emsp;(1) the Committee on Foreign Relations, the Committee on Armed Services, and the Select Committee on Intelligence of the Senate; and
+
+&emsp;(2) the Committee on Foreign Affairs, the Committee on Armed Services, and the Permanent Select Committee on Intelligence of the House of Representatives.
+
+(Pub. L. 87–297, title IV, §403, formerly §51, as added and amended Pub. L. 103–236, title VII, §717(a)(3), title VIII, §828(a), Apr. 30, 1994, 108 Stat. 498, 520; renumbered §403 and amended, Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(15), (21), Oct. 21, 1998, 112 Stat. 2681–771, 2681–772; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1113\], Nov. 29, 1999, 113 Stat. 1536, 1501A–487; Pub. L. 107–228, div. B, title XI, §1103, Sept. 30, 2002, 116 Stat. 1426; Pub. L. 113–66, div. A, title XII, §1247, Dec. 26, 2013, 127 Stat. 924.)
 
 #### References in Text
 
@@ -48,37 +60,47 @@ Section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance 
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–228 substituted “April 15” for “January 31” in introductory provisions.
+<b>2013</b>—Subsec. (a). Pub. L. 113–66, §1247(a)(1), substituted "the appropriate congressional committees" for "the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate" in introductory provisions.
 
-<b>1999</b>—Subsec. (a)(4). Pub. L. 106–113, §1000(a)(7) \[title XI, §1113(a)(1)(A)–(C)\], in introductory provisions, inserted “or commitments, including the Missile Technology Control Regime,” before “to which”, “or commitments” before “, and shall”, and “or commitment” before “about which”.
+Subsec. (c). Pub. L. 113–66, §1247(a)(2), substituted "appropriate congressional committees" for "Congress".
+
+Subsec. (e). Pub. L. 113–66, §1247(b)(2), added subsec. (e). Former subsec. (e) redesignated (f).
+
+Pub. L. 113–66, §1247(a)(3), added subsec. (e).
+
+Subsec. (f). Pub. L. 113–66, §1247(b)(1), redesignated subsec. (e) as (f).
+
+<b>2002</b>—Subsec. (a). Pub. L. 107–228 substituted "April 15" for "January 31" in introductory provisions.
+
+<b>1999</b>—Subsec. (a)(4). Pub. L. 106–113, §1000(a)(7) \[title XI, §1113(a)(1)(A)–(C)\], in introductory provisions, inserted "or commitments, including the Missile Technology Control Regime," before "to which", "or commitments" before ", and shall", and "or commitment" before "about which".
 
 Subsec. (a)(6). Pub. L. 106–113, §1000(a)(7) \[title XI, §1113(a)(1)(D), (2), (3)\], added par. (6).
 
 Subsec. (d). Pub. L. 106–113, §1000(a)(7) \[title XI, §1113(b)\], added subsec. (d).
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1223(15)(A)(ii), (iii), in introductory provisions, substituted “Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with” for “Director, in consultation with the Secretary of State,” and “and the Chairman of the Joint Chiefs of Staff” for “the Chairman of the Joint Chiefs of Staff, and the Director of Central Intelligence”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §1223(15)(A)(ii), (iii), in introductory provisions, substituted "Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with" for "Director, in consultation with the Secretary of State," and "and the Chairman of the Joint Chiefs of Staff" for "the Chairman of the Joint Chiefs of Staff, and the Director of Central Intelligence".
 
-Subsec. (a)(1). Pub. L. 105–277, §1223(15)(A)(i), inserted “, nonproliferation,” after “arms control”.
+Subsec. (a)(1). Pub. L. 105–277, §1223(15)(A)(i), inserted ", nonproliferation," after "arms control".
 
-Subsec. (a)(2). Pub. L. 105–277, §1223(15)(A)(iv), (v), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “a detailed statement concerning the nonproliferation objectives of the executive branch of Government for the forthcoming year;”.
+Subsec. (a)(2). Pub. L. 105–277, §1223(15)(A)(iv), (v), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "a detailed statement concerning the nonproliferation objectives of the executive branch of Government for the forthcoming year;".
 
 Subsec. (a)(3). Pub. L. 105–277, §1223(15)(A)(v), redesignated par. (5) as (3). Former par. (3) redesignated (2).
 
-Pub. L. 105–277, §1223(15)(A)(i), inserted “, nonproliferation,” after “arms control”.
+Pub. L. 105–277, §1223(15)(A)(i), inserted ", nonproliferation," after "arms control".
 
-Subsec. (a)(4). Pub. L. 105–277, §1223(15)(A)(iv), (v), redesignated par. (6) as (4) and struck out former par. (4) which read as follows: “a detailed assessment of the status of any ongoing nonproliferation negotiations or other activities, including a comprehensive description of the negotiations or other activities during the preceding year and an appraisal of the status and prospects for the forthcoming year;”.
+Subsec. (a)(4). Pub. L. 105–277, §1223(15)(A)(iv), (v), redesignated par. (6) as (4) and struck out former par. (4) which read as follows: "a detailed assessment of the status of any ongoing nonproliferation negotiations or other activities, including a comprehensive description of the negotiations or other activities during the preceding year and an appraisal of the status and prospects for the forthcoming year;".
 
 Subsec. (a)(5) to (7). Pub. L. 105–277, §1223(15)(A)(v), redesignated pars. (5) to (7) as (3) to (5), respectively.
 
-Subsec. (b). Pub. L. 105–277, §1223(15)(B), inserted at end “The portions of this report described in paragraphs (4) and (5) of subsection (a) of this section shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies.”
+Subsec. (b). Pub. L. 105–277, §1223(15)(B), inserted at end "The portions of this report described in paragraphs (4) and (5) of subsection (a) of this section shall summarize in detail, at least in classified annexes, the information, analysis, and conclusions relevant to possible noncompliance by other nations that are provided by United States intelligence agencies."
 
-<b>1994</b>—Subsec. (a)(5) to (7). Pub. L. 103–236, §828(a)(1)–(3), struck out “and” at end of par. (5), substituted “; and” for period at end of par. (6), and added par. (7).
+<b>1994</b>—Subsec. (a)(5) to (7). Pub. L. 103–236, §828(a)(1)–(3), struck out "and" at end of par. (5), substituted "; and" for period at end of par. (6), and added par. (7).
 
 Subsec. (c). Pub. L. 103–236, §828(a)(4), added subsec. (c).
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Effective Date of 1998 Amendment
 
@@ -94,17 +116,17 @@ For delegation of congressional reporting functions of President under this sect
 
 #### Requirement for Transmittal of Summaries
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1118\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: “Whenever a United States delegation engaging in negotiations on arms control, nonproliferation, or disarmament submits to the Secretary of State a summary of the activities of the delegation or the status of those negotiations, a copy of each such summary shall be further transmitted by the Secretary of State to the Committee on Foreign Relations of the Senate and to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives promptly.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1118\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: "Whenever a United States delegation engaging in negotiations on arms control, nonproliferation, or disarmament submits to the Secretary of State a summary of the activities of the delegation or the status of those negotiations, a copy of each such summary shall be further transmitted by the Secretary of State to the Committee on Foreign Relations of the Senate and to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives promptly."
 
 #### Transmission of Executive Branch Reports Providing Congress With Classified Summaries of Arms Control Developments
 
 Pub. L. 105–261, div. A, title XV, §1502, Oct. 17, 1998, 112 Stat. 2171, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774, provided that:
 
-“(a)
+"(a)
 
 Reporting Requirement.—The Director of the Arms Control and Disarmament Agency (or the Secretary of State, if the Arms Control and Disarmament Agency becomes an element of the Department of State) shall transmit to the Committee on Armed Services of the House of Representatives on a periodic basis reports containing classified summaries of arms control developments.
 
-“(b)
+"(b)
 
-Contents of Reports.—The reports required by subsection (a) shall include information reflecting the activities of forums established to consider issues relating to treaty implementation and treaty compliance.”
+Contents of Reports.—The reports required by subsection (a) shall include information reflecting the activities of forums established to consider issues relating to treaty implementation and treaty compliance."
 

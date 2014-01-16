@@ -40,7 +40,7 @@ Congress recognizes that the alarming spread of HIV/AIDS in countries in sub-Sah
 
 #### (3) Priorities
 
-&emsp;The United States Government's response to the global HIV/AIDS pandemic and the Government's efforts to help countries assumeleadership of sustainable campaigns to combat their local epidemics should place high priority on—
+&emsp;The United States Government's response to the global HIV/AIDS pandemic and the Government's efforts to help countries assume leadership of sustainable campaigns to combat their local epidemics should place high priority on—
 
 &emsp;&emsp;(A) the prevention of the transmission of HIV;
 
@@ -78,7 +78,7 @@ Assistance provided under subsection (c) of this section shall, to the maximum e
 
 &emsp;&emsp;(C) assistance for the purpose of encouraging men to be responsible in their sexual behavior, child rearing, and to respect women;
 
-&emsp;&emsp;(D) assistance for the purpose of providing voluntary testing and counseling (including the incorporation of confidentiality protections with respect to such testing and counseling) and promoting the use of provider-initiated or “opt-out” voluntary testing in accordance with World Health Organization guidelines;
+&emsp;&emsp;(D) assistance for the purpose of providing voluntary testing and counseling (including the incorporation of confidentiality protections with respect to such testing and counseling) and promoting the use of provider-initiated or "opt-out" voluntary testing in accordance with World Health Organization guidelines;
 
 &emsp;&emsp;(E) assistance for the purpose of preventing mother-to-child transmission of the HIV infection, including medications to prevent such transmission and access to infant formula and other alternatives for infant feeding;
 
@@ -234,15 +234,15 @@ Assistance provided under subsection (c) of this section shall, to the maximum e
 
 &emsp;&emsp;&emsp;(iii) promote appropriate HIV/AIDS counseling, testing, and treatment into gender-based violence programs; and
 
-&emsp;&emsp;&emsp;(iv) assist governments to develop partnerships with civil society organizations to create networks for psychosocial, legal, economic, or other support services;
+&emsp;&emsp;&emsp;(iv) assist governments to develop partnerships with civil society organizationsto create networks for psychosocial, legal, economic, or other support services;
 
 &emsp;&emsp;(F) coordinated or referred activities to—
 
 &emsp;&emsp;&emsp;(i) address the frequent coinfection of HIV and tuberculosis, in accordance with World Health Organization guidelines;
 
-&emsp;&emsp;&emsp;(ii) promote provider-initiated or “opt-out” HIV/AIDS counseling and testing and appropriate referral for treatment and care to individuals with tuberculosis or its symptoms, particularly in areas with significant HIV prevalence; and
+&emsp;&emsp;&emsp;(ii) promote provider-initiated or "opt-out" HIV/AIDS counseling and testing and appropriate referral for treatment and care to individuals with tuberculosis or its symptoms, particularly in areas with significant HIV prevalence; and
 
-&emsp;&emsp;&emsp;(iii) strengthen programs to ensure that individuals testing positive for HIV receivetuberculosis screening and to improve laboratory capacities, infection control, and adherence; and
+&emsp;&emsp;&emsp;(iii) strengthen programs to ensure that individuals testing positive for HIV receive tuberculosis screening and to improve laboratory capacities, infection control, and adherence; and
 
 &emsp;&emsp;(G) activities to—
 
@@ -282,7 +282,7 @@ Assistance provided under subsection (c) of this section shall, to the maximum e
 
 &emsp;Congress makes the following findings:
 
-&emsp;&emsp;(A) The congressionally mandated Institute of Medicine report entitled “PEPFAR Implementation: Progress and Promise” states: “The next strategy \[of the U.S. Global AIDS Initiative\] should squarely address the needs and challenges involved in supporting sustainable country HIV/AIDS programs, thereby transitioning from a focus on emergency relief.”.
+&emsp;&emsp;(A) The congressionally mandated Institute of Medicine report entitled "PEPFAR Implementation: Progress and Promise" states: "The next strategy \[of the U.S. Global AIDS Initiative\] should squarely address the needs and challenges involved in supporting sustainable country HIV/AIDS programs, thereby transitioning from a focus on emergency relief.".
 
 &emsp;&emsp;(B) One mechanism to promote the transition from an emergency to a public health and development approach to HIV/AIDS is through compacts or framework agreements between the United States Government and each participating nation.
 
@@ -304,7 +304,7 @@ Assistance provided under subsection (c) of this section shall, to the maximum e
 
 &emsp;&emsp;&emsp;&emsp;(cc) that have inadequate financial means within such country or region.
 
-&emsp;&emsp;(B) Compacts whose primary purpose is to provide limited technical assistance to a country or region connected to services provided within the country or region—
+&emsp;&emsp;(B) Compacts whose primary purpose is to provide limited technical assistance to acountry or region connected to services provided within the country or region—
 
 &emsp;&emsp;&emsp;(i) may be made with other countries or regional entities served by an existing United States Agency for International Development or Department of Health and Human Services presence or regional platform;
 
@@ -396,99 +396,149 @@ Assistance provided under subsection (c) of this section shall, to the maximum e
 
 #### (1) In general
 
-&emsp;Not later than January 31 of each year, the President shall submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report on the implementation of this section for the prior fiscal year.
+&emsp;Not later than February 15, 2014, and annually thereafter, the President shall submit tothe Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report in an open, machine readable format, on the implementation of this section for the prior fiscal year.
 
-#### (2) Report elements
+#### (2) Report due in 2014
 
-&emsp;Each report shall include—
+&emsp;The report due not later than February 15, 2014, shall include the elements required by law prior to the enactment of the PEPFAR Stewardship and Oversight Act of 2013.
 
-&emsp;&emsp;(A) a description of efforts made by each relevant executive branch agency to implement the policies set forth in this section, section 2151b–3 of this title, and section 2151b–4 of this title;
+#### (3) Report elements
 
-&emsp;&emsp;(B) a description of the programs established pursuant to such sections;
+&emsp;Each report submitted after February 15, 2014, shall include the following:
 
-&emsp;&emsp;(C) a detailed breakdown of funding allocations, by program and by country, for prevention activities; and
+&emsp;&emsp;(A) A description based on internationally available data, and where practicable high-quality country-based data, of the total global burden and need for HIV/AIDS prevention, treatment, and care, including—
 
-&emsp;&emsp;(D) a detailed assessment of the impact of programs established pursuant to such sections, including—
+&emsp;&emsp;&emsp;(i) estimates by partner country of the global burden and need; and
 
-&emsp;&emsp;&emsp;(i)(I) the effectiveness of such programs in reducing—
+&emsp;&emsp;&emsp;(ii) HIV incidence, prevalence, and AIDS deaths for the reporting period.
 
-&emsp;&emsp;&emsp;&emsp;(aa) the transmission of HIV, particularly in women and girls;
+&emsp;&emsp;(B) Reporting on annual targets across prevention, treatment, and care interventions in partner countries, including—
 
-&emsp;&emsp;&emsp;&emsp;(bb) mother-to-child transmission of HIV, including through drug treatment and therapies, either directly or by referral; and
+&emsp;&emsp;&emsp;(i) a description of how those targets are designed to—
 
-&emsp;&emsp;&emsp;&emsp;(cc) mortality rates from HIV/AIDS;
+&emsp;&emsp;&emsp;&emsp;(I) ensure that the annual increase in new patients on antiretroviral treatment exceeds the number of annual new HIV infections;
 
-&emsp;&emsp;&emsp;(II) the number of patients receiving treatment for AIDS in each country that receives assistance under this chapter;
+&emsp;&emsp;&emsp;&emsp;(II) reduce the number of new HIV infections below the number of deaths among persons infected with HIV; and
 
-&emsp;&emsp;&emsp;(III) an assessment of progress towards the achievement of annual goals set forth in the timetable required under the 5-year strategy established under section 7611 of this title and, if annual goals are not being met, the reasons for such failure; and
+&emsp;&emsp;&emsp;&emsp;(III) achieve an AIDS-free generation;
 
-&emsp;&emsp;&emsp;(IV) retention and attrition data for programs receiving United States assistance, including mortality and loss to follow-up rates, organized overall and by country;
+&emsp;&emsp;&emsp;(ii) national targets across prevention, treatment, and care that are—
 
-&emsp;&emsp;&emsp;(ii) the progress made toward—
+&emsp;&emsp;&emsp;&emsp;(I) established by partner countries; or
 
-&emsp;&emsp;&emsp;&emsp;(I) improving health care delivery systems (including the training of health care workers, including doctors, nurses, midwives, pharmacists, laboratory technicians, and compensated community health workers, and the use of codes of conduct for ethical recruiting practices for health care workers);
+&emsp;&emsp;&emsp;&emsp;(II) where such national partner country-developed targets are unavailable, a description of progress towards developing national partner country targets; and
 
-&emsp;&emsp;&emsp;&emsp;(II) advancing safe working conditions for health care workers; and
+&emsp;&emsp;&emsp;(iii) bilateral programmatic targets across prevention, treatment, and care, including—
 
-&emsp;&emsp;&emsp;&emsp;(III) improving infrastructure to promote progress toward universal access to HIV/AIDS prevention, treatment, and care by 2013;
+&emsp;&emsp;&emsp;&emsp;(I) the number of adults and children to be directly supported on HIV treatment under United States-funded programs;
 
-&emsp;&emsp;&emsp;(iii) a description of coordination efforts with relevant executive branch agencies to link HIV/AIDS clinical and social services with non-HIV/AIDS services as part of the United States health and development agenda;
+&emsp;&emsp;&emsp;&emsp;(II) the number of adults and children to be otherwise supported on HIV treatment under United States-funded programs; and
 
-&emsp;&emsp;&emsp;(iv) a detailed description of integrated HIV/AIDS and food and nutrition programs and services, including—
+&emsp;&emsp;&emsp;&emsp;(III) other programmatic targets for activities directly and otherwise supported by United States-funded programs.
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount spent on food and nutrition support;
+&emsp;&emsp;(C) A description, by partner country, of HIV/AIDS funding from all sources, including funding levels from partner countries, other donors, and the private sector, as practicable.
 
-&emsp;&emsp;&emsp;&emsp;(II) the types of activities supported; and
+&emsp;&emsp;(D) A description of how United States-funded programs, in conjunction with the Global Fund, other donors, and partner countries, together set targets, measure progress, and achieve positive outcomes in partner countries.
 
-&emsp;&emsp;&emsp;&emsp;(III) an assessment of the effectiveness of interventions carried out to improve the health status of persons with HIV/AIDS receiving food or nutritional support;
+&emsp;&emsp;(E) An annual assessment of outcome indicator development, dissemination, and performance for programs supported under this section, including ongoing corrective actions to improve reporting.
 
-&emsp;&emsp;&emsp;(v) a description of efforts to improve harmonization, in terms of relevant executive branch agencies, coordination with other public and private entities, and coordination with partner countries’ national strategic plans as called for in the “Three Ones”;
+&emsp;&emsp;(F) A description and explanation of changes in related guidance or policies related to implementation of programs supported under this section.
 
-&emsp;&emsp;&emsp;(vi) a description of—
+&emsp;&emsp;(G) An assessment and quantification of progress over the reporting period toward achieving the targets set forth in subparagraph (B), including—
 
-&emsp;&emsp;&emsp;&emsp;(I) the efforts of partner countries that were signatories to the Abuja Declaration on HIV/AIDS, Tuberculosis and Other Related Infectious Diseases to adhere to the goals of such Declaration in terms of investments in public health, including HIV/AIDS; and
+&emsp;&emsp;&emsp;(i) the number, by partner country, of persons on HIV treatment, including specifically—
 
-&emsp;&emsp;&emsp;&emsp;(II) a description of the HIV/AIDS investments of partner countries that were not signatories to such Declaration;
+&emsp;&emsp;&emsp;&emsp;(I) the number of adults and children on HIV treatment directly supported by United States-funded programs; and
 
-&emsp;&emsp;&emsp;(vii) a detailed description of any compacts or framework agreements reached or negotiated between the United States and any partner countries, including a description of the elements of compacts described in subsection (e);
+&emsp;&emsp;&emsp;&emsp;(II) the number of adults and children on HIV treatment otherwise supported by United States-funded programs;
 
-&emsp;&emsp;&emsp;(viii) a description of programs serving women and girls, including—
+&emsp;&emsp;&emsp;(ii) HIV treatment coverage rates by partner country;
 
-&emsp;&emsp;&emsp;&emsp;(I) HIV/AIDS prevention programs that address the vulnerabilities of girls and women to HIV/AIDS;
+&emsp;&emsp;&emsp;(iii) the net increase in persons on HIV treatment by partner country;
 
-&emsp;&emsp;&emsp;&emsp;(II) information on the number of individuals served by programs aimed at reducing the vulnerabilities of women and girls to HIV/AIDS and data on the types, objectives, and duration of programs to address these issues;
+&emsp;&emsp;&emsp;(iv) new infections of HIV by partner country;
 
-&emsp;&emsp;&emsp;&emsp;(III) information on programs to address the particular needs of adolescent girls and young women; and
+&emsp;&emsp;&emsp;(v) the number of HIV infections averted;
 
-&emsp;&emsp;&emsp;&emsp;(IV) programs to prevent gender-based violence or to assist victims of gender based violence as part of, or in coordination with, HIV/AIDS programs;
+&emsp;&emsp;&emsp;(vi) antiretroviral treatment program retention rates by partner country, including—
 
-&emsp;&emsp;&emsp;(ix) a description of strategies, goals, programs, and interventions to—
+&emsp;&emsp;&emsp;&emsp;(I) performance against annual targets for program retention; and
 
-&emsp;&emsp;&emsp;&emsp;(I) address the needs and vulnerabilities of youth populations;
+&emsp;&emsp;&emsp;&emsp;(II) the retention rate of persons on HIV treatment directly supported by United States-funded programs; and
 
-&emsp;&emsp;&emsp;&emsp;(II) expand access among young men and women to evidence-based HIV/AIDS health care services and HIV prevention programs, including abstinence education programs; and
+&emsp;&emsp;&emsp;(vii) a description of supportive care.
 
-&emsp;&emsp;&emsp;&emsp;(III) expand community-based services to meet the needs of orphans and of children and adolescents affected by or vulnerable to HIV/AIDS without increasing stigmatization;
+&emsp;&emsp;(H) A description of partner country and United States-funded HIV/AIDS prevention programs and policies, including—
 
-&emsp;&emsp;&emsp;(x) a description of—
+&emsp;&emsp;&emsp;(i) an assessment by country of progress towards targets set forth in subparagraph (B), with a detailed description of the metrics used to assess—
 
-&emsp;&emsp;&emsp;&emsp;(I) the specific strategies funded to ensure the reduction of HIV infection among injection drug users;
+&emsp;&emsp;&emsp;&emsp;(I) programs to prevent mother to child transmission of HIV/AIDS, including coverage rates;
 
-&emsp;&emsp;&emsp;&emsp;(II) the number of injection drug users, by country, reached by such strategies; and
+&emsp;&emsp;&emsp;&emsp;(II) programs to provide or promote voluntary medical male circumcision, including coverage rates;
 
-&emsp;&emsp;&emsp;&emsp;(III) medication-assisted drug treatment for individuals with HIV or at risk of HIV;
+&emsp;&emsp;&emsp;&emsp;(III) programs for behavior-change; and
 
-&emsp;&emsp;&emsp;(xi) a detailed description of program monitoring, operations research, and impact evaluation research, including—
+&emsp;&emsp;&emsp;&emsp;(IV) other programmatic activities to prevent the transmission of HIV;
 
-&emsp;&emsp;&emsp;&emsp;(I) the amount of funding provided for each research type;
+&emsp;&emsp;&emsp;(ii) antiretroviral treatment as prevention; and
 
-&emsp;&emsp;&emsp;&emsp;(II) an analysis of cost-effectiveness models; and
+&emsp;&emsp;&emsp;(iii) a description of any new preventative interventions or methodologies.
 
-&emsp;&emsp;&emsp;&emsp;(III) conclusions regarding the efficiency, effectiveness, and quality of services as derived from previous or ongoing research and monitoring efforts;
+&emsp;&emsp;(I) A description of the goals, scope, and measurement of program efforts aimed at women and girls.
 
-&emsp;&emsp;&emsp;(xii) building capacity to identify, investigate, and stop nosocomial transmissionof infectious diseases, including HIV and tuberculosis; and
+&emsp;&emsp;(J) A description of the goals, scope, and measurement of program efforts aimed at orphans, vulnerable children, and youth.
 
-&emsp;&emsp;&emsp;(xiii) a description of staffing levels of United States government <sup>7</sup> HIV/AIDS teams in countries with significant HIV/AIDS programs, including whether or not a full-time coordinator was on staff for the year.
+&emsp;&emsp;(K) A description of the indicators and milestones used to assess effective, strategic, and appropriately timed country ownership, including—
+
+&emsp;&emsp;&emsp;(i) an explanation of the metrics used to determine whether the pace of any transition to such ownership is appropriate for that country, given that country's level of readiness for such transition;
+
+&emsp;&emsp;&emsp;(ii) an analysis of governmental and local nongovernmental capacity to sustain positive outcomes;
+
+&emsp;&emsp;&emsp;(iii) a description of measures taken to improve partner country capacity to sustain positive outcomes where needed; and
+
+&emsp;&emsp;&emsp;(iv) for countries undergoing a transition to greater country ownership, a description of strategies to assess and mitigate programmatic and financial risk and to ensure continued quality of care for essential services.
+
+&emsp;&emsp;(L) A description, globally and by partner country, of specific efforts to achieve and incentivize greater programmatic and cost effectiveness, including—
+
+&emsp;&emsp;&emsp;(i) progress toward establishing common economic metrics across prevention, care and treatment with partner countries and the Global Fund;
+
+&emsp;&emsp;&emsp;(ii) average costs, by country and by core intervention;
+
+&emsp;&emsp;&emsp;(iii) expenditure reporting in all program areas, supplemented with targeted analyses of the cost-effectiveness of specific interventions; and
+
+&emsp;&emsp;&emsp;(iv) import duties and internal taxes imposed on program commodities and services, by country.
+
+&emsp;&emsp;(M) A description of partnership framework agreements with countries, and regions where applicable, including—
+
+&emsp;&emsp;&emsp;(i) the objectives and structure of partnership framework agreements with countries, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) how these agreements are aligned with national HIV/AIDS plans and public health strategies and commitments of such countries; and
+
+&emsp;&emsp;&emsp;&emsp;(II) how these agreements incorporate a role for civil society; and
+
+&emsp;&emsp;&emsp;(ii) a description of what has been learned in advancing partnership framework agreements with countries, and regions as applicable, in terms of improved coordination and collaboration, definition of clear roles and responsibilities of participants and signers, and implications for how to further strengthen these agreements with mutually accountable measures of progress.
+
+&emsp;&emsp;(N) A description of efforts and activities to engage new partners, including faith-based, locally-based, and United States minority-serving institutions.
+
+&emsp;&emsp;(O) A definition and description of the differentiation between directly and otherwise supported activities, including specific efforts to clarify programmatic attribution and contribution, as well as timelines for dissemination and implementation.
+
+&emsp;&emsp;(P) A description, globally and by country, of specific efforts to address co-infections and co-morbidities of HIV/AIDS, including—
+
+&emsp;&emsp;&emsp;(i) the number and percent of people in HIV care or treatment who started tuberculosis treatment; and
+
+&emsp;&emsp;&emsp;(ii) the number and percentage of eligible HIV positive patients starting isoniazid preventative therapy.
+
+&emsp;&emsp;(Q) A description of efforts by partner countries to train, employ, and retain health care workers, including efforts to address workforce shortages.
+
+&emsp;&emsp;(R) A description of program evaluations completed during the reporting period, including whether all completed evaluations have been published on a publically available Internet website and whether any completed evaluations did not adhere to the common evaluation standards of practice published under paragraph (4).
+
+#### (4) Common evaluation standards
+
+&emsp;Not later than February 1, 2014, the Global AIDS Coordinator shall publish on a publically available Internet website the common evaluation standards of practice referred to in paragraph (3)(R).
+
+#### (5) Partner country defined
+
+&emsp;In this subsection, the term "partner country" means a country with a minimum United States Government investment of HIV/AIDS assistance of at least $5,000,000 in the prior fiscal year.
 
 #### (g) Funding limitation
 
@@ -500,55 +550,59 @@ In this section:
 
 #### (1) AIDS
 
-&emsp;The term “AIDS” means acquired immune deficiency syndrome.
+&emsp;The term "AIDS" means acquired immune deficiency syndrome.
 
 #### (2) HIV
 
-&emsp;The term “HIV” means the human immunodeficiency virus, the pathogen that causes AIDS.
+&emsp;The term "HIV" means the human immunodeficiency virus, the pathogen that causes AIDS.
 
 #### (3) HIV/AIDS
 
-&emsp;The term “HIV/AIDS” means, with respect to an individual, an individual who is infected with HIV or living with AIDS.
+&emsp;The term "HIV/AIDS" means, with respect to an individual, an individual who is infected with HIV or living with AIDS.
 
 #### (4) Relevant executive branch agencies
 
-&emsp;The term “relevant executive branch agencies” means the Department of State, the United States Agency for International Development, the Department of Health and Human Services (including its agencies and offices), and any other department or agency of the United States that participates in international HIV/AIDS activities pursuant to the authorities of such department or agency or this chapter.
+&emsp;The term "relevant executive branch agencies" means the Department of State, the United States Agency for International Development, the Department of Health and Human Services (including its agencies and offices), and any other department or agency of the United States that participates in international HIV/AIDS activities pursuant to the authorities of such department or agency or this chapter.
 
-(Pub. L. 87–195, pt. I, §104A, as added Pub. L. 108–25, title III, §301(a)(2), May 27, 2003, 117 Stat. 728; amended Pub. L. 110–293, title III, §301(a)–(e), July 30, 2008, 122 Stat. 2945–2953.)
+(Pub. L. 87–195, pt. I, §104A, as added Pub. L. 108–25, title III, §301(a)(2), May 27, 2003, 117 Stat. 728; amended Pub. L. 110–293, title III, §301(a)–(e), July 30, 2008, 122 Stat. 2945–2953; Pub. L. 113–56, §5, Dec. 2, 2013, 127 Stat. 650.)
 
 #### References in Text
 
 Section 7672(a)(3) of this title and section 7673(d) of this title, referred to in subsec. (b)(1)(A)(ii)(I), were in the original references to sections 402(a)(3) and 403(d), respectively, and were translated as meaning sections 402(a)(3) and 403(d), respectively, of Pub. L. 108–25, to reflect the probable intent of Congress.
 
-This chapter, referred to in subsecs. (f)(2)(D)(i)(II) and (h)(4), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The PEPFAR Stewardship and Oversight Act of 2013, referred to in subsec. (f)(2), is Pub. L. 113–56, Dec. 2, 2013, 127 Stat. 648. For complete classification of this Act to the Code, see Short Title of 2013 Amendment note set out under section 7601 of this title and Tables.
+
+This chapter, referred to in subsec. (h)(4), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–293, §301(a)(1), inserted “Central Asia, Eastern Europe, Latin America” after “Caribbean,”.
+<b>2013</b>—Subsec. (f). Pub. L. 113–56 amended subsec. (f) generally. Prior to amendment, subsec. (f) related to annual reports on the implementation of this section.
 
-Subsec. (b). Pub. L. 110–293, §301(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: “It is a major objective of the foreign assistance program of the United States to provide assistance for the prevention, treatment, and control of HIV/AIDS. The United States and other developed countries should provide assistance to countries in sub-Saharan Africa, the Caribbean, and other countries and areas to control this crisis through HIV/AIDS prevention, treatment, monitoring, and related activities, particularly activities focused on women and youth, including strategies to protect women and prevent mother-to-child transmission of the HIV infection.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–293, §301(a)(1), inserted "Central Asia, Eastern Europe, Latin America" after "Caribbean,".
 
-Subsec. (c)(1). Pub. L. 110–293, §301(b)(1), substituted “Central Asia, Eastern Europe, Latin America, and other countries and areas, particularly with respect to refugee populations or those in postconflict settings in such countries and areas with significant or increasing HIV incidence rates” for “and other countries and areas”.
+Subsec. (b). Pub. L. 110–293, §301(a)(2), amended subsec. (b) generally. Prior to amendment, text read as follows: "It is a major objective of the foreign assistance program of the United States to provide assistance for the prevention, treatment, and control of HIV/AIDS. The United States and other developed countries should provide assistance to countries in sub-Saharan Africa, the Caribbean, and other countries and areas to control this crisis through HIV/AIDS prevention, treatment, monitoring, and related activities, particularly activities focused on women and youth, including strategies to protect women and prevent mother-to-child transmission of the HIV infection."
 
-Subsec. (c)(2). Pub. L. 110–293, §301(b)(2), substituted “Central Asia, Eastern Europe, Latin America, and other countries and areas affected by the HIV/AIDS pandemic, particularly with respect to refugee populations or those in post-conflict settings in such countries and areas with significant or increasing HIV incidence rates.” for “and other countries and areas affected by the HIV/AIDS pandemic”.
+Subsec. (c)(1). Pub. L. 110–293, §301(b)(1), substituted "Central Asia, Eastern Europe, Latin America, and other countries and areas, particularly with respect to refugee populations or those in postconflict settings in such countries and areas with significant or increasing HIV incidence rates" for "and other countries and areas".
 
-Subsec. (c)(3). Pub. L. 110–293, §301(b)(3), substituted “partner countries, other international actors,” for “foreign countries” and inserted “within the framework of the principles of the Three Ones” before the period at end.
+Subsec. (c)(2). Pub. L. 110–293, §301(b)(2), substituted "Central Asia, Eastern Europe, Latin America, and other countries and areas affected by the HIV/AIDS pandemic, particularly with respect to refugee populations or those in post-conflict settings in such countries and areas with significant or increasing HIV incidence rates." for "and other countries and areas affected by the HIV/AIDS pandemic".
 
-Subsec. (d)(1)(A). Pub. L. 110–293, §301(c)(1)(A), inserted “and multiple concurrent sexual partnering,” after “casual sexual partnering” and substituted “male and female condoms” for “condoms”.
+Subsec. (c)(3). Pub. L. 110–293, §301(b)(3), substituted "partner countries, other international actors," for "foreign countries" and inserted "within the framework of the principles of the Three Ones" before the period at end.
 
-Subsec. (d)(1)(B). Pub. L. 110–293, §301(c)(1)(B), substituted “programs that are designed with local input and” for “programs that” and “those locally based organizations” for “those organizations”.
+Subsec. (d)(1)(A). Pub. L. 110–293, §301(c)(1)(A), inserted "and multiple concurrent sexual partnering," after "casual sexual partnering" and substituted "male and female condoms" for "condoms".
 
-Subsec. (d)(1)(D). Pub. L. 110–293, §301(c)(1)(C), inserted “and promoting the use of provider-initiated or ‘opt-out’ voluntary testing in accordance with World Health Organization guidelines” before the semicolon at end.
+Subsec. (d)(1)(B). Pub. L. 110–293, §301(c)(1)(B), substituted "programs that are designed with local input and" for "programs that" and "those locally based organizations" for "those organizations".
+
+Subsec. (d)(1)(D). Pub. L. 110–293, §301(c)(1)(C), inserted "and promoting the use of provider-initiated or 'opt-out' voluntary testing in accordance with World Health Organization guidelines" before the semicolon at end.
 
 Subsec. (d)(1)(F) to (K). Pub. L. 110–293, §301(c)(1)(D)–(G), added subpars. (F), (G), and (K) and redesignated former subpars. (F) to (H) as (H) to (J), respectively.
 
-Subsec. (d)(2)(C) to (E). Pub. L. 110–293, §301(c)(2), inserted “pain management,” after “opportunistic infections,” in subpar. (C) and added subpars. (D) and (E).
+Subsec. (d)(2)(C) to (E). Pub. L. 110–293, §301(c)(2), inserted "pain management," after "opportunistic infections," in subpar. (C) and added subpars. (D) and (E).
 
 Subsec. (d)(4)(E), (F). Pub. L. 110–293, §301(c)(3), added subpars. (E) and (F).
 
 Subsec. (d)(5)(C), (D). Pub. L. 110–293, §301(c)(4), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (d)(6). Pub. L. 110–293, §301(c)(5)(A), substituted “Related and coordinated activities” for “Related activities” in heading.
+Subsec. (d)(6). Pub. L. 110–293, §301(c)(5)(A), substituted "Related and coordinated activities" for "Related activities" in heading.
 
 Subsec. (d)(6)(D) to (G). Pub. L. 110–293, §301(c)(5)(B)–(D), added subpars. (D) to (G).
 
@@ -556,7 +610,7 @@ Subsec. (d)(8). Pub. L. 110–293, §301(c)(6), added par. (8).
 
 Subsecs. (e), (f). Pub. L. 110–293, §301(d), added subsec. (e) and redesignated former subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Subsec. (f)(1). Pub. L. 110–293, §301(e)(1), substituted “Committee on Foreign Affairs” for “Committee on International Relations”.
+Subsec. (f)(1). Pub. L. 110–293, §301(e)(1), substituted "Committee on Foreign Affairs" for "Committee on International Relations".
 
 Subsec. (f)(2)(C), (D). Pub. L. 110–293, §301(e)(2), added subpars. (C) and (D) and struck out former subpar. (C) which required a detailed assessment of the impact of programs established under this section and sections 2151b–3 and 2151b–4 of this title.
 
@@ -564,19 +618,17 @@ Subsecs. (g), (h). Pub. L. 110–293, §301(d)(1), redesignated subsecs. (f) and
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
 
-<i><sup>3</sup></i><i> So in original. The period probably should be “; and”.</i>
+<i><sup>3</sup></i><i> So in original. The period probably should be "; and".</i>
 
-<i><sup>4</sup></i><i> So in original. The word “and” probably should appear.</i>
+<i><sup>4</sup></i><i> So in original. The word "and" probably should appear.</i>
 
 <i><sup>5</sup></i><i> So in original. The semicolon probably should be a period.</i>
 
-<i><sup>6</sup></i><i> So in original. The “and” probably should not appear.</i>
-
-<i><sup>7</sup></i><i> So in original. Probably should be capitalized.</i>
+<i><sup>6</sup></i><i> So in original. The "and" probably should not appear.</i>
 

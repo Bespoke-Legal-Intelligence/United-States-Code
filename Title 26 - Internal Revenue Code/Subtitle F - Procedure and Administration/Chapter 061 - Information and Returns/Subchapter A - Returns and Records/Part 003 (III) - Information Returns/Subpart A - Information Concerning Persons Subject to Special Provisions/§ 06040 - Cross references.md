@@ -22,7 +22,7 @@
 
 #### Amendments
 
-<b>1970</b>—Par. (2). Pub. L. 91–614 substituted “fiduciary” for “executor”.
+<b>1970</b>—Par. (2). Pub. L. 91–614 substituted "fiduciary" for "executor".
 
 <b>1965</b>—Par. (6). Pub. L. 89–44 struck out par. (6) which cross referred to section 4234 of this title.
 

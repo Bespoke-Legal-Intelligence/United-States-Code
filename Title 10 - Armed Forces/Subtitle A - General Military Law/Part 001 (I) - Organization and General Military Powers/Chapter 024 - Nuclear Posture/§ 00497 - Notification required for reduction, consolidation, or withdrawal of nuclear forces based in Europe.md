@@ -22,7 +22,7 @@ Exception.—The limitation in paragraph (1) shall not apply to a reduction, con
 
 (c)
 
-Appropriate Congressional Committees Defined.—In this section, the term “appropriate congressional committees” means—
+Appropriate Congressional Committees Defined.—In this section, the term "appropriate congressional committees" means—
 
 &emsp;(1) the Committees on Armed Services of the House of Representatives and the Senate; and
 

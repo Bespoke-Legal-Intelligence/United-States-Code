@@ -4,11 +4,11 @@
 
 If—
 
-&emsp;(1) the State of Alaska relinquishes its selection rights under the Alaska Statehood Act (Public Law 85–508) to lands described in subsection (c)(2) of this section; and
+&emsp;(1) the State of Alaska relinquishes its selection rights under the Alaska Statehood Act\(Public Law 85–508) to lands described in subsection (c)(2) of this section; and
 
 &emsp;(2) Kake Tribal Corporation and Sealaska Corporation convey all right, title, and interest to lands described in subsection (c)(1) of this section to the City of Kake, Alaska,
 
-> then the Secretary of Agriculture (hereinafter referred to as “Secretary”) shall, not later than 180 days thereafter, convey to Kake Tribal Corporation title to the surface estate in the land identified in subsection (c)(2) of this section, and convey to Sealaska Corporation title to the subsurface estate in such land.
+> then the Secretary of Agriculture (hereinafter referred to as "Secretary") shall, not later than 180 days thereafter, convey to Kake Tribal Corporation title to the surface estate in the land identified in subsection (c)(2) of this section, and convey to Sealaska Corporation title to the subsurface estate in such land.
 
 #### (b) Effect on selection totals
 
@@ -18,11 +18,11 @@ If—
 
 #### (c) Lands subject to exchange
 
-(1) The lands to be transferred to the City of Kake under subsection (a) of this section are the surface and subsurface estate to approximately 1,430 acres of land owned by Kake Tribal Corporation and Sealaska Corporation, and depicted as “KTC Land to City of Kake” on the map entitled “Kake Land Exchange-2000”, dated May 2000.
+(1) The lands to be transferred to the City of Kake under subsection (a) of this section are the surface and subsurface estate to approximately 1,430 acres of land owned by Kake Tribal Corporation and Sealaska Corporation, and depicted as "KTC Land to City of Kake" on the map entitled "Kake Land Exchange-2000", dated May 2000.
 
-(2) The lands subject to relinquishment by the State of Alaska and to conveyance to Kake Tribal Corporation and Sealaska Corporation under subsection (a) of this section are the surface and subsurface estate to approximately 1,389 acres of Federal lands depicted as “Jenny Creek-Land Selected by the State of Alaska to KTC” on the map entitled “Kake Land Exchange-2000”, dated May 2000.
+(2) The lands subject to relinquishment by the State of Alaska and to conveyance to Kake Tribal Corporation and Sealaska Corporation under subsection (a) of this section are the surface and subsurface estate to approximately 1,389 acres of Federal lands depicted as "Jenny Creek-Land Selected by the State of Alaska to KTC" on the map entitled "Kake Land Exchange-2000", dated May 2000.
 
-(3) In addition to the transfers authorized under subsection (a) of this section, the Secretary may acquire from Sealaska Corporation the subsurface estate to approximately 1,127 acres of land depicted as “KTC Land-Conservation Easement to SEAL Trust” on the map entitled “Kake Land Exchange-2000”, dated May 2000, through a land exchange for the subsurface estate to approximately 1,168 acres of Federal land in southeast Alaska that is under the administrative jurisdiction of the Secretary. Any exchange under this paragraph shall be subject to the mutual consent of the United States Forest Service and Sealaska Corporation.
+(3) In addition to the transfers authorized under subsection (a) of this section, the Secretary may acquire from Sealaska Corporation the subsurface estate to approximately 1,127 acres of land depicted as "KTC Land-Conservation Easement to SEAL Trust" on the map entitled "Kake Land Exchange-2000", dated May 2000, through a land exchange for the subsurface estate to approximately 1,168 acres of Federal land in southeast Alaska that is under the administrative jurisdiction of the Secretary. Any exchange under this paragraph shall be subject to the mutual consent of the United States Forest Service and Sealaska Corporation.
 
 #### (d) Withdrawal
 
@@ -34,17 +34,17 @@ The maps referred to in this chapter shall be maintained on file in the Office o
 
 #### (f) Watershed management
 
-The United States Forest Service may cooperate with Kake Tribal Corporation and the Cityof Kake in developing a watershed management plan that provides for the protection of the watershed in the public interest. Grants may be made, and contracts and cooperative agreements may be entered into, to the extent necessary to assist the City of Kake and Kake Tribal Corporation in the preparation and implementation of a watershed management plan for the land within the City of Kake's municipal watershed.
+The United States Forest Service may cooperate with Kake Tribal Corporation and the City of Kake in developing a watershed management plan that provides for the protection of the watershed in the public interest. Grants may be made, and contracts and cooperative agreements may be entered into, to the extent necessary to assist the City of Kake and Kake Tribal Corporation in the preparation and implementation of a watershed management plan for the land within the City of Kake's municipal watershed.
 
 #### (g) Effective date
 
 This section is effective upon the execution of one or more conservation easements that, subject to valid existing rights of third parties—
 
-&emsp;(1) encumber all lands depicted as “KTC Land to City of Kake” and “KTC Land-Conservation Easement to SEAL Trust” on a map entitled “Kake Land Exchange-2000” dated May 2000;
+&emsp;(1) encumber all lands depicted as "KTC Land to City of Kake" and "KTC Land-Conservation Easement to SEAL Trust" on a map entitled "Kake Land Exchange-2000" dated May 2000;
 
 &emsp;(2) provide for the relinquishment by Kake Tribal Corporation of the Corporation's development rights on lands described in paragraph (1); and
 
-&emsp;(3) provide for perpetual protection and management of lands depicted as “KTC Land to City of Kake” and “KTC Land-Conservation Easement to SEAL Trust” on the map described in paragraph (1) as—
+&emsp;(3) provide for perpetual protection and management of lands depicted as "KTC Land to City of Kake" and "KTC Land-Conservation Easement to SEAL Trust" on the map described in paragraph (1) as—
 
 &emsp;&emsp;(A) a watershed;
 
@@ -70,5 +70,5 @@ The Alaska Statehood Act, referred to in subsecs. (a)(1) and (b)(1), is Pub. L. 
 
 #### Declaration of Purpose
 
-Pub. L. 106–283, §2, Oct. 6, 2000, 114 Stat. 867, provided that: “The purpose of this Act \[see Short Title of 2000 Amendment note set out under section 1601 of this title\] is to authorize the reallocation of lands and selection rights between the State of Alaska, Kake Tribal Corporation, and the City of Kake, Alaska, in order to provide for the protection and management of the municipal watershed.”
+Pub. L. 106–283, §2, Oct. 6, 2000, 114 Stat. 867, provided that: "The purpose of this Act \[see Short Title of 2000 Amendment note set out under section 1601 of this title\] is to authorize the reallocation of lands and selection rights between the State of Alaska, Kake Tribal Corporation, and the City of Kake, Alaska, in order to provide for the protection and management of the municipal watershed."
 

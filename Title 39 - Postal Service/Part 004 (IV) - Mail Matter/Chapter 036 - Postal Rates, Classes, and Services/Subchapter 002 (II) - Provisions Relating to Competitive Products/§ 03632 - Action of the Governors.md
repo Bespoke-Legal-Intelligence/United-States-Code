@@ -14,7 +14,7 @@ In general.—Rates and classes shall be established in writing, complete with a
 
 &emsp;(2)
 
-Rates or classes of general applicability.—In the case of rates or classes of general applicability in the Nation as a whole or in any substantial region of the Nation, the Governors shall cause each rate and class decision under this section and the record of the Governors’ proceedings in connection with such decision to be published in the Federal Register at least 30 days before the effective date of any new rates or classes.
+Rates or classes of general applicability.—In the case of rates or classes of general applicability in the Nation as a whole or in any substantial region of the Nation, the Governors shall cause each rate and class decision under this section and the record of the Governors' proceedings in connection with such decision to be published in the Federal Register at least 30 days before the effective date of any new rates or classes.
 
 &emsp;(3)
 

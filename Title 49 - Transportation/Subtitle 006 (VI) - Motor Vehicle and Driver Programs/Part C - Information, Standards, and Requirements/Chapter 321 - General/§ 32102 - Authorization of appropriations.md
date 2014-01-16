@@ -24,13 +24,13 @@ The reference to fiscal year 1992 is omitted as obsolete.
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–39 substituted “$9,562,500” for “$6,200,000”.
+<b>1999</b>—Pub. L. 106–39 substituted "$9,562,500" for "$6,200,000".
 
-<b>1998</b>—Pub. L. 105–178 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The following amounts may be appropriated to the Secretary of Transportation for the National Highway Traffic Safety Administration to carry out this part:
+<b>1998</b>—Pub. L. 105–178 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "The following amounts may be appropriated to the Secretary of Transportation for the National Highway Traffic Safety Administration to carry out this part:
 
-&emsp;“(1) $6,731,430 for the fiscal year ending September 30, 1993.
+&emsp;"(1) $6,731,430 for the fiscal year ending September 30, 1993.
 
-&emsp;“(2) $6,987,224 for the fiscal year ending September 30, 1994.
+&emsp;"(2) $6,987,224 for the fiscal year ending September 30, 1994.
 
-&emsp;“(3) $7,252,739 for the fiscal year ending September 30, 1995.”
+&emsp;"(3) $7,252,739 for the fiscal year ending September 30, 1995."
 

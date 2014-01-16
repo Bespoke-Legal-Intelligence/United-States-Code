@@ -44,7 +44,7 @@
 
 <b>2012</b>—Pub. L. 112–186, §2(b), Oct. 5, 2012, 126 Stat. 1428, added item 670.
 
-<b>1996</b>—Pub. L. 104–294, title VI, §601(f)(7), Oct. 11, 1996, 110 Stat. 3500, inserted comma after “embezzlement” in item 656.
+<b>1996</b>—Pub. L. 104–294, title VI, §601(f)(7), Oct. 11, 1996, 110 Stat. 3500, inserted comma after "embezzlement" in item 656.
 
 Pub. L. 104–191, title II, §243(b), Aug. 21, 1996, 110 Stat. 2017, added item 669.
 
@@ -52,17 +52,17 @@ Pub. L. 104–191, title II, §243(b), Aug. 21, 1996, 110 Stat. 2017, added item
 
 <b>1984</b>—Pub. L. 98–473, title II, §§1104(b), 1112, Oct. 12, 1984, 98 Stat. 2144, 2149, added items 666 and 667.
 
-<b>1978</b>—Pub. L. 95–524, §3(b), Oct. 27, 1978, 92 Stat. 2018, substituted “employment and training funds” for “manpower funds” and inserted “; obstruction of investigations” after “improper inducement” in item 665.
+<b>1978</b>—Pub. L. 95–524, §3(b), Oct. 27, 1978, 92 Stat. 2018, substituted "employment and training funds" for "manpower funds" and inserted "; obstruction of investigations" after "improper inducement" in item 665.
 
 <b>1973</b>—Pub. L. 93–203, title VII, §711(b), formerly title VI, §611(b), Dec. 28, 1973, 87 Stat. 882, renumbered Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1845, added item 665.
 
-<b>1966</b>—Pub. L. 89–654, §1(e), Oct. 14, 1966, 80 Stat. 904, substituted “shipments by carrier” for “baggage, express or freight” in item 659.
+<b>1966</b>—Pub. L. 89–654, §1(e), Oct. 14, 1966, 80 Stat. 904, substituted "shipments by carrier" for "baggage, express or freight" in item 659.
 
 <b>1962</b>—Pub. L. 87–420, §17(b), Mar. 20, 1962, 76 Stat. 42, added item 664.
 
 #### Saint Lawrence Seaway Development Corporation
 
-Application of general penal statutes relating to larceny, embezzlement, or conversion of public moneys orproperty of the United States, to moneys and property of Saint Lawrence Seaway Development Corporation, see section 990 of Title 33, Navigation and Navigable Waters.
+Application of general penal statutes relating to larceny, embezzlement, or conversion of public moneys or property of the United States, to moneys and property of Saint Lawrence Seaway Development Corporation, see section 990 of Title 33, Navigation and Navigable Waters.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

@@ -10,9 +10,9 @@ Based on sections 249, 252, of title 2, U.S.C., 1940 ed., The Congress (Feb. 28,
 
 This section consolidates the provisions of sections 249 and 252 of title 2, U.S.C., 1940 ed., The Congress, with changes in arrangement and phraseology necessary to effect consolidation.
 
-Words “or both” were added to conform to the almost universal formula of the punishment provisions of this title.
+Words "or both" were added to conform to the almost universal formula of the punishment provisions of this title.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” after “candidacy shall be” and for “fined not more than $10,000” after “willful, shall be”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000" after "candidacy shall be" and for "fined not more than $10,000" after "willful, shall be".
 

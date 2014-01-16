@@ -2,7 +2,7 @@
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–204, §2(h)(6)(A)(i), July 22, 2010, 124 Stat. 2231, struck out heading “SUBCHAPTER VI—RECOVERY AUDITS”.
+<b>2010</b>—Pub. L. 111–204, §2(h)(6)(A)(i), July 22, 2010, 124 Stat. 2231, struck out heading "SUBCHAPTER VI—RECOVERY AUDITS".
 
 <i><sup>1</sup></i><i> Editorially supplied.</i>
 

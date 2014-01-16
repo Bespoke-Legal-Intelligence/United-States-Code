@@ -14,7 +14,7 @@ Matter not pending.—For purposes of this section, a habeas corpus proceeding i
 
 &emsp;(3)
 
-Application for appointment of counsel.—If a State prisoner sentenced to death applies for appointment of counsel pursuant to section 3599(a)(2) of title 18 in a court that would have jurisdiction to entertain a habeas corpus application regarding that sentence, that court may stay execution of the sentence of death, but such stay shall terminate not later than 90 days after counsel is appointed or the application for appointment of counsel is withdrawn or denied.
+Application for appointment of counsel.—If a State prisoner sentenced to death applies for appointment of counsel pursuant to section 3599(a)(2) of title 18 in a court that would have jurisdiction to entertain a habeas corpus application regarding that sentence,that court may stay execution of the sentence of death, but such stay shall terminate not later than 90 days after counsel is appointed or the application for appointment of counsel is withdrawn or denied.
 
 (b)
 
@@ -40,11 +40,11 @@ Changes were made in phraseology.
 
 Pub. L. 109–177, title V, §507(d), Mar. 9, 2006, 120 Stat. 251, provided that:
 
-“(1)
+"(1)
 
 In general.—This section \[enacting section 2265 of this title, amending this section and sections 2261 and 2266 of this title, and repealing former section 2265 of this title\] and the amendments made by this section shall apply to cases pending on or after the date of enactment of this Act \[Mar. 9, 2006\].
 
-“(2)
+"(2)
 
-Time limits.—In a case pending on the date of enactment of this Act, if the amendments made by this section establish a time limit for taking certain action, the period of which began on the date of an event that occurred prior to the date of enactment of this Act, the period of such time limit shall instead begin on the date of enactment of this Act.”
+Time limits.—In a case pending on the date of enactment of this Act, if the amendments made by this section establish a time limit for taking certain action, the period of which began on the date of an event that occurred prior to the date of enactment of this Act, the period of such time limit shall instead begin on the date of enactment of this Act."
 

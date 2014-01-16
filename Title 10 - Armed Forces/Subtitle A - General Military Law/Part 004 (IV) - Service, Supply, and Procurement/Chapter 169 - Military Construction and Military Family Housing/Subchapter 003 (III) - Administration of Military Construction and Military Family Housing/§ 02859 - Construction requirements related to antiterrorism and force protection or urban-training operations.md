@@ -6,7 +6,7 @@ Antiterrorism and Force Protection Guidance and Criteria.—The Secretary of Def
 
 &emsp;(1) to assess the vulnerability of military installations located inside and outside of the United States to terrorist attack;
 
-&emsp;(2) to develop construction standards designed to reduce the vulnerability of structures to terrorist attack and improve the security of the occupants of such structures;
+&emsp;(2) to develop construction standards that, taking into consideration other security or force-protection measures available for the facility or military installation concerned, are designed to reduce the vulnerability of structures to terrorist attack and improve the security of the occupants of such structures;
 
 &emsp;(3) to prepare and carry out military construction projects, such as gate and fenceline construction, to improve the physical security of military installations; and
 
@@ -40,7 +40,7 @@ Certification Required for Military Construction Projects Designed to Provide Tr
 
 (2) This subsection shall not apply with respect to a military construction project carried out under the authority of section 2803, 2804, or 2808 of this title or section 2808 of the Military Construction Authorization Act for Fiscal Year 2004 (division B of Public Law 108–136; 117 Stat. 1723).
 
-(Added Pub. L. 108–375, div. B, title XXVIII, §2804(a)(1), Oct. 28, 2004, 118 Stat. 2121; amended Pub. L. 109–364, div. B, title XXVIII, §2808(a), (b)(1), Oct. 17, 2006, 120 Stat. 2469; Pub. L. 112–239, div. A, title X, §1081(2), Jan. 2, 2013, 126 Stat. 1960.)
+(Added Pub. L. 108–375, div. B, title XXVIII, §2804(a)(1), Oct. 28, 2004, 118 Stat. 2121; amended Pub. L. 109–364, div. B, title XXVIII, §2808(a), (b)(1), Oct. 17, 2006, 120 Stat. 2469; Pub. L. 112–239, div. A, title X, §1081(2), Jan. 2, 2013, 126 Stat. 1960; Pub. L. 113–66, div. B, title XXVIII, §2803(a), Dec. 26, 2013, 127 Stat. 1006.)
 
 #### References in Text
 
@@ -52,17 +52,19 @@ A prior section 2859, added Pub. L. 97–214, §2(a), July 12, 1982, 96 Stat. 16
 
 #### Amendments
 
-<b>2013</b>—Subsec. (d)(2), (3). Pub. L. 112–239 redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The Under Secretary of Defense for Personnel and Readiness shall conduct the evaluation required by paragraph (1)(B) in consultation with the Commander of the United States Joint Forces Command.”
+<b>2013</b>—Subsec. (a)(2). Pub. L. 113–66 substituted "develop construction standards that, taking into consideration other security or force-protection measures available for the facility or military installation concerned, are designed" for "develop construction standards designed".
 
-<b>2006</b>—Pub. L. 109–364, §2808(b)(1), inserted “or urban-training operations” after “force protection” in section catchline.
+Subsec. (d)(2), (3). Pub. L. 112–239 redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "The Under Secretary of Defense for Personnel and Readiness shall conduct the evaluation required by paragraph (1)(B) in consultation with the Commander of the United States Joint Forces Command."
+
+<b>2006</b>—Pub. L. 109–364, §2808(b)(1), inserted "or urban-training operations" after "force protection" in section catchline.
 
 Subsec. (d). Pub. L. 109–364, §2808(a), added subsec. (d).
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. B, title XXVIII, §2808(c), Oct. 17, 2006, 120 Stat. 2470, provided that: “Subsection (d) of section 2859 of title 10, United States Code, as added by subsection (a), shall apply with respect to military construction projects described in such subsection (d) for which funds are first provided for fiscal year 2007 or thereafter.”
+Pub. L. 109–364, div. B, title XXVIII, §2808(c), Oct. 17, 2006, 120 Stat. 2470, provided that: "Subsection (d) of section 2859 of title 10, United States Code, as added by subsection (a), shall apply with respect to military construction projects described in such subsection (d) for which funds are first provided for fiscal year 2007 or thereafter."
 
 #### Special Requirement for 2006 Report
 
-Pub. L. 108–375, div. B, title XXVIII, §2804(b), Oct. 28, 2004, 118 Stat. 2122, provided that: “In the case of the report required to be submitted in 2006 under section 2859(c) of title 10, United States Code, as added by subsection (a), the Secretary of Defense shall include a certification by the Secretary that since September 11, 2001, assessments regarding the vulnerability of military installations to terrorist attack have been undertaken for all major military installations. The Secretary shall indicate the basis by which the Secretary differentiated between major and nonmajor military installations for purposes of making the certification.”
+Pub. L. 108–375, div. B, title XXVIII, §2804(b), Oct. 28, 2004, 118 Stat. 2122, provided that: "In the case of the report required to be submitted in 2006 under section 2859(c) of title 10, United States Code, as added by subsection (a), the Secretary of Defense shall include a certification by the Secretary that since September 11, 2001, assessments regarding the vulnerability of military installations to terrorist attack have been undertaken for all major military installations. The Secretary shall indicate the basis by which the Secretary differentiated between major and nonmajor military installations for purposes of making the certification."
 

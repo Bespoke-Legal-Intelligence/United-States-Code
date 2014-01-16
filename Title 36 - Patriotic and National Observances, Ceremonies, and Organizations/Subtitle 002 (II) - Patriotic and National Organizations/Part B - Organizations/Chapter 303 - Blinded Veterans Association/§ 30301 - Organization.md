@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Blinded Veterans Association (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—Blinded Veterans Association (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

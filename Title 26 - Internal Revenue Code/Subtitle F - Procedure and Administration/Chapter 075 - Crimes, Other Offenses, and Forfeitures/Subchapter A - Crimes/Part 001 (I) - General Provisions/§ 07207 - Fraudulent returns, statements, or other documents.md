@@ -2,31 +2,31 @@
 
 Any person who willfully delivers or discloses to the Secretary any list, return, account, statement, or other document, known by him to be fraudulent or to be false as to any material matter, shall be fined not more than $10,000 ($50,000 in the case of a corporation), or imprisoned not more than 1 year, or both. Any person required pursuant to section 6047(b), section 6104(d), or subsection (i) or (j) of section 527 to furnish any information to the Secretary or any other person who willfully furnishes to the Secretary or such other person any information known by him to be fraudulent or to be false as to any material matter shall be fined not more than $10,000 ($50,000 in the case of a corporation), or imprisoned not more than 1 year, or both.
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 853; Pub. L. 87–792, §7(m)(3), Oct. 10, 1962, 76 Stat. 831; Pub. L.91–172, title I, §101(e)(5), Dec. 30, 1969, 83 Stat. 524; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–603, §1(d)(5), Dec. 28, 1980, 94 Stat. 3505; Pub. L. 97–248, title III, §329(d), Sept. 3, 1982, 96 Stat. 619; Pub. L. 98–369, div. A, title IV, §491(d)(51), July 18, 1984, 98 Stat. 852; Pub. L. 100–203, title X, §10704(c), Dec. 22, 1987, 101 Stat. 1330–463; Pub. L. 105–277, div. J, title I, §1004(b)(2)(E), Oct. 21, 1998, 112 Stat. 2681–890; Pub. L. 107–276, §6(d), Nov. 2, 2002, 116 Stat. 1933.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 853; Pub. L. 87–792, §7(m)(3), Oct. 10, 1962, 76 Stat. 831; Pub. L. 91–172, title I, §101(e)(5), Dec. 30, 1969, 83 Stat. 524; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–603, §1(d)(5), Dec. 28, 1980, 94 Stat. 3505; Pub. L. 97–248, title III, §329(d), Sept. 3, 1982, 96 Stat. 619; Pub. L. 98–369, div. A, title IV, §491(d)(51), July 18, 1984, 98 Stat. 852; Pub. L. 100–203, title X, §10704(c), Dec. 22, 1987, 101 Stat. 1330–463; Pub. L. 105–277, div. J, title I, §1004(b)(2)(E), Oct. 21, 1998, 112 Stat. 2681–890; Pub. L. 107–276, §6(d), Nov. 2, 2002, 116 Stat. 1933.)
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–276 substituted “pursuant to section 6047(b), section 6104(d), or subsection (i) or (j) of section 527” for “pursuant to subsection (b) of section 6047 or pursuant to subsection (d) of section 6104”.
+<b>2002</b>—Pub. L. 107–276 substituted "pursuant to section 6047(b), section 6104(d), or subsection (i) or (j) of section 527" for "pursuant to subsection (b) of section 6047 or pursuant to subsection (d) of section 6104".
 
-<b>1998</b>—Pub. L. 105–277 struck out “or (e)” after “subsection (d)”.
+<b>1998</b>—Pub. L. 105–277 struck out "or (e)" after "subsection (d)".
 
 <b>1987</b>—Pub. L. 100–203 inserted reference to subsec. (e) of section 6104.
 
-<b>1984</b>—Pub. L. 98–369 struck out “or (c)” after “subsection (b)”.
+<b>1984</b>—Pub. L. 98–369 struck out "or (c)" after "subsection (b)".
 
-<b>1982</b>—Pub. L. 97–248 substituted “$10,000 ($50,000 in the case of a corporation)” for “$1,000” wherever appearing.
+<b>1982</b>—Pub. L. 97–248 substituted "$10,000 ($50,000 in the case of a corporation)" for "$1,000" wherever appearing.
 
-<b>1980</b>—Pub. L. 96–603 substituted “subsection (b) or (c) of section 6047 or pursuant to subsection (d) of section 6104” for “sections 6047(b) or (c), 6056, or 6104(d)”.
+<b>1980</b>—Pub. L. 96–603 substituted "subsection (b) or (c) of section 6047 or pursuant to subsection (d) of section 6104" for "sections 6047(b) or (c), 6056, or 6104(d)".
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
-<b>1969</b>—Pub. L. 91–172 substituted “sections 6047(b) or (c), 6056, or 6104(d)” for “section 6047(b) or (c)”.
+<b>1969</b>—Pub. L. 91–172 substituted "sections 6047(b) or (c), 6056, or 6104(d)" for "section 6047(b) or (c)".
 
 <b>1962</b>—Pub. L. 87–792 inserted sentence providing that any person required pursuant to section 6047(b) or (c) to furnish any information to the Secretary or any other person who willfully furnishes to the Secretary or such other person any information known by him to be fraudulent or to be false as to any material matter shall be fined not more than $1,000, or imprisoned not more than 1 year, or both.
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–276, §6(h)(3), Nov. 2, 2002, 116 Stat. 1934, provided that: “The amendment made by subsection (d) \[amending this section\] shall apply to reports and notices required to be filed on or after the date of the enactment of this Act \[Nov. 2, 2002\].”
+Pub. L. 107–276, §6(h)(3), Nov. 2, 2002, 116 Stat. 1934, provided that: "The amendment made by subsection (d) \[amending this section\] shall apply to reports and notices required to be filed on or after the date of the enactment of this Act \[Nov. 2, 2002\]."
 
 #### Effective Date of 1998 Amendment
 
@@ -58,5 +58,5 @@ Amendment by Pub. L. 87–792 applicable to taxable years beginning after Dec. 3
 
 #### Annual Reports
 
-Pub. L. 110–428, §2(e), Oct. 15, 2008, 122 Stat. 4840, provided that: “The Secretary of the Treasury shall annually submit to Congress and make publicly available a report on the filing of false and fraudulent returns by individuals incarcerated in Federal and State prisons. Such report shall include statistics on the number of false and fraudulent returns associated with each Federal and State prison.”
+Pub. L. 110–428, §2(e), Oct. 15, 2008, 122 Stat. 4840, provided that: "The Secretary of the Treasury shall annually submit to Congress and make publicly available a report on the filing of false and fraudulent returns by individuals incarcerated in Federal and State prisons. Such report shall include statistics on the number of false and fraudulent returns associated with each Federal and State prison."
 

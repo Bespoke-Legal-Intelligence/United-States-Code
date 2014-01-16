@@ -16,7 +16,7 @@ Each lessor shall give a lessee prior to the consummation of the lease a dated w
 
 &emsp;(7) A brief description of insurance provided or paid for by the lessor or required of the lessee, including the types and amounts of the coverages and costs;
 
-&emsp;(8) A description of any security interest held or to be retained by the lessor in connection with the lease and a clear identificationof the property to which the security interest relates;
+&emsp;(8) A description of any security interest held or to be retained by the lessor in connection with the lease and a clear identification of the property to which the security interest relates;
 
 &emsp;(9) The number, amount, and due dates or periods of payments under the lease and the total amount of such periodic payments;
 
@@ -30,7 +30,7 @@ Each lessor shall give a lessee prior to the consummation of the lease a dated w
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §1100A(2), (10)(B), made similar amendments, resulting in the substitution of “The Bureau” for “The Board” in concluding provisions.
+<b>2010</b>—Pub. L. 111–203, §1100A(2), (10)(B), made similar amendments, resulting in the substitution of "The Bureau" for "The Board" in concluding provisions.
 
 #### Effective Date of 2010 Amendment
 

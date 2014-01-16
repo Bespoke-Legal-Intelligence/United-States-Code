@@ -18,33 +18,33 @@ The President shall establish a program under this subchapter to provide agricul
 
 > Such program shall be implemented by the Administrator.
 
-(July 10, 1954, ch. 469, title II, §201, 68 Stat. 457; May 28, 1956, ch. 327, title II, §208(b), 70 Stat. 201; Aug. 3, 1956, ch. 933, §4, 70 Stat. 988; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1534; Pub. L. 94–161, title II, §208, Dec. 20, 1975, 89 Stat. 853; Pub. L. 95–88, title II, §206, Aug. 3, 1977, 91 Stat. 547; Pub. L. 97–113, title IV, §404, Dec. 29, 1981, 95 Stat. 1538; Pub. L. 99–83, title X, §1002, Aug. 8, 1985, 99 Stat. 270; Pub. L. 99–198, title XI, §§1102, 1103, Dec. 23, 1985, 99 Stat. 1465; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3636; Pub. L. 110–246, title III, §3007, June 18, 2008, 122 Stat. 1823.)
+(July 10, 1954, ch. 469, title II, §201, 68 Stat. 457; May 28, 1956, ch. 327, title II, §208(b), 70 Stat. 201; Aug. 3, 1956, ch. 933, §4, 70 Stat. 988; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1534; Pub. L. 94–161, title II, §208, Dec. 20, 1975, 89 Stat. 853; Pub. L. 95–88, title II, §206, Aug. 3, 1977, 91 Stat. 547; Pub. L. 97–113, title IV, §404, Dec. 29, 1981, 95 Stat. 1538; Pub. L. 99–83, title X, §1002, Aug. 8, 1985, 99 Stat. 270; Pub. L. 99–198, title XI, §§1102, 1103, Dec. 23, 1985, 99 Stat. 1465; Pub. L. 101–624,title XV, §1512, Nov. 28, 1990, 104 Stat. 3636; Pub. L. 110–246, title III, §3007, June 18, 2008, 122 Stat. 1823.)
 
 #### Amendments
 
-<b>2008</b>—Par. (1). Pub. L. 110–246, §3007(1), added par. (1) and struck out former par. (1) which read as follows: “address famine or other urgent or extraordinary relief requirements;”.
+<b>2008</b>—Par. (1). Pub. L. 110–246, §3007(1), added par. (1) and struck out former par. (1) which read as follows: "address famine or other urgent or extraordinary relief requirements;".
 
-Par. (5). Pub. L. 110–246, §3007(2)(A), inserted “food security and support” after “promote”.
+Par. (5). Pub. L. 110–246, §3007(2)(A), inserted "food security and support" after "promote".
 
 Par. (7). Pub. L. 110–246, §3007(2)(B)–(4), added par. (7).
 
 <b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions requiring President to furnish commodities to meet famine, combat malnutrition, promote economic development in friendly countries, and for needy persons and school lunch and preschool feeding programs, setting minimum quantity for distribution, requiring use of certain distribution networks, requiring President to consider benefits of distributing processed and protein-fortified foods, nutritional needs of recipients, cost effectiveness of particular commodities, and purposes of this subchapter, requiring that 75 percent of commodities distributed be in form of processed or fortified products or bagged commodities, and authorizing waiver of such 75 percent requirement.
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–198, §1102, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The minimum quantity of agricultural commodities distributed under this subchapter—
+<b>1985</b>—Subsec. (b). Pub. L. 99–198, §1102, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The minimum quantity of agricultural commodities distributed under this subchapter—
 
-&emsp;“(1) for fiscal years 1978 through 1980 shall be 1,600,000 metric tons, of which not less than 1,300,000 metric tons shall be distributed through nonprofit voluntary agencies and the World Food Program;
+&emsp;"(1) for fiscal years 1978 through 1980 shall be 1,600,000 metric tons, of which not less than 1,300,000 metric tons shall be distributed through nonprofit voluntary agencies and the World Food Program;
 
-&emsp;“(2) for fiscal year 1981 shall be 1,650,000 metric tons, of which not less than 1,350,000 metric tons shall be distributed through nonprofit voluntary agencies and the World Food Program; and
+&emsp;"(2) for fiscal year 1981 shall be 1,650,000 metric tons, of which not less than 1,350,000 metric tons shall be distributed through nonprofit voluntary agencies and the World Food Program; and
 
-&emsp;“(3) for fiscal year 1982 and each fiscal year thereafter shall be 1,700,000 metric tons, of which not less than 1,200,000 metric tons for nonemergency programs shall be distributed through nonprofit voluntary agencies and the World Food Program, except that for fiscal year 1986 the minimum quantity distributed shall be 1,800,000 metric tons, of which not less than 1,300,000 metric tons for nonemergency programs shall be distributed through nonprofit voluntary agencies and the World Food Program, and for fiscal year 1987 the minimum quantity distributed shall be 1,900,000 metric tons, of which not less than 1,425,000 metric tons for nonemergency programs shall be distributed through nonprofit voluntary agencies and the World Food Program;
+&emsp;"(3) for fiscal year 1982 and each fiscal year thereafter shall be 1,700,000 metric tons, of which not less than 1,200,000 metric tons for nonemergency programs shall be distributed through nonprofit voluntary agencies and the World Food Program, except that for fiscal year 1986 the minimum quantity distributed shall be 1,800,000 metric tons, of which not less than 1,300,000 metric tons for nonemergency programs shall be distributed through nonprofit voluntary agencies and the World Food Program, and for fiscal year 1987 the minimum quantity distributed shall be 1,900,000 metric tons, of which not less than 1,425,000 metric tons for nonemergency programs shall be distributed through nonprofit voluntary agencies and the World Food Program;
 
-> unless the President determines and reports to the Congress, together with his reasons, that such quantity cannot be used effectively to carry out the purposes of this subchapter: <i>Provided</i>, That such minimum quantity shall not exceed the total quantity of commodities determined to be available for disposition under this chapter pursuant to section 1731 of this title, less the quantity of commodities required to meet famine or other urgent or extraordinary relief requirements.”
+> unless the President determines and reports to the Congress, together with his reasons, that such quantity cannot be used effectively to carry out the purposes of this subchapter: <i>Provided</i>, That such minimum quantity shall not exceed the total quantity of commodities determined to be available for disposition under this chapter pursuant to section 1731 of this title, less the quantity of commodities required to meet famine or other urgent or extraordinary relief requirements."
 
 Pub. L. 99–83 inserted provisions relating to minimum quantities for fiscal years 1986 and 1987.
 
 Subsec. (c). Pub. L. 99–198, §1103, added subsec. (c).
 
-<b>1981</b>—Subsec. (b)(3). Pub. L. 97–113 substituted “1,200,000 metric tons for nonemergency programs” for “1,400,000 metric tons”.
+<b>1981</b>—Subsec. (b)(3). Pub. L. 97–113 substituted "1,200,000 metric tons for nonemergency programs" for "1,400,000 metric tons".
 
 <b>1977</b>—Subsec. (b). Pub. L. 95–88 substituted provisions increasing and setting specific minimums for commodities to be distributed for fiscal years 1978 through 1980, for 1981, and for fiscal year 1982 and each fiscal year thereafter, for provisions which had set a fixed minimum of 1,300,000 tons of agricultural commodities each fiscal year, of which the minimum to be distributed through nonprofit voluntary agencies and the World Food Program was 1,000,000 tons each fiscal year.
 
@@ -52,9 +52,9 @@ Subsec. (c). Pub. L. 99–198, §1103, added subsec. (c).
 
 <b>1966</b>—Pub. L. 89–808 expanded scope of assistance to include emergency relief without regard to recipient being a friendly people, combating malnutrition in children, promotion of economic and community development in friendly developing areas, and for nonprofit school lunch and preschool feeding programs outside the United States and to be furnished from available commodities rather than surplus agricultural commodities.
 
-<b>1956</b>—Act Aug. 3, 1956, inserted “or extraordinary” after “urgent” wherever appearing.
+<b>1956</b>—Act Aug. 3, 1956, inserted "or extraordinary" after "urgent" wherever appearing.
 
-Act May 28, 1956, struck out “f.o.b. vessels in United States ports,” before “as he may request”.
+Act May 28, 1956, struck out "f.o.b. vessels in United States ports," before "as he may request".
 
 #### Effective Date of 2008 Amendment
 
@@ -80,21 +80,21 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 Pub. L. 105–385, title II, §201, Nov. 13, 1998, 112 Stat. 3465, as amended by Pub. L. 110–246, title III, §3001(b)(1)(A), (2)(D), June 18, 2008, 122 Stat. 1820, provided that:
 
-“(a)
+"(a)
 
 In General.—In providing nonemergency assistance under title II of the Food for Peace Act (7 U.S.C. 1721 et seq.), the Administrator of the United States Agency for International Development shall ensure that—
 
-&emsp;“(1) in planning, decisionmaking, and implementation in providing such assistance, the Administrator takes into consideration local input and participation directly and through United States and indigenous private and voluntary organizations;
+&emsp;"(1) in planning, decisionmaking, and implementation in providing such assistance, the Administrator takes into consideration local input and participation directly and through United States and indigenous private and voluntary organizations;
 
-&emsp;“(2) each of the nonemergency activities described in paragraphs (2) through (6) of section 201 of such Act (7 U.S.C. 1721), including programs that provide assistance to people of any age group who are otherwise unable to meet their basic food needs (including feeding programs for the disabled, orphaned, elderly, sick and dying), are carried out; and
+&emsp;"(2) each of the nonemergency activities described in paragraphs (2) through (6) of section 201 of such Act (7 U.S.C. 1721), including programs that provide assistance to people of any age group who are otherwise unable to meet their basic food needs (including feeding programs for the disabled, orphaned, elderly, sick and dying), are carried out; and
 
-&emsp;“(3) greater flexibility is provided for program and evaluation plans so that such assistance may be developed to meet local needs, as provided for in section 202(f) of such Act (7 U.S.C. 1722(f)).
+&emsp;"(3) greater flexibility is provided for program and evaluation plans so that such assistance may be developed to meet local needs, as provided for in section 202(f) of such Act (7 U.S.C. 1722(f)).
 
-“(b)
+"(b)
 
-Other Requirements.—In providing assistance under the Food for Peace Act \[7 U.S.C. 1691 et seq.\], the Secretary of Agriculture and the Administrator of United States Agency for International Development shall ensure that commodities are provided in a manner that is consistent with sections 403(a) and (b) of such Act (7 U.S.C. 1733(a) and (b)).”
+Other Requirements.—In providing assistance under the Food for Peace Act \[7 U.S.C. 1691 et seq.\], the Secretary of Agriculture and the Administrator of United States Agency for International Development shall ensure that commodities are provided in a manner that is consistent with sections 403(a) and (b) of such Act (7 U.S.C. 1733(a) and (b))."
 
-\[Section 3001(b)(1)(A), (2)(D) of Pub. L. 110–246, which directed amendment of section 201 of Pub. L. 105–385, set out above, by substituting “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”, was executed in subsec. (b) by making the substitution for “Agriculture Trade Development and Assistance Act of 1954”, to reflect the probable intent of Congress.\]
+\[Section 3001(b)(1)(A), (2)(D) of Pub. L. 110–246, which directed amendment of section 201 of Pub. L. 105–385, set out above, by substituting "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954", was executed in subsec. (b) by making the substitution for "Agriculture Trade Development and Assistance Act of 1954", to reflect the probable intent of Congress.\]
 
 #### Authorization for Commodity Credit Corporation To Purchase and Donate Flour and Cornmeal
 

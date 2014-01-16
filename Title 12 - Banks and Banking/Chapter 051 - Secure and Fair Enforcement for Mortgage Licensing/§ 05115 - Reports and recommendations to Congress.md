@@ -16,7 +16,7 @@ The Real Estate Settlement Procedures Act of 1974, referred to in subsec. (b), i
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Director” for “Secretary” wherever appearing.
+<b>2010</b>—Pub. L. 111–203 substituted "Director" for "Secretary" wherever appearing.
 
 #### Effective Date of 2010 Amendment
 

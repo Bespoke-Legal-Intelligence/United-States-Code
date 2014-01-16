@@ -16,11 +16,11 @@ As part of the Program described in subchapter I of this chapter, the Secretary 
 
 There are authorized to be appropriated to the Secretary of Energy such sums as are necessary to carry out this section.
 
-(Pub. L. 102–194, title II, §203, Dec. 9, 1991, 105 Stat. 1600; Pub. L. 104–66, title I, §1052(j), Dec. 21, 1995, 109 Stat. 719; Pub. L. 109–58, title IX, §976(b), Aug. 8, 2005, 119 Stat. 903.)
+(Pub. L. 102–194, title II, §203, Dec. 9, 1991, 105 Stat. 1600; Pub. L. 104–66, title I, §1052(j), Dec. 21,1995, 109 Stat. 719; Pub. L. 109–58, title IX, §976(b), Aug. 8, 2005, 119 Stat. 903.)
 
 #### Amendments
 
 <b>2005</b>—Pub. L. 109–58 reenacted section catchline without change and amended text generally, substituting provisions relating to general responsibilities and authorization of appropriations for provisions relating to general responsibilities, establishment of High-Performance Computing Research and Development Collaborative Consortia, transfer of technology to private sector and others, reports on activities, and authorization of appropriations.
 
-<b>1995</b>—Subsec. (d). Pub. L. 104–66 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “Within one year after December 9, 1991, and every year thereafter, the Secretary of Energy shall transmit to the Congress a report on activities taken to carry out this chapter.”
+<b>1995</b>—Subsec. (d). Pub. L. 104–66 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "Within one year after December 9, 1991, and every year thereafter, the Secretary of Energy shall transmit to the Congress a report on activities taken to carry out this chapter."
 

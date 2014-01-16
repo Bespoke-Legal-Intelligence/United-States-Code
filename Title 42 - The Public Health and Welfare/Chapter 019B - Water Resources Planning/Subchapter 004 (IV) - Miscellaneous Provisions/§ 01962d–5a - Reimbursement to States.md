@@ -32,11 +32,11 @@ Section was enacted as part of the Flood Control Act of 1968, and not as part of
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–161, which directed the substitution of “$7,000,000” for “$5,000,000” in last sentence, was executed by making the substitution for “$5,000,000” the second place it appeared, to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (a). Pub. L. 110–161, which directed the substitution of "$7,000,000" for "$5,000,000" in last sentence, was executed by making the substitution for "$5,000,000" the second place it appeared, to reflect the probable intent of Congress.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–303, in last sentence, substituted “$5,000,000” for “$3,000,000” before “or 1 percent” and “any fiscal year.” for “any fiscal year..”
+<b>1996</b>—Subsec. (a). Pub. L. 104–303, in last sentence, substituted "$5,000,000" for "$3,000,000" before "or 1 percent" and "any fiscal year." for "any fiscal year.."
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–676 inserted before period at end “or 1 percent of the total project cost, whichever is greater; except that the amount of actual Federal reimbursement, including reductions in contributions, for such project may not exceed $5,000,000 in any fiscal year.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–676 inserted before period at end "or 1 percent of the total project cost, whichever is greater; except that the amount of actual Federal reimbursement, including reductions in contributions, for such project may not exceed $5,000,000 in any fiscal year."
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–662 substituted “$3,000,000” for “$1,000,000”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–662 substituted "$3,000,000" for "$1,000,000".
 

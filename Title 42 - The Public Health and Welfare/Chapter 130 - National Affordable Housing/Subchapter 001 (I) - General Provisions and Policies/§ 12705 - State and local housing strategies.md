@@ -4,13 +4,13 @@
 
 The Secretary shall provide assistance directly to a jurisdiction only if—
 
-&emsp;(1) the jurisdiction submits to the Secretary a comprehensive housing affordability strategy (hereafter in this section referred to as the “housing strategy”);
+&emsp;(1) the jurisdiction submits to the Secretary a comprehensive housing affordability strategy (hereafter in this section referred to as the "housing strategy");
 
 &emsp;(2) the jurisdiction submits annual updates of the housing strategy; and
 
 &emsp;(3) the housing strategy, and any annual update of such strategy, is approved by the Secretary.
 
-> The Secretary shall establish such dates and manner for the submission and approval of housing strategies under this section that the Secretary determines will facilitate orderly program management by jurisdictions and provide for timely investment or other use of funds made available under subchapter II of this chapter and other programs requiring submission of a housing strategy. If the Secretary finds there is good cause, the Secretary may provide reasonable extensions of any deadlines for submission of a jurisdiction's housing strategy.
+> The Secretary shall establish such dates and manner for the submission and approval of housing strategies under this section that the Secretary determines will facilitate orderly program management by jurisdictions and providefor timely investment or other use of funds made available under subchapter II of this chapter and other programs requiring submission of a housing strategy. If the Secretary finds there is good cause, the Secretary may provide reasonable extensions of any deadlines for submission of a jurisdiction's housing strategy.
 
 #### (b) Contents
 
@@ -48,7 +48,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 &emsp;(16) include a certification that the jurisdiction has in effect and is following a residential antidisplacement and relocation assistance plan that, in any case of any such displacement in connection with any activity assisted with amounts provided under subchapter II of this chapter, requires the same actions and provides the same rights as required and provided under a residential antidisplacement and relocation assistance plan under section 104(d) of the Housing and Community Development Act of 1974 \[42 U.S.C. 5304(d)\] in the event of displacement in connection with a development project assisted under section 106 or 119 of such Act \[42 U.S.C. 5306, 5318\];
 
-&emsp;(17) estimate the number of housing units within the jurisdiction that are occupied by low-income families or very low-income families and that contain lead-based paint hazards, as defined in section 4851b of this title, outlinethe actions proposed or being taken to evaluate and reduce lead-based paint hazards, and describe how lead-based paint hazard reduction will be integrated into housing policies and programs;
+&emsp;(17) estimate the number of housing units within the jurisdiction that are occupied by low-income families or very low-income families and that contain lead-based paint hazards, as defined in section 4851b of this title, outline the actions proposed or being taken to evaluate and reduce lead-based paint hazards, and describe how lead-based paint hazard reduction will be integrated into housing policies and programs;
 
 &emsp;(18) include the number of families to whom the jurisdiction will provide affordable housing as defined in section 12745 of this title using funds made available;
 
@@ -88,17 +88,17 @@ The Secretary may establish such requirements as the Secretary deems appropriate
 
 #### (f) Barrier removal
 
-Not later than 4 months after completion of the final report of the Secretary's Advisory Commission on Regulatory Barriers to Affordable Housing, the Secretary shall submit to the Congress a written report outlining the Secretary's recommendations for legislative and administrative actions to facilitate the removal or modification of excessive, duplicative, or unnecessary regulations or other requirements of Federal, State, or local governments that (1) inflate the costs of or otherwise inhibit the construction, rehabilitation, or management of housing, particularly housing that otherwise could be affordable to low-income and moderate-income families, or (2) contribute to economic or racial discrimination.
+Not later than 4 months after completion of the final report of the Secretary's AdvisoryCommission on Regulatory Barriers to Affordable Housing, the Secretary shall submit to the Congress a written report outlining the Secretary's recommendations for legislative and administrative actions to facilitate the removal or modification of excessive, duplicative, or unnecessary regulations or other requirements of Federal, State, or local governments that (1) inflate the costs of or otherwise inhibit the construction, rehabilitation, or management of housing, particularly housing that otherwise could be affordable to low-income and moderate-income families, or (2) contribute to economic or racial discrimination.
 
 #### (g) Treatment of troubled public housing agencies
 
 #### (1) Effect of troubled status on CHAS
 
-&emsp;The comprehensive housing affordability strategy (or any consolidated plan incorporating such strategy) for the State or unit of general local government in which any troubledpublic housing agency is located shall not be considered to comply with the requirements under this section unless such plan includes a description of the manner in which the State or unit will provide financial or other assistance to such troubled agency in improving its operations to remove such designation.
+&emsp;The comprehensive housing affordability strategy (or any consolidated plan incorporating such strategy) for the State or unit of general local government in which any troubled public housing agency is located shall not be considered to comply with the requirements under this section unless such plan includes a description of the manner in which the State or unit will provide financial or other assistance to such troubled agency in improving its operations to remove such designation.
 
 #### (2) Definition
 
-&emsp;For purposes of this subsection, the term “troubled public housing agency” means a public housing agency that, upon the effective date of the Quality Housing and Work Responsibility Act of 1998, is designated under section 6(j)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437d(j)(2)\] as a troubled public housing agency.
+&emsp;For purposes of this subsection, the term "troubled public housing agency" means a public housing agency that, upon the effective date of the Quality Housing and Work Responsibility Act of 1998, is designated under section 6(j)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437d(j)(2)\] as a troubled public housing agency.
 
 (Pub. L. 101–625, title I, §105, Nov. 28, 1990, 104 Stat. 4088; Pub. L. 102–550, title II, §220, title VI, §681, title X, §1014, title XII, §1206, Oct. 28, 1992, 106 Stat. 3761, 3830, 3908, 3940; Pub. L. 105–276, title V, §§568, 583, Oct. 21, 1998, 112 Stat. 2634, 2644; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 109–162, title VI, §604, Jan. 5, 2006, 119 Stat. 3040.)
 
@@ -116,9 +116,9 @@ The effective date of the Quality Housing and Work Responsibility Act of 1998, r
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(1). Pub. L. 109–162 inserted “victims of domestic violence, dating violence, sexual assault, and stalking” after “immunodeficiency syndrome,”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–162 inserted "victims of domestic violence, dating violence, sexual assault, and stalking" after "immunodeficiency syndrome,".
 
-<b>2000</b>—Subsec. (b)(7). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
+<b>2000</b>—Subsec. (b)(7). Pub. L. 106–400 substituted "McKinney-Vento Homeless Assistance Act" for "Stewart B. McKinney Homeless Assistance Act".
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–276, §583(1), transferred flush provisions relating to abbreviated housing strategies to end of subsection to follow last numbered paragraph.
 
@@ -126,9 +126,9 @@ Subsec. (b)(11) to (15). Pub. L. 105–276, §583(6), (7), added par. (11) and r
 
 Subsec. (b)(16). Pub. L. 105–276, §583(6), redesignated par. (15) as (16). Former par. (16), relating to housing units that contain lead-based paint hazards, redesignated (17), and former par. (16), relating to number of families to whom jurisdiction will provide affordable housing, redesignated (18).
 
-Pub. L. 105–276, §583(5)(A), substituted “programs;” for “programs.” in par. (16) relating to housing units that contain lead-based paint hazards.
+Pub. L. 105–276, §583(5)(A), substituted "programs;" for "programs." in par. (16) relating to housing units that contain lead-based paint hazards.
 
-Pub. L. 105–276, §583(4)(A), struck out “and” at end of par. (16) relating to number of families to whom jurisdiction will provide affordable housing.
+Pub. L. 105–276, §583(4)(A), struck out "and" at end of par. (16) relating to number of families to whom jurisdiction will provide affordable housing.
 
 Subsec. (b)(17). Pub. L. 105–276, §583(5)(B), redesignated par. (16), relating to housing units that contain lead-based paint hazards, as (17). Former par. (17), relating to reducing the number of households within a jurisdiction with incomes below the poverty line, redesignated (19), and former par. (17), relating to activities to enhance coordination, redesignated (20).
 
@@ -140,11 +140,11 @@ Subsec. (b)(20). Pub. L. 105–276, §583(2), redesignated par. (17), relating t
 
 Subsec. (g). Pub. L. 105–276, §568, added subsec. (g).
 
-<b>1992</b>—Subsec. (b)(1). Pub. L. 102–550, §681(1), inserted “persons with disabilities,” after “the elderly,”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–550, §681(1), inserted "persons with disabilities," after "the elderly,".
 
-Subsec. (b)(2). Pub. L. 102–550, §220(a), inserted “, including rural homelessness,” after “extent of homelessness” and “including tabular representation of such information,” after “with homelessness,”.
+Subsec. (b)(2). Pub. L. 102–550, §220(a), inserted ", including rural homelessness," after "extent of homelessness" and "including tabular representation of such information," after "with homelessness,".
 
-Subsec. (b)(4). Pub. L. 102–550, §1206, inserted before semicolon at end “, except that, if a State requires a unit of general local government to submit a regulatory barrier assessment that is substantially equivalent to the information required under this paragraph, as determined by the Secretary, the unit of general local government may submit its assessment submitted to the State to the Secretary and shall be considered to have complied with this paragraph”.
+Subsec. (b)(4). Pub. L. 102–550, §1206, inserted before semicolon at end ", except that, if a State requires a unit of general local government to submit a regulatory barrier assessment that is substantially equivalent to the information required under this paragraph, as determined by the Secretary, the unit of general local government may submit its assessment submitted to the State to the Secretary and shall be considered to have complied with this paragraph".
 
 Subsec. (b)(8). Pub. L. 102–550, §220(c)(2), added par. (8). Former par. (8) redesignated (9).
 
@@ -152,7 +152,7 @@ Subsec. (b)(9) to (13). Pub. L. 102–550, §220(c)(1), redesignated pars. (8) t
 
 Subsec. (b)(14). Pub. L. 102–550, §220(c)(1), redesignated par. (13) as (14). Former par. (14) redesignated (15).
 
-Pub. L. 102–550, §220(b)(1), added par. (14) and struck out former par. (14) which read as follows: “include a certification that the jurisdiction is in compliance with a residential antidisplacement and relocation assistance plan under section 104(d) of the Housing and Community Development Act of 1974 (to the extent that such a plan applies to the jurisdiction); and”.
+Pub. L. 102–550, §220(b)(1), added par. (14) and struck out former par. (14) which read as follows: "include a certification that the jurisdiction is in compliance with a residential antidisplacement and relocation assistance plan under section 104(d) of the Housing and Community Development Act of 1974 (to the extent that such a plan applies to the jurisdiction); and".
 
 Subsec. (b)(15). Pub. L. 102–550, §220(c)(1), redesignated par. (14) as (15). Former par. (15) redesignated (16).
 
@@ -162,7 +162,7 @@ Pub. L. 102–550, §220(c)(1), redesignated par. (15) as (16). Former par. (16)
 
 Pub. L. 102–550, §220(b)(3), added at end par. (16) relating to reducing the number of households within a jurisdiction with incomes below the poverty line.
 
-Subsec. (b)(17). Pub. L. 102–550, §681(2), which directed amendment of subsec. (b) by adding “after paragraph (16), as added by the preceding provisions of this Act”, a new par. (17) relating to activities to enhance coordination, was executed by adding that par. (17) after par. (17) (formerly par. (16), relating to reducing the number of households within a jurisdiction with incomes below the poverty line, to reflect the probable intent of Congress.
+Subsec. (b)(17). Pub. L. 102–550, §681(2), which directed amendment of subsec. (b) by adding "after paragraph (16), as added by the preceding provisions of this Act", a new par. (17) relating to activities to enhance coordination, was executed by adding that par. (17) after par. (17) (formerly par. (16), relating to reducing the number of households within a jurisdiction with incomes below the poverty line, to reflect the probable intent of Congress.
 
 Pub. L. 102–550, §220(c)(1), redesignated par. (16), relating to reducing the number of households within a jurisdiction with incomes below the poverty line, as (17).
 
@@ -178,5 +178,5 @@ Amendment by section 220 of Pub. L. 102–550 applicable to unexpended funds all
 
 Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expiration of 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraphs”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraphs".</i>
 

@@ -14,5 +14,5 @@ The Employee Retirement Income Security Act of 1974, referred to in text, is Pub
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–432 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The provisions of section 4301 of the Employee Retirement Income Security Act of 1974 shall apply to any claim arising out of an obligation to pay any amount required to be paid by this chapter in the same manner as any claim arising out of an obligation to pay withdrawal liability under subtitle E of title IV of such Act. For purposes of the preceding sentence, a signatory operator and related persons shall be treated in the same manner as employers.”
+<b>2006</b>—Pub. L. 109–432 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "The provisions of section 4301 of the Employee Retirement Income Security Act of 1974 shall apply to any claim arising out of an obligation to pay any amount required to be paid by this chapter in the same manner as any claim arising out of an obligation to pay withdrawal liability under subtitle E of title IV of such Act. For purposes of the preceding sentence, a signatory operator and related persons shall be treated in the same manner as employers."
 

@@ -32,7 +32,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If transfers under subparagraphs (B) and (C) cannot be accomplished during the periods specified in those subparagraphs, the county committee of the Farm Service Agency for the applicable county shall place the acreage base in a pool for possible assignment to other farms.
+&emsp;&emsp;&emsp;If transfers under subparagraphs (B) and (C) cannot be accomplished during the periods specified in those subparagraphs, the county committee of the Farm ServiceAgency for the applicable county shall place the acreage base in a pool for possible assignment to other farms.
 
 #### (ii) Acceptance of requests
 
@@ -66,7 +66,7 @@ If for reasons beyond the control of a producer on a farm, the producer is unabl
 
 #### (c) Revisions of allocations and proportionate shares
 
-The Secretary, after such notice as the Secretary by regulation may prescribe, may revise or amend any allocation of a marketing allotment under section 1359dd of this title, or any proportionate share established or adjusted for afarm under section 1359ff(c) of this title, on the same basis as the initial allocation or proportionate share was required to be established.
+The Secretary, after such notice as the Secretary by regulation may prescribe, may revise or amend any allocation of a marketing allotment under section 1359dd of this title, or any proportionate share established or adjusted for a farm under section 1359ff(c) of this title, on the same basis as the initial allocation or proportionate share was required to be established.
 
 #### (d) Transfers of mill allocations
 
@@ -94,15 +94,15 @@ A prior section 1359gg, act Feb. 16, 1938, ch. 30, title III, §359g, as added P
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §1403(g)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “For the purpose of establishing proportionate shares for sugarcane farms under section 1359ff(c) of this title, the Secretary, on application of any producer, with the written consent of all owners of a farm, may transfer the acreage base history of the farm to any other parcels of land of the applicant.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §1403(g)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "For the purpose of establishing proportionate shares for sugarcane farms under section 1359ff(c) of this title, the Secretary, on application of any producer, with the written consent of all owners of a farm, may transfer the acreage base history of the farm to any other parcels of land of the applicant."
 
-Subsec. (d)(1). Pub. L. 110–246, §1403(g)(2)(A), inserted “affected” before “crop-share owners” in two places and struck out “, and from the processing company holding the applicable allocation for such shares,” before “may deliver”.
+Subsec. (d)(1). Pub. L. 110–246, §1403(g)(2)(A), inserted "affected" before "crop-share owners" in two places and struck out ", and from the processing company holding the applicable allocation for such shares," before "may deliver".
 
-Subsec. (d)(2). Pub. L. 110–246, §1403(g)(2)(B), struck out “the product of” after “based on” in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
+Subsec. (d)(2). Pub. L. 110–246, §1403(g)(2)(B), struck out "the product of" after "based on" in introductory provisions, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which read as follows:
 
-“(A) the number of acres of proportionate shares being transferred; and
+"(A) the number of acres of proportionate shares being transferred; and
 
-“(B) the State's per acre yield goal established under section 1359ff(c)(3) of this title.”
+"(B) the State's per acre yield goal established under section 1359ff(c)(3) of this title."
 
 #### Effective Date of 2008 Amendment
 

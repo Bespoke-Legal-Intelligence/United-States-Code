@@ -20,11 +20,11 @@ In the case of a System institution that requests certification under section 22
 
 &emsp;(5) require the institution to obtain approval from the Assistance Board before setting the policy on credit standards to be used, and the policy on rates of interest to be charged on loans, by the institution, including requiring that—
 
-&emsp;&emsp;(A) the institution set interest rates at levels necessary to ensure that the cost of money to the institution reflects the marginal cost to the institution of borrowing an additional amount of money at the time a new loan is made; and
+&emsp;&emsp;(A) the institution set interest rates at levels necessary to ensure that the cost ofmoney to the institution reflects the marginal cost to the institution of borrowing an additional amount of money at the time a new loan is made; and
 
 &emsp;&emsp;(B) loans primarily secured by real estate mortgages not exceed 85 percent of the appraised agricultural value of the real estate security, or 75 percent of the then current market value of the real estate security, whichever is greater;
 
-&emsp;(6) require the institution to obtain approval from the Assistance Board for the design ofmanagement information and accounting systems at the institution, and of the continued use by the institution of regulatory accounting practices in accordance with sections 2159(b) and 2254(b) of this title;
+&emsp;(6) require the institution to obtain approval from the Assistance Board for the design of management information and accounting systems at the institution, and of the continued use by the institution of regulatory accounting practices in accordance with sections 2159(b) and 2254(b) of this title;
 
 &emsp;(7) require that the plans and policies of the institution resulting from the merger of System banks reduce the overhead costs of such institution, to the maximum extent practicable, with respect to the delivery of services to, and performance of duties for, System associations in the district;
 
@@ -64,15 +64,15 @@ During the 5-year period beginning on January 6, 1988, the Assistance Board, in 
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a)(8)(B). Pub. L. 101–624 struck out before semicolon at end “notwithstanding the authority of the Farm Credit Administration to approve such matters”.
+<b>1990</b>—Subsec. (a)(8)(B). Pub. L. 101–624 struck out before semicolon at end "notwithstanding the authority of the Farm Credit Administration to approve such matters".
 
-<b>1988</b>—Subsec. (a)(8)(B). Pub. L. 100–399, §201(f), struck out “under sections 2226 and 2252(a)(15) of this title” after “such matters”.
+<b>1988</b>—Subsec. (a)(8)(B). Pub. L. 100–399, §201(f), struck out "under sections 2226 and 2252(a)(15) of this title" after "such matters".
 
-Subsec. (a)(9). Pub. L. 100–399, §201(g), struck out “may” before “suspend”.
+Subsec. (a)(9). Pub. L. 100–399, §201(g), struck out "may" before "suspend".
 
-Subsec. (b)(1). Pub. L. 100–399, §201(h), substituted “(a)(9)” for “(a)(8)”.
+Subsec. (b)(1). Pub. L. 100–399, §201(h), substituted "(a)(9)" for "(a)(8)".
 
-Subsec. (b)(2). Pub. L. 100–399, §201(i), struck out “the appropriate provision of” after “stock under”.
+Subsec. (b)(2). Pub. L. 100–399, §201(i), struck out "the appropriate provision of" after "stock under".
 
 #### Effective Date of 1988 Amendment
 

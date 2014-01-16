@@ -34,11 +34,11 @@ In this section:
 
 #### (1) Community organization
 
-&emsp;The term “community organization” means a nonprofit organization that carries out innovative, effective initiatives to address community challenges.
+&emsp;The term "community organization" means a nonprofit organization that carries out innovative, effective initiatives to address community challenges.
 
 #### (2) Covered entity
 
-&emsp;The term “covered entity” means—
+&emsp;The term "covered entity" means—
 
 &emsp;&emsp;(A) an existing grantmaking institution (existing as of the date on which the institution applies for a grant under this section); or
 
@@ -50,7 +50,7 @@ In this section:
 
 #### (3) Issue area
 
-&emsp;The term “issue area” means an area described in subsection (f)(3).
+&emsp;The term "issue area" means an area described in subsection (f)(3).
 
 #### (d) Program
 
@@ -210,7 +210,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (ii) Local government office
 
-&emsp;&emsp;&emsp;In this subparagraph, the term “local government office” means the office of the chief executive officer of a unit of general local government.
+&emsp;&emsp;&emsp;In this subparagraph, the term "local government office" means the office of the chief executive officer of a unit of general local government.
 
 #### (3) Reduction
 
@@ -238,13 +238,13 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 &emsp;&emsp;(B) data on the measurable outcomes the community organization has improved, and information on the measurable outcomes the community organization seeks to improve by replicating or expanding a proven initiative or supporting a new initiative, which shall be among the measurable outcomes that the eligible entity identified in the eligible entity's application, in accordance with subsection (g)(4)(C);
 
-&emsp;&emsp;(C) an identification of the community in which the community organization proposes to carry out an initiative, which shall be within a local geographical area described in the eligible entity's application in accordance with subparagraph (A) or (B) of subsection (g)(3), as applicable;
+&emsp;&emsp;(C) an identification of the community in which the community organization proposes to carry out an initiative, which shall be within a local geographical area described inthe eligible entity's application in accordance with subparagraph (A) or (B) of subsection (g)(3), as applicable;
 
 &emsp;&emsp;(D) a description of the evidence-based decisionmaking strategies the community organization uses to improve the measurable outcomes, including—
 
 &emsp;&emsp;&emsp;(i) use of evidence produced by prior rigorous evaluations of program effectiveness including, where available, well-implemented randomized controlled trials; or
 
-&emsp;&emsp;&emsp;(ii) a well-articulated plan to conduct, or partner with a research organization toconduct, rigorous evaluations to assess the effectiveness of initiatives addressing national or local challenges;
+&emsp;&emsp;&emsp;(ii) a well-articulated plan to conduct, or partner with a research organization to conduct, rigorous evaluations to assess the effectiveness of initiatives addressing national or local challenges;
 
 &emsp;&emsp;(E) a description of how the community organization uses data to analyze and improve its initiatives;
 
@@ -312,7 +312,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### (B) Technical assistance
 
-&emsp;&emsp;The Corporation shall, directly or through contract, provide technical assistance to the eligible entities and community organizations that receive grants under subsections (d) and (l).
+&emsp;&emsp;The Corporation shall, directly or through contract, provide technical assistance to theeligible entities and community organizations that receive grants under subsections (d) and (l).
 
 #### (C) Knowledge management
 
@@ -326,7 +326,7 @@ In selecting eligible entities to receive grants under subsection (d), the Corpo
 
 #### Prior Provisions
 
-A prior section 12653k, Pub. L. 101–610, title I, §195K, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2531, which set out other departments’ responsibilities to the Corps, was renumbered section 162 of Pub. L. 101–610 and transferred to section 12622 of this title.
+A prior section 12653k, Pub. L. 101–610, title I, §195K, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2531, which set out other departments' responsibilities to the Corps, was renumbered section 162 of Pub. L. 101–610 and transferred to section 12622 of this title.
 
 Prior sections 12653l to 12653n were renumbered by section 104(b) of Pub. L. 103–82 and transferred as follows:
 

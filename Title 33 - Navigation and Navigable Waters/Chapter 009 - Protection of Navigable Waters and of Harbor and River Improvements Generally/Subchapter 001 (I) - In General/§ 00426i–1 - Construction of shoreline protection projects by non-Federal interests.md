@@ -58,9 +58,9 @@ The Secretary is authorized to complete and transmit to the appropriate non-Fede
 
 #### Amendments
 
-<b>1996</b>—Subsec. (e)(1)(A). Pub. L. 104–303 inserted before semicolon “and enters into a written agreement with the non-Federal interest with respect to the project or separable element (including the terms of cooperation)”.
+<b>1996</b>—Subsec. (e)(1)(A). Pub. L. 104–303 inserted before semicolon "and enters into a written agreement with the non-Federal interest with respect to the project or separable element (including the terms of cooperation)".
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 3 of Pub. L. 102–580, set out as a note under section 2201 of this title.
 

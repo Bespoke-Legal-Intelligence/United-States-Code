@@ -6,7 +6,7 @@ It shall be the policy of the United States—
 
 &emsp;(2) to offer refugee status or political asylum in the United States to political dissidents in Iran if requested and consistent with the laws and national security interests of the United States;
 
-&emsp;(3) to offer to assist, through the United Nations High Commissioner for Refugees, with the relocation of such political prisoners to other countries if requested, as appropriate and with appropriate consideration for the national security interests of the United States; and
+&emsp;(3) to offer to assist, through the United Nations High Commissioner for Refugees, withthe relocation of such political prisoners to other countries if requested, as appropriate and with appropriate consideration for the national security interests of the United States; and
 
 &emsp;(4) to publicly call for the release of Iranian dissidents by name and raise awareness with respect to individual cases of Iranian dissidents and prisoners of conscience, as appropriate and if requested by the dissidents or prisoners themselves or their families.
 

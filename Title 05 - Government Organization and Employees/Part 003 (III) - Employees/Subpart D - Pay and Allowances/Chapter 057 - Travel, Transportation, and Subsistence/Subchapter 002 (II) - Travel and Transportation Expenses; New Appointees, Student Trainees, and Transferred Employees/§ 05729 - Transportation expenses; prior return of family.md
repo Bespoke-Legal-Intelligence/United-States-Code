@@ -1,6 +1,6 @@
 ### §5729. Transportation expenses; prior return of family
 
-(a) Under regulations prescribed under section 5738 of this title, an agency shall pay from its appropriations, not more than once before the return to the United States of an employee whose post of duty is outside the continental United States, the expenses of transporting his immediate family and of shipping his household goods and personal effects from his post of duty to his actual place of residence when—
+(a) Under regulations prescribed under section 5738 of this title, an agency shall pay from itsappropriations, not more than once before the return to the United States of an employee whose post of duty is outside the continental United States, the expenses of transporting his immediate family and of shipping his household goods and personal effects from his post of duty to his actual place of residence when—
 
 &emsp;(1) he has acquired eligibility for that transportation; or
 

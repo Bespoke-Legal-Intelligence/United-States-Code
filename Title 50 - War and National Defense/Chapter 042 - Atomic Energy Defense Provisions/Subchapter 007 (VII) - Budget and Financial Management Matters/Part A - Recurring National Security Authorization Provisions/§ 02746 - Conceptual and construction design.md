@@ -22,19 +22,21 @@
 
 #### (1) Authority
 
-&emsp;Within the amounts authorized by a DOE national security authorization, the Secretary may carry out construction design (including architectural and engineering services) in connection with any proposed construction project if the total estimated cost for such design does not exceed $600,000.
+&emsp;Within the amounts authorized by a DOE national security authorization, the Secretary may carry out construction design (including architectural and engineering services) in connection with any proposed construction project if the total estimated cost for such design does not exceed $1,000,000.
 
 #### (2) Limitation on availability of funds for certain projects
 
-&emsp;If the total estimated cost for construction design in connection with any construction project exceeds $600,000, funds for that design must be specifically authorized by law.
+&emsp;If the total estimated cost for construction design in connection with any construction project exceeds $1,000,000, funds for that design must be specifically authorized by law.
 
-(Pub. L. 107–314, div. D, title XLVII, §4706, formerly div. C, title XXXVI, §3625, Dec. 2, 2002, 116 Stat. 2759; renumbered div. D, title XLVII, §4706, and amended Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), (D)(ii), Nov. 24, 2003, 117 Stat. 1781.)
+(Pub. L. 107–314, div. D, title XLVII, §4706, formerly div. C, title XXXVI, §3625, Dec. 2, 2002, 116 Stat. 2759; renumbered div. D, title XLVII, §4706, and amended Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), (D)(ii), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 113–66, div. C, title XXXI, §3120, Dec. 26, 2013, 127 Stat. 1059.)
 
 #### Codification
 
 Section was formerly classified to section 7386e of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (b). Pub. L. 113–66 substituted "$1,000,000" for "$600,000" in two places.
 
 <b>2003</b>—Subsec. (a)(3)(B). Pub. L. 108–136, §3141(j)(2)(D)(ii), made technical amendment to reference in original act which appears in text as reference to section 2747 of this title.
 

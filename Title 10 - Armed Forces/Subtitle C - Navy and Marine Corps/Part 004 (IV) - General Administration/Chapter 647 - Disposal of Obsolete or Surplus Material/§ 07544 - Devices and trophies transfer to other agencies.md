@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 7, 1946, ch. 804, §4, 60 Stat. 898.
 
-The words “such \* \* \* as he may in his discretion determine” are omitted as surplusage.
+The words "such \* \* \* as he may in his discretion determine" are omitted as surplusage.
 

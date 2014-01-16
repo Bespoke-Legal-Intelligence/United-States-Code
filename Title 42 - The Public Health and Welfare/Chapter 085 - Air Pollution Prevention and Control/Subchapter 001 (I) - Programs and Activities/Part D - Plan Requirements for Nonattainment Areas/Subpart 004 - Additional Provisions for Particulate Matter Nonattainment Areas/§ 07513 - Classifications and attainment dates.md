@@ -2,13 +2,13 @@
 
 #### (a) Initial classifications
 
-Every area designated nonattainment for PM–10 pursuant to section 7407(d) of this title shall be classified at the time of such designation, by operation of law, as a moderate PM–10 nonattainment area (also referred to in this subpart as a “Moderate Area”) at the time of such designation. At the time of publication of the notice under section 7407(d)(4) of this title (relating to area designations) for each PM–10 nonattainment area, the Administrator shall publish a notice announcing the classification of such area. The provisions of section 7502(a)(1)(B) of this title (relating to lack of notice-and-comment and judicial review) shall apply with respect to such classification.
+Every area designated nonattainment for PM–10 pursuant to section 7407(d) of this title shall be classified at the time of such designation, by operation of law, as a moderate PM–10 nonattainment area (also referred to in this subpart as a "Moderate Area") at the time of such designation. At the time of publication of the notice under section 7407(d)(4) of this title (relating to area designations) for each PM–10 nonattainment area, the Administrator shall publish a notice announcing the classification of such area. The provisions of section 7502(a)(1)(B) of this title (relating to lack of notice-and-comment and judicial review) shall apply with respect to such classification.
 
 #### (b) Reclassification as Serious
 
 #### (1) Reclassification before attainment date
 
-&emsp;The Administrator may reclassify as a Serious PM–10 nonattainment area (identified inthis subpart also as a “Serious Area”) any area that the Administrator determines cannot practicably attain the national ambient air quality standard for PM–10 by the attainment date (as prescribed in subsection (c) of this section) for Moderate Areas. The Administrator shall reclassify appropriate areas as Serious by the following dates:
+&emsp;The Administrator may reclassify as a Serious PM–10 nonattainment area (identified in this subpart also as a "Serious Area") any area that the Administrator determines cannot practicably attain the national ambient air quality standard for PM–10 by the attainment date (as prescribed in subsection (c) of this section) for Moderate Areas. The Administrator shall reclassify appropriate areas as Serious by the following dates:
 
 &emsp;&emsp;(A) For areas designated nonattainment for PM–10 under section 7407(d)(4) of this title, the Administrator shall propose to reclassify appropriate areas by June 30, 1991, and take final action by December 31, 1991.
 
@@ -36,7 +36,7 @@ Except as provided under subsection (d) of this section, the attainment dates fo
 
 #### (d) Extension of attainment date for Moderate Areas
 
-Upon application by any State, the Administrator may extend for 1 additional year (hereinafter referred to as the “Extension Year”) the date specified in paragraph <sup>1</sup> (c)(1) if—
+Upon application by any State, the Administrator may extend for 1 additional year (hereinafter referred to as the "Extension Year") the date specified in paragraph <sup>1</sup> (c)(1) if—
 
 &emsp;(1) the State has complied with all requirements and commitments pertaining to the area in the applicable implementation plan; and
 
@@ -54,5 +54,5 @@ The Administrator may, on a case-by-case basis, waive any requirement applicable
 
 (July 14, 1955, ch. 360, title I, §188, as added Pub. L. 101–549, title I, §105(a), Nov. 15, 1990, 104 Stat. 2458.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

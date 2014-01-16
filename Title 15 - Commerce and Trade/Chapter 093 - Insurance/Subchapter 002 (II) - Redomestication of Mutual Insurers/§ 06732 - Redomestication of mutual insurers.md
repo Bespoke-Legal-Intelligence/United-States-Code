@@ -10,7 +10,7 @@ Upon complying with the applicable law of the transferee domicile governing tran
 
 #### (c) Licenses preserved
 
-The certificate of authority, agents’ appointments and licenses, rates, approvals and other items that a licensed State allows and that are in existence immediately prior to the date that a redomesticating insurer transfers its domicile pursuant to this subchapter shall continue in full force and effect upon transfer, if the insurer remains duly qualified to transact the business of insurance in such licensed State.
+The certificate of authority, agents' appointments and licenses, rates, approvals and other items that a licensed State allows and that are in existence immediately prior to the date that a redomesticating insurer transfers its domicile pursuant to this subchapter shall continue in full force and effect upon transfer, if the insurer remains duly qualified to transact the business of insurance in such licensed State.
 
 #### (d) Effectiveness of outstanding policies and contracts
 
@@ -42,7 +42,7 @@ No mutual insurer may redomesticate to another State and reorganize into a mutua
 
 #### (3) Award of stock or grant of options to officers and directors
 
-&emsp;During the applicable period provided for under the State law of the transferee domicile following completion of an initial public offering, or for a period of six months if no such applicable period is provided, neither a stockholding company nor the converted insurer shall award any stock options or stock grants to persons who are elected officers or directors of the mutual holding company, the stock holding company, or the converted insurer, except with respect to any such awards or options to which a person is entitled as a policyholder and as approved by the State insurance regulator of the transferee domicile.
+&emsp;During the applicable period provided for under the State law of the transferee domicile following completion of an initial public offering, or for a period of six months if no such applicable period is provided, neither a stock holding company nor the converted insurer shall award any stock options or stock grants to persons who are elected officers or directors of the mutual holding company, the stock holding company, or the converted insurer, except with respect to any such awards or options to which a person is entitled as a policyholder and as approved by the State insurance regulator of the transferee domicile.
 
 #### (4) Policyholder rights
 

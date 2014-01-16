@@ -10,7 +10,7 @@ Each State water pollution control revolving fund shall be administered by an in
 
 #### (c) Projects eligible for assistance
 
-The amounts of funds available to each State water pollution control revolving fund shall be used only for providing financial assistance (1) to any municipality, intermunicipal, interstate, or State agency for construction of publicly owned treatment works (as defined in section 1292 of this title), (2) for the implementation of a management program established under section 1329 of this title, and (3) for development and implementation of a conservation and management plan under section 1330 of this title. The fund shall be established, maintained, and credited with repayments, and the fund balance shall be available in perpetuity for providing such financial assistance.
+The amounts of funds available to each State water pollution control revolving fund shall be used only for providing financial assistance (1) to any municipality, intermunicipal, interstate, or State agency for construction of publicly owned treatment works (as defined in section1292 of this title), (2) for the implementation of a management program established under section 1329 of this title, and (3) for development and implementation of a conservation and management plan under section 1330 of this title. The fund shall be established, maintained, and credited with repayments, and the fund balance shall be available in perpetuity for providing such financial assistance.
 
 #### (d) Types of assistance
 

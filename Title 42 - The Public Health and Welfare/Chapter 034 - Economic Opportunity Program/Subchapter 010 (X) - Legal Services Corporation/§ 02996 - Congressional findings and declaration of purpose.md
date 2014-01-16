@@ -4,7 +4,7 @@ The Congress finds and declares that—
 
 &emsp;(1) there is a need to provide equal access to the system of justice in our Nation for individuals who seek redress of grievances;
 
-&emsp;(2) there is a need to provide high quality legal assistance to those who would be otherwise unable to afford adequate legal counsel and to continue the present vital legal services program;
+&emsp;(2) there is a need to provide high quality legal assistance to those who would be otherwise unable to afford adequate legal counseland to continue the present vital legal services program;
 
 &emsp;(3) providing legal assistance to those who face an economic barrier to adequate legal counsel will serve best the ends of justice and assist in improving opportunities for low-income persons consistent with the purposes of this chapter;
 
@@ -22,9 +22,9 @@ The Congress finds and declares that—
 
 #### Effective Date of 1977 Amendment
 
-Pub. L. 95–222, §17(b), Dec. 28, 1977, 91 Stat. 1624, provided that: “The amendments made by provisions of this Act other than sections 11 and 15 \[amending this section and sections 2996c, 2996e, 2996f, 2996g, 2996h, 2996i, and 2996j of this title\] shall be effective on the date of enactment of this Act \[Dec. 28, 1977\].”
+Pub. L. 95–222, §17(b), Dec. 28, 1977, 91 Stat. 1624, provided that: "The amendments made by provisions of this Act other than sections 11 and 15 \[amending this section and sections 2996c, 2996e, 2996f, 2996g, 2996h, 2996i, and 2996j of this title\] shall be effective on the date of enactment of this Act \[Dec. 28, 1977\]."
 
 #### Short Title
 
-This subchapter is known as the “Legal Services Corporation Act”, see Short Title note set out under section 2701 of this title.
+This subchapter is known as the "Legal Services Corporation Act", see Short Title note set out under section 2701 of this title.
 

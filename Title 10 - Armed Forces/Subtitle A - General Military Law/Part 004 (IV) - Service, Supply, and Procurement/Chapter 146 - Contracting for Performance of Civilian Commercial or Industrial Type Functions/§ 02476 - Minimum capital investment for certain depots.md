@@ -30,7 +30,7 @@ Annual Report.—(1) Not later than 45 days after the date on which the Presiden
 
 (e)
 
-Covered Depot.—In this section, the term “covered depot” means any of the following:
+Covered Depot.—In this section, the term "covered depot" means any of the following:
 
 &emsp;(1) With respect to the Department of the Army:
 
@@ -88,11 +88,11 @@ Covered Depot.—In this section, the term “covered depot” means any of the 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–81, §325(1), inserted “maintenance, repair, and overhaul” after “combined”.
+<b>2011</b>—Subsec. (a). Pub. L. 112–81, §325(1), inserted "maintenance, repair, and overhaul" after "combined".
 
-Subsec. (b). Pub. L. 112–81, §325(2), substituted “includes investment funds spent to modernize or improve the efficiency of depot facilities, equipment, work environment, or processes in direct support” for “includes investment funds spent on depot infrastructure, equipment, and process improvement in direct support” and inserted “, but does not include funds spent for sustainment of existing facilities, infrastructure, or equipment” before period at end.
+Subsec. (b). Pub. L. 112–81, §325(2), substituted "includes investment funds spent to modernize or improve the efficiency of depot facilities, equipment, work environment, or processes in direct support" for "includes investment funds spent on depot infrastructure, equipment, and process improvement in direct support" and inserted ", but does not include funds spent for sustainment of existing facilities, infrastructure, or equipment" before period at end.
 
-Subsec. (d)(2)(D). Pub. L. 111–383 substituted “Navy depots” for “Navy Depots”.
+Subsec. (d)(2)(D). Pub. L. 111–383 substituted "Navy depots" for "Navy Depots".
 
 Subsec. (d)(2)(E). Pub. L. 112–81, §325(3), which directed addition of subpar. (E) at end of subsec. (d), was executed by adding subpar. (E) at end of par. (2) of subsec. (d) to reflect the probable intent of Congress.
 
@@ -106,21 +106,21 @@ Subsec. (e)(2). Pub. L. 110–417, §327(b)(2), inserted introductory provisions
 
 #### Effective Date
 
-Pub. L. 109–364, div. A, title III, §332(c), Oct. 17, 2006, 120 Stat. 2150, provided that: “Section 2476 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2006.”
+Pub. L. 109–364, div. A, title III, §332(c), Oct. 17, 2006, 120 Stat. 2150, provided that: "Section 2476 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2006."
 
 #### Two Year Phase-in for Departments of the Army and the Navy
 
 Pub. L. 109–364, div. A, title III, §332(d), Oct. 17, 2006, 120 Stat. 2150, provided that:
 
-“(1)
+"(1)
 
 Reduced percentage of required investment for fiscal years 2007 and 2008.—The Secretary of the Army shall apply subsection (a) of section 2476 of title 10, United States Code, as added by subsection (a), to the covered depots of the Army, and the Secretary of the Navy shall apply such subsection to the covered depots of the Department of the Navy—
 
-&emsp;“(A) for fiscal year 2007, by substituting ‘four percent’ for ‘six percent’; and
+&emsp;"(A) for fiscal year 2007, by substituting 'four percent' for 'six percent'; and
 
-&emsp;“(B) for fiscal year 2008, by substituting ‘five percent’ for ‘six percent’.
+&emsp;"(B) for fiscal year 2008, by substituting 'five percent' for 'six percent'.
 
-“(2)
+"(2)
 
-Covered depots.—In this subsection, the term ‘covered depot’ has the meaning given that term in subsection (e) of section 2476 of title 10, United States Code, as added by subsection (a).”
+Covered depots.—In this subsection, the term 'covered depot' has the meaning given that term in subsection (e) of section 2476 of title 10, United States Code, as added by subsection (a)."
 

@@ -30,13 +30,13 @@ Section was enacted as part of the Federal Fire Prevention and Control Act of 19
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 112–239 substituted “Administrator of FEMA” for “Director” in introductory provisions.
+<b>2013</b>—Subsec. (a). Pub. L. 112–239 substituted "Administrator of FEMA" for "Director" in introductory provisions.
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–503 substituted “in cooperation with the Director” for “in cooperation with the Secretary”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–503 substituted "in cooperation with the Director" for "in cooperation with the Secretary".
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Transfer of Functions
 

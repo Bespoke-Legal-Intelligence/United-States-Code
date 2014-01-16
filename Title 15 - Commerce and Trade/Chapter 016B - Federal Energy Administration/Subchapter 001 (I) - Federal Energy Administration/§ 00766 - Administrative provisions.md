@@ -28,13 +28,13 @@ Effective beginning July 1, 1977, amounts authorized to be appropriated under th
 
 #### References in Text
 
-The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (c), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of this title, was omitted from the Code pursuant to section 760g of this title, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
+The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (c), is Pub. L. 93–159, Nov. 27, 1973, 87 Stat. 628, as amended, which was classified generally to chapter 16A (§751 et seq.) of this title, was omittedfrom the Code pursuant to section 760g of this title, which provided for the expiration of the President's authority under that chapter on Sept. 30, 1981.
 
 #### Amendments
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–91, §709(a)(2)(A), struck out subsec. (a) provisions: for appointment, employment, and compensation of officers and employees; for prescription of their authority and duties; for placement of specified number of positions in GS–16, 17, and 18 and making competitive service provisions inapplicable to a limited number of such positions; and making classification standards and procedures applicable to the authority provided for in this section and for duration of such authority; and redesignated subsec. (c) as (a).
 
-Subsec. (b). Pub. L. 95–91, §709(a)(2)(A), (C)–(E), struck out subsec. (b) provisions respecting employment and compensation of experts and consultants, redesignated subsec. (i)(1)(D) as (b), and substituted therein “any rule or regulation, or any order having the applicability and effect of a rule as defined in section 551(4) of title 5 pursuant to this chapter” for “the rules, regulations, or orders described in paragraph (A)” and “subsection (c) of this section” for “paragraph (2) of this subsection”.
+Subsec. (b). Pub. L. 95–91, §709(a)(2)(A), (C)–(E), struck out subsec. (b) provisions respecting employment and compensation of experts and consultants, redesignated subsec. (i)(1)(D) as (b), and substituted therein "any rule or regulation, or any order having the applicability and effect of a rule as defined in section 551(4) of title 5 pursuant to this chapter" for "the rules, regulations, or orders described in paragraph (A)" and "subsection (c) of this section" for "paragraph (2) of this subsection".
 
 Subsec. (c). Pub. L. 95–91, §709(a)(2)(F), redesignated subsec. (i)(2)(A) as (c). Former subsec. (c) redesignated (a).
 

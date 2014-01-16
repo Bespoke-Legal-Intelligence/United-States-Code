@@ -6,11 +6,11 @@ The Farm Credit Administration and the Government Accountability Office are here
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>1981</b>—Pub. L. 97–35 substituted provisions relating to examination and audit by the Farm Credit Administration and the General Accounting Office, for provisions relating to annual examinations and audits by an agency or instrumentality of the Federal Government designated by the President.
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–35, title III, §394(a)(2), Aug. 13, 1981, 95 Stat. 436, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\].” For definition of “Final Government Equity Redemption Date”, see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
+Pub. L. 97–35, title III, §394(a)(2), Aug. 13, 1981, 95 Stat. 436, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the day after the Final Government Equity Redemption Date \[Dec. 31, 1981\]." For definition of "Final Government Equity Redemption Date", see section 396(a) of Pub. L. 97–35, set out as a note under section 3012 of this title.
 

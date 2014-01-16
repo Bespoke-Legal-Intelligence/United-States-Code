@@ -1,6 +1,6 @@
 ### §1437y. Provision of information to law enforcement and other agencies
 
-Notwithstanding any other provision of law, the Secretary shall, at least 4 times annually and upon request of the Immigration and Naturalization Service (hereafter in this section referred to as the “Service”), furnish the Service with the name and address of, and other identifying information on, any individual who the Secretary knows is not lawfully present in the United States, and shall ensure that each contract for assistance entered into under section 1437d or 1437f of this title with a public housing agency provides that the public housing agency shall furnish such information at such times with respect to any individual who the public housing agency knows is not lawfully present in the United States.
+Notwithstanding any other provision of law, the Secretary shall, at least 4 times annually and upon request of the Immigration and Naturalization Service (hereafter in this section referred to as the "Service"), furnish the Service with the name and address of, and other identifying information on, any individual who the Secretary knows is not lawfully present in the United States, and shall ensure that each contract for assistance entered into under section 1437d or 1437f of this title with a public housing agency provides that the public housing agency shall furnish such information at such times with respect to any individual who the public housing agency knows is not lawfully present in the United States.
 
 (Sept. 1, 1937, ch. 896, title I, §27, as added Pub. L. 104–193, title IV, §404(d), Aug. 22, 1996, 110 Stat. 2267; amended Pub. L. 105–33, title V, §5564, Aug. 5, 1997, 111 Stat. 639.)
 
@@ -10,7 +10,7 @@ Another section 27 of act Sept. 1, 1937, was renumbered section 28, and is class
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–33 substituted “not lawfully present in the United States” for “unlawfully in the United States” in two places.
+<b>1997</b>—Pub. L. 105–33 substituted "not lawfully present in the United States" for "unlawfully in the United States" in two places.
 
 #### Effective Date of 1997 Amendment
 
@@ -18,5 +18,5 @@ Amendment by Pub. L. 105–33 effective as if included in the enactment of title
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of Title 8, Aliens and Nationality.
 

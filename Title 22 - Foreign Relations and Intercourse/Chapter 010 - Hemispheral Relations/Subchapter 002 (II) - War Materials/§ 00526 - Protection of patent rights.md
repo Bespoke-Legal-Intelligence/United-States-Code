@@ -6,9 +6,9 @@ The Secretary of the Army and the Secretary of the Navy shall in all contracts o
 
 #### Change of Name
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Secretary of the Air Force
 
-For transfer of certain procurement and related functions and property, insofar as they pertain to Air Force, from Secretary of the Army and Department of the Army to Secretary of the Air Force and Department of the Air Force, see Secretary of Defense Transfer Order Nos. 6 \[§1(a)(41)\], eff. Jan. 15, 1948; 39 \[§2zz\], May 18, 1949.
+For transfer of certain procurement and related functions and property, insofar as they pertain to AirForce, from Secretary of the Army and Department of the Army to Secretary of the Air Force and Department of the Air Force, see Secretary of Defense Transfer Order Nos. 6 \[§1(a)(41)\], eff. Jan. 15, 1948; 39 \[§2zz\], May 18, 1949.
 

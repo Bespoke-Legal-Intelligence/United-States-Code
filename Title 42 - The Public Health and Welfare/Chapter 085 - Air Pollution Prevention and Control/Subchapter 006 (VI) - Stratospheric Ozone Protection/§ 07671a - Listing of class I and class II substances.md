@@ -130,7 +130,7 @@ Simultaneously with publication of the initial list of class I substances, the A
 
 #### (c) Additions to the lists
 
-(1) The Administrator may add, by rule, in accordance with the criteria set forth in subsection (a) or (b) of this section, as the case may be, any substance to the list of class I or class II substances under subsection (a) or (b) of this section. For purposes of exchanges under section 7661f <sup>1</sup> of this title, whenever a substance isadded to the list of class I substances the Administrator shall, to the extent consistent with the Montreal Protocol, assign such substance to existing Group I, II, III, IV, or V or place such substance in a new Group.
+(1) The Administrator may add, by rule, in accordance with the criteria set forth in subsection (a) or (b) of this section, as the case may be, any substance to the list of class I or class II substances under subsection (a) or (b) of this section. For purposes of exchanges under section 7661f <sup>1</sup> of this title, whenever a substance is added to the list of class I substances the Administrator shall, to the extent consistent with the Montreal Protocol, assign such substance to existing Group I, II, III, IV, or V or place such substance in a new Group.
 
 (2) Periodically, but not less frequently than every 3 years after November 15, 1990, the Administrator shall list, by rule, as additional class I or class II substances those substances which the Administrator finds meet the criteria of subsection (a) or (b) of this section, as the case may be.
 
@@ -144,7 +144,7 @@ In the case of any substance added to the list of class I or class II substances
 
 #### (e) Ozone-depletion and global warming potential
 
-Simultaneously with publication of the lists under this section and simultaneously with any addition to either of such lists, the Administrator shall assign to each listed substance a numerical value representing the substance's ozone-depletion potential. In addition, the Administrator shall publish the chlorine and bromine loading potential and the atmospheric lifetime of each listed substance. One year after November 15, 1990 (one year after the addition of a substance to either of such lists in the case of a substance added after the publication of the initial lists of such substances), and after notice and opportunity for public comment, the Administrator shall publish the global warming potential of each listed substance. The preceding sentence shall not be construed to be the basis of any additional regulation under this chapter. In the case of the substances referred to in table 1, the ozone-depletion potential shall be as specified in table 1, unless the Administrator adjusts the substance's ozone-depletion potential based on criteria referred to in section 7671(10) of this title:
+Simultaneously with publication of the lists under this section and simultaneously with anyaddition to either of such lists, the Administrator shall assign to each listed substance a numerical value representing the substance's ozone-depletion potential. In addition, the Administrator shall publish the chlorine and bromine loading potential and the atmospheric lifetime of each listed substance. One year after November 15, 1990 (one year after the addition of a substance to either of such lists in the case of a substance added after the publication of the initial lists of such substances), and after notice and opportunity for public comment, the Administrator shall publish the global warming potential of each listed substance. The preceding sentence shall not be construed to be the basis of any additional regulation under this chapter. In the case of the substances referred to in table 1, the ozone-depletion potential shall be as specified in table 1, unless the Administrator adjusts the substance's ozone-depletion potential based on criteria referred to in section 7671(10) of this title:
 
 Table 1
 
@@ -256,5 +256,5 @@ hydrochlorofluorocarbon-142(b) (HCFC–142(b))
 
 (July 14, 1955, ch. 360, title VI, §602, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2650.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “7671f”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "7671f".</i>
 

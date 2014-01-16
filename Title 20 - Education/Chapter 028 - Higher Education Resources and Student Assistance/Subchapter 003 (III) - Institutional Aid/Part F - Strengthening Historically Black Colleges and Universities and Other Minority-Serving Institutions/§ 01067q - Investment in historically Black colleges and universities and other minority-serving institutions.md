@@ -58,7 +58,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;&emsp;&emsp;(I) activities described in paragraphs (1), (2), (4), (5), and (10) of section 1062(a) of this title; and
 
-&emsp;&emsp;&emsp;&emsp;(II) other activities, consistent with the institution's comprehensive plan and designed to increase the institution's capacity to prepare students for careers in the physical or natural sciences, mathematics, computer science or information technology or sciences, engineering, language instruction in the less-commonly taught languages or international affairs, or nursing or allied health professions; and
+&emsp;&emsp;&emsp;&emsp;(II) other activities, consistent with the institution's comprehensive plan anddesigned to increase the institution's capacity to prepare students for careers in the physical or natural sciences, mathematics, computer science or information technology or sciences, engineering, language instruction in the less-commonly taught languages or international affairs, or nursing or allied health professions; and
 
 &emsp;&emsp;&emsp;(ii) 15 percent shall be available to eligible institutions described in subsection (a)(5) and shall be available for a competitive grant program to award 25 grants of $600,000 annually for programs in any of the following areas:
 
@@ -84,7 +84,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;&emsp;(iv) $5,000,000 for such fiscal year shall be available to eligible institutions described in subsection (a)(7)—
 
-&emsp;&emsp;&emsp;&emsp;(I) to plan, develop, undertake, and carry out activities to improve and expand such institutions’ capacity to serve Native Americans, which may include—
+&emsp;&emsp;&emsp;&emsp;(I) to plan, develop, undertake, and carry out activities to improve and expand such institutions' capacity to serve Native Americans, which may include—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the purchase, rental, or lease of scientific or laboratory equipment for educational purposes, including instructional and research purposes;
 
@@ -108,11 +108,11 @@ An institution of higher education is eligible to receive funds from the amounts
 
 #### (1) Asian American
 
-&emsp;The term “Asian American” has the meaning given the term “Asian” in the Office of Management and Budget's Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity as published on October 30, 1997 (62 Fed. Reg. 58789).
+&emsp;The term "Asian American" has the meaning given the term "Asian" in the Office of Management and Budget's Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity as published on October 30, 1997 (62 Fed. Reg. 58789).
 
 #### (2) Asian American and Native American Pacific Islander-serving institution
 
-&emsp;The term “Asian American and Native American Pacific Islander-serving institution” means an institution of higher education that—
+&emsp;The term "Asian American and Native American Pacific Islander-serving institution" means an institution of higher education that—
 
 &emsp;&emsp;(A) is an eligible institution under section 1058(b) of this title; and
 
@@ -120,7 +120,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 #### (3) Enrollment of needy students
 
-&emsp;The term “enrollment of needy students” means the enrollment at an institution of higher education with respect to which not less than 50 percent of the undergraduate students enrolled in an academic program leading to a degree—
+&emsp;The term "enrollment of needy students" means the enrollment at an institution of higher education with respect to which not less than 50 percent of the undergraduate students enrolled in an academic program leading to a degree—
 
 &emsp;&emsp;(A) in the second fiscal year preceding the fiscal year for which the determination is made, were Federal Pell Grant recipients for such year;
 
@@ -130,29 +130,29 @@ An institution of higher education is eligible to receive funds from the amounts
 
 &emsp;&emsp;&emsp;(i) that is in the school district of a local educational agency that was eligible for assistance under part A of title I of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311 et seq.\] for any year during which the student attended such secondary school; and
 
-&emsp;&emsp;&emsp;(ii) which for the purpose of this paragraph and for that year was determined by the Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under a measure of poverty described in section 1113(a)(5) of such Act \[20 U.S.C. 6313(a)(5)\]exceeds 30 percent of the total enrollment of such school; or
+&emsp;&emsp;&emsp;(ii) which for the purpose of this paragraph and for that year was determined bythe Secretary (pursuant to regulations and after consultation with the State educational agency of the State in which the school is located) to be a school in which the enrollment of children counted under a measure of poverty described in section 1113(a)(5) of such Act \[20 U.S.C. 6313(a)(5)\] exceeds 30 percent of the total enrollment of such school; or
 
 &emsp;&emsp;(D) are first-generation college students (as that term is defined in section 1070a–11(h) of this title), and a majority of such first-generation college students are low-income individuals.
 
 #### (4) Low-income individual
 
-&emsp;The term “low-income individual” has the meaning given such term in section 1070a–11(h) of this title.
+&emsp;The term "low-income individual" has the meaning given such term in section 1070a–11(h) of this title.
 
 #### (5) Means-tested Federal benefit program
 
-&emsp;The term “means-tested Federal benefit program” means a program of the Federal Government, other than a program under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, in which eligibility for the programs’ benefits or the amount of such benefits are determined on the basis of income or resources of the individual or family seeking the benefit.
+&emsp;The term "means-tested Federal benefit program" means a program of the Federal Government, other than a program under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42, in which eligibility for the programs' benefits or the amount of such benefits are determined on the basis of income or resources of the individual or family seeking the benefit.
 
 #### (6) Native American
 
-&emsp;The term “Native American” means an individual who is of a tribe, people, or culture that is indigenous to the United States.
+&emsp;The term "Native American" means an individual who is of a tribe, people, or culture that is indigenous to the United States.
 
 #### (7) Native American Pacific Islander
 
-&emsp;The term “Native American Pacific Islander” means any descendant of the aboriginal people of any island in the Pacific Ocean that is a territory or possession of the United States.
+&emsp;The term "Native American Pacific Islander" means any descendant of the aboriginal people of any island in the Pacific Ocean that is a territory or possession of the United States.
 
 #### (8) Native American-serving nontribal institution
 
-&emsp;The term “Native American-serving nontribal institution” means an institution of higher education that—
+&emsp;The term "Native American-serving nontribal institution" means an institution of higher education that—
 
 &emsp;&emsp;(A) at the time of application—
 
@@ -164,7 +164,7 @@ An institution of higher education is eligible to receive funds from the amounts
 
 #### (9) Predominantly Black institution
 
-&emsp;The term “Predominantly Black institution” means an institution of higher education that—
+&emsp;The term "Predominantly Black institution" means an institution of higher education that—
 
 &emsp;&emsp;(A) has an enrollment of needy students as defined by paragraph (3);
 
@@ -206,17 +206,17 @@ Section was formerly classified to section 1099e of this title prior to renumber
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(1)(A). Pub. L. 111–152 substituted “through 2019. The authority to award grants under this section shall expire at the end of fiscal year 2019.” for “and 2009. The authority to award grants under this section shall expire at the end of fiscal year 2009.”
+<b>2010</b>—Subsec. (b)(1)(A). Pub. L. 111–152 substituted "through 2019. The authority to award grants under this section shall expire at the end of fiscal year 2019." for "and 2009. The authority to award grants under this section shall expire at the end of fiscal year 2009."
 
-<b>2009</b>—Subsec. (c)(3)(D), (4), (9)(C)(iii). Pub. L. 111–39, §301(7)(A)–(C)(i), substituted “1070a–11(h)” for “1070a–11(g)”.
+<b>2009</b>—Subsec. (c)(3)(D), (4), (9)(C)(iii). Pub. L. 111–39, §301(7)(A)–(C)(i), substituted "1070a–11(h)" for "1070a–11(g)".
 
-Subsec. (c)(9)(F). Pub. L. 111–39, §301(7)(C)(ii), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “is not receiving assistance under part B of this subchapter.”
+Subsec. (c)(9)(F). Pub. L. 111–39, §301(7)(C)(ii), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: "is not receiving assistance under part B of this subchapter."
 
-<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315, §316(c), amended par. (1) generally. Prior to amendment, text read as follows: “There shall be available to the Secretary to carry out this section, from funds not otherwise appropriated, $255,000,000 for each of the fiscal years 2008 and 2009. The authority to award grants under this section shall expire at the end of fiscal year 2009.”
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315, §316(c), amended par. (1) generally. Prior to amendment, text read as follows: "There shall be available to the Secretary to carry out this section, from funds not otherwise appropriated, $255,000,000 for each of the fiscal years 2008 and 2009. The authority to award grants under this section shall expire at the end of fiscal year 2009."
 
-Subsec. (b)(2)(C)(i). Pub. L. 110–315, §316(b)(1), substituted “this subchapter” for “subchapter III” in two places.
+Subsec. (b)(2)(C)(i). Pub. L. 110–315, §316(b)(1), substituted "this subchapter" for "subchapter III" in two places.
 
-Subsec. (c)(9)(F). Pub. L. 110–315, §316(b)(2), substituted “this subchapter” for “subchapter III”.
+Subsec. (c)(9)(F). Pub. L. 110–315, §316(b)(2), substituted "this subchapter" for "subchapter III".
 
 #### Effective Date of 2009 Amendment
 

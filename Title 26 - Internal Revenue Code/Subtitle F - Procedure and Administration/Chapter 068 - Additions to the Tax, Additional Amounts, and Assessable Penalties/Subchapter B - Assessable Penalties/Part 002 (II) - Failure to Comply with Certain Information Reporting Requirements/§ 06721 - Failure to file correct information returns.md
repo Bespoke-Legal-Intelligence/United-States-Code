@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) the penalty imposed by subsection (a) shall be $30 in lieu of $100, and
 
-&emsp;&emsp;(B) the total amount imposed on the person for all such failures during any calendaryear which are so corrected shall not exceed $250,000.
+&emsp;&emsp;(B) the total amount imposed on the person for all such failures during any calendar year which are so corrected shall not exceed $250,000.
 
 #### (2) Failures corrected on or before August 1
 
@@ -60,11 +60,11 @@
 
 &emsp;If any person meets the gross receipts test of paragraph (2) with respect to any calendar year, with respect to failures during such calendar year—
 
-&emsp;&emsp;(A) subsection (a)(1) shall be applied by substituting “$500,000” for “$1,500,000”,
+&emsp;&emsp;(A) subsection (a)(1) shall be applied by substituting "$500,000" for "$1,500,000",
 
-&emsp;&emsp;(B) subsection (b)(1)(B) shall be applied by substituting “$75,000” for “$250,000”, and
+&emsp;&emsp;(B) subsection (b)(1)(B) shall be applied by substituting "$75,000" for "$250,000", and
 
-&emsp;&emsp;(C) subsection (b)(2)(B) shall be applied by substituting “$200,000” for “$500,000”.
+&emsp;&emsp;(C) subsection (b)(2)(B) shall be applied by substituting "$200,000" for "$500,000".
 
 #### (2) Gross receipts test
 
@@ -106,7 +106,7 @@ If 1 or more failures described in subsection (a)(2) are due to intentional disr
 
 #### (1) In general
 
-&emsp;For each fifth calendar year beginning after 2012, each of the dollar amounts under subsections (a), (b), (d) (other than paragraph (2)(A) thereof), and (e) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2011” for “calendar year 1992” in subparagraph (B) thereof.
+&emsp;For each fifth calendar year beginning after 2012, each of the dollar amounts under subsections (a), (b), (d) (other than paragraph (2)(A) thereof), and (e) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting "calendar year 2011" for "calendar year 1992" in subparagraph (B) thereof.
 
 #### (2) Rounding
 
@@ -116,45 +116,45 @@ If 1 or more failures described in subsection (a)(2) are due to intentional disr
 
 &emsp;&emsp;(B) is not described in subparagraph (A) and is not a multiple of $10, such amount shall be rounded to the next lowest multiple of $10.
 
-(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2732; amended Pub. L. 100–690, title VII, §7601(a)(2)(A), Nov. 18, 1988, 102 Stat. 4503; Pub. L. 101–239, title VII, §7711(a), Dec. 19, 1989, 103 Stat. 2388; Pub. L. 101–508, title XI, §11318(b), Nov. 5, 1990, 104 Stat. 1388–459; Pub. L. 109–280, title XII, §1211(b)(2), Aug. 17, 2006, 120 Stat. 1073;Pub. L. 111–240, title II, §2102(a)–(f), Sept. 27, 2010, 124 Stat. 2561, 2562.)
+(Added Pub. L. 99–514, title XV, §1501(a), Oct. 22, 1986, 100 Stat. 2732; amended Pub. L. 100–690, title VII, §7601(a)(2)(A), Nov. 18, 1988, 102 Stat. 4503; Pub. L. 101–239, title VII, §7711(a), Dec. 19, 1989, 103 Stat. 2388; Pub. L. 101–508, title XI, §11318(b), Nov. 5, 1990, 104 Stat. 1388–459; Pub. L. 109–280, title XII, §1211(b)(2), Aug. 17, 2006, 120 Stat. 1073; Pub. L. 111–240, title II, §2102(a)–(f), Sept. 27, 2010, 124 Stat. 2561, 2562.)
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–240, §2102(a), substituted “$100” for “$50” and “$1,500,000” for “$250,000”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–240, §2102(a), substituted "$100" for "$50" and "$1,500,000" for "$250,000".
 
-Subsec. (b)(1)(A). Pub. L. 111–240, §2102(a)(1), (b)(1), substituted “$30” for “$15” and “$100” for “$50”.
+Subsec. (b)(1)(A). Pub. L. 111–240, §2102(a)(1), (b)(1), substituted "$30" for "$15" and "$100" for "$50".
 
-Subsec. (b)(1)(B). Pub. L. 111–240, §2102(b)(2), substituted “$250,000” for “$75,000”.
+Subsec. (b)(1)(B). Pub. L. 111–240, §2102(b)(2), substituted "$250,000" for "$75,000".
 
-Subsec. (b)(2)(A). Pub. L. 111–240, §2102(a)(1), (c)(1), substituted “$60” for “$30” and “$100” for “$50”.
+Subsec. (b)(2)(A). Pub. L. 111–240, §2102(a)(1), (c)(1), substituted "$60" for "$30" and "$100" for "$50".
 
-Subsec. (b)(2)(B). Pub. L. 111–240, §2102(c)(2), substituted “$500,000” for “$150,000”.
+Subsec. (b)(2)(B). Pub. L. 111–240, §2102(c)(2), substituted "$500,000" for "$150,000".
 
-Subsec. (d)(1). Pub. L. 111–240, §2102(d)(2), substituted “such calendar year” for “such taxable year” in introductory provisions.
+Subsec. (d)(1). Pub. L. 111–240, §2102(d)(2), substituted "such calendar year" for "such taxable year" in introductory provisions.
 
-Subsec. (d)(1)(A). Pub. L. 111–240, §2102(a)(2), (d)(1)(A), substituted “$500,000” for “$100,000” and “$1,500,000” for “$250,000”.
+Subsec. (d)(1)(A). Pub. L. 111–240, §2102(a)(2), (d)(1)(A), substituted "$500,000" for "$100,000" and "$1,500,000" for "$250,000".
 
-Subsec. (d)(1)(B). Pub. L. 111–240, §2102(b)(2), (d)(1)(B), substituted “$75,000” for “$25,000” and “$250,000” for “$75,000”.
+Subsec. (d)(1)(B). Pub. L. 111–240, §2102(b)(2), (d)(1)(B), substituted "$75,000" for "$25,000" and "$250,000" for "$75,000".
 
-Subsec. (d)(1)(C). Pub. L. 111–240, §2102(c)(2), (d)(1)(C), substituted “$200,000” for “$50,000” and “$500,000” for “$150,000”.
+Subsec. (d)(1)(C). Pub. L. 111–240, §2102(c)(2), (d)(1)(C), substituted "$200,000" for "$50,000" and "$500,000" for "$150,000".
 
-Subsec. (e)(2). Pub. L. 111–240, §2102(e), substituted “$250” for “$100” in introductory provisions.
+Subsec. (e)(2). Pub. L. 111–240, §2102(e), substituted "$250" for "$100" in introductory provisions.
 
-Subsec. (e)(3)(A). Pub. L. 111–240, §2102(a)(2), substituted “$1,500,000” for “$250,000”.
+Subsec. (e)(3)(A). Pub. L. 111–240, §2102(a)(2), substituted "$1,500,000" for "$250,000".
 
 Subsec. (f). Pub. L. 111–240, §2102(f), added subsec. (f).
 
 <b>2006</b>—Subsec. (e)(2)(D). Pub. L. 109–280, which directed the addition of subpar. (D) to section 6721(e)(2), without specifying the act to be amended, was executed by making the addition to subsec. (e)(2) of this section, which is section 6721 of the Internal Revenue Code of 1986, to reflect the probable intent of Congress.
 
-<b>1990</b>—Subsec. (e)(2). Pub. L. 101–508 inserted “6050I,” after “6050H,” and struck out “or” at end of subpar. (A), substituted “or” for “and” at end of subpar. (B), and added subpar. (C).
+<b>1990</b>—Subsec. (e)(2). Pub. L. 101–508 inserted "6050I," after "6050H," and struck out "or" at end of subpar. (A), substituted "or" for "and" at end of subpar. (B), and added subpar. (C).
 
-<b>1989</b>—Pub. L. 101–239 substituted “correct” for “certain” in section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsec. (a) stating general rule and subsec. (b) relating to penalty in case of intentional disregard.
+<b>1989</b>—Pub. L. 101–239 substituted "correct" for "certain" in section catchline and amended text generally, substituting subsecs. (a) to (e) for former subsec. (a) stating general rule and subsec. (b) relating to penalty in case of intentional disregard.
 
-<b>1988</b>—Subsec. (b)(1)(A). Pub. L. 100–690 inserted “(or, if greater, in the case of a return filed under section 6050I, 10 percent of the taxable income derived from the transaction)” after “reported”.
+<b>1988</b>—Subsec. (b)(1)(A). Pub. L. 100–690 inserted "(or, if greater, in the case of a return filed under section 6050I, 10 percent of the taxable income derived from the transaction)" after "reported".
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–240, title II, §2102(h), Sept. 27, 2010, 124 Stat. 2564, provided that: “The amendments made by this section \[amending this section and section 6722 of this title\] shall apply with respect to information returns required to be filed on or after January 1, 2011.”
+Pub. L. 111–240, title II, §2102(h), Sept. 27, 2010, 124 Stat. 2564, provided that: "The amendments made by this section \[amending this section and section 6722 of this title\] shall apply with respect to information returns required to be filed on or after January 1, 2011."
 
 #### Effective Date of 2006 Amendment
 
@@ -166,7 +166,7 @@ Amendment by Pub. L. 101–508 applicable to amounts received after Nov. 5, 1990
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7711(c), Dec. 19, 1989, 103 Stat. 2393, provided that: “The amendments made by this section \[amending this section and sections 6722 to 6724 and 7205 of this title and repealing sections 6017A, 6676, and 6687 of this title\] shall apply to returns and statements the due date for which (determined without regard to extensions) is after December 31, 1989.”
+Pub. L. 101–239, title VII, §7711(c), Dec. 19, 1989, 103 Stat. 2393, provided that: "The amendments made by this section \[amending this section and sections 6722 to 6724 and 7205 of this title and repealing sections 6017A, 6676, and 6687 of this title\] shall apply to returns and statements the due date for which (determined without regard to extensions) is after December 31, 1989."
 
 #### Effective Date of 1988 Amendment
 
@@ -174,5 +174,5 @@ Amendment by Pub. L. 100–690 applicable to actions after Nov. 18, 1988, see se
 
 #### Effective Date
 
-Pub. L. 99–514, title XV, §1501(e), Oct. 22, 1986, 100 Stat. 2741, provided that: “The amendments made by this section \[enacting this section and sections 6722 to 6724 of this title, amending sections 219, 6031, 6033 to 6034A, 6041, 6042 to 6045, 6047, 6049, 6050A to 6050C, 6050E to 6050I, 6050K, 6052, 6057, 6058, 6652, and 6676 of this title, and repealing section 6678 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1986, except that the amendments made by subsections (c)(2), (c)(3), and (c)(5) \[amending sections 6042, 6044, and 6049 of this title\] shall apply to returns the due \[date\] for which (determined without regard to extensions) is after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XV, §1501(e), Oct. 22, 1986, 100 Stat. 2741, provided that: "The amendments made by this section \[enacting this section and sections 6722 to 6724 of this title, amending sections 219, 6031, 6033 to 6034A, 6041, 6042 to 6045, 6047, 6049, 6050A to 6050C, 6050E to 6050I, 6050K, 6052, 6057, 6058, 6652, and 6676 of this title, and repealing section 6678 of this title\] shall apply to returns the due date for which (determined without regard to extensions) is after December 31, 1986, except that the amendments made by subsections (c)(2), (c)(3), and (c)(5) \[amending sections 6042, 6044, and 6049 of this title\] shall apply to returns the due \[date\] for which (determined without regard to extensions) is after the date of the enactment of this Act \[Oct. 22, 1986\]."
 

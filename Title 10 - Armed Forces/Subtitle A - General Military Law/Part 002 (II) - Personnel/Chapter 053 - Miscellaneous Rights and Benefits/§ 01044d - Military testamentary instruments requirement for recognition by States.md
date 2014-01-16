@@ -62,21 +62,21 @@ Regulations.—Regulations for the purposes of this section shall be prescribed 
 
 Definitions.—In this section:
 
-&emsp;(1) The term “person eligible for military legal assistance” means a person who is eligible for legal assistance under section 1044 of this title.
+&emsp;(1) The term "person eligible for military legal assistance" means a person who is eligible for legal assistance under section 1044 of this title.
 
-&emsp;(2) The term “military legal assistance counsel” means—
+&emsp;(2) The term "military legal assistance counsel" means—
 
 &emsp;&emsp;(A) a judge advocate (as defined in section 801(13) of this title); or
 
 &emsp;&emsp;(B) a civilian attorney serving as a legal assistance officer under the provisions of section 1044 of this title.
 
-&emsp;(3) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and each possession of the United States.
+&emsp;(3) The term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and each possession of the United States.
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title V, §551(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–123; amended Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
 
-<b>2002</b>—Subsec. (f). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 #### Effective Date of 2002 Amendment
 

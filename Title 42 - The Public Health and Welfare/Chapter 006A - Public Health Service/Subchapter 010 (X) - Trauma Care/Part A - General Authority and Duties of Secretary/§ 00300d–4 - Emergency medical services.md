@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary of Transportation, the Secretary of Health and Human Services, and theSecretary of Homeland Security, acting through the Under Secretary for Emergency Preparedness and Response, shall establish a Federal Interagency Committee on Emergency Medical Services.
+&emsp;The Secretary of Transportation, the Secretary of Health and Human Services, and the Secretary of Homeland Security, acting through the Under Secretary for Emergency Preparedness and Response, shall establish a Federal Interagency Committee on Emergency Medical Services.
 
 #### (2) Membership
 
@@ -68,7 +68,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary of Transportation, in coordination with the Secretary of Health and Human Services and the Secretary of Homeland Security, shall establish a National Emergency Medical Services Advisory Council (referred to in this subsection as the “Advisory Council”).
+&emsp;The Secretary of Transportation, in coordination with the Secretary of Health and Human Services and the Secretary of Homeland Security, shall establish a National Emergency Medical Services Advisory Council (referred to in this subsection as the "Advisory Council").
 
 #### (2) Membership
 

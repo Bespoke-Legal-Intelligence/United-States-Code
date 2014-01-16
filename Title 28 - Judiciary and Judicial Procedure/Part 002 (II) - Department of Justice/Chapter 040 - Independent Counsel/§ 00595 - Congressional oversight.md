@@ -24,17 +24,17 @@ Oversight of Conduct of Attorney General.—Within 15 days after receiving an in
 
 (c)
 
-Information Relating to Impeachment.—An independent counsel shall advise the House of Representatives of any substantial and credible information which such independent counsel receives, in carrying out the independent counsel's responsibilities under this chapter, that may constitute grounds for an impeachment. Nothing in this chapter or section 49 of this title shall prevent the Congress or either Housethereof from obtaining information in the course of an impeachment proceeding.
+Information Relating to Impeachment.—An independent counsel shall advise the House of Representatives of any substantial and credible information which such independent counsel receives, in carrying out the independent counsel's responsibilities under this chapter, that may constitute grounds for an impeachment. Nothing in this chapter or section 49 of this title shall prevent the Congress or either House thereof from obtaining information in the course of an impeachment proceeding.
 
 (Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1871; amended Pub. L. 97–409, §2(a)(1), Jan. 3, 1983, 96 Stat. 2139; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1304; Pub. L. 103–270, §3(g), June 30, 1994, 108 Stat. 734.)
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(2). Pub. L. 103–270 substituted “annually a report on the activities of the independent counsel, including a description of the progress of any investigation or prosecution conducted by the independent counsel. Such report may omit any matter that in the judgment of the independent counsel should be kept confidential, but shall provide information adequate to justify the expenditures that the office of the independent counsel has made” for “such statements or reports on the activities of such independent counsel as the independent counsel considers appropriate”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–270 substituted "annually a report on the activities of the independent counsel, including a description of the progress of any investigation or prosecution conducted by the independent counsel. Such report may omit any matter that in the judgment of the independent counsel should be kept confidential, but shall provide information adequate to justify the expenditures that the office of the independent counsel has made" for "such statements or reports on the activities of such independent counsel as the independent counsel considers appropriate".
 
 <b>1987</b>—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (c) relating to congressional oversight for former subsecs. (a) to (e) relating to reporting and congressional oversight.
 
-<b>1983</b>—Pub. L. 97–409, §2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel's” for “special prosecutor's” wherever appearing.
+<b>1983</b>—Pub. L. 97–409, §2(a)(1), substituted "independent counsel" for "special prosecutor" and "independent counsel's" for "special prosecutor's" wherever appearing.
 
 #### Effective Date of 1994 Amendment; Transition Provisions
 

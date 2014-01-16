@@ -10,11 +10,11 @@ Suspension During Time of War.—Subsection (a) does not apply with respect to a
 
 (c)
 
-Qualifying Service Defined.—In this section, the term “qualifying service” means service for which a particular special pay or incentive pay is payable under the authority of a provision of chapter 5 of this title.
+Qualifying Service Defined.—In this section, the term "qualifying service" means service for which a particular special pay or incentive pay is payable under the authority of a provision of chapter 5 of this title.
 
 (Added Pub. L. 107–107, div. A, title VI, §623(a)(1), Dec. 28, 2001, 115 Stat. 1142.)
 
 #### Effective Date
 
-Pub. L. 107–107, div. A, title VI, §623(b), Dec. 28, 2001, 115 Stat. 1143, provided that: “Section 909 of title 37, United States Code, as added by subsection (a)(1), shall apply with respect to pay periods beginning after September 11, 2001.”
+Pub. L. 107–107, div. A, title VI, §623(b), Dec. 28, 2001, 115 Stat. 1143, provided that: "Section 909 of title 37, United States Code, as added by subsection (a)(1), shall apply with respect to pay periods beginning after September 11, 2001."
 

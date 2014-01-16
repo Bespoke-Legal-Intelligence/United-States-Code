@@ -6,7 +6,7 @@ In the case of liability of a decedent for taxes imposed by subtitle A or by cha
 
 #### (b) Definition of executor
 
-For purposes of this section, the term “executor” means the executor or administrator of the decedent appointed, qualified, and acting within the United States.
+For purposes of this section, the term "executor" means the executor or administrator of the decedent appointed, qualified, and acting within the United States.
 
 #### (c) Cross reference
 
@@ -16,9 +16,9 @@ For purposes of this section, the term “executor” means the executor or admi
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–614, §101(f), substituted “9 months” for “1 year”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–614, §101(f), substituted "9 months" for "1 year".
 
 #### Effective Date of 1970 Amendment
 

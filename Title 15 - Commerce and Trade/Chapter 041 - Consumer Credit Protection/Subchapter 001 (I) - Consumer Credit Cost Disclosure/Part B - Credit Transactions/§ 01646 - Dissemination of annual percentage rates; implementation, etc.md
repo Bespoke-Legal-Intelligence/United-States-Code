@@ -42,9 +42,9 @@ The Bureau is authorized to enter into contracts or other arrangements with appr
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
 
-<b>1988</b>—Subsecs. (b), (c). Pub. L. 100–583 added subsec. (b), redesignated former subsec. (b) as (c), and substituted “subsections (a) and (b)” for “subsection (a)”.
+<b>1988</b>—Subsecs. (b), (c). Pub. L. 100–583 added subsec. (b), redesignated former subsec. (b) as (c), and substituted "subsections (a) and (b)" for "subsection (a)".
 
 #### Effective Date of 2010 Amendment
 

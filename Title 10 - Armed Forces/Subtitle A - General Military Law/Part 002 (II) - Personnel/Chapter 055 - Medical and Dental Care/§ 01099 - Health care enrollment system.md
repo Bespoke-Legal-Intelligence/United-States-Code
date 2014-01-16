@@ -34,17 +34,17 @@ Regulations.—The Secretary of Defense, after consultation with the other admin
 
 Pub. L. 99–661, div. A, title VII, §701(d)(1), (2), Nov. 14, 1986, 100 Stat. 3898, provided that:
 
-“(1) Except as provided in paragraph (2), the Secretary of Defense shall prescribe regulations as required by section 1099(d) of title 10, United States Code (as added by subsection (a)(1)) to implement the system of health care enrollment for covered beneficiaries—
+"(1) Except as provided in paragraph (2), the Secretary of Defense shall prescribe regulations as required by section 1099(d) of title 10, United States Code (as added by subsection (a)(1)) to implement the system of health care enrollment for covered beneficiaries—
 
-&emsp;“(A) on October 1, 1987, with respect to—
+&emsp;"(A) on October 1, 1987, with respect to—
 
-&emsp;&emsp;“(i) covered beneficiaries included in the demonstration project required under section 702 \[10 U.S.C. 1073 note\]; and
+&emsp;&emsp;"(i) covered beneficiaries included in the demonstration project required under section 702 \[10 U.S.C. 1073 note\]; and
 
-&emsp;&emsp;“(ii) facilities of the uniformed services located in the geographical area covered by the demonstration project; and
+&emsp;&emsp;"(ii) facilities of the uniformed services located in the geographical area covered by the demonstration project; and
 
-&emsp;“(B) not later than September 30, 1990, for all other covered beneficiaries and facilities of the uniformed services.
+&emsp;"(B) not later than September 30, 1990, for all other covered beneficiaries and facilities of the uniformed services.
 
-“(2) The Secretary may not assign covered beneficiaries to facilities of the uniformed services, as authorized by section 1099(b)(2) of such title (as added by subsection (a)(1)), before October 1, 1990.”
+"(2) The Secretary may not assign covered beneficiaries to facilities of the uniformed services, as authorized by section 1099(b)(2) of such title (as added by subsection (a)(1)), before October 1, 1990."
 
 #### Reports to Congress
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 5, 1882, ch. 389 1 \[sic\] (2d sentence in 8th par. on p. 241), 22 Stat. 241.
 
-The word “now” in the Act of August 5, 1882 is omitted as obsolete.
+The word "now" in the Act of August 5, 1882 is omitted as obsolete.
 

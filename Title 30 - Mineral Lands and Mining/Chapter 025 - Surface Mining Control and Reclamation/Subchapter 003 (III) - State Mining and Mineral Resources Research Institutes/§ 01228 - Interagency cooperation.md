@@ -10,7 +10,7 @@ The President shall, by such means as he deems appropriate, clarify agency respo
 
 &emsp;(4) recommendations with respect to allocation of technical effort among Federal agencies;
 
-&emsp;(5) review of technical manpower needs, and findings concerning management policies toimprove the quality of the Government-wide research effort; and
+&emsp;(5) review of technical manpower needs, and findings concerning management policies to improve the quality of the Government-wide research effort; and
 
 &emsp;(6) actions to facilitate interagency communication at management levels.
 

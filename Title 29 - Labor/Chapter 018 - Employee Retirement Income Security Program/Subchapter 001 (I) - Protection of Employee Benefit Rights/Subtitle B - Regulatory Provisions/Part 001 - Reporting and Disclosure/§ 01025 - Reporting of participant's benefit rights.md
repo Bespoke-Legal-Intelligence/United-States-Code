@@ -86,41 +86,41 @@ Each administrator required to register under section 6057 of title 26 shall, be
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–280, §508(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Each administrator of an employee pension benefit plan shall furnish to any plan participant or beneficiary who so requests in writing, a statement indicating, on the basis of the latest available information—
+<b>2006</b>—Subsec. (a). Pub. L. 109–280, §508(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "Each administrator of an employee pension benefit plan shall furnish to any plan participant or beneficiary who so requests in writing, a statement indicating, on the basis of the latest available information—
 
-&emsp;“(1) the total benefits accrued, and
+&emsp;"(1) the total benefits accrued, and
 
-&emsp;“(2) the nonforfeitable pension benefits, if any, which have accrued, or the earliest date on which benefits will become nonforfeitable.”
+&emsp;"(2) the nonforfeitable pension benefits, if any, which have accrued, or the earliest date on which benefits will become nonforfeitable."
 
-Subsec. (b). Pub. L. 109–280, §508(a)(2)(B), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “In no case shall a participant or beneficiary be entitled under this section to receive more than one report described in subsection (a) of this section during any one 12-month period.”
+Subsec. (b). Pub. L. 109–280, §508(a)(2)(B), amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: "In no case shall a participant or beneficiary be entitled under this section to receive more than one report described in subsection (a) of this section during any one 12-month period."
 
-Subsec. (d). Pub. L. 109–280, §508(a)(2)(A), struck out heading and text of subsec. (d). Text read as follows: “Subsection (a) of this section shall apply to a plan to which more than one unaffiliated employer is required to contribute only to the extent provided in regulations prescribed by the Secretary in coordination with the Secretary of the Treasury.”
+Subsec. (d). Pub. L. 109–280, §508(a)(2)(A), struck out heading and text of subsec. (d). Text read as follows: "Subsection (a) of this section shall apply to a plan to which more than one unaffiliated employer is required to contribute only to the extent provided in regulations prescribed by the Secretary in coordination with the Secretary of the Treasury."
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–239, §7894(b)(5), substituted “12-month” for “12 month”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–239, §7894(b)(5), substituted "12-month" for "12 month".
 
-Subsec. (c). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsec. (c). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–397 inserted at end “Such statement shall also include a notice to the participant of any benefits which are forfeitable if the participant dies before a certain date.”
+<b>1984</b>—Subsec. (c). Pub. L. 98–397 inserted at end "Such statement shall also include a notice to the participant of any benefits which are forfeitable if the participant dies before a certain date."
 
 #### Effective Date of 2006 Amendment
 
 Pub. L. 109–280, title V, §508(c), Aug. 17, 2006, 120 Stat. 952, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section and section 1132 of this title\] shall apply to plan years beginning after December 31, 2006.
 
-“(2)
+"(2)
 
-Special rule for collectively bargained agreements.—In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified on or before the date of the enactment of this Act \[Aug. 17, 2006\], paragraph (1) shall be applied to benefits pursuant to, and individuals covered by, any such agreement by substituting for ‘December 31, 2006’ the earlier of—
+Special rule for collectively bargained agreements.—In the case of a plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers ratified on or before the date of the enactment of this Act \[Aug. 17, 2006\], paragraph (1) shall be applied to benefits pursuant to, and individuals covered by, any such agreement by substituting for 'December 31, 2006' the earlier of—
 
-&emsp;“(A) the later of—
+&emsp;"(A) the later of—
 
-&emsp;&emsp;“(i) December 31, 2007, or
+&emsp;&emsp;"(i) December 31, 2007, or
 
-&emsp;&emsp;“(ii) the date on which the last of such collective bargaining agreements terminates (determined without regard to any extension thereof after such date of enactment), or
+&emsp;&emsp;"(ii) the date on which the last of such collective bargaining agreements terminates (determined without regard to any extension thereof after such date of enactment), or
 
-&emsp;“(B) December 31, 2008.”
+&emsp;"(B) December 31, 2008."
 
 #### Effective Date of 1989 Amendment
 
@@ -140,11 +140,11 @@ Secretary of Labor authorized, effective Sept. 2, 1974, to promulgate regulation
 
 Pub. L. 109–280, title V, §508(b), Aug. 17, 2006, 120 Stat. 951, provided that:
 
-“(1)
+"(1)
 
 In general.—The Secretary of Labor shall, within 1 year after the date of the enactment of this section \[Aug. 17, 2006\], develop 1 or more model benefit statements that are written in a manner calculated to be understood by the average plan participant and that may be used by plan administrators in complying with the requirements of section 105 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1025\].
 
-“(2)
+"(2)
 
-Interim final rules.—The Secretary of Labor may promulgate any interim final rules as the Secretary determines appropriate to carry out the provisions of this subsection.”
+Interim final rules.—The Secretary of Labor may promulgate any interim final rules as the Secretary determines appropriate to carry out the provisions of this subsection."
 

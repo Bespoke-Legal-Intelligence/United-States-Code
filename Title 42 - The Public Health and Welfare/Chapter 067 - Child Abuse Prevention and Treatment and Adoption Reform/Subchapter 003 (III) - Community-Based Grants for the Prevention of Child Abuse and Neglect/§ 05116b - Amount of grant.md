@@ -34,7 +34,7 @@ Funds allotted to a State under this section—
 
 #### References in Text
 
-Section 5116i of this title, referred to in subsecs. (a) and (b)(1), was in the original “section 210”, and was translated as meaning section 209 of Pub. L. 93–247 to reflect the probable intent of Congress and the redesignation of section 210 as 209 by Pub. L. 111–320, title I, §141, Dec. 20, 2010, 124 Stat. 3482.
+Section 5116i of this title, referred to in subsecs. (a) and (b)(1), was in the original "section 210", and was translated as meaning section 209 of Pub. L. 93–247 to reflect the probable intent of Congress and the redesignation of section 210 as 209 by Pub. L. 111–320, title I, §141, Dec. 20, 2010, 124 Stat. 3482.
 
 #### Prior Provisions
 
@@ -44,9 +44,9 @@ A prior section 5116b, Pub. L. 93–247, title II, §203, formerly Pub. L. 98–
 
 <b>2010</b>—Subsec. (b)(1). Pub. L. 111–320 inserted subpar. headings.
 
-<b>2003</b>—Subsec. (b)(1)(B). Pub. L. 108–36, §123(1), substituted “as the amount of private, State or other non-Federal funds leveraged and directed through the currently designated” for “as the amount leveraged by the State from private, State, or other non-Federal sources and directed through the”, “State lead entity” for “State lead agency”, and “the current lead entity” for “the lead agency”.
+<b>2003</b>—Subsec. (b)(1)(B). Pub. L. 108–36, §123(1), substituted "as the amount of private, State or other non-Federal funds leveraged and directed through the currently designated" for "as the amount leveraged by the State from private, State, or other non-Federal sources and directed through the", "State lead entity" for "State lead agency", and "the current lead entity" for "the lead agency".
 
-Subsec. (c)(2). Pub. L. 108–36, §123(2), substituted “subsection (b)” for “subsection (a)”.
+Subsec. (c)(2). Pub. L. 108–36, §123(2), substituted "subsection (b)" for "subsection (a)".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

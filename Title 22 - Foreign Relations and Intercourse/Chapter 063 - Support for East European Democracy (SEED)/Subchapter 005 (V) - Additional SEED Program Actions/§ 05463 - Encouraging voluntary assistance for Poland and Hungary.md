@@ -16,7 +16,7 @@ In further <sup>1</sup> of subsection (a) of this section, the President—
 
 (Pub. L. 101–179, title VI, §603, Nov. 28, 1989, 103 Stat. 1319.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “furtherance”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "furtherance".</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

@@ -22,13 +22,13 @@ Historical and Revision Notes
 
 46:239b(a)
 
-Section 7503 provides that the issuance of a license, certificate, or document may be denied by the Secretary to any individual who has been convicted, within 10 years, of violating a dangerous drug law of the United States or to any individual who has been a user of a dangerous drug, unless the individual provides satisfactory proof of being cured. This includes PCP and LSD. See also the note to section 7704. However, the Secretary may deny issuing a license, certificate or document to the individual who has used or been convicted of a “controlled substance” such as LSD if that use or conviction occurred before the date of enactment of this Act.
+Section 7503 provides that the issuance of a license, certificate, or document may be denied by the Secretary to any individual who has been convicted, within 10 years, of violating a dangerous drug law of the United States or to any individual who has been a user of a dangerous drug, unless the individual provides satisfactory proof of being cured. This includes PCP and LSD. See also the note to section 7704. However, the Secretary may deny issuing a license, certificate or document to the individual who has used or been convicted of a "controlled substance" such as LSD if that use or conviction occurred before the date of enactment of this Act.
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–380 repealed subsec. (a) which defined “dangerous drug” for purpose of this section as narcotic drug, controlled substance, and marihuana.
+<b>1990</b>—Subsec. (a). Pub. L. 101–380 repealed subsec. (a) which defined "dangerous drug" for purpose of this section as narcotic drug, controlled substance, and marihuana.
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–36 substituted “certificate of registry, or merchant mariner's document” for first reference to “certificate, or document”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–36 substituted "certificate of registry, or merchant mariner's document" for first reference to "certificate, or document".
 
 #### Effective Date of 1990 Amendment
 

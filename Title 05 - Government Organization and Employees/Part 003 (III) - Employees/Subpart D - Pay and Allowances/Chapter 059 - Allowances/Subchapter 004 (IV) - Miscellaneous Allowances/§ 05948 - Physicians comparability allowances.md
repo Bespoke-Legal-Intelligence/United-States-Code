@@ -22,7 +22,7 @@
 
 (d) Any agreement entered into by a physician under this section shall be for a period of one year of service in the agency involved unless the physician requests an agreement for a longer period of service.
 
-(e) Unless otherwise provided for in the agreement under subsection (f) of this section, an agreement under this section shall provide that the physician, in the event that such physician voluntarily, or because of misconduct, fails to complete at least one year of service pursuant to such agreement, shall be required to refund the total amount received under this section, unless the head of the agency, pursuant to suchregulations as may be prescribed under this section by the President or his designee, determines that such failure is necessitated by circumstances beyond the control of the physician.
+(e) Unless otherwise provided for in the agreement under subsection (f) of this section, an agreement under this section shall provide that the physician, in the event that such physician voluntarily, or because of misconduct, fails to complete at least one year of service pursuant to such agreement, shall be required to refund the total amount received under this section, unless the head of the agency, pursuant to such regulations as may be prescribed under this section by the President or his designee, determines that such failure is necessitated by circumstances beyond the control of the physician.
 
 (f) Any agreement under this section shall specify, subject to such regulations as the President or his designee may prescribe, the terms under which the head of the agency and the physician may elect to terminate such agreement, and the amounts, if any, required to be refunded by the physician for each reason for termination.
 
@@ -40,11 +40,11 @@
 
 &emsp;&emsp;(E) chapter 4 of title I of the Foreign Service Act of 1980 (22 U.S.C. 3961 and following), relating to the Foreign Service;
 
-&emsp;&emsp;(F) section 10 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j), relating to the Central Intelligence Agency;
+&emsp;&emsp;(F) section 10 of the Central Intelligence Agency Act of 1949 (50 U.S.C. 403j),<sup>1</sup> relating to the Central Intelligence Agency;
 
 &emsp;&emsp;(G) section 1202 of the Panama Canal Act of 1979, relating to the Panama Canal Commission;
 
-&emsp;&emsp;(H) section 2 of the Act of May 29, 1959 <sup>2</sup> (Public Law 86–36, as amended, 50 U.S.C. 402 note), relating to the National Security Agency;
+&emsp;&emsp;(H) section 2 of the Act of May 29, 1959 (Public Law 86–36, as amended, 50 U.S.C. 402 note),<sup>1</sup> relating to the National Security Agency;
 
 &emsp;&emsp;(I) section 5376, relating to certain senior-level positions;
 
@@ -82,15 +82,17 @@ The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, 
 
 The Foreign Service Act of 1980, referred to in subsec. (g)(1)(E), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended. Chapter 4 of title I of the Act is classified generally to subchapter IV (§3961 et seq.) of chapter 52 of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of Title 22 and Tables.
 
+The Central Intelligence Agency Act of 1949, referred to in (g)(1)(F), is act June 20, 1949, ch. 227, 63 Stat. 208, which was formerly classified generally to section 403a et seq. of Title 50, War and National Defense, prior to editorial reclassification in chapter 46 (§3501 et seq.) of Title 50. Section 10 of the Act, which was renumbered as section 8 of that Act by Pub. L. 85–507, §21(b)(2), July 7, 1958, 72 Stat. 337, is now classified to section 3510 of Title 50. For complete classification of this Act to the Code, see Tables.
+
 Section 1202 of the Panama Canal Act of 1979, referred to in subsec. (g)(1)(G), is classified to section 3642 of Title 22, Foreign Relations and Intercourse.
 
-Section 2 of the Act of May 29, 1959 (Public Law 86–36, as amended, 50 U.S.C. 402 note), referred to in subsec. (g)(1)(H), was repealed by Pub. L. 104–201, div. A, title XVI, §1633(b)(1), Sept. 23, 1996, 110 Stat. 2751.
+Section 2 of the Act of May 29, 1959 (Public Law 86–36, as amended, 50 U.S.C. 402 note), referred to in subsec. (g)(1)(H), was formerly set out in a note under section 402 of Title 50, War and National Defense, prior to repeal by Pub. L. 104–201, div. A, title XVI, §1633(b)(1), Sept. 23, 1996, 110 Stat. 2751. Another section 2 of Pub. L. 86–36 was added by Pub. L. 111–259, title IV, §433, Oct. 7, 2010, 124 Stat. 2732, and has been editorially reclassified as section 3602 of Title 50.
 
 #### Amendments
 
 <b>2000</b>—Subsec. (d). Pub. L. 106–571, §2(a)(1), struck out second sentence which read as follows: “No agreement shall be entered into under this section later than September 30, 2005, nor shall any agreement cover a period of service extending beyond September 30, 2007.”
 
-Pub. L. 106–554 amended second sentence generally. Prior to amendment, second sentence read as follows:“No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.”
+Pub. L. 106–554 amended second sentence generally. Prior to amendment, second sentence read as follows: “No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.”
 
 Subsec. (h)(1). Pub. L. 106–571, §3(d), substituted “chapter 81 or 87” for “chapter 81, 83, or 87”.
 
@@ -170,7 +172,7 @@ Pub. L. 98–168, title I, §101, Nov. 29, 1983, 97 Stat. 1105, provided that: �
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–141, §1, Dec. 29, 1981, 95 Stat. 1719, provided: “That this Act \[amending this section and section 8344of this title and provisions set out below and enacting provisions set out as notes under this section and section 8344 of this title\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1981’.”
+Pub. L. 97–141, §1, Dec. 29, 1981, 95 Stat. 1719, provided: “That this Act \[amending this section and section 8344 of this title and provisions set out below and enacting provisions set out as notes under this section and section 8344 of this title\] may be cited as the ‘Federal Physicians Comparability Allowance Amendments of 1981’.”
 
 #### Short Title of 1979 Amendment
 
@@ -243,6 +245,4 @@ By the authority vested in me as President of the United States of America by Se
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

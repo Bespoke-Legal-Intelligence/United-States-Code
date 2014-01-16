@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—The Military Chaplains Association of the United States of America (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—The Military Chaplains Association of the United States of America (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 
@@ -40,5 +40,5 @@ Sept. 20, 1950, ch. 956, §§1, 2, 4(a), 64 Stat. 868.
 
 Subsection (a) is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary words.
 
-Subsection (b) is substituted for “shall have perpetual succession” for consistency in the revised title.
+Subsection (b) is substituted for "shall have perpetual succession" for consistency in the revised title.
 

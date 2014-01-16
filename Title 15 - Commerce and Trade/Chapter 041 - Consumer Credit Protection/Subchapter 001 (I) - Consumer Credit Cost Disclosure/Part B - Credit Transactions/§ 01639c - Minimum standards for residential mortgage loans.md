@@ -48,7 +48,7 @@
 
 #### (B) Interest-only loans
 
-&emsp;&emsp;For purposes of determining, under this subsection, a consumer's ability to repay a residential mortgage loan that permits or requires the payment of interest only, the creditor shall use the payment amount required to amortize the loan by its final maturity.
+&emsp;&emsp;For purposes of determining, under this subsection, a consumer's ability to repay a residential mortgage loan that permits or requires the payment of interest only, thecreditor shall use the payment amount required to amortize the loan by its final maturity.
 
 #### (C) Calculation for negative amortization
 
@@ -76,7 +76,7 @@
 
 #### (7) Fully-indexed rate defined
 
-&emsp;For purposes of this subsection, the term “fully indexed rate” means the index rate prevailing on a residential mortgage loan at the time the loan is made plus the margin that will apply after the expiration of any introductory interest rates.
+&emsp;For purposes of this subsection, the term "fully indexed rate" means the index rate prevailing on a residential mortgage loan at the time the loan is made plus the margin that will apply after the expiration of any introductory interest rates.
 
 #### (8) Reverse mortgages and bridge loans
 
@@ -98,7 +98,7 @@
 
 #### (A) Qualified mortgage
 
-&emsp;&emsp;The term “qualified mortgage” means any residential mortgage loan—
+&emsp;&emsp;The term "qualified mortgage" means any residential mortgage loan—
 
 &emsp;&emsp;&emsp;(i) for which the regular periodic payments for the loan may not—
 
@@ -106,13 +106,13 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) except as provided in subparagraph (E), allow the consumer to defer repayment of principal;
 
-&emsp;&emsp;&emsp;(ii) except as provided in subparagraph (E), the terms of which do not result in aballoon payment, where a “balloon payment” is a scheduled payment that is more than twice as large as the average of earlier scheduled payments;
+&emsp;&emsp;&emsp;(ii) except as provided in subparagraph (E), the terms of which do not result in a balloon payment, where a "balloon payment" is a scheduled payment that is more than twice as large as the average of earlier scheduled payments;
 
 &emsp;&emsp;&emsp;(iii) for which the income and financial resources relied upon to qualify the obligors on the loan are verified and documented;
 
 &emsp;&emsp;&emsp;(iv) in the case of a fixed rate loan, for which the underwriting process is based on a payment schedule that fully amortizes the loan over the loan term and takes into account all applicable taxes, insurance, and assessments;
 
-&emsp;&emsp;&emsp;(v) in the case of an adjustable rate loan, for which the underwriting is based on the maximum rate permitted under the loan during the first 5 years, and a payment schedule that fully amortizes the loan over the loan term and takes into account all applicable taxes, insurance, and assessments;
+&emsp;&emsp;&emsp;(v) in the case of an adjustable rate loan, for which the underwriting is based on the maximum rate permitted under the loan during the first 5 years, and a payment schedule that fully amortizes the loan over the loan term and takes into account allapplicable taxes, insurance, and assessments;
 
 &emsp;&emsp;&emsp;(vi) that complies with any guidelines or regulations established by the Bureau relating to ratios of total monthly debt to monthly income or alternative measures of ability to pay regular expenses after payment of total monthly debt, taking into account the income levels of the borrower and such other factors as the Bureau may determine relevant and consistent with the purposes described in paragraph (3)(B)(i);
 
@@ -124,13 +124,13 @@
 
 #### (B) Average prime offer rate
 
-&emsp;&emsp;The term “average prime offer rate” means the average prime offer rate for a comparable transaction as of the date on which the interest rate for the transaction is set, as published by the Bureau..<sup>2</sup>
+&emsp;&emsp;The term "average prime offer rate" means the average prime offer rate for a comparable transaction as of the date on which the interest rate for the transaction is set, as published by the Bureau..<sup>2</sup>
 
 #### (C) Points and fees
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of subparagraph (A), the term “points and fees” means points and fees as defined by section 1602(aa)(4) <sup>1</sup> of this title (other than bona fide third party charges not retained by the mortgage originator, creditor, or an affiliate of the creditor or mortgage originator).
+&emsp;&emsp;&emsp;For purposes of subparagraph (A), the term "points and fees" means points and fees as defined by section 1602(aa)(4) <sup>1</sup> of this title (other than bona fide third party charges not retained by the mortgage originator, creditor, or an affiliate of the creditor or mortgage originator).
 
 #### (ii) Computation
 
@@ -142,7 +142,7 @@
 
 #### (iii) Bona fide discount points defined
 
-&emsp;&emsp;&emsp;For purposes of clause (ii), the term “bona fide discount points” means loan discount points which are knowingly paid by the consumer for the purpose of reducing, and which in fact result in a bona fide reduction of, the interest rate or time-price differential applicable to the mortgage.
+&emsp;&emsp;&emsp;For purposes of clause (ii), the term "bona fide discount points" means loan discount points which are knowingly paid by the consumer for the purpose of reducing, and which in fact result in a bona fide reduction of, the interest rate or time-price differential applicable to the mortgage.
 
 #### (iv) Interest rate reduction
 
@@ -154,7 +154,7 @@
 
 #### (E) Balloon loans
 
-&emsp;&emsp;The Bureau may, by regulation, provide that the term “qualified mortgage” includes a balloon loan—
+&emsp;&emsp;The Bureau may, by regulation, provide that the term "qualified mortgage" includes a balloon loan—
 
 &emsp;&emsp;&emsp;(i) that meets all of the criteria for a qualified mortgage under subparagraph (A) (except clauses (i)(II), (ii), (iv), and (v) of such subparagraph);
 
@@ -182,7 +182,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Bureau may prescribe regulations that revise, add to, or subtract from the criteria that define a qualified mortgage upon a finding that such regulations are necessary or proper to ensure that responsible, affordable mortgage credit remains available to consumers in a manner consistent with the purposes of this section, necessary and appropriate to effectuate the purposes of this section and section 1639b of this title, to prevent circumvention or evasion thereof, or to facilitate compliance with such sections.
+&emsp;&emsp;&emsp;The Bureau may prescribe regulations that revise, add to, or subtract from thecriteria that define a qualified mortgage upon a finding that such regulations are necessary or proper to ensure that responsible, affordable mortgage credit remains available to consumers in a manner consistent with the purposes of this section, necessary and appropriate to effectuate the purposes of this section and section 1639b of this title, to prevent circumvention or evasion thereof, or to facilitate compliance with such sections.
 
 #### (ii) Loan definition
 
@@ -202,11 +202,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;A residential mortgage loan that is not a “qualified mortgage”, as defined under subsection (b)(2), may not contain terms under which a consumer must pay a prepayment penalty for paying all or part of the principal after the loan is consummated.
+&emsp;&emsp;A residential mortgage loan that is not a "qualified mortgage", as defined under subsection (b)(2), may not contain terms under which a consumer must pay a prepayment penalty for paying all or part of the principal after the loan is consummated.
 
 #### (B) Exclusions
 
-&emsp;&emsp;For purposes of this subsection, a “qualified mortgage” may not include a residential mortgage loan that—
+&emsp;&emsp;For purposes of this subsection, a "qualified mortgage" may not include a residential mortgage loan that—
 
 &emsp;&emsp;&emsp;(i) has an adjustable rate; or
 
@@ -286,7 +286,7 @@ No creditor may extend credit to a borrower in connection with a consumer credit
 
 #### (1) Definition
 
-&emsp;For purposes of this subsection, the term “anti-deficiency law” means the law of any State which provides that, in the event of foreclosure on the residential property of a consumer securing a mortgage, the consumer is not liable, in accordance with the terms and limitations of such State law, for any deficiency between the sale price obtained on such property through foreclosure and the outstanding balance of the mortgage.
+&emsp;For purposes of this subsection, the term "anti-deficiency law" means the law of any State which provides that, in the event of foreclosure on the residential property of a consumer securing a mortgage, the consumer is not liable, in accordance with the terms and limitations of such State law, for any deficiency between the sale price obtained on such property through foreclosure and the outstanding balance of the mortgage.
 
 #### (2) Notice at time of consummation
 
@@ -314,7 +314,7 @@ This section and any regulations promulgated under this section do not apply to 
 
 Section 1602(aa)(4) of this title, referred to in subsecs. (a)(5)(C) and (b)(2)(C)(i), was redesignated section 1602(bb)(4) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
-This part, referred to in subsec. (b)(2)(E)(iv)(IV), was in the original “this subtitle”, and was translated as reading “this chapter”, meaning chapter 2 of title I of Pub. L. 90–321, to reflect the probable intent of Congress. Title I of Pub. L. 90–321 does not contain subtitles.
+This part, referred to in subsec. (b)(2)(E)(iv)(IV), was in the original "this subtitle", and was translated as reading "this chapter", meaning chapter 2 of title I of Pub. L. 90–321, to reflect the probable intent of Congress. Title I of Pub. L. 90–321 does not contain subtitles.
 
 The National Housing Act, referred to in subsec. (b)(3)(B)(ii)(I), is act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to chapter 13 (§1701 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1701 of Title 12 and Tables.
 
@@ -322,7 +322,7 @@ The Mortgage Reform and Anti-Predatory Lending Act, referred to in subsec. (c)(2
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §1100A(2), substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Pub. L. 111–203, §1100A(2), substituted "Bureau" for "Board" wherever appearing.
 
 Subsec. (b). Pub. L. 111–203, §1412, added subsec. (b).
 
@@ -344,13 +344,13 @@ Section effective on the date on which final regulations implementing such secti
 
 #### Rule of Construction
 
-Pub. L. 111–203, title XIV, §1411(a)(1), July 21, 2010, 124 Stat. 2142, provided that: “No regulation, order, or guidance issued by the Bureau under this title \[see Tables for classification\] shall be construed as requiring a depository institution to apply mortgage underwriting standards that do not meet the minimum underwriting standards required by the appropriate prudential regulator of the depository institution.”
+Pub. L. 111–203, title XIV, §1411(a)(1), July 21, 2010, 124 Stat. 2142, provided that: "No regulation, order, or guidance issued by the Bureau under this title \[see Tables for classification\] shall be construed as requiring a depository institution to apply mortgage underwriting standards that do not meet the minimum underwriting standards required by the appropriate prudential regulator of the depository institution."
 
-\[For definitions of “Bureau” and “depository institution” as used in section 1411(a)(1) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
+\[For definitions of "Bureau" and "depository institution" as used in section 1411(a)(1) of Pub. L. 111–203, set out above, see section 5301 of Title 12, Banks and Banking.\]
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “to”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by "to".</i>
 

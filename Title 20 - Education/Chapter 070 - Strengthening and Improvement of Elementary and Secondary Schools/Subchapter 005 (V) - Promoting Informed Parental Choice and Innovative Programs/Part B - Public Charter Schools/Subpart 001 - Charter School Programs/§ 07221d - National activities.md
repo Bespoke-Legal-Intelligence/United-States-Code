@@ -34,7 +34,7 @@ The Secretary shall reserve for each fiscal year the greater of 5 percent or $5,
 
 &emsp;(4) To provide (including through the use of one or more contracts that use a competitive bidding process) for the collection of information regarding the financial resources available to charter schools, including access to private capital, and to widely disseminate to charter schools any such relevant information and model descriptions of successful programs.
 
-&emsp;(5) To carry out evaluations of, technical assistance for, and information dissemination regarding, the per-pupil facilities aid programs. In carrying out the evaluations, the Secretary may carry out one or more evaluations of State programs assisted under this subsection, which shall, at a minimum, address—
+&emsp;(5) To carry out evaluations of, technical assistance for, and information disseminationregarding, the per-pupil facilities aid programs. In carrying out the evaluations, the Secretary may carry out one or more evaluations of State programs assisted under this subsection, which shall, at a minimum, address—
 
 &emsp;&emsp;(A) how, and the extent to which, the programs promote educational equity and excellence; and
 
@@ -50,7 +50,7 @@ The Secretary shall reserve for each fiscal year the greater of 5 percent or $5,
 
 #### (1) Definition of per-pupil facilities aid program
 
-&emsp;In this subsection, the term “per-pupil facilities aid program” means a program in which a State makes payments, on a per-pupil basis, to charter schools to provide the schools with financing—
+&emsp;In this subsection, the term "per-pupil facilities aid program" means a program in which a State makes payments, on a per-pupil basis, to charter schools to provide the schools with financing—
 
 &emsp;&emsp;(A) that is dedicated solely for funding charter school facilities; or
 
@@ -126,5 +126,5 @@ Nothing in this section shall be construed to require charter schools to collect
 
 A prior section 5205 of Pub. L. 89–10 was classified to section 7235 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “per-pupil”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "per-pupil".</i>
 

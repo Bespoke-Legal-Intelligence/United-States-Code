@@ -6,7 +6,7 @@ The Director shall, with the funds made available in accordance with section 395
 
 #### (b) Priority
 
-Subject to the cost-sharing requirements of this section, the Director may grant or otherwise provide any matching moneys to any coastal State which submits a proposal substantial incharacter and design to carry out a coastal wetlands conservation project. In awarding such matching grants, the Director shall give priority to coastal wetlands conservation projects that are—
+Subject to the cost-sharing requirements of this section, the Director may grant or otherwise provide any matching moneys to any coastal State which submits a proposal substantial in character and design to carry out a coastal wetlands conservation project. In awarding such matching grants, the Director shall give priority to coastal wetlands conservation projects that are—
 
 &emsp;(1) consistent with the National Wetlands Priority Conservation Plan developed under section 3921 of this title; and
 
@@ -38,7 +38,7 @@ The Director may only grant or otherwise provide matching moneys to a coastal St
 
 (1) The Director may from time to time make matching payments to carry out coastal wetlands conservation projects as such projects progress, but such payments, including previous payments, if any, shall not be more than the Federal pro rata share of any such project in conformity with subsection (d) of this section.
 
-(2) The Director may enter into agreements to make matching payments on an initial portion of a coastal wetlands conservation project and to agree to make payments on the remaining Federal share of the costs of such project from subsequent moneys if and when they become available. The liability of the United States under such an agreement is contingent upon the continued availability of funds for the purpose of this section.
+(2) The Director may enter into agreements to make matching payments on an initial portionof a coastal wetlands conservation project and to agree to make payments on the remaining Federal share of the costs of such project from subsequent moneys if and when they become available. The liability of the United States under such an agreement is contingent upon the continued availability of funds for the purpose of this section.
 
 #### (f) Wetlands assessment
 
@@ -48,15 +48,15 @@ The Director shall, with the funds made available in accordance with section 395
 
 #### Amendments
 
-<b>1991</b>—Subsec. (d)(1). Pub. L. 102–212 substituted “has established and is using one of the following for the purpose of acquiring coastal wetlands, other natural areas or open spaces:
+<b>1991</b>—Subsec. (d)(1). Pub. L. 102–212 substituted "has established and is using one of the following for the purpose of acquiring coastal wetlands, other natural areas or open spaces:
 
-&emsp;“(A) a trust fund from which the principal is not spent; or
+&emsp;"(A) a trust fund from which the principal is not spent; or
 
-&emsp;“(B) a fund derived from a dedicated recurring source of monies including, but not limited to, real estate transfer fees or taxes, cigarette taxes, tax check-offs, or motor vehicle license plate fees”
+&emsp;"(B) a fund derived from a dedicated recurring source of monies including, but not limited to, real estate transfer fees or taxes, cigarette taxes, tax check-offs, or motor vehicle license plate fees"
 
-> for “has established a trust fund, from which the principal is not spent, for the purpose of acquiring coastal wetlands, other natural area or open spaces”.
+> for "has established a trust fund, from which the principal is not spent, for the purpose of acquiring coastal wetlands, other natural area or open spaces".
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–212, title III, §302(b), Dec. 11, 1991, 105 Stat. 1661, provided that: “This section \[amending this section\] shall apply to grants awarded in fiscal year 1992 and each fiscal year thereafter.”
+Pub. L. 102–212, title III, §302(b), Dec. 11, 1991, 105 Stat. 1661, provided that: "This section \[amending this section\] shall apply to grants awarded in fiscal year 1992 and each fiscal year thereafter."
 

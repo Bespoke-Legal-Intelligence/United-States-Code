@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall conduct a demonstration program (in this section referred to as the “demonstration program”) to test a payment incentive and service delivery model that utilizes physician and nurse practitioner directed home-based primary care teams designed to reduce expenditures and improve health outcomes in the provision of items and services under this subchapter to applicable beneficiaries (as defined in subsection (d)).
+&emsp;The Secretary shall conduct a demonstration program (in this section referred to as the "demonstration program") to test a payment incentive and service delivery model that utilizes physician and nurse practitioner directed home-based primary care teams designed to reduce expenditures and improve health outcomes in the provision of items and services under this subchapter to applicable beneficiaries (as defined in subsection (d)).
 
 #### (2) Requirement
 
@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(C) reducing emergency room visits;
 
-&emsp;&emsp;(D) improving health outcomes commensurate with the beneficiaries’ stage of chronic illness;
+&emsp;&emsp;(D) improving health outcomes commensurate with the beneficiaries' stage of chronic illness;
 
 &emsp;&emsp;(E) improving the efficiency of care, such as by reducing duplicative diagnostic and laboratory tests;
 
@@ -32,11 +32,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;The term “independence at home medical practice” means a legal entity that—
+&emsp;&emsp;The term "independence at home medical practice" means a legal entity that—
 
 &emsp;&emsp;&emsp;(i) is comprised of an individual physician or nurse practitioner or group of physicians and nurse practitioners that provides care as part of a team that includes physicians, nurses, physician assistants, pharmacists, and other health and social services staff as appropriate who have experience providing home-based primary care to applicable beneficiaries, make in-home visits, and are available 24 hours per day, 7 days per week to carry out plans of care that are tailored to the individual beneficiary's chronic conditions and designed to achieve the results in subsection (a);
 
-&emsp;&emsp;&emsp;(ii) is organized at least in part for the purpose of providing physicians’ services;
+&emsp;&emsp;&emsp;(ii) is organized at least in part for the purpose of providing physicians' services;
 
 &emsp;&emsp;&emsp;(iii) has documented experience in providing home-based primary care services to high-cost chronically ill beneficiaries, as determined appropriate by the Secretary;
 
@@ -52,7 +52,7 @@
 
 #### (B) Physician
 
-&emsp;&emsp;The term “physician” includes, except as the Secretary may otherwise provide, any individual who furnishes services for which payment may be made as physicians’ services and has the medical training or experience to fulfill the physician's role described in subparagraph (A)(i).
+&emsp;&emsp;The term "physician" includes, except as the Secretary may otherwise provide, any individual who furnishes services for which payment may be made as physicians' services and has the medical training or experience to fulfill the physician's role described in subparagraph (A)(i).
 
 #### (2) Participation of nurse practitioners and physician assistants
 
@@ -66,7 +66,7 @@
 
 #### (3) Inclusion of providers and practitioners
 
-&emsp;Nothing in this subsection shall be construed as preventing an independence at home medical practice from including a provider of services or a participating practitioner described in section 1395u(b)(18)(C) of this title that is affiliated with the practice under an arrangement structured so that such provider of services or practitioner participates in the demonstration program and shares in any savings under the demonstration program.
+&emsp;Nothing in this subsection shall be construed as preventing an independence at homemedical practice from including a provider of services or a participating practitioner described in section 1395u(b)(18)(C) of this title that is affiliated with the practice under an arrangement structured so that such provider of services or practitioner participates in the demonstration program and shares in any savings under the demonstration program.
 
 #### (4) Quality and performance standards
 
@@ -86,13 +86,13 @@
 
 #### (1) Definition
 
-&emsp;In this section, the term “applicable beneficiary” means, with respect to a qualifying independence at home medical practice, an individual who the practice has determined—
+&emsp;In this section, the term "applicable beneficiary" means, with respect to a qualifying independence at home medical practice, an individual who the practice has determined—
 
 &emsp;&emsp;(A) is entitled to benefits under part A and enrolled for benefits under part B;
 
 &emsp;&emsp;(B) is not enrolled in a Medicare Advantage plan under part C or a PACE program under section 1395eee of this title;
 
-&emsp;&emsp;(C) has 2 or more chronic illnesses, such as congestive heart failure, diabetes, other dementias designated by the Secretary, chronic obstructive pulmonary disease, ischemic heart disease, stroke, Alzheimer's Diseaseand neurodegenerative diseases, and other diseases and conditions designated by the Secretary which result in high costs under this subchapter;
+&emsp;&emsp;(C) has 2 or more chronic illnesses, such as congestive heart failure, diabetes, other dementias designated by the Secretary, chronic obstructive pulmonary disease, ischemic heart disease, stroke, Alzheimer's Disease and neurodegenerative diseases, and other diseases and conditions designated by the Secretary which result in high costs under this subchapter;
 
 &emsp;&emsp;(D) within the past 12 months has had a nonelective hospital admission;
 
@@ -136,7 +136,7 @@
 
 #### (5) Limitation on number of practices
 
-&emsp;In selecting qualified independence at home medical practices to participate under the demonstration program, the Secretary shall limit the number of such practices so that the number of applicable beneficiaries that may participate in the demonstration program does not exceed 10,000.
+&emsp;In selecting qualified independence at home medical practices to participate under the demonstration program, the Secretary shalllimit the number of such practices so that the number of applicable beneficiaries that may participate in the demonstration program does not exceed 10,000.
 
 #### (6) Waiver
 

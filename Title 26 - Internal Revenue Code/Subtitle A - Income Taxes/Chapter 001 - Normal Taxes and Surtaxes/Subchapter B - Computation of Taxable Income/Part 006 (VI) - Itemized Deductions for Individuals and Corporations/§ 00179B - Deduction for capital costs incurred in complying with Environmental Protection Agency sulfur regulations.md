@@ -46,7 +46,7 @@ Section 280B shall not apply to amounts which are treated as expenses under this
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–172 substituted “qualified costs” for “qualified capital costs” and inserted “and which are properly chargeable to capital account” before period at end.
+<b>2007</b>—Subsec. (a). Pub. L. 110–172 substituted "qualified costs" for "qualified capital costs" and inserted "and which are properly chargeable to capital account" before period at end.
 
 <b>2005</b>—Subsec. (e). Pub. L. 109–58 added subsec. (e).
 
@@ -56,9 +56,9 @@ Amendment by Pub. L. 110–172 effective as if included in the provision of the 
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–58, title XIII, §1324(b), Aug. 8, 2005, 119 Stat. 1015, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the amendment made by section 338(a) of the American Jobs Creation Act of 2004 \[Pub. L. 108–357, enacting this section\].”
+Pub. L. 109–58, title XIII, §1324(b), Aug. 8, 2005, 119 Stat. 1015, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in the amendment made by section 338(a) of the American Jobs Creation Act of 2004 \[Pub. L. 108–357, enacting this section\]."
 
 #### Effective Date
 
-Pub. L. 108–357, title III, §338(c), Oct. 22, 2004, 118 Stat. 1481, provided that: “The amendment made by this section \[enacting this section and amending sections 263, 263A, 312, 1016, and 1245 of this title\] shall apply to expenses paid or incurred after December 31, 2002, in taxable years ending after such date.”
+Pub. L. 108–357, title III, §338(c), Oct. 22, 2004, 118 Stat. 1481, provided that: "The amendment made by this section \[enacting this section and amending sections 263, 263A, 312, 1016, and 1245 of this title\] shall apply to expenses paid or incurred after December 31, 2002, in taxable years ending after such date."
 

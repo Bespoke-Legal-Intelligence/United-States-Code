@@ -2,17 +2,17 @@
 
 In this part—
 
-&emsp;(1) “Board” means the Surface Transportation Board;
+&emsp;(1) "Board" means the Surface Transportation Board;
 
-&emsp;(2) “car service” includes (A) the use, control, supply, movement, distribution, exchange, interchange, and return of locomotives, cars, other vehicles, and special types of equipment used in the transportation of property by a rail carrier, and (B) the supply of trains by a rail carrier;
+&emsp;(2) "car service" includes (A) the use, control, supply, movement, distribution, exchange, interchange, and return of locomotives, cars, other vehicles, and special types of equipment used in the transportation of property by a rail carrier, and (B) the supply of trains by a rail carrier;
 
-&emsp;(3) “control”, when referring to a relationship between persons, includes actual control, legal control, and the power to exercise control, through or by (A) common directors, officers, stockholders, a voting trust, or a holding or investment company, or (B) any other means;
+&emsp;(3) "control", when referring to a relationship between persons, includes actual control, legal control, and the power to exercise control, through or by (A) common directors, officers, stockholders, a voting trust, or a holding or investment company, or (B) any other means;
 
-&emsp;(4) “person”, in addition to its meaning under section 1 of title 1, includes a trustee, receiver, assignee, or personal representative of a person;
+&emsp;(4) "person", in addition to its meaning under section 1 of title 1, includes a trustee, receiver, assignee, or personal representative of a person;
 
-&emsp;(5) “rail carrier” means a person providing common carrier railroad transportation for compensation, but does not include street, suburban, or interurban electric railways not operated as part of the general system of rail transportation;
+&emsp;(5) "rail carrier" means a person providing common carrier railroad transportation for compensation, but does not include street, suburban, or interurban electric railways not operated as part of the general system of rail transportation;
 
-&emsp;(6) “railroad” includes—
+&emsp;(6) "railroad" includes—
 
 &emsp;&emsp;(A) a bridge, car float, lighter, ferry, and intermodal equipment used by or in connection with a railroad;
 
@@ -20,17 +20,17 @@ In this part—
 
 &emsp;&emsp;(C) a switch, spur, track, terminal, terminal facility, and a freight depot, yard, and ground, used or necessary for transportation;
 
-&emsp;(7) “rate” means a rate or charge for transportation;
+&emsp;(7) "rate" means a rate or charge for transportation;
 
-&emsp;(8) “State” means a State of the United States and the District of Columbia;
+&emsp;(8) "State" means a State of the United States and the District of Columbia;
 
-&emsp;(9) “transportation” includes—
+&emsp;(9) "transportation" includes—
 
 &emsp;&emsp;(A) a locomotive, car, vehicle, vessel, warehouse, wharf, pier, dock, yard, property, facility, instrumentality, or equipment of any kind related to the movement of passengers or property, or both, by rail, regardless of ownership or an agreement concerning use; and
 
 &emsp;&emsp;(B) services related to that movement, including receipt, delivery, elevation, transfer in transit, refrigeration, icing, ventilation, storage, handling, and interchange of passengers and property; and
 
-&emsp;(10) “United States” means the States of the United States and the District of Columbia.
+&emsp;(10) "United States" means the States of the United States and the District of Columbia.
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 806.)
 
@@ -44,7 +44,7 @@ Section 10103, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1340; Pub. L. 96–448,
 
 A prior chapter 103, consisting of sections 10301 to 10311, 10321, 10322, 10324, 10326 to 10330, 10341 to 10344, 10361 to 10364, and 10381 to 10388, was omitted in the general amendment of this subtitle by Pub. L. 104–88, §102(a). See chapter 7 of this title.
 
-Section 10301, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1341; Pub. L. 97–253, title V, §502(b), (e), (h)(1), Sept. 8,1982, 96 Stat. 806, related to organization, membership, administration, seal, and expenses of Interstate Commerce Commission.
+Section 10301, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1341; Pub. L. 97–253, title V, §502(b), (e), (h)(1), Sept. 8, 1982, 96 Stat. 806, related to organization, membership, administration, seal, and expenses of Interstate Commerce Commission.
 
 Section 10302, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1342, related to divisions of Commission.
 

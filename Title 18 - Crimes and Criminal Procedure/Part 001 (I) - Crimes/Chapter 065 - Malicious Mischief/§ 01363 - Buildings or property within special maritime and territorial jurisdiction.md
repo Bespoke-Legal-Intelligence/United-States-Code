@@ -12,9 +12,9 @@ Said sections were consolidated and rewritten both as to form and substance. The
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–56 struck out “or attempts to destroy or injure” after “destroys or injures” and inserted “or attempts or conspires to do such an act,” after “personal property,”.
+<b>2001</b>—Pub. L. 107–56 struck out "or attempts to destroy or injure" after "destroys or injures" and inserted "or attempts or conspires to do such an act," after "personal property,".
 
-<b>1996</b>—Pub. L. 104–132 substituted “any structure, conveyance, or other real or personal property” for “any building, structure or vessel, any machinery or building materials and supplies, military or naval stores, munitions of war or any structural aids or appliances for navigation or shipping”.
+<b>1996</b>—Pub. L. 104–132 substituted "any structure, conveyance, or other real or personal property" for "any building, structure or vessel, any machinery or building materials and supplies, military or naval stores, munitions of war or any structural aids or appliances for navigation or shipping".
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” after “shipping, shall be” and for “fined not more than $5,000” after “jeopardy, shall be”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000" after "shipping, shall be" and for "fined not more than $5,000" after "jeopardy, shall be".
 

@@ -6,9 +6,9 @@ Dividends may be payable only on nonvoting investment stock, if declared by the 
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–233 struck out “other than stock held by the Farm Credit Administration,” after “investment stock,”.
+<b>1988</b>—Pub. L. 100–233 struck out "other than stock held by the Farm Credit Administration," after "investment stock,".
 
-<b>1985</b>—Pub. L. 99–205 struck out “the Governor of” before “the Farm Credit Administration” and inserted “, subject to the general direction of the Farm Credit Administration”.
+<b>1985</b>—Pub. L. 99–205 struck out "the Governor of" before "the Farm Credit Administration" and inserted ", subject to the general direction of the Farm Credit Administration".
 
 #### Effective Date of 1985 Amendment
 

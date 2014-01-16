@@ -62,7 +62,7 @@ Nov. 5, 1990, Pub. L. 101–510, title XVI, §1608, 104 Stat. 1737.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (b), the words “as such” are substituted for “acting as such officer or director” for consistency in the revised title. The word “otherwise” is omitted as unnecessary.
+In subsection (b), the words "as such" are substituted for "acting as such officer or director" for consistency in the revised title. The word "otherwise" is omitted as unnecessary.
 

@@ -6,7 +6,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;The term “electing large partnership” means, with respect to any partnership taxable year, any partnership if—
+&emsp;The term "electing large partnership" means, with respect to any partnership taxable year, any partnership if—
 
 &emsp;&emsp;(A) the number of persons who were partners in such partnership in the preceding partnership taxable year equaled or exceeded 100, and
 
@@ -22,7 +22,7 @@ For purposes of this part—
 
 #### (1) Certain partners not counted
 
-&emsp;For purposes of this section, the term “partner” does not include any individual performing substantial services in connection with the activities of the partnership and holding an interest in such partnership, or an individual who formerly performed substantial services in connection with such activities and who held an interest in such partnership at the time the individual performed such services.
+&emsp;For purposes of this section, the term "partner" does not include any individual performing substantial services in connection with the activities of the partnership and holding an interest in such partnership, or an individual who formerly performed substantial services in connection with such activities and who held an interest in such partnership at the time the individual performed such services.
 
 #### (2) Exclusion
 
@@ -50,7 +50,7 @@ If, on the partnership return of any partnership, such partnership is treated as
 
 #### Amendments
 
-<b>1999</b>—Subsec. (c). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–170 substituted "section 1221(a)(1)" for "section 1221(1)".
 
 #### Effective Date of 1999 Amendment
 

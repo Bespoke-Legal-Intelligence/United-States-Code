@@ -2,7 +2,7 @@
 
 (a)
 
-General.—To the extent practicable, the Secretary of Transportation shall maintain a coordinated effort to develop and carry out solutions to the railroad grade crossing problem and measures to protect pedestrians in densely populated areas along railroad rights of way. To carry out this subsection, the Secretary may use the authority of the Secretary under this chapter and over highway, traffic, and motor vehicle safety and over highway construction. The Secretary may purchase items of nominal value and distribute them to the public without charge as part of an educational or awareness program to accomplish the purposes of this section and of any other sections of this title related to improving the safety of highway-rail crossings and to preventing trespass on railroad rights of way, and the Secretary shall prescribe guidelines for the administration of this authority.
+General.—To the extent practicable, the Secretary of Transportation shall maintain acoordinated effort to develop and carry out solutions to the railroad grade crossing problem and measures to protect pedestrians in densely populated areas along railroad rights of way. To carry out this subsection, the Secretary may use the authority of the Secretary under this chapter and over highway, traffic, and motor vehicle safety and over highway construction. The Secretary may purchase items of nominal value and distribute them to the public without charge as part of an educational or awareness program to accomplish the purposes of this section and of any other sections of this title related to improving the safety of highway-rail crossings and to preventing trespass on railroad rights of way, and the Secretary shall prescribe guidelines for the administration of this authority.
 
 (b)
 
@@ -48,33 +48,33 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §§202(q), 215(a), (b); added Ju
 
 45:445(a), (b).
 
-In subsection (a), the words “In addition” are omitted as surplus. The word “maintain” is substituted for “undertake” for clarity because the effort has begun. The words “the objective of” are omitted as surplus. The words “To carry out this section, the Secretary may use” are added for clarity.
+In subsection (a), the words "In addition" are omitted as surplus. The word "maintain" is substituted for "undertake" for clarity because the effort has begun. The words "the objective of" are omitted as surplus. The words "To carry out this section, the Secretary may use" are added for clarity.
 
-In subsection (b), the words “Not later than June 22, 1989” are substituted for “within one year after June 22, 1988” for clarity.
+In subsection (b), the words "Not later than June 22, 1989" are substituted for "within one year after June 22, 1988" for clarity.
 
-In subsection (c)(1), before clause (A), and (2), the word “Secretary” is substituted for “Federal Railroad Administration” for clarity and consistency in the revised title. In this restatement, the Secretary of Transportation carries out all laws. However, this subsectionis based on source provisions that provide that the Federal Railroad Administration carries out the subsection. A cross-reference to this subsection has been included in 49:103 to preserve duties and powers under this subsection to the Administrator of the Federal Railroad Administration.
+In subsection (c)(1), before clause (A), and (2), the word "Secretary" is substituted for "Federal Railroad Administration" for clarity and consistency in the revised title. In this restatement, the Secretary of Transportation carries out all laws. However, this subsection is based on source provisions that provide that the Federal Railroad Administration carries out the subsection. A cross-reference to this subsection has been included in 49:103 to preserve duties and powers under this subsection to the Administrator of the Federal Railroad Administration.
 
-In subsection (c)(1), before clause (A), the words “and incidents” are added for consistency in this part.
+In subsection (c)(1), before clause (A), the words "and incidents" are added for consistency in this part.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–432 inserted at end “The Secretary may purchase items of nominal value and distribute them to the public without charge as part of an educational or awareness program to accomplish the purposes of this section and of any other sections of this title related to improving the safety of highway-rail crossings and to preventing trespass on railroad rights of way, and the Secretary shall prescribe guidelines for the administration of this authority.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–432 inserted at end "The Secretary may purchase items of nominal value and distribute them to the public without charge as part of an educational or awareness program to accomplish the purposes of this section and of any other sections of this title related to improving the safety of highway-rail crossings and to preventing trespass on railroad rights of way, and the Secretary shall prescribe guidelines for the administration of this authority."
 
-<b>1996</b>—Subsec. (c)(2). Pub. L. 104–287 substituted “Committee on Transportation and Infrastructure” for “Committee on Energy and Commerce”.
+<b>1996</b>—Subsec. (c)(2). Pub. L. 104–287 substituted "Committee on Transportation and Infrastructure" for "Committee on Energy and Commerce".
 
 #### Pedestrian Crossing Safety
 
-Pub. L. 110–432, div. A, title II, §201, Oct. 16, 2008, 122 Stat. 4868, provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall provide guidance to railroads on strategies and methods to prevent pedestrian accidents, incidents, injuries, and fatalities at or near passenger stations, including—
+Pub. L. 110–432, div. A, title II, §201, Oct. 16, 2008, 122 Stat. 4868, provided that: "Not later than 1 year after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary shall provide guidance to railroads on strategies and methods to prevent pedestrian accidents, incidents, injuries, and fatalities at or near passenger stations, including—
 
-&emsp;“(1) providing audible warning of approaching trains to the pedestrians at railroad passenger stations;
+&emsp;"(1) providing audible warning of approaching trains to the pedestrians at railroad passenger stations;
 
-&emsp;“(2) using signs, signals, or other visual devices to warn pedestrians of approaching trains;
+&emsp;"(2) using signs, signals, or other visual devices to warn pedestrians of approaching trains;
 
-&emsp;“(3) installing infrastructure at pedestrian crossings to improve the safety of pedestrians crossing railroad tracks;
+&emsp;"(3) installing infrastructure at pedestrian crossings to improve the safety of pedestrians crossing railroad tracks;
 
-&emsp;“(4) installing fences to prohibit access to railroad tracks; and
+&emsp;"(4) installing fences to prohibit access to railroad tracks; and
 
-&emsp;“(5) other strategies or methods as determined by the Secretary.”
+&emsp;"(5) other strategies or methods as determined by the Secretary."
 
-\[For definitions of “crossing”, “Secretary”, and “railroad”, as used in section 201 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
+\[For definitions of "crossing", "Secretary", and "railroad", as used in section 201 of Pub. L. 110–432, set out above, see section 2(a) of Pub. L. 110–432, set out as a note under section 20102 of this title.\]
 

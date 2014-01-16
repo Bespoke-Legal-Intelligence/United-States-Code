@@ -1,6 +1,6 @@
 ### §21705. Exclusive right to name, emblems, and badges
 
-The corporation and its State and local subdivisions have the exclusive right to use the name “The American Legion” or “American Legion”. The corporation has the exclusive right to use, manufacture, and control the right to manufacture, emblems and badges the corporation adopts.
+The corporation and its State and local subdivisions have the exclusive right to use the name "The American Legion" or "American Legion". The corporation has the exclusive right to use, manufacture, and control the right to manufacture, emblems and badges the corporation adopts.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1298.)
 
@@ -26,5 +26,5 @@ Sept. 16, 1919, ch. 59, §§4 (words between 4th and 5th semicolons), 8, 41 Stat
 
 &nbsp;
 
-The word “sole” is omitted as included in “exclusive”. The words “to have and”, “in carrying out its purposes”, and “in carrying out the purposes of the corporation” are omitted as unnecessary.
+The word "sole" is omitted as included in "exclusive". The words "to have and", "in carrying out its purposes", and "in carrying out the purposes of the corporation" are omitted as unnecessary.
 

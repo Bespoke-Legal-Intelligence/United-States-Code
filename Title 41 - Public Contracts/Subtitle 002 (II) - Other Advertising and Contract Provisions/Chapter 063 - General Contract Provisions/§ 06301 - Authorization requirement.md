@@ -10,7 +10,7 @@ Exception.—
 
 &emsp;(1)
 
-Definition.—In this subsection, the term “defined Secretary” means—
+Definition.—In this subsection, the term "defined Secretary" means—
 
 &emsp;&emsp;(A) the Secretary of Defense; or
 
@@ -36,7 +36,7 @@ Special Rule for Purchase of Land.—Land may not be purchased by the Federal Go
 
 #### Amendment Not Shown in Text
 
-<i>Subsecs. (a) and (b) of this section are derived from section 11 of former Title 41, Public Contracts, which was amended by Pub. L. 111–281, title IX, §903(a)(4), Oct. 15, 2010, 124 Stat. 3010, prior to being repealed and reenacted as subsecs. (a) and (b) of this section by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 903 of Pub. L. 111–281 provided that, effective with the enactment of Pub. L. 109–241, section 902(c) of Pub. L. 109–241, which amended section 3732 of the Revised Statutes, is amended by inserting in the directory language, “of the United States” after “Revised Statutes”, resulting in no change in text.</i>
+<i>Subsecs. (a) and (b) of this section are derived from section 11 of former Title 41, Public Contracts, which was amended by Pub. L. 111–281, title IX, §903(a)(4), Oct. 15, 2010, 124 Stat. 3010, prior to being repealed and reenacted as subsecs. (a) and (b) of this section by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 903 of Pub. L. 111–281 provided that, effective with the enactment of Pub. L. 109–241, section 902(c) of Pub. L. 109–241, which amended section 3732 of the Revised Statutes, is amended by inserting in the directory language, "of the United States" after "Revised Statutes", resulting in no change in text.</i>
 
 Historical and Revision Notes
 
@@ -64,7 +64,7 @@ R.S. §3732; Pub. L. 89–687, title VI, §612(e), Oct. 15, 1966, 80 Stat. 993; 
 
 R.S. §3736.
 
-In subsection (b)(1)(A), the words “Secretary of Defense” are substituted for “Department of Defense” because of 10:113.
+In subsection (b)(1)(A), the words "Secretary of Defense" are substituted for "Department of Defense" because of 10:113.
 
-In subsection (b)(1)(B), the words “Secretary of Homeland Security” are substituted for “Department of Homeland Security” because of section 102(a)(2) of the Homeland Security Act of 2002 (6 U.S.C. 112(a)(2)).
+In subsection (b)(1)(B), the words "Secretary of Homeland Security" are substituted for "Department of Homeland Security" because of section 102(a)(2) of the Homeland Security Act of 2002 (6 U.S.C. 112(a)(2)).
 

@@ -86,23 +86,23 @@ Section 5703 of title 5, referred to in subsec. (j), was amended generally by Pu
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–315, §921(b)(1)(A), substituted “(b)(4)” for “(b)(5)” wherever appearing.
+<b>2008</b>—Pub. L. 110–315, §921(b)(1)(A), substituted "(b)(4)" for "(b)(5)" wherever appearing.
 
 Subsec. (e)(5). Pub. L. 110–315, §921(b)(1)(B), added par. (5).
 
-<b>1998</b>—Subsec. (b)(3). Pub. L. 105–277, §1225(c)(1), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Director of the Arms Control and Disarmament Agency (or if the Director so designates, another officer of that Agency who was appointed with the advice and consent of the Senate).”
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–277, §1225(c)(1), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "The Director of the Arms Control and Disarmament Agency (or if the Director so designates, another officer of that Agency who was appointed with the advice and consent of the Senate)."
 
-Subsec. (b)(4), (5). Pub. L. 105–277, §1225(c)(1)(B), (C), redesignated par. (5) as (4) and substituted “Twelve” for “Eleven”. Former par. (4) redesignated (3).
+Subsec. (b)(4), (5). Pub. L. 105–277, §1225(c)(1)(B), (C), redesignated par. (5) as (4) and substituted "Twelve" for "Eleven". Former par. (4) redesignated (3).
 
 #### Change of Name
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999.
 
-Committee on Education and Labor of House of Representatives changed to Committee on Education andthe Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Education and Labor of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–315, title IX, §921(b)(2), Aug. 14, 2008, 122 Stat. 3456, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect as if enacted on June 1, 2007, and shall apply to any member of the Board of Directors of the Institute of Peace confirmed by the Senate and sworn in as a member of the Board of Directors on or after such date.”
+Pub. L. 110–315, title IX, §921(b)(2), Aug. 14, 2008, 122 Stat. 3456, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect as if enacted on June 1, 2007, and shall apply to any member of the Board of Directors of the Institute of Peace confirmed by the Senate and sworn in as a member of the Board of Directors on or after such date."
 
 #### Effective Date of 1998 Amendment
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 105–277 effective Apr. 1, 1999, see section 1201 of Pub. 
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

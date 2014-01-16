@@ -26,15 +26,15 @@ Provisions similar to those in this section were contained in section 1004(a), (
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–163, §732(b), struck out “periodic” before “physical” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §732(b), struck out "periodic" before "physical" in section catchline.
 
-Subsec. (a)(1). Pub. L. 109–163, §732(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “be examined as to the member's physical fitness every five years, or more often as the Secretary concerned considers necessary; and”.
+Subsec. (a)(1). Pub. L. 109–163, §732(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "be examined as to the member's physical fitness every five years, or more often as the Secretary concerned considers necessary; and".
 
-Subsec. (a)(2). Pub. L. 109–163, §732(a)(2), substituted “to the Secretary concerned on an annual basis documentation of the medical and dental readiness of the member to perform military duties” for “annually to the Secretary concerned a certificate of physical condition”.
+Subsec. (a)(2). Pub. L. 109–163, §732(a)(2), substituted "to the Secretary concerned on an annual basis documentation of the medical and dental readiness of the member to perform military duties" for "annually to the Secretary concerned a certificate of physical condition".
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–107, §516(a)(1), (2), substituted “Selected Reserve” for “Ready Reserve” in introductory provisions and redesignated concluding provisions as subsec. (c).
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §516(a)(1), (2), substituted "Selected Reserve" for "Ready Reserve" in introductory provisions and redesignated concluding provisions as subsec. (c).
 
-Subsec. (a)(1). Pub. L. 107–107, §516(b), substituted “the member's physical fitness” for “his physical fitness”.
+Subsec. (a)(1). Pub. L. 107–107, §516(b), substituted "the member's physical fitness" for "his physical fitness".
 
 Subsec. (b). Pub. L. 107–107, §516(a)(4), added subsec. (b). Former subsec. (b) redesignated (d).
 

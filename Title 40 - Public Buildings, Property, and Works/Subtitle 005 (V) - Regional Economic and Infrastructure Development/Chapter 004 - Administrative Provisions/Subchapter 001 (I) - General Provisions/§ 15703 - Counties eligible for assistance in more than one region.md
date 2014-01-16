@@ -14,7 +14,7 @@ Changes in Selections.—The selection of a Commission by a political subdivisio
 
 (d)
 
-Inclusion of Appalachian Regional Commission.—In this section, the term “Commission” includes the Appalachian Regional Commission established under chapter 143.
+Inclusion of Appalachian Regional Commission.—In this section, the term "Commission" includes the Appalachian Regional Commission established under chapter 143.
 
 (Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1480, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2242.)
 

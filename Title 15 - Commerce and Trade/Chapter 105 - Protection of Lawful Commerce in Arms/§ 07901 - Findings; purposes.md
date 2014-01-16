@@ -14,7 +14,7 @@ Congress finds the following:
 
 &emsp;(5) Businesses in the United States that are engaged in interstate and foreign commerce through the lawful design, manufacture, marketing, distribution, importation, or sale to the public of firearms or ammunition products that have been shipped or transported in interstate or foreign commerce are not, and should not, be liable for the harm caused by those who criminally or unlawfully misuse firearm products or ammunition products that function as designed and intended.
 
-&emsp;(6) The possibility of imposing liability on an entire industry for harm that is solely caused by others is an abuse of the legal system, erodes public confidence in our Nation's laws, threatens the diminution of a basic constitutional right and civil liberty, invites thedisassembly and destabilization of other industries and economic sectors lawfully competing in the free enterprise system of the United States, and constitutes an unreasonable burden on interstate and foreign commerce of the United States.
+&emsp;(6) The possibility of imposing liability on an entire industry for harm that is solely caused by others is an abuse of the legal system, erodes public confidence in our Nation's laws, threatens the diminution of a basic constitutional right and civil liberty, invites the disassembly and destabilization of other industries and economic sectors lawfully competing in the free enterprise system of the United States, and constitutes an unreasonable burden on interstate and foreign commerce of the United States.
 
 &emsp;(7) The liability actions commenced or contemplated by the Federal Government, States, municipalities, and private interest groups and others are based on theories without foundation in hundreds of years of the common law and jurisprudence of the United States and do not represent a bona fide expansion of the common law. The possible sustaining of these actions by a maverick judicial officer or petit jury would expand civil liability in a manner never contemplated by the framers of the Constitution, by Congress, or by the legislatures of the several States. Such an expansion of liability would constitute a deprivation of the rights, privileges, and immunities guaranteed to a citizen of the United States under the Fourteenth Amendment to the United States Constitution.
 
@@ -48,9 +48,9 @@ The National Firearms Act, referred to in subsec. (a)(4), is classified generall
 
 The Arms Export Control Act, referred to in subsec. (a)(4), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of Title 22, Foreign Relations and Intercourse. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 109–92, Oct. 26, 2005, 119 Stat. 2095, known as the Protection of Lawful Commerce in Arms Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 109–92, Oct. 26, 2005, 119 Stat. 2095, known as the Protection of Lawful Commerce in Arms Act. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 
-Pub. L. 109–92, §1, Oct. 26, 2005, 119 Stat. 2095, provided that: “This Act \[enacting this chapter, amending sections 922 and 924 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 921 and 922 of Title 18\] may be cited as the ‘Protection of Lawful Commerce in Arms Act’.”
+Pub. L. 109–92, §1, Oct. 26, 2005, 119 Stat. 2095, provided that: "This Act \[enacting this chapter, amending sections 922 and 924 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under sections 921 and 922 of Title 18\] may be cited as the 'Protection of Lawful Commerce in Arms Act'."
 

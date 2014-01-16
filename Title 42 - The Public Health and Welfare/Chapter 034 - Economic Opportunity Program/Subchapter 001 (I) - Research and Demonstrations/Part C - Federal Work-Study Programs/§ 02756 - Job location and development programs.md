@@ -2,7 +2,7 @@
 
 #### (a) Agreements required
 
-(1) The Secretary is authorized to enter into agreements with eligible institutions under which such institution may use not more than 10 percent or $75,00 of its allotment under section 2752 of this title, whichever is less, to establish or expand a program under which such institution, separately or in combination with other eligible institutions, locates and develops jobs, including community service jobs, for currently enrolled students.
+(1) The Secretary is authorized to enter into agreements with eligible institutions underwhich such institution may use not more than 10 percent or $75,00 of its allotment under section 2752 of this title, whichever is less, to establish or expand a program under which such institution, separately or in combination with other eligible institutions, locates and develops jobs, including community service jobs, for currently enrolled students.
 
 (2) Jobs located and developed under this section shall be jobs that are suitable to the scheduling and other needs of such students and that, to the maximum extent practicable, complement and reinforce the educational programs or vocational goals of such students.
 
@@ -18,7 +18,7 @@ Agreements under subsection (a) of this section shall—
 
 &emsp;(4) provide satisfactory assurance that the location or development of jobs pursuant to programs assisted under this section will not result in the displacement of employed workers or impair existing contracts for services;
 
-&emsp;(5) provide satisfactory assurance that Federal funds used for the purpose of this sectioncan realistically be expected to help generate student wages exceeding, in the aggregate, the amount of such funds, and that if such funds are used to contract with another organization, appropriate performance standards are part of such contract; and
+&emsp;(5) provide satisfactory assurance that Federal funds used for the purpose of this section can realistically be expected to help generate student wages exceeding, in the aggregate, the amount of such funds, and that if such funds are used to contract with another organization, appropriate performance standards are part of such contract; and
 
 &emsp;(6) provide that the institution will submit to the Secretary an annual report on the uses made of funds provided under this section and an evaluation of the effectiveness of such program in benefiting the students of such institution.
 
@@ -36,23 +36,23 @@ Provisions similar to this section were contained in section 2756a of this title
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–315 substituted “$75,000” for “$50,000”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–315 substituted "$75,000" for "$50,000".
 
-<b>1992</b>—Pub. L. 102–325 amended section generally, restating subsecs. (a) and (b) with changes in substance and structure and striking out subsec. (c) which defined “community services”.
+<b>1992</b>—Pub. L. 102–325 amended section generally, restating subsecs. (a) and (b) with changes in substance and structure and striking out subsec. (c) which defined "community services".
 
-<b>1987</b>—Subsec. (b)(3) to (7). Pub. L. 100–50 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which read as follows: “provide satisfactory assurance that the institution will continue to spend in its own job location and development programs, from sources other than funds received under this section, not less than the average expenditures per year made during the most recent 3 fiscal years preceding the effective date of the agreement;”.
+<b>1987</b>—Subsec. (b)(3) to (7). Pub. L. 100–50 redesignated pars. (4) to (7) as (3) to (6), respectively, and struck out former par. (3) which read as follows: "provide satisfactory assurance that the institution will continue to spend in its own job location and development programs, from sources other than funds received under this section, not less than the average expenditures per year made during the most recent 3 fiscal years preceding the effective date of the agreement;".
 
 <b>1986</b>—Pub. L. 99–498 amended section generally, substituting provisions relating to job location and development programs for provisions relating to equitable distribution of assistance.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–374, §§435(a), 1391(a)(1), substituted “Secretary” for “Commissioner” and inserted provision that criteria established under this subsection not result in institution's receiving an amount less than institution used under this section for fiscal year 1979, unless there has been a substantial decline in student enrollment of institution.
+<b>1980</b>—Subsec. (a). Pub. L. 96–374, §§435(a), 1391(a)(1), substituted "Secretary" for "Commissioner" and inserted provision that criteria established under this subsection not result in institution's receiving an amount less than institution used under this section for fiscal year 1979, unless there has been a substantial decline in student enrollment of institution.
 
-Subsec. (b). Pub. L. 96–374, §435(b), inserted provision that, of sums granted to an eligible institution under this part for any fiscal year, 10 per centum may, at discretion of institution, remain available for expenditure during succeeding fiscal year to carry out programs under this part, and substituted “close of the second fiscal year next succeeding the fiscal year for which funds were appropriated” for “close of the fiscal year next succeeding the fiscal year for which such funds were appropriated” in provision covering available time period during which funds not used remain available to Secretary for making grants to other institutions in same State.
+Subsec. (b). Pub. L. 96–374, §435(b), inserted provision that, of sums granted to an eligible institution under this part for any fiscal year, 10 per centum may, at discretion of institution, remain available for expenditure during succeeding fiscal year to carry out programs under this part, and substituted "close of the second fiscal year next succeeding the fiscal year for which funds were appropriated" for "close of the fiscal year next succeeding the fiscal year for which such funds were appropriated" in provision covering available time period during which funds not used remain available to Secretary for making grants to other institutions in same State.
 
 Subsec. (c). Pub. L. 96–374, §435(b), added subsec. (c).
 
 <b>1975</b>—Pub. L. 94–43 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1968</b>—Pub. L. 90–575, §133(a), substituted “eligible institutions” for “institutions of higher education”.
+<b>1968</b>—Pub. L. 90–575, §133(a), substituted "eligible institutions" for "institutions of higher education".
 
 #### Effective Date of 1992 Amendment
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 Pub. L. 94–43, §5, June 28, 1975, 89 Stat. 234, provided that:
 
-“(a) The amendment made by the provisions of section 2 of this Act \[amending this section\] shall be effective with respect to appropriations for fiscal years beginning after June 30, 1974.
+"(a) The amendment made by the provisions of section 2 of this Act \[amending this section\] shall be effective with respect to appropriations for fiscal years beginning after June 30, 1974.
 
-“(b) Subsections (b) and (d) of section 431 \[now 437\] of the General Education Provisions Act \[section 1232(b) and (d) of Title 20, Education\] shall not operate to delay the effectiveness of regulations issued by the Commissioner of Education to implement the provisions of this Act \[see Short Title of 1975 Amendment note set out under section 2701 of this title\].”
+"(b) Subsections (b) and (d) of section 431 \[now 437\] of the General Education Provisions Act \[section 1232(b) and (d) of Title 20, Education\] shall not operate to delay the effectiveness of regulations issued by the Commissioner of Education to implement the provisions of this Act \[see Short Title of 1975 Amendment note set out under section 2701 of this title\]."
 

@@ -50,15 +50,15 @@ Public Notice.—No exclusive or partially exclusive license may be granted unde
 
 (f)
 
-Plan.—No Federal agency shall grant any license under a patent or patent application on a federally owned invention unless the personrequesting the license has supplied the agency with a plan for development or marketing of the invention, except that any such plan shall be treated by the Federal agency as commercial and financial information obtained from a person and privileged and confidential and not subject to disclosure under section 552 of title 5.
+Plan.—No Federal agency shall grant any license under a patent or patent application on a federally owned invention unless the person requesting the license has supplied the agency with a plan for development or marketing of the invention, except that any such plan shall be treated by the Federal agency as commercial and financial information obtained from a person and privileged and confidential and not subject to disclosure under section 552 of title 5.
 
 (Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3024; amended Pub. L. 106–404, §4(a), Nov. 1, 2000, 114 Stat. 1743; Pub. L. 107–273, div. C, title III, §13206(a)(15), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 112–29, §20(i)(3), Sept. 16, 2011, 125 Stat. 335.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d)(1). Pub. L. 112–29 substituted “nontransferable” for “nontransferrable”.
+<b>2011</b>—Subsec. (d)(1). Pub. L. 112–29 substituted "nontransferable" for "nontransferrable".
 
-<b>2002</b>—Subsecs. (d)(2), (f). Pub. L. 107–273 struck out “of the United States Code” after “title 5”.
+<b>2002</b>—Subsecs. (d)(2), (f). Pub. L. 107–273 struck out "of the United States Code" after "title 5".
 
 <b>2000</b>—Pub. L. 106–404 amended section catchline and text generally, restructuring and revising provisions setting forth criteria, terms, and conditions relating to granting of licenses on federally owned inventions.
 

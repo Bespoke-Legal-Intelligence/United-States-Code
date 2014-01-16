@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) There is at the head of the Administration an Administrator for Nuclear Security (in this chapter referred to as the “Administrator”).
+(1) There is at the head of the Administration an Administrator for Nuclear Security (in this chapter referred to as the "Administrator").
 
 (2) Pursuant to subsection (c) of section 7132 of title 42, the Under Secretary for Nuclear Security of the Department of Energy serves as the Administrator.
 
@@ -50,7 +50,7 @@ The Administrator has authority over, and is responsible for, all programs and a
 
 #### (c) Procurement authority
 
-The Administrator is the senior procurement executive for the Administration for the purposes of section 414(3) of title 41.<sup>1</sup>
+The Administrator is the senior procurement executive for the Administration for the purposes of section 1702(c) of title 41.
 
 #### (d) Policy authority
 
@@ -68,19 +68,17 @@ Except as provided by subsections (b) and (c) of section 2481 of this title:
 
 &emsp;(2) Such authority does not apply to the abolition of organizational units or components established by law or the transfer of functions vested by law in any organizational unit or component.
 
-(Pub. L. 106–65, div. C, title XXXII, §3212, Oct. 5, 1999, 113 Stat. 957; Pub. L. 106–398, §1 \[div. C, title XXXI, §§3152(b), 3159(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464, 1654A–469; Pub. L. 107–107, div. A, title X, §1048(i)(12), Dec. 28, 2001, 115 Stat. 1230; Pub. L. 108–375, div. A, title IX, §902(e), Oct. 28, 2004, 118 Stat. 2025; Pub. L. 110–417, div. C, title XXXI, §3111, Oct. 14, 2008, 122 Stat. 4753; Pub. L. 112–239, div. C, title XXXI, §3132(d)(1), Jan. 2, 2013, 126 Stat. 2187.)
-
-#### References in Text
-
-Section 414 of title 41, referred to in subsec. (c), was amended generally by Pub. L. 108–136, div. A, title XIV, §1421(a)(1), Nov. 24, 2003, 117 Stat. 1666, and, as so amended, the substance of par. (3) was restated in subsec. (c)(1) of section 414. Section 414(c) of title 41 was subsequently repealed and restated as section 1702(c) of Title 41, Public Contracts, by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For disposition of sections of former Title 41, see Disposition Table preceding section 101 of Title 41.
+(Pub. L. 106–65, div. C, title XXXII, §3212, Oct. 5, 1999, 113 Stat. 957; Pub. L. 106–398, §1 \[div. C, title XXXI, §§3152(b), 3159(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–464, 1654A–469; Pub. L. 107–107, div. A, title X, §1048(i)(12), Dec. 28, 2001, 115 Stat. 1230; Pub. L. 108–375, div. A, title IX, §902(e), Oct. 28, 2004, 118 Stat. 2025; Pub. L. 110–417, div. C, title XXXI, §3111, Oct. 14, 2008, 122 Stat. 4753; Pub. L. 112–239, div. C, title XXXI, §3132(d)(1), Jan. 2, 2013, 126 Stat. 2187; Pub. L. 113–66, div. C, title XXXI, §3145(a), Dec. 26, 2013, 127 Stat. 1071.)
 
 #### Amendments
 
 <b>2013</b>—Subsec. (a)(2). Pub. L. 112–239 made technical amendment to reference in original act which appears in text as reference to section 7132 of title 42.
 
+Subsec. (c). Pub. L. 113–66 substituted "section 1702(c) of title 41" for "section 414(3) of title 41".
+
 <b>2008</b>—Subsec. (b)(18), (19). Pub. L. 110–417 added par. (18) and redesignated former par. (18) as (19).
 
-<b>2004</b>—Subsec. (e). Pub. L. 108–375 struck out “Joint” before “Nuclear” in heading and text.
+<b>2004</b>—Subsec. (e). Pub. L. 108–375 struck out "Joint" before "Nuclear" in heading and text.
 
 <b>2001</b>—Subsecs. (e), (f). Pub. L. 107–107 redesignated subsec. (e), relating to reorganization authority, as (f).
 
@@ -92,111 +90,109 @@ Pub. L. 106–398, §1 \[div. C, title XXXI, §3152(b)\], added subsec. (e) rela
 
 Pub. L. 106–398, §1 \[div. C, title XXXI, §3161\], Oct. 30, 2000, 114 Stat. 1654, 1654A–470, provided that:
 
-“(a)
+"(a)
 
 Establishment.—The Administrator for Nuclear Security shall establish a Technology Infrastructure Pilot Program in accordance with this section.
 
-“(b)
+"(b)
 
 Purpose.—The purpose of the program shall be to explore new methods of collaboration and improvements in the management and effectiveness of collaborative programs carried out by the national security laboratories and nuclear weapons production facilities in partnership with private industry and institutions of higher education and to improve the ability of those laboratories and facilities to support missions of the Administration.
 
-“(c)
+"(c)
 
 Funding.—(1) Except as provided in paragraph (2), funding shall be available for the pilot program only to the extent of specific authorizations and appropriations enacted after the date of the enactment of this Act \[Oct. 30, 2000\].
 
-“(2) From amounts available in fiscal years 2001 and 2002 for technology partnership programs of the Administration, the Administrator may allocate to carry out the pilot program not more than $5,000,000.
+"(2) From amounts available in fiscal years 2001 and 2002 for technology partnership programs of the Administration, the Administrator may allocate to carry out the pilot program not more than $5,000,000.
 
-“(d)
+"(d)
 
 Project Requirements.—A project may not be approved for the pilot program unless the project meets the following requirements:
 
-&emsp;“(1) The participants in the project include—
+&emsp;"(1) The participants in the project include—
 
-&emsp;&emsp;“(A) a national security laboratory or nuclear weapons production facility; and
+&emsp;&emsp;"(A) a national security laboratory or nuclear weapons production facility; and
 
-&emsp;&emsp;“(B) one or more of the following:
+&emsp;&emsp;"(B) one or more of the following:
 
-&emsp;&emsp;&emsp;“(i) A business.
+&emsp;&emsp;&emsp;"(i) A business.
 
-&emsp;&emsp;&emsp;“(ii) An institution of higher education.
+&emsp;&emsp;&emsp;"(ii) An institution of higher education.
 
-&emsp;&emsp;&emsp;“(iii) A nonprofit institution.
+&emsp;&emsp;&emsp;"(iii) A nonprofit institution.
 
-&emsp;&emsp;&emsp;“(iv) An agency of a State, local, or tribal government.
+&emsp;&emsp;&emsp;"(iv) An agency of a State, local, or tribal government.
 
-&emsp;“(2)(A) Not less than 50 percent of the costs of the project are to be provided by non-Federal sources.
+&emsp;"(2)(A) Not less than 50 percent of the costs of the project are to be provided by non-Federal sources.
 
-&emsp;“(B)(i) The calculation of the amount of the costs of the project provided by non-Federal sources shall include cash, personnel, services, equipment, and other resources expended on the project.
+&emsp;"(B)(i) The calculation of the amount of the costs of the project provided by non-Federal sources shall include cash, personnel, services, equipment, and other resources expended on the project.
 
-&emsp;“(ii) No funds or other resources expended before the start of the project or outside the project's scope of work may be credited toward the costs provided by non-Federal sources to the project.
+&emsp;"(ii) No funds or other resources expended before the start of the project or outside the project's scope of work may be credited toward the costs provided by non-Federal sources to the project.
 
-&emsp;“(3) The project (other than in the case of a project under which the participating laboratory or facility receives funding under this section) shall be competitively selected by that laboratory or facility using procedures determined to be appropriate by the Administrator.
+&emsp;"(3) The project (other than in the case of a project under which the participating laboratory or facility receives funding under this section) shall be competitively selected by that laboratory or facility using procedures determined to be appropriate by the Administrator.
 
-&emsp;“(4) No Federal funds shall be made available under this section for—
+&emsp;"(4) No Federal funds shall be made available under this section for—
 
-&emsp;&emsp;“(A) construction; or
+&emsp;&emsp;"(A) construction; or
 
-&emsp;&emsp;“(B) any project for more than five years.
+&emsp;&emsp;"(B) any project for more than five years.
 
-“(e)
+"(e)
 
 Selection Criteria.—(1) The projects selected for the pilot program shall—
 
-&emsp;“(A) stimulate the development of technology expertise and capabilities in private industry and institutions of higher education that can support the nuclear weapons and nuclear nonproliferation missions of the national security laboratories and nuclear weapons production facilities on a continuing basis;
+&emsp;"(A) stimulate the development of technology expertise and capabilities in private industry and institutions of higher education that can support the nuclear weapons and nuclear nonproliferation missions of the national security laboratories and nuclear weapons production facilities on a continuing basis;
 
-&emsp;“(B) improve the ability of those laboratories and facilities \[to\] benefit from commercial research, technology, products, processes, and services that can support the nuclear weapons and nuclear nonproliferation missions of those laboratories and facilities on a continuing basis; and
+&emsp;"(B) improve the ability of those laboratories and facilities \[to\] benefit from commercial research, technology, products, processes, and services that can support the nuclear weapons and nuclear nonproliferation missions of those laboratories and facilities on a continuing basis; and
 
-&emsp;“(C) encourage the exchange of scientific and technological expertise between those laboratories and facilities and—
+&emsp;"(C) encourage the exchange of scientific and technological expertise between those laboratories and facilities and—
 
-&emsp;&emsp;“(i) institutions of higher education;
+&emsp;&emsp;"(i) institutions of higher education;
 
-&emsp;&emsp;“(ii) technology-related business concerns;
+&emsp;&emsp;"(ii) technology-related business concerns;
 
-&emsp;&emsp;“(iii) nonprofit institutions; and
+&emsp;&emsp;"(iii) nonprofit institutions; and
 
-&emsp;&emsp;“(iv) agencies of State, tribal, or local governments;
+&emsp;&emsp;"(iv) agencies of State, tribal, or local governments;
 
 > &emsp;that can support the missions of those laboratories and facilities.
 
-“(2) The Administrator may authorize the provision of Federal funds for a project under this section only if the director of the laboratory or facility managing the project determines that the project is likely to improve the ability of that laboratory or facility to achieve technical success in meeting nuclear weapons and nuclear nonproliferation missions of the Administration.
+"(2) The Administrator may authorize the provision of Federal funds for a project under this section only if the director of the laboratory or facility managing the project determines that the project is likely to improve the ability of that laboratory or facility to achieve technical success in meeting nuclear weapons and nuclear nonproliferation missions of the Administration.
 
-“(3) The Administrator shall require the director of the laboratory or facility to consider the following criteria in selecting a project to receive Federal funds:
+"(3) The Administrator shall require the director of the laboratory or facility to consider the following criteria in selecting a project to receive Federal funds:
 
-&emsp;“(A) The potential of the project to succeed, based on its technical merit, team members, management approach, resources, and project plan.
+&emsp;"(A) The potential of the project to succeed, based on its technical merit, team members, management approach, resources, and project plan.
 
-&emsp;“(B) The potential of the project to promote the development of a commercially sustainable technology, determined by considering whether the project will derive sufficient demand for its products or services from the private sector to support the nuclear weapons and nuclear nonproliferation missions of the participating laboratory or facility on a continuing basis.
+&emsp;"(B) The potential of the project to promote the development of a commercially sustainable technology, determined by considering whether the project will derive sufficient demand for its products or services from the private sector to support the nuclear weapons and nuclear nonproliferation missions of the participating laboratory or facility on a continuing basis.
 
-&emsp;“(C) The potential of the project to promote the use of commercial research, technology, products, processes, and services by the participating laboratory or facility to achieve its nuclear weapons and nuclear nonproliferation missions.
+&emsp;"(C) The potential of the project to promote the use of commercial research, technology, products, processes, and services by the participating laboratory or facility to achieve its nuclear weapons and nuclear nonproliferation missions.
 
-&emsp;“(D) The commitment shown by non-Federal organizations to the project, based primarily on the nature and amount of the financial and other resources they will risk on the project.
+&emsp;"(D) The commitment shown by non-Federal organizations to the project, based primarily on the nature and amount of the financial and other resources they will risk on the project.
 
-&emsp;“(E) The extent to which the project involves a wide variety and number of institutions of higher education, nonprofit institutions, and technology-related business concerns that can support the nuclear weapons and nuclear nonproliferation missions of the participating laboratory or facility on a continuing basis and that will make substantive contributions to achieving the goals of the project.
+&emsp;"(E) The extent to which the project involves a wide variety and number of institutions of higher education, nonprofit institutions, and technology-related business concerns that can support the nuclear weapons and nuclear nonproliferation missions of the participating laboratory or facility on a continuing basis and that will make substantive contributions to achieving the goals of the project.
 
-&emsp;“(F) The extent of participation in the project by agencies of State, tribal, or local governments that will make substantive contributions to achieving the goals of the project.
+&emsp;"(F) The extent of participation in the project by agencies of State, tribal, or local governments that will make substantive contributions to achieving the goals of the project.
 
-&emsp;“(G) The extent to which the project focuses on promoting the development of technology-related business concerns that are small business concerns or involves small business concerns substantively in the project.
+&emsp;"(G) The extent to which the project focuses on promoting the development of technology-related business concerns that are small business concerns or involves small business concerns substantively in the project.
 
-“(f)
+"(f)
 
 Implementation Plan.—No funds may be allocated for the pilot program until 30 days after the date on which the Administrator submits to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a plan for the implementation of the pilot program. The plan shall, at a minimum—
 
-&emsp;“(1) identify the national security laboratories and nuclear weapons production facilities that have been designated by the Administrator to participate in the pilot program; and
+&emsp;"(1) identify the national security laboratories and nuclear weapons production facilities that have been designated by the Administrator to participate in the pilot program; and
 
-&emsp;“(2) with respect to each laboratory or facility identified under paragraph (1)—
+&emsp;"(2) with respect to each laboratory or facility identified under paragraph (1)—
 
-&emsp;&emsp;“(A) identify the businesses, institutions of higher education, nonprofit institutions, and agencies of State, local, or tribal government that are expected to participate in the pilot program at that laboratory or facility;
+&emsp;&emsp;"(A) identify the businesses, institutions of higher education, nonprofit institutions, and agencies of State, local, or tribal government that are expected to participate in the pilot program at that laboratory or facility;
 
-&emsp;&emsp;“(B) identify the technology areas to be addressed by the pilot program at that laboratory or facility and the manner in which the pilot program will support high-priority missions of that laboratory or facility on a continuing basis; and
+&emsp;&emsp;"(B) identify the technology areas to be addressed by the pilot program at that laboratory or facility and the manner in which the pilot program will support high-priority missions of that laboratory or facility on a continuing basis; and
 
-&emsp;&emsp;“(C) describe the management controls that have been put into place to ensure that the pilot program as conducted at that laboratory or facility is conducted in a cost-effective manner consistent with the objectives of the pilot program.
+&emsp;&emsp;"(C) describe the management controls that have been put into place to ensure that the pilot program as conducted at that laboratory or facility is conducted in a cost-effective manner consistent with the objectives of the pilot program.
 
-“(g)
+"(g)
 
 Report on Implementation.—(1) Not later than February 1, 2002, the Administrator shall submit to the congressional defense committees a report on the implementation and management of the pilot program. The report shall take into consideration the results of the pilot program to date and the views of the directors of the participating laboratories and facilities. The report shall include any recommendations the Administrator may have concerning the future of the pilot program.
 
-“(2) Not later than 30 days after the date on which the Administrator submits the report required by paragraph (1), the Comptroller General shall submit to the congressional defense committees a report containing the Comptroller General's assessment of that report.”
+"(2) Not later than 30 days after the date on which the Administrator submits the report required by paragraph (1), the Comptroller General shall submit to the congressional defense committees a report containing the Comptroller General's assessment of that report."
 
-\[For definitions of “national security laboratory” and “nuclear weapons production facility” as used in section 1 \[div. C, title XXXI, §3161\] of Pub. L. 106–398, set out above, see section 1 \[div. C, title XXXI, §3165\] of Pub. L. 106–398, set out as a note under section 2401 of this title.\]
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+\[For definitions of "national security laboratory" and "nuclear weapons production facility" as used in section 1 \[div. C, title XXXI, §3161\] of Pub. L. 106–398, set out above, see section 1 \[div. C, title XXXI, §3165\] of Pub. L. 106–398, set out as a note under section 2401 of this title.\]
 

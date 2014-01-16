@@ -16,9 +16,9 @@ The purposes of this section are—
 
 As used in this section:
 
-&emsp;(1) the term “used oil” means any oil which has been refined from crude oil, has been used, and as a result of such use has been contaminated by physical or chemical impurities.
+&emsp;(1) the term "used oil" means any oil which has been refined from crude oil, has been used, and as a result of such use has been contaminated by physical or chemical impurities.
 
-&emsp;(2) The term “recycled oil” means—
+&emsp;(2) The term "recycled oil" means—
 
 &emsp;&emsp;(A) used oil from which physical and chemical contaminants acquired through use have been removed by re-refining or other processing, or
 
@@ -26,11 +26,11 @@ As used in this section:
 
 > &emsp;with respect to which the manufacturer has determined, pursuant to the rule prescribed under subsection (d)(1)(A)(i) of this section, is substantially equivalent to new oil for a particular end use.
 
-&emsp;(3) The term “new oil” means any oil which has been refined from crude oil and has not been used, and which may or may not contain additives. Such term does not include used oil or recycled oil.
+&emsp;(3) The term "new oil" means any oil which has been refined from crude oil and has not been used, and which may or may not contain additives. Such term does not include used oil or recycled oil.
 
-&emsp;(4) The term “manufacturer” means any person who re-refines or otherwise processes used oil to remove physical or chemical impurities acquired through use or who blends such re-refined or otherwise processed used oil with new oil or additives.
+&emsp;(4) The term "manufacturer" means any person who re-refines or otherwise processes used oil to remove physical or chemical impurities acquired through use or who blends such re-refined or otherwise processed used oil with new oil or additives.
 
-&emsp;(5) The term “Commission” means the Federal Trade Commission.
+&emsp;(5) The term "Commission" means the Federal Trade Commission.
 
 #### (c) Test procedures for determining substantial equivalency of recycled oil and new oil
 
@@ -52,7 +52,7 @@ As soon as practicable after December 22, 1975, the National Institute of Standa
 
 Beginning on the effective date of the standards prescribed pursuant to subsection (d)(1)(A) of this section—
 
-&emsp;(1) no rule or order of the Commission, other than the rules required to be prescribed pursuant to subsection (d)(1)(A) of this section, and no law, regulation, or order of any State or political subdivision thereof may apply, or remain applicable, to any container of recycled oil, if such law, regulation, rule, or order requires any container of recycled oil, whichcontainer bears a label in accordance with the terms of the rules prescribed under subsection (d)(1)(A) of this section, to bear any label with respect to the comparative characteristics of such recycled oil with new oil which is not identical to that permitted by the rule respecting labeling standards prescribed under subsection (d)(1)(A)(ii) of this section; and
+&emsp;(1) no rule or order of the Commission, other than the rules required to be prescribed pursuant to subsection (d)(1)(A) of this section, and no law, regulation, or order of any State or political subdivision thereof may apply, or remain applicable, to any container of recycled oil, if such law, regulation, rule, or order requires any container of recycled oil, which container bears a label in accordance with the terms of the rules prescribed under subsection (d)(1)(A) of this section, to bear any label with respect to the comparative characteristics of such recycled oil with new oil which is not identical to that permitted by the rule respecting labeling standards prescribed under subsection (d)(1)(A)(ii) of this section; and
 
 &emsp;(2) no rule or order of the Commission may require any container of recycled oil to also bear a label containing any term, phrase, or description which connotes less than substantial equivalency of such recycled oil with new oil.
 
@@ -68,9 +68,9 @@ After the effective date of the rules required to be prescribed under subsection
 
 #### Amendments
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards” in two places.
+<b>1988</b>—Subsec. (c). Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "National Bureau of Standards" in two places.
 
 #### Applicability of Labeling Standards
 
-Pub. L. 96–463, §4(c), Oct. 15, 1980, 94 Stat. 2056, provided: “Before the effective date of the labeling standards required to be prescribed under section 383(d)(1)(A) of the Energy Policy and Conservation Act \[subsec. (d)(1)(A) of this section\], no requirement of any rule or order of the Federal Trade Commission may apply, or remain applicable, to any container of recycled oil (as defined in section 383(b) of such Act \[subsec. (b) of this section\]) if such requirement provides that the container must bear any label referring to the fact that it has been derived from previously used oil. Nothing in this subsection \[this note\] shall be construed to affect any labeling requirement applicable to recycled oil under any authority of law to the extent such requirement relates to fitness for intended use or any other performance characteristic of such oil or to any characteristic of such oil other than that referred to in the preceding sentence.”
+Pub. L. 96–463, §4(c), Oct. 15, 1980, 94 Stat. 2056, provided: "Before the effective date of the labeling standards required to be prescribed under section 383(d)(1)(A) of the Energy Policy and Conservation Act \[subsec. (d)(1)(A) of this section\], no requirement of any rule or order of the Federal Trade Commission may apply, or remain applicable, to any container of recycled oil (as defined in section 383(b) of such Act \[subsec. (b) of this section\]) if such requirement provides that the container must bear any label referring to the fact that it has been derived from previously used oil. Nothing in this subsection \[this note\] shall be construed to affect any labeling requirement applicable to recycled oil under any authority of law to the extent such requirement relates to fitness for intended use or any other performance characteristic of such oil or to any characteristic of such oil other than that referred to in the preceding sentence."
 

@@ -10,15 +10,15 @@
 
 &emsp;For purposes of this section:
 
-&emsp;&emsp;(A) The term “overlap agent or toxin” means a biological agent or toxin that—
+&emsp;&emsp;(A) The term "overlap agent or toxin" means a biological agent or toxin that—
 
 &emsp;&emsp;&emsp;(i) is listed pursuant to section 315A(a)(1) <sup>1</sup> of the Public Health Service Act \[42 U.S.C. 262a(a)(1)\], as added by section 201 of this Act; and
 
 &emsp;&emsp;&emsp;(ii) is listed pursuant to section 212(a)(1) of this Act \[7 U.S.C. 8401(a)(1)\].
 
-&emsp;&emsp;(B) The term “section 351A program” means the program under section 351A of the Public Health Service Act \[42 U.S.C. 262a\].
+&emsp;&emsp;(B) The term "section 351A program" means the program under section 351A of the Public Health Service Act \[42 U.S.C. 262a\].
 
-&emsp;&emsp;(C) The term “section 212 program” means the program under section 212 of this Act \[7 U.S.C. 8401\].
+&emsp;&emsp;(C) The term "section 212 program" means the program under section 212 of this Act \[7 U.S.C. 8401\].
 
 #### (b) Certain matters
 
@@ -36,7 +36,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 #### (1) In general
 
-&emsp;Promptly after June 12, 2002, the Secretary of Agriculture and the Secretary of Health and Human Services shall enter into a memorandum of understanding regarding overlap agents and toxins that is in accordance withparagraphs (2) through (4) and contains such additional provisions as the Secretary of Agriculture and the Secretary of Health and Human Services determine to be appropriate.
+&emsp;Promptly after June 12, 2002, the Secretary of Agriculture and the Secretary of Health and Human Services shall enter into a memorandum of understanding regarding overlap agents and toxins that is in accordance with paragraphs (2) through (4) and contains such additional provisions as the Secretary of Agriculture and the Secretary of Health and Human Services determine to be appropriate.
 
 #### (2) Single registration system regarding registered persons
 
@@ -46,7 +46,7 @@ In carrying out the section 351A program and the section 212 program, the Secret
 
 &emsp;&emsp;(B) A procedure through which a person may choose to submit the single registration form to the agency administering the section 351A program (in the manner provided under such program), or to the agency administering the section 212 program (in the manner provided under such program).
 
-&emsp;&emsp;(C) A procedure through which a copy of a single registration form received pursuant to subparagraph (B) by the agency administering one of such programs is promptly provided to the agency administering the other program.
+&emsp;&emsp;(C) A procedure through which a copy of a single registration form received pursuant to subparagraph (B) by the agency administering one of such programs is promptlyprovided to the agency administering the other program.
 
 &emsp;&emsp;(D) A procedure through which the agency receiving the single registration form under one of such programs obtains the concurrence of the agency administering the other program that the requirements for registration under the other program have been met.
 
@@ -80,5 +80,5 @@ Not later than 18 months after the date on which the single system of registrati
 
 (Pub. L. 107–188, title II, §221, June 12, 2002, 116 Stat. 657.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “351A(a)(1)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "351A(a)(1)".</i>
 

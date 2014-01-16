@@ -50,7 +50,7 @@
 
 #### (4) Definition
 
-&emsp;In this section the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;In this section the term "State" means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 #### (c) Limitation
 
@@ -70,5 +70,5 @@ A prior section 7111, Pub. L. 89–10, title IV, §4011 \[4111\], as added Pub. 
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “than”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "than".</i>
 

@@ -6,7 +6,7 @@ The requirements of section 7586 of this title may be met through the conversion
 
 #### (b) Regulations
 
-The Administrator shall, within 24 months after November 15, 1990, consistent with the requirements of this subchapter applicable to new vehicles, promulgate regulations governing conversions of conventional vehicles to clean-fuel vehicles. Such regulations shall establish criteria for such conversions which will ensure that a converted vehicle will comply with the standards applicable under this part to clean-fuel vehicles. Such regulations shall provide for the application to such conversions of the same provisions of this subchapter (including provisions relating to administration enforcement) as are applicable to standards under section <sup>2</sup> 7582, 7583, 7584, and 7585 of this title, except that in the case of conversions the Administrator may modify the applicable regulations implementingsuch provisions as the Administrator deems necessary to implement this part.
+The Administrator shall, within 24 months after November 15, 1990, consistent with the requirements of this subchapter applicable to new vehicles, promulgate regulations governing conversions of conventional vehicles to clean-fuel vehicles. Such regulations shall establish criteria for such conversions which will ensure that a converted vehicle will comply with the standards applicable under this part to clean-fuel vehicles. Such regulations shall provide for the application to such conversions of the same provisions of this subchapter (including provisions relating to administration enforcement) as are applicable to standards under section <sup>2</sup> 7582, 7583, 7584, and 7585 of this title, except that in the case of conversions the Administrator may modify the applicable regulations implementing such provisions as the Administrator deems necessary to implement this part.
 
 #### (c) Enforcement
 
@@ -22,7 +22,7 @@ The Secretary of Transportation shall, if necessary, promulgate rules under appl
 
 (July 14, 1955, ch. 360, title II, §247, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2523.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “clean-fuel”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "clean-fuel".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "sections".</i>
 

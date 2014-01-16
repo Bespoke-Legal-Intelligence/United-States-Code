@@ -52,13 +52,13 @@ The Joint Committee shall review all requests (other than requests by the chairm
 
 #### Amendments
 
-<b>2005</b>—Subsec. (e). Pub. L. 109–135 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2005</b>—Subsec. (e). Pub. L. 109–135 substituted "Government Accountability Office" for "General Accounting Office" in two places.
 
-<b>2004</b>—Subsec. (f)(2). Pub. L. 108–311 substituted “2005” for “2004”.
+<b>2004</b>—Subsec. (f)(2). Pub. L. 108–311 substituted "2005" for "2004".
 
 <b>1998</b>—Subsecs. (e), (f). Pub. L. 105–206 added subsecs. (e) and (f).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted “6103(f)” for “6103(d)”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted "6103(f)" for "6103(d)".
 
 <b>1976</b>—Subsec. (d). Pub. L. 94–455 struck out par. (2) relating to limitation on cost of stenographic services in reporting hearings.
 
@@ -72,9 +72,9 @@ Committee on Government Reform and Oversight of House of Representatives changed
 
 Pub. L. 105–206, title IV, §4001(b), July 22, 1998, 112 Stat. 784, provided that:
 
-“(1) Subsection (e) of section 8021 of the Internal Revenue Code of 1986, as added by subsection (a) of this section \[amending this section\], shall apply to requests made after the date of the enactment of this Act \[July 22, 1998\].
+"(1) Subsection (e) of section 8021 of the Internal Revenue Code of 1986, as added by subsection (a) of this section \[amending this section\], shall apply to requests made after the date of the enactment of this Act \[July 22, 1998\].
 
-“(2) Subsection (f) of such section shall take effect on the date of the enactment of this Act.”
+"(2) Subsection (f) of such section shall take effect on the date of the enactment of this Act."
 
 #### Effective Date of 1988 Amendment
 
@@ -86,5 +86,5 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 #### Time for Joint Review
 
-Pub. L. 108–311, title III, §321(c), Oct. 4, 2004, 118 Stat. 1182, provided that: “The joint review required by section 8021(f)(2) of the Internal Revenue Code of 1986 to be made before June 1, 2004, shall be treated as timely if made before June 1, 2005.”
+Pub. L. 108–311, title III, §321(c), Oct. 4, 2004, 118 Stat. 1182, provided that: "The joint review required by section 8021(f)(2) of the Internal Revenue Code of 1986 to be made before June 1, 2004, shall be treated as timely if made before June 1, 2005."
 

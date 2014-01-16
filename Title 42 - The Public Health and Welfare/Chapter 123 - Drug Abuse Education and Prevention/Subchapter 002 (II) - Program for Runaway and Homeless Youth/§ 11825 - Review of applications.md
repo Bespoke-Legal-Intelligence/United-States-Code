@@ -36,15 +36,15 @@ The appropriate Federal officer shall expedite the consideration of an applicati
 
 #### References in Text
 
-This subchapter, referred to in subsec. (b)(1)(A), was in the original “this part” and was translated as reading “this chapter” to reflect the probable intent of Congress because subtitle B of title III of Pub. L. 100–690, which comprises subchapters I to III of this chapter, does not contain parts.
+This subchapter, referred to in subsec. (b)(1)(A), was in the original "this part" and was translated as reading "this chapter" to reflect the probable intent of Congress because subtitle B of title III of Pub. L. 100–690, which comprises subchapters I to III of this chapter, does not contain parts.
 
 #### Amendments
 
-<b>1989</b>—Subsec. (b)(1)(B). Pub. L. 101–204, §1001(b)(1)(A), inserted “stating” before “the general criteria”.
+<b>1989</b>—Subsec. (b)(1)(B). Pub. L. 101–204, §1001(b)(1)(A), inserted "stating" before "the general criteria".
 
-Subsec. (b)(1)(C). Pub. L. 101–204, §1001(b)(1)(B), substituted “describing” for “a description of”.
+Subsec. (b)(1)(C). Pub. L. 101–204, §1001(b)(1)(B), substituted "describing" for "a description of".
 
-Subsec. (c). Pub. L. 101–204, §1001(b)(2), substituted “such officer” for “Administrator”.
+Subsec. (c). Pub. L. 101–204, §1001(b)(2), substituted "such officer" for "Administrator".
 
-<i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

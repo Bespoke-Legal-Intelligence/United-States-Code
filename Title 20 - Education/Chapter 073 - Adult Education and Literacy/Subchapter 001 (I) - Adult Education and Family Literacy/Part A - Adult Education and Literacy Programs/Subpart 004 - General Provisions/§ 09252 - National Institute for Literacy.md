@@ -18,7 +18,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 #### (1) In general
 
-&emsp;There is established the National Institute for Literacy (in this section referred to as the “Institute”). The Institute shall be administered under the terms of an interagency agreement entered into by the Secretary of Education with the Secretary of Labor and the Secretary of Health and Human Services (in this section referred to as the “Interagency Group”). The Interagency Group may include in the Institute any research and development center, institute, or clearinghouse established within the Department of Education, the Department of Labor, or the Department of Health and Human Services the purpose of which is determined by the Interagency Group to be related to the purpose of the Institute.
+&emsp;There is established the National Institute for Literacy (in this section referred to as the "Institute"). The Institute shall be administered under the terms of an interagency agreement entered into by the Secretary of Education with the Secretary of Labor and the Secretary of Health and Human Services (in this section referred to as the "Interagency Group"). The Interagency Group may include in the Institute any research and development center, institute, or clearinghouse established within the Department of Education, the Department of Labor, or the Department of Health and Human Services the purpose of which is determined by the Interagency Group to be related to the purpose of the Institute.
 
 #### (2) Offices
 
@@ -26,7 +26,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 #### (3) Recommendations
 
-&emsp;The Interagency Group shall consider the recommendations of the National Institute for Literacy Advisory Board (in this section referred to as the “Board”) established under subsection (e) of this section in planning the goals of the Institute and in the implementation of any programs to achieve the goals. If the Board's recommendations are not followed, the Interagency Group shall provide a written explanation to the Board concerning actions the Interagency Group takes that are inconsistent with the Board's recommendations, including the reasons for not following the Board's recommendations with respect to the actions. The Board may also request a meeting of the Interagency Group to discuss the Board's recommendations.
+&emsp;The Interagency Group shall consider the recommendations of the National Institute for Literacy Advisory Board (in this section referred to as the "Board") established under subsection (e) of this section in planning the goals of the Institute and in the implementation of any programs to achieve the goals. If the Board's recommendations are not followed, the Interagency Group shall provide a written explanation to the Board concerning actions the Interagency Group takes that are inconsistent with the Board's recommendations, including the reasons for not following the Board's recommendations with respect to the actions. The Board may also request a meeting of the Interagency Group to discuss the Board's recommendations.
 
 #### (4) Daily operations
 
@@ -38,7 +38,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 &emsp;In order to provide leadership for the improvement and expansion of the system for delivery of literacy services, the Institute is authorized—
 
-&emsp;&emsp;(A) to establish a national electronic data base of information that disseminates information to the broadest possible audiencewithin the literacy and basic skills field, and that includes—
+&emsp;&emsp;(A) to establish a national electronic data base of information that disseminates information to the broadest possible audience within the literacy and basic skills field, and that includes—
 
 &emsp;&emsp;&emsp;(i) effective practices in the provision of literacy and basic skills instruction, including instruction in phonemic awareness, systematic phonics, fluency, and reading comprehension, and the integration of literacy and basic skills instruction with occupational skills training;
 
@@ -94,7 +94,7 @@ The purpose of this section is to establish a National Institute for Literacy th
 
 #### (A) In general
 
-&emsp;&emsp;There shall be a National Institute for Literacy Advisory Board (in this section referred to as the “Board”), which shall consist of 10 individuals appointed by the President.
+&emsp;&emsp;There shall be a National Institute for Literacy Advisory Board (in this section referred to as the "Board"), which shall consist of 10 individuals appointed by the President.
 
 #### (B) Composition
 
@@ -212,9 +212,9 @@ Provisions similar to this section were contained in section 1213c of this title
 
 #### Amendments
 
-<b>2012</b>—Subsec. (e)(1)(A). Pub. L. 112–166 struck out “with the advice and consent of the Senate” before period at end.
+<b>2012</b>—Subsec. (e)(1)(A). Pub. L. 112–166 struck out "with the advice and consent of the Senate" before period at end.
 
-<b>2007</b>—Subsecs. (a)(3)(A), (c)(1)(D). Pub. L. 110–154 substituted “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute of Child Health and Human Development”.
+<b>2007</b>—Subsecs. (a)(3)(A), (c)(1)(D). Pub. L. 110–154 substituted "Eunice Kennedy Shriver National Institute of Child Health and Human Development" for "National Institute of Child Health and Human Development".
 
 #### Change of Name
 

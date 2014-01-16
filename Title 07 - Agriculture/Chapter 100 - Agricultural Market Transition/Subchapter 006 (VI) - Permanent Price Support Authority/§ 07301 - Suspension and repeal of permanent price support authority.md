@@ -100,7 +100,7 @@ Section is comprised of section 171 of Pub. L. 104–127. Subsec. (a)(2) of sect
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171 substituted “1996 through 2001” for “1996 through 2002”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171 substituted "1996 through 2001" for "1996 through 2002".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

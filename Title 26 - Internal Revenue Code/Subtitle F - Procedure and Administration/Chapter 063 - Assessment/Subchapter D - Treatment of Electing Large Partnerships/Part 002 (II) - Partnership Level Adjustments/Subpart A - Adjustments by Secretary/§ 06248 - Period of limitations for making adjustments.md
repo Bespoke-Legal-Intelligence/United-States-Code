@@ -20,7 +20,7 @@ The period described in subsection (a) (including an extension period under this
 
 #### (2) Substantial omission of income
 
-&emsp;If any partnership omits from gross income an amount properly includible therein which is in excess of 25 percent of the amount of gross income stated in its return, subsection (a) shall be applied by substituting “6 years” for “3 years”.
+&emsp;If any partnership omits from gross income an amount properly includible therein which is in excess of 25 percent of the amount of gross income stated in its return, subsection (a) shall be applied by substituting "6 years" for "3 years".
 
 #### (3) No return
 

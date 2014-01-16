@@ -14,7 +14,7 @@ The Secretary of the Interior shall implement the conservation and rehabilitatio
 
 <b>2011</b>—Pub. L. 112–81 inserted section catchline and headings for subsecs. (a) and (b).
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–396 inserted “of fish, wildlife, and plants” after “species”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–396 inserted "of fish, wildlife, and plants" after "species".
 
 #### Transfer of Functions
 

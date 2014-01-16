@@ -2,7 +2,7 @@
 
 #### (a) Expansion and coordination of research activities
 
-The Director of the Institute, after consultation with the advisory council for the Institute, shall expand, intensify, and coordinate the activities of the Institute with respect to research on the disease known as fragile X.
+The Director of the Institute, after consultation with the advisory council for the Institute,shall expand, intensify, and coordinate the activities of the Institute with respect to research on the disease known as fragile X.
 
 #### (b) Research centers
 
@@ -40,7 +40,7 @@ The Director of the Institute, after consultation with the advisory council for 
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(7). Pub. L. 109–482 struck out heading and text of par. (7). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.”
+<b>2007</b>—Subsec. (b)(7). Pub. L. 109–482 struck out heading and text of par. (7). Text read as follows: "For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005."
 
 #### Effective Date of 2007 Amendment
 

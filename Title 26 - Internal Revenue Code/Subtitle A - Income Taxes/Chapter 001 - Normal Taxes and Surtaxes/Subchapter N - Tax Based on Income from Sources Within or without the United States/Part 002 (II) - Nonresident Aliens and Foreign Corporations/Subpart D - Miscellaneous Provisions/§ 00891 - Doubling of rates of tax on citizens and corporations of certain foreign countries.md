@@ -8,7 +8,7 @@ Whenever the President finds that, under the laws of any foreign country, citize
 
 <b>1986</b>—Pub. L. 99–514 struck out reference to section 821.
 
-<b>1984</b>—Pub. L. 98–369 substituted “801” for “802”.
+<b>1984</b>—Pub. L. 98–369 substituted "801" for "802".
 
 <b>1959</b>—Pub. L. 86–69 struck out reference to section 811.
 

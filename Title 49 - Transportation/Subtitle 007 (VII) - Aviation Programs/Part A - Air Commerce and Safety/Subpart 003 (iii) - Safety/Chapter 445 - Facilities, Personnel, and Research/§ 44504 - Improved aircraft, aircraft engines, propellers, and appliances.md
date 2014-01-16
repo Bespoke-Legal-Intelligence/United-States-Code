@@ -66,15 +66,15 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §312(b) (2d sentence); added Nov
 
 49 App.:1655(c)(1).
 
-In this section, the word “Administrator” in section 312(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 752) is retained on authority of 49:106(g).
+In this section, the word "Administrator" in section 312(b) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 752) is retained on authority of 49:106(g).
 
-In subsection (a), the words “to improve” are substituted for “such . . . as tends to the creation of improved” to eliminate unnecessary words.
+In subsection (a), the words "to improve" are substituted for "such . . . as tends to the creation of improved" to eliminate unnecessary words.
 
 #### Amendments
 
 <b>2012</b>—Subsec. (b)(8). Pub. L. 112–95 added par. (8).
 
-<b>2000</b>—Subsec. (b)(1). Pub. L. 106–181 inserted “, including nonstructural aircraft systems,” after “life of aircraft”.
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–181 inserted ", including nonstructural aircraft systems," after "life of aircraft".
 
 #### Effective Date of 2000 Amendment
 
@@ -84,165 +84,165 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Pub. L. 112–95, title IX, §910, Feb. 14, 2012, 126 Stat. 141, provided that:
 
-“(a)
+"(a)
 
 In General.—Using amounts made available under section 48102(a) of title 49, United States Code, the Administrator \[of the Federal Aviation Administration\], in coordination with the Administrator of NASA \[National Aeronautics and Space Administration\], shall continue research and development activities into the qualification of an unleaded aviation fuel and safe transition to this fuel for the fleet of piston engine aircraft.
 
-“(b)
+"(b)
 
 Requirements.—In carrying out the program under subsection (a), the Administrator shall, at a minimum—
 
-&emsp;“(1) not later than 120 days after the date of enactment of this Act \[Feb. 14, 2012\], develop a research and development plan containing the specific research and development objectives, including consideration of aviation safety, technical feasibility, and other relevant factors, and the anticipated timetable for achieving the objectives;
+&emsp;"(1) not later than 120 days after the date of enactment of this Act \[Feb. 14, 2012\], develop a research and development plan containing the specific research and development objectives, including consideration of aviation safety, technical feasibility, and other relevant factors, and the anticipated timetable for achieving the objectives;
 
-&emsp;“(2) assess the methods and processes by which the FAA and industry may expeditiously certify and approve new aircraft and recertify existing aircraft with respect to unleaded aviation fuel;
+&emsp;"(2) assess the methods and processes by which the FAA and industry may expeditiously certify and approve new aircraft and recertify existing aircraft with respect to unleaded aviation fuel;
 
-&emsp;“(3) assess technologies that modify existing piston engine aircraft to enable safe operation of the aircraft using unleaded aviation fuel and determine the resources necessary to certify those technologies; and
+&emsp;"(3) assess technologies that modify existing piston engine aircraft to enable safe operation of the aircraft using unleaded aviation fuel and determine the resources necessary to certify those technologies; and
 
-&emsp;“(4) develop recommendations for appropriate policies and guidelines to facilitate a transition to unleaded aviation fuel for piston engine aircraft.
+&emsp;"(4) develop recommendations for appropriate policies and guidelines to facilitate a transition to unleaded aviation fuel for piston engine aircraft.
 
-“(c)
+"(c)
 
 Collaboration.—In carrying out the program under subsection (a), the Administrator shall collaborate with—
 
-&emsp;“(1) industry groups representing aviation consumers, manufacturers, and fuel producers and distributors; and
+&emsp;"(1) industry groups representing aviation consumers, manufacturers, and fuel producers and distributors; and
 
-&emsp;“(2) other appropriate Federal agencies.
+&emsp;"(2) other appropriate Federal agencies.
 
-“(d)
+"(d)
 
-Report.—Not later than 270 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall provide to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the plan, information obtained, and policies and guidelines developed pursuant to subsection (b).”
+Report.—Not later than 270 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall provide to the Committee on Science, Space, and Technology of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the plan, information obtained, and policies and guidelines developed pursuant to subsection (b)."
 
 #### Research Program on Alternative Jet Fuel Technology for Civil Aircraft
 
 Pub. L. 112–95, title IX, §911, Feb. 14, 2012, 126 Stat. 142, provided that:
 
-“(a)
+"(a)
 
 In General.—Using amounts made available under section 48102(a) of title 49, United States Code, the Administrator \[of the Federal Aviation Administration (FAA)\] shall establish a research program to assist in the development and qualification of jet fuel from alternative sources (such as natural gas, biomass, ethanol, butanol, and hydrogen) and other renewable sources.
 
-“(b)
+"(b)
 
 Authority To Make Grants.—The Administrator shall carry out the program through the use of grants or other measures authorized under section 106(l)(6) of such title, including reimbursable agreements with other Federal agencies.
 
-“(c)
+"(c)
 
 Participation in Program.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Participation of educational and research institutions.—In carrying out the program, the Administrator shall include participation by—
 
-&emsp;&emsp;“(A) educational and research institutions that have existing facilities and leverage private sector partnerships; and
+&emsp;&emsp;"(A) educational and research institutions that have existing facilities and leverage private sector partnerships; and
 
-&emsp;&emsp;“(B) consortia with experience across the supply chain, including with research, feedstock development and production, small-scale development, testing, and technology evaluation related to the creation, processing, production, and transportation of alternative aviation fuel.
+&emsp;&emsp;"(B) consortia with experience across the supply chain, including with research, feedstock development and production, small-scale development, testing, and technology evaluation related to the creation, processing, production, and transportation of alternative aviation fuel.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Use of nasa facilities.—In carrying out the program, the Administrator shall consider utilizing the existing capacity in aeronautics research at Langley Research Center, Glenn Research Center, and other appropriate facilities of NASA \[National Aeronautics and Space Administration\].
 
-“(d)
+"(d)
 
 Designation of Institution as a Center of Excellence.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator may designate an institution described in subsection (c)(1)(A) as a Center of Excellence for Alternative Jet-Fuel Research in Civil Aircraft.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Effect of designation.—The center designated under paragraph (1) shall become, upon its designation—
 
-&emsp;&emsp;“(A) a member of the Consortium for Continuous Low Energy, Emissions, and Noise of the FAA; and
+&emsp;&emsp;"(A) a member of the Consortium for Continuous Low Energy, Emissions, and Noise of the FAA; and
 
-&emsp;&emsp;“(B) part of a Joint Center of Excellence with the Partnership for Air Transportation Noise and Emission Reduction FAA Center of Excellence.”
+&emsp;&emsp;"(B) part of a Joint Center of Excellence with the Partnership for Air Transportation Noise and Emission Reduction FAA Center of Excellence."
 
 #### Production of Clean Coal Fuel Technology for Civilian Aircraft
 
 Pub. L. 112–95, title IX, §914, Feb. 14, 2012, 126 Stat. 144, provided that:
 
-“(a)
+"(a)
 
 Establishment of Research Program.—Using amounts made available under section 48102(a) of title 49, United States Code, the Administrator \[of the Federal Aviation Administration\] shall establish a research program related to developing jet fuel from clean coal.
 
-“(b)
+"(b)
 
 Authority To Make Grants.—The Administrator shall carry out the program through grants or other measures authorized under section 106(l)(6) of such title, including reimbursable agreements with other Federal agencies.
 
-“(c)
+"(c)
 
 Participation in Program.—In carrying out the program, the Administrator shall include participation by educational and research institutions that have existing facilities and experience in the development and deployment of technology that processes coal into aviation fuel.
 
-“(d)
+"(d)
 
-Designation of Institution as a Center of Excellence.—Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator may designate an institution described in subsection (c) as a Center of Excellence for Coal-to-Jet-Fuel Research.”
+Designation of Institution as a Center of Excellence.—Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator may designate an institution described in subsection (c) as a Center of Excellence for Coal-to-Jet-Fuel Research."
 
 #### Research and Development of Equipment To Clean and Monitor the Engine and APU Bleed Air Supplied on Pressurized Aircraft
 
 Pub. L. 112–95, title IX, §917, Feb. 14, 2012, 126 Stat. 145, provided that:
 
-“(a)
+"(a)
 
 In General.—Not later than 60 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator \[of the Federal Aviation Administration\], to the extent practicable, shall implement a research program for the identification or development of appropriate and effective air cleaning technology and sensor technology for the engine and auxiliary power unit bleed air supplied to the passenger cabin and flight deck of a pressurized aircraft.
 
-“(b)
+"(b)
 
 Technology Requirements.—The technology referred to in subsection (a) shall have the capacity, at a minimum—
 
-&emsp;“(1) to remove oil-based contaminants from the bleed air supplied to the passenger cabin and flight deck; and
+&emsp;"(1) to remove oil-based contaminants from the bleed air supplied to the passenger cabin and flight deck; and
 
-&emsp;“(2) to detect and record oil-based contaminants in the portion of the total air supplied to the passenger cabin and flight deck from bleed air.
+&emsp;"(2) to detect and record oil-based contaminants in the portion of the total air supplied to the passenger cabin and flight deck from bleed air.
 
-“(c)
+"(c)
 
-Report.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science, Space, and Technology of the House of Representatives a report on the results of the research and development work carried out under this section.”
+Report.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Science, Space, and Technology of the House of Representatives a report on the results of the research and development work carried out under this section."
 
 #### FAA Center for Excellence for Applied Research and Training in the Use of Advanced Materials in Transport Aircraft
 
 Pub. L. 108–176, title VII, §708, Dec. 12, 2003, 117 Stat. 2582, as amended by Pub. L. 112–95, title IX, §916, Feb. 14, 2012, 126 Stat. 145, provided that:
 
-“(a)
+"(a)
 
 In General.—The Administrator of the Federal Aviation Administration shall develop a Center for Excellence focused on applied research and training on the durability and maintainability of advanced materials in transport airframe structures. The Center shall—
 
-&emsp;“(1) promote and facilitate collaboration among academia, the Federal Aviation Administration's Transportation Division, and the commercial aircraft industry, including manufacturers, commercial air carriers, and suppliers; and
+&emsp;"(1) promote and facilitate collaboration among academia, the Federal Aviation Administration's Transportation Division, and the commercial aircraft industry, including manufacturers, commercial air carriers, and suppliers; and
 
-&emsp;“(2) establish goals set to advance technology, improve engineering practices, and facilitate continuing education in relevant areas of study.
+&emsp;"(2) establish goals set to advance technology, improve engineering practices, and facilitate continuing education in relevant areas of study.
 
-“(b)
+"(b)
 
-Authorization of Appropriations.—There is authorized to be appropriated to the Administrator $500,000 for each of fiscal years 2012 through 2015 to carry out this section.”
+Authorization of Appropriations.—There is authorized to be appropriated to the Administrator $500,000 for each of fiscal years 2012 through 2015 to carry out this section."
 
 #### Rotorcraft Research and Development Initiative
 
 Pub. L. 108–176, title VII, §711, Dec. 12, 2003, 117 Stat. 2585, provided that:
 
-“(a)
+"(a)
 
 Objective.—The Administrator of the Federal Aviation Administration shall establish a rotorcraft initiative with the objective of developing, and demonstrating in a relevant environment, within 10 years after the date of the enactment of this Act \[Dec. 12, 2003\], technologies to enable rotorcraft with the following improvements relative to rotorcraft existing as of the date of the enactment of this Act:
 
-&emsp;“(1) 80 percent reduction in noise levels on takeoff and on approach and landing as perceived by a human observer.
+&emsp;"(1) 80 percent reduction in noise levels on takeoff and on approach and landing as perceived by a human observer.
 
-&emsp;“(2) Factor of 10 reduction in vibration.
+&emsp;"(2) Factor of 10 reduction in vibration.
 
-&emsp;“(3) 30 percent reduction in empty weight.
+&emsp;"(3) 30 percent reduction in empty weight.
 
-&emsp;“(4) Predicted accident rate equivalent to that of fixed-wing aircraft in commercial service within 10 years after the date of the enactment of this Act.
+&emsp;"(4) Predicted accident rate equivalent to that of fixed-wing aircraft in commercial service within 10 years after the date of the enactment of this Act.
 
-&emsp;“(5) Capability for zero-ceiling, zero-visibility operations.
+&emsp;"(5) Capability for zero-ceiling, zero-visibility operations.
 
-“(b)
+"(b)
 
-Implementation.—Within 180 days after the date of the enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration, in cooperation with the Administrator of the National Aeronautics and Space Administration, shall provide a plan to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate for the implementation of the initiative described in subsection (a).”
+Implementation.—Within 180 days after the date of the enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration, in cooperation with the Administrator of the National Aeronautics and Space Administration, shall provide a plan to the Committee on Science \[now Committee on Science, Space, and Technology\] of the House of Representatives and to the Committee on Commerce, Science, and Transportation of the Senate for the implementation of the initiative described in subsection (a)."
 
 #### Specialty Metals Consortium
 
 Pub. L. 106–181, title VII, §742, Apr. 5, 2000, 114 Stat. 175, provided that:
 
-“(a)
+"(a)
 
 In General.—The Administrator \[of the Federal Aviation Administration\] may work with a consortium of domestic metal producers and aircraft engine manufacturers to improve the quality of turbine engine materials and to address melting technology enhancements.
 
-“(b)
+"(b)
 
-Report.—Not later than 6 months after entering into an agreement with a consortium described in subsection (a), the Administrator shall transmit to Congress a report on the goals and efforts of the consortium.”
+Report.—Not later than 6 months after entering into an agreement with a consortium described in subsection (a), the Administrator shall transmit to Congress a report on the goals and efforts of the consortium."
 

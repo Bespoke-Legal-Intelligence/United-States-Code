@@ -10,19 +10,19 @@ Any person making application and paying the required fee may obtain such certif
 
 Based on section 127 of title 15, U.S.C., 1940 ed., Commerce and Trade, and title 28, U.S.C., 1940 ed., §673 (R.S. §892; Mar. 19, 1920, ch. 104, §7, 41 Stat. 535; Mar. 4, 1925, ch. 535, §2, 43 Stat. 1269).
 
-For purposes of uniformity, words “written or printed,” at the beginning of the section, were omitted. Similar sections in this chapter do not contain such words.
+For purposes of uniformity, words "written or printed," at the beginning of the section, were omitted. Similar sections in this chapter do not contain such words.
 
-Words “or in his name attested by a chief of division duly designated by the commissioner,” after “Commissioner of Patents,” were omitted as unnecessary.
+Words "or in his name attested by a chief of division duly designated by the commissioner," after "Commissioner of Patents," were omitted as unnecessary.
 
 Changes in phraseology were made.
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “Patent Office” wherever appearing in section catchline and text and in text substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents” and “Director” for “Commissioner”.
+<b>1999</b>—Pub. L. 106–113 substituted "United States Patent and Trademark Office" for "Patent Office" wherever appearing in section catchline and text and in text substituted "Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office" for "Commissioner of Patents" and "Director" for "Commissioner".
 
-<b>1949</b>—Act May 24, 1949, substituted “patents” after “relating to” for “registered trade-marks, labels, or prints”, and inserted “or by another officer of the Patent Office authorized to do so by the Commissioner” after “Commissioner of Patents”.
+<b>1949</b>—Act May 24, 1949, substituted "patents" after "relating to" for "registered trade-marks, labels, or prints", and inserted "or by another officer of the Patent Office authorized to do so by the Commissioner" after "Commissioner of Patents".
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 

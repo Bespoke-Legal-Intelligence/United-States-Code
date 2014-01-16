@@ -40,9 +40,9 @@
 
 For purposes of this section:
 
-&emsp;(1) The term “epilepsy” refers to a chronic and serious neurological condition characterized by excessive electrical discharges in the brain causing recurring seizures affecting all life activities. The Secretary may revise the definition of such term to the extent the Secretary determines necessary.
+&emsp;(1) The term "epilepsy" refers to a chronic and serious neurological condition characterized by excessive electrical discharges in the brain causing recurring seizures affecting all life activities. The Secretary may revise the definition of such term to the extent the Secretary determines necessary.
 
-&emsp;(2) The term “medically underserved” has the meaning applicable under section 295p(6) of this title.
+&emsp;(2) The term "medically underserved" has the meaning applicable under section 295p(6) of this title.
 
 #### (d) Authorization of appropriations
 

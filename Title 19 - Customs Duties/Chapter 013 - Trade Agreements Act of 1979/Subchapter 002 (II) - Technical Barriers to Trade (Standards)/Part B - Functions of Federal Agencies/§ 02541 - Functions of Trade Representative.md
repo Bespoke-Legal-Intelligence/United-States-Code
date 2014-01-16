@@ -18,9 +18,9 @@ The Trade Representative has responsibility for coordinating United States discu
 
 <b>1996</b>—Pub. L. 104–295, §21(b)(1), amended directory language of Pub. L. 103–182, §351(b)(2). See 1993 Amendment notes below.
 
-Subsec. (c). Pub. L. 104–295, §21(b)(2), substituted “Trade Representative” for “Special Representatives”.
+Subsec. (c). Pub. L. 104–295, §21(b)(2), substituted "Trade Representative" for "Special Representatives".
 
-<b>1993</b>—Pub. L. 103–182, §351(b)(2)(B), as amended by Pub. L. 104–295, §21(b)(1), substituted “Trade Representative” for “Special Representative” in section catchline.
+<b>1993</b>—Pub. L. 103–182, §351(b)(2)(B), as amended by Pub. L. 104–295, §21(b)(1), substituted "Trade Representative" for "Special Representative" in section catchline.
 
-Subsecs. (a), (b). Pub. L. 103–182, §351(b)(2)(A), as amended by Pub. L. 104–295, §21(b)(1), substituted “Trade Representative” for “Special Representative” wherever appearing.
+Subsecs. (a), (b). Pub. L. 103–182, §351(b)(2)(A), as amended by Pub. L. 104–295, §21(b)(1), substituted "Trade Representative" for "Special Representative" wherever appearing.
 

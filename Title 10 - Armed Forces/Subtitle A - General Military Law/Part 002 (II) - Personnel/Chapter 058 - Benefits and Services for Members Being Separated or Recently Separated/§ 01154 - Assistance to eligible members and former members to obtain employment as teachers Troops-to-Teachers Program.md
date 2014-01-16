@@ -6,11 +6,11 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Charter school.—The term “charter school” has the meaning given that term in section 5210(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7221i(1)).
+Charter school.—The term "charter school" has the meaning given that term in section 5210(1) of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7221i(1)).
 
 &emsp;(2)
 
-Eligible school.—The term “eligible school” means—
+Eligible school.—The term "eligible school" means—
 
 &emsp;&emsp;(A) a public school, including a charter school, at which—
 
@@ -22,7 +22,7 @@ Eligible school.—The term “eligible school” means—
 
 &emsp;(3)
 
-High-need school.—The term “high-need school” means—
+High-need school.—The term "high-need school" means—
 
 &emsp;&emsp;(A) an elementary or middle school in which at least 50 percent of the enrolled students are children from low-income families, based on the number of children eligible for free and reduced priced lunches under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.), the number of children in families receiving assistance under the State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), the number of children eligible to receive medical assistance under the Medicaid program, or a composite of these indicators;
 
@@ -32,23 +32,23 @@ High-need school.—The term “high-need school” means—
 
 &emsp;(4)
 
-Member of the armed forces.—The term “member of the armed forces” includes a retired or former member of the armed forces.
+Member of the armed forces.—The term "member of the armed forces" includes a retired or former member of the armed forces.
 
 &emsp;(5)
 
-Participant.—The term “participant” means an eligible member of the armed forces selected to participate in the Program.
+Participant.—The term "participant" means an eligible member of the armed forces selected to participate in the Program.
 
 &emsp;(6)
 
-Program.—The term “Program” means the Troops-to-Teachers Program authorized by this section.
+Program.—The term "Program" means the Troops-to-Teachers Program authorized by this section.
 
 &emsp;(7)
 
-Secretary.—The term “Secretary” means the Secretary of Defense.
+Secretary.—The term "Secretary" means the Secretary of Defense.
 
 &emsp;(8)
 
-Additional terms.—The terms “elementary school”, “local educational agency”, “secondary school”, and “State” have the meanings given those terms in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
+Additional terms.—The terms "elementary school", "local educational agency", "secondary school", and "State" have the meanings given those terms in section 9101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7801).
 
 (b)
 
@@ -248,31 +248,31 @@ The Higher Education Act of 1965, referred to in subsec. (e)(4), is Pub. L. 89�
 
 Pub. L. 112–239, div. A, title V, §541(a), Jan. 2, 2013, 126 Stat. 1728, provided that:
 
-“(1)
+"(1)
 
 Transfer.—The responsibility and authority for operation and administration of the Troops-to-Teachers Program in chapter A of subpart 1 of part C of title II of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 6671 et seq.) is transferred from the Secretary of Education to the Secretary of Defense.
 
-“(2)
+"(2)
 
 Memorandum of agreement.—In connection with the transfer of responsibility and authority for operation and administration of the Troops-to-Teachers Program from the Secretary of Education to the Secretary of Defense under paragraph (1), the Secretaries shall enter into a memorandum of agreement pursuant to which the Secretary of Education will undertake the following:
 
-&emsp;“(A) Disseminate information about the Troops-to-Teachers Program to eligible schools (as defined in subsection (a) of section 1154 of title 10, United States Code, as added by subsection (b)).
+&emsp;"(A) Disseminate information about the Troops-to-Teachers Program to eligible schools (as defined in subsection (a) of section 1154 of title 10, United States Code, as added by subsection (b)).
 
-&emsp;“(B) Advise the Department of Defense on how to prepare eligible members of the Armed Forces described in subsection (d) of such section 1154 to become participants in the Program, to meet the requirements necessary to become a teacher in a school described in subsection (b)(2) of such section 1154, and to find post-service employment in an eligible school.
+&emsp;"(B) Advise the Department of Defense on how to prepare eligible members of the Armed Forces described in subsection (d) of such section 1154 to become participants in the Program, to meet the requirements necessary to become a teacher in a school described in subsection (b)(2) of such section 1154, and to find post-service employment in an eligible school.
 
-&emsp;“(C) Advise the Department of Defense on how to identify teacher preparation programs for participants in the Program.
+&emsp;"(C) Advise the Department of Defense on how to identify teacher preparation programs for participants in the Program.
 
-&emsp;“(D) Inform the Department of Defense of academic subject areas with critical teacher shortages.
+&emsp;"(D) Inform the Department of Defense of academic subject areas with critical teacher shortages.
 
-&emsp;“(E) Identify geographic areas with critical teacher shortages, especially in high-need schools (as defined in subsection (a) of such section 1154).
+&emsp;"(E) Identify geographic areas with critical teacher shortages, especially in high-need schools (as defined in subsection (a) of such section 1154).
 
-“(3)
+"(3)
 
 Effective date.—The transfer of responsibility and authority for operation and administration of the Troops-to-Teachers Program under paragraph (1) shall take effect—
 
-&emsp;“(A) on the first day of the first month beginning more than 90 days after the date of the enactment of this Act \[Jan. 2, 2013\]; or
+&emsp;"(A) on the first day of the first month beginning more than 90 days after the date of the enactment of this Act \[Jan. 2, 2013\]; or
 
-&emsp;“(B) on such earlier date as the Secretary of Education and the Secretary of Defense may jointly provide.”
+&emsp;"(B) on such earlier date as the Secretary of Education and the Secretary of Defense may jointly provide."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

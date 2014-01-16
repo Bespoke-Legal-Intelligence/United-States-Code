@@ -46,7 +46,7 @@ Disclosure of Certain Terms.—
 
 &emsp;(1)
 
-Definitions.—In this subsection, the terms “dock area” and “within the port area” have the same meaning and scope as in the applicable collective bargaining agreement between the requesting labor organization and the carrier.
+Definitions.—In this subsection, the terms "dock area" and "within the port area" have the same meaning and scope as in the applicable collective bargaining agreement between the requesting labor organization and the carrier.
 
 &emsp;(2)
 
@@ -114,7 +114,7 @@ Pub. L. 98–237, §8(c), Mar. 20, 1984, 98 Stat. 75; restated Pub. L. 105–258
 
 46 App.:1707(c)(1) (2d, last sentences).
 
-In subsection (e)(5), the words “the National Labor Relations Act \[29 U.S.C. 151 et seq.\], the Taft-Hartley Act \[29 U.S.C. 141 et seq.\], the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], the antitrust laws” are omitted as unnecessary because of the reference to “any other Federal or State law”.
+In subsection (e)(5), the words "the National Labor Relations Act \[29 U.S.C. 151 et seq.\], the Taft-Hartley Act \[29 U.S.C. 141 et seq.\], the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], the antitrust laws" are omitted as unnecessary because of the reference to "any other Federal or State law".
 
 #### References in Text
 

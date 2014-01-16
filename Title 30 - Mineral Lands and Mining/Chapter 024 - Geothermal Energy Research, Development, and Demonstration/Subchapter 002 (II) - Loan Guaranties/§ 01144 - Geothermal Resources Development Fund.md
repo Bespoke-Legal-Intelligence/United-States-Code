@@ -6,7 +6,7 @@ There is established in the Treasury of the United States a Geothermal Resources
 
 #### (b) Deposits into the Fund
 
-There shall be paid into the fund the amounts appropriated pursuant to section 1164(c) of this title and such amounts as may be returned to the United States pursuant to section 1142(b) of this title, and the amounts in the fund shall remain available until expended, except that after the expiration of the ten-year period established by section 1143 of this title, such amounts in the fund which are not required to secure outstanding guaranty obligations shall be paid into the general fund of the Treasury.
+There shall be paid into the fund the amounts appropriated pursuant to section 1164(c) of this title and such amounts as may be returned to the United States pursuant to section 1142(b) of this title, and the amounts in the fund shall remain available until expended, except that afterthe expiration of the ten-year period established by section 1143 of this title, such amounts in the fund which are not required to secure outstanding guaranty obligations shall be paid into the general fund of the Treasury.
 
 #### (c) Borrowing authority of Secretary of Energy
 
@@ -14,11 +14,11 @@ If at any time the moneys available in the fund are insufficient to enable the S
 
 #### (d) Omitted
 
-(Pub. L. 93–410, title II, §204, Sept. 3, 1974, 88 Stat. 1087; Pub. L. 95–91, title III, §301(a), titleVII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–238, title V, §511, Feb. 25, 1978, 92 Stat. 89.)
+(Pub. L. 93–410, title II, §204, Sept. 3, 1974, 88 Stat. 1087; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 95–238, title V, §511, Feb. 25, 1978, 92 Stat. 89.)
 
 #### Codification
 
-In subsec. (c), “chapter 31 of title 31” and “that chapter” substituted for “the Second Liberty Bond Act, as amended” and “that Act”, respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c), "chapter 31 of title 31" and "that chapter" substituted for "the Second Liberty Bond Act, as amended" and "that Act", respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Subsec. (d) of this section, which required the head of the designated agency to submit annual reports to Congress on the operations of the fund, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 90 of House Document No. 103–7.
 
@@ -28,5 +28,5 @@ Subsec. (d) of this section, which required the head of the designated agency to
 
 #### Transfer of Functions
 
-“Secretary of Energy” substituted in subsec. (c) for “Administrator” (meaning Administrator of Energy Research and Development Administration, see section 501(2) of Pub. L. 95–238, title V, Feb. 25, 1978, 92 Stat. 86), pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of Title 42, The Public Health and Welfare, and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
+"Secretary of Energy" substituted in subsec. (c) for "Administrator" (meaning Administrator of Energy Research and Development Administration, see section 501(2) of Pub. L. 95–238, title V, Feb. 25, 1978, 92 Stat. 86), pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of Title 42, The Public Health and Welfare, and which terminated Energy Research and Development Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 

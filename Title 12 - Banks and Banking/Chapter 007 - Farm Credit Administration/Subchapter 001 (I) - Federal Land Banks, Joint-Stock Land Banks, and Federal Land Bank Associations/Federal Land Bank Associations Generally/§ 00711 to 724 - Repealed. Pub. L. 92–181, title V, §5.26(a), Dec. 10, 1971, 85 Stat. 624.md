@@ -4,7 +4,7 @@ Section 711, acts July 17, 1916, ch. 245, title I, §7, 39 Stat. 365; Aug. 18, 1
 
 Section 712, acts July 17, 1916, ch. 245, title I, §7, 39 Stat. 365; Aug. 19, 1937, ch. 704, §21, 59 Stat. 266; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), (i), 73 Stat. 387, provided for directors, officers, and loan committee of land bank associations. See section 2031 et seq. of this title.
 
-Section 713, acts July 17, 1916, ch. 245, title I, §7, 39 Stat. 365; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 18, 1959, Pub. L. 86–168, title I, §104(i), 73 Stat. 387, provided for compensation and qualifications of directors. See section 2032 of this title.
+Section 713, acts July 17, 1916, ch. 245, title I, §7, 39 Stat. 365; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 18, 1959, Pub. L. 86–168, title I, §104(i), 73 Stat. 387, provided forcompensation and qualifications of directors. See section 2032 of this title.
 
 Section 714, acts July 17, 1916, ch. 245, title I, §7, 39 Stat. 365; Mar. 4, 1923, ch. 252, title III, §305, 42 Stat. 1476; Ex. Ord. No. 6084, Mar. 27, 1933; Aug. 11, 1955, ch. 785, title III, §301(b), 69 Stat. 664; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), (i), 73 Stat. 387, set out duties of manager of each land bank association. See section 2031 of this title.
 

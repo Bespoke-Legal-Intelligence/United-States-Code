@@ -5,7 +5,7 @@ Part II—Foreign Service Pension System
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 04071 - Establishment; application of Federal Employees&#8217; Retirement System to Foreign Service Pension System participants](%C2%A7%2004071%20-%20Establishment%3B%20application%20of%20Federal%20Employees%E2%80%99%20Retirement%20System%20to%20Foreign%20Service%20Pension%20System%20participants.md)
+- [&sect; 04071 - Establishment; application of Federal Employees' Retirement System to Foreign Service Pension System participants](%C2%A7%2004071%20-%20Establishment%3B%20application%20of%20Federal%20Employees%27%20Retirement%20System%20to%20Foreign%20Service%20Pension%20System%20participants.md)
 - [&sect; 04071a - Definitions](%C2%A7%2004071a%20-%20Definitions.md)
 - [&sect; 04071b - Participants](%C2%A7%2004071b%20-%20Participants.md)
 - [&sect; 04071c - Creditable service](%C2%A7%2004071c%20-%20Creditable%20service.md)

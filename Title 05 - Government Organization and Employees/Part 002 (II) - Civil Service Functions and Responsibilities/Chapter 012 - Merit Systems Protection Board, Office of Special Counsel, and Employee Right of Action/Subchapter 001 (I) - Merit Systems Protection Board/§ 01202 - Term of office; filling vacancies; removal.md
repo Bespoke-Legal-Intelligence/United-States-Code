@@ -8,7 +8,7 @@
 
 (d) Any member may be removed by the President only for inefficiency, neglect of duty, or malfeasance in office.
 
-(Added Pub. L. 95–454, title II, §202(a), Oct. 13, 1978, 92 Stat. 1122; amended Pub. L. 100–202, §101(m) \[title VI, §620\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–427; Pub. L. 101–12, §3(a)(2), (3), Apr. 10, 1989, 103 Stat. 17.)
+(Added Pub. L. 95–454, title II, §202(a), Oct. 13, 1978, 92 Stat. 1122; amended Pub. L. 100–202,§101(m) \[title VI, §620\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–427; Pub. L. 101–12, §3(a)(2), (3), Apr. 10, 1989, 103 Stat. 17.)
 
 #### Amendments
 

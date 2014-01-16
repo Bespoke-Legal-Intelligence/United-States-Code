@@ -26,7 +26,7 @@ Retention of Funds Collected by the United States.—Amounts collected by the Un
 
 Definitions.—In this section:
 
-&emsp;(1) The term “direct cost”, with respect to the use of a test facility pursuant to a memorandum or other agreement under subsection (a)—
+&emsp;(1) The term "direct cost", with respect to the use of a test facility pursuant to a memorandum or other agreement under subsection (a)—
 
 &emsp;&emsp;(A) means any item of cost that is easily and readily identified to a specific unit of work or output within the test facility where the use occurred, that would not have been incurred if such use had not occurred; and
 
@@ -36,13 +36,13 @@ Definitions.—In this section:
 
 &emsp;&emsp;&emsp;(ii) the maintenance of the test facility for purposes of the use.
 
-&emsp;(2) The term “indirect cost”, with respect to the use of a test facility pursuant to a memorandum or other agreement under subsection (a)—
+&emsp;(2) The term "indirect cost", with respect to the use of a test facility pursuant to a memorandum or other agreement under subsection (a)—
 
 &emsp;&emsp;(A) means any item of cost that is not easily and readily identified to a specific unit of work or output within the test facility where the use occurred; and
 
 &emsp;&emsp;(B) may include general and administrative expenses for such activities as supporting base operations, manufacturing, supervision, procurement of office supplies, and utilities that are accumulated costs allocated among several users.
 
-&emsp;(3) The term “test facility” means a range or other facility at which testing of defense equipment may be carried out.
+&emsp;(3) The term "test facility" means a range or other facility at which testing of defense equipment may be carried out.
 
 (Added Pub. L. 107–107, div. A, title XII, §1213(a), Dec. 28, 2001, 115 Stat. 1250.)
 

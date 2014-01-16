@@ -20,7 +20,7 @@ The Secretary may undertake a program for the purpose of conducting projects to 
 
 #### (4) Participation
 
-&emsp;The studies and projects shall be conducted, to the maximum extent practicable, in cooperation with State and local agencies andtribes to ensure the coordination of local flood damage reduction or riverine and wetland restoration studies with projects that conserve, restore, and manage hydrologic and hydraulic regimes and restore the natural functions and values of floodplains.
+&emsp;The studies and projects shall be conducted, to the maximum extent practicable, in cooperation with State and local agencies and tribes to ensure the coordination of local flood damage reduction or riverine and wetland restoration studies with projects that conserve, restore, and manage hydrologic and hydraulic regimes and restore the natural functions and values of floodplains.
 
 #### (c) Cost-sharing requirements
 
@@ -198,17 +198,17 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 
 #### Amendments
 
-<b>2007</b>—Subsec. (e)(23). Pub. L. 110–114, §5005(a)(1), struck out “and” at end.
+<b>2007</b>—Subsec. (e)(23). Pub. L. 110–114, §5005(a)(1), struck out "and" at end.
 
 Subsec. (e)(29) to (33). Pub. L. 110–114, §5005(a), added pars. (29) to (33).
 
-Subsec. (i)(1). Pub. L. 110–114, §5005(b), substituted “section $20,000,000” for “section—
+Subsec. (i)(1). Pub. L. 110–114, §5005(b), substituted "section $20,000,000" for "section—
 
-&emsp;“(A) $20,000,000 for fiscal year 2001;
+&emsp;"(A) $20,000,000 for fiscal year 2001;
 
-&emsp;“(B) $30,000,000 for fiscal year 2002; and
+&emsp;"(B) $30,000,000 for fiscal year 2002; and
 
-&emsp;“(C) $50,000,000 for each of fiscal years 2003 through 2005”.
+&emsp;"(C) $50,000,000 for each of fiscal years 2003 through 2005".
 
 <b>2000</b>—Subsec. (e)(24) to (28). Pub. L. 106–541 added pars. (24) to (28).
 
@@ -218,7 +218,7 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under section 2201 of this title.
 

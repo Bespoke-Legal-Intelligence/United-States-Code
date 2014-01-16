@@ -16,7 +16,7 @@ Vessel Changing Homeports.—(1) In the case of a naval vessel the homeport of w
 
 (c)
 
-Report.—(1) The Secretary of the Navy shall submit to Congress each year, at the timethat the President's budget is submitted to Congress that year under section 1105(a) of title 31, a report listing all repairs and maintenance performed on any covered naval vessel that has undergone work for the repair of the vessel in any shipyard outside the United States or Guam (in this section referred to as a “foreign shipyard”) during the fiscal year preceding the fiscal year in which the report is submitted.
+Report.—(1) The Secretary of the Navy shall submit to Congress each year, at the time that the President's budget is submitted to Congress that year under section 1105(a) of title 31, a report listing all repairs and maintenance performed on any covered naval vessel that has undergone work for the repair of the vessel in any shipyard outside the United States or Guam (in this section referred to as a "foreign shipyard") during the fiscal year preceding the fiscal year in which the report is submitted.
 
 (2) The report shall include the percentage of the annual ship repair budget of the Navy that was spent on repair of covered naval vessels in foreign shipyards during the fiscal year covered by the report.
 
@@ -42,7 +42,7 @@ Report.—(1) The Secretary of the Navy shall submit to Congress each year, at t
 
 (4) In the case of a covered vessel described in subparagraph (C) of paragraph (5), the report shall not be required to include the information described in subparagraphs (A), (E), (F), (G), and (I) of paragraph (3).
 
-(5) In this subsection, the term “covered naval vessel” means any of the following:
+(5) In this subsection, the term "covered naval vessel" means any of the following:
 
 &emsp;(A) A naval vessel.
 
@@ -58,9 +58,9 @@ A prior section 7310, added Pub. L. 97–295, §1(49)(A), Oct. 12, 1982, 96 Stat
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c)(3). Pub. L. 112–239, §344(1)(A), substituted “Except as provided in paragraph (4), the report” for “The report” in introductory provisions.
+<b>2013</b>—Subsec. (c)(3). Pub. L. 112–239, §344(1)(A), substituted "Except as provided in paragraph (4), the report" for "The report" in introductory provisions.
 
-Subsec. (c)(3)(A). Pub. L. 112–239, §344(1)(B), inserted “and operational justification” after “justification under law”.
+Subsec. (c)(3)(A). Pub. L. 112–239, §344(1)(B), inserted "and operational justification" after "justification under law".
 
 Subsec. (c)(4). Pub. L. 112–239, §344(3), added par. (4). Former par. (4) redesignated (5).
 
@@ -70,9 +70,9 @@ Subsec. (c)(5)(C). Pub. L. 112–239, §344(4), added subpar. (C).
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–417 added subsec. (c).
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–364 inserted “or Guam” after “United States” in heading and after “in the United States” in text.
+<b>2006</b>—Subsec. (a). Pub. L. 109–364 inserted "or Guam" after "United States" in heading and after "in the United States" in text.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–106 inserted “or Guam” after “outside the United States”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 inserted "or Guam" after "outside the United States".
 
 <b>1993</b>—Subsec. (b). Pub. L. 103–160, §367, amended subsec. (b) generally, designating existing provisions as par. (1) and adding par. (2).
 

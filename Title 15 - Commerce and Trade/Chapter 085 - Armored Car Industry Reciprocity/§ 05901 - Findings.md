@@ -10,11 +10,11 @@ Congress finds that—
 
 &emsp;(4) to protect themselves and the items they transport, such crew members are armed with weapons;
 
-&emsp;(5) various States require both weapons training and a criminal record background check before licensing a crew member to carry a weapon; and
+&emsp;(5) various States require both weapons training and a criminal record backgroundcheck before licensing a crew member to carry a weapon; and
 
 &emsp;(6) there is a need for each State to reciprocally accept weapons licenses of other States for armored car crew members to assure the free and safe transport of valuable items in interstate commerce.
 
-(Pub. L. 103–55, §2, July 28, 1993, 107 Stat. 276; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(L),May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(L), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(Pub. L. 103–55, §2, July 28, 1993, 107 Stat. 276; Pub. L. 110–234, title IV, §4002(b)(1)(E), (2)(L), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(E), (2)(L), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### Codification
 
@@ -22,7 +22,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Pars. (1), (2). Pub. L. 110–246, §4002(b)(1)(E), (2)(L), substituted “supplemental nutrition assistance program benefits” for “food stamps”.
+<b>2008</b>—Pars. (1), (2). Pub. L. 110–246, §4002(b)(1)(E), (2)(L), substituted "supplemental nutrition assistance program benefits" for "food stamps".
 
 #### Effective Date of 2008 Amendment
 
@@ -32,9 +32,9 @@ Amendment by section 4002(b)(1)(E), (2)(L) of Pub. L. 110–246 effective Oct. 1
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–287, §1, Oct. 27, 1998, 112 Stat. 2776, provided that: “This Act \[amending section 5902 of this title and enacting provisions set out as a note under section 5902 of this title\] may be cited as the ‘Armored Car Reciprocity Amendments of 1998’.”
+Pub. L. 105–287, §1, Oct. 27, 1998, 112 Stat. 2776, provided that: "This Act \[amending section 5902 of this title and enacting provisions set out as a note under section 5902 of this title\] may be cited as the 'Armored Car Reciprocity Amendments of 1998'."
 
 #### Short Title
 
-Pub. L. 103–55, §1, July 28, 1993, 107 Stat. 276, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Armored Car Industry Reciprocity Act of 1993’.”
+Pub. L. 103–55, §1, July 28, 1993, 107 Stat. 276, provided that: "This Act \[enacting this chapter\] may be cited as the 'Armored Car Industry Reciprocity Act of 1993'."
 

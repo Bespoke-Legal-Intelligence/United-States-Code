@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(iii) the design concept and scope of such project at the time of the conformity determination for the program was adequate to determine emissions.
 
-&emsp;(D) Any project not referred to in subparagraph (C) shall be treated as conforming to the applicable implementation plan only if it is demonstrated that the projected emissions from such project, when considered together with emissions projected for the conforming transportation plans and programs within the nonattainment area, do not cause such plans and programs to exceed the emission reduction projections and schedules assigned to such plans and programs in the applicable implementation plan.
+&emsp;(D) Any project not referred to in subparagraph (C) shall be treated as conforming to theapplicable implementation plan only if it is demonstrated that the projected emissions from such project, when considered together with emissions projected for the conforming transportation plans and programs within the nonattainment area, do not cause such plans and programs to exceed the emission reduction projections and schedules assigned to such plans and programs in the applicable implementation plan.
 
 &emsp;(E) The appropriate metropolitan planning organization shall redetermine conformity of existing transportation plans and programs not later than 2 years after the date on which the Administrator—
 
@@ -132,7 +132,7 @@ Effect of election.—Any election by a metropolitan planning organization under
 
 &emsp;(E)
 
-Air pollution control agency defined.—In this paragraph, the term “air pollution control agency” means an air pollution control agency (as defined in section 7602(b) of this title) that is responsible for developing plans or controlling air pollution within the area covered by a transportation plan.
+Air pollution control agency defined.—In this paragraph, the term "air pollution control agency" means an air pollution control agency (as defined in section 7602(b) of this title) that is responsible for developing plans or controlling air pollution within the area covered by a transportation plan.
 
 (8)
 
@@ -160,7 +160,7 @@ In general.—Transportation control measures that are specified in an implement
 
 &emsp;&emsp;&emsp;(III) reasonable public notice and opportunity for comment; and
 
-&emsp;&emsp;(v) if the metropolitan planning organization, State air pollution control agency, and the Administrator concur with the equivalency of the substitute or additional control measures.
+&emsp;&emsp;(v) if the metropolitan planning organization, State air pollution control agency, andthe Administrator concur with the equivalency of the substitute or additional control measures.
 
 &emsp;(B)
 
@@ -196,11 +196,11 @@ Lapse of conformity.—If a conformity determination required under this subsect
 
 (10)
 
-Lapse.—In this subsection, the term “lapse” means that the conformity determination for a transportation plan or transportation improvement program has expired, and thus there is no currently conforming transportation plan or transportation improvement program.
+Lapse.—In this subsection, the term "lapse" means that the conformity determination for a transportation plan or transportation improvement program has expired, and thus there is no currently conforming transportation plan or transportation improvement program.
 
 #### (d) Priority of achieving and maintaining national primary ambient air quality standards
 
-Each department, agency, or instrumentality of the Federal Government having authority to conduct or support any program with air-quality related transportation consequences shall give priority in the exercise of such authority, consistent with statutory requirements for allocation among States or other jurisdictions, to the implementation of those portions of plans prepared under this section to achieve and maintain the national primary ambient air-qualitystandard. This paragraph extends to, but is not limited to, authority exercised under chapter 53 of title 49, title 23, and the Housing and Urban Development Act.
+Each department, agency, or instrumentality of the Federal Government having authority to conduct or support any program with air-quality related transportation consequences shall give priority in the exercise of such authority, consistent with statutory requirements for allocation among States or other jurisdictions, to the implementation of those portions of plans prepared under this section to achieve and maintain the national primary ambient air-quality standard. This paragraph extends to, but is not limited to, authority exercised under chapter 53 of title 49, title 23, and the Housing and Urban Development Act.
 
 (July 14, 1955, ch. 360, title I, §176, as added Pub. L. 95–95, title I, §129(b), Aug. 7, 1977, 91 Stat. 749; amended Pub. L. 95–190, §14(a)(59), Nov. 16, 1977, 91 Stat. 1403; Pub. L. 101–549, title I, §§101(f), 110(4), Nov. 15, 1990, 104 Stat. 2409, 2470; Pub. L. 104–59, title III, §305(b), Nov. 28, 1995, 109 Stat. 580; Pub. L. 104–260, §1, Oct. 9, 1996, 110 Stat. 3175; Pub. L. 106–377, §1(a)(1) \[title III\], Oct. 27, 2000, 114 Stat. 1441, 1441A–44; Pub. L. 109–59, title VI, §6011(a)–(f), Aug. 10, 2005, 119 Stat. 1878–1881.)
 
@@ -208,23 +208,23 @@ Each department, agency, or instrumentality of the Federal Government having aut
 
 Paragraph (4) of subsec. (c), referred to in subsec. (c)(3), was amended by Pub. L. 109–59, title VI, §6011(f), Aug. 10, 2005, 119 Stat. 1881, to redesignate subpar. (C) as (E), strike it out, and add new subpars. (C) and (E). See 2005 Amendment notes below.
 
-Section 7505a of this title, referred to in subsec. (c)(6), was in the original “section 175(A)” and was translated as reading “section 175A”, meaning section 175A of act July 14, 1955, which is classified to section 7505a of this title, to reflect the probable intent of Congress.
+Section 7505a of this title, referred to in subsec. (c)(6), was in the original "section 175(A)" and was translated as reading "section 175A", meaning section 175A of act July 14, 1955, which is classified to section 7505a of this title, to reflect the probable intent of Congress.
 
 The Housing and Urban Development Act, referred to in subsec. (d), may be the name for a series of acts sharing the same name but enacted in different years by Pub. L. 89–117, Aug. 10, 1965, 79 Stat. 451; Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 476; Pub. L. 91–152, Dec. 24, 1969, 83 Stat. 379; and Pub. L. 91–609, Dec. 31, 1970, 84 Stat. 1770, respectively. For complete classification of these Acts to the Code, see Short Title notes set out under section 1701 of Title 12, Banks and Banking, and Tables.
 
 #### Codification
 
-In subsecs. (c)(2) and (d), “chapter 53 of title 49” substituted for “the Urban Mass Transportation Act \[49 App. U.S.C. 1601 et seq.\]” and in subsec. (c)(4)(F) substituted for “Federal Transit Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378 (the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation), and of Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088, which provided that references in laws to the Urban Mass Transportation Act of 1964 be deemed to be references to the Federal Transit Act.
+In subsecs. (c)(2) and (d), "chapter 53 of title 49" substituted for "the Urban Mass Transportation Act \[49 App. U.S.C. 1601 et seq.\]" and in subsec. (c)(4)(F) substituted for "Federal Transit Act" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378 (the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation), and of Pub. L. 102–240, title III, §3003(b), Dec. 18, 1991, 105 Stat. 2088, which provided that references in laws to the Urban Mass Transportation Act of 1964 be deemed to be references to the Federal Transit Act.
 
 #### Amendments
 
 <b>2005</b>—Subsec. (c)(2)(E). Pub. L. 109–59, §6011(a), added subpar. (E).
 
-Subsec. (c)(4). Pub. L. 109–59, §6011(f)(1)–(3), inserted par. (4) and subpar. (A) headings, in first sentence substituted “The Administrator shall promulgate, and periodically update,” for “No later than one year after November 15, 1990, the Administrator shall promulgate”, designated second sentence as subpar. (B), inserted heading, substituted “The Administrator, with the concurrence of the Secretary of Transportation, shall promulgate, and periodically update,” for “No later than one year after November 15, 1990, the Administrator, with the concurrence of the Secretary of Transportation, shall promulgate”, designated third sentence as subpar. (C), inserted heading, substituted “A civil action” for “A suit”, and redesignated former subpars. (B) to (D) as (D) to (F), respectively.
+Subsec. (c)(4). Pub. L. 109–59, §6011(f)(1)–(3), inserted par. (4) and subpar. (A) headings, in first sentence substituted "The Administrator shall promulgate, and periodically update," for "No later than one year after November 15, 1990, the Administrator shall promulgate", designated second sentence as subpar. (B), inserted heading, substituted "The Administrator, with the concurrence of the Secretary of Transportation,shall promulgate, and periodically update," for "No later than one year after November 15, 1990, the Administrator, with the concurrence of the Secretary of Transportation, shall promulgate", designated third sentence as subpar. (C), inserted heading, substituted "A civil action" for "A suit", and redesignated former subpars. (B) to (D) as (D) to (F), respectively.
 
-Subsec. (c)(4)(B)(ii). Pub. L. 109–59, §6011(b), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “address the appropriate frequency for making conformity determinations, but in no case shall such determinations for transportation plans and programs be less frequent than every three years; and”.
+Subsec. (c)(4)(B)(ii). Pub. L. 109–59, §6011(b), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "address the appropriate frequency for making conformity determinations, but in no case shall such determinations for transportation plans and programs be less frequent than every three years; and".
 
-Subsec. (c)(4)(E). Pub. L. 109–59, §6011(f)(4), added subpar. (E) and struck out former subpar. (E) which read as follows: “Such procedures shall also include a requirement that each State shall submit to the Administrator and the Secretary of Transportation within 24 months of November 15, 1990, a revision to its implementation plan that includes criteria and procedures for assessing the conformity of any plan, program, or project subject to the conformity requirements of this subsection.”
+Subsec. (c)(4)(E). Pub. L. 109–59, §6011(f)(4), added subpar. (E) and struck out former subpar. (E) which read as follows: "Such procedures shall also include a requirement that each State shall submit to the Administrator and the Secretary of Transportation within 24 months of November 15, 1990, a revision to its implementation plan that includes criteria and procedures for assessing the conformity of any plan, program, or project subject to the conformity requirements of this subsection."
 
 Subsec. (c)(7) to (10). Pub. L. 109–59, §6011(c)–(e), added pars. (7) to (10).
 
@@ -236,17 +236,17 @@ Subsec. (c)(7) to (10). Pub. L. 109–59, §6011(c)–(e), added pars. (7) to (1
 
 <b>1990</b>—Subsecs. (a), (b). Pub. L. 101–549, §110(4), struck out subsec. (a) which related to approval of projects or award of grants, and subsec. (b) which related to implementation of approved or promulgated plans.
 
-Subsec. (c). Pub. L. 101–549, §101(f), designated existing provisions as par. (1), struck out “(1)”, “(2)”, “(3)”, and “(4)” before “engage in”, “support in”, “license or”, and “approve, any”, respectively, substituted “conform to an implementation plan after it” for “conform to a plan after it”, “conform to an implementation plan approved” for “conform to a plan approved”, and “conformity to such an implementation plan shall” for “conformity to such a plan shall”, inserted “Conformity to an implementation plan means—” followed immediately by subpars. (A) and (B) and closing provisions relating to determination of conformity being based on recent estimates of emissions and the determination of such estimates, and added pars. (2) to (4).
+Subsec. (c). Pub. L. 101–549, §101(f), designated existing provisions as par. (1), struck out "(1)", "(2)", "(3)", and "(4)" before "engage in", "support in", "license or", and "approve, any", respectively, substituted "conform to an implementation plan after it" for "conform to a plan after it", "conform to an implementation plan approved" for "conform to a plan approved", and "conformity to such an implementation plan shall" for "conformity to such a plan shall", inserted "Conformity to an implementation plan means—" followed immediately by subpars. (A) and (B) and closing provisions relating to determination of conformity being based on recent estimates of emissions and the determination of such estimates, and added pars. (2) to (4).
 
-<b>1977</b>—Subsec. (a)(1). Pub. L. 95–190 inserted “national” before “primary”.
+<b>1977</b>—Subsec. (a)(1). Pub. L. 95–190 inserted "national" before "primary".
 
 #### Regulations
 
-Pub. L. 109–59, title VI, §6011(g), Aug. 10, 2005, 119 Stat. 1882, provided that: “Not later than 2 years after the date of enactment of this Act \[Aug. 10, 2005\], the Administrator of the Environmental Protection Agency shall promulgate revised regulations to implement the changes made by this section \[amending this section\].”
+Pub. L. 109–59, title VI, §6011(g), Aug. 10, 2005, 119 Stat. 1882, provided that: "Not later than 2 years after the date of enactment of this Act \[Aug. 10, 2005\], the Administrator of the Environmental Protection Agency shall promulgate revised regulations to implement the changes made by this section \[amending this section\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “paragraph (5),”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "paragraph (5),".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “Notwithstanding”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "Notwithstanding".</i>
 

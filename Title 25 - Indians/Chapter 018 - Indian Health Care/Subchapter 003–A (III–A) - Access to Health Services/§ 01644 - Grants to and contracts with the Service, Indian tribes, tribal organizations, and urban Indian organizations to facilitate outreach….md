@@ -6,7 +6,7 @@ The Secretary, acting through the Service, shall make grants to or enter into co
 
 &emsp;(1) to enroll for benefits under a program established under title XVIII, XIX, or XXI of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq., 1397aa et seq.\] and other health benefits programs; and
 
-&emsp;(2) with respect to such programs for which the charging of premiums and cost sharing is not prohibited under such programs, to pay premiums or cost sharing for coverage for such benefits, which may be based on financial need (as determined by the Indian tribe or tribes or tribal organizations being servedbased on a schedule of income levels developed or implemented by such tribe, tribes, or tribal organizations).
+&emsp;(2) with respect to such programs for which the charging of premiums and cost sharing is not prohibited under such programs, to pay premiums or cost sharing for coverage for such benefits, which may be based on financial need (as determined by the Indian tribe or tribes or tribal organizations being served based on a schedule of income levels developed or implemented by such tribe, tribes, or tribal organizations).
 
 #### (b) Conditions
 
@@ -42,7 +42,7 @@ The Secretary, acting through the Centers for Medicare \& Medicaid Services, sha
 
 #### (e) Agreements relating to improving enrollment of Indians under Social Security Act health benefits programs
 
-For provisions relating to agreements of the Secretary, acting through the Service, for the collection, preparation, and submission of applications by Indians for assistance under the Medicaid and children's health insurance programs established under titles XIX and XXI of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa et seq.\], and benefits under the Medicare program established under title XVIII of such Act \[42 U.S.C. 1395 et seq.\], see subsections (a) and (b) of section 1139 of the Social Security Act \[42 U.S.C. 1320b–9\].
+For provisions relating to agreements of the Secretary, acting through the Service, for the collection, preparation, and submission of applications by Indians for assistance under the Medicaid and children's health insurance programs established under titles XIX and XXI of the Social Security Act \[42 U.S.C. 1396 et seq., 1397aa etseq.\], and benefits under the Medicare program established under title XVIII of such Act \[42 U.S.C. 1395 et seq.\], see subsections (a) and (b) of section 1139 of the Social Security Act \[42 U.S.C. 1320b–9\].
 
 #### (f) Definition of premiums and cost sharing
 
@@ -50,11 +50,11 @@ In this section:
 
 #### (1) Premium
 
-&emsp;The term “premium” includes any enrollment fee or similar charge.
+&emsp;The term "premium" includes any enrollment fee or similar charge.
 
 #### (2) Cost sharing
 
-&emsp;The term “cost sharing” includes any deduction, deductible, copayment, coinsurance, or similar charge.
+&emsp;The term "cost sharing" includes any deduction, deductible, copayment, coinsurance, or similar charge.
 
 (Pub. L. 94–437, title IV, §404, as added Pub. L. 96–537, §6, Dec. 17, 1980, 94 Stat. 3176; amended Pub. L. 102–573, title IV, §403, Oct. 29, 1992, 106 Stat. 4566; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
@@ -72,7 +72,7 @@ Section was formerly classified to section 1622 of this title.
 
 <b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section related to grants to and contracts with tribal organizations.
 
-<b>1992</b>—Subsec. (b)(4). Pub. L. 102–573, §403(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “develop and implement a schedule of income levels to determine the extent of payment of premiums by such organization for coverage of needy individuals; and methods of improving the participation of Indians in receiving the benefits provided pursuant to titles XVIII and XIX of the Social Security Act.”
+<b>1992</b>—Subsec. (b)(4). Pub. L. 102–573, §403(1), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "develop and implement a schedule of income levels to determine the extent of payment of premiums by such organization for coverage of needy individuals; and methods of improving the participation of Indians in receiving the benefits provided pursuant to titles XVIII and XIX of the Social Security Act."
 
-Subsec. (c). Pub. L. 102–573, §403(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “There are authorized to be appropriated $5,000,000 for the fiscal year ending September 30, 1981, $5,750,000 for the fiscal year ending September 30, 1982, $6,615,000 for the fiscal year ending September 30, 1983, and $7,610,000 for the fiscal year ending September 30, 1984.”
+Subsec. (c). Pub. L. 102–573, §403(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "There are authorized to be appropriated $5,000,000 for the fiscal year ending September 30, 1981, $5,750,000 for the fiscal year ending September 30, 1982, $6,615,000 for the fiscal year ending September 30, 1983, and $7,610,000 for the fiscal year ending September 30, 1984."
 

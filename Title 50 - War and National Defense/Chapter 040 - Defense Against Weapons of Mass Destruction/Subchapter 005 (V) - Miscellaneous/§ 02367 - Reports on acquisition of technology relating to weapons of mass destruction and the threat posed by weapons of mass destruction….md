@@ -40,11 +40,11 @@ Each report submitted under subsection (a) shall be submitted in unclassified fo
 
 #### (d) Appropriate congressional committees defined
 
-In this section, the term “appropriate congressional committees” means the following:
+In this section, the term "appropriate congressional committees" means the following:
 
 &emsp;(1) The congressional defense committees.
 
-&emsp;(2) The congressional intelligence committees (as defined in section 401a of this title).
+&emsp;(2) The congressional intelligence committees (as defined in section 3003 of this title).
 
 &emsp;(3) The Speaker and the minority leader of the House of Representatives and the majority leader and the minority leader of the Senate.
 
@@ -62,33 +62,33 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 Pub. L. 110–417, \[div. A\], title XII, §1234, Oct. 14, 2008, 122 Stat. 4640, provided that:
 
-“(a)
+"(a)
 
 Report Required.—Not later than 180 days after the date of the enactment of this Act \[Oct. 14, 2008\], and annually thereafter, the Director of National Intelligence shall submit to Congress a report on Iran's capability to produce nuclear weapons. The report required under this subsection may be submitted in classified form.
 
-“(b)
+"(b)
 
 Matters to Be Included.—The report required under subsection (a) shall include the following:
 
-&emsp;“(1) The locations, types, and number of centrifuges and other specialized equipment necessary for the enrichment of uranium and any plans to acquire, manufacture, and operate such equipment in the future.
+&emsp;"(1) The locations, types, and number of centrifuges and other specialized equipment necessary for the enrichment of uranium and any plans to acquire, manufacture, and operate such equipment in the future.
 
-&emsp;“(2) An estimate of the amount, if any, of highly enriched uranium and weapons grade plutonium acquired or produced to date, an estimate of the amount of weapons grade plutonium that is likely to be produced or acquired in the near- and midterms and the amount of highly enriched uranium that is likely to be produced or acquired in the near- and midterms, and the number of nuclear weapons that could be produced with such materials.
+&emsp;"(2) An estimate of the amount, if any, of highly enriched uranium and weapons grade plutonium acquired or produced to date, an estimate of the amount of weapons grade plutonium that is likely to be produced or acquired in the near- and midterms and the amount of highly enriched uranium that is likely to be produced or acquired in the near- and midterms, and the number of nuclear weapons that could be produced with such materials.
 
-&emsp;“(3) A evaluation of the extent to which security and safeguards at any nuclear site prevent, slow, verify, or help monitor the enrichment of uranium orthe reprocessing of plutonium into weapons-grade materials.
+&emsp;"(3) A evaluation of the extent to which security and safeguards at any nuclear site prevent, slow, verify, or help monitor the enrichment of uranium or the reprocessing of plutonium into weapons-grade materials.
 
-&emsp;“(4) A description of any weaponization activities, such as the research, design, development, or testing of nuclear weapons or weapons-related components.
+&emsp;"(4) A description of any weaponization activities, such as the research, design, development, or testing of nuclear weapons or weapons-related components.
 
-&emsp;“(5) A description of any programs to construct, acquire, test, or improve methods to deliver nuclear weapons, including an assessment of the likely progress of such programs in the near- and mid-terms.
+&emsp;"(5) A description of any programs to construct, acquire, test, or improve methods to deliver nuclear weapons, including an assessment of the likely progress of such programs in the near- and mid-terms.
 
-&emsp;“(6) A summary of assessments made by allies of the United States of Iran's nuclear weapons program and nuclear-capable delivery systems programs.
+&emsp;"(6) A summary of assessments made by allies of the United States of Iran's nuclear weapons program and nuclear-capable delivery systems programs.
 
-“(c)
+"(c)
 
 Notification.—The President shall notify Congress, in writing, within 15 days of determining that—
 
-&emsp;“(1) Iran has resumed a nuclear weapons program;
+&emsp;"(1) Iran has resumed a nuclear weapons program;
 
-&emsp;“(2) Iran has met or surpassed any major milestone in its nuclear weapons program; or
+&emsp;"(2) Iran has met or surpassed any major milestone in its nuclear weapons program; or
 
-&emsp;“(3) Iran has undertaken to accelerate, decelerate, or cease the development of any significant element within its nuclear weapons program.”
+&emsp;"(3) Iran has undertaken to accelerate, decelerate, or cease the development of any significant element within its nuclear weapons program."
 

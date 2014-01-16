@@ -4,11 +4,11 @@ For purposes of this subchapter:
 
 #### (1) Armed Forces
 
-&emsp;The term “Armed Forces” means the Army, Navy, Air Force, and Marine Corps.
+&emsp;The term "Armed Forces" means the Army, Navy, Air Force, and Marine Corps.
 
 #### (2) Average per-pupil expenditure
 
-&emsp;The term “average per-pupil expenditure” means—
+&emsp;The term "average per-pupil expenditure" means—
 
 &emsp;&emsp;(A) the aggregate current expenditures of all local educational agencies in the State; divided by
 
@@ -16,7 +16,7 @@ For purposes of this subchapter:
 
 #### (3) Construction
 
-&emsp;The term “construction” means—
+&emsp;The term "construction" means—
 
 &emsp;&emsp;(A) the preparation of drawings and specifications for school facilities;
 
@@ -28,13 +28,13 @@ For purposes of this subchapter:
 
 #### (4) Current expenditures
 
-&emsp;The term “current expenditures” means expenditures for free public education, including expenditures for administration, instruction, attendance and health services, pupil transportation services, operation and maintenance of plant, fixed charges, and net expenditures to cover deficits for food services and student body activities, but does not include expenditures for community services, capital outlay, and debt service, or any expenditures made from funds awarded under part A of subchapter I of this chapter and subchapter VI of this chapter. The determination of whether an expenditure for the replacement of equipment is considered a current expenditure or a capital outlay shall be determined in accordance with generally accepted accounting principles as determined by the State.
+&emsp;The term "current expenditures" means expenditures for free public education, including expenditures for administration, instruction, attendance and health services, pupil transportation services, operation and maintenance of plant, fixed charges, and net expenditures to cover deficits for food services and student body activities, but does not include expenditures for community services, capital outlay,and debt service, or any expenditures made from funds awarded under part A of subchapter I of this chapter and subchapter VI of this chapter. The determination of whether an expenditure for the replacement of equipment is considered a current expenditure or a capital outlay shall be determined in accordance with generally accepted accounting principles as determined by the State.
 
 #### (5) Federal property
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) through (F), the term “Federal property” means real property that is not subject to taxation by any State or any political subdivision of a State due to Federal agreement, law, or policy, and that is—
+&emsp;&emsp;Except as provided in subparagraphs (B) through (F), the term "Federal property" means real property that is not subject to taxation by any State or any political subdivision of a State due to Federal agreement, law, or policy, and that is—
 
 &emsp;&emsp;&emsp;(i) owned by the United States or leased by the United States from another entity;
 
@@ -58,11 +58,11 @@ For purposes of this subchapter:
 
 #### (B) Schools providing flight training to members of Air Force
 
-&emsp;&emsp;The term “Federal property” includes, so long as not subject to taxation by any State or any political subdivision of a State, and whether or not that tax exemption is due to Federal agreement, law, or policy, any school providing flight training to members of the Air Force under contract with the Air Force at an airport owned by a State or political subdivision of a State.
+&emsp;&emsp;The term "Federal property" includes, so long as not subject to taxation by any State or any political subdivision of a State, and whether or not that tax exemption is due to Federal agreement, law, or policy, any school providing flight training to members of the Air Force under contract with the Air Force at an airport owned by a State or political subdivision of a State.
 
 #### (C) Non-Federal easements, leases, licenses, permits, improvements, and certain other real property
 
-&emsp;&emsp;The term “Federal property” includes, whether or not subject to taxation by a State or a political subdivision of a State—
+&emsp;&emsp;The term "Federal property" includes, whether or not subject to taxation by a State or a political subdivision of a State—
 
 &emsp;&emsp;&emsp;(i) any non-Federal easement, lease, license, permit, or other such interest in Federal property as otherwise described in this paragraph, but not including any non-Federal fee-simple interest;
 
@@ -72,7 +72,7 @@ For purposes of this subchapter:
 
 #### (D) Certain Postal Service property and pipelines and utility lines
 
-&emsp;&emsp;Notwithstanding any other provision of this paragraph, the term “Federal property” does not include—
+&emsp;&emsp;Notwithstanding any other provision of this paragraph, the term "Federal property" does not include—
 
 &emsp;&emsp;&emsp;(i) any real property under the jurisdiction of the United States Postal Service that is used primarily for the provision of postal services; or
 
@@ -80,7 +80,7 @@ For purposes of this subchapter:
 
 #### (E) Property with respect to which State or local tax revenues may not be expended, allocated, or available for free public education
 
-&emsp;&emsp;Notwithstanding any other provision of this paragraph, “Federal property” does not include any property on which children reside that is otherwise described in this paragraph if—
+&emsp;&emsp;Notwithstanding any other provision of this paragraph, "Federal property" does not include any property on which children reside that is otherwise described in this paragraph if—
 
 &emsp;&emsp;&emsp;(i) no tax revenues of the State or of any political subdivision of the State may be expended for the free public education of children who reside on that Federal property; or
 
@@ -88,7 +88,7 @@ For purposes of this subchapter:
 
 #### (F) Property located in the State of Oklahoma owned by Indian housing authority for low-income housing
 
-&emsp;&emsp;The term “Federal property” includes any real property located in the State of Oklahoma that—
+&emsp;&emsp;The term "Federal property" includes any real property located in the State of Oklahoma that—
 
 &emsp;&emsp;&emsp;(i) is owned by an Indian housing authority and used for low-income housing (including housing assisted under or authorized by the Native American Housing Assistance and Self-Determination Act of 1996 \[25 U.S.C. 4101 et seq.\]); and
 
@@ -100,7 +100,7 @@ For purposes of this subchapter:
 
 #### (6) Free public education
 
-&emsp;The term “free public education” means education that is provided—
+&emsp;The term "free public education" means education that is provided—
 
 &emsp;&emsp;(A) at public expense, under public supervision and direction, and without tuition charge; and
 
@@ -112,13 +112,13 @@ For purposes of this subchapter:
 
 #### (7) Indian lands
 
-&emsp;The term “Indian lands” means any Federal property described in paragraph (5)(A)(ii) or (5)(F).
+&emsp;The term "Indian lands" means any Federal property described in paragraph (5)(A)(ii) or (5)(F).
 
 #### (8) Local contribution percentage
 
 #### (A) In general
 
-&emsp;&emsp;The term “local contribution percentage” means the percentage of current expenditures in the State derived from local and intermediate sources, as reported to and verified by the National Center for Education Statistics.
+&emsp;&emsp;The term "local contribution percentage" means the percentage of current expenditures in the State derived from local and intermediate sources, as reported to and verified by the National Center for Education Statistics.
 
 #### (B) Hawaii and District of Columbia
 
@@ -128,7 +128,7 @@ For purposes of this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “local educational agency”—
+&emsp;&emsp;Except as provided in subparagraph (B), the term "local educational agency"—
 
 &emsp;&emsp;&emsp;(i) means a board of education or other legally constituted local school authority having administrative control and direction of free public education in a county, township, independent school district, or other school district; and
 
@@ -136,7 +136,7 @@ For purposes of this subchapter:
 
 #### (B) Exception
 
-&emsp;&emsp;The term “local educational agency” does not include any agency or school authority that the Secretary determines on a case-by-case basis—
+&emsp;&emsp;The term "local educational agency" does not include any agency or school authority that the Secretary determines on a case-by-case basis—
 
 &emsp;&emsp;&emsp;(i) was constituted or reconstituted primarily for the purpose of receiving assistance under this subchapter or the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994) or increasing the amount of such assistance; or
 
@@ -144,11 +144,11 @@ For purposes of this subchapter:
 
 #### (10) Low-rent housing
 
-&emsp;The term “low-rent housing” means housing located on property that is described in paragraph (5)(A)(iii).
+&emsp;The term "low-rent housing" means housing located on property that is described in paragraph (5)(A)(iii).
 
 #### (11) Modernization
 
-&emsp;The term “modernization” means repair, renovation, alteration, or construction, including—
+&emsp;The term "modernization" means repair, renovation, alteration, or construction, including—
 
 &emsp;&emsp;(A) the concurrent installation of equipment; and
 
@@ -156,7 +156,7 @@ For purposes of this subchapter:
 
 #### (12) Revenue derived from local sources
 
-&emsp;The term “revenue derived from local sources” means—
+&emsp;The term "revenue derived from local sources" means—
 
 &emsp;&emsp;(A) revenue produced within the boundaries of a local educational agency and available to such agency for such agency's use; or
 
@@ -164,7 +164,7 @@ For purposes of this subchapter:
 
 #### (13) School facilities
 
-&emsp;The term “school facilities” includes—
+&emsp;The term "school facilities" includes—
 
 &emsp;&emsp;(A) classrooms and related facilities; and
 
@@ -174,7 +174,7 @@ For purposes of this subchapter:
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in par. (5)(A)(ii)(III), is Pub. L. 92–203, Dec. 18, 1971,85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in par. (5)(A)(ii)(III), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 The United States Housing Act of 1937, referred to in par. (5)(A)(iii)(I), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
@@ -188,9 +188,9 @@ Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in ef
 
 Par. (5)(A)(iii)(III). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(1)(A)\], added subcl. (III).
 
-Par. (5)(F)(i). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(1)(B)\], substituted “or authorized by the Native American Housing Assistance and Self-Determination Act of 1996” for “the mutual help ownership opportunity program under section 202 of the United States Housing Act of 1937”.
+Par. (5)(F)(i). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(1)(B)\], substituted "or authorized by the Native American Housing Assistance and Self-Determination Act of 1996" for "the mutual help ownership opportunity program under section 202 of the United States Housing Act of 1937".
 
-Par. (8)(B). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(2)\], substituted “the 50 States and the District of Columbia” for “all States”.
+Par. (8)(B). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(2)\], substituted "the 50 States and the District of Columbia" for "all States".
 
 Pars. (11) to (13). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1816(3), (4)\], added par. (11) and redesignated former pars. (11) and (12) as (12) and (13), respectively.
 

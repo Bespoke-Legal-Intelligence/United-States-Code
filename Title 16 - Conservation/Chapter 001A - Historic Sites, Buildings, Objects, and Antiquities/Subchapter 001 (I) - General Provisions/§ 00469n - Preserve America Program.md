@@ -16,19 +16,19 @@ In this section:
 
 #### (1) Council
 
-&emsp;The term “Council” means the Advisory Council on Historic Preservation.
+&emsp;The term "Council" means the Advisory Council on Historic Preservation.
 
 #### (2) Heritage tourism
 
-&emsp;The term “heritage tourism” means the conduct of activities to attract and accommodate visitors to a site or area based on the unique or special aspects of the history, landscape (including trail systems), and culture of the site or area.
+&emsp;The term "heritage tourism" means the conduct of activities to attract and accommodate visitors to a site or area based on the unique or special aspects of the history, landscape (including trail systems), and culture of the site or area.
 
 #### (3) Program
 
-&emsp;The term “program” means the Preserve America Program established under subsection (c)(1).
+&emsp;The term "program" means the Preserve America Program established under subsection (c)(1).
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior.
+&emsp;The term "Secretary" means the Secretary of the Interior.
 
 #### (c) Establishment
 

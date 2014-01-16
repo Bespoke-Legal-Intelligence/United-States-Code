@@ -42,5 +42,5 @@ There is authorized to be appropriated $500,000 for the Federal share for the pu
 
 (Pub. L. 101–41, §4, June 21, 1989, 103 Stat. 85.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection,".</i>
 

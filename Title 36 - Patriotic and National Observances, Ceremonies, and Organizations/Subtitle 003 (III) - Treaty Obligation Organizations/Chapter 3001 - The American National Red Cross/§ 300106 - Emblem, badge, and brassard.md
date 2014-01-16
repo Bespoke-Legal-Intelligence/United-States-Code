@@ -32,5 +32,5 @@ Jan. 5, 1905, ch. 23, §2 (1st sentence words between 3d and 4th semicolons, las
 
 &nbsp;
 
-In subsection (a), the words “under this chapter” are substituted for “hereinafter designated” for clarity. The date “August 12, 1949” is added to include the reference to a subsequent treaty.
+In subsection (a), the words "under this chapter" are substituted for "hereinafter designated" for clarity. The date "August 12, 1949" is added to include the reference to a subsequent treaty.
 

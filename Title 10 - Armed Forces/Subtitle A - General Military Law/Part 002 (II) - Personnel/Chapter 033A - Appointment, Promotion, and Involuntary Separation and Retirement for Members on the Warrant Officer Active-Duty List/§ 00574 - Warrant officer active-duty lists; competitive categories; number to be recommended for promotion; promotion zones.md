@@ -24,11 +24,11 @@
 
 #### Amendments
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–201 substituted “two years of service” for “three years of service”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–201 substituted "two years of service" for "three years of service".
 
-<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–337 substituted “Secretary concerned” for “Secretary of each military department”.
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–337 substituted "Secretary concerned" for "Secretary of each military department".
 
-<b>1992</b>—Subsec. (d)(3). Pub. L. 102–484 substituted “active-duty list” for “active duty list” before “while”.
+<b>1992</b>—Subsec. (d)(3). Pub. L. 102–484 substituted "active-duty list" for "active duty list" before "while".
 
 #### Effective Date of 1994 Amendment
 

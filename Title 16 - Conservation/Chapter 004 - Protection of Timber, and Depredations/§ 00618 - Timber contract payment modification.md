@@ -22,7 +22,7 @@
 
 &emsp;(iii) up to 50 per centum or less of the net book worth of the purchaser, the buy-out cost shall be 15 per centum for the purchaser's first one hundred twenty-five million board feet, 20 per centum for additional board feet above one hundred twenty-five million up to one hundred fifty million, 25 per centum for additional board feet above one hundred fifty million up to one hundred seventy-five million, and 30 per centum for additional board feet above one hundred seventy-five million up to two hundred million, of the contract overbid but at least $10 per one thousand board feet of currently held volume bought out.
 
-(B) For purposes of this paragraph, the term “net book worth” does not include the value of any outstanding uncut Federal timber sales contracts.
+(B) For purposes of this paragraph, the term "net book worth" does not include the value of any outstanding uncut Federal timber sales contracts.
 
 (C) Net book worth shall be, subject to agency verification, as determined by an independent certified public accountant in accordance with generally accepted accounting standards for the timber industry.
 
@@ -30,7 +30,7 @@
 
 (E) Where a purchaser is not able to obtain sufficient credit elsewhere to finance the buy-out charge at reasonable rates and terms, purchaser may, upon payment of 5 per centum of the buy-out charge, pay the remainder of the buy-out charge in equal quarterly payments over a period not to exceed 5 years at an interest rate adjusted with each payment equal to the average market yield of outstanding Treasury obligations with remaining years to maturity of five years payment must be secured by bond, deposited securities or other forms of security acceptable to the appropriate Secretary in an amount sufficient to cover the entire buy-out payment.
 
-(F) For purposes of this paragraph, the term “contract overbid” is the difference between the advertised contract rate and the rate the purchaser bid.
+(F) For purposes of this paragraph, the term "contract overbid" is the difference between the advertised contract rate and the rate the purchaser bid.
 
 (4)(A) Contracts returned pursuant to this subsection under which no harvest has begun shall be returned in full.
 
@@ -42,7 +42,7 @@
 
 (B) Timber sales in Forest Service region 6 shall not exceed four billion three hundred million board feet of net merchantable sawtimber in fiscal year 1984.
 
-(C) Beginning in fiscal year 1985 and continuing through fiscal year 1991 or the fiscal year in which timber contract extensions in region 6 granted under the President's program of July 28, 1983 (as constituted on October 16, 1984), are completed, whichever is later, the Secretary of Agriculture shall set, and periodically adjust as necessary, the maximum annual timber sale volume in region 6. Such maximum sale volume shall be set so as to achieve a volume of region 6 net merchantable sawtimber under contract at the end of each fiscal year which does not exceed twelve billion three hundred million board feet: <i>Provided, however</i>, That such maximum annual sale volume shall not exceed five billion two hundred million board feet of net merchantable sawtimber. The sale of timber within region 6 shall be made in such a manner as not to result in discriminatory treatment as between different forests in the region.
+(C) Beginning in fiscal year 1985 and continuing through fiscal year 1991 or the fiscal year in which timber contract extensions in region 6 granted under the President's program of July28, 1983 (as constituted on October 16, 1984), are completed, whichever is later, the Secretary of Agriculture shall set, and periodically adjust as necessary, the maximum annual timber sale volume in region 6. Such maximum sale volume shall be set so as to achieve a volume of region 6 net merchantable sawtimber under contract at the end of each fiscal year which does not exceed twelve billion three hundred million board feet: <i>Provided, however</i>, That such maximum annual sale volume shall not exceed five billion two hundred million board feet of net merchantable sawtimber. The sale of timber within region 6 shall be made in such a manner as not to result in discriminatory treatment as between different forests in the region.
 
 (6)(A) The Secretary of the Interior and the Secretary of Agriculture shall publish final rules for the implementation of this subsection in the Federal Register within ninety days after October 16, 1984.
 
@@ -56,7 +56,7 @@
 
 #### (b) Extension of time for performance of contracts; covered contracts; damages for default
 
-(1) Timber contracts bid prior to January 1, 1982, not bought out pursuant to subsection (a)of this section and included in the President's program of July 28, 1983, shall not be subject to any further extension of time for performance except as permitted under the President's program of July 28, 1983, as implemented by the Secretary of Agriculture and the Secretary of the Interior, providing for the extension of certain timber sale contracts and requiring the phased harvesting of such extended contracts, which program is hereby ratified except as modified by paragraph (2).
+(1) Timber contracts bid prior to January 1, 1982, not bought out pursuant to subsection (a) of this section and included in the President's program of July 28, 1983, shall not be subject to any further extension of time for performance except as permitted under the President's program of July 28, 1983, as implemented by the Secretary of Agriculture and the Secretary of the Interior, providing for the extension of certain timber sale contracts and requiring the phased harvesting of such extended contracts, which program is hereby ratified except as modified by paragraph (2).
 
 (2) Notwithstanding any other provision of law, timber contracts extended pursuant to the President's program of July 28, 1983, as implemented by the Secretary of Agriculture shall not be subject to inclusion of additional provisions for calculating damages for default.
 
@@ -76,9 +76,9 @@ This Act, referred to in subsec. (a)(4)(B), (7)(C), is Pub. L. 98–478, Oct. 16
 
 #### Short Title
 
-Pub. L. 98–478, §1, Oct. 16, 1984, 98 Stat. 2213, provided: “That this Act \[enacting this section and sections 539f and 619 of this title\] may be cited as ‘Federal Timber Contract Payment Modification Act’.”
+Pub. L. 98–478, §1, Oct. 16, 1984, 98 Stat. 2213, provided: "That this Act \[enacting this section and sections 539f and 619 of this title\] may be cited as 'Federal Timber Contract Payment Modification Act'."
 
 #### Administrative Appeals of Timber Sales
 
-Pub. L. 99–500, §101(h) \[title III, §320\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–286, and Pub. L. 99–591, §101(h) \[title III, §320\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–287, provided that: “To assure that National Forest and Bureau of Land Management timber included in sales defaulted by the purchaser, or returned under the Federal Timber Contract Payment Modification Act (Public Law 98–478) \[see Short Title note above\], is available for resale in a timely manner, such sales shall be subject only to one level of administrative appeal. This limitation shall not abridge the right of judicial review. Actions on such administrative appeals should be completed within 90 days of receipt of the notice of appeal. Sales that are reoffered shall be modified, including minor additions or deletions, as appropriate, to reduce adverse environmental impacts, pursuant to current land management plans and guidelines, and such modifications in themselves should not be construed to require the preparation of new or supplemental environmental assessments. This section shall not apply to any decision on the determination of damages due to the Government for defaulted or canceled contracts.”
+Pub. L. 99–500, §101(h) \[title III, §320\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–286, and Pub. L. 99–591, §101(h) \[title III, §320\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–287, provided that: "To assure that National Forest and Bureau of Land Management timber included in sales defaulted by the purchaser, or returned under the Federal Timber Contract Payment Modification Act (Public Law 98–478) \[see Short Title note above\], is available for resale in a timely manner, such sales shall be subject only to one level of administrative appeal. This limitation shall not abridge the right of judicial review. Actions on such administrative appeals should be completed within 90 days of receipt of the notice of appeal. Sales that are reoffered shall be modified, including minor additions or deletions, as appropriate, to reduce adverse environmental impacts, pursuant to current land management plans and guidelines, and such modifications in themselves should not be construed to require the preparation of new or supplemental environmental assessments. This section shall not apply to any decision on the determination of damages due to the Government for defaulted or canceled contracts."
 

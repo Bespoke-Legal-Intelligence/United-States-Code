@@ -12,7 +12,7 @@ The functions of the Office shall be as follows:
 
 &emsp;(5) To prepare and submit periodically such revisions in the titles of the Code which have been enacted into positive law as may be necessary to keep such titles current.
 
-&emsp;(6) To prepare and publish periodically new editions of the District of Columbia Code, with annual cumulative supplements reflecting newly enacted laws, through publication of the fifth annual cumulative supplement to the 1973 edition of such Code.
+&emsp;(6) To prepare and publish periodically new editions of the District of Columbia Code, withannual cumulative supplements reflecting newly enacted laws, through publication of the fifth annual cumulative supplement to the 1973 edition of such Code.
 
 &emsp;(7) To provide the Committee on the Judiciary with such advice and assistance as the committee may request in carrying out its functions with respect to the revision and codification of the Federal statutes.
 

@@ -14,7 +14,7 @@
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–289 substituted “the Director” for “the Board”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–289 substituted "the Director" for "the Board".
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–73 substituted “Board” for “board”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–73 substituted "Board" for "board".
 

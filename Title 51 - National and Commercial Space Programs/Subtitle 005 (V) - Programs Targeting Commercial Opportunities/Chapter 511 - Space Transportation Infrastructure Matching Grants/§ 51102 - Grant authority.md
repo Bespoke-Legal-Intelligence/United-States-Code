@@ -34,7 +34,7 @@ Nov. 4, 1992, Pub. L. 102–588, §505(b) (1st sentence), (f), 106 Stat. 5125, 5
 
 15:5804(f).
 
-In subsection (a), the words “of the United States” are substituted for “Nation's” for consistency.
+In subsection (a), the words "of the United States" are substituted for "Nation's" for consistency.
 
 #### Amendments
 

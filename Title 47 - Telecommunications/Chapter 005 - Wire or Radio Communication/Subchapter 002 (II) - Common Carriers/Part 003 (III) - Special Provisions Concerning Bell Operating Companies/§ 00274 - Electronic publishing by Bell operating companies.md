@@ -2,11 +2,11 @@
 
 #### (a) Limitations
 
-No Bell operating company or any affiliate may engage in the provision of electronic publishing that is disseminated by means of such Bell operating company's or any of its affiliates’ basic telephone service, except that nothing in this section shall prohibit a separated affiliate or electronic publishing joint venture operated in accordance with this section from engaging in the provision of electronic publishing.
+No Bell operating company or any affiliate may engage in the provision of electronic publishing that is disseminated by means of such Bell operating company's or any of its affiliates' basic telephone service, except that nothing in this section shall prohibit a separated affiliate or electronic publishing joint venture operated in accordance with this section from engaging in the provision of electronic publishing.
 
 #### (b) Separated affiliate or electronic publishing joint venture requirements
 
-A separated affiliate or electronic publishing joint venture shall be operated independently from the Bell operating company. Such separated affiliate or joint venture and the Bell operating company with which it is affiliated shall—
+A separated affiliate or electronic publishing joint venture shall be operated independentlyfrom the Bell operating company. Such separated affiliate or joint venture and the Bell operating company with which it is affiliated shall—
 
 &emsp;(1) maintain separate books, records, and accounts and prepare separate financial statements;
 
@@ -66,7 +66,7 @@ A separated affiliate or electronic publishing joint venture shall be operated i
 
 #### (d) Bell operating company requirement
 
-A Bell operating company under common ownership or control with a separated affiliate or electronic publishing joint venture shall provide network access and interconnections for basic telephone service to electronic publishers at just and reasonable rates that are tariffed (so long as rates for such services are subject to regulation) and that are not higher on a per-unit basis than those charged for such services to any other electronic publisher or any separated affiliate engaged in electronic publishing.
+A Bell operating company under common ownership or control with a separated affiliate orelectronic publishing joint venture shall provide network access and interconnections for basic telephone service to electronic publishers at just and reasonable rates that are tariffed (so long as rates for such services are subject to regulation) and that are not higher on a per-unit basis than those charged for such services to any other electronic publisher or any separated affiliate engaged in electronic publishing.
 
 #### (e) Private right of action
 
@@ -92,15 +92,15 @@ Any separated affiliate under this section shall file with the Commission annual
 
 &emsp;The provisions of this section shall not apply to conduct occurring after 4 years after February 8, 1996.
 
-#### (h) “Electronic publishing” defined
+#### (h) "Electronic publishing" defined
 
 #### (1) In general
 
-&emsp;The term “electronic publishing” means the dissemination, provision, publication, or sale to an unaffiliated entity or person, of any one or more of the following: news (including sports); entertainment (other than interactive games); business, financial, legal, consumer, or credit materials; editorials, columns, or features; advertising; photos or images; archival or research material; legal notices or public records; scientific, educational, instructional, technical, professional, trade, or other literary materials; or other like or similar information.
+&emsp;The term "electronic publishing" means the dissemination, provision, publication, or sale to an unaffiliated entity or person, of any one or more of the following: news (including sports); entertainment (other than interactive games); business, financial, legal, consumer, or credit materials; editorials, columns, or features; advertising; photos or images; archival or research material; legal notices or public records; scientific, educational, instructional, technical, professional, trade, or other literary materials; or other like or similar information.
 
 #### (2) Exceptions
 
-&emsp;The term “electronic publishing” shall not include the following services:
+&emsp;The term "electronic publishing" shall not include the following services:
 
 &emsp;&emsp;(A) Information access, as that term is defined by the AT\&T Consent Decree.
 
@@ -136,29 +136,29 @@ Any separated affiliate under this section shall file with the Commission annual
 
 As used in this section—
 
-&emsp;(1) The term “affiliate” means any entity that, directly or indirectly, owns or controls, is owned or controlled by, or is under common ownership or control with, a Bell operating company. Such term shall not include a separated affiliate.
+&emsp;(1) The term "affiliate" means any entity that, directly or indirectly, owns or controls, is owned or controlled by, or is under common ownership or control with, a Bell operating company. Such term shall not include a separated affiliate.
 
-&emsp;(2) The term “basic telephone service” means any wireline telephone exchange service, or wireline telephone exchange service facility, provided by a Bell operating company in a telephone exchange area, except that such term does not include—
+&emsp;(2) The term "basic telephone service" means any wireline telephone exchange service, or wireline telephone exchange service facility, provided by a Bell operating company in a telephone exchange area, except that such term does not include—
 
-&emsp;&emsp;(A) a competitive wireline telephone exchange service provided in a telephone exchange area where another entity provides a wireline telephone exchange service that was provided on January 1, 1984, or
+&emsp;&emsp;(A) a competitive wireline telephone exchange service provided in a telephone exchange area where another entity provides awireline telephone exchange service that was provided on January 1, 1984, or
 
 &emsp;&emsp;(B) a commercial mobile service.
 
-&emsp;(3) The term “basic telephone service information” means network and customer information of a Bell operating company and other information acquired by a Bell operating company as a result of its engaging in the provision of basic telephone service.
+&emsp;(3) The term "basic telephone service information" means network and customer information of a Bell operating company and other information acquired by a Bell operating company as a result of its engaging in the provision of basic telephone service.
 
-&emsp;(4) The term “control” has the meaning that it has in 17 C.F.R. 240.12b–2, the regulations promulgated by the Securities and Exchange Commission pursuant to the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) or any successor provision to such section.
+&emsp;(4) The term "control" has the meaning that it has in 17 C.F.R. 240.12b–2, the regulations promulgated by the Securities and Exchange Commission pursuant to the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.) or any successor provision to such section.
 
-&emsp;(5) The term “electronic publishing joint venture” means a joint venture owned by a Bell operating company or affiliate that engages in the provision of electronic publishing which is disseminated by means of such Bell operating company's or any of its affiliates’ basic telephone service.
+&emsp;(5) The term "electronic publishing joint venture" means a joint venture owned by a Bell operating company or affiliate that engages in the provision of electronic publishing which is disseminated by means of such Bell operating company's or any of its affiliates' basic telephone service.
 
-&emsp;(6) The term “entity” means any organization, and includes corporations, partnerships, sole proprietorships, associations, and joint ventures.
+&emsp;(6) The term "entity" means any organization, and includes corporations, partnerships, sole proprietorships, associations, and joint ventures.
 
-&emsp;(7) The term “inbound telemarketing” means the marketing of property, goods, or services by telephone to a customer or potential customer who initiated the call.
+&emsp;(7) The term "inbound telemarketing" means the marketing of property, goods, or services by telephone to a customer or potential customer who initiated the call.
 
-&emsp;(8) The term “own” with respect to an entity means to have a direct or indirect equity interest (or the equivalent thereof) of more than 10 percent of an entity, or the right to more than 10 percent of the gross revenues of an entity under a revenue sharing or royalty agreement.
+&emsp;(8) The term "own" with respect to an entity means to have a direct or indirect equity interest (or the equivalent thereof) of more than 10 percent of an entity, or the right to more than 10 percent of the gross revenues of an entity under a revenue sharing or royalty agreement.
 
-&emsp;(9) The term “separated affiliate” means a corporation under common ownership or control with a Bell operating company that does not own or control a Bell operating company and is not owned or controlled by a Bell operating company and that engages in the provision of electronic publishing which is disseminated by means of such Bell operating company's or any of its affiliates’ basic telephone service.
+&emsp;(9) The term "separated affiliate" means a corporation under common ownership or control with a Bell operating company that does not own or control a Bell operating company and is not owned or controlled by a Bell operating company and that engages in the provision of electronic publishing which is disseminated by means of such Bell operating company's or any of its affiliates' basic telephone service.
 
-&emsp;(10) The term “Bell operating company” has the meaning provided in section 153 of this title, except that such term includes any entity or corporation that is owned or controlled by such a company (as so defined) but does not include an electronic publishing joint venture owned by such an entity or corporation.
+&emsp;(10) The term "Bell operating company" has the meaning provided in section 153 of this title, except that such term includes any entity or corporation that is owned or controlled by such a company (as so defined) but does not include an electronic publishing joint venture owned by such an entity or corporation.
 
 (June 19, 1934, ch. 652, title II, §274, as added Pub. L. 104–104, title I, §151(a), Feb. 8, 1996, 110 Stat. 100.)
 

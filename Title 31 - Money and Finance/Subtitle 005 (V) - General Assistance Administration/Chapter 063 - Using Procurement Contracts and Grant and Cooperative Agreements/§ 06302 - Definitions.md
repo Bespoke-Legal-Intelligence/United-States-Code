@@ -2,9 +2,9 @@
 
 In this chapter—
 
-&emsp;(1) “executive agency” does not include a mixed-ownership Government corporation.
+&emsp;(1) "executive agency" does not include a mixed-ownership Government corporation.
 
-&emsp;(2) “grant agreement” and “cooperative agreement” do not include an agreement under which is provided only—
+&emsp;(2) "grant agreement" and "cooperative agreement" do not include an agreement under which is provided only—
 
 &emsp;&emsp;(A) direct United States Government cash assistance to an individual;
 
@@ -16,11 +16,11 @@ In this chapter—
 
 &emsp;&emsp;(E) insurance.
 
-&emsp;(3) “local government” means a unit of government in a State, a local public authority, a special district, an intrastate district, a council of governments, a sponsor group representative organization, an interstate entity, or another instrumentality of a local government.
+&emsp;(3) "local government" means a unit of government in a State, a local public authority, a special district, an intrastate district, a council of governments, a sponsor group representative organization, an interstate entity, or another instrumentality of a local government.
 
-&emsp;(4) “other recipient” means a person or recipient (except a State or local government) authorized to receive United States Government assistance or procurement contracts and includes a charitable or educational institution.
+&emsp;(4) "other recipient" means a person or recipient (except a State or local government) authorized to receive United States Government assistance or procurement contracts and includes a charitable or educational institution.
 
-&emsp;(5) “State” means a State of the United States, the District of Columbia, a territory or possession of the United States, an agency or instrumentality of a State, and a multi-State, regional, or interstate entity having governmental duties and powers.
+&emsp;(5) "State" means a State of the United States, the District of Columbia, a territory or possession of the United States, an agency or instrumentality of a State, and a multi-State, regional, or interstate entity having governmental duties and powers.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1003.)
 
@@ -54,7 +54,7 @@ Feb. 3, 1978, Pub. L. 95–224, §3, 92 Stat. 4.
 
 41:502(1).
 
-Clause (3) restates the source provisions because of the definition of “executive agency” in section 102 of the revised title. The words “a county, municipality, city, town, township” are omitted as being included in “a unit of government in a State”.
+Clause (3) restates the source provisions because of the definition of "executive agency" in section 102 of the revised title. The words "a county, municipality, city, town, township" are omitted as being included in "a unit of government in a State".
 
-In clause (5), the words “the Commonwealth of Puerto Rico” are omitted as being included in “territory or possession of the United States” and as unnecessary because of 48:734. The words “duties and powers” are substituted for “functions” for consistency in the revised title and with other titles of the United States Code.
+In clause (5), the words "the Commonwealth of Puerto Rico" are omitted as being included in "territory or possession of the United States" and as unnecessary because of 48:734. The words "duties and powers" are substituted for "functions" for consistency in the revised title and with other titles of the United States Code.
 

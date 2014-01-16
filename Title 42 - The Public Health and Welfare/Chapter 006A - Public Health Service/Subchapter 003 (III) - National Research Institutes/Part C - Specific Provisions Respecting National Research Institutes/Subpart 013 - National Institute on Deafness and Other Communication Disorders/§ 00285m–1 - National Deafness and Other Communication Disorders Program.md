@@ -1,6 +1,6 @@
 ### §285m–1. National Deafness and Other Communication Disorders Program
 
-(a) The Director of the Institute, with the advice of the Institute's advisory council, shall establish a National Deafness and Other Communication Disorders Program (hereafter in this section referred to as the “Program”). The Director or <sup>1</sup> the Institute shall, with respect to the Program, prepare and transmit to the Director of NIH a plan to initiate, expand, intensify and coordinate activities of the Institute respecting disorders of hearing (including tinnitus) and other communication processes, including diseases affecting hearing, balance, voice, speech, language, taste, and smell. The planshall include such comments and recommendations as the Director of the Institute determines appropriate. The Director of the Institute shall periodically review and revise the plan and shall transmit any revisions of the plan to the Director of NIH.
+(a) The Director of the Institute, with the advice of the Institute's advisory council, shall establish a National Deafness and Other Communication Disorders Program (hereafter in this section referred to as the "Program"). The Director or <sup>1</sup> the Institute shall, with respect to the Program, prepare and transmit to the Director of NIH a plan to initiate, expand, intensify and coordinate activities of the Institute respecting disorders of hearing (including tinnitus) and other communication processes, including diseases affecting hearing, balance, voice, speech, language, taste, and smell. The plan shall include such comments and recommendations as the Director of the Institute determines appropriate. The Director of the Institute shall periodically review and revise the plan and shall transmit any revisions of the plan to the Director of NIH.
 
 (b) Activities under the Program shall include—
 
@@ -12,7 +12,7 @@
 
 &emsp;(4) research into the detection, treatment, and prevention of disorders of hearing and other communication processes in the growing elderly population with extension of rehabilitative programs to ensure continued effective communication skills in such population;
 
-&emsp;(5) research to expand knowledge of the effects of environmental agents that influence hearing or other communication processes; and
+&emsp;(5) research to expand knowledge of the effects of environmental agents that influencehearing or other communication processes; and
 
 &emsp;(6) developing and facilitating intramural programs on clinical and fundamental aspects of disorders of hearing and all other communication processes.
 
@@ -30,5 +30,5 @@ Pub. L. 100–553 and Pub. L. 100–607 contained identical provisions enacting 
 
 For effective date of amendment by Pub. L. 100–690, see section 2613(b)(1) of Pub. L. 100–690, set out as an Effect of Enactment of Similar Provisions note under section 285m of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 

@@ -34,7 +34,7 @@ Secretarial Oversight.—
 
 &emsp;(1) The Secretary may use no more than 1 percent of amounts made available in a fiscal year for capital projects under this chapter to enter into contracts to oversee the construction of such projects.
 
-&emsp;(2) The Secretary may use amounts available under paragraph (1) of this subsection tomake contracts for safety, procurement, management, and financial compliance reviews and audits of a recipient of amounts under paragraph (1).
+&emsp;(2) The Secretary may use amounts available under paragraph (1) of this subsection to make contracts for safety, procurement, management, and financial compliance reviews and audits of a recipient of amounts under paragraph (1).
 
 &emsp;(3) The Federal Government shall pay the entire cost of carrying out a contract under this subsection.
 

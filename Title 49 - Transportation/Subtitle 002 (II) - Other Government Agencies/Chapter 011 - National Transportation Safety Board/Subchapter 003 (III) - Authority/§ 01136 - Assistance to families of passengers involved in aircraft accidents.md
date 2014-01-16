@@ -80,11 +80,11 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Aircraft accident.—The term “aircraft accident” means any aviation disaster regardless of its cause or suspected cause.
+Aircraft accident.—The term "aircraft accident" means any aviation disaster regardless of its cause or suspected cause.
 
 &emsp;(2)
 
-Passenger.—The term “passenger” includes—
+Passenger.—The term "passenger" includes—
 
 &emsp;&emsp;(A) an employee of an air carrier or foreign air carrier aboard an aircraft; and
 
@@ -112,11 +112,11 @@ Board assistance.—If this section does not apply to an aircraft accident becau
 
 <b>2003</b>—Subsec. (j). Pub. L. 108–168 added subsec. (j).
 
-<b>2000</b>—Subsec. (g)(2). Pub. L. 106–181, §401(a)(1), substituted “transportation and in the event of an accident involving a foreign air carrier that occurs within the United States,” for “transportation,”, inserted “(including any associate, agent, employee, or other representative of an attorney)” after “attorney”, and substituted “45th day” for “30th day”.
+<b>2000</b>—Subsec. (g)(2). Pub. L. 106–181, §401(a)(1), substituted "transportation and in the event of an accident involving a foreign air carrier that occurs within the United States," for "transportation,", inserted "(including any associate, agent, employee, or other representative of an attorney)" after "attorney", and substituted "45th day" for "30th day".
 
 Subsec. (g)(3). Pub. L. 106–181, §401(b), added par. (3).
 
-Subsec. (h)(2). Pub. L. 106–181, §401(c), amended heading and text generally. Prior to amendment, text read as follows: “The term ‘passenger’ includes an employee of an air carrier aboard an aircraft.”
+Subsec. (h)(2). Pub. L. 106–181, §401(c), amended heading and text generally. Prior to amendment, text read as follows: "The term 'passenger' includes an employee of an air carrier aboard an aircraft."
 
 Subsec. (i). Pub. L. 106–181, §401(d), added subsec. (i).
 

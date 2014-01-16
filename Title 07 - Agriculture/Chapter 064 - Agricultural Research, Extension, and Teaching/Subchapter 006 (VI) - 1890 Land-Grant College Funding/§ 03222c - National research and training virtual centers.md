@@ -62,9 +62,9 @@ Funds provided under this section may not be used—
 
 There are authorized to be appropriated $2,000,000 for each of the fiscal years 1991 through 2012 for grants under this section.
 
-#### (g) “Center” defined
+#### (g) "Center" defined
 
-For purposes of this section, the term “center” means a national research and training virtual center that receives a grant under this subsection.
+For purposes of this section, the term "center" means a national research and training virtual center that receives a grant under this subsection.
 
 #### (h) Coordination of center activities
 
@@ -76,9 +76,9 @@ For purposes of this section, the term “center” means a national research an
 
 #### References in Text
 
-Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, referred to in subsec. (a), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the "Agricultural College Act of 1890" and also as the "Second Morrill Act", which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
-The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (h), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. Subtitle G of title XIV of the Act, popularly known as the “Agriculture and Water Policy Coordination Act”, was classified generally to chapter 86 (§5501 et seq.) of this title, prior to repeal by Pub. L. 105–185, title III, §302(c), June 23, 1998, 112 Stat. 563. Subtitle B of title XVI of the Act enacted subchapter I (§5801 et seq.) of chapter 88 of this title and repealed chapter 78 (§4701 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
+The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (h), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. Subtitle G of title XIV of the Act, popularly known as the "Agriculture and Water Policy Coordination Act", was classified generally to chapter 86 (§5501 et seq.) of this title, prior to repeal by Pub. L. 105–185, title III, §302(c), June 23, 1998, 112 Stat. 563. Subtitle B of title XVI of the Act enacted subchapter I (§5801 et seq.) of chapter 88 of this title and repealed chapter 78 (§4701 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
@@ -90,25 +90,25 @@ A prior section 1448 of Pub. L. 95–113, title XIV, Sept. 29, 1977, 91 Stat. 10
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (a)(1), (f). Pub. L. 110–246, §7126, substituted “2012” for “2007”.
+<b>2008</b>—Subsecs. (a)(1), (f). Pub. L. 110–246, §7126, substituted "2012" for "2007".
 
-<b>2002</b>—Pub. L. 107–171, §7110(b)(1), substituted “virtual” for “centennial” in section catchline.
+<b>2002</b>—Pub. L. 107–171, §7110(b)(1), substituted "virtual" for "centennial" in section catchline.
 
-Subsec. (a). Pub. L. 107–171, §7110(b)(2), substituted “virtual centers” for “centennial centers” in introductory provisions.
+Subsec. (a). Pub. L. 107–171, §7110(b)(2), substituted "virtual centers" for "centennial centers" in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 107–171, §7110(a), (b)(2), substituted “2007” for “2002” and “virtual centers” for “centennial centers”.
+Subsec. (a)(1). Pub. L. 107–171, §7110(a), (b)(2), substituted "2007" for "2002" and "virtual centers" for "centennial centers".
 
-Subsec. (f). Pub. L. 107–171, §7110(a), substituted “2007” for “2002”.
+Subsec. (f). Pub. L. 107–171, §7110(a), substituted "2007" for "2002".
 
-Subsec. (g). Pub. L. 107–171, §7110(b)(2), substituted “virtual” for “centennial”.
+Subsec. (g). Pub. L. 107–171, §7110(b)(2), substituted "virtual" for "centennial".
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–185, §301(a)(10)(A), substituted “through 2002” for “and 1997”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–185, §301(a)(10)(A), substituted "through 2002" for "and 1997".
 
-Subsec. (f). Pub. L. 105–185, §301(a)(10)(B), substituted “2002” for “1997”.
+Subsec. (f). Pub. L. 105–185, §301(a)(10)(B), substituted "2002" for "1997".
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–127, §814(1), inserted “, or fiscal years 1996 and 1997,” after “1995”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–127, §814(1), inserted ", or fiscal years 1996 and 1997," after "1995".
 
-Subsec. (f). Pub. L. 104–127, §814(2), substituted “1997” for “1995”.
+Subsec. (f). Pub. L. 104–127, §814(2), substituted "1997" for "1995".
 
 #### Effective Date of 2008 Amendment
 

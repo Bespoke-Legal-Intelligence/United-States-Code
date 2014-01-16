@@ -14,7 +14,7 @@
 
 &emsp;(B) a period of 30 days has elapsed after the notice is submitted.
 
-(3) In this subsection, the term “contract change” means a change to a contract under which the contractor is required to perform additional work. Such term does not include adjustments to pay claims or increases under an escalation clause.
+(3) In this subsection, the term "contract change" means a change to a contract underwhich the contractor is required to perform additional work. Such term does not include adjustments to pay claims or increases under an escalation clause.
 
 (d)(1) Obligations under this section may be paid without prior action of the Comptroller General.
 
@@ -44,21 +44,21 @@ July 25, 1956, ch. 727, §2, 70 Stat. 648.
 
 31:702(last sentence).
 
-In subsection (a), the word “separately” is substituted for “as one fund” for clarity. The words “remains available until expended” are substituted for “shall be available without fiscal year limitation” for consistency in the revised title.
+In subsection (a), the word "separately" is substituted for "as one fund" for clarity. The words "remains available until expended" are substituted for "shall be available without fiscal year limitation" for consistency in the revised title.
 
-In subsection (b), the words “Comptroller General” are substituted for “Comptroller General of the United States” and “General Accounting Office” for consistency. The words “affect the authority” are substituted for “abridge the existing authority” to eliminate unnecessary words. The words “settle claims and accounts” are substituted for “settle and adjust claims, demands, and accounts” for consistency with chapter 35 of the revised title.
+In subsection (b), the words "Comptroller General" are substituted for "Comptroller General of the United States" and "General Accounting Office" for consistency. The words "affect the authority" are substituted for "abridge the existing authority" to eliminate unnecessary words. The words "settle claims and accounts" are substituted for "settle and adjust claims, demands, and accounts" for consistency with chapter 35 of the revised title.
 
 #### Amendments
 
 <b>1990</b>—Pub. L. 101–510 amended text generally. Prior to amendment, text read as follows:
 
-“(a) Each appropriation account established under section 1552 of this title is accounted for separately andremains available until expended to pay obligations chargeable against any appropriation from which the account is derived.
+"(a) Each appropriation account established under section 1552 of this title is accounted for separately and remains available until expended to pay obligations chargeable against any appropriation from which the account is derived.
 
-“(b) Under regulations prescribed by the Comptroller General, obligations under subsection (a) of this section may be paid without prior action of the Comptroller General. However, this subchapter does not—
+"(b) Under regulations prescribed by the Comptroller General, obligations under subsection (a) of this section may be paid without prior action of the Comptroller General. However, this subchapter does not—
 
-&emsp;“(1) relieve the Comptroller General of the duty to make decisions requested under law; or
+&emsp;"(1) relieve the Comptroller General of the duty to make decisions requested under law; or
 
-&emsp;“(2) affect the authority of the Comptroller General to settle claims and accounts.”
+&emsp;"(2) affect the authority of the Comptroller General to settle claims and accounts."
 
 #### Effective Date of 1990 Amendment
 

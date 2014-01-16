@@ -12,7 +12,7 @@ Another prior section 3509, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1304, rela
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–398 substituted “subchapter” for “chapter”.
+<b>2000</b>—Pub. L. 106–398 substituted "subchapter" for "chapter".
 
 #### Effective Date of 2000 Amendment
 

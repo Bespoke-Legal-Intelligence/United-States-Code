@@ -10,17 +10,17 @@ In this section:
 
 #### (1) Broadband service
 
-&emsp;The term “broadband service” means any technology identified by the Secretary as having the capacity to transmit data to enable a subscriber to the service to originate and receive high-quality voice, data, graphics, and video.
+&emsp;The term "broadband service" means any technology identified by the Secretary as having the capacity to transmit data to enable a subscriber to the service to originate and receive high-quality voice, data, graphics, and video.
 
 #### (2) Incumbent service provider
 
-&emsp;The term “incumbent service provider”, with respect to an application submitted under this section, means an entity that, as of the date of submission of the application, is providing broadband service to not less than 5 percent of the households in the service territory proposed in the application.
+&emsp;The term "incumbent service provider", with respect to an application submittedunder this section, means an entity that, as of the date of submission of the application, is providing broadband service to not less than 5 percent of the households in the service territory proposed in the application.
 
 #### (3) Rural area
 
 #### (A) In general
 
-&emsp;&emsp;The term “rural area” means any area other than—
+&emsp;&emsp;The term "rural area" means any area other than—
 
 &emsp;&emsp;&emsp;(i) an area described in clause (i) or (ii) of section 1991(a)(13)(A) of this title; and
 
@@ -104,7 +104,7 @@ In this section:
 
 #### (5) Notice requirement
 
-&emsp;The Secretary shall publish a notice of each application for a loan or loan guarantee under this section describing the application, including—
+&emsp;The Secretary shall publish a notice of each application for a loan or loan guarantee underthis section describing the application, including—
 
 &emsp;&emsp;(A) the identity of the applicant;
 
@@ -190,7 +190,7 @@ Not later than 1 year after the date of enactment of the Food, Conservation, and
 
 &emsp;(5) the method by which the Secretary determines that a service enables a subscriber to originate and receive high-quality voice, data, graphics, and video for purposes of subsection (b)(1); and
 
-&emsp;(6) each broadband service, including the type and speed of broadband service, for which assistance was sought, and each broadband service for which assistance was provided, under this section.
+&emsp;(6) each broadband service, including the type and speed of broadband service, for whichassistance was sought, and each broadband service for which assistance was provided, under this section.
 
 #### (k) Funding
 
@@ -240,51 +240,51 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Pub. L. 110–246, §6110(a), amended section generally, substituting provisions authorizing loans and loan guarantees for the costs of construction, improvement, and acquisition of facilities and equipment for broadband service in rural areas and terminating such authority on Sept. 30, 2012, for provisions authorizing similar loans and loan guarantees and terminating such authority on Sept. 30, 2007.
 
-<b>2004</b>—Subsec. (b)(2). Pub. L. 108–199 amended heading and text of subsec. (b)(2) generally. Prior to amendment, text read as follows: “The term ‘eligible rural community’ means any incorporated or unincorporated place that—
+<b>2004</b>—Subsec. (b)(2). Pub. L. 108–199 amended heading and text of subsec. (b)(2) generally. Prior to amendment, text read as follows: "The term 'eligible rural community' means any incorporated or unincorporated place that—
 
-&emsp;“(A) has not more than 20,000 inhabitants, based on the most recent available population statistics of the Bureau of the Census; and
+&emsp;"(A) has not more than 20,000 inhabitants, based on the most recent available population statistics of the Bureau of the Census; and
 
-&emsp;“(B) is not located in an area designated as a standard metropolitan statistical area.”
+&emsp;"(B) is not located in an area designated as a standard metropolitan statistical area."
 
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Pub. L. 110–234, title VI, §6110(c), May 22, 2008, 122 Stat. 1203, and Pub. L. 110–246, §4(a), title VI, §6110(c), June 18, 2008, 122 Stat. 1664, 1964, provided that: “The amendment made by subsection (a) \[amending this section\] shall not apply to—
+Pub. L. 110–234, title VI, §6110(c), May 22, 2008, 122 Stat. 1203, and Pub. L. 110–246, §4(a), title VI, §6110(c), June 18, 2008, 122 Stat. 1664, 1964, provided that: "The amendment made by subsection (a) \[amending this section\] shall not apply to—
 
-&emsp;“(1) an application submitted under section 601 of the Rural Electrification Act of 1936 (7 U.S.C. 950bb) (as it existed before the amendment made by subsection (a)) that—
+&emsp;"(1) an application submitted under section 601 of the Rural Electrification Act of 1936 (7 U.S.C. 950bb) (as it existed before the amendment made by subsection (a)) that—
 
-&emsp;&emsp;“(A) was pending on the date that is 45 days prior to the date of enactment of this Act \[June 18, 2008\]; and
+&emsp;&emsp;"(A) was pending on the date that is 45 days prior to the date of enactment of this Act \[June 18, 2008\]; and
 
-&emsp;&emsp;“(B) is pending on the date of enactment of this Act \[June 18, 2008\]; or
+&emsp;&emsp;"(B) is pending on the date of enactment of this Act \[June 18, 2008\]; or
 
-&emsp;“(2) a petition for reconsideration of a decision on an application described in paragraph (1).”
+&emsp;"(2) a petition for reconsideration of a decision on an application described in paragraph (1)."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
 #### Regulations
 
-Pub. L. 110–234, title VI, §6110(b), May 22, 2008, 122 Stat. 1203, and Pub. L. 110–246, §4(a), title VI, §6110(b), June 18, 2008, 122 Stat. 1664, 1964, provided that: “The Secretary \[of Agriculture\] may implement the amendment made by subsection (a) \[amending this section\] through the promulgation of an interim regulation.”
+Pub. L. 110–234, title VI, §6110(b), May 22, 2008, 122 Stat. 1203, and Pub. L. 110–246, §4(a), title VI, §6110(b), June 18, 2008, 122 Stat. 1664, 1964, provided that: "The Secretary \[of Agriculture\] may implement the amendment made by subsection (a) \[amending this section\] through the promulgation of an interim regulation."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
 Pub. L. 107–171, title VI, §6103(b), May 13, 2002, 116 Stat. 418, provided that:
 
-“(1)
+"(1)
 
 In general.—Not later than 180 days after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall promulgate such regulations as are necessary to implement the amendment made by subsection (a) \[enacting this section\].
 
-“(2)
+"(2)
 
 Procedure.—The promulgation of the regulations shall be made without regard to—
 
-&emsp;“(A) the notice and comment provisions of section 553 of title 5, United States Code;
+&emsp;"(A) the notice and comment provisions of section 553 of title 5, United States Code;
 
-&emsp;“(B) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
+&emsp;"(B) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
 
-&emsp;“(C) chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’).
+&emsp;"(C) chapter 35 of title 44, United States Code (commonly known as the 'Paperwork Reduction Act').
 
-“(3)
+"(3)
 
-Congressional review of agency rulemaking.—In carrying out this subsection, the Secretary shall use the authority provided under section 808 of title 5, United States Code.”
+Congressional review of agency rulemaking.—In carrying out this subsection, the Secretary shall use the authority provided under section 808 of title 5, United States Code."
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Request by Federal Agency or Instrumentality.—At the request of a federal agency, a mixed-ownership Government corporation (as defined in chapter 91 of title 31), or the District of Columbia, the Administrator of General Services may operate, maintain, and protect a building that is owned by the Federal Government\(or, in the case of a wholly owned or mixed-ownership Government corporation, by the corporation) and occupied by the agency or instrumentality making the request.
+Request by Federal Agency or Instrumentality.—At the request of a federal agency, a mixed-ownership Government corporation (as defined in chapter 91 of title 31), or the District of Columbia, the Administrator of General Services may operate, maintain, and protect a building that is owned by the Federal Government (or, in the case of a wholly owned or mixed-ownership Government corporation, by the corporation) and occupied by the agency or instrumentality making the request.
 
 (b)
 
@@ -60,7 +60,7 @@ June 30, 1949, ch. 288, title II, §210(b), (d), as added Sept. 5, 1950, ch. 849
 
 40:490(d).
 
-In subsection (a), the words “mixed-ownership Government corporation” are substituted for “mixed-ownership corporation” for consistency in the subsection and with chapter 91 of title 31. The words “chapter 91 of title 31” are substituted for “the Government Corporation Control Act” in section 210(b) of the Federal Property and Administrative Services Act of 1949, because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
+In subsection (a), the words "mixed-ownership Government corporation" are substituted for "mixed-ownership corporation" for consistency in the subsection and with chapter 91 of title 31. The words "chapter 91 of title 31" are substituted for "the Government Corporation Control Act" in section 210(b) of the Federal Property and Administrative Services Act of 1949, because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
 
-In subsection (b), the words “Director of the Office of Management and Budget” are substituted for “Director of the Bureau of the Budget” in section 210(i) of the Federal Property and Administrative Services Act of 1949 because the office of Director of the Bureau of the Budget was redesignated the Director of the Office of Management and Budget by section 102(b) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085). Section 102 of Reorganization Plan No. 2 of 1970, was repealed by section 5(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1085), the first section of which enacted Title 31, United States Code, but the successor provision, 31:502, continued the designation as Director of the Office of Management and Budget.
+In subsection (b), the words "Director of the Office of Management and Budget" are substituted for "Director of the Bureau of the Budget" in section 210(i) of the Federal Property and Administrative Services Act of 1949 because the office of Director of the Bureau of the Budget was redesignated the Director of the Office of Management and Budget by section 102(b) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085). Section 102 of Reorganization Plan No. 2 of 1970, was repealed by section 5(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1085), the first section of which enacted Title 31, United States Code, but the successor provision, 31:502, continued the designation as Director of the Office of Management and Budget.
 

@@ -106,7 +106,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;In the cases described in paragraph (1), notwithstanding the provisions of paragraph (2)(C), the succeeding subparagraphs of this paragraph shall apply with respect to an action under this subsection by the Secretarywith respect to any failure of a health insurance issuer in connection with a group health plan, to meet the requirements of subsection (a)(1)(F), (b)(3), (c), or (d) of section 2702 <sup>1</sup> or section 2701 <sup>1</sup> or 2702(b)(1) <sup>1</sup> with respect to genetic information in connection with the plan.
+&emsp;&emsp;In the cases described in paragraph (1), notwithstanding the provisions of paragraph (2)(C), the succeeding subparagraphs of this paragraph shall apply with respect to an action under this subsection by the Secretary with respect to any failure of a health insurance issuer in connection with a group health plan, to meet the requirements of subsection (a)(1)(F), (b)(3), (c), or (d) of section 2702 <sup>1</sup> or section 2701 <sup>1</sup> or 2702(b)(1) <sup>1</sup> with respect to genetic information in connection with the plan.
 
 #### (B) Amount
 
@@ -116,7 +116,7 @@
 
 #### (ii) Noncompliance period
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, the term “noncompliance period” means, with respect to any failure, the period—
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term "noncompliance period" means, with respect to any failure, the period—
 
 &emsp;&emsp;&emsp;&emsp;(I) beginning on the date such failure first occurs; and
 
@@ -138,7 +138,7 @@
 
 #### (ii) Higher minimum penalty where violations are more than de minimis
 
-&emsp;&emsp;&emsp;To the extent violations for which any person is liable under this paragraph for any year are more than de minimis, clause (i) shall be applied by substituting “$15,000” for “$2,500” with respect to such person.
+&emsp;&emsp;&emsp;To the extent violations for which any person is liable under this paragraph for any year are more than de minimis, clause (i) shall be applied by substituting "$15,000" for "$2,500" with respect to such person.
 
 #### (D) Limitations
 
@@ -170,7 +170,7 @@
 
 #### References in Text
 
-Section 300gg–23 of this title, referred to in subsec. (a)(1), was in the original section “2723”, and was translated as meaning section 2724 of act July 1, 1944, to reflect the probable intent of Congress and the renumbering of section 2723 as 2724 by Pub. L. 111–148, title I, §§1001(4), 1563(c)(14)(B), formerly §1562(c)(14)(B), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911.
+Section 300gg–23 of this title, referred to in subsec. (a)(1), was in the original section "2723", and was translated as meaning section 2724 of act July 1, 1944, to reflect the probable intent of Congress and the renumbering of section 2723 as 2724 by Pub. L. 111–148, title I, §§1001(4), 1563(c)(14)(B), formerly §1562(c)(14)(B), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 130, 269, 911.
 
 Section 2702, referred to in subsec. (b)(3)(A), is a reference to section 2702 of act July 1, 1944. Section 2702, which was classified to section 300gg–1 of this title, was amended by Pub. L. 111–148, title I, §1201(3), Mar. 23, 2010, 124 Stat. 154, and was transferred to subsecs. (b) to (f) of section 300gg–4 of this title, effective for plan years beginning on or after Jan. 1, 2014. A new section 2702, related to guaranteed availability of coverage, was added by Pub. L. 111–148, title I, §1201(4), Mar. 23, 2010, 124 Stat. 156, effective for plan years beginning on or after Jan. 1, 2014, and is classified to section 300gg–1 of this title.
 
@@ -182,11 +182,11 @@ A prior section 2723 of act July 1, 1944, was renumbered section 2724 and is cla
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §1563(c)(13)(A)(i), formerly §1562(c)(13)(A)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted “individual or group market” for “small or large group markets”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §1563(c)(13)(A)(i), formerly §1562(c)(13)(A)(i), as renumbered by Pub. L. 111–148, §10107(b)(1), substituted "individual or group market" for "small or large group markets".
 
-Subsec. (a)(2). Pub. L. 111–148, §1563(c)(13)(a)(ii), formerly §1562(c)(13)(A)(ii), as renumbered by Pub. L. 111–148, §10107(b)(1), inserted “or individual health insurance coverage” after “group health plans”.
+Subsec. (a)(2). Pub. L. 111–148, §1563(c)(13)(a)(ii), formerly §1562(c)(13)(A)(ii), as renumbered by Pub. L. 111–148, §10107(b)(1), inserted "or individual health insurance coverage" after "group health plans".
 
-Subsec. (b)(1)(B). Pub. L. 111–148, §1563(c)(13)(B), formerly §1562(c)(13)(B), as renumbered by Pub. L. 111–148, §10107(b)(1), inserted “individual health insurance coverage or” after “with respect to”.
+Subsec. (b)(1)(B). Pub. L. 111–148, §1563(c)(13)(B), formerly §1562(c)(13)(B), as renumbered by Pub. L. 111–148,§10107(b)(1), inserted "individual health insurance coverage or" after "with respect to".
 
 <b>2008</b>—Subsec. (b)(3). Pub. L. 110–233 added par. (3).
 

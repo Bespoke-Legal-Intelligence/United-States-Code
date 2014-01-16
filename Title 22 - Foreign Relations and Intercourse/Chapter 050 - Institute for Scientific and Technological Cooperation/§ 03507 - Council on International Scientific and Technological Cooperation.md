@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-In order to further the purposes of the Institute, the President is authorized to establish a Council on International Scientific and Technological Cooperation (hereafter in this chapter referred to as the “Council”).
+In order to further the purposes of the Institute, the President is authorized to establish a Council on International Scientific and Technological Cooperation (hereafter in this chapter referred to as the "Council").
 
 #### (b) Functions
 
@@ -26,7 +26,7 @@ The Council shall consist of up to twenty-five members appointed by the Presiden
 
 &emsp;(1) citizens of the United States who are widely recognized for their broad knowledge of, or expertise in, science and technology, or their interest in the scientific and technological problems of developing countries;
 
-&emsp;(2) citizens of foreign countries who by their knowledge and expertise are capable of providing advice and guidance to the Institute on the application of science and technology to the problems of developing countries, except that not more than one-third of the membership ofthe Council shall consist of members who are citizens of foreign countries; and
+&emsp;(2) citizens of foreign countries who by their knowledge and expertise are capable of providing advice and guidance to the Institute on the application of science and technology to the problems of developing countries, except that not more than one-third of the membership of the Council shall consist of members who are citizens of foreign countries; and
 
 &emsp;(3) officials of the United States Government, except that not to exceed five members of the Council may be appointed under this paragraph, one of whom shall be the Secretary of State or his designee.
 
@@ -39,6 +39,10 @@ Members of the Council who are not officials of the United States Government sha
 The Council may appoint from among its members an Executive Committee, and such other committees it deems necessary, to assist it in exercising its powers and functions. The Executive Committee shall consist of seven members, one of whom shall be the Chairman of the Council and not more than three of whom shall be employees of the United States Government. The Executive Committee shall exercise such powers and functions as are delegated to it by the Council.
 
 (Pub. L. 96–53, title IV, §407, Aug. 14, 1979, 93 Stat. 374.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (e), was in the original "this title", meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

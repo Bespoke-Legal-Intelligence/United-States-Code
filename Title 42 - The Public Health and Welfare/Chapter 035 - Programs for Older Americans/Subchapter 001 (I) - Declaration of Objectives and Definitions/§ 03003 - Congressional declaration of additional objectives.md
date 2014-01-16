@@ -1,6 +1,6 @@
 ### §3003. Congressional declaration of additional objectives
 
-The Congress finds that millions of older citizens in this Nation are suffering unnecessaryharm from the lack of adequate services. It is therefore the purpose of this Act, in support of the objectives of this chapter, to—
+The Congress finds that millions of older citizens in this Nation are suffering unnecessary harm from the lack of adequate services. It is therefore the purpose of this Act, in support of the objectives of this chapter, to—
 
 &emsp;(1) make available comprehensive programs which include a full range of health, education, and supportive services to our older citizens who need them,
 
@@ -22,5 +22,5 @@ Section was not enacted as part of the Older Americans Act of 1965 which compris
 
 #### Amendments
 
-<b>1981</b>—Par. (1). Pub. L. 97–115 substituted “supportive services” for “social services”.
+<b>1981</b>—Par. (1). Pub. L. 97–115 substituted "supportive services" for "social services".
 

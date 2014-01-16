@@ -2,7 +2,7 @@
 
 #### (a) Civil and criminal jurisdiction of the State and the courts of the State; laws of the State
 
-Except as provided in section 1727(e) and section 1724(d)(4) of this title, all Indians, Indian nations, or tribes or bands of Indians in the State of Maine, other than the Passamaquoddy Tribe, the Penobscot Nation, and their members, and any lands or natural resources owned by any such Indian, Indian nation, tribe or band of Indians and any lands or natural resources held in trust by the United States, or by any other person or entity, for any such Indian, Indian nation, tribe, or band of Indians shall be subject to the civil and criminal jurisdiction of the State, the laws of the State, and the civil and criminal jurisdiction of the courts of the State, to the same extent as any other person or land therein.
+Except as provided in section 1727(e) and section 1724(d)(4) of this title, all Indians, Indian nations, or tribes or bands of Indians in the State of Maine, other than the PassamaquoddyTribe, the Penobscot Nation, and their members, and any lands or natural resources owned by any such Indian, Indian nation, tribe or band of Indians and any lands or natural resources held in trust by the United States, or by any other person or entity, for any such Indian, Indian nation, tribe, or band of Indians shall be subject to the civil and criminal jurisdiction of the State, the laws of the State, and the civil and criminal jurisdiction of the courts of the State, to the same extent as any other person or land therein.
 
 #### (b) Jurisdiction of State of Maine and utilization of local share of funds pursuant to the Maine Implementing Act; Federal laws or regulations governing services or benefits unaffected unless expressly so provided; report to Congress of comparative Federal and State funding for Maine and other States
 
@@ -20,7 +20,7 @@ The United States shall not have any criminal jurisdiction in the State of Maine
 
 #### (d) Capacity to sue and be sued in State of Maine and Federal courts; section 1362 of title 28 applicable to civil actions; immunity from suits provided in Maine Implementing Act; assignment of quarterly income payments from settlement fund to judgment creditors for satisfaction of judgments
 
-(1) The Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians, and all members thereof, and all other Indians, Indian nations, or tribes or bands of Indians in the State of Maine may sue and be sued in the courts of the State of Maine and the United States to the same extent as any other entity or person residing in the State of Maine may sue and be sued in those courts; and section 1362 of title 28 shall be applicable to civil actionsbrought by the Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians: <i>Provided, however</i>, That the Passamaquoddy Tribe, the Penobscot Nation, and their officers and employees shall be immune from suit to the extent provided in the Maine Implementing Act.
+(1) The Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians, and all members thereof, and all other Indians, Indian nations, or tribes or bands of Indians in the State of Maine may sue and be sued in the courts of the State of Maine and the United States to the same extent as any other entity or person residing in the State of Maine may sue and be sued in those courts; and section 1362 of title 28 shall be applicable to civil actions brought by the Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians: <i>Provided, however</i>, That the Passamaquoddy Tribe, the Penobscot Nation, and their officers and employees shall be immune from suit to the extent provided in the Maine Implementing Act.
 
 (2) Notwithstanding the provisions of section 3727 of title 31, the Secretary shall honor valid final orders of a Federal, State, or territorial court which enters money judgments for causes of action which arise after October 10, 1980, against either the Passamaquoddy Tribe or the Penobscot Nation by making an assignment to the judgment creditor of the right to receive income out of the next quarterly payment from the settlement fund established pursuant to section 1724(a) of this title and out of such future quarterly payments as may be necessary until the judgment is satisfied.
 
@@ -36,7 +36,7 @@ The Passamaquoddy Tribe and the Penobscot Nation are hereby authorized to exerci
 
 #### (g) Full faith and credit
 
-The Passamaquoddy Tribe, the Penobscot Nation, and the State of Maine shall give full faith and credit to the judicial proceedings of each other.
+The Passamaquoddy Tribe, the Penobscot Nation, and the State of Maine shall give full faithand credit to the judicial proceedings of each other.
 
 #### (h) General laws and regulations affecting Indians applicable, but special laws and regulations inapplicable, in State of Maine
 
@@ -50,11 +50,11 @@ As federally recognized Indian tribes, the Passamaquoddy Tribe, the Penobscot Na
 
 #### Codification
 
-In subsec. (d)(2), “section 3727 of title 31” substituted for “section 3477 of the Revised Statutes, as amended” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d)(2), "section 3727 of title 31" substituted for "section 3477 of the Revised Statutes, as amended" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
 <b>1983</b>—Subsec. (i). Pub. L. 97–428 inserted provision that notwithstanding any other provision of law authorizing provision of special programs and services by United States to Indians because of their status as Indians, any member of Houlton Band of Maliseet Indians in or near town of Houlton, Maine, be eligible for such programs and services without regard to existence of a reservation or of residence of such member on or near a reservation.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “otherwise”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "otherwise".</i>
 

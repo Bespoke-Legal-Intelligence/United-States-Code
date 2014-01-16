@@ -6,7 +6,7 @@ If at any time the Director determines that the Nationwide Mortgage Licensing Sy
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Director” for “Secretary” in two places.
+<b>2010</b>—Pub. L. 111–203 substituted "Director" for "Secretary" in two places.
 
 #### Effective Date of 2010 Amendment
 

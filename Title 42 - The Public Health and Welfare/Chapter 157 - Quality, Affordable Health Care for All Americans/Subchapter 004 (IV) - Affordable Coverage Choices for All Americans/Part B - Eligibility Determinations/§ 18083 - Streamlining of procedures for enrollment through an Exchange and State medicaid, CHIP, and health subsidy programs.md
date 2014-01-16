@@ -90,7 +90,7 @@ The Secretary shall establish a system meeting the requirements of this section 
 
 #### (e) Applicable State health subsidy program
 
-In this section, the term “applicable State health subsidy program” means—
+In this section, the term "applicable State health subsidy program" means—
 
 &emsp;(1) the program under this title <sup>3</sup> for the enrollment in qualified health plans offered through an Exchange, including the premium tax credits under section 36B of title 26 and cost-sharing reductions under section 18071 of this title;
 
@@ -108,9 +108,9 @@ The Social Security Act, referred to in subsecs. (a), (d)(2)(B), and (e)(2), (3)
 
 This title, where footnoted in subsec. (e)(1), is title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted this chapter and enacted, amended, and transferred numerous other sections and notes in the Code. For complete classification of title I to the Code, see Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “of the Social Security Act”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "of the Social Security Act".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “is”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be preceded by "is".</i>
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
 

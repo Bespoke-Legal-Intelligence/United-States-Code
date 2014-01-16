@@ -198,7 +198,7 @@
 
 &emsp;(B) the term “Federal wages”, as applied with respect to any individual to whom this subsection applies as a result of subparagraph (A), means basic pay for any employment referred to in subparagraph (A)(ii).
 
-(l)(1) Each employee or Member who has performed service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B,<sup>3</sup> or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act before the date of the separation on which the entitlement to any annuity under this subchapter is based may pay, in accordance with such regulations as the Office of Personnel Management shall issue, an amount equal to 7 percent of the readjustment allowance paid to the employee or Member under title VIII of the Economic Opportunity Act of 1964 or section 5(c) or 6(1) of the Peace Corps Act or the stipend paid to the employee or Member under part A, B,<sup>3</sup> or C of title I of the Domestic Volunteer Service Act of 1973, for each period of service as such a volunteer or volunteer leader. This paragraph shall be subject to paragraph (4).
+(l)(1) Each employee or Member who has performed service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B,<sup>3</sup> or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act before the date of the separation on which the entitlement to any annuity under this subchapter is based may pay, in accordance with such regulations as the Office of Personnel Management shall issue, an amount equal to 7 percent of the readjustment allowance paid to the employee or Member under title VIII of the Economic Opportunity Act of 1964 or section 5(c) or6(1) of the Peace Corps Act or the stipend paid to the employee or Member under part A, B,<sup>3</sup> or C of title I of the Domestic Volunteer Service Act of 1973, for each period of service as such a volunteer or volunteer leader. This paragraph shall be subject to paragraph (4).
 
 (2) Any deposit made under paragraph (1) more than 2 years after the later of—
 
@@ -210,7 +210,7 @@
 
 (3) The Director of the Peace Corps and the Chief Executive Officer of the Corporation for National and Community Service shall furnish such information to the Office of Personnel Management as the Office may determine to be necessary for the administration of this subsection.
 
-(4) Effective with respect to any period of service after December 31, 1998, the percentage of thereadjustment allowance or stipend (as the case may be) payable under paragraph (1) shall be equal to the same percentage as would be applicable under subsection (c) of this section for the same period for service as an employee.
+(4) Effective with respect to any period of service after December 31, 1998, the percentage of the readjustment allowance or stipend (as the case may be) payable under paragraph (1) shall be equal to the same percentage as would be applicable under subsection (c) of this section for the same period for service as an employee.
 
 (m) A Member who has served in a position in the executive branch for which the rate of basic pay was reduced for the duration of the service of the Member to remove the impediment to the appointment of the Member imposed by article I, section 6, clause 2 of the Constitution, or the survivor of such a Member, may deposit to the credit of the Fund an amount equal to the difference between the amount deducted from the basic pay of the Member during that period of service and the amount that would have been deducted if the rate of basic pay which would otherwise have been in effect during that period had been in effect, plus interest computed under subsection (e).
 
@@ -506,7 +506,7 @@ Termination of Employer Contribution.—The amendment made by paragraph (1) of s
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–18, §4, Apr. 23, 2003, 117 Stat. 630, provided that: “This Act \[see section 1 of Pub. L. 108–18, set out as a Short Title of 2003 Amendments note under section 101 of this title\] and the amendments made by this Act shall become effective on the date of the enactment of this Act \[Apr. 23, 2003\], except that the amendments made by section 2(b) \[amending this section\] shall apply with respect to pay periods beginning on or after such date.”
+Pub. L. 108–18, §4, Apr. 23, 2003, 117 Stat. 630, provided that: “This Act \[see section 1 of Pub. L. 108–18, set out as a Short Title of 2003 Amendments note under section 101 of this title\] and the amendments made by this Act shall become effective on the date of the enactment of this Act \[Apr. 23, 2003\], except that the amendments made by section 2(b) \[amending this section\] shallapply with respect to pay periods beginning on or after such date.”
 
 #### Effective Date of 2001 Amendment
 
@@ -520,7 +520,7 @@ Pub. L. 106–346, §101(a) \[title V, §505(i)\], Oct. 23, 2000, 114 Stat. 1356
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17,1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
+Amendment by Pub. L. 105–261 effective at the beginning of the first pay period that begins after Oct. 17, 1998, and applicable only to an individual who is employed as a nuclear materials courier, as defined by section 8331(27) or 8401(33) of this title, after Oct. 17, 1998, see section 3154(m), (n) of Pub. L. 105–261, set out as a note under section 8331 of this title.
 
 #### Effective Date of 1997 Amendments
 
@@ -582,7 +582,7 @@ Amendment by Pub. L. 98–353 effective July 10, 1984, and applicable to bankrup
 
 #### Effective Date of 1983 Amendment
 
-Section 1256(f) of Pub. L. 98–94 provided that: “The increase in deductions from the pay of a judge of the United States Court of Military Appeals \[now United States Court of Appeals for the Armed Forces\] required by section 8334(a) of title 5, United States Code, as amended by subsection (a), shall take effect with respect to the first pay period that begins after the date of the enactment of this Act \[Sept. 24, 1983\].”
+Section 1256(f) of Pub. L. 98–94 provided that: “The increase in deductions from the pay of a judge of the United States Court of Military Appeals \[now United States Court of Appeals for the Armed Forces\] required by section 8334(a) of title 5, United States Code, asamended by subsection (a), shall take effect with respect to the first pay period that begins after the date of the enactment of this Act \[Sept. 24, 1983\].”
 
 #### Effective Date of 1982 Amendments
 
@@ -590,7 +590,7 @@ Section 303(d)(1) of Pub. L. 97–253, as amended by Pub. L. 97–346, §3(j)(1)
 
 “The amendments made by subsections (a) and (b) \[amending this section and sections 8339 and 8343 of this title\] shall apply with respect to deposits for service performed on or after October 1, 1982, and with respect to refunds for which application is received by either the employing agency or the Office of Personnel Management on or after such date. The provisions of section 8334 and section 8339(i) of title 5, United States Code, as in effect the day before the date of the enactment of this Act \[Sept. 7, 1982\], shall continue to apply with respect to periods of service and refunds occurring on or before September 30, 1982. Notwithstanding the preceding two sentences, the amendments made by subsection (a) shall apply in the case of any deposit for military service under section 8334(j) of title 5, United States Code (as added by section 306(d) of this Act), regardless of whether such military service was performed before or after October 1, 1982.”
 
-Amendment by section 306(d), (e) of Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office ofPersonnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
+Amendment by section 306(d), (e) of Pub. L. 97–253 effective Oct. 1, 1982, except that any employee or Member who retired after Sept. 8, 1982, and before Oct. 1, 1985, or is entitled to an annuity under chapter 83 of this title based on a separation from service occurring during such period, or a survivor of such individual, may make a payment under section 8334(j)(1) of this title, and regulations required to be issued under section 8334(j)(1) of this title, to be issued by the Office of Personnel Management within 90 days after such effective date, see section 306(g) of Pub. L. 97–253, as amended, set out as a note under section 8331 of this title.
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 

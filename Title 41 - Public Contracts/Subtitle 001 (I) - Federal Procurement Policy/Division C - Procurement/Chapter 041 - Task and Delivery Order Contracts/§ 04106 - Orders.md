@@ -82,7 +82,7 @@ Who is eligible.—The task and delivery order ombudsman shall be a senior agenc
 
 #### Amendment Not Shown in Text
 
-<i>This section was derived from section 253j of former Title 41, Public Contracts, which was amended by Pub. L. 110–181, div. A, title VIII, §843(b)(2)(C), Jan. 28, 2008, 122 Stat. 239, to add subsec. (e), from which subsec. (f) of this section was derived, prior to being repealed and reenacted as this section by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. The directory language of section 843(b)(2)(C) of Pub. L. 110–181 was amended by Pub. L. 111–383, div. A, title X, §1075(f)(5)(B), Jan. 7, 2011, 124 Stat. 4376. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 843(b)(2)(C) of Pub. L. 110–181 was amended by striking “paragraph (1)” and inserting “subparagraph (A)”.</i>
+<i>This section was derived from section 253j of former Title 41, Public Contracts, which was amended by Pub. L. 110–181, div. A, title VIII, §843(b)(2)(C), Jan. 28, 2008, 122 Stat. 239, to add subsec. (e), from which subsec. (f) of this section was derived, prior to being repealed and reenacted as this section by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. The directory language of section 843(b)(2)(C) of Pub. L. 110–181 was amended by Pub. L. 111–383, div. A, title X, §1075(f)(5)(B), Jan. 7, 2011, 124 Stat. 4376. For applicability of that amendment to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provi</i><i>sions note preceding section 101 of this title. Section 843(b)(2)(C) of Pub. L. 110–181 was amended by striking "paragraph (1)" and inserting "subparagraph (A)".</i>
 
 Historical and Revision Notes
 
@@ -124,9 +124,9 @@ June 30, 1949, ch. 288, title III, §303J, as added Pub. L. 103–355, title I, 
 
 41:253j(f).
 
-In subsection (g)(2), the words “advocate for competition” are substituted for “competition advocate” for consistency with section 1705 of the revised title.
+In subsection (g)(2), the words "advocate for competition" are substituted for "competition advocate" for consistency with section 1705 of the revised title.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (f)(3). Pub. L. 112–81 amended par. (3) generally. Prior to amendment, text read as follows: “This subsection shall be in effect for three years, beginning on the date that is 120 days after January 28, 2008.”
+<b>2011</b>—Subsec. (f)(3). Pub. L. 112–81 amended par. (3) generally. Prior to amendment, text read as follows: "This subsection shall be in effect for three years, beginning on the date that is 120 days after January 28, 2008."
 

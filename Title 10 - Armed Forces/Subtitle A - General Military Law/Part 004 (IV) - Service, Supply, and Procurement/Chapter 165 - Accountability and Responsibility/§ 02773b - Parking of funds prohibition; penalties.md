@@ -6,7 +6,7 @@ Prohibition.—An officer or employee of the Department of Defense may not direc
 
 (b)
 
-Penalties.—The direction of the designation of funds in violation of the prohibition in subsection (a) shall be treated for purposes of chapter 13 of title 31 as a violation of section 1341(a)(1)(A) of such title.
+Penalties.—The direction of the designation of funds in violation of the prohibition insubsection (a) shall be treated for purposes of chapter 13 of title 31 as a violation of section 1341(a)(1)(A) of such title.
 
 (Added Pub. L. 109–364, div. A, title X, §1053(a)(1), Oct. 17, 2006, 120 Stat. 2396.)
 
@@ -14,11 +14,11 @@ Penalties.—The direction of the designation of funds in violation of the prohi
 
 Pub. L. 109–364, div. A, title X, §1053(b), Oct. 17, 2006, 120 Stat. 2396, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by subsection (a) \[enacting this section\] shall take effect on the date that is 31 days after the date of the enactment of this Act \[Oct. 17, 2006\].
 
-“(2)
+"(2)
 
-Modification of certain policies and regulations.—Not later than 30 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall modify the policies and regulations of the Department of Defense regarding the preparation and submittal to Congress of budget materials for the Department of Defense to take into account section 2773b of title 10, United States Code, as added by subsection (a).”
+Modification of certain policies and regulations.—Not later than 30 days after the date of the enactment of this Act \[Oct. 17, 2006\], the Secretary of Defense shall modify the policies and regulations of the Department of Defense regarding the preparation and submittal to Congress of budget materials for the Department of Defense to take into account section 2773b of title 10, United States Code, as added by subsection (a)."
 

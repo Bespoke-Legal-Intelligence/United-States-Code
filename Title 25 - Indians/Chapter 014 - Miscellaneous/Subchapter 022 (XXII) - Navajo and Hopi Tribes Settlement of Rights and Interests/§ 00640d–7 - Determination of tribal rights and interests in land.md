@@ -18,7 +18,7 @@ Lands, if any, in which the Navajo Tribe or Navajo individuals are determined by
 
 #### (d) Denial of Congressional interest in merits of conflicting claims; liability of United States
 
-Nothing in this section shall be deemed to be a Congressional determination of the merits of the conflicting claims to the lands that are subject to adjudication pursuant to this section, or to affect the liability of the United States, if any, under litigation now pending before the Indian Claims Commission.
+Nothing in this section shall be deemed to be a Congressional determination of the merits of the conflicting claims to the lands that are subject to adjudication pursuant to this section, orto affect the liability of the United States, if any, under litigation now pending before the Indian Claims Commission.
 
 #### (e) Payment of legal fees, court costs and other expenses
 
@@ -42,7 +42,7 @@ The Indian Claims Commission, referred to in subsec. (d), terminated Sept. 30, 1
 
 #### Amendments
 
-<b>1988</b>—Subsec. (e). Pub. L. 100–666, §9(a), inserted “, San Juan Southern Paiute” after “Navajo”.
+<b>1988</b>—Subsec. (e). Pub. L. 100–666, §9(a), inserted ", San Juan Southern Paiute" after "Navajo".
 
 Subsec. (f). Pub. L. 100–666, §9(b), added subsec. (f).
 

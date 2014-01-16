@@ -139,7 +139,7 @@
 | 1738<i>o.</i> | Sale of qualified debt to eligible countries. |
 | [1738p.](Subchapter%20006%20%28VI%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/%C2%A7%2001738p%20-%20Sale%2C%20reduction%2C%20or%20cancellation%20of%20qualified%20debt%20to%20facilitate%20certain%20debt%20swaps.md) | Sale, reduction, or cancellation of qualified debt to facilitate certain debt swaps. |
 | [1738q.](Subchapter%20006%20%28VI%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/%C2%A7%2001738q%20-%20Notification%20to%20congressional%20committees.md) | Notification to congressional committees. |
-| [1738r.](Subchapter%20006%20%28VI%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/%C2%A7%2001738r%20-%20%E2%80%9CQualified%20debt%E2%80%9D%20defined.md) | “Qualified debt” defined. |
+| [1738r.](Subchapter%20006%20%28VI%29%20-%20Enterprise%20for%20the%20Americas%20Initiative/%C2%A7%2001738r%20-%20Qualified%20debt%20defined.md) | "Qualified debt" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

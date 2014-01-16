@@ -26,7 +26,7 @@ Special rule for deceased and disabled members.—(A) If a member of the uniform
 
 &emsp;(D) Amounts to be paid to a member or the member's estate under subparagraph (A)(ii) shall be paid in a lump sum not later than 90 days after the date of the death, retirement, or separation of the member, whichever applies.
 
-&emsp;(E) In this paragraph, the term “combat-related disability” has the meaning given that term in section 1413a(e) of title 10.
+&emsp;(E) In this paragraph, the term "combat-related disability" has the meaning given that term in section 1413a(e) of title 10.
 
 &emsp;(3)
 
@@ -36,7 +36,7 @@ Special rule for members who receive sole survivorship discharge.—(A) If a mem
 
 &emsp;&emsp;(ii) may grant an exception to the requirement to terminate the payment of any unpaid amounts of a bonus, incentive pay, or similar benefit if the Secretary concerned determines that termination of the payment of the unpaid amounts would be contrary to a personnel policy or management objective, would be against equity and good conscience, or would be contrary to the best interests of the United States.
 
-&emsp;(B) In this paragraph, the term “sole survivorship discharge” means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
+&emsp;(B) In this paragraph, the term "sole survivorship discharge" means the separation of a member from the Armed Forces, at the request of the member, pursuant to the Department of Defense policy permitting the early separation of a member who is the only surviving child in a family in which—
 
 &emsp;&emsp;(i) the father or mother or one or more siblings—
 
@@ -58,9 +58,9 @@ Effect of Bankruptcy.—An obligation to repay the United States under this sect
 
 Definitions.—In this section:
 
-&emsp;(1) The term “bonus, incentive pay, or similar benefit” means a bonus, incentive pay, special pay, or similar payment, or an educational benefit or stipend, paid to a member of the uniformed services under a provision of law that refers to the repayment requirements of this section or section 303a(e) of this title.
+&emsp;(1) The term "bonus, incentive pay, or similar benefit" means a bonus, incentive pay, special pay, or similar payment, or an educational benefit or stipend, paid to a member of the uniformed services under a provision of law that refers to the repayment requirements of this section or section 303a(e) of this title.
 
-&emsp;(2) The term “service”, as used in subsection (c)(2), refers to an obligation willingly undertaken by a member of the uniformed services, in exchange for a bonus, incentive pay, or similar benefit offered by the Secretary concerned—
+&emsp;(2) The term "service", as used in subsection (c)(2), refers to an obligation willingly undertaken by a member of the uniformed services, in exchange for a bonus, incentive pay, or similar benefit offered by the Secretary concerned—
 
 &emsp;&emsp;(A) to a member in a regular or reserve component who remains on active duty or in an active status;
 
@@ -74,13 +74,13 @@ Definitions.—In this section:
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b)(2). Pub. L. 111–84, §617(b)(1), substituted “Special rule for deceased and disabled members” for “Mandatory payment of unpaid amounts under certain circumstances; no repayment of unearned amounts” in heading.
+<b>2009</b>—Subsec. (b)(2). Pub. L. 111–84, §617(b)(1), substituted "Special rule for deceased and disabled members" for "Mandatory payment of unpaid amounts under certain circumstances; no repayment of unearned amounts" in heading.
 
 Subsec. (b)(3). Pub. L. 111–84, §617(b)(2), added par. (3).
 
-<b>2008</b>—Pub. L. 110–417, §651(c)(2)(A), substituted “Repayment of unearned portion of bonus, incentive pay, or similar benefit, and termination of remaining payments, when conditions of payment not met” for “Repayment of unearned portion of bonus, incentive pay, or similar benefit when conditions of payment not met” in section catchline.
+<b>2008</b>—Pub. L. 110–417, §651(c)(2)(A), substituted "Repayment of unearned portion of bonus, incentive pay, or similar benefit, and termination of remaining payments, when conditions of payment not met" for "Repayment of unearned portion of bonus, incentive pay, or similar benefit when conditions of payment not met" in section catchline.
 
-Subsec. (a). Pub. L. 110–417, §651(c)(1)(A), inserted “and Termination” after “Repayment” in heading and “, and the member may not receive any unpaid amounts of the bonus, incentive pay, or similar benefit after the member fails to satisfy such service or eligibility requirement” in text before period at end.
+Subsec. (a). Pub. L. 110–417, §651(c)(1)(A), inserted "and Termination" after "Repayment" in heading and ", and the member may not receive any unpaid amounts of the bonus, incentive pay, or similar benefit after the member fails to satisfy such service or eligibility requirement" in text before period at end.
 
-Subsec. (b). Pub. L. 110–417, §651(c)(1)(B), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The regulations prescribed to administer this section may specify procedures for determining the circumstances under which an exception to the required repayment may be granted.”
+Subsec. (b). Pub. L. 110–417, §651(c)(1)(B), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The regulations prescribed to administer this section may specify procedures for determining the circumstances under which an exception to the required repayment may be granted."
 

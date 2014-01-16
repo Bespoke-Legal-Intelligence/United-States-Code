@@ -25,7 +25,7 @@
 
 <b>1998</b>—Pub. L. 105–261, div. A, title V, §§542(a)(2), 543(a)(2), 544(b), Oct. 17, 1998, 112 Stat. 2020–2022, added items 1555 to 1557.
 
-<b>1962</b>—Pub. L. 87–651, title I, §110(b), Sept. 7, 1962, 76 Stat. 510, substituted “discharge or dismissal” for “discharges or dismissals” in item 1553, and “retirement or separation without pay for physical disability” for “decisions of retiring boards and similar boards” in item 1554.
+<b>1962</b>—Pub. L. 87–651, title I, §110(b), Sept. 7, 1962, 76 Stat. 510, substituted "discharge or dismissal" for "discharges or dismissals" in item 1553, and "retirement or separation without pay for physical disability" for "decisions of retiring boards and similar boards" in item 1554.
 
 <b>1958</b>—Pub. L. 85–857, §13(v)(3), Sept. 2, 1958, 72 Stat. 1268, added items 1553 and 1554.
 

@@ -18,11 +18,11 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §102, 39 Stat. 208.
 
-The words “not in Federal service” are substituted for the words “Except in organizations in the service of the United States”. The words “have the jurisdiction and powers” are substituted for the words “and have cognizance of the same subjects, and possess like powers”. The words “of three kinds, namely”, “provided for by the laws and regulations governing”, “proceedings of courts-martial of the National Guard”, and “modes of” are omitted as surplusage.
+The words "not in Federal service" are substituted for the words "Except in organizations in the service of the United States". The words "have the jurisdiction and powers" are substituted for the words "and have cognizance of the same subjects, and possess like powers". The words "of three kinds, namely", "provided for by the laws and regulations governing", "proceedings of courts-martial of the National Guard", and "modes of" are omitted as surplusage.
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–163 substituted “States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “States and Territories, Puerto Rico, and the District of Columbia”.
+<b>2006</b>—Pub. L. 109–163 substituted "States, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands" for "States and Territories, Puerto Rico, and the District of Columbia".
 
-<b>2002</b>—Pub. L. 107–314 inserted at end “Punishments shall be as provided by the laws of the respective States and Territories, Puerto Rico, and the District of Columbia.”
+<b>2002</b>—Pub. L. 107–314 inserted at end "Punishments shall be as provided by the laws of the respective States and Territories, Puerto Rico, and the District of Columbia."
 

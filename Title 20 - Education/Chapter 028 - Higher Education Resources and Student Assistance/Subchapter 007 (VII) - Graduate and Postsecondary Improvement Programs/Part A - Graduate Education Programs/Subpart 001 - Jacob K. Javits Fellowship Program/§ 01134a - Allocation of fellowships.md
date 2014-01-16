@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall appoint a Jacob K. Javits Fellows Program Fellowship Board (referred to in this subpart as the “Board”) consisting of 9 individuals representative of both public and private institutions of higher education who are especially qualified to serve on the Board.
+&emsp;&emsp;The Secretary shall appoint a Jacob K. Javits Fellows Program Fellowship Board (referred to in this subpart as the "Board") consisting of 9 individuals representative of both public and private institutions of higher education who are especially qualified to serve on the Board.
 
 #### (B) Qualifications
 
@@ -72,7 +72,7 @@ Level IV of the Executive Schedule, referred to in subsec. (a)(7), is set out in
 
 Provisions similar to this section were contained in section 1134i of this title, prior to repeal by Pub. L. 105–244.
 
-A prior section 1134a, Pub. L. 89–329, title IX, §911, as added Pub. L. 102–325, title IX, §901, July 23, 1992, 106Stat. 761, authorized grants to encourage women and minority participation in graduate education, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
+A prior section 1134a, Pub. L. 89–329, title IX, §911, as added Pub. L. 102–325, title IX, §901, July 23, 1992, 106 Stat. 761, authorized grants to encourage women and minority participation in graduate education, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
 
 Another prior section 1134a, Pub. L. 89–329, title IX, §902, as added Pub. L. 99–498, title IX, §901(a), Oct. 17, 1986, 100 Stat. 1550, related to submission and contents of applications, prior to the general amendment of part A of subchapter IX of this chapter by Pub. L. 102–325.
 
@@ -88,5 +88,5 @@ Another prior section 702 of Pub. L. 89–329 was classified to section 1132a–
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–315 amended par. (1) generally. Prior to amendment, text read as follows: “The Secretary shall appoint a Jacob K. Javits Fellows Program Fellowship Board (hereinafter in this subpart referred to as the ‘Board’) consisting of 9 individuals representative of both public and private institutions of higher education who are especially qualified to serve on the Board. In making appointments, the Secretary shall give due consideration to the appointment of individuals who are highly respected in the academic community. The Secretary shall assure that individuals appointed to the Board are broadly representative of a range of disciplines in graduate education in arts, humanities, and social sciences.”
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–315 amended par. (1) generally. Prior to amendment, text read as follows: "The Secretary shall appoint a Jacob K. Javits Fellows Program Fellowship Board (hereinafter in this subpart referred to as the 'Board') consisting of 9 individuals representative of both public and private institutions of higher education who are especially qualified to serve on the Board. In making appointments, the Secretary shall give due consideration to the appointment of individuals who are highly respected in the academic community. The Secretary shall assure that individuals appointed to the Board are broadly representative of a range of disciplines in graduate education in arts, humanities, and social sciences."
 

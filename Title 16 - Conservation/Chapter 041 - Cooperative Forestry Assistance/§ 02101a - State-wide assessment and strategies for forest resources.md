@@ -2,7 +2,7 @@
 
 #### (a) Assessment and strategies for forest resources
 
-For a State to be eligible to receive funds under the authorities of this chapter, the State forester of that State or equivalent State official shall develop and submit to the Secretary, not later than two years after the date of enactment of the Food, Conservation, and Energy Act of 2008, the following:
+For a State to be eligible to receive funds under the authorities of this chapter, the State forester of that State or equivalent State official shall develop and submit to the Secretary,not later than two years after the date of enactment of the Food, Conservation, and Energy Act of 2008, the following:
 
 &emsp;(1) A State-wide assessment of forest resource conditions, including—
 
@@ -54,7 +54,7 @@ Once approved by the Secretary, a State-wide assessment and State-wide strategy 
 
 #### (2) Additional funding sources
 
-&emsp;In addition to the funds appropriated for a fiscal year pursuant to the authorization of appropriations in paragraph (1) to carry out this section, the Secretary may use any otherfunds made available for planning under this chapter to carry out this section, except that the total amount of combined funding used to carry out this section may not exceed $10,000,000 in any fiscal year.
+&emsp;In addition to the funds appropriated for a fiscal year pursuant to the authorization of appropriations in paragraph (1) to carry out this section, the Secretary may use any other funds made available for planning under this chapter to carry out this section, except that the total amount of combined funding used to carry out this section may not exceed $10,000,000 in any fiscal year.
 
 #### (g) Annual report on use of funds
 
@@ -64,7 +64,7 @@ The State forester or equivalent State official shall submit to the Secretary an
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (e), (f)(2), and (g), was in the original “this Act”, meaning Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
+This chapter, referred to in subsecs. (a), (e), (f)(2), and (g), was in the original "this Act", meaning Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
 
 The date of enactment of the Food, Conservation, and Energy Act of 2008, referred to in subsec. (a), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 

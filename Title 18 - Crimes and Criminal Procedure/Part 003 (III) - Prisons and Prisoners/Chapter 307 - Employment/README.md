@@ -16,7 +16,7 @@
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–647, title XXXV, §3599A, Nov. 29, 1990, 104 Stat. 4931, substituted “Fund” for “fund” in item 4126.
+<b>1990</b>—Pub. L. 101–647, title XXXV, §3599A, Nov. 29, 1990, 104 Stat. 4931, substituted "Fund" for "fund" in item 4126.
 
 <b>1988</b>—Pub. L. 100–690, title VII, §7093(b), Nov. 18, 1988, 102 Stat. 4412, added item 4129.
 

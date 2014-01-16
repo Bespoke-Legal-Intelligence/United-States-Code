@@ -12,7 +12,7 @@ The Secretary, in collaboration with the Secretary of Veterans Affairs, the Secr
 
 #### References in Text
 
-Section 314(6) of title 6, referred to in subsec. (a), was in the original “section 502(6) of the Homeland SecurityAct of 2002”, and was translated as meaning section 504(6) of Pub. L. 107–296, to reflect the probable intent of Congress and the renumbering of section 502 as 504 by Pub. L. 109–295, title VI, §611(8), Oct. 4, 2006, 120 Stat. 1395.
+Section 314(6) of title 6, referred to in subsec. (a), was in the original "section 502(6) of the Homeland Security Act of 2002", and was translated as meaning section 504(6) of Pub. L. 107–296, to reflect the probable intent of Congress and the renumbering of section 502 as 504 by Pub. L. 109–295, title VI, §611(8), Oct. 4, 2006, 120 Stat. 1395.
 
 #### Amendments
 
@@ -22,21 +22,21 @@ Section 314(6) of title 6, referred to in subsec. (a), was in the original “se
 
 Pub. L. 107–188, title I, §157, June 12, 2002, 116 Stat. 633, provided that:
 
-“(a)
+"(a)
 
 In General \[sic\].—The Comptroller General shall submit to the Committee on Health, Education, Labor, and Pensions and the Committee on Appropriations of the Senate, and to the Committee on Energy and Commerce and the Committee on Appropriations of the House of Representatives, a report that describes—
 
-&emsp;“(1) Federal activities primarily related to research on, preparedness for, and the management of the public health and medical consequences of a bioterrorist attack against the civilian population;
+&emsp;"(1) Federal activities primarily related to research on, preparedness for, and the management of the public health and medical consequences of a bioterrorist attack against the civilian population;
 
-&emsp;“(2) the coordination of the activities described in paragraph (1);
+&emsp;"(2) the coordination of the activities described in paragraph (1);
 
-&emsp;“(3) the effectiveness of such efforts in preparing national, State, and local authorities to address the public health and medical consequences of a potential bioterrorist attack against the civilian population;
+&emsp;"(3) the effectiveness of such efforts in preparing national, State, and local authorities to address the public health and medical consequences of a potential bioterrorist attack against the civilian population;
 
-&emsp;“(4) the activities and costs of the Civil Support Teams of the National Guard in responding to biological threats or attacks against the civilian population;
+&emsp;"(4) the activities and costs of the Civil Support Teams of the National Guard in responding to biological threats or attacks against the civilian population;
 
-&emsp;“(5) the activities of the working group under subsection (a) and the efforts made by such group to carry out the activities described in such subsection; and
+&emsp;"(5) the activities of the working group under subsection (a) and the efforts made by such group to carry out the activities described in such subsection; and
 
-&emsp;“(6) the ability of private sector contractors to enhance governmental responses to biological threats or attacks.”
+&emsp;"(6) the ability of private sector contractors to enhance governmental responses to biological threats or attacks."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

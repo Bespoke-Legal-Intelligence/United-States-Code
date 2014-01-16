@@ -32,9 +32,9 @@ Jan. 3, 1975, Pub. L. 93–633, §304(a)(9), 88 Stat. 2169; Oct. 19, 1984, Pub. 
 
 (no source).
 
-In clause (1), the word “certificate” is substituted for “operating certificate” for consistency in the revised title. The words “or license” are omitted as unnecessary because only certificates are issued under the sections cited in this section.
+In clause (1), the word "certificate" is substituted for "operating certificate" for consistency in the revised title. The words "or license" are omitted as unnecessary because only certificates are issued under the sections cited in this section.
 
-In clause (3), the words “head of the department in which the Coast Guard is operating” are substituted for “Commandant of the Coast Guard” for consistency with 14:5 and 46:2101(34).
+In clause (3), the words "head of the department in which the Coast Guard is operating" are substituted for "Commandant of the Coast Guard" for consistency with 14:5 and 46:2101(34).
 
 Clause (4) is added to reflect all the appellate responsibilities of the National Transportation Safety Board.
 

@@ -6,21 +6,21 @@ In this section:
 
 #### (1) First crop
 
-&emsp;The term “first crop” means the first crop of the first agricultural commodity planted for harvest, or prevented from being planted, on specific acreage during a crop year and insured under this subchapter.
+&emsp;The term "first crop" means the first crop of the first agricultural commodity planted for harvest, or prevented from being planted, on specific acreage during a crop year and insured under this subchapter.
 
 #### (2) Second crop
 
-&emsp;The term “second crop” means a second crop of the same agricultural commodity as the first crop, or a crop of a different agricultural commodity following the first crop, planted on the same acreage as the first crop for harvest in the same crop year, except the term does not include a replanted crop.
+&emsp;The term "second crop" means a second crop of the same agricultural commodity as the first crop, or a crop of a different agricultural commodity following the first crop, planted on the same acreage as the first crop for harvest in the same crop year, except the term does not include a replanted crop.
 
 #### (3) Replanted crop
 
-&emsp;The term “replanted crop” means any agricultural commodity replanted on the same acreage as the first crop for harvest in the same crop year if the replanting is required by the terms of the policy of insurance covering the first crop.
+&emsp;The term "replanted crop" means any agricultural commodity replanted on the same acreage as the first crop for harvest in the same crop year if the replanting is required by the terms of the policy of insurance covering the first crop.
 
 #### (b) Double insurance
 
 #### (1) Options on loss to first crop
 
-&emsp;Except as provided in subsections (d) and (e) of this section, if a first crop insured under this subchapter in a crop year has a total or partial insurable loss, the producer of the first crop may elect one of the following options:
+&emsp;Except as provided in subsections (d) and (e) of this section, if a first crop insured underthis subchapter in a crop year has a total or partial insurable loss, the producer of the first crop may elect one of the following options:
 
 #### (A) No second crop planted
 
@@ -126,7 +126,7 @@ A prior section 1508a, act Feb. 16, 1938, ch. 30, title V, §508A, as added Aug.
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter” wherever appearing.
+<b>2008</b>—Pub. L. 110–246, §12033(c)(2)(B), substituted "this subchapter" for "this chapter" wherever appearing.
 
 #### Effective Date of 2008 Amendment
 

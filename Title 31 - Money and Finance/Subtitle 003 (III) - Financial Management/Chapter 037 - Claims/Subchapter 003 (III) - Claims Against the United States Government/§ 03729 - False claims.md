@@ -44,7 +44,7 @@ Costs of civil actions.—A person violating this subsection shall also be liabl
 
 Definitions.—For purposes of this section—
 
-&emsp;(1) the terms “knowing” and “knowingly”—
+&emsp;(1) the terms "knowing" and "knowingly"—
 
 &emsp;&emsp;(A) mean that a person, with respect to information—
 
@@ -56,7 +56,7 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;(B) require no proof of specific intent to defraud;
 
-&emsp;(2) the term “claim”—
+&emsp;(2) the term "claim"—
 
 &emsp;&emsp;(A) means any request or demand, whether under a contract or otherwise, for money or property and whether or not the United States has title to the money or property, that—
 
@@ -70,9 +70,9 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;(B) does not include requests or demands for money or property that the Government has paid to an individual as compensation for Federal employment or as an income subsidy with no restrictions on that individual's use of the money or property;
 
-&emsp;(3) the term “obligation” means an established duty, whether or not fixed, arising from an express or implied contractual, grantor-grantee, or licensor-licensee relationship, from a fee-based or similar relationship, from statute or regulation, or from the retention of any overpayment; and
+&emsp;(3) the term "obligation" means an established duty, whether or not fixed, arising from an express or implied contractual, grantor-grantee, or licensor-licensee relationship, from a fee-based or similar relationship, from statute or regulation, or from the retention of any overpayment; and
 
-&emsp;(4) the term “material” means having a natural tendency to influence, or be capable of influencing, the payment or receipt of money or property.
+&emsp;(4) the term "material" means having a natural tendency to influence, or be capable of influencing, the payment or receipt of money or property.
 
 (c)
 
@@ -98,7 +98,7 @@ Historical and Revision Notes
 
 R.S. §3490.
 
-In the section, before clause (1), the words “a member of an armed force of the United States” are substituted for “in the military or naval forces of the United States, or in the militia called into or actually employed in the service of the United States” and “military or naval service” for consistency with title 10. The words “is liable” are substituted for “shall forfeit and pay” for consistency. The words “civil action” are substituted for “suit” for consistency in the revised title and with other titles of the United States Code. The words “and such forfeiture and damages shall be sued for in the same suit” are omitted as unnecessary because of rules 8 and 10 of the Federal Rules of Civil Procedure (28 App. U.S.C.). In clauses (1)–(3), the words “false or fraudulent” are substituted for “false, fictitious, or fraudulent” and “Fraudulent or fictitious” to eliminate unnecessary words and for consistency. In clause (1), the words “presents, or causes to be presented” are substituted for “shall make or cause to be made, or present or cause to be presented” for clarity and consistency and to eliminate unnecessary words. The words “officer or employee of the Government or a member of an armed force” are substituted for “officer in the civil, military, or naval service of the United States” for consistency in the revised title and with other titles of the Code. The words “upon or against the Government of the United States, or any department of the United States, or any department or officer thereof” are omitted as surplus. In clause (2), the word “knowingly” is substituted for “knowing the same to contain any fraudulent or fictitious statement or entry” to eliminate unnecessary words. The words “record or statement” are substituted for “bill, receipt, voucher, roll, account, claim, certificate, affidavit, or deposition” for consistency in the revised title and with other titles of the Code. In clause (3), the words “conspires to” are substituted for “enters into any agreement, combination, or conspiracy” to eliminate unnecessary words. The words “of the United States, or any department or officer thereof” are omitted as surplus. In clause (4), the words “charge”, “or other”, and “to any other person having authority to receive the same” are omitted as surplus. In clause (5), the words “document certifying receipt” are substituted for “certificate, voucher, receipt, or other paper certifying the receipt” to eliminate unnecessary words. The words “arms, ammunition, provisions, clothing, or other”, “to any other person”, and “the truth of” are omitted as surplus. In clause (6), the words “arms, equipments, ammunition, clothes, military stores, or other” are omitted as surplus. The words “member of an armed force” are substituted for “soldier, officer, sailor, or other person called into or employed in the military or naval service” for consistency with title 10. The words “such soldier, sailor, officer, or other person” are omitted as surplus.
+In the section, before clause (1), the words "a member of an armed force of the United States" are substituted for "in the military or naval forces of the United States, or in the militia called into or actually employed in the service of the United States" and "military or naval service" for consistency with title 10. The words "is liable" are substituted for "shall forfeit and pay" for consistency. The words "civil action" are substituted for "suit" for consistency in the revised title and with other titles of the United States Code. The words "and such forfeiture and damages shall be sued for in the same suit" are omitted as unnecessary because of rules 8 and 10 of the Federal Rules of Civil Procedure (28 App. U.S.C.). In clauses (1)–(3), the words "false or fraudulent" are substituted for "false, fictitious, or fraudulent" and "Fraudulent or fictitious" to eliminate unnecessary words and for consistency. In clause (1), the words "presents, or causes to be presented" are substituted for "shall make or cause to be made, or present or cause to be presented" for clarity and consistency and to eliminate unnecessary words. The words "officer or employee of the Government or a member of an armed force" are substituted for "officer in the civil, military, or naval service of the United States" for consistency in the revised title and with other titles of the Code. The words "upon or against the Government of the United States, or any department of the United States, or any department or officer thereof" are omitted as surplus. In clause (2), the word "knowingly" is substituted for "knowing the same to contain any fraudulent or fictitious statement or entry" to eliminate unnecessary words. The words "record or statement" are substituted for "bill, receipt, voucher, roll, account, claim, certificate, affidavit, or deposition" for consistency in the revised title and with other titles of the Code. In clause (3), the words "conspires to" are substituted for "enters into any agreement, combination, or conspiracy" to eliminate unnecessary words. The words "of the United States, or any department or officer thereof" are omitted as surplus. In clause (4), the words "charge", "or other", and "to any other person having authority to receive the same" are omitted as surplus. In clause (5), the words "document certifying receipt" are substituted for "certificate, voucher, receipt, or other paper certifying the receipt" to eliminate unnecessary words. The words "arms, ammunition, provisions, clothing, or other", "to any other person", and "the truth of" are omitted as surplus. In clause (6), the words "arms, equipments, ammunition, clothes, military stores, or other" are omitted as surplus. The words "member of an armed force" are substituted for "soldier, officer, sailor, or other person called into or employed in the military or naval service" for consistency with title 10. The words "such soldier, sailor, officer, or other person" are omitted as surplus.
 
 #### References in Text
 
@@ -106,27 +106,27 @@ The Internal Revenue Code of 1986, referred to in subsec. (d), is classified gen
 
 #### Amendments
 
-<b>2009</b>—Subsecs. (a), (b). Pub. L. 111–21, §4(a)(1), (2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to liability for certain acts and defined “knowing” and “knowingly”, respectively.
+<b>2009</b>—Subsecs. (a), (b). Pub. L. 111–21, §4(a)(1), (2), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which related to liability for certain acts and defined "knowing" and "knowingly", respectively.
 
-Subsec. (c). Pub. L. 111–21, §4(a)(4), substituted “subsection (a)(2)” for “subparagraphs (A) through (C) of subsection (a)”.
+Subsec. (c). Pub. L. 111–21, §4(a)(4), substituted "subsection (a)(2)" for "subparagraphs (A) through (C) of subsection (a)".
 
-Pub. L. 111–21, §4(a)(2), (3), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Prior to amendment, text read as follows: “For purposes of this section, ‘claim’ includes any request or demand, whether under a contract or otherwise, for money or property which is made to a contractor, grantee, or other recipient if the United States Government provides any portion of the money or property which is requested or demanded, or if the Government will reimburse such contractor, grantee, or other recipient for any portion of the money or property which is requested or demanded.”
+Pub. L. 111–21, §4(a)(2), (3), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Prior to amendment, text read as follows: "For purposes of this section, 'claim' includes any request or demand, whether under a contract or otherwise, for money or property which is made to a contractor, grantee, or other recipient if the United States Government provides any portion of the money or property which is requested or demanded, or if the Government will reimburse such contractor, grantee, or other recipient for any portion of the money or property which is requested or demanded."
 
 Subsecs. (d), (e). Pub. L. 111–21, §4(a)(3), redesignated subsecs. (d) and (e) as (c) and (d), respectively.
 
-<b>1994</b>—Subsec. (e). Pub. L. 103–272 substituted “1986” for “1954”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–272 substituted "1986" for "1954".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–562, §2(1), designated existing provisions as subsec. (a), inserted subsec. heading, and substituted “Any person who” for “A person not a member of an armed force of the United States is liable to the United States Government for a civil penalty of $2,000, an amount equal to 2 times the amount of damages the Government sustains because of the act of that person, and costs of the civil action, if the person” in introductory provisions.
+<b>1986</b>—Subsec. (a). Pub. L. 99–562, §2(1), designated existing provisions as subsec. (a), inserted subsec. heading, and substituted "Any person who" for "A person not a member of an armed force of the United States is liable to the United States Government for a civil penalty of $2,000, an amount equal to 2 times the amount of damages the Government sustains because of the act of that person, and costs of the civil action, if the person" in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 99–562, §2(2), substituted “United States Government or a member of the Armed Forces of the United States” for “Government or a member of an armed force”.
+Subsec. (a)(1). Pub. L. 99–562, §2(2), substituted "United States Government or a member of the Armed Forces of the United States" for "Government or a member of an armed force".
 
-Subsec. (a)(2). Pub. L. 99–562, §2(3), inserted “by the Government” after “approved”.
+Subsec. (a)(2). Pub. L. 99–562, §2(3), inserted "by the Government" after "approved".
 
-Subsec. (a)(4). Pub. L. 99–562, §2(4), substituted “control of property” for “control of public property” and “by the Government” for “in an armed force”.
+Subsec. (a)(4). Pub. L. 99–562, §2(4), substituted "control of property" for "control of public property" and "by the Government" for "in an armed force".
 
-Subsec. (a)(5). Pub. L. 99–562, §2(5), substituted “by the Government” for “in an armed force” and “true;” for “true; or”.
+Subsec. (a)(5). Pub. L. 99–562, §2(5), substituted "by the Government" for "in an armed force" and "true;" for "true; or".
 
-Subsec. (a)(6). Pub. L. 99–562, §2(6), substituted “an officer or employee of the Government, or a member of the Armed Forces,” for “a member of an armed force” and “property; or” for “property.”
+Subsec. (a)(6). Pub. L. 99–562, §2(6), substituted "an officer or employee of the Government, or a member of the Armed Forces," for "a member of an armed force" and "property; or" for "property."
 
 Subsec. (a)(7). Pub. L. 99–562, §2(7), added par. (7).
 
@@ -134,17 +134,17 @@ Subsecs. (b) to (e). Pub. L. 99–562, §2(7), added subsecs. (b) to (e).
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–21, §4(f), May 20, 2009, 123 Stat. 1625, provided that: “The amendments made by this section \[amending this section and sections 3730 to 3733 of this title\] shall take effect on the date of enactment of this Act \[May 20, 2009\] and shall apply to conduct on or after the date of enactment, except that—
+Pub. L. 111–21, §4(f), May 20, 2009, 123 Stat. 1625, provided that: "The amendments made by this section \[amending this section and sections 3730 to 3733 of this title\] shall take effect on the date of enactment of this Act \[May 20, 2009\] and shall apply to conduct on or after the date of enactment, except that—
 
-&emsp;“(1) subparagraph (B) of section 3729(a)(1) of title 31, United States Code, as added by subsection (a)(1), shall take effect as if enacted on June 7, 2008, and apply to all claims under the False Claims Act (31 U.S.C. 3729 et seq.) that are pending on or after that date; and
+&emsp;"(1) subparagraph (B) of section 3729(a)(1) of title 31, United States Code, as added by subsection (a)(1), shall take effect as if enacted on June 7, 2008, and apply to all claims under the False Claims Act (31 U.S.C. 3729 et seq.) that are pending on or after that date; and
 
-&emsp;“(2) section 3731(b) \[probably should be section 3731\] of title 31, as amended by subsection (b); section 3733, of title 31, as amended by subsection (c); and section 3732 of title 31, as amended by subsection (e); shall apply to cases pending on the date of enactment.”
+&emsp;"(2) section 3731(b) \[probably should be section 3731\] of title 31, as amended by subsection (b); section 3733, of title 31, as amended by subsection (c); and section 3732 of title 31, as amended by subsection (e); shall apply to cases pending on the date of enactment."
 
 #### Increased Penalties for False Claims in Defense Procurement
 
-Pub. L. 99–145, title IX, §931(b), Nov. 8, 1985, 99 Stat. 699, provided that: “Notwithstanding section 3729 of title 31, United States Code, the amount of the liability under that section in the case of a person who makes a false claim related to a contract with the Department of Defense shall be a civil penalty of $2,000, an amount equal to three times the amount of the damages the Government sustains because of the act of the person, and costs of the civil action.”
+Pub. L. 99–145, title IX, §931(b), Nov. 8, 1985, 99 Stat. 699, provided that: "Notwithstanding section 3729 of title 31, United States Code, the amount of the liability under that section in the case of a person who makes a false claim related to a contract with the Department of Defense shall be a civil penalty of $2,000, an amount equal to three times the amount of the damages the Government sustains because of the act of the person, and costs of the civil action."
 
 \[Section 931(c) of Pub. L. 99–145 provided that section 931(b) is applicable to claims made or presented on or after Nov. 8, 1985.\]
 
-<i><sup>1</sup></i><i> So in original. Probably should be “101–410”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "101–410".</i>
 

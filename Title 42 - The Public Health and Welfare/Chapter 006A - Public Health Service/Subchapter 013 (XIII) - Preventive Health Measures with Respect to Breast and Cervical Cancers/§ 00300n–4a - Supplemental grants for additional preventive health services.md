@@ -16,7 +16,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 #### (c) Applicability of provisions of general program
 
-This subchapter applies to a grant under subsection (a) of this section to the same extentand in the same manner as such subchapter applies to a grant under section 300k of this title.
+This subchapter applies to a grant under subsection (a) of this section to the same extent and in the same manner as such subchapter applies to a grant under section 300k of this title.
 
 #### (d) Funding
 
@@ -36,5 +36,5 @@ A prior section 1509 of act July 1, 1944, was renumbered section 1510 and is cla
 
 #### Amendments
 
-<b>1998</b>—Subsec. (d)(1). Pub. L. 105–340 substituted “2003” for “1998”.
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–340 substituted "2003" for "1998".
 

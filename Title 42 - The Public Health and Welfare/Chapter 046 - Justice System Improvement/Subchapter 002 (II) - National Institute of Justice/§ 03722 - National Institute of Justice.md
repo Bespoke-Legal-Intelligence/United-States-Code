@@ -2,7 +2,7 @@
 
 #### (a) Establishment; general authority of Attorney General over Institute
 
-There is established within the Department of Justice, under the general authority of the Attorney General, a National Institute of Justice (hereinafter referred to in this subchapter as the “Institute”).
+There is established within the Department of Justice, under the general authority of the Attorney General, a National Institute of Justice (hereinafter referred to in this subchapter as the "Institute").
 
 #### (b) Director of Institute; appointment by President; authority; restrictions
 
@@ -40,7 +40,7 @@ The Institute is authorized to—
 
 &emsp;(7) serve as a national and international clearinghouse for the exchange of information with respect to the purposes of this subchapter;
 
-&emsp;(8) after consultation with appropriate agencies and officials of States and units of local government, make recommendations for the designation of programs or projects which will be effective in improving the functioning of the criminal justice system, for funding as discretionary grants under subchapter V of this chapter;
+&emsp;(8) after consultation with appropriate agencies and officials of States and units of local government, make recommendations for the designation of programs or projects which willbe effective in improving the functioning of the criminal justice system, for funding as discretionary grants under subchapter V of this chapter;
 
 &emsp;(9) encourage, assist, and serve in a consulting capacity to Federal, State, and local justice system agencies in the development, maintenance, and coordination of criminal and civil justice programs and services; and
 
@@ -70,25 +70,25 @@ A prior section 3722, Pub. L. 90–351, title I, §202, June 19, 1968, 82 Stat. 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate” before period at end of first sentence.
+<b>2012</b>—Subsec. (b). Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate" before period at end of first sentence.
 
-<b>2002</b>—Subsec. (c)(3). Pub. L. 107–296, §237(1), inserted “, including cost effectiveness where practical,” after “evaluate the effectiveness”.
+<b>2002</b>—Subsec. (c)(3). Pub. L. 107–296, §237(1), inserted ", including cost effectiveness where practical," after "evaluate the effectiveness".
 
 Subsec. (c)(10), (11). Pub. L. 107–296, §237(2), added pars. (10) and (11).
 
-<b>1994</b>—Subsec. (c)(2)(E). Pub. L. 103–322 substituted “crime,” for “crime,,”.
+<b>1994</b>—Subsec. (c)(2)(E). Pub. L. 103–322 substituted "crime," for "crime,,".
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–473, §604(b)(1), required Director to report to Attorney General through Assistant Attorney General.
 
-Subsec. (c)(2)(A). Pub. L. 98–473, §604(b)(2)(A)(i), struck out “, including programs authorized by section 3713 of this title” after “system goals”.
+Subsec. (c)(2)(A). Pub. L. 98–473, §604(b)(2)(A)(i), struck out ", including programs authorized by section 3713 of this title" after "system goals".
 
-Subsec. (c)(2)(E). Pub. L. 98–473, §604(b)(2)(A)(ii), struck out “the prevention and reduction of parental kidnaping” after “reduction of crime,”.
+Subsec. (c)(2)(E). Pub. L. 98–473, §604(b)(2)(A)(ii), struck out "the prevention and reduction of parental kidnaping" after "reduction of crime,".
 
-Subsec. (c)(3). Pub. L. 98–473, §604(b)(2)(B), substituted “chapter” for “subchapter”.
+Subsec. (c)(3). Pub. L. 98–473, §604(b)(2)(B), substituted "chapter" for "subchapter".
 
 Subsec. (c)(4) to (7). Pub. L. 98–473, §604(b)(2)(C), (F), redesignated pars. (5) to (8) as (4) to (7), respectively, and struck out former par. (4) relating to evaluation of programs and projects under other subchapters of this chapter to determine their impact upon criminal and civil justice systems and achievement of purposes and policies of this chapter and for dissemination of information.
 
-Subsec. (c)(8). Pub. L. 98–473, §604(b)(2)(D)(i), (ii), (F), redesignated par. (10) as (8) and, in par. (8) as so designated, struck out “nationality priority grants under subchapter V of this chapter and” after “for funding as” and substituted “subchapter V of this chapter” for “subchapter VI of this chapter”. Former par. (8) redesignated (7).
+Subsec. (c)(8). Pub. L. 98–473, §604(b)(2)(D)(i), (ii), (F), redesignated par. (10) as (8) and, in par. (8) as so designated, struck out "nationality priority grants under subchapter V of this chapter and" after "for funding as" and substituted "subchapter V of this chapter" for "subchapter VI of this chapter". Former par. (8) redesignated (7).
 
 Subsec. (c)(9). Pub. L. 98–473, §604(b)(2)(E), (F), redesignated par. (11) as (9), and struck out former par. (9) relating to a biennial report to President and Congress on state of justice research.
 
@@ -110,13 +110,13 @@ Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of P
 
 Pub. L. 107–273, div. B, title II, §2201, Nov. 2, 2002, 116 Stat. 1793, provided that:
 
-“(a)
+"(a)
 
 Requirement.—The National Institute of Justice shall conduct a study of drug-testing technologies in order to identify and assess the efficacy, accuracy, and usefulness for purposes of the National effort to detect the use of illicit drugs of any drug-testing technologies (including the testing of hair) that may be used as alternatives or complements to urinalysis as a means of detecting the use of such drugs.
 
-“(b)
+"(b)
 
-Report.—Not later than 2 years after the date of enactment of this Act \[Nov. 2, 2002\], the Institute shall submit to Congress a report on the results of the study conducted under subsection (a).”
+Report.—Not later than 2 years after the date of enactment of this Act \[Nov. 2, 2002\], the Institute shall submit to Congress a report on the results of the study conducted under subsection (a)."
 
 #### Anti-Stalking Legislation Evaluation, Model Development, Dissemination and Report
 

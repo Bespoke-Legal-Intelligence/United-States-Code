@@ -72,7 +72,7 @@ Pub. L. 108–196, §3, Dec. 19, 2003, 117 Stat. 2896, provided that:
 
 Definitions.—In this section—
 
-&emsp;“(1) the term ‘employing agency’ means the Federal, State, or local government agency with whichthe participating employee was employed before an assignment under the Program;
+&emsp;“(1) the term ‘employing agency’ means the Federal, State, or local government agency with which the participating employee was employed before an assignment under the Program;
 
 &emsp;“(2) the term ‘participating employee’ means an employee who is participating in the Program; and
 

@@ -61,7 +61,7 @@
 | [1487\.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001487%20-%20Rural%20Housing%20Insurance%20Fund.md) | Rural Housing Insurance Fund. |
 | [1488\.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001488%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93152%2C%20title%20IV%2C%20%C2%A7413%28e%29%283%29%2C%20Dec.%2024%2C%201969%2C%2083%20Stat.%20399.md) | Repealed. |
 | [1489\.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001489%20-%20Transfer%20of%20excess%20funds%20out%20of%20Rural%20Housing%20Insurance%20Fund.md) | Transfer of excess funds out of Rural Housing Insurance Fund. |
-| [1490\.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001490%20-%20%E2%80%9CRural%E2%80%9D%20and%20%E2%80%9Crural%20area%E2%80%9D%20defined.md) | “Rural” and “rural area” defined. |
+| [1490\.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001490%20-%20Rural%20and%20rural%20area%20defined.md) | "Rural" and "rural area" defined. |
 | [1490a.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001490a%20-%20Loans%20to%20provide%20occupant%20owned%2C%20rental%2C%20and%20cooperative%20housing%20for%20low%20and%20moderate%20income%2C%20elderly%20or%20handicapped%20persons%20or%20families.md) | Loans to provide occupant owned, rental, and cooperative housing for low and moderate income, elderly or handicapped persons or families. |
 | [1490b.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001490b%20-%20Housing%20for%20rural%20trainees.md) | Housing for rural trainees. |
 | [1490c.](Subchapter%20003%20%28III%29%20-%20Farm%20Housing/%C2%A7%2001490c%20-%20Mutual%20and%20self-help%20housing.md) | Mutual and self-help housing. |

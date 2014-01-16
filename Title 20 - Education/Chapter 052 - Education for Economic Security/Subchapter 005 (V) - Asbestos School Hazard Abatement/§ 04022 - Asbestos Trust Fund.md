@@ -2,7 +2,7 @@
 
 #### (a) Creation of Trust Fund
 
-There is established in the Treasury of the United States a trust fund to be known as the“Asbestos Trust Fund”, consisting of such amounts as may be transferred or credited to such Trust Fund as provided in this section.
+There is established in the Treasury of the United States a trust fund to be known as the "Asbestos Trust Fund", consisting of such amounts as may be transferred or credited to such Trust Fund as provided in this section.
 
 #### (b) Transfers to Trust Fund
 
@@ -18,7 +18,7 @@ There is established in the Treasury of the United States a trust fund to be kno
 
 #### (2) Monthly transfers
 
-&emsp;The amounts transferred by paragraph (1) shall be transferred at least monthly from the general fund of the Treasury to the Asbestos Trust Fund on the basis of estimates made by the Secretary of the Treasury of the amounts referred to in such paragraph. Adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were more or less than the amounts required to be transferred.
+&emsp;The amounts transferred by paragraph (1) shall be transferred at least monthly from thegeneral fund of the Treasury to the Asbestos Trust Fund on the basis of estimates made by the Secretary of the Treasury of the amounts referred to in such paragraph. Adjustments shall be made in the amounts subsequently transferred to the extent prior estimates were more or less than the amounts required to be transferred.
 
 #### (c) Management of Trust Fund
 
@@ -74,9 +74,9 @@ Section was enacted as part of the Asbestos Hazard Emergency Response Act of 198
 
 #### Amendments
 
-<b>1995</b>—Subsec. (c)(2). Pub. L. 104–66 struck out heading and text of par. (2). Text read as follows: “It shall be the duty of the Secretary of the Treasury to hold the Asbestos Trust Fund and to report to the Congress each year on the financial condition and the results of the operations of the Trust Fund during the preceding fiscal year and on its expected condition and operations during the next 5 fiscal years.”
+<b>1995</b>—Subsec. (c)(2). Pub. L. 104–66 struck out heading and text of par. (2). Text read as follows: "It shall be the duty of the Secretary of the Treasury to hold the Asbestos Trust Fund and to report to the Congress each year on the financial condition and the results of the operations of the Trust Fund during the preceding fiscal year and on its expected condition and operations during the next 5 fiscal years."
 
-<b>1990</b>—Subsec. (b)(1). Pub. L. 101–637, §12(a), substituted a comma for “as in effect on October 22, 1986, and” in subpar. (A) and “, and” for period at end of subpar. (B), and added subpar. (C).
+<b>1990</b>—Subsec. (b)(1). Pub. L. 101–637, §12(a), substituted a comma for "as in effect on October 22, 1986, and" in subpar. (A) and ", and" for period at end of subpar. (B), and added subpar. (C).
 
-Subsec. (d). Pub. L. 101–637, §12(b), struck out before period at end “as in effect on October 22, 1986”.
+Subsec. (d). Pub. L. 101–637, §12(b), struck out before period at end "as in effect on October 22, 1986".
 

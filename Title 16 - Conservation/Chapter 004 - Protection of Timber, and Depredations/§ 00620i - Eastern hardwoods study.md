@@ -6,7 +6,7 @@ The Secretary of Commerce, in conjunction with the Secretary of Agriculture and 
 
 &emsp;(1) the Secretary of Commerce shall require each person exporting such timber from the United States to declare, in addition to the information normally required in the Shipper's Export Declarations, the State in which the timber was grown and harvested; and
 
-&emsp;(2) the Secretary of Agriculture and the Secretary of the Interior shall ensure that all hardwood saw timber harvested from Federal lands east of the 100th meridian is marked in such a manner as to make it readily identifiable at all times before its manufacture, and shall take such steps as each Secretary considers appropriate to ensure that such markings are not altered or destroyed before manufacturing.
+&emsp;(2) the Secretary of Agriculture and the Secretary of the Interior shall ensure that all hardwood saw timber harvested from Federal lands east of the 100th meridian is marked in such a manner as to make it readily identifiable at all times before its manufacture, andshall take such steps as each Secretary considers appropriate to ensure that such markings are not altered or destroyed before manufacturing.
 
 #### (b) Report to Congress
 
@@ -16,5 +16,5 @@ Not later than April 1, 1993, the Secretary of Commerce shall submit to the Comm
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs".
 

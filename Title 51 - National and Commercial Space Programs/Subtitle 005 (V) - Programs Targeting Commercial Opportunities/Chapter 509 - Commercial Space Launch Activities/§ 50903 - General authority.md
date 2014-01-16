@@ -48,43 +48,43 @@ Oct. 30, 1984, Pub. L. 98–575, §5(a) (11th–15th words, cls. (1), (3)), 98 S
 
 49 App.:2604(b).
 
-In subsection (a), the words “be responsible for” are omitted as surplus.
+In subsection (a), the words "be responsible for" are omitted as surplus.
 
-In subsection (c), the words “To the extent permitted by law” are omitted as surplus. The words “the head of an executive agency” are substituted for “Federal agencies” for consistency in the revised title and with other titles of the United States Code.
+In subsection (c), the words "To the extent permitted by law" are omitted as surplus. The words "the head of an executive agency" are substituted for "Federal agencies" for consistency in the revised title and with other titles of the United States Code.
 
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–314 successively renumbered section 70103 of title 49 and section 70103 of this title as this section.
 
-<b>2004</b>—Subsec. (b)(1). Pub. L. 108–492, §2(c)(1), inserted “, including those involving space flight participants” after “private sector”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–492, §2(c)(1), inserted ", including those involving space flight participants" after "private sector".
 
 Subsecs. (c), (d). Pub. L. 108–492, §2(c)(2), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–303, §102(a)(4)(A), inserted “and Reentries” after “Launches” in heading.
+<b>1998</b>—Subsec. (b). Pub. L. 105–303, §102(a)(4)(A), inserted "and Reentries" after "Launches" in heading.
 
-Subsec. (b)(1). Pub. L. 105–303, §102(a)(4)(B), inserted “and reentries” after “commercial space launches”.
+Subsec. (b)(1). Pub. L. 105–303, §102(a)(4)(B), inserted "and reentries" after "commercial space launches".
 
-Subsec. (b)(2). Pub. L. 105–303, §102(a)(4)(C), inserted “and reentry” after “space launch”.
+Subsec. (b)(2). Pub. L. 105–303, §102(a)(4)(C), inserted "and reentry" after "space launch".
 
 #### Launch Services Strategy
 
 Pub. L. 110–422, title VI, §621, Oct. 15, 2008, 122 Stat. 4801, provided that:
 
-“(a)
+"(a)
 
 In General.—In preparation for the award of contracts to follow up on the current NASA \[National Aeronautics and Space Administration\] Launch Services (NLS) contracts, the Administrator shall develop a strategy for providing domestic commercial launch services in support of NASA's small and medium-sized Science, Space Operations, and Exploration missions, consistent with current law and policy.
 
-“(b)
+"(b)
 
 Report.—The Administrator \[of NASA\] shall transmit a report to the Committee on Science and Technology \[now Committee on Science, Space, and Technology\] of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate describing the strategy developed under subsection (a) not later than 90 days after the date of enactment of this Act \[Oct. 15, 2008\]. The report shall provide, at a minimum—
 
-&emsp;“(1) the results of the Request for Information on small to medium-sized launch services released on April 22, 2008;
+&emsp;"(1) the results of the Request for Information on small to medium-sized launch services released on April 22, 2008;
 
-&emsp;“(2) an analysis of possible alternatives to maintain small and medium-sized lift capabilities after June 30, 2010, including the use of the Department of Defense's Evolved Expendable Launch Vehicle (EELV);
+&emsp;"(2) an analysis of possible alternatives to maintain small and medium-sized lift capabilities after June 30, 2010, including the use of the Department of Defense's Evolved Expendable Launch Vehicle (EELV);
 
-&emsp;“(3) the recommended alternatives, and associated 5-year budget plans starting in October 2010 that would enable their implementation; and
+&emsp;"(3) the recommended alternatives, and associated 5-year budget plans starting in October 2010 that would enable their implementation; and
 
-&emsp;“(4) a contingency plan in the event the recommended alternatives described in paragraph (3) are not available when needed.”
+&emsp;"(4) a contingency plan in the event the recommended alternatives described in paragraph (3) are not available when needed."
 
 #### Ex. Ord. No. 12465. Coordination and Encouragement of Commercial Expendable Launch Vehicle Activities
 

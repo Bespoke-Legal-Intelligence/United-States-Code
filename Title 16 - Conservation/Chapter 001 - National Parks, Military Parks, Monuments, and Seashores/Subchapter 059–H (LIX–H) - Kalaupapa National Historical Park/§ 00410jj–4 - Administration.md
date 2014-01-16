@@ -24,27 +24,27 @@ This Act, referred to in subsecs. (a) and (b)(3), is Pub. L. 96–565, Dec. 22, 
 
 Pub. L. 111–11, title VII, §7108, Mar. 30, 2009, 123 Stat. 1196, provided that:
 
-“(a)
+"(a)
 
-In General.—The Secretary of the Interior shall authorize Ka ‘Ohana O Kalaupapa, a non-profit organization consisting of patient residents at Kalaupapa National Historical Park, and their family members and friends, to establish a memorial at a suitable location or locations approved by the Secretary at Kalawao or Kalaupapa within the boundaries of Kalaupapa National Historical Park located on the island of Molokai, in the State of Hawaii, to honor and perpetuate the memory of those individuals who were forcibly relocated to Kalaupapa Peninsula from 1866 to 1969.
+In General.—The Secretary of the Interior shall authorize Ka 'Ohana O Kalaupapa, a non-profit organization consisting of patient residents at Kalaupapa National Historical Park, and their family members and friends, to establish a memorial at a suitable location or locations approved by the Secretary at Kalawao or Kalaupapa within the boundaries of Kalaupapa National Historical Park located on the island of Molokai, in the State of Hawaii, to honor and perpetuate the memory of those individuals who were forcibly relocated to Kalaupapa Peninsula from 1866 to 1969.
 
-“(b)
+"(b)
 
 Design.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The memorial authorized by subsection (a) shall—
 
-&emsp;&emsp;“(A) display in an appropriate manner the names of the first 5,000 individuals sent to the Kalaupapa Peninsula between 1866 and 1896, most of whom lived at Kalawao; and
+&emsp;&emsp;"(A) display in an appropriate manner the names of the first 5,000 individuals sent to the Kalaupapa Peninsula between 1866 and 1896, most of whom lived at Kalawao; and
 
-&emsp;&emsp;“(B) display in an appropriate manner the names of the approximately 3,000 individuals who arrived at Kalaupapa in the second part of its history, when most of the community was concentrated on the Kalaupapa side of the peninsula.
+&emsp;&emsp;"(B) display in an appropriate manner the names of the approximately 3,000 individuals who arrived at Kalaupapa in the second part of its history, when most of the community was concentrated on the Kalaupapa side of the peninsula.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Approval.—The location, size, design, and inscriptions of the memorial authorized by subsection (a) shall be subject to the approval of the Secretary of the Interior.
 
-“(c)
+"(c)
 
-Funding.—Ka ‘Ohana O Kalaupapa, a nonprofit organization, shall be solely responsible for acceptance of contributions for and payment of the expenses associated with the establishment of the memorial.”
+Funding.—Ka 'Ohana O Kalaupapa, a nonprofit organization, shall be solely responsible for acceptance of contributions for and payment of the expenses associated with the establishment of the memorial."
 

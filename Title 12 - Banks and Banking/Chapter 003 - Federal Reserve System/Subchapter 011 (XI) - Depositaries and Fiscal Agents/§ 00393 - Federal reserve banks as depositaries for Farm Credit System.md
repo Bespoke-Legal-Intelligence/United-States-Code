@@ -10,5 +10,5 @@ Section is comprised of third par. of section 15 of act Dec. 23, 1913, as added 
 
 #### Amendments
 
-<b>1971</b>—Pub. L. 92–181 substituted “Federal land bank, Federal intermediate credit bank, bank for cooperatives, or other institutions of the Farm Credit System” for “national agricultural credit corporation or Federal intermediate credit bank”.
+<b>1971</b>—Pub. L. 92–181 substituted "Federal land bank, Federal intermediate credit bank, bank for cooperatives, or other institutions of the Farm Credit System" for "national agricultural credit corporation or Federal intermediate credit bank".
 

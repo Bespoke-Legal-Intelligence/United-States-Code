@@ -2,7 +2,7 @@
 
 #### (a) Maintenance and operation; admission of children
 
-(1) The Chief Administrative Officer of the House of Representatives shall maintain and operate a child care center (to be known as the “House of Representatives Child Care Center”) to furnish pre-school child care and (subject to the approval of regulations by the Committee on House Administration) child care for school agechildren other than during the course of the ordinary school day—
+(1) The Chief Administrative Officer of the House of Representatives shall maintain and operate a child care center (to be known as the “House of Representatives Child Care Center”) to furnish pre-school child care and (subject to the approval of regulations by the Committee on House Administration) child care for school age children other than during the course of the ordinary school day—
 
 &emsp;(A) for children of individuals whose pay is disbursed by the Chief Administrative Officer of the House of Representatives and children of support personnel of the House of Representatives;
 
@@ -14,7 +14,7 @@
 
 #### (b) Advisory board; membership, functions, etc.
 
-(1)(A) The Speaker of the House of Representatives shall appoint 15 individuals (of whom 7 shall be upon recommendation of the minority leader of the House of Representatives), to serve without pay, as members of an advisory board for the center. The board shall—
+(1)(A) The Speaker of the House of Representatives shall appoint 15 individuals (of whom 7shall be upon recommendation of the minority leader of the House of Representatives), to serve without pay, as members of an advisory board for the center. The board shall—
 
 &emsp;(i) provide advice to the Chief Administrative Officer on matters of policy relating to the administration and operation of the center (including the selection of the director of the center);
 
@@ -52,7 +52,7 @@ In carrying out subsection (a) of this section, the Chief Administrative Officer
 
 #### (e) Fund as category of allowances and expenses
 
-The Fund shall be treated as a category of allowances and expenses for purposes of section 95b(a) of this title.
+The Fund shall be treated as a category of allowances and expenses for purposes of section 5507(a) of this title.
 
 #### (f) Definitions
 
@@ -68,7 +68,7 @@ As used in this section—
 
 #### Codification
 
-Section was classified to section 184g of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 184g of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 Section is comprised of section 312 of Pub. L. 102–90. Another subsec. (f) of section 312 of Pub. L. 102–90 repealed sections 184b to 184f of former Title 40, Public Buildings, Property, and Works.
 
@@ -158,7 +158,7 @@ Definitions.—For the purpose of this section—
 
 &emsp;“(B) the employee is subject to chapter 84 of such title as of the date of enactment of this Act.
 
-“(2) Credit for service described in paragraph (1)(A) shall not be allowed under this section unless there ispaid into the Civil Service Retirement and Disability Fund, by or on behalf of the employee involved, an amount equal to the deductions from pay which would have been payable under applicable provisions of law, for the period of service involved, if such employee were then a Congressional employee, including interest (computed in the same way as interest under subsection (b)(2)). Retirement credit may not be allowed under this section for any such service unless the full amount of the deposit required under the preceding sentence has been paid.
+“(2) Credit for service described in paragraph (1)(A) shall not be allowed under this section unless there is paid into the Civil Service Retirement and Disability Fund, by or on behalf of the employee involved, an amount equal to the deductions from pay which would have been payable under applicable provisions of law, for the period of service involved, if such employee were then a Congressional employee, including interest (computed in the same way as interest under subsection (b)(2)). Retirement credit may not be allowed under this section for any such service unless the full amount of the deposit required under the preceding sentence has been paid.
 
 “(d)
 

@@ -6,5 +6,5 @@ In the case of a sale or exchange of an interest in a partnership, gain or loss 
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–147 struck out “which have appreciated substantially in value” after “inventory items”.
+<b>2002</b>—Pub. L. 107–147 struck out "which have appreciated substantially in value" after "inventory items".
 

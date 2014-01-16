@@ -30,11 +30,11 @@
 
 &emsp;&emsp;Not later than 30 days after establishing a cost and schedule baseline under subparagraph (A), the Secretary shall submit the cost and schedule baseline to the congressional defense committees.
 
-#### (3) Defense environmental management projects
+#### (3) Defense environmental cleanup projects
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish a cost and schedule baseline under the project management protocols of the Department of Energy for each defense environmental management project that is—
+&emsp;&emsp;The Secretary shall establish a cost and schedule baseline under the project management protocols of the Department of Energy for each defense environmental cleanup project that is—
 
 &emsp;&emsp;&emsp;(i) in excess of $50,000,000; and
 
@@ -46,7 +46,7 @@
 
 #### (b) Notification of costs exceeding baseline
 
-The Administrator or the Secretary, as applicable, shall notify the congressional defensecommittees not later than 30 days after determining that—
+The Administrator or the Secretary, as applicable, shall notify the congressional defense committees not later than 30 days after determining that—
 
 &emsp;(1) the total cost for a project referred to in paragraph (1), (2), or (3) of subsection (a) will exceed an amount that is equal to 125 percent of the cost baseline established under subsection (a) for that project; and
 
@@ -74,9 +74,13 @@ A revised cost and schedule baseline established under subsection (c) shall—
 
 &emsp;(2) be subject to the notification requirements of subsections (b) and (c) in the same manner and to the same extent as a cost and schedule baseline established under subsection (a).
 
-(Pub. L. 107–314, div. D, title XLVII, §4713, as added Pub. L. 111–383, div. C, title XXXI, §3114(a), Jan. 7, 2011, 124 Stat. 4510; amended Pub. L. 112–239, div. C, title XXXI, §3131(t), Jan. 2, 2013, 126 Stat. 2184.)
+(Pub. L. 107–314, div. D, title XLVII, §4713, as added Pub. L. 111–383, div. C, title XXXI, §3114(a), Jan. 7, 2011, 124 Stat. 4510; amended Pub. L. 112–239, div. C, title XXXI, §3131(t), Jan. 2, 2013, 126 Stat. 2184; Pub. L. 113–66, div. C, title XXXI, §3146(h)(4), Dec. 26, 2013, 127 Stat. 1081.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(1)(A). Pub. L. 112–239 struck out “for Nuclear Security” after “Administrator” and struck out “National Nuclear Security” after “life extension project of the”.
+<b>2013</b>—Subsec. (a)(1)(A). Pub. L. 112–239 struck out "for Nuclear Security" after "Administrator" and struck out "National Nuclear Security" after "life extension project of the".
+
+Subsec. (a)(3). Pub. L. 113–66, §3146(h)(4)(A), substituted "cleanup" for "management" in heading.
+
+Subsec. (a)(3)(A). Pub. L. 113–66, §3146(h)(4)(B), substituted "environmental cleanup" for "environmental management" in introductory provisions.
 

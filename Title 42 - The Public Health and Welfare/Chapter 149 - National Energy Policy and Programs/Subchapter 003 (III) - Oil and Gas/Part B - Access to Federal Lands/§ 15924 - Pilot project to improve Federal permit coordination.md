@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of the Interior (referred to in this section as the “Secretary”) shall establisha Federal Permit Streamlining Pilot Project (referred to in this section as the “Pilot Project”).
+The Secretary of the Interior (referred to in this section as the "Secretary") shall establish a Federal Permit Streamlining Pilot Project (referred to in this section as the "Pilot Project").
 
 #### (b) Memorandum of understanding
 
@@ -46,23 +46,23 @@ The Secretary of the Interior (referred to in this section as the “Secretary�
 
 &emsp;&emsp;(C) participate as part of the team of personnel working on proposed energy projects, planning, and environmental analyses.
 
-#### (d) Field offices
+#### (d) Pilot Project offices
 
-The following Bureau of Land Management Field Offices shall serve as the Pilot Project offices:
+The following Bureau of Land Management Offices shall serve as the Pilot Project offices:
 
-&emsp;(1) Rawlins, Wyoming.
+&emsp;(1) Rawlins Field Office, Wyoming.
 
-&emsp;(2) Buffalo, Wyoming.
+&emsp;(2) High Plains District Office, Wyoming.
 
-&emsp;(3) Miles City, Montana.
+&emsp;(3) Montana/Dakotas State Office, Montana.
 
-&emsp;(4) Farmington, New Mexico.
+&emsp;(4) Farmington Field Office, New Mexico.
 
-&emsp;(5) Carlsbad, New Mexico.
+&emsp;(5) Carlsbad Field Office, New Mexico.
 
-&emsp;(6) Grand Junction/Glenwood Springs, Colorado.
+&emsp;(6) Grand Junction/Glenwood Springs Field Office, Colorado.
 
-&emsp;(7) Vernal, Utah.
+&emsp;(7) Vernal Field Office, Utah.
 
 #### (e) Reports
 
@@ -110,11 +110,11 @@ Nothing in this section affects—
 
 &emsp;(2) any delegation of authority made by the head of a Federal agency whose employees are participating in the Pilot Project.
 
-(Pub. L. 109–58, title III, §365, Aug. 8, 2005, 119 Stat. 723.)
+(Pub. L. 109–58, title III, §365, Aug. 8, 2005, 119 Stat. 723; Pub. L. 113–69, §1, Dec. 26, 2013, 127 Stat. 1207.)
 
 #### References in Text
 
-The Clean Air Act, referred to in subsec. (c)(1)(C), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+The Clean Air Act, referred to in subsec. (c)(1)(C), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, whichis classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
 The National Forest Management Act of 1976, referred to in subsec. (c)(1)(D), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, which enacted sections 472a, 521b, 1600, and 1611 to 1614 of Title 16, Conservation, amended sections 500, 515, 516, 518, 576b, and 1601 to 1610 of Title 16, repealed sections 476, 513, and 514 of Title 16, and enacted provisions set out as notes under sections 476, 513, 528, 594–2, and 1600 of Title 16. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of Title 16 and Tables.
 
@@ -125,4 +125,22 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (f)(2
 #### Codification
 
 Section is comprised of section 365 of Pub. L. 109–58. Subsec. (g) of section 365 of Pub. L. 109–58 amended section 191 of Title 30, Mineral Lands and Mining.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (d). Pub. L. 113–69 added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "The following Bureau of Land Management Field Offices shall serve as the Pilot Project offices:
+
+&emsp;"(1) Rawlins, Wyoming.
+
+&emsp;"(2) Buffalo, Wyoming.
+
+&emsp;"(3) Miles City, Montana.
+
+&emsp;"(4) Farmington, New Mexico.
+
+&emsp;"(5) Carlsbad, New Mexico.
+
+&emsp;"(6) Grand Junction/Glenwood Springs, Colorado.
+
+&emsp;"(7) Vernal, Utah."
 

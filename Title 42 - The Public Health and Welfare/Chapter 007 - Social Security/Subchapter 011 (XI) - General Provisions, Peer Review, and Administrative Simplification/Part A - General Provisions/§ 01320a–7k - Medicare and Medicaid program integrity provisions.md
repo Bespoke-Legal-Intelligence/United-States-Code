@@ -46,11 +46,11 @@
 
 #### (iii) Definition of system of records
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, the term “system of records” has the meaning given such term in section 552a(a)(5) of title 5.
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term "system of records" has the meaning given such term in section 552a(a)(5) of title 5.
 
 #### (2) Access to claims and payment databases
 
-&emsp;For purposes of conducting law enforcement and oversight activities and to the extent consistent with applicable information, privacy, security, and disclosure laws, including theregulations promulgated under the Health Insurance Portability and Accountability Act of 1996 and section 552a of title 5, and subject to any information systems security requirements under such laws or otherwise required by the Secretary, the Inspector General of the Department of Health and Human Services and the Attorney General shall have access to claims and payment data of the Department of Health and Human Services and its contractors related to subchapters XVIII, XIX, and XXI.
+&emsp;For purposes of conducting law enforcement and oversight activities and to the extent consistent with applicable information, privacy, security, and disclosure laws, including the regulations promulgated under the Health Insurance Portability and Accountability Act of 1996 and section 552a of title 5, and subject to any information systems security requirements under such laws or otherwise required by the Secretary, the Inspector General of the Department of Health and Human Services and the Attorney General shall have access to claims and payment data of the Department of Health and Human Services and its contractors related to subchapters XVIII, XIX, and XXI.
 
 #### (b) OIG authority to obtain information
 
@@ -74,7 +74,7 @@
 
 #### (2) Applicable individual
 
-&emsp;For purposes of paragraph (1), the term “applicable individual” means an individual—
+&emsp;For purposes of paragraph (1), the term "applicable individual" means an individual—
 
 &emsp;&emsp;(A) entitled to, or enrolled for, benefits under part A of subchapter XVIII or enrolled under part B of such subchapter;
 
@@ -110,17 +110,17 @@
 
 #### (A) Knowing and knowingly
 
-&emsp;&emsp;The terms “knowing” and “knowingly” have the meaning given those terms in section 3729(b) of title 31.
+&emsp;&emsp;The terms "knowing" and "knowingly" have the meaning given those terms in section 3729(b) of title 31.
 
 #### (B) Overpayment
 
-&emsp;&emsp;The term “overpayment” means any funds that a person receives or retains under subchapter XVIII or XIX to which the person, after applicable reconciliation, is not entitled under such subchapter.
+&emsp;&emsp;The term "overpayment" means any funds that a person receives or retains under subchapter XVIII or XIX to which the person, after applicable reconciliation, is not entitled under such subchapter.
 
 #### (C) Person
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “person” means a provider of services, supplier, medicaid managed care organization (as defined in section 1396b(m)(1)(A) of this title), Medicare Advantage organization (as defined in section 1395w–28(a)(1) of this title), or PDP sponsor (as defined in section 1395w–151(a)(13) of this title).
+&emsp;&emsp;&emsp;The term "person" means a provider of services, supplier, medicaid managed care organization (as defined in section 1396b(m)(1)(A) of this title), Medicare Advantage organization (as defined in section 1395w–28(a)(1) of this title), or PDP sponsor (as defined in section 1395w–151(a)(13) of this title).
 
 #### (ii) Exclusion
 
@@ -134,7 +134,7 @@ The Secretary shall promulgate a regulation that requires, not later than Januar
 
 #### References in Text
 
-The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (a)(2), is Pub. L. 104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of this title and Tables.
+The Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (a)(2), is Pub. L.104–191, Aug. 21, 1996, 110 Stat. 1936. For complete classification of this Act to the Code, see Short Title of 1996 Amendments note set out under section 201 of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “clause (i)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "clause (i)".</i>
 

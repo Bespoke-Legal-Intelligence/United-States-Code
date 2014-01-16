@@ -13,11 +13,11 @@
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–294, title VI, §601(f)(14), Oct. 11, 1996, 110 Stat. 3500, substituted “centers;” for “centers,” in item 4082.
+<b>1996</b>—Pub. L. 104–294, title VI, §601(f)(14), Oct. 11, 1996, 110 Stat. 3500, substituted "centers;" for "centers," in item 4082.
 
-<b>1984</b>—Pub. L. 98–473, title II, §218(e), Oct. 12, 1984, 98 Stat. 2027, substituted “Repealed” for “Copy of commitment delivered with prisoner” in item 4084, and “Repealed” for “Transfer for state offense; expense” in item 4085.
+<b>1984</b>—Pub. L. 98–473, title II, §218(e), Oct. 12, 1984, 98 Stat. 2027, substituted "Repealed" for "Copy of commitment delivered with prisoner" in item 4084, and "Repealed" for "Transfer for state offense; expense" in item 4085.
 
-<b>1965</b>—Pub. L. 89–176, §2, Sept. 10, 1965, 79 Stat. 675, substituted “residential treatment centers, extension of limits of confinement; work furlough” for “transfer” in item 4082.
+<b>1965</b>—Pub. L. 89–176, §2, Sept. 10, 1965, 79 Stat. 675, substituted "residential treatment centers, extension of limits of confinement; work furlough" for "transfer" in item 4082.
 
 
 ---

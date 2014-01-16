@@ -8,5 +8,5 @@
 
 #### Codification
 
-In subsec. (a), “October 18, 1983” substituted for “the date of the enactment of this Act”, meaning the date of approval of Pub. L. 98–134.
+In subsec. (a), "October 18, 1983" substituted for "the date of the enactment of this Act", meaning the date of approval of Pub. L. 98–134.
 

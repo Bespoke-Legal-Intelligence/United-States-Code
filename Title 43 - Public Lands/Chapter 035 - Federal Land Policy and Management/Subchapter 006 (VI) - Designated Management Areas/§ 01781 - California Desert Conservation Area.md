@@ -10,11 +10,11 @@ The Congress finds that—
 
 &emsp;(3) the California desert environment and its resources, including certain rare and endangered species of wildlife, plants, and fishes, and numerous archeological and historic sites, are seriously threatened by air pollution, inadequate Federal management authority, and pressures of increased use, particularly recreational use, which are certain to intensify because of the rapidly growing population of southern California;
 
-&emsp;(4) the use of all California desert resources can and should be provided for in a multiple use and sustained yield management plant to conserve these resources for future generations, and to provide present and future use and enjoyment, particularly outdoor recreation uses, including the use, where appropriate, of off-road recreational vehicles;
+&emsp;(4) the use of all California desert resources can and should be provided for in a multiple use and sustained yield management plant <sup>1</sup> to conserve these resources for future generations, and to provide present and future use and enjoyment, particularly outdoor recreation uses, including the use, where appropriate, of off-road recreational vehicles;
 
 &emsp;(5) the Secretary has initiated a comprehensive planning process and established an interim management program for the public lands in the California desert; and
 
-&emsp;(6) to insure further study of the relationship of man and the California desert environment, preserve the unique and irreplaceable resources, including archeological values, and conserve the use of the economic resources of the California desert, the public must be provided more opportunity to participate in such planning and management, and additionalmanagement authority must be provided to the Secretary to facilitate effective implementation of such planning and management.
+&emsp;(6) to insure further study of the relationship of man and the California desert environment, preserve the unique and irreplaceable resources, including archeological values, and conserve the use of the economic resources of the California desert, the public must be provided more opportunity to participate in such planning and management, and additional management authority must be provided to the Secretary to facilitate effective implementation of such planning and management.
 
 #### (b) Statement of purpose
 
@@ -22,7 +22,7 @@ It is the purpose of this section to provide for the immediate and future protec
 
 #### (c) Description of Area
 
-(1) For the purpose of this section, the term “California desert” means the area generally depicted on a map entitled “California Desert Conservation Area—Proposed” dated April 1974, and described as provided in subsection (c)(2) of this section.
+(1) For the purpose of this section, the term "California desert" means the area generally depicted on a map entitled "California Desert Conservation Area—Proposed" dated April 1974, and described as provided in subsection (c)(2) of this section.
 
 (2) As soon as practicable after October 21, 1976, the Secretary shall file a revised map and a legal description of the California Desert Conservation Area with the Committees on Interior and Insular Affairs of the United States Senate and the House of Representatives, and such map and description shall have the same force and effect as if included in this Act. Correction of clerical and typographical errors in such legal description and a map may be made by the Secretary. To the extent practicable, the Secretary shall make such legal description and map available to the public promptly upon request.
 
@@ -40,7 +40,7 @@ Subject to valid existing rights, nothing in this Act shall affect the applicabi
 
 #### (g) Advisory Committee; establishment; functions
 
-(1) The Secretary, within sixty days after October 21, 1976, shall establish a California Desert Conservation Area Advisory Committee (hereinafter referred to as “advisory committee”) in accordance with the provisions of section 1739 of this title.
+(1) The Secretary, within sixty days after October 21, 1976, shall establish a California Desert Conservation Area Advisory Committee (hereinafter referred to as "advisory committee") in accordance with the provisions of section 1739 of this title.
 
 (2) It shall be the function of the advisory committee to advise the Secretary with respect to the preparation and implementation of the comprehensive, long-range plan required under subsection (d) of this section.
 
@@ -66,7 +66,7 @@ Subsec. (i) of this section, which required the Secretary to report annually to 
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the Senate, referred to in subsec. (c)(2), abolished and replacedby Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Interior and Insular Affairs of the Senate, referred to in subsec. (c)(2), abolished and replaced by Committee on Energy and Natural Resources of the Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of the Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.
 
 Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress.
 
@@ -74,23 +74,25 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 
 Pub. L. 103–433, title I, §107, Oct. 31, 1994, 108 Stat. 4483, provided that:
 
-“(a)
+"(a)
 
-Designation.—There is hereby established the Desert Lily Sanctuary within the California Desert Conservation Area, California, of the Bureau of Land Management, comprising approximately two thousand forty acres, as generally depicted on a map entitled ‘Desert Lily Sanctuary’, dated February 1986. The Secretary \[of the Interior\] shall administer the area to provide maximum protection to the desert lily.
+Designation.—There is hereby established the Desert Lily Sanctuary within the California Desert Conservation Area, California, of the Bureau of Land Management, comprising approximately two thousand forty acres, as generally depicted on a map entitled 'Desert Lily Sanctuary', dated February 1986. The Secretary \[of the Interior\] shall administer the area to provide maximum protection to the desert lily.
 
-“(b)
+"(b)
 
-Withdrawal.—Subject to valid existing rights, all Federal lands within the Desert Lily Sanctuary are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and mineral materials, and all amendments thereto.”
+Withdrawal.—Subject to valid existing rights, all Federal lands within the Desert Lily Sanctuary are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and mineral materials, and all amendments thereto."
 
 #### Dinosaur Trackway Area of Critical Environmental Concern
 
 Pub. L. 103–433, title I, §108, Oct. 31, 1994, 108 Stat. 4483, provided that:
 
-“(a)
+"(a)
 
-Designation.—There is hereby established the Dinosaur Trackway Area of Critical Environmental Concern within the California Desert Conservation Area, of the Bureau of Land Management, comprising approximately five hundred and ninety acres as generally depicted on a map entitled ‘Dinosaur Trackway Area of Critical Environmental Concern’, dated July 1993. The Secretary \[of the Interior\] shall administer the area to preserve the paleontological resources within the area.
+Designation.—There is hereby established the Dinosaur Trackway Area of Critical Environmental Concern within the California Desert Conservation Area, of the Bureau of Land Management, comprising approximately five hundred and ninety acres as generally depicted on a map entitled 'Dinosaur Trackway Area of Critical Environmental Concern', dated July 1993. The Secretary \[of the Interior\] shall administer the area to preserve the paleontological resources within the area.
 
-“(b)
+"(b)
 
-Withdrawal.—Subject to valid existing rights, the Federal lands within and adjacent to the Dinosaur Trackway Area of Critical Environmental Concern, as generally depicted on a map entitled ‘Dinosaur Trackway Mineral Withdrawal Area’, dated July 1993, are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and mineral materials, and all amendments thereto.”
+Withdrawal.—Subject to valid existing rights, the Federal lands within and adjacent to the Dinosaur Trackway Area of Critical Environmental Concern, as generally depicted on a map entitled 'Dinosaur Trackway Mineral Withdrawal Area', dated July 1993, are hereby withdrawn from all forms of entry, appropriation, or disposal under the public land laws; from location, entry, and patent under the United States mining laws; and from disposition under all laws pertaining to mineral and geothermal leasing, and mineral materials, and all amendments thereto."
+
+<i><sup>1</sup></i><i> So in original. Probably should be "plan".</i>
 

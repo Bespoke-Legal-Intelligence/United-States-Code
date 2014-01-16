@@ -1,6 +1,6 @@
 ### §2191. Congressional statement of purpose; creation and functions of Corporation
 
-To mobilize and facilitate the participation of United States private capital and skills in the economic and social development of less developed countries and areas, and countries in transition from nonmarket to market economies, thereby complementing the development assistance objectives of the United States, there is hereby created the Overseas Private Investment Corporation (hereinafter called the “Corporation”), which shall be an agency of the United States under the policy guidance of the Secretary of State.
+To mobilize and facilitate the participation of United States private capital and skills in the economic and social development of less developed countries and areas, and countries in transition from nonmarket to market economies, thereby complementing the development assistance objectives of the United States, there is hereby created the Overseas Private Investment Corporation (hereinafter called the "Corporation"), which shall be an agency of the United States under the policy guidance of the Secretary of State.
 
 The Corporation, in determining whether to provide insurance, financing, or reinsurance for a project, shall especially—
 
@@ -22,7 +22,7 @@ In carrying out its purpose, the Corporation, utilizing broad criteria, shall un
 
 &emsp;(e) to the maximum degree possible consistent with its purposes—
 
-&emsp;&emsp;(1) to give preferential consideration in its investment insurance, reinsurance, and guaranty activities to investment projectssponsored by or involving United States small business; and
+&emsp;&emsp;(1) to give preferential consideration in its investment insurance, reinsurance, and guaranty activities to investment projects sponsored by or involving United States small business; and
 
 &emsp;&emsp;(2) to increase the proportion of projects sponsored by or significantly involving United States small business to at least 30 percent of all projects insured, reinsured, or guaranteed by the Corporation;
 
@@ -32,7 +32,7 @@ In carrying out its purpose, the Corporation, utilizing broad criteria, shall un
 
 &emsp;(h) to further to the greatest degree possible, in a manner consistent with its goals, the balance-of-payments and employment objectives of the United States;
 
-&emsp;(i) to conduct its activities in consonance with the activities of the agency primarily responsible for administering subchapter I of this chapter and the international trade, investment, and financial policies of the United States Government, and to seek to support those developmental projects having positive trade benefits for the United States;
+&emsp;(i) to conduct its activities in consonance with the activities of the agency primarily responsible for administering subchapter I of this chapter and the international trade, investment, and financial policies of the United States Government, and to seek to supportthose developmental projects having positive trade benefits for the United States;
 
 &emsp;(j) to advise and assist, within its field of competence, interested agencies of the United States and other organizations, both public and private, national and international, with respect to projects and programs relating to the development of private enterprise in less developed countries and areas;
 
@@ -60,33 +60,33 @@ A prior section 231 of Pub. L. 87–195, pt. 1, Sept. 4, 1961, 75 Stat. 432, rel
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–392 inserted “, Ireland, and Northern Ireland” after “title 19” in par. (2) of second undesignated par.
+<b>1994</b>—Pub. L. 103–392 inserted ", Ireland, and Northern Ireland" after "title 19" in par. (2) of second undesignated par.
 
-<b>1992</b>—Pub. L. 102–549, in first undesignated par., substituted “countries and areas, and countries in transition from nonmarket to market economies,” for “friendly countries and areas,”.
+<b>1992</b>—Pub. L. 102–549, in first undesignated par., substituted "countries and areas, and countries in transition from nonmarket to market economies," for "friendly countries and areas,".
 
-<b>1988</b>—Pub. L. 100–461, in par. (2) of second undesignated par., substituted “984 or less in 1986 United States dollars” for “$896 or less in 1983 United States dollars” and “$4,269 or more in 1986 United States dollars (other than countries designated as beneficiary countries under section 2702 of title 19)” for “$3,887 or more in 1983 United States dollars”.
+<b>1988</b>—Pub. L. 100–461, in par. (2) of second undesignated par., substituted "984 or less in 1986 United States dollars" for "$896 or less in 1983 United States dollars" and "$4,269 or more in 1986 United States dollars (other than countries designated as beneficiary countries under section 2702 of title 19)" for "$3,887 or more in 1983 United States dollars".
 
-Pub. L. 100–461, in par. (3) of second undesignated par., substituted “section 2151p of this title, section 2151p–1 of this title, and section” for “sections 2151p of this title and” and “tropical forests and endangered species” for “biological diversity”.
+Pub. L. 100–461, in par. (3) of second undesignated par., substituted "section 2151p of this title, section 2151p–1 of this title, and section" for "sections 2151p of this title and" and "tropical forests and endangered species" for "biological diversity".
 
-<b>1985</b>—Pub. L. 99–204, in second undesignated par., substituted “$896 or less in 1983 United States dollars” for “$680 or less in 1979 United States dollars” and “$3,887 or more in 1983 United States dollars” for “$2,950 or more in 1979 United States dollars” in par. (2), added par. (3), and added cl. (n).
+<b>1985</b>—Pub. L. 99–204, in second undesignated par., substituted "$896 or less in 1983 United States dollars" for "$680 or less in 1979 United States dollars" and "$3,887 or more in 1983 United States dollars" for "$2,950 or more in 1979 United States dollars" in par. (2), added par. (3), and added cl. (n).
 
-<b>1981</b>—Pub. L. 97–65 substituted “$680 or less in 1979 United States dollars” for “$520 or less in 1975 United States dollars” and “$2,950 or more in 1979 United States dollars” for “$1,000 or more in 1975 United States dollars” in par. (2) of undesignated paragraph covering the guidelines to be used with regard to operations in less developed countries, inserted “, and to seek to support those developmental projects having positive trade benefits for the United States” in cl. (i) of undesignated paragraph enumerating the activities of the Corporation, and, in that unnumbered paragraph, added cl. (m), relating to investments which would reduce positive trade benefits.
+<b>1981</b>—Pub. L. 97–65 substituted "$680 or less in 1979 United States dollars" for "$520 or less in 1975 United States dollars" and "$2,950 or more in 1979 United States dollars" for "$1,000 or more in 1975 United States dollars" in par. (2) of undesignated paragraph covering the guidelines to be used with regard to operations in less developed countries, inserted ", and to seek to support those developmental projects having positive trade benefits for the United States" in cl. (i) of undesignated paragraph enumerating the activities of the Corporation, and, in that unnumbered paragraph, added cl. (m), relating to investments which would reduce positive trade benefits.
 
 <b>1978</b>—Pub. L. 95–268 inserted undesignated par. relating to determinations by the Corporation respecting insurance, financing, or reinsurance for a project, in cl. (e) designated existing provisions as subcl. (1) and, as so designated, substituted reference to guaranty activities for reference to financing activities and reference to small businesses for reference to businesses with a net worth of not more than $2,500,000 or with total assets of not more than $7,500,000, and added subcl. (2), struck out cl. (f) relating to encouragement and support of private investments for certain less developed friendly countries, redesignated former cls. (g) to (k) as (f) to (j), respectively, struck out former cl. (l) relating to preference by the Corporation for projects in countries having a per capita income of $450 or less in 1973 United States dollars, redesignated former cl. (m) as (k), and added cl. (n) which, as added, was redesignated as (l).
 
-<b>1974</b>—Pub. L. 93–390, in introductory par., substituted “social development” for “social progress”, in cl. (a) inserted provisions for conducting insurance and reinsurance operations and substituted provisions requiring in financial operations consideration of economic and financial soundness of projects for provisions requiring consideration of economic and financial soundness of projects and availability of financing from other sources on appropriate terms, in cl. (d) substituted “efforts to share its insurance and reinsurance” for “when appropriate, efforts to share its insurance”, in cl. (e) substituted provisions requiring preferential treatment to investment projects involving businesses with enumerated net worth or total assets for provisions requiring utilization and encouragement for full participation in Corporation programs of small businesses, in cl. (i) inserted “and employment” before “objectives”, and added cls. (l) and (m).
+<b>1974</b>—Pub. L. 93–390, in introductory par., substituted "social development" for "social progress", in cl. (a) inserted provisions for conducting insurance and reinsurance operations and substituted provisions requiring in financial operations consideration of economic and financial soundness of projects for provisions requiring consideration of economic and financial soundness of projects and availability of financing from other sources on appropriate terms, in cl. (d) substituted "efforts to share its insurance and reinsurance" for "when appropriate, efforts to share its insurance", in cl. (e)substituted provisions requiring preferential treatment to investment projects involving businesses with enumerated net worth or total assets for provisions requiring utilization and encouragement for full participation in Corporation programs of small businesses, in cl. (i) inserted "and employment" before "objectives", and added cls. (l) and (m).
 
 #### Overseas Private Investment Corporation; Reaffirmation of Support
 
-Pub. L. 100–418, title II, §2203(a), Aug. 23, 1988, 102 Stat. 1328, provided that: “The Congress reaffirms its support for the Overseas Private Investment Corporation as a United States Government agency serving important development assistance goals. In order to enhance the Corporation's ability to meet these goals, the Overseas Private Investment Corporation should increase its loan guaranty and direct investment programs.”
+Pub. L. 100–418, title II, §2203(a), Aug. 23, 1988, 102 Stat. 1328, provided that: "The Congress reaffirms its support for the Overseas Private Investment Corporation as a United States Government agency serving important development assistance goals. In order to enhance the Corporation's ability to meet these goals, the Overseas Private Investment Corporation should increase its loan guaranty and direct investment programs."
 
 #### Ex. Ord. No. 11579. Overseas Private Investment Corporation
 
 Ex. Ord. No. 11579, Jan. 19, 1971, 36 F.R. 969, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, provided:
 
-By virtue of the authority vested in me by the Foreign Assistance Act of 1961 (75 Stat. 424), as amended (hereinafter the “Act”) \[section 2151 et seq. of this title\] and section 301 of title 3 of the United States Code, and as President of the United States, it is ordered as follows:
+By virtue of the authority vested in me by the Foreign Assistance Act of 1961 (75 Stat. 424), as amended (hereinafter the "Act") \[section 2151 et seq. of this title\] and section 301 of title 3 of the United States Code, and as President of the United States, it is ordered as follows:
 
-Section 1. <i>Transfer to Overseas Private Investment Corporation</i>. All obligations, assets and related rights and responsibilities arising out of, or related to, predecessor programs and authorities similar to those provided for in sections 234(a), (b) and (d) of the Act \[section 2194(a), (b) and (d) of this title\] are hereby transferred to the Overseas Private Investment Corporation (hereinafter the “Corporation”).
+Section 1. <i>Transfer to Overseas Private Investment Corporation</i>. All obligations, assets and related rights and responsibilities arising out of, or related to, predecessor programs and authorities similar to those provided for in sections 234(a), (b) and (d) of the Act \[section 2194(a), (b) and (d) of this title\] are hereby transferred to the Overseas Private Investment Corporation (hereinafter the "Corporation").
 
 Sec. 2. <i>Delegation of functions</i>. (a) \[Revoked by Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673.\]
 
@@ -94,7 +94,7 @@ Sec. 2. <i>Delegation of functions</i>. (a) \[Revoked by Ex. Ord. No. 12163, Sep
 
 Sec. 3. <i>Allocation and transfer of funds</i>. Funds made available under section 232 of the Act (repealed by section 105 of the Foreign Assistance Act of 1969) \[section 2192 of this title\] which are obligated but unexpended are hereby transferred to the Corporation.
 
-Sec. 4. <i>General provisions</i>. (a) As used in this order, the words “function” or “functions” include any duty, obligation, power, authority, responsibility, right, privilege, discretion, or activity.
+Sec. 4. <i>General provisions</i>. (a) As used in this order, the words "function" or "functions" include any duty, obligation, power, authority, responsibility, right, privilege, discretion, or activity.
 
 (b) The Corporation shall be deemed to be the successor of the Agency for International Development and the Administrator thereof, with respect to all functions vested in the Corporation pursuant to law.
 

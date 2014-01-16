@@ -18,5 +18,5 @@ Section 10308 requires that shipping agreements made in foreign ports be signed 
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–206 struck out “(a)” before “When a seaman” and struck out subsec. (b) which read as follows: “A master engaging a seaman in violation of this section is liable to the United States Government for a civil penalty of $100. The vessel also is liable in rem for the penalty.”
+<b>1993</b>—Pub. L. 103–206 struck out "(a)" before "When a seaman" and struck out subsec. (b) which read as follows: "A master engaging a seaman in violation of this section is liable to the United States Government for a civil penalty of $100. The vessel also is liable in rem for the penalty."
 

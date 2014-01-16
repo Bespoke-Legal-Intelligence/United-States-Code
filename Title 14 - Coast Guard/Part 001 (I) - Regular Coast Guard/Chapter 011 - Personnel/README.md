@@ -64,8 +64,8 @@
 | [288\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000288%20-%20Regular%20captains%3B%20retirement.md) | Regular captains; retirement. |
 | [289\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000289%20-%20Captains%3B%20continuation%20on%20active%20duty%3B%20involuntary%20retirement.md) | Captains; continuation on active duty; involuntary retirement. |
 | [290\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000290%20-%20Rear%20admirals%20and%20rear%20admirals%20%28lower%20half%29%3B%20continuation%20on%20active%20duty%3B%20involuntary%20retirement.md) | Rear admirals and rear admirals (lower half); continuation on active duty; involuntary retirement. |
-| [291\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000291%20-%20Voluntary%20retirement%20after%20twenty%20years%E2%80%99%20service.md) | Voluntary retirement after twenty years’ service. |
-| [292\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000292%20-%20Voluntary%20retirement%20after%20thirty%20years%E2%80%99%20service.md) | Voluntary retirement after thirty years’ service. |
+| [291\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000291%20-%20Voluntary%20retirement%20after%20twenty%20years%27%20service.md) | Voluntary retirement after twenty years' service. |
+| [292\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000292%20-%20Voluntary%20retirement%20after%20thirty%20years%27%20service.md) | Voluntary retirement after thirty years' service. |
 | [293\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000293%20-%20Compulsory%20retirement.md) | Compulsory retirement. |
 | [294\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000294%20-%20Retirement%20for%20physical%20disability%20after%20selection%20for%20promotion%3B%20grade%20in%20which%20retired.md) | Retirement for physical disability after selection for promotion; grade in which retired. |
 | [295\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000295%20-%20Deferment%20of%20retirement%20or%20separation%20for%20medical%20reasons.md) | Deferment of retirement or separation for medical reasons. |
@@ -108,8 +108,8 @@
 | [351\.](Enlisted%20Members/%C2%A7%2000351%20-%20Enlistments%3B%20term%2C%20grade.md) | Enlistments; term, grade. |
 | [352\.](Enlisted%20Members/%C2%A7%2000352%20-%20Promotion.md) | Promotion. |
 | [353\.](Enlisted%20Members/%C2%A7%2000353%20-%20Compulsory%20retirement%20at%20age%20of%20sixty-two.md) | Compulsory retirement at age of sixty-two. |
-| [354\.](Enlisted%20Members/%C2%A7%2000354%20-%20Voluntary%20retirement%20after%20thirty%20years%E2%80%99%20service.md) | Voluntary retirement after thirty years’ service. |
-| [355\.](Enlisted%20Members/%C2%A7%2000355%20-%20Voluntary%20retirement%20after%20twenty%20years%E2%80%99%20service.md) | Voluntary retirement after twenty years’ service. |
+| [354\.](Enlisted%20Members/%C2%A7%2000354%20-%20Voluntary%20retirement%20after%20thirty%20years%27%20service.md) | Voluntary retirement after thirty years' service. |
+| [355\.](Enlisted%20Members/%C2%A7%2000355%20-%20Voluntary%20retirement%20after%20twenty%20years%27%20service.md) | Voluntary retirement after twenty years' service. |
 | \[356. | Repealed.\] |
 | [357\.](Enlisted%20Members/%C2%A7%2000357%20-%20Involuntary%20retirement%20of%20enlisted%20members.md) | Involuntary retirement of enlisted members. |
 | \[358. | Repealed.\] |
@@ -160,33 +160,33 @@
 
 This chapter, dealing with the appointment, enlistment, promotion, retirement and recall of all military personnel, covers subject matter which has been greatly affected by war-time legislation and, therefore, has required rather extensive rewriting of existing law in order to correlate all of the various provisions. An attempt has been made to provide for enlisted men and warrant officers in a manner similar to the way that commissioned officers are provided for; for example, the act of February 21, 1946, ch. 34, 60 Stat. 29 (title 14, U.S.C., 1946 ed., §162a), made provision for the retirement of commissioned officers on half pay after twenty years naval service, and a prewar statute provided for twenty year retirement of enlisted men on half pay. This leaves warrant officers the only military group not eligible for retirement in twenty years, and a provision such as found in section 305 of this title, granting such retirement, seems clearly indicated in order to avoid unjust discrimination.
 
-The subject matter seemed to break down into the sub-heads of “Commissioned Officers”, “Warrant Officers”, “Enlisted Men”, and “General Provisions”. Each of the first three sub-heads parallels the other two, insofar as the applicability of statutes of the three groups permits. The last sub-head includes the broad provisions which, in the same terms, can be made applicable to all military personnel. In accord with existing Navy and Coast Guard law, the term “commissioned officer” includes commissioned warrant officers unless specifically excepted, or manifestly inapplicable. Heretofore Coast Guard statutes have designated commissioned warrant officers as chief warrant officers; in line with Navy designation it is changed to commissioned warrant officers throughout this title. Terms such as “Coast Guard personnel” or “personnel of the Coast Guard”, as used throughout this title, are intended to include all employees of the Service, civilian and military. 81st Congress, House Report No. 557.
+The subject matter seemed to break down into the sub-heads of "Commissioned Officers", "Warrant Officers", "Enlisted Men", and "General Provisions". Each of the first three sub-heads parallels the other two, insofar as the applicability of statutes of the three groups permits. The last sub-head includes the broad provisions which, in the same terms, can be made applicable to all military personnel. In accord with existing Navy and Coast Guard law, the term "commissioned officer" includes commissioned warrant officers unless specifically excepted, or manifestly inapplicable. Heretofore Coast Guard statutes have designated commissioned warrant officers as chief warrant officers; in line with Navy designation it is changed to commissioned warrant officers throughout this title. Terms such as "Coast Guard personnel" or "personnel of the Coast Guard", as used throughout this title, are intended to include all employees of the Service, civilian and military. 81st Congress, House Report No. 557.
 
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–213, title II, §§208(d), 209(b), Dec. 20, 2012, 126 Stat. 1549, 1550, added items 263 and 427.
 
-<b>2010</b>—Pub. L. 111–281, title II, §§207(b), 209, 215(b), Oct. 15, 2010, 124 Stat. 2912, 2917, struck out item 216 “Director of Boating Safety Office”, substituted “Compulsory retirement” for “Compulsory retirement at age of sixty-two” in item 293, and added item 426.
+<b>2010</b>—Pub. L. 111–281, title II, §§207(b), 209, 215(b), Oct. 15, 2010, 124 Stat. 2912, 2917, struck out item 216 "Director of Boating Safety Office", substituted "Compulsory retirement" for "Compulsory retirement at age of sixty-two" in item 293, and added item 426.
 
 <b>2006</b>—Pub. L. 109–241, title II, §215(b), July 11, 2006, 120 Stat. 525, added item 216.
 
 <b>2004</b>—Pub. L. 108–293, title II, §204(b), Aug. 9, 2004, 118 Stat. 1032, added item 374.
 
-<b>2002</b>—Pub. L. 107–295, title IV, §§416(b), 444(b), Nov. 25, 2002, 116 Stat. 2122, 2133, substituted “five” for “three” in item 281 and “separation” for “severance” in items 286, 286a, and 327 and added item 424a.
+<b>2002</b>—Pub. L. 107–295, title IV, §§416(b), 444(b), Nov. 25, 2002, 116 Stat. 2122, 2133, substituted "five" for "three" in item 281 and "separation" for "severance" in items 286, 286a, and 327 and added item 424a.
 
-<b>1996</b>—Pub. L. 104–324, title II, §§209(b), 210(b), 211(b), Oct. 19, 1996, 110 Stat. 3914, 3915, substituted “Appointment” for “Original appointment” in item 214, struck out item 277 “Temporary promotions of warrant officers”, and added item 425.
+<b>1996</b>—Pub. L. 104–324, title II, §§209(b), 210(b), 211(b), Oct. 19, 1996, 110 Stat. 3914, 3915, substituted "Appointment" for "Original appointment" in item 214, struck out item 277 "Temporary promotions of warrant officers", and added item 425.
 
-<b>1994</b>—Pub. L. 103–337, div. A, title V, §541(e)(2), (f)(5)(B), Oct. 5, 1994, 108 Stat. 2766, 2767, struck out items 212 “Original appointment of permanent commissioned warrant officers” and 213 “Original appointment of permanent warrant officers (W–1)” and added item 215.
+<b>1994</b>—Pub. L. 103–337, div. A, title V, §541(e)(2), (f)(5)(B), Oct. 5, 1994, 108 Stat. 2766, 2767, struck out items 212 "Original appointment of permanent commissioned warrant officers" and 213 "Original appointment of permanent warrant officers (W–1)" and added item 215.
 
-<b>1991</b>—Pub. L. 102–241, §6(b), Dec. 19, 1991, 105 Stat. 2212, substituted “Involuntary retirement of enlisted members” for “Enlisted Personnel Board” in item 357.
+<b>1991</b>—Pub. L. 102–241, §6(b), Dec. 19, 1991, 105 Stat. 2212, substituted "Involuntary retirement of enlisted members" for "Enlisted Personnel Board" in item 357.
 
 <b>1986</b>—Pub. L. 99–640, §10(a)(6)(B), Nov. 10, 1986, 100 Stat. 3549, struck out items 431, 433, 434, and 438.
 
-<b>1985</b>—Pub. L. 99–145, title V, §514(c)(2)(B), Nov. 8, 1985, 99 Stat. 629, substituted “rear admirals (lower half)” for “commodores” in item 290.
+<b>1985</b>—Pub. L. 99–145, title V, §514(c)(2)(B), Nov. 8, 1985, 99 Stat. 629, substituted "rear admirals (lower half)" for "commodores" in item 290.
 
-<b>1984</b>—Pub. L. 98–557, §§15(a)(4)(B)(ii), (C)(ii), (E)(ii), 17(b)(2)(B), Oct. 30, 1984, 98 Stat. 2865, 2866, 2867, added item 295, in heading preceding item 350 substituted “MEMBERS” for “MEN”, in item 360 substituted “member” for “man”, and in item 361 substituted “enlisted member” for “man”.
+<b>1984</b>—Pub. L. 98–557, §§15(a)(4)(B)(ii), (C)(ii), (E)(ii), 17(b)(2)(B), Oct. 30, 1984, 98 Stat. 2865, 2866, 2867, added item 295, in heading preceding item 350 substituted "MEMBERS" for "MEN", in item 360 substituted "member" for "man", and in item 361 substituted "enlisted member" for "man".
 
-<b>1983</b>—Pub. L. 97–417, §2(9)(B), Jan. 4, 1983, 96 Stat. 2086, inserted “and commodores” after “Rear admirals” in item 290.
+<b>1983</b>—Pub. L. 97–417, §2(9)(B), Jan. 4, 1983, 96 Stat. 2086, inserted "and commodores" after "Rear admirals" in item 290.
 
 <b>1982</b>—Pub. L. 97–322, title I, §115(b)(2), Oct. 15, 1982, 96 Stat. 1585, struck out item 368.
 
@@ -194,13 +194,13 @@ The subject matter seemed to break down into the sub-heads of “Commissioned Of
 
 <b>1976</b>—Pub. L. 94–546, §1(18), Oct. 18, 1976, 90 Stat. 2520, added item 256a.
 
-<b>1972</b>—Pub. L. 92–451, §1(9), Oct. 2, 1972, 86 Stat. 757, substituted “continuation on active duty” for “retention on the active list” in item 290.
+<b>1972</b>—Pub. L. 92–451, §1(9), Oct. 2, 1972, 86 Stat. 757, substituted "continuation on active duty" for "retention on the active list" in item 290.
 
-<b>1966</b>—Pub. L. 89–444, §1(25), June 9, 1966, 80 Stat. 197, substituted “Grade on retirement” for “Retirement in cases where higher grade has been held” in item 334, and added items 371, 372, and 373.
+<b>1966</b>—Pub. L. 89–444, §1(25), June 9, 1966, 80 Stat. 197, substituted "Grade on retirement" for "Retirement in cases where higher grade has been held" in item 334, and added items 371, 372, and 373.
 
 <b>1965</b>—Pub. L. 89–189, §1(2), Sept. 17, 1965, 79 Stat. 820, added item 336.
 
-<b>1963</b>—Pub. L. 88–130, §§1(9), (10)(B), 4(c), Sept. 24, 1963, 77 Stat. 175, 177, 193, added items 211 to 214, 251 to 262, 271 to 277, 281 to 294, 321 to 327, 331 to 335, struck out items 221 to 248, 301 to 313a, 435 to 437, 439, and 440, and struck out headings “COMMISSIONED OFFICERS” and “WARRANT OFFICERS” which preceded sections 221 and 301, respectively, of this title.
+<b>1963</b>—Pub. L. 88–130, §§1(9), (10)(B), 4(c), Sept. 24, 1963, 77 Stat. 175, 177, 193, added items 211 to 214, 251 to 262, 271 to 277, 281 to 294, 321 to 327, 331 to 335, struck out items 221 to 248, 301 to 313a, 435 to 437, 439, and 440, and struck out headings "COMMISSIONED OFFICERS" and "WARRANT OFFICERS" which preceded sections 221 and 301, respectively, of this title.
 
 Pub. L. 88–114, §1(3), Sept. 6, 1963, 77 Stat. 144, struck out item 358.
 
@@ -210,7 +210,7 @@ Pub. L. 88–114, §1(3), Sept. 6, 1963, 77 Stat. 144, struck out item 358.
 
 <b>1957</b>—Pub. L. 85–144, §§2(b), 3, Aug. 14, 1957, 71 Stat. 367, added item 313a and struck out items 303, 304, 305, 307, 308, and 313.
 
-<b>1956</b>—Act Aug. 10, 1956, ch. 1041, §§7(b), 8(b), 9(b), 70A Stat. 620, 623, added items 350 and 435 to 438, and substituted “Enlistments; term, grade” for “Enlistments” in item 351.
+<b>1956</b>—Act Aug. 10, 1956, ch. 1041, §§7(b), 8(b), 9(b), 70A Stat. 620, 623, added items 350 and 435 to 438, and substituted "Enlistments; term, grade" for "Enlistments" in item 351.
 
 Act July 20, 1956, ch. 647, §3(b), 70 Stat. 588, added item 439.
 

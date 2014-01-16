@@ -12,5 +12,5 @@ The purposes of this chapter are—
 
 #### Amendments
 
-<b>2006</b>—Par. (2). Pub. L. 109–363 inserted “Canada,” after “United States,”.
+<b>2006</b>—Par. (2). Pub. L. 109–363 inserted "Canada," after "United States,".
 

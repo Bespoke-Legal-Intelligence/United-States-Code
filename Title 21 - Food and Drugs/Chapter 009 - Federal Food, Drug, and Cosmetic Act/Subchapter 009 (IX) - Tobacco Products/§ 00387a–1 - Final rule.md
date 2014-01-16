@@ -12,15 +12,15 @@
 
 #### (2) Contents of rule
 
-&emsp;Except as provided in this subsection, the final rule published under paragraph (1),<sup>2</sup> shallbe identical in its provisions to part 897 of the regulations promulgated by the Secretary of Health and Human Services in the August 28, 1996, issue of the Federal Register (61 Fed. Reg. 44615–44618). Such rule shall—
+&emsp;Except as provided in this subsection, the final rule published under paragraph (1),<sup>2</sup> shall be identical in its provisions to part 897 of the regulations promulgated by the Secretary of Health and Human Services in the August 28, 1996, issue of the Federal Register (61 Fed. Reg. 44615–44618). Such rule shall—
 
 &emsp;&emsp;(A) provide for the designation of jurisdictional authority that is in accordance with this subsection in accordance with this division and the amendments made by this division;
 
 &emsp;&emsp;(B) strike Subpart C—Labels and section 897.32(c);
 
-&emsp;&emsp;(C) strike paragraphs (a), (b), and (i) of section 897.3 and insert definitions of the terms “cigarette”, “cigarette tobacco”, and “smokeless tobacco” as defined in section 900 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 387\];
+&emsp;&emsp;(C) strike paragraphs (a), (b), and (i) of section 897.3 and insert definitions of the terms "cigarette", "cigarette tobacco", and "smokeless tobacco" as defined in section 900 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 387\];
 
-&emsp;&emsp;(D) insert “or roll-your-own paper” in section 897.34(a) after “other than cigarettes or smokeless tobacco”;
+&emsp;&emsp;(D) insert "or roll-your-own paper" in section 897.34(a) after "other than cigarettes or smokeless tobacco";
 
 &emsp;&emsp;(E) include such modifications to section 897.30(b), if any, that the Secretary determines are appropriate in light of governing First Amendment case law, including the decision of the Supreme Court of the United States in Lorillard Tobacco Co. v. Reilly (533 U.S. 525 (2001));
 
@@ -28,49 +28,49 @@
 
 &emsp;&emsp;(G) amend paragraph (d) of section 897.16 to read as follows:
 
-“(d)(1) Except as provided in subparagraph (2), no manufacturer, distributor, or retailer may distribute or cause to be distributed any free samples of cigarettes, smokeless tobacco, or other tobacco products (as such term is defined in section 201 of the Federal Food, Drug, and Cosmetic Act).
+"(d)(1) Except as provided in subparagraph (2), no manufacturer, distributor, or retailer may distribute or cause to be distributed any free samples of cigarettes, smokeless tobacco, or other tobacco products (as such term is defined in section 201 of the Federal Food, Drug, and Cosmetic Act).
 
-“(2)(A) Subparagraph (1) does not prohibit a manufacturer, distributor, or retailer from distributing or causing to be distributed free samples of smokeless tobacco in a qualified adult-only facility.
+"(2)(A) Subparagraph (1) does not prohibit a manufacturer, distributor, or retailer from distributing or causing to be distributed free samples of smokeless tobacco in a qualified adult-only facility.
 
-“(B) This subparagraph does not affect the authority of a State or local government to prohibit or otherwise restrict the distribution of free samples of smokeless tobacco.
+"(B) This subparagraph does not affect the authority of a State or local government to prohibit or otherwise restrict the distribution of free samples of smokeless tobacco.
 
-“(C) For purposes of this paragraph, the term ‘qualified adult-only facility’ means a facility or restricted area that—
+"(C) For purposes of this paragraph, the term 'qualified adult-only facility' means a facility or restricted area that—
 
-&emsp;“(i) requires each person present to provide to a law enforcement officer (whether on or off duty) or to a security guard licensed by a governmental entity government-issued identification showing a photograph and at least the minimum age established by applicable law for the purchase of smokeless tobacco;
+&emsp;"(i) requires each person present to provide to a law enforcement officer (whether on or off duty) or to a security guard licensed by a governmental entity government-issued identification showing a photograph and at least the minimum age established by applicable law for the purchase of smokeless tobacco;
 
-&emsp;“(ii) does not sell, serve, or distribute alcohol;
+&emsp;"(ii) does not sell, serve, or distribute alcohol;
 
-&emsp;“(iii) is not located adjacent to or immediately across from (in any direction) a space that is used primarily for youth-oriented marketing, promotional, or other activities;
+&emsp;"(iii) is not located adjacent to or immediately across from (in any direction) a space that is used primarily for youth-oriented marketing, promotional, or other activities;
 
-&emsp;“(iv) is a temporary structure constructed, designated, and operated as a distinct enclosed area for the purpose of distributing free samples of smokeless tobacco in accordance with this subparagraph;
+&emsp;"(iv) is a temporary structure constructed, designated, and operated as a distinct enclosed area for the purpose of distributing free samples of smokeless tobacco in accordance with this subparagraph;
 
-&emsp;“(v) is enclosed by a barrier that—
+&emsp;"(v) is enclosed by a barrier that—
 
-&emsp;&emsp;“(I) is constructed of, or covered with, an opaque material (except for entrances and exits);
+&emsp;&emsp;"(I) is constructed of, or covered with, an opaque material (except for entrances and exits);
 
-&emsp;&emsp;“(II) extends from no more than 12 inches above the ground or floor (which area at the bottom of the barrier must be covered with material that restricts visibility but may allow airflow) to at least 8 feet above the ground or floor (or to the ceiling); and
+&emsp;&emsp;"(II) extends from no more than 12 inches above the ground or floor (which area at the bottom of the barrier must be covered with material that restricts visibility but may allow airflow) to at least 8 feet above the ground or floor (or to the ceiling); and
 
-&emsp;&emsp;“(III) prevents persons outside the qualified adult-only facility from seeing into the qualified adult-only facility, unless they make unreasonable efforts to do so; and
+&emsp;&emsp;"(III) prevents persons outside the qualified adult-only facility from seeing into the qualified adult-only facility, unless they make unreasonable efforts to do so; and
 
-&emsp;“(vi) does not display on its exterior—
+&emsp;"(vi) does not display on its exterior—
 
-&emsp;&emsp;“(I) any tobacco product advertising;
+&emsp;&emsp;"(I) any tobacco product advertising;
 
-&emsp;&emsp;“(II) a brand name other than in conjunction with words for an area or enclosure to identify an adult-only facility; or
+&emsp;&emsp;"(II) a brand name other than in conjunction with words for an area or enclosure to identify an adult-only facility; or
 
-&emsp;&emsp;“(III) any combination of words that would imply to a reasonable observer that the manufacturer, distributor, or retailer has a sponsorship that would violate section 897.34(c).
+&emsp;&emsp;"(III) any combination of words that would imply to a reasonable observer that the manufacturer, distributor, or retailer has a sponsorship that would violate section 897.34(c).
 
-“(D) Distribution of samples of smokeless tobacco under this subparagraph permitted to be taken out of the qualified adult-only facility shall be limited to 1 package per adult consumer containing no more than 0.53 ounces (15 grams) of smokeless tobacco. If such package of smokeless tobacco contains individual portions of smokeless tobacco, the individual portions of smokeless tobacco shall not exceed 8 individual portions and the collective weight of such individual portions shall not exceed 0.53 ounces (15 grams). Any manufacturer, distributor, or retailer who distributes or causes to be distributed free samples also shall take reasonable steps to ensure that the above amounts are limited to one such package per adult consumer per day.
+"(D) Distribution of samples of smokeless tobacco under this subparagraph permitted to be taken out of the qualified adult-only facility shall be limited to 1 package per adult consumer containing no more than 0.53 ounces (15 grams) of smokeless tobacco. If such package of smokeless tobacco contains individual portions of smokeless tobacco, the individual portions of smokeless tobacco shall not exceed 8 individual portions and the collective weight of such individual portions shall not exceed 0.53 ounces (15 grams). Any manufacturer, distributor, or retailer who distributes or causes to be distributed free samples also shall take reasonable steps to ensure that the above amounts are limited to one such package per adult consumer per day.
 
-“(3) Notwithstanding subparagraph (2), no manufacturer, distributor, or retailer may distribute or cause to be distributed any free samples of smokeless tobacco—
+"(3) Notwithstanding subparagraph (2), no manufacturer, distributor, or retailer may distribute or cause to be distributed any free samples of smokeless tobacco—
 
-&emsp;“(A) to a sports team or entertainment group; or
+&emsp;"(A) to a sports team or entertainment group; or
 
-&emsp;“(B) at any football, basketball, baseball, soccer, or hockey event or any other sporting or entertainment event determined by the Secretary to be covered by this subparagraph.
+&emsp;"(B) at any football, basketball, baseball, soccer, or hockey event or any other sporting or entertainment event determined by the Secretary to be covered by this subparagraph.
 
-“(4) The Secretary shall implement a program to ensure compliance with this paragraph and submit a report to the Congress on such compliance not later than 18 months after the date of enactment of the Family Smoking Prevention and Tobacco Control Act.
+"(4) The Secretary shall implement a program to ensure compliance with this paragraph and submit a report to the Congress on such compliance not later than 18 months after the date of enactment of the Family Smoking Prevention and Tobacco Control Act.
 
-“(5) Nothing in this paragraph shall be construed to authorize any person to distribute or cause to be distributed any sample of a tobacco product to any individual who has not attained the minimum age established by applicable law for the purchase of such product.”.
+"(5) Nothing in this paragraph shall be construed to authorize any person to distribute or cause to be distributed any sample of a tobacco product to any individual who has not attained the minimum age established by applicable law for the purchase of such product.".
 
 #### (3) Amendments to rule
 
@@ -78,7 +78,7 @@
 
 #### (4) Rule of construction
 
-&emsp;Except as provided in paragraph (3), nothing in this section shall be construed to limit theauthority of the Secretary to amend, in accordance with chapter 5 of title 5, the regulation promulgated pursuant to this section, including the provisions of such regulation relating to distribution of free samples.
+&emsp;Except as provided in paragraph (3), nothing in this section shall be construed to limit the authority of the Secretary to amend, in accordance with chapter 5 of title 5, the regulation promulgated pursuant to this section, including the provisions of such regulation relating to distribution of free samples.
 
 #### (5) Enforcement of retail sale provisions
 
@@ -96,13 +96,13 @@
 
 As of June 22, 2009, the following documents issued by the Food and Drug Administration shall not constitute advisory opinions under section 10.85(d)(1) of title 21, Code of Federal Regulations, except as they apply to tobacco products, and shall not be cited by the Secretary of Health and Human Services or the Food and Drug Administration as binding precedent:
 
-&emsp;(1) The preamble to the proposed rule in the document titled “Regulations Restricting the Sale and Distribution of Cigarettes and Smokeless Tobacco Products to Protect Children and Adolescents” (60 Fed. Reg. 41314–41372 (August 11, 1995)).
+&emsp;(1) The preamble to the proposed rule in the document titled "Regulations Restricting the Sale and Distribution of Cigarettes and Smokeless Tobacco Products to Protect Children and Adolescents" (60 Fed. Reg. 41314–41372 (August 11, 1995)).
 
-&emsp;(2) The document titled “Nicotine in Cigarettes and Smokeless Tobacco Products is a Drug and These Products Are Nicotine Delivery Devices Under the Federal Food, Drug, and Cosmetic Act” (60 Fed. Reg. 41453–41787 (August 11, 1995)).
+&emsp;(2) The document titled "Nicotine in Cigarettes and Smokeless Tobacco Products is a Drug and These Products Are Nicotine Delivery Devices Under the Federal Food, Drug, and Cosmetic Act" (60 Fed. Reg. 41453–41787 (August 11, 1995)).
 
-&emsp;(3) The preamble to the final rule in the document titled “Regulations Restricting the Sale and Distribution of Cigarettes and Smokeless Tobacco to Protect Children and Adolescents” (61 Fed. Reg. 44396–44615 (August 28, 1996)).
+&emsp;(3) The preamble to the final rule in the document titled "Regulations Restricting the Sale and Distribution of Cigarettes and Smokeless Tobacco to Protect Children and Adolescents" (61 Fed. Reg. 44396–44615 (August 28, 1996)).
 
-&emsp;(4) The document titled “Nicotine in Cigarettes and Smokeless Tobacco is a Drug and These Products are Nicotine Delivery Devices Under the Federal Food, Drug, and Cosmetic Act; Jurisdictional Determination” (61 Fed. Reg. 44619–45318 (August 28, 1996)).
+&emsp;(4) The document titled "Nicotine in Cigarettes and Smokeless Tobacco is a Drug and These Products are Nicotine Delivery Devices Under the Federal Food, Drug, and Cosmetic Act; Jurisdictional Determination" (61 Fed. Reg. 44619–45318 (August 28, 1996)).
 
 (Pub. L. 111–31, div. A, title I, §102, June 22, 2009, 123 Stat. 1830.)
 
@@ -118,13 +118,13 @@ Section 103(q), referred to in subsec. (a)(6), is section 103(q) of Pub. L. 111�
 
 #### Codification
 
-Section was enacted as part of the Family Smoking Prevention and Tobacco Control Act and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
+Section was enacted as part of the Family Smoking Prevention and Tobacco Control Act and not as part ofthe Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
 #### Modification of Deadlines for Secretarial Action
 
-For provision deeming reference to “180 days” in subsec. (a)(1) to be “270 days”, see section 6 of Pub. L. 111–31, set out as a note under section 387 of this title.
+For provision deeming reference to "180 days" in subsec. (a)(1) to be "270 days", see section 6 of Pub. L. 111–31, set out as a note under section 387 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “chapter IX”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "chapter IX".</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 

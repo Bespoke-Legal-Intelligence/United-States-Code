@@ -10,5 +10,5 @@ To protect and administer more effectively the publicly owned lands within certa
 
 #### Short Title
 
-The act of June 22, 1948, ch. 593, 62 Stat. 568, as amended, which is classified to sections 577c, 577d, and 577e to 577h of this title, is popularly known as the “Thye-Blatnik Act”.
+The act of June 22, 1948, ch. 593, 62 Stat. 568, as amended, which is classified to sections 577c, 577d, and 577e to 577h of this title, is popularly known as the "Thye-Blatnik Act".
 

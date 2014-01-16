@@ -2,7 +2,7 @@
 
 #### (a) Payments
 
-Subject to appropriations provided pursuant to section 9123 of this title, the Director shallpay to each State library administrative agency having a State plan approved under section 9134 of this title the Federal share of the cost of the activities described in the State plan.
+Subject to appropriations provided pursuant to section 9123 of this title, the Director shall pay to each State library administrative agency having a State plan approved under section 9134 of this title the Federal share of the cost of the activities described in the State plan.
 
 #### (b) Federal share
 
@@ -34,7 +34,7 @@ Subject to appropriations provided pursuant to section 9123 of this title, the D
 
 #### (B) Decrease in Federal support
 
-&emsp;&emsp;If the amount made available under this subchapter for a fiscal year is less than the amount made available under this subchapter for the preceding fiscal year, then the expenditures required by subparagraph (A) for such preceding fiscal year shall be decreased by the same percentage as the percentage decrease in the amount so made available.
+&emsp;&emsp;If the amount made available under this subchapter for a fiscal year is less than theamount made available under this subchapter for the preceding fiscal year, then the expenditures required by subparagraph (A) for such preceding fiscal year shall be decreased by the same percentage as the percentage decrease in the amount so made available.
 
 #### (2) Level of State expenditures
 
@@ -48,5 +48,5 @@ Subject to appropriations provided pursuant to section 9123 of this title, the D
 
 #### Amendments
 
-<b>1997</b>—Subsec. (c)(1)(A)(i). Pub. L. 105–128 amended second sentence generally. Prior to amendment, second sentence read as follows: “The amount of the reduction in allotment for any fiscal year shall be equal to the amount by which the level of such State expenditures for the fiscal year for which the determination is made is less than the average of the total of such expenditures for the 3 fiscal years preceding the fiscal year for which the determination is made.”
+<b>1997</b>—Subsec. (c)(1)(A)(i). Pub. L. 105–128 amended second sentence generally. Prior to amendment, second sentence read as follows: "The amount of the reduction in allotment for any fiscal year shall be equal to the amount by which the level of such State expenditures for the fiscal year for which the determination is made is less than the average of the total of such expenditures for the 3 fiscal years preceding the fiscal year for which the determination is made."
 

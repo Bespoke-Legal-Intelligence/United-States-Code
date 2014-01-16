@@ -4,9 +4,9 @@
 
 Definitions.—In this section—
 
-&emsp;(1) the term “bankruptcy petition preparer” means a person, other than the debtor's attorney or an employee of such an attorney, who prepares for compensation a document for filing; and
+&emsp;(1) the term "bankruptcy petition preparer" means a person, other than the debtor's attorney or an employee of such an attorney, who prepares for compensation a document for filing; and
 
-&emsp;(2) the term “document for filing” means a petition or any other document prepared for filing by a debtor in a United States bankruptcy court or a United States district court in connection with a case under title 11.
+&emsp;(2) the term "document for filing" means a petition or any other document prepared for filing by a debtor in a United States bankruptcy court or a United States district court in connection with a case under title 11.
 
 (b)
 
@@ -20,7 +20,7 @@ The Federal Rules of Bankruptcy Procedure, referred to in subsec. (b), are set o
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–8, in first par., inserted “(1) the term” before “ ‘bankruptcy petition preparer’ ” and substituted “; and” for period at end and, in second par., inserted “(2) the term” before “ ‘document for filing’ ” and substituted “title 11” for “this title”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–8, in first par., inserted "(1) the term" before " 'bankruptcy petition preparer' "and substituted "; and" for period at end and, in second par., inserted "(2) the term" before " 'document for filing' " and substituted "title 11" for "this title".
 
 #### Effective Date of 2005 Amendment
 

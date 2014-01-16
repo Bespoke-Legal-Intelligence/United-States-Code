@@ -20,7 +20,7 @@
 
 #### (B) Amounts greater than $100,000
 
-&emsp;&emsp;For grant amounts of more than $100,000 and not more than $250,000 provided by the Corporation, the State shall agree to provide matching funds from non-Federal sources of not less than $1 for every $2 provided by the Corporation, in excess of $100,000.
+&emsp;&emsp;For grant amounts of more than $100,000 and not more than $250,000 provided by the Corporation, the State shall agree to provide matching funds from non-Federal sources ofnot less than $1 for every $2 provided by the Corporation, in excess of $100,000.
 
 #### (C) Amounts greater than $250,000
 
@@ -28,7 +28,7 @@
 
 #### (b) Disaster service
 
-The Corporation may undertake activities, including activities carried out through part A of title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.), to involve programsthat receive assistance under the national service laws in disaster relief efforts, and to support, including through mission assignments under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), nonprofit organizations and public agencies responding to the needs of communities experiencing disasters.
+The Corporation may undertake activities, including activities carried out through part A of title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.), to involve programs that receive assistance under the national service laws in disaster relief efforts, and to support, including through mission assignments under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), nonprofit organizations and public agencies responding to the needs of communities experiencing disasters.
 
 #### (c) Challenge grants for national service programs
 
@@ -74,19 +74,19 @@ Section 12580, Pub. L. 101–610, title I, §150, Nov. 16, 1990, 104 Stat. 3156,
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(1). Pub. L. 111–13, §1305(1)(A), substituted “$250,000 and $1,000,000” for “$125,000 and $750,000” and “12681(a)(5)” for “12681(a)(4)”.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–13, §1305(1)(A), substituted "$250,000 and $1,000,000" for "$125,000 and $750,000" and "12681(a)(5)" for "12681(a)(4)".
 
-Subsec. (a)(2), (3). Pub. L. 111–13, §1305(1)(B), added pars. (2) and (3) and struck out former par. (2). Text of former par. (2) read as follows: “Notwithstanding the amounts specified in paragraph (1), the amount of a grant that may be provided to a State Commission under this subsection, together with other Federal funds available to establish or operate the State Commission, may not exceed—
+Subsec. (a)(2), (3). Pub. L. 111–13, §1305(1)(B), added pars. (2) and (3) and struck out former par. (2). Text of former par. (2) read as follows: "Notwithstanding the amounts specified in paragraph (1), the amount of a grant that may be provided to a State Commission under this subsection, together with other Federal funds available to establish or operate the State Commission, may not exceed—
 
-&emsp;“(A) 85 percent of the total cost to establish or operate the State Commission for the first year for which the State Commission receives assistance under this subsection; and
+&emsp;"(A) 85 percent of the total cost to establish or operate the State Commission for the first year for which the State Commission receives assistance under this subsection; and
 
-&emsp;“(B) such smaller percentage of such cost as the Corporation may establish for the second, third, and fourth years of such assistance in order to ensure that the Federal share does not exceed 50 percent of such costs for the fifth year, and any subsequent year, for which the State Commission receives assistance under this subsection.”
+&emsp;"(B) such smaller percentage of such cost as the Corporation may establish for the second, third, and fourth years of such assistance in order to ensure that the Federal share does not exceed 50 percent of such costs for the fifth year, and any subsequent year, for which the State Commission receives assistance under this subsection."
 
-Subsec. (b). Pub. L. 111–13, §1305(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “The Corporation may undertake activities, including activities carried out through part A of title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.), to involve in disaster relief efforts youth corps programs described in section 12572(a)(2) of this title and other programs that receive assistance under the national service laws.”
+Subsec. (b). Pub. L. 111–13, §1305(2), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "The Corporation may undertake activities, including activities carried out through part A of title I of the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4951 et seq.), to involve in disaster relief efforts youth corps programs described in section 12572(a)(2) of this title and other programs that receive assistance under the national service laws."
 
-Subsec. (c)(1). Pub. L. 111–13, §1305(3)(A), substituted “to programs supported under the national service laws” for “to national service programs that receive assistance under section 12571 of this title”.
+Subsec. (c)(1). Pub. L. 111–13, §1305(3)(A), substituted "to programs supported under the national service laws" for "to national service programs that receive assistance under section 12571 of this title".
 
-Subsec. (c)(3). Pub. L. 111–13, §1305(3)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “A challenge grant under this subsection may provide not more than $1 of assistance under this subsection for each $1 in cash raised by the national service program from private sources in excess of amounts required to be provided by the program to satisfy matching funds requirements under section 12571(e) of this title. The Corporation shall establish a ceiling on the amount of assistance that may be provided to a national service program under this subsection.”
+Subsec. (c)(3). Pub. L. 111–13, §1305(3)(B), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "A challenge grant under this subsection may provide not more than $1 of assistance under this subsection for each $1 in cash raised by the national service program from private sources in excess of amounts required to be provided by the program to satisfy matching funds requirements under section 12571(e) of this title. The Corporation shall establish a ceiling on the amount of assistance that may be provided to a national service program under this subsection."
 
 #### Effective Date of 2009 Amendment
 

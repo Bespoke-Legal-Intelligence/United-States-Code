@@ -14,7 +14,7 @@
 
 #### (B) State jurisdiction
 
-&emsp;&emsp;The jurisdiction of the State of New Mexico and local public bodies over the subdivisions and property interests therein shall continue in effect, except that on application of the Pueblo a tract comprised of approximately 35 contiguous, nonsubdivided acres in the northern section of EvergreenHills owned in fee by the Pueblo on February 20, 2003, shall be transferred to the United States and held in trust for the Pueblo by the United States and administered by the Secretary of the Interior.
+&emsp;&emsp;The jurisdiction of the State of New Mexico and local public bodies over the subdivisions and property interests therein shall continue in effect, except that on application of the Pueblo a tract comprised of approximately 35 contiguous, nonsubdivided acres in the northern section of Evergreen Hills owned in fee by the Pueblo on February 20, 2003, shall be transferred to the United States and held in trust for the Pueblo by the United States and administered by the Secretary of the Interior.
 
 #### (3) Limitations on trust land
 
@@ -122,7 +122,7 @@ Those properties not specifically addressed in subsections <sup>1</sup> (a) or 
 
 #### (2) Utility rights-of-way
 
-&emsp;In accordance with the Pueblo having given its consent in the Settlement Agreement, the Secretary of the Interior shall grant irrevocable utility rights-of-way in perpetuity across Pueblo land to appropriate utility or other service providers serving Sandia Heights Addition, Sandia Heights North Units I, II, and 3, the special use permit land, Tierra Monte, and Valley View Acres, including rights-of-way for natural gas, power, water, telecommunications, and cable television services. Such rights-of-way shall be within existing utility corridors as depicted on the map or, for certain water lines, as described in the existing grant of easement to the Sandia Peak Utility Company: <i>Provided</i>, That use of water line easements outside the utility corridors depicted on the map shall not be used for utility purposes other than water lines and associated facilities. Except where above-ground facilities already exist, all new utility facilities shall be installed underground unless the Pueblo agrees otherwise. To the extent that enlargement of existing utility corridors is required for any technologically-advanced telecommunication, television, or utility services, the Pueblo shall not unreasonably withhold agreement to a reasonable enlargement of the easements described above.
+&emsp;In accordance with the Pueblo having given its consent in the Settlement Agreement, the Secretary of the Interior shall grant irrevocable utility rights-of-way in perpetuity across Pueblo land to appropriate utility or other service providers serving Sandia Heights Addition, Sandia Heights North Units I, II, and 3, the special use permit land, Tierra Monte, and Valley View Acres, including rights-of-way for natural gas, power, water, telecommunications, and cable television services. Such rights-of-way shall be within existing utility corridors as depicted on the map or, for certain water lines, as described in the existing grant of easement to the Sandia Peak Utility Company: <i>Provided</i>, That use of water line easements outside the utility corridors depicted on the map shall not be used for utility purposes other than water lines and associated facilities. Except where above-ground facilities already exist, all new utility facilities shall be installed underground unless the Pueblo agrees otherwise. To the extentthat enlargement of existing utility corridors is required for any technologically-advanced telecommunication, television, or utility services, the Pueblo shall not unreasonably withhold agreement to a reasonable enlargement of the easements described above.
 
 #### (3) Forest Service rights-of-way
 
@@ -138,7 +138,7 @@ Those properties not specifically addressed in subsections <sup>1</sup> (a) or 
 
 #### References in Text
 
-Sections 539m to 539m–12 of this title, referred to in subsecs. (a)(3), (b)(2)(C), (d)(3), (e)(1), and (h)(1)(B)(iii), was in the original “this title”, meaning title IV of div. F of Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 279, which is classified generally to sections 539m to 539m–12 of this title. For complete classification of title IV to the Code, see Short Title note set out under section 539m of this title and Tables.
+Sections 539m to 539m–12 of this title, referred to in subsecs. (a)(3), (b)(2)(C), (d)(3), (e)(1), and (h)(1)(B)(iii), was in the original "this title", meaning title IV of div. F of Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 279, which is classified generally to sections 539m to 539m–12 of this title. For complete classification of title IV to the Code, see Short Title note set out under section 539m of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

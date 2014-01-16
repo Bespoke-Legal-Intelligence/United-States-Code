@@ -22,7 +22,7 @@ After notice and opportunity for a hearing, the Secretary is authorized to deleg
 
 &emsp;(1) it is likely that the State will provide adequate resources to achieve the purposes of this chapter;
 
-&emsp;(2) the State has demonstrated that it will effectively and faithfully administer the rulesand regulations of the Secretary under this chapter in accordance with the requirements of subsections (c) and (d) of this section;
+&emsp;(2) the State has demonstrated that it will effectively and faithfully administer the rules and regulations of the Secretary under this chapter in accordance with the requirements of subsections (c) and (d) of this section;
 
 &emsp;(3) such delegation will not create an unreasonable burden on any lessee;
 
@@ -82,9 +82,9 @@ Any State operating pursuant to a delegation existing on August 13, 1996, may co
 
 #### Codification
 
-August 13, 1996, referred to in subsec. (d), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 104–185, which amended this section generally, to reflect the probable intent of Congress.
+August 13, 1996, referred to in subsec. (d), was in the original "the date of enactment of this section", which was translated as meaning the date of enactment of Pub. L. 104–185, which amended this section generally, to reflect the probable intent of Congress.
 
-August 13, 1996, referred to in subsec. (h), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 104–185, which amended this section generally, to reflect the probable intent of Congress.
+August 13, 1996, referred to in subsec. (h), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 104–185, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 

@@ -32,7 +32,7 @@ Notwithstanding any other provision or rule of law, and subject to the provision
 
 #### (D) Revenues
 
-&emsp;&emsp;Damages equal to the net loss of taxes, royalties, rents, fees, or net profit shares due to the injury, destruction, or loss of real property, personal property, or natural resources, which shall be recoverable by the Government of the United States, a State, or a political subdivision thereof.
+&emsp;&emsp;Damages equal to the net loss of taxes, royalties, rents, fees, or net profit shares dueto the injury, destruction, or loss of real property, personal property, or natural resources, which shall be recoverable by the Government of the United States, a State, or a political subdivision thereof.
 
 #### (E) Profits and earning capacity
 
@@ -82,7 +82,7 @@ This subchapter does not apply to any discharge—
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as theOil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 Stat. 484, as amended, known as the Oil Pollution Act of 1990, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 
 The Intervention on the High Seas Act, referred to in subsec. (b)(1)(A), is Pub. L. 93–248, Feb. 5, 1974, 88 Stat. 8, as amended, which is classified generally to chapter 28 (§1471 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1471 of this title and Tables.
 

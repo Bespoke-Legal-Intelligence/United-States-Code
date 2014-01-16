@@ -30,11 +30,11 @@ Mar. 5, 1948, ch. 98, §6, 62 Stat. 68.
 
 Mar. 5, 1948, ch. 98, §11, 62 Stat. 69 (as applicable to the Naval Inspector General).
 
-In subsection (a) the words “In addition to the divisions herein created” are omitted as surplusage. The word “detailed” is added in order to show that the position of the Inspector General is not an appointive office.
+In subsection (a) the words "In addition to the divisions herein created" are omitted as surplusage. The word "detailed" is added in order to show that the position of the Inspector General is not an appointive office.
 
-In subsection (c) the words “from time to time” are omitted as surplusage.
+In subsection (c) the words "from time to time" are omitted as surplusage.
 
-Subsection (d) is worded to make clear that the Naval Inspector General may be designated, under 34 U.S.C. 211d, as an officer who performs unusual or special duty, and, if so designated, is entitled to the grade, pay, and retirement privilege accompanying the special designation. The words “under section 5231 of this title” are substituted for the words “grade, rank, pay, and allowances provided under any provision of law heretofore or hereafter enacted which authorizes such grade, rank, pay, and allowances for officers so designated”.
+Subsection (d) is worded to make clear that the Naval Inspector General may be designated, under 34 U.S.C. 211d, as an officer who performs unusual or special duty, and, if so designated, is entitled to the grade, pay, and retirement privilege accompanying the special designation. The words "under section 5231 of this title" are substituted for the words "grade, rank, pay, and allowances provided under any provision of law heretofore or hereafter enacted which authorizes such grade, rank, pay, and allowances for officers so designated".
 
 #### References in Text
 
@@ -42,13 +42,13 @@ The Inspector General Act of 1978, referred to in subsec. (c), is Pub. L. 95–4
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–433, §511(c)(5)(A), substituted “Office of the Secretary of Navy” for “Office of the Chief of Naval Operations”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–433, §511(c)(5)(A), substituted "Office of the Secretary of Navy" for "Office of the Chief of Naval Operations".
 
 Subsec. (c). Pub. L. 99–433, §511(c)(5)(B), (C), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 99–433, §511(c)(5)(B), redesignated former subsec. (c) as (d) and substituted “Secretary of the Navy” for “Chief of Naval Operations”.
+Subsec. (d). Pub. L. 99–433, §511(c)(5)(B), redesignated former subsec. (c) as (d) and substituted "Secretary of the Navy" for "Chief of Naval Operations".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513, §503(7)(A), substituted “active-duty list” for “active list”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §503(7)(A), substituted "active-duty list" for "active list".
 
 Subsec. (d). Pub. L. 96–513, §503(7)(B), struck out subsec. (d) which authorized the President to designate the Naval Inspector General as an officer who performs special or unusual duty or duty of great importance and responsibility under section 5231 of this title.
 

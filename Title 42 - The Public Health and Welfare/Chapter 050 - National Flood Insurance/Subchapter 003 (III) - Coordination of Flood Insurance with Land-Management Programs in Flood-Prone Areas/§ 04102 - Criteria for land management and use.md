@@ -26,9 +26,9 @@ On the basis of such studies and investigations, and such other information as h
 
 #### Amendments
 
-<b>2012</b>—Subsecs. (a), (c). Pub. L. 112–141 substituted “Administrator” for “Director”.
+<b>2012</b>—Subsecs. (a), (c). Pub. L. 112–141 substituted "Administrator" for "Director".
 
-<b>1983</b>—Subsecs. (a), (c). Pub. L. 98–181 substituted “Director” for “Secretary”.
+<b>1983</b>—Subsecs. (a), (c). Pub. L. 98–181 substituted "Director" for "Secretary".
 
 <b>1969</b>—Subsec. (c). Pub. L. 91–152 substituted provisions requiring development of criteria designed to encourage adoption of adequate State and local measures, for provisions requiring development of criteria designed to encourage adoption of permanent State and local measures.
 

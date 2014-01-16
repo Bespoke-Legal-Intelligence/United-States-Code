@@ -12,7 +12,7 @@ Each Federal agency that is responsible for the protection of historic resources
 
 #### (b) Guidelines
 
-In order to promote the preservation of historic resources on properties eligible for listing in the National Register, the Secretary shall, in consultation with the Council, promulgate guidelines to ensure that Federal, State, and tribal historic preservation programs subject to this subchapter include plans to—
+In order to promote the preservation of historic resources on properties eligible for listingin the National Register, the Secretary shall, in consultation with the Council, promulgate guidelines to ensure that Federal, State, and tribal historic preservation programs subject to this subchapter include plans to—
 
 &emsp;(1) provide information to the owners of properties containing historic (including architectural, curatorial, and archaeological) resources with demonstrated or likely research significance, about the need for protection of such resources, and the available means of protection;
 
@@ -34,11 +34,11 @@ In order to promote the preservation of historic resources on properties eligibl
 
 #### Codification
 
-October 30, 1992, referred to in subsec. (a)(1)(B), was in the original “the date of enactment of this Act” which was translated as meaning the date of enactment of Pub. L. 102–575 which enacted this section, to reflect the probable intent of Congress.
+October 30, 1992, referred to in subsec. (a)(1)(B), was in the original "the date of enactment of this Act" which was translated as meaning the date of enactment of Pub. L. 102–575 which enacted this section, to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b)(3). Pub. L. 106–208 inserted closing parenthesis after “title 25”.
+<b>2000</b>—Subsec. (b)(3). Pub. L. 106–208 inserted closing parenthesis after "title 25".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “give”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "give".</i>
 

@@ -36,7 +36,7 @@ Nov. 5, 1990, Pub. L. 101–508, §9303, 104 Stat. 1388–378.
 
 In this section, the text of 49 App.:2152(c) is omitted as executed.
 
-In subsection (a), the words “(hereinafter in this chapter referred to as the ‘Secretary’)” are omitted because of the restatement. The words “this subchapter” (the first time they appear) are substituted for “the findings, determinations, and provisions of this chapter” to eliminate unnecessary words.
+In subsection (a), the words "(hereinafter in this chapter referred to as the 'Secretary')" are omitted because of the restatement. The words "this subchapter" (the first time they appear) are substituted for "the findings, determinations, and provisions of this chapter" to eliminate unnecessary words.
 
 Subsection (b) is tabulated for clarity.
 

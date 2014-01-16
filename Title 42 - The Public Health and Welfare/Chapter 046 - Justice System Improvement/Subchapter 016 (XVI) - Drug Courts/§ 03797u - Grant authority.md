@@ -24,7 +24,7 @@ The Attorney General may make grants to States, State courts, local courts, unit
 
 #### (b) Limitation
 
-Economic sanctions imposed on an offender pursuant to this section shall not be at a level that would interfere with the offender's rehabilitation.
+Economic sanctions imposed on an offender pursuant to this section shall not be at a levelthat would interfere with the offender's rehabilitation.
 
 #### (c) Mandatory drug testing and mandatory sanctions
 
@@ -76,7 +76,7 @@ Economic sanctions imposed on an offender pursuant to this section shall not be 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–162 substituted “offenders, and other individuals under the jurisdiction of the court, with substance abuse problems” for “offenders with substance abuse problems”.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–162 substituted "offenders, and other individuals under the jurisdiction of the court, with substance abuse problems" for "offenders with substance abuse problems".
 
 Subsec. (c). Pub. L. 109–177 added subsec. (c).
 
@@ -84,23 +84,23 @@ Subsec. (c). Pub. L. 109–177 added subsec. (c).
 
 Pub. L. 107–273, div. B, title II, §2303, Nov. 2, 2002, 116 Stat. 1799, provided that:
 
-“(a)
+"(a)
 
 In General.—The Comptroller General of the United States shall study and assess the effectiveness and impact of grants authorized by part EE of title I of the Omnibus Crime Control and Safe Streets Act of 1968 \[42 U.S.C. 3797u et seq.\] as added by section 2401 \[2301\] and report to Congress the results of the study on or before January 1, 2005.
 
-“(b)
+"(b)
 
 Documents and Information.—The Attorney General and grant recipients shall provide the Comptroller General with all relevant documents and information that the Comptroller General deems necessary to conduct the study under subsection (a), including the identities and criminal records of program participants.
 
-“(c)
+"(c)
 
 Criteria.—In assessing the effectiveness of the grants made under programs authorized by part EE of \[title I of\] the Omnibus Crime Control and Safe Streets Act of 1968 \[42 U.S.C. 3797u et seq.\], the Comptroller General shall consider, among other things—
 
-&emsp;“(1) recidivism rates of program participants;
+&emsp;"(1) recidivism rates of program participants;
 
-&emsp;“(2) completion rates among program participants;
+&emsp;"(2) completion rates among program participants;
 
-&emsp;“(3) drug use by program participants; and
+&emsp;"(3) drug use by program participants; and
 
-&emsp;“(4) the costs of the program to the criminal justice system.”
+&emsp;"(4) the costs of the program to the criminal justice system."
 

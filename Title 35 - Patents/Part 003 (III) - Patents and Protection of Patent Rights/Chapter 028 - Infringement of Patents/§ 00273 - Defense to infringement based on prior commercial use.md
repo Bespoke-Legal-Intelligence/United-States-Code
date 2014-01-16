@@ -58,7 +58,7 @@ Derivation.—A person may not assert a defense under this section if the subjec
 
 &emsp;(3)
 
-Not a general license.—The defense asserted by a person under this section is not a general license under all claims of the patent at issue, but extends only to the specific subject matter for which it has been establishedthat a commercial use that qualifies under this section occurred, except that the defense shall also extend to variations in the quantity or volume of use of the claimed subject matter, and to improvements in the claimed subject matter that do not infringe additional specifically claimed subject matter of the patent.
+Not a general license.—The defense asserted by a person under this section is not a general license under all claims of the patent at issue, but extends only to the specific subject matter for which it has been established that a commercial use that qualifies under this section occurred, except that the defense shall also extend to variations in the quantity or volume of use of the claimed subject matter, and to improvements in the claimed subject matter that do not infringe additional specifically claimed subject matter of the patent.
 
 &emsp;(4)
 
@@ -92,11 +92,11 @@ Invalidity.—A patent shall not be deemed to be invalid under section 102 or 10
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–29, §5(c), Sept. 16, 2011, 125 Stat. 299, provided that: “The amendments made by this section \[amending this section\] shall apply to any patent issued on or after the date of the enactment of this Act \[Sept. 16, 2011\].”
+Pub. L. 112–29, §5(c), Sept. 16, 2011, 125 Stat. 299, provided that: "The amendments made by this section \[amending this section\] shall apply to any patent issued on or after the date of the enactment of this Act \[Sept. 16, 2011\]."
 
 #### Effective Date
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle C, §4303\], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, provided that: “This subtitle \[enacting this section and provisions set out as a note under section 1 of this title\] and the amendments made by this subtitle shall take effect on the date of the enactment of this Act \[Nov. 29, 1999\], but shall not apply to any action for infringement that is pending on such date of enactment or with respect to any subject matter for which an adjudication of infringement, including a consent judgment, has been made before such date of enactment.”
+Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle C, §4303\], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, provided that: "This subtitle \[enacting this section and provisions set out as a note under section 1 of this title\] and the amendments made by this subtitle shall take effect on the date of the enactment of this Act \[Nov. 29, 1999\], but shall not apply to any action for infringement that is pending on such date of enactment or with respect to any subject matter for which an adjudication of infringement, including a consent judgment, has been made before such date of enactment."
 
 <i><sup>1</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
 

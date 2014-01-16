@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director, through the Center for Quality Improvement and Patient Safety of the Agency for Healthcare Research and Quality (referred to in this section as the “Center”), shall award—
+The Director, through the Center for Quality Improvement and Patient Safety of the Agency for Healthcare Research and Quality (referred to in this section as the "Center"), shall award—
 
 &emsp;(1) technical assistance grants or contracts to eligible entities to provide technical support to institutions that deliver health care and health care providers (including rural and urban providers of services and suppliers with limited infrastructure and financial resources to implement and support quality improvement activities, providers of services and suppliers with poor performance scores, and providers of services and suppliers for which there are disparities in care among subgroups of patients) so that such institutions and providers understand, adapt, and implement the models and practices identified in the research conducted by the Center, including the Quality Improvement Networks Research Program; and
 
@@ -30,7 +30,7 @@ The Director, through the Center for Quality Improvement and Patient Safety of t
 
 #### (1) Technical assistance award
 
-&emsp;To receive a technical assistance grant or contract under subsection (a)(1), an eligible entity shall submit an application to the Secretary at such time, in such manner, and containing—
+&emsp;To receive a technical assistance grant or contract under subsection (a)(1), an eligibleentity shall submit an application to the Secretary at such time, in such manner, and containing—
 
 &emsp;&emsp;(A) a plan for a sustainable business model that may include a system of—
 
@@ -86,7 +86,7 @@ A prior section 934 of act July 1, 1944, was renumbered section 944 and is class
 
 <b>2010</b>—Subsecs. (b)(1)(A), (f). Pub. L. 111–148, §10501(f)(3), made technical amendment to reference in original act which appears in text as reference to section 280g–12 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “a timeline”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "a timeline".</i>
 

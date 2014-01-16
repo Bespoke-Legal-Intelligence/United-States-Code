@@ -98,7 +98,7 @@ Reasonable charges.—A plan sponsor may charge a reasonable fee for any informa
 
 &emsp;(vii) to require the plan sponsor, the plan administrator, any contributing or withdrawn employer, and any employee organization representing plan participants to furnish any information with respect to the plan which the trustee may reasonably need in order to administer the plan.
 
-> If the court to which application is made under subsection (c) of this section dismisses the application with prejudice, or if the corporation fails to apply for a decree under subsection (c) of this section, within 30 days after the date on which the trustee is appointed under subsection (b) of this section, the trustee shall transfer all assets and records of the plan held by him to the plan administrator within 3 business days after such dismissal or the expiration of such 30-day period, and shall not be liable to the plan or any other person for his acts as trustee except for willful misconduct, or for conduct in violation of the provisions of part 4 of subtitle B of subchapter I of this chapter (except as provided in subsection (d)(1)(A)(v) of this section). The 30-day period referred to in this subparagraph may be extended as provided by agreement between the plan administrator and the corporation or by court order obtained by the corporation.
+> If the court to which application is made under subsection (c) of this section dismisses the application with prejudice, or if the corporation fails to apply for a decree under subsection (c) of this section, within 30 days after the date on which the trustee is appointed under subsection (b) ofthis section, the trustee shall transfer all assets and records of the plan held by him to the plan administrator within 3 business days after such dismissal or the expiration of such 30-day period, and shall not be liable to the plan or any other person for his acts as trustee except for willful misconduct, or for conduct in violation of the provisions of part 4 of subtitle B of subchapter I of this chapter (except as provided in subsection (d)(1)(A)(v) of this section). The 30-day period referred to in this subparagraph may be extended as provided by agreement between the plan administrator and the corporation or by court order obtained by the corporation.
 
 (B) If the court to which an application is made under subsection (c) of this section issues the decree requested in such application, in addition to the powers described in subparagraph (A), the trustee shall have the power—
 
@@ -118,7 +118,7 @@ Reasonable charges.—A plan sponsor may charge a reasonable fee for any informa
 
 &emsp;(viii) to do such other acts as may be necessary to comply with this subchapter or any order of the court and to protect the interests of plan participants and beneficiaries.
 
-(2) As soon as practicable after his appointment, the trustee shall give notice to interested parties of the institution of proceedings under this subchapter to determine whether the plan should be terminated or to terminate the plan, whichever is applicable. For purposes of this paragraph, the term “interested party” means—
+(2) As soon as practicable after his appointment, the trustee shall give notice to interested parties of the institution of proceedings under this subchapter to determine whether the plan should be terminated or to terminate the plan, whichever is applicable. For purposes of this paragraph, the term "interested party" means—
 
 &emsp;(A) the plan administrator,
 
@@ -136,7 +136,7 @@ Reasonable charges.—A plan sponsor may charge a reasonable fee for any informa
 
 #### (e) Filing of application notwithstanding pendency of other proceedings
 
-An application by the corporation under this section may be filed notwithstanding the pendency in the same or any other court of any bankruptcy, mortgage foreclosure, or equity receivership proceeding, or any proceeding to reorganize, conserve, or liquidate such plan or itsproperty, or any proceeding to enforce a lien against property of the plan.
+An application by the corporation under this section may be filed notwithstanding the pendency in the same or any other court of any bankruptcy, mortgage foreclosure, or equity receivership proceeding, or any proceeding to reorganize, conserve, or liquidate such plan or its property, or any proceeding to enforce a lien against property of the plan.
 
 #### (f) Exclusive jurisdiction; stay of other proceedings
 
@@ -152,61 +152,61 @@ An action under this subsection may be brought in the judicial district where th
 
 (2) Trustees shall appoint, retain, and compensate accountants, actuaries, and other professional service personnel in accordance with regulations prescribed by the corporation.
 
-(Pub. L. 93–406, title IV, §4042, Sept. 2, 1974, 88 Stat. 1021; Pub. L. 95–598, title III, §321(a), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–364, title IV, §402(a)(6), Sept. 26, 1980, 94 Stat. 1298; Pub. L. 99–272, title XI, §§11010, 11016(c)(10), (11), Apr. 7, 1986, 100 Stat. 253, 274; Pub. L. 100–203, title IX, §§9312(c)(3), 9314(b), 9314(b), Dec. 22, 1987, 101 Stat. 1330–363, 1330–366, 1330–367; Pub. L. 101–239, title VII, §§7881(g)(7), 7891(a)(1), 7893(e), Dec. 19, 1989, 103 Stat. 2441, 2445, 2447; Pub. L. 103–465, title VII, §771(e)(2), Dec. 8, 1994, 108 Stat. 5043; Pub. L. 109–280, title V, §506(b), Aug. 17, 2006, 120 Stat. 947; Pub. L. 110–458, title I, §105(e)(2), Dec. 23, 2008, 122 Stat. 5105.)
+(Pub. L. 93–406, title IV, §4042, Sept. 2, 1974, 88 Stat. 1021; Pub. L. 95–598, title III, §321(a), Nov. 6, 1978, 92 Stat. 2678; Pub. L. 96–364, title IV, §402(a)(6), Sept. 26, 1980, 94 Stat. 1298; Pub. L.99–272, title XI, §§11010, 11016(c)(10), (11), Apr. 7, 1986, 100 Stat. 253, 274; Pub. L. 100–203, title IX, §§9312(c)(3), 9314(b), 9314(b), Dec. 22, 1987, 101 Stat. 1330–363, 1330–366, 1330–367; Pub. L. 101–239, title VII, §§7881(g)(7), 7891(a)(1), 7893(e), Dec. 19, 1989, 103 Stat. 2441, 2445, 2447; Pub. L. 103–465, title VII, §771(e)(2), Dec. 8, 1994, 108 Stat. 5043; Pub. L. 109–280, title V, §506(b), Aug. 17, 2006, 120 Stat. 947; Pub. L. 110–458, title I, §105(e)(2), Dec. 23, 2008, 122 Stat. 5105.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(3), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (d)(3), was in the original "this Act", meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(3)(C)(i). Pub. L. 110–458 substituted “, the plan sponsor, or the corporation” for “and plan sponsor” and “subparagraph (A)” for “subparagraph (A)(i)”.
+<b>2008</b>—Subsec. (c)(3)(C)(i). Pub. L. 110–458 substituted ", the plan sponsor, or the corporation" for "and plan sponsor" and "subparagraph (A)" for "subparagraph (A)(i)".
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–280 designated first par. as par. (1), redesignated par. (3) as (2), and added a new par. (3).
 
-<b>1994</b>—Subsec. (a)(3). Pub. L. 103–465 substituted “1343(c)(7)” for “1343(b)(7)”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–465 substituted "1343(c)(7)" for "1343(b)(7)".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7893(e), inserted period after “terms of the plan” at end of second sentence.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7893(e), inserted period after "terms of the plan" at end of second sentence.
 
 Pub. L. 101–239, §7881(g)(7), made technical correction to directory language of Pub. L. 100–203, §9314(b), see 1987 Amendment note below.
 
-Subsecs. (a)(1), (d)(3). Pub. L. 101–239, §7891(a)(1), substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+Subsecs. (a)(1), (d)(3). Pub. L. 101–239, §7891(a)(1), substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–203, §9314(b), as amended by Pub. L. 101–239, §7881(g)(7), amended last sentence generally. Prior to amendment, last sentence read as follows: “The corporation is authorized to pool the assets of terminated plans for purposes of administration and such other purposes, not inconsistent with its duties to the plan participants and the employer maintaining the plan under this subchapter, as it determines to be required for the efficient administration of this subchapter.” Another section 9314(b) of Pub. L. 100–203 amended subsec. (c) of this section, see below.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §9314(b), as amended by Pub. L. 101–239, §7881(g)(7), amended last sentence generally. Prior to amendment, last sentence read as follows: "The corporation is authorized to pool the assets of terminated plans for purposes of administration and such other purposes, not inconsistent with its duties to the plan participants and the employer maintaining the plan under this subchapter, as it determines to be required for the efficient administration of this subchapter." Another section 9314(b) of Pub. L. 100–203 amended subsec. (c) of this section, see below.
 
 Subsec. (c)(3). Pub. L. 100–203, §9314(b), added par. (3). Another section 9314(b) of Pub. L. 100–203 amended subsec. (a) of this section, see above.
 
-Subsec. (i). Pub. L. 100–203, §9312(c)(3), struck out subsec. (i) which read as follows: “In any case in which a plan is terminated under this section in a termination proceeding initiated by the corporation pursuant to subsection (a) of this section, the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title, unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title or that there is no amount of unfunded benefit commitments under the plan.”
+Subsec. (i). Pub. L. 100–203, §9312(c)(3), struck out subsec. (i) which read as follows: "In any case in which a plan is terminated under this section in a termination proceeding initiated by the corporation pursuant to subsection (a) of this section, the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title, unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title or that there is no amount of unfunded benefit commitments under the plan."
 
-<b>1986</b>—Pub. L. 99–272, §11010(c), substituted “Institution of termination proceedings by the corporation” for “Termination by corporation” in section catchline.
+<b>1986</b>—Pub. L. 99–272, §11010(c), substituted "Institution of termination proceedings by the corporation" for "Termination by corporation" in section catchline.
 
 Subsec. (a). Pub. L. 99–272, §11010(a)(1)(B), in provision following par. (4) inserted provision that the corporation as soon as practicable institute proceedings under this section to terminate a single-employer plan whenever the corporation determines that the plan does not have assets available to pay benefits currently due under the terms of the plan.
 
-Subsec. (a)(2). Pub. L. 99–272, §11010(a)(1)(A), substituted “will be” for “is”.
+Subsec. (a)(2). Pub. L. 99–272, §11010(a)(1)(A), substituted "will be" for "is".
 
-Subsec. (b)(1). Pub. L. 99–272, §11010(a)(2)(A), inserted “or is required under subsection (a) of this section to institute proceedings under this section,”.
+Subsec. (b)(1). Pub. L. 99–272, §11010(a)(2)(A), inserted "or is required under subsection (a) of this section to institute proceedings under this section,".
 
-Subsec. (c). Pub. L. 99–272, §11010(a)(2)(B), substituted “is required under subsection (a) of this section to commence proceedings under this section with respect to a plan or, after issuing a notice under this section to a plan administrator,” for “has issued a notice under this section to a plan administrator and (whether or not a trustee has been appointed under subsection (b) of this section)”.
+Subsec. (c). Pub. L. 99–272, §11010(a)(2)(B), substituted "is required under subsection (a) of this section to commence proceedings under this section with respect to a plan or, after issuing a notice under this section to a plan administrator," for "has issued a notice under this section to a plan administrator and (whether or not a trustee has been appointed under subsection (b) of this section)".
 
-Subsec. (d)(1)(B)(ii). Pub. L. 99–272, §11016(c)(10), inserted “, including but not limited to the power to collect from the persons obligated to meet the requirements of section 1082 of this title or the terms of the plan”.
+Subsec. (d)(1)(B)(ii). Pub. L. 99–272, §11016(c)(10), inserted ", including but not limited to the power to collect from the persons obligated to meet the requirements of section 1082 of this title or the terms of the plan".
 
-Subsec. (d)(3). Pub. L. 99–272, §11016(c)(11), substituted “those of a trustee under section 704 of title 11” for “a trustee appointed under section 75 of title 11”.
+Subsec. (d)(3). Pub. L. 99–272, §11016(c)(11), substituted "those of a trustee under section 704 of title 11" for "a trustee appointed under section 75 of title 11".
 
 Subsec. (i). Pub. L. 99–272, §11010(b), added subsec. (i).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–364, §402(a)(6)(A), substituted “terminated plans” for “such small plans”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–364, §402(a)(6)(A), substituted "terminated plans" for "such small plans".
 
 Subsec. (b). Pub. L. 96–364, §402(a)(6)(B), redesignated existing provisions as par. (1) and added pars. (2) and (3).
 
-Subsec. (c). Pub. L. 96–364, §402(a)(6)(C), (D), substituted “unreasonable” for “further” wherever appearing, and “of the participants or” for “of the participants and”.
+Subsec. (c). Pub. L. 96–364, §402(a)(6)(C), (D), substituted "unreasonable" for "further" wherever appearing, and "of the participants or" for "of the participants and".
 
 Subsec. (d)(1)(A). Pub. L. 96–364, §402(a)(6)(E), added cls. (v) and (vii) and redesignated former cl. (v) as (vi).
 
-Subsec. (d)(1)(B). Pub. L. 96–364, §402(a)(6)(F), (G), in cl. (i) substituted “requirements of this subchapter” for “allocation requirements of section 1344 of this title”, and in cl. (iv) struck out exception respecting adverse party status of corporation.
+Subsec. (d)(1)(B). Pub. L. 96–364, §402(a)(6)(F), (G), in cl. (i) substituted "requirements of this subchapter" for "allocation requirements of section 1344 of this title", and in cl. (iv) struck out exception respecting adverse party status of corporation.
 
 Subsec. (d)(2)(D) to (F). Pub. L. 96–364, §402(a)(6)(H)–(J), added subpars. (D) to (F).
 
-<b>1978</b>—Subsec. (f). Pub. L. 95–598 substituted “of a court of the United States having jurisdiction over cases under chapter 11 of title 11” for “of a court of bankruptcy and of a court in a proceeding under chapter X of the Bankruptcy Act” in first sentence and struck out “bankruptcy,” before “mortgage foreclosure” in second sentence.
+<b>1978</b>—Subsec. (f). Pub. L. 95–598 substituted "of a court of the United States having jurisdiction over cases under chapter 11 of title 11" for "of a court of bankruptcy and of a court in a proceeding under chapter X of the Bankruptcy Act" in first sentence and struck out "bankruptcy," before "mortgage foreclosure" in second sentence.
 
 #### Effective Date of 2008 Amendment
 
@@ -218,13 +218,13 @@ Amendment by Pub. L. 109–280 applicable to any plan termination under this sub
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–465, title VII, §771(f), Dec. 8, 1994, 108 Stat. 5043, provided that: “The amendments made by this section \[amending this section and section 1343 of this title\] shall be effective for events occurring 60 days or more after the date of enactment of this Act \[Dec. 8, 1994\].”
+Pub. L. 103–465, title VII, §771(f), Dec. 8, 1994, 108 Stat. 5043, provided that: "The amendments made by this section \[amending this section and section 1343 of this title\] shall be effective for events occurring 60 days or more after the date of enactment of this Act \[Dec. 8, 1994\]."
 
 #### Effective Date of 1989 Amendment
 
 Amendment by section 7881(g)(7) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Amendment by section 7893(e) of Pub. L. 101–239 effective as if included in the provision of the Single-Employer Pension Plan Amendments Act of 1986, Pub. L. 99–272, title XI, to which such amendment relates, see section 7893(h) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

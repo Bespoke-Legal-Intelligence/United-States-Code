@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The President shall establish, within the Department of Health and Human Services, a council to be known as the “National Prevention, Health Promotion and Public Health Council” (referred to in this section as the “Council”).
+The President shall establish, within the Department of Health and Human Services, a council to be known as the "National Prevention, Health Promotion and Public Health Council" (referred to in this section as the "Council").
 
 #### (b) Chairperson
 
@@ -64,7 +64,7 @@ The Council shall meet at the call of the Chairperson.
 
 #### (1) In general
 
-&emsp;The President shall establish an Advisory Group to the Council to be known as the “Advisory Group on Prevention, Health Promotion, and Integrative and Public Health” (hereafter referred to in this section as the “Advisory Group”). The Advisory Group shall be within the Department of Health and Human Services and report to the Surgeon General.
+&emsp;The President shall establish an Advisory Group to the Council to be known as the "Advisory Group on Prevention, Health Promotion, and Integrative and Public Health" (hereafter referred to in this section as the "Advisory Group"). The Advisory Group shall be within the Department of Health and Human Services and report to the Surgeon General.
 
 #### (2) Composition
 
@@ -98,7 +98,7 @@ The Council shall meet at the call of the Chairperson.
 
 Not later than 1 year after March 23, 2010, the Chairperson, in consultation with the Council, shall develop and make public a national prevention, health promotion and public health strategy, and shall review and revise such strategy periodically. Such strategy shall—
 
-&emsp;(1) set specific goals and objectives for improving the health of the United States through federally-supported prevention, health promotion, and public health programs, consistent with ongoing goal setting efforts conducted by specific agencies;
+&emsp;(1) set specific goals and objectives for improving the health of the United States through federally-supported prevention, health promotion, and public health programs,consistent with ongoing goal setting efforts conducted by specific agencies;
 
 &emsp;(2) establish specific and measurable actions and timelines to carry out the strategy, and determine accountability for meeting those timelines, within and across Federal departments and agencies; and
 
@@ -124,7 +124,7 @@ Not later than July 1, 2010, and annually thereafter through January 1, 2015, th
 
 #### (i) Periodic reviews
 
-The Secretary and the Comptroller General of the United States shall jointly conduct periodic reviews, not less than every 5 years, and evaluations of every Federal disease prevention and health promotion initiative, program, and agency. Such reviews shall be evaluated based on effectiveness in meeting metrics-based goals with an analysis posted on such agencies’ public Internet websites.
+The Secretary and the Comptroller General of the United States shall jointly conduct periodic reviews, not less than every 5 years, and evaluations of every Federal disease prevention and health promotion initiative, program, and agency. Such reviews shall be evaluated based on effectiveness in meeting metrics-based goals with an analysis posted on such agencies' public Internet websites.
 
 (Pub. L. 111–148, title IV, §4001, title X, §10401(a), Mar. 23, 2010, 124 Stat. 538, 974.)
 
@@ -134,7 +134,7 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
 #### Amendments
 
-<b>2010</b>—Subsec. (h)(4), (5). Pub. L. 111–148, §10401(a), substituted “2020” for “2010”.
+<b>2010</b>—Subsec. (h)(4), (5). Pub. L. 111–148, §10401(a), substituted "2020" for "2010".
 
 #### Ex. Ord. No. 13544. Establishing the National Prevention, Health Promotion, and Public Health Council
 
@@ -186,7 +186,7 @@ Sec. 3. <i>Purposes and Duties</i>. The Council shall:
 
 (d) consider and propose evidence-based models, policies, and innovative approaches for the promotion of transformative models of prevention, integrative health, and public health on individual and community levels across the United States;
 
-(e) establish processes for continual public input, including input from State, regional, and local leadership communities and other relevant stakeholders, including Indian tribes and tribal organizations;
+(e) establish processes for continual public input, including input from State, regional, and local leadershipcommunities and other relevant stakeholders, including Indian tribes and tribal organizations;
 
 (f) submit the reports required by section 6 of this order; and
 
@@ -262,7 +262,9 @@ Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health
 
-Term of the Advisory Group on Prevention, Health Promotion, and Integrative and Public Health extended until Sept. 30, 2012, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health extended until Sept. 30, 2012, by Ex. Ord. No. 13591, Nov. 23, 2011, 76 F.R. 74623, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+For extensions of Advisory Group after its reestablishment, see table following Ex. Ord. No. 13631, set out below.
 
 #### Ex. Ord. No. 13631. Reestablishment of Advisory Group
 
@@ -270,7 +272,7 @@ Ex. Ord. No. 13631, Dec. 7, 2012, 77 F.R. 74101, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 4001 of the Patient Protection and Affordable Care Act (Public Law 111–148), 42 U.S.C. 300u–10, it is hereby ordered as follows:
 
-Section 1. <i>Reestablishing the Advisory Group on Prevention, Health Promotion, and Integrative and Public Health</i>. The Advisory Group on Prevention, Health Promotion, and Integrative and Public Health (Advisory Group), as set forth under the provisions of Executive Order 13544 of June 10, 2010, and continued by section 2 of Executive Order 13591 of November 23, 2011, is hereby reestablished and shall terminate on September 30, 2013, unless extended by the President. The same members who were serving on the Advisory Group on September 30, 2012, are hereby reappointed to the Advisory Group as reestablished by this order, as if the Advisory Group had continued without termination through the date of this Executive Order.
+Section 1. <i>Reestablishing the Advisory Group on Prevention, Health Promotion, and Integrative and Public Health</i>. The Advisory Group on Prevention, Health Promotion, and Integrative and Public Health (Advisory Group), as set forth under the provisions of Executive Order 13544of June 10, 2010, and continued by section 2 of Executive Order 13591 of November 23, 2011, is hereby reestablished and shall terminate on September 30, 2013, unless extended by the President. The same members who were serving on the Advisory Group on September 30, 2012, are hereby reappointed to the Advisory Group as reestablished by this order, as if the Advisory Group had continued without termination through the date of this Executive Order.
 
 Sec. 2. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 
@@ -282,5 +284,9 @@ Sec. 2. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(h);”.</i>
+#### Extension of Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health
+
+Term of Advisory Group on Prevention, Health Promotion, and Integrative and Public Health extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "(h);".</i>
 

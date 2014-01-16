@@ -14,7 +14,7 @@ The provisions of subsections (a) and (b) of this section shall not apply to any
 
 #### (d) Suits for damages
 
-The penalties provided in subsections (a) and (b) of this section for the breaking or injury ofany submarine electric transmission cable or equipment shall not be a bar to a suit for damages on account of such breaking or injury.
+The penalties provided in subsections (a) and (b) of this section for the breaking or injury of any submarine electric transmission cable or equipment shall not be a bar to a suit for damages on account of such breaking or injury.
 
 #### (e) Indemnity
 
@@ -28,5 +28,5 @@ Any licensee who causes any break in or injury to any submarine cable or pipelin
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (b), and (e), was in the original “this Act”, meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
+This chapter, referred to in subsecs. (a), (b), and (e), was in the original "this Act", meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
 

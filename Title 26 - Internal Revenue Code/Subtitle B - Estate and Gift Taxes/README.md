@@ -21,7 +21,7 @@
 
 <b>1990</b>—Pub. L. 101–508, title XI, §11602(c), Nov. 5, 1990, 104 Stat. 1388–500, added item for chapter 14.
 
-<b>1986</b>—Pub. L. 99–514, title XIV, §1431(b), Oct. 22, 1986, 100 Stat. 2729, struck out “certain” after “Tax on” in item for chapter 13.
+<b>1986</b>—Pub. L. 99–514, title XIV, §1431(b), Oct. 22, 1986, 100 Stat. 2729, struck out "certain" after "Tax on" in item for chapter 13.
 
 <b>1976</b>—Pub. L. 94–455, title XX, §2006(b)(1), Oct. 4, 1976, 90 Stat. 1888, added item for chapter 13.
 

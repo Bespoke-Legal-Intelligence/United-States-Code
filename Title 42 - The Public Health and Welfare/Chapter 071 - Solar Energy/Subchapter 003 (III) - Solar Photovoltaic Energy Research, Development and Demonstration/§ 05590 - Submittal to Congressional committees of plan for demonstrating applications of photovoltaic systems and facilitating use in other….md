@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–82 struck out “the Director of ACTION,” after “International Development,”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–82 struck out "the Director of ACTION," after "International Development,".
 
 #### Change of Name
 

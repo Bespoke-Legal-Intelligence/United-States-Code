@@ -6,7 +6,7 @@ The Secretary, acting through the Bureau, shall be responsible for providing, or
 
 #### (b) Office of Justice Services
 
-There is established in the Bureau an office, to be known as the “Office of Justice Services”, that, under the supervision of the Secretary, or an individual designated by the Secretary, shall be responsible for—
+There is established in the Bureau an office, to be known as the "Office of Justice Services", that, under the supervision of the Secretary, or an individual designated by the Secretary, shall be responsible for—
 
 &emsp;(1) carrying out the law enforcement functions of the Secretary in Indian country, and
 
@@ -36,13 +36,13 @@ Subject to the provisions of this chapter and other applicable Federal or tribal
 
 &emsp;(10) the development and provision of dispatch and emergency and E–911 services;
 
-&emsp;(11) communicating with tribal leaders, tribal community and victims’ advocates, tribal justice officials, indigent defense representatives, and residents of Indian country on a regular basis regarding public safety and justice concerns facing tribal communities;
+&emsp;(11) communicating with tribal leaders, tribal community and victims' advocates, tribal justice officials, indigent defense representatives, and residents of Indian country on a regular basis regarding public safety and justice concerns facing tribal communities;
 
 &emsp;(12) conducting meaningful and timely consultation with tribal leaders and tribal justice officials in the development of regulatory policies and other actions that affect public safety and justice in Indian country;
 
 &emsp;(13) providing technical assistance and training to tribal law enforcement officials to gain access and input authority to utilize the National Criminal Information Center and other national crime information databases pursuant to section 534 of title 28;
 
-&emsp;(14) in coordination with the Attorney General pursuant to subsection (g) of section 3732 of title 42, collecting, analyzing, and reporting data regarding Indian country crimes on an annual basis;
+&emsp;(14) in coordination with the Attorney General pursuant to subsection (g) of section 3732 of title 42, collecting, analyzing, and reportingdata regarding Indian country crimes on an annual basis;
 
 &emsp;(15) on an annual basis, sharing with the Department of Justice all relevant crime data, including Uniform Crime Reports, that the Office of Justice Services prepares and receives from tribal law enforcement agencies on a tribe-by-tribe basis to ensure that individual tribal governments providing data are eligible for programs offered by the Department of Justice;
 
@@ -148,31 +148,31 @@ Public Law 93–638 and the Indian Self-Determination and Education Assistance A
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–211, §211(b)(1), inserted heading and substituted “There is established in the Bureau an office, to be known as the ‘Office of Justice Services’, that” for “There is hereby established within the Bureau a Division of Law Enforcement Services which” in introductory provisions.
+<b>2010</b>—Subsec. (b). Pub. L. 111–211, §211(b)(1), inserted heading and substituted "There is established in the Bureau an office, to be known as the 'Office of Justice Services', that" for "There is hereby established within the Bureau a Division of Law Enforcement Services which" in introductory provisions.
 
-Subsec. (c). Pub. L. 111–211, §211(b)(2)(A), substituted “Office of Justice Services” for “Division of Law Enforcement Services” in introductory provisions.
+Subsec. (c). Pub. L. 111–211, §211(b)(2)(A), substituted "Office of Justice Services" for "Division of Law Enforcement Services" in introductory provisions.
 
-Subsec. (c)(9). Pub. L. 111–211, §262, inserted before semicolon “, including training to properly interview victims of domestic and sexual violence and to collect, preserve, and present evidence to Federal and tribal prosecutors to increase the conviction rate for domestic and sexual violence offenses for purposes of addressing and preventing domestic and sexual violent offenses”.
+Subsec. (c)(9). Pub. L. 111–211, §262, inserted before semicolon ", including training to properly interview victims of domestic and sexual violence and to collect, preserve, and present evidence to Federal and tribal prosecutors to increase the conviction rate for domestic and sexual violence offenses for purposes of addressing and preventing domestic and sexual violent offenses".
 
 Subsec. (c)(10) to (18). Pub. L. 111–211, §211(b)(2)(B)–(D), added pars. (10) to (18).
 
-Subsec. (d)(1). Pub. L. 111–211, §211(b)(3)(A), substituted “Office of Justice Services” for “Division of Law Enforcement Services”.
+Subsec. (d)(1). Pub. L. 111–211, §211(b)(3)(A), substituted "Office of Justice Services" for "Division of Law Enforcement Services".
 
-Subsec. (d)(4)(i). Pub. L. 111–211, §211(b)(3)(B), substituted “Office of Justice Services” for “Division”.
+Subsec. (d)(4)(i). Pub. L. 111–211, §211(b)(3)(B), substituted "Office of Justice Services" for "Division".
 
 Subsec. (e). Pub. L. 111–211, §231(a)(1)(A), inserted heading.
 
-Pub. L. 111–211, §211(b)(4), substituted “Office of Justice Services” for “Division of Law Enforcement Services” in pars. (1) to (3).
+Pub. L. 111–211, §211(b)(4), substituted "Office of Justice Services" for "Division of Law Enforcement Services" in pars. (1) to (3).
 
 Subsec. (e)(1). Pub. L. 111–211, §231(a)(1), inserted heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpars. (B) to (D).
 
-Subsec. (e)(3). Pub. L. 111–211, §231(a)(2), substituted “agencies” for “Agencies”.
+Subsec. (e)(3). Pub. L. 111–211, §231(a)(2), substituted "agencies" for "Agencies".
 
 Subsec. (e)(4). Pub. L. 111–211, §231(a)(3), added par. (4).
 
 Subsec. (f). Pub. L. 111–211, §211(b)(5), added subsec. (f).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subchapter B of chapter I of title 25,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subchapter B of chapter I of title 25,".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 

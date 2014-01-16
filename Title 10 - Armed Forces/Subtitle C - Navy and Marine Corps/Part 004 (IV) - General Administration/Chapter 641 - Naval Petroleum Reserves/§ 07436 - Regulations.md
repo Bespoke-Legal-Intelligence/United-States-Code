@@ -20,9 +20,9 @@ Historical and Revision Notes
 
 June 4, 1920, ch. 228 (9th par. of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, §1, 52 Stat. 1254; June 17, 1944, ch. 262, 58 Stat. 281.
 
-In subsection (a) the words “necessary rules and” are omitted as surplusage, and the words “to take any proper action” are substituted for the words “to do any and all things necessary or proper” for brevity.
+In subsection (a) the words "necessary rules and" are omitted as surplusage, and the words "to take any proper action" are substituted for the words "to do any and all things necessary or proper" for brevity.
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–258 struck out “of the Navy, subject to approval by the President,” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–258 struck out "of the Navy, subject to approval by the President," after "Secretary".
 

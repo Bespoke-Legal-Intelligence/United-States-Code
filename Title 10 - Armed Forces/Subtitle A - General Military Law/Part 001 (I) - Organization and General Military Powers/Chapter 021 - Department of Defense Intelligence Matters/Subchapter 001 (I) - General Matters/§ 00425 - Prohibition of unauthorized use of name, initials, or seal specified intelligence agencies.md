@@ -4,19 +4,19 @@
 
 Prohibition.—Except with the written permission of both the Secretary of Defense and the Director of National Intelligence, no person may knowingly use, in connection with any merchandise, retail product, impersonation, solicitation, or commercial activity in a manner reasonably calculated to convey the impression that such use is approved, endorsed, or authorized by the Secretary and the Director, any of the following (or any colorable imitation thereof):
 
-&emsp;(1) The words “Defense Intelligence Agency”, the initials “DIA”, or the seal of the Defense Intelligence Agency.
+&emsp;(1) The words "Defense Intelligence Agency", the initials "DIA", or the seal of the Defense Intelligence Agency.
 
-&emsp;(2) The words “National Reconnaissance Office”, the initials “NRO”, or the seal of the National Reconnaissance Office.
+&emsp;(2) The words "National Reconnaissance Office", the initials "NRO", or the seal of the National Reconnaissance Office.
 
-&emsp;(3) The words “National Imagery and Mapping Agency”, the initials “NIMA”, or the seal of the National Imagery and Mapping Agency.
+&emsp;(3) The words "National Imagery and Mapping Agency", the initials "NIMA", or the seal of the National Imagery and Mapping Agency.
 
-&emsp;(4) The words “Defense Mapping Agency”, the initials “DMA”, or the seal of the Defense Mapping Agency.
+&emsp;(4) The words "Defense Mapping Agency", the initials "DMA", or the seal of the Defense Mapping Agency.
 
-&emsp;(5) The words “National Geospatial-Intelligence Agency”, the initials “NGA,” or the seal of the National Geospatial-Intelligence Agency.
+&emsp;(5) The words "National Geospatial-Intelligence Agency", the initials "NGA," or the seal of the National Geospatial-Intelligence Agency.
 
 (b)
 
-Authority To Enjoin Violations.—Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoin such act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other actions as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
+Authority To Enjoin Violations.—Whenever it appears to the Attorney General that any person is engaged or is about to engage in an act or practice which constitutes or will constitute conduct prohibited by subsection (a), the Attorney General may initiate a civil proceeding in a district court of the United States to enjoinsuch act or practice. Such court shall proceed as soon as practicable to the hearing and determination of such action and may, at any time before final determination, enter such restraining orders or prohibitions, or take such other actions as is warranted, to prevent injury to the United States or to any person or class of persons for whose protection the action is brought.
 
 (Added and amended Pub. L. 105–107, title V, §503(a), (b), Nov. 20, 1997, 111 Stat. 2262; Pub. L. 108–136, div. A, title IX, §921(d)(6), Nov. 24, 2003, 117 Stat. 1569; Pub. L. 110–181, div. A, title IX, §931(a)(6), Jan. 28, 2008, 122 Stat. 285; Pub. L. 110–417, \[div. A\], title IX, §932(a)(6), Oct. 14, 2008, 122 Stat. 4576; Pub. L. 111–84, div. A, title X, §1073(c)(10), Oct. 28, 2009, 123 Stat. 2475.)
 
@@ -32,7 +32,7 @@ A prior section 425, added Pub. L. 103–178, title V, §503(a)(1), Dec. 3, 1993
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–84 repealed Pub. L. 110–417, §932(a)(6). See 2008 Amendment note below.
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181 and Pub. L. 110–417, §932(a)(6), amended subsec. (a) identically, substituting “Director of National Intelligence” for “Director of Central Intelligence” in introductory provisions. Pub. L. 110–417, §932(a)(6), was repealed by Pub. L. 111–84.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 and Pub. L. 110–417, §932(a)(6), amended subsec. (a) identically, substituting "Director of National Intelligence" for "Director of Central Intelligence" in introductory provisions. Pub. L. 110–417, §932(a)(6), was repealed by Pub. L. 111–84.
 
 <b>2003</b>—Subsec. (a)(5). Pub. L. 108–136 added par. (5).
 

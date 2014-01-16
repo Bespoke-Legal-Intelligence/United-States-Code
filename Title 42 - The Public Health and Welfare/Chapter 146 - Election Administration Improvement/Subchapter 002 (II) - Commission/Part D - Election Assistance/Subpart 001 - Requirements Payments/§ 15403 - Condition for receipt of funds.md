@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State is eligible to receive a requirements payment for a fiscal year if the chief executive officer of the State, or designee, in consultation and coordination with the chief State election official, has filed with the Commission a statement certifying that the State is in compliance with the requirements referred to in subsection (b) of this section. A State may meet the requirement of the previous sentence by filing with the Commission a statement which reads as follows: “\_\_\_\_\_\_\_\_\_\_\_\_ hereby certifies that it is in compliance with the requirements referred to in section 253(b) of the Help America Vote Act of 2002.” (with the blank to be filled in with the name of the State involved).
+A State is eligible to receive a requirements payment for a fiscal year if the chief executive officer of the State, or designee, in consultation and coordination with the chief State election official, has filed with the Commission a statement certifying that the State is in compliance with the requirements referred to in subsection (b) of this section. A State may meet the requirement of the previous sentence by filing with the Commission a statement which reads as follows: "\_\_\_\_\_\_\_\_\_\_\_\_ hereby certifies that it is in compliance with the requirements referred to in section 253(b) of the Help America Vote Act of 2002." (with the blank to be filled in with the name of the State involved).
 
 #### (b) State plan requirement; certification of compliance with applicable laws and requirements
 
@@ -16,7 +16,7 @@ The requirements referred to in this subsection are as follows:
 
 &emsp;&emsp;(C) meets the public notice and comment requirements of section 15406 of this title.
 
-&emsp;(2)(A) Subject to subparagraph (B), the State has filed with the Commission a plan for the implementation of the uniform, nondiscriminatory administrative complaint proceduresrequired under section 15512 of this title (or has included such a plan in the State plan filed under paragraph (1)), and has such procedures in place for purposes of meeting the requirements of such section. If the State does not include such an implementation plan in the State plan filed under paragraph (1), the requirements of sections 15405(b) and 15406 of this title shall apply to the implementation plan in the same manner as such requirements apply to the State plan.
+&emsp;(2)(A) Subject to subparagraph (B), the State has filed with the Commission a plan for the implementation of the uniform, nondiscriminatory administrative complaint procedures required under section 15512 of this title (or has included such a plan in the State plan filed under paragraph (1)), and has such procedures in place for purposes of meeting the requirements of such section. If the State does not include such an implementation plan in the State plan filed under paragraph (1), the requirements of sections 15405(b) and 15406 of this title shall apply to the implementation plan in the same manner as such requirements apply to the State plan.
 
 &emsp;(B) Subparagraph (A) shall not apply for purposes of determining the eligibility of a State to receive a requirements payment appropriated pursuant to the authorization provided under section 15407(a)(4) of this title.
 
@@ -42,7 +42,7 @@ A State may not file a statement of certification under subsection (a) of this s
 
 #### (e) Chief State election official defined
 
-In this part, the “chief State election official” of a State is the individual designated by the State under section 10 of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–8) to be responsible for coordination of the State's responsibilities under such Act.
+In this part, the "chief State election official" of a State is the individual designated by the State under section 10 of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–8) to be responsible for coordination of the State's responsibilities under such Act.
 
 (Pub. L. 107–252, title II, §253, Oct. 29, 2002, 116 Stat. 1693; Pub. L. 111–84, div. A, title V, §588(b)(1)(B)–(3), Oct. 28, 2009, 123 Stat. 2333; Pub. L. 112–74, div. C, title VI, §622(2), Dec. 23, 2011, 125 Stat. 927.)
 
@@ -50,19 +50,19 @@ In this part, the “chief State election official” of a State is the individu
 
 Section 253(b) of the Help America Vote Act of 2002, referred to in subsec. (a), is classified to subsec. (b) of this section.
 
-This chapter, referred to in subsec. (b)(3), was in the original “this Act”, meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
+This chapter, referred to in subsec. (b)(3), was in the original "this Act", meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
 
-Subchapter III of this chapter, referred to in subsec. (b)(4), was in the original “title III”, meaning title III of Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1704, which is classified principally to subchapter III (§15481 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
+Subchapter III of this chapter, referred to in subsec. (b)(4), was in the original "title III", meaning title III of Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1704, which is classified principally to subchapter III (§15481 et seq.) of this chapter. For complete classification of title III to the Code, see Tables.
 
 The National Voter Registration Act of 1993, referred to in subsec. (e), is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, which is classified principally to subchapter I–H (§1973gg et seq.) of chapter 20 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of this title and Tables.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d). Pub. L. 112–74 inserted “notice of” before “the State plan”.
+<b>2011</b>—Subsec. (d). Pub. L. 112–74 inserted "notice of" before "the State plan".
 
-<b>2009</b>—Subsec. (b)(1)(A). Pub. L. 111–84, §588(b)(1)(B), substituted “section 15404(a) of this title (or, for purposes of determining the eligibility of a State to receive a requirements payment appropriated pursuant to the authorization provided under section 15407(a)(4) of this title, contains the element described in paragraph (14) of such section)” for “section 15404 of this title”.
+<b>2009</b>—Subsec. (b)(1)(A). Pub. L. 111–84, §588(b)(1)(B), substituted "section 15404(a) of this title (or, for purposes of determining the eligibility of a State to receive a requirements payment appropriated pursuant to the authorization provided under section 15407(a)(4) of this title, contains the element described in paragraph (14) of such section)" for "section 15404 of this title".
 
-Subsec. (b)(2). Pub. L. 111–84, §588(b)(2), designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), the State” for “The State”, and added subpar. (B).
+Subsec. (b)(2). Pub. L. 111–84, §588(b)(2), designated existing provisions as subpar. (A), substituted "Subject to subparagraph (B), the State" for "The State", and added subpar. (B).
 
-Subsec. (b)(5). Pub. L. 111–84, §588(b)(3), designated existing provisions as subpar. (A), substituted “Subject to subparagraph (B), the State” for “The State”, and added subpar. (B).
+Subsec. (b)(5). Pub. L. 111–84, §588(b)(3), designated existing provisions as subpar. (A), substituted "Subject to subparagraph (B), the State" for "The State", and added subpar. (B).
 

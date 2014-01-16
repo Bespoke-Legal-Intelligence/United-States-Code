@@ -2,7 +2,7 @@
 
 #### (a) Essential health benefits package
 
-In this title,<sup>1</sup> the term “essential health benefits package” means, with respect to any health plan, coverage that—
+In this title,<sup>1</sup> the term "essential health benefits package" means, with respect to any health plan, coverage that—
 
 &emsp;(1) provides for the essential health benefits defined by the Secretary under subsection (b);
 
@@ -56,11 +56,11 @@ In this title,<sup>1</sup> the term “essential health benefits package” mean
 
 &emsp;&emsp;(A) ensure that such essential health benefits reflect an appropriate balance among the categories described in such subsection,<sup>2</sup> so that benefits are not unduly weighted toward any category;
 
-&emsp;&emsp;(B) not make coverage decisions, determine reimbursement rates, establish incentive programs, or design benefits in ways that discriminate against individuals because of their age, disability, or expected length of life;
+&emsp;&emsp;(B) not make coverage decisions, determine reimbursement rates, establish incentive programs, or design benefits in waysthat discriminate against individuals because of their age, disability, or expected length of life;
 
 &emsp;&emsp;(C) take into account the health care needs of diverse segments of the population, including women, children, persons with disabilities, and other groups;
 
-&emsp;&emsp;(D) ensure that health benefits established as essential not be subject to denial to individuals against their wishes on the basis of the individuals’ age or expected length oflife or of the individuals’ present or predicted disability, degree of medical dependency, or quality of life;
+&emsp;&emsp;(D) ensure that health benefits established as essential not be subject to denial to individuals against their wishes on the basis of the individuals' age or expected length of life or of the individuals' present or predicted disability, degree of medical dependency, or quality of life;
 
 &emsp;&emsp;(E) provide that a qualified health plan shall not be treated as providing coverage for the essential health benefits described in paragraph (1) unless the plan provides that—
 
@@ -140,7 +140,7 @@ In this title,<sup>1</sup> the term “essential health benefits package” mean
 
 #### (A) In general
 
-&emsp;&emsp;The term “cost-sharing” includes—
+&emsp;&emsp;The term "cost-sharing" includes—
 
 &emsp;&emsp;&emsp;(i) deductibles, coinsurance, copayments, or similar charges; and
 
@@ -248,15 +248,15 @@ Section 2713, referred to in subsec. (e)(1)(B)(i), probably means section 2713 o
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(2)(B). Pub. L. 111–148, §10104(b)(1), substituted “shall issue” for “may issue”.
+<b>2010</b>—Subsec. (d)(2)(B). Pub. L. 111–148, §10104(b)(1), substituted "shall issue" for "may issue".
 
 Subsec. (g). Pub. L. 111–148, §10104(b)(2), added subsec. (g).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “paragraph,”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "paragraph,".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “18031(d)(2)(B)(ii)”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "18031(d)(2)(B)(ii)".</i>
 
-<i><sup>4</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>4</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

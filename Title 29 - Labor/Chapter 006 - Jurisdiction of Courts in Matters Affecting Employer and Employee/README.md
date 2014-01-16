@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [101\.](%C2%A7%2000101%20-%20Issuance%20of%20restraining%20orders%20and%20injunctions%3B%20limitation%3B%20public%20policy.md) | Issuance of restraining orders and injunctions; limitation; public policy. |
 | [102\.](%C2%A7%2000102%20-%20Public%20policy%20in%20labor%20matters%20declared.md) | Public policy in labor matters declared. |
-| [103\.](%C2%A7%2000103%20-%20Nonenforceability%20of%20undertakings%20in%20conflict%20with%20public%20policy%3B%20%E2%80%9Cyellow%20dog%E2%80%9D%20contracts.md) | Nonenforceability of undertakings in conflict with public policy; “yellow dog” contracts. |
+| [103\.](%C2%A7%2000103%20-%20Nonenforceability%20of%20undertakings%20in%20conflict%20with%20public%20policy%3B%20yellow%20dog%20contracts.md) | Nonenforceability of undertakings in conflict with public policy; "yellow dog" contracts. |
 | [104\.](%C2%A7%2000104%20-%20Enumeration%20of%20specific%20acts%20not%20subject%20to%20restraining%20orders%20or%20injunctions.md) | Enumeration of specific acts not subject to restraining orders or injunctions. |
 | [105\.](%C2%A7%2000105%20-%20Doing%20in%20concert%20of%20certain%20acts%20as%20constituting%20unlawful%20combination%20or%20conspiracy%20subjecting%20person%20to%20injunctive%20remedies.md) | Doing in concert of certain acts as constituting unlawful combination or conspiracy subjecting person to injunctive remedies. |
 | [106\.](%C2%A7%2000106%20-%20Responsibility%20of%20officers%20and%20members%20of%20associations%20or%20their%20organizations%20for%20unlawful%20acts%20of%20individual%20officers%2C%20members%2C%20and%20agents.md) | Responsibility of officers and members of associations or their organizations for unlawful acts of individual officers, members, and agents. |
@@ -26,7 +26,7 @@
 
 - [&sect; 00101 - Issuance of restraining orders and injunctions; limitation; public policy](%C2%A7%2000101%20-%20Issuance%20of%20restraining%20orders%20and%20injunctions%3B%20limitation%3B%20public%20policy.md)
 - [&sect; 00102 - Public policy in labor matters declared](%C2%A7%2000102%20-%20Public%20policy%20in%20labor%20matters%20declared.md)
-- [&sect; 00103 - Nonenforceability of undertakings in conflict with public policy; &#8220;yellow dog&#8221; contracts](%C2%A7%2000103%20-%20Nonenforceability%20of%20undertakings%20in%20conflict%20with%20public%20policy%3B%20%E2%80%9Cyellow%20dog%E2%80%9D%20contracts.md)
+- [&sect; 00103 - Nonenforceability of undertakings in conflict with public policy; yellow dog contracts](%C2%A7%2000103%20-%20Nonenforceability%20of%20undertakings%20in%20conflict%20with%20public%20policy%3B%20yellow%20dog%20contracts.md)
 - [&sect; 00104 - Enumeration of specific acts not subject to restraining orders or injunctions](%C2%A7%2000104%20-%20Enumeration%20of%20specific%20acts%20not%20subject%20to%20restraining%20orders%20or%20injunctions.md)
 - [&sect; 00105 - Doing in concert of certain acts as constituting unlawful combination or conspiracy subjecting person to injunctive remedies](%C2%A7%2000105%20-%20Doing%20in%20concert%20of%20certain%20acts%20as%20constituting%20unlawful%20combination%20or%20conspiracy%20subjecting%20person%20to%20injunctive%20remedies.md)
 - [&sect; 00106 - Responsibility of officers and members of associations or their organizations for unlawful acts of individual officers, members, and agents](%C2%A7%2000106%20-%20Responsibility%20of%20officers%20and%20members%20of%20associations%20or%20their%20organizations%20for%20unlawful%20acts%20of%20individual%20officers%2C%20members%2C%20and%20agents.md)

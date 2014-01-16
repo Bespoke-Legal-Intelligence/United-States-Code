@@ -4,9 +4,9 @@
 
 Notwithstanding any provision to the contrary in section 426 of this title or subchapter XVIII of this chapter, every individual who—
 
-&emsp;(1)(A) is fully or currently insured (as such terms are defined in section 414 of this title), or would be fully or currently insured if (i) his service as an employee (as defined in the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\]) after December 31, 1936, were included within the meaning of the term “employment” for purposes of this subchapter, and (ii) his medicare qualified government employment (as defined in section 410(p) of this title) were included within the meaning of the term “employment” for purposes of this subchapter;
+&emsp;(1)(A) is fully or currently insured (as such terms are defined in section 414 of this title), or would be fully or currently insured if (i) his service as an employee (as defined in the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\]) after December 31, 1936, were included within the meaning of the term "employment" for purposes of this subchapter, and (ii) his medicare qualified government employment (as defined in section 410(p) of this title) were included within the meaning of the term "employment" for purposes of this subchapter;
 
-&emsp;(B)(i) is entitled to monthly insurance benefits under this subchapter, (ii) is entitled to an annuity under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], or (iii) would be entitled to a monthly insurance benefit underthis subchapter if medicare qualified government employment (as defined in section 410(p) of this title) were included within the meaning of the term “employment” for purposes of this subchapter; or
+&emsp;(B)(i) is entitled to monthly insurance benefits under this subchapter, (ii) is entitled to an annuity under the Railroad Retirement Act of 1974 \[45 U.S.C. 231 et seq.\], or (iii) would be entitled to a monthly insurance benefit under this subchapter if medicare qualified government employment (as defined in section 410(p) of this title) were included within the meaning of the term "employment" for purposes of this subchapter; or
 
 &emsp;(C) is the spouse or dependent child (as defined in regulations) of an individual described in subparagraph (A) or (B);
 
@@ -48,7 +48,7 @@ For purposes of this section, each person whose monthly insurance benefit for an
 
 #### References in Text
 
-The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(A), (B), is act Aug. 29, 1935, ch. 812, as amended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
+The Railroad Retirement Act of 1974, referred to in subsec. (a)(1)(A), (B), is act Aug. 29, 1935, ch. 812, asamended generally by Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1305, which is classified generally to subchapter IV (§231 et seq.) of chapter 9 of Title 45, Railroads. For further details and complete classification of this Act to the Code, see Codification note set out preceding section 231 of Title 45, section 231t of Title 45, and Tables.
 
 Section 425(c) of this title, referred to in subsec. (c), was repealed by Pub. L. 104–121, title I, §105(a)(4), Mar. 29, 1996, 110 Stat. 853.
 
@@ -56,13 +56,13 @@ Section 425(c) of this title, referred to in subsec. (c), was repealed by Pub. L
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–296 added subsec. (c) relating to continuing eligibility of certain terminated individuals.
 
-<b>1986</b>—Subsec. (a)(1)(A)(ii), (B)(iii). Pub. L. 99–272 substituted “medicare qualified government employment” for “medicare qualified Federal employment”.
+<b>1986</b>—Subsec. (a)(1)(A)(ii), (B)(iii). Pub. L. 99–272 substituted "medicare qualified government employment" for "medicare qualified Federal employment".
 
-<b>1983</b>—Subsec. (a)(1)(B)(iii). Pub. L. 97–448 substituted “section 410(p)” for “410(p)” and struck out “after December 31, 1982,”.
+<b>1983</b>—Subsec. (a)(1)(B)(iii). Pub. L. 97–448 substituted "section 410(p)" for "410(p)" and struck out "after December 31, 1982,".
 
-<b>1982</b>—Subsec. (a)(1)(A). Pub. L. 97–248 designated existing provisions as cl. (i), substituted “within the meaning of the term ‘employment’ for purposes of this subchapter” for “in the term ‘employment’ as defined in this chapter”, and added cl. (ii).
+<b>1982</b>—Subsec. (a)(1)(A). Pub. L. 97–248 designated existing provisions as cl. (i), substituted "within the meaning of the term 'employment' for purposes of this subchapter" for "in the term 'employment' as defined in this chapter", and added cl. (ii).
 
-Subsec. (a)(1)(B). Pub. L. 97–248 designated “is entitled to monthly insurance benefits under this subchapter” as cl. (i), substituted “(ii) is entitled to an annuity under the Railroad Retirement Act of 1974” for “or an annuity under the Railroad Retirement Act of 1974”, and added cl. (iii).
+Subsec. (a)(1)(B). Pub. L. 97–248 designated "is entitled to monthly insurance benefits under this subchapter" as cl. (i), substituted "(ii) is entitled to an annuity under the Railroad Retirement Act of 1974" for "or an annuity under the Railroad Retirement Act of 1974", and added cl. (iii).
 
 Subsec. (a)(1)(C), (D). Pub. L. 97–248 combined former subpars. (C) and (D) into subpar. (C) and substituted a reference to individuals described in subpar. (A) or (B) for a more detailed definition of such individuals.
 
@@ -76,7 +76,7 @@ Amendment by Pub. L. 99–272 effective after Mar. 31, 1986, with no individual 
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 97–448, title III, §309(c)(2), Jan. 12, 1983, 96 Stat. 2410, provided that: “Any amendment to the Social Security Act \[this chapter\] made by this section \[amending this section and sections 410, 1320c–2, 1320c–3, 1395d, 1395f, 1395r, 1395y, 1395cc, 1395mm, 1395ww, 1396b, 1396n, 1396o, and 1396p of this title\] shall be effective as if it had been originally included as a part of that provision of the Social Security Act to which it relates, as such provision of such Act was amended or added by the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 324\].”
+Pub. L. 97–448, title III, §309(c)(2), Jan. 12, 1983, 96 Stat. 2410, provided that: "Any amendment to the Social Security Act \[42 U.S.C. 301 et seq.\] made by this section \[amending this section and sections 410, 1320c–2, 1320c–3, 1395d, 1395f, 1395r, 1395y, 1395cc, 1395mm, 1395ww, 1396b, 1396n, 1396o, and 1396p of this title\] shall be effective as if it had been originally included as a part of that provision of the Social Security Act to which it relates, as such provision of such Act was amended or added by the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 324\]."
 
 #### Effective Date of 1982 Amendment
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 97–248 effective on and after Jan. 1, 1983, see section 2
 
 Section effective with respect to services, supplies, and equipment furnished after the third calendar month beginning after June 13, 1978, except that provisions for the implementation of an incentive reimbursement system for dialysis services furnished in facilities and providers to become effective with respect to a facility's or provider's first accounting period beginning after the last day of the twelfth month following the month of June 1978, and except that provisions for reimbursement rates for home dialysis to become effective on Apr. 1, 1979, see section 6 of Pub. L. 95–292, set out as an Effective Date of 1978 Amendment note under section 426 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(d)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(d)".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

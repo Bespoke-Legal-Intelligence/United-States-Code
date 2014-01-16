@@ -11,11 +11,11 @@
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §543(f)(2), (g)(2), Oct. 14, 2008, 122 Stat. 4462, 4463, added items 7101 and 7102 and struck out former items 7101 “Naval War College: master of arts in national security and strategic studies” and 7102 “Marine Corps University: masters degrees; board of advisors”.
+<b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §543(f)(2), (g)(2), Oct. 14, 2008, 122 Stat. 4462, 4463, added items 7101 and 7102 and struck out former items 7101 "Naval War College: master of arts in national security and strategic studies" and 7102 "Marine Corps University: masters degrees; board of advisors".
 
 <b>2006</b>—Pub. L. 109–163, div. A, title V, §522(d)(2), Jan. 6, 2006, 119 Stat. 3243, added items 7103 and 7104.
 
-<b>2001</b>—Pub. L. 107–107, div. A, title V, §532(b)(3)(B), Dec. 28, 2001, 115 Stat. 1105, substituted “masters degrees; board of advisors” for “master of military studies” in item 7102.
+<b>2001</b>—Pub. L. 107–107, div. A, title V, §532(b)(3)(B), Dec. 28, 2001, 115 Stat. 1105, substituted "masters degrees; board of advisors" for "master of military studies" in item 7102.
 
 <b>1994</b>—Pub. L. 103–337, div. A, title IX, §911(a)(2), Oct. 5, 1994, 108 Stat. 2828, added item 7102.
 

@@ -16,7 +16,7 @@ The purposes of this section are—
 
 #### (A) In general
 
-&emsp;&emsp;Not later than January 1, 2010, the head of any Federal agency that uses a light-duty or heavy-duty vehicle fleet shall lease or purchase fuel cell vehicles and hydrogen energy systems to meet any applicable energy savings goal described in subsection (c).
+&emsp;&emsp;Not later than January 1, 2010, the head of any Federal agency that uses a light-duty orheavy-duty vehicle fleet shall lease or purchase fuel cell vehicles and hydrogen energy systems to meet any applicable energy savings goal described in subsection (c).
 
 #### (B) Learning demonstration vehicles
 

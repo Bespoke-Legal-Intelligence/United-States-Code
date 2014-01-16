@@ -44,7 +44,7 @@
 
 #### (C) Federal-State cooperation in WTO dispute settlement
 
-&emsp;&emsp;(i) When a WTO member requests consultations with the United States under Article 4 of the Understanding on Rules and Procedures Governing the Settlement of Disputes referred to in section 3511(d)(16) of this title (hereafter in this subsection referred to as the “Dispute Settlement Understanding”) concerning whether the law of a State is inconsistent with the obligations undertaken by the United States in any of the Uruguay Round Agreements, the Trade Representative shall notify the Governor of the State or the Governor's designee, and the chief legal officer of the jurisdiction whose law is the subject of the consultations, as soon aspossible after the request is received, but in no event later than 7 days thereafter.
+&emsp;&emsp;(i) When a WTO member requests consultations with the United States under Article 4 of the Understanding on Rules and Procedures Governing the Settlement of Disputes referred to in section 3511(d)(16) of this title (hereafter in this subsection referred to as the "Dispute Settlement Understanding") concerning whether the law of a State is inconsistent with the obligations undertaken by the United States in any of the Uruguay Round Agreements, the Trade Representative shall notify the Governor of the State or the Governor's designee, and the chief legal officer of the jurisdiction whose law is the subject of the consultations, as soon aspossible after the request is received, but in no event later than 7 days thereafter.
 
 &emsp;&emsp;(ii) Not later than 30 days after receiving such a request for consultations, the Trade Representative shall consult with representatives of the State concerned regarding the matter. If the consultations involve the laws of a large number of States, the Trade Representative may consult with an appropriate group of representatives of the States concerned, as determined by those States.
 
@@ -92,17 +92,17 @@
 
 > &emsp;Following the submission of the report, and before the action is brought, the Trade Representative shall consult with the committees referred to in the preceding sentence concerning the matter.
 
-#### (3) “State law” defined
+#### (3) "State law" defined
 
 &emsp;For purposes of this subsection—
 
-&emsp;&emsp;(A) the term “State law” includes—
+&emsp;&emsp;(A) the term "State law" includes—
 
 &emsp;&emsp;&emsp;(i) any law of a political subdivision of a State; and
 
 &emsp;&emsp;&emsp;(ii) any State law regulating or taxing the business of insurance; and
 
-&emsp;&emsp;(B) the terms “dispute settlement panel” and “Appellate Body” have the meanings given those terms in section 3531 of this title.
+&emsp;&emsp;(B) the terms "dispute settlement panel" and "Appellate Body" have the meanings given those terms in section 3531 of this title.
 
 #### (c) Effect of agreement with respect to private remedies
 

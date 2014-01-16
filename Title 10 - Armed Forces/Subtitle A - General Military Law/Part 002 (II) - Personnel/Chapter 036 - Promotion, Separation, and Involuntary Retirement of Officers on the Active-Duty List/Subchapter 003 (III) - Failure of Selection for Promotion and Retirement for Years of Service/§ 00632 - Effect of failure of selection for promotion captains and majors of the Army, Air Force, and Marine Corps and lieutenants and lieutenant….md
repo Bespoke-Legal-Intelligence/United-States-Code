@@ -1,8 +1,8 @@
 ### §632. Effect of failure of selection for promotion: captains and majors of the Army, Air Force, and Marine Corps and lieutenants and lieutenant commanders of the Navy
 
-(a) Except an officer of the Navy and Marine Corps who is an officer designated for limited duty (to whom section 5596(e) or 6383 of this title applies) and except as provided under section 637(a) of this title, each officer of the Army, Air Force, or Marine Corps on the active-duty list who holds the grade of captain or major, and each officer of the Navy on the active-duty list who holds the grade of lieutenant or lieutenant commander, who has failed of selection for promotion to the next higher grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher grade shall—
+(a) Except an officer of the Navy and Marine Corps who is an officer designated for limited duty (to whom section 5596(e) or 6383 of this title applies) and except as provided under section637(a) of this title, each officer of the Army, Air Force, or Marine Corps on the active-duty list who holds the grade of captain or major, and each officer of the Navy on the active-duty list who holds the grade of lieutenant or lieutenant commander, who has failed of selection for promotion to the next higher grade for the second time and whose name is not on a list of officers recommended for promotion to the next higher grade shall—
 
-&emsp;(1) except as provided in paragraph (3) and in subsection (c), be discharged on the date requested by him and approved by the Secretary concerned, which date shall be not later thanthe first day of the seventh calendar month beginning after the month in which the President approves the report of the board which considered him for the second time;
+&emsp;(1) except as provided in paragraph (3) and in subsection (c), be discharged on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the board which considered him for the second time;
 
 &emsp;(2) if he is eligible for retirement under any provision of law, be retired under that law on the date requested by him and approved by the Secretary concerned, which date shall be not later than the first day of the seventh calendar month beginning after the month in which the President approves the report of the board which considered him for the second time; or
 
@@ -20,19 +20,19 @@
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c)(1). Pub. L. 108–375 substituted “paragraph (3)” for “paragraph (2)” and “under that subsection” for “under that paragraph” before “, the officer has not”.
+<b>2004</b>—Subsec. (c)(1). Pub. L. 108–375 substituted "paragraph (3)" for "paragraph (2)" and "under that subsection" for "under that paragraph" before ", the officer has not".
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136, §505(a)(1), inserted “except as provided in paragraph (3) and in subsection (c),” before “be discharged”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136, §505(a)(1), inserted "except as provided in paragraph (3) and in subsection (c)," before "be discharged".
 
-Subsec. (a)(3). Pub. L. 108–136, §505(b), substituted “paragraph” for “clause”.
+Subsec. (a)(3). Pub. L. 108–136, §505(b), substituted "paragraph" for "clause".
 
 Subsec. (c). Pub. L. 108–136, §505(a)(2), added subsec. (c).
 
-<b>2001</b>—Pub. L. 107–107, §505(d)(4)(C), struck out “regular” before “captains and majors” and before “lieutenants and lieutenant commanders” in section catchline.
+<b>2001</b>—Pub. L. 107–107, §505(d)(4)(C), struck out "regular" before "captains and majors" and before "lieutenants and lieutenant commanders" in section catchline.
 
-Subsec. (a). Pub. L. 107–107, §505(d)(3), in introductory provisions, substituted “Army, Air Force, or Marine Corps on the active-duty list” for “Regular Army, Regular Air Force, or Regular Marine Corps” and “Navy on the active-duty list” for “Regular Navy” and struck out “regular” before “grade” wherever appearing.
+Subsec. (a). Pub. L. 107–107, §505(d)(3), in introductory provisions, substituted "Army, Air Force, or Marine Corps on the active-duty list" for "Regular Army, Regular Air Force, or Regular Marine Corps" and "Navy on the active-duty list" for "Regular Navy" and struck out "regular" before "grade" wherever appearing.
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–136, div. A, title V, §505(c), Nov. 24, 2003, 117 Stat. 1457, provided that: “The amendments made by subsection (a) \[amending this section\] shall not apply in the case of an officer who as of the date of the enactment of this Act \[Nov. 24, 2003\] is required to be discharged under section 632(a)(1) of title 10, United States Code, by reason of having failed of selection for promotion to the next higher regular grade a second time.”
+Pub. L. 108–136, div. A, title V, §505(c), Nov. 24, 2003, 117 Stat. 1457, provided that: "The amendments made by subsection (a) \[amending this section\] shall not apply in the case of an officer who as of the date of the enactment of this Act \[Nov. 24, 2003\] is required to be discharged under section 632(a)(1) of title 10, United States Code, by reason of having failed of selection for promotion to the next higher regular grade a second time."
 

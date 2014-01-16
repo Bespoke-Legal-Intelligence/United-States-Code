@@ -36,7 +36,7 @@ Loans from any student loan fund established by a school pursuant to an agreemen
 
 &emsp;(3) an amount up to 85 percent of any such loan (plus interest thereon) shall be canceled by the school as follows:
 
-&emsp;&emsp;(A) upon completion by the individual of each of the first, second, and third year offull-time employment, required by the loan agreement entered into under this subsection, as a faculty member in an accredited a <sup>4</sup> school of nursing, the school shall cancel 20 percent of the principle <sup>5</sup> of, and the interest on, the amount of such loan unpaid on the first day of such employment; and
+&emsp;&emsp;(A) upon completion by the individual of each of the first, second, and third year of full-time employment, required by the loan agreement entered into under this subsection, as a faculty member in an accredited a <sup>4</sup> school of nursing, the school shall cancel 20 percent of the principle <sup>5</sup> of, and the interest on, the amount of such loan unpaid on the first day of such employment; and
 
 &emsp;&emsp;(B) upon completion by the individual of the fourth year of full-time employment, required by the loan agreement entered into under this subsection, as a faculty member in a school of nursing, the school shall cancel 25 percent of the principle <sup>5</sup> of, and the interest on, the amount of such loan unpaid on the first day of such employment;
 
@@ -66,15 +66,15 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148, §5311(a)(1), substituted “School of nursing student loan fund” for “Establishment” in heading and inserted “accredited” before “school” in text.
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §5311(a)(1), substituted "School of nursing student loan fund" for "Establishment" in heading and inserted "accredited" before "school" in text.
 
-Subsec. (c)(2). Pub. L. 111–148, §5311(a)(2)(A), substituted “$35,500, during fiscal years 2010 and 2011 fiscal years (after fiscal year 2011, such amounts shall be adjusted to provide for a cost-of-attendance increase for the yearly loan rate and the aggregate loan;” for “$30,000, plus any amount determined by the Secretary on an annual basis to reflect inflation;”.
+Subsec. (c)(2). Pub. L. 111–148, §5311(a)(2)(A), substituted "$35,500, during fiscal years 2010 and 2011 fiscal years (after fiscal year 2011, such amounts shall be adjusted to provide for a cost-of-attendance increase for the yearly loan rate and the aggregate loan;" for "$30,000, plus any amount determined by the Secretary on an annual basis to reflect inflation;".
 
-Subsec. (c)(3)(A). Pub. L. 111–148, §5311(a)(2)(B), inserted “an accredited” before “a school of nursing”.
+Subsec. (c)(3)(A). Pub. L. 111–148, §5311(a)(2)(B), inserted "an accredited" before "a school of nursing".
 
-Subsec. (e). Pub. L. 111–148, §5311(a)(3), substituted “an accredited school” for “a school”.
+Subsec. (e). Pub. L. 111–148, §5311(a)(3), substituted "an accredited school" for "a school".
 
-Subsec. (f). Pub. L. 111–148, §5311(a)(4), substituted “2010 through 2014” for “2003 through 2007”.
+Subsec. (f). Pub. L. 111–148, §5311(a)(4), substituted "2010 through 2014" for "2003 through 2007".
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 
@@ -82,7 +82,7 @@ Subsec. (f). Pub. L. 111–148, §5311(a)(4), substituted “2010 through 2014�
 
 <i><sup>3</sup></i><i> So in original. A closing parenthesis probably should appear before the semicolon.</i>
 
-<i><sup>4</sup></i><i> So in original. The word “a” probably should not appear.</i>
+<i><sup>4</sup></i><i> So in original. The word "a" probably should not appear.</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be “principal”.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be "principal".</i>
 

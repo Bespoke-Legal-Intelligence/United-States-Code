@@ -32,19 +32,19 @@ Service Creditable for Certain Purposes.—(1) The Secretary concerned may autho
 
 #### Amendments
 
-<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65, §544(1), added par. (2) and struck out former par. (2) which read as follows: “Service credited under paragraph (1) counts only for the following purposes:
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65, §544(1), added par. (2) and struck out former par. (2) which read as follows: "Service credited under paragraph (1) counts only for the following purposes:
 
-&emsp;“(A) Award of retirement points for computation of years of service under section 12732 of this title and for computation of retired pay under section 12733 of this title.
+&emsp;"(A) Award of retirement points for computation of years of service under section 12732 of this title and for computation of retired pay under section 12733 of this title.
 
-&emsp;“(B) Computation of years of service creditable under section 205 of title 37.”
+&emsp;"(B) Computation of years of service creditable under section 205 of title 37."
 
-Subsec. (b)(3). Pub. L. 106–65, §544(1), added par. (3) and struck out former par. (3) which read as follows: “For purposes of paragraph (2)(A), a member may be credited in accordance with paragraph (1) with not more than 50 points for each year of participation in a course of study that the member satisfactorily completes as a member of the program.”
+Subsec. (b)(3). Pub. L. 106–65, §544(1), added par. (3) and struck out former par. (3) which read as follows: "For purposes of paragraph (2)(A), a member may be credited in accordance with paragraph (1) with not more than 50 points for each year of participation in a course of study that the member satisfactorily completes as a member of the program."
 
 Subsec. (b)(5), (6). Pub. L. 106–65, §544(2), (3), added par. (5) and redesignated former par. (5) as (6).
 
-<b>1996</b>—Pub. L. 104–201 designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b), service performed” for “Service performed”, and added subsec. (b).
+<b>1996</b>—Pub. L. 104–201 designated existing provisions as subsec. (a), inserted heading, substituted "Except as provided in subsection (b), service performed" for "Service performed", and added subsec. (b).
 
-<b>1980</b>—Cl. (2). Pub. L. 96–513 struck out “, other than subsection (a)(7) and (8),” after “section 205”.
+<b>1980</b>—Cl. (2). Pub. L. 96–513 struck out ", other than subsection (a)(7) and (8)," after "section 205".
 
 #### Effective Date of 1980 Amendment
 

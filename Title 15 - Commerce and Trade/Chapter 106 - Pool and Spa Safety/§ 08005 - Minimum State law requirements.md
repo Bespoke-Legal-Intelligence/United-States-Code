@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(A) consider current or revised national performance standards on pool and spa barrier protection and entrapment prevention; and
 
-&emsp;&emsp;(B) ensure that any such requirements are consistent with the guidelines contained in the Commission's publication 362, entitled “Safety Barrier Guidelines for Home Pools”, the Commission's publication entitled “Guidelines for Entrapment Hazards: Making Pools and Spas Safer”, and any other pool safety guidelines established by the Commission.
+&emsp;&emsp;(B) ensure that any such requirements are consistent with the guidelines contained in the Commission's publication 362, entitled "Safety Barrier Guidelines for Home Pools", the Commission's publication entitled "Guidelines for Entrapment Hazards: Making Pools and Spas Safer", and any other pool safety guidelines established by the Commission.
 
 #### (b) Standards
 
@@ -106,5 +106,5 @@ In establishing minimum State law requirements for swimming pools and spas under
 
 (Pub. L. 110–140, title XIV, §1406, Dec. 19, 2007, 121 Stat. 1797.)
 
-<i><sup>1</sup></i><i> So in original. The word “that” probably should appear after “(iv)”.</i>
+<i><sup>1</sup></i><i> So in original. The word "that" probably should appear after "(iv)".</i>
 

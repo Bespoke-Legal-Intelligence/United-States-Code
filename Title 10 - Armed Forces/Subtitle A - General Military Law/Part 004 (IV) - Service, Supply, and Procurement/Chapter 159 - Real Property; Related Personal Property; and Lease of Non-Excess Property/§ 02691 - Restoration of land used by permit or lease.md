@@ -4,7 +4,7 @@
 
 (b) Unless otherwise prohibited by law or the terms of the permit or lease, before restoration of any land under subsection (a) is begun, the Secretary concerned shall determine, under the provisions of subtitle I of title 40 and division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41, whether another military department or Federal agency has a use for the land in its existing, improved state. During the period required to make such a determination, the Secretary may provide for maintenance and repair of improvements on the land to the standards established for excess property by the Administrator of General Services.
 
-(c)(1) As a condition of any lease, permit, license, or other grant of access entered into by the Secretary of a military department with another Federal agency authorizing the agency to use lands under the control of the Secretary, the Secretary may require the agency to agree to remove any improvements and to take any other action necessary in the judgment of the Secretary to restore the land used by the agency to its condition before its use by the agency.
+(c)(1) As a condition of any lease, permit, license, or other grant of access entered into bythe Secretary of a military department with another Federal agency authorizing the agency to use lands under the control of the Secretary, the Secretary may require the agency to agree to remove any improvements and to take any other action necessary in the judgment of the Secretary to restore the land used by the agency to its condition before its use by the agency.
 
 (2) In lieu of performing any removal or restoration work under paragraph (1), a Federal agency may elect, with the consent of the Secretary, to reimburse the Secretary for the costs incurred by the military department in performing such removal or restoration work.
 
@@ -12,13 +12,13 @@
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b). Pub. L. 111–350 substituted “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”.
+<b>2011</b>—Subsec. (b). Pub. L. 111–350 substituted "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)".
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–217 inserted "subtitle I of title 40 and title III of" before "the Federal Property and Administrative Services Act of 1949" and substituted "(41 U.S.C. 251 et seq.)" for "(40 U.S.C. 471 et seq.)".
 
-<b>1998</b>—Pub. L. 105–261, §2812(b)(1), struck out “from other agencies” after “lease” in section catchline.
+<b>1998</b>—Pub. L. 105–261, §2812(b)(1), struck out "from other agencies" after "lease" in section catchline.
 
 Subsec. (c). Pub. L. 105–261, §2812(a), added subsec. (c).
 
-<b>1985</b>—Pub. L. 99–145 substituted “used by” for “used of” in section catchline.
+<b>1985</b>—Pub. L. 99–145 substituted "used by" for "used of" in section catchline.
 

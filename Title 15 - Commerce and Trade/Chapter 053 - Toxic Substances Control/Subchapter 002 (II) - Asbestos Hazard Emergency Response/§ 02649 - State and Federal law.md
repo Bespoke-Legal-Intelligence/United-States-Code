@@ -2,7 +2,7 @@
 
 #### (a) No preemption
 
-Nothing in this subchapter shall be construed, interpreted, or applied to preempt, displace, orsupplant any other State or Federal law, whether statutory or common.
+Nothing in this subchapter shall be construed, interpreted, or applied to preempt, displace, or supplant any other State or Federal law, whether statutory or common.
 
 #### (b) Cost and damage awards
 

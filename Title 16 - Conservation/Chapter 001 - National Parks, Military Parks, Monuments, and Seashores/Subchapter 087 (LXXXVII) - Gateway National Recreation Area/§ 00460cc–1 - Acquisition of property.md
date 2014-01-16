@@ -6,7 +6,7 @@ Within the boundaries of the recreation area, the Secretary may acquire lands an
 
 #### (b) Transfer from Federal agency to administrative jurisdiction of Secretary
 
-With the concurrence of the agency having custody thereof, any Federal property within the boundaries of the recreation area may be transferred, without consideration, to the administrative jurisdiction of the Secretary for administration as a part of the recreation area.
+With the concurrence of the agency having custody thereof, any Federal property withinthe boundaries of the recreation area may be transferred, without consideration, to the administrative jurisdiction of the Secretary for administration as a part of the recreation area.
 
 #### (c) Breezy Point Unit; public use and access; agreement for use of lands for single-family residential community; specific provisions; Rockaway parking lot conveyance
 

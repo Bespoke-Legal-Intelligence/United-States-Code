@@ -36,5 +36,5 @@ A prior section 2502 of act July 1, 1944, was successively renumbered by subsequ
 
 Amendment by Pub. L. 100–690 effective immediately after enactment of Pub. L. 100–607, which was approved Nov. 4, 1988, see section 2600 of Pub. L. 100–690, set out as a note under section 242m of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “data”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "data".</i>
 

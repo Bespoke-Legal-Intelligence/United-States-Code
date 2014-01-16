@@ -6,11 +6,11 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Aircraft accident.—The term “aircraft accident” means any aviation disaster, regardless of its cause or suspected cause, that occurs within the United States; and
+Aircraft accident.—The term "aircraft accident" means any aviation disaster, regardless of its cause or suspected cause, that occurs within the United States; and
 
 &emsp;(2)
 
-Passenger.—The term “passenger” has the meaning given such term by section 1136.
+Passenger.—The term "passenger" has the meaning given such term by section 1136.
 
 (b)
 
@@ -38,7 +38,7 @@ Notice provided as soon as possible.—An assurance that the notice required by 
 
 &emsp;(4)
 
-List of passengers.—An assurance that the foreign air carrier shall provide, immediately upon request, and update a list (based on the best available information at the time of the request) of the names of the passengers aboard the aircraft (whether or not such names have been verified), to—
+List of passengers.—An assurance that the foreign air carrier shall provide, immediately upon request, and update a list (basedon the best available information at the time of the request) of the names of the passengers aboard the aircraft (whether or not such names have been verified), to—
 
 &emsp;&emsp;(A) the director of family support services designated for the accident under section 1136(a)(1); and
 
@@ -110,7 +110,7 @@ Simultaneous electronic transmission of ntsb hearing.—An assurance that, in th
 
 (d)
 
-Permit and Exemption Requirement.—The Secretary shall not approve an application for apermit under section 41302 unless the applicant has included as part of the application or request for exemption a plan that meets the requirements of subsection (c).
+Permit and Exemption Requirement.—The Secretary shall not approve an application for a permit under section 41302 unless the applicant has included as part of the application or request for exemption a plan that meets the requirements of subsection (c).
 
 (e)
 
@@ -126,9 +126,9 @@ The date of the enactment of this section, referred to in subsec. (c), is the da
 
 <b>2003</b>—Subsec. (c)(17), (18). Pub. L. 108–176 added pars. (17) and (18).
 
-<b>2000</b>—Subsec. (a)(2). Pub. L. 106–181, §403(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘passenger’ includes an employee of a foreign air carrier or air carrier aboard an aircraft.”
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–181, §403(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "The term 'passenger' includes an employee of a foreign air carrier or air carrier aboard an aircraft."
 
-Subsec. (b). Pub. L. 106–181, §403(b), substituted “major” for “significant”.
+Subsec. (b). Pub. L. 106–181, §403(b), substituted "major" for "significant".
 
 Subsec. (c)(15), (16). Pub. L. 106–181, §403(c)(1), added pars. (15) and (16).
 
@@ -140,11 +140,11 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 Amendment by section 403(a) and (b) of Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
-Pub. L. 106–181, title IV, §403(c)(2), Apr. 5, 2000, 114 Stat. 131, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the 180th day following the date of the enactment of this Act \[Apr. 5, 2000\]. On or before such 180th day, each foreign air carrier providing foreign air transportation under chapter 413 of title 49, United States Code, shall submit to the Secretary \[of Transportation\] and the Chairman of the National Transportation Safety Board an updated plan under section 41313 of such title that meets the requirements of the amendment made by paragraph (1).”
+Pub. L. 106–181, title IV, §403(c)(2), Apr. 5, 2000, 114 Stat. 131, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the 180th day following the date of the enactment of this Act \[Apr. 5, 2000\]. On or before such 180th day, each foreign air carrier providing foreign air transportation under chapter 413 of title 49, United States Code, shall submit to the Secretary \[of Transportation\] and the Chairman of the National Transportation Safety Board an updated plan under section 41313 of such title that meets the requirements of the amendment made by paragraph (1)."
 
 #### Effective Date
 
-Pub. L. 105–148, §1(c), Dec. 16, 1997, 111 Stat. 2683, provided that: “The amendments made by this section \[enacting this section\] shall take effect on the 180th day following the date of the enactment of this Act \[Dec. 16, 1997\].”
+Pub. L. 105–148, §1(c), Dec. 16, 1997, 111 Stat. 2683, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the 180th day following the date of the enactment of this Act \[Dec. 16, 1997\]."
 
-<i><sup>1</sup></i><i> So in original. The words “the foreign air carrier” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The words "the foreign air carrier" probably should not appear.</i>
 

@@ -28,7 +28,7 @@ Not later than November 28, 1991, and in consultation with State Forest Stewards
 
 #### (f) Application
 
-For areas included in the Forest Legacy Program, an owner of lands or interests in landswho wishes to participate may prepare and submit an application at such time in such form and containing such information as the Secretary may prescribe. The Secretary shall give reasonable advance notice for the submission of all applications to the State forester, equivalent State official, or other appropriate State or regional natural resource management agency. If applications exceed the ability of the Secretary to fund them, priority shall be given to those forest areas having the greatest need for protection pursuant to the criteria described in subsection (e) of this section.
+For areas included in the Forest Legacy Program, an owner of lands or interests in lands who wishes to participate may prepare and submit an application at such time in such form and containing such information as the Secretary may prescribe. The Secretary shall give reasonable advance notice for the submission of all applications to the State forester, equivalent State official, or other appropriate State or regional natural resource management agency. If applications exceed the ability of the Secretary to fund them, priority shall be given to those forest areas having the greatest need for protection pursuant to the criteria described in subsection (e) of this section.
 
 #### (g) State consent
 
@@ -62,7 +62,7 @@ Under the terms of a conservation easement or other property interest acquired u
 
 #### (1) Reserved interest deeds
 
-&emsp;As used in this section, the term “conservation easement” includes an easement utilizing a reserved interest deed where the grantee acquires all rights, title, and interests in a property, except those rights, title, and interests that may run with the land that are expressly reserved by a grantor.
+&emsp;As used in this section, the term "conservation easement" includes an easement utilizing a reserved interest deed where the grantee acquires all rights, title, and interests in a property, except those rights, title, and interests that may run with the land that are expressly reserved by a grantor.
 
 #### (2) Prohibitions on limitations
 
@@ -140,11 +140,11 @@ A prior section 7 of Pub. L. 95–313 was renumbered section 10 and is classifie
 
 <b>1996</b>—Subsecs. (l), (m). Pub. L. 104–127 added subsec. (l) and redesignated former subsec. (l) as (m).
 
-<b>1991</b>—Subsec. (d)(2). Pub. L. 102–237, §1018(a)(2)(A), substituted “November 28, 1991” for “1 year after November 28, 1990”.
+<b>1991</b>—Subsec. (d)(2). Pub. L. 102–237, §1018(a)(2)(A), substituted "November 28, 1991" for "1 year after November 28, 1990".
 
-Subsec. (e). Pub. L. 102–237, §1018(a)(2)(B), substituted “Not later than November 28, 1991, and in consultation with State Forest Stewardship Coordinating Committees established under section 2113(b)” for “Within 1 year from November 28, 1990, and in consultation with State Forest Stewardship Advisory Committees established under section 15(b)”.
+Subsec. (e). Pub. L. 102–237, §1018(a)(2)(B), substituted "Not later than November 28, 1991, and in consultation with State Forest Stewardship Coordinating Committees established under section 2113(b)" for "Within 1 year from November 28, 1990, and in consultation with State Forest Stewardship Advisory Committees established under section 15(b)".
 
-Subsec. (f). Pub. L. 102–237, §1018(a)(2)(C), substituted “subsection (e)” for “subsection (d)”.
+Subsec. (f). Pub. L. 102–237, §1018(a)(2)(C), substituted "subsection (e)" for "subsection (d)".
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(c)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be subsection "(c)".</i>
 

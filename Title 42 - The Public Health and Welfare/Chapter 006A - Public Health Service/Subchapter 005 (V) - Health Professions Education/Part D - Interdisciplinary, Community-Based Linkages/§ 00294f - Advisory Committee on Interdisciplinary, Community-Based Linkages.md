@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish an advisory committee to be known as the Advisory Committee on Interdisciplinary, Community-Based Linkages (in this section referred to as the “Advisory Committee”).
+The Secretary shall establish an advisory committee to be known as the Advisory Committee on Interdisciplinary, Community-Based Linkages (in this section referred to as the "Advisory Committee").
 
 #### (b) Composition
 
@@ -50,7 +50,7 @@ The Advisory Committee shall—
 
 &emsp;(3) develop, publish, and implement performance measures for programs under this part;
 
-&emsp;(4) develop and publish guidelines for longitudinal evaluations (as described in section 294n(d)(2) of this title) for programs under this part; and
+&emsp;(4) develop and publish guidelines for longitudinal evaluations (as described in section294n(d)(2) of this title) for programs under this part; and
 
 &emsp;(5) recommend appropriation levels for programs under this part.
 
@@ -78,7 +78,7 @@ The Advisory Committee shall—
 
 The Federal Advisory Committee Act shall apply to the Advisory Committee under this section only to the extent that the provisions of such Act do not conflict with the requirements of this section.
 
-(July 1, 1944, ch. 373, title VII, §757, formerly §756, as added Pub. L. 105–392, title I, §103, Nov.13, 1998, 112 Stat. 3549; renumbered §757 and amended Pub. L. 111–148, title V, §§5103(d)(2), 5306(a)(2), (b), Mar. 23, 2010, 124 Stat. 606, 626, 628.)
+(July 1, 1944, ch. 373, title VII, §757, formerly §756, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3549; renumbered §757 and amended Pub. L. 111–148, title V, §§5103(d)(2), 5306(a)(2), (b), Mar. 23, 2010, 124 Stat. 606, 626, 628.)
 
 #### References in Text
 
@@ -88,7 +88,7 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 
 Pub. L. 111–148, title V, §5306(a)(2), Mar. 23, 2010, 124 Stat. 626, which directed the amendment of part D of title VII by redesignating section 756 as section 757, without specifying the act to be amended, was executed by redesignating section 756 of act July 1, 1944, as section 757 of the Act, to reflect the probable intent of Congress.
 
-November 13, 1998, referred to in subsec. (b)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 105–392, which amended this part generally, to reflect the probable intent of Congress.
+November 13, 1998, referred to in subsec. (b)(2), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 105–392, which amended this part generally, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
@@ -100,7 +100,7 @@ A prior section 757 of act July 1, 1944, was classified to section 294g of this 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(2). Pub. L. 111–148, §5306(b), substituted “294a(b)(1)(A), 294c(b), and 294e(b)” for “294a(a)(1)(A), 294a(a)(1)(B), 294c(b), 294d(3)(A), and 294e(b)”.
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–148, §5306(b), substituted "294a(b)(1)(A), 294c(b), and 294e(b)" for "294a(a)(1)(A), 294a(a)(1)(B), 294c(b), 294d(3)(A), and 294e(b)".
 
 Subsec. (d)(3) to (5). Pub. L. 111–148, §5103(d)(2), added pars. (3) to (5).
 
@@ -114,5 +114,5 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Committee”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Committee".</i>
 

@@ -34,11 +34,11 @@ Limitations.—The Secretary shall ensure the following:
 
 <b>2002</b>—Subsec. (f). Pub. L. 107–314 struck out heading and text of subsec. (f). Text read as follows:
 
-“(1) Each year, the Secretary shall submit to Congress a report on the exchange of services under this section during the year. The report shall contain the following:
+"(1) Each year, the Secretary shall submit to Congress a report on the exchange of services under this section during the year. The report shall contain the following:
 
-&emsp;“(A) The number of civilian students who receive instruction at the Academy under this section.
+&emsp;"(A) The number of civilian students who receive instruction at the Academy under this section.
 
-&emsp;“(B) An assessment of the benefits derived by the United States.
+&emsp;"(B) An assessment of the benefits derived by the United States.
 
-“(2) Reports are required under paragraph (1) only for years during which an agreement is in effect under this section.”
+"(2) Reports are required under paragraph (1) only for years during which an agreement is in effect under this section."
 

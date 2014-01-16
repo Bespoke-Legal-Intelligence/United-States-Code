@@ -78,7 +78,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The advisory board under this paragraph shall consist of 15 members appointed by theComptroller General of the United States from among individuals with qualifications described in section 1395b–6(c)(2) of this title.
+&emsp;&emsp;The advisory board under this paragraph shall consist of 15 members appointed by the Comptroller General of the United States from among individuals with qualifications described in section 1395b–6(c)(2) of this title.
 
 #### (B) Rules relating to appointments
 
@@ -118,7 +118,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualified nonprofit health insurance issuer” means a health insurance issuer that is an organization—
+&emsp;The term "qualified nonprofit health insurance issuer" means a health insurance issuer that is an organization—
 
 &emsp;&emsp;(A) that is organized under State law as a nonprofit, member corporation;
 
@@ -170,11 +170,11 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Nothing in this section shall be construed to limit the application of the antitrust lawsto any private purchasing council (whether or not established under this subsection) or to any qualified nonprofit health insurance issuer participating in such a council.
+&emsp;&emsp;Nothing in this section shall be construed to limit the application of the antitrust laws to any private purchasing council (whether or not established under this subsection) or to any qualified nonprofit health insurance issuer participating in such a council.
 
 #### (B) Antitrust laws
 
-&emsp;&emsp;For purposes of this subparagraph, the term “antitrust laws” has the meaning given the term in subsection (a) of section 12 of title 15. Such term also includes section 45 of title 15 to the extent that such section 45 applies to unfair methods of competition.
+&emsp;&emsp;For purposes of this subparagraph, the term "antitrust laws" has the meaning given the term in subsection (a) of section 12 of title 15. Such term also includes section 45 of title 15 to the extent that such section 45 applies to unfair methods of competition.
 
 #### (e) Limitation on participation
 
@@ -234,19 +234,19 @@ Section is comprised of section 1322 of Pub. L. 111–148. Subsec. (h) of sectio
 
 Pub. L. 112–240, title VI, §644, Jan. 2, 2013, 126 Stat. 2362, provided that:
 
-“(a)
+"(a)
 
 Establishment.—The Secretary of Health and Human Services shall establish a fund to be used to provide assistance and oversight to qualified nonprofit health insurance issuers that have been awarded loans or grants under section 1322 of the Patient Protection and Affordable Care Act (42 U.S.C. 18042) prior to the date of enactment of this Act \[Jan. 2, 2013\].
 
-“(b)
+"(b)
 
 Transfer and Rescission.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Transfer.—From the unobligated balance of funds appropriated under section 1322(g) of the Patient Protection and Affordable Care Act (42 U.S.C. 18042(g)), 10 percent of such sums are hereby transferred to the fund established under subsection (a) to remain available until expended.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Rescission.—Except as provided for in paragraph (1), amounts appropriated under section 1322(g) of the Patient Protection and Affordable Care Act (42 U.S.C. 18042(g)) that are unobligated as of the date of enactment of this Act \[Jan. 2, 2013\] are rescinded.”
+Rescission.—Except as provided for in paragraph (1), amounts appropriated under section 1322(g) of the Patient Protection and Affordable Care Act (42 U.S.C. 18042(g)) that are unobligated as of the date of enactment of this Act \[Jan. 2, 2013\] are rescinded."
 

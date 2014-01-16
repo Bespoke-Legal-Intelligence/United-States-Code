@@ -12,7 +12,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;(i) the findings described in section 4905(c)(2), (3), and (4) of this title cannot be made with respect to the species; and
 
-&emsp;&emsp;&emsp;(ii) the moratorium or quota is necessary for the conservation of the speciesor is otherwise consistent with the purpose of this chapter; or
+&emsp;&emsp;&emsp;(ii) the moratorium or quota is necessary for the conservation of the species or is otherwise consistent with the purpose of this chapter; or
 
 &emsp;&emsp;(B) the importation of all species of exotic birds from a particular country, if—
 

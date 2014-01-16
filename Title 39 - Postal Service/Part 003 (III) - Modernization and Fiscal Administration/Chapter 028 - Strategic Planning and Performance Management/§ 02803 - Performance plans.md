@@ -38,5 +38,5 @@
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–435 substituted “section 2401(e)” for “section 2401(g)” in introductory provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–435 substituted "section 2401(e)" for "section 2401(g)" in introductory provisions.
 

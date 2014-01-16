@@ -10,7 +10,7 @@ Participants in State Police Corps programs shall be selected on a competitive b
 
 &emsp;(A) be a citizen of the United States or an alien lawfully admitted for permanent residence in the United States;
 
-&emsp;(B) meet the requirements for admission as a trainee of the State or local police force towhich the participant will be assigned pursuant to section 14099(5) of this title, including achievement of satisfactory scores on any applicable examination, except that failure to meet the age requirement for a trainee of the State or local police shall not disqualify the applicant if the applicant will be of sufficient age upon completing an undergraduate course of study;
+&emsp;(B) meet the requirements for admission as a trainee of the State or local police force to which the participant will be assigned pursuant to section 14099(5) of this title, including achievement of satisfactory scores on any applicable examination, except that failure to meet the age requirement for a trainee of the State or local police shall not disqualify the applicant if the applicant will be of sufficient age upon completing an undergraduate course of study;
 
 &emsp;(C) possess the necessary mental and physical capabilities and emotional characteristics to discharge effectively the duties of a law enforcement officer;
 
@@ -42,7 +42,7 @@ Each State participating in the Police Corps program shall make special efforts 
 
 #### (d) Enrollment of applicant
 
-(1) An applicant shall be accepted into a State Police Corps program on the condition that the applicant will be matriculated in, or accepted for admission at, a 4-year institution of higher education—
+(1) An applicant shall be accepted into a State Police Corps program on the condition that the applicant will be matriculated in, or acceptedfor admission at, a 4-year institution of higher education—
 
 &emsp;(A) as a full-time student in an undergraduate program; or
 
@@ -64,5 +64,5 @@ An applicant may be admitted into a State Police Corps program either before com
 
 (Pub. L. 103–322, title XX, §200107, Sept. 13, 1994, 108 Stat. 2052.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

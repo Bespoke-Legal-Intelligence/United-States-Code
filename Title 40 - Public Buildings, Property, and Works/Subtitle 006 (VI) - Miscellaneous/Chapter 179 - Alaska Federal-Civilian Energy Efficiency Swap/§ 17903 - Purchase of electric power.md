@@ -24,5 +24,5 @@ Historical and Revision Notes
 
 Pub. L. 96–571, §4, Dec. 22, 1980, 94 Stat. 3342.
 
-In this section, before clause (1), the words “electric energy” are substituted for “electric power” for consistency in the revised section.
+In this section, before clause (1), the words "electric energy" are substituted for "electric power" for consistency in the revised section.
 

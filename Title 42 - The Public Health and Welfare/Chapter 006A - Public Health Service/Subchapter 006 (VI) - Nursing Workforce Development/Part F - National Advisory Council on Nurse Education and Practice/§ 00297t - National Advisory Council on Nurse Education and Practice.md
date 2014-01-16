@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish an advisory council to be known as the National Advisory Council on Nurse Education and Practice (in this section referred to as the “Advisory Council”).
+The Secretary shall establish an advisory council to be known as the National Advisory Council on Nurse Education and Practice (in this section referred to as the "Advisory Council").
 
 #### (b) Composition
 
@@ -28,7 +28,7 @@ The Secretary shall establish an advisory council to be known as the National Ad
 
 #### (3) Minority representation
 
-&emsp;In appointing the members of the Advisory Council under paragraph (1), the Secretaryshall ensure the adequate representation of minorities.
+&emsp;In appointing the members of the Advisory Council under paragraph (1), the Secretary shall ensure the adequate representation of minorities.
 
 #### (c) Vacancies
 
@@ -72,7 +72,7 @@ The Advisory Council shall—
 
 #### (g) Funding
 
-Amounts appropriated under this subchapter may be utilized by the Secretary to support the nurse education and practice activities of the Council.
+Amounts appropriated under this subchapter may be utilized by the Secretary to support thenurse education and practice activities of the Council.
 
 #### (h) FACA
 
@@ -86,7 +86,7 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 
 #### Codification
 
-November 13, 1998, referred to in subsec. (b)(2), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 105–392, which enacted this part, to reflect the probable intent of Congress.
+November 13, 1998, referred to in subsec. (b)(2), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 105–392, which enacted this part, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

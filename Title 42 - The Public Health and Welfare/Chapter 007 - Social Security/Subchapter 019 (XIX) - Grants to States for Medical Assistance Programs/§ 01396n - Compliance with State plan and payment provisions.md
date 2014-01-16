@@ -38,9 +38,9 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 > No waiver under this subsection may restrict the choice of the individual in receiving services under section 1396d(a)(4)(C) of this title. Subsection (h)(2) shall apply to a waiver under this subsection.
 
-#### (c) Waiver respecting medical assistance requirement in State plan; scope, etc.; “habilitation services” defined; imposition of certain regulatory limits prohibited; computation of expenditures for certain disabled patients; coordinated services; substitution of participants
+#### (c) Waiver respecting medical assistance requirement in State plan; scope, etc.; "habilitation services" defined; imposition of certain regulatory limits prohibited; computation of expenditures for certain disabled patients; coordinated services; substitution of participants
 
-(1) The Secretary may by waiver provide that a State plan approved under this subchapter may include as “medical assistance” under such plan payment for part or all of the cost of home or community-based services (other than room and board) approved by the Secretary which are provided pursuant to a written plan of care to individuals with respect to whom there has been a determination that but for the provision of such services the individuals would require the level of care provided in a hospital or a nursing facility or intermediate care facility for the mentally retarded the cost of which could be reimbursed under the State plan. For purposes of this subsection, the term “room and board” shall not include an amount established under a method determined by the State to reflect the portion of costs of rent and food attributable to an unrelated personal caregiver who is residing in the same household with an individual who, but for the assistance of such caregiver, would require admission to a hospital, nursing facility, or intermediate care facility for the mentally retarded.
+(1) The Secretary may by waiver provide that a State plan approved under this subchapter may include as "medical assistance" under such plan payment for part or all of the cost of home or community-based services (other than room and board) approved by the Secretary which are provided pursuant to a written plan of care to individuals with respect to whom there has been a determination that but for the provision of such services the individuals would require the level of care provided in a hospital or a nursing facility or intermediate care facility for the mentally retarded the cost of which could be reimbursed under the State plan. For purposes of this subsection, the term "room and board" shall not include an amount established under a method determined by the State to reflect the portion of costs of rent and food attributable to an unrelated personal caregiver who is residing in the same household with an individual who, but for the assistance of such caregiver, would require admission to a hospital, nursing facility, or intermediate care facility for the mentally retarded.
 
 (2) A waiver shall not be granted under this subsection unless the State provides assurances satisfactory to the Secretary that—
 
@@ -48,7 +48,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 &emsp;(B) the State will provide, with respect to individuals who—
 
-&emsp;&emsp;(i) are entitled to medical assistance for inpatient hospital services, nursing facilityservices, or services in an intermediate care facility for the mentally retarded under the State plan,
+&emsp;&emsp;(i) are entitled to medical assistance for inpatient hospital services, nursing facility services, or services in an intermediate care facility for the mentally retarded under the State plan,
 
 &emsp;&emsp;(ii) may require such services, and
 
@@ -72,7 +72,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 > Except as provided under paragraph (2)(D), the Secretary may not restrict the number of hours or days of respite care in any period which a State may provide under a waiver under this subsection.
 
-(5) For purposes of paragraph (4)(B), the term “habilitation services”—
+(5) For purposes of paragraph (4)(B), the term "habilitation services"—
 
 &emsp;(A) means services designed to assist individuals in acquiring, retaining, and improving the self-help, socialization, and adaptive skills necessary to reside successfully in home and community based settings; and
 
@@ -86,9 +86,9 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 (6) The Secretary may not require, as a condition of approval of a waiver under this section under paragraph (2)(D), that the actual total expenditures for home and community-based services under the waiver (and a claim for Federal financial participation in expenditures for the services) cannot exceed the approved estimates for these services. The Secretary may not deny Federal financial payment with respect to services under such a waiver on the ground that, in order to comply with paragraph (2)(D), a State has failed to comply with such a requirement.
 
-(7)(A) In making estimates under paragraph (2)(D) in the case of a waiver that applies only to individuals with a particular illness or condition who are inpatients in, or who would require the level of care provided in, hospitals, nursing facilities, or intermediate care facilities for the mentally retarded, the State may determine the average per capita expenditure that would have been made in a fiscal year for those individuals under the State plan separately from the expenditures for other individuals who are inpatients in, or who would require the level of care provided in, those respective facilities.
+(7)(A) In making estimates under paragraph (2)(D) in the case of a waiver that applies only to individuals with a particular illness or condition who are inpatients in, or who would require the level of care provided in, hospitals, nursing facilities, or intermediate care facilities for thementally retarded, the State may determine the average per capita expenditure that would have been made in a fiscal year for those individuals under the State plan separately from the expenditures for other individuals who are inpatients in, or who would require the level of care provided in, those respective facilities.
 
-(B) In making estimates under paragraph (2)(D) in the case of a waiver that applies only to individuals with developmental disabilities who are inpatients in a nursing facility and whom the State has determined, on the basis of an evaluation under paragraph (2)(B), to need the level of services provided by an intermediatecare facility for the mentally retarded, the State may determine the average per capita expenditures that would have been made in a fiscal year for those individuals under the State plan on the basis of the average per capita expenditures under the State plan for services to individuals who are inpatients in an intermediate care facility for the mentally retarded, without regard to the availability of beds for such inpatients.
+(B) In making estimates under paragraph (2)(D) in the case of a waiver that applies only to individuals with developmental disabilities who are inpatients in a nursing facility and whom the State has determined, on the basis of an evaluation under paragraph (2)(B), to need the level of services provided by an intermediate care facility for the mentally retarded, the State may determine the average per capita expenditures that would have been made in a fiscal year for those individuals under the State plan on the basis of the average per capita expenditures under the State plan for services to individuals who are inpatients in an intermediate care facility for the mentally retarded, without regard to the availability of beds for such inpatients.
 
 (C) In making estimates under paragraph (2)(D) in the case of a waiver to the extent that it applies to individuals with mental retardation or a related condition who are resident in an intermediate care facility for the mentally retarded the participation of which under the State plan is terminated, the State may determine the average per capita expenditures that would have been made in a fiscal year for those individuals without regard to any such termination.
 
@@ -100,7 +100,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 #### (d) Home and community-based services for elderly
 
-(1) Subject to paragraph (2), the Secretary shall grant a waiver to provide that a State plan approved under this subchapter shall include as “medical assistance” under such plan payment for part or all of the cost of home or community-based services (other than room and board) which are provided pursuant to a written plan of care to individuals 65 years of age or older with respect to whom there has been a determination that but for the provision of such services the individuals would be likely to require the level of care provided in a skilled nursing facility or intermediate care facility the cost of which could be reimbursed under the State plan. For purposes of this subsection, the term “room and board” shall not include an amount established under a method determined by the State to reflect the portion of costs of rent and food attributable to an unrelated personal caregiver who is residing in the same household with an individual who, but for the assistance of such caregiver, would require admission to a hospital, nursing facility, or intermediate care facility for the mentally retarded.
+(1) Subject to paragraph (2), the Secretary shall grant a waiver to provide that a State plan approved under this subchapter shall include as "medical assistance" under such plan payment for part or all of the cost of home or community-based services (other than room and board) which are provided pursuant to a written plan of care to individuals 65 years of age or older with respect to whom there has been a determination that but for the provision of such services the individuals would be likely to require the level of care provided in a skilled nursing facility or intermediate care facility the cost of which could be reimbursed under the State plan. For purposes of this subsection, the term "room and board" shall not include an amount established under a method determined by the State to reflect the portion of costs of rent and food attributable to an unrelated personal caregiver who is residing in the same household with an individual who, but for the assistance of such caregiver, would require admission to a hospital, nursing facility, or intermediate care facility for the mentally retarded.
 
 (2) A waiver shall not be granted under this subsection unless the State provides assurances satisfactory to the Secretary that—
 
@@ -124,7 +124,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 (4) A waiver under this subsection may, consistent with paragraph (2), provide medical assistance to individuals for case management services, homemaker/home health aide services and personal care services, adult day health services, respite care, and other medical and social services that can contribute to the health and well-being of individuals and their ability to reside in a community-based care setting.
 
-(5)(A) In the case of a State having a waiver approved under this subsection, notwithstanding any other provision of section 1396b of this titleto the contrary, the total amount expended by the State for medical assistance with respect to skilled nursing facility services, intermediate care facility services, and home and community-based services under the State plan for individuals 65 years of age or older during a waiver year under this subsection may not exceed the projected amount determined under subparagraph (B).
+(5)(A) In the case of a State having a waiver approved under this subsection, notwithstanding any other provision of section 1396b of this title to the contrary, the total amount expended by the State for medical assistance with respect to skilled nursing facility services, intermediate care facility services, and home and community-based services under the State plan for individuals 65 years of age or older during a waiver year under this subsection may not exceed the projected amount determined under subparagraph (B).
 
 (B) For purposes of subparagraph (A), the projected amount under this subparagraph is the sum of the following:
 
@@ -152,19 +152,19 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 &emsp;&emsp;(III) a method for projecting, on a State specific basis, the percentage increase in the number of residents in each State who are over 65 years of age for any period.
 
-> &emsp;The Secretary shall develop (by not later than October 1, 1989) a method for projecting, on a State-specific basis, the percentage increase in the number of residents in each State who are over 65 years of age for any period. Effective on and after the date the Secretary promulgates the regulation under clause (iii), any reference in this subparagraph to the “lesser of 7 percent” shall be deemed to be a reference to the “greater of 7 percent”.
+> &emsp;The Secretary shall develop (by not later than October 1, 1989) a method for projecting, on a State-specific basis, the percentage increase in the number of residents in each State who are over 65 years of age for any period. Effective on and after the date the Secretary promulgates the regulation under clause (iii), any reference in this subparagraph to the "lesser of 7 percent" shall be deemed to be a reference to the "greater of 7 percent".
 
 &emsp;(iv) If there is enacted after December 22, 1987, an Act which amends this subchapter whose provisions become effective on or after such date and which results in an increase in the aggregate amount of medical assistance under this subchapter for nursing facility services and home and community-based services for individuals who have attained the age of 65 years, the Secretary, at the request of a State with a waiver under this subsection for a waiver year or years and in close consultation with the State, shall adjust the projected amount computed under this subparagraph for the waiver year or years to take into account such increase.
 
 (C) In this paragraph:
 
-&emsp;(i) The term “home and community-based services” includes services described in sections 1396d(a)(7) and 1396d(a)(8) of this title, services described in subsection (c)(4)(B) of this section, services described in paragraph (4), and personal care services.
+&emsp;(i) The term "home and community-based services" includes services described in sections 1396d(a)(7) and 1396d(a)(8) of this title, services described in subsection (c)(4)(B) of this section, services described in paragraph (4), and personal care services.
 
-&emsp;(ii)(I) Subject to subclause (II), the term “base year” means the most recent year (ending before December 22, 1987) for which actual final expenditures under this subchapter have been reported to, and accepted by, the Secretary.
+&emsp;(ii)(I) Subject to subclause (II), the term "base year" means the most recent year (ending before December 22, 1987) for which actual final expenditures under this subchapter have been reported to, and accepted by, the Secretary.
 
-&emsp;(II) For purposes of subparagraph (C), in the case of a State that does not report expenditures on the basis of the age categories described in such subparagraph for a year ending before December 22, 1987, the term “base year” means fiscal year 1989.
+&emsp;(II) For purposes of subparagraph (C), in the case of a State that does not report expenditures on the basis of the age categories described in such subparagraph for a year ending before December 22, 1987, the term "base year" means fiscal year 1989.
 
-&emsp;(iii) The term “intermediate care facility services” does not include services furnished in an institution certified in accordance with section 1396d(d) of this title.
+&emsp;(iii) The term "intermediate care facility services" does not include services furnished in an institution certified in accordance with section 1396d(d) of this title.
 
 (6)(A) A determination by the Secretary to deny a request for a waiver (or extension of waiver) under this subsection shall be subject to review to the extent provided under section 1316(b) of this title.
 
@@ -172,7 +172,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 #### (e) Waiver for children infected with AIDS or drug dependent at birth
 
-(1)(A) Subject to paragraph (2), the Secretary shall grant a waiver to provide that a State plan approved under this subchapter shall include as “medical assistance” under such plan payment for part or all of the cost of nursing care, respite care, physicians’ services, prescribed drugs, medical devices and supplies, transportation services, and such other services requested by the State as the Secretary may approve which are provided pursuant to a written plan of care to a child described in subparagraph (B) with respect to whom there has been a determination that but for the provision of such services the infants would be likely to require the level of care provided in a hospital or nursing facility the cost of which could be reimbursed under the State plan.
+(1)(A) Subject to paragraph (2), the Secretary shall grant a waiver to provide that a State plan approved under this subchapter shall include as "medical assistance" under such plan payment for part or all of the cost of nursing care, respite care, physicians' services, prescribed drugs, medical devices and supplies, transportation services, and such other services requested by the State as the Secretary may approve which are provided pursuant to a written plan of care to a child described in subparagraph (B) with respect to whom there has been a determination that but for the provision of such services the infants would be likely to require the level of care provided in a hospital or nursing facility the cost of which could be reimbursed under the State plan.
 
 (B) Children described in this subparagraph are individuals under 5 years of age who—
 
@@ -204,11 +204,11 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 #### (g) Optional targeted case management services
 
-(1) A State may provide, as medical assistance, case management services under the plan without regard to the requirements of section 1396a(a)(1) of this title and section 1396a(a)(10)(B) of this title. The provision of case management services under this subsection shall not restrict the choice of the individual to receive medical assistance in violation of section 1396a(a)(23) of this title. A State may limit the provision of case management services under this subsection to individuals with acquired immune deficiency syndrome (AIDS), or with AIDS-related conditions, or with either, or to individuals described in section 1396a(z)(1)(A) of this title and a State may limit the provision of case management services under this subsection to individuals with chronic mental illness. The State may limit the case managers available with respect to case management services for eligible individuals with developmental disabilities or with chronic mental illness in order to ensure that the case managers for such individuals are capable of ensuring that such individuals receive needed services.
+(1) A State may provide, as medical assistance, case management services under the plan without regard to the requirements of section 1396a(a)(1) of this title and section 1396a(a)(10)(B) of this title. The provision of case management services under this subsection shall not restrict the choice of the individual to receive medical assistance in violation of section 1396a(a)(23) of this title. A State may limit the provision of case management services under this subsection to individuals with acquired immune deficiency syndrome (AIDS), or with AIDS-related conditions, or with either, or to individuals described in section 1396a(z)(1)(A) of this title and a State may limit the provision of case management services under this subsection to individualswith chronic mental illness. The State may limit the case managers available with respect to case management services for eligible individuals with developmental disabilities or with chronic mental illness in order to ensure that the case managers for such individuals are capable of ensuring that such individuals receive needed services.
 
 (2) For purposes of this subsection:
 
-&emsp;(A)(i) The term “case management services” means services which will assist individuals eligible under the plan in gaining access to needed medical, social, educational, and other services.
+&emsp;(A)(i) The term "case management services" means services which will assist individuals eligible under the plan in gaining access to needed medical, social, educational, and other services.
 
 &emsp;(ii) Such term includes the following:
 
@@ -250,7 +250,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 &emsp;&emsp;(VIII) Making placement arrangements.
 
-&emsp;(B) The term “targeted case management services” are case management services that are furnished without regard to the requirements of section 1396a(a)(1) of this title and section 1396a(a)(10)(B) of this title to specific classes of individuals or to individuals who reside in specified areas.
+&emsp;(B) The term "targeted case management services" are case management services that are furnished without regard to the requirements of section 1396a(a)(1) of this title and section 1396a(a)(10)(B) of this title to specific classes of individuals or to individuals who reside in specified areas.
 
 (3) With respect to contacts with individuals who are not eligible for medical assistance under the State plan or, in the case of targeted case management services, individuals who are eligible for such assistance but are not part of the target population specified in the State plan, such contacts—
 
@@ -266,11 +266,11 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 #### (h) Period of waivers; continuations
 
-(1) No waiver under this section (other than a waiver under subsection (c), (d), or (e), or a waiver described in paragraph (2)) may extend over a period of longer than two years unless the State requests continuation of such waiver, and such request shall be deemed granted unless the Secretary, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State agency in writing with respect to any additional information which is needed in order to make a final determination with respect to the request. After the date the Secretary receives such additional information, the request shall be deemed granted unless the Secretary, within 90 days of such date, denies such request.
+(1) No waiver under this section (other than a waiver under subsection (c), (d), or (e), or a waiver described in paragraph (2)) may extend over a period of longer than two years unless the State requests continuation of such waiver, and such request shall be deemed granted unless theSecretary, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State agency in writing with respect to any additional information which is needed in order to make a final determination with respect to the request. After the date the Secretary receives such additional information, the request shall be deemed granted unless the Secretary, within 90 days of such date, denies such request.
 
-(2)(A) Notwithstanding subsections (c)(3) and (d)(3), any waiver under subsection (b), (c), or (d), or a waiver under section 1315 of this title,that provides medical assistance for dual eligible individuals (including any such waivers under which non dual eligible individuals may be enrolled in addition to dual eligible individuals) may be conducted for a period of 5 years and, upon the request of the State, may be extended for additional 5-year periods unless the Secretary determines that for the previous waiver period the conditions for the waiver have not been met or it would no longer be cost-effective and efficient, or consistent with the purposes of this subchapter, to extend the waiver.
+(2)(A) Notwithstanding subsections (c)(3) and (d)(3), any waiver under subsection (b), (c), or (d), or a waiver under section 1315 of this title, that provides medical assistance for dual eligible individuals (including any such waivers under which non dual eligible individuals may be enrolled in addition to dual eligible individuals) may be conducted for a period of 5 years and, upon the request of the State, may be extended for additional 5-year periods unless the Secretary determines that for the previous waiver period the conditions for the waiver have not been met or it would no longer be cost-effective and efficient, or consistent with the purposes of this subchapter, to extend the waiver.
 
-(B) In this paragraph, the term “dual eligible individual” means an individual who is entitled to, or enrolled for, benefits under part A of subchapter XVIII, or enrolled for benefits under part B of subchapter XVIII, and is eligible for medical assistance under the State plan under this subchapter or under a waiver of such plan.
+(B) In this paragraph, the term "dual eligible individual" means an individual who is entitled to, or enrolled for, benefits under part A of subchapter XVIII, or enrolled for benefits under part B of subchapter XVIII, and is eligible for medical assistance under the State plan under this subchapter or under a waiver of such plan.
 
 #### (i) State plan amendment option to provide home and community-based services for elderly and disabled individuals
 
@@ -366,7 +366,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 #### (II) Self-directed services
 
-&emsp;&emsp;&emsp;&emsp;The term “self-directed” means, with respect to the home and community-based services offered under the State plan amendment, such services for the individual which are planned and purchased under the direction and control of such individual or the individual's authorized representative, including the amount, duration, scope, provider, and location of such services, under the State plan consistent with the following requirements:
+&emsp;&emsp;&emsp;&emsp;The term "self-directed" means, with respect to the home and community-based services offered under the State plan amendment, such services for the individual which are planned and purchased under the direction and control of such individual or the individual's authorized representative, including the amount, duration, scope, provider, and location of such services, under the State plan consistent with the following requirements:
 
 #### (aa) Assessment
 
@@ -384,7 +384,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) identifies the methods by which the individual or the individual's authorized representative will select, manage, and dismiss providers of such services;
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) specifies the role of family members and others whose participation is sought by the individual or the individual's authorized representative with respect to such services;
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) specifies the role of family members and others whose participation issought by the individual or the individual's authorized representative with respect to such services;
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) is developed through a person-centered process that is directed by the individual or the individual's authorized representative, builds upon the individual's capacity to engage in activities that promote community life and that respects the individual's preferences, choices, and abilities, and involves families, friends, and professionals as desired or required by the individual or the individual's authorized representative;
 
@@ -422,7 +422,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 #### (2) Definition of individual's representative
 
-&emsp;In this section, the term “individual's representative” means, with respect to an individual, a parent, a family member, or a guardian of the individual, an advocate for the individual, or any other individual who is authorized to represent the individual.
+&emsp;In this section, the term "individual's representative" means, with respect to an individual, a parent, a family member, or a guardian of the individual, an advocate for the individual, or any other individual who is authorized to represent the individual.
 
 #### (3) Nonapplication
 
@@ -440,7 +440,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 #### (A) In general
 
-&emsp;&emsp;A State that provides home and community-based services in accordance with this subsection to individuals who satisfy the needs-based criteria for the receipt of such services established under paragraph (1)(A) may, in addition to continuing to provide such services to such individuals, elect to provide home and community-based services in accordance with the requirements of this paragraph to individuals who are eligible for home and community-based services under a waiver approved for the State under subsection (c), (d), or (e) or under section 1315 ofthis title to provide such services, but only for those individuals whose income does not exceed 300 percent of the supplemental security income benefit rate established by section 1382(b)(1) of this title.
+&emsp;&emsp;A State that provides home and community-based services in accordance with thissubsection to individuals who satisfy the needs-based criteria for the receipt of such services established under paragraph (1)(A) may, in addition to continuing to provide such services to such individuals, elect to provide home and community-based services in accordance with the requirements of this paragraph to individuals who are eligible for home and community-based services under a waiver approved for the State under subsection (c), (d), or (e) or under section 1315 of this title to provide such services, but only for those individuals whose income does not exceed 300 percent of the supplemental security income benefit rate established by section 1382(b)(1) of this title.
 
 #### (B) Application of same requirements for individuals satisfying needs-based criteria
 
@@ -476,7 +476,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 #### (j) Optional choice of self-directed personal assistance services
 
-(1) A State may provide, as “medical assistance”, payment for part or all of the cost of self-directed personal assistance services (other than room and board) under the plan which are provided pursuant to a written plan of care to individuals with respect to whom there has been a determination that, but for the provision of such services, the individuals would require and receive personal care services under the plan, or home and community-based services provided pursuant to a waiver under subsection (c). Self-directed personal assistance services may not be provided under this subsection to individuals who reside in a home or property that is owned, operated, or controlled by a provider of services, not related by blood or marriage.
+(1) A State may provide, as "medical assistance", payment for part or all of the cost of self-directed personal assistance services (other than room and board) under the plan which are provided pursuant to a written plan of care to individuals with respect to whom there has been a determination that, but for the provision of such services, the individuals would require and receive personal care services under the plan, or home and community-based services provided pursuant to a waiver under subsection (c). Self-directed personal assistance services may not be provided under this subsection to individuals who reside in a home or property that is owned, operated, or controlled by a provider of services, not related by blood or marriage.
 
 (2) The Secretary shall not grant approval for a State self-directed personal assistance services program under this section unless the State provides assurances satisfactory to the Secretary of the following:
 
@@ -496,11 +496,11 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 &emsp;(D) The State will provide for a support system that ensures participants in the self-directed personal assistance services program are appropriately assessed and counseled prior to enrollment and are able to manage their budgets. Additional counseling and management support may be provided at the request of the participant.
 
-&emsp;(E) The State will provide to the Secretary an annual report on the number of individuals served and total expenditures on their behalf in the aggregate. The State shall also providean evaluation of overall impact on the health and welfare of participating individuals compared to non-participants every three years.
+&emsp;(E) The State will provide to the Secretary an annual report on the number of individuals served and total expenditures on their behalf in the aggregate. The State shall also provide an evaluation of overall impact on the health and welfare of participating individuals compared to non-participants every three years.
 
 (3) A State may provide self-directed personal assistance services under the State plan without regard to the requirements of section 1396a(a)(1) of this title and may limit the population eligible to receive these services and limit the number of persons served without regard to section 1396a(a)(10)(B) of this title.
 
-(4)(A) For purposes of this subsection, the term “self-directed personal assistance services” means personal care and related services, or home and community-based services otherwise available under the plan under this subchapter or subsection (c), that are provided to an eligible participant under a self-directed personal assistance services program under this section, under which individuals, within an approved self-directed services plan and budget, purchase personal assistance and related services, and permits participants to hire, fire, supervise, and manage the individuals providing such services.
+(4)(A) For purposes of this subsection, the term "self-directed personal assistance services" means personal care and related services, or home and community-based services otherwise available under the plan under this subchapter or subsection (c), that are provided to an eligible participant under a self-directed personal assistance services program under this section, under which individuals, within an approved self-directed services plan and budget, purchase personal assistance and related services, and permits participants to hire, fire, supervise, and manage the individuals providing such services.
 
 (B) At the election of the State—
 
@@ -508,7 +508,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 &emsp;(ii) the individual may use the individual's budget to acquire items that increase independence or substitute (such as a microwave oven or an accessibility ramp) for human assistance, to the extent that expenditures would otherwise be made for the human assistance.
 
-(5) For purpose of this section, the term “approved self-directed services plan and budget” means, with respect to a participant, the establishment of a plan and budget for the provision of self-directed personal assistance services, consistent with the following requirements:
+(5) For purpose of this section, the term "approved self-directed services plan and budget" means, with respect to a participant, the establishment of a plan and budget for the provision of self-directed personal assistance services, consistent with the following requirements:
 
 #### (A) Self-direction
 
@@ -540,7 +540,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 #### (1) In general
 
-&emsp;Subject to the succeeding provisions of this subsection, beginning October 1, 2011, a State may provide through a State plan amendment for the provision of medical assistance for home and community-based attendant services and supports for individuals who are eligible for medical assistance under the State plan whose income does not exceed 150 percent of the poverty line (as defined in section 1397jj(c)(5) of this title) or, if greater, the income level applicable for an individual who has been determined to require an institutional level of care to be eligible for nursing facility services under the State plan and with respect to whom there has been a determination that, but for the provision of such services, the individuals would require the level of care provided in a hospital, a nursing facility, an intermediate care facility for the mentally retarded, or an institution for mental diseases, the cost of which could be reimbursed under the State plan, but only if the individual chooses to receive such home and community-based attendant services and supports, and only if the State meets the following requirements:
+&emsp;Subject to the succeeding provisions of this subsection, beginning October 1, 2011, a State may provide through a State plan amendment for the provision of medical assistance for home and community-based attendant services and supports for individuals who are eligible for medical assistance under the State plan whose income does not exceed 150 percent of the poverty line (as defined in section 1397jj(c)(5) of this title) or, if greater, the income level applicable for an individual who has been determined to require an institutional level of care to be eligible for nursing facility services under the State plan and with respect to whom there has been a determination that, but for the provision of such services, the individuals would require the level of care provided in a hospital, a nursing facility, an intermediate care facility for the mentally retarded, or an institution for mental diseases, the cost of which could be reimbursed under the State plan, but only if the individualchooses to receive such home and community-based attendant services and supports, and only if the State meets the following requirements:
 
 #### (A) Availability
 
@@ -662,33 +662,33 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 #### (A) Activities of daily living
 
-&emsp;&emsp;The term “activities of daily living” includes tasks such as eating, toileting, grooming, dressing, bathing, and transferring.
+&emsp;&emsp;The term "activities of daily living" includes tasks such as eating, toileting, grooming, dressing, bathing, and transferring.
 
 #### (B) Consumer controlled
 
-&emsp;&emsp;The term “consumer controlled” means a method of selecting and providing services and supports that allow the individual, or where appropriate, the individual's representative, maximum control of the home and community-based attendant services and supports, regardless of who acts as the employer of record.
+&emsp;&emsp;The term "consumer controlled" means a method of selecting and providing services and supports that allow the individual, or where appropriate, the individual's representative, maximum control of the home and community-based attendant services and supports, regardless of who acts as the employer of record.
 
 #### (C) Delivery models
 
 #### (i) Agency-provider model
 
-&emsp;&emsp;&emsp;The term “agency-provider model” means, with respect to the provision of home and community-based attendant services and supports for an individual, subject to paragraph (4), a method of providing consumer controlled services and supports under which entities contract for the provision of such services and supports.
+&emsp;&emsp;&emsp;The term "agency-provider model" means, with respect to the provision of home and community-based attendant services and supports for an individual, subject to paragraph (4), a method of providing consumer controlled services and supports under which entities contract for the provision of such services and supports.
 
 #### (ii) Other models
 
-&emsp;&emsp;&emsp;The term “other models” means, subject to paragraph (4), methods, other than an agency-provider model, for the provision of consumer controlled services and supports. Such models may include the provision of vouchers, direct cash payments, or use of a fiscal agent to assist in obtaining services.
+&emsp;&emsp;&emsp;The term "other models" means, subject to paragraph (4), methods, other than an agency-provider model, for the provision of consumer controlled services and supports. Such models may include the provision of vouchers, direct cash payments, or use of a fiscal agent to assist in obtaining services.
 
 #### (D) Health-related tasks
 
-&emsp;&emsp;The term “health-related tasks” means specific tasks related to the needs of an individual, which can be delegated or assigned by licensed health-care professionals under State law to be performed by an attendant.
+&emsp;&emsp;The term "health-related tasks" means specific tasks related to the needs of an individual, which can be delegated or assigned by licensed health-care professionals under State law to be performed by an attendant.
 
 #### (E) Individual's representative
 
-&emsp;&emsp;The term “individual's representative” means a parent, family member, guardian, advocate, or other authorized representative of an individual <sup>3</sup>
+&emsp;&emsp;The term "individual's representative" means a parent, family member, guardian, advocate, or other authorized representative of an individual <sup>3</sup>
 
 #### (F) Instrumental activities of daily living
 
-&emsp;&emsp;The term “instrumental activities of daily living” includes (but is not limited to) meal planning and preparation, managing finances, shopping for food, clothing, and other essential items, performing essential household chores, communicating by phone or other media, and traveling around and participating in the community.
+&emsp;&emsp;The term "instrumental activities of daily living" includes (but is not limited to) meal planning and preparation, managing finances, shopping for food, clothing, and other essential items, performing essential household chores, communicating by phone or other media, and traveling around and participating in the community.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1915, as added Pub. L. 97–35, title XXI, §2175(b), Aug. 13, 1981, 95 Stat. 809; amended Pub. L. 97–35, title XXI, §§2176, 2177(a), Aug. 13, 1981, 95 Stat. 812, 813; Pub. L. 97–248, title I, §137(b)(19)(A), (20)–(25), Sept. 3, 1982, 96 Stat. 380; Pub. L. 97–448, title III, §309(b)(17), Jan. 12, 1983, 96 Stat. 2409; Pub. L. 98–369, div. B, title III, §2373(b)(21), July 18, 1984, 98 Stat. 1112; Pub. L. 99–272, title IX, §§9502(a)–(e), (g)–(i), 9508(a), Apr. 7, 1986, 100 Stat. 202–204, 210; Pub. L. 99–509, title IX, §§9320(h)(3), 9411(a)–(d), Oct. 21, 1986, 100 Stat. 2016, 2061, 2062; Pub. L. 100–93, §8(h)(2), Aug. 18, 1987, 101 Stat. 694; Pub. L. 100–203, title IV, §§4072(d), 4102(a)(1), (b)(2), 4118(a)(1), (b), (i)(1), (k), (l)(1), (p)(10), 4211(h)(10), Dec. 22, 1987, 101 Stat. 1330–117, 1330–143, 1330–146, 1330–154 to 1330–157, 1330–160, 1330–206; Pub. L. 100–360, title II, §204(d)(3), title IV, §411(k)(3), (10)(A), (H), (I), (17)(A), (l)(3)(G), July 1, 1988, 102 Stat. 729, 791, 794, 796, 799, 803; Pub. L. 100–485, title VI, §608(d)(26)(M), (f)(2), Oct. 13, 1988, 102 Stat. 2422, 2424; Pub. L. 100–647, title VIII, §§8432(a), (b), 8437(a), Nov. 10, 1988, 102 Stat. 3804, 3806; Pub. L. 101–234, title II, §201(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 101–239, title VI, §§6115(c), 6411(c)(2), Dec. 19, 1989, 103 Stat. 2219, 2270; Pub. L. 101–508, title IV, §§4604(c), 4704(b)(3), 4741, 4742(a), (c)(1), (d)(1), Nov. 5, 1990, 104 Stat. 1388–169, 1388–172, 1388–197, 1388–198; Pub. L. 102–119, §26(i)(2), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–66, title XIII, §13603(d), Aug. 10, 1993, 107 Stat. 620; Pub. L. 105–33, title IV, §§4106(c), 4743(a), Aug. 5, 1997, 111 Stat. 368, 524; Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(o), (z)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–397, 1501A–398; Pub. L. 106–554, §1(a)(6) \[title VII, §702(c)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–574; Pub. L. 107–121, §2(b)(3), Jan. 15, 2002, 115 Stat. 2384; Pub. L. 108–446, title III, §305(j)(2), Dec. 3, 2004, 118 Stat. 2806; Pub. L. 109–171, title VI, §§6052(a), 6086(a), 6087(a), Feb. 8, 2006, 120 Stat. 93, 121, 127; Pub. L. 111–148, title II, §§2401, 2402(b), (c), (e), (f), 2601(a), (b)(1), Mar. 23, 2010, 124 Stat. 297, 302–304, 314, 315; Pub. L. 111–152, title I, §1205, Mar. 30, 2010, 124 Stat. 1056.)
 
@@ -706,101 +706,101 @@ The Fair Labor Standards Act of 1938, referred to in subsec. (k)(4), is act June
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–148, §2601(b)(1)(A), inserted at end of concluding provisions “Subsection (h)(2) shall apply to a waiver under this subsection.”
+<b>2010</b>—Subsec. (b). Pub. L. 111–148, §2601(b)(1)(A), inserted at end of concluding provisions "Subsection (h)(2) shall apply to a waiver under this subsection."
 
-Subsec. (c)(3). Pub. L. 111–148, §2601(b)(1)(B), inserted “(other than a waiver described in subsection (h)(2))” after “A waiver under this subsection”.
+Subsec. (c)(3). Pub. L. 111–148, §2601(b)(1)(B), inserted "(other than a waiver described in subsection (h)(2))" after "A waiver under this subsection".
 
-Subsec. (d)(3). Pub. L. 111–148, §2601(b)(1)(C), which directed insertion of “(other than a waiver described in subsection (h)(2))” after “A waiver under this subsection” in second sentence, was executed by making the insertion after “a waiver under this subsection”, to reflect the probable intent of Congress.
+Subsec. (d)(3). Pub. L. 111–148, §2601(b)(1)(C), which directed insertion of "(other than a waiver described in subsection (h)(2))" after "A waiver under this subsection" in second sentence, was executed by making the insertion after "a waiver under this subsection", to reflect the probable intent of Congress.
 
-Subsec. (h). Pub. L. 111–148, §2601(a), designated existing provisions as par. (1), inserted “, or a waiver described in paragraph (2)” after “(c), (d), or (e)”, and added par. (2).
+Subsec. (h). Pub. L. 111–148, §2601(a), designated existing provisions as par. (1), inserted ", or a waiver described in paragraph (2)" after "(c), (d), or (e)", and added par. (2).
 
-Subsec. (i)(1). Pub. L. 111–148, §2402(c), struck out “or such other services requested by the State as the Secretary may approve” after “room and board”.
+Subsec. (i)(1). Pub. L. 111–148, §2402(c), struck out "or such other services requested by the State as the Secretary may approve" after "room and board".
 
 Subsec. (i)(1)(C). Pub. L. 111–148, §2402(e)(1), added subpar. (C) and struck out former subpar. (C) which related to projection of number of individuals to be provided home and community-based services and State authority to limit number of eligible individuals.
 
-Subsec. (i)(1)(D)(ii)(II). Pub. L. 111–148, §2402(e)(2), substituted “to continue to be eligible for such services after the effective date of the modification and until such time as the individual no longer meets the standard for receipt of such services under such pre-modified criteria” for “to be eligible for such services for a period of at least 12 months beginning on the date the individual first received medical assistance for such services”.
+Subsec. (i)(1)(D)(ii)(II). Pub. L. 111–148, §2402(e)(2), substituted "to continue to be eligible for such servicesafter the effective date of the modification and until such time as the individual no longer meets the standard for receipt of such services under such pre-modified criteria" for "to be eligible for such services for a period of at least 12 months beginning on the date the individual first received medical assistance for such services".
 
-Subsec. (i)(3). Pub. L. 111–148, §2402(f), substituted “1396a(a)(10)(B) of this title (relating to comparability)” for “1396a(a)(1) of this title (relating to statewideness)”.
+Subsec. (i)(3). Pub. L. 111–148, §2402(f), substituted "1396a(a)(10)(B) of this title (relating to comparability)" for "1396a(a)(1) of this title (relating to statewideness)".
 
 Subsec. (i)(6), (7). Pub. L. 111–148, §2402(b), added pars. (6) and (7).
 
 Subsec. (k). Pub. L. 111–148, §2401, added subsec. (k).
 
-Subsec. (k)(1). Pub. L. 111–152 substituted “October 1, 2011” for “October 1, 2010” in introductory provisions.
+Subsec. (k)(1). Pub. L. 111–152 substituted "October 1, 2011" for "October 1, 2010" in introductory provisions.
 
-<b>2006</b>—Subsec. (g)(2) to (5). Pub. L. 109–171, §6052(a), added pars. (2) to (5) and struck out former par. (2), which read as follows: “For purposes of this subsection, the term ‘case management services’ means services which will assist individuals eligible under the plan in gaining access to needed medical, social, educational, and other services.”
+<b>2006</b>—Subsec. (g)(2) to (5). Pub. L. 109–171, §6052(a), added pars. (2) to (5) and struck out former par. (2), which read as follows: "For purposes of this subsection, the term 'case management services' means services which will assist individuals eligible under the plan in gaining access to needed medical, social, educational, and other services."
 
 Subsec. (i). Pub. L. 109–171, §6086(a), added subsec. (i).
 
 Subsec. (j). Pub. L. 109–171, §6087(a), added subsec. (j).
 
-<b>2004</b>—Subsec. (c)(5)(C)(i). Pub. L. 108–446, which directed the substitution of “(as such terms are defined in section 1401 of title 20)” for “as defined in section 1401(16) and (17) of title 20)”, was executed by making the substitution for “(as defined in paragraphs (16) and (17) of section 1401(a) of title 20)” to reflect the probable intent of Congress and the amendment by Pub. L. 102–119. See 1991 Amendment note below.
+<b>2004</b>—Subsec. (c)(5)(C)(i). Pub. L. 108–446, which directed the substitution of "(as such terms are defined in section 1401 of title 20)" for "as defined in section 1401(16) and (17) of title 20)", was executed by making the substitution for "(as defined in paragraphs (16) and (17) of section 1401(a) of title 20)" to reflect the probable intent of Congress and the amendment by Pub. L. 102–119. See 1991 Amendment note below.
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–121 substituted “1396a(bb)” for “1396a(aa)”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–121 substituted "1396a(bb)" for "1396a(aa)".
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–554 substituted “1396a(a)(15), 1396a(aa),” for “1396a(a)(13)(C)” in introductory provisions.
+<b>2000</b>—Subsec. (b). Pub. L. 106–554 substituted "1396a(a)(15), 1396a(aa)," for "1396a(a)(13)(C)" in introductory provisions.
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(z)\], which directed, effective Oct. 1, 2004, substitution of “section” for “sections 1396a(a)(13)(C) and” in introductory provisions, could not be executed due to the amendment by Pub. L. 106–554. See 2000 Amendment note above.
+<b>1999</b>—Subsec. (b). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(z)\], which directed, effective Oct. 1, 2004, substitution of "section" for "sections 1396a(a)(13)(C) and" in introductory provisions, could not be executed due to the amendment by Pub. L. 106–554. See 2000 Amendment note above.
 
-Pub. L. 106–113, §1000(a)(6) \[title VI, §608(o)(1)\], substituted “1396a(a)(13)(C)” for “1396a(a)(13)(E)” in introductory provisions.
+Pub. L. 106–113, §1000(a)(6) \[title VI, §608(o)(1)\], substituted "1396a(a)(13)(C)" for "1396a(a)(13)(E)" in introductory provisions.
 
-Subsec. (d)(5)(B)(iii). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(o)(2)\], which directed substitution of “65” for “75” in last sentence of cl. (iii), was executed by making the substitution in the penultimate sentence to reflect the probable intent of Congress.
+Subsec. (d)(5)(B)(iii). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(o)(2)\], which directed substitution of "65" for "75" in last sentence of cl. (iii), was executed by making the substitution in the penultimate sentence to reflect the probable intent of Congress.
 
-Subsec. (h). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(o)(3)\], substituted “90 days of such date” for “90 day of such date”.
+Subsec. (h). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(o)(3)\], substituted "90 days of such date" for "90 day of such date".
 
-<b>1997</b>—Subsec. (a)(1)(B)(ii)(I). Pub. L. 105–33, §4106(c), substituted “paragraphs (16) and (17)” for “paragraphs (15) and (16)”.
+<b>1997</b>—Subsec. (a)(1)(B)(ii)(I). Pub. L. 105–33, §4106(c), substituted "paragraphs (16) and (17)" for "paragraphs (15) and (16)".
 
-Subsec. (c)(5). Pub. L. 105–33, §4743(a), in introductory provisions, struck out “, with respect to individuals who receive such services after discharge from a nursing facility or intermediate care facility for the mentally retarded” after “ ‘habilitation services’ ”.
+Subsec. (c)(5). Pub. L. 105–33, §4743(a), in introductory provisions, struck out ", with respect to individuals who receive such services after discharge from a nursing facility or intermediate care facility for the mentally retarded" after " 'habilitation services' ".
 
-<b>1993</b>—Subsec. (g)(1). Pub. L. 103–66 inserted “or to individuals described in section 1396a(z)(1)(A) of this title” after “or with either,”.
+<b>1993</b>—Subsec. (g)(1). Pub. L. 103–66 inserted "or to individuals described in section 1396a(z)(1)(A) of this title" after "or with either,".
 
-<b>1991</b>—Subsec. (c)(5)(C)(i). Pub. L. 102–119 substituted “(as defined in paragraphs (16) and (17) of section 1401(a) of title 20)” for “(as defined in section 1401(16) and (17) of title 20)”. The reference to section 1401 of title 20 includes the substitution of “Individuals with Disabilities Education Act” for “Education of the Handicapped Act” in the original.
+<b>1991</b>—Subsec. (c)(5)(C)(i). Pub. L. 102–119 substituted "(as defined in paragraphs (16) and (17) of section 1401(a) of title 20)" for "(as defined in section 1401(16) and (17) of title 20)". The reference to section 1401 of title 20 includes the substitution of "Individuals with Disabilities Education Act" for "Education of the Handicapped Act" in the original.
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–508, §4704(b)(3), inserted “(other than sections 1396a(a)(13)(E) and 1396a(a)(10)(A) of this title insofar as it requires provision of the care and services described in section 1396d(a)(2)(C) of this title)” after “section 1396a of this title” in introductory provisions.
+<b>1990</b>—Subsec. (b). Pub. L. 101–508, §4704(b)(3), inserted "(other than sections 1396a(a)(13)(E) and 1396a(a)(10)(A) of this title insofar as it requires provision of the care and services described in section 1396d(a)(2)(C) of this title)" after "section 1396a of this title" in introductory provisions.
 
-Pub. L. 101–508, §4604(c), which directed amendment of subsec. (b) by inserting “(other than subsection (s))” after “Section 1396a of this title”, was executed by inserting the new language after “section 1396a of this title” to reflect the probable intent of Congress.
+Pub. L. 101–508, §4604(c), which directed amendment of subsec. (b) by inserting "(other than subsection (s))" after "Section 1396a of this title", was executed by inserting the new language after "section 1396a of this title" to reflect the probable intent of Congress.
 
-Subsec. (b)(4). Pub. L. 101–508, §4742(a), inserted before period at end “and if providers under such restriction are paid on a timely basis in the same manner as health care practitioners must be paid under section 1396a(a)(37)(A) of this title”.
+Subsec. (b)(4). Pub. L. 101–508, §4742(a), inserted before period at end "and if providers under such restriction are paid on a timely basis in the same manner as health care practitioners must be paid under section 1396a(a)(37)(A) of this title".
 
-Subsec. (c)(1). Pub. L. 101–508, §4741(a), inserted at end “For purposes of this subsection, the term ‘room and board’ shall not include an amount established under a method determined by the State to reflect the portion of costs of rent and food attributable to an unrelated personal caregiver who is residing in the same household with an individual who, but for the assistance of such caregiver, would require admission to a hospital, nursing facility, or intermediate care facility for the mentally retarded.”
+Subsec. (c)(1). Pub. L. 101–508, §4741(a), inserted at end "For purposes of this subsection, the term 'room and board' shall not include an amount established under a method determined by the State to reflect the portion of costs of rent and food attributable to an unrelated personal caregiver who is residing in the same household with an individual who, but for the assistance of such caregiver, would require admission to a hospital, nursing facility, or intermediate care facility for the mentally retarded."
 
-Subsec. (c)(4). Pub. L. 101–508, §4742(d)(1), inserted at end “Except as provided under paragraph (2)(D), the Secretary may not restrict the number of hours or days of respite care in any period which a State may provide under a waiver under this subsection.”
+Subsec. (c)(4). Pub. L. 101–508, §4742(d)(1), inserted at end "Except as provided under paragraph (2)(D), the Secretary may not restrict the number of hours or days of respite care in any period which a State may provide under a waiver under this subsection."
 
 Subsec. (c)(7)(C). Pub. L. 101–508, §4742(c)(1), added subpar. (C).
 
-Subsec. (d)(1). Pub. L. 101–508, §4741(a), inserted at end “For purposes of this subsection, the term ‘room and board’ shall not include an amount established under a method determined by the State to reflect the portion of costs of rent and food attributable to an unrelated personal caregiver who is residing in the same household with an individual who, but for the assistance of such caregiver, would require admission to a hospital, nursing facility, or intermediate care facility for the mentally retarded.”
+Subsec. (d)(1). Pub. L. 101–508, §4741(a), inserted at end "For purposes of this subsection, the term 'room and board' shall not include an amount established under a method determined by the State to reflect the portion of costs of rent and food attributable to an unrelated personal caregiver who is residing in the same household with an individual who, but for the assistance of such caregiver, would require admission to a hospital, nursing facility, or intermediate care facility for the mentally retarded."
 
-Subsec. (d)(5)(B)(iv). Pub. L. 101–508, §4741(b), substituted “this subchapter whose provisions become effective on or after such date” for first reference to “this subchapter”.
+Subsec. (d)(5)(B)(iv). Pub. L. 101–508, §4741(b), substituted "this subchapter whose provisions become effective on or after such date" for first reference to "this subchapter".
 
-<b>1989</b>—Subsec. (a)(1)(B)(ii)(I). Pub. L. 101–239, §6115(c), substituted “paragraphs (15) and (16)” for “paragraphs (14) and (15)”.
+<b>1989</b>—Subsec. (a)(1)(B)(ii)(I). Pub. L. 101–239, §6115(c), substituted "paragraphs (15) and (16)" for "paragraphs (14) and (15)".
 
 Pub. L. 101–234 repealed Pub. L. 100–360, §204(d)(3), and provided that the provisions of law amended or repealed by such section are restored or revived as if such section had not been enacted, see 1988 Amendment note below.
 
-Subsec. (b)(4). Pub. L. 101–239, §6411(c)(2), inserted “shall be consistent with the requirements of section 1396r–4 of this title and” after “which standards”.
+Subsec. (b)(4). Pub. L. 101–239, §6411(c)(2), inserted "shall be consistent with the requirements of section 1396r–4 of this title and" after "which standards".
 
-<b>1988</b>—Subsec. (a)(1)(B)(ii)(I). Pub. L. 100–360, §204(d)(3), substituted “paragraphs (14) and (15)” for “paragraphs (13) and (14)”.
+<b>1988</b>—Subsec. (a)(1)(B)(ii)(I). Pub. L. 100–360, §204(d)(3), substituted "paragraphs (14) and (15)" for "paragraphs (13) and (14)".
 
-Subsec. (a)(2). Pub. L. 100–485, §608(f)(2), substituted “restricts” for “Restricts” in introductory provisions.
+Subsec. (a)(2). Pub. L. 100–485, §608(f)(2), substituted "restricts" for "Restricts" in introductory provisions.
 
 Subsec. (c)(7). Pub. L. 100–360, §411(l)(3)(G), amended Pub. L. 100–203, §4211(h)(10)(G), see 1987 Amendment note below.
 
-Subsec. (c)(7)(A). Pub. L. 100–647, §8437(a), substituted “who are inpatients in, or who would require the level of care provided in, hospitals,” for “who are inpatients in hospitals,” and “who are inpatients in, or who would require the level of care provided in, those respective facilities” for “who are inpatients of those respective facilities”.
+Subsec. (c)(7)(A). Pub. L. 100–647, §8437(a), substituted "who are inpatients in, or who would require the level of care provided in, hospitals," for "who are inpatients in hospitals," and "who are inpatients in, or who would require the level of care provided in, those respective facilities" for "who are inpatients of those respective facilities".
 
-Subsec. (c)(7)(B). Pub. L. 100–360, §411(k)(10)(H), inserted “, without regard to the availability of beds for such inpatients” before period at end.
+Subsec. (c)(7)(B). Pub. L. 100–360, §411(k)(10)(H), inserted ", without regard to the availability of beds for such inpatients" before period at end.
 
-Subsec. (c)(10). Pub. L. 100–360, §411(k)(10)(A), substituted “The Secretary shall not limit to fewer than 200” for “No waiver under this subsection shall limit by an amount less than 200” and “under a waiver under this subsection” for “under such waiver”.
+Subsec. (c)(10). Pub. L. 100–360, §411(k)(10)(A), substituted "The Secretary shall not limit to fewer than 200" for "No waiver under this subsection shall limit by an amount less than 200" and "under a waiver under this subsection" for "under such waiver".
 
-Subsec. (d)(5)(B)(i), (ii). Pub. L. 100–647, §8432(b), in introductory provisions, substituted “the number of years (rounded to the nearest quarter of a year) beginning after the base year and ending at the end of the waiver year” for “the number of years beginning after the base year and ending before the waiver year”, in subcls. (I) and (II), substituted “between the beginning of the base year and the beginning of the waiver year” for “between the base year and the waiver year”, and in subcl. (III), inserted “(rounded to the nearest quarter of a year)” after “for each year” and substituted “at the end of the waiver year” for “before the waiver year”.
+Subsec. (d)(5)(B)(i), (ii). Pub. L. 100–647, §8432(b), in introductory provisions, substituted "the number of years (rounded to the nearest quarter of a year) beginning after the base year and ending at the end of the waiver year" for "the number of years beginning after the base year and ending before the waiver year", in subcls. (I) and (II), substituted "between the beginningof the base year and the beginning of the waiver year" for "between the base year and the waiver year", and in subcl. (III), inserted "(rounded to the nearest quarter of a year)" after "for each year" and substituted "at the end of the waiver year" for "before the waiver year".
 
-Subsec. (d)(5)(B)(iii). Pub. L. 100–360, §411(k)(3)(A)(ii), inserted before last sentence “The Secretary shall develop (by not later than October 1, 1989) a method for projecting, on a State-specific basis, the percentage increase in the number of residents in each State who are over 75 years of age for any period.”
+Subsec. (d)(5)(B)(iii). Pub. L. 100–360, §411(k)(3)(A)(ii), inserted before last sentence "The Secretary shall develop (by not later than October 1, 1989) a method for projecting, on a State-specific basis, the percentage increase in the number of residents in each State who are over 75 years of age for any period."
 
-Subsec. (d)(5)(B)(iii)(III). Pub. L. 100–360, §411(k)(3)(A)(i), substituted “65” for “75”.
+Subsec. (d)(5)(B)(iii)(III). Pub. L. 100–360, §411(k)(3)(A)(i), substituted "65" for "75".
 
 Subsec. (d)(5)(B)(iv). Pub. L. 100–647, §8432(a), added cl. (iv).
 
-Subsec. (d)(5)(C)(i). Pub. L. 100–360, §411(k)(3)(B), substituted “paragraph (4), and personal care services” for “paragraph (4)(B), personal care services, and services furnished pursuant to a waiver under subsection (c) of this section”.
+Subsec. (d)(5)(C)(i). Pub. L. 100–360, §411(k)(3)(B), substituted "paragraph (4), and personal care services" for "paragraph (4)(B), personal care services, and services furnished pursuant to a waiver under subsection (c) of this section".
 
-Subsec. (e). Pub. L. 100–360, §411(k)(17)(A)(ii), (iii), added subsec. (e), redesignated former subsec. (e)(1) as (f)(1), and struck out former subsec. (e)(2) which read as follows: “The Secretary shall report, not later than September 30, 1984, to Congress on waivers granted under this section.”
+Subsec. (e). Pub. L. 100–360, §411(k)(17)(A)(ii), (iii), added subsec. (e), redesignated former subsec. (e)(1) as (f)(1), and struck out former subsec. (e)(2) which read as follows: "The Secretary shall report, not later than September 30, 1984, to Congress on waivers granted under this section."
 
 Subsec. (f)(1). Pub. L. 100–360, §411(k)(17)(A)(ii), redesignated former subsec. (e)(1) as (f)(1).
 
@@ -808,33 +808,33 @@ Subsec. (f)(2). Pub. L. 100–360, §411(k)(17)(A)(i), redesignated former subse
 
 Subsec. (h). Pub. L. 100–360, §411(k)(10)(I), made technical amendment to directory language of Pub. L. 100–203, §4118(l)(1), see 1987 Amendment note below.
 
-Pub. L. 100–360, §411(k)(17)(A)(iv), as amended by Pub. L. 100–485, §608(d)(26)(M), substituted “, (d), or (e)” for “or (d)”.
+Pub. L. 100–360, §411(k)(17)(A)(iv), as amended by Pub. L. 100–485, §608(d)(26)(M), substituted ", (d), or (e)" for "or (d)".
 
-<b>1987</b>—Subsec. (a)(1)(B)(ii)(I). Pub. L. 100–203, §4072(d), substituted “paragraphs (13) and (14)” for “paragraphs (12) and (13)”.
+<b>1987</b>—Subsec. (a)(1)(B)(ii)(I). Pub. L. 100–203, §4072(d), substituted "paragraphs (13) and (14)" for "paragraphs (12) and (13)".
 
-Subsec. (a)(2). Pub. L. 100–93 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “restricts—
+Subsec. (a)(2). Pub. L. 100–93 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "restricts—
 
-&emsp;“(A) for a reasonable period of time the provider or providers from which an individual (eligible for medical assistance for items or services under the State plan) can receive such items or services, if the State has found, after notice and opportunity for a hearing (in accordance with procedures established by the State), that the individual has utilized such items or services at a frequency or amount not medically necessary (as determined in accordance with utilization guidelines established by the State), or
+&emsp;"(A) for a reasonable period of time the provider or providers from which an individual (eligible for medical assistance for items or services under the State plan) can receive such items or services, if the State has found, after notice and opportunity for a hearing (in accordance with procedures established by the State), that the individual has utilized such items or services at a frequency or amount not medically necessary (as determined in accordance with utilization guidelines established by the State), or
 
-&emsp;“(B) (through suspension or otherwise) for a reasonable period of time the participation of a provider of items or services under the State plan, if the State has found, after notice and opportunity for a hearing (in accordance with procedures established by the State), that the provider has (in a significant number or proportion of cases) provided such items or services either (i) at a frequency or amount not medically necessary (as determined in accordance with utilization guidelines established by the State), or (ii) of a quality which does not meet professionally recognized standards of health care,
+&emsp;"(B) (through suspension or otherwise) for a reasonable period of time the participation of a provider of items or services under the State plan, if the State has found, after notice and opportunity for a hearing (in accordance with procedures established by the State), that the provider has (in a significant number or proportion of cases) provided such items or services either (i) at a frequency or amount not medically necessary (as determined in accordance with utilization guidelines established by the State), or (ii) of a quality which does not meet professionally recognized standards of health care,
 
-> if, under such restriction, individuals eligible for medical assistance for such services have reasonable access (taking into account geographic location and reasonable travel time) to such services of adequate quality.”
+> if, under such restriction, individuals eligible for medical assistance for such services have reasonable access (taking into account geographic location and reasonable travel time) to such services of adequate quality."
 
-Subsec. (c)(1). Pub. L. 100–203, §4211(h)(10)(A), substituted “nursing facility or intermediate care facility for the mentally retarded” for “skilled nursing facility or intermediate care facility”.
+Subsec. (c)(1). Pub. L. 100–203, §4211(h)(10)(A), substituted "nursing facility or intermediate care facility for the mentally retarded" for "skilled nursing facility or intermediate care facility".
 
-Subsec. (c)(2)(B). Pub. L. 100–203, §4211(h)(10)(C), in closing provisions, substituted “need for inpatient hospital services, nursing facility services, or services in an intermediate care facility for the mentally retarded” for “need for such inpatient hospital, skilled nursing facility or intermediate care facility services”.
+Subsec. (c)(2)(B). Pub. L. 100–203, §4211(h)(10)(C), in closing provisions, substituted "need for inpatient hospital services, nursing facility services, or services in an intermediate care facility for the mentally retarded" for "need for such inpatient hospital, skilled nursing facility or intermediate care facility services".
 
-Pub. L. 100–203, §4118(p)(10), in closing provisions inserted “such” after “need for”.
+Pub. L. 100–203, §4118(p)(10), in closing provisions inserted "such" after "need for".
 
-Subsec. (c)(2)(B)(i). Pub. L. 100–203, §4211(h)(10)(B), substituted “services, nursing facility services, or services in an intermediate care facility for the mentally retarded” for “, skilled nursing facility, or intermediate care facility services”.
+Subsec. (c)(2)(B)(i). Pub. L. 100–203, §4211(h)(10)(B), substituted "services, nursing facility services, or services in an intermediate care facility for the mentally retarded" for ", skilled nursing facility, or intermediate care facility services".
 
-Subsec. (c)(2)(C). Pub. L. 100–203, §4211(h)(10)(D), (E), substituted “, nursing facility, or intermediate care facility for the mentally retarded” for “or skilled nursing facility or intermediate care facility” and “, nursing facility services, or services in an intermediate care facility for the mentally retarded” for “or skilled nursing facility or intermediate care facility services”.
+Subsec. (c)(2)(C). Pub. L. 100–203, §4211(h)(10)(D), (E), substituted ", nursing facility, or intermediate care facility for the mentally retarded" for "or skilled nursing facility or intermediate care facility" and ", nursing facility services, or services in an intermediate care facility for the mentally retarded" for "or skilled nursing facility or intermediate care facility services".
 
-Subsec. (c)(3). Pub. L. 100–203, §4118(a)(1), substituted “, section 1396a(a)(10)(B) of this title (relating to comparability), and section 1396a(a)(10)(C)(i)(III) of this title (relating to income and resource rules applicable in the community)” for “and section 1396a(a)(10)(B) of this title (relating to comparability)”.
+Subsec. (c)(3). Pub. L. 100–203, §4118(a)(1), substituted ", section 1396a(a)(10)(B) of this title (relating to comparability), and section 1396a(a)(10)(C)(i)(III) of this title (relating to income and resource rules applicable in the community)" for "and section 1396a(a)(10)(B) of this title (relating to comparability)".
 
-Subsec. (c)(5). Pub. L. 100–203, §4211(h)(10)(F), substituted “nursing facility or intermediate care facility for the mentally retarded” for “skilled nursing facility or intermediate care facility”.
+Subsec. (c)(5). Pub. L. 100–203, §4211(h)(10)(F), substituted "nursing facility or intermediate care facility for the mentally retarded" for "skilled nursing facility or intermediate care facility".
 
-Subsec. (c)(7). Pub. L. 100–203, §4211(h)(10)(G), as amended by Pub. L. 100–360, §411(l)(3)(G), substituted “, nursing facilities, or intermediate care facilities for the mentally retarded” for “or in skilled nursing or intermediate care facilities” in subpar. (A) and “nursing facility” for “skilled nursing facility or intermediate care facility” in subpar. (B).
+Subsec. (c)(7). Pub. L. 100–203, §4211(h)(10)(G), as amended by Pub. L. 100–360, §411(l)(3)(G), substituted ", nursing facilities, or intermediate care facilities for the mentally retarded" for "or in skilled nursing or intermediate care facilities" in subpar. (A) and "nursing facility" for "skilled nursing facility or intermediate care facility" in subpar. (B).
 
 Pub. L. 100–203, §4118(k), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -842,41 +842,41 @@ Subsec. (c)(10). Pub. L. 100–203, §4118(b), added par. (10).
 
 Subsec. (d). Pub. L. 100–203, §4102(a)(1), added subsec. (d). Former subsec. (d) redesignated (h).
 
-Subsec. (g)(1). Pub. L. 100–203, §4118(i)(1), inserted at end “The State may limit the case managers available with respect to case management services for eligible individuals with developmental disabilities or with chronic mental illness in order to ensure that the case managers for such individuals are capable of ensuring that such individuals receive needed services.”
+Subsec. (g)(1). Pub. L. 100–203, §4118(i)(1), inserted at end "The State may limit the case managers available with respect to case management services for eligible individuals with developmental disabilities or with chronic mental illness in order to ensure that the case managers for such individuals are capable of ensuring that such individuals receive needed services."
 
-Subsec. (h). Pub. L. 100–203, §4118(l)(1), as amended by Pub. L. 100–360, §411(k)(10)(I), substituted “, within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State agency in writing with respect to any additional information which is needed in order to make a final determination with respect to the request. After the date the Secretary receives such additional information, the request shall be deemed granted unless the Secretary, within 90 day of such date, denies such request.” for “denies such request in writing within 90 days after the date of its submission to the Secretary.”
+Subsec. (h). Pub. L. 100–203, §4118(l)(1), as amended by Pub. L. 100–360, §411(k)(10)(I), substituted ", within 90 days after the date of its submission to the Secretary, either denies such request in writing or informs the State agency in writing with respect to any additional information which is needed in order to make a final determination with respect to the request. After the date the Secretary receives such additional information, the request shall be deemed granted unless the Secretary, within 90 day of such date, denies such request." for "denies such request in writing within 90 days after the date of its submission to the Secretary."
 
-Pub. L. 100–203, §4102(b)(2), substituted “subsection (c) or (d) of this section” for “subsection (c) of this section”.
+Pub. L. 100–203, §4102(b)(2), substituted "subsection (c) or (d) of this section" for "subsection (c) of this section".
 
 Pub. L. 100–203, §4102(a)(1)(A), redesignated former subsec. (d) as (h).
 
-<b>1986</b>—Subsec. (a)(1)(B)(ii)(I). Pub. L. 99–509, §9320(h)(3), substituted “paragraphs (12) and (13)” for “paragraphs (11) and (12)”.
+<b>1986</b>—Subsec. (a)(1)(B)(ii)(I). Pub. L. 99–509, §9320(h)(3), substituted "paragraphs (12) and (13)" for "paragraphs (11) and (12)".
 
 Subsec. (b). Pub. L. 99–272, §9508(a)(2), inserted provision, following par. (4), that no waiver under this subsection may restrict the choice of the individual in receiving services under section 1396d(a)(4)(C) of this title.
 
-Subsec. (c)(1). Pub. L. 99–509, §9411(a)(1), inserted “a hospital or” after “level of care provided in”, and struck out provision added by Pub. L. 99–272, §9502(b)(1).
+Subsec. (c)(1). Pub. L. 99–509, §9411(a)(1), inserted "a hospital or" after "level of care provided in", and struck out provision added by Pub. L. 99–272, §9502(b)(1).
 
 Pub. L. 99–272, §9502(b)(1), inserted provision relating to individuals with respect to whom there has been a determination that but for the provision of such services the individuals would continue to receive inpatient hospital services, skilled nursing facility services, or intermediate care facility services because they are dependent on ventilator support the cost of which is reimbursed under the State plan.
 
-Subsec. (c)(2)(B). Pub. L. 99–509, §9411(a)(2), substituted “inpatient hospital, skilled nursing facility, or” for “skilled nursing facility or” in cl. (i) and inserted “inpatient hospital,” after “need for” in concluding provision following cl. (iii).
+Subsec. (c)(2)(B). Pub. L. 99–509, §9411(a)(2), substituted "inpatient hospital, skilled nursing facility,or" for "skilled nursing facility or" in cl. (i) and inserted "inpatient hospital," after "need for" in concluding provision following cl. (iii).
 
-Subsec. (c)(2)(C). Pub. L. 99–272, §9502(b)(2), inserted “hospital or” after “provided in a”, and “inpatient hospital services or” after “the provision of”.
+Subsec. (c)(2)(C). Pub. L. 99–272, §9502(b)(2), inserted "hospital or" after "provided in a", and "inpatient hospital services or" after "the provision of".
 
-Subsec. (c)(2)(D). Pub. L. 99–272, §9502(c)(1), inserted “100 percent of” after “does not exceed”.
+Subsec. (c)(2)(D). Pub. L. 99–272, §9502(c)(1), inserted "100 percent of" after "does not exceed".
 
-Subsec. (c)(3). Pub. L. 99–509, §9411(c), substituted “and section 1396a(a)(10)(B) of this title (relating tocomparability)” for “and section 1396a(a)(10) of this title”.
+Subsec. (c)(3). Pub. L. 99–509, §9411(c), substituted "and section 1396a(a)(10)(B) of this title (relating to comparability)" for "and section 1396a(a)(10) of this title".
 
-Pub. L. 99–272, §9502(g), substituted “additional five-year periods” for “additional three-year periods”, and “previous waiver period” for “previous three-year period”.
+Pub. L. 99–272, §9502(g), substituted "additional five-year periods" for "additional three-year periods", and "previous waiver period" for "previous three-year period".
 
-Pub. L. 99–272, §9502(e), inserted at end “A waiver may provide, with respect to post-eligibility treatment of income of all individuals receiving services under that waiver, that the maximum amount of the individual's income which may be disregarded for any month for the maintenance needs of the individual may be an amount greater than the maximum allowed for that purpose under regulations in effect on July 1, 1985.”
+Pub. L. 99–272, §9502(e), inserted at end "A waiver may provide, with respect to post-eligibility treatment of income of all individuals receiving services under that waiver, that the maximum amount of the individual's income which may be disregarded for any month for the maintenance needs of the individual may be an amount greater than the maximum allowed for that purpose under regulations in effect on July 1, 1985."
 
-Subsec. (c)(4)(B). Pub. L. 99–509, §9411(d), inserted before the period “and for day treatment or other partial hospitalization services, psychosocial rehabilitation services, and clinic services (whether or not furnished in a facility) for individuals with chronic mental illness”.
+Subsec. (c)(4)(B). Pub. L. 99–509, §9411(d), inserted before the period "and for day treatment or other partial hospitalization services, psychosocial rehabilitation services, and clinic services (whether or not furnished in a facility) for individuals with chronic mental illness".
 
 Subsec. (c)(5). Pub. L. 99–272, §9502(a), added par. (5).
 
 Subsec. (c)(6). Pub. L. 99–272, §9502(c)(2), added par. (6).
 
-Subsec. (c)(7). Pub. L. 99–509, §9411(a)(3), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “In making estimates under paragraph (2)(D) in the case of a waiver which applies only to physically disabled individuals who are inpatients in skilled nursing or intermediate care facilities, the State may determine the average per capita expenditure which would have been made in a fiscal year for those individuals under the State plan separately from the expenditure for other individuals who are inpatients of those facilities.”
+Subsec. (c)(7). Pub. L. 99–509, §9411(a)(3), amended par. (7) generally. Prior to amendment, par. (7) read as follows: "In making estimates under paragraph (2)(D) in the case of a waiver which applies only to physically disabled individuals who are inpatients in skilled nursing or intermediate care facilities, the State may determine the average per capita expenditure which would have been made in a fiscal year for those individuals under the State plan separately from the expenditure for other individuals who are inpatients of those facilities."
 
 Pub. L. 99–272, §9502(d), added par. (7).
 
@@ -888,25 +888,25 @@ Subsec. (g). Pub. L. 99–272, §9508(a)(1), added subsec. (g).
 
 Subsec. (g)(1). Pub. L. 99–509, §9411(b), inserted provision at end allowing a State to limit case management services to AIDS victims or to individuals with chronic mental illness.
 
-<b>1984</b>—Subsec. (c)(1). Pub. L. 98–369 substituted “under this subchapter” for “under this part”.
+<b>1984</b>—Subsec. (c)(1). Pub. L. 98–369 substituted "under this subchapter" for "under this part".
 
-<b>1983</b>—Subsec. (c)(2)(B). Pub. L. 97–448 substituted “need for such skilled nursing facility or intermediate care facility services” for “need for such services” in provisions following cl. (iii).
+<b>1983</b>—Subsec. (c)(2)(B). Pub. L. 97–448 substituted "need for such skilled nursing facility or intermediate care facility services" for "need for such services" in provisions following cl. (iii).
 
-<b>1982</b>—Subsec. (b). Pub. L. 97–248, §137(b)(19)(A), struck out “and section 1396b(m) of this title” after “section 1396a of this title”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–248, §137(b)(19)(A), struck out "and section 1396b(m) of this title" after "section 1396a of this title".
 
-Subsec. (b)(1). Pub. L. 97–248, §137(b)(20), inserted “primary care” before “case-management system”, and substituted “medical care services” for “primary care services”.
+Subsec. (b)(1). Pub. L. 97–248, §137(b)(20), inserted "primary care" before "case-management system", and substituted "medical care services" for "primary care services".
 
-Subsec. (c)(1). Pub. L. 97–248, §137(b)(21), inserted “payment for part or all of the cost of” after “may include as ‘medical assistance’ under such plan”.
+Subsec. (c)(1). Pub. L. 97–248, §137(b)(21), inserted "payment for part or all of the cost of" after "may include as 'medical assistance' under such plan".
 
 Subsec. (c)(2)(B). Pub. L. 97–248, §137(b)(22), redesignated existing provisions as cls. (i) and (ii) and added cl. (iii).
 
-Subsec. (c)(3). Pub. L. 97–248, §137(b)(23), substituted “section 1396a(a)(1) of this title” for “subsection (a)(1) of this section” and “section 1396a(a)(10) of this title” for “subsection (a)(10) of section 1396a of this title”.
+Subsec. (c)(3). Pub. L. 97–248, §137(b)(23), substituted "section 1396a(a)(1) of this title" for "subsection (a)(1) of this section" and "section 1396a(a)(10) of this title" for "subsection (a)(10) of section 1396a of this title".
 
-Subsec. (c)(4). Pub. L. 97–248, §137(b)(24), substituted “this subsection” for “this section”.
+Subsec. (c)(4). Pub. L. 97–248, §137(b)(24), substituted "this subsection" for "this section".
 
-Subsec. (f). Pub. L. 97–248, §137(b)(25), inserted “approval of” before “a proposed State plan”.
+Subsec. (f). Pub. L. 97–248, §137(b)(25), inserted "approval of" before "a proposed State plan".
 
-<b>1981</b>—Subsecs. (c) to (e). Pub. L. 97–35, §2176, added subsec. (c), redesignated former subsec. (c) as (d) and inserted “(other than a waiver under subsection (c) of this section)”, and redesignated former subsec. (d) as (e).
+<b>1981</b>—Subsecs. (c) to (e). Pub. L. 97–35, §2176, added subsec. (c), redesignated former subsec. (c) as (d) and inserted "(other than a waiver under subsection (c) of this section)", and redesignated former subsec. (d) as (e).
 
 Subsec. (f). Pub. L. 97–35, §2177(a), added subsec. (f).
 
@@ -916,11 +916,11 @@ Amendment by section 2402(b), (c), (e), (f) of Pub. L. 111–148 effective on th
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–171, title VI, §6052(c), Feb. 8, 2006, 120 Stat. 95, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2006.”
+Pub. L. 109–171, title VI, §6052(c), Feb. 8, 2006, 120 Stat. 95, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2006."
 
-Pub. L. 109–171, title VI, §6086(c), Feb. 8, 2006, 120 Stat. 127, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] take effect on January 1, 2007, and apply to expenditures for medical assistance for home and community-based services provided in accordance with section 1915(i) of the Social Security Act \[subsec. (i) of this section\] (as added by subsections (a) and (b) \[probably means subsec. (a)\]) on or after that date.”
+Pub. L. 109–171, title VI, §6086(c), Feb. 8, 2006, 120 Stat. 127, provided that: "The amendments made by subsections (a) and (b) \[amending this section\] take effect on January 1, 2007, and apply to expenditures for medical assistance for home and community-based services provided in accordance with section 1915(i) of the Social Security Act \[42 U.S.C. 1396n(i)\] (as added by subsections (a) and (b) \[probably means subsec. (a)\]) on or after that date."
 
-Pub. L. 109–171, title VI, §6087(b), Feb. 8, 2006, 120 Stat. 130, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to services furnished on or after January 1, 2007.”
+Pub. L. 109–171, title VI, §6087(b), Feb. 8, 2006, 120 Stat. 130, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to services furnished on or after January 1, 2007."
 
 #### Effective Date of 2002 Amendment
 
@@ -940,7 +940,7 @@ Amendment by section 1000(a)(6) \[title VI, §608o\] of Pub. L. 106–113 effect
 
 Amendment by section 4106(c) of Pub. L. 105–33 applicable to bone mass measurements performed on or after July 1, 1998, see section 4106(d) of Pub. L. 105–33, set out as a note under section 1395x of this title.
 
-Pub. L. 105–33, title IV, §4743(b), Aug. 5, 1997, 111 Stat. 524, provided that: “The amendment made by subsection (a) \[amending this section\] apply to services furnished on or after October 1, 1997.”
+Pub. L. 105–33, title IV, §4743(b), Aug. 5, 1997, 111 Stat. 524, provided that: "The amendment made by subsection (a) \[amending this section\] apply to services furnished on or after October 1, 1997."
 
 #### Effective Date of 1993 Amendment
 
@@ -948,29 +948,29 @@ Amendment by Pub. L. 103–66 applicable to medical assistance furnished on or a
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 4604(c) of Pub. L. 101–508 effective with respect to payments under this subchapter for calendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4604 of Pub. L. 101–508 have been promulgated by such date, see section 4604(d) of Pub. L. 101–508, set out as a note under section 1396a of this title.
+Amendment by section 4604(c) of Pub. L. 101–508 effective with respect to payments under this subchapter forcalendar quarters beginning on or after July 1, 1991, without regard to whether or not final regulations to carry out the amendments by section 4604 of Pub. L. 101–508 have been promulgated by such date, see section 4604(d) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
-Amendment by section 4704(b)(3) of Pub. L. 101–508 effective as if included in the enactment of the OmnibusBudget Reconciliation Act of 1989, Pub. L. 101–239, see section 4704(f) of Pub. L. 101–508, set out as a note under section 1396a of this title.
+Amendment by section 4704(b)(3) of Pub. L. 101–508 effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1989, Pub. L. 101–239, see section 4704(f) of Pub. L. 101–508, set out as a note under section 1396a of this title.
 
-Pub. L. 101–508, title IV, §4742(b), Nov. 5, 1990, 104 Stat. 1388–197, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of the first calendar quarter beginning more than 30 days after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title IV, §4742(b), Nov. 5, 1990, 104 Stat. 1388–197, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as of the first calendar quarter beginning more than 30 days after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
-Pub. L. 101–508, title IV, §4742(c)(2), Nov. 5, 1990, 104 Stat. 1388–198, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply as if included in the enactment of the Omnibus Budget Reconciliation Act of 1981 \[Pub. L. 97–35\], but shall only apply to facilities the participation of which under a State plan under title XIX of the Social Security Act \[this subchapter\] is terminated on or after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title IV, §4742(c)(2), Nov. 5, 1990, 104 Stat. 1388–198, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply as if included in the enactment of the Omnibus Budget Reconciliation Act of 1981 \[Pub. L. 97–35\], but shall only apply to facilities the participation of which under a State plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] is terminated on or after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
-Pub. L. 101–508, title IV, §4742(d)(2), Nov. 5, 1990, 104 Stat. 1388–198, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply as if included in the enactment of the Omnibus Budget Reconciliation Act of 1981 \[Pub. L. 97–35\].”
+Pub. L. 101–508, title IV, §4742(d)(2), Nov. 5, 1990, 104 Stat. 1388–198, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply as if included in the enactment of the Omnibus Budget Reconciliation Act of 1981 \[Pub. L. 97–35\]."
 
 #### Effective Date of 1989 Amendment
 
 Amendment by section 6115(c) of Pub. L. 101–239 applicable to screening pap smears performed on or after July 1, 1990, see section 6115(d) of Pub. L. 101–239, set out as a note under section 1395x of this title.
 
-Pub. L. 101–239, title VI, §6411(c)(4), Dec. 19, 1989, 103 Stat. 2270, provided that: “The amendment made by paragraph (2) \[amending this section\] shall be effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].”
+Pub. L. 101–239, title VI, §6411(c)(4), Dec. 19, 1989, 103 Stat. 2270, provided that: "The amendment made by paragraph (2) \[amending this section\] shall be effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\]."
 
 Amendment by Pub. L. 101–234 effective Jan. 1, 1990, see section 201(c) of Pub. L. 101–234, set out as a note under section 1320a–7a of this title.
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title VIII, §8432(c), Nov. 10, 1988, 102 Stat. 3804, provided that: “The amendments made by this section \[amending this section\] shall apply to waiver years beginning during or after fiscal year 1989.”
+Pub. L. 100–647, title VIII, §8432(c), Nov. 10, 1988, 102 Stat. 3804, provided that: "The amendments made by this section \[amending this section\] shall apply to waiver years beginning during or after fiscal year 1989."
 
-Pub. L. 100–647, title VIII, §8437(b), Nov. 10, 1988, 102 Stat. 3806, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to waiver applications submitted before, on, or after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VIII, §8437(b), Nov. 10, 1988, 102 Stat. 3806, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to waiver applications submitted before, on, or after the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 Amendment by section 608(d)(26)(M) of Pub. L. 100–485 effective as if included in the enactment of the Medicare Catastrophic Coverage Act of 1988, Pub. L. 100–360, see section 608(g)(1) of Pub. L. 100–485, set out as a note under section 704 of this title.
 
@@ -984,13 +984,13 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 For effective date of amendment by section 4072(d) of Pub. L. 100–203, see section 4072(e) of Pub. L. 100–203, set out as a note under section 1395x of this title.
 
-Pub. L. 100–203, title IV, §4102(a)(2), Dec. 22, 1987, 101 Stat. 1330–146, provided that: “The amendments made by paragraph (1) \[amending this section\] shall become effective on January 1, 1988.”
+Pub. L. 100–203, title IV, §4102(a)(2), Dec. 22, 1987, 101 Stat. 1330–146, provided that: "The amendments made by paragraph (1) \[amending this section\] shall become effective on January 1, 1988."
 
-Pub. L. 100–203 , title IV, §4118(a)(2), Dec. 22, 1987, 101 Stat. 1330–155, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
+Pub. L. 100–203 , title IV, §4118(a)(2), Dec. 22, 1987, 101 Stat. 1330–155, provided that: "The amendment made by paragraph (1) \[amending this section\] shall be effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\]."
 
-Pub. L. 100–203, title IV, §4118(i)(2), Dec. 22, 1987, 101 Stat. 1330–156, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as though it were included in the enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[Pub. L. 99–272\].”
+Pub. L. 100–203, title IV, §4118(i)(2), Dec. 22, 1987, 101 Stat. 1330–156, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as though it were included in the enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985 \[Pub. L. 99–272\]."
 
-Pub. L. 100–203, title IV, §4118(l)(2), Dec. 22, 1987, 101 Stat. 1330–157, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to requests for continuation of waivers received after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4118(l)(2), Dec. 22, 1987, 101 Stat. 1330–157, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to requests for continuation of waivers received after the date of the enactment of this Act \[Dec. 22, 1987\]."
 
 Pub. L. 100–203, title IV, §4118(p)(10), Dec. 22, 1987, 101 Stat. 1330–160, provided that the amendment made by that section is effective as if included in the enactment of Pub. L. 99–509.
 
@@ -1002,39 +1002,39 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
 
 Amendment by section 9320(h)(3) of Pub. L. 99–509 applicable to services furnished on or after Jan. 1, 1989, with exceptions for hospitals located in rural areas which meet certain requirements related to certified registered nurse anesthetists, see section 9320(i), (k) of Pub. L. 99–509, as amended, set out as notes under section 1395k of this title.
 
-Pub. L. 99–509, title IX, §9411(e), Oct. 21, 1986, 100 Stat. 2062, provided that: “The amendments made by this section \[amending this section\] shall apply to applications for waivers (or renewals thereof) approved on or after the date of the enactment of this Act \[Oct. 21, 1986\].”
+Pub. L. 99–509, title IX, §9411(e), Oct. 21, 1986, 100 Stat. 2062, provided that: "The amendments made by this section \[amending this section\] shall apply to applications for waivers (or renewals thereof) approved on or after the date of the enactment of this Act \[Oct. 21, 1986\]."
 
 Pub. L. 99–272, title IX, §9502(j), Apr. 7, 1986, 100 Stat. 204, as amended by Pub. L. 99–509, title IX, §9435(a), Oct. 21, 1986, 100 Stat. 2069; Pub. L. 100–203, title IV, §4118(j), Dec. 22, 1987, 101 Stat. 1330–156, provided that:
 
-“(1)
+"(1)
 
-Habilitation services.—The amendment made by subsection (a) \[amending this section\] shall be effective for services furnished on or after the date of the enactment of this Act \[Apr. 7, 1986\] to individuals eligible for services under a waiver granted under section 1915(c) of the Social Security Act \[subsec. (c) of this section\], without regard to whether such individuals were receiving institutional services before their participation in the waiver.
+Habilitation services.—The amendment made by subsection (a) \[amending this section\] shall be effective for services furnished on or after the date of the enactment of this Act \[Apr. 7, 1986\] to individuals eligible for services under a waiver granted under section 1915(c) of the Social Security Act \[42 U.S.C. 1396n(c)\], without regard to whether such individuals were receiving institutional services before their participation in the waiver.
 
-“(2)
+"(2)
 
 Hospitalized patients.—The amendments made by subsection (b) \[amending this section\] shall be effective for services furnished on or after October 1, 1985.
 
-“(3)
+"(3)
 
 Prohibition of regulatory limits and treatment of certain physically disabled individuals.—The amendments made by subsections (c) and (d) \[amending this section\] shall apply to applications for waivers (or renewals thereof) filed before, on, or after, the date of the enactment of this Act \[Apr. 7, 1986\] and for services furnished on or after August 13, 1981.
 
-“(4)
+"(4)
 
 Income standards.—The amendment made by subsection (e) \[amending this section\] shall apply to waivers (or renewals thereof) approved before, on, or after the date of the enactment of this Act \[Apr. 7, 1986\].
 
-“(5)
+"(5)
 
 Waiver extensions.—Subsection (f) \[enacting provisions set out below\] shall apply to waivers expiring on or after September 30, 1985, and before September 30, 1986.
 
-“(6)
+"(6)
 
 Waiver renewals.—The amendments made by subsection (g) \[amending this section\] shall become effective on September 30, 1986.
 
-“(7)
+"(7)
 
-Coordinated services and substitution of participants.—The amendments made by subsections (h) and (i) \[amending this section\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\].”
+Coordinated services and substitution of participants.—The amendments made by subsections (h) and (i) \[amending this section\] shall become effective on the date of the enactment of this Act \[Apr. 7, 1986\]."
 
-Pub. L. 99–272, title IX, §9508(b), Apr. 7, 1986, 100 Stat. 211, as amended by Pub. L. 99–509, title IX, §9435(d)(1), Oct. 21, 1986, 100 Stat. 2070, provided that: “The amendments made by this section \[amending this section\] shall apply to services furnished on or after the date of the enactment of this Act \[Apr. 7, 1986\], without regard to whether or not regulations to carry out the amendments have been promulgated by that date.”
+Pub. L. 99–272, title IX, §9508(b), Apr. 7, 1986, 100 Stat. 211, as amended by Pub. L. 99–509, title IX, §9435(d)(1), Oct. 21, 1986, 100 Stat. 2070, provided that: "The amendments made by this section \[amending this section\] shall apply to services furnished on or after the date of the enactment of this Act \[Apr. 7, 1986\], without regard to whether or not regulations to carry out the amendments have been promulgated by that date."
 
 \[Pub. L. 100–203, title IV, §4118(j), Dec. 22, 1987, 101 Stat. 1330–156, provided that the amendment made by that section to section 9502(j)(1) of Pub. L. 99–272, set out above, is effective as if included in the enactment of section 9502 of Pub. L. 99–272.\]
 
@@ -1044,71 +1044,71 @@ Amendment by Pub. L. 97–448 effective as if originally included as a part of t
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–248, title I, §137(b)(19)(B), Sept. 3, 1982, 96 Stat. 380, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall not apply with respect to any waiver if such waiver was granted, and the arrangement covered by the waiver was in place, prior to August 10, 1982.”
+Pub. L. 97–248, title I, §137(b)(19)(B), Sept. 3, 1982, 96 Stat. 380, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall not apply with respect to any waiver if such waiver was granted, and the arrangement covered by the waiver was in place, prior to August 10, 1982."
 
 Amendment by section 137(b)(20)–(25) of Pub. L. 97–248 effective as if originally included as part of this section as this section was amended by the Omnibus Budget Reconciliation Act of 1981, Pub. L. 97–35, see section 137(d)(2) of Pub. L. 97–248, set out as a note under section 1396a of this title.
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–35, title XXI, §2177(b), Aug. 13, 1981, 95 Stat. 813, provided that: “The amendment made by this section \[amending this section\] shall become effective 90 days after the date of the enactment of this Act \[Aug. 13, 1981\]”.
+Pub. L. 97–35, title XXI, §2177(b), Aug. 13, 1981, 95 Stat. 813, provided that: "The amendment made by this section \[amending this section\] shall become effective 90 days after the date of the enactment of this Act \[Aug. 13, 1981\]".
 
 #### Regulations
 
-Pub. L. 109–171, title VI, §6052(b), Feb. 8, 2006, 120 Stat. 95, provided that: “The Secretary shall promulgate regulations to carry out the amendment made by subsection (a) \[amending this section\] which may be effective and final immediately on an interim basis as of the date of publication of the interim final regulation. If the Secretary provides for an interim final regulation, the Secretary shall provide for a period of public comments on such regulation after the date of publication. The Secretary may change or revise such regulation after completion of the period of public comment.”
+Pub. L. 109–171, title VI, §6052(b), Feb. 8, 2006, 120 Stat. 95, provided that: "The Secretary shall promulgate regulations to carry out the amendment made by subsection (a) \[amending this section\] which may be effective and final immediately on an interim basis as of the date of publication of the interim final regulation. If the Secretary provides for an interim final regulation, the Secretary shall provide for a period of public comments on such regulation after the date of publication. The Secretary may change or revise such regulation after completion of the period of public comment."
 
 #### Oversight and Assessment of the Administration of Home and Community-based Services
 
-Pub. L. 111–148, title II, §2402(a), Mar. 23, 2010, 124 Stat. 301, provided that: “The Secretary of Health and Human Services shall promulgate regulations to ensure that all States develop service systems that are designed to—
+Pub. L. 111–148, title II, §2402(a), Mar. 23, 2010, 124 Stat. 301, provided that: "The Secretary of Health and Human Services shall promulgate regulations to ensure that all States develop service systems that are designed to—
 
-&emsp;“(1) allocate resources for services in a manner that is responsive to the changing needs and choices of beneficiaries receiving non-institutionally-based long-term services and supports (including such services and supports that are provided under programs other \[than\] the State Medicaid program), and that provides strategies for beneficiaries receiving such services to maximize their independence, including through the use of client-employed providers;
+&emsp;"(1) allocate resources for services in a manner that is responsive to the changing needs and choices of beneficiaries receiving non-institutionally-based long-term services and supports (including such services and supports that are provided under programs other \[than\] the State Medicaid program), and that provides strategies for beneficiaries receiving such services to maximize their independence, including through the use of client-employed providers;
 
-&emsp;“(2) provide the support and coordination needed for a beneficiary in need of such services (and their family caregivers or representative, if applicable) to design an individualized, self-directed, community-supported life; and
+&emsp;"(2) provide the support and coordination needed for a beneficiary in need of such services (and their family caregivers or representative, if applicable) to design an individualized, self-directed, community-supported life; and
 
-&emsp;“(3) improve coordination among, and the regulation of, all providers of such services under federally and State-funded programs in order to—
+&emsp;"(3) improve coordination among, and the regulation of, all providers of such services under federally and State-funded programs in order to—
 
-&emsp;&emsp;“(A) achieve a more consistent administration of policies and procedures across programs in relation to the provision of such services; and
+&emsp;&emsp;"(A) achieve a more consistent administration of policies and procedures across programs in relation to the provision of such services; and
 
-&emsp;&emsp;“(B) oversee and monitor all service system functions to assure—
+&emsp;&emsp;"(B) oversee and monitor all service system functions to assure—
 
-&emsp;&emsp;&emsp;“(i) coordination of, and effectiveness of, eligibility determinations and individual assessments;
+&emsp;&emsp;&emsp;"(i) coordination of, and effectiveness of, eligibility determinations and individual assessments;
 
-&emsp;&emsp;&emsp;“(ii) development and service monitoring of a complaint system, a management system, a system to qualify and monitor providers, and systems for role-setting and individual budget determinations; and
+&emsp;&emsp;&emsp;"(ii) development and service monitoring of a complaint system, a management system, a system to qualify and monitor providers, and systems for role-setting and individual budget determinations; and
 
-&emsp;&emsp;&emsp;“(iii) an adequate number of qualified direct care workers to provide self-directed personal assistance services.”
+&emsp;&emsp;&emsp;"(iii) an adequate number of qualified direct care workers to provide self-directed personal assistance services."
 
 #### Quality of Care Measures
 
 Pub. L. 109–171, title VI, §6086(b), Feb. 8, 2006, 120 Stat. 127, provided that:
 
-“(1)
+"(1)
 
 In general.—The Secretary, acting through the Director of the Agency for Healthcare Research and Quality, shall consult with consumers, health and social service providers and other professionals knowledgeable about long-term care services and supports to develop program performance indicators, client function indicators, and measures of client satisfaction with respect to home and community-based services offered under State Medicaid programs.
 
-“(2)
+"(2)
 
 Best practices.—The Secretary shall—
 
-&emsp;“(A) use the indicators and measures developed under paragraph (1) to assess such home and community-based services, the outcomes associated with the receipt of such services (particularly with respect to the health and welfare of the recipient of the services), and the overall system for providing home and community-based services under the Medicaid program under title XIX of the Social Security Act \[this subchapter\]; and
+&emsp;"(A) use the indicators and measures developed under paragraph (1) to assess such home and community-based services, the outcomes associated with the receipt of such services (particularly with respect to the health and welfare of the recipient of the services), and the overall system for providing home and community-based services under the Medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\]; and
 
-&emsp;“(B) make publicly available the best practices identified through such assessment and a comparative analyses of the system features of each State.
+&emsp;"(B) make publicly available the best practices identified through such assessment and a comparative analyses of the system features of each State.
 
-“(3)
+"(3)
 
-Appropriation.—Out of any funds in the Treasury not otherwise appropriated, there is appropriated to the Secretary of Health and Human Services, $1,000,000 for the period of fiscal years 2006 through 2010 to carry out this subsection.”
+Appropriation.—Out of any funds in the Treasury not otherwise appropriated, there is appropriated to the Secretary of Health and Human Services, $1,000,000 for the period of fiscal years 2006 through 2010 to carry out this subsection."
 
 #### Permitting Adjustment in Estimates To Take Into Account Preadmission Screening Requirement
 
-Pub. L. 101–508, title IV, §4742(e), Nov. 5, 1990, 104 Stat. 1388–198, provided that: “In the case of a waiver under section 1915(c) of the Social Security Act \[subsec. (c) of this section\] for individuals with mental retardation or a related condition in a State, the Secretary of Health and Human Services shall permit the State to adjust the estimate of average per capita expenditures submitted under paragraph (2)(D) of such section, with respect to such expenditures made on or after January 1, 1989, to take into account increases in expenditures for, or utilization of, intermediate care facilities for the mentally retarded resulting from implementation of section 1919(e)(7)(A) of such Act \[section 1396r(e)(7)(A) of this title\].”
+Pub. L. 101–508, title IV, §4742(e), Nov. 5, 1990, 104 Stat. 1388–198, provided that: "In the case of a waiver under section 1915(c) of the Social Security Act \[42 U.S.C. 1396n(c)\] for individuals with mental retardation or a related condition in a State, the Secretary of Health and Human Services shall permit the State to adjust the estimate of average per capita expenditures submitted under paragraph (2)(D) of such section, with respect to such expenditures made on or after January 1, 1989, to take into account increases in expenditures for, or utilization of, intermediate care facilities for the mentally retarded resulting from implementation of section 1919(e)(7)(A) of such Act \[42 U.S.C. 1396r(e)(7)(A)\]."
 
 #### Extensions of Waivers Under Subsection (c)
 
-Pub. L. 100–203, title IV, §4102(c), Dec. 22, 1987, 101 Stat. 1330–146, provided that: “In the case of a State which, as of December 1, 1987, has a waiver approved with respect to elderly individuals under section 1915(c) of the Social Security Act \[subsec. (c) of this section\], which waiver is scheduled to expire before July 1, 1988,if the State notifies the Secretary of Health and Human Services of the State's intention to file an application for a waiver under section 1915(d) of such Act (as amended by subsection (a) of this section), the Secretary shall extend approval of the State's waiver, under section 1915(c) of such Act, on the same terms and conditions through September 30, 1988.”
+Pub. L. 100–203, title IV, §4102(c), Dec. 22, 1987, 101 Stat. 1330–146, provided that: "In the case of a State which, as of December 1, 1987, has a waiver approved with respect to elderly individuals under section 1915(c) of the Social Security Act \[42 U.S.C. 1396n(c)\], which waiver is scheduled to expire before July 1, 1988, if the State notifies the Secretary of Health and Human Services of the State's intention to file an application for a waiver under section 1915(d) of such Act (as amended by subsection (a) of this section), the Secretary shall extend approval of the State's waiver, under section 1915(c) of such Act, on the same terms and conditions through September 30, 1988."
 
-Pub. L. 99–272, title IX, §9502(f), Apr. 7, 1986, 100 Stat. 204, provided that: “The Secretary of Health and Human Services shall extend, upon request of the State, any waiver under section 1915(c) of the Social Security Act \[subsec. (c) of this section\] which expires on or after September 30, 1985, and before September 30, 1986. Such extension shall be for a period of not less than one year nor more than five years, subject to section 1915(e)(1) of such Act.”
+Pub. L. 99–272, title IX, §9502(f), Apr. 7, 1986, 100 Stat. 204, provided that: "The Secretary of Health and Human Services shall extend, upon request of the State, any waiver under section 1915(c) of the Social Security Act \[42 U.S.C. 1396n(c)\] which expires on or after September 30, 1985, and before September 30, 1986. Such extension shall be for a period of not less than one year nor more than five years, subject to section 1915(e)(1) of such Act."
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “a”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "a".</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
 

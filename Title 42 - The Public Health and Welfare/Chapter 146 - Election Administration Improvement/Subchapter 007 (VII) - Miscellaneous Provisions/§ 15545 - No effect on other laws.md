@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as specifically provided in section 15483(b) of this title with regard to the National Voter Registration Act of 1993 (42 U.S.C. 1973gg et seq.), nothing in this chapter may be construed to authorize or require conduct prohibited under any of the following laws, or to supersede, restrict, or limit the application of such laws:
+Except as specifically provided in section 15483(b) of this title with regard to the NationalVoter Registration Act of 1993 (42 U.S.C. 1973gg et seq.), nothing in this chapter may be construed to authorize or require conduct prohibited under any of the following laws, or to supersede, restrict, or limit the application of such laws:
 
 &emsp;(1) The Voting Rights Act of 1965 (42 U.S.C. 1973 et seq.).
 
@@ -26,7 +26,7 @@ The approval by the Administrator or the Commission of a payment or grant applic
 
 The National Voter Registration Act of 1993, referred to in subsec. (a), is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, which is classified principally to subchapter I–H (§1973gg et seq.) of chapter 20 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of this title and Tables.
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, known as the Help America Vote Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
 
 The Voting Rights Act of 1965, referred to in subsecs. (a)(1) and (b), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, which is classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of chapter 20 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of this title and Tables.
 

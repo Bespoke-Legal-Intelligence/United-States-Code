@@ -10,7 +10,7 @@ Section was enacted as a part of the Participation Sales Act of 1966, and not as
 
 #### Amendments
 
-<b>1968</b>—Pub. L. 90–448 substituted “the Government National Mortgage Association” for “secondary market operations carried on by the Federal National Mortgage Association”.
+<b>1968</b>—Pub. L. 90–448 substituted "the Government National Mortgage Association" for "secondary market operations carried on by the Federal National Mortgage Association".
 
 #### Effective Date of 1968 Amendment
 

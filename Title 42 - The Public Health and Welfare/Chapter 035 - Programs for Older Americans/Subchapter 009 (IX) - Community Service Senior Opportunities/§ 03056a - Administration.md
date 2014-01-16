@@ -4,7 +4,7 @@
 
 #### (1) Governor
 
-&emsp;For a State to be eligible to receive an allotment under section 3056d of this title, the Governor of the State shall submit to the Secretary for consideration and approval, a single State plan (referred to in this subchapter as the “State plan”) that outlines a 4-year strategy for the statewide provision of community service employment and other authorized activities for eligible individuals under this subchapter. The plan shall contain such provisions as the Secretary may require, consistent with this subchapter, including a description of the process used to ensure the participation of individuals described in paragraph (2). Not less often than every 2 years, the Governor shall review the State plan and submit an update to the State plan to the Secretary for consideration and approval.
+&emsp;For a State to be eligible to receive an allotment under section 3056d of this title, the Governor of the State shall submit to the Secretary for consideration and approval, a single State plan (referred to in this subchapter as the "State plan") that outlines a 4-year strategy for the statewide provision of community service employment and other authorized activities for eligible individuals under this subchapter. The plan shall contain such provisions as the Secretary may require, consistent with this subchapter, including a description of the process used to ensure the participation of individuals described in paragraph (2). Not less often than every 2 years, the Governor shall review the State plan and submit an update to the State plan to the Secretary for consideration and approval.
 
 #### (2) Recommendations
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(E) the localities and populations for which projects of the type authorized by this subchapter are most needed; and
 
-&emsp;&emsp;(F) plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried out in the State under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.).
+&emsp;&emsp;(F) plans for facilitating the coordination of activities of grantees in the State under this subchapter with activities carried outin the State under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.).
 
 #### (5) Governor's recommendations
 
@@ -100,7 +100,7 @@
 
 #### (c) Use of services, equipment, personnel, and facilities
 
-In carrying out this subchapter, the Secretary may use the services, equipment, personnel, and facilities of Federal and other agencies, with their consent, with or without reimbursement, and on a similar basis cooperate with other public and nonprofit private agencies and organizations in the use of services, equipment, and facilities.
+In carrying out this subchapter, the Secretary may use the services, equipment, personnel, andfacilities of Federal and other agencies, with their consent, with or without reimbursement, and on a similar basis cooperate with other public and nonprofit private agencies and organizations in the use of services, equipment, and facilities.
 
 #### (d) Payments
 
@@ -136,7 +136,7 @@ The Secretary shall not delegate any function of the Secretary under this subcha
 
 #### (g) Evaluations
 
-The Secretary shall establish by rule and implement a process to evaluate, in accordance with section 3056k of this title, the performanceof projects carried out and services provided under this subchapter. The Secretary shall report to Congress, and make available to the public, the results of each such evaluation and shall use such evaluation to improve services delivered by, or the operation of, projects carried out under this subchapter.
+The Secretary shall establish by rule and implement a process to evaluate, in accordance with section 3056k of this title, the performance of projects carried out and services provided under this subchapter. The Secretary shall report to Congress, and make available to the public, the results of each such evaluation and shall use such evaluation to improve services delivered by, or the operation of, projects carried out under this subchapter.
 
 (Pub. L. 89–73, title V, §503, as added Pub. L. 109–365, title V, §501, Oct. 17, 2006, 120 Stat. 2571.)
 

@@ -10,5 +10,5 @@ Assistance under this chapter—
 
 #### Amendments
 
-<b>1994</b>—Par. (1). Pub. L. 103–337 substituted “3524” for “1724”.
+<b>1994</b>—Par. (1). Pub. L. 103–337 substituted "3524" for "1724".
 

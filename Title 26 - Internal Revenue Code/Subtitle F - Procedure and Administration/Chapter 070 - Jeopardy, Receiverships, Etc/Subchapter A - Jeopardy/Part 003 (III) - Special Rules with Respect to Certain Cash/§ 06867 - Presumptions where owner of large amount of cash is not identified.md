@@ -30,11 +30,11 @@ For purposes of this section—
 
 #### (1) Cash
 
-&emsp;The term “cash” includes any cash equivalent.
+&emsp;The term "cash" includes any cash equivalent.
 
 #### (2) Cash equivalent
 
-&emsp;The term “cash equivalent” means—
+&emsp;The term "cash equivalent" means—
 
 &emsp;&emsp;(A) foreign currency,
 
@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647 substituted “the highest rate of tax specified in section 1” for “a 50-percent rate”.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–647 substituted "the highest rate of tax specified in section 1" for "a 50-percent rate".
 
 #### Effective Date of 1988 Amendment
 
@@ -66,5 +66,5 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Pub. L. 97–248, title III, §330(c), Sept. 3, 1982, 96 Stat. 620, provided that: “The amendments made by subsections (a) and (b) \[enacting this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title III, §330(c), Sept. 3, 1982, 96 Stat. 620, provided that: "The amendments made by subsections (a) and (b) \[enacting this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\]."
 

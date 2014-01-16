@@ -4,7 +4,7 @@ In this subchapter, the following definitions shall apply:
 
 #### (1) Appropriate financial regulator
 
-&emsp;The term “appropriate financial regulator” means—
+&emsp;The term "appropriate financial regulator" means—
 
 &emsp;&emsp;(A) the primary financial regulatory agency, as defined in section 5301 of this title;
 
@@ -14,21 +14,21 @@ In this subchapter, the following definitions shall apply:
 
 #### (2) Designated activity
 
-&emsp;The term “designated activity” means a payment, clearing, or settlement activity that the Council has designated as systemically important under section 5463 of this title.
+&emsp;The term "designated activity" means a payment, clearing, or settlement activity that the Council has designated as systemically important under section 5463 of this title.
 
 #### (3) Designated clearing entity
 
-&emsp;The term “designated clearing entity” means a designated financial market utility that is a derivatives clearing organization registered under section 5b of the Commodity Exchange Act (7 U.S.C. 7a–1) or a clearing agency registered with the Securities and Exchange Commission under section 17A of the Securities Exchange Act of 1934 (15 U.S.C. 78q–1).
+&emsp;The term "designated clearing entity" means a designated financial market utility that is a derivatives clearing organization registered under section 5b of the Commodity Exchange Act (7 U.S.C. 7a–1) or a clearing agency registered with the Securities and Exchange Commission under section 17A of the Securities Exchange Act of 1934 (15 U.S.C. 78q–1).
 
 #### (4) Designated financial market utility
 
-&emsp;The term “designated financial market utility” means a financial market utility that the Council has designated as systemically important under section 5463 of this title.
+&emsp;The term "designated financial market utility" means a financial market utility that the Council has designated as systemically important under section 5463 of this title.
 
 #### (5) Financial institution
 
 #### (A) In general
 
-&emsp;&emsp;The term “financial institution” means—
+&emsp;&emsp;The term "financial institution" means—
 
 &emsp;&emsp;&emsp;(i) a depository institution, as defined in section 1813 of this title;
 
@@ -52,17 +52,17 @@ In this subchapter, the following definitions shall apply:
 
 #### (B) Exclusions
 
-&emsp;&emsp;The term “financial institution” does not include designated contract markets, registered futures associations, swap data repositories, and swap execution facilities registered under the Commodity Exchange Act (7 U.S.C. 1 et seq.), or national securities exchanges, national securities associations, alternative trading systems, securities information processors solely with respect to the activities of the entity as a securities information processor, security-based swap data repositories, and swap execution facilities registered under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), or designated clearing entities, provided that the exclusions in this subparagraph apply only with respect to the activities that require the entity to be so registered.
+&emsp;&emsp;The term "financial institution" does not include designated contract markets, registered futures associations, swap data repositories, and swap execution facilities registered under the Commodity Exchange Act (7 U.S.C. 1 et seq.), or national securities exchanges, national securities associations, alternative trading systems, securities information processors solely with respect to the activities of the entity as a securities information processor, security-based swap data repositories, and swap execution facilities registered under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), or designated clearing entities, provided that the exclusions in this subparagraph apply only with respect to the activities that require the entity to be so registered.
 
 #### (6) Financial market utility
 
 #### (A) Inclusion
 
-&emsp;&emsp;The term “financial market utility” means any person that manages or operates a multilateral system for the purpose of transferring, clearing, or settling payments, securities, or other financial transactions among financial institutions or between financial institutions and the person.
+&emsp;&emsp;The term "financial market utility" means any person that manages or operates a multilateral system for the purpose of transferring, clearing, or settling payments, securities, or other financial transactions among financial institutions or between financial institutions and the person.
 
 #### (B) Exclusions
 
-&emsp;&emsp;The term “financial market utility” does not include—
+&emsp;&emsp;The term "financial market utility" does not include—
 
 &emsp;&emsp;&emsp;(i) designated contract markets, registered futures associations, swap data repositories, and swap execution facilities registered under the Commodity Exchange Act (7 U.S.C. 1 et seq.), or national securities exchanges, national securities associations, alternative trading systems, security-based swap data repositories, and swap execution facilities registered under the Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), solely by reason of their providing facilities for comparison of data respecting the terms of settlement of securities or futures transactions effected on such exchange or by means of any electronic system operated or controlled by such entities, provided that the exclusions in this clause apply only with respect to the activities that require the entity to be so registered; and
 
@@ -72,11 +72,11 @@ In this subchapter, the following definitions shall apply:
 
 #### (A) In general
 
-&emsp;&emsp;The term “payment, clearing, or settlement activity” means an activity carried out by 1 or more financial institutions to facilitate the completion of financial transactions, but shall not include any offer or sale of a security under the Securities Act of 1933 (15 U.S.C. 77a et seq.), or any quotation, order entry, negotiation, or other pre-trade activity or execution activity.
+&emsp;&emsp;The term "payment, clearing, or settlement activity" means an activity carried out by 1 or more financial institutions to facilitate the completion of financial transactions, but shall not include any offer or sale of a security under the Securities Act of 1933 (15 U.S.C. 77a et seq.), or any quotation, order entry, negotiation, or other pre-trade activity or execution activity.
 
 #### (B) Financial transaction
 
-&emsp;&emsp;For the purposes of subparagraph (A), the term “financial transaction” includes—
+&emsp;&emsp;For the purposes of subparagraph (A), the term "financial transaction" includes—
 
 &emsp;&emsp;&emsp;(i) funds transfers;
 
@@ -130,7 +130,7 @@ In this subchapter, the following definitions shall apply:
 
 #### (A) In general
 
-&emsp;&emsp;The term “Supervisory Agency” means the Federal agency that has primary jurisdiction over a designated financial market utility under Federal banking, securities, or commodity futures laws, as follows:
+&emsp;&emsp;The term "Supervisory Agency" means the Federal agency that has primary jurisdiction over a designated financial market utility under Federal banking, securities, or commodity futures laws, as follows:
 
 &emsp;&emsp;&emsp;(i) The Securities and Exchange Commission, with respect to a designated financial market utility that is a clearing agency registered with the Securities and Exchange Commission.
 
@@ -146,13 +146,13 @@ In this subchapter, the following definitions shall apply:
 
 #### (9) Systemically important and systemic importance
 
-&emsp;The terms “systemically important” and “systemic importance” mean a situation where the failure of or a disruption to the functioning of a financial market utility or the conduct of a payment, clearing, or settlement activity could create, or increase, the risk of significant liquidity or credit problems spreading among financial institutions or markets and thereby threaten the stability of the financial system of the United States.
+&emsp;The terms "systemically important" and "systemic importance" mean a situation where the failure of or a disruption to the functioning of a financial market utility or the conduct of a payment, clearing, or settlement activity could create, or increase, the risk of significant liquidity or credit problems spreading among financial institutions or markets and thereby threaten the stability of the financial system of the United States.
 
 (Pub. L. 111–203, title VIII, §803, July 21, 2010, 124 Stat. 1803.)
 
 #### References in Text
 
-The Federal Credit Union Act, referred to in par. (1)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§1751 et seq.) of this title. Section 101 of the Act, classified to section 1752 of this title, does not contain a definition of “credit union”. For complete classification of this Act to the Code, see section 1751 of this title and Tables.
+The Federal Credit Union Act, referred to in par. (1)(B), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified principally to chapter 14 (§1751 et seq.) of this title. Section 101 of the Act, classified to section 1752 of this title, does not contain a definition of "credit union". For complete classification of this Act to the Code, see section 1751 of this title and Tables.
 
 Sections 25 and 25A of the Federal Reserve Act, referred to in pars. (1)(C) and (5)(A)(iii), are classified to subchapters I (§601 et seq.) and II (§611 et seq.), respectively, of chapter 6 of this title.
 

@@ -4,7 +4,7 @@
 
 (b) Whoever, with intent to extort from any person any money or other thing of value, so deposits, or causes to be delivered, as aforesaid, any communication containing any threat to kidnap any person or any threat to injure the person of the addressee or of another, shall be fined under this title or imprisoned not more than twenty years, or both.
 
-(c) Whoever knowingly so deposits or causes to be delivered as aforesaid, any communication with or without a name or designating mark subscribed thereto, addressed to any other person and containing any threat to kidnap any person or any threat to injure the person of the addressee or of another, shall be fined under this title or imprisoned not more than five years, or both. If such a communication is addressed to a United States judge, a Federal law enforcement officer, or an official who is covered by section 1114, the individual shall be fined under this title, imprisoned not more than 10 years, or both.
+(c) Whoever knowingly so deposits or causes to be delivered as aforesaid, any communication with or without a name or designating marksubscribed thereto, addressed to any other person and containing any threat to kidnap any person or any threat to injure the person of the addressee or of another, shall be fined under this title or imprisoned not more than five years, or both. If such a communication is addressed to a United States judge, a Federal law enforcement officer, or an official who is covered by section 1114, the individual shall be fined under this title, imprisoned not more than 10 years, or both.
 
 (d) Whoever, with intent to extort from any person any money or other thing of value, knowingly so deposits or causes to be delivered, as aforesaid, any communication, with or without a name or designating mark subscribed thereto, addressed to any other person and containing any threat to injure the property or reputation of the addressee or of another, or the reputation of a deceased person, or any threat to accuse the addressee or any other person of a crime, shall be fined under this title or imprisoned not more than two years, or both. If such a communication is addressed to a United States judge, a Federal law enforcement officer, or an official who is covered by section 1114, the individual shall be fined under this title, imprisoned not more than 10 years, or both.
 
@@ -14,7 +14,7 @@
 
 Based on title 18, U.S.C., 1940 ed., §338a (July 8, 1932, ch. 464, §1, 47 Stat. 649; June 28, 1935, ch. 326, 49 Stat. 427; May 15, 1939, ch. 133, §1, 53 Stat. 742).
 
-Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
+Reference to persons causing or procuring was omitted as unnecessary in view of definition of "principal" in section 2 of this title.
 
 Provisions as to district of trial were omitted as covered by sections 3237 and 3239 of this title.
 
@@ -22,17 +22,17 @@ Changes in phraseology and arrangement were made.
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–273 designated first to fourth pars. as subsecs. (a) to (d), respectively, and, in subsecs. (c) and (d), inserted at end “If such a communication is addressed to a United States judge, a Federal law enforcement officer, or an official who is covered by section 1114, the individual shall be fined under this title, imprisoned not more than 10 years, or both.”
+<b>2002</b>—Pub. L. 107–273 designated first to fourth pars. as subsecs. (a) to (d), respectively, and, in subsecs. (c) and (d), inserted at end "If such a communication is addressed to a United States judge, a Federal law enforcement officer, or an official who is covered by section 1114, the individual shall be fined under this title, imprisoned not more than 10 years, or both."
 
-<b>1994</b>—Pub. L. 103–322, §330021(2), substituted “kidnapped” for “kidnaped” in first par.
+<b>1994</b>—Pub. L. 103–322, §330021(2), substituted "kidnapped" for "kidnaped" in first par.
 
-Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000” in first and second pars.
+Pub. L. 103–322, §330016(1)(K), substituted "fined under this title" for "fined not more than $5,000" in first and second pars.
 
-Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for “fined not more than $1,000” in third par.
+Pub. L. 103–322, §330016(1)(H), substituted "fined under this title" for "fined not more than $1,000" in third par.
 
-Pub. L. 103–322, §330016(1)(G), substituted “fined under this title” for “fined not more than $500” in fourth par.
+Pub. L. 103–322, §330016(1)(G), substituted "fined under this title" for "fined not more than $500" in fourth par.
 
-<b>1970</b>—Pub. L. 91–375 substituted “Postal Service” for “Post Office Department” in two places in first par.
+<b>1970</b>—Pub. L. 91–375 substituted "Postal Service" for "Post Office Department" in two places in first par.
 
 #### Effective Date of 1970 Amendment
 

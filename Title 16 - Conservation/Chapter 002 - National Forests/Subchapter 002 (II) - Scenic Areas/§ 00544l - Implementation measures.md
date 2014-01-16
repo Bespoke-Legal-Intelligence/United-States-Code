@@ -14,7 +14,7 @@ The Secretary shall provide technical assistance on a nonreimbursable basis to c
 
 (2) Paragraph (1) of this subsection shall not apply—
 
-&emsp;(A) to any amount paid by the Secretary of the Treasury under the provisions of law referred to in subsection (b)(1) of this section atthe end of any fiscal year ending before November 17, 1986; or
+&emsp;(A) to any amount paid by the Secretary of the Treasury under the provisions of law referred to in subsection (b)(1) of this section at the end of any fiscal year ending before November 17, 1986; or
 
 &emsp;(B) for a particular county, if the county does not have in effect a land use ordinance which has been found consistent by the Commission and concurred on by the Secretary pursuant to section 544f of this title.
 
@@ -22,7 +22,7 @@ The Secretary shall provide technical assistance on a nonreimbursable basis to c
 
 (1) Subject to section 544n(b) of this title, in the case of any land or interest therein acquired by the Secretary pursuant to section 544g of this title, which was subject to local real property taxes within the five years preceding such acquisition and which is located in a county which has in effect a land use ordinance which has been found consistent by the Commission and concurred on by the Secretary pursuant to section 544f of this title, the Secretary is authorized and directed to make annual payments to the county in which such lands are located in an amount equal to 1 per centum of the fair market value of such land or interest therein on the date of acquisition by the Secretary.
 
-(2) Notwithstanding paragraph (1) of this subsection, any payment made for any fiscal year to a county pursuant to this subsection shall not exceed the amount of real property taxes assessed and levied on such property during the last full fiscal year before the fiscal year in which such land or interest therein was acquired by the Secretary.
+(2) Notwithstanding paragraph (1) of this subsection, any payment made for any fiscal year to a county pursuant to this subsection shall not exceed the amount of real property taxes assessed and levied on such property during thelast full fiscal year before the fiscal year in which such land or interest therein was acquired by the Secretary.
 
 (3)
 
@@ -68,7 +68,7 @@ Except as otherwise provided in subsection (e) of this section or in section 544
 
 &emsp;&emsp;(ii) The establishment, operation, and maintenance of air and water navigation aids and devices, and for access thereto.
 
-&emsp;&emsp;(iii) Projects under the Land and Water Conservation Fund Act of 1965 (16 U.S.C.460l–4 through 11) and the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.).
+&emsp;&emsp;(iii) Projects under the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460l–4 through 11) and the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.).
 
 &emsp;&emsp;(iv) Scientific research, including but not limited to aeronautical, atmospheric, space, geologic, marine, fish and wildlife, and other research, development, and applications.
 
@@ -108,7 +108,7 @@ The Congressional Budget and Impoundment Control Act of 1974, referred to in sub
 
 #### Amendments
 
-<b>2000</b>—Subsec. (c)(3). Pub. L. 106–291 inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted “Except as provided in subparagraph (B), no payment” for “No payment”, substituted “eighth full fiscal year” for “fifth full fiscal year”, and added subpar. (B).
+<b>2000</b>—Subsec. (c)(3). Pub. L. 106–291 inserted par. heading, designated existing provisions as subpar. (A), inserted subpar. heading, substituted "Except as provided in subparagraph (B), no payment" for "No payment", substituted "eighth full fiscal year" for "fifth full fiscal year", and added subpar. (B).
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

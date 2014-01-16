@@ -6,7 +6,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Advanced shipbuilding technology.—The term “advanced shipbuilding technology” includes—
+Advanced shipbuilding technology.—The term "advanced shipbuilding technology" includes—
 
 &emsp;&emsp;(A) numerically controlled machine tools, robots, automated process control equipment, computerized flexible manufacturing systems, associated computer software, and other technology for improving shipbuilding and related industrial production that advance the state-of-the-art; and
 
@@ -14,7 +14,7 @@ Advanced shipbuilding technology.—The term “advanced shipbuilding technology
 
 &emsp;(2)
 
-General shipyard facility.—The term “general shipyard facility” means—
+General shipyard facility.—The term "general shipyard facility" means—
 
 &emsp;&emsp;(A) for operations on land—
 
@@ -28,7 +28,7 @@ General shipyard facility.—The term “general shipyard facility” means—
 
 &emsp;(3)
 
-Modern shipbuilding technology.—The term “modern shipbuilding technology” means the best available proven technology, techniques, and processes appropriate to enhancing the productivity of shipyards.
+Modern shipbuilding technology.—The term "modern shipbuilding technology" means the best available proven technology, techniques, and processes appropriate to enhancing the productivity of shipyards.
 
 (b)
 
@@ -76,25 +76,25 @@ Pub. L. 103–160, title XIII, §1358, Nov. 30, 1993, 107 Stat. 1816.
 
 53733(c)
 
-46 App.:1279e(b) (words before “except”).
+46 App.:1279e(b) (words before "except").
 
 53733(d)
 
-46 App.:1279e(b) (words beginning with “except”).
+46 App.:1279e(b) (words beginning with "except").
 
 53733(e)
 
 46 App.:1279e(c).
 
-In subsection (a)(2)(A)(i), the words “(as defined in title 1)” are omitted as unnecessary because chapter 1 of the revised title contains a title-wide definition of “vessel” that incorporates the definition in title 1, United States Code.
+In subsection (a)(2)(A)(i), the words "(as defined in title 1)" are omitted as unnecessary because chapter 1 of the revised title contains a title-wide definition of "vessel" that incorporates the definition in title 1, United States Code.
 
-In subsection (b), the words “and subject to the terms the Secretary shall be prescribe” are omitted as unnecessary because section 53702(a) of the revised title provides the Secretary authority to prescribe the terms. The words “Only a private shipyard is eligible to receive a guarantee” are substituted for 46 App. U.S.C. 1280a to eliminate unnecessary words.
+In subsection (b), the words "and subject to the terms the Secretary shall be prescribe" are omitted as unnecessary because section 53702(a) of the revised title provides the Secretary authority to prescribe the terms. The words "Only a private shipyard is eligible to receive a guarantee" are substituted for 46 App. U.S.C. 1280a to eliminate unnecessary words.
 
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(2)(K). See 2006 Amendment note below.
 
-Subsecs. (b), (e). Pub. L. 110–181, §3522(a)(9)(F), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(2)(K), into this section by substituting “Administrator” for “Secretary”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsecs. (b), (e). Pub. L. 110–181, §3522(a)(9)(F), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(2)(K), into this section by substituting "Administrator" for "Secretary". See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 <b>2006</b>—Pub. L. 109–163, §3507(a)(2)(K), which directed the amendment of section 1279e of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsecs. (b), (e) and Historical and Revision notes above.
 

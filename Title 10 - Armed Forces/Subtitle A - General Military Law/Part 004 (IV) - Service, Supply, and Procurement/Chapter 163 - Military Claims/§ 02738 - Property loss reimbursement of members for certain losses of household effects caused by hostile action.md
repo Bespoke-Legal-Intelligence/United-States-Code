@@ -6,7 +6,7 @@ Authority To Reimburse.—The Secretary concerned may reimburse a member of the 
 
 (b)
 
-Covered Losses.—This section applies with respect to a loss of household effects sustained during a move made incident to a change of permanent station when, as determined bythe Secretary, the loss was caused by a hostile action incident to war or a warlike action by a military force.
+Covered Losses.—This section applies with respect to a loss of household effects sustained during a move made incident to a change of permanent station when, as determined by the Secretary, the loss was caused by a hostile action incident to war or a warlike action by a military force.
 
 (c)
 
@@ -14,7 +14,7 @@ Limitation.—The Secretary may provide reimbursement under this section for a l
 
 (d)
 
-Applicability of Other Authorities and Requirements.—Subsections (b), (d), (e), (f), and (g) of section 2733 of this title shall apply to a request for a reimbursement under this section as if the request were a claim against the United States.
+Applicability of Other Authorities and Requirements.—Subsections (b), (d), (e), (f), and\(g) of section 2733 of this title shall apply to a request for a reimbursement under this section as if the request were a claim against the United States.
 
 (Added Pub. L. 103–337, div. A, title V, §557(a), Oct. 5, 1994, 108 Stat. 2775.)
 
@@ -22,7 +22,7 @@ Applicability of Other Authorities and Requirements.—Subsections (b), (d), (e)
 
 Pub. L. 103–337, div. A, title V, §557(c), Oct. 5, 1994, 108 Stat. 2776, provided that:
 
-“(1) Section 2738 of title 10, United States Code, as added by subsection (a), applies with respect to losses incurred after June 30, 1990.
+"(1) Section 2738 of title 10, United States Code, as added by subsection (a), applies with respect to losses incurred after June 30, 1990.
 
-“(2) In the case of a loss incurred after June 30, 1990, and before the date of the enactment of this Act \[Oct. 5, 1994\], a request for reimbursement shall be filed with the Secretary of the military department concerned not later than two years after such date of enactment.”
+"(2) In the case of a loss incurred after June 30, 1990, and before the date of the enactment of this Act \[Oct. 5, 1994\], a request for reimbursement shall be filed with the Secretary of the military department concerned not later than two years after such date of enactment."
 

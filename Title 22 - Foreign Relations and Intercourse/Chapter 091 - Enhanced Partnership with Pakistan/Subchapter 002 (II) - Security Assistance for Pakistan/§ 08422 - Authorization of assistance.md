@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014 for assistance under chapter 5 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2347 et seq.; relating to international military education and training) for Pakistan, including expanded international military education and training (commonly known as “E–IMET”).
+&emsp;There are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2010 through 2014 for assistance under chapter 5 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2347 et seq.; relating to international military education and training) for Pakistan, including expanded international military education and training (commonly known as "E–IMET").
 
 #### (2) Use of funds
 
@@ -32,7 +32,7 @@
 
 #### (4) Definitions
 
-&emsp;In this section, the terms “defense articles”, “defense services”, and “military education and training” have the meaning given such terms in section 644 of the Foreign Assistance Act of 1961 (22 U.S.C. 2403).
+&emsp;In this section, the terms "defense articles", "defense services", and "military education and training" have the meaning given such terms in section 644 of the Foreign Assistance Act of 1961 (22 U.S.C. 2403).
 
 #### (c) Sense of Congress
 
@@ -54,7 +54,7 @@ It is the sense of Congress that the United States should facilitate Pakistan's 
 
 #### (2) Elements of program
 
-&emsp;The program authorized under paragraph (1) may include conferences, seminars, exchanges, and other events, distribution of publications and reimbursements of expenses of foreign military personnel participating in the program, including transportation, translation and administrative expenses.
+&emsp;The program authorized under paragraph (1) may include conferences, seminars, exchanges, and other events, distribution of publications and reimbursements of expenses of foreignmilitary personnel participating in the program, including transportation, translation and administrative expenses.
 
 #### (3) Role of nongovernmental organizations
 

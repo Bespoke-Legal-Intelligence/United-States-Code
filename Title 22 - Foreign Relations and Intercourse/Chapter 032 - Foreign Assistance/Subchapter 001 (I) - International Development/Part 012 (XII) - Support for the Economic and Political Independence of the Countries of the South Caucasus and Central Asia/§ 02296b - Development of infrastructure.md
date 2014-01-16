@@ -20,7 +20,7 @@ To carry out the purposes of subsection (a) of this section, the following types
 
 #### (c) Activities supported
 
-Activities that may be supported by programs under subsection (b) of this section include promoting actively the participation of United States companies and investors in the planning, financing, and construction of infrastructure for communications, transportation, including air transportation, and energy and trade including highways, railroads, port facilities, shipping, banking, insurance, telecommunications networks, and gas and oil pipelines.
+Activities that may be supported by programs under subsection (b) of this section include promoting actively the participation of UnitedStates companies and investors in the planning, financing, and construction of infrastructure for communications, transportation, including air transportation, and energy and trade including highways, railroads, port facilities, shipping, banking, insurance, telecommunications networks, and gas and oil pipelines.
 
 (Pub. L. 87–195, pt. I, §499B, as added Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §596(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–124.)
 

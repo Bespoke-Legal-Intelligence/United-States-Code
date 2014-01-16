@@ -30,9 +30,9 @@ A prior section 504, acts Aug. 16, 1954, ch. 736, 68A Stat. 168; Oct. 22, 1968, 
 
 #### Amendments
 
-<b>1987</b>—Pub. L. 100–203, §10711(b)(2)(A), substituted “substantial lobbying or because of political activities” for “substantial lobbying” in section catchline.
+<b>1987</b>—Pub. L. 100–203, §10711(b)(2)(A), substituted "substantial lobbying or because of political activities" for "substantial lobbying" in section catchline.
 
-Subsec. (a)(2). Pub. L. 100–203, §10711(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is not an organization described in section 501(c)(3) by reason of carrying on propaganda, or otherwise attempting, to influence legislation,”.
+Subsec. (a)(2). Pub. L. 100–203, §10711(b)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "is not an organization described in section 501(c)(3) by reason of carrying on propaganda, or otherwise attempting, to influence legislation,".
 
 #### Effective Date of 1987 Amendment
 
@@ -40,5 +40,5 @@ Amendment by Pub. L. 100–203 applicable with respect to activities after Dec. 
 
 #### Construction of Amendment
 
-Pub. L. 94–455, title XIII, §1307(a)(3), Oct. 4, 1976, 90 Stat. 1722, provided that: “It is the intent of Congressthat enactment of this section \[amending section 501 and enacting section 504 of this title\] is not to be regarded in any way as an approval or disapproval of the decision of the Court of Appeals for the Tenth Circuit in Christian Echoes National Ministry, Inc. versus United States, 470 F.2d 849 (1972), or of the reasoning in any of the opinions leading to that decision.”
+Pub. L. 94–455, title XIII, §1307(a)(3), Oct. 4, 1976, 90 Stat. 1722, provided that: "It is the intent of Congressthat enactment of this section \[amending section 501 and enacting section 504 of this title\] is not to be regarded in any way as an approval or disapproval of the decision of the Court of Appeals for the Tenth Circuit in Christian Echoes National Ministry, Inc. versus United States, 470 F.2d 849 (1972), or of the reasoning in any of the opinions leading to that decision."
 

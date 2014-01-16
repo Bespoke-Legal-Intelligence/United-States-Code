@@ -10,7 +10,7 @@
 
 (4) The findings of fact by the Secretary, if supported by substantial evidence, shall be conclusive; but the court, for good cause shown, may remand the case to the Secretary to take further evidence, and the Secretary may thereupon make new or modified findings of fact and may modify his previous action, and shall certify to the court the transcript and record of the further proceedings. Such new or modified findings of fact shall likewise be conclusive if supported by substantial evidence.
 
-(5) The court shall have jurisdiction to affirm the action of the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Court of the United States upon certiorari or certification as provided in section 1254 of title 28.
+(5) The court shall have jurisdiction to affirm the action of the Secretary or to set it aside, in whole or in part. The judgment of the court shall be subject to review by the Supreme Courtof the United States upon certiorari or certification as provided in section 1254 of title 28.
 
 #### (b) Amendment of plans
 
@@ -28,7 +28,7 @@ Whenever the Secretary determines that any item or class of items on account of 
 
 (1) Whenever the Secretary determines that any item or class of items on account of which Federal financial participation is claimed under subchapter XIX shall be disallowed for such participation, the State shall be entitled to and upon request shall receive a reconsideration of the disallowance, provided that such request is made during the 60-day period that begins on the date the State receives notice of the disallowance.
 
-(2)(A) A State may appeal a disallowance of a claim for federal <sup>2</sup> financial participation under subchapter XIX by the Secretary, or an unfavorable reconsideration of a disallowance, during the 60-day period that begins on the date the State receives notice of the disallowance or of the unfavorable reconsideration, in whole or in part, to the Departmental Appeals Board, established in the Department of Health and Human Services (in this paragraph referred to as the “Board”), by filing a notice of appeal with the Board.
+(2)(A) A State may appeal a disallowance of a claim for federal <sup>2</sup> financial participation under subchapter XIX by the Secretary, or an unfavorable reconsideration of a disallowance, during the 60-day period that begins on the date the State receives notice of the disallowance or of the unfavorable reconsideration, in whole or in part, to the Departmental Appeals Board, established in the Department of Health and Human Services (in this paragraph referred to as the "Board"), by filing a notice of appeal with the Board.
 
 (B) The Board shall consider a State's appeal of a disallowance of such a claim (or of an unfavorable reconsideration of a disallowance) on the basis of such documentation as the State may submit and as the Board may require to support the final decision of the Board. In deciding whether to uphold a disallowance of such a claim or any portion thereof, the Board shall be bound by all applicable laws and regulations and shall conduct a thorough review of the issues, taking into account all relevant evidence. The Board's decision of an appeal under subparagraph (A) shall be the final decision of the Secretary and shall be subject to reconsideration by the Board only upon motion of either party filed during the 60-day period that begins on the date of the Board's decision or to judicial review in accordance with subparagraph (C).
 
@@ -46,57 +46,57 @@ Section 1384 of this title, referred to in subsec. (a)(3), is a reference to sec
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d). Pub. L. 110–275, §204(b), struck out “or XIX,” after “XVI,”.
+<b>2008</b>—Subsec. (d). Pub. L. 110–275, §204(b), struck out "or XIX," after "XVI,".
 
 Subsec. (e). Pub. L. 110–275, §204(a), added subsec. (e).
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–193, §108(g)(3)(A), struck out “or part A of subchapter IV of this chapter,” after “XIX of this chapter,”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–193, §108(g)(3)(A), struck out "or part A of subchapter IV of this chapter," after "XIX of this chapter,".
 
-Subsec. (a)(3). Pub. L. 104–193, §108(g)(3)(B), struck out “604,” before “1204,”.
+Subsec. (a)(3). Pub. L. 104–193, §108(g)(3)(B), struck out "604," before "1204,".
 
-Subsecs. (b), (d). Pub. L. 104–193, §108(g)(3)(A), struck out “or part A of subchapter IV of this chapter,” after “XIX of this chapter,”.
+Subsecs. (b), (d). Pub. L. 104–193, §108(g)(3)(A), struck out "or part A of subchapter IV of this chapter," after "XIX of this chapter,".
 
-<b>1984</b>—Subsec. (a)(1). Pub. L. 98–369, §2663(e)(6)(A), struck out “VI,” after “I,”.
-
-Pub. L. 98–369, §2354(c)(2), corrected typographical error in directory language of Pub. L. 97–35, §2353(h)(1). See 1981 Amendment note below.
-
-Subsec. (a)(3). Pub. L. 98–369, §2663(e)(6)(B), struck out “804,” after “604,”.
-
-Subsec. (b). Pub. L. 98–369, §2663(e)(6)(A), struck out “VI,” after “I,”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–369, §2663(e)(6)(A), struck out "VI," after "I,".
 
 Pub. L. 98–369, §2354(c)(2), corrected typographical error in directory language of Pub. L. 97–35, §2353(h)(1). See 1981 Amendment note below.
 
-Subsec. (d). Pub. L. 98–369, §2663(e)(6)(C), substituted “XVI, or XIX of this chapter, or part A” for “XVI, or or XIX of this chapter, or part A”.
+Subsec. (a)(3). Pub. L. 98–369, §2663(e)(6)(B), struck out "804," after "604,".
 
-Pub. L. 98–369, §2663(e)(6)(A), struck out “VI,” after “I,”.
+Subsec. (b). Pub. L. 98–369, §2663(e)(6)(A), struck out "VI," after "I,".
 
-<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §2353(h)(1), as amended by Pub. L. 98–369, §2354(c)(2), substituted “or XIX of this chapter” for “XIX or XX of this chapter”.
+Pub. L. 98–369, §2354(c)(2), corrected typographical error in directory language of Pub. L. 97–35, §2353(h)(1). See 1981 Amendment note below.
 
-Subsec. (a)(3). Pub. L. 97–35, §2353(h)(2), substituted “or 1396c of this title” for “1396c, or 1397b of this title”.
+Subsec. (d). Pub. L. 98–369, §2663(e)(6)(C), substituted "XVI, or XIX of this chapter, or part A" for "XVI, or or XIX of this chapter, or part A".
 
-Subsec. (b). Pub. L. 97–35, §2353(h)(1), as amended by Pub. L. 98–369, §2354(c)(2), substituted “or XIX of this chapter” for “XIX or XX of this chapter”.
+Pub. L. 98–369, §2663(e)(6)(A), struck out "VI," after "I,".
 
-Subsec. (d). Pub. L. 97–35, §2353(h)(3), substituted “or XIX of this chapter” for “XIX, or XX of this chapter”.
+<b>1981</b>—Subsec. (a)(1). Pub. L. 97–35, §2353(h)(1), as amended by Pub. L. 98–369, §2354(c)(2), substituted "or XIX of this chapter" for "XIX or XX of this chapter".
 
-<b>1975</b>—Subsec. (a)(1). Pub. L. 93–647, §3(d)(1), substituted “XIX or XX” for “or XIX”.
+Subsec. (a)(3). Pub. L. 97–35, §2353(h)(2), substituted "or 1396c of this title" for "1396c, or 1397b of this title".
 
-Subsec. (a)(3). Pub. L. 93–647, §3(d)(2), substituted “1396c, or 1397b” for “or 1396c”.
+Subsec. (b). Pub. L. 97–35, §2353(h)(1), as amended by Pub. L. 98–369, §2354(c)(2), substituted "or XIX of this chapter" for "XIX or XX of this chapter".
 
-Subsec. (b). Pub. L. 93–647, §3(d)(1), substituted “XIX or XX” for “or XIX”.
+Subsec. (d). Pub. L. 97–35, §2353(h)(3), substituted "or XIX of this chapter" for "XIX, or XX of this chapter".
 
-Subsec. (d). Pub. L. 93–647, §3(d)(3), inserted “XX,” after “XIX,”.
+<b>1975</b>—Subsec. (a)(1). Pub. L. 93–647, §3(d)(1), substituted "XIX or XX" for "or XIX".
+
+Subsec. (a)(3). Pub. L. 93–647, §3(d)(2), substituted "1396c, or 1397b" for "or 1396c".
+
+Subsec. (b). Pub. L. 93–647, §3(d)(1), substituted "XIX or XX" for "or XIX".
+
+Subsec. (d). Pub. L. 93–647, §3(d)(3), inserted "XX," after "XIX,".
 
 <b>1973</b>—Subsec. (a). Pub. L. 93–233, §18(z–2)(1)(C)(i), (ii), inserted references in par. (1) to subchapter VI of this chapter and in par. (3) to section 804 of this title.
 
 Subsecs. (b), (d). Pub. L. 93–233, §18(z–2)(1)(C)(iii), (iv), inserted reference to subchapter VI of this chapter.
 
-<b>1968</b>—Subsec. (a)(1). Pub. L. 90–248, §241(c)(5)(A), struck out “IV,” after “I,” and inserted “or part A of subchapter IV of this chapter,” after “XIX of this chapter,”.
+<b>1968</b>—Subsec. (a)(1). Pub. L. 90–248, §241(c)(5)(A), struck out "IV," after "I," and inserted "or part A of subchapter IV of this chapter," after "XIX of this chapter,".
 
-Subsecs. (b), (d). Pub. L. 90–248, §241(c)(5)(B), struck out “IV,” after “I,” and inserted “, or part A of subchapter IV of this chapter,” after “XIX of this chapter”.
+Subsecs. (b), (d). Pub. L. 90–248, §241(c)(5)(B), struck out "IV," after "I," and inserted ", or part A of subchapter IV of this chapter," after "XIX of this chapter".
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–275, title II, §204(c), July 15, 2008, 122 Stat. 2593, provided that: “The amendments made by this section \[amending this section\] take effect on the date of the enactment of this Act \[July 15, 2008\] and apply to any disallowance of a claim for Federal financial participation under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) made on or after such date or during the 60-day period prior to such date.”
+Pub. L. 110–275, title II, §204(c), July 15, 2008, 122 Stat. 2593, provided that: "The amendments made by this section \[amending this section\] take effect on the date of the enactment of this Act \[July 15, 2008\] and apply to any disallowance of a claim for Federal financial participation under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.) made on or after such date or during the 60-day period prior to such date."
 
 #### Effective Date of 1996 Amendment
 
@@ -122,9 +122,9 @@ Amendment by Pub. L. 93–233 effective on and after Jan. 1, 1974, see section 1
 
 #### Effective Date
 
-Pub. L. 89–97, title IV, §404(b), July 30, 1965, 79 Stat. 420, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to determinations made after December 31, 1965.”
+Pub. L. 89–97, title IV, §404(b), July 30, 1965, 79 Stat. 420, provided that: "The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to determinations made after December 31, 1965."
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "or".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

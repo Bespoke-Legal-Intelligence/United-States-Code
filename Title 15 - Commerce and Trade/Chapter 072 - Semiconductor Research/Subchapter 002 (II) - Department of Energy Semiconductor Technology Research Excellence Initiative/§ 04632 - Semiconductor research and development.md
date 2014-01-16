@@ -2,7 +2,7 @@
 
 #### (a) Short title
 
-This section may be cited as the “National Advisory Committee on Semiconductor Research and Development Act of 1988”.
+This section may be cited as the "National Advisory Committee on Semiconductor Research and Development Act of 1988".
 
 #### (b) Findings and purposes
 
@@ -24,7 +24,7 @@ This section may be cited as the “National Advisory Committee on Semiconductor
 
 #### (c) Creation of Committee
 
-There is hereby created in the executive branch of the Government an independent advisory body to be known as the National Advisory Committee on Semiconductors (hereafter in this section referred to as the “Committee”).
+There is hereby created in the executive branch of the Government an independent advisory body to be known as the National Advisory Committee on Semiconductors (hereafter in this section referred to as the "Committee").
 
 #### (d) Functions
 
@@ -72,7 +72,7 @@ There is hereby created in the executive branch of the Government an independent
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated to carry out the purposes of this section such sums as may be necessary for the fiscal years 1988, 1989, 1990, 1991, 1992, and 1993.
+There are authorized to be appropriated to carry out the purposes of this section such sumsas may be necessary for the fiscal years 1988, 1989, 1990, 1991, 1992, and 1993.
 
 (Pub. L. 100–418, title V, §5142, Aug. 23, 1988, 102 Stat. 1444; Pub. L. 102–245, title I, §105(f), Feb. 14, 1992, 106 Stat. 12.)
 
@@ -82,7 +82,7 @@ Section was enacted as part of the Technology Competitiveness Act and as part of
 
 #### Amendments
 
-<b>1992</b>—Subsec. (f). Pub. L. 102–245 substituted “1990, 1991, 1992, and 1993” for “and 1990”.
+<b>1992</b>—Subsec. (f). Pub. L. 102–245 substituted "1990, 1991, 1992, and 1993" for "and 1990".
 
 #### Termination of Reporting Requirements
 

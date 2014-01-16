@@ -6,23 +6,23 @@ In this section:
 
 #### (1) Board
 
-&emsp;The term “Board” means the Hazardous Waste Electronic Manifest System Advisory Board established under subsection (f).
+&emsp;The term "Board" means the Hazardous Waste Electronic Manifest System Advisory Board established under subsection (f).
 
 #### (2) Fund
 
-&emsp;The term “Fund” means the Hazardous Waste Electronic Manifest System Fund established by subsection (d).
+&emsp;The term "Fund" means the Hazardous Waste Electronic Manifest System Fund established by subsection (d).
 
 #### (3) Person
 
-&emsp;The term “person” includes an individual, corporation (including a Government corporation), company, association, firm, partnership, society, joint stock company, trust, municipality, commission, Federal agency, State, political subdivision of a State, or interstate body.
+&emsp;The term "person" includes an individual, corporation (including a Government corporation), company, association, firm, partnership, society, joint stock company, trust, municipality, commission, Federal agency, State, political subdivision of a State, or interstate body.
 
 #### (4) System
 
-&emsp;The term “system” means the hazardous waste electronic manifest system established under subsection (b).
+&emsp;The term "system" means the hazardous waste electronic manifest system established under subsection (b).
 
 #### (5) User
 
-&emsp;The term “user” means a hazardous waste generator, a hazardous waste transporter, an owner or operator of a hazardous waste treatment, storage, recycling, or disposal facility, or any other person that—
+&emsp;The term "user" means a hazardous waste generator, a hazardous waste transporter, an owner or operator of a hazardous waste treatment, storage, recycling, or disposal facility, or any other person that—
 
 &emsp;&emsp;(A) is required to use a manifest to comply with any Federal or State requirement to track the shipment, transportation, and receipt of hazardous waste or other material that is shipped from the site of generation to an off-site facility for treatment, storage, disposal, or recycling; and
 
@@ -104,7 +104,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 #### (1) Establishment
 
-&emsp;There is established in the Treasury of the United States a revolving fund, to be known as the “Hazardous Waste Electronic Manifest System Fund”, consisting of such amounts as are deposited in the Fund under subsection (c)(2)(B).
+&emsp;There is established in the Treasury of the United States a revolving fund, to be known as the "Hazardous Waste Electronic Manifest System Fund", consisting of such amounts as are deposited in the Fund under subsection (c)(2)(B).
 
 #### (2) Expenditures from Fund
 
@@ -146,7 +146,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 &emsp;&emsp;&emsp;&emsp;(I) the fees collected and disbursed under this section;
 
-&emsp;&emsp;&emsp;&emsp;(II) the reasonableness of the fee structure in place as of the date of the audit to meet current and projected costs of the system;
+&emsp;&emsp;&emsp;&emsp;(II) the reasonableness of the fee structure in place as of the date of the auditto meet current and projected costs of the system;
 
 &emsp;&emsp;&emsp;&emsp;(III) the level of use of the system by users; and
 
@@ -164,7 +164,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 #### (1) Authority to enter into contracts funded by service fees
 
-&emsp;After consultation with the Secretary of Transportation, the Administrator may enter into 1 or more information technology contracts with entities determined to be appropriate by the Administrator (referred to in this subsection as “contractors”) for the provision of system-related services.
+&emsp;After consultation with the Secretary of Transportation, the Administrator may enter into 1 or more information technology contracts with entities determined to be appropriate by the Administrator (referred to in this subsection as "contractors") for the provision of system-related services.
 
 #### (2) Term of contract
 
@@ -194,7 +194,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 &emsp;&emsp;(A) the service fee structure of the contractor that will form the basis for payments to the contractor; and
 
-&emsp;&emsp;(B) the fixed-share ratio of monthly service fee revenues from which the Administrator shall reimburse the contractor forsystem-related development, operation, and maintenance costs.
+&emsp;&emsp;(B) the fixed-share ratio of monthly service fee revenues from which the Administrator shall reimburse the contractor for system-related development, operation, and maintenance costs.
 
 #### (5) Cancellation and termination
 
@@ -214,7 +214,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 #### (1) Establishment
 
-&emsp;Not later than 3 years after October 5, 2012, the Administrator shall establish a board to be known as the “Hazardous Waste Electronic Manifest System Advisory Board”.
+&emsp;Not later than 3 years after October 5, 2012, the Administrator shall establish a board to be known as the "Hazardous Waste Electronic Manifest System Advisory Board".
 
 #### (2) Composition
 
@@ -244,7 +244,7 @@ Not later than 3 years after October 5, 2012, the Administrator shall establish 
 
 #### (B) Inclusions
 
-&emsp;&emsp;The regulations promulgated pursuant to subparagraph (A) may include such requirements as the Administrator determines to be necessary to facilitate the transition from the use of paper manifests to the use of electronic manifests, or to accommodate the processing of data from paper manifests in the electronic manifest system, including a requirement that users of paper manifests submit to the system copies of the paper manifests for data processing purposes.
+&emsp;&emsp;The regulations promulgated pursuant to subparagraph (A) may include such requirements as the Administrator determines tobe necessary to facilitate the transition from the use of paper manifests to the use of electronic manifests, or to accommodate the processing of data from paper manifests in the electronic manifest system, including a requirement that users of paper manifests submit to the system copies of the paper manifests for data processing purposes.
 
 #### (C) Requirements
 
@@ -286,7 +286,7 @@ There are authorized to be appropriated $2,000,000 for each of fiscal years 2013
 
 #### References in Text
 
-The Chief Financial Officers Act of 1990, referred to in subsec. (d)(3)(A)(i)(I), is Pub. L. 101–576, Nov. 15, 1990, 104Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
+The Chief Financial Officers Act of 1990, referred to in subsec. (d)(3)(A)(i)(I), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
 
 The Government Management Reform Act of 1994, referred to in (d)(3)(A)(i)(II), is Pub. L. 103–356, Oct. 13, 1994, 108 Stat. 3410. For complete classification of this Act to the Code, see Short Title of 1994 Amendment note set out under section 3301 of Title 31, Money and Finance, and Tables.
 

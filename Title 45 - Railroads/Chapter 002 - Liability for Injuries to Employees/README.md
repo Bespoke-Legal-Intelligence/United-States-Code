@@ -9,7 +9,7 @@
 | [54a.](%C2%A7%2000054a%20-%20Certain%20Federal%20and%20State%20regulations%20deemed%20statutory%20authority.md) | Certain Federal and State regulations deemed statutory authority. |
 | [55\.](%C2%A7%2000055%20-%20Contract%2C%20rule%2C%20regulation%2C%20or%20device%20exempting%20from%20liability%3B%20set-off.md) | Contract, rule, regulation, or device exempting from liability; set-off. |
 | [56\.](%C2%A7%2000056%20-%20Actions%3B%20limitation%3B%20concurrent%20jurisdiction%20of%20courts.md) | Actions; limitation; concurrent jurisdiction of courts. |
-| [57\.](%C2%A7%2000057%20-%20Who%20included%20in%20term%20%E2%80%9Ccommon%20carrier%E2%80%9D.md) | Who included in term “common carrier”. |
+| [57\.](%C2%A7%2000057%20-%20Who%20included%20in%20term%20common%20carrier.md) | Who included in term "common carrier". |
 | [58\.](%C2%A7%2000058%20-%20Duty%20or%20liability%20of%20common%20carriers%20and%20rights%20of%20employees%20under%20other%20acts%20not%20impaired.md) | Duty or liability of common carriers and rights of employees under other acts not impaired. |
 | [59\.](%C2%A7%2000059%20-%20Survival%20of%20right%20of%20action%20of%20person%20injured.md) | Survival of right of action of person injured. |
 | [60\.](%C2%A7%2000060%20-%20Penalty%20for%20suppression%20of%20voluntary%20information%20incident%20to%20accidents%3B%20separability.md) | Penalty for suppression of voluntary information incident to accidents; separability. |
@@ -28,7 +28,7 @@
 - [&sect; 00054a - Certain Federal and State regulations deemed statutory authority](%C2%A7%2000054a%20-%20Certain%20Federal%20and%20State%20regulations%20deemed%20statutory%20authority.md)
 - [&sect; 00055 - Contract, rule, regulation, or device exempting from liability; set-off](%C2%A7%2000055%20-%20Contract%2C%20rule%2C%20regulation%2C%20or%20device%20exempting%20from%20liability%3B%20set-off.md)
 - [&sect; 00056 - Actions; limitation; concurrent jurisdiction of courts](%C2%A7%2000056%20-%20Actions%3B%20limitation%3B%20concurrent%20jurisdiction%20of%20courts.md)
-- [&sect; 00057 - Who included in term &#8220;common carrier&#8221;](%C2%A7%2000057%20-%20Who%20included%20in%20term%20%E2%80%9Ccommon%20carrier%E2%80%9D.md)
+- [&sect; 00057 - Who included in term common carrier](%C2%A7%2000057%20-%20Who%20included%20in%20term%20common%20carrier.md)
 - [&sect; 00058 - Duty or liability of common carriers and rights of employees under other acts not impaired](%C2%A7%2000058%20-%20Duty%20or%20liability%20of%20common%20carriers%20and%20rights%20of%20employees%20under%20other%20acts%20not%20impaired.md)
 - [&sect; 00059 - Survival of right of action of person injured](%C2%A7%2000059%20-%20Survival%20of%20right%20of%20action%20of%20person%20injured.md)
 - [&sect; 00060 - Penalty for suppression of voluntary information incident to accidents; separability](%C2%A7%2000060%20-%20Penalty%20for%20suppression%20of%20voluntary%20information%20incident%20to%20accidents%3B%20separability.md)

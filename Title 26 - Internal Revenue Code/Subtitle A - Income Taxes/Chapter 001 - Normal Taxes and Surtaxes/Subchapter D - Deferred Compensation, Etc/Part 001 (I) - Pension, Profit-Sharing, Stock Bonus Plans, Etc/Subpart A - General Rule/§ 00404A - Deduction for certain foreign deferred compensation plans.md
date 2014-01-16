@@ -110,11 +110,11 @@ For purposes of this section—
 
 #### (A) Cumulative United States amount
 
-&emsp;&emsp;The term “cumulative United States amount” means the aggregate amount determined with respect to the plan under this section for the taxable year and for all prior taxable years to which this section applies. Such determination shall be made for each taxable year without regard to the application of paragraph (1).
+&emsp;&emsp;The term "cumulative United States amount" means the aggregate amount determined with respect to the plan under this section for the taxable year and for all prior taxable years to which this section applies. Such determination shall be made for each taxable year without regard to the application of paragraph (1).
 
 #### (B) Cumulative foreign amount
 
-&emsp;&emsp;The term “cumulative foreign amount” means the aggregate amount allowed as a deduction under the appropriate foreign tax laws for the taxable year and all prior taxable years to which this section applies.
+&emsp;&emsp;The term "cumulative foreign amount" means the aggregate amount allowed as a deduction under the appropriate foreign tax laws for the taxable year and all prior taxable years to which this section applies.
 
 #### (3) Effect on earnings and profits, etc.
 
@@ -122,7 +122,7 @@ For purposes of this section—
 
 #### (e) Qualified foreign plan
 
-For purposes of this section, the term “qualified foreign plan” means any written plan of anemployer for deferring the receipt of compensation but only if—
+For purposes of this section, the term "qualified foreign plan" means any written plan of anemployer for deferring the receipt of compensation but only if—
 
 &emsp;(1) such plan is for the exclusive benefit of the employer's employees or their beneficiaries,
 
@@ -140,11 +140,11 @@ For purposes of this section—
 
 #### (1) Qualified funded plan
 
-&emsp;The term “qualified funded plan” means a qualified foreign plan which is not a qualified reserve plan.
+&emsp;The term "qualified funded plan" means a qualified foreign plan which is not a qualified reserve plan.
 
 #### (2) Qualified reserve plan
 
-&emsp;The term “qualified reserve plan” means a qualified foreign plan with respect to which an election made by the taxpayer is in effect for the taxable year. An election under the preceding sentence shall be made in such manner and form as the Secretary may by regulations prescribe and, once made, may be revoked only with the consent of the Secretary.
+&emsp;The term "qualified reserve plan" means a qualified foreign plan with respect to which an election made by the taxpayer is in effect for the taxable year. An election under the preceding sentence shall be made in such manner and form as the Secretary may by regulations prescribe and, once made, may be revoked only with the consent of the Secretary.
 
 #### (g) Other special rules
 
@@ -190,7 +190,7 @@ For purposes of this section—
 
 #### (iii) Permissible range
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “permissible range” means a rate of interest which is not more than 20 percent above, and not more than 20 percent below, the average rate of interest for long-term corporate bonds in the appropriate country for the 15-year period ending on the last day before the beginning of the taxable year.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "permissible range" means a rate of interest which is not more than 20 percent above, and not more than 20 percent below, the average rate of interest for long-term corporate bonds in the appropriate country for the 15-year period ending on the last day before the beginning of the taxable year.
 
 #### (4) Accounting method
 
@@ -208,13 +208,13 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (g)(3)(A). Pub. L. 109–280 substituted “paragraphs (3) and (6) of section 431(c)” for “paragraphs (3) and (7) of section 412(c)”.
+<b>2006</b>—Subsec. (g)(3)(A). Pub. L. 109–280 substituted "paragraphs (3) and (6) of section 431(c)" for "paragraphs (3) and (7) of section 412(c)".
 
-<b>1988</b>—Subsec. (d)(3). Pub. L. 100–647 inserted “except as provided in regulations,” after “qualified foreign plan,”.
+<b>1988</b>—Subsec. (d)(3). Pub. L. 100–647 inserted "except as provided in regulations," after "qualified foreign plan,".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1851(b)(2)(C)(iii), substituted “under this chapter” for “under section 162, 212, or 404” in par. (1) and “they would otherwise be deductible” for “they satisfy the conditions of section 162” in par. (2).
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1851(b)(2)(C)(iii), substituted "under this chapter" for "under section 162, 212, or 404" in par. (1) and "they would otherwise be deductible" for "they satisfy the conditions of section 162" in par. (2).
 
-Subsec. (g)(1)(A). Pub. L. 99–514, §1114(b)(8), substituted “a highly compensated employee (within the meaning of section 414(q))” for “an officer, shareholder, or highly compensated”.
+Subsec. (g)(1)(A). Pub. L. 99–514, §1114(b)(8), substituted "a highly compensated employee (within the meaning of section 414(q))" for "an officer, shareholder, or highly compensated".
 
 #### Effective Date of 2006 Amendment
 
@@ -234,71 +234,71 @@ Amendment by section 1851(b)(2)(C)(iii) of Pub. L. 99–514 effective, except as
 
 Pub. L. 96–603, §2(e), Dec. 28, 1980, 94 Stat. 3510, as amended by Pub. L. 97–448, title III, §305(a), Jan. 12, 1983, 96 Stat. 2399; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[enacting this section and section 6689 of this title and amending sections 679 and 905 of this title\] shall apply with respect to employer contributions or accruals for taxable years beginning after December 31, 1979.
 
-“(2)
+"(2)
 
 Election to apply amendments retroactively with respect to foreign subsidiaries.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The taxpayer may elect to have the amendments made by this section \[enacting this section and section 6689 of this title and amending sections 679 and 905 of this title\] apply retroactively with respect to its foreign subsidiaries.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Scope of retroactive application.—Any election made under this paragraph shall apply with respect to all foreign subsidiaries of the taxpayer for the taxpayer's open period.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Distributions by foreign subsidiary must be out of post-1971 earnings and profits.—The election under this paragraph shall apply to distributions made by a foreign subsidiary only if made out of accumulated profits (or earnings and profits) earned after December 31, 1970.
 
-&emsp;“(D)
+&emsp;"(D)
 
 Revocation only with consent.—An election under this paragraph may be revoked only with the consent of the Secretary of the Treasury or his delegate.
 
-&emsp;“(E)
+&emsp;"(E)
 
-Open period.—For purposes of this subsection, the term ‘open period’ means, with respect to any taxpayer, all taxable years which begin before January 1, 1980, and which begin after December 31, 1971, and for which, on December 31, 1980, the making of a refund, or the assessment of a deficiency, was not barred by any law or rule of law.
+Open period.—For purposes of this subsection, the term 'open period' means, with respect to any taxpayer, all taxable years which begin before January 1, 1980, and which begin after December 31, 1971, and for which, on December 31, 1980, the making of a refund, or the assessment of a deficiency, was not barred by any law or rule of law.
 
-“(3)
+"(3)
 
 Allowance of prior deductions in case of certain funded branch plans.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—If—
 
-&emsp;&emsp;“(i) the taxpayer elects to have this paragraph apply, and
+&emsp;&emsp;"(i) the taxpayer elects to have this paragraph apply, and
 
-&emsp;&emsp;“(ii) the taxpayer agrees to the assessment of all deficiencies (including interest thereon) arising from all erroneous deductions,
+&emsp;&emsp;"(ii) the taxpayer agrees to the assessment of all deficiencies (including interest thereon) arising from all erroneous deductions,
 
 > &emsp;then an amount equal to 1/15th of the aggregate of the prior deductions which would have been allowable if the amendments made by this section \[enacting this section and section 6689 of this title and amending sections 679 and 905 of this title\] applied to taxable years beginning before January 1, 1980, shall be allowed as a deduction for the taxpayer's first taxable year beginning in 1980, and an equal amount shall be allowed for each of the succeeding 14 taxable years.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Prior deduction.—For purposes of subparagraph (A), the term ‘prior deduction’ means a deduction with respect to a qualified funded plan (within the meaning of section 404A(f)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) of the taxpayer—
+Prior deduction.—For purposes of subparagraph (A), the term 'prior deduction' means a deduction with respect to a qualified funded plan (within the meaning of section 404A(f)(1) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) of the taxpayer—
 
-&emsp;&emsp;“(i) which the taxpayer claimed for a taxable year (or could have claimed if the amendments made by this section \[enacting this section and section 6689 of this title and amending sections 679 and 905 of this title\] applied to taxable years beginning before January 1, 1980) beginning before January 1, 1980,
+&emsp;&emsp;"(i) which the taxpayer claimed for a taxable year (or could have claimed if the amendments made by this section \[enacting this section and section 6689 of this title and amending sections 679 and 905 of this title\] applied to taxable years beginning before January 1, 1980) beginning before January 1, 1980,
 
-&emsp;&emsp;“(ii) which was not allowable, and
+&emsp;&emsp;"(ii) which was not allowable, and
 
-&emsp;&emsp;“(iii) with respect to which, on December 1, 1980, the assessment of a deficiency was not barred by any law or rule of law.
+&emsp;&emsp;"(iii) with respect to which, on December 1, 1980, the assessment of a deficiency was not barred by any law or rule of law.
 
-“(4)
+"(4)
 
 Time and manner for making elections.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Time.—An election under paragraph (2) or (3) may be made only on or before the due date (including extensions) for filing the taxpayer's return of tax under chapter 1 of the Internal Revenue Code of 1986 \[section 1 et seq. of this title\] for its first taxable year ending on or after December 31, 1980.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Manner.—An election under paragraph (2) may be made only by a statement attached to the taxpayer's return for its first taxable year ending on or after December 31, 1980. An election under paragraph (3) may be made only if the taxpayer, on or before the last day for making the election, files with the Secretary of the Treasury or his delegate such amended return and such other information as the Secretary of the Treasury or his delegate may require, and agrees to the assessment of a deficiency for any closed year falling within the open period, to the extent such deficiency is attributable to the operation of such election.”
+Manner.—An election under paragraph (2) may be made only by a statement attached to the taxpayer's return for its first taxable year ending on or after December 31, 1980. An election under paragraph (3) may be made only if the taxpayer, on or before the last day for making the election, files with the Secretary of the Treasury or his delegate such amended return and such other information as the Secretary of the Treasury or his delegate may require, and agrees to the assessment of a deficiency for any closed year falling within the open period, to the extent such deficiency is attributable to the operation of such election."
 
-\[Pub. L. 97–448, title III, §311(c)(1), Jan. 12, 1983, 96 Stat. 2411, provided that: “The amendment made by subsection (a) of section 305 \[amending par. (2)(E) of this note\] shall take effect on December 28, 1980.”\]
+\[Pub. L. 97–448, title III, §311(c)(1), Jan. 12, 1983, 96 Stat. 2411, provided that: "The amendment made by subsection (a) of section 305 \[amending par. (2)(E) of this note\] shall take effect on December 28, 1980."\]
 
 #### Regulations
 
@@ -308,5 +308,5 @@ Secretary of the Treasury or his delegate to issue before Feb. 1, 1988, final re
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

@@ -4,7 +4,7 @@
 
 Not later than 180 days after the date of enactment of this Act, the Secretary shall promulgate regulations that—
 
-&emsp;(1) describe the circumstances under which, in order to allow for the settlement of estates and for related purposes, payments may be issued in the name of a deceased individual; and
+&emsp;(1) describe the circumstances under which, in order to allow for the settlement of estatesand for related purposes, payments may be issued in the name of a deceased individual; and
 
 &emsp;(2) preclude the issuance of payments to, and on behalf of, deceased individuals that were not eligible for the payments.
 
@@ -18,7 +18,7 @@ At least twice each year, the Secretary shall reconcile the social security numb
 
 The date of enactment of this Act, referred to in subsec. (a), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
-This chapter, referred to in subsec. (b), was in the original “this title”, meaning title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (b), was in the original "this title", meaning title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1664, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
 #### Codification
 

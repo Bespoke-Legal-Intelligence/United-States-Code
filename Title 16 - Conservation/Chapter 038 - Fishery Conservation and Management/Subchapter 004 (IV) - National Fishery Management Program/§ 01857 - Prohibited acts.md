@@ -24,7 +24,7 @@ It is unlawful—
 
 &emsp;&emsp;(J) to ship, transport, offer for sale, sell, or purchase, in interstate or foreign commerce, any whole live lobster of the species Homarus americanus, that—
 
-&emsp;&emsp;&emsp;(i) is smaller than the minimum possession size in effect at the time under the American Lobster Fishery Management Plan, as implemented by regulations published in part 649 of title 50, Code of Federal Regulations, or any successor to that plan implemented under this subchapter,or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commission under the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.);
+&emsp;&emsp;&emsp;(i) is smaller than the minimum possession size in effect at the time under the American Lobster Fishery Management Plan, as implemented by regulations published in part 649 of title 50, Code of Federal Regulations, or any successor to that plan implemented under this subchapter, or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commission under the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.);
 
 &emsp;&emsp;&emsp;(ii) is bearing eggs attached to its abdominal appendages; or
 
@@ -54,9 +54,9 @@ It is unlawful—
 
 &emsp;&emsp;(Q) to import, export, transport, sell, receive, acquire, or purchase in interstate or foreign commerce any fish taken, possessed, transported, or sold in violation of any foreign law or regulation; or
 
-&emsp;&emsp;(R) to use any fishing vessel to engage in fishing in Federal or State waters, or on the high seas or in the waters of another country, after the Secretary has made a payment to the owner of that fishing vessel under section 1861a(b)(2) of this title.
+&emsp;&emsp;(R) to use any fishing vessel to engage in fishing in Federal or State waters, or on the high seas or in the waters of another country, after the Secretary has made a paymentto the owner of that fishing vessel under section 1861a(b)(2) of this title.
 
-> &emsp;For purposes of subparagraph (P), there shall be a rebuttable presumption that if any shark fin (including the tail) is found aboard a vessel, other than a fishing vessel, without being naturally attached to the corresponding carcass, such fin was transferred in violation of subparagraph (P)(iii) or that if, after landing, the total weight of shark fins (including the tail) landed from any vessel exceeds five percent of the total weight of shark carcasses landed, such fins were taken, held, or landed in violation of subparagraph (P). In such subparagraph, the term “naturally attached”, with respect to a shark fin, means attached to the corresponding shark carcass through some portion of uncut skin.
+> &emsp;For purposes of subparagraph (P), there shall be a rebuttable presumption that if any shark fin (including the tail) is found aboard a vessel, other than a fishing vessel, without being naturally attached to the corresponding carcass, such fin was transferred in violation of subparagraph (P)(iii) or that if, after landing, the total weight of shark fins (including the tail) landed from any vessel exceeds five percent of the total weight of shark carcasses landed, such fins were taken, held, or landed in violation of subparagraph (P). In such subparagraph, the term "naturally attached", with respect to a shark fin, means attached to the corresponding shark carcass through some portion of uncut skin.
 
 &emsp;(2) for any vessel other than a vessel of the United States, and for the owner or operator of any vessel other than a vessel of the United States, to engage—
 
@@ -82,7 +82,7 @@ It is unlawful—
 
 > &emsp;unless such vessel is authorized to engage in fishing in the area in which the vessel is operating; and
 
-&emsp;(5) for any vessel of the United States, and for the owner or operator of any vessel of theUnited States, to engage in fishing in the waters of a foreign nation in a manner that violates an international fishery agreement between that nation and the United States that has been subject to Congressional oversight in the manner described in section 1823 of this title, or any regulations issued to implement such an agreement; except that the binding provisions of such agreement and implementing regulations shall have been published in the Federal Register prior to such violation.
+&emsp;(5) for any vessel of the United States, and for the owner or operator of any vessel of the United States, to engage in fishing in the waters of a foreign nation in a manner that violates an international fishery agreement between that nation and the United States that has been subject to Congressional oversight in the manner described in section 1823 of this title, or any regulations issued to implement such an agreement; except that the binding provisions of such agreement and implementing regulations shall have been published in the Federal Register prior to such violation.
 
 (Pub. L. 94–265, title III, §307, Apr. 13, 1976, 90 Stat. 355; Pub. L. 95–354, §5(4), Aug. 28, 1978, 92 Stat. 521; Pub. L. 97–191, §2, June 1, 1982, 96 Stat. 107; Pub. L. 97–453, §15(b), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 99–659, title I, §§101(c)(2), 107(a), Nov. 14, 1986, 100 Stat. 3707, 3713; Pub. L. 100–629, §4, Nov. 7, 1988, 102 Stat. 3286; Pub. L. 101–224, §8, Dec. 12, 1989, 103 Stat. 1907; Pub. L. 101–627, title I, §113, Nov. 28, 1990, 104 Stat. 4453; Pub. L. 102–251, title III, §301(h), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §113, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3597, 3621; Pub. L. 106–557, §3, Dec. 21, 2000, 114 Stat. 2772; Pub. L. 109–479, title I, §118, Jan. 12, 2007, 120 Stat. 3607; Pub. L. 111–348, title I, §103(a), Jan. 4, 2011, 124 Stat. 3670.)
 
@@ -90,53 +90,53 @@ It is unlawful—
 
 <i>Pub. L. 102–251, title III, §§301(h), 308, Mar. 9, 1992, 106 Stat. 64, 66, as amended by Pub. L. 104–297, title IV, §405(b)(1), Oct. 11, 1996, 110 Stat. 3621, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, this section is amended:</i>
 
-<i>(1) in paragraph (1)(K), by inserting “or special areas” immediately after “exclusive economic zone”;</i>
+<i>(1) in paragraph (1)(K), by inserting "or special areas" immediately after "exclusive economic zone";</i>
 
-<i>(2) in paragraph (2)(B), by inserting “or areas” immediately after “such zone”;</i>
+<i>(2) in paragraph (2)(B), by inserting "or areas" immediately after "such zone";</i>
 
-<i>(3) in paragraph (3), by inserting “or special areas” immediately after “exclusive economic zone”; and</i>
+<i>(3) in paragraph (3), by inserting "or special areas" immediately after "exclusive economic zone"; and</i>
 
-<i>(4) in paragraph (4), by inserting “or special areas” immediately after “exclusive economic zone”.</i>
+<i>(4) in paragraph (4), by inserting "or special areas" immediately after "exclusive economic zone".</i>
 
 #### References in Text
 
-This chapter, referred to in par. (1), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in par. (1), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Atlantic Coastal Fisheries Cooperative Management Act, referred to in par. (1)(J)(i), is title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, as amended, which is classified principally to chapter 71 (§5101 et seq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under section 5101 of this title and Tables.
+The Atlantic Coastal Fisheries Cooperative Management Act, referred to in par. (1)(J)(i), is title VIII of Pub. L. 103–206, Dec. 20, 1993, 107 Stat. 2447, as amended, which is classified principally to chapter 71 (§5101 etseq.) of this title. For complete classification of title VIII to the Code, see Short Title note set out under section 5101 of this title and Tables.
 
 #### Amendments
 
-<b>2011</b>—Par. (1). Pub. L. 111–348, §103(a)(2), substituted “For purposes of subparagraph (P), there shall be a rebuttable presumption that if any shark fin (including the tail) is found aboard a vessel, other than a fishing vessel, without being naturally attached to the corresponding carcass, such fin was transferred in violation of subparagraph (P)(iii) or that if, after landing, the total weight of shark fins (including the tail) landed from any vessel exceeds five percent of the total weight of shark carcasses landed, such fins were taken, held, or landed in violation of subparagraph (P). In such subparagraph, the term ‘naturally attached’, with respect to a shark fin, means attached to the corresponding shark carcass through some portion of uncut skin.” for “For purposes of subparagraph (P) there is a rebuttable presumption that any shark fins landed from a fishing vessel or found on board a fishing vessel were taken, held, or landed in violation of subparagraph (P) if the total weight of shark fins landed or found on board exceeds 5 percent of the total weight of shark carcasses landed or found on board.” in concluding provisions.
+<b>2011</b>—Par. (1). Pub. L. 111–348, §103(a)(2), substituted "For purposes of subparagraph (P), there shall be a rebuttable presumption that if any shark fin (including the tail) is found aboard a vessel, other than a fishing vessel, without being naturally attached to the corresponding carcass, such fin was transferred in violation of subparagraph (P)(iii) or that if, after landing, the total weight of shark fins (including the tail) landed from any vessel exceeds five percent of the total weight of shark carcasses landed, such fins were taken, held, or landed in violation of subparagraph (P). In such subparagraph, the term 'naturally attached', with respect to a shark fin, means attached to the corresponding shark carcass through some portion of uncut skin." for "For purposes of subparagraph (P) there is a rebuttable presumption that any shark fins landed from a fishing vessel or found on board a fishing vessel were taken, held, or landed in violation of subparagraph (P) if the total weight of shark fins landed or found on board exceeds 5 percent of the total weight of shark carcasses landed or found on board." in concluding provisions.
 
 Par. (1)(P). Pub. L. 111–348, §103(a)(1), amended subpar. (P) generally. Prior to amendment, subpar. (P) read as follows:
 
-“(i) to remove any of the fins of a shark (including the tail) and discard the carcass of the shark at sea;
+"(i) to remove any of the fins of a shark (including the tail) and discard the carcass of the shark at sea;
 
-“(ii) to have custody, control, or possession of any such fin aboard a fishing vessel without the corresponding carcass; or
+"(ii) to have custody, control, or possession of any such fin aboard a fishing vessel without the corresponding carcass; or
 
-“(iii) to land any such fin without the corresponding carcass;”.
+"(iii) to land any such fin without the corresponding carcass;".
 
 <b>2007</b>—Par. (1)(Q), (R). Pub. L. 109–479 added subpars. (Q) and (R).
 
 <b>2000</b>—Par. (1). Pub. L. 106–557 added subpar. (P) and concluding provisions.
 
-<b>1996</b>—Par. (1)(J)(i). Pub. L. 104–297, §113(a), substituted “plan implemented” for “plan, implemented” and inserted before semicolon at end “, or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commission under the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.)”.
+<b>1996</b>—Par. (1)(J)(i). Pub. L. 104–297, §113(a), substituted "plan implemented" for "plan, implemented" and inserted before semicolon at end ", or in the absence of any such plan, is smaller than the minimum possession size in effect at the time under a coastal fishery management plan for American lobster adopted by the Atlantic States Marine Fisheries Commission under the Atlantic Coastal Fisheries Cooperative Management Act (16 U.S.C. 5101 et seq.)".
 
-Par. (1)(K). Pub. L. 104–297, §113(b)(2), substituted “gear;” for “gear,” at end of cl. (ii) and struck out concluding provisions which read as follows: “or to attempt to do so;”.
+Par. (1)(K). Pub. L. 104–297, §113(b)(2), substituted "gear;" for "gear," at end of cl. (ii) and struck out concluding provisions which read as follows: "or to attempt to do so;".
 
-Pub. L. 104–297, §113(b)(1), which directed substitution of “to steal or attempt to steal or to negligently and without authorization” for “knowingly steal or without authorization, to”, was executed by making the substitution for “knowingly steal, or without authorization, to” to reflect the probable intent of Congress.
+Pub. L. 104–297, §113(b)(1), which directed substitution of "to steal or attempt to steal or to negligently and without authorization" for "knowingly steal or without authorization, to", was executed by making the substitution for "knowingly steal, or without authorization, to" to reflect the probable intent of Congress.
 
-Par. (1)(L). Pub. L. 104–297, §113(c), amended subpar. (L) generally. Prior to amendment, subpar. (L) read as follows: “to forcibly assault, resist, oppose, impede, intimidate, or interfere with any observer on a vessel under this chapter;”.
+Par. (1)(L). Pub. L. 104–297, §113(c), amended subpar. (L) generally. Prior to amendment, subpar. (L) read as follows: "to forcibly assault, resist, oppose, impede, intimidate, or interfere with any observer on a vessel under this chapter;".
 
 Par. (1)(O). Pub. L. 104–297, §113(d), added subpar. (O).
 
-Par. (2)(A). Pub. L. 104–297, §113(e), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) of this title;”.
+Par. (2)(A). Pub. L. 104–297, §113(e), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) of this title;".
 
-Par. (2)(B). Pub. L. 104–297, §113(f), substituted “1821(i)” for “1821(j)” and “1824(b), (c), or (d)” for “1824(b) or (c)”.
+Par. (2)(B). Pub. L. 104–297, §113(f), substituted "1821(i)" for "1821(j)" and "1824(b), (c), or (d)" for "1824(b) or (c)".
 
-Par. (3). Pub. L. 104–297, §113(g), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “for any vessel of the United States, and for the owner or operator of any vessel of the United States, to transfer directly or indirectly, or attempt to so transfer, any United States harvested fish to any foreign fishing vessel, while such foreign vessel is within the exclusive economic zone, unless the foreign fishing vessel has been issued a permit under section 1824 of this title which authorizes the receipt by such vessel of United States harvested fish of the species concerned;”.
+Par. (3). Pub. L. 104–297, §113(g), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "for any vessel of the United States, and for the owner or operator of any vessel of the United States, to transfer directly or indirectly, or attempt to so transfer, any United States harvested fish to any foreign fishing vessel, while such foreign vessel is within the exclusive economic zone, unless the foreign fishing vessel has been issued a permit under section 1824 of this title which authorizes the receipt by such vessel of United States harvested fish of the species concerned;".
 
-Par. (4). Pub. L. 104–297, §113(h), inserted “or within the boundaries of any State” after “zone” in introductory provisions.
+Par. (4). Pub. L. 104–297, §113(h), inserted "or within the boundaries of any State" after "zone" in introductory provisions.
 
 <b>1990</b>—Par. (1)(K) to (N). Pub. L. 101–627, §113(a), added subpars. (K) to (N).
 
@@ -148,17 +148,17 @@ Par. (5). Pub. L. 101–627, §113(b), added par. (5).
 
 <b>1986</b>—Par. (1)(I). Pub. L. 99–659, §107(a), added subpar. (I).
 
-Pars. (2)(B), (3). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
+Pars. (2)(B), (3). Pub. L. 99–659, §101(c)(2), substituted "exclusive economic zone" for "fishery conservation zone".
 
-<b>1983</b>—Par. (2)(A). Pub. L. 97–453, §15(b)(A), substituted “in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) of this title” for “in fishing within the boundaries of any State”.
+<b>1983</b>—Par. (2)(A). Pub. L. 97–453, §15(b)(A), substituted "in fishing within the boundaries of any State, except recreational fishing permitted under section 1821(j) of this title" for "in fishing within the boundaries of any State".
 
-Par. (2)(B). Pub. L. 97–453, §15(b)(B), inserted “, except recreational fishing permitted under section 1821(j) of this title,” after “in fishing”.
+Par. (2)(B). Pub. L. 97–453, §15(b)(B), inserted ", except recreational fishing permitted under section 1821(j) of this title," after "in fishing".
 
-<b>1982</b>—Par. (2). Pub. L. 97–191, §2(1), struck out “in fishing” in provisions preceding subpar. (A).
+<b>1982</b>—Par. (2). Pub. L. 97–191, §2(1), struck out "in fishing" in provisions preceding subpar. (A).
 
-Par. (2)(A). Pub. L. 97–191, §2(2), inserted “in fishing” at beginning and struck out “or” at end.
+Par. (2)(A). Pub. L. 97–191, §2(2), inserted "in fishing" at beginning and struck out "or" at end.
 
-Par. (2)(B). Pub. L. 97–191, §2(3), inserted “in fishing” at beginning and substituted “or” for “and” at end.
+Par. (2)(B). Pub. L. 97–191, §2(3), inserted "in fishing" at beginning and substituted "or" for "and" at end.
 
 Par. (2)(C). Pub. L. 97–191, §2(4), added subpar. (C).
 
@@ -180,21 +180,21 @@ Pub. L. 94–265, title III, §312, Apr. 13, 1976, 90 Stat. 359, provided that t
 
 Pub. L. 111–348, title I, §103(b), Jan. 4, 2011, 124 Stat. 3670, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by subsection (a) \[amending this section\] do not apply to an individual engaged in commercial fishing for smooth dogfish (<i>Mustelus canis</i>) in that area of the waters of the United States located shoreward of a line drawn in such a manner that each point on it is 50 nautical miles from the baseline of a State from which the territorial sea is measured, if the individual holds a valid State commercial fishing license, unless the total weight of smooth dogfish fins landed or found on board a vessel to which this subsection applies exceeds 12 percent of the total weight of smooth dogfish carcasses landed or found on board.
 
-“(2)
+"(2)
 
 Definitions.—In this subsection:
 
-&emsp;“(A)
+&emsp;"(A)
 
-Commercial fishing.—The term ‘commercial fishing’ has the meaning given that term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802).
+Commercial fishing.—The term 'commercial fishing' has the meaning given that term in section 3 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1802).
 
-&emsp;“(B)
+&emsp;"(B)
 
-State.—The term ‘State’ has the meaning given that term in section 803 of Public Law 103–206 (16 U.S.C. 5102).”
+State.—The term 'State' has the meaning given that term in section 803 of Public Law 103–206 (16 U.S.C. 5102)."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -2,9 +2,9 @@
 
 For the purposes of this chapter, the term—
 
-&emsp;(1) “Alaska Native” means Native as defined in section 1602(b) of title 43;
+&emsp;(1) "Alaska Native" means Native as defined in section 1602(b) of title 43;
 
-&emsp;(2) “forest” means an ecosystem of at least one acre in size, including timberland and woodland, which—
+&emsp;(2) "forest" means an ecosystem of at least one acre in size, including timberland and woodland, which—
 
 &emsp;&emsp;(A) is characterized by a more or less dense and extensive tree cover,
 
@@ -12,9 +12,9 @@ For the purposes of this chapter, the term—
 
 &emsp;&emsp;(C) is not developed or planned for exclusive nonforest use;
 
-&emsp;(3) “Indian forest land” means Indian lands, including commercial and non-commercial timberland and woodland, that are considered chiefly valuable for the production of forest products or to maintain watershed or other land values enhanced by a forest cover, regardless whether a formal inspection and land classification action has been taken;
+&emsp;(3) "Indian forest land" means Indian lands, including commercial and non-commercial timberland and woodland, that are considered chiefly valuable for the production of forest products or to maintain watershed or other land values enhanced by a forest cover, regardless whether a formal inspection and land classification action has been taken;
 
-&emsp;(4) “forest land management activities” means all activities performed in the management of Indian forest lands, including—
+&emsp;(4) "forest land management activities" means all activities performed in the management of Indian forest lands, including—
 
 &emsp;&emsp;(A) all aspects of program administration and executive direction such as—
 
@@ -66,13 +66,13 @@ For the purposes of this chapter, the term—
 
 &emsp;&emsp;(K) research activities to improve the basis for determining appropriate management measures to apply to Indian forest lands;
 
-&emsp;(5) “forest management plan” means the principal document, approved by the Secretary, reflecting and consistent with a tribal integrated resource management plan, which provides for the regulation of the detailed, multiple-use operation of Indian forest land by methods assuring that such lands remain in a continuously productive state while meeting the objectives of the tribe and which shall include—
+&emsp;(5) "forest management plan" means the principal document, approved by the Secretary, reflecting and consistent with a tribal integrated resource management plan, which provides for the regulation of the detailed, multiple-use operation of Indian forest land by methods assuring that such lands remain in a continuously productive state while meeting the objectives of the tribe and which shall include—
 
 &emsp;&emsp;(A) standards setting forth the funding and staffing requirements necessary to carry out each management plan, with a report of current forestry funding and staffing levels; and
 
 &emsp;&emsp;(B) standards providing quantitative criteria to evaluate performance against the objectives set forth in the plan;
 
-&emsp;(6) “forest product” means—
+&emsp;(6) "forest product" means—
 
 &emsp;&emsp;(A) timber,
 
@@ -86,27 +86,27 @@ For the purposes of this chapter, the term—
 
 &emsp;&emsp;(F) gravel which is extracted from, and utilized on, Indian forest lands;
 
-&emsp;(7) “forest resources” means all the benefits derived from Indian forest lands, including forest products, soil productivity, water, fisheries, wildlife, recreation, and aesthetic or other traditional values of Indian forest lands;
+&emsp;(7) "forest resources" means all the benefits derived from Indian forest lands, including forest products, soil productivity, water, fisheries, wildlife, recreation, and aesthetic or other traditional values of Indian forest lands;
 
-&emsp;(8) “forest trespass” means the act of illegally removing forest products from, or illegally damaging forest products on, forest lands;
+&emsp;(8) "forest trespass" means the act of illegally removing forest products from, or illegally damaging forest products on, forest lands;
 
-&emsp;(9) “Indian” means a member of an Indian tribe;
+&emsp;(9) "Indian" means a member of an Indian tribe;
 
-&emsp;(10) “Indian land” means land title to which is held by—
+&emsp;(10) "Indian land" means land title to which is held by—
 
 &emsp;&emsp;(A) the United States in trust for an Indian, an individual of Indian or Alaska Native ancestry who is not a member of a federally-recognized Indian tribe, or an Indian tribe, or
 
 &emsp;&emsp;(B) an Indian, an individual of Indian or Alaska Native ancestry who is not a member of a federally recognized tribe, or an Indian tribe subject to a restriction by the United States against alienation;
 
-&emsp;(11) “Indian tribe” or “tribe” means any Indian tribe, band, nation, Pueblo or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and shall mean, where appropriate, the recognized tribal government of such tribe's reservation;
+&emsp;(11) "Indian tribe" or "tribe" means any Indian tribe, band, nation, Pueblo or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians and shall mean, where appropriate, the recognized tribal government of such tribe's reservation;
 
-&emsp;(12) “reservation” includes Indian reservations established pursuant to treaties, Acts of Congress or Executive orders, public domain Indian allotments, and former Indian reservations in Oklahoma;
+&emsp;(12) "reservation" includes Indian reservations established pursuant to treaties, Acts of Congress or Executive orders, public domain Indian allotments, and former Indian reservations in Oklahoma;
 
-&emsp;(13) “Secretary” means the Secretary of the Interior;
+&emsp;(13) "Secretary" means the Secretary of the Interior;
 
-&emsp;(14) “sustained yield” means the yield of forest products that a forest can produce continuously at a given intensity of management; and
+&emsp;(14) "sustained yield" means the yield of forest products that a forest can produce continuously at a given intensity of management; and
 
-&emsp;(15) “tribal integrated resource management plan” means a document, approved by an Indian tribe and the Secretary, which provides coordination for the comprehensive management of such tribe's natural resources.
+&emsp;(15) "tribal integrated resource management plan" means a document, approved by an Indian tribe and the Secretary, which provides coordination for the comprehensive management of such tribe's natural resources.
 
 (Pub. L. 101–630, title III, §304, Nov. 28, 1990, 104 Stat. 4533.)
 

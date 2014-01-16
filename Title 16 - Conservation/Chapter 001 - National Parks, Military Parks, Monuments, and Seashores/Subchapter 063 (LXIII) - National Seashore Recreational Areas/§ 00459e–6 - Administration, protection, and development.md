@@ -16,5 +16,5 @@ In administering, protecting, and developing the entire Fire Island National Sea
 
 #### Amendments
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–625 substituted “Ocean Ridge portion of Davis Park” for “Brookhaven town park at”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–625 substituted "Ocean Ridge portion of Davis Park" for "Brookhaven town park at".
 

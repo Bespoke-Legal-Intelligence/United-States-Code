@@ -18,15 +18,15 @@
 
 &emsp;(1) to assure that each Federal department and agency conducting or supporting public works activities which affect the environment shall implement the policies established under existing law; and
 
-&emsp;(2) to authorize an Office of Environmental Quality, which, notwithstanding any other provision of law, shall provide the professional and administrative staff for the Council on Environmental Quality established by Public Law 91–190.
+&emsp;(2) to authorize an Office of Environmental Quality, which, notwithstanding any otherprovision of law, shall provide the professional and administrative staff for the Council on Environmental Quality established by Public Law 91–190.
 
 (Pub. L. 91–224, title II, §202, Apr. 3, 1970, 84 Stat. 114.)
 
 #### References in Text
 
-Public Law 91–190, referred to in subsec. (c)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, knownas the National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+Public Law 91–190, referred to in subsec. (c)(2), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, known as the National Environmental Policy Act of 1969, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 #### Short Title
 
-Pub. L. 91–224, title II, §201, Apr. 3, 1970, 84 Stat. 114, provided that: “This title \[enacting this chapter\] may be cited as the ‘Environmental Quality Improvement Act of 1970’.”
+Pub. L. 91–224, title II, §201, Apr. 3, 1970, 84 Stat. 114, provided that: "This title \[enacting this chapter\] may be cited as the 'Environmental Quality Improvement Act of 1970'."
 

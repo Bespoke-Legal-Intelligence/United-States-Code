@@ -2,7 +2,7 @@
 
 (a)
 
-Definitions.—In this section, “high-level radioactive waste” and “spent nuclear fuel” have the same meanings given those terms in section 2 of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101).
+Definitions.—In this section, "high-level radioactive waste" and "spent nuclear fuel" have the same meanings given those terms in section 2 of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101).
 
 (b)
 
@@ -60,19 +60,19 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, §116(a)–(d); added Oct. 30, 19
 
 49 App.:1813(d).
 
-In subsection (a), section 16(e) of the Hazardous Materials Transportation Uniform Safety Act of 1990 (Public Law 101–615, 104 Stat. 3263) is included to correct a mistake in the source provisions being restated. See section 16(a)(1) of the Act of 1990 (Public Law 101–615, 104 Stat. 3262), stating that the meanings of “high-level radioactive waste” and “spent nuclear fuel” are as defined in 49 App.:1813, as added by section 15 of the Act (104 Stat. 3261). See also Cong. Rec. S16863 (daily ed., Oct. 23, 1990).
+In subsection (a), section 16(e) of the Hazardous Materials Transportation Uniform Safety Act of 1990 (Public Law 101–615, 104 Stat. 3263) is included to correct a mistake in the source provisions being restated. See section 16(a)(1) of the Act of 1990 (Public Law 101–615, 104 Stat. 3262), stating that the meanings of "high-level radioactive waste" and "spent nuclear fuel" are as defined in 49 App.:1813, as added by section 15 of the Act (104 Stat. 3261). See also Cong. Rec. S16863 (daily ed., Oct. 23, 1990).
 
-In subsection (b), the words “Secretary of Energy” are substituted for “Department of Energy” because of 42:7131.
+In subsection (b), the words "Secretary of Energy" are substituted for "Department of Energy" because of 42:7131.
 
-In subsection (c), the word “regulations” is substituted for “rule” for consistency in the revised title and with other titles of the United States Code and because “rule” and “regulation” are synonymous.
+In subsection (c), the word "regulations" is substituted for "rule" for consistency in the revised title and with other titles of the United States Code and because "rule" and "regulation" are synonymous.
 
-In subsection (d), before clause (1), the words “In combination” are omitted as surplus.
+In subsection (d), before clause (1), the words "In combination" are omitted as surplus.
 
 #### Amendments
 
-<b>2005</b>—Subsecs. (b), (c). Pub. L. 109–59, §7126, substituted “Secretary shall” for “Secretary of Transportation shall” wherever appearing.
+<b>2005</b>—Subsecs. (b), (c). Pub. L. 109–59, §7126, substituted "Secretary shall" for "Secretary of Transportation shall" wherever appearing.
 
-Subsec. (d). Pub. L. 109–59, §7126, substituted “Secretary shall” for “Secretary of Transportation shall” in par. (1) and “Secretary may” for “Secretary of Transportation may” in par. (2).
+Subsec. (d). Pub. L. 109–59, §7126, substituted "Secretary shall" for "Secretary of Transportation shall" in par. (1) and "Secretary may" for "Secretary of Transportation may" in par. (2).
 
 Pub. L. 109–59, §7107, redesignated subsec. (e) as (d) and struck out former subsec. (d) which related to a study to be conducted not later than Nov. 16, 1991, to decide which factors, if any, shippers and carriers should consider when selecting routes and modes that would enhance overall public safety related to the transportation of high-level radioactive waste and spent nuclear fuel.
 

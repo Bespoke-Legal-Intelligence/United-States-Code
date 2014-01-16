@@ -4,7 +4,7 @@
 
 Authority To Enter Into Agreements.—(1) The Secretary concerned, without regard to section 6101(b)–(d) of title 41, may make agreements or other arrangements for the training of members of the uniformed services under the jurisdiction of that Secretary by, in, or through non-Government facilities.
 
-(2) In this section, the term “non-Government facility” means any of the following:
+(2) In this section, the term "non-Government facility" means any of the following:
 
 &emsp;(A) The government of a State or of a territory or possession of the United States, including the Commonwealth of Puerto Rico, an interstate governmental organization, and a unit, subdivision, or instrumentality of any of the foregoing.
 
@@ -28,7 +28,7 @@ Expenses.—The Secretary concerned, from appropriations or other funds availabl
 
 &emsp;&emsp;(A) Travel and per diem instead of subsistence under sections 474 and 475 of title 37 and the Joint Travel Regulations for the Uniformed Services.
 
-&emsp;&emsp;(B) Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 476 and 479 of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training.
+&emsp;&emsp;(B) Transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under sections 476 and 479 of title 37 and the Joint Travel Regulations for the Uniformed Services when the estimatedcosts of transportation and related services are less than the estimated aggregate per diem payments for the period of training.
 
 &emsp;&emsp;(C) Tuition and matriculation fees.
 
@@ -48,9 +48,9 @@ Certain Expenses Excluded.—The expenses of training do not include membership 
 
 <b>2013</b>—Subsec. (b)(2)(A), (B). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
-<b>2011</b>—Subsec. (a)(1). Pub. L. 111–350 substituted “section 6101(b)–(d) of title 41” for “section 3709 of the Revised Statutes (41 U.S.C. 5)”.
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–350 substituted "section 6101(b)–(d) of title 41" for "section 3709 of the Revised Statutes (41 U.S.C. 5)".
 
-Subsec. (b)(2)(A), (B). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404” and “475” for “405” in subpar. (A), and “476” for “406” and “479” for “409” in subpar. (B).
+Subsec. (b)(2)(A), (B). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "474" for "404" and "475" for "405" in subpar. (A), and "476" for "406" and "479" for "409" in subpar. (B).
 
 #### Effective Date of 2013 Amendment
 
@@ -58,5 +58,5 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 
 #### Effective Date
 
-Pub. L. 104–201, div. A, title III, §362(b), Sept. 23, 1996, 110 Stat. 2493, provided that: “Section 2013 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996.”
+Pub. L. 104–201, div. A, title III, §362(b), Sept. 23, 1996, 110 Stat. 2493, provided that: "Section 2013 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 1996."
 

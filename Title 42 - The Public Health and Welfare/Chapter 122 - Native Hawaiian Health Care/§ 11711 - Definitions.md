@@ -4,7 +4,7 @@ For purposes of this chapter:
 
 #### (1) Disease prevention
 
-&emsp;The term “disease prevention” includes—
+&emsp;The term "disease prevention" includes—
 
 &emsp;&emsp;(A) immunizations,
 
@@ -28,7 +28,7 @@ For purposes of this chapter:
 
 #### (2) Health promotion
 
-&emsp;The term “health promotion” includes—
+&emsp;The term "health promotion" includes—
 
 &emsp;&emsp;(A) pregnancy and infant care, including prevention of fetal alcohol syndrome,
 
@@ -48,7 +48,7 @@ For purposes of this chapter:
 
 #### (3) Native Hawaiian
 
-&emsp;The term “Native Hawaiian” means any individual who is—
+&emsp;The term "Native Hawaiian" means any individual who is—
 
 &emsp;&emsp;(A) a citizen of the United States, and
 
@@ -62,7 +62,7 @@ For purposes of this chapter:
 
 #### (4) Native Hawaiian health center
 
-&emsp;The term “Native Hawaiian health center” means an entity—
+&emsp;The term "Native Hawaiian health center" means an entity—
 
 &emsp;&emsp;(A) which is organized under the laws of the State of Hawaii,
 
@@ -74,7 +74,7 @@ For purposes of this chapter:
 
 #### (5) Native Hawaiian organization
 
-&emsp;The term “Native Hawaiian organization” means any organization—
+&emsp;The term "Native Hawaiian organization" means any organization—
 
 &emsp;&emsp;(A) which serves the interests of Native Hawaiians,
 
@@ -90,7 +90,7 @@ For purposes of this chapter:
 
 #### (6) Native Hawaiian health care system
 
-&emsp;The term “Native Hawaiian health care system” means an entity—
+&emsp;The term "Native Hawaiian health care system" means an entity—
 
 &emsp;&emsp;(A) which is organized under the laws of the State of Hawaii,
 
@@ -110,7 +110,7 @@ For purposes of this chapter:
 
 #### (7) Papa Ola Lokahi
 
-&emsp;(A) The term “Papa Ola Lokahi” means an organization composed of—
+&emsp;(A) The term "Papa Ola Lokahi" means an organization composed of—
 
 &emsp;&emsp;(i) E Ola Mau;
 
@@ -138,9 +138,9 @@ For purposes of this chapter:
 
 #### (8) Primary health services
 
-&emsp;The term “primary health services” means—
+&emsp;The term "primary health services" means—
 
-&emsp;&emsp;(A) services of physicians, physicians’ assistants, nurse practitioners, and other health professionals;
+&emsp;&emsp;(A) services of physicians, physicians' assistants, nurse practitioners, and other health professionals;
 
 &emsp;&emsp;(B) diagnostic laboratory and radiologic services;
 
@@ -156,11 +156,11 @@ For purposes of this chapter:
 
 #### (9) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Health and Human Services.
+&emsp;The term "Secretary" means the Secretary of Health and Human Services.
 
 #### (10) Traditional Native Hawaiian healer
 
-&emsp;The term “traditional Native Hawaiian healer” means a practitioner—
+&emsp;The term "traditional Native Hawaiian healer" means a practitioner—
 
 &emsp;&emsp;(A) who—
 
@@ -180,7 +180,7 @@ For purposes of this chapter:
 
 Amendment by Pub. L. 111–148 is based on section 202(c) of title II of S. 1790, One Hundred Eleventh Congress, as reported by the Committee on Indian Affairs of the Senate in Dec. 2009, which was enacted into law by section 10221(a) of Pub. L. 111–148.
 
-The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on “September 12, 1992”, has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
+The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on "September 12, 1992", has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
 
 Section was formerly classified to section 11710 of this title prior to the general amendment of this chapter by Pub. L. 102–396.
 

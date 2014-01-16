@@ -6,9 +6,9 @@ The members of the Council specified in paragraphs (2), (3), and (4) of section 
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–515 substituted “paragraphs (2), (3), and (4)” for “paragraphs (1) and (17)” and “other members of the Council” for “members of the Council under paragraph (18) of section 470i(a) of this title”.
+<b>1980</b>—Pub. L. 96–515 substituted "paragraphs (2), (3), and (4)" for "paragraphs (1) and (17)" and "other members of the Council" for "members of the Council under paragraph (18) of section 470i(a) of this title".
 
-<b>1976</b>—Pub. L. 94–422 substituted “(17)” for “(10)” and “(18)” for “(11)”.
+<b>1976</b>—Pub. L. 94–422 substituted "(17)" for "(10)" and "(18)" for "(11)".
 
-<b>1970</b>—Pub. L. 91–243 substituted “(10)” for “(7)” and “(11)” for “(8)”.
+<b>1970</b>—Pub. L. 91–243 substituted "(10)" for "(7)" and "(11)" for "(8)".
 

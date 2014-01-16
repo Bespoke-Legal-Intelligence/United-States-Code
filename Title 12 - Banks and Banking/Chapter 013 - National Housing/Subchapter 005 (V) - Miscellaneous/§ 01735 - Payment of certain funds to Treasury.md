@@ -22,9 +22,9 @@ Sections 1737, 1747i, and 1748a of this title, referred to in text, were repeale
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–479 inserted “Payment of certain funds to Treasury” as section catchline.
+<b>1984</b>—Pub. L. 98–479 inserted "Payment of certain funds to Treasury" as section catchline.
 
-<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner” wherever appearing.
+<b>1967</b>—Pub. L. 90–19 substituted "Secretary" for "Commissioner" wherever appearing.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

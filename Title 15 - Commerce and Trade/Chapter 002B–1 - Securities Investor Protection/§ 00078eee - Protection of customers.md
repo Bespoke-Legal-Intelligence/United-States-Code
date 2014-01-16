@@ -4,7 +4,7 @@
 
 #### (1) Notice to SIPC
 
-&emsp;If the Commission or any self-regulatory organization is aware of facts which lead it tobelieve that any broker or dealer subject to its regulation is in or is approaching financial difficulty, it shall immediately notify SIPC, and, if such notification is by a self-regulatory organization, the Commission.
+&emsp;If the Commission or any self-regulatory organization is aware of facts which lead it to believe that any broker or dealer subject to its regulation is in or is approaching financial difficulty, it shall immediately notify SIPC, and, if such notification is by a self-regulatory organization, the Commission.
 
 #### (2) Action by self-regulatory organization
 
@@ -42,7 +42,7 @@
 
 &emsp;&emsp;(B) is the subject of a proceeding pending in any court or before any agency of the United States or any State in which a receiver, trustee, or liquidator for such debtor has been appointed;
 
-&emsp;&emsp;(C) is not in compliance with applicable requirements under the 1934 Act \[15 U.S.C. 78a et seq.\] or rules of the Commission or any self-regulatory organization with respect to financial responsibility or hypothecation of customers’ securities; or
+&emsp;&emsp;(C) is not in compliance with applicable requirements under the 1934 Act \[15 U.S.C. 78a et seq.\] or rules of the Commission or any self-regulatory organization with respect to financial responsibility or hypothecation of customers' securities; or
 
 &emsp;&emsp;(D) is unable to make such computations as may be necessary to establish compliance with such financial responsibility or hypothecation rules.
 
@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(ii) Notwithstanding clause (i), such application, order, or decree may operate as a stay of the foreclosure on, or disposition of, securities collateral pledged by the debtor, whether or not with respect to one or more of such contracts or agreements, securities sold by the debtor under a repurchase agreement, or securities lent under a securities lending agreement.
 
-&emsp;&emsp;(iii) As used in this subparagraph, the term “contractual right” includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act), or in a resolution of the governing board thereof, and a right, whether or not in writing, arising under common law, under law merchant, or by reason of normal business practice.
+&emsp;&emsp;(iii) As used in this subparagraph, the term "contractual right" includes a right set forth in a rule or bylaw of a derivatives clearing organization (as defined in the Commodity Exchange Act \[7 U.S.C. 1 et seq.\]), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991), a national securities exchange, a national securities association, a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act), or in a resolution of the governing board thereof, and a right, whether or not in writing, arising under common law, under law merchant, or by reason of normal business practice.
 
 #### (3) Appointment of trustee and attorney
 
@@ -92,11 +92,11 @@
 
 #### (A) Allowances in general
 
-&emsp;&emsp;The court shall grant reasonable compensation for services rendered and reimbursement for proper costs and expenses incurred (hereinafter in this paragraph referred to as “allowances”) by a trustee, and by the attorney for such a trustee, in connection with a liquidation proceeding. No allowances (other than reimbursement for proper costs and expenses incurred) shall be granted to SIPC or any employee of SIPC for serving as trustee. Allowances may be granted on an interim basis during the course of the liquidation proceeding at such times and in such amounts as the court considers appropriate.
+&emsp;&emsp;The court shall grant reasonable compensation for services rendered and reimbursement for proper costs and expenses incurred (hereinafter in this paragraph referred to as "allowances") by a trustee, and by the attorney for such a trustee, in connection with a liquidation proceeding. No allowances (other than reimbursement for proper costs and expenses incurred) shall be granted to SIPC or any employee of SIPC for serving as trustee. Allowances may be granted on an interim basis during the course of the liquidation proceeding at such times and in such amounts as the court considers appropriate.
 
 #### (B) Application for allowances
 
-&emsp;&emsp;Any person seeking allowances shall file with the court an application which complies in form and content with the provisionsof title 11 governing applications for allowances under such title. A copy of such application shall be served upon SIPC when filed. The court shall fix a time for a hearing on such application, and notice of such hearing shall be given to the applicant, the trustee, the debtor, the creditors, SIPC, and such other persons as the court may designate, except that notice need not be given to customers whose claims have been or will be satisfied in full or to creditors who cannot reasonably be expected to receive any distribution during the course of the liquidation proceeding.
+&emsp;&emsp;Any person seeking allowances shall file with the court an application which complies in form and content with the provisions of title 11 governing applications for allowances under such title. A copy of such application shall be served upon SIPC when filed. The court shall fix a time for a hearing on such application, and notice of such hearing shall be given to the applicant, the trustee, the debtor, the creditors, SIPC, and such other persons as the court may designate, except that notice need not be given to customers whose claims have been or will be satisfied in full or to creditors who cannot reasonably be expected to receive any distribution during the course of the liquidation proceeding.
 
 #### (C) Recommendations of SIPC and awarding of allowances
 
@@ -138,7 +138,7 @@ The Commission may, on its own motion, file notice of its appearance in any proc
 
 SIPC shall be deemed to be a party in interest as to all matters arising in a liquidation proceeding, with the right to be heard on all such matters, and shall be deemed to have intervened with respect to all such matters with the same force and effect as if a petition for such purpose had been allowed by the court.
 
-(Pub. L. 91–598, §5, Dec. 30, 1970, 84 Stat. 1644; Pub. L. 95–283, §7, May 21, 1978, 92 Stat. 254; Pub. L. 95–598, title III, §308(a)–(f), Nov. 6, 1978, 92 Stat. 2674; Pub. L. 109–8, title IX, §911, Apr. 20, 2005, 119 Stat. 185; Pub. L. 109–390, §5(c), Dec. 12, 2006, 120 Stat. 2698; Pub. L. 111–203, title IX, §929H(b), July 21, 2010, 124 Stat. 1857.)
+(Pub. L. 91–598, §5, Dec. 30, 1970, 84 Stat. 1644; Pub. L. 95–283, §7, May 21, 1978, 92 Stat. 254; Pub. L. 95–598, title III, §308(a)–(f), Nov. 6, 1978, 92 Stat. 2674; Pub. L. 109–8, title IX, §911, Apr. 20, 2005, 119 Stat. 185; Pub. L. 109–390, §5(c), Dec. 12,2006, 120 Stat. 2698; Pub. L. 111–203, title IX, §929H(b), July 21, 2010, 124 Stat. 1857.)
 
 #### References in Text
 
@@ -146,7 +146,7 @@ The Dodd-Frank Wall Street Reform and Consumer Protection Act, referred to in su
 
 The 1934 Act, referred to in subsec. (b)(1)(C), means act June 6, 1934, ch. 404, 48 Stat. 881, known as the Securities Exchange Act of 1934, which is classified principally to chapter 2B (§78a et seq.) of this title. For complete classification of this Act to the Code, see section 78a of this title and Tables.
 
-This chapter, referred to in subsecs. (b)(2)(A)(iii), (5)(C), and (c), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsecs. (b)(2)(A)(iii), (5)(C), and (c), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
 The Commodity Exchange Act, referred to in subsec. (b)(2)(C)(iii), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
@@ -154,35 +154,35 @@ The Federal Deposit Insurance Corporation Improvement Act of 1991, referred to i
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(3). Pub. L. 111–203 designated existing provisions as subpar. (A) relating to general rule, inserted heading, substituted “SIPC may, upon notice to a member of SIPC, file an application for a protective decree with any court of competent jurisdiction specified in section 78u(e) or 78aa of this title, except that no such application shall be filed with respect to a member, the only customers of which are persons whose claims could not be satisfied by SIPC advances pursuant to section 78fff–3 of this title, if SIPC determines that—” for “If SIPC determines that—”, in subpar. (A) relating to failure to meet obligations, substituted “the member” for “any member of SIPC”, in subpar. (B) relating to conditions, substituted period for comma at end, added subpar. (B) relating to consent requirement, and struck out concluding provisions which read as follows: “SIPC may, upon notice to such member, file an application for a protective decree with any court of competent jurisdiction specified in section 78u(e) or 78aa of this title, except that no such application shall be filed with respect to a member the only customers of which are persons whose claims could not be satisfied by SIPC advances pursuant to section 78fff–3 of this title.”
+<b>2010</b>—Subsec. (a)(3). Pub. L. 111–203 designated existing provisions as subpar. (A) relating to general rule, inserted heading, substituted "SIPC may, upon notice to a member of SIPC, file an application for a protective decree with any court of competent jurisdiction specified in section 78u(e) or 78aa of this title, except that no such application shall be filed with respect to a member, the only customers of which are persons whose claims could not be satisfied by SIPC advances pursuant to section 78fff–3 of this title, if SIPC determines that—" for "If SIPC determines that—", in subpar. (A) relating to failure to meet obligations, substituted "the member" for "any member of SIPC", in subpar. (B) relating to conditions, substituted period for comma at end, added subpar. (B) relating to consent requirement, and struck out concluding provisions which read as follows: "SIPC may, upon notice to such member, file an application for a protective decree with any court of competent jurisdiction specified in section 78u(e) or 78aa of this title, except that no such application shall be filed with respect to a member the only customers of which are persons whose claims could not be satisfied by SIPC advances pursuant to section 78fff–3 of this title."
 
-<b>2006</b>—Subsec. (b)(2)(C)(iii). Pub. L. 109–390 inserted “a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991),” after “rule or bylaw of” and substituted “a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act),” for “or a securities clearing agency, a right set forth in a bylaw of a clearing organization or contract market”.
+<b>2006</b>—Subsec. (b)(2)(C)(iii). Pub. L. 109–390 inserted "a derivatives clearing organization (as defined in the Commodity Exchange Act), a multilateral clearing organization (as defined in the Federal Deposit Insurance Corporation Improvement Act of 1991)," after "rule or bylaw of" and substituted "a securities clearing agency, a contract market designated under the Commodity Exchange Act, a derivatives transaction execution facility registered under the Commodity Exchange Act, or a board of trade (as defined in the Commodity Exchange Act)," for "or a securities clearing agency, a right set forth in a bylaw of a clearing organization or contract market".
 
 <b>2005</b>—Subsec. (b)(2)(C). Pub. L. 109–8 added subpar. (C).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–283, §7(a), added par. (2), redesignated former par. (2) as (3) and, as so redesignated, revised format of provisions by setting out cls. (A) and (B) and inserted provisions relating to any person who was a member within 180 days prior to such determination and provisions relating to claims filed under section 78fff–3 of this title, and redesignated former par. (3) as (4) and, as so redesignated, substituted “with respect to a member of SIPC filed with a court under paragraph (3)” for “under paragraph (2)” in introductory text and inserted “may,” before “with the” in cl. (A).
+<b>1978</b>—Subsec. (a). Pub. L. 95–283, §7(a), added par. (2), redesignated former par. (2) as (3) and, as so redesignated, revised format of provisions by setting out cls. (A) and (B) and inserted provisions relating to any person who was a member within 180 days prior to such determination and provisions relating to claims filed under section 78fff–3 of this title, and redesignated former par. (3) as (4) and, as so redesignated, substituted "with respect to a member of SIPC filed with a court under paragraph (3)" for "under paragraph (2)" in introductory text and inserted "may," before "with the" in cl. (A).
 
-Subsec. (b)(1)(A). Pub. L. 95–598, §308(a)(1), substituted “section 101 of title 11” for “the Bankruptcy Act”.
+Subsec. (b)(1)(A). Pub. L. 95–598, §308(a)(1), substituted "section 101 of title 11" for "the Bankruptcy Act".
 
 Subsec. (b)(1)(B) to (E). Pub. L. 95–598, §308(a)(2), (3), redesignated subpars. (C) to (E) as subpars. (B) to (D), respectively. Former subpar. (B), which provided for issuance of protective decree where court found that debtor had committed act of bankruptcy within meaning of Bankruptcy Act, was struck out.
 
-Subsec. (b)(2)(A)(iii). Pub. L. 95–598, §308(b), substituted “the United States having jurisdiction over cases under title 11” for “bankruptcy by the Bankruptcy Act”.
+Subsec. (b)(2)(A)(iii). Pub. L. 95–598, §308(b), substituted "the United States having jurisdiction over cases under title 11" for "bankruptcy by the Bankruptcy Act".
 
-Subsec. (b)(2)(B)(iii). Pub. L. 95–598, §308(c), substituted “any right of setoff, except to the extent such right may be affected under section 553 of title 11, and shall not abrogate” for “the right of setoff provided in section 68 of the Bankruptcy Act”.
+Subsec. (b)(2)(B)(iii). Pub. L. 95–598, §308(c), substituted "any right of setoff, except to the extent such right may be affected under section 553 of title 11, and shall not abrogate" for "the right of setoff provided in section 68 of the Bankruptcy Act".
 
-Subsec. (b)(3). Pub. L. 95–598, §308(d), substituted “section 322 of title 11” for “the applicable provisions of the Bankruptcy Act”.
+Subsec. (b)(3). Pub. L. 95–598, §308(d), substituted "section 322 of title 11" for "the applicable provisions of the Bankruptcy Act".
 
 Subsec. (b)(4). Pub. L. 95–598, §308(e), substituted provisions relating to removal of proceeding to Bankruptcy Court for provisions relating to reference of proceeding to referee in bankruptcy.
 
-Subsec. (b)(5)(B). Pub. L. 95–598, §308(f)(1), (2), (5), redesignated subpar. (C) as (B) and substituted “title 11 governing applications for allowances under such title” for “the Bankruptcy Act governing applications for allowances under such Act”. Former subpar. (B), which covered allowances to a referee in bankruptcy or special master, was struck out.
+Subsec. (b)(5)(B). Pub. L. 95–598, §308(f)(1), (2), (5), redesignated subpar. (C) as (B) and substituted "title 11 governing applications for allowances under such title" for "the Bankruptcy Act governing applications for allowances under such Act". Former subpar. (B), which covered allowances to a referee in bankruptcy or special master, was struck out.
 
-Subsec. (b)(5)(C). Pub. L. 95–598, §308(f)(2), (3), (5), redesignated subpar. (D) as (C) and substituted “subparagraph (B)” for “subparagraph (C)”. Former subpar. (C) redesignated (B).
+Subsec. (b)(5)(C). Pub. L. 95–598, §308(f)(2), (3), (5), redesignated subpar. (D) as (C) and substituted "subparagraph (B)" for "subparagraph (C)". Former subpar. (C) redesignated (B).
 
-Subsec. (b)(5)(D). Pub. L. 95–598, §308(f)(2), (4), (5), redesignated subpar. (E) as (D) and substituted “Section 504 of title 11” for “the Bankruptcy Act”. Former subpar. (D) redesignated (C).
+Subsec. (b)(5)(D). Pub. L. 95–598, §308(f)(2), (4), (5), redesignated subpar. (E) as (D) and substituted "Section 504 of title 11" for "the Bankruptcy Act". Former subpar. (D) redesignated (C).
 
 Subsec. (b)(5)(E), (F). Pub. L. 95–598, §308(f)(5), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
-Subsec. (b). Pub. L. 95–283, §7(b), in par. (1) inserted “protective” after “of” in heading and substituted provisions relating to issuance of protective decrees, for provisions relating to specific findings necessary for issuance of a decree and uncontested, etc., applications, in par. (2) substituted “Jurisdiction and powers of court” for “Exclusive jurisdiction over debtor” in heading and substituted provisions setting forth jurisdiction and powers of court with respect to exclusivity of such jurisdiction, for provisions relating to exclusive jurisdiction over the debtor, in par. (3) inserted “and attorney” after “trustee” in heading and substituted provisions relating to appointment of trustee and attorney, for provisions relating to appointment of trustee, in par. (4) substituted “Reference to referee in bankruptcy” for “Debtor and filing date defined” in heading and substituted provisions relating to reference to referee in bankruptcy, for provisions defining terms “debtor” and “filing date”, and added pars. (5) and (6).
+Subsec. (b). Pub. L. 95–283, §7(b), in par. (1) inserted "protective" after "of" in heading and substituted provisions relating to issuance of protective decrees, for provisions relating to specific findings necessary for issuance of a decree and uncontested, etc., applications, in par. (2) substituted "Jurisdiction and powers of court" for "Exclusive jurisdiction over debtor" in heading and substituted provisions setting forth jurisdiction and powers of court with respect to exclusivity of such jurisdiction, for provisions relating to exclusive jurisdiction over the debtor, in par. (3) inserted "and attorney" after "trustee" in heading and substituted provisions relating to appointment of trustee and attorney, for provisions relating to appointment of trustee, in par. (4) substituted "Reference to referee in bankruptcy" for "Debtor and filing date defined" in heading and substituted provisions relating to reference to referee in bankruptcy, for provisions defining terms "debtor" and "filing date", and added pars. (5) and (6).
 
 Subsec. (d). Pub. L. 95–283, §7(c), added subsec. (d).
 
@@ -202,7 +202,7 @@ Amendment by Pub. L. 109–8 effective 180 days after Apr. 20, 2005, and not app
 
 Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(a) of Pub. L. 95–598, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(i)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(i)".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “(ii)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "(ii)".</i>
 

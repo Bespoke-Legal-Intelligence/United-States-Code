@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Administrator of the Small Business Administration (referred to in this subtitle <sup>1</sup> as the “Administrator”) shall establish a Small Business Manufacturing Task Force (referred to in this section as the “Task Force”) to address the concerns of small manufacturers.
+The Administrator of the Small Business Administration (referred to in this subtitle <sup>1</sup> as the "Administrator") shall establish a Small Business Manufacturing Task Force (referred to in this section as the "Task Force") to address the concerns of small manufacturers.
 
 #### (b) Chair
 
@@ -52,11 +52,11 @@ Not later than 1 year after December 8, 2004, and annually thereafter, the Task 
 
 #### References in Text
 
-This subtitle, referred to in subsec. (a), is subtitle D (§§141–147) of title I of div. K of Pub. L. 108–447, Dec. 8,2004, 118 Stat. 3453, which enacted this section, amended sections 637, 648, 657b, and 657c of this title, enacted provisions set out as note under section 637 of this title, and amended provisions set out as a note under section 657b of this title. For complete classification of subtitle D to the Code, see Tables.
+This subtitle, referred to in subsec. (a), is subtitle D (§§141–147) of title I of div. K of Pub. L. 108–447, Dec. 8, 2004, 118 Stat. 3453, which enacted this section, amended sections 637, 648, 657b, and 657c of this title, enacted provisions set out as note under section 637 of this title, and amended provisions set out as a note under section 657b of this title. For complete classification of subtitle D to the Code, see Tables.
 
 #### Codification
 
-Section was enacted as part of the Small Business Reauthorization and Manufacturing Assistance Act of 2004, and also as part of the Consolidated Appropriations Act, 2005, and not as part of the Small Business Act which comprises this chapter.
+Section was enacted as part of the Small Business Reauthorization and Manufacturing Assistance Act of2004, and also as part of the Consolidated Appropriations Act, 2005, and not as part of the Small Business Act which comprises this chapter.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -32,13 +32,13 @@
 
 <b>1998</b>—Pub. L. 105–261, div. A, title IX, §935(b), Oct. 17, 1998, 112 Stat. 2110, added item 5026.
 
-<b>1990</b>—Pub. L. 101–510, div. A, title IX, §910(b)(2), Nov. 5, 1990, 104 Stat. 1625, struck out item 5021 “Office of Naval Research: Chief; appointment, term, emoluments; Assistant Chief; succession to duties”.
+<b>1990</b>—Pub. L. 101–510, div. A, title IX, §910(b)(2), Nov. 5, 1990, 104 Stat. 1625, struck out item 5021 "Office of Naval Research: Chief; appointment, term, emoluments; Assistant Chief; succession to duties".
 
 <b>1988</b>—Pub. L. 100–456, div. A, title VII, §702(b)(3), Sept. 29, 1988, 102 Stat. 1995, added item 5025.
 
 <b>1986</b>—Pub. L. 99–433, title V, §511(f), Oct. 1, 1986, 100 Stat. 1048, amended analysis generally, substituting items 5011 to 5024 for former items 5011 to 5014.
 
-<b>1964</b>—Pub. L. 88–426, title III, §305(40)(B), Aug. 14, 1964, 78 Stat. 427, struck out item 5014 “Compensation of General Counsel”.
+<b>1964</b>—Pub. L. 88–426, title III, §305(40)(B), Aug. 14, 1964, 78 Stat. 427, struck out item 5014 "Compensation of General Counsel".
 
 <b>1958</b>—Pub. L. 85–861, §1(106)(B), Sept. 2, 1958, 72 Stat. 1490, added item 5014.
 

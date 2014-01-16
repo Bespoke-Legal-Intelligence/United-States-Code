@@ -4,13 +4,13 @@ As used in this subchapter:
 
 #### (1) Commerce
 
-&emsp;The terms “commerce” and “industry or activity affecting commerce” mean any activity, business, or industry in commerce or in which a labor dispute would hinder or obstruct commerce or the free flow of commerce, and include “commerce” and any “industry affecting commerce”, as defined in paragraphs (1) and (3) of section 142 of this title.
+&emsp;The terms "commerce" and "industry or activity affecting commerce" mean any activity, business, or industry in commerce or in which a labor dispute would hinder or obstruct commerce or the free flow of commerce, and include "commerce" and any "industry affecting commerce", as defined in paragraphs (1) and (3) of section 142 of this title.
 
 #### (2) Eligible employee
 
 #### (A) In general
 
-&emsp;&emsp;The term “eligible employee” means an employee who has been employed—
+&emsp;&emsp;The term "eligible employee" means an employee who has been employed—
 
 &emsp;&emsp;&emsp;(i) for at least 12 months by the employer with respect to whom leave is requested under section 2612 of this title; and
 
@@ -18,7 +18,7 @@ As used in this subchapter:
 
 #### (B) Exclusions
 
-&emsp;&emsp;The term “eligible employee” does not include—
+&emsp;&emsp;The term "eligible employee" does not include—
 
 &emsp;&emsp;&emsp;(i) any Federal officer or employee covered under subchapter V of chapter 63 of title 5; or
 
@@ -32,7 +32,7 @@ As used in this subchapter:
 
 #### (i) Determination
 
-&emsp;&emsp;&emsp;For purposes of determining whether an employee who is a flight attendant or flight crewmember (as such terms are defined in regulations of the Federal Aviation Administration) meets the hours ofservice requirement specified in subparagraph (A)(ii), the employee will be considered to meet the requirement if—
+&emsp;&emsp;&emsp;For purposes of determining whether an employee who is a flight attendant or flight crewmember (as such terms are defined in regulations of the Federal Aviation Administration) meets the hours of service requirement specified in subparagraph (A)(ii), the employee will be considered to meet the requirement if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the employee has worked or been paid for not less than 60 percent of the applicable total monthly guarantee, or the equivalent, for the previous 12-month period, for or by the employer with respect to whom leave is requested under section 2612 of this title; and
 
@@ -44,7 +44,7 @@ As used in this subchapter:
 
 #### (iii) Definition
 
-&emsp;&emsp;&emsp;In this subparagraph, the term “applicable monthly guarantee” means—
+&emsp;&emsp;&emsp;In this subparagraph, the term "applicable monthly guarantee" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) for an employee described in clause (i) other than an employee on reserve status, the minimum number of hours for which an employer has agreed to schedule such employee for any given month; and
 
@@ -54,13 +54,13 @@ As used in this subchapter:
 
 #### (3) Employ; employee; State
 
-&emsp;The terms “employ”, “employee”, and “State” have the same meanings given such terms in subsections (c), (e), and (g) of section 203 of this title.
+&emsp;The terms "employ", "employee", and "State" have the same meanings given suchterms in subsections (c), (e), and (g) of section 203 of this title.
 
 #### (4) Employer
 
 #### (A) In general
 
-&emsp;&emsp;The term “employer”—
+&emsp;&emsp;The term "employer"—
 
 &emsp;&emsp;&emsp;(i) means any person engaged in commerce or in any industry or activity affecting commerce who employs 50 or more employees for each working day during each of 20 or more calendar workweeks in the current or preceding calendar year;
 
@@ -70,7 +70,7 @@ As used in this subchapter:
 
 &emsp;&emsp;&emsp;&emsp;(II) any successor in interest of an employer;
 
-&emsp;&emsp;&emsp;(iii) includes any “public agency”, as defined in section 203(x) of this title; and
+&emsp;&emsp;&emsp;(iii) includes any "public agency", as defined in section 203(x) of this title; and
 
 &emsp;&emsp;&emsp;(iv) includes the Government Accountability Office and the Library of Congress.
 
@@ -80,11 +80,11 @@ As used in this subchapter:
 
 #### (5) Employment benefits
 
-&emsp;The term “employment benefits” means all benefits provided or made available to employees by an employer, including group life insurance, health insurance, disability insurance, sick leave, annual leave, educational benefits, and pensions, regardless of whether such benefits are provided by a practice or written policy of an employer or through an “employee benefit plan”, as defined in section 1002(3) of this title.
+&emsp;The term "employment benefits" means all benefits provided or made available to employees by an employer, including group life insurance, health insurance, disability insurance, sick leave, annual leave, educational benefits, and pensions, regardless of whether such benefits are provided by a practice or written policy of an employer or through an "employee benefit plan", as defined in section 1002(3) of this title.
 
 #### (6) Health care provider
 
-&emsp;The term “health care provider” means—
+&emsp;The term "health care provider" means—
 
 &emsp;&emsp;(A) a doctor of medicine or osteopathy who is authorized to practice medicine or surgery (as appropriate) by the State in which the doctor practices; or
 
@@ -92,23 +92,23 @@ As used in this subchapter:
 
 #### (7) Parent
 
-&emsp;The term “parent” means the biological parent of an employee or an individual who stood in loco parentis to an employee when the employee was a son or daughter.
+&emsp;The term "parent" means the biological parent of an employee or an individual who stood in loco parentis to an employee when the employee was a son or daughter.
 
 #### (8) Person
 
-&emsp;The term “person” has the same meaning given such term in section 203(a) of this title.
+&emsp;The term "person" has the same meaning given such term in section 203(a) of this title.
 
 #### (9) Reduced leave schedule
 
-&emsp;The term “reduced leave schedule” means a leave schedule that reduces the usual number of hours per workweek, or hours per workday, of an employee.
+&emsp;The term "reduced leave schedule" means a leave schedule that reduces the usual number of hours per workweek, or hours per workday, of an employee.
 
 #### (10) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Labor.
+&emsp;The term "Secretary" means the Secretary of Labor.
 
 #### (11) Serious health condition
 
-&emsp;The term “serious health condition” means an illness, injury, impairment, or physical or mental condition that involves—
+&emsp;The term "serious health condition" means an illness, injury, impairment, or physical or mental condition that involves—
 
 &emsp;&emsp;(A) inpatient care in a hospital, hospice, or residential medical care facility; or
 
@@ -116,7 +116,7 @@ As used in this subchapter:
 
 #### (12) Son or daughter
 
-&emsp;The term “son or daughter” means a biological, adopted, or foster child, a stepchild, a legal ward, or a child of a person standing in loco parentis, who is—
+&emsp;The term "son or daughter" means a biological, adopted, or foster child, a stepchild, a legal ward, or a child of a person standing in loco parentis, who is—
 
 &emsp;&emsp;(A) under 18 years of age; or
 
@@ -124,19 +124,19 @@ As used in this subchapter:
 
 #### (13) Spouse
 
-&emsp;The term “spouse” means a husband or wife, as the case may be.
+&emsp;The term "spouse" means a husband or wife, as the case may be.
 
 #### (14) Covered active duty
 
-&emsp;The term “covered active duty” means—
+&emsp;The term "covered active duty" means—
 
-&emsp;&emsp;(A) in the case of a member of a regular component of the Armed Forces, duty duringthe deployment of the member with the Armed Forces to a foreign country; and
+&emsp;&emsp;(A) in the case of a member of a regular component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country; and
 
 &emsp;&emsp;(B) in the case of a member of a reserve component of the Armed Forces, duty during the deployment of the member with the Armed Forces to a foreign country under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10.
 
 #### (15) Covered servicemember
 
-&emsp;The term “covered servicemember” means—
+&emsp;The term "covered servicemember" means—
 
 &emsp;&emsp;(A) a member of the Armed Forces (including a member of the National Guard or Reserves) who is undergoing medical treatment, recuperation, or therapy, is otherwise in outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness; or
 
@@ -144,7 +144,7 @@ As used in this subchapter:
 
 #### (16) Outpatient status
 
-&emsp;The term “outpatient status”, with respect to a covered servicemember, means the status of a member of the Armed Forces assigned to—
+&emsp;The term "outpatient status", with respect to a covered servicemember, means the status of a member of the Armed Forces assigned to—
 
 &emsp;&emsp;(A) a military medical treatment facility as an outpatient; or
 
@@ -152,19 +152,19 @@ As used in this subchapter:
 
 #### (17) Next of kin
 
-&emsp;The term “next of kin”, used with respect to an individual, means the nearest blood relative of that individual.
+&emsp;The term "next of kin", used with respect to an individual, means the nearest blood relative of that individual.
 
 #### (18) Serious injury or illness
 
-&emsp;The term “serious injury or illness”—
+&emsp;The term "serious injury or illness"—
 
-&emsp;&emsp;(A) in the case of a member of the Armed Forces (including a member of the National Guard or Reserves), means an injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member's active duty and was aggravated by service in line of duty on active duty in the Armed Forces) and that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating; and
+&emsp;&emsp;(A) in the case of a member of the Armed Forces (including a member of the NationalGuard or Reserves), means an injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member's active duty and was aggravated by service in line of duty on active duty in the Armed Forces) and that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating; and
 
 &emsp;&emsp;(B) in the case of a veteran who was a member of the Armed Forces (including a member of the National Guard or Reserves) at any time during a period described in paragraph (15)(B), means a qualifying (as defined by the Secretary of Labor) injury or illness that was incurred by the member in line of duty on active duty in the Armed Forces (or existed before the beginning of the member's active duty and was aggravated by service in line of duty on active duty in the Armed Forces) and that manifested itself before or after the member became a veteran.
 
 #### (19) Veteran
 
-&emsp;The term “veteran” has the meaning given the term in section 101 of title 38.
+&emsp;The term "veteran" has the meaning given the term in section 101 of title 38.
 
 (Pub. L. 103–3, title I, §101, Feb. 5, 1993, 107 Stat. 7; Pub. L. 104–1, title II, §202(c)(1)(A), Jan. 23, 1995, 109 Stat. 9; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 110–181, div. A, title V, §585(a)(1), Jan. 28, 2008, 122 Stat. 128; Pub. L. 111–84, div. A, title V, §565(a)(1)(A), (2), (3), Oct. 28, 2009, 123 Stat. 2309, 2310; Pub. L. 111–119, §2(a), Dec. 21, 2009, 123 Stat. 3476.)
 
@@ -172,15 +172,15 @@ As used in this subchapter:
 
 <b>2009</b>—Par. (2)(D). Pub. L. 111–119 added subpar. (D).
 
-Par. (14). Pub. L. 111–84, §565(a)(1)(A)(i), added par. (14) and struck out former par. (14). Prior to amendment, text read as follows: “The term ‘active duty’ means duty under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10.”
+Par. (14). Pub. L. 111–84, §565(a)(1)(A)(i), added par. (14) and struck out former par. (14). Prior to amendment, text read as follows: "The term 'active duty' means duty under a call or order to active duty under a provision of law referred to in section 101(a)(13)(B) of title 10."
 
-Par. (15). Pub. L. 111–84, §565(a)(2), amended par. (15) generally. Prior to amendment, text read as follows: “The term ‘covered servicemember’ means a member of the Armed Forces, including a member of the National Guard or Reserves, who is undergoing medical treatment, recuperation, or therapy, is otherwise in outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness.”
+Par. (15). Pub. L. 111–84, §565(a)(2), amended par. (15) generally. Prior to amendment, text read as follows: "The term 'covered servicemember' means a member of the Armed Forces, including a member of the National Guard or Reserves, who is undergoing medical treatment, recuperation, or therapy, is otherwise in outpatient status, or is otherwise on the temporary disability retired list, for a serious injury or illness."
 
-Pub. L. 111–84, §565(a)(1)(A)(ii), redesignated par. (16) as (15) and struck out former par. (15). Prior to amendment, text read as follows: “The term ‘contingency operation’ has the same meaning given such term in section 101(a)(13) of title 10.”
+Pub. L. 111–84, §565(a)(1)(A)(ii), redesignated par. (16) as (15) and struck out former par. (15). Prior to amendment, text read as follows: "The term 'contingency operation' has the same meaning given such term in section 101(a)(13) of title 10."
 
 Pars. (16), (17). Pub. L. 111–84, §565(a)(1)(A)(ii), redesignated pars. (17) and (18) as (16) and (17), respectively. Former par. (16) redesignated (15).
 
-Par. (18). Pub. L. 111–84, §565(a)(3), added par. (18) and struck out former par. (18). Prior to amendment, text read as follows: “The term ‘serious injury or illness’, in the case of a member of the Armed Forces, including a member of the National Guard or Reserves, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating.”
+Par. (18). Pub. L. 111–84, §565(a)(3), added par. (18) and struck out former par. (18). Prior to amendment, text read as follows: "The term 'serious injury or illness', in the case of a member of the Armed Forces, including a member of the National Guard or Reserves, means an injury or illness incurred by the member in line of duty on active duty in the Armed Forces that may render the member medically unfit to perform the duties of the member's office, grade, rank, or rating."
 
 Pub. L. 111–84, §565(a)(1)(A)(ii), redesignated par. (19) as (18). Former par. (18) redesignated (17).
 
@@ -190,7 +190,7 @@ Pub. L. 111–84, §565(a)(1)(A)(ii), redesignated par. (19) as (18).
 
 <b>2008</b>—Pars. (14) to (19). Pub. L. 110–181 added pars. (14) to (19).
 
-<b>2004</b>—Par. (4)(A)(iv). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Par. (4)(A)(iv). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>1995</b>—Par. (4)(A)(iv). Pub. L. 104–1 added cl. (iv).
 
@@ -204,5 +204,5 @@ Subchapter effective 6 months after Feb. 5, 1993, except that, in the case of co
 
 #### Regulations
 
-Pub. L. 111–84, div. A, title V, §565(a)(5), Oct. 28, 2009, 123 Stat. 2311, provided that: “In prescribing regulations to carry out the amendments made by this subsection \[amending this section and sections 2612 and 2613 of this title\], the Secretary of Labor shall consult with the Secretary of Defense and the Secretary of Veterans Affairs, as applicable.”
+Pub. L. 111–84, div. A, title V, §565(a)(5), Oct. 28, 2009, 123 Stat. 2311, provided that: "In prescribing regulations to carry out the amendments made by this subsection \[amending this section and sections 2612 and 2613 of this title\], the Secretary of Labor shall consult with the Secretary of Defense and the Secretary of Veterans Affairs, as applicable."
 

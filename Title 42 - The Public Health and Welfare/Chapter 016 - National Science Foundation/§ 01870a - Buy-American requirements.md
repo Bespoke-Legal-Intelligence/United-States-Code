@@ -22,9 +22,9 @@ The Director shall, as soon as possible after October 31, 1988, prepare a report
 
 For the purposes of this section—
 
-&emsp;(1) the term “domestic firm” means a business entity which is organized under the laws of the United States or the laws of a State, district, commonwealth, territory, or possession of the United States, and which conducts business operations in the United States; and
+&emsp;(1) the term "domestic firm" means a business entity which is organized under the laws of the United States or the laws of a State, district, commonwealth, territory, or possession of the United States, and which conducts business operations in the United States; and
 
-&emsp;(2) the term “foreign firm” means a business entity not described in paragraph (1).
+&emsp;(2) the term "foreign firm" means a business entity not described in paragraph (1).
 
 (Pub. L. 100–570, title I, §111, Oct. 31, 1988, 102 Stat. 2869.)
 

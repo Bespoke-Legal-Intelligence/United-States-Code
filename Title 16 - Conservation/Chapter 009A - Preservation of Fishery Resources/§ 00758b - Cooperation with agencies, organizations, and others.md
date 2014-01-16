@@ -6,7 +6,7 @@ In carrying out the purposes and objectives of sections 758 and 758a of this tit
 
 #### Amendments
 
-<b>1960</b>—Pub. L. 86–624 substituted “State” for “Territorial”.
+<b>1960</b>—Pub. L. 86–624 substituted "State" for "Territorial".
 
 #### Transfer of Functions
 

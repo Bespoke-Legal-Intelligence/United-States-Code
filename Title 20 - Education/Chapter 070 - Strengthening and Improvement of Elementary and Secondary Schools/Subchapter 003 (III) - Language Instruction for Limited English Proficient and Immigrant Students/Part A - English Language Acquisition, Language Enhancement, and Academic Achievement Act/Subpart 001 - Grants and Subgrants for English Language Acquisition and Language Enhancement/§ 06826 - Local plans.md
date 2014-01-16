@@ -28,7 +28,7 @@ Each plan submitted under subsection (a) of this section shall—
 
 #### (c) Teacher English fluency
 
-Each eligible entity receiving a subgrant under section 6824 of this title shall include inits plan a certification that all teachers in any language instruction educational program for limited English proficient children that is, or will be, funded under this part are fluent in English and any other language used for instruction, including having written and oral communications skills.
+Each eligible entity receiving a subgrant under section 6824 of this title shall include in its plan a certification that all teachers in any language instruction educational program for limited English proficient children that is, or will be, funded under this part are fluent in English and any other language used for instruction, including having written and oral communications skills.
 
 #### (d) Other requirements for approval
 

@@ -40,7 +40,7 @@
 
 &emsp;(19) notwithstanding any other law, enter into cooperative agreements with States, local governments, non-governmental organizations, and individuals, to accept and utilize voluntary services for the maintenance and improvement of natural and historic resources on, or to benefit natural and historic research on, Coast Guard facilities, subject to the requirement that—
 
-&emsp;&emsp;(A) the cooperative agreements shall each provide for the parties to contribute funds or services on a matching basis to defray the costs of such programs, projects, and activities under the agreement; and
+&emsp;&emsp;(A) the cooperative agreements shall each provide for the parties to contribute funds orservices on a matching basis to defray the costs of such programs, projects, and activities under the agreement; and
 
 &emsp;&emsp;(B) a person providing voluntary services under this subsection shall not be considered a Federal employee except for purposes of chapter 81 of title 5, United States Code, with respect to compensation for work-related injuries, and chapter 171 of title 28, United States Code, with respect to tort claims;
 
@@ -114,7 +114,7 @@ Operation and Maintenance of Coast Guard Assets and Facilities.—All authority,
 
 #### Historical and Revision Notes
 
-This section grants powers to the Commandant concerning, in general, operations within the Service and the internal functioning of the Service. Many of thepowers are contained in existing law, but some are enlarged, and some additional powers are added as explained following.
+This section grants powers to the Commandant concerning, in general, operations within the Service and the internal functioning of the Service. Many of the powers are contained in existing law, but some are enlarged, and some additional powers are added as explained following.
 
 Subsection (a) is derived from title 14, U.S.C., 1946 ed., §53, and title 34, U.S.C., 1946 ed., §471 (R.S. 1536). The authority to order vessels to cruise along the coasts should be in the operational head of the Service, and not in the President. This section is changed to cover adequately the necessary present day cruising and patrolling.
 
@@ -164,9 +164,9 @@ The date of enactment of this paragraph, referred to in subsec. (d)(2), is the d
 
 <b>2012</b>—Subsec. (e). Pub. L. 112–213 added subsec. (e).
 
-<b>2011</b>—Subsec. (a)(8). Pub. L. 111–350, which directed amendment of subsec. (h) by substituting “division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” for “title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)”, was executed by making the substitution in subsec. (a)(8) to reflect the probable intent of Congress and the amendment by Pub. L. 108–293, §201. See 2004 Amendment note below.
+<b>2011</b>—Subsec. (a)(8). Pub. L. 111–350, which directed amendment of subsec. (h) by substituting "division C (except sections 3302, 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" for "title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)", was executed by making the substitution in subsec. (a)(8) to reflect the probable intent of Congress and the amendment by Pub. L. 108–293, §201. See 2004 Amendment note below.
 
-<b>2010</b>—Subsec. (a)(4). Pub. L. 111–259 substituted “function, including research, development, test, or evaluation related to intelligence systems and capabilities,” for “function”.
+<b>2010</b>—Subsec. (a)(4). Pub. L. 111–259 substituted "function, including research, development, test, or evaluation related to intelligence systems and capabilities," for "function".
 
 Subsecs. (c), (d). Pub. L. 111–281 added subsecs. (c) and (d).
 
@@ -174,11 +174,11 @@ Subsecs. (c), (d). Pub. L. 111–281 added subsecs. (c) and (d).
 
 Subsec. (a)(24). Pub. L. 109–241, §901(c), redesignated par. (y) as (24).
 
-<b>2004</b>—Pub. L. 108–293, §201, designated existing provisions as subsec. (a), redesignated former subsecs. (a) to (j) and (l) to (w) as pars. (1) to (23), respectively, of subsec. (a), substituted semicolon for comma at end of par. (18), and added subsec. (b).
+<b>2004</b>—Pub. L. 108–293, §201, designated existing provisions as subsec. (a), redesignated former subsecs. (a) to\(j) and (l) to (w) as pars. (1) to (23), respectively, of subsec. (a), substituted semicolon for comma at end of par. (18), and added subsec. (b).
 
-Pub. L. 108–293, §217, which directed amendment of this section by striking out “and” after semicolon atend of “paragraph (w)”, substituting “; and” for period at end of “paragraph (x)”, and adding a paragraph designated “(y)” at the end, was executed to this section prior to the amendment by Pub. L. 108–293, §201, to reflect the probable intent of Congress. See above.
+Pub. L. 108–293, §217, which directed amendment of this section by striking out "and" after semicolon at end of "paragraph (w)", substituting "; and" for period at end of "paragraph (x)", and adding a paragraph designated "(y)" at the end, was executed to this section prior to the amendment by Pub. L. 108–293, §201, to reflect the probable intent of Congress. See above.
 
-<b>2002</b>—Subsec. (h). Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
+<b>2002</b>—Subsec. (h). Pub. L. 107–217 inserted "subtitle I of title 40 and title III of" before "the Federal Property and Administrative Services Act of 1949" and substituted "(41 U.S.C. 251 et seq.)" for "(40 U.S.C. 471 et seq.)".
 
 <b>1998</b>—Subsec. (w). Pub. L. 105–383, §202, added subsec. (w).
 
@@ -192,13 +192,13 @@ Subsec. (u). Pub. L. 103–206, §316, added subsec. (u).
 
 <b>1991</b>—Subsec. (s). Pub. L. 102–241 added subsec. (s).
 
-<b>1982</b>—Subsec. (h). Pub. L. 97–295 substituted “(40 U.S.C. 471 et seq.)” for “, as amended,” after “Act of 1949”.
+<b>1982</b>—Subsec. (h). Pub. L. 97–295 substituted "(40 U.S.C. 471 et seq.)" for ", as amended," after "Act of 1949".
 
 Subsec. (r). Pub. L. 97–276 and Pub. L. 97–322 made identical amendments adding subsec. (r) relating to medical and dental care for personnel entitled thereto by law or regulation, including care in private facilities.
 
-<b>1981</b>—Subsec. (p). Pub. L. 97–136, inserted “including telephones in residences leased or owned by the Government of the United States when appropriate to assure efficient response to extraordinary operational contingencies of a limited duration,” after “of such lines and cables,”.
+<b>1981</b>—Subsec. (p). Pub. L. 97–136, inserted "including telephones in residences leased or owned by the Government of the United States when appropriate to assure efficient response to extraordinary operational contingencies of a limited duration," after "of such lines and cables,".
 
-<b>1976</b>—Subsec. (n). Pub. L. 94–546 substituted “to be deposited in the Treasury” for “to be covered into the Treasury”.
+<b>1976</b>—Subsec. (n). Pub. L. 94–546 substituted "to be deposited in the Treasury" for "to be covered into the Treasury".
 
 <b>1951</b>—Subsec. (h). Act Oct. 31, 1951, §2(10), inserted reference to applicable regulations of the Federal Property and Administrative Services Act of 1949, as amended, and struck out the requirement that net monies received from the disposition of patrol boats, etc., be covered into the Treasury.
 
@@ -206,9 +206,9 @@ Subsec. (i). Act Oct. 31, 1951, §4(1), inserted provision permitting discontinu
 
 Subsec. (k). Act Oct. 31, 1951, §1(33), repealed subsec. (k) which empowered the Commandant to exchange aircraft, vehicles, and parts thereof, and obsolete, unsuitable, or unserviceable machines, tools, aids to navigation, appliances, equipment, and supplies in part payment for new items of the same or similar character.
 
-<b>1950</b>—Subsec. (o). Act Aug. 3, 1950, struck out “and” after the semicolon.
+<b>1950</b>—Subsec. (o). Act Aug. 3, 1950, struck out "and" after the semicolon.
 
-Subsec. (p). Act Aug. 3, 1950, substituted “; and” for the period at end.
+Subsec. (p). Act Aug. 3, 1950, substituted "; and" for the period at end.
 
 #### Transfer of Functions
 
@@ -218,89 +218,89 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Pub. L. 111–281, title II, §217, Oct. 15, 2010, 124 Stat. 2917, provided that:
 
-“(a)
+"(a)
 
 In General.—Not later than January 15 of each year, the Commandant of the Coast Guard shall submit a report on the sexual assaults involving members of the Coast Guard to the Committee on Transportation and Infrastructure and the Committee on Homeland Security of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
-“(b)
+"(b)
 
 Contents.—The report required under subsection (a) shall contain the following:
 
-&emsp;“(1) The number of sexual assaults against members of the Coast Guard, and the number of sexual assaults by members of the Coast Guard, that were reported to military officials during the year covered by such report, and the number of the cases so reported that were substantiated.
+&emsp;"(1) The number of sexual assaults against members of the Coast Guard, and the number of sexual assaults by members of the Coast Guard, that were reported to military officials during the year covered by such report, and the number of the cases so reported that were substantiated.
 
-&emsp;“(2) A synopsis of, and the disciplinary action taken in, each substantiated case.
+&emsp;"(2) A synopsis of, and the disciplinary action taken in, each substantiated case.
 
-&emsp;“(3) The policies, procedures, and processes implemented by the Secretary concerned during the year covered by such report in response to incidents of sexual assault involving members of the Coast Guard concerned.
+&emsp;"(3) The policies, procedures, and processes implemented by the Secretary concerned during the year covered by such report in response to incidents of sexual assault involving members of the Coast Guard concerned.
 
-&emsp;“(4) A plan for the actions that are to be taken in the year following the year covered by such report on the prevention of and response to sexual assault involving members of the Coast Guard concerned.”
+&emsp;"(4) A plan for the actions that are to be taken in the year following the year covered by such report on the prevention of and response to sexual assault involving members of the Coast Guard concerned."
 
 #### Marine Vessel and Cold Water Safety Education
 
-Pub. L. 109–241, title IV, §405, July 11, 2006, 120 Stat. 535, provided that: “The Coast Guard shall continue cooperative agreements and partnerships with organizations in effect on the date of enactment of this Act \[July 11, 2006\] that provide marine vessel safety training and cold water immersion education and outreach programs for fishermen and children.”
+Pub. L. 109–241, title IV, §405, July 11, 2006, 120 Stat. 535, provided that: "The Coast Guard shall continue cooperative agreements and partnerships with organizations in effect on the date of enactment of this Act \[July 11, 2006\] that provide marine vessel safety training and cold water immersion education and outreach programs for fishermen and children."
 
 #### Redistricting Notification Requirement
 
-Pub. L. 108–293, title II, §215, Aug. 9, 2004, 118 Stat. 1038, provided that: “The Commandant shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate at least 180 days before—
+Pub. L. 108–293, title II, §215, Aug. 9, 2004, 118 Stat. 1038, provided that: "The Commandant shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate at least 180 days before—
 
-&emsp;“(1) implementing any plan to reduce the number of, change the location of, or change the geographic area covered by any existing Coast Guard Districts; or
+&emsp;"(1) implementing any plan to reduce the number of, change the location of, or change the geographic area covered by any existing Coast Guard Districts; or
 
-&emsp;“(2) permanently transferring more than 10 percent of the personnel or equipment from a district office where such personnel or equipment is based.”
+&emsp;"(2) permanently transferring more than 10 percent of the personnel or equipment from a district office where such personnel or equipment is based."
 
 #### Innovative Construction Alternatives
 
-Pub. L. 108–293, title II, §222, Aug. 9, 2004, 118 Stat. 1040, provided that: “The Commandant of the Coast Guard may consult with the Office of Naval Research and other Federal agencies with research and development programs that may provide innovative construction alternatives for the Integrated Deepwater System.”
+Pub. L. 108–293, title II, §222, Aug. 9, 2004, 118 Stat. 1040, provided that: "The Commandant of the Coast Guard may consult with the Office of Naval Research and other Federal agencies with research and development programs that may provide innovative construction alternatives for the Integrated Deepwater System."
 
 #### Icebreaking Services
 
 Pub. L. 109–241, title II, §210, July 11, 2006, 120 Stat. 523, provided that:
 
-“(a)
+"(a)
 
 Operation and Maintenance Plan.—Not later than 90 days after the date of enactment of this Act \[July 11, 2006\], the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan—
 
-&emsp;“(1) for operation and maintenance after fiscal year 2006 of the Coast Guard polar icebreakers POLAR STAR, POLAR SEA, and HEALY, that does not rely on the transfer of funds to the Coast Guard by any other Federal agency; and
+&emsp;"(1) for operation and maintenance after fiscal year 2006 of the Coast Guard polar icebreakers POLAR STAR, POLAR SEA, and HEALY, that does not rely on the transfer of funds to the Coast Guard by any other Federal agency; and
 
-&emsp;“(2) for the long-term recapitalization of these assets.
+&emsp;"(2) for the long-term recapitalization of these assets.
 
-“(b)
+"(b)
 
-Necessary Measures.—The Secretary shall take all necessary measures to ensure that the Coast Guard maintains, at a minimum, its current vessel capacity for carrying out ice breaking in the Arctic and Antarctic, Great Lakes, and New England regions, including the necessary funding for operation and maintenance of such vessels, until it has implemented the long-term recapitalization of the Coast Guard polar icebreakers POLAR STAR, POLAR SEA, and HEALY in accordance with the plan submitted under subsection (a).
+Necessary Measures.—The Secretary shall take all necessary measures to ensure that the Coast Guardmaintains, at a minimum, its current vessel capacity for carrying out ice breaking in the Arctic and Antarctic, Great Lakes, and New England regions, including the necessary funding for operation and maintenance of such vessels, until it has implemented the long-term recapitalization of the Coast Guard polar icebreakers POLAR STAR, POLAR SEA, and HEALY in accordance with the plan submitted under subsection (a).
 
-“(c)
+"(c)
 
 Reimbursement.—Nothing in this section shall preclude the Secretary from seeking reimbursement for operation and maintenance costs of such polar icebreakers from other Federal agencies and entities, including foreign countries, that benefit from the use of the icebreakers.
 
-“(d)
+"(d)
 
-Authorization of Appropriations.—There is authorized to be appropriated for fiscal year 2006 to the Secretary of the department in which the Coast Guard is operating $100,000,000 to carry out this section with respect to the polar icebreakers referred to in subsection (a).”
+Authorization of Appropriations.—There is authorized to be appropriated for fiscal year 2006 to the Secretary of the department in which the Coast Guard is operating $100,000,000 to carry out this section with respect to the polar icebreakers referred to in subsection (a)."
 
-Pub. L. 107–295, title IV, §429, Nov. 25, 2002, 116 Stat. 2127, provided that: “The Commandant of the Coast Guard shall not plan, implement, or finalize any regulation or take any other action which would result in the decommissioning of any WYTL-class harbor tugs unless and until the Commandant certifies in writing to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that sufficient replacement capability has been procured by the Coast Guard to remediate any degradation in current icebreaking services that would be caused by such decommissioning.”
+Pub. L. 107–295, title IV, §429, Nov. 25, 2002, 116 Stat. 2127, provided that: "The Commandant of the Coast Guard shall not plan, implement, or finalize any regulation or take any other action which would result in the decommissioning of any WYTL-class harbor tugs unless and until the Commandant certifies in writing to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that sufficient replacement capability has been procured by the Coast Guard to remediate any degradation in current icebreaking services that would be caused by such decommissioning."
 
 #### Fishing Vessel Safety Training
 
 Pub. L. 107–295, title IV, §430, Nov. 25, 2002, 116 Stat. 2128, provided that:
 
-“(a)
+"(a)
 
 In General.—The Commandant of the Coast Guard may provide support, with or without reimbursement, to an entity engaged in fishing vessel safety training, including—
 
-&emsp;“(1) assistance in developing training curricula;
+&emsp;"(1) assistance in developing training curricula;
 
-&emsp;“(2) use of Coast Guard personnel, including active duty members, members of the Coast Guard Reserve, and members of the Coast Guard Auxiliary, as temporary or adjunct instructors;
+&emsp;"(2) use of Coast Guard personnel, including active duty members, members of the Coast Guard Reserve, and members of the Coast Guard Auxiliary, as temporary or adjunct instructors;
 
-&emsp;“(3) sharing of appropriate Coast Guard informational and safety publications; and
+&emsp;"(3) sharing of appropriate Coast Guard informational and safety publications; and
 
-&emsp;“(4) participation on applicable fishing vessel safety training advisory panels.
+&emsp;"(4) participation on applicable fishing vessel safety training advisory panels.
 
-“(b)
+"(b)
 
-No Interference With Other Functions.—In providing support under subsection (a), the Commandant shall ensure that the support does not interfere with any Coast Guard function or operation.”
+No Interference With Other Functions.—In providing support under subsection (a), the Commandant shall ensure that the support does not interfere with any Coast Guard function or operation."
 
 #### Conveyance of Lighthouses; Notification
 
-Pub. L. 105–383, title IV, §416(d), Nov. 13, 1998, 112 Stat. 3437, provided that: “Not less than 1 year prior to reporting to the General Services Administration that a lighthouse or light station eligible for listing under the National Historic Preservation Act of 1966 (16 U.S.C. 470 et seq.) and under the jurisdiction of the Coast Guard is excess to the needs of the Coast Guard, the Commandant of the Coast Guard shall notify the State in which the lighthouse or light station is located, (including the State Historic Preservation Officer, if any) the appropriate political subdivision of that State, and any lighthouse, historic, or maritime preservation organizations in that State, that such property is excess to the needs of the Coast Guard.”
+Pub. L. 105–383, title IV, §416(d), Nov. 13, 1998, 112 Stat. 3437, provided that: "Not less than 1 year prior to reporting to the General Services Administration that a lighthouse or light station eligible for listing under the National Historic Preservation Act of 1966 (16 U.S.C. 470 et seq.) and under the jurisdiction of the Coast Guard is excess to the needs of the Coast Guard, the Commandant of the Coast Guard shall notify the State in which the lighthouse or light station is located, (including the State Historic Preservation Officer, if any) the appropriate political subdivision of that State, and any lighthouse, historic, or maritime preservation organizations in that State, that such property is excess to the needs of the Coast Guard."
 
 #### Small Waterplane Area Twin Hull (SWATH) Technology
 
-Pub. L. 105–383, title IV, §425(a), Nov. 13, 1998, 112 Stat. 3441, provided that: “The Commandant of the Coast Guard shall, within 18 months after the date of the enactment of this Act \[Nov. 13, 1998\], report to the Senate Committee on Commerce, Science, and Transportation and the House Committee on Transportation and Infrastructure on the applicability of Small Waterplane Area Twin Hull (SWATH) technology, including concepts developed by the United States Office of Naval Research, to the design of Coast Guard vessels.”
+Pub. L. 105–383, title IV, §425(a), Nov. 13, 1998, 112 Stat. 3441, provided that: "The Commandant of the Coast Guard shall, within 18 months after the date of the enactment of this Act \[Nov. 13, 1998\], report to the Senate Committee on Commerce, Science, and Transportation and the House Committee on Transportation and Infrastructure on the applicability of Small Waterplane Area Twin Hull (SWATH) technology, including concepts developed by the United States Office of Naval Research, to the design of Coast Guard vessels."
 

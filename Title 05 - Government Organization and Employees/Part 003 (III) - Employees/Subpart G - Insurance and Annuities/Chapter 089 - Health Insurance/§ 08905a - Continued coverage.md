@@ -6,9 +6,9 @@
 
 &emsp;(1) any employee who—
 
-&emsp;&emsp;(A) is separated from service, whether voluntarily or involuntarily, except that if the separation is involuntary, this section shall not apply if the separation is for gross misconduct (as defined under regulations which the Office of Personnel Management shall prescribe); and
+&emsp;&emsp;(A) is separated from service, whether voluntarily or involuntarily, except that if the separation is involuntary, this section shallnot apply if the separation is for gross misconduct (as defined under regulations which the Office of Personnel Management shall prescribe); and
 
-&emsp;&emsp;(B) would not otherwise be eligible for any benefits under this chapter (determinedwithout regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract);
+&emsp;&emsp;(B) would not otherwise be eligible for any benefits under this chapter (determined without regard to any temporary extension of coverage and without regard to any benefits available under a nongroup contract);
 
 &emsp;(2) any individual who—
 
@@ -78,7 +78,7 @@
 
 (2) If an individual elects to continue coverage under this section before the end of the applicable period under subsection (c)(2), but after such individual's coverage under this chapter (including any temporary extensions of coverage) expires, coverage shall be restored retroactively, with appropriate contributions (determined in accordance with paragraph (1), (4), or (5), as the case may be) and claims (if any), to the same extent and effect as though no break in coverage had occurred.
 
-(3)(A) An individual making an election under subsection (c)(2)(B) may, at such individual's option, elect coverage either as an individual or, if appropriate, for self and family.
+(3)(A) An individual making an election under subsection (c)(2)(B) may, at such individual's option, elect coverage either as an individual or, if appropriate, for self plus one or for self and family.
 
 (B) For the purpose of this paragraph, members of an individual's family shall be determined in the same way as would apply under this chapter in the case of an enrolled employee.
 
@@ -98,7 +98,7 @@
 
 (C) For the purpose of this paragraph, “surplus position” means a position which is identified in pre-reduction-in-force planning as no longer required, and which is expected to be eliminated under formal reduction-in-force procedures.
 
-(5)(A) If the basis for continued coverage under this section is an involuntary separation from a position in or under the Department of Veterans Affairs due to a reduction in force or a title 38 staffing readjustment, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 4421 of the Atomic Energy Defense Act—
+(5)(A) If the basis for continued coverage under this section is an involuntary separation from a position in or under the Department of Veterans Affairs due to a reduction in force or a title 38 staffing readjustment, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 4421<sup>1</sup> of the Atomic Energy Defense Act—
 
 &emsp;(i) the individual shall be liable for not more than the employee contributions referred to in paragraph (1)(A)(i); and
 
@@ -160,25 +160,29 @@
 
 (3) In the case of an individual—
 
-&emsp;(A) who becomes eligible for continued coverage under this subsection based on a divorce, annulment, or legal separation from a person who, as of the day before the date of the divorce, annulment, or legal separation (as the case may be) was receiving continued coverage under this section for self and family based on such person's separation from service; and
+&emsp;(A) who becomes eligible for continued coverage under this subsection based on a divorce, annulment, or legal separation from a person who, as of the day before the date of the divorce, annulment, or legal separation (as the case may be) was receiving continued coverage under this section based on such person's separation from service under a self plus one enrollment that covered the individual or under a self and family enrollment; and
 
 &emsp;(B) whose divorce, annulment, or legal separation (as the case may be) occurs before the end of the 18-month period beginning on the date of the separation from service referred to in subparagraph (A),
 
 > extended coverage under this section may not extend beyond the date which is 36 months after the date of the separation from service, as referred to in subparagraph (A).
 
-(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431; Pub. L. 106–65, div. A, title XI, §1104(c), div. C, title XXXII, §3244, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 106–117, title XI, §1106, Nov. 30, 1999, 113 Stat. 1598; Pub. L. 107–314, div. A, title XI, §1103, Dec. 2, 2002, 116 Stat. 2661; Pub. L. 107–314, div. D, title XLVI, §4603(h), formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3136(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–459, renumbered §4603(h) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, §3141(i)(4)(A)–(C), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 108–136, div. C, title XXXI, §3141(m)(3), Nov. 24, 2003, 117 Stat. 1787; Pub. L. 108–375, div. A, title XI, §1101(a), Oct. 28, 2004, 118 Stat. 2072; Pub. L. 109–163, div. A, title XI, §1101, Jan. 6, 2006, 119 Stat. 3447; Pub. L. 110–422, title VI, §615, Oct. 15, 2008, 122 Stat. 4800; Pub. L. 111–242, §151, as added Pub. L. 111–322, title I, §1(a)(2), Dec. 22, 2010, 124 Stat. 3519; Pub. L. 112–81, div. A, title XI, §1123, Dec. 31, 2011, 125 Stat. 1617.)
+(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431; Pub. L. 106–65, div. A, title XI, §1104(c), div. C, title XXXII, §3244, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 106–117, title XI, §1106, Nov. 30, 1999, 113 Stat. 1598; Pub. L. 107–314, div. A, title XI, §1103, Dec. 2, 2002, 116 Stat. 2661; Pub. L. 107–314, div. D, title XLVI, §4603(h), formerly Pub. L. 106–398, §1 \[div. C, title XXXI, §3136(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–459, renumbered §4603(h) of Pub. L. 107–314 by Pub. L. 108–136, div. C, title XXXI, §3141(i)(4)(A)–(C), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 108–136, div. C, title XXXI, §3141(m)(3), Nov. 24, 2003, 117 Stat. 1787; Pub. L. 108–375, div. A, title XI, §1101(a), Oct. 28, 2004, 118 Stat. 2072; Pub. L. 109–163, div. A, title XI, §1101, Jan. 6, 2006, 119 Stat. 3447; Pub. L. 110–422, title VI, §615, Oct. 15, 2008, 122 Stat. 4800; Pub. L. 111–242, §151, as added Pub. L. 111–322, title I, §1(a)(2), Dec. 22, 2010, 124 Stat. 3519; Pub. L. 112–81, div. A, title XI, §1123, Dec. 31, 2011, 125 Stat. 1617; Pub. L. 113–67, div. A, title VII, §706(b), Dec. 26, 2013, 127 Stat. 1194.)
 
 #### References in Text
 
 The date of enactment of this paragraph, referred to in subsec. (d)(4)(B), is the date of enactment of Pub. L. 102–484, which was approved Oct. 23, 1992.
 
-Section 4421 of the Atomic Energy Defense Act, referred to in subsec. (d)(5)(A), is classified to section 2601 of Title 50, War and National Defense.
+Section 4421 of the Atomic Energy Defense Act, referred to in subsec. (d)(5)(A), was classified to section 2601 of Title 50, War and National Defense, prior to repeal by Pub. L. 113–66, div. C, title XXXI, §3146(e)(10), Dec. 26, 2013, 127 Stat. 1077.
 
 The date of the enactment of this paragraph, referred to in subsec. (d)(5)(B), is the date of enactment of Pub. L. 106–117, which was approved Nov. 30, 1999.
 
 The date of enactment of this paragraph, referred to in subsec. (d)(6)(B), is the date of enactment of Pub. L. 110–422, which was approved Oct. 15, 2008.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d)(3)(A). Pub. L. 113–67, §706(b)(1), inserted “for self plus one or” before “for self and family”.
+
+Subsec. (f)(3)(A). Pub. L. 113–67, §706(b)(2), substituted “based on such person's separation from service under a self plus one enrollment that covered the individual or under a self and family enrollment” for “for self and family based on such person's separation from service”.
 
 <b>2011</b>—Subsec. (d)(4)(B). Pub. L. 112–81 substituted “December 31, 2016” for “December 31, 2011” in cls. (i) and (ii) and substituted “February 1, 2017” for “February 1, 2012” in cl. (ii).
 
@@ -200,7 +204,7 @@ Subsec. (b)(3). Pub. L. 108–375, §1101(a)(2), added par. (3).
 
 Subsec. (e)(1)(C). Pub. L. 108–375, §1101(a)(4), added subpar. (C).
 
-<b>2003</b>—Subsec. (d)(5)(A). Pub. L. 108–136, §3141(m)(3), substituted “section 4421 of the Atomic Energy Defense Act” for “section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)”.
+<b>2003</b>—Subsec. (d)(5)(A). Pub. L. 108–136, §3141(m)(3), substituted “section 4421 of the Atomic Energy DefenseAct” for “section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)”.
 
 <b>2002</b>—Subsec. (d)(4)(B)(i). Pub. L. 107–314, §1103(1), substituted “2006” for “2003”.
 
@@ -249,4 +253,6 @@ Section applicable with respect to any calendar year beginning, and contracts en
 #### Source of Payments
 
 Pub. L. 102–484, div. D, title XLIV, §4438(b)(1), Oct. 23, 1992, 106 Stat. 2725, provided that: “Any amount which becomes payable by an agency as a result of the enactment of subsection (a) \[amending this section\] shall be paid out of funds or appropriations available for salaries and expenses of such agency.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

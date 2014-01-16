@@ -15,7 +15,7 @@
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–453, §5(c), Oct. 24, 1990, 104 Stat. 1061, substituted “Intergovernmental financing” for “Transfer and deposit requirements” in item 6503.
+<b>1990</b>—Pub. L. 101–453, §5(c), Oct. 24, 1990, 104 Stat. 1061, substituted "Intergovernmental financing" for "Transfer and deposit requirements" in item 6503.
 
 
 ---

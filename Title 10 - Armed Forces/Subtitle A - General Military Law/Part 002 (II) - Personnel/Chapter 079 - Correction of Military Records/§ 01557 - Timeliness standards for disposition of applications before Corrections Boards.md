@@ -60,7 +60,7 @@ Reports on Failure To Meet Timeliness Standards.—The Secretary of the military
 
 (f)
 
-Corrections Board Defined.—In this section, the term “Corrections Board” means—
+Corrections Board Defined.—In this section, the term "Corrections Board" means—
 
 &emsp;(1) with respect to the Department of the Army, the Army Board for Correction of Military Records;
 
@@ -72,7 +72,7 @@ Corrections Board Defined.—In this section, the term “Corrections Board” m
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–375 substituted “Final” for “Effective October 1, 2002, final”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–375 substituted "Final" for "Effective October 1, 2002, final".
 
-<b>1999</b>—Subsec. (e). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (e). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 

@@ -24,5 +24,5 @@ A prior section 3 of Pub. L. 100–205 was renumbered section 4 and is classifie
 
 #### Amendments
 
-<b>1994</b>—Subsec. (d). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 

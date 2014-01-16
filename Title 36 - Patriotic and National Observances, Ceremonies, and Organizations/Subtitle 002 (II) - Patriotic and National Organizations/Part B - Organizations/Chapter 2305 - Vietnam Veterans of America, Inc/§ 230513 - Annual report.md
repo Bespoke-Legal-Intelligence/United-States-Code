@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 May 23, 1986, Pub. L. 99–318, §13, 100 Stat. 476.
 
-The words “submit an annual report” are substituted for “report annually” for consistency in the revised title.
+The words "submit an annual report" are substituted for "report annually" for consistency in the revised title.
 
 #### Termination of Reporting Requirements
 

@@ -16,7 +16,7 @@ Amendment by Pub. L. 95–94 is based on par. (2) of House Resolution No. 8, Nin
 
 #### Prior Provisions
 
-House Resolution 312, 89th Congress, Mar. 31, 1965, which was enacted into permanent law by section 103 of Pub. L. 89–90, July 27, 1965, 79 Stat. 281, provided that effective Apr. 1, 1965, the compensation of the Legislative Counsel of the House of Representatives shall be at a gross per annum rate which is equal to the gross per annum rate of compensation of the Legislative Counsel of the Senate, and that the additional sums necessary to carry out this resolution shall be paid out of the contingent fund of the House until otherwise provided by law.
+House Resolution 312, 89th Congress, Mar. 31, 1965, which was enacted into permanent law by section 103 of Pub. L. 89–90, July 27, 1965, 79 Stat. 281, provided that effective Apr. 1, 1965, the compensation of the Legislative Counsel of the House of Representatives shall be at a gross per annum rate which is equal to the gross per annum rate of compensation of the Legislative Counselof the Senate, and that the additional sums necessary to carry out this resolution shall be paid out of the contingent fund of the House until otherwise provided by law.
 
 #### Amendments
 
@@ -24,5 +24,5 @@ House Resolution 312, 89th Congress, Mar. 31, 1965, which was enacted into perma
 
 #### Increases in Compensation
 
-Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch AppropriationsAct, 1988 (Pub. L. 100–202), see sections 60a–2 and 60a–2a of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
+Increases in compensation for House officers and employees under authority of Federal Salary Act of 1967 (Pub. L. 90–206), Federal Pay Comparability Act of 1970 (Pub. L. 91–656), and Legislative Branch Appropriations Act, 1988 (Pub. L. 100–202), see sections 4531 and 4532 of this title, and Salary Directives of Speaker of the House, set out as notes under those sections.
 

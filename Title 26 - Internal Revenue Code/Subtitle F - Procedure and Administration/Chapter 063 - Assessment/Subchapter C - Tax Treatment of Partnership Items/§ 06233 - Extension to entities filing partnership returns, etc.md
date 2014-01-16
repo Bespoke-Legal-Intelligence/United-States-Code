@@ -12,13 +12,13 @@ If a partnership return is filed for any taxable year but it is determined that 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–188 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “If for any taxable year—
+<b>1996</b>—Subsec. (b). Pub. L. 104–188 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "If for any taxable year—
 
-&emsp;“(1) an entity files a return as an S corporation but it is determined that the entity was not an S corporation for such year, or
+&emsp;"(1) an entity files a return as an S corporation but it is determined that the entity was not an S corporation for such year, or
 
-&emsp;“(2) a partnership return or S corporation return is filed but it is determined that there is no entity for such taxable year,
+&emsp;"(2) a partnership return or S corporation return is filed but it is determined that there is no entity for such taxable year,
 
-> then, to the extent provided in regulations, rules similar to the rules of subsection (a) shall apply.”
+> then, to the extent provided in regulations, rules similar to the rules of subsection (a) shall apply."
 
 #### Effective Date of 1996 Amendment
 

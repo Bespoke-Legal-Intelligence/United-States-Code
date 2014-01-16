@@ -72,7 +72,7 @@ Grants awarded under this section shall be used to conduct high-quality professi
 
 &emsp;&emsp;(A) describe the programs and activities proposed to be developed, implemented, and administered under the award;
 
-&emsp;&emsp;(B) describe how the applicant has consulted with, and assessed the needs of, public and private schools serving limited English proficient children to determine such schools’ need for, and the design of, the program for which funds are sought; and
+&emsp;&emsp;(B) describe how the applicant has consulted with, and assessed the needs of, public and private schools serving limited English proficient children to determine such schools' need for, and the design of, the program for which funds are sought; and
 
 &emsp;&emsp;(C) describe how the programs and activities to be carried out under the award will be used to ensure that limited English proficient children meet challenging State academic content and student academic achievement standards and attain English proficiency.
 
@@ -118,7 +118,7 @@ The Higher Education Act of 1965, referred to in subsec. (d)(4), is Pub. L. 89�
 
 #### Prior Provisions
 
-A prior section 6951, Pub. L. 89–10, title III, §3401, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3666, authorized a national telecommunications-based demonstration project to improve the teaching of mathematics, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6951, Pub. L. 89–10, title III, §3401, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3666, authorized a national telecommunications-based demonstration project to improve the teaching of mathematics, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 Prior sections 6952 and 6953 were omitted in the general amendment of this subchapter by Pub. L. 107–110.
 

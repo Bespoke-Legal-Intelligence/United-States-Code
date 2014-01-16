@@ -88,7 +88,7 @@ The sanctions described in this subsection are the following:
 
 #### (E) United States financial institution defined
 
-&emsp;&emsp;In this paragraph, the term “United States financial institution” means a financial institution (as defined in section 14 of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note)) that is a United States person.
+&emsp;&emsp;In this paragraph, the term "United States financial institution" means a financial institution (as defined in section 14 of the Iran Sanctions Act of 1996 (Public Law 104–172; 50 U.S.C. 1701 note)) that is a United States person.
 
 #### (c) Penalties
 

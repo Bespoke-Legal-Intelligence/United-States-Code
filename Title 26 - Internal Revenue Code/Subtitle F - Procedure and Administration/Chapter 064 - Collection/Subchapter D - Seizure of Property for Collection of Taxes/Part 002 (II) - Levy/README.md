@@ -23,7 +23,7 @@
 
 <b>1998</b>—Pub. L. 105–206, title III, §3401(b), July 22, 1998, 112 Stat. 749, added part heading.
 
-<b>1966</b>—Pub. L. 89–719, title I, §104(j), Nov. 2, 1966, 80 Stat. 1138, inserted “and return property” in item 6343.
+<b>1966</b>—Pub. L. 89–719, title I, §104(j), Nov. 2, 1966, 80 Stat. 1138, inserted "and return property" in item 6343.
 
 
 ---

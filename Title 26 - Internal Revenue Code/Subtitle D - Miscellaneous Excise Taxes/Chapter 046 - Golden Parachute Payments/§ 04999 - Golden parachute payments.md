@@ -6,7 +6,7 @@ There is hereby imposed on any person who receives an excess parachute payment a
 
 #### (b) Excess parachute payment defined
 
-For purposes of this section, the term “excess parachute payment” has the meaning given to such term by section 280G(b).
+For purposes of this section, the term "excess parachute payment" has the meaning given to such term by section 280G(b).
 
 #### (c) Administrative provisions
 
@@ -22,5 +22,5 @@ For purposes of this section, the term “excess parachute payment” has the me
 
 #### Effective Date
 
-Section applicable to payments under agreements entered into or renewed after June 14, 1984, in taxable years ending after such date, with contracts entered into before June 15, 1984, which are amended after June 14, 1984, in any significant relevant aspect to be treated as a contract entered into after June 14, 1984, see section 67(e) of Pub. L. 98–369, set out as a note under section 280G of this title.
+Section applicable to payments under agreements entered into or renewed after June 14, 1984, in taxable years ending after such date, with contracts entered into before June 15, 1984, which are amended after June 14, 1984, in any significant relevant aspect to be treatedas a contract entered into after June 14, 1984, see section 67(e) of Pub. L. 98–369, set out as a note under section 280G of this title.
 

@@ -11,7 +11,7 @@
 
 #### Amendments
 
-<b>1964</b>—Pub. L. 88–647, title III, §301(11), Oct. 13, 1964, 78 Stat. 1072, struck out item for chapter 405 “Reserve Officers’ Training Corps”.
+<b>1964</b>—Pub. L. 88–647, title III, §301(11), Oct. 13, 1964, 78 Stat. 1072, struck out item for chapter 405 "Reserve Officers' Training Corps".
 
 
 ---

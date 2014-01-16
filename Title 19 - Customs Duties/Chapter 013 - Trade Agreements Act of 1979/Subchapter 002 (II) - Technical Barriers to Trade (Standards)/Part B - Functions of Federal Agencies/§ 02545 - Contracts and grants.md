@@ -32,5 +32,5 @@ Each recipient of a grant or contract under this section shall make available to
 
 <b>1996</b>—Pub. L. 104–295 amended directory language of Pub. L. 103–182. See 1993 Amendment note below.
 
-<b>1993</b>—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative” wherever appearing.
+<b>1993</b>—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted "Trade Representative" for "Special Representative" wherever appearing.
 

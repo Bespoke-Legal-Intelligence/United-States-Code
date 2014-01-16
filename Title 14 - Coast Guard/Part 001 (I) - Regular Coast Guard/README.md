@@ -25,7 +25,7 @@
 
 <b>1989</b>—Pub. L. 101–225, title II, §222(b), Dec. 12, 1989, 103 Stat. 1918, added item for chapter 19.
 
-<b>1950</b>—Act May 5, 1950, ch. 169, §§5, 14(v), 64 Stat. 148, repealed item for chapter 15 “Discipline and Related Matters———561”, effective May 31, 1951.
+<b>1950</b>—Act May 5, 1950, ch. 169, §§5, 14(v), 64 Stat. 148, repealed item for chapter 15 "Discipline and Related Matters———561", effective May 31, 1951.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
 

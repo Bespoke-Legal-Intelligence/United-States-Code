@@ -22,7 +22,7 @@ Clarification Regarding State Law Causes of Action.—(1) Nothing in this sectio
 
 &emsp;(C) has failed to comply with a State law, regulation, or order that is not incompatible with subsection (a)(2).
 
-(2) This subsection shall apply to all pending State law causes of action arising from events or activities occurring on or after January 18, 2002.
+(2) This subsection shall apply to all pending State law causes of action arising from eventsor activities occurring on or after January 18, 2002.
 
 (c)
 
@@ -46,21 +46,21 @@ Historical and Revision Notes
 
 Oct. 16, 1970, Pub. L. 91–458, §205, 84 Stat. 972.
 
-In this section, before clause (1), the words “The Congress declares that” are omitted as unnecessary. In clause (3), the word “unreasonably” is substituted for “undue” for consistency in the revised title and with other titles of the United States Code.
+In this section, before clause (1), the words "The Congress declares that" are omitted as unnecessary. In clause (3), the word "unreasonably" is substituted for "undue" for consistency in the revised title and with other titles of the United States Code.
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–53 amended section generally. Prior to amendment, text of section read as follows: “Laws, regulations, and orders related to railroad safety and laws, regulations, and orders related to railroad security shall be nationally uniform to the extent practicable. A State may adopt or continue in force a law, regulation, or order related to railroad safety or security until the Secretary of Transportation (with respect to railroad safety matters), or the Secretary of Homeland Security (with respect to railroad security matters), prescribes a regulation or issues an order covering the subject matter of the State requirement. A State may adopt or continue in force an additional or more stringent law, regulation, or order related to railroad safety or security when the law, regulation, or order—
+<b>2007</b>—Pub. L. 110–53 amended section generally. Prior to amendment, text of section read as follows: "Laws, regulations, and orders related to railroad safety and laws, regulations, and orders related to railroad security shall be nationally uniform to the extent practicable. A State may adopt or continue in force a law, regulation, or order related to railroad safety or security until the Secretary of Transportation (with respect to railroad safety matters), or the Secretary of Homeland Security (with respect to railroad security matters), prescribes a regulation or issues an order covering the subject matter of the State requirement. A State may adopt or continue in force an additional or more stringent law, regulation, or order related to railroad safety or security when the law, regulation, or order—
 
-&emsp;“(1) is necessary to eliminate or reduce an essentially local safety or security hazard;
+&emsp;"(1) is necessary to eliminate or reduce an essentially local safety or security hazard;
 
-&emsp;“(2) is not incompatible with a law, regulation, or order of the United States Government; and
+&emsp;"(2) is not incompatible with a law, regulation, or order of the United States Government; and
 
-&emsp;“(3) does not unreasonably burden interstate commerce.”
+&emsp;"(3) does not unreasonably burden interstate commerce."
 
-<b>2002</b>—Pub. L. 107–296, §1710(c), in introductory provisions, in first sentence inserted “and laws, regulations, and orders related to railroad security” after “safety”, in second sentence substituted “Transportation (with respect to railroad safety matters), or the Secretary of Homeland Security (with respect to railroad security matters),” for “Transportation”, and in second and third sentences inserted “or security” after “order related to railroad safety”.
+<b>2002</b>—Pub. L. 107–296, §1710(c), in introductory provisions, in first sentence inserted "and laws, regulations, and orders related to railroad security" after "safety", in second sentence substituted "Transportation (with respect to railroad safety matters), or the Secretary of Homeland Security (with respect to railroad security matters)," for "Transportation", and in second and third sentences inserted "or security" after "order related to railroad safety".
 
-Par. (1). Pub. L. 107–296, §1710(c)(2), inserted “or security” after “safety”.
+Par. (1). Pub. L. 107–296, §1710(c)(2), inserted "or security" after "safety".
 
 #### Effective Date of 2002 Amendment
 

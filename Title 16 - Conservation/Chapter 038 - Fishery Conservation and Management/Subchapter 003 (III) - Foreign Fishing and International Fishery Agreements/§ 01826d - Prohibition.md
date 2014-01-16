@@ -10,17 +10,17 @@ Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protect
 
 #### Congressional Findings
 
-Pub. L. 104–43, title VI, §602, Nov. 3, 1995, 109 Stat. 391, provided that: “The Congress finds that—
+Pub. L. 104–43, title VI, §602, Nov. 3, 1995, 109 Stat. 391, provided that: "The Congress finds that—
 
-&emsp;“(1) Congress has enacted and the President has signed into law numerous Acts to control or prohibit large-scale driftnet fishing both within the jurisdiction of the United States and beyond the exclusive economic zone of any nation, including the Driftnet Impact Monitoring, Assessment, and Control Act of 1987 (title IV, Public Law 100–220) \[16 U.S.C. 1822 note\], the Driftnet Act Amendments of 1990 (Public Law 101–627) \[16 U.S.C. 1826\], and the High Seas Driftnet Fisheries Enforcement Act (title I, Public Law 102–582) \[see Short Title of 1992 Amendment note set out under section 1801 of this title\];
+&emsp;"(1) Congress has enacted and the President has signed into law numerous Acts to control or prohibit large-scale driftnet fishing both within the jurisdiction of the United States and beyond the exclusive economic zone of any nation, including the Driftnet Impact Monitoring, Assessment, and Control Act of 1987 (title IV, Public Law 100–220) \[16 U.S.C. 1822 note\], the Driftnet Act Amendments of 1990 (Public Law 101–627) \[16 U.S.C. 1826\], and the High Seas Driftnet Fisheries Enforcement Act (title I, Public Law 102–582) \[see Short Title of 1992 Amendment note set out under section 1801 of this title\];
 
-&emsp;“(2) the United States is a party to the Convention for the Prohibition of Fishing with Long Driftnets in the South Pacific, also known as the Wellington Convention;
+&emsp;"(2) the United States is a party to the Convention for the Prohibition of Fishing with Long Driftnets in the South Pacific, also known as the Wellington Convention;
 
-&emsp;“(3) the General Assembly of the United Nations has adopted three resolutions and three decisions which established and reaffirm a global moratorium on large-scale driftnet fishing on the high seas, beginning with Resolution 44/225 in 1989 and most recently in Decision 48/445 in 1993;
+&emsp;"(3) the General Assembly of the United Nations has adopted three resolutions and three decisions which established and reaffirm a global moratorium on large-scale driftnet fishing on the high seas, beginning with Resolution 44/225 in 1989 and most recently in Decision 48/445 in 1993;
 
-&emsp;“(4) the General Assembly of the United Nations adopted these resolutions and decisions at the request of the United States and other concerned nations;
+&emsp;"(4) the General Assembly of the United Nations adopted these resolutions and decisions at the request of the United States and other concerned nations;
 
-&emsp;“(5) the best scientific information demonstrates the wastefulness and potentially destructive impacts of large-scale driftnet fishing on living marine resources and seabirds; and
+&emsp;"(5) the best scientific information demonstrates the wastefulness and potentially destructive impacts of large-scale driftnet fishing on living marine resources and seabirds; and
 
-&emsp;“(6) Resolution 46/215 of the United Nations General Assembly calls on all nations, both individually and collectively, to prevent large-scale driftnet fishing on the high seas.”
+&emsp;"(6) Resolution 46/215 of the United Nations General Assembly calls on all nations, both individually and collectively, to prevent large-scale driftnet fishing on the high seas."
 

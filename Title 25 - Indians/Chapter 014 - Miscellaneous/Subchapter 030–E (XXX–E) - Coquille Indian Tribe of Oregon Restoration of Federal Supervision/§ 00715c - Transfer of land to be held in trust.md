@@ -2,7 +2,7 @@
 
 #### (a) Lands to be taken in trust
 
-The Secretary shall accept any real property located in Coos and Curry Counties not to exceed one thousand acres for the benefit of the Tribe if conveyed or otherwise transferred to the Secretary: <i>Provided</i>, That, at the time of such acceptance, there are no adverse legal claims on such property including outstanding liens, mortgages, or taxes owed. The Secretary may accept any additional acreage in the Tribe's service area pursuant to his authority under the Act of June 18, 1934 (48 Stat. 984) \[25 U.S.C. 461 et seq.\].
+The Secretary shall accept any real property located in Coos and Curry Counties not to exceed one thousand acres for the benefit of the Tribe if conveyed or otherwise transferred to the Secretary: <i>Provided</i>, That, at the time of such acceptance, there are no adverse legal claims onsuch property including outstanding liens, mortgages, or taxes owed. The Secretary may accept any additional acreage in the Tribe's service area pursuant to his authority under the Act of June 18, 1934 (48 Stat. 984) \[25 U.S.C. 461 et seq.\].
 
 #### (b) Lands to be part of reservation
 
@@ -18,11 +18,11 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 &emsp;In this subsection:
 
-&emsp;&emsp;(A) the <sup>1</sup> term “Coquille Forest” means certain lands in Coos County, Oregon, comprising approximately 5,400 acres, as generally depicted on the map entitled “Coquille Forest Proposal”, dated July 8, 1996.
+&emsp;&emsp;(A) the <sup>1</sup> term "Coquille Forest" means certain lands in Coos County, Oregon, comprising approximately 5,400 acres, as generally depicted on the map entitled "Coquille Forest Proposal", dated July 8, 1996.
 
-&emsp;&emsp;(B) the <sup>1</sup> term “Secretary” means the Secretary of the Interior.
+&emsp;&emsp;(B) the <sup>1</sup> term "Secretary" means the Secretary of the Interior.
 
-&emsp;&emsp;(C) the <sup>1</sup> term “the Tribe” means the Coquille Tribe of Coos County, Oregon.
+&emsp;&emsp;(C) the <sup>1</sup> term "the Tribe" means the Coquille Tribe of Coos County, Oregon.
 
 #### (2) Map
 
@@ -42,7 +42,7 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 &emsp;(B) Two years after September 30, 1996, the Secretary shall take the lands identified under subparagraph (d)(1)(A) into trust, and shall hold such lands in trust, in perpetuity, for the Coquille Tribe. Such lands shall be thereafter designated as the Coquille Forest.
 
-&emsp;(C) So as to maintain the current flow of revenue from land subject to the Act entitled “An Act relating to the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land situated in the State of Oregon” (the O\&C Act), approved August 28, 1937 (43 U.S.C. 1181a et seq.), the Secretary shall redesignate, from public domain lands within the tribe's service area, as defined in this subchapter, certain lands to be subject to the O\&C Act. Lands redesignated under this subparagraph shall not exceed lands sufficient to constitute equivalent timber value as compared to lands constituting the Coquille Forest.
+&emsp;(C) So as to maintain the current flow of revenue from land subject to the Act entitled "An Act relating to the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land situated in the State of Oregon" (the O\&C Act), approved August 28, 1937 (43 U.S.C. 1181a et seq.), the Secretary shall redesignate, from public domain lands within the tribe's service area, as defined in this subchapter, certain lands to be subject to the O\&C Act. Lands redesignated under this subparagraph shall not exceed lands sufficient to constitute equivalent timber value as compared to lands constituting the Coquille Forest.
 
 #### (5) Management
 
@@ -70,7 +70,7 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 #### (8) Public access
 
-&emsp;The Coquille Forest shall remain open to public access for purposes of hunting, fishing, recreation and transportation, except when closure is required by state <sup>1</sup> or federal <sup>1</sup> law, or when the Coquille Indian Tribe and the State of Oregon agree in writing that restrictions on access are necessary or appropriate to prevent harm to natural resources, cultural resources or environmental quality; <sup>6</sup> <i>Provided</i>,That the State of Oregon's agreement shall not be required when immediate action is necessary to protect archaeological resources.
+&emsp;The Coquille Forest shall remain open to public access for purposes of hunting, fishing, recreation and transportation, except when closure is required by state <sup>1</sup> or federal <sup>1</sup> law, or when the Coquille Indian Tribe and the State of Oregon agree in writing that restrictions on access are necessary or appropriate to prevent harm to natural resources, cultural resources or environmental quality; <sup>6</sup> <i>Provided</i>, That the State of Oregon's agreement shall not be required when immediate action is necessary to protect archaeological resources.
 
 #### (9) Jurisdiction
 
@@ -112,7 +112,7 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 &emsp;(D) To the extent that Federal law authorizes the Coquille Indian Tribe to assume regulatory authority over an area, nothing herein shall be construed to enlarge or diminish the tribe's <sup>1</sup> authority to do so under such law.
 
-&emsp;(E) Unless and except to the extent that the tribe <sup>1</sup> has assumed jurisdiction over the Coquille Forest pursuant to Federal law, or otherwise with the consent of the State, the State of Oregon shall have jurisdiction and authority to enforce its laws addressing the subjects listed in subparagraph 10 <sup>8</sup> of this subsection on the Coquille Forest against the Coquille Indian Tribe, its members and all other persons and entities, in the same manner and with the same remedies and protections and appeal rights as otherwise provided by general Oregon law. Where the State of Oregon and Coquille Indian Tribe agree regarding the exercise of tribal civil regulatory jurisdiction over activities on the Coquille Forest lands, the tribe <sup>1</sup> may exercise such jurisdiction as its <sup>9</sup> agreed upon.
+&emsp;(E) Unless and except to the extent that the tribe <sup>1</sup> has assumed jurisdiction over theCoquille Forest pursuant to Federal law, or otherwise with the consent of the State, the State of Oregon shall have jurisdiction and authority to enforce its laws addressing the subjects listed in subparagraph 10 <sup>8</sup> of this subsection on the Coquille Forest against the Coquille Indian Tribe, its members and all other persons and entities, in the same manner and with the same remedies and protections and appeal rights as otherwise provided by general Oregon law. Where the State of Oregon and Coquille Indian Tribe agree regarding the exercise of tribal civil regulatory jurisdiction over activities on the Coquille Forest lands, the tribe <sup>1</sup> may exercise such jurisdiction as its <sup>9</sup> agreed upon.
 
 #### (12) Conflict between laws
 
@@ -124,9 +124,9 @@ Any real property taken into trust for the benefit of the Tribe under this secti
 
 Act of June 18, 1934, referred to in subsec. (a), popularly known as the Indian Reorganization Act, is classified generally to subchapter V (§461 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 461 of this title and Tables.
 
-The Act entitled “An Act relating to the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land situated in the State of Oregon” (the O\&C Act), approved August 28, 1937 (43 U.S.C. 1181a et seq.), referred to in subsec. (d)(4)(C), is act Aug. 28, 1937, ch. 876, 50 Stat. 874, which enacted sections 1181a to 1181f of Title 43, Public Lands, repealed section 1174 of Title 43, and enacted provisions set out as a note under section 1181a of Title 43. For complete classification of this Act to the Code, see Tables.
+The Act entitled "An Act relating to the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land situated in the State of Oregon" (the O\&C Act), approved August 28, 1937 (43 U.S.C. 1181a et seq.), referred to in subsec. (d)(4)(C), is act Aug. 28, 1937, ch. 876, 50 Stat. 874, which enacted sections 1181a to 1181f of Title 43, Public Lands, repealed section 1174 of Title 43, and enacted provisions set out as a note under section 1181a of Title 43. For complete classification of this Act to the Code, see Tables.
 
-The Endangered Species Act, referred to in subsec. (d)(5), probably means the Endangered Species Act of1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
+The Endangered Species Act, referred to in subsec. (d)(5), probably means the Endangered Species Act of 1973, Pub. L. 93–205, Dec. 28, 1973, 87 Stat. 884, as amended, which is classified generally to chapter 35 (§1531 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of Title 16 and Tables.
 
 Public Law 101–630, 25 U.S.C. 3107, referred to in subsec. (d)(5), is probably a reference to section 308 of Pub. L. 101–630, which is classified to section 3107 of this title.
 
@@ -144,17 +144,17 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “the”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by "the".</i>
 
 <i><sup>4</sup></i><i> So in original. Probably should not be capitalized.</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be paragraph “(7)”.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be paragraph "(7)".</i>
 
 <i><sup>6</sup></i><i> So in original. The semicolon probably should be a colon.</i>
 
-<i><sup>7</sup></i><i> So in original. Probably should be “extent”.</i>
+<i><sup>7</sup></i><i> So in original. Probably should be "extent".</i>
 
-<i><sup>8</sup></i><i> So in original. Probably should be “paragraph (10)”.</i>
+<i><sup>8</sup></i><i> So in original. Probably should be "paragraph (10)".</i>
 
-<i><sup>9</sup></i><i> So in original. Probably should be “is”.</i>
+<i><sup>9</sup></i><i> So in original. Probably should be "is".</i>
 

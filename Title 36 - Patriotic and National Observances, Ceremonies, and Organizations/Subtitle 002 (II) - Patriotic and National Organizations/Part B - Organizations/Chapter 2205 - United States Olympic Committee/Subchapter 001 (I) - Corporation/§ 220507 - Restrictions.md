@@ -32,7 +32,7 @@ Sept. 21, 1950, ch. 975, title I, §§107, 108, as added Nov. 8, 1978, Pub. L. 9
 
 &nbsp;
 
-In subsection (a), the words “may not” are substituted for “shall have no power to” for consistency in the revised title. The words “capital”, “pecuniary”, and “or gain” are omitted as unnecessary.
+In subsection (a), the words "may not" are substituted for "shall have no power to" for consistency in the revised title. The words "capital", "pecuniary", and "or gain" are omitted as unnecessary.
 
-In subsection (b), the words “as an organization” are omitted as unnecessary.
+In subsection (b), the words "as an organization" are omitted as unnecessary.
 

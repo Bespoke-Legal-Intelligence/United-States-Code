@@ -12,7 +12,7 @@
 | [<b>645.</b>](Chapter%20645%20-%20Procurement%20of%20Supplies%20and%20Services/README.md) | <b>Procurement of Supplies and Services</b> | <b>7521</b> |
 | [<b>647.</b>](Chapter%20647%20-%20Disposal%20of%20Obsolete%20or%20Surplus%20Material/README.md) | <b>Disposal of Obsolete or Surplus Material</b> | <b>7541</b> |
 | [<b>649.</b>](Chapter%20649%20-%20Quarters%2C%20Utilities%2C%20and%20Services/README.md) | <b>Quarters, Utilities, and Services</b> | <b>7571</b> |
-| [<b>651.</b>](Chapter%20651%20-%20Ships%E2%80%99%20Stores%20and%20Commissary%20Stores/README.md) | <b>Ships’ Stores and Commissary Stores</b> | <b>7601</b> |
+| [<b>651.</b>](Chapter%20651%20-%20Ships%27%20Stores%20and%20Commissary%20Stores/README.md) | <b>Ships' Stores and Commissary Stores</b> | <b>7601</b> |
 | [<b>653.</b>](Chapter%20653%20-%20Claims/README.md) | <b>Claims</b> | <b>7621</b> |
 | [<b>655.</b>](Chapter%20655%20-%20Prize/README.md) | <b>Prize</b> | <b>7651</b> |
 | [<b>657.</b>](Chapter%20657%20-%20Stay%20of%20Judicial%20Proceedings/README.md) | <b>Stay of Judicial Proceedings</b> | <b>7721</b> |
@@ -29,25 +29,25 @@
 
 <b>2011</b>—Pub. L. 112–81, div. A, title III, §363(b), Dec. 31, 2011, 125 Stat. 1379, added item for chapter 669.
 
-<b>2008</b>—Pub. L. 110–417, \[div. A\], title X, §1061(a)(6), Oct. 14, 2008, 122 Stat. 4612, added item for chapter 667 and struck out former item for chapter 667 “Issue of serviceable material other than to Armed Forces”.
+<b>2008</b>—Pub. L. 110–417, \[div. A\], title X, §1061(a)(6), Oct. 14, 2008, 122 Stat. 4612, added item for chapter 667 and struck out former item for chapter 667 "Issue of serviceable material other than to Armed Forces".
 
 Pub. L. 110–181, div. A, title III, §377(b), Jan. 28, 2008, 122 Stat. 85, added item for chapter 667.
 
-<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1085(b)(3)(B)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–289, struck out “Related” after “Quarters, Utilities, and” in item for chapter 649.
+<b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title X, §1085(b)(3)(B)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–289, struck out "Related" after "Quarters, Utilities, and" in item for chapter 649.
 
 <b>1996</b>—Pub. L. 104–201, div. A, title II, §282(a)(2), Sept. 23, 1996, 110 Stat. 2473, added item for chapter 665.
 
-<b>1993</b>—Pub. L. 103–160, div. A, title VIII, §828(b)(3), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 635 “Naval Aircraft”.
+<b>1993</b>—Pub. L. 103–160, div. A, title VIII, §828(b)(3), Nov. 30, 1993, 107 Stat. 1714, struck out item for chapter 635 "Naval Aircraft".
 
 <b>1984</b>—Pub. L. 98–525, title XV, §1532(a)(2), Oct. 19, 1984, 98 Stat. 2631, added item for chapter 663.
 
-<b>1982</b>—Pub. L. 97–295, §1(50)(H), Oct. 12, 1982, 96 Stat. 1300, struck out “Naval Oceanographic Office and” after “United States” in item for chapter 639.
+<b>1982</b>—Pub. L. 97–295, §1(50)(H), Oct. 12, 1982, 96 Stat. 1300, struck out "Naval Oceanographic Office and" after "United States" in item for chapter 639.
 
 Pub. L. 97–295, §1(51)(B), Oct. 12, 1982, 96 Stat. 1300, added item for chapter 661.
 
-<b>1980</b>—Pub. L. 96–513, title V, §513(1), Dec. 12, 1980, 94 Stat. 2931, substituted “7420” for “7421” in item for chapter 641.
+<b>1980</b>—Pub. L. 96–513, title V, §513(1), Dec. 12, 1980, 94 Stat. 2931, substituted "7420" for "7421" in item for chapter 641.
 
-<b>1962</b>—Pub. L. 87–533, §2, July 10, 1962, 76 Stat. 155, substituted “United States Naval Oceanographic” for “Hydrographic” in item for chapter 639.
+<b>1962</b>—Pub. L. 87–533, §2, July 10, 1962, 76 Stat. 155, substituted "United States Naval Oceanographic" for "Hydrographic" in item for chapter 639.
 
 
 ---
@@ -64,7 +64,7 @@ Pub. L. 97–295, §1(51)(B), Oct. 12, 1982, 96 Stat. 1300, added item for chapt
 - [Chapter 645 - Procurement of Supplies and Services](Chapter%20645%20-%20Procurement%20of%20Supplies%20and%20Services/README.md)
 - [Chapter 647 - Disposal of Obsolete or Surplus Material](Chapter%20647%20-%20Disposal%20of%20Obsolete%20or%20Surplus%20Material/README.md)
 - [Chapter 649 - Quarters, Utilities, and Services](Chapter%20649%20-%20Quarters%2C%20Utilities%2C%20and%20Services/README.md)
-- [Chapter 651 - Ships&#8217; Stores and Commissary Stores](Chapter%20651%20-%20Ships%E2%80%99%20Stores%20and%20Commissary%20Stores/README.md)
+- [Chapter 651 - Ships' Stores and Commissary Stores](Chapter%20651%20-%20Ships%27%20Stores%20and%20Commissary%20Stores/README.md)
 - [Chapter 653 - Claims](Chapter%20653%20-%20Claims/README.md)
 - [Chapter 655 - Prize](Chapter%20655%20-%20Prize/README.md)
 - [Chapter 657 - Stay of Judicial Proceedings](Chapter%20657%20-%20Stay%20of%20Judicial%20Proceedings/README.md)

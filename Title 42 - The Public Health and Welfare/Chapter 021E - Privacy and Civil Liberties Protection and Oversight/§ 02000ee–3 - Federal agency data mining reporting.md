@@ -2,7 +2,7 @@
 
 #### (a) Short title
 
-This section may be cited as the “Federal Agency Data Mining Reporting Act of 2007”.
+This section may be cited as the "Federal Agency Data Mining Reporting Act of 2007".
 
 #### (b) Definitions
 
@@ -10,7 +10,7 @@ In this section:
 
 #### (1) Data mining
 
-&emsp;The term “data mining” means a program involving pattern-based queries, searches, or other analyses of 1 or more electronic databases, where—
+&emsp;The term "data mining" means a program involving pattern-based queries, searches, or other analyses of 1 or more electronic databases, where—
 
 &emsp;&emsp;(A) a department or agency of the Federal Government, or a non-Federal entity acting on behalf of the Federal Government, is conducting the queries, searches, or other analyses to discover or locate a predictive pattern or anomaly indicative of terrorist or criminal activity on the part of any individual or individuals;
 
@@ -24,7 +24,7 @@ In this section:
 
 #### (2) Database
 
-&emsp;The term “database” does not include telephone directories, news reporting, information publicly available to any member of the public without payment of a fee, or databases of judicial and administrative opinions or other legal research sources.
+&emsp;The term "database" does not include telephone directories, news reporting, information publicly available to any member of the public without payment of a fee, or databases of judicial and administrative opinions or other legal research sources.
 
 #### (c) Reports on data mining activities by Federal agencies
 
@@ -42,11 +42,11 @@ In this section:
 
 &emsp;&emsp;(C) A thorough description of the data sources that are being or will be used.
 
-&emsp;&emsp;(D) An assessment of the efficacy or likely efficacy of the data mining activity in providing accurate information consistent with and valuable to the stated goals and plans for the use or development of the data mining activity.
+&emsp;&emsp;(D) An assessment of the efficacy or likely efficacy of the data mining activity in providing accurate information consistent withand valuable to the stated goals and plans for the use or development of the data mining activity.
 
 &emsp;&emsp;(E) An assessment of the impact or likely impact of the implementation of the data mining activity on the privacy and civil liberties of individuals, including a thorough description of the actions that are being taken or will be taken with regard to the property, privacy, or other rights or privileges of any individual or individuals as a result of the implementation of the data mining activity.
 
-&emsp;&emsp;(F) A list and analysis of the laws and regulations that govern the information beingor to be collected, reviewed, gathered, analyzed, or used in conjunction with the data mining activity, to the extent applicable in the context of the data mining activity.
+&emsp;&emsp;(F) A list and analysis of the laws and regulations that govern the information being or to be collected, reviewed, gathered, analyzed, or used in conjunction with the data mining activity, to the extent applicable in the context of the data mining activity.
 
 &emsp;&emsp;(G) A thorough discussion of the policies, procedures, and guidelines that are in place or that are to be developed and applied in the use of such data mining activity in order to—
 
@@ -72,7 +72,7 @@ In this section:
 
 &emsp;&emsp;Any annex described in clause (i)—
 
-&emsp;&emsp;&emsp;(i) shall be available, as appropriate, and consistent with the National Security Act of 1947 (50 U.S.C. 401 et seq.), to the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, the Select Committee on Intelligence, the Committee on Appropriations, and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Homeland Security, the Committee on the Judiciary, the Permanent Select Committee on Intelligence, the Committee on Appropriations, and the Committee on Financial Services of the House of Representatives; and
+&emsp;&emsp;&emsp;(i) shall be available, as appropriate, and consistent with the National Security Act of 1947 \[50 U.S.C. 3001 et seq.\], to the Committee on Homeland Security and Governmental Affairs, the Committee on the Judiciary, the Select Committee on Intelligence, the Committee on Appropriations, and the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Homeland Security, the Committee on the Judiciary, the Permanent Select Committee on Intelligence, the Committee on Appropriations, and the Committee on Financial Services of the House of Representatives; and
 
 &emsp;&emsp;&emsp;(ii) shall not be made available to the public.
 
@@ -88,9 +88,9 @@ In this section:
 
 #### References in Text
 
-The National Security Act of 1947, referred to in subsec. (c)(3)(B)(i), is act July 26, 1947, ch. 343, 61 Stat. 495. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50, War and National Defense, and Tables.
+The National Security Act of 1947, referred to in subsec. (c)(3)(B)(i), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (3)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph (3)".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “paragraph (1)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "paragraph (1)".</i>
 

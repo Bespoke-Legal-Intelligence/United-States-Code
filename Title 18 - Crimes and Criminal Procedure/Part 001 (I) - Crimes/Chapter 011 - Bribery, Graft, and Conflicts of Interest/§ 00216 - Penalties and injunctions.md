@@ -6,7 +6,7 @@
 
 &emsp;(2) Whoever willfully engages in the conduct constituting the offense shall be imprisoned for not more than five years or fined in the amount set forth in this title, or both.
 
-(b) The Attorney General may bring a civil action in the appropriate United States district court against any person who engages in conduct constituting an offense under section 203, 204, 205, 207, 208, or 209 of this title and, upon proof of such conduct by a preponderance of the evidence, such person shall be subject to a civil penalty of not more than $50,000 for each violation or the amount of compensation which the person received or offered for the prohibited conduct, whichever amount is greater. The imposition of a civil penalty under this subsection does not preclude any other criminal or civil statutory, common law, or administrative remedy, which is available by law to the United States or any other person.
+(b) The Attorney General may bring a civil action in the appropriate United States district court against any person who engages in conduct constituting an offense under section 203, 204, 205, 207, 208, or 209 of this title and, upon proof of such conduct by a preponderance of theevidence, such person shall be subject to a civil penalty of not more than $50,000 for each violation or the amount of compensation which the person received or offered for the prohibited conduct, whichever amount is greater. The imposition of a civil penalty under this subsection does not preclude any other criminal or civil statutory, common law, or administrative remedy, which is available by law to the United States or any other person.
 
 (c) If the Attorney General has reason to believe that a person is engaging in conduct constituting an offense under section 203, 204, 205, 207, 208, or 209 of this title, the Attorney General may petition an appropriate United States district court for an order prohibiting that person from engaging in such conduct. The court may issue an order prohibiting that person from engaging in such conduct if the court finds that the conduct constitutes such an offense. The filing of a petition under this section does not preclude any other remedy which is available by law to the United States or any other person.
 
@@ -20,7 +20,7 @@ Another prior section 216, act June 25, 1948, ch. 645, 62 Stat. 694, which relat
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–280, §5(f)(1), substituted “section 203, 204, 205, 207, 208, or 209” for “sections 203, 204, 205, 207, 208, and 209”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–280, §5(f)(1), substituted "section 203, 204, 205, 207, 208, or 209" for "sections 203, 204, 205, 207, 208, and 209".
 
-Subsec. (b). Pub. L. 101–280, §5(f)(2), substituted “section 203, 204, 205, 207, 208, or 209” for “sections 203, 204, 205, 207, 208, and 209”.
+Subsec. (b). Pub. L. 101–280, §5(f)(2), substituted "section 203, 204, 205, 207, 208, or 209" for "sections 203, 204, 205, 207, 208, and 209".
 

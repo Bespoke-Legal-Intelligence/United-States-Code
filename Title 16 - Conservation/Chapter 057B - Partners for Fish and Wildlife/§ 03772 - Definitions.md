@@ -4,17 +4,17 @@ In this chapter:
 
 #### (1) Federal trust species
 
-&emsp;The term “Federal trust species” means migratory birds, threatened species, endangered species, interjurisdictional fish, marine mammals, and other species of concern.
+&emsp;The term "Federal trust species" means migratory birds, threatened species, endangered species, interjurisdictional fish, marine mammals, and other species of concern.
 
 #### (2) Habitat enhancement
 
 #### (A) In general
 
-&emsp;&emsp;The term “habitat enhancement” means the manipulation of the physical, chemical, or biological characteristics of a habitat to change a specific function or seral stage of the habitat.
+&emsp;&emsp;The term "habitat enhancement" means the manipulation of the physical, chemical, or biological characteristics of a habitat tochange a specific function or seral stage of the habitat.
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “habitat enhancement” includes—
+&emsp;&emsp;The term "habitat enhancement" includes—
 
 &emsp;&emsp;&emsp;(i) an activity conducted to increase or decrease a specific function for the purpose of benefitting species, including—
 
@@ -38,11 +38,11 @@ In this chapter:
 
 #### (C) Exclusions
 
-&emsp;&emsp;The term “habitat enhancement” does not include regularly scheduled and routine maintenance and management activities, such as annual mowing or spraying of unwanted vegetation.
+&emsp;&emsp;The term "habitat enhancement" does not include regularly scheduled and routine maintenance and management activities, such as annual mowing or spraying of unwanted vegetation.
 
 #### (3) Habitat establishment
 
-&emsp;The term “habitat establishment” means the manipulation of physical, chemical, or biological characteristics of a project site to create and maintain habitat that did not previously exist on the project site, including construction of—
+&emsp;The term "habitat establishment" means the manipulation of physical, chemical, or biological characteristics of a project site to create and maintain habitat that did not previously exist on the project site, including construction of—
 
 &emsp;&emsp;(A) shallow water impoundments on non-hydric soils; and
 
@@ -50,17 +50,17 @@ In this chapter:
 
 #### (4) Habitat improvement
 
-&emsp;The term “habitat improvement” means restoring, enhancing, or establishing physiographic, hydrological, or disturbance conditions necessary to establish or maintain native plant and animal communities, including periodic manipulations to maintain intended habitat conditions on completed project sites.
+&emsp;The term "habitat improvement" means restoring, enhancing, or establishing physiographic, hydrological, or disturbance conditions necessary to establish or maintain native plant and animal communities, including periodic manipulations to maintain intended habitat conditions on completed project sites.
 
 #### (5) Habitat restoration
 
 #### (A) In general
 
-&emsp;&emsp;The term “habitat restoration” means the manipulation of the physical, chemical, or biological characteristics of a site with the goal of returning the majority of natural functions to the lost or degraded native habitat.
+&emsp;&emsp;The term "habitat restoration" means the manipulation of the physical, chemical, or biological characteristics of a site with the goal of returning the majority of natural functions to the lost or degraded native habitat.
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “habitat restoration” includes—
+&emsp;&emsp;The term "habitat restoration" includes—
 
 &emsp;&emsp;&emsp;(i) an activity conducted to return a project site, to the maximum extent practicable, to the ecological condition that existed prior to the loss or degradation, including—
 
@@ -84,19 +84,19 @@ In this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “private land” means any land that is not owned by the Federal Government or a State.
+&emsp;&emsp;The term "private land" means any land that is not owned by the Federal Government or a State.
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “private land” includes tribal land and Hawaiian homeland.
+&emsp;&emsp;The term "private land" includes tribal land and Hawaiian homeland.
 
 #### (7) Project
 
-&emsp;The term “project” means a project carried out under the Partners for Fish and Wildlife Program established by section 3773 of this title.
+&emsp;The term "project" means a project carried out under the Partners for Fish and Wildlife Program established by section 3773 of this title.
 
 #### (8) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior.
+&emsp;The term "Secretary" means the Secretary of the Interior.
 
 (Pub. L. 109–294, §3, Oct. 3, 2006, 120 Stat. 1352.)
 

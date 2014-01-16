@@ -18,11 +18,11 @@
 
 (2) For purposes of this section, other than subsection (h) of this section—
 
-&emsp;(A) the term “personally identifiable information” does not include any record of aggregate data which does not identify particular persons;
+&emsp;(A) the term "personally identifiable information" does not include any record of aggregate data which does not identify particular persons;
 
-&emsp;(B) the term “other service” includes any wire or radio communications service provided using any of the facilities of a cable operator that are used in the provision of cable service; and
+&emsp;(B) the term "other service" includes any wire or radio communications service provided using any of the facilities of a cable operator that are used in the provision of cable service; and
 
-&emsp;(C) the term “cable operator” includes, in addition to persons within the definition of cable operator in section 522 of this title, any person who (i) is owned or controlled by, or under common ownership or control with, a cable operator, and (ii) provides any wire or radio communications service.
+&emsp;(C) the term "cable operator" includes, in addition to persons within the definition of cable operator in section 522 of this title, any person who (i) is owned or controlled by, or under common ownership or control with, a cable operator, and (ii) provides any wire or radio communications service.
 
 #### (b) Collection of personally identifiable information using cable system
 
@@ -74,7 +74,7 @@ A cable operator shall destroy personally identifiable information if the inform
 
 &emsp;(B) punitive damages; and
 
-&emsp;(C) reasonable attorneys’ fees and other litigation costs reasonably incurred.
+&emsp;(C) reasonable attorneys' fees and other litigation costs reasonably incurred.
 
 (3) The remedy provided by this section shall be in addition to any other lawful remedy available to a cable subscriber.
 
@@ -94,17 +94,17 @@ Except as provided in subsection (c)(2)(D) of this section, a governmental entit
 
 #### References in Text
 
-For “the effective date of this section”, referred to in subsec. (a)(1), as 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
+For "the effective date of this section", referred to in subsec. (a)(1), as 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
 
 #### Amendments
 
 <b>2001</b>—Subsec. (c)(2)(D). Pub. L. 107–56, §211(1), added subpar. (D).
 
-Subsec. (h). Pub. L. 107–56, §211(2), substituted “Except as provided in subsection (c)(2)(D) of this section, a governmental entity” for “A governmental entity” in introductory provisions.
+Subsec. (h). Pub. L. 107–56, §211(2), substituted "Except as provided in subsection (c)(2)(D) of this section, a governmental entity" for "A governmental entity" in introductory provisions.
 
-<b>1992</b>—Subsec. (a)(2). Pub. L. 102–385, §20(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of this section, the term ‘personally identifiable information’ does not include any record of aggregate data which does not identify particular persons.”
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–385, §20(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "For purposes of this section, the term 'personally identifiable information' does not include any record of aggregate data which does not identify particular persons."
 
-Subsec. (c)(1). Pub. L. 102–385, §20(b), inserted before period at end “and shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or cable operator”.
+Subsec. (c)(1). Pub. L. 102–385, §20(b), inserted before period at end "and shall take such actions as are necessary to prevent unauthorized access to such information by a person other than the subscriber or cable operator".
 
 #### Effective Date of 1992 Amendment
 

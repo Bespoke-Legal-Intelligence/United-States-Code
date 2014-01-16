@@ -100,7 +100,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “United States account” means any financial account which is held by one or more specified United States persons or United States owned foreign entities.
+&emsp;&emsp;The term "United States account" means any financial account which is held by one or more specified United States persons or United States owned foreign entities.
 
 #### (B) Exception for certain accounts held by individuals
 
@@ -122,7 +122,7 @@ For purposes of this section—
 
 #### (2) Financial account
 
-&emsp;Except as otherwise provided by the Secretary, the term “financial account” means, with respect to any financial institution—
+&emsp;Except as otherwise provided by the Secretary, the term "financial account" means, with respect to any financial institution—
 
 &emsp;&emsp;(A) any depository account maintained by such financial institution,
 
@@ -134,15 +134,15 @@ For purposes of this section—
 
 #### (3) United States owned foreign entity
 
-&emsp;The term “United States owned foreign entity” means any foreign entity which has one or more substantial United States owners.
+&emsp;The term "United States owned foreign entity" means any foreign entity which has one or more substantial United States owners.
 
 #### (4) Foreign financial institution
 
-&emsp;The term “foreign financial institution” means any financial institution which is a foreign entity. Except as otherwise provided by the Secretary, such term shall not include a financial institution which is organized under the laws of any possession of the United States.
+&emsp;The term "foreign financial institution" means any financial institution which is a foreign entity. Except as otherwise provided by the Secretary, such term shall not include a financial institution which is organized under the laws of any possession of the United States.
 
 #### (5) Financial institution
 
-&emsp;Except as otherwise provided by the Secretary, the term “financial institution” means any entity that—
+&emsp;Except as otherwise provided by the Secretary, the term "financial institution" means any entity that—
 
 &emsp;&emsp;(A) accepts deposits in the ordinary course of a banking or similar business,
 
@@ -152,7 +152,7 @@ For purposes of this section—
 
 #### (6) Recalcitrant account holder
 
-&emsp;The term “recalcitrant account holder” means any account holder which—
+&emsp;The term "recalcitrant account holder" means any account holder which—
 
 &emsp;&emsp;(A) fails to comply with reasonable requests for the information referred to in subsection (b)(1)(A) or (c)(1)(A), or
 
@@ -160,7 +160,7 @@ For purposes of this section—
 
 #### (7) Passthru payment
 
-&emsp;The term “passthru payment” means any withholdable payment or other payment to the extent attributable to a withholdable payment.
+&emsp;The term "passthru payment" means any withholdable payment or other payment to the extent attributable to a withholdable payment.
 
 #### (e) Affiliated groups
 
@@ -174,9 +174,9 @@ For purposes of this section—
 
 #### (2) Expanded affiliated group
 
-&emsp;For purposes of this section, the term “expanded affiliated group” means an affiliated group as defined in section 1504(a), determined—
+&emsp;For purposes of this section, the term "expanded affiliated group" means an affiliated group as defined in section 1504(a), determined—
 
-&emsp;&emsp;(A) by substituting “more than 50 percent” for “at least 80 percent” each place it appears, and
+&emsp;&emsp;(A) by substituting "more than 50 percent" for "at least 80 percent" each place it appears, and
 
 &emsp;&emsp;(B) without regard to paragraphs (2) and (3) of section 1504(b).
 
@@ -204,21 +204,21 @@ A prior section 1471, act Aug. 16, 1954, ch. 736, 68A Stat. 361, related to reco
 
 Pub. L. 111–147, title V, §501(d), Mar. 18, 2010, 124 Stat. 106, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this chapter and amending sections 6414, 6501, 6513, 6611, and 6724 of this title\] shall apply to payments made after December 31, 2012.
 
-“(2)
+"(2)
 
 Grandfathered treatment of outstanding obligations.—The amendments made by this section shall not require any amount to be deducted or withheld from any payment under any obligation outstanding on the date which is 2 years after the date of the enactment of this Act \[Mar. 18, 2010\] or from the gross proceeds from any disposition of such an obligation.
 
-“(3)
+"(3)
 
 Interest on overpayments.—The amendment made by subsection (b) \[amending section 6611 of this title\] shall apply—
 
-&emsp;“(A) in the case of such amendment's application to paragraph (1) of section 6611(e) of the Internal Revenue Code of 1986, to returns the due date for which (determined without regard to extensions) is after the date of the enactment of this Act,
+&emsp;"(A) in the case of such amendment's application to paragraph (1) of section 6611(e) of the Internal Revenue Code of 1986, to returns the due date for which (determined without regard to extensions) is after the date of the enactment of this Act,
 
-&emsp;“(B) in the case of such amendment's application to paragraph (2) of such section, to claims for credit or refund of any overpayment filed after the date of the enactment of this Act (regardless of the taxable period to which such refund relates), and
+&emsp;"(B) in the case of such amendment's application to paragraph (2) of such section, to claims for credit or refund of any overpayment filed after the date of the enactment of this Act (regardless of the taxable period to which such refund relates), and
 
-&emsp;“(C) in the case of such amendment's application to paragraph (3) of such section, to refunds paid after the date of the enactment of this Act (regardless of the taxable period to which such refund relates).”
+&emsp;"(C) in the case of such amendment's application to paragraph (3) of such section, to refunds paid after the date of the enactment of this Act (regardless of the taxable period to which such refund relates)."
 

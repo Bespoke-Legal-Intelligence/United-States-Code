@@ -10,7 +10,7 @@ Each right-of-way or permit granted, issued, or renewed pursuant to this section
 
 #### (c) Applicability of regulations or stipulations
 
-Rights-of-way shall be granted, issued, or renewed pursuant to this subchapter under suchregulations or stipulations, consistent with the provisions of this subchapter or any other applicable law, and shall also be subject to such terms and conditions as the Secretary concerned may prescribe regarding extent, duration, survey, location, construction, maintenance, transfer or assignment, and termination.
+Rights-of-way shall be granted, issued, or renewed pursuant to this subchapter under such regulations or stipulations, consistent with the provisions of this subchapter or any other applicable law, and shall also be subject to such terms and conditions as the Secretary concerned may prescribe regarding extent, duration, survey, location, construction, maintenance, transfer or assignment, and termination.
 
 #### (d) Submission of plan of construction, operation, and rehabilitation by new project applicants; plan requirements
 
@@ -36,7 +36,7 @@ The holder of a right-of-way shall pay in advance the fair market value thereof,
 
 #### (i) Bond or security requirements
 
-Where he deems it appropriate, the Secretary concerned may require a holder of a right-of-way to furnish a bond, or other security, satisfactory to him to secure all or any of the obligations imposed by the terms and conditions ofthe right-of-way or by any rule or regulation of the Secretary concerned.
+Where he deems it appropriate, the Secretary concerned may require a holder of a right-of-way to furnish a bond, or other security, satisfactory to him to secure all or any of the obligations imposed by the terms and conditions of the right-of-way or by any rule or regulation of the Secretary concerned.
 
 #### (j) Criteria for grant, issue, or renewal of right-of-way
 
@@ -50,17 +50,17 @@ The Rural Electrification Act of 1936, referred to in subsec. (g), is act May 20
 
 #### Amendments
 
-<b>1996</b>—Subsec. (g). Pub. L. 104–333 substituted “eligible for financing pursuant to the Rural Electrification Act of 1936, as amended, determined without regard to any application requirement under that Act,” for “financed pursuant to the Rural Electrification Act of 1936, as amended,”.
+<b>1996</b>—Subsec. (g). Pub. L. 104–333 substituted "eligible for financing pursuant to the Rural Electrification Act of 1936, as amended, determined without regard to any application requirement under that Act," for "financed pursuant to the Rural Electrification Act of 1936, as amended,".
 
-<b>1986</b>—Subsec. (f). Pub. L. 99–545, §2(1), inserted before the period at end “or for emergency repair work necessary for those rights-of-way authorized under section 1761(c) of this title”.
+<b>1986</b>—Subsec. (f). Pub. L. 99–545, §2(1), inserted before the period at end "or for emergency repair work necessary for those rights-of-way authorized under section 1761(c) of this title".
 
-Subsec. (g). Pub. L. 99–545, §2(2), substituted “The holder of a right-of-way shall pay in advance the fair market value thereof, as determined by the Secretary granting, issuing, or renewing such right-of-way. The Secretary concerned may require either annual payment or a payment covering more than one year at a time except that private individuals may make at their option either annual payments or payments covering more than one year if the annual fee is greater than one hundred dollars. The Secretary concerned may waive rentals where a right-of-way is granted, issued or renewed in consideration of a right-of-way conveyed to the United States in connection with a cooperative cost share program between the United States and the holder.” for “The holder of a right-of-way shall pay annually in advance the fair market value thereof as determined by the Secretary granting, issuing, or renewing such right-of-way: <i>Provided</i>, That when the annual rental is less than $100, the Secretary concerned may require advance payment for more than one year at a time: <i>Provided further</i>, That the Secretary concerned may waive rentals where a right-of-way is granted, issued, or renewed in reciprocation for a right-of-way conveyed to the United States in connection with a cooperative cost share program between the United States and the holder.”
+Subsec. (g). Pub. L. 99–545, §2(2), substituted "The holder of a right-of-way shall pay in advance the fair market value thereof, as determined by the Secretary granting, issuing, or renewing such right-of-way. The Secretary concerned may require either annual payment or a payment covering more than one year at a time except that private individuals may make at their option either annual payments or payments covering more than one year if the annual fee is greater than one hundred dollars. The Secretary concerned may waive rentals where a right-of-way is granted, issued or renewed in consideration of a right-of-way conveyed to the United States in connection with a cooperative cost share program between the United States and the holder." for "The holder of a right-of-way shall pay annually in advance the fair market value thereof as determined by the Secretary granting, issuing, or renewingsuch right-of-way: <i>Provided</i>, That when the annual rental is less than $100, the Secretary concerned may require advance payment for more than one year at a time: <i>Provided further</i>, That the Secretary concerned may waive rentals where a right-of-way is granted, issued, or renewed in reciprocation for a right-of-way conveyed to the United States in connection with a cooperative cost share program between the United States and the holder."
 
-<b>1984</b>—Subsec. (g). Pub. L. 98–300 inserted at end “Rights-of-way shall be granted, issued, or renewed, without rental fees, for electric or telephone facilities financed pursuant to the Rural Electrification Act of 1936, as amended, or any extensions from such facilities: <i>Provided</i>, That nothing in this sentence shall be construed to affect the authority of the Secretary granting, issuing, or renewing the right-of-way to require reimbursement of reasonable administrative and other costs pursuant to the second sentence of this subsection.”
+<b>1984</b>—Subsec. (g). Pub. L. 98–300 inserted at end "Rights-of-way shall be granted, issued, or renewed, without rental fees, for electric or telephone facilities financed pursuant to the Rural Electrification Act of 1936, as amended, or any extensions from such facilities: <i>Provided</i>, That nothing in this sentence shall be construed to affect the authority of the Secretary granting, issuing, or renewing the right-of-way to require reimbursement of reasonable administrative and other costs pursuant to the second sentence of this subsection."
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–333, div. I, title X, §1032(b), Nov. 12, 1996, 110 Stat. 4239, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to rights-of-way leases held on or after the date of enactment of this Act \[Nov. 12, 1996\].”
+Pub. L. 104–333, div. I, title X, §1032(b), Nov. 12, 1996, 110 Stat. 4239, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to rights-of-way leases held on or after the date of enactment of this Act \[Nov. 12, 1996\]."
 
 #### Transfer of Functions
 

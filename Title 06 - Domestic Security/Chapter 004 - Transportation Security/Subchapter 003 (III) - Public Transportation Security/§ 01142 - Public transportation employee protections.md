@@ -48,7 +48,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 #### (1) Filing and notification
 
-&emsp;A person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) or (b) may, not later than 180 days after the date on which such violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor alleging such discharge or discrimination. Upon receipt of a complaint filed under thisparagraph, the Secretary of Labor shall notify, in writing, the person named in the complaint and the person's employer of the filing of the complaint, of the allegations contained in the complaint, of the substance of evidence supporting the complaint, and of the opportunities that will be afforded to such person under paragraph (2).
+&emsp;A person who believes that he or she has been discharged or otherwise discriminated against by any person in violation of subsection (a) or (b) may, not later than 180 days after the date on which such violation occurs, file (or have any person file on his or her behalf) a complaint with the Secretary of Labor alleging such discharge or discrimination. Upon receipt of a complaint filed under this paragraph, the Secretary of Labor shall notify, in writing, the person named in the complaint and the person's employer of the filing of the complaint, of the allegations contained in the complaint, of the substance of evidence supporting the complaint, and of the opportunities that will be afforded to such person under paragraph (2).
 
 #### (2) Investigation; preliminary order
 
@@ -100,7 +100,7 @@ A public transportation agency, a contractor or a subcontractor of such agency, 
 
 #### (A) Appeal to Court of Appeals
 
-&emsp;&emsp;Any person adversely affected or aggrieved by an order issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit inwhich the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. Review shall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
+&emsp;&emsp;Any person adversely affected or aggrieved by an order issued under paragraph (3) may obtain review of the order in the United States Court of Appeals for the circuit in which the violation, with respect to which the order was issued, allegedly occurred or the circuit in which the complainant resided on the date of such violation. The petition for review must be filed not later than 60 days after the date of the issuance of the final order of the Secretary of Labor. Reviewshall conform to chapter 7 of title 5. The commencement of proceedings under this subparagraph shall not, unless ordered by the court, operate as a stay of the order.
 
 #### (B) Limitation on collateral attack
 
@@ -174,7 +174,7 @@ Nothing in this section shall be construed to diminish the rights, privileges, o
 
 #### (3) Steps to address problem
 
-&emsp;The Secretary shall review and consider the information provided in any report submitted under paragraph (1) and shall take appropriate steps to address any problems or deficiencies identified.
+&emsp;The Secretary shall review and consider the information provided in any report submittedunder paragraph (1) and shall take appropriate steps to address any problems or deficiencies identified.
 
 (Pub. L. 110–53, title XIV, §1413, Aug. 3, 2007, 121 Stat. 414.)
 

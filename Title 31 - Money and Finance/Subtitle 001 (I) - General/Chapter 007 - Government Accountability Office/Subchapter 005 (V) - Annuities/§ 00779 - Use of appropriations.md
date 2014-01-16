@@ -24,9 +24,9 @@ June 10, 1921, ch. 18, 42 Stat. 20, §303(2d par. 3d sentence); added July 28, 1
 
 June 10, 1921, ch. 18, 42 Stat. 20, §319(r); added July 13, 1959, Pub. L. 86–87, 73 Stat. 200.
 
-The words “of deposits” in 31:43b(r) are omitted as surplus.
+The words "of deposits" in 31:43b(r) are omitted as surplus.
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 

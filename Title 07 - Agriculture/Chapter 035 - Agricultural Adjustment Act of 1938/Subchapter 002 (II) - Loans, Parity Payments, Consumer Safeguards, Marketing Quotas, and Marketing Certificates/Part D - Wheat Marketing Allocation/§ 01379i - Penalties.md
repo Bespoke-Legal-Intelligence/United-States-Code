@@ -24,7 +24,7 @@ This part, referred to in subsecs. (b) and (c), commences with section 1379a of 
 
 #### Amendments
 
-<b>1965</b>—Subsecs. (a), (b). Pub. L. 89–321 inserted “knowingly” after “who” wherever appearing.
+<b>1965</b>—Subsecs. (a), (b). Pub. L. 89–321 inserted "knowingly" after "who" wherever appearing.
 
 #### Effective Date of 1965 Amendment
 
@@ -32,7 +32,7 @@ Pub. L. 89–321, title V, §510(b), Nov. 3, 1965, 79 Stat. 1205, provided that 
 
 #### Inapplicability of Section
 
-Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicableto milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(3) of this title.
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(3) of this title.
 
 Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
 

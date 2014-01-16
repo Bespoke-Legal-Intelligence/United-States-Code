@@ -6,19 +6,19 @@ At such intervals as the board of directors may authorize, and after provision f
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–320 substituted “the board of directors may declare” for “the board may declare” and “Dividends credited” for “Dividend credit”, and inserted provision that if the par value of a share exceeds $5, dividends shall be paid on all funds in the regular share account once a full share has been published.
+<b>1982</b>—Pub. L. 97–320 substituted "the board of directors may declare" for "the board may declare" and "Dividends credited" for "Dividend credit", and inserted provision that if the par value of a share exceeds $5, dividends shall be paid on all funds in the regular share account once a full share has been published.
 
-<b>1980</b>—Pub. L. 96–221, §207(b)(10), struck out “, pursuant to such regulations as may be issued by the Board,” after “declare”.
+<b>1980</b>—Pub. L. 96–221, §207(b)(10), struck out ", pursuant to such regulations as may be issued by the Board," after "declare".
 
 Pub. L. 96–221, §305(c), inserted provisions relating to share draft accounts.
 
-<b>1978</b>—Pub. L. 95–630 substituted “Board” for “Administrator”.
+<b>1978</b>—Pub. L. 95–630 substituted "Board" for "Administrator".
 
-<b>1977</b>—Pub. L. 95–22 substituted “the board may declare, pursuant to such regulations as may be issued by the Administrator, a dividend to be paid at different rates on different types of shares and at different rates and maturity dates in the case of share certificates” for “the board of directors may declare a dividend to be paid from the remaining net earnings” and “accrued on various types of shares and share certificates” for “accrued on shares” and struck out provision that such dividends shall be paid on all paid-up shares outstanding at the end of the period for which the dividend is declared and provision that shares which become fully paid up during such dividend period and are outstanding at the close of the period shall be entitled to a proportional part of such dividend.
+<b>1977</b>—Pub. L. 95–22 substituted "the board may declare, pursuant to such regulations as may be issued by the Administrator, a dividend to be paid at different rates on different types of shares and at different rates and maturity dates in the case of share certificates" for "the board of directors may declare a dividend to be paid from the remaining net earnings" and "accrued on various types of shares and share certificates" for "accrued on shares" and struck out provision that such dividends shall be paid on all paid-up shares outstanding at the end of the period for which the dividend is declared and provision that shares which become fully paid up during such dividend period and are outstanding at the close of the period shall be entitled to a proportional part of such dividend.
 
-<b>1974</b>—Pub. L. 93–383 substituted “At such intervals as the board of directors may authorize” for “Annually, semiannually, or quarterly, as the bylaws may provide”, and “Dividend credit may be accrued on shares as authorized by the board of directors” for “Dividend credit for a month may be accrued on shares which are or become fully paid up during the first ten days of that month”.
+<b>1974</b>—Pub. L. 93–383 substituted "At such intervals as the board of directors may authorize" for "Annually, semiannually, or quarterly, as the bylaws may provide", and "Dividend credit may be accrued on shares as authorized by the board of directors" for "Dividend credit for a month may be accrued on shares which are or become fully paid up during the first ten days of that month".
 
-<b>1967</b>—Pub. L. 90–188 inserted “or quarterly” after “semiannually” and substituted “ten” for “five”.
+<b>1967</b>—Pub. L. 90–188 inserted "or quarterly" after "semiannually" and substituted "ten" for "five".
 
 <b>1959</b>—Pub. L. 86–354 authorized semiannual dividends, empowered the board of directors to declare them instead of only recommend them, and provided for dividend credit.
 

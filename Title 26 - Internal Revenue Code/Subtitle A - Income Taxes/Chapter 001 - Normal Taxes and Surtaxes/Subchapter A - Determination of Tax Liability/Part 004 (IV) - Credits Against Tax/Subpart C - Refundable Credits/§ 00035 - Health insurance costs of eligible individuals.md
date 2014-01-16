@@ -10,7 +10,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “eligible coverage month” means any month if—
+&emsp;The term "eligible coverage month" means any month if—
 
 &emsp;&emsp;(A) as of the first day of such month, the taxpayer—
 
@@ -34,7 +34,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “eligible individual” means—
+&emsp;The term "eligible individual" means—
 
 &emsp;&emsp;(A) an eligible TAA recipient,
 
@@ -46,11 +46,11 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “eligible TAA recipient” means, with respect to any month, any individual who is receiving for any day of such month a trade readjustment allowance under chapter 2 of title II of the Trade Act of 1974 or who would be eligible to receive such allowance if section 231 of such Act were applied without regard to subsection (a)(3)(B) of such section. An individual shall continue to be treated as an eligible TAA recipient during the first month that such individual would otherwise cease to be an eligible TAA recipient by reason of the preceding sentence.
+&emsp;&emsp;Except as provided in subparagraph (B), the term "eligible TAA recipient" means, with respect to any month, any individual who is receiving for any day of such month a trade readjustment allowance under chapter 2 of title II of the Trade Act of 1974 or who would be eligible to receive such allowance if section 231 of such Act were applied without regard to subsection (a)(3)(B) of such section. An individual shall continue to be treated as an eligible TAA recipient during the first month that such individual would otherwise cease to be an eligible TAA recipient by reason of the preceding sentence.
 
 #### (B) Special rule
 
-&emsp;&emsp;In the case of any eligible coverage month beginning after the date of the enactment of this paragraph, the term “eligible TAA recipient” means, with respect to any month, any individual who—
+&emsp;&emsp;In the case of any eligible coverage month beginning after the date of the enactment of this paragraph, the term "eligible TAA recipient" means, with respect to any month, any individual who—
 
 &emsp;&emsp;&emsp;(i) is receiving for any day of such month a trade readjustment allowance under chapter 2 of title II of the Trade Act of 1974,
 
@@ -62,7 +62,7 @@ For purposes of this section—
 
 #### (3) Eligible alternative TAA recipient
 
-&emsp;The term “eligible alternative TAA recipient” means, with respect to any month, any individual who—
+&emsp;The term "eligible alternative TAA recipient" means, with respect to any month, any individual who—
 
 &emsp;&emsp;(A) is a worker described in section 246(a)(3)(B) of the Trade Act of 1974 who is participating in the program established under section 246(a)(1) of such Act, and
 
@@ -72,7 +72,7 @@ For purposes of this section—
 
 #### (4) Eligible PBGC pension recipient
 
-&emsp;The term “eligible PBGC pension recipient” means, with respect to any month, any individual who—
+&emsp;The term "eligible PBGC pension recipient" means, with respect to any month, any individual who—
 
 &emsp;&emsp;(A) has attained age 55 as of the first day of such month, and
 
@@ -84,7 +84,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualifying family member” means—
+&emsp;The term "qualifying family member" means—
 
 &emsp;&emsp;(A) the taxpayer's spouse, and
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualified health insurance” means any of the following:
+&emsp;The term "qualified health insurance" means any of the following:
 
 &emsp;&emsp;(A) Coverage under a COBRA continuation provision (as defined in section 9832(d)(1)).
 
@@ -138,15 +138,15 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) in the case of any eligible PBGC pension recipient, the benefit described in subsection (c)(4)(B).
 
-> &emsp;&emsp;For purposes of this subparagraph, the term “individual health insurance” means any insurance which constitutes medical care offered to individuals other than in connection with a group health plan and does not include Federal- or State-based health insurance coverage.
+> &emsp;&emsp;For purposes of this subparagraph, the term "individual health insurance" means any insurance which constitutes medical care offered to individuals other than in connection with a group health plan and does not include Federal- or State-based health insurance coverage.
 
-&emsp;&emsp;(K) Coverage under an employee benefit plan funded by a voluntary employees’ beneficiary association (as defined in section 501(c)(9)) established pursuant to an order of a bankruptcy court, or by agreement with an authorized representative, as provided in section 1114 of title 11, United States Code.
+&emsp;&emsp;(K) Coverage under an employee benefit plan funded by a voluntary employees' beneficiary association (as defined in section 501(c)(9)) established pursuant to an order of a bankruptcy court, or by agreement with an authorized representative, as provided in section 1114 of title 11, United States Code.
 
 #### (2) Requirements for state-based coverage
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified health insurance” does not include any coverage described in subparagraphs (B) through (H) of paragraph (1) unless the State involved has elected to have such coverage treated as qualified health insurance under this section and such coverage meets the following requirements:
+&emsp;&emsp;The term "qualified health insurance" does not include any coverage described in subparagraphs (B) through (H) of paragraph (1) unless the State involved has elected to have such coverage treated as qualified health insurance under this section and such coverage meets the following requirements:
 
 #### (i) Guaranteed issue
 
@@ -166,7 +166,7 @@ For purposes of this section—
 
 #### (B) Qualifying individual
 
-&emsp;&emsp;For purposes of this paragraph, the term “qualifying individual” means—
+&emsp;&emsp;For purposes of this paragraph, the term "qualifying individual" means—
 
 &emsp;&emsp;&emsp;(i) an eligible individual for whom, as of the date on which the individual seeks to enroll in the coverage described in subparagraphs (B) through (H) of paragraph (1), the aggregate of the periods of creditable coverage (as defined in section 9801(c)) is 3 months or longer and who, with respect to any month, meets the requirements of clauses (iii) and (iv) of subsection (b)(1)(A); and
 
@@ -174,7 +174,7 @@ For purposes of this section—
 
 #### (3) Exception
 
-&emsp;The term “qualified health insurance” shall not include—
+&emsp;The term "qualified health insurance" shall not include—
 
 &emsp;&emsp;(A) a flexible spending or similar arrangement, and
 
@@ -318,29 +318,29 @@ Another prior section 35, acts Aug. 16, 1954, ch. 736, 68A Stat. 14; Sept. 2, 19
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–40, §241(b)(1), substituted “72.5 percent” for “65 percent (80 percent in the case of eligible coverage months beginning before February 13, 2011)”.
+<b>2011</b>—Subsec. (a). Pub. L. 112–40, §241(b)(1), substituted "72.5 percent" for "65 percent (80 percent in the case of eligible coverage months beginning before February 13, 2011)".
 
-Subsec. (b)(1)(B). Pub. L. 112–40, §241(a), inserted “, and before January 1, 2014” after “2002”.
+Subsec. (b)(1)(B). Pub. L. 112–40, §241(a), inserted ", and before January 1, 2014" after "2002".
 
-Subsec. (c)(2)(B). Pub. L. 112–40, §241(b)(3)(A), struck out “and before February 13, 2011” after “paragraph” in introductory provisions.
+Subsec. (c)(2)(B). Pub. L. 112–40, §241(b)(3)(A), struck out "and before February 13, 2011" after "paragraph" in introductory provisions.
 
-Subsec. (e)(1)(K). Pub. L. 112–40, §241(b)(3)(B), substituted “Coverage” for “In the case of eligible coverage months beginning before February 13, 2012, coverage”.
+Subsec. (e)(1)(K). Pub. L. 112–40, §241(b)(3)(B), substituted "Coverage" for "In the case of eligible coverage months beginning before February 13, 2012, coverage".
 
-Subsec. (g)(9). Pub. L. 112–40, §241(b)(3)(C), in par. (9) relating to continued qualification of family members after certain events, struck out introductory provisions which read as follows: “In the case of eligible coverage months beginning before February 13, 2011—”.
+Subsec. (g)(9). Pub. L. 112–40, §241(b)(3)(C), in par. (9) relating to continued qualification of family members after certain events, struck out introductory provisions which read as follows: "In the case of eligible coverage months beginning before February 13, 2011—".
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–344, §111(a), substituted “February 13, 2011” for “January 1, 2011”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–344, §111(a), substituted "February 13, 2011" for "January 1, 2011".
 
-Subsec. (c)(2)(B). Pub. L. 111–344, §113(a), substituted “February 13, 2011” for “January 1, 2011” in introductory provisions.
+Subsec. (c)(2)(B). Pub. L. 111–344, §113(a), substituted "February 13, 2011" for "January 1, 2011" in introductory provisions.
 
-Subsec. (e)(1)(K). Pub. L. 111–344, §117(a), substituted “February 13, 2012” for “January 1, 2011”.
+Subsec. (e)(1)(K). Pub. L. 111–344, §117(a), substituted "February 13, 2012" for "January 1, 2011".
 
-Subsec. (g)(9). Pub. L. 111–344, §115(a), substituted “February 13, 2011” for “January 1, 2011”, in par. (9) relating to continued qualification of family members after certain events.
+Subsec. (g)(9). Pub. L. 111–344, §115(a), substituted "February 13, 2011" for "January 1, 2011", in par. (9) relating to continued qualification of family members after certain events.
 
-Pub. L. 111–144, which directed amendment of par. (9) by substituting “section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009” for “section 3002(a) of the Health Insurance Assistance for the Unemployed Act of 2009”, was executed by making the substitution in par. (9) relating to COBRA premium assistance, to reflect the probable intent of Congress.
+Pub. L. 111–144, which directed amendment of par. (9) by substituting "section 3001(a) of title III of division B of the American Recovery and Reinvestment Act of 2009" for "section 3002(a) of the Health Insurance Assistance for the Unemployed Act of 2009", was executed by making the substitution in par. (9) relating to COBRA premium assistance, to reflect the probable intent of Congress.
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–5, §1899A(a)(1), inserted “(80 percent in the case of eligible coverage months beginning before January 1, 2011)” after “65 percent”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–5, §1899A(a)(1), inserted "(80 percent in the case of eligible coverage months beginning before January 1, 2011)" after "65 percent".
 
-Subsec. (c)(2). Pub. L. 111–5, §1899C(a), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘eligible TAA recipient’ means, with respect to any month, any individual who is receiving for any day of such month a trade readjustment allowance under chapter 2 of title II of the Trade Act of 1974 or who would be eligible to receive such allowance if section 231 of such Act were applied without regard to subsection (a)(3)(B) of such section. An individual shall continue to be treated as an eligible TAA recipient during the first month that such individual would otherwise cease to be an eligible TAA recipient by reason of the preceding sentence.”
+Subsec. (c)(2). Pub. L. 111–5, §1899C(a), amended par. (2) generally. Prior to amendment, text read as follows: "The term 'eligible TAA recipient' means, with respect to any month, any individual who is receiving for any day of such month a trade readjustment allowance under chapter 2 of title II of the Trade Act of 1974 or who would be eligible to receive such allowance if section 231 of such Act were applied without regard to subsection (a)(3)(B) of such section. An individual shall continue to be treated as an eligible TAA recipient during the first month that such individual would otherwise cease to be an eligible TAA recipient by reason of the preceding sentence."
 
 Subsec. (e)(1)(K). Pub. L. 111–5, §1899G(a), added subpar. (K).
 
@@ -348,35 +348,35 @@ Subsec. (g)(9), (10). Pub. L. 111–5, §3001(a)(14)(A), added par. (9) relating
 
 Pub. L. 111–5, §1899E(a), which directed addition of par. (9) and redesignation of par. (9) as (10), was executed by only adding par. (9) relating to continued qualification of family members after certain events.
 
-<b>2007</b>—Subsec. (d)(2). Pub. L. 110–172 struck out “paragraph (2) or (4) of” before “section 152(e)” and substituted “(as defined in section 152(e)(4)(A))” for “(within the meaning of section 152(e)(1))”.
+<b>2007</b>—Subsec. (d)(2). Pub. L. 110–172 struck out "paragraph (2) or (4) of" before "section 152(e)" and substituted "(as defined in section 152(e)(4)(A))" for "(within the meaning of section 152(e)(1))".
 
-<b>2004</b>—Subsec. (g)(3). Pub. L. 108–311 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “Amounts distributed from an Archer MSA (as defined in section 220(d)) shall not be taken into account under subsection (a).”
+<b>2004</b>—Subsec. (g)(3). Pub. L. 108–311 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "Amounts distributed from an Archer MSA (as defined in section 220(d)) shall not be taken into account under subsection (a)."
 
 #### Effective Date of 2011 Amendment
 
 Pub. L. 112–40, title II, §241(c), Oct. 21, 2011, 125 Stat. 419, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section, section 7527 of this title, and section 2918 of Title 29, Labor\] shall apply to coverage months beginning after February 12, 2011.
 
-“(2)
+"(2)
 
 Advance payment provisions.—
 
-&emsp;“(A) The amendment made by subsection (b)(2)(B) \[amending section 7527 of this title\] shall apply to certificates issued after the date which is 30 days after the date of the enactment of this Act \[Oct. 21, 2011\].
+&emsp;"(A) The amendment made by subsection (b)(2)(B) \[amending section 7527 of this title\] shall apply to certificates issued after the date which is 30 days after the date of the enactment of this Act \[Oct. 21, 2011\].
 
-&emsp;“(B) The amendment made by subsection (b)(2)(D) \[amending section 7527 of this title\] shall apply to coverage months beginning after the date which is 30 days after the date of the enactment of this Act.”
+&emsp;"(B) The amendment made by subsection (b)(2)(D) \[amending section 7527 of this title\] shall apply to coverage months beginning after the date which is 30 days after the date of the enactment of this Act."
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–344, title I, §111(c), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendments made by this section \[amending this section and section 7527 of this title\] shall apply to coverage months beginning after December 31, 2010.”
+Pub. L. 111–344, title I, §111(c), Dec. 29, 2010, 124 Stat. 3615, provided that: "The amendments made by this section \[amending this section and section 7527 of this title\] shall apply to coverage months beginning after December 31, 2010."
 
-Pub. L. 111–344, title I, §113(b), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendment made by this section \[amending this section\] shall apply to coverage months beginning after December 31, 2010.”
+Pub. L. 111–344, title I, §113(b), Dec. 29, 2010, 124 Stat. 3615, provided that: "The amendment made by this section \[amending this section\] shall apply to coverage months beginning after December 31, 2010."
 
-Pub. L. 111–344, title I, §115(c), Dec. 29, 2010, 124 Stat. 3615, provided that: “The amendments made by this section \[amending this section and section 2918 of Title 29, Labor\] shall apply to months beginning after December 31, 2010.”
+Pub. L. 111–344, title I, §115(c), Dec. 29, 2010, 124 Stat. 3615, provided that: "The amendments made by this section \[amending this section and section 2918 of Title 29, Labor\] shall apply to months beginning after December 31, 2010."
 
-Pub. L. 111–344, title I, §117(b), Dec. 29, 2010, 124 Stat. 3616, provided that: “The amendment made by this section \[amending this section\] shall apply to coverage months beginning after December 31, 2010.”
+Pub. L. 111–344, title I, §117(b), Dec. 29, 2010, 124 Stat. 3616, provided that: "The amendment made by this section \[amending this section\] shall apply to coverage months beginning after December 31, 2010."
 
 Amendment by Pub. L. 111–144 effective as if included in the provisions of section 3001 of Pub. L. 111–5 to which it relates, see section 3(c) of Pub. L. 111–144, set out as a note under section 6432 of this title.
 
@@ -384,13 +384,13 @@ Amendment by Pub. L. 111–144 effective as if included in the provisions of sec
 
 Except as otherwise provided and subject to certain applicability provisions, amendment by sections 1899A(a)(1), 1899C(a), 1899E(a), and 1899G(a) of Pub. L. 111–5 effective upon the expiration of the 90-day period beginning on Feb. 17, 2009, see section 1891 of Pub. L. 111–5, set out as an Effective and Termination Dates of 2009 Amendment note under section 2271 of Title 19, Customs Duties.
 
-Pub. L. 111–5, div. B, title I, §1899A(b), Feb. 17, 2009, 123 Stat. 424, provided that: “The amendments made by this section \[amending this section and section 7527 of this title\] shall apply to coverage months beginning on or after the first day of the first month beginning 60 days after the date of the enactment of this Act \[Feb. 17, 2009\].”
+Pub. L. 111–5, div. B, title I, §1899A(b), Feb. 17, 2009, 123 Stat. 424, provided that: "The amendments made by this section \[amending this section and section 7527 of this title\] shall apply to coverage months beginning on or after the first day of the first month beginning 60 days after the date of the enactment of this Act \[Feb. 17, 2009\]."
 
-Pub. L. 111–5, div. B, title I, §1899C(b), Feb. 17, 2009, 123 Stat. 425, provided that: “The amendment made by this section \[amending this section\] shall apply to coverage months beginning after the date of the enactment of this Act \[Feb. 17, 2009\].”
+Pub. L. 111–5, div. B, title I, §1899C(b), Feb. 17, 2009, 123 Stat. 425, provided that: "The amendment made by this section \[amending this section\] shall apply to coverage months beginning after the date of the enactment of this Act \[Feb. 17, 2009\]."
 
-Pub. L. 111–5, div. B, title I, §1899E(c), Feb. 17, 2009, 123 Stat. 428, provided that: “The amendments made by this section \[amending this section and section 2918 of Title 29, Labor\] shall apply to months beginning after December 31, 2009.”
+Pub. L. 111–5, div. B, title I, §1899E(c), Feb. 17, 2009, 123 Stat. 428, provided that: "The amendments made by this section \[amending this section and section 2918 of Title 29, Labor\] shall apply to months beginning after December 31, 2009."
 
-Pub. L. 111–5, div. B, title I, §1899G(b), Feb. 17, 2009, 123 Stat. 430, provided that: “The amendments made by this section \[amending this section\] shall apply to coverage months beginning after the date of the enactment of this Act \[Feb. 17, 2009\].”
+Pub. L. 111–5, div. B, title I, §1899G(b), Feb. 17, 2009, 123 Stat. 430, provided that: "The amendments made by this section \[amending this section\] shall apply to coverage months beginning after the date of the enactment of this Act \[Feb. 17, 2009\]."
 
 Amendment by section 3001(a)(14)(A) of Pub. L. 111–5 applicable to taxable years ending after Feb. 17, 2009, see section 3001(a)(14)(B) of Pub. L. 111–5, set out as a Premium Assistance for COBRA Benefits note under section 6432 of this title.
 
@@ -402,13 +402,13 @@ Amendment by Pub. L. 108–311 effective as if included in section 1201 of Pub. 
 
 Pub. L. 107–210, div. A, title II, §201(d), Aug. 6, 2002, 116 Stat. 960, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and section 300gg–45 of Title 42, The Public Health and Welfare, amending section 1324 of Title 31, Money and Finance, and renumbering former section 35 of this title as section 36 of this title\] shall apply to taxable years beginning after December 31, 2001.
 
-“(2)
+"(2)
 
-State high risk pools.—The amendment made by subsection (b) \[enacting section 300gg–45 of Title 42\] shall take effect on the date of the enactment of this Act \[Aug. 6, 2002\].”
+State high risk pools.—The amendment made by subsection (b) \[enacting section 300gg–45 of Title 42\] shall take effect on the date of the enactment of this Act \[Aug. 6, 2002\]."
 
 #### Construction
 
@@ -418,89 +418,89 @@ Nothing in title II of Pub. L. 107–210 or the amendments by that title, other 
 
 Pub. L. 111–5, div. B, title I, §1899I, Feb. 17, 2009, 123 Stat. 431, provided that:
 
-“(a)
+"(a)
 
 Survey.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—The Secretary of the Treasury shall conduct a biennial survey of eligible individuals (as defined in section 35(c) of the Internal Revenue Code of 1986) relating to the health coverage tax credit under section 35 of the Internal Revenue Code of 1986 (hereinafter in this section referred to as the ‘health coverage tax credit’).
+In general.—The Secretary of the Treasury shall conduct a biennial survey of eligible individuals (as defined in section 35(c) of the Internal Revenue Code of 1986) relating to the health coverage tax credit under section 35 of the Internal Revenue Code of 1986 (hereinafter in this section referred to as the 'health coverage tax credit').
 
-&emsp;“(2)
+&emsp;"(2)
 
 Information obtained.—The survey conducted under subsection (a) shall obtain the following information:
 
-&emsp;&emsp;“(A) HCTC
+&emsp;&emsp;"(A) HCTC
 
-participants.—In the case of eligible individuals receiving the health coverage tax credit (including individuals participating in the health coverage tax credit program under section 7527 of such Code, hereinafter in this section referred to as the ‘HCTC program’)—
+participants.—In the case of eligible individuals receiving the health coverage tax credit (including individuals participating in the health coverage tax credit program under section 7527 of such Code, hereinafter in this section referred to as the 'HCTC program')—
 
-&emsp;&emsp;&emsp;“(i) demographic information of such individuals, including income and education levels,
+&emsp;&emsp;&emsp;"(i) demographic information of such individuals, including income and education levels,
 
-&emsp;&emsp;&emsp;“(ii) satisfaction of such individuals with the enrollment process in the HCTC program,
+&emsp;&emsp;&emsp;"(ii) satisfaction of such individuals with the enrollment process in the HCTC program,
 
-&emsp;&emsp;&emsp;“(iii) satisfaction of such individuals with available health coverage options under the credit, including level of premiums, benefits, deductibles, cost-sharing requirements, and the adequacy of provider networks, and
+&emsp;&emsp;&emsp;"(iii) satisfaction of such individuals with available health coverage options under the credit, including level of premiums, benefits, deductibles, cost-sharing requirements, and the adequacy of provider networks, and
 
-&emsp;&emsp;&emsp;“(iv) any other information that the Secretary determines is appropriate.
+&emsp;&emsp;&emsp;"(iv) any other information that the Secretary determines is appropriate.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Non-HCTC participants.—In the case of eligible individuals not receiving the health coverage tax credit—
 
-&emsp;&emsp;&emsp;“(i) demographic information of each individual, including income and education levels,
+&emsp;&emsp;&emsp;"(i) demographic information of each individual, including income and education levels,
 
-&emsp;&emsp;&emsp;“(ii) whether the individual was aware of the health coverage tax credit or the HCTC program,
+&emsp;&emsp;&emsp;"(ii) whether the individual was aware of the health coverage tax credit or the HCTC program,
 
-&emsp;&emsp;&emsp;“(iii) the reasons the individual has not enrolled in the HCTC program, including whether such reasons include the burden of the process of enrollment and the affordability of coverage,
+&emsp;&emsp;&emsp;"(iii) the reasons the individual has not enrolled in the HCTC program, including whether such reasons include the burden of the process of enrollment and the affordability of coverage,
 
-&emsp;&emsp;&emsp;“(iv) whether the individual has health insurance coverage, and, if so, the source of such coverage, and
+&emsp;&emsp;&emsp;"(iv) whether the individual has health insurance coverage, and, if so, the source of such coverage, and
 
-&emsp;&emsp;&emsp;“(v) any other information that the Secretary determines is appropriate.
+&emsp;&emsp;&emsp;"(v) any other information that the Secretary determines is appropriate.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Report.—Not later than December 31 of each year in which a survey is conducted under paragraph (1) (beginning in 2010), the Secretary of the Treasury shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor \[now Committee on Education and the Workforce\], and the Committee on Energy and Commerce of the House of Representatives the findings of the most recent survey conducted under paragraph (1).
 
-“(b)
+"(b)
 
 Report.—Not later than October 1 of each year (beginning in 2010), the Secretary of the Treasury (after consultation with the Secretary of Health and Human Services, and, in the case of the information required under paragraph (7), the Secretary of Labor) shall report to the Committee on Finance and the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means, the Committee on Education and Labor \[now Committee on Education and the Workforce\], and the Committee on Energy and Commerce of the House of Representatives the following information with respect to the most recent taxable year ending before such date:
 
-&emsp;“(1) In each State and nationally—
+&emsp;"(1) In each State and nationally—
 
-&emsp;&emsp;“(A) the total number of eligible individuals (as defined in section 35(c) of the Internal Revenue Code of 1986) and the number of eligible individuals receiving the health coverage tax credit,
+&emsp;&emsp;"(A) the total number of eligible individuals (as defined in section 35(c) of the Internal Revenue Code of 1986) and the number of eligible individuals receiving the health coverage tax credit,
 
-&emsp;&emsp;“(B) the total number of such eligible individuals who receive an advance payment of the health coverage tax credit through the HCTC program,
+&emsp;&emsp;"(B) the total number of such eligible individuals who receive an advance payment of the health coverage tax credit through the HCTC program,
 
-&emsp;&emsp;“(C) the average length of the time period of the participation of eligible individuals in the HCTC program, and
+&emsp;&emsp;"(C) the average length of the time period of the participation of eligible individuals in the HCTC program, and
 
-&emsp;&emsp;“(D) the total number of participating eligible individuals in the HCTC program who are enrolled in each category of coverage as described in section 35(e)(1) of such Code,
+&emsp;&emsp;"(D) the total number of participating eligible individuals in the HCTC program who are enrolled in each category of coverage as described in section 35(e)(1) of such Code,
 
 > &emsp;with respect to each category of eligible individuals described in section 35(c)(1) of such Code.
 
-&emsp;“(2) In each State and nationally, an analysis of—
+&emsp;"(2) In each State and nationally, an analysis of—
 
-&emsp;&emsp;“(A) the range of monthly health insurance premiums, for self-only coverage and for family coverage, for individuals receiving the health coverage tax credit, and
+&emsp;&emsp;"(A) the range of monthly health insurance premiums, for self-only coverage and for family coverage, for individuals receiving the health coverage tax credit, and
 
-&emsp;&emsp;“(B) the average and median monthly health insurance premiums, for self-only coverage and for family coverage, for individuals receiving the health coverage tax credit,
+&emsp;&emsp;"(B) the average and median monthly health insurance premiums, for self-only coverage and for family coverage, for individuals receiving the health coverage tax credit,
 
 > &emsp;with respect to each category of coverage as described in section 35(e)(1) of such Code.
 
-&emsp;“(3) In each State and nationally, an analysis of the following information with respect to the health insurance coverage of individuals receiving the health coverage tax credit who are enrolled in coverage described in subparagraphs (B) through (H) of section 35(e)(1) of such Code:
+&emsp;"(3) In each State and nationally, an analysis of the following information with respect to the health insurance coverage of individuals receiving the health coverage tax credit who are enrolled in coverage described in subparagraphs (B) through (H) of section 35(e)(1) of such Code:
 
-&emsp;&emsp;“(A) Deductible amounts.
+&emsp;&emsp;"(A) Deductible amounts.
 
-&emsp;&emsp;“(B) Other out-of-pocket cost-sharing amounts.
+&emsp;&emsp;"(B) Other out-of-pocket cost-sharing amounts.
 
-&emsp;&emsp;“(C) A description of any annual or lifetime limits on coverage or any other significant limits on coverage services, or benefits.
+&emsp;&emsp;"(C) A description of any annual or lifetime limits on coverage or any other significant limits on coverage services, or benefits.
 
 > &emsp;The information required under this paragraph shall be reported with respect to each category of coverage described in such subparagraphs.
 
-&emsp;“(4) In each State and nationally, the gender and average age of eligible individuals (as defined in section 35(c) of such Code) who receive the health coverage tax credit, in each category of coverage described in section 35(e)(1) of such Code, with respect to each category of eligible individuals described in such section.
+&emsp;"(4) In each State and nationally, the gender and average age of eligible individuals (as defined in section 35(c) of such Code) who receive the health coverage tax credit, in each category of coverage described in section 35(e)(1) of such Code, with respect to each category of eligible individuals described in such section.
 
-&emsp;“(5) The steps taken by the Secretary of the Treasury to increase the participation rates in the HCTC program among eligible individuals, including outreach and enrollment activities.
+&emsp;"(5) The steps taken by the Secretary of the Treasury to increase the participation rates in the HCTC program among eligible individuals, including outreach and enrollment activities.
 
-&emsp;“(6) The cost of administering the HCTC program by function, including the cost of subcontractors, and recommendations on ways to reduce administrative costs, including recommended statutory changes.
+&emsp;"(6) The cost of administering the HCTC program by function, including the cost of subcontractors, and recommendations on ways to reduce administrative costs, including recommended statutory changes.
 
-&emsp;“(7) The number of States applying for and receiving national emergency grants under section 173(f) of the Workforce Investment Act of 1998 (29 U.S.C. 2918(f)), the activities funded by such grants on a State-by-State basis, and the time necessary for application approval of such grants.”
+&emsp;"(7) The number of States applying for and receiving national emergency grants under section 173(f) of the Workforce Investment Act of 1998 (29 U.S.C. 2918(f)), the activities funded by such grants on a State-by-State basis, and the time necessary for application approval of such grants."
 
-<i><sup>1</sup></i><i> So in original. There are two pars. designated “(9)”.</i>
+<i><sup>1</sup></i><i> So in original. There are two pars. designated "(9)".</i>
 

@@ -22,17 +22,17 @@ In carrying out this section and section 4993 of this title, the Director shall 
 
 Subsec. (e). Pub. L. 101–204, §301(b), added subsec. (e).
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–551, §§6(a), 10(d), inserted “(including Indian reservations)” and substituted “offenders, a program” and “veterans, a program” for “offenders; a program” and “veterans; a program”, respectively.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–551, §§6(a), 10(d), inserted "(including Indian reservations)" and substituted "offenders, a program" and "veterans, a program" for "offenders; a program" and "veterans; a program", respectively.
 
-Subsec. (b). Pub. L. 99–551, §10(i)(4), substituted “the Director” for “he” before “shall prescribe”.
+Subsec. (b). Pub. L. 99–551, §10(i)(4), substituted "the Director" for "he" before "shall prescribe".
 
-<b>1984</b>—Subsec. (c)(2)(B). Pub. L. 98–288, §30(b)(2), substituted “4953(f)” for “4953(d)”.
+<b>1984</b>—Subsec. (c)(2)(B). Pub. L. 98–288, §30(b)(2), substituted "4953(f)" for "4953(d)".
 
 Subsec. (d). Pub. L. 98–288, §12, added subsec. (d).
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–143, §7(a), (b), designated existing provisions as par. (1), inserted “in urban and rural areas” after “volunteer programs” and “, a program of assistance to victims of domestic violence, a program to provide technical and management assistance to distressed communities, a program designed to provide personal and group financial counseling to low-income and fixed-income individuals (utilizing volunteers with specialized or technical expertise), and a Helping Hand program” after “drug abusers”, inserted provisions authorizing the Director to provide for the recruitment, selection, and training of volunteers in carrying out programs authorized by this part, and added par. (2).
+<b>1979</b>—Subsec. (a). Pub. L. 96–143, §7(a), (b), designated existing provisions as par. (1), inserted "in urban and rural areas" after "volunteer programs" and ", a program of assistance to victims of domestic violence, a program to provide technical and management assistance to distressed communities, a program designed to provide personal and group financial counseling to low-income and fixed-income individuals (utilizing volunteers with specialized or technical expertise), and a Helping Hand program" after "drug abusers", inserted provisions authorizing the Director to provide for the recruitment, selection, and training of volunteers in carrying out programs authorized by this part, and added par. (2).
 
-Subsec. (c). Pub. L. 96–143, §7(c), inserted provisions permitting support payments to part-time volunteers enrolled for at least 20 hours of service per week for at least 26 consecutive weeks and provisions applying sections 4953(b), (d), 4954(d), and 4955(a) of this title to full-time full-year volunteers whose service is similar in character to that of VISTA volunteers.
+Subsec. (c). Pub. L. 96–143, §7(c), inserted provisions permitting support payments to part-time volunteersenrolled for at least 20 hours of service per week for at least 26 consecutive weeks and provisions applying sections 4953(b), (d), 4954(d), and 4955(a) of this title to full-time full-year volunteers whose service is similar in character to that of VISTA volunteers.
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–293 inserted provision authorizing the Director to undertake and support volunteer service programs, and recruit, etc., volunteers to carry out this part.
 

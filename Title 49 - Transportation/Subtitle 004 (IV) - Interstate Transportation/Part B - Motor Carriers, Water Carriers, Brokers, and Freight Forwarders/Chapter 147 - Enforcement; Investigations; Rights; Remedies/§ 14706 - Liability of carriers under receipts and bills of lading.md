@@ -10,7 +10,7 @@ Motor carriers and freight forwarders.—A carrier providing transportation or s
 
 &emsp;(2)
 
-Freight forwarder.—A freight forwarder is both the receiving and delivering carrier. When a freight forwarder provides service and uses a motor carrier providing transportation subject to jurisdiction under subchapter I of chapter 135 to receive property from a consignor, the motor carrier may execute the bill of lading or shipping receipt for the freight forwarder with its consent. With the consent of the freight forwarder, a motor carrier may deliver property for a freight forwarder on the freight forwarder's bill of lading, freight bill, or shipping receipt to the consignee named in it, and receipt for the property may be made on the freight forwarder's delivery receipt.
+Freight forwarder.—A freight forwarder is both the receiving and delivering carrier. When a freight forwarder provides service and uses a motor carrier providingtransportation subject to jurisdiction under subchapter I of chapter 135 to receive property from a consignor, the motor carrier may execute the bill of lading or shipping receipt for the freight forwarder with its consent. With the consent of the freight forwarder, a motor carrier may deliver property for a freight forwarder on the freight forwarder's bill of lading, freight bill, or shipping receipt to the consignee named in it, and receipt for the property may be made on the freight forwarder's delivery receipt.
 
 (b)
 
@@ -58,7 +58,7 @@ Jurisdiction of courts.—A civil action under this section may be brought in a 
 
 &emsp;(4)
 
-Judicial district defined.—In this section, “judicial district” means—
+Judicial district defined.—In this section, "judicial district" means—
 
 &emsp;&emsp;(A) in the case of a United States district court, a judicial district of the United States; and
 
@@ -94,7 +94,7 @@ Full value protection obligation.—Unless the carrier receives a waiver in writ
 
 &emsp;(3)
 
-Application of rates.—The released rates established by the Board under paragraph (1) (commonly known as “released rates”) shall not apply to the transportation of household goods by a carrier unless the liability of the carrier for the full value of such household goods under paragraph (2) is waived, in writing, by the shipper.
+Application of rates.—The released rates established by the Board under paragraph (1) (commonly known as "released rates") shall not apply to the transportation of household goods by a carrier unless the liability of the carrier for the full value of such household goods under paragraph (2) is waived, in writing, by the shipper.
 
 (g)
 
@@ -130,25 +130,25 @@ Provisions similar to those in this section were contained in sections 10730 and
 
 <b>2005</b>—Subsec. (f). Pub. L. 109–59 designated existing provisions as par. (1), inserted heading, and added pars. (2) and (3).
 
-<b>1996</b>—Subsec. (g)(3). Pub. L. 104–287 substituted “January 1, 1996” for “the effective date of this section”.
+<b>1996</b>—Subsec. (g)(3). Pub. L. 104–287 substituted "January 1, 1996" for "the effective date of this section".
 
 #### Review of Liability of Carriers
 
 Pub. L. 109–59, title IV, §4215, Aug. 10, 2005, 119 Stat. 1760, provided that:
 
-“(a)
+"(a)
 
 Review.—Not later than 1 year after the date of enactment of this Act \[Aug. 10, 2005\], the Surface Transportation Board shall complete a review of the current Federal regulations regarding the level of liability protection provided by motor carriers that provide transportation of household goods and revise such regulations, if necessary, to provide enhanced protection in the case of loss or damage.
 
-“(b)
+"(b)
 
 Determinations.—The review required by subsection (a) shall include a determination of—
 
-&emsp;“(1) whether the current regulations provide adequate protection;
+&emsp;"(1) whether the current regulations provide adequate protection;
 
-&emsp;“(2) the benefits of purchase by a shipper of insurance to supplement the carrier's limitations on liability; and
+&emsp;"(2) the benefits of purchase by a shipper of insurance to supplement the carrier's limitations on liability; and
 
-&emsp;“(3) whether there are abuses of the current regulations that leave the shipper unprotected in the event of loss and damage to a shipment of household goods.”
+&emsp;"(3) whether there are abuses of the current regulations that leave the shipper unprotected in the event of loss and damage to a shipment of household goods."
 
-\[For definitions of “carrier”, “household goods”, “motor carrier”, and “transportation” as used in section 4215 of Pub. L. 109–59, set out above, see section 4202(a) of Pub. L. 109–59, set out as a note under section 13102 of this title.\]
+\[For definitions of "carrier", "household goods", "motor carrier", and "transportation" as used in section 4215 of Pub. L. 109–59, set out above, see section 4202(a) of Pub. L. 109–59, set out as a note under section 13102 of this title.\]
 

@@ -8,7 +8,7 @@
 
 #### (2) Definition of eligible entity
 
-&emsp;In this section, the term “eligible entity” has the meaning given the term in section 1461(b) of this title.
+&emsp;In this section, the term "eligible entity" has the meaning given the term in section 1461(b) of this title.
 
 #### (b) Authorized activities
 

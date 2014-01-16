@@ -18,7 +18,7 @@ To be eligible to receive a grant under subsection (a) of this section, a State 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–386 inserted “and implement” after “improve”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–386 inserted "and implement" after "improve".
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “orders intended to protect victims from stalking”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "orders intended to protect victims from stalking".</i>
 

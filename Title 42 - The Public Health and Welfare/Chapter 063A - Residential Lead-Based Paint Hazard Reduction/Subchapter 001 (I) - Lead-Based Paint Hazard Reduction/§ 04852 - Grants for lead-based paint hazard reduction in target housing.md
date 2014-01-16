@@ -6,7 +6,7 @@ The Secretary is authorized to provide grants to eligible applicants to evaluate
 
 &emsp;(1) for grants made to assist rental housing, at least 50 percent of the units must be occupied by or made available to families with incomes at or below 50 percent of the area median income level and the remaining units shall be occupied or made available to families with incomes at or below 80 percent of the area median income level, and in all cases the landlord shall give priority in renting units assisted under this section, for not less than 3 years following the completion of lead abatement activities, to families with a child under the age of six years, except that buildings with five or more units may have 20 percent of the units occupied by families with incomes above 80 percent of area median income level;
 
-&emsp;(2) for grants made to assist housing owned by owner-occupants, all units assisted with grants under this section shall be the principal residence of families with income at or below 80 percent of the area median income level, and not less than 90 percent of the units assisted with grants under this section shall be occupied by a child under the age of six years or shall be units where a child under the age of six years spends a significant amount of time visiting; and
+&emsp;(2) for grants made to assist housing owned by owner-occupants, all units assisted with grants under this section shall be the principal residence of families with income at or below 80 percent of the area median income level, and not less than 90 percent of the units assisted with grants under this section shall be occupied by a child under the age of six yearsor shall be units where a child under the age of six years spends a significant amount of time visiting; and
 
 &emsp;(3) notwithstanding paragraphs (1) and (2), Round II grantees who receive assistance under this section may use such assistance for priority housing.
 
@@ -24,7 +24,7 @@ To receive a grant under this section, a State or unit of local government shall
 
 &emsp;(3) a description of the planned activities to be undertaken with grants under this section, including an estimate of the amount to be allocated to each activity;
 
-&emsp;(4) a description of the forms of financial assistance to owners and occupants of housingthat will be provided through grants under this section; and
+&emsp;(4) a description of the forms of financial assistance to owners and occupants of housing that will be provided through grants under this section; and
 
 &emsp;(5) such assurances as the Secretary may require regarding the applicant's capacity to carry out the activities.
 
@@ -94,7 +94,7 @@ An applicant shall ensure that not more than 10 percent of the grant will be use
 
 #### (k) Financial records
 
-An applicant shall maintain and provide the Secretary with financial records sufficient, in the determination of the Secretary, to ensure proper accounting and disbursing of amounts received from a grant under this section.
+An applicant shall maintain and provide the Secretary with financial records sufficient, inthe determination of the Secretary, to ensure proper accounting and disbursing of amounts received from a grant under this section.
 
 #### (l) Report
 
@@ -116,7 +116,7 @@ The Secretary shall publish a Notice of Funding Availability pursuant to this se
 
 #### (n) Relationship to other law
 
-Effective 2 years after the date of promulgation of regulations under section 2682 of title 15,no grants for lead-based paint hazard evaluation or reduction may be awarded to a State under this section unless such State has an authorized program under section 2684 of title 15.
+Effective 2 years after the date of promulgation of regulations under section 2682 of title 15, no grants for lead-based paint hazard evaluation or reduction may be awarded to a State under this section unless such State has an authorized program under section 2684 of title 15.
 
 #### (o) Environmental review
 
@@ -142,9 +142,9 @@ For the purposes of carrying out this chapter, there are authorized to be approp
 
 Section 12705(b)(16) of this title, referred to in subsecs. (c)(1) and (g)(1), probably means section 12705(b)(16) relating to housing units that contain lead-based paint hazards which was redesignated section 12705(b)(17) by Pub. L. 105–276, title V, §583(5)(B), Oct. 21, 1998, 112 Stat. 2644.
 
-This chapter, referred to in subsecs. (d)(5), (e)(10), and (p), was in the original “this Act”, meaning title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3897, known as the Residential Lead-Based Paint Hazard Reduction Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 4851 of this title and Tables.
+This chapter, referred to in subsecs. (d)(5), (e)(10), and (p), was in the original "this Act", meaning title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3897, known as the Residential Lead-Based Paint Hazard Reduction Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 4851 of this title and Tables.
 
-This subchapter, referred to in subsec. (i), was in the original “this subtitle”, meaning subtitle A of title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3901, which enacted this subchapter and amended sections 1437f, 1437aaa–1, 1437aaa–2, 1471, 4822, 5305, 12705, 12742, 12872, 12873, 12892, and 12893 of this title and sections 1703, 1709, and 1715l of Title 12, Banks and Banking.
+This subchapter, referred to in subsec. (i), was in the original "this subtitle", meaning subtitle A of title X of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3901, which enacted this subchapter and amended sections 1437f, 1437aaa–1, 1437aaa–2, 1471, 4822, 5305, 12705, 12742, 12872, 12873, 12892, and 12893 of this title and sections 1703, 1709, and 1715l of Title 12, Banks and Banking.
 
 The National Environmental Policy Act of 1969, referred to in subsec. (o)(1), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
@@ -154,13 +154,13 @@ The Departments of Veterans Affairs and Housing and Urban Development, and Indep
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–134, §101(e) \[title II, §217\], substituted “hazards in housing” for “hazards in priority housing” and inserted at end “Grants shall only be made under this section to provide assistance for housing which meets the following criteria—” and pars. (1) to (3).
+<b>1996</b>—Subsec. (a). Pub. L. 104–134, §101(e) \[title II, §217\], substituted "hazards in housing" for "hazards in priority housing" and inserted at end "Grants shall only be made under this section to provide assistance for housing which meets the following criteria—" and pars. (1) to (3).
 
-Subsecs. (c)(4), (d)(1), (e)(1) to (3), (7), (9). Pub. L. 104–134, §101(e) \[title II, §217(a)\], substituted “housing” for “priority housing”.
+Subsecs. (c)(4), (d)(1), (e)(1) to (3), (7), (9). Pub. L. 104–134, §101(e) \[title II, §217(a)\], substituted "housing" for "priority housing".
 
 <b>1994</b>—Subsecs. (o), (p). Pub. L. 103–233 added subsec. (o) and redesignated former subsec. (o) as (p).
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Partnerships”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "Partnerships".</i>
 

@@ -24,7 +24,7 @@ With respect to the programs authorized in subchapters II through VII of this ch
 
 #### (1) In general
 
-&emsp;For each fiscal year, the Commissioner and the Director of the National Institute on Disability and Rehabilitation Research (referred to in this subsection as the “Director”) shall reserve 1 percent of the funds appropriated for the fiscal year for programs authorized under subchapters II, III, VI, and VII of this chapter to carry out this subsection. The Commissioner and the Director shall use the reserved funds to carry out one or more of the activities described in paragraph (2) through a grant, contract, or cooperative agreement.
+&emsp;For each fiscal year, the Commissioner and the Director of the National Institute on Disability and Rehabilitation Research (referred to in this subsection as the "Director") shall reserve 1 percent of the funds appropriated for the fiscal year for programs authorized under subchapters II, III, VI, and VII of this chapter to carry out this subsection. The Commissioner and the Director shall use the reserved funds to carry out one or more of the activities described in paragraph (2) through a grant, contract, or cooperative agreement.
 
 #### (2) Activities
 
@@ -50,11 +50,11 @@ With respect to the programs authorized in subchapters II through VII of this ch
 
 #### (A) Historically Black college or university
 
-&emsp;&emsp;The term “historically Black college or university” means a part B institution, as defined in section 1061(2) of title 20.
+&emsp;&emsp;The term "historically Black college or university" means a part B institution, as defined in section 1061(2) of title 20.
 
 #### (B) Minority entity
 
-&emsp;&emsp;The term “minority entity” means an entity that is a historically Black college or university, a Hispanic-serving institution of higher education, an American Indian tribal college or university, or another institution of higher education whose minority student enrollment is at least 50 percent.
+&emsp;&emsp;The term "minority entity" means an entity that is a historically Black college or university, a Hispanic-serving institution of higher education, an American Indian tribal college or university, or another institution of higher education whose minority student enrollment is at least 50 percent.
 
 #### (c) Demonstration
 
@@ -78,5 +78,5 @@ Section 718b, Pub. L. 93–112, §21, as added Pub. L. 102–569, title I, §111
 
 <b>1998</b>—Pub. L. 105–277, §101(f) \[title VIII, §402(b)(6)\], made technical amendment in original to section designation and catchline.
 
-Subsec. (a)(3). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(3)\], substituted “is denied” for “are denied” and “is closed” for “are closed”.
+Subsec. (a)(3). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(3)\], substituted "is denied" for "are denied" and "is closed" for "are closed".
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—The American Legion (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—The American Legion (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

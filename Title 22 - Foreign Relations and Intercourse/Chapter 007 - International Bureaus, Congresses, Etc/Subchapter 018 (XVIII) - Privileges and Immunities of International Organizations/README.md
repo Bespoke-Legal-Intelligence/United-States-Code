@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00288 - &#8220;International organization&#8221; defined; authority of President](%C2%A7%2000288%20-%20%E2%80%9CInternational%20organization%E2%80%9D%20defined%3B%20authority%20of%20President.md)
+- [&sect; 00288 - International organization defined; authority of President](%C2%A7%2000288%20-%20International%20organization%20defined%3B%20authority%20of%20President.md)
 - [&sect; 00288a - Privileges, exemptions, and immunities of international organizations](%C2%A7%2000288a%20-%20Privileges%2C%20exemptions%2C%20and%20immunities%20of%20international%20organizations.md)
 - [&sect; 00288b - Baggage and effects of officers and employees exempted from customs duties and internal revenue taxes](%C2%A7%2000288b%20-%20Baggage%20and%20effects%20of%20officers%20and%20employees%20exempted%20from%20customs%20duties%20and%20internal%20revenue%20taxes.md)
 - [&sect; 00288c - Exemption from property taxes](%C2%A7%2000288c%20-%20Exemption%20from%20property%20taxes.md)

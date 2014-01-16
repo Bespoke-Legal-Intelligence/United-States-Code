@@ -32,7 +32,7 @@
 
 <b>1955</b>—Act June 28, 1955, ch. 190, §4, 69 Stat. 184, added item 1465.
 
-<b>1950</b>—Act May 27, 1950, ch. 214, §2, 64 Stat. 194, substituted “matters” for “literature” in item 1462.
+<b>1950</b>—Act May 27, 1950, ch. 214, §2, 64 Stat. 194, substituted "matters" for "literature" in item 1462.
 
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 109–248 without corresponding amendment of chapter analysis.</i>
 

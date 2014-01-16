@@ -34,7 +34,7 @@
 
 &emsp;(B) prior to the filing of such an indictment or information, if, after notice to persons appearing to have an interest in the property and opportunity for a hearing, the court determines that—
 
-&emsp;&emsp;(i) there is a substantial probability that the United States will prevail on the issue of forfeiture and that failure to enter the order will result in the property being destroyed, removed from the jurisdiction of the court, or otherwise made unavailable for forfeiture; and
+&emsp;&emsp;(i) there is a substantial probability that the United States will prevail on the issue of forfeiture and that failure to enter the order will result in the property being destroyed, removed from the jurisdiction of the court,or otherwise made unavailable for forfeiture; and
 
 &emsp;&emsp;(ii) the need to preserve the availability of the property through the entry of the requested order outweighs the hardship on any party against whom the order is to be entered:
 
@@ -74,7 +74,7 @@
 
 &emsp;(6) the compromise of claims arising under this chapter.
 
-> Pending the promulgation of such regulations, all provisions of law relating to the disposition of property, or the proceeds from the sale thereof, or the remission or mitigation of forfeitures for violation of the customs laws, and the compromise of claims and the award of compensation to informers in respect of such forfeitures shall apply to forfeitures incurred, or alleged to have been incurred, under the provisions of this section, insofar as applicable and not inconsistent with the provisions hereof. Such duties as are imposed upon the Customs Service or any person with respect to the disposition of property under the customs law shall be performed under this chapter by the Attorney General.
+> Pending the promulgation of such regulations, all provisions of law relating to the disposition of property, or the proceeds from the sale thereof, or the remission or mitigation of forfeitures for violation of the customs laws, and the compromise of claims and the award of compensation to informers in respect of such forfeitures shall apply to forfeitures incurred, or alleged tohave been incurred, under the provisions of this section, insofar as applicable and not inconsistent with the provisions hereof. Such duties as are imposed upon the Customs Service or any person with respect to the disposition of property under the customs law shall be performed under this chapter by the Attorney General.
 
 (i) Except as provided in subsection (l), no party claiming an interest in property subject to forfeiture under this section may—
 
@@ -90,7 +90,7 @@
 
 (2) Any person, other than the defendant, asserting a legal interest in property which has been ordered forfeited to the United States pursuant to this section may, within thirty days of the final publication of notice or his receipt of notice under paragraph (1), whichever is earlier, petition the court for a hearing to adjudicate the validity of his alleged interest in the property. The hearing shall be held before the court alone, without a jury.
 
-(3) The petition shall be signed by the petitioner under penalty of perjury and shall set forth the nature and extent of the petitioner'sright, title, or interest in the property, the time and circumstances of the petitioner's acquisition of the right, title, or interest in the property, any additional facts supporting the petitioner's claim, and the relief sought.
+(3) The petition shall be signed by the petitioner under penalty of perjury and shall set forth the nature and extent of the petitioner's right, title, or interest in the property, the time and circumstances of the petitioner's acquisition of the right, title, or interest in the property, any additional facts supporting the petitioner's claim, and the relief sought.
 
 (4) The hearing on the petition shall, to the extent practicable and consistent with the interests of justice, be held within thirty days of the filing of the petition. The court may consolidate the hearing on the petition with a hearing on any other petition filed by a person other than the defendant under this subsection.
 
@@ -128,19 +128,19 @@ The Federal Rules of Evidence, referred to in subsec. (d)(3), are set out in the
 
 #### Amendments
 
-<b>2009</b>—Subsec. (d)(2). Pub. L. 111–16 substituted “fourteen days” for “ten days”.
+<b>2009</b>—Subsec. (d)(2). Pub. L. 111–16 substituted "fourteen days" for "ten days".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–647 substituted “or both” for “or both.” in introductory provisions.
+<b>1990</b>—Subsec. (a). Pub. L. 101–647 substituted "or both" for "or both." in introductory provisions.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–690, §7058(d), substituted “shall be fined under this title or imprisoned not more than 20 years (or for life if the violation is based on a racketeering activity for which the maximum penalty includes life imprisonment), or both.” for “shall be fined not more than $25,000 or imprisoned not more than twenty years, or both”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §7058(d), substituted "shall be fined under this title or imprisoned not more than 20 years (or for life if the violation is based on a racketeering activity for which the maximum penalty includes life imprisonment), or both." for "shall be fined not more than $25,000 or imprisoned not more than twenty years, or both".
 
-Subsecs. (m), (n). Pub. L. 100–690, §7034, redesignated former subsec. (n) as (m) and substituted “act or omission” for “act of omission”.
+Subsecs. (m), (n). Pub. L. 100–690, §7034, redesignated former subsec. (n) as (m) and substituted "act or omission" for "act of omission".
 
-<b>1986</b>—Subsecs. (c) to (m). Pub. L. 99–646 substituted “(l)” for “(m)” in subsec. (c), redesignated subsecs. (e) to (m) as (d) to (l), respectively, and substituted “(l)” for “(m)” in subsec. (i) as redesignated.
+<b>1986</b>—Subsecs. (c) to (m). Pub. L. 99–646 substituted "(l)" for "(m)" in subsec. (c), redesignated subsecs. (e) to (m) as (d) to (l), respectively, and substituted "(l)" for "(m)" in subsec. (i) as redesignated.
 
 Subsec. (n). Pub. L. 99–570 added subsec. (n).
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–473, §2301(a), inserted “In lieu of a fine otherwise authorized by this section, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds.” following par. (3).
+<b>1984</b>—Subsec. (a). Pub. L. 98–473, §2301(a), inserted "In lieu of a fine otherwise authorized by this section, a defendant who derives profits or other proceeds from an offense may be fined not more than twice the gross profits or other proceeds." following par. (3).
 
 Pub. L. 98–473, §302, amended subsec. (a) generally, designating existing provisions as pars. (1) and (2), inserting par. (3), and provisions following par. (3) relating to power of the court to order forfeiture to the United States.
 
@@ -148,13 +148,13 @@ Subsec. (b). Pub. L. 98–473, §302, amended subsec. (b) generally, substitutin
 
 Subsec. (c). Pub. L. 98–473, §302, amended subsec. (c) generally, substituting provisions relating to transfer of rights, etc., in property to the United States, or to other transferees, for provisions relating to seizure and transfer of property to the United States and procedures related thereto.
 
-Subsec. (d). Pub. L. 98–473, §2301(b), struck out subsec. (d) which provided: “If any of the property described in subsection (a): (1) cannot be located; (2) has been transferred to, sold to, or deposited with, a third party; (3) has been placed beyond the jurisdiction of the court; (4) has been substantially diminished in value by any act or omission of the defendant; or (5) has been commingled with other property which cannot be divided without difficulty; the court shall order the forfeiture of any other property of the defendant up to the value of any property described in paragraphs (1) through (5).”
+Subsec. (d). Pub. L. 98–473, §2301(b), struck out subsec. (d) which provided: "If any of the property described in subsection (a): (1) cannot be located; (2) has been transferred to, sold to, or deposited with, a third party; (3) has been placed beyond the jurisdiction of the court; (4) has been substantially diminished in value by any act or omission of the defendant; or (5) has been commingled with other property which cannot be divided without difficulty; the court shall order the forfeiture of any other property of the defendant up to the value of any property described in paragraphs (1) through (5)."
 
 Pub. L. 98–473, §302, added subsec. (d).
 
 Subsecs. (e) to (m). Pub. L. 98–473, §302, added subsecs. (d) to (m).
 
-Subsec. (m)(1). Pub. L. 98–473, §2301(c), struck out “for at least seven successive court days” after “dispose of the property”.
+Subsec. (m)(1). Pub. L. 98–473, §2301(c), struck out "for at least seven successive court days" after "dispose of the property".
 
 #### Effective Date of 2009 Amendment
 
@@ -162,5 +162,5 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

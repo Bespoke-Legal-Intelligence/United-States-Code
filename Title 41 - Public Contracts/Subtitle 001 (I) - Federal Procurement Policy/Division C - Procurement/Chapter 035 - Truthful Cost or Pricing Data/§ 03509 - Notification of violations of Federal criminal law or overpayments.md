@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “covered contract” means any contract in an amount greater than $5,000,000 and more than 120 days in duration.
+Definition.—In this section, the term "covered contract" means any contract in an amount greater than $5,000,000 and more than 120 days in duration.
 
 (b)
 
@@ -26,5 +26,5 @@ Historical and Revision Notes
 
 Pub. L. 110–252, title VI, §§6102, 6103, June 30, 2008, 122 Stat. 2386, 2387.
 
-In subsection (b), the words “shall include” are substituted for “shall be amended” and “to include” to reflect the permanence of the provision. The words “within 180 days after the date of the enactment of this Act” are omitted as obsolete.
+In subsection (b), the words "shall include" are substituted for "shall be amended" and "to include" to reflect the permanence of the provision. The words "within 180 days after the date of the enactment of this Act" are omitted as obsolete.
 

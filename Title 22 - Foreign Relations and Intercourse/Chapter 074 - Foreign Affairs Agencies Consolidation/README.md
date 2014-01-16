@@ -96,7 +96,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6591\.](Subchapter%20005%20%28V%29%20-%20Agency%20for%20International%20Development/Part%20B%20-%20Authorities%20of%20Secretary%20of%20State/%C2%A7%2006591%20-%20%E2%80%9CUnited%20States%20assistance%E2%80%9D%20defined.md) | “United States assistance” defined. |
+| [6591\.](Subchapter%20005%20%28V%29%20-%20Agency%20for%20International%20Development/Part%20B%20-%20Authorities%20of%20Secretary%20of%20State/%C2%A7%2006591%20-%20United%20States%20assistance%20defined.md) | "United States assistance" defined. |
 | [6592\.](Subchapter%20005%20%28V%29%20-%20Agency%20for%20International%20Development/Part%20B%20-%20Authorities%20of%20Secretary%20of%20State/%C2%A7%2006592%20-%20Administrator%20of%20AID%20reporting%20to%20Secretary%20of%20State.md) | Administrator of AID reporting to Secretary of State. |
 | [6593\.](Subchapter%20005%20%28V%29%20-%20Agency%20for%20International%20Development/Part%20B%20-%20Authorities%20of%20Secretary%20of%20State/%C2%A7%2006593%20-%20Assistance%20programs%20coordination%20and%20oversight.md) | Assistance programs coordination and oversight. |
 

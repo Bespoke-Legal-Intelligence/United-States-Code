@@ -4,13 +4,13 @@
 
 A parent who is a citizen of the United States (or, if the citizen parent has died during the preceding 5 years, a citizen grandparent or citizen legal guardian) may apply for naturalization on behalf of a child born outside of the United States who has not acquired citizenship automatically under section 1431 of this title. The Attorney General shall issue a certificate of citizenship to such applicant upon proof, to the satisfaction of the Attorney General, that the following conditions have been fulfilled:
 
-&emsp;(1) At least one parent (or, at the time of his or her death, was) is a citizen of the United States, whether by birth or naturalization.
+&emsp;(1) At least one parent (or, at the time of his or her death, was) is <sup>1</sup> a citizen of the United States, whether by birth or naturalization.
 
 &emsp;(2) The United States citizen parent—
 
 &emsp;&emsp;(A) has (or, at the time of his or her death, had) been physically present in the United States or its outlying possessions for a period or periods totaling not less than five years, at least two of which were after attaining the age of fourteen years; or
 
-&emsp;&emsp;(B) has (or, at the time of his or her death, had) a citizen parent who has been physically present in the United States or itsoutlying possessions for a period or periods totaling not less than five years, at least two of which were after attaining the age of fourteen years.
+&emsp;&emsp;(B) has (or, at the time of his or her death, had) a citizen parent who has been physically present in the United States or its outlying possessions for a period or periods totaling not less than five years, at least two of which were after attaining the age of fourteen years.
 
 &emsp;(3) The child is under the age of eighteen years.
 
@@ -115,4 +115,6 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 #### Application of 1994 Amendment
 
 Pub. L. 103–416, title I, §102(e), as added by Pub. L. 104–208, div. C, title VI, §671(b)(2), Sept. 30, 1996, 110 Stat. 3009–721, which provided that in applying amendment made by subsection (a), amending this section, to children born before Nov. 14, 1986, any reference in matter inserted by such amendment to “five years, at least two of which” was deemed a reference to “10 years, at least 5 of which”, was repealed by Pub. L. 105–38, §1, Aug. 8, 1997, 111 Stat. 1115, effective as if included in the enactment of Pub. L. 103–416.
+
+<i><sup>1</sup></i><i> So in original. The word “is” probably should appear after “parent”.</i>
 

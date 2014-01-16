@@ -20,7 +20,7 @@ The Congress finds that—
 
 #### Executive Order No. 13123
 
-Ex. Ord. No. 13123, June 3, 1999, 64 F.R. 30851, which directed the Federal Government to reduce greenhousegas emissions, energy consumption, and water usage and required agencies to develop an annual implementation plan, to request funding necessary to achieve the goals of this order, and to make annual progress reports to the President, was revoked by Ex. Ord. No. 13423, §11(a)(ii), Jan. 24, 2007, 72 F.R. 3923, set out in a note under section 4321 of this title.
+Ex. Ord. No. 13123, June 3, 1999, 64 F.R. 30851, which directed the Federal Government to reduce greenhouse gas emissions, energy consumption, and water usage and required agencies to develop an annual implementation plan, to request funding necessary to achieve the goals of this order, and to make annual progress reports to the President, was revoked by Ex. Ord. No. 13423, §11(a)(ii), Jan. 24, 2007, 72 F.R. 3923, set out in a note under section 4321 of this title.
 
 #### Ex. Ord. No. 13221. Energy Efficient Standby Power Devices
 
@@ -32,7 +32,7 @@ Section 1. <i>Energy Efficient Standby Power Devices</i>. Each agency, when it p
 
 Sec. 2. <i>Independent Agencies</i>. Independent agencies are encouraged to comply with the provisions of this order.
 
-Sec. 3. <i>Definition</i>. “Agency” means an executive agency as defined in 5 U.S.C. 105. For the purpose of this order, military departments, as defined in 5 U.S.C. 102, are covered by the Department of Defense.
+Sec. 3. <i>Definition</i>. "Agency" means an executive agency as defined in 5 U.S.C. 105. For the purpose of this order, military departments, as defined in 5 U.S.C. 102, are covered by the Department of Defense.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

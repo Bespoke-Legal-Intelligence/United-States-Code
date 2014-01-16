@@ -10,11 +10,11 @@ In this section:
 
 #### (1) Management plan
 
-&emsp;The term “management plan” means the management plan for the National Conservation Area developed by the Secretary under subsection (d)(1).
+&emsp;The term "management plan" means the management plan for the National Conservation Area developed by the Secretary under subsection (d)(1).
 
 #### (2) National Conservation Area
 
-&emsp;The term “National Conservation Area” means the Beaver Dam Wash National Conservation Area that—
+&emsp;The term "National Conservation Area" means the Beaver Dam Wash National Conservation Area that—
 
 &emsp;&emsp;(A) consists of approximately 68,083 acres of public land in the County, as generally depicted on the Beaver Dam Wash National Conservation Area Map; and
 
@@ -66,11 +66,11 @@ Subject to valid existing rights, there is established in the State the Beaver D
 
 #### (A) In general
 
-&emsp;&emsp;Except in cases in which motorized vehicles are needed for administrative purposes,or to respond to an emergency, the use of motorized vehicles in the National Conservation Area shall be permitted only on roads designated by the management plan for the use of motorized vehicles.
+&emsp;&emsp;Except in cases in which motorized vehicles are needed for administrative purposes, or to respond to an emergency, the use of motorized vehicles in the National Conservation Area shall be permitted only on roads designated by the management plan for the use of motorized vehicles.
 
 #### (B) Additional requirement relating to certain areas located in the National Conservation Area
 
-&emsp;&emsp;In addition to the requirement described in subparagraph (A), with respect to the areas designated on the Beaver Dam Wash National Conservation Area Map as “Designated Road Areas”, motorized vehicles shall be permitted only on the roads identified on such map.
+&emsp;&emsp;In addition to the requirement described in subparagraph (A), with respect to the areas designated on the Beaver Dam Wash National Conservation Area Map as "Designated Road Areas", motorized vehicles shall be permitted only on the roads identified on such map.
 
 #### (4) Grazing
 

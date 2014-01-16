@@ -34,7 +34,7 @@ Action in Cases Where Cause for Retention Is Established.—(1) If a board of in
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted “title” for “chapter”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106 substituted "title" for "chapter".
 
 #### Effective Date of 1996 Amendment
 

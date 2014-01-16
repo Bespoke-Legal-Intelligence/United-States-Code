@@ -20,7 +20,7 @@
 
 #### (3) Special rule in case of assertion by partner's spouse of innocent spouse relief
 
-&emsp;(A) Notwithstanding section 6404(b), if the spouse of a partner asserts that section 6015 applies with respect to a liability that is attributable to any adjustment to a partnership item (including any liability for any penalties, additions to tax, or additional amounts relating to such adjustment), then such spouse may file with the Secretary within 60 days after the notice of computational adjustment is mailed to the spouse a request for abatement of the assessment specified in such notice. Upon receipt of such request, the Secretary shall abate the assessment. Any reassessment of the tax with respect to which an abatement is made under this subparagraph shall be subject to the deficiency procedures prescribed by subchapter B. The period for making any such reassessment shall not expire before the expiration of 60 days after the date of such abatement.
+&emsp;(A) Notwithstanding section 6404(b), if the spouse of a partner asserts that section 6015 applies with respect to a liability that is attributable to any adjustment to a partnership item (including any liability for any penalties, additions to tax, or additional amounts relating to such adjustment), then such spouse may file with the Secretary within 60 days after the notice of computational adjustment is mailed to the spouse a request for abatement of the assessment specified in such notice. Upon receipt of such request, the Secretary shallabate the assessment. Any reassessment of the tax with respect to which an abatement is made under this subparagraph shall be subject to the deficiency procedures prescribed by subchapter B. The period for making any such reassessment shall not expire before the expiration of 60 days after the date of such abatement.
 
 &emsp;(B) If the spouse files a petition with the Tax Court pursuant to section 6213 with respect to the request for abatement described in subparagraph (A), the Tax Court shall only have jurisdiction pursuant to this section to determine whether the requirements of section 6015 have been satisfied. For purposes of such determination, the treatment of partnership items (and the applicability of any penalties, additions to tax, or additional amounts) under the settlement, the final partnership administrative adjustment, or the decision of the court (whichever is appropriate) that gave rise to the liability in question shall be conclusive.
 
@@ -122,7 +122,7 @@
 
 #### (e) Tax matters partner required to furnish names of partners to Secretary
 
-If the Secretary mails to any partnership the notice specified in paragraph (1) of section6223(a) with respect to any partnership taxable year, the tax matters partner shall furnish to the Secretary the name, address, profits interest, and taxpayer identification number of each person who was a partner in such partnership at any time during such taxable year. If the tax matters partner later discovers that the information furnished to the Secretary was incorrect or incomplete, the tax matters partner shall furnish such revised or additional information as may be necessary.
+If the Secretary mails to any partnership the notice specified in paragraph (1) of section 6223(a) with respect to any partnership taxable year, the tax matters partner shall furnish to the Secretary the name, address, profits interest, and taxpayer identification number of each person who was a partner in such partnership at any time during such taxable year. If the tax matters partner later discovers that the information furnished to the Secretary was incorrect or incomplete, the tax matters partner shall furnish such revised or additional information as may be necessary.
 
 #### (f) Failure of tax matters partner, etc., to fulfill responsibility does not affect applicability of proceeding
 
@@ -162,53 +162,53 @@ The Secretary shall prescribe such regulations as may be necessary to carry out 
 
 Any action brought under any provision of this subchapter shall be conducted in accordance with such rules of practice and procedure as may be prescribed by the Court in which the action is brought.
 
-(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 660; amended Pub. L. 98–369, div. A, title VII, §714(p)(2)(A), July 18, 1984, 98 Stat. 964; Pub. L. 99–514, title XVIII, §1875(d)(2)(A), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–647, title I, §1018(o)(1), Nov. 10, 1988, 102 Stat. 3584; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–34, title XII, §§1237(a)–(c)(1), 1238(b)(2)–(6), 1239(c)(1), Aug. 5, 1997, 111 Stat. 1025–1028; Pub. L. 105–206, title III, §3201(e)(2), July 22, 1998, 112 Stat. 740; Pub. L. 110–172, §11(a)(36), Dec. 29, 2007, 121 Stat. 2487.)
+(Added Pub. L. 97–248, title IV, §402(a), Sept. 3, 1982, 96 Stat. 660; amended Pub. L. 98–369, div. A, title VII, §714(p)(2)(A), July 18, 1984, 98 Stat. 964;Pub. L. 99–514, title XVIII, §1875(d)(2)(A), Oct. 22, 1986, 100 Stat. 2896; Pub. L. 100–647, title I, §1018(o)(1), Nov. 10, 1988, 102 Stat. 3584; Pub. L. 102–572, title IX, §902(b)(2), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 105–34, title XII, §§1237(a)–(c)(1), 1238(b)(2)–(6), 1239(c)(1), Aug. 5, 1997, 111 Stat. 1025–1028; Pub. L. 105–206, title III, §3201(e)(2), July 22, 1998, 112 Stat. 740; Pub. L. 110–172, §11(a)(36), Dec. 29, 2007, 121 Stat. 2487.)
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(3)(A), (B). Pub. L. 110–172 substituted “section 6015” for “section 6013(e)”.
+<b>2007</b>—Subsec. (a)(3)(A), (B). Pub. L. 110–172 substituted "section 6015" for "section 6013(e)".
 
-<b>1998</b>—Subsec. (c)(5)(A). Pub. L. 105–206 substituted “section 6015” for “section 6013(e)”.
+<b>1998</b>—Subsec. (c)(5)(A). Pub. L. 105–206 substituted "section 6015" for "section 6013(e)".
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34, §1237(c)(1), substituted “paragraph (2) or (3)” for “paragraph (2)”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–34, §1237(c)(1), substituted "paragraph (2) or (3)" for "paragraph (2)".
 
-Subsec. (a)(2)(A)(i). Pub. L. 105–34, §1238(b)(2), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “affected items which require partner level determinations, or”.
+Subsec. (a)(2)(A)(i). Pub. L. 105–34, §1238(b)(2), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "affected items which require partner level determinations, or".
 
 Subsec. (a)(3). Pub. L. 105–34, §1237(a), added par. (3).
 
-Subsec. (a)(3)(A). Pub. L. 105–34, §1238(b)(3)(A), inserted “(including any liability for any penalties, additions to tax, or additional amounts relating to such adjustment)” after “partnership item”.
+Subsec. (a)(3)(A). Pub. L. 105–34, §1238(b)(3)(A), inserted "(including any liability for any penalties, additions to tax, or additional amounts relating to such adjustment)" after "partnership item".
 
-Subsec. (a)(3)(B). Pub. L. 105–34, §1238(b)(3)(B), inserted “(and the applicability of any penalties, additions to tax, or additional amounts)” after “partnership items”.
+Subsec. (a)(3)(B). Pub. L. 105–34, §1238(b)(3)(B), inserted "(and the applicability of any penalties, additions to tax, or additional amounts)" after "partnership items".
 
 Subsec. (c)(1)(C). Pub. L. 105–34, §1238(b)(4), added subpar. (C).
 
-Subsec. (c)(2)(A). Pub. L. 105–34, §1238(b)(5), inserted “or (C)” after “(1)(A)” in subpar. heading and substituted “subparagraph (A) or (C) of paragraph (1)” for “paragraph (1)(A)” in text.
+Subsec. (c)(2)(A). Pub. L. 105–34, §1238(b)(5), inserted "or (C)" after "(1)(A)" in subpar. heading and substituted "subparagraph (A) or (C) of paragraph (1)" for "paragraph (1)(A)" in text.
 
-Subsec. (c)(4). Pub. L. 105–34, §1238(b)(6), inserted at end “In addition, the determination under the final partnership administrative adjustment or under the decision of the court (whichever is appropriate) concerning the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item shall also be conclusive. Notwithstanding the preceding sentence, the partner shall be allowed to assert any partner level defenses that may apply or to challenge the amount of the computational adjustment.”
+Subsec. (c)(4). Pub. L. 105–34, §1238(b)(6), inserted at end "In addition, the determination under the final partnership administrative adjustment or under the decision of the court (whichever is appropriate) concerning the applicability of any penalty, addition to tax, or additional amount which relates to an adjustment to a partnership item shall also be conclusive. Notwithstanding the preceding sentence, the partner shall be allowed to assert any partner level defenses that may apply or to challenge the amount of the computational adjustment."
 
 Subsec. (c)(5). Pub. L. 105–34, §1237(b), added par. (5).
 
-Subsec. (c)(5)(A). Pub. L. 105–34, §1238(b)(3)(C), inserted before period at end “(including any liability for any penalties, additions to tax, or additional amounts relating to such adjustment)”.
+Subsec. (c)(5)(A). Pub. L. 105–34, §1238(b)(3)(C), inserted before period at end "(including any liability for any penalties, additions to tax, or additional amounts relating to such adjustment)".
 
-Subsec. (c)(5)(D). Pub. L. 105–34, §1238(b)(3)(D), inserted “(and the applicability of any penalties, additions to tax, or additional amounts)” after “partnership items”.
+Subsec. (c)(5)(D). Pub. L. 105–34, §1238(b)(3)(D), inserted "(and the applicability of any penalties, additions to tax, or additional amounts)" after "partnership items".
 
-Subsec. (d)(6). Pub. L. 105–34, §1239(c)(1), struck out “(or an affected item)” after “partnership item”.
+Subsec. (d)(6). Pub. L. 105–34, §1239(c)(1), struck out "(or an affected item)" after "partnership item".
 
-<b>1992</b>—Subsec. (g). Pub. L. 102–572 substituted “Court of Federal Claims” for “Claims Court”.
+<b>1992</b>—Subsec. (g). Pub. L. 102–572 substituted "Court of Federal Claims" for "Claims Court".
 
-<b>1988</b>—Subsec. (a)(2)(A)(ii). Pub. L. 100–647 inserted “(other than by reason of section 6231(b)(1)(C))” after “nonpartnership items”.
+<b>1988</b>—Subsec. (a)(2)(A)(ii). Pub. L. 100–647 inserted "(other than by reason of section 6231(b)(1)(C))" after "nonpartnership items".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted “Coordination with deficiency proceedings” for “Normal deficiency proceedings do not apply to computational adjustments” as subsec. heading, and amended text generally. Prior to amendment text read as follows: “Subchapter B of this chapter shall not apply to the assessment or collection of any computational adjustment.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted "Coordination with deficiency proceedings" for "Normal deficiency proceedings do not apply to computational adjustments" as subsec. heading, and amended text generally. Prior to amendment text read as follows: "Subchapter B of this chapter shall not apply to the assessment or collection of any computational adjustment."
 
-<b>1984</b>—Subsec. (c)(1)(B). Pub. L. 98–369 struck out “(or erroneously computed the amount of any such credit or refund)” after “section 6228(a)”.
+<b>1984</b>—Subsec. (c)(1)(B). Pub. L. 98–369 struck out "(or erroneously computed the amount of any such credit or refund)" after "section 6228(a)".
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–206 applicable to any liability for tax arising after July 22, 1998, and any liability for tax arising on or before such date but remainingunpaid as of such date, see section 3201(g)(1) of Pub. L. 105–206, set out as a note under section 6015 of this title.
+Amendment by Pub. L. 105–206 applicable to any liability for tax arising after July 22, 1998, and any liability for tax arising on or before such date but remaining unpaid as of such date, see section 3201(g)(1) of Pub. L. 105–206, set out as a note under section 6015 of this title.
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XII, §1237(d), Aug. 5, 1997, 111 Stat. 1026, provided that: “The amendments made by this section \[amending this section and section 6503 of this title\] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\].”
+Pub. L. 105–34, title XII, §1237(d), Aug. 5, 1997, 111 Stat. 1026, provided that: "The amendments made by this section \[amending this section and section 6503 of this title\] shall take effect as if included in the amendments made by section 402 of the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\]."
 
 Amendment by section 1238(b)(2)–(6) of Pub. L. 105–34 applicable to partnership taxable years ending after Aug. 5, 1997, see section 1238(c) of Pub. L. 105–34, set out as a note under section 6221 of this title.
 
@@ -224,7 +224,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title XVIII, §1875(d)(2)(C), Oct. 22, 1986, 100 Stat. 2896, provided that: “The amendments made by this paragraph \[amending this section and sections 6213 and 6503 of this title\] shall take effect as if included in the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\].”
+Pub. L. 99–514, title XVIII, §1875(d)(2)(C), Oct. 22, 1986, 100 Stat. 2896, provided that: "The amendments made by this paragraph \[amending this section and sections 6213 and 6503 of this title\] shall take effect as if included in the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248\]."
 
 #### Effective Date of 1984 Amendment
 

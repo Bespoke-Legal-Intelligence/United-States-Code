@@ -38,5 +38,5 @@ Historical and Revision Notes
 
 Pub. L. 102–555, title V, §508, Oct. 28, 1992, 106 Stat. 4179.
 
-In subsection (d), in the second sentence, the words “have been, or are being” are substituted for “has been, or is being” to correct an error in the law.
+In subsection (d), in the second sentence, the words "have been, or are being" are substituted for "has been, or is being" to correct an error in the law.
 

@@ -4,7 +4,7 @@
 
 #### (1) Preparedness and response regarding public health emergencies
 
-&emsp;Beginning in 2009 and every four years thereafter, the Secretary shall prepare and submit to the relevant committees of Congress a coordinated strategy (to be known as the National Health Security Strategy) and any revisions thereof, and an accompanying implementation plan for public health emergency preparedness and response. Such National Health Security Strategy shall identify the process for achieving the preparedness goals described in subsection (b) and shall be consistent with the National Preparedness Goal, the National Incident Management System, and the National Response Plan developed pursuant to section 314(6) <sup>1</sup> of title 6, or any successor plan.
+&emsp;Beginning in 2014 and every four years thereafter, the Secretary shall prepare and submit to the relevant committees of Congress a coordinated strategy (to be known as the National Health Security Strategy) and any revisions thereof, and an accompanying implementation plan for public health emergency preparedness and response. Such National Health Security Strategy shall identify the process for achieving the preparedness goals described in subsection (b) and shall be consistent with the National Preparedness Goal, the National Incident Management System, and the National Response Plan developed pursuant to section 314(6) <sup>1</sup> of title 6, or any successor plan.
 
 #### (2) Evaluation of progress
 
@@ -22,7 +22,7 @@ The National Health Security Strategy shall include provisions in furtherance of
 
 &emsp;Integrating public health and public and private medical capabilities with other first responder systems, including through—
 
-&emsp;&emsp;(A) the periodic evaluation of Federal, State, local, and tribal preparedness and response capabilities through drills and exercises; and
+&emsp;&emsp;(A) the periodic evaluation of Federal, State, local, and tribal preparedness and response capabilities through drills and exercises, including drills and exercises to ensure medical surge capacity for events without notice; and
 
 &emsp;&emsp;(B) integrating public and private sector public health and medical donations and volunteers.
 
@@ -40,23 +40,27 @@ The National Health Security Strategy shall include provisions in furtherance of
 
 #### (3) Medical
 
-&emsp;Increasing the preparedness, response capabilities, and surge capacity of hospitals, other health care facilities (including mental health facilities), and trauma care and emergency medical service systems, with respect to public health emergencies, which shall include developing plans for the following:
+&emsp;Increasing the preparedness, response capabilities, and surge capacity of hospitals, other health care facilities (including mental health and ambulatory care facilities and which may include dental health facilities), and trauma care, critical care, and emergency medical service systems, with respect to public health emergencies (including related availability, accessibility, and coordination), which shall include developing plans for the following:
 
-&emsp;&emsp;(A) Strengthening public health emergency medical management and treatment capabilities.
+&emsp;&emsp;(A) Strengthening public health emergency medical and trauma management and treatment capabilities.
 
-&emsp;&emsp;(B) Medical evacuation and fatality management.
+&emsp;&emsp;(B) Fatality management.
 
-&emsp;&emsp;(C) Rapid distribution and administration of medical countermeasures.
+&emsp;&emsp;(C) Coordinated medical triage and evacuation to appropriate medical institutions based on patient medical need, taking into account regionalized systems of care.
 
-&emsp;&emsp;(D) Effective utilization of any available public and private mobile medical assets and integration of other Federal assets.
+&emsp;&emsp;(D) Rapid distribution and administration of medical countermeasures.
 
-&emsp;&emsp;(E) Protecting health care workers and health care first responders from workplace exposures during a public health emergency.
+&emsp;&emsp;(E) Effective utilization of any available public and private mobile medical assets (which may include such dental health assets) and integration of other Federal assets.
+
+&emsp;&emsp;(F) Protecting health care workers and health care first responders from workplace exposures during a public health emergency.
+
+&emsp;&emsp;(G) Optimizing a coordinated and flexible approach to the medical surge capacity of hospitals, other health care facilities, critical care, trauma care (which may include trauma centers), and emergency medical systems.
 
 #### (4) At-risk individuals
 
-&emsp;(A) Taking into account the public health and medical needs of at-risk individuals in the event of a public health emergency.
+&emsp;(A) Taking into account the public health and medical needs of at-risk individuals, including the unique needs and considerations of individuals with disabilities, in the event of a public health emergency.
 
-&emsp;(B) For purpose of this section and sections 247d–3a, 247d–6, and 247d–7e of this title, the term “at-risk individuals” means children, pregnant women, senior citizens and other individuals who have special needs in the event of a public health emergency, as determined by the Secretary.
+&emsp;(B) For the purpose of this section and sections 247d–3a, 247d–6, and 247d–7e of this title, the term "at-risk individuals" means children, pregnant women, senior citizens and other individuals who have special needs in the event of a public health emergency, as determined by the Secretary.
 
 #### (5) Coordination
 
@@ -66,11 +70,51 @@ The National Health Security Strategy shall include provisions in furtherance of
 
 &emsp;Maintaining vital public health and medical services to allow for optimal Federal, State, local, and tribal operations in the event of a public health emergency.
 
-(July 1, 1944, ch. 373, title XXVIII, §2802, as added Pub. L. 109–417, title I, §103, Dec. 19, 2006, 120 Stat. 2835.)
+#### (7) Countermeasures
+
+&emsp;(A) Promoting strategic initiatives to advance countermeasures to diagnose, mitigate, prevent, or treat harm from any biological agent or toxin, chemical, radiological, or nuclear agent or agents, whether naturally occurring, unintentional, or deliberate.
+
+&emsp;(B) For purposes of this paragraph, the term "countermeasures" has the same meaning as the terms "qualified countermeasures" under section 247d–6a of this title, "qualified pandemic and epidemic products" under section 247d–6d of this title, and "security countermeasures" under section 247d–6b of this title.
+
+#### (8) Medical and public health community resiliency
+
+&emsp;Strengthening the ability of States, local communities, and tribal communities to prepare for, respond to, and be resilient in the event of public health emergencies, whether naturally occurring, unintentional, or deliberate by—
+
+&emsp;&emsp;(A) optimizing alignment and integration of medical and public health preparedness and response planning and capabilities with and into routine daily activities; and
+
+&emsp;&emsp;(B) promoting familiarity with local medical and public health systems.
+
+(July 1, 1944, ch. 373, title XXVIII, §2802, as added Pub. L. 109–417, title I, §103, Dec. 19, 2006, 120 Stat. 2835; amended Pub. L. 113–5, title I, §101(a), Mar. 13, 2013, 127 Stat. 162.)
 
 #### References in Text
 
-Section 314(6) of title 6, referred to in subsec. (a)(1), was in the original “section 502(6) of the Homeland Security Act of 2002”, and was translated as meaning section 504(6) of Pub. L. 107–296, to reflect the probable intent of Congress and the renumbering of section 502 as 504 by Pub. L. 109–295, title VI, §611(8), Oct. 4, 2006, 120 Stat. 1395.
+Section 314(6) of title 6, referred to in subsec. (a)(1), was in the original "section 502(6) of the Homeland Security Act of 2002", and was translated as meaning section 504(6) of Pub. L. 107–296, to reflect the probable intent of Congress and the renumbering of section 502 as 504 by Pub. L. 109–295, title VI, §611(8), Oct. 4, 2006, 120 Stat. 1395.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (a)(1). Pub. L. 113–5, §101(a)(1), substituted "2014" for "2009".
+
+Subsec. (b)(1)(A). Pub. L. 113–5, §101(a)(2)(A), inserted ", including drills and exercises to ensure medical surge capacity for events without notice" after "through drills and exercises".
+
+Subsec. (b)(3). Pub. L. 113–5, §101(a)(2)(B)(i), in introductory provisions, substituted "and ambulatory care facilities and which may include dental health facilities), and trauma care, critical care," for "facilities), and trauma care" and inserted "(including related availability, accessibility, and coordination)" after "public health emergencies".
+
+Subsec. (b)(3)(A). Pub. L. 113–5, §101(a)(2)(B)(ii), inserted "and trauma" after "medical".
+
+Subsec. (b)(3)(B). Pub. L. 113–5, §101(a)(2)(B)(iii), substituted "Fatality management" for "Medical evacuation and fatality management".
+
+Subsec. (b)(3)(C), (D). Pub. L. 113–5, §101(a)(2)(B)(iv), (v), added subpar. (C) and redesignated former subpar. (C) as (D). Former subpar. (D) redesignated (E).
+
+Subsec. (b)(3)(E). Pub. L. 113–5, §101(a)(2)(B)(iv), (vi), redesignated subpar. (D) as (E) and inserted "(which may include such dental health assets)" after "medical assets". Former subpar. (E) redesignated (F).
+
+Subsec. (b)(3)(F). Pub. L. 113–5, §101(a)(2)(B)(iv), redesignated subpar. (E) as (F).
+
+Subsec. (b)(3)(G). Pub. L. 113–5, §101(a)(2)(B)(vii), added subpar. (G).
+
+Subsec. (b)(4)(A). Pub. L. 113–5, §101(a)(2)(C)(i), inserted ", including the unique needs and considerations of individuals with disabilities," after "needs of at-risk individuals".
+
+Subsec. (b)(4)(B). Pub. L. 113–5, §101(a)(2)(C)(ii), inserted "the" before "purpose of this section".
+
+Subsec. (b)(7), (8). Pub. L. 113–5, §101(a)(2)(D), added pars. (7) and (8).
 
 #### Ex. Ord. No. 13527. Establishing Federal Capability for the Timely Provision of Medical Countermeasures Following a Biological Attack
 
@@ -86,7 +130,7 @@ Sec. 2. <i>United States Postal Service Delivery of Medical Countermeasures</i>.
 
 (b) The Secretaries of Health and Human Services and Homeland Security, in coordination with the U.S. Postal Service, within 180 days of the date of this order, shall establish a national U.S. Postal Service medical countermeasures dispensing model for U.S. cities to respond to a large-scale biological attack, with anthrax as the primary threat consideration.
 
-(c) In support of the national U.S. Postal Service model, the Secretaries of Homeland Security, Health and Human Services, and Defense, and the Attorney General, in coordination with the U.S. Postal Service, and in consultation with State and local public health, emergency management, and law enforcement officials, within 180 days of the date of this order, shall develop an accompanying plan for supplementing local law enforcement personnel, as necessary and appropriate, with local Federal law enforcement, as well as other appropriate personnel, to escort U.S. Postal workers delivering medical countermeasures.
+(c) In support of the national U.S. Postal Service model, the Secretaries of Homeland Security, Health and Human Services, and Defense, and the Attorney General, in coordination with the U.S. Postal Service, and in consultation with State and local public health, emergency management, and law enforcement officials, within 180 days of the date of this order, shall developan accompanying plan for supplementing local law enforcement personnel, as necessary and appropriate, with local Federal law enforcement, as well as other appropriate personnel, to escort U.S. Postal workers delivering medical countermeasures.
 
 Sec. 3. <i>Federal Rapid Response</i>. (a) The Federal Government must develop the capacity to anticipate and immediately supplement the capabilities of affected jurisdictions to rapidly distribute medical countermeasures following a biological attack. Implementation of a Federal strategy to rapidly dispense medical countermeasures requires establishment of a Federal rapid response capability.
 

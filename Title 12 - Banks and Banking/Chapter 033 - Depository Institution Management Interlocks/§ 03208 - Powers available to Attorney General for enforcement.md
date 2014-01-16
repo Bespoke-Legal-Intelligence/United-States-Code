@@ -14,7 +14,7 @@ The Clayton Act, referred to in text, is act Oct. 15, 1914, ch. 323, 38 Stat. 73
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203 substituted “the enforcement functions of the Attorney General” for “his enforcement functions”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203 substituted "the enforcement functions of the Attorney General" for "his enforcement functions".
 
 #### Effective Date of 2010 Amendment
 

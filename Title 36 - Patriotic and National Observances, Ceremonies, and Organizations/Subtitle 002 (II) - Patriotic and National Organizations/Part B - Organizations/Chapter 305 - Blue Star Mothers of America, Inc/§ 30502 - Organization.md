@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Blue Star Mothers of America, Inc. (in this chapter, the “corporation”), is a federally chartered corporation.
+Federal Charter.—Blue Star Mothers of America, Inc. (in this chapter, the "corporation"), is a federally chartered corporation.
 
 (b)
 

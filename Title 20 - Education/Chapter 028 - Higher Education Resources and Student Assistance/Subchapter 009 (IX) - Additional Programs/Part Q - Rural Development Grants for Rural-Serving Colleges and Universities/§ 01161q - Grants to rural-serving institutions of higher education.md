@@ -14,15 +14,15 @@ For the purposes of this section:
 
 #### (1) Rural-serving institution of higher education
 
-&emsp;The term “rural-serving institution of higher education” means an institution of higher education that primarily serves rural areas.
+&emsp;The term "rural-serving institution of higher education" means an institution of higher education that primarily serves rural areas.
 
 #### (2) Rural area
 
-&emsp;The term “rural area” means an area that is defined, identified, or otherwise recognized as rural by a governmental agency of the State in which the area is located.
+&emsp;The term "rural area" means an area that is defined, identified, or otherwise recognized as rural by a governmental agency of the State in which the area is located.
 
 #### (3) Nontraditional student
 
-&emsp;The term “nontraditional student” means an individual who—
+&emsp;The term "nontraditional student" means an individual who—
 
 &emsp;&emsp;(A) delays enrollment in an institution of higher education by three or more years after secondary school graduation;
 
@@ -42,7 +42,7 @@ For the purposes of this section:
 
 #### (4) Regional employer
 
-&emsp;The term “regional employer” means an employer within a rural area.
+&emsp;The term "regional employer" means an employer within a rural area.
 
 #### (c) Partnership
 

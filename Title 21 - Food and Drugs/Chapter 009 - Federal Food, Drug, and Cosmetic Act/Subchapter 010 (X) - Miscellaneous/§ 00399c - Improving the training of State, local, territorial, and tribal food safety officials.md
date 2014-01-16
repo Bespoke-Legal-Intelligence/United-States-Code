@@ -22,7 +22,7 @@ The Secretary shall set standards and administer training and education programs
 
 #### (1) In general
 
-&emsp;The Secretary, pursuant to a contract or memorandum of understanding between the Secretary and the head of a State, local, territorial, or tribal department or agency, is authorized and encouraged to conduct examinations, testing, and investigations for the purposes of determining compliance with the food safety provisions of this chapter through the officers and employees of such State, local, territorial, or tribal department or agency.
+&emsp;The Secretary, pursuant to a contract or memorandum of understanding between theSecretary and the head of a State, local, territorial, or tribal department or agency, is authorized and encouraged to conduct examinations, testing, and investigations for the purposes of determining compliance with the food safety provisions of this chapter through the officers and employees of such State, local, territorial, or tribal department or agency.
 
 #### (2) Content
 

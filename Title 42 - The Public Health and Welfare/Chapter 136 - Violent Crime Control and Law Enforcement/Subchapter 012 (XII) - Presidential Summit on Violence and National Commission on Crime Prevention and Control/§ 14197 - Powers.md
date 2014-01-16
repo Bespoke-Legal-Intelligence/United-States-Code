@@ -2,7 +2,7 @@
 
 #### (a) Hearings
 
-For the purposes of carrying out this subchapter, the Commission may conduct suchhearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Commission considers appropriate. The Commission may administer oaths before the Commission.
+For the purposes of carrying out this subchapter, the Commission may conduct such hearings, sit and act at such times and places, take such testimony, and receive such evidence, as the Commission considers appropriate. The Commission may administer oaths before the Commission.
 
 #### (b) Delegation
 

@@ -28,7 +28,7 @@
 
 (4) The limitations on contributions contained in paragraphs (1) and (2) do not apply to transfers between and among political committees which are national, State, district, or local committees (including any subordinate committee thereof) of the same political party. For purposes of paragraph (2), the term “multicandidate political committee” means a political committee which has been registered under section 433 of this title for a period of not less than 6 months, which has received contributions from more than 50 persons, and, except for any State political party organization, has made contributions to 5 or more candidates for Federal office.
 
-(5) For purposes of the limitations provided by paragraph (1) and paragraph (2), all contributions made by political committees established or financed or maintained or controlled by any corporation, labor organization, or any other person, including any parent, subsidiary, branch, division, department, or local unit of such corporation, labor organization, or any other person, or by any group of such persons, shall be considered to have been made by a single political committee, except that (A) nothing in this sentence shall limit transfers between political committees of funds raised through joint fund raising efforts; (B) for purposes of the limitations provided by paragraph (1) and paragraph (2) all contributions made by a single political committee established or financed or maintained or controlled by a national committee of a political party and by a single political committee established or financed or maintained or controlled by the State committee of a political party shall not be considered to have been made by a single political committee; and (C) nothing in this section shall limit the transfer of funds between the principal campaign committee of a candidate seeking nomination or election to a Federal office and the principal campaign committee of that candidate for nomination or election to another Federal office if (i) such transfer is not made when the candidate is actively seeking nomination or election to both such offices; (ii) the limitations contained in this Act on contributions by persons are not exceeded by such transfer; and (iii) the candidate has not elected to receive any funds under chapter 95 or chapter 96 of title 26. In any case in which a corporation and any of its subsidiaries, branches, divisions, departments, or local units, or a labor organization and any of its subsidiaries, branches, divisions, departments, or local units establish or finance or maintain or control more than one separate segregated fund, all such separate segregated funds shall be treated as a single separate segregated fund for purposes of the limitations provided by paragraph (1) and paragraph (2).
+(5) For purposes of the limitations provided by paragraph (1) and paragraph (2), all contributions made by political committees established or financed or maintained or controlled by any corporation, labor organization, or any other person, including any parent, subsidiary, branch, division, department, or local unit of such corporation, labor organization, or any other person, or by any group of such persons, shall be considered to have been made by a single political committee, except that (A) nothingin this sentence shall limit transfers between political committees of funds raised through joint fund raising efforts; (B) for purposes of the limitations provided by paragraph (1) and paragraph (2) all contributions made by a single political committee established or financed or maintained or controlled by a national committee of a political party and by a single political committee established or financed or maintained or controlled by the State committee of a political party shall not be considered to have been made by a single political committee; and (C) nothing in this section shall limit the transfer of funds between the principal campaign committee of a candidate seeking nomination or election to a Federal office and the principal campaign committee of that candidate for nomination or election to another Federal office if (i) such transfer is not made when the candidate is actively seeking nomination or election to both such offices; (ii) the limitations contained in this Act on contributions by persons are not exceeded by such transfer; and (iii) the candidate has not elected to receive any funds under chapter 95 or chapter 96 of title 26. In any case in which a corporation and any of its subsidiaries, branches, divisions, departments, or local units, or a labor organization and any of its subsidiaries, branches, divisions, departments, or local units establish or finance or maintain or control more than one separate segregated fund, all such separate segregated funds shall be treated as a single separate segregated fund for purposes of the limitations provided by paragraph (1) and paragraph (2).
 
 (6) The limitations on contributions to a candidate imposed by paragraphs (1) and (2) of this subsection shall apply separately with respect to each election, except that all elections held in any calendar year for the office of President of the United States (except a general election for such office) shall be considered to be one election.
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(i) an authorized committee or any other agent of the candidate for purposes of making any expenditure; or
 
-&emsp;&emsp;(ii) any person authorized or requested by the candidate, an authorized committee of the candidate, or an agent of the candidate, to make the expenditure.
+&emsp;&emsp;(ii) any person authorized or requested by the candidate, an authorized committee ofthe candidate, or an agent of the candidate, to make the expenditure.
 
 #### (c) Increases on limits based on increases in price index
 
@@ -134,7 +134,7 @@ Transfers.—A committee of a political party that makes coordinated expenditure
 
 #### (e) Certification and publication of estimated voting age population
 
-During the first week of January 1975, and every subsequent year, the Secretary of Commerce shall certify to the Commission and publish in the Federal Register an estimate of the voting age population of the United States, of each State, and of each congressional district as of the first day of July next preceding the date of certification. The term “voting age population” means resident population, 18 years of age or older.
+During the first week of January 1975, and every subsequent year, the Secretary of Commerce shall certify to the Commission and publish in the Federal Register an estimate of thevoting age population of the United States, of each State, and of each congressional district as of the first day of July next preceding the date of certification. The term “voting age population” means resident population, 18 years of age or older.
 
 #### (f) Prohibited contributions and expenditures
 
@@ -168,7 +168,7 @@ Notwithstanding any other provision of this Act, amounts totaling not more than 
 
 #### (ii) Voting age population
 
-&emsp;&emsp;&emsp;In this subparagraph, the term “voting age population” means in the case of a candidate for the office of Senator, the voting age population of the State of thecandidate (as certified under subsection (e) of this section).
+&emsp;&emsp;&emsp;In this subparagraph, the term “voting age population” means in the case of a candidate for the office of Senator, the voting age population of the State of the candidate (as certified under subsection (e) of this section).
 
 #### (C) Increased limit
 
@@ -254,7 +254,7 @@ For effective date of the Bipartisan Campaign Reform Act of 2002, referred to in
 
 #### Constitutionality
 
-See Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
+For information regarding constitutionality of certain provisions of section 315 of Pub. L. 92–225, as added by section 112(2) of Pub. L. 94–283 and amended by section 213 of Pub. L. 107–155, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.
 
 #### Prior Provisions
 

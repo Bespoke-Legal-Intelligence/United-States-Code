@@ -8,7 +8,7 @@ Any person who willfully violates any provision of this chapter or any rule, ord
 
 (1) Whenever on the basis of any information available to him the Secretary finds that any person is in violation of any provision of this chapter or any rule, regulation, order, license, or condition thereof, or other requirements under this chapter, he shall issue an order requiring such person to comply with such provision or requirement, or he shall bring a civil action in accordance with paragraph (3) of this subsection.
 
-(2) Any order issued under this subsection shall state with reasonable specificity the nature of the violation and a time for compliance, not to exceed thirty days, which the Secretary determines is reasonable, taking into account the seriousness of the violation and any good faith efforts to comply with applicable requirements.
+(2) Any order issued under this subsection shall state with reasonable specificity the nature of the violation and a time for compliance, not to exceed thirty days, which the Secretary determines is reasonable, taking into account the seriousness of the violation and any goodfaith efforts to comply with applicable requirements.
 
 (3) Upon a request by the Secretary, the Attorney General shall commence a civil action for appropriate relief, including a permanent or temporary injunction or a civil penalty not to exceed $25,000 per day of such violation, for any violation for which the Secretary is authorized to issue a compliance order under paragraph (1) of this subsection. Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides, or is doing business, and such court shall have jurisdiction to restrain such violation, require compliance, or impose such penalty.
 
@@ -24,7 +24,7 @@ Any vessel, except a public vessel engaged in noncommercial activities, used in 
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–380 substituted “commits a class A misdemeanor for each day of violation” for “shall on conviction be fined not more than $25,000 for each day of violation or imprisoned for not more than 1 year, or both”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–380 substituted "commits a class A misdemeanor for each day of violation" for "shall on conviction be fined not more than $25,000 for each day of violation or imprisoned for not more than 1 year, or both".
 
 #### Effective Date of 1990 Amendment
 

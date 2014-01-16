@@ -112,11 +112,11 @@ In this section:
 
 #### (1) Commissioner
 
-&emsp;The term “Commissioner” means the Commissioner of Social Security.
+&emsp;The term "Commissioner" means the Commissioner of Social Security.
 
 #### (2) Disabled beneficiary
 
-&emsp;The term “disabled beneficiary” means an individual—
+&emsp;The term "disabled beneficiary" means an individual—
 
 &emsp;&emsp;(A) who is a disabled beneficiary as defined in section 1320b–19(k)(2) of this title;
 
@@ -148,31 +148,31 @@ Section 212 of Public Law 93–66, referred to in subsec. (d)(2)(B), is set out 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(4). Pub. L. 111–280, §3(b)(1), substituted “Funding” for “Allocation of costs” in par. (4) heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
+<b>2010</b>—Subsec. (b)(4). Pub. L. 111–280, §3(b)(1), substituted "Funding" for "Allocation of costs" in par. (4) heading, designated existing provisions as subpar. (A), inserted subpar. (A) heading, and added subpar. (B).
 
 Subsec. (c). Pub. L. 111–280, §3(a), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 111–280, §3(a), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 111–280, §2(a), substituted “2011” for “2010”.
+Pub. L. 111–280, §2(a), substituted "2011" for "2010".
 
 Subsec. (e). Pub. L. 111–280, §3(a), redesignated subsec. (d) as (e).
 
-<b>2009</b>—Subsec. (d). Pub. L. 111–63 substituted “2010” for “2009”.
+<b>2009</b>—Subsec. (d). Pub. L. 111–63 substituted "2010" for "2009".
 
-<b>2004</b>—Subsec. (c)(2). Pub. L. 108–203, §404(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘disabled beneficiary’ has the meaning given that term in section 1320b–19(k)(2) of this title.”
+<b>2004</b>—Subsec. (c)(2). Pub. L. 108–203, §404(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The term 'disabled beneficiary' has the meaning given that term in section 1320b–19(k)(2) of this title."
 
-Subsec. (d). Pub. L. 108–203, §407(a), substituted “2009” for “2004”.
+Subsec. (d). Pub. L. 108–203, §407(a), substituted "2009" for "2004".
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–280, §3(b)(2), Oct. 13, 2010, 124 Stat. 2904, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply with respect to amounts allotted under section 1149 of the Social Security Act \[42 U.S.C. 1320b–20\] for payment for a fiscal year after fiscal year 2010.”
+Pub. L. 111–280, §3(b)(2), Oct. 13, 2010, 124 Stat. 2904, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply with respect to amounts allotted under section 1149 of the Social Security Act \[42 U.S.C. 1320b–20\] for payment for a fiscal year after fiscal year 2010."
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–203, title IV, §404(a)(2), Mar. 2, 2004, 118 Stat. 526, provided that: “The amendment made by this subsection \[amending this section\] shall apply with respect to grants, cooperative agreements, or contracts entered into on or after the date of the enactment of this Act \[Mar. 2, 2004\].”
+Pub. L. 108–203, title IV, §404(a)(2), Mar. 2, 2004, 118 Stat. 526, provided that: "The amendment made by this subsection \[amending this section\] shall apply with respect to grants, cooperative agreements, or contracts entered into on or after the date of the enactment of this Act \[Mar. 2, 2004\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subparagraph".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

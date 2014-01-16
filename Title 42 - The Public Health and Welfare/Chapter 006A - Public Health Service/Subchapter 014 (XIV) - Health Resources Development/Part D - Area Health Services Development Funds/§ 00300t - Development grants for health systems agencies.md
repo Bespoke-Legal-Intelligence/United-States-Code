@@ -38,7 +38,7 @@ Section 300l–1 of this title, referred to in subsec. (a)(3), was in the origin
 
 <b>1979</b>—Subsec. (d). Pub. L. 96–79 authorized appropriations of $20,000,000 for fiscal year ending Sept. 30, 1981, and $30,000,000 for fiscal year ending Sept. 30, 1982.
 
-<b>1977</b>—Subsec. (d). Pub. L. 95–83 substituted “each for the fiscal years ending September 30, 1977, and September 30, 1978” for “for the fiscal year ending June 30, 1977”.
+<b>1977</b>—Subsec. (d). Pub. L. 95–83 substituted "each for the fiscal years ending September 30, 1977, and September 30, 1978" for "for the fiscal year ending June 30, 1977".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

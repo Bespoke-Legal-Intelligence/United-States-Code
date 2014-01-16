@@ -12,7 +12,7 @@ Nothing in sections 459h to 459h–10 of this title <sup>1</sup> or any other p
 
 #### References in Text
 
-Sections 459h to 459h–10 of this title, referred to in subsec. (b), was in the original “this title”, and was translated as reading “this Act”, meaning Pub. L. 91–660, which enacted sections 459h to 459h–10 of this title, to reflect the probable intent of Congress, because Pub. L. 91–660 does not contain titles.
+Sections 459h to 459h–10 of this title, referred to in subsec. (b), was in the original "this title", and was translated as reading "this Act", meaning Pub. L. 91–660, which enacted sections 459h to 459h–10 of this title, to reflect the probable intent of Congress, because Pub. L. 91–660 does not contain titles.
 
 #### Amendments
 

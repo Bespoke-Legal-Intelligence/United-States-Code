@@ -16,7 +16,7 @@ The extension of Federal financial assistance to a local educational agency may 
 
 &emsp;(4) the limitation of any deferral of Federal financial assistance which may be imposed by the Secretary to a period not to exceed 15 days after the rendering of such decision unless there has been an express finding on such record that such agency has failed to comply with any such nondiscrimination provision of Federal law; and
 
-&emsp;(5) procedures, which shall be established by the Secretary, to ensure the availability of sufficient funds, without regard to any fiscal year limitations, to comply with the decision of such judge.
+&emsp;(5) procedures, which shall be established by the Secretary, to ensure the availability ofsufficient funds, without regard to any fiscal year limitations, to comply with the decision of such judge.
 
 #### (c) Failure to comply with imposition of quotas
 
@@ -44,5 +44,5 @@ Amendment by Pub. L. 94–482 effective 30 days after Oct. 12, 1976, except eith
 
 #### Effective Date
 
-Pub. L. 93–380, title V, §515(b), Aug. 21, 1974, 88 Stat. 574, provided that: “The amendment made by subsection (a) \[enacting this section\] shall be effective upon enactment of this Act \[Aug. 21, 1974\].”
+Pub. L. 93–380, title V, §515(b), Aug. 21, 1974, 88 Stat. 574, provided that: "The amendment made by subsection (a) \[enacting this section\] shall be effective upon enactment of this Act \[Aug. 21, 1974\]."
 

@@ -10,7 +10,7 @@ Another section 1013 was renumbered section 1014 of this title.
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–510 substituted “1095a” for “1095”.
+<b>1990</b>—Pub. L. 101–510 substituted "1095a" for "1095".
 
-<b>1988</b>—Pub. L. 100–456 substituted “section 1032” for “section 1051”.
+<b>1988</b>—Pub. L. 100–456 substituted "section 1032" for "section 1051".
 

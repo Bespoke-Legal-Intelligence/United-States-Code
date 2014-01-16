@@ -38,11 +38,11 @@ There are authorized to be appropriated to carry out this part such sums as may 
 
 <b>2006</b>—Subsec. (a)(3). Pub. L. 109–365, §703(1), added par. (3).
 
-Subsec. (b). Pub. L. 109–365, §703(2), substituted “this section” for “this part”.
+Subsec. (b). Pub. L. 109–365, §703(2), substituted "this section" for "this part".
 
-Subsec. (d). Pub. L. 109–365, §703(3), substituted “this part” for “this section” and “2007” for “2001”.
+Subsec. (d). Pub. L. 109–365, §703(3), substituted "this part" for "this section" and "2007" for "2001".
 
-<b>2000</b>—Subsec. (d). Pub. L. 106–501 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section, $5,000,000 for fiscal year 1992, and such sums as may be necessary for fiscal years 1993, 1994, and 1995.”
+<b>2000</b>—Subsec. (d). Pub. L. 106–501 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this section, $5,000,000 for fiscal year 1992, and such sums as may be necessary for fiscal years 1993, 1994, and 1995."
 
-<b>1993</b>—Subsecs. (a), (b). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” and “Director of the Office for” for “Associate Commissioner on” in subsec. (a) and “Assistant Secretary” for “Commissioner” in two places in subsec. (b).
+<b>1993</b>—Subsecs. (a), (b). Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner" and "Director of the Office for" for "Associate Commissioner on" in subsec. (a) and "Assistant Secretary" for "Commissioner" in two places in subsec. (b).
 

@@ -22,7 +22,7 @@
 
 &emsp;(C) information on the type, status, location, and amount of any assets of, or debts owed by or to, any such individual.
 
-(3) For the purpose of enforcing any Federal or State law with respect to the unlawful taking or restraint of a child, or making or enforcing a child custody or visitation determination, as defined in section 663(d)(1) of this title, the Federal Parent Locator Service shall be used to obtain and transmit the information specified in section 663(c) of this title to the authorized persons specified in section 663(d)(2) of this title.
+(3) For the purpose of enforcing any Federal or State law with respect to the unlawful taking or restraint of a child, or making or enforcing a child custody or visitation determination, as defined in section 663(d)(1) of this title, the Federal Parent Locator Service shall be used to obtainand transmit the information specified in section 663(c) of this title to the authorized persons specified in section 663(d)(2) of this title.
 
 #### (b) Disclosure of information to authorized persons
 
@@ -42,13 +42,13 @@
 
 &emsp;&emsp;(i) upon receipt of information from the Secretary, the court determines whether disclosure to any other person of that information could be harmful to the parent or the child; and
 
-&emsp;&emsp;(ii) if the court determines that disclosure of such information to any other personcould be harmful, the court and its agents shall not make any such disclosure.
+&emsp;&emsp;(ii) if the court determines that disclosure of such information to any other person could be harmful, the court and its agents shall not make any such disclosure.
 
 &emsp;(3) Information received or transmitted pursuant to this section shall be subject to the safeguard provisions contained in section 654(26) of this title.
 
-#### (c) “Authorized person” defined
+#### (c) "Authorized person" defined
 
-As used in subsection (a) of this section, the term “authorized person” means—
+As used in subsection (a) of this section, the term "authorized person" means—
 
 &emsp;(1) any agent or attorney of any State having in effect a plan approved under this part, who has the duty or authority under such plans to seek to recover any amounts owed as child and spousal support (including, when authorized under the State plan, any official of a political subdivision);
 
@@ -82,7 +82,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (1) In general
 
-&emsp;Not later than October 1, 1998, in order to assist States in administering programs under State plans approved under this part and programs funded under part A of this subchapter, and for the other purposes specified in this section, the Secretary shall establish and maintain in the Federal Parent Locator Service an automated registry (which shall be known as the “Federal Case Registry of Child Support Orders”), which shall contain abstracts of support orders and other information described in paragraph (2) with respect to each case and order in each State case registry maintained pursuant to section 654a(e) of this title, as furnished (and regularly updated), pursuant to section 654a(f) of this title, by State agencies administering programs under this part.
+&emsp;Not later than October 1, 1998, in order to assist States in administering programs under State plans approved under this part and programs funded under part A of this subchapter, and for the other purposes specified in this section, the Secretary shall establish and maintain in the Federal Parent Locator Service an automated registry (which shall be known as the "Federal Case Registry of Child Support Orders"), which shall contain abstracts of support orders and other information described in paragraph (2) with respect to each case and order in each State case registry maintained pursuant to section 654a(e) of this title, as furnished (and regularly updated), pursuant to section 654a(f) of this title, by State agencies administering programs under this part.
 
 #### (2) Case and order information
 
@@ -114,7 +114,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (3) Administration of Federal tax laws
 
-&emsp;The Secretary of the Treasury shall have access to the information in the National Directory of New Hires for purposes of administering section 32 of the Internal Revenue Code of 1986, or the advance payment of the earned income tax credit under section 3507 of such Code, and verifying a claim with respect to employment in a tax return.
+&emsp;The Secretary of the Treasury shall have access to the information in the National Directory of New Hires for purposes of administering section 32 of the Internal Revenue Code of1986, or the advance payment of the earned income tax credit under section 3507 of such Code, and verifying a claim with respect to employment in a tax return.
 
 #### (4) List of multistate employers
 
@@ -146,7 +146,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (3) Information comparisons and disclosures of information in all registries for subchapter IV program purposes
 
-&emsp;To the extent and with the frequency that the Secretary determines to be effective in assisting States to carry out their responsibilities under programs operated under this part, part B, or part E and programs funded underpart A of this subchapter, the Secretary shall—
+&emsp;To the extent and with the frequency that the Secretary determines to be effective in assisting States to carry out their responsibilities under programs operated under this part, part B, or part E and programs funded under part A of this subchapter, the Secretary shall—
 
 &emsp;&emsp;(A) compare the information in each component of the Federal Parent Locator Service maintained under this section against the information in each other such component (other than the comparison required by paragraph (2)), and report instances in which such a comparison reveals a match with respect to an individual to State agencies operating such programs; and
 
@@ -182,7 +182,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (ii) Condition on disclosure
 
-&emsp;&emsp;&emsp;The Secretary shall make disclosures in accordance with clause (i) only to the extent that the Secretary determines that such disclosures do not interfere with the effective operation of the program under this part. Support collection under section 666(b) of this title shall be given priority over collection of any defaulted student loan or grant overpayment against the same income.
+&emsp;&emsp;&emsp;The Secretary shall make disclosures in accordance with clause (i) only to the extent that the Secretary determines that such disclosures do not interfere with the effective operation of the program under this part. Support collection under section 666(b) of this title shall be given priority over collection of any defaulted studentloan or grant overpayment against the same income.
 
 #### (D) Use of information by the Secretary of Education
 
@@ -222,7 +222,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (A) Furnishing of information by HUD
 
-&emsp;&emsp;Subject to subparagraph (G), the Secretary of Housing and Urban Development shallfurnish to the Secretary, on such periodic basis as determined by the Secretary of Housing and Urban Development in consultation with the Secretary, information in the custody of the Secretary of Housing and Urban Development for comparison with information in the National Directory of New Hires, in order to obtain information in such Directory with respect to individuals who are participating in any program under—
+&emsp;&emsp;Subject to subparagraph (G), the Secretary of Housing and Urban Development shall furnish to the Secretary, on such periodic basis as determined by the Secretary of Housing and Urban Development in consultation with the Secretary, information in the custody of the Secretary of Housing and Urban Development for comparison with information in the National Directory of New Hires, in order to obtain information in such Directory with respect to individuals who are participating in any program under—
 
 &emsp;&emsp;&emsp;(i) the United States Housing Act of 1937 (42 U.S.C. 1437 et seq.);
 
@@ -264,7 +264,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (ii) Disclosures permitted
 
-&emsp;&emsp;&emsp;Subject to clause (iii), the Secretary of Housing and Urban Development may disclose information resulting from a data match pursuant to this paragraph only to a public housing agency, the Inspector General of the Department of Housing and Urban Development, and the Attorney General in connection with the administration of a program described in subparagraph (A). Information obtained by the Secretary of Housing and Urban Development pursuant to this paragraph shall not be made available under section 552 of title 5.
+&emsp;&emsp;&emsp;Subject to clause (iii), the Secretary of Housing and Urban Development may disclose information resulting from a data match pursuant to this paragraph only to a public housing agency, the Inspector General of the Department of Housing andUrban Development, and the Attorney General in connection with the administration of a program described in subparagraph (A). Information obtained by the Secretary of Housing and Urban Development pursuant to this paragraph shall not be made available under section 552 of title 5.
 
 #### (iii) Conditions on disclosure
 
@@ -432,11 +432,11 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (A) Furnishing of information by Secretary of Veterans Affairs
 
-&emsp;&emsp;Subject to the provisions of this paragraph, the Secretary of Veterans Affairsshall furnish to the Secretary, on such periodic basis as determined by the Secretary of Veterans Affairs in consultation with the Secretary, information in the custody of the Secretary of Veterans Affairs for comparison with information in the National Directory of New Hires, in order to obtain information in such Directory with respect to individuals who are applying for or receiving—
+&emsp;&emsp;Subject to the provisions of this paragraph, the Secretary of Veterans Affairs shall furnish to the Secretary, on such periodic basis as determined by the Secretary of Veterans Affairs in consultation with the Secretary, information in the custody of the Secretary of Veterans Affairs for comparison with information in the National Directory of New Hires, in order to obtain information in such Directory with respect to individuals who are applying for or receiving—
 
 &emsp;&emsp;&emsp;(i) needs-based pension benefits provided under chapter 15 of title 38 or under any other law administered by the Secretary of Veterans Affairs;
 
-&emsp;&emsp;&emsp;(ii) parents’ dependency and indemnity compensation provided under section 1315 of title 38;
+&emsp;&emsp;&emsp;(ii) parents' dependency and indemnity compensation provided under section 1315 of title 38;
 
 &emsp;&emsp;&emsp;(iii) health care services furnished under subsections (a)(2)(G), (a)(3), or (b) of section 1710 of title 38; or
 
@@ -466,7 +466,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (E) Reimbursement of HHS costs
 
-&emsp;&emsp;The Secretary of Veterans Affairs shall reimburse the Secretary, in accordance with subsection (k)(3), for the costs incurred by the Secretary in furnishing the information requested under this paragraph.
+&emsp;&emsp;The Secretary of Veterans Affairs shall reimburse the Secretary, in accordance withsubsection (k)(3), for the costs incurred by the Secretary in furnishing the information requested under this paragraph.
 
 #### (F) Consent
 
@@ -474,7 +474,11 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (G) Expiration of authority
 
-&emsp;&emsp;The authority under this paragraph shall expire on November 18, 2011.
+&emsp;&emsp;The authority under this paragraph shall be in effect as follows:
+
+&emsp;&emsp;&emsp;(i) During the period beginning on December 26, 2007, and ending on November 18, 2011.
+
+&emsp;&emsp;&emsp;(ii) During the period beginning on September 30, 2013, and ending 180 days after that date.
 
 #### (k) Fees
 
@@ -516,11 +520,11 @@ Each department, agency, and instrumentality of the United States shall on a qua
 
 Out of any money in the Treasury of the United States not otherwise appropriated, there is hereby appropriated to the Secretary for each fiscal year an amount equal to 2 percent of the total amount paid to the Federal Government pursuant to a plan approved under this part during the immediately preceding fiscal year (as determined on the basis of the most recent reliable data available to the Secretary as of the end of the third calendar quarter following the end of such preceding fiscal year) or the amount appropriated under this paragraph <sup>3</sup> for fiscal year 2002, whichever is greater, which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements, for operation of the Federal Parent Locator Service under this section, to the extent such costs are not recovered through user fees. Amounts appropriated under this subsection shall remain available until expended.
 
-#### (p) “Support order” defined
+#### (p) "Support order" defined
 
-As used in this part, the term “support order” means a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing State, or of the parent with whom the child is living, which provides for monetary support, health care, arrearages, or reimbursement, and which may include related costs and fees, interest and penalties, income withholding, attorneys’ fees, and other relief.
+As used in this part, the term "support order" means a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing State, or of the parent with whom the child is living, which provides for monetary support, health care, arrearages, or reimbursement, and which may include related costs and fees, interest and penalties, income withholding, attorneys' fees, and other relief.
 
-(Aug. 14, 1935, ch. 531, title IV, §453, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2353; amended Pub. L. 97–35, title XXIII, §2332(c), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2663(c)(13), (j)(2)(B)(ix), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§17, 19(a), Aug. 16, 1984, 98 Stat. 1321, 1322; Pub. L. 100–485, title I, §124(a), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 104–193, title I, §108(c)(10), title III, §§316(a)–(f), 345(b), 366, 395(d)(1)(C), (2)(A), Aug. 22, 1996, 110 Stat. 2166, 2214–2216, 2237, 2250, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5534(a), 5535, 5541(b), 5543, 5553, 5556(c), Aug. 5, 1997, 111 Stat. 627, 629–631, 636, 637; Pub. L. 105–34, title X, §1090(a)(2), Aug. 5, 1997, 111 Stat. 961; Pub. L. 105–89, title I, §105, Nov. 19, 1997, 111 Stat. 2120; Pub. L. 105–200, title IV, §§402(a), (b), 410(d), July 16, 1998, 112 Stat. 668, 669, 673; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §303(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304, 1501A–306; Pub. L. 108–199, div. G, title II, §217(a), Jan. 23, 2004, 118 Stat. 394; Pub. L. 108–295, §3, Aug. 9, 2004, 118 Stat. 1091; Pub. L. 108–447, div. H, title VI, §643, Dec. 8, 2004, 118 Stat. 3283; Pub. L. 109–171, title VII, §§7305, 7306(b), Feb. 8, 2006, 120 Stat. 145, 146; Pub. L. 109–250, §2, July 27, 2006, 120 Stat. 652; Pub. L. 110–157, title III, §301(a), Dec. 26, 2007, 121 Stat. 1833; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–351, title I, §105, Oct. 7, 2008, 122 Stat. 3957; Pub. L. 112–37, §17(b), Oct. 5, 2011, 125 Stat. 398.)
+(Aug. 14, 1935, ch. 531, title IV, §453, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2353;amended Pub. L. 97–35, title XXIII, §2332(c), Aug. 13, 1981, 95 Stat. 862; Pub. L. 98–369, div. B, title VI, §2663(c)(13), (j)(2)(B)(ix), July 18, 1984, 98 Stat. 1166, 1170; Pub. L. 98–378, §§17, 19(a), Aug. 16, 1984, 98 Stat. 1321, 1322; Pub. L. 100–485, title I, §124(a), Oct. 13, 1988, 102 Stat. 2353; Pub. L. 104–193, title I, §108(c)(10), title III, §§316(a)–(f), 345(b), 366, 395(d)(1)(C), (2)(A), Aug. 22, 1996, 110 Stat. 2166, 2214–2216, 2237, 2250, 2259; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §215\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–255; Pub. L. 105–33, title V, §§5534(a), 5535, 5541(b), 5543, 5553, 5556(c), Aug. 5, 1997, 111 Stat. 627, 629–631, 636, 637; Pub. L. 105–34, title X, §1090(a)(2), Aug. 5, 1997, 111 Stat. 961; Pub. L. 105–89, title I, §105, Nov. 19, 1997, 111 Stat. 2120; Pub. L. 105–200, title IV, §§402(a), (b), 410(d), July 16, 1998, 112 Stat. 668, 669, 673; Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §303(a), (b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–304, 1501A–306; Pub. L. 108–199, div. G, title II, §217(a), Jan. 23, 2004, 118 Stat. 394; Pub. L. 108–295, §3, Aug. 9, 2004, 118 Stat. 1091; Pub. L. 108–447, div. H, title VI, §643, Dec. 8, 2004, 118 Stat. 3283; Pub. L. 109–171, title VII, §§7305, 7306(b), Feb. 8, 2006, 120 Stat. 145, 146; Pub. L. 109–250, §2, July 27, 2006, 120 Stat. 652; Pub. L. 110–157, title III, §301(a), Dec. 26, 2007, 121 Stat. 1833; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–351, title I, §105, Oct. 7, 2008, 122 Stat. 3957; Pub. L. 112–37, §17(b), Oct. 5, 2011, 125 Stat. 398; Pub. L. 113–37, §3(a), Sept. 30, 2013, 127 Stat. 525.)
 
 #### References in Text
 
@@ -540,11 +544,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2011</b>—Subsec. (j)(11)(G). Pub. L. 112–37 substituted “November 18, 2011” for “September 30, 2011”.
+<b>2013</b>—Subsec. (j)(11)(G). Pub. L. 113–37 added subpar. (G) and struck out former subpar. (G). Prior to amendment, text read as follows: "The authority under this paragraph shall expire on November 18, 2011."
 
-<b>2008</b>—Subsec. (j)(3). Pub. L. 110–351 inserted “, part B, or part E” after “this part” in introductory provisions.
+<b>2011</b>—Subsec. (j)(11)(G). Pub. L. 112–37 substituted "November 18, 2011" for "September 30, 2011".
 
-Subsec. (j)(10)(A). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+<b>2008</b>—Subsec. (j)(3). Pub. L. 110–351 inserted ", part B, or part E" after "this part" in introductory provisions.
+
+Subsec. (j)(10)(A). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V), substituted "supplemental nutrition assistance program" for "food stamp program" and "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
 <b>2007</b>—Subsec. (j)(11). Pub. L. 110–157 added par. (11).
 
@@ -552,9 +558,9 @@ Subsec. (j)(10)(A). Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(V), substituted
 
 Subsec. (j)(10). Pub. L. 109–250, §2(2), added par. (10).
 
-Subsec. (k)(3). Pub. L. 109–171, §7306(b), inserted “or section 652(l) of this title” after “pursuant to this section”.
+Subsec. (k)(3). Pub. L. 109–171, §7306(b), inserted "or section 652(l) of this title" after "pursuant to this section".
 
-Subsec. (o). Pub. L. 109–171, §7305, inserted “or the amount appropriated under this paragraph for fiscal year 2002, whichever is greater” before “, which shall be available” in first sentence and struck out “for each of fiscal years 1997 through 2001” before “shall remain available” in last sentence.
+Subsec. (o). Pub. L. 109–171, §7305, inserted "or the amount appropriated under this paragraph for fiscal year 2002, whichever is greater" before ", which shall be available" in first sentence and struck out "for each of fiscal years 1997 through 2001" before "shall remain available" in last sentence.
 
 <b>2004</b>—Subsec. (j)(7). Pub. L. 108–447 added par. (7) relating to information comparisons and disclosure to assist in Federal debt collection.
 
@@ -564,87 +570,87 @@ Subsec. (j)(8). Pub. L. 108–295 added par. (8).
 
 <b>1999</b>—Subsec. (j)(6). Pub. L. 106–113, §1000(a)(5) \[title III, §303(a)\], added par. (6).
 
-Subsec. (l)(2). Pub. L. 106–113, §1000(a)(5) \[title III, §303(b)\], amended Pub. L. 105–200, §402(a), by inserting “or any other person” after “employee of the United States” in new par. (2). See 1998 Amendment note below.
+Subsec. (l)(2). Pub. L. 106–113, §1000(a)(5) \[title III, §303(b)\], amended Pub. L. 105–200, §402(a), by inserting "or any other person" after "employee of the United States" in new par. (2). See 1998 Amendment note below.
 
-<b>1998</b>—Subsec. (a)(2). Pub. L. 105–200, §410(d)(1), (2), in introductory provisions, substituted “parentage or” for “parentage,” and struck out “or making or enforcing child custody or visitation orders,” after “obligations,”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–200, §410(d)(1), (2), in introductory provisions, substituted "parentage or" for "parentage," and struck out "or making or enforcing child custody or visitation orders," after "obligations,".
 
 Subsec. (a)(2)(A)(iv). Pub. L. 105–200, §410(d)(3), realigned margins.
 
-Subsec. (i)(2). Pub. L. 106–200, §402(b), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Information shall be entered into the data base maintained by the National Directory of New Hires within 2 business days of receipt pursuant to section 653a(g)(2) of this title.”
+Subsec. (i)(2). Pub. L. 106–200, §402(b), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: "Information shall be entered into the data base maintained by the National Directory of New Hires within 2 business days of receipt pursuant to section 653a(g)(2) of this title."
 
 Subsec. (l). Pub. L. 105–200, §402(a), as amended by Pub. L. 106–113, §1000(a)(5) \[title III, §303(b)\], designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–33, §5534(a)(1), designated existing provisions as par. (1), substituted “for the purposes specified in paragraphs (2) and (3).” for “to obtain and transmit to any authorized person (as defined in subsection (c) of this section), for the purpose of establishing parentage, establishing, setting the amount of, modifying, or enforcing child support obligations, or enforcing child custody or visitation orders—”, added pars. (2) and (3), and struck out former pars. (1) to (3) which read as follows:
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §5534(a)(1), designated existing provisions as par. (1), substituted "for the purposes specified in paragraphs (2) and (3)." for "to obtain and transmit to any authorized person (as defined in subsection (c) of this section), for the purpose of establishing parentage, establishing, setting the amount of, modifying, or enforcing child support obligations, or enforcing child custody or visitation orders—", added pars. (2) and (3), and struck out former pars. (1) to (3) which read as follows:
 
-“(1) information on, or facilitating the discovery of, the location of any individual—
+"(1) information on, or facilitating the discovery of, the location of any individual—
 
-&emsp;“(A) who is under an obligation to pay child support or provide child custody or visitation rights;
+&emsp;"(A) who is under an obligation to pay child support or provide child custody or visitation rights;
 
-&emsp;“(B) against whom such an obligation is sought;
+&emsp;"(B) against whom such an obligation is sought;
 
-&emsp;“(C) to whom such an obligation is owed,
+&emsp;"(C) to whom such an obligation is owed,
 
 > including the individual's social security number (or numbers), most recent address, and the name, address, and employer identification number of the individual's employer;
 
-“(2) information on the individual's wages (or other income) from, and benefits of, employment (including rights to or enrollment in group health care coverage); and
+"(2) information on the individual's wages (or other income) from, and benefits of, employment (includingrights to or enrollment in group health care coverage); and
 
-“(3) information on the type, status, location, and amount of any assets of, or debts owed by or to, any such individual.”
+"(3) information on the type, status, location, and amount of any assets of, or debts owed by or to, any such individual."
 
-Subsec. (a)(2). Pub. L. 105–89, §105(1)(A), inserted “or making or enforcing child custody or visitation orders,” after “obligations,” in introductory provisions.
+Subsec. (a)(2). Pub. L. 105–89, §105(1)(A), inserted "or making or enforcing child custody or visitation orders," after "obligations," in introductory provisions.
 
 Subsec. (a)(2)(A)(iv). Pub. L. 105–89, §105(1)(B), added cl. (iv).
 
 Subsec. (b). Pub. L. 105–33, §5534(a)(2), amended subsec. (b) generally, revising and restating former provisions relating to disclosure of information to authorized persons as pars. (1) to (3).
 
-Subsec. (c)(1). Pub. L. 105–33, §5534(a)(3)(A), struck out “or to seek to enforce orders providing child custody or visitation rights” after “spousal support”.
+Subsec. (c)(1). Pub. L. 105–33, §5534(a)(3)(A), struck out "or to seek to enforce orders providing child custody or visitation rights" after "spousal support".
 
-Subsec. (c)(2). Pub. L. 105–33, §5534(a)(3)(B), inserted “or to serve as the initiating court in an action to seek an order” after “authority to issue an order” and struck out “or to issue an order against a resident parent for child custody or visitation rights” after “maintenance of a child”.
+Subsec. (c)(2). Pub. L. 105–33, §5534(a)(3)(B), inserted "or to serve as the initiating court in an action to seek an order" after "authority to issue an order" and struck out "or to issue an order against a resident parent for child custody or visitation rights" after "maintenance of a child".
 
 Subsec. (c)(4). Pub. L. 105–89, §105(2), added par. (4).
 
-Subsec. (h)(1). Pub. L. 105–33, §5553(1), inserted “and order” after “with respect to each case”.
+Subsec. (h)(1). Pub. L. 105–33, §5553(1), inserted "and order" after "with respect to each case".
 
-Subsec. (h)(2). Pub. L. 105–34, §1090(a)(2)(A), inserted at end “Beginning not later than October 1, 1999, the information referred to in paragraph (1) shall include the names and social security numbers of the children of such individuals.”
+Subsec. (h)(2). Pub. L. 105–34, §1090(a)(2)(A), inserted at end "Beginning not later than October 1, 1999, the information referred to in paragraph (1) shall include the names and social security numbers of the children of such individuals."
 
-Pub. L. 105–33, §5553(2), inserted “and order” after “case” in heading and “or an order” after “with respect to a case” and “or order” after “and the State or States which have the case” in text.
+Pub. L. 105–33, §5553(2), inserted "and order" after "case" in heading and "or an order" after "with respect to a case" and "or order" after "and the State or States which have the case" in text.
 
 Subsec. (h)(3). Pub. L. 105–34, §1090(a)(2)(B), added par. (3).
 
-Subsec. (j)(3)(B). Pub. L. 105–33, §5535(b)(1), substituted “components” for “registries”.
+Subsec. (j)(3)(B). Pub. L. 105–33, §5535(b)(1), substituted "components" for "registries".
 
-Subsec. (j)(5). Pub. L. 105–33, §5535(a), inserted “data in each component of the Federal Parent Locator Service maintained under this section and to” before “information”.
+Subsec. (j)(5). Pub. L. 105–33, §5535(a), inserted "data in each component of the Federal Parent Locator Service maintained under this section and to" before "information".
 
-Subsec. (k)(2). Pub. L. 105–33, §5535(b)(2), substituted “section 653a(g)(2) of this title” for “subsection (j)(3) of this section”.
+Subsec. (k)(2). Pub. L. 105–33, §5535(b)(2), substituted "section 653a(g)(2) of this title" for "subsection (j)(3) of this section".
 
 Subsec. (o). Pub. L. 105–33, §5556(c), amended Pub. L. 104–208, §101(e) \[title II, §215\], generally. See 1996 Amendment note below.
 
-Pub. L. 105–34, §5541(b), in heading substituted “Use of set-aside funds” for “Recovery of costs” and in text substituted “which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements,” for “to cover costs incurred by the Secretary” and inserted at end “Amounts appropriated under this subsection for each of fiscal years 1997 through 2001 shall remain available until expended.”
+Pub. L. 105–34, §5541(b), in heading substituted "Use of set-aside funds" for "Recovery of costs" and in text substituted "which shall be available for use by the Secretary, either directly or through grants, contracts, or interagency agreements," for "to cover costs incurred by the Secretary" and inserted at end "Amounts appropriated under this subsection for each of fiscal years 1997 through 2001 shall remain available until expended."
 
-Subsec. (p). Pub. L. 105–33, §5543, substituted “of the parent” for “a child and the parent”.
+Subsec. (p). Pub. L. 105–33, §5543, substituted "of the parent" for "a child and the parent".
 
-<b>1996</b>—Pub. L. 104–193, §316(e)(2), inserted “Federal” before “Parent Locator Service” in section catchline.
+<b>1996</b>—Pub. L. 104–193, §316(e)(2), inserted "Federal" before "Parent Locator Service" in section catchline.
 
-Subsec. (a). Pub. L. 104–193, §316(a)(1), (e)(1), inserted “Federal” before “Parent Locator Service”, substituted “, for the purpose of establishing parentage, establishing, setting the amount of, modifying, or enforcing child support obligations, or enforcing child custody or visitation orders—” for “information as to the whereabouts of any absent parent when such information is to be used to locate such parent for the purpose of enforcing support obligations against such parent.”, and added pars. (1) to (3).
+Subsec. (a). Pub. L. 104–193, §316(a)(1), (e)(1), inserted "Federal" before "Parent Locator Service", substituted ", for the purpose of establishing parentage, establishing, setting the amount of, modifying, or enforcing child support obligations, or enforcing child custody or visitation orders—" for "information as to the whereabouts of any absent parent when such information is to be used to locate such parent for the purpose of enforcing support obligations against such parent.", and added pars. (1) to (3).
 
-Subsec. (b). Pub. L. 104–193, §316(a)(2), (e)(1), substituted “information described in subsection (a) of this section” for “social security account number (or numbers, if the individual involved has more than one such number) and the most recent address and place of employment of any absent parent”, inserted “Federal” before “Parent Locator Service”, and inserted at end of closing provisions “No information shall be disclosed to any person if the State has notified the Secretary that the State has reasonable evidence of domestic violence or child abuse and the disclosure of such information could be harmful to the custodial parent or the child of such parent. Information received or transmitted pursuant to this section shall be subject to the safeguard provisions contained in section 654(26) of this title.”
+Subsec. (b). Pub. L. 104–193, §316(a)(2), (e)(1), substituted "information described in subsection (a) of this section" for "social security account number (or numbers, if the individual involved has more than one such number) and the most recent address and place of employment of any absent parent", inserted "Federal" before "Parent Locator Service", and inserted at end of closing provisions "No information shall be disclosed to any person if the State has notified the Secretary that the State has reasonable evidence of domestic violence or child abuse and the disclosure of such information could be harmful to the custodial parent or the child of such parent. Information received or transmitted pursuant to this section shall be subject to the safeguard provisions contained in section 654(26) of this title."
 
-Subsec. (c)(1). Pub. L. 104–193, §316(b)(1), substituted “support or to seek to enforce orders providing child custody or visitation rights” for “support”.
+Subsec. (c)(1). Pub. L. 104–193, §316(b)(1), substituted "support or to seek to enforce orders providing child custody or visitation rights" for "support".
 
-Subsec. (c)(2). Pub. L. 104–193, §§316(b)(2), 395(d)(2)(A), substituted “a noncustodial parent” for “an absent parent” and “or to issue an order against a residentparent for child custody or visitation rights, or any agent of such court;” for “, or any agent of such court; and”.
+Subsec. (c)(2). Pub. L. 104–193, §§316(b)(2), 395(d)(2)(A), substituted "a noncustodial parent" for "an absent parent" and "or to issue an order against a resident parent for child custody or visitation rights, or any agent of such court;" for ", or any agent of such court; and".
 
-Subsec. (c)(3). Pub. L. 104–193, §395(d)(2)(A), substituted “a noncustodial parent” for “an absent parent”.
+Subsec. (c)(3). Pub. L. 104–193, §395(d)(2)(A), substituted "a noncustodial parent" for "an absent parent".
 
-Pub. L. 104–193, §108(c)(10), substituted “assistance under a State program funded under part A of this subchapter” for “aid under part A of this subchapter”.
+Pub. L. 104–193, §108(c)(10), substituted "assistance under a State program funded under part A of this subchapter" for "aid under part A of this subchapter".
 
-Subsec. (e)(2). Pub. L. 104–193, §316(c), inserted “in an amount which the Secretary determines to be reasonable payment for the information exchange (which amount shall not include payment for the costs of obtaining, compiling, or maintaining the information)” after “Secretary shall be reimbursed by him”.
+Subsec. (e)(2). Pub. L. 104–193, §316(c), inserted "in an amount which the Secretary determines to be reasonable payment for the information exchange (which amount shall not include payment for the costs of obtaining, compiling, or maintaining the information)" after "Secretary shall be reimbursed by him".
 
-Subsec. (f). Pub. L. 104–193, §395(d)(1)(C), substituted “noncustodial” for “absent”.
+Subsec. (f). Pub. L. 104–193, §395(d)(1)(C), substituted "noncustodial" for "absent".
 
 Subsec. (g). Pub. L. 104–193, §316(d), added subsec. (g).
 
 Subsecs. (h) to (n). Pub. L. 104–193, §316(f), added subsecs. (h) to (n).
 
-Subsec. (o). Pub. L. 104–208, title I, §101(e) \[title II, §215\], as amended by Pub. L. 105–33, §5556(c), substituted “a plan approved under this part” for “section 657(a) of this title”.
+Subsec. (o). Pub. L. 104–208, title I, §101(e) \[title II, §215\], as amended by Pub. L. 105–33, §5556(c), substituted "a plan approved under this part" for "section 657(a) of this title".
 
 Pub. L. 104–193, §345(a), added subsec. (o).
 
@@ -652,15 +658,19 @@ Subsec. (p). Pub. L. 104–193, §366, added subsec. (p).
 
 <b>1988</b>—Subsec. (e)(3). Pub. L. 100–485 added par. (3).
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–378, §19(a), inserted “the social security account number (or numbers, if the individual involved has more than one such number) and”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–378, §19(a), inserted "the social security account number (or numbers, if the individual involved has more than one such number) and".
 
-Subsec. (b)(1). Pub. L. 98–369, §2663(j)(2)(B)(ix), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+Subsec. (b)(1). Pub. L. 98–369, §2663(j)(2)(B)(ix), substituted "Health and Human Services" for "Health, Education, and Welfare".
 
-Subsec. (b)(2). Pub. L. 98–369, §2663(c)(13), substituted “of the United States” for “, or the United States”.
+Subsec. (b)(2). Pub. L. 98–369, §2663(c)(13), substituted "of the United States" for ", or the United States".
 
-Subsec. (f). Pub. L. 98–378, §17, struck out “, after determining that the absent parent cannot be located through the procedures under the control of such State agencies,” before “to transmit to the Secretary”.
+Subsec. (f). Pub. L. 98–378, §17, struck out ", after determining that the absent parent cannot be located through the procedures under the control of such State agencies," before "to transmit to the Secretary".
 
-<b>1981</b>—Subsec. (c)(1). Pub. L. 97–35 substituted “child and spousal support” for “child support”.
+<b>1981</b>—Subsec. (c)(1). Pub. L. 97–35 substituted "child and spousal support" for "child support".
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 113–37 effective Oct. 1, 2013, see section 4(a) of Pub. L. 113–37, set out as a note under section 322 of Title 38, Veterans' Benefits.
 
 #### Effective Date of 2008 Amendment
 
@@ -674,17 +684,17 @@ Amendment by Pub. L. 109–171 effective as if enacted on Oct. 1, 2005, except a
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §303(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–306, provided that: “The amendments made by this section \[amending this section\] shall become effective October 1, 1999.”
+Pub. L. 106–113, div. B, §1000(a)(5) \[title III, §303(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–306, provided that: "The amendments made by this section \[amending this section\] shall become effective October 1, 1999."
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–200, title IV, §402(e), July 16, 1998, 112 Stat. 669, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 2000.”
+Pub. L. 105–200, title IV, §402(e), July 16, 1998, 112 Stat. 669, provided that: "The amendments made by this section \[amending this section\] shall take effect on October 1, 2000."
 
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
 
-Pub. L. 105–34, title X, §1090(a)(4), Aug. 5, 1997, 111 Stat. 962, provided that: “The amendments made by this subsection \[amending this section and section 654a of this title\] shall take effect on October 1, 1998.”
+Pub. L. 105–34, title X, §1090(a)(4), Aug. 5, 1997, 111 Stat. 962, provided that: "The amendments made by this subsection \[amending this section and section 654a of this title\] shall take effect on October 1, 1998."
 
 Amendment by Pub. L. 105–33 effective as if included in the enactment of title III of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5557 of Pub. L. 105–33, set out as a note under section 608 of this title.
 
@@ -700,9 +710,9 @@ For provisions relating to effective date of title III of Pub. L. 104–193, see
 
 Pub. L. 100–485, title I, §124(c), Oct. 13, 1988, 102 Stat. 2353, provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by subsections (a) and (b) \[amending this section and sections 503 and 504 of this title\] shall become effective on the first day of the first calendar quarter which begins one year or more after the date of the enactment of this Act \[Oct. 13, 1988\].
+"(1) Except as provided in paragraph (2), the amendments made by subsections (a) and (b) \[amending this section and sections 503 and 504 of this title\] shall become effective on the first day of the first calendar quarter which begins one year or more after the date of the enactment of this Act \[Oct. 13, 1988\].
 
-“(2) The Secretary of Health and Human Services and the Secretary of Labor shall enter into the agreement required by the amendment made by subsection (a) \[amending this section\] not later than 90 days after the date of the enactment of this Act.”
+"(2) The Secretary of Health and Human Services and the Secretary of Labor shall enter into the agreement required by the amendment made by subsection (a) \[amending this section\] not later than 90 days after the date of the enactment of this Act."
 
 #### Effective Date of 1984 Amendment
 
@@ -714,27 +724,27 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise specifi
 
 #### Notice of Purposes for Which Wage and Salary Data Are To Be Used
 
-Pub. L. 105–200, title IV, §402(c), July 16, 1998, 112 Stat. 669, provided that: “Within 90 days after the date of the enactment of this Act \[July 16, 1998\], the Secretary of Health and Human Services shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate of the specific purposes for which the new hire and the wage and unemployment compensation information in the National Directory of New Hires is to be used. At least 30 days before such information is to be used for a purpose not specified in the notice provided pursuant to the preceding sentence, the Secretary shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate of such purpose.”
+Pub. L. 105–200, title IV, §402(c), July 16, 1998, 112 Stat. 669, provided that: "Within 90 days after the date of the enactment of this Act \[July 16, 1998\], the Secretary of Health and Human Services shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate of the specific purposes for which the new hire and the wage and unemployment compensation information in the National Directory of New Hires is to be used. At least 30 days before such information is to be used for a purpose not specified in the notice provided pursuant to the preceding sentence, the Secretary shall notify the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate of such purpose."
 
 #### Report on Data Maintained by National Directory of New Hires
 
-Pub. L. 105–200, title IV, §402(d), July 16, 1998, 112 Stat. 669, provided that: “Within 3 years after the dateof the enactment of this Act \[July 16, 1998\], the Secretary of Health and Human Services shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the accuracy of the data maintained by the National Directory of New Hires pursuant to section 453(i) of the Social Security Act \[subsec. (i) of this section\], and the effectiveness of the procedures designed to provide for the security of such data.”
+Pub. L. 105–200, title IV, §402(d), July 16, 1998, 112 Stat. 669, provided that: "Within 3 years after the date of the enactment of this Act \[July 16, 1998\], the Secretary of Health and Human Services shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on the accuracy of the data maintained by the National Directory of New Hires pursuant to section 453(i) of the Social Security Act \[42 U.S.C. 653(i)\], and the effectiveness of the procedures designed to provide for the security of such data."
 
 #### Coordination Between Secretaries Relating to Amendments by Pub. L. 105–34
 
-Pub. L. 105–34, title X, §1090(a)(3), Aug. 5, 1997, 111 Stat. 961, provided that: “The Secretary of the Treasury and the Secretary of Health and Human Services shall consult regarding the implementation issues resulting from the amendments made by this subsection \[amending this section and section 654a of this title\], including interim deadlines for States that may be able before October 1, 1999, to provide the data required by such amendments. The Secretaries shall report to Congress on the results of such consultation.”
+Pub. L. 105–34, title X, §1090(a)(3), Aug. 5, 1997, 111 Stat. 961, provided that: "The Secretary of the Treasury and the Secretary of Health and Human Services shall consult regarding the implementation issues resulting from the amendments made by this subsection \[amending this section and section 654a of this title\], including interim deadlines for States that may be able before October 1, 1999, to provide the data required by such amendments. The Secretaries shall report to Congress on the results of such consultation."
 
 #### Requirement for Cooperation
 
-Pub. L. 104–193, title III, §316(h), Aug. 22, 1996, 110 Stat. 2220, provided that: “The Secretary of Labor and the Secretary of Health and Human Services shall work jointly to develop cost-effective and efficient methods of accessing the information in the various State directories of new hires and the National Directory of New Hires as established pursuant to the amendments made by this subtitle \[subtitle B (§§311–317) of title III of Pub. L. 104–193, enacting sections 653a and 654b of this title and amending this section, sections 503, 654, 654a, 666, 1320b–7 of this title, and sections 3304 and 6103 of Title 26, Internal Revenue Code\]. In developing these methods the Secretaries shall take into account the impact, including costs, on the States, and shall also consider the need to insure the proper and authorized use of wage record information.”
+Pub. L. 104–193, title III, §316(h), Aug. 22, 1996, 110 Stat. 2220, provided that: "The Secretary of Labor and the Secretary of Health and Human Services shall work jointly to develop cost-effective and efficient methods of accessing the information in the various State directories of new hires and the National Directory of New Hires as established pursuant to the amendments made by this subtitle \[subtitle B (§§311–317) of title III of Pub. L. 104–193, enacting sections 653a and 654b of this title and amending this section, sections 503, 654, 654a, 666, 1320b–7 of this title, and sections 3304 and 6103 of Title 26, Internal Revenue Code\]. In developing these methods the Secretaries shall take into account the impact, including costs, on the States, and shall also consider the need to insure the proper and authorized use of wage record information."
 
 #### Executive Agencies To Facilitate Payment of Child Support
 
 For provisions requiring Federal agencies to cooperate with Federal Parent Locator Service, see Ex. Ord. No. 12953, §303, Feb. 27, 1995, 60 F.R. 11014, set out as a note under section 659 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “supplemental nutrition assistance programs”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "supplemental nutrition assistance programs".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "subsection".</i>
 

@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(A) $750,000, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 1997” for “calendar year 1992” in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting "calendar year 1997" for "calendar year 1992" in subparagraph (B) thereof.
 
 > &emsp;If any amount as adjusted under the preceding sentence is not a multiple of $10,000, such amount shall be rounded to the next lowest multiple of $10,000.
 
@@ -30,7 +30,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “qualified real property” means real property located in the United States which was acquired from or passed from the decedent to a qualified heir of the decedent and which, on the date of the decedent's death, was being used for a qualified use by the decedent or a member of the decedent's family, but only if—
+&emsp;For purposes of this section, the term "qualified real property" means real property located in the United States which was acquired from or passed from the decedent to a qualified heir of the decedent and which, on the date of the decedent's death, was being used for a qualified use by the decedent or a member of the decedent's family, but only if—
 
 &emsp;&emsp;(A) 50 percent or more of the adjusted value of the gross estate consists of the adjusted value of real or personal property which—
 
@@ -50,7 +50,7 @@
 
 #### (2) Qualified use
 
-&emsp;For purposes of this section, the term “qualified use” means the devotion of the property to any of the following:
+&emsp;For purposes of this section, the term "qualified use" means the devotion of the property to any of the following:
 
 &emsp;&emsp;(A) use as a farm for farming purposes, or
 
@@ -58,7 +58,7 @@
 
 #### (3) Adjusted value
 
-&emsp;For purposes of paragraph (1), the term “adjusted value” means—
+&emsp;For purposes of paragraph (1), the term "adjusted value" means—
 
 &emsp;&emsp;(A) in the case of the gross estate, the value of the gross estate for purposes of this chapter (determined without regard to this section), reduced by any amounts allowable as a deduction under paragraph (4) of section 2053(a), or
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;(ii) was disabled for a continuous period ending on such date,
 
-> &emsp;&emsp;then paragraph (1)(C)(ii) shall be applied with respect to such property by substituting “the date on which the longer of such continuous periods began” for “the date of the decedent's death” in paragraph (1)(C).
+> &emsp;&emsp;then paragraph (1)(C)(ii) shall be applied with respect to such property by substituting "the date on which the longer of such continuous periods began" for "the date of the decedent's death" in paragraph (1)(C).
 
 #### (B) Disabled defined
 
@@ -88,7 +88,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If property is qualified real property with respect to a decedent (hereinafter in this paragraph referred to as the “first decedent”) and such property was acquired from or passed from the first decedent to the surviving spouse of the first decedent, for purposes of applying this subsection and subsection (c) in the case of the estate of such surviving spouse, active management of the farm or other business by the surviving spouse shall be treated as material participation by such surviving spouse in the operation of such farm or business.
+&emsp;&emsp;If property is qualified real property with respect to a decedent (hereinafter in this paragraph referred to as the "first decedent") and such property was acquired from or passed from the first decedent to the surviving spouse of the first decedent, for purposes of applying this subsection and subsection (c) in the case of the estate of such surviving spouse, active management of the farm or other business by the surviving spouse shall be treated as material participation by such surviving spouse in the operation of such farm or business.
 
 #### (B) Special rule
 
@@ -130,7 +130,7 @@
 
 #### (C) Adjusted tax difference with respect to the estate
 
-&emsp;&emsp;For purposes of subparagraph (B), the term “adjusted tax difference with respect to the estate” means the excess of what would have been the estate tax liability but for subsection (a) over the estate tax liability. For purposes of this subparagraph, the term “estate tax liability” means the tax imposed by section 2001 reduced by the credits allowable against such tax.
+&emsp;&emsp;For purposes of subparagraph (B), the term "adjusted tax difference with respect to the estate" means the excess of what would have been the estate tax liability but for subsection (a) over the estate tax liability. For purposes of this subparagraph, the term "estate tax liability" means the tax imposed by section 2001 reduced by the credits allowable against such tax.
 
 #### (D) Partial dispositions
 
@@ -200,7 +200,7 @@
 
 #### (C) Eligible qualified heir
 
-&emsp;&emsp;For purposes of this paragraph, the term “eligible qualified heir” means a qualified heir who—
+&emsp;&emsp;For purposes of this paragraph, the term "eligible qualified heir" means a qualified heir who—
 
 &emsp;&emsp;&emsp;(i) is the surviving spouse of the decedent,
 
@@ -248,11 +248,11 @@ For purposes of this section—
 
 #### (1) Qualified heir
 
-&emsp;The term “qualified heir” means, with respect to any property, a member of the decedent's family who acquired such property (or to whom such property passed) from the decedent. If a qualified heir disposes of any interest in qualified real property to any member of his family, such member shall thereafter be treated as the qualified heir with respect to such interest.
+&emsp;The term "qualified heir" means, with respect to any property, a member of the decedent's family who acquired such property (or to whom such property passed) from the decedent. If a qualified heir disposes of any interest in qualified real property to any member of his family, such member shall thereafter be treated as the qualified heir with respect to such interest.
 
 #### (2) Member of family
 
-&emsp;The term “member of the family” means, with respect to any individual, only—
+&emsp;The term "member of the family" means, with respect to any individual, only—
 
 &emsp;&emsp;(A) an ancestor of such individual,
 
@@ -270,11 +270,11 @@ For purposes of this section—
 
 #### (4) Farm
 
-&emsp;The term “farm” includes stock, dairy, poultry, fruit, furbearing animal, and truck farms, plantations, ranches, nurseries, ranges, greenhouses or other similar structures used primarily for the raising of agricultural or horticultural commodities, and orchards and woodlands.
+&emsp;The term "farm" includes stock, dairy, poultry, fruit, furbearing animal, and truck farms, plantations, ranches, nurseries, ranges, greenhouses or other similar structures used primarily for the raising of agricultural or horticultural commodities, and orchards and woodlands.
 
 #### (5) Farming purposes
 
-&emsp;The term “farming purposes” means—
+&emsp;The term "farming purposes" means—
 
 &emsp;&emsp;(A) cultivating the soil or raising or harvesting any agricultural or horticultural commodity (including the raising, shearing, feeding, caring for, training, and management of animals) on a farm;
 
@@ -304,11 +304,11 @@ For purposes of this section—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If there is no comparable land from which the average annual gross cash rental may be determined but there is comparable land from which the average net share rental may be determined, subparagraph (A)(i) shall be applied by substituting “average annual net share rental” for “average annual gross cash rental”.
+&emsp;&emsp;&emsp;If there is no comparable land from which the average annual gross cash rental may be determined but there is comparable land from which the average net share rental may be determined, subparagraph (A)(i) shall be applied by substituting "average annual net share rental" for "average annual gross cash rental".
 
 #### (ii) Net share rental
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, the term “net share rental” means the excess of—
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term "net share rental" means the excess of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the value of the produce received by the lessor of the land on which such produce is grown, over
 
@@ -356,7 +356,7 @@ For purposes of this section—
 
 #### (12) Active management
 
-&emsp;The term “active management” means the making of the management decisions of a business (other than the daily operating decisions).
+&emsp;The term "active management" means the making of the management decisions of a business (other than the daily operating decisions).
 
 #### (13) Special rules for woodlands
 
@@ -366,7 +366,7 @@ For purposes of this section—
 
 #### (B) Qualified woodland
 
-&emsp;&emsp;The term “qualified woodland” means any real property which—
+&emsp;&emsp;The term "qualified woodland" means any real property which—
 
 &emsp;&emsp;&emsp;(i) is used in timber operations, and
 
@@ -374,7 +374,7 @@ For purposes of this section—
 
 #### (C) Timber operations
 
-&emsp;&emsp;The term “timber operations” means—
+&emsp;&emsp;The term "timber operations" means—
 
 &emsp;&emsp;&emsp;(i) the planting, cultivating, caring for, or cutting of trees, or
 
@@ -400,7 +400,7 @@ For purposes of this section—
 
 #### (i) Qualified replacement property
 
-&emsp;&emsp;&emsp;The term “qualified replacement property” means any real property which is—
+&emsp;&emsp;&emsp;The term "qualified replacement property" means any real property which is—
 
 &emsp;&emsp;&emsp;&emsp;(I) acquired in an exchange which qualifies under section 1031, or
 
@@ -410,7 +410,7 @@ For purposes of this section—
 
 #### (ii) Replaced property
 
-&emsp;&emsp;&emsp;The term “replaced property” means—
+&emsp;&emsp;&emsp;The term "replaced property" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) the property transferred in the exchange which qualifies under section 1031, or
 
@@ -468,11 +468,11 @@ The Secretary shall prescribe regulations setting forth the application of this 
 
 #### (A) Involuntary conversion
 
-&emsp;&emsp;The term “involuntary conversion” means a compulsory or involuntary conversion within the meaning of section 1033.
+&emsp;&emsp;The term "involuntary conversion" means a compulsory or involuntary conversion within the meaning of section 1033.
 
 #### (B) Qualified replacement property
 
-&emsp;&emsp;The term “qualified replacement property” means—
+&emsp;&emsp;The term "qualified replacement property" means—
 
 &emsp;&emsp;&emsp;(i) in the case of an involuntary conversion described in section 1033(a)(1), any real property into which the qualified real property is converted, or
 
@@ -514,7 +514,7 @@ The Secretary shall prescribe regulations setting forth the application of this 
 
 #### (3) Qualified exchange property
 
-&emsp;For purposes of this subsection, the term “qualified exchange property” means real property which is to be used for the qualified use set forth in subparagraph (A) or (B) of subsection (b)(2) under which the real property exchanged therefor originally qualified under subsection (a).
+&emsp;For purposes of this subsection, the term "qualified exchange property" means real property which is to be used for the qualified use set forth in subparagraph (A) or (B) of subsection (b)(2) under which the real property exchanged therefor originally qualified under subsection (a).
 
 (Added Pub. L. 94–455, title XX, §2003(a), Oct. 4, 1976, 90 Stat. 1856; amended Pub. L. 95–472, §4(a), (c), Oct. 17, 1978, 92 Stat. 1334, 1336; Pub. L. 95–600, title VII, §702(d)(1), (2), (4), (5), Nov. 6, 1978, 92 Stat. 2928, 2929; Pub. L. 97–34, title IV, §421(a)–(d)(2)(A), (e), (f), (h)–(j)(2)(A), (3), (4), Aug. 13, 1981, 95 Stat. 306–313; Pub. L. 97–448, title I, §104(b)(1), (2), Jan. 12, 1983, 96 Stat. 2381; Pub. L. 98–369, div. A, title X, §1025(a), July 18, 1984, 98 Stat. 1030; Pub. L. 99–514, title I, §104(b)(3), Oct. 22, 1986, 100 Stat. 2105; Pub. L. 100–647, title VI, §6151(a), Nov. 10, 1988, 102 Stat. 3724; Pub. L. 101–508, title XI, §11802(f)(5), Nov. 5, 1990, 104 Stat. 1388–530; Pub. L. 105–34, title V, §§501(b), 504(a), (b), 508(c), title XIII, §1313(a), Aug. 5, 1997, 111 Stat. 845, 853, 854, 860, 1045; Pub. L. 108–311, title II, §207(22), Oct. 4, 2004, 118 Stat. 1178.)
 
@@ -528,49 +528,49 @@ The Social Security Act, referred to in subsec. (b)(4)(A)(i), is act Aug. 14, 19
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c)(7)(D). Pub. L. 108–311 substituted “section 152(f)(2)” for “section 151(c)(4)”.
+<b>2004</b>—Subsec. (c)(7)(D). Pub. L. 108–311 substituted "section 152(f)(2)" for "section 151(c)(4)".
 
 <b>1997</b>—Subsec. (a)(3). Pub. L. 105–34, §501(b), added par. (3).
 
-Subsec. (b)(5)(A). Pub. L. 105–34, §504(b), struck out at end “For purposes of subsection (c), such surviving spouse shall not be treated as failing to use such property in a qualified use solely because such spouse rents such property to a member of such spouse's family on a net cash basis.”
+Subsec. (b)(5)(A). Pub. L. 105–34, §504(b), struck out at end "For purposes of subsection (c), such surviving spouse shall not be treated as failing to use such property in a qualified use solely because such spouse rents such property to a member of such spouse's family on a net cash basis."
 
 Subsec. (c)(7)(E). Pub. L. 105–34, §504(a), added subpar. (E).
 
 Subsec. (c)(8). Pub. L. 105–34, §508(c), added par. (8).
 
-Subsec. (d)(3). Pub. L. 105–34, §1313(a), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “The Secretary shall prescribe procedures which provide that in any case in which—
+Subsec. (d)(3). Pub. L. 105–34, §1313(a), amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "The Secretary shall prescribe procedures which provide that in any case in which—
 
-&emsp;“(A) the executor makes an election under paragraph (1) within the time prescribed for filing such election, and
+&emsp;"(A) the executor makes an election under paragraph (1) within the time prescribed for filing such election, and
 
-&emsp;“(B) substantially complies with the regulations prescribed by the Secretary with respect to such election, but—
+&emsp;"(B) substantially complies with the regulations prescribed by the Secretary with respect to such election, but—
 
-&emsp;&emsp;“(i) the notice of election, as filed, does not contain all required information, or
+&emsp;&emsp;"(i) the notice of election, as filed, does not contain all required information, or
 
-&emsp;&emsp;“(ii) signatures of 1 or more persons required to enter into the agreement described in paragraph (2) are not included on the agreement as filed, or the agreement does not contain all required information,
+&emsp;&emsp;"(ii) signatures of 1 or more persons required to enter into the agreement described in paragraph (2) are not included on the agreement as filed, or the agreement does not contain all required information,
 
-> the executor will have a reasonable period of time (not exceeding 90 days) after notification of such failures to provide such information or agreements.”
+> the executor will have a reasonable period of time (not exceeding 90 days) after notification of such failures to provide such information or agreements."
 
 <b>1990</b>—Subsec. (a)(2). Pub. L. 101–508 amended par. (2) generally, substituting present provisions for provisions which established graduated increase in applicable limit on aggregate reduction in fair market value from $600,000 in the case of decedents dying in 1981 to $750,000 in the case of decedents dying in 1983 or thereafter.
 
-<b>1988</b>—Subsec. (b)(5)(A). Pub. L. 100–647 inserted at end “For purposes of subsection (c), such surviving spouse shall not be treated as failing to use such property in a qualified use solely because such spouse rents suchproperty to a member of such spouse's family on a net cash basis.”
+<b>1988</b>—Subsec. (b)(5)(A). Pub. L. 100–647 inserted at end "For purposes of subsection (c), such surviving spouse shall not be treated as failing to use such property in a qualified use solely because such spouse rents suchproperty to a member of such spouse's family on a net cash basis."
 
-<b>1986</b>—Subsec. (c)(7)(D). Pub. L. 99–514 substituted “section 151(c)(4)” for “section 151(e)(4)”.
+<b>1986</b>—Subsec. (c)(7)(D). Pub. L. 99–514 substituted "section 151(c)(4)" for "section 151(e)(4)".
 
 <b>1984</b>—Subsec. (d)(3). Pub. L. 98–369 added par. (3).
 
 <b>1983</b>—Subsec. (b)(5)(C). Pub. L. 97–448, §104(b)(1), added subpar. (C).
 
-Subsec. (i)(1)(B)(ii). Pub. L. 97–448, §104(b)(2)(A), substituted “the qualified exchange property” for “the other property”.
+Subsec. (i)(1)(B)(ii). Pub. L. 97–448, §104(b)(2)(A), substituted "the qualified exchange property" for "the other property".
 
-Subsec. (i)(3). Pub. L. 97–448, §104(b)(2)(B), substituted “subparagraph (A) or (B)” for “subparagraph (A), (B), or (C)”.
+Subsec. (i)(3). Pub. L. 97–448, §104(b)(2)(B), substituted "subparagraph (A) or (B)" for "subparagraph (A), (B), or (C)".
 
-<b>1981</b>—Subsec. (a)(2). Pub. L. 97–34, §421(a), substituted “Limit on aggregate reduction in fair market value” for “Limitation” in heading “shall not exceed the applicable limit set forth in the following table:” for “shall not exceed $500,000” in text, and inserted table.
+<b>1981</b>—Subsec. (a)(2). Pub. L. 97–34, §421(a), substituted "Limit on aggregate reduction in fair market value" for "Limitation" in heading "shall not exceed the applicable limit set forth in the following table:" for "shall not exceed $500,000" in text, and inserted table.
 
-Subsec. (b)(1). Pub. L. 97–34, §421(b)(1), substituted “qualified use by the decedent or a member of the decedent's family” for “qualified use” in provision preceding subpar. (A), and in subpars. (A)(i) and (C)(i).
+Subsec. (b)(1). Pub. L. 97–34, §421(b)(1), substituted "qualified use by the decedent or a member of the decedent's family" for "qualified use" in provision preceding subpar. (A), and in subpars. (A)(i) and (C)(i).
 
 Subsec. (b)(4), (5). Pub. L. 97–34, §421(b)(2), added pars. (4) and (5).
 
-Subsec. (c)(1). Pub. L. 97–34, §421(c)(1)(A), substituted “10 years” for “15 years”.
+Subsec. (c)(1). Pub. L. 97–34, §421(c)(1)(A), substituted "10 years" for "15 years".
 
 Subsec. (c)(2)(E). Pub. L. 97–34, §421(h)(2), added subpar. (E).
 
@@ -578,43 +578,43 @@ Subsec. (c)(3). Pub. L. 97–34, §421(c)(1)(B)(i), redesignated par. (4) as (3)
 
 Subsec. (c)(4), (5). Pub. L. 97–34, §421(c)(1)(B)(i), redesignated pars. (5) and (6) as (4) and (5), respectively. Former par. (4) redesignated (3).
 
-Subsec. (c)(6). Pub. L. 97–34, §421(c)(2)(B)(ii), in subpar. (B) substituted “more than 3 years” for “3 years or more”.
+Subsec. (c)(6). Pub. L. 97–34, §421(c)(2)(B)(ii), in subpar. (B) substituted "more than 3 years" for "3 years or more".
 
 Pub. L. 97–34, §421(c)(1)(B)(i), redesignated par. (7) as (6). Former par. (6) redesignated (5).
 
 Subsec. (c)(7). Pub. L. 97–34, §421(c)(1)(B)(i), (2)(A), added par. (7). Former par. (7) redesignated (6).
 
-Subsec. (d)(1). Pub. L. 97–34, §421(j)(3), substituted “The election under this section shall be made on the return of the tax imposed by section 2001. Such election shall be made in such manner as the Secretary shall by regulations prescribe. Such an election, once made, shall be irrevocable.” for “The election under this section shall be made not later than the time prescribed by section 6075(a) for filing the return of tax imposed by section 2001 (including extensions thereof), and shall be made in such manner as the Secretary shall by regulations prescribe.”
+Subsec. (d)(1). Pub. L. 97–34, §421(j)(3), substituted "The election under this section shall be made on the return of the tax imposed by section 2001. Such election shall be made in such manner as the Secretary shall by regulations prescribe. Such an election, once made, shall be irrevocable." for "The election under this section shall be made not later than the time prescribed by section 6075(a) for filing the return of tax imposed by section 2001 (including extensions thereof), and shall be made in such manner as the Secretary shall by regulations prescribe."
 
-Subsec. (e)(2). Pub. L. 97–34, §421(i), substituted provisions designated subpars. (A) through (D) for “such individual's ancestor or lineal descendant, a lineal descendant of a grandparent of such individual, the spouse of such individual, or the spouse of any such descendant”.
+Subsec. (e)(2). Pub. L. 97–34, §421(i), substituted provisions designated subpars. (A) through (D) for "such individual's ancestor or lineal descendant, a lineal descendant of a grandparent of such individual, the spouse of such individual, or the spouse of any such descendant".
 
-Subsec. (e)(7). Pub. L. 97–34, §421(f), added subpar. (B), redesignated former subpar. (B) as (C), and inserted “and that there is no comparable land from which the average net share rental may be determined” after “determined” in subpar. (C), without specifying whether the language was to be inserted in cl. (i) or (ii) of subpar. (C). In view of H. Rept. No. 97–201, 97th Cong., July 14, 1981, p. 492, the language was inserted in cl. (ii) as the probable intent of Congress.
+Subsec. (e)(7). Pub. L. 97–34, §421(f), added subpar. (B), redesignated former subpar. (B) as (C), and inserted "and that there is no comparable land from which the average net share rental may be determined" after "determined" in subpar. (C), without specifying whether the language was to be inserted in cl. (i) or (ii) of subpar. (C). In view of H. Rept. No. 97–201, 97th Cong., July 14, 1981, p. 492, the language was inserted in cl. (ii) as the probable intent of Congress.
 
-Subsec. (e)(9). Pub. L. 97–34, §421(j)(2)(A), struck out from subpar. (B) “in satisfaction of the right of such person to a pecuniary bequest” after “from the estate” and in subpar. (C) substituted “(to the extent such property is includible in the gross estate of the decedent)” for “in satisfaction of a right (which such person has by reason of the death of the decedent) to receive from the trust a specific dollar amount which is the equivalent of a pecuniary bequest”.
+Subsec. (e)(9). Pub. L. 97–34, §421(j)(2)(A), struck out from subpar. (B) "in satisfaction of the right of such person to a pecuniary bequest" after "from the estate" and in subpar. (C) substituted "(to the extent such property is includible in the gross estate of the decedent)" for "in satisfaction of a right (which such person has by reason of the death of the decedent) to receive from the trust a specific dollar amount which is the equivalent of a pecuniary bequest".
 
 Subsec. (e)(12). Pub. L. 97–34, §421(c)(2)(B)(i), added par. (12).
 
 Subsec. (e)(13), (14). Pub. L. 97–34, §421(h)(1), (j)(4), added pars. (13) and (14).
 
-Subsec. (f)(1). Pub. L. 97–34, §421(e)(2), substituted “to which subsection (h)” for “to which an election under subsection (h)”.
+Subsec. (f)(1). Pub. L. 97–34, §421(e)(2), substituted "to which subsection (h)" for "to which an election under subsection (h)".
 
-Pub. L. 97–34, §421(d)(2)(A), substituted “conversion or exchange”, “(h) or (i)”, and “replace or of the exchange of property” for “conversion”, “(h)”, and “replace”.
+Pub. L. 97–34, §421(d)(2)(A), substituted "conversion or exchange", "(h) or (i)", and "replace or of the exchange of property" for "conversion", "(h)", and "replace".
 
 Subsec. (g). Pub. L. 97–34, §421(j)(1), inserted provision that for purposes of the preceding sentence, an interest in a discretionary trust all the beneficiaries of which are qualified heirs shall be treated as a present interest.
 
-Subsec. (h)(1)(A). Pub. L. 97–34, §421(e)(1)(A), struck out “and the qualified heir makes an election under this subsection” after “qualified real property”.
+Subsec. (h)(1)(A). Pub. L. 97–34, §421(e)(1)(A), struck out "and the qualified heir makes an election under this subsection" after "qualified real property".
 
-Subsec. (h)(2)(A). Pub. L. 97–34, §421(c)(1)(B)(ii), substituted “; except that” for “, except that” and “the 10-year period” for “the 15-year period”, deleted cl. (i) designation, and struck out cl. (ii), which provided the phaseout period under par. (3) of subsec. (c) be appropriately adjusted to take into account the extension referred to in cl. (i).
+Subsec. (h)(2)(A). Pub. L. 97–34, §421(c)(1)(B)(ii), substituted "; except that" for ", except that" and "the 10-year period" for "the 15-year period", deleted cl. (i) designation, and struck out cl. (ii), which provided the phaseout period under par. (3) of subsec. (c) be appropriately adjusted to take into account the extension referred to in cl. (i).
 
-Subsec. (h)(2)(C). Pub. L. 97–34, §421(c)(1)(B)(iii), substituted “(6)” for “(7)” in provisions preceding cl. (i).
+Subsec. (h)(2)(C). Pub. L. 97–34, §421(c)(1)(B)(iii), substituted "(6)" for "(7)" in provisions preceding cl. (i).
 
 Subsec. (h)(5). Pub. L. 97–34, §421(e)(1)(B), struck out par. (5) which provided for making a subsec. (h) election at such time and in such manner as the Secretary may by regulations prescribe.
 
 Subsec. (i). Pub. L. 97–34, §421(d)(1), added subsec. (i).
 
-<b>1978</b>—Subsec. (b)(1). Pub. L. 95–600, §702(d)(1), inserted “which was acquired from or passed from the decedent to a qualified heir of the decedent and” after “located in the United States”.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–600, §702(d)(1), inserted "which was acquired from or passed from the decedent to a qualified heir of the decedent and" after "located in the United States".
 
-Subsec. (c)(6). Pub. L. 95–600, §702(d)(5)(A), inserted “unless the heir has furnished bond which meets the requirements of subsection (e)(11)” after “respect to his interest”.
+Subsec. (c)(6). Pub. L. 95–600, §702(d)(5)(A), inserted "unless the heir has furnished bond which meets the requirements of subsection (e)(11)" after "respect to his interest".
 
 Subsec. (e)(9). Pub. L. 95–600, §702(d)(2), added par. (9).
 
@@ -634,23 +634,23 @@ Amendment by Pub. L. 108–311 applicable to taxable years beginning after Dec. 
 
 Amendment by section 501(b) of Pub. L. 105–34 applicable to estates of decedents dying, and gifts made, after Dec. 31, 1997, see section 501(f) of Pub. L. 105–34, set out as a note under section 2001 of this title.
 
-Pub. L. 105–34, title V, §504(c), Aug. 5, 1997, 111 Stat. 854, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to leases entered into after December 31, 1976.”
+Pub. L. 105–34, title V, §504(c), Aug. 5, 1997, 111 Stat. 854, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to leases entered into after December 31, 1976."
 
 Amendment by section 508(c) of Pub. L. 105–34 applicable to easements granted after Dec. 31, 1997, see section 508(e)(2) of Pub. L. 105–34, set out as a note under section 170 of this title.
 
-Pub. L. 105–34, title XIII, §1313(b), Aug. 5, 1997, 111 Stat. 1045, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIII, §1313(b), Aug. 5, 1997, 111 Stat. 1045, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to the estates of decedents dying after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1988 Amendment
 
 Pub. L. 100–647, title VI, §6151(b), Nov. 10, 1988, 102 Stat. 3724, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendment made by subsection (a) \[amending this section\] shall apply with respect to rentals occurring after December 31, 1976.
 
-“(2)
+"(2)
 
-Waiver of statute of limitations.—If on the date of the enactment of this Act \[Nov. 10, 1988\] (or at any time within 1 year after such date of enactment) refund or credit of any overpayment of tax resulting from the application of the amendment made by subsection (a) is barred by any law or rule of law, refund or credit of such overpayment shall, nevertheless, be made or allowed if claim therefore is filed before the date 1 year after the date of the enactment of this Act.”
+Waiver of statute of limitations.—If on the date of the enactment of this Act \[Nov. 10, 1988\] (or at any time within 1 year after such date of enactment) refund or credit of any overpayment of tax resulting from the application of the amendment made by subsection (a) is barred by any law or rule of law, refund or credit of such overpayment shall, nevertheless, be made or allowed if claim therefore is filed before the date 1 year after the date of the enactment of this Act."
 
 #### Effective Date of 1986 Amendment
 
@@ -660,13 +660,13 @@ Amendment by Pub. L. 99–514 applicable to taxable years beginning after Dec. 3
 
 Pub. L. 98–369, div. A, title X, §1025(b), July 18, 1984, 98 Stat. 1031, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendment made by this section \[amending this section\] shall apply to estates of decedents dying after December 31, 1976.
 
-“(2)
+"(2)
 
-Refund or credit of overpayment barred by statute of limitations.—Notwithstanding section 6511(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or any other period of limitation or lapse of time, a claim for credit or refund of overpayment of the tax imposed by such Code which arises by reason of this section may be filed by any person at any time within the 1-year period beginning on the date of the enactment of this Act \[July 18, 1984\]. Sections 6511(b) and 6514 of such Code shall not apply to any claim for credit or refund filed under this subsection within such 1-year period.”
+Refund or credit of overpayment barred by statute of limitations.—Notwithstanding section 6511(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] or any other period of limitation or lapse of time, a claim for credit or refund of overpayment of the tax imposed by such Code which arises by reason of this section may be filed by any person at any time within the 1-year period beginning on the date of the enactment of this Act \[July 18, 1984\]. Sections 6511(b) and 6514 of such Code shall not apply to any claim for credit or refund filed under this subsection within such 1-year period."
 
 #### Effective Date of 1983 Amendment
 
@@ -676,51 +676,51 @@ Amendment by Pub. L. 97–448 effective, except as otherwise provided, as if it 
 
 Pub. L. 97–34, title IV, §421(k), Aug. 13, 1981, 95 Stat. 313, as amended by Pub. L. 97–448, title I, §104(b)(4), Jan. 12, 1983, 96 Stat. 2382; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 1016, 1040, and 6324B of this title\] shall apply with respect to the estates of decedents dying after December 31, 1981.
 
-“(2)
+"(2)
 
 Increase in limitation.—The amendment made by subsection (a) \[amending this section\] shall apply with respect to the estates of decedents dying after December 31, 1980.
 
-“(3)
+"(3)
 
 Subsection (d).—The amendments made by subsection (d) \[amending this section and section 6324B of this title\] shall apply with respect to exchanges after December 31, 1981.
 
-“(4)
+"(4)
 
 Subsection (e).—The amendments made by subsection (e) \[amending this section\] shall apply with respect to involuntary conversions after December 31, 1981.
 
-“(5)
+"(5)
 
 Certain amendments made retroactive to 1976.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The amendments made by subsections (b)(1), (j)(1), and (j)(2) \[amending this section and section 1040 of this title\] and the provisions of subparagraph (A) of section 2032A(c)(7) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (c)(2)) shall apply with respect to the estates of decedents dying after December 31, 1976.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Timely election required.—Subparagraph (A) shall only apply in the case of an estate if a timely election under section 2032A was made with respect to such estate. If the estate of any decedent would not qualify under section 2032A of the Internal Revenue Code of 1986 but for the amendments described in subparagraph (A) and the time for making an election under section 2032A with respect to such estate would (but for this sentence) expire after July 28, 1980, the time for making such election shall not expire before the close of February 16, 1982.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Reinstatement of elections.—If any election under section 2032A was revoked before the date of the enactment of this Act \[Aug. 13, 1981\], such election may be reinstated at any time before February 17, 1982.
 
-&emsp;“(D)
+&emsp;"(D)
 
-Statute of limitations.—If on the date of the enactment of this Act \[Aug. 13, 1981\] (or at any time before February 17, 1982) the making of a credit or refund of any overpayment of tax resulting from the amendments described in subparagraph (A) is barred by any law or rule of law, such credit or refund shall nevertheless be made if claim therefor is made before February 17, 1982.”
+Statute of limitations.—If on the date of the enactment of this Act \[Aug. 13, 1981\] (or at any time before February 17, 1982) the making of a credit or refund of any overpayment of tax resulting from the amendments described in subparagraph (A) is barred by any law or rule of law, such credit or refund shall nevertheless be made if claim therefor is made before February 17, 1982."
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title VII, §702(d)(6), Nov. 6, 1978, 92 Stat. 2929, provided that: “The amendments made by this subsection \[amending this section and section 1040 of this title\] shall apply to the estates of decedents dying after December 31, 1976.”
+Pub. L. 95–600, title VII, §702(d)(6), Nov. 6, 1978, 92 Stat. 2929, provided that: "The amendments made by this subsection \[amending this section and section 1040 of this title\] shall apply to the estates of decedents dying after December 31, 1976."
 
 Amendment of section by Pub. L. 95–472 applicable with respect to involuntary conversions after Dec. 31, 1976, see section 4(d) of Pub. L. 95–472, set out as a note under section 1016 of this title.
 
 #### Effective Date
 
-Pub. L. 94–455, title XX, §2003(e), Oct. 4, 1976, 90 Stat. 1862, provided that: “The amendments made by this section \[enacting this section and section 6324B of this title and amending section 2013 of this title\] shall apply to the estates of decedents dying after December 31, 1976.”
+Pub. L. 94–455, title XX, §2003(e), Oct. 4, 1976, 90 Stat. 1862, provided that: "The amendments made by this section \[enacting this section and section 6324B of this title and amending section 2013 of this title\] shall apply to the estates of decedents dying after December 31, 1976."
 
 #### Savings Provision
 
@@ -728,41 +728,41 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Waiver of Statute of Limitation for Taxes on Certain Farm Valuations
 
-Pub. L. 107–16, title V, §581, June 7, 2001, 115 Stat. 93, provided that: “If on the date of the enactment of this Act \[June 7, 2001\] (or at any time within 1 year after the date of the enactment) a refund or credit of any overpayment of tax resulting from the application of section 2032A(c)(7)(E) of the Internal Revenue Code of 1986 is barred by any law or rule of law, the refund or credit of such overpayment shall, nevertheless, be made or allowed if claim therefor is filed before the date 1 year after the date of the enactment of this Act.”
+Pub. L. 107–16, title V, §581, June 7, 2001, 115 Stat. 93, provided that: "If on the date of the enactment of this Act \[June 7, 2001\] (or at any time within 1 year after the date of the enactment) a refund or credit of any overpayment of tax resulting from the application of section 2032A(c)(7)(E) of the Internal Revenue Code of 1986 is barred by any law or rule of law, the refund or credit of such overpayment shall, nevertheless, be made or allowed if claim therefor is filed before the date 1 year after the date of the enactment of this Act."
 
 #### Information Necessary for Valid Special Use Valuation Election
 
 Pub. L. 99–514, title XIV, §1421, Oct. 22, 1986, 100 Stat. 2716, as amended by Pub. L. 100–647, title I, §1014(f), Nov. 10, 1988, 102 Stat. 3562, provided that:
 
-“(a)
+"(a)
 
 In General.—In the case of any decedent dying before January 1, 1986, if the executor—
 
-&emsp;“(1) made an election under section 2032A of the Internal Revenue Code of 1954 \[now 1986\] on the return of tax imposed by section 2001 of such Code, and
+&emsp;"(1) made an election under section 2032A of the Internal Revenue Code of 1954 \[now 1986\] on the return of tax imposed by section 2001 of such Code, and
 
-&emsp;“(2) provided substantially all the information with respect to such election required on such return of tax,
+&emsp;"(2) provided substantially all the information with respect to such election required on such return of tax,
 
 > such election shall be a valid election for purposes of section 2032A of such Code.
 
-“(b)
+"(b)
 
 Executor Must Provide Information.—An election described in subsection (a) shall not be valid if the Secretary of the Treasury or his delegate after the date of the enactment of this Act \[Oct. 22, 1986\] requests information from the executor with respect to such election and the executor does not provide such information within 90 days of receipt of such request.
 
-“(c)
+"(c)
 
 Effective Date.—The provisions of this section shall not apply to the estate of any decedent if before the date of the enactment of this Act \[Oct. 22, 1986\] the statute of limitations has expired with respect to—
 
-&emsp;“(1) the return of tax imposed by section 2001 of the Internal Revenue Code of 1954 \[now 1986\], and
+&emsp;"(1) the return of tax imposed by section 2001 of the Internal Revenue Code of 1954 \[now 1986\], and
 
-&emsp;“(2) the period during which a claim for credit or refund may be timely filed.
+&emsp;"(2) the period during which a claim for credit or refund may be timely filed.
 
-“(d)
+"(d)
 
 Special Rule for Certain Estate.—Notwithstanding subsection (a)(2), the provisions of this section shall apply to the estate of an individual who died on January 30, 1984, and with respect to which—
 
-&emsp;“(1) a Federal estate tax return was filed on October 30, 1984, electing current use valuation, and
+&emsp;"(1) a Federal estate tax return was filed on October 30, 1984, electing current use valuation, and
 
-&emsp;“(2) the agreement required under section 2032A was filed on November 9, 1984.”
+&emsp;"(2) the agreement required under section 2032A was filed on November 9, 1984."
 
 #### Land Diverted Under 1983 Payment-in-Kind Program
 

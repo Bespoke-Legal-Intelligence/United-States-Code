@@ -6,5 +6,5 @@ Provisions in annual appropriation Acts of the Department of State facilitating 
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–501 substituted “this subchapter” for “this chapter”.
+<b>1978</b>—Pub. L. 95–501 substituted "this subchapter" for "this chapter".
 

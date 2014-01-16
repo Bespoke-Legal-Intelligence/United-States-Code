@@ -6,25 +6,25 @@ In this section:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Energy Information Administration.
+&emsp;The term "Administrator" means the Administrator of the Energy Information Administration.
 
 #### (2) Planned refinery outage
 
 #### (A) In general
 
-&emsp;&emsp;The term “planned refinery outage” means a removal, scheduled before the date on which the removal occurs, of a refinery, or any unit of a refinery, from service for maintenance, repair, or modification.
+&emsp;&emsp;The term "planned refinery outage" means a removal, scheduled before the date on which the removal occurs, of a refinery, or any unit of a refinery, from service for maintenance, repair, or modification.
 
 #### (B) Exclusion
 
-&emsp;&emsp;The term “planned refinery outage” does not include any necessary and unplanned removal of a refinery, or any unit of a refinery, from service as a result of a component failure, safety hazard, emergency, or action reasonably anticipated to be necessary to prevent such events.
+&emsp;&emsp;The term "planned refinery outage" does not include any necessary and unplanned removal of a refinery, or any unit of a refinery, from service as a result of a component failure, safety hazard, emergency, or action reasonably anticipated to be necessary to prevent such events.
 
 #### (3) Refined petroleum product
 
-&emsp;The term “refined petroleum product” means any gasoline, diesel fuel, fuel oil, lubricating oil, liquid petroleum gas, or other petroleum distillate that is produced through the refining or processing of crude oil or an oil derived from tar sands, shale, or coal.
+&emsp;The term "refined petroleum product" means any gasoline, diesel fuel, fuel oil, lubricating oil, liquid petroleum gas, or other petroleum distillate that is produced through the refining or processing of crude oil or an oil derived from tar sands, shale, or coal.
 
 #### (4) Refinery
 
-&emsp;The term “refinery” means a facility used in the production of a refined petroleum product through distillation, cracking, or any other process.
+&emsp;The term "refinery" means a facility used in the production of a refined petroleum product through distillation, cracking, or any other process.
 
 #### (b) Review and analysis of available information
 

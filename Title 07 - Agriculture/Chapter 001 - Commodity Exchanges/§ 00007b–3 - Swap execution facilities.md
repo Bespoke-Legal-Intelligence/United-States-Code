@@ -144,7 +144,7 @@ The goal of this section is to promote the trading of swaps on swap execution fa
 
 &emsp;&emsp;&emsp;(ii) report to the Commission, in a form and manner acceptable to the Commission, such information as the Commission determines to be necessary or appropriate for the Commission to perform the duties of the Commission under this chapter; and
 
-&emsp;&emsp;&emsp;(iii) shall keep any such records relating to swaps defined in section 1a(47)(A)(v) of this title open to inspection and examination by the Securities and Exchange Commission.” <sup>1</sup>
+&emsp;&emsp;&emsp;(iii) shall keep any such records relating to swaps defined in section 1a(47)(A)(v) of this title open to inspection and examination by the Securities and Exchange Commission." <sup>1</sup>
 
 #### (B) Requirements
 
@@ -262,5 +262,5 @@ Section effective on the later of 360 days after July 21, 2010, or, to the exten
 
 <i><sup>1</sup></i><i> So in original. The closing quotation marks probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “take”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "take".</i>
 

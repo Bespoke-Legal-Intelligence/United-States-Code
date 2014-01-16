@@ -6,7 +6,7 @@ For purposes of this subpart—
 
 #### (1) In general
 
-&emsp;The term “original issue discount” means the excess (if any) of—
+&emsp;The term "original issue discount" means the excess (if any) of—
 
 &emsp;&emsp;(A) the stated redemption price at maturity, over
 
@@ -14,7 +14,7 @@ For purposes of this subpart—
 
 #### (2) Stated redemption price at maturity
 
-&emsp;The term “stated redemption price at maturity” means the amount fixed by the last modification of the purchase agreement and includes interest and other amounts payable at that time (other than any interest based on a fixed rate, and payable unconditionally at fixed periodic intervals of 1 year or less during the entire term of the debt instrument).
+&emsp;The term "stated redemption price at maturity" means the amount fixed by the last modification of the purchase agreement and includes interest and other amounts payable at that time (other than any interest based on a fixed rate, and payable unconditionally at fixed periodic intervals of 1 year or less during the entire term of the debt instrument).
 
 #### (3) ¼ of 1 percent de minimis rule
 
@@ -68,7 +68,7 @@ For purposes of this subpart—
 
 #### (5) Property
 
-&emsp;In applying this subsection, the term “property” includes services and the right to use property, but such term does not include money.
+&emsp;In applying this subsection, the term "property" includes services and the right to use property, but such term does not include money.
 
 #### (c) Special rules for applying subsection (b)
 
@@ -76,7 +76,7 @@ For purposes of subsection (b)—
 
 #### (1) Initial offering price; price paid by the first buyer
 
-&emsp;The terms “initial offering price” and “price paid by the first buyer” include the aggregate payments made by the purchaser under the purchase agreement, including modifications thereof.
+&emsp;The terms "initial offering price" and "price paid by the first buyer" include the aggregate payments made by the purchaser under the purchase agreement, including modifications thereof.
 
 #### (2) Treatment of investment units
 

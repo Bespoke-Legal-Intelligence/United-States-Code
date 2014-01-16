@@ -14,11 +14,11 @@ In this section:
 
 #### (1) In general
 
-&emsp;The term “hydrocarbon systems science” means a science involving natural gas or other petroleum exploration, development, or production.
+&emsp;The term "hydrocarbon systems science" means a science involving natural gas or other petroleum exploration, development, or production.
 
 #### (2) Inclusions
 
-&emsp;The term “hydrocarbon systems science” includes—
+&emsp;The term "hydrocarbon systems science" includes—
 
 &emsp;&emsp;(A) petroleum or reservoir engineering;
 
@@ -52,7 +52,7 @@ The Secretary shall establish, in accordance with this section, a program to exp
 
 #### (2) Eligibility
 
-&emsp;In evaluating grants under this subsection, the Secretary shall give priority to proposalsthat involve partnerships with the National Laboratories, including the National Energy Technology Laboratory, or other hydrocarbon systems scientific entities, as determined by the Secretary.
+&emsp;In evaluating grants under this subsection, the Secretary shall give priority to proposals that involve partnerships with the National Laboratories, including the National Energy Technology Laboratory, or other hydrocarbon systems scientific entities, as determined by the Secretary.
 
 #### (3) Criteria
 

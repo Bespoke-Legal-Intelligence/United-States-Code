@@ -24,21 +24,27 @@ Regulations.—The Secretary concerned shall prescribe regulations to carry out 
 
 (e)
 
-Termination.—No reimbursement may be provided under this section for travel that occurs after December 31, 2013.
+Termination.—No reimbursement may be provided under this section for travel that occurs after December 31, 2014.
 
-(Added Pub. L. 110–181, div. A, title VI, §631(a)(1), Jan. 28, 2008, 122 Stat. 153, §408a; amended Pub. L. 111–383, div. A, title VI, §621, Jan. 7, 2011, 124 Stat. 4238; renumbered §478a and amended Pub. L. 112–81, div. A, title VI, §§621, 631(d)(2), Dec. 31, 2011, 125 Stat. 1452, 1460; Pub. L. 112–239, div. A, title VI, §611(7), Jan. 2, 2013, 126 Stat. 1776.)
+(Added Pub. L. 110–181, div. A, title VI, §631(a)(1), Jan. 28, 2008, 122 Stat. 153, §408a; amended Pub. L. 111–383, div. A, title VI, §621, Jan. 7, 2011, 124 Stat. 4238; renumbered §478a and amended Pub. L. 112–81, div. A, title VI, §§621, 631(d)(2), Dec. 31, 2011, 125 Stat. 1452, 1460; Pub. L. 112–239, div. A, title VI, §611(7), Jan. 2, 2013, 126 Stat. 1776; Pub. L. 113–66, div. A, title VI, §611(7), title X, §1091(b)(3), Dec. 26, 2013, 127 Stat. 780, 876.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (e). Pub. L. 112–239, which directed amendment of section 408a(e) of this title by substituting “December 31, 2013” for “December 31, 2012”, was executed by making the substitution in this section to reflect the probable intent of Congress and the intervening amendment by Pub. L. 112–81, §631(d)(2), see 2011 Amendment note below.
+<b>2013</b>—Subsec. (e). Pub. L. 113–66, §611(7), substituted "December 31, 2014" for "December 31, 2013".
+
+Pub. L. 112–239, §611(7), as amended by Pub. L. 113–66, §1091(b)(3), substituted "December 31, 2013" for "December 31, 2012".
 
 <b>2011</b>—Pub. L. 112–81, §631(d)(2), renumbered section 408a of this title as this section.
 
-Subsec. (e). Pub. L. 112–81, §621, substituted “December 31, 2012” for “December 31, 2011”.
+Subsec. (e). Pub. L. 112–81, §621, substituted "December 31, 2012" for "December 31, 2011".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 113–66, div. A, title X, §1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendmentmade by section 1091(b)(3) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
 
 #### Effective Date
 
-Pub. L. 110–181, div. A, title VI, §631(b), Jan. 28, 2008, 122 Stat. 154, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: “No reimbursement may be provided under section 478a of title 37, United States Code, as added by subsection (a), for travel costs incurred before the date of the enactment of this Act \[Jan. 28, 2008\].”
+Pub. L. 110–181, div. A, title VI, §631(b), Jan. 28, 2008, 122 Stat. 154, as amended by Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948, provided that: "No reimbursement may be provided under section 478a of title 37, United States Code, as added by subsection (a), for travel costs incurred before the date of the enactment of this Act \[Jan. 28, 2008\]."
 

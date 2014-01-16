@@ -6,5 +6,5 @@ The Secretary, the Secretary of Energy, and the Director of the National Science
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–58 substituted “, the Secretary of Energy, and the Director of the National Science Foundation” for “and the National Science Foundation”.
+<b>2005</b>—Pub. L. 109–58 substituted ", the Secretary of Energy, and the Director of the National Science Foundation" for "and the National Science Foundation".
 

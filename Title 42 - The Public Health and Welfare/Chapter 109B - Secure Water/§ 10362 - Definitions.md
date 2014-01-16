@@ -4,11 +4,11 @@ In this section: <sup>1</sup>
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the National Oceanic and Atmospheric Administration.
+&emsp;The term "Administrator" means the Administrator of the National Oceanic and Atmospheric Administration.
 
 #### (2) Advisory Committee
 
-&emsp;The term “Advisory Committee” means the National Advisory Committee on Water Information established—
+&emsp;The term "Advisory Committee" means the National Advisory Committee on Water Information established—
 
 &emsp;&emsp;(A) under the Office of Management and Budget Circular 92–01; and
 
@@ -16,27 +16,27 @@ In this section: <sup>1</sup>
 
 #### (3) Assessment program
 
-&emsp;The term “assessment program” means the water availability and use assessment program established by the Secretary under section 10368(a) of this title.
+&emsp;The term "assessment program" means the water availability and use assessment program established by the Secretary under section 10368(a) of this title.
 
 #### (4) Climate division
 
-&emsp;The term “climate division” means 1 of the 359 divisions in the United States that represents 2 or more regions located within a State that are as climatically homogeneous as possible, as determined by the Administrator.
+&emsp;The term "climate division" means 1 of the 359 divisions in the United States that represents 2 or more regions located within a State that are as climatically homogeneous as possible, as determined by the Administrator.
 
 #### (5) Commissioner
 
-&emsp;The term “Commissioner” means the Commissioner of Reclamation.
+&emsp;The term "Commissioner" means the Commissioner of Reclamation.
 
 #### (6) Director
 
-&emsp;The term “Director” means the Director of the United States Geological Survey.
+&emsp;The term "Director" means the Director of the United States Geological Survey.
 
 #### (7) Eligible applicant
 
-&emsp;The term “eligible applicant” means any State, Indian tribe, irrigation district, water district, or other organization with water or power delivery authority.
+&emsp;The term "eligible applicant" means any State, Indian tribe, irrigation district, water district, or other organization with water or power delivery authority.
 
 #### (8) Federal Power Marketing Administration
 
-&emsp;The term “Federal Power Marketing Administration” means—
+&emsp;The term "Federal Power Marketing Administration" means—
 
 &emsp;&emsp;(A) the Bonneville Power Administration;
 
@@ -48,15 +48,15 @@ In this section: <sup>1</sup>
 
 #### (9) Hydrologic accounting unit
 
-&emsp;The term “hydrologic accounting unit” means 1 of the 352 river basin hydrologic accounting units used by the United States Geological Survey.
+&emsp;The term "hydrologic accounting unit" means 1 of the 352 river basin hydrologic accounting units used by the United States Geological Survey.
 
 #### (10) Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning given the term in section 450b of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 450b of title 25.
 
 #### (11) Major aquifer system
 
-&emsp;The term “major aquifer system” means a groundwater system that is—
+&emsp;The term "major aquifer system" means a groundwater system that is—
 
 &emsp;&emsp;(A) identified as a significant groundwater system by the Director; and
 
@@ -66,7 +66,7 @@ In this section: <sup>1</sup>
 
 #### (A) In general
 
-&emsp;&emsp;The term “major reclamation river basin” means each major river system (including tributaries)—
+&emsp;&emsp;The term "major reclamation river basin" means each major river system (including tributaries)—
 
 &emsp;&emsp;&emsp;(i) that is located in a service area of the Bureau of Reclamation; and
 
@@ -74,7 +74,7 @@ In this section: <sup>1</sup>
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “major reclamation river basin” includes—
+&emsp;&emsp;The term "major reclamation river basin" includes—
 
 &emsp;&emsp;&emsp;(i) the Colorado River;
 
@@ -94,7 +94,7 @@ In this section: <sup>1</sup>
 
 #### (13) Non-Federal participant
 
-&emsp;The term “non-Federal participant” means—
+&emsp;The term "non-Federal participant" means—
 
 &emsp;&emsp;(A) a State, regional, or local authority;
 
@@ -104,11 +104,11 @@ In this section: <sup>1</sup>
 
 #### (14) Panel
 
-&emsp;The term “panel” means the climate change and water intragovernmental panel established by the Secretary under section 10366(a) of this title.
+&emsp;The term "panel" means the climate change and water intragovernmental panel established by the Secretary under section 10366(a) of this title.
 
 #### (15) Program
 
-&emsp;The term “program” means the regional integrated sciences and assessments program—
+&emsp;The term "program" means the regional integrated sciences and assessments program—
 
 &emsp;&emsp;(A) established by the Administrator; and
 
@@ -118,11 +118,11 @@ In this section: <sup>1</sup>
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “Secretary” means the Secretary of the Interior.
+&emsp;&emsp;Except as provided in subparagraph (B), the term "Secretary" means the Secretary of the Interior.
 
 #### (B) Exceptions
 
-&emsp;&emsp;The term “Secretary” means—
+&emsp;&emsp;The term "Secretary" means—
 
 &emsp;&emsp;&emsp;(i) in the case of sections 10363, 10364, and 10369 of this title, the Secretary of the Interior (acting through the Commissioner); and
 
@@ -130,7 +130,7 @@ In this section: <sup>1</sup>
 
 #### (17) Service area
 
-&emsp;The term “service area” means any area that encompasses a watershed that contains a federally authorized reclamation project that is located in any State or area described in section 391 of title 43.
+&emsp;The term "service area" means any area that encompasses a watershed that contains a federally authorized reclamation project that is located in any State or area described in section 391 of title 43.
 
 (Pub. L. 111–11, title IX, §9502, Mar. 30, 2009, 123 Stat. 1330.)
 

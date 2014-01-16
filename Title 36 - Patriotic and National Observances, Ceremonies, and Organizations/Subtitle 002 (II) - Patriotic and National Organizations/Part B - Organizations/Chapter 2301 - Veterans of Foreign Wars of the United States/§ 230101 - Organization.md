@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Veterans of Foreign Wars of the United States (in this chapter, the “corporation”), a national association of men who as soldiers, sailors, marines, and airmen served this Nation in wars, campaigns, and expeditions on foreign soil or in hostile waters, is a federally chartered corporation.
+Federal Charter.—Veterans of Foreign Wars of the United States (in this chapter, the "corporation"), a national association of men who as soldiers, sailors, marines, and airmen served this Nation in wars, campaigns, and expeditions on foreign soil or in hostile waters, is a federally chartered corporation.
 
 (b)
 
@@ -40,5 +40,5 @@ May 28, 1936, ch. 471, §§2, 4 (words before 4th semicolon related to perpetual
 
 Subsection (a) is substituted for the source provisions for consistency in the revised title and to eliminate unnecessary and executed words.
 
-In subsection (b), the words “perpetual existence” are substituted for “perpetual succession” for consistency in the revised title.
+In subsection (b), the words "perpetual existence" are substituted for "perpetual succession" for consistency in the revised title.
 

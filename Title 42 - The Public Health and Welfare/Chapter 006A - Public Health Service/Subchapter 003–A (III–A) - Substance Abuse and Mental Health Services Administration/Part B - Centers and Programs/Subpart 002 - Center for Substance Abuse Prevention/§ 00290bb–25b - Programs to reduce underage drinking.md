@@ -4,13 +4,13 @@
 
 For purposes of this section:
 
-&emsp;(1) The term “alcohol beverage industry” means the brewers, vintners, distillers, importers, distributors, and retail or online outlets that sell or serve beer, wine, and distilled spirits.
+&emsp;(1) The term "alcohol beverage industry" means the brewers, vintners, distillers, importers, distributors, and retail or online outlets that sell or serve beer, wine, and distilled spirits.
 
-&emsp;(2) The term “school-based prevention” means programs, which are institutionalized, and run by staff members or school-designated persons or organizations in any grade of school, kindergarten through 12th grade.
+&emsp;(2) The term "school-based prevention" means programs, which are institutionalized, and run by staff members or school-designated persons or organizations in any grade of school, kindergarten through 12th grade.
 
-&emsp;(3) The term “youth” means persons under the age of 21.
+&emsp;(3) The term "youth" means persons under the age of 21.
 
-&emsp;(4) The term “IOM report” means the report released in September 2003 by the National Research Council, Institute of Medicine, and entitled “Reducing Underage Drinking: A Collective Responsibility”.
+&emsp;(4) The term "IOM report" means the report released in September 2003 by the National Research Council, Institute of Medicine, and entitled "Reducing Underage Drinking: A Collective Responsibility".
 
 #### (b) Sense of Congress
 
@@ -36,7 +36,7 @@ It is the sense of the Congress that:
 
 &emsp;(6) The National Collegiate Athletic Association, its member colleges and universities, and athletic conferences should affirm a commitment to a policy of discouraging alcohol use among underage students and other young fans.
 
-&emsp;(7) Alcohol is a unique product and should be regulated differently than other products by the States and Federal Government. States have primary authority to regulate alcoholdistribution and sale, and the Federal Government should support and supplement these State efforts. States also have a responsibility to fight youth access to alcohol and reduce underage drinking. Continued State regulation and licensing of the manufacture, importation, sale, distribution, transportation and storage of alcoholic beverages are clearly in the public interest and are critical to promoting responsible consumption, preventing illegal access to alcohol by persons under 21 years of age from commercial and non-commercial sources, maintaining industry integrity and an orderly marketplace, and furthering effective State tax collection.
+&emsp;(7) Alcohol is a unique product and should be regulated differently than other products by the States and Federal Government. States have primary authority to regulate alcohol distribution and sale, and the Federal Government should support and supplement these State efforts. States also have a responsibility to fight youth access to alcohol and reduce underage drinking. Continued State regulation and licensing of the manufacture, importation, sale, distribution, transportation and storage of alcoholic beverages are clearly in the public interest and are critical to promoting responsible consumption, preventing illegal access to alcohol by persons under 21 years of age from commercial and non-commercial sources, maintaining industry integrity and an orderly marketplace, and furthering effective State tax collection.
 
 #### (c) Interagency coordinating committee; annual report on State underage drinking prevention and enforcement activities
 
@@ -44,7 +44,7 @@ It is the sense of the Congress that:
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary, in collaboration with the Federal officials specified in subparagraph (B), shall formally establish and enhance the efforts of the interagency coordinating committee, that began operating in 2004, focusing on underage drinking (referred to in this subsection as the “Committee”).
+&emsp;&emsp;The Secretary, in collaboration with the Federal officials specified in subparagraph (B), shall formally establish and enhance the efforts of the interagency coordinating committee, that began operating in 2004, focusing on underage drinking (referred to in this subsection as the "Committee").
 
 #### (B) Other agencies
 
@@ -108,7 +108,7 @@ It is the sense of the Congress that:
 
 &emsp;&emsp;&emsp;In developing these measures, the Secretary shall consider categories including, but not limited to:
 
-&emsp;&emsp;&emsp;&emsp;(I) Whether or not the State has comprehensive anti-underage drinking laws such as for the illegal sale, purchase, attempt to purchase, consumption, or possession of alcohol; illegal use of fraudulent ID; illegal furnishing or obtaining of alcohol for an individual under 21 years; the degree of strictness of the penalties for such offenses; and the prevalence of the enforcement of each of these infractions.
+&emsp;&emsp;&emsp;&emsp;(I) Whether or not the State has comprehensive anti-underage drinking laws such as for the illegal sale, purchase, attempt to purchase, consumption, or possession of alcohol; illegal use of fraudulent ID; illegal furnishing or obtaining of alcohol for an individual under 21 years;the degree of strictness of the penalties for such offenses; and the prevalence of the enforcement of each of these infractions.
 
 &emsp;&emsp;&emsp;&emsp;(II) Whether or not the State has comprehensive liability statutes pertaining to underage access to alcohol such as dram shop, social host, and house party laws, and the prevalence of enforcement of each of these laws.
 
@@ -164,7 +164,7 @@ It is the sense of the Congress that:
 
 #### (A) Authorization of program
 
-&emsp;&emsp;The Administrator of the Substance Abuse and Mental Health Services Administration, in consultation with the Director of the Office of National Drug Control Policy, shall award, if the Administrator determines that the Department of Health and Human Services is not currently conducting activities that duplicate activities of the type described in this subsection, “enhancement grants” to eligible entities to design, test, evaluate and disseminate effective strategies to maximize the effectiveness of community-wide approaches to preventing and reducing underage drinking. This subsection is subject to the availability of appropriations.
+&emsp;&emsp;The Administrator of the Substance Abuse and Mental Health Services Administration, in consultation with the Director of the Office of National Drug Control Policy, shall award, if the Administrator determines that the Department of Health and Human Services is not currently conducting activities that duplicate activities of the type described in this subsection, "enhancement grants" to eligible entities to design, test, evaluate and disseminate effective strategies to maximize the effectiveness of community-wide approaches to preventing and reducing underage drinking. This subsection is subject to the availability of appropriations.
 
 #### (B) Purposes
 
@@ -204,7 +204,7 @@ It is the sense of the Congress that:
 
 #### (G) Definitions
 
-&emsp;&emsp;For purposes of this paragraph, the term “eligible entity” means an organization that is currently receiving or has received grant funds under the Drug-Free Communities Act of 1997 (21 U.S.C. 1521 et seq.).
+&emsp;&emsp;For purposes of this paragraph, the term "eligible entity" means an organization that is currently receiving or has received grant funds under the Drug-Free Communities Act of 1997 (21 U.S.C. 1521 et seq.).
 
 #### (H) Administrative expenses
 
@@ -272,23 +272,23 @@ It is the sense of the Congress that:
 
 #### (i) Eligible entity
 
-&emsp;&emsp;&emsp;The term “eligible entity” means a State, institution of higher education, or nonprofit entity.
+&emsp;&emsp;&emsp;The term "eligible entity" means a State, institution of higher education, or nonprofit entity.
 
 #### (ii) Institution of higher education
 
-&emsp;&emsp;&emsp;The term “institution of higher education” has the meaning given the term in section 1001(a) of title 20.
+&emsp;&emsp;&emsp;The term "institution of higher education" has the meaning given the term in section 1001(a) of title 20.
 
 #### (iii) Secretary
 
-&emsp;&emsp;&emsp;The term “Secretary” means the Secretary of Education.
+&emsp;&emsp;&emsp;The term "Secretary" means the Secretary of Education.
 
 #### (iv) State
 
-&emsp;&emsp;&emsp;The term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;&emsp;&emsp;The term "State" means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 #### (v) Statewide coalition
 
-&emsp;&emsp;&emsp;The term “statewide coalition” means a coalition that—
+&emsp;&emsp;&emsp;The term "statewide coalition" means a coalition that—
 
 &emsp;&emsp;&emsp;&emsp;(I) includes, but is not limited to—
 
@@ -300,7 +300,7 @@ It is the sense of the Congress that:
 
 #### (vi) Surrounding community
 
-&emsp;&emsp;&emsp;The term “surrounding community” means the community—
+&emsp;&emsp;&emsp;The term "surrounding community" means the community—
 
 &emsp;&emsp;&emsp;&emsp;(I) that surrounds an institution of higher education participating in a statewide coalition;
 
@@ -344,7 +344,7 @@ It is the sense of the Congress that:
 
 #### (2) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this subsection $6,000,000 for fiscal year 2007, and $6,000,000 for each of the fiscal years 2008 through 2010.
+&emsp;There are authorized to be appropriated to carry out this subsection $6,000,000 for fiscalyear 2007, and $6,000,000 for each of the fiscal years 2008 through 2010.
 
 (July 1, 1944, ch. 373, title V, §519B, as added Pub. L. 106–310, div. B, title XXXI, §3109, Oct. 17, 2000, 114 Stat. 1182; amended Pub. L. 109–422, §2, Dec. 20, 2006, 120 Stat. 2890.)
 

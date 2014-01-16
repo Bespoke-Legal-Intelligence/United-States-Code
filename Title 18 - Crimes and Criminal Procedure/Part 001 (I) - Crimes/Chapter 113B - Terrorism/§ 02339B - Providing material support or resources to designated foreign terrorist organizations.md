@@ -6,7 +6,7 @@ Prohibited Activities.—
 
 &emsp;(1)
 
-Unlawful conduct.—Whoever knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under this title or imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
+Unlawful conduct.—Whoever knowingly provides material support or resources to a foreign terrorist organization, or attempts or conspires to do so, shall be fined under thistitle or imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).
 
 &emsp;(2)
 
@@ -190,21 +190,21 @@ Construction.—Nothing in this subsection shall prevent the United States from 
 
 Definitions.—As used in this section—
 
-&emsp;(1) the term “classified information” has the meaning given that term in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.);
+&emsp;(1) the term "classified information" has the meaning given that term in section 1(a) of the Classified Information Procedures Act (18 U.S.C. App.);
 
-&emsp;(2) the term “financial institution” has the same meaning as in section 5312(a)(2) of title 31, United States Code;
+&emsp;(2) the term "financial institution" has the same meaning as in section 5312(a)(2) of title 31, United States Code;
 
-&emsp;(3) the term “funds” includes coin or currency of the United States or any other country, traveler's checks, personal checks, bank checks, money orders, stocks, bonds, debentures, drafts, letters of credit, any other negotiable instrument, and any electronic representation of any of the foregoing;
+&emsp;(3) the term "funds" includes coin or currency of the United States or any other country, traveler's checks, personal checks, bank checks, money orders, stocks, bonds, debentures, drafts, letters of credit, any other negotiable instrument, and any electronic representation of any of the foregoing;
 
-&emsp;(4) the term “material support or resources” has the same meaning given that term in section 2339A (including the definitions of “training” and “expert advice or assistance” in that section);
+&emsp;(4) the term "material support or resources" has the same meaning given that term in section 2339A (including the definitions of "training" and "expert advice or assistance" in that section);
 
-&emsp;(5) the term “Secretary” means the Secretary of the Treasury; and
+&emsp;(5) the term "Secretary" means the Secretary of the Treasury; and
 
-&emsp;(6) the term “terrorist organization” means an organization designated as a terrorist organization under section 219 of the Immigration and Nationality Act.
+&emsp;(6) the term "terrorist organization" means an organization designated as a terrorist organization under section 219 of the Immigration and Nationality Act.
 
 (h)
 
-Provision of Personnel.—No person may be prosecuted under this section in connection with the term “personnel” unless that person has knowingly provided, attempted to provide, or conspired to provide a foreign terrorist organization with 1 or more individuals (who may beor include himself) to work under that terrorist organization's direction or control or to organize, manage, supervise, or otherwise direct the operation of that organization. Individuals who act entirely independently of the foreign terrorist organization to advance its goals or objectives shall not be considered to be working under the foreign terrorist organization's direction and control.
+Provision of Personnel.—No person may be prosecuted under this section in connection with the term "personnel" unless that person has knowingly provided, attempted to provide, or conspired to provide a foreign terrorist organization with 1 or more individuals (who may be or include himself) to work under that terrorist organization's direction or control or to organize, manage, supervise, or otherwise direct theoperation of that organization. Individuals who act entirely independently of the foreign terrorist organization to advance its goals or objectives shall not be considered to be working under the foreign terrorist organization's direction and control.
 
 (i)
 
@@ -212,7 +212,7 @@ Rule of Construction.—Nothing in this section shall be construed or applied so
 
 (j)
 
-Exception.—No person may be prosecuted under this section in connection with the term “personnel”, “training”, or “expert advice or assistance” if the provision of that material support or resources to a foreign terrorist organization was approved by the Secretary of State with the concurrence of the Attorney General. The Secretary of State may not approve the provision of any material support that may be used to carry out terrorist activity (as defined in section 212(a)(3)(B)(iii) of the Immigration and Nationality Act).
+Exception.—No person may be prosecuted under this section in connection with the term "personnel", "training", or "expert advice or assistance" if the provision of that material support or resources to a foreign terrorist organization was approved by the Secretary of State with the concurrence of the Attorney General. The Secretary of State may not approve the provision of any material support that may be used to carry out terrorist activity (as defined in section 212(a)(3)(B)(iii) of the Immigration and Nationality Act).
 
 (Added Pub. L. 104–132, title III, §303(a), Apr. 24, 1996, 110 Stat. 1250; amended Pub. L. 107–56, title VIII, §810(d), Oct. 26, 2001, 115 Stat. 380; Pub. L. 108–458, title VI, §6603(c)–(f), Dec. 17, 2004, 118 Stat. 3762, 3763; Pub. L. 111–16, §3(6)–(8), May 7, 2009, 123 Stat. 1608.)
 
@@ -230,21 +230,21 @@ Section 219 of the Immigration and Nationality Act, referred to in subsec. (g)(6
 
 #### Amendments
 
-<b>2009</b>—Subsec. (f)(5)(B)(ii). Pub. L. 111–16, §3(6), substituted “14 days” for “10 days”.
+<b>2009</b>—Subsec. (f)(5)(B)(ii). Pub. L. 111–16, §3(6), substituted "14 days" for "10 days".
 
-Subsec. (f)(5)(B)(iii)(I). Pub. L. 111–16, §3(7), inserted “, excluding intermediate weekends and holidays” after “trial”.
+Subsec. (f)(5)(B)(iii)(I). Pub. L. 111–16, §3(7), inserted ", excluding intermediate weekends and holidays" after "trial".
 
-Subsec. (f)(5)(B)(iii)(III). Pub. L. 111–16, §3(8), inserted “, excluding intermediate weekends and holidays” after “appeal”.
+Subsec. (f)(5)(B)(iii)(III). Pub. L. 111–16, §3(8), inserted ", excluding intermediate weekends and holidays" after "appeal".
 
-<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §6603(c), struck out “, within the United States or subject to the jurisdiction of the United States,” after “Whoever” and inserted at end “To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989).”
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–458, §6603(c), struck out ", within the United States or subject to the jurisdiction of the United States," after "Whoever" and inserted at end "To violate this paragraph, a person must have knowledge that the organization is a designated terrorist organization (as defined in subsection (g)(6)), that the organization has engaged or engages in terrorist activity (as defined in section 212(a)(3)(B) of the Immigration and Nationality Act), or that the organization has engaged or engages in terrorism (as defined in section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989)."
 
 Subsec. (d). Pub. L. 108–458, §6603(d), designated existing provisions as par. (2), inserted par. (2) heading, and added par. (1).
 
-Subsec. (g)(4). Pub. L. 108–458, §6603(e), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the term ‘material support or resources’ has the same meaning as in section 2339A;”.
+Subsec. (g)(4). Pub. L. 108–458, §6603(e), amended par. (4) generally. Prior to amendment, par. (4) read as follows: "the term 'material support or resources' has the same meaning as in section 2339A;".
 
 Subsecs. (h) to (j). Pub. L. 108–458, §6603(f), added subsecs. (h) to (j).
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–56 substituted “15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life” for “10 years, or both”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–56 substituted "15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life" for "10 years, or both".
 
 #### Effective Date of 2009 Amendment
 
@@ -254,25 +254,25 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 Pub. L. 104–132, title III, §301, Apr. 24, 1996, 110 Stat. 1247, provided that:
 
-“(a)
+"(a)
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) international terrorism is a serious and deadly problem that threatens the vital interests of the United States;
+&emsp;"(1) international terrorism is a serious and deadly problem that threatens the vital interests of the United States;
 
-&emsp;“(2) the Constitution confers upon Congress the power to punish crimes against the law of nations and to carry out the treaty obligations of the United States, and therefore Congress may by law impose penalties relating to the provision of material support to foreign organizations engaged in terrorist activity;
+&emsp;"(2) the Constitution confers upon Congress the power to punish crimes against the law of nations and to carry out the treaty obligations of the United States, and therefore Congress may by law impose penalties relating to the provision of material support to foreign organizations engaged in terrorist activity;
 
-&emsp;“(3) the power of the United States over immigration and naturalization permits the exclusion from the United States of persons belonging to international terrorist organizations;
+&emsp;"(3) the power of the United States over immigration and naturalization permits the exclusion from the United States of persons belonging to international terrorist organizations;
 
-&emsp;“(4) international terrorism affects the interstate and foreign commerce of the United States by harming international trade and market stability, and limiting international travel by United States citizens as well as foreign visitors to the United States;
+&emsp;"(4) international terrorism affects the interstate and foreign commerce of the United States by harming international trade and market stability, and limiting international travel by United States citizens as well as foreign visitors to the United States;
 
-&emsp;“(5) international cooperation is required for an effective response to terrorism, as demonstrated by the numerous multilateral conventions in force providing universal prosecutive jurisdiction over persons involved in a variety of terrorist acts, including hostage taking, murder of an internationally protected person, and aircraft piracy and sabotage;
+&emsp;"(5) international cooperation is required for an effective response to terrorism, as demonstrated by the numerous multilateral conventions in force providing universal prosecutive jurisdiction over persons involved in a variety of terrorist acts, including hostage taking, murder of an internationally protected person, and aircraft piracy and sabotage;
 
-&emsp;“(6) some foreign terrorist organizations, acting through affiliated groups or individuals, raise significant funds within the United States, or use the United States as a conduit for the receipt of funds raised in other nations; and
+&emsp;"(6) some foreign terrorist organizations, acting through affiliated groups or individuals, raise significant funds within the United States, or use the United States as a conduit for the receipt of funds raised in other nations; and
 
-&emsp;“(7) foreign organizations that engage in terrorist activity are so tainted by their criminal conduct that any contribution to such an organization facilitates that conduct.
+&emsp;"(7) foreign organizations that engage in terrorist activity are so tainted by their criminal conduct that any contribution to such an organization facilitates that conduct.
 
-“(b)
+"(b)
 
-Purpose.—The purpose of this subtitle \[subtitle A (§§301–303) of title III of Pub. L. 104–132, enacting this section and section 1189 of Title 8, Aliens and Nationality\] is to provide the Federal Government the fullest possible basis, consistent with the Constitution, to prevent persons within the United States, or subject to the jurisdiction of the United States, from providing material support or resources to foreign organizations that engage in terrorist activities.”
+Purpose.—The purpose of this subtitle \[subtitle A (§§301–303) of title III of Pub. L. 104–132, enacting this section and section 1189 of Title 8, Aliens and Nationality\] is to provide the Federal Government the fullest possible basis, consistent with the Constitution, to prevent persons within the United States, or subject to the jurisdiction of the United States, from providing material support or resources to foreign organizations that engage in terrorist activities."
 

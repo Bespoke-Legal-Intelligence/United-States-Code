@@ -26,7 +26,7 @@ Each local educational agency desiring a grant under this subpart shall submit a
 
 &emsp;(9) If the smaller learning community or communities exist as a school-within-a-school, the relationship, including governance and administration, of the smaller learning community to the remainder of the school.
 
-&emsp;(10) The administrative and managerial relationship between the local educational agency and the smaller learning community or communities, including how such agency will demonstrate a commitment to the continuity of the smaller learning community or communities (including the continuity of student and teacher assignment to a particular learning community).
+&emsp;(10) The administrative and managerial relationship between the local educational agencyand the smaller learning community or communities, including how such agency will demonstrate a commitment to the continuity of the smaller learning community or communities (including the continuity of student and teacher assignment to a particular learning community).
 
 &emsp;(11) How the local educational agency will coordinate or use funds provided under this subpart with other funds provided under this chapter or other Federal laws.
 

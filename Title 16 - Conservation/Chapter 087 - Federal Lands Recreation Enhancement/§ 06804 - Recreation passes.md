@@ -4,7 +4,7 @@
 
 #### (1) Availability and use
 
-&emsp;The Secretaries shall establish, and may charge a fee for, an interagency national pass to be known as the “America the Beautiful—the National Parks and Federal Recreational Lands Pass”, which shall cover the entrance fee and standard amenity recreation fee for all Federal recreational lands and waters for which an entrance fee or a standard amenity recreation fee is charged.
+&emsp;The Secretaries shall establish, and may charge a fee for, an interagency national pass to be known as the "America the Beautiful—the National Parks and Federal Recreational Lands Pass", which shall cover the entrance fee and standard amenity recreation fee for all Federal recreational lands and waters for which an entrance fee or a standard amenity recreation fee is charged.
 
 #### (2) Image competition for recreation pass
 

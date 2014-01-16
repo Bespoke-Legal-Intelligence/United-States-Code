@@ -30,9 +30,9 @@ The Chief Executive Officer may fix the rate of basic pay of employees of the Co
 
 In this section—
 
-&emsp;(1) the term “agency” means an executive agency, as defined by section 105 of title 5; and
+&emsp;(1) the term "agency" means an executive agency, as defined by section 105 of title 5; and
 
-&emsp;(2) the term “detail” means the assignment or loan of an employee, without a change of position, from the agency by which such employee is employed to the Corporation.
+&emsp;(2) the term "detail" means the assignment or loan of an employee, without a change of position, from the agency by which such employee is employed to the Corporation.
 
 (Pub. L. 108–199, div. D, title VI, §617, Jan. 23, 2004, 118 Stat. 224.)
 

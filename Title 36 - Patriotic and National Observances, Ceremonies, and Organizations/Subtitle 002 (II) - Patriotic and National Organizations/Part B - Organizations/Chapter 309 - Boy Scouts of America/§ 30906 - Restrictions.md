@@ -26,5 +26,5 @@ Historical and Revision Notes
 
 June 15, 1916, ch. 148, §4 (words after semicolon), 39 Stat. 228.
 
-The words “certificates of” and “its object and purposes being solely of a benevolent character” are omitted as unnecessary.
+The words "certificates of" and "its object and purposes being solely of a benevolent character" are omitted as unnecessary.
 

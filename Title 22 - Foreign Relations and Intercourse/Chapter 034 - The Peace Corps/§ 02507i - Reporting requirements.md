@@ -14,7 +14,7 @@ The President shall annually through September 30, 2018, submit to the Committee
 
 #### (b) GAO
 
-Not later than one year after November 21, 2011, the Comptroller General of the United States shall submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report evaluating the quality and accessibility of health care provided through the Department of Labor to returned volunteers upon their separation from the Peace Corps.
+Not later than one year after November 21, 2011, the Comptroller General of the UnitedStates shall submit to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives a report evaluating the quality and accessibility of health care provided through the Department of Labor to returned volunteers upon their separation from the Peace Corps.
 
 #### (c) Access to communications
 

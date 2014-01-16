@@ -12,9 +12,9 @@ This section applies to the judges of the Court of Claims the same rule of prece
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–702 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Each judge shall receive a salary at an annual rate determined under section 225 of the Federal Salary Act of 1967 (2 U.S.C. 351–361), as adjusted by section 461 of this title.”
+<b>1988</b>—Subsec. (b). Pub. L. 100–702 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Each judge shall receive a salary at an annual rate determined under section 225 of the Federal Salary Act of 1967 (2 U.S.C. 351–361), as adjusted by section 461 of this title."
 
 <b>1982</b>—Pub. L. 97–164 amended section generally, substituting provisions relating to tenure and salaries of judges (formerly contained in section 173) for provisions relating to precedence of judges. See section 171 of this title.
 
@@ -50,7 +50,7 @@ Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated 
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see sections 101(g) and 141 of Pub. L. 97–92, set out as a note under section 5318 of Title 5.
 
-<b>1980</b>—Salaries of judges increased to $70,900 effective on first day of first pay period beginning on or after Oct. 1, 1980, by Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12248 further provided that pursuant to Pub. L. 96–369 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1980, which was $60,662.50.
+<b>1980</b>—Salaries of judges increased to $70,900 effective on first day of first pay period beginning on or after Oct. 1, 1980, by Ex. Ord. No. 12248, Oct. 16, 1980, 45 F.R. 69199, formerly set out as a note under section 5332 of Title 5. Ex. Ord. No. 12248 further provided that pursuant to Pub. L. 96–369 funds are not available to pay asalary at a rate which exceeds the rate in effect on Sept. 30, 1980, which was $60,662.50.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1981, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(c) of Pub. L. 96–536, as amended, set out as a note under section 5318 of Title 5.
 

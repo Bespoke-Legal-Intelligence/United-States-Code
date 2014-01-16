@@ -2,7 +2,7 @@
 
 #### (a) Persons who may bring actions; persons against whom action may be brought; time of action; intervention by Attorney General; costs and fees; security
 
-(1) Except as provided in this section, any person having a valid legal interest which is or may be adversely affected may commence a civil action on his own behalf to compel compliance with this subchapter against any person, including the United States, and any other government instrumentality or agency (to the extent permitted by the eleventh amendment to the Constitution) for any alleged violation of any provision of this subchapter or any regulationpromulgated under this subchapter, or of the terms of any permit or lease issued by the Secretary under this subchapter.
+(1) Except as provided in this section, any person having a valid legal interest which is or may be adversely affected may commence a civil action on his own behalf to compel compliance with this subchapter against any person, including the United States, and any other government instrumentality or agency (to the extent permitted by the eleventh amendment to the Constitution) for any alleged violation of any provision of this subchapter or any regulation promulgated under this subchapter, or of the terms of any permit or lease issued by the Secretary under this subchapter.
 
 (2) Except as provided in paragraph (3) of this subsection, no action may be commenced under subsection (a)(1) of this section—
 
@@ -38,7 +38,7 @@
 
 (6) The court of appeals conducting a proceeding pursuant to this subsection shall consider the matter under review solely on the record made before the Secretary. The findings of the Secretary, if supported by substantial evidence on the record considered as a whole, shall be conclusive. The court may affirm, vacate, or modify any order or decision or may remand the proceedings to the Secretary for such further action as it may direct.
 
-(7) Upon the filing of the record with the court, pursuant to paragraph (5), the jurisdiction of the court shall be exclusive and its judgment shall be final, except that such judgmentshall be subject to review by the Supreme Court of the United States upon writ of certiorari.
+(7) Upon the filing of the record with the court, pursuant to paragraph (5), the jurisdiction of the court shall be exclusive and its judgment shall be final, except that such judgment shall be subject to review by the Supreme Court of the United States upon writ of certiorari.
 
 (Aug. 7, 1953, ch. 345, §23, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 657; amended Pub. L. 98–620, title IV, §402(44), Nov. 8, 1984, 98 Stat. 3360.)
 
@@ -54,5 +54,5 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a)(5), are set out
 
 Amendment by Pub. L. 98–620 not applicable to cases pending on Nov. 8, 1984, see section 403 of Pub. L. 98–620, set out as a note under section 1657 of Title 28, Judiciary and Judicial Procedure.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Appeals”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Appeals".</i>
 

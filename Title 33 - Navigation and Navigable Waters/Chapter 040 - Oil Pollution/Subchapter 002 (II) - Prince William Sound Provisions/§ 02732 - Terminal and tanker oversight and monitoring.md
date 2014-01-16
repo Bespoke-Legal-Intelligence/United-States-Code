@@ -4,7 +4,7 @@
 
 #### (1) Short title
 
-&emsp;This section may be cited as the “Oil Terminal and Oil Tanker Environmental Oversight and Monitoring Act of 1990”.
+&emsp;This section may be cited as the "Oil Terminal and Oil Tanker Environmental Oversight and Monitoring Act of 1990".
 
 #### (2) Findings
 
@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(G) the present system of regulation and oversight of crude oil terminals in the United States has degenerated into a process of continual mistrust and confrontation;
 
-&emsp;&emsp;(H) only when local citizens are involved in the process will the trust develop that isnecessary to change the present system from confrontation to consensus;
+&emsp;&emsp;(H) only when local citizens are involved in the process will the trust develop that is necessary to change the present system from confrontation to consensus;
 
 &emsp;&emsp;(I) a pilot program patterned after Sullom Voe should be established in Alaska to further refine the concepts and relationships involved; and
 
@@ -34,7 +34,7 @@
 
 #### (1) Establishment
 
-&emsp;There are established 2 Oil Terminal and Oil Tanker Environmental Oversight and Monitoring Demonstration Programs (hereinafter referred to as “Programs”) to be carried out in the State of Alaska.
+&emsp;There are established 2 Oil Terminal and Oil Tanker Environmental Oversight and Monitoring Demonstration Programs (hereinafter referred to as "Programs") to be carried out in the State of Alaska.
 
 #### (2) Advisory function
 
@@ -52,7 +52,7 @@
 
 #### (1) Establishment
 
-&emsp;There is established an Oil Terminal Facilities and Oil Tanker Operations Association (hereinafter in this section referred to as the “Association”) for each of the Programs established under subsection (b) of this section.
+&emsp;There is established an Oil Terminal Facilities and Oil Tanker Operations Association\(hereinafter in this section referred to as the "Association") for each of the Programs established under subsection (b) of this section.
 
 #### (2) Membership
 
@@ -74,11 +74,11 @@
 
 &emsp;The Secretary may designate an existing nonprofit organization as an Association under this subsection if the organization is organized to meet the purposes of this section and consists of at least the individuals listed in paragraph (2).
 
-#### (d) Regional Citizens’ Advisory Councils
+#### (d) Regional Citizens' Advisory Councils
 
 #### (1) Membership
 
-&emsp;There is established a Regional Citizens’ Advisory Council (hereinafter in this section referred to as the “Council”) for each of the programs established by subsection (b) of this section.
+&emsp;There is established a Regional Citizens' Advisory Council (hereinafter in this section referred to as the "Council") for each of the programs established by subsection (b) of this section.
 
 #### (2) Membership
 
@@ -140,7 +140,7 @@
 
 &emsp;&emsp;The terms of the first appointments shall be as follows:
 
-&emsp;&emsp;&emsp;(i) For the appointments by the Governor of the State of Alaska, one-third shall serve for 3 years, one-third shall serve for 2 years, and one-third shall serve for one year.
+&emsp;&emsp;&emsp;(i) For the appointments by the Governor of the State of Alaska, one-third shall serve for 3 years, one-third shallserve for 2 years, and one-third shall serve for one year.
 
 &emsp;&emsp;&emsp;(ii) For the representatives of municipalities required by subsection (d)(2)(A)(vii) of this section, a drawing of lots among the appointees shall determine that one-third of that group serves for 3 years, one-third serves for 2 years, and the remainder serves for 1 year.
 
@@ -162,7 +162,7 @@
 
 &emsp;&emsp;(B) monitor through the committee established under subsection (e) of this section, the environmental impacts of the operation of the terminal facilities and crude oil tankers;
 
-&emsp;&emsp;(C) monitor those aspects of terminal facilities’ and crude oil tankers’ operations and maintenance which affect or may affect the environment in the vicinity of the terminal facilities;
+&emsp;&emsp;(C) monitor those aspects of terminal facilities' and crude oil tankers' operations and maintenance which affect or may affect the environment in the vicinity of the terminal facilities;
 
 &emsp;&emsp;(D) review through the committee established under subsection (f) of this section, the adequacy of oil spill prevention and contingency plans for the terminal facilities and the adequacy of oil spill prevention and contingency plans for crude oil tankers, operating in Prince William Sound or in Cook Inlet;
 
@@ -170,7 +170,7 @@
 
 &emsp;&emsp;(F) recommend to the Association—
 
-&emsp;&emsp;&emsp;(i) standards and stipulations for permits and site-specific regulations intended to minimize the impact of the terminal facilities’ and crude oil tankers’ operations in the vicinity of the terminal facilities;
+&emsp;&emsp;&emsp;(i) standards and stipulations for permits and site-specific regulations intended to minimize the impact of the terminal facilities' and crude oil tankers' operations in the vicinity of the terminal facilities;
 
 &emsp;&emsp;&emsp;(ii) modifications of terminal facility operations and maintenance intended to minimize the risk and mitigate the impact of terminal facilities, operations in the vicinity of the terminal facilities and to minimize the risk of oil spills;
 
@@ -182,7 +182,7 @@
 
 #### (7) No estoppel
 
-&emsp;No Council shall be held liable under State or Federal law for costs or damages as a result of rendering advice under this section. Nor shall any advice given by a voting member of a Council, or program representative or agent,be grounds for estopping the interests represented by the voting Council members from seeking damages or other appropriate relief.
+&emsp;No Council shall be held liable under State or Federal law for costs or damages as a result of rendering advice under this section. Nor shall any advice given by a voting member of a Council, or program representative or agent, be grounds for estopping the interests represented by the voting Council members from seeking damages or other appropriate relief.
 
 #### (8) Scientific work
 
@@ -192,7 +192,7 @@
 
 #### (1) Monitoring Committee
 
-&emsp;Each Council shall establish a standing Terminal and Oil Tanker Operations and Environmental Monitoring Committee (hereinafter in this section referred to as the “Monitoring Committee”) to devise and manage a comprehensive program of monitoring the environmental impacts of the operations of terminal facilities and of crude oil tankers while operating in Prince William Sound and Cook Inlet. The membership of the Monitoring Committee shall be made up of members of the Council, citizens, and recognized scientific experts selected by the Council.
+&emsp;Each Council shall establish a standing Terminal and Oil Tanker Operations and Environmental Monitoring Committee (hereinafter in this section referred to as the "Monitoring Committee") to devise and manage a comprehensive program of monitoring the environmental impacts of the operations of terminal facilities and of crude oil tankers while operating in Prince William Sound and Cook Inlet. The membership of the Monitoring Committee shall be made up of members of the Council, citizens, and recognized scientific experts selected by the Council.
 
 #### (2) Duties
 
@@ -212,7 +212,7 @@
 
 #### (1) Technical Oil Spill Committee
 
-&emsp;Each Council shall establish a standing technical committee (hereinafter referred to as “Oil Spill Committee”) to review and assess measures designed to prevent oil spills and the planning and preparedness for responding to, containing, cleaning up, and mitigating impacts of oil spills. The membership of the Oil Spill Committee shall be made up of members of the Council, citizens, and recognized technical experts selected by the Council.
+&emsp;Each Council shall establish a standing technical committee (hereinafter referred to as "Oil Spill Committee") to review and assess measures designed to prevent oil spills and the planning and preparedness for responding to, containing, cleaning up, and mitigating impacts of oil spills. The membership of the Oil Spill Committee shall be made up of members of the Council, citizens, and recognized technical experts selected by the Council.
 
 #### (2) Duties
 
@@ -242,7 +242,7 @@ On and after the expiration of the 180-day period following August 18, 1990, eac
 
 #### (h) Recommendations of Council
 
-In the event that the Association does not adopt, or significantly modifies before adoption, any recommendation of the Council made pursuant to the authority granted to the Council in subsection (d) of this section, the Associationshall provide to the Council, in writing, within 5 days of its decision, notice of its decision and a written statement of reasons for its rejection or significant modification of the recommendation.
+In the event that the Association does not adopt, or significantly modifies before adoption, any recommendation of the Council made pursuant to the authority granted to the Council in subsection (d) of this section, the Association shall provide to the Council, in writing, within 5 days of its decision, notice of its decision and a written statement of reasons for its rejection or significant modification of the recommendation.
 
 #### (i) Administrative actions
 
@@ -266,7 +266,7 @@ Appointments, designations, and selections of individuals to serve as members of
 
 #### (2) Prince William Sound Program
 
-&emsp;The owners or operators of terminal facilities or crude oil tankers operating in Prince William Sound shall provide, on an annual basis, an aggregate amount of not more than $2,000,000, as determined by the Secretary. Such amount—
+&emsp;The owners or operators of terminal facilities or crude oil tankers operating in PrinceWilliam Sound shall provide, on an annual basis, an aggregate amount of not more than $2,000,000, as determined by the Secretary. Such amount—
 
 &emsp;&emsp;(A) shall provide for the establishment and operation on the environmental oversight and monitoring program in Prince William Sound;
 
@@ -298,21 +298,21 @@ Appointments, designations, and selections of individuals to serve as members of
 
 As used in this section, the term—
 
-&emsp;(1) “terminal facilities” means—
+&emsp;(1) "terminal facilities" means—
 
 &emsp;&emsp;(A) in the case of the Prince William Sound Program, the entire oil terminal complex located in Valdez, Alaska, consisting of approximately 1,000 acres including all buildings, docks (except docks owned by the City of Valdez if those docks are not used for loading of crude oil), pipes, piping, roads, ponds, tanks, crude oil tankers only while at the terminal dock, tanker escorts owned or operated by the operator of the terminal, vehicles, and other facilities associated with, and necessary for, assisting tanker movement of crude oil into and out of the oil terminal complex; and
 
 &emsp;&emsp;(B) in the case of the Cook Inlet Program, the entire oil terminal complex including all buildings, docks, pipes, piping, roads, ponds, tanks, vessels, vehicles, crude oil tankers only while at the terminal dock, tanker escorts owned or operated by the operator of the terminal, emergency spill response vessels owned or operated by the operator of the terminal, and other facilities associated with, and necessary for, assisting tanker movement of crude oil into and out of the oil terminal complex;
 
-&emsp;(2) “crude oil tanker” means a tanker (as that term is defined under section 2101 of title 46)—
+&emsp;(2) "crude oil tanker" means a tanker (as that term is defined under section 2101 of title 46)—
 
-&emsp;&emsp;(A) in the case of the Prince William Sound Program, calling at the terminal facilities for the purpose of receiving and transporting oil to refineries, operatingnorth of Middleston Island and bound for or exiting from Prince William Sound; and
+&emsp;&emsp;(A) in the case of the Prince William Sound Program, calling at the terminal facilities for the purpose of receiving and transporting oil to refineries, operating north of Middleston Island and bound for or exiting from Prince William Sound; and
 
 &emsp;&emsp;(B) in the case of the Cook Inlet Program, calling at the terminal facilities for the purpose of receiving and transporting oil to refineries and operating in Cook Inlet and the Gulf of Alaska north of Amatuli Island, including tankers transiting to Cook Inlet from Prince William Sound;
 
-&emsp;(3) “vicinity of the terminal facilities” means that geographical area surrounding the environment of terminal facilities which is directly affected or may be directly affected by the operation of the terminal facilities; and
+&emsp;(3) "vicinity of the terminal facilities" means that geographical area surrounding the environment of terminal facilities which is directly affected or may be directly affected by the operation of the terminal facilities; and
 
-&emsp;(4) “Secretary” means the Secretary of the department in which the Coast Guard is operating.
+&emsp;(4) "Secretary" means the Secretary of the department in which the Coast Guard is operating.
 
 #### (n) Savings clause
 
@@ -344,7 +344,7 @@ The requirements of subsections (c) through (l) of this section, as such subsect
 
 #### Amendments
 
-<b>2006</b>—Subsec. (m)(4). Pub. L. 109–241 substituted “of the department in which the Coast Guard is operating.” for “of Transportation.”
+<b>2006</b>—Subsec. (m)(4). Pub. L. 109–241 substituted "of the department in which the Coast Guard is operating." for "of Transportation."
 
 #### Change of Name
 

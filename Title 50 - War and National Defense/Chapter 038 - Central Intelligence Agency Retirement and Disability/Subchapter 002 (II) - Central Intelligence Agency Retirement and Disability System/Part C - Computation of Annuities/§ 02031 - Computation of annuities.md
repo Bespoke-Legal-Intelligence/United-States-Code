@@ -182,15 +182,15 @@
 
 &emsp;(B) In the case of a child annuity payable under paragraph (2), upon the death of a surviving spouse or former spouse or termination of the annuity of a child, the annuities of any remaining children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the retired participant. If the annuity of a surviving child who has not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities of all currently eligible children were then being initiated.
 
-#### (5) “Former spouse” defined
+#### (5) "Former spouse" defined
 
-&emsp;For purposes of this subsection, the term “former spouse” includes any former wife or husband of the retired participant, regardless of the length of marriage or the amount of creditable service completed by the participant.
+&emsp;For purposes of this subsection, the term "former spouse" includes any former wife or husband of the retired participant, regardless of the length of marriage or the amount of creditable service completed by the participant.
 
 #### (e) Commencement and termination of child annuities
 
 #### (1) Commencement
 
-&emsp;An annuity payable to a child under subsection (d) of this section, or under section 2052(c) of this title, shall begin on the day after the date on which the participant or retired participant dies or, in the case of an individual over the age of 18 who is not a child within the meaning of section 2002(b) of this title, shall begin or resume on the first day of the month in which the individual later becomes or again becomes a student as described in section 2002(b) of this title. Such annuitymay not commence until any lump-sum that has been paid is returned to the fund.
+&emsp;An annuity payable to a child under subsection (d) of this section, or under section 2052(c) of this title, shall begin on the day after the date on which the participant or retired participant dies or, in the case of an individual over the age of 18 who is not a child within the meaning of section 2002(b) of this title, shall begin or resume on the first day of the month in which the individual later becomes or again becomes a student as described in section 2002(b) of this title. Such annuity may not commence until any lump-sum that has been paid is returned to the fund.
 
 #### (2) Termination
 
@@ -240,7 +240,7 @@
 
 #### (ii) Deposit required
 
-&emsp;&emsp;&emsp;(I) The retired participant shall, within one year after the date of the remarriage (or by August 14, 1993 for any remarriage that occurred before August 14, 1991), deposit in the fund an amount determined by the Director, as nearly as may be administratively feasible, to reflect the amount by which the retired participant's annuity would have been reduced if the election had been in effect since the date the annuity commenced, plus interest.
+&emsp;&emsp;&emsp;(I) The retired participant shall, within one year after the date of the remarriage (or by August 14, 1993 for any remarriagethat occurred before August 14, 1991), deposit in the fund an amount determined by the Director, as nearly as may be administratively feasible, to reflect the amount by which the retired participant's annuity would have been reduced if the election had been in effect since the date the annuity commenced, plus interest.
 
 &emsp;&emsp;&emsp;(II) The annual rate of interest for each year during which the retired participant's annuity would have been reduced if the election had been in effect since the date the annuity commenced shall be 6 percent.
 
@@ -314,17 +314,17 @@ The Director shall, on an annual basis—
 
 #### Prior Provisions
 
-A prior section 221 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045; Pub. L. 91–185, §2, Dec. 30, 1969, 83 Stat. 847; Pub. L. 91–626, §§2, 3, Dec. 31, 1970, 84 Stat. 1872; Pub. L. 94–522, title II, §§202–204, Oct. 17, 1976, 90 Stat. 2468, 2469; Ex. Ord. No. 12326, §§1, 3, 6, Sept. 30, 1981, 46 F.R. 48889, 48890; Pub. L. 97–269, title VI, §§603–605, 610, Sept. 27, 1982, 96 Stat. 1146, 1147, 1153; Ex. Ord. No. 12443, §§4, 7, 8, Sept. 27, 1983, 48 F.R. 44752; Pub. L. 99–335, title V, §§501(2), (3), 503, June 6, 1986, 100 Stat.622, 623; Pub. L. 100–178, title IV, §402(b)(1), Dec. 2, 1987, 101 Stat. 1014; Pub. L. 100–453, title III, §302(d)(1), (2), Sept. 29, 1988, 102 Stat. 1907; Pub. L. 102–88, title III, §§304(a), 305(a)(1), 306, Aug. 14, 1991, 105 Stat. 431, 432; Pub. L. 102–183, title III, §§302(a), 303(a), Dec. 4, 1991, 105 Stat. 1262, 1263, related to computation of annuities for other than former spouses and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 221 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045; Pub. L. 91–185, §2, Dec. 30, 1969, 83 Stat. 847; Pub. L. 91–626, §§2, 3, Dec. 31, 1970, 84 Stat. 1872; Pub. L. 94–522, title II, §§202–204, Oct. 17, 1976, 90 Stat. 2468, 2469; Ex. Ord. No. 12326, §§1, 3, 6, Sept. 30, 1981, 46 F.R. 48889, 48890; Pub. L. 97–269, title VI, §§603–605, 610, Sept. 27, 1982, 96 Stat. 1146, 1147, 1153; Ex. Ord. No. 12443, §§4, 7, 8, Sept. 27, 1983, 48 F.R. 44752; Pub. L. 99–335, title V, §§501(2), (3), 503, June 6, 1986, 100 Stat. 622, 623; Pub. L. 100–178, title IV, §402(b)(1), Dec. 2, 1987, 101 Stat. 1014; Pub. L. 100–453, title III, §302(d)(1), (2), Sept. 29, 1988, 102 Stat. 1907; Pub. L. 102–88, title III, §§304(a), 305(a)(1), 306, Aug. 14, 1991, 105 Stat. 431, 432; Pub. L. 102–183, title III, §§302(a), 303(a), Dec. 4, 1991, 105 Stat. 1262, 1263, related to computation of annuities for other than former spouses and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a)(4). Pub. L. 103–178, §202(a)(4)(A), struck out “(or, in the case of an annuity computed under section 2052 of this title and based on less than 3 years, over the total service)” after “years of the participant's service”.
+<b>1993</b>—Subsec. (a)(4). Pub. L. 103–178, §202(a)(4)(A), struck out "(or, in the case of an annuity computed under section 2052 of this title and based on less than 3 years, over the total service)" after "years of the participant's service".
 
-Subsec. (f)(1)(A). Pub. L. 103–178, §202(a)(4)(B), inserted “after the participant's death” after “under the system” and struck out “after the participant's death” after “participant's reduced annuity”.
+Subsec. (f)(1)(A). Pub. L. 103–178, §202(a)(4)(B), inserted "after the participant's death" after "under the system" and struck out "after the participant's death" after "participant's reduced annuity".
 
-Subsec. (g)(1). Pub. L. 103–178, §202(a)(4)(C), substituted “(or is remarried, if” for “(or is remarried if”.
+Subsec. (g)(1). Pub. L. 103–178, §202(a)(4)(C), substituted "(or is remarried, if" for "(or is remarried if".
 
-Subsec. (j). Pub. L. 103–178, §202(a)(4)(D), struck out “(except as provided in paragraph (2))” after “individual shall be reduced”.
+Subsec. (j). Pub. L. 103–178, §202(a)(4)(D), struck out "(except as provided in paragraph (2))" after "individual shall be reduced".
 
 #### Effective Date of 1993 Amendment
 

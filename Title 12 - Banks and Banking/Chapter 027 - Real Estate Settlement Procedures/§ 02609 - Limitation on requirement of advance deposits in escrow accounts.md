@@ -18,7 +18,7 @@ If the terms of any federally related mortgage loan require the borrower to make
 
 #### (A) In general
 
-&emsp;&emsp;Any servicer that has established an escrow account in connection with a federallyrelated mortgage loan shall submit to the borrower for which the escrow account has been established a statement clearly itemizing the estimated taxes, insurance premiums, and other charges that are reasonably anticipated to be paid from the escrow account during the first 12 months after the establishment of the account and the anticipated dates of such payments.
+&emsp;&emsp;Any servicer that has established an escrow account in connection with a federally related mortgage loan shall submit to the borrower for which the escrow account has been established a statement clearly itemizing the estimated taxes, insurance premiums, and other charges that are reasonably anticipated to be paid from the escrow account during the first 12 months after the establishment of the account and the anticipated dates of such payments.
 
 #### (B) Time of submission
 
@@ -56,9 +56,9 @@ If the terms of any federally related mortgage loan require the borrower to make
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(1)(C). Pub. L. 111–203, which directed amendment of “section 10(c) (12 U.S.C. 2609(c) and (d))” by substituting “Bureau” for “Secretary”, was executed by making the substitution only in subsec. (c) as directed.
+<b>2010</b>—Subsec. (c)(1)(C). Pub. L. 111–203, which directed amendment of "section 10(c) (12 U.S.C. 2609(c) and (d))" by substituting "Bureau" for "Secretary", was executed by making the substitution only in subsec. (c) as directed.
 
-<b>1996</b>—Subsec. (c)(1)(C). Pub. L. 104–208 substituted “The Secretary” for “Not later than the expiration of the 90-day period beginning on November 28, 1990, the Secretary” in second sentence.
+<b>1996</b>—Subsec. (c)(1)(C). Pub. L. 104–208 substituted "The Secretary" for "Not later than the expiration of the 90-day period beginning on November 28, 1990, the Secretary" in second sentence.
 
 <b>1990</b>—Pub. L. 101–625 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) to (d).
 
@@ -72,5 +72,5 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Amendment by Pub. L. 94–205 effective Jan. 2, 1976, see section 12 of Pub. L. 94–205, set out as a note under section 2602 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(c)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be subsection "(c)".</i>
 

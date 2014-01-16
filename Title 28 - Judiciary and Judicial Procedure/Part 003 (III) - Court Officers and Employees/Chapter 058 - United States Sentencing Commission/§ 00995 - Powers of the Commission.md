@@ -54,7 +54,7 @@
 
 &emsp;(24) grant incentive awards to its employees pursuant to chapter 45 of title 5, United States Code.
 
-(b) The Commission shall have such other powers and duties and shall perform such other functions as may be necessary to carry out the purposes of this chapter, and may delegate to any member or designated person such powers asmay be appropriate other than the power to establish general policy statements and guidelines pursuant to section 994(a)(1) and (2), the issuance of general policies and promulgation of rules and regulations pursuant to subsection (a)(1) of this section, and the decisions as to the factors to be considered in establishment of categories of offenses and offenders pursuant to section 994(b). The Commission shall, with respect to its activities under subsections (a)(9), (a)(10), (a)(11), (a)(12), (a)(13), (a)(14), (a)(15), (a)(16), (a)(17), and (a)(18), to the extent practicable, utilize existing resources of the Administrative Office of the United States Courts and the Federal Judicial Center for the purpose of avoiding unnecessary duplication.
+(b) The Commission shall have such other powers and duties and shall perform such other functions as may be necessary to carry out the purposes of this chapter, and may delegate to any member or designated person such powers as may be appropriate other than the power to establish general policy statements and guidelines pursuant to section 994(a)(1) and (2), the issuance of general policies and promulgation of rules and regulations pursuant to subsection (a)(1) of this section, and the decisions as to the factors to be considered in establishment of categories of offenses and offenders pursuant to section 994(b). The Commission shall, with respect to its activities under subsections (a)(9), (a)(10), (a)(11), (a)(12), (a)(13), (a)(14), (a)(15), (a)(16), (a)(17), and (a)(18), to the extent practicable, utilize existing resources of the Administrative Office of the United States Courts and the Federal Judicial Center for the purpose of avoiding unnecessary duplication.
 
 (c) Upon the request of the Commission, each Federal agency is authorized and directed to make its services, equipment, personnel, facilities, and information available to the greatest practicable extent to the Commission in the execution of its functions.
 
@@ -68,11 +68,11 @@
 
 <b>2008</b>—Subsec. (f). Pub. L. 110–177, §501, temporarily added subsec. (f). See Termination Date of 2008 Amendment note below.
 
-<b>1994</b>—Subsec. (a)(3). Pub. L. 103–322 substituted “Chair” for “Chairman”.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–322 substituted "Chair" for "Chairman".
 
-<b>1990</b>—Subsec. (a)(22). Pub. L. 101–650 struck out “and” after semicolon at end.
+<b>1990</b>—Subsec. (a)(22). Pub. L. 101–650 struck out "and" after semicolon at end.
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–690, §7105, substituted “Level 6 of the Senior Executive Service Schedule (5 U.S.C. 5382)” for “grade 18 of the General Schedule pay rates (5 U.S.C. 5332)”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–690, §7105, substituted "Level 6 of the Senior Executive Service Schedule (5 U.S.C. 5382)" for "grade 18 of the General Schedule pay rates (5 U.S.C. 5332)".
 
 Subsec. (a)(23). Pub. L. 100–690, §7104, added par. (23).
 
@@ -80,5 +80,5 @@ Subsec. (a)(24). Pub. L. 100–690, §7106(b), added par. (24).
 
 #### Termination Date of 2008 Amendment
 
-Pub. L. 110–177, title V, §501(b), Jan. 7, 2008, 121 Stat. 2542, provided that: “The amendment made by subsection (a) \[amending this section\] shall cease to have force and effect on September 30, 2010.”
+Pub. L. 110–177, title V, §501(b), Jan. 7, 2008, 121 Stat. 2542, provided that: "The amendment made by subsection (a) \[amending this section\] shall cease to have force and effect on September 30, 2010."
 

@@ -30,7 +30,7 @@
 
 #### (4) Treatment of land exchanged or conveyed
 
-&emsp;All land exchanged or conveyed to the Pueblo is declared to be held in trust for the Puebloby the United States and added to the Pueblo's Reservation subject to all existing and outstanding rights and shall, as a condition of the conveyance, remain in its natural state and shall not be subject to commercial development of any kind. Land exchanged or conveyed to the Forest Service shall be subject to all limitations on use pertaining to the Area under sections 539m to 539m–12 of this title.
+&emsp;All land exchanged or conveyed to the Pueblo is declared to be held in trust for the Pueblo by the United States and added to the Pueblo's Reservation subject to all existing and outstanding rights and shall, as a condition of the conveyance, remain in its natural state and shall not be subject to commercial development of any kind. Land exchanged or conveyed to the Forest Service shall be subject to all limitations on use pertaining to the Area under sections 539m to 539m–12 of this title.
 
 #### (5) Failure to make offer
 
@@ -80,21 +80,21 @@
 
 #### References in Text
 
-Sections 539m to 539m–12 of this title, referred to in subsecs. (a)(1)(B) and (b)(4), was in the original “this title”, meaning title IV of div. F of Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 279, which is classified generally to sections 539m to 539m–12 of this title. For complete classification of title IV to the Code, see Short Title note set out under section 539m of this title and Tables.
+Sections 539m to 539m–12 of this title, referred to in subsecs. (a)(1)(B) and (b)(4), was in the original "this title", meaning title IV of div. F of Pub. L. 108–7, Feb. 20, 2003, 117 Stat. 279, which is classified generally to sections 539m to 539m–12 of this title. For complete classification of title IV to the Code, see Short Title note set out under section 539m of this title and Tables.
 
-Section 1716(b) of title 43, referred to in subsec. (b)(2), was in the original “section 206(b) of the Federal Land Policy and Management Act” and was translated as reading “section 206(b) of the Federal Land Policy and Management Act of 1976” to reflect the probable intent of Congress.
+Section 1716(b) of title 43, referred to in subsec. (b)(2), was in the original "section 206(b) of the Federal Land Policy and Management Act" and was translated as reading "section 206(b) of the Federal Land Policy and Management Act of 1976" to reflect the probable intent of Congress.
 
 The Equal Access to Justice Act, referred to in subsec. (d)(2), is title II of Pub. L. 96–481, Oct. 21, 1980, 94 Stat. 2325, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 504 of Title 5, Government Organization and Employees, and Tables.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b)(1). Pub. L. 111–11, §3309(1), inserted “3,” after “sections”.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–11, §3309(1), inserted "3," after "sections".
 
-Subsec. (b)(4). Pub. L. 111–11, §3309(2), inserted “, as a condition of the conveyance,” before “remain” in first sentence.
+Subsec. (b)(4). Pub. L. 111–11, §3309(2), inserted ", as a condition of the conveyance," before "remain" in first sentence.
 
 #### Change of Name
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “28”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "28".</i>
 

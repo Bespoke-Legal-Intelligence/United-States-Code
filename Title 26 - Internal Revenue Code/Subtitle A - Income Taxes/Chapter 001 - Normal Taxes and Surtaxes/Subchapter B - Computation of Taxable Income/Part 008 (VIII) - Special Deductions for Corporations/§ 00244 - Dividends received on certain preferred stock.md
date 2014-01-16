@@ -30,13 +30,13 @@ If the dividends described in subsection (a)(1) are qualifying dividends (as def
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–647 substituted “section 243(d)(4)” for “section 243(c)(4)”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–647 substituted "section 243(d)(4)" for "section 243(c)(4)".
 
-<b>1987</b>—Subsecs. (a)(3), (b)(2). Pub. L. 100–203 substituted “70 percent” for “80 percent”.
+<b>1987</b>—Subsecs. (a)(3), (b)(2). Pub. L. 100–203 substituted "70 percent" for "80 percent".
 
-<b>1986</b>—Subsecs. (a)(3), (b)(2). Pub. L. 99–514 substituted “80 percent” for “85 percent”.
+<b>1986</b>—Subsecs. (a)(3), (b)(2). Pub. L. 99–514 substituted "80 percent" for "85 percent".
 
-<b>1978</b>—Subsec. (a)(2)(B). Pub. L. 95–600 substituted “the highest rate of tax specified in section 11(b)” for “the sum of the normal tax rate and the surtax rate for the taxable year prescribed by section 11”.
+<b>1978</b>—Subsec. (a)(2)(B). Pub. L. 95–600 substituted "the highest rate of tax specified in section 11(b)" for "the sum of the normal tax rate and the surtax rate for the taxable year prescribed by section 11".
 
 <b>1964</b>—Pub. L. 88–272 designated existing provisions as subsec. (a) and added subsec. (b).
 

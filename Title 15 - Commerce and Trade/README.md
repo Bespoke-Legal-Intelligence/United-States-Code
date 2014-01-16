@@ -24,7 +24,7 @@
 | [<b>10A.</b>](Chapter%20010A%20-%20Collection%20of%20State%20Cigarette%20Taxes/README.md) | <b>Collection of State Cigarette Taxes</b> | <b>375</b> |
 | [<b>10B.</b>](Chapter%20010B%20-%20State%20Taxation%20of%20Income%20from%20Interstate%20Commerce/README.md) | <b>State Taxation of Income From Interstate Commerce</b> | <b>381</b> |
 | [<b>11.</b>](Chapter%20011%20-%20Caustic%20Poisons/README.md) | <b>Caustic Poisons \[Repealed\]</b> | <b>401</b> |
-| [<b>12.</b>](Chapter%20012%20-%20Discrimination%20Against%20Farmers%E2%80%99%20Cooperative%20Associations%20by%20Boards%20of%20Trade/README.md) | <b>Discrimination Against Farmers’ Cooperative Associations by Boards of Trade</b> | <b>431</b> |
+| [<b>12.</b>](Chapter%20012%20-%20Discrimination%20Against%20Farmers%27%20Cooperative%20Associations%20by%20Boards%20of%20Trade/README.md) | <b>Discrimination Against Farmers' Cooperative Associations by Boards of Trade</b> | <b>431</b> |
 | [<b>13.</b>](Chapter%20013%20-%20Textile%20Foundation/README.md) | <b>Textile Foundation</b> | <b>501</b> |
 | [<b>13A.</b>](Chapter%20013A%20-%20Fishing%20Industry/README.md) | <b>Fishing Industry</b> | <b>521</b> |
 | [<b>14.</b>](Chapter%20014%20-%20Reconstruction%20Finance%20Corporation/README.md) | <b>Reconstruction Finance Corporation \[Repealed, Omitted, or Transferred\]</b> | <b>601</b> |
@@ -168,7 +168,7 @@
 - [Chapter 010A - Collection of State Cigarette Taxes](Chapter%20010A%20-%20Collection%20of%20State%20Cigarette%20Taxes/README.md)
 - [Chapter 010B - State Taxation of Income from Interstate Commerce](Chapter%20010B%20-%20State%20Taxation%20of%20Income%20from%20Interstate%20Commerce/README.md)
 - [Chapter 011 - Caustic Poisons](Chapter%20011%20-%20Caustic%20Poisons/README.md)
-- [Chapter 012 - Discrimination Against Farmers&#8217; Cooperative Associations by Boards of Trade](Chapter%20012%20-%20Discrimination%20Against%20Farmers%E2%80%99%20Cooperative%20Associations%20by%20Boards%20of%20Trade/README.md)
+- [Chapter 012 - Discrimination Against Farmers' Cooperative Associations by Boards of Trade](Chapter%20012%20-%20Discrimination%20Against%20Farmers%27%20Cooperative%20Associations%20by%20Boards%20of%20Trade/README.md)
 - [Chapter 013 - Textile Foundation](Chapter%20013%20-%20Textile%20Foundation/README.md)
 - [Chapter 013A - Fishing Industry](Chapter%20013A%20-%20Fishing%20Industry/README.md)
 - [Chapter 014 - Reconstruction Finance Corporation](Chapter%20014%20-%20Reconstruction%20Finance%20Corporation/README.md)

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Nothing in this Act (or an amendment made by this Act) shall be construed to require thatan individual terminate coverage under a group health plan or health insurance coverage in which such individual was enrolled on March 23, 2010.
+&emsp;Nothing in this Act (or an amendment made by this Act) shall be construed to require that an individual terminate coverage under a group health plan or health insurance coverage in which such individual was enrolled on March 23, 2010.
 
 #### (2) Continuation of coverage
 
@@ -52,7 +52,7 @@ In the case of health insurance coverage maintained pursuant to one or more coll
 
 #### (e) Definition
 
-In this title,<sup>1</sup> the term “grandfathered health plan” means any group health plan or health insurance coverage to which this section applies.
+In this title,<sup>1</sup> the term "grandfathered health plan" means any group health plan or health insurance coverage to which this section applies.
 
 (Pub. L. 111–148, title I, §1251, title X, §10103(d), Mar. 23, 2010, 124 Stat. 161, 895; Pub. L. 111–152, title II, §2301(a), Mar. 30, 2010, 124 Stat. 1081.)
 
@@ -62,7 +62,7 @@ This Act, referred to in subsec. (a)(1), is Pub. L. 111–148, Mar. 23, 2010, 12
 
 This subtitle, referred to in subsecs. (a)(2), (4)(B), (c), and (d), is subtitle C (§§1201–1255) of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 154, which enacted this subchapter and sections 300gg to 300gg–2 and 300gg–4 to 300gg–7 of this title, transferred section 300gg of this title to section 300gg–3 of this title, amended sections 300gg–1 and 300gg–4 of this title, and enacted provisions set out as a note under section 300gg of this title. For complete classification of subtitle C to the Code, see Tables.
 
-Subtitle A, referred to in subsecs. (a)(2), (3), (c), and (d), is subtitle A (§§1001–1004) of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of this title, transferred sections 300gg–4 to 300gg–7 and 300gg–13 of this title to sections 300gg–25 to 300gg–28 and 300gg–9 of this title, respectively, amended sections 300gg–11, 300gg–12, and 300gg–21 to 300gg–23 of this title, and enacted provisions set out as a note under section 300gg–11 of this title. For complete classification of subtitle A to the Code, see Tables.
+Subtitle A, referred to in subsecs. (a)(2), (3), (c), and (d), is subtitle A (§§1001–1004) of title I of Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 130, which enacted sections 300gg–11 to 300gg–19, 300gg–93, and 300gg–94 of this title, transferred sections 300gg–4 to 300gg–7 and300gg–13 of this title to sections 300gg–25 to 300gg–28 and 300gg–9 of this title, respectively, amended sections 300gg–11, 300gg–12, and 300gg–21 to 300gg–23 of this title, and enacted provisions set out as a note under section 300gg–11 of this title. For complete classification of subtitle A to the Code, see Tables.
 
 The Public Health Service Act, referred to in subsec. (a)(4)(A), is act July 1, 1944, ch. 373, 58 Stat. 682, which is classified generally to chapter 6A (§201 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
@@ -70,7 +70,7 @@ This title, referred to in subsecs. (a)(4)(A) and (e), is title I of Pub. L. 111
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(2). Pub. L. 111–148, §10103(d)(1), substituted “Except as provided in paragraph (3), with” for “With”.
+<b>2010</b>—Subsec. (a)(2). Pub. L. 111–148, §10103(d)(1), substituted "Except as provided in paragraph (3), with" for "With".
 
 Subsec. (a)(3). Pub. L. 111–148, §10103(d)(2), added par. (3).
 

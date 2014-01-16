@@ -126,9 +126,9 @@ If the Administrator of FEMA determines that a grant recipient under this sectio
 
 In this section:
 
-&emsp;(1) The term “firefighter” has the meaning given the term “employee in fire protection activities” under section 203(y) of title 29.<sup>1</sup>
+&emsp;(1) The term "firefighter" has the meaning given the term "employee in fire protection activities" under section 203(y) of title 29.<sup>1</sup>
 
-&emsp;(2) The terms “Administrator of FEMA”, “career fire department”, “combination fire department”, and “volunteer fire department” have the meanings given such terms in section 2229(a) of this title.
+&emsp;(2) The terms "Administrator of FEMA", "career fire department", "combination fire department", and "volunteer fire department" have the meanings given such terms in section 2229(a) of this title.
 
 #### (j) Authorization of appropriations
 
@@ -148,7 +148,7 @@ In this section:
 
 &emsp;&emsp;(F) $1,159,000,000 for fiscal year 2009;
 
-&emsp;&emsp;(G) $1,194,000,000 for fiscal year 2010; and <sup>2</sup>
+&emsp;&emsp;(G) $1,194,000,000 for fiscal year 2010;
 
 &emsp;&emsp;(H) $750,000,000 for fiscal year 2013; and
 
@@ -170,11 +170,11 @@ In this section:
 
 The authority to award assistance and grants under this section shall expire on the date that is 5 years after January 2, 2013.
 
-(Pub. L. 93–498, §34, as added Pub. L. 108–136, div. A, title X, §1057, Nov. 24, 2003, 117 Stat. 1616; amended Pub. L. 112–239, div. A, title XVIII, §1804, Jan. 2, 2013, 126 Stat. 2111.)
+(Pub. L. 93–498, §34, as added Pub. L. 108–136, div. A, title X, §1057, Nov. 24, 2003, 117 Stat. 1616; amended Pub. L. 112–239, div. A, title XVIII, §1804, Jan. 2, 2013, 126 Stat. 2111; Pub. L. 113–66, div. A, title X, §1091(b)(9), Dec. 26, 2013, 127 Stat. 876.)
 
 #### References in Text
 
-Section 203(y) of title 29, referred to in subsec. (i)(1), was in the original “section 3(y) of the Fair Labor Standards Act” and has been translated as reading “section 3(y) of the Fair Labor Standards Act of 1938” to reflect the probable intent of Congress.
+Section 203(y) of title 29, referred to in subsec. (i)(1), was in the original "section 3(y) of the Fair Labor Standards Act" and has been translated as reading "section 3(y) of the Fair Labor Standards Act of 1938" to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
@@ -182,35 +182,35 @@ A prior section 34 of Pub. L. 93–498 was renumbered section 36 and is classifi
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–239, §1804(j), substituted “Staffing for adequate fire and emergency response” for “Expansion of pre-September 11, 2001, fire grant program” in section catchline.
+<b>2013</b>—Pub. L. 112–239, §1804(j), substituted "Staffing for adequate fire and emergency response" for "Expansion of pre-September 11, 2001, fire grant program" in section catchline.
 
-Pub. L. 112–239, §1804(i), substituted “Administrator of FEMA” for “Administrator” wherever appearing.
+Pub. L. 112–239, §1804(i), as amended by Pub. L. 113–66, §1091(b)(9)(B), substituted "Administrator of FEMA" for "Administrator" wherever appearing, except in those places in which "Administrator of FEMA" already appeared.
 
-Subsec. (a)(1)(A). Pub. L. 112–239, §1804(g)(2), substituted “career fire departments, combination fire departments, and volunteer fire departments” for “career, volunteer, and combination fire departments”.
+Subsec. (a)(1)(A). Pub. L. 112–239, §1804(g)(2), substituted "career fire departments, combination fire departments, and volunteer fire departments" for "career, volunteer, and combination fire departments".
 
 Subsec. (a)(1)(B). Pub. L. 112–239, §1804(a)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows:
 
-“(B)(i) Grants made under this paragraph shall be for 4 years and be used for programs to hire new, additional firefighters.
+"(B)(i) Grants made under this paragraph shall be for 4 years and be used for programs to hire new, additional firefighters.
 
-“(ii) Grantees are required to commit to retaining for at least 1 year beyond the termination of their grants those firefighters hired under this paragraph.”
+"(ii) Grantees are required to commit to retaining for at least 1 year beyond the termination of their grants those firefighters hired under this paragraph."
 
-Subsec. (a)(1)(E). Pub. L. 112–239, §1804(a)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “The portion of the costs of hiring firefighters provided by a grant under this paragraph may not exceed—
+Subsec. (a)(1)(E). Pub. L. 112–239, §1804(a)(2), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: "The portion of the costs of hiring firefighters provided by a grant under this paragraph may not exceed—
 
-&emsp;“(i) 90 percent in the first year of the grant;
+&emsp;"(i) 90 percent in the first year of the grant;
 
-&emsp;“(ii) 80 percent in the second year of the grant;
+&emsp;"(ii) 80 percent in the second year of the grant;
 
-&emsp;“(iii) 50 percent in the third year of the grant; and
+&emsp;"(iii) 50 percent in the third year of the grant; and
 
-&emsp;“(iv) 30 percent in the fourth year of the grant.”
+&emsp;"(iv) 30 percent in the fourth year of the grant."
 
-Subsec. (a)(2). Pub. L. 112–239, §1804(b), substituted “national, State, local, or tribal organizations” for “organizations on a local or statewide basis”.
+Subsec. (a)(2). Pub. L. 112–239, §1804(b), substituted "national, State, local, or tribal organizations" for "organizations on a local or statewide basis".
 
 Subsec. (c)(4). Pub. L. 112–239, §1804(c), amended par. (4) generally. Prior to amendment, par. (4) read as follows:
 
-“(4)(A) Total funding provided under this section over 4 years for hiring a firefighter may not exceed $100,000.
+"(4)(A) Total funding provided under this section over 4 years for hiring a firefighter may not exceed $100,000.
 
-“(B) The $100,000 cap shall be adjusted annually for inflation beginning in fiscal year 2005.”
+"(B) The $100,000 cap shall be adjusted annually for inflation beginning in fiscal year 2005."
 
 Subsec. (d). Pub. L. 112–239, §1804(d)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
@@ -218,29 +218,31 @@ Subsec. (e). Pub. L. 112–239, §1804(e), added par. (1) and designated existin
 
 Pub. L. 112–239, §1804(d)(1), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 112–239, §1804(f), substituted “Report” for “Sunset and reports” in heading and “Not later than September 30, 2014, the Administrator of FEMA shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science and Technology and the Committee on Transportation and Infrastructure of the House of Representatives a report on” for “The authority under this section to make grants shall lapse at the conclusion of 10 years from November 24, 2003. Not later than 6 years after November 24, 2003, the Administrator shall submit a report to Congress concerning” in text.
+Subsec. (f). Pub. L. 112–239, §1804(f), substituted "Report" for "Sunset and reports" in heading and "Not later than September 30, 2014, the Administrator of FEMA shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Science and Technology and the Committee on Transportation and Infrastructure of the House of Representatives a report on" for "The authority under this section to make grants shall lapse at the conclusion of 10 years from November 24, 2003. Not later than 6 years after November 24, 2003, the Administrator shall submit a report to Congress concerning" in text.
 
 Pub. L. 112–239, §1804(d)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
 Subsecs. (g), (h). Pub. L. 112–239, §1804(d)(1), redesignated subsecs. (f) and (g) as (g) and (h), respectively. Former subsec. (h) redesignated (i).
 
-Subsec. (i). Pub. L. 112–239, §1804(g)(1)(A), substituted “In this section:” for “In this section, the term—” in introductory provisions.
+Subsec. (i). Pub. L. 112–239, §1804(g)(1)(A), substituted "In this section:" for "In this section, the term—" in introductory provisions.
 
 Pub. L. 112–239, §1804(d)(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-Subsec. (i)(1). Pub. L. 112–239, §1804(g)(1)(B), inserted “The term” before “ ‘firefighter’ has” and substituted period for “; and”.
+Subsec. (i)(1). Pub. L. 112–239, §1804(g)(1)(B), inserted "The term" before " 'firefighter' has" and substituted period for "; and".
 
-Subsec. (i)(2). Pub. L. 112–239, §1804(g)(1)(C), (D), added par. (2) and struck out former par. (2) which read as follows: “ ‘Indian tribe’ means a tribe, band, pueblo, nation, or other organized group or community of Indians, including an Alaska Native village (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.”
+Subsec. (i)(2). Pub. L. 112–239, §1804(g)(1)(C), (D), added par. (2) and struck out former par. (2) which read as follows: " 'Indian tribe' means a tribe, band, pueblo, nation, or other organized group or community of Indians, including an Alaska Native village (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.)), that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians."
 
 Subsec. (j). Pub. L. 112–239, §1804(h)(2), (3), designated existing provisions as par. (1), inserted heading, redesignated former pars. (1) to (9) as subpars. (A) to (I), respectively, of par. (1), redesignated subpars. (A) and (B) of former par. (9) as cls. (i) and (ii) of subpar. (I), and added pars. (2) and (3).
 
 Pub. L. 112–239, §1804(d)(1), redesignated subsec. (i) as (j).
 
-Subsec. (j)(8), (9). Pub. L. 112–239, §1804(h)(1), added pars. (8) and (9).
+Subsec. (j)(8), (9). Pub. L. 112–239, §1804(h)(1), as amended by Pub. L. 113–66, §1091(b)(9)(A), added pars. (8) and (9).
 
 Subsec. (k). Pub. L. 112–239, §1804(k), added subsec. (k).
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Effective Date of 2013 Amendment
 
-<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
+Pub. L. 113–66, div. A, title X, §1091(b), Dec. 26, 2013, 127 Stat. 876, provided in part that the amendment made by section 1091(b)(9) is effective as of Jan. 2, 2013, and as if included in Pub. L. 112–239 as enacted.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

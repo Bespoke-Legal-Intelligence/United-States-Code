@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(B) for fiscal year 2007 and subsequent fiscal years is—
 
-&emsp;&emsp;&emsp;(i) the number of children with disabilities in the 2004–2005 school year in the State who received special education and related services—
+&emsp;&emsp;&emsp;(i) the number of children with disabilities in the 2004–2005 school year in theState who received special education and related services—
 
 &emsp;&emsp;&emsp;&emsp;(I) aged 3 through 5 if the State is eligible for a grant under section 1419 of this title; and
 
@@ -54,7 +54,7 @@
 
 #### (C) Definition
 
-&emsp;&emsp;In this paragraph, the term “freely associated States” means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
+&emsp;&emsp;In this paragraph, the term "freely associated States" means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau.
 
 #### (2) Secretary of the Interior
 
@@ -92,9 +92,9 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) to each State the amount the State received under this section for fiscal year 1999;
 
-&emsp;&emsp;&emsp;&emsp;(II) 85 percent of any remaining funds to States on the basis of the States’ relative populations of children aged 3 through 21 who are of the same age as children with disabilities for whom the State ensures the availability of a free appropriate public education under this subchapter; and
+&emsp;&emsp;&emsp;&emsp;(II) 85 percent of any remaining funds to States on the basis of the States' relative populations of children aged 3 through 21 who are of the same age as children with disabilities for whom the State ensures the availability of a free appropriate public education under this subchapter; and
 
-&emsp;&emsp;&emsp;&emsp;(III) 15 percent of those remaining funds to States on the basis of the States’ relative populations of children described in subclause (II) who are living in poverty.
+&emsp;&emsp;&emsp;&emsp;(III) 15 percent of those remaining funds to States on the basis of the States' relative populations of children described in subclause (II) who are living in poverty.
 
 #### (ii) Data
 
@@ -200,7 +200,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (iii), for the purpose of carrying out State-level activities, each State may reserve for each of the fiscal years 2005 and 2006 not more than 10 percent from the amount of the State's allocation under subsection (d) for each of the fiscal years 2005 and 2006, respectively. For fiscal year 2007 and each subsequent fiscal year, the State may reserve the maximum amount the State waseligible to reserve under the preceding sentence for fiscal year 2006 (cumulatively adjusted by the rate of inflation as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor).
+&emsp;&emsp;&emsp;Except as provided in clause (iii), for the purpose of carrying out State-level activities, each State may reserve for each of the fiscal years 2005 and 2006 not more than 10 percent from the amount of the State's allocation under subsection (d) for each of the fiscal years 2005 and 2006, respectively. For fiscal year 2007 and each subsequent fiscal year, the State may reserve the maximum amount the State was eligible to reserve under the preceding sentence for fiscal year 2006 (cumulatively adjusted by the rate of inflation as measured by the percentage increase, if any, from the preceding fiscal year in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor).
 
 #### (ii) Small State adjustment
 
@@ -210,9 +210,9 @@
 
 &emsp;&emsp;&emsp;If a State does not reserve funds under paragraph (3) for a fiscal year, then—
 
-&emsp;&emsp;&emsp;&emsp;(I) in the case of a State that is not described in clause (ii), for fiscal year 2005 or 2006, clause (i) shall be applied by substituting “9.0 percent” for “10 percent”; and
+&emsp;&emsp;&emsp;&emsp;(I) in the case of a State that is not described in clause (ii), for fiscal year 2005 or 2006, clause (i) shall be applied by substituting "9.0 percent" for "10 percent"; and
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a State that is described in clause (ii), for fiscal year 2005 or 2006, clause (ii) shall be applied by substituting “9.5 percent” for “10.5 percent”.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a State that is described in clause (ii), for fiscal year 2005 or 2006, clause (ii) shall be applied by substituting "9.5 percent" for "10.5 percent".
 
 #### (B) Required activities
 
@@ -256,13 +256,13 @@
 
 &emsp;&emsp;&emsp;For the purpose of assisting local educational agencies (including a charter school that is a local educational agency or a consortium of local educational agencies) in addressing the needs of high need children with disabilities, each State shall have the option to reserve for each fiscal year 10 percent of the amount of funds the State reserves for State-level activities under paragraph (2)(A)—
 
-&emsp;&emsp;&emsp;&emsp;(I) to establish and make disbursements from the high cost fund to localeducational agencies in accordance with this paragraph during the first and succeeding fiscal years of the high cost fund; and
+&emsp;&emsp;&emsp;&emsp;(I) to establish and make disbursements from the high cost fund to local educational agencies in accordance with this paragraph during the first and succeeding fiscal years of the high cost fund; and
 
 &emsp;&emsp;&emsp;&emsp;(II) to support innovative and effective ways of cost sharing by the State, by a local educational agency, or among a consortium of local educational agencies, as determined by the State in coordination with representatives from local educational agencies, subject to subparagraph (B)(ii).
 
 #### (ii) Definition of local educational agency
 
-&emsp;&emsp;&emsp;In this paragraph the term “local educational agency” includes a charter school that is a local educational agency, or a consortium of local educational agencies.
+&emsp;&emsp;&emsp;In this paragraph the term "local educational agency" includes a charter school that is a local educational agency, or a consortium of local educational agencies.
 
 #### (B) Limitation on uses of funds
 
@@ -386,7 +386,7 @@
 
 #### (3) Reallocation of funds
 
-&emsp;If a State educational agency determines that a local educational agency is adequately providing a free appropriate public education to all children with disabilities residing in the area served by that local educational agency with State and local funds, the State educational agency may reallocate any portion of the funds under this subchapter that are not needed by that local educational agency to provide a free appropriate public education to other local educational agencies in the State that are not adequately providing special education and related services to all children with disabilities residing in the areas served by those other local educational agencies.
+&emsp;If a State educational agency determines that a local educational agency is adequately providing a free appropriate public education to all children with disabilities residing in thearea served by that local educational agency with State and local funds, the State educational agency may reallocate any portion of the funds under this subchapter that are not needed by that local educational agency to provide a free appropriate public education to other local educational agencies in the State that are not adequately providing special education and related services to all children with disabilities residing in the areas served by those other local educational agencies.
 
 #### (g) Definitions
 
@@ -394,7 +394,7 @@ In this section:
 
 #### (1) Average per-pupil expenditure in public elementary schools and secondary schools in the United States
 
-&emsp;The term “average per-pupil expenditure in public elementary schools and secondary schools in the United States” means—
+&emsp;The term "average per-pupil expenditure in public elementary schools and secondary schools in the United States" means—
 
 &emsp;&emsp;(A) without regard to the source of funds—
 
@@ -406,7 +406,7 @@ In this section:
 
 #### (2) State
 
-&emsp;The term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;The term "State" means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 #### (h) Use of amounts by Secretary of the Interior
 
@@ -422,7 +422,7 @@ In this section:
 
 #### (B) Calculation of number of children
 
-&emsp;&emsp;In the case of Indian students aged 3 to 5, inclusive, who are enrolled in programs affiliated with the Bureau of Indian Affairs (referred to in this subsection as the “BIA”) schools and that are required by the States in which such schools are located to attain or maintain State accreditation, and which schools have such accreditation prior to October 7, 1991, the school shall be allowed to count those children for the purpose of distribution of the funds provided under this paragraph to the Secretary of the Interior. The Secretary of the Interior shall be responsible for meeting all of the requirements of this subchapter for those children, in accordance with paragraph (2).
+&emsp;&emsp;In the case of Indian students aged 3 to 5, inclusive, who are enrolled in programs affiliated with the Bureau of Indian Affairs (referred to in this subsection as the "BIA") schools and that are required by the States in which such schools are located to attain or maintain State accreditation, and which schools have such accreditation prior to October 7, 1991, the school shall be allowed to count those children for the purpose of distribution of the funds provided under this paragraph to the Secretary of the Interior. The Secretary of the Interior shall be responsible for meeting all of the requirements of this subchapter for those children, in accordance with paragraph (2).
 
 #### (C) Additional requirement
 
@@ -442,7 +442,7 @@ In this section:
 
 &emsp;&emsp;(E) includes an assurance that the Secretary of the Interior and the Secretary of Health and Human Services have entered into a memorandum of agreement, to be provided to the Secretary of Education, for the coordination of services, resources, and personnel between their respective Federal, State, and local offices and with State and local educational agencies and other entities to facilitate the provision of services to Indian children with disabilities residing on or near reservations (such agreement shall provide for the apportionment of responsibilities and costs, including child find, evaluation, diagnosis, remediation or therapeutic measures, and (where appropriate) equipment and medical or personal supplies as needed for a child to remain in school or a program); and
 
-&emsp;&emsp;(F) includes an assurance that the Department of the Interior will cooperate with the Department of Education in its exercise of monitoring and oversight of this application, and any agreements entered into between the Secretary of the Interior and other entities under this subchapter, and will fulfill its duties under this subchapter.
+&emsp;&emsp;(F) includes an assurance that the Department of the Interior will cooperate with the Department of Education in its exercise ofmonitoring and oversight of this application, and any agreements entered into between the Secretary of the Interior and other entities under this subchapter, and will fulfill its duties under this subchapter.
 
 #### (3) Applicability
 
@@ -482,7 +482,7 @@ In this section:
 
 &emsp;To meet the requirements of section 1412(a)(21) of this title, the Secretary of the Interior shall establish, under the BIA, an advisory board composed of individuals involved in or concerned with the education and provision of services to Indian infants, toddlers, children, and youth with disabilities, including Indians with disabilities, Indian parents or guardians of such children, teachers, service providers, State and local educational officials, representatives of tribes or tribal organizations, representatives from State Interagency Coordinating Councils under section 1441 of this title in States having reservations, and other members representing the various divisions and entities of the BIA. The chairperson shall be selected by the Secretary of the Interior. The advisory board shall—
 
-&emsp;&emsp;(A) assist in the coordination of services within the BIA and with other local, State, and Federal agencies in the provision of education for infants, toddlers, and children with disabilities;
+&emsp;&emsp;(A) assist in the coordination of services within the BIA and with other local, State,and Federal agencies in the provision of education for infants, toddlers, and children with disabilities;
 
 &emsp;&emsp;(B) advise and assist the Secretary of the Interior in the performance of the Secretary of the Interior's responsibilities described in this subsection;
 

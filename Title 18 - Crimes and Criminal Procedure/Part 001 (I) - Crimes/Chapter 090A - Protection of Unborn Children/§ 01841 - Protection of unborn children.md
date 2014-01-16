@@ -30,15 +30,15 @@
 
 &emsp;(3) of any woman with respect to her unborn child.
 
-(d) As used in this section, the term “unborn child” means a child in utero, and the term “child in utero” or “child, who is in utero” means a member of the species homo sapiens, at any stage of development, who is carried in the womb.
+(d) As used in this section, the term "unborn child" means a child in utero, and the term "child in utero" or "child, who is in utero" means a member of the species homo sapiens, at any stage of development, who is carried in the womb.
 
 (Added Pub. L. 108–212, §2(a), Apr. 1, 2004, 118 Stat. 568.)
 
 #### References in Text
 
-Section 202 of the Atomic Energy Act of 1954 (42 U.S.C. 2283), referred to in subsec. (b)(3), probably means section 235 of the Atomic Energy Act of 1954, act Aug. 1, 1946, ch. 724, title I, as added by Pub. L. 96–295, title II, §202(a), June 30, 1980, 94 Stat. 786, which is classified to section 2283 of Title 42, The Public Health and Welfare. Section 202 of the Atomic Energy Act of 1954, which related to the authority of the Joint Committee on Atomic Energy, was classified to section 2252 of Title 42 and was repealed by act of Aug. 1, 1946, ch. 724, title I, §302(a), as added Aug. 30, 1954, ch. 1073, §1, as added Sept. 20, 1977, Pub. L. 95–110, §1, 91 Stat. 884; renumbered title I, Oct. 24, 1992, Pub. L. 102–486, title IX, §902(a)(8), 106 Stat. 2944.
+Section 202 of the Atomic Energy Act of 1954 (42 U.S.C. 2283), referred to in subsec. (b)(3), probably means section 235 of the Atomic Energy Act of 1954, act Aug. 1, 1946, ch. 724, title I, as added by Pub. L. 96–295, title II, §202(a), June 30, 1980, 94 Stat. 786, which is classified to section 2283 of Title 42, The Public Health and Welfare. Section 202 of the Atomic Energy Act of 1954, which related to the authority of the Joint Committee on Atomic Energy, was classified to section 2252 of Title 42 and was repealed by act Aug. 1, 1946, ch. 724, title I, §302(a), as added Pub. L. 95–110, §1, Sept. 20, 1977, 91 Stat. 884; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–212, §1, Apr. 1, 2004, 118 Stat. 568, provided that: “This Act \[enacting this chapter and section 919a of Title 10, Armed Forces\] may be cited as the ‘Unborn Victims of Violence Act of 2004’ or ‘Laci and Conner's Law’.”
+Pub. L. 108–212, §1, Apr. 1, 2004, 118 Stat. 568, provided that: "This Act \[enacting this chapter and section 919a of Title 10, Armed Forces\] may be cited as the 'Unborn Victims of Violence Act of 2004' or 'Laci and Conner's Law'."
 

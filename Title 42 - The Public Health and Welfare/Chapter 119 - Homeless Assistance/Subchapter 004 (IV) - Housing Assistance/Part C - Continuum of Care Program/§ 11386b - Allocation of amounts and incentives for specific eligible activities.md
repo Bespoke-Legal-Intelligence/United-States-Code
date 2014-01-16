@@ -20,7 +20,7 @@
 
 #### (5) Termination
 
-&emsp;The requirement established in paragraph (1) shall terminate upon a finding by the Secretary that since the beginning of 2001 at least 150,000 new units of permanent housing forhomeless individuals and families with disabilities have been funded under this part.
+&emsp;The requirement established in paragraph (1) shall terminate upon a finding by the Secretary that since the beginning of 2001 at least 150,000 new units of permanent housing for homeless individuals and families with disabilities have been funded under this part.
 
 #### (b) Set-aside for permanent housing for homeless families with children
 
@@ -28,7 +28,7 @@ From the amounts made available to carry out this part for a fiscal year, a port
 
 #### (c) Treatment of amounts for permanent or transitional housing
 
-Nothing in this chapter may be construed to establish a limit on the amount of funding that an applicant may request under this part for acquisition, construction, or rehabilitation activities for the development of permanent housing or transitional housing.
+Nothing in this chapter may be construed to establish a limit on the amount of funding thatan applicant may request under this part for acquisition, construction, or rehabilitation activities for the development of permanent housing or transitional housing.
 
 #### (d) Incentives for proven strategies
 
@@ -58,7 +58,7 @@ If any geographic area demonstrates that it has fully implemented any of the act
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 100–77, July 22, 1987, 101 Stat. 482, known as the McKinney-Vento Homeless Assistance Act. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of this title and Tables.
 
 #### Prior Provisions
 

@@ -11,7 +11,7 @@
 | [957\.](%C2%A7%2000957%20-%20Violations%3B%20fines%20and%20forfeitures%3B%20application%20of%20related%20laws.md) | Violations; fines and forfeitures; application of related laws. |
 | [958\.](%C2%A7%2000958%20-%20Cooperation%20with%20other%20agencies.md) | Cooperation with other agencies. |
 | [959\.](%C2%A7%2000959%20-%20Enforcement%20of%20chapter.md) | Enforcement of chapter. |
-| [960\.](%C2%A7%2000960%20-%20Commissions%E2%80%99%20functions%20not%20restrained%20by%20this%20chapter%20or%20State%20laws.md) | Commissions’ functions not restrained by this chapter or State laws. |
+| [960\.](%C2%A7%2000960%20-%20Commissions%27%20functions%20not%20restrained%20by%20this%20chapter%20or%20State%20laws.md) | Commissions' functions not restrained by this chapter or State laws. |
 | [961\.](%C2%A7%2000961%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [962\.](%C2%A7%2000962%20-%20Reduction%20of%20bycatch%20in%20eastern%20tropical%20Pacific%20Ocean.md) | Reduction of bycatch in eastern tropical Pacific Ocean. |
 
@@ -31,6 +31,6 @@
 - [&sect; 00957 - Violations; fines and forfeitures; application of related laws](%C2%A7%2000957%20-%20Violations%3B%20fines%20and%20forfeitures%3B%20application%20of%20related%20laws.md)
 - [&sect; 00958 - Cooperation with other agencies](%C2%A7%2000958%20-%20Cooperation%20with%20other%20agencies.md)
 - [&sect; 00959 - Enforcement of chapter](%C2%A7%2000959%20-%20Enforcement%20of%20chapter.md)
-- [&sect; 00960 - Commissions&#8217; functions not restrained by this chapter or State laws](%C2%A7%2000960%20-%20Commissions%E2%80%99%20functions%20not%20restrained%20by%20this%20chapter%20or%20State%20laws.md)
+- [&sect; 00960 - Commissions' functions not restrained by this chapter or State laws](%C2%A7%2000960%20-%20Commissions%27%20functions%20not%20restrained%20by%20this%20chapter%20or%20State%20laws.md)
 - [&sect; 00961 - Authorization of appropriations](%C2%A7%2000961%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00962 - Reduction of bycatch in eastern tropical Pacific Ocean](%C2%A7%2000962%20-%20Reduction%20of%20bycatch%20in%20eastern%20tropical%20Pacific%20Ocean.md)

@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Board
 
-&emsp;The term “Board” means the Board of Directors established under subsection (f) of this section.
+&emsp;The term "Board" means the Board of Directors established under subsection (f) of this section.
 
 #### (2) Center
 
-&emsp;The term “Center” means the National Sheep Industry Improvement Center established under subsection (b) of this section.
+&emsp;The term "Center" means the National Sheep Industry Improvement Center established under subsection (b) of this section.
 
 #### (3) Eligible entity
 
-&emsp;The term “eligible entity” means an entity that promotes the betterment of the United States sheep or goat industries and that is—
+&emsp;The term "eligible entity" means an entity that promotes the betterment of the United States sheep or goat industries and that is—
 
 &emsp;&emsp;(A) a public, private, or cooperative organization;
 
@@ -26,11 +26,11 @@ In this section:
 
 #### (4) Fund
 
-&emsp;The term “Fund” means the National Sheep Industry Improvement Center Revolving Fund established under subsection (e) of this section.
+&emsp;The term "Fund" means the National Sheep Industry Improvement Center Revolving Fund established under subsection (e) of this section.
 
 #### (5) Intermediary
 
-&emsp;The term “intermediary” means a financial institution receiving Center funds for establishing a revolving fund and relending to an eligible entity.
+&emsp;The term "intermediary" means a financial institution receiving Center funds for establishing a revolving fund and relending to an eligible entity.
 
 #### (b) Establishment of Center
 
@@ -318,7 +318,7 @@ The purposes of the Center shall be to—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a member of the Board makes a full disclosure of an interest and, prior to anyparticipation by the member, the Board determines, by majority vote, that the interest is too remote or too inconsequential to affect the integrity of any participation by the member, the member may participate in the matter relating to the interest, except as provided in subparagraph (E)(iii).
+&emsp;&emsp;&emsp;If a member of the Board makes a full disclosure of an interest and, prior to any participation by the member, the Board determines, by majority vote, that the interest is too remote or too inconsequential to affect the integrity of any participation by the member, the member may participate in the matter relating to the interest, except as provided in subparagraph (E)(iii).
 
 #### (ii) Vote
 
@@ -362,7 +362,7 @@ The purposes of the Center shall be to—
 
 #### (15) Use of Department of Agriculture
 
-&emsp;The Board may, with the consent of the Secretary, utilize the facilities of and the services of employees of the Department of Agriculture, without cost to the Center.
+&emsp;The Board may, with the consent of the Secretary, utilize the facilities of and the servicesof employees of the Department of Agriculture, without cost to the Center.
 
 #### (g) Officers and employees
 
@@ -430,7 +430,7 @@ To carry out this section, the Board may consult with—
 
 #### References in Text
 
-This Act, referred to in subsec. (i)(2)(C), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294. For classification of this Act to the Code, see Short Title note set out under section 1911 of this title and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under section 1921 of this title and Tables.
+This Act, referred to in subsec. (i)(2)(C), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294. For classification of this Act to the Code, see Short Title note set out under section 1911 of this title and Tables. However, the reference was probably intended to be "this title" meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 #### Codification
 
@@ -444,43 +444,43 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Subsec. (j). Pub. L. 110–246, §11009(b)(1), struck out subsec. (j) which related to privatization of the National Sheep Industry Improvement Center and repeal of this section on the date that the Secretary published notice in the Federal Register that the transition plan for such privatization had been completed.
 
-<b>2004</b>—Subsec. (e)(6)(B). Pub. L. 108–447 substituted “$27,998,000” for “$26,998,000”.
+<b>2004</b>—Subsec. (e)(6)(B). Pub. L. 108–447 substituted "$27,998,000" for "$26,998,000".
 
-Pub. L. 108–199 substituted “$26,998,000” for “$26,499,000”.
+Pub. L. 108–199 substituted "$26,998,000" for "$26,499,000".
 
-<b>2003</b>—Subsec. (e)(6)(B). Pub. L. 108–7 substituted “$26,499,000” for “$26,000,000”.
+<b>2003</b>—Subsec. (e)(6)(B). Pub. L. 108–7 substituted "$26,499,000" for "$26,000,000".
 
-<b>2001</b>—Subsec. (e)(6)(B). Pub. L. 107–76 substituted “$26,000,000” for “$25,000,000”.
+<b>2001</b>—Subsec. (e)(6)(B). Pub. L. 107–76 substituted "$26,000,000" for "$25,000,000".
 
-<b>2000</b>—Subsec. (e)(6)(B). Pub. L. 106–387 substituted “$25,000,000” for “$20,000,000”.
+<b>2000</b>—Subsec. (e)(6)(B). Pub. L. 106–387 substituted "$25,000,000" for "$20,000,000".
 
 <b>1999</b>—Subsec. (a)(5). Pub. L. 106–78, §816(a), added par. (5).
 
-Subsec. (e)(3)(A). Pub. L. 106–78, §816(b)(1)(A), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: “The Center may use amounts in the Fund to make grants and loans to eligible entities in accordance with a strategic plan submitted under subsection (d) of this section.”
+Subsec. (e)(3)(A). Pub. L. 106–78, §816(b)(1)(A), added subpar. (A) and struck out heading and text of former subpar. (A). Text read as follows: "The Center may use amounts in the Fund to make grants and loans to eligible entities in accordance with a strategic plan submitted under subsection (d) of this section."
 
-Subsec. (e)(3)(B). Pub. L. 106–78, §816(b)(1)(B), inserted at end “The Fund is intended to furnish the initial capital for a revolving fund that will eventually be privatized for the purposes of assisting the United States sheep and goat industries.”
+Subsec. (e)(3)(B). Pub. L. 106–78, §816(b)(1)(B), inserted at end "The Fund is intended to furnish the initial capital for a revolving fund that will eventually be privatized for the purposes of assisting the United States sheep and goat industries."
 
-Subsec. (e)(3)(D). Pub. L. 106–78, §816(b)(1)(C), (F), redesignated subpar. (E) as (D) and struck out heading and text of former subpar. (D). Text read as follows: “The Center shall, to the maximum extent practicable, use the Fund to provide a variety of grants and intermediate- and long-term loans.”
+Subsec. (e)(3)(D). Pub. L. 106–78, §816(b)(1)(C), (F), redesignated subpar. (E) as (D) and struck out heading and text of former subpar. (D). Text read as follows: "The Center shall, to the maximum extent practicable, use the Fund to provide a variety of grants and intermediate- and long-term loans."
 
 Subsec. (e)(3)(E). Pub. L. 106–78, §816(b)(1)(F), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
 
-Pub. L. 106–78, §816(b)(1)(D), added subpar. (E) and struck out heading and text of former subpar. (E). Text read as follows: “The Center may not use more than 3 percent of the amounts in the Fund for a fiscal year for the administration of the Center.”
+Pub. L. 106–78, §816(b)(1)(D), added subpar. (E) and struck out heading and text of former subpar. (E). Text read as follows: "The Center may not use more than 3 percent of the amounts in the Fund for a fiscal year for the administration of the Center."
 
 Subsec. (e)(3)(F) to (H). Pub. L. 106–78, §816(b)(1)(F), redesignated subpars. (G) and (H) as (F) and (G), respectively. Former subpar. (F) redesignated (E).
 
 Subsec. (e)(3)(H)(vii). Pub. L. 106–78, §816(b)(1)(E), added cl. (vii).
 
-Subsec. (e)(6)(D). Pub. L. 106–78, §816(b)(2), struck out heading and text of subpar. (D). Text read as follows: “No additional Federal funds shall be used to carry out this section beginning on the earlier of—
+Subsec. (e)(6)(D). Pub. L. 106–78, §816(b)(2), struck out heading and text of subpar. (D). Text read as follows: "No additional Federal funds shall be used to carry out this section beginning on the earlier of—
 
-&emsp;“(i) the date that is 10 years after April 4, 1996; or
+&emsp;"(i) the date that is 10 years after April 4, 1996; or
 
-&emsp;“(ii) the day after a total of $50,000,000 has been made available under subparagraphs (B) and (C) to carry out this section.”
+&emsp;"(ii) the day after a total of $50,000,000 has been made available under subparagraphs (B) and (C) to carry out this section."
 
-Subsec. (f)(2)(B). Pub. L. 106–78, §816(c)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “review any grant, loan, contract, or cooperative agreement to be made or entered into by the Center and any financial assistance provided to the Center;”.
+Subsec. (f)(2)(B). Pub. L. 106–78, §816(c)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: "review any grant, loan, contract, or cooperative agreement to be made or entered into by the Center and any financial assistance provided to the Center;".
 
-Subsec. (f)(5)(C). Pub. L. 106–78, §816(c)(2), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows: “A voting member may be reelected for not more than 1 additional term.”
+Subsec. (f)(5)(C). Pub. L. 106–78, §816(c)(2), added subpar. (C) and struck out heading and text of former subpar. (C). Text read as follows: "A voting member may be reelected for not more than 1 additional term."
 
-Subsec. (f)(6)(B). Pub. L. 106–78, §816(c)(3), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: “A member elected to fill a vacancy for an unexpired term may be reelected for 1 full term.”
+Subsec. (f)(6)(B). Pub. L. 106–78, §816(c)(3), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows: "A member elected to fill a vacancy for an unexpired term may be reelected for 1 full term."
 
 Subsec. (j). Pub. L. 106–78, §816(d), added subsec. (j).
 
@@ -488,7 +488,7 @@ Subsec. (j). Pub. L. 106–78, §816(d), added subsec. (j).
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Pub. L. 110–234, title XI, §11009(b)(2), May 22, 2008, 122 Stat. 1359, and Pub. L. 110–246, §4(a), title XI, §11009(b)(2), June 18, 2008, 122 Stat. 1664, 2121, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect on May 1, 2007.”
+Pub. L. 110–234, title XI, §11009(b)(2), May 22, 2008, 122 Stat. 1359, and Pub. L. 110–246, §4(a), title XI, §11009(b)(2), June 18, 2008, 122 Stat. 1664, 2121, provided that: "The amendment made by paragraph (1) \[amending this section\] takes effect on May 1, 2007."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

@@ -2,7 +2,7 @@
 
 #### (a) Creation; purpose; articles of incorporation and charter; reservation of right to alter or amend charter; term; principal office; administration as charitable and educational foundation; compensation of officers and employees; contract authority; donations and grants; payment of principal and interest on borrowings
 
-(1) There is hereby created a body corporate to be known as the “National Homeownership Foundation” (hereinafter referred to as the “Foundation”) to carry out a continuing program of encouraging private and public organizations at the national, community, and neighborhood levels to provide increased homeownership and housing opportunities in urban and rural areas for lower income families through such means as—
+(1) There is hereby created a body corporate to be known as the "National Homeownership Foundation" (hereinafter referred to as the "Foundation") to carry out a continuing program of encouraging private and public organizations at the national, community, and neighborhood levels to provide increased homeownership and housing opportunities in urban and rural areas for lower income families through such means as—
 
 &emsp;(A) encouraging the investment in, and sponsoring of, housing for lower income families;
 
@@ -86,7 +86,7 @@ The Foundation shall coordinate its activities and consult with the Department o
 
 (1) The financial transactions of the Foundation shall be audited by the Government Accountability Office in accordance with the principles and procedures applicable to commercial corporate transactions and under such rules and regulations as may be prescribed by the Comptroller General of the United States. The representatives of the Government Accountability Office shall have access to all books, accounts, financial records, reports, files, and all other papers, things, or property belonging to or in use by the Foundation and necessary to facilitate the audit, and they shall be afforded full facilities for verifying transactions with the balances or securities held by depositories, fiscal agents, and custodians. The audit shall cover the fiscal year corresponding to that of the United States Government.
 
-(2) A report of each such audit shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of the last year covered by such audit. The report shall set forth the scope of the audit and shall include a statement of assets and liabilities, capital, and surplus or deficit; a statement of sources and application of funds; and such comments and information as may be deemed necessary to keep the Congress informed of the operations and financial condition of the Foundation, together with such recommendations with respect thereto as the Comptroller General may deem advisable. The report shall also show specifically any program, expenditure, or other financial transaction or undertaking, observed in the course of the audit, which, in the opinion of the Comptroller General, has been carried on or made without authority of law. A copy of each report shall be furnished to the President and to the Foundation at the time submitted to the Congress.
+(2) A report of each such audit shall be made by the Comptroller General to the Congress not later than six and one-half months following the close of the last year covered by such audit. The report shall set forth the scope of the audit and shall include a statement of assets and liabilities, capital, and surplus or deficit; a statement of sources and application of funds; and such comments and information as may be deemed necessary to keep the Congress informed of the operations and financial condition of the Foundation, together with such recommendations with respect thereto as the Comptroller General may deem advisable. The report shall also show specifically any program, expenditure, or otherfinancial transaction or undertaking, observed in the course of the audit, which, in the opinion of the Comptroller General, has been carried on or made without authority of law. A copy of each report shall be furnished to the President and to the Foundation at the time submitted to the Congress.
 
 #### (h) Deposit of funds of Foundation
 
@@ -108,13 +108,13 @@ Section was enacted as part of the Housing and Urban Development Act of 1968, an
 
 #### Amendments
 
-<b>2004</b>—Subsec. (g)(1). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2004</b>—Subsec. (g)(1). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in two places.
 
-<b>1995</b>—Subsec. (g)(1). Pub. L. 104–66 struck out at end “Such audit shall be made at least once in every three years.”
+<b>1995</b>—Subsec. (g)(1). Pub. L. 104–66 struck out at end "Such audit shall be made at least once in every three years."
 
 <b>1975</b>—Subsec. (g)(1). Pub. L. 93–604, §604(1), inserted provision that the audit under this subsection shall be made at least once in every three years.
 
-Subsec. (g)(2). Pub. L. 93–604, §604(2), substituted “six and one-half months following the close of the last year covered by such audit” for “January 15 following the close of the fiscal year for which the audit was made”.
+Subsec. (g)(2). Pub. L. 93–604, §604(2), substituted "six and one-half months following the close of the last year covered by such audit" for "January 15 following the close of the fiscal year for which the audit was made".
 
 #### Termination of Reporting Requirements
 

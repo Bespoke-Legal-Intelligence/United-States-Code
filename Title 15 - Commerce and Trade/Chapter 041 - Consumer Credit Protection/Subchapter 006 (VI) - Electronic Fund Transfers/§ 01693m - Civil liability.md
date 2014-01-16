@@ -2,7 +2,7 @@
 
 #### (a) Individual or class action for damages; amount of award
 
-Except as otherwise provided by this section and section 1693h of this title, any person who fails to comply with any provision of this subchapter with respect to any consumer, except for an error resolved in accordance with section 1693f of this title, is liable to such consumer in an amount equal to the sum of—
+Except as otherwise provided by this section and section 1693h of this title, any person whofails to comply with any provision of this subchapter with respect to any consumer, except for an error resolved in accordance with section 1693f of this title, is liable to such consumer in an amount equal to the sum of—
 
 &emsp;(1) any actual damage sustained by such consumer as a result of such failure;
 
@@ -58,13 +58,13 @@ A prior section 916 of Pub. L. 90–321 was renumbered section 917 and is classi
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §1084(1), which directed the substitution of “Bureau” for “Board” wherever appearing in section, was not executed in subsec. (d), which was the only place such term appeared, to reflect the probable intent of Congress and the amendment by Pub. L. 111–203, §1084(4). See below.
+<b>2010</b>—Pub. L. 111–203, §1084(1), which directed the substitution of "Bureau" for "Board" wherever appearing in section, was not executed in subsec. (d), which was the only place such term appeared, to reflect the probable intent of Congress and the amendment by Pub. L. 111–203, §1084(4). See below.
 
-Subsec. (d). Pub. L. 111–203, §1084(4), struck out “of Board or approval of duly authorized official or employee of Federal Reserve System” after “interpretation” in heading that had been supplied editorially and inserted “Bureau of Consumer Financial Protection or the” before “Federal Reserve System” in par. (1) and “Bureau or the” before “Board” wherever appearing.
+Subsec. (d). Pub. L. 111–203, §1084(4), struck out "of Board or approval of duly authorized official or employee of Federal Reserve System" after "interpretation" in heading that had been supplied editorially and inserted "Bureau of Consumer Financial Protection or the" before "Federal Reserve System" in par. (1) and "Bureau or the" before "Board" wherever appearing.
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

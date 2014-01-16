@@ -4,7 +4,7 @@
 
 &emsp;(1) of an appeal from a final decision of a district court of the United States, the District Court of Guam, the District Court of the Virgin Islands, or the District Court of the Northern Mariana Islands, in any civil action arising under, or in any civil action in which a party has asserted a compulsory counterclaim arising under, any Act of Congress relating to patents or plant variety protection;
 
-&emsp;(2) of an appeal from a final decision of a district court of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, or theDistrict Court for the Northern Mariana Islands, if the jurisdiction of that court was based, in whole or in part, on section 1346 of this title, except that jurisdiction of an appeal in a case brought in a district court under section 1346(a)(1), 1346(b), 1346(e), or 1346(f) of this title or under section 1346(a)(2) when the claim is founded upon an Act of Congress or a regulation of an executive department providing for internal revenue shall be governed by sections 1291, 1292, and 1294 of this title;
+&emsp;(2) of an appeal from a final decision of a district court of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, if the jurisdiction of that court was based, in whole or in part, on section 1346 of this title, except that jurisdiction of an appeal in a case brought in a district court under section 1346(a)(1), 1346(b), 1346(e), or 1346(f) of this title or under section 1346(a)(2) when the claim is founded upon an Act of Congress or a regulation of an executive department providing for internal revenue shall be governed by sections 1291, 1292, and 1294 of this title;
 
 &emsp;(3) of an appeal from a final decision of the United States Court of Federal Claims;
 
@@ -40,7 +40,7 @@
 
 (c) The Court of Appeals for the Federal Circuit shall review the matter referred in accordance with the standards specified in section 7107(b) of title 41. The court shall proceed with judicial review on the administrative record made before the board of contract appeals on matters so referred as in other cases pending in such court, shall determine the issue of finality of the appeal decision, and shall, if appropriate, render judgment thereon, or remand the matter to any administrative or executive body or official with such direction as it may deem proper and just.
 
-(Added Pub. L. 97–164, title I, §127(a), Apr. 2, 1982, 96 Stat. 37; amended Pub. L. 98–622, title II, §205(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 100–418, title I, §1214(a)(3), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–702, title X, §1020(a)(3), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title I, §102(c), title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4507, 4516; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(b)(2), 4732(b)(14)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–584; Pub. L. 111–350, §5(g)(5), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 112–29, §§7(c)(2), 19(b), Sept. 16, 2011, 125 Stat. 314, 331.)
+(Added Pub. L. 97–164, title I, §127(a), Apr. 2, 1982, 96 Stat. 37; amended Pub. L. 98–622, title II,§205(a), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 100–418, title I, §1214(a)(3), Aug. 23, 1988, 102 Stat. 1156; Pub. L. 100–702, title X, §1020(a)(3), Nov. 19, 1988, 102 Stat. 4671; Pub. L. 102–572, title I, §102(c), title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4507, 4516; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(b)(2), 4732(b)(14)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–584; Pub. L. 111–350, §5(g)(5), Jan. 4, 2011, 124 Stat. 3848; Pub. L. 112–29, §§7(c)(2), 19(b), Sept. 16, 2011, 125 Stat. 314, 331.)
 
 #### References in Text
 
@@ -56,37 +56,37 @@ Section 523 of the Energy Policy and Conservation Act, referred to in subsec. (a
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(1). Pub. L. 112–29, §19(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “of an appeal from a final decision of a district court of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, if the jurisdiction of that court was based, in whole or in part, on section 1338 of this title, except that a caseinvolving a claim arising under any Act of Congress relating to copyrights, exclusive rights in mask works, or trademarks and no other claims under section 1338(a) shall be governed by sections 1291, 1292, and 1294 of this title;”.
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–29, §19(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "of an appeal from a final decision of a district court of the United States, the United States District Court for the District of the Canal Zone, the District Court of Guam, the District Court of the Virgin Islands, or the District Court for the Northern Mariana Islands, if the jurisdiction of that court was based, in whole or in part, on section 1338 of this title, except that a case involving a claim arising under any Act of Congress relating to copyrights, exclusive rights in mask works, or trademarks and no other claims under section 1338(a) shall be governed by sections 1291, 1292, and 1294 of this title;".
 
-Subsec. (a)(4)(A). Pub. L. 112–29, §7(c)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Board of Patent Appeals and Interferences of the United States Patent and Trademark Office with respect to patent applications and interferences, at the instance of an applicant for a patent or any party to a patent interference, and any such appeal shall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;”.
+Subsec. (a)(4)(A). Pub. L. 112–29, §7(c)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the Board of Patent Appeals and Interferences of the United States Patent and Trademark Office with respect to patent applications and interferences, at the instance of an applicant for a patent or any party to a patent interference, and any such appeal shall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;".
 
-Subsec. (a)(10). Pub. L. 111–350, §5(g)(5)(A), substituted “section 7107(a)(1) of title 41” for “section 8(g)(1) of the Contract Disputes Act of 1978 (41 U.S.C. 607(g)(1))”.
+Subsec. (a)(10). Pub. L. 111–350, §5(g)(5)(A), substituted "section 7107(a)(1) of title 41" for "section 8(g)(1) of the Contract Disputes Act of 1978 (41 U.S.C. 607(g)(1))".
 
-Subsec. (b). Pub. L. 111–350, §5(g)(5)(B), substituted “section 7107(b) of title 41” for “section 10(b) of the Contract Disputes Act of 1978 (41 U.S.C. 609(b))”.
+Subsec. (b). Pub. L. 111–350, §5(g)(5)(B), substituted "section 7107(b) of title 41" for "section 10(b) of the Contract Disputes Act of 1978 (41 U.S.C. 609(b))".
 
-Subsec. (c). Pub. L. 111–350, §5(g)(5)(C), substituted “section 7107(b) of title 41” for “section 10(b) of the Contract Disputes Act of 1978”.
+Subsec. (c). Pub. L. 111–350, §5(g)(5)(C), substituted "section 7107(b) of title 41" for "section 10(b) of the Contract Disputes Act of 1978".
 
-<b>1999</b>—Subsec. (a)(4)(A). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(14)(A)\], inserted “United States” before “Patent and Trademark”.
+<b>1999</b>—Subsec. (a)(4)(A). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(14)(A)\], inserted "United States" before "Patent and Trademark".
 
-Subsec. (a)(4)(B). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(14)(B)\], substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents and Trademarks”.
+Subsec. (a)(4)(B). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(14)(B)\], substituted "Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office" for "Commissioner of Patents and Trademarks".
 
-Subsec. (a)(4)(C). Pub. L. 106–113, §1000(a)(9) \[title IV, §4402(b)(2)\], substituted “145, 146, or 154(b)” for “145 or 146”.
+Subsec. (a)(4)(C). Pub. L. 106–113, §1000(a)(9) \[title IV, §4402(b)(2)\], substituted "145, 146, or 154(b)" for "145 or 146".
 
-<b>1992</b>—Subsec. (a)(3). Pub. L. 102–572, §902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–572, §902(b)(1), substituted "United States Court of Federal Claims" for "United States Claims Court".
 
 Subsec. (a)(11) to (14). Pub. L. 102–572, §102(c), added pars. (11) to (14).
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–702 inserted “, exclusive rights in mask works,” after “copyrights”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–702 inserted ", exclusive rights in mask works," after "copyrights".
 
-Subsec. (a)(7). Pub. L. 100–418 substituted “U.S. note 6 to subchapter X of chapter 98 of the Harmonized Tariff Schedule of the United States” for “headnote 6 to schedule 8, part 4, of the Tariff Schedules of the United States”.
+Subsec. (a)(7). Pub. L. 100–418 substituted "U.S. note 6 to subchapter X of chapter 98 of the Harmonized Tariff Schedule of the United States" for "headnote 6 to schedule 8, part 4, of the Tariff Schedules of the United States".
 
-<b>1984</b>—Subsec. (a)(4)(A). Pub. L. 98–622 substituted “Patent Appeals and” for “Appeals or the Board of Patent”.
+<b>1984</b>—Subsec. (a)(4)(A). Pub. L. 98–622 substituted "Patent Appeals and" for "Appeals or the Board of Patent".
 
 #### Effective Date of 2011 Amendment
 
 Amendment by section 7(c)(2) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, with certain exceptions, see section 7(e) of Pub. L. 112–29, set out as a note under section 6 of Title 35, Patents.
 
-Pub. L. 112–29, §19(e), Sept. 16, 2011, 125 Stat. 333, provided that: “The amendments made by this section \[enacting section 1454 of this title and section 299 of Title 35, Patents, and amending this section and section 1338 of this title\] shall apply to any civil action commenced on or after the date of the enactment of this Act \[Sept. 16, 2011\].”
+Pub. L. 112–29, §19(e), Sept. 16, 2011, 125 Stat. 333, provided that: "The amendments made by this section \[enacting section 1454 of this title and section 299 of Title 35, Patents, and amending this section and section 1338 of this title\] shall apply to any civil action commenced on or after the date of the enactment of this Act \[Sept. 16, 2011\]."
 
 #### Effective Date of 1999 Amendment
 
@@ -118,17 +118,17 @@ Section effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as 
 
 Pub. L. 102–572, title I, §102(d), (e), Oct. 29, 1992, 106 Stat. 4507, provided that:
 
-“(d)
+"(d)
 
 Abolition of Court.—The Temporary Emergency Court of Appeals created by section 211(b) of the Economic Stabilization Act of 1970 \[Pub. L. 91–379, formerly set out as a note under section 1904 of Title 12, Banks and Banking\] is abolished, effective 6 months after the date of the enactment of this Act \[Oct. 29, 1992\].
 
-“(e)
+"(e)
 
 Pending Cases.—(1) Any appeal which, before the effective date of abolition described in subsection (d), is pending in the Temporary Emergency Court of Appeals but has not been submitted to a panel of such court as of that date shall be assigned to the United States Court of Appeals for the Federal Circuit as though the appeal had originally been filed in that court.
 
-“(2) Any case which, before the effective date of abolition described in subsection (d), has been submitted to a panel of the Temporary Emergency Court of Appeals and as to which the mandate has not been issued as of that date shall remain with that panel for all purposes and, notwithstanding the provisions of sections 291 and 292 of title 28, United States Code, that panel shall be assigned to the United States Court of Appeals for the Federal Circuit for the purpose of deciding such case.”
+"(2) Any case which, before the effective date of abolition described in subsection (d), has been submitted to a panel of the Temporary Emergency Court of Appeals and as to which the mandate has not been issued as of that date shall remain with that panel for all purposes and, notwithstanding the provisions of sections 291 and 292 of title 28, United States Code, that panel shall be assigned to the United States Court of Appeals for the Federal Circuit for the purpose of deciding such case."
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 

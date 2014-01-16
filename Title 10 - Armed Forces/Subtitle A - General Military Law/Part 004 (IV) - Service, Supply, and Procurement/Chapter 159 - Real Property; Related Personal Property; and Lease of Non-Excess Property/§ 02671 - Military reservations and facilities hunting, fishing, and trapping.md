@@ -12,7 +12,7 @@ General Requirements for Hunting, Fishing, and Trapping.—The Secretary of Defe
 
 (b)
 
-Waiver Authority.—(1) The Secretary of Defense may waive or otherwise modify the fish and game laws of a State otherwise applicable under subsection (a)(1) to hunting, fishing, or trapping at a military installation or facility if the Secretary determines that the application of such laws to such hunting, fishing, or trapping without modification could result in undesirable consequences for public health or safety at the installation or facility. The authority to waive such laws includes the authority to extend, but not reduce, the specified season for certain hunting, fishing, or trapping. The Secretary may not waive the requirements under subsection (a)(2) regarding a license for such hunting, fishing, or trapping or any fee imposed by a State to obtain such a license.
+Waiver Authority.—(1) The Secretary of Defense may waive or otherwise modify the fish and game laws of a State otherwise applicable under subsection (a)(1) to hunting, fishing, or trapping at a military installation or facility if the Secretary determines that the application of such laws to such hunting, fishing, or trapping without modification could result in undesirable consequences for public health or safety at the installation or facility. The authority to waivesuch laws includes the authority to extend, but not reduce, the specified season for certain hunting, fishing, or trapping. The Secretary may not waive the requirements under subsection (a)(2) regarding a license for such hunting, fishing, or trapping or any fee imposed by a State to obtain such a license.
 
 (2) If the Secretary determines that a waiver of fish and game laws of a State is appropriate under paragraph (1), the Secretary shall provide written notification to the appropriate State officials stating the reasons for, and extent of, the waiver. The notification shall be provided at least 30 days before implementation of the waiver.
 
@@ -32,9 +32,9 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(2). Pub. L. 111–383 substituted “armed forces” for “Armed Forces”.
+<b>2011</b>—Subsec. (a)(2). Pub. L. 111–383 substituted "armed forces" for "Armed Forces".
 
-<b>2006</b>—Subsecs. (a) to (c). Pub. L. 109–163 struck out “or Territory” after “State” wherever appearing.
+<b>2006</b>—Subsecs. (a) to (c). Pub. L. 109–163 struck out "or Territory" after "State" wherever appearing.
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–107, §2811(b)(1), inserted heading.
 
@@ -48,5 +48,5 @@ Subsec. (e). Pub. L. 107–107, §2811(a)(1), redesignated subsec. (b) as (e), i
 
 #### Increased Hunting and Fishing Opportunities for Members of the Armed Forces, Retired Members, and Disabled Veterans
 
-Pub. L. 109–364, div. A, title X, §1077(a), Oct. 17, 2006, 120 Stat. 2406, provided that: “Consistent with section 2671 of title 10, United States Code, and using such funds as are made available for this purpose, the Secretary of Defense shall ensure that members of the Armed Forces, retired members, disabled veterans, and persons assisting disabled veterans are able to utilize lands under the jurisdiction of the Department of Defense that are available for hunting or fishing.”
+Pub. L. 109–364, div. A, title X, §1077(a), Oct. 17, 2006, 120 Stat. 2406, provided that: "Consistent with section 2671 of title 10, United States Code, and using such funds as are made available for this purpose, the Secretary of Defense shall ensure that members of the Armed Forces, retired members, disabled veterans, and persons assisting disabled veterans are able to utilize lands under the jurisdiction of the Department of Defense that are available for hunting or fishing."
 

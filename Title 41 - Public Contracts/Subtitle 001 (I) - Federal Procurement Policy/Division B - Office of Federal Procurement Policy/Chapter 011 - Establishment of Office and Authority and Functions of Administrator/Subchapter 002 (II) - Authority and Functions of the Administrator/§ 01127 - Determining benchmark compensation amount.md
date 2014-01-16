@@ -6,23 +6,23 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Benchmark compensation amount.—The term “benchmark compensation amount”, for a fiscal year, is the median amount of the compensation provided for all senior executives of all benchmark corporations for the most recent year for which data is available at the time the determination under subsection (b) is made.
+Benchmark compensation amount.—The term "benchmark compensation amount", for a fiscal year, is the median amount of the compensation provided for all senior executives of all benchmark corporations for the most recent year for which data is available at the time the determination under subsection (b) is made.
 
 &emsp;(2)
 
-Benchmark corporation.—The term “benchmark corporation”, with respect to a fiscal year, means a publicly-owned United States corporation that has annual sales in excess of $50,000,000 for the fiscal year.
+Benchmark corporation.—The term "benchmark corporation", with respect to a fiscal year, means a publicly-owned United States corporation that has annual sales in excess of $50,000,000 for the fiscal year.
 
 &emsp;(3)
 
-Compensation.—The term “compensation”, for a fiscal year, means the total amount of wages, salary, bonuses, and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer's cost accounting records for the fiscal year.
+Compensation.—The term "compensation", for a fiscal year, means the total amount of wages, salary, bonuses, and deferred compensation for the fiscal year, whether paid, earned, or otherwise accruing, as recorded in an employer's cost accounting records for the fiscal year.
 
 &emsp;(4)
 
-Fiscal year.—The term “fiscal year” means a fiscal year a contractor establishes for accounting purposes.
+Fiscal year.—The term "fiscal year" means a fiscal year a contractor establishes for accounting purposes.
 
 &emsp;(5)
 
-Publicly-owned united states corporation.—The term “publicly-owned United States corporation” means a corporation—
+Publicly-owned united states corporation.—The term "publicly-owned United States corporation" means a corporation—
 
 &emsp;&emsp;(A) organized under the laws of a State of the United States, the District of Columbia, Puerto Rico, or a possession of the United States; and
 
@@ -30,13 +30,19 @@ Publicly-owned united states corporation.—The term “publicly-owned United St
 
 &emsp;(6)
 
-Senior executives.—The term “senior executives”, with respect to a contractor, means the 5 most highly compensated employees in management positions at each home office and each segment of the contractor.
+Senior executives.—The term "senior executives", with respect to a contractor, means the 5 most highly compensated employees in management positions at each home office and each segment of the contractor.
 
 (b)
 
 Determining Benchmark Compensation Amount.—For purposes of section 4304(a)(16) of this title and section 2324(e)(1)(P) of title 10, the Administrator shall review commercially available surveys of executive compensation and, on the basis of the results of the review, determine a benchmark compensation amount to apply for each fiscal year. In making determinations under this subsection, the Administrator shall consult with the Director of the Defense Contract Audit Agency and other officials of executive agencies as the Administrator considers appropriate.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3689.)
+
+#### Repeal of Section
+
+<i>Pub. L. 113–67, div. A, title VII, §702(b)(1), (c), Dec. 26, 2013, 127 Stat. 1189, provided that,</i><i>applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this section is repealed.</i>
+
+<i>Pub. L. 113–66, div. A, title VIII, §811(c)(1), (d), Dec. 26, 2013, 127 Stat. 806, provided that, applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, this section is repealed.</i>
 
 Historical and Revision Notes
 
@@ -78,15 +84,21 @@ Pub. L. 93–400, §39, as added Pub. L. 105–85, title VIII, §808(c)(1), Nov.
 
 41:435(a).
 
+#### Effective Date of Repeal
+
+Repeal by Pub. L. 113–67 applicable only with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, see section 702(c) of Pub. L. 113–67, set out as an Effective Date of 2013 Amendment note under section 2324 of Title 10, Armed Forces.
+
+Repeal by Pub. L. 113–66 applicable with respect to costs of compensation incurred under contracts entered into on or after the date that is 180 days after Dec. 26, 2013, see section 811(d) of Pub. L. 113–66, set out as an Effective Date of 2013 Amendment note under section 2324 of Title 10, Armed Forces.
+
 #### Exclusive Applicability of Provisions Limiting Allowability of Compensation for Certain Contractor Personnel
 
-Pub. L. 105–85, div. A, title VIII, §808(f), Nov. 18, 1997, 111 Stat. 1838, provided that: “Notwithstanding any other provision of law, no other limitation in law on the allowability of costs of compensation of senior executives under covered contracts shall apply to such costs of compensation incurred after January 1, 1998.”
+Pub. L. 105–85, div. A, title VIII, §808(f), Nov. 18, 1997, 111 Stat. 1838, provided that: "Notwithstanding any other provision of law, no other limitation in law on the allowability of costs of compensation of senior executives under covered contracts shall apply to such costs of compensation incurred after January 1, 1998."
 
 #### Definitions for Purposes of Section 808 of Pub. L. 105–85
 
-Pub. L. 105–85, div. A, title VIII, §808(g), Nov. 18, 1997, 111 Stat. 1838, as amended by Pub. L. 105–261, div. A, title VIII, §804(c)(2), Oct. 17, 1998, 112 Stat. 2083, provided that: “In this section \[see Tables for classification\]:
+Pub. L. 105–85, div. A, title VIII, §808(g), Nov. 18, 1997, 111 Stat. 1838, as amended by Pub. L. 105–261, div. A, title VIII, §804(c)(2), Oct. 17, 1998, 112 Stat. 2083, provided that: "In this section \[see Tables for classification\]:
 
-&emsp;“(1) The term ‘covered contract’ has the meaning given such term in section 2324(l) of title 10, United States Code, and section 306(l) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 256(l)) \[see 41 U.S.C. 4301\].
+&emsp;"(1) The term 'covered contract' has the meaning given such term in section 2324(l) of title 10, United States Code, and section 306(l) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 256(l)) \[see 41 U.S.C. 4301\].
 
-&emsp;“(2) The terms ‘compensation’ and ‘senior executives’ have the meanings given such terms in section 2324(l) of title 10, United States Code, and section 306(m) of the Federal Property and Administrative Services Act of 1949 \[see 41 U.S.C. 4301\].”
+&emsp;"(2) The terms 'compensation' and 'senior executives' have the meanings given such terms in section 2324(l) of title 10, United States Code, and section 306(m) of the Federal Property and Administrative Services Act of 1949 \[see 41 U.S.C. 4301\]."
 

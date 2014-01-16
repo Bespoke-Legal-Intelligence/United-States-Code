@@ -92,5 +92,13 @@ For the purposes of this section, a well is idled if—
 
 &emsp;Of the amounts authorized under paragraph (1), $5,000,000 are authorized for each fiscal year for activities under subsection (f).
 
-(Pub. L. 109–58, title III, §349, Aug. 8, 2005, 119 Stat. 709.)
+#### (i) Federally drilled wells
+
+Out of any amounts in the Treasury not otherwise appropriated, $10,000,000 for fiscal year 2014, $36,000,000 for fiscal year 2015, and $4,000,000 for fiscal year 2019 shall be made available to the Secretary, without further appropriation and to remain available until expended, to remediate, reclaim, and close abandoned oil and gas wells on current or former National Petroleum Reserve land.
+
+(Pub. L. 109–58, title III, §349, Aug. 8, 2005, 119 Stat. 709; Pub. L. 113–40, §10(b), Oct. 2, 2013, 127 Stat. 545.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (i). Pub. L. 113–40 added subsec. (i).
 

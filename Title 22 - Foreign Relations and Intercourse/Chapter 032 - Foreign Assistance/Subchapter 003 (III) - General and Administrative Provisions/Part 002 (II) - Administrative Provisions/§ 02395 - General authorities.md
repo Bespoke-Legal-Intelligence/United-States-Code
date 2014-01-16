@@ -58,11 +58,11 @@ Any cost-type contract or agreement (including grants) entered into with a unive
 
 #### (l) Program oversight
 
-The Administrator of the agency primarily responsible for administering subchapter I of this chapter may use funds made available under that subchapter to provide program and management oversight for activities that are funded under that subchapter and that are conducted incountries in which the agency does not have a field mission or office.
+The Administrator of the agency primarily responsible for administering subchapter I of this chapter may use funds made available under that subchapter to provide program and management oversight for activities that are funded under that subchapter and that are conducted in countries in which the agency does not have a field mission or office.
 
 #### (m) Working capital fund
 
-(1) There is established a working capital fund (in this subsection referred to as the “fund”) for the United States Agency for International Development (in this subsection referred to as the “Agency”) which shall be available without fiscal year limitation for the expenses of personal and nonpersonal services, equipment, and supplies for—
+(1) There is established a working capital fund (in this subsection referred to as the "fund") for the United States Agency for International Development (in this subsection referred to as the "Agency") which shall be available without fiscal year limitation for the expenses of personal and nonpersonal services, equipment, and supplies for—
 
 &emsp;(A) International Cooperative Administrative Support Services; and
 
@@ -84,11 +84,11 @@ The Administrator of the agency primarily responsible for administering subchapt
 
 (5) The fund may be charged with the current value of supplies and equipment returned to the working capital of the fund by a post, activity, or agency, and the proceeds shall he <sup>1</sup> credited to current applicable appropriations.
 
-(Pub. L. 87–195, pt. III, §635, Sept. 4, 1961, 75 Stat. 456; Pub. L. 87–565, pt. III, §302(g), Aug. 1, 1962, 76 Stat. 262; Pub. L. 88–205, pt. III, §302(e), Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §302(g), Sept. 6, 1965, 79 Stat. 660; Pub. L. 89–583, pt. III, §302(d), Sept. 19, 1966, 80 Stat. 807; Pub. L. 90–137, pt. III, §302(i), Nov. 14, 1967, 81 Stat. 461; Pub. L. 95–424, title I, §102(g)(2)(G), Oct. 6, 1978, 92 Stat. 943; Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 106–264, title III, §301, Aug. 19, 2000, 114 Stat. 760; Pub. L. 106–309, title IV, §404, Oct. 17, 2000, 114 Stat. 1098; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
+(Pub. L. 87–195, pt. III, §635, Sept. 4, 1961, 75 Stat. 456; Pub. L. 87–565, pt. III, §302(g), Aug. 1, 1962, 76 Stat. 262; Pub. L. 88–205, pt. III, §302(e), Dec. 16, 1963, 77 Stat. 389; Pub. L. 89–171, pt. III, §302(g),Sept. 6, 1965, 79 Stat. 660; Pub. L. 89–583, pt. III, §302(d), Sept. 19, 1966, 80 Stat. 807; Pub. L. 90–137, pt. III, §302(i), Nov. 14, 1967, 81 Stat. 461; Pub. L. 95–424, title I, §102(g)(2)(G), Oct. 6, 1978, 92 Stat. 943; Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 106–264, title III, §301, Aug. 19, 2000, 114 Stat. 760; Pub. L. 106–309, title IV, §404, Oct. 17, 2000, 114 Stat. 1098; Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (d), (g), and (j), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsecs. (a) to (d), (g), and (j), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
 
@@ -100,27 +100,27 @@ References to part I of subchapter I of this chapter are deemed to include a ref
 
 #### Codification
 
-In subsec. (g)(5), “chapter 91 of title 31” substituted for “the Government Corporation Control Act, as amended (31 U.S.C. 841 et seq.)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (g)(5), "chapter 91 of title 31" substituted for "the Government Corporation Control Act, as amended (31 U.S.C. 841 et seq.)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (g)(5). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (g)(5). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>2000</b>—Subsec. (l). Pub. L. 106–264 added subsec. (l).
 
 Subsec. (m). Pub. L. 106–309 added subsec. (m).
 
-<b>1979</b>—Subsec. (c). Pub. L. 96–53 substituted “Agency for International Development” for “Advisory Committee on Voluntary Foreign Aid”.
+<b>1979</b>—Subsec. (c). Pub. L. 96–53 substituted "Agency for International Development" for "Advisory Committee on Voluntary Foreign Aid".
 
-<b>1978</b>—Subsec. (h). Pub. L. 95–424 substituted “part I (except development loans) and subpart II of part II of subchapter I” for “subparts II, V, and VI of part II of subchapter I (except development loans)”.
+<b>1978</b>—Subsec. (h). Pub. L. 95–424 substituted "part I (except development loans) and subpart II of part II of subchapter I" for "subparts II, V, and VI of part II of subchapter I (except development loans)".
 
 <b>1967</b>—Subsec. (e). Pub. L. 90–137, §302(i)(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (g). Pub. L. 90–137, §302(i)(2), struck out “and sales” after “loans” in introductory clause.
+Subsec. (g). Pub. L. 90–137, §302(i)(2), struck out "and sales" after "loans" in introductory clause.
 
 <b>1966</b>—Subsec. (h). Pub. L. 89–583 excluded development loans under the Alliance for Progress from the provision that contracts or agreements which entail commitments for the expenditure of funds may not extend for more than five years.
 
-<b>1965</b>—Subsec. (g). Pub. L. 89–171 inserted “and sales” in introductory clause.
+<b>1965</b>—Subsec. (g). Pub. L. 89–171 inserted "and sales" in introductory clause.
 
 <b>1963</b>—Subsec. (k). Pub. L. 88–205 added subsec. (k).
 
@@ -144,7 +144,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### International Agreements
 
-The negotiation, conclusion, and termination of international agreements pursuant to this chaptershall be subject to requirements of section 112b of Title 1, General Provisions, and to applicable regulations and procedures, see section 1–604 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56677, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
+The negotiation, conclusion, and termination of international agreements pursuant to this chapter shall be subject to requirements of section 112b of Title 1, General Provisions, and to applicable regulations and procedures, see section 1–604 of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56677, eff. Oct. 1, 1979, set out as a note under section 2381 of this title.
 
 #### Information to Congressional Committees on Negotiations Regarding Debts Owed United States by Foreign Governments; Transmittal to Congress of Debt Modification Proposals
 
@@ -154,5 +154,5 @@ Pub. L. 93–333, §4, July 8, 1974, 88 Stat. 290, relating to cancellation, ren
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “be”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "be".</i>
 

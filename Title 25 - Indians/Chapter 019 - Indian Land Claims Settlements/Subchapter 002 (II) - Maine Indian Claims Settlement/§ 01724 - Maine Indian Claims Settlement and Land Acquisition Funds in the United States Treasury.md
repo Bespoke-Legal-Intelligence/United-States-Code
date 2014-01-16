@@ -28,7 +28,7 @@ The principal of the land acquisition fund shall be apportioned as follows:
 
 > The Secretary is authorized and directed to expend, at the request of the affected tribe, nation or band, the principal and any income accruing to the respective portions of the land acquisition fund for the purpose of acquiring land or natural resources for the Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians and for no other purpose. The first 150,000 acres of land or natural resources acquired for the Passamaquoddy Tribe and the first 150,000 acres acquired for the Penobscot Nation within the area described in the Maine Implementing Act as eligible to be included within the Passamaquoddy Indian Territory and the Penobscot Indian Territory shall be held in trust by the United States for the benefit of the respective tribe or nation. The Secretary is also authorized to take in trust for the Passamaquoddy Tribe or the Penobscot Nation any land or natural resources acquired within the aforesaid area by purchase, gift, or exchange by such tribe or nation. Land or natural resources acquired outside the boundaries of the aforesaid areas shall be held in fee by the respective tribe or nation, and the United States shall have no further trust responsibility with respect thereto. Land or natural resources acquired within the State of Maine for the Houlton Band of Maliseet Indians shall be held in trust by the United States for the benefit of the band: <i>Provided</i>, That no land or natural resources shall be so acquired for or on behalf of the Houlton Band of Maliseet Indians without the prior enactment of appropriate legislation by the State of Maine approving such acquisition: <i>Provided further</i>, That the Passamaquoddy Tribe and the Penobscot Nation shall each have a one-half undivided interest in the corpus of the trust, which shall consist of any such property or subsequently acquired exchange property, in the event the Houlton Band of Maliseet Indians should terminate its interest in the trust.
 
-&emsp;(4) The Secretary is authorized to, and at the request of either party shall, participate in negotiations between the State of Maine and the Houlton Band of Maliseet Indians for the purpose of assisting in securing agreement as to the land or natural resources to be acquired by the United States to be held in trust for the benefit of the Houlton Band. Such agreement shall be embodied in the legislation enacted by the State of Maine approving the acquisition of such lands as required by paragraph (3). The agreement and the legislation shall be limited to:
+&emsp;(4) The Secretary is authorized to, and at the request of either party shall, participate in negotiations between the State of Maine and the Houlton Band of Maliseet Indians for the purpose of assisting in securing agreement as tothe land or natural resources to be acquired by the United States to be held in trust for the benefit of the Houlton Band. Such agreement shall be embodied in the legislation enacted by the State of Maine approving the acquisition of such lands as required by paragraph (3). The agreement and the legislation shall be limited to:
 
 &emsp;&emsp;(A) provisions providing restrictions against alienation or taxation of land or natural resources held in trust for the Houlton Band no less restrictive than those provided by this subchapter and the Maine Implementing Act for land or natural resources to be held in trust for the Passamaquoddy Tribe or Penobscot Nation;
 
@@ -48,7 +48,7 @@ The principal of the land acquisition fund shall be apportioned as follows:
 
 #### (e) Acquisitions contingent upon agreement as to identity of land or natural resources to be sold, purchase price and other terms of sale; condemnation proceedings by Secretary; other acquisition authority barred for benefit of Indians in State of Maine
 
-Notwithstanding the provisions of sections 3113 and 3114(a) to (d) of title 40, the Secretary may acquire land or natural resources under this section from the ostensible owner of the land or natural resources only if the Secretary and the ostensible owner of the land or natural resources have agreed upon the identity of the land or natural resources to be sold and upon the purchase price and other terms of sale. Subject to the agreement required by the preceding sentence, the Secretary may institute condemnation proceedings in order to perfect title,satisfactory to the Attorney General, in the United States and condemn interests adverse to the ostensible owner. Except for the provisions of this subchapter, the United States shall have no other authority to acquire lands or natural resources in trust for the benefit of Indians or Indian nations, or tribes, or bands of Indians in the State of Maine.
+Notwithstanding the provisions of sections 3113 and 3114(a) to (d) of title 40, the Secretary may acquire land or natural resources under this section from the ostensible owner of the land or natural resources only if the Secretary and the ostensible owner of the land or natural resources have agreed upon the identity of the land or natural resources to be sold and upon the purchase price and other terms of sale. Subject to the agreement required by the preceding sentence, the Secretary may institute condemnation proceedings in order to perfect title, satisfactory to the Attorney General, in the United States and condemn interests adverse to the ostensible owner. Except for the provisions of this subchapter, the United States shall have no other authority to acquire lands or natural resources in trust for the benefit of Indians or Indian nations, or tribes, or bands of Indians in the State of Maine.
 
 #### (f) Expenditures for Tribe, Nation, or Band contingent upon documentary relinquishment of claims
 
@@ -60,7 +60,7 @@ The Secretary may not expend on behalf of the Passamaquoddy Tribe, the Penobscot
 
 (2) Except as provided in paragraph (3) of this subsection, any transfer of land or natural resources within Passamaquoddy Indian Territory or Penobscot Indian Territory, except (A) takings for public uses consistent with the Maine Implementing Act, (B) takings for public uses pursuant to the laws of the United States, or (C) transfers of individual Indian use assignments from one member of the Passamaquoddy Tribe or Penobscot Nation to another member of the same tribe or nation, shall be void ab initio and without any validity in law or equity.
 
-(3) Land or natural resources within the Passamaquoddy Indian Territory or the Penobscot Indian Territory or held in trust for the benefit of the Houlton Band of Maliseet Indians may, at the request of the respective tribe, nation, or band, be—
+(3) Land or natural resources within the Passamaquoddy Indian Territory or the Penobscot Indian Territory or held in trust for the benefit of the Houlton Band of Maliseet Indiansmay, at the request of the respective tribe, nation, or band, be—
 
 &emsp;(A) leased in accordance with sections 415 to 415d of this title;
 
@@ -94,97 +94,97 @@ When trust or restricted land or natural resources of the Passamaquoddy Tribe, t
 
 #### Codification
 
-“Sections 3113 and 3114(a) to (d) of title 40” substituted in subsec. (e) for “section 1 of the Act of August 1, 1888 (25 Stat. 357), as amended, and section 1 of the Act of February 26, 1931 (46 Stat. 1421)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Sections 3113 and 3114(a) to (d) of title 40" substituted in subsec. (e) for "section 1 of the Act of August 1, 1888 (25 Stat. 357), as amended, and section 1 of the Act of February 26, 1931 (46 Stat. 1421)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Houlton Band of Maliseet Indians Supplementary Claims Settlement
 
-Pub. L. 99–566, Oct. 27, 1986, 100 Stat. 3184, provided: “That this Act may be cited as the ‘Houlton Band of Maliseet Indians Supplementary Claims Settlement Act of 1986’.
+Pub. L. 99–566, Oct. 27, 1986, 100 Stat. 3184, provided: "That this Act may be cited as the 'Houlton Band of Maliseet Indians Supplementary Claims Settlement Act of 1986'.
 
-#### “definitions
+#### "definitions
 
-“
+"
 
 Sec. 2. For purposes of this Act—
 
-&emsp;“(1) The term ‘Houlton Band Tax Fund’ means the fund established under section 3.
+&emsp;"(1) The term 'Houlton Band Tax Fund' means the fund established under section 3.
 
-&emsp;“(2) The term ‘Houlton Band trust land’ means land or natural resources acquired by the Secretary of the Interior and held in trust by the United States for the benefit of the Houlton Band of Maliseet Indians in accordance with section 5(d) of the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1724(d); 94 Stat. 1789).
+&emsp;"(2) The term 'Houlton Band trust land' means land or natural resources acquired by the Secretary of the Interior and held in trust by the United States for the benefit of the Houlton Band of Maliseet Indians in accordance with section 5(d) of the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1724(d); 94 Stat. 1789).
 
-&emsp;“(3) The term ‘amended Maine Implementing Act’ means the Maine Implementing Act (defined in section 3(e) of the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1722(e); 94 Stat. 1787)) as amended by—
+&emsp;"(3) The term 'amended Maine Implementing Act' means the Maine Implementing Act (defined in section 3(e) of the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1722(e); 94 Stat. 1787)) as amended by—
 
-&emsp;&emsp;“(A) the ‘Act to amend the Maine Implementing Act with respect to the Houlton Band of Maliseet Indians’, enacted by the State of Maine in chapter 675 of the Public Laws of 1981, and
+&emsp;&emsp;"(A) the 'Act to amend the Maine Implementing Act with respect to the Houlton Band of MaliseetIndians', enacted by the State of Maine in chapter 675 of the Public Laws of 1981, and
 
-&emsp;&emsp;“(B) the State of Maine in chapter 672 of the Public Laws of 1985.
+&emsp;&emsp;"(B) the State of Maine in chapter 672 of the Public Laws of 1985.
 
-&emsp;“(4) The term ‘Secretary’ means the Secretary of the Interior.
+&emsp;"(4) The term 'Secretary' means the Secretary of the Interior.
 
-&emsp;“(5) The term ‘Houlton Band of Maliseet Indians’ has the meaning given to such term by section 3(a) of the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1722(a)).
+&emsp;"(5) The term 'Houlton Band of Maliseet Indians' has the meaning given to such term by section 3(a) of the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1722(a)).
 
-#### “houlton band tax fund
+#### "houlton band tax fund
 
-“
+"
 
 Sec. 3. (a) There is hereby established in the United States Treasury a fund to be known as the Houlton Band Tax Fund in which shall be deposited $200,000 in accordance with the provisions of this Act.
 
-“(b)(1) Income accrued on the land acquisition fund established for the Houlton Band of Maliseet Indians pursuant to subsections (c) and (d)(1) of section 5 of the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1724; 94 Stat. 1789) shall be transferred to the Houlton Band Tax Fund. No transfer shall be made under this subsection if such transfer would diminish such land acquisition fund to a balance of less than $900,000.
+"(b)(1) Income accrued on the land acquisition fund established for the Houlton Band of Maliseet Indians pursuant to subsections (c) and (d)(1) of section 5 of the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1724; 94 Stat. 1789) shall be transferred to the Houlton Band Tax Fund. No transfer shall be made under this subsection if such transfer would diminish such land acquisition fund to a balance of less than $900,000.
 
-“(2) Whenever funds are transferred to the Houlton Band Tax Fund pursuant to paragraph (1), the Secretary shall publish notice of such transfer in the Federal Register. Such notice shall specify when the full amount of $200,000 has been transferred to the Houlton Band Tax Fund.
+"(2) Whenever funds are transferred to the Houlton Band Tax Fund pursuant to paragraph (1), the Secretary shall publish notice of such transfer in the Federal Register. Such notice shall specify when the full amount of $200,000 has been transferred to the Houlton Band Tax Fund.
 
-“(c) The Secretary shall manage the Houlton Band Tax Fund in accordance with the first section of the Act of June 24, 1938 (25 U.S.C. 162a), and shall utilize the principal and interest of such Fund only as provided in subsection (d) and for no other purpose.
+"(c) The Secretary shall manage the Houlton Band Tax Fund in accordance with the first section of the Act of June 24, 1938 (25 U.S.C. 162a), and shall utilize the principal and interest of such Fund only as provided in subsection (d) and for no other purpose.
 
-“(d) Notwithstanding the provisions of section 3727 of title 31, United States Code, the Secretary shall pay out of the Houlton Band Tax Fund all valid claims for taxes, payments in lieu of property taxes, and fees, together with any interest and penalties thereon—
+"(d) Notwithstanding the provisions of section 3727 of title 31, United States Code, the Secretary shall pay out of the Houlton Band Tax Fund all valid claims for taxes, payments in lieu of property taxes, and fees, together with any interest and penalties thereon—
 
-&emsp;“(1) for which the Houlton Band of Maliseet Indians are determined to be liable under the terms of section 6208–A(2) of the amended Maine Implementing Act,
+&emsp;"(1) for which the Houlton Band of Maliseet Indians are determined to be liable under the terms of section 6208–A(2) of the amended Maine Implementing Act,
 
-&emsp;“(2) which are final and not subject to further administrative or judicial review, and
+&emsp;"(2) which are final and not subject to further administrative or judicial review, and
 
-&emsp;“(3) which have been certified by the Commissioner of Finance and Administration of the State of Maine as valid claims (within the meaning of section 6208–A(2) of the amended Maine Implementing Act) that meet the requirements of this subsection.
+&emsp;"(3) which have been certified by the Commissioner of Finance and Administration of the State of Maine as valid claims (within the meaning of section 6208–A(2) of the amended Maine Implementing Act) that meet the requirements of this subsection.
 
-“(e) Notwithstanding any other provision of law, if—
+"(e) Notwithstanding any other provision of law, if—
 
-&emsp;“(1) the Houlton Band of Maliseet Indians is liable to the State of Maine or any county, district, municipality, city, town, village, plantation, or any other political subdivision thereof for any tax, payment in lieu of property tax, or fees, together with any interest or penalties thereon, and
+&emsp;"(1) the Houlton Band of Maliseet Indians is liable to the State of Maine or any county, district, municipality, city, town, village, plantation, or any other political subdivision thereof for any tax, payment in lieu of property tax, or fees, together with any interest or penalties thereon, and
 
-&emsp;“(2) there are insufficient funds in the Houlton Band Tax Fund to pay such tax, payment, or fee (together with any interest or penalties thereon) in full,
+&emsp;"(2) there are insufficient funds in the Houlton Band Tax Fund to pay such tax, payment, or fee (together with any interest or penalties thereon) in full,
 
 > the deficiency shall be paid by the Houlton Band of Maliseet Indians only from income-producing property owned by such Band which is not held in trust for such Band by the United States, and such Band shall not be required to pay such tax, payment, or fee (or any interest or penalty thereon) from any other source.
 
-“(f) The Secretary shall, after consultation with the Commissioner of Finance and Administration of the State of Maine and the Houlton Band of Maliseet Indians, prescribe written procedures governing the filing and payment of claims under this section and section 6208–A of the amended Maine Implementing Act.
+"(f) The Secretary shall, after consultation with the Commissioner of Finance and Administration of the State of Maine and the Houlton Band of Maliseet Indians, prescribe written procedures governing the filing and payment of claims under this section and section 6208–A of the amended Maine Implementing Act.
 
-#### “houlton band trust land
+#### "houlton band trust land
 
-“
+"
 
 Sec. 4. (a) Subject to the provisions of section 3 of this Act, the Secretary is authorized and directed to expend, at the request of the Houlton Band of Maliseet Indians, the principal of, and income accruing on, the land acquisition fund established for such Band under subsections (c) and (d)(1) of section 5 of the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1724; 94 Stat. 1789) for the purposes of acquiring land or natural resources for such Band and for no other purpose. Land or natural resources so acquired within the State of Maine for such Band shall be held in trust by the United States for the benefit of such Band.
 
-“(b)(1) Land or natural resources acquired with funds expended under the authority of subsection (a) and heldin trust for the benefit of the Houlton Band of Maliseet Indians may be alienated only by—
+"(b)(1) Land or natural resources acquired with funds expended under the authority of subsection (a) and held in trust for the benefit of the Houlton Band of Maliseet Indians may be alienated only by—
 
-&emsp;“(A) takings for public use pursuant to the laws of the State of Maine as provided in subsection (c),
+&emsp;"(A) takings for public use pursuant to the laws of the State of Maine as provided in subsection (c),
 
-&emsp;“(B) takings for public use pursuant to the laws of the United States,
+&emsp;"(B) takings for public use pursuant to the laws of the United States,
 
-&emsp;“(C) transfers authorized by section 5(g)(3) of the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1724(g)(3); 94 Stat. 1791), or
+&emsp;"(C) transfers authorized by section 5(g)(3) of the Maine Indian Claims Settlement Act of 1980 (25 U.S.C. 1724(g)(3); 94 Stat. 1791), or
 
-&emsp;“(D) transfers made pursuant to an Act or joint resolution of Congress.
+&emsp;"(D) transfers made pursuant to an Act or joint resolution of Congress.
 
 > All other transfers of land or natural resources acquired with funds expended under the authority of subsection (a) and held in trust for the benefit of such Band shall be void ab initio and without any validity in law or equity.
 
-“(2) The provisions of paragraph (1) shall not prohibit or limit transfers of individual use assignments of land or natural resources from one member of the Houlton Band of Maliseet Indians to another member of such Band.
+"(2) The provisions of paragraph (1) shall not prohibit or limit transfers of individual use assignments of land or natural resources from one member of the Houlton Band of Maliseet Indians to another member of such Band.
 
-“(c)(1) Land or natural resources acquired with funds expended under the authority of subsection (a) and held in trust for the benefit of the Houlton Band of Maliseet Indians may be condemned for public purposes by the State of Maine, or any political subdivision thereof, only upon such terms and conditions as shall be agreed upon in writing between the State and such Band after the date of enactment of this Act \[Oct. 27, 1986\].
+"(c)(1) Land or natural resources acquired with funds expended under the authority of subsection (a) and held in trust for the benefit of the Houlton Band of Maliseet Indians may be condemned for public purposes by the State of Maine, or any political subdivision thereof, only upon such terms and conditions as shall be agreed upon in writing between the State and such Band after the date of enactment of this Act \[Oct. 27, 1986\].
 
-“(2) The consent of the United States is hereby given to the State of Maine to further amend the amended Maine Implementing Act for the purpose of embodying the agreement described in paragraph (1).
+"(2) The consent of the United States is hereby given to the State of Maine to further amend the amended Maine Implementing Act for the purpose of embodying the agreement described in paragraph (1).
 
-“(d)(1) Lands and natural resources may be acquired by the Secretary for the Houlton Band of Maliseet Indians only if the Secretary has, at any time prior to such acquisition—
+"(d)(1) Lands and natural resources may be acquired by the Secretary for the Houlton Band of Maliseet Indians only if the Secretary has, at any time prior to such acquisition—
 
-&emsp;“(A) transmitted a letter to the Secretary of State of the State of Maine stating that the Houlton Band Tax Fund contains $200,000, and
+&emsp;"(A) transmitted a letter to the Secretary of State of the State of Maine stating that the Houlton Band Tax Fund contains $200,000, and
 
-&emsp;“(B) provided the Secretary of State of the State of Maine with a copy of the procedures for filing and payment of claims prescribed under section 3(f).
+&emsp;"(B) provided the Secretary of State of the State of Maine with a copy of the procedures for filing and payment of claims prescribed under section 3(f).
 
-“(2)(A) No land or natural resources may be acquired by the Secretary for the Houlton Band of Maliseet Indians until the Secretary—
+"(2)(A) No land or natural resources may be acquired by the Secretary for the Houlton Band of Maliseet Indians until the Secretary—
 
-&emsp;“(i) files with the Secretary of State of the State of Maine a certified copy of the deed, contract, or other conveyance setting forth the location and boundaries of the land or natural resources to be acquired by the Secretary, or
+&emsp;"(i) files with the Secretary of State of the State of Maine a certified copy of the deed, contract, or other conveyance setting forth the location and boundaries of the land or natural resources to be acquired by the Secretary, or
 
-&emsp;“(ii) files with the Secretary of State of the State of Maine a certified copy of any instrument setting forth the location and boundaries of the land or natural resources to be acquired.
+&emsp;"(ii) files with the Secretary of State of the State of Maine a certified copy of any instrument setting forth the location and boundaries of the land or natural resources to be acquired.
 
-“(B) For purposes of subparagraph (A), filing with the Secretary of State of the State of Maine may be made by mail and, if such method of filing is used, shall be considered to be completed on the date on which the document is properly mailed to the Secretary of State of the State of Maine.”
+"(B) For purposes of subparagraph (A), filing with the Secretary of State of the State of Maine may be made by mail and, if such method of filing is used, shall be considered to be completed on the date on which the document is properly mailed to the Secretary of State of the State of Maine."
 

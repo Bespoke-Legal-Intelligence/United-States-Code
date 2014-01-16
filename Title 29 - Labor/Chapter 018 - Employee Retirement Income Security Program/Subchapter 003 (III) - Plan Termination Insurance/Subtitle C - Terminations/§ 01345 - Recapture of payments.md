@@ -12,7 +12,7 @@ For purposes of subsection (a) of this section the recoverable amount is the exc
 
 &emsp;(2) The amount determined under this paragraph is the sum of—
 
-&emsp;&emsp;(A) the sum of the amount such participant would have received during each consecutive 12-month period within the 3 years if the participant received the benefit in the form described in paragraph (3),
+&emsp;&emsp;(A) the sum of the amount such participant would have received during each consecutive 12-month period within the 3 yearsif the participant received the benefit in the form described in paragraph (3),
 
 &emsp;&emsp;(B) the sum for each of the consecutive 12-month periods of the lesser of—
 
@@ -40,7 +40,7 @@ Section 1343(b)(7) of this title, referred to in subsec. (c)(1), was redesignate
 
 #### Amendments
 
-<b>1989</b>—Subsec. (c)(2). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1989</b>—Subsec. (c)(2). Pub. L. 101–239 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 #### Effective Date of 1989 Amendment
 

@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;From amounts appropriated under subsection (h) for a fiscal year, the Secretary is authorized to award grants to four Stateeducational agencies to enable the State educational agencies to pay the administrative expenses incurred in participating in the demonstration program under this section by carrying out a demonstration project under which eighth grade students described in subsection (b)(1)(B) receive a commitment early in the students’ academic careers to receive a Federal Pell Grant.
+&emsp;&emsp;From amounts appropriated under subsection (h) for a fiscal year, the Secretary is authorized to award grants to four State educational agencies to enable the State educational agencies to pay the administrative expenses incurred in participating in the demonstration program under this section by carrying out a demonstration project under which eighth grade students described in subsection (b)(1)(B) receive a commitment early in the students' academic careers to receive a Federal Pell Grant.
 
 #### (B) Equal amounts
 
@@ -40,7 +40,7 @@ Each of the four demonstration projects assisted under this section shall meet t
 
 #### (2) Student data
 
-&emsp;The State educational agency shall ensure that student data from local educational agencies serving students who participate in the demonstration project, as well as student data from local educational agencies serving a comparable group of students who do not participate in the demonstration project, are available for evaluation of the demonstration project, and are made available in accordance with the requirements of section 1232g of this title (commonly known as the “Family Educational Rights and Privacy Act of 1974”).
+&emsp;The State educational agency shall ensure that student data from local educational agencies serving students who participate in the demonstration project, as well as student data from local educational agencies serving a comparable group of students who do not participate in the demonstration project, are available for evaluation of the demonstration project, and are made available in accordance with the requirements of section 1232g of this title (commonly known as the "Family Educational Rights and Privacy Act of 1974").
 
 #### (3) Federal Pell Grant commitment
 
@@ -162,7 +162,7 @@ Each of the four demonstration projects assisted under this section shall meet t
 
 #### (A) Outreach
 
-&emsp;&emsp;A description of the outreach to students and the students’ families at the beginning and end of each academic year of the demonstration project, at a minimum.
+&emsp;&emsp;A description of the outreach to students and the students' families at the beginning and end of each academic year of the demonstration project, at a minimum.
 
 #### (B) Distribution
 
@@ -206,7 +206,7 @@ Each of the four demonstration projects assisted under this section shall meet t
 
 #### (3) Cohorts
 
-&emsp;The information described in paragraph (2)(C) shall be provided annually to the two successive cohorts of students described in subsection (b)(1)(A) for the duration of the students’ participation in the demonstration project.
+&emsp;The information described in paragraph (2)(C) shall be provided annually to the two successive cohorts of students described in subsection (b)(1)(A) for the duration of the students' participation in the demonstration project.
 
 #### (4) Reservation
 
@@ -232,9 +232,9 @@ The Elementary and Secondary Education Act of 1965, referred to in subsec. (d)(1
 
 #### Amendments
 
-<b>2010</b>—Subsec. (f)(2)(C)(ii)(I). Pub. L. 111–152 substituted “the Federal Pell Grant amount, determined under section 1070a(b)(2)(A) of this title, for which a student may be eligible for each award year” for “the maximum Federal Pell Grant for each award year”.
+<b>2010</b>—Subsec. (f)(2)(C)(ii)(I). Pub. L. 111–152 substituted "the Federal Pell Grant amount, determined under section 1070a(b)(2)(A) of this title, for which a student may be eligible for each award year" for "the maximum Federal Pell Grant for each award year".
 
-<b>2009</b>—Subsec. (b)(2). Pub. L. 111–39 substituted “commonly known as the ‘Family Educational Rights and Privacy Act of 1974’ ” for “the Family Educational Rights and Privacy Act of 1974”.
+<b>2009</b>—Subsec. (b)(2). Pub. L. 111–39 substituted "commonly known as the 'Family Educational Rights and Privacy Act of 1974' " for "the Family Educational Rights and Privacy Act of 1974".
 
 #### Effective Date of 2010 Amendment
 

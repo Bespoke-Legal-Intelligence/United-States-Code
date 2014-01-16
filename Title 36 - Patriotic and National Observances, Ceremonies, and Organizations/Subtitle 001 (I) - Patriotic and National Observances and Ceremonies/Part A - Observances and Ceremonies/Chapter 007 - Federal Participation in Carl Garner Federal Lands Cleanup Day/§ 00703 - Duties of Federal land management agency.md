@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 27, 1986, Pub. L. 99–402, §4(a)(1), 100 Stat. 911; Nov. 12, 1996, Pub. L. 104–333, §806, 110 Stat. 4188.
 
-The word “authorities” is substituted for “agencies” for consistency in the revised title and with other titles of the United States Code.
+The word "authorities" is substituted for "agencies" for consistency in the revised title and with other titles of the United States Code.
 

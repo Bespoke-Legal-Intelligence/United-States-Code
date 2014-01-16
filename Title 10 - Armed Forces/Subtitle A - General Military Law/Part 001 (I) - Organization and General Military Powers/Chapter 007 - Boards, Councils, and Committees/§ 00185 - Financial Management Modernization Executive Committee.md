@@ -54,11 +54,11 @@ Management Plan for Implementation of Financial Data Feeder Systems Compliance P
 
 (d)
 
-Data Feeder Systems.—In this section, the term “data feeder system” means an automated or manual system from which information is derived for a financial management system or an accounting system.
+Data Feeder Systems.—In this section, the term "data feeder system" means an automated or manual system from which information is derived for a financial management system or an accounting system.
 
 (Added Pub. L. 107–107, div. A, title X, §1009(a)(1), Dec. 28, 2001, 115 Stat. 1206; amended Pub. L. 107–314, div. A, title X, §1004(h)(2), Dec. 2, 2002, 116 Stat. 2631.)
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–314 substituted “means an automated or manual system from which information is derived for a financial management system or an accounting system” for “has the meaning given that term in section 2222(c)(2) of this title”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–314 substituted "means an automated or manual system from which information is derived for a financial management system or an accounting system" for "has the meaning given that term in section 2222(c)(2) of this title".
 

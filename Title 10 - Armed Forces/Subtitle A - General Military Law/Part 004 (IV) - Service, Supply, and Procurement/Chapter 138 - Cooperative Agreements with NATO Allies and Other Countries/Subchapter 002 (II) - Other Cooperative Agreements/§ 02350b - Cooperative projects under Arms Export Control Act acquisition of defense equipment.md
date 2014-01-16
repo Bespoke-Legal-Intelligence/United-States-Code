@@ -4,7 +4,7 @@
 
 (2) Except as provided in subsection (c), chapter 137 of this title shall apply to such contracts (referred to in paragraph (1)) entered into by the Secretary of Defense. Except to the extent waived under subsection (c) or some other provision of law, all other provisions of law relating to procurement, if otherwise applicable, shall apply to such contracts entered into by the Secretary of Defense.
 
-(b) When contracting or incurring obligations under section 27(d) of the Arms Export ControlAct for cooperative projects, the Secretary of Defense may require subcontracts to be awarded to particular subcontractors in furtherance of the cooperative project.
+(b) When contracting or incurring obligations under section 27(d) of the Arms Export Control Act for cooperative projects, the Secretary of Defense may require subcontracts to be awarded to particular subcontractors in furtherance of the cooperative project.
 
 (c)(1) Subject to paragraph (2), when entering into contracts or incurring obligations under section 27(d) of the Arms Export Control Act outside the United States, the Secretary of Defense may waive with respect to any such contract or subcontract the application of any provision of law, other than a provision of the Arms Export Control Act or section 2304 of this title, that specifically prescribes—
 
@@ -46,31 +46,31 @@ The Arms Export Control Act, referred to in subsec. (c)(1), is Pub. L. 90–629,
 
 #### Amendments
 
-<b>2006</b>—Subsec. (g)(2). Pub. L. 109–304 substituted “section 55305 of title 46” for “section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b))”.
+<b>2006</b>—Subsec. (g)(2). Pub. L. 109–304 substituted "section 55305 of title 46" for "section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b))".
 
-<b>2004</b>—Subsec. (g). Pub. L. 108–375, §1084(d)(19)(A), inserted “the Secretary of Defense” after “authorizing” in introductory provisions.
+<b>2004</b>—Subsec. (g). Pub. L. 108–375, §1084(d)(19)(A), inserted "the Secretary of Defense" after "authorizing" in introductory provisions.
 
-Subsec. (g)(1). Pub. L. 108–375, §1084(d)(19)(B), struck out “the Secretary of Defense” before “to waive”.
+Subsec. (g)(1). Pub. L. 108–375, §1084(d)(19)(B), struck out "the Secretary of Defense" before "to waive".
 
-<b>1996</b>—Subsec. (c)(1). Pub. L. 104–106, §4321(b)(10)(A), inserted “prescribes” after “specifically” in introductory provisions and struck out “prescribe” before “procedures” in subpar. (A), before “terms” in subpar. (B), and before “requirements” in subpars. (C) and (D).
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–106, §4321(b)(10)(A), inserted "prescribes" after "specifically" in introductory provisions and struck out "prescribe" before "procedures" in subpar. (A), before "terms" in subpar. (B), and before "requirements" in subpars. (C) and (D).
 
-Subsec. (d)(1). Pub. L. 104–106, §4321(b)(10)(B), struck out “to” after “subcontract”.
+Subsec. (d)(1). Pub. L. 104–106, §4321(b)(10)(B), struck out "to" after "subcontract".
 
-Subsec. (e)(1). Pub. L. 104–106, §1335(1), inserted “or a NATO organization” after “United States)”.
+Subsec. (e)(1). Pub. L. 104–106, §1335(1), inserted "or a NATO organization" after "United States)".
 
-Subsec. (e)(2). Pub. L. 104–106, §1335(2), substituted “such a cooperative project or a NATO organization” for “a cooperative project”.
+Subsec. (e)(2). Pub. L. 104–106, §1335(2), substituted "such a cooperative project or a NATO organization" for "a cooperative project".
 
-<b>1989</b>—Pub. L. 101–189 renumbered section 2407 of this title as this section and substituted “Cooperative projects under Arms Export Control Act: acquisition of defense equipment” for “Acquisition of defense equipment under cooperative projects” as section catchline.
+<b>1989</b>—Pub. L. 101–189 renumbered section 2407 of this title as this section and substituted "Cooperative projects under Arms Export Control Act: acquisition of defense equipment" for "Acquisition of defense equipment under cooperative projects" as section catchline.
 
-<b>1986</b>—Pub. L. 99–661, §1103(b)(2)(A), struck out “North Atlantic Treaty Organization” before “cooperative projects” in section catchline.
+<b>1986</b>—Pub. L. 99–661, §1103(b)(2)(A), struck out "North Atlantic Treaty Organization" before "cooperative projects" in section catchline.
 
-Subsec. (a)(1). Pub. L. 99–661, §1103(b)(1)(A), struck out “North Atlantic Treaty Organization (NATO)” before “cooperative projects”.
+Subsec. (a)(1). Pub. L. 99–661, §1103(b)(1)(A), struck out "North Atlantic Treaty Organization (NATO)" before "cooperative projects".
 
-Subsec. (c)(2). Pub. L. 99–661, §1103(b)(1)(B), struck out “NATO” after “will significantly further”.
+Subsec. (c)(2). Pub. L. 99–661, §1103(b)(1)(B), struck out "NATO" after "will significantly further".
 
-Subsec. (e). Pub. L. 99–661, §1103(b)(1)(C), struck out “NATO” after “will significantly further” in par. (1) and after “United States) in a” in par. (2).
+Subsec. (e). Pub. L. 99–661, §1103(b)(1)(C), struck out "NATO" after "will significantly further" in par. (1) and after "United States) in a" in par. (2).
 
-Subsec. (g)(2). Pub. L. 99–661, §1343(a)(15), substituted “section 2631 of this title and section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b))” for “the Military Cargo Preference Act of 1904 (10 U.S.C. 2631) and the Cargo Preference Act of 1954 (46 U.S.C. 1241(b))”.
+Subsec. (g)(2). Pub. L. 99–661, §1343(a)(15), substituted "section 2631 of this title and section 901(b) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b))" for "the Military Cargo Preference Act of 1904 (10 U.S.C. 2631) and the Cargo Preference Act of 1954 (46 U.S.C. 1241(b))".
 
 #### Effective Date of 1996 Amendment
 

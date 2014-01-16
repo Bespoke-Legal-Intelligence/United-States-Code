@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-To the extent that amounts are made available for providing service coordinators under this section, the Secretary shall require owners of covered federally assisted housing projects (as such term is defined in subsection (d) of this section) receiving such amounts to provide for employing or otherwise retaining the services of one or more individuals to coordinate the provision of supportive services for elderly and disabled families residing in the projects (in this section referred to as a “service coordinator”). No such elderly or disabled family may be required to accept services.
+To the extent that amounts are made available for providing service coordinators under this section, the Secretary shall require owners of covered federally assisted housing projects (as such term is defined in subsection (d) of this section) receiving such amounts to provide for employing or otherwise retaining the services of one or more individuals to coordinate the provision of supportive services for elderly and disabled families residing in the projects (in this section referred to as a "service coordinator"). No such elderly or disabled family may be required to accept services.
 
 #### (b) Responsibilities
 
 Each service coordinator of a covered federally assisted housing project provided pursuant to this subtitle <sup>1</sup> or the amendments made by this subtitle— <sup>1</sup>
 
-&emsp;(1) shall consult with the owner of the housing, tenants, any tenant organizations, anyresident management organizations, service providers, and any other appropriate persons, to identify the particular needs and characteristics of elderly and disabled families who reside in the project and any supportive services related to such needs and characteristics;
+&emsp;(1) shall consult with the owner of the housing, tenants, any tenant organizations, any resident management organizations, service providers, and any other appropriate persons, to identify the particular needs and characteristics of elderly and disabled families who reside in the project and any supportive services related to such needs and characteristics;
 
 &emsp;(2) shall manage and coordinate the provision of such services for residents of the project;
 
@@ -24,7 +24,7 @@ Supportive services referred to under subsection (b)(1) of this section may incl
 
 #### (d) Covered federally assisted housing
 
-For purposes of this subtitle,<sup>1</sup> the term “covered federally assisted housing” means housing that is federally assisted housing (as such term is defined in section 13641(2) of this title), except that such term does not include housing described in subparagraphs (C) and (D) of such section.
+For purposes of this subtitle,<sup>1</sup> the term "covered federally assisted housing" means housing that is federally assisted housing (as such term is defined in section 13641(2) of this title), except that such term does not include housing described in subparagraphs (C) and (D) of such section.
 
 #### (e) Services for low-income elderly or disabled families residing in vicinity of certain projects
 
@@ -56,7 +56,7 @@ To the extent only that this section applies to service coordinators for covered
 
 &emsp;&emsp;(B) provides such other information as the Secretary considers necessary to protect such residents against fraudulent telemarketing; and
 
-&emsp;&emsp;(C) disseminates the information provided by appropriate means, and in determining such appropriate means, the Secretary shall consider on-site presentations at federally assisted housing, public service announcements, a printed manual or pamphlet, an Internet website, and telephone outreach to residents whose names appear on “mooch lists” confiscated from fraudulent telemarketers.
+&emsp;&emsp;(C) disseminates the information provided by appropriate means, and in determining such appropriate means, the Secretary shall consider on-site presentations at federallyassisted housing, public service announcements, a printed manual or pamphlet, an Internet website, and telephone outreach to residents whose names appear on "mooch lists" confiscated from fraudulent telemarketers.
 
 (Pub. L. 102–550, title VI, §671, Oct. 28, 1992, 106 Stat. 3826; Pub. L. 106–569, title VIII, §851(b), (c)(2), Dec. 27, 2000, 114 Stat. 3024.)
 
@@ -66,11 +66,11 @@ This subtitle, referred to in subsecs. (b) and (d), means subtitle E of title VI
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–569, §851(b)(1), in first sentence, substituted “for providing service coordinators under this section,” for “to carry out this subtitle pursuant to the amendments made by this subtitle,”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–569, §851(b)(1), in first sentence, substituted "for providing service coordinators under this section," for "to carry out this subtitle pursuant to the amendments made by this subtitle,".
 
-Subsec. (c). Pub. L. 106–569, §851(c)(2)(A), in first sentence, inserted “education and outreach regarding telemarketing fraud in accordance with the standards issued under subsection (f) of this section,” after “response,”.
+Subsec. (c). Pub. L. 106–569, §851(c)(2)(A), in first sentence, inserted "education and outreach regarding telemarketing fraud in accordance with the standards issued under subsection (f) of this section," after "response,".
 
-Subsec. (d). Pub. L. 106–569, §851(b)(2), inserted closing parenthesis after “section 13641(2) of this title”.
+Subsec. (d). Pub. L. 106–569, §851(b)(2), inserted closing parenthesis after "section 13641(2) of this title".
 
 Subsec. (e). Pub. L. 106–569, §851(b)(3), added subsec. (e).
 

@@ -4,19 +4,19 @@ In this subchapter:
 
 #### (1) At-risk infant or toddler
 
-&emsp;The term “at-risk infant or toddler” means an individual under 3 years of age who would be at risk of experiencing a substantial developmental delay if early intervention services were not provided to the individual.
+&emsp;The term "at-risk infant or toddler" means an individual under 3 years of age who wouldbe at risk of experiencing a substantial developmental delay if early intervention services were not provided to the individual.
 
 #### (2) Council
 
-&emsp;The term “council” means a State interagency coordinating council established under section 1441 of this title.
+&emsp;The term "council" means a State interagency coordinating council established under section 1441 of this title.
 
 #### (3) Developmental delay
 
-&emsp;The term “developmental delay”, when used with respect to an individual residing in a State, has the meaning given such term by the State under section 1435(a)(1) of this title.
+&emsp;The term "developmental delay", when used with respect to an individual residing in a State, has the meaning given such term by the State under section 1435(a)(1) of this title.
 
 #### (4) Early intervention services
 
-&emsp;The term “early intervention services” means developmental services that—
+&emsp;The term "early intervention services" means developmental services that—
 
 &emsp;&emsp;(A) are provided under public supervision;
 
@@ -98,7 +98,7 @@ In this subchapter:
 
 #### (5) Infant or toddler with a disability
 
-&emsp;The term “infant or toddler with a disability”—
+&emsp;The term "infant or toddler with a disability"—
 
 &emsp;&emsp;(A) means an individual under 3 years of age who needs early intervention services because the individual—
 
@@ -122,5 +122,5 @@ In this subchapter:
 
 A prior section 1432, Pub. L. 91–230, title VI, §632, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 106, set out definitions for this subchapter, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
-Another prior section 1432, Pub. L. 91–230, title VI, §632, Apr. 13, 1970, 84 Stat. 184; Pub. L. 98–199, §§3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1371; Pub. L. 99–457, title III, §309, Oct. 8, 1986, 100 Stat. 1168; Pub. L. 100–630, title I, §104(c), Nov. 7, 1988, 102 Stat. 3298; Pub. L. 101–476, title IV, §402, title IX, §901(b)(143), Oct. 30, 1990, 104 Stat. 1132, 1148; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to grants to State educational agencies and institutions for traineeships, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+Another prior section 1432, Pub. L. 91–230, title VI, §632, Apr. 13, 1970, 84 Stat. 184; Pub. L. 98–199, §§3(b), 11, Dec. 2, 1983, 97 Stat. 1358, 1371; Pub. L. 99–457, title III, §309, Oct. 8, 1986, 100 Stat. 1168; Pub. L. 100–630, title I, §104(c), Nov. 7, 1988, 102 Stat. 3298; Pub. L. 101–476, title IV, §402, title IX, §901(b)(143), Oct. 30, 1990, 104 Stat.1132, 1148; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607, related to grants to State educational agencies and institutions for traineeships, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 

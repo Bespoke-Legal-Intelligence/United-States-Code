@@ -36,13 +36,13 @@ Exception to Reimbursement Requirement.—Notwithstanding subsection (a), in the
 
 Definitions.—In this section:
 
-&emsp;(1) The term “hazardous waste” has the meaning given that term by section 1004(5) of the Solid Waste Disposal Act (42 U.S.C. 6903(5)), except that such term also includes polychlorinated biphenyls.
+&emsp;(1) The term "hazardous waste" has the meaning given that term by section 1004(5) of the Solid Waste Disposal Act (42 U.S.C. 6903(5)), except that such term also includes polychlorinated biphenyls.
 
-&emsp;(2) The term “remedial action” has the meaning given that term by section 101(24) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(24)).
+&emsp;(2) The term "remedial action" has the meaning given that term by section 101(24) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9601(24)).
 
-&emsp;(3) The term “corrective action” has the meaning given that term under section 3004(u) of the Solid Waste Disposal Act (42 U.S.C. 6924(u)).
+&emsp;(3) The term "corrective action" has the meaning given that term under section 3004(u) of the Solid Waste Disposal Act (42 U.S.C. 6924(u)).
 
-&emsp;(4) The term “polychlorinated biphenyls” has the meaning given that term under section 6(e) of the Toxic Substances Control Act (15 U.S.C. 2605(e)).
+&emsp;(4) The term "polychlorinated biphenyls" has the meaning given that term under section 6(e) of the Toxic Substances Control Act (15 U.S.C. 2605(e)).
 
 (e)
 
@@ -56,15 +56,15 @@ The Solid Waste Disposal Act, referred to in subsec. (c)(2), is title II of Pub.
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b)(1). Pub. L. 103–160 substituted “fiscal years 1992 through 1996” for “fiscal years 1992 and 1993”.
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–160 substituted "fiscal years 1992 through 1996" for "fiscal years 1992 and 1993".
 
-<b>1992</b>—Subsec. (b)(1). Pub. L. 102–484, §1052(36)(A), substituted “each contract” for “all contracts” and “any subcontract under any such contract” for “all subcontracts under such contracts”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–484, §1052(36)(A), substituted "each contract" for "all contracts" and "any subcontract under any such contract" for "all subcontracts under such contracts".
 
-Pub. L. 102–484, §321, substituted “fiscal years 1992 and 1993” for “fiscal year 1992”.
+Pub. L. 102–484, §321, substituted "fiscal years 1992 and 1993" for "fiscal year 1992".
 
-Subsec. (d). Pub. L. 102–484, §1052(36)(B), substituted “In” for “For purposes of” in introductory provisions.
+Subsec. (d). Pub. L. 102–484, §1052(36)(B), substituted "In" for "For purposes of" in introductory provisions.
 
 #### Effective Date
 
-Pub. L. 102–190, div. A, title III, §331(b), Dec. 5, 1991, 105 Stat. 1340, provided that: “Section 2708 of title 10, United States Code, shall apply with respect to contracts entered into after the expiration of the 60-day period beginning on the date of the enactment of this Act \[Dec. 5, 1991\].”
+Pub. L. 102–190, div. A, title III, §331(b), Dec. 5, 1991, 105 Stat. 1340, provided that: "Section 2708 of title 10, United States Code, shall apply with respect to contracts entered into after the expiration of the 60-day period beginning on the date of the enactment of this Act \[Dec. 5, 1991\]."
 

@@ -6,7 +6,7 @@ It shall not be in order in the Senate or the House of Representatives to consid
 
 &emsp;(1) any bill or joint resolution that is reported by a committee unless the committee has published a statement of the Director on the direct costs of Federal mandates in accordance with section 658b(f) of this title before such consideration, except this paragraph shall not apply to any supplemental statement prepared by the Director under section 658c(d) of this title; and
 
-&emsp;(2) any bill, joint resolution, amendment, motion, or conference report that would increase the direct costs of Federal intergovernmental mandates by an amount that causesthe thresholds specified in section 658c(a)(1) of this title to be exceeded, unless—
+&emsp;(2) any bill, joint resolution, amendment, motion, or conference report that would increase the direct costs of Federal intergovernmental mandates by an amount that causes the thresholds specified in section 658c(a)(1) of this title to be exceeded, unless—
 
 &emsp;&emsp;(A) the bill, joint resolution, amendment, motion, or conference report provides new budget authority or new entitlement authority in the House of Representatives or direct spending authority in the Senate for each fiscal year for such mandates included in the bill, joint resolution, amendment, motion, or conference report in an amount equal to or exceeding the direct costs of such mandate; or
 
@@ -64,7 +64,7 @@ For purposes of this section, in the Senate, the presiding officer of the Senate
 
 #### (e) Determinations of Federal mandate levels
 
-For purposes of this section, in the Senate, the levels of Federal mandates for a fiscal year shallbe determined based on the estimates made by the Committee on the Budget.
+For purposes of this section, in the Senate, the levels of Federal mandates for a fiscal year shall be determined based on the estimates made by the Committee on the Budget.
 
 (Pub. L. 93–344, title IV, §425, as added Pub. L. 104–4, title I, §101(a)(2), Mar. 22, 1995, 109 Stat. 56.)
 

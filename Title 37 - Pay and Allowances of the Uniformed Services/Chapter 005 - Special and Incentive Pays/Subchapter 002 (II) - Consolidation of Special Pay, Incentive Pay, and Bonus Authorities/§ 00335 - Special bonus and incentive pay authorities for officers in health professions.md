@@ -102,7 +102,7 @@ Repayment.—An officer who receives a bonus or incentive pay under this section
 
 (j)
 
-Health Profession Defined.—In this section, the term “health profession” means the following:
+Health Profession Defined.—In this section, the term "health profession" means the following:
 
 &emsp;(1) Any health profession performed by officers in the Medical Corps of a uniformed service or by officers designated as a medical officer.
 
@@ -122,43 +122,45 @@ Health Profession Defined.—In this section, the term “health profession” m
 
 (k)
 
-Termination of Authority.—No agreement may be entered into under this section after December 31, 2013.
+Termination of Authority.—No agreement may be entered into under this section after December 31, 2014.
 
-(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 169; amended Pub. L. 110–417, \[div. A\], title VI, §618(c), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(5), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §614(5), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(5), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(5), Jan. 2, 2013, 126 Stat. 1777.)
+(Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 169; amended Pub. L. 110–417, \[div. A\], title VI, §618(c), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title VI, §614(5), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §614(5), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §614(5), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §614(5), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §614(5), Dec. 26, 2013, 127 Stat. 781.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (k). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+<b>2013</b>—Subsec. (k). Pub. L. 113–66 substituted "December 31, 2014" for "December 31, 2013".
 
-<b>2011</b>—Subsec. (k). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (k). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-<b>2009</b>—Subsec. (k). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-<b>2008</b>—Subsec. (e)(1)(D)(i). Pub. L. 110–417 substituted “dental officers” for “dental surgeons”.
+<b>2009</b>—Subsec. (k). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
+
+<b>2008</b>—Subsec. (e)(1)(D)(i). Pub. L. 110–417 substituted "dental officers" for "dental surgeons".
 
 #### Targeted Bonus Authority To Increase Direct Accessions
 
 Pub. L. 110–417, \[div. A\], title VI, §620(a), Oct. 14, 2008, 122 Stat. 4489, provided that:
 
-“(1)
+"(1)
 
 Designation of critically short wartime health specialties.—For purposes of section 335 of title 37, United States Code, as added by section 661 of the National Defense Authorization Act for Fiscal Year 2008 (Public Law 110–181; 122 Stat. 169), the following health professions are designated as a critically short wartime specialty under subsection (a)(2) of such section:
 
-&emsp;“(A) Psychologists who have been awarded a diploma as a Diplomate in Psychology by the American Board of Professional Psychology and are fully licensed and such other mental health practitioners as the Secretary concerned determines to be necessary.
+&emsp;"(A) Psychologists who have been awarded a diploma as a Diplomate in Psychology by the American Board of Professional Psychology and are fully licensed and such other mental health practitioners as the Secretary concerned determines to be necessary.
 
-&emsp;“(B) Registered nurses.
+&emsp;"(B) Registered nurses.
 
-“(2)
+"(2)
 
 Special agreement authority.—Under the authority provided by this section \[enacting this note and section 302c–1 of this title\], the Secretary concerned may enter into an agreement under subsection (f) of section 335 of title 37, United States Code, to pay a health professions bonus under such section to a person who accepts a commission or appointment as an officer and whose health profession specialty is specified in paragraph (1) of this subsection.
 
-“(3)
+"(3)
 
-Secretary concerned defined.—In this subsection, the term ‘Secretary concerned’ has the meaning given that term in section 101(5) of title 37, United States Code.
+Secretary concerned defined.—In this subsection, the term 'Secretary concerned' has the meaning given that term in section 101(5) of title 37, United States Code.
 
-“(4)
+"(4)
 
-Effective period.—The designations made by this subsection and the authority to enter into an agreement under paragraph (2) of this subsection expire on September 30, 2010.”
+Effective period.—The designations made by this subsection and the authority to enter into an agreement under paragraph (2) of this subsection expire on September 30, 2010."
 

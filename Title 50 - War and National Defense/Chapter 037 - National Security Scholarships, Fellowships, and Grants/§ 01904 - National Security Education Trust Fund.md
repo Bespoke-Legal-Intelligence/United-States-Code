@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Fund
 
-There is established in the Treasury of the United States a trust fund to be known as the “National Security Education Trust Fund”. The assets of the Fund consist of amounts appropriated to the Fund and amounts credited to the Fund under subsection (e) of this section.
+There is established in the Treasury of the United States a trust fund to be known as the "National Security Education Trust Fund". The assets of the Fund consist of amounts appropriated to the Fund and amounts credited to the Fund under subsection (e) of this section.
 
 #### (b) Availability of sums in Fund
 
@@ -14,7 +14,7 @@ Sums in the Fund shall, to the extent provided in appropriations Acts, be availa
 
 #### (c) Investment of Fund assets
 
-The Secretary of the Treasury shall invest in full the amount in the Fund that is not immediately necessary for expenditure. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose, such obligations may be acquired on original issue at the issue price or by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of special obligations exclusively to the Fund. Such special obligations shall bear interest at a rate equal to the average rate of interest, computed as to the end of the calendar month next preceding the date of such issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt, except that where such average rate is not a multiple of 1/8 of 1 percent, the rate of interest of such special obligations shall be the multiple of 1/8 of 1 percent next lower than such average rate. Such special obligations shall be issued only if the Secretary of the Treasury determines that the purchases of other interest-bearing obligations of the United States, or of obligations guaranteed as to both principal and interest by the United States or original issue or at the market price, is not in the public interest.
+The Secretary of the Treasury shall invest in full the amount in the Fund that is not immediately necessary for expenditure. Such investments may be made only in interest-bearing obligations of the United States or in obligations guaranteed as to both principal and interest by the United States. For such purpose, such obligations may be acquired on original issue at the issue price or by purchase of outstanding obligations at the market price. The purposes for which obligations of the United States may be issued under chapter 31 of title 31 are hereby extended to authorize the issuance at par of special obligations exclusively to the Fund. Such special obligations shall bear interest at a rate equal to the average rate of interest, computed as to the end of the calendar month next preceding the date of such issue, borne by all marketable interest-bearing obligations of the United States then forming a part of the public debt, except that where such average rate is not amultiple of 1/8 of 1 percent, the rate of interest of such special obligations shall be the multiple of 1/8 of 1 percent next lower than such average rate. Such special obligations shall be issued only if the Secretary of the Treasury determines that the purchases of other interest-bearing obligations of the United States, or of obligations guaranteed as to both principal and interest by the United States or original issue or at the market price, is not in the public interest.
 
 #### (d) Authority to sell obligations
 
@@ -32,9 +32,9 @@ Any obligation acquired by the Fund (except special obligations issued exclusive
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–160, §375(b), struck out “(1)” before “Sums in the Fund”, redesignated former subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: “No amount may be appropriated to the Fund, or obligated from the Fund, unless authorized by law.”
+<b>1993</b>—Subsec. (b). Pub. L. 103–160, §375(b), struck out "(1)" before "Sums in the Fund", redesignated former subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former par. (2) which read as follows: "No amount may be appropriated to the Fund, or obligated from the Fund, unless authorized by law."
 
 Subsec. (e)(3). Pub. L. 103–160, §375(a), added par. (3).
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–496 substituted “expenditure” for “obligation” in first sentence.
+<b>1992</b>—Subsec. (c). Pub. L. 102–496 substituted "expenditure" for "obligation" in first sentence.
 

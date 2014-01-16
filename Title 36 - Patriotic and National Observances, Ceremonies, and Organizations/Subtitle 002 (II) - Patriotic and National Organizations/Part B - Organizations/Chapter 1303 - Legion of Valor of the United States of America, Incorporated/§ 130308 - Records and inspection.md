@@ -32,5 +32,5 @@ Historical and Revision Notes
 
 Aug. 4, 1955, ch. 546, §13, 69 Stat. 489.
 
-The word “records” is substituted for “books and records” for consistency in the revised title and to eliminate unnecessary words.
+The word "records" is substituted for "books and records" for consistency in the revised title and to eliminate unnecessary words.
 

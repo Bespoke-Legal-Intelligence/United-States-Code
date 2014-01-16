@@ -32,5 +32,5 @@ Compliance With Code.—Regulations prescribed under this section shall be consi
 
 <b>2010</b>—Subsec. (c). Pub. L. 111–281 added subsec. (c).
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–293 substituted “vessels to which this chapter applies under section 3202(a) of this title” for “vessels engaged on a foreign voyage”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–293 substituted "vessels to which this chapter applies under section 3202(a) of this title" for "vessels engaged on a foreign voyage".
 

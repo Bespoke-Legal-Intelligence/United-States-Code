@@ -26,7 +26,7 @@
 
 #### (5) Dredged material disposal facilities for project construction
 
-&emsp;In this subsection, the term “general navigation features” includes constructed land-based and aquatic dredged material disposalfacilities that are necessary for the disposal of dredged material required for project construction and for which a contract for construction has not been awarded on or before October 12, 1996.
+&emsp;In this subsection, the term "general navigation features" includes constructed land-based and aquatic dredged material disposal facilities that are necessary for the disposal of dredged material required for project construction and for which a contract for construction has not been awarded on or before October 12, 1996.
 
 #### (b) Operation and maintenance
 
@@ -76,67 +76,67 @@ This Act, referred to in subsec. (b)(1), is Pub. L. 99–662, Nov. 17, 1986, 100
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–303, §201(a)(1), inserted last sentence and struck out former last sentence which read as follows: “The value of lands, easements, rights-of-way, relocations, and dredged material disposal areas provided under paragraph (3) and the costs of relocations borne by the non-Federal interests under paragraph (4) shall be credited toward the payment required under this paragraph.”
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–303, §201(a)(1), inserted last sentence and struck out former last sentence which read as follows: "The value of lands, easements, rights-of-way, relocations, and dredged material disposal areas provided under paragraph (3) and the costs of relocations borne by the non-Federal interests under paragraph (4) shall be credited toward the payment required under this paragraph."
 
-Subsec. (a)(3). Pub. L. 104–303, §201(a)(2), inserted “and” after “rights-of-way,”, struck out “, and dredged material disposal areas” after “relocations under paragraph (4))”, and inserted before period at end “, including any lands, easements, rights-of-way, and relocations (other than utility relocations accomplished under paragraph (4)) that are necessary for dredged material disposal facilities”.
+Subsec. (a)(3). Pub. L. 104–303, §201(a)(2), inserted "and" after "rights-of-way,", struck out ", and dredged material disposal areas" after "relocations under paragraph (4))", and inserted before period at end ", including any lands, easements, rights-of-way, and relocations (other than utility relocations accomplished under paragraph (4)) that are necessary for dredged material disposal facilities".
 
 Subsec. (a)(5). Pub. L. 104–303, §201(a)(3), added par. (5).
 
-Subsec. (b). Pub. L. 104–303, §201(b), designated existing provisions as par. (1), inserted heading, realigned margins, and substituted “by the Secretary pursuant to this Act or any other law approved after November 17, 1986” for “pursuant to this Act”, and added par. (2).
+Subsec. (b). Pub. L. 104–303, §201(b), designated existing provisions as par. (1), inserted heading, realigned margins, and substituted "by the Secretary pursuant to this Act or any other law approved after November 17, 1986" for "pursuant to this Act", and added par. (2).
 
-Subsec. (e)(1). Pub. L. 104–303, §201(c), substituted “including those necessary for dredged material disposal facilities,” for “and to provide dredged material disposal areas”.
+Subsec. (e)(1). Pub. L. 104–303, §201(c), substituted "including those necessary for dredged material disposal facilities," for "and to provide dredged material disposal areas".
 
 Subsec. (f). Pub. L. 104–303, §201(d), added subsec. (f).
 
-<b>1992</b>—Subsec. (a)(3). Pub. L. 102–580 substituted “Except as provided under section 906(c), the non-Federal” for “The non-Federal”.
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–580 substituted "Except as provided under section 906(c), the non-Federal" for "The non-Federal".
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–676 added par. (2) and struck out former par. (2) which read as follows: “The non-Federal interests for a project to which paragraph (1) applies shall pay an additional 10 percent of the cost of the general navigation features of the project in cash over a period not to exceed 30 years, at an interest rate determined pursuant to section 2216 of this title. The value of lands, easements, rights-of-way, relocations, and dredged material disposal areas provided under paragraph (3) shall be credited toward the payment required under this paragraph.”
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–676 added par. (2) and struck out former par. (2) which read as follows: "The non-Federal interests for a project to which paragraph (1) applies shall pay an additional 10 percent of the cost of the general navigation features of the project in cash over a period not to exceed 30 years, at an interest rate determined pursuant to section 2216 of this title. The value of lands, easements, rights-of-way, relocations, and dredged material disposal areas provided under paragraph (3) shall be credited toward the payment required under this paragraph."
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–676, §13(b), Nov. 17, 1988, 102 Stat. 4026, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on November 17, 1986.”
+Pub. L. 100–676, §13(b), Nov. 17, 1988, 102 Stat. 4026, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on November 17, 1986."
 
 #### Deep Draft Harbor Cost Sharing
 
 Pub. L. 106–53, title IV, §401, Aug. 17, 1999, 113 Stat. 322, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary shall undertake a study of non-Federal cost-sharing requirements for the construction and operation and maintenance of deep draft harbor projects to determine whether—
 
-&emsp;“(1) cost sharing adversely affects United States port development or domestic and international trade; and
+&emsp;"(1) cost sharing adversely affects United States port development or domestic and international trade; and
 
-&emsp;“(2) any revision of the cost-sharing requirements would benefit United States domestic and international trade.
+&emsp;"(2) any revision of the cost-sharing requirements would benefit United States domestic and international trade.
 
-“(b)
+"(b)
 
 Recommendations.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than May 30, 2001, the Secretary shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives any recommendations that the Secretary may have in light of the study under subsection (a).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Considerations.—In making recommendations, the Secretary shall consider—
 
-&emsp;&emsp;“(A) the potential economic, environmental, and budgetary impacts of any proposed revision of the cost-sharing requirements; and
+&emsp;&emsp;"(A) the potential economic, environmental, and budgetary impacts of any proposed revision of the cost-sharing requirements; and
 
-&emsp;&emsp;“(B) the effect that any such revision would have on regional port competition.”
+&emsp;&emsp;"(B) the effect that any such revision would have on regional port competition."
 
 #### Amendment of Cooperation Agreement
 
-Pub. L. 104–303, title II, §201(f), Oct. 12, 1996, 110 Stat. 3673, provided that: “If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act \[Oct. 12, 1996\] to reflect the application of the amendments made by this section \[amending this section and section 2241 of this title\] to any project for which a contract for construction has not been awarded on or before that date.”
+Pub. L. 104–303, title II, §201(f), Oct. 12, 1996, 110 Stat. 3673, provided that: "If requested by the non-Federal interest, the Secretary shall amend a project cooperation agreement executed on or before the date of the enactment of this Act \[Oct. 12, 1996\] to reflect the application of the amendments made by this section \[amending this section and section 2241 of this title\] to any project for which a contract for construction has not been awarded on or before that date."
 
 #### Increases in Non-Federal Share of Costs
 
-Pub. L. 104–303, title II, §201(g), Oct. 12, 1996, 110 Stat. 3673, provided that: “Nothing in this section \[amending this section and section 2241 of this title and enacting provisions set out above\] (including the amendments made by this section) shall increase, or result in the increase of, the non-Federal share of the costs of—
+Pub. L. 104–303, title II, §201(g), Oct. 12, 1996, 110 Stat. 3673, provided that: "Nothing in this section \[amending this section and section 2241 of this title and enacting provisions set out above\] (including the amendments made by this section) shall increase, or result in the increase of, the non-Federal share of the costs of—
 
-&emsp;“(1) expanding any confined dredged material disposal facility that is operated by the Secretary and that is authorized for cost recovery through the collection of tolls;
+&emsp;"(1) expanding any confined dredged material disposal facility that is operated by the Secretary and that is authorized for cost recovery through the collection of tolls;
 
-&emsp;“(2) any confined dredged material disposal facility for which the invitation for bids for construction was issued before the date of the enactment of this Act \[Oct. 12, 1996\]; and
+&emsp;"(2) any confined dredged material disposal facility for which the invitation for bids for construction was issued before the date of the enactment of this Act \[Oct. 12, 1996\]; and
 
-&emsp;“(3) expanding any confined dredged material disposal facility constructed under section 123 of the River and Harbor Act of 1970 (33 U.S.C. 1293a) if the capacity of the confined dredged material disposal facility was exceeded in less than 6 years.”
+&emsp;"(3) expanding any confined dredged material disposal facility constructed under section 123 of the River and Harbor Act of 1970 (33 U.S.C. 1293a) if the capacity of the confined dredged material disposal facility was exceeded in less than 6 years."
 
 #### Dredged Material Disposal Areas Study
 

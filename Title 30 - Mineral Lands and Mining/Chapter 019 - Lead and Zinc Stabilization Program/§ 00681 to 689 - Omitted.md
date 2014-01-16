@@ -16,7 +16,7 @@ Section 686, Pub. L. 87–347, §6, Oct. 3, 1961, 75 Stat. 768; Pub. L. 88–75,
 
 Section 687, Pub. L. 87–347, §7, Oct. 3, 1961, 75 Stat. 768; Pub. L. 89–238, §1(4), Oct. 5, 1965, 79 Stat. 925, provided that no payment be made under this chapter after Dec. 31, 1969, but permitted authorized payment only if application therefor was filed not later than Mar. 31, 1970.
 
-Section 688, Pub. L. 87–347, §8, Oct. 3, 1961, 75 Stat. 768, required annual reports to Congress on operations relating to stabilization payments (which terminated December 31, 1969) under this chapter not later than first day of March each year. See note for section 687 above.
+Section 688, Pub. L. 87–347, §8, Oct. 3, 1961, 75 Stat. 768, required annual reports to Congress on operations relating to stabilization payments (which terminatedDecember 31, 1969) under this chapter not later than first day of March each year. See note for section 687 above.
 
 Section 689, Pub. L. 87–347, §9, Oct. 3, 1961, 75 Stat. 768; Pub. L. 89–238, §1(5), Oct. 5, 1965, 79 Stat. 925, related to penalties for procuring a stabilization payment (which terminated December 31, 1969) not entitled to under this chapter and civil and criminal liability for keeping a payment not entitled to under this chapter. See note for section 687 above.
 

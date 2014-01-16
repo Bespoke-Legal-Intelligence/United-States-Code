@@ -91,7 +91,7 @@
 | [1984\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001984%20-%20Taxation.md) | Taxation. |
 | [1985\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001985%20-%20Security%20servicing.md) | Security servicing. |
 | [1986\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001986%20-%20Conflicts%20of%20interests.md) | Conflicts of interests. |
-| [1987\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001987%20-%20Debt%20adjustment%20and%20credit%20counseling%3B%20%E2%80%9Csummary%20period%E2%80%9D%20defined%3B%20loan%20summary%20statements.md) | Debt adjustment and credit counseling; “summary period” defined; loan summary statements. |
+| [1987\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001987%20-%20Debt%20adjustment%20and%20credit%20counseling%3B%20summary%20period%20defined%3B%20loan%20summary%20statements.md) | Debt adjustment and credit counseling; "summary period" defined; loan summary statements. |
 | [1988\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001988%20-%20Appropriations.md) | Appropriations. |
 | [1989\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001989%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [1990\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001990%20-%20Transfer%20of%20lands%20to%20Secretary.md) | Transfer of lands to Secretary. |

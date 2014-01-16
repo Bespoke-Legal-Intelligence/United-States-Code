@@ -2,7 +2,7 @@
 
 (a)
 
-General Officers.—Within 30 days after a reserve officer of the Army or the Air Force on the reserve active-status list in a general officer grade ceases to occupy a position commensurate with that grade (or commensurate with a higher grade), the Secretary concerned shall transfer or discharge the officer in accordance with whichever of the following the officer elects:
+General Officers.—Within 30 days after a reserve officer of the Army or the Air Force on the reserve active-status list in a general officer grade ceases to occupy a position commensurate with that grade (or commensurate with a highergrade), the Secretary concerned shall transfer or discharge the officer in accordance with whichever of the following the officer elects:
 
 &emsp;(1) Transfer the officer in grade to the Retired Reserve, if the officer is qualified and applies for the transfer.
 
@@ -38,5 +38,5 @@ Provisions similar to those in this section were contained in sections 3375, 837
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(2)(B). Pub. L. 104–201 struck out “of the Air Force” after “reserve officer”.
+<b>1996</b>—Subsec. (b)(2)(B). Pub. L. 104–201 struck out "of the Air Force" after "reserve officer".
 

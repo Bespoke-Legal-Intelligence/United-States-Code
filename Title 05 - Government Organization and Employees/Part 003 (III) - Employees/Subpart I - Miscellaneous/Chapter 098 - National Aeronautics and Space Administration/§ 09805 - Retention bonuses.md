@@ -6,7 +6,7 @@
 
 &emsp;(2) the employee would be likely to leave in the absence of a retention bonus.
 
-(b) If the position is described as addressing a critical need in the workforce plan under section9802(b)(2)(A), the amount of a bonus may not exceed 50 percent of the employee's annual rate of basic pay (including comparability payments under sections 5304 and 5304a).
+(b) If the position is described as addressing a critical need in the workforce plan under section 9802(b)(2)(A), the amount of a bonus may not exceed 50 percent of the employee's annual rate of basic pay (including comparability payments under sections 5304 and 5304a).
 
 (c) If the position is not described as addressing a critical need in the workforce plan under section 9802(b)(2)(A), the amount of a bonus may not exceed 25 percent of the employee's annual rate of basic pay (excluding comparability payments under sections 5304 and 5304a).
 

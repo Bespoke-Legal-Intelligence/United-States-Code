@@ -38,7 +38,7 @@ The Individuals with Disabilities Education Act, referred to in subsecs. (c)(1),
 
 #### Amendments
 
-<b>2004</b>—Subsec. (d)(2). Pub. L. 108–446 substituted “section 602” for “section 602(a)(19)”.
+<b>2004</b>—Subsec. (d)(2). Pub. L. 108–446 substituted "section 602" for "section 602(a)(19)".
 
 #### Effective Date
 

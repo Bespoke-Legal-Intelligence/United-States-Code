@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [13201\.](%C2%A7%2013201%20-%20%E2%80%9CSecretary%E2%80%9D%20defined.md) | “Secretary” defined. |
+| [13201\.](%C2%A7%2013201%20-%20Secretary%20defined.md) | "Secretary" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -319,7 +319,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 13201 - &#8220;Secretary&#8221; defined](%C2%A7%2013201%20-%20%E2%80%9CSecretary%E2%80%9D%20defined.md)
+- [&sect; 13201 - Secretary defined](%C2%A7%2013201%20-%20Secretary%20defined.md)
 - [Subchapter 001 (I) - Alternative Fuels&#8212;General](Subchapter%20001%20%28I%29%20-%20Alternative%20Fuels%E2%80%94General/README.md)
 - [Subchapter 002 (II) - Alternative Fuels&#8212;Non-Federal Programs](Subchapter%20002%20%28II%29%20-%20Alternative%20Fuels%E2%80%94Non-Federal%20Programs/README.md)
 - [Subchapter 003 (III) - Availability and Use of Replacement Fuels, Alternative Fuels, and Alternative Fueled Private Vehicles](Subchapter%20003%20%28III%29%20-%20Availability%20and%20Use%20of%20Replacement%20Fuels%2C%20Alternative%20Fuels%2C%20and%20Alternative%20Fueled%20Private%20Vehicles/README.md)

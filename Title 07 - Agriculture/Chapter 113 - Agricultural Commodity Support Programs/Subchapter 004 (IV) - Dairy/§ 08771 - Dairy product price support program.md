@@ -2,7 +2,7 @@
 
 #### (a) Definition of net removals
 
-In this section, the term “net removals” means—
+In this section, the term "net removals" means—
 
 &emsp;(1) the sum of—
 
@@ -44,7 +44,7 @@ To carry out subsection (b) during the period specified in that subsection, the 
 
 #### (4) Butter inventories in excess of 450,000,000 pounds
 
-&emsp;If net removals for a period of 12 consecutive months exceed 450,000,000 pounds of butter, butdo not exceed 650,000,000 pounds, the Secretary may reduce the purchase price under subsection (c)(3) during the immediately following month by not more than 10 cents per pound.
+&emsp;If net removals for a period of 12 consecutive months exceed 450,000,000 pounds of butter, but do not exceed 650,000,000 pounds, the Secretary may reduce the purchase price under subsection (c)(3) during the immediately following month by not more than 10 cents per pound.
 
 #### (5) Butter inventories in excess of 650,000,000 pounds
 

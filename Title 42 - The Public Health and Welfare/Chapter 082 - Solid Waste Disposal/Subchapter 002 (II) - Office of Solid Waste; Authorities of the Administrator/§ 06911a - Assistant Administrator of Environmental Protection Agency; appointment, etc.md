@@ -16,7 +16,7 @@ Section was enacted as part of the Comprehensive Environmental Response, Compens
 
 #### Amendments
 
-<b>1983</b>—Pub. L. 98–80 struck out “, and shall be compensated at the rate provided for Level IV of the Executive Schedule pay rates under section 5315 of title 5” after “advice and consent of the Senate”.
+<b>1983</b>—Pub. L. 98–80 struck out ", and shall be compensated at the rate provided for Level IV of the Executive Schedule pay rates under section 5315 of title 5" after "advice and consent of the Senate".
 
 #### Effective Date
 

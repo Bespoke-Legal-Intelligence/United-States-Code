@@ -92,7 +92,7 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 #### Amendments
 
-<b>1996</b>—Subsec. (h). Pub. L. 104–109 substituted “under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)” for “(under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e))), as amended,”.
+<b>1996</b>—Subsec. (h). Pub. L. 104–109 substituted "under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)" for "(under the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e))), as amended,".
 
 #### Change of Name
 

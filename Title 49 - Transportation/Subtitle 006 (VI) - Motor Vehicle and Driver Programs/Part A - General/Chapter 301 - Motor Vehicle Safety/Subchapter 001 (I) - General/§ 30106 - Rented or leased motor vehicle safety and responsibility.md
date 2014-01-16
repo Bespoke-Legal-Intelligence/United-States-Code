@@ -26,11 +26,11 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Affiliate.—The term “affiliate” means a person other than the owner that directly or indirectly controls, is controlled by, or is under common control with the owner. In the preceding sentence, the term “control” means the power to direct the management and policies of a person whether through ownership of voting securities or otherwise.
+Affiliate.—The term "affiliate" means a person other than the owner that directly orindirectly controls, is controlled by, or is under common control with the owner. In the preceding sentence, the term "control" means the power to direct the management and policies of a person whether through ownership of voting securities or otherwise.
 
 &emsp;(2)
 
-Owner.—The term “owner” means a person who is—
+Owner.—The term "owner" means a person who is—
 
 &emsp;&emsp;(A) a record or beneficial owner, holder of title, lessor, or lessee of a motor vehicle;
 
@@ -40,7 +40,7 @@ Owner.—The term “owner” means a person who is—
 
 &emsp;(3)
 
-Person.—The term “person” means any individual, corporation, company, limited liability company, trust, association, firm, partnership, society, joint stock company, or any other entity.
+Person.—The term "person" means any individual, corporation, company, limited liability company, trust, association, firm, partnership, society, joint stock company, or any other entity.
 
 (Added Pub. L. 109–59, title X, §10208(a), Aug. 10, 2005, 119 Stat. 1935.)
 

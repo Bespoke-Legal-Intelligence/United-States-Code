@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “qualification requirement” means a requirement for testing or other quality assurance demonstration that must be completed by an offeror before award of a contract.
+Definition.—In this section, the term "qualification requirement" means a requirement for testing or other quality assurance demonstration that must be completed by an offeror before award of a contract.
 
 (b)
 
@@ -118,5 +118,5 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title III, §303C, formerly §303D, as added Pub. L. 98–577, title II, §202(a), Oct. 30, 1984, 98 Stat. 3069; renumbered §303C, Pub. L. 99–145, title XIII, §1304(c)(4)(A), Nov. 8, 1985, 99 Stat. 742.
 
-In subsection (d)(1)(A), the words “in the Commerce Business Daily” are omitted as obsolete. See revision note for section 1708(d) of the revised title.
+In subsection (d)(1)(A), the words "in the Commerce Business Daily" are omitted as obsolete. See revision note for section 1708(d) of the revised title.
 

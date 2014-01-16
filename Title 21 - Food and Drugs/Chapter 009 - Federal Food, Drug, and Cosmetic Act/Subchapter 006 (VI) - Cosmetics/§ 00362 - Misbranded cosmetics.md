@@ -18,7 +18,7 @@ A cosmetic shall be deemed to be misbranded—
 
 #### Amendments
 
-<b>1992</b>—Par. (e). Pub. L. 102–571 substituted “379e” for “376”.
+<b>1992</b>—Par. (e). Pub. L. 102–571 substituted "379e" for "376".
 
 <b>1970</b>—Par. (f). Pub. L. 91–601 added par. (f).
 

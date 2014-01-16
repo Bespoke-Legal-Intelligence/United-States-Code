@@ -10,13 +10,13 @@ In carrying out the teacher training programs described in section 7267b(b)(2)(A
 
 &emsp;(1) train teachers who teach a grade from kindergarten through grade 12; and
 
-&emsp;(2) encourage teachers from disciplines other than economics and financial literacy to participate in such teacher training programs, if the training will promote the economic and financial literacy of those teachers’ students.
+&emsp;(2) encourage teachers from disciplines other than economics and financial literacy to participate in such teacher training programs, if the training will promote the economic and financial literacy of those teachers' students.
 
 #### (c) Involvement of business community
 
 In carrying out the activities assisted under this subpart, the grantee and recipients are strongly encouraged to—
 
-&emsp;(1) include interactions with the local business community to the fullest extent possible to reinforce the connection between economic and financial literacy and economic development; and
+&emsp;(1) include interactions with the local business community to the fullest extent possible to reinforce the connection between economicand financial literacy and economic development; and
 
 &emsp;(2) work with private businesses to obtain matching contributions for Federal funds and assist recipients in working toward self-sufficiency.
 

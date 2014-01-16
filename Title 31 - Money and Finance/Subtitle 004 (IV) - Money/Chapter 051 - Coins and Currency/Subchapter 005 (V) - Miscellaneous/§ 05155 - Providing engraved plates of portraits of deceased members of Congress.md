@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 July 1, 1916, ch. 209, §1(3d par. on p. 275), 39 Stat. 275.
 
-The words “terms and” are omitted as being included in “conditions”. The words “that have been or may be made” are omitted as unnecessary.
+The words "terms and" are omitted as being included in "conditions". The words "that have been or may be made" are omitted as unnecessary.
 

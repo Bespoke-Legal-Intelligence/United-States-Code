@@ -8,5 +8,5 @@ There is authorized to be appropriated not to exceed $500,000 for the fiscal yea
 
 <b>1972</b>—Pub. L. 92–604 authorized appropriations of $400,000 for fiscal years ending June 30, 1974, 1975, 1976, and 1977.
 
-<b>1970</b>—Pub. L. 91–451 substituted “for the period beginning July 1, 1969, and ending June 30, 1973” for “for the fiscal year ending June 30, 1970”.
+<b>1970</b>—Pub. L. 91–451 substituted "for the period beginning July 1, 1969, and ending June 30, 1973" for "for the fiscal year ending June 30, 1970".
 

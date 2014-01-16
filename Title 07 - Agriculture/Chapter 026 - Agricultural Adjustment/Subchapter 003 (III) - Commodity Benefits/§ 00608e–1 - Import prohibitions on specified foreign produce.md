@@ -44,15 +44,15 @@ The Secretary may proceed with the proposed prohibition or regulation if the Sec
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §10102, inserted “clementines,” after “nectarines,” in first sentence.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §10102, inserted "clementines," after "nectarines," in first sentence.
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–171 substituted “apples, or caneberries (including raspberries, blackberries, and loganberries)” for “or apples” in first sentence.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171 substituted "apples, or caneberries (including raspberries, blackberries, and loganberries)" for "or apples" in first sentence.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–624, §§1307, 1308(1), substituted “Subject to the provisions of subsections (c) and (d) of this section and notwithstanding any other provision of law,” for “Notwithstanding any other provision of law,” and “eggplants, kiwifruit, nectarines, plums, pistachios, or apples” for “or eggplants”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §§1307, 1308(1), substituted "Subject to the provisions of subsections (c) and (d) of this section and notwithstanding any other provision of law," for "Notwithstanding any other provision of law," and "eggplants, kiwifruit, nectarines, plums, pistachios, or apples" for "or eggplants".
 
 Subsecs. (c), (d). Pub. L. 101–624, §1308(2), added subsecs. (c) and (d).
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Effective Date of 1954 Amendment
 
-Act Aug. 31, 1954, ch. 1172, §3(b), 68 Stat. 1047, provided that: “The amendment made by this section \[amending this section\] shall become effective upon the enactment of this Act \[Aug. 31, 1954\] or upon the enactment of the Agricultural Act of 1954 \[Aug. 28, 1954\], whichever occurs later.”
+Act Aug. 31, 1954, ch. 1172, §3(b), 68 Stat. 1047, provided that: "The amendment made by this section \[amending this section\] shall become effective upon the enactment of this Act \[Aug. 31, 1954\] or upon the enactment of the Agricultural Act of 1954 \[Aug. 28, 1954\], whichever occurs later."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 

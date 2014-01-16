@@ -2,7 +2,7 @@
 
 As declared by the Congress in the Arms Control and Disarmament Act \[22 U.S.C. 2551 et seq.\], an ultimate goal of the United States continues to be a world which is free from the scourge of war and the dangers and burdens of armaments; in which the use of force has been subordinated to the rule of law; and in which international adjustments to a changing world are achieved peacefully. In furtherance of that goal, it remains the policy of the United States to encourage regional arms control and disarmament agreements and to discourage arms races.
 
-The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirements for effective and mutually beneficial defense relationships in order to maintain and foster the environment of international peace and security essential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of its legitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
+The Congress recognizes, however, that the United States and other free and independent countries continue to have valid requirements for effective and mutually beneficial defense relationships in order to maintain and foster theenvironment of international peace and security essential to social, economic, and political progress. Because of the growing cost and complexity of defense equipment, it is increasingly difficult and uneconomic for any country, particularly a developing country, to fill all of its legitimate defense requirements from its own design and production base. The need for international defense cooperation among the United States and those friendly countries to which it is allied by mutual defense treaties is especially important, since the effectiveness of their armed forces to act in concert to deter or defeat aggression is directly related to the operational compatibility of their defense equipment.
 
 Accordingly, it remains the policy of the United States to facilitate the common defense by entering into international arrangements with friendly countries which further the objective of applying agreed resources of each country to programs and projects of cooperative exchange of data, research, development, production, procurement, and logistics support to achieve specific national defense requirements and objectives of mutual concern. To this end, this chapter authorizes sales by the United States Government to friendly countries having sufficient wealth to maintain and equip their own military forces at adequate strength, or to assume progressively larger shares of the costs thereof, without undue burden to their economies, in accordance with the restraints and control measures specified herein and in furtherance of the security objectives of the United States and of the purposes and principles of the United Nations Charter.
 
@@ -20,7 +20,7 @@ It is the sense of the Congress that the aggregate value of defense articles and
 
 > in any fiscal year should not exceed current levels.
 
-It is the sense of the Congress that the President maintain adherence to a policy of restraintin conventional arms transfers and that, in implementing this policy worldwide, a balanced approach should be taken and full regard given to the security interests of the United States in all regions of the world and that particular attention should be paid to controlling the flow of conventional arms to the nations of the developing world. To this end, the President is encouraged to continue discussions with other arms suppliers in order to restrain the flow of conventional arms to less developed countries.
+It is the sense of the Congress that the President maintain adherence to a policy of restraint in conventional arms transfers and that, in implementing this policy worldwide, a balanced approach should be taken and full regard given to the security interests of the United States in all regions of the world and that particular attention should be paid to controlling the flow of conventional arms to the nations of the developing world. To this end, the President is encouraged to continue discussions with other arms suppliers in order to restrain the flow of conventional arms to less developed countries.
 
 (Pub. L. 90–629, ch. 1, §1, Oct. 22, 1968, 82 Stat. 1321; Pub. L. 91–672, §4, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, §25(1), Dec. 17, 1973, 87 Stat. 729; Pub. L. 94–329, title II, §202, formerly §202(a), June 30, 1976, 90 Stat. 734, renumbered and amended Pub. L. 95–384, §§15(a), 29(c)(1)(A), Sept. 26, 1978, 92 Stat. 739, 747; Pub. L. 97–113, title VII, §734(a)(10), Dec. 29, 1981, 95 Stat. 1560.)
 
@@ -28,17 +28,17 @@ It is the sense of the Congress that the President maintain adherence to a polic
 
 The Arms Control and Disarmament Act, referred to in text, is Pub. L. 87–297, Sept. 26, 1961, 75 Stat. 631, as amended, which is classified generally to chapter 35 (§2551 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2551 of this title, and Tables.
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note below and Tables.
 
 The Foreign Assistance Act of 1961, as amended, referred to in text, is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### References to Foreign Military Sales Act Deemed Reference to Arms Export Control Act
 
-Pub. L. 94–329, title II, §201(b), June 30, 1976, 90 Stat. 734, provided that: “Any reference to the Foreign Military Sales Act \[see Short Title note below\] shall be deemed to be a reference to the Arms Export Control Act.”
+Pub. L. 94–329, title II, §201(b), June 30, 1976, 90 Stat. 734, provided that: "Any reference to the Foreign Military Sales Act \[see Short Title note below\] shall be deemed to be a reference to the Arms Export Control Act."
 
 #### References to Present Instead of Past Provisions; Specific Application of Other Provisions to This Chapter
 
-Pub. L. 90–629, ch. 4, §45(c), Oct. 22, 1968, 82 Stat. 1327, provided that: “References in law to the provisions of law repealed by subsection (a) of this section \[repealing sections 2341 to 2343, 2344(b)(3), 2345, 2394(g), and 2399a of this title\] shall hereafter \[on and after Oct. 22, 1968\] be deemed to be references to this Act \[this chapter\] or appropriate provisions of this Act. Except for the laws specified in section 44 \[section 2793 of this title\], no other provision of law shall be deemed to apply to this Act unless it refers specifically to this Act or refers generally to sales of defense articles and defense services under any Act.”
+Pub. L. 90–629, ch. 4, §45(c), Oct. 22, 1968, 82 Stat. 1327, provided that: "References in law to the provisions of law repealed by subsection (a) of this section \[repealing sections 2341 to 2343, 2344(b)(3), 2345, 2394(g), and 2399a of this title\] shall hereafter \[on and after Oct. 22, 1968\] be deemed to be references to this Act \[this chapter\] or appropriate provisions of this Act. Except for the laws specified in section 44 \[section 2793 of this title\], no other provision of law shall be deemed to apply to this Act unless it refers specifically to this Act or refers generally to sales of defense articles and defense services under any Act."
 
 #### Amendments
 
@@ -50,409 +50,409 @@ Pub. L. 90–629, ch. 4, §45(c), Oct. 22, 1968, 82 Stat. 1327, provided that: �
 
 <b>1973</b>—Pub. L. 93–189 inserted last paragraph relating to a reduction by the United States in the furnishing of defense articles and defense services to foreign countries.
 
-<b>1971</b>—Pub. L. 91–672 substituted “denying the growth of fundamental rights or social progress” for “denying social progress” in last par.
+<b>1971</b>—Pub. L. 91–672 substituted "denying the growth of fundamental rights or social progress" for "denying social progress" in last par.
 
 #### Effective Date
 
-Pub. L. 90–629, ch. 4, §41, Oct. 22, 1968, 82 Stat. 1326, provided that: “This Act \[enacting this chapter, amending sections 2344, 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2345, and 2399a of this title, and enacting provisions set out as notes under this section and section 2341 of this title\] shall take effect on July 1, 1968.”
+Pub. L. 90–629, ch. 4, §41, Oct. 22, 1968, 82 Stat. 1326, provided that: "This Act \[enacting this chapter, amending sections 2344, 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2345, and 2399a of this title, and enacting provisions set out as notes under this section and section 2341 of this title\] shall take effect on July 1, 1968."
 
 #### Short Title of 2010 Amendment
 
-Pub. L. 111–266, §1, Oct. 8, 2010, 124 Stat. 2797, provided that: “This Act \[amending sections 2321h, 2753, 2755, 2761, 2765, 2776, 2778, 2779, 2779a, 2796a, and 2796b of this title and enacting provisions set out as notes under this section and section 2778 of this title\] may be cited as the ‘Security Cooperation Act of 2010’.”
+Pub. L. 111–266, §1, Oct. 8, 2010, 124 Stat. 2797, provided that: "This Act \[amending sections 2321h, 2753, 2755, 2761, 2765, 2776, 2778, 2779, 2779a, 2796a, and 2796b of this title and enacting provisions set out as notes under this section and section 2778 of this title\] may be cited as the 'Security Cooperation Act of 2010'."
 
-Pub. L. 111–266, title I, §101, Oct. 8, 2010, 124 Stat. 2797, provided that: “This title \[amending sections 2753, 2755, 2765, 2776, 2778, 2779, and 2779a of this title and enacting provisions set out as notes under section 2778 of this title\] may be cited as the ‘Defense Trade Cooperation Treaties Implementation Act of 2010’.”
+Pub. L. 111–266, title I, §101, Oct. 8, 2010, 124 Stat. 2797, provided that: "This title \[amending sections 2753, 2755, 2765, 2776, 2778, 2779, and 2779a of this title and enacting provisions set out as notes under section 2778 of this title\] may be cited as the 'Defense Trade Cooperation Treaties Implementation Act of 2010'."
 
 #### Short Title of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, §1001\], Nov. 29, 1999, 113 Stat. 1536, 1501A–485, provided that: “This division \[div. B of H.R. 3427 as enacted by section 1000(a)(7) of Pub. L. 106–113, see Tables for classification\] may be cited as the ‘Arms Control, Nonproliferation, and Security Assistance Act of 1999’.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, §1001\], Nov. 29, 1999, 113 Stat. 1536, 1501A–485, provided that: "This division \[div. B of H.R. 3427 as enacted by section 1000(a)(7) of Pub. L. 106–113, see Tables for classification\] may be cited as the 'Arms Control, Nonproliferation, and Security Assistance Act of 1999'."
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–194, §1, July 14, 1998, 112 Stat. 627, provided that: “This Act \[amending section 2799aa–1 of this title and enacting provisions set out as notes under section 2799aa–1 of this title\] may be cited as the ‘Agriculture Export Relief Act of 1998’.”
+Pub. L. 105–194, §1, July 14, 1998, 112 Stat. 627, provided that: "This Act \[amending section 2799aa–1 of this title and enacting provisions set out as notes under section 2799aa–1 of this title\] may be cited as the 'Agriculture Export Relief Act of 1998'."
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–228, §1, Dec. 12, 1991, 105 Stat. 1691, provided that: “This Act \[enacting sections 2595b–1 and 2799 to 2799d of this title, amending sections 2581, 2589, 2595, and 2595c of this title, and enacting provisions set out as notes under section 2551 of this title\] may be cited as the ‘Conventional Forces in Europe Treaty Implementation Act of 1991’.”
+Pub. L. 102–228, §1, Dec. 12, 1991, 105 Stat. 1691, provided that: "This Act \[enacting sections 2595b–1 and 2799 to 2799d of this title, amending sections 2581, 2589, 2595, and 2595c of this title, and enacting provisions set out as notes under section 2551 of this title\] may be cited as the 'Conventional Forces in Europe Treaty Implementation Act of 1991'."
 
 #### Short Title
 
-Pub. L. 90–629, §1, Oct. 22, 1968, 82 Stat. 1320, as amended by Pub. L. 94–329, title II, §201(a), June 30, 1976, 90 Stat. 734, provided: “That this Act \[enacting this chapter, amending sections 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2344, 2345, 2394, and 2399 of this title, and enacting provisions setout as notes under this section and section 2341 of this title\] may be cited as the ‘Arms Export Control Act’.”
+Pub. L. 90–629, §1, Oct. 22, 1968, 82 Stat. 1320, as amended by Pub. L. 94–329, title II, §201(a), June 30, 1976, 90 Stat. 734, provided: "That this Act \[enacting this chapter, amending sections 2382, 2392, 2394, and 2403 of this title, repealing sections 2341 to 2343, 2344, 2345, 2394, and 2399 of this title, and enacting provisions set out as notes under this section and section 2341 of this title\] may be cited as the 'Arms Export Control Act'."
 
 #### Registration and End-Use Monitoring of Defense Articles and Defense Services Transferred to Afghanistan and Pakistan
 
 Pub. L. 111–84, div. A, title XII, §1225, Oct. 28, 2009, 123 Stat. 2523, provided that:
 
-“(a)
+"(a)
 
 Program Required.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary of Defense shall establish and carry out a program to provide for the registration and end-use monitoring of defense articles and defense services transferred to Afghanistan and Pakistan in accordance with the requirements under subsection (b) and to prohibit the retransfer of such defense articles and defense services without the consent of the United States. The program required under this subsection shall be limited to the transfer of defense articles and defense services—
 
-&emsp;&emsp;“(A) pursuant to authorities other than the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] or the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\]; and
+&emsp;&emsp;"(A) pursuant to authorities other than the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] or the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\]; and
 
-&emsp;&emsp;“(B) using funds made available to the Department of Defense, including funds available pursuant to the Pakistan Counterinsurgency Fund.
+&emsp;&emsp;"(B) using funds made available to the Department of Defense, including funds available pursuant to the Pakistan Counterinsurgency Fund.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Prohibition.—No defense articles or defense services that would be subject to the program required under this subsection may be transferred to—
 
-&emsp;&emsp;“(A) the Government of Afghanistan or any other group, organization, citizen, or resident of Afghanistan, or
+&emsp;&emsp;"(A) the Government of Afghanistan or any other group, organization, citizen, or resident of Afghanistan, or
 
-&emsp;&emsp;“(B) the Government of Pakistan or any other group, organization, citizen, or resident of Pakistan,
+&emsp;&emsp;"(B) the Government of Pakistan or any other group, organization, citizen, or resident of Pakistan,
 
 > &emsp;until the Secretary of Defense certifies to the specified congressional committees that the program required under this subsection has been established.
 
-“(b)
+"(b)
 
 Registration and End-use Monitoring Requirements.—The registration and end-use monitoring requirements under this subsection shall include the following:
 
-&emsp;“(1) A detailed record of the origin, shipping, and distribution of defense articles and defense services transferred to—
+&emsp;"(1) A detailed record of the origin, shipping, and distribution of defense articles and defense services transferred to—
 
-&emsp;&emsp;“(A) the Government of Afghanistan and other groups, organizations, citizens, and residents of Afghanistan; and
+&emsp;&emsp;"(A) the Government of Afghanistan and other groups, organizations, citizens, and residents of Afghanistan; and
 
-&emsp;&emsp;“(B) the Government of Pakistan and other groups, organizations, citizens, and residents of Pakistan.
+&emsp;&emsp;"(B) the Government of Pakistan and other groups, organizations, citizens, and residents of Pakistan.
 
-&emsp;“(2) The registration of the serial numbers of all small arms to be provided to—
+&emsp;"(2) The registration of the serial numbers of all small arms to be provided to—
 
-&emsp;&emsp;“(A) the Government of Afghanistan and other groups, organizations, citizens, and residents of Afghanistan; and
+&emsp;&emsp;"(A) the Government of Afghanistan and other groups, organizations, citizens, and residents of Afghanistan; and
 
-&emsp;&emsp;“(B) the Government of Pakistan and other groups, organizations, citizens, and residents of Pakistan.
+&emsp;&emsp;"(B) the Government of Pakistan and other groups, organizations, citizens, and residents of Pakistan.
 
-&emsp;“(3) A program of end-use monitoring of lethal defense articles and defense services transferred to the entities and individuals described in subparagraphs (A) and (B) of paragraph (1).
+&emsp;"(3) A program of end-use monitoring of lethal defense articles and defense services transferred to the entities and individuals described in subparagraphs (A) and (B) of paragraph (1).
 
-“(c)
+"(c)
 
 Review; Exemption.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Review.—The Secretary of Defense shall periodically review the defense articles and defense services subject to the registration and end-use monitoring requirements under subsection (b) to determine which defense articles and defense services, if any, should no longer be subject to such registration and end-use monitoring requirements. The Secretary of Defense shall submit to the specified congressional committees the results of each review conducted under this paragraph.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Exemption.—The Secretary of Defense may exempt a defense article or defense service from the registration and end-use monitoring requirements under subsection (b) beginning on the date that is 30 days after the date on which the Secretary provides notice of the proposed exemption to the specified congressional committees. Such notice shall describe any controls to be imposed on such defense article or defense service, as the case may be, under any other provision of law.
 
-“(d)
+"(d)
 
 Definitions.—In this section:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Defense article.—The term ‘defense article’ has the meaning given the term in section 644(d) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(d)).
+Defense article.—The term 'defense article' has the meaning given the term in section 644(d) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(d)).
 
-&emsp;“(2)
+&emsp;"(2)
 
-Defense service.—The term ‘defense service’ has the meaning given the term in section 644(f) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(f)).
+Defense service.—The term 'defense service' has the meaning given the term in section 644(f) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(f)).
 
-&emsp;“(3)
+&emsp;"(3)
 
-Small arm.—The term ‘small arm’ means—
+Small arm.—The term 'small arm' means—
 
-&emsp;&emsp;“(A) a handgun or pistol;
+&emsp;&emsp;"(A) a handgun or pistol;
 
-&emsp;&emsp;“(B) a shoulder-fired weapon, including a sub-carbine, carbine, or rifle;
+&emsp;&emsp;"(B) a shoulder-fired weapon, including a sub-carbine, carbine, or rifle;
 
-&emsp;&emsp;“(C) a light, medium, or heavy automatic weapon up to and including a .50 caliber machine gun;
+&emsp;&emsp;"(C) a light, medium, or heavy automatic weapon up to and including a .50 caliber machine gun;
 
-&emsp;&emsp;“(D) a recoilless rifle up to and including 106mm;
+&emsp;&emsp;"(D) a recoilless rifle up to and including 106mm;
 
-&emsp;&emsp;“(E) a mortar up to and including 81mm;
+&emsp;&emsp;"(E) a mortar up to and including 81mm;
 
-&emsp;&emsp;“(F) a rocket launcher, man-portable;
+&emsp;&emsp;"(F) a rocket launcher, man-portable;
 
-&emsp;&emsp;“(G) a grenade launcher, rifle and shoulder fired; and
+&emsp;&emsp;"(G) a grenade launcher, rifle and shoulder fired; and
 
-&emsp;&emsp;“(H) an individually-operated weapon which is portable or can be fired without special mounts or firing devices and which has potential use in civil disturbances and is vulnerable to theft.
+&emsp;&emsp;"(H) an individually-operated weapon which is portable or can be fired without special mounts or firing devices and which has potential use in civil disturbances and is vulnerable to theft.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Specified congressional committees.—The term ‘specified congressional committees’ means—
+Specified congressional committees.—The term 'specified congressional committees' means—
 
-&emsp;&emsp;“(A) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives; and
+&emsp;&emsp;"(A) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives; and
 
-&emsp;&emsp;“(B) the Committee on Foreign Relations and the Committee on Armed Services of the Senate.
+&emsp;&emsp;"(B) the Committee on Foreign Relations and the Committee on Armed Services of the Senate.
 
-“(e)
+"(e)
 
 Effective Date.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Except as provided in paragraph (2), this section shall take effect 180 days after the date of the enactment of this Act \[Oct. 28, 2009\].
 
-&emsp;“(2)
+&emsp;"(2)
 
-Exception.—The Secretary of Defense may delay the effective date of this section by an additional period of up to 120 days if the Secretary certifies in writing to the specified congressional committees for such additional period that it is in the vital interest of the United States to do so and includes in the certification a description of such vital interest.”
+Exception.—The Secretary of Defense may delay the effective date of this section by an additional period of up to 120 days if the Secretary certifies in writing to the specified congressional committees for such additional period that it is in the vital interest of the United States to do so and includes in the certification a description of such vital interest."
 
 #### Tracking and Monitoring of Defense Articles Provided to the Government of Iraq and Other Individuals and Groups in Iraq
 
 Pub. L. 110–181, div. A, title XII, §1228, Jan. 28, 2008, 122 Stat. 377, provided that:
 
-“(a)
+"(a)
 
 Export and Transfer Control Policy.—The President shall implement a policy to control the export and transfer of defense articles into Iraq, including implementation of the registration and monitoring system under subsection (c).
 
-“(b)
+"(b)
 
 Requirement to Implement Control System.—No defense articles may be provided to the Government of Iraq or any other group, organization, citizen, or resident of Iraq until the President certifies to the specified congressional committees that a registration and monitoring system meeting the requirements set forth in subsection (c) has been established.
 
-“(c)
+"(c)
 
 Registration and Monitoring System.—The registration and monitoring system required under this subsection shall include—
 
-&emsp;“(1) the registration of the serial numbers of all small arms to be provided to the Government of Iraq or to other groups, organizations, citizens, or residents of Iraq;
+&emsp;"(1) the registration of the serial numbers of all small arms to be provided to the Government of Iraq or to other groups, organizations, citizens, or residents of Iraq;
 
-&emsp;“(2) a program of end-use monitoring of all lethal defense articles provided to such entities or individuals; and
+&emsp;"(2) a program of end-use monitoring of all lethal defense articles provided to such entities or individuals; and
 
-&emsp;“(3) a detailed record of the origin, shipping, and distribution of all defense articles transferred under the Iraq Security Forces Fund or any other security assistance program to such entities or individuals.
+&emsp;"(3) a detailed record of the origin, shipping, and distribution of all defense articles transferred under the Iraq Security Forces Fund or any other security assistance program to such entities or individuals.
 
-“(d)
+"(d)
 
 Review; Exemption.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Review.—The President shall periodically review the items subject to the registration and monitoring requirements under subsection (c) to determine what items, if any, should no longer be subject to such registration and monitoring requirements. The President shall transmit to the specified congressional committees the results of each review conducted under this paragraph.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Exemption.—The President may exempt an item from the registration and monitoring requirements under subsection (c) beginning on the date that is 30 days after the date on which the President provides notice of the proposed exemption to the specified congressional committees in accordance with the procedures applicable to reprogramming notifications under section 634A(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2394–1(a)). Such notice shall describe any controls to be imposed on such item under any other provision of law.
 
-“(e)
+"(e)
 
 Definitions.—In this section:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Defense article.—The term ‘defense article’ has the meaning given the term in section 644(d) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(d)).
+Defense article.—The term 'defense article' has the meaning given the term in section 644(d) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(d)).
 
-&emsp;“(2)
+&emsp;"(2)
 
-Small arms.—The term ‘small arms’ means—
+Small arms.—The term 'small arms' means—
 
-&emsp;&emsp;“(A) handguns;
+&emsp;&emsp;"(A) handguns;
 
-&emsp;&emsp;“(B) shoulder-fired weapons;
+&emsp;&emsp;"(B) shoulder-fired weapons;
 
-&emsp;&emsp;“(C) light automatic weapons up to and including .50 caliber machine guns;
+&emsp;&emsp;"(C) light automatic weapons up to and including .50 caliber machine guns;
 
-&emsp;&emsp;“(D) recoilless rifles up to and including 106mm;
+&emsp;&emsp;"(D) recoilless rifles up to and including 106mm;
 
-&emsp;&emsp;“(E) mortars up to and including 81mm;
+&emsp;&emsp;"(E) mortars up to and including 81mm;
 
-&emsp;&emsp;“(F) rocket launchers, man-portable;
+&emsp;&emsp;"(F) rocket launchers, man-portable;
 
-&emsp;&emsp;“(G) grenade launchers, rifle and shoulder fired; and
+&emsp;&emsp;"(G) grenade launchers, rifle and shoulder fired; and
 
-&emsp;&emsp;“(H) individually-operated weapons which are portable or can be fired without special mounts or firing devices and which have potential use in civil disturbances and are vulnerable to theft.
+&emsp;&emsp;"(H) individually-operated weapons which are portable or can be fired without special mounts or firing devices and which have potential use in civil disturbances and are vulnerable to theft.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Specified congressional committees.—The term ‘specified congressional committees’ means—
+Specified congressional committees.—The term 'specified congressional committees' means—
 
-&emsp;&emsp;“(A) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives; and
+&emsp;&emsp;"(A) the Committee on Foreign Affairs and the Committee on Armed Services of the House of Representatives; and
 
-&emsp;&emsp;“(B) the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+&emsp;&emsp;"(B) the Committee on Foreign Relations, the Committee on Armed Services, and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
-“(f)
+"(f)
 
 Effective Date.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Except as provided in paragraph (2), this section shall take effect 180 days after the date of the enactment of this Act \[Jan. 28, 2008\].
 
-&emsp;“(2)
+&emsp;"(2)
 
-Exception.—The President may delay the effective date of this section by an additional period of up to 90 days if the President certifies in writing to the specified congressional committees for such additional period that it is in the vital interest of the United States to do so and includes in the certification a description of such vital interest.”
+Exception.—The President may delay the effective date of this section by an additional period of up to 90 days if the President certifies in writing tothe specified congressional committees for such additional period that it is in the vital interest of the United States to do so and includes in the certification a description of such vital interest."
 
 #### Man-Portable Air Defense Systems (MANPADS)
 
 Pub. L. 109–472, §12, Jan. 11, 2007, 120 Stat. 3558, provided that:
 
-“(a)
+"(a)
 
 Statement of Policy.—Congress declares that it should be the policy of the United States to hold foreign governments accountable for knowingly transferring MANPADS to state-sponsors of terrorism or terrorist organizations.
 
-“(b)
+"(b)
 
 Determination Relating to Sanctions.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—If the President determines that a foreign government knowingly transfers MANPADS to a foreign government described in paragraph (2) or a terrorist organization, the President shall—
 
-&emsp;&emsp;“(A) submit forthwith to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report containing such determination; and
+&emsp;&emsp;"(A) submit forthwith to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate a report containing such determination; and
 
-&emsp;&emsp;“(B) impose forthwith on the transferring foreign government the sanctions described in subsection (c).
+&emsp;&emsp;"(B) impose forthwith on the transferring foreign government the sanctions described in subsection (c).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Foreign government described.—A foreign government described in this paragraph is a foreign government that the Secretary of State has determined, for purposes of section 6(j) of the Export Administration Act of 1979 \[50 U.S.C. App. 2405(j)\], section 620A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2371\], section 40 of the Arms Export Control Act \[22 U.S.C. 2780\], or any other provision of law, is a government that has repeatedly provided support for acts of international terrorism.
 
-“(c)
+"(c)
 
 Sanctions Described.—The sanctions referred to in subsection (b)(1)(B) are the following:
 
-&emsp;“(1) Termination of United States Government assistance to the transferring foreign government under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], except that such termination shall not apply in the case of humanitarian assistance.
+&emsp;"(1) Termination of United States Government assistance to the transferring foreign government under the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], except that such termination shall not apply in the case of humanitarian assistance.
 
-&emsp;“(2) Termination of United States Government—
+&emsp;"(2) Termination of United States Government—
 
-&emsp;&emsp;“(A) sales to the transferring foreign government of any defense articles, defense services, or design and construction services; and
+&emsp;&emsp;"(A) sales to the transferring foreign government of any defense articles, defense services, or design and construction services; and
 
-&emsp;&emsp;“(B) licenses for the export to the transferring foreign government of any item on the United States Munitions List.
+&emsp;&emsp;"(B) licenses for the export to the transferring foreign government of any item on the United States Munitions List.
 
-&emsp;“(3) Termination of all foreign military financing for the transferring foreign government.
+&emsp;"(3) Termination of all foreign military financing for the transferring foreign government.
 
-“(d)
+"(d)
 
 Waiver.—Notwithstanding any other provision of law, sanctions shall not be imposed on a transferring foreign government under this section if the President determines and certifies in writing to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate that the furnishing of the assistance, sales, licensing, or financing that would otherwise be suspended as a result of the imposition of such sanctions is important to the national security interests of the United States.
 
-“(e)
+"(e)
 
 Definitions.—In this section:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Defense article.—The term ‘defense article’ has the meaning given the term in section 47(3) of the Arms Export Control Act \[22 U.S.C. 2794(3)\].
+Defense article.—The term 'defense article' has the meaning given the term in section 47(3) of the Arms Export Control Act \[22 U.S.C. 2794(3)\].
 
-&emsp;“(2)
+&emsp;"(2)
 
-Defense service.—The term ‘defense service’ has the meaning given the term in section 47(4) of the Arms Export Control Act \[22 U.S.C. 2794(4)\].
+Defense service.—The term 'defense service' has the meaning given the term in section 47(4) of the Arms Export Control Act \[22 U.S.C. 2794(4)\].
 
-&emsp;“(3)
+&emsp;"(3)
 
-Design and construction services.—The term ‘design and construction services’ has the meaning given the term in section 47(8) of the Arms Export Control Act \[22 U.S.C. 2794(8)\].
+Design and construction services.—The term 'design and construction services' has the meaning given the term in section 47(8) of the Arms Export Control Act \[22 U.S.C. 2794(8)\].
 
-&emsp;“(4)
+&emsp;"(4)
 
-Foreign government.—The term ‘foreign government’ includes any agency or instrumentality of a foreign government.
+Foreign government.—The term 'foreign government' includes any agency or instrumentality of a foreign government.
 
-&emsp;“(5)
+&emsp;"(5)
 
-Manpads.—The term ‘MANPADS’ means—
+Manpads.—The term 'MANPADS' means—
 
-&emsp;&emsp;“(A) a surface-to-air missile system designed to be man-portable and carried and fired by a single individual; or
+&emsp;&emsp;"(A) a surface-to-air missile system designed to be man-portable and carried and fired by a single individual; or
 
-&emsp;&emsp;“(B) any other surface-to-air missile system designed to be operated and fired by more than one individual acting as a crew and portable by several individuals.”
+&emsp;&emsp;"(B) any other surface-to-air missile system designed to be operated and fired by more than one individual acting as a crew and portable by several individuals."
 
 Pub. L. 108–458, title IV, §4026, Dec. 17, 2004, 118 Stat. 3724, provided that:
 
-“(a)
+"(a)
 
 United States Policy on Nonproliferation and Export Control.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 To limit availability and transfer of manpads.—The President shall pursue, on an urgent basis, further strong international diplomatic and cooperative efforts, including bilateral and multilateral treaties, in the appropriate forum to limit the availability, transfer, and proliferation of MANPADSs worldwide.
 
-&emsp;“(2)
+&emsp;"(2)
 
 To limit the proliferation of manpads.—The President is encouraged to seek to enter into agreements with the governments of foreign countries that, at a minimum, would—
 
-&emsp;&emsp;“(A) prohibit the entry into force of a MANPADS manufacturing license agreement and MANPADS co-production agreement, other than the entry into force of a manufacturing license or co-production agreement with a country that is party to such an agreement;
+&emsp;&emsp;"(A) prohibit the entry into force of a MANPADS manufacturing license agreement and MANPADS co-production agreement, other than the entry into force of a manufacturing license or co-production agreement with a country that is party to such an agreement;
 
-&emsp;&emsp;“(B) prohibit, except pursuant to transfers between governments, the export of a MANPADS, including any component, part, accessory, or attachment thereof, without an individual validated license; and
+&emsp;&emsp;"(B) prohibit, except pursuant to transfers between governments, the export of a MANPADS, including any component, part, accessory, or attachment thereof, without an individual validated license; and
 
-&emsp;&emsp;“(C) prohibit the reexport or retransfer of a MANPADS, including any component, part, accessory, or attachment thereof, to a third person, organization, or government unless the written consent of the government that approved the original export or transfer is first obtained.
+&emsp;&emsp;"(C) prohibit the reexport or retransfer of a MANPADS, including any component, part, accessory, or attachment thereof, to a third person, organization, or government unless the written consent of the government that approved the original export or transfer is first obtained.
 
-&emsp;“(3)
+&emsp;"(3)
 
 To achieve destruction of manpads.—The President should continue to pursue further strong international diplomatic and cooperative efforts, including bilateral and multilateral treaties, in the appropriate forum to assure the destruction of excess, obsolete, and illicit stocks of MANPADSs worldwide.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Reporting and briefing requirement.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
-President's report.—Not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the President shall transmit to the appropriate congressional committees a report that contains a detailed description of the status of diplomatic efforts under paragraphs (1), (2), and (3) and of efforts by the appropriate United States agencies to comply with the recommendations of the General Accounting Office \[now Government Accountability Office\] set forth in its report GAO–04–519, entitled ‘Nonproliferation: Further Improvements Needed in U.S. Efforts to Counter Threats from Man-Portable Air Defense Systems’.
+President's report.—Not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the President shall transmit to the appropriate congressional committees a report that contains a detailed description of the status of diplomatic efforts under paragraphs (1), (2), and (3) and of efforts by the appropriate United States agencies to comply with the recommendations of the General Accounting Office \[now Government Accountability Office\] set forth in its report GAO–04–519, entitled 'Nonproliferation: Further Improvements Needed in U.S. Efforts to Counter Threats from Man-Portable Air Defense Systems'.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Annual briefings.—Annually after the date of submission of the report under subparagraph (A) and until completion of the diplomatic and compliance efforts referred to in subparagraph (A), the Secretary of State shall brief the appropriate congressional committees on the status of such efforts.
 
-“(b) FAA
+"(b) FAA
 
 Airworthiness Certification of Missile Defense Systems for Commercial Aircraft.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—As soon as practicable, but not later than the date of completion of Phase II of the Department of Homeland Security's counter-man-portable air defense system (MANPADS) development and demonstration program, the Administrator of the Federal Aviation Administration shall establish a process for conducting airworthiness and safety certification of missile defense systems for commercial aircraft certified as effective and functional by the Department of Homeland Security. The process shall require a certification by the Administrator that such systems can be safely integrated into aircraft systems and ensure airworthiness and aircraft system integrity.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Certification acceptance.—Under the process, the Administrator shall accept the certification of the Department of Homeland Security that a missile defense system is effective and functional to defend commercial aircraft against MANPADSs.
+Certification acceptance.—Under the process, the Administrator shall accept the certification ofthe Department of Homeland Security that a missile defense system is effective and functional to defend commercial aircraft against MANPADSs.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Expeditious certification.—Under the process, the Administrator shall expedite the airworthiness and safety certification of missile defense systems for commercial aircraft certified by the Department of Homeland Security.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Reports.—Not later than 90 days after the first airworthiness and safety certification for a missile defense system for commercial aircraft is issued by the Administrator, and annually thereafter until December 31, 2008, the Federal Aviation Administration shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report that contains a detailed description of each airworthiness and safety certification issued for a missile defense system for commercial aircraft.
 
-“(c)
+"(c)
 
 Programs to Reduce MANPADS.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The President is encouraged to pursue strong programs to reduce the number of MANPADSs worldwide so that fewer MANPADSs will be available for trade, proliferation, and sale.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Reporting and briefing requirements.—Not later than 180 days after the date of enactment of this Act \[Dec. 17, 2004\], the President shall transmit to the appropriate congressional committees a report that contains a detailed description of the status of the programs being pursued under subsection (a). Annually thereafter until the programs are no longer needed, the Secretary of State shall brief the appropriate congressional committees on the status of programs.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Funding.—There is authorized to be appropriated such sums as may be necessary to carry out this section.
 
-“(d) MANPADS
+"(d) MANPADS
 
 Vulnerability Assessments Report.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than one year after the date of enactment of this Act \[Dec. 17, 2004\], the Secretary of Homeland Security shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report describing the Department of Homeland Security's plans to secure airports and the aircraft arriving and departing from airports against MANPADSs attacks.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Matters to be addressed.—The Secretary's report shall address, at a minimum, the following:
 
-&emsp;&emsp;“(A) The status of the Department's efforts to conduct MANPADSs vulnerability assessments at United States airports at which the Department is conducting assessments.
+&emsp;&emsp;"(A) The status of the Department's efforts to conduct MANPADSs vulnerability assessments at United States airports at which the Department is conducting assessments.
 
-&emsp;&emsp;“(B) How intelligence is shared between the United States intelligence agencies and Federal, State, and local law enforcement to address the MANPADS threat and potential ways to improve such intelligence sharing.
+&emsp;&emsp;"(B) How intelligence is shared between the United States intelligence agencies and Federal, State, and local law enforcement to address the MANPADS threat and potential ways to improve such intelligence sharing.
 
-&emsp;&emsp;“(C) Contingency plans that the Department has developed in the event that it receives intelligence indicating a high threat of a MANPADS attack on aircraft at or near United States airports.
+&emsp;&emsp;"(C) Contingency plans that the Department has developed in the event that it receives intelligence indicating a high threat of a MANPADS attack on aircraft at or near United States airports.
 
-&emsp;&emsp;“(D) The feasibility and effectiveness of implementing public education and neighborhood watch programs in areas surrounding United States airports in cases in which intelligence reports indicate there is a high risk of MANPADS attacks on aircraft.
+&emsp;&emsp;"(D) The feasibility and effectiveness of implementing public education and neighborhood watch programs in areas surrounding United States airports in cases in which intelligence reports indicate there is a high risk of MANPADS attacks on aircraft.
 
-&emsp;&emsp;“(E) Any other issues that the Secretary deems relevant.
+&emsp;&emsp;"(E) Any other issues that the Secretary deems relevant.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Format.—The report required by this subsection may be submitted in a classified format.
 
-“(e)
+"(e)
 
 Definitions.—In this section, the following definitions apply:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Appropriate congressional committees.—The term ‘appropriate congressional committees’ means—
+Appropriate congressional committees.—The term 'appropriate congressional committees' means—
 
-&emsp;&emsp;“(A) the Committee on Armed Services, the Committee on International Relations \[now Committee on Foreign Affairs\], and the Committee on Transportation and Infrastructure of the House of Representatives; and
+&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on International Relations \[now Committee on Foreign Affairs\], and the Committee on Transportation and Infrastructure of the House of Representatives; and
 
-&emsp;&emsp;“(B) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Commerce, Science, and Transportation of the Senate.
+&emsp;&emsp;"(B) the Committee on Armed Services, the Committee on Foreign Relations, and the Committee on Commerce, Science, and Transportation of the Senate.
 
-&emsp;“(2) MANPADS.—The term ‘MANPADS’ means—
+&emsp;"(2) MANPADS.—The term 'MANPADS' means—
 
-&emsp;&emsp;“(A) a surface-to-air missile system designed to be man-portable and carried and fired by a single individual; and
+&emsp;&emsp;"(A) a surface-to-air missile system designed to be man-portable and carried and fired by a single individual; and
 
-&emsp;&emsp;“(B) any other surface-to-air missile system designed to be operated and fired by more than one individual acting as a crew and portable by several individuals.”
+&emsp;&emsp;"(B) any other surface-to-air missile system designed to be operated and fired by more than one individual acting as a crew and portable by several individuals."
 
 \[Functions of President under subsecs. (a)(4)(A), (c)(2) of section 4026 of Pub. L. 108–458, set out above, assigned to Secretary of State by section 1 of Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 48633, set out as a note under section 301 of title 3, The President.\]
 
@@ -460,101 +460,101 @@ Appropriate congressional committees.—The term ‘appropriate congressional co
 
 Pub. L. 108–375, div. A, title XII, §1225, Oct. 28, 2004, 118 Stat. 2091, provided that:
 
-“(a)
+"(a)
 
-Policy.—It is the policy of Congress that bilateral exchanges and trade in defense articles and defenseservices between the United States and the United Kingdom and Australia are in the national security interest of the United States and that such exchanges and trade should be subjected to accelerated review and processing consistent with national security and the requirements of the Arms Export Control Act (22 U.S.C. 2751 et seq.).
+Policy.—It is the policy of Congress that bilateral exchanges and trade in defense articles and defense services between the United States and the United Kingdom and Australia are in the national security interest of the United States and that such exchanges and trade should be subjected to accelerated review and processing consistent with national security and the requirements of the Arms Export Control Act (22 U.S.C. 2751 et seq.).
 
-“(b)
+"(b)
 
 Requirement.—The Secretary of State shall ensure that any license application submitted for the export of defense articles or defense services to Australia or the United Kingdom is expeditiously processed by the Department of State, in consultation with the Department of Defense, without referral to any other Federal department or agency, except where the item is classified or exceptional circumstances apply.
 
-“(c)
+"(c)
 
-Regulations.—The President shall ensure that regulations are prescribed to implement this section.”
+Regulations.—The President shall ensure that regulations are prescribed to implement this section."
 
 #### Eligibility of Panama Under Arms Export Control Act
 
-Pub. L. 104–164, title I, §154, July 21, 1996, 110 Stat. 1440, provided that: “The Government of the Republic of Panama shall be eligible to purchase defense articles and defense services under the Arms Export Control Act (22 U.S.C. 2751 et seq.), except as otherwise specifically provided by law.”
+Pub. L. 104–164, title I, §154, July 21, 1996, 110 Stat. 1440, provided that: "The Government of the Republic of Panama shall be eligible to purchase defense articles and defense services under the Arms Export Control Act (22 U.S.C. 2751 et seq.), except as otherwise specifically provided by law."
 
 #### Reports on Counterproliferation Activities and Programs
 
 Pub. L. 103–337, div. A, title XV, §1503, Oct. 5, 1994, 108 Stat. 2916; Pub. L. 104–201, div. A, title XIII, §1309(d), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(c), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(b), (c), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 110–181, div. A, title XII, §1256(d), Jan. 28, 2008, 122 Stat. 404, provided that:
 
-“(a)
+"(a)
 
 Biennial Report Required.—Not later than May 1 each odd-numbered year, the Secretary of Defense shall submit to Congress a report of the findings of the Counterproliferation Program Review Committee established by subsection (a) of the Review Committee charter.
 
-“(b)
+"(b)
 
 Content of Report.—Each report under subsection (a) shall include the following:
 
-&emsp;“(1) A complete list, by specific program element, of the existing, planned, or newly proposed capabilities and technologies reviewed by the Review Committee pursuant to subsection (c) of the Review Committee charter.
+&emsp;"(1) A complete list, by specific program element, of the existing, planned, or newly proposed capabilities and technologies reviewed by the Review Committee pursuant to subsection (c) of the Review Committee charter.
 
-&emsp;“(2) A complete description of the requirements and priorities established by the Review Committee.
+&emsp;"(2) A complete description of the requirements and priorities established by the Review Committee.
 
-&emsp;“(3) A comprehensive discussion of the near-term, mid-term, and long-term programmatic options formulated by the Review Committee for meeting requirements prescribed by the Review Committee and for eliminating deficiencies identified by the Review Committee, including the annual funding requirements and completion dates established for each such option.
+&emsp;"(3) A comprehensive discussion of the near-term, mid-term, and long-term programmatic options formulated by the Review Committee for meeting requirements prescribed by the Review Committee and for eliminating deficiencies identified by the Review Committee, including the annual funding requirements and completion dates established for each such option.
 
-&emsp;“(4) An explanation of the recommendations made pursuant to subsection (c) of the Review Committee charter, together with a full discussion of the actions taken to implement such recommendations or otherwise taken on the recommendations.
+&emsp;"(4) An explanation of the recommendations made pursuant to subsection (c) of the Review Committee charter, together with a full discussion of the actions taken to implement such recommendations or otherwise taken on the recommendations.
 
-&emsp;“(5) A discussion and assessment of the status of each Review Committee recommendation during the two fiscal years preceding the fiscal year in which the report is submitted, including, particularly, the status of recommendations made during such preceding fiscal years that were reflected in the budget submitted to Congress pursuant to section 1105(a) of title 31, United States Code, in the fiscal year of the report.
+&emsp;"(5) A discussion and assessment of the status of each Review Committee recommendation during the two fiscal years preceding the fiscal year in which the report is submitted, including, particularly, the status of recommendations made during such preceding fiscal years that were reflected in the budget submitted to Congress pursuant to section 1105(a) of title 31, United States Code, in the fiscal year of the report.
 
-&emsp;“(6) Each specific Department of Energy program that the Secretary of Energy plans to develop to initial operating capability and each such program that the Secretary does not plan to develop to initial operating capability.
+&emsp;"(6) Each specific Department of Energy program that the Secretary of Energy plans to develop to initial operating capability and each such program that the Secretary does not plan to develop to initial operating capability.
 
-&emsp;“(7) For each technology program scheduled to reach initial operational capability, a recommendation from the Chairman of the Joint Chiefs of Staff that represents the views of the commanders of the unified and specified commands regarding the utility and requirement of the program.
+&emsp;"(7) For each technology program scheduled to reach initial operational capability, a recommendation from the Chairman of the Joint Chiefs of Staff that represents the views of the commanders of the unified and specified commands regarding the utility and requirement of the program.
 
-&emsp;“(8) A discussion of the limitations and impediments to the biological weapons counterproliferation efforts of the Department of Defense (including legal, policy, and resource constraints) and recommendations for the removal or mitigation of such impediments and for ways to make such efforts more effective.
+&emsp;"(8) A discussion of the limitations and impediments to the biological weapons counterproliferation efforts of the Department of Defense (including legal, policy, and resource constraints) and recommendations for the removal or mitigation of such impediments and for ways to make such efforts more effective.
 
-“(c)
+"(c)
 
 Forms of Report.—Each such report shall be submitted in both unclassified and classified forms, including an annex to the classified report for special compartmented information programs, special access programs, and special activities programs.
 
-“(d)
+"(d)
 
-Review Committee Charter Defined.—For purposes of this section, the term ‘Review Committee charter’ means section 1605 of the National Defense Authorization Act for Fiscal Year 1994 \[Pub. L. 103–160\] (22 U.S.C. 2751 note).
+Review Committee Charter Defined.—For purposes of this section, the term 'Review Committee charter' means section 1605 of the National Defense Authorization Act for Fiscal Year 1994 \[Pub. L. 103–160\] (22 U.S.C. 2751 note).
 
-“(e)
+"(e)
 
-Termination of Requirement.—The final report required under subsection (a) is the report for the year following the year in which the Counterproliferation Program Review Committee established under the Review Committee Charter ceases to exist.”
+Termination of Requirement.—The final report required under subsection (a) is the report for the year following the year in which the Counterproliferation Program Review Committee established under the Review Committee Charter ceases to exist."
 
 #### Arab League Boycott of Israel
 
 Pub. L. 103–236, title V, §564, Apr. 30, 1994, 108 Stat. 484, as amended by Pub. L. 103–415, §1(l), Oct. 25, 1994, 108 Stat. 4301, provided that:
 
-“(a)
+"(a)
 
 Prohibition.—No defense article or defense service may be sold or leased by the United States Government to any country or international organization that, as a matter of policy or practice, is known to have sent letters to United States firms requesting compliance with, or soliciting information regarding compliance with, the Arab League secondary or tertiary boycott of Israel, unless the President determines, and so certifies to the appropriate congressional committees, that that country or organization does not currently maintain a policy or practice of making such requests or solicitations.
 
-“(b)
+"(b)
 
 Waiver.—
 
-&emsp;“(1) 1-
+&emsp;"(1) 1-
 
 year waiver.—On or after the effective date of this section, the President may waive, for a period of 1 year, the application of subsection (a) with respect to any country or organization if the President determines, and reports to the appropriate congressional committees, that—
 
-&emsp;&emsp;“(A) such waiver is in the national interest of the United States, and such waiver will promote the objectives of this section to eliminate the Arab boycott; or
+&emsp;&emsp;"(A) such waiver is in the national interest of the United States, and such waiver will promote the objectives of this section to eliminate the Arab boycott; or
 
-&emsp;&emsp;“(B) such waiver is in the national security interest of the United States.
+&emsp;&emsp;"(B) such waiver is in the national security interest of the United States.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Extension of waiver.—If the President determines that the further extension of a waiver will promote the objectives of this section, the President, upon notification of the appropriate congressional committees, may grant further extensions of such waiver for successive 12-month periods.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Termination of waiver.—The President may, at any time, terminate any waiver granted under this subsection.
 
-“(c)
+"(c)
 
 Definitions.—As used in this section—
 
-&emsp;“(1) the term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives; and
+&emsp;"(1) the term 'appropriate congressional committees' means the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives; and
 
-“(2) the terms ‘defense article’ and ‘defense service’ have the meanings given to such terms by paragraphs (3) and (4), respectively, of section 47 of the Arms Export Control Act \[22 U.S.C. 2794(3), (4)\].
+"(2) the terms 'defense article' and 'defense service' have the meanings given to such terms by paragraphs (3) and (4), respectively, of section 47 of the Arms Export Control Act \[22 U.S.C. 2794(3), (4)\].
 
-“(d)
+"(d)
 
-Effective Date.—This section shall take effect 1 year after the date of enactment of this Act \[Apr. 30, 1994\].”
+Effective Date.—This section shall take effect 1 year after the date of enactment of this Act \[Apr. 30, 1994\]."
 
 \[Memorandum of President of the United States, Apr. 24, 1997, 62 F.R. 24797, delegated to Secretary of State functions of President under section 564 of Public Law 103–236, set out above.\]
 
@@ -568,133 +568,133 @@ Effective Date.—This section shall take effect 1 year after the date of enactm
 
 Pub. L. 103–160, div. A, title XVI, §§1603, 1605, 1607, Nov. 30, 1993, 107 Stat. 1843, 1845, 1847, as amended by Pub. L. 103–337, div. A, title XV, §§1502, 1505(a), (b), Oct. 5, 1994, 108 Stat. 2914, 2919; Pub. L. 104–106, div. A, title XV, §1504(b), Feb. 10, 1996, 110 Stat. 513; Pub. L. 104–201, div. A, title XIII, §1309(a)–(c), Sept. 23, 1996, 110 Stat. 2710; Pub. L. 106–65, div. A, title XV, §1504(a), (b), Oct. 5, 1999, 113 Stat. 808; Pub. L. 107–314, div. A, title XII, §1208(a), (d), Dec. 2, 2002, 116 Stat. 2668; Pub. L. 109–163, div. A, title X, §1056(f), Jan. 6, 2006, 119 Stat. 3440; Pub. L. 110–181, div. A, title XII, §1256(a)–(c), Jan. 28, 2008, 122 Stat. 403; Pub. L. 112–239, div. A, title X, §1076(c)(1), Jan. 2, 2013, 126 Stat. 1949, provided that:
 
-#### “SEC. 1603. STUDIES RELATING TO UNITED STATES COUNTERPROLIFERATION POLICY.
+#### "SEC. 1603. STUDIES RELATING TO UNITED STATES COUNTERPROLIFERATION POLICY.
 
-“(a)
+"(a)
 
 Authorization To Conduct Studies.—The Secretary of Defense may conduct studies and analysis programs in support of the counterproliferation policy of the United States.
 
-“(b)
+"(b)
 
 Counterproliferation Studies.—Studies and analysis programs under this section may include programs intended to explore defense policy issues that might be involved in efforts to prevent and counter the proliferation of weapons of mass destruction and their delivery systems. Such efforts include—
 
-&emsp;“(1) enhancing United States military capabilities to deter and respond to terrorism, theft, and proliferation involving weapons of mass destruction;
+&emsp;"(1) enhancing United States military capabilities to deter and respond to terrorism, theft, and proliferation involving weapons of mass destruction;
 
-&emsp;“(2) cooperating in international programs to enhance military capabilities to deter and respond to terrorism, theft, and proliferation involving weapons of mass destruction; and
+&emsp;"(2) cooperating in international programs to enhance military capabilities to deter and respond to terrorism, theft, and proliferation involving weapons of mass destruction; and
 
-&emsp;“(3) otherwise contributing to Department of Defense capabilities to deter, identify, monitor, and respond to such terrorism, theft, and proliferation involving weapons of mass destruction.
+&emsp;"(3) otherwise contributing to Department of Defense capabilities to deter, identify, monitor, and respond to such terrorism, theft, and proliferation involving weapons of mass destruction.
 
-“(c)
+"(c)
 
 Designation of Coordinator.—The Under Secretary of Defense for Policy, subject to the supervision and control of the Secretary of Defense, shall coordinate the policy studies and analysis of the Department of Defense on countering proliferation of weapons of mass destruction and their delivery systems.
 
-“(d)
+"(d)
 
 Report.—Not later than April 30 of each year, the Secretary of Defense shall submit to the appropriate congressional committees a report on the activities carried out under subsection (a). Each report shall set forth for the twelve-month period ending on the last day of the month preceding the month in which the report is due the following:
 
-&emsp;“(1) A description of the studies and analysis carried out.
+&emsp;"(1) A description of the studies and analysis carried out.
 
-&emsp;“(2) The amounts spent for such studies and analysis.
+&emsp;"(2) The amounts spent for such studies and analysis.
 
-&emsp;“(3) The organizations that conducted the studies and analysis.
+&emsp;"(3) The organizations that conducted the studies and analysis.
 
-&emsp;“(4) An explanation of the extent to which such studies and analysis contribute to the counterproliferation policy of the United States and United States military capabilities to deter and respond to terrorism, theft, and proliferation involving weapons of mass destruction.
+&emsp;"(4) An explanation of the extent to which such studies and analysis contribute to the counterproliferation policy of the United States and United States military capabilities to deter and respond to terrorism, theft, and proliferation involving weapons of mass destruction.
 
-&emsp;“(5) A description of the measures being taken to ensure that such studies and analysis within the Department of Defense are managed effectively and coordinated comprehensively.
+&emsp;"(5) A description of the measures being taken to ensure that such studies and analysis within the Department of Defense are managed effectively and coordinated comprehensively.
 
-#### “SEC. 1605. JOINT COMMITTEE FOR REVIEW OF COUNTERPROLIFERATION PROGRAMS OF THE UNITED STATES.
+#### "SEC. 1605. JOINT COMMITTEE FOR REVIEW OF COUNTERPROLIFERATION PROGRAMS OF THE UNITED STATES.
 
-“(a)
+"(a)
 
 Establishment.—(1) There is hereby established a Counterproliferation Program Review Committee composed of the following members:
 
-&emsp;“(A) The Secretary of Defense.
+&emsp;"(A) The Secretary of Defense.
 
-&emsp;“(B) The Secretary of Energy.
+&emsp;"(B) The Secretary of Energy.
 
-&emsp;“(C) The Director of National Intelligence.
+&emsp;"(C) The Director of National Intelligence.
 
-&emsp;“(D) The Chairman of the Joint Chiefs of Staff.
+&emsp;"(D) The Chairman of the Joint Chiefs of Staff.
 
-&emsp;“(E) The Secretary of State.
+&emsp;"(E) The Secretary of State.
 
-&emsp;“(F) The Secretary of Homeland Security.
+&emsp;"(F) The Secretary of Homeland Security.
 
-“(2) The Secretary of Defense shall chair the committee. The Secretary of Energy shall serve as the Vice Chairman of the committee.
+"(2) The Secretary of Defense shall chair the committee. The Secretary of Energy shall serve as the Vice Chairman of the committee.
 
-“(3) A member of the committee may designate a representative to perform routinely the duties of the member. A representative shall be in a position of Deputy Assistant Secretary or a position equivalent to or above the level of Deputy Assistant Secretary. A representative of the Chairman of the Joint Chiefs of Staff shall be a person in a grade equivalent to that of Deputy Assistant Secretary of Defense.
+"(3) A member of the committee may designate a representative to perform routinely the duties of the member. A representative shall be in a position of Deputy Assistant Secretary or a position equivalent to or above the level of Deputy Assistant Secretary. A representative of the Chairman of the Joint Chiefs of Staff shall be a person in a grade equivalent to that of Deputy Assistant Secretary of Defense.
 
-“(4) The Secretary of Defense may delegate to the Under Secretary of Defense for Acquisition, Technology, and Logistics the performance of the duties of the Chairman of the committee. The Secretary of Energy may delegate to the Under Secretary of Energy responsible for national security programs of the Department of Energy the performance of the duties of the Vice Chairman of the committee.
+"(4) The Secretary of Defense may delegate to the Under Secretary of Defense for Acquisition, Technology, and Logistics the performance of the duties of the Chairman of the committee. The Secretary of Energy may delegate to the Under Secretary of Energy responsible for national security programs of the Department of Energy the performance of the duties of the Vice Chairman of the committee.
 
-“(5) The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs shall serve as executive secretary to the committee, except that during any period during which that position is vacant the Assistant Secretary of Defense for Strategy and Threat Reduction shall serve as the executive secretary.
+"(5) The Assistant Secretary of Defense for Nuclear, Chemical, and Biological Defense Programs shall serve as executive secretary to the committee, except that during any period during which that position is vacant the Assistant Secretary of Defense for Strategy and Threat Reduction shall serve as the executive secretary.
 
-“(b)
+"(b)
 
 Purposes of the Committee.—The purposes of the committee are as follows:
 
-&emsp;“(1) To optimize funding for, and ensure the development and deployment of—
+&emsp;"(1) To optimize funding for, and ensure the development and deployment of—
 
-&emsp;&emsp;“(A) highly effective technologies and capabilities for the detection, monitoring, collection, processing, analysis, and dissemination of information in support of United States counterproliferation policy and efforts, including efforts to stem the proliferation of weapons of mass destruction and to negate paramilitary and terrorist threats involving weapons of mass destruction; and
+&emsp;&emsp;"(A) highly effective technologies and capabilities for the detection, monitoring, collection, processing, analysis, and dissemination of information in support of United States counterproliferation policy and efforts, including efforts to stem the proliferation of weapons of mass destruction and to negate paramilitary and terrorist threats involving weapons of mass destruction; and
 
-&emsp;&emsp;“(B) disabling technologies in support of such policy.
+&emsp;&emsp;"(B) disabling technologies in support of such policy.
 
-&emsp;“(2) To identify and eliminate undesirable redundancies or uncoordinated efforts in the development and deployment of such technologies and capabilities.
+&emsp;"(2) To identify and eliminate undesirable redundancies or uncoordinated efforts in the development and deployment of such technologies and capabilities.
 
-&emsp;“(3) To establish priorities for programs and funding.
+&emsp;"(3) To establish priorities for programs and funding.
 
-&emsp;“(4) To encourage and facilitate interagency and interdepartmental funding of programs in order to ensure necessary levels of funding to develop, operate, and field highly-capable systems.
+&emsp;"(4) To encourage and facilitate interagency and interdepartmental funding of programs in order to ensure necessary levels of funding to develop, operate, and field highly-capable systems.
 
-&emsp;“(5) To ensure that Department of Energy programs are integrated with the operational needs of other departments and agencies of the Government.
+&emsp;"(5) To ensure that Department of Energy programs are integrated with the operational needs of other departments and agencies of the Government.
 
-&emsp;“(6) To ensure that Department of Energy national security programs include technology demonstrations and prototype development of equipment.
+&emsp;"(6) To ensure that Department of Energy national security programs include technology demonstrations and prototype development of equipment.
 
-“(c)
+"(c)
 
 Duties.—The committee shall—
 
-&emsp;“(1) identify and review existing and proposed capabilities and technologies for support of United States nonproliferation policy and counterproliferation policy with regard to—
+&emsp;"(1) identify and review existing and proposed capabilities and technologies for support of United States nonproliferation policy and counterproliferation policy with regard to—
 
-&emsp;&emsp;“(A) intelligence;
+&emsp;&emsp;"(A) intelligence;
 
-&emsp;&emsp;“(B) battlefield surveillance;
+&emsp;&emsp;"(B) battlefield surveillance;
 
-&emsp;&emsp;“(C) passive defenses;
+&emsp;&emsp;"(C) passive defenses;
 
-&emsp;&emsp;“(D) active defenses; and
+&emsp;&emsp;"(D) active defenses; and
 
-&emsp;&emsp;“(E) counterforce capabilities;
+&emsp;&emsp;"(E) counterforce capabilities;
 
-&emsp;“(2) prescribe requirements and priorities for the development and deployment of highly effective capabilities and technologies;
+&emsp;"(2) prescribe requirements and priorities for the development and deployment of highly effective capabilities and technologies;
 
-&emsp;“(3) identify deficiencies in existing capabilities and technologies;
+&emsp;"(3) identify deficiencies in existing capabilities and technologies;
 
-&emsp;“(4) formulate near-term, mid-term, and long-term programmatic options for meeting requirements established by the committee and eliminating deficiencies identified by the committee; and
+&emsp;"(4) formulate near-term, mid-term, and long-term programmatic options for meeting requirements established by the committee and eliminating deficiencies identified by the committee; and
 
-&emsp;“(5) assess each fiscal year the effectiveness of the committee actions during the preceding fiscal year, including, particularly, the status of recommendations made during such preceding fiscal year that were reflected in the budget submitted to Congress pursuant to section 1105(a) of title 31, United States Code, for the fiscal year following the fiscal year in which the assessment is made.
+&emsp;"(5) assess each fiscal year the effectiveness of the committee actions during the preceding fiscal year, including, particularly, the status of recommendations made during such preceding fiscal year that were reflected in the budget submitted to Congress pursuant to section 1105(a) of title 31, United States Code, for the fiscal year following the fiscal year in which the assessment is made.
 
-“(d)
+"(d)
 
 Access to Information.—The committee shall have access to information on all programs, projects, and activities of the Department of Defense, the Department of State, the Department of Energy, the Department of State, the Department of Homeland Security, the intelligence community, and the Arms Control and Disarmament Agency that are pertinent to the purposes and duties of the committee.
 
-“(e)
+"(e)
 
 Recommendations.—The committee shall submit to the President and the heads of all appropriate departments and agencies of the Government such programmatic recommendations regarding existing, planned, or new programs as the committee considers appropriate to encourage funding for capabilities and technologies at the level necessary to support United States counterproliferation policy.
 
-“(f)
+"(f)
 
 Termination of Committee.—The committee shall cease to exist at the end of September 30, 2013.
 
-#### “SEC. 1607. DEFINITIONS.
+#### "SEC. 1607. DEFINITIONS.
 
-“For purposes of this subtitle \[subtitle A, §§1601–1607, of title XVI of div. A of Pub. L. 103–160, amending section 5859a of this title and enacting this note\]:
+"For purposes of this subtitle \[subtitle A, §§1601–1607, of title XVI of div. A of Pub. L. 103–160, amending section 5859a of this title and enacting this note\]:
 
-&emsp;“(1) The term ‘appropriate congressional committees’ means—
+&emsp;"(1) The term 'appropriate congressional committees' means—
 
-&emsp;&emsp;“(A) the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
+&emsp;&emsp;"(A) the Committee on Armed Services, the Committee on Appropriations, the Committee on Foreign Relations, and the Select Committee on Intelligence of the Senate; and
 
-&emsp;&emsp;“(B) the Committee on Armed Services \[now Committee on National Security\], the Committee on Appropriations, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Armed Services \[now Committee on National Security\], the Committee on Appropriations, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-&emsp;“(2) The term ‘intelligence community’ has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 401a).”
+&emsp;"(2) The term 'intelligence community' has the meaning given such term in section 3 of the National Security Act of 1947 (50 U.S.C. 401a) \[now 50 U.S.C. 3003\]."
 
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
 
@@ -702,17 +702,17 @@ Termination of Committee.—The committee shall cease to exist at the end of Sep
 
 Pub. L. 102–229, title I, §104, Dec. 12, 1991, 105 Stat. 1707, provided that:
 
-“(a) No funds appropriated or otherwise made available by this or any other Act may be used in any fiscal year to conduct, support, or administer any sale of defense articles or defense services to Saudi Arabia or Kuwait until that country has paid in full, either in cash or in mutually agreed in-kind contributions, the following commitments made to the United States to support Operation Desert Shield/Desert Storm:
+"(a) No funds appropriated or otherwise made available by this or any other Act may be used in any fiscal year to conduct, support, or administer any sale of defense articles or defense services to Saudi Arabia or Kuwait until that country has paid in full, either in cash or in mutually agreed in-kind contributions, the following commitments made to the United States to support Operation Desert Shield/Desert Storm:
 
-&emsp;“(1) In the case of Saudi Arabia, $16,839,000,000.
+&emsp;"(1) In the case of Saudi Arabia, $16,839,000,000.
 
-&emsp;“(2) In the case of Kuwait, $16,006,000,000.
+&emsp;"(2) In the case of Kuwait, $16,006,000,000.
 
-“(b) For purposes of this section, the term ‘any sale’ means any sale with respect to which the President is required to submit a numbered certification to the Congress pursuant to the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] on or after the effective date of this section.
+"(b) For purposes of this section, the term 'any sale' means any sale with respect to which the President is required to submit a numbered certification to the Congress pursuant to the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] on or after the effective date of this section.
 
-“(c) This section shall take effect 120 days after the date of enactment of this joint resolution \[Dec. 12, 1991\].
+"(c) This section shall take effect 120 days after the date of enactment of this joint resolution \[Dec. 12, 1991\].
 
-“(d) Any military equipment of the United States, including battle tanks, armored combat vehicles, and artillery, included within the Conventional Forces in Europe Treaty definition of ‘conventional armaments and equipment limited by the Treaty’, which may be transferred to any other NATO country shall be subject to the notification procedures stated in section 523 of Public Law 101–513 \[104 Stat. 2007\] and in section 634A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394–1\].”
+"(d) Any military equipment of the United States, including battle tanks, armored combat vehicles, and artillery, included within the Conventional Forces in Europe Treaty definition of 'conventional armaments and equipment limited by the Treaty', which may be transferred to any other NATO country shall be subject to the notification procedures stated in section 523 of Public Law 101–513 \[104 Stat. 2007\] and in section 634A of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394–1\]."
 
 #### Annual Report on Proliferation of Missiles and Essential Components of Nuclear, Biological, and Chemical Weapons
 
@@ -724,7 +724,7 @@ Pub. L. 99–83, title I, §129, Aug. 8, 1985, 99 Stat. 206, directed President,
 
 #### Termination of Nonrecurring Activities Under Foreign Assistance Act of 1961 and This Chapter and Removal From Law
 
-Pub. L. 97–113, title VII, §734(c), Dec. 29, 1981, 95 Stat. 1561, provided that: “Except as otherwise explicitly provided by their terms, amendments to the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] and the Arms Export Control Act \[this chapter\] which are applicable only to a single fiscal or calendar year or which require reports or other actions on a nonrecurring basis shall be deemed to have expired and shall be removed from law upon the expiration of the applicable time periods for the fulfillment of the required actions.”
+Pub. L. 97–113, title VII, §734(c), Dec. 29, 1981, 95 Stat. 1561, provided that: "Except as otherwise explicitly provided by their terms, amendments to the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] and the Arms Export Control Act \[this chapter\] which are applicable only to a single fiscal or calendar year or which require reports or other actions on a nonrecurring basis shall be deemed to have expired and shall be removed from law upon the expiration of the applicable time periods for the fulfillment of the required actions."
 
 #### Report to Congress by President on Multilateral Discussions Concerning Arms Transfer Policy
 
@@ -732,7 +732,7 @@ Pub. L. 95–384, §15(b), Sept. 26, 1978, 92 Stat. 740, directed President, not
 
 #### Report by President on Review of Arms Sales Controls on Non-Lethal Items
 
-Pub. L. 95–384, §25, Sept. 26, 1978, 92 Stat. 746, directed President, within 120 days after Sept. 26, 1978, to report in writing to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate the results of the review conducted pursuant to Pub. L. 95–92, §27, Aug. 4, 1977, 91 Stat. 626, set out below, priorto repeal by Pub. L. 97–113, title VII, §734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
+Pub. L. 95–384, §25, Sept. 26, 1978, 92 Stat. 746, directed President, within 120 days after Sept. 26, 1978, to report in writing to Speaker of House of Representatives and chairman of Committee on Foreign Relations of Senate the results of the review conducted pursuant to Pub. L. 95–92, §27, Aug. 4, 1977, 91 Stat. 626, set out below, prior to repeal by Pub. L. 97–113, title VII, §734(a)(12), Dec. 29, 1981, 95 Stat. 1560.
 
 #### Report by President on Impact of Foreign Arms Sales and Transfers to Foreign Governments on Defense Readiness and National Security of United States
 
@@ -744,7 +744,7 @@ Pub. L. 95–92, §24, Aug. 4, 1977, 91 Stat. 624, as amended by Pub. L. 97–11
 
 #### Statement of Policy Regarding United States Arms Sales to Israel
 
-Pub. L. 95–92, §26, Aug. 4, 1977, 91 Stat. 625, provided that: “In accordance with the historic special relationship between the United States and Israel and previous agreements and continuing understandings, the Congress joins with the President in reaffirming that a policy of restraint in United States arms transfers, including arms sales ceilings, shall not impair Israel's deterrent strength or undermine the military balance in the Middle East.”
+Pub. L. 95–92, §26, Aug. 4, 1977, 91 Stat. 625, provided that: "In accordance with the historic special relationship between the United States and Israel and previous agreements and continuing understandings, the Congress joins with the President in reaffirming that a policy of restraint in United States arms transfers, including arms sales ceilings, shall not impair Israel's deterrent strength or undermine the military balance in the Middle East."
 
 #### Review by President of Categories and Arms Sales Controls on Lethal and Non-Lethal Items
 
@@ -752,7 +752,7 @@ Pub. L. 95–92, §27, Aug. 4, 1977, 91 Stat. 626, directed President to underta
 
 #### Study of United States Arms Sales Policies and Practices by President; Report to Congress
 
-Pub. L. 94–329, title II, §202(b), June 30, 1976, 90 Stat. 735, set forth provisions respecting study and report to Congress of United States arms sales policies and practices, prior to repeal by Pub. L. 95–384, §29(c)(1)(A), Sept. 26, 1978, 92 Stat. 747.
+Pub. L. 94–329, title II, §202(b), June 30, 1976, 90 Stat. 735, set forth provisions respecting study and report toCongress of United States arms sales policies and practices, prior to repeal by Pub. L. 95–384, §29(c)(1)(A), Sept. 26, 1978, 92 Stat. 747.
 
 #### Presidential Report Regarding Sales of Excess Defense Articles to Foreign Governments and International Organizations
 
@@ -768,91 +768,109 @@ Pub. L. 94–329, title V, §506(b), June 30, 1976, 90 Stat. 764, provided that 
 
 #### Additional Military and Civilian Personnel for Department of Defense
 
-Pub. L. 94–329, title VI, §605(a), June 30, 1976, 90 Stat. 768, provided that: “Nothing in this Act \[see Short Title of 1976 Amendment note set out under section 2151 of the title\] is intended to authorize any additional military or civilian personnel for the Department of Defense for the purposes of this Act, the Foreign Assistance Act of 1961 \[section 2151 et seq. of this title\], or the Arms Export Control Act \[this chapter\]. Personnel levels authorized in statutes authorizing appropriations for military and civilian personnel of the Department of Defense shall be controlling over all military and civilian personnel of the Department of Defense assigned to carry out functions under the Arms Export Control Act and the Foreign Assistance Act of 1961.”
+Pub. L. 94–329, title VI, §605(a), June 30, 1976, 90 Stat. 768, provided that: "Nothing in this Act \[see Short Title of 1976 Amendment note set out under section 2151 of the title\] is intended to authorize any additional military or civilian personnel for the Department of Defense for the purposes of this Act, the Foreign Assistance Act of 1961 \[section 2151 et seq. of this title\], or the Arms Export Control Act \[this chapter\]. Personnel levels authorized in statutes authorizing appropriations for military and civilian personnel of the Department of Defense shall be controlling over all military and civilian personnel of the Department of Defense assigned to carry out functions under the Arms Export Control Act and the Foreign Assistance Act of 1961."
 
 #### Sales to the Middle East; Requests for Additional Appropriations
 
-Pub. L. 91–672, §5, Jan. 12, 1971, 84 Stat. 2053, provided that: “It is the sense of Congress that (1) the President should continue to press forward urgently with his efforts to negotiate with the Soviet Union and other powers a limitation on arms shipments to the Middle East, (2) the President should be supported in his position that arms will be made available and credits provided to Israel and other friendly states, to the extent that the President determines such assistance to be needed in order to meet threats to the security and independence of such states, and (3) if the authorization provided in the Foreign Military Sales Act, as amended \[this chapter\], should prove to be insufficient to effectuate this stated policy, the President should promptly submit to the Congress requests for an appropriate supplementary authorization and appropriation.”
+Pub. L. 91–672, §5, Jan. 12, 1971, 84 Stat. 2053, provided that: "It is the sense of Congress that (1) the President should continue to press forward urgently with his efforts to negotiate with the Soviet Union and other powers a limitation on arms shipments to the Middle East, (2) the President should be supported in his position that arms will be made available and credits provided to Israel and other friendly states, to the extent that the President determines such assistance to be needed in order to meet threats to the security and independence of such states, and (3) if the authorization provided in the Foreign Military Sales Act, as amended \[this chapter\], should prove to be insufficient to effectuate this stated policy, the President should promptly submit to the Congress requests for an appropriate supplementary authorization and appropriation."
 
 #### Review of Military Aid Programs and Efforts for Regulation of Conventional Arms Trade
 
-Pub. L. 91–672, §6, Jan. 12, 1971, 84 Stat. 2053, provided that: “It is the sense of the Congress that—
+Pub. L. 91–672, §6, Jan. 12, 1971, 84 Stat. 2053, provided that: "It is the sense of the Congress that—
 
-&emsp;“(1) the President should immediately institute a thorough and comprehensive review of the military aid programs of the United States, particularly with respect to the military assistance and sales operations of the Department of Defense, and
+&emsp;"(1) the President should immediately institute a thorough and comprehensive review of the military aid programs of the United States, particularly with respect to the military assistance and sales operations of the Department of Defense, and
 
-&emsp;“(2) the President should take such actions as may be appropriate—
+&emsp;"(2) the President should take such actions as may be appropriate—
 
-&emsp;&emsp;“(A) to initiate multilateral discussions among the United States, the Union of Soviet Socialist Republics, Great Britain, France, West Germany, Italy and other countries on the control of the worldwide trade in armaments,
+&emsp;&emsp;"(A) to initiate multilateral discussions among the United States, the Union of Soviet Socialist Republics, Great Britain, France, West Germany, Italy and other countries on the control of the worldwide trade in armaments,
 
-&emsp;&emsp;“(B) to commence a general debate in the United Nations with respect to the control of the conventional arms trade, and
+&emsp;&emsp;"(B) to commence a general debate in the United Nations with respect to the control of the conventional arms trade, and
 
-&emsp;&emsp;“(C) to use the power and prestige of his office to signify the intention of the United States to work actively with all nations to check and control the international sales and distribution of conventional weapons of death and destruction.”
+&emsp;&emsp;"(C) to use the power and prestige of his office to signify the intention of the United States to work actively with all nations to check and control the international sales and distribution of conventional weapons of death and destruction."
 
 #### Executive Order No. 11501
 
-Ex. Ord. No. 11501, Dec. 22, 1969, 34 F.R. 20169, as amended by Ex. Ord. No. 11685, Sept. 25, 1972, 37 F.R. 20155, which related to the administration of this chapter, was revoked by Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, set out below.
+Ex. Ord. No. 11501, Dec. 22, 1969, 34 F.R. 20169, as amended by Ex. Ord. No. 11685, Sept. 25, 1972, 37 F.R. 20155, which related to the administration of foreign military sales, was revoked by Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, formerly set out below.
 
-#### Ex. Ord. No. 11958. Administration of Chapter
+#### Executive Order No. 11958
 
-Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended by Ex. Ord. No. 12118, Feb. 6, 1979, 44 F.R. 7939; Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12210, Apr. 16, 1980, 45 F.R. 26313; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12738, §7, Dec. 14, 1990, 55 F.R. 52035; Ex. Ord. No. 13030, §2, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §1, June 29, 1998, 63 F.R. 36153; Ex. Ord. No. 13118, §10(8), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13284, §13, Jan. 23, 2003, 68 F.R. 4076, provided:
+Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended by Ex. Ord. No. 12118, Feb. 6, 1979, 44 F.R. 7939; Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673; Ex. Ord. No. 12210, Apr. 16, 1980, 45 F.R. 26313; Ex. Ord. No. 12321, Sept. 14, 1981, 46 F.R. 46109; Ex. Ord. No. 12365, May 24, 1982, 47 F.R. 22933; Ex. Ord. No. 12423, May 26, 1983, 48 F.R. 24025; Ex. Ord. No. 12560, May 24, 1986, 51 F.R. 19159; Ex. Ord. No. 12680, July 5, 1989, 54 F.R. 28995; Ex. Ord. No. 12738, §7, Dec. 14, 1990, 55 F.R. 52035; Ex. Ord. No. 13030, §2, Dec. 12, 1996, 61 F.R. 66187; Ex. Ord. No. 13091, §1, June 29, 1998, 63 F.R. 36153; Ex. Ord. No. 13118, §10(8), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13284, §13, Jan. 23, 2003, 68 F.R. 4076, which related to the administration of arms export controls, was revoked by Ex. Ord. No. 13637, §4, Mar. 8, 2013, 78 F.R. 16131, set out below.
 
-By virtue of the authority vested in me by the Constitution and statutes of the United States of America, including the Arms Export Control Act, as amended (22 U.S.C. 2751 <i>et seq</i>.), and Section 301 of Title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
+#### Ex. Ord. No. 13637. Administration of Reformed Export Controls
 
-Section 1. <i>Delegation of Functions</i>. The following functions conferred upon the President by the Arms Export Control Act (22 U.S.C. 2751 et seq.), hereinafter referred to as the Act, and related legislation, are delegated as follows:
+Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, provided:
 
-(a) Those under Section 3 of the Act \[22 U.S.C. 2753\], with the exception of subsections (a)(1), (b), (c)(3), (c)(4), and (f) to the Secretary of State: <i>Provided</i>, That the Secretary of State, in the implementation of the functions delegated to him under Sections 3(a) and (d) of the Act, is authorized to find, in the case of a proposed transfer of a defense article or related training or other defense service by a foreign country or international organization not otherwise eligible under Section 3(a)(1) of the Act, whether the proposed transfer will strengthen the security of the United States and promote world peace.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Arms Export Control Act, as amended (22 U.S.C. 2751 et seq.) (the "Act"), and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-(b) Those under Section 5 \[22 U.S.C. 2755\] to the Secretary of State.
+Section 1. <i>Delegation of Functions</i>. The following functions conferred upon the President by the Act, and related laws, are delegated as follows:
 
-(c) Those under Section 21 of the Act \[22 U.S.C. 2761\], with the exception of the last sentence of subsection (d) and all of subsection (i) \[22 U.S.C. 2761(d), (i)\], to the Secretary of Defense.
+(a) Those under section 3 of the Act (22 U.S.C. 2753), with the exception of subsections (a)(1), (b), (c)(3), (c)(4), and (f) (22 U.S.C. 2753(a)(1), (b), (c)(3), (c)(4), and (f)), to the Secretary of State. The Secretary of State, in the implementation of the delegated functions under sections 3(a) and (d) of the Act (22 U.S.C. 2753(a) and (d)), is authorized to find, in the case of a proposed transfer of a defense article or related training or other defense service by a foreign country or international organization not otherwise eligible under section 3(a)(1) of the Act (22 U.S.C. 2753(a)(1)), whether the proposed transfer will strengthen the security of the United States and promote world peace.
 
-(d) Those under Sections 22(a), 29, 30 and 30A of the Act \[22 U.S.C. 2762(a), 2769, 2770, 2770a\] to the Secretary of Defense.
+(b) Those under section 5 (22 U.S.C. 2755) to the Secretary of State.
 
-(e) Those under Section 23 of the Act \[22 U.S.C. 2763\] and section 571 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 (Public Law 101–167) \[22 U.S.C. 2763 note\], to the Secretary of Defense, to be exercised in consultation with the Secretary of State and the Secretary of the Treasury, except that the President shall determine any rate of interest to be charged which is less than the market rate of interest.
+(c) Those under section 21 of the Act (22 U.S.C. 2761), with the exception of the last sentence of subsection (d) and all of subsection (i) (22 U.S.C. 2761(d) and (i)), to the Secretary of Defense.
 
-(f) Those under Sections 24, 27, and 28 of the Act \[22 U.S.C. 2764, 2767, former 2768\] to the Secretary of Defense. The Secretary of Defense, in implementing the functions delegated to him under Sections 24 and 27 \[22 U.S.C. 2764, 2767\], shall consult with the Secretary of State and the Secretary of the Treasury.
+(d) Those under sections 22(a), 29, 30, and 30A of the Act (22 U.S.C. 2762(a), 2769, 2770, and 2770a) to the Secretary of Defense.
 
-(g) Those under Section 25 of the Act \[22 U.S.C. 2765\] to the Secretary of State. The Secretary of Defense and the Director of the Arms Control and Disarmament Agency, within their respective areas of responsibility, shall assist the Secretary of State in the preparation of materials for presentation to the Congress under that Section.
+(e) Those under section 23 of the Act (22 U.S.C. 2763), and under section 7069 of the Department of State, Foreign Operations, and Related Programs Appropriations Act, 2012 (Public Law 112–74, Division I) and any subsequently enacted provision of law that is the same orsubstantially the same, to the Secretary of Defense to be exercised in consultation with the Secretary of State and, other than the last sentence of section 23(a) (22 U.S.C. 2763(a)), in consultation with the Secretary of the Treasury, except that the President shall determine any rate of interest to be charged that is less than the market rate of interest.
 
-(h) Those under Section 34 of the Act \[22 U.S.C. 2774\] to the Secretary of State. To the extent the standards and criteria for credit and guaranty transactions are based upon national security and financial policies, the Secretary of State shall obtain the prior concurrence of the Secretary of Defense and the Secretary of the Treasury, respectively.
+(f) Those under sections 24 and 27 of the Act (22 U.S.C. 2764 and 2767) to the Secretary of Defense. The Secretary of Defense shall consult with the Secretary of State and the Secretary of the Treasury in implementing the delegated functions under section 24 (22 U.S.C. 2764) and with the Secretary of State in implementing the delegated functions under section 27 (22 U.S.C. 2767).
 
-(i) Those under Section 35(a) of the Act \[22 U.S.C. 2775(a)\] to the Secretary of State.
+(g) Those under section 25 of the Act (22 U.S.C. 2765) to the Secretary of State. The Secretary of Defense shall assist the Secretary of State in the preparation of materials for presentation to the Congress under that section.
 
-(j) Those under Sections 36(a) and 36(b)(1) of the Act \[22 U.S.C. 2776(a), (b)(1)\], except with respect to the certification of an emergency as provided by subsection (b)(1), to the Secretary of Defense. The Secretary of Defense, in the implementation of the functions delegated to him under Sections 36(a) and (b)(1) shall consult with the Secretary of State, who shall, with respect to matters related to subparagraphs (D) and (I) of Section 36(b)(1), consult with the Director of the Arms Control and Disarmament Agency. With respect to those functions under Sections 36(a)(5) and (6), the Secretary of Defense shall consult with the Director of the Office of Management and Budget.
+(h) Those under section 34 of the Act (22 U.S.C. 2774) to the Secretary of State. To the extent the standards and criteria for credit and guaranty transactions are based upon national security or financial policies, the Secretary of State shall obtain the prior concurrence of the Secretary of Defense and the Secretary of the Treasury, respectively.
 
-(k) Those under Sections 36(c) and (d) of the Act \[22 U.S.C. 2776(c), (d)\] to the Secretary of State. Those under Section 36(e) of the Act, as added by Public Law 104–164 with respect to transmittals pursuant to Section 36(b) to the Secretary of Defense, and with respect to transmittals pursuant to Section 36(c), to the Secretary of State.
+(i) Those under section 35(a) of the Act (22 U.S.C. 2775(a)) to the Secretary of State.
 
-(l) Those under Section 38 of the Act \[22 U.S.C. 2778\]:
+(j) Those under sections 36(a) and 36(b)(1) of the Act (22 U.S.C. 2776(a) and (b)(1)), except with respect to the certification of an emergency as provided by subsection (b)(1) (22 U.S.C. 2776(b)(1)), to the Secretary of Defense. The Secretary of Defense, in the implementation of the delegated functions under sections 36(a) and (b)(1) (22 U.S.C. 2776(a) and (b)(1)), shall consult with the Secretary of State. With respect to those functions under sections 36(a)(5) and (6) (22 U.S.C. 2776(a)(5) and (6)), the Secretary of Defense shall consult with the Director of the Office of Management and Budget.
 
-(1) to the Secretary of State, except as otherwise provided in this subsection. Designations, including changes in designations, by the Secretary of State of items or categories of items which shall be considered as defense articles and defense services subject to export control under Section 38 shall have the concurrence of the Secretary of Defense. The authority to undertake activities to ensure compliance with established export conditions may be redelegated to the Secretary of Defense, or to the head of another department or agency as appropriate, which shall exercise such functions in consultation with the Secretary of State;
+(k) Those under section 36(b)(1) with respect to the certification of an emergency as provided by subsection (b)(1) and under sections 36(c) and (d) of the Act (22 U.S.C. 2776(b)(1), (c), and (d)) to the Secretary of State.
 
-(2) to the Attorney General, to the extent they relate to the control of the import of defense articles and defense services. In carrying out such functions, the Attorney General shall be guided by the views of the Secretary of State on matters affecting world peace, and the external security and foreign policy of the United States. Designations including changes in designations, by the Attorney General of items or categories of items which shall be considered as defense articles and defense services subject to import control under Section 38 of the Act \[22 U.S.C. 2778\] shall have the concurrence of the Secretary of State and the Secretary of Defense;
+(l) Those under section 36(f)(1) of the Act (22 U.S.C. 2776(f)(1)) to the Secretary of Defense.
 
-(3) to the Secretary of Commerce, to carry out on behalf of the Secretary of State, to the extent such functions involve Section 38(e) of the Act \[22 U.S.C. 2778(e)\] and are agreed to by the Secretary of State and the Secretary of Commerce.
+(m) Those under sections 36(f)(2) and (f)(3) of the Act (22 U.S.C. 2776(f)(2) and (f)(3)) to the Secretary of State.
 
-(m) Those under Section 39(b) of the Act \[22 U.S.C. 2779(b)\] to the Secretary of State. In carrying out such functions, the Secretary of State shall consult with the Secretary of Defense as may be necessary to avoid interference in the application of Department of Defense regulations to sales made under Section 22 of the Act \[22 U.S.C. 2762\].
+(n) Those under section 38 of the Act (22 U.S.C. 2778) to:
 
-(n) Those under Section 40A of the Act \[22 U.S.C. 2785\], as added by Public Law 104–164, to the Secretary of State insofar as they relate to commercial exports licensed under the Act, and to the Secretary of Defense insofar as they relate to defense articles and defense services sold, leased, or transferred under the Foreign Military Sales Program.
+(i) the Secretary of State, except as otherwise provided in this subsection. Designations, including changes in designations, by the Secretary of State of items or categories of items that shall be considered as defense articles and defense services subject to export control under section 38 (22 U.S.C. 2778) shall have the concurrence of the Secretary of Defense. The authority to undertake activities to ensure compliance with established export conditions may be redelegated to the Secretary of Defense, or to the head of another executive department or agency as appropriate, who shall exercise such functions in consultation with the Secretary of State;
 
-(o) Those under Section 40A of the Act \[22 U.S.C. 2781\], as added by the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132), to the Secretary of State.
+(ii) the Attorney General, to the extent they relate to the control of the permanent import of defense articles and defense services. In carrying out such functions, the Attorney General shall be guided by the views of the Secretary of State on matters affecting world peace, and the external security and foreign policy of the United States. Designations, including changes in designations, by the Attorney General of items or categories of items that shall be considered as defense articles and defense services subject to permanent import control under section 38 of the Act (22 U.S.C. 2778) shall be made with the concurrence of the Secretary of State and the Secretary of Defense and with notice to the Secretary of Commerce; and
 
-(p) Those under Sections 42(c) and (f) of the Act \[22 U.S.C. 2791(c), (f)\] to the Secretary of Defense. The Secretary of Defense shall obtain the concurrence of the Secretary of State and the Secretary of the Treasury on any determination proposed under the authority of Section 42(c) of the Act \[22 U.S.C. 2791(c)\].
+(iii) the Department of State for the registration and licensing of those persons who engage in the business of brokering activities with respect to defense articles or defense services controlled either for purposes of export by the Department of State or for purposes of permanent import by the Department of Justice.
 
-(q) Those under Sections 52(b) and 53 of the Act \[22 U.S.C. 2795a(b), former 2795b\] to the Secretary of Defense.
+(o) Those under section 39(b) of the Act (22 U.S.C. 2779(b)) to the Secretary of State. In carrying out such functions, the Secretary of State shall consult with the Secretary of Defense as may be necessary to avoid interference in the application of Department of Defense regulations to sales made under section 22 of the Act (22 U.S.C. 2762).
 
-(r) Those under Sections 61 and 62(a) of the Act \[22 U.S.C. 2796, 2796a(a)\] to the Secretary of Defense.
+(p) Those under the portion of section 40A of the Act added by Public Law 104–164 (22 U.S.C. 2785), to the Secretary of State insofar as they relate to commercial exports licensed under the Act, and to the Secretary of Defense insofar as they relate to defense articles and defense services sold, leased, or transferred under the Foreign Military Sales Program.
 
-(s) Those under Section 2(b)(6) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(6)) to the Secretary of State.
+(q) Those under the portion of section 40A of the Act added by the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132) (22 U.S.C. 2781), to the Secretary of State.
 
-(t) Those under Section 588(b) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989 (Public Law 100–461) \[Oct. 1, 1988, 102 Stat. 2268–51\], to the Secretary of Defense, except with respect to the determination of an emergency as provided by subsection (b)(3). The Secretary of Defense in implementation of the functions delegated to him under section 588(b) shall consult with the Secretary of State.
+(r) Those under sections 42(c) and (f) of the Act (22 U.S.C. 2791(c) and (f)) to the Secretary of Defense. The Secretary of Defense shall obtain the concurrence of the Secretary of State and the Secretary of Commerce on any determination considered under the authority of section 42(c) of the Act (22 U.S.C. 2791(c)).
 
-Sec. 2. <i>Coordination</i>. (a) In addition to the specific provisions of Section 1 of this Order, the Secretary of State and the Secretary of Defense, in carrying out the functions delegated to them under this Order, shall consult with each other and with the heads of other departments and agencies, including the Secretary of the Treasury, the Attorney General, and the Chairman of the Export-Import Bank, on matters pertaining to their responsibilities.
+(s) Those under section 52(b) of the Act (22 U.S.C. 2795a(b)) to the Secretary of Defense.
 
-(b) In accordance with Section 2(b) of the Act \[22 U.S.C. 2752(b)\] and under the directions of the President, the Secretary of State, taking into account other United States activities abroad, shall be responsible for the continuous supervision and general direction of sales and exports under the Act, including but not limited to, the negotiation, conclusion, and termination of international agreements, and determining whether there shall be a sale to a country and the amount thereof, and whether there shall be delivery or other performance under such sale or export, to the end that sales and exports are integrated with other United States activities and the foreign policy of the United States is best served thereby.
+(t) Those under sections 61 and 62(a) of the Act (22 U.S.C. 2796 and 2796a(a)) to the Secretary of Defense.
+
+(u) Those under section 2(b)(6) of the Export-Import Bank Act of 1945, as amended (12 U.S.C. 635(b)(6)) to the Secretary of State.
+
+Sec. 2. <i>Coordination</i>. (a) In addition to the specific provisions of section 1 of this order, the Secretary of State and the Secretary of Defense, in carrying out the functions delegated to them under this order, shall consult with each other and with the heads of other executive departments and agencies on matters pertaining to their responsibilities.
+
+(b) Under the direction of the President and in accordance with section 2(b) of the Act (22 U.S.C. 2752(b)), the Secretary of State, taking into account other United States activities abroad, shall be responsible for the continuous supervision and general direction of sales and exports under the Act, including the negotiation, conclusion, and termination of international agreements, and determining whether there shall be a sale to a country and the amount thereof, and whether there shall be delivery or other performance under such sale or export, to the end that sales and exports are integrated with other United States activities and the foreign policy of the United States is best served thereby.
 
 Sec. 3. <i>Allocation of Funds</i>. Funds appropriated to the President for carrying out the Act shall be deemed to be allocated to the Secretary of Defense without any further action of the President.
 
-Sec. 4. <i>Revocation</i>. Executive Order No. 11501, as amended, is revoked; except that, to the extent consistent with this Order, all determinations, authorizations, regulations, rulings, certificates, orders, directives, contracts, agreements, and other actions made, issued, taken or entered into under the provisions of Executive Order No. 11501, as amended, and not revoked, superseded or otherwise made inapplicable, shall continue in full force and effect until amended, modified or terminated by appropriate authority.
+Sec. 4. <i>Revocation</i>. Executive Order 11958 of January 18, 1977, as amended, is revoked; except that, to the extent consistent with this order, all determinations, authorizations, regulations, rulings, certificates, orders, directives, contracts, agreements, and other actions made, issued, taken, or entered into under the provisions of Executive Order 11958, as amended, and not revoked, superseded, or otherwise made inapplicable, shall continue in full force and effect until amended, modified, or terminated by appropriate authority.
 
-\[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
+Sec. 5. <i>Delegation of Functions under the International Emergency Economic Powers Act</i>. \[Amended Ex. Ord. No. 13222, listed in a table under section 1701 of Title 50, War and National Defense.\]
+
+Sec. 6. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

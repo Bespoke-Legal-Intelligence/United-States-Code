@@ -22,19 +22,19 @@ Pub. L. 110–422, title VIII, §801(a), Oct. 15, 2008, 122 Stat. 4803.
 
 #### Findings
 
-Pub. L. 110–422, title VIII, §802, Oct. 15, 2008, 122 Stat. 4803, provided that: “Congress makes the following findings:
+Pub. L. 110–422, title VIII, §802, Oct. 15, 2008, 122 Stat. 4803, provided that: "Congress makes the following findings:
 
-&emsp;“(1) Near-Earth objects pose a serious and credible threat to humankind, as many scientists believe that a major asteroid or comet was responsible for the mass extinction of the majority of the Earth's species, including the dinosaurs, nearly 65,000,000 years ago.
+&emsp;"(1) Near-Earth objects pose a serious and credible threat to humankind, as many scientists believe that a major asteroid or comet was responsible for the mass extinction of the majority of the Earth's species, including the dinosaurs, nearly 65,000,000 years ago.
 
-&emsp;“(2) Several such near-Earth objects have only been discovered within days of the objects’ closest approach to Earth and recent discoveries of such large objects indicate that many large near-Earth objects remain undiscovered.
+&emsp;"(2) Several such near-Earth objects have only been discovered within days of the objects' closest approach to Earth and recent discoveries of such large objects indicate that many large near-Earth objects remain undiscovered.
 
-&emsp;“(3) Asteroid and comet collisions rank as one of the most costly natural disasters that can occur.
+&emsp;"(3) Asteroid and comet collisions rank as one of the most costly natural disasters that can occur.
 
-&emsp;“(4) The time needed to eliminate or mitigate the threat of a collision of a potentially hazardous near-Earth object with Earth is measured in decades.
+&emsp;"(4) The time needed to eliminate or mitigate the threat of a collision of a potentially hazardous near-Earth object with Earth is measured in decades.
 
-&emsp;“(5) Unlike earthquakes and hurricanes, asteroids and comets can provide adequate collision information, enabling the United States to include both asteroid-collision and comet-collision disaster recovery and disaster avoidance in its public-safety structure.
+&emsp;"(5) Unlike earthquakes and hurricanes, asteroids and comets can provide adequate collision information, enabling the United States to include both asteroid-collision and comet-collision disaster recovery and disaster avoidance in its public-safety structure.
 
-&emsp;“(6) Basic information is needed for technical and policy decisionmaking for the United States to create a comprehensive program in order to be ready to eliminate and mitigate the serious and credible threats to humankind posed by potentially hazardous near-Earth asteroids and comets.
+&emsp;"(6) Basic information is needed for technical and policy decisionmaking for the United States to create a comprehensive program in order to be ready to eliminate and mitigate the serious and credible threats to humankind posed by potentially hazardous near-Earth asteroids and comets.
 
-&emsp;“(7) As a first step to eliminate and to mitigate the risk of such collisions, situation and decision analysis processes, as well as procedures and system resources, must be in place well before a collision threat becomes known.”
+&emsp;"(7) As a first step to eliminate and to mitigate the risk of such collisions, situation and decision analysis processes, as well as procedures and system resources, must be in place well before a collision threat becomes known."
 

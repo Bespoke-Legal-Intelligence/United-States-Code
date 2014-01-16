@@ -2,33 +2,33 @@
 
 Except as provided in section 2297h–10a of this title, for purposes of this subchapter:
 
-&emsp;(1) The term “AVLIS” means atomic vapor laser isotope separation technology.
+&emsp;(1) The term "AVLIS" means atomic vapor laser isotope separation technology.
 
-&emsp;(2) The term “Corporation” means the United States Enrichment Corporation and, unless the context otherwise requires, includes the private corporation and any successor thereto following privatization.
+&emsp;(2) The term "Corporation" means the United States Enrichment Corporation and, unless the context otherwise requires, includes the private corporation and any successor thereto following privatization.
 
-&emsp;(3) The term “gaseous diffusion plants” means the Paducah Gaseous Diffusion Plant at Paducah, Kentucky and the Portsmouth Gaseous Diffusion Plant at Piketon, Ohio.
+&emsp;(3) The term "gaseous diffusion plants" means the Paducah Gaseous Diffusion Plant atPaducah, Kentucky and the Portsmouth Gaseous Diffusion Plant at Piketon, Ohio.
 
-&emsp;(4) The term “highly enriched uranium” means uranium enriched to 20 percent or more of the uranium-235 isotope.
+&emsp;(4) The term "highly enriched uranium" means uranium enriched to 20 percent or more of the uranium-235 isotope.
 
-&emsp;(5) The term “low-enriched uranium” means uranium enriched to less than 20 percent of the uranium-235 isotope, including that which is derived from highly enriched uranium.
+&emsp;(5) The term "low-enriched uranium" means uranium enriched to less than 20 percent of the uranium-235 isotope, including that which is derived from highly enriched uranium.
 
-&emsp;(6) The term “low-level radioactive waste” has the meaning given such term in section 2021b(9) of this title.
+&emsp;(6) The term "low-level radioactive waste" has the meaning given such term in section 2021b(9) of this title.
 
-&emsp;(7) The term “private corporation” means the corporation established under section 2297h–3 of this title.
+&emsp;(7) The term "private corporation" means the corporation established under section 2297h–3 of this title.
 
-&emsp;(8) The term “privatization” means the transfer of ownership of the Corporation to private investors.
+&emsp;(8) The term "privatization" means the transfer of ownership of the Corporation to private investors.
 
-&emsp;(9) The term “privatization date” means the date on which 100 percent of the ownership ofthe Corporation has been transferred to private investors.
+&emsp;(9) The term "privatization date" means the date on which 100 percent of the ownership of the Corporation has been transferred to private investors.
 
-&emsp;(10) The term “public offering” means an underwritten offering to the public of the common stock of the private corporation pursuant to section 2297h–2 of this title.
+&emsp;(10) The term "public offering" means an underwritten offering to the public of the common stock of the private corporation pursuant to section 2297h–2 of this title.
 
-&emsp;(11) The “Russian HEU Agreement” means the Agreement Between the Government of the United States of America and the Government of the Russian Federation Concerning the Disposition of Highly Enriched Uranium Extracted from Nuclear Weapons, dated February 18, 1993.
+&emsp;(11) The "Russian HEU Agreement" means the Agreement Between the Government of the United States of America and the Government of the Russian Federation Concerning the Disposition of Highly Enriched Uranium Extracted from Nuclear Weapons, dated February 18, 1993.
 
-&emsp;(12) The term “Secretary” means the Secretary of Energy.
+&emsp;(12) The term "Secretary" means the Secretary of Energy.
 
-&emsp;(13) The “Suspension Agreement” means the Agreement to Suspend the Antidumping Investigation on Uranium from the Russian Federation, as amended.
+&emsp;(13) The "Suspension Agreement" means the Agreement to Suspend the Antidumping Investigation on Uranium from the Russian Federation, as amended.
 
-&emsp;(14) The term “uranium enrichment” means the separation of uranium of a given isotopic content into 2 components, 1 having a higher percentage of a fissile isotope and 1 having a lower percentage.
+&emsp;(14) The term "uranium enrichment" means the separation of uranium of a given isotopic content into 2 components, 1 having a higher percentage of a fissile isotope and 1 having a lower percentage.
 
 (Pub. L. 104–134, title III, §3102, Apr. 26, 1996, 110 Stat. 1321–335; Pub. L. 110–329, div. C, title VIII, §8118(1), Sept. 30, 2008, 122 Stat. 3647.)
 
@@ -42,7 +42,7 @@ Section was enacted as part of the USEC Privatization Act and also as part of th
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–329 substituted “Except as provided in section 2297h–10a of this title, for purposes” for “For purposes” in introductory provisions.
+<b>2008</b>—Pub. L. 110–329 substituted "Except as provided in section 2297h–10a of this title, for purposes" for "For purposes" in introductory provisions.
 
 #### Ex. Ord. No. 13085. Establishment of Enrichment Oversight Committee
 
@@ -54,7 +54,7 @@ Section 1. <i>Establishment</i>. There is hereby established an Enrichment Overs
 
 Sec. 2. <i>Objectives</i>. The EOC shall monitor and coordinate United States Government efforts with respect to the privatized USEC and any successor entities involved in uranium enrichment and related businesses in furtherance of the following objectives:
 
-(a) The full implementation of the Agreement Between the Government of the United States of America and the Government of the Russian Federation Concerning the Disposition of Highly Enriched Uranium (HEU) Extracted from Nuclear Weapons, dated February 18, 1993 (“HEU Agreement”), and related contracts and agreements by the USEC as executive agent or by any other executive agents;
+(a) The full implementation of the Agreement Between the Government of the United States of America and the Government of the Russian Federation Concerning the Disposition of Highly Enriched Uranium (HEU) Extracted from Nuclear Weapons, dated February 18, 1993 ("HEU Agreement"), and related contracts and agreements by the USEC as executive agent or by any other executive agents;
 
 (b) The application of statutory, regulatory, and contractual restrictions on foreign ownership, control, or influence in the USEC, any successor entities, and any other executive agents;
 
@@ -70,7 +70,7 @@ Sec. 3. <i>Organization</i>. (a) The EOC shall be Chaired by a senior official f
 
 (d) At the request of the EOC, appropriate agencies, including the Department of Energy, shall provide day-to-day support for the EOC.
 
-Sec. 4. <i>HEU Agreement Oversight</i>. The EOC shall form an HEU Agreement Oversight Subcommittee (the “Subcommittee”) in order to continue coordination of the implementation of the HEU Agreement and related contracts and agreements, monitor actions taken by the executive agent, and make recommendations regarding steps designed to facilitate full implementation of the HEU Agreement, including changes with respect to the executive agent. The Subcommittee shall be chaired by a senior official from the NSC and shall include representatives of the Departments of State, Defense, Justice, Commerce, and Energy, and the Office of Management and Budget, the National Economic Council, the Intelligence Community, and, as appropriate, the United States Trade Representative, and the Council of Economic Advisers. The Subcommittee shall meet as appropriate to review the implementation of the HEU Agreement and consider steps to facilitate full implementation of that Agreement. In particular, the Subcommittee shall:
+Sec. 4. <i>HEU Agreement Oversight</i>. The EOC shall form an HEU Agreement Oversight Subcommittee (the "Subcommittee") in order to continue coordination of the implementation of the HEU Agreement and related contracts and agreements, monitor actions taken by the executive agent, and make recommendations regarding steps designed to facilitate full implementation of the HEU Agreement, including changes with respect to the executive agent. The Subcommittee shall be chaired by a senior official from the NSC and shall include representatives of the Departments of State, Defense, Justice, Commerce, and Energy, and the Office of Management and Budget, the National Economic Council, the Intelligence Community, and, as appropriate, the United States Trade Representative, and the Council of Economic Advisers. The Subcommittee shall meet as appropriate to review the implementation of the HEU Agreement and consider steps to facilitate full implementation of that Agreement. In particular, the Subcommittee shall:
 
 (a) have access to all information concerning implementation of the HEU Agreement and related contracts and agreements;
 
@@ -86,7 +86,7 @@ Sec. 4. <i>HEU Agreement Oversight</i>. The EOC shall form an HEU Agreement Over
 
 Sec. 5. <i>Foreign Ownership, Control, or Influence (FOCI)</i>. The EOC shall collect information and monitor issues relating to foreign ownership, control, or influence of the USEC or any successor entities. Specifically, the EOC shall:
 
-(a) monitor the application and enforcement of the FOCI requirements of the National Industrial Security Program established by Executive Order 12829 \[50 U.S.C. 435 note\] with respect to the USEC and any successor entities (<i>see</i> National Industrial Security Program Operating Manual, Department of Defense 2–3 (Oct. 1994));
+(a) monitor the application and enforcement of the FOCI requirements of the National Industrial Security Program established by Executive Order 12829 \[50 U.S.C. 3161 note\] with respect to the USEC and any successor entities (<i>see</i> National Industrial Security Program Operating Manual, Department of Defense 2–3 (Oct. 1994));
 
 (b) monitor and review reports and submissions relating to FOCI issues made by the USEC or any successor entity to the Nuclear Regulatory Commission (NRC) under the Atomic Energy Act of 1954, 42 U.S.C. 2011 <i>et seq</i>. (1994), and the USEC Privatization Act, Public Law 104–134, title III, 110 Stat. 1321–335 <i>et seq</i>. (1996) \[42 U.S.C. 2297h et seq.\];
 

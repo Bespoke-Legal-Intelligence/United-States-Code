@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The authorities conferred on the Office and the Director by this chapter shall be exercised in a manner consistent with provisions of the National Security Act of 1947 (50 U.S.C. 401 et seq.). The Director of National Intelligence shall prescribe such regulations as may be necessary to protect information provided pursuant to this chapter regarding intelligence sources and methods.
+&emsp;&emsp;The authorities conferred on the Office and the Director by this chapter shall be exercised in a manner consistent with provisions of the National Security Act of 1947 \[50 U.S.C. 3001 et seq.\]. The Director of National Intelligence shall prescribe such regulations as may be necessary to protect information provided pursuant to this chapter regarding intelligence sources and methods.
 
 #### (B) Duties of Director
 
@@ -40,7 +40,7 @@
 
 #### (D) Attorney General
 
-&emsp;&emsp;The Attorney General shall, by July 1 of each year, submit to the Director and theappropriate congressional committees information for the preceding year regarding the number and type of—
+&emsp;&emsp;The Attorney General shall, by July 1 of each year, submit to the Director and the appropriate congressional committees information for the preceding year regarding the number and type of—
 
 &emsp;&emsp;&emsp;(i) arrests for drug violations;
 
@@ -52,7 +52,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the head of a National Drug Control Program agency shall, unless exigent circumstances require otherwise, notify the Director in writing regarding any proposed change in policies relating to the activities of that agency under the National Drug Control Program prior to implementation of such change. The Director shall promptly review such proposed change and certify to the head of that agency in writing whether such change is consistent with the National Drug Control Strategy.
+&emsp;Subject to paragraph (2), the head of a National Drug Control Program agency shall, unless exigent circumstances require otherwise, notify the Director in writing regarding any proposed change in policies relating to the activities of that agency under the National Drug Control Program prior to implementation of such change. The Director shallpromptly review such proposed change and certify to the head of that agency in writing whether such change is consistent with the National Drug Control Strategy.
 
 #### (2) Exception
 
@@ -82,19 +82,19 @@ The Director shall—
 
 #### References in Text
 
-The National Security Act of 1947, referred to in subsec. (a)(2)(A), is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50, War and National Defense, and Tables.
+The National Security Act of 1947, referred to in subsec. (a)(2)(A), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in Title 50, and is now classified principally to chapter 44 (§3001 et seq.) of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1)(A). Pub. L. 109–469, §104(1), struck out “abuse” after “drug”.
+<b>2006</b>—Subsec. (a)(1)(A). Pub. L. 109–469, §104(1), struck out "abuse" after "drug".
 
-Subsec. (a)(2)(A). Pub. L. 109–469, §104(2), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+Subsec. (a)(2)(A). Pub. L. 109–469, §104(2), substituted "Director of National Intelligence" for "Director of Central Intelligence".
 
-Subsec. (a)(2)(B). Pub. L. 109–469, §104(3), substituted “Director of National Intelligence and the Director of the Central Intelligence Agency” for “Director of Central Intelligence”.
+Subsec. (a)(2)(B). Pub. L. 109–469, §104(3), substituted "Director of National Intelligence and the Director of the Central Intelligence Agency" for "Director of Central Intelligence".
 
-Subsec. (a)(3). Pub. L. 109–469, §104(4), amended par. (3) generally. Prior to amendment, text read as follows: “The Secretary of Agriculture shall annually submit to the Director an assessment of the acreage of illegal drug cultivation in the United States.”
+Subsec. (a)(3). Pub. L. 109–469, §104(4), amended par. (3) generally. Prior to amendment, text read as follows: "The Secretary of Agriculture shall annually submit to the Director an assessment of the acreage of illegal drug cultivation in the United States."
 
-Subsec. (b)(2)(B). Pub. L. 109–469, §104(5), substituted “Strategy” for “Program”.
+Subsec. (b)(2)(B). Pub. L. 109–469, §104(5), substituted "Strategy" for "Program".
 
-Subsec. (c). Pub. L. 109–469, §104(6), substituted “on” for “in”.
+Subsec. (c). Pub. L. 109–469, §104(6), substituted "on" for "in".
 

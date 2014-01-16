@@ -4,11 +4,11 @@ In this part:
 
 #### (1) Alaska Native
 
-&emsp;The term “Alaska Native” has the same meaning as the term “Native” has in section 1602(b) of title 43.
+&emsp;The term "Alaska Native" has the same meaning as the term "Native" has in section 1602(b) of title 43.
 
 #### (2) Alaska Native organization
 
-&emsp;The term “Alaska Native organization” means a federally recognized tribe, consortium of tribes, regional nonprofit Native association, and another organization that—
+&emsp;The term "Alaska Native organization" means a federally recognized tribe, consortium of tribes, regional nonprofit Native association, and another organization that—
 
 &emsp;&emsp;(A) has or commits to acquire expertise in the education of Alaska Natives; and
 

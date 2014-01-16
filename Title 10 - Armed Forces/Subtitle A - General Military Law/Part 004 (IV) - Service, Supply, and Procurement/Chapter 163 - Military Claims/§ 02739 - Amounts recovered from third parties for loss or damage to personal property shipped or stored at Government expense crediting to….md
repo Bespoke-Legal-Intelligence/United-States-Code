@@ -16,5 +16,5 @@ Qualifying Military Department Third-Party Collections.—For purposes of subsec
 
 #### Effective Date
 
-Pub. L. 105–261, div. A, title X, §1010(b), Oct. 17, 1998, 112 Stat. 2117, provided that: “Section 2739 of title 10, United States Code, as added by subsection (a), applies with respect to amounts collected by a military department on or after the date of the enactment of this Act \[Oct. 17, 1998\].”
+Pub. L. 105–261, div. A, title X, §1010(b), Oct. 17, 1998, 112 Stat. 2117, provided that: "Section 2739 of title 10, United States Code, as added by subsection (a), applies with respect to amounts collected by a military department on or after the date of the enactment of this Act \[Oct. 17, 1998\]."
 

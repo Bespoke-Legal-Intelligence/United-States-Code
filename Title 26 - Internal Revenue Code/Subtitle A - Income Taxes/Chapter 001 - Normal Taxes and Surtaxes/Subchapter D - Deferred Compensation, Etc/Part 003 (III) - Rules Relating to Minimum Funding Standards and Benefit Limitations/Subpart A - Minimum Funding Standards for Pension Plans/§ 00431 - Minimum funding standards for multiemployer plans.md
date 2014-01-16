@@ -106,7 +106,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (G) Short-term benefits
 
-&emsp;&emsp;To the extent that any plan amendment increases the unfunded past service liability under the plan by reason of an increase in benefits which are not payable as a life annuity but are payable under the terms of the plan for a period that does not exceed 14 years from the effective date of the amendment, paragraph (2)(B)(ii) shall be applied separately with respect to such increase in unfunded past service liability by substituting the number of years of the period during which such benefits are payable for “15”.
+&emsp;&emsp;To the extent that any plan amendment increases the unfunded past service liability under the plan by reason of an increase in benefits which are not payable as a life annuity but are payable under the terms of the plan for a period that does not exceed 14 years from the effective date of the amendment, paragraph (2)(B)(ii) shall be applied separately with respect to such increase in unfunded past service liability by substituting the number of years of the period during which such benefits are payable for "15".
 
 #### (8) Special relief rules
 
@@ -220,7 +220,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 &emsp;&emsp;(A) a change in benefits under the Social Security Act or in other retirement benefits created under Federal or State law, or
 
-&emsp;&emsp;(B) a change in the definition of the term “wages” under section 3121, or a change in the amount of such wages taken into account under regulations prescribed for purposes of section 401(a)(5),
+&emsp;&emsp;(B) a change in the definition of the term "wages" under section 3121, or a change in the amount of such wages taken into account under regulations prescribed for purposes of section 401(a)(5),
 
 > &emsp;results in an increase or decrease in accrued liability under a plan, such increase or decrease shall be treated as an experience loss or gain.
 
@@ -236,7 +236,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (5), the term “full-funding limitation” means the excess (if any) of—
+&emsp;&emsp;For purposes of paragraph (5), the term "full-funding limitation" means the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) the accrued liability (including normal cost) under the plan (determined under the entry age normal funding method if such accrued liability cannot be directly calculated under the funding method used for the plan), over
 
@@ -270,7 +270,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “current liability” means all liabilities to employees and their beneficiaries under the plan.
+&emsp;&emsp;&emsp;The term "current liability" means all liabilities to employees and their beneficiaries under the plan.
 
 #### (ii) Treatment of unpredictable contingent event benefits
 
@@ -288,9 +288,9 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (iv) Mortality tables
 
-#### (I) Commissioners’ standard table
+#### (I) Commissioners' standard table
 
-&emsp;&emsp;&emsp;&emsp;In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed by the Secretary which is based on the prevailing commissioners’ standard table (described in section 807(d)(5)(A)) used to determine reserves for group annuity contracts issued on January 1, 1993.
+&emsp;&emsp;&emsp;&emsp;In the case of plan years beginning before the first plan year to which the first tables prescribed under subclause (II) apply, the mortality table used in determining current liability under this paragraph shall be the table prescribed by the Secretary which is based on the prevailing commissioners' standard table (described in section 807(d)(5)(A)) used to determine reserves for group annuity contracts issued on January 1, 1993.
 
 #### (II) Secretarial authority
 
@@ -326,7 +326,7 @@ For purposes of section 412, the accumulated funding deficiency of a multiemploy
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the term “permissible range” means a rate of interest which is not more than 5 percent above, and not more than 10 percent below, the weighted average of the rates of interest on 30-year Treasury securities during the 4-year period ending on the last day before the beginning of the plan year.
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the term "permissible range" means a rate of interest which is not more than 5 percent above, and not more than 10 percent below, the weighted average of the rates of interest on 30-year Treasury securities during the 4-year period ending on the last day before the beginning of the plan year.
 
 #### (II) Secretarial authority
 
@@ -448,29 +448,29 @@ The Social Security Act, referred to in subsec. (c)(4)(A), (6)(D)(v)(II), is act
 
 Pub. L. 111–192, title II, §211(b), June 25, 2010, 124 Stat. 1306, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section and section 1084 of Title 29, Labor\] shall take effect as of the first day of the first plan year ending after August 31, 2008, except that any election a plan makes pursuant to this section that affects the plan's funding standard account for the first plan year beginning after August 31, 2008, shall be disregarded for purposes of applying the provisions of section 305 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1085\] and section 432 of the Internal Revenue Code of 1986 to such plan year.
 
-“(2)
+"(2)
 
-Restrictions on benefit increases.—Notwithstanding paragraph (1), the restrictions on plan amendments increasing benefits in sections 304(b)(8)(D) of such Act \[29 U.S.C. 1084(b)(8)(D)\] and 431(b)(8)(D) of such Code, as added by this section, shall take effect on the date of enactment of this Act \[June 25, 2010\].”
+Restrictions on benefit increases.—Notwithstanding paragraph (1), the restrictions on plan amendments increasing benefits in sections 304(b)(8)(D) of such Act \[29 U.S.C. 1084(b)(8)(D)\] and 431(b)(8)(D) of such Code, as added by this section, shall take effect on the date of enactment of this Act \[June 25, 2010\]."
 
 #### Effective Date
 
 Pub. L. 109–280, title II, §211(b), Aug. 17, 2006, 120 Stat. 898, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[enacting this section\] shall apply to plan years beginning after 2007.
 
-“(2)
+"(2)
 
-Special rule for certain amortization extensions.—If the Secretary of the Treasury grants an extension under section 304 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1084\] and section 412(e) of the Internal Revenue Code of 1986 with respect to any application filed with the Secretary of the Treasury on or before June 30, 2005, the extension (and any modification thereof) shall be applied and administered under the rules of such sections as in effect before the enactment of this Act \[Aug. 17, 2006\], including the use of the rate of interest determined under section 6621(b) of such Code.”
+Special rule for certain amortization extensions.—If the Secretary of the Treasury grants an extension under section 304 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1084\] and section 412(e) of the Internal Revenue Code of 1986 with respect to any application filed with the Secretary of the Treasury on or before June 30, 2005, the extension (and any modification thereof) shall be applied and administered under the rules of such sections as in effect before the enactment of this Act \[Aug. 17, 2006\], including the use of the rate of interest determined under section 6621(b) of such Code."
 
 #### Special Rule for Certain Benefits Funded Under an Agreement Approved by the Pension Benefit Guaranty Corporation
 
 For applicability of this section to a multiemployer plan that is a party to an agreement that was approved by the Pension Benefit Guaranty Corporation prior to June 30, 2005, and that increases benefits and provides for certain withdrawal liability rules, see section 206 of Pub. L. 109–280, set out as a note under section 412 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “title”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "title".</i>
 

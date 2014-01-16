@@ -56,7 +56,7 @@
 
 &emsp;&emsp;Except as provided in subparagraph (B), from amounts made available under subsection (d)(2), the Commission shall reimburse costs reasonably incurred by—
 
-&emsp;&emsp;&emsp;(i) a broadcast television licensee that was reassigned under paragraph (1)(B)(i)from one ultra high frequency television channel to a different ultra high frequency television channel, from one very high frequency television channel to a different very high frequency television channel, or, in accordance with subsection (g)(1)(B), from a very high frequency television channel to an ultra high frequency television channel, in order for the licensee to relocate its television service from one channel to the other;
+&emsp;&emsp;&emsp;(i) a broadcast television licensee that was reassigned under paragraph (1)(B)(i) from one ultra high frequency television channel to a different ultra high frequency television channel, from one very high frequency television channel to a different very high frequency television channel, or, in accordance with subsection (g)(1)(B), from a very high frequency television channel to an ultra high frequency television channel, in order for the licensee to relocate its television service from one channel to the other;
 
 &emsp;&emsp;&emsp;(ii) a multichannel video programming distributor in order to continue to carry the signal of a broadcast television licensee that—
 
@@ -206,7 +206,7 @@ Nothing in subsection (b) shall be construed to—
 
 &emsp;(1) expand or contract the authority of the Commission, except as otherwise expressly provided; or
 
-&emsp;(2) prevent the implementation of the Commission's “White Spaces” Second Report and Order and Memorandum Opinion and Order (FCC 08–260, adopted November 4, 2008) in the spectrum that remains allocated for broadcast television use after the reorganization required by such subsection.
+&emsp;(2) prevent the implementation of the Commission's "White Spaces" Second Report and Order and Memorandum Opinion and Order (FCC 08–260, adopted November 4, 2008) in the spectrum that remains allocated for broadcast television use after the reorganization required by such subsection.
 
 (Pub. L. 112–96, title VI, §6403, Feb. 22, 2012, 126 Stat. 225.)
 

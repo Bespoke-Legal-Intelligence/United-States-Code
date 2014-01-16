@@ -28,7 +28,7 @@ This chapter shall not apply with respect to the United States Government, any S
 
 &emsp;&emsp;(v) any individual assigned to a space where sensitive cryptologic information is produced, processed, or stored for any such agency; or
 
-&emsp;&emsp;(B) any expert, or consultant (or employee of such expert or consultant) under contractwith any Federal Government department, agency, or program whose duties involve access to information that has been classified at the level of top secret or designated as being within a special access program under section 4.2(a) of Executive Order 12356 (or a successor Executive order).
+&emsp;&emsp;(B) any expert, or consultant (or employee of such expert or consultant) under contract with any Federal Government department, agency, or program whose duties involve access to information that has been classified at the level of top secret or designated as being within a special access program under section 4.2(a) of Executive Order 12356 (or a successor Executive order).
 
 #### (c) FBI contractors exemption
 
@@ -104,15 +104,15 @@ Subject to sections 2007 and 2009 of this title, this chapter shall not prohibit
 
 #### References in Text
 
-Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was set out as a note under section 435 of Title 50, War and National Defense, prior to revocation by Ex. Ord. No. 12958, §6.1(d), Apr. 17, 1995, 60 F.R. 19843. For provisions relating to special access programs, see section 4.3 of Ex. Ord. No. 13526.
+Executive Order 12356, referred to in subsec. (b)(2)(B), was Ex. Ord. No. 12356, Apr. 2, 1982, 47 F.R. 14874, 15557, which was formerly set out as a note under section 435 (now section 3161) of Title 50, War and National Defense, and was revoked by Ex. Ord. No. 12958, §6.1(d), Apr. 17, 1995, 60 F.R. 19843. For provisions relating to special access programs, see section 4.3 of Ex. Ord. No. 13526, set out as a note under section 3161 of Title 50.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(2)(A)(i). Pub. L. 110–417 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2008</b>—Subsec. (b)(2)(A)(i). Pub. L. 110–417 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency".
 
-<b>1996</b>—Subsec. (b)(2)(A)(i). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
+<b>1996</b>—Subsec. (b)(2)(A)(i). Pub. L. 104–201 substituted "National Imagery and Mapping Agency" for "Central Imagery Office".
 
-<b>1994</b>—Subsec. (b)(2)(A)(i). Pub. L. 103–359 inserted “the Central Imagery Office,” after “Defense Intelligence Agency,”.
+<b>1994</b>—Subsec. (b)(2)(A)(i). Pub. L. 103–359 inserted "the Central Imagery Office," after "Defense Intelligence Agency,".
 
 #### Effective Date of 1996 Amendment
 

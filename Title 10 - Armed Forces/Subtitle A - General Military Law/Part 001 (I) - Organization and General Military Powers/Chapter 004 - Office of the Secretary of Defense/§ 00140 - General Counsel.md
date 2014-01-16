@@ -28,7 +28,7 @@ Historical and Revision Notes
 
 \[Uncodified: 1953 Reorg. Plan No. 6, eff. June 30, 1953, §4 (2d sentence), 67 Stat. 639\].
 
-In subsection (b), the words “from time to time” are omitted as surplusage.
+In subsection (b), the words "from time to time" are omitted as surplusage.
 
 #### Prior Provisions
 
@@ -40,7 +40,7 @@ Another prior section 140 was renumbered section 127 of this title.
 
 <b>1993</b>—Pub. L. 103–160 renumbered section 139 of this title as this section.
 
-<b>1986</b>—Pub. L. 99–433, §§101(a)(7), 110(d)(11), renumbered section 137 of this title as this section, and struck out “: powers and duties” at end of section catchline.
+<b>1986</b>—Pub. L. 99–433, §§101(a)(7), 110(d)(11), renumbered section 137 of this title as this section, and struck out ": powers and duties" at end of section catchline.
 
 <b>1964</b>—Subsec. (c). Pub. L. 88–426 repealed subsec. (c) which related to compensation of General Counsel. See section 5315 of Title 5, Government Organization and Employees.
 

@@ -80,9 +80,9 @@ The Cooperative Extension Service within each State shall transfer information d
 
 &emsp;(11) provide information concerning whole-farm management systems integrating research results under this subchapter, chapter 86 of this title,<sup>1</sup> and other appropriate research programs of the Department.
 
-#### (h) “Appropriate field office personnel” defined
+#### (h) "Appropriate field office personnel" defined
 
-For purposes of this section, the term “appropriate field office personnel” includes employees of the National Institute of Food and Agriculture, Soil Conservation Service, and other appropriate Department of Agriculture personnel, as determined by the Secretary, whose activities involve the provision of agricultural production and conservation information to agricultural producers.
+For purposes of this section, the term "appropriate field office personnel" includes employees of the National Institute of Food and Agriculture, Soil Conservation Service, and other appropriate Department of Agriculture personnel, as determined by the Secretary, whose activities involve the provision of agricultural production and conservation information to agricultural producers.
 
 #### (i) Authorization of appropriations
 
@@ -92,7 +92,7 @@ There are authorized to be appropriated $20,000,000 for each fiscal year to carr
 
 #### References in Text
 
-Chapter 86 of this title, referred to in subsecs. (f) and (g), was in the original “subtitle G of title XIV”, meaning subtitle G (§§1481–1485) of title XIV of Pub. L. 101–624, which was repealed by Pub. L. 105–185, title III, §302(c), June 23, 1998, 112 Stat. 563.
+Chapter 86 of this title, referred to in subsecs. (f) and (g), was in the original "subtitle G of title XIV", meaning subtitle G (§§1481–1485) of title XIV of Pub. L. 101–624, which was repealed by Pub. L. 105–185, title III, §302(c), June 23, 1998, 112 Stat. 563.
 
 #### Codification
 
@@ -100,15 +100,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–246, §7511(c)(17)(A), substituted “the National Institute of Food and Agriculture” for “the Extension Service” in first sentence.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246, §7511(c)(17)(A), substituted "the National Institute of Food and Agriculture" for "the Extension Service" in first sentence.
 
-Subsec. (h). Pub. L. 110–246, §7511(c)(17)(B), substituted “National Institute of Food and Agriculture” for “Extension Service”.
+Subsec. (h). Pub. L. 110–246, §7511(c)(17)(B), substituted "National Institute of Food and Agriculture" for "Extension Service".
 
-<b>1998</b>—Subsec. (g). Pub. L. 105–185 struck out “section 5881 of this title,” before “and other appropriate research” in introductory provisions.
+<b>1998</b>—Subsec. (g). Pub. L. 105–185 struck out "section 5881 of this title," before "and other appropriate research" in introductory provisions.
 
-<b>1996</b>—Subsecs. (f), (g)(11). Pub. L. 104–127 struck out “section 5881 of this title,” before “and other appropriate”.
+<b>1996</b>—Subsecs. (f), (g)(11). Pub. L. 104–127 struck out "section 5881 of this title," before "and other appropriate".
 
-<b>1991</b>—Subsec. (c)(1). Pub. L. 102–237 substituted “ensure” for “insure”.
+<b>1991</b>—Subsec. (c)(1). Pub. L. 102–237 substituted "ensure" for "insure".
 
 #### Effective Date of 2008 Amendment
 

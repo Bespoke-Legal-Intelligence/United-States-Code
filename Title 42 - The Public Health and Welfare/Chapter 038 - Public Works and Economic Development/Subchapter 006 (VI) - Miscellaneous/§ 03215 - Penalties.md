@@ -26,7 +26,7 @@ A person that is connected in any capacity with the Secretary in the administrat
 
 &emsp;(3) with intent to defraud, participates or shares in or receives directly or indirectly any money, profit, property, or benefit through any transaction, loan, grant, commission, contract, or any other act of the Secretary; or
 
-&emsp;(4) gives any unauthorized information concerning any future action or plan of the Secretary that might affect the value of securities, or having such knowledge invests or speculates, directly or indirectly, in the securities or property of any company or corporation receiving loans, grants, or other assistance from the Secretary;
+&emsp;(4) gives any unauthorized information concerning any future action or plan of the Secretary that might affect the value of securities, or having such knowledge invests or speculates, directly or indirectly, in the securitiesor property of any company or corporation receiving loans, grants, or other assistance from the Secretary;
 
 > shall be fined under title 18, imprisoned not more than 5 years, or both.
 

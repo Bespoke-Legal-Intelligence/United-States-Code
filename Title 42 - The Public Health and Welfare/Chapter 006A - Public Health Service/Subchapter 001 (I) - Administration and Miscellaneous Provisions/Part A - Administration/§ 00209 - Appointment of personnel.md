@@ -12,7 +12,7 @@
 
 (1) Not more than 10 per centum of the original appointments to the Regular Corps authorized to be made during any fiscal year may be made to grades above that of senior assistant, but no such appointment (other than an appointment under section 205 of this title) may be made to a grade above that of director. For the purpose of this subsection the number of original appointments authorized to be made during a fiscal year shall be (1) the excess of the number of officers of the Regular Corps authorized by the appropriation Act or Acts for such year over the number of officers on active duty in the Regular Corps on the first day of such year, plus (2) the number of such officers of the Regular Corps who, during such fiscal year, have been or will be retired upon attainment of age sixty-four or have for any other reason ceased to be on active duty. In determining the number of appointments authorized by this subsection an appointment shall be deemed to be made in the fiscal year in which the nomination is transmitted by the President to the Senate.
 
-(2) In addition to the number of original appointments to the Regular Corps authorized by paragraph (1) to be made to grades above that ofsenior assistant, original appointments authorized to be made to the Regular Corps in any year may be made to grades above that of senior assistant, but not above that of director, in the case of any individual who—
+(2) In addition to the number of original appointments to the Regular Corps authorized by paragraph (1) to be made to grades above that of senior assistant, original appointments authorized to be made to the Regular Corps in any year may be made to grades above that of senior assistant, but not above that of director, in the case of any individual who—
 
 &emsp;(A)(i) was on active duty in the Reserve Corps on July 1, 1960, (ii) was on such active duty continuously for not less than one year immediately prior to such date, and (iii) applies for appointment to the Regular Corps prior to July 1, 1962; or
 
@@ -30,7 +30,7 @@ Commissions evidencing the appointment by the President of officers of the Regul
 
 (2) For purposes of basic pay, any person appointed under subsection (a) of this section to the grade of senior assistant in the Regular Corps, and any person appointed under subsection (b) of this section, shall, in lieu of the credit provided in paragraph (1) of this subsection, be credited with the service for which he is entitled to credit under any other provision of law if such service exceeds that to which he would be entitled under such paragraph.
 
-(3) For purposes of promotion, any person originally appointed in the Regular Corps to the senior assistant grade or above who has had active service in the Reserve Corps shall be considered as having had on the date of appointment the length of service provided for in paragraph (1) of this subsection, plus whichever of the following is greater: (A) The excess of his total active service in the Reserve Corps (above the grade of junior assistant) over the length of service provided in such paragraph, to the extent that such excess is on account of service in the Reserve Corps in or above the grade to which he is appointed in the Regular Corps or (B) his active service in the same or any higher grade in the Reserve Corps after the first day on which, under regulations in effect on the date of his appointment to the Regular Corps, he would have had the training and experience necessary for such appointment.
+(3) For purposes of promotion, any person originally appointed in the Regular Corps to the senior assistant grade or above who has had active service in the Reserve Corps shall be considered as having had on the date of appointment the length of service provided for in paragraph (1) of this subsection, plus whichever of the following is greater: (A) The excess of his total active service in the Reserve Corps (above the grade of junior assistant) over the length of service provided in such paragraph, to the extent that such excess is on account of service in the Reserve Corps in or above the grade to which he is appointed in the Regular Corps or (B) his active service in the same or any higher grade in the Reserve Corps after the first day on which,under regulations in effect on the date of his appointment to the Regular Corps, he would have had the training and experience necessary for such appointment.
 
 (4) For purposes of promotion, any person whose original appointment is to the assistant grade in the Regular Corps shall be considered as having had on the date of appointment service equal to his total active service in the Reserve Corps in and above the assistant grade.
 
@@ -62,7 +62,7 @@ The appointment of any officer or employee of the Service made in accordance wit
 
 #### Codification
 
-In subsec. (f), the words “and their compensation may be fixed without regard to the Classification Act of 1923, as amended”, and in subsec. (g), the words “and compensated without regard to the Classification Act of 1923, as amended” were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in subsecs. (f) and (g) because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632 (of which section 1 revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+In subsec. (f), the words "and their compensation may be fixed without regard to the Classification Act of 1923, as amended", and in subsec. (g), the words "and compensated without regard to the Classification Act of 1923, as amended" were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exceptions contained in subsecs. (f) and (g) because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632 (of which section 1 revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
 In subsec. (h), the references to subsections (f) and (g) of this section were, in the original, references to subsections (e) and (f) and were changed to reflect the probable intent of Congress.
 
@@ -72,7 +72,7 @@ A prior section 207 of act July 1, 1944, was classified to section 208 of this t
 
 #### Amendments
 
-<b>1983</b>—Subsec. (a)(1). Pub. L. 97–414 inserted “psychology,” after “pharmacy,”.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 97–414 inserted "psychology," after "pharmacy,".
 
 <b>1981</b>—Subsec. (b)(1). Pub. L. 97–35 inserted provisions relating to exception for an appointment under section 205 of this title.
 
@@ -84,27 +84,27 @@ Subsec. (b). Pub. L. 86–415, §3, designated first, second and third sentences
 
 <b>1956</b>—Subsec. (a)(1). Act Apr. 27, 1956, §3(a), inserted reference to subsection (e) of this section.
 
-Subsec. (a)(2). Act Apr. 27, 1956, §3(c)(1), substituted “an indefinite period” for “a period of not more than five years”.
+Subsec. (a)(2). Act Apr. 27, 1956, §3(c)(1), substituted "an indefinite period" for "a period of not more than five years".
 
 Subsecs. (e) to (i). Act Apr. 27, 1956, §3(b), added subsec. (e) and redesignated former subsecs. (e) to (h) as (f) to (i), respectively.
 
-<b>1949</b>—Subsec. (d). Act Oct. 12, 1949, substituted “base pay” for “pay and pay period” wherever appearing.
+<b>1949</b>—Subsec. (d). Act Oct. 12, 1949, substituted "base pay" for "pay and pay period" wherever appearing.
 
-<b>1948</b>—Subsec. (a)(1). Act Feb. 28, 1948, struck out “surgery” after “several branches of medicine”.
+<b>1948</b>—Subsec. (a)(1). Act Feb. 28, 1948, struck out "surgery" after "several branches of medicine".
 
-Subsec. (a)(2). Act Feb. 28, 1948, struck out “any such commission” before “may be terminated”, and “in his discretion” after “at any time”.
+Subsec. (a)(2). Act Feb. 28, 1948, struck out "any such commission" before "may be terminated", and "in his discretion" after "at any time".
 
 Subsec. (b). Act Feb. 28, 1948, provided for grade and number of original appointments.
 
 Subsecs. (c) to (f). Act Feb. 28, 1948, added subsecs. (c) and (d) and redesignated former subsecs. (c) and (d) as (e) and (f), respectively. Former subsecs. (e) and (f) redesignated (g) and (h).
 
-Subsec. (g). Act Feb. 28, 1948, redesignated former subsec. (e) as (g) and changed reference in text from “subsection (c) of this section” to “subsection (e) of this section”, and “subsection (d) of this section” to “subsection (g) of this section”.
+Subsec. (g). Act Feb. 28, 1948, redesignated former subsec. (e) as (g) and changed reference in text from "subsection (c) of this section" to "subsection (e) of this section", and "subsection (d) of this section" to "subsection (g) of this section".
 
 Subsec. (h). Act Feb. 28, 1948, redesignated former subsec. (f) as (h).
 
 <b>1946</b>—Subsec. (b). Act July 3, 1946, authorized appointment of additional officers to grades above that of senior assistant but not above that of director, and limits the number so appointed to 20.
 
-Subsec. (b)(2). Act Aug. 13, 1946, inserted “(A)” before “to assist”, substituted “clause” for “paragraphs”, and inserted cl. (B).
+Subsec. (b)(2). Act Aug. 13, 1946, inserted "(A)" before "to assist", substituted "clause" for "paragraphs", and inserted cl. (B).
 
 #### Effective Date of 1979 Amendment
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 96–76 effective Oct. 1, 1979, see section 314 of Pub. L. 
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–415, §8(a), Apr. 8, 1960, 74 Stat. 36, provided that: “The amendments made by sections 2 and 5(b) \[amending this section and section 210 of this title\] shall become effective July 1, 1960.”
+Pub. L. 86–415, §8(a), Apr. 8, 1960, 74 Stat. 36, provided that: "The amendments made by sections 2 and 5(b) \[amending this section and section 210 of this title\] shall become effective July 1, 1960."
 
 #### Effective Date of 1949 Amendment
 
@@ -130,7 +130,7 @@ Functions of President delegated to Secretary of Health and Human Services and S
 
 #### Personal Services Contracting
 
-Pub. L. 109–149, title II, §216, Dec. 30, 2005, 119 Stat. 2861, provided that: “The Division of Federal Occupational Health hereafter may utilize personal services contracting to employ professional management/administrative and occupational health professionals.”
+Pub. L. 109–149, title II, §216, Dec. 30, 2005, 119 Stat. 2861, provided that: "The Division of Federal Occupational Health hereafter may utilize personal services contracting to employ professional management/administrative and occupational health professionals."
 
 #### Similar Provisions
 
@@ -158,5 +158,5 @@ Pub. L. 104–134, title I, §101(d) \[title II\], Apr. 26, 1996, 110 Stat. 1321
 
 #### Term of Reserve Commissions in Effect on April 27, 1956
 
-Act Apr. 27, 1956, ch. 211, §3(c)(2), 70 Stat. 117, provided that: “The enactment of paragraph (1) of this subsection \[amending this section\] shall not affect the term of the commission of any officer in the Reserve Corps in effect on the date of such enactment \[Apr. 27, 1956\] unless such officer consents in writing to the extension of his commission for an indefinite period, in which event his commission shall be so extended without the necessity of a new appointment.”
+Act Apr. 27, 1956, ch. 211, §3(c)(2), 70 Stat. 117, provided that: "The enactment of paragraph (1) of this subsection \[amending this section\] shall not affect the term of the commission of any officer in the Reserve Corps in effect on the date of such enactment \[Apr. 27, 1956\] unless such officer consents in writing to the extension of his commission for an indefinite period, in which event his commission shall be so extended without the necessity of a new appointment."
 

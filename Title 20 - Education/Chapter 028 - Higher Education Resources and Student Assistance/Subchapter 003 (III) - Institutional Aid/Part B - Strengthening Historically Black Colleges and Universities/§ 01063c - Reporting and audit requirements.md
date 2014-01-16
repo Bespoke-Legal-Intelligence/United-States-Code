@@ -20,9 +20,9 @@ Any funds paid to an institution and not expended or used for the purposes for w
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–315 amended subsec. (b) generally. Prior to amendment, text read as follows: “Any funds paid to an institution and not expended or used for the purposes for which the funds were paid within 10 years following the date of the initial grant awarded to an institution under part B of this subchapter shall be repaid to the Treasury of the United States.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–315 amended subsec. (b) generally. Prior to amendment, text read as follows: "Any funds paid to an institution and not expended or used for the purposes for which the funds were paid within 10 years following the date of the initial grant awarded to an institution under part B of this subchapter shall be repaid to the Treasury of the United States."
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–50 substituted “part” for “chapter” in introductory text.
+<b>1987</b>—Subsec. (a). Pub. L. 100–50 substituted "part" for "chapter" in introductory text.
 
 #### Effective Date of 1987 Amendment
 

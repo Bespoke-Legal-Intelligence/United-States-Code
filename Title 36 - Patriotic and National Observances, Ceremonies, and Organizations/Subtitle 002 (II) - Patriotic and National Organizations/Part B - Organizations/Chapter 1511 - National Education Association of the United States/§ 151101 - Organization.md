@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—National Education Association of the United States (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—National Education Association of the United States (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

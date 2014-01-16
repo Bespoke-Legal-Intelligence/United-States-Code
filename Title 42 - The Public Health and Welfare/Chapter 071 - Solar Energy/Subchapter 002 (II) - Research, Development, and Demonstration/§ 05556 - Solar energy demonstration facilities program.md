@@ -40,7 +40,7 @@ In carrying out his responsibilities under this section, the Chairman, acting th
 
 #### (d) Investigation and agreements for cooperative development of demonstration facilities
 
-The Chairman, acting through the appropriate Federal agencies, is authorized to investigateand enter into agreements for the cooperative development of facilities to demonstrate solar technologies. The responsible Federal agency may consider—
+The Chairman, acting through the appropriate Federal agencies, is authorized to investigate and enter into agreements for the cooperative development of facilities to demonstrate solar technologies. The responsible Federal agency may consider—
 
 &emsp;(1) cooperative agreements with non-Federal entities for construction of facilities and equipment to demonstrate solar energy technologies; and
 

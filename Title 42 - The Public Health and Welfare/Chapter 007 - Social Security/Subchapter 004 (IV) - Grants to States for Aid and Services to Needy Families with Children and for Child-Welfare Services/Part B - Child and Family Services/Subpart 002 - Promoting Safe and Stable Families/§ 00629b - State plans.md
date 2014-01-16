@@ -66,7 +66,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 #### (1) In general
 
-&emsp;The Secretary shall approve a plan that meets the requirements of subsection (a) of this section only if the plan was developed jointly by the Secretary and the State, after consultation by the State agency with appropriate public and nonprofit private agencies and community-based organizations with experience in administering programs of services for children and families (including family preservation, family support, time-limitedfamily reunification, and adoption promotion and support services).
+&emsp;The Secretary shall approve a plan that meets the requirements of subsection (a) of this section only if the plan was developed jointly by the Secretary and the State, after consultation by the State agency with appropriate public and nonprofit private agencies and community-based organizations with experience in administering programs of services for children and families (including family preservation, family support, time-limited family reunification, and adoption promotion and support services).
 
 #### (2) Plans of Indian tribes or tribal consortia
 
@@ -100,7 +100,7 @@ A prior section 432 of act Aug. 14, 1935, was classified to section 632 of this 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(8)(B)(i), (ii). Pub. L. 112–34, §102(g)(1), substituted “form CFS–101 (including all parts and any successor forms)” for “forms CFS 101–Part I and CFS 101–Part II (or any successor forms)”.
+<b>2011</b>—Subsec. (a)(8)(B)(i), (ii). Pub. L. 112–34, §102(g)(1), substituted "form CFS–101 (including all parts and any successor forms)" for "forms CFS 101–Part I and CFS 101–Part II (or any successor forms)".
 
 Subsec. (a)(10). Pub. L. 112–34, §102(b), added par. (10).
 
@@ -108,25 +108,25 @@ Subsec. (c). Pub. L. 112–34, §102(e), designated existing provisions as par. 
 
 <b>2006</b>—Subsec. (a)(8). Pub. L. 109–288, §3(e)(1), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (b)(2). Pub. L. 109–288, §5(b)(3)(A)(i), inserted “or tribal consortia” after “tribes” in heading.
+Subsec. (b)(2). Pub. L. 109–288, §5(b)(3)(A)(i), inserted "or tribal consortia" after "tribes" in heading.
 
-Subsec. (b)(2)(A). Pub. L. 109–288, §5(c), substituted “the requirements of subsection (a)(4) of this section to the extent that the Secretary determines those requirements” for “any requirement of this section that the Secretary determines”.
+Subsec. (b)(2)(A). Pub. L. 109–288, §5(c), substituted "the requirements of subsection (a)(4) of this section to the extent that the Secretary determines those requirements" for "any requirement of this section that the Secretary determines".
 
-Pub. L. 109–288, §5(b)(3)(A)(ii), inserted “or tribal consortium” after “Indian tribe” wherever appearing.
+Pub. L. 109–288, §5(b)(3)(A)(ii), inserted "or tribal consortium" after "Indian tribe" wherever appearing.
 
-Subsec. (b)(2)(B). Pub. L. 109–288, §5(b)(3)(A)(iii), inserted “or tribal consortium” after “Indian tribe” and “and tribal consortia” after “Indian tribes”.
+Subsec. (b)(2)(B). Pub. L. 109–288, §5(b)(3)(A)(iii), inserted "or tribal consortium" after "Indian tribe" and "and tribal consortia" after "Indian tribes".
 
 Subsec. (c). Pub. L. 109–288, §3(e)(2), added subsec. (c).
 
-<b>1998</b>—Subsec. (a)(8). Pub. L. 105–200 inserted “; and” at end.
+<b>1998</b>—Subsec. (a)(8). Pub. L. 105–200 inserted "; and" at end.
 
-<b>1997</b>—Subsec. (a)(4). Pub. L. 105–89, §305(b)(1)(A)(i), substituted “, community-based family support services, time-limited family reunification services, and adoption promotion and support services,” for “and community-based family support services”.
+<b>1997</b>—Subsec. (a)(4). Pub. L. 105–89, §305(b)(1)(A)(i), substituted ", community-based family support services, time-limited family reunification services, and adoption promotion and support services," for "and community-based family support services".
 
-Subsec. (a)(5)(A). Pub. L. 105–89, §305(b)(1)(A)(ii), substituted “, community-based family support services, time-limited family reunification services, and adoption promotion and support services” for “and community-based family support services”.
+Subsec. (a)(5)(A). Pub. L. 105–89, §305(b)(1)(A)(ii), substituted ", community-based family support services, time-limited family reunification services, and adoption promotion and support services" for "and community-based family support services".
 
 Subsec. (a)(9). Pub. L. 105–89, §305(c)(1), added par. (9).
 
-Subsec. (b)(1). Pub. L. 105–89, §305(b)(1)(B), substituted “, family support, time-limited family reunification, and adoption promotion and support” for “and family support”.
+Subsec. (b)(1). Pub. L. 105–89, §305(b)(1)(B), substituted ", family support, time-limited family reunification, and adoption promotion and support" for "and family support".
 
 #### Effective Date of 2011 Amendment
 
@@ -134,11 +134,11 @@ Amendment by Pub. L. 112–34 effective Oct. 1, 2011, and applicable to payments
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–288, §3(e)(3), Sept. 28, 2006, 120 Stat. 1236, provided that: “The amendments made by this subsection \[amending this section\] take effect on the date of enactment of this Act \[Sept. 28, 2006\]. Each State with an approved plan under subpart 1 or 2 of part B of title IV of the Social Security Act \[subpart 1 or 2 of this part\] shall make its initial submission of the forms required under section 432(a)(8)(B) of the Social Security Act \[subsec. (a)(8)(B) of this section\] to the Secretary of Health and Human Services by June 30, 2007, and the Secretary of Health and Human Services shall submit the first compilation required under section 432(c) of the Social Security Act \[subsec. (c) of this section\] by September 30, 2007.”
+Pub. L. 109–288, §3(e)(3), Sept. 28, 2006, 120 Stat. 1236, provided that: "The amendments made by this subsection \[amending this section\] take effect on the date of enactment of this Act \[Sept. 28, 2006\]. Each State with an approved plan under subpart 1 or 2 of part B of title IV of the Social Security Act \[42 U.S.C. 620 et seq., 629 et seq.\] shall make its initial submission of the forms required under section 432(a)(8)(B) of the Social Security Act \[42 U.S.C. 629b(a)(8)(B)\] to the Secretary of Health and Human Services by June 30, 2007, and the Secretary of Health and Human Services shall submit the first compilation required under section 432(c) of the Social Security Act \[42 U.S.C. 629b(c)\] by September 30, 2007."
 
 Amendment by Pub. L. 109–288 effective Oct. 1, 2006, except as otherwise provided, and applicable to payments under this part and part E of this subchapter for calendar quarters beginning on or after such date, without regard to whether implementing regulations have been promulgated, and with delay permitted if State legislation is required to meet additional requirements, see section 12(a), (b) of Pub. L. 109–288, set out as a note under section 621 of this title.
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted ifState legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
+Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
 

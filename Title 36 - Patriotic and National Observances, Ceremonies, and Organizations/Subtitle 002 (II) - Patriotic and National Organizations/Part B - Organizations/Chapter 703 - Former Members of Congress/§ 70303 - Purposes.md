@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Jan. 8, 1983, Pub. L. 97–427, §3, 96 Stat. 2265.
 
-The word “objects” is omitted as included in “purposes”.
+The word "objects" is omitted as included in "purposes".
 

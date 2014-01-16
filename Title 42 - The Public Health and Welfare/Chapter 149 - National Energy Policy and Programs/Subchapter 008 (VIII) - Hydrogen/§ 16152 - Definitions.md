@@ -4,11 +4,11 @@ In this subchapter:
 
 #### (1) Fuel cell
 
-&emsp;The term “fuel cell” means a device that directly converts the chemical energy of a fuel, which is supplied from an external source, and an oxidant into electricity by electrochemical processes occurring at separate electrodes in the device.
+&emsp;The term "fuel cell" means a device that directly converts the chemical energy of a fuel, which is supplied from an external source, and an oxidant into electricity by electrochemical processes occurring at separate electrodes in the device.
 
 #### (2) Heavy-duty vehicle
 
-&emsp;The term “heavy-duty vehicle” means a motor vehicle that—
+&emsp;The term "heavy-duty vehicle" means a motor vehicle that—
 
 &emsp;&emsp;(A) is rated at more than 8,500 pounds gross vehicle weight;
 
@@ -18,15 +18,15 @@ In this subchapter:
 
 #### (3) Infrastructure
 
-&emsp;The term “infrastructure” means the equipment, systems, or facilities used to produce, distribute, deliver, or store hydrogen (except for onboard storage).
+&emsp;The term "infrastructure" means the equipment, systems, or facilities used to produce, distribute, deliver, or store hydrogen (except for onboard storage).
 
 #### (4) Light-duty vehicle
 
-&emsp;The term “light-duty vehicle” means a motor vehicle that is rated at 8,500 or less pounds gross vehicle weight.
+&emsp;The term "light-duty vehicle" means a motor vehicle that is rated at 8,500 or less pounds gross vehicle weight.
 
 #### (5) Stationary; portable
 
-&emsp;The terms “stationary” and “portable”, when used in reference to a fuel cell, include—
+&emsp;The terms "stationary" and "portable", when used in reference to a fuel cell, include—
 
 &emsp;&emsp;(A) continuous electric power; and
 
@@ -34,11 +34,11 @@ In this subchapter:
 
 #### (6) Task Force
 
-&emsp;The term “Task Force” means the Hydrogen and Fuel Cell Technical Task Force established under section 16155 of this title.
+&emsp;The term "Task Force" means the Hydrogen and Fuel Cell Technical Task Force established under section 16155 of this title.
 
 #### (7) Technical Advisory Committee
 
-&emsp;The term “Technical Advisory Committee” means the independent Technical Advisory Committee established under section 16156 of this title.
+&emsp;The term "Technical Advisory Committee" means the independent Technical Advisory Committee established under section 16156 of this title.
 
 (Pub. L. 109–58, title VIII, §803, Aug. 8, 2005, 119 Stat. 844.)
 

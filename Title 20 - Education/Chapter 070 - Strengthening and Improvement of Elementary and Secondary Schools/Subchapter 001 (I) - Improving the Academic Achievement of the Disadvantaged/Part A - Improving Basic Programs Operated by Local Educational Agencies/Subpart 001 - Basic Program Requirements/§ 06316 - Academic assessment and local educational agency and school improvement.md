@@ -36,7 +36,7 @@
 
 #### (D) Targeted assistance schools
 
-&emsp;&emsp;To determine if an elementary school or a secondary school that is conducting a targeted assistance program under section 6315 of this title should be identified for school improvement, corrective action, or restructuring under this section, a local educational agency may choose to review the progress of only the students in the school who are served, or are eligible for services, under this part.
+&emsp;&emsp;To determine if an elementary school or a secondary school that is conducting a targeted assistance program under section 6315 of this title should be identified for schoolimprovement, corrective action, or restructuring under this section, a local educational agency may choose to review the progress of only the students in the school who are served, or are eligible for services, under this part.
 
 #### (E) Public school choice
 
@@ -74,7 +74,7 @@
 
 &emsp;&emsp;&emsp;(i) incorporate strategies based on scientifically based research that will strengthen the core academic subjects in the school and address the specific academic issues that caused the school to be identified for school improvement, and may include a strategy for the implementation of a comprehensive school reform model that includes each of the components described in part F of this subchapter;
 
-&emsp;&emsp;&emsp;(ii) adopt policies and practices concerning the school's core academic subjects that have the greatest likelihood of ensuring that all groups of students specified in section 6311(b)(2)(C)(v) of this title and enrolled in the school will meet the State's proficient level of achievement on the State academic assessment described insection 6311(b)(3) of this title not later than 12 years after the end of the 2001–2002 school year;
+&emsp;&emsp;&emsp;(ii) adopt policies and practices concerning the school's core academic subjects that have the greatest likelihood of ensuring that all groups of students specified in section 6311(b)(2)(C)(v) of this title and enrolled in the school will meet the State's proficient level of achievement on the State academic assessment described in section 6311(b)(3) of this title not later than 12 years after the end of the 2001–2002 school year;
 
 &emsp;&emsp;&emsp;(iii) provide an assurance that the school will spend not less than 10 percent of the funds made available to the school under section 6313 of this title for each fiscal year that the school is in school improvement status, for the purpose of providing to the school's teachers and principal high-quality professional development that—
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;(iv) specify how the funds described in clause (iii) will be used to remove the school from school improvement status;
 
-&emsp;&emsp;&emsp;(v) establish specific annual, measurable objectives for continuous and substantial progress by each group of students specified in section 6311(b)(2)(C)(v) of this title and enrolled in the school that will ensure that all such groups of students will, in accordance with adequate yearly progress as defined in section 6311(b)(2) of this title, meet the State's proficient level of achievement on the State academic assessment described in section 6311(b)(3) of this title not later than 12 years after the end of the 2001–2002 school year;
+&emsp;&emsp;&emsp;(v) establish specific annual, measurable objectives for continuous and substantial progress by each group of students specified in section 6311(b)(2)(C)(v) of this title and enrolled in the school that will ensure that all such groups of students will, in accordance with adequate yearly progress as defined in section 6311(b)(2) of this title, meet the State's proficient level ofachievement on the State academic assessment described in section 6311(b)(3) of this title not later than 12 years after the end of the 2001–2002 school year;
 
 &emsp;&emsp;&emsp;(vi) describe how the school will provide written notice about the identification to parents of each student enrolled in such school, in a format and, to the extent practicable, in a language that the parents can understand;
 
@@ -172,13 +172,13 @@
 
 &emsp;&emsp;(E) an explanation of how the parents can become involved in addressing the academic issues that caused the school to be identified for school improvement; and
 
-&emsp;&emsp;(F) an explanation of the parents’ option to transfer their child to another public school under paragraphs (1)(E), (5)(A), (7)(C)(i), (8)(A)(i), and subsection (c)(10)(C)(vii) of this section (with transportation provided by the agency when required by paragraph (9)) or to obtain supplemental educational services for the child, in accordance with subsection (e) of this section.
+&emsp;&emsp;(F) an explanation of the parents' option to transfer their child to another public school under paragraphs (1)(E), (5)(A), (7)(C)(i), (8)(A)(i), and subsection (c)(10)(C)(vii) of this section (with transportation provided by the agency when required by paragraph (9)) or to obtain supplemental educational services for the child, in accordance with subsection (e) of this section.
 
 #### (7) Corrective action
 
 #### (A) In general
 
-&emsp;&emsp;In this subsection, the term “corrective action” means action, consistent with State law, that—
+&emsp;&emsp;In this subsection, the term "corrective action" means action, consistent with State law, that—
 
 &emsp;&emsp;&emsp;(i) substantially and directly responds to—
 
@@ -298,7 +298,7 @@
 
 #### (11) Cooperative agreement
 
-&emsp;In any case described in paragraph (1)(E), (5)(A), (7)(C)(i), or (8)(A)(i), or subsection (c)(10)(C)(vii) of this section if all public schools served by the local educational agency to which a child may transfer are identified for school improvement, corrective action or restructuring, the agency shall, to the extent practicable, establish a cooperative agreement with other local educational agencies in the area for a transfer.
+&emsp;In any case described in paragraph (1)(E), (5)(A), (7)(C)(i), or (8)(A)(i), or subsection (c)(10)(C)(vii) of this section if all publicschools served by the local educational agency to which a child may transfer are identified for school improvement, corrective action or restructuring, the agency shall, to the extent practicable, establish a cooperative agreement with other local educational agencies in the area for a transfer.
 
 #### (12) Duration
 
@@ -340,7 +340,7 @@
 
 #### (4) Targeted assistance schools
 
-&emsp;When reviewing targeted assistance schools served by a local educational agency, a State educational agency may choose to review the progress of only the students in such schoolswho are served, or are eligible for services, under this part.
+&emsp;When reviewing targeted assistance schools served by a local educational agency, a State educational agency may choose to review the progress of only the students in such schools who are served, or are eligible for services, under this part.
 
 #### (5) Opportunity to review and present evidence
 
@@ -354,7 +354,7 @@
 
 #### (6) Notification to parents
 
-&emsp;The State educational agency shall promptly provide to the parents (in a format and, to the extent practicable, in a language the parents can understand) of each student enrolled in a school served by a local educational agency identified for improvement, the results of the review under paragraph (1) and, if the agency is identified for improvement, the reasons for that identification and how parents can participate in upgrading the quality of the local educational agency.
+&emsp;The State educational agency shall promptly provide to the parents (in a format and, to the extent practicable, in a language the parents can understand) of each student enrolled in a school served by a local educational agency identified for improvement, the results of the review under paragraph (1) and, if the agency is identified for improvement, the reasons for that identification and how parentscan participate in upgrading the quality of the local educational agency.
 
 #### (7) Local educational agency revisions
 
@@ -402,7 +402,7 @@
 
 #### (A) Definition
 
-&emsp;&emsp;As used in this paragraph, the term “corrective action” means action, consistent with State law, that—
+&emsp;&emsp;As used in this paragraph, the term "corrective action" means action, consistent with State law, that—
 
 &emsp;&emsp;&emsp;(i) substantially and directly responds to the consistent academic failure that caused the State to take such action and to any underlying staffing, curricular, or other problems in the agency; and
 
@@ -460,7 +460,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 #### (1) Supplemental educational services
 
-&emsp;In the case of any school described in paragraph (5), (7), or (8) of subsection (b) of this section, the local educational agency serving such school shall, subject to this subsection, arrange for the provision of supplemental educational services to eligible children in the school from a provider with a demonstrated record of effectiveness, that is selected by the parents and approved for that purpose by theState educational agency in accordance with reasonable criteria, consistent with paragraph (5), that the State educational agency shall adopt.
+&emsp;In the case of any school described in paragraph (5), (7), or (8) of subsection (b) of this section, the local educational agency serving such school shall, subject to this subsection, arrange for the provision of supplemental educational services to eligible children in the school from a provider with a demonstrated record of effectiveness, that is selected by the parents and approved for that purpose by the State educational agency in accordance with reasonable criteria, consistent with paragraph (5), that the State educational agency shall adopt.
 
 #### (2) Local educational agency responsibilities
 
@@ -482,7 +482,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 #### (3) Agreement
 
-&emsp;In the case of the selection of an approved provider by a parent, the local educational agency shall enter into an agreement with such provider. Such agreement shall—
+&emsp;In the case of the selection of an approved provider by a parent, the local educationalagency shall enter into an agreement with such provider. Such agreement shall—
 
 &emsp;&emsp;(A) require the local educational agency to develop, in consultation with parents (and the provider chosen by the parents), a statement of specific achievement goals for the student, how the student's progress will be measured, and a timetable for improving achievement that, in the case of a student with disabilities, is consistent with the student's individualized education program under section 1414(d) of this title;
 
@@ -562,9 +562,9 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 &emsp;In this subsection—
 
-&emsp;&emsp;(A) the term “eligible child” means a child from a low-income family, as determined by the local educational agency for purposes of allocating funds to schools under section 6313(c)(1) of this title;
+&emsp;&emsp;(A) the term "eligible child" means a child from a low-income family, as determined by the local educational agency for purposes of allocating funds to schools under section 6313(c)(1) of this title;
 
-&emsp;&emsp;(B) the term “provider” means a non-profit entity, a for-profit entity, or a local educational agency that—
+&emsp;&emsp;(B) the term "provider" means a non-profit entity, a for-profit entity, or a local educational agency that—
 
 &emsp;&emsp;&emsp;(i) has a demonstrated record of effectiveness in increasing student academic achievement;
 
@@ -572,7 +572,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 &emsp;&emsp;&emsp;(iii) is financially sound; and
 
-&emsp;&emsp;(C) the term “supplemental educational services” means tutoring and other supplemental academic enrichment services that are—
+&emsp;&emsp;(C) the term "supplemental educational services" means tutoring and other supplemental academic enrichment services that are—
 
 &emsp;&emsp;&emsp;(i) in addition to instruction provided during the school day; and
 
@@ -622,7 +622,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 #### (i) Definition
 
-&emsp;&emsp;&emsp;The Secretary of the Interior, in consultation with the Secretary if the Secretary of <sup>4</sup> Interior requests the consultation, using the process set out in section 2018(b) of title 25, shall define adequate yearly progress, consistent with section 6311(b) of this title, for the schools funded by the Bureau of Indian Affairs on a regional or tribal basis, as appropriate, taking into account the unique circumstances and needs of such schools and the students served by such schools.
+&emsp;&emsp;&emsp;The Secretary of the Interior, in consultation with the Secretary if the Secretary of <sup>4</sup> Interior requests the consultation, using the process set out in section 2018(b) of title 25, shall define adequateyearly progress, consistent with section 6311(b) of this title, for the schools funded by the Bureau of Indian Affairs on a regional or tribal basis, as appropriate, taking into account the unique circumstances and needs of such schools and the students served by such schools.
 
 #### (ii) Use of definition
 
@@ -692,11 +692,11 @@ A prior section 6316, Pub. L. 89–10, title I, §1115A, as added Pub. L. 103–
 
 A prior section 1116 of Pub. L. 89–10 was classified to section 6317 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “section”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "section".</i>
 
 <i><sup>3</sup></i><i> So in original. No par. (8) has been enacted.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “of the”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "of the".</i>
 

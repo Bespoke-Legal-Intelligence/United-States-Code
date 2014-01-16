@@ -52,5 +52,5 @@ In order to protect paleontological or other resources or to provide for public 
 
 (Pub. L. 111–11, title VI, §6304, Mar. 30, 2009, 123 Stat. 1173.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “lands”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "lands".</i>
 

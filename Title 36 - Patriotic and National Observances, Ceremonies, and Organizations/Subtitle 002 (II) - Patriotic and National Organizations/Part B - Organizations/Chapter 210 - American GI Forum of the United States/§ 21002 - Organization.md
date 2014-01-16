@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—American GI Forum of the United States (in this chapter, the “corporation”), a nonprofit corporation incorporated in Texas, is a federally chartered corporation.
+Federal Charter.—American GI Forum of the United States (in this chapter, the "corporation"), a nonprofit corporation incorporated in Texas, is a federally chartered corporation.
 
 (b)
 

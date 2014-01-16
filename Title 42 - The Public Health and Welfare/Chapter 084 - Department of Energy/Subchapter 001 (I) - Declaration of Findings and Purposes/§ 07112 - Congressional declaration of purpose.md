@@ -6,7 +6,7 @@ The Congress therefore declares that the establishment of a Department of Energy
 
 &emsp;(2) To achieve, through the Department, effective management of energy functions of the Federal Government, including consultation with the heads of other Federal departments and agencies in order to encourage them to establish and observe policies consistent with a coordinated energy policy, and to promote maximum possible energy conservation measures in connection with the activities within their respective jurisdictions.
 
-&emsp;(3) To provide for a mechanism through which a coordinated national energy policy can be formulated and implemented to deal with the short-, mid- and long-term energy problems of the Nation; and to develop plans and programs for dealing with domestic energy production and import shortages.
+&emsp;(3) To provide for a mechanism through which a coordinated national energy policy can be formulated and implemented to deal with the short-, mid- and long-term energy problems of the Nation; and to develop plansand programs for dealing with domestic energy production and import shortages.
 
 &emsp;(4) To create and implement a comprehensive energy conservation strategy that will receive the highest priority in the national energy program.
 
@@ -52,9 +52,9 @@ The Congress therefore declares that the establishment of a Department of Energy
 
 #### References in Text
 
-This chapter, referred to in introductory provisions and pars. (14) and (18), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in introductory provisions and pars. (14) and (18), was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–510 substituted “chapter:” for “chapter—” in introductory provisions, capitalized the first letter of the first word in each of pars. (1) to (18), substituted a period for last semicolon in each of pars. (1) to (17), struck out “and” at end of par. (17), and added par. (19).
+<b>1990</b>—Pub. L. 101–510 substituted "chapter:" for "chapter—" in introductory provisions, capitalized the first letter of the first word in each of pars. (1) to (18), substituted a period for last semicolon in each of pars. (1) to (17), struck out "and" at end of par. (17), and added par. (19).
 

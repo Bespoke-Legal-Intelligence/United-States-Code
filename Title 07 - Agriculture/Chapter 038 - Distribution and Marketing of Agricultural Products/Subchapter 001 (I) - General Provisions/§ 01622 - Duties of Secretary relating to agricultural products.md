@@ -12,7 +12,7 @@ To determine costs of marketing agricultural products in their various forms and
 
 #### (c) Improvement of standards of quality, condition, etc.; standard of quality for ice cream
 
-To develop and improve standards of quality, condition, quantity, grade, and packaging, and recommend and demonstrate such standards in order to encourage uniformity and consistency in commercial practices. Within thirty days after September 29, 1977, the Secretary shall by regulation adopt a standard of quality for ice cream which shall provide that ice cream shall contain at least 1.6 pounds of total solids to the gallon, weigh not less than 4.5 pounds to the gallon and contain not less than 20 percent total milk solids, constituted of not less than 10 percent milkfat. In no case shall the content of milk solids not fat be less than 6 percent. Whey shall not, by weight, be more than 25 percent of the milk solids not fat. Only those products which meet the standard issued by the Secretary may bear a symbol thereon indicating that they meet the Department of Agriculture standard for “ice cream”.
+To develop and improve standards of quality, condition, quantity, grade, and packaging, and recommend and demonstrate such standards in order to encourage uniformity and consistency in commercial practices. Within thirty days after September 29, 1977, the Secretary shall by regulation adopt a standard of quality for ice cream which shall provide that ice cream shall contain at least 1.6 pounds of total solids to the gallon, weigh not less than 4.5 pounds to the gallon and contain not less than 20 percent total milk solids, constituted of not less than 10 percent milkfat. In no case shall the content of milk solids not fat be less than 6 percent. Whey shall not, by weight, be more than 25 percent of the milk solids not fat. Only those products which meet the standard issued by the Secretary may bear a symbol thereon indicating that they meet the Department of Agriculture standard for "ice cream".
 
 #### (d) Elimination of artificial barriers to free movement
 
@@ -52,7 +52,7 @@ To collect and disseminate marketing information, including adequate outlook inf
 
 #### (h) Inspection and certification of products in interstate commerce; credit and future availability of funds; investment; certificates as evidence; penalties
 
-(1) To inspect, certify, and identify the class, quality, quantity, and condition of agricultural products when shipped or received in interstate commerce, under such rules and regulations as the Secretary of Agriculture may prescribe, including assessment and collection of such fees as will be reasonable and as nearly as may be to cover the cost of the service rendered, to the end that agricultural products may be marketed to the best advantage, that trading may be facilitated, and that consumers may be able to obtain the quality product which they desire, except that no person shall be required to use the service authorized by this subsection.
+(1) To inspect, certify, and identify the class, quality, quantity, and condition of agricultural products when shipped or received in interstate commerce, under such rules and regulations as the Secretary of Agriculture may prescribe, including assessment and collection of such fees as will be reasonable and as nearly as may be tocover the cost of the service rendered, to the end that agricultural products may be marketed to the best advantage, that trading may be facilitated, and that consumers may be able to obtain the quality product which they desire, except that no person shall be required to use the service authorized by this subsection.
 
 (2)(A) Any fees collected under this subsection, late payment penalties, the proceeds from the sales of samples, and interest earned from the investment of such funds shall be credited to the trust fund account that incurs the cost of the services provided under this subsection and shall remain available without fiscal year limitation to pay the expenses of the Secretary incident to providing such services.
 
@@ -70,7 +70,7 @@ Identification of honey.—
 
 &emsp;(A)
 
-In general.—The use of a label or advertising material on, or in conjunction with, packaged honey that bears any official certificate of quality, grade mark or statement, continuous inspection mark or statement, sampling mark or statement, or any combination of the certificates, marks, or statements of the Department of Agriculture is hereby prohibited under this Act unless there appears legibly and permanently in close proximity (such as on the same side(s) or surface(s)) to the certificate, mark, or statement, and in at least a comparable size, the 1 or more names of the 1 or more countries of origin of the lotor container of honey, preceded by the words “Product of” or other words of similar meaning.
+In general.—The use of a label or advertising material on, or in conjunction with, packaged honey that bears any official certificate of quality, grade mark or statement, continuous inspection mark or statement, sampling mark or statement, or any combination of the certificates, marks, or statements of the Department of Agriculture is hereby prohibited under this Act unless there appears legibly and permanently in close proximity (such as on the same side(s) or surface(s)) to the certificate, mark, or statement, and in at least a comparable size, the 1 or more names of the 1 or more countries of origin of the lot or container of honey, preceded by the words "Product of" or other words of similar meaning.
 
 &emsp;(B)
 
@@ -130,11 +130,11 @@ Subsecs. (n), (o). Pub. L. 110–246, §11016(a), added subsec. (n) and redesign
 
 <b>2000</b>—Subsec. (e). Pub. L. 106–472 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, and added par. (2).
 
-<b>1998</b>—Subsec. (h). Pub. L. 105–277 inserted at end “Shell eggs packed under the voluntary grading program of the Department of Agriculture shall not have been shipped for sale previous to being packed under the program, as determined under a regulation promulgated by the Secretary.”
+<b>1998</b>—Subsec. (h). Pub. L. 105–277 inserted at end "Shell eggs packed under the voluntary grading program of the Department of Agriculture shall not have been shipped for sale previous to being packed under the program, as determined under a regulation promulgated by the Secretary."
 
 <b>1984</b>—Subsec. (h). Pub. L. 98–403 inserted provisions relating to the credit of certain funds to the trust fund account which incurs the cost of services provided under this subsection, the future availability of those funds, and investment thereof by the Secretary of Agriculture or the Secretary of the Treasury.
 
-Subsec. (j). Pub. L. 98–443 struck out “the Civil Aeronautics Board” after “the Maritime Commission,”.
+Subsec. (j). Pub. L. 98–443 struck out "the Civil Aeronautics Board" after "the Maritime Commission,".
 
 <b>1981</b>—Subsec. (j). Pub. L. 97–31 inserted reference to Secretary of Transportation.
 
@@ -144,9 +144,9 @@ Subsec. (j). Pub. L. 98–443 struck out “the Civil Aeronautics Board” after
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-Pub. L. 110–234, title X, §10402(b), May 22, 2008, 122 Stat. 1349, and Pub. L. 110–246, §4(a), title X, §10402(b), June 18, 2008, 122 Stat. 1664, 2111, provided that: “The amendments made by subsection (a) \[amending this section\] take effect on the date that is 1 year after the date of enactment of this Act \[June 18, 2008\].”
+Pub. L. 110–234, title X, §10402(b), May 22, 2008, 122 Stat. 1349, and Pub. L. 110–246, §4(a), title X, §10402(b), June 18, 2008, 122 Stat. 1664, 2111, provided that: "The amendments made by subsection (a) \[amending this section\] take effect on the date that is 1 year after the date of enactment of this Act \[June 18, 2008\]."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
@@ -170,11 +170,11 @@ Executive and administrative functions of Maritime Commission transferred to Cha
 
 #### Agricultural Processing Equipment; Inspection and Certification; Fee
 
-Pub. L. 106–387, §1(a) \[title VII, §729\], Oct. 28, 2000, 114 Stat. 1549, 1549A–33, provided that: “Hereafter, none of the funds appropriated by this Act or any other Act may be used to:
+Pub. L. 106–387, §1(a) \[title VII, §729\], Oct. 28, 2000, 114 Stat. 1549, 1549A–33, provided that: "Hereafter, none of the funds appropriated by this Act or any other Act may be used to:
 
-&emsp;“(1) carry out the proviso under 7 U.S.C. 1622(f); or
+&emsp;"(1) carry out the proviso under 7 U.S.C. 1622(f); or
 
-&emsp;“(2) carry out 7 U.S.C. 1622(h) unless the Secretary of Agriculture inspects and certifies agricultural processing equipment, and imposes a fee for the inspection and certification, in a manner that is similar to the inspection and certification of agricultural products under that section, as determined by the Secretary: <i>Provided</i>, That this provision shall not affect the authority of the Secretary to carry out the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), or the Egg Products Inspection Act (21 U.S.C. 1031 et seq.).”
+&emsp;"(2) carry out 7 U.S.C. 1622(h) unless the Secretary of Agriculture inspects and certifies agricultural processing equipment, and imposes a fee for the inspection and certification, in a manner that is similar to the inspection and certification of agricultural products under that section, as determined by the Secretary: <i>Provided</i>, That this provision shall not affect the authority of the Secretary to carry out the Federal Meat Inspection Act (21 U.S.C. 601 et seq.), the Poultry Products Inspection Act (21 U.S.C. 451 et seq.), or the Egg Products Inspection Act (21 U.S.C. 1031 et seq.)."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -190,145 +190,145 @@ Pub. L. 105–18, title II, §1001, June 12, 1997, 111 Stat. 172, provided that 
 
 Pub. L. 102–237, title I, §124, Dec. 13, 1991, 105 Stat. 1844, provided that:
 
-“(a)
+"(a)
 
 Report.—Not later than 90 days after the date of enactment of this Act \[Dec. 13, 1991\], the Secretary of Agriculture shall submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on measures that are necessary to improve the lamb price and supply reporting services of the Department of Agriculture, including recommendations to establish a complete information gathering system that reflects the market structure of the national lamb industry. In preparing the report, the Secretary shall examine measures to improve information on—
 
-&emsp;“(1) price reporting series of wholesale, retail, box, carcass, pelt, offal, and live lamb sales in the United States, including markets in—
+&emsp;"(1) price reporting series of wholesale, retail, box, carcass, pelt, offal, and live lamb sales in the United States, including markets in—
 
-&emsp;&emsp;“(A) California (including San Francisco);
+&emsp;&emsp;"(A) California (including San Francisco);
 
-&emsp;&emsp;“(B) the East Coast region (including Washington, D.C.);
+&emsp;&emsp;"(B) the East Coast region (including Washington, D.C.);
 
-&emsp;&emsp;“(C) the Midwest region (including Chicago, Illinois);
+&emsp;&emsp;"(C) the Midwest region (including Chicago, Illinois);
 
-&emsp;&emsp;“(D) Texas;
+&emsp;&emsp;"(D) Texas;
 
-&emsp;&emsp;“(E) the Rocky Mountain region; and
+&emsp;&emsp;"(E) the Rocky Mountain region; and
 
-&emsp;&emsp;“(F) Florida;
+&emsp;&emsp;"(F) Florida;
 
-&emsp;“(2) sheep and lamb inventories, including on-feed reports;
+&emsp;"(2) sheep and lamb inventories, including on-feed reports;
 
-&emsp;“(3) the price and supply relationships between retailers and breakers;
+&emsp;"(3) the price and supply relationships between retailers and breakers;
 
-&emsp;“(4) the viability of voluntary or mandatory reporting for sheep prices; and
+&emsp;"(4) the viability of voluntary or mandatory reporting for sheep prices; and
 
-&emsp;“(5) information on the import and export of sheep, analyzed by cut, carcass, box, breeder stock, and sex.
+&emsp;"(5) information on the import and export of sheep, analyzed by cut, carcass, box, breeder stock, and sex.
 
-“(b)
+"(b)
 
 Price Discovery and Reporting System.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 System required.—Based on the report required under subsection (a), the Secretary shall—
 
-&emsp;&emsp;“(A) develop a price discovery system formula for the lamb market, such as carcass equivalent pricing; and
+&emsp;&emsp;"(A) develop a price discovery system formula for the lamb market, such as carcass equivalent pricing; and
 
-&emsp;&emsp;“(B) establish a price discovery and reporting system for the lamb market to assist lamb producers to better allocate their resources and make informed production and marketing decisions.
+&emsp;&emsp;"(B) establish a price discovery and reporting system for the lamb market to assist lamb producers to better allocate their resources and make informed production and marketing decisions.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Implementation.—The price discovery and reporting system for the lamb market shall be implemented by the Secretary not later than 180 days after the date of the submission of the report.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Authorization of appropriations.—There are authorized to be appropriated such sums as may be necessary to develop and establish the system required under this subsection.
 
-“(c)
+"(c)
 
-Consultation.—In preparing the report required under subsection (a) and establishing the price discovery and reporting system required under subsection (b), the Secretary shall consult with lamb producers and other persons in the national lamb industry.”
+Consultation.—In preparing the report required under subsection (a) and establishing the price discovery and reporting system required under subsection (b), the Secretary shall consult with lamb producers and other persons in the national lamb industry."
 
 #### Research To Investigate Extent to Which Grade Standards Governing Cosmetic Appearance Affect Pesticide Use in Production of Perishable Commodities; Advisory Committee; Report
 
 Pub. L. 101–624, title XIII, subtitle C, Nov. 28, 1990, 104 Stat. 3566, as amended by Pub. L. 102–237, title I, §114(a)(3), Dec. 13, 1991, 105 Stat. 1838, provided that:
 
-#### “SEC. 1351. DEFINITION.
+#### "SEC. 1351. DEFINITION.
 
-“As used in this subtitle, the term ‘cosmetic appearance’ means the exterior appearance of an agricultural commodity, including changes to that appearance resulting from superficial damage or other alteration that do not significantly affect yield, taste, or nutritional value.
+"As used in this subtitle, the term 'cosmetic appearance' means the exterior appearance of an agricultural commodity, including changes to that appearance resulting from superficial damage or other alteration that do not significantly affect yield, taste, or nutritional value.
 
-#### “SEC. 1352. RESEARCH.
+#### "SEC. 1352. RESEARCH.
 
-“(a)
+"(a)
 
 Requirement.—The Secretary of Agriculture shall conduct research to examine the effects, to the extent listed in subsection (b), of grade standards and other regulations, as developed and promulgated pursuant to the Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.), and other statutes governing cosmetic appearance.
 
-“(b)
+"(b)
 
 Scope of Research.—The primary goal of this research is to investigate the extent to which grade standards and other regulations governing cosmetic appearance affect pesticide use in the production of perishable commodities. The research shall also—
 
-&emsp;“(1) determine pesticide application levels for United States perishable commodity production and assess trends, and factors influencing those trends, of pesticide application levels since 1975;
+&emsp;"(1) determine pesticide application levels for United States perishable commodity production and assess trends, and factors influencing those trends, of pesticide application levels since 1975;
 
-&emsp;“(2) determine the extent to which Federal grade standards and other regulations affect pesticide use in agriculture for cosmetic appearance;
+&emsp;"(2) determine the extent to which Federal grade standards and other regulations affect pesticide use in agriculture for cosmetic appearance;
 
-&emsp;“(3) determine the effect of reducing emphasis on cosmetic appearance in grade standards and other regulations on—
+&emsp;"(3) determine the effect of reducing emphasis on cosmetic appearance in grade standards and other regulations on—
 
-&emsp;&emsp;“(A) the application and availability of pesticides in agriculture;
+&emsp;&emsp;"(A) the application and availability of pesticides in agriculture;
 
-&emsp;&emsp;“(B) the adoption of agricultural practices that result in reduced pesticide use;
+&emsp;&emsp;"(B) the adoption of agricultural practices that result in reduced pesticide use;
 
-&emsp;&emsp;“(C) production and marketing costs;
+&emsp;&emsp;"(C) production and marketing costs;
 
-&emsp;&emsp;“(D) domestic and international markets and trade for perishable commodities;
+&emsp;&emsp;"(D) domestic and international markets and trade for perishable commodities;
 
-&emsp;“(4) determine the extent to which grade standards and other regulations reflect consumer preferences;
+&emsp;"(4) determine the extent to which grade standards and other regulations reflect consumer preferences;
 
-&emsp;“(5) develop options for implementation of food marketing policies and practices that will remove obstacles that may exist to pesticide use reduction, based on the findings of research conducted under this section.
+&emsp;"(5) develop options for implementation of food marketing policies and practices that will remove obstacles that may exist to pesticide use reduction, based on the findings of research conducted under this section.
 
-“(c)
+"(c)
 
 Field Research.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Length of projects.—The Secretary of Agriculture shall implement, not later than 12 months after the date of enactment of this Act \[Nov. 28, 1990\], a minimum of three, 2-year market research projects, in at least three States, to demonstrate and evaluate the feasibility of consumer education and information programs.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Scope of field research.—Research under paragraph (1) shall be conducted to evaluate programs designed to—
 
-&emsp;&emsp;“(A) offer consumers choices among perishable commodities produced with different production practices;
+&emsp;&emsp;"(A) offer consumers choices among perishable commodities produced with different production practices;
 
-&emsp;&emsp;“(B) provide consumers with information about agricultural practices used in the production of perishable commodities; or
+&emsp;&emsp;"(B) provide consumers with information about agricultural practices used in the production of perishable commodities; or
 
-&emsp;&emsp;“(C) educate the public about the relationship, as determined in the research conducted under this subtitle, between the cosmetic appearance of perishable commodities and pesticide use.
+&emsp;&emsp;"(C) educate the public about the relationship, as determined in the research conducted under this subtitle, between the cosmetic appearance of perishable commodities and pesticide use.
 
-“(d)
+"(d)
 
 Dissemination of Results.—The Secretary of Agriculture shall disseminate to concerned parties the results obtained from prior scientifically valid research concerning Federal marketing policies and practices described in this section to avoid any duplication of effort and to ensure that current knowledge concerning such policies and practices is enhanced.
 
-“(e)
+"(e)
 
 Advisory Committee.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Establishment.—The Secretary of Agriculture shall establish an advisory committee for the purpose of providing ongoing review of the implementation of the requirements in this section and providing the Secretary of Agriculture with recommendations regarding the implementation of those requirements.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Membership.—The Advisory Committee shall consist of 12 members comprised of three representatives from not-for-profit consumer organizations, three representatives from not-for-profit environmental organizations, three representatives from production agriculture and the perishable commodity grower and shipper community, and three representatives from the food retailing sector, each with experience in the policy issues discussed in this section.
 
-“(f)
+"(f)
 
 Report.—The Secretary of Agriculture shall report to Congress on the research conducted under this section no later than September 30, 1992. The Secretary shall report on the research conducted under subsection (c) no later than September 30, 1993.
 
-#### “SEC. 1353. CHANGES IN PROCEDURAL REGULATIONS.
+#### "SEC. 1353. CHANGES IN PROCEDURAL REGULATIONS.
 
-“With regard to Federal grade standards developed and promulgated pursuant to the Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.), the Secretary of Agriculture shall:
+"With regard to Federal grade standards developed and promulgated pursuant to the Agricultural Marketing Act of 1946 (7 U.S.C. 1621 et seq.), the Secretary of Agriculture shall:
 
-&emsp;“(1) Take into account the impact of those standards on the ability of perishable commodity growers to reduce the use of pesticides.
+&emsp;"(1) Take into account the impact of those standards on the ability of perishable commodity growers to reduce the use of pesticides.
 
-&emsp;“(2) Provide for citizens outside of the perishable commodity industry fair and reasonable opportunity to formally petition a change in grade standards.
+&emsp;"(2) Provide for citizens outside of the perishable commodity industry fair and reasonable opportunity to formally petition a change in grade standards.
 
-&emsp;“(3) Provide for a comment period after a formal petition to change grade standards has been made to enable all interested parties to submit information. The Secretary of Agriculture shall evaluate the information and consider it in the revision process.
+&emsp;"(3) Provide for a comment period after a formal petition to change grade standards has been made to enable all interested parties to submit information. The Secretary of Agriculture shall evaluate the information and consider it in the revision process.
 
-&emsp;“(4) Provide interested parties with annual status reports during the period 1992 through 1994, updated upon request, on all pending grade standard changes the Department of Agriculture is considering.
+&emsp;"(4) Provide interested parties with annual status reports during the period 1992 through 1994, updated upon request, on all pending grade standard changes the Department of Agriculture is considering.
 
-#### “SEC. 1354. AUTHORIZATION OF APPROPRIATIONS.
+#### "SEC. 1354. AUTHORIZATION OF APPROPRIATIONS.
 
-“There are authorized to be appropriated to carry out the activities required under this subtitle, $4,000,000 for each fiscal year.”
+"There are authorized to be appropriated to carry out the activities required under this subtitle, $4,000,000 for each fiscal year."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

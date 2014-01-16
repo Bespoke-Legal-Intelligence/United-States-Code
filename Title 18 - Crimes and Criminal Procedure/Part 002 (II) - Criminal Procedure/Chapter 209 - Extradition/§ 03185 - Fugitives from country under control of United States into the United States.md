@@ -54,15 +54,15 @@ Changes were made in phraseology and arrangement.
 
 #### 1949 Act
 
-This section \[section 49\] corrects typographical errors in section 3185 of title 18, U.S.C., by transferring to subdivision (3) the words, “indebtedness, bank notes, or other instruments of public”, from subdivision (2) of such section where they had been erroneously included.
+This section \[section 49\] corrects typographical errors in section 3185 of title 18, U.S.C., by transferring to subdivision (3) the words, "indebtedness, bank notes, or other instruments of public", from subdivision (2) of such section where they had been erroneously included.
 
 #### Amendments
 
-<b>1986</b>—Par. (12). Pub. L. 99–646 and Pub. L. 99–654 amended par. (12) identically, substituting “A felony under chapter 109A of this title” for “Rape”.
+<b>1986</b>—Par. (12). Pub. L. 99–646 and Pub. L. 99–654 amended par. (12) identically, substituting "A felony under chapter 109A of this title" for "Rape".
 
-<b>1949</b>—Pars. (2), (3). Act May 24, 1949, transferred “indebtedness, bank notes, or other instruments of public” from par. (2) to par. (3).
+<b>1949</b>—Pars. (2), (3). Act May 24, 1949, transferred "indebtedness, bank notes, or other instruments of public" from par. (2) to par. (3).
 
 #### Effective Date of 1986 Amendments
 
-Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective, respectively, 30 days after Nov. 10, 1986, and 30 days after Nov. 14, 1986, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of this title.
+Amendments by Pub. L. 99–646 and Pub. L. 99–654 effective, respectively, 30 days after Nov. 10, 1986, and 30days after Nov. 14, 1986, see section 87(e) of Pub. L. 99–646 and section 4 of Pub. L. 99–654, set out as an Effective Date note under section 2241 of this title.
 

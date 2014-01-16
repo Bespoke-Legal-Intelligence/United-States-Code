@@ -6,7 +6,7 @@ The National Zoological Park is placed under the direction of the Regents of the
 
 #### Amendments
 
-<b>1961</b>—Pub. L. 87–360 inserted “and improve” after “administer”.
+<b>1961</b>—Pub. L. 87–360 inserted "and improve" after "administer".
 
 #### Establishment of Parks
 

@@ -12,19 +12,19 @@ The Director is authorized to retain all building use and depreciation surcharge
 
 #### References in Text
 
-“Herein”, referred to in subsec. (a), refers to act Mar. 3, 1901, ch. 872, which is classified generally to this chapter.
+"Herein", referred to in subsec. (a), refers to act Mar. 3, 1901, ch. 872, which is classified generally to this chapter.
 
 #### Amendments
 
 <b>2007</b>—Pub. L. 110–69 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-<b>1992</b>—Pub. L. 102–245 substituted “herein.” for “herein: <i>Provided</i>, That no improvement shall be made norshall any building be constructed under this authority at a cost in excess of $250,000 unless specific provision is made therefor in the appropriation concerned.”
+<b>1992</b>—Pub. L. 102–245 substituted "herein." for "herein: <i>Provided</i>, That no improvement shall be made norshall any building be constructed under this authority at a cost in excess of $250,000 unless specific provision is made therefor in the appropriation concerned."
 
-<b>1988</b>—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards” wherever appearing.
+<b>1988</b>—Pub. L. 100–418 substituted "Institute" for "National Bureau of Standards" wherever appearing.
 
-<b>1980</b>—Pub. L. 96–461 substituted “$250,000” for $75,000”.
+<b>1980</b>—Pub. L. 96–461 substituted "$250,000" for $75,000".
 
-<b>1972</b>—Pub. L. 92–317 substituted “$75,000” for “$40,000”.
+<b>1972</b>—Pub. L. 92–317 substituted "$75,000" for "$40,000".
 
 #### Effective Date of 1980 Amendment
 
@@ -32,5 +32,5 @@ Amendment by Pub. L. 96–461 effective Oct. 1, 1980, see section 11 of Pub. L. 
 
 #### Facilities for Cold Neutron Research
 
-Pub. L. 101–162, title I, §104, Nov. 21, 1989, 103 Stat. 994, provided that: “Hereafter, the National Institute of Standards and Technology is authorized to accept contributions of funds, to remain available until expended, from any public or private source to construct a facility for cold neutron research on materials, notwithstanding the limitations contained in 15 U.S.C. 278d.”
+Pub. L. 101–162, title I, §104, Nov. 21, 1989, 103 Stat. 994, provided that: "Hereafter, the National Institute of Standards and Technology is authorized to accept contributions of funds, to remain available until expended, from any public or private source to construct a facility for cold neutron research on materials, notwithstanding the limitations contained in 15 U.S.C. 278d."
 

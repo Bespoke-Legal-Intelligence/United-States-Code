@@ -26,7 +26,7 @@ Congress finds the following:
 
 &emsp;(9) The Federal Government and State and local governments and agencies in other jurisdictions may benefit from such information.
 
-&emsp;(10) Federal, State, and local governments and intelligence, law enforcement, and otheremergency preparation and response agencies must act in partnership to maximize the benefits of information gathering and analysis to prevent and respond to terrorist attacks.
+&emsp;(10) Federal, State, and local governments and intelligence, law enforcement, and other emergency preparation and response agencies must act in partnership to maximize the benefits of information gathering and analysis to prevent and respond to terrorist attacks.
 
 &emsp;(11) Information systems, including the National Law Enforcement Telecommunications System and the Terrorist Threat Warning System, have been established for rapid sharing of classified and sensitive but unclassified information among Federal, State, and local entities.
 
@@ -40,7 +40,7 @@ It is the sense of Congress that Federal, State, and local entities should share
 
 #### References in Text
 
-This part, referred to in subsec. (a), was in the original “This subtitle”, meaning subtitle I (§§891–899) of title VIII of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2252, which enacted this part, amended section 2517 of Title 18, Crimes and Criminal Procedure, Rule 6 of the Federal Rules of Criminal Procedure, set out in the Appendix to Title 18, and sections 403–5d, 1806, and 1825 of Title 50, War and National Defense, and amended provisions set out as a note under section 2517 of Title 18. For complete classification of subtitle I to the Code, see Tables.
+This part, referred to in subsec. (a), was in the original “This subtitle”, meaning subtitle I (§§891–899) of title VIII of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2252, which enacted this part, amended section 2517 of Title 18, Crimes and Criminal Procedure, Rule 6 of the Federal Rules of Criminal Procedure, set out in the Appendix to Title 18, and sections 1806, 1825, and 3365 of Title 50, War and National Defense, and amended provisions set out as a note under section 2517 of Title 18. For complete classification of subtitle I to the Code, see Tables.
 
 #### Reports to Congress
 

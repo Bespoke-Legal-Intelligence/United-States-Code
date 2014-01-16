@@ -20,7 +20,7 @@ No employer shall be deemed to have violated subsection (a) of this section by e
 
 &emsp;(1) in pursuance of an agreement, made as a result of collective bargaining by representatives of employees certified as bona fide by the National Labor Relations Board, which provides that no employee shall be employed more than one thousand and forty hours during any period of twenty-six consecutive weeks; or
 
-&emsp;(2) in pursuance of an agreement, made as a result of collective bargaining by representatives of employees certified as bona fide by the National Labor Relations Board, which provides that during a specified period of fifty-two consecutive weeks the employee shall be employed not more than two thousand two hundred and forty hours and shall be guaranteed not less than one thousand eight hundred and forty-hours (or not less than forty-six weeks at the normal number of hours worked per week, but not less than thirty hours per week) and not more than two thousand and eighty hours of employment for which he shall receive compensation for all hours guaranteed or worked at rates not less than those applicable under the agreement to the work performed and for all hours in excess of the guaranty which are also in excess of the maximumworkweek applicable to such employee under subsection (a) of this section or two thousand and eighty in such period at rates not less than one and one-half times the regular rate at which he is employed; or
+&emsp;(2) in pursuance of an agreement, made as a result of collective bargaining by representatives of employees certified as bona fide by the National Labor Relations Board, which provides that during a specified period of fifty-two consecutive weeks the employee shall be employed not more than two thousand two hundred and forty hours and shall be guaranteed not less than one thousand eight hundred and forty-hours (or not less than forty-six weeks at the normal number of hours worked per week, but not less than thirty hours per week) and not more than two thousand and eighty hours of employment for which he shall receive compensation for all hours guaranteed or worked at rates not less than those applicable under the agreement to the work performed and for all hours in excess of the guaranty which are also in excess of the maximum workweek applicable to such employee under subsection (a) of this section or two thousand and eighty in such period at rates not less than one and one-half times the regular rate at which he is employed; or
 
 &emsp;(3) by an independently owned and controlled local enterprise (including an enterprise with more than one bulk storage establishment) engaged in the wholesale or bulk distribution of petroleum products if—
 
@@ -36,9 +36,9 @@ No employer shall be deemed to have violated subsection (a) of this section by e
 
 #### (c), (d) Repealed. Pub. L. 93–259, §19(e), Apr. 8, 1974, 88 Stat. 66
 
-#### (e) “Regular rate” defined
+#### (e) "Regular rate" defined
 
-As used in this section the “regular rate” at which an employee is employed shall be deemed to include all remuneration for employment paid to, or on behalf of, the employee, but shall not be deemed to include—
+As used in this section the "regular rate" at which an employee is employed shall be deemed to include all remuneration for employment paid to, or on behalf of, the employee, but shall not be deemed to include—
 
 &emsp;(1) sums paid as gifts; payments in the nature of gifts made at Christmas time or on other special occasions, as a reward for service, the amounts of which are not measured by or dependent on hours worked, production, or efficiency;
 
@@ -96,7 +96,7 @@ No employer shall be deemed to have violated subsection (a) of this section by e
 
 #### (j) Employment in hospital or establishment engaged in care of sick, aged, or mentally ill
 
-No employer engaged in the operation of a hospital or an establishment which is an institution primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises shall be deemed to have violated subsection (a) of this section if, pursuant to an agreement or understanding arrived at between the employer and the employee before performance of the work, a work period of fourteen consecutive days is accepted in lieu of the workweek of seven consecutive days for purposes of overtime computation and if, for his employment in excess of eight hours in any workday and in excess of eighty hours in suchfourteen-day period, the employee receives compensation at a rate not less than one and one-half times the regular rate at which he is employed.
+No employer engaged in the operation of a hospital or an establishment which is an institution primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises shall be deemed to have violated subsection (a) of this section if, pursuant to an agreement or understanding arrived at between the employer and the employee before performance of the work, a work period of fourteen consecutive days is accepted in lieu of the workweek of seven consecutive days for purposes of overtime computation and if, for hisemployment in excess of eight hours in any workday and in excess of eighty hours in such fourteen-day period, the employee receives compensation at a rate not less than one and one-half times the regular rate at which he is employed.
 
 #### (k) Employment by public agency engaged in fire protection or law enforcement activities
 
@@ -152,7 +152,7 @@ In the case of an employee of an employer engaged in the business of operating a
 
 &emsp;(B) if the employee has not accrued compensatory time in excess of the limit applicable to the employee prescribed by paragraph (3).
 
-> In the case of employees described in clause (A)(ii) hired prior to April 15, 1986, the regular practice in effect on April 15, 1986, with respect to compensatory time off for such employees in lieu of the receipt of overtime compensation, shall constitute an agreement or understanding under such clause (A)(ii). Except as provided in the previous sentence, the provision of compensatory time off to such employees for hours worked after April 14, 1986, shall be in accordance with this subsection.
+> In the case of employees described in clause (A)(ii) hired prior to April 15, 1986, the regular practice in effect on April 15, 1986, with respect to compensatory time off for such employees in lieu of the receipt of overtime compensation, shall constitute an agreement or understanding under such clause (A)(ii). Except as provided inthe previous sentence, the provision of compensatory time off to such employees for hours worked after April 14, 1986, shall be in accordance with this subsection.
 
 (3)(A) If the work of an employee for which compensatory time may be provided included work in a public safety activity, an emergency response activity, or a seasonal activity, the employee engaged in such work may accrue not more than 480 hours of compensatory time for hours worked after April 15, 1986. If such work was any other work, the employee engaged in such work may accrue not more than 240 hours of compensatory time for hours worked after April 15, 1986. Any such employee who, after April 15, 1986, has accrued 480 or 240 hours, as the case may be, of compensatory time off shall, for additional overtime hours of work, be paid overtime compensation.
 
@@ -190,9 +190,9 @@ In the case of an employee of an employer engaged in the business of operating a
 
 (7) For purposes of this subsection—
 
-&emsp;(A) the term “overtime compensation” means the compensation required by subsection (a), and
+&emsp;(A) the term "overtime compensation" means the compensation required by subsection (a), and
 
-&emsp;(B) the terms “compensatory time” and “compensatory time off” mean hours during which an employee is not working, which are not counted as hours worked during the applicable workweek or other work period for purposes of overtime compensation, and for which the employee is compensated at the employee's regular rate.
+&emsp;(B) the terms "compensatory time" and "compensatory time off" mean hours during which an employee is not working, which are not counted as hours worked during the applicable workweek or other work period for purposes of overtime compensation, and for which the employee is compensated at the employee's regular rate.
 
 #### (p) Special detail work for fire protection and law enforcement employees; occasional or sporadic employment; substitution
 
@@ -206,7 +206,7 @@ In the case of an employee of an employer engaged in the business of operating a
 
 (2) If an employee of a public agency which is a State, political subdivision of a State, or an interstate governmental agency undertakes, on an occasional or sporadic basis and solely at the employee's option, part-time employment for the public agency which is in a different capacity from any capacity in which the employee is regularly employed with the public agency, the hours such employee was employed in performing the different employment shall be excluded by the public agency in the calculation of the hours for which the employee is entitled to overtime compensation under this section.
 
-(3) If an individual who is employed in any capacity by a public agency which is a State, political subdivision of a State, or an interstate governmental agency, agrees, with the approval of the public agency and solely at the option of such individual, to substitute during scheduled work hours for another individual who is employed by such agency in the same capacity, the hours such employee worked as a substitute shall be excluded by the public agency in the calculation of the hours for which the employee is entitled to overtime compensation under this section.
+(3) If an individual who is employed in any capacity by a public agency which is a State, political subdivision of a State, or an interstate governmental agency, agrees, with the approval of the public agency and solely at the option of such individual, to substitute during scheduledwork hours for another individual who is employed by such agency in the same capacity, the hours such employee worked as a substitute shall be excluded by the public agency in the calculation of the hours for which the employee is entitled to overtime compensation under this section.
 
 #### (q) Maximum hour exemption for employees receiving remedial education
 
@@ -258,17 +258,17 @@ Subsec. (h). Pub. L. 106–202, §2(b), designated existing provisions as par. (
 
 Subsec. (p). Pub. L. 99–150, §3(a)–(c)(1), added subsec. (p).
 
-<b>1974</b>—Subsec. (c). Pub. L. 93–259, §19(a), (b), substituted “seven workweeks” for “ten workweeks”, “ten workweeks” for “fourteen workweeks” and “forty-eight hours” for “fifty hours” effective May 1, 1974. Pub. L. 93–259, §19(c), substituted “five workweeks” for “seven workweeks” and “seven workweeks” for “ten workweeks” effective Jan. 1, 1975. Pub. L. 93–259, §19(d), substituted “three workweeks” for “five workweeks” and “five workweeks” for “seven workweeks” effective Jan. 1, 1976. Pub. L. 93–259, §19(e), repealed subsec. (c) effective Dec. 31, 1976.
+<b>1974</b>—Subsec. (c). Pub. L. 93–259, §19(a), (b), substituted "seven workweeks" for "ten workweeks", "ten workweeks" for "fourteen workweeks" and "forty-eight hours" for "fifty hours" effective May 1, 1974. Pub. L. 93–259, §19(c), substituted "five workweeks" for "seven workweeks" and "seven workweeks" for "ten workweeks" effective Jan. 1, 1975. Pub. L. 93–259, §19(d), substituted "three workweeks" for "five workweeks" and "five workweeks" for "seven workweeks" effective Jan. 1, 1976. Pub. L. 93–259, §19(e), repealed subsec. (c) effective Dec. 31, 1976.
 
-Subsec. (d). Pub. L. 93–259, §19(a), (b), substituted “seven workweeks” for “ten workweeks”, “ten workweeks” for “fourteen workweeks” and “forty-eight hours” for “fifty hours” effective May 1, 1974. Pub. L. 93–259, §19(c), substituted “five workweeks” for “seven workweeks” and “seven workweeks” for “ten workweeks” effective Jan. 1, 1975. Pub. L. 93–259, §19(d), substituted “three workweeks” for “five workweeks” and “five workweeks” for “seven workweeks” effective Jan. 1, 1976. Pub. L. 93–259, §19(e), repealed subsec. (d) effective Dec. 31, 1976.
+Subsec. (d). Pub. L. 93–259, §19(a), (b), substituted "seven workweeks" for "ten workweeks", "ten workweeks" for "fourteen workweeks" and "forty-eight hours" for "fifty hours" effective May 1, 1974. Pub. L. 93–259, §19(c), substituted "five workweeks" for "seven workweeks" and "seven workweeks" for "ten workweeks" effective Jan. 1, 1975. Pub. L. 93–259, §19(d), substituted "three workweeks" for "five workweeks" and "five workweeks" for "seven workweeks" effective Jan. 1, 1976. Pub. L. 93–259, §19(e), repealed subsec. (d) effective Dec. 31, 1976.
 
 Subsec. (j). Pub. L. 93–259, §12(b), extended provision excepting from being considered a subsec. (a) violation agreements or undertakings between employers and employees respecting consecutive work period and overtime compensation to agreements between employers engaged in operation of an establishment which is an institution primarily engaged in the care of the sick, the aged, or the mentally ill or defective who reside on the premises and employees respecting consecutive work period and overtime compensation.
 
-Subsec. (k). Pub. L. 93–259, §6(c)(1)(D), effective Jan. 1, 1978, substituted in par. (1) “exceed the lesser of (A) 216 hours, or (B) the average number of hours (as determined by the Secretary pursuant to section 6(c)(3) of the Fair Labor Standards Amendments of 1974) in tours of duty of employees engaged in such activities in work periods of 28 consecutive days in calendar year 1975” for “exceed 216 hours” and inserted in par. (2) “(or if lower, the number of hours referred to in clause (B) of paragraph (1)”.
+Subsec. (k). Pub. L. 93–259, §6(c)(1)(D), effective Jan. 1, 1978, substituted in par. (1) "exceed the lesser of (A) 216 hours, or (B) the average number of hours (as determined by the Secretary pursuant to section 6(c)(3) of the Fair Labor Standards Amendments of 1974) in tours of duty of employees engaged in such activities in work periods of 28 consecutive days in calendar year 1975" for "exceed 216 hours" and inserted in par. (2) "(or if lower, the number of hours referred to in clause (B) of paragraph (1)".
 
-Pub. L. 93–259, §6(c)(1)(C), substituted “216 hours” for “232 hours”, wherever appearing, effective Jan. 1, 1977.
+Pub. L. 93–259, §6(c)(1)(C), substituted "216 hours" for "232 hours", wherever appearing, effective Jan. 1, 1977.
 
-Pub. L. 93–259, §6(c)(1)(B), substituted “232 hours” for “240 hours”, wherever appearing, effective Jan. 1, 1976.
+Pub. L. 93–259, §6(c)(1)(B), substituted "232 hours" for "240 hours", wherever appearing, effective Jan. 1, 1976.
 
 Pub. L. 93–259, §6(c)(1)(A), added subsec. (k), effective Jan. 1, 1975.
 
@@ -278,7 +278,7 @@ Subsec. (m). Pub. L. 93–259, §9(a), added subsec. (m).
 
 Subsec. (n). Pub. L. 93–259, §21(a), added subsec. (n).
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–601, §401, retained provision for 40-hour workweek and compensation for employment in excess of 40 hours at not less than one and one-half times the regular rate of pay and substituted provisions setting out a phased timetable for the workweek in the case of employees covered by the overtime provisions for the first time under the Fair Labor Standards Amendments of 1966 beginning at 44 hours during the first year from the effective date of the Fair Labor Standards Amendments of 1966, 42 hours during the second year from such date, and 40 hours after theexpiration of the second year from such date, for provisions giving a phased timetable for workweeks in the case of employees first covered under the provisions of the Fair Labor Standards Amendments of 1961.
+<b>1966</b>—Subsec. (a). Pub. L. 89–601, §401, retained provision for 40-hour workweek and compensation for employment in excess of 40 hours at not less than one and one-half times the regular rate of pay and substituted provisions setting out a phased timetable for the workweek in the case of employees covered by the overtime provisions for the first time under the Fair Labor Standards Amendments of 1966 beginning at 44 hours during the first year from the effective date of the Fair Labor Standards Amendments of 1966, 42 hours during the second year from such date, and 40 hours after the expiration of the second year from such date, for provisions giving a phased timetable for workweeks in the case of employees first covered under the provisions of the Fair Labor Standards Amendments of 1961.
 
 Subsec. (b)(3). Pub. L. 89–601, §212(b), substituted provisions granting an overtime exemption for petroleum distribution employees if they receive compensation for the hours of employment in excess of 40 hours in any workweek at a rate not less than one and one-half times the applicable minimum wage rate and if the enterprises do an annual gross sales volume of less than $1,000,000, if more than 75 per centum of such enterprise's annual dollar volume of sales is made within the state in which the enterprise is located, and not more than 25 per centum of the annual dollar volume is to customers who are engaged in the bulk distribution of such products for resale for provisions covering employees for a period of not more than 14 workweeks in the aggregate in any calendar year in an industry found to be of a seasonal nature.
 
@@ -288,21 +288,21 @@ Subsec. (d). Pub. L. 89–601, §204(c), added subsec. (d). Former subsec. (d) r
 
 Subsecs. (e), (f). Pub. L. 89–601, §204(d)(1), redesignated former subsecs. (d) and (e) as (e) and (f) respectively. Former subsec. (f) redesignated (g).
 
-Subsecs. (g), (h). Pub. L. 89–601, §204(d)(1), (2), redesignated former subsecs. (f) and (g) as subsecs. (g) and (h) respectively, and in subsecs. (g) and (h) as so redesignated, substituted reference to “subsection (e)” for reference to “subsection (d).” Former subsec. (h) redesignated (i).
+Subsecs. (g), (h). Pub. L. 89–601, §204(d)(1), (2), redesignated former subsecs. (f) and (g) as subsecs. (g) and (h) respectively, and in subsecs. (g) and (h) as so redesignated, substituted reference to "subsection (e)" for reference to "subsection (d)." Former subsec. (h) redesignated (i).
 
 Subsec. (i). Pub. L. 89–601, §§204(d)(1), 402, redesignated former subsec. (h) as (i) and inserted provision that, in determining the proportion of compensation representing commissions, all earnings resulting from the application of a bona fide commission rate shall be deemed commissions on goods or services without regard to whether the computed commissions exceed the draw or guarantee.
 
 Subsec. (j). Pub. L. 89–601, §403, added subsec. (j).
 
-<b>1961</b>—Subsec. (a). Pub. L. 87–30, §6(a), designated existing provisions as par. (1), inserted “in any workweek”, and added par. (2).
+<b>1961</b>—Subsec. (a). Pub. L. 87–30, §6(a), designated existing provisions as par. (1), inserted "in any workweek", and added par. (2).
 
-Subsec. (b)(2). Pub. L. 87–30, §6(b), substituted “in excess of the maximum workweek applicable to such employee under subsection (a) of this section” for “in excess of forty hours in the workweek”.
+Subsec. (b)(2). Pub. L. 87–30, §6(b), substituted "in excess of the maximum workweek applicable to such employee under subsection (a) of this section" for "in excess of forty hours in the workweek".
 
-Subsec. (d)(5), (7). Pub. L. 87–30, §6(c), (d), substituted “in excess of the maximum workweek applicable to such employee under subsection (a) of this section” for “forty in a workweek” in par. (5) and “the maximum workweek applicable to such employee under subsection (a) of this section” for “forty hours” in par. (7).
+Subsec. (d)(5), (7). Pub. L. 87–30, §6(c), (d), substituted "in excess of the maximum workweek applicable to such employee under subsection (a) of this section" for "forty in a workweek" in par. (5) and "the maximum workweek applicable to such employee under subsection (a) of this section" for "forty hours" in par. (7).
 
-Subsec. (e). Pub. L. 87–30, §6(e), substituted “the maximum workweek applicable to such employee under subsection (a) of this section”, “subsection (a) or (b) of section 206 of this title (whichever may be applicable” and “such maximum” for “forty hours”, “section 206(a) of this title” and “forty in any”, respectively.
+Subsec. (e). Pub. L. 87–30, §6(e), substituted "the maximum workweek applicable to such employee under subsection (a) of this section", "subsection (a) or (b) of section 206 of this title (whichever may be applicable" and "such maximum" for "forty hours", "section 206(a) of this title" and "forty in any", respectively.
 
-Subsec. (f). Pub. L. 87–30, §6(f), substituted “the maximum workweek applicable to such employee under subsection” for “forty hours” in two places.
+Subsec. (f). Pub. L. 87–30, §6(f), substituted "the maximum workweek applicable to such employee under subsection" for "forty hours" in two places.
 
 Subsec. (h). Pub. L. 87–30, §6(g), added subsec. (h).
 
@@ -324,11 +324,11 @@ Subsecs. (f) and (g). Act Oct. 26, 1949, added subsecs. (f) and (g).
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–202, §2(c), May 18, 2000, 114 Stat. 309, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date that is 90 days after the date of enactment of this Act \[May 18, 2000\].”
+Pub. L. 106–202, §2(c), May 18, 2000, 114 Stat. 309, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date that is 90 days after the date of enactment of this Act \[May 18, 2000\]."
 
 #### Effective Date of 1995 Amendment
 
-Pub. L. 104–26, §3, Sept. 6, 1995, 109 Stat. 265, provided that: “The amendments made by section 2 \[amending this section\] shall apply after the date of the enactment of this Act \[Sept. 6, 1995\] and with respect to actions brought in a court after the date of the enactment of this Act.”
+Pub. L. 104–26, §3, Sept. 6, 1995, 109 Stat. 265, provided that: "The amendments made by section 2 \[amending this section\] shall apply after the date of the enactment of this Act \[Sept. 6, 1995\] and with respect to actions brought in a court after the date of the enactment of this Act."
 
 #### Effective Date of 1985 Amendment
 
@@ -348,7 +348,7 @@ Amendment by Pub. L. 89–601 effective Feb. 1, 1967, except as otherwise provid
 
 #### Effective Date of 1961 Amendment
 
-Amendment by Pub. L. 87–30 effective upon expiration of one hundred and twenty days after May 5, 1961, except as otherwise provided, see section 14 of Pub. L. 87–30, set out as a note under section 203 of this title.
+Amendment by Pub. L. 87–30 effective upon expiration of one hundred and twenty days after May 5, 1961,except as otherwise provided, see section 14 of Pub. L. 87–30, set out as a note under section 203 of this title.
 
 #### Effective Date of 1949 Amendment
 
@@ -356,7 +356,7 @@ Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see s
 
 #### Regulations
 
-Pub. L. 106–202, §2(e), May 18, 2000, 114 Stat. 309, provided that: “The Secretary of Labor may promulgatesuch regulations as may be necessary to carry out the amendments made by this Act \[amending this section\].”
+Pub. L. 106–202, §2(e), May 18, 2000, 114 Stat. 309, provided that: "The Secretary of Labor may promulgate such regulations as may be necessary to carry out the amendments made by this Act \[amending this section\]."
 
 #### Transfer of Functions
 
@@ -366,63 +366,63 @@ Functions of all other officers of Department of Labor and functions of all agen
 
 Pub. L. 110–244, title III, §306, June 6, 2008, 122 Stat. 1620, provided that:
 
-“(a)
+"(a)
 
 Applicability Following This Act.—Beginning on the date of enactment of this Act \[June 6, 2008\], section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 207) shall apply to a covered employee notwithstanding section 13(b)(1) of that Act (29 U.S.C. 213(b)(1)).
 
-“(b)
+"(b)
 
 Liability Limitation Following SAFETEA–LU.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Limitation on liability.—An employer shall not be liable for a violation of section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 207) with respect to a covered employee if—
 
-&emsp;&emsp;“(A) the violation occurred in the 1-year period beginning on August 10, 2005; and
+&emsp;&emsp;"(A) the violation occurred in the 1-year period beginning on August 10, 2005; and
 
-&emsp;&emsp;“(B) as of the date of the violation, the employer did not have actual knowledge that the employer was subject to the requirements of such section with respect to the covered employee.
+&emsp;&emsp;"(B) as of the date of the violation, the employer did not have actual knowledge that the employer was subject to the requirements of such section with respect to the covered employee.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Actions to recover amounts previously paid.—Nothing in paragraph (1) shall be construed to establish a cause of action for an employer to recover amounts paid before the date of enactment of this Act \[June 6, 2008\] in settlement of, in compromise of, or pursuant to a judgment rendered regarding a claim or potential claim based on an alleged or proven violation of section 7 of the Fair Labor Standards Act of 1938 (29 U.S.C. 207) occurring in the 1-year period referred to in paragraph (1)(A) with respect to a covered employee.
 
-“(c)
+"(c)
 
-Covered Employee Defined.—In this section, the term ‘covered employee’ means an individual—
+Covered Employee Defined.—In this section, the term 'covered employee' means an individual—
 
-&emsp;“(1) who is employed by a motor carrier or motor private carrier (as such terms are defined by section 13102 of title 49, United States Code, as amended by section 305);
+&emsp;"(1) who is employed by a motor carrier or motor private carrier (as such terms are defined by section 13102 of title 49, United States Code, as amended by section 305);
 
-&emsp;“(2) whose work, in whole or in part, is defined—
+&emsp;"(2) whose work, in whole or in part, is defined—
 
-&emsp;&emsp;“(A) as that of a driver, driver's helper, loader, or mechanic; and
+&emsp;&emsp;"(A) as that of a driver, driver's helper, loader, or mechanic; and
 
-&emsp;&emsp;“(B) as affecting the safety of operation of motor vehicles weighing 10,000 pounds or less in transportation on public highways in interstate or foreign commerce, except vehicles—
+&emsp;&emsp;"(B) as affecting the safety of operation of motor vehicles weighing 10,000 pounds or less in transportation on public highways in interstate or foreign commerce, except vehicles—
 
-&emsp;&emsp;&emsp;“(i) designed or used to transport more than 8 passengers (including the driver) for compensation;
+&emsp;&emsp;&emsp;"(i) designed or used to transport more than 8 passengers (including the driver) for compensation;
 
-&emsp;&emsp;&emsp;“(ii) designed or used to transport more than 15 passengers (including the driver) and not used to transport passengers for compensation; or
+&emsp;&emsp;&emsp;"(ii) designed or used to transport more than 15 passengers (including the driver) and not used to transport passengers for compensation; or
 
-&emsp;&emsp;&emsp;“(iii) used in transporting material found by the Secretary of Transportation to be hazardous under section 5103 of title 49, United States Code, and transported in a quantity requiring placarding under regulations prescribed by the Secretary under section 5103 of title 49, United States Code; and
+&emsp;&emsp;&emsp;"(iii) used in transporting material found by the Secretary of Transportation to be hazardous under section 5103 of title 49, United States Code, and transported in a quantity requiring placarding under regulations prescribed by the Secretary under section 5103 of title 49, United States Code; and
 
-&emsp;“(3) who performs duties on motor vehicles weighing 10,000 pounds or less.”
+&emsp;"(3) who performs duties on motor vehicles weighing 10,000 pounds or less."
 
 #### Liability of Employers
 
-Pub. L. 106–202, §2(d), May 18, 2000, 114 Stat. 309, provided that: “No employer shall be liable under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\] for any failure to include in an employee's regular rate (as defined for purposes of such Act) any income or value derived from employer-provided grants or rights obtained pursuant to any stock option, stock appreciation right, or employee stock purchase program if—
+Pub. L. 106–202, §2(d), May 18, 2000, 114 Stat. 309, provided that: "No employer shall be liable under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\] for any failure to include in an employee's regular rate (as defined for purposes of such Act) any income or value derived from employer-provided grants or rights obtained pursuant to any stock option, stock appreciation right, or employee stock purchase program if—
 
-&emsp;“(1) the grants or rights were obtained before the effective date described in subsection (c) \[set out as an Effective Date of 2000 Amendment note above\];
+&emsp;"(1) the grants or rights were obtained before the effective date described in subsection (c) \[set out as an Effective Date of 2000 Amendment note above\];
 
-&emsp;“(2) the grants or rights were obtained within the 12-month period beginning on the effective date described in subsection (c), so long as such program was in existence on the date of enactment of this Act \[May 18, 2000\] and will require shareholder approval to modify such program to comply with section 7(e)(8) of the Fair Labor Standards Act of 1938 \[29 U.S.C. 207(e)(8)\] (as added by the amendments made by subsection (a)); or
+&emsp;"(2) the grants or rights were obtained within the 12-month period beginning on the effective date described in subsection (c), so long as such program was in existence on the date of enactment of this Act \[May 18, 2000\] and will require shareholder approval to modify such program to comply with section 7(e)(8) of the Fair Labor Standards Act of 1938 \[29 U.S.C. 207(e)(8)\] (as added by the amendments made by subsection (a)); or
 
-&emsp;“(3) such program is provided under a collective bargaining agreement that is in effect on the effective date described in subsection (c).”
+&emsp;"(3) such program is provided under a collective bargaining agreement that is in effect on the effective date described in subsection (c)."
 
 #### Compensatory Time; Collective Bargaining Agreements in Effect on April 15, 1986
 
-Pub. L. 99–150, §2(b), Nov. 13, 1985, 99 Stat. 788, provided that: “A collective bargaining agreement which is in effect on April 15, 1986, and which permits compensatory time off in lieu of overtime compensation shall remain in effect until its expiration date unless otherwise modified, except that compensatory time shall be provided after April 14, 1986, in accordance with section 7(o) of the Fair Labor Standards Act of 1938 (as added by subsection (a)) \[29 U.S.C. 207(o)\].”
+Pub. L. 99–150, §2(b), Nov. 13, 1985, 99 Stat. 788, provided that: "A collective bargaining agreement which is in effect on April 15, 1986, and which permits compensatory time off in lieu of overtime compensation shall remain in effect until its expiration date unless otherwise modified, except that compensatory time shall be provided after April 14, 1986, in accordance with section 7(o) of the Fair Labor Standards Act of 1938 (as added by subsection (a)) \[29 U.S.C. 207(o)\]."
 
 #### Deferment of Monetary Overtime Compensation
 
-Pub. L. 99–150, §2(c)(2), Nov. 13, 1985, 99 Stat. 789, provided that: “A State, political subdivision of a State, or interstate governmental agency may defer until August 1, 1986, the payment of monetary overtime compensation under section 7 of the Fair Labor Standards Act of 1938 \[29 U.S.C. 207\] for hours worked after April 14, 1986.”
+Pub. L. 99–150, §2(c)(2), Nov. 13, 1985, 99 Stat. 789, provided that: "A State, political subdivision of a State, or interstate governmental agency may defer until August 1, 1986, the payment of monetary overtime compensation under section 7 of the Fair Labor Standards Act of 1938 \[29 U.S.C. 207\] for hours worked after April 14, 1986."
 
 #### Effect of Amendments by Public Law 99–150 on Public Agency Liability Respecting any Employee Covered Under Special Enforcement Policy
 
@@ -434,19 +434,19 @@ Secretary authorized to promulgate necessary rules, regulations, or orders on an
 
 #### Study by Secretary of Labor of Excessive Overtime
 
-Pub. L. 89–601, title VI, §603, Sept. 23, 1966, 80 Stat. 844, directed Secretary of Labor to make a complete study of practices dealing with overtime payments for work in excess of forty hours per week and the extent to which such overtime work impeded the creation of new job opportunities in American industry and instructed him to report to the Congress by July 1, 1967, the findings of such survey with appropriate recommendations.
+Pub. L. 89–601, title VI, §603, Sept. 23, 1966, 80 Stat. 844, directed Secretary of Labor to make a completestudy of practices dealing with overtime payments for work in excess of forty hours per week and the extent to which such overtime work impeded the creation of new job opportunities in American industry and instructed him to report to the Congress by July 1, 1967, the findings of such survey with appropriate recommendations.
 
 #### Ex. Ord. No. 9607. Forty-Eight Hour Wartime Workweek
 
 Ex. Ord. No. 9607, Aug. 30, 1945, 10 F.R. 11191, provided:
 
-By virtue of the authority vested in me by the Constitution and statutes as President of the United Statesit is ordered that Executive Order 9301 of February 9, 1943 \[8 F.R. 1825\] (formerly set out as note under this section), establishing a minimum wartime workweek of forty-eight hours, be, and it is hereby, revoked.
+By virtue of the authority vested in me by the Constitution and statutes as President of the United States it is ordered that Executive Order 9301 of February 9, 1943 \[8 F.R. 1825\] (formerly set out as note under this section), establishing a minimum wartime workweek of forty-eight hours, be, and it is hereby, revoked.
 
-Harry S Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Harry S. Truman.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Definition of “Administrator”
+#### Definition of "Administrator"
 
-The term “Administrator” as meaning the Administrator of the Wage and Hour Division, see section 204 of this title.
+The term "Administrator" as meaning the Administrator of the Wage and Hour Division, see section 204 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

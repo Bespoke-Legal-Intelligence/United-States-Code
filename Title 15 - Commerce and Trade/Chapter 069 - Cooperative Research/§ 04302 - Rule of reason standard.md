@@ -12,13 +12,13 @@ In any action under the antitrust laws, or under any State law similar to the an
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–237 substituted “of—
+<b>2004</b>—Pub. L. 108–237 substituted "of—
 
-&emsp;“(1) any person in making or performing a contract to carry out a joint venture, or
+&emsp;"(1) any person in making or performing a contract to carry out a joint venture, or
 
-&emsp;“(2) a standards development organization while engaged in a standards development activity,
+&emsp;"(2) a standards development organization while engaged in a standards development activity,
 
-> shall” for “of any person in making or performing a contract to carry out a joint venture shall”.
+> shall" for "of any person in making or performing a contract to carry out a joint venture shall".
 
-<b>1993</b>—Pub. L. 103–42 substituted “joint venture” for “joint research and development venture” and “, development, product, process, and service” for “and development” and inserted at end “For the purpose of determining a properly defined, relevant market, worldwide capacity shall be considered to the extent that it may be appropriate in the circumstances.”
+<b>1993</b>—Pub. L. 103–42 substituted "joint venture" for "joint research and development venture" and ", development, product, process, and service" for "and development" and inserted at end "For the purpose of determining a properly defined, relevant market, worldwide capacity shall be considered to the extent that it may be appropriate in the circumstances."
 

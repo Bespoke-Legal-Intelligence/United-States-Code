@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;<b>(6) Refunds or credits attributable to partnership items, see section 6227 and subsections (c) and (d) of section 6230.</b>
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 813; Pub. L. 94–455, title XVI, §1601(f)(3), title XIX, §1901(b)(36)(D), (37)(E), Oct. 4, 1976, 90 Stat. 1746, 1802, 1803; Pub. L. 95–600, title III, §362(d)(4), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 97–248, title IV,§402(c)(10), Sept. 3, 1982, 96 Stat. 668; Pub. L. 101–508, title XI, §11801(c)(17)(C), Nov. 5, 1990, 104 Stat. 1388–528.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 813; Pub. L. 94–455, title XVI, §1601(f)(3), title XIX, §1901(b)(36)(D), (37)(E), Oct. 4, 1976, 90 Stat. 1746, 1802, 1803; Pub. L. 95–600, title III, §362(d)(4), Nov. 6, 1978, 92 Stat. 2852; Pub. L. 97–248, title IV, §402(c)(10), Sept. 3, 1982, 96 Stat. 668; Pub. L. 101–508, title XI, §11801(c)(17)(C), Nov. 5, 1990, 104 Stat. 1388–528.)
 
 #### Amendments
 
@@ -22,7 +22,7 @@
 
 <b>1982</b>—Par. (7). Pub. L. 97–248 added par. (7).
 
-<b>1978</b>—Par. (6). Pub. L. 95–600 inserted “regulated investment company or” before “real estate investment trust” and substituted “section 860” for “section 859”. Notwithstanding the directory language that the amendment be made to par. (5), the amendment was executed to par. (6) to reflect the probable intent of Congress.
+<b>1978</b>—Par. (6). Pub. L. 95–600 inserted "regulated investment company or" before "real estate investment trust" and substituted "section 860" for "section 859". Notwithstanding the directory language that the amendment be made to par. (5), the amendment was executed to par. (6) to reflect the probable intent of Congress.
 
 <b>1976</b>—Par. (1). Pub. L. 94–455, §1901(b)(36)(D), (b)(37)(E), redesignated par. (3) as (1). Former par. (1), which referred to section 1321 for adjustments incident to involuntary liquidation of inventory, was struck out.
 

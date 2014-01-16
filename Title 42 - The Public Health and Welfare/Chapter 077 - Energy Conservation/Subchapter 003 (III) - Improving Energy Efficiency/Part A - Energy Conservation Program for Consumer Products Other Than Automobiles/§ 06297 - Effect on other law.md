@@ -10,9 +10,9 @@
 
 (2) For purposes of this section, the following definitions apply:
 
-&emsp;(A) The term “State regulation” means a law, regulation, or other requirement of a State or its political subdivisions. With respect to showerheads, faucets, water closets, and urinals, such term shall also mean a law, regulation, or other requirement of a river basin commission that has jurisdiction within a State.
+&emsp;(A) The term "State regulation" means a law, regulation, or other requirement of a State or its political subdivisions. With respect to showerheads, faucets, water closets, and urinals, such term shall also mean a law, regulation, or other requirement of a river basin commission that has jurisdiction within a State.
 
-&emsp;(B) The term “river basin commission” means—
+&emsp;(B) The term "river basin commission" means—
 
 &emsp;&emsp;(i) a commission established by interstate compact to apportion, store, regulate, or otherwise manage or coordinate the management of the waters of a river basin; and
 
@@ -24,7 +24,7 @@ Effective on March 17, 1987, and ending on the effective date of an energy conse
 
 &emsp;(1)(A) was prescribed or enacted before January 8, 1987, and is applicable to products before January 3, 1988, or in the case of any portion of any regulation which establishes requirements for fluorescent lamp ballasts, was prescribed or enacted before June 28, 1988, or in the case of any portion of any regulation which establishes requirements for fluorescent or incandescent lamps, flow rate requirements for showerheads or faucets, or water use requirements for water closets or urinals, was prescribed or enacted before October 24, 1992; or
 
-&emsp;(B) in the case of any portion of any regulation that establishes requirements for general service incandescent lamps, intermediate base incandescent lamps, or candelabra base lamps, was enacted or adopted by the State of California or Nevada before December 4, 2007, except that—
+&emsp;(B) in the case of any portion of any regulation that establishes requirements for generalservice incandescent lamps, intermediate base incandescent lamps, or candelabra base lamps, was enacted or adopted by the State of California or Nevada before December 4, 2007, except that—
 
 &emsp;&emsp;(i) the regulation adopted by the California Energy Commission with an effective date of January 1, 2008, shall only be effective until the effective date of the Federal standard for the applicable lamp category under subparagraphs (A), (B), and (C) of section 6295(i)(1) of this title; and
 
@@ -64,7 +64,7 @@ Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B)
 
 &emsp;(8)(A) is a regulation concerning standards for pedestrian modules adopted by the California Energy Commission before January 1, 2005; or
 
-&emsp;(B) is an amendment to a regulation described in subparagraph (A) that was developed to align California regulations to changes in the Institute for Transportation Engineers standards, entitled “Performance Specification: Pedestrian Traffic Control Signal Indications”; and
+&emsp;(B) is an amendment to a regulation described in subparagraph (A) that was developed to align California regulations to changes in the Institute for Transportation Engineers standards, entitled "Performance Specification: Pedestrian Traffic Control Signal Indications"; and
 
 &emsp;(9) is a regulation concerning metal halide lamp fixtures adopted by the California Energy Commission on or before January 1, 2011, except that—
 
@@ -80,7 +80,7 @@ Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B)
 
 (B) Subject to paragraphs (2) through (5), the Secretary shall, within the period described in paragraph (2) and after consideration of the petition and the comments of interested persons, prescribe such rule if the Secretary finds (and publishes such finding) that the State or river basin commission has established by a preponderance of the evidence that such State regulation is needed to meet unusual and compelling State or local energy or water interests.
 
-(C) For purposes of this subsection, the term “unusual and compelling State or local energy or water interests” means interests which—
+(C) For purposes of this subsection, the term "unusual and compelling State or local energy or water interests" means interests which—
 
 &emsp;(i) are substantially different in nature or magnitude than those prevailing in the United States generally; and
 
@@ -88,7 +88,7 @@ Except as provided in section 6295(b)(3)(A)(ii) of this title, subparagraphs (B)
 
 > The factors described in clause (ii) shall be evaluated within the context of the State's energy plan and forecast, and, with respect to a State regulation for which a petition has been submitted to the Secretary which provides for any energy conservation standard or requirement with respect to water use of a covered product, within the context of the water supply and groundwater management plan, water quality program, and comprehensive plan (if any) of the State or river basin commission for improving, developing, or conserving a waterway affected by water supply development.
 
-(2) The Secretary shall give notice of any petition filed under paragraph (1)(A) and afford interested persons a reasonable opportunity to make written comments, including rebuttal comments, thereon. The Secretary shall, withinthe 6-month period beginning on the date on which any such petition is filed, deny such petition or prescribe the requested rule, except that the Secretary may publish a notice in the Federal Register extending such period to a date certain but no longer than one year after the date on which the petition was filed. Such notice shall include the reasons for delay. In the case of any denial of a petition under this subsection, the Secretary shall publish in the Federal Register notice of, and the reasons for, such denial.
+(2) The Secretary shall give notice of any petition filed under paragraph (1)(A) and afford interested persons a reasonable opportunity to make written comments, including rebuttal comments, thereon. The Secretary shall, within the 6-month period beginning on the date on which any such petition is filed, deny such petition or prescribe the requested rule, except that the Secretary may publish a notice in the Federal Register extending such period to a date certain but no longer than one year after the date on which the petition was filed. Such notice shall include the reasons for delay. In the case of any denial of a petition under this subsection, the Secretary shall publish in the Federal Register notice of, and the reasons for, such denial.
 
 (3) The Secretary may not prescribe a rule under this subsection if the Secretary finds (and publishes such finding) that interested persons have established, by a preponderance of the evidence, that such State regulation will significantly burden manufacturing, marketing, distribution, sale, or servicing of the covered product on a national basis. In determining whether to make such finding, the Secretary shall evaluate all relevant factors, including—
 
@@ -162,11 +162,11 @@ Any State regulation which sets forth procurement standards for a State (or poli
 
 Any disclosure with respect to energy use, energy efficiency, or estimated annual operating cost which is required to be made under the provisions of this part shall not create an express or implied warranty under State or Federal law that such energy efficiency will be achieved or that such energy use or estimated annual operating cost will not be exceeded under conditions of actual use.
 
-(Pub. L. 94–163, title III, §327, Dec. 22, 1975, 89 Stat. 926; Pub. L. 95–619, title IV, §424, Nov. 9, 1978, 92 Stat. 3263; Pub. L. 100–12, §7, Mar. 17, 1987, 101 Stat. 117; Pub. L. 100–357, §2(f), June 28, 1988, 102 Stat. 674; Pub. L. 102–486, title I, §123(h),Oct. 24, 1992, 106 Stat. 2829; Pub. L. 109–58, title I, §135(d), Aug. 8, 2005, 119 Stat. 634; Pub. L. 110–140, title III, §§321(d), 324(f), Dec. 19, 2007, 121 Stat. 1585, 1594; Pub. L. 112–210, §10(a)(9), Dec. 18, 2012, 126 Stat. 1524.)
+(Pub. L. 94–163, title III, §327, Dec. 22, 1975, 89 Stat. 926; Pub. L. 95–619, title IV, §424, Nov. 9, 1978, 92 Stat. 3263; Pub. L. 100–12, §7, Mar. 17, 1987, 101 Stat. 117; Pub. L. 100–357, §2(f), June 28, 1988, 102 Stat. 674; Pub. L. 102–486, title I, §123(h), Oct. 24, 1992, 106 Stat. 2829; Pub. L. 109–58, title I, §135(d), Aug. 8, 2005, 119 Stat. 634; Pub. L. 110–140, title III, §§321(d), 324(f), Dec. 19, 2007, 121 Stat. 1585, 1594; Pub. L. 112–210, §10(a)(9), Dec. 18, 2012, 126 Stat. 1524.)
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(1)(B). Pub. L. 112–210 inserted “and” after the semicolon in cl. (i), substituted a period for “; and” in cl. (ii), and struck out cl. (iii) which read as follows: “all other States may, at any time, modify or adopt a State standard for general service lamps to conform with Federal standards and effective dates.”
+<b>2012</b>—Subsec. (b)(1)(B). Pub. L. 112–210 inserted "and" after the semicolon in cl. (i), substituted a period for "; and" in cl. (ii), and struck out cl. (iii) which read as follows: "all other States may, at any time, modify or adopt a State standard for general service lamps to conform with Federal standards and effective dates."
 
 <b>2007</b>—Subsec. (b)(1). Pub. L. 110–140, §321(d), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -174,45 +174,45 @@ Subsec. (c)(9). Pub. L. 110–140, §324(f), added par. (9).
 
 <b>2005</b>—Subsec. (c)(7), (8). Pub. L. 109–58 added pars. (7) and (8).
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, §123(h)(1)(A)–(C), in introductory provisions inserted “or water use” after “energy consumption”, in par. (A) inserted “, water use,” after “energy consumption”, and in par. (B) substituted “, energy efficiency, or water use” for “or energy efficiency”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, §123(h)(1)(A)–(C), in introductory provisions inserted "or water use" after "energy consumption", in par. (A) inserted ", water use," after "energy consumption", and in par. (B) substituted ", energy efficiency, or water use" for "or energy efficiency".
 
-Subsec. (a)(2). Pub. L. 102–486, §123(h)(1)(D), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For purposes of this section, the term ‘State regulation’ means a law, regulation, or other requirement of a State or its political subdivisions.”
+Subsec. (a)(2). Pub. L. 102–486, §123(h)(1)(D), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "For purposes of this section, the term 'State regulation' means a law, regulation, or other requirement of a State or its political subdivisions."
 
-Subsec. (b). Pub. L. 102–486, §123(h)(2)(A), substituted “, energy use, or water use of the covered product” for “or energy use of the covered product”.
+Subsec. (b). Pub. L. 102–486, §123(h)(2)(A), substituted ", energy use, or water use of the covered product" for "or energy use of the covered product".
 
-Subsec. (b)(1). Pub. L. 102–486, §123(h)(2)(B), inserted before semicolon at end “, or in the case of any portion of any regulation which establishes requirements for fluorescent or incandescent lamps, flow rate requirements for showerheads or faucets, or water use requirements for water closets or urinals, was prescribed or enacted before October 24, 1992”.
+Subsec. (b)(1). Pub. L. 102–486, §123(h)(2)(B), inserted before semicolon at end ", or in the case of any portion of any regulation which establishes requirements for fluorescent or incandescent lamps, flow rate requirements for showerheads or faucets, or water use requirements for water closets or urinals, was prescribed or enacted before October 24, 1992".
 
-Subsec. (b)(4). Pub. L. 102–486, §123(h)(2)(C), inserted before semicolon at end “, or is a regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those to which section 6295(i) of this title is applicable, or is a regulation (or portion thereof) regulating showerheads or faucets other than those to which section 6295(j) of this title is applicable or regulating lavatory faucets (other than metering faucets) for installation in public places, or is a regulation (or portion thereof) regulating water closets or urinals other than those to which section 6295(k) of this title is applicable”.
+Subsec. (b)(4). Pub. L. 102–486, §123(h)(2)(C), inserted before semicolon at end ", or is a regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those to which section 6295(i) of this title is applicable, or is a regulation (or portion thereof) regulating showerheads or faucets other than those to which section 6295(j) of this title is applicable or regulating lavatory faucets (other than metering faucets) for installation in public places, or is a regulation (or portion thereof) regulating water closets or urinals other than those to which section 6295(k) of this title is applicable".
 
 Subsec. (b)(7). Pub. L. 102–486, §123(h)(2)(D)–(F), added par. (7).
 
-Subsec. (c). Pub. L. 102–486, §123(h)(3)(A), inserted “, subparagraphs (B) and (C) of section 6295(j)(3) of this title, and subparagraphs (B) and (C) of section 6295(k)(3) of this title” after “section 6295(b)(3)(A)(ii) of this title” and substituted “, energy use, or water use” for “or energy use”.
+Subsec. (c). Pub. L. 102–486, §123(h)(3)(A), inserted ", subparagraphs (B) and (C) of section 6295(j)(3) of this title, and subparagraphs (B) and (C) of section 6295(k)(3) of this title" after "section 6295(b)(3)(A)(ii) of this title" and substituted ", energy use, or water use" for "or energy use".
 
-Subsec. (c)(1). Pub. L. 102–486, §123(h)(3)(B) inserted before semicolon at end “, except that a State regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those for which section 6295(i) of this title is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary and is applicable to such lamps”.
+Subsec. (c)(1). Pub. L. 102–486, §123(h)(3)(B) inserted before semicolon at end ", except that a State regulation (or portion thereof) regulating fluorescent or incandescent lamps other than those for which section 6295(i) of this title is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary and is applicable to such lamps".
 
 Subsec. (c)(4) to (6). Pub. L. 102–486, §123(h)(3)(C)–(E), added pars. (4) to (6).
 
-Subsec. (d)(1)(A). Pub. L. 102–486, §123(h)(4)(A), inserted “or river basin commission” after “Any State” and substituted “, energy efficiency, or water use” for “or energy efficiency”.
+Subsec. (d)(1)(A). Pub. L. 102–486, §123(h)(4)(A), inserted "or river basin commission" after "Any State" and substituted ", energy efficiency, or water use" for "or energy efficiency".
 
-Subsec. (d)(1)(B). Pub. L. 102–486, §123(h)(4)(B), substituted “State or river basin commission has” for “State has” and inserted “or water” after “energy”.
+Subsec. (d)(1)(B). Pub. L. 102–486, §123(h)(4)(B), substituted "State or river basin commission has" for "State has" and inserted "or water" after "energy".
 
-Subsec. (d)(1)(C). Pub. L. 102–486, §123(h)(4)(C), in introductory provisions and cl. (ii) inserted “or water” after “energy” wherever appearing and in closing provisions inserted before period at end “, and, with respect to a State regulation for which a petition has been submitted to the Secretary which provides for any energy conservation standard or requirement with respect to water use of a covered product, within the context of the water supply and groundwater management plan, water quality program, and comprehensive plan (if any) of the State or river basin commission for improving, developing, or conserving a waterway affected by water supply development”.
+Subsec. (d)(1)(C). Pub. L. 102–486, §123(h)(4)(C), in introductory provisions and cl. (ii) inserted "or water" after "energy" wherever appearing and in closing provisions inserted before period at end ", and, with respect to a State regulation for which a petition has been submitted to the Secretary which provides for any energy conservation standard or requirement with respect to water use of a covered product, within the context of the water supply and groundwater management plan, water quality program, and comprehensive plan (if any) of the State or river basin commission for improving, developing, or conserving a waterway affected by water supply development".
 
-Subsec. (d)(5)(B)(i). Pub. L. 102–486, §123(h)(5), added cl. (i) and struck out former cl. (i) which read as follows: “an energy emergency condition exists within the State which—
+Subsec. (d)(5)(B)(i). Pub. L. 102–486, §123(h)(5), added cl. (i) and struck out former cl. (i) which read as follows: "an energy emergency condition exists within the State which—
 
-&emsp;“(I) imperils the health, safety, and welfare of its residents because of the inability of the State or utilities within the State to provide adequate quantities of gas or electric energy to its residents at less than prohibitive costs; and
+&emsp;"(I) imperils the health, safety, and welfare of its residents because of the inability of the State or utilities within the State to provide adequate quantitiesof gas or electric energy to its residents at less than prohibitive costs; and
 
-&emsp;“(II) cannot be substantially alleviated by the importation of energy or the use of interconnection agreements; and”.
+&emsp;"(II) cannot be substantially alleviated by the importation of energy or the use of interconnection agreements; and".
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–357, §2(f)(1), inserted before semicolon “, or in the case of any portion of any regulation which establishes requirements for fluorescent lamp ballasts, was prescribed or enacted before June 28, 1988”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–357, §2(f)(1), inserted before semicolon ", or in the case of any portion of any regulation which establishes requirements for fluorescent lamp ballasts, was prescribed or enacted before June 28, 1988".
 
-Subsec. (b)(4). Pub. L. 100–357, §2(f)(2), inserted before semicolon “, or is a regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of section 6295(g) of this title is applicable”.
+Subsec. (b)(4). Pub. L. 100–357, §2(f)(2), inserted before semicolon ", or is a regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of section 6295(g) of this title is applicable".
 
-Subsec. (c)(1). Pub. L. 100–357, §2(f)(3), inserted before semicolon “, except that a State regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of section 6295(g) of this title is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary under paragraph (7) of such section and is applicable to such ballasts”.
+Subsec. (c)(1). Pub. L. 100–357, §2(f)(3), inserted before semicolon ", except that a State regulation (or portion thereof) regulating fluorescent lamp ballasts other than those to which paragraph (5) of section 6295(g) of this title is applicable shall be effective only until the effective date of a standard that is prescribed by the Secretary under paragraph (7) of such section and is applicable to such ballasts".
 
 <b>1987</b>—Pub. L. 100–12 amended section generally, revising and restating as subsecs. (a) to (g) provisions formerly contained in subsecs. (a) to (e).
 
-<b>1978</b>—Subsec. (a)(2). Pub. L. 95–619, §424(b), substituted “other requirement” for “similar requirement”.
+<b>1978</b>—Subsec. (a)(2). Pub. L. 95–619, §424(b), substituted "other requirement" for "similar requirement".
 
 Subsec. (b). Pub. L. 95–619, §424(a), in par. (1) substituted provisions vesting power to prescribe rules superseding State energy efficiency regulations in the Secretary for provisions vesting such power in the Administrator of the Federal Energy Administration and provided that persons subject to such State regulations were to petition the Secretary for relief therefrom rather than the Administrator, in par. (2) inserted provisions authorizing the supersedure of any State regulation prescribed after Jan. 1, 1978 respecting energy use of any type of covered product and authorizing the filing of a petition by the State for exemption from any such supersedure, and struck out provision that a State regulation containing a more stringent energy efficiency standard than the corresponding Federal standard would not be superseded, and added pars. (3) to (5).
 

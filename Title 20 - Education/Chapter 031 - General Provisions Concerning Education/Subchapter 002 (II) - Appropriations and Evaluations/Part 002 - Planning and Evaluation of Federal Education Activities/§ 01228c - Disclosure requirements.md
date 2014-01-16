@@ -72,7 +72,7 @@ The Secretary shall—
 
 &emsp;(1)(A) widely disseminate information about the requirements of this section to State and local school officials and parents; and
 
-&emsp;(B) require educational organizations to submit appropriate information or assurances regarding such organizations’ compliance with this section; and
+&emsp;(B) require educational organizations to submit appropriate information or assurances regarding such organizations' compliance with this section; and
 
 &emsp;(2) take whatever other steps the Secretary determines are appropriate to enforce this section, including—
 
@@ -92,15 +92,15 @@ As used in this section:
 
 #### (1) Disability
 
-&emsp;The term “disability” has the same meaning given to such term by section 12102(2) of title 42.
+&emsp;The term "disability" has the same meaning given to such term by section 12102(2) of title 42.
 
 #### (2) Educational organization
 
-&emsp;(A) Except as provided in subparagraphs (B) and (C), the term “educational organization” means any organization or entity that—
+&emsp;(A) Except as provided in subparagraphs (B) and (C), the term "educational organization" means any organization or entity that—
 
 &emsp;&emsp;(i) provides an educational program for a fee; and
 
-&emsp;&emsp;(ii) recruits students through means such as commercial media, direct mailings,school recruitment programs, school administrators, teachers or staff, or current or former participants in an educational program offered by such organization or entity.
+&emsp;&emsp;(ii) recruits students through means such as commercial media, direct mailings, school recruitment programs, school administrators, teachers or staff, or current or former participants in an educational program offered by such organization or entity.
 
 &emsp;(B) The definition in subparagraph (A) shall not include—
 
@@ -118,7 +118,7 @@ As used in this section:
 
 #### (3) Educational program
 
-&emsp;(A) Except as provided in subparagraph (B), the term “educational program” means a special honors program, seminar, citizenship experience, government study program, educational vacation, student exchange program, or other educational experience or honor—
+&emsp;(A) Except as provided in subparagraph (B), the term "educational program" means a special honors program, seminar, citizenship experience, government study program, educational vacation, student exchange program, or other educational experience or honor—
 
 &emsp;&emsp;(i) that is generally directed toward minors or secondary school students;
 
@@ -134,23 +134,23 @@ As used in this section:
 
 #### (4) Local school official
 
-&emsp;The term “local school official” means the highest administrative official serving a school district, or such individual's designee.
+&emsp;The term "local school official" means the highest administrative official serving a school district, or such individual's designee.
 
 #### (5) Minor
 
-&emsp;The term “minor” means an individual who has not attained the age of 18 years.
+&emsp;The term "minor" means an individual who has not attained the age of 18 years.
 
 #### (6) Membership organization
 
-&emsp;The term “membership organization” includes any organization that maintains a membership list or collects dues or membership fees from its members.
+&emsp;The term "membership organization" includes any organization that maintains a membership list or collects dues or membership fees from its members.
 
 #### (7) Recreational organization
 
-&emsp;The term “recreational organization” includes any organization or entity that has as its primary function pleasure, amusement, or sports activities.
+&emsp;The term "recreational organization" includes any organization or entity that has as its primary function pleasure, amusement, or sports activities.
 
 #### (8) Recreational program
 
-&emsp;The term “recreational program” includes any activity or service that is intended as an entertainment pastime.
+&emsp;The term "recreational program" includes any activity or service that is intended as an entertainment pastime.
 
 (Pub. L. 90–247, title IV, §429, as added Pub. L. 103–382, title II, §238, Oct. 20, 1994, 108 Stat. 3918; amended Pub. L. 105–244, title I, §102(a)(6)(C), Oct. 7, 1998, 112 Stat. 1618.)
 
@@ -164,7 +164,7 @@ A prior section 429 of Pub. L. 90–247 was classified to section 1231f of this 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (d)(2)(B)(ii). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+<b>1998</b>—Subsec. (d)(2)(B)(ii). Pub. L. 105–244 substituted "section 1001" for "section 1141(a)".
 
 #### Effective Date of 1998 Amendment
 

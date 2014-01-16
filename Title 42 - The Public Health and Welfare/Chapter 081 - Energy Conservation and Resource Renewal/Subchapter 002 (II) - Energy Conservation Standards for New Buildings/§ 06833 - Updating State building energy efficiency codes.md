@@ -2,7 +2,7 @@
 
 #### (a) Consideration and determination respecting residential building energy codes
 
-(1) Not later than 2 years after October 24, 1992, each State shall certify to the Secretary that it has reviewed the provisions of its residential building code regarding energy efficiency and made a determination as to whether it is appropriate for such State to revise such residential building code provisions to meet or exceed CABO Model Energy Code, 1992.
+(1) Not later than 2 years after October 24, 1992, each State shall certify to the Secretarythat it has reviewed the provisions of its residential building code regarding energy efficiency and made a determination as to whether it is appropriate for such State to revise such residential building code provisions to meet or exceed CABO Model Energy Code, 1992.
 
 (2) The determination referred to in paragraph (1) shall be—
 
@@ -30,7 +30,7 @@
 
 (2)(A) Whenever the provisions of ASHRAE Standard 90.1–1989 (or any successor standard) regarding energy efficiency in commercial buildings are revised, the Secretary shall, not later than 12 months after the date of such revision, determine whether such revision will improve energy efficiency in commercial buildings. The Secretary shall publish a notice of such determination in the Federal Register.
 
-(B)(i) If the Secretary makes an affirmative determination under subparagraph (A), eachState shall, not later than 2 years after the date of the publication of such determination, certify that it has reviewed and updated the provisions of its commercial building code regarding energy efficiency in accordance with the revised standard for which such determination was made. Such certification shall include a demonstration that the provisions of such State's commercial building code regarding energy efficiency meet or exceed such revised standard.
+(B)(i) If the Secretary makes an affirmative determination under subparagraph (A), each State shall, not later than 2 years after the date of the publication of such determination, certify that it has reviewed and updated the provisions of its commercial building code regarding energy efficiency in accordance with the revised standard for which such determination was made. Such certification shall include a demonstration that the provisions of such State's commercial building code regarding energy efficiency meet or exceed such revised standard.
 
 (ii) If the Secretary makes a determination under subparagraph (A) that such revised standard will not improve energy efficiency in commercial buildings, State commercial building code provisions regarding energy efficiency shall meet or exceed ASHRAE Standard 90.1–1989, or if such standard has been revised, the last revised standard for which the Secretary has made an affirmative determination under subparagraph (A).
 
@@ -52,7 +52,7 @@ The Secretary shall provide technical assistance to States to implement the requ
 
 &emsp;&emsp;(i) a residential building energy efficiency code that meets or exceeds the requirements of the 2004 International Energy Conservation Code, or any succeeding version of that code that has received an affirmative determination from the Secretary under subsection (a)(5)(A) of this section; and
 
-&emsp;&emsp;(ii) a commercial building energy efficiency code that meets or exceeds the requirements of the ASHRAE Standard 90.1–2004, or any succeeding version of that standard that has received an affirmative determination from the Secretary under subsection (b)(2)(A) of this section; or
+&emsp;&emsp;(ii) a commercial building energy efficiency code that meets or exceeds the requirements of the ASHRAE Standard90.1–2004, or any succeeding version of that standard that has received an affirmative determination from the Secretary under subsection (b)(2)(A) of this section; or
 
 &emsp;(B) in a State in which there is no statewide energy code either for residential buildings or for commercial buildings, to a local government that has adopted and is implementing residential and commercial building energy efficiency codes, as described in subparagraph (A).
 
@@ -74,9 +74,9 @@ A prior section 6833, Pub. L. 94–385, title III, §304, Aug. 14, 1976, 90 Stat
 
 #### Amendments
 
-<b>2005</b>—Subsec. (e)(1). Pub. L. 109–58, §128(1), inserted “, including increasing and verifying compliance with such codes” before period at end of first sentence.
+<b>2005</b>—Subsec. (e)(1). Pub. L. 109–58, §128(1), inserted ", including increasing and verifying compliance with such codes" before period at end of first sentence.
 
-Subsec. (e)(2) to (4). Pub. L. 109–58, §128(2), added pars. (2) to (4) and struck out former par. (2) which read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out this subsection.”
+Subsec. (e)(2) to (4). Pub. L. 109–58, §128(2), added pars. (2) to (4) and struck out former par. (2) which read as follows: "There are authorized to be appropriated such sums as may be necessary to carry out this subsection."
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

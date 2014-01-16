@@ -34,27 +34,27 @@ Special Rule for Defense Commissary Agency.—Notwithstanding the results of any
 
 Special Rule for Defense Business Transformation Agency.—(1) The Defense Business Transformation Agency shall be supervised by the vice chairman of the Defense Business System Management Committee.
 
-(2) Notwithstanding the results of any periodic review under subsection (c) with regard to the Defense Business Transformation Agency, the Secretary of Defense shall designate that the Director of the Agency shall report directly to the Deputy Chief Management Officer of the Department of Defense.
+(2) Notwithstanding the results of any periodic review under subsection (c) with regard to theDefense Business Transformation Agency, the Secretary of Defense shall designate that the Director of the Agency shall report directly to the Deputy Chief Management Officer of the Department of Defense.
 
 (Added Pub. L. 99–433, title III, §301(a)(2), Oct. 1, 1986, 100 Stat. 1020; amended Pub. L. 105–261, div. A, title III, §361(a), Oct. 17, 1998, 112 Stat. 1984; Pub. L. 106–65, div. A, title X, §1066(a)(3), Oct. 5, 1999, 113 Stat. 770; Pub. L. 109–163, div. A, title III, §371, Jan. 6, 2006, 119 Stat. 3209; Pub. L. 110–181, div. A, title IX, §§904(c), 931(a)(1), Jan. 28, 2008, 122 Stat. 274, 285.)
 
 #### Prior Provisions
 
-A prior section 192, Pub. L. 98–215, title V, §501(a), Dec. 9, 1983, 97 Stat. 1478, which related to benefits for certain personnel of the Defense Intelligence Agency, was redesignated as section 1605 of this title and amended by Pub. L. 99–145, title XIII, §1302(a)(1), Nov. 8, 1985, 99 Stat. 737. Provisions of prior section 192 as related to members of the armed forces were enacted as section 431 (now 492) of Title 37, Pay and Allowances of the Uniformed Services, by section 1302(b)(1) of Pub. L. 99–145.
+A prior section 192, Pub. L. 98–215, title V, §501(a), Dec. 9, 1983, 97 Stat. 1478, which related to benefits for certain personnel of the Defense Intelligence Agency, was redesignated as section 1605 of this title and amended by Pub. L. 99–145, title XIII, §1302(a)(1), Nov. 8, 1985, 99 Stat. 737. Provisions of prior section 192 as related to members of the armed forces were enacted as section 431 (now 491) of Title 37, Pay and Allowances of the Uniformed Services, by section 1302(b)(1) of Pub. L. 99–145.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(2). Pub. L. 110–181, §931(a)(1), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2008</b>—Subsec. (c)(2). Pub. L. 110–181, §931(a)(1), substituted "Director of National Intelligence" for "Director of Central Intelligence".
 
-Subsec. (e)(2). Pub. L. 110–181, §904(c), substituted “that the Director of the Agency shall report directly to the Deputy Chief Management Officer of the Department of Defense.” for “that the Agency be managed cooperatively by the Deputy Under Secretary of Defense for Business Transformation and the Deputy Under Secretary of Defense for Financial Management.”
+Subsec. (e)(2). Pub. L. 110–181, §904(c), substituted "that the Director of the Agency shall report directly to the Deputy Chief Management Officer of the Department of Defense." for "that the Agency be managed cooperatively by the Deputy Under Secretary of Defense for Business Transformation and the Deputy Under Secretary of Defense for Financial Management."
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–163 added subsec. (e).
 
-<b>1999</b>—Subsec. (d). Pub. L. 106–65 substituted “October 17, 1998” for “the date of the enactment of this subsection”.
+<b>1999</b>—Subsec. (d). Pub. L. 106–65 substituted "October 17, 1998" for "the date of the enactment of this subsection".
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–261 added subsec. (d).
 
 #### First Review of Defense Agencies by Secretary of Defense
 
-Pub. L. 99–433, title III, §304(a), Oct. 1, 1986, 100 Stat. 1024, required the first review under subsec. (c) of this section to be completed not later than two years afterthe date that the report under Pub. L. 99–433, §303(e), formerly set out as a note under section 191 of this title, was required to be submitted to Congress (Oct. 1, 1987).
+Pub. L. 99–433, title III, §304(a), Oct. 1, 1986, 100 Stat. 1024, required the first review under subsec. (c) of this section to be completed not later than two years after the date that the report under Pub. L. 99–433, §303(e), formerly set out as a note under section 191 of this title, was required to be submitted to Congress (Oct. 1, 1987).
 

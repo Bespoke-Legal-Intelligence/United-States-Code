@@ -32,9 +32,9 @@ Historical and Revision Notes
 
 10:1185 (1st 22, and last 19, words of last par.).
 
-Apr. 27, 1914, ch. 72 (last proviso and last par. under “Manufacture of Arms”), 38 Stat. 370.
+Apr. 27, 1914, ch. 72 (last proviso and last par. under "Manufacture of Arms"), 38 Stat. 370.
 
-In subsection (a), the words “and carrying on military training” and “the maintenance of” are omitted as surplusage. In clause (2), the words “suitable to said arm” are omitted as surplusage.
+In subsection (a), the words "and carrying on military training" and "the maintenance of" are omitted as surplusage. In clause (2), the words "suitable to said arm" are omitted as surplusage.
 
-In subsection (b), the words “shall use it for target practice” are substituted for the words “insuring the designed use of the property issued”. The words “take proper care of it” are substituted for the words “providing against loss to the United States through lack of proper care”.
+In subsection (b), the words "shall use it for target practice" are substituted for the words "insuring the designed use of the property issued". The words "take proper care of it" are substituted for the words "providing against loss to the United States through lack of proper care".
 

@@ -2,7 +2,7 @@
 
 As used in this subchapter:
 
-&emsp;(1) “Affiliate” means—
+&emsp;(1) "Affiliate" means—
 
 &emsp;&emsp;(A) a person who directly or indirectly owns, controls, or holds with power to vote, 20 percent or more of the outstanding voting securities of the debtor, other than a person who holds the securities—
 
@@ -20,7 +20,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(D) a person who operates the debtor's business under a lease or other agreement or controls substantially all of the debtor's assets.
 
-&emsp;(2) “Asset” means property of a debtor, but does not include—
+&emsp;(2) "Asset" means property of a debtor, but does not include—
 
 &emsp;&emsp;(A) property to the extent it is encumbered by a valid lien;
 
@@ -28,11 +28,11 @@ As used in this subchapter:
 
 &emsp;&emsp;(C) an interest in real property held in tenancy by the entirety, or as part of a community estate, to extent such interest is not subject to process by the United States holding a claim against only one tenant or co-owner.
 
-&emsp;(3) “Claim” means a right to payment, whether or not the right is reduced to judgment, liquidated, unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed, legal, equitable, secured, or unsecured.
+&emsp;(3) "Claim" means a right to payment, whether or not the right is reduced to judgment, liquidated, unliquidated, fixed, contingent, matured, unmatured, disputed, undisputed, legal, equitable, secured, or unsecured.
 
-&emsp;(4) “Creditor” means a person who has a claim.
+&emsp;(4) "Creditor" means a person who has a claim.
 
-&emsp;(5) “Insider” includes—
+&emsp;(5) "Insider" includes—
 
 &emsp;&emsp;(A) if the debtor is an individual—
 
@@ -74,23 +74,23 @@ As used in this subchapter:
 
 &emsp;&emsp;(E) a managing agent of the debtor.
 
-&emsp;(4) <sup>2</sup> “Lien” means a charge against or an interest in property to secure payment of a debt and includes a security interest created by agreement, a judicial lien obtained by legal or equitable process or proceedings, a common law lien, or a statutory lien.
+&emsp;(4) <sup>2</sup> "Lien" means a charge against or an interest in property to secure payment of a debt and includes a security interest created by agreement, a judicial lien obtained by legal or equitable process or proceedings, a common law lien, or a statutory lien.
 
-&emsp;(5) <sup>3</sup> “Relative” means an individual related, by consanguinity or adoption, within the third degree as determined by the common law, a spouse, or an individual so related to a spouse within the third degree as so determined.
+&emsp;(5) <sup>3</sup> "Relative" means an individual related, by consanguinity or adoption, within the third degree as determined by the common law, a spouse, or an individual so related to a spouse within the third degree as so determined.
 
-&emsp;(6) <sup>4</sup> “Transfer” means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with an asset or an interest in an asset, and includes payment of money, release, lease, and creation of a lien or other encumbrance.
+&emsp;(6) <sup>4</sup> "Transfer" means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with an asset or an interest in an asset, and includes payment of money, release, lease, and creation of a lien or other encumbrance.
 
-&emsp;(7) <sup>5</sup> “Valid lien” means a lien that is effective against the holder of a judicial lien subsequently obtained in legal or equitable proceeding.
+&emsp;(7) <sup>5</sup> "Valid lien" means a lien that is effective against the holder of a judicial lien subsequently obtained in legal or equitable proceeding.
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4959.)
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “(6)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "(6)".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “(7)”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "(7)".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “(8)”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "(8)".</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be “(9)”.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be "(9)".</i>
 

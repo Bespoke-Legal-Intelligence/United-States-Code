@@ -24,21 +24,21 @@ Historical and Revision Notes
 
 June 4, 1920, ch. 228 (5th par., 1st 123 words, and 169th through 193d words, of amended 3d and 4th provisos), 41 Stat. 813; June 30, 1938, ch. 851, §1, 52 Stat. 1252; June 17, 1944, ch. 262, 58 Stat. 282.
 
-The words “Whenever the Secretary of the Navy is unable” are substituted for the words “In the event of the inability of the Secretary of the Navy” for brevity.
+The words "Whenever the Secretary of the Navy is unable" are substituted for the words "In the event of the inability of the Secretary of the Navy" for brevity.
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted “for exchanges of land or agreements for conservation authorized by section 7424 of this title, the Secretary may acquire” for “for—
+<b>2000</b>—Subsec. (a). Pub. L. 106–398 substituted "for exchanges of land or agreements for conservation authorized by section 7424 of this title, the Secretary may acquire" for "for—
 
-&emsp;“(1) exchanges of land or agreements for conservation authorized by section 7424 of this title; or
+&emsp;"(1) exchanges of land or agreements for conservation authorized by section 7424 of this title; or
 
-&emsp;“(2) contracts for joint, unit, or other cooperative plans with respect to lands or leases authorized by section 7426 of this title;
+&emsp;"(2) contracts for joint, unit, or other cooperative plans with respect to lands or leases authorized by section 7426 of this title;
 
-> he may acquire”.
+> he may acquire".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “Naval Petroleum Reserve Numbered 1” for “naval petroleum reserve numbered 1”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "Naval Petroleum Reserve Numbered 1" for "naval petroleum reserve numbered 1".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–258 struck out “of the Navy” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–258 struck out "of the Navy" after "Secretary".
 
 #### Effective Date of 1980 Amendment
 

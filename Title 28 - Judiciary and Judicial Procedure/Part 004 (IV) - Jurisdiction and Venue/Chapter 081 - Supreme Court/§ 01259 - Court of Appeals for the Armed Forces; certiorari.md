@@ -14,9 +14,9 @@ Decisions of the United States Court of Appeals for the Armed Forces may be revi
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–337 substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in section catchline and wherever appearing in text.
+<b>1994</b>—Pub. L. 103–337 substituted "Court of Appeals for the Armed Forces" for "Court of Military Appeals" in section catchline and wherever appearing in text.
 
-<b>1989</b>—Pub. L. 101–189 substituted “section 867(a)(1)” for “section 867(b)(1)” in par. (1), “section 867(a)(2)” for “section 867(b)(2)” in par. (2), and “section 867(a)(3)” for “section 867(b)(3)” in par. (3).
+<b>1989</b>—Pub. L. 101–189 substituted "section 867(a)(1)" for "section 867(b)(1)" in par. (1), "section 867(a)(2)" for "section 867(b)(2)" in par. (2), and "section 867(a)(3)" for "section 867(b)(3)" in par. (3).
 
 #### Effective Date
 

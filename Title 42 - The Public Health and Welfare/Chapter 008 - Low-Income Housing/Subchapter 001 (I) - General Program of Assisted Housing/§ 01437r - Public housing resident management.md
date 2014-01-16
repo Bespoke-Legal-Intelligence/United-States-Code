@@ -8,7 +8,7 @@ The purpose of this section is to encourage increased resident management of pub
 
 &emsp;(2) providing funding, from amounts otherwise available, for technical assistance to promote formation and development of resident management entities.
 
-> For purposes of this section, the term “public housing project” includes one or more contiguous buildings or an area of contiguous row houses the elected resident councils of which approve the establishment of a resident management corporation and otherwise meet the requirements of this section.
+> For purposes of this section, the term "public housing project" includes one or more contiguous buildings or an area of contiguous row houses the elected resident councils of which approve the establishment of a resident management corporation and otherwise meet the requirements of this section.
 
 #### (b) Program requirements
 
@@ -26,7 +26,7 @@ The purpose of this section is to encourage increased resident management of pub
 
 #### (4) Management responsibilities
 
-&emsp;A resident management corporation that qualifies under this section, and that supplies insurance and bonding or equivalent protection sufficient to the Secretary and the public housing agency, shall enter into a contract with the public housing agency establishing the respective management rights and responsibilities of the corporation and the public housing agency. Such contract shall be consistent with the requirements of this chapter applicable to public housing projects and may include specific terms governing management personnel and compensation, access to public housing project records, submission of and adherence to budgets, rent collection procedures, tenant income verification, tenant eligibility determinations, tenant eviction, the acquisition of supplies and materials, rent determination, community service requirements,,<sup>1</sup> and such other matters as may be appropriate. The contract shall be treated as a contracting out of services and shall be subject to any provision of a collective bargaining agreement regarding contracting out to which the public housing agency is subject.
+&emsp;A resident management corporation that qualifies under this section, and that supplies insurance and bonding or equivalent protection sufficient to the Secretary and the public housing agency, shall enter into a contract with the public housing agency establishing the respective management rights and responsibilities of the corporation and the public housing agency. Such contract shall be consistent with the requirements of this chapter applicable to public housing projects and may include specific terms governing management personnel and compensation, access to public housing project records, submission of and adherence to budgets, rent collection procedures,tenant income verification, tenant eligibility determinations, tenant eviction, the acquisition of supplies and materials, rent determination, community service requirements,,<sup>1</sup> and such other matters as may be appropriate. The contract shall be treated as a contracting out of services and shall be subject to any provision of a collective bargaining agreement regarding contracting out to which the public housing agency is subject.
 
 #### (5) Annual audit
 
@@ -108,11 +108,11 @@ A prior section 1437r, act Sept. 1, 1937, ch. 896, §20, as added Nov. 6, 1986, 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(4). Pub. L. 105–276, §532(a)(1), inserted “, rent determination, community service requirements,” after “materials”.
+<b>1998</b>—Subsec. (b)(4). Pub. L. 105–276, §532(a)(1), inserted ", rent determination, community service requirements," after "materials".
 
-Subsec. (c). Pub. L. 105–276, §532(a)(2), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Public housing projects managed by resident management corporations may be provided with comprehensive improvement assistance under section 1437l of this title for purposes of renovating such projects in accordance with such section. If such renovation activities (including the planning and architectural design of the rehabilitation) are administered by a resident management corporation, the publichousing agency involved may not retain, for any administrative or other reason, any portion of the assistance provided pursuant to this subsection unless otherwise provided by contract.”
+Subsec. (c). Pub. L. 105–276, §532(a)(2), added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: "Public housing projects managed by resident management corporations may be provided with comprehensive improvement assistance under section 1437l of this title for purposes of renovating such projects in accordance with such section. If such renovation activities (including the planning and architectural design of the rehabilitation) are administered by a resident management corporation, the public housing agency involved may not retain, for any administrative or other reason, any portion of the assistance provided pursuant to this subsection unless otherwise provided by contract."
 
-Subsec. (d)(3), (4). Pub. L. 105–276, §532(a)(3), redesignated par. (4) as (3) and struck out heading and text of former par. (3). Text read as follows: “Not later than 6 months after February 5, 1988, the Secretary shall submit to the Congress a report setting forth any additional waivers of Federal law that the Secretary determines are necessary or appropriate to carry out the provisions of this section. In preparing the report, the Secretary shall consult with resident management corporations and public housing agencies.”
+Subsec. (d)(3), (4). Pub. L. 105–276, §532(a)(3), redesignated par. (4) as (3) and struck out heading and text of former par. (3). Text read as follows: "Not later than 6 months after February 5, 1988, the Secretary shall submit to the Congress a report setting forth any additional waivers of Federal law that the Secretary determines are necessary or appropriate to carry out the provisions of this section. In preparing the report, the Secretary shall consult with resident management corporations and public housing agencies."
 
 Subsec. (e)(1) to (3). Pub. L. 105–276, §532(a)(4)(B), added subsec. heading and pars. (1) to (3) and struck out former subsec. heading and former pars. (1) to (3), which in par. (1), specified amount of operating subsidy to be allocated to a public housing project managed by a resident management corporation; in par. (2), set forth requirements for any contract for management of a project entered into by a public housing agency and a resident management corporation; and in par. (3), prohibited reduction of funds provided by an agency to a project during 3-year period beginning on date on which resident management corporation is first established for the project, and provided for proportional reduction or increase if total income of agency is reduced or increased.
 
@@ -120,23 +120,23 @@ Subsec. (e)(4), (5). Pub. L. 105–276, §532(a)(4)(B), added pars. (4) and (5).
 
 Subsec. (e)(6). Pub. L. 105–276, §532(a)(4)(A), redesignated par. (4) as (6).
 
-Subsec. (e)(6)(A)(i). Pub. L. 105–276, §532(a)(4)(C), substituted “the allocations from the Operating Fund for” for “the operating subsidies provided to”.
+Subsec. (e)(6)(A)(i). Pub. L. 105–276, §532(a)(4)(C), substituted "the allocations from the Operating Fund for" for "the operating subsidies provided to".
 
 Subsec. (f). Pub. L. 105–276, §532(a)(5), struck out heading and text of subsec. (f) which required Secretary to provide financial assistance to resident management corporations or resident councils that obtain technical assistance for the development of resident management entities, limited assistance to $100,000 with respect to any public housing project, authorized appropriations for fiscal years 1993 and 1994, and limited assistance to corporations or councils where assistance was provided under subchapter II–A of this chapter.
 
-Subsec. (g). Pub. L. 105–276, §532(a)(5), struck out heading and text of subsec. (g). Text read as follows: “Not later than 3 years after February 5, 1988, the Secretary shall—
+Subsec. (g). Pub. L. 105–276, §532(a)(5), struck out heading and text of subsec. (g). Text read as follows: "Not later than 3 years after February 5, 1988, the Secretary shall—
 
-&emsp;“(1) conduct an evaluation and assessment of resident management, and particularly of the effect of resident management on living conditions in public housing; and
+&emsp;"(1) conduct an evaluation and assessment of resident management, and particularly of the effect of resident management on living conditions in public housing; and
 
-&emsp;“(2) submit to the Congress a report setting forth the findings of the Secretary as a result of the evaluation and assessment and including any recommendations the Secretary determines to be appropriate.”
+&emsp;"(2) submit to the Congress a report setting forth the findings of the Secretary as a result of the evaluation and assessment and including any recommendations the Secretary determines to be appropriate."
 
-<b>1992</b>—Subsec. (f)(3). Pub. L. 102–550 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “(3)
+<b>1992</b>—Subsec. (f)(3). Pub. L. 102–550 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "(3)
 
-Funding.—Of amounts made available for financial assistance under section 1437l of this title, the Secretary may use to carry out this subsection not more than $5,000,000 for each of fiscal years 1991 and 1992.”
+Funding.—Of amounts made available for financial assistance under section 1437l of this title, the Secretary may use to carry out this subsection not more than $5,000,000 for each of fiscal years 1991 and 1992."
 
-<b>1990</b>—Subsec. (e)(4)(B). Pub. L. 101–625, §572(1), substituted “low-income families” for “lower income families”.
+<b>1990</b>—Subsec. (e)(4)(B). Pub. L. 101–625, §572(1), substituted "low-income families" for "lower income families".
 
-Subsec. (f)(3). Pub. L. 101–625, §514, amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Of the amounts available for financial assistance under section 1437l of this title, the Secretary may use to carry out this subsection not more than $2,500,000 for fiscal year 1988 and not more than $2,500,000 for fiscal year 1989.”
+Subsec. (f)(3). Pub. L. 101–625, §514, amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Of the amounts available for financial assistance under section 1437l of this title, the Secretary may use to carry out this subsection not more than $2,500,000 for fiscal year 1988 and not more than $2,500,000 for fiscal year 1989."
 
 Subsec. (f)(4). Pub. L. 101–625, §415, added par. (4).
 

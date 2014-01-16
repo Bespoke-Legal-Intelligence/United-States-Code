@@ -2,7 +2,7 @@
 
 #### (a) Transfer authority for weapons activities funds
 
-The Secretary of Energy shall provide the manager of each field office of the Department of Energy with the authority to transfer weapons activities funds from a program or project under the jurisdiction of that office to another such program or project.
+The Secretary of Energy shall provide the manager of each field office of the Departmentof Energy with the authority to transfer weapons activities funds from a program or project under the jurisdiction of that office to another such program or project.
 
 #### (b) Limitations
 
@@ -36,23 +36,25 @@ The requirements of section 2742 of this title shall not apply to transfers of f
 
 #### (d) Notification
 
-The Secretary, acting through the Administrator for Nuclear Security, shall notify Congress of any transfer of funds pursuant to subsection (a) not later than 30 days after such transfer occurs.
+The Secretary, acting through the Administrator, shall notify Congress of any transfer of funds pursuant to subsection (a) not later than 30 days after such transfer occurs.
 
 #### (e) Definitions
 
 In this section:
 
-&emsp;(1) The term “program or project” means, with respect to a field office of the Department of Energy, a program or project that is for weapons activities necessary for national security programs of the Department, that is being carried out by that office, and for which weapons activities funds have been authorized and appropriated.
+&emsp;(1) The term "program or project" means, with respect to a field office of the Department of Energy, a program or project that is for weapons activities necessary for national security programs of the Department, that is being carried out by that office, and for which weapons activities funds have been authorized and appropriated.
 
-&emsp;(2) The term “weapons activities funds” means funds appropriated to the Department of Energy pursuant to an authorization for carrying out weapons activities necessary for national security programs.
+&emsp;(2) The term "weapons activities funds" means funds appropriated to the Department of Energy pursuant to an authorization for carrying out weapons activities necessary for national security programs.
 
-(Pub. L. 107–314, div. D, title XLVII, §4711, formerly div. C, title XXXVI, §3630, Dec. 2, 2002, 116 Stat. 2761; renumbered div. D, title XLVII, §4711, and amended Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), (D)(v), Nov. 24, 2003, 117 Stat. 1781.)
+(Pub. L. 107–314, div. D, title XLVII, §4711, formerly div. C, title XXXVI, §3630, Dec. 2, 2002, 116 Stat. 2761; renumbered div. D, title XLVII, §4711, and amended Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), (D)(v), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 113–66, div. C, title XXXI, §3146(h)(3), Dec. 26, 2013, 127 Stat. 1081.)
 
 #### Codification
 
 Section was formerly classified to section 7386j of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (d). Pub. L. 113–66 struck out "for Nuclear Security" after "Administrator".
 
 <b>2003</b>—Subsec. (c). Pub. L. 108–136, §3141(j)(2)(D)(v), made technical amendment to reference in original act which appears in text as reference to section 2742 of this title.
 

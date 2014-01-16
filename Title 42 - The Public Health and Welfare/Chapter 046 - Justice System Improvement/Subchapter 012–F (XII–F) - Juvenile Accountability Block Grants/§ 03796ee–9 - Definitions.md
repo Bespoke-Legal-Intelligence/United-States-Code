@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Unit of local government
 
-&emsp;The term “unit of local government” means—
+&emsp;The term "unit of local government" means—
 
 &emsp;&emsp;(A) a county, township, city, or political subdivision of a county, township, or city, that is a unit of local government as determined by the Secretary of Commerce for general statistical purposes;
 
@@ -18,23 +18,23 @@ In this subchapter:
 
 #### (2) Specially qualified unit
 
-&emsp;The term “specially qualified unit” means a unit of local government which may receive funds under this subchapter only in accordance with section 3796ee–3(e) of this title.
+&emsp;The term "specially qualified unit" means a unit of local government which may receive funds under this subchapter only in accordance with section 3796ee–3(e) of this title.
 
 #### (3) State
 
-&emsp;The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands, except that—
+&emsp;The term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands, except that—
 
-&emsp;&emsp;(A) the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands (the “partial States”) shall collectively be considered as 1 State; and
+&emsp;&emsp;(A) the Virgin Islands, American Samoa, Guam, and the Northern Mariana Islands (the "partial States") shall collectively be considered as 1 State; and
 
 &emsp;&emsp;(B) for purposes of section 3796ee–3(a) of this title, the amount allocated to a partial State shall bear the same proportion to the amount collectively allocated to the partial States as the population of the partial State bears to the collective population of the partial States.
 
 #### (4) Juvenile
 
-&emsp;The term “juvenile” means an individual who is 17 years of age or younger.
+&emsp;The term "juvenile" means an individual who is 17 years of age or younger.
 
 #### (5) Juvenile justice expenditures
 
-&emsp;The term “juvenile justice expenditures” means expenditures in connection with the juvenile justice system, including expenditures in connection with such system to carry out—
+&emsp;The term "juvenile justice expenditures" means expenditures in connection with the juvenile justice system, including expenditures in connection with such system to carry out—
 
 &emsp;&emsp;(A) activities specified in section 3796ee(b) of this title; and
 
@@ -42,7 +42,7 @@ In this subchapter:
 
 #### (6) Part 1 violent crimes
 
-&emsp;The term “part 1 violent crimes” means murder and nonnegligent manslaughter, forcible rape, robbery, and aggravated assault as reported to the Federal Bureau of Investigation for purposes of the Uniform Crime Reports.
+&emsp;The term "part 1 violent crimes" means murder and nonnegligent manslaughter, forcible rape, robbery, and aggravated assault as reported to the Federal Bureau of Investigation for purposes of the Uniform Crime Reports.
 
 (Pub. L. 90–351, title I, §1809, as added Pub. L. 107–273, div. C, title II, §12102(a), Nov. 2, 2002, 116 Stat. 1867.)
 

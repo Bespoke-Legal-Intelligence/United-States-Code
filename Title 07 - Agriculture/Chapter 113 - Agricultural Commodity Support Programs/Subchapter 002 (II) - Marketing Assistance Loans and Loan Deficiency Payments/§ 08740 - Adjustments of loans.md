@@ -46,7 +46,7 @@ The adjustments under subsection (a) shall, to the maximum extent practicable, b
 
 &emsp;&emsp;Revisions under subparagraph (A) may include—
 
-&emsp;&emsp;&emsp;(i) the use of non-spot market price data, in addition to spot market price data, that would enhance the accuracy of the priceinformation used in determining quality adjustments under this subsection;
+&emsp;&emsp;&emsp;(i) the use of non-spot market price data, in addition to spot market price data, that would enhance the accuracy of the price information used in determining quality adjustments under this subsection;
 
 &emsp;&emsp;&emsp;(ii) adjustments in the premiums or discounts associated with upland cotton with a staple length of 33 or above due to micronaire with the goal of eliminating any unnecessary artificial splits in the calculations of the premiums or discounts; and
 
@@ -78,7 +78,7 @@ The Secretary shall not make adjustments in the loan rates for long grain rice a
 
 #### References in Text
 
-This subtitle and subtitles B through E, referred to in subsec. (b), probably means subtitle B (§1201 et seq.) and subtitles C (§1301 et seq.), D (§1401 et seq.), and E (§1501 et seq.) of title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1681. Subtitles B and C are classified generally to this subchapter and subchapter III (§8751 et seq.), respectively, of this chapter. Subtitle D enacted sections 1359kk, 1359ll, and 7287 of this title, amended sections 1359aa to 1359gg, 1359ii, 7272, and 7971 of this title, repealed former section 1359kk of this title, and enacted provisions set out as notes under sections 3602 and 7272 of this title. Subtitle E enacted subchapter IV (§8771 et seq.) of this chapter and amended sections 450l, 608c, 1637b, 4502, 4504, and 4531 of this title and section 713a–14 of Title 15, Commerce and Trade. For complete classification of subtitles B to E to the Code, see Tables.
+This subtitle and subtitles B through E, referred to in subsec. (b), probably means subtitle B (§1201 et seq.) and subtitles C (§1301 et seq.), D (§1401 et seq.), and E\(§1501 et seq.) of title I of Pub. L. 110–246, June 18, 2008, 122 Stat. 1681. Subtitles B and C are classified generally to this subchapter and subchapter III (§8751 et seq.), respectively, of this chapter. Subtitle D enacted sections 1359kk, 1359ll, and 7287 of this title, amended sections 1359aa to 1359gg, 1359ii, 7272, and 7971 of this title, repealed former section 1359kk of this title, and enacted provisions set out as notes under sections 3602 and 7272 of this title. Subtitle E enacted subchapter IV (§8771 et seq.) of this chapter and amended sections 450l, 608c, 1637b, 4502, 4504, and 4531 of this title and section 713a–14 of Title 15, Commerce and Trade. For complete classification of subtitles B to E to the Code, see Tables.
 
 The date of enactment of this Act, referred to in subsec. (d)(2)(A), is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 

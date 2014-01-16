@@ -28,17 +28,17 @@ Regulations.—The exercise of authority under subsection (a) is subject to regu
 
 Members of the National Guard.—This section does not apply to members of the Army National Guard of the United States or the Air National Guard of the United States. The performance of funeral honors duty by those members is provided for in section 115 of title 32.
 
-(Added Pub. L. 106–65, div. A, title V, §578(g)(3), Oct. 5, 1999, 113 Stat. 628; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §575(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138; Pub. L. 107–107, div. A, title V, §562(a), Dec. 28, 2001, 115 Stat. 1119; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
+(Added Pub. L. 106–65, div. A, title V, §578(g)(3), Oct. 5, 1999, 113 Stat. 628; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §575(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138; Pub. L. 107–107,div. A, title V, §562(a), Dec. 28, 2001, 115 Stat. 1119; Pub. L. 112–81, div. A, title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
 #### Amendments
 
 <b>2013</b>—Subsecs. (a), (b)(2)(A). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
-<b>2011</b>—Subsecs. (a), (b)(2)(A). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “495” for “435”.
+<b>2011</b>—Subsecs. (a), (b)(2)(A). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "495" for "435".
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–107 inserted at end “Performance of funeral honors duty by a Reserve not on active duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 435 of title 37.”
+<b>2001</b>—Subsec. (a). Pub. L. 107–107 inserted at end "Performance of funeral honors duty by a Reserve not on active duty shall be treated as inactive-duty training (including with respect to travel to and from such duty) for purposes of any provision of law other than sections 206 and 435 of title 37."
 
-<b>2000</b>—Subsec. (b)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “if authorized by the Secretary concerned, the allowance under section 435 of title 37.”
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–398 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "if authorized by the Secretary concerned, the allowance under section 435 of title 37."
 
 #### Effective Date of 2013 Amendment
 
@@ -46,9 +46,9 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title V, §562(c), Dec. 28, 2001, 115 Stat. 1120, provided that: “The amendments made by this section \[amending this section and section 115 of Title 32, National Guard\] shall apply to funeral honors duty performed on or after October 30, 2000.”
+Pub. L. 107–107, div. A, title V, §562(c), Dec. 28, 2001, 115 Stat. 1120, provided that: "The amendments made by this section \[amending this section and section 115 of Title 32, National Guard\] shall apply to funeral honors duty performed on or after October 30, 2000."
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title V, §575(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, provided that: “The amendments made by this section \[amending this section, section 115 of Title 32, National Guard, and section 435 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply with respect to funeral honors duty performed on or after October 1, 2000.”
+Pub. L. 106–398, §1 \[\[div. A\], title V, §575(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–138, provided that: "The amendments made by this section \[amending this section, section 115 of Title 32, National Guard, and section 435 of Title 37, Pay and Allowances of the Uniformed Services\] shall apply with respect to funeral honors duty performed on or after October 1, 2000."
 

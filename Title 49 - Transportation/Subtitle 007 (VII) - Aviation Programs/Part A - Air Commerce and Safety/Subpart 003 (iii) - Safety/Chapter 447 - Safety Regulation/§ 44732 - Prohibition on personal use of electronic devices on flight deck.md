@@ -14,11 +14,11 @@ Enforcement.—In addition to the penalties provided under section 46301 applica
 
 (d)
 
-Personal Wireless Communications Device Defined.—In this section, the term “personal wireless communications device” means a device through which personal wireless services (as defined in section 332(c)(7)(C)(i) of the Communications Act of 1934 (47 U.S.C. 332(c)(7)(C)(i))) are transmitted.
+Personal Wireless Communications Device Defined.—In this section, the term "personal wireless communications device" means a device through which personal wireless services (as defined in section 332(c)(7)(C)(i) of the Communications Act of 1934 (47 U.S.C. 332(c)(7)(C)(i))) are transmitted.
 
 (Added Pub. L. 112–95, title III, §307(a), Feb. 14, 2012, 126 Stat. 61.)
 
 #### Regulations
 
-Pub. L. 112–95, title III, §307(d), Feb. 14, 2012, 126 Stat. 62, provided that: “Not later than 90 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall initiate a rulemaking procedure for regulations to carry out section 44732 of title 49, United States Code (as added by this section), and shall issue a final rule thereunder not later than 2 years after the date of enactment of this Act.”
+Pub. L. 112–95, title III, §307(d), Feb. 14, 2012, 126 Stat. 62, provided that: "Not later than 90 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall initiate a rulemaking procedure for regulations to carry out section 44732 of title 49, United States Code (as added by this section), and shall issue a final rule thereunder not later than 2 years after the date of enactment of this Act."
 

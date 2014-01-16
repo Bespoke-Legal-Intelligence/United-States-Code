@@ -34,7 +34,7 @@ Implementation.—The Secretary shall begin implementation of the strategic plan
 
 (c)
 
-Portal Detection Systems.—There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Transportation Security Administration $250,000,000, in addition to any amounts otherwise authorized by law, for research, development, and installation of detection systems and other devices for the detection of biological, chemical, radiological, and explosive materials.
+Portal Detection Systems.—There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Transportation Security Administration $250,000,000, in addition to any amounts otherwise authorized by law, for research, development, and installation of detection systems and other devices forthe detection of biological, chemical, radiological, and explosive materials.
 
 (d)
 
@@ -54,7 +54,7 @@ The date of enactment of this paragraph, referred to in subsec. (b)(3), is the d
 
 #### Issuance of Strategic Plan for Deployment and Use of Explosive Detection Equipment at Airport Screening Checkpoints
 
-Pub. L. 110–53, title XVI, §1607(a), Aug. 3, 2007, 121 Stat. 483, provided that: “Not later than 30 days after the date of enactment of this Act \[Aug. 3, 2007\], the Secretary of Homeland Security, in consultation with the Administrator of the Transportation Security Administration, shall issue the strategic plan the Secretary was required by section 44925(b) of title 49, United States Code, to have issued within 90 days after the date of enactment of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458) \[Dec. 17, 2004\].”
+Pub. L. 110–53, title XVI, §1607(a), Aug. 3, 2007, 121 Stat. 483, provided that: "Not later than 30 days after the date of enactment of this Act \[Aug. 3, 2007\], the Secretary of Homeland Security, in consultation with the Administrator of the Transportation Security Administration, shall issue the strategic plan the Secretary was required by section 44925(b) of title 49, United States Code, to have issued within 90 days after the date of enactment of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458) \[Dec. 17, 2004\]."
 
 #### Advanced Airport Checkpoint Screening Devices
 

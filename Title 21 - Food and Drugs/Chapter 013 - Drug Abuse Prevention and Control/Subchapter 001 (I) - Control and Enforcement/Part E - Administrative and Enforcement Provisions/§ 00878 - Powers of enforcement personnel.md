@@ -1,6 +1,6 @@
 ### §878. Powers of enforcement personnel
 
-(a) Any officer or employee of the Drug Enforcement Administration or any State, tribal,or local law enforcement officer designated by the Attorney General may—
+(a) Any officer or employee of the Drug Enforcement Administration or any State, tribal, or local law enforcement officer designated by the Attorney General may—
 
 &emsp;(1) carry firearms;
 
@@ -18,9 +18,9 @@
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–211 inserted “, tribal,” after “State” in introductory provisions.
+<b>2010</b>—Subsec. (a). Pub. L. 111–211 inserted ", tribal," after "State" in introductory provisions.
 
-<b>1986</b>—Pub. L. 99–570 and Pub. L. 99–646 amended section substantially identically designating existing provisions as subsec. (a) and adding subsec. (b), with the exception of the amendment of subsec. (a) for which Pub. L. 99–570 directed the insertion of “or (with respect to offenses under this subchapter or subchapter II of this chapter) any State or local law enforcement officer” and Pub. L. 99–646 directed the insertion of “or any State or local law enforcement officer”, the latter of which was executed to reflect the probable intent of Congress.
+<b>1986</b>—Pub. L. 99–570 and Pub. L. 99–646 amended section substantially identically designating existing provisions as subsec. (a) and adding subsec. (b), with the exception of the amendment of subsec. (a) for which Pub. L. 99–570 directed the insertion of "or (with respect to offenses under this subchapter or subchapter II of this chapter) any State or local law enforcement officer" and Pub. L. 99–646 directed the insertion of "or any State or local law enforcement officer", the latter of which was executed to reflect the probable intent of Congress.
 
-<b>1979</b>—Pub. L. 96–132 substituted “Drug Enforcement Administration” for “Bureau of Narcotics and Dangerous Drugs”.
+<b>1979</b>—Pub. L. 96–132 substituted "Drug Enforcement Administration" for "Bureau of Narcotics and Dangerous Drugs".
 

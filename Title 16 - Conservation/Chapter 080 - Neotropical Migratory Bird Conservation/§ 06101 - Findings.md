@@ -8,9 +8,9 @@ Congress finds that—
 
 &emsp;(3)(A) many neotropical migratory bird populations, once considered common, are in decline, and some have declined to the point that their long-term survival in the wild is in jeopardy; and
 
-&emsp;(B) the primary reason for the decline in the populations of those species is habitat loss and degradation (including pollution and contamination) across the species’ range; and
+&emsp;(B) the primary reason for the decline in the populations of those species is habitat loss and degradation (including pollution and contamination) across the species' range; and
 
-&emsp;(4)(A) because neotropical migratory birds range across numerous international borders each year, their conservation requires the commitment and effort of all countries along their migration routes; and
+&emsp;(4)(A) because neotropical migratory birds range across numerous international borders each year, their conservation requires thecommitment and effort of all countries along their migration routes; and
 
 &emsp;(B) although numerous initiatives exist to conserve migratory birds and their habitat, those initiatives can be significantly strengthened and enhanced by increased coordination.
 
@@ -18,13 +18,13 @@ Congress finds that—
 
 #### Amendments
 
-<b>2006</b>—Par. (1). Pub. L. 109–363 inserted “but breed in Canada and the United States” after “the Caribbean”.
+<b>2006</b>—Par. (1). Pub. L. 109–363 inserted "but breed in Canada and the United States" after "the Caribbean".
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–363, title III, §301, Oct. 17, 2006, 120 Stat. 2075, provided that: “This title \[amending this section and sections 6102 to 6104 and 6106 to 6109 of this title and enacting provisions set out as notes under sections 6106 and 6108 of this title\] may be cited as the ‘Neotropical Migratory Bird Conservation Improvement Act of 2006’.”
+Pub. L. 109–363, title III, §301, Oct. 17, 2006, 120 Stat. 2075, provided that: "This title \[amending this section and sections 6102 to 6104 and 6106 to 6109 of this title and enacting provisions set out as notes under sections 6106 and 6108 of this title\] may be cited as the 'Neotropical Migratory Bird Conservation Improvement Act of 2006'."
 
 #### Short Title
 
-Pub. L. 106–247, §1, July 20, 2000, 114 Stat. 593, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Neotropical Migratory Bird Conservation Act’.”
+Pub. L. 106–247, §1, July 20, 2000, 114 Stat. 593, provided that: "This Act \[enacting this chapter\] may be cited as the 'Neotropical Migratory Bird Conservation Act'."
 

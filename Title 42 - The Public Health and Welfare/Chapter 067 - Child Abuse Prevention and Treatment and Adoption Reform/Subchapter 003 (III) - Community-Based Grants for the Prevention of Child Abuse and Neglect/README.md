@@ -6,9 +6,9 @@ Subchapter is comprised of title II of the Child Abuse Prevention and Treatment 
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–320, title I, §131, Dec. 20, 2010, 124 Stat. 3478, substituted “COMMUNITY-BASED” for “COMMUNITY–BASED” in subchapter heading.
+<b>2010</b>—Pub. L. 111–320, title I, §131, Dec. 20, 2010, 124 Stat. 3478, substituted "COMMUNITY-BASED" for "COMMUNITY–BASED" in subchapter heading.
 
-<b>2003</b>—Pub. L. 108–36, title I, §121(c), June 25, 2003, 117 Stat. 814, substituted “COMMUNITY–BASED GRANTS FOR THE PREVENTION OF CHILD ABUSE AND NEGLECT” for “COMMUNITY-BASED FAMILY RESOURCE AND SUPPORT GRANTS” in subchapter heading.
+<b>2003</b>—Pub. L. 108–36, title I, §121(c), June 25, 2003, 117 Stat. 814, substituted "COMMUNITY–BASED GRANTS FOR THE PREVENTION OF CHILD ABUSE AND NEGLECT" for "COMMUNITY-BASED FAMILY RESOURCE AND SUPPORT GRANTS" in subchapter heading.
 
 
 ---

@@ -18,17 +18,17 @@ Not later than 90 days after April 4, 1996, the Secretary and the Commodity Cred
 
 &emsp;(2) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804) relating to notices of proposed rulemaking and public participation in rulemaking; and
 
-&emsp;(3) chapter 35 of title 44, United States Code (commonly know <sup>1</sup> as the “Paperwork Reduction Act”).
+&emsp;(3) chapter 35 of title 44, United States Code (commonly know <sup>1</sup> as the "Paperwork Reduction Act").
 
 (Pub. L. 104–127, title I, §161, Apr. 4, 1996, 110 Stat. 934.)
 
 #### References in Text
 
-For definition of “this chapter”, referred to in text, see note set out under section 7201 of this title.
+For definition of "this chapter", referred to in text, see note set out under section 7201 of this title.
 
 #### Codification
 
 Section is comprised of section 161 of Pub. L. 104–127. Subsec. (b) of section 161 of Pub. L. 104–127 amended sections 714b, 714i, and 714k of Title 15, Commerce and Trade.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “known”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "known".</i>
 

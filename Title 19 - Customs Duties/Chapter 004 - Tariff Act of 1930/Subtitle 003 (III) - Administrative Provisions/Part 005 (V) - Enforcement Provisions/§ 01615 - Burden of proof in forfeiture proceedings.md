@@ -18,13 +18,13 @@ Provisions somewhat similar to those in this section were contained in act Oct. 
 
 <b>1984</b>—Pub. L. 98–573 and Pub. L. 98–473 inserted reference to aircraft in provisions preceding par. (1) and in par. (1).
 
-<b>1978</b>—Pub. L. 95–410 inserted “(other than those arising under section 1592 of this title)” after “In all suits or actions”.
+<b>1978</b>—Pub. L. 95–410 inserted "(other than those arising under section 1592 of this title)" after "In all suits or actions".
 
-<b>1935</b>—Act Aug. 5, 1935, inserted a comma in place of a period at the end, inserted “subject to the following rules of proof”, and added subds. (1) to (3).
+<b>1935</b>—Act Aug. 5, 1935, inserted a comma in place of a period at the end, inserted "subject to the following rules of proof", and added subds. (1) to (3).
 
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–573 effective Oct. 15, 1984, see section 214(e) of Pub. L. 98–573, set out as a note under section 1304 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “merchandise”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "merchandise".</i>
 

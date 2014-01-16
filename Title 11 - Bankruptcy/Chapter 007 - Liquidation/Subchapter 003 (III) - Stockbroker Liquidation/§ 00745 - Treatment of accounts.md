@@ -24,11 +24,11 @@ The Internal Revenue Code of 1986, referred to in subsec. (c), is classified gen
 
 #### Amendments
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–394 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954 (26 U.S.C. 1 et seq.)”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–394 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954 (26 U.S.C. 1 et seq.)".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–353 inserted “the debtor for” after “by”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353 inserted "the debtor for" after "by".
 
-<b>1982</b>—Subsec. (c). Pub. L. 97–222 substituted “Each” for “A”.
+<b>1982</b>—Subsec. (c). Pub. L. 97–222 substituted "Each" for "A".
 
 #### Effective Date of 1994 Amendment
 

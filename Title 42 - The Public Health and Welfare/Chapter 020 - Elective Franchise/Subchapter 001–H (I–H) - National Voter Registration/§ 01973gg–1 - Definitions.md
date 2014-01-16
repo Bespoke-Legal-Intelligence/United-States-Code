@@ -2,15 +2,15 @@
 
 As used in this subchapter—
 
-&emsp;(1) the term “election” has the meaning stated in section 431(1) of title 2;
+&emsp;(1) the term "election" has the meaning stated in section 431(1) of title 2;
 
-&emsp;(2) the term “Federal office” has the meaning stated in section 431(3) of title 2;
+&emsp;(2) the term "Federal office" has the meaning stated in section 431(3) of title 2;
 
-&emsp;(3) the term “motor vehicle driver's license” includes any personal identification document issued by a State motor vehicle authority;
+&emsp;(3) the term "motor vehicle driver's license" includes any personal identification document issued by a State motor vehicle authority;
 
-&emsp;(4) the term “State” means a State of the United States and the District of Columbia; and
+&emsp;(4) the term "State" means a State of the United States and the District of Columbia; and
 
-&emsp;(5) the term “voter registration agency” means an office designated under section 1973gg–5(a)(1) of this title to perform voter registration activities.
+&emsp;(5) the term "voter registration agency" means an office designated under section 1973gg–5(a)(1) of this title to perform voter registration activities.
 
 (Pub. L. 103–31, §3, May 20, 1993, 107 Stat. 77.)
 

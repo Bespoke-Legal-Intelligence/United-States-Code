@@ -10,7 +10,7 @@
 
 #### (B) State family assistance grant
 
-&emsp;&emsp;The State family assistance grant payable to a State for a fiscal year shall be the amount that bears the same ratio to the amount specified in subparagraph (C) of this paragraph (as in effect just before February 22, 2012) as the amount required to be paid to the State under this paragraph (as so in effect) for fiscal year 2002 (determined without regard to any reduction pursuant to section 609 or 612(a)(1) of this title) bears to the totalamount required to be paid under this paragraph for fiscal year 2002 (as so determined).
+&emsp;&emsp;The State family assistance grant payable to a State for a fiscal year shall be the amount that bears the same ratio to the amount specified in subparagraph (C) of this paragraph (as in effect just before February 22, 2012) as the amount required to be paid to the State under this paragraph (as so in effect) for fiscal year 2002 (determined without regard to any reduction pursuant to section 609 or 612(a)(1) of this title) bears to the total amount required to be paid under this paragraph for fiscal year 2002 (as so determined).
 
 #### (C) Appropriation
 
@@ -42,7 +42,7 @@
 
 #### (iii) Healthy marriage promotion activities
 
-&emsp;&emsp;&emsp;In clause (ii), the term “healthy marriage promotion activities” means the following:
+&emsp;&emsp;&emsp;In clause (ii), the term "healthy marriage promotion activities" means the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) Public advertising campaigns on the value of marriage and the skills needed to increase marital stability and health.
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(VII) Marriage mentoring programs which use married couples as role models and mentors in at-risk communities.
 
-&emsp;&emsp;&emsp;&emsp;(VIII) Programs to reduce the disincentives to marriage in means-tested aid programs, if offered in conjunction with any activity described in this subparagraph.
+&emsp;&emsp;&emsp;&emsp;(VIII) Programs to reduce the disincentives to marriage in means-tested aidprograms, if offered in conjunction with any activity described in this subparagraph.
 
 #### (B) Limitation on use of funds for demonstration projects for coordination of provision of child welfare and TANF services to tribal families at risk of child abuse or neglect
 
@@ -88,7 +88,7 @@
 
 #### (ii) Activities promoting responsible fatherhood
 
-&emsp;&emsp;&emsp;In this paragraph, the term “activities promoting responsible fatherhood” means the following:
+&emsp;&emsp;&emsp;In this paragraph, the term "activities promoting responsible fatherhood" means the following:
 
 &emsp;&emsp;&emsp;&emsp;(I) Activities to promote marriage or sustain marriage through activities such as counseling, mentoring, disseminating information about the benefits of marriage and 2-parent involvement for children, enhancing relationship skills, education regarding how to control aggressive behavior, disseminating information on the causes of domestic violence and child abuse, marriage preparation programs, premarital counseling, marital inventories, skills-based marriage education, financial planning seminars, including improving a family's ability to effectively manage family business affairs by means such as education, counseling, or mentoring on matters related to family finances, including household management, budgeting, banking, and handling of financial transactions and home maintenance, and divorce education and reduction programs, including mediation and counseling.
 
@@ -110,7 +110,7 @@
 
 #### (E) Preference
 
-&emsp;&emsp;In awarding funds under this paragraph for fiscal year 2011, the Secretary shall give preference to entities that were awarded funds under this paragraph for any prior fiscal year and that have demonstrated the ability to successfully carry out the programs funded under this paragraph.
+&emsp;&emsp;In awarding funds under this paragraph for fiscal year 2011, the Secretary shall givepreference to entities that were awarded funds under this paragraph for any prior fiscal year and that have demonstrated the ability to successfully carry out the programs funded under this paragraph.
 
 #### (3) Supplemental grant for population increases in certain States
 
@@ -132,7 +132,7 @@
 
 #### (B) Preservation of grant without increases for States failing to remain qualifying States
 
-&emsp;&emsp;Each State that is not a qualifying State for a fiscal year specified in subparagraph (A)(ii) but was a qualifying State for a prior fiscal year shall, subject to subparagraph (F), be entitled to receive from the Secretary for the specified fiscal year, a grant in an amount equal to the amount requiredto be paid to the State under this paragraph for the most recent fiscal year for which the State was a qualifying State.
+&emsp;&emsp;Each State that is not a qualifying State for a fiscal year specified in subparagraph (A)(ii) but was a qualifying State for a prior fiscal year shall, subject to subparagraph (F), be entitled to receive from the Secretary for the specified fiscal year, a grant in an amount equal to the amount required to be paid to the State under this paragraph for the most recent fiscal year for which the State was a qualifying State.
 
 #### (C) Qualifying State
 
@@ -162,7 +162,7 @@
 
 #### (i) Level of welfare spending per poor person
 
-&emsp;&emsp;&emsp;The term “level of State welfare spending per poor person” means, with respect to a State and a fiscal year—
+&emsp;&emsp;&emsp;The term "level of State welfare spending per poor person" means, with respect to a State and a fiscal year—
 
 &emsp;&emsp;&emsp;&emsp;(I) the sum of—
 
@@ -174,7 +174,7 @@
 
 #### (ii) National average level of State welfare spending per poor person
 
-&emsp;&emsp;&emsp;The term “national average level of State welfare spending per poor person” means, with respect to a fiscal year, an amount equal to—
+&emsp;&emsp;&emsp;The term "national average level of State welfare spending per poor person" means, with respect to a fiscal year, an amount equal to—
 
 &emsp;&emsp;&emsp;&emsp;(I) the total amount required to be paid to the States under former section 603 of this title (as in effect during fiscal year 1994) for fiscal year 1994; divided by
 
@@ -182,7 +182,7 @@
 
 #### (iii) State
 
-&emsp;&emsp;&emsp;The term “State” means each of the 50 States of the United States and the District of Columbia.
+&emsp;&emsp;&emsp;The term "State" means each of the 50 States of the United States and the District of Columbia.
 
 #### (E) Appropriation
 
@@ -190,7 +190,7 @@
 
 #### (F) Grants reduced pro rata if insufficient appropriations
 
-&emsp;&emsp;If the amount appropriated pursuant to this paragraph for a fiscal year (or portion of a fiscal year) is less than the total amount of payments otherwise required to be made under this paragraph for the fiscal year (or portion of the fiscal year), then the amount otherwise payable to any State for the fiscal year (or portion of the fiscal year) under this paragraph shall be reduced by a percentage equal to the amount so appropriated divided by such total amount.
+&emsp;&emsp;If the amount appropriated pursuant to this paragraph for a fiscal year (or portion ofa fiscal year) is less than the total amount of payments otherwise required to be made under this paragraph for the fiscal year (or portion of the fiscal year), then the amount otherwise payable to any State for the fiscal year (or portion of the fiscal year) under this paragraph shall be reduced by a percentage equal to the amount so appropriated divided by such total amount.
 
 #### (G) Budget scoring
 
@@ -202,7 +202,7 @@
 
 &emsp;&emsp;&emsp;(i) any State that was a qualifying State under this paragraph for fiscal year 2001 or any prior fiscal year shall be entitled to receive from the Secretary for each of fiscal years 2002 and 2003 a grant in an amount equal to the amount required to be paid to the State under this paragraph for the most recent fiscal year in which the State was a qualifying State;
 
-&emsp;&emsp;&emsp;(ii) subparagraph (G) shall be applied as if “fiscal year 2011” were substituted for “fiscal year 2001”; <sup>1</sup>
+&emsp;&emsp;&emsp;(ii) subparagraph (G) shall be applied as if "fiscal year 2011" were substituted for "fiscal year 2001"; <sup>1</sup>
 
 &emsp;&emsp;&emsp;(iii) out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated for each of fiscal years 2002 and 2003 such sums as are necessary for grants under this subparagraph.
 
@@ -224,7 +224,7 @@
 
 #### (C) Formula for measuring State performance
 
-&emsp;&emsp;Not later than 1 year after August 22, 1996, the Secretary, in consultation with the National Governors’ Association and the American Public Welfare Association, shall develop a formula for measuring State performance in operating the State program funded under this part so as to achieve the goals set forth in section 601(a) of this title.
+&emsp;&emsp;Not later than 1 year after August 22, 1996, the Secretary, in consultation with the National Governors' Association and the American Public Welfare Association, shall develop a formula for measuring State performance in operating the State program funded under this part so as to achieve the goals set forth in section 601(a) of this title.
 
 #### (D) Scoring of State performance; setting of performance thresholds
 
@@ -244,11 +244,11 @@
 
 #### (i) Bonus year
 
-&emsp;&emsp;&emsp;The term “bonus year” means fiscal years 1999, 2000, 2001, 2002, and 2003.
+&emsp;&emsp;&emsp;The term "bonus year" means fiscal years 1999, 2000, 2001, 2002, and 2003.
 
 #### (ii) High performing State
 
-&emsp;&emsp;&emsp;The term “high performing State” means, with respect to a bonus year, an eligible State whose score assigned pursuant to subparagraph (D)(i) for the fiscal year immediately preceding the bonus year equals or exceeds the performance threshold prescribed under subparagraph (D)(ii) for such preceding fiscal year.
+&emsp;&emsp;&emsp;The term "high performing State" means, with respect to a bonus year, an eligible State whose score assigned pursuant to subparagraph (D)(i) for the fiscal year immediately preceding the bonus year equals or exceeds the performance threshold prescribed under subparagraph (D)(ii) for such preceding fiscal year.
 
 #### (F) Appropriation
 
@@ -282,7 +282,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(ee) if the Governor of the State desires to have an agency other than a private industry council administer the funds provided under this subparagraph for the benefit of 1 or more service delivery areas in the State, contains an application to the Secretary of Labor for a waiver of clause (vii)(I) with respect to the area or areas in order to permit an alternate agency designated by the Governor to so administer the funds; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(ff) describes how the State will ensure that a private industry council towhich information is disclosed pursuant to section 603(a)(5)(K) <sup>3</sup> or 654A(f)(5) of this title has procedures for safeguarding the information and for ensuring that the information is used solely for the purpose described in that section.
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) describes how the State will ensure that a private industry council to which information is disclosed pursuant to section 603(a)(5)(K) <sup>3</sup> or 654A(f)(5) of this title has procedures for safeguarding the information and for ensuring that the information is used solely for the purpose described in that section.
 
 &emsp;&emsp;&emsp;&emsp;(II) The State has provided to the Secretary of Labor an estimate of the amount that the State intends to expend during the period permitted under subparagraph (C)(vii) of this paragraph for the expenditure of funds under the grant (excluding expenditures described in section 609(a)(7)(B)(iv) of this title (other than subclause (III) thereof)) pursuant to this paragraph.
 
@@ -308,7 +308,7 @@
 
 #### (iv) Available amount
 
-&emsp;&emsp;&emsp;As used in this subparagraph, the term “available amount” means, for a fiscal year, the sum of—
+&emsp;&emsp;&emsp;As used in this subparagraph, the term "available amount" means, for a fiscal year, the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) 75 percent of the sum of—
 
@@ -320,11 +320,11 @@
 
 #### (v) State percentage
 
-&emsp;&emsp;&emsp;As used in clause (iii), the term “State percentage” means, with respect to a fiscal year, ½ of the sum of—
+&emsp;&emsp;&emsp;As used in clause (iii), the term "State percentage" means, with respect to a fiscal year, ½ of the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the percentage represented by the number of individuals in the State whose income is less than the poverty line divided by the number of such individuals in the United States; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the percentage represented by the number of adults who are recipients of assistance under the State program funded under this part divided by the number of adults in the United States who are recipients of assistance under any State program funded under this part.
+&emsp;&emsp;&emsp;&emsp;(II) the percentage represented by the number of adults who are recipients of assistance under the State program funded under this part divided by the number of adults in the United Stateswho are recipients of assistance under any State program funded under this part.
 
 #### (vi) Procedure for distribution of funds within States
 
@@ -376,7 +376,7 @@
 
 #### (ix) Reversion of unallotted formula funds
 
-&emsp;&emsp;&emsp;If at the end of any fiscal year any funds available under this subparagraph have not been allotted due to a determination by the Secretary that any State has not met the requirements of clause (ii), such funds shall be transferred to the General Fund of the Treasury of the United States.
+&emsp;&emsp;&emsp;If at the end of any fiscal year any funds available under this subparagraph have not been allotted due to a determinationby the Secretary that any State has not met the requirements of clause (ii), such funds shall be transferred to the General Fund of the Treasury of the United States.
 
 #### (B) Competitive grants
 
@@ -406,7 +406,7 @@
 
 #### (ii) Eligible applicants
 
-&emsp;&emsp;&emsp;As used in clause (i), the term “eligible applicant” means a private industry council for a service delivery area in a State, a political subdivision of a State, or a private entity applying in conjunction with the private industry council for such a service delivery area or with such a political subdivision, that submits a proposal developed in consultation with the Governor of the State.
+&emsp;&emsp;&emsp;As used in clause (i), the term "eligible applicant" means a private industry council for a service delivery area in a State, a political subdivision of a State, or a private entity applying in conjunction with the private industry council for such a service delivery area or with such a political subdivision, that submits a proposal developed in consultation with the Governor of the State.
 
 #### (iii) Determination of grant amount
 
@@ -464,7 +464,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) The noncustodial parent is unemployed, underemployed, or having difficulty in paying child support obligations.
 
-&emsp;&emsp;&emsp;&emsp;(II) At least 1 of the following applies to a minor child of the noncustodial parent (with preference in the determination of the noncustodial parents to be provided services under this paragraph to be provided by the entity to thosenoncustodial parents with minor children who meet, or who have custodial parents who meet, the requirements of item (aa)):
+&emsp;&emsp;&emsp;&emsp;(II) At least 1 of the following applies to a minor child of the noncustodial parent (with preference in the determination of the noncustodial parents to be provided services under this paragraph to be provided by the entity to those noncustodial parents with minor children who meet, or who have custodial parents who meet, the requirements of item (aa)):
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) The minor child or the custodial parent of the minor child meets the requirements of subclause (I) or (II) of clause (ii).
 
@@ -484,7 +484,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(dd) A description of the services to be provided under this paragraph, and a commitment by the noncustodial parent to participate in such services, that are designed to assist the noncustodial parent obtain and retain employment, increase earnings, and enhance the financial and emotional contributions to the well-being of the minor child.
 
-> &emsp;&emsp;&emsp;&emsp;In order to protect custodial parents and children who may be at risk of domestic violence, the preceding provisions of this subclause shall not be construed to affect any other provision of law requiring a custodial parent to cooperate in establishing the paternity of a child or establishing or enforcing a support order with respect to a child, or entitling a custodial parent to refuse, for good cause, to provide such cooperation as a condition of assistance or benefit under any program, shall not be construed to require such cooperation by the custodial parent as a condition of participation of either parent in the program authorized under this paragraph, and shall not be construed to require a custodial parent to cooperate with or participate in any activity under this clause. The entity operating a project under this clause with funds provided under this paragraph shall consult with domestic violence prevention and intervention organizations in the development of the project.
+> &emsp;&emsp;&emsp;&emsp;In order to protect custodial parents and children who may be at risk of domestic violence, the preceding provisions of this subclause shall not be construed to affect any other provision of law requiring a custodial parent to cooperate in establishing the paternity of a child or establishing or enforcing a support order with respect to a child, or entitling a custodial parent to refuse, for good cause, to provide such cooperation as a condition of assistance or benefit under any program, shall not be construed to require such cooperation by the custodial parent as a condition of participation of either parent in the program authorized underthis paragraph, and shall not be construed to require a custodial parent to cooperate with or participate in any activity under this clause. The entity operating a project under this clause with funds provided under this paragraph shall consult with domestic violence prevention and intervention organizations in the development of the project.
 
 #### (iv) Targeting of hard to employ individuals with characteristics associated with long-term welfare dependence
 
@@ -498,7 +498,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) who, before attaining 18 years of age, were recipients of foster care maintenance payments (as defined in section 675(4) of this title) under part E of this subchapter or were in foster care under the responsibility of a State;
 
-&emsp;&emsp;&emsp;&emsp;(III) to recipients of assistance under the State program funded under thispart, determined to have significant barriers to self-sufficiency, pursuant to criteria established by the local private industry council; or
+&emsp;&emsp;&emsp;&emsp;(III) to recipients of assistance under the State program funded under this part, determined to have significant barriers to self-sufficiency, pursuant to criteria established by the local private industry council; or
 
 &emsp;&emsp;&emsp;&emsp;(IV) to custodial parents with incomes below 100 percent of the poverty line (as defined in section 9902(2) of this title, including any revision required by such section, applicable to a family of the size involved).
 
@@ -544,17 +544,17 @@
 
 &emsp;&emsp;&emsp;For purposes of this paragraph, the number of individuals with an income that is less than the poverty line shall be determined for a fiscal year—
 
-&emsp;&emsp;&emsp;&emsp;(I) based on the methodology used by the Bureau of the Census to produce and publish intercensal poverty data for States and counties (or, in the case of Puerto Rico, the Virgin Islands, Guam, and American Samoa, other poverty data selected by the Secretary of Labor); and
+&emsp;&emsp;&emsp;&emsp;(I) based on the methodology used by the Bureau of the Census to produce and publish intercensal poverty data for States and counties (or, in the case ofPuerto Rico, the Virgin Islands, Guam, and American Samoa, other poverty data selected by the Secretary of Labor); and
 
 &emsp;&emsp;&emsp;&emsp;(II) using data for the most recent year for which such data is available before the beginning of the fiscal year.
 
 #### (ii) Private industry council
 
-&emsp;&emsp;&emsp;As used in this paragraph, the term “private industry council” means, with respect to a service delivery area, the private industry council or local workforce investment board established for the service delivery area pursuant to title I of the Workforce Investment Area <sup>5</sup> of 1998 \[29 U.S.C. 2801 et seq.\], as appropriate.
+&emsp;&emsp;&emsp;As used in this paragraph, the term "private industry council" means, with respect to a service delivery area, the private industry council or local workforce investment board established for the service delivery area pursuant to title I of the Workforce Investment Area <sup>5</sup> of 1998 \[29 U.S.C. 2801 et seq.\], as appropriate.
 
 #### (iii) Service delivery area
 
-&emsp;&emsp;&emsp;As used in this paragraph, the term “service delivery area” shall have the meaning given such term for purposes of the Job Training Partnership Act or.<sup>6</sup>
+&emsp;&emsp;&emsp;As used in this paragraph, the term "service delivery area" shall have the meaning given such term for purposes of the Job Training Partnership Act or.<sup>6</sup>
 
 #### (E) Funding for Indian tribes
 
@@ -660,7 +660,7 @@
 
 #### (v) Rule of interpretation
 
-&emsp;&emsp;&emsp;This subparagraph shall not be construed to affect the authority of a State to provide or require workers’ compensation.
+&emsp;&emsp;&emsp;This subparagraph shall not be construed to affect the authority of a State to provide or require workers' compensation.
 
 #### (vi) Nonpreemption of State law
 
@@ -674,7 +674,7 @@
 
 #### (1) Establishment
 
-&emsp;There is hereby established in the Treasury of the United States a fund which shall be known as the “Contingency Fund for State Welfare Programs” (in this section referred to as the “Fund”).
+&emsp;There is hereby established in the Treasury of the United States a fund which shall be known as the "Contingency Fund for State Welfare Programs" (in this section referred to as the "Fund").
 
 #### (2) Deposits into Fund
 
@@ -700,9 +700,9 @@
 
 &emsp;&emsp;&emsp;The total amount paid to all States under subparagraph (A) during fiscal year 2011 and 2012, respectively, shall not exceed the total amount appropriated pursuant to paragraph (2) for each such fiscal year.
 
-#### (4) “Eligible month” defined
+#### (4) "Eligible month" defined
 
-&emsp;As used in paragraph (3)(A), the term “eligible month” means, with respect to a State, a month in the 2-month period that begins with any month for which the State is a needy State.
+&emsp;As used in paragraph (3)(A), the term "eligible month" means, with respect to a State, a month in the 2-month period that begins with any month for which the State is a needy State.
 
 #### (5) Needy State
 
@@ -742,7 +742,7 @@
 
 #### (i) Reimbursable expenditures
 
-&emsp;&emsp;&emsp;The term “reimbursable expenditures” means, with respect to a State and a fiscal year, the amount (if any) by which—
+&emsp;&emsp;&emsp;The term "reimbursable expenditures" means, with respect to a State and a fiscal year, the amount (if any) by which—
 
 &emsp;&emsp;&emsp;&emsp;(I) countable State expenditures for the fiscal year; exceeds
 
@@ -750,7 +750,7 @@
 
 #### (ii) Countable State expenditures
 
-&emsp;&emsp;&emsp;The term “countable expenditures” means, with respect to a State and a fiscal year—
+&emsp;&emsp;&emsp;The term "countable expenditures" means, with respect to a State and a fiscal year—
 
 &emsp;&emsp;&emsp;&emsp;(I) the qualified State expenditures (as defined in section 609(a)(7)(B)(i) of this title (other than the expenditures described in subclause (I)(bb) of such section)) under the State program funded under this part for the fiscal year; plus
 
@@ -768,7 +768,7 @@
 
 #### (ii) Total adjustment
 
-&emsp;&emsp;&emsp;As used in clause (i), the term “total adjustment” means—
+&emsp;&emsp;&emsp;As used in clause (i), the term "total adjustment" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of fiscal year 1998, $2,000,000;
 
@@ -780,7 +780,7 @@
 
 #### (iii) Adjustment percentage
 
-&emsp;&emsp;&emsp;As used in clause (i), the term “adjustment percentage” means, with respect to a State and a fiscal year—
+&emsp;&emsp;&emsp;As used in clause (i), the term "adjustment percentage" means, with respect to a State and a fiscal year—
 
 &emsp;&emsp;&emsp;&emsp;(I) the unadjusted net payment to the State for the fiscal year; divided by
 
@@ -788,21 +788,21 @@
 
 #### (iv) Unadjusted net payment
 
-&emsp;&emsp;&emsp;As used in this subparagraph, the term, “unadjusted net payment” means with respect to a State and a fiscal year—
+&emsp;&emsp;&emsp;As used in this subparagraph, the term, "unadjusted net payment" means with respect to a State and a fiscal year—
 
 &emsp;&emsp;&emsp;&emsp;(I) the total amount paid to the State under paragraph (3) in the fiscal year; minus
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount that, in the absence of this subparagraph, would be required by subparagraph (A) or by section 609(a)(10) of this title to be remitted by the State in respect of the payment.
 
-#### (7) “State” defined
+#### (7) "State" defined
 
-&emsp;As used in this subsection, the term “State” means each of the 50 States and the District of Columbia.
+&emsp;As used in this subsection, the term "State" means each of the 50 States and the District of Columbia.
 
 #### (8) Annual reports
 
 &emsp;The Secretary shall annually report to the Congress on the status of the Fund.
 
-(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §§801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, 1501A–281, 1501A–283 to 1501A–286; Pub. L. 106–246, div. B, title II, §2402, July 13, 2000, 114 Stat. 555; Pub. L. 106–554, §1(a)(1) \[title I, §§103, 107(a)–(b)(4), (c), title V, §513\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11, 2763A–12, 2763A–71; Pub. L. 107–147, titleVI, §§616, 617, Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–40, §3(a), (c)–(e), June 30, 2003, 117 Stat. 836, 837; Pub. L. 108–89, title I, §101(b)(1), (2), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–210, §2(b), Mar. 31, 2004, 118 Stat. 564; Pub. L. 108–262, §2(b), June 30, 2004, 118 Stat. 696; Pub. L. 108–308, §2(b)(1), (2), Sept. 30, 2004, 118 Stat. 1135; Pub. L. 109–4, §2(b), Mar. 25, 2005, 119 Stat. 17; Pub. L. 109–19, §2(b), July 1, 2005, 119 Stat. 344; Pub. L. 109–68, §2(b)(2)(A), (B), Sept. 21, 2005, 119 Stat. 2003; Pub. L. 109–161, §2(b), Dec. 30, 2005, 119 Stat. 2958; Pub. L. 109–171, title VII, §§7101(b)(1), (2), 7103(a), Feb. 8, 2006, 120 Stat. 135, 138; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–275, title III, §301(b), July 15, 2008, 122 Stat. 2594; Pub. L. 111–5, div. B, title II, §§2101(a), 2102(b), Feb. 17, 2009, 123 Stat. 446, 449; Pub. L. 111–242, §131(b)(1), (2), Sept. 30, 2010, 124 Stat. 2612; Pub. L. 111–291, title VIII, §811(b)–(d), Dec. 8, 2010, 124 Stat. 3159; Pub. L. 112–96, title IV, §4002(a), (b), Feb. 22, 2012, 126 Stat. 194, 195; Pub. L. 112–275, §9(a), Jan. 14, 2013, 126 Stat. 2465.)
+(Aug. 14, 1935, ch. 531, title IV, §403, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2115; amended Pub. L. 104–327, §1(b), Oct. 19, 1996, 110 Stat. 4002; Pub. L. 105–33, title V, §§5001(a)(1), 5502, 5514(c), Aug. 5, 1997, 111 Stat. 577, 606, 620; Pub. L. 105–78, title VI, §608, Nov. 13, 1997, 111 Stat. 1522; Pub. L. 105–89, title IV, §404(a), (b), Nov. 19, 1997, 111 Stat. 2134; Pub. L. 105–200, title IV, §408, July 16, 1998, 112 Stat. 672; Pub. L. 105–277, div. A, §101(f) \[title I, §102, title VIII, §405(d)(30), (f)(22)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–346, 2681–425, 2681–432; Pub. L. 105–306, §6(a), Oct. 28, 1998, 112 Stat. 2928; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §§801(a), (b)(1), (c), 802, 803, 804(b), 805(a)(2), (b), 806\], Nov. 29, 1999, 113 Stat. 1535, 1501A–280, 1501A–281, 1501A–283 to 1501A–286; Pub. L. 106–246, div. B, title II, §2402, July 13, 2000, 114 Stat. 555; Pub. L. 106–554, §1(a)(1) \[title I, §§103, 107(a)–(b)(4), (c), title V, §513\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11, 2763A–12, 2763A–71; Pub. L. 107–147, title VI, §§616, 617, Mar. 9, 2002, 116 Stat. 62; Pub. L. 108–40, §3(a), (c)–(e), June 30, 2003, 117 Stat. 836, 837; Pub. L. 108–89, title I, §101(b)(1), (2), Oct. 1, 2003, 117 Stat. 1131; Pub. L. 108–210, §2(b), Mar. 31, 2004, 118 Stat. 564; Pub. L. 108–262, §2(b), June 30, 2004, 118 Stat. 696; Pub. L. 108–308, §2(b)(1), (2), Sept. 30, 2004, 118 Stat. 1135; Pub. L. 109–4, §2(b), Mar. 25, 2005, 119 Stat. 17; Pub. L. 109–19, §2(b), July 1, 2005, 119 Stat. 344; Pub. L. 109–68, §2(b)(2)(A), (B), Sept. 21, 2005, 119 Stat. 2003; Pub. L. 109–161, §2(b), Dec. 30, 2005, 119 Stat. 2958; Pub. L. 109–171, title VII, §§7101(b)(1), (2), 7103(a), Feb. 8, 2006, 120 Stat. 135, 138; Pub. L. 110–234, title IV, §4002(b)(1)(A), (B), (2)(V), May 22, 2008, 122 Stat. 1095–1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(A), (B), (2)(V), June 18, 2008, 122 Stat. 1664, 1857, 1858; Pub. L. 110–275, title III, §301(b), July 15, 2008, 122 Stat. 2594; Pub. L. 111–5, div. B, title II, §§2101(a), 2102(b), Feb. 17, 2009, 123 Stat. 446, 449; Pub. L. 111–242, §131(b)(1), (2), Sept. 30, 2010, 124 Stat. 2612; Pub. L. 111–291, title VIII, §811(b)–(d), Dec. 8, 2010, 124 Stat. 3159; Pub. L. 112–96, title IV, §4002(a), (b), Feb. 22, 2012, 126 Stat. 194, 195; Pub. L. 112–275, §9(a), Jan. 14, 2013, 126 Stat. 2465.)
 
 #### References in Text
 
@@ -826,143 +826,143 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Prior Provisions
 
-A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a), 407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, §103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
+A prior section 603, acts Aug. 14, 1935, ch. 531, title IV, §403, 49 Stat. 628; Aug. 10, 1939, ch. 666, title IV, §402, 53 Stat. 1380; Aug. 10, 1946, ch. 951, title V, §502, 60 Stat. 992; June 14, 1948, ch. 468, §3(b), 62 Stat. 439; Aug. 28, 1950, ch. 809, title III, pt. 2, §322(a), pt. 6, §361(c), (d), 64 Stat. 550, 558; July 18, 1952, ch. 945, §8(b), 66 Stat. 778; Sept. 1, 1954, ch. 1206, title III, §303(a), 68 Stat. 1097; Aug. 1, 1956, ch. 836, title III, §§302, 312(c), 342, 351(a), 70 Stat. 847, 849, 852, 854; Aug. 28, 1958, Pub. L. 85–840, title V, §502, 72 Stat. 1048; July 25, 1962, Pub. L. 87–543, title I, §§101(a)(2), (b)(2)(A)–(C), 104(a)(3)(C), 108(b), (c), 76 Stat. 174, 180, 185, 190; July 30, 1965, Pub. L. 89–97, title I, §122, title IV, §401(c), 79 Stat. 353, 415; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(c)–(e)(3), 205(b), 206(a), 207(b), 208, 241(b)(2), (3), 81 Stat. 879, 880, 892–894, 916; June 28, 1968, Pub. L. 90–364, title III, §301, 82 Stat. 273; July 9, 1969, Pub. L. 91–41, §3, 83 Stat. 45; Dec. 28, 1971, Pub. L. 92–223, §3(a)(8), (9), 85 Stat. 805; Oct. 20, 1972, Pub. L. 92–512, title III, §301(b)–(d), 86 Stat. 946, 947; Oct. 30, 1972, Pub. L. 92–603, title II, §§299E(d), 299F, 86 Stat. 1462, 1463; Jan. 4, 1975, Pub. L. 93–647, §§3(a)(3), (4), (e)(2), 5(b), 101(c)(6)(A), 88 Stat. 2348–2350, 2360; Aug. 9, 1975, Pub. L. 94–88, title II, §204, 89 Stat. 435; Nov. 12, 1977, Pub. L. 95–171, §3(a)(1), 91 Stat. 1354; Dec. 20, 1977, Pub. L. 95–216, title IV, §§401, 402(a), 91 Stat. 1559, 1560; June 9, 1980, Pub. L. 96–265, title IV, §§401(g), (h), 406(a),407(c), 94 Stat. 462, 465, 467; Aug. 13, 1981, Pub. L. 97–35, title XXI, §§2181(a)(1), 2184(b)(1), title XXIII, §§2307(b), 2315(b), 2317(a), 2319(a)–(c), 2353(b)(1), (d), 95 Stat. 815, 817, 848, 855–857, 872; Sept. 3, 1982, Pub. L. 97–248, title I, §§154(b), 156(a)–(c), 157(a), 96 Stat. 397–399; July 18, 1984, Pub. L. 98–369, div. B, title VI, §2663(c)(2), (j)(2)(B)(i), (3)(B)(i), 98 Stat. 1166, 1170, 1171; Aug. 16, 1984, Pub. L. 98–378, §9(b), 98 Stat. 1316; Nov. 6, 1986, Pub. L. 99–603, title I, §121(b)(1), 100 Stat. 3390; Dec. 22, 1987, Pub. L. 100–203, title IX, §9102(c), 101 Stat. 1330–300; Oct. 13, 1988, Pub. L. 100–485, title II, §§201(c), (d), 202(b)(4)–(6), 204(b)(2), title III, §§302(b)(2), 304(b)(2), title VI, §§601(c)(1), 606, 609(a), 102 Stat. 2372, 2377, 2381, 2384, 2393, 2407, 2410, 2424; Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(b), 103 Stat. 2460; Nov. 5, 1990, Pub. L. 101–508, title V, §5081(b), 104 Stat. 1388–235; Aug. 10, 1993, Pub. L. 103–66, title XIII, §13741(a), 107 Stat. 663; July 27, 1995, Pub. L. 104–19, title I, 109 Stat. 215; Apr. 26, 1996, Pub. L. 104–134, title III, 110 Stat. 1321–355; Aug. 22, 1996, Pub. L. 104–193, title I, §103(c)(2)(B), 110 Stat. 2161; June 12, 1997, Pub. L. 105–18, title II, 111 Stat. 204, related to payments to States with approved plans for aid and services to needy families with children, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620, effective July 1, 1997.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(2). Pub. L. 112–275 substituted “for fiscal years 2013 and 2014 such sums as are necessary for payment to the Fund in a total amount not to exceed $612,000,000 for each fiscal year, of which $2,000,000 shall be reserved for carrying out the activities of the commission established by the Protect our Kids Act of 2012 to reduce fatalities resulting from child abuse and neglect.” for “for fiscal years 2011 and 2012 such sums as are necessary for payment to the Fund in a total amount not to exceed, in the case of fiscal year 2011, such sums as are necessary for amounts obligated on or after October 1, 2010, and before December 8, 2010, and in the case of fiscal year 2012, $612,000,000.”
+<b>2013</b>—Subsec. (b)(2). Pub. L. 112–275 substituted "for fiscal years 2013 and 2014 such sums as are necessary for payment to the Fund in a total amount not to exceed $612,000,000 for each fiscal year, of which $2,000,000 shall be reserved for carrying out the activities of the commission established by the Protect our Kids Act of 2012 to reduce fatalities resulting from child abuse and neglect." for "for fiscal years 2011 and 2012 such sums as are necessary for payment to the Fund in a total amount not to exceed, in the case of fiscal year 2011, such sums as are necessary for amounts obligated on or after October 1, 2010, and before December 8, 2010, and in the case of fiscal year 2012, $612,000,000."
 
-<b>2012</b>—Subsec. (a)(1)(A). Pub. L. 112–96, §4002(a)(1), substituted “fiscal year 2012” for “each of fiscal years 1996, 1997, 1998, 1999, 2000, 2001, 2002, and 2003”.
+<b>2012</b>—Subsec. (a)(1)(A). Pub. L. 112–96, §4002(a)(1), substituted "fiscal year 2012" for "each of fiscal years 1996, 1997, 1998, 1999, 2000, 2001, 2002, and 2003".
 
-Subsec. (a)(1)(B). Pub. L. 112–96, §4002(a)(2), inserted “(as in effect just before February 22, 2012)” after “subparagraph (C) of this paragraph” and “(as so in effect)” after “State under this paragraph”.
+Subsec. (a)(1)(B). Pub. L. 112–96, §4002(a)(2), inserted "(as in effect just before February 22, 2012)" after "subparagraph (C) of this paragraph" and "(as so in effect)" after "State under this paragraph".
 
-Subsec. (a)(1)(C). Pub. L. 112–96, §4002(a)(3), substituted “2012” for “2003”.
+Subsec. (a)(1)(C). Pub. L. 112–96, §4002(a)(3), substituted "2012" for "2003".
 
-Subsec. (a)(2)(D). Pub. L. 112–96, §4002(b), substituted “2012” for “2011” in two places.
+Subsec. (a)(2)(D). Pub. L. 112–96, §4002(b), substituted "2012" for "2011" in two places.
 
-<b>2010</b>—Subsec. (a)(2)(A)(i). Pub. L. 111–291, §811(b)(1)(A), substituted “, (C), and (E)” for “and (C)”.
+<b>2010</b>—Subsec. (a)(2)(A)(i). Pub. L. 111–291, §811(b)(1)(A), substituted ", (C), and (E)" for "and (C)".
 
-Subsec. (a)(2)(A)(ii). Pub. L. 111–291, §811(b)(1)(B), inserted “(or, in the case of an entity seeking funding to carry out healthy marriage promotion activities and activities promoting responsible fatherhood, a combined application that contains assurances that the entity will carry out such activities under separate programs and shall not combine any funds awarded to carry out either such activities)” after “an application” in introductory provisions.
+Subsec. (a)(2)(A)(ii). Pub. L. 111–291, §811(b)(1)(B), inserted "(or, in the case of an entity seeking funding to carry out healthy marriage promotion activities and activities promoting responsible fatherhood, a combined application that contains assurances that the entity will carry out such activities under separate programs and shall not combine any funds awarded to carry out either such activities)" after "an application" in introductory provisions.
 
-Subsec. (a)(2)(A)(iii)(III). Pub. L. 111–291, §811(b)(1)(C), added subcl. (III) and struck out former subcl. (III) which read as follows: “Marriage education, marriage skills, and relationship skills programs, that may include parenting skills, financial management, conflict resolution, and job and career advancement, for non-married pregnant women and non-married expectant fathers.”
+Subsec. (a)(2)(A)(iii)(III). Pub. L. 111–291, §811(b)(1)(C), added subcl. (III) and struck out former subcl. (III) which read as follows: "Marriage education, marriage skills, and relationship skills programs, that may include parenting skills, financial management, conflict resolution, and job and career advancement, for non-married pregnant women and non-married expectant fathers."
 
-Subsec. (a)(2)(C)(i). Pub. L. 111–291, §811(b)(2), substituted “$75,000,000” for “$50,000,000”.
+Subsec. (a)(2)(C)(i). Pub. L. 111–291, §811(b)(2), substituted "$75,000,000" for "$50,000,000".
 
-Subsec. (a)(2)(D), (E). Pub. L. 111–291, §811(b)(3), (4), added subpars. (D) and (E) and struck out former subpar. (D). Prior to amendment, text of subpar. (D) read as follows: “Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $150,000,000 for each of fiscal years 2006 through 2010, for expenditure in accordance with this paragraph.”
+Subsec. (a)(2)(D), (E). Pub. L. 111–291, §811(b)(3), (4), added subpars. (D) and (E) and struck out former subpar. (D). Prior to amendment, text of subpar. (D) read as follows: "Out of any money in the Treasury of the United States not otherwise appropriated, there are appropriated $150,000,000 for each of fiscal years 2006 through 2010, for expenditure in accordance with this paragraph."
 
-Subsec. (a)(3)(F). Pub. L. 111–291, §811(d)(1), inserted “(or portion of a fiscal year)” after “a fiscal year” and inserted “(or portion of the fiscal year)” after “the fiscal year” in two places.
+Subsec. (a)(3)(F). Pub. L. 111–291, §811(d)(1), inserted "(or portion of a fiscal year)" after "a fiscal year" and inserted "(or portion of the fiscal year)" after "the fiscal year" in two places.
 
-Subsec. (a)(3)(H)(ii). Pub. L. 111–291, §811(d)(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “subparagraph (G) shall be applied as if ‘the date specified in section 106(3) of the Continuing Appropriations Act, 2011’ were substituted for ‘fiscal year 2001’; and”.
+Subsec. (a)(3)(H)(ii). Pub. L. 111–291, §811(d)(2), added cl. (ii) and struck out former cl. (ii) which read as follows: "subparagraph (G) shall be applied as if 'the date specified in section 106(3) of the Continuing Appropriations Act, 2011' were substituted for 'fiscal year 2001'; and".
 
-Pub. L. 111–242, §131(b)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “subparagraph (G) shall be applied as if ‘fiscal year 2010’ were substituted for ‘fiscal year 2001’; and”.
+Pub. L. 111–242, §131(b)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "subparagraph (G) shall be applied as if 'fiscal year 2010' were substituted for 'fiscal year 2001'; and".
 
-Subsec. (b)(2). Pub. L. 111–291, §811(c), substituted “such sums as are necessary for amounts obligated on or after October 1, 2010, and before December 8, 2010,” for “$506,000,000” and struck out “, reduced by the sum of the dollar amounts specified in paragraph (6)(C)(ii)” before period at end.
+Subsec. (b)(2). Pub. L. 111–291, §811(c), substituted "such sums as are necessary for amounts obligated on or after October 1, 2010, and before December 8, 2010," for "$506,000,000" and struck out ", reduced by the sum of the dollar amounts specified in paragraph (6)(C)(ii)" before period at end.
 
-Pub. L. 111–242, §131(b)(2)(A), substituted “fiscal years 2011 and 2012” for “fiscal years 1997, 1998, 1999, 2000, 2001, 2002, and 2003” and “, in the case of fiscal year 2011, $506,000,000 and in the case of fiscal year 2012, $612,000,000” for “$2,000,000,000”.
+Pub. L. 111–242, §131(b)(2)(A), substituted "fiscal years 2011 and 2012" for "fiscal years 1997, 1998, 1999, 2000, 2001, 2002, and 2003" and ", in the case of fiscal year 2011, $506,000,000 and in the case of fiscal year 2012, $612,000,000" for "$2,000,000,000".
 
-Subsec. (b)(3)(C)(ii). Pub. L. 111–242, §131(b)(2)(B), substituted “fiscal year 2011 and 2012, respectively, shall not exceed the total amount appropriated pursuant to paragraph (2) for each such fiscal year” for “fiscal years 1997 through 2010 shall not exceed the total amount appropriated pursuant to paragraph (2)”.
+Subsec. (b)(3)(C)(ii). Pub. L. 111–242, §131(b)(2)(B), substituted "fiscal year 2011 and 2012, respectively, shall not exceed the total amount appropriated pursuant to paragraph (2) for each such fiscal year" for "fiscal years 1997 through 2010 shall not exceed the total amount appropriated pursuant to paragraph (2)".
 
-<b>2009</b>—Subsec. (a)(3)(H)(ii). Pub. L. 111–5, §2102(b), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “subparagraph (G) shall be applied as if ‘fiscal year 2009’ were substituted for ‘fiscal year 2001’; and”.
+<b>2009</b>—Subsec. (a)(3)(H)(ii). Pub. L. 111–5, §2102(b), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "subparagraph (G) shall be applied as if 'fiscal year 2009' were substituted for 'fiscal year 2001'; and".
 
 Subsec. (c). Pub. L. 111–5, §2101(a)(2), struck out subsec. (c) which related to the Emergency Contingency Fund for State TANF Programs.
 
 Pub. L. 111–5, §2101(a)(1), added subsec. (c).
 
-<b>2008</b>—Subsec. (a)(3)(H)(ii). Pub. L. 110–275 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “subparagraph (G) shall be applied as if ‘fiscal year 2008’ were substituted for ‘fiscal year 2001’; and”.
+<b>2008</b>—Subsec. (a)(3)(H)(ii). Pub. L. 110–275 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "subparagraph (G) shall be applied as if 'fiscal year 2008' were substituted for 'fiscal year 2001'; and".
 
-Subsec. (a)(5)(C)(iii)(II)(dd). Pub. L. 110–246, §4002(b)(1)(B), (2)(V), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+Subsec. (a)(5)(C)(iii)(II)(dd). Pub. L. 110–246, §4002(b)(1)(B), (2)(V), substituted "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
-Subsec. (b)(5)(B). Pub. L. 110–246, §4002(b)(1)(A), (2)(V), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+Subsec. (b)(5)(B). Pub. L. 110–246, §4002(b)(1)(A), (2)(V), substituted "supplemental nutrition assistance program" for "food stamp program" wherever appearing.
 
-<b>2006</b>—Subsec. (a)(2). Pub. L. 109–171, §7103(a), amended heading and text of par. (2) generally. Prior to amendment, text related to bonus grant to reward decrease in illegitimacy ratio and defined for purposes of par. (2) terms “eligible State”, “bonus year”, and “illegitimacy ratio”.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–171, §7103(a), amended heading and text of par. (2) generally. Prior to amendment, text related to bonus grant to reward decrease in illegitimacy ratio and defined for purposes of par. (2) terms "eligible State", "bonus year", and "illegitimacy ratio".
 
-Subsec. (a)(3)(H)(ii). Pub. L. 109–171, §7101(b)(1), which directed substitution of “fiscal year 2008” for “December, 31, 2005”, was executed by making the substitution for “December 31, 2005” to reflect the probable intent of Congress.
+Subsec. (a)(3)(H)(ii). Pub. L. 109–171, §7101(b)(1), which directed substitution of "fiscal year 2008" for "December, 31, 2005", was executed by making the substitution for "December 31, 2005" to reflect the probable intent of Congress.
 
-Subsec. (b)(3)(C)(ii). Pub. L. 109–171, §7101(b)(2), substituted “2010” for “2006”.
+Subsec. (b)(3)(C)(ii). Pub. L. 109–171, §7101(b)(2), substituted "2010" for "2006".
 
-<b>2005</b>—Subsec. (a)(3)(H)(ii). Pub. L. 109–161, which directed substitution of “March 31, 2006” for “December 31, 2005”, could not be executed due to amendment by Pub. L. 109–171, §7101(b)(1). See 2006 Amendment note above and Effective Date of 2006 Amendment note below.
+<b>2005</b>—Subsec. (a)(3)(H)(ii). Pub. L. 109–161, which directed substitution of "March 31, 2006" for "December 31, 2005", could not be executed due to amendment by Pub. L. 109–171, §7101(b)(1). See 2006 Amendment note above and Effective Date of 2006 Amendment note below.
 
-Pub. L. 109–68, §2(b)(2)(A), substituted “December 31” for “September 30”.
+Pub. L. 109–68, §2(b)(2)(A), substituted "December 31" for "September 30".
 
-Pub. L. 109–19 substituted “September 30” for “June 30”.
+Pub. L. 109–19 substituted "September 30" for "June 30".
 
-Pub. L. 109–4 substituted “June 30” for “March 31”.
+Pub. L. 109–4 substituted "June 30" for "March 31".
 
-Subsec. (b)(3)(C)(ii). Pub. L. 109–68, §2(b)(2)(B), substituted “2006” for “2005”.
+Subsec. (b)(3)(C)(ii). Pub. L. 109–68, §2(b)(2)(B), substituted "2006" for "2005".
 
-<b>2004</b>—Subsec. (a)(3)(H)(ii). Pub. L. 108–308, §2(b)(1), substituted “March 31, 2005” for “September 30, 2004”.
+<b>2004</b>—Subsec. (a)(3)(H)(ii). Pub. L. 108–308, §2(b)(1), substituted "March 31, 2005" for "September 30, 2004".
 
-Pub. L. 108–262 substituted “September 30” for “June 30”.
+Pub. L. 108–262 substituted "September 30" for "June 30".
 
-Pub. L. 108–210 substituted “June 30” for “March 31”.
+Pub. L. 108–210 substituted "June 30" for "March 31".
 
-Subsec. (b)(3)(C)(ii). Pub. L. 108–308, §2(b)(2), substituted “2005” for “2004”.
+Subsec. (b)(3)(C)(ii). Pub. L. 108–308, §2(b)(2), substituted "2005" for "2004".
 
-<b>2003</b>—Subsec. (a)(1)(A). Pub. L. 108–40, §3(a)(1), substituted “2002, and 2003” for “and 2002”.
+<b>2003</b>—Subsec. (a)(1)(A). Pub. L. 108–40, §3(a)(1), substituted "2002, and 2003" for "and 2002".
 
-Subsec. (a)(1)(B) to (E). Pub. L. 108–40, §3(a)(2), added subpars. (B) and (C) and struck out former subpars. (B) to (E) which related to, in subpar. (B), definition of “State family assistance grant”, in subpar. (C), definition of “total amount required to be paid to the State under former section 603 of this title”, in subpar. (D), information to be used in determining amounts of grants for fiscal years 1992 to 1995, and, in subpar. (E), appropriations for fiscal years 1996 to 2002.
+Subsec. (a)(1)(B) to (E). Pub. L. 108–40, §3(a)(2), added subpars. (B) and (C) and struck out former subpars. (B) to (E) which related to, in subpar. (B), definition of "State family assistance grant", in subpar. (C), definition of "total amount required to be paid to the State under former section 603 of this title", in subpar. (D), information to be used in determining amounts of grants for fiscal years 1992 to 1995, and, in subpar. (E), appropriations for fiscal years 1996 to 2002.
 
-Subsec. (a)(2)(C)(ii). Pub. L. 108–40, §3(c)(1), substituted “2002, and 2003” for “and 2002”.
+Subsec. (a)(2)(C)(ii). Pub. L. 108–40, §3(c)(1), substituted "2002, and 2003" for "and 2002".
 
-Subsec. (a)(2)(D). Pub. L. 108–40, §3(c)(2), substituted “2003” for “2002”.
+Subsec. (a)(2)(D). Pub. L. 108–40, §3(c)(2), substituted "2003" for "2002".
 
-Subsec. (a)(3)(H). Pub. L. 108–40, §3(d)(1), and Pub. L. 108–89, §101(b)(1)(A), amended subpar. identically, striking out “of grants for fiscal year 2002” after “Reauthorization” in heading.
+Subsec. (a)(3)(H). Pub. L. 108–40, §3(d)(1), and Pub. L. 108–89, §101(b)(1)(A), amended subpar. identically, striking out "of grants for fiscal year 2002" after "Reauthorization" in heading.
 
-Subsec. (a)(3)(H)(i). Pub. L. 108–40, §3(d)(2), substituted “each of fiscal years 2002 and 2003” for “fiscal year 2002”.
+Subsec. (a)(3)(H)(i). Pub. L. 108–40, §3(d)(2), substituted "each of fiscal years 2002 and 2003" for "fiscal year 2002".
 
-Subsec. (a)(3)(H)(ii). Pub. L. 108–89, §101(b)(1)(B), substituted “March 31, 2004” for “2003” and “fiscal year 2001” for “2001”.
+Subsec. (a)(3)(H)(ii). Pub. L. 108–89, §101(b)(1)(B), substituted "March 31, 2004" for "2003" and "fiscal year 2001" for "2001".
 
-Pub. L. 108–40, §3(d)(3), substituted “2003” for “2002”.
+Pub. L. 108–40, §3(d)(3), substituted "2003" for "2002".
 
-Subsec. (a)(3)(H)(iii). Pub. L. 108–40, §3(d)(4), substituted “each of fiscal years 2002 and 2003” for “fiscal year 2002”.
+Subsec. (a)(3)(H)(iii). Pub. L. 108–40, §3(d)(4), substituted "each of fiscal years 2002 and 2003" for "fiscal year 2002".
 
-Subsec. (b)(2). Pub. L. 108–40, §3(e)(1), substituted “2002, and 2003” for “and 2002”.
+Subsec. (b)(2). Pub. L. 108–40, §3(e)(1), substituted "2002, and 2003" for "and 2002".
 
-Subsec. (b)(3)(C)(ii). Pub. L. 108–89, §101(b)(2), substituted “2004” for “2003”.
+Subsec. (b)(3)(C)(ii). Pub. L. 108–89, §101(b)(2), substituted "2004" for "2003".
 
-Pub. L. 108–40, §3(e)(2), substituted “2003” for “2002”.
+Pub. L. 108–40, §3(e)(2), substituted "2003" for "2002".
 
 <b>2002</b>—Subsec. (a)(3)(H). Pub. L. 107–147, §616, added subpar. (H).
 
-Subsec. (b)(2). Pub. L. 107–147, §617(1), substituted “2001, and 2002” for “and 2001”.
+Subsec. (b)(2). Pub. L. 107–147, §617(1), substituted "2001, and 2002" for "and 2001".
 
-Subsec. (b)(3)(C)(ii). Pub. L. 107–147, §617(2), substituted “2002” for “2001”.
+Subsec. (b)(3)(C)(ii). Pub. L. 107–147, §617(2), substituted "2002" for "2001".
 
-<b>2000</b>—Subsec. (a)(5)(A)(i). Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(1)\], substituted “subparagraph (H)” for “subparagraph (I)” in introductory provisions.
+<b>2000</b>—Subsec. (a)(5)(A)(i). Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(1)\], substituted "subparagraph (H)" for "subparagraph (I)" in introductory provisions.
 
-Subsec. (a)(5)(A)(iv)(I)(aa). Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(2)(A)\], substituted “(H)” for “(I)” and “and (G)” for “(G), and (H)”.
+Subsec. (a)(5)(A)(iv)(I)(aa). Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(2)(A)\], substituted "(H)" for "(I)" and "and (G)" for "(G), and (H)".
 
-Subsec. (a)(5)(A)(iv)(I)(bb). Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(2)(B)\], substituted “subparagraph (E)” for “subparagraph (F)”.
+Subsec. (a)(5)(A)(iv)(I)(bb). Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(2)(B)\], substituted "subparagraph (E)" for "subparagraph (F)".
 
-Subsec. (a)(5)(B)(v). Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(3)\], substituted “subparagraph (H)” for “subparagraph (I) ” in introductory provisions.
+Subsec. (a)(5)(B)(v). Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(3)\], substituted "subparagraph (H)" for "subparagraph (I) " in introductory provisions.
 
-Subsec. (a)(5)(B)(v)(I)(aa). Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(2)(A)\], substituted “(H)” for “(I)” and “and (G)” for “(G), and (H)”.
+Subsec. (a)(5)(B)(v)(I)(aa). Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(2)(A)\], substituted "(H)" for "(I)" and "and (G)" for "(G), and (H)".
 
-Subsec. (a)(5)(B)(v)(I)(bb). Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(2)(B)\], substituted “subparagraph (E)” for “subparagraph (F)”.
+Subsec. (a)(5)(B)(v)(I)(bb). Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(2)(B)\], substituted "subparagraph (E)" for "subparagraph (F)".
 
-Subsec. (a)(5)(C)(viii). Pub. L. 106–554, §1(a)(1) \[title I, §103)\], substituted “5 years” for “3 years”.
+Subsec. (a)(5)(C)(viii). Pub. L. 106–554, §1(a)(1) \[title I, §103)\], substituted "5 years" for "3 years".
 
-Subsec. (a)(5)(E). Pub. L. 106–554, §1(a)(1) \[title I, §107(a), (b)(4)\], redesignated subpar. (F) as (E), substituted “subparagraph (H)” for “subparagraph (I)”, and struck out former subpar. (E), which established a set-aside for successful performance bonuses.
+Subsec. (a)(5)(E). Pub. L. 106–554, §1(a)(1) \[title I, §107(a), (b)(4)\], redesignated subpar. (F) as (E), substituted "subparagraph (H)" for "subparagraph (I)", and struck out former subpar. (E), which established a set-aside for successful performance bonuses.
 
-Subsec. (a)(5)(F). Pub. L. 106–554, §1(a)(1) \[title I, §107(a), (b)(4)\], redesignated subpar. (G) as (F) and substituted “subparagraph (H)” for “subparagraph (I)”. Former subpar. (F) redesignated (E).
+Subsec. (a)(5)(F). Pub. L. 106–554, §1(a)(1) \[title I, §107(a), (b)(4)\], redesignated subpar. (G) as (F) and substituted "subparagraph (H)" for "subparagraph (I)". Former subpar. (F) redesignated (E).
 
-Pub. L. 106–246, §2402(1), substituted “$15,000,000” for “$1,500,000”.
+Pub. L. 106–246, §2402(1), substituted "$15,000,000" for "$1,500,000".
 
-Subsec. (a)(5)(G). Pub. L. 106–554, §1(a)(1) \[title V, §513\], which directed the amendment of subpar. (H) by substituting “2005” for “2001” in cl. (iii) and adding cl. (iv), was executed by making amendments to subpar. (G), to reflect the probable intent of Congress and the redesignation of subpar. (H) as (G) by Pub. L. 106–554, §1(a)(1) \[title V, §107(a)\]. See below.
+Subsec. (a)(5)(G). Pub. L. 106–554, §1(a)(1) \[title V, §513\], which directed the amendment of subpar. (H) by substituting "2005" for "2001" in cl. (iii) and adding cl. (iv), was executed by making amendments to subpar. (G), to reflect the probable intent of Congress and the redesignation of subpar. (H) as (G) by Pub. L. 106–554, §1(a)(1) \[title V, §107(a)\]. See below.
 
-Pub. L. 106–554, §1(a)(1) \[title I, §107(a), (b)(4)\], redesignated subpar. (H) as (G) and substituted “subparagraph (H)” for “subparagraph (I)” in cl. (i). Former subpar. (G) redesignated (F).
+Pub. L. 106–554, §1(a)(1) \[title I, §107(a), (b)(4)\], redesignated subpar. (H) as (G) and substituted "subparagraph (H)" for "subparagraph (I)" in cl. (i). Former subpar. (G) redesignated (F).
 
-Pub. L. 106–246, §2402(2), substituted “$9,000,000” for “$900,000”.
+Pub. L. 106–246, §2402(2), substituted "$9,000,000" for "$900,000".
 
-Subsec. (a)(5)(H). Pub. L. 106–554, §1(a)(1) \[title I, §107(a), (c)\], redesignated subpar. (I) as (H) and substituted “$1,400,000,000” for “$1,450,000,000” in cl. (i)(II). Former subpar. (H) redesignated (G).
+Subsec. (a)(5)(H). Pub. L. 106–554, §1(a)(1) \[title I, §107(a), (c)\], redesignated subpar. (I) as (H) and substituted "$1,400,000,000" for "$1,450,000,000" in cl. (i)(II). Former subpar. (H) redesignated (G).
 
-Pub. L. 106–246, §2402(3), substituted “$3,000,000” for “$300,000” in cl. (i).
+Pub. L. 106–246, §2402(3), substituted "$3,000,000" for "$300,000" in cl. (i).
 
 Subsec. (a)(5)(I) to (K). Pub. L. 106–554, §1(a)(1) \[title I, §107(a)\], redesignated subpars. (J) and (K) as (I) and (J), respectively. Former subpar. (I) redesignated (H).
 
 <b>1999</b>—Subsec. (a)(5)(A)(ii)(I)(ff). Pub. L. 106–113, §1000(a)(4) \[title VIII, §805(b)\], added item (ff).
 
-Subsec. (a)(5)(C)(i)(IV). Pub. L. 106–113, §1000(a)(4) \[title VIII, §803\], inserted before period at end “, or if the entity is not a private industry council or workforce investment board, the direct provision of such services”.
+Subsec. (a)(5)(C)(i)(IV). Pub. L. 106–113, §1000(a)(4) \[title VIII, §803\], inserted before period at end ", or if the entity is not a private industry council or workforce investment board, the direct provision of such services".
 
 Subsec. (a)(5)(C)(i)(VII). Pub. L. 106–113, §1000(a)(4) \[title VIII, §802\], added subcl. (VII).
 
@@ -970,11 +970,11 @@ Subsec. (a)(5)(C)(ii). Pub. L. 106–113, §1000(a)(4) \[title VIII, §801(a)\],
 
 Subsec. (a)(5)(C)(iii). Pub. L. 106–113, §1000(a)(4) \[title VIII, §801(b)(1)(B)\], added cl. (iii). Former cl. (iii) redesignated (iv).
 
-Subsec. (a)(5)(C)(iv). Pub. L. 106–113, §1000(a)(4) \[title VIII, §801(c)\], inserted “hard to employ” before “individuals” in heading, substituted “clauses (ii) and (iii) and, as appropriate, clause (v)” for “clause (ii)” before period at end of concluding provisions, added subcls. (II) to (IV), and struck out former subcl. (II) which read as follows: “to individuals—
+Subsec. (a)(5)(C)(iv). Pub. L. 106–113, §1000(a)(4) \[title VIII, §801(c)\], inserted "hard to employ" before "individuals" in heading, substituted "clauses (ii) and (iii) and, as appropriate, clause (v)" for "clause (ii)" before period at end of concluding provisions, added subcls. (II) to (IV), and struck out former subcl. (II) which read as follows: "to individuals—
 
-&emsp;“(aa) who are noncustodial parents of minors whose custodial parent is such a recipient; and
+&emsp;"(aa) who are noncustodial parents of minors whose custodial parent is such a recipient; and
 
-&emsp;“(bb) who have such characteristics.”
+&emsp;"(bb) who have such characteristics."
 
 Pub. L. 106–113, §1000(a)(4) \[title VIII, §801(b)(1)(A)\], redesignated cl. (iii) as (iv). Former cl. (iv) redesignated (v).
 
@@ -982,79 +982,79 @@ Subsec. (a)(5)(C)(v) to (ix). Pub. L. 106–113, §1000(a)(4) \[title VIII, §80
 
 Subsec. (a)(5)(C)(x). Pub. L. 106–113, §1000(a)(4) \[title VIII, §804(b)\], added cl. (x).
 
-Subsec. (a)(5)(E)(i). Pub. L. 106–113, §1000(a)(4) \[title VIII, §806(c)\], substituted “award” for “make” and inserted “, but shall not make any outlay to pay any such grant before October 1, 2000” before period at end.
+Subsec. (a)(5)(E)(i). Pub. L. 106–113, §1000(a)(4) \[title VIII, §806(c)\], substituted "award" for "make" and inserted ", but shall not make any outlay to pay any such grant before October 1, 2000" before period at end.
 
-Subsec. (a)(5)(E)(iv)(I)(bb), (vi). Pub. L. 106–113, §1000(a)(4) \[title VIII, §806(a)\], substituted “$50,000,000” for “$100,000,000”.
+Subsec. (a)(5)(E)(iv)(I)(bb), (vi). Pub. L. 106–113, §1000(a)(4) \[title VIII, §806(a)\], substituted "$50,000,000" for "$100,000,000".
 
-Subsec. (a)(5)(F). Pub. L. 106–113, §1000(a)(4) \[title VIII, §806(b)(1)\], inserted “$1,500,000” before “of the amount so specified for fiscal year 1999”.
+Subsec. (a)(5)(F). Pub. L. 106–113, §1000(a)(4) \[title VIII, §806(b)(1)\], inserted "$1,500,000" before "of the amount so specified for fiscal year 1999".
 
-Subsec. (a)(5)(G). Pub. L. 106–113, §1000(a)(4) \[title VIII, §806(b)(2)\], inserted “$900,000” before “of the amount so specified for fiscal year 1999”.
+Subsec. (a)(5)(G). Pub. L. 106–113, §1000(a)(4) \[title VIII, §806(b)(2)\], inserted "$900,000" before "of the amount so specified for fiscal year 1999".
 
-Subsec. (a)(5)(H)(i). Pub. L. 106–113, §1000(a)(4) \[title VIII, §806(b)(3)\], inserted “$300,000” before “of the amount so specified for fiscal year 1999”.
+Subsec. (a)(5)(H)(i). Pub. L. 106–113, §1000(a)(4) \[title VIII, §806(b)(3)\], inserted "$300,000" before "of the amount so specified for fiscal year 1999".
 
-Subsec. (a)(5)(I)(i). Pub. L. 106–113, §1000(a)(4) \[title VIII, §806(b)(4)\], substituted “for grants under this paragraph—” and subcls. (I) and (II) for “$1,500,000,000 for each of fiscal years 1998 and 1999 for grants under this paragraph.”
+Subsec. (a)(5)(I)(i). Pub. L. 106–113, §1000(a)(4) \[title VIII, §806(b)(4)\], substituted "for grants under this paragraph—" and subcls. (I) and (II) for "$1,500,000,000 for each of fiscal years 1998 and 1999 for grants under this paragraph."
 
 Subsec. (a)(5)(K). Pub. L. 106–113, §1000(a)(4) \[title VIII, §805(a)(2)\], added subpar. (K).
 
-<b>1998</b>—Subsec. (a)(5)(A)(iv)(II). Pub. L. 105–306 substituted “, other than funds reserved by the State for distribution under clause (vi)(III) and funds distributed pursuant to clause (vi)(I) in any State in which the service delivery area is the State” for “or sub-State entity”.
+<b>1998</b>—Subsec. (a)(5)(A)(iv)(II). Pub. L. 105–306 substituted ", other than funds reserved by the State for distribution under clause (vi)(III) and funds distributed pursuant to clause (vi)(I) in any State in which the service delivery area is the State" for "or sub-State entity".
 
-Subsec. (a)(5)(A)(vii)(I). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(22)(A)\], struck out “described in section 103(c) of the Job Training Partnership Act or” before “defined in section 101 of the Workforce”.
+Subsec. (a)(5)(A)(vii)(I). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(22)(A)\], struck out "described in section103(c) of the Job Training Partnership Act or" before "defined in section 101 of the Workforce".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(30)(A)\], substituted “(as described in section 103(c) of the Job Training Partnership Act or defined in section 101 of the Workforce Investment Act of 1998)” for “(as described in section 103(c) of the Job Training Partnership Act)”.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(30)(A)\], substituted "(as described in section 103(c) of the Job Training Partnership Act or defined in section 101 of the Workforce Investment Act of 1998)" for "(as described in section 103(c) of the Job Training Partnership Act)".
 
 Subsec. (a)(5)(A)(ix). Pub. L. 105–277, §101(f) \[title I, §102\], added cl. (ix).
 
-Subsec. (a)(5)(C)(ii). Pub. L. 105–200, §408(1), struck out “of minors whose custodial parent is such a recipient” after “noncustodial parents” in introductory provisions.
+Subsec. (a)(5)(C)(ii). Pub. L. 105–200, §408(1), struck out "of minors whose custodial parent is such a recipient" after "noncustodial parents" in introductory provisions.
 
-Subsec. (a)(5)(C)(ii)(I). Pub. L. 105–200, §408(2), inserted “or the noncustodial parent” after “recipient” in introductory provisions.
+Subsec. (a)(5)(C)(ii)(I). Pub. L. 105–200, §408(2), inserted "or the noncustodial parent" after "recipient" in introductory provisions.
 
-Subsec. (a)(5)(C)(ii)(II). Pub. L. 105–200, §408(3), substituted “The recipient or the minor children of the noncustodial parent—” for “The individual—” in introductory provisions.
+Subsec. (a)(5)(C)(ii)(II). Pub. L. 105–200, §408(3), substituted "The recipient or the minor children of the noncustodial parent—" for "The individual—" in introductory provisions.
 
-Subsec. (a)(5)(D)(ii). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(22)(B)(i)\], struck out “the Job Training Partnership Act or” before “title I of the Workforce Investment”.
+Subsec. (a)(5)(D)(ii). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(22)(B)(i)\], struck out "the Job Training Partnership Act or" before "title I of the Workforce Investment".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(30)(B)(i)\], substituted “means, with respect to a service delivery area, the private industry council or local workforce investment board established for the service delivery area pursuant to the Job Training Partnership Act or title I of the Workforce Investment Area of 1998, as appropriate” for “means, with respect to a service delivery area, the private industry council (or successor entity) established for the service delivery area pursuant to the Job Training Partnership Act”.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(30)(B)(i)\], substituted "means, with respect to a service delivery area, the private industry council or local workforce investment board established for the service delivery area pursuant to the Job Training Partnership Act or title I of the Workforce Investment Area of 1998, as appropriate" for "means, with respect to a service delivery area, the private industry council (or successor entity) established for the service delivery area pursuant to the Job Training Partnership Act".
 
-Subsec. (a)(5)(D)(iii). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(22)(B)(ii)\], struck out before period at end “shall mean a local area as defined in section 101 of the Workforce Investment Act of 1998, as appropriate”.
+Subsec. (a)(5)(D)(iii). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(22)(B)(ii)\], struck out before period at end "shall mean a local area as defined in section 101 of the Workforce Investment Act of 1998, as appropriate".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(30)(B)(ii)\], substituted “shall have the meaning given such term for purposes of the Job Training Partnership Act or shall mean a local area as defined in section 101 of the Workforce Investment Act of 1998, as appropriate” for “shall have the meaning given such term (or the successor to such term) for purposes of the Job Training Partnership Act”.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(30)(B)(ii)\], substituted "shall have the meaning given such term for purposes of the Job Training Partnership Act or shall mean a local area as defined in section 101 of the Workforce Investment Act of 1998, as appropriate" for "shall have the meaning given such term (or the successor to such term) for purposes of the Job Training Partnership Act".
 
 <b>1997</b>—Pub. L. 105–33, §5514(c), made technical amendment to directory language of Pub. L. 104–193, §103(a)(1), which enacted this section.
 
-Subsec. (a)(2). Pub. L. 105–33, §5502(b)(1), inserted “ratio” after “illegitimacy” in heading.
+Subsec. (a)(2). Pub. L. 105–33, §5502(b)(1), inserted "ratio" after "illegitimacy" in heading.
 
-Subsec. (a)(2)(A). Pub. L. 105–33, §5502(b)(2), struck out “for which the State demonstrates a net decrease in out-of-wedlock births” after “bonus year”.
+Subsec. (a)(2)(A). Pub. L. 105–33, §5502(b)(2), struck out "for which the State demonstrates a net decrease in out-of-wedlock births" after "bonus year".
 
 Subsec. (a)(2)(B). Pub. L. 105–33, §5502(a)(1), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows:
 
-“(i)
+"(i)
 
 If 5 eligible States.—If there are 5 eligible States for a bonus year, the amount of the grant shall be $20,000,000.
 
-“(ii)
+"(ii)
 
-If fewer than 5 eligible States.—If there are fewer than 5 eligible States for a bonus year, the amount of the grant shall be $25,000,000.”
+If fewer than 5 eligible States.—If there are fewer than 5 eligible States for a bonus year, the amount of the grant shall be $25,000,000."
 
-Subsec. (a)(2)(C)(i)(I)(aa). Pub. L. 105–33, §5502(b)(3)(A)(i), substituted “illegitimacy ratio of the State for” for “number of out-of-wedlock births that occurred in the State during” and “illegitimacy ratio of the State for” for “number of such births that occurred during”.
+Subsec. (a)(2)(C)(i)(I)(aa). Pub. L. 105–33, §5502(b)(3)(A)(i), substituted "illegitimacy ratio of the State for" for "number of out-of-wedlock births that occurred in the State during" and "illegitimacy ratio of the State for" for "number of such births that occurred during".
 
-Pub. L. 105–33, §5502(a)(2), inserted at end “In the case of a State that is not a territory specified in subparagraph (B), the comparative magnitude of the decrease for the State shall be determined without regard to the magnitude of the corresponding decrease for any such territory.”
+Pub. L. 105–33, §5502(a)(2), inserted at end "In the case of a State that is not a territory specified in subparagraph (B), the comparative magnitude of the decrease for the State shall be determined without regard to the magnitude of the corresponding decrease for any such territory."
 
-Subsec. (a)(2)(C)(i)(I)(bb). Pub. L. 105–33, §5502(c)(1)(A), substituted “the calendar year for which the most recent data are available” for “the fiscal year” and “calendar year 1995” for “fiscal year 1995”.
+Subsec. (a)(2)(C)(i)(I)(bb). Pub. L. 105–33, §5502(c)(1)(A), substituted "the calendar year for which the most recent data are available" for "the fiscal year" and "calendar year 1995" for "fiscal year 1995".
 
-Subsec. (a)(2)(C)(i)(II). Pub. L. 105–33, §5502(c)(1)(B), substituted “calendar” for “fiscal” wherever appearing.
+Subsec. (a)(2)(C)(i)(II). Pub. L. 105–33, §5502(c)(1)(B), substituted "calendar" for "fiscal" wherever appearing.
 
-Subsec. (a)(2)(C)(i)(II)(aa). Pub. L. 105–33, §5502(b)(3)(A)(ii), substituted “illegitimacy ratio of” for “number of out-of-wedlock births that occurred in” in two places and “calculate the illegitimacy ratio” for “calculate the number of out-of-wedlock births”.
+Subsec. (a)(2)(C)(i)(II)(aa). Pub. L. 105–33, §5502(b)(3)(A)(ii), substituted "illegitimacy ratio of" for "number of out-of-wedlock births that occurred in" in two places and "calculate the illegitimacy ratio" for "calculate the number of out-of-wedlock births".
 
-Subsec. (a)(2)(C)(ii). Pub. L. 105–33, §5502(c)(2), substituted “calendar years” for “fiscal years”.
+Subsec. (a)(2)(C)(ii). Pub. L. 105–33, §5502(c)(2), substituted "calendar years" for "fiscal years".
 
 Subsec. (a)(2)(C)(iii). Pub. L. 105–33, §5502(b)(3)(B), added cl. (iii).
 
-Subsec. (a)(3)(C)(ii). Pub. L. 105–33, §5502(d), substituted “1998” for “1997” in heading.
+Subsec. (a)(3)(C)(ii). Pub. L. 105–33, §5502(d), substituted "1998" for "1997" in heading.
 
 Subsec. (a)(5). Pub. L. 105–33, §5001(a)(1), added par. (5).
 
-Subsec. (a)(5)(A)(i)(I), (ii)(II). Pub. L. 105–78 substituted “during the period permitted under subparagraph (C)(vii) of this paragraph for the expenditure of funds under the grant” for “during the fiscal year”.
+Subsec. (a)(5)(A)(i)(I), (ii)(II). Pub. L. 105–78 substituted "during the period permitted under subparagraph (C)(vii) of this paragraph for the expenditure of funds under the grant" for "during the fiscal year".
 
-Subsec. (b)(2). Pub. L. 105–89, §404(a), inserted “, reduced by the sum of the dollar amounts specified in paragraph (6)(C)(ii)” before period.
+Subsec. (b)(2). Pub. L. 105–89, §404(a), inserted ", reduced by the sum of the dollar amounts specified in paragraph (6)(C)(ii)" before period.
 
 Subsec. (b)(4), (5). Pub. L. 105–33, §5502(e)(2), redesignated pars. (5) and (6) as (4) and (5), respectively, and struck out former par. (4) which required each State to remit to the Secretary at the end of each fiscal year certain excess amounts paid to the State under par. (3) during the fiscal year.
 
@@ -1062,31 +1062,31 @@ Subsec. (b)(6). Pub. L. 105–33, §5502(e)(3), added par. (6).
 
 Pub. L. 105–33, §5502(e)(2), redesignated par. (6) as (5).
 
-Pub. L. 105–33, §5502(e)(1), substituted “paragraph (4)” for “paragraph (5)” in introductory provisions.
+Pub. L. 105–33, §5502(e)(1), substituted "paragraph (4)" for "paragraph (5)" in introductory provisions.
 
 Subsec. (b)(6)(C). Pub. L. 105–89, §404(b), added subpar. (C).
 
-Subsec. (b)(7). Pub. L. 105–33, §5502(f), amended heading and text of par. (7) generally. Prior to amendment, text read as follows: “As used in this subsection:
+Subsec. (b)(7). Pub. L. 105–33, §5502(f), amended heading and text of par. (7) generally. Prior to amendment, text read as follows: "As used in this subsection:
 
-&emsp;“(A)
+&emsp;"(A)
 
-State.—The term ‘State’ means each of the 50 States of the United States and the District of Columbia.
+State.—The term 'State' means each of the 50 States of the United States and the District of Columbia.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Secretary.—The term ‘Secretary’ means the Secretary of the Treasury.”
+Secretary.—The term 'Secretary' means the Secretary of the Treasury."
 
-<b>1996</b>—Subsec. (b)(4)(A)(i)(II). Pub. L. 104–327, §1(b)(1), struck out “minus any Federal payment with respect to such child care expenditures” after “for fiscal year 1994”.
+<b>1996</b>—Subsec. (b)(4)(A)(i)(II). Pub. L. 104–327, §1(b)(1), struck out "minus any Federal payment with respect to such child care expenditures" after "for fiscal year 1994".
 
-Subsec. (b)(4)(A)(ii)(I). Pub. L. 104–327, §1(b)(2), inserted “the sum of” before “the expenditures” and “, and any additional qualified State expenditures, as defined in section 609(a)(7)(B)(i) of this title, for child care assistance made under the Child Care and Development Block Grant Act of 1990” before “; exceeds”.
+Subsec. (b)(4)(A)(ii)(I). Pub. L. 104–327, §1(b)(2), inserted "the sum of" before "the expenditures" and ", and any additional qualified State expenditures, as defined in section 609(a)(7)(B)(i) of this title, for child care assistance made under the Child Care and Development Block Grant Act of 1990" before "; exceeds".
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–96, title IV, §4002(j), Feb. 22, 2012, 126 Stat. 195, provided that: “This section \[amending this section and sections 609, 612 to 614, 618, and 1308 of this title\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Feb. 22, 2012\].”
+Pub. L. 112–96, title IV, §4002(j), Feb. 22, 2012, 126 Stat. 195, provided that: "This section \[amending this section and sections 609, 612 to 614, 618, and 1308 of this title\] and the amendments made by this section shall take effect on the date of the enactment of this Act \[Feb. 22, 2012\]."
 
 #### Effective Date of 2009 Amendment; Savings Provision
 
-Pub. L. 111–5, div. B, title II, §2101(a)(2), Feb. 17, 2009, 123 Stat. 448, provided that: “Effective October 1, 2010, subsection (c) of section 403 of the Social Security Act (42 U.S.C. 603) (as added by paragraph (1)) is repealed, except that paragraph (9) of such subsection shall remain in effect until October 1, 2011, but only with respect to section 407(b)(3)(A)(i) of such Act \[42 U.S.C. 607(b)(3)(A)(i)\].”
+Pub. L. 111–5, div. B, title II, §2101(a)(2), Feb. 17, 2009, 123 Stat. 448, provided that: "Effective October 1, 2010, subsection (c) of section 403 of the Social Security Act (42 U.S.C. 603) (as added by paragraph (1)) is repealed, except that paragraph (9) of such subsection shall remain in effect until October 1, 2011, but only with respect to section 407(b)(3)(A)(i) of such Act \[42 U.S.C. 607(b)(3)(A)(i)\]."
 
 #### Effective Date of 2008 Amendment
 
@@ -1096,31 +1096,31 @@ Amendment by section 4002(b)(1)(A), (B), (2)(V) of Pub. L. 110–246 effective O
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–171, title VII, §7701, Feb. 8, 2006, 120 Stat. 155, provided that: “Except as otherwise provided in this title \[amending this section and sections 607, 608, 609, 611, 618, 622, 629f, 629h, 652, 653, 654, 655, 657, 664, 666, 671 to 673, 674, 1383, and 1383b of this title and section 6402 of Title 26, Internal Revenue Code, repealing section 1675c of Title 19, Customs Duties, enacting provisions set out as notes under sections 607, 608, 652, 654, 655, 657, 664, 666, and 1383 of this title and section 1675c of Title 19, and amending provisions set out as a note under section 1169 of Title 29, Labor\], this title and the amendments made by this title shall take effect as if enacted on October 1, 2005.”
+Pub. L. 109–171, title VII, §7701, Feb. 8, 2006, 120 Stat. 155, provided that: "Except as otherwise provided in this title \[amending this section and sections 607, 608, 609, 611, 618, 622, 629f, 629h, 652, 653, 654, 655, 657, 664, 666, 671 to 673, 674, 1383, and 1383b of this title and section 6402 of Title 26, Internal Revenue Code, repealing section 1675c of Title 19, Customs Duties, enacting provisions set out as notes under sections 607, 608, 652, 654, 655, 657, 664, 666, and 1383 of this title and section 1675c of Title 19, and amending provisions set out as a note under section 1169 of Title 29, Labor\], this title and the amendments made by this title shall take effect as if enacted on October 1, 2005."
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–40, §8, June 30, 2003, 117 Stat. 838, provided that: “The amendments made by this Act \[amending this section and sections 606, 609, 612, 614, 618, 710, 1308, 1320a–9, 1396a, and 1396r–6 of this title\] shall take effect on July 1, 2003.”
+Pub. L. 108–40, §8, June 30, 2003, 117 Stat. 838, provided that: "The amendments made by this Act \[amending this section and sections 606, 609, 612, 614, 618, 710, 1308, 1320a–9, 1396a, and 1396r–6 of this title\] shall take effect on July 1, 2003."
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(1) \[title I, §107(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–12, provided that: “The amendments made by subsections (a), (b), and (c) of this section \[amending this section and section 612 of this title\] shall take effect on October 1, 2000.”
+Pub. L. 106–554, §1(a)(1) \[title I, §107(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–12, provided that: "The amendments made by subsections (a), (b), and (c) of this section \[amending this section and section 612 of this title\] shall take effect on October 1, 2000."
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(e)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–283, provided that: “The amendments made by this section \[amending this section and sections 604 and 612 of this title\]—
+Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(e)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–283, provided that: "The amendments made by this section \[amending this section and sections 604 and 612 of this title\]—
 
-&emsp;“(1) shall be effective January 1, 2000, with respect to the determination of eligible individuals for purposes of section 403(a)(5)(B) of the Social Security Act \[subsec. (a)(5)(B) of this section\] (relating to competitive grants);
+&emsp;"(1) shall be effective January 1, 2000, with respect to the determination of eligible individuals for purposes of section 403(a)(5)(B) of the Social Security Act \[42 U.S.C. 603(a)(5)(B)\] (relating to competitive grants);
 
-&emsp;“(2) shall be effective July 1, 2000, except that expenditures from allotments to the States shall not be made before October 1, 2000—
+&emsp;"(2) shall be effective July 1, 2000, except that expenditures from allotments to the States shall not be made before October 1, 2000—
 
-&emsp;&emsp;“(A) with respect to the determination of eligible individuals for purposes of section 403(a)(5)(A) of the Social Security Act \[subsec. (a)(5)(A) of this section\] (relating to formula grants) in the case of those individuals who may be determined to be soeligible, but would not have been eligible before July 1, 2000; or
+&emsp;&emsp;"(A) with respect to the determination of eligible individuals for purposes of section 403(a)(5)(A) of the Social Security Act \[42 U.S.C. 603(a)(5)(A)\] (relating to formula grants) in the case of those individuals who may be determined to be so eligible, but would not have been eligible before July 1, 2000; or
 
-&emsp;&emsp;“(B) for allowable activities described in section 403(a)(5)(C)(i)(VII) of the Social Security Act \[subsec. (a)(5)(C)(i)(VII) of this section\] (as added by section 802 of this title) provided to any individuals determined to be eligible for purposes of section 403(a)(5)(A) of the Social Security Act (relating to formula grants).”
+&emsp;&emsp;"(B) for allowable activities described in section 403(a)(5)(C)(i)(VII) of the Social Security Act \[42 U.S.C. 603(a)(5)(C)(i)(VII)\] (as added by section 802 of this title) provided to any individuals determined to be eligible for purposes of section 403(a)(5)(A) of the Social Security Act (relating to formula grants)."
 
 #### Effective Date of 1998 Amendments
 
-Pub. L. 105–306, §6(b), Oct. 28, 1998, 112 Stat. 2928, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 5001 of the Balanced Budget Act of 1997 \[Pub. L. 105–33\].”
+Pub. L. 105–306, §6(b), Oct. 28, 1998, 112 Stat. 2928, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 5001 of the Balanced Budget Act of 1997 \[Pub. L. 105–33\]."
 
 Amendment by section 101(f) \[title VIII, §405(d)(30)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(22)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
@@ -1134,7 +1134,7 @@ Amendment by section 5514(c) of Pub. L. 105–33 effective as if included in the
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–327, §1(d), Oct. 19, 1996, 110 Stat. 4003, provided that: “The amendments made by this section \[amending this section and provisions set out as a note under section 601 of this title\] shall take effect as if included in the provisions of and the amendments made by the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\].”
+Pub. L. 104–327, §1(d), Oct. 19, 1996, 110 Stat. 4003, provided that: "The amendments made by this section \[amending this section and provisions set out as a note under section 601 of this title\] shall take effect as if included in the provisions of and the amendments made by the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 \[Pub. L. 104–193\]."
 
 #### Effective Date
 
@@ -1142,17 +1142,17 @@ Subsec. (a)(1)(C), (D) of this section effective Oct. 1, 1996, and remainder of 
 
 #### Regulations
 
-Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(f)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284, provided that: “Interim final regulations shall be prescribed to implement the amendments made by this section \[amending this section and sections 604 and 612 of this title\] not later than January 1, 2000. Final regulations shall be prescribed within 90 days after the date of the enactment of this Act \[Nov. 29, 1999\] to implement the amendments made by this Act to section 403(a)(5) of the Social Security Act \[subsec. (a)(5) of this section\], in the same manner as described in section 403(a)(5)(C)(ix) of the Social Security Act (as so redesignated by subsection (b)(1)(A) of this section).”
+Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(f)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–284, provided that: "Interim final regulations shall be prescribed to implement the amendments made by this section \[amending this section and sections 604 and 612 of this title\] not later than January 1, 2000. Final regulations shall be prescribed within 90 days after the date of the enactment of this Act \[Nov. 29, 1999\] to implement the amendments made by this Act to section 403(a)(5) of the Social Security Act \[42 U.S.C. 603(a)(5)\], in the same manner as described in section 403(a)(5)(C)(ix) of the Social Security Act (as so redesignated by subsection (b)(1)(A) of this section)."
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “entities”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "entities".</i>
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
 
 <i><sup>4</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be “Act”.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be "Act".</i>
 
 <i><sup>6</sup></i><i> So in original.</i>
 

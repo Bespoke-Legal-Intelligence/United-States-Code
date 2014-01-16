@@ -42,11 +42,11 @@ For purposes of this part—
 
 #### (2) Employer
 
-&emsp;In the case of a group health plan, the term “employer” also includes the partnership in relation to any partner.
+&emsp;In the case of a group health plan, the term "employer" also includes the partnership in relation to any partner.
 
 #### (3) Participants of group health plans
 
-&emsp;In the case of a group health plan, the term “participant” also includes—
+&emsp;In the case of a group health plan, the term "participant" also includes—
 
 &emsp;&emsp;(A) in connection with a group health plan maintained by a partnership, an individual who is a partner in relation to the partnership, or
 
@@ -58,7 +58,7 @@ For purposes of this part—
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–204, §603(b)(2), inserted “(other than section 1185 of this title)” after “part”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–204, §603(b)(2), inserted "(other than section 1185 of this title)" after "part".
 
 Subsecs. (b), (c)(1) to (3). Pub. L. 104–204, §603(b)(3)(I)–(L), made technical amendment to references in original act which appear in text as references to section 1191b of this title.
 

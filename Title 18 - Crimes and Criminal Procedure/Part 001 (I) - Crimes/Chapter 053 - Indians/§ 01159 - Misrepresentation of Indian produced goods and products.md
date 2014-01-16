@@ -28,11 +28,11 @@ Penalty.—Any person that knowingly violates subsection (a) shall—
 
 (c) As used in this section—
 
-&emsp;(1) the term “Indian” means any individual who is a member of an Indian tribe, or for the purposes of this section is certified as an Indian artisan by an Indian tribe;
+&emsp;(1) the term "Indian" means any individual who is a member of an Indian tribe, or for the purposes of this section is certified as an Indian artisan by an Indian tribe;
 
-&emsp;(2) the terms “Indian product” and “product of a particular Indian tribe or Indian arts and crafts organization” has the meaning given such term in regulations which may be promulgated by the Secretary of the Interior;
+&emsp;(2) the terms "Indian product" and "product of a particular Indian tribe or Indian arts and crafts organization" has the meaning given such term in regulations which may be promulgated by the Secretary of the Interior;
 
-&emsp;(3) the term “Indian tribe”—
+&emsp;(3) the term "Indian tribe"—
 
 &emsp;&emsp;(A) has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b); and
 
@@ -44,7 +44,7 @@ Penalty.—Any person that knowingly violates subsection (a) shall—
 
 &emsp;&emsp;&emsp;(iii) another similar organization vested with State legislative tribal recognition authority; and
 
-&emsp;(4) the term “Indian arts and crafts organization” means any legally established arts and crafts marketing organization composed of members of Indian tribes.
+&emsp;(4) the term "Indian arts and crafts organization" means any legally established arts and crafts marketing organization composed of members of Indian tribes.
 
 (d) In the event that any provision of this section is held invalid, it is the intent of Congress that the remaining provisions of this section shall continue in full force and effect.
 
@@ -64,23 +64,23 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–211, §103(1), added subsec. (b) and struck out former subsec. (b) which read as follows: “Whoever knowingly violates subsection (a) shall—
+<b>2010</b>—Subsec. (b). Pub. L. 111–211, §103(1), added subsec. (b) and struck out former subsec. (b) which read as follows: "Whoever knowingly violates subsection (a) shall—
 
-&emsp;“(1) in the case of a first violation, if an individual, be fined not more than $250,000 or imprisoned not more than five years, or both, and, if a person other than an individual, be fined not more than $1,000,000; and
+&emsp;"(1) in the case of a first violation, if an individual, be fined not more than $250,000 or imprisoned notmore than five years, or both, and, if a person other than an individual, be fined not more than $1,000,000; and
 
-&emsp;“(2) in the case of subsequent violations, if an individual, be fined not more than $1,000,000 or imprisoned not more than fifteen years, or both, and, if a person other than an individual, be fined not more than $5,000,000.”
+&emsp;"(2) in the case of subsequent violations, if an individual, be fined not more than $1,000,000 or imprisoned not more than fifteen years, or both, and, if a person other than an individual, be fined not more than $5,000,000."
 
-Subsec. (c)(3). Pub. L. 111–211, §103(2), added par. (3) and struck out former par. (3) which read as follows: “the term ‘Indian tribe’ means—
+Subsec. (c)(3). Pub. L. 111–211, §103(2), added par. (3) and struck out former par. (3) which read as follows: "the term 'Indian tribe' means—
 
-&emsp;“(A) any Indian tribe, band, nation, Alaska Native village, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or
+&emsp;"(A) any Indian tribe, band, nation, Alaska Native village, or other organized group or community which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians; or
 
-&emsp;“(B) any Indian group that has been formally recognized as an Indian tribe by a State legislature or by a State commission or similar organization legislatively vested with State tribal recognition authority; and”.
+&emsp;"(B) any Indian group that has been formally recognized as an Indian tribe by a State legislature or by a State commission or similar organization legislatively vested with State tribal recognition authority; and".
 
-<b>1990</b>—Pub. L. 101–644 substituted “Misrepresentation of Indian produced goods and products” for “Misrepresentation in sale of products” in section catchline and amended text generally. Prior to amendment, text read as follows: “Whoever willfully offers or displays for sale any goods, with or without any Government trade mark, as Indian products or Indian products of a particular Indian tribe or group, resident within the United States or the Territory of Alaska, when such person knows such goods are not Indian products or are not Indian products of the particular Indian tribe or group, shall be fined not more than $500 or imprisoned not more than six months, or both.”
+<b>1990</b>—Pub. L. 101–644 substituted "Misrepresentation of Indian produced goods and products" for "Misrepresentation in sale of products" in section catchline and amended text generally. Prior to amendment, text read as follows: "Whoever willfully offers or displays for sale any goods, with or without any Government trade mark, as Indian products or Indian products of a particular Indian tribe or group, resident within the United States or the Territory of Alaska, when such person knows such goods are not Indian products or are not Indian products of the particular Indian tribe or group, shall be fined not more than $500 or imprisoned not more than six months, or both."
 
 #### Certification of Indian Artisans
 
-For purposes of this section, an Indian tribe may not impose fee to certify individual as Indian artisan, with “Indian tribe” having same meaning as in subsec. (c)(3) of this section, see section 107 of Pub. L. 101–644, set out as a note under section 305e of Title 25, Indians.
+For purposes of this section, an Indian tribe may not impose fee to certify individual as Indian artisan, with "Indian tribe" having same meaning as in subsec. (c)(3) of this section, see section 107 of Pub. L. 101–644, set out as a note under section 305e of Title 25, Indians.
 
 #### Admission of Alaska as State
 

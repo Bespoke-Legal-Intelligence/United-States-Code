@@ -6,7 +6,7 @@ A bank or savings association which violates a rule promulgated pursuant to this
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 struck out “and loan” after “savings”.
+<b>2010</b>—Pub. L. 111–203 struck out "and loan" after "savings".
 
 #### Effective Date of 2010 Amendment
 

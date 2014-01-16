@@ -8,7 +8,7 @@ Except as otherwise provided in this section, the Secretary may acquire, by dona
 
 #### (1) Contribution toward construction
 
-&emsp;The Secretary may enter into an agreement with the City of Natchez under which the Secretary agrees to pay not to exceed $3,000,000 toward the planning and construction by the City of Natchez of a structure to be partially used by the Secretary as an administrative headquarters, administrative site, and visitor center for Natchez National Historical Park.
+&emsp;The Secretary may enter into an agreement with the City of Natchez under which the Secretary agrees to pay not to exceed $3,000,000 toward the planning and construction by the City of Natchez of a structure to be partiallyused by the Secretary as an administrative headquarters, administrative site, and visitor center for Natchez National Historical Park.
 
 #### (2) Use for satisfaction of matching requirements
 
@@ -28,9 +28,9 @@ Except as otherwise provided in this section, the Secretary may acquire, by dona
 
 <b>2000</b>—Pub. L. 106–176, §127(b), made technical correction to directory language of Pub. L. 104–333. See 1996 Amendment note below.
 
-Subsec. (b)(1). Pub. L. 106–176, §127(a), substituted “and visitor center” for “and visitors’ center”.
+Subsec. (b)(1). Pub. L. 106–176, §127(a), substituted "and visitor center" for "and visitors' center".
 
 <b>1996</b>—Pub. L. 104–333, as amended by Pub. L. 106–176, §127(b), which directed amendment of section 3 of Act of October 8, 1988, by designating existing provisions as subsec. (a), inserting heading, and adding subsec. (b), was executed by making the amendment to this section to reflect the probable intent of Congress.
 
-<b>1990</b>—Pub. L. 101–399 substituted “referred to in paragraph (1), (2), or (3)” for “referred to in paragraph (1) or (2)” and inserted at end “The Secretary may not acquire the property referred to in paragraph (3) of section 410oo–1(b) of this title except by donation.”
+<b>1990</b>—Pub. L. 101–399 substituted "referred to in paragraph (1), (2), or (3)" for "referred to in paragraph (1) or (2)" and inserted at end "The Secretary may not acquire the property referred to in paragraph (3) of section 410oo–1(b) of this title except by donation."
 

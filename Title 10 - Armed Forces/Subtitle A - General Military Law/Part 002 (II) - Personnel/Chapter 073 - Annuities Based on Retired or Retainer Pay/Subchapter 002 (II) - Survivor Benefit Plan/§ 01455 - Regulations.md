@@ -66,11 +66,11 @@ Legal effect of payment to guardian or fiduciary.—An annuity paid to a person 
 
 <b>1985</b>—Pars. (1), (2). Pub. L. 99–145 amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) read as follows:
 
-“(1) provide that, when the notification referred to in section 1448(a) of this title is required, the member and his spouse shall, before the date the member becomes entitled to retired or retainer pay, be informed of the elections available and the effects of such elections; and
+"(1) provide that, when the notification referred to in section 1448(a) of this title is required, the member and his spouse shall, before the date the member becomes entitled to retired or retainer pay, be informed of the elections available and the effects of such elections; and
 
-“(2) establish procedures for depositing the amounts referred to in section 1452(d) of this title.”
+"(2) establish procedures for depositing the amounts referred to in section 1452(d) of this title."
 
 #### Effective Date of 1985 Amendment
 
-Amendment by title VII of Pub. L. 99–145 effective Mar. 1, 1986, with prohibition against accrual of benefits to any person by reason of the enactment of such title VII for any period before Mar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
+Amendment by title VII of Pub. L. 99–145 effective Mar. 1, 1986, with prohibition against accrual of benefits to any person by reason of the enactment of suchtitle VII for any period before Mar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
 

@@ -6,7 +6,7 @@ For purposes of this subchapter—
 
 #### (1) Taxable chemical
 
-&emsp;Except as provided in subsection (b), the term “taxable chemical” means any substance—
+&emsp;Except as provided in subsection (b), the term "taxable chemical" means any substance—
 
 &emsp;&emsp;(A) which is listed in the table under section 4661(b), and
 
@@ -14,15 +14,15 @@ For purposes of this subchapter—
 
 #### (2) United States
 
-&emsp;The term “United States” has the meaning given such term by section 4612(a)(4).
+&emsp;The term "United States" has the meaning given such term by section 4612(a)(4).
 
 #### (3) Importer
 
-&emsp;The term “importer” means the person entering the taxable chemical for consumption, use, or warehousing.
+&emsp;The term "importer" means the person entering the taxable chemical for consumption, use, or warehousing.
 
 #### (4) Ton
 
-&emsp;The term “ton” means 2,000 pounds. In the case of any taxable chemical which is a gas, the term “ton” means the amount of such gas in cubic feet which is the equivalent of 2,000 pounds on a molecular weight basis.
+&emsp;The term "ton" means 2,000 pounds. In the case of any taxable chemical which is a gas, the term "ton" means the amount of such gas in cubic feet which is the equivalent of 2,000 pounds on a molecular weight basis.
 
 #### (5) Fractional part of ton
 
@@ -34,7 +34,7 @@ For purposes of this subchapter—
 
 #### (1) Methane or butane used as a fuel
 
-&emsp;Under regulations prescribed by the Secretary, methane or butane shall be treated as a taxable chemical only if it is used otherwise than as a fuel or in the manufacture or production of any motor fuel, diesel fuel, aviation fuel, or jet fuel (and, for purposes of section 4661(a), the person so using it shall be treated as the manufacturer thereof).
+&emsp;Under regulations prescribed by the Secretary, methane or butane shall be treated as a taxable chemical only if it is used otherwise than as a fuel or in the manufacture or production of any motor fuel, diesel fuel, aviationfuel, or jet fuel (and, for purposes of section 4661(a), the person so using it shall be treated as the manufacturer thereof).
 
 #### (2) Substances used in the production of fertilizer
 
@@ -44,7 +44,7 @@ For purposes of this subchapter—
 
 #### (B) Qualified fertilizer substance
 
-&emsp;&emsp;For purposes of this section, the term “qualified fertilizer substance” means any substance—
+&emsp;&emsp;For purposes of this section, the term "qualified fertilizer substance" means any substance—
 
 &emsp;&emsp;&emsp;(i) used in a qualified fertilizer use by the manufacturer, producer, or importer,
 
@@ -54,7 +54,7 @@ For purposes of this subchapter—
 
 #### (C) Qualified fertilizer use
 
-&emsp;&emsp;The term “qualified fertilizer use” means any use in the manufacture or production of fertilizer or for direct application as a fertilizer.
+&emsp;&emsp;The term "qualified fertilizer use" means any use in the manufacture or production of fertilizer or for direct application as a fertilizer.
 
 #### (D) Taxation of nonqualified sale or use
 
@@ -66,7 +66,7 @@ For purposes of this subchapter—
 
 #### (4) Substances derived from coal
 
-&emsp;For purposes of this subchapter, the term “taxable chemical” shall not include any substance to the extent derived from coal.
+&emsp;For purposes of this subchapter, the term "taxable chemical" shall not include any substance to the extent derived from coal.
 
 #### (5) Substances used in the production of motor fuel, etc.
 
@@ -76,7 +76,7 @@ For purposes of this subchapter—
 
 #### (B) Qualified fuel substance
 
-&emsp;&emsp;For purposes of this section, the term “qualified fuel substance” means any substance—
+&emsp;&emsp;For purposes of this section, the term "qualified fuel substance" means any substance—
 
 &emsp;&emsp;&emsp;(i) used in a qualified fuel use by the manufacturer, producer, or importer,
 
@@ -86,7 +86,7 @@ For purposes of this subchapter—
 
 #### (C) Qualified fuel use
 
-&emsp;&emsp;For purposes of this subsection, the term “qualified fuel use” means—
+&emsp;&emsp;For purposes of this subsection, the term "qualified fuel use" means—
 
 &emsp;&emsp;&emsp;(i) any use in the manufacture or production of any motor fuel, diesel fuel, aviation fuel, or jet fuel, or
 
@@ -120,7 +120,7 @@ For purposes of this subchapter—
 
 #### (7) Special rule for xylene
 
-&emsp;Except in the case of any substance imported into the United States or exported from the United States, the term “xylene” does not include any separated isomer of xylene.
+&emsp;Except in the case of any substance imported into the United States or exported from the United States, the term "xylene" does not include any separated isomer of xylene.
 
 #### (8) Recycled chromium, cobalt, and nickel
 
@@ -150,7 +150,7 @@ For purposes of this subchapter—
 
 #### (E) Solid waste
 
-&emsp;&emsp;For purposes of this paragraph, the term “solid waste” has the meaning given such term by section 1004 of the Solid Waste Disposal Act, except that such term shall not include any byproduct, coproduct, or other waste from any process of smelting, refining, or otherwise extracting any metal.
+&emsp;&emsp;For purposes of this paragraph, the term "solid waste" has the meaning given such term by section 1004 of the Solid Waste Disposal Act, except that such term shall not include any byproduct, coproduct, or other waste from any process of smelting, refining, or otherwise extracting any metal.
 
 #### (9) Substances used in the production of animal feed
 
@@ -170,7 +170,7 @@ For purposes of this subchapter—
 
 #### (B) Qualified animal feed substance
 
-&emsp;&emsp;For purposes of this section, the term “qualified animal feed substance” means any substance—
+&emsp;&emsp;For purposes of this section, the term "qualified animal feed substance" means any substance—
 
 &emsp;&emsp;&emsp;(i) used in a qualified animal feed use by the manufacturer, producer, or importer,
 
@@ -180,11 +180,11 @@ For purposes of this subchapter—
 
 #### (C) Qualified animal feed use
 
-&emsp;&emsp;The term “qualified animal feed use” means any use in the manufacture or production of animal feed or animal feed supplements, or of ingredients used in animal feed or animal feed supplements.
+&emsp;&emsp;The term "qualified animal feed use" means any use in the manufacture or production of animal feed or animal feed supplements, or of ingredients used in animal feed or animal feed supplements.
 
 #### (D) Taxation of nonqualified sale or use
 
-&emsp;&emsp;For purposes of section 4661(a), if no tax was imposed by such section on the sale oruse of any chemical by reason of subparagraph (A), the 1st person who sells or uses such chemical other than in a sale or use described in subparagraph (A) shall be treated as the manufacturer of such chemical.
+&emsp;&emsp;For purposes of section 4661(a), if no tax was imposed by such section on the sale or use of any chemical by reason of subparagraph (A), the 1st person who sells or uses such chemical other than in a sale or use described in subparagraph (A) shall be treated as the manufacturer of such chemical.
 
 #### (10) Hydrocarbon streams containing mixtures of organic taxable chemicals
 
@@ -206,7 +206,7 @@ For purposes of this subchapter—
 
 #### (D) Organic taxable chemical
 
-&emsp;&emsp;For purposes of this paragraph, the term “organic taxable chemical” means any taxable chemical which is an organic substance.
+&emsp;&emsp;For purposes of this paragraph, the term "organic taxable chemical" means any taxable chemical which is an organic substance.
 
 #### (c) Use and certain exchanges by manufacturer, etc.
 
@@ -234,7 +234,7 @@ For purposes of this subchapter—
 
 #### (C) Inventory exchange
 
-&emsp;&emsp;For purposes of this paragraph, the term “inventory exchange” means any exchange in which 2 persons exchange property which is, in the hands of each person, property described in section 1221(a)(1).
+&emsp;&emsp;For purposes of this paragraph, the term "inventory exchange" means any exchange in which 2 persons exchange property which is, in the hands of each person, property described in section 1221(a)(1).
 
 #### (d) Refund or credit for certain uses
 
@@ -338,9 +338,9 @@ Section 106 of the Comprehensive Environmental Response, Compensation, and Liabi
 
 #### Amendments
 
-<b>1999</b>—Subsec. (c)(2)(C). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
+<b>1999</b>—Subsec. (c)(2)(C). Pub. L. 106–170 substituted "section 1221(a)(1)" for "section 1221(1)".
 
-<b>1988</b>—Subsec. (b)(10)(A). Pub. L. 100–647, §2001(a)(2), substituted “one or more” for “a mixture of”.
+<b>1988</b>—Subsec. (b)(10)(A). Pub. L. 100–647, §2001(a)(2), substituted "one or more" for "a mixture of".
 
 Subsec. (e)(3), (4). Pub. L. 100–647, §2001(a)(1), added par. (3) and redesignated former par. (3) as (4).
 
@@ -352,25 +352,25 @@ Subsec. (b)(9). Pub. L. 99–499, §513(e)(1), added par. (9).
 
 Subsec. (b)(10). Pub. L. 99–499, §513(g), added par. (10).
 
-Subsec. (c). Pub. L. 99–499, §513(f), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Except as provided in subsection (b), if any person manufactures, produces, or imports a taxable chemical and uses such chemical, then such person shall be liable for tax under section 4661 in the same manner as if such chemical were sold by such person.”
+Subsec. (c). Pub. L. 99–499, §513(f), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Except as provided in subsection (b), if any person manufactures, produces, or imports a taxable chemical and uses such chemical, then such person shall be liable for tax under section 4661 in the same manner as if such chemical were sold by such person."
 
-Subsec. (d)(1). Pub. L. 99–499, §513(b)(2), substituted “which is a taxable chemical” for “the sale of which by such person would be taxable under such section”, in subpar. (B), and substituted “imposed by such section on the other substance manufactured or produced (or which would have been imposed by such section on such other substance but for subsection (b) or (e) of this section)” for “imposed by such section on the other substance manufactured or produced” in last sentence.
+Subsec. (d)(1). Pub. L. 99–499, §513(b)(2), substituted "which is a taxable chemical" for "the sale of which by such person would be taxable under such section", in subpar. (B), and substituted "imposed by such section on the other substance manufactured or produced (or which would have been imposed by such section on such other substance but for subsection (b) or (e) of this section)" for "imposed by such section on the other substance manufactured or produced" in last sentence.
 
 Subsec. (d)(4). Pub. L. 99–499, §513(e)(2), added par. (4).
 
 Subsecs. (e), (f). Pub. L. 99–499, §513(b)(1), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §1019(a)(3), inserted “or in the manufacture or production of any motor fuel, diesel fuel, aviation fuel, or jet fuel”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–369, §1019(a)(3), inserted "or in the manufacture or production of any motor fuel, diesel fuel, aviation fuel, or jet fuel".
 
-Subsec. (b)(2)(A). Pub. L. 98–369, §1019(b)(2)(A), substituted “qualified fertilizer substance” for “qualified substance”.
+Subsec. (b)(2)(A). Pub. L. 98–369, §1019(b)(2)(A), substituted "qualified fertilizer substance" for "qualified substance".
 
-Subsec. (b)(2)(B) to (D). Pub. L. 98–369, §1019(b)(1), inserted “fertilizer” after “qualified” wherever appearing in subpar. (B), inserted “fertilizer” after “Qualified” in subpar. (C) heading and in text substituted “The term ‘qualified fertilizer use’ means any use in the manufacture or production of fertilizer or for direct application as a fertilizer” for “For purposes of this subsection, the term ‘qualified use’ means any use in the manufacture or production of a fertilizer”, and added subpar. (D).
+Subsec. (b)(2)(B) to (D). Pub. L. 98–369, §1019(b)(1), inserted "fertilizer" after "qualified" wherever appearing in subpar. (B), inserted "fertilizer" after "Qualified" in subpar. (C) heading and in text substituted "The term 'qualified fertilizer use' means any use in the manufacture or production of fertilizer or for direct application as a fertilizer" for "For purposes of this subsection, the term 'qualified use' means any use in the manufacture or production of a fertilizer", and added subpar. (D).
 
 Subsec. (b)(5), (6). Pub. L. 98–369, §1019(a)(1), added pars. (5) and (6).
 
-Subsec. (c). Pub. L. 98–369, §1019(c), substituted “Except as provided in subsection (b), if” for “If”.
+Subsec. (c). Pub. L. 98–369, §1019(c), substituted "Except as provided in subsection (b), if" for "If".
 
-Subsec. (d)(2)(B). Pub. L. 98–369, §1019(b)(2)(B), inserted “fertilizer” after “qualified” and struck out“, or sells such substance for use,” after “such substance”.
+Subsec. (d)(2)(B). Pub. L. 98–369, §1019(b)(2)(B), inserted "fertilizer" after "qualified" and struck out ", or sells such substance for use," after "such substance".
 
 Subsec. (d)(3). Pub. L. 98–369, §1019(a)(2), added par. (3).
 
@@ -390,11 +390,11 @@ Amendment by Pub. L. 99–499 effective Jan. 1, 1987, except as otherwise provid
 
 Pub. L. 98–369, div. A, title X, §1019(d), July 18, 1984, 98 Stat. 1024, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section\] shall take effect as if included in the amendments made by section 211(a) of the Hazardous Substance Response Revenue Act of 1980 \[Pub. L. 96–510, which enacted this section\].
 
-“(2)
+"(2)
 
-Waiver of limitation.—If refund or credit of any overpayment of tax resulting from the application of the amendments made by this section is prevented at any time before the date which for one year after the date of the enactment of this Act \[July 18, 1984\] by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of such amendments) may, nevertheless, be made or allowed if claim therefor is filed on or before the date which for one year after the date of the enactment of this Act.”
+Waiver of limitation.—If refund or credit of any overpayment of tax resulting from the application of the amendments made by this section is prevented at any time before the date which for one year after the date of the enactment of this Act \[July 18, 1984\] by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of such amendments) may, nevertheless, be made or allowed if claim therefor is filed on or before the date which for one year after the date of the enactment of this Act."
 

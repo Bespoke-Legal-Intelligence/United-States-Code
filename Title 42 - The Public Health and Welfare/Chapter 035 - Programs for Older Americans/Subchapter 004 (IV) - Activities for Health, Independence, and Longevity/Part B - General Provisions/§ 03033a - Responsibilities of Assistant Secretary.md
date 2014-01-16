@@ -110,7 +110,7 @@ Section 3035p, Pub. L. 89–73, title IV, §429H, as added Pub. L. 102–375, ti
 
 Section 3035q, Pub. L. 89–73, title IV, §429I, as added Pub. L. 102–375, title IV, §418, Sept. 30, 1992, 106 Stat. 1261; amended Pub. L. 103–171, §§2(18), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990, related to career preparation for the field of aging.
 
-Section 3035r, Pub. L. 89–73, title IV, §429J, as added Pub. L. 102–375, title IV, §419, Sept. 30, 1992, 106 Stat.1261; amended Pub. L. 103–171, §§2(19), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990, related to pension rights demonstration projects.
+Section 3035r, Pub. L. 89–73, title IV, §429J, as added Pub. L. 102–375, title IV, §419, Sept. 30, 1992, 106 Stat. 1261; amended Pub. L. 103–171, §§2(19), 3(a)(13), Dec. 2, 1993, 107 Stat. 1989, 1990, related to pension rights demonstration projects.
 
 A prior section 3036, Pub. L. 89–73, title IV, §441, formerly §421, as added Pub. L. 93–29, title IV, §401, May 3, 1973, 87 Stat. 48; renumbered and amended Pub. L. 95–478, title I, §104(c)(1)(B), (d), Oct. 18, 1978, 92 Stat. 1539, 1546, related to applications for grants for establishment or support of multidisciplinary centers of gerontology and gerontology centers of special emphasis, prior to the general amendment of this subchapter by Pub. L. 97–115.
 
@@ -126,5 +126,5 @@ Section 3037b, Pub. L. 89–73, title IV, §433, as added Pub. L. 98–459, titl
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c)(2)(B). Pub. L. 109–365 inserted before period at end “, including preparing an analysis of such services, projects, and programs, and of how the evaluation relates to improvements in such services, projects, and programs and in the strategic plan of the Administration”.
+<b>2006</b>—Subsec. (c)(2)(B). Pub. L. 109–365 inserted before period at end ", including preparing an analysis of such services, projects, and programs, and of how the evaluation relates to improvements in such services, projects, and programs and in the strategic plan of the Administration".
 

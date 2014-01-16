@@ -6,7 +6,7 @@
 
 In any case where the Secretary of Agriculture determines and reports to the President with regard to any article or articles that a condition exists requiring emergency treatment, the President may take immediate action under this section without awaiting the recommendations of the International Trade Commission, such action to continue in effect pending the report and recommendations of the International Trade Commission and action thereon by the President.
 
-(c) The fees and limitations imposed by the President by proclamation under this section and any revocation, suspension, or modification thereof, shall become effective on such date as shall be therein specified, and such fees shall be treated for administrative purposes and for the purposes of section 612c of this title, as duties imposed by the Tariff Act of 1930 \[19 U.S.C. 1202et seq.\], but such fees shall not be considered as duties for the purpose of granting any preferential concession under any international obligation of the United States.
+(c) The fees and limitations imposed by the President by proclamation under this section and any revocation, suspension, or modification thereof, shall become effective on such date as shall be therein specified, and such fees shall be treated for administrative purposes and for the purposes of section 612c of this title, as duties imposed by the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\], but such fees shall not be considered as duties for the purpose of granting any preferential concession under any international obligation of the United States.
 
 (d) After investigation, report, finding, and declaration in the manner provided in the case of a proclamation issued pursuant to subsection (b) of this section, any proclamation or provision of such proclamation may be suspended or terminated by the President whenever he finds and proclaims that the circumstances requiring the proclamation or provision thereof no longer exist or may be modified by the President whenever he finds and proclaims that changed circumstances require such modification to carry out the purposes of this section.
 
@@ -36,11 +36,11 @@ Unconstitutionality of processing and floor stock taxes, see note set out under 
 
 #### Amendments
 
-<b>1994</b>—Subsec. (f). Pub. L. 103–465 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “No trade agreement or other international agreement heretofore or hereafter entered into by the United States shall be applied in a manner inconsistent with the requirements of this section; except that the President may, pursuant to articles 705.5 and 707 of the United States-Canada Free-Trade Agreement, exempt products of Canada from any import restriction imposed under this section.”
+<b>1994</b>—Subsec. (f). Pub. L. 103–465 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "No trade agreement or other international agreement heretofore or hereafter entered into by the United States shall be applied in a manner inconsistent with the requirements of this section; except that the President may, pursuant to articles 705.5 and 707 of the United States-Canada Free-Trade Agreement, exempt products of Canada from any import restriction imposed under this section."
 
-<b>1988</b>—Subsec. (f). Pub. L. 100–449 temporarily inserted before period at end “; except that the President may, pursuant to articles 705.5 and 707 of the United States-Canada Free-Trade Agreement, exempt products of Canada from any import restriction imposed under this section”. See Effective and Termination Dates of 1988 Amendment note below.
+<b>1988</b>—Subsec. (f). Pub. L. 100–449 temporarily inserted before period at end "; except that the President may,pursuant to articles 705.5 and 707 of the United States-Canada Free-Trade Agreement, exempt products of Canada from any import restriction imposed under this section". See Effective and Termination Dates of 1988 Amendment note below.
 
-<b>1975</b>—Subsecs. (a), (b). Pub. L. 93–618 substituted “United States International Trade Commission” for “United States Tariff Commission”.
+<b>1975</b>—Subsecs. (a), (b). Pub. L. 93–618 substituted "United States International Trade Commission" for "United States Tariff Commission".
 
 <b>1953</b>—Subsec. (b) amended by subsec. (c) of section 8 of act June 16, 1951, as added to section 8 by act Aug. 7, 1953, which added second paragraph to subsec. (b).
 
@@ -56,11 +56,11 @@ Subsec. (f). Act June 28, 1950, made certain that future international agreement
 
 <b>1940</b>—Subsecs. (a) to (c). Act Jan. 25, 1940, amended subsecs. (a) to (c) generally.
 
-<b>1936</b>—Act Feb. 29, 1936, inserted “or the Soil Conservation and Domestic Allotment Act, as amended” after “this chapter” wherever appearing, and substituted “any” for “an adjustment” wherever appearing.
+<b>1936</b>—Act Feb. 29, 1936, inserted "or the Soil Conservation and Domestic Allotment Act, as amended" after "this chapter" wherever appearing, and substituted "any" for "an adjustment" wherever appearing.
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–465, title IV, §401(a)(2), Dec. 8, 1994, 108 Stat. 4957, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\], except that with respect to wheat, that amendment shall take effect on the later of such date or September 12, 1995.”
+Pub. L. 103–465, title IV, §401(a)(2), Dec. 8, 1994, 108 Stat. 4957, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of entry into force of the WTO Agreement with respect to the United States \[Jan. 1, 1995\], except that with respect to wheat, that amendment shall take effect on the later of such date or September 12, 1995."
 
 #### Effective and Termination Dates of 1988 Amendment
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 100–449 effective on the date the United States-Canada Fr
 
 #### Effective Date of 1948 Amendment
 
-Act July 3, 1948, ch. 827, title I, §6, 62 Stat. 1250, provided that: “This title \[amending this section and section 590h of Title 16, Conservation, enacting provisions set out as notes under sections 1282 and 1312 of this title, and amending provisions set out as a note under section 713a–8 of Title 15, Commerce and Trade\] shall take effect on January 1, 1949, except that sections 3 and 4 \[amending this section and section 590h of Title 16\] shall take effect on the date of enactment of this Act \[July 3, 1948\].”
+Act July 3, 1948, ch. 827, title I, §6, 62 Stat. 1250, provided that: "This title \[amending this section and section 590h of Title 16, Conservation, enacting provisions set out as notes under sections 1282 and 1312 of this title, and amending provisions set out as a note under section 713a–8 of Title 15, Commerce and Trade\] shall take effect on January 1, 1949, except that sections 3 and 4 \[amending this section and section 590h of Title 16\] shall take effect on the date of enactment of this Act \[July 3, 1948\]."
 
 #### Validity of Section Affirmed
 
@@ -90,7 +90,7 @@ Pub. L. 91–524, title II, §205, as added Pub. L. 93–86, §1(6), Aug. 10, 19
 
 Proc. No. 3178, Apr. 17, 1957, 22 F.R. 2701, provided:
 
-WHEREAS, pursuant to section 22 of the Agricultural Adjustment Act, as amended (7 U.S.C. 624), the Secretary of Agriculture advised me that there was reason to believe that butter substitutes, including butter oil, containing 45 per centum or more of butterfat, which are dutiable under paragraph 709 of the Tariff Act of 1930, as amended, are practically certain to be imported into the United States under such conditions and in such quantities as to render or tend to render ineffective, or materially interfere with, the price-support program undertaken by the Department of Agriculture with respect to milk and butterfat, or to reduce substantially the amount of products processed in the United States from domestic milk and butterfat with respect to which such program of the Department of Agriculture is being undertaken; and
+WHEREAS, pursuant to section 22 of the Agricultural Adjustment Act, as amended (7 U.S.C. 624), the Secretary of Agriculture advised me that there was reason to believe that butter substitutes, including butter oil, containing 45 per centum or more of butterfat, whichare dutiable under paragraph 709 of the Tariff Act of 1930, as amended, are practically certain to be imported into the United States under such conditions and in such quantities as to render or tend to render ineffective, or materially interfere with, the price-support program undertaken by the Department of Agriculture with respect to milk and butterfat, or to reduce substantially the amount of products processed in the United States from domestic milk and butterfat with respect to which such program of the Department of Agriculture is being undertaken; and
 
 WHEREAS on November 17, 1956, under the authority of the said section 22, I caused the United States Tariff Commission \[now the United States International Trade Commission\] to make an investigation with respect to this matter; and
 

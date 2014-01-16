@@ -128,7 +128,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (B) Extended period of time
 
-&emsp;&emsp;The term “extended period of time” means a period that is normally 1 year, but not less than 6 months.
+&emsp;&emsp;The term "extended period of time" means a period that is normally 1 year, but not less than 6 months.
 
 #### (C) Substantial quantities
 
@@ -280,13 +280,13 @@ For purposes of subsections (b) and (e) of this section.—
 
 Subsec. (c). Pub. L. 100–418, §1316(a), amended subsec. (c) generally, substituting provisions relating to nonmarket economy countries, for provisions relating to State-controlled economies.
 
-Subsec. (e)(2) to (4). Pub. L. 100–418, §1318, substituted “(4)” for “(3)” wherever appearing in par. (2), added par. (3), and redesignated former par. (3) as (4) and in introductory provisions substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+Subsec. (e)(2) to (4). Pub. L. 100–418, §1318, substituted "(4)" for "(3)" wherever appearing in par. (2), added par. (3), and redesignated former par. (3) as (4) and in introductory provisions substituted "paragraphs (2) and (3)" for "paragraph (2)".
 
 <b>1986</b>—Subsecs. (f), (g). Pub. L. 99–514 redesignated subsec. (g) as (f).
 
-<b>1984</b>—Subsec. (a)(1). Pub. L. 98–573, §615(1), substituted “time such merchandise is first sold within the United States by the person for whom (or for whose account) the merchandise is imported to any other person who is not described in subsection (e)(3) of this section with respect to such person” for “time of exportation of such merchandise to the United States” in provisions before subpar. (A).
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–573, §615(1), substituted "time such merchandise is first sold within the United States by the person for whom (or for whose account) the merchandise is imported to any other person who is not described in subsection (e)(3) of this section with respect to such person" for "time of exportation of such merchandise to the United States" in provisions before subpar. (A).
 
-Subsecs. (a)(1)(A), (4)(A), (e)(1)(B). Pub. L. 98–573, §615(2), substituted “commercial quantities” for “wholesale quantities” wherever appearing.
+Subsecs. (a)(1)(A), (4)(A), (e)(1)(B). Pub. L. 98–573, §615(2), substituted "commercial quantities" for "wholesale quantities" wherever appearing.
 
 Subsec. (f). Pub. L. 98–573, §620(b), struck out subsec. (f) which related to the authority to use sampling techniques and to disregard insignificant adjustments.
 

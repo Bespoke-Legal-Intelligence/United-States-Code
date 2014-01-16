@@ -24,11 +24,11 @@ For purposes of this section—
 
 #### (1) Essential industrial process or feedstock use
 
-&emsp;The term “essential industrial process or feedstock use” means any use of natural gas in an industrial process or as a feedstock which the Secretary determines is essential.
+&emsp;The term "essential industrial process or feedstock use" means any use of natural gas in an industrial process or as a feedstock which the Secretary determines is essential.
 
 #### (2) High-priority user
 
-&emsp;The term “high-priority user” has the same meaning as given such term in section 3391(f)(2) of this title.
+&emsp;The term "high-priority user" has the same meaning as given such term in section 3391(f)(2) of this title.
 
 (Pub. L. 95–621, title IV, §402, Nov. 9, 1978, 92 Stat. 3395.)
 

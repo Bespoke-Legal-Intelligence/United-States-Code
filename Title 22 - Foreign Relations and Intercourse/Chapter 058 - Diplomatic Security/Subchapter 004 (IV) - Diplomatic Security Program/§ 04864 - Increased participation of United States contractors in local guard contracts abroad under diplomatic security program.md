@@ -38,7 +38,7 @@ With respect to local guard contracts for a Foreign Service building which excee
 
 For the purposes of this section—
 
-&emsp;(1) the term “United States person” means a person which—
+&emsp;(1) the term "United States person" means a person which—
 
 &emsp;&emsp;(A) is incorporated or legally organized under the laws of the United States, including the laws of any State, locality, or the District of Columbia;
 
@@ -48,7 +48,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(D) has performed within the United States or overseas security services similar in complexity to the contract being bid;
 
-&emsp;&emsp;(E) with respect to the contract under subsection (c) of this section, has achieved a total business volume equal to or greater than the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C);
+&emsp;&emsp;(E) with respect to the contract under subsection (c) of this section, has achieved a total business volume equal to or greaterthan the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C);
 
 &emsp;&emsp;(F)(i) employs United States citizens in at least 80 percent of its principal management positions in the United States; and
 
@@ -56,11 +56,11 @@ For the purposes of this section—
 
 &emsp;&emsp;(G) has the existing technical and financial resources in the United States to perform the contract;
 
-&emsp;(2) the term “qualified United States joint venture person” means a joint venture in which a United States person or persons owns at least 51 percent of the assets of the joint venture;
+&emsp;(2) the term "qualified United States joint venture person" means a joint venture in which a United States person or persons owns at least 51 percent of the assets of the joint venture;
 
-&emsp;(3) the term “Foreign Service building” means any building or grounds of the United States which is in a foreign country and is under the jurisdiction and control of the Secretary of State, including residences of United States personnel assigned overseas under the authority of the Ambassador; and
+&emsp;(3) the term "Foreign Service building" means any building or grounds of the United States which is in a foreign country and is under the jurisdiction and control of the Secretary of State, including residences of United States personnel assigned overseas under the authority of the Ambassador; and
 
-&emsp;(4) the term “barrier to local competition” means—
+&emsp;(4) the term "barrier to local competition" means—
 
 &emsp;&emsp;(A) conditions of extreme currency volatility;
 
@@ -92,17 +92,17 @@ Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Y
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c)(3). Pub. L. 105–277, §2210(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “in evaluating and scoring proposals for such contracts, award not less than 60 percent of the total points on the basis of technical factors and subfactors;”.
+<b>1998</b>—Subsec. (c)(3). Pub. L. 105–277, §2210(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "in evaluating and scoring proposals for such contracts, award not less than 60 percent of the total points on the basis of technical factors and subfactors;".
 
-Subsec. (c)(5). Pub. L. 105–277, §2210(2), inserted “and” at end.
+Subsec. (c)(5). Pub. L. 105–277, §2210(2), inserted "and" at end.
 
-Subsec. (c)(6). Pub. L. 105–277, §2210(3), substituted period for “; and” at end.
+Subsec. (c)(6). Pub. L. 105–277, §2210(3), substituted period for "; and" at end.
 
-Subsec. (c)(7). Pub. L. 105–277, §2210(4), struck out par. (7) which read as follows: “give preference to United States persons and qualified United States joint venture persons where such persons are price competitive to the non-United States persons bidding on the contract, are properly licensed by the host government, and are otherwise qualified to carry out all the terms of the contract.”
+Subsec. (c)(7). Pub. L. 105–277, §2210(4), struck out par. (7) which read as follows: "give preference to United States persons and qualified United States joint venture persons where such persons are price competitive to the non-United States persons bidding on the contract, are properly licensed by the host government, and are otherwise qualified to carry out all the terms of the contract."
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–236, §141(1), added pars. (2) to (5), redesignated former pars. (2) and (3) as (6) and (7), respectively, and in par. (6) struck out “due to their distance from the post” after “evaluation process”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–236, §141(1), added pars. (2) to (5), redesignated former pars. (2) and (3) as (6) and (7), respectively, and in par. (6) struck out "due to their distance from the post" after "evaluation process".
 
-Subsec. (d)(1)(D). Pub. L. 103–236, §141(2)(A), substituted “or” for “and”.
+Subsec. (d)(1)(D). Pub. L. 103–236, §141(2)(A), substituted "or" for "and".
 
 Subsec. (d)(4). Pub. L. 103–236, §141(2)(B)–(D), added par. (4).
 

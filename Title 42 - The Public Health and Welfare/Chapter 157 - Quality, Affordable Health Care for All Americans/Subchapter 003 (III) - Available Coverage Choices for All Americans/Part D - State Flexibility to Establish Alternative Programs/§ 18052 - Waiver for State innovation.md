@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(iii) a process for providing public notice and comment after the application is received by the Secretary, that is sufficient to ensure a meaningful level of public input and that does not impose requirements that are in addition to, or duplicative of, requirements imposed under the Administrative Procedures Act,<sup>2</sup> or requirements that are unreasonable or unnecessarily burdensome with respect to State compliance;
 
-&emsp;&emsp;&emsp;(iv) a process for the submission to the Secretary of periodic reports by the State concerning the implementation of the program under the waiver; and
+&emsp;&emsp;&emsp;(iv) a process for the submission to the Secretary of periodic reports by the Stateconcerning the implementation of the program under the waiver; and
 
 &emsp;&emsp;&emsp;(v) a process for the periodic evaluation by the Secretary of the program under the waiver.
 
@@ -66,7 +66,7 @@
 
 #### (6) Definition
 
-&emsp;In this section, the term “Secretary” means—
+&emsp;In this section, the term "Secretary" means—
 
 &emsp;&emsp;(A) the Secretary of Health and Human Services with respect to waivers relating to the provisions described in subparagraph (A) through (C) of paragraph (2); and
 
@@ -140,11 +140,11 @@ The Social Security Act, referred to in subsec. (a)(5), is act Aug. 14, 1935, ch
 
 This Act, referred to in subsec. (b)(1)(A), is Pub. L. 111–148, Mar. 23, 2010, 124 Stat. 119, known as the Patient Protection and Affordable Care Act. For complete classification of this Act to the Code, see Short Title note set out under section 18001 of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be preceded by “the”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be preceded by "the".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “therefor.”</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "therefor."</i>
 

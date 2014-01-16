@@ -12,7 +12,7 @@ The Board is authorized—
 
 #### Amendments
 
-<b>2011</b>—Par. (3). Pub. L. 111–350 substituted “section 6101(b) to (d) of title 41” for “section 3709 of the Revised Statutes, as amended (41 U.S.C. 5)”.
+<b>2011</b>—Par. (3). Pub. L. 111–350 substituted "section 6101(b) to (d) of title 41" for "section 3709 of the Revised Statutes, as amended (41 U.S.C. 5)".
 
-<b>1988</b>—Par. (1). Pub. L. 100–702 inserted “and the Deputy Director” after “Director”.
+<b>1988</b>—Par. (1). Pub. L. 100–702 inserted "and the Deputy Director" after "Director".
 

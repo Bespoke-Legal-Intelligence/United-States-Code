@@ -148,5 +148,5 @@ Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub.
 
 #### Transfer of Functions
 
-Federal Savings and Loan Insurance Corporation abolished and functions transferred, see Pub. L. 101–73,title IV, §§401–406, Aug. 9, 1989, 103 Stat. 354–363, set out as a note under section 1437 of Title 12, Banks and Banking.
+Federal Savings and Loan Insurance Corporation abolished and functions transferred, see Pub. L. 101–73, title IV, §§401–406, Aug. 9, 1989, 103 Stat. 354–363, set out as a note under section 1437 of Title 12, Banks and Banking.
 

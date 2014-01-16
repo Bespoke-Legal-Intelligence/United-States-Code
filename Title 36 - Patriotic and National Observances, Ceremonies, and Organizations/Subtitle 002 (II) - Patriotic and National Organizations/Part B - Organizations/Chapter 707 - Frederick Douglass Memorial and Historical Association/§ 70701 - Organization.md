@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Frederick Douglass Memorial and Historical Association (in this chapter, the “corporation”) is a body corporate and politic in the District of Columbia.
+Federal Charter.—Frederick Douglass Memorial and Historical Association (in this chapter, the "corporation") is a body corporate and politic in the District of Columbia.
 
 (b)
 
@@ -22,9 +22,9 @@ Historical and Revision Notes
 
 70701
 
-36:4401 (words before “for the following objects and purposes”).
+36:4401 (words before "for the following objects and purposes").
 
-June 6, 1900, ch. 806, §§1 (words before “for the following objects and purposes”), 3, 31 Stat. 662, 663.
+June 6, 1900, ch. 806, §§1 (words before "for the following objects and purposes"), 3, 31 Stat. 662, 663.
 
 &nbsp;
 

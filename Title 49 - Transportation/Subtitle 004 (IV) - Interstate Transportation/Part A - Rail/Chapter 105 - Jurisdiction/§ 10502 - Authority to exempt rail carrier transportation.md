@@ -56,7 +56,7 @@ Section 10528, added Pub. L. 96–296, §21(b)(1), July 1, 1980, 94 Stat. 812; a
 
 Section 10529, added Pub. L. 96–296, §24(b)(1), July 1, 1980, 94 Stat. 814; amended Pub. L. 103–272, §5(m)(18), July 5, 1994, 108 Stat. 1377, related to authority of Commission over cooperative associations. See section 13508 of this title.
 
-Section 10530, added Pub. L. 98–554, title II, §226(a)(1), Oct. 30, 1984, 98 Stat. 2848; amended Pub. L. 99–514, §2,Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–690, title IX, §9111(a)–(f), Nov. 18, 1988, 102 Stat. 4531–4533; Pub. L. 103–272, §4(j)(18), (o), July 5, 1994, 108 Stat. 1369, 1371, related to certificates of registration for certain foreign carriers. See section 13902 of this title.
+Section 10530, added Pub. L. 98–554, title II, §226(a)(1), Oct. 30, 1984, 98 Stat. 2848; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–690, title IX, §9111(a)–(f), Nov. 18, 1988, 102 Stat. 4531–4533; Pub. L. 103–272, §4(j)(18), (o), July 5, 1994, 108 Stat. 1369, 1371, related to certificates of registration for certain foreign carriers. See section 13902 of this title.
 
 Section 10531, added Pub. L. 103–272, §3(1), July 5, 1994, 108 Stat. 1360, related to mass transportation exemption from Commission jurisdiction.
 
@@ -66,7 +66,7 @@ Section 10542, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1366; Pub. L. 98–89, 
 
 Section 10543, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1367, related to exemption of certain incidental water transportation from jurisdiction of Commission.
 
-Section 10544, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1368; Pub. L. 96–258, §1(6), June 3, 1980, 94 Stat. 425; Pub. L. 97–449, §5(g)(2), Jan. 12, 1983, 96 Stat. 2443; Pub. L. 98–216, §2(11), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(19), July 5, 1994, 108 Stat. 1377, related to exemption of certain miscellaneous water carrier transportation from Commission jurisdiction.
+Section 10544, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1368; Pub. L. 96–258, §1(6), June 3, 1980, 94 Stat. 425; Pub.L. 97–449, §5(g)(2), Jan. 12, 1983, 96 Stat. 2443; Pub. L. 98–216, §2(11), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(19), July 5, 1994, 108 Stat. 1377, related to exemption of certain miscellaneous water carrier transportation from Commission jurisdiction.
 
 Section 10561, Pub. L. 95–473, Oct. 17, 1978, 92 Stat. 1369; Pub. L. 99–521, §6(c), Oct. 22, 1986, 100 Stat. 2994; Pub. L. 103–272, §5(m)(20), July 5, 1994, 108 Stat. 1377, related to jurisdiction of Commission over services of household goods freight forwarders. See section 13531 of this title.
 

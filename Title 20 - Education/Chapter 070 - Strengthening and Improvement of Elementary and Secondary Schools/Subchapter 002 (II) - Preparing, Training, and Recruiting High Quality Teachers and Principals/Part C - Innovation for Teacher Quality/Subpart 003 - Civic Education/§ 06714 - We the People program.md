@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) shall use funds made available under grants or contracts under section 6713(a)(1) of this title—
 
-&emsp;&emsp;&emsp;(i) to continue and expand the educational activities of the program entitled the “We the People. . . The Citizen and the Constitution” program administered by such center;
+&emsp;&emsp;&emsp;(i) to continue and expand the educational activities of the program entitled the "We the People. . . The Citizen and the Constitution" program administered by such center;
 
 &emsp;&emsp;&emsp;(ii) to carry out activities to enhance student attainment of challenging academic content standards in civics and government;
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(A) shall use funds made available under grants or contracts under section 6713(a)(1) of this title—
 
-&emsp;&emsp;&emsp;(i) to continue and expand the educational activities of the program entitled the “We the People. . . Project Citizen” program administered by the Center;
+&emsp;&emsp;&emsp;(i) to continue and expand the educational activities of the program entitled the "We the People. . . Project Citizen" program administered by the Center;
 
 &emsp;&emsp;&emsp;(ii) to carry out activities to enhance student attainment of challenging academic content standards in civics and government;
 
@@ -62,7 +62,7 @@
 
 #### (c) Bureau-funded school defined
 
-In this section, the term “Bureau-funded school” has the meaning given such term in section 2026 of title 25.<sup>1</sup>
+In this section, the term "Bureau-funded school" has the meaning given such term in section 2026 of title 25.<sup>1</sup>
 
 (Pub. L. 89–10, title II, §2344, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1663.)
 

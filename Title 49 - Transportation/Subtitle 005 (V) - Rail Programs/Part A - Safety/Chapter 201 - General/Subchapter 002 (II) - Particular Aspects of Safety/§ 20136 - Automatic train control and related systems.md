@@ -26,7 +26,7 @@ Pub. L. 103–272
 
 Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §202(j); added June 22, 1988, Pub. L. 100–342, §9, 102 Stat. 628.
 
-The words “Within 90 days after June 22, 1988” are omitted as expired.
+The words "Within 90 days after June 22, 1988" are omitted as expired.
 
 #### Pub. L. 103–429
 
@@ -34,7 +34,7 @@ This amends 49:20136(2) to correct an error in the codification enacted by secti
 
 #### Amendments
 
-<b>1994</b>—Par. (2). Pub. L. 103–429 substituted “section” for “subsection”.
+<b>1994</b>—Par. (2). Pub. L. 103–429 substituted "section" for "subsection".
 
 #### Effective Date of 1994 Amendment
 

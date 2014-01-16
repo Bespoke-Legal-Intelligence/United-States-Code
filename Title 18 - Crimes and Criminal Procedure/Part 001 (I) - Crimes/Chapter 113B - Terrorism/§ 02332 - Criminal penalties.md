@@ -8,13 +8,13 @@ Homicide.—Whoever kills a national of the United States, while such national i
 
 &emsp;(2) if the killing is a voluntary manslaughter as defined in section 1112(a) of this title, be fined under this title or imprisoned not more than ten years, or both; and
 
-&emsp;(3) if the killing is an involuntary manslaughter as defined in section 1112(a) of thistitle, be fined under this title or imprisoned not more than three years, or both.
+&emsp;(3) if the killing is an involuntary manslaughter as defined in section 1112(a) of this title, be fined under this title or imprisoned not more than three years, or both.
 
 (b)
 
 Attempt or Conspiracy With Respect to Homicide.—Whoever outside the United States attempts to kill, or engages in a conspiracy to kill, a national of the United States shall—
 
-&emsp;(1) in the case of an attempt to commit a killing that is a murder as defined in this chapter, be fined under this title or imprisoned not more than 20 years, or both; and
+&emsp;(1) in the case of an attempt to commit a killing that is a murder as defined in thischapter, be fined under this title or imprisoned not more than 20 years, or both; and
 
 &emsp;(2) in the case of a conspiracy by two or more persons to commit a killing that is a murder as defined in section 1111(a) of this title, if one or more of such persons do any overt act to effect the object of the conspiracy, be fined under this title or imprisoned for any term of years or for life, or both so fined and so imprisoned.
 
@@ -36,13 +36,13 @@ Limitation on Prosecution.—No prosecution for any offense described in this se
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–132 substituted “ten years” for “five years” in concluding provisions.
+<b>1996</b>—Subsec. (c). Pub. L. 104–132 substituted "ten years" for "five years" in concluding provisions.
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–322 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “if the killing is a murder as defined in section 1111(a) of this title, be fined under this title or imprisoned for any term of years or for life, or both so fined and so imprisoned;”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–322 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "if the killing is a murder as defined in section 1111(a) of this title, be fined under this title or imprisoned for any term of years or for life, or both so fined and so imprisoned;".
 
-<b>1992</b>—Pub. L. 102–572 renumbered section 2331 of this title as this section, substituted “Criminal penalties” for “Terrorist acts abroad against United States national” in section catchline, redesignated subsec. (e) as (d), and struck out former subsec. (d) which read as follows: “
+<b>1992</b>—Pub. L. 102–572 renumbered section 2331 of this title as this section, substituted "Criminal penalties" for "Terrorist acts abroad against United States national" in section catchline, redesignated subsec. (e) as (d), and struck out former subsec. (d) which read as follows: "
 
-Definition.—As used in this section the term ‘national of the United States’ has the meaning given such term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).”
+Definition.—As used in this section the term 'national of the United States' has the meaning given such term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))."
 
 <b>1991</b>—Pub. L. 102–27, §402, as amended by Pub. L. 102–136, §126, repealed Pub. L. 101–519, §132, and amended this section to read as if Pub. L. 101–519, §132, had not been enacted, effective as of Nov. 5, 1990, the date of enactment of Pub. L. 101–519. See Codification note preceding this section.
 

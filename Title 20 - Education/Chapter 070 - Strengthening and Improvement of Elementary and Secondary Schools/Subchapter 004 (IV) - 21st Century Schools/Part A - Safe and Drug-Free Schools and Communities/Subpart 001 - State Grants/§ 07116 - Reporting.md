@@ -6,7 +6,7 @@
 
 &emsp;By December 1, 2003, and every 2 years thereafter, the chief executive officer of the State, in cooperation with the State educational agency, shall submit to the Secretary a report—
 
-&emsp;&emsp;(A) on the implementation and outcomes of State programs under section 7112(a)(1) of this title and section 7112(c) of this title and local educational agency programs under section 7115(b) of this title, as well as an assessment of their effectiveness;
+&emsp;&emsp;(A) on the implementation and outcomes of State programs under section 7112(a)(1) ofthis title and section 7112(c) of this title and local educational agency programs under section 7115(b) of this title, as well as an assessment of their effectiveness;
 
 &emsp;&emsp;(B) on the State's progress toward attaining its performance measures for drug and violence prevention under section 7113(a)(10) of this title; and
 

@@ -2,15 +2,21 @@
 
 (a)
 
-Training Program.—The Secretary of Defense shall establish an undergraduate training program with respect to civilian employees in the Military Department Civilian Intelligence Personnel Management System that is similar in purpose, conditions, content, and administration to the program established by the Secretary of Defense under section 16 of the National Security Agency Act of 1959 (50 U.S.C. 402 note) for civilian employees of the National Security Agency.
+Training Program.—The Secretary of Defense shall establish an undergraduate training program with respect to civilian employees in the Military Department Civilian Intelligence Personnel Management System that is similar in purpose, conditions, content, and administration to the program established by the Secretary of Defense under section 16 of the National Security Agency Act of 1959 (50 U.S.C. 402 note) <sup>1</sup> for civilian employees of the National Security Agency.
 
 (b)
 
 Use of Funds for Training Program.—Any payment made by the Secretary to carry out the program required to be established by subsection (a) may be made in any fiscal year only to the extent that appropriated funds are available for that purpose.
 
-(Added Pub. L. 104–93, title V, §505(a), Jan. 6, 1996, 109 Stat. 973; amended Pub. L. 112–239, div. A, title X, §1076(f)(20), Jan. 2, 2013, 126 Stat. 1952.)
+(Added Pub. L. 104–93, title V, §505(a), Jan. 6, 1996, 109 Stat. 973; amended Pub. L. 112–239, div.A, title X, §1076(f)(20), Jan. 2, 2013, 126 Stat. 1952.)
+
+#### References in Text
+
+Section 16 of the National Security Agency Act of 1959, referred to in subsec. (a), is section 16 of Pub. L. 86–36, which was set out in a note under section 402 of Title 50, War and National Defense, prior to editorial reclassification to section 3614 of Title 50.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 112–239 substituted “National Security Agency Act” for “National Security Act”.
+<b>2013</b>—Subsec. (a). Pub. L. 112–239 substituted "National Security Agency Act" for "National Security Act".
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

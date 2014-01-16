@@ -22,11 +22,11 @@ In connection with all public hearings under this subchapter the Administrator s
 
 <b>1996</b>—Subsecs. (b) to (d). Pub. L. 104–170 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–237 substituted “the Administrator” for “he” before “deems” and “the Administrator's” for “his”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–237 substituted "the Administrator" for "he" before "deems" and "the Administrator's" for "his".
 
 <b>1988</b>—Pub. L. 100–532, §801(l), inserted headings for subsecs. (a) to (c).
 
-<b>1975</b>—Subsec. (a). Pub. L. 94–140 inserted “in accordance with the procedure described in section 136w(a) of this title” after “Secretary of Agriculture”.
+<b>1975</b>—Subsec. (a). Pub. L. 94–140 inserted "in accordance with the procedure described in section 136w(a) of this title" after "Secretary of Agriculture".
 
 #### Effective Date of 1988 Amendment
 

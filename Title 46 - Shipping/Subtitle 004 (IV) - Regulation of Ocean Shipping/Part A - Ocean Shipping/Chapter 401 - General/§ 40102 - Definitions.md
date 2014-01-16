@@ -4,7 +4,7 @@ In this part:
 
 &emsp;(1)
 
-Agreement.—The term “agreement”—
+Agreement.—The term "agreement"—
 
 &emsp;&emsp;(A) means a written or oral understanding, arrangement, or association, and any modification or cancellation thereof; but
 
@@ -12,7 +12,7 @@ Agreement.—The term “agreement”—
 
 &emsp;(2)
 
-Antitrust laws.—The term “antitrust laws” means—
+Antitrust laws.—The term "antitrust laws" means—
 
 &emsp;&emsp;(A) the Sherman Act (15 U.S.C. 1 et seq.);
 
@@ -30,15 +30,15 @@ Antitrust laws.—The term “antitrust laws” means—
 
 &emsp;(3)
 
-Assessment agreement.—The term “assessment agreement” means an agreement, whether part of a collective bargaining agreement or negotiated separately, to the extent the agreement provides for the funding of collectively bargained fringe-benefit obligations on other than a uniform worker-hour basis, regardless of the cargo handled or type of vessel or equipment used.
+Assessment agreement.—The term "assessment agreement" means an agreement, whether part of a collective bargaining agreement or negotiated separately, to the extent the agreement provides for the funding of collectively bargained fringe-benefit obligations on other than a uniform worker-hour basis, regardless of the cargo handled or type of vessel or equipment used.
 
 &emsp;(4)
 
-Bulk cargo.—The term “bulk cargo” means cargo that is loaded and carried in bulk without mark or count.
+Bulk cargo.—The term "bulk cargo" means cargo that is loaded and carried in bulk without mark or count.
 
 &emsp;(5)
 
-Chemical parcel-tanker.—The term “chemical parcel-tanker” means a vessel that has—
+Chemical parcel-tanker.—The term "chemical parcel-tanker" means a vessel that has—
 
 &emsp;&emsp;(A) a cargo-carrying capability consisting of individual cargo tanks for bulk chemicals that—
 
@@ -50,7 +50,7 @@ Chemical parcel-tanker.—The term “chemical parcel-tanker” means a vessel t
 
 &emsp;(6)
 
-Common carrier.—The term “common carrier”—
+Common carrier.—The term "common carrier"—
 
 &emsp;&emsp;(A) means a person that—
 
@@ -68,7 +68,7 @@ Common carrier.—The term “common carrier”—
 
 &emsp;(7)
 
-Conference.—The term “conference”—
+Conference.—The term "conference"—
 
 &emsp;&emsp;(A) means an association of ocean common carriers permitted, pursuant to an approved or effective agreement, to engage in concerted activity and to use a common tariff; but
 
@@ -76,7 +76,7 @@ Conference.—The term “conference”—
 
 &emsp;(8)
 
-Controlled carrier.—The term “controlled carrier” means an ocean common carrier that is, or whose operating assets are, directly or indirectly, owned or controlled by a government, with ownership or control by a government being deemed to exist for a carrier if—
+Controlled carrier.—The term "controlled carrier" means an ocean common carrier that is, or whose operating assets are, directly or indirectly, owned or controlled by a government, with ownership or control by a government being deemed to exist for a carrier if—
 
 &emsp;&emsp;(A) a majority of the interest in the carrier is owned or controlled in any manner by that government, an agency of that government, or a public or private person controlled by that government; or
 
@@ -84,7 +84,7 @@ Controlled carrier.—The term “controlled carrier” means an ocean common ca
 
 &emsp;(9)
 
-Deferred rebate.—The term “deferred rebate” means a return by a common carrier of any freight money to a shipper, where the return is—
+Deferred rebate.—The term "deferred rebate" means a return by a common carrier of any freight money to a shipper, where the return is—
 
 &emsp;&emsp;(A) consideration for the shipper giving all or any portion of its shipments to that or any other common carrier over a fixed period of time;
 
@@ -94,19 +94,19 @@ Deferred rebate.—The term “deferred rebate” means a return by a common car
 
 &emsp;(10)
 
-Forest products.—The term “forest products” includes lumber in bundles, rough timber, ties, poles, piling, laminated beams, bundled siding, bundled plywood, bundled core stock or veneers, bundled particle or fiber boards, bundled hardwood, wood pulp in rolls, wood pulp in unitized bales, and paper and paper board in rolls or in pallet or skid-sized sheets.
+Forest products.—The term "forest products" includes lumber in bundles, rough timber, ties, poles, piling, laminated beams, bundled siding, bundled plywood, bundled core stock or veneers, bundled particle or fiber boards, bundled hardwood, wood pulp in rolls, wood pulp in unitized bales, and paper and paper board in rolls or in pallet or skid-sized sheets.
 
 &emsp;(11)
 
-Inland division.—The term “inland division” means the amount paid by a common carrier to an inland carrier for the inland portion of through transportation offered to the public by the common carrier.
+Inland division.—The term "inland division" means the amount paid by a common carrier to an inland carrier for the inland portion of through transportation offered to the public by the common carrier.
 
 &emsp;(12)
 
-Inland portion.—The term “inland portion” means the charge to the public by a common carrier for the non-ocean portion of through transportation.
+Inland portion.—The term "inland portion" means the charge to the public by a common carrier for the non-ocean portion of through transportation.
 
 &emsp;(13)
 
-Loyalty contract.—The term “loyalty contract” means a contract with an ocean common carrier or agreement providing for—
+Loyalty contract.—The term "loyalty contract" means a contract with an ocean common carrier or agreement providing for—
 
 &emsp;&emsp;(A) a shipper to obtain lower rates by committing all or a fixed portion of its cargo to that carrier or agreement; and
 
@@ -114,11 +114,11 @@ Loyalty contract.—The term “loyalty contract” means a contract with an oce
 
 &emsp;(14)
 
-Marine terminal operator.—The term “marine terminal operator” means a person engaged in the United States in the business of providing wharfage, dock, warehouse, or other terminal facilities in connection with a common carrier, or in connection with a common carrier and a water carrier subject to subchapter II of chapter 135 of title 49.
+Marine terminal operator.—The term "marine terminal operator" means a person engaged in the United States in the business of providing wharfage, dock, warehouse, or other terminal facilities in connection with a common carrier, or in connection with a common carrier and a water carrier subject to subchapter II of chapter 135 of title 49.
 
 &emsp;(15)
 
-Maritime labor agreement.—The term “maritime labor agreement”—
+Maritime labor agreement.—The term "maritime labor agreement"—
 
 &emsp;&emsp;(A) means—
 
@@ -132,7 +132,7 @@ Maritime labor agreement.—The term “maritime labor agreement”—
 
 &emsp;(16)
 
-Non-vessel-operating common carrier.—The term “non-vessel-operating common carrier” means a common carrier that—
+Non-vessel-operating common carrier.—The term "non-vessel-operating common carrier" means a common carrier that—
 
 &emsp;&emsp;(A) does not operate the vessels by which the ocean transportation is provided; and
 
@@ -140,11 +140,11 @@ Non-vessel-operating common carrier.—The term “non-vessel-operating common c
 
 &emsp;(17)
 
-Ocean common carrier.—The term “ocean common carrier” means a vessel-operating common carrier.
+Ocean common carrier.—The term "ocean common carrier" means a vessel-operating common carrier.
 
 &emsp;(18)
 
-Ocean freight forwarder.—The term “ocean freight forwarder” means a person that—
+Ocean freight forwarder.—The term "ocean freight forwarder" means a person that—
 
 &emsp;&emsp;(A) in the United States, dispatches shipments from the United States via a common carrier and books or otherwise arranges space for those shipments on behalf of shippers; and
 
@@ -152,11 +152,11 @@ Ocean freight forwarder.—The term “ocean freight forwarder” means a person
 
 &emsp;(19)
 
-Ocean transportation intermediary.—The term “ocean transportation intermediary” means an ocean freight forwarder or a non-vessel-operating common carrier.
+Ocean transportation intermediary.—The term "ocean transportation intermediary" means an ocean freight forwarder or a non-vessel-operating common carrier.
 
 &emsp;(20)
 
-Service contract.—The term “service contract” means a written contract, other than a bill of lading or receipt, between one or more shippers, on the one hand, and an individual ocean common carrier or an agreement between or among ocean common carriers, on the other, in which—
+Service contract.—The term "service contract" means a written contract, other than a bill of lading or receipt, between one or more shippers, on the one hand, and an individual ocean common carrier or an agreement between or among ocean common carriers, on the other, in which—
 
 &emsp;&emsp;(A) the shipper or shippers commit to providing a certain volume or portion of cargo over a fixed time period; and
 
@@ -164,11 +164,11 @@ Service contract.—The term “service contract” means a written contract, ot
 
 &emsp;(21)
 
-Shipment.—The term “shipment” means all of the cargo carried under the terms of a single bill of lading.
+Shipment.—The term "shipment" means all of the cargo carried under the terms of a single bill of lading.
 
 &emsp;(22)
 
-Shipper.—The term “shipper” means—
+Shipper.—The term "shipper" means—
 
 &emsp;&emsp;(A) a cargo owner;
 
@@ -176,21 +176,21 @@ Shipper.—The term “shipper” means—
 
 &emsp;&emsp;(C) the person to whom delivery is to be made;
 
-&emsp;&emsp;(D) a shippers’ association; or
+&emsp;&emsp;(D) a shippers' association; or
 
 &emsp;&emsp;(E) a non-vessel-operating common carrier that accepts responsibility for payment of all charges applicable under the tariff or service contract.
 
 &emsp;(23)
 
-Shippers’ association.—The term “shippers’ association” means a group of shippers that consolidates or distributes freight on a nonprofit basis for the members of the group to obtain carload, truckload, or other volume rates or service contracts.
+Shippers' association.—The term "shippers' association" means a group of shippers that consolidates or distributes freight on a nonprofit basis for the members of the group to obtain carload, truckload, or other volume rates or service contracts.
 
 &emsp;(24)
 
-Through rate.—The term “through rate” means the single amount charged by a common carrier in connection with through transportation.
+Through rate.—The term "through rate" means the single amount charged by a common carrier in connection with through transportation.
 
 &emsp;(25)
 
-Through transportation.—The term “through transportation” means continuous transportation between origin and destination for which a through rate is assessed and which is offered or performed by one or more carriers, at least one of which is a common carrier, between a United States port or point and a foreign port or point.
+Through transportation.—The term "through transportation" means continuous transportation between origin and destination for which a through rate is assessed and which is offered or performed by one or more carriers, at least one of which is a common carrier, between a United States port or point and a foreign port or point.
 
 (Pub. L. 109–304, §7, Oct. 6, 2006, 120 Stat. 1523.)
 
@@ -306,11 +306,11 @@ Pub. L. 98–237, §3, Mar. 20, 1984, 98 Stat. 67; Pub. L. 99–307, §11, May 1
 
 46 App.:1702(24).
 
-In the definition of “service contract”, the words “The contract may also specify provisions in the event of nonperformance on the part of any party” are omitted as unnecessary and inappropriate for a definition.
+In the definition of "service contract", the words "The contract may also specify provisions in the event of nonperformance on the part of any party" are omitted as unnecessary and inappropriate for a definition.
 
-In the definition of “shipper”, the words “non-vessel-operating common carrier” are substituted for “ocean transportation intermediary, as defined in paragraph (17)(B) of this section” because paragraph (17)(B) contains a definition of “non-vessel-operating common carrier” which is restated as a separate definition.
+In the definition of "shipper", the words "non-vessel-operating common carrier" are substituted for "ocean transportation intermediary, as defined in paragraph (17)(B) of this section" because paragraph (17)(B) contains a definition of "non-vessel-operating common carrier" which is restated as a separate definition.
 
-The definition of “Commission” is omitted because the full name of the Federal Maritime Commission is used the first time the Commission is referred to in each section. The definition of “person” is omitted as unnecessary because of 1 U.S.C. 1. The definition of “United States” is omitted because the term is defined in chapter 1 of the revised title for purposes of the title.
+The definition of "Commission" is omitted because the full name of the Federal Maritime Commission is used the first time the Commission is referred to in each section. The definition of "person" is omitted as unnecessary because of 1 U.S.C. 1. The definition of "United States" is omitted because the term is defined in chapter 1 of the revised title for purposes of the title.
 
 #### References in Text
 

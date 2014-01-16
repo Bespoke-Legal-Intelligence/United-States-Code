@@ -30,13 +30,13 @@ A prior section 12612, Pub. L. 101–610, title I, §161, Nov. 16, 1990, 104 Sta
 
 <b>2009</b>—Pub. L. 111–13, §1502(1), amended section catchline generally.
 
-Subsec. (a). Pub. L. 111–13, §1502(2), substituted “National Civilian Community Corps Program” for “Civilian Community Corps Demonstration Program”.
+Subsec. (a). Pub. L. 111–13, §1502(2), substituted "National Civilian Community Corps Program" for "Civilian Community Corps Demonstration Program".
 
-Subsec. (b). Pub. L. 111–13, §1502(3), in introductory provisions, substituted “National Civilian Community Corps Program” for “Civilian Community Corps Demonstration Program” and “a National Civilian Community Corps” for “a Civilian Community Corps”.
+Subsec. (b). Pub. L. 111–13, §1502(3), in introductory provisions, substituted "National Civilian Community Corps Program" for "Civilian Community Corps Demonstration Program" and "a National Civilian Community Corps" for "a Civilian Community Corps".
 
-Subsec. (c). Pub. L. 111–13, §1502(4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: “Both program components are residential programs. The members of the Corps in each program shall reside with other members of the Corps in Corps housing during the periods of the members’ agreed service.”
+Subsec. (c). Pub. L. 111–13, §1502(4), added subsec. (c) and struck out former subsec. (c). Prior to amendment, text read as follows: "Both program components are residential programs. The members of the Corps in each program shall reside with other members of the Corps in Corps housing during the periods of the members' agreed service."
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–82, §402(b)(2), substituted “Corporation” for “Commission on National and Community Service”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–82, §402(b)(2), substituted "Corporation" for "Commission on National and Community Service".
 
 #### Effective Date of 2009 Amendment
 
@@ -54,17 +54,17 @@ Pub. L. 102–484, div. A, title X, §1092(b), Oct. 23, 1992, 106 Stat. 2534, as
 
 Pub. L. 102–484, div. A, title X, §1093, Oct. 23, 1992, 106 Stat. 2534, as amended by Pub. L. 103–82, title I, §104(e)(1)(B), title IV, §402(a)(2), Sept. 21, 1993, 107 Stat. 846, 918, provided that:
 
-“(a)
+"(a)
 
-Coordinated Administration.—To the maximum extent practicable, the Chief of the National Guard Bureau, the Board of Directors and Chief Executive Officer of the Corporation for National and Community Service, and the Director of the Civilian Community Corps shall coordinate the National Guard Youth Opportunities Program established pursuant to section 1091 \[of Pub. L. 102–484, 32 U.S.C. 501 note\] and the Civilian Community Corps Demonstration Program established pursuant to the authorization contained in section 152 of the National and Community Service Act of 1990 \[42 U.S.C. 12612\] (as added by section 1092(a)).
+Coordinated Administration.—To the maximum extent practicable, the Chief of the National Guard Bureau, the Board of Directors and Chief Executive Officer of the Corporation for National and Community Service, and the Director of the Civilian Community Corps shall coordinate the National GuardYouth Opportunities Program established pursuant to section 1091 \[of Pub. L. 102–484, 32 U.S.C. 501 note\] and the Civilian Community Corps Demonstration Program established pursuant to the authorization contained in section 152 of the National and Community Service Act of 1990 \[42 U.S.C. 12612\] (as added by section 1092(a)).
 
-“(b)
+"(b)
 
 Objectives.—The officials referred to in subsection (a) shall ensure that—
 
-&emsp;“(1) the programs referred to in subsection (a) are conducted in such a manner in relationship to each other that the public benefit of those programs is maximized;
+&emsp;"(1) the programs referred to in subsection (a) are conducted in such a manner in relationship to each other that the public benefit of those programs is maximized;
 
-&emsp;“(2) to the maximum extent appropriate to meet the needs of program participants, persons who complete participation in the National Guard Youth Opportunities Program and are eligible and apply to participate in the Civilian Community Corps underthe Civilian Community Corps Demonstration Program are accepted for participation in that Program; and
+&emsp;"(2) to the maximum extent appropriate to meet the needs of program participants, persons who complete participation in the National Guard Youth Opportunities Program and are eligible and apply to participate in the Civilian Community Corps under the Civilian Community Corps Demonstration Program are accepted for participation in that Program; and
 
-&emsp;“(3) the programs referred to in subsection (a) are conducted simultaneously in competition with each other in the same immediate area of the United States only when the population of eligible participants in that area is sufficient to justify the simultaneous conduct of such programs in that area.”
+&emsp;"(3) the programs referred to in subsection (a) are conducted simultaneously in competition with each other in the same immediate area of the United States only when the population of eligible participants in that area is sufficient to justify the simultaneous conduct of such programs in that area."
 

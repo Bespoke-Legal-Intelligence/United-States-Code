@@ -24,7 +24,7 @@ The credit allowed under subsection (a) for any taxable year shall not exceed th
 
 &emsp;(1) the sum of the regular tax liability (as defined in section 26(b)) plus the tax imposed by section 55, over
 
-&emsp;(2) the sum of the credits allowable under part IV of subchapter A (other than subpart C thereof, relating to refundable credits, and subparts H, I, and J thereof).
+&emsp;(2) the sum of the credits allowable under part IV of subchapter A (other than subpart Cthereof, relating to refundable credits, and subparts H, I, and J thereof).
 
 #### (d) Qualified zone academy bond
 
@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualified zone academy bond” means any bond issued as part of an issue if—
+&emsp;The term "qualified zone academy bond" means any bond issued as part of an issue if—
 
 &emsp;&emsp;(A) 95 percent or more of the proceeds of such issue are to be used for a qualified purpose with respect to a qualified zone academy established by an eligible local education agency,
 
@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### (B) Qualified contributions
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “qualified contribution” means any contribution (of a type and quality acceptable to the eligible local education agency) of—
+&emsp;&emsp;For purposes of subparagraph (A), the term "qualified contribution" means any contribution (of a type and quality acceptable to the eligible local education agency) of—
 
 &emsp;&emsp;&emsp;(i) equipment for use in the qualified zone academy (including state-of-the-art technology and vocational equipment),
 
@@ -78,7 +78,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified zone academy” means any public school (or academic program within a public school) which is established by and operated under the supervision of an eligible local education agency to provide education or training below the postsecondary level if—
+&emsp;&emsp;The term "qualified zone academy" means any public school (or academic program within a public school) which is established by and operated under the supervision of an eligible local education agency to provide education or training below the postsecondary level if—
 
 &emsp;&emsp;&emsp;(i) such public school or program (as the case may be) is designed in cooperation with business to enhance the academic curriculum, increase graduation and employment rates, and better prepare students for the rigors of college and the increasingly complex workforce,
 
@@ -92,11 +92,11 @@ For purposes of this section—
 
 #### (B) Eligible local education agency
 
-&emsp;&emsp;The term “eligible local education agency” means any local educational agency as defined in section 9101 of the Elementary and Secondary Education Act of 1965.
+&emsp;&emsp;The term "eligible local education agency" means any local educational agency as defined in section 9101 of the Elementary and Secondary Education Act of 1965.
 
 #### (5) Qualified purpose
 
-&emsp;The term “qualified purpose” means, with respect to any qualified zone academy—
+&emsp;The term "qualified purpose" means, with respect to any qualified zone academy—
 
 &emsp;&emsp;(A) rehabilitating or repairing the public school facility in which the academy is established,
 
@@ -108,7 +108,7 @@ For purposes of this section—
 
 #### (6) Eligible taxpayer
 
-&emsp;The term “eligible taxpayer” means—
+&emsp;The term "eligible taxpayer" means—
 
 &emsp;&emsp;(A) a bank (within the meaning of section 581),
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 #### (1) National limitation
 
-&emsp;There is a national zone academy bond limitation for each calendar year. Such limitationis $400,000,000 for 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, and 2007, and, except as provided in paragraph (4), zero thereafter.
+&emsp;There is a national zone academy bond limitation for each calendar year. Such limitation is $400,000,000 for 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, and 2007, and, except as provided in paragraph (4), zero thereafter.
 
 #### (2) Allocation of limitation
 
@@ -174,15 +174,15 @@ For purposes of this section—
 
 #### (1) Credit allowance date
 
-&emsp;The term “credit allowance date” means, with respect to any issue, the last day of the 1-year period beginning on the date of issuance of such issue and the last day of each successive 1-year period thereafter.
+&emsp;The term "credit allowance date" means, with respect to any issue, the last day of the 1-year period beginning on the date of issuance of such issue and the last day of each successive 1-year period thereafter.
 
 #### (2) Bond
 
-&emsp;The term “bond” includes any obligation.
+&emsp;The term "bond" includes any obligation.
 
 #### (3) State
 
-&emsp;The term “State” includes the District of Columbia and any possession of the United States.
+&emsp;The term "State" includes the District of Columbia and any possession of the United States.
 
 #### (j) Credit included in gross income
 
@@ -204,7 +204,7 @@ In the case of a qualified zone academy bond held by an S corporation which is a
 
 This section shall not apply to any obligation issued after the date of the enactment of the Tax Extenders and Alternative Minimum Tax Relief Act of 2008.
 
-(Added Pub. L. 105–34, title II, §226(a), Aug. 5, 1997, 111 Stat. 821; amended Pub. L. 105–206, titleVI, §6004(g)(2)–(4), July 22, 1998, 112 Stat. 796; Pub. L. 106–78, title VII, §752(b)(11), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–170, title V, §509, Dec. 17, 1999, 113 Stat. 1924; Pub. L. 107–110, title X, §1076(t), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 107–147, title VI, §608(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §304(a), title IV, §406(c), Oct. 4, 2004, 118 Stat. 1179, 1189; Pub. L. 109–58, title XIII, §1303(c)(2), (3), Aug. 8, 2005, 119 Stat. 997; Pub. L. 109–432, div. A, title I, §107(a), (b)(1), Dec. 20, 2006, 120 Stat. 2938; Pub. L. 110–234, title XV, §15316(c)(2), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(2), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–343, div. C, title III, §313(b)(3), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–5, div. B, title I, §1531(c)(3), Feb. 17, 2009, 123 Stat. 360.)
+(Added Pub. L. 105–34, title II, §226(a), Aug. 5, 1997, 111 Stat. 821; amended Pub. L. 105–206, title VI, §6004(g)(2)–(4), July 22, 1998, 112 Stat. 796; Pub. L. 106–78, title VII, §752(b)(11), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 106–170, title V, §509, Dec. 17, 1999, 113 Stat. 1924; Pub. L. 107–110, title X, §1076(t), Jan. 8, 2002, 115 Stat. 2092; Pub. L. 107–147, title VI, §608(a), Mar. 9, 2002, 116 Stat. 60; Pub. L. 108–311, title III, §304(a), title IV, §406(c), Oct. 4, 2004, 118 Stat. 1179, 1189; Pub. L. 109–58, title XIII, §1303(c)(2), (3), Aug. 8, 2005, 119 Stat. 997; Pub. L. 109–432, div. A, title I, §107(a), (b)(1), Dec. 20, 2006, 120 Stat. 2938; Pub. L. 110–234, title XV, §15316(c)(2), May 22, 2008, 122 Stat. 1511; Pub. L. 110–246, §4(a), title XV, §15316(c)(2), June 18, 2008, 122 Stat. 1664, 2273; Pub. L. 110–343, div. C, title III, §313(b)(3), Oct. 3, 2008, 122 Stat. 3872; Pub. L. 111–5, div. B, title I, §1531(c)(3), Feb. 17, 2009, 123 Stat. 360.)
 
 #### References in Text
 
@@ -222,39 +222,39 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2009</b>—Subsec. (c)(2). Pub. L. 111–5 substituted “, I, and J” for “and I”.
+<b>2009</b>—Subsec. (c)(2). Pub. L. 111–5 substituted ", I, and J" for "and I".
 
-<b>2008</b>—Subsec. (c)(2). Pub. L. 110–246, §15316(c)(2), substituted “subparts H and I” for “subpart H”.
+<b>2008</b>—Subsec. (c)(2). Pub. L. 110–246, §15316(c)(2), substituted "subparts H and I" for "subpart H".
 
 Subsec. (m). Pub. L. 110–343 added subsec. (m).
 
 <b>2006</b>—Subsec. (d)(1)(E). Pub. L. 109–432, §107(b)(1)(A), added subpar. (E).
 
-Subsec. (e)(1). Pub. L. 109–432, §107(a), substituted “2005, 2006, and 2007” for “and 2005”.
+Subsec. (e)(1). Pub. L. 109–432, §107(a), substituted "2005, 2006, and 2007" for "and 2005".
 
 Subsecs. (f) to (l). Pub. L. 109–432, §107(b)(1)(B), added subsecs. (f) to (h) and redesignated former subsecs. (f) to (i) as (i) to (l), respectively.
 
-<b>2005</b>—Subsec. (c)(2). Pub. L. 109–58, §1303(c)(2), inserted “, and subpart H thereof” after “refundable credits”.
+<b>2005</b>—Subsec. (c)(2). Pub. L. 109–58, §1303(c)(2), inserted ", and subpart H thereof" after "refundable credits".
 
-Subsec. (h). Pub. L. 109–58, §1303(c)(3), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: “For purposes of subtitle F, the credit allowed by this section shall be treated as a credit allowable under part IV of subchapter A of this chapter.”
+Subsec. (h). Pub. L. 109–58, §1303(c)(3), amended heading and text of subsec. (h) generally. Prior to amendment, text read as follows: "For purposes of subtitle F, the credit allowed by this section shall be treated as a credit allowable under part IV of subchapter A of this chapter."
 
-<b>2004</b>—Subsec. (e)(1). Pub. L. 108–311, §304(a), substituted “2003, 2004, and 2005” for “and 2003”.
+<b>2004</b>—Subsec. (e)(1). Pub. L. 108–311, §304(a), substituted "2003, 2004, and 2005" for "and 2003".
 
 Subsec. (i). Pub. L. 108–311, §406(c), added subsec. (i).
 
-<b>2002</b>—Subsec. (d)(4)(B). Pub. L. 107–110 substituted “9101” for “14101”.
+<b>2002</b>—Subsec. (d)(4)(B). Pub. L. 107–110 substituted "9101" for "14101".
 
-Subsec. (e)(1). Pub. L. 107–147 substituted “2000, 2001, 2002, and 2003” for “2000, and 2001”.
+Subsec. (e)(1). Pub. L. 107–147 substituted "2000, 2001, 2002, and 2003" for "2000, and 2001".
 
-<b>1999</b>—Subsec. (d)(4)(A)(iv)(II). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
+<b>1999</b>—Subsec. (d)(4)(A)(iv)(II). Pub. L. 106–78 substituted "Richard B. Russell National School Lunch Act" for "National School Lunch Act".
 
-Subsec. (e)(1). Pub. L. 106–170, §509(a), substituted “, 1999, 2000, and 2001” for “and 1999”.
+Subsec. (e)(1). Pub. L. 106–170, §509(a), substituted ", 1999, 2000, and 2001" for "and 1999".
 
-Subsec. (e)(4). Pub. L. 106–170, §509(b), inserted at end “Any carryforward of a limitation amount may be carried only to the first 2 years (3 years for carryforwards from 1998 or 1999) following the unused limitation year. For purposes of the preceding sentence, a limitation amount shall be treated as used on a first-in first-out basis.”
+Subsec. (e)(4). Pub. L. 106–170, §509(b), inserted at end "Any carryforward of a limitation amount may be carried only to the first 2 years (3 years for carryforwards from 1998 or 1999) following the unused limitation year. For purposes of the preceding sentence, a limitation amount shall be treated as used on a first-in first-out basis."
 
-<b>1998</b>—Subsec. (d)(4)(B). Pub. L. 105–206, §6004(g)(2), substituted “local educational agency as defined” for “local education agency as defined”.
+<b>1998</b>—Subsec. (d)(4)(B). Pub. L. 105–206, §6004(g)(2), substituted "local educational agency as defined" for "local education agency as defined".
 
-Subsec. (g). Pub. L. 105–206, §6004(g)(4), inserted “(determined without regard to subsection (c))” after “section”.
+Subsec. (g). Pub. L. 105–206, §6004(g)(4), inserted "(determined without regard to subsection (c))" after "section".
 
 Subsec. (h). Pub. L. 105–206, §6004(g)(3), added subsec. (h).
 
@@ -274,13 +274,13 @@ Amendment by section 15316(c)(2) of Pub. L. 110–246 applicable to obligations 
 
 Pub. L. 109–432, div. A, title I, §107(c), Dec. 20, 2006, 120 Stat. 2939, provided that:
 
-“(1)
+"(1)
 
 Extension.—The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after December 31, 2005.
 
-“(2)
+"(2)
 
-Special rules.—The amendments made by subsection (b) \[amending this section and sections 54 and 1400N of this title\] shall apply to obligations issued after the date of the enactment of this Act \[Dec. 20, 2006\] pursuant to allocations of the national zone academy bond limitation for calendar years after 2005.”
+Special rules.—The amendments made by subsection (b) \[amending this section and sections 54 and 1400N of this title\] shall apply to obligations issued after the date of the enactment of this Act \[Dec. 20, 2006\] pursuant to allocations of the national zone academy bond limitation for calendar years after 2005."
 
 #### Effective Date of 2005 Amendment
 
@@ -288,13 +288,13 @@ Amendment by Pub. L. 109–58 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–311, title III, §304(b), Oct. 4, 2004, 118 Stat. 1179, provided that: “The amendment made by this section \[amending this section\] shall apply to obligations issued after December 31, 2003.”
+Pub. L. 108–311, title III, §304(b), Oct. 4, 2004, 118 Stat. 1179, provided that: "The amendment made by this section \[amending this section\] shall apply to obligations issued after December 31, 2003."
 
 Amendment by section 406(c) of Pub. L. 108–311 effective as if included in the provisions of the Taxpayer Relief Act of 1997, Pub. L. 105–34, to which such amendment relates, see section 406(h) of Pub. L. 108–311, set out as a note under section 55 of this title.
 
 #### Effective Date of 2002 Amendments
 
-Pub. L. 107–147, title VI, §608(b), Mar. 9, 2002, 116 Stat. 60, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Mar. 9, 2002\].”
+Pub. L. 107–147, title VI, §608(b), Mar. 9, 2002, 116 Stat. 60, provided that: "The amendment made by subsection\(a) \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Mar. 9, 2002\]."
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
@@ -304,5 +304,5 @@ Amendment by Pub. L. 105–206 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Pub. L. 105–34, title II, §226(c), Aug. 5, 1997, 111 Stat. 824, provided that: “The amendments made by this section \[enacting this section and renumbering section 1397D as section 1397F of this title\] shall apply to obligations issued after December 31, 1997.”
+Pub. L. 105–34, title II, §226(c), Aug. 5, 1997, 111 Stat. 824, provided that: "The amendments made by this section \[enacting this section and renumbering section 1397D as section 1397F of this title\] shall apply to obligations issued after December 31, 1997."
 

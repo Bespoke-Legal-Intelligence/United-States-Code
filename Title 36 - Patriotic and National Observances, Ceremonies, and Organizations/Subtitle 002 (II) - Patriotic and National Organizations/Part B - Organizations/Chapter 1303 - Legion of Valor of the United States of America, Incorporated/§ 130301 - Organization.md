@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Legion of Valor of the United States of America, Incorporated (in this chapter, the “corporation”), is a federally chartered corporation.
+Federal Charter.—Legion of Valor of the United States of America, Incorporated (in this chapter, the "corporation"), is a federally chartered corporation.
 
 (b)
 
@@ -58,5 +58,5 @@ This section is substituted for the source provisions for consistency in the rev
 
 In subsection (a), the text of 36:632 is omitted as executed and obsolete.
 
-In subsection (d), the words “The corporation known as the Army and Navy Legion of Valor of the United States of America, Incorporated, which was incorporated by the Act entitled ‘An Act to Incorporate the Army and Navy Legion of Valor of the United States of America’, approved August 4, 1955 (69 Stat. 486), shall be known and designated on and after June 21, 1961 as the Legion of Valor of the United States of America, Incorporated, and” are omitted as executed. The words “such corporation under the name of” and “such corporation under and by the name of” are omitted as unnecessary. The words “is deemed” are substituted for “shall be held” for consistency in the revised title.
+In subsection (d), the words "The corporation known as the Army and Navy Legion of Valor of the United States of America, Incorporated, which was incorporated by the Act entitled 'An Act to Incorporate the Army and Navy Legion of Valor of the United States of America', approved August 4, 1955 (69 Stat. 486), shall be known and designated on and after June 21, 1961 as the Legion of Valor of the United States of America, Incorporated, and" are omitted as executed. The words "such corporation under the name of" and "such corporation under and by the name of" are omitted as unnecessary. The words "is deemed" are substituted for "shall be held" for consistency in the revised title.
 

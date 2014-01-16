@@ -52,11 +52,11 @@ Oct. 12, 1949, ch. 681, §303(e), 63 Stat. 815.
 
 <b>2011</b>—Pub. L. 112–81, §631(d)(2), renumbered section 410 of this title as this section.
 
-Subsec. (a). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404” in introductory provisions.
+Subsec. (a). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "474" for "404" in introductory provisions.
 
 Subsec. (c). Pub. L. 112–81, §631(e)(13), added subsec. (c).
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out "of this section" after "subsection (a)".
 
 #### Effective Date of 2013 Amendment
 

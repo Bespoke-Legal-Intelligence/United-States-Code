@@ -146,7 +146,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (C) Inspection
 
-&emsp;&emsp;After making a determination described in subparagraph (A), the Bureau health and safety officer and the individual designatedby the tribe shall conduct an inspection of the conditions of such facility in order to determine whether conditions at such facility constitute an immediate hazard to health and safety. Such inspection shall be completed as expeditiously as practicable, but not later than 20 days after the date on which the action described in subparagraph (A) is taken.
+&emsp;&emsp;After making a determination described in subparagraph (A), the Bureau health and safety officer and the individual designated by the tribe shall conduct an inspection of the conditions of such facility in order to determine whether conditions at such facility constitute an immediate hazard to health and safety. Such inspection shall be completed as expeditiously as practicable, but not later than 20 days after the date on which the action described in subparagraph (A) is taken.
 
 #### (D) Failure to concur
 
@@ -190,7 +190,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (C) Temporary
 
-&emsp;&emsp;In this paragraph, the term “temporary” means—
+&emsp;&emsp;In this paragraph, the term "temporary" means—
 
 &emsp;&emsp;&emsp;(i) with respect to a school that is to be closed for not more than 1 year, 3 months or less; and
 
@@ -208,7 +208,7 @@ At the time that the annual budget request for Bureau educational services is pr
 
 #### (1) Distribution of funds
 
-&emsp;Beginning with the first fiscal year following January 8, 2002, all funds appropriated to the budget accounts for the operations andmaintenance of Bureau-funded schools shall be distributed by formula to the schools. No funds from these accounts may be retained or segregated by the Bureau to pay for administrative or other costs of any facilities branch or office, at any level of the Bureau.
+&emsp;Beginning with the first fiscal year following January 8, 2002, all funds appropriated to the budget accounts for the operations and maintenance of Bureau-funded schools shall be distributed by formula to the schools. No funds from these accounts may be retained or segregated by the Bureau to pay for administrative or other costs of any facilities branch or office, at any level of the Bureau.
 
 #### (2) Requirements for certain uses
 
@@ -228,13 +228,13 @@ The Americans with Disabilities Act of 1990, referred to in subsec. (b)(1)(C), i
 
 #### Prior Provisions
 
-A prior section 2005, Pub. L. 95–561, title XI, §1125, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 3986, related to facilities construction, prior to the general amendment of this chapter by Pub. L. 107–110.
+A prior section 2005, Pub. L. 95–561, title XI, §1125, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108Stat. 3986, related to facilities construction, prior to the general amendment of this chapter by Pub. L. 107–110.
 
 Another prior section 2005, Pub. L. 95–561, title XI, §1125, Nov. 1, 1978, 92 Stat. 2319; Pub. L. 100–297, title V, §5103, Apr. 28, 1988, 102 Stat. 364, related to facilities construction, prior to the general amendment of this chapter by Pub. L. 103–382.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” wherever appearing.
+<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" wherever appearing.
 
 #### Change of Name
 
@@ -242,5 +242,5 @@ Committee on Resources of House of Representatives changed to Committee on Natur
 
 #### Use of Tribal Priority Allocations Funds for School Facilities
 
-Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246, provided in part: “That hereafter tribes may use tribal priority allocations funds for the replacement and repair of school facilities in compliance with \[former\] 25 U.S.C. 2005(a) \[see now 25 U.S.C. 2005(b)\], so long as such replacement or repair is approved by the Secretary and completed with non-Federal tribal and/or tribal priority allocation funds”.
+Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–246, provided in part: "That hereafter tribes may use tribal priority allocations funds for the replacement and repair of school facilities in compliance with \[former\] 25 U.S.C. 2005(a) \[see now 25 U.S.C. 2005(b)\], so long as such replacement or repair is approved by the Secretary and completed with non-Federal tribal and/or tribal priority allocation funds".
 

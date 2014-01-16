@@ -22,7 +22,7 @@
 
 #### (C) Denial of application based on discriminatory treatment
 
-&emsp;&emsp;The ground for approval of such a waiver application described in this subparagraph is that the State has denied such a licensing application and—
+&emsp;&emsp;The ground for approval of such a waiver application described in this subparagraph isthat the State has denied such a licensing application and—
 
 &emsp;&emsp;&emsp;(i) the standards or review process imposed by the State as a condition of approval of the license imposes any material requirements, procedures, or standards (other than solvency requirements) to such organizations that are not generally applicable to other entities engaged in a substantially similar business, or
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;&emsp;(ii) the State has imposed as a condition of approval of the license documentation or information requirements relating to solvency or other material requirements, procedures, or standards relating to solvency that are different from the requirements, procedures, and standards applied by the Secretary under subsection (d)(2) of this section.
 
-> &emsp;&emsp;For purposes of this paragraph, the term “solvency requirements” means requirements relating to solvency and other matters covered under the standards established under section 1395w–26(a) of this title.
+> &emsp;&emsp;For purposes of this paragraph, the term "solvency requirements" means requirements relating to solvency and other matters covered under the standards established under section 1395w–26(a) of this title.
 
 #### (E) Treatment of waiver
 
@@ -86,7 +86,7 @@
 
 #### (H) Report
 
-&emsp;&emsp;By not later than December 31, 2001, the Secretary shall submit to the Committee on Ways and Means and the Committee on Commerce of the House of Representatives and the Committee on Finance of the Senate a report regarding whether the waiver process under this paragraph should be continued after December 31, 2002. In making such recommendation, the Secretary shall consider, among other factors, the impact of such process on beneficiaries and on the long-term solvency of the program under this subchapter.
+&emsp;&emsp;By not later than December 31, 2001, the Secretary shall submit to the Committee on Ways and Means and the Committee onCommerce of the House of Representatives and the Committee on Finance of the Senate a report regarding whether the waiver process under this paragraph should be continued after December 31, 2002. In making such recommendation, the Secretary shall consider, among other factors, the impact of such process on beneficiaries and on the long-term solvency of the program under this subchapter.
 
 #### (3) Licensure does not substitute for or constitute certification
 
@@ -114,11 +114,11 @@ The Medicare+Choice organization shall assume full financial risk on a prospecti
 
 &emsp;The Secretary shall establish a process for the receipt and approval of applications of a provider-sponsored organization described in paragraph (1) for certification (and periodic recertification) of the organization as meeting such solvency standards. Under such process, the Secretary shall act upon such a certification application not later than 60 days after the date the application has been received.
 
-#### (d) “Provider-sponsored organization” defined
+#### (d) "Provider-sponsored organization" defined
 
 #### (1) In general
 
-&emsp;In this part, the term “provider-sponsored organization” means a public or private entity—
+&emsp;In this part, the term "provider-sponsored organization" means a public or private entity—
 
 &emsp;&emsp;(A) that is established or organized, and operated, by a health care provider, or group of affiliated health care providers,
 
@@ -128,7 +128,7 @@ The Medicare+Choice organization shall assume full financial risk on a prospecti
 
 #### (2) Substantial proportion
 
-&emsp;In defining what is a “substantial proportion” for purposes of paragraph (1)(B), the Secretary—
+&emsp;In defining what is a "substantial proportion" for purposes of paragraph (1)(B), the Secretary—
 
 &emsp;&emsp;(A) shall take into account the need for such an organization to assume responsibility for providing—
 
@@ -144,7 +144,7 @@ The Medicare+Choice organization shall assume full financial risk on a prospecti
 
 #### (3) Affiliation
 
-&emsp;For purposes of this subsection, a provider is “affiliated” with another provider if, through contract, ownership, or otherwise—
+&emsp;For purposes of this subsection, a provider is "affiliated" with another provider if, through contract, ownership, or otherwise—
 
 &emsp;&emsp;(A) one provider, directly or indirectly, controls, is controlled by, or is under common control with the other,
 
@@ -158,9 +158,9 @@ The Medicare+Choice organization shall assume full financial risk on a prospecti
 
 &emsp;For purposes of paragraph (3), control is presumed to exist if one party, directly or indirectly, owns, controls, or holds the power to vote, or proxies for, not less than 51 percent of the voting rights or governance rights of another.
 
-#### (5) “Health care provider” defined
+#### (5) "Health care provider" defined
 
-&emsp;In this subsection, the term “health care provider” means—
+&emsp;In this subsection, the term "health care provider" means—
 
 &emsp;&emsp;(A) any individual who is engaged in the delivery of health care services in a State and who is required by State law or regulation to be licensed or certified by the State to engage in the delivery of such services in the State, and
 

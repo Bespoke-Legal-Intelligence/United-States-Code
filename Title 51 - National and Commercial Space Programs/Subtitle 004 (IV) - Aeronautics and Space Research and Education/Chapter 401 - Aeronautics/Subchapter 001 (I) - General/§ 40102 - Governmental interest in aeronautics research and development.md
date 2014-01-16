@@ -28,7 +28,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>National Aeronautics Research and Development Policy</i>. Continued progress in aeronautics, the science of flight, is essential to America's economic success and the protection of America's security interests at home and around the globe. Accordingly, it shall be the policy of the United States to facilitate progress in aeronautics research and development (R\&D) through appropriate funding and activities of the Federal Government, in cooperation with State, territorial, tribal, local, and foreign governments, international organizations, academic and research institutions, private organizations, and other entities, as appropriate. The Federal Government shall only undertake roles in supporting aeronautics R\&D that are not more appropriately performed by the private sector. The National Aeronautics Research and Development Policy prepared by the National Science and Technology Council should, to the extent consistent with this order and its implementation, guide the aeronautics R\&D programs of the United States through 2020.
 
-Sec. 2. <i>Functions of the Director of the Office of Science and Technology Policy</i>. To implement the policy set forth in section 1 of this order, the Director of the Office of Science and Technology Policy (the “Director”) shall:
+Sec. 2. <i>Functions of the Director of the Office of Science and Technology Policy</i>. To implement the policy set forth in section 1 of this order, the Director of the Office of Science and Technology Policy (the "Director") shall:
 
 (a) review the funding and activities of the Federal Government relating to aeronautics R\&D;
 
@@ -50,7 +50,7 @@ Sec. 2. <i>Functions of the Director of the Office of Science and Technology Pol
 
 Sec. 3. <i>Implementation of National Aeronautics Research and Development Policy</i>. To implement the policy set forth in section 1 of this order, the Director shall:
 
-(a) develop and, not later than 1 year after the date of this order, submit for approval by the President a plan for national aeronautics R\&D and for related infrastructure, (the “plan”), and thereafter submit, not less often than biennially, to the President for approval any changes to the plan;
+(a) develop and, not later than 1 year after the date of this order, submit for approval by the President a plan for national aeronautics R\&D and for related infrastructure, (the "plan"), and thereafter submit, not less often than biennially, to the President for approval any changes to the plan;
 
 (b) monitor and report to the President as appropriate on the implementation of the approved plan;
 
@@ -76,7 +76,7 @@ Sec. 4. <i>General Provisions</i>. (a) In implementing this order, the Director 
 
 (c) This order shall be implemented in a manner consistent with:
 
-(i) applicable law, including section 102A(i) of the National Security Act of 1947, as amended (50 U.S.C. 403–1(i)), and subject to the availability of appropriations; and
+(i) applicable law, including section 102A(i) of the National Security Act of 1947, as amended (\[former\] 50 U.S.C. 403–1(i)) \[now 50 U.S.C. 3024(i)\], and subject to the availability of appropriations; and
 
 (ii) statutory authority of the principal officers of executive departments and agencies as the heads of their respective departments and agencies.
 

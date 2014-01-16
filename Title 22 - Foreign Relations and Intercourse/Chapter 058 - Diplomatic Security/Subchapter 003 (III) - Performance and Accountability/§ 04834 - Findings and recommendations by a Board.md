@@ -48,5 +48,5 @@ Whenever a Board finds reasonable cause to believe that an individual described 
 
 #### Amendments
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–204 inserted “or surrounding the serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad (as the case may be)” after first reference to “mission abroad”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–204 inserted "or surrounding the serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad (as the case may be)" after first reference to "mission abroad".
 

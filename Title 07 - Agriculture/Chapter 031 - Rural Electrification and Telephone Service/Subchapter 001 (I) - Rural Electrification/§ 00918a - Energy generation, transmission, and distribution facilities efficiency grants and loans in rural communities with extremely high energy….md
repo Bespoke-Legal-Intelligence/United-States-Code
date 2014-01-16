@@ -14,7 +14,7 @@ The Secretary, acting through the Rural Utilities Service, may—
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to carry out this section $50,000,000 for fiscal year 2001 and such sums as are necessary for each subsequent fiscal year.
+&emsp;There are authorized to be appropriated to carry out this section $50,000,000 for fiscal year2001 and such sums as are necessary for each subsequent fiscal year.
 
 #### (2) Limitation on planning and administrative expenses
 

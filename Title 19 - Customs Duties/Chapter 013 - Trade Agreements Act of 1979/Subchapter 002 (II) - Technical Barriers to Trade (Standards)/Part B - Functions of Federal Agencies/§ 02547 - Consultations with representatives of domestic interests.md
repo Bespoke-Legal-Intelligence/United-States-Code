@@ -8,5 +8,5 @@ In carrying out the functions for which responsible under this subchapter, the T
 
 <b>1996</b>—Pub. L. 104–295 amended directory language of Pub. L. 103–182. See 1993 Amendment note below.
 
-<b>1993</b>—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted “Trade Representative” for “Special Representative”.
+<b>1993</b>—Pub. L. 103–182, as amended by Pub. L. 104–295, substituted "Trade Representative" for "Special Representative".
 

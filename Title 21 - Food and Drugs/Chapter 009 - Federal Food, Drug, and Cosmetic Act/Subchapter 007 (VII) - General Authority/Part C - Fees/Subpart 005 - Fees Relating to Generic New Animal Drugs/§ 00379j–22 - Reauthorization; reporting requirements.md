@@ -2,11 +2,11 @@
 
 #### (a) Performance reports
 
-Beginning with fiscal year 2009, not later than 60 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 201(3) <sup>1</sup> of the Animal Generic Drug User Fee Act of 2008 toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs during such fiscal year.
+Beginning with fiscal year 2014, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to the Committee on Health, Education, Labor, and Pensions of the Senate, and the Committee on Energy and Commerce of the House of Representatives a report concerning the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 201(b) of the Animal Generic Drug User Fee Amendments of 2013 toward expediting the generic new animal drug development process and the review of abbreviated applications for generic new animal drugs, supplemental abbreviated applications for generic new animal drugs, and investigational submissions for generic new animal drugs during such fiscal year.
 
 #### (b) Fiscal report
 
-Beginning with fiscal year 2009, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.
+Beginning with fiscal year 2014, not later than 120 days after the end of each fiscal year during which fees are collected under this subpart, the Secretary shall prepare and submit to Committee <sup>1</sup> on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives a report on the implementation of the authority for such fees during such fiscal year and the use, by the Food and Drug Administration, of the fees collected during such fiscal year for which the report is made.
 
 #### (c) Public availability
 
@@ -16,7 +16,7 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 #### (1) Consultation
 
-&emsp;In developing recommendations to present to Congress with respect to the goals, and plans for meeting the goals, for the process for the review of abbreviated applications for generic new animal drugs for the first 5 fiscal years after fiscal year 2013, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
+&emsp;In developing recommendations to present to Congress with respect to the goals, and plans for meeting the goals, for the process for the review of abbreviated applications for generic new animal drugs for the first 5 fiscal years after fiscal year 2018, and for the reauthorization of this subpart for such fiscal years, the Secretary shall consult with—
 
 &emsp;&emsp;(A) the Committee on Energy and Commerce of the House of Representatives;
 
@@ -62,7 +62,7 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 #### (5) Transmittal of recommendations
 
-&emsp;Not later than January 15, 2013, the Secretary shall transmit to Congress the revised recommendations under paragraph (4), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
+&emsp;Not later than January 15, 2018, the Secretary shall transmit to Congress the revised recommendations under paragraph (4), a summary of the views and comments received under such paragraph, and any changes made to the recommendations in response to such views and comments.
 
 #### (6) Minutes of negotiation meetings
 
@@ -74,23 +74,33 @@ The Secretary shall make the reports required under subsections (a) and (b) avai
 
 &emsp;&emsp;The minutes described under subparagraph (A) shall summarize any substantive proposal made by any party to the negotiations as well as significant controversies or differences of opinion during the negotiations and their resolution.
 
-(June 25, 1938, ch. 675, §742, as added Pub. L. 110–316, title II, §203, Aug. 14, 2008, 122 Stat. 3522.)
+(June 25, 1938, ch. 675, §742, as added Pub. L. 110–316, title II, §203, Aug. 14, 2008, 122 Stat. 3522; amended Pub. L. 113–14, title II, §203, June 13, 2013, 127 Stat. 472.)
 
 #### Termination of Section
 
-<i>For termination of section by section 204(b) of Pub. L. 110–316, see Termination Date note below.</i>
+<i>For termination of section by section 206(b) of Pub. L. 113–14, see Termination Date note below.</i>
 
 #### References in Text
 
-Section 201(3) of the Animal Generic Drug User Fee Act of 2008, referred to in subsec. (a), probably means section 201(b)(3) of Pub. L. 110–316, which is set out as a note under section 379j–21 of this title.
+Section 201(b) of the Animal Generic Drug User Fee Amendments of 2013, referred to in subsec. (a), is section 201(b) of Pub. L. 113–14, which is set out as a note under section 379j–21 of this title.
 
 #### Prior Provisions
 
 A prior section 742 of act June 25, 1938, was renumbered section 746 and is classified to section 379l of this title.
 
+#### Amendments
+
+<b>2013</b>—Pub. L. 113–14 amended section generally. Prior to amendment, section related to reauthorization of this subpart and reporting requirements.
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 113–14 effective Oct. 1, 2013, see section 205 of Pub. L. 113–14, set out as a note under section 379j–21 of this title.
+
 #### Termination Date
 
-Pub. L. 110–316, title II, §204(b), Aug. 14, 2008, 122 Stat. 3524, provided that: “The amendment made by section 203 \[enacting this section\] shall cease to be effective January 31, 2014.”
+Pub. L. 113–14, title II, §206(b), June 13, 2013, 127 Stat. 474, provided that: "Section 742 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 379j–22) shall cease to be effective January 31, 2019."
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+Pub. L. 110–316, title II, §204(b), Aug. 14, 2008, 122 Stat. 3524, which provided that the amendment made by section 203 of Pub. L. 110–316 (enacting this section) would cease to be effective Jan. 31, 2014, was repealed by Pub. L. 113–14, title II, §206(c)(1), June 13, 2013, 127 Stat. 474.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

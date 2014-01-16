@@ -18,7 +18,7 @@
 
 #### (1) Pre-1987 subchapter VII
 
-&emsp;All entities with continuing obligations incurred under parts A, B, C, and D of subchapter VII of this chapter, as such parts were in effect before the effective date of the HigherEducation Amendments of 1992, shall be subject to the requirements of such part as in effect before the effective date of the Higher Education Amendments of 1992.
+&emsp;All entities with continuing obligations incurred under parts A, B, C, and D of subchapter VII of this chapter, as such parts were in effect before the effective date of the Higher Education Amendments of 1992, shall be subject to the requirements of such part as in effect before the effective date of the Higher Education Amendments of 1992.
 
 #### (2) Post-1992 and pre-1998 part C of subchapter VII
 
@@ -46,5 +46,5 @@ A prior section 121 of Pub. L. 89–329, title I, as added Pub. L. 99–498, tit
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315 substituted “2009 and for each succeeding fiscal year” for “1999 and for each of the 4 succeeding fiscal years” in pars. (1) and (2).
+<b>2008</b>—Subsec. (a). Pub. L. 110–315 substituted "2009 and for each succeeding fiscal year" for "1999 and for each of the 4 succeeding fiscal years" in pars. (1) and (2).
 

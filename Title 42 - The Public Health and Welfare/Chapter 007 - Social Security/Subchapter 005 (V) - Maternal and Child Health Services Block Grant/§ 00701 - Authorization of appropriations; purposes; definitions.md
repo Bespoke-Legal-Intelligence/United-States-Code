@@ -6,13 +6,13 @@
 
 &emsp;&emsp;(A) to provide and to assure mothers and children (in particular those with low income or with limited availability of health services) access to quality maternal and child health services;
 
-&emsp;&emsp;(B) to reduce infant mortality and the incidence of preventable diseases and handicapping conditions among children, to reduce the need for inpatient and long-term care services, to increase the number of children (especially preschool children) appropriately immunized against disease and the number of low income children receiving health assessments and follow-up diagnostic and treatment services, and otherwise topromote the health of mothers and infants by providing prenatal, delivery, and postpartum care for low income, at-risk pregnant women, and to promote the health of children by providing preventive and primary care services for low income children;
+&emsp;&emsp;(B) to reduce infant mortality and the incidence of preventable diseases and handicapping conditions among children, to reduce the need for inpatient and long-term care services, to increase the number of children (especially preschool children) appropriately immunized against disease and the number of low income children receiving health assessments and follow-up diagnostic and treatment services, and otherwise to promote the health of mothers and infants by providing prenatal, delivery, and postpartum care for low income, at-risk pregnant women, and to promote the health of children by providing preventive and primary care services for low income children;
 
 &emsp;&emsp;(C) to provide rehabilitation services for blind and disabled individuals under the age of 16 receiving benefits under subchapter XVI of this chapter, to the extent medical assistance for such services is not provided under subchapter XIX of this chapter; and
 
 &emsp;&emsp;(D) to provide and to promote family-centered, community-based, coordinated care (including care coordination services, as defined in subsection (b)(3) of this section) for children with special health care needs and to facilitate the development of community-based systems of services for such children and their families;
 
-&emsp;(2) for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for special projects of regional and national significance, research, and training with respect to maternal and child health and children with special health care needs (including early intervention training and services development), for genetic disease testing, counseling, and information development and dissemination programs, for grants (including funding for comprehensive hemophilia diagnostic treatment centers) relating to hemophilia without regard to age, and for the screening of newborns for sickle cell anemia, and other genetic disorders and follow-up services; and
+&emsp;(2) for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for special projects of regional and national significance, research, and training with respect to maternal and child health andchildren with special health care needs (including early intervention training and services development), for genetic disease testing, counseling, and information development and dissemination programs, for grants (including funding for comprehensive hemophilia diagnostic treatment centers) relating to hemophilia without regard to age, and for the screening of newborns for sickle cell anemia, and other genetic disorders and follow-up services; and
 
 &emsp;(3) subject to section 702(b) of this title for the purpose of enabling the Secretary (through grants, contracts, or otherwise) to provide for developing and expanding the following—
 
@@ -32,7 +32,7 @@
 
 (b) For purposes of this subchapter:
 
-&emsp;(1) The term “consolidated health programs” means the programs administered under the provisions of—
+&emsp;(1) The term "consolidated health programs" means the programs administered under the provisions of—
 
 &emsp;&emsp;(A) this subchapter (relating to maternal and child health and services for children with special health care needs),
 
@@ -44,11 +44,11 @@
 
 > &emsp;as such provisions were in effect before August 13, 1981.
 
-&emsp;(2) The term “low income” means, with respect to an individual or family, such an individual or family with an income determined to be below the income official poverty line defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of this title.
+&emsp;(2) The term "low income" means, with respect to an individual or family, such an individual or family with an income determined to be below the income official poverty line defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of this title.
 
-&emsp;(3) The term “care coordination services” means services to promote the effective and efficient organization and utilization of resources to assure access to necessary comprehensive services for children with special health care needs and their families.
+&emsp;(3) The term "care coordination services" means services to promote the effective and efficient organization and utilization of resources to assure access to necessary comprehensive services for children with special health care needs and their families.
 
-&emsp;(4) The term “case management services” means—
+&emsp;(4) The term "case management services" means—
 
 &emsp;&emsp;(A) with respect to pregnant women, services to assure access to quality prenatal, delivery, and postpartum care; and
 
@@ -58,9 +58,11 @@
 
 &emsp;(i) $3,000,000 for fiscal year 2007;
 
-&emsp;(ii) $4,000,000 for fiscal year 2008; and
+&emsp;(ii) $4,000,000 for fiscal year 2008;
 
-&emsp;(iii) $5,000,000 for each of fiscal years 2009 through 2013.
+&emsp;(iii) $5,000,000 for each of fiscal years 2009 through 2013; and
+
+&emsp;(iv) $2,500,000 for the portion of fiscal year 2014 before April 1, 2014.
 
 (B) Funds appropriated or authorized to be appropriated under subparagraph (A) shall—
 
@@ -76,7 +78,7 @@
 
 &emsp;(C) identify successful health delivery models for such children;
 
-&emsp;(D) develop with representatives of health care providers, managed care organizations, health care purchasers, and appropriate State agencies, a model for collaboration between families of such children and health professionals;
+&emsp;(D) develop with representatives of health care providers, managed care organizations,health care purchasers, and appropriate State agencies, a model for collaboration between families of such children and health professionals;
 
 &emsp;(E) provide training and guidance regarding caring for such children;
 
@@ -98,9 +100,9 @@
 
 (4) The provisions of this subchapter that are applicable to the funds made available to the Secretary under section 702(a)(1) of this title apply in the same manner to funds made available to the Secretary under paragraph (1)(A).
 
-(5) For purposes of this subsection, the term “State” means each of the 50 States and the District of Columbia.
+(5) For purposes of this subsection, the term "State" means each of the 50 States and the District of Columbia.
 
-(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584; Pub. L. 109–171, title VI, §6064, Feb. 8, 2006, 120 Stat. 100; Pub. L. 111–148, title V, §5507(b), Mar. 23, 2010, 124 Stat. 668; Pub. L. 112–240, title VI, §624, Jan. 2, 2013, 126 Stat. 2352.)
+(Aug. 14, 1935, ch. 531, title V, §501, as added Pub. L. 97–35, title XXI, §2192(a), Aug. 13, 1981, 95 Stat. 818; amended Pub. L. 97–248, title I, §137(b)(1), (2), Sept. 3, 1982, 96 Stat. 376; Pub. L. 98–369, div. B, title III, §2372(a), July 18, 1984, 98 Stat. 1110; Pub. L. 99–272, title IX, §9527(a)–(c), Apr. 7, 1986, 100 Stat. 219; Pub. L. 99–509, title IX, §9441(a), Oct. 21, 1986, 100 Stat. 2071; Pub. L. 100–203, title IV, §4118(p)(8), Dec. 22, 1987, 101 Stat. 1330–159; Pub. L. 101–239, title VI, §6501(a), Dec. 19, 1989, 103 Stat. 2273; Pub. L. 103–432, title II, §201, Oct. 31, 1994, 108 Stat. 4453; Pub. L. 105–12, §9(d), Apr. 30, 1997, 111 Stat. 27; Pub. L. 106–554, §1(a)(6) \[title IX, §921(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–584; Pub. L. 109–171, title VI, §6064, Feb. 8, 2006, 120 Stat. 100; Pub. L. 111–148, title V, §5507(b), Mar. 23, 2010, 124 Stat. 668; Pub. L. 112–240, title VI, §624, Jan. 2, 2013, 126 Stat. 2352; Pub. L. 113–67, div. B, title II, §1203, Dec. 26, 2013, 127 Stat. 1199.)
 
 #### References in Text
 
@@ -122,45 +124,47 @@ A prior section 701, act Aug. 14, 1935, ch. 531, title V, §501, as added Jan. 2
 
 Another prior section 701, acts Aug. 14, 1935, ch. 531, title V, §501, 49 Stat. 629; Aug. 10, 1939, ch. 666, title V, §501, 53 Stat. 1380; 1946 Reorg. Plan No. 2, §1, eff. July 16, 1946, 11 F.R. 7873, 60 Stat. 1095; Aug. 10, 1946, ch. 951, title IV, §401(b)(1), 60 Stat. 986; Aug. 28, 1950, ch. 809, title III, pt. 3, §331(a), pt. 6, §361(e), 64 Stat. 551, 558; Aug. 28, 1958, Pub. L. 85–840, title VI, §602(a), 72 Stat. 1054; Sept. 13, 1960, Pub. L. 86–778, title VII, §707(a)(1)(A), 74 Stat. 995; Oct. 24, 1963, Pub. L. 88–156, §2(a), 77 Stat. 273; July 30, 1965, Pub. L. 89–97, title II, §201(a), 79 Stat. 353, authorized appropriations, for maternal and child health services, of $25,000,000; $30,000,000; $35,000,000; $45,000,000; $50,000,000; $55,000,000; $55,000,000; and $60,000,000 for fiscal years ending June 30, 1963, 1964, 1965, 1966, 1967, 1968, 1969, 1970 and each fiscal year thereafter, respectively, prior to the general amendment of title V of the Social Security Act by Pub. L. 90–248, §301.
 
-Provisions similar to those comprising former section 701 were contained in section 511 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 631, as amended (formerly classified to section 711 of this title, and sections 531(a), 532(a), and 533(a) (formerly 532(a)) of act Aug. 14, 1935, ch. 531, title V, as added Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; amended July 30, 1965, Pub. L. 89–97, title II, §205(3), 79 Stat. 354; Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; renumbered July 30, 1965, Pub. L. 89–97,title II, §205(2), 79 Stat. 354 (formerly classified to sections 729(a), 729–1(a), and 729a(a) of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
+Provisions similar to those comprising former section 701 were contained in section 511 of act Aug. 14, 1935, ch. 531, title V, 49 Stat. 631, as amended (formerly classified to section 711 of this title, and sections 531(a), 532(a), and 533(a) (formerly 532(a)) of act Aug. 14, 1935, ch. 531, title V, as added Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; amended July 30, 1965, Pub. L. 89–97, title II, §205(3), 79 Stat. 354; Oct. 24, 1963, Pub. L. 88–156, §4, 77 Stat. 274; renumbered July 30, 1965, Pub. L. 89–97, title II, §205(2), 79 Stat. 354 (formerly classified to sections 729(a), 729–1(a), and 729a(a) of this title), prior to the general amendment and renumbering of title V of act Aug. 14, 1935, by Pub. L. 90–248, §301.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c)(1)(A)(iii). Pub. L. 112–240 substituted “2013” for “2012”.
+<b>2013</b>—Subsec. (c)(1)(A)(iii). Pub. L. 112–240 substituted "2013" for "2012".
 
-<b>2010</b>—Subsec. (c)(1)(A)(iii). Pub. L. 111–148 substituted “each of fiscal years 2009 through 2012” for “fiscal year 2009”.
+Subsec. (c)(1)(A)(iv). Pub. L. 113–67 added cl. (iv).
+
+<b>2010</b>—Subsec. (c)(1)(A)(iii). Pub. L. 111–148 substituted "each of fiscal years 2009 through 2012" for "fiscal year 2009".
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–171 added subsec. (c).
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–554 substituted “$850,000,000 for fiscal year 2001” for “$705,000,000 for fiscal year 1994” in introductory provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–554 substituted "$850,000,000 for fiscal year 2001" for "$705,000,000 for fiscal year 1994" in introductory provisions.
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–12 inserted concluding provisions.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–432 substituted “$705,000,000 for fiscal year 1994” for “$686,000,000 for fiscal year 1990” in introductory provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–432 substituted "$705,000,000 for fiscal year 1994" for "$686,000,000 for fiscal year 1990" in introductory provisions.
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–239, §6501(a)(1), amended subsec. (a) generally, substituting pars. (1) to (3) for former pars. (1) to (4) and concluding provisions.
 
 Subsec. (b)(3), (4). Pub. L. 101–239, §6501(a)(2), added pars. (3) and (4).
 
-<b>1987</b>—Subsec. (b)(2). Pub. L. 100–203 struck out “nonform” after “below the”.
+<b>1987</b>—Subsec. (b)(2). Pub. L. 100–203 struck out "nonform" after "below the".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–509 substituted “$553,000,000 for fiscal year 1987, $557,000,000 for fiscal year 1988, and $561,000,000 for fiscal year 1989” for “$478,000,000 for fiscal year 1984” in concluding provisions.
+<b>1986</b>—Subsec. (a). Pub. L. 99–509 substituted "$553,000,000 for fiscal year 1987, $557,000,000 for fiscal year 1988, and $561,000,000 for fiscal year 1989" for "$478,000,000 for fiscal year 1984" in concluding provisions.
 
-Pub. L. 99–272, §9527(b), substituted “children with special health care needs” for “crippled children” in concluding provisions.
+Pub. L. 99–272, §9527(b), substituted "children with special health care needs" for "crippled children" in concluding provisions.
 
-Subsec. (a)(4). Pub. L. 99–272, §9527(a), substituted “children who are ‘children with special health care needs’ or who are suffering from conditions leading to such status” for “children who are crippled or who are suffering from conditions leading to crippling”.
+Subsec. (a)(4). Pub. L. 99–272, §9527(a), substituted "children who are 'children with special health care needs' or who are suffering from conditions leading to such status" for "children who are crippled or who are suffering from conditions leading to crippling".
 
-Subsec. (b)(1)(A). Pub. L. 99–272, §9527(c), substituted “services for children with special health care needs” for “crippled children's services”.
+Subsec. (b)(1)(A). Pub. L. 99–272, §9527(c), substituted "services for children with special health care needs" for "crippled children's services".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted “$478,000,000 for fiscal year 1984 and each fiscal year thereafter” for “$373,000,000 for fiscal year 1982 and for each fiscal year thereafter”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted "$478,000,000 for fiscal year 1984 and each fiscal year thereafter" for "$373,000,000 for fiscal year 1982 and for each fiscal year thereafter".
 
-<b>1982</b>—Subsec. (b)(1)(D). Pub. L. 97–248, §137(b)(1), substituted “title VI” for “title IV”.
+<b>1982</b>—Subsec. (b)(1)(D). Pub. L. 97–248, §137(b)(1), substituted "title VI" for "title IV".
 
-Subsec. (b)(2). Pub. L. 97–248, §137(b)(2), substituted “section 9902(2)” for “section 2971d”.
+Subsec. (b)(2). Pub. L. 97–248, §137(b)(2), substituted "section 9902(2)" for "section 2971d".
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(6) \[title IX, §921(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585, provided that: “The amendment made by subsection (a) \[amending this section\] takes effect on October 1, 2000.”
+Pub. L. 106–554, §1(a)(6) \[title IX, §921(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–585, provided that: "The amendment made by subsection (a) \[amending this section\] takes effect on October 1, 2000."
 
 #### Effective Date of 1997 Amendment
 
@@ -170,21 +174,21 @@ Amendment by Pub. L. 105–12 effective Apr. 30, 1997, applicable to Federal pay
 
 Pub. L. 101–239, title VI, §6510, Dec. 19, 1989, 103 Stat. 2284, provided that:
 
-“(a)
+"(a)
 
 In General.—Except as provided in subsection (b), the amendments made by this subtitle \[subtitle C (§§6501–6510) of title VI of Pub. L. 101–239, amending this section and sections 702 to 706, 708, and 709 of this title\] shall apply to appropriations for fiscal years beginning with fiscal year 1990.
 
-“(b)
+"(b)
 
 Application and Report.—The amendments made—
 
-&emsp;“(1) by subsections (b) and (c) of section 6503 \[amending sections 702, 704 to 706, and 709 of this title\] shall apply to payments for allotments for fiscal years beginning with fiscal year 1991, and
+&emsp;"(1) by subsections (b) and (c) of section 6503 \[amending sections 702, 704 to 706, and 709 of this title\] shall apply to payments for allotments for fiscal years beginning with fiscal year 1991, and
 
-&emsp;“(2) by section 6504 \[amending section 706 of this title\] shall apply to annual reports for fiscal years beginning with fiscal year 1991.”
+&emsp;"(2) by section 6504 \[amending section 706 of this title\] shall apply to annual reports for fiscal years beginning with fiscal year 1991."
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. B, title III, §2372(b), July 18, 1984, 98 Stat. 1111, provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective for fiscal years beginning on or after October 1, 1983.”
+Pub. L. 98–369, div. B, title III, §2372(b), July 18, 1984, 98 Stat. 1111, provided that: "The amendment made by subsection (a) \[amending this section\] shall be effective for fiscal years beginning on or after October 1, 1983."
 
 #### Effective Date of 1982 Amendment
 
@@ -194,53 +198,53 @@ Amendment by Pub. L. 97–248 effective as if originally included as part of thi
 
 Pub. L. 97–35, title XXI, §2194, Aug. 13, 1981, 95 Stat. 828, provided that:
 
-“(a) Except as otherwise provided in this section, the amendments made by sections 2192 \[enacting this subchapter and enacting provisions set out as a note under section 706 of this title\] and 2193 \[amending this section and sections 247a, 300a–27, 300b, 300c–11, and 300c–21 of this title with respect to fiscal year ending Sept. 30, 1982, amending sections 300b–3, 300b–6, 1301, 1308, 1320a–1, 1320a–8, 1320b–2, 1320b–4, 1320c–21, 1382d, 1395b–1, 1395x, and 1396a of this title, repealing sections 236, 247a, 300a–21 to 300a–28, 300a–41, 300b, 300b–5, 300c–11, and 300c–21 of this title, enacting provisions set out as a note under section 1382d of this title, and amending provisions set out as notes under sections 1320a–8 and 1395b–1 of this title\] of this subtitle do not apply to any grant made, or contract entered into, or amounts payable to States under State plans before the earlier of—
+"(a) Except as otherwise provided in this section, the amendments made by sections 2192 \[enacting this subchapter and enacting provisions set out as a note under section 706 of this title\] and 2193 \[amending this section and sections 247a, 300a–27, 300b, 300c–11, and 300c–21 of this title with respect to fiscal year ending Sept. 30, 1982, amending sections 300b–3, 300b–6, 1301, 1308, 1320a–1, 1320a–8, 1320b–2, 1320b–4, 1320c–21, 1382d, 1395b–1, 1395x, and 1396a of this title, repealing sections 236, 247a, 300a–21 to 300a–28, 300a–41, 300b, 300b–5, 300c–11, and 300c–21 of this title, enacting provisions set out as a note under section 1382d of this title, and amending provisions set out as notes under sections 1320a–8 and 1395b–1 of this title\] of this subtitle do not apply to any grant made, or contract entered into, or amounts payable to States under State plans before the earlier of—
 
-&emsp;“(1) October 1, 1982, or
+&emsp;"(1) October 1, 1982, or
 
-&emsp;“(2)(A) in the case of such grants, contracts, or payments under consolidated State programs (as defined in subsection (c)(2)(C)) to a State (or entities in the State), the date the State is first entitled to an allotment under title V of the Social Security Act \[this subchapter\] (as amended by this subtitle), or
+&emsp;"(2)(A) in the case of such grants, contracts, or payments under consolidated State programs (as defined in subsection (c)(2)(C)) to a State (or entities in the State), the date the State is first entitled to an allotment under title V of the Social Security Act \[42 U.S.C. 701 et seq.\] (as amended by this subtitle), or
 
-&emsp;“(B) in the case of grants and contracts under consolidated Federal programs (as defined in subsection (c)(2)(B)), October 1, 1981, or such later date (before October 1, 1982) as the Secretary determines to be appropriate.
+&emsp;"(B) in the case of grants and contracts under consolidated Federal programs (as defined in subsection (c)(2)(B)), October 1, 1981, or such later date (before October 1, 1982) as the Secretary determines to be appropriate.
 
-“(b)(1) The Secretary of Health and Human Services (hereinafter in this section referred to as the ‘Secretary’) may not provide for any allotment to a State under title V of the Social Security Act \[this subchapter\] (as amended by this subtitle) for a calendar quarter in fiscal year 1982 unless the State has notified the Secretary, at least 30 days (or 15 days in the case of the first calendar quarter of the fiscal year) before the beginning of the calendar quarter, that the State requests an allotment for that calendar quarter (and subsequent calendar quarters).
+"(b)(1) The Secretary of Health and Human Services (hereinafter in this section referred to as the 'Secretary') may not provide for any allotment to a State under title V of the Social Security Act \[42 U.S.C. 701 et seq.\] (as amended by this subtitle) for a calendar quarter in fiscal year 1982 unless the State has notified the Secretary, at least 30 days (or 15 days in the case of the first calendar quarter of the fiscal year) before the beginning of the calendar quarter, that the State requests an allotment for that calendar quarter (and subsequent calendar quarters).
 
-“(2)(A) Any grants or contracts entered into under the authorities of the consolidated State programs (as defined in subsection (c)(2)(C)) after the date of the enactment of this subtitle \[Aug. 13, 1981\] shall permit the termination of such grant or contract upon three months notice by the State in which the grantee or contractor is located.
+"(2)(A) Any grants or contracts entered into under the authorities of the consolidated State programs (as defined in subsection (c)(2)(C)) after the date of the enactment of this subtitle \[Aug. 13, 1981\] shall permit the termination of such grant or contract upon three months notice by the State in which the grantee or contractor is located.
 
-“(B) The Secretary shall not make or renew any grants or contracts under the provisions of the consolidated State programs (as defined in subsection (c)(2)(C)) to a State (or an entity in the State) after the date the State becomes entitled to an allotment of funds under title V of the Social Security Act \[this subchapter\] (as amended by this subtitle).
+"(B) The Secretary shall not make or renew any grants or contracts under the provisions of the consolidated State programs (as defined in subsection (c)(2)(C)) to a State (or an entity in the State) after the date the State becomes entitled to an allotment of funds under title V of the Social Security Act (as amended by this subtitle).
 
-“(3)(A) In the case of funds appropriated for fiscal year 1982 for consolidated health programs (as defined in subsection (c)(2)(A)), such funds shall (notwithstanding any other provision of law) be available for use under title V of the Social Security Act (as amended by this subtitle) \[this subchapter\], subject to subparagraphs (B) and (C).
+"(3)(A) In the case of funds appropriated for fiscal year 1982 for consolidated health programs (as defined in subsection (c)(2)(A)), such funds shall (notwithstanding any other provision of law) be available for use under title V of the Social Security Act (as amended by this subtitle), subject to subparagraphs (B) and (C).
 
-“(B) Notwithstanding any other provision of law—
+"(B) Notwithstanding any other provision of law—
 
-&emsp;“(i) the amount that may be made available for expenditures for the consolidated Federal programs for fiscal year 1982 and for projects and programs under section 502(a) of the Social Security Act \[section 702(a) of this title\] (as amended by this subtitle) may not exceed the amount provided for projects and programs under such section 502(a) for that fiscal year, and
+&emsp;"(i) the amount that may be made available for expenditures for the consolidated Federal programs for fiscal year 1982 and for projects and programs under section 502(a) of the Social Security Act \[42 U.S.C. 702(a)\] (as amended by this subtitle) may not exceed the amount provided for projects and programs under such section 502(a) for that fiscal year, and
 
-&emsp;“(ii) the amount that may be made available to a State (or entities in the State) for carrying out the consolidated State programs for fiscal year 1982 and for allotments to the State under section 502(b) of the Social Security Act \[section 702(b) of this title\] (as amended by this subtitle) may not exceed the amount which is allotted to the State for that fiscal year under such section (without regard to paragraphs (3) and (4) thereof).
+&emsp;"(ii) the amount that may be made available to a State (or entities in the State) for carrying out the consolidated State programs for fiscal year 1982 and for allotments to the State under section 502(b) of the Social Security Act \[42 U.S.C. 702(b)\] (as amended by this subtitle) may not exceed the amount which is allotted to the State for that fiscal year under such section (without regard to paragraphs (3) and (4) thereof).
 
-“(C) For fiscal year 1982, the Secretary shall reduce the amount which would otherwise be available—
+"(C) For fiscal year 1982, the Secretary shall reduce the amount which would otherwise be available—
 
-&emsp;“(i) for expenditures by the Secretary under section 502(a) of the Social Security Act \[section 702(a) of this title\] (as amended by this subtitle) by the amounts which the Secretary determines or estimates are payable for consolidated Federal programs (as defined in subsection (c)(2)(B)) from funds for fiscal year 1982, and
+&emsp;"(i) for expenditures by the Secretary under section 502(a) of the Social Security Act \[42 U.S.C. 702(a)\] (as amended by this subtitle) by the amounts which the Secretary determines or estimates are payable for consolidated Federal programs (as defined in subsection (c)(2)(B)) from funds for fiscal year 1982, and
 
-&emsp;“(ii) for allotment to each of the States under section 502(b) of such Act \[section 702(b) of this title\] (as so amended) by the amounts which the Secretary determines or estimates are payable to that State (or entities in the State) under the consolidated State programs (as defined in subsection (c)(2)(C)) from funds for fiscal year 1982.
+&emsp;"(ii) for allotment to each of the States under section 502(b) of such Act \[42 U.S.C. 702(b)\] (as so amended) by the amounts which the Secretary determines or estimates are payable to that State (or entities in the State) under the consolidated State programs (as defined in subsection (c)(2)(C)) from funds for fiscal year 1982.
 
-“(c) For purposes of this section:
+"(c) For purposes of this section:
 
-&emsp;“(1) The term ‘State’ has the meaning given such term for purposes of title V of the Social Security Act \[this subchapter\].
+&emsp;"(1) The term 'State' has the meaning given such term for purposes of title V of the Social Security Act \[42 U.S.C. 701 et seq.\].
 
-&emsp;“(2)(A) The term ‘consolidated health programs’ has the meaning given such term in section 501(b) of the Social Security Act \[subsec. (b) of this section\] (as amended by this subtitle).
+&emsp;"(2)(A) The term 'consolidated health programs' has the meaning given such term in section 501(b) of the Social Security Act \[42 U.S.C. 701(b)\] (as amended by this subtitle).
 
-&emsp;“(B) The term ‘consolidated Federal programs’ means the consolidated health programs—
+&emsp;"(B) The term 'consolidated Federal programs' means the consolidated health programs—
 
-&emsp;&emsp;“(i) of special projects grants under sections 503 and 504 \[sections 703 and 704 of this title\], and training grants under section 511 \[section 711 of this title\], of the Social Security Act,
+&emsp;&emsp;"(i) of special projects grants under sections 503 and 504 \[42 U.S.C. 703, 704\], and training grants under section 511 \[42 U.S.C. 711\], of the Social Security Act,
 
-&emsp;&emsp;“(ii) of grants and contracts for genetic disease projects and programs under section 1101 of the Public Health Service Act \[section 300b of this title\], and
+&emsp;&emsp;"(ii) of grants and contracts for genetic disease projects and programs under section 1101 of the Public Health Service Act \[former 42 U.S.C. 300b\], and
 
-&emsp;&emsp;“(iii) of grants or contracts for comprehensive hemophilia diagnostic and treatment centers under section 1131 of the Public Health Service Act \[section 300c–21 of this title\],
+&emsp;&emsp;"(iii) of grants or contracts for comprehensive hemophilia diagnostic and treatment centers under section 1131 of the Public Health Service Act \[former 42 U.S.C. 300c–21\],
 
 > &emsp;as such sections are in effect before the date of the enactment of this subtitle \[Aug. 13, 1981\].
 
-&emsp;“(C) The term ‘consolidated State programs’ means the consolidated health programs, other than the consolidated Federal programs.
+&emsp;"(C) The term 'consolidated State programs' means the consolidated health programs, other than the consolidated Federal programs.
 
-“(d) The provisions of chapter 2 of subtitle C of title XVII of this Act \[sections 1741–1745 of Pub. L. 97–35, which were repealed and reenacted as section 7301–7305 of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877\] shall not apply to this subtitle (or the programs under the amendments made by this title \[probably should be subtitle\]) and, specifically, section 1745 of this Act \[set out as a note under section 1243 of Title 31\] shall not apply to financial and compliance audits conducted under section 506(b) of the Social Security Act \[section 706(b) of this title\] (as amended by this subtitle).”
+"(d) The provisions of chapter 2 of subtitle C of title XVII of this Act \[sections 1741–1745 of Pub. L. 97–35, which were repealed and reenacted as section 7301–7305 of Title 31, Money and Finance, by Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877\] shall not apply to this subtitle (or the programs under the amendments made by this title \[probably should be subtitle\]) and, specifically, section 1745 of this Act \[set out as a note under section 1243 of Title 31\] shall not apply to financial and compliance audits conducted under section 506(b) of the Social Security Act \[42 U.S.C. 706(b)\] (as amended by this subtitle)."
 
 #### Development of Model Applications for Maternal and Child Assistance Programs
 
@@ -248,13 +252,13 @@ Pub. L. 101–239, title VI, §6506(a), Dec. 19, 1989, 103 Stat. 2281, directed 
 
 #### Research on Infant Mortality and Medicaid Services
 
-Pub. L. 101–239, title VI, §6507, Dec. 19, 1989, 103 Stat. 2282, provided that: “The Secretary of Health and Human Services shall develop a national data system for linking, for any infant up to age one—
+Pub. L. 101–239, title VI, §6507, Dec. 19, 1989, 103 Stat. 2282, provided that: "The Secretary of Health and Human Services shall develop a national data system for linking, for any infant up to age one—
 
-&emsp;“(1) the infant's birth record,
+&emsp;"(1) the infant's birth record,
 
-&emsp;“(2) any death record for the infant, and
+&emsp;"(2) any death record for the infant, and
 
-&emsp;“(3) information on any claims submitted under title XIX of the Social Security Act \[subchapter XIX of this chapter\] for health care furnished to the infant or with respect to the birth of the infant.”
+&emsp;"(3) information on any claims submitted under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] for health care furnished to the infant or with respect to the birth of the infant."
 
 #### Demonstration Project on Health Insurance for Medically Uninsurable Children
 
@@ -264,25 +268,25 @@ Pub. L. 101–239, title VI, §6508, Dec. 19, 1989, 103 Stat. 2283, authorized S
 
 Pub. L. 101–239, title VI, §6509, Dec. 19, 1989, 103 Stat. 2284, provided that:
 
-“(a)
+"(a)
 
 In General.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Development.—The Secretary of Health and Human Services shall develop a maternal and child health handbook in consultation with the National Commission to Prevent Infant Mortality and public and private organizations interested in the health and welfare of mothers and children.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Field testing and evaluation.—The Secretary shall complete publication of the handbook for field testing by July 1, 1990, and shall complete field testing and evaluation by June 1, 1991.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Availability and distribution.—The Secretary shall make the handbook available to pregnant women and families with young children, and shall provide copies of the handbook to maternal and child health programs (including maternal and child health clinics supported through either title V or title XIX of the Social Security Act \[this subchapter and subchapter XIX of this chapter\], community and migrant health centers under sections 329 and 330 of the Public Health Service Act \[former sections 254b and 254c of this title\], the grant program for the homeless under section 340 of the Public Health Service Act \[former section 256 of this title\], the ‘WIC’ program under section 17 of the Child Nutrition Act of 1966 \[section 1786 of this title\], and the head start program under the Head Start Act \[section 9831 et seq. of this title\]) that serve high-risk women. The Secretary shall coordinate the distribution of the handbook with State maternal and child health departments, State and local public health clinics, private providers of obstetric and pediatric care, and community groups where applicable. The Secretary shall make efforts to involve private entities in the distribution of the handbook under this paragraph.
+Availability and distribution.—The Secretary shall make the handbook available to pregnant women and families with young children, and shall provide copies of the handbook to maternal and child health programs (including maternal and child health clinics supported through either title V or title XIX of the Social Security Act \[42 U.S.C. 701 et seq., 1396 et seq.\], community and migrant health centers under sections 329 and 330 of the Public Health Service Act \[former 42 U.S.C. 254b, 254c\], the grant program for the homeless under section 340 of the Public Health Service Act \[former 42 U.S.C. 256\], the 'WIC' program under section 17 of the Child Nutrition Act of 1966 \[42 U.S.C. 1786\], and the head start program under the Head Start Act \[42 U.S.C. 9831 et seq.\]) that serve high-risk women. The Secretary shall coordinate the distribution of the handbook with State maternal and child health departments, State and local public health clinics, private providers of obstetric and pediatric care, and community groups where applicable. The Secretary shall make efforts to involve private entities in the distribution of the handbook under this paragraph.
 
-“(b)
+"(b)
 
-Authorization of Appropriations.—There are authorized to be appropriated $1,000,000 for each of fiscal years 1991, 1992, and 1993, for carrying out the purposes of this section.”
+Authorization of Appropriations.—There are authorized to be appropriated $1,000,000 for each of fiscal years 1991, 1992, and 1993, for carrying out the purposes of this section."
 
 \[Reference to community health center, migrant health center, public housing health center, or homeless health center considered reference to health center, see section 4(c) of Pub. L. 104–299, set out as a note under section 254b of this title.\]
 

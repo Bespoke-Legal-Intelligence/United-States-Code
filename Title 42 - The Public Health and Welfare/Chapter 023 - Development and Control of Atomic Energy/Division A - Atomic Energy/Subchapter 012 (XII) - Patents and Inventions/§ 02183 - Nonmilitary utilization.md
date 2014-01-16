@@ -8,7 +8,7 @@ The Commission may, after giving the patent owner an opportunity for a hearing, 
 
 Whenever any patent has been declared affected with the public interest, pursuant to subsection (a) of this section—
 
-&emsp;(1) the Commission is licensed to use the invention or discovery covered by such patent inperforming any of its powers under this chapter; and
+&emsp;(1) the Commission is licensed to use the invention or discovery covered by such patent in performing any of its powers under this chapter; and
 
 &emsp;(2) any person may apply to the Commission for a nonexclusive patent license to use the invention or discovery covered by such patent, and the Commission shall grant such patent license to the extent that it finds that the use of the invention or discovery is of primary importance to the conduct of an activity by such person authorized under this chapter.
 
@@ -52,7 +52,7 @@ If, after any hearing conducted pursuant to subsection (d) of this section, the 
 
 #### (f) Limitations on issuance of patent
 
-The Commission shall not grant any patent license pursuant to subsection (e) of this section for any other purpose than that stated in the application. Nor shall the Commission grant any patent license to any other applicant for a patent license on the same patent without an application being made by such applicant pursuant to subsection (c) of this section, and without separate notification and hearing as provided in subsection (d) of this section, and without a separate finding as provided in subsection (e) of this section.
+The Commission shall not grant any patent license pursuant to subsection (e) of this sectionfor any other purpose than that stated in the application. Nor shall the Commission grant any patent license to any other applicant for a patent license on the same patent without an application being made by such applicant pursuant to subsection (c) of this section, and without separate notification and hearing as provided in subsection (d) of this section, and without a separate finding as provided in subsection (e) of this section.
 
 #### (g) Royalty fees
 
@@ -64,17 +64,21 @@ The provisions of this section shall apply to any patent the application for whi
 
 (Aug. 1, 1946, ch. 724, title I, §153, as added Aug. 20, 1954, ch. 1073, §1, 68 Stat. 945; amended Pub. L. 86–50, §114, June 23, 1959, 73 Stat. 87; Pub. L. 88–394, §1, Aug. 1, 1964, 78 Stat. 376; Pub. L. 91–161, §1, Dec. 24, 1969, 83 Stat. 444; Pub. L. 93–377, §6, Aug. 17, 1974, 88 Stat. 475; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
+#### References in Text
+
+This chapter, referred to in subsecs. (a), (b), and (e)(3), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1811(c)(1), (2) of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
 
-<b>1974</b>—Subsec. (h). Pub. L. 93–377 substituted “September 1, 1979” for “September 1, 1974”.
+<b>1974</b>—Subsec. (h). Pub. L. 93–377 substituted "September 1, 1979" for "September 1, 1974".
 
-<b>1969</b>—Subsec. (h). Pub. L. 91–161 substituted “September 1, 1974” for “September 1, 1969”.
+<b>1969</b>—Subsec. (h). Pub. L. 91–161 substituted "September 1, 1974" for "September 1, 1969".
 
-<b>1964</b>—Subsec. (h). Pub. L. 88–394 substituted “September 1, 1969” for “September 1, 1964”.
+<b>1964</b>—Subsec. (h). Pub. L. 88–394 substituted "September 1, 1969" for "September 1, 1964".
 
-<b>1959</b>—Subsec. (h). Pub. L. 86–50 substituted “September 1, 1964” for “September 1, 1959”.
+<b>1959</b>—Subsec. (h). Pub. L. 86–50 substituted "September 1, 1964" for "September 1, 1959".
 

@@ -62,45 +62,45 @@ The Secretary shall require the plan administrator of each applicable retirement
 
 <b>2001</b>—Subsecs. (f), (g). Pub. L. 107–16 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-<b>1996</b>—Subsec. (d)(1). Pub. L. 104–188, §1455(b)(2), inserted at end “No return or report may be required under the preceding sentence with respect to distributions to any person during any year unless such distributions aggregate $10 or more.”
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–188, §1455(b)(2), inserted at end "No return or report may be required under the preceding sentence with respect to distributions to any person during any year unless such distributions aggregate $10 or more."
 
 Subsec. (e)(1) to (3). Pub. L. 104–188, §1602(b)(6), added pars. (1) and (2) and struck out former pars. (1) to (3) which read as follows:
 
-“(1) any employer maintaining, or the plan administrator (within the meaning of section 414(g)) of, an employee stock ownership plan—
+"(1) any employer maintaining, or the plan administrator (within the meaning of section 414(g)) of, an employee stock ownership plan—
 
-&emsp;“(A) which acquired stock in a transaction to which section 133 applies, or
+&emsp;"(A) which acquired stock in a transaction to which section 133 applies, or
 
-&emsp;“(B) which holds stock with respect to which section 404(k) applies to dividends paid on such stock,
+&emsp;"(B) which holds stock with respect to which section 404(k) applies to dividends paid on such stock,
 
-“(2) any person making or holding a loan to which section 133 applies, or
+"(2) any person making or holding a loan to which section 133 applies, or
 
-“(3) both such employer or plan administrator and such person,”.
+"(3) both such employer or plan administrator and such person,".
 
-Subsec. (f)(1). Pub. L. 104–188, §1455(d)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For provisions relating to penalties for failure to file a return required by this section, see section 6652(e).”
+Subsec. (f)(1). Pub. L. 104–188, §1455(d)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "For provisions relating to penalties for failure to file a return required by this section, see section 6652(e)."
 
-<b>1992</b>—Subsec. (d)(1)(A). Pub. L. 102–318, §522(b)(2)(E), which directed the substitution of “section 3405(d)(3)” for “section 3405(d)(1)”, could not be executed because of the prior amendment by Pub. L. 102–318, §522(b)(2)(D). See below.
+<b>1992</b>—Subsec. (d)(1)(A). Pub. L. 102–318, §522(b)(2)(E), which directed the substitution of "section 3405(d)(3)" for "section 3405(d)(1)", could not be executed because of the prior amendment by Pub. L. 102–318, §522(b)(2)(D). See below.
 
-Pub. L. 102–318, §522(b)(2)(D), substituted “3405(e)(1)” for “3405(d)(1)”.
+Pub. L. 102–318, §522(b)(2)(D), substituted "3405(e)(1)" for "3405(d)(1)".
 
 <b>1989</b>—Subsecs. (e), (f). Pub. L. 101–239 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-<b>1986</b>—Subsec. (e)(1). Pub. L. 99–514, §1501(d)(1)(D), substituted “section 6652(e)” for “section 6652(f)”.
+<b>1986</b>—Subsec. (e)(1). Pub. L. 99–514, §1501(d)(1)(D), substituted "section 6652(e)" for "section 6652(f)".
 
 Subsec. (e)(3). Pub. L. 99–514, §1848(e)(2), added par. (3).
 
-<b>1984</b>—Pub. L. 98–369, §491(d)(57), struck out “and bond purchase” after “trusts and annuity” in section catchline.
+<b>1984</b>—Pub. L. 98–369, §491(d)(57), struck out "and bond purchase" after "trusts and annuity" in section catchline.
 
 Subsecs. (c) to (f). Pub. L. 98–369, §491(d)(47), redesignated former subsecs. (d) to (f) as (c) to (e), respectively, and struck out former subsec. (c) which related to information to be supplied by employees under qualified bond purchase plans.
 
-<b>1983</b>—Subsec. (d). Pub. L. 97–448 substituted “section 219” for “section 219(a)”.
+<b>1983</b>—Subsec. (d). Pub. L. 97–448 substituted "section 219" for "section 219(a)".
 
 <b>1982</b>—Subsecs. (e), (f). Pub. L. 97–248 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-<b>1981</b>—Subsec. (d). Pub. L. 97–34 substituted “section 219(a)” for “section 219(a) or 220(a)”.
+<b>1981</b>—Subsec. (d). Pub. L. 97–34 substituted "section 219(a)" for "section 219(a) or 220(a)".
 
-<b>1976</b>—Subsecs. (a) to (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (d). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
-Subsec. (d). Pub. L. 94–455, §1501(b)(9), inserted “or 220(a)” after “section 219(a)”.
+Subsec. (d). Pub. L. 94–455, §1501(b)(9), inserted "or 220(a)" after "section 219(a)".
 
 <b>1974</b>—Subsec. (d). Pub. L. 93–406, §2002(g)(8), added subsec. (d). Former subsec. (d) redesignated (e).
 
@@ -162,7 +162,7 @@ Section applicable to taxable years beginning after Dec. 31, 1962, see section 8
 
 #### Plan Amendments Not Required Until January 1, 1998
 
-For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L. 104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle D \[§§1401–1465\] of title I of Pub. L.104–188 require an amendment to any plan or annuity contract, such amendment shall not be required to be made before the first day of the first plan year beginning on or after Jan. 1, 1998, see section 1465 of Pub. L. 104–188, set out as a note under section 401 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1994
 

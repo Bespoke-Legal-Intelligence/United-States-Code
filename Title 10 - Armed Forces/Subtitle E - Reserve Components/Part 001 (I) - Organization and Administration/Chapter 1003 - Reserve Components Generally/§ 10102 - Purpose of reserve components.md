@@ -10,5 +10,5 @@ Provisions similar to those in this section were contained in section 262 of thi
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–375 struck out “, during and after the period needed to procure and train additional units and qualified persons to achieve the planned mobilization,” after “whenever”.
+<b>2004</b>—Pub. L. 108–375 struck out ", during and after the period needed to procure and train additional units and qualified persons to achieve the planned mobilization," after "whenever".
 

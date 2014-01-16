@@ -4,7 +4,7 @@
 | :--- | ---: |
 | [1\.](%C2%A7%2000001%20-%20Short%20title.md) | Short title. |
 | [1a.](%C2%A7%2000001a%20-%20Definitions.md) | Definitions. |
-| [1b.](%C2%A7%2000001b%20-%20Requirements%20of%20Secretary%20of%20the%20Treasury%20regarding%20exemption%20of%20foreign%20exchange%20swaps%20and%20foreign%20exchange%20forwards%20from%20definition%20of%E2%80%A6.md) | Requirements of Secretary of the Treasury regarding exemption of foreign exchange swaps and foreign exchange forwards from definition of the term “swap”. |
+| [1b.](%C2%A7%2000001b%20-%20Requirements%20of%20Secretary%20of%20the%20Treasury%20regarding%20exemption%20of%20foreign%20exchange%20swaps%20and%20foreign%20exchange%20forwards%20from%20definition%20of%E2%80%A6.md) | Requirements of Secretary of the Treasury regarding exemption of foreign exchange swaps and foreign exchange forwards from definition of the term "swap". |
 | [2\.](%C2%A7%2000002%20-%20Jurisdiction%20of%20Commission%3B%20liability%20of%20principal%20for%20act%20of%20agent%3B%20Commodity%20Futures%20Trading%20Commission%3B%20transaction%20in%20interstate%E2%80%A6.md) | Jurisdiction of Commission; liability of principal for act of agent; Commodity Futures Trading Commission; transaction in interstate commerce. |
 | 2a to 4a. | Transferred. |
 | [5\.](%C2%A7%2000005%20-%20Findings%20and%20purpose.md) | Findings and purpose. |
@@ -47,7 +47,7 @@
 | [9c.](%C2%A7%2000009c%20-%20Notice%20of%20investigations%20and%20enforcement%20actions.md) | Notice of investigations and enforcement actions. |
 | [10\.](%C2%A7%2000010%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20646%2C%20%C2%A739%2C%2062%20Stat.%20992%2C%20eff.%20Sept.%201%2C%201948.md) | Repealed. |
 | [10a.](%C2%A7%2000010a%20-%20Cooperative%20associations%20and%20corporations%2C%20exclusion%20from%20board%20of%20trade%3B%20rules%20of%20board%20inapplicable%20to%20payment%20of%20compensation%20by%E2%80%A6.md) | Cooperative associations and corporations, exclusion from board of trade; rules of board inapplicable to payment of compensation by association. |
-| [11\.](%C2%A7%2000011%20-%20Vacation%20on%20request%20of%20designation%20or%20registration%20as%20%E2%80%9Cregistered%20entity%E2%80%9D%3B%20redesignation%20or%20reregistration.md) | Vacation on request of designation or registration as “registered entity”; redesignation or reregistration. |
+| [11\.](%C2%A7%2000011%20-%20Vacation%20on%20request%20of%20designation%20or%20registration%20as%20registered%20entity%3B%20redesignation%20or%20reregistration.md) | Vacation on request of designation or registration as "registered entity"; redesignation or reregistration. |
 | [12\.](%C2%A7%2000012%20-%20Public%20disclosure.md) | Public disclosure. |
 | 12–1 to 12–3. Omitted. |  |
 | [12a.](%C2%A7%2000012a%20-%20Registration%20of%20commodity%20dealers%20and%20associated%20persons%3B%20regulation%20of%20registered%20entities.md) | Registration of commodity dealers and associated persons; regulation of registered entities. |
@@ -140,7 +140,7 @@
 - [&sect; 00009c - Notice of investigations and enforcement actions](%C2%A7%2000009c%20-%20Notice%20of%20investigations%20and%20enforcement%20actions.md)
 - [&sect; 00010 - Repealed. June 25, 1948, ch. 646, &sect;39, 62 Stat. 992, eff. Sept. 1, 1948](%C2%A7%2000010%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20646%2C%20%C2%A739%2C%2062%20Stat.%20992%2C%20eff.%20Sept.%201%2C%201948.md)
 - [&sect; 00010a - Cooperative associations and corporations, exclusion from board of trade; rules of board inapplicable to payment of compensation by&#8230;](%C2%A7%2000010a%20-%20Cooperative%20associations%20and%20corporations%2C%20exclusion%20from%20board%20of%20trade%3B%20rules%20of%20board%20inapplicable%20to%20payment%20of%20compensation%20by%E2%80%A6.md)
-- [&sect; 00011 - Vacation on request of designation or registration as &#8220;registered entity&#8221;; redesignation or reregistration](%C2%A7%2000011%20-%20Vacation%20on%20request%20of%20designation%20or%20registration%20as%20%E2%80%9Cregistered%20entity%E2%80%9D%3B%20redesignation%20or%20reregistration.md)
+- [&sect; 00011 - Vacation on request of designation or registration as registered entity; redesignation or reregistration](%C2%A7%2000011%20-%20Vacation%20on%20request%20of%20designation%20or%20registration%20as%20registered%20entity%3B%20redesignation%20or%20reregistration.md)
 - [&sect; 00012 - Public disclosure](%C2%A7%2000012%20-%20Public%20disclosure.md)
 - [&sect; 00012&#8211;1 to 12&#8211;3 - Omitted](%C2%A7%2000012%E2%80%931%20to%2012%E2%80%933%20-%20Omitted.md)
 - [&sect; 00012a - Registration of commodity dealers and associated persons; regulation of registered entities](%C2%A7%2000012a%20-%20Registration%20of%20commodity%20dealers%20and%20associated%20persons%3B%20regulation%20of%20registered%20entities.md)

@@ -6,5 +6,5 @@ The Secretary is directed to make application through appropriate channels to ot
 
 #### Transfer of Functions
 
-“Department of Commerce” substituted in text for “Department of the Interior” in view of transfer offunctions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 755 of this title.
+"Department of Commerce" substituted in text for "Department of the Interior" in view of transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 755 of this title.
 

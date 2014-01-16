@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 Aug. 19, 1964, Pub. L. 88–449, §10(b) (2d sentence cl. (2)), 78 Stat. 498.
 
-The word “salaries” is omitted as included in “compensation”.
+The word "salaries" is omitted as included in "compensation".
 
 #### Termination of Reporting Requirements
 

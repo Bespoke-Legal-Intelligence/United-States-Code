@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Within one month after October 7, 1988, the Secretary shall issue a call for information on the African elephant conservation program of each ivory producing country by—
+Within one month after October 7, 1988, the Secretary shall issue a call for information onthe African elephant conservation program of each ivory producing country by—
 
 &emsp;(1) publishing a notice in the Federal Register requesting submission of such information to the Secretary by all interested parties; and
 

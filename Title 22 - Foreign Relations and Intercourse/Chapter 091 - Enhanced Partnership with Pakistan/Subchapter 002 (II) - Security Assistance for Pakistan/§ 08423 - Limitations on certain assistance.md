@@ -32,7 +32,7 @@ The certification required by this subsection is a certification by the Secretar
 
 &emsp;&emsp;(A) the Letter of Offer and Acceptance PK–D–YAD signed between the Governments of the United States of America and Pakistan on September 30, 2006;
 
-&emsp;&emsp;(B) the Letter of Offer and Acceptance PK–D–NAP signed between the Governmentsof the United States of America and Pakistan on September 30, 2006; and
+&emsp;&emsp;(B) the Letter of Offer and Acceptance PK–D–NAP signed between the Governments of the United States of America and Pakistan on September 30, 2006; and
 
 &emsp;&emsp;(C) the Letter of Offer and Acceptance PK–D–SAF signed between the Governments of the United States of America and Pakistan on September 30, 2006.
 
@@ -52,7 +52,7 @@ The certification required by this subsection is a certification by the Secretar
 
 #### (f) Appropriate congressional committees defined
 
-In this section, the term “appropriate congressional committees” means—
+In this section, the term "appropriate congressional committees" means—
 
 &emsp;(1) the Committee on Foreign Affairs, the Committee on Armed Services, the Committee on Oversight and Government Reform, and the Permanent Select Committee on Intelligence of the House of Representatives; and
 

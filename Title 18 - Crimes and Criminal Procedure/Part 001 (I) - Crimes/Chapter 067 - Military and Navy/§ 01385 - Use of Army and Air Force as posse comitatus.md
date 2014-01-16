@@ -4,7 +4,7 @@ Whoever, except in cases and under circumstances expressly authorized by the Con
 
 (Added Aug. 10, 1956, ch. 1041, §18(a), 70A Stat. 626; amended Pub. L. 86–70, §17(d), June 25, 1959, 73 Stat. 144; Pub. L. 103–322, title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2147.)
 
-Historical and Revision Note
+Historical and Revision Notes
 
 <i>Revised Section</i>
 
@@ -22,7 +22,7 @@ This section is revised to conform to the style and terminology used in title 18
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
 
 <b>1959</b>—Pub. L. 86–70 struck out provisions which made section inapplicable in Alaska.
 

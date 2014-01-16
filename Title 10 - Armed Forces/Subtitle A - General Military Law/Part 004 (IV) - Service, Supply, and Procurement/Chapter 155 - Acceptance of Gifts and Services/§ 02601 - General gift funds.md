@@ -4,7 +4,7 @@
 
 General Authority to Accept Gifts.—(1) The Secretary concerned may accept, hold, administer, and spend any gift, devise, or bequest of real property, personal property, or money made on the condition that the gift, devise, or bequest be used for the benefit, or in connection with, the establishment, operation, or maintenance, of a school, hospital, library, museum, cemetery, or other institution or organization under the jurisdiction of the Secretary.
 
-(2)(A) Notwithstanding section 1342 of title 31, the Secretary concerned may accept a gift of services for a military museum program from a nonprofit entity established for the purpose of supporting a military museum program. Employees or personnel of a nonprofit entity whoprovide a gift of services under this subparagraph may not be considered to be employees of the United States.
+(2)(A) Notwithstanding section 1342 of title 31, the Secretary concerned may accept a gift of services for a military museum program from a nonprofit entity established for the purpose of supporting a military museum program. Employees or personnel of a nonprofit entity who provide a gift of services under this subparagraph may not be considered to be employees of the United States.
 
 (B) For the use and benefit of a military museum program, the Secretary concerned may solicit from a bona fide collector a gift of books, manuscripts, works of art, historical artifacts, drawings, plans, models, or condemned or obsolete combat materiel.
 
@@ -12,7 +12,7 @@ General Authority to Accept Gifts.—(1) The Secretary concerned may accept, hol
 
 Additional Authority to Accept Gifts to Benefit Certain Members, Dependents, and Civilian Employees.—(1) The Secretary concerned may accept, hold, administer, and spend any gift, devise, or bequest of real property, personal property, money, or services made on the condition that the gift, devise, or bequest be used for the benefit of—
 
-&emsp;(A) members of the armed forces, including members performing full-time National Guard duty under section 502(f) of title 32, who incur a wound, injury, or illness while in the line of duty;
+&emsp;(A) members of the armed forces, including members performing full-time National Guard duty under section 502(f) of title 32, who incura wound, injury, or illness while in the line of duty;
 
 &emsp;(B) civilian employees of the Department of Defense who incur a wound, injury, or illness while in the line of duty;
 
@@ -74,11 +74,11 @@ Comptroller General Review.—The Comptroller General shall make periodic audits
 
 Definitions.—In this section:
 
-&emsp;(1) The term “Secretary concerned” includes the Secretary of Defense.
+&emsp;(1) The term "Secretary concerned" includes the Secretary of Defense.
 
-&emsp;(2) The term “services” includes activities that benefit the education, morale, welfare, or recreation of members of the armed forces and their dependents or are related or incidental to the conveyance of a gift, devise, or bequest of real property or personal property under subsection (a) or (b).
+&emsp;(2) The term "services" includes activities that benefit the education, morale, welfare, or recreation of members of the armed forces and their dependents or are related or incidental to the conveyance of a gift, devise, or bequest of real property or personal property under subsection (a) or (b).
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, §511(86), Dec. 12, 1980, 94 Stat.2927; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title III, §374, Jan. 6, 2006, 119 Stat. 3211; Pub. L. 110–181, div. A, title V, §593(a), Jan. 28, 2008, 122 Stat. 138; Pub. L. 112–239, div. A, title V, §587(a), div. B, title XXVIII, §2852(a), Jan. 2, 2013, 126 Stat. 1768, 2160.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 144; Pub. L. 96–513, title V, §511(86), Dec. 12, 1980, 94 Stat. 2927; Pub. L. 107–296, title XVII, §1704(b)(1), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 109–163, div. A, title III, §374, Jan. 6, 2006, 119 Stat. 3211; Pub. L. 110–181, div. A, title V, §593(a), Jan. 28, 2008, 122 Stat. 138; Pub. L. 112–239, div. A, title V, §587(a), div. B, title XXVIII, §2852(a), Jan. 2, 2013, 126 Stat. 1768, 2160.)
 
 Historical and Revision Notes
 
@@ -106,35 +106,35 @@ Mar. 11, 1948, ch. 107, 62 Stat. 71.
 
 5:150t.
 
-In subsection (a), the words “receive” and “administration” are omitted as surplusage.
+In subsection (a), the words "receive" and "administration" are omitted as surplusage.
 
-In subsection (b), the words “and conditions” and “United States” are omitted as surplusage.
+In subsection (b), the words "and conditions" and "United States" are omitted as surplusage.
 
-In subsection (c), the words “any gift, devise, or bequest of” and “real or personal” are omitted as surplusage.
+In subsection (c), the words "any gift, devise, or bequest of" and "real or personal" are omitted as surplusage.
 
-In subsection (d), the words “or any part thereof deposited in the Treasury pursuant to section 150r of this title” are omitted as surplusage.
+In subsection (d), the words "or any part thereof deposited in the Treasury pursuant to section 150r of this title" are omitted as surplusage.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 112–239, §2852(a)(1), designated existing provisions as par. (1), substituted “The” for “Subject to subsection (d)(2), the”, and added par. (2).
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, §2852(a)(1), designated existing provisions as par. (1), substituted "The" for "Subject to subsection (d)(2), the", and added par. (2).
 
-Subsec. (b)(1). Pub. L. 112–239, §2852(a)(2)(A), substituted “The” for “Subject to subsection (d)(2), the” in introductory provisions.
+Subsec. (b)(1). Pub. L. 112–239, §2852(a)(2)(A), substituted "The" for "Subject to subsection (d)(2), the" in introductory provisions.
 
-Subsec. (d)(1). Pub. L. 112–239, §2852(a)(2)(B)(i), substituted “such subsections” for “subsection (b)”.
+Subsec. (d)(1). Pub. L. 112–239, §2852(a)(2)(B)(i), substituted "such subsections" for "subsection (b)".
 
-Subsec. (d)(2). Pub. L. 112–239, §2852(a)(2)(B)(ii), substituted “, money, and services may not be accepted under subsection (a) or” for “and money may not be accepted under subsection (a) and property, money, and services may not be accepted under subsection” in introductory provisions.
+Subsec. (d)(2). Pub. L. 112–239, §2852(a)(2)(B)(ii), substituted ", money, and services may not be accepted under subsection (a) or" for "and money may not be accepted under subsection (a) and property, money, and services may not be accepted under subsection" in introductory provisions.
 
-Subsec. (f). Pub. L. 112–239, §2852(a)(2)(C), substituted “, money, or services accepted under subsection (a) or” for “or money accepted under subsection (a) and any property, money, or services accepted under subsection”.
+Subsec. (f). Pub. L. 112–239, §2852(a)(2)(C), substituted ", money, or services accepted under subsection (a) or" for "or money accepted under subsection (a) and any property, money, or services accepted under subsection".
 
-Subsec. (i)(2). Pub. L. 112–239, §587(a), inserted “education,” before “morale,”.
+Subsec. (i)(2). Pub. L. 112–239, §587(a), inserted "education," before "morale,".
 
-<b>2008</b>—Subsec. (b)(4). Pub. L. 110–181 struck out par. (4) which read as follows: “The authority to accept gifts, devises, or bequests under this subsection expires on December 31, 2007.”
+<b>2008</b>—Subsec. (b)(4). Pub. L. 110–181 struck out par. (4) which read as follows: "The authority to accept gifts, devises, or bequests under this subsection expires on December 31, 2007."
 
 <b>2006</b>—Pub. L. 109–163 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to general gift funds.
 
-<b>2002</b>—Subsec. (b)(4). Pub. L. 107–296 substituted “Secretary of Homeland Security” for “Secretary of Transportation”.
+<b>2002</b>—Subsec. (b)(4). Pub. L. 107–296 substituted "Secretary of Homeland Security" for "Secretary of Transportation".
 
-<b>1980</b>—Subsec. (b)(4). Pub. L. 96–513 substituted “Secretary of Transportation” for “Secretary of the Treasury”.
+<b>1980</b>—Subsec. (b)(4). Pub. L. 96–513 substituted "Secretary of Transportation" for "Secretary of the Treasury".
 
 #### Effective Date of 2002 Amendment
 
@@ -146,5 +146,5 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Limitation on Solicitation of Gifts
 
-Pub. L. 110–181, div. A, title V, §593(b), Jan. 28, 2008, 122 Stat. 138, provided that: “The Secretary of Defense shall prescribe regulations implementing sections 2601 and 2608 of title 10, United States Code, that prohibit the solicitation of any gift under such sections by any employee of the Department of Defense if the nature or circumstances of such solicitation would compromise the integrity or the appearance of integrity of any program of the Department of Defense or of any individual involved in such program.”
+Pub. L. 110–181, div. A, title V, §593(b), Jan. 28, 2008, 122 Stat. 138, provided that: "The Secretary of Defense shall prescribe regulations implementing sections 2601 and 2608 of title 10, United States Code, that prohibit the solicitation of any gift under such sections by any employee of the Department of Defense if the nature or circumstances of such solicitation would compromise the integrity or the appearance of integrity of any program of the Department of Defense or of any individual involved in such program."
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Continuation or Revocation.—If the defendant violates a condition of probation at anytime prior to the expiration or termination of the term of probation, the court may, after a hearing pursuant to Rule 32.1 of the Federal Rules of Criminal Procedure, and after considering the factors set forth in section 3553(a) to the extent that they are applicable—
+Continuation or Revocation.—If the defendant violates a condition of probation at any time prior to the expiration or termination of the term of probation, the court may, after a hearing pursuant to Rule 32.1 of the Federal Rules of Criminal Procedure, and after considering the factors set forth in section 3553(a) to the extent that they are applicable—
 
 &emsp;(1) continue him on probation, with or without extending the term or modifying or enlarging the conditions; or
 
@@ -42,19 +42,19 @@ For a prior section 3565, applicable to offenses committed prior to Nov. 1, 1987
 
 <b>2002</b>—Subsec. (b)(4). Pub. L. 107–273 added par. (4).
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322, §110506(a)(2), struck out concluding sentence which read as follows: “Notwithstanding any other provision of this section, if a defendant is found by the court to be in possession of a controlled substance, thereby violating the condition imposed by section 3563(a)(3), the court shall revoke the sentence of probation and sentence the defendant to not less than one-third of the original sentence.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §110506(a)(2), struck out concluding sentence which read as follows: "Notwithstanding any other provision of this section, if a defendant is found by the court to be in possession of a controlled substance, thereby violating the condition imposed by section 3563(a)(3), the court shall revoke the sentence of probation and sentence the defendant to not less than one-third of the original sentence."
 
-Subsec. (a)(2). Pub. L. 103–322, §110506(a)(1), substituted “resentence the defendant under subchapter A” for “impose any other sentence that was available under subchapter A at the time of the initial sentencing”.
+Subsec. (a)(2). Pub. L. 103–322, §110506(a)(1), substituted "resentence the defendant under subchapter A" for "impose any other sentence that was available under subchapter A at the time of the initial sentencing".
 
 Subsec. (b). Pub. L. 103–322, §110506(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows:
 
-“(b)
+"(b)
 
-Mandatory Revocation for Possession of a Firearm.—If the defendant is in actual possession of a firearm, as that term is defined in section 921 of this title, at any time prior to the expiration or termination of the term of probation, the court shall, after a hearing pursuant to Rule 32.1 of the Federal Rules of Criminal Procedure, revoke the sentence of probation and impose any other sentence that was available under subchapter A at the time of the initial sentencing.”
+Mandatory Revocation for Possession of a Firearm.—If the defendant is in actual possession of a firearm, as that term is defined in section 921 of this title, at any time prior to the expiration or termination of the term of probation, the court shall, after a hearing pursuant to Rule 32.1 of the Federal Rules of Criminal Procedure, revoke the sentence of probation and impose any other sentence that was available under subchapter A at the time of the initial sentencing."
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–647 substituted “or modifying” for “of modifying”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–647 substituted "or modifying" for "of modifying".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–690, §7303(a)(2), inserted at end “Notwithstanding any other provision of this section, if a defendant is found by the court to be in possession of a controlled substance, thereby violating the condition imposed by section 3563(a)(3), the court shall revoke the sentence of probation and sentence the defendant to not less than one-third of the original sentence.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §7303(a)(2), inserted at end "Notwithstanding any other provision of this section, if a defendant is found by the court to be in possession of a controlled substance, thereby violating the condition imposed by section 3563(a)(3), the court shall revoke the sentence of probation and sentence the defendant to not less than one-third of the original sentence."
 
 Subsecs. (b), (c). Pub. L. 100–690, §6214, added subsec. (b) and redesignated former subsec. (b) as (c).
 

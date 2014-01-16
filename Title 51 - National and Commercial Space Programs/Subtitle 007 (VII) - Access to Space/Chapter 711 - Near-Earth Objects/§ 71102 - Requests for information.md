@@ -24,5 +24,5 @@ Historical and Revision Notes
 
 Pub. L. 110–422, title VIII, §803, Oct. 15, 2008, 122 Stat. 4803.
 
-<i><sup>1</sup></i><i> So in original. The comma probably should be preceded by “to”.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should be preceded by "to".</i>
 

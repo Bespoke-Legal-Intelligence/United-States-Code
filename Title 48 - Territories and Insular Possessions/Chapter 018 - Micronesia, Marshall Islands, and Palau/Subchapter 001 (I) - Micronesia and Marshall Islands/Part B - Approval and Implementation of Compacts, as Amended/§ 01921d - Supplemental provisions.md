@@ -2,7 +2,7 @@
 
 #### (a) Domestic program requirements
 
-Except as may otherwise be provided in this joint resolution, all United States Federal programs and services extended to or operated in the Federated States of Micronesia or the Republic of the Marshall Islands are and shall remain subject to all applicable criteria, standards, reporting requirements, auditing procedures, and other rules and regulations applicable to such programs when operating in the United States (including its territories and commonwealths).
+Except as may otherwise be provided in this joint resolution, all United States Federal programs and services extended to or operated in the Federated States of Micronesia or the Republic of the Marshall Islands are and shall remain subject to all applicable criteria, standards, reporting requirements, auditing procedures, and other rules and regulations applicableto such programs when operating in the United States (including its territories and commonwealths).
 
 #### (b) Relations with the Federated States of Micronesia and the Republic of the Marshall Islands
 
@@ -14,15 +14,15 @@ Except as may otherwise be provided in this joint resolution, all United States 
 
 (4) Federal agencies providing programs and services to the Federated States of Micronesia and the Republic of the Marshall Islands shall coordinate with the Secretaries of the Interior and State regarding provision of such programs and services. The Secretaries of the Interior and State shall consult with appropriate officials of the Asian Development Bank and with the Secretary of the Treasury regarding overall economic conditions in the Federated States of Micronesia and the Republic of the Marshall Islands and regarding the activities of other donors of assistance to the Federated States of Micronesia and the Republic of the Marshall Islands.
 
-(5) United States Government employees in either the Federated States of Micronesia or the Republic of the Marshall Islands are subject to the authority of the United States Chief of Mission, including as elaborated in section 3927 of title 22 and the President's Letter of Instruction to the United States Chief of Mission and anyorder or directive of the President in effect from time to time.
+(5) United States Government employees in either the Federated States of Micronesia or the Republic of the Marshall Islands are subject to the authority of the United States Chief of Mission, including as elaborated in section 3927 of title 22 and the President's Letter of Instruction to the United States Chief of Mission and any order or directive of the President in effect from time to time.
 
 (6)
 
-Interagency group on freely associated states’ affairs.—
+Interagency group on freely associated states' affairs.—
 
 &emsp;(A)
 
-In general.—The President is hereby authorized to appoint an Interagency Group on Freely Associated States’ Affairs to provide policy guidance and recommendations on implementation of the U.S.-FSM Compact and the U.S.-RMI Compact to Federal departments and agencies.
+In general.—The President is hereby authorized to appoint an Interagency Group on Freely Associated States' Affairs to provide policy guidance and recommendations on implementation of the U.S.-FSM Compact and the U.S.-RMI Compact to Federal departments and agencies.
 
 &emsp;(B)
 
@@ -46,7 +46,7 @@ Departments.—It is the sense of Congress that 2 of the 3 appointees should be 
 
 &emsp;&emsp;(iii)
 
-Additional scope.—Section 213 of the U.S.-FSM Compact shall be construed to read as though the phrase, “the implementation of economic policy reforms to encourage investment and to achieve self-sufficient tax rates,” were inserted after “with particular focus on those parts of the plan dealing with the sectors identified in subsection (a) of section 211”.
+Additional scope.—Section 213 of the U.S.-FSM Compact shall be construed to read as though the phrase, "the implementation of economic policy reforms to encourage investment and to achieve self-sufficient tax rates," were inserted after "with particular focus on those parts of the plan dealing with the sectors identified in subsection (a) of section 211".
 
 &emsp;(B)
 
@@ -62,11 +62,11 @@ Departments.—It is the sense of Congress that 2 of the 3 appointees should be 
 
 &emsp;&emsp;(iii)
 
-Additional scope.—Section 214 of the U.S.-RMI Compact shall be construed to read as though the phrase, “the implementation of economic policy reforms to encourage investment and to achieve self-sufficient tax rates,” were inserted after “with particular focus on those parts of the framework dealing with the sectors and areas identified in subsection (a) of section 211”.
+Additional scope.—Section 214 of the U.S.-RMI Compact shall be construed to read as though the phrase, "the implementation of economic policy reforms to encourage investment and to achieve self-sufficient tax rates," were inserted after "with particular focus on those parts of the framework dealing with the sectors and areas identified in subsection (a) of section 211".
 
 (8)
 
-Oversight and coordination.—It is the sense of Congress that the Secretary of State and the Secretary of the Interior shall ensure that there are personnel resources committed in the appropriate numbers and locations to ensure effective oversight of United States assistance, and effective coordination of assistance among United States agencies and with other international donors such as the Asian Development Bank.
+Oversight and coordination.—It is the sense of Congress that the Secretary of State and the Secretary of the Interior shall ensure that there are personnel resources committed in the appropriate numbers and locations to ensureeffective oversight of United States assistance, and effective coordination of assistance among United States agencies and with other international donors such as the Asian Development Bank.
 
 (9) The United States voting members (United States chair plus two or more members) of the Trust Fund Committee appointed by the Government of the United States pursuant to Article 7 of the Trust Fund Agreement implementing section 215 of the U.S.-FSM Compact and referred to in section 462(b)(5) of the U.S.-FSM Compact and any alternates designated by the Government of the United States shall be United States Government officers or employees. The United States voting members (United States chair plus two or more members) of the Trust Fund Committee appointed by the Government of the United States pursuant to Article 7 of the Trust Fund Agreement implementing section 216 of the U.S.-RMI Compact and referred to in section 462(b)(5) of the U.S.-RMI Compact and any alternates designated by the Government of the United States shall be United States Government officers or employees. It is the sense of Congress that the appointees should be designated from the Department of State, the Department of the Interior, and the Department of the Treasury.
 
@@ -98,11 +98,11 @@ Congress expresses its understanding that the Governments of the Federated State
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), section 221(a)(6) of the U.S.–FSM Compact and section 221(a)(5) of the U.S.–RMI Compact shall each be construed and applied in accordance with the two Agreements to Amend Article X of the Federal Programs and Service Agreements signed on June 30, 2004, and on June 18, 2004, respectively, provided that all activities carried out by the United States Agency for International Development and the Federal Emergency Management Agency under Article X of the Federal Programs and Services Agreements may be carried out notwithstanding any other provision of law. In the sections referred to in this clause, the term “United States Agency for International Development, Office of Foreign Disaster Assistance” shall be construed to mean “the United States Agency for International Development”.
+&emsp;&emsp;&emsp;Subject to clause (ii), section 221(a)(6) of the U.S.–FSM Compact and section 221(a)(5) of the U.S.–RMI Compact shall each be construed and applied in accordance with the two Agreements to Amend Article X of the Federal Programs and Service Agreements signed on June 30, 2004, and on June 18, 2004, respectively,provided that all activities carried out by the United States Agency for International Development and the Federal Emergency Management Agency under Article X of the Federal Programs and Services Agreements may be carried out notwithstanding any other provision of law. In the sections referred to in this clause, the term "United States Agency for International Development, Office of Foreign Disaster Assistance" shall be construed to mean "the United States Agency for International Development".
 
 #### (ii) Definition of will provide funding
 
-&emsp;&emsp;&emsp;In the second sentence of paragraph 12 of each of the Agreements described in clause (i), the term “will provide funding” means will provide funding through a transfer of funds using Standard Form 1151 or a similar document or through an interagency, reimbursable agreement.
+&emsp;&emsp;&emsp;In the second sentence of paragraph 12 of each of the Agreements described in clause (i), the term "will provide funding" means will provide funding through a transfer of funds using Standard Form 1151 or a similar document or through an interagency, reimbursable agreement.
 
 #### (B) Treatment of additional programs
 
@@ -182,7 +182,7 @@ Neither the Government of the Federated States of Micronesia nor the Government 
 
 #### (2) Authorization and continuing appropriation
 
-&emsp;There is hereby authorized and appropriated to the Secretary of the Interior, out of any funds in the Treasury not otherwise appropriated, to remain available until expended, for each fiscal year from 2004 through 2023, $300,000, as adjusted for inflation under section 218 of the U.S.-FSM Compact and the U.S.-RMI Compact, to carry out the purposes of this section.
+&emsp;There is hereby authorized and appropriated to the Secretary of the Interior, out of anyfunds in the Treasury not otherwise appropriated, to remain available until expended, for each fiscal year from 2004 through 2023, $300,000, as adjusted for inflation under section 218 of the U.S.-FSM Compact and the U.S.-RMI Compact, to carry out the purposes of this section.
 
 #### (j) Technical assistance
 
@@ -224,7 +224,7 @@ No judgment, whenever issued, of a court of the Federated States of Micronesia, 
 
 #### (3) Obligations
 
-&emsp;For the purpose of expediting the commencement of operations of a trust fund under either Trust Fund Agreement, the trust fund may, but shall not be obligated to, assume any obligations of an existing legal entity and take assignment of any contract or other agreement to which the existing legal entity is party.
+&emsp;For the purpose of expediting the commencement of operations of a trust fund under either Trust Fund Agreement, the trust fund may, but shall not be obligated to, assume anyobligations of an existing legal entity and take assignment of any contract or other agreement to which the existing legal entity is party.
 
 #### (4) Assistance
 
@@ -236,7 +236,7 @@ No judgment, whenever issued, of a court of the Federated States of Micronesia, 
 
 This joint resolution, referred to in subsecs. (a), (b)(10), and (f)(2), is Pub. L. 108–188, Dec. 17, 2003, 117 Stat. 2720, known as the Compact of Free Association Amendments Act of 2003, which enacted this part and provisions set out as notes under sections 1901 and 1921 of this title and amended provisions set out as a note under section 3101 of Title 5, Government Organization and Employees. For complete classification of this Act to the Code, see Short Title of 2003 Amendment note set out under section 1901 of this title and Tables.
 
-Section 3927 of title 22, referred to in subsec. (b)(5), was in the original “section 207 of the Foreign Service Act”, and was translated as meaning section 207 of the Foreign Service Act of 1980 to reflect the probable intent of Congress.
+Section 3927 of title 22, referred to in subsec. (b)(5), was in the original "section 207 of the Foreign Service Act", and was translated as meaning section 207 of the Foreign Service Act of 1980 to reflect the probable intent of Congress.
 
 Act of June 30, 1954, referred to in subsec. (c), is act June 30, 1954, ch. 423, 68 Stat. 330, as amended, which enacted sections 1681 and 1681b of this title and provisions set out as notes under section 1681 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -258,29 +258,29 @@ The National Historic Preservation Act, referred to in subsec. (j), is Pub. L. 8
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(1). Pub. L. 110–229, §806(a)(3), substituted “Trust Funds)” for “Trust Fund)”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–229, §806(a)(3), substituted "Trust Funds)" for "Trust Fund)".
 
 Subsec. (f)(1)(A). Pub. L. 110–229, §803(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) related to the continuing availability of programs and services of the Department of Homeland Security, Federal Emergency Management Agency.
 
-Subsec. (f)(1)(B)(ii)(II). Pub. L. 110–229, §804(1), substituted “, its territories, and the Republic of Palau” for “and its territories”.
+Subsec. (f)(1)(B)(ii)(II). Pub. L. 110–229, §804(1), substituted ", its territories, and the Republic of Palau" for "and its territories".
 
-Subsec. (f)(1)(B)(iii). Pub. L. 110–229, §804(2), which directed the substitution of “, the Republic of the Marshall Islands, or the Republic of Palau” for “, or the Republic of the Marshall Islands”, in subcl. (II) of cl. (iii), was executed by making the substitution in the concluding provisions of cl. (iii), to reflect the probable intent of Congress.
+Subsec. (f)(1)(B)(iii). Pub. L. 110–229, §804(2), which directed the substitution of ", the Republic of the Marshall Islands, or the Republic of Palau" for ", or the Republic of the Marshall Islands", in subcl. (II) of cl. (iii), was executed by making the substitution in the concluding provisions of cl. (iii), to reflect the probable intent of Congress.
 
-Subsec. (f)(1)(B)(ix). Pub. L. 110–229, §804(3), which directed substitution of “government, institutions, and people” for “Republic” in two places and substitution of “2009” for “2007” and “were” for “was”, could not be executed because of the prior identical amendments by Pub. L. 110–161. See 2007 Amendment note below.
+Subsec. (f)(1)(B)(ix). Pub. L. 110–229, §804(3), which directed substitution of "government, institutions, and people" for "Republic" in two places and substitution of "2009" for "2007" and "were" for "was", could not be executed because of the prior identical amendments by Pub. L. 110–161. See 2007 Amendment note below.
 
-Subsec. (f)(1)(C). Pub. L. 110–229, §805, inserted before period at end “, which shall also continue to be available to the citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands who legally reside in the United States (including territories and possessions)”.
+Subsec. (f)(1)(C). Pub. L. 110–229, §805, inserted before period at end ", which shall also continue to be available to the citizens of the Federated States of Micronesia, the Republic of Palau, and the Republic of the Marshall Islands who legally reside in the United States (including territories and possessions)".
 
-<b>2007</b>—Subsec. (f)(1)(B)(ix). Pub. L. 110–161 substituted “government, institutions, and people” for “Republic” in two places, “2009” for “2007”, and “were” for “was”.
+<b>2007</b>—Subsec. (f)(1)(B)(ix). Pub. L. 110–161 substituted "government, institutions, and people" for "Republic" in two places, "2009" for "2007", and "were" for "was".
 
-<b>2006</b>—Subsec. (f)(1)(B)(iii). Pub. L. 109–270 substituted “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Technical Education Act of 1998”.
+<b>2006</b>—Subsec. (f)(1)(B)(iii). Pub. L. 109–270 substituted "Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Technical Education Act of 1998".
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–229, title VIII, §803(b), May 8, 2008, 122 Stat. 870, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective as of the date that is 180 days after the date of enactment of this Act \[May 8, 2008\].”
+Pub. L. 110–229, title VIII, §803(b), May 8, 2008, 122 Stat. 870, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effective as of the date that is 180 days after the date of enactment of this Act \[May 8, 2008\]."
 
 #### Continued Applicability of Subsection (f)(1)(B)(ix)
 
-Pub. L. 112–74, div. F, title III, §306, Dec. 23, 2011, 125 Stat. 1099, provided that: “Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 (48 U.S.C. 1921d(f)(1)(B)(ix)) shall be applied by substituting ‘2012’ for ‘2009’.”
+Pub. L. 112–74, div. F, title III, §306, Dec. 23, 2011, 125 Stat. 1099, provided that: "Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 (48 U.S.C. 1921d(f)(1)(B)(ix)) shall be applied by substituting '2012' for '2009'."
 
-Pub. L. 111–117, div. D, title III, §309, Dec. 16, 2009, 123 Stat. 3272, provided that: “Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 (48 U.S.C. 1921d(f)(1)(B)(ix)) shall be applied by substituting ‘2010’ for ‘2009’.”
+Pub. L. 111–117, div. D, title III, §309, Dec. 16, 2009, 123 Stat. 3272, provided that: "Section 105(f)(1)(B)(ix) of the Compact of Free Association Amendments Act of 2003 (48 U.S.C. 1921d(f)(1)(B)(ix)) shall be applied by substituting '2010' for '2009'."
 

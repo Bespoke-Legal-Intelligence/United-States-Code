@@ -2,11 +2,11 @@
 
 #### (a) Boundaries
 
-The research site shall consist of approximately thirty-one thousand acres, including a principle <sup>1</sup> research facility of approximately one thousand acres. The boundaries are depicted on a map entitled “Langmuir Research Site”, dated August 1980, which is on file and available for public inspection in the office of the Chief, Forest Service, United States Department of Agriculture.
+The research site shall consist of approximately thirty-one thousand acres, including a principle <sup>1</sup> research facility of approximately one thousand acres. The boundaries are depicted on a map entitled "Langmuir Research Site", dated August 1980, which is on file and available for public inspection in the office of the Chief, Forest Service, United States Department of Agriculture.
 
 #### (b) Development of plan
 
-As soon as practicable, after December 19, 1980, the Secretary of Agriculture shall develop acomprehensive management plan for the research site consistent with requirements of the National Forest Management Act of 1976 (Public Law 94–588) (16 U.S.C. 1604), which shall be incorporated into the initial Cibola National Forest land and resource management plan as provided for under that Act.
+As soon as practicable, after December 19, 1980, the Secretary of Agriculture shall develop a comprehensive management plan for the research site consistent with requirements of the National Forest Management Act of 1976 (Public Law 94–588) (16 U.S.C. 1604), which shall be incorporated into the initial Cibola National Forest land and resource management plan as provided for under that Act.
 
 #### (c) Adjustment in boundaries
 
@@ -40,7 +40,7 @@ The National Forest Management Act of 1976, referred to in subsec. (b), is Pub. 
 
 #### Amendments
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “principal”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "principal".</i>
 

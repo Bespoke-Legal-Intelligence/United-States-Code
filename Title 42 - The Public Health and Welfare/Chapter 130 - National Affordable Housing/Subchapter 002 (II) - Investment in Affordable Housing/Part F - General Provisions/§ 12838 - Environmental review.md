@@ -36,29 +36,29 @@ In the case of assistance to units of general local government from a State, the
 
 #### References in Text
 
-The National Environmental Policy Act of 1969, referred to in subsecs. (a), (b), and (c)(4), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
+The National Environmental Policy Act of 1969, referred to in subsecs. (a), (b), and (c)(4), is Pub. L. 91–190,Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of this title and Tables.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–330, §505(a)(2)(A), struck out “, Indian tribes,” after “projects to jurisdictions” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–330, §505(a)(2)(A), struck out ", Indian tribes," after "projects to jurisdictions" in introductory provisions.
 
-Subsecs. (b), (c)(4). Pub. L. 104–330, §505(a)(2)(B), (C), struck out “, Indian tribe,” after “the jurisdiction”.
+Subsecs. (b), (c)(4). Pub. L. 104–330, §505(a)(2)(B), (C), struck out ", Indian tribe," after "the jurisdiction".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–233, §206(1), substituted “jurisdictions, Indian tribes, or insular areas” for “participating jurisdictions” and inserted before period at end “The regulations shall provide—
+<b>1994</b>—Subsec. (a). Pub. L. 103–233, §206(1), substituted "jurisdictions, Indian tribes, or insular areas" for "participating jurisdictions" and inserted before period at end "The regulations shall provide—
 
-&emsp;“(1) for the monitoring of the environmental reviews performed under this section;
+&emsp;"(1) for the monitoring of the environmental reviews performed under this section;
 
-&emsp;“(2) in the discretion of the Secretary, to facilitate training for the performance of such reviews; and
+&emsp;"(2) in the discretion of the Secretary, to facilitate training for the performance of such reviews; and
 
-&emsp;“(3) for the suspension or termination of the assumption under this section.
+&emsp;"(3) for the suspension or termination of the assumption under this section.
 
-> The Secretary's duty under the preceding sentence shall not be construed to limit or reduce any responsibility assumed by a State or unit of general local government with respect to any particular release of funds.”
+> The Secretary's duty under the preceding sentence shall not be construed to limit or reduce any responsibility assumed by a State or unit of general local government with respect to any particular release of funds."
 
-Subsec. (b). Pub. L. 103–233, §206(2), substituted “jurisdiction, Indian tribe, or insular area” for “participating jurisdiction”.
+Subsec. (b). Pub. L. 103–233, §206(2), substituted "jurisdiction, Indian tribe, or insular area" for "participating jurisdiction".
 
-Subsec. (c)(4)(B). Pub. L. 103–233, §206(3), substituted “jurisdiction, Indian tribe, or insular area” for “participating jurisdiction”.
+Subsec. (c)(4)(B). Pub. L. 103–233, §206(3), substituted "jurisdiction, Indian tribe, or insular area" for "participating jurisdiction".
 
-Subsec. (d). Pub. L. 103–233, §206(4), substituted “Assistance to units of general local government from a State” for “Assistance to a State” in heading and “In the case of assistance to units of general local government from a State” for “In the case of assistance to States” in text.
+Subsec. (d). Pub. L. 103–233, §206(4), substituted "Assistance to units of general local government from a State" for "Assistance to a State" in heading and "In the case of assistance to units of general local government from a State" for "In the case of assistance to States" in text.
 
 #### Effective Date of 1996 Amendment
 

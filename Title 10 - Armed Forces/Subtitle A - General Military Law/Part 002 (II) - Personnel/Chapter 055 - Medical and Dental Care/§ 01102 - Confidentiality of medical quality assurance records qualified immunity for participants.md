@@ -60,13 +60,13 @@ Regulations.—The Secretary of Defense shall prescribe regulations to implement
 
 Definitions.—In this section:
 
-&emsp;(1) The term “medical quality assurance program” means any peer review activity carried out before, on, or after November 14, 1986 by or for the Department of Defense to assess the quality of medical care, including activities conducted by individuals, military medical or dental treatment facility committees, or other review bodies responsible for quality assurance, credentials, infection control, patient care assessment (including treatment procedures, blood, drugs, and therapeutics), medical records, health resources management review and identification and prevention of medical or dental incidents and risks.
+&emsp;(1) The term "medical quality assurance program" means any peer review activity carried out before, on, or after November 14, 1986 by or for the Department of Defense to assess the quality of medical care, including activities conducted by individuals, military medical or dental treatment facility committees, or other review bodies responsible for quality assurance, credentials, infection control, patient care assessment (including treatment procedures, blood, drugs, and therapeutics), medical records, health resources management review and identification and prevention of medical or dental incidents and risks.
 
-&emsp;(2) The term “medical quality assurance record” means the proceedings, records, minutes, and reports that emanate from quality assurance program activities described in paragraph (1) and are produced or compiled by the Department of Defense as part of a medical quality assurance program.
+&emsp;(2) The term "medical quality assurance record" means the proceedings, records, minutes, and reports that emanate from quality assurance program activities described in paragraph (1) and are produced or compiled by the Department of Defense as part of a medical quality assurance program.
 
-&emsp;(3) The term “health care provider” means any military or civilian health care professional who, under regulations of a military department, is granted clinical practice privileges to provide health care services in a military medical or dental treatment facility or who is licensed or certified to perform health care services by a governmental board or agency or professional health care society or organization.
+&emsp;(3) The term "health care provider" means any military or civilian health care professional who, under regulations of a military department, is granted clinical practice privileges to provide health care services in a military medical or dental treatment facility or who is licensed or certified to perform health care services by a governmental board or agency or professional health care society or organization.
 
-&emsp;(4) The term “peer review” means any assessment of the quality of medical care carried out by a health care professional, including any such assessment of professional performance, any patient safety program root cause analysis or report, or any similar activity described in regulations prescribed by the Secretary under subsection (i).
+&emsp;(4) The term "peer review" means any assessment of the quality of medical care carried out by a health care professional, including any such assessment of professional performance, any patient safety program root cause analysis or report, or any similar activity described in regulations prescribed by the Secretary under subsection (i).
 
 (k)
 
@@ -76,21 +76,21 @@ Penalty.—Any person who willfully discloses a medical quality assurance record
 
 #### Amendments
 
-<b>2011</b>—Subsec. (j)(1). Pub. L. 112–81, §714(a)(1), substituted “any peer review activity carried out” for “any activity carried out”.
+<b>2011</b>—Subsec. (j)(1). Pub. L. 112–81, §714(a)(1), substituted "any peer review activity carried out" for "any activity carried out".
 
 Subsec. (j)(4). Pub. L. 112–81, §714(a)(2), added par. (4).
 
-<b>2004</b>—Subsec. (d)(2). Pub. L. 108–375 substituted “Comptroller General” for “General Accounting Office”.
+<b>2004</b>—Subsec. (d)(2). Pub. L. 108–375 substituted "Comptroller General" for "General Accounting Office".
 
-<b>1989</b>—Subsec. (j)(1). Pub. L. 101–189 substituted “November 14, 1986” for “the date of the enactment of this section”.
+<b>1989</b>—Subsec. (j)(1). Pub. L. 101–189 substituted "November 14, 1986" for "the date of the enactment of this section".
 
-<b>1987</b>—Subsec. (c)(2). Pub. L. 100–180 struck out “, United States Code” after “title 5” in second sentence.
+<b>1987</b>—Subsec. (c)(2). Pub. L. 100–180 struck out ", United States Code" after "title 5" in second sentence.
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–81, div. A, title VII, §714(b), Dec. 31, 2011, 125 Stat. 1477, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 2012.”
+Pub. L. 112–81, div. A, title VII, §714(b), Dec. 31, 2011, 125 Stat. 1477, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 2012."
 
 #### Effective Date
 
-Pub. L. 99–661, div. A, title VII, §705(b), Nov. 14, 1986, 100 Stat. 3904, provided that: “Section 1102 of title 10, United States Code, as added by subsection (a), shall apply to all records created before, on, or after the date of the enactment of this Act \[Nov. 14, 1986\] by or for the Department of Defense as part of a medical quality assurance program.”
+Pub. L. 99–661, div. A, title VII, §705(b), Nov. 14, 1986, 100 Stat. 3904, provided that: "Section 1102 of title 10, United States Code, as added by subsection (a), shall apply to all records created before, on, or after the date of the enactment of this Act \[Nov. 14, 1986\] by or for the Department of Defense as part of a medical quality assurance program."
 

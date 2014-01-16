@@ -32,7 +32,7 @@ Funds for the juvenile offender reentry demonstration projects may be expended f
 
 #### (d) Applications
 
-A State, unit of local government, territory, or Indian Tribe, or combination thereof, desiring a grant under this section shall submit an application to the Attorney General that—
+A State, unit of local government, territory, or Indian Tribe, or combination thereof, desiringa grant under this section shall submit an application to the Attorney General that—
 
 &emsp;(1) contains a reentry strategic plan, as described in subsection (h), which describes the long-term strategy and incorporates a detailed implementation schedule, including the plans of the applicant to pay for the program after the Federal funding is discontinued;
 
@@ -110,7 +110,7 @@ The Attorney General shall give priority to grant applications under this sectio
 
 #### (1) In general
 
-&emsp;As a condition of receiving financial assistance under this section, each applicant shall develop a comprehensive strategic reentry plan that contains measurable annual and 5-year performance outcomes, and that uses, to the maximum extent possible, random assigned and controlled studies to determine the effectiveness of the program funded with a grant under this section. One goal of that plan shall be to reduce the rate of recidivism (as defined by the Attorney General, consistent with the research on offender reentry undertaken by the Bureau of Justice Statistics) by 50 percent over a 5-year period for offenders released from prison, jail, or a juvenile facility who are served with funds made available under this section.
+&emsp;As a condition of receiving financial assistance under this section, each applicant shall develop a comprehensive strategic reentry plan that contains measurable annual and 5-year performance outcomes, and that uses, tothe maximum extent possible, random assigned and controlled studies to determine the effectiveness of the program funded with a grant under this section. One goal of that plan shall be to reduce the rate of recidivism (as defined by the Attorney General, consistent with the research on offender reentry undertaken by the Bureau of Justice Statistics) by 50 percent over a 5-year period for offenders released from prison, jail, or a juvenile facility who are served with funds made available under this section.
 
 #### (2) Coordination
 
@@ -126,7 +126,7 @@ The Attorney General shall give priority to grant applications under this sectio
 
 &emsp;As a condition of receiving financial assistance under this section, each applicant shall establish or empower a Reentry Task Force, or other relevant convening authority, to—
 
-&emsp;&emsp;(A) examine ways to pool resources and funding streams to promote lower recidivism rates for returning offenders and minimize the harmful effects of offenders’ time in prison, jail, or a juvenile facility on families and communities of offenders by collecting data and best practices in offender reentry from demonstration grantees and other agencies and organizations; and
+&emsp;&emsp;(A) examine ways to pool resources and funding streams to promote lower recidivism rates for returning offenders and minimize the harmful effects of offenders' time in prison, jail, or a juvenile facility on families and communities of offenders by collecting data and best practices in offender reentry from demonstration grantees and other agencies and organizations; and
 
 &emsp;&emsp;(B) provide the analysis described in subsection (e)(4).
 
@@ -280,7 +280,7 @@ Of amounts made available to carry out this section—
 
 #### (A) Limitation
 
-&emsp;&emsp;Of the amount made available to carry out this section for any fiscal year, not more than 3 percent or less than 2 percent may be used for technical assistance and training.
+&emsp;&emsp;Of the amount made available to carry out this section for any fiscal year, not morethan 3 percent or less than 2 percent may be used for technical assistance and training.
 
 #### (B) Equitable distribution
 
@@ -290,41 +290,41 @@ Of amounts made available to carry out this section—
 
 #### References in Text
 
-Section 17541(d)(3)(B) of this title, referred to in subsec. (j)(2)(A), was in the original “section 234(c)(2) of the Second Chance Act of 2007”, and was translated as reading “section 231(d)(3)(B) of the Second Chance Act of 2007”, meaning section 231(d)(3)(B) of Pub. L. 110–199, to reflect the probable intent of Congress, because Pub. L. 110–199 does not contain a section 234(c)(2), and section 231(d)(3)(B) of Pub. L. 110–199 relates to the selection of a measure for recidivism to be used by the Director of the Bureau of Justice Statistics.
+Section 17541(d)(3)(B) of this title, referred to in subsec. (j)(2)(A), was in the original "section 234(c)(2) of the Second Chance Act of 2007", and was translated as reading "section 231(d)(3)(B) of the Second Chance Act of 2007", meaning section 231(d)(3)(B) of Pub. L. 110–199, to reflect the probable intent of Congress, because Pub. L. 110–199 does not contain a section 234(c)(2), and section 231(d)(3)(B) of Pub. L. 110–199 relates to the selection of a measure for recidivism to be used by the Director of the Bureau of Justice Statistics.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–199, §101(d), substituted “States, local governments, territories, or Indian Tribes, or any combination thereof, in partnership with stakeholders, service providers, and nonprofit organizations.” for “States, Territories, and Indian tribes, in partnership with units of local government and nonprofit organizations, for the purpose of establishing adult and juvenile offender reentry demonstration projects.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–199, §101(d), substituted "States, local governments, territories, or Indian Tribes, or any combination thereof, in partnership with stakeholders, service providers, and nonprofit organizations." for "States, Territories, and Indian tribes, in partnership with units of local government and nonprofit organizations, for the purpose of establishing adult and juvenile offender reentry demonstration projects."
 
 Subsec. (b)(1) to (7). Pub. L. 110–199, §101(a), added pars. (1) to (7) and struck out former pars. (1) to (4) which read as follows:
 
-“(1) oversight/monitoring of released offenders;
+"(1) oversight/monitoring of released offenders;
 
-“(2) substance abuse treatment and aftercare, mental and medical health treatment and aftercare, vocational and basic educational training, and other programming to promote effective reintegration into the community as needed;
+"(2) substance abuse treatment and aftercare, mental and medical health treatment and aftercare, vocational and basic educational training, and other programming to promote effective reintegration into the community as needed;
 
-“(3) convening community impact panels, victim impact panels or victim impact educational classes; and
+"(3) convening community impact panels, victim impact panels or victim impact educational classes; and
 
-“(4) establishing and implementing graduated sanctions and incentives.”
+"(4) establishing and implementing graduated sanctions and incentives."
 
-Subsec. (c). Pub. L. 110–199, §101(b), substituted “may be expended for any activity described in subsection (b).” for “may be expended for—
+Subsec. (c). Pub. L. 110–199, §101(b), substituted "may be expended for any activity described in subsection (b)." for "may be expended for—
 
-&emsp;“(1) providing returning juvenile offenders with drug and alcohol testing and treatment and mental and medical health assessment and services;
+&emsp;"(1) providing returning juvenile offenders with drug and alcohol testing and treatment and mental and medical health assessment and services;
 
-&emsp;“(2) convening victim impact panels, restorative justice panels, or victim impact educational classes for juvenile offenders;
+&emsp;"(2) convening victim impact panels, restorative justice panels, or victim impact educational classes for juvenile offenders;
 
-&emsp;“(3) oversight/monitoring of released juvenile offenders; and
+&emsp;"(3) oversight/monitoring of released juvenile offenders; and
 
-&emsp;“(4) providing for the planning of reentry services when the youth is initially incarcerated and coordinating the delivery of community-based services, such as education, family involvement and support, and other services as needed.”
+&emsp;"(4) providing for the planning of reentry services when the youth is initially incarcerated and coordinating the delivery of community-based services, such as education, family involvement and support, and other services as needed."
 
 Subsecs. (d) to (o). Pub. L. 110–199, §101(c), added subsecs. (d) to (n), redesignated former subsec. (h) as (o), and struck out former subsecs. (d) to (g) which related to submission of application, applicant requirements, matching funds, and reports, respectively.
 
-Subsec. (o)(1). Pub. L. 110–199, §101(e)(1), substituted “$55,000,000 for each of fiscal years 2009 and 2010” for “$15,000,000 for fiscal year 2003, $15,500,000 for fiscal year 2004, and $16,000,000 for fiscal year 2005”.
+Subsec. (o)(1). Pub. L. 110–199, §101(e)(1), substituted "$55,000,000 for each of fiscal years 2009 and 2010" for "$15,000,000 for fiscal year 2003, $15,500,000 for fiscal year 2004, and $16,000,000 for fiscal year 2005".
 
-Subsec. (o)(2). Pub. L. 110–199, §101(e)(2), amended par. (2) generally. Prior to amendment, text read as follows:“Of the amount made available to carry out this section in any fiscal year—
+Subsec. (o)(2). Pub. L. 110–199, §101(e)(2), amended par. (2) generally. Prior to amendment, text read as follows: "Of the amount made available to carry out this section in any fiscal year—
 
-&emsp;“(A) not more than 2 percent or less than 1 percent may be used by the Attorney General for salaries and administrative expenses; and
+&emsp;"(A) not more than 2 percent or less than 1 percent may be used by the Attorney General for salaries and administrative expenses; and
 
-&emsp;“(B) not more than 3 percent or less than 2 percent may be used for technical assistance and training.”
+&emsp;"(B) not more than 3 percent or less than 2 percent may be used for technical assistance and training."
 
 #### Construction of 2008 Amendment
 

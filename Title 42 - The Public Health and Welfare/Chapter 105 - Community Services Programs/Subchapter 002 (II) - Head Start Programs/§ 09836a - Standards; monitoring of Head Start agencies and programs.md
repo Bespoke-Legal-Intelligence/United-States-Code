@@ -82,7 +82,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary, in consultation with representatives of Head Start agencies and withexperts in the fields of early childhood education and development, family services, and program management, shall use the study on Developmental Outcomes and Assessments for Young Children by the National Academy of Sciences and other relevant research to inform, revise, and provide guidance to Head Start agencies for utilizing, scientifically based measures that support, as appropriate—
+&emsp;The Secretary, in consultation with representatives of Head Start agencies and with experts in the fields of early childhood education and development, family services, and program management, shall use the study on Developmental Outcomes and Assessments for Young Children by the National Academy of Sciences and other relevant research to inform, revise, and provide guidance to Head Start agencies for utilizing, scientifically based measures that support, as appropriate—
 
 &emsp;&emsp;(A) classroom instructional practices;
 
@@ -166,7 +166,7 @@
 
 &emsp;&emsp;(C) Followup reviews, including—
 
-&emsp;&emsp;&emsp;(i) return visits to Head Start agencies with 1 or more findings of deficiencies, not later than 6 months after the Secretary provides notification of such findings, or not later than 12 months after such notification if the Secretary determines that additional time is necessary for an agency toaddress such a deficiency prior to the review; and
+&emsp;&emsp;&emsp;(i) return visits to Head Start agencies with 1 or more findings of deficiencies, not later than 6 months after the Secretary provides notification of such findings, or not later than 12 months after such notification if the Secretary determines that additional time is necessary for an agency to address such a deficiency prior to the review; and
 
 &emsp;&emsp;&emsp;(ii) a review of Head Start agencies with significant areas of noncompliance.
 
@@ -198,7 +198,7 @@
 
 &emsp;&emsp;(F) include as part of the reviews, a valid and reliable research-based observational instrument, implemented by qualified individuals with demonstrated reliability, that assesses classroom quality, including assessing multiple dimensions of teacher-child interactions that are linked to positive child development and later achievement;
 
-&emsp;&emsp;(G) are conducted in a manner that evaluates program performance, quality, and overall operations with consistency and objectivity, are based on a transparent and reliable system of review, and are conducted in a manner that includes periodic interrater reliability checks, to ensure quality and consistency, across and within regions, of the reviews and of noncompliance and deficiency determinations;
+&emsp;&emsp;(G) are conducted in a manner that evaluates program performance, quality, and overall operations with consistency and objectivity, are based on a transparent and reliable system of review, and are conducted ina manner that includes periodic interrater reliability checks, to ensure quality and consistency, across and within regions, of the reviews and of noncompliance and deficiency determinations;
 
 &emsp;&emsp;(H) in the case of reviews of Early Head Start agencies and programs, are conducted by a review team that includes individuals who are knowledgeable about the development of infants and toddlers;
 
@@ -276,7 +276,7 @@
 
 #### (1) Determination
 
-&emsp;If the Secretary determines, on the basis of a review pursuant to subsection (c), that a Head Start agency designated pursuant to this subchapter fails to meet the standards described in subsection (a)(1) or fails to address the communitywide strategic planning and needs assessment, the Secretary shall—
+&emsp;If the Secretary determines, on the basis of a review pursuant to subsection (c), that aHead Start agency designated pursuant to this subchapter fails to meet the standards described in subsection (a)(1) or fails to address the communitywide strategic planning and needs assessment, the Secretary shall—
 
 &emsp;&emsp;(A) inform the agency of the deficiencies that shall be corrected and identify the assistance to be provided consistent with paragraph (3);
 
@@ -308,7 +308,7 @@
 
 #### (B) Secretarial responsibility
 
-&emsp;&emsp;Not later than 30 days after receiving from a Head Start agency a proposed quality improvement plan pursuant to subparagraph (A), the Secretary shall either approve suchproposed plan or specify the reasons why the proposed plan cannot be approved.
+&emsp;&emsp;Not later than 30 days after receiving from a Head Start agency a proposed quality improvement plan pursuant to subparagraph (A), the Secretary shall either approve such proposed plan or specify the reasons why the proposed plan cannot be approved.
 
 #### (C) Agency responsibility
 
@@ -358,7 +358,7 @@
 
 #### (A) Goals
 
-&emsp;&emsp;An agency conducting a self-assessment shall establish agency-determined program goals for improving the school readiness of children participating in a program under this subchapter, including school readiness goals that are aligned with the Head Start Child Outcomes Framework, State early learning standards as appropriate, and requirements and expectations of the schools the children will be attending.
+&emsp;&emsp;An agency conducting a self-assessment shall establish agency-determined programgoals for improving the school readiness of children participating in a program under this subchapter, including school readiness goals that are aligned with the Head Start Child Outcomes Framework, State early learning standards as appropriate, and requirements and expectations of the schools the children will be attending.
 
 #### (B) Improvement plan
 
@@ -376,15 +376,15 @@
 
 #### (A) Actual enrollment
 
-&emsp;&emsp;The term “actual enrollment” means, with respect to the program of a Head Start agency, the actual number of children enrolled in such program and reported by the agency (as required in paragraph (2)) in a given month.
+&emsp;&emsp;The term "actual enrollment" means, with respect to the program of a Head Start agency, the actual number of children enrolled in such program and reported by the agency (as required in paragraph (2)) in a given month.
 
 #### (B) Base grant
 
-&emsp;&emsp;The term “base grant” has the meaning given the term in section 9835(a)(7) of this title.
+&emsp;&emsp;The term "base grant" has the meaning given the term in section 9835(a)(7) of this title.
 
 #### (C) Funded enrollment
 
-&emsp;&emsp;The term “funded enrollment” means, with respect to the program of a Head Start agency in a fiscal year, the number of children that the agency is funded to serve through a grant for the program during such fiscal year, as indicated in the grant agreement.
+&emsp;&emsp;The term "funded enrollment" means, with respect to the program of a Head Start agency in a fiscal year, the number of children that the agency is funded to serve through a grant for the program during such fiscal year, as indicated in the grant agreement.
 
 #### (2) Enrollment reporting requirement
 
@@ -400,7 +400,7 @@
 
 &emsp;&emsp;(A) on a semiannual basis, determine which Head Start agencies are operating with an actual enrollment that is less than the funded enrollment based on not less than 4 consecutive months of data;
 
-&emsp;&emsp;(B) for each such Head Start agency operating a program with an actual enrollmentthat is less than its funded enrollment, as determined under subparagraph (A), develop, in collaboration with such agency, a plan and timetable for reducing or eliminating underenrollment taking into consideration—
+&emsp;&emsp;(B) for each such Head Start agency operating a program with an actual enrollment that is less than its funded enrollment, as determined under subparagraph (A), develop, in collaboration with such agency, a plan and timetable for reducing or eliminating underenrollment taking into consideration—
 
 &emsp;&emsp;&emsp;(i) the quality and extent of the outreach, recruitment, and communitywide strategic planning and needs assessment conducted by such agency;
 
@@ -434,7 +434,7 @@
 
 &emsp;&emsp;The Secretary may, as appropriate, waive or reduce the percentage recapturing, withholding, or reduction otherwise required by subparagraph (A), if, after the implementation of the plan described in paragraph (3)(B), the Secretary finds that—
 
-&emsp;&emsp;&emsp;(i) the causes of the enrollment shortfall, or a portion of the shortfall, are related to the agency's serving significant numbers of highly mobile children, or are other significant causes as determined by the Secretary;
+&emsp;&emsp;&emsp;(i) the causes of the enrollment shortfall, or a portion of the shortfall, are related tothe agency's serving significant numbers of highly mobile children, or are other significant causes as determined by the Secretary;
 
 &emsp;&emsp;&emsp;(ii) the shortfall can reasonably be expected to be temporary; or
 
@@ -470,67 +470,67 @@
 
 #### References in Text
 
-The Individuals with Disabilities Education Act, referred to in subsec. (c)(2)(K), is title VI of Pub. L.91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in subsec. (c)(2)(K), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175. Part C of the Act is classified generally to subchapter III (§1431 et seq.) of chapter 33 of Title 20, Education. Section 619 of the Act is classified to section 1419 of Title 20. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 #### Amendments
 
 <b>2007</b>—Pub. L. 110–134 amended section generally. Prior to amendment, section related to, in subsec. (a), quality standards, in subsec. (b), results-based performance measures, in subsec. (c), monitoring of local agencies and programs, in subsec. (d), corrective action and termination, and, in subsec. (e), summaries of monitoring outcomes.
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–285, §108(a)(1)(A), inserted “, including minimum levels of overall accomplishment,” after “regulation standards” in introductory provisions.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–285, §108(a)(1)(A), inserted ", including minimum levels of overall accomplishment," after "regulation standards" in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 105–285, §108(a)(1)(B), struck out “education,” after “including health,”.
+Subsec. (a)(1)(A). Pub. L. 105–285, §108(a)(1)(B), struck out "education," after "including health,".
 
 Subsec. (a)(1)(B) to (E). Pub. L. 105–285, §108(a)(1)(C), (D), added subpar. (B) and redesignated former subpars. (B) to (D) as (C) to (E), respectively.
 
-Subsec. (a)(2). Pub. L. 105–285, §108(a)(2), (3), redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “The regulations promulgated under this subsection shall establish the minimum levels of overall accomplishment that a Head Start agency shall achieve in order to meet the standards specified in paragraph (1).”
+Subsec. (a)(2). Pub. L. 105–285, §108(a)(2), (3), redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: "The regulations promulgated under this subsection shall establish the minimum levels of overall accomplishment that a Head Start agency shall achieve in order to meet the standards specified in paragraph (1)."
 
-Subsec. (a)(2)(B)(iii). Pub. L. 105–285, §108(a)(4)(A), substituted “early childhood education and” for “child”.
+Subsec. (a)(2)(B)(iii). Pub. L. 105–285, §108(a)(4)(A), substituted "early childhood education and" for "child".
 
-Subsec. (a)(2)(C)(i). Pub. L. 105–285, §108(a)(4)(B)(i), struck out “not later than 1 year after May 18, 1994,” before “review” and substituted “this subsection; and” for “section 9846(b) of this title on the day before May 18, 1994; and”.
+Subsec. (a)(2)(C)(i). Pub. L. 105–285, §108(a)(4)(B)(i), struck out "not later than 1 year after May 18, 1994," before "review" and substituted "this subsection; and" for "section 9846(b) of this title on the day before May 18, 1994; and".
 
-Subsec. (a)(2)(C)(ii). Pub. L. 105–285, §108(a)(4)(B)(ii), substituted “October 27, 1998” for “November 2, 1978”.
+Subsec. (a)(2)(C)(ii). Pub. L. 105–285, §108(a)(4)(B)(ii), substituted "October 27, 1998" for "November 2, 1978".
 
-Subsec. (a)(3). Pub. L. 105–285, §108(a)(5), substituted “to a delegate agency” for “to an agency (referred to in this subchapter as the ‘delegate agency’)”.
+Subsec. (a)(3). Pub. L. 105–285, §108(a)(5), substituted "to a delegate agency" for "to an agency (referred to in this subchapter as the 'delegate agency')".
 
 Pub. L. 105–285, §108(a)(3), redesignated par. (4) as (3). Former par. (3) redesignated (2).
 
 Subsec. (a)(4). Pub. L. 105–285, §108(a)(3), redesignated par. (4) as (3).
 
-Subsec. (b). Pub. L. 105–285, §108(b)(1), inserted “Results-based” in heading.
+Subsec. (b). Pub. L. 105–285, §108(b)(1), inserted "Results-based" in heading.
 
-Subsec. (b)(1). Pub. L. 105–285, §108(b)(2), substituted “The Secretary” for “Not later than 1 year after May 18, 1994, the Secretary”, “early childhood education and” for “child”, and “results-based performance measures” for “performance measures” and inserted “, and the impact of the services provided through the programs to children and their families” before “(referred”.
+Subsec. (b)(1). Pub. L. 105–285, §108(b)(2), substituted "The Secretary" for "Not later than 1 year after May 18, 1994, the Secretary", "early childhood education and" for "child", and "results-based performance measures" for "performance measures" and inserted ", and the impact of the services provided through the programs to children and their families" before "(referred".
 
-Subsec. (b)(2). Pub. L. 105–285, §108(b)(3)(A), (B), (F), substituted “Characteristics” for “Design” in heading and “shall—” for “shall be designed—” in introductory provisions and inserted concluding provisions.
+Subsec. (b)(2). Pub. L. 105–285, §108(b)(3)(A), (B), (F), substituted "Characteristics" for "Design" in heading and "shall—" for "shall be designed—" in introductory provisions and inserted concluding provisions.
 
-Subsec. (b)(2)(A). Pub. L. 105–285, §108(b)(3)(C), substituted “be used to assess the impact of” for “to assess”.
+Subsec. (b)(2)(A). Pub. L. 105–285, §108(b)(3)(C), substituted "be used to assess the impact of" for "to assess".
 
-Subsec. (b)(2)(B). Pub. L. 105–285, §108(b)(3)(D), substituted “be adaptable” for “to be adaptable” and “, peer review, and program evaluation” for “and peer review” and inserted “, not later than July 1, 1999” before semicolon.
+Subsec. (b)(2)(B). Pub. L. 105–285, §108(b)(3)(D), substituted "be adaptable" for "to be adaptable" and ", peer review, and program evaluation" for "and peer review" and inserted ", not later than July 1, 1999" before semicolon.
 
-Subsec. (b)(2)(C). Pub. L. 105–285, §108(b)(3)(E), inserted “be developed” before “for other”.
+Subsec. (b)(2)(C). Pub. L. 105–285, §108(b)(3)(E), inserted "be developed" before "for other".
 
-Subsec. (b)(3)(A). Pub. L. 105–285, §108(b)(4), substituted “, regionally, and locally” for “and by region”.
+Subsec. (b)(3)(A). Pub. L. 105–285, §108(b)(4), substituted ", regionally, and locally" for "and by region".
 
 Subsec. (b)(4), (5). Pub. L. 105–285, §108(b)(5), added pars. (4) and (5).
 
-Subsec. (c)(1). Pub. L. 105–285, §108(c)(1), inserted “and results-based performance measures developed by the Secretary under subsection (b) of this section” after “standards established under this subchapter”.
+Subsec. (c)(1). Pub. L. 105–285, §108(c)(1), inserted "and results-based performance measures developed by the Secretary under subsection (b) of this section" after "standards established under this subchapter".
 
-Subsec. (c)(2)(B). Pub. L. 105–285, §108(c)(2)(A), struck out “and” at end.
+Subsec. (c)(2)(B). Pub. L. 105–285, §108(c)(2)(A), struck out "and" at end.
 
-Subsec. (c)(2)(C). Pub. L. 105–285, §108(c)(2)(B), inserted “(including children with disabilities)” after “eligible children” and substituted semicolon for period at end.
+Subsec. (c)(2)(C). Pub. L. 105–285, §108(c)(2)(B), inserted "(including children with disabilities)" after "eligible children" and substituted semicolon for period at end.
 
 Subsec. (c)(2)(D), (E). Pub. L. 105–285, §108(c)(2)(C), added subpars. (D) and (E).
 
-Subsec. (d)(1). Pub. L. 105–285, §108(d)(1)(A), inserted “or results-based performance measures developed by the Secretary under subsection (b) of this section” after “subsection (a) of this section” in introductory provisions.
+Subsec. (d)(1). Pub. L. 105–285, §108(d)(1)(A), inserted "or results-based performance measures developed by the Secretary under subsection (b) of this section" after "subsection (a) of this section" in introductory provisions.
 
-Subsec. (d)(1)(B). Pub. L. 105–285, §108(d)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “with respect to each identified deficiency, require the agency—
+Subsec. (d)(1)(B). Pub. L. 105–285, §108(d)(1)(B), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "with respect to each identified deficiency, require the agency—
 
-&emsp;“(i) to correct the deficiency immediately; or
+&emsp;"(i) to correct the deficiency immediately; or
 
-&emsp;“(ii) at the discretion of the Secretary (taking into consideration the seriousness of the deficiency and the time reasonably required to correct the deficiency), to comply with the requirements of paragraph (2) concerning a quality improvement plan; and”.
+&emsp;"(ii) at the discretion of the Secretary (taking into consideration the seriousness of the deficiency and the time reasonably required to correct the deficiency), to comply with the requirements of paragraph (2) concerning a quality improvement plan; and".
 
-Subsec. (d)(2)(A). Pub. L. 105–285, §108(d)(2), substituted “required to correct a deficiency immediately or during a 90-day period under clause (i) or (ii) of paragraph (1)(B)” for “able to correct a deficiency immediately” in introductory provisions.
+Subsec. (d)(2)(A). Pub. L. 105–285, §108(d)(2), substituted "required to correct a deficiency immediately or during a 90-day period under clause (i) or (ii) of paragraph (1)(B)" for "able to correct a deficiency immediately" in introductory provisions.
 
-Subsec. (e). Pub. L. 105–285, §108(e), inserted at end “Such report shall be widely disseminated and available for public review in both written and electronic formats.”
+Subsec. (e). Pub. L. 105–285, §108(e), inserted at end "Such report shall be widely disseminated and available for public review in both written and electronic formats."
 
 #### Effective Date
 

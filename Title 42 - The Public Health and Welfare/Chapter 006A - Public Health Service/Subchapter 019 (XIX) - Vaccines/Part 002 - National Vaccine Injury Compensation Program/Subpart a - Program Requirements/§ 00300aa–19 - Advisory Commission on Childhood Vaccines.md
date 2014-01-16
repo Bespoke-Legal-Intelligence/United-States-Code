@@ -50,15 +50,15 @@ The Commission shall—
 
 #### Codification
 
-In subsec. (a), “October 1, 1988” substituted for “the effective date of this subpart” on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.
+In subsec. (a), "October 1, 1988" substituted for "the effective date of this subpart" on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a)(2). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–168 inserted “present at the meeting” before period at end.
+<b>1991</b>—Subsec. (c). Pub. L. 102–168 inserted "present at the meeting" before period at end.
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–203 substituted “effective date of this subpart” for “effective date of this part” in last sentence.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203 substituted "effective date of this subpart" for "effective date of this part" in last sentence.
 
 #### Termination of Advisory Commissions
 

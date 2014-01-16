@@ -30,11 +30,11 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 633, 63
 
 #### Amendments
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–369 struck out “stamping,” before “marking” in heading and text.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369 struck out "stamping," before "marking" in heading and text.
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–39 struck out “, in addition to those specified in section 5202(f),” after “spirits for such purposes”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–39 struck out ", in addition to those specified in section 5202(f)," after "spirits for such purposes".
 
-<b>1976</b>—Subsecs. (a) to (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (c). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date of 1984 Amendment
 

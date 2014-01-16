@@ -28,15 +28,15 @@ The Bureau <sup>1</sup> shall issue final rules not later than 9 months after M
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d). Pub. L. 111–203 substituted “Bureau” for “Board”.
+<b>2010</b>—Subsec. (d). Pub. L. 111–203 substituted "Bureau" for "Board".
 
 #### Effective Date of 2010 Amendment
 
-Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L.111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
 #### Effective Date
 
 Section effective 9 months after May 22, 2009, except as otherwise specifically provided, see section 3 of Pub. L. 111–24, set out as an Effective Date of 2009 Amendment note under section 1602 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Board”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Board".</i>
 

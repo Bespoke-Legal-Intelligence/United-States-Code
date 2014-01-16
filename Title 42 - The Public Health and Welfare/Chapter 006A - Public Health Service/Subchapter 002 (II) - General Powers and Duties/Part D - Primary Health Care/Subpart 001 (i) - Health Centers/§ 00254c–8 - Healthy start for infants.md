@@ -8,7 +8,7 @@
 
 #### (2) Definition
 
-&emsp;For purposes of paragraph (1), the term “Healthy Start Initiative” is a reference to the program that, as an initiative to reduce the rate of infant mortality and improve perinatal outcomes, makes grants for project areas with high annual rates of infant mortality and that, prior to the effective date of this section, was a demonstration program carried out under section 241 of this title.
+&emsp;For purposes of paragraph (1), the term "Healthy Start Initiative" is a reference to the program that, as an initiative to reduce the rate of infant mortality and improve perinatal outcomes, makes grants for project areas with high annual rates of infant mortality and that, prior to the effective date of this section, was a demonstration program carried out under section 241 of this title.
 
 #### (b) Considerations in making grants
 
@@ -70,13 +70,13 @@ The Social Security Act, referred to in subsecs. (b)(1) and (c), is act Aug. 14,
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(3). Pub. L. 110–339, §2(b)(1), struck out par. (3). Text read as follows: “Effective upon increased funding beyond fiscal year 1999 for such Initiative, additional grants may be made to States to assist communities with technical assistance, replication of successful projects, and State policy formation to reduce infant and maternal mortality and morbidity.”
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–339, §2(b)(1), struck out par. (3). Text read as follows: "Effective upon increased funding beyond fiscal year 1999 for such Initiative, additional grants may be made to States to assist communities with technical assistance, replication of successful projects, and State policy formation to reduce infant and maternal mortality and morbidity."
 
-Subsec. (b). Pub. L. 110–339, §2(a), substituted “Considerations in making grants” for “Requirements for making grants” in heading, designated existing provisions as par. (1), inserted par. heading, and added pars. (2) and (3).
+Subsec. (b). Pub. L. 110–339, §2(a), substituted "Considerations in making grants" for "Requirements for making grants" in heading, designated existing provisions as par. (1), inserted par. heading, and added pars. (2) and (3).
 
 Subsec. (e). Pub. L. 110–339, §2(b)(2), (c), added subsec. (e) and struck out former subsec. (e) which related to additional services for at-risk pregnant women and infants.
 
 Subsec. (f). Pub. L. 110–339, §2(b)(2), struck out subsec. (f) which related to funding of program and additional services for at-risk pregnant women and infants.
 
-<b>2004</b>—Subsec. (e)(3). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in heading.
+<b>2004</b>—Subsec. (e)(3). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in heading.
 

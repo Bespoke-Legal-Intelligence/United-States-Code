@@ -148,7 +148,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (1) In general
 
-&emsp;Using funds made available under this subchapter, the State, in coordination with local boards in the State, shall conduct ongoing evaluation studies of workforce investment activities carried out in the State under this subchapter in order to promote, establish, implement, and utilize methods for continuously improving the activities in order to achieve high-level performance within, and high-level outcomes from, the statewide workforce investment system. To the maximum extent practicable, the State shall coordinate the evaluations with the evaluations provided for by the Secretary under section 2917 of this title.
+&emsp;Using funds made available under this subchapter, the State, in coordination with localboards in the State, shall conduct ongoing evaluation studies of workforce investment activities carried out in the State under this subchapter in order to promote, establish, implement, and utilize methods for continuously improving the activities in order to achieve high-level performance within, and high-level outcomes from, the statewide workforce investment system. To the maximum extent practicable, the State shall coordinate the evaluations with the evaluations provided for by the Secretary under section 2917 of this title.
 
 #### (2) Design
 
@@ -182,7 +182,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (B) Reduction in amount of grant
 
-&emsp;&emsp;If such failure continues for a second consecutive year, or if a State fails to submit areport under subsection (d) of this section for any program year, the Secretary may reduce by not more than 5 percent, the amount of the grant that would (in the absence of this paragraph) be payable to the State under such program for the immediately succeeding program year. Such penalty shall be based on the degree of failure to meet State adjusted levels of performance.
+&emsp;&emsp;If such failure continues for a second consecutive year, or if a State fails to submit a report under subsection (d) of this section for any program year, the Secretary may reduce by not more than 5 percent, the amount of the grant that would (in the absence of this paragraph) be payable to the State under such program for the immediately succeeding program year. Such penalty shall be based on the degree of failure to meet State adjusted levels of performance.
 
 #### (2) Funds resulting from reduced allotments
 
@@ -210,7 +210,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (i) Appeal to Governor
 
-&emsp;&emsp;&emsp;A local area that is subject to a reorganization plan under subparagraph (A) may, not later than 30 days after receiving notice of the reorganization plan, appeal to the Governor to rescind or revise such plan. In such case, the Governor shall make a final decision not later then 30 days after the receipt of the appeal.
+&emsp;&emsp;&emsp;A local area that is subject to a reorganization plan under subparagraph (A) may, not later than 30 days after receiving notice of the reorganization plan, appeal to the Governor to rescind or revise suchplan. In such case, the Governor shall make a final decision not later then 30 days after the receipt of the appeal.
 
 #### (ii) Subsequent action
 
@@ -244,7 +244,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(3)(B), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (b)(3)(B), was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 This Act, referred to in subsec. (f)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 

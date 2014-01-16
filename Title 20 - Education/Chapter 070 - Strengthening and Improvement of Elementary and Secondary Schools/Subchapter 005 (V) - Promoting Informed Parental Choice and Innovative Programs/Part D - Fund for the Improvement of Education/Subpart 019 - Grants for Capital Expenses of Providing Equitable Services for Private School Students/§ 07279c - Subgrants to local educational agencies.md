@@ -6,7 +6,7 @@ A local educational agency that desires to receive a subgrant under this subpart
 
 #### (b) Distribution
 
-A State educational agency shall award subgrants to local educational agencies within the State based on the degree of need set forth in their respective applications submitted under subsection (a) of this section.
+A State educational agency shall award subgrants to local educational agencies within theState based on the degree of need set forth in their respective applications submitted under subsection (a) of this section.
 
 (Pub. L. 89–10, title V, §5594, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1866.)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There is established a commission to be known as the “Financial Literacy and Education Commission”.
+There is established a commission to be known as the "Financial Literacy and Education Commission".
 
 #### (b) Purpose
 
@@ -48,5 +48,5 @@ The Commission shall hold its first meeting not later than 60 days after Decembe
 
 <b>2010</b>—Subsec. (c)(1)(C), (D). Pub. L. 111–203, §1013(d)(5), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (d). Pub. L. 111–203, §1013(d)(6), inserted at end “The Director of the Bureau of Consumer Financial Protection shall serve as the Vice Chairman.”
+Subsec. (d). Pub. L. 111–203, §1013(d)(6), inserted at end "The Director of the Bureau of Consumer Financial Protection shall serve as the Vice Chairman."
 

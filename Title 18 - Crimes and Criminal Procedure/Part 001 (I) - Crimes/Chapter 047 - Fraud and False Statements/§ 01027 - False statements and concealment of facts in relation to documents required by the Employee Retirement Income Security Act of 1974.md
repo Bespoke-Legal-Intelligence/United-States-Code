@@ -10,9 +10,9 @@ The Employee Retirement Income Security Act of 1974, referred to in text, is Pub
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
 
-<b>1974</b>—Pub. L. 93–406 substituted “Employee Retirement Income Security Act of 1974” for “Welfare and Pension Plans Disclosure Act” in section catchline, and “title I of the Employee Retirement Income Security Act of 1974” and “title” for “the Welfare and Pension Plans Disclosure Act” and “Act”, respectively, in text.
+<b>1974</b>—Pub. L. 93–406 substituted "Employee Retirement Income Security Act of 1974" for "Welfare and Pension Plans Disclosure Act" in section catchline, and "title I of the Employee Retirement Income Security Act of 1974" and "title" for "the Welfare and Pension Plans Disclosure Act" and "Act", respectively, in text.
 
 #### Effective Date of 1974 Amendment
 

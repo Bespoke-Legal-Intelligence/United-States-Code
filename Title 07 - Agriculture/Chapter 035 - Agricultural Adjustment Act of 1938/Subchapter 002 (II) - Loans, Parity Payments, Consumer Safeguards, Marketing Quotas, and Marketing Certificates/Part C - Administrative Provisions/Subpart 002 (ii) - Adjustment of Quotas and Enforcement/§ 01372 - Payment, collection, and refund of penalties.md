@@ -20,11 +20,11 @@ Section 1314h of this title, referred to in subsec. (b), was repealed by Pub. L.
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–272 substituted “Except as provided in section 1314h of this title, the” for “The”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–272 substituted "Except as provided in section 1314h of this title, the" for "The".
 
 <b>1979</b>—Subsec. (d). Pub. L. 96–113 inserted provisions respecting exemption from marketing quota penalties for State prison farms.
 
-<b>1940</b>—Subsec. (c). Act July 2, 1940, substituted “within two years” for “within one year” and inserted “and the claimant bore the burden of the payment of such penalty” after “wrongfully collected” in first par. and inserted second par. authorizing regulations for farm identification, etc.
+<b>1940</b>—Subsec. (c). Act July 2, 1940, substituted "within two years" for "within one year" and inserted "and the claimant bore the burden of the payment of such penalty" after "wrongfully collected" in first par. and inserted second par. authorizing regulations for farm identification, etc.
 
 <b>1938</b>—Subsecs. (c), (d). Act Apr. 7, 1938, added subsecs. (c) and (d).
 

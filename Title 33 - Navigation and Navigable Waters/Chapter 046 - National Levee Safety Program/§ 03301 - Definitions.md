@@ -4,11 +4,11 @@ In this chapter, the following definitions apply:
 
 #### (1) Committee
 
-&emsp;The term “committee” means the Committee on Levee Safety established by section 3302(a) of this title.
+&emsp;The term "committee" means the Committee on Levee Safety established by section 3302(a) of this title.
 
 #### (2) Inspection
 
-&emsp;The term “inspection” means an actual inspection of a levee—
+&emsp;The term "inspection" means an actual inspection of a levee—
 
 &emsp;&emsp;(A) to establish the global information system location of the levee;
 
@@ -20,7 +20,7 @@ In this chapter, the following definitions apply:
 
 #### (A) In general
 
-&emsp;&emsp;The term “levee” means an embankment, including floodwalls—
+&emsp;&emsp;The term "levee" means an embankment, including floodwalls—
 
 &emsp;&emsp;&emsp;(i) the primary purpose of which is to provide hurricane, storm, and flood protection relating to seasonal high water, storm surges, precipitation, and other weather events; and
 
@@ -32,7 +32,7 @@ In this chapter, the following definitions apply:
 
 #### (4) State
 
-&emsp;The term “State” means—
+&emsp;The term "State" means—
 
 &emsp;&emsp;(A) a State;
 
@@ -44,15 +44,15 @@ In this chapter, the following definitions apply:
 
 #### (5) State levee safety agency
 
-&emsp;The term “State levee safety agency” means the agency of a State that has regulatory authority over the safety of any non-Federal levee in the State.
+&emsp;The term "State levee safety agency" means the agency of a State that has regulatory authority over the safety of any non-Federal levee in the State.
 
 #### (6) United States
 
-&emsp;The term “United States”, when used in a geographical sense, means all of the States.
+&emsp;The term "United States", when used in a geographical sense, means all of the States.
 
 (Pub. L. 110–114, title IX, §9002, Nov. 8, 2007, 121 Stat. 1288.)
 
 #### Short Title
 
-Pub. L. 110–114, title IX, §9001, Nov. 8, 2007, 121 Stat. 1288, provided that: “This title \[enacting this chapter\] may be cited as the ‘National Levee Safety Act of 2007’.”
+Pub. L. 110–114, title IX, §9001, Nov. 8, 2007, 121 Stat. 1288, provided that: "This title \[enacting this chapter\] may be cited as the 'National Levee Safety Act of 2007'."
 

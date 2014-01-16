@@ -44,7 +44,7 @@ Contents of Plans.—A plan to be submitted by an air carrier under subsection (
 
 &emsp;(B) At a minimum, the written notice shall advise an owner (i) to contact the insurer of the property as the authoritative source for information about coverage and compensation; (ii) to not rely on unofficial information offered by air carrier representatives about compensation by the air carrier for accident-site property damage; and (iii) to obtain photographic or other detailed evidence of property damage as soon as possible after the accident, consistent with restrictions on access to the accident site.
 
-&emsp;(18) An assurance that, in the case of an accident in which the National Transportation Safety Board conducts a public hearing or comparable proceeding at a location greater than 80 miles from the accident site, the air carrier will ensure that the proceeding is made available simultaneously by electronic means at a location open to the public at both the origin city and destination city of the air carrier's flight if that city is located in the United States.
+&emsp;(18) An assurance that, in the case of an accident in which the National Transportation Safety Board conducts a public hearing or comparable proceeding at a location greater than 80 miles from the accident site, the aircarrier will ensure that the proceeding is made available simultaneously by electronic means at a location open to the public at both the origin city and destination city of the air carrier's flight if that city is located in the United States.
 
 (c)
 
@@ -56,7 +56,7 @@ Limitation on Liability.—An air carrier shall not be liable for damages in any
 
 (e)
 
-Aircraft Accident and Passenger Defined.—In this section, the terms “aircraft accident” and “passenger” have the meanings such terms have in section 1136 of this title.
+Aircraft Accident and Passenger Defined.—In this section, the terms "aircraft accident" and "passenger" have the meanings such terms have in section 1136 of this title.
 
 (f)
 
@@ -66,17 +66,17 @@ Statutory Construction.—Nothing in this section may be construed as limiting t
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b)(16). Pub. L. 108–176, §809(a)(1), struck out “the air carrier” after “major loss of life,”.
+<b>2003</b>—Subsec. (b)(16). Pub. L. 108–176, §809(a)(1), struck out "the air carrier" after "major loss of life,".
 
 Subsec. (b)(17), (18). Pub. L. 108–176, §809(a)(2), added pars. (17) and (18).
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–181, §402(a)(5)(A), substituted “Each air carrier” for “Not later than 6 months after the date of the enactment of this section, each air carrier”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–181, §402(a)(5)(A), substituted "Each air carrier" for "Not later than 6 months after the date of the enactment of this section, each air carrier".
 
 Subsec. (b)(14) to (16). Pub. L. 106–181, §402(a)(1)–(3), added pars. (14) to (16).
 
-Subsec. (c). Pub. L. 106–181, §402(a)(5)(B), substituted “The Secretary” for “After the date that is 6 months after the date of the enactment of this section, the Secretary”.
+Subsec. (c). Pub. L. 106–181, §402(a)(5)(B), substituted "The Secretary" for "After the date that is 6 months after the date of the enactment of this section, the Secretary".
 
-Subsec. (d). Pub. L. 106–181, §402(b), inserted “, or in providing information concerning a preliminary passenger manifest,” before “pursuant to a plan”.
+Subsec. (d). Pub. L. 106–181, §402(b), inserted ", or in providing information concerning a preliminary passenger manifest," before "pursuant to a plan".
 
 Subsec. (f). Pub. L. 106–181, §402(c), added subsec. (f).
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 Amendment by section 402(a)(5)(B) to (c) of Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
-Pub. L. 106–181, title IV, §402(a)(4), Apr. 5, 2000, 114 Stat. 130, provided that: “The amendments made by paragraphs (1), (2), and (3) \[amending this section\] shall take effect on the 180th day following the date of the enactment of this Act \[Apr. 5, 2000\]. On or before such 180th day, each air carrier holding a certificate of public convenience and necessity under section 41102 of title 49, United States Code, shall submit to the Secretary \[of Transportation\] and the Chairman of the National Transportation Safety Board an updated plan under section 41113 of such title that meets the requirements of the amendments made by paragraphs (1), (2), and (3).”
+Pub. L. 106–181, title IV, §402(a)(4), Apr. 5, 2000, 114 Stat. 130, provided that: "The amendments made by paragraphs (1), (2), and (3) \[amending this section\] shall take effect on the 180th day following the date of the enactment of this Act \[Apr. 5, 2000\]. On or before such 180th day, each air carrier holding a certificate of public convenience and necessity under section 41102 of title 49, United States Code, shall submit to the Secretary \[of Transportation\] and the Chairman of the National Transportation Safety Board an updated plan under section 41113 of such title that meets the requirements of the amendments made by paragraphs (1), (2), and (3)."
 
 #### Effective Date
 
@@ -96,45 +96,45 @@ Except as otherwise specifically provided, section applicable only to fiscal yea
 
 #### Update Plans
 
-Pub. L. 108–176, title VIII, §809(c), Dec. 12, 2003, 117 Stat. 2589, provided that: “Air carriers and foreign air carriers shall update their plans under sections 41113 and 41313 of title 49, United States Code, respectively, to reflect the amendments made by subsections (a) and (b) of this section \[amending this section and section 41313 of this title\] not later than 90 days after the date of enactment of this Act \[Dec. 12, 2003\].”
+Pub. L. 108–176, title VIII, §809(c), Dec. 12, 2003, 117 Stat. 2589, provided that: "Air carriers and foreign air carriers shall update their plans under sections 41113 and 41313 of title 49, United States Code, respectively, to reflect the amendments made by subsections (a) and (b) of this section \[amending this section and section 41313 of this title\] not later than 90 days after the date of enactment of this Act \[Dec. 12, 2003\]."
 
 #### Establishment of Task Force
 
 Pub. L. 104–264, title VII, §704, Oct. 9, 1996, 110 Stat. 3268, provided that:
 
-“(a)
+"(a)
 
 Establishment.—The Secretary of Transportation, in cooperation with the National Transportation Safety Board, the Federal Emergency Management Agency, the American Red Cross, air carriers, and families which have been involved in aircraft accidents shall establish a task force consisting of representatives of such entities and families, representatives of air carrier employees, and representatives of such other entities as the Secretary considers appropriate.
 
-“(b)
+"(b)
 
 Guidelines and Recommendations.—The task force established pursuant to subsection (a) shall develop—
 
-&emsp;“(1) guidelines to assist air carriers in responding to aircraft accidents;
+&emsp;"(1) guidelines to assist air carriers in responding to aircraft accidents;
 
-&emsp;“(2) recommendations on methods to ensure that attorneys and representatives of media organizations do not intrude on the privacy of families of passengers involved in an aircraft accident;
+&emsp;"(2) recommendations on methods to ensure that attorneys and representatives of media organizations do not intrude on the privacy of families of passengers involved in an aircraft accident;
 
-&emsp;“(3) recommendations on methods to ensure that the families of passengers involved in an aircraft accident who are not citizens of the United States receive appropriate assistance;
+&emsp;"(3) recommendations on methods to ensure that the families of passengers involved in an aircraft accident who are not citizens of the United States receive appropriate assistance;
 
-&emsp;“(4) recommendations on methods to ensure that State mental health licensing laws do not act to prevent out-of-state mental health workers from working at the site of an aircraft accident or other related sites;
+&emsp;"(4) recommendations on methods to ensure that State mental health licensing laws do not act to prevent out-of-state mental health workers from working at the site of an aircraft accident or other related sites;
 
-&emsp;“(5) recommendations on the extent to which military experts and facilities can be used to aid in the identification of the remains of passengers involved in an aircraft accident; and
+&emsp;"(5) recommendations on the extent to which military experts and facilities can be used to aid in the identification of the remains of passengers involved in an aircraft accident; and
 
-&emsp;“(6) recommendations on methods to improve the timeliness of the notification provided by air carriers to the families of passengers involved in an aircraft accident, including—
+&emsp;"(6) recommendations on methods to improve the timeliness of the notification provided by air carriers to the families of passengers involved in an aircraft accident, including—
 
-&emsp;&emsp;“(A) an analysis of the steps that air carriers would have to take to ensure that an accurate list of passengers on board the aircraft would be available within 1 hour of the accident and an analysis of such steps to ensure that such list would be available within 3 hours of the accident;
+&emsp;&emsp;"(A) an analysis of the steps that air carriers would have to take to ensure that an accurate list of passengers on board the aircraft would be available within 1 hour of the accident and an analysis of such steps to ensure that such list would be available within 3 hours of the accident;
 
-&emsp;&emsp;“(B) an analysis of the added costs to air carriers and travel agents that would result if air carriers were required to take the steps described in subparagraph (A);
+&emsp;&emsp;"(B) an analysis of the added costs to air carriers and travel agents that would result if air carriers were required to take the steps described in subparagraph (A);
 
-&emsp;&emsp;“(C) an analysis of any inconvenience to passengers, including flight delays, that would result if air carriers were required to take the steps described in subparagraph (A); and
+&emsp;&emsp;"(C) an analysis of any inconvenience to passengers, including flight delays, that would result ifair carriers were required to take the steps described in subparagraph (A); and
 
-&emsp;&emsp;“(D) an analysis of the implications for personal privacy that would result if air carriers were required to take the steps described in subparagraph (A).
+&emsp;&emsp;"(D) an analysis of the implications for personal privacy that would result if air carriers were required to take the steps described in subparagraph (A).
 
-“(c)
+"(c)
 
-Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 9, 1996\], the Secretary shall transmit to Congress a report containing the model plan and recommendations developed by the task force under subsection (b).”
+Report.—Not later than 1 year after the date of the enactment of this Act \[Oct. 9, 1996\], the Secretary shall transmit to Congress a report containing the model plan and recommendations developed by the task force under subsection (b)."
 
 #### Limitation on Statutory Construction
 
-Pub. L. 104–264, title VII, §705, Oct. 9, 1996, 110 Stat. 3269, provided that: “Nothing in this title \[enacting this section and section 1136 of this title, amending section 1155 of this title, and enacting provisions set out as notes under this section and section 40101 of this title\] or any amendment made by this title may be construed as limiting the actions that an air carrier may take, or the obligations that an air carrier may have, in providing assistance to the families of passengers involved in an aircraft accident.”
+Pub. L. 104–264, title VII, §705, Oct. 9, 1996, 110 Stat. 3269, provided that: "Nothing in this title \[enacting this section and section 1136 of this title, amending section 1155 of this title, and enacting provisions set out as notes under this section and section 40101 of this title\] or any amendment made by this title may be construed as limiting the actions that an air carrier may take, or the obligations that an air carrier may have, in providing assistance to the families of passengers involved in an aircraft accident."
 

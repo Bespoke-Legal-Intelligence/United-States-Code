@@ -4,11 +4,11 @@ In this subtitle, the following definitions apply:
 
 &emsp;(1)
 
-Commission.—The term “Commission” means a Commission established under section 15301.
+Commission.—The term "Commission" means a Commission established under section 15301.
 
 &emsp;(2)
 
-Local development district.—The term “local development district” means an entity that—
+Local development district.—The term "local development district" means an entity that—
 
 &emsp;&emsp;(A)(i) is an economic development district that is—
 
@@ -36,19 +36,19 @@ Local development district.—The term “local development district” means an
 
 &emsp;(3)
 
-Federal grant program.—The term “Federal grant program” means a Federal grant program to provide assistance in carrying out economic and community development activities.
+Federal grant program.—The term "Federal grant program" means a Federal grant program to provide assistance in carrying out economic and community development activities.
 
 &emsp;(4)
 
-Indian tribe.—The term “Indian tribe” has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
+Indian tribe.—The term "Indian tribe" has the meaning given the term in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 
 &emsp;(5)
 
-Nonprofit entity.—The term “nonprofit entity” means any organization described in section 501(c) of the Internal Revenue Code of 1986 and exempt from taxation under 501(a) of that Code that has been formed for the purpose of economic development.
+Nonprofit entity.—The term "nonprofit entity" means any organization described in section 501(c) of the Internal Revenue Code of 1986 and exempt from taxation under 501(a) of that Code that has been formed for the purpose of economic development.
 
 &emsp;(6)
 
-Region.—The term “region” means the area covered by a Commission as described in subchapter II of chapter 157.<sup>1</sup>
+Region.—The term "region" means the area covered by a Commission as described in subchapter II of chapter 157.<sup>1</sup>
 
 (Added Pub. L. 110–234, title XIV, §14217(a)(2), May 22, 2008, 122 Stat. 1468, and Pub. L. 110–246, §4(a), title XIV, §14217(a)(2), June 18, 2008, 122 Stat. 1664, 2230.)
 
@@ -66,7 +66,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this subtitle and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title XIV, §14217(d), May 22, 2008, 122 Stat. 1482, and Pub. L. 110–246, §4(a), title XIV, §14217(d), June 18, 2008, 122 Stat. 1664, 2244, provided that: “This section \[enacting this subtitle, redesignating former subtitle V as subtitle VI of this title, and amending section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees\], and the amendments made by this section, shall take effect on the first day of the first fiscal year beginning after the date of the enactment of this Act \[June 18, 2008\].”
+Pub. L. 110–234, title XIV, §14217(d), May 22, 2008, 122 Stat. 1482, and Pub. L. 110–246, §4(a), title XIV, §14217(d), June 18, 2008, 122 Stat. 1664, 2244, provided that: "This section \[enacting this subtitle, redesignating former subtitle V as subtitle VI of this title, and amending section 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees\], and the amendments made by this section, shall take effect on the first day of the first fiscal year beginning after the date of the enactment of this Act \[June 18, 2008\]."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 

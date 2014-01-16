@@ -2,7 +2,7 @@
 
 #### (a) Time to be disregarded
 
-In the case of an individual serving in the Armed Forces of the United States, or serving in support of such Armed Forces, in an area designated by the President of the United States by Executive order as a “combat zone” for purposes of section 112, or when deployed outside the United States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law, at any time during the period designated by the President by Executive order as the period of combatant activities in such zone for purposes of such section or at any time during the period of such contingency operation, or hospitalized as a result of injury received while serving in such an area or operation during such time, the period of service in such area or operation, plus the period of continuous qualified hospitalization attributable to such injury, and the next 180 days thereafter, shall be disregarded in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such individual—
+In the case of an individual serving in the Armed Forces of the United States, or serving in support of such Armed Forces, in an area designated by the President of the United States by Executive order as a "combat zone" for purposes of section 112, or when deployed outside the United States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law, at any time during the period designated by the President by Executive order as the period of combatant activities in such zone for purposes of such section or at any time during the period of such contingency operation, or hospitalized as a result of injury received while serving in such an area or operation during such time, the period of service in such area or operation, plus the period of continuous qualified hospitalization attributable to such injury, and the next 180 days thereafter, shall be disregarded in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such individual—
 
 &emsp;(1) Whether any of the following acts was performed within the time prescribed therefor:
 
@@ -42,7 +42,7 @@ In the case of an individual serving in the Armed Forces of the United States, o
 
 #### (c) Application to spouse
 
-The provisions of this section shall apply to the spouse of any individual entitled to the benefits of subsection (a). Except in the case of the combat zone designated for purposes of the Vietnam conflict, the preceding sentence shall not cause this section to apply for any spouse for any taxable year beginning more than 2 years after the date designated under section 112 asthe date of termination of combatant activities in a combat zone.
+The provisions of this section shall apply to the spouse of any individual entitled to the benefits of subsection (a). Except in the case of the combat zone designated for purposes of the Vietnam conflict, the preceding sentence shall not cause this section to apply for any spouse for any taxable year beginning more than 2 years after the date designated under section 112 as the date of termination of combatant activities in a combat zone.
 
 #### (d) Missing status
 
@@ -66,15 +66,15 @@ The period of service in the area or contingency operation referred to in subsec
 
 #### (2) Desert Shield services
 
-&emsp;For purposes of this subsection, the term “Desert Shield services” means any services in the Armed Forces of the United States or in support of such Armed Forces if—
+&emsp;For purposes of this subsection, the term "Desert Shield services" means any services in the Armed Forces of the United States or in support of such Armed Forces if—
 
-&emsp;&emsp;(A) such services are performed in the area designated by the President pursuant to this subparagraph as the “Persian Gulf Desert Shield area”, and
+&emsp;&emsp;(A) such services are performed in the area designated by the President pursuant to this subparagraph as the "Persian Gulf Desert Shield area", and
 
 &emsp;&emsp;(B) such services are performed during the period beginning on August 2, 1990, and ending on the date on which any portion of the area referred to in subparagraph (A) is designated by the President as a combat zone pursuant to section 112.
 
 #### (g) Qualified hospitalization
 
-For purposes of subsection (a), the term “qualified hospitalization” means—
+For purposes of subsection (a), the term "qualified hospitalization" means—
 
 &emsp;(1) any hospitalization outside the United States, and
 
@@ -82,59 +82,59 @@ For purposes of subsection (a), the term “qualified hospitalization” means�
 
 > Paragraph (2) shall not apply for purposes of applying this section with respect to the spouse of an individual entitled to the benefits of subsection (a).
 
-(Aug. 16, 1954, ch. 736, 68A Stat. 898; Pub. L. 93–597, §5(a), Jan. 2, 1975, 88 Stat. 1952; Pub. L. 94–455, title XIX, §1906(a)(51), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1831, 1834; Pub. L. 94–569, §3(e), Oct. 20, 1976, 90 Stat. 2700; Pub. L. 96–589, §6(i)(14), Dec. 24, 1980, 94 Stat. 3411; Pub. L. 97–448, title III, §307(d), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 99–514, title XVII, §1708(a)(4), Oct. 22, 1986, 100 Stat. 2782; Pub. L. 102–2, §1(a)–(c), Jan. 30, 1991, 105 Stat. 5; Pub. L. 107–134, title I, §112(b), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–121, title I, §104(a)–(b)(2), Nov. 11, 2003, 117 Stat. 1338; Pub. L. 109–73, title IV, §403(a), Sept. 23, 2005, 119 Stat. 2027.)
+(Aug. 16, 1954, ch. 736, 68A Stat. 898; Pub. L. 93–597, §5(a), Jan. 2, 1975, 88 Stat. 1952; Pub. L.94–455, title XIX, §1906(a)(51), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1831, 1834; Pub. L. 94–569, §3(e), Oct. 20, 1976, 90 Stat. 2700; Pub. L. 96–589, §6(i)(14), Dec. 24, 1980, 94 Stat. 3411; Pub. L. 97–448, title III, §307(d), Jan. 12, 1983, 96 Stat. 2407; Pub. L. 99–514, title XVII, §1708(a)(4), Oct. 22, 1986, 100 Stat. 2782; Pub. L. 102–2, §1(a)–(c), Jan. 30, 1991, 105 Stat. 5; Pub. L. 107–134, title I, §112(b), Jan. 23, 2002, 115 Stat. 2434; Pub. L. 108–121, title I, §104(a)–(b)(2), Nov. 11, 2003, 117 Stat. 1338; Pub. L. 109–73, title IV, §403(a), Sept. 23, 2005, 119 Stat. 2027.)
 
 #### Amendments
 
 <b>2005</b>—Subsec. (a)(1)(A), (B). Pub. L. 109–73 amended subpars. (A) and (B) generally. Prior to amendment, text read as follows:
 
-“(A) Filing any return of income, estate, or gift tax (except income tax withheld at source and income tax imposed by subtitle C or any law superseded thereby);
+"(A) Filing any return of income, estate, or gift tax (except income tax withheld at source and income tax imposed by subtitle C or any law superseded thereby);
 
-“(B) Payment of any income, estate, or gift tax (except income tax withheld at source and income tax imposed by subtitle C or any law superseded thereby) or any installment thereof or of any other liability to the United States in respect thereof;”.
+"(B) Payment of any income, estate, or gift tax (except income tax withheld at source and income tax imposed by subtitle C or any law superseded thereby) or any installment thereof or of any other liability to the United States in respect thereof;".
 
-<b>2003</b>—Pub. L. 108–121, §104(b)(2), inserted “or contingency operation” after “combat zone” in section catchline.
+<b>2003</b>—Pub. L. 108–121, §104(b)(2), inserted "or contingency operation" after "combat zone" in section catchline.
 
-Subsec. (a). Pub. L. 108–121, §104(a), in introductory provisions, inserted “, or when deployed outside the United States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law” after “section 112”, “or at any time during the period of such contingency operation” after “for purposes of such section”, “or operation” after “such an area”, and “or operation” after “such area”.
+Subsec. (a). Pub. L. 108–121, §104(a), in introductory provisions, inserted ", or when deployed outside the United States away from the individual's permanent duty station while participating in an operation designated by the Secretary of Defense as a contingency operation (as defined in section 101(a)(13) of title 10, United States Code) or which became such a contingency operation by operation of law" after "section 112", "or at any time during the period of such contingency operation" after "for purposes of such section", "or operation" after "such an area", and "or operation" after "such area".
 
-Subsec. (d). Pub. L. 108–121, §104(b)(1), inserted “or contingency operation” after “area”.
+Subsec. (d). Pub. L. 108–121, §104(b)(1), inserted "or contingency operation" after "area".
 
-<b>2002</b>—Subsec. (a)(1)(K). Pub. L. 107–134 struck out “in regulations prescribed under this section” before “by the Secretary”.
+<b>2002</b>—Subsec. (a)(1)(K). Pub. L. 107–134 struck out "in regulations prescribed under this section" before "by the Secretary".
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–2, §1(c)(1), in introductory provisions, struck out “outside the United States”before “as a result of injury” and substituted “the period of continuous qualified hospitalization” for “the period of continuous hospitalization outside the United States”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–2, §1(c)(1), in introductory provisions, struck out "outside the United States" before "as a result of injury" and substituted "the period of continuous qualified hospitalization" for "the period of continuous hospitalization outside the United States".
 
-Subsec. (a)(2). Pub. L. 102–2, §1(b)(2), struck out “(including interest)” after “refund”.
+Subsec. (a)(2). Pub. L. 102–2, §1(b)(2), struck out "(including interest)" after "refund".
 
 Subsecs. (b) to (e). Pub. L. 102–2, §1(b)(1), added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively.
 
 Subsecs. (f), (g). Pub. L. 102–2, §1(a), (c)(2), added subsecs. (f) and (g).
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–514 amended last sentence generally. Prior to amendment, last sentence read as follows: “The preceding sentence shall not cause this section to apply to any spouse for any taxable year beginning—
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 amended last sentence generally. Prior to amendment, last sentence read as follows: "The preceding sentence shall not cause this section to apply to any spouse for any taxable year beginning—
 
-&emsp;“(1) after December 31, 1982, in the case of service in the combat zone designated for purposes of the Vietnam conflict, or
+&emsp;"(1) after December 31, 1982, in the case of service in the combat zone designated for purposes of the Vietnam conflict, or
 
-&emsp;“(2) more than 2 years after the date designated under section 112 as the date of termination of combatant activities in that zone, in the case of any combat zone other than that referred to in paragraph (1).”
+&emsp;"(2) more than 2 years after the date designated under section 112 as the date of termination of combatant activities in that zone, in the case of any combat zone other than that referred to in paragraph (1)."
 
-<b>1983</b>—Subsec. (b)(1). Pub. L. 97–448 substituted “December 31, 1982” for “January 2, 1978”.
+<b>1983</b>—Subsec. (b)(1). Pub. L. 97–448 substituted "December 31, 1982" for "January 2, 1978".
 
-<b>1980</b>—Subsec. (d). Pub. L. 96–589 substituted “cases under title 11 of the United States Code and receiverships” for “bankruptcy and receiverships” in par. (1) heading.
+<b>1980</b>—Subsec. (d). Pub. L. 96–589 substituted "cases under title 11 of the United States Code and receiverships" for "bankruptcy and receiverships" in par. (1) heading.
 
-<b>1976</b>—Pub. L. 94–455, §1906(a)(51)(A), substituted “by reason of service in combat zone” for “by reason of war” in section catchline.
+<b>1976</b>—Pub. L. 94–455, §1906(a)(51)(A), substituted "by reason of service in combat zone" for "by reason of war" in section catchline.
 
-Subsec. (a). Pub. L. 94–455, §1906(a)(51)(B), (b)(13)(A), substituted “United States” for “States of the Union and the District of Columbia” in two places after “hospitalized outside the” and “hospitalization outside the”, and struck out “or his delegate” after “Secretary”.
+Subsec. (a). Pub. L. 94–455, §1906(a)(51)(B), (b)(13)(A), substituted "United States" for "States of the Union and the District of Columbia" in two places after "hospitalized outside the" and "hospitalization outside the", and struck out "or his delegate" after "Secretary".
 
-Subsec. (b). Pub. L. 94–569 substituted “taxable year beginning” for “taxable year beginning more than 2 years after” in provisions preceding par. (1), substituted “after January 2, 1978” for “the date of the enactment of this subsection” in par. (1), and substituted “more than 2 years after the date designated” for “the date designated” in par. (2).
+Subsec. (b). Pub. L. 94–569 substituted "taxable year beginning" for "taxable year beginning more than 2 years after" in provisions preceding par. (1), substituted "after January 2, 1978" for "the date of the enactment of this subsection" in par. (1), and substituted "more than 2 years after the date designated" for "the date designated" in par. (2).
 
-Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1975</b>—Subsecs. (b) to (d). Pub. L. 93–597 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–73, title IV, §403(c), Sept. 23, 2005, 119 Stat. 2027, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply for any period for performing an act which has not expired before August 25, 2005.”
+Pub. L. 109–73, title IV, §403(c), Sept. 23, 2005, 119 Stat. 2027, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply for any period for performing an act which has not expired before August 25, 2005."
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–121, title I, §104(c), Nov. 11, 2003, 117 Stat. 1338, provided that: “The amendments made by this section \[amending this section\] shall apply to any period for performing an act which has not expired before the date of the enactment of this Act \[Nov. 11, 2003\].”
+Pub. L. 108–121, title I, §104(c), Nov. 11, 2003, 117 Stat. 1338, provided that: "The amendments made by this section \[amending this section\] shall apply to any period for performing an act which has not expired before the date of the enactment of this Act \[Nov. 11, 2003\]."
 
 #### Effective Date of 2002 Amendment
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 107–134 applicable to disasters and terroristic or milita
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–2, §1(d), Jan. 30, 1991, 105 Stat. 6, provided that: “The amendments made by this section \[amending this section\] shall take effect on August 2, 1990.”
+Pub. L. 102–2, §1(d), Jan. 30, 1991, 105 Stat. 6, provided that: "The amendments made by this section \[amending this section\] shall take effect on August 2, 1990."
 
 #### Effective Date of 1986 Amendment
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 #### Effective Date of 1975 Amendment
 
-Pub. L. 93–597, §5(b), Jan. 2, 1975, 88 Stat. 1953, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to taxable years ending on or after February 28, 1961.”
+Pub. L. 93–597, §5(b), Jan. 2, 1975, 88 Stat. 1953, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to taxable years ending on or after February 28, 1961."
 
 #### Transfer of Functions
 

@@ -2,7 +2,7 @@
 
 #### (a) Partnership
 
-For purposes of this subtitle, the term “partnership” includes a syndicate, group, pool, joint venture, or other unincorporated organization through or by means of which any business, financial operation, or venture is carried on, and which is not, within the meaning of this title, acorporation or a trust or estate. Under regulations the Secretary may, at the election of all the members of an unincorporated organization, exclude such organization from the application of all or part of this subchapter, if it is availed of—
+For purposes of this subtitle, the term "partnership" includes a syndicate, group, pool, joint venture, or other unincorporated organization through or by means of which any business, financial operation, or venture is carried on, and which is not, within the meaning of this title, acorporation or a trust or estate. Under regulations the Secretary may, at the election of all the members of an unincorporated organization, exclude such organization from the application of all or part of this subchapter, if it is availed of—
 
 &emsp;(1) for investment purposes only and not for the active conduct of a business,
 
@@ -14,7 +14,7 @@ For purposes of this subtitle, the term “partnership” includes a syndicate, 
 
 #### (b) Partner
 
-For purposes of this subtitle, the term “partner” means a member of a partnership.
+For purposes of this subtitle, the term "partner" means a member of a partnership.
 
 #### (c) Partnership agreement
 
@@ -22,7 +22,7 @@ For purposes of this subchapter, a partnership agreement includes any modificati
 
 #### (d) Liquidation of a partner's interest
 
-For purposes of this subchapter, the term “liquidation of a partner's interest” means the termination of a partner's entire interest in a partnership by means of a distribution, or a series of distributions, to the partner by the partnership.
+For purposes of this subchapter, the term "liquidation of a partner's interest" means the termination of a partner's entire interest in a partnership by means of a distribution, or a series of distributions, to the partner by the partnership.
 
 #### (e) Distributions of partnership interests treated as exchanges
 
@@ -50,7 +50,7 @@ Except as otherwise provided in regulations, for purposes of—
 
 #### (2) Qualified joint venture
 
-&emsp;For purposes of paragraph (1), the term “qualified joint venture” means any joint venture involving the conduct of a trade or business if—
+&emsp;For purposes of paragraph (1), the term "qualified joint venture" means any joint venture involving the conduct of a trade or business if—
 
 &emsp;&emsp;(A) the only members of such joint venture are a husband and wife,
 
@@ -68,19 +68,19 @@ Except as otherwise provided in regulations, for purposes of—
 
 <b>2007</b>—Subsecs. (f), (g). Pub. L. 110–28 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted “Distributions of partnership interests” for “Distributions” in heading, substituted “Except as otherwise provided in regulations, for purposes of” for “For purposes of” in introductory provision, and “any distribution of an interest in a partnership” for “any distribution” in closing provisions.
+<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted "Distributions of partnership interests" for "Distributions" in heading, substituted "Except as otherwise provided in regulations, for purposes of" for "For purposes of" in introductory provision, and "any distribution of an interest in a partnership" for "any distribution" in closing provisions.
 
 <b>1984</b>—Subsecs. (e), (f). Pub. L. 98–369 added subsec. (e) and redesignated former subsec. (e) as (f).
 
 <b>1980</b>—Subsec. (a)(3). Pub. L. 96–222 added par. (3).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsec. (e). Pub. L. 94–455, §213(c)(3)(B), added subsec. (e).
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–28, title VIII, §8215(c), May 25, 2007, 121 Stat. 194, provided that: “The amendments made by this section \[amending this section, section 1402 of this title, and section 411 of Title 42, The Public Health and Welfare\] shall apply to taxable years beginning after December 31, 2006.”
+Pub. L. 110–28, title VIII, §8215(c), May 25, 2007, 121 Stat. 194, provided that: "The amendments made by this section \[amending this section, section 1402 of this title, and section 411 of Title 42, The Public Health and Welfare\] shall apply to taxable years beginning after December 31, 2006."
 
 #### Effective Date of 1986 Amendment
 

@@ -10,7 +10,7 @@ Subject to subsection (c) of this section, the amount of a requirements payment 
 
 #### (b) State allocation percentage defined
 
-The “State allocation percentage” for a State is the amount (expressed as a percentage) equal to the quotient of—
+The "State allocation percentage" for a State is the amount (expressed as a percentage) equal to the quotient of—
 
 &emsp;(1) the voting age population of the State (as reported in the most recent decennial census); and
 
@@ -34,5 +34,5 @@ A requirements payment made to a State under this subpart shall be available to 
 
 (Pub. L. 107–252, title II, §252, Oct. 29, 2002, 116 Stat. 1693.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Commission”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Commission".</i>
 

@@ -256,23 +256,23 @@ Beginning 3 years after the date on which funds are first appropriated to carry 
 
 For purposes of this section:
 
-&emsp;(1) The term “bona fide patient” means an individual who is a patient of the practitioner involved.
+&emsp;(1) The term "bona fide patient" means an individual who is a patient of the practitioner involved.
 
-&emsp;(2) The term “controlled substance” means a drug that is included in schedule II, III, or IV of section 812(c) of title 21.
+&emsp;(2) The term "controlled substance" means a drug that is included in schedule II, III, or IV of section 812(c) of title 21.
 
-&emsp;(3) The term “dispense” means to deliver a controlled substance to an ultimate user by, or pursuant to the lawful order of, a practitioner, irrespective of whether the dispenser uses the Internet or other means to effect such delivery.
+&emsp;(3) The term "dispense" means to deliver a controlled substance to an ultimate user by, or pursuant to the lawful order of, a practitioner, irrespective of whether the dispenser uses the Internet or other means to effect such delivery.
 
-&emsp;(4) The term “dispenser” means a physician, pharmacist, or other person that dispenses a controlled substance to an ultimate user.
+&emsp;(4) The term "dispenser" means a physician, pharmacist, or other person that dispenses a controlled substance to an ultimate user.
 
-&emsp;(5) The term “interoperability” with respect to a State controlled substance monitoring program means the ability of the program to electronically share reported information, including each of the required report components described in subsection (d) of this section, with another State if the information concerns either the dispensing of a controlled substance to an ultimate user who resides in such other State, or the dispensing of a controlled substance prescribed by a practitioner whose principal place of business is located in such other State.
+&emsp;(5) The term "interoperability" with respect to a State controlled substance monitoring program means the ability of the program to electronically share reported information, including each of the required report components described in subsection (d) of this section, with another State if the information concerns either the dispensing of a controlled substance to an ultimate user who resides in such other State, or the dispensing of a controlled substance prescribed by a practitioner whose principal place of business is located in such other State.
 
-&emsp;(6) The term “nonidentifiable information” means information that does not identify a practitioner, dispenser, or an ultimate user and with respect to which there is no reasonable basis to believe that the information can be used to identify a practitioner, dispenser, or an ultimate user.
+&emsp;(6) The term "nonidentifiable information" means information that does not identify a practitioner, dispenser, or an ultimate user and with respect to which there is no reasonable basis to believe that the information can be used to identify a practitioner, dispenser, or an ultimate user.
 
-&emsp;(7) The term “practitioner” means a physician, dentist, veterinarian, scientific investigator, pharmacy, hospital, or other personlicensed, registered, or otherwise permitted, by the United States or the jurisdiction in which he or she practices or does research, to distribute, dispense, conduct research with respect to, administer, or use in teaching or chemical analysis, a controlled substance in the course of professional practice or research.
+&emsp;(7) The term "practitioner" means a physician, dentist, veterinarian, scientific investigator, pharmacy, hospital, or other person licensed, registered, or otherwise permitted, by the United States or the jurisdiction in which he or she practices or does research, to distribute, dispense, conduct research with respect to, administer, or use in teaching or chemical analysis, a controlled substance in the course of professional practice or research.
 
-&emsp;(8) The term “State” means each of the 50 States and the District of Columbia.
+&emsp;(8) The term "State" means each of the 50 States and the District of Columbia.
 
-&emsp;(9) The term “ultimate user” means a person who has obtained from a dispenser, and who possesses, a controlled substance for his or her own use, for the use of a member of his or her household, or for the use of an animal owned by him or her or by a member of his or her household.
+&emsp;(9) The term "ultimate user" means a person who has obtained from a dispenser, and who possesses, a controlled substance for his or her own use, for the use of a member of his or her household, or for the use of an animal owned by him or her or by a member of his or her household.
 
 #### (n) Authorization of appropriations
 
@@ -294,9 +294,9 @@ Another section 399O of act July 1, 1944, was renumbered section 399P and is cla
 
 #### Purpose
 
-Pub. L. 109–60, §2, Aug. 11, 2005, 119 Stat. 1979, provided that: “It is the purpose of this Act \[enacting this section and provisions set out as a note under section 201 of this title\] to—
+Pub. L. 109–60, §2, Aug. 11, 2005, 119 Stat. 1979, provided that: "It is the purpose of this Act \[enacting this section and provisions set out as a note under section 201 of this title\] to—
 
-&emsp;“(1) foster the establishment of State-administered controlled substance monitoring systems in order to ensure that health care providers have access to the accurate, timely prescription history information that they may use as a tool for the early identification of patients at risk for addiction in order to initiate appropriate medical interventions and avert the tragic personal, family, and community consequences of untreated addiction; and
+&emsp;"(1) foster the establishment of State-administered controlled substance monitoring systems in order to ensure that health care providers have access to the accurate, timely prescription history information that they may use as a tool for the early identification of patients at risk for addiction in order to initiate appropriate medical interventions and avert the tragic personal, family, and community consequences of untreated addiction; and
 
-&emsp;“(2) establish, based on the experiences of existing State controlled substance monitoring programs, a set of best practices to guide the establishment of new State programs and the improvement of existing programs.”
+&emsp;"(2) establish, based on the experiences of existing State controlled substance monitoring programs, a set of best practices to guide the establishment of new State programs and the improvement of existing programs."
 

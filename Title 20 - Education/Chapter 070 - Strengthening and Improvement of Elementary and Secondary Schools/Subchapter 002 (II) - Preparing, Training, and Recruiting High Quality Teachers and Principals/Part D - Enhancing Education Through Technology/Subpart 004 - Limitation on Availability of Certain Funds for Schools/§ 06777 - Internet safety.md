@@ -14,7 +14,7 @@ No funds made available under this part to a local educational agency for an ele
 
 &emsp;(B) is enforcing the operation of such technology protection measure during any use of such computers by minors; and
 
-&emsp;(2)(A) has in place a policy of Internet safety that includes the operation of a technology protection measure with respect to any of its computers with Internet access that protects against access through such computers to visual depictions that are—
+&emsp;(2)(A) has in place a policy of Internet safety that includes the operation of a technology protection measure with respect to any of itscomputers with Internet access that protects against access through such computers to visual depictions that are—
 
 &emsp;&emsp;(i) obscene; or
 
@@ -50,7 +50,7 @@ No funds made available under this part to a local educational agency for an ele
 
 #### (C) Waivers
 
-&emsp;&emsp;Any school subject to a certification under subparagraph (B)(i)(II) for which the localeducational agency concerned cannot make the certification otherwise required by that subparagraph may seek a waiver of that subparagraph if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that subparagraph. The local educational agency concerned shall notify the Secretary of the applicability of that subparagraph to the school. Such notice shall certify that the school will be brought into compliance with the requirements in subsection (a) of this section before the start of the third program year after December 21, 2000, in which the school is applying for funds under this part.
+&emsp;&emsp;Any school subject to a certification under subparagraph (B)(i)(II) for which the local educational agency concerned cannot make the certification otherwise required by that subparagraph may seek a waiver of that subparagraph if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that subparagraph. The local educational agency concerned shall notify the Secretary of the applicability of that subparagraph to the school. Such notice shall certify that the school will be brought into compliance with the requirements in subsection (a) of this section before the start of the third program year after December 21, 2000, in which the school is applying for funds under this part.
 
 #### (c) Disabling during certain use
 
@@ -84,7 +84,7 @@ In this subpart:
 
 #### (1) Computer
 
-&emsp;The term “computer” includes any hardware, software, or other technology attached or connected to, installed in, or otherwise used in connection with a computer.
+&emsp;The term "computer" includes any hardware, software, or other technology attachedor connected to, installed in, or otherwise used in connection with a computer.
 
 #### (2) Access to Internet
 
@@ -100,15 +100,15 @@ In this subpart:
 
 #### (4) Minor
 
-&emsp;The term “minor” means an individual who has not attained the age of 17.
+&emsp;The term "minor" means an individual who has not attained the age of 17.
 
 #### (5) Child pornography
 
-&emsp;The term “child pornography” has the meaning given that term in section 2256 of title 18.
+&emsp;The term "child pornography" has the meaning given that term in section 2256 of title 18.
 
 #### (6) Harmful to minors
 
-&emsp;The term “harmful to minors” means any picture, image, graphic image file, or other visual depiction that—
+&emsp;The term "harmful to minors" means any picture, image, graphic image file, or other visual depiction that—
 
 &emsp;&emsp;(A) taken as a whole and with respect to minors, appeals to a prurient interest in nudity, sex, or excretion;
 
@@ -118,11 +118,11 @@ In this subpart:
 
 #### (7) Obscene
 
-&emsp;The term “obscene” has the meaning applicable to that term under section 1460 of title 18.
+&emsp;The term "obscene" has the meaning applicable to that term under section 1460 of title 18.
 
 #### (8) Sexual act and sexual contact
 
-&emsp;The terms “sexual act” and “sexual contact” have the meanings given those terms in section 2246 of title 18.
+&emsp;The terms "sexual act" and "sexual contact" have the meanings given those terms in section 2246 of title 18.
 
 #### (f) Severability
 
@@ -130,5 +130,5 @@ If any provision of this section is held invalid, the remainder of this section 
 
 (Pub. L. 89–10, title II, §2441, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1686.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "the".</i>
 

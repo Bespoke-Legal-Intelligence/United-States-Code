@@ -30,7 +30,7 @@ After opportunity for hearing upon the objections specified in the written state
 
 #### Amendments
 
-<b>1975</b>—Subsecs. (b), (c). Pub. L. 94–29 added subsec. (b), redesignated former subsec. (b) as (c), and substituted “The foregoing provisions of this section” for “The provisions of subsection (a) of this section” in first sentence.
+<b>1975</b>—Subsecs. (b), (c). Pub. L. 94–29 added subsec. (b), redesignated former subsec. (b) as (c), and substituted "The foregoing provisions of this section" for "The provisions of subsection (a) of this section" in first sentence.
 
 #### Effective Date of 1975 Amendment
 

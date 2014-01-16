@@ -96,7 +96,7 @@ Sections 7 and 15 of the Age Discrimination in Employment Act of 1967, referred 
 
 Sections 501 and 505 of the Rehabilitation Act of 1973, referred to in subsecs. (a)(3), (b)(3)(A), and (d)(2)(B), are classified to sections 791 and 794a, respectively, of Title 29.
 
-Sections 102 to 104 and 107 of the Americans with Disabilities Act of 1990, referred to in subsecs. (a)(3) and (b)(3)(A), are classified to sections 12112 to 12114 and 12117, respectively, of Title 42, The Public Health and Welfare.
+Sections 102 to 104 and 107 of the Americans with Disabilities Act of 1990, referred to in subsecs. (a)(3) and (b)(3)(A), are classified to sections 12112 to 12114 and12117, respectively, of Title 42, The Public Health and Welfare.
 
 Sections 1977 and 1977A of the Revised Statutes, referred to in subsec. (b)(1)(B), (3)(B), are classified to sections 1981 and 1981a, respectively, of Title 42.
 

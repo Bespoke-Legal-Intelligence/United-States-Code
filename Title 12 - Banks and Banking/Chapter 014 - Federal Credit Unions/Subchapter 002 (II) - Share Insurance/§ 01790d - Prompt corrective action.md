@@ -64,7 +64,7 @@
 
 #### (A) Well capitalized
 
-&emsp;&emsp;An insured credit union is “well capitalized” if—
+&emsp;&emsp;An insured credit union is "well capitalized" if—
 
 &emsp;&emsp;&emsp;(i) it has a net worth ratio of not less than 7 percent; and
 
@@ -72,7 +72,7 @@
 
 #### (B) Adequately capitalized
 
-&emsp;&emsp;An insured credit union is “adequately capitalized” if—
+&emsp;&emsp;An insured credit union is "adequately capitalized" if—
 
 &emsp;&emsp;&emsp;(i) it has a net worth ratio of not less than 6 percent; and
 
@@ -80,7 +80,7 @@
 
 #### (C) Undercapitalized
 
-&emsp;&emsp;An insured credit union is “undercapitalized” if—
+&emsp;&emsp;An insured credit union is "undercapitalized" if—
 
 &emsp;&emsp;&emsp;(i) it has a net worth ratio of less than 6 percent; or
 
@@ -88,7 +88,7 @@
 
 #### (D) Significantly undercapitalized
 
-&emsp;&emsp;An insured credit union is “significantly undercapitalized”—
+&emsp;&emsp;An insured credit union is "significantly undercapitalized"—
 
 &emsp;&emsp;&emsp;(i) if it has a net worth ratio of less than 4 percent; or
 
@@ -104,7 +104,7 @@
 
 #### (E) Critically undercapitalized
 
-&emsp;&emsp;An insured credit union is “critically undercapitalized” if it has a net worth ratio of less than 2 percent (or such higher net worth ratio, not to exceed 3 percent, as the Board may specify by regulation).
+&emsp;&emsp;An insured credit union is "critically undercapitalized" if it has a net worth ratio of less than 2 percent (or such higher net worth ratio, not to exceed 3 percent, as the Board may specify by regulation).
 
 #### (2) Adjusting net worth levels
 
@@ -400,11 +400,11 @@ For purposes of this section the following definitions shall apply:
 
 #### (1) Federal banking agency
 
-&emsp;The term “Federal banking agency” has the same meaning as in section 1813 of this title.
+&emsp;The term "Federal banking agency" has the same meaning as in section 1813 of this title.
 
 #### (2) Net worth
 
-&emsp;The term “net worth”—
+&emsp;The term "net worth"—
 
 &emsp;&emsp;(A) with respect to any insured credit union, means the retained earnings balance of the credit union, as determined under generally accepted accounting principles, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined;
 
@@ -418,11 +418,11 @@ For purposes of this section the following definitions shall apply:
 
 #### (3) Net worth ratio
 
-&emsp;The term “net worth ratio” means, with respect to a credit union, the ratio of the net worth of the credit union to the total assets of the credit union.
+&emsp;The term "net worth ratio" means, with respect to a credit union, the ratio of the net worth of the credit union to the total assets of the credit union.
 
 #### (4) New credit union
 
-&emsp;The term “new credit union” means an insured credit union that—
+&emsp;The term "new credit union" means an insured credit union that—
 
 &emsp;&emsp;(A) has been in operation for less than 10 years; and
 
@@ -436,25 +436,25 @@ Section 8L of the Inspector General Act of 1978, referred to in subsec. (j)(5)(A
 
 #### Amendments
 
-<b>2011</b>—Subsec. (o)(2). Pub. L. 111–382 amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘net worth’—
+<b>2011</b>—Subsec. (o)(2). Pub. L. 111–382 amended par. (2) generally. Prior to amendment, text read as follows: "The term 'net worth'—
 
-&emsp;“(A) with respect to any insured credit union, means the retained earnings balance of the credit union, as determined under generally accepted accounting principles, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined; and
+&emsp;"(A) with respect to any insured credit union, means the retained earnings balance of the credit union, as determined under generally accepted accounting principles, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined; and
 
-&emsp;“(B) with respect to a low-income credit union, includes secondary capital accounts that are—
+&emsp;"(B) with respect to a low-income credit union, includes secondary capital accounts that are—
 
-&emsp;&emsp;“(i) uninsured; and
+&emsp;&emsp;"(i) uninsured; and
 
-&emsp;&emsp;“(ii) subordinate to all other claims against the credit union, including the claims of creditors, shareholders, and the Fund.”
+&emsp;&emsp;"(ii) subordinate to all other claims against the credit union, including the claims of creditors, shareholders, and the Fund."
 
-<b>2010</b>—Subsec. (j). Pub. L. 111–203 amended subsec. (j) generally. Prior to amendment, text read as follows: “For purposes of determining whether the Fund has incurred a material loss with respect to an insured credit union (such that the inspector general of the Board must make a report), a loss is material if it exceeds the sum of—
+<b>2010</b>—Subsec. (j). Pub. L. 111–203 amended subsec. (j) generally. Prior to amendment, text read as follows: "For purposes of determining whether the Fund has incurred a material loss with respect to an insured credit union (such that the inspector general of the Board must make a report), a loss is material if it exceeds the sum of—
 
-&emsp;“(1) $10,000,000; and
+&emsp;"(1) $10,000,000; and
 
-&emsp;“(2) an amount equal to 10 percent of the total assets of the credit union at the time at which the Board initiated assistance under section 1788 of this title or was appointed liquidating agent.”
+&emsp;"(2) an amount equal to 10 percent of the total assets of the credit union at the time at which the Board initiated assistance under section 1788 of this title or was appointed liquidating agent."
 
-<b>2006</b>—Subsec. (n). Pub. L. 109–351, §726(25), inserted “any action” before “that is required”.
+<b>2006</b>—Subsec. (n). Pub. L. 109–351, §726(25), inserted "any action" before "that is required".
 
-Subsec. (o)(2)(A). Pub. L. 109–351, §504, inserted “the” before “retained earnings balance” and “, together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined” before semicolon.
+Subsec. (o)(2)(A). Pub. L. 109–351, §504, inserted "the" before "retained earnings balance" and ", together with any amounts that were previously retained earnings of any other credit union with which the credit union has combined" before semicolon.
 
 #### Effective Date of 2010 Amendment
 
@@ -464,61 +464,61 @@ Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as ot
 
 Pub. L. 105–219, title III, §301(e), Aug. 7, 1998, 112 Stat. 931, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), section 216 of the Federal Credit Union Act \[12 U.S.C. 1790d\] (as added by this section) shall become effective 2 years after the date of enactment of this Act \[Aug. 7, 1998\].
 
-“(2)
+"(2)
 
-Risk-based net worth requirement.—Section 216(d) of the Federal Credit Union Act (as added by this section) shall become effective on January 1, 2001.”
+Risk-based net worth requirement.—Section 216(d) of the Federal Credit Union Act (as added by this section) shall become effective on January 1, 2001."
 
 #### Regulations
 
 Pub. L. 105–219, title III, §301(d), Aug. 7, 1998, 112 Stat. 930, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the Board shall—
 
-&emsp;“(A) publish in the Federal Register proposed regulations to implement section 216 of the Federal Credit Union Act \[12 U.S.C. 1790d\] (as added by subsection (a) of this section) not later than 270 days after the date of enactment of this Act \[Aug. 7, 1998\]; and
+&emsp;"(A) publish in the Federal Register proposed regulations to implement section 216 of the Federal Credit Union Act \[12 U.S.C. 1790d\] (as added by subsection (a) of this section) not later than 270 days after the date of enactment of this Act \[Aug. 7, 1998\]; and
 
-&emsp;“(B) promulgate final regulations to implement section 216 not later than 18 months after the date of enactment of this Act.
+&emsp;"(B) promulgate final regulations to implement section 216 not later than 18 months after the date of enactment of this Act.
 
-“(2)
+"(2)
 
 Risk-based net worth requirement.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Advance notice of proposed rulemaking.—Not later than 180 days after the date of enactment of this Act, the Board shall publish in the Federal Register an advance notice of proposed rulemaking, as required by section 216(d) of the Federal Credit Union Act, as added by this Act.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Final regulations.—The Board shall promulgate final regulations, as required by section 216(d) not later than 2 years after the date of enactment of this Act.”
+Final regulations.—The Board shall promulgate final regulations, as required by section 216(d) not later than 2 years after the date of enactment of this Act."
 
 #### Consultation Required
 
-Pub. L. 105–219, title III, §301(c), Aug. 7, 1998, 112 Stat. 930, provided that: “In developing regulations to implement section 216 of the Federal Credit Union Act \[12 U.S.C. 1790d\] (as added by subsection (a) of this section), the Board shall consult with the Secretary, the Federal banking agencies, and the State officials having jurisdiction over State-chartered insured credit unions.”
+Pub. L. 105–219, title III, §301(c), Aug. 7, 1998, 112 Stat. 930, provided that: "In developing regulations to implement section 216 of the Federal Credit Union Act \[12 U.S.C. 1790d\] (as added by subsection (a) of this section), the Board shall consult with the Secretary, the Federal banking agencies, and the State officials having jurisdiction over State-chartered insured credit unions."
 
 #### Report to Congress
 
-Pub. L. 105–219, title III, §301(f), Aug. 7, 1998, 112 Stat. 931, provided that: “When the Board publishes proposed regulations pursuant to subsection (d)(1)(A) \[set out above\], or promulgates final regulations pursuant to subsection (d)(1)(B) \[set out above\], the Board shall submit to the Congress a report that specifically explains—
+Pub. L. 105–219, title III, §301(f), Aug. 7, 1998, 112 Stat. 931, provided that: "When the Board publishes proposed regulations pursuant to subsection (d)(1)(A) \[set out above\], or promulgates final regulations pursuant to subsection (d)(1)(B) \[set out above\], the Board shall submit to the Congress a report that specifically explains—
 
-&emsp;“(1) how the regulations carry out section 216(b)(1)(B) of the Federal Credit Union Act \[12 U.S.C. 1790d(b)(1)(B)\] (as added by this section), relating to the cooperative character of credit unions; and
+&emsp;"(1) how the regulations carry out section 216(b)(1)(B) of the Federal Credit Union Act \[12 U.S.C. 1790d(b)(1)(B)\] (as added by this section), relating to the cooperative character of credit unions; and
 
-&emsp;“(2) how the regulations differ from section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831o\], and the reasons for those differences.”
+&emsp;"(2) how the regulations differ from section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831o\], and the reasons for those differences."
 
 #### Definitions
 
-Pub. L. 105–219, §3, Aug. 7, 1998, 112 Stat. 914, provided that: “As used in this Act \[see Short Title of 1998 Amendment note set out under section 1751 of this title\]—
+Pub. L. 105–219, §3, Aug. 7, 1998, 112 Stat. 914, provided that: "As used in this Act \[see Short Title of 1998 Amendment note set out under section 1751 of this title\]—
 
-&emsp;“(1) the term ‘Administration’ means the National Credit Union Administration;
+&emsp;"(1) the term 'Administration' means the National Credit Union Administration;
 
-&emsp;“(2) the term ‘Board’ means the National Credit Union Administration Board;
+&emsp;"(2) the term 'Board' means the National Credit Union Administration Board;
 
-&emsp;“(3) the term ‘Federal banking agencies’ has the same meaning as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\];
+&emsp;"(3) the term 'Federal banking agencies' has the same meaning as in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\];
 
-&emsp;“(4) the terms ‘insured credit union’ and ‘State-chartered insured credit union’ have the same meanings as in section 101 of the Federal Credit Union Act \[12 U.S.C. 1752\]; and
+&emsp;"(4) the terms 'insured credit union' and 'State-chartered insured credit union' have the same meanings as in section 101 of the Federal Credit Union Act \[12 U.S.C. 1752\]; and
 
-&emsp;“(5) the term ‘Secretary’ means the Secretary of the Treasury.”
+&emsp;"(5) the term 'Secretary' means the Secretary of the Treasury."
 

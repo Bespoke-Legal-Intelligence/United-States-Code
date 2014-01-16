@@ -2,7 +2,7 @@
 
 (a)
 
-Affirmative Defense.—It is an affirmative defense in a trial by military commission under this chapter that, at the time of the commission of the acts constituting the offense, the accused, as a result of a severe mental disease or defect, was unable to appreciate the nature and quality or the wrongfulness of the acts. Mental disease or defect does not otherwise constitute a defense.
+Affirmative Defense.—It is an affirmative defense in a trial by military commissionunder this chapter that, at the time of the commission of the acts constituting the offense, the accused, as a result of a severe mental disease or defect, was unable to appreciate the nature and quality or the wrongfulness of the acts. Mental disease or defect does not otherwise constitute a defense.
 
 (b)
 
@@ -20,7 +20,7 @@ Findings Following Assertion of Defense.—Whenever lack of mental responsibilit
 
 (d)
 
-Majority Vote Required for Finding.—The accused shall be found not guilty by reasonof lack of mental responsibility under subsection (c)(3) only if a majority of the members present at the time the vote is taken determines that the defense of lack of mental responsibility has been established.
+Majority Vote Required for Finding.—The accused shall be found not guilty by reason of lack of mental responsibility under subsection (c)(3) only if a majority of the members present at the time the vote is taken determines that the defense of lack of mental responsibility has been established.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2588.)
 

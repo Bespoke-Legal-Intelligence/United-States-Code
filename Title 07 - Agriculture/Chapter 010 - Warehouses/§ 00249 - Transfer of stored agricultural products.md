@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In accordance with regulations promulgated under this chapter, a warehouse operator may transfer a stored agricultural product from one warehouse to another warehouse for continued storage.
+In accordance with regulations promulgated under this chapter, a warehouse operator may transfer a stored agricultural product from onewarehouse to another warehouse for continued storage.
 
 #### (b) Continued duty
 

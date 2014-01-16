@@ -4,5 +4,5 @@ The Secretary shall use not more than $25,000,000 of the amounts made available 
 
 (Pub. L. 100–242, title II, §257, as added Pub. L. 102–550, title III, §312, Oct. 28, 1992, 106 Stat. 3769.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

@@ -60,7 +60,7 @@ Through the Department of Homeland Security State, Local, and Regional Fusion Ce
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall develop qualifying criteria for a fusion center to participate in theassigning of Department officers or intelligence analysts under this section.
+&emsp;&emsp;The Secretary shall develop qualifying criteria for a fusion center to participate in the assigning of Department officers or intelligence analysts under this section.
 
 #### (B) Criteria
 
@@ -162,7 +162,7 @@ In order to fulfill the objectives described under subsection (d), each officer 
 
 #### (1) In general
 
-&emsp;The authorities granted under this section shall supplement the authorities granted under section 121(d) of this title and nothing in this section shall be construed to abrogate the authorities granted under section 121(d) of this title.
+&emsp;The authorities granted under this section shall supplement the authorities grantedunder section 121(d) of this title and nothing in this section shall be construed to abrogate the authorities granted under section 121(d) of this title.
 
 #### (2) Participation
 

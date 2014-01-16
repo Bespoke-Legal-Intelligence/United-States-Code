@@ -4,13 +4,13 @@
 
 In this section—
 
-&emsp;(1) the term “associated person of a securities holding company” means a person directly or indirectly controlling, controlled by, or under common control with, a securities holding company;
+&emsp;(1) the term "associated person of a securities holding company" means a person directly or indirectly controlling, controlled by, or under common control with, a securities holding company;
 
-&emsp;(2) the term “foreign bank” has the same meaning as in section 3101(7) of this title;
+&emsp;(2) the term "foreign bank" has the same meaning as in section 3101(7) of this title;
 
-&emsp;(3) the term “insured bank” has the same meaning as in section 1813 of this title;
+&emsp;(3) the term "insured bank" has the same meaning as in section 1813 of this title;
 
-&emsp;(4) the term “securities holding company”—
+&emsp;(4) the term "securities holding company"—
 
 &emsp;&emsp;(A) means—
 
@@ -32,9 +32,9 @@ In this section—
 
 &emsp;&emsp;&emsp;(vi) subject to comprehensive consolidated supervision by a foreign regulator;
 
-&emsp;(5) the term “supervised securities holding company” means a securities holding company that is supervised by the Board of Governors under this section; and
+&emsp;(5) the term "supervised securities holding company" means a securities holding company that is supervised by the Board of Governors under this section; and
 
-&emsp;(6) the terms “affiliate”, “bank”, “bank holding company”, “company”, “control”, “savings association”, and “subsidiary” have the same meanings as in section 2 of the Bank Holding Company Act of 1956 \[12 U.S.C. 1841\].
+&emsp;(6) the terms "affiliate", "bank", "bank holding company", "company", "control", "savings association", and "subsidiary" have the same meanings as in section 2 of the Bank Holding Company Act of 1956 \[12 U.S.C. 1841\].
 
 #### (b) Supervision of a securities holding company not having a bank or savings association affiliate
 
@@ -168,7 +168,7 @@ For definitions of terms used in this section, see section 5301 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "subparagraph".</i>
 
 <i><sup>3</sup></i><i> So in original. Another closing parenthesis probably should appear.</i>
 

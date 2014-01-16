@@ -34,7 +34,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §210(e); added Oct. 6, 1992, Pub
 
 Subsection (a) is added to ensure that the definitions in 15:1950(f), restated in section 32304 of the revised title, apply to the source provision restated in this section.
 
-In subsection (b), the words “Each failure to attach or maintain that label” are substituted for “Such failure” for clarity.
+In subsection (b), the words "Each failure to attach or maintain that label" are substituted for "Such failure" for clarity.
 
 #### Pub. L. 103–429
 
@@ -42,7 +42,7 @@ This amends the catchline for 49:32309 to correct an error in the codification e
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–429 substituted “Civil” for “Criminal” in section catchline.
+<b>1994</b>—Pub. L. 103–429 substituted "Civil" for "Criminal" in section catchline.
 
 #### Effective Date of 1994 Amendment
 

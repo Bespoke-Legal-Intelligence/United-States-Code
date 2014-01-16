@@ -56,5 +56,5 @@ Oct. 16, 1970, Pub. L. 91–458, §209(c) (2d, 8th, last sentences), 84 Stat. 97
 
 Feb. 4, 1887, ch. 104, 24 Stat. 379, §25(h) (1st sentence words after last comma, 4th sentence words after last comma, 5th sentence); added Feb. 28, 1920, ch. 91, §441, 41 Stat. 498; restated Aug. 26, 1937, ch. 818, 50 Stat. 837; Sept. 18, 1940, ch. 722, §14(b), 54 Stat. 919; June 22, 1988, Pub. L. 100–342, §17(7), 102 Stat. 636.
 
-The word “official” is added the 2d time it appears for consistency in this section.
+The word "official" is added the 2d time it appears for consistency in this section.
 

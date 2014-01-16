@@ -68,7 +68,7 @@ June 29, 1936, ch. 858, title XI, §1103(e) (last sentence), as added Pub. L. 98
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(C), (F). See 2006 Amendment note below.
 
-Pub. L. 110–181, §3522(a)(10)(B), (11), incorporated the substance of the amendment by Pub. L. 109–163,§3507(a)(1)(C), (F), into this section by inserting “or Administrator” after “Secretary” wherever appearing and “or Administrator's” after “Secretary's” in subsec. (c). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Pub. L. 110–181, §3522(a)(10)(B), (11), incorporated the substance of the amendment by Pub. L. 109–163,§3507(a)(1)(C), (F), into this section by inserting "or Administrator" after "Secretary" wherever appearing and "or Administrator's" after "Secretary's" in subsec. (c). See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 <b>2006</b>—Pub. L. 109–163, §3507(a)(1)(C), (F), which directed the amendment of sections 1273(e) and 1275(a) of the former Appendix to this title from which this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment notes and Historical and Revision notes above.
 

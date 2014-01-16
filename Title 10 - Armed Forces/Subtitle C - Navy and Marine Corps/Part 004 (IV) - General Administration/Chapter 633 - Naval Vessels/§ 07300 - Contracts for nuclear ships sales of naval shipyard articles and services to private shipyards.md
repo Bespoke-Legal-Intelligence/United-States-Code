@@ -10,5 +10,5 @@ A prior section 7300, act Aug. 10, 1956, ch. 1041, 70A, Stat. 450, related to pr
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–398 substituted “section 2563” for “section 2553”.
+<b>2000</b>—Pub. L. 106–398 substituted "section 2563" for "section 2553".
 

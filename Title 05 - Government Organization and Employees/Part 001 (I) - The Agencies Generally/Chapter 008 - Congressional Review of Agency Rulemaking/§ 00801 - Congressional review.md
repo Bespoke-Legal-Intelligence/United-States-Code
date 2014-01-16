@@ -94,7 +94,7 @@
 
 &emsp;(B) a report on such rule were submitted to Congress under subsection (a)(1) on such date.
 
-(3) The effectiveness of a rule described under paragraph (1) shall be as otherwise provided by law, unless the rule is made of no force or effect under section 802.
+(3) The effectiveness of a rule described under paragraph (1) shall be as otherwise provided bylaw, unless the rule is made of no force or effect under section 802.
 
 (f) Any rule that takes effect and later is made of no force or effect by enactment of a joint resolution under section 802 shall be treated as though such rule had never taken effect.
 

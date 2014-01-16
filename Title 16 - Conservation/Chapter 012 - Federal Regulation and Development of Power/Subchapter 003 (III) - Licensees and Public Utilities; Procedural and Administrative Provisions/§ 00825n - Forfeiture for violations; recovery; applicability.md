@@ -16,13 +16,13 @@ This section shall not apply in the case of any provision of section 824j, 824k,
 
 #### Amendments
 
-<b>2005</b>—Subsec. (c). Pub. L. 109–58 substituted “This section” for “This subsection”.
+<b>2005</b>—Subsec. (c). Pub. L. 109–58 substituted "This section" for "This subsection".
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–486 added subsec. (c).
 
 #### Change of Name
 
-Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorney” for “district attorney”. See section 541 of Title 28, Judiciary and Judicial Procedure.
+Act June 25, 1948, eff. Sept. 1, 1948, substituted "United States attorney" for "district attorney". See section 541 of Title 28, Judiciary and Judicial Procedure.
 
 #### State Authorities; Construction
 

@@ -6,5 +6,5 @@ The rights afforded manufactured home purchasers under this chapter may not be w
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–399 substituted “manufactured home” for “mobile home”.
+<b>1980</b>—Pub. L. 96–399 substituted "manufactured home" for "mobile home".
 

@@ -28,7 +28,7 @@ To receive a grant under this subchapter, a public housing agency, a public hous
 
 #### (c) Criteria
 
-The Secretary shall approve applications under subsection (b) of this section that are not subject to a preference under subsection\(b)(2)(A) of this section on the basis of thresholds or criteria such as—
+The Secretary shall approve applications under subsection (b) of this section that are not subject to a preference under subsection (b)(2)(A) of this section on the basis of thresholds or criteria such as—
 
 &emsp;(1) the extent of the drug-related or violent crime problem in and around the public or federally assisted low-income housing project or projects proposed for assistance;
 
@@ -40,7 +40,7 @@ The Secretary shall approve applications under subsection (b) of this section th
 
 #### (d) Federally assisted low-income housing
 
-In addition to the selection criteria specified in subsection (c) of this section, the Secretary may establish other criteria for the evaluation of applications submitted by owners of federally assisted low-income housing, except that such additional criteria shall be designed only to reflect—
+In addition to the selection criteria specified in subsection (c) of this section, the Secretary may establish other criteria for the evaluationof applications submitted by owners of federally assisted low-income housing, except that such additional criteria shall be designed only to reflect—
 
 &emsp;(1) relevant differences between the financial resources and other characteristics of public housing authorities and owners of federally assisted low-income housing, or
 
@@ -62,31 +62,31 @@ Section 1504 of title 21, referred to in subsec. (e), was repealed by Pub. L. 10
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–276, §586(e)(1), substituted “recipient of assistance under the Native American Housing Assistance and Self-Determination Act of 1996” for “tribally designated housing entity” in first sentence and “or violent crime in and around” for “crime on the premises” in second sentence, and inserted before period at end “, which plan shall be coordinated with and may be included in the public housing agency plan submitted to the Secretary pursuant to section 1437c–1 of this title”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–276, §586(e)(1), substituted "recipient of assistance under the Native American Housing Assistance and Self-Determination Act of 1996" for "tribally designated housing entity" in first sentence and "or violent crime in and around" for "crime on the premises" in second sentence, and inserted before period at end ", which plan shall be coordinated with and may be included in the public housing agency plan submitted to the Secretary pursuant to section 1437c–1 of this title".
 
-Pub. L. 105–276, §220(3), inserted “an Indian tribe” after “resident management corporation,”.
+Pub. L. 105–276, §220(3), inserted "an Indian tribe" after "resident management corporation,".
 
 Subsec. (b). Pub. L. 105–276, §586(e)(5), (6), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-Pub. L. 105–276, §586(e)(2)(A), inserted introductory provisions and struck out former introductory provisions which read as follows: “Except as provided by subsections (c) and (d) of this section the Secretary shall approve applications under this subchapter based exclusively on—”.
+Pub. L. 105–276, §586(e)(2)(A), inserted introductory provisions and struck out former introductory provisions which read as follows: "Except as provided by subsections (c) and (d) of this section the Secretary shall approve applications under this subchapter based exclusively on—".
 
-Subsec. (b)(1). Pub. L. 105–276, §586(e)(2)(B), substituted “or violent crime problem in and around” for “crime problem in”.
+Subsec. (b)(1). Pub. L. 105–276, §586(e)(2)(B), substituted "or violent crime problem in and around" for "crime problem in".
 
 Subsec. (c). Pub. L. 105–276, §586(e)(5), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Pub. L. 105–276, §586(e)(3)(A), substituted “subsection (c)” for “subsection (b)” in introductory provisions.
+Pub. L. 105–276, §586(e)(3)(A), substituted "subsection (c)" for "subsection (b)" in introductory provisions.
 
-Subsec. (c)(2). Pub. L. 105–276, §586(e)(3)(B), inserted “or violent” after “drug-related” in two places.
+Subsec. (c)(2). Pub. L. 105–276, §586(e)(3)(B), inserted "or violent" after "drug-related" in two places.
 
 Subsec. (d). Pub. L. 105–276, §586(e)(5), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Pub. L. 105–276, §586(e)(4), substituted “subsection (c)” for “subsection (b)”.
+Pub. L. 105–276, §586(e)(4), substituted "subsection (c)" for "subsection (b)".
 
 Subsec. (e). Pub. L. 105–276, §586(e)(5), redesignated subsec. (d) as (e).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–330 inserted “a tribally designated housing entity,” after “resident management corporation,”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–330 inserted "a tribally designated housing entity," after "resident management corporation,".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–550 inserted “, a public housing resident management corporation,” after “public housing agency” in first sentence.
+<b>1992</b>—Subsec. (a). Pub. L. 102–550 inserted ", a public housing resident management corporation," after "public housing agency" in first sentence.
 
 <b>1990</b>—Pub. L. 101–625 amended section generally, substituting present provisions for provisions relating generally to applications for grants under this subchapter and to criteria for approval of such applications.
 

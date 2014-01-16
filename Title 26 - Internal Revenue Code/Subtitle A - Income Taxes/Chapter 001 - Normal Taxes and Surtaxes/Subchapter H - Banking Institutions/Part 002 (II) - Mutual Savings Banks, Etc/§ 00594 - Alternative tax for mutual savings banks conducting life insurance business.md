@@ -16,9 +16,9 @@ Subsection (a) shall apply only if the life insurance department would, if it we
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted “section 816” for “section 801”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–369 substituted "section 816" for "section 801".
 
-<b>1956</b>—Subsec. (a)(2). Act Mar. 13, 1956, substituted “the income” for “the taxable income (as defined in section 803)”.
+<b>1956</b>—Subsec. (a)(2). Act Mar. 13, 1956, substituted "the income" for "the taxable income (as defined in section 803)".
 
 #### Effective Date of 1984 Amendment
 

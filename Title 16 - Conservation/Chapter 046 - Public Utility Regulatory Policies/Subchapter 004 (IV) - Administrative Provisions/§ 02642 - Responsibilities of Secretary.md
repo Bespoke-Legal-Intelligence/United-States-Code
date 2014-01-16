@@ -36,7 +36,7 @@ The Secretary shall be responsible for—
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(4), was in the original “this title”, meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (a)(4), was in the original "this title", meaning title I (§101 et seq.) of Pub. L. 95–617, Nov. 9, 1978, 92 Stat. 3120, which enacted subchapters I to IV of this chapter and section 6808 of Title 42, The Public Health and Welfare, and amended sections 6802 to 6807 of Title 42. For complete classification of title I to the Code, see Tables.
 
 #### Amendments
 
@@ -48,43 +48,43 @@ Subsec. (d). Pub. L. 109–58, §1252(d), added subsec. (d).
 
 Pub. L. 109–58, title XII, §1252(e), (f), Aug. 8, 2005, 119 Stat. 965, 966, provided that:
 
-“(e)
+"(e)
 
 Demand Response and Regional Coordination.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—It is the policy of the United States to encourage States to coordinate, on a regional basis, State energy policies to provide reliable and affordable demand response services to the public.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Technical assistance.—The Secretary \[of Energy\] shall provide technical assistance to States and regional organizations formed by two or more States to assist them in—
 
-&emsp;&emsp;“(A) identifying the areas with the greatest demand response potential;
+&emsp;&emsp;"(A) identifying the areas with the greatest demand response potential;
 
-&emsp;&emsp;“(B) identifying and resolving problems in transmission and distribution networks, including through the use of demand response;
+&emsp;&emsp;"(B) identifying and resolving problems in transmission and distribution networks, including through the use of demand response;
 
-&emsp;&emsp;“(C) developing plans and programs to use demand response to respond to peak demand or emergency needs; and
+&emsp;&emsp;"(C) developing plans and programs to use demand response to respond to peak demand or emergency needs; and
 
-&emsp;&emsp;“(D) identifying specific measures consumers can take to participate in these demand response programs.
+&emsp;&emsp;"(D) identifying specific measures consumers can take to participate in these demand response programs.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Report.—Not later than 1 year after the date of enactment of the Energy Policy Act of 2005 \[Aug. 8, 2005\], the \[Federal Energy Regulatory\] Commission shall prepare and publish an annual report, by appropriate region, that assesses demand response resources, including those available from all consumer classes, and which identifies and reviews—
 
-&emsp;&emsp;“(A) saturation and penetration rate of advanced meters and communications technologies, devices and systems;
+&emsp;&emsp;"(A) saturation and penetration rate of advanced meters and communications technologies, devices and systems;
 
-&emsp;&emsp;“(B) existing demand response programs and time-based rate programs;
+&emsp;&emsp;"(B) existing demand response programs and time-based rate programs;
 
-&emsp;&emsp;“(C) the annual resource contribution of demand resources;
+&emsp;&emsp;"(C) the annual resource contribution of demand resources;
 
-&emsp;&emsp;“(D) the potential for demand response as a quantifiable, reliable resource for regional planning purposes;
+&emsp;&emsp;"(D) the potential for demand response as a quantifiable, reliable resource for regional planning purposes;
 
-&emsp;&emsp;“(E) steps taken to ensure that, in regional transmission planning and operations, demand resources are provided equitable treatment as a quantifiable, reliable resource relative to the resource obligations of any load-serving entity, transmission provider, or transmitting party; and
+&emsp;&emsp;"(E) steps taken to ensure that, in regional transmission planning and operations, demand resources are provided equitable treatment as a quantifiable, reliable resource relative to the resource obligations of any load-serving entity, transmission provider, or transmitting party; and
 
-&emsp;&emsp;“(F) regulatory barriers to improve customer participation in demand response, peak reduction and critical period pricing programs.
+&emsp;&emsp;"(F) regulatory barriers to improve customer participation in demand response, peak reduction and critical period pricing programs.
 
-“(f)
+"(f)
 
-Federal Encouragement of Demand Response Devices.—It is the policy of the United States that time-based pricing and other forms of demand response, whereby electricity customers are provided with electricity price signals and the ability to benefit by responding to them, shall be encouraged, the deployment of such technology and devices that enable electricity customers to participate in such pricing and demand response systems shall be facilitated, and unnecessary barriers to demand response participation in energy, capacity and ancillary service markets shall be eliminated. It is further the policy of the United States that the benefits of such demand response that accrue to those not deploying such technology and devices, but who are part of the same regional electricity entity, shall be recognized.”
+Federal Encouragement of Demand Response Devices.—It is the policy of the United States that time-based pricing and other forms of demand response, whereby electricity customers are provided with electricity price signals and the ability to benefit by responding to them, shall be encouraged, the deployment of such technology and devices that enable electricity customers to participate in such pricing and demand response systems shall be facilitated, and unnecessary barriers to demand response participation in energy, capacity and ancillary service markets shall be eliminated. It is further the policy of the United States that the benefits of such demand response that accrue to those not deploying such technology and devices, but who are part of the same regional electricity entity, shall be recognized."
 

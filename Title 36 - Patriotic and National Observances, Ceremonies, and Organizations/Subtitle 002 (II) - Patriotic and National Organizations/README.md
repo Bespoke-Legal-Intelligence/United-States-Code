@@ -100,7 +100,7 @@
 | [<b>2001.</b>](Part%20B%20-%20Organizations/Chapter%202001%20-%20Society%20of%20American%20Florists%20and%20Ornamental%20Horticulturists/README.md) | <b>Society of American Florists and Ornamental Horticulturists</b> | <b>200101</b> |
 | [<b>2003.</b>](Part%20B%20-%20Organizations/Chapter%202003%20-%20Sons%20of%20Union%20Veterans%20of%20the%20Civil%20War/README.md) | <b>Sons of Union Veterans of the Civil War</b> | <b>200301</b> |
 | [<b>2101.</b>](Part%20B%20-%20Organizations/Chapter%202101%20-%20Theodore%20Roosevelt%20Association/README.md) | <b>Theodore Roosevelt Association</b> | <b>210101</b> |
-| [<b>2103.</b>](Part%20B%20-%20Organizations/Chapter%202103%20-%20369th%20Veterans%E2%80%99%20Association/README.md) | <b>369th Veterans’ Association</b> | <b>210301</b> |
+| [<b>2103.</b>](Part%20B%20-%20Organizations/Chapter%202103%20-%20369th%20Veterans%27%20Association/README.md) | <b>369th Veterans' Association</b> | <b>210301</b> |
 | [<b>2201.</b>](Part%20B%20-%20Organizations/Chapter%202201%20-%20United%20Service%20Organizations%2C%20Incorporated/README.md) | <b>United Service Organizations, Incorporated</b> | <b>220101</b> |
 | [<b>2203.</b>](Part%20B%20-%20Organizations/Chapter%202203%20-%20United%20States%20Capitol%20Historical%20Society/README.md) | <b>United States Capitol Historical Society</b> | <b>220301</b> |
 | [<b>2205.</b>](Part%20B%20-%20Organizations/Chapter%202205%20-%20United%20States%20Olympic%20Committee/README.md) | <b>United States Olympic Committee</b> | <b>220501</b> |
@@ -108,7 +108,7 @@
 | [<b>2301.</b>](Part%20B%20-%20Organizations/Chapter%202301%20-%20Veterans%20of%20Foreign%20Wars%20of%20the%20United%20States/README.md) | <b>Veterans of Foreign Wars of the United States</b> | <b>230101</b> |
 | [<b>2303.</b>](Part%20B%20-%20Organizations/Chapter%202303%20-%20Veterans%20of%20World%20War%20I%20of%20the%20United%20States%20of%20America%2C%20Incorporated/README.md) | <b>Veterans of World War I of the United States of America, Incorporated</b> | <b>230301</b> |
 | [<b>2305.</b>](Part%20B%20-%20Organizations/Chapter%202305%20-%20Vietnam%20Veterans%20of%20America%2C%20Inc/README.md) | <b>Vietnam Veterans of America, Inc.</b> | <b>230501</b> |
-| [<b>2401.</b>](Part%20B%20-%20Organizations/Chapter%202401%20-%20Women%27s%20Army%20Corps%20Veterans%E2%80%99%20Association/README.md) | <b>Women's Army Corps Veterans’ Association</b> | <b>240101</b> |
+| [<b>2401.</b>](Part%20B%20-%20Organizations/Chapter%202401%20-%20Women%27s%20Army%20Corps%20Veterans%27%20Association/README.md) | <b>Women's Army Corps Veterans' Association</b> | <b>240101</b> |
 | [<b>2501.</b>](Part%20B%20-%20Organizations/Chapter%202501%20-%20%5BReserved/README.md) | <b>\[Reserved\]</b> | <b>250101</b> |
 | [<b>2601.</b>](Part%20B%20-%20Organizations/Chapter%202601%20-%20%5BReserved/README.md) | <b>\[Reserved\]</b> | <b>260101</b> |
 | [<b>2701.</b>](Part%20B%20-%20Organizations/Chapter%202701%20-%20%5BReserved/README.md) | <b>\[Reserved\]</b> | <b>270101</b> |
@@ -119,11 +119,11 @@
 
 <b>2009</b>—Pub. L. 111–95, §1(b), Nov. 6, 2009, 123 Stat. 3003, added item for chapter 1404.
 
-<b>2008</b>—Pub. L. 110–254, §1(b), June 30, 2008, 122 Stat. 2421, amended item for chapter 1201 generally, substituting “Korean War Veterans Association, Incorporated” for “\[Reserved\]”.
+<b>2008</b>—Pub. L. 110–254, §1(b), June 30, 2008, 122 Stat. 2421, amended item for chapter 1201 generally, substituting "Korean War Veterans Association, Incorporated" for "\[Reserved\]".
 
 <b>2002</b>—Pub. L. 107–252, title VI, §601(b), Oct. 29, 2002, 116 Stat. 1721, added item for chapter 1526.
 
-Pub. L. 107–241, §1(a)(2)(B), Oct. 16, 2002, 116 Stat. 1496, substituted “AMVETS (American Veterans)” for “AMVETS (American Veterans of World War II, Korea, and Vietnam)” in item for chapter 227.
+Pub. L. 107–241, §1(a)(2)(B), Oct. 16, 2002, 116 Stat. 1496, substituted "AMVETS (American Veterans)" for "AMVETS (American Veterans of World War II, Korea, and Vietnam)" in item for chapter 227.
 
 <b>2000</b>—Pub. L. 106–474, title II, §201(b), Nov. 9, 2000, 114 Stat. 2095, added item for chapter 1524.
 

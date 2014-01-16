@@ -10,5 +10,5 @@ Each member of a selection board shall swear—
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–213 amended section generally. Prior to amendment, text read as follows: “Each member of a selection board shall swear that he will, without prejudice or partiality, and having in view both the special fitness of officers and the efficiency of the Coast Guard, perform the duties imposed upon him.”
+<b>2012</b>—Pub. L. 112–213 amended section generally. Prior to amendment, text read as follows: "Each member of a selection board shall swear that he will, without prejudice or partiality, and having in view both the special fitness of officers and the efficiency of the Coast Guard, perform the duties imposed upon him."
 

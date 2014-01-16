@@ -14,9 +14,9 @@ Act of October 15, 1914, as amended, known as the Clayton Act, referred to in su
 
 Act of September 26, 1914, known as the Federal Trade Commission Act, referred to in subsec. (a), is generally classified to subchapter I (§41 et seq.) of chapter 2 of this title. For complete classification of this Act to the Code, see section 58 of this title and Tables.
 
-Act of June 19, 1936, known as the Robinson-Patman Anti-Discrimination Act, referred to in subsec. (a), is act June 19, 1936, ch. 592, 49 Stat. 1526, known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of this title and amended section 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 13 of this title and Tables.
+Act of June 19, 1936, known as the Robinson-Patman Anti-Discrimination Act, referred to in subsec. (a), isact June 19, 1936, ch. 592, 49 Stat. 1526, known as the Robinson-Patman Antidiscrimination Act and also as the Robinson-Patman Price Discrimination Act, which enacted sections 13a, 13b, and 21a of this title and amended section 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 13 of this title and Tables.
 
 #### Amendments
 
-<b>1947</b>—Act July 25, 1947, substituted “June 30, 1948” for “January 1, 1948”.
+<b>1947</b>—Act July 25, 1947, substituted "June 30, 1948" for "January 1, 1948".
 

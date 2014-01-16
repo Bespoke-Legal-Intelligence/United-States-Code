@@ -8,11 +8,11 @@
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted “14-day period” for “21-day period” and “seven-day period” for “14-day period”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163 substituted "14-day period" for "21-day period" and "seven-day period" for "14-day period".
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–136 inserted before period at end "or, if earlier, the end of the 14-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title".
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–190 struck out before period at end “, or after each such committee has approved the project, if the committees approve the project before the end of that period”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–190 struck out before period at end ", or after each such committee has approved the project, if the committees approve the project before the end of that period".
 
 #### Effective Date
 

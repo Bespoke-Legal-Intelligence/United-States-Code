@@ -1,12 +1,12 @@
 ### §2035. Simplified supplemental nutrition assistance program
 
-#### (a) “Federal costs” defined
+#### (a) "Federal costs" defined
 
-In this section, the term “Federal costs” does not include any Federal costs incurred under section 2026 of this title.
+In this section, the term "Federal costs" does not include any Federal costs incurred under section 2026 of this title.
 
 #### (b) Election
 
-Subject to subsection (d) of this section, a State may elect to carry out a simplified supplemental nutrition assistance program (referred to in this section as a “Program”), statewide or in a political subdivision of the State, in accordance with this section.
+Subject to subsection (d) of this section, a State may elect to carry out a simplified supplemental nutrition assistance program (referred to in this section as a "Program"), statewide or in a political subdivision of the State, in accordance with this section.
 
 #### (c) Operation of Program
 
@@ -102,7 +102,7 @@ If a State elects to carry out a Program, within the State or a political subdiv
 
 &emsp;Notwithstanding any other provision of this section, a household may not receive benefits under this section as a result of the eligibility of the household under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), unless the Secretary determines that any household with income above 130 percent of the poverty guidelines is not eligible for the program.
 
-(Pub. L. 88–525, §26, as added Pub. L. 104–193, title VIII, §854(a), Aug. 22, 1996, 110 Stat. 2340;amended Pub. L. 110–234, title IV, §§4001(b), 4002(a)(12), 4115(b)(16), May 22, 2008, 122 Stat. 1092, 1095, 1109; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(12), 4115(b)(16), June 18, 2008, 122 Stat. 1664, 1853, 1857, 1870.)
+(Pub. L. 88–525, §26, as added Pub. L. 104–193, title VIII, §854(a), Aug. 22, 1996, 110 Stat. 2340; amended Pub. L. 110–234, title IV, §§4001(b), 4002(a)(12), 4115(b)(16), May 22, 2008, 122 Stat. 1092, 1095, 1109; Pub. L. 110–246, §4(a), title IV, §§4001(b), 4002(a)(12), 4115(b)(16), June 18, 2008, 122 Stat. 1664, 1853, 1857, 1870.)
 
 #### References in Text
 
@@ -114,17 +114,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §4002(a)(12)(A), substituted “Simplified supplemental nutrition assistance program” for “Simplified Food Stamp Program” in section catchline.
+<b>2008</b>—Pub. L. 110–246, §4002(a)(12)(A), substituted "Simplified supplemental nutrition assistance program" for "Simplified Food Stamp Program" in section catchline.
 
-Subsec. (b). Pub. L. 110–246, §4002(a)(12)(B), which directed amendment of subsec. (b) by substituting “simplified supplemental nutrition assistance program” for “simplified food stamp program”, was executed by making the substitution for “Simplified Food Stamp Program”, to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 110–246, §4002(a)(12)(B), which directed amendment of subsec. (b) by substituting "simplified supplemental nutrition assistance program" for "simplified food stamp program", was executed by making the substitution for "Simplified Food Stamp Program", to reflect the probable intent of Congress.
 
-Subsec. (c)(4)(B), (C). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (c)(4)(B), (C). Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program".
 
-Subsec. (f)(1). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (f)(1). Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program".
 
-Subsec. (f)(3)(A). Pub. L. 110–246, §4115(b)(16)(A), substituted “subsections (a) through (f)” for “subsections (a) through (g)”.
+Subsec. (f)(3)(A). Pub. L. 110–246, §4115(b)(16)(A), substituted "subsections (a) through (f)" for "subsections (a) through (g)".
 
-Subsec. (f)(3)(E). Pub. L. 110–246, §4115(b)(16)(B), substituted “(15), (17), (18), (22), and (23)” for “(16), (18), (20), (24), and (25)”.
+Subsec. (f)(3)(E). Pub. L. 110–246, §4115(b)(16)(B), substituted "(15), (17), (18), (22), and (23)" for "(16), (18), (20), (24), and (25)".
 
 #### Effective Date of 2008 Amendment
 
@@ -132,5 +132,5 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Amendment by sections 4001(b), 4002(a)(12), and 4115(b)(16) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsections".</i>
 

@@ -2,13 +2,13 @@
 
 #### (a) Mandatory authorization order
 
-After six months from June 21, 1938, no person shall export any natural gas from the United States to a foreign country or import any natural gas from a foreign country without first having secured an order of the Commission authorizing it to do so. The Commission shall issue such order upon application, unless, after opportunity for hearing, it finds that the proposed exportation or importation will not be consistentwith the public interest. The Commission may by its order grant such application, in whole or in part, with such modification and upon such terms and conditions as the Commission may find necessary or appropriate, and may from time to time, after opportunity for hearing, and for good cause shown, make such supplemental order in the premises as it may find necessary or appropriate.
+After six months from June 21, 1938, no person shall export any natural gas from the United States to a foreign country or import any natural gas from a foreign country without first having secured an order of the Commission authorizing it to do so. The Commission shall issue such order upon application, unless, after opportunity for hearing, it finds that the proposed exportation or importation will not be consistent with the public interest. The Commission may by its order grant such application, in whole or in part, with such modification and upon such terms and conditions as the Commission may find necessary or appropriate, and may from time to time, after opportunity for hearing, and for good cause shown, make such supplemental order in the premises as it may find necessary or appropriate.
 
 #### (b) Free trade agreements
 
 With respect to natural gas which is imported into the United States from a nation with which there is in effect a free trade agreement requiring national treatment for trade in natural gas, and with respect to liquefied natural gas—
 
-&emsp;(1) the importation of such natural gas shall be treated as a “first sale” within the meaning of section 3301(21) of this title; and
+&emsp;(1) the importation of such natural gas shall be treated as a "first sale" within the meaning of section 3301(21) of this title; and
 
 &emsp;(2) the Commission shall not, on the basis of national origin, treat any such imported natural gas on an unjust, unreasonable, unduly discriminatory, or preferential basis.
 
@@ -60,7 +60,7 @@ Except as specifically provided in this chapter, nothing in this chapter affects
 
 #### (f) Military installations
 
-(1) In this subsection, the term “military installation”—
+(1) In this subsection, the term "military installation"—
 
 &emsp;(A) means a base, camp, post, range, station, yard, center, or homeport facility for any ship or other activity under the jurisdiction of the Department of Defense, including any leased facility, that is located within a State, the District of Columbia, or any territory of the United States; and
 
@@ -82,7 +82,7 @@ The Federal Water Pollution Control Act, referred to in subsec. (d)(3), is act J
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–58, §311(c)(1), inserted “; LNG terminals” after “natural gas” in section catchline.
+<b>2005</b>—Pub. L. 109–58, §311(c)(1), inserted "; LNG terminals" after "natural gas" in section catchline.
 
 Subsecs. (d) to (f). Pub. L. 109–58, §311(c)(2), added subsecs. (d) to (f).
 
@@ -118,7 +118,7 @@ Sec. 4. All Presidential Permits heretofore issued pursuant to Executive Order N
 
 Sec. 5. Executive Order No. 8202 of July 13, 1939, is hereby revoked.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “finds”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "finds".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “coordinates and consults”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "coordinates and consults".</i>
 

@@ -2,7 +2,7 @@
 
 In this subchapter—
 
-&emsp;(1) “commercial motor vehicle” means a self-propelled or towed vehicle used on the highways in interstate commerce to transport passengers or property, if the vehicle—
+&emsp;(1) "commercial motor vehicle" means a self-propelled or towed vehicle used on the highways in interstate commerce to transport passengers or property, if the vehicle—
 
 &emsp;&emsp;(A) has a gross vehicle weight rating or gross vehicle weight of at least 10,001 pounds, whichever is greater;
 
@@ -12,37 +12,37 @@ In this subchapter—
 
 &emsp;&emsp;(D) is used in transporting material found by the Secretary of Transportation to be hazardous under section 5103 of this title and transported in a quantity requiring placarding under regulations prescribed by the Secretary under section 5103.
 
-&emsp;(2) “employee” means an operator of a commercial motor vehicle (including an independent contractor when operating a commercial motor vehicle), a mechanic, a freight handler, or an individual not an employer, who—
+&emsp;(2) "employee" means an operator of a commercial motor vehicle (including an independent contractor when operating a commercial motor vehicle), a mechanic, a freight handler, or an individual not an employer, who—
 
 &emsp;&emsp;(A) directly affects commercial motor vehicle safety in the course of employment; and
 
 &emsp;&emsp;(B) is not an employee of the United States Government, a State, or a political subdivision of a State acting in the course of the employment by the Government, a State, or a political subdivision of a State.
 
-&emsp;(3) “employer”—
+&emsp;(3) "employer"—
 
 &emsp;&emsp;(A) means a person engaged in a business affecting interstate commerce that owns or leases a commercial motor vehicle in connection with that business, or assigns an employee to operate it; but
 
 &emsp;&emsp;(B) does not include the Government, a State, or a political subdivision of a State.
 
-&emsp;(4) “interstate commerce” means trade, traffic, or transportation in the United States between a place in a State and—
+&emsp;(4) "interstate commerce" means trade, traffic, or transportation in the United States between a place in a State and—
 
 &emsp;&emsp;(A) a place outside that State (including a place outside the United States); or
 
 &emsp;&emsp;(B) another place in the same State through another State or through a place outside the United States.
 
-&emsp;(5) “intrastate commerce” means trade, traffic, or transportation in a State that is not interstate commerce.
+&emsp;(5) "intrastate commerce" means trade, traffic, or transportation in a State that is not interstate commerce.
 
-&emsp;(6) “medical examiner” means an individual licensed, certified, or registered in accordance with regulations issued by the Federal Motor Carrier Safety Administration as a medical examiner.
+&emsp;(6) "medical examiner" means an individual licensed, certified, or registered in accordance with regulations issued by the Federal Motor Carrier Safety Administration as a medical examiner.
 
-&emsp;(7) “regulation” includes a standard or order.
+&emsp;(7) "regulation" includes a standard or order.
 
-&emsp;(8) “State” means a State of the United States, the District of Columbia, and, in sections 31136 and 31140–31142 <sup>1</sup> of this title, a political subdivision of a State.
+&emsp;(8) "State" means a State of the United States, the District of Columbia, and, in sections 31136 and 31140–31142 <sup>1</sup> of this title, a political subdivision of a State.
 
-&emsp;(9) “State law” includes a law enacted by a political subdivision of a State.
+&emsp;(9) "State law" includes a law enacted by a political subdivision of a State.
 
-&emsp;(10) “State regulation” includes a regulation prescribed by a political subdivision of a State.
+&emsp;(10) "State regulation" includes a regulation prescribed by a political subdivision of a State.
 
-&emsp;(11) “United States” means the States of the United States and the District of Columbia.
+&emsp;(11) "United States" means the States of the United States and the District of Columbia.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1000; Pub. L. 104–88, title I, §104(f), Dec. 29, 1995, 109 Stat. 919; Pub. L. 105–178, title IV, §4008(a), June 9, 1998, 112 Stat. 404; Pub. L. 109–59, title IV, §4116(c), Aug. 10, 2005, 119 Stat. 1728.)
 
@@ -72,11 +72,11 @@ Section 31140 of this title, referred to in par. (8), was repealed by Pub. L. 10
 
 <b>2005</b>—Pars. (6) to (11). Pub. L. 109–59 added par. (6) and redesignated former pars. (6) to (10) as (7) to (11), respectively.
 
-<b>1998</b>—Par. (1)(A). Pub. L. 105–178, §4008(a)(1), inserted “or gross vehicle weight” after “rating” and “, whichever is greater” after “pounds”.
+<b>1998</b>—Par. (1)(A). Pub. L. 105–178, §4008(a)(1), inserted "or gross vehicle weight" after "rating" and ", whichever is greater" after "pounds".
 
-Par. (1)(B). Pub. L. 105–178, §4008(a)(2), which directed substitution of “more than 8 passengers (including the driver) for compensation;” for “passengers” and all that follows through semicolon at end, was executed by making the substitution for “passengers for compensation, but excluding vehicles providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;” to reflect the probable intent of Congress.
+Par. (1)(B). Pub. L. 105–178, §4008(a)(2), which directed substitution of "more than 8 passengers (including the driver) for compensation;" for "passengers" and all that follows through semicolon at end, was executed by making the substitution for "passengers for compensation, but excluding vehicles providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;" to reflect the probable intent of Congress.
 
-<b>1995</b>—Par. (1)(B) to (D). Pub. L. 104–88 added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B) which read as follows: “is designed to transport more than 15 passengers including the driver; or”.
+<b>1995</b>—Par. (1)(B) to (D). Pub. L. 104–88 added subpars. (B) and (C), redesignated former subpar. (C) as (D), and struck out former subpar. (B) which read as follows: "is designed to transport more than 15 passengers including the driver; or".
 
 #### Effective Date of 1995 Amendment
 

@@ -96,5 +96,5 @@ Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (l),
 
 #### Amendments
 
-<b>1991</b>—Subsec. (l). Pub. L. 102–237 substituted “council established” for “committee established”.
+<b>1991</b>—Subsec. (l). Pub. L. 102–237 substituted "council established" for "committee established".
 

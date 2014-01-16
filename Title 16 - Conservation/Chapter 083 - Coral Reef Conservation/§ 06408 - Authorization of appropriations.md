@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-There are authorized to be appropriated to the Secretary to carry out this chapter $16,000,000 for each of fiscal years 2001, 2002, 2003, and 2004, which may remain available until expended.
+There are authorized to be appropriated to the Secretary to carry out this chapter $16,000,000for each of fiscal years 2001, 2002, 2003, and 2004, which may remain available until expended.
 
 #### (b) Administration
 

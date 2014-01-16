@@ -26,7 +26,7 @@ Any order issued under this section shall state with reasonable specificity the 
 
 &emsp;(B) any requirement or standard of a State program approved pursuant to section 6991c of this title;
 
-&emsp;(C) the provisions of section 6991b(g) of this title (entitled “Interim Prohibition”); or <sup>1</sup>
+&emsp;(C) the provisions of section 6991b(g) of this title (entitled "Interim Prohibition"); or <sup>1</sup>
 
 &emsp;(D) <sup>2</sup> the requirements established in section 6991b(i) of this title, <sup>3</sup>
 
@@ -48,13 +48,13 @@ Both of the following may be taken into account in determining the terms of a ci
 
 #### Amendments
 
-<b>2005</b>—Subsec. (d)(2). Pub. L. 109–58, §1527(b)(2), inserted at end “Any person making or accepting a delivery or deposit of a regulated substance to an underground storage tank at an ineligible facility in violation of section 6991k of this title shall also be subject to the same civil penalty for each day of such violation.”
+<b>2005</b>—Subsec. (d)(2). Pub. L. 109–58, §1527(b)(2), inserted at end "Any person making or accepting a delivery or deposit of a regulated substance to an underground storage tank at an ineligible facility in violation of section 6991k of this title shall also be subject to the same civil penalty for each day of such violation."
 
-Subsec. (d)(2)(B). Pub. L. 109–58, §1530(d)(1), which directed amendment of subpar. (B) by striking out “or” at end, could not be executed because “or” did not appear subsequent to amendment by Pub. L. 109–58, §1524(c)(1). See below.
+Subsec. (d)(2)(B). Pub. L. 109–58, §1530(d)(1), which directed amendment of subpar. (B) by striking out "or" at end, could not be executed because "or" did not appear subsequent to amendment by Pub. L. 109–58, §1524(c)(1). See below.
 
-Pub. L. 109–58, §1524(c)(1), struck out “or” at end.
+Pub. L. 109–58, §1524(c)(1), struck out "or" at end.
 
-Subsec. (d)(2)(C). Pub. L. 109–58, §1530(d)(2), inserted “; or” at end.
+Subsec. (d)(2)(C). Pub. L. 109–58, §1530(d)(2), inserted "; or" at end.
 
 Subsec. (d)(2)(D). Pub. L. 109–58, §1530(d)(3), added subpar. (D) relating to requirements established in section 6991b(i) of this title.
 
@@ -68,7 +68,7 @@ Subsec. (e). Pub. L. 109–58, §1526(d), added subsec. (e).
 
 Amendment by section 1530(d) of Pub. L. 109–58 effective 18 months after Aug. 8, 2005, see section 1530(b) of Pub. L. 109–58, set out as a note under section 6991b of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “or” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "or" probably should not appear.</i>
 
 <i><sup>2</sup></i><i> So in original. Two subpars. (D) have been enacted.</i>
 

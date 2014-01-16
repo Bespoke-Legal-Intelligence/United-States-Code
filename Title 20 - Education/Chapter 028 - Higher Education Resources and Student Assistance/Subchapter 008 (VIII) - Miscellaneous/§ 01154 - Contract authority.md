@@ -6,7 +6,7 @@ The authorization to enter into contracts or other obligations under the Act, as
 
 #### References in Text
 
-The Act, as amended by this Act, referred to in text, means the Higher Education Act of 1965, Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended by the Education Amendments of 1980, Pub. L. 96–373, Oct. 3, 1980, 94 Stat. 1367, which is classified generally to this chapter and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+The Act, as amended by this Act, referred to in text, means the Higher Education Act of 1965, Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended by the Education Amendments of 1980, Pub. L. 96–374, Oct. 3, 1980, 94 Stat. 1367, which is classified generally to this chapter and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Codification
 
@@ -22,5 +22,5 @@ Section effective Oct. 1, 1980, see section 1393(a) of Pub. L. 96–374, set out
 
 #### Contracting Authority Subject To Appropriations
 
-Pub. L. 99–498, §3, Oct. 17, 1986, 100 Stat. 1278, provided that: “The authority to enter into contracts or other obligations under this Act (other than amendments made to part B of title IV of the Act) \[see Tables for classification\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
+Pub. L. 99–498, §3, Oct. 17, 1986, 100 Stat. 1278, provided that: "The authority to enter into contracts or other obligations under this Act (other than amendments made to part B of title IV of the Act) \[see Tables for classification\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts."
 

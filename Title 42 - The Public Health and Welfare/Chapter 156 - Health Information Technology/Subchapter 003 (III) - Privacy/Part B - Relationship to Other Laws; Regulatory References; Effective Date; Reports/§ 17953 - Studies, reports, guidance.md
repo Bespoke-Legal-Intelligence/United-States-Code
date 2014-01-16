@@ -56,7 +56,7 @@ Not later than 12 months after February 17, 2009, the Secretary shall, in consul
 
 #### (d) GAO report on treatment disclosures
 
-Not later than one year after February 17, 2009, the Comptroller General of the United States shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives a report on the best practices related to the disclosure among health care providers of protected health information of an individual for purposes of treatment of such individual. Such report shall include an examination of the best practices implemented by States and by other entities, suchas health information exchanges and regional health information organizations, an examination of the extent to which such best practices are successful with respect to the quality of the resulting health care provided to the individual and with respect to the ability of the health care provider to manage such best practices, and an examination of the use of electronic informed consent for disclosing protected health information for treatment, payment, and health care operations.
+Not later than one year after February 17, 2009, the Comptroller General of the United States shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Ways and Means and the Committee on Energy and Commerce of the House of Representatives a report on the best practices related to the disclosure among health care providers of protected health information of an individual for purposes of treatment of such individual. Such report shall include an examination of the best practices implemented by States and by other entities, such as health information exchanges and regional health information organizations, an examination of the extent to which such best practices are successful with respect to the quality of the resulting health care provided to the individual and with respect to the ability of the health care provider to manage such best practices, and an examination of the use of electronic informed consent for disclosing protected health information for treatment, payment, and health care operations.
 
 #### (e) Report required
 
@@ -64,13 +64,13 @@ Not later than 5 years after February 17, 2009, the Government Accountability Of
 
 #### (f) Study
 
-The Secretary shall study the definition of “psychotherapy notes” in section 164.501 of title 45, Code of Federal Regulations, with regard to including test data that is related to direct responses, scores, items, forms, protocols, manuals, or other materials that are part of a mental health evaluation, as determined by the mental health professional providing treatment or evaluation in such definitions and may, based on such study, issue regulations to revise such definition.
+The Secretary shall study the definition of "psychotherapy notes" in section 164.501 of title 45, Code of Federal Regulations, with regard to including test data that is related to direct responses, scores, items, forms, protocols, manuals, or other materials that are part of a mental health evaluation, as determined by the mental health professional providing treatment or evaluation in such definitions and may, based on such study, issue regulations to revise such definition.
 
 (Pub. L. 111–5, div. A, title XIII, §13424, Feb. 17, 2009, 123 Stat. 276.)
 
 #### References in Text
 
-This subchapter, referred to in subsec. (a)(1), was in the original “this subtitle”, meaning subtitle D (§13400 et seq.) of title XIII of div. A of Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 258, which is classified principally to this subchapter. For complete classification of subtitle D to the Code, see Tables.
+This subchapter, referred to in subsec. (a)(1), was in the original "this subtitle", meaning subtitle D (§13400 et seq.) of title XIII of div. A of Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 258, which is classified principally to this subchapter. For complete classification of subtitle D to the Code, see Tables.
 
 This Act, referred to in subsec. (e), means div. A of Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 116, see section 4 of Pub. L. 111–5, set out as a note under section 1 of Title 1, General Provisions. For complete classification of div. A to the Code, see Tables.
 

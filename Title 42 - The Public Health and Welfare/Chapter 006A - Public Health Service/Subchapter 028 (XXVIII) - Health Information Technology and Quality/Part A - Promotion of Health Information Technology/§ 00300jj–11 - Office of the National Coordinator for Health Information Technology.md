@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established within the Department of Health and Human Services an Office of the National Coordinator for Health Information Technology (referred to in this section as the “Office”). The Office shall be headed by a National Coordinator who shall be appointed by the Secretary and shall report directly to the Secretary.
+There is established within the Department of Health and Human Services an Office of the National Coordinator for Health Information Technology (referred to in this section as the "Office"). The Office shall be headed by a National Coordinator who shall be appointed by the Secretary and shall report directly to the Secretary.
 
 #### (b) Purpose
 
@@ -72,7 +72,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 &emsp;&emsp;&emsp;(vii) Strategies to enhance the use of health information technology in improving the quality of health care, reducing medical errors, reducing health disparities, improving public health, increasing prevention and coordination with community resources, and improving the continuity of care among health care settings.
 
-&emsp;&emsp;&emsp;(viii) Specific plans for ensuring that populations with unique needs, such as children, are appropriately addressed in the technology design, as appropriate, which may include technology that automates enrollment and retention for eligible individuals.
+&emsp;&emsp;&emsp;(viii) Specific plans for ensuring that populations with unique needs, such as children, are appropriately addressed in the technology design, as appropriate, which may include technology thatautomates enrollment and retention for eligible individuals.
 
 #### (B) Collaboration
 
@@ -94,11 +94,11 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (A) In general
 
-&emsp;&emsp;The National Coordinator, in consultation with the Director of the National Instituteof Standards and Technology, shall keep or recognize a program or programs for the voluntary certification of health information technology as being in compliance with applicable certification criteria adopted under this part. Such program shall include, as appropriate, testing of the technology in accordance with section 17911(b) of this title.
+&emsp;&emsp;The National Coordinator, in consultation with the Director of the National Institute of Standards and Technology, shall keep or recognize a program or programs for the voluntary certification of health information technology as being in compliance with applicable certification criteria adopted under this part. Such program shall include, as appropriate, testing of the technology in accordance with section 17911(b) of this title.
 
 #### (B) Certification criteria described
 
-&emsp;&emsp;In this subchapter, the term “certification criteria” means, with respect to standards and implementation specifications for health information technology, criteria to establish that the technology meets such standards and implementation specifications.
+&emsp;&emsp;In this subchapter, the term "certification criteria" means, with respect to standards and implementation specifications for health information technology, criteria to establish that the technology meets such standards and implementation specifications.
 
 #### (6) Reports and publications
 
@@ -158,7 +158,7 @@ The National Coordinator shall perform the duties under subsection (c) in a mann
 
 #### (e) Chief Privacy Officer of the Office of the National Coordinator
 
-Not later than 12 months after February 17, 2009, the Secretary shall appoint a Chief Privacy Officer of the Office of the National Coordinator, whose duty it shall be to advise the National Coordinator on privacy, security, and data stewardship of electronic health information and to coordinate with other Federal agencies (and similar privacy officers in such agencies), withState and regional efforts, and with foreign countries with regard to the privacy, security, and data stewardship of electronic individually identifiable health information.
+Not later than 12 months after February 17, 2009, the Secretary shall appoint a Chief Privacy Officer of the Office of the National Coordinator, whose duty it shall be to advise the National Coordinator on privacy, security, and data stewardship of electronic health information and to coordinate with other Federal agencies (and similar privacy officers in such agencies), with State and regional efforts, and with foreign countries with regard to the privacy, security, and data stewardship of electronic individually identifiable health information.
 
 (July 1, 1944, ch. 373, title XXX, §3001, as added Pub. L. 111–5, div. A, title XIII, §13101, Feb. 17, 2009, 123 Stat. 230.)
 

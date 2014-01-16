@@ -16,17 +16,17 @@
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(2)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (b)(2)(B). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–85, §603(d)(2)(B)(i), substituted “basic allowance for housing under section 403 of title 37” for “basic allowance for quarters”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–85, §603(d)(2)(B)(i), substituted "basic allowance for housing under section 403 of title 37" for "basic allowance for quarters".
 
-Subsec. (a)(2). Pub. L. 105–85, §603(d)(2)(B)(ii), substituted “basic allowance for housing” for “basic allowance for quarters”.
+Subsec. (a)(2). Pub. L. 105–85, §603(d)(2)(B)(ii), substituted "basic allowance for housing" for "basic allowance for quarters".
 
-<b>1987</b>—Subsec. (a)(1). Pub. L. 100–180, §632(a)(1), substituted “Secretary concerned” for “Secretary of a military department”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–180, §632(a)(1), substituted "Secretary concerned" for "Secretary of a military department".
 
-Subsec. (b). Pub. L. 100–180, §632(a)(2), (3), designated existing provisions as par. (1), substituted “The Secretary concerned” for “Subject to regulations prescribed by the Secretary of Defense, the Secretary of a military department”, and added par. (2).
+Subsec. (b). Pub. L. 100–180, §632(a)(2), (3), designated existing provisions as par. (1), substituted "The Secretary concerned" for "Subject to regulations prescribed by the Secretary of Defense, the Secretary of a military department", and added par. (2).
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–348 struck out subsec. (c) which defined “uniformed services” in this section to mean the armed forces and the commissioned corps of the Public Health Service and of the National Oceanic and Atmospheric Administration. See section 101 of this title.
+<b>1986</b>—Subsec. (c). Pub. L. 99–348 struck out subsec. (c) which defined "uniformed services" in this section to mean the armed forces and the commissioned corps of the Public Health Service and of the National Oceanic and Atmospheric Administration. See section 101 of this title.
 
 #### Effective Date of 2002 Amendment
 

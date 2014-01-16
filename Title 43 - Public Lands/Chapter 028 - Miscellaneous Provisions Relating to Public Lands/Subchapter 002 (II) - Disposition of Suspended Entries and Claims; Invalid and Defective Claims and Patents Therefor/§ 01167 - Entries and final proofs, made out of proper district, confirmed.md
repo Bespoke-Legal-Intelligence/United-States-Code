@@ -6,15 +6,15 @@ Whenever it shall appear to the Secretary of the Interior, or such officer as he
 
 #### References in Text
 
-Act of March 11, 1902, referred to in text, probably means act Mar. 11, 1902, ch. 182, 32 Stat. 63, which was classified to section 254 of this title and was repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787. For complete classification of this Act to the Code, see Tables.
+Act of March 11, 1902, referred to in text, probably means act Mar. 11, 1902, ch. 182, 32 Stat. 63, which wasclassified to section 254 of this title and was repealed by Pub. L. 94–579, title VII, §702, Oct. 21, 1976, 90 Stat. 2787. For complete classification of this Act to the Code, see Tables.
 
 #### Transfer of Functions
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
-“Secretary of the Interior, or such officer as he may designate,” substituted for “Commissioner of the General Land Office” on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
+"Secretary of the Interior, or such officer as he may designate," substituted for "Commissioner of the General Land Office" on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
 
 #### Effective Date
 
-Act Mar. 9, 1904, ch. 503, §2, 33 Stat. 64, provided: “That this Act \[enacting this section\] shall be in force from and after its passage and approval.”
+Act Mar. 9, 1904, ch. 503, §2, 33 Stat. 64, provided: "That this Act \[enacting this section\] shall be in force from and after its passage and approval."
 

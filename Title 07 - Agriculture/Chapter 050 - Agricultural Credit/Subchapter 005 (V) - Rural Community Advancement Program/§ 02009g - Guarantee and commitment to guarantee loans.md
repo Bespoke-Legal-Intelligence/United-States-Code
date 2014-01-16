@@ -1,8 +1,8 @@
 ### §2009g. Guarantee and commitment to guarantee loans
 
-#### (a) “Eligible public entity” defined
+#### (a) "Eligible public entity" defined
 
-In this section, the term “eligible public entity” means any unit of general local government.
+In this section, the term "eligible public entity" means any unit of general local government.
 
 #### (b) Guarantee and commitment
 
@@ -22,7 +22,7 @@ Notwithstanding any other provision of this subchapter, a State to which a grant
 
 &emsp;To ensure the repayment of notes or other obligations and charges incurred under this section and as a condition for receiving the guarantees, the Secretary shall require the issuer to—
 
-&emsp;&emsp;(A) enter into a contract, in a form acceptable to the Secretary, for repayment ofnotes or other obligations guaranteed under this section;
+&emsp;&emsp;(A) enter into a contract, in a form acceptable to the Secretary, for repayment of notes or other obligations guaranteed under this section;
 
 &emsp;&emsp;(B) pledge any grant for which the issuer may become eligible under this subchapter; and
 

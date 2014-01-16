@@ -20,15 +20,15 @@
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–156 substituted “Federal agency responsibilities and relations with non-Federal entities” for “Cognizant agency responsibilities” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1996</b>—Pub. L. 104–156 substituted "Federal agency responsibilities and relations with non-Federal entities" for "Cognizant agency responsibilities" in section catchline and amended text generally. Prior to amendment, text read as follows:
 
-“(a) The Director shall designate cognizant agencies for audits conducted pursuant to this chapter.
+"(a) The Director shall designate cognizant agencies for audits conducted pursuant to this chapter.
 
-“(b) A cognizant agency shall—
+"(b) A cognizant agency shall—
 
-&emsp;“(1) ensure that audits are made in a timely manner and in accordance with the requirements of this chapter;
+&emsp;"(1) ensure that audits are made in a timely manner and in accordance with the requirements of this chapter;
 
-&emsp;“(2) ensure that the audit reports and corrective action plans made pursuant to section 7502 of this title are transmitted to the appropriate Federal officials; and
+&emsp;"(2) ensure that the audit reports and corrective action plans made pursuant to section 7502 of this title are transmitted to the appropriate Federal officials; and
 
-&emsp;“(3)(A) coordinate, to the extent practicable, audits done by or under contract with Federal agencies that are in addition to the audits conducted pursuant to this chapter; and (B) ensure that such additional audits build upon the audits conducted pursuant to this chapter.”
+&emsp;"(3)(A) coordinate, to the extent practicable, audits done by or under contract with Federal agencies that are in addition to the audits conducted pursuant to this chapter; and (B) ensure that such additional audits build upon the audits conducted pursuant to this chapter."
 

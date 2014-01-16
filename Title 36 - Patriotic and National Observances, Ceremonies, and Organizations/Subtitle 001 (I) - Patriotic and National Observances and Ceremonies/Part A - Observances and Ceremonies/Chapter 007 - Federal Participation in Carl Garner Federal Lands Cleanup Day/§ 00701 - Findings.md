@@ -38,5 +38,5 @@ Historical and Revision Notes
 
 Aug. 27, 1986, Pub. L. 99–402, §2, 100 Stat. 910.
 
-In clause (2), the words “the several” are omitted as unnecessary.
+In clause (2), the words "the several" are omitted as unnecessary.
 

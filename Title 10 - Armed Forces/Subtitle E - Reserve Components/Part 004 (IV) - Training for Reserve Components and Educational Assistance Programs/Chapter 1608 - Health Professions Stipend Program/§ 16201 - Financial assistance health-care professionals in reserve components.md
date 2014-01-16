@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Program.—For the purpose of obtaining adequate numbers of commissioned officers in the reserve components who are qualified in health professions, the Secretary of each military department may establish and maintain a program to provide financial assistance under this chapter to persons engaged in training that leads to a degree in medicine or dentistry or training in a health professions specialty that is critically needed in wartime. Under such a program, the Secretary concerned may agree to pay a financial stipend to persons engaged in health care education and training in return for a commitment to subsequent service in the Ready Reserve.
+Establishment of Program.—For the purpose of obtaining adequate numbers of commissioned officers in the reserve components who are qualified in health professions, the Secretary of each military department may establish and maintain a program to provide financial assistance under this chapter to persons engaged in training that leads to a degree in medicine or dentistry or training in a health professions specialty that is critically needed in wartime. Under such a program, the Secretary concerned may agree to pay a financial stipend to persons engaged in health care education and training in return for a commitment to subsequent service in the Selected Reserve of the Ready Reserve.
 
 (b)
 
@@ -54,7 +54,7 @@ Physicians and Dentists in Critical Wartime Specialties.—(1) Under the stipend
 
 &emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
 
-&emsp;(D) the participant shall agree to serve, upon successful completion of the program, one year in the Ready Reserve for each six months, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement.
+&emsp;(D) the participant shall agree to serve, upon successful completion of the program, one year in the Selected Reserve for each six months, or part thereof, for which the stipend is provided.
 
 (d)
 
@@ -62,13 +62,7 @@ Registered Nurses in Critical Specialties.—(1) Under the stipend program under
 
 &emsp;(A) is a registered nurse;
 
-&emsp;(B) is eligible for appointment as—
-
-&emsp;&emsp;(i) a Reserve officer for service in the Army Reserve in the Army Nurse Corps;
-
-&emsp;&emsp;(ii) a Reserve officer for service in the Navy Reserve in the Navy Nurse Corps; or
-
-&emsp;&emsp;(iii) a Reserve officer for service in the Air Force Reserve with a view to designation as an Air Force nurse under section 8067(e) of this title; and
+&emsp;(B) is eligible for appointment as a Reserve officer for service in a reserve component in a Nurse Corps or as a nurse; and
 
 &emsp;(C) is enrolled or has been accepted for enrollment in an accredited program in nursing in a specialty designated by the Secretary concerned as a specialty critically needed by that military department in wartime.
 
@@ -76,15 +70,11 @@ Registered Nurses in Critical Specialties.—(1) Under the stipend program under
 
 &emsp;(A) the Secretary shall agree to pay the participant a stipend, in an amount determined under subsection (g), for the period or the remainder of the period of the nursing program in which the participant enrolls or is enrolled;
 
-&emsp;(B) the participant shall not be eligible to receive such stipend before being appointed as a Reserve officer for service in the Ready Reserve—
-
-&emsp;&emsp;(i) in the Nurse Corps of the Army or Navy; or
-
-&emsp;&emsp;(ii) as an Air Force nurse of the Air Force;
+&emsp;(B) the participant shall not be eligible to receive such stipend before being appointed as a Reserve officer for service in the Ready Reserve in a Nurse Corps or as a nurse;
 
 &emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
 
-&emsp;(D) the participant shall agree to serve, upon successful completion of the program, one year in the Ready Reserve for each six months, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement.
+&emsp;(D) the participant shall agree to serve, upon successful completion of the program, one year in the Selected Reserve for each six months, or part thereof, for which the stipend is provided.
 
 (e)
 
@@ -106,7 +96,7 @@ Baccalaureate Students in Nursing or Other Health Professions.—(1) Under the s
 
 &emsp;(C) the participant shall be subject to such active duty requirements as may be specified in the agreement and to active duty in time of war or national emergency as provided by law for members of the Ready Reserve; and
 
-&emsp;(D) the participant shall agree to serve, upon graduation from the baccalaureate program, one year in the Ready Reserve for each year, or part thereof, for which the stipend is paid.
+&emsp;(D) the participant shall agree to serve, upon graduation from the baccalaureate program, one year in the Selected Reserve for each year, or part thereof, for which the stipend is paid.
 
 (f)
 
@@ -138,63 +128,87 @@ Mental Health Professionals in Critical Wartime Specialties.—(1) Under the sti
 
 (g)
 
-Amount of Stipend.—The amount of a stipend under an agreement under subsection (b), (c), or (f) shall be—
+Amount of Stipend.—The amount of a stipend under an agreement under subsection (b), (c), (d), or (f) shall be the stipend rate in effect for participants in the Armed Forces Health Professions Scholarship Program under section 2121(d) of this title.
 
-&emsp;(1) the stipend rate in effect for participants in the Armed Forces Health Professions Scholarship Program under section 2121(d) of this title, if the participant has agreed to serve in the Selected Reserve; or
-
-&emsp;(2) one-half of that rate, if the participant has agreed to serve in the Individual Ready Reserve.
-
-(Added Pub. L. 100–180, div. A, title VII, §711(a)(3), Dec. 4, 1987, 101 Stat. 1108, §2128; renumbered §16201 and amended Pub. L. 103–337, div. A, title XVI, §1663(c)(2), (5), Oct. 5, 1994, 108 Stat. 3007, 3008; Pub. L. 104–106, div. A, title VII, §736, Feb. 10, 1996, 110 Stat. 383; Pub. L. 107–107, div. A, title V, §539, Dec. 28, 2001, 115 Stat. 1108; Pub. L. 109–163, div. A, title V, §515(b)(1)(WW), Jan. 6, 2006, 119 Stat. 3234; Pub. L. 110–417, \[div. A\], title VI, §616(c), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title X, §1073(c)(3), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 112–81, div. A, title V, §556, Dec. 31, 2011, 125 Stat. 1416.)
+(Added Pub. L. 100–180, div. A, title VII, §711(a)(3), Dec. 4, 1987, 101 Stat. 1108, §2128; renumbered §16201 and amended Pub. L. 103–337, div. A, title XVI, §1663(c)(2), (5), Oct. 5, 1994, 108 Stat. 3007, 3008; Pub. L. 104–106, div. A, title VII, §736, Feb. 10, 1996, 110 Stat. 383; Pub. L. 107–107, div. A, title V, §539, Dec. 28, 2001, 115 Stat. 1108;Pub. L. 109–163, div. A, title V, §515(b)(1)(WW), Jan. 6, 2006, 119 Stat. 3234; Pub. L. 110–417, \[div. A\], title VI, §616(c), Oct. 14, 2008, 122 Stat. 4486; Pub. L. 111–84, div. A, title X, §1073(c)(3), Oct. 28, 2009, 123 Stat. 2474; Pub. L. 112–81, div. A, title V, §556, Dec. 31, 2011, 125 Stat. 1416; Pub. L. 113–66, div. A, title VI, §618, Dec. 26, 2013, 127 Stat. 782.)
 
 #### Amendments
 
-<b>2011</b>—Subsecs. (b)(2)(A), (c)(2)(A), (d)(2)(A). Pub. L. 112–81, §556(b)(1), substituted “subsection (g)” for “subsection (f)”.
+<b>2013</b>—Subsec. (a). Pub. L. 113–66, §618(b)(1), substituted "the Selected Reserve of the Ready Reserve" for "the Ready Reserve".
+
+Subsec. (c)(2)(D). Pub. L. 113–66, §618(b)(2), added subpar. (D) and struck out former subpar. (D) which read as follows: "the participant shall agree to serve, upon successful completion of the program, one year in the Ready Reserve for each six months, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement."
+
+Subsec. (d)(1)(B). Pub. L. 113–66, §618(a)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: "is eligible for appointment as—
+
+&emsp;"(i) a Reserve officer for service in the Army Reserve in the Army Nurse Corps;
+
+&emsp;"(ii) a Reserve officer for service in the Navy Reserve in the Navy Nurse Corps; or
+
+&emsp;"(iii) a Reserve officer for service in the Air Force Reserve with a view to designation as an Air Force nurse under section 8067(e) of this title; and".
+
+Subsec. (d)(2)(B). Pub. L. 113–66, §618(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: "the participant shall not be eligible to receive such stipend before being appointed as a Reserve officer for service in the Ready Reserve—
+
+&emsp;"(i) in the Nurse Corps of the Army or Navy; or
+
+&emsp;"(ii) as an Air Force nurse of the Air Force;".
+
+Subsec. (d)(2)(D). Pub. L. 113–66, §618(b)(3), added subpar. (D) and struck out former subpar. (D) which read as follows: "the participant shall agree to serve, upon successful completion of the program, one year in the Ready Reserve for each six months, or part thereof, for which the stipend is provided, to be served in the Selected Reserve or in the Individual Ready Reserve as specified in the agreement."
+
+Subsec. (e)(2)(D). Pub. L. 113–66, §618(b)(4), substituted "the Selected Reserve" for "the Ready Reserve".
+
+Subsec. (g). Pub. L. 113–66, §618(c), amended subsec. (g) generally. Prior to amendment, text read as follows: "The amount of a stipend under an agreement under subsection (b), (c), or (f) shall be—
+
+&emsp;"(1) the stipend rate in effect for participants in the Armed Forces Health Professions Scholarship Program under section 2121(d) of this title, if the participant has agreed to serve in the Selected Reserve; or
+
+&emsp;"(2) one-half of that rate, if the participant has agreed to serve in the Individual Ready Reserve."
+
+<b>2011</b>—Subsecs. (b)(2)(A), (c)(2)(A), (d)(2)(A). Pub. L. 112–81, §556(b)(1), substituted "subsection (g)" for "subsection (f)".
 
 Subsec. (f). Pub. L. 112–81, §556(a)(2), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 112–81, §556(a)(1), (b)(2), redesignated subsec. (f) as (g) and substituted “subsection (b), (c), or (f)” for “subsection (b) or (c)” in introductory provisions.
+Subsec. (g). Pub. L. 112–81, §556(a)(1), (b)(2), redesignated subsec. (f) as (g) and substituted "subsection (b), (c), or (f)" for "subsection (b) or (c)" in introductory provisions.
 
 <b>2009</b>—Subsec. (e)(2)(A). Pub. L. 111–84 made technical amendment to directory language of Pub. L. 110–417, §616(c). See 2008 Amendment note below.
 
-<b>2008</b>—Subsec. (e)(2)(A). Pub. L. 110–417, §616(c), as amended by Pub. L. 111–84, substituted “monthly stipend in an amount not to exceed the stipend rate in effect under section 2121(d) of this title” for “stipend of $100 per month”.
+<b>2008</b>—Subsec. (e)(2)(A). Pub. L. 110–417, §616(c), as amended by Pub. L. 111–84, substituted "monthly stipend in an amount not to exceed the stipend rate in effect under section 2121(d) of this title" for "stipend of $100 per month".
 
-<b>2006</b>—Subsec. (d)(1)(B)(ii). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (d)(1)(B)(ii). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve".
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–107, §539(a), struck out “specialties critically needed in wartime” after “qualified in health professions” and substituted “training that leads to a degree in medicine or dentistry or training in a health professions specialty that is critically needed in wartime” for “training in such specialties” and “health care education and training” for “training in certain health care specialties”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §539(a), struck out "specialties critically needed in wartime" after "qualified in health professions" and substituted "training that leads to a degree in medicine or dentistry or training in a health professions specialty that is critically needed in wartime" for "training in such specialties" and "health care education and training" for "training in certain health care specialties".
 
 Subsec. (b). Pub. L. 107–107, §539(b)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 107–107, §539(b)(1), (c)(1), redesignated subsec. (b) as (c) and inserted “Wartime” after “Critical” in heading. Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 107–107, §539(b)(1), (c)(1), redesignated subsec. (b) as (c) and inserted "Wartime" after "Critical" in heading. Former subsec. (c) redesignated (d).
 
-Subsec. (c)(1)(B). Pub. L. 107–107, §539(c)(2), inserted “or has been appointed as a medical or dental officer in the Reserve of the armed force concerned” before semicolon at end.
+Subsec. (c)(1)(B). Pub. L. 107–107, §539(c)(2), inserted "or has been appointed as a medical or dental officer in the Reserve of the armed force concerned" before semicolon at end.
 
-Subsec. (c)(2)(A). Pub. L. 107–107, §539(e), substituted “subsection (f)” for “subsection (e)”.
+Subsec. (c)(2)(A). Pub. L. 107–107, §539(e), substituted "subsection (f)" for "subsection (e)".
 
-Subsec. (c)(2)(D). Pub. L. 107–107, §539(d), substituted “one year in the Ready Reserve for each six months” for “two years in the Ready Reserve for each year”.
+Subsec. (c)(2)(D). Pub. L. 107–107, §539(d), substituted "one year in the Ready Reserve for each six months" for "two years in the Ready Reserve for each year".
 
 Subsec. (d). Pub. L. 107–107, §539(b)(1), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(2)(A). Pub. L. 107–107, §539(e), substituted “subsection (f)” for “subsection (e)”.
+Subsec. (d)(2)(A). Pub. L. 107–107, §539(e), substituted "subsection (f)" for "subsection (e)".
 
-Subsec. (d)(2)(D). Pub. L. 107–107, §539(d), substituted “one year in the Ready Reserve for each six months” for “two years in the Ready Reserve for each year”.
+Subsec. (d)(2)(D). Pub. L. 107–107, §539(d), substituted "one year in the Ready Reserve for each six months" for "two years in the Ready Reserve for each year".
 
 Subsecs. (e), (f). Pub. L. 107–107, §539(b)(1), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–106, §736(1), inserted “and Dentists” in heading.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106, §736(1), inserted "and Dentists" in heading.
 
-Subsec. (b)(1)(A). Pub. L. 104–106, §736(2), inserted “or dental school” after “medical school”.
+Subsec. (b)(1)(A). Pub. L. 104–106, §736(2), inserted "or dental school" after "medical school".
 
-Subsec. (b)(1)(B). Pub. L. 104–106, §736(3), inserted “or dental officer” after “medical officer”.
+Subsec. (b)(1)(B). Pub. L. 104–106, §736(3), inserted "or dental officer" after "medical officer".
 
-Subsec. (b)(1)(C). Pub. L. 104–106, §736(4), substituted “physicians or dentists in a medical or dental specialty” for “physicians in a medical specialty”.
+Subsec. (b)(1)(C). Pub. L. 104–106, §736(4), substituted "physicians or dentists in a medical or dental specialty" for "physicians in a medical specialty".
 
-Subsec. (b)(2)(B). Pub. L. 104–106, §736(3), inserted “or dental officer” after “medical officer”.
+Subsec. (b)(2)(B). Pub. L. 104–106, §736(3), inserted "or dental officer" after "medical officer".
 
 <b>1994</b>—Pub. L. 103–337, §1663(c)(2), renumbered section 2128 of this title as this section.
 
-Subsecs. (a), (b)(1), (c)(1), (d)(1). Pub. L. 103–337, §1663(c)(5), substituted “chapter” for “subchapter”.
+Subsecs. (a), (b)(1), (c)(1), (d)(1). Pub. L. 103–337, §1663(c)(5), substituted "chapter" for "subchapter".
 
-Subsec. (f). Pub. L. 103–337, §1663(c)(2), struck out subsec. (f) which defined “Individual Ready Reserve”.
+Subsec. (f). Pub. L. 103–337, §1663(c)(2), struck out subsec. (f) which defined "Individual Ready Reserve".
 
 #### Effective Date of 2009 Amendment
 
@@ -206,5 +220,5 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Payments for Period Prior to December 4, 1987
 
-Pub. L. 100–180, div. A, title VII, §711(e)(2), Dec. 4, 1987, 101 Stat. 1111, provided that: “An agreement entered into by the Secretary of a military department under section 2128 \[now 16201\] of title 10, United States Code, as added by subsection (a), may not obligate the United States to make a payment for any period before the date of the enactment of this Act \[Dec. 4, 1987\].”
+Pub. L. 100–180, div. A, title VII, §711(e)(2), Dec. 4, 1987, 101 Stat. 1111, provided that: "An agreement entered into by the Secretary of a military department under section 2128 \[now 16201\] of title 10, United States Code, as added by subsection (a), may not obligate the United States to make a payment for any period before the date of the enactment of this Act \[Dec. 4, 1987\]."
 

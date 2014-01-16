@@ -32,11 +32,11 @@ Apr. 3, 1952, ch. 131, §§4(b), 19, 66 Stat. 39, 41.
 
 &nbsp;
 
-In subsection (a), the word “have” is substituted for “maintain” for consistency in the revised title. The words “at all times” are omitted as unnecessary. The words “to receive” are substituted for “authorized to accept”, and the words “is notice to or service on” are substituted for “shall be deemed sufficient notice or service upon”, for consistency in the revised title.
+In subsection (a), the word "have" is substituted for "maintain" for consistency in the revised title. The words "at all times" are omitted as unnecessary. The words "to receive" are substituted for "authorized to accept", and the words "is notice to or service on" are substituted for "shall be deemed sufficient notice or service upon", for consistency in the revised title.
 
-In subsection (b), the words “precedent” and “or conferred” are omitted as unnecessary. The words “file, with the secretary of state or other designated official” are substituted for “serve notice upon the secretary of state, or similar officer” for consistency in the revised title.
+In subsection (b), the words "precedent" and "or conferred" are omitted as unnecessary. The words "file, with the secretary of state or other designated official" are substituted for "serve notice upon the secretary of state, or similar officer" for consistency in the revised title.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–284 substituted “with the secretary” for “with secretary”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–284 substituted "with the secretary" for "with secretary".
 

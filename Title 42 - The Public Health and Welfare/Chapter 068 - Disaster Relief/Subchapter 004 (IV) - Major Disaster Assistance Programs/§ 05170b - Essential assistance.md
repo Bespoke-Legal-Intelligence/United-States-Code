@@ -42,7 +42,7 @@ Federal agencies may on the direction of the President, provide assistance essen
 
 #### (4) Contributions
 
-&emsp;Making contributions to State or local governments or owners or operators of privatenonprofit facilities for the purpose of carrying out the provisions of this subsection.
+&emsp;Making contributions to State or local governments or owners or operators of private nonprofit facilities for the purpose of carrying out the provisions of this subsection.
 
 #### (b) Federal share
 
@@ -76,17 +76,41 @@ The Federal share of assistance under this section shall be not less than 75 per
 
 #### (A) Department of Defense
 
-&emsp;&emsp;The term “Department of Defense” has the meaning the term “department” has under section 101 of title 10.
+&emsp;&emsp;The term "Department of Defense" has the meaning the term "department" has under section 101 of title 10.
 
 #### (B) Emergency work
 
-&emsp;&emsp;The term “emergency work” includes clearance and removal of debris and wreckage and temporary restoration of essential public facilities and services.
+&emsp;&emsp;The term "emergency work" includes clearance and removal of debris and wreckage and temporary restoration of essential public facilities and services.
 
-(Pub. L. 93–288, title IV, §403, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4697; amended Pub. L. 109–295, title VI, §689(b), Oct. 4, 2006, 120 Stat. 1449; Pub. L. 109–308, §4, Oct. 6, 2006, 120 Stat. 1726.)
+#### (d) Salaries and benefits
+
+#### (1) In general
+
+&emsp;If the President declares a major disaster or emergency for an area within the jurisdiction of a State, tribal, or local government, the President may reimburse the State, tribal, or local government for costs relating to—
+
+&emsp;&emsp;(A) basic pay and benefits for permanent employees of the State, tribal, or local government conducting emergency protective measures under this section, if—
+
+&emsp;&emsp;&emsp;(i) the work is not typically performed by the employees; and
+
+&emsp;&emsp;&emsp;(ii) the type of work may otherwise be carried out by contract or agreement with private organizations, firms, or individuals.; <sup>2</sup> or
+
+&emsp;&emsp;(B) overtime and hazardous duty compensation for permanent employees of the State, tribal, or local government conducting emergency protective measures under this section.
+
+#### (2) Overtime
+
+&emsp;The guidelines for reimbursement for costs under paragraph (1) shall ensure that no State, tribal, or local government is denied reimbursement for overtime payments that are required pursuant to the Fair Labor Standards Act of 1938 (29 U.S.C. 201 et seq.).
+
+#### (3) No effect on mutual aid pacts
+
+&emsp;Nothing in this subsection shall affect the ability of the President to reimburse labor force expenses provided pursuant to an authorized mutual aid pact.
+
+(Pub. L. 93–288, title IV, §403, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4697; amended Pub. L. 109–295, title VI, §689(b), Oct. 4, 2006, 120 Stat. 1449; Pub. L. 109–308, §4,Oct. 6, 2006, 120 Stat. 1726; Pub. L. 113–2, div. B, §1108(b), Jan. 29, 2013, 127 Stat. 47.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (c)(1), (3), (5), was in the original “this Act”, meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) and (c)(1), (3), (5), was in the original "this Act", meaning Pub. L. 93–288, May 22, 1974, 88 Stat. 143. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
+
+The Fair Labor Standards Act of 1938, referred to in subsec. (d)(2), is act June 25, 1938, ch. 676, 52 Stat. 1060, which is classified generally to chapter 8 (§201 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see section 201 of Title 29 and Tables.
 
 #### Prior Provisions
 
@@ -94,9 +118,13 @@ A prior section 403 of Pub. L. 93–288 was renumbered section 407 by Pub. L. 10
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(2), (3)(B). Pub. L. 109–295, §689(b)(1), (2)(A), inserted “durable medical equipment,” after “medicine”.
+<b>2013</b>—Subsec. (d). Pub. L. 113–2 added subsec. (d).
+
+<b>2006</b>—Subsec. (a)(2), (3)(B). Pub. L. 109–295, §689(b)(1), (2)(A), inserted "durable medical equipment," after "medicine".
 
 Subsec. (a)(3)(J). Pub. L. 109–295, §689(b)(2)(B)–(D), and Pub. L. 109–308 amended par. (3) identically, adding subpar. (J).
 
-<i><sup>1</sup></i><i> So in original. The extra comma probably should follow “medicine”.</i>
+<i><sup>1</sup></i><i> So in original. The extra comma probably should follow "medicine".</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
 

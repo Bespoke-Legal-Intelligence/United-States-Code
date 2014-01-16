@@ -6,7 +6,7 @@ The Commission on Civil Rights shall (1) undertake a study of unreasonable discr
 
 #### (b) Public hearings
 
-As part of the study required by this section, the Commission shall conduct public hearings to elicit the views of interested parties, including Federal departments and agencies, on issues relating to age discrimination in programs and activities receiving Federal financial assistance, and particularly with respect to the reasonableness of distinguishing, on the basis of age, among potential participants in, or beneficiaries of, specific federally assisted programs.
+As part of the study required by this section, the Commission shall conduct public hearings toelicit the views of interested parties, including Federal departments and agencies, on issues relating to age discrimination in programs and activities receiving Federal financial assistance, and particularly with respect to the reasonableness of distinguishing, on the basis of age, among potential participants in, or beneficiaries of, specific federally assisted programs.
 
 #### (c) Publication of results of analyses, research and studies by independent experts; services of voluntary or uncompensated personnel
 
@@ -36,7 +36,7 @@ Section 105(b) of the Civil Rights Act of 1957, referred to in subsec. (c), is s
 
 #### Amendments
 
-<b>1977</b>—Subsec. (d). Pub. L. 95–65 substituted “two years” for “eighteen months” and authorized the Commission to provide information and technical assistance regarding its findings and recommendations to Congress, the President, and heads of Federal departments and agencies for a ninety-day period following the transmittal of its report.
+<b>1977</b>—Subsec. (d). Pub. L. 95–65 substituted "two years" for "eighteen months" and authorized the Commission to provide information and technical assistance regarding its findings and recommendations to Congress, the President, and heads of Federal departments and agencies for a ninety-day period following the transmittal of its report.
 
 #### Change of Name
 
@@ -44,5 +44,5 @@ Committee on Education and Labor of House of Representatives changed to Committe
 
 Committee on Labor and Human Resources of Senate changed to Committee on Health, Education, Labor, and Pensions of Senate by Senate Resolution No. 20, One Hundred Sixth Congress, Jan. 19, 1999. Previously, Committee on Human Resources of Senate changed to Committee on Labor and Human Resources of Senate effective Mar. 7, 1979, by Senate Resolution No. 30, 96th Congress. See Rule XXV of Standing Rules of Senate adopted Nov. 14, 1979.
 
-Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the “Committee System Reorganization Amendments of 1977”), approved Feb. 4, 1977.
+Committee on Labor and Public Welfare of Senate abolished and replaced by Committee on Human Resources of Senate, effective Feb. 11, 1977. See Rule XXV of Standing Rules of Senate, as amended by Senate Resolution No. 4 (popularly cited as the "Committee System Reorganization Amendments of 1977"), approved Feb. 4, 1977.
 

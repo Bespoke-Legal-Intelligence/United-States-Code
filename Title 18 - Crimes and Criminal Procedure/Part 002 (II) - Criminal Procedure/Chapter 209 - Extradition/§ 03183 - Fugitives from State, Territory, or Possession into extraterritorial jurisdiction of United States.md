@@ -24,5 +24,5 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–273 struck out “or the Panama Canal Zone,” after “possession of the United States” in first par.
+<b>2002</b>—Pub. L. 107–273 struck out "or the Panama Canal Zone," after "possession of the United States" in first par.
 

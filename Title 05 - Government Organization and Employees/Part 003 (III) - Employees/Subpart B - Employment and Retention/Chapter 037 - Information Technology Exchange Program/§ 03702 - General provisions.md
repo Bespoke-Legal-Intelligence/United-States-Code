@@ -54,7 +54,7 @@ The date of the enactment of this chapter, referred to in subsec. (d), is the da
 
 #### Pilot Program for the Temporary Assignment of Information Technology Personnel to Private Sector Organizations
 
-Pub. L. 111–84, div. A, title XI, §1110, Oct. 28, 2009, 123 Stat. 2493, provided that:
+Pub. L. 111–84, div. A, title XI, §1110, Oct. 28, 2009, 123 Stat. 2493, as amended by Pub. L. 113–66, div. A, title XI, §1106, Dec. 26, 2013, 127 Stat. 887, provided that:
 
 “(a)
 
@@ -88,7 +88,7 @@ Termination.—An assignment under this section may, at any time and for any rea
 
 “(d)
 
-Duration.—An assignment under this section shall be for a period of not less than 3 months and not more than 1 year, and may be extended in 3-month increments for a total of not more than 1 additional year; however, no assignment under this section may commence after September 30, 2013.
+Duration.—An assignment under this section shall be for a period of not less than 3 months and not more than 1 year, and may be extended in 3-month increments for a total of not more than 1 additional year; however, no assignment under this section may commence after September 30, 2018.
 
 “(e)
 
@@ -132,7 +132,7 @@ Numerical Limitation.—In no event may more than 10 employees be participating 
 
 “(i)
 
-Reporting Requirement.—For each of fiscal years 2010 through 2015, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], not later than 1 month after the end of the fiscal year involved, a report on any activities carried out under this section during such fiscal year, including information concerning—
+Reporting Requirement.—For each of fiscal years 2010 through 2019, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\], not later than 1 month after the end of the fiscal year involved, a report on any activities carried out under this section during such fiscal year, including information concerning—
 
 &emsp;“(1) the respective organizations (as referred to in subsection (a)) to and from which any employee was assigned under this section;
 

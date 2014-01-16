@@ -4,13 +4,13 @@
 
 (2)(A) A temporary restraining order may be issued under this section without written or oral notice to the adverse party or such party's attorney in a civil action under this section if the court finds, upon written certification of facts by the attorney for the Government, that such notice should not be required and that there is a reasonable probability that the Government will prevail on the merits.
 
-(B) A temporary restraining order issued without notice under this section shall be endorsed with the date and hour of issuance and be filed forthwith in the office of the clerk of the court issuing the order.
+(B) A temporary restraining order issued without notice under this section shall be endorsedwith the date and hour of issuance and be filed forthwith in the office of the clerk of the court issuing the order.
 
 (C) A temporary restraining order issued under this section shall expire at such time, not to exceed 14 days from issuance, as the court directs; the court, for good cause shown before expiration of such order, may extend the expiration date of the order for up to 14 days or for such longer period agreed to by the adverse party.
 
 (D) When a temporary restraining order is issued without notice, the motion for a protective order shall be set down for hearing at the earliest possible time and takes precedence over all matters except older matters of the same character, and when such motion comes on for hearing, if the attorney for the Government does not proceed with the application for a protective order, the court shall dissolve the temporary restraining order.
 
-(E) If on two days notice to the attorney for the Government, excluding intermediate weekends and holidays, or on such shorter notice as the court may prescribe, the adverse party appears and moves to dissolve or modify the temporary restraining order, the court shall proceedto hear and determine such motion as expeditiously as the ends of justice require.
+(E) If on two days notice to the attorney for the Government, excluding intermediate weekends and holidays, or on such shorter notice as the court may prescribe, the adverse party appears and moves to dissolve or modify the temporary restraining order, the court shall proceed to hear and determine such motion as expeditiously as the ends of justice require.
 
 (F) A temporary restraining order shall set forth the reasons for the issuance of such order, be specific in terms, and describe in reasonable detail (and not by reference to the complaint or other document) the act or acts being restrained.
 
@@ -28,47 +28,47 @@
 
 (d)(1) As used in this section—
 
-&emsp;(A) the term “course of conduct” means a series of acts over a period of time, however short, indicating a continuity of purpose;
+&emsp;(A) the term "course of conduct" means a series of acts over a period of time, however short, indicating a continuity of purpose;
 
-&emsp;(B) the term “harassment” means a serious act or course of conduct directed at a specific person that—
+&emsp;(B) the term "harassment" means a serious act or course of conduct directed at a specific person that—
 
 &emsp;&emsp;(i) causes substantial emotional distress in such person; and
 
 &emsp;&emsp;(ii) serves no legitimate purpose;
 
-&emsp;(C) the term “immediate family member” has the meaning given that term in section 115 and includes grandchildren;
+&emsp;(C) the term "immediate family member" has the meaning given that term in section 115 and includes grandchildren;
 
-&emsp;(D) the term “intimidation” means a serious act or course of conduct directed at a specific person that—
+&emsp;(D) the term "intimidation" means a serious act or course of conduct directed at a specific person that—
 
 &emsp;&emsp;(i) causes fear or apprehension in such person; and
 
 &emsp;&emsp;(ii) serves no legitimate purpose;
 
-&emsp;(E) the term “restricted personal information” has the meaning give <sup>1</sup> that term in section 119;
+&emsp;(E) the term "restricted personal information" has the meaning give <sup>1</sup> that term in section 119;
 
-&emsp;(F) the term “serious act” means a single act of threatening, retaliatory, harassing, or violent conduct that is reasonably likely to influence the willingness of a victim or witness to testify or participate in a Federal criminal case or investigation; and
+&emsp;(F) the term "serious act" means a single act of threatening, retaliatory, harassing, or violent conduct that is reasonably likely to influence the willingness of a victim or witness to testify or participate in a Federal criminal case or investigation; and
 
-&emsp;(G) the term “specific person” means a victim or witness in a Federal criminal case or investigation, and includes an immediate family member of such a victim or witness.
+&emsp;(G) the term "specific person" means a victim or witness in a Federal criminal case or investigation, and includes an immediate family member of such a victim or witness.
 
 (2) For purposes of subparagraphs (B)(ii) and (D)(ii) of paragraph (1), a court shall presume, subject to rebuttal by the person, that the distribution or publication using the Internet of a photograph of, or restricted personal information regarding, a specific person serves no legitimate purpose, unless that use is authorized by that specific person, is for news reporting purposes, is designed to locate that specific person (who has been reported to law enforcement as a missing person), or is part of a government-authorized effort to locate a fugitive or person of interest in a criminal, antiterrorism, or national security investigation.
 
-(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1250; amended Pub. L. 111–16, §3(2), (3), May 7, 2009, 123 Stat. 1607; Pub. L. 112–206, §3(a), Dec. 7, 2012, 126 Stat. 1490.)
+(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1250; amended Pub. L. 111–16, §3(2), (3), May 7,2009, 123 Stat. 1607; Pub. L. 112–206, §3(a), Dec. 7, 2012, 126 Stat. 1490.)
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(1). Pub. L. 112–206, §3(a)(1)(A), inserted “or its own motion,” after “attorney for the Government,” and inserted “or investigation” after “Federal criminal case” in two places.
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–206, §3(a)(1)(A), inserted "or its own motion," after "attorney for the Government," and inserted "or investigation" after "Federal criminal case" in two places.
 
 Subsec. (b)(2), (3). Pub. L. 112–206, §3(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
 
-Subsec. (b)(4). Pub. L. 112–206, §3(a)(1)(B), (D), redesignated par. (3) as (4) and struck out “(and not by reference to the complaint or other document)” after “describe in reasonable detail”. Former par. (4) redesignated (5).
+Subsec. (b)(4). Pub. L. 112–206, §3(a)(1)(B), (D), redesignated par. (3) as (4) and struck out "(and not by reference to the complaint or other document)" after "describe in reasonable detail". Former par. (4) redesignated (5).
 
-Subsec. (b)(5). Pub. L. 112–206, §3(a)(1)(B), (E), redesignated par. (4) as (5) and inserted “, except that in the case of a minor victim or witness, the court may order that such protective order expires on the later of 3 years after the date of issuance or the date of the eighteenth birthday of that minor victim or witness” before period at end of second sentence.
+Subsec. (b)(5). Pub. L. 112–206, §3(a)(1)(B), (E), redesignated par. (4) as (5) and inserted ", except that in the case of a minor victim or witness, the court may order that such protective order expires on the later of 3 years after the date of issuance or the date of the eighteenth birthday of that minor victim or witness" before period at end of second sentence.
 
-Subsecs. (c), (d). Pub. L. 112–206, §3(a)(2), added subsecs. (c) and (d) and struck out former subsec. (c) which defined “harassment” and “course of conduct”.
+Subsecs. (c), (d). Pub. L. 112–206, §3(a)(2), added subsecs. (c) and (d) and struck out former subsec. (c) which defined "harassment" and "course of conduct".
 
-<b>2009</b>—Subsec. (a)(2)(C). Pub. L. 111–16, §3(2), substituted “14 days” for “10 days” in two places.
+<b>2009</b>—Subsec. (a)(2)(C). Pub. L. 111–16, §3(2), substituted "14 days" for "10 days" in two places.
 
-Subsec. (a)(2)(E). Pub. L. 111–16, §3(3), inserted “, excluding intermediate weekends and holidays,” after “the Government”.
+Subsec. (a)(2)(E). Pub. L. 111–16, §3(3), inserted ", excluding intermediate weekends and holidays," after "the Government".
 
 #### Effective Date of 2009 Amendment
 
@@ -78,5 +78,5 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 Section effective Oct. 12, 1982, see section 9(a) of Pub. L. 97–291, set out as a note under section 1512 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “given”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "given".</i>
 

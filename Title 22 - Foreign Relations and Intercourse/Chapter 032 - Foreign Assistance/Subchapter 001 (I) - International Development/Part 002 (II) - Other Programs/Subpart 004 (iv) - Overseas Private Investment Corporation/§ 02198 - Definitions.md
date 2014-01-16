@@ -2,19 +2,19 @@
 
 As used in this subpart—
 
-&emsp;(a) the term “investment” includes any contribution or commitment of funds, commodities, services, patents, processes, or techniques, in the form of (1) a loan or loans to an approved project, (2) the purchase of a share of ownership in any such project, (3) participation in royalties, earnings, or profits of any such project, and (4) the furnishing of commodities or services pursuant to a lease or other contract;
+&emsp;(a) the term "investment" includes any contribution or commitment of funds, commodities, services, patents, processes, or techniques, in the form of (1) a loan or loans to an approved project, (2) the purchase of a share of ownership in any such project, (3) participation in royalties, earnings, or profits of any such project, and (4) the furnishing of commodities or services pursuant to a lease or other contract;
 
-&emsp;(b) the term “expropriation” includes, but is not limited to, any abrogation, repudiation, or impairment by a foreign government, a political subdivision of a foreign government, or a corporation owned or controlled by a foreign government, of its own contract with an investor with respect to a project, where such abrogation, repudiation, or impairment is not caused by the investor's own fault or misconduct, and materially adversely affects the continued operation of the project;
+&emsp;(b) the term "expropriation" includes, but is not limited to, any abrogation, repudiation, or impairment by a foreign government, a political subdivision of a foreign government, or a corporation owned or controlled by a foreign government, of its own contract with an investor with respect to a project, where such abrogation, repudiation, or impairment is notcaused by the investor's own fault or misconduct, and materially adversely affects the continued operation of the project;
 
-&emsp;(c) the term “eligible investor” means: (1) United States citizens; (2) corporations, partnerships, or other associations including nonprofit associations, created under the laws of the United States, any State or territory thereof, or the District of Columbia, and substantially beneficially owned by United States citizens; and (3) foreign corporations, partnerships, of other associations wholly owned by one or more such United States citizens, corporations, partnerships, or other associations: <i>Provided, however</i>, That the eligibility of such foreign corporation shall be determined without regard to any shares, in aggregate less than 5 per centum of the total of issued and subscribed share capital, held by other than the United States owners: <i>Provided further</i>, That in the case of any loan investment a final determination of eligibility may be made at the time the insurance or guaranty is issued; in all other cases, the investor must be eligible at the time a claim arises as well as at the time the insurance or guaranty is issued;
+&emsp;(c) the term "eligible investor" means: (1) United States citizens; (2) corporations, partnerships, or other associations including nonprofit associations, created under the laws of the United States, any State or territory thereof, or the District of Columbia, and substantially beneficially owned by United States citizens; and (3) foreign corporations, partnerships, of other associations wholly owned by one or more such United States citizens, corporations, partnerships, or other associations: <i>Provided, however</i>, That the eligibility of such foreign corporation shall be determined without regard to any shares, in aggregate less than 5 per centum of the total of issued and subscribed share capital, held by other than the United States owners: <i>Provided further</i>, That in the case of any loan investment a final determination of eligibility may be made at the time the insurance or guaranty is issued; in all other cases, the investor must be eligible at the time a claim arises as well as at the time the insurance or guaranty is issued;
 
-&emsp;(d) the term “noncredit account revolving fund” means the account in which funds under section 2196 of this title and all funds from noncredit activities are held;
+&emsp;(d) the term "noncredit account revolving fund" means the account in which funds under section 2196 of this title and all funds from noncredit activities are held;
 
-&emsp;(e) the term “noncredit activities” means all activities of the Corporation other than its loan guarantee program under section 2194(b) of this title and its direct loan program under section 2194(c) of this title;
+&emsp;(e) the term "noncredit activities" means all activities of the Corporation other than its loan guarantee program under section 2194(b) of this title and its direct loan program under section 2194(c) of this title;
 
-&emsp;(f) the term “predecessor guaranty authority” means prior guaranty authorities (other than housing guaranty authorities) repealed by the Foreign Assistance Act of 1969, and sections 1509(b)(3), 1872(b), and 1933(b) <sup>1</sup> of this title (exclusive of authority relating to informational media guaranties); and
+&emsp;(f) the term "predecessor guaranty authority" means prior guaranty authorities (other than housing guaranty authorities) repealed by the Foreign Assistance Act of 1969, and sections 1509(b)(3), 1872(b), and 1933(b) <sup>1</sup> of this title (exclusive of authority relating to informational media guaranties); and
 
-&emsp;(g) the term “local financial institution”—
+&emsp;(g) the term "local financial institution"—
 
 &emsp;&emsp;(1) means any bank or financial institution that is organized under the laws of any country or area in which the Corporation operates; but
 
@@ -32,19 +32,19 @@ Sections 1872(b) and 1933(b) of this title, referred to in subsec. (f), were rep
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–158, §4(b), inserted “, a political subdivision of a foreign government, or a corporation owned or controlled by a foreign government,” after “government”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–158, §4(b), inserted ", a political subdivision of a foreign government, or a corporation owned or controlled by a foreign government," after "government".
 
-Subsec. (d). Pub. L. 108–158, §5(b)(1), struck out “and” after semicolon at end.
+Subsec. (d). Pub. L. 108–158, §5(b)(1), struck out "and" after semicolon at end.
 
 Subsec. (g). Pub. L. 108–158, §5(b)(2), (3), added subsec. (g).
 
-<b>1992</b>—Subsecs. (c) to (f). Pub. L. 102–549 struck out “and” at end of subsec. (c), added subsecs. (d) and (e), and redesignated former subsec. (d) as (f).
+<b>1992</b>—Subsecs. (c) to (f). Pub. L. 102–549 struck out "and" at end of subsec. (c), added subsecs. (d) and (e), and redesignated former subsec. (d) as (f).
 
 <b>1985</b>—Subsec. (c)(2). Pub. L. 99–204 inserted reference to the District of Columbia.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–65 substituted “contribution or commitment of funds” for “contribution of funds”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–65 substituted "contribution or commitment of funds" for "contribution of funds".
 
-<b>1972</b>—Subsec. (c). Pub. L. 92–226 struck out “required by law to be” after “share capital,” in first proviso.
+<b>1972</b>—Subsec. (c). Pub. L. 92–226 struck out "required by law to be" after "share capital," in first proviso.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

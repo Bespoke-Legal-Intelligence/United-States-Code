@@ -28,7 +28,7 @@ Section 10502 requires the master on a vessel engaged on a coastwise voyage to s
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–206, §413(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Before proceeding on a voyage, themaster of a vessel to which this chapter applies shall make a shipping articles agreement in writing with each seaman on board, declaring the nature of the voyage or the period of time for which the seaman is engaged.”
+<b>1993</b>—Subsec. (a). Pub. L. 103–206, §413(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Before proceeding on a voyage, themaster of a vessel to which this chapter applies shall make a shipping articles agreement in writing with each seaman on board, declaring the nature of the voyage or the period of time for which the seaman is engaged."
 
 Subsecs. (d) to (f). Pub. L. 103–206, §413(2), added subsecs. (d) to (f).
 

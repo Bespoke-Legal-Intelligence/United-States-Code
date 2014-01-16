@@ -56,7 +56,7 @@ In this section, the term “global nuclear detection architecture” means the 
 
 #### References in Text
 
-Section 1036 of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec.\(a)(1)(C)(i), is section 1036 of Pub. L. 111–84, Oct. 28, 2009, 123 Stat. 2190, which is not classified to the Code. For complete classification of this Act to the Code, see Tables.
+Section 1036 of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (a)(1)(C)(i), is section 1036 of Pub. L. 111–84, Oct. 28, 2009, 123 Stat. 2190, which is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

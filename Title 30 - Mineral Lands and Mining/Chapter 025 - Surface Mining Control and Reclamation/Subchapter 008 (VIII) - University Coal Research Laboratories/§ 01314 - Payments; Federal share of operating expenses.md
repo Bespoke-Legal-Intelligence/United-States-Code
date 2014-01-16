@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–617 substituted “Secretary of Energy” for “Administrator” wherever appearing.
+<b>1978</b>—Subsec. (a). Pub. L. 95–617 substituted "Secretary of Energy" for "Administrator" wherever appearing.
 

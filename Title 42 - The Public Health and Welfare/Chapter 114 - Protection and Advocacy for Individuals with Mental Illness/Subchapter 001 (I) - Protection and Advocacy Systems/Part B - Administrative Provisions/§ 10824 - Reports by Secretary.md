@@ -34,7 +34,7 @@
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–402 substituted “section 15005 of this title” for “section 6006(c) of this title” in introductory provisions.
+<b>2000</b>—Subsec. (a). Pub. L. 106–402 substituted "section 15005 of this title" for "section 6006(c) of this title" in introductory provisions.
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–173 substituted “individuals with mental illness” for “mentally ill individuals” wherever appearing.
+<b>1991</b>—Subsec. (a). Pub. L. 102–173 substituted "individuals with mental illness" for "mentally ill individuals" wherever appearing.
 

@@ -54,15 +54,15 @@ Sept. 11, 1950, ch. 945, §§3, 4(c) (1st sentence), 5, 64 Stat. 830, 831.
 
 In subsection (a), the 16th through the 31st words are omitted as executed on July 1, 1955, the end of the 5-year period.
 
-In subsection (a)(2), the words “to the extent required” are omitted as covered by the word “necessary”. The words “use jointly by units of two or more of the reserve components of the armed forces” are substituted for the words “joint utilization of such facilities” to reflect 50:886(d).
+In subsection (a)(2), the words "to the extent required" are omitted as covered by the word "necessary". The words "use jointly by units of two or more of the reserve components of the armed forces" are substituted for the words "joint utilization of such facilities" to reflect 50:886(d).
 
-In subsections (a)(2) and (3), the words “Territory, Puerto Rico, or the District of Columbia” are inserted to reflect 50:886(b).
+In subsections (a)(2) and (3), the words "Territory, Puerto Rico, or the District of Columbia" are inserted to reflect 50:886(b).
 
-In subsection (a)(3), the words “to be required” are substituted for the words “to have been made essential”.
+In subsection (a)(3), the words "to be required" are substituted for the words "to have been made essential".
 
-In subsection (b), the words “real or personal” are omitted as surplusage.
+In subsection (b), the words "real or personal" are omitted as surplusage.
 
-In subsection (c), the words “all or \* \* \* part”, “conferred”, “imposed”, “without relieving himself of the responsibility therefor”, “or officers”, and “as he may designate from time to time” are omitted as surplusage.
+In subsection (c), the words "all or \* \* \* part", "conferred", "imposed", "without relieving himself of theresponsibility therefor", "or officers", and "as he may designate from time to time" are omitted as surplusage.
 
 1958
 
@@ -90,7 +90,7 @@ Aug. 9, 1955, ch. 662, §1(b), (d), 69 Stat. 593.
 
 Aug. 3, 1956, ch. 939, §414 (less last 12 words), 70 Stat. 1018.
 
-In subsections (a)(2), (3), and (4), the words “Territory, Puerto Rico, or the District of Columbia” are inserted to reflect 50:886(c).
+In subsections (a)(2), (3), and (4), the words "Territory, Puerto Rico, or the District of Columbia" are inserted to reflect 50:886(c).
 
 In subsection (d), 50:882(a) (1st 28 words) is omitted as covered by section 2233(a)(1) of this title.
 
@@ -100,39 +100,39 @@ Subsequent to enactment of this section, act Sept. 11, 1950 (cited in the Histor
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(1). Pub. L. 111–84 substituted “as are authorized by law” for “as he determines to be necessary”.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–84 substituted "as are authorized by law" for "as he determines to be necessary".
 
-<b>2006</b>—Subsec. (f)(2). Pub. L. 109–364 struck out comma after “purchase”.
+<b>2006</b>—Subsec. (f)(2). Pub. L. 109–364 struck out comma after "purchase".
 
-<b>2004</b>—Subsec. (f)(2). Pub. L. 108–375 substituted “or gift” for “gift, exchange of Government-owned land, or otherwise”.
+<b>2004</b>—Subsec. (f)(2). Pub. L. 108–375 substituted "or gift" for "gift, exchange of Government-owned land, or otherwise".
 
-<b>1999</b>—Subsec. (f)(1). Pub. L. 106–65 inserted “design,” after “planning,”.
+<b>1999</b>—Subsec. (f)(1). Pub. L. 106–65 inserted "design," after "planning,".
 
 <b>1994</b>—Pub. L. 103–337, §1664(b)(2), renumbered section 2233 of this title as this section.
 
-Subsec. (a). Pub. L. 103–337, §1664(b)(4), substituted “18233a, 18234, 18235, 18236, and 18238” for “2233a, 2234, 2235, 2236, and 2238”.
+Subsec. (a). Pub. L. 103–337, §1664(b)(4), substituted "18233a, 18234, 18235, 18236, and 18238" for "2233a, 2234, 2235, 2236, and 2238".
 
-<b>1991</b>—Subsec. (a)(2). Pub. L. 102–190 inserted before semicolon “or to acquire or construct facilities for such use”.
+<b>1991</b>—Subsec. (a)(2). Pub. L. 102–190 inserted before semicolon "or to acquire or construct facilities for such use".
 
-<b>1985</b>—Subsec. (e). Pub. L. 99–167 amended subsec. (e) generally, inserting “, or contribute to any State such amounts as the Secretary determines to be necessary to procure,”.
+<b>1985</b>—Subsec. (e). Pub. L. 99–167 amended subsec. (e) generally, inserting ", or contribute to any State such amounts as the Secretary determines to be necessary to procure,".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–525, §1405(34)(A), substituted “to subsection (c)” for “subsection (c) of this section”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–525, §1405(34)(A), substituted "to subsection (c)" for "subsection (c) of this section".
 
-Subsec. (a)(6). Pub. L. 98–407 substituted “critical portions of facilities” for “arms storage rooms” and “construction criteria or standards related to the execution of the Federal military mission assigned to the unit using the facility” for “standards related to the safekeeping of arms”.
+Subsec. (a)(6). Pub. L. 98–407 substituted "critical portions of facilities" for "arms storage rooms" and "construction criteria or standards related to the execution of the Federal military mission assigned to the unit using the facility" for "standards related to the safekeeping of arms".
 
-Subsec. (b). Pub. L. 98–525, §1405(34)(B), struck out “or Territory, Puerto Rico, or the District of Columbia” after “State” in two places. See section 18232(1) of this title.
+Subsec. (b). Pub. L. 98–525, §1405(34)(B), struck out "or Territory, Puerto Rico, or the District of Columbia" after "State" in two places. See section 18232(1) of this title.
 
-<b>1982</b>—Subsec. (a)(2) to (4). Pub. L. 97–214, §3(d)(2), struck out “or Territory, Puerto Rico, or the District of Columbia” after “contribute to any State”.
+<b>1982</b>—Subsec. (a)(2) to (4). Pub. L. 97–214, §3(d)(2), struck out "or Territory, Puerto Rico, or the District of Columbia" after "contribute to any State".
 
-Subsec. (a)(5). Pub. L. 97–214, §3(e)(1), substituted “contribute to any State amounts for the acquisition, construction, expansion, rehabilitation, and conversion by such State of such additional facilities as the Secretary determines to be required because of the failure of existing facilities to meet the purposes of this chapter” for “contribute to any State or Territory, Puerto Rico, or the District of Columbia, such amounts for the acquisition, construction, expansion, rehabilitation, or conversion by the failure of existing facilities to meet the purposes of this chapter” and “A contribution made for an armory may not be more than 75 percent of the cost of construction of which it is applied”.
+Subsec. (a)(5). Pub. L. 97–214, §3(e)(1), substituted "contribute to any State amounts for the acquisition, construction, expansion, rehabilitation, and conversion by such State of such additional facilities as the Secretary determines to be required because of the failure of existing facilities to meet the purposes of this chapter" for "contribute to any State or Territory, Puerto Rico, or the District of Columbia, such amounts for the acquisition, construction, expansion, rehabilitation, or conversion by the failure of existing facilities to meet the purposes of this chapter" and "A contribution made for an armory may not be more than 75 percent of the cost of construction of which it is applied".
 
-Subsec. (a)(6). Pub. L. 97–214, §3(d)(2), struck out “or Territory, Puerto Rico, or the District of Columbia” after “contribute to any State”.
+Subsec. (a)(6). Pub. L. 97–214, §3(d)(2), struck out "or Territory, Puerto Rico, or the District of Columbia" after "contribute to any State".
 
-Subsec. (e). Pub. L. 97–214, §10(a)(2), substituted “architectural and engineering services and construction design” for “advance planning, construction design, and architectural services”.
+Subsec. (e). Pub. L. 97–214, §10(a)(2), substituted "architectural and engineering services and construction design" for "advance planning, construction design, and architectural services".
 
-Subsec. (f). Pub. L. 97–214, §3(a), expanded subsec. (f) into pars. (1) and (2), and substituted provision that legal authority to construct, expand, rehabilitate, etc., any facility under this section, also includes the authority to expend funds for surveys, administration, overhead, planning, and supervision incident to any such activity and provisions that authority to acquire real property under this section includes authority to make surveys and to acquire interests in land (including temporary interests) by purchase, gift, exchange of Government-owned land, or otherwise, for provisions that facilities authorized by subsec. (a) could not be considered “military public works” under the military construction authorization acts that repeal prior authorizations for military public works.
+Subsec. (f). Pub. L. 97–214, §3(a), expanded subsec. (f) into pars. (1) and (2), and substituted provision that legal authority to construct, expand, rehabilitate, etc., any facility under this section, also includes the authority to expend funds for surveys, administration, overhead, planning, and supervision incident to any such activity and provisions that authority to acquire real property under this section includes authority to make surveys and to acquire interests in land (including temporary interests) by purchase, gift, exchange of Government-owned land, or otherwise, for provisions that facilities authorized by subsec. (a) could not be considered "military public works" under the military construction authorization acts that repeal prior authorizations for military public works.
 
-<b>1981</b>—Subsec. (a)(2). Pub. L. 97–99, §803(1), inserted “or by the United States” after “or convert facilities owned by it”.
+<b>1981</b>—Subsec. (a)(2). Pub. L. 97–99, §803(1), inserted "or by the United States" after "or convert facilities owned by it".
 
 Subsec. (a)(6). Pub. L. 97–99, §804, added par. (6).
 
@@ -140,11 +140,11 @@ Subsec. (b). Pub. L. 97–99, §803(2), inserted provisions that such property m
 
 <b>1979</b>—Subsec. (a)(5). Pub. L. 96–125 added par. (5).
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–861, §1(37), substituted “two or more reserve components” for “two or more of the reserve components” in cl. (2), added cl. (3), and redesignated former cl. (3) as (4).
+<b>1958</b>—Subsec. (a). Pub. L. 85–861, §1(37), substituted "two or more reserve components" for "two or more of the reserve components" in cl. (2), added cl. (3), and redesignated former cl. (3) as (4).
 
 Pub. L. 85–685, §601(1), inserted reference to section 2233a of this title in opening provisions, and struck out provisions which required the Secretary of Defense to consult with the Committees on Armed Services of the Senate and House of Representatives.
 
-Subsec. (b). Pub. L. 85–861, §1(38), inserted “by the United States” after “property acquired”.
+Subsec. (b). Pub. L. 85–861, §1(38), inserted "by the United States" after "property acquired".
 
 Subsec. (d). Pub. L. 85–861, §1(39), added subsec. (d).
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–407, title VII, §703(b), Aug. 28, 1984, 98 Stat. 1517, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1984.”
+Pub. L. 98–407, title VII, §703(b), Aug. 28, 1984, 98 Stat. 1517, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 1984."
 
 #### Effective Date of 1982 Amendment
 
@@ -164,5 +164,5 @@ Amendment by Pub. L. 97–214 effective Oct. 1, 1982, and applicable to military
 
 #### Obligation of Funds Before July 1, 1958
 
-Section 16 of Pub. L. 85–861, Sept. 2, 1958, 72 Stat. 1558, provided that not more than $580,000,000 could be obligated for the purposes of this section before July 1, 1958, but with such limitation not applicable to the expenses for the leasing of property under subsec. (a)(1) of this section.
+Section 16 of Pub. L. 85–861, Sept. 2, 1958, 72 Stat. 1558, provided that not more than $580,000,000 could be obligated for the purposes of this section before July 1,1958, but with such limitation not applicable to the expenses for the leasing of property under subsec. (a)(1) of this section.
 

@@ -14,5 +14,5 @@ Section was not enacted as part of the Soil Bank Act which comprised this chapte
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–127 substituted “environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985” for “Agricultural Conservation Program”.
+<b>1996</b>—Pub. L. 104–127 substituted "environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985" for "Agricultural Conservation Program".
 

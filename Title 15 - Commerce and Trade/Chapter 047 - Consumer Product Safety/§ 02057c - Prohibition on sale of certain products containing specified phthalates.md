@@ -24,7 +24,7 @@ Beginning on the date that is 180 days after August 14, 2008, it shall be unlawf
 
 &emsp;&emsp;&emsp;(ii) consider the potential health effects of each of these phthalates both in isolation and in combination with other phthalates;
 
-&emsp;&emsp;&emsp;(iii) examine the likely levels of children's, pregnant women's, and others’ exposure to phthalates, based on a reasonable estimation of normal and foreseeable use and abuse of such products;
+&emsp;&emsp;&emsp;(iii) examine the likely levels of children's, pregnant women's, and others' exposure to phthalates, based on a reasonable estimation of normal and foreseeable use and abuse of such products;
 
 &emsp;&emsp;&emsp;(iv) consider the cumulative effect of total exposure to phthalates, both from children's products and from other sources, such as personal care products;
 
@@ -44,7 +44,7 @@ Beginning on the date that is 180 days after August 14, 2008, it shall be unlawf
 
 #### (3) Permanent prohibition by rule
 
-&emsp;Not later than 180 days after receiving the report of the panel under paragraph (2)(C), theCommission shall, pursuant to section 553 of title 5, promulgate a final rule to—
+&emsp;Not later than 180 days after receiving the report of the panel under paragraph (2)(C), the Commission shall, pursuant to section 553 of title 5, promulgate a final rule to—
 
 &emsp;&emsp;(A) determine, based on such report, whether to continue in effect the prohibition under paragraph (1), in order to ensure a reasonable certainty of no harm to children, pregnant women, or other susceptible individuals with an adequate margin of safety; and
 
@@ -90,13 +90,13 @@ Subsections (a) and (b)(1) and any rule promulgated under subsection (b)(3) shal
 
 &emsp;As used in this section:
 
-&emsp;&emsp;(A) The term “phthalate alternative” means any common substitute to a phthalate, alternative material to a phthalate, or alternative plasticizer.
+&emsp;&emsp;(A) The term "phthalate alternative" means any common substitute to a phthalate, alternative material to a phthalate, or alternative plasticizer.
 
-&emsp;&emsp;(B) The term “children's toy” means a consumer product designed or intended by the manufacturer for a child 12 years of age or younger for use by the child when the child plays.
+&emsp;&emsp;(B) The term "children's toy" means a consumer product designed or intended by the manufacturer for a child 12 years of age or younger for use by the child when the child plays.
 
-&emsp;&emsp;(C) The term “child care article” means a consumer product designed or intended by the manufacturer to facilitate sleep or the feeding of children age 3 and younger, or to help such children with sucking or teething.
+&emsp;&emsp;(C) The term "child care article" means a consumer product designed or intended by the manufacturer to facilitate sleep or the feeding of children age 3 and younger, or to help such children with sucking or teething.
 
-&emsp;&emsp;(D) The term “consumer product” has the meaning given such term in section 3(a)(1) of the Consumer Product Safety Act (15 U.S.C. 2052(a)(1)).
+&emsp;&emsp;(D) The term "consumer product" has the meaning given such term in section 3(a)(1) of the Consumer Product Safety Act (15 U.S.C. 2052(a)(1)).
 
 #### (2) Determination guidelines
 
@@ -120,7 +120,7 @@ Subsections (a) and (b)(1) and any rule promulgated under subsection (b)(3) shal
 
 #### References in Text
 
-August 12, 2011, referred to in subsec. (c), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 112–28, which enacted subsec. (c), to reflect the probable intent of Congress.
+August 12, 2011, referred to in subsec. (c), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 112–28, which enacted subsec. (c), to reflect the probable intent of Congress.
 
 The Consumer Product Safety Act, referred to in subsec. (f), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
 
@@ -134,7 +134,7 @@ Section was enacted as part of the Consumer Product Safety Improvement Act of 20
 
 #### Definition
 
-For definition of “Commission” used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
+For definition of "Commission" used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

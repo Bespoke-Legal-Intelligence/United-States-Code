@@ -10,7 +10,7 @@ Congress finds that—
 
 &emsp;(3) the lack of employment policies to accommodate working parents can force individuals to choose between job security and parenting;
 
-&emsp;(4) there is inadequate job security for employees who have serious health conditionsthat prevent them from working for temporary periods;
+&emsp;(4) there is inadequate job security for employees who have serious health conditions that prevent them from working for temporary periods;
 
 &emsp;(5) due to the nature of the roles of men and women in our society, the primary responsibility for family caretaking often falls on women, and such responsibility affects the working lives of women more than it affects the working lives of men; and
 
@@ -40,31 +40,31 @@ This Act, referred to in subsec. (b), is Pub. L. 103–3, Feb. 5, 1993, 107 Stat
 
 Pub. L. 103–3, title IV, §405, Feb. 5, 1993, 107 Stat. 26, provided that:
 
-“(a)
+"(a)
 
 Title III.—Title III \[enacting subchapter II of this chapter\] shall take effect on the date of the enactment of this Act \[Feb. 5, 1993\].
 
-“(b)
+"(b)
 
 Other Titles.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Except as provided in paragraph (2), titles I, II, and V and this title \[enacting subchapters I and III of this chapter, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, and amending section 2105 of Title 5\] shall take effect 6 months after the date of the enactment of this Act.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Collective bargaining agreements.—In the case of a collective bargaining agreement in effect on the effective date prescribed by paragraph (1), title I \[enacting subchapter I of this chapter\] shall apply on the earlier of—
 
-&emsp;&emsp;“(A) the date of the termination of such agreement; or
+&emsp;&emsp;"(A) the date of the termination of such agreement; or
 
-&emsp;&emsp;“(B) the date that occurs 12 months after the date of the enactment of this Act.”
+&emsp;&emsp;"(B) the date that occurs 12 months after the date of the enactment of this Act."
 
 #### Short Title of 2009 Amendment
 
-Pub. L. 111–119, §1, Dec. 21, 2009, 123 Stat. 3476, provided that: “This Act \[amending sections 2611 and 2612 of this title\] may be cited as the ‘Airline Flight Crew Technical Corrections Act’.”
+Pub. L. 111–119, §1, Dec. 21, 2009, 123 Stat. 3476, provided that: "This Act \[amending sections 2611 and 2612 of this title\] may be cited as the 'Airline Flight Crew Technical Corrections Act'."
 
 #### Short Title
 
-Pub. L. 103–3, §1(a), Feb. 5, 1993, 107 Stat. 6, provided that: “This Act \[enacting this chapter, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amending section 2105 of Title 5, and enacting provisions set out above\] may be cited as the ‘Family and Medical Leave Act of 1993’.”
+Pub. L. 103–3, §1(a), Feb. 5, 1993, 107 Stat. 6, provided that: "This Act \[enacting this chapter, sections 60m and 60n of Title 2, The Congress, and sections 6381 to 6387 of Title 5, Government Organization and Employees, amending section 2105 of Title 5, and enacting provisions set out above\] may be cited as the 'Family and Medical Leave Act of 1993'."
 

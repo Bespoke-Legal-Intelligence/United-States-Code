@@ -32,7 +32,7 @@ The Secretary shall establish a regional innovation program to encourage and sup
 
 #### (3) Eligible recipient defined
 
-&emsp;In this subsection, the term “eligible recipient” means—
+&emsp;In this subsection, the term "eligible recipient" means—
 
 &emsp;&emsp;(A) a State;
 
@@ -262,7 +262,7 @@ The Secretary shall establish a regional innovation program to encourage and sup
 
 #### (1) In general
 
-&emsp;To the maximum extent practicable, the Secretary shall ensure that the activities carried out under this section are coordinatedwith, and do not duplicate the efforts of, other programs at the Department of Commerce or other Federal agencies.
+&emsp;To the maximum extent practicable, the Secretary shall ensure that the activities carried out under this section are coordinated with, and do not duplicate the efforts of, other programs at the Department of Commerce or other Federal agencies.
 
 #### (2) Collaboration
 
@@ -296,7 +296,7 @@ In this section:
 
 #### (1) Regional innovation cluster
 
-&emsp;The term “regional innovation cluster” means a geographically bounded network of similar, synergistic, or complementary entities that—
+&emsp;The term "regional innovation cluster" means a geographically bounded network of similar, synergistic, or complementary entities that—
 
 &emsp;&emsp;(A) are engaged in or with a particular industry sector;
 
@@ -308,7 +308,7 @@ In this section:
 
 #### (2) Science park
 
-&emsp;The term “Science <sup>1</sup> park” means a property-based venture, which has—
+&emsp;The term "Science <sup>1</sup> park" means a property-based venture, which has—
 
 &emsp;&emsp;(A) master-planned property and buildings designed primarily for private-public research and development activities, high technology and science-based companies, and research and development support services;
 
@@ -322,7 +322,7 @@ In this section:
 
 #### (3) State
 
-&emsp;The term “State” means one of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
+&emsp;The term "State" means one of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
 
 #### (i) Authorization of appropriations
 

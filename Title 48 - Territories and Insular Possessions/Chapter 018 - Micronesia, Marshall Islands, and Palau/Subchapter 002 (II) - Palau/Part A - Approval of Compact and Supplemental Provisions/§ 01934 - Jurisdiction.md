@@ -14,7 +14,7 @@ The defense sites of the United States established in Palau in accordance with t
 
 (2) The District Court of Guam shall have jurisdiction to try all criminal offenses against the United States, including the laws of Guam made applicable to the defense sites in Palau by virtue of subsection (c)(1) of this section, committed by any person referred to in subsection (a) of this section.
 
-(3) The District Court of Guam may appoint one or more magistrate judges for the defense sites in Palau. Such Magistrate Judges shall have the power and the status of Magistrate Judges appointed pursuant to chapter 43, title 28: Provided however, That such Magistrate Judges shall have the power to try persons accused of, and sentence persons convicted of, petty offenses, as defined in section 1(3),<sup>1</sup> title 18, including violations of regulations for themaintenance of peace, order, and health issued by the Commanding Officer on such defense sites, without being subject to the restrictions provided for in section 3401(b), title 18.
+(3) The District Court of Guam may appoint one or more magistrate judges for the defense sites in Palau. Such Magistrate Judges shall have the power and the status of Magistrate Judges appointed pursuant to chapter 43, title 28: Provided however, That such Magistrate Judges shall have the power to try persons accused of, and sentence persons convicted of, petty offenses, as defined in section 1(3),<sup>1</sup> title 18, including violations of regulations for the maintenance of peace, order, and health issued by the Commanding Officer on such defense sites, without being subject to the restrictions provided for in section 3401(b), title 18.
 
 (Pub. L. 99–658, title II, §202, Nov. 14, 1986, 100 Stat. 3704; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
@@ -32,7 +32,7 @@ Section was enacted as part of title II of Pub. L. 99–658, not as part of titl
 
 #### Change of Name
 
-Words “magistrate judges” and “Magistrate Judges” substituted for “magistrates” and “Magistrates”, respectively, wherever appearing in subsec. (c)(3) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words "magistrate judges" and "Magistrate Judges" substituted for "magistrates" and "Magistrates", respectively, wherever appearing in subsec. (c)(3) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

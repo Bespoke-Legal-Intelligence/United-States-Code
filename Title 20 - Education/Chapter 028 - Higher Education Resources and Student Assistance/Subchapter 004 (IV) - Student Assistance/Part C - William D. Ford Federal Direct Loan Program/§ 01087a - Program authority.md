@@ -8,11 +8,11 @@ There are hereby made available, in accordance with the provisions of this part,
 
 #### (1) Program
 
-&emsp;The program established under this part shall be referred to as the “William D. Ford Federal Direct Loan Program”.
+&emsp;The program established under this part shall be referred to as the "William D. Ford Federal Direct Loan Program".
 
 #### (2) Direct loans
 
-&emsp;Notwithstanding any other provision of this part, loans made to borrowers under this part that, except as otherwise specified in this part, have the same terms, conditions, and benefits as loans made to borrowers under section 1078 of this title, shall be known as “Federal Direct Stafford/Ford Loans”.
+&emsp;Notwithstanding any other provision of this part, loans made to borrowers under this part that, except as otherwise specified in this part, have the same terms, conditions, and benefits as loans made to borrowers under section 1078 of this title, shall be known as "Federal Direct Stafford/Ford Loans".
 
 (Pub. L. 89–329, title IV, §451, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1437; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 341; Pub. L. 103–382, title III, §358A, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 110–227, §7(a), May 7, 2008, 122 Stat. 746.)
 
@@ -22,13 +22,13 @@ A prior section 1087a, Pub. L. 89–329, title IV, §451, as added Pub. L. 90–
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–227, in first sentence, inserted “(1)” before “to make loans” and “; and (2) for purchasing loans under section 1087i–1 of this title” before period at end and, in second sentence, substituted “Loans made under this part shall” for “Such loans shall”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–227, in first sentence, inserted "(1)" before "to make loans" and "; and (2) for purchasing loans under section 1087i–1 of this title" before period at end and, in second sentence, substituted "Loans made under this part shall" for "Such loans shall".
 
 <b>1994</b>—Pub. L. 103–382 designated existing provisions as subsec. (a), added heading, and added subsec. (b).
 
 <b>1993</b>—Pub. L. 103–66 amended section generally, substituting provisions relating to program authority for former provisions relating to program and payment authority.
 
-<b>1992</b>—Pub. L. 102–325 amended section generally, substituting provisions relating to program and paymentauthority for Federal direct loan demonstration program for former provisions relating to statement of purpose of income contingent direct loan demonstration project.
+<b>1992</b>—Pub. L. 102–325 amended section generally, substituting provisions relating to program and payment authority for Federal direct loan demonstration program for former provisions relating to statement of purpose of income contingent direct loan demonstration project.
 
 #### Effective Date of 1992 Amendment
 
@@ -38,17 +38,17 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 Pub. L. 102–325, title IV, §452, July 23, 1992, 106 Stat. 575, provided that:
 
-“(a)
+"(a)
 
 In General.—After September 30, 1992, and not later than March 31, 1992, the capital balance of the student loan fund established under part D of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1087a et seq.\] (as such Act was in effect on the date of enactment of this Act \[July 23, 1992\]) shall be distributed by allowing institutions to transfer any remaining funds, including future collections and all other funds at the institution's discretion, to such institution's part E \[20 U.S.C. 1087aa et seq.\] account, part C \[42 U.S.C. 2751 et seq.\] fund, or subpart 3 of part A \[20 U.S.C. 1070b et seq.\] fund under the terms and conditions of the appropriate program.
 
-“(b)
+"(b)
 
 Conversion of Existing Loans.—Institutions may, after July 1, 1992, convert all outstanding loans made under part D of title IV of the Higher Education Act of 1965 \[20 U.S.C. 1087a et seq.\] (as such Act was in effect on such date) to part E \[20 U.S.C. 1087aa et seq.\] loans, provided that such institution—
 
-&emsp;“(1) notify the borrower of such conversion;
+&emsp;"(1) notify the borrower of such conversion;
 
-&emsp;“(2) obtain a signed part E promissory note from the borrower for the remaining amount outstanding; and
+&emsp;"(2) obtain a signed part E promissory note from the borrower for the remaining amount outstanding; and
 
-&emsp;“(3) provide the borrower in writing with a description of all terms and conditions of the new loan.”
+&emsp;"(3) provide the borrower in writing with a description of all terms and conditions of the new loan."
 

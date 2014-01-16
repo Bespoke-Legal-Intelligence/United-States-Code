@@ -6,5 +6,5 @@ The Secretary in carrying out his responsibility to regulate the descent and dis
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–462 substituted “subsections (a) and (b) of section 2205” for “section 2205”.
+<b>2000</b>—Pub. L. 106–462 substituted "subsections (a) and (b) of section 2205" for "section 2205".
 

@@ -26,5 +26,5 @@ In making grants, loans, and loan guarantees under subsection (a) of this sectio
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–461 inserted “(including public international organizations)” after “public group”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–461 inserted "(including public international organizations)" after "public group".
 

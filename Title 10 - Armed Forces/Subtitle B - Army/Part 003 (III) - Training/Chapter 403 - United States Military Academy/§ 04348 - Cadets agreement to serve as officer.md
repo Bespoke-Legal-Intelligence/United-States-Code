@@ -18,7 +18,7 @@
 
 &emsp;(4) That if an appointment described in paragraph (2) or (3) is tendered and the cadet participates in a program under section 2121 of this title, the cadet will fulfill any unserved obligation incurred under this section on active duty, regardless of the type of appointment held, upon completion of, and in addition to, any service obligation incurred under section 2123 of this title for participation in such program.
 
-(b)(1) The Secretary of the Army may transfer to the Army Reserve, and may order to activeduty for such period of time as the Secretary prescribes (but not to exceed four years), a cadet who breaches an agreement under subsection (a). The period of time for which a cadet is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
+(b)(1) The Secretary of the Army may transfer to the Army Reserve, and may order to active duty for such period of time as the Secretary prescribes (but not to exceed four years), a cadet who breaches an agreement under subsection (a). The period of time for which a cadet is ordered to active duty under this paragraph may be determined without regard to section 651(a) of this title.
 
 (2) A cadet who is transferred to the Army Reserve under paragraph (1) shall be transferred in an appropriate enlisted grade or rating, as determined by the Secretary.
 
@@ -32,7 +32,7 @@
 
 &emsp;(3) standards for determining the period of time for which a person may be ordered to serve on active duty under subsection (b).
 
-(d) In this section, the term “commissioned service obligation”, with respect to an officer who is a graduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
+(d) In this section, the term "commissioned service obligation", with respect to an officer who is a graduate of the Academy, means the period beginning on the date of the officer's appointment as a commissioned officer and ending on the sixth anniversary of such appointment or, at the discretion of the Secretary of Defense, any later date up to the eighth anniversary of such appointment.
 
 (e)(1) This section does not apply to a cadet who is not a citizen or national of the United States.
 
@@ -56,47 +56,47 @@ Historical and Revision Notes
 
 June 30, 1950, ch. 421, §3, 64 Stat. 304.
 
-The word “agreement” is substituted for the word “articles”. The words “Hereafter”, “appointed to the United States Military Academy”, “engage”, and 10:1092c (1st 25 words of clause (2)) are omitted as surplusage. The word “separated” is substituted for the words “discharged by competent authority”. The words “if he is permitted to resign” are substituted for the words “in the event of the acceptance of his resignation”, since a resignation is effective only when accepted. The first 31 words of clause (3) are substituted for 10:1092c (last 29 words of clause (3)). The last sentence is substituted for the words “with the consent of his parents or guardian if he be a minor, and if any he have”.
+The word "agreement" is substituted for the word "articles". The words "Hereafter", "appointed to the United States Military Academy", "engage", and 10:1092c (1st 25 words of clause (2)) are omitted as surplusage. The word "separated" is substituted for the words "discharged by competent authority". The words "if he is permitted to resign" are substituted for the words "in the event of the acceptance of his resignation", since a resignation is effective only when accepted. The first 31 words of clause (3) are substituted for 10:1092c (last 29 words of clause (3)). The last sentence is substituted for the words "with the consent of his parents or guardian if he be a minor, and if any he have".
 
 #### Amendments
 
 <b>2011</b>—Subsec. (a)(4). Pub. L. 111–383 added par. (4).
 
-<b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted “subsection (a)” for “section (a)”.
+<b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted "subsection (a)" for "section (a)".
 
 <b>2006</b>—Subsec. (f). Pub. L. 109–163 added subsec. (f).
 
-<b>1996</b>—Subsec. (a)(2)(B). Pub. L. 104–106 substituted “five years” for “six years”.
+<b>1996</b>—Subsec. (a)(2)(B). Pub. L. 104–106 substituted "five years" for "six years".
 
-<b>1989</b>—Subsec. (a)(2)(B). Pub. L. 101–189, §511(b), substituted “six years” for “five years”.
+<b>1989</b>—Subsec. (a)(2)(B). Pub. L. 101–189, §511(b), substituted "six years" for "five years".
 
-Subsec. (d). Pub. L. 101–189, §1622(e)(5), inserted “the term” after “In this section,”.
+Subsec. (d). Pub. L. 101–189, §1622(e)(5), inserted "the term" after "In this section,".
 
 <b>1985</b>—Pub. L. 99–145 amended section generally. Prior to amendment, section read as follows:
 
-“(a) Each cadet who is a citizen or national of the United States shall sign an agreement that he will—
+"(a) Each cadet who is a citizen or national of the United States shall sign an agreement that he will—
 
-&emsp;“(1) unless sooner separated from the Academy, complete the course of instruction at the Academy;
+&emsp;"(1) unless sooner separated from the Academy, complete the course of instruction at the Academy;
 
-&emsp;“(2) accept an appointment and, unless sooner separated from the service, serve as a commissioned officer of the Regular Army or the Regular Air Force for at least the five years immediately after graduation; and
+&emsp;"(2) accept an appointment and, unless sooner separated from the service, serve as a commissioned officer of the Regular Army or the Regular Air Force for at least the five years immediately after graduation; and
 
-&emsp;“(3) accept an appointment as a commissioned officer as a Reserve for service in the Army Reserve or the Air Force Reserve and, unless sooner separated from the service, remain therein until at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary of his graduation, if an appointment in the regular component of that armed force is not tendered to him, or if he is permitted to resign as a commissioned officer of that component before that anniversary.
+&emsp;"(3) accept an appointment as a commissioned officer as a Reserve for service in the Army Reserve or the Air Force Reserve and, unless sooner separated from the service, remain therein until at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary of his graduation, if an appointment in the regular component of that armed force is not tendered to him, or if he is permitted to resign as a commissioned officer of that component before that anniversary.
 
 > If the cadet is a minor and has parents or a guardian, he may sign the agreement only with the consent of the parents or guardian.
 
-“(b) A cadet who does not fulfill his agreement under subsection (a) may be transferred by the Secretary of the Army to the Army Reserve in an appropriate enlisted grade and, notwithstanding section 651 of this title, may be ordered to active duty to serve in that grade for such period of time as the Secretary prescribes but not for more than four years.”
+"(b) A cadet who does not fulfill his agreement under subsection (a) may be transferred by the Secretary of the Army to the Army Reserve in an appropriate enlisted grade and, notwithstanding section 651 of this title, may be ordered to active duty to serve in that grade for such period of time as the Secretary prescribes but not for more than four years."
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–525, §541(a), struck out “, unless sooner separated,” in introductory text before “he will”; inserted in cl. (1) “unless sooner separated from the Academy,”; and inserted “, unless sooner separated from the service,” in cls. (2) and (3).
+<b>1984</b>—Subsec. (a). Pub. L. 98–525, §541(a), struck out ", unless sooner separated," in introductory text before "he will"; inserted in cl. (1) "unless sooner separated from the Academy,"; and inserted ", unless sooner separated from the service," in cls. (2) and (3).
 
-Subsec. (a)(3). Pub. L. 98–525, §524(b), substituted “at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary” for “the sixth anniversary”.
+Subsec. (a)(3). Pub. L. 98–525, §524(b), substituted "at least the sixth anniversary and, at the direction of the Secretary of Defense, up to the eighth anniversary" for "the sixth anniversary".
 
 <b>1964</b>—Pub. L. 88–647 designated existing provisions as subsec. (a) and added subsec. (b).
 
-Subsec. (a)(2). Pub. L. 88–276 substituted “five” for “three”.
+Subsec. (a)(2). Pub. L. 88–276 substituted "five" for "three".
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–106, div. A, title V, §531(e), Feb. 10, 1996, 110 Stat. 314, provided that: “The amendments made bythis section \[amending this section and sections 6959 and 9348 of this title\] apply to persons first admitted to the United States Military Academy, United States Naval Academy, and United States Air Force Academy after December 31, 1991.”
+Pub. L. 104–106, div. A, title V, §531(e), Feb. 10, 1996, 110 Stat. 314, provided that: "The amendments made by this section \[amending this section and sections 6959 and 9348 of this title\] apply to persons first admitted to the United States Military Academy, United States Naval Academy, and United States Air Force Academy after December 31, 1991."
 
 #### Effective Date of 1989 Amendment
 
@@ -104,23 +104,23 @@ Amendment by section 511(b) of Pub. L. 101–189 applicable to persons who are f
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–145, title V, §512(e), Nov. 8, 1985, 99 Stat. 626, provided that: “The amendments made by subsections (a), (b), and (c) \[amending this section and sections 6959 and 9348 of this title\] (other than with respect to the authority of the Secretary of a military department to prescribe regulations)—
+Pub. L. 99–145, title V, §512(e), Nov. 8, 1985, 99 Stat. 626, provided that: "The amendments made by subsections (a), (b), and (c) \[amending this section and sections 6959 and 9348 of this title\] (other than with respect to the authority of the Secretary of a military department to prescribe regulations)—
 
-&emsp;“(1) shall take effect with respect to each military department on the date on which regulations prescribed by the Secretary of that military department in accordance with subsection (d) \[set out below\] take effect; and
+&emsp;"(1) shall take effect with respect to each military department on the date on which regulations prescribed by the Secretary of that military department in accordance with subsection (d) \[set out below\] take effect; and
 
-&emsp;“(2) shall apply with respect to each agreement entered into under sections 4348, 6959, and 9348, respectively, of title 10, United States Code, that is entered into on or after the effective date of such regulations and shall apply with respect to each such agreement that was entered into before the effective date of such regulations by an individual who is a cadet or midshipman on such date.”
+&emsp;"(2) shall apply with respect to each agreement entered into under sections 4348, 6959, and 9348, respectively, of title 10, United States Code, that is entered into on or after the effective date of such regulations and shall apply with respect to each such agreement that was entered into before the effective date of such regulations by an individual who is a cadet or midshipman on such date."
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–525, title V, §541(d), Oct. 19, 1984, 98 Stat. 2529, provided that: “The amendments made by this section \[amending this section and sections 6959 and 9348 of this title\] shall apply with respect to agreements entered into under section 4348, 6959, or 9348 of title 10, United States Code, before, on, or after the date of the enactment of this Act \[Oct. 19, 1984\].”
+Pub. L. 98–525, title V, §541(d), Oct. 19, 1984, 98 Stat. 2529, provided that: "The amendments made by this section \[amending this section and sections 6959 and 9348 of this title\] shall apply with respect to agreements entered into under section 4348, 6959, or 9348 of title 10, United States Code, before, on, or after the date of the enactment of this Act \[Oct. 19, 1984\]."
 
 #### Effective Date of 1964 Amendment; Obligated Period of Service
 
-Pub. L. 88–276, §5(c), Mar. 3, 1964, 78 Stat. 153, provided that: “The amendments made by this section \[amending this section, sections 6959 and 9348 of this title, and section 182 of Title 14, Coast Guard\] shall apply only with respect to cadets and midshipmen appointed to the service academies and the Coast Guard Academy after the date of enactment of this Act \[Mar. 3, 1964\], and shall not affect the obligated period of service of any cadet or midshipman appointed to one of the service academies or the Coast Guard Academy on or before the date of enactment of this Act.”
+Pub. L. 88–276, §5(c), Mar. 3, 1964, 78 Stat. 153, provided that: "The amendments made by this section \[amending this section, sections 6959 and 9348 of this title, and section 182 of Title 14, Coast Guard\] shall apply only with respect to cadets and midshipmen appointed to the service academies and the Coast Guard Academy after the date of enactment of this Act \[Mar. 3, 1964\], and shall not affect the obligated period of service of any cadet or midshipman appointed to one of the service academies or the Coast Guard Academy on or before the date of enactment of this Act."
 
 #### Regulations Implementing 1985 Amendment
 
-Pub. L. 99–145, title V, §512(d), Nov. 8, 1985, 99 Stat. 626, provided that: “The Secretary of each military department shall prescribe the regulations required by section 4348(c), 6959(c), or 9348(c), as appropriate, of title 10, United States Code (as added by the amendments made by subsections (a), (b), and (c)) not later than the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 8, 1985\].”
+Pub. L. 99–145, title V, §512(d), Nov. 8, 1985, 99 Stat. 626, provided that: "The Secretary of each military department shall prescribe the regulations required by section 4348(c), 6959(c), or 9348(c), as appropriate, of title 10, United States Code (as added by the amendments made by subsections (a), (b), and (c)) not later than the end of the 90-day period beginning on the date of the enactment of this Act \[Nov. 8, 1985\]."
 
 #### Savings Provision
 
@@ -130,53 +130,53 @@ For savings provision relating to payment or repayment of any bonus, incentive p
 
 Pub. L. 109–364, div. A, title V, §533, Oct. 17, 2006, 120 Stat. 2206, provided that:
 
-“(a)
+"(a)
 
 Policy Required.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than July 1, 2007, the Secretary of Defense shall prescribe the policy of the Department of Defense on—
 
-&emsp;&emsp;“(A) whether to authorize graduates of the service academies and the Reserve Officers’ Training Corps to participate in professional sports before the completion of their obligations for service on active duty as commissioned officers; and
+&emsp;&emsp;"(A) whether to authorize graduates of the service academies and the Reserve Officers' Training Corps to participate in professional sports before the completion of their obligations for service on active duty as commissioned officers; and
 
-&emsp;&emsp;“(B) if so, the obligations for service on active duty as commissioned officers of such graduates who participate in professional sports before the satisfaction of the obligations referred to in subparagraph (A).
+&emsp;&emsp;"(B) if so, the obligations for service on active duty as commissioned officers of such graduates who participate in professional sports before the satisfaction of the obligations referred to in subparagraph (A).
 
-&emsp;“(2)
+&emsp;"(2)
 
-Review of current policies.—In prescribing the policy, the Secretary shall review current policies, practices, and regulations of the military departments on the obligations for service on active duty as commissioned officers of graduates of the service academies and the Reserve Officers’ Training Corps, including policies on authorized leaves of absence and policies under excess leave programs.
+Review of current policies.—In prescribing the policy, the Secretary shall review current policies, practices, and regulations of the military departments on the obligations for service on active duty as commissioned officers of graduates of the service academies and the Reserve Officers' Training Corps, including policies on authorized leaves of absence and policies under excess leave programs.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Considerations.—In prescribing the policy, the Secretary shall take into account the following:
 
-&emsp;&emsp;“(A) The compatibility of participation in professional sports (including training for professional sports) with service on active duty in the Armed Forces or as a member of a reserve component of the Armed Forces.
+&emsp;&emsp;"(A) The compatibility of participation in professional sports (including training for professional sports) with service on active duty in the Armed Forces or as a member of a reserve component of the Armed Forces.
 
-&emsp;&emsp;“(B) The benefits for the Armed Forces of waiving obligations for service on active duty for cadets, midshipmen, and commissioned officers in order to permit such individuals to participate in professional sports.
+&emsp;&emsp;"(B) The benefits for the Armed Forces of waiving obligations for service on active duty for cadets, midshipmen, and commissioned officers in order to permit such individuals to participate in professional sports.
 
-&emsp;&emsp;“(C) The manner in which the military departments have resolved issues relating to the participation of personnel in professional sports, including the extent of and any reasons for, differences in the resolution of such issues by such departments.
+&emsp;&emsp;"(C) The manner in which the military departments have resolved issues relating to the participation of personnel in professional sports, including the extent of and any reasons for, differences in the resolution of such issues by such departments.
 
-&emsp;&emsp;“(D) The recoupment of the costs of education provided by the service academies or under the Reserve Officers’ Training Corps program if graduates of the service academies or the Reserve Officers’ Training Corps, as the case may be, do not complete the period of obligated service to which they have agreed by reason of participation in professional sports.
+&emsp;&emsp;"(D) The recoupment of the costs of education provided by the service academies or under the Reserve Officers' Training Corps program if graduates of the service academies or the Reserve Officers' Training Corps, as the case may be, do not complete the period of obligated service to which they have agreed by reason of participation in professional sports.
 
-&emsp;&emsp;“(E) Any other matters that the Secretary considers appropriate.
+&emsp;&emsp;"(E) Any other matters that the Secretary considers appropriate.
 
-“(b)
+"(b)
 
 Elements of Policy.—The policy prescribed under subsection (a) shall address the following matters:
 
-&emsp;“(1) The eligibility of graduates of the service academies and the Reserve Officers’ Training Corps for a reduction in the obligated length of service on active duty as a commissioned officer otherwise required of such graduates on the basis of their participation in professional sports.
+&emsp;"(1) The eligibility of graduates of the service academies and the Reserve Officers' Training Corps for a reduction in the obligated length of service on active duty as a commissioned officer otherwise required of such graduates on the basis of their participation in professional sports.
 
-&emsp;“(2) Criteria for the treatment of an individual as a participant or potential participant in professional sports.
+&emsp;"(2) Criteria for the treatment of an individual as a participant or potential participant in professional sports.
 
-&emsp;“(3) The effect on obligations for service on active duty as a commissioned officer of any unsatisfied obligations under prior enlistment contracts or other forms of advanced education assistance.
+&emsp;"(3) The effect on obligations for service on active duty as a commissioned officer of any unsatisfied obligations under prior enlistment contracts or other forms of advanced education assistance.
 
-&emsp;“(4) Any authorized variations in the policy that are warranted by the distinctive requirements of a particular Armed Force.
+&emsp;"(4) Any authorized variations in the policy that are warranted by the distinctive requirements of a particular Armed Force.
 
-&emsp;“(5) The eligibility of individuals for medical discharge or disability benefits as a result of injuries incurred while participating in professional sports.
+&emsp;"(5) The eligibility of individuals for medical discharge or disability benefits as a result of injuries incurred while participating in professional sports.
 
-&emsp;“(6) A prospective effective date for the policy and for the application of the policy to individuals serving on such effective date as a commissioned officer, cadet, or midshipman.
+&emsp;"(6) A prospective effective date for the policy and for the application of the policy to individuals serving on such effective date as a commissioned officer, cadet, or midshipman.
 
-“(c)
+"(c)
 
-Application of Policy to Armed Forces.—Not later than December 1, 2007, the Secretary of each military department shall prescribe regulations, or modify current regulations, in order to implement the policy prescribed by the Secretary of Defense under subsection (a) with respect to the Armed Forces under the jurisdiction of such Secretary.”
+Application of Policy to Armed Forces.—Not later than December 1, 2007, the Secretary of each military department shall prescribe regulations, or modify current regulations, in order to implement the policy prescribed by the Secretary of Defense under subsection (a) with respect to the Armed Forces under the jurisdiction of such Secretary."
 

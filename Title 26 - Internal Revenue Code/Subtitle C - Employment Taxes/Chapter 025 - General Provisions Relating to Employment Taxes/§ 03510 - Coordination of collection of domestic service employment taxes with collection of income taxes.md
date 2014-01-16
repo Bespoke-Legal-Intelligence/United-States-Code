@@ -34,13 +34,13 @@ Except as otherwise provided in this section—
 
 #### (c) Domestic service employment taxes
 
-For purposes of this section, the term “domestic service employment taxes” means—
+For purposes of this section, the term "domestic service employment taxes" means—
 
 &emsp;(1) any taxes imposed by chapter 21 or 23 on remuneration paid for domestic service in a private home of the employer, and
 
 &emsp;(2) any amount withheld from such remuneration pursuant to an agreement under section 3402(p).
 
-> For purposes of this subsection, the term “domestic service in a private home of the employer” includes domestic service described in section 3121(g)(5).
+> For purposes of this subsection, the term "domestic service in a private home of the employer" includes domestic service described in section 3121(g)(5).
 
 #### (d) Exception where employer liable for other employment taxes
 
@@ -48,7 +48,7 @@ To the extent provided in regulations prescribed by the Secretary, this section 
 
 #### (e) General regulatory authority
 
-The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section. Such regulations may treat domestic service employment taxes as taxes imposed by chapter 1 for purposes of coordinating the assessment and collection of such employment taxes with the assessment and collection of domestic employers’ income taxes.
+The Secretary shall prescribe such regulations as may be necessary or appropriate to carry out the purposes of this section. Such regulations may treat domestic service employment taxes as taxes imposed by chapter 1 for purposes of coordinating the assessment and collection of such employment taxes with the assessment and collection of domestic employers' income taxes.
 
 #### (f) Authority to enter into agreements to collect State unemployment taxes
 
@@ -66,7 +66,7 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### (4) State
 
-&emsp;For purposes of this subsection, the term “State” has the meaning given such term by section 3306(j)(1).
+&emsp;For purposes of this subsection, the term "State" has the meaning given such term by section 3306(j)(1).
 
 (Added Pub. L. 103–387, §2(b)(1), Oct. 22, 1994, 108 Stat. 4073.)
 
@@ -76,9 +76,9 @@ A prior section 3510, added Pub. L. 98–21, title I, §123(b)(1), Apr. 20, 1983
 
 #### Effective Date
 
-Pub. L. 103–387, §2(b)(3), Oct. 22, 1994, 108 Stat. 4074, provided that: “The amendments made by this subsection \[enacting this section\] shall apply to remuneration paid in calendar years beginning after December 31, 1994.”
+Pub. L. 103–387, §2(b)(3), Oct. 22, 1994, 108 Stat. 4074, provided that: "The amendments made by this subsection \[enacting this section\] shall apply to remuneration paid in calendar years beginning after December 31, 1994."
 
 #### Expanded Information to Employers
 
-Pub. L. 103–387, §2(b)(4), Oct. 22, 1994, 108 Stat. 4074, provided that: “The Secretary of the Treasury or the Secretary's delegate shall prepare and make available information on the Federal tax obligations of employers with respect to employees performing domestic service in a private home of the employer. Such information shall also include a statement that such employers may have obligations with respect to such employees under State laws relating to unemployment insurance and workers compensation.”
+Pub. L. 103–387, §2(b)(4), Oct. 22, 1994, 108 Stat. 4074, provided that: "The Secretary of the Treasury or the Secretary's delegate shall prepare and make available information on the Federal tax obligations of employers with respect to employees performing domesticservice in a private home of the employer. Such information shall also include a statement that such employers may have obligations with respect to such employees under State laws relating to unemployment insurance and workers compensation."
 

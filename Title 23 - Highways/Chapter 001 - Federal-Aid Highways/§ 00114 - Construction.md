@@ -22,7 +22,7 @@ Limitation on convict produced materials.—Materials produced after July 1, 199
 
 &emsp;(3)
 
-Qualified prison facility defined.—As used in this subsection, “qualified prison facility” means any prison facility in which convicts, during the 12-month period ending July 1, 1987, produced materials for use in construction of highways or portions of highways located on a Federal-aid system in existence during that period.
+Qualified prison facility defined.—As used in this subsection, "qualified prison facility" means any prison facility in which convicts, during the 12-month period ending July 1, 1987, produced materials for use in construction of highways or portions of highways located on a Federal-aid system in existence during that period.
 
 (c)
 
@@ -64,11 +64,11 @@ Definitions.—In this subsection, the following definitions apply:
 
 &emsp;&emsp;(A)
 
-Remote.—The term “remote”, as used with respect to a project, means that the project is 65 road miles or more from the international airport in Fairbanks, Anchorage, or Juneau, Alaska, as the case may be, or is inaccessible by road in a 2-wheel drive vehicle.
+Remote.—The term "remote", as used with respect to a project, means that the project is 65 road miles or more from the international airport in Fairbanks, Anchorage, or Juneau, Alaska, as the case may be, or is inaccessible by road in a 2-wheel drive vehicle.
 
 &emsp;&emsp;(B)
 
-Resident.—The term “resident”, as used with respect to a project, means a person living within 65 road miles of the midpoint of the project for at least 12 consecutive months prior to the award of the project.
+Resident.—The term "resident", as used with respect to a project, means a person living within 65 road miles of the midpoint of the project for at least 12 consecutive months prior to the award of the project.
 
 (d)
 
@@ -90,29 +90,29 @@ Administration.—This subsection shall not—
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(1). Pub. L. 112–141, §1506(1)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Convict labor shall not be used in construction of highways or portions of highways located on a Federal-aid system unless it is labor performed by convicts who are on parole, supervised release, or probation.”
+<b>2012</b>—Subsec. (b)(1). Pub. L. 112–141, §1506(1)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "Convict labor shall not be used in construction of highways or portions of highways located on a Federal-aid system unless it is labor performed by convicts who are on parole, supervised release, or probation."
 
-Subsec. (b)(3). Pub. L. 112–141, §1506(1)(B), inserted “in existence during that period” after “located on a Federal-aid system”.
+Subsec. (b)(3). Pub. L. 112–141, §1506(1)(B), inserted "in existence during that period" after "located on a Federal-aid system".
 
 Subsec. (d). Pub. L. 112–141, §1506(2), added subsec. (d).
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–59, §1904(b), substituted “Federal-aid highway or a portion of a Federal-aid highway” for “highways or portions of highways located on a Federal-aid system” and “The Secretary shall have the right to conduct such inspections and take such corrective action as the Secretary determines to be appropriate.” for “Except as provided in section 117 of this title, such construction shall be subject to the inspection and approval of the Secretary.”
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §1904(b), substituted "Federal-aid highway or a portion of a Federal-aid highway" for "highways or portions of highways located on a Federal-aid system" and "The Secretary shall have the right to conduct such inspections and take such corrective action as the Secretary determines to be appropriate." for "Except as provided in section 117 of this title, such construction shall be subject to the inspection and approval of the Secretary."
 
 Subsec. (c). Pub. L. 109–59, §1409(d), added subsec. (c).
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–178 substituted “State transportation department” for “State highway department” in two places and “State transportation departments” for “State highway departments”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–178 substituted "State transportation department" for "State highway department" in two places and "State transportation departments" for "State highway departments".
 
-<b>1991</b>—Subsec. (b)(2). Pub. L. 102–240, inserted “after July 1, 1991,” after “Materials produced” in introductory provisions.
+<b>1991</b>—Subsec. (b)(2). Pub. L. 102–240, inserted "after July 1, 1991," after "Materials produced" in introductory provisions.
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–17, §112(b)(1), inserted heading.
 
-Subsec. (b). Pub. L. 100–17, §112(b)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Convict labor or materials produced by convict labor shall not be used in such construction unless it is labor performed by convicts who are on parole or probation.”
+Subsec. (b). Pub. L. 100–17, §112(b)(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Convict labor or materials produced by convict labor shall not be used in such construction unless it is labor performed by convicts who are on parole or probation."
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–473 which directed the insertion of “, supervised release,” after “parole” effective Nov. 1, 1987, was not executed, because of intervening general amendment of subsec. (b) by Pub. L. 100–17, §112(a), which contained “, supervised release,” after “parole” wherever appearing.
+<b>1984</b>—Subsec. (b). Pub. L. 98–473 which directed the insertion of ", supervised release," after "parole" effective Nov. 1, 1987, was not executed, because of intervening general amendment of subsec. (b) by Pub. L. 100–17, §112(a), which contained ", supervised release," after "parole" wherever appearing.
 
-<b>1983</b>—Subsec. (b). Pub. L. 97–424 inserted “or materials produced by convict labor” after “Convict labor”.
+<b>1983</b>—Subsec. (b). Pub. L. 97–424 inserted "or materials produced by convict labor" after "Convict labor".
 
-<b>1973</b>—Subsec. (a). Pub. L. 93–87 amended last sentence generally. Prior to amendment, last sentence read as follows: “On any project where actual construction is in progress and visible to highway users, the State highway department shall erect such informational sign or signs as prescribed by the Secretary, identifying the project and the respective amounts contributed therefor by the State and Federal Governments.”
+<b>1973</b>—Subsec. (a). Pub. L. 93–87 amended last sentence generally. Prior to amendment, last sentence read as follows: "On any project where actual construction is in progress and visible to highway users, the State highway department shall erect such informational sign or signs as prescribed by the Secretary, identifying the project and the respective amounts contributed therefor by the State and Federal Governments."
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–657 required State highway departments to erect, on any project where actual construction is in progress and visible to highway users, such informational sign or signs as prescribed by the Secretary, identifying the project and the respective contributions therefor by the State and Federal Governments.
 
@@ -132,137 +132,137 @@ Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to off
 
 Pub. L. 109–59, title I, §1502, Aug. 10, 2005, 119 Stat. 1236, provided that:
 
-“(a)
+"(a)
 
 Establishment.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—The Secretary \[of Transportation\] shall establish and implement a pilot program to be known as the ‘Highways for LIFE Pilot Program’.
+In general.—The Secretary \[of Transportation\] shall establish and implement a pilot program to be known as the 'Highways for LIFE Pilot Program'.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Purpose.—The purpose of the pilot program shall be to advance longer-lasting highways using innovative technologies and practices to accomplish the fast construction of efficient and safe highways and bridges.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Objectives.—Under the pilot program, the Secretary shall provide leadership and incentives to demonstrate and promote state-of-the-art technologies, elevated performance standards, and new business practices in the highway construction process that result in improved safety, faster construction, reduced congestion from construction, and improved quality and user satisfaction.
 
-“(b)
+"(b)
 
 Projects.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Applications.—To be eligible to participate in the pilot program, a State shall submit to the Secretary \[of Transportation\] an application that is in such form and contains such information as the Secretary requires. Each application shall contain a description of proposed projects to be carried by the State under the pilot program.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Eligibility.—A proposed project shall be eligible for assistance under the pilot program if the project—
 
-&emsp;&emsp;“(A) constructs, reconstructs, or rehabilitates a route or connection on a Federal-aid highway eligible for assistance under chapter 1 of title 23, United States Code;
+&emsp;&emsp;"(A) constructs, reconstructs, or rehabilitates a route or connection on a Federal-aid highway eligible for assistance under chapter 1 of title 23, United States Code;
 
-&emsp;&emsp;“(B) uses innovative technologies, manufacturing processes, financing, or contracting methods that improve safety, reduce congestion due to construction, and improve quality; and
+&emsp;&emsp;"(B) uses innovative technologies, manufacturing processes, financing, or contracting methods that improve safety, reduce congestion due to construction, and improve quality; and
 
-&emsp;&emsp;“(C) meets additional criteria as determined by the Secretary.
+&emsp;&emsp;"(C) meets additional criteria as determined by the Secretary.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Project proposal.—A project proposal submitted under paragraph (1) shall contain—
 
-&emsp;&emsp;“(A) an identification and description of the projects to be delivered;
+&emsp;&emsp;"(A) an identification and description of the projects to be delivered;
 
-&emsp;&emsp;“(B) a description of how the projects will result in improved safety, faster construction, reduced congestion due to construction, user satisfaction, and improved quality;
+&emsp;&emsp;"(B) a description of how the projects will result in improved safety, faster construction, reduced congestion due to construction, user satisfaction, and improved quality;
 
-&emsp;&emsp;“(C) a description of the innovative technologies, manufacturing processes, financing, and contracting methods that will be used for the proposed projects; and
+&emsp;&emsp;"(C) a description of the innovative technologies, manufacturing processes, financing, and contracting methods that will be used for the proposed projects; and
 
-&emsp;&emsp;“(D) such other information as the Secretary may require.
+&emsp;&emsp;"(D) such other information as the Secretary may require.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Selection criteria.—In selecting projects for approval under this section, the Secretary shall ensure that the projects provide an evaluation of a broad range of technologies in a wide variety of project types and shall give priority to the projects that—
 
-&emsp;&emsp;“(A) address achieving the Highways for LIFE performance standards for quality, safety, and speed of construction;
+&emsp;&emsp;"(A) address achieving the Highways for LIFE performance standards for quality, safety, and speed of construction;
 
-&emsp;&emsp;“(B) deliver and deploy innovative technologies, manufacturing processes, financing, contracting practices, and performance measures that will demonstrate substantial improvements in safety, congestion, quality, and cost-effectiveness;
+&emsp;&emsp;"(B) deliver and deploy innovative technologies, manufacturing processes, financing, contracting practices, and performance measures that will demonstrate substantial improvements in safety, congestion, quality, and cost-effectiveness;
 
-&emsp;&emsp;“(C) include innovation that will lead to change in the administration of the State's transportation program to more quickly construct long-lasting, high-quality, cost-effective projects that improve safety and reduce congestion;
+&emsp;&emsp;"(C) include innovation that will lead to change in the administration of the State's transportation program to more quickly construct long-lasting, high-quality, cost-effective projects that improve safety and reduce congestion;
 
-&emsp;&emsp;“(D) are or will be ready for construction within 1 year of approval of the project proposal; and
+&emsp;&emsp;"(D) are or will be ready for construction within 1 year of approval of the project proposal; and
 
-&emsp;&emsp;“(E) meet such other criteria as the Secretary determines appropriate.
+&emsp;&emsp;"(E) meet such other criteria as the Secretary determines appropriate.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Financial assistance.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Funds for highways for life projects.—Out of amounts made available to carry out this section for a fiscal year, the Secretary may allocate to a State up to 20 percent, but not more than $5,000,000, of the total cost of a project approved under this section. Notwithstanding any other provision of law, funds allocated to a State under this subparagraph may be applied to the non-Federal share of the cost of construction of a project under title 23, United States Code.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Use of apportioned funds.—A State may obligate not more than 10 percent of the amount apportioned to the State under one or more of \[former\] paragraphs (1), (2), (3), and (4) of section 104(b) of title 23, United States Code, for a fiscal year for projects approved under this section.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Increased federal share.—Notwithstanding sections 120 and 129 of title 23, United States Code, the Federal share payable on account of any project constructed with Federal funds allocated under this section, or apportioned under \[former\] section 104(b) of such title, to a State under such title and approved under this section may amount to 100 percent of the cost of construction of such project.
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
 Limitation on statutory construction.—Except as provided in subparagraph (C), nothing in this subsection shall be construed as altering or otherwise affecting the applicability of the requirements of chapter 1 of title 23, United States Code (including requirements relating to the eligibility of a project for assistance under the program and the location of the project), to amounts apportioned to a State for a program under \[former\] section 104(b) that are obligated by the State for projects approved under this subsection.
 
-&emsp;“(6)
+&emsp;"(6)
 
 Project selections.—In the period of fiscal years 2005 through 2009, the Secretary, to the maximum extent possible, shall approve at least 1 project in each State for participation in the pilot program and for financial assistance under paragraph (5) if the State submits an application and the project meets the eligibility requirements and selection criteria under this subsection.
 
-&emsp;“(7)
+&emsp;"(7)
 
 Maximum number of projects.—The maximum number of projects for which the Secretary may allocate funds under this subsection in a fiscal year is 15.
 
-“(c)
+"(c)
 
 Technology Partnerships.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary \[of Transportation\] may make grants or enter into cooperative agreements or other transactions to foster the development, improvement, and creation of innovative technologies and facilities to improve safety, enhance the speed of highway construction, and improve the quality and durability of highways.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Federal share.—The Federal share of the cost of an activity carried out under this subsection shall not exceed 80 percent.
 
-“(d)
+"(d)
 
 Technology Transfer and Information Dissemination.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary \[of Transportation\] shall conduct a highways for life technology transfer program.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Availability of information.—The Secretary shall ensure that the information and technology used, developed, or deployed under this subsection is made available to the transportation community and the public.
 
-“(e)
+"(e)
 
 Stakeholder Input and Involvement.—The Secretary \[of Transportation\] shall establish a process for stakeholder input and involvement in the development, implementation, and evaluation of the Highways for LIFE Pilot Program. The process may include participation by representatives of State departments of transportation and other interested persons.
 
-“(f)
+"(f)
 
 Project Monitoring and Evaluation.—The Secretary \[of Transportation\] shall monitor and evaluate the effectiveness of any activity carried out under this section.
 
-“(g)
+"(g)
 
 Contract Authority.—Except as otherwise provided in this section, funds authorized to be appropriated to carry out this section shall be available for obligation in the same manner as if the funds were apportioned under chapter 1 of title 23, United States Code.
 
-“(h)
+"(h)
 
-State Defined.—In this section, the term ‘State’ has the meaning such term has in section 101(a) of title 23, United States Code.”
+State Defined.—In this section, the term 'State' has the meaning such term has in section 101(a) of title 23, United States Code."
 
 #### Materials Produced by Convict Labor
 
-Pub. L. 101–162, title II, §202, Nov. 21, 1989, 103 Stat. 1002, provided that: “During fiscal year 1990 and hereafter, materials produced by convict labor may be used in the construction of any highways or portion of highways located on Federal-aid systems, as described in section 103 of title 23, United States Code.”
+Pub. L. 101–162, title II, §202, Nov. 21, 1989, 103 Stat. 1002, provided that: "During fiscal year 1990 and hereafter, materials produced by convict labor may be used in the construction of any highways or portion of highways located on Federal-aid systems, as described in section 103 of title 23, United States Code."
 
 Similar fiscal year provisions were contained in the following appropriation acts:
 
@@ -280,5 +280,5 @@ Pub. L. 98–166, title II, §202, Nov. 28, 1983, 97 Stat. 1085.
 
 #### Acceleration of Projects
 
-Pub. L. 97–424, title I, §129, Jan. 6, 1983, 96 Stat. 2118, provided that: “The Secretary of Transportation shall by rule or regulation establish, as soon as practicable,alternative methods for processing projects under title 23, United States Code, so as to reduce the time required from the request for project approval through the completion of construction. In carrying out this section the Secretary shall utilize the knowledge and experience resulting from the demonstration project authorized by and carried out under section 141 of the Federal-Aid Highway Act of 1976 \[Pub. L. 94–280, title I, §141, May 5, 1976, 90 Stat. 444, formerly set out as a note under former section 124 of this title\].”
+Pub. L. 97–424, title I, §129, Jan. 6, 1983, 96 Stat. 2118, provided that: "The Secretary of Transportation shall by rule or regulation establish, as soon as practicable,alternative methods for processing projects under title 23, United States Code, so as to reduce the time required from the request for project approval through the completion of construction. In carrying out this section the Secretary shall utilize the knowledge and experience resulting from the demonstration project authorized by and carried out under section 141 of the Federal-Aid Highway Act of 1976 \[Pub. L. 94–280, title I, §141, May 5, 1976, 90 Stat. 444, formerly set out as a note under former section 124 of this title\]."
 

@@ -40,7 +40,7 @@ The Institute and its directors, officers, employees, and agents shall be subjec
 
 #### Amendments
 
-<b>2003</b>—Subsec. (g). Pub. L. 108–7 struck out “on or before December 31, 1970” after “political subdivision of the United States”.
+<b>2003</b>—Subsec. (g). Pub. L. 108–7 struck out "on or before December 31, 1970" after "political subdivision of the United States".
 
 #### Termination of Reporting Requirements
 

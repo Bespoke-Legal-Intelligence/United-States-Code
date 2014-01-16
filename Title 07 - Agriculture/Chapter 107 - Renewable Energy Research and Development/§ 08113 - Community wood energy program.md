@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Community wood energy plan
 
-&emsp;The term “community wood energy plan” means an assessment of—
+&emsp;The term "community wood energy plan" means an assessment of—
 
 &emsp;&emsp;(A) available feedstocks necessary to supply a community wood energy system; and
 
@@ -16,7 +16,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “community wood energy system” means an energy system that—
+&emsp;&emsp;The term "community wood energy system" means an energy system that—
 
 &emsp;&emsp;&emsp;(i) primarily services public facilities owned or operated by State or local governments, including schools, town halls, libraries, and other public buildings; and
 
@@ -24,13 +24,13 @@ In this section:
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “community wood energy system” includes single facility central heating, district heating, combined heat and energy systems, and other related biomass energy systems.
+&emsp;&emsp;The term "community wood energy system" includes single facility central heating, district heating, combined heat and energy systems, and other related biomass energy systems.
 
 #### (b) Grant program
 
 #### (1) In general
 
-&emsp;The Secretary, acting through the Chief of the Forest Service, shall establish a program to be known as the “Community Wood Energy Program” to provide—
+&emsp;The Secretary, acting through the Chief of the Forest Service, shall establish a program to be known as the "Community Wood Energy Program" to provide—
 
 &emsp;&emsp;(A) grants of up to $50,000 to State and local governments (or designees) to develop community wood energy plans; and
 
@@ -74,7 +74,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 #### Amendments
 
-<b>2013</b>—Subsec. (e). Pub. L. 112–240 substituted “2013” for “2012”.
+<b>2013</b>—Subsec. (e). Pub. L. 112–240 substituted "2013" for "2012".
 
 #### Effective Date of 2013 Amendment
 

@@ -4,7 +4,7 @@
 
 To achieve the conservation goals of a contract under the conservation stewardship program, the Secretary shall—
 
-&emsp;(1) make the program available to eligible producers on a continuous enrollment basis with 1 or more ranking periods, one of which shall occur in the first quarter of each fiscal year;
+&emsp;(1) make the program available to eligible producers on a continuous enrollment basis with 1 or more ranking periods, one of whichshall occur in the first quarter of each fiscal year;
 
 &emsp;(2) identify not less than 3 nor more than 5 priority resource concerns in a particular watershed or other appropriate region or area within a State; and
 
@@ -90,7 +90,7 @@ During the period beginning on October 1, 2008, and ending on September 30, 2017
 
 #### (4) Resource-conserving crop rotation
 
-&emsp;In this subsection, the term “resource-conserving crop rotation” means a crop rotation that—
+&emsp;In this subsection, the term "resource-conserving crop rotation" means a crop rotation that—
 
 &emsp;&emsp;(A) includes at least 1 resource conserving crop (as defined by the Secretary);
 

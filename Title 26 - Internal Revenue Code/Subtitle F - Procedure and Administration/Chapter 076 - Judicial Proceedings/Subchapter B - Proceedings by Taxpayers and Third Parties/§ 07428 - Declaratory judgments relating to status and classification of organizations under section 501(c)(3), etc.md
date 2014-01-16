@@ -62,7 +62,7 @@ In a case of actual controversy involving—
 
 &emsp;Paragraph (1) shall apply only—
 
-&emsp;&emsp;(A) with respect to individuals, and only to the extent that the aggregate of the contributions made by any individual to or for the use of the organization during the periodspecified in paragraph (1) does not exceed $1,000 (for this purpose treating a husband and wife as one contributor), and
+&emsp;&emsp;(A) with respect to individuals, and only to the extent that the aggregate of the contributions made by any individual to or for the use of the organization during the period specified in paragraph (1) does not exceed $1,000 (for this purpose treating a husband and wife as one contributor), and
 
 &emsp;&emsp;(B) with respect to organizations described in section 170(c)(2) which are exempt from tax under section 501(a) (for this purpose excluding any such organization with respect to which there is pending a proceeding to revoke the determination under section 170(c)(2)).
 
@@ -86,13 +86,13 @@ A prior section 7428 was renumbered 7437 of this title.
 
 <b>2004</b>—Subsec. (a)(1)(D). Pub. L. 108–357 added subpar. (D).
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court” in concluding provisions.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court" and "Court of Federal Claims" for "Claims Court" in concluding provisions.
 
-Subsecs. (b)(2), (c)(1)(C)(iii). Pub. L. 102–572, §902(b)(2), substituted “Court of Federal Claims” for “Claims Court”.
+Subsecs. (b)(2), (c)(1)(C)(iii). Pub. L. 102–572, §902(b)(2), substituted "Court of Federal Claims" for "Claims Court".
 
 <b>1984</b>—Subsec. (d). Pub. L. 98–369 added subsec. (d).
 
-<b>1982</b>—Subsecs. (a), (b)(2), (c)(1)(C)(iii). Pub. L. 97–164 substituted “Claims Court” for “Court of Claims”.
+<b>1982</b>—Subsecs. (a), (b)(2), (c)(1)(C)(iii). Pub. L. 97–164 substituted "Claims Court" for "Court of Claims".
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–600 inserted provision relating to change in qualification or classification.
 
@@ -102,7 +102,7 @@ Amendment by Pub. L. 109–280 applicable to notices and returns with respect to
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title III, §317(b), Oct. 22, 2004, 118 Stat. 1470, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to pleadings filed after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title III, §317(b), Oct. 22, 2004, 118 Stat. 1470, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to pleadings filed after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 1992 Amendment
 
@@ -122,5 +122,5 @@ Amendment by Pub. L. 95–600 effective as if included in this section at the ti
 
 #### Effective Date
 
-Pub. L. 94–455, title XIII, §1306(c), Oct. 4, 1976, 90 Stat. 1720, provided that: “The amendments made by this section \[enacting this section and amending sections 7451, 7459, 7470, and 7482 of this title, enacting section 1507 of Title 28, Judiciary and Judicial Procedure, and amending sections 1346 and 2201 of Title 28\] shall apply with respect to pleadings filed with the United States Tax Court, the district court of the United States for the District of Columbia, or the United States Court of Claims more than 6 months after the date of the enactment of this Act \[Oct. 4, 1976\] but only with respect to determinations (or requests for determinations) made after January 1, 1976.”
+Pub. L. 94–455, title XIII, §1306(c), Oct. 4, 1976, 90 Stat. 1720, provided that: "The amendments made by this section \[enacting this section and amending sections 7451, 7459, 7470, and 7482 of this title, enacting section 1507 of Title 28, Judiciary and Judicial Procedure, andamending sections 1346 and 2201 of Title 28\] shall apply with respect to pleadings filed with the United States Tax Court, the district court of the United States for the District of Columbia, or the United States Court of Claims more than 6 months after the date of the enactment of this Act \[Oct. 4, 1976\] but only with respect to determinations (or requests for determinations) made after January 1, 1976."
 

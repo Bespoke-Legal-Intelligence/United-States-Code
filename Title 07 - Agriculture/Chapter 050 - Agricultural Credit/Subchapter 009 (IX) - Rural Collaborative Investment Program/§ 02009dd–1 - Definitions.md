@@ -4,41 +4,41 @@ In this subchapter:
 
 #### (1) Benchmark
 
-&emsp;The term “benchmark” means an annual set of goals and performance measures established for the purpose of assessing performance in meeting a regional investment strategy of a Regional Board.
+&emsp;The term "benchmark" means an annual set of goals and performance measures established for the purpose of assessing performance in meeting a regional investment strategy of a Regional Board.
 
 #### (2) Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning given the term in section 450b of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 450b of title 25.
 
 #### (3) National Board
 
-&emsp;The term “National Board” means the National Rural Investment Board established under section 2009dd–2(c) of this title.
+&emsp;The term "National Board" means the National Rural Investment Board established under section 2009dd–2(c) of this title.
 
 #### (4) National Institute
 
-&emsp;The term “National Institute” means the National Institute on Regional Rural Competitiveness and Entrepreneurship established under section 2009dd–2(b)(2) of this title.
+&emsp;The term "National Institute" means the National Institute on Regional Rural Competitiveness and Entrepreneurship established under section 2009dd–2(b)(2) of this title.
 
 #### (5) Regional Board
 
-&emsp;The term “Regional Board” means a Regional Rural Investment Board described in section 2009dd–3(a) of this title.
+&emsp;The term "Regional Board" means a Regional Rural Investment Board described in section 2009dd–3(a) of this title.
 
 #### (6) Regional innovation grant
 
-&emsp;The term “regional innovation grant” means a grant made by the Secretary to a certified Regional Board under section 2009dd–5 of this title.
+&emsp;The term "regional innovation grant" means a grant made by the Secretary to a certified Regional Board under section 2009dd–5 of this title.
 
 #### (7) Regional investment strategy grant
 
-&emsp;The term “regional investment strategy grant” means a grant made by the Secretary to a certified Regional Board under section 2009dd–4 of this title.
+&emsp;The term "regional investment strategy grant" means a grant made by the Secretary to a certified Regional Board under section 2009dd–4 of this title.
 
 #### (8) Rural heritage
 
 #### (A) In general
 
-&emsp;&emsp;The term “rural heritage” means historic sites, structures, and districts.
+&emsp;&emsp;The term "rural heritage" means historic sites, structures, and districts.
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “rural heritage” includes historic rural downtown areas and main streets, neighborhoods, farmsteads, scenic and historic trails, heritage areas, and historic landscapes.
+&emsp;&emsp;The term "rural heritage" includes historic rural downtown areas and main streets, neighborhoods, farmsteads, scenic and historic trails, heritage areas, and historic landscapes.
 
 (Pub. L. 87–128, title III, §385B, as added Pub. L. 107–171, title VI, §6030, May 13, 2002, 116 Stat. 402; amended Pub. L. 110–234, title VI, §6028, May 22, 2008, 122 Stat. 1183; Pub. L. 110–246, §4(a), title VI, §6028, June 18, 2008, 122 Stat. 1664, 1945.)
 

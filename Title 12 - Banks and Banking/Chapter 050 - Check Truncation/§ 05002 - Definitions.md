@@ -4,11 +4,11 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (1) Account
 
-&emsp;The term “account” means a deposit account at a bank.
+&emsp;The term "account" means a deposit account at a bank.
 
 #### (2) Bank
 
-&emsp;The term “bank” means any person that is located in a State and engaged in the business of banking and includes—
+&emsp;The term "bank" means any person that is located in a State and engaged in the business of banking and includes—
 
 &emsp;&emsp;(A) any depository institution (as defined in section 461(b)(1)(A) of this title);
 
@@ -30,11 +30,11 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (A) Collecting bank
 
-&emsp;&emsp;The term “collecting bank” means any bank handling a check for collection except the paying bank.
+&emsp;&emsp;The term "collecting bank" means any bank handling a check for collection except the paying bank.
 
 #### (B) Depositary bank
 
-&emsp;&emsp;The term “depositary bank” means—
+&emsp;&emsp;The term "depositary bank" means—
 
 &emsp;&emsp;&emsp;(i) the first bank to which a check is transferred, even if such bank is also the paying bank or the payee; or
 
@@ -42,7 +42,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (C) Paying bank
 
-&emsp;&emsp;The term “paying bank” means—
+&emsp;&emsp;The term "paying bank" means—
 
 &emsp;&emsp;&emsp;(i) the bank by which a check is payable, unless the check is payable at or through another bank and is sent to the other bank for payment or collection; or
 
@@ -52,7 +52,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “returning bank” means a bank (other than the paying or depositary bank) handling a returned check or notice in lieu of return.
+&emsp;&emsp;&emsp;The term "returning bank" means a bank (other than the paying or depositary bank) handling a returned check or notice in lieu of return.
 
 #### (ii) Treatment as collecting bank
 
@@ -60,15 +60,15 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (4) Board
 
-&emsp;The term “Board” means the Board of Governors of the Federal Reserve System.
+&emsp;The term "Board" means the Board of Governors of the Federal Reserve System.
 
 #### (5) Business day
 
-&emsp;The term “business day” has the same meaning as in section 4001(3) of this title.
+&emsp;The term "business day" has the same meaning as in section 4001(3) of this title.
 
 #### (6) Check
 
-&emsp;The term “check”—
+&emsp;The term "check"—
 
 &emsp;&emsp;(A) means a draft, payable on demand and drawn on or payable through or at an office of a bank, whether or not negotiable, that is handled for forward collection or return, including a substitute check and a travelers check; and
 
@@ -76,7 +76,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (7) Consumer
 
-&emsp;The term “consumer” means an individual who—
+&emsp;The term "consumer" means an individual who—
 
 &emsp;&emsp;(A) with respect to a check handled for forward collection, draws the check on a consumer account; or
 
@@ -84,35 +84,35 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (8) Consumer account
 
-&emsp;The term “consumer account” has the same meaning as in section 4001(10) of this title.
+&emsp;The term "consumer account" has the same meaning as in section 4001(10) of this title.
 
 #### (9) Customer
 
-&emsp;The term “customer” means a person having an account with a bank.
+&emsp;The term "customer" means a person having an account with a bank.
 
 #### (10) Forward collection
 
-&emsp;The term “forward collection” means the transfer by a bank of a check to a collecting bank for settlement or the paying bank for payment.
+&emsp;The term "forward collection" means the transfer by a bank of a check to a collecting bank for settlement or the paying bank for payment.
 
 #### (11) Indemnifying bank
 
-&emsp;The term “indemnifying bank” means a bank that is providing an indemnity under section 5005 of this title with respect to a substitute check.
+&emsp;The term "indemnifying bank" means a bank that is providing an indemnity under section 5005 of this title with respect to a substitute check.
 
 #### (12) MICR line
 
-&emsp;The terms “MICR line” and “magnetic ink character recognition line” mean the numbers, which may include the bank routing number, account number, check number, check amount, and other information, that are printed near the bottom of a check in magnetic ink in accordance with generally applicable industry standards.
+&emsp;The terms "MICR line" and "magnetic ink character recognition line" mean the numbers, which may include the bank routing number, account number, check number, check amount, and other information, that are printed near the bottom of a check in magnetic ink in accordance with generally applicable industry standards.
 
 #### (13) Noncash item
 
-&emsp;The term “noncash item” has the same meaning as in section 4001(14) of this title.
+&emsp;The term "noncash item" has the same meaning as in section 4001(14) of this title.
 
 #### (14) Person
 
-&emsp;The term “person” means a natural person, corporation, unincorporated company, partnership, government unit or instrumentality, trust, or any other entity or organization.
+&emsp;The term "person" means a natural person, corporation, unincorporated company, partnership, government unit or instrumentality, trust, or any other entity or organization.
 
 #### (15) Reconverting bank
 
-&emsp;The term “reconverting bank” means—
+&emsp;The term "reconverting bank" means—
 
 &emsp;&emsp;(A) the bank that creates a substitute check; or
 
@@ -120,7 +120,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (16) Substitute check
 
-&emsp;The term “substitute check” means a paper reproduction of the original check that—
+&emsp;The term "substitute check" means a paper reproduction of the original check that—
 
 &emsp;&emsp;(A) contains an image of the front and back of the original check;
 
@@ -132,15 +132,15 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (17) State
 
-&emsp;The term “State” has the same meaning as in section 1813(a) of this title.
+&emsp;The term "State" has the same meaning as in section 1813(a) of this title.
 
 #### (18) Truncate
 
-&emsp;The term “truncate” means to remove an original paper check from the check collection or return process and send to a recipient, in lieu of such original paper check, a substitute check or, by agreement, information relating to the original check (including data taken from the MICR line of the original check or an electronic image of the original check), whether with or without subsequent delivery of the original paper check.
+&emsp;The term "truncate" means to remove an original paper check from the check collection or return process and send to a recipient, in lieu of such original paper check, a substitute check or, by agreement, information relating to the original check (including data taken from the MICR line of the original check or an electronic image of the original check), whether with or without subsequent delivery of the original paper check.
 
 #### (19) Uniform Commercial Code
 
-&emsp;The term “Uniform Commercial Code” means the Uniform Commercial Code in effect in a State.
+&emsp;The term "Uniform Commercial Code" means the Uniform Commercial Code in effect in a State.
 
 #### (20) Other terms
 
@@ -150,5 +150,5 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5001 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 108–100, Oct. 28, 2003, 117 Stat. 1177, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5001 of this title and Tables.
 

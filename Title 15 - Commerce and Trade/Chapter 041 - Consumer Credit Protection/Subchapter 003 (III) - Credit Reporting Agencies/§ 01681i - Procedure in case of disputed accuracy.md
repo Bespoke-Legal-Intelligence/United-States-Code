@@ -62,7 +62,7 @@
 
 #### (i) Certification of accuracy of information
 
-&emsp;&emsp;&emsp;If any information is deleted from a consumer's file pursuant to subparagraph (A), the information may not be reinserted in the file by the consumer reporting agency unless the person who furnishes the information certifies that the information is complete and accurate.
+&emsp;&emsp;&emsp;If any information is deleted from a consumer's file pursuant to subparagraph (A),the information may not be reinserted in the file by the consumer reporting agency unless the person who furnishes the information certifies that the information is complete and accurate.
 
 #### (ii) Notice to consumer
 
@@ -118,7 +118,7 @@
 
 &emsp;&emsp;(B) includes in that notice, or in a written notice that accompanies a confirmation and consumer report provided in accordance with subparagraph (C), a statement of the consumer's right to request under subsection (d) of this section that the agency furnish notifications under that subsection; and
 
-&emsp;&emsp;(C) provides written confirmation of the deletion and a copy of a consumer report onthe consumer that is based on the consumer's file after the deletion, not later than 5 business days after making the deletion.
+&emsp;&emsp;(C) provides written confirmation of the deletion and a copy of a consumer report on the consumer that is based on the consumer's file after the deletion, not later than 5 business days after making the deletion.
 
 #### (b) Statement of dispute
 
@@ -184,7 +184,7 @@ Following any deletion of information which is found to be inaccurate or whose a
 
 #### (3) Responsibility of consumer reporting agency to notify consumer through reseller
 
-&emsp;Upon the completion of a reinvestigation under this section of a dispute concerning thecompleteness or accuracy of any information in the file of a consumer by a consumer reporting agency that received notice of the dispute from a reseller under paragraph (2)—
+&emsp;Upon the completion of a reinvestigation under this section of a dispute concerning the completeness or accuracy of any information in the file of a consumer by a consumer reporting agency that received notice of the dispute from a reseller under paragraph (2)—
 
 &emsp;&emsp;(A) the notice by the consumer reporting agency under paragraph (6), (7), or (8) of subsection (a) of this section shall be provided to the reseller in lieu of the consumer; and
 
@@ -202,31 +202,31 @@ The Consumer Financial Protection Act of 2010, referred to in subsec. (e)(2), is
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e)(2). Pub. L. 111–203, §1088(a)(6), added par. (2) and struck out former par. (2) which read as follows: “Complaints received or obtained by the Commission pursuant to its investigative authority under the Federal Trade Commission Act shall not be subject to paragraph (1).”
+<b>2010</b>—Subsec. (e)(2). Pub. L. 111–203, §1088(a)(6), added par. (2) and struck out former par. (2) which read as follows: "Complaints received or obtained by the Commission pursuant to its investigative authority under the Federal Trade Commission Act shall not be subject to paragraph (1)."
 
-Subsec. (e)(3), (5). Pub. L. 111–203, §1088(a)(2)(C), substituted “the Bureau” for “the Commission” wherever appearing.
+Subsec. (e)(3), (5). Pub. L. 111–203, §1088(a)(2)(C), substituted "the Bureau" for "the Commission" wherever appearing.
 
-<b>2003</b>—Subsec. (a)(1)(A). Pub. L. 108–159, §317, substituted “shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate” for “shall reinvestigate free of charge”.
+<b>2003</b>—Subsec. (a)(1)(A). Pub. L. 108–159, §317, substituted "shall, free of charge, conduct a reasonable reinvestigation to determine whether the disputed information is inaccurate" for "shall reinvestigate free of charge".
 
-Pub. L. 108–159, §316(a)(1), substituted “Subject to subsection (f) of this section, if the completeness” for “If the completeness” and inserted “, or indirectly through a reseller,” after “notifies the agency directly” and “or reseller” before period at end.
+Pub. L. 108–159, §316(a)(1), substituted "Subject to subsection (f) of this section, if the completeness" for "If the completeness" and inserted ", or indirectly through a reseller," after "notifies the agency directly" and "or reseller" before period at end.
 
-Subsec. (a)(2)(A). Pub. L. 108–159, §316(a)(2), inserted “or a reseller” after “dispute from any consumer” and “or reseller” before period at end.
+Subsec. (a)(2)(A). Pub. L. 108–159, §316(a)(2), inserted "or a reseller" after "dispute from any consumer" and "or reseller" before period at end.
 
-Subsec. (a)(2)(B). Pub. L. 108–159, §316(c), struck out “from consumer” after “information” in heading.
+Subsec. (a)(2)(B). Pub. L. 108–159, §316(c), struck out "from consumer" after "information" in heading.
 
-Pub. L. 108–159, §316(a)(3), inserted “or the reseller” after “from the consumer”.
+Pub. L. 108–159, §316(a)(3), inserted "or the reseller" after "from the consumer".
 
-Subsec. (a)(5)(A). Pub. L. 108–159, §314(a), substituted “shall—” and cls. (i) and (ii) for “shall promptly delete that item of information from the consumer's file or modify that item of information, as appropriate, based on the results of the reinvestigation.”
+Subsec. (a)(5)(A). Pub. L. 108–159, §314(a), substituted "shall—" and cls. (i) and (ii) for "shall promptly delete that item of information from the consumer's file or modify that item of information, as appropriate, based on the results of the reinvestigation."
 
 Subsec. (e). Pub. L. 108–159, §313(a), added subsec. (e).
 
 Subsec. (f). Pub. L. 108–159, §316(b), added subsec. (f).
 
-<b>1998</b>—Subsec. (a)(7). Pub. L. 105–347 substituted “(6)(B)(iii)” for “(6)(B)(iv)”.
+<b>1998</b>—Subsec. (a)(7). Pub. L. 105–347 substituted "(6)(B)(iii)" for "(6)(B)(iv)".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2409(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “If the completeness or accuracy of any item of information contained in his file is disputed by a consumer, and such dispute is directly conveyed to the consumer reporting agency by the consumer, the consumer reporting agency shall within a reasonable period of time reinvestigate and record the current status of that information unless it has reasonable grounds to believe that the dispute by the consumer is frivolous or irrelevant. If after such reinvestigation such information is found to be inaccurate or can no longer be verified, the consumer reporting agency shall promptly delete such information. The presence of contradictory information in the consumer's file does not in and of itself constitute reasonable grounds for believing the dispute is frivolous or irrelevant.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–208, §2409(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: "If the completeness or accuracy of any item of information contained in his file is disputed by a consumer, and such dispute is directly conveyed to the consumer reporting agency by the consumer, the consumer reporting agency shall within a reasonable period of time reinvestigate and record the current status of that information unless it has reasonable grounds to believe that the dispute by the consumer is frivolous or irrelevant. If after such reinvestigation such information is found to be inaccurate or can no longer be verified, the consumer reporting agency shall promptly delete such information. The presence of contradictory information in the consumer's file does not in and of itself constitute reasonable grounds for believing the dispute is frivolous or irrelevant."
 
-Subsec. (d). Pub. L. 104–208, §2409(b), struck out at end “The consumer reporting agency shall clearly and conspicuously disclose to the consumer his rights to make such a request. Such disclosure shall be made at or prior to the time the information is deleted or the consumer's statement regarding the disputed information is received.”
+Subsec. (d). Pub. L. 104–208, §2409(b), struck out at end "The consumer reporting agency shall clearly and conspicuously disclose to the consumer his rights to make such a request. Such disclosure shall be made at or prior to the time the information is deleted or the consumer's statement regarding the disputed information is received."
 
 #### Effective Date of 2010 Amendment
 
@@ -248,29 +248,29 @@ Amendment by Pub. L. 104–208 effective 365 days after Sept. 30, 1996, with spe
 
 Pub. L. 108–159, title III, §313(b), Dec. 4, 2003, 117 Stat. 1994, provided that:
 
-“(1)
+"(1)
 
 Study required.—The Board and the Commission shall jointly study the extent to which, and the manner in which, consumer reporting agencies and furnishers of consumer information to consumer reporting agencies are complying with the procedures, time lines, and requirements under the Fair Credit Reporting Act \[this subchapter\] for the prompt investigation of the disputed accuracy of any consumer information, the completeness of the information provided to consumer reporting agencies, and the prompt correction or deletion, in accordance with such Act, of any inaccurate or incomplete information or information that cannot be verified.
 
-“(2)
+"(2)
 
 Report required.—Before the end of the 12-month period beginning on the date of enactment of this Act \[Dec. 4, 2003\], the Board and the Commission shall jointly submit a progress report to the Congress on the results of the study required under paragraph (1).
 
-“(3)
+"(3)
 
 Considerations.—In preparing the report required under paragraph (2), the Board and the Commission shall consider information relating to complaints compiled by the Commission under section 611(e) of the Fair Credit Reporting Act \[15 U.S.C. 1681i(e)\], as added by this section.
 
-“(4)
+"(4)
 
-Recommendations.—The report required under paragraph (2) shall include such recommendations asthe Board and the Commission jointly determine to be appropriate for legislative or administrative action, to ensure that—
+Recommendations.—The report required under paragraph (2) shall include such recommendations as the Board and the Commission jointly determine to be appropriate for legislative or administrative action, to ensure that—
 
-&emsp;“(A) consumer disputes with consumer reporting agencies over the accuracy or completeness of information in a consumer's file are promptly and fully investigated and any incorrect, incomplete, or unverifiable information is corrected or deleted immediately thereafter;
+&emsp;"(A) consumer disputes with consumer reporting agencies over the accuracy or completeness of information in a consumer's file are promptly and fully investigated and any incorrect, incomplete, or unverifiable information is corrected or deleted immediately thereafter;
 
-&emsp;“(B) furnishers of information to consumer reporting agencies maintain full and prompt compliance with the duties and responsibilities established under section 623 of the Fair Credit Reporting Act \[15 U.S.C. 1681s–2\]; and
+&emsp;"(B) furnishers of information to consumer reporting agencies maintain full and prompt compliance with the duties and responsibilities established under section 623 of the Fair Credit Reporting Act \[15 U.S.C. 1681s–2\]; and
 
-&emsp;“(C) consumer reporting agencies establish and maintain appropriate internal controls and management review procedures for maintaining full and continuous compliance with the procedures, time lines, and requirements under the Fair Credit Reporting Act \[this subchapter\] for the prompt investigation of the disputed accuracy of any consumer information and the prompt correction or deletion, in accordance with such Act, of any inaccurate or incomplete information or information that cannot be verified.”
+&emsp;"(C) consumer reporting agencies establish and maintain appropriate internal controls and management review procedures for maintaining full and continuous compliance with the procedures, time lines, and requirements under the Fair Credit Reporting Act \[this subchapter\] for the prompt investigation of the disputed accuracy of any consumer information and the prompt correction or deletion, in accordance with such Act, of any inaccurate or incomplete information or information that cannot be verified."
 
 \[For definitions of terms used in section 313(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Bureau”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Bureau".</i>
 

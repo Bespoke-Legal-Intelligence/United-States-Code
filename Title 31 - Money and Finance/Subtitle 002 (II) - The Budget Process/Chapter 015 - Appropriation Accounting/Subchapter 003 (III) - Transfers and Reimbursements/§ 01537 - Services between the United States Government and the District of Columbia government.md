@@ -26,7 +26,7 @@
 
 &emsp;(2) costs incurred by the District of Columbia government may be paid from amounts available to the United States Government officer or employee to whom the services were provided.
 
-(d) When requested by the Director of the United States Secret Service, the Chief of the Metropolitan Police shall assist the Secret Service and the Secret Service Uniformed Division on a non-reimbursable basis in carrying out their protective duties under sections 3056 and 3056A of title 18.
+(d) When requested by the Director of the United States Secret Service, the Chief of the Metropolitan Police shall assist the Secret Service and the Secret Service Uniformed Divisionon a non-reimbursable basis in carrying out their protective duties under sections 3056 and 3056A of title 18.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 934; Pub. L. 109–177, title VI, §605(d)(1), Mar. 9, 2006, 120 Stat. 255.)
 
@@ -56,21 +56,21 @@ Dec. 24, 1973, Pub. L. 93–198, §731, 87 Stat. 822.
 
 31:685a(c)(last sentence words after last comma).
 
-In the section, the words “District of Columbia” are substituted for “District” for clarity and consistency.
+In the section, the words "District of Columbia" are substituted for "District" for clarity and consistency.
 
-In subsection (a), the word “duplication” is substituted for “duplication of effort” to eliminate unnecessary words. The words “officer or employee of the United States Government” are substituted for “any Federal officer or agency”, and the words “officer or employee of the District of Columbia government” are substituted for “any District officer or agency”, for consistency.
+In subsection (a), the word "duplication" is substituted for "duplication of effort" to eliminate unnecessary words. The words "officer or employee of the United States Government" are substituted for "any Federal officer or agency", and the words "officer or employee of the District of Columbia government" are substituted for "any District officer or agency", for consistency.
 
-In subsection (b)(1), before clause (A), the words “Except where the terms and conditions governing the furnishing of such services are prescribed by other provisions of law” are omitted as surplus. In clause (A), the words “officers and employees of the 2 governments” are substituted for “Federal and District authorities” for consistency. In clause (B), the words “of the District of Columbia” are added for clarity.
+In subsection (b)(1), before clause (A), the words "Except where the terms and conditions governing the furnishing of such services are prescribed by other provisions of law" are omitted as surplus. In clause (A), the words "officers and employees of the 2 governments" are substituted for "Federal and District authorities" for consistency. In clause (B), the words "of the District of Columbia" are added for clarity.
 
-In subsection (b)(3), before clause (A), the words “duties and powers” are substituted for “functions” for consistency in the revised title and with other titles of the United States Code. The text of 31:685a(b)(last sentence) is omitted as surplus.
+In subsection (b)(3), before clause (A), the words "duties and powers" are substituted for "functions" for consistency in the revised title and with other titles of the United States Code. The text of 31:685a(b)(last sentence) is omitted as surplus.
 
-In subsection (c)(1), the words “United States Government” are substituted for “each Federal officer and agency” for clarity.
+In subsection (c)(1), the words "United States Government" are substituted for "each Federal officer and agency" for clarity.
 
-In subsection (c)(2), the words “District of Columbia government” are substituted for “each District officer and agency” for consistency.
+In subsection (c)(2), the words "District of Columbia government" are substituted for "each District officer and agency" for consistency.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (d). Pub. L. 109–177 substituted “and the Secret Service Uniformed Division” for “and the Executive Protective Service” and “their protective duties under sections 3056 and 3056A of title 18” for “their protective duties under section 302 of title 3 and section 3056 of title 18”.
+<b>2006</b>—Subsec. (d). Pub. L. 109–177 substituted "and the Secret Service Uniformed Division" for "and the Executive Protective Service" and "their protective duties under sections 3056 and 3056A of title 18" for "their protective duties under section 302 of title 3 and section 3056 of title 18".
 
 #### Transfer of Functions
 

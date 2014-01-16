@@ -36,11 +36,11 @@ No Federal agency shall offset funds made available pursuant to this chapter for
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–211, §242(a)(2)(A), substituted “sections 3611 and 3612 of this title” for “the provisions of sections 3611 and 3612 of this title” and “fiscal years 2011 through 2015” for “the fiscal years 2000 through 2007”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–211, §242(a)(2)(A), substituted "sections 3611 and 3612 of this title" for "the provisions of sections 3611 and 3612 of this title" and "fiscal years 2011 through 2015" for "the fiscal years 2000 through 2007".
 
-Subsec. (b). Pub. L. 111–211, §242(a)(2)(B), substituted “section 3613 of this title” for “the provisions of section 3613 of this title” and “fiscal years 2011 through 2015” for “the fiscal years 2000 through 2007”.
+Subsec. (b). Pub. L. 111–211, §242(a)(2)(B), substituted "section 3613 of this title" for "the provisions of section 3613 of this title" and "fiscal years 2011 through 2015" for "the fiscal years 2000 through 2007".
 
-Subsecs. (c), (d). Pub. L. 111–211, §242(a)(2)(C), (D), substituted “fiscal years 2011 through 2015” for “the fiscal years 2000 through 2007”.
+Subsecs. (c), (d). Pub. L. 111–211, §242(a)(2)(C), (D), substituted "fiscal years 2011 through 2015" for "the fiscal years 2000 through 2007".
 
-<b>2000</b>—Subsecs. (a) to (d). Pub. L. 106–559 substituted “2000 through 2007” for “1994, 1995, 1996, 1997, 1998, 1999, and 2000”.
+<b>2000</b>—Subsecs. (a) to (d). Pub. L. 106–559 substituted "2000 through 2007" for "1994, 1995, 1996, 1997, 1998, 1999, and 2000".
 

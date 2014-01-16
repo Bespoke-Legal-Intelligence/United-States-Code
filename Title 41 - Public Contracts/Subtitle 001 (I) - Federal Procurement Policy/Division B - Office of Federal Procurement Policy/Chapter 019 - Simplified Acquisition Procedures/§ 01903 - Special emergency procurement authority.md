@@ -18,7 +18,7 @@ Increased Thresholds and Limitation.—For a procurement to which this section a
 
 &emsp;&emsp;(B) $25,000 in the case of a contract to be awarded and performed, or purchase to be made, outside the United States;
 
-&emsp;(2) the term “simplified acquisition threshold” means—
+&emsp;(2) the term "simplified acquisition threshold" means—
 
 &emsp;&emsp;(A) $250,000 in the case of a contract to be awarded and performed, or purchase to be made, in the United States; and
 

@@ -2,7 +2,7 @@
 
 #### (a) Acceptance by Secretary
 
-The Secretary is authorized and directed to accept the transfer to the United States, to beheld in trust for the use and benefit of the Miccosukee Tribe of Indians of Florida, of the lands authorized to be conveyed to the Miccosukee Tribe by section 285.061, Florida Statutes, and the lands described in Dedication Deed No. 23228 from the Trustees of the Internal Improvement Trust Fund subject to the provisions of section 285.061, Florida Statutes, and of this section.
+The Secretary is authorized and directed to accept the transfer to the United States, to be held in trust for the use and benefit of the Miccosukee Tribe of Indians of Florida, of the lands authorized to be conveyed to the Miccosukee Tribe by section 285.061, Florida Statutes, and the lands described in Dedication Deed No. 23228 from the Trustees of the Internal Improvement Trust Fund subject to the provisions of section 285.061, Florida Statutes, and of this section.
 
 #### (b) Jurisdiction of State of Florida
 

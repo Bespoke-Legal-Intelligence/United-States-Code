@@ -6,5 +6,5 @@ The Secretary shall not restore to tribal ownership or deposit in the general fu
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–437 substituted “Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives” for “Committees on Interior and Insular Affairs of the Senate and the House of Representatives”.
+<b>1994</b>—Pub. L. 103–437 substituted "Committee on Energy and Natural Resources of the Senate and the Committee on Natural Resources of the House of Representatives" for "Committees on Interior and Insular Affairs of the Senate and the House of Representatives".
 

@@ -32,7 +32,7 @@
 
 #### (2) Assistance to Financial Literacy Commission <sup>1</sup>
 
-&emsp;As part of its <sup>2</sup> duties as members of the Financial Literacy and Education Commission, the Bureau, the Federal banking agencies, and the National Credit Union Administration shall assist the Financial Literacy and Education Commission in executing the Strategy for Assuring Financial Empowerment (or the “SAFE Strategy”), as it relates to remittances.
+&emsp;As part of its <sup>2</sup> duties as members of the Financial Literacy and Education Commission, the Bureau, the Federal banking agencies, and the National Credit Union Administration shall assist the Financial Literacy and Education Commission in executing the Strategy for Assuring Financial Empowerment (or the "SAFE Strategy"), as it relates to remittances.
 
 #### (d) Omitted
 
@@ -62,9 +62,9 @@ Section is comprised of section 1073 of Pub. L. 111–203. Subsecs. (a) and (d) 
 
 Part effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Financial Literacy and Education Commission”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Financial Literacy and Education Commission".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “their”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "their".</i>
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
 

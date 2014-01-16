@@ -6,7 +6,7 @@ With respect to those utilization and production facilities which are so determi
 
 #### (b) Export licenses
 
-After consulting with the Secretaries of State, Energy, and Commerce, the Commission is authorized and directed to determine which component parts as defined in section 2014(v)(2) or 2014(cc)(2) of this title and which other items or substances are especially relevant from the standpoint of export control because of their significance for nuclear explosive purposes. Except as provided in section 2155(b)(2) of this title, no such component, substance, or item which is so determined by the Commission shall be exported unless the Commission issues a general or specific license for its export after finding, based on a reasonable judgment of the assurances provided and other information available to the Federal Government, including the Commission, that the following criteria or their equivalent are met: (1) IAEA safeguards as required by Article III (2) of the Treaty will be applied with respect to such component, substance, or item; (2) no such component, substance, or item will be used for any nuclear explosive device or for research on or developmentof any nuclear explosive device; and (3) no such component, substance, or item will be retransferred to the jurisdiction of any other nation or group of nations unless the prior consent of the United States is obtained for such retransfer; and after determining in writing that the issuance of each such general or specific license or category of licenses will not be inimical to the common defense and security: <i>Provided</i>, That a specific license shall not be required for an export pursuant to this section if the component, item or substance is covered by a facility license issued pursuant to section 2155 of this title.
+After consulting with the Secretaries of State, Energy, and Commerce, the Commission is authorized and directed to determine which component parts as defined in section 2014(v)(2) or 2014(cc)(2) of this title and which other items or substances are especially relevant from the standpoint of export control because of their significance for nuclear explosive purposes. Except as provided in section 2155(b)(2) of this title, no such component, substance, or item which is so determined by the Commission shall be exported unless the Commission issues a general or specific license for its export after finding, based on a reasonable judgment of the assurances provided and other information available to the Federal Government, including the Commission, that the following criteria or their equivalent are met: (1) IAEA safeguards as required by Article III (2) of the Treaty will be applied with respect to such component, substance, or item; (2) no such component, substance, or item will be used for any nuclear explosive device or for research on or development of any nuclear explosive device; and (3) no such component, substance, or item will be retransferred to the jurisdiction of any other nation or group of nations unless the prior consent of the United States is obtained for such retransfer; and after determining in writing that the issuance of each such general or specific license or category of licenses will not be inimical to the common defense and security: <i>Provided</i>, That a specific license shall not be required for an export pursuant to this section if the component, item or substance is covered by a facility license issued pursuant to section 2155 of this title.
 
 #### (c) Exports inimical to common defense and security of United States
 
@@ -16,15 +16,15 @@ The Commission shall not issue an export license under the authority of subsecti
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–277 struck out “and the Director” after “Energy, and Commerce”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–277 struck out "and the Director" after "Energy, and Commerce".
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–242 designated existing provisions as subsec. (a) and substituted “the Commission may issue general licenses for domestic activities required to be licensed under section 2131 of this title, if the Commission determines in writing that such general licensing will not constitute an unreasonable risk to the common defense and security” for “the Commission may (a) issue general licenses for activities required to be licensed under section 2131 of this title, if the Commission determines in writing that such general licensing will not constitute an unreasonable risk to the common defense and security, and (b) issue licenses for the export of such facilities, if the Commission determines in writing that each export will not constitute an unreasonable risk to the common defense and security”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–242 designated existing provisions as subsec. (a) and substituted "the Commission may issue general licenses for domestic activities required to be licensed under section 2131 of this title, if the Commission determines in writing that such general licensing will not constitute an unreasonable risk to the common defense and security" for "the Commission may (a) issue general licenses for activities required to be licensed under section 2131 of this title, if the Commission determines in writing that such general licensing will not constitute an unreasonable risk to the common defense and security, and (b) issue licenses for the export of such facilities, if the Commission determines in writing that each export will not constitute an unreasonable risk to the common defense and security".
 
 Subsecs. (b), (c). Pub. L. 95–242 added subsecs. (b) and (c).
 
-<b>1966</b>—Pub. L. 89–645 substituted “section 2014(v)(2) or 2014 (cc)(2)” for “section 2014(t)(2) or 2014(aa)(2)”.
+<b>1966</b>—Pub. L. 89–645 substituted "section 2014(v)(2) or 2014 (cc)(2)" for "section 2014(t)(2) or 2014(aa)(2)".
 
-<b>1962</b>—Pub. L. 87–615 substituted “section 2014(t)(2) or 2014(aa)(2)” for “section 2014(p)(2) or 2014(v)(2)”.
+<b>1962</b>—Pub. L. 87–615 substituted "section 2014(t)(2) or 2014(aa)(2)" for "section 2014(p)(2) or 2014(v)(2)".
 
 #### Effective Date of 1998 Amendment
 
@@ -36,7 +36,7 @@ Amendment by Pub. L. 95–242 effective Mar. 10, 1978, except as otherwise provi
 
 #### Exports Contracted for Prior to Nov. 1, 1977, Made Within One Year of Mar. 10, 1978; Savings Provision
 
-Pub. L. 95–242, title III, §309(d), Mar. 10, 1978, 92 Stat. 142, provided that: “The amendments to section 109 of the 1954 Act \[42 U.S.C. 2139\] made by this section shall not affect the approval of exports contracted for prior to November 1, 1977, which are made within one year of the date of enactment of such amendments \[Mar. 10, 1978\].”
+Pub. L. 95–242, title III, §309(d), Mar. 10, 1978, 92 Stat. 142, provided that: "The amendments to section 109 of the 1954 Act \[42 U.S.C. 2139\] made by this section shall not affect the approval of exports contracted for prior to November 1, 1977, which are made within one year of the date of enactment of such amendments \[Mar. 10, 1978\]."
 
 #### Performance of Functions Pending Development of Procedures
 

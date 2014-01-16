@@ -46,5 +46,5 @@ Pub. L. 98–237, §14(a), (b), Mar. 20, 1984, 98 Stat. 83.
 
 46 App.:1713(a) (last sentence).
 
-In subsection (a), the words “upon sworn complaint or on its own motion” are omitted as unnecessary.
+In subsection (a), the words "upon sworn complaint or on its own motion" are omitted as unnecessary.
 

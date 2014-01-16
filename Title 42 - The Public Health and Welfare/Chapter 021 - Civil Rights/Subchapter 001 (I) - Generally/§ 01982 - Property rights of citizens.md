@@ -1,6 +1,6 @@
 ### §1982. Property rights of citizens
 
-All citizens of the United States shall have the same right, in every State and Territory, as is enjoyed by white citizens thereof to inherit, purchase, lease, sell, hold, and convey real and personal property.
+All citizens of the United States shall have the same right, in every State and Territory, as isenjoyed by white citizens thereof to inherit, purchase, lease, sell, hold, and convey real and personal property.
 
 (R.S. §1978.)
 
@@ -68,7 +68,7 @@ It may—
 
 Sec. 303. In appropriate cases executive departments and agencies shall refer to the Attorney General violations of any rules, regulations, or procedures issued or adopted pursuant to this order, or violations of any nondiscrimination provisions included in any agreement or contract, for such civil or criminal action as he may deem appropriate. The Attorney General is authorized to furnish legal advice concerning this order to the Committee and to any department or agency requesting such advice.
 
-Sec. 304. Any executive department or agency affected by this order may also invoke the sanctions provided in Section 302 where any person or firm, including a lender, has violated the rules, regulations, or procedures issued or adopted pursuant to this order, or thenondiscrimination provisions included in any agreement or contract, with respect to any program affected by this order administered by any other executive department or agency.
+Sec. 304. Any executive department or agency affected by this order may also invoke the sanctions provided in Section 302 where any person or firm, including a lender, has violated the rules, regulations, or procedures issued or adopted pursuant to this order, or the nondiscrimination provisions included in any agreement or contract, with respect to any program affected by this order administered by any other executive department or agency.
 
 #### Part IV—Establishment of the President's Committee on Equal Opportunity in Housing
 
@@ -88,7 +88,7 @@ Sec. 503. \[Revoked. Ex. Ord. No. 12259, Dec. 31, 1980, 46 F.R. 1253; Ex. Ord. N
 
 #### Part VI—Miscellaneous
 
-Sec. 601. As used in this order, the term “departments and agencies” includes any wholly-owned or mixed-ownership Government corporation, and the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and the territories of the United States.
+Sec. 601. As used in this order, the term "departments and agencies" includes any wholly-owned or mixed-ownership Government corporation, and the term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, and the territories of the United States.
 
 Sec. 602. This order shall become effective immediately.
 

@@ -16,7 +16,7 @@ The management plan shall include, as an integral part, a comprehensive transpor
 
 #### (2) Exceptions
 
-&emsp;Paragraph (1) does not prohibit the use of motorized or mechanized vehicles on Federal lands included in the Cooperative Managementand Protection Area if the Secretary determines that such use—
+&emsp;Paragraph (1) does not prohibit the use of motorized or mechanized vehicles on Federal lands included in the Cooperative Management and Protection Area if the Secretary determines that such use—
 
 &emsp;&emsp;(A) is needed for administrative purposes or to respond to an emergency; or
 
@@ -47,4 +47,8 @@ Any determination to permanently close an existing road in the Cooperative Manag
 &emsp;Nothing in this subchapter shall have the effect of terminating any valid existing right-of-way on Federal lands included in the Cooperative Management and Protection Area.
 
 (Pub. L. 106–399, title I, §112, Oct. 30, 2000, 114 Stat. 1660.)
+
+#### References in Text
+
+This subchapter, referred to in subsec. (e)(2), was in the original "this Act", meaning Pub. L. 106–399, Oct. 30, 2000, 114 Stat. 1655, known as the Steens Mountain Cooperative Management and Protection Act of 2000, which is classified generally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 460nnn of this title and Tables.
 

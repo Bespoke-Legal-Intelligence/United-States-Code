@@ -4,23 +4,23 @@
 
 As used in this section—
 
-&emsp;(1) The term “automatic telephone dialing system” means equipment which has the capacity—
+&emsp;(1) The term "automatic telephone dialing system" means equipment which has the capacity—
 
 &emsp;&emsp;(A) to store or produce telephone numbers to be called, using a random or sequential number generator; and
 
 &emsp;&emsp;(B) to dial such numbers.
 
-&emsp;(2) The term “established business relationship”, for purposes only of subsection (b)(1)(C)(i) of this section, shall have the meaning given the term in section 64.1200 of title 47, Code of Federal Regulations, as in effect on January 1, 2003, except that—
+&emsp;(2) The term "established business relationship", for purposes only of subsection (b)(1)(C)(i) of this section, shall have the meaning given the term in section 64.1200 of title 47, Code of Federal Regulations, as in effect on January 1, 2003, except that—
 
 &emsp;&emsp;(A) such term shall include a relationship between a person or entity and a business subscriber subject to the same terms applicable under such section to a relationship between a person or entity and a residential subscriber; and
 
 &emsp;&emsp;(B) an established business relationship shall be subject to any time limitation established pursuant to paragraph (2)(G)).<sup>1</sup>
 
-&emsp;(3) The term “telephone facsimile machine” means equipment which has the capacity (A) to transcribe text or images, or both, from paper into an electronic signal and to transmit that signal over a regular telephone line, or (B) to transcribe text or images (or both) from an electronic signal received over a regular telephone line onto paper.
+&emsp;(3) The term "telephone facsimile machine" means equipment which has the capacity (A) to transcribe text or images, or both, from paper into an electronic signal and to transmit that signal over a regular telephone line, or (B) to transcribe text or images (or both) from an electronic signal received over a regular telephone line onto paper.
 
-&emsp;(4) The term “telephone solicitation” means the initiation of a telephone call or message for the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services, which is transmitted to any person, but such term does not include a call or message (A) to any person with that person's prior express invitation or permission, (B) to any person with whom the caller has an established business relationship, or (C) by a tax exempt nonprofit organization.
+&emsp;(4) The term "telephone solicitation" means the initiation of a telephone call or messagefor the purpose of encouraging the purchase or rental of, or investment in, property, goods, or services, which is transmitted to any person, but such term does not include a call or message (A) to any person with that person's prior express invitation or permission, (B) to any person with whom the caller has an established business relationship, or (C) by a tax exempt nonprofit organization.
 
-&emsp;(5) The term “unsolicited advertisement” means any material advertising the commercial availability or quality of any property,goods, or services which is transmitted to any person without that person's prior express invitation or permission, in writing or otherwise.
+&emsp;(5) The term "unsolicited advertisement" means any material advertising the commercial availability or quality of any property, goods, or services which is transmitted to any person without that person's prior express invitation or permission, in writing or otherwise.
 
 #### (b) Restrictions on use of automated telephone equipment
 
@@ -30,7 +30,7 @@ As used in this section—
 
 &emsp;&emsp;(A) to make any call (other than a call made for emergency purposes or made with the prior express consent of the called party) using any automatic telephone dialing system or an artificial or prerecorded voice—
 
-&emsp;&emsp;&emsp;(i) to any emergency telephone line (including any “911” line and any emergency line of a hospital, medical physician or service office, health care facility, poison control center, or fire protection or law enforcement agency);
+&emsp;&emsp;&emsp;(i) to any emergency telephone line (including any "911" line and any emergency line of a hospital, medical physician or service office, health care facility, poison control center, or fire protection or law enforcement agency);
 
 &emsp;&emsp;&emsp;(ii) to the telephone line of any guest room or patient room of a hospital, health care facility, elderly home, or similar establishment; or
 
@@ -78,7 +78,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(i) the notice is clear and conspicuous and on the first page of the unsolicited advertisement;
 
-&emsp;&emsp;&emsp;(ii) the notice states that the recipient may make a request to the sender of the unsolicited advertisement not to send any future unsolicited advertisements to a telephone facsimile machine or machines and that failure to comply, within the shortest reasonable time, as determined by the Commission, with such a request meeting the requirements under subparagraph (E) is unlawful;
+&emsp;&emsp;&emsp;(ii) the notice states that the recipient may make a request to the sender of the unsolicited advertisement not to send any future unsolicited advertisements to atelephone facsimile machine or machines and that failure to comply, within the shortest reasonable time, as determined by the Commission, with such a request meeting the requirements under subparagraph (E) is unlawful;
 
 &emsp;&emsp;&emsp;(iii) the notice sets forth the requirements for a request under subparagraph (E);
 
@@ -134,9 +134,9 @@ As used in this section—
 
 #### (1) Rulemaking proceeding required
 
-&emsp;Within 120 days after December 20, 1991, the Commission shall initiate a rulemaking proceeding concerning the need to protect residential telephone subscribers’ privacy rights to avoid receiving telephone solicitations to which they object. The proceeding shall—
+&emsp;Within 120 days after December 20, 1991, the Commission shall initiate a rulemaking proceeding concerning the need to protect residential telephone subscribers' privacy rights to avoid receiving telephone solicitations to which they object. The proceeding shall—
 
-&emsp;&emsp;(A) compare and evaluate alternative methods and procedures (including the use of electronic databases, telephone network technologies, special directory markings, industry-based or company-specific “do not call” systems, and any other alternatives, individually or in combination) for their effectiveness in protecting such privacy rights, and in terms of their cost and other advantages and disadvantages;
+&emsp;&emsp;(A) compare and evaluate alternative methods and procedures (including the use of electronic databases, telephone network technologies, special directory markings, industry-based or company-specific "do not call" systems, and any other alternatives, individually or in combination) for their effectiveness in protecting such privacy rights, and in terms of their cost and other advantages and disadvantages;
 
 &emsp;&emsp;(B) evaluate the categories of public and private entities that would have the capacity to establish and administer such methods and procedures;
 
@@ -192,11 +192,11 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(iii) not place an unreasonable financial burden on small businesses; and
 
-&emsp;&emsp;(C) consider (i) whether the needs of telemarketers operating on a local basis could be met through special markings of area white pages directories, and (ii) if such directories are needed as an adjunct to database lists prepared by area code and local exchange prefix.
+&emsp;&emsp;(C) consider (i) whether the needs of telemarketers operating on a local basis could be met through special markings of areawhite pages directories, and (ii) if such directories are needed as an adjunct to database lists prepared by area code and local exchange prefix.
 
 #### (5) Private right of action
 
-&emsp;A person who has received more than one telephone call within any 12-month period by or on behalf of the same entity in violation ofthe regulations prescribed under this subsection may, if otherwise permitted by the laws or rules of court of a State bring in an appropriate court of that State—
+&emsp;A person who has received more than one telephone call within any 12-month period by or on behalf of the same entity in violation of the regulations prescribed under this subsection may, if otherwise permitted by the laws or rules of court of a State bring in an appropriate court of that State—
 
 &emsp;&emsp;(A) an action based on a violation of the regulations prescribed under this subsection to enjoin such violation,
 
@@ -264,7 +264,7 @@ As used in this section—
 
 #### (4) Report
 
-&emsp;Not later than 6 months after December 22, 2010, the Commission shall report to Congress whether additional legislation is necessary to prohibit the provision of inaccurate caller identification information in technologiesthat are successor or replacement technologies to telecommunications service or IP-enabled voice service.
+&emsp;Not later than 6 months after December 22, 2010, the Commission shall report to Congress whether additional legislation is necessary to prohibit the provision of inaccurate caller identification information in technologies that are successor or replacement technologies to telecommunications service or IP-enabled voice service.
 
 #### (5) Penalties
 
@@ -338,15 +338,15 @@ As used in this section—
 
 #### (A) Caller identification information
 
-&emsp;&emsp;The term “caller identification information” means information provided by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made usinga telecommunications service or IP-enabled voice service.
+&emsp;&emsp;The term "caller identification information" means information provided by a caller identification service regarding the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or IP-enabled voice service.
 
 #### (B) Caller identification service
 
-&emsp;&emsp;The term “caller identification service” means any service or device designed to provide the user of the service or device with the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or IP-enabled voice service. Such term includes automatic number identification services.
+&emsp;&emsp;The term "caller identification service" means any service or device designed to provide the user of the service or device with the telephone number of, or other information regarding the origination of, a call made using a telecommunications service or IP-enabled voice service. Such term includes automatic number identification services.
 
 #### (C) IP-enabled voice service
 
-&emsp;&emsp;The term “IP-enabled voice service” has the meaning given that term by section 9.3 of the Commission's regulations (47 C.F.R. 9.3), as those regulations may be amended by the Commission from time to time.
+&emsp;&emsp;The term "IP-enabled voice service" has the meaning given that term by section 9.3 of the Commission's regulations (47 C.F.R. 9.3), as those regulations may be amended by the Commission from time to time.
 
 #### (9) Limitation
 
@@ -394,15 +394,15 @@ As used in this section—
 
 #### (6) Effect on State court proceedings
 
-&emsp;Nothing contained in this subsection shall be construed to prohibit an authorized State official from proceeding in State court on the basis of an alleged violation of any general civil or criminal statute of such State.
+&emsp;Nothing contained in this subsection shall be construed to prohibit an authorized State official from proceeding in State court on thebasis of an alleged violation of any general civil or criminal statute of such State.
 
 #### (7) Limitation
 
-&emsp;Whenever the Commission has instituted a civil action for violation of regulations prescribed under this section, no State may, during the pendency of such action instituted by the Commission, subsequently institute a civilaction against any defendant named in the Commission's complaint for any violation as alleged in the Commission's complaint.
+&emsp;Whenever the Commission has instituted a civil action for violation of regulations prescribed under this section, no State may, during the pendency of such action instituted by the Commission, subsequently institute a civil action against any defendant named in the Commission's complaint for any violation as alleged in the Commission's complaint.
 
-#### (8) “Attorney general” defined
+#### (8) "Attorney general" defined
 
-&emsp;As used in this subsection, the term “attorney general” means the chief legal officer of a State.
+&emsp;As used in this subsection, the term "attorney general" means the chief legal officer of a State.
 
 #### (h) Junk fax enforcement report
 
@@ -448,25 +448,29 @@ The Commission shall submit an annual report to Congress regarding the enforceme
 
 (June 19, 1934, ch. 652, title II, §227, as added Pub. L. 102–243, §3(a), Dec. 20, 1991, 105 Stat. 2395; amended Pub. L. 102–556, title IV, §402, Oct. 28, 1992, 106 Stat. 4194; Pub. L. 103–414, title III, §303(a)(11), (12), Oct. 25, 1994, 108 Stat. 4294; Pub. L. 108–187, §12, Dec. 16, 2003, 117 Stat. 2717; Pub. L. 109–21, §§2(a)–(g), 3, July 9, 2005, 119 Stat. 359–362; Pub. L. 111–331, §2, Dec. 22, 2010, 124 Stat. 3572.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (e)(5)(A)(i), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+
 #### Amendments
 
 <b>2010</b>—Subsecs. (e) to (h). Pub. L. 111–331 added subsec. (e) and redesignated former subsecs. (e) to (g) as (f) to (h), respectively.
 
 <b>2005</b>—Subsec. (a)(2) to (4). Pub. L. 109–21, §2(b), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 109–21, §2(b)(1), (g), redesignated par. (4) as (5) and inserted “, in writing or otherwise” before period at end.
+Subsec. (a)(5). Pub. L. 109–21, §2(b)(1), (g), redesignated par. (4) as (5) and inserted ", in writing or otherwise" before period at end.
 
-Subsec. (b)(1)(C). Pub. L. 109–21, §2(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “to use any telephone facsimile machine, computer, or other device to send an unsolicited advertisement to a telephone facsimile machine; or”.
+Subsec. (b)(1)(C). Pub. L. 109–21, §2(a), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "to use any telephone facsimile machine, computer, or other device to send an unsolicited advertisement to a telephone facsimile machine; or".
 
 Subsec. (b)(2)(D) to (G). Pub. L. 109–21, §2(c)–(f), added subpars. (D) to (G).
 
 Subsec. (g). Pub. L. 109–21, §3, added subsec. (g).
 
-<b>2003</b>—Subsec. (b)(1). Pub. L. 108–187 inserted “, or any person outside the United States if the recipient is within the United States” after “United States” in introductory provisions.
+<b>2003</b>—Subsec. (b)(1). Pub. L. 108–187 inserted ", or any person outside the United States if the recipient is within the United States" after "United States" in introductory provisions.
 
-<b>1994</b>—Subsec. (b)(2)(C). Pub. L. 103–414, §303(a)(11), substituted “paragraph” for “paragraphs”.
+<b>1994</b>—Subsec. (b)(2)(C). Pub. L. 103–414, §303(a)(11), substituted "paragraph" for "paragraphs".
 
-Subsec. (e)(2). Pub. L. 103–414, §303(a)(12), substituted “national database” for “national datebase” after “such single”.
+Subsec. (e)(2). Pub. L. 103–414, §303(a)(12), substituted "national database" for "national datebase" after "such single".
 
 <b>1992</b>—Subsec. (b)(2)(C). Pub. L. 102–556 added subpar. (C).
 
@@ -478,51 +482,51 @@ Amendment by Pub. L. 108–187 effective Jan. 1, 2004, see section 16 of Pub. L.
 
 Pub. L. 102–243, §3(c), Dec. 20, 1991, 105 Stat. 2402, as amended by Pub. L. 102–556, title I, §102, Oct. 28, 1992, 106 Stat. 4186, provided that:
 
-“(1)
+"(1)
 
 Regulations.—The Federal Communications Commission shall prescribe regulations to implement the amendments made by this section \[enacting this section and amending section 152 of this title\] not later than 9 months after the date of enactment of this Act \[Dec. 20, 1991\].
 
-“(2)
+"(2)
 
-Effective date.—The requirements of section 227 of the Communications Act of 1934 \[this section\] (as added by this section), other than the authority to prescribe regulations, shall take effect one year after the date of enactment of this Act \[Dec. 20, 1991\].”
+Effective date.—The requirements of section 227 of the Communications Act of 1934 \[this section\] (as added by this section), other than the authority to prescribe regulations, shall take effect one year after the date of enactment of this Act \[Dec. 20, 1991\]."
 
 #### Regulations
 
-Pub. L. 109–21, §2(h), July 9, 2005, 119 Stat. 362, provided that: “Except as provided in section 227(b)(2)(G)(ii) of the Communications Act of 1934 \[47 U.S.C. 227(b)(2)(G)(ii)\] (as added by subsection (f)), not later than 270 days after the date of enactment of this Act \[July 9, 2005\], the Federal Communications Commission shall issue regulations to implement the amendments made by this section.”
+Pub. L. 109–21, §2(h), July 9, 2005, 119 Stat. 362, provided that: "Except as provided in section 227(b)(2)(G)(ii) of the Communications Act of 1934 \[47 U.S.C. 227(b)(2)(G)(ii)\] (as added by subsection (f)), not later than 270 days after the date of enactment of this Act \[July 9, 2005\], the Federal Communications Commission shall issue regulations to implement the amendments made by this section."
 
 #### Congressional Statement of Findings
 
-Pub. L. 102–243, §2, Dec. 20, 1991, 105 Stat. 2394, provided that: “The Congress finds that:
+Pub. L. 102–243, §2, Dec. 20, 1991, 105 Stat. 2394, provided that: "The Congress finds that:
 
-&emsp;“(1) The use of the telephone to market goods and services to the home and other businesses is now pervasive due to the increased use of cost-effective telemarketing techniques.
+&emsp;"(1) The use of the telephone to market goods and services to the home and other businesses is now pervasive due to the increased use of cost-effective telemarketing techniques.
 
-&emsp;“(2) Over 30,000 businesses actively telemarket goods and services to business and residential customers.
+&emsp;"(2) Over 30,000 businesses actively telemarket goods and services to business and residential customers.
 
-&emsp;“(3) More than 300,000 solicitors call more than 18,000,000 Americans every day.
+&emsp;"(3) More than 300,000 solicitors call more than 18,000,000 Americans every day.
 
-&emsp;“(4) Total United States sales generated through telemarketing amounted to $435,000,000,000 in 1990, a more than four-fold increase since 1984.
+&emsp;"(4) Total United States sales generated through telemarketing amounted to $435,000,000,000 in 1990, a more than four-fold increase since 1984.
 
-&emsp;“(5) Unrestricted telemarketing, however, can be an intrusive invasion of privacy and, when an emergency or medical assistance telephone line is seized, a risk to public safety.
+&emsp;"(5) Unrestricted telemarketing, however, can be an intrusive invasion of privacy and, when an emergency or medical assistance telephone line is seized, a risk to public safety.
 
-&emsp;“(6) Many consumers are outraged over the proliferation of intrusive, nuisance calls to their homes from telemarketers.
+&emsp;"(6) Many consumers are outraged over the proliferation of intrusive, nuisance calls to their homes from telemarketers.
 
-&emsp;“(7) Over half the States now have statutes restricting various uses of the telephone for marketing, but telemarketers can evade their prohibitions through interstate operations; therefore, Federal law is needed to control residential telemarketing practices.
+&emsp;"(7) Over half the States now have statutes restricting various uses of the telephone for marketing, but telemarketers can evade their prohibitions through interstate operations; therefore, Federal law is needed to control residential telemarketing practices.
 
-&emsp;“(8) The Constitution does not prohibit restrictions on commercial telemarketing solicitations.
+&emsp;"(8) The Constitution does not prohibit restrictions on commercial telemarketing solicitations.
 
-&emsp;“(9) Individuals’ privacy rights, public safety interests, and commercial freedoms of speech and trade must be balanced in a way that protects the privacy of individuals and permits legitimate telemarketing practices.
+&emsp;"(9) Individuals' privacy rights, public safety interests, and commercial freedoms of speech and trade must be balanced in a way that protects the privacy of individuals and permits legitimate telemarketing practices.
 
-&emsp;“(10) Evidence compiled by the Congress indicates that residential telephone subscribers consider automated or prerecorded telephone calls, regardless of the content or the initiator of the message, to be a nuisance and an invasion of privacy.
+&emsp;"(10) Evidence compiled by the Congress indicates that residential telephone subscribers consider automated or prerecorded telephone calls, regardless of the content or the initiator of the message, to be a nuisance and an invasion of privacy.
 
-&emsp;“(11) Technologies that might allow consumers to avoid receiving such calls are not universally available, are costly, are unlikely to be enforced, or place an inordinate burden on the consumer.
+&emsp;"(11) Technologies that might allow consumers to avoid receiving such calls are not universally available, are costly, are unlikely to be enforced, or place an inordinate burden on the consumer.
 
-&emsp;“(12) Banning such automated or prerecorded telephone calls to the home, except when the receiving party consents to receiving the call or when such calls are necessary in an emergency situation affecting the health and safety of the consumer, is the only effective means of protecting telephone consumers from this nuisance and privacy invasion.
+&emsp;"(12) Banning such automated or prerecorded telephone calls to the home, except when the receiving party consents to receiving the call or when such calls are necessary in an emergency situation affecting the health and safety of the consumer, is the only effective means of protecting telephone consumers from this nuisance and privacy invasion.
 
-&emsp;“(13) While the evidence presented to the Congress indicates that automated or prerecorded calls are a nuisance and an invasion of privacy, regardless of the type of call, the Federal Communications Commission should have the flexibility to design different rules for those types of automated or prerecorded calls that it finds are not considered a nuisance or invasion of privacy, or for noncommercial calls, consistent with the free speech protections embodied in the First Amendment of the Constitution.
+&emsp;"(13) While the evidence presented to the Congress indicates that automated or prerecorded calls are a nuisance and an invasion of privacy, regardless of the type of call, the Federal Communications Commission should have the flexibility to design different rules for those types of automated or prerecorded calls that it finds are not considered a nuisance or invasion of privacy, or for noncommercial calls, consistent with the free speech protections embodied in the First Amendment of the Constitution.
 
-&emsp;“(14) Businesses also have complained to the Congress and the Federal Communications Commission that automated or prerecorded telephone calls are a nuisance, are an invasion of privacy, and interfere with interstate commerce.
+&emsp;"(14) Businesses also have complained to the Congress and the Federal Communications Commission that automated or prerecorded telephone calls are a nuisance, are an invasion of privacy, and interfere with interstate commerce.
 
-&emsp;“(15) The Federal Communications Commission should consider adopting reasonable restrictions on automated or prerecorded calls to businesses as well as to the home, consistent with the constitutional protections of free speech.”
+&emsp;"(15) The Federal Communications Commission should consider adopting reasonable restrictions on automated or prerecorded calls to businesses as well as to the home, consistent with the constitutional protections of free speech."
 
 <i><sup>1</sup></i><i> So in original. Second closing parenthesis probably should not appear.</i>
 

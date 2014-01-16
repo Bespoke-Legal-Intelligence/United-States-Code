@@ -78,7 +78,7 @@ The economic effects of waterway user taxes and charges on—
 
 &emsp;&emsp;(A) commercial uses, and
 
-&emsp;&emsp;(B) other uses, including (but not limited to) recreation, reclamation, water supply, low-flow augmentation, fish and wildlife enhancement, hydroelectric power, flood control, and irrigation uses.
+&emsp;&emsp;(B) other uses, including (but not limited to) recreation, reclamation, water supply,low-flow augmentation, fish and wildlife enhancement, hydroelectric power, flood control, and irrigation uses.
 
 #### (e) Considerations relating to Federal assistance
 
@@ -98,9 +98,9 @@ The effects of inland waterway user taxes and charges on—
 
 &emsp;(3) The requirements of the Nation through the year 2000 for transportation service, the portion thereof which should be provided by inland waterway carriers, and an estimate of the expansion and improvement of inland waterway capacity necessary to meet such requirements.
 
-#### (g) “Inland waterway user taxes and charges” defined
+#### (g) "Inland waterway user taxes and charges" defined
 
-For purposes of this section, the term “inland waterway user taxes and charges” means taxes imposed on the use of the inland and intracoastal waterways of the United States and all alternatives to such taxes.
+For purposes of this section, the term "inland waterway user taxes and charges" means taxes imposed on the use of the inland and intracoastal waterways of the United States and all alternatives to such taxes.
 
 #### (h) Report
 
@@ -118,7 +118,7 @@ Section 158 of the Water Resources Development Act of 1976 (Public Law 94–587)
 
 #### Amendments
 
-<b>1995</b>—Subsec. (f)(1). Pub. L. 104–88 substituted “as set forth in sections 10101 and 13101 of title 49” for “as set forth in the preamble to the Transportation Act of 1940”.
+<b>1995</b>—Subsec. (f)(1). Pub. L. 104–88 substituted "as set forth in sections 10101 and 13101 of title 49" for "as set forth in the preamble to the Transportation Act of 1940".
 
 #### Effective Date of 1995 Amendment
 
@@ -126,5 +126,5 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Short Title
 
-For short title of title II of Pub. L. 95–502 as the “Inland Waterways Revenue Act of 1978”, see section 201 ofPub. L. 95–502, set out as a Short Title of 1978 Amendment note under section 1 of Title 26, Internal Revenue Code.
+For short title of title II of Pub. L. 95–502 as the "Inland Waterways Revenue Act of 1978", see section 201 of Pub. L. 95–502, set out as a Short Title of 1978 Amendment note under section 1 of Title 26, Internal Revenue Code.
 

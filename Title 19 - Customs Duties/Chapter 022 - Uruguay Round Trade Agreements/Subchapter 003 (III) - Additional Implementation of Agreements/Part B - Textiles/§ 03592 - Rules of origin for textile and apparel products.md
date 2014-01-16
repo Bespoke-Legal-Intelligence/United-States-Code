@@ -80,13 +80,13 @@ This section shall apply to goods entered, or withdrawn from warehouse, for cons
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b)(2). Pub. L. 106–200 designated existing provisions as subpar. (A), in introductory provisions substituted “Notwithstanding paragraph (1)(D) and except as provided in subparagraphs (B) and (C)” for “Notwithstanding paragraph (1)(D)”, added subpars. (B) and (C), and redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A).
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–200 designated existing provisions as subpar. (A), in introductory provisions substituted "Notwithstanding paragraph (1)(D) and except as provided in subparagraphs (B) and (C)" for "Notwithstanding paragraph (1)(D)", added subpars. (B) and (C), and redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A).
 
-<b>1996</b>—Subsec. (b)(1)(B)(ii). Pub. L. 104–295 substituted “possession;” for “possession,”.
+<b>1996</b>—Subsec. (b)(1)(B)(ii). Pub. L. 104–295 substituted "possession;" for "possession,".
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–200, title IV, §405(b), May 18, 2000, 114 Stat. 293, provided that: “The amendments made by this section \[amending this section\] apply to goods entered, or withdrawn from warehouse for consumption, on or after the date of the enactment of this Act \[May 18, 2000\].”
+Pub. L. 106–200, title IV, §405(b), May 18, 2000, 114 Stat. 293, provided that: "The amendments made by this section \[amending this section\] apply to goods entered, or withdrawn from warehouse for consumption, on or after the date of the enactment of this Act \[May 18, 2000\]."
 
 #### Transfer of Functions
 

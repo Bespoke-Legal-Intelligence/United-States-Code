@@ -14,7 +14,7 @@ A public housing agency or nonprofit corporation applying for assistance to prov
 
 #### (d) Submission of proposed application to Area Agency on Aging or other appropriate State agency
 
-Prior to the submission of a final application for either new or renewed funding under this chapter for the provision of congregate services to elderly residents, a public housing agency and a nonprofit corporation shall present a copy of a proposed application to the Area Agency onAging (or, where no Area Agency on Aging exists to the appropriate State agency under the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\]) for review and comment. Such agency and nonprofit corporation shall consider such review and comment in the development of any final application for either new or renewed funding under this chapter.
+Prior to the submission of a final application for either new or renewed funding under this chapter for the provision of congregate services to elderly residents, a public housing agency and a nonprofit corporation shall present a copy of a proposed application to the Area Agency on Aging (or, where no Area Agency on Aging exists to the appropriate State agency under the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\]) for review and comment. Such agency and nonprofit corporation shall consider such review and comment in the development of any final application for either new or renewed funding under this chapter.
 
 #### (e) Nonelderly handicapped individuals as eligible project residents
 
@@ -46,9 +46,9 @@ The Older Americans Act of 1965, referred to in subsecs. (c) and (d), is Pub. L.
 
 #### Amendments
 
-<b>1984</b>—Subsec. (i). Pub. L. 98–479 substituted “Health and Human Services” for “the Department of Health, Education, and Welfare”.
+<b>1984</b>—Subsec. (i). Pub. L. 98–479 substituted "Health and Human Services" for "the Department of Health, Education, and Welfare".
 
 <b>1980</b>—Subsecs. (c), (d). Pub. L. 96–399, §208(a), (b), inserted reference to congregate services to elderly residents.
 
-Subsec. (e). Pub. L. 96–399, §208(c), in par. (1) substituted “A public housing agency or nonprofit corporation applying for assistance to provide congregate services to nonelderly handicapped residents shall consult with the appropriate agency” for “When nonelderly handicapped individuals are included among the eligible project residents, the public housing agency and nonprofit corporation shall consult with the appropriate local agency”, and in par. (2) substituted “appropriate agency” for “appropriate local agency”.
+Subsec. (e). Pub. L. 96–399, §208(c), in par. (1) substituted "A public housing agency or nonprofit corporation applying for assistance to provide congregate services to nonelderly handicapped residents shall consult with the appropriate agency" for "When nonelderly handicapped individuals are included among the eligible project residents, the public housing agency and nonprofit corporation shall consult with the appropriate local agency", and in par. (2) substituted "appropriate agency" for "appropriate local agency".
 

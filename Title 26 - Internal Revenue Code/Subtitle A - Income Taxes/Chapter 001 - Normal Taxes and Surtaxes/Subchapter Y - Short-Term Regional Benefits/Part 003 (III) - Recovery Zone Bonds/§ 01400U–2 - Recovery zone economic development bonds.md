@@ -6,13 +6,13 @@ In the case of a recovery zone economic development bond—
 
 &emsp;(1) such bond shall be treated as a qualified bond for purposes of section 6431, and
 
-&emsp;(2) subsection (b) of such section shall be applied by substituting “45 percent” for “35 percent”.
+&emsp;(2) subsection (b) of such section shall be applied by substituting "45 percent" for "35 percent".
 
 #### (b) Recovery zone economic development bond
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “recovery zone economic development bond” means any build America bond (as defined in section 54AA(d)) issued before January 1, 2011, as part of issue if—
+&emsp;For purposes of this section, the term "recovery zone economic development bond" means any build America bond (as defined in section 54AA(d)) issued before January 1, 2011, as part of issue if—
 
 &emsp;&emsp;(A) 100 percent of the excess of—
 
@@ -30,7 +30,7 @@ In the case of a recovery zone economic development bond—
 
 #### (c) Qualified economic development purpose
 
-For purposes of this section, the term “qualified economic development purpose” means expenditures for purposes of promoting development or other economic activity in a recovery zone, including—
+For purposes of this section, the term "qualified economic development purpose" means expenditures for purposes of promoting development or other economic activity in a recovery zone, including—
 
 &emsp;(1) capital expenditures paid or incurred with respect to property located in such zone,
 

@@ -8,11 +8,11 @@ It is declared that the loss to the said Indians on account of their failure to 
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in two places.
+<b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court" in two places.
 
-<b>1988</b>—Pub. L. 100–352 struck out “, with the right of either party to appeal to the United States Court of Appeals for the Federal Circuit” before “, to hear and determine”.
+<b>1988</b>—Pub. L. 100–352 struck out ", with the right of either party to appeal to the United States Court of Appeals for the Federal Circuit" before ", to hear and determine".
 
-<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims” and for “Court of Claims of the United States” and substituted “United States Court of Appeals for the Federal Circuit” for “Supreme Court of the United States”.
+<b>1982</b>—Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims" and for "Court of Claims of the United States" and substituted "United States Court of Appeals for the Federal Circuit" for "Supreme Court of the United States".
 
 #### Effective Date of 1992 Amendment
 

@@ -8,7 +8,7 @@
 
 #### (b) Recyclable material defined
 
-For purposes of this section, the term “recyclable material” means scrap paper, scrapplastic, scrap glass, scrap textiles, scrap rubber (other than whole tires), scrap metal, or spent lead-acid, spent nickel-cadmium, and other spent batteries, as well as minor amounts of material incident to or adhering to the scrap material as a result of its normal and customary use prior to becoming scrap; except that such term shall not include—
+For purposes of this section, the term "recyclable material" means scrap paper, scrap plastic, scrap glass, scrap textiles, scrap rubber (other than whole tires), scrap metal, or spent lead-acid, spent nickel-cadmium, and other spent batteries, as well as minor amounts of material incident to or adhering to the scrap material as a result of its normal and customary use prior to becoming scrap; except that such term shall not include—
 
 &emsp;(1) shipping containers of a capacity from 30 liters to 3,000 liters, whether intact or not, having any hazardous substance (but not metal bits and pieces or hazardous substance that form an integral part of the container) contained in or adhering thereto; or
 
@@ -26,9 +26,9 @@ Transactions involving scrap paper, scrap plastic, scrap glass, scrap textiles, 
 
 &emsp;(4) The recyclable material could have been a replacement or substitute for a virgin raw material, or the product to be made from the recyclable material could have been a replacement or substitute for a product made, in whole or in part, from a virgin raw material.
 
-&emsp;(5) For transactions occurring 90 days or more after November 29, 1999, the person exercised reasonable care to determine that the facility where the recyclable material was handled, processed, reclaimed, or otherwise managed by another person (hereinafter in this section referred to as a “consuming facility”) was in compliance with substantive (not procedural or administrative) provisions of any Federal, State, or local environmental law or regulation, or compliance order or decree issued pursuant thereto, applicable to the handling, processing, reclamation, storage, or other management activities associated with recyclable material.
+&emsp;(5) For transactions occurring 90 days or more after November 29, 1999, the person exercised reasonable care to determine that the facility where the recyclable material was handled, processed, reclaimed, or otherwise managed by another person (hereinafter in this section referred to as a "consuming facility") was in compliance with substantive (not procedural or administrative) provisions of any Federal, State, or local environmental law or regulation, or compliance order or decree issued pursuant thereto, applicable to the handling, processing, reclamation, storage, or other management activities associated with recyclable material.
 
-&emsp;(6) For purposes of this subsection, “reasonable care” shall be determined using criteria that include (but are not limited to)—
+&emsp;(6) For purposes of this subsection, "reasonable care" shall be determined using criteria that include (but are not limited to)—
 
 &emsp;&emsp;(A) the price paid in the recycling transaction;
 
@@ -46,9 +46,9 @@ Transactions involving scrap paper, scrap plastic, scrap glass, scrap textiles, 
 
 &emsp;(C) the person did not melt the scrap metal prior to the transaction.
 
-(2) For purposes of paragraph (1)(C), melting of scrap metal does not include the thermal separation of 2 or more materials due to differences in their melting points (referred to as “sweating”).
+(2) For purposes of paragraph (1)(C), melting of scrap metal does not include the thermal separation of 2 or more materials due to differences in their melting points (referred to as "sweating").
 
-(3) For purposes of this subsection, the term “scrap metal” means bits and pieces of metal parts (e.g., bars, turnings, rods, sheets, wire) or metal pieces that may be combined together with bolts or soldering (e.g., radiators, scrap automobiles, railroad box cars), which when worn or superfluous can be recycled, except for scrap metals that the Administrator excludes from this definition by regulation.
+(3) For purposes of this subsection, the term "scrap metal" means bits and pieces of metal parts (e.g., bars, turnings, rods, sheets, wire) or metal pieces that may be combined together with bolts or soldering (e.g., radiators, scrap automobiles, railroad box cars), which when worn or superfluous can be recycled, except for scrap metals that the Administrator excludes from this definition by regulation.
 
 #### (e) Transactions involving batteries
 
@@ -78,7 +78,7 @@ Transactions involving spent lead-acid batteries, spent nickel-cadmium batteries
 
 &emsp;(C) the person failed to exercise reasonable care with respect to the management and handling of the recyclable material (including adhering to customary industry practices current at the time of the recycling transaction designed to minimize, through source control, contamination of the recyclable material by hazardous substances).
 
-(2) For purposes of this subsection, an objectively reasonable basis for belief shall be determined using criteria that include (but are not limited to) the size of the person's business, customary industry practices (including customary industry practices current at the time of the recycling transaction designed to minimize, through source control, contamination of the recyclable material by hazardous substances), the price paid in the recycling transaction, and the ability of the person to detect the nature of the consuming facility's operations concerning its handling, processing, reclamation, or other management activities associated with the recyclable material.
+(2) For purposes of this subsection, an objectively reasonable basis for belief shall be determined using criteria that include (but are not limited to) the size of the person's business, customary industry practices (including customary industry practices current at the time of the recycling transaction designed to minimize, through source control, contamination of the recyclable material by hazardous substances), the price paid in the recycling transaction, and the ability of the person to detect the nature ofthe consuming facility's operations concerning its handling, processing, reclamation, or other management activities associated with the recyclable material.
 
 (3) For purposes of this subsection, a requirement to obtain a permit applicable to the handling, processing, reclamation, or other management activities associated with recyclable material shall be deemed to be a substantive provision.
 
@@ -122,13 +122,13 @@ The Solid Waste Disposal Act, referred to in subsecs. (d)(1)(B) and (k), is titl
 
 #### Superfund Recycling Equity; Purposes
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title VI, §6001(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–598, provided that: “The purposes of this section \[enacting this section\] are—
+Pub. L. 106–113, div. B, §1000(a)(9) \[title VI, §6001(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–598, provided that: "The purposes of this section \[enacting this section\] are—
 
-&emsp;“(1) to promote the reuse and recycling of scrap material in furtherance of the goals of waste minimization and natural resource conservation while protecting human health and the environment;
+&emsp;"(1) to promote the reuse and recycling of scrap material in furtherance of the goals of waste minimization and natural resource conservation while protecting human health and the environment;
 
-&emsp;“(2) to create greater equity in the statutory treatment of recycled versus virgin materials; and
+&emsp;"(2) to create greater equity in the statutory treatment of recycled versus virgin materials; and
 
-&emsp;“(3) to remove the disincentives and impediments to recycling created as an unintended consequence of the 1980 Superfund liability provisions.”
+&emsp;"(3) to remove the disincentives and impediments to recycling created as an unintended consequence of the 1980 Superfund liability provisions."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

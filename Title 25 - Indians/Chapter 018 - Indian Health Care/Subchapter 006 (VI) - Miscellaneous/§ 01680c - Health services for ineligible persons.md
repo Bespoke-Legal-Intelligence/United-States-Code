@@ -70,7 +70,7 @@ The Service may provide health services under this subsection to individuals who
 
 #### (2) Definition
 
-&emsp;For purposes of this subsection, the term “non-Service health care practitioner” means a practitioner who is not—
+&emsp;For purposes of this subsection, the term "non-Service health care practitioner" means a practitioner who is not—
 
 &emsp;&emsp;(A) an employee of the Service; or
 
@@ -78,13 +78,13 @@ The Service may provide health services under this subsection to individuals who
 
 #### (f) Eligible Indian
 
-For purposes of this section, the term “eligible Indian” means any Indian who is eligible for health services provided by the Service without regard to the provisions of this section.
+For purposes of this section, the term "eligible Indian" means any Indian who is eligible for health services provided by the Service without regard to the provisions of this section.
 
 (Pub. L. 94–437, title VIII, §813, formerly title VII, §713, as added Pub. L. 100–713, title VII, §707(a), Nov. 23, 1988, 102 Stat. 4829; renumbered title VIII, §813, and amended Pub. L. 102–573, title VII, §701(a), (b), title IX, §902(8), Oct. 29, 1992, 106 Stat. 4572, 4592; Pub. L. 111–148, title X, §10221(a), Mar. 23, 2010, 124 Stat. 935.)
 
 #### References in Text
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (c)(2) and (e), is Pub.L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsecs. (c)(2) and (e), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 Section 314 of Public Law 101–512, referred to in subsec. (c)(2), is set out as a note under section 450f of this title.
 
@@ -98,5 +98,5 @@ Amendment by Pub. L. 111–148 is based on section 194 of title I of S. 1790, On
 
 <b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section related to health services for ineligible persons and consisted of subsecs. (a) to (e).
 
-<b>1992</b>—Subsec. (b)(2)(A). Pub. L. 102–573, §902(8), substituted “section 1642(a) of this title” for “section 402(c) of this Act”.
+<b>1992</b>—Subsec. (b)(2)(A). Pub. L. 102–573, §902(8), substituted "section 1642(a) of this title" for "section 402(c) of this Act".
 

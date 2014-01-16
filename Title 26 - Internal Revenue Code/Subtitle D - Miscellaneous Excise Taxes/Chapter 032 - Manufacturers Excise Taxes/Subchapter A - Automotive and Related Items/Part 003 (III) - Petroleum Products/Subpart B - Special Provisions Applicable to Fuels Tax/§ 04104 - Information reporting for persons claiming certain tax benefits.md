@@ -20,7 +20,7 @@ With respect to any person described in subsection (a) and subject to registrati
 
 #### Effective Date
 
-Pub. L. 108–357, title III, §303(c), Oct. 22, 2004, 118 Stat. 1466, provided that: “The amendments made by this section \[enacting this section\] shall take effect on January 1, 2005.”
+Pub. L. 108–357, title III, §303(c), Oct. 22, 2004, 118 Stat. 1466, provided that: "The amendments made by this section \[enacting this section\] shall take effect on January 1, 2005."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 

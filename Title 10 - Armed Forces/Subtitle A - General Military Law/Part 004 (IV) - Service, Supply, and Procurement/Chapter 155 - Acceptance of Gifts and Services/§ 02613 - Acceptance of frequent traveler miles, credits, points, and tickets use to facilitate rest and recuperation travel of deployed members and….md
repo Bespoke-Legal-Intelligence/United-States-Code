@@ -6,7 +6,7 @@ Authority to Accept Donation of Travel Benefits.—Subject to subsection (c), th
 
 (b)
 
-Travel Benefit Defined.—In this section, the term “travel benefit” means—
+Travel Benefit Defined.—In this section, the term "travel benefit" means—
 
 &emsp;(1) frequent traveler miles, credits for tickets, or tickets for air or surface transportation issued by an air carrier or a surface carrier, respectively, that serves the public; and
 
@@ -30,7 +30,7 @@ Use of Donated Travel Benefits.—A travel benefit accepted under this section m
 
 (e)
 
-Administration.—(1) The Secretary shall designate a single office in the Department of Defense to carry out this section. That office shall develop rules and procedures to facilitate the acceptance and distribution of travel benefits under this section.
+Administration.—(1) The Secretary shall designate a single office in the Department ofDefense to carry out this section. That office shall develop rules and procedures to facilitate the acceptance and distribution of travel benefits under this section.
 
 (2) For the use of travel benefits under subsection (d)(2) by family members of a member of the armed forces, the Secretary may, as the Secretary determines appropriate, limit—
 
@@ -52,7 +52,7 @@ Services of Nonprofit Organization.—The Secretary of Defense may enter into an
 
 (g)
 
-Family Member Defined.—In this section, the term “family member” has the meaning given that term in section 481h(b)(1) of title 37.
+Family Member Defined.—In this section, the term "family member" has the meaning given that term in section 481h(b)(1) of title 37.
 
 (Added Pub. L. 108–375, div. A, title V, §585(a)(1), Oct. 28, 2004, 118 Stat. 1930; amended Pub. L. 109–364, div. A, title X, §1071(a)(20), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 112–81, div. A, title V, §576(a)–(d)(1), title VI, §631(f)(4)(A), Dec. 31, 2011, 125 Stat. 1428, 1429, 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
@@ -64,17 +64,17 @@ Another section 2613 was renumbered section 2614 of this title.
 
 <b>2013</b>—Subsec. (g). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
-<b>2011</b>—Pub. L. 112–81, §576(d)(1), substituted “Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families” for “Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their families” in section catchline.
+<b>2011</b>—Pub. L. 112–81, §576(d)(1), substituted "Acceptance of frequent traveler miles, credits, points, and tickets: use to facilitate rest and recuperation travel of deployed members and their families" for "Acceptance of frequent traveler miles, credits, and tickets; use to facilitate rest and recuperation travel of deployed members and their families" in section catchline.
 
 Subsec. (b). Pub. L. 112–81, §576(a), amended subsec. (b) generally. Prior to amendment, subsec. (b) defined travel benefit.
 
-Subsec. (c). Pub. L. 112–81, §576(b), substituted “the business entity referred to in subsection (b)” for “the air or surface carrier” and substituted “the business entity” for “the surface carrier” and for “the carrier”.
+Subsec. (c). Pub. L. 112–81, §576(b), substituted "the business entity referred to in subsection (b)" for "the air or surface carrier" and substituted "the business entity" for "the surface carrier" and for "the carrier".
 
-Subsec. (e)(3). Pub. L. 112–81, §576(c), substituted “the business entity referred to in subsection (b)” for “the air carrier or surface carrier”.
+Subsec. (e)(3). Pub. L. 112–81, §576(c), substituted "the business entity referred to in subsection (b)" for "the air carrier or surface carrier".
 
-Subsec. (g). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “481h(b)(1)” for “411h(b)(1)”.
+Subsec. (g). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "481h(b)(1)" for "411h(b)(1)".
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–364 substituted “In this” for “In the”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–364 substituted "In this" for "In the".
 
 #### Effective Date of 2013 Amendment
 

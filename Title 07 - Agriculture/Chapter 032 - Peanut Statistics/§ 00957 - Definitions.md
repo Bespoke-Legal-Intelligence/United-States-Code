@@ -2,9 +2,9 @@
 
 When used in this chapter—
 
-&emsp;(1) The term “person” includes individuals, partnerships, corporations, and associations;
+&emsp;(1) The term "person" includes individuals, partnerships, corporations, and associations;
 
-&emsp;(2) The term “Secretary” means the Secretary of Agriculture.
+&emsp;(2) The term "Secretary" means the Secretary of Agriculture.
 
 (June 24, 1936, ch. 745, §7, 49 Stat. 1899.)
 

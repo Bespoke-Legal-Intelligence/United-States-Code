@@ -38,11 +38,11 @@ Use of aggregated amounts.—Amounts aggregated under paragraph (1) for a paymen
 
 A prior section 6708, Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1017, related to county area and county government allocations, prior to repeal by Pub. L. 99–272, title XIV, §14001(a)(1), (e), Apr. 7, 1986, 100 Stat. 327, 329, eff. Oct. 18, 1986.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “6705(c)(3).”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "6705(c)(3)."</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should not be capitalized.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “villages”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "villages".</i>
 

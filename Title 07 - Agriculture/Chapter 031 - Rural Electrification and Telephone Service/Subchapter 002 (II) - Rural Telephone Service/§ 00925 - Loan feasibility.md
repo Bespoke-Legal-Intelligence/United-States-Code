@@ -14,5 +14,5 @@ The Secretary and the Governor of the telephone bank may not, as a condition of 
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator”.
+<b>1994</b>—Pub. L. 103–354 substituted "Secretary" for "Administrator".
 

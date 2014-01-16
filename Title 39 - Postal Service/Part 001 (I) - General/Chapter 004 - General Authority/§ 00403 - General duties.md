@@ -16,7 +16,7 @@
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–70 substituted “The Postal Service” for “Except as provided in the Canal Zone Code, the Postal Service”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–70 substituted "The Postal Service" for "Except as provided in the Canal Zone Code, the Postal Service".
 
 #### Effective Date of 1979 Amendment
 

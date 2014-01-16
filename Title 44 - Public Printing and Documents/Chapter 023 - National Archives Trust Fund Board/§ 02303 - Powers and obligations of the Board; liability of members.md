@@ -10,7 +10,7 @@ Based on 44 U.S. Code, 1964 ed., §300ff (July 9, 1941, ch. 284, §6, 55 Stat. 5
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–497 amended section generally, inserting “Except as otherwise provided by this chapter,”.
+<b>1984</b>—Pub. L. 98–497 amended section generally, inserting "Except as otherwise provided by this chapter,".
 
 #### Effective Date of 1984 Amendment
 

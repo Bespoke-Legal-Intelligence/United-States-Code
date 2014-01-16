@@ -2,7 +2,7 @@
 
 #### (a) Authority to commence suits
 
-Except as provided in subsection (b) of this section, any person (other than the United States) may commence a civil action on his own behalf—
+Except as provided in subsection (b) of this section, any person (other than the UnitedStates) may commence a civil action on his own behalf—
 
 &emsp;(1) against any person (including (A) the United States, and (B) any other governmental instrumentality or agency to the extent permitted by the eleventh amendment to the Constitution) who is alleged to be in violation of any noise control requirement (as defined in subsection (e) <sup>1</sup> of this section), or
 
@@ -10,7 +10,7 @@ Except as provided in subsection (b) of this section, any person (other than the
 
 &emsp;&emsp;(A) the Administrator of the Environmental Protection Agency where there is alleged a failure of such Administrator to perform any act or duty under this chapter which is not discretionary with such Administrator, or
 
-&emsp;&emsp;(B) the Administrator of the Federal Aviation Administration where there is alleged a failure of such Administrator to perform anyact or duty under section 44715 of title 49 which is not discretionary with such Administrator.
+&emsp;&emsp;(B) the Administrator of the Federal Aviation Administration where there is alleged a failure of such Administrator to perform any act or duty under section 44715 of title 49 which is not discretionary with such Administrator.
 
 > The district courts of the United States shall have jurisdiction, without regard to the amount in controversy, to restrain such person from violating such noise control requirement or to order such Administrator to perform such act or duty, as the case may be.
 
@@ -40,15 +40,15 @@ The court, in issuing any final order in any action brought pursuant to subsecti
 
 Nothing in this section shall restrict any right which any person (or class of persons) may have under any statute or common law to seek enforcement of any noise control requirement or to seek any other relief (including relief against an Administrator).
 
-#### (f) “Noise control requirement” defined
+#### (f) "Noise control requirement" defined
 
-For purposes of this section, the term “noise control requirement” means paragraph (1), (2), (3), (4), or (5) of section 4909(a) of this title, or a standard, rule, or regulation issued under section 4916 or 4917 of this title or under section 44715 of title 49.
+For purposes of this section, the term "noise control requirement" means paragraph (1), (2), (3), (4), or (5) of section 4909(a) of this title, or a standard, rule, or regulation issued under section 4916 or 4917 of this title or under section 44715 of title 49.
 
 (Pub. L. 92–574, §12, Oct. 27, 1972, 86 Stat. 1243.)
 
 #### Codification
 
-In subsecs. (a)(2)(B), (b)(1)(A), (c), and (f), “section 44715 of title 49” substituted for “section 611 of the Federal Aviation Act of 1958” and “such section 611” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsecs. (a)(2)(B), (b)(1)(A), (c), and (f), "section 44715 of title 49" substituted for "section 611 of the Federal Aviation Act of 1958" and "such section 611" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(f)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be subsection "(f)".</i>
 

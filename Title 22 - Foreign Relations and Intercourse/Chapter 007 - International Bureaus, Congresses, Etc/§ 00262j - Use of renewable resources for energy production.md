@@ -18,9 +18,9 @@ The United States Government, in connection with its voice and vote in the Inter
 
 &emsp;(7) to coordinate with the Agency for International Development and other aid organizations in supporting effective rural energy programs.
 
-#### (b) “Renewable resource” defined
+#### (b) "Renewable resource" defined
 
-For purposes of this section, the term “renewable resource” means any energy resource which—
+For purposes of this section, the term "renewable resource" means any energy resource which—
 
 &emsp;(1) meets the needs of rural communities;
 
@@ -40,19 +40,19 @@ For purposes of this section, the term “renewable resource” means any energy
 
 #### Congressional Statement of Findings Respecting Use of Renewable Resources for Energy Production in Poor and Developing Countries and Role of International Financial Institutions
 
-Pub. L. 96–259, title VI, §601, June 3, 1980, 94 Stat. 432, provided that: “The Congress finds that—
+Pub. L. 96–259, title VI, §601, June 3, 1980, 94 Stat. 432, provided that: "The Congress finds that—
 
-&emsp;“(1) without an adequate supply of energy at affordable prices the world's poor will continue to be deprived of jobs, food, water, shelter, and clothing, and poor countries will continue to be economically and politically unstable;
+&emsp;"(1) without an adequate supply of energy at affordable prices the world's poor will continue to be deprived of jobs, food, water, shelter, and clothing, and poor countries will continue to be economically and politically unstable;
 
-&emsp;“(2) dependence on increasingly expensive fossil fuel resources consumes too much of the capital available to poor countries with the result that funds are not available to meet the basic needs of poor people;
+&emsp;"(2) dependence on increasingly expensive fossil fuel resources consumes too much of the capital available to poor countries with the result that funds are not available to meet the basic needs of poor people;
 
-&emsp;“(3) in many developing countries the cost of large central generators and long distance electrical distribution makes it unlikely that rural energy by means of a national grid will contribute to meeting the needs of poor people;
+&emsp;"(3) in many developing countries the cost of large central generators and long distance electrical distribution makes it unlikely that rural energy by means of a national grid will contribute to meeting the needs of poor people;
 
-&emsp;“(4) only one of eight rural inhabitants lives in an area which has access to electricity and even fewer rural inhabitants actually have or can afford electricity;
+&emsp;"(4) only one of eight rural inhabitants lives in an area which has access to electricity and even fewer rural inhabitants actually have or can afford electricity;
 
-&emsp;“(5) wood, animal and agricultural waste, and other ‘noncommercial’ fuels still supply about half the total energy in developing countries and all but a seventh in rural sectors;
+&emsp;"(5) wood, animal and agricultural waste, and other 'noncommercial' fuels still supply about half the total energy in developing countries and all but a seventh in rural sectors;
 
-&emsp;“(6) growing dependence of the world's poor on wood for heating and cooking has forced the overcutting of forests and as a consequence erosion and loss of available agricultural land; and
+&emsp;"(6) growing dependence of the world's poor on wood for heating and cooking has forced the overcutting of forests and as a consequence erosion and loss of available agricultural land; and
 
-&emsp;“(7) recent initiatives by the international financial institutions to develop and utilize decentralized solar, hydro, biomass, geothermal, and wind energy should be significantly expanded to make renewable energy resources increasingly available to the world's poor on a wide scale.”
+&emsp;"(7) recent initiatives by the international financial institutions to develop and utilize decentralized solar, hydro, biomass, geothermal, and wind energy should be significantly expanded to make renewable energy resources increasingly available to the world's poor on a wide scale."
 

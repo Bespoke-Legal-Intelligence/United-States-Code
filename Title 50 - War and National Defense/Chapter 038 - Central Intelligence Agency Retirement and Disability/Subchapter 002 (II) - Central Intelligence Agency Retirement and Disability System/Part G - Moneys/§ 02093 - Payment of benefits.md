@@ -40,7 +40,7 @@ The annuity to a survivor shall become effective as otherwise specified but shal
 
 #### (e) Waiver of annuity
 
-An individual entitled to an annuity from the fund may decline to accept all or any part of the annuity by submitting a signed waiver to the Director. The waiver may be revoked in writing at any time. Payment of the annuity waivedmay not be made for the period during which the waiver is in effect.
+An individual entitled to an annuity from the fund may decline to accept all or any part of the annuity by submitting a signed waiver to the Director. The waiver may be revoked in writing at any time. Payment of the annuity waived may not be made for the period during which the waiver is in effect.
 
 #### (f) Limitations
 
@@ -70,9 +70,9 @@ An individual entitled to an annuity from the fund may decline to accept all or 
 
 &emsp;This subsection does not give the consent of the United States to the application of a statute which imposes more burdensome requirements of the United States than on employers generally, or which subjects the United States or any annuitant to a penalty or liability because of this subsection. The Director may not accept pay from a State for services performed in withholding State income taxes from annuities. Any amount erroneously withheld from an annuity and paid to a State by the Director shall be repaid by the State in accordance with regulations prescribed by the Director.
 
-#### (5) “State” defined
+#### (5) "State" defined
 
-&emsp;For the purpose of this subsection, the term “State” includes the District of Columbia and any territory or possession of the United States.
+&emsp;For the purpose of this subsection, the term "State" includes the District of Columbia and any territory or possession of the United States.
 
 (Pub. L. 88–643, title II, §263, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3235.)
 

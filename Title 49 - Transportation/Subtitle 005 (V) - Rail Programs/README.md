@@ -67,19 +67,19 @@
 
 Pub. L. 110–432, div. B, title III, §303(b), Oct. 16, 2008, 122 Stat. 4951, which directed insertion of the item for chapter 227 after the item for chapter 223, was executed by making the insertion after the item for chapter 225 to reflect the probable intent of Congress.
 
-<b>2007</b>—Pub. L. 110–140, title XI, §1112(b), Dec. 19, 2007, 121 Stat. 1759, substituted “Capital Grants for Class II and Class III Railroads” for “Light Density Rail Line Pilot Projects” in item for chapter 223.
+<b>2007</b>—Pub. L. 110–140, title XI, §1112(b), Dec. 19, 2007, 121 Stat. 1759, substituted "Capital Grants for Class II and Class III Railroads" for "Light Density Rail Line Pilot Projects" in item for chapter 223.
 
 <b>1998</b>—Pub. L. 105–178, title VII, §7202(b), June 9, 1998, 112 Stat. 471, added item for chapter 223.
 
-<b>1997</b>—Pub. L. 105–134, title I, §106(a), Dec. 2, 1997, 111 Stat. 2573, struck out item for chapter 245 “Amtrak Commuter”.
+<b>1997</b>—Pub. L. 105–134, title I, §106(a), Dec. 2, 1997, 111 Stat. 2573, struck out item for chapter 245 "Amtrak Commuter".
 
 <b>1996</b>—Pub. L. 104–287, §5(56)(B), Oct. 11, 1996, 110 Stat. 3394, added item for chapter 283.
 
-<b>1994</b>—Pub. L. 103–440, title I, §103(b)(1), Nov. 2, 1994, 108 Stat. 4618, added part D and item for chapter 261, struck out former part D “MISCELLANEOUS” and former item for chapter 261 “Law Enforcement . . . 26101”, and added part E and item for chapter 281.
+<b>1994</b>—Pub. L. 103–440, title I, §103(b)(1), Nov. 2, 1994, 108 Stat. 4618, added part D and item for chapter 261, struck out former part D "MISCELLANEOUS" and former item for chapter 261 "Law Enforcement . . . 26101", and added part E and item for chapter 281.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Federal Grants to States for Highway-Rail Grade Crossing Safety”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Federal Grants to States for Highway-Rail Grade Crossing Safety".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “State Rail Plans”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "State Rail Plans".</i>
 
 
 ---

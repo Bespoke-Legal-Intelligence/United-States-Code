@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (1) Qualifying gasification project
 
-&emsp;The term “qualifying gasification project” means any project which—
+&emsp;The term "qualifying gasification project" means any project which—
 
 &emsp;&emsp;(A) employs gasification technology,
 
@@ -40,17 +40,17 @@ For purposes of this section—
 
 #### (2) Gasification technology
 
-&emsp;The term “gasification technology” means any process which converts a solid or liquid product from coal, petroleum residue, biomass, or other materials which are recovered for their energy or feedstock value into a synthesis gas composed primarily of carbon monoxide and hydrogen for direct use or subsequent chemical or physical conversion.
+&emsp;The term "gasification technology" means any process which converts a solid or liquid product from coal, petroleum residue, biomass, or other materials which are recovered for their energy or feedstock value into a synthesis gas composed primarily of carbon monoxide and hydrogen for direct use or subsequent chemical or physical conversion.
 
 #### (3) Eligible property
 
-&emsp;The term “eligible property” means any property which is a part of a qualifying gasification project and is necessary for the gasification technology of such project.
+&emsp;The term "eligible property" means any property which is a part of a qualifying gasification project and is necessary for the gasification technology of such project.
 
 #### (4) Biomass
 
 #### (A) In general
 
-&emsp;&emsp;The term “biomass” means any—
+&emsp;&emsp;The term "biomass" means any—
 
 &emsp;&emsp;&emsp;(i) agricultural or plant waste,
 
@@ -60,19 +60,19 @@ For purposes of this section—
 
 #### (B) Exclusion
 
-&emsp;&emsp;The term “biomass” does not include paper which is commonly recycled.
+&emsp;&emsp;The term "biomass" does not include paper which is commonly recycled.
 
 #### (5) Carbon capture capability
 
-&emsp;The term “carbon capture capability” means a gasification plant design which is determined by the Secretary to reflect reasonable consideration for, and be capable of, accommodating the equipment likely to be necessary to capture carbon dioxide from the gaseous stream, for later use or sequestration, which would otherwise be emitted in the flue gas from a project which uses a nonrenewable fuel.
+&emsp;The term "carbon capture capability" means a gasification plant design which is determined by the Secretary to reflect reasonable consideration for, and be capable of, accommodating the equipment likely to be necessary to capture carbon dioxide from the gaseous stream, for later use or sequestration, which would otherwise be emitted in the flue gas from a project which uses a nonrenewable fuel.
 
 #### (6) Coal
 
-&emsp;The term “coal” means anthracite, bituminous coal, subbituminous coal, lignite, and peat.
+&emsp;The term "coal" means anthracite, bituminous coal, subbituminous coal, lignite, and peat.
 
 #### (7) Eligible entity
 
-&emsp;The term “eligible entity” means any person whose application for certification is principally intended for use in a domestic project which employs domestic gasification applications related to—
+&emsp;The term "eligible entity" means any person whose application for certification is principally intended for use in a domestic project which employs domestic gasification applications related to—
 
 &emsp;&emsp;(A) chemicals,
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (8) Petroleum residue
 
-&emsp;The term “petroleum residue” means the carbonized product of high-boiling hydrocarbon fractions obtained in petroleum processing.
+&emsp;The term "petroleum residue" means the carbonized product of high-boiling hydrocarbon fractions obtained in petroleum processing.
 
 #### (d) Qualifying gasification project program
 
@@ -150,13 +150,13 @@ The date of the enactment of this section, referred to in subsec. (d)(1), is the
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b)(2). Pub. L. 111–5 inserted “(without regard to subparagraph (D) thereof)” after “section 48(a)(4)”.
+<b>2009</b>—Subsec. (b)(2). Pub. L. 111–5 inserted "(without regard to subparagraph (D) thereof)" after "section 48(a)(4)".
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–343, §112(a), inserted “(30 percent in the case of credits allocated under subsection (d)(1)(B))” after “20 percent”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–343, §112(a), inserted "(30 percent in the case of credits allocated under subsection (d)(1)(B))" after "20 percent".
 
 Subsec. (c)(7)(H). Pub. L. 110–343, §112(e), added subpar. (H).
 
-Subsec. (d)(1). Pub. L. 110–343, §112(b), substituted “shall not exceed—” for “shall not exceed $350,000,000 under rules similar to the rules of section 48A(d)(4).” and added subpars. (A) and (B).
+Subsec. (d)(1). Pub. L. 110–343, §112(b), substituted "shall not exceed—" for "shall not exceed $350,000,000 under rules similar to the rules of section 48A(d)(4)." and added subpars. (A) and (B).
 
 Subsec. (d)(4). Pub. L. 110–343, §112(d), added par. (4).
 
@@ -168,7 +168,7 @@ Amendment by Pub. L. 111–5 applicable to periods after Dec. 31, 2008, under ru
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. B, title I, §112(f), Oct. 3, 2008, 122 Stat. 3824, provided that: “The amendments made bythis section \[amending this section\] shall apply to credits described in section 48B(d)(1)(B) of the Internal Revenue Code of 1986 which are allocated or reallocated after the date of the enactment of this Act \[Oct. 3, 2008\].”
+Pub. L. 110–343, div. B, title I, §112(f), Oct. 3, 2008, 122 Stat. 3824, provided that: "The amendments made bythis section \[amending this section\] shall apply to credits described in section 48B(d)(1)(B) of the Internal Revenue Code of 1986 which are allocated or reallocated after the date of the enactment of this Act \[Oct. 3, 2008\]."
 
 #### Effective Date
 

@@ -16,7 +16,7 @@
 
 #### (2) Qualifying coverage
 
-&emsp;For purposes of paragraph (1)(A), the term “required coverage” means with respect to an MA–PD plan—
+&emsp;For purposes of paragraph (1)(A), the term "required coverage" means with respect to an MA–PD plan—
 
 &emsp;&emsp;(A) basic prescription drug coverage; or
 
@@ -84,7 +84,7 @@ With respect to an MA plan described in section 1395w–21(a)(2)(C) of this titl
 
 #### (4) Application of reinsurance
 
-&emsp;The Secretary shall determine the amount of reinsurance payments under section 1395w–115(b) of this title using a methodology that—
+&emsp;The Secretary shall determine the amount of reinsurance payments under section1395w–115(b) of this title using a methodology that—
 
 &emsp;&emsp;(A) bases such amount on the Secretary's estimate of the amount of such payments that would be payable if the plan were an MA–PD plan described in section 1395w–21(a)(2)(A)(i) of this title and the previous provisions of this subsection did not apply; and
 
@@ -106,7 +106,7 @@ With respect to an MA plan described in section 1395w–21(a)(2)(C) of this titl
 
 #### (1) In general
 
-&emsp;Subject to paragraphs (2) and (3) and rules established by the Secretary, in the case of an organization that is providing benefits under a reasonable cost reimbursement contract under section 1395mm(h) of this title and that elects to provide qualified prescription drug coverage to a part D eligible individual who is enrolled under such a contract, the provisions of this part (and related provisions of part C of this subchapter) shall apply to the provision of such coverage to such enrollee in the same manner as such provisions apply to the provision of such coverage under an MA–PD local plan described in section 1395–21(a)(2)(A)(i) of this title and coverage under such a contractthat so provides qualified prescription drug coverage shall be deemed to be an MA–PD local plan.
+&emsp;Subject to paragraphs (2) and (3) and rules established by the Secretary, in the case of an organization that is providing benefits under a reasonable cost reimbursement contract under section 1395mm(h) of this title and that elects to provide qualified prescription drug coverage to a part D eligible individual who is enrolled under such a contract, the provisions of this part (and related provisions of part C of this subchapter) shall apply to the provision of such coverage to such enrollee in the same manner as such provisions apply to the provision of such coverage under an MA–PD local plan described in section 1395–21(a)(2)(A)(i) of this title and coverage under such a contract that so provides qualified prescription drug coverage shall be deemed to be an MA–PD local plan.
 
 #### (2) Limitation on enrollment
 

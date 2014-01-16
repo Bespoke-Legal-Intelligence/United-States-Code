@@ -108,7 +108,7 @@
 
 &emsp;(B) that individual is not otherwise ineligible for such annuity.
 
-(f) If a Member heretofore or hereafter separated from the service with title to deferred annuity from the Fund hereafter dies before having established a valid claim for annuity and is survived by a spouse to whom married at the date of separation, the surviving spouse—
+(f) If a Member heretofore or hereafter separated from the service with title to deferred annuity from the Fund hereafter dies before having established a valid claim for annuity and issurvived by a spouse to whom married at the date of separation, the surviving spouse—
 
 &emsp;(1) is entitled to an annuity equal to 55 percent of the deferred annuity of the Member commencing on the day after the Member dies and terminating on the last day of the month before the surviving spouse dies or remarries; or
 
@@ -170,13 +170,13 @@
 
 (7) As used in this subsection, “court” means any court of any State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the Northern Mariana Islands, or the Virgin Islands, and any Indian court.
 
-(i) The requirement in subsections (a)(1)(A) and (a)(2)(A) of this section that the surviving spouse of an employee or Member have been married to such employee or Member for at least 9 months immediately before the employee or Member's death in order to qualify as the widow or widower of such employee or Member shall be deemed satisfied in any case in which the employee or Member dies within the applicable 9-month period, if—
+(i) The requirement in subsections (a)(1)(A) and (a)(2)(A) of this section that the surviving spouse of an employee or Member have been married to such employee or Member for at least 9 months immediately before the employee or Member's death in order to qualify as the widow or widower of such employee or Member shall be deemed satisfied in any case in whichthe employee or Member dies within the applicable 9-month period, if—
 
 &emsp;(1) the death of the employee or Member was accidental; or
 
 &emsp;(2) the surviving spouse of such individual had been previously married to the individual and subsequently divorced, and the aggregate time married is at least 9 months.
 
-(k)(1) <sup>1</sup> Subsections (b)(3)(B), (d)(ii), and (h)(3)(B)(i) (to the extent that they provide for termination of a survivor annuity because of a remarriage before age 55) shall not apply if thewidow, widower, or former spouse was married for at least 30 years to the individual on whose service the survivor annuity is based.
+(k)(1) <sup>1</sup> Subsections (b)(3)(B), (d)(ii), and (h)(3)(B)(i) (to the extent that they provide for termination of a survivor annuity because of a remarriage before age 55) shall not apply if the widow, widower, or former spouse was married for at least 30 years to the individual on whose service the survivor annuity is based.
 
 (2) A remarriage described in paragraph (1) shall not be taken into account for purposes of section 8339(j)(5)(B) or (C) or any other provision of this chapter which the Office may by regulation identify in order to carry out the purposes of this subsection.
 
@@ -312,7 +312,7 @@ Subsec. (h)(4)(A). Pub. L. 99–251, §207, inserted “or death” after “ret
 
 <b>1984</b>—Subsec. (a)(1)(A), (2)(A). Pub. L. 98–615, §2(4)(A), substituted “9 months” for “1 year”.
 
-Subsec. (b)(1). Pub. L. 98–615, §2(4)(B)(i), substituted “by a widow or widower, the widow or widower is entitled to an annuity equal to 55 percent (or 50 percent ifretired before October 11, 1962)” for “by a spouse to whom he was married at the time of retirement, or by a widow or widower whom he married after retirement, the spouse, widow, or widower is entitled to an annuity equal to 55 percent, or 50 percent if retired before October 11, 1962” and “section 8339(j)(1) of this title, unless the right to a survivor annuity was waived under such section 8339(j)(1) or, in the case of remarriage, the employee or Member did not file an election under section 8339(j)(5)(C) or section 8339(k)(2) of this title, as the case may be” for “section 8339(j) of this title, unless the employee or Member has notified the Office in writing at the time of retirement that he does not desire any spouse surviving him to receive his annuity, or in the case of remarriage, he did not file an election under the third sentence of section 8339(j) of this title”.
+Subsec. (b)(1). Pub. L. 98–615, §2(4)(B)(i), substituted “by a widow or widower, the widow or widower is entitled to an annuity equal to 55 percent (or 50 percent if retired before October 11, 1962)” for “by a spouse to whom he was married at the time of retirement, or by a widow or widower whom he married after retirement, the spouse, widow, or widower is entitled to an annuity equal to 55 percent, or 50 percent if retired before October 11, 1962” and “section 8339(j)(1) of this title, unless the right to a survivor annuity was waived under such section 8339(j)(1) or, in the case of remarriage, the employee or Member did not file an election under section 8339(j)(5)(C) or section 8339(k)(2) of this title, as the case may be” for “section 8339(j) of this title, unless the employee or Member has notified the Office in writing at the time of retirement that he does not desire any spouse surviving him to receive his annuity, or in the case of remarriage, he did not file an election under the third sentence of section 8339(j) of this title”.
 
 Pub. L. 98–353 substituted “and (n)” for “and (o)”.
 
@@ -386,11 +386,11 @@ Subsec. (e)(1). Pub. L. 91–93, §206(b), increased annuity of a surviving chil
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i), (j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
+Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual whois employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i), (j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 516(a) of Pub. L. 105–61 applicable to any annuity commencing before, on, or after Oct. 10, 1997, and effective with regard to any paymentmade after the first month following Oct. 10, 1997, see section 516(b) of Pub. L. 105–61, set out as a note under section 8334 of this title.
+Amendment by section 516(a) of Pub. L. 105–61 applicable to any annuity commencing before, on, or after Oct. 10, 1997, and effective with regard to any payment made after the first month following Oct. 10, 1997, see section 516(b) of Pub. L. 105–61, set out as a note under section 8334 of this title.
 
 Section 518(c) of Pub. L. 105–61 provided that: “The amendments made by this section \[amending this section and sections 8442 and 8445 of this title\] shall apply with respect to remarriages occurring on or after January 1, 1995.”
 
@@ -404,7 +404,7 @@ Amendment by Pub. L. 99–272 effective with respect to service performed on or 
 
 #### Effective Date of 1984 Amendments
 
-Section 4 of Pub. L. 98–615, as amended by Pub. L. 99–251, title II, §201(a)–(c), Feb. 27, 1986, 100 Stat. 20, 22; Pub. L. 99–549, §9(a), Oct. 27, 1986, 100 Stat. 3065; Pub. L. 99–556, title V, §501(a), Oct. 27, 1986, 100 Stat. 3139; Pub. L. 100–238, title I, §127, Jan. 8, 1988, 101 Stat. 1758, provided that:
+Pub. L. 98–615, §4, Nov. 8, 1984, 98 Stat. 3204, as amended by Pub. L. 99–251, title II, §201(a)–(c), Feb. 27, 1986, 100 Stat. 20, 22; Pub. L. 99–549, §9(a), Oct. 27, 1986, 100 Stat. 3065; Pub. L. 99–556, title V, §501(a), Oct. 27, 1986, 100 Stat. 3139; Pub. L. 100–238, title I, §127, Jan. 8, 1988, 101 Stat. 1758, provided that:
 
 “(a)(1) Except as provided in paragraphs (3), (4), (5), and (6) and subsections (b) and (c), the amendments made by section 2 of this Act \[amending this section and sections 8331, 8334, 8339, 8342, 8345, and 8348 of this title\] shall take effect May 7, 1985, and shall apply—
 
@@ -444,7 +444,7 @@ Section 4 of Pub. L. 98–615, as amended by Pub. L. 99–251, title II, §201(a
 
 “(D) The amendments made by paragraphs (6) and (7) of section 2 of this Act \[amending sections 8345 and 8348 of this title\] shall apply in the case of survivor annuities and elections authorized by this paragraph.
 
-“(6) The amendment made by section 2(4)(A) of this Act \[amending section 8341 of this title\] (relating to the definition of a widow or widower) and the amendment made by section 2(4)(G) of this Act (but only to the extent that it amends title 5, United States Code, by adding a new section 8341(i)) shall apply with respect to any marriage occurring on or after the date of the enactment of this Act \[Nov. 8, 1984\].
+“(6) The amendment made by section 2(4)(A) of this Act \[amending section 8341 of this title\] (relating to the definition of a widow or widower) and the amendment made by section 2(4)(G) of this Act (but only to the extent that it amends title 5, United States Code, by adding a new section 8341(i)) shall apply with respect toany marriage occurring on or after the date of the enactment of this Act \[Nov. 8, 1984\].
 
 “(b)(1) Notwithstanding subsection (a)(1) of this section, a former spouse of an employee or Member who retired before May 7, 1985, or who died after becoming eligible to retire and before such date, is entitled to a survivor annuity under section 8341(b) of title 5, United States Code, as amended by this Act, if—
 
@@ -516,7 +516,7 @@ Section 4 of Pub. L. 98–615, as amended by Pub. L. 99–251, title II, §201(a
 
 “(2) For purposes of subsection (a)(2), ‘employee’ and ‘annuitant’ each has the meaning given that term under section 8901 of title 5, United States Code.
 
-“(h) Section 827 of the Foreign Service Act of 1980 \[22 U.S.C. 4067\] and section 292 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees \[50 U.S.C. 403 note\] shall not apply with respect to either the amendments made by section 2 \[amending sections 8331, 8334, 8339, 8341, 8342, 8345, and 8348 of this title\] or the preceding provisions of this section.”
+“(h) Section 827 of the Foreign Service Act of 1980 \[22 U.S.C. 4067\] and section 292 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees \[former 50 U.S.C. 403 note\] shall not apply with respect to either the amendments made by section 2 \[amending sections 8331, 8334, 8339, 8341, 8342, 8345, and 8348 of this title\] or the preceding provisions of this section.”
 
 \[Section 501(b) of Pub. L. 99–556 provided that: “The amendments made by this section \[amending note above\] shall be effective as of May 7, 1985.”\]
 
@@ -570,7 +570,7 @@ Section 207(c) of Pub. L. 91–93 provided that:
 
 &emsp;“(1) The amendment made by section 206(b) of this Act \[amending this section\] shall become effective on the first day of the first month which begins on or after the date of enactment of this Act \[Oct. 20, 1969\].
 
-&emsp;“(2) The annuity of each surviving child who, immediately prior to the effective date of such amendment \[amending this section\] is receiving an annuityunder section 8341(e) of title 5, United States Code, or under a comparable provision of any prior law, or who hereafter becomes entitled to receive annuity under the Act of May 29, 1930, as amended from and after February 28, 1948, shall be recomputed effective on such date, or computed from commencing date if later, in accordance with such amendment. No increase allowed and in force prior to such date shall be included in the computation or recomputation of any such annuity. This paragraph shall not operate to reduce any annuity.”
+&emsp;“(2) The annuity of each surviving child who, immediately prior to the effective date of such amendment \[amending this section\] is receiving an annuity under section 8341(e) of title 5, United States Code, or under a comparable provision of any prior law, or who hereafter becomes entitled to receive annuity under the Act of May 29, 1930, as amended from and after February 28, 1948, shall be recomputed effective on such date, or computed from commencing date if later, in accordance with such amendment. No increase allowed and in force prior to such date shall be included in the computation or recomputation of any such annuity. This paragraph shall not operate to reduce any annuity.”
 
 #### Additional Elections Under Civil Service Retirement Spouse Equity Act of 1984
 

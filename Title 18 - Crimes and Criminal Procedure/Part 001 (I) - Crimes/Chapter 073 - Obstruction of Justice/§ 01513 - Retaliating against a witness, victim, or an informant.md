@@ -2,7 +2,7 @@
 
 (a)(1) Whoever kills or attempts to kill another person with intent to retaliate against any person for—
 
-&emsp;(A) the attendance of a witness or party at an official proceeding, or any testimony given or any record, document, or other object produced by a witness in an official proceeding; or
+&emsp;(A) the attendance of a witness or party at an official proceeding, or any testimony givenor any record, document, or other object produced by a witness in an official proceeding; or
 
 &emsp;(B) providing to a law enforcement officer any information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, supervised release, parole, or release pending judicial proceedings,
 
@@ -18,7 +18,7 @@
 
 &emsp;(1) the attendance of a witness or party at an official proceeding, or any testimony given or any record, document, or other object produced by a witness in an official proceeding; or
 
-&emsp;(2) any information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation,supervised release, parole, or release pending judicial proceedings given by a person to a law enforcement officer;
+&emsp;(2) any information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, supervised release, parole, or release pending judicial proceedings given by a person to a law enforcement officer;
 
 > or attempts to do so, shall be fined under this title or imprisoned not more than 20 years, or both.
 
@@ -36,19 +36,19 @@
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1)(B). Pub. L. 110–177, §206(1), inserted comma after “probation” and struck out comma after “release,”.
+<b>2008</b>—Subsec. (a)(1)(B). Pub. L. 110–177, §206(1), inserted comma after "probation" and struck out comma after "release,".
 
-Subsec. (a)(2)(B). Pub. L. 110–177, §206(2), substituted “30 years” for “20 years”.
+Subsec. (a)(2)(B). Pub. L. 110–177, §206(2), substituted "30 years" for "20 years".
 
-Subsec. (b). Pub. L. 110–177, §206(3)(B), substituted “20 years” for “ten years” in concluding provisions.
+Subsec. (b). Pub. L. 110–177, §206(3)(B), substituted "20 years" for "ten years" in concluding provisions.
 
-Subsec. (b)(2). Pub. L. 110–177, §206(3)(A), inserted comma after “probation” and struck out comma after “release,”.
+Subsec. (b)(2). Pub. L. 110–177, §206(3)(A), inserted comma after "probation" and struck out comma after "release,".
 
 Subsecs. (e), (f). Pub. L. 110–177, §206(4), redesignated subsec. (e) relating to conspiracy to commit any offense under this section as (f).
 
 Subsec. (g). Pub. L. 110–177, §204, added subsec. (g).
 
-<b>2002</b>—Subsecs. (a)(1)(B), (b)(2). Pub. L. 107–273, §3001(c)(2), inserted “supervised release,” after “probation”.
+<b>2002</b>—Subsecs. (a)(1)(B), (b)(2). Pub. L. 107–273, §3001(c)(2), inserted "supervised release," after "probation".
 
 Subsec. (d). Pub. L. 107–273, §4002(b)(4), transferred subsec. (d) to appear after subsec. (c).
 
@@ -64,7 +64,7 @@ Subsec. (d). Pub. L. 104–214, §1(1)(A), redesignated subsec. (c) as (d).
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–322, §60017(2), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (b). Pub. L. 103–322, §330016(1)(U), substituted “fined under this title” for “fined not more than $250,000” in concluding provisions.
+Subsec. (b). Pub. L. 103–322, §330016(1)(U), substituted "fined under this title" for "fined not more than $250,000" in concluding provisions.
 
 Pub. L. 103–322, §60017(1), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
 

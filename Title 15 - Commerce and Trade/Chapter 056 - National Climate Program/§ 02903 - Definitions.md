@@ -2,13 +2,13 @@
 
 As used in this chapter, unless the context otherwise requires:
 
-&emsp;(1) The term “Board” means the Climate Program Policy Board.
+&emsp;(1) The term "Board" means the Climate Program Policy Board.
 
-&emsp;(2) The term “Office” means the National Climate Program Office.
+&emsp;(2) The term "Office" means the National Climate Program Office.
 
-&emsp;(3) The term “Program” means the National Climate Program.
+&emsp;(3) The term "Program" means the National Climate Program.
 
-&emsp;(4) The term “Secretary” means the Secretary of Commerce.
+&emsp;(4) The term "Secretary" means the Secretary of Commerce.
 
 (Pub. L. 95–367, §4, Sept. 17, 1978, 92 Stat. 601; Pub. L. 99–272, title VI, §6084(a), Apr. 7, 1986, 100 Stat. 136.)
 

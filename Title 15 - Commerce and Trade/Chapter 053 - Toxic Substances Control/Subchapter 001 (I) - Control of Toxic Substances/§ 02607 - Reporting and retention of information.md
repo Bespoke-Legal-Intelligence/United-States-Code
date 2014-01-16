@@ -44,7 +44,7 @@
 
 > to maintain such records on such substance or mixture, and to submit to the Administrator such reports on such substance or mixture, as the Administrator may reasonably require. A rule under this clause requiring reporting may require reporting with respect to the matters referred to in paragraph (2).
 
-(B) The Administrator, after consultation with the Administrator of the Small BusinessAdministration, shall by rule prescribe standards for determining the manufacturers and processors which qualify as small manufacturers and processors for purposes of this paragraph and paragraph (1).
+(B) The Administrator, after consultation with the Administrator of the Small Business Administration, shall by rule prescribe standards for determining the manufacturers and processors which qualify as small manufacturers and processors for purposes of this paragraph and paragraph (1).
 
 #### (b) Inventory
 
@@ -68,9 +68,9 @@ The Administrator shall promulgate rules under which the Administrator shall req
 
 Any person who manufactures, processes, or distributes in commerce a chemical substance or mixture and who obtains information which reasonably supports the conclusion that such substance or mixture presents a substantial risk of injury to health or the environment shall immediately inform the Administrator of such information unless such person has actual knowledge that the Administrator has been adequately informed of such information.
 
-#### (f) “Manufacture” and “process” defined
+#### (f) "Manufacture" and "process" defined
 
-For purposes of this section, the terms “manufacture” and “process” mean manufacture or process for commercial purposes.
+For purposes of this section, the terms "manufacture" and "process" mean manufacture or process for commercial purposes.
 
 (Pub. L. 94–469, title I, §8, Oct. 11, 1976, 90 Stat. 2027; renumbered title I, Pub. L. 99–519, §3(c)(1), Oct. 22, 1986, 100 Stat. 2989.)
 
@@ -78,49 +78,49 @@ For purposes of this section, the terms “manufacture” and “process” mean
 
 Pub. L. 100–577, Oct. 31, 1988, 102 Stat. 2901, provided that:
 
-#### “SECTION 1. SHORT TITLE.
+#### "SECTION 1. SHORT TITLE.
 
-“This Act may be cited as the ‘Asbestos Information Act of 1988’.
+"This Act may be cited as the 'Asbestos Information Act of 1988'.
 
-#### “SEC. 2. SUBMISSION OF INFORMATION BY MANUFACTURERS.
+#### "SEC. 2. SUBMISSION OF INFORMATION BY MANUFACTURERS.
 
-“Within 90 days after the date of the enactment of this Act \[Oct. 31, 1988\], any person who manufactured or processed, before the date of the enactment of this Act, asbestos or asbestos-containing material that was prepared for sale for use as surfacing material, thermal system insulation, or miscellaneous material in buildings (or whose corporate predecessor manufactured or processed such asbestos or material) shall submit to the Administrator of the Environmental Protection Agency the years of manufacture, the types or classes of product, and, to the extent available, other identifying characteristics reasonably necessary to identify or distinguish the asbestos or asbestos-containing material. Such person also may submit to the Administrator protocols for samples of asbestos and asbestos-containing material.
+"Within 90 days after the date of the enactment of this Act \[Oct. 31, 1988\], any person who manufactured or processed, before the date of the enactment of this Act, asbestos or asbestos-containing material that was prepared for sale for use as surfacing material, thermal system insulation, or miscellaneous material in buildings (or whose corporate predecessor manufactured or processed such asbestos or material) shall submit to the Administrator of the Environmental Protection Agency the years of manufacture, the types or classes of product, and, to the extent available, other identifying characteristics reasonably necessary to identify or distinguish the asbestos or asbestos-containing material. Such person also may submit to the Administrator protocols for samples of asbestos and asbestos-containing material.
 
-#### “SEC. 3. PUBLICATION OF INFORMATION.
+#### "SEC. 3. PUBLICATION OF INFORMATION.
 
-“Within 30 days after the date of the enactment of this Act \[Oct. 31, 1988\], the Administrator shall publish a notice in the Federal Register that explains how,when, and where the information specified in section 2 is to be submitted. The Administrator shall receive and organize the information submitted under section 2 and, within 180 days after the date of the enactment of this Act, shall publish the information. In carrying out this section, the Administrator may not—
+"Within 30 days after the date of the enactment of this Act \[Oct. 31, 1988\], the Administrator shall publish a notice in the Federal Register that explains how, when, and where the information specified in section 2 is to be submitted. The Administrator shall receive and organize the information submitted under section 2 and, within 180 days after the date of the enactment of this Act, shall publish the information. In carrying out this section, the Administrator may not—
 
-&emsp;“(1) review the information submitted under section 2 for accuracy, or
+&emsp;"(1) review the information submitted under section 2 for accuracy, or
 
-&emsp;“(2) analyze such information to determine whether it is reasonably necessary to identify or distinguish the particular asbestos or asbestos-containing material.
+&emsp;"(2) analyze such information to determine whether it is reasonably necessary to identify or distinguish the particular asbestos or asbestos-containing material.
 
-#### “SEC. 4. DEFINITIONS.
+#### "SEC. 4. DEFINITIONS.
 
-“In this Act:
+"In this Act:
 
-&emsp;“(1) The term ‘asbestos’ means—
+&emsp;"(1) The term 'asbestos' means—
 
-&emsp;&emsp;“(A) chrysotile, amosite, or crocidolite, or
+&emsp;&emsp;"(A) chrysotile, amosite, or crocidolite, or
 
-&emsp;&emsp;“(B) in fibrous form, tremolite, anthophyllite, or actinolite.
+&emsp;&emsp;"(B) in fibrous form, tremolite, anthophyllite, or actinolite.
 
-&emsp;“(2) The term ‘asbestos-containing material’ means any material containing more than one percent asbestos by weight.
+&emsp;"(2) The term 'asbestos-containing material' means any material containing more than one percent asbestos by weight.
 
-&emsp;“(3) The term ‘identifying characteristics’ means a description of asbestos or asbestos-containing material, including—
+&emsp;"(3) The term 'identifying characteristics' means a description of asbestos or asbestos-containing material, including—
 
-&emsp;&emsp;“(A) the mineral or chemical constituents (or both) of the asbestos or material by weight or volume (or both),
+&emsp;&emsp;"(A) the mineral or chemical constituents (or both) of the asbestos or material by weight or volume (or both),
 
-&emsp;&emsp;“(B) the types or classes of the product in which the asbestos or material is contained,
+&emsp;&emsp;"(B) the types or classes of the product in which the asbestos or material is contained,
 
-&emsp;&emsp;“(C) the designs, patterns, or textures of the product in which the asbestos or material is contained, and
+&emsp;&emsp;"(C) the designs, patterns, or textures of the product in which the asbestos or material is contained, and
 
-&emsp;&emsp;“(D) the means by which the product in which the asbestos or material is contained may be distinguishable from other products containing asbestos or asbestos-containing material.
+&emsp;&emsp;"(D) the means by which the product in which the asbestos or material is contained may be distinguishable from other products containing asbestos or asbestos-containing material.
 
-&emsp;“(4) The term ‘miscellaneous material’ means building material on structural components, structural members, or fixtures, such as floor and ceiling tiles. The term does not include surfacing material or thermal system insulation.
+&emsp;"(4) The term 'miscellaneous material' means building material on structural components, structural members, or fixtures, such as floor and ceiling tiles. The term does not include surfacing material or thermal system insulation.
 
-&emsp;“(5) The term ‘protocol’ means any procedure for taking, handling, and preserving samples of asbestos and asbestos-containing material and for testing and analyzing such samples for the purpose of determining the person who manufactured or processed for sale such samples and the identifying characteristics of such samples.
+&emsp;"(5) The term 'protocol' means any procedure for taking, handling, and preserving samples of asbestos and asbestos-containing material and for testing and analyzing such samples for the purpose of determining the person who manufactured or processed for sale such samples and the identifying characteristics of such samples.
 
-&emsp;“(6) The term ‘surfacing material’ means material in a building that is sprayed on surfaces, troweled on surfaces, or otherwise applied to surfaces for acoustical, fireproofing, or other purposes, such as acoustical plaster on ceilings and fireproofing material on structural members.
+&emsp;"(6) The term 'surfacing material' means material in a building that is sprayed on surfaces, troweled on surfaces, or otherwise applied to surfaces for acoustical, fireproofing, or other purposes, such as acoustical plaster on ceilings and fireproofing material on structural members.
 
-&emsp;“(7) The term ‘thermal system insulation’ means material in a building applied to pipes, fittings, boilers, breeching, tanks, ducts, or other structural components to prevent heat loss or gain or water condensation, or for other purposes.”
+&emsp;"(7) The term 'thermal system insulation' means material in a building applied to pipes, fittings, boilers, breeching, tanks, ducts, or other structural components to prevent heat loss or gain or water condensation, or for other purposes."
 

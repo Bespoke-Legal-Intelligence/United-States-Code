@@ -10,15 +10,15 @@ Subject to the provisions of subsections (a), (b), and (c) of this section, the 
 
 (d)(1) Notwithstanding subsection (c) of this section, the fact that there is outstanding on any numbered school section, whether or not mineral in character, at the time of its survey a mineral lease or leases entered into by the United States, or an application therefor, shall not prevent the grant of such numbered school section to the State concerned as provided by this section and section 871 of this title.
 
-(2) Any such numbered school section which has been surveyed prior to July 11, 1956, and which has not been granted to the State concerned solely by reason of the fact that therewas outstanding on it at the time of the survey a mineral lease or leases entered into by the United States, or an application therefor, is hereby granted by the United States to such State under this section as if it had not been so leased; and the State shall succeed the position of the United States as lessor under such lease or leases.
+(2) Any such numbered school section which has been surveyed prior to July 11, 1956, and which has not been granted to the State concerned solely by reason of the fact that there was outstanding on it at the time of the survey a mineral lease or leases entered into by the United States, or an application therefor, is hereby granted by the United States to such State under this section as if it had not been so leased; and the State shall succeed the position of the United States as lessor under such lease or leases.
 
 (3) Any such numbered school section which is surveyed on or after July 11, 1956, and on which there is outstanding at the time of such survey a mineral lease or leases entered into by the United States, shall (unless excluded from the provisions of this section by subsection (c) of this section for a reason other than the existence of an outstanding lease) be granted to the State concerned immediately upon completion of such survey; and the State shall succeed to the position of the United States as lessor under such lease or leases.
 
 (4) The Secretary of the Interior shall, upon application by a State, issue patents to the State for the lands granted by this section and section 871 of this title, in accordance with section 871a <sup>1</sup> of this title. Such patent shall, if the lease is then outstanding, include a statement that the State succeeded to the position of the United States as lessor at the time the title vested in the State.
 
-(5) Where at the time rents, royalties, and bonuses accrue the lands or deposits covered by a single lease are owned in part by the State and in part by the United States, the rents, royalties, and bonuses shall be allocated between them in proportion to the acreage in said lease owned by each.
+(5) Where at the time rents, royalties, and bonuses accrue the lands or deposits covered by asingle lease are owned in part by the State and in part by the United States, the rents, royalties, and bonuses shall be allocated between them in proportion to the acreage in said lease owned by each.
 
-(6) As used in this subsection, “lease” includes “permit” and “lessor” includes “grantor”.
+(6) As used in this subsection, "lease" includes "permit" and "lessor" includes "grantor".
 
 (Jan. 25, 1927, ch. 57, §1, 44 Stat. 1026; May 2, 1932, ch. 151, §1, 47 Stat. 140; Apr. 22, 1954, ch. 169, 68 Stat. 57; July 11, 1956, ch. 572, 70 Stat. 529.)
 
@@ -30,17 +30,17 @@ Section 871a of this title, referred to in subsec. (d)(4), was repealed by Pub. 
 
 <b>1956</b>—Subsec. (d). Act July 11, 1956, provided that numbered school sections under mineral leases may be granted to a State, whether or not the sections are mineral in character, and added subpar. (6).
 
-<b>1954</b>—Subsec. (c). Act Apr. 22, 1954, §2, substituted “Except as provided in subsection (d) of this section, any” for “any”.
+<b>1954</b>—Subsec. (c). Act Apr. 22, 1954, §2, substituted "Except as provided in subsection (d) of this section, any" for "any".
 
 Subsec. (d). Act Apr. 22, 1954, §1, added subsec. (d).
 
-<b>1932</b>—Subsec. (b). Act May 2, 1932, inserted “hereafter” in two places and “not heretofore disposed of by the State” after “mineral deposits in such lands”.
+<b>1932</b>—Subsec. (b). Act May 2, 1932, inserted "hereafter" in two places and "not heretofore disposed of by the State" after "mineral deposits in such lands".
 
-Subsec. (c). Act May 2, 1932, inserted “reservation” before “application”.
+Subsec. (c). Act May 2, 1932, inserted "reservation" before "application".
 
 #### Effective Date of 1932 Amendment
 
-Act May 2, 1932, ch. 151, §2, 47 Stat. 141, provided that: “This amendatory Act \[amending this section\] shall take effect as of January 25, 1927; and in any case in which a State has selected lieu lands since such date under the Act approved February 28, 1891 (26 Stat. 796) \[sections 851 and 852 of this title\], and still retains title thereto, such State may, within ninety days after the date of the enactment of this Act \[May 2, 1932\], relinquish to the United States all right, title, and interest in such lands and shall thereupon be entitled to all the benefits of the Act of January 25, 1927 \[sections 870 and 871 of this title\], as amended by this Act.”
+Act May 2, 1932, ch. 151, §2, 47 Stat. 141, provided that: "This amendatory Act \[amending this section\] shall take effect as of January 25, 1927; and in any case in which a State has selected lieu lands since such date under the Act approved February 28, 1891 (26 Stat. 796) \[sections 851 and 852 of this title\], and still retains title thereto, such State may, within ninety days after the date of the enactment of this Act \[May 2, 1932\], relinquish to the United States all right, title, and interest in such lands and shall thereupon be entitled to all the benefits of the Act of January 25, 1927 \[sections 870 and 871 of this title\], as amended by this Act."
 
 #### Admission of Alaska as State
 

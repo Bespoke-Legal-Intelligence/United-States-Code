@@ -12,7 +12,7 @@ It is the policy of the United States that NASA develop a Space Launch System as
 
 #### (2) Modification of current contracts
 
-&emsp;In order to limit NASA's termination liability costs and support critical capabilities, the Administrator shall, to the extent practicable, extend or modify existing vehicle development and associated contracts necessary to meet the requirements in paragraph (1), including contracts for ground testing of solid rocket motors, if necessary, to ensure their availability for development of the Space Launch System.
+&emsp;In order to limit NASA's termination liability costs and support critical capabilities, the Administrator shall, to the extent practicable, extend or modify existing vehicle development and associated contracts necessary to meet the requirements in paragraph (1), includingcontracts for ground testing of solid rocket motors, if necessary, to ensure their availability for development of the Space Launch System.
 
 #### (c) Minimum capability requirements
 
@@ -26,7 +26,7 @@ In general.—The Space Launch System developed pursuant to subsection (b) shall
 
 &emsp;&emsp;(C) The capability to lift the multipurpose crew vehicle.
 
-&emsp;&emsp;(D) The capability to serve as a backup system for supplying and supporting ISScargo requirements or crew delivery requirements not otherwise met by available commercial or partner-supplied vehicles.
+&emsp;&emsp;(D) The capability to serve as a backup system for supplying and supporting ISS cargo requirements or crew delivery requirements not otherwise met by available commercial or partner-supplied vehicles.
 
 &emsp;(2)
 

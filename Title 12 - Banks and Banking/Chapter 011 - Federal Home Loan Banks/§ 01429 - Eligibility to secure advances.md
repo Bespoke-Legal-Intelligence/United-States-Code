@@ -6,9 +6,9 @@ Any member of a Federal Home Loan Bank shall be entitled to apply in writing for
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–102 struck out “with the approval of the Board” after “Federal Home Loan Bank” in second sentence and struck out “, subject to the approval of the Board,” after “deny any such application, or” in third sentence.
+<b>1999</b>—Pub. L. 106–102 struck out "with the approval of the Board" after "Federal Home Loan Bank" in second sentence and struck out ", subject to the approval of the Board," after "deny any such application, or" in third sentence.
 
-<b>1989</b>—Pub. L. 101–73, §710(a), struck out “or nonmember borrower” after “Any member”.
+<b>1989</b>—Pub. L. 101–73, §710(a), struck out "or nonmember borrower" after "Any member".
 
-Pub. L. 101–73, §701(b)(1), (3)(A), substituted “Board” for “board” wherever appearing.
+Pub. L. 101–73, §701(b)(1), (3)(A), substituted "Board" for "board" wherever appearing.
 

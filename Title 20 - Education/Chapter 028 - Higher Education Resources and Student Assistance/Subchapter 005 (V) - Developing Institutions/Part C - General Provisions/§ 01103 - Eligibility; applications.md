@@ -36,7 +36,7 @@ A Hispanic-serving institution, in the institution's application for a grant, sh
 
 &emsp;(7) describe in a comprehensive manner any proposed project for which funds are sought under the application and include—
 
-&emsp;&emsp;(A) a description of the various components of the proposed project, including the estimated time required to complete each such component;
+&emsp;&emsp;(A) a description of the various components of the proposed project, including theestimated time required to complete each such component;
 
 &emsp;&emsp;(B) in the case of any development project that consists of several components (as described by the institution pursuant to subparagraph (A)), a statement identifying those components which, if separately funded, would be sound investments of Federal funds and those components which would be sound investments of Federal funds only if funded under this subchapter in conjunction with other parts of the development project (as specified by the institution);
 
@@ -76,7 +76,7 @@ Another prior section 521 of Pub. L. 89–329 was classified to section 1111 of 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(1)(A). Pub. L. 110–315, §503, substituted “subsection (c)” for “subsection (b)”.
+<b>2008</b>—Subsec. (b)(1)(A). Pub. L. 110–315, §503, substituted "subsection (c)" for "subsection (b)".
 
 Subsec. (c)(6). Pub. L. 110–315, §502(b)(2), made technical amendment to reference in original act which appears in text as reference to section 1103e of this title.
 

@@ -14,7 +14,7 @@ In the case of any individual in the Foreign Service who, immediately before Feb
 
 #### (b) United States Information Agency individuals
 
-In the case of individuals in the Foreign Service in the United States Information Agency who immediately before October 17, 1980, are covered by a collective bargaining agreementbetween the Agency and the exclusive representative of those individuals, the 3-year period referred to in subsection (a) of this section shall begin on July 1, 1981.
+In the case of individuals in the Foreign Service in the United States Information Agency who immediately before October 17, 1980, are covered by a collective bargaining agreement between the Agency and the exclusive representative of those individuals, the 3-year period referred to in subsection (a) of this section shall begin on July 1, 1981.
 
 #### (c) Department of State security officers
 
@@ -24,9 +24,9 @@ The three-year period referred to in subsection (a) of this section shall be ext
 
 #### Codification
 
-In subsec. (a), “February 15, 1981” substituted for “the effective date of this Act” pursuant to section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
+In subsec. (a), "February 15, 1981" substituted for "the effective date of this Act" pursuant to section 2403of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-In subsec. (c), “November 22, 1983” was in the original “the date of enactment of this section” which was translated as meaning the date of enactment of this subsection, as the probable intent of Congress.
+In subsec. (c), "November 22, 1983" was in the original "the date of enactment of this section" which was translated as meaning the date of enactment of this subsection, as the probable intent of Congress.
 
 #### Amendments
 
@@ -34,5 +34,5 @@ In subsec. (c), “November 22, 1983” was in the original “the date of enact
 
 #### Change of Name
 
-“United States Information Agency” substituted for “International Communication Agency” in subsec. (b), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
+"United States Information Agency" substituted for "International Communication Agency" in subsec. (b), pursuant to section 303(b) of Pub. L. 97–241, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title.
 

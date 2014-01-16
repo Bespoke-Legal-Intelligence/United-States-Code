@@ -4,23 +4,23 @@ In this subchapter:
 
 #### (1) Basic application
 
-&emsp;The term “basic application” means the application for the registration of a mark thathas been filed with an Office of a Contracting Party and that constitutes the basis for an application for the international registration of that mark.
+&emsp;The term "basic application" means the application for the registration of a mark that has been filed with an Office of a Contracting Party and that constitutes the basis for an application for the international registration of that mark.
 
 #### (2) Basic registration
 
-&emsp;The term “basic registration” means the registration of a mark that has been granted by an Office of a Contracting Party and that constitutes the basis for an application for the international registration of that mark.
+&emsp;The term "basic registration" means the registration of a mark that has been granted by an Office of a Contracting Party and that constitutes the basis for an application for the international registration of that mark.
 
 #### (3) Contracting Party
 
-&emsp;The term “Contracting Party” means any country or inter-governmental organization that is a party to the Madrid Protocol.
+&emsp;The term "Contracting Party" means any country or inter-governmental organization that is a party to the Madrid Protocol.
 
 #### (4) Date of recordal
 
-&emsp;The term “date of recordal” means the date on which a request for extension of protection, filed after an international registration is granted, is recorded on the International Register.
+&emsp;The term "date of recordal" means the date on which a request for extension of protection, filed after an international registration is granted, is recorded on the International Register.
 
 #### (5) Declaration of bona fide intention to use the mark in commerce
 
-&emsp;The term “declaration of bona fide intention to use the mark in commerce” means a declaration that is signed by the applicant for, or holder of, an international registration who is seeking extension of protection of a mark to the United States and that contains a statement that—
+&emsp;The term "declaration of bona fide intention to use the mark in commerce" means a declaration that is signed by the applicant for, or holder of, an international registration who is seeking extension of protection of a mark to the United States and that contains a statement that—
 
 &emsp;&emsp;(A) the applicant or holder has a bona fide intention to use the mark in commerce;
 
@@ -30,43 +30,43 @@ In this subchapter:
 
 #### (6) Extension of protection
 
-&emsp;The term “extension of protection” means the protection resulting from an international registration that extends to the United States at the request of the holder of the international registration, in accordance with the Madrid Protocol.
+&emsp;The term "extension of protection" means the protection resulting from an international registration that extends to the United States at the request of the holder of the international registration, in accordance with the Madrid Protocol.
 
 #### (7) Holder of an international registration
 
-&emsp;A “holder” of an international registration is the natural or juristic person in whose name the international registration is recorded on the International Register.
+&emsp;A "holder" of an international registration is the natural or juristic person in whose name the international registration is recorded on the International Register.
 
 #### (8) International application
 
-&emsp;The term “international application” means an application for international registration that is filed under the Madrid Protocol.
+&emsp;The term "international application" means an application for international registration that is filed under the Madrid Protocol.
 
 #### (9) International Bureau
 
-&emsp;The term “International Bureau” means the International Bureau of the World Intellectual Property Organization.
+&emsp;The term "International Bureau" means the International Bureau of the World Intellectual Property Organization.
 
 #### (10) International Register
 
-&emsp;The term “International Register” means the official collection of data concerning international registrations maintained by the International Bureau that the Madrid Protocol or its implementing regulations require or permit to be recorded.
+&emsp;The term "International Register" means the official collection of data concerning international registrations maintained by the International Bureau that the Madrid Protocol or its implementing regulations require or permit to be recorded.
 
 #### (11) International registration
 
-&emsp;The term “international registration” means the registration of a mark granted under the Madrid Protocol.
+&emsp;The term "international registration" means the registration of a mark granted under the Madrid Protocol.
 
 #### (12) International registration date
 
-&emsp;The term “international registration date” means the date assigned to the international registration by the International Bureau.
+&emsp;The term "international registration date" means the date assigned to the international registration by the International Bureau.
 
 #### (13) Madrid Protocol
 
-&emsp;The term “Madrid Protocol” means the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks, adopted at Madrid, Spain, on June 27, 1989.
+&emsp;The term "Madrid Protocol" means the Protocol Relating to the Madrid Agreement Concerning the International Registration of Marks, adopted at Madrid, Spain, on June 27, 1989.
 
 #### (14) Notification of refusal
 
-&emsp;The term “notification of refusal” means the notice sent by the United States Patent and Trademark Office to the International Bureau declaring that an extension of protection cannot be granted.
+&emsp;The term "notification of refusal" means the notice sent by the United States Patent and Trademark Office to the International Bureau declaring that an extension of protection cannot be granted.
 
 #### (15) Office of a Contracting Party
 
-&emsp;The term “Office of a Contracting Party” means—
+&emsp;The term "Office of a Contracting Party" means—
 
 &emsp;&emsp;(A) the office, or governmental entity, of a Contracting Party that is responsible for the registration of marks; or
 
@@ -74,19 +74,19 @@ In this subchapter:
 
 #### (16) Office of origin
 
-&emsp;The term “office of origin” means the Office of a Contracting Party with which a basic application was filed or by which a basic registration was granted.
+&emsp;The term "office of origin" means the Office of a Contracting Party with which a basic application was filed or by which a basic registration was granted.
 
 #### (17) Opposition period
 
-&emsp;The term “opposition period” means the time allowed for filing an opposition in the United States Patent and Trademark Office, including any extension of time granted under section 1063 of this title.
+&emsp;The term "opposition period" means the time allowed for filing an opposition in the United States Patent and Trademark Office, including any extension of time granted under section 1063 of this title.
 
 (July 5, 1946, ch. 540, title XII, §60, as added Pub. L. 107–273, div. C, title III, §13402, Nov. 2, 2002, 116 Stat. 1913.)
 
 #### Effective Date
 
-Pub. L. 107–273, div. C, title III, §13403, Nov. 2, 2002, 116 Stat. 1920, provided that: “This subtitle \[subtitle D (§§13401–13403) of title III of div. C of Pub. L. 107–273, enacting this subchapter and provisions set out as a note under section 1051 of this title\] and the amendments made by this subtitle shall take effect on the later of—
+Pub. L. 107–273, div. C, title III, §13403, Nov. 2, 2002, 116 Stat. 1920, provided that: "This subtitle \[subtitle D (§§13401–13403) of title III of div. C of Pub. L. 107–273, enacting this subchapter and provisions set out as a note under section 1051 of this title\] and the amendments made by this subtitle shall take effect on the later of—
 
-&emsp;“(1) the date on which the Madrid Protocol (as defined in section 60 of the Trademark Act of 1946 \[this section\]) enters into force with respect to the United States \[Nov. 2, 2003\]; or
+&emsp;"(1) the date on which the Madrid Protocol (as defined in section 60 of the Trademark Act of 1946 \[this section\]) enters into force with respect to the United States \[Nov. 2, 2003\]; or
 
-&emsp;“(2) the date occurring 1 year after the date of enactment of this Act \[Nov. 2, 2002\].”
+&emsp;"(2) the date occurring 1 year after the date of enactment of this Act \[Nov. 2, 2002\]."
 

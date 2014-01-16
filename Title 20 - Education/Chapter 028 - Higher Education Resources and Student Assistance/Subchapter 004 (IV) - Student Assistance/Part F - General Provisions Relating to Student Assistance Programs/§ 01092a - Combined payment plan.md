@@ -30,7 +30,7 @@ Upon selection of a lender to administer the combined payment plan, the lender m
 
 #### (f) Notes and insurance certificates
 
-(1) Each loan reissued under subsection (e) of this section shall be evidenced by a note executed by the borrower. The Secretary of Health and Human Services shall insure such loan under a certificate of comprehensive insurance with no insurance limit, but any such certificate shall only be issued to an authorized holder of loans insured under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) (including the Student Loan Marketing Association). Such certificates shall provide that all loans reissued under this section shall be fully insured against loss of principal and interest. Any insurance issued with respect to loans reissued under this section shall be excluded from the limitation on maximum insurance authority set forth in section 710 of the Public Health Service Act \[42 U.S.C. 292i\]. Notwithstanding the provisions of section 729(a) <sup>1</sup> of the Public Health Service Act, the reissued loan shall be made in an amount, including outstanding principal, capitalized interest, accrued unpaid interest not yet capitalized, and authorized late charges. The proceeds of each such loan will be paid by the lender to the holder of the original loan being reissued and the borrower's obligation to that holder on that loan shall be discharged.
+(1) Each loan reissued under subsection (e) of this section shall be evidenced by a note executed by the borrower. The Secretary of Health and Human Services shall insure such loan under a certificate of comprehensive insurance with no insurance limit, but any such certificate shall only be issued to an authorized holder of loans insured under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.) (including the Student Loan Marketing Association). Such certificates shall provide that all loans reissued under this section shall be fullyinsured against loss of principal and interest. Any insurance issued with respect to loans reissued under this section shall be excluded from the limitation on maximum insurance authority set forth in section 710 of the Public Health Service Act \[42 U.S.C. 292i\]. Notwithstanding the provisions of section 729(a) <sup>1</sup> of the Public Health Service Act, the reissued loan shall be made in an amount, including outstanding principal, capitalized interest, accrued unpaid interest not yet capitalized, and authorized late charges. The proceeds of each such loan will be paid by the lender to the holder of the original loan being reissued and the borrower's obligation to that holder on that loan shall be discharged.
 
 (2) Except as otherwise specifically provided for under the provisions of this section, the terms of any reissued loan shall be the same as the terms of the original loan. The maximum repayment period for a loan reissued under this section shall not exceed the remainder of the period which would have been permitted on the original loan. If the lender holds more than one loan insured under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.), the maximum repayment period for all such loans may extend to the latest date permitted for any individual loan. Any reissued loan may be consolidated with any other Health Education Assistance Loan as provided in the Public Health Service Act \[42 U.S.C. 201 et seq.\], and, with the concurrence of the borrower, repayment of any such loans during any period may be made in amounts that are less than the interest that accrues on such loans during that period.
 
@@ -54,19 +54,19 @@ The Public Health Service Act, referred to in subsecs. (a), (b), (e), and (f), i
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–39, §407(b)(6)(A), substituted “or an eligible lender as defined in section 719 of the Public Health Service Act (42 U.S.C. 292o)” for “or defined in subpart I of part C of title VII of the Public Health Service Act” and “under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.)” for “under subpart I of part C of title VII of the Public Health Service Act (known as Health Education Assistance Loans)”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–39, §407(b)(6)(A), substituted "or an eligible lender as defined in section 719 of the Public Health Service Act (42 U.S.C. 292o)" for "or defined in subpart I of part C of title VII of the Public Health Service Act" and "under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.)" for "under subpart I of part C of title VII of the Public Health Service Act (known as Health Education Assistance Loans)".
 
-Subsec. (b). Pub. L. 111–39, §407(b)(6)(B), substituted “part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.)” for “subpart I of part C of title VII of the Public Health Service Act”.
+Subsec. (b). Pub. L. 111–39, §407(b)(6)(B), substituted "part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.)" for "subpart I of part C of title VII of the Public Health Service Act".
 
-Subsec. (e). Pub. L. 111–39, §407(b)(6)(C)(i), substituted “loan under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.)” for “Health Education Assistance Loan” in introductory provisions.
+Subsec. (e). Pub. L. 111–39, §407(b)(6)(C)(i), substituted "loan under part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.)" for "Health Education Assistance Loan" in introductory provisions.
 
-Subsec. (e)(2). Pub. L. 111–39, §407(b)(6)(C)(ii), substituted “707(e)(3)” for “733(e)(3)”.
+Subsec. (e)(2). Pub. L. 111–39, §407(b)(6)(C)(ii), substituted "707(e)(3)" for "733(e)(3)".
 
-Subsec. (f)(1). Pub. L. 111–39, §407(b)(6)(D)(i), substituted “part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.)” for “subpart I of part C of title VII of the Public Health Service Act” and “710” for “728(a)”.
+Subsec. (f)(1). Pub. L. 111–39, §407(b)(6)(D)(i), substituted "part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.)" for "subpart I of part C of title VII of the Public Health Service Act" and "710" for "728(a)".
 
-Subsec. (f)(2). Pub. L. 111–39, §407(b)(6)(D)(ii), substituted “part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.)” for “subpart I of part C of title VII of the Public Health Service Act”.
+Subsec. (f)(2). Pub. L. 111–39, §407(b)(6)(D)(ii), substituted "part A of title VII of the Public Health Service Act (42 U.S.C. 292 et seq.)" for "subpart I of part C of title VII of the Public Health Service Act".
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–50 substituted “subparagraph (A), (B), or (C)” for “clause (i), (ii), or (iii)”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–50 substituted "subparagraph (A), (B), or (C)" for "clause (i), (ii), or (iii)".
 
 #### Effective Date of 2009 Amendment
 

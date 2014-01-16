@@ -10,13 +10,13 @@
 
 (e) In a judicial district where a bankruptcy clerk has been appointed pursuant to subsection (b), the bankruptcy clerk shall be the official custodian of the records and dockets of the bankruptcy court.
 
-(f) For purposes of financial accountability in a district where a bankruptcy clerk has been certified, such clerk shall be accountable for and pay into the Treasury all fees, costs, and other monies collected by such clerk except uncollected fees not required by an Act of Congress to be prepaid. Such clerk shall make returns thereof to the Director of the Administrative Office of the United States Courts and the Director of the Executive Office For United States Trustees, under regulations prescribed by such Directors.
+(f) For purposes of financial accountability in a district where a bankruptcy clerk has been certified, such clerk shall be accountable for and pay into the Treasury all fees, costs, and othermonies collected by such clerk except uncollected fees not required by an Act of Congress to be prepaid. Such clerk shall make returns thereof to the Director of the Administrative Office of the United States Courts and the Director of the Executive Office For United States Trustees, under regulations prescribed by such Directors.
 
 (Added Pub. L. 98–353, title I, §104(a), July 10, 1984, 98 Stat. 339; amended Pub. L. 99–554, title I, §§103, 142, 144(a), Oct. 27, 1986, 100 Stat. 3090, 3096; Pub. L. 100–702, title X, §1003(a)(3), Nov. 19, 1988, 102 Stat. 4665.)
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–702 inserted at end “A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–702 inserted at end "A law clerk appointed under this section shall be exempt from the provisions of subchapter I of chapter 63 of title 5, unless specifically included by the appointing judge or by local rule of court."
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–554, §103, added subsec. (d).
 

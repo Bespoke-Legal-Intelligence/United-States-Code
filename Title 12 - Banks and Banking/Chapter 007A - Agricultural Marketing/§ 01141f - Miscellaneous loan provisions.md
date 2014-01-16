@@ -4,7 +4,7 @@
 
 (b) Payments of principal or interest upon any such loan or advance shall be covered into the revolving fund.
 
-(c) Loans to any cooperative association or stabilization corporation shall be made upon theterms specified in this chapter and upon such other terms not inconsistent therewith and upon such security as the administration deems necessary.
+(c) Loans to any cooperative association or stabilization corporation shall be made upon the terms specified in this chapter and upon such other terms not inconsistent therewith and upon such security as the administration deems necessary.
 
 (d) No loan or insurance agreement shall be made by the administration if in its judgment the agreement is likely to increase unduly the production of any agricultural commodity of which there is commonly produced a surplus in excess of the annual marketing requirements.
 
@@ -20,7 +20,7 @@ Section was formerly classified to section 528 of Title 7, Agriculture.
 
 <b>1955</b>—Subsec. (a). Act Aug. 11, 1955, provided that boards of directors for banks would prescribe interest rates on loans in place of requirements relating interest rates on loans made by banks for cooperatives to interest rates charged by Federal intermediate credit banks and Federal land banks.
 
-<b>1937</b>—Subsec. (a). Act Aug. 19, 1937, substituted “farm credit district” for “land bank district”.
+<b>1937</b>—Subsec. (a). Act Aug. 19, 1937, substituted "farm credit district" for "land bank district".
 
 <b>1935</b>—Subsec. (a). Act June 3, 1935, among other changes, inserted proviso.
 
@@ -28,7 +28,7 @@ Section was formerly classified to section 528 of Title 7, Agriculture.
 
 #### Change of Name
 
-“Administration” substituted in text for “board” pursuant to Ex. Ord. No. 6084, set out preceding section 2241 of this title.
+"Administration" substituted in text for "board" pursuant to Ex. Ord. No. 6084, set out preceding section 2241 of this title.
 
 #### Effective Date of 1955 Amendment
 

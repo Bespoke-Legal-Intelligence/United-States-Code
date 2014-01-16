@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 1, 1914, ch. 223, §1 (last par. on p. 633), 38 Stat. 633.
 
-For transfer of functions from the Chief of Engineers to the Director of the National Park Service, see the revision note under section 8102 of this title. However, the words “Chief of Engineers of the United States Army” in the source provision are retained for historical purposes.
+For transfer of functions from the Chief of Engineers to the Director of the National Park Service, see the revision note under section 8102 of this title. However, the words "Chief of Engineers of the United States Army" in the source provision are retained for historical purposes.
 

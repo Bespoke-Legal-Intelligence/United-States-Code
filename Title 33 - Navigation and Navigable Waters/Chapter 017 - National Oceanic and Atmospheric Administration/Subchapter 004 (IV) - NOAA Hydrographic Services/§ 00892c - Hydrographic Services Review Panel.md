@@ -44,7 +44,7 @@ No later than 1 year after December 19, 2002, the Secretary shall establish the 
 
 Voting members of the panel shall—
 
-&emsp;(1) receive compensation at a rate established by the Secretary, not to exceed the maximum daily rate payable under section 5376 of title 5 when actually engaged in the performance of duties for such panel; and
+&emsp;(1) receive compensation at a rate established by the Secretary, not to exceed themaximum daily rate payable under section 5376 of title 5 when actually engaged in the performance of duties for such panel; and
 
 &emsp;(2) be reimbursed for actual and reasonable expenses incurred in the performance of such duties.
 
@@ -60,31 +60,31 @@ The panel may exercise such powers as are reasonably necessary in order to carry
 
 #### References in Text
 
-This subchapter, referred to in subsec. (c)(1)(C), was in the original “this Act”, and was translated, to reflect the probable intent of Congress, as reading “this title”, meaning title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, known as the Hydrographic Services Improvement Act of 1998, which is classified principally to this subchapter. For complete classification of title III to the Code, see Short Title of 1998 Amendment note set out under section 851 of this title and Tables.
+This subchapter, referred to in subsec. (c)(1)(C), was in the original "this Act", and was translated, to reflect the probable intent of Congress, as reading "this title", meaning title III of Pub. L. 105–384, Nov. 13, 1998, 112 Stat. 3454, known as the Hydrographic Services Improvement Act of 1998, which is classified principally to this subchapter. For complete classification of title III to the Code, see Short Title of 1998 Amendment note set out under section 851 of this title and Tables.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(1)(A). Pub. L. 110–386 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The panel shall consist of 15 voting members who shall be appointed by the Administrator. The Director of the Joint Hydrographic Institute and no more than 2 employees of the National Oceanic and Atmospheric Administration appointed by the Administrator shall serve as nonvoting members of the panel. The voting members of the panel shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in one or more of the disciplines and fields relating to hydrographic surveying, tide, current geodetic and geospatial measurement, marine transportation, port administration, vessel pilotage, and coastal and fishery management.”
+<b>2008</b>—Subsec. (c)(1)(A). Pub. L. 110–386 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The panel shall consist of 15 voting members who shall be appointed by the Administrator. The Director of the Joint Hydrographic Institute and no more than 2 employees of the National Oceanic and Atmospheric Administration appointed by the Administrator shall serve as nonvoting members of the panel. The voting members of the panel shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in one or more of the disciplines and fields relating to hydrographic surveying, tide, current geodetic and geospatial measurement, marine transportation, port administration, vessel pilotage, and coastal and fishery management."
 
 <b>2002</b>—Pub. L. 107–372 amended section generally, substituting provisions establishing Hydrographic Services Review Panel for provisions requiring report, not later than 6 months after November 13, 1998, on a plan to ensure maintenance of Federal competence and expertise in hydrographic surveying.
 
 <b>1998</b>—Pub. L. 105–383, which directed the amendment of this section by striking out subsecs. (a) and (d), was executed by striking out subsec. (a), because no subsec. (d) has been enacted. Prior to amendment, subsec. (a) read as follows:
 
-“(a)
+"(a)
 
 Ports.—Not later than 6 months after November 13, 1998, the Administrator and the Commandant of the Coast Guard shall report to the Congress on—
 
-&emsp;“(1) the status of implementation of real-time tide and current data systems in United States ports;
+&emsp;"(1) the status of implementation of real-time tide and current data systems in United States ports;
 
-&emsp;“(2) existing safety and efficiency needs in United States ports that could be met by increased use of those systems; and
+&emsp;"(2) existing safety and efficiency needs in United States ports that could be met by increased use of those systems; and
 
-&emsp;“(3) a plan for expanding those systems to meet those needs, including an estimate of the cost of implementing those systems in priority locations.”
+&emsp;"(3) a plan for expanding those systems to meet those needs, including an estimate of the cost of implementing those systems in priority locations."
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–383, title IV, §432(a), Nov. 13, 1998, 112 Stat. 3444, provided that: “Subsections (b) and (c) \[amending this section and section 892d of this title\] shall take effect immediately after the later of—
+Pub. L. 105–383, title IV, §432(a), Nov. 13, 1998, 112 Stat. 3444, provided that: "Subsections (b) and (c) \[amending this section and section 892d of this title\] shall take effect immediately after the later of—
 
-&emsp;“(1) the enactment of the Hydrographic Services Improvement Act of 1998 \[Pub. L. 105–384, title III, Nov. 13, 1998\]; or
+&emsp;"(1) the enactment of the Hydrographic Services Improvement Act of 1998 \[Pub. L. 105–384, title III, Nov. 13, 1998\]; or
 
-&emsp;“(2) the enactment of this Act \[Nov. 13, 1998\].”
+&emsp;"(2) the enactment of this Act \[Nov. 13, 1998\]."
 

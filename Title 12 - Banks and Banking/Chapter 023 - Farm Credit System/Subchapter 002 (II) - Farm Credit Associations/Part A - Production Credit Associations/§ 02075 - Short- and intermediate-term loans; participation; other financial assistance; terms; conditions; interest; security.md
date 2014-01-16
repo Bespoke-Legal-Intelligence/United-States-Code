@@ -22,7 +22,7 @@ Each production credit association, under standards prescribed by the board of d
 
 #### (3) Rural areas
 
-&emsp;For rural housing purposes under this section the term “rural areas” shall not be defined to include any city or village having a population in excess of 2,500 inhabitants.
+&emsp;For rural housing purposes under this section the term "rural areas" shall not be defined to include any city or village having a population in excess of 2,500 inhabitants.
 
 #### (4) Equipment
 
@@ -64,9 +64,9 @@ A prior section 2075, Pub. L. 92–181, title II, §2.4, Dec. 10, 1971, 85 Stat.
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–624 substituted “some portion of the total processing or marketing for which financing is extended, except that the aggregate of the financing provided by any association for basic processing and marketing directly related to the operations of farmers, ranchers, and producers or harvesters of aquatic products, if the operations of the applicant supply less than 20 percent of the total processing or marketing for which financing is extended, shall not exceed 15 percent of the total of all outstanding loans of all associations in the district at the end of its preceding fiscal year” for “at least 20 percent, or such larger percent as is required by the supervising bank under regulations of the Farm Credit Administration, of the total processing or marketing for which financing is extended”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–624 substituted "some portion of the total processing or marketing for which financing is extended, except that the aggregate of the financing provided by any association for basic processing and marketing directly related to the operations of farmers, ranchers, and producers or harvesters of aquatic products, if the operations of the applicant supply less than 20 percent of the total processing or marketing for which financing is extended, shall not exceed 15 percent of the total of all outstanding loans of all associations in the district at the end of its preceding fiscal year" for "at least 20 percent, or such larger percent as is required by the supervising bank under regulations of the Farm Credit Administration, of the total processing or marketing for which financing is extended".
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–399, §401(p), substituted “this part” for “this subchapter” and substituted “or planned” for “planned”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–399, §401(p), substituted "this part" for "this subchapter" and substituted "or planned" for "planned".
 
 Subsec. (d). Pub. L. 100–399, §401(q), added subsec. (d).
 

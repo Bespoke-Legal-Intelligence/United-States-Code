@@ -30,5 +30,5 @@ Subsection (a) is included to provide in chapter 1 of the revised title a comple
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–272 substituted “Saint Lawrence” for “St. Lawrence”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–272 substituted "Saint Lawrence" for "St. Lawrence".
 

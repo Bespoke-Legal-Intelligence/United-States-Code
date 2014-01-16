@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Eligible tribal consortium
 
-&emsp;The term “eligible tribal consortium” means a consortium composed of 2 or more Service units between which a mobile health station can be transported by road in up to 8 hours. A Service unit operated by the Service or by an Indian tribe or tribal organization shall be equally eligible for participation in such consortium.
+&emsp;The term "eligible tribal consortium" means a consortium composed of 2 or more Service units between which a mobile health station can be transported by road in up to 8 hours. A Service unit operated by the Service or by an Indian tribe or tribal organization shall be equally eligible for participation in such consortium.
 
 #### (2) Mobile health station
 
-&emsp;The term “mobile health station” means a health care unit that—
+&emsp;The term "mobile health station" means a health care unit that—
 
 &emsp;&emsp;(A) is constructed, maintained, and capable of being transported within a semi-trailer truck or similar vehicle;
 
@@ -22,11 +22,11 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “specialty health care service” means a health care service which requires the services of a health care professional with specialized knowledge or experience.
+&emsp;&emsp;The term "specialty health care service" means a health care service which requires the services of a health care professional with specialized knowledge or experience.
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “specialty health care service” includes any service relating to—
+&emsp;&emsp;The term "specialty health care service" includes any service relating to—
 
 &emsp;&emsp;&emsp;(i) dialysis;
 

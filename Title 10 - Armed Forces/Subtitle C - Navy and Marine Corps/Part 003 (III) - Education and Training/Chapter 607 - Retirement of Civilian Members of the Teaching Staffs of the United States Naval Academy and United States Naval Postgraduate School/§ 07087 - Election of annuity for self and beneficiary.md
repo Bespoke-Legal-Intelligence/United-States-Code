@@ -30,7 +30,7 @@ Act
 
 Jan. 16, 1936, ch. 3, §4C; added Aug. 2, 1946, ch. 740, 60 Stat. 805.
 
-In subsection (a) the words “under actuarial tables prepared by the Civil Service Commission” are substituted for the words “under the provisions of the Civil Service Retirement Act” because that Act, as amended in 1948, no longer provides for the computation of actuarial values. The Secretary of the Navy, in administering the provisions of law codified in this section, uses tables prepared by the Civil Service Commission prior to the 1948 amendment.
+In subsection (a) the words "under actuarial tables prepared by the Civil Service Commission" are substituted for the words "under the provisions of the Civil Service Retirement Act" because that Act, as amended in 1948, no longer provides for the computation of actuarial values. The Secretary of the Navy, in administering the provisions of law codified in this section, uses tables prepared by the Civil Service Commission prior to the 1948 amendment.
 
 #### 1982 Act
 
@@ -38,5 +38,5 @@ This amends 10:7087(a) to reflect the transfer of functions from the Civil Servi
 
 #### Amendments
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted “Director of the Office of Personnel Management” for “Civil Service Commission”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–295 substituted "Director of the Office of Personnel Management" for "Civil Service Commission".
 

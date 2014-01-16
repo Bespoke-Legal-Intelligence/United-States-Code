@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “controlled space” means a substantial and identifiable segment of space (such as a building, floor, or wing) in a location that the Administrator of General Services controls for purposes of assignment of space.
+Definition.—In this section, the term "controlled space" means a substantial and identifiable segment of space (such as a building, floor, or wing) in a location that the Administrator of General Services controls for purposes of assignment of space.
 
 (b)
 
@@ -14,7 +14,7 @@ Moving Existing Furniture.—The furniture and furnishings used by an agency (or
 
 (d)
 
-Providing Replacement Furniture.—In the absence of a determination under subsection (c), suitable furniture and furnishings for the new controlled space shall be provided from stocks under the control of the moving agency or from stocks available to the Administrator,whichever the Administrator determines to be more economical and efficient. However, the same or similar items may not be provided from both sources.
+Providing Replacement Furniture.—In the absence of a determination under subsection (c), suitable furniture and furnishings for the new controlled space shall be provided from stocks under the control of the moving agency or from stocks available to the Administrator, whichever the Administrator determines to be more economical and efficient. However, the same or similar items may not be provided from both sources.
 
 (e)
 
@@ -62,5 +62,5 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title II, §210(g), as added Sept. 1, 1954, ch. 1211, §3, 68 Stat. 1129.
 
-In subsection (f)(2), the reimbursement requirement in 40:490(g) (last sentence) is set out as an exception to a general “without reimbursement” rule in 40:490(g) (3d sentence) to harmonize an inconsistency in the source law.
+In subsection (f)(2), the reimbursement requirement in 40:490(g) (last sentence) is set out as an exception to a general "without reimbursement" rule in 40:490(g) (3d sentence) to harmonize an inconsistency in the source law.
 

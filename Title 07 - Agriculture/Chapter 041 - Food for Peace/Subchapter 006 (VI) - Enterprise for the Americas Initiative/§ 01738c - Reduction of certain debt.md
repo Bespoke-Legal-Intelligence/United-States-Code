@@ -22,7 +22,7 @@ The Facility shall notify the Commodity Credit Corporation of an agreement enter
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a)(2). Pub. L. 102–237 substituted “Availability” for “Avaliability” in heading.
+<b>1991</b>—Subsec. (a)(2). Pub. L. 102–237 substituted "Availability" for "Avaliability" in heading.
 
 #### Delegation of Functions
 

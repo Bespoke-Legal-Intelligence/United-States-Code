@@ -16,7 +16,7 @@ The President shall establish and carry out international initiatives to enhance
 
 #### (b) Public awareness and information
 
-The President, acting through the Secretary of Labor, the Secretary of Health and Human Services, the Attorney General, and the Secretary of State, shall establish and carry outprograms to increase public awareness, particularly among potential victims of trafficking, of the dangers of trafficking and the protections that are available for victims of trafficking.
+The President, acting through the Secretary of Labor, the Secretary of Health and Human Services, the Attorney General, and the Secretary of State, shall establish and carry out programs to increase public awareness, particularly among potential victims of trafficking, of the dangers of trafficking and the protections that are available for victims of trafficking.
 
 #### (c) Border interdiction
 
@@ -92,19 +92,35 @@ The President shall establish and carry out programs to prevent and deter traffi
 
 &emsp;(4) assistance to foreign governments to register vulnerable populations as citizens or nationals of the country to reduce the ability of traffickers to exploit such populations.
 
-(Pub. L. 106–386, div. A, §106, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 108–193, §3, Dec. 19, 2003, 117 Stat. 2875; Pub. L. 109–164, title I, §101(a), title II, §201(b), Jan. 10, 2006, 119 Stat. 3560, 3569; Pub. L. 110–457, title I, §103(a), Dec. 23, 2008, 122 Stat. 5046; Pub. L. 112–239, div. A, title XVII, §1702, Jan. 2, 2013, 126 Stat. 2093.)
+#### (j) Prevention of child trafficking through child marriage
+
+The Secretary of State shall establish and implement a multi-year, multi-sectoral strategy—
+
+&emsp;(1) to prevent child marriage;
+
+&emsp;(2) to promote the empowerment of girls at risk of child marriage in developing countries;
+
+&emsp;(3) that should address the unique needs, vulnerabilities, and potential of girls younger than 18 years of age in developing countries;
+
+&emsp;(4) that targets areas in developing countries with high prevalence of child marriage; and
+
+&emsp;(5) that includes diplomatic and programmatic initiatives.
+
+(Pub. L. 106–386, div. A, §106, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 108–193, §3, Dec. 19, 2003, 117 Stat. 2875; Pub. L. 109–164, title I, §101(a), title II, §201(b), Jan. 10, 2006, 119 Stat. 3560, 3569; Pub. L. 110–457, title I, §103(a), Dec. 23, 2008, 122 Stat. 5046; Pub. L. 112–239, div. A, title XVII, §1702, Jan. 2, 2013, 126 Stat. 2093; Pub. L. 113–4, title XII, §1207(a), Mar. 7, 2013, 127 Stat. 141.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (g). Pub. L. 112–239 substituted “or take any of the other remedial actions authorized under section 7104b(c) of this title, without penalty, if the grantee or any subgrantee, or the contractor or any subcontractor, engages in, or uses labor recruiters, brokers, or other agents who engage in—” and cls. (i) to (iv) for “without penalty, if the grantee or any subgrantee, or the contractor or any subcontractor (i) engages in severe forms of trafficking in persons or has procured a commercial sex act during the period of time that the grant, contract, or cooperative agreement is in effect, or (ii) uses forced labor in the performance of the grant, contract, or cooperative agreement.”
+<b>2013</b>—Subsec. (g). Pub. L. 112–239 substituted "or take any of the other remedial actions authorized under section 7104b(c) of this title, without penalty, if the grantee or any subgrantee, or the contractor or any subcontractor, engages in, or uses labor recruiters, brokers, or other agents who engage in—" and cls. (i) to (iv) for "without penalty, if the grantee or any subgrantee, or the contractor or any subcontractor (i) engages in severe forms of trafficking in persons or has procured a commercial sex act during the period of time that the grant, contract, or cooperative agreement is in effect, or (ii) uses forced labor in the performance of the grant, contract, or cooperative agreement."
+
+Subsec. (j). Pub. L. 113–4 added subsec. (j).
 
 <b>2008</b>—Subsec. (i). Pub. L. 110–457 added subsec. (i).
 
-<b>2006</b>—Subsec. (g). Pub. L. 109–164, §201(b), struck out designation and heading of par. (1) before “The President shall”, “described in paragraph (2)” after “under which funds”, and heading and text of par. (2). Text of par. (2) read as follows: “Funds referred to in paragraph (1) are funds made available to carry out any program, project, or activity abroad funded under major functional budget category 150 (relating to international affairs).”
+<b>2006</b>—Subsec. (g). Pub. L. 109–164, §201(b), struck out designation and heading of par. (1) before "The President shall", "described in paragraph (2)" after "under which funds", and heading and text of par. (2). Text of par. (2) read as follows: "Funds referred to in paragraph (1) are funds made available to carry out any program, project, or activity abroad funded under major functional budget category 150 (relating to international affairs)."
 
 Subsec. (h). Pub. L. 109–164, §101(a), added subsec. (h).
 
-<b>2003</b>—Subsecs. (c) to (f). Pub. L. 108–193, §3(a), added subsecs. (c) to (e), redesignated former subsec. (c) as (f), and in subsec. (f) substituted “initiatives and programs described in subsections (a) through (e)” for “initiatives described in subsections (a) and (b)”.
+<b>2003</b>—Subsecs. (c) to (f). Pub. L. 108–193, §3(a), added subsecs. (c) to (e), redesignated former subsec. (c) as (f), and in subsec. (f) substituted "initiatives and programs described in subsections (a) through (e)" for "initiatives described in subsections (a) and (b)".
 
 Subsec. (g). Pub. L. 108–193, §3(b), added subsec. (g).
 

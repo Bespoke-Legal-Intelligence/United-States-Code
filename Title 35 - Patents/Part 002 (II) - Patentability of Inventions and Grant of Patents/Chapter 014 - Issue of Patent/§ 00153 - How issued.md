@@ -14,11 +14,11 @@ The phrases referring to the attesting officers and to the recording of the pate
 
 <b>2002</b>—Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-Pub. L. 107–273, §13203(c), struck out “and attested by an officer of the Patent and Trademark Office designated by the Director,” after “signature placed thereon”.
+Pub. L. 107–273, §13203(c), struck out "and attested by an officer of the Patent and Trademark Office designated by the Director," after "signature placed thereon".
 
-<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “Director” for “Commissioner” in two places.
+<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted "Director" for "Commissioner" in two places.
 
-<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” wherever appearing.
+<b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office" wherever appearing.
 
 #### Effective Date of 1999 Amendment
 

@@ -4,19 +4,19 @@ For the purposes of this subchapter:
 
 #### (1) Controlled substance
 
-&emsp;The term “controlled substance” has the meaning given such term in section 802 of title 21.
+&emsp;The term "controlled substance" has the meaning given such term in section 802 of title 21.
 
 #### (2) Drug-related crime
 
-&emsp;The term “drug-related crime” means the illegal manufacture, sale, distribution, use, or possession with intent to manufacture, sell, distribute, or use a controlled substance.
+&emsp;The term "drug-related crime" means the illegal manufacture, sale, distribution, use, or possession with intent to manufacture, sell, distribute, or use a controlled substance.
 
 #### (3) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Housing and Urban Development.
+&emsp;The term "Secretary" means the Secretary of Housing and Urban Development.
 
 #### (4) Federally assisted low-income housing
 
-&emsp;The term “federally assisted low-income housing” means housing assisted under—
+&emsp;The term "federally assisted low-income housing" means housing assisted under—
 
 &emsp;&emsp;(A) section 1715l(d)(3), section 1715l(d)(4), or 1715z–1 of title 12;
 
@@ -26,13 +26,13 @@ For the purposes of this subchapter:
 
 #### (5) Recipient
 
-&emsp;The term “recipient”, when used in reference to the Native American Housing Assistance and Self-Determination Act of 1996 \[25 U.S.C. 4101 et seq.\], has the meaning given such term in section 4 of such Act \[25 U.S.C. 4103\].
+&emsp;The term "recipient", when used in reference to the Native American Housing Assistance and Self-Determination Act of 1996 \[25 U.S.C. 4101 et seq.\], has the meaning given such term in section 4 of such Act \[25 U.S.C. 4103\].
 
 #### (6) Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning given the term in section 4(12) <sup>1</sup> of the Native American Housing Assistance and Self Determination Act of 1996, 25 U.S.C. 4103(12).
+&emsp;The term "Indian tribe" has the meaning given the term in section 4(12) <sup>1</sup> of the Native American Housing Assistance and Self Determination Act of 1996, 25 U.S.C. 4103(12).
 
-(Pub. L. 100–690, title V, §5126, Nov. 18, 1988, 102 Stat. 4302; Pub. L. 101–625, title V, §581(a), Nov. 28, 1990, 104 Stat. 4247; Pub. L. 104–330, title VII, §704(4), Oct. 26, 1996, 110 Stat. 4051; Pub. L. 105–276, title II, §220(4), title V, §586(f), Oct. 21, 1998, 112 Stat. 2488, 2649; Pub. L. 106–74, title II, §227(a), as added Pub. L. 106–113, div. A, title I, §175(d), Nov. 29, 1999, 113 Stat. 1534.)
+(Pub. L. 100–690, title V, §5126, Nov. 18, 1988, 102 Stat. 4302; Pub. L. 101–625, title V, §581(a), Nov.28, 1990, 104 Stat. 4247; Pub. L. 104–330, title VII, §704(4), Oct. 26, 1996, 110 Stat. 4051; Pub. L. 105–276, title II, §220(4), title V, §586(f), Oct. 21, 1998, 112 Stat. 2488, 2649; Pub. L. 106–74, title II, §227(a), as added Pub. L. 106–113, div. A, title I, §175(d), Nov. 29, 1999, 113 Stat. 1534.)
 
 #### References in Text
 
@@ -42,9 +42,9 @@ Section 4(12) of the Native American Housing Assistance and Self Determination A
 
 #### Amendments
 
-<b>1999</b>—Par. (4)(D). Pub. L. 106–74, §227(a), as added by Pub. L. 106–113, struck out subpar. (D) which read as follows: “the Native American Housing Assistance and Self-Determination Act.”
+<b>1999</b>—Par. (4)(D). Pub. L. 106–74, §227(a), as added by Pub. L. 106–113, struck out subpar. (D) which read as follows: "the Native American Housing Assistance and Self-Determination Act."
 
-<b>1998</b>—Par. (5). Pub. L. 105–276, §586(f), added par. (5) and struck out heading and text of former par. (5). Text read as follows: “The term ‘tribally designated housing entity’ has the meaning given such term in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996.”
+<b>1998</b>—Par. (5). Pub. L. 105–276, §586(f), added par. (5) and struck out heading and text of former par. (5). Text read as follows: "The term 'tribally designated housing entity' has the meaning given such term in section 4 of the Native American Housing Assistance and Self-Determination Act of 1996."
 
 Par. (6). Pub. L. 105–276, §220(4), added par. (6).
 
@@ -52,11 +52,11 @@ Par. (6). Pub. L. 105–276, §220(4), added par. (6).
 
 Par. (5). Pub. L. 104–330, §704(4)(B), added par. (5).
 
-<b>1990</b>—Pub. L. 101–625 amended section generally, adding provisions defining “Federally assisted low-income housing”.
+<b>1990</b>—Pub. L. 101–625 amended section generally, adding provisions defining "Federally assisted low-income housing".
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–74, title II, §227(b), as added by Pub. L. 106–113, div. A, title I, §175(d), Nov. 29, 1999, 113 Stat. 1534, provided that: “The amendments made by subsection (a) \[amending this section\] shall be construed to have taken effect on October 21, 1998.”
+Pub. L. 106–74, title II, §227(b), as added by Pub. L. 106–113, div. A, title I, §175(d), Nov. 29, 1999, 113 Stat. 1534, provided that: "The amendments made by subsection (a) \[amending this section\] shall be construed to have taken effect on October 21, 1998."
 
 #### Effective Date of 1998 Amendment
 

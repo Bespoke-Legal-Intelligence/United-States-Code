@@ -38,7 +38,7 @@ The date of the enactment of this section, referred to in subsec. (c)(2)(D), is 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–176 inserted “, after the date of enactment of the Vision 100—Century of Aviation Reauthorization Act,” after “approve” in first sentence.
+<b>2003</b>—Subsec. (a). Pub. L. 108–176 inserted ", after the date of enactment of the Vision 100—Century of Aviation Reauthorization Act," after "approve" in first sentence.
 
 #### Effective Date of 2003 Amendment
 

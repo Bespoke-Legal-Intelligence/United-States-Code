@@ -30,7 +30,7 @@
 
 (b) The Armed Forces Policy Council shall advise the Secretary of Defense on matters of broad policy relating to the armed forces and shall consider and report on such other matters as the Secretary of Defense may direct.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Pub. L. 85–599, §9(c), Aug. 6, 1958, 72 Stat. 521; Pub. L. 92–596, §5, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §3(b), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 98–94, title XII, §1213, Sept. 24, 1983, 97 Stat. 687; Pub. L. 99–500, §101(c) \[title X, §903(e)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–133, and Pub. L. 99–591, §101(c) \[title X, §903(e)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–133; Pub. L. 99–661, div. A, title IX, formerly title IV, §903(e), Nov. 14, 1986, 100 Stat. 3912, renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–160, div. A, title IX, §904(d)(1), (3), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 8; Pub. L. 85–599, §9(c), Aug. 6, 1958, 72 Stat. 521; Pub. L. 92–596, §5, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §3(b), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 98–94, title XII, §1213, Sept. 24, 1983, 97 Stat. 687; Pub. L. 99–500, §101(c) \[title X, §903(e)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–133, and Pub. L. 99–591, §101(c) \[title X, §903(e)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–133; Pub. L. 99–661, div. A, title IX, formerly title IV, §903(e), Nov. 14, 1986, 100 Stat. 3912, renumbered title IX, Pub. L. 100–26,§3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 103–160, div. A, title IX, §904(d)(1), (3), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 107–107, div. A, title X, §1048(b)(2), Dec. 28, 2001, 115 Stat. 1225.)
 
 Historical and Revision Notes
 
@@ -58,25 +58,25 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2001</b>—Subsec. (a)(3). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>2001</b>—Subsec. (a)(3). Pub. L. 107–107 substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
 
-<b>1993</b>—Subsec. (a)(3). Pub. L. 103–160, §904(d)(1), substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+<b>1993</b>—Subsec. (a)(3). Pub. L. 103–160, §904(d)(1), substituted "Under Secretary of Defense for Acquisition and Technology" for "Under Secretary of Defense for Acquisition".
 
-Subsec. (a)(8). Pub. L. 103–160, §904(d)(3), substituted “Deputy Under Secretary of Defense for Acquisition and Technology” for “Deputy Under Secretary of Defense for Acquisition”.
+Subsec. (a)(8). Pub. L. 103–160, §904(d)(3), substituted "Deputy Under Secretary of Defense for Acquisition and Technology" for "Deputy Under Secretary of Defense for Acquisition".
 
-<b>1986</b>—Subsec. (a)(3) to (13) Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended subsec. (a) identically, redesignating pars. (3) to (11) as (4), (5), (6), (7), (9), (10), (11), (12), and (13), respectively, adding new pars. (3) and (8), and substituting “the Under Secretary of Defense for Acquisition” for “the Under Secretaries of Defense” in par. (7).
+<b>1986</b>—Subsec. (a)(3) to (13) Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended subsec. (a) identically, redesignating pars. (3) to (11) as (4), (5), (6), (7), (9), (10), (11), (12), and (13), respectively, adding new pars. (3) and (8), and substituting "the Under Secretary of Defense for Acquisition" for "the Under Secretaries of Defense" in par. (7).
 
 <b>1983</b>—Subsec. (a)(11). Pub. L. 98–94 added par. (11).
 
-<b>1977</b>—Subsec. (a)(2). Pub. L. 95–140, §3(b)(1), substituted “the Deputy” for “a Deputy”.
+<b>1977</b>—Subsec. (a)(2). Pub. L. 95–140, §3(b)(1), substituted "the Deputy" for "a Deputy".
 
-Subsec. (a)(6). Pub. L. 95–140, §3(b)(2), substituted “the Under Secretaries of Defense;” for “the Director of Defense Research and Engineering;”.
+Subsec. (a)(6). Pub. L. 95–140, §3(b)(2), substituted "the Under Secretaries of Defense;" for "the Director of Defense Research and Engineering;".
 
-<b>1972</b>—Subsec. (a)(2). Pub. L. 92–596 substituted “a Deputy Secretary” for “the Deputy Secretary”.
+<b>1972</b>—Subsec. (a)(2). Pub. L. 92–596 substituted "a Deputy Secretary" for "the Deputy Secretary".
 
 <b>1958</b>—Subsec. (a)(6) to (10). Pub. L. 85–599 added par. (6) and redesignated former pars. (6) to (9) as (7) to (10), respectively.
 
 #### Short Title of 1983 Amendment
 
-Pub. L. 98–36, §1, May 27, 1983, 97 Stat. 200, provided: “That this Act \[enacting section 178 of this title and amending section 2113 of this title\] may be cited as the ‘Foundation for the Advancement of Military Medicine Act of 1983’.”
+Pub. L. 98–36, §1, May 27, 1983, 97 Stat. 200, provided: "That this Act \[enacting section 178 of this title and amending section 2113 of this title\] may be cited as the 'Foundation for the Advancement of Military Medicine Act of 1983'."
 

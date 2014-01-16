@@ -102,23 +102,23 @@ Oct. 30, 1984, Pub. L. 98–554, §206(a)–(g), 98 Stat. 2834.
 
 Oct. 30, 1984, Pub. L. 98–554, §206(h), 98 Stat. 2835; restated Nov. 18, 1988, Pub. L. 100–690, §9102(a), 102 Stat. 4528.
 
-In subsection (a), the text of 49 App.:2505(g) is omitted because 5:ch. 7 applies unless otherwise stated. Before clause (1), the words “Not later than 18 months after October 30, 1984” are omitted because the time period specified has expired. The words “Subject to section 30103(a) of this title” are added to alert the reader to that section.
+In subsection (a), the text of 49 App.:2505(g) is omitted because 5:ch. 7 applies unless otherwise stated. Before clause (1), the words "Not later than 18 months after October 30, 1984" are omitted because the time period specified has expired. The words "Subject to section 30103(a) of this title" are added to alert the reader to that section.
 
-In subsection (c)(1), the words “except that the time periods specified in this subsection shall apply to the issuance of such regulations” are omitted because the time periods referred to do not appear in subsection (c) as enacted. The reference was probably to the time periods in a prior version of subsection (c). See S. 2174, 98th Cong., 2d Sess., §6(b) (as reported by the Committee on Commerce, Science, and Transportation of the Senate on May 2, 1984, in S. Rept. 98–424).
+In subsection (c)(1), the words "except that the time periods specified in this subsection shall apply to the issuance of such regulations" are omitted because the time periods referred to do not appear in subsection (c) as enacted. The reference was probably to the time periods in a prior version of subsection (c). See S. 2174, 98th Cong., 2d Sess., §6(b) (as reported by the Committee on Commerce, Science, and Transportation of the Senate on May 2, 1984, in S. Rept. 98–424).
 
 In subsection (d), the text of 49 App.:2505(d) is omitted as obsolete.
 
-In subsection (f)(2)(C)(i), the words “an operator” are substituted for “such person” because only a natural person can have a medical or physical condition.
+In subsection (f)(2)(C)(i), the words "an operator" are substituted for "such person" because only a natural person can have a medical or physical condition.
 
 #### Amendments
 
 <b>2012</b>—Subsec. (a)(5). Pub. L. 112–141 added par. (5).
 
-<b>2005</b>—Subsec. (a)(3). Pub. L. 109–59 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “the physical condition of operators of commercial motor vehicles is adequate to enable them to operate the vehicles safely; and”.
+<b>2005</b>—Subsec. (a)(3). Pub. L. 109–59 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "the physical condition of operators of commercial motor vehicles is adequate to enable them to operate the vehicles safely; and".
 
 <b>1998</b>—Subsec. (e). Pub. L. 105–178 amended heading and text of subsec. (e) generally. Prior to amendment, subsec. (e) consisted of pars. (1) to (3) relating to waivers.
 
-<b>1996</b>—Subsec. (e)(2)(A), (J), (3). Pub. L. 104–287 substituted “November 28, 1995” for “the date of the enactment of this paragraph”.
+<b>1996</b>—Subsec. (e)(2)(A), (J), (3). Pub. L. 104–287 substituted "November 28, 1995" for "the date of the enactment of this paragraph".
 
 <b>1995</b>—Subsec. (e)(1) to (3). Pub. L. 104–59 designated existing text as par. (1) and inserted heading, and added pars. (2) and (3).
 
@@ -134,559 +134,559 @@ Amendment by Pub. L. 109–59 effective on the 365th day following Aug. 10, 2005
 
 Pub. L. 112–141, div. C, title II, subtitle G, July 6, 2012, 126 Stat. 809, provided that:
 
-#### “SEC. 32701. SHORT TITLE.
+#### "SEC. 32701. SHORT TITLE.
 
-“This subtitle may be cited as the ‘Motorcoach Enhanced Safety Act of 2012’.
+"This subtitle may be cited as the 'Motorcoach Enhanced Safety Act of 2012'.
 
-#### “SEC. 32702. DEFINITIONS.
+#### "SEC. 32702. DEFINITIONS.
 
-“In this subtitle:
+"In this subtitle:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Advanced glazing.—The term ‘advanced glazing’ means glazing installed in a portal on the side or the roof of a motorcoach that is designed to be highly resistant to partial or complete occupant ejection in all types of motor vehicle crashes.
+Advanced glazing.—The term 'advanced glazing' means glazing installed in a portal on the side or the roof of a motorcoach that is designed to be highly resistant to partial or complete occupant ejection in all types of motor vehicle crashes.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Bus.—The term ‘bus’ has the meaning given the term in section 571.3(b) of title 49, Code of Federal Regulations (as in effect on the day before the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\]).
+Bus.—The term 'bus' has the meaning given the term in section 571.3(b) of title 49, Code of Federal Regulations (as in effect on the day before the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\]).
 
-&emsp;“(3)
+&emsp;"(3)
 
-Commercial motor vehicle.—Except as otherwise specified, the term ‘commercial motor vehicle’ has the meaning given the term in section 31132(1) of title 49, United States Code.
+Commercial motor vehicle.—Except as otherwise specified, the term 'commercial motor vehicle' has the meaning given the term in section 31132(1) of title 49, United States Code.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Direct tire pressure monitoring system.—The term ‘direct tire pressure monitoring system’ means a tire pressure monitoring system that is capable of directly detecting when the air pressure level in any tire is significantly under-inflated and providing the driver a low tire pressure warning as to which specific tire is significantly under-inflated.
+Direct tire pressure monitoring system.—The term 'direct tire pressure monitoring system' means a tire pressure monitoring system that is capable of directly detecting when the air pressure level in any tire is significantly under-inflated and providing the driver a low tire pressure warning as to which specific tire is significantly under-inflated.
 
-&emsp;“(5)
+&emsp;"(5)
 
-Motor carrier.—The term ‘motor carrier’ means—
+Motor carrier.—The term 'motor carrier' means—
 
-&emsp;&emsp;“(A) a motor carrier (as defined in section 13102(14) of title 49, United States Code); or
+&emsp;&emsp;"(A) a motor carrier (as defined in section 13102(14) of title 49, United States Code); or
 
-&emsp;&emsp;“(B) a motor private carrier (as defined in section 13102(15) of that title).
+&emsp;&emsp;"(B) a motor private carrier (as defined in section 13102(15) of that title).
 
-&emsp;“(6)
+&emsp;"(6)
 
-Motorcoach.—The term ‘motorcoach’ has the meaning given the term ‘over-the-road bus’ in section 3038(a)(3) of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178\] (49 U.S.C. 5310 note), but does not include—
+Motorcoach.—The term 'motorcoach' has the meaning given the term 'over-the-road bus' in section 3038(a)(3) of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178\] (49 U.S.C. 5310 note), but does not include—
 
-&emsp;&emsp;“(A) a bus used in public transportation provided by, or on behalf of, a public transportation agency; or
+&emsp;&emsp;"(A) a bus used in public transportation provided by, or on behalf of, a public transportation agency; or
 
-&emsp;&emsp;“(B) a school bus, including a multifunction school activity bus.
+&emsp;&emsp;"(B) a school bus, including a multifunction school activity bus.
 
-&emsp;“(7)
+&emsp;"(7)
 
-Motorcoach services.—The term ‘motorcoach services’ means passenger transportation by motorcoach for compensation.
+Motorcoach services.—The term 'motorcoach services' means passenger transportation by motorcoach for compensation.
 
-&emsp;“(8)
+&emsp;"(8)
 
-Multifunction school activity bus.—The term ‘multifunction school activity bus’ has the meaning given the term in section 571.3(b) of title 49, Code of Federal Regulations (as in effect on the day before the date of enactment of this Act).
+Multifunction school activity bus.—The term 'multifunction school activity bus' has the meaning given the term in section 571.3(b) of title 49, Code of Federal Regulations (as in effect on the day before the date of enactment of this Act).
 
-&emsp;“(9)
+&emsp;"(9)
 
-Portal.—The term ‘portal’ means any opening on the front, side, rear, or roof of a motorcoach that could, in the event of a crash involving the motorcoach, permit the partial or complete ejection of any occupant from the motorcoach, including a young child.
+Portal.—The term 'portal' means any opening on the front, side, rear, or roof of a motorcoach that could, in the event of a crash involving the motorcoach, permit the partial or complete ejection of any occupant from the motorcoach, including a young child.
 
-&emsp;“(10)
+&emsp;"(10)
 
-Provider of motorcoach services.—The term ‘provider of motorcoach services’ means a motor carrier that provides passenger transportation services with a motorcoach, including per-trip compensation and contracted or chartered compensation.
+Provider of motorcoach services.—The term 'provider of motorcoach services' means a motor carrier that provides passenger transportation services with a motorcoach, including per-trip compensation and contracted or chartered compensation.
 
-&emsp;“(11)
+&emsp;"(11)
 
-Public transportation.—The term ‘public transportation’ has the meaning given the term in section 5302 of title 49, United States Code.
+Public transportation.—The term 'public transportation' has the meaning given the term in section 5302 of title 49, United States Code.
 
-&emsp;“(12)
+&emsp;"(12)
 
-Safety belt.—The term ‘safety belt’ has the meaning given the term in section 153(i)(4)(B) of title 23, United States Code.
+Safety belt.—The term 'safety belt' has the meaning given the term in section 153(i)(4)(B) of title 23, United States Code.
 
-&emsp;“(13)
+&emsp;"(13)
 
-Secretary.—The term ‘Secretary’ means the Secretary of Transportation.
+Secretary.—The term 'Secretary' means the Secretary of Transportation.
 
-#### “SEC. 32703. REGULATIONS FOR IMPROVED OCCUPANT PROTECTION, PASSENGER EVACUATION, AND CRASH AVOIDANCE.
+#### "SEC. 32703. REGULATIONS FOR IMPROVED OCCUPANT PROTECTION, PASSENGER EVACUATION, AND CRASH AVOIDANCE.
 
-“(a)
+"(a)
 
 Regulations Required Within 1
 
 Year.—Not later than 1 year after the date of enactment of this Act, the Secretary shall prescribe regulations requiring safety belts to be installed in motorcoaches at each designated seating position.
 
-“(b)
+"(b)
 
 Regulations Required Within 2
 
 Years.—Not later than 2 years after the date of enactment of this Act, the Secretary shall prescribe regulations that address the following commercial motor vehicle standards, if the Secretary determines that such standards meet the requirements and considerations set forth in subsections (a) and (b) of section 30111 of title 49, United States Code:
 
-&emsp;“(1)
+&emsp;"(1)
 
 Roof strength and crush resistance.—The Secretary shall establish improved roof and roof support standards for motorcoaches that substantially improve the resistance of motorcoach roofs to deformation and intrusion to prevent serious occupant injury in rollover crashes involving motorcoaches.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Anti-ejection safety countermeasures.—The Secretary shall consider requiring advanced glazing standards for each motorcoach portal and shall consider other portal improvements to prevent partial and complete ejection of motorcoach passengers, including children. In prescribing such standards, the Secretary shall consider the impact of such standards on the use of motorcoach portals as a means of emergency egress.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Rollover crash avoidance.—The Secretary shall consider requiring motorcoaches to be equipped with stability enhancing technology, such as electronic stability control and torque vectoring, to reduce the number and frequency of rollover crashes among motorcoaches.
 
-“(c)
+"(c)
 
 Commercial Motor Vehicle Tire Pressure Monitoring Systems.—Not later than 3 years after the date of enactment of this Act, the Secretary shall prescribe the following commercial vehicle regulation:
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary shall consider requiring motorcoaches to be equipped with direct tire pressure monitoring systems that warn the operator of a commercial motor vehicle when any tire exhibits a level of air pressure that is below a specified level of air pressure established by the Secretary, if the Secretary determines that such standards meet the requirements and considerations set forth in subsections (a) and (b) of section 30111 of title 49, United States Code.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Performance requirements.—In any standard adopted under paragraph (1), the Secretary shall include performance requirements to meet the objectives identified in paragraph (1) of this subsection.
 
-“(d)
+"(d)
 
 Tire Performance Standard.—Not later than 3 years after the date of enactment of this Act, the Secretary shall consider—
 
-&emsp;“(1) issuing a rule to upgrade performance standards for tires used on motorcoaches, including an enhanced endurance test and a new high-speed performance test; or
+&emsp;"(1) issuing a rule to upgrade performance standards for tires used on motorcoaches, including an enhanced endurance test and a new high-speed performance test; or
 
-&emsp;“(2) if the Secretary determines that a standard does not meet the requirements and considerationsset forth in subsections (a) and (b) of section 30111 of title 49, United States Code, submit a report that describes the reasons for not prescribing such a standard to—
+&emsp;"(2) if the Secretary determines that a standard does not meet the requirements and considerations set forth in subsections (a) and (b) of section 30111 of title 49, United States Code, submit a report that describes the reasons for not prescribing such a standard to—
 
-&emsp;&emsp;“(A) the Committee on Commerce, Science, and Transportation of the Senate;
+&emsp;&emsp;"(A) the Committee on Commerce, Science, and Transportation of the Senate;
 
-&emsp;&emsp;“(B) the Committee on Transportation and Infrastructure of the House of Representatives; and
+&emsp;&emsp;"(B) the Committee on Transportation and Infrastructure of the House of Representatives; and
 
-&emsp;&emsp;“(C) the Committee on Energy and Commerce of the House of Representatives.
+&emsp;&emsp;"(C) the Committee on Energy and Commerce of the House of Representatives.
 
-“(e)
+"(e)
 
 Application of Regulations.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 New motorcoaches.—Any regulation prescribed in accordance with subsection (a), (b), (c), or (d) shall—
 
-&emsp;&emsp;“(A) apply to all motorcoaches manufactured more than 3 years after the date on which the regulation is published as a final rule;
+&emsp;&emsp;"(A) apply to all motorcoaches manufactured more than 3 years after the date on which the regulation is published as a final rule;
 
-&emsp;&emsp;“(B) take into account the impact to seating capacity of changes to size and weight of motorcoaches and the ability to comply with State and Federal size and weight requirements; and
+&emsp;&emsp;"(B) take into account the impact to seating capacity of changes to size and weight of motorcoaches and the ability to comply with State and Federal size and weight requirements; and
 
-&emsp;&emsp;“(C) be based on the best available science.
+&emsp;&emsp;"(C) be based on the best available science.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Retrofit assessment for existing motorcoaches.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—The Secretary may assess the feasibility, benefits, and costs with respect to the application of any requirement established under subsection (a) or (b)(2) to motorcoaches manufactured before the date on which the requirement applies to new motorcoaches under paragraph (1).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Report.—The Secretary shall submit a report on the assessment to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure and the Committee on Energy and Commerce of the House of Representatives not later than 2 years after the date of enactment of this Act.
 
-#### “SEC. 32704. FIRE PREVENTION AND MITIGATION.
+#### "SEC. 32704. FIRE PREVENTION AND MITIGATION.
 
-“(a)
+"(a)
 
 Research and Testing.—The Secretary shall conduct research and testing to determine the most prevalent causes of motorcoach fires and the best methods to prevent such fires and to mitigate the effect of such fires, both inside and outside the motorcoach. Such research and testing shall consider flammability of exterior components, smoke suppression, prevention of and resistance to wheel well fires, automatic fire suppression, passenger evacuation, causation and prevention of motorcoach fires, and improved fire extinguishers.
 
-“(b)
+"(b)
 
 Standards.—Not later than 3 years after the date of enactment of this Act, the Secretary may issue fire prevention and mitigation standards for motorcoaches, based on the results of the Secretary's research and testing, taking into account highway size and weight restrictions applicable to motorcoaches, if the Secretary determines that such standards meet the requirements and considerations set forth in subsections (a) and (b) of section 30111 of title 49, United States Code.
 
-#### “SEC. 32705. OCCUPANT PROTECTION, COLLISION AVOIDANCE, FIRE CAUSATION, AND FIRE EXTINGUISHER RESEARCH AND TESTING.
+#### "SEC. 32705. OCCUPANT PROTECTION, COLLISION AVOIDANCE, FIRE CAUSATION, AND FIRE EXTINGUISHER RESEARCH AND TESTING.
 
-“(a)
+"(a)
 
 Safety Research Initiatives.—Not later than 3 years after the date of enactment of this Act, the Secretary shall complete the following research and testing:
 
-&emsp;“(1)
+&emsp;"(1)
 
 Interior impact protection.—The Secretary shall research and test enhanced occupant impact protection technologies for motorcoach interiors to reduce serious injuries for all passengers of motorcoaches.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Compartmentalization safety countermeasures.—The Secretary shall research and test enhanced compartmentalization safety countermeasures for motorcoaches, including enhanced seating designs.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Collision avoidance systems.—The Secretary shall research and test forward and lateral crash warning systems applications for motorcoaches.
 
-“(b)
+"(b)
 
 Rulemaking.—Not later than 2 years after the completion of each research and testing initiative required under subsection (a), the Secretary shall issue final motor vehicle safety standards if the Secretary determines that such standards meet the requirements and considerations set forth in subsections (a) and (b) of section 30111 of title 49, United States Code.
 
-#### “SEC. 32706. CONCURRENCE OF RESEARCH AND RULEMAKING.
+#### "SEC. 32706. CONCURRENCE OF RESEARCH AND RULEMAKING.
 
-“(a)
+"(a)
 
 Requirements.—To the extent feasible, the Secretary shall ensure that research programs are carried out concurrently, and in a manner that concurrently assesses results, potential countermeasures, costs, and benefits.
 
-“(b)
+"(b)
 
 Authority to Combine Rulemakings.—When considering each of the rulemaking provisions, the Secretary may initiate a single rulemaking proceeding encompassing all aspects or may combine the rulemakings as the Secretary deems appropriate.
 
-“(c)
+"(c)
 
 Considerations.—If the Secretary undertakes separate rulemaking proceedings, the Secretary shall—
 
-&emsp;“(1) consider whether each added aspect of rulemaking may contribute to addressing the safety need determined to require rulemaking;
+&emsp;"(1) consider whether each added aspect of rulemaking may contribute to addressing the safety need determined to require rulemaking;
 
-&emsp;“(2) consider the benefits obtained through the safety belts rulemaking in section 32703(a); and
+&emsp;"(2) consider the benefits obtained through the safety belts rulemaking in section 32703(a); and
 
-&emsp;“(3) avoid duplicative benefits, costs, and countermeasures.
+&emsp;"(3) avoid duplicative benefits, costs, and countermeasures.
 
-#### “SEC. 32707. IMPROVED OVERSIGHT OF MOTORCOACH SERVICE PROVIDERS.
+#### "SEC. 32707. IMPROVED OVERSIGHT OF MOTORCOACH SERVICE PROVIDERS.
 
-“(a)
+"(a)
 
 Safety Reviews.—\[Amended section 31144 of this title.\]
 
-“(b)
+"(b)
 
 Disclosure of Safety Performance Ratings of Motorcoach Services and Operations.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Definitions.—In this subsection:
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Motorcoach.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
-In general.—Except as provided in clause (ii), the term ‘motorcoach’ has the meaning given the term ‘over-the-road bus’ in section 3038(a)(3) of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178\] (49 U.S.C. 5310 note).
+In general.—Except as provided in clause (ii), the term 'motorcoach' has the meaning given the term 'over-the-road bus' in section 3038(a)(3) of the Transportation Equity Act for the 21st Century \[Pub. L. 105–178\] (49 U.S.C. 5310 note).
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
-Exclusions.—The term ‘motorcoach’ does not include—
+Exclusions.—The term 'motorcoach' does not include—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) a bus used in public transportation that is provided by a State or local government; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) a bus used in public transportation that is provided by a State or local government; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) a school bus (as defined in section 30125(a)(1) of title 49, United States Code), including a multifunction school activity bus.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) a school bus (as defined in section 30125(a)(1) of title 49, United States Code), including a multifunction school activity bus.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
-Motorcoach services and operations.—The term ‘motorcoach services and operations’ means passenger transportation by a motorcoach for compensation.
+Motorcoach services and operations.—The term 'motorcoach services and operations' means passenger transportation by a motorcoach for compensation.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Requirements for the disclosure of safety performance ratings of motorcoach services and operations.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Not later than 1 year after the date of enactment of this Act, the Secretary shall establish, through notice and opportunity for public to comment, requirements to improve the accessibility to the public of safety rating information of motorcoach services and operations.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Display.—In establishing the requirements under subparagraph (A), the Secretary shall consider requirements for each motor carrier that owns or leases 1 or more motorcoaches that transport passengers subject to the Secretary's jurisdiction under section 13501 of title 49, United States Code, to prominently display safety fitness information pursuant to section 31144 of title 49, United States Code—
 
-&emsp;&emsp;&emsp;“(i) in each terminal of departure;
+&emsp;&emsp;&emsp;"(i) in each terminal of departure;
 
-&emsp;&emsp;&emsp;“(ii) in the motorcoach and visible from a position exterior to the vehicle at the point of departure, if the motorcoach does not depart from a terminal; and
+&emsp;&emsp;&emsp;"(ii) in the motorcoach and visible from a position exterior to the vehicle at the point of departure, if the motorcoach does not depart from a terminal; and
 
-&emsp;&emsp;&emsp;“(iii) at all points of sale for such motorcoach services and operations.
+&emsp;&emsp;&emsp;"(iii) at all points of sale for such motorcoach services and operations.
 
-#### “SEC. 32708. REPORT ON FEASIBILITY, BENEFITS, AND COSTS OF ESTABLISHING A SYSTEM OF CERTIFICATION OF TRAINING PROGRAMS.
+#### "SEC. 32708. REPORT ON FEASIBILITY, BENEFITS, AND COSTS OF ESTABLISHING A SYSTEM OF CERTIFICATION OF TRAINING PROGRAMS.
 
-“Not later than 2 years after the date of enactment of this Act, the Secretary of Transportation shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that describes the feasibility, benefits, and costs of establishing a system of certification of public and private schools and of motor carriers and motorcoach operators that provide motorcoach driver training.
+"Not later than 2 years after the date of enactment of this Act, the Secretary of Transportation shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that describes the feasibility, benefits, and costs of establishing a system of certification of public and private schools and of motor carriers and motorcoach operators that provide motorcoach driver training.
 
-#### “SEC. 32709. COMMERCIAL DRIVER'S LICENSE PASSENGER ENDORSEMENT REQUIREMENTS.
+#### "SEC. 32709. COMMERCIAL DRIVER'S LICENSE PASSENGER ENDORSEMENT REQUIREMENTS.
 
-“(a)
+"(a)
 
 In General.—Not later than 2 years after the date of enactment of this Act, the Secretary of Transportation shall review and assess the current knowledge and skill testing requirements for a commercial driver's license passenger endorsement to determine what improvements to the knowledge test, the examination of driving skills, and the application of such requirements are necessary to ensure the safe operation of commercial motor vehicles designed or used to transport passengers.
 
-“(b)
+"(b)
 
 Report.—Not later than 120 days after completion of the review and assessment under subsection (a), the Secretary of Transportation shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate—
 
-&emsp;“(1) a report on the review and assessment conducted under subsection (a);
+&emsp;"(1) a report on the review and assessment conducted under subsection (a);
 
-&emsp;“(2) a plan to implement any changes to the knowledge and skills tests; and
+&emsp;"(2) a plan to implement any changes to the knowledge and skills tests; and
 
-&emsp;“(3) a timeframe by which the Secretary will implement the changes.
+&emsp;"(3) a timeframe by which the Secretary will implement the changes.
 
-#### “SEC. 32710. SAFETY INSPECTION PROGRAM FOR COMMERCIAL MOTOR VEHICLES OF PASSENGERS.
+#### "SEC. 32710. SAFETY INSPECTION PROGRAM FOR COMMERCIAL MOTOR VEHICLES OF PASSENGERS.
 
-“Not later than 3 years after the date of enactment of this Act, the Secretary of Transportation shall complete a rulemaking proceeding to consider requiring States to establish a program for annual inspections of commercial motor vehicles designed or used to transport passengers, including an assessment of—
+"Not later than 3 years after the date of enactment of this Act, the Secretary of Transportation shall complete a rulemaking proceeding to consider requiring States to establish a program for annual inspections of commercial motor vehicles designed or used to transport passengers, including an assessment of—
 
-&emsp;“(1) the risks associated with improperly maintained or inspected commercial motor vehicles designed or used to transport passengers;
+&emsp;"(1) the risks associated with improperly maintained or inspected commercial motor vehicles designed or used to transport passengers;
 
-&emsp;“(2) the effectiveness of existing Federal standards for the inspection of such vehicles in—
+&emsp;"(2) the effectiveness of existing Federal standards for the inspection of such vehicles in—
 
-&emsp;&emsp;“(A) mitigating the risks described in paragraph (1); and
+&emsp;&emsp;"(A) mitigating the risks described in paragraph (1); and
 
-&emsp;&emsp;“(B) ensuring the safe and proper operation condition of such vehicles; and
+&emsp;&emsp;"(B) ensuring the safe and proper operation condition of such vehicles; and
 
-&emsp;“(3) the costs and benefits of a mandatory inspection program.
+&emsp;"(3) the costs and benefits of a mandatory inspection program.
 
-#### “SEC. 32711. REGULATIONS.
+#### "SEC. 32711. REGULATIONS.
 
-“Any standard or regulation prescribed or modified pursuant to the Motorcoach Enhanced Safety Act of 2012 shall be prescribed or modified in accordance with section 553 of title 5, United States Code.”
+"Any standard or regulation prescribed or modified pursuant to the Motorcoach Enhanced Safety Act of 2012 shall be prescribed or modified in accordance with section 553 of title 5, United States Code."
 
 #### Exemptions From Requirements for Covered Farm Vehicles
 
 Pub. L. 112–141, div. C, title II, §32934, July 6, 2012, 126 Stat. 830, provided that:
 
-“(a)
+"(a)
 
 Federal Requirements.—A covered farm vehicle, including the individual operating that vehicle, shall be exempt from the following:
 
-&emsp;“(1) Any requirement relating to commercial driver's licenses established under chapter 313 of title 49, United States Code.
+&emsp;"(1) Any requirement relating to commercial driver's licenses established under chapter 313 of title 49, United States Code.
 
-&emsp;“(2) Any requirement relating to drug-testing established under chapter 313 of title 49, United States Code.
+&emsp;"(2) Any requirement relating to drug-testing established under chapter 313 of title 49, United States Code.
 
-&emsp;“(3) Any requirement relating to medical certificates established under—
+&emsp;"(3) Any requirement relating to medical certificates established under—
 
-&emsp;&emsp;“(A) subchapter III of chapter 311 of title 49, United States Code; or
+&emsp;&emsp;"(A) subchapter III of chapter 311 of title 49, United States Code; or
 
-&emsp;&emsp;“(B) chapter 313 of title 49, United States Code.
+&emsp;&emsp;"(B) chapter 313 of title 49, United States Code.
 
-&emsp;“(4) Any requirement relating to hours of service established under—
+&emsp;"(4) Any requirement relating to hours of service established under—
 
-&emsp;&emsp;“(A) subchapter III of chapter 311 of title 49, United States Code; or
+&emsp;&emsp;"(A) subchapter III of chapter 311 of title 49, United States Code; or
 
-&emsp;&emsp;“(B) chapter 315 of title 49, United States Code.
+&emsp;&emsp;"(B) chapter 315 of title 49, United States Code.
 
-&emsp;“(5) Any requirement relating to vehicle inspection, repair, and maintenance established under—
+&emsp;"(5) Any requirement relating to vehicle inspection, repair, and maintenance established under—
 
-&emsp;&emsp;“(A) subchapter III of chapter 311 of title 49, United States Code; or
+&emsp;&emsp;"(A) subchapter III of chapter 311 of title 49, United States Code; or
 
-&emsp;&emsp;“(B) chapter 315 of title 49, United States Code.
+&emsp;&emsp;"(B) chapter 315 of title 49, United States Code.
 
-“(b)
+"(b)
 
 State Requirements.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Federal transportation funding to a State may not be terminated, limited, or otherwise interfered with as a result of the State exempting a covered farm vehicle, including the individual operating that vehicle, from any State requirement relating to the operation of that vehicle.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Exception.—Paragraph (1) does not apply with respect to a covered farm vehicle transporting hazardous materials that require a placard.
 
-“(c)
+"(c)
 
 Covered Farm Vehicle Defined.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—In this section, the term ‘covered farm vehicle’ means a motor vehicle (including an articulated motor vehicle)—
+In general.—In this section, the term 'covered farm vehicle' means a motor vehicle (including an articulated motor vehicle)—
 
-&emsp;&emsp;“(A) that—
+&emsp;&emsp;"(A) that—
 
-&emsp;&emsp;&emsp;“(i) is traveling in the State in which the vehicle is registered or another State;
+&emsp;&emsp;&emsp;"(i) is traveling in the State in which the vehicle is registered or another State;
 
-&emsp;&emsp;&emsp;“(ii) is operated by—
+&emsp;&emsp;&emsp;"(ii) is operated by—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) a farm owner or operator;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) a farm owner or operator;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) a ranch owner or operator; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) a ranch owner or operator; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) an employee or family member of an individual specified in subclause (I) or (II);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) an employee or family member of an individual specified in subclause (I) or (II);
 
-&emsp;&emsp;&emsp;“(iii) is transporting to or from a farm or ranch—
+&emsp;&emsp;&emsp;"(iii) is transporting to or from a farm or ranch—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) agricultural commodities;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) agricultural commodities;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) livestock; or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) livestock; or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) machinery or supplies;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) machinery or supplies;
 
-&emsp;&emsp;&emsp;“(iv) except as provided in paragraph (2), is not used in the operations of a for-hire motor carrier; and
+&emsp;&emsp;&emsp;"(iv) except as provided in paragraph (2), is not used in the operations of a for-hire motor carrier; and
 
-&emsp;&emsp;&emsp;“(v) is equipped with a special license plate or other designation by the State in which the vehicle is registered to allow for identification of the vehicle as a farm vehicle by law enforcement personnel; and
+&emsp;&emsp;&emsp;"(v) is equipped with a special license plate or other designation by the State in which the vehicle is registered to allow for identification of the vehicle as a farm vehicle by law enforcement personnel; and
 
-&emsp;&emsp;“(B) that has a gross vehicle weight rating or gross vehicle weight, whichever is greater, that is—
+&emsp;&emsp;"(B) that has a gross vehicle weight rating or gross vehicle weight, whichever is greater, that is—
 
-&emsp;&emsp;&emsp;“(i) 26,001 pounds or less; or
+&emsp;&emsp;&emsp;"(i) 26,001 pounds or less; or
 
-&emsp;&emsp;&emsp;“(ii) greater than 26,001 pounds and traveling within the State or within 150 air miles of the farm or ranch with respect to which the vehicle is being operated.
+&emsp;&emsp;&emsp;"(ii) greater than 26,001 pounds and traveling within the State or within 150 air miles of the farm or ranch with respect to which the vehicle is being operated.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Inclusion.—In this section, the term ‘covered farm vehicle’ includes a motor vehicle that meets the requirements of paragraph (1) (other than paragraph (1)(A)(iv)) and—
+Inclusion.—In this section, the term 'covered farm vehicle' includes a motor vehicle that meets the requirements of paragraph (1) (other than paragraph (1)(A)(iv)) and—
 
-&emsp;&emsp;“(A) is operated pursuant to a crop share farm lease agreement;
+&emsp;&emsp;"(A) is operated pursuant to a crop share farm lease agreement;
 
-&emsp;&emsp;“(B) is owned by a tenant with respect to that agreement; and
+&emsp;&emsp;"(B) is owned by a tenant with respect to that agreement; and
 
-&emsp;&emsp;“(C) is transporting the landlord's portion of the crops under that agreement.
+&emsp;&emsp;"(C) is transporting the landlord's portion of the crops under that agreement.
 
-“(d)
+"(d)
 
 Safety Study.—The Secretary of Transportation shall conduct a study of the exemption required by subsection (a) as follows:
 
-&emsp;“(1) Data and analysis of covered farm vehicles shall include—
+&emsp;"(1) Data and analysis of covered farm vehicles shall include—
 
-&emsp;&emsp;“(A) the number of vehicles that are operated subject to each of the regulatory exemptions permitted under subsection (a);
+&emsp;&emsp;"(A) the number of vehicles that are operated subject to each of the regulatory exemptions permitted under subsection (a);
 
-&emsp;&emsp;“(B) the number of drivers that operate covered farm vehicles subject to each of the regulatory exemptions permitted under subsection (a);
+&emsp;&emsp;"(B) the number of drivers that operate covered farm vehicles subject to each of the regulatory exemptions permitted under subsection (a);
 
-&emsp;&emsp;“(C) the number of crashes involving covered farm vehicles;
+&emsp;&emsp;"(C) the number of crashes involving covered farm vehicles;
 
-&emsp;&emsp;“(D) the number of occupants and non-occupants injured in crashes involving covered farm vehicles;
+&emsp;&emsp;"(D) the number of occupants and non-occupants injured in crashes involving covered farm vehicles;
 
-&emsp;&emsp;“(E) the number of fatalities of occupants and non-occupants killed in crashes involving farm vehicles;
+&emsp;&emsp;"(E) the number of fatalities of occupants and non-occupants killed in crashes involving farm vehicles;
 
-&emsp;&emsp;“(F) crash investigations and accident reconstruction investigations of all fatalities in crashes involving covered farm vehicles;
+&emsp;&emsp;"(F) crash investigations and accident reconstruction investigations of all fatalities in crashes involving covered farm vehicles;
 
-&emsp;&emsp;“(G) overall operating mileage of covered farm vehicles;
+&emsp;&emsp;"(G) overall operating mileage of covered farm vehicles;
 
-&emsp;&emsp;“(H) numbers of covered farm vehicles that operate in neighboring States; and
+&emsp;&emsp;"(H) numbers of covered farm vehicles that operate in neighboring States; and
 
-&emsp;&emsp;“(I) any other data the Secretary deems necessary to analyze and include.
+&emsp;&emsp;"(I) any other data the Secretary deems necessary to analyze and include.
 
-&emsp;“(2) A listing of State regulations issued and maintained in each State that are identical to the Federal regulations that are subject to exemption in subsection (a).
+&emsp;"(2) A listing of State regulations issued and maintained in each State that are identical to the Federal regulations that are subject to exemption in subsection (a).
 
-&emsp;“(3) The Secretary shall report the findings of the study to the appropriate committees of Congress not later than 18 months after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\].
+&emsp;"(3) The Secretary shall report the findings of the study to the appropriate committees of Congress not later than 18 months after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\].
 
-“(e)
+"(e)
 
-Construction.—Nothing in this section shall be construed as authority for the Secretary of Transportation to prescribe regulations.”
+Construction.—Nothing in this section shall be construed as authority for the Secretary of Transportation to prescribe regulations."
 
 #### Hours of Service Rules for Operators Providing Transportation to Movie Production Sites
 
-Pub. L. 109–59, title IV, §4133, Aug. 10, 2005, 119 Stat. 1744, provided that: “Notwithstanding sections 31136 and 31502 of title 49, United States Code, and any other provision of law, the maximum daily hours of service for an operator of a commercial motor vehicle providing transportation of property or passengers to or from a theatrical or television motion picture production site located within a 100 air mile radius of the work reporting location of such operator shall be those in effect under the regulations in effect under such sections on April 27, 2003.”
+Pub. L. 109–59, title IV, §4133, Aug. 10, 2005, 119 Stat. 1744, provided that: "Notwithstanding sections 31136 and 31502 of title 49, United States Code, and any other provision of law, the maximum daily hours of service for an operator of a commercial motor vehicle providing transportation of property or passengers to or from a theatrical or television motion picture production site located within a 100 air mile radius of the work reporting location of such operator shall be those in effect under the regulations in effect under such sections on April 27, 2003."
 
 #### Interstate Van Operations
 
-Pub. L. 109–59, title IV, §4136, Aug. 10, 2005, 119 Stat. 1745, provided that: “The Federal motor carrier safety regulations that apply to interstate operations of commercial motor vehicles designed to transport between 9 and 15 passengers (including the driver) shall apply to all interstate operations of such carriers regardless of the distance traveled.”
+Pub. L. 109–59, title IV, §4136, Aug. 10, 2005, 119 Stat. 1745, provided that: "The Federal motor carrier safety regulations that apply to interstate operations of commercial motor vehicles designed to transport between 9 and 15 passengers (including the driver) shall apply to all interstate operations of such carriers regardless of the distance traveled."
 
 #### Authority To Promulgate Safety Standards for Retrofitting
 
-Pub. L. 106–159, title I, §101(f), Dec. 9, 1999, 113 Stat. 1752, provided that: “The authority under title 49, United States Code, to promulgate safety standards for commercial motor vehicles and equipment subsequent to initial manufacture is vested in the Secretary and may be delegated.”
+Pub. L. 106–159, title I, §101(f), Dec. 9, 1999, 113 Stat. 1752, provided that: "The authority under title 49, United States Code, to promulgate safety standards for commercial motor vehicles and equipment subsequent to initial manufacture is vested in the Secretary and may be delegated."
 
 #### Certain Exemptions
 
 Pub. L. 106–159, title II, §229, as added and amended by Pub. L. 109–59, title IV, §§4115(a), (c), 4130–4132, 4147, Aug. 10, 2005, 119 Stat. 1726, 1743, 1744, 1749; Pub. L. 110–244, title III, §301(i), June 6, 2008, 122 Stat. 1616; Pub. L. 112–141, div. C, title II, §32101(d), July 6, 2012, 126 Stat. 778, provided that:
 
-“(a)
+"(a)
 
 Exemptions.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Transportation of agricultural commodities and farm supplies.—Regulations prescribed by the Secretary \[of Transportation\] under sections 31136 and 31502 \[of title 49, United States Code\] regarding maximum driving and on-duty time for drivers used by motor carriers shall not apply during planting and harvest periods, as determined by each State, to—
 
-&emsp;&emsp;“(A) drivers transporting agricultural commodities from the source of the agricultural commodities to a location within a 150 air-mile radius from the source;
+&emsp;&emsp;"(A) drivers transporting agricultural commodities from the source of the agricultural commodities to a location within a 150 air-mile radius from the source;
 
-&emsp;&emsp;“(B) drivers transporting farm supplies for agricultural purposes from a wholesale or retail distribution point of the farm supplies to a farm or other location where the farm supplies are intended to be used within a 150 air-mile radius from the distribution point; or
+&emsp;&emsp;"(B) drivers transporting farm supplies for agricultural purposes from a wholesale or retail distribution point of the farm supplies to a farm or other location where the farm supplies are intended to be used within a 150 air-mile radius from the distribution point; or
 
-&emsp;&emsp;“(C) drivers transporting farm supplies for agricultural purposes from a wholesale distribution point of the farm supplies to a retail distribution point of the farm supplies within a 150 air-mile radius from the wholesale distribution point.
+&emsp;&emsp;"(C) drivers transporting farm supplies for agricultural purposes from a wholesale distribution point of the farm supplies to a retail distribution point of the farm supplies within a 150 air-mile radius from the wholesale distribution point.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Transportation and operation of ground water well drilling rigs.—Such regulations shall, in the case of a driver of a commercial motor vehicle who is used primarily in the transportation and operation of a ground water well drilling rig, permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum driving and on-duty time. Except as required in section 395.3 of title 49, Code of Federal Regulations, as in effect on the date of enactment of this sentence \[Aug. 10, 2005\], no additional off-duty time shall be required in order to operate such vehicle.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Transportation of construction materials and equipment.—Such regulations shall, in the case of a driver of a commercial motor vehicle who is used primarily in the transportation of construction materials and equipment, permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum driving and on-duty time.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Operators of utility service vehicles.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Inapplicability of federal regulations.—Such regulations shall not apply to a driver of a utility service vehicle.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Prohibition on state regulations.—A State, a political subdivision of a State, an interstate agency, or other entity consisting of two or more States, shall not enact or enforce any law, rule, regulation, or standard that imposes requirements on a driver of a utility service vehicle that are similar to the requirements contained in such regulations.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Snow and ice removal.—A State may waive the requirements of chapter 313 of title 49, United States Code, with respect to a vehicle that is being operated within the boundaries of an eligible unit of local government by an employee of such unit for the purpose of removing snow or ice from a roadway by plowing, sanding, or salting. Such waiver authority shall only apply in a case where the employee is needed to operate the vehicle because the employee of the eligible unit of local government who ordinarily operates the vehicle and who has a commercial drivers license is unable to operate the vehicle or is in need of additional assistance due to a snow emergency.
 
-“(b)
+"(b)
 
 Preemption.—Except as provided in subsection (a)(4), nothing contained in this section shall require the preemption of State laws and regulations concerning the safe operation of commercial motor vehicles as the result of exemptions from Federal requirements provided under this section.
 
-“(c)
+"(c)
 
 Review by the Secretary.—The Secretary \[of Transportation\] may conduct a rulemaking proceeding to determine whether granting any exemption provided by subsection (a) (other than paragraph (1), (2), or (4)) is not in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles. If, at any time as a result of such a proceeding, the Secretary determines that granting such exemption would not be in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles, the Secretary may prevent the exemption from going into effect, modify the exemption, or revoke the exemption. The Secretary may develop a program to monitor the exemption, including agreements with carriers to permit the Secretary to examine insurance information maintained by an insurer on a carrier.
 
-“(d)
+"(d)
 
-Report.—The Secretary shall monitor the commercial motor vehicle safety performance of drivers ofvehicles that are subject to an exemption under this section. If the Secretary determines that public safety has been adversely affected by an exemption granted under this section, the Secretary shall report to Congress on the determination.
+Report.—The Secretary shall monitor the commercial motor vehicle safety performance of drivers of vehicles that are subject to an exemption under this section. If the Secretary determines that public safety has been adversely affected by an exemption granted under this section, the Secretary shall report to Congress on the determination.
 
-“(e)
+"(e)
 
 Definitions.—In this section, the following definitions apply:
 
-&emsp;“(1) 7
+&emsp;"(1) 7
 
-or 8 consecutive days.—The term ‘7 or 8 consecutive days’ means the period of 7 or 8 consecutive days beginning on any day at the time designated by the motor carrier for a 24-hour period.
+or 8 consecutive days.—The term '7 or 8 consecutive days' means the period of 7 or 8 consecutive days beginning on any day at the time designated by the motor carrier for a 24-hour period.
 
-&emsp;“(2) 24-
+&emsp;"(2) 24-
 
-hour period.—The term ‘24-hour period’ means any 24 consecutive hour period beginning at the time designated by the motor carrier for the terminal from which the driver is normally dispatched.
+hour period.—The term '24-hour period' means any 24 consecutive hour period beginning at the time designated by the motor carrier for the terminal from which the driver is normally dispatched.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Ground water well drilling rig.—The term ‘ground water well drilling rig’ means any vehicle, machine, tractor, trailer, semi-trailer, or specialized mobile equipment propelled or drawn by mechanical power and used on highways to transport water well field operating equipment, including water well drilling and pump service rigs equipped to access ground water.
+Ground water well drilling rig.—The term 'ground water well drilling rig' means any vehicle, machine, tractor, trailer, semi-trailer, or specialized mobile equipment propelled or drawn by mechanical power and used on highways to transport water well field operating equipment, including water well drilling and pump service rigs equipped to access ground water.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Transportation of construction materials and equipment.—The term ‘transportation of construction materials and equipment’ means the transportation of construction and pavement materials, construction equipment, and construction maintenance vehicles, by a driver to or from an active construction site (a construction site between initial mobilization of equipment and materials to the site to the final completion of the construction project) within a 50 air mile radius of the normal work reporting location of the driver. This paragraph does not apply to the transportation of material found by the Secretary to be hazardous under section 5103 of title 49, United States Code, in a quantity requiring placarding under regulations issued to carry out such section.
+Transportation of construction materials and equipment.—The term 'transportation of construction materials and equipment' means the transportation of construction and pavement materials, construction equipment, and construction maintenance vehicles, by a driver to or from an active construction site (a construction site between initial mobilization of equipment and materials to the site to the final completion of the construction project) within a 50 air mile radius of the normal work reporting location of the driver. This paragraph does not apply to the transportation of material found by the Secretary to be hazardous under section 5103 of title 49, United States Code, in a quantity requiring placarding under regulations issued to carry out such section.
 
-&emsp;“(5)
+&emsp;"(5)
 
-Eligible unit of local government.—The term ‘eligible unit of local government’ means a city, town, borough, county, parish, district, or other public body created by or pursuant to State law which has a total population of 3,000 individuals or less.
+Eligible unit of local government.—The term 'eligible unit of local government' means a city, town, borough, county, parish, district, or other public body created by or pursuant to State law which has a total population of 3,000 individuals or less.
 
-&emsp;“(6)
+&emsp;"(6)
 
-Utility service vehicle.—The term ‘utility service vehicle’ means any commercial motor vehicle—
+Utility service vehicle.—The term 'utility service vehicle' means any commercial motor vehicle—
 
-&emsp;&emsp;“(A) used in the furtherance of repairing, maintaining, or operating any structures or any other physical facilities necessary for the delivery of public utility services, including the furnishing of electric, gas, water, sanitary sewer, telephone, and television cable or community antenna service;
+&emsp;&emsp;"(A) used in the furtherance of repairing, maintaining, or operating any structures or any other physical facilities necessary for the delivery of public utility services, including the furnishing of electric, gas, water, sanitary sewer, telephone, and television cable or community antenna service;
 
-&emsp;&emsp;“(B) while engaged in any activity necessarily related to the ultimate delivery of such public utility services to consumers, including travel or movement to, from, upon, or between activity sites (including occasional travel or movement outside the service area necessitated by any utility emergency as determined by the utility provider); and
+&emsp;&emsp;"(B) while engaged in any activity necessarily related to the ultimate delivery of such public utility services to consumers, including travel or movement to, from, upon, or between activity sites (including occasional travel or movement outside the service area necessitated by any utility emergency as determined by the utility provider); and
 
-&emsp;&emsp;“(C) except for any occasional emergency use, operated primarily within the service area of a utility's subscribers or consumers, without regard to whether the vehicle is owned, leased, or rented by the utility.
+&emsp;&emsp;"(C) except for any occasional emergency use, operated primarily within the service area of a utility's subscribers or consumers, without regard to whether the vehicle is owned, leased, or rented by the utility.
 
-&emsp;“(7)
+&emsp;"(7)
 
-Agricultural commodity.—The term ‘agricultural commodity’ means any agricultural commodity, non-processed food, feed, fiber, or livestock (including livestock as defined in section 602 of the Emergency Livestock Feed Assistance Act of 1988 (7 U.S.C. 1471) and insects).
+Agricultural commodity.—The term 'agricultural commodity' means any agricultural commodity, non-processed food, feed, fiber, or livestock (including livestock as defined in section 602 of the Emergency Livestock Feed Assistance Act of 1988 (7 U.S.C. 1471) and insects).
 
-&emsp;“(8)
+&emsp;"(8)
 
-Farm supplies for agricultural purposes.—The term ‘farm supplies for agricultural purposes’ means products directly related to the growing or harvesting of agricultural commodities during the planting and harvesting seasons within each State, as determined by the State, and livestock feed at any time of the year.
+Farm supplies for agricultural purposes.—The term 'farm supplies for agricultural purposes' means products directly related to the growing or harvesting of agricultural commodities during the planting and harvesting seasons within each State, as determined by the State, and livestock feed at any time of the year.
 
-“(f)
+"(f)
 
 Emergency Condition Requiring Immediate Response.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Propane or pipeline emergency.—A regulation prescribed under section 31136 or 31502 of title 49, United States Code, shall not apply to a driver of a commercial motor vehicle which is used primarily in the transportation of propane winter heating fuel or a driver of a motor vehicle used to respond to a pipeline emergency if such regulations would prevent the driver from responding to an emergency condition requiring immediate response.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Definition.—An emergency condition requiring immediate response is any condition that, if left unattended, is reasonably likely to result in immediate serious bodily harm, death, or substantial damage to property. In the case of propane such conditions shall include (but are not limited to) the detection of gas odor, the activation of carbon monoxide alarms, the detection of carbon monoxide poisoning, and any real or suspected damage to a propane gas system following a severe storm or flooding. An ‘emergency condition requiring an immediate response’ does not include requests to re-fill empty gas tanks. In the case of pipelines such conditions include (but are not limited to) indication of an abnormal pressure event, leak, release or rupture.”
+Definition.—An emergency condition requiring immediate response is any condition that, if left unattended, is reasonably likely to result in immediate serious bodily harm, death, or substantial damage to property. In the case of propane such conditions shall include (but are not limited to) the detection of gas odor, the activation of carbon monoxide alarms, the detection of carbon monoxide poisoning, and any real or suspected damage to a propane gas system following a severe storm or flooding. An 'emergency condition requiring an immediate response' does not include requests to re-fill empty gas tanks. In the case of pipelines such conditions include (but are not limited to) indication of an abnormal pressure event, leak, release or rupture."
 
 #### Protection of Existing Exemptions
 
-Pub. L. 105–178, title IV, §4007(d), June 9, 1998, 112 Stat. 404, provided that: “The amendments made by this section \[amending this section and section 31315 of this title\] shall not apply to or otherwise affect a waiver, exemption, or pilot program in effect on the day before the date of enactment of this Act \[June 9, 1998\] under chapter 313 or section 31136(e) of title 49, United States Code.”
+Pub. L. 105–178, title IV, §4007(d), June 9, 1998, 112 Stat. 404, provided that: "The amendments made by this section \[amending this section and section 31315 of this title\] shall not apply to or otherwise affect a waiver, exemption, or pilot program in effect on the day before the date of enactment of this Act \[June 9, 1998\] under chapter 313 or section 31136(e) of title 49, United States Code."
 
 #### Application of Regulations to Certain Commercial Motor Vehicles
 
-Pub. L. 105–178, title IV, §4008(b), June 9, 1998, 112 Stat. 404, provided that: “Effective on the last day of the 1-year period beginning on the date of enactment of this Act \[June 9, 1998\], regulations prescribed under section 31136 of title 49, United States Code, shall apply to operators of commercial motor vehicles described in section 31132(1)(B) of such title (as amended by subsection (a)) to the extent that those regulations did not apply to those operators on the day before such effective date, except to the extent that the Secretary determines, through a rulemaking proceeding, that it is appropriate to exempt such operators of commercial motor vehicles from the application of those regulations.”
+Pub. L. 105–178, title IV, §4008(b), June 9, 1998, 112 Stat. 404, provided that: "Effective on the last day of the 1-year period beginning on the date of enactment of this Act \[June 9, 1998\], regulations prescribed under section 31136 of title 49, United States Code, shall apply to operators of commercial motor vehicles described in section 31132(1)(B) of such title (as amended by subsection (a)) to the extent that those regulations did not apply to those operators on the day before such effective date, except to the extent that the Secretary determines, through a rulemaking proceeding, that it is appropriate to exempt such operators of commercial motor vehicles from the application of those regulations."
 
 #### Improved Interstate School Bus Safety
 
-Pub. L. 105–178, title IV, §4024, June 9, 1998, 112 Stat. 416, as amended by Pub. L. 107–110, title X, §1076(ii), Jan. 8, 2002, 115 Stat. 2094, provided that: “Not later than 6 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall initiate a rulemaking proceeding to determine whether or not relevant commercial motor carrier safety regulations issued under section 31136 of title 49, United States Code, should apply to all interstate school transportation operations by local educational agencies (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]).”
+Pub. L. 105–178, title IV, §4024, June 9, 1998, 112 Stat. 416, as amended by Pub. L. 107–110, title X, §1076(ii), Jan. 8, 2002, 115 Stat. 2094, provided that: "Not later than 6 months after the date of enactment of this Act \[June 9, 1998\], the Secretary shall initiate a rulemaking proceeding to determine whether or not relevant commercial motor carrier safety regulations issued under section 31136 of title 49, United States Code, should apply to all interstate school transportation operations by local educational agencies (as defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\])."
 
 #### Federal Highway Administration Rulemaking
 
 Pub. L. 104–88, title IV, §408, Dec. 29, 1995, 109 Stat. 958, provided that:
 
-“(a)
+"(a)
 
 Advance Notice.—The Federal Highway Administration shall issue an advance notice of proposed rulemaking dealing with a variety of fatigue-related issues pertaining to commercial motor vehicle motor vehicle safety (including 8 hours of continuous sleep after 10 hours of driving, loading and unloading operations, automated and tamper-proof recording devices, rest and recovery cycles, fatigue and stress in longer combination vehicles, fitness for duty, and other appropriate regulatory and enforcement countermeasures for reducing fatigue-related incidents and increasing driver alertness) not later than March 1, 1996.
 
-“(b)
+"(b)
 
-Rulemaking.—The Federal Highway Administration shall issue a notice of proposed rulemaking dealing with such issues within 1 year after issuance of the advance notice under subsection (a) is published and shall issue a final rule dealing with those issues within 2 years after the last day of such 1-year period.”
+Rulemaking.—The Federal Highway Administration shall issue a notice of proposed rulemaking dealing with such issues within 1 year after issuance of the advance notice under subsection (a) is published and shall issue a final rule dealing with those issues within 2 years after the last day of such 1-year period."
 
 #### Exemptions From Requirements Relating to Commercial Motor Vehicles and Their Operators
 
@@ -696,51 +696,51 @@ Pub. L. 104–59, title III, §345, Nov. 28, 1995, 109 Stat. 613, which related 
 
 Pub. L. 104–59, title III, §346, Nov. 28, 1995, 109 Stat. 615, as amended by Pub. L. 105–178, title I, §1211(j), June 9, 1998, 112 Stat. 192; Pub. L. 105–206, title IX, §9003(d)(3), July 22, 1998, 112 Stat. 839, provided that:
 
-“(a)
+"(a)
 
 In General.—After notice and opportunity for comment, the Secretary shall develop and implement a pilot program for the purpose of evaluating waivers of the regulations issued by the Secretary pursuant to sections 31136 and 31502 of title 49, United States Code, relating to maximum on-duty time, and sections 31102 and 31104(j) of such title, relating to the Motor Carrier Safety Assistance Program, to permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum on-duty time for drivers of motor vehicles making intrastate home heating oil deliveries that occur within 100 air miles of a central terminal or distribution point of the delivery of such oil. The Secretary may approve up to 5 States to participate in the pilot program during the winter heating season in the 6-month period beginning on November 1, 1996.
 
-“(b)
+"(b)
 
 Approval Criteria.—The Secretary shall select States to participate in the pilot program upon approval of applications submitted by States to the Secretary. The Secretary shall act on a State's application within 30 days after the date of its submission. The Secretary may only approve an application of a State under this section if the Secretary finds, at a minimum, that—
 
-&emsp;“(1) a substantial number of the citizens of the State rely on home heating oil for heat during winter months;
+&emsp;"(1) a substantial number of the citizens of the State rely on home heating oil for heat during winter months;
 
-&emsp;“(2) current maximum on-duty time regulations may endanger the welfare of these citizens by impeding timely deliveries of home heating oil;
+&emsp;"(2) current maximum on-duty time regulations may endanger the welfare of these citizens by impeding timely deliveries of home heating oil;
 
-&emsp;“(3) the State will ensure an equal to or greater level of safety with respect to home heating oil deliveries than the level of safety resulting from compliance with the regulations referred to in subsection (a);
+&emsp;"(3) the State will ensure an equal to or greater level of safety with respect to home heating oil deliveries than the level of safety resulting from compliance with the regulations referred to in subsection (a);
 
-&emsp;“(4) the State will monitor the safety of home heating oil deliveries while participating in the program;
+&emsp;"(4) the State will monitor the safety of home heating oil deliveries while participating in the program;
 
-&emsp;“(5) employers of deliverers of home heating oil that will be covered by the program will agree to make all safety data developed from the pilot program available to the State and to the Secretary;
+&emsp;"(5) employers of deliverers of home heating oil that will be covered by the program will agree to make all safety data developed from the pilot program available to the State and to the Secretary;
 
-&emsp;“(6) the State will only permit employers of deliverers of home heating oil with satisfactory safety records to be covered by the program; and
+&emsp;"(6) the State will only permit employers of deliverers of home heating oil with satisfactory safety records to be covered by the program; and
 
-&emsp;“(7) the State will comply with such other criteria as the Secretary determines are necessary to implement the program consistent with this section.
+&emsp;"(7) the State will comply with such other criteria as the Secretary determines are necessary to implement the program consistent with this section.
 
-“(c)
+"(c)
 
 Participation in Program.—Upon approval of an application of a State under this section, the Secretary shall permit the State to participate in the pilot program for an initial period of 15 days during the winter heating season of the State (as determined by the Governor and the Secretary). If, after the last day of such 15-day period, the Secretary finds that a State's continued participation in the program is consistent with this section and has resulted in no significant adverse impact on public safety and is in the public interest, the Secretary shall extend the State's participation in the program for periods of up to 30 additional days during such heating season.
 
-“(d)
+"(d)
 
 Suspension From Program.—The Secretary may suspend a State's participation in the pilot program at any time if the Secretary finds—
 
-&emsp;“(1) that the State has not complied with any of the criteria for participation in the program under this section;
+&emsp;"(1) that the State has not complied with any of the criteria for participation in the program under this section;
 
-&emsp;“(2) that a State's participation in the program has caused a significant adverse impact on public safety and is not in the public interest; or
+&emsp;"(2) that a State's participation in the program has caused a significant adverse impact on public safety and is not in the public interest; or
 
-&emsp;“(3) the existence of an emergency.
+&emsp;"(3) the existence of an emergency.
 
-“(e)
+"(e)
 
 Review by Secretary.—Within 90 days after the completion of the pilot program, the Secretary shall initiate a rulemaking to determine, based in part on the results of the program, whether to—
 
-&emsp;“(1) permit a State to grant waivers of the regulations referred to in subsection (a) to motor carriers transporting home heating oil within the borders of the State, subject to such conditions as the Secretary may impose, if the Secretary determines that such waivers by the State meet the conditions in section 31136(e) of title 49, United States Code; or
+&emsp;"(1) permit a State to grant waivers of the regulations referred to in subsection (a) to motor carriers transporting home heating oil within the borders of the State, subject to such conditions as the Secretary may impose, if the Secretary determines that such waivers by the State meet the conditions in section 31136(e) of title 49, United States Code; or
 
-&emsp;“(2) amend the regulations referred to in subsection (a) as may be necessary to provide flexibility to motor carriers delivering home heating oil during winter periods of peak demand.
+&emsp;"(2) amend the regulations referred to in subsection (a) as may be necessary to provide flexibility tomotor carriers delivering home heating oil during winter periods of peak demand.
 
-“(f)
+"(f)
 
-Definition.—In this section, the term ‘7 or 8 consecutive days’ has the meaning such term has under section 345 of this Act \[set out above\].”
+Definition.—In this section, the term '7 or 8 consecutive days' has the meaning such term has under section 345 of this Act \[set out above\]."
 

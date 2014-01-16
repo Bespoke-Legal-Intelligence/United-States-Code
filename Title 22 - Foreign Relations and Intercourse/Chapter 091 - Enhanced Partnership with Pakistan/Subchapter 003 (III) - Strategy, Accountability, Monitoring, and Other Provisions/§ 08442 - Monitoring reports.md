@@ -4,13 +4,13 @@
 
 Not later than 180 days after the submission of the Pakistan Assistance Strategy Report pursuant to section 8441(a) of this title, and every 180 days thereafter through September 30, 2014, the Secretary of State, in consultation with the Secretary of Defense, shall submit to the appropriate congressional committees a report that describes the assistance provided under this chapter during the preceding 180-day period. The report shall include—
 
-&emsp;(1) a description of all assistance by program, project, and activity, as well as by geographic area, provided pursuant to subchapter I of this chapter during the period covered by the report, including the amount of assistanceprovided for each program or project, and with respect to the first report a description of all amounts made available for assistance to Pakistan during fiscal year 2009, including a description of each program, project, and activity for which funds were made available;
+&emsp;(1) a description of all assistance by program, project, and activity, as well as by geographic area, provided pursuant to subchapter I of this chapter during the period covered by the report, including the amount of assistance provided for each program or project, and with respect to the first report a description of all amounts made available for assistance to Pakistan during fiscal year 2009, including a description of each program, project, and activity for which funds were made available;
 
 &emsp;(2) a list of persons or entities from the United States or other countries that have received funds in excess of $100,000 to conduct projects under subchapter I of this chapter during the period covered by the report, which may be included in a classified annex, if necessary to avoid a security risk, and a justification for the classification;
 
 &emsp;(3) with respect to the plan described in section 8441(a)(3) of this title, updates to such plan and a description of best practices to improve the impact of the assistance authorized under subchapter I of this chapter;
 
-&emsp;(4) an assessment of the effectiveness of assistance provided under subchapter I of this chapter during the period covered by the report in achieving desired objectives and outcomes as guided by the plan described in section 8441(a)(3) of this title, and as updated pursuant to paragraph (3) of this subsection, including a systematic, qualitative, and where possible, quantitative basis for assessing whether desired outcomes are achieved and a timeline for completion of each project and program;
+&emsp;(4) an assessment of the effectiveness of assistance provided under subchapter I of thischapter during the period covered by the report in achieving desired objectives and outcomes as guided by the plan described in section 8441(a)(3) of this title, and as updated pursuant to paragraph (3) of this subsection, including a systematic, qualitative, and where possible, quantitative basis for assessing whether desired outcomes are achieved and a timeline for completion of each project and program;
 
 &emsp;(5) a description of any shortfall in United States financial, physical, technical, or human resources that hinder the effective use and monitoring of such funds;
 
@@ -64,7 +64,7 @@ Not later than 180 days after the submission of the Pakistan Assistance Strategy
 
 #### (2) Certification report
 
-&emsp;Not later than 120 days after the date on which the President makes the certification described in section 8423(c) of this title for a fiscal year, the Comptroller General of the United States shall conduct an independent analysis of the certification described in suchsection and shall submit to the appropriate congressional committees a report containing the results of the independent analysis.
+&emsp;Not later than 120 days after the date on which the President makes the certification described in section 8423(c) of this title for a fiscal year, the Comptroller General of the United States shall conduct an independent analysis of the certification described in such section and shall submit to the appropriate congressional committees a report containing the results of the independent analysis.
 
 #### (c) Submission
 
@@ -72,7 +72,7 @@ The Secretary of State may submit the reports required by this section in conjun
 
 #### (d) Appropriate congressional committees defined
 
-In this section, the term “appropriate congressional committees” means—
+In this section, the term "appropriate congressional committees" means—
 
 &emsp;(1) the Committee on Appropriations, the Committee on Armed Services, and the Committee on Foreign Affairs of the House of Representatives; and
 

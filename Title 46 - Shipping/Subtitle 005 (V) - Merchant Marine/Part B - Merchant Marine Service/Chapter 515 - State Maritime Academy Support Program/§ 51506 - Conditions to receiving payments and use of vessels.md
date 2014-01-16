@@ -32,5 +32,5 @@ Historical and Revision Notes
 
 June 29, 1936, ch. 858, title XIII, §1304(f), as added Pub. L. 96–453, §2, Oct. 15, 1980, 94 Stat. 2004; Pub. L. 101–115, §3(a), Oct. 13, 1989, 103 Stat. 692.
 
-In subsection (a)(3), the words “administered by the Coast Guard” are omitted as unnecessary.
+In subsection (a)(3), the words "administered by the Coast Guard" are omitted as unnecessary.
 

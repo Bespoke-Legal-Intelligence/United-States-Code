@@ -1,6 +1,6 @@
 ### §707. Violations and penalties; forfeitures
 
-(a) Except as otherwise provided in this section, any person, association, partnership, or corporation who shall violate any provisions of said conventions or of this subchapter, or who shall violate or fail to comply with any regulation made pursuant to this subchapter shall be deemed guilty of a misdemeanor and upon conviction thereof shall be fined not more than $15,000 or be imprisoned not more than six months, or both.
+(a) Except as otherwise provided in this section, any person, association, partnership, or corporation who shall violate any provisions ofsaid conventions or of this subchapter, or who shall violate or fail to comply with any regulation made pursuant to this subchapter shall be deemed guilty of a misdemeanor and upon conviction thereof shall be fined not more than $15,000 or be imprisoned not more than six months, or both.
 
 (b) Whoever, in violation of this subchapter, shall knowingly—
 
@@ -16,15 +16,15 @@
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–312, §103(1), substituted “$15,000” for “$500”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–312, §103(1), substituted "$15,000" for "$500".
 
 Subsecs. (c), (d). Pub. L. 105–312, §103(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–645 substituted “shall knowingly” for “shall” in introductory provisions.
+<b>1986</b>—Subsec. (b). Pub. L. 99–645 substituted "shall knowingly" for "shall" in introductory provisions.
 
-<b>1960</b>—Pub. L. 86–732 designated existing provisions as subsec. (a), inserted “Except as otherwise provided in this section”, and added subsecs. (b) and (c).
+<b>1960</b>—Pub. L. 86–732 designated existing provisions as subsec. (a), inserted "Except as otherwise provided in this section", and added subsecs. (b) and (c).
 
-<b>1936</b>—Act June 20, 1936, substituted “conventions” for “convention”.
+<b>1936</b>—Act June 20, 1936, substituted "conventions" for "convention".
 
 #### Effective Date of 1936 Amendment
 

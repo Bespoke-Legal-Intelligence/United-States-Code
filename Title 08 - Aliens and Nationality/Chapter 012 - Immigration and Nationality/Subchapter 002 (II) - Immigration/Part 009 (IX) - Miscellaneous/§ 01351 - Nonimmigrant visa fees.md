@@ -30,6 +30,20 @@ For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 8
 
 #### Surcharge for Processing Machine-Readable Nonimmigrant Visas
 
+Pub. L. 113–42, §2, Oct. 4, 2013, 127 Stat. 552, provided that:
+
+“(a)
+
+In General.—Notwithstanding any other provision of law, the Secretary of State, not later than January 1, 2014, shall increase the fee or surcharge authorized under section 140(a) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law103–236; 8 U.S.C. 1351 note) by $1 for processing machine-readable nonimmigrant visas and machine-readable combined border crossing identification cards and nonimmigrant visas.
+
+“(b)
+
+Deposit of Amounts.—Notwithstanding section 140(a)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (Public Law 103–236; 8 U.S.C. 1351 note), the additional amount collected pursuant \[to\] the fee increase authorized under subsection (a) shall be deposited in the general fund of the Treasury.
+
+“(c)
+
+Sunset Provision.—The fee increase authorized under subsection (a) shall terminate on the date that is 2 years after the first date on which such increased fee is collected.”
+
 Pub. L. 110–457, title II, §239, Dec. 23, 2008, 122 Stat. 5085, provided that:
 
 “(a)
@@ -100,7 +114,7 @@ Pub. L. 105–277, div. A, §101(b) \[title IV, §410(a)\], Oct. 21, 1998, 112 S
 
 \[For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.\]
 
-Pub. L. 103–236, title I, §140(a), Apr. 30, 1994, 108 Stat. 399, as amended by Pub. L. 103–415, §1(bb), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §231\], Nov. 29, 1999, 113 Stat. 1536, 1501A–425; Pub. L. 107–173, title I, §103(a), May 14, 2002, 116 Stat. 547; Pub. L. 107–228, div. A, title II, §234, Sept. 30, 2002, 116 Stat. 1373, provided that:
+Pub. L. 103–236, title I, §140(a), Apr. 30, 1994, 108 Stat. 399, as amended by Pub. L. 103–415, §1(bb), Oct. 25, 1994,108 Stat. 4302; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §231\], Nov. 29, 1999, 113 Stat. 1536, 1501A–425; Pub. L. 107–173, title I, §103(a), May 14, 2002, 116 Stat. 547; Pub. L. 107–228, div. A, title II, §234, Sept. 30, 2002, 116 Stat. 1373, provided that:
 
 “(1) Notwithstanding any other provision of law, the Secretary of State is authorized to charge a fee or surcharge for processing machine readable nonimmigrant visas and machine readable combined border crossing identification cards and nonimmigrant visas.
 

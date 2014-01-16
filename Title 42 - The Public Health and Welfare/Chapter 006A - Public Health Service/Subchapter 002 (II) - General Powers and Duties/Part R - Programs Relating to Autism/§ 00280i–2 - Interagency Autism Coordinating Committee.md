@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish a committee, to be known as the “Interagency Autism Coordinating Committee” (in this section referred to as the “Committee”), to coordinate all efforts within the Department of Health and Human Services concerning autism spectrum disorder.
+The Secretary shall establish a committee, to be known as the "Interagency Autism Coordinating Committee" (in this section referred to as the "Committee"), to coordinate all efforts within the Department of Health and Human Services concerning autism spectrum disorder.
 
 #### (b) Responsibilities
 
@@ -70,5 +70,5 @@ This section shall not apply after September 30, 2014, and the Committee shall b
 
 #### Amendments
 
-<b>2011</b>—Subsec. (f). Pub. L. 112–32 substituted “2014” for “2011”.
+<b>2011</b>—Subsec. (f). Pub. L. 112–32 substituted "2014" for "2011".
 

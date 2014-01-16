@@ -2,7 +2,7 @@
 
 #### (a) Short title
 
-This section may be cited as the “James Guelff and Chris McCurley Body Armor Act of 2002”.
+This section may be cited as the "James Guelff and Chris McCurley Body Armor Act of 2002".
 
 #### (b) Findings
 
@@ -20,7 +20,7 @@ Congress finds that—
 
 &emsp;(6) the Department of Justice has estimated that 25 percent of State and local police are not issued body armor;
 
-&emsp;(7) the Federal Government is well-equipped to grant local police departments access tobody armor that is no longer needed by Federal agencies; and
+&emsp;(7) the Federal Government is well-equipped to grant local police departments access to body armor that is no longer needed by Federal agencies; and
 
 &emsp;(8) Congress has the power, under the interstate commerce clause and other provisions of the Constitution of the United States, to enact legislation to regulate interstate commerce that affects the integrity and safety of our communities.
 
@@ -30,15 +30,15 @@ In this section:
 
 #### (1) Body armor
 
-&emsp;The term “body armor” means any product sold or offered for sale, in interstate or foreign commerce, as personal protective body covering intended to protect against gunfire, regardless of whether the product is to be worn alone or is sold as a complement to another product or garment.
+&emsp;The term "body armor" means any product sold or offered for sale, in interstate or foreign commerce, as personal protective body covering intended to protect against gunfire, regardless of whether the product is to be worn alone or is sold as a complement to another product or garment.
 
 #### (2) Law enforcement agency
 
-&emsp;The term “law enforcement agency” means an agency of the United States, a State, or a political subdivision of a State, authorized by law or by a government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of criminal law.
+&emsp;The term "law enforcement agency" means an agency of the United States, a State, or a political subdivision of a State, authorized by law or by a government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of criminal law.
 
 #### (3) Law enforcement officer
 
-&emsp;The term “law enforcement officer” means any officer, agent, or employee of the United States, a State, or a political subdivision of a State, authorized by law or by a government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of criminal law.
+&emsp;The term "law enforcement officer" means any officer, agent, or employee of the United States, a State, or a political subdivision of a State, authorized by law or by a government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of criminal law.
 
 #### (d) Amendment of sentencing guidelines with respect to body armor
 
@@ -56,7 +56,7 @@ In this section:
 
 #### (1) Definitions
 
-&emsp;In this subsection, the terms “Federal agency” and “surplus property” have the meanings given such terms under section 102 of title 40.
+&emsp;In this subsection, the terms "Federal agency" and "surplus property" have the meanings given such terms under section 102 of title 40.
 
 #### (2) Donation of body armor
 
@@ -108,7 +108,7 @@ Section is comprised of section 11009 of Pub. L. 107–273. Subsec. (e) of secti
 
 Section was enacted as part of the 21st Century Department of Justice Appropriations Authorization Act, and not as part of title I of the Omnibus Crime Control and Safe Streets Act of 1968 which comprises this chapter.
 
-In subsec. (f), “section 102 of title 40” substituted for “section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)” in par. (1), and “sections 541–555 of title 40” substituted for “section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)” in par. (2), on authority of Pub.L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (f), "section 102 of title 40" substituted for "section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)" in par. (1), and "sections 541–555 of title 40" substituted for "section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)" in par. (2), on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Transfer of Functions
 

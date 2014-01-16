@@ -6,19 +6,19 @@ In this subchapter:
 
 #### (1) United States Olympic Committee
 
-&emsp;The term “United States Olympic Committee” means the organization established by the “Ted Stevens Olympic and Amateur Sports Act” (36 U.S.C. 220501 et seq.).
+&emsp;The term "United States Olympic Committee" means the organization established by the "Ted Stevens Olympic and Amateur Sports Act" (36 U.S.C. 220501 et seq.).
 
 #### (2) Amateur athletic competition
 
-&emsp;The term “amateur athletic competition” means a contest, game, meet, match, tournament, regatta, or other event in which amateur athletes compete (36 U.S.C. 220501(b)(2)).
+&emsp;The term "amateur athletic competition" means a contest, game, meet, match, tournament, regatta, or other event in which amateur athletes compete (36 U.S.C. 220501(b)(2)).
 
 #### (3) Amateur athlete
 
-&emsp;The term “amateur athlete” means an athlete who meets the eligibility standards established by the national governing body or paralympic sports organization for the sport in which the athlete competes (36 U.S.C. 22501(b)(1)).<sup>1</sup>
+&emsp;The term "amateur athlete" means an athlete who meets the eligibility standards established by the national governing body or paralympic sports organization for the sport in which the athlete competes (36 U.S.C. 22501(b)(1)).<sup>1</sup>
 
 #### (4) Gene doping
 
-&emsp;The term “gene doping” means the nontherapeutic use of cells, genes, genetic elements, or of the modulation of gene expression, having the capacity to enhance athletic performance.
+&emsp;The term "gene doping" means the nontherapeutic use of cells, genes, genetic elements, or of the modulation of gene expression, having the capacity to enhance athletic performance.
 
 #### (b) In general
 
@@ -32,7 +32,7 @@ The United States Anti-Doping Agency shall—
 
 &emsp;(4) serve as the United States representative responsible for coordination with other anti-doping organizations coordinating amateur athletic competitions recognized by the United States Olympic Committee to ensure the integrity of athletic competition, the health of the athletes and the prevention of use of performance-enhancing drugs, or performance-enhancing genetic modifications accomplished through gene-doping by United States amateur athletes; and
 
-&emsp;(5) permanently include “gene doping” among any list of prohibited substances adopted by the Agency.
+&emsp;(5) permanently include "gene doping" among any list of prohibited substances adopted by the Agency.
 
 (Pub. L. 109–469, title VII, §701, Dec. 29, 2006, 120 Stat. 3533.)
 
@@ -42,7 +42,7 @@ The Ted Stevens Olympic and Amateur Sports Act, referred to in subsec. (a)(1), i
 
 #### Short Title
 
-Pub. L. 109–469, title X, §1001, Dec. 29, 2006, 120 Stat. 3537, provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘National Methamphetamine Information Clearinghouse Act of 2006’.”
+Pub. L. 109–469, title X, §1001, Dec. 29, 2006, 120 Stat. 3537, provided that: "This title \[enacting subchapter II of this chapter\] may be cited as the 'National Methamphetamine Information Clearinghouse Act of 2006'."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “220501(b)(1)).”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "220501(b)(1))."</i>
 

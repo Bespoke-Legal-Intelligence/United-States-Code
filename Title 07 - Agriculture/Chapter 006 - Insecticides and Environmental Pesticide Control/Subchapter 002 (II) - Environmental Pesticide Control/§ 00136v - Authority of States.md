@@ -28,11 +28,11 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(3), is act 
 
 <b>1988</b>—Pub. L. 100–532, §801(m), inserted headings for subsecs. (a) to (c) and realigned margins of pars. (1) to (4) of subsec. (c).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–396 inserted “federally registered” before “pesticide or device”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–396 inserted "federally registered" before "pesticide or device".
 
-Subsec. (b). Pub. L. 95–396 substituted “labeling or packaging” and “required under” for “labeling and packaging” and “required pursuant to”, respectively.
+Subsec. (b). Pub. L. 95–396 substituted "labeling or packaging" and "required under" for "labeling and packaging" and "required pursuant to", respectively.
 
-Subsec. (c)(1). Pub. L. 95–396 incorporated existing text in provisions designated par. (1) and substituted “registration for additional uses of federally registered pesticides” for “registration for pesticides”.
+Subsec. (c)(1). Pub. L. 95–396 incorporated existing text in provisions designated par. (1) and substituted "registration for additional uses of federally registered pesticides" for "registration for pesticides".
 
 Subsec. (c)(2). Pub. L. 95–396 incorporated existing text in provisions designated par. (2), conditioned disapproval of registration on communication of intention to disapprove and reasons for disapproval and provision for time to respond, and restricted authority of Administrator to prohibit or disapprove a State registration.
 

@@ -16,5 +16,5 @@ The purposes of this chapter are—
 
 #### Definitions
 
-The definition of “State” in section 2602 of Title 16, Conservation, applies to this section.
+The definition of "State" in section 2602 of Title 16, Conservation, applies to this section.
 

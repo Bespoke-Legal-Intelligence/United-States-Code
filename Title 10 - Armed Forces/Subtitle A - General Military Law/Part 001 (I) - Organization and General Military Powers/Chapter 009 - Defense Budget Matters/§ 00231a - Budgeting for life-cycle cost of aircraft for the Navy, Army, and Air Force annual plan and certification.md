@@ -2,7 +2,7 @@
 
 (a)
 
-Annual Aircraft Procurement Plan and Certification.—Not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year of <sup>1</sup> Defense shall submit to the congressional defense committees—
+Annual Aircraft Procurement Plan and Certification.—Not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year, the Secretary of Defense shall submit to the congressional defense committees—
 
 &emsp;(1) a plan for the procurement of the aircraft specified in subsection (b) for the Department of the Navy, the Department of the Army, and the Department of the Air Force developed in accordance with this section; and
 
@@ -36,7 +36,7 @@ Covered Aircraft.—The aircraft specified in this subsection are the aircraft a
 
 (c)
 
-Annual Aircraft Procurement Plan.—(1) The annual aircraft procurement plan developed for a fiscal year for purposes of subsection (a)(1) should be designed so that the aviation force provided for under the plan is capable of supporting the national military strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of1947 (50 U.S.C. 404a), except that, if at the time the plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then the plan should be designed so that the aviation force provided for under the plan is capable of supporting the aviation force structure recommended in the report of the most recent Quadrennial Defense Review.
+Annual Aircraft Procurement Plan.—(1) The annual aircraft procurement plan developed for a fiscal year for purposes of subsection (a)(1) should be designed so that the aviation force provided for under the plan is capable of supporting the national military strategy of the United States as set forth in the most recent national security strategy report of the President under section 108 of the National Security Act of 1947 (50 U.S.C. 404a),<sup>1</sup> except that, if at the time the plan is submitted with the defense budget materials for that fiscal year, a national security strategy report required under such section 108 has not been submitted to Congress as required by paragraph (2) or paragraph (3), if applicable, of subsection (a) of such section, then the plan should be designed so that the aviation force provided for under the plan is capable of supporting the aviation force structure recommended in the report of the most recent Quadrennial Defense Review.
 
 (2) Each annual aircraft procurement plan shall include the following:
 
@@ -46,7 +46,7 @@ Annual Aircraft Procurement Plan.—(1) The annual aircraft procurement plan dev
 
 &emsp;(C) The estimated levels of annual investment funding necessary to carry out each aircraft program, together with a discussion of the procurement strategies on which such estimated levels of annual investment funding are based, set forth in aggregate for the Department of Defense and in aggregate for each military department.
 
-&emsp;(D) The estimated level of annual funding necessary to operate, maintain, sustain, and support each aircraft program throughout the life-cycle of the program, set forth in aggregate for the Department of Defense and in aggregate for each military department.
+&emsp;(D) The estimated level of annual funding necessary to operate, maintain, sustain, andsupport each aircraft program throughout the life-cycle of the program, set forth in aggregate for the Department of Defense and in aggregate for each military department.
 
 &emsp;(E) For each of the cost estimates required by subparagraphs (C) and (D)—
 
@@ -104,43 +104,49 @@ Annual Report on Aircraft Inventory.—(1) As part of the annual plan and certif
 
 Definitions.—In this section:
 
-&emsp;(1) The term “budget”, with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
+&emsp;(1) The term "budget", with respect to a fiscal year, means the budget for that fiscal year that is submitted to Congress by the President under section 1105(a) of title 31.
 
-&emsp;(2) The term “Quadrennial Defense Review” means the review of the defense programs and policies of the United States that is carried out every 4 years under section 118 of this title.
+&emsp;(2) The term "Quadrennial Defense Review" means the review of the defense programs and policies of the United States that is carried out every 4 years under section 118 of this title.
 
-(Added Pub. L. 110–417, \[div. A\], title I, §141(a), Oct. 14, 2008, 122 Stat. 4379; amended Pub. L. 112–81, div. A, title X, §1069(a), (b), Dec. 31, 2011, 125 Stat. 1589, 1591.)
+(Added Pub. L. 110–417, \[div. A\], title I, §141(a), Oct. 14, 2008, 122 Stat. 4379; amended Pub. L. 112–81, div. A, title X, §1069(a), (b), Dec. 31, 2011, 125 Stat. 1589, 1591; Pub. L. 113–66, div. A, title X, §1091(a)(5), Dec. 26, 2013, 127 Stat. 875.)
+
+#### References in Text
+
+The National Security Act of 1947, referred to in subsec. (c)(1), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior to editorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Section 108 of the Act is now classified to section 3043 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, §1069(b), amended section catchline generally, substituting “Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification” for “Budgeting for procurement of aircraft for the Navy and Air Force: annual plan and certification”.
+<b>2013</b>—Subsec. (a). Pub. L. 113–66 substituted "fiscal year, the Secretary of Defense" for "fiscal year of Defense" in introductory provisions.
 
-Subsec. (a). Pub. L. 112–81, §1069(a)(1)(A), substituted “Not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year” for “The Secretary” and “submit to the congressional defense committees” for “include with the defense budget materials for each fiscal year” in introductory provisions.
+<b>2011</b>—Pub. L. 112–81, §1069(b), amended section catchline generally, substituting "Budgeting for life-cycle cost of aircraft for the Navy, Army, and Air Force: annual plan and certification" for "Budgeting for procurement of aircraft for the Navy and Air Force: annual plan and certification".
 
-Subsec. (a)(1). Pub. L. 112–81, §1069(a)(1)(B), inserted “, the Department of the Army,” after “Navy”.
+Subsec. (a). Pub. L. 112–81, §1069(a)(1)(A), substituted "Not later than 45 days after the date on which the President submits to Congress the budget for a fiscal year" for "The Secretary" and "submit to the congressional defense committees" for "include with the defense budget materials for each fiscal year" in introductory provisions.
 
-Subsec. (b)(4). Pub. L. 112–81, §1069(a)(2)(A), substituted “Intertheater” for “Strategic”.
+Subsec. (a)(1). Pub. L. 112–81, §1069(a)(1)(B), inserted ", the Department of the Army," after "Navy".
+
+Subsec. (b)(4). Pub. L. 112–81, §1069(a)(2)(A), substituted "Intertheater" for "Strategic".
 
 Subsec. (b)(8) to (11). Pub. L. 112–81, §1069(a)(2)(B), (C), added pars. (8) to (10) and redesignated former par. (8) as (11).
 
-Subsec. (c)(1). Pub. L. 112–81, §1069(a)(3)(A), substituted “national military strategy of the United States” for “national security strategy of the United States”.
+Subsec. (c)(1). Pub. L. 112–81, §1069(a)(3)(A), substituted "national military strategy of the United States" for "national security strategy of the United States".
 
-Subsec. (c)(2)(A). Pub. L. 112–81, §1069(a)(3)(B)(i), inserted “, the Department of the Army,” after “Navy”.
+Subsec. (c)(2)(A). Pub. L. 112–81, §1069(a)(3)(B)(i), inserted ", the Department of the Army," after "Navy".
 
-Subsec. (c)(2)(B). Pub. L. 112–81, §1069(a)(3)(B)(ii), substituted “national military strategy of the United States” for “national security strategy of the United States”.
+Subsec. (c)(2)(B). Pub. L. 112–81, §1069(a)(3)(B)(ii), substituted "national military strategy of the United States" for "national security strategy of the United States".
 
-Subsec. (c)(2)(C). Pub. L. 112–81, §1069(a)(3)(B)(iii)(II), (III), substituted “each aircraft program” for “the program” and inserted before period at end “, set forth in aggregate for the Department of Defense and in aggregate for each military department”.
+Subsec. (c)(2)(C). Pub. L. 112–81, §1069(a)(3)(B)(iii)(II), (III), substituted "each aircraft program" for "the program" and inserted before period at end ", set forth in aggregate for the Department of Defense and in aggregate for each military department".
 
-Pub. L. 112–81, §1069(a)(3)(B)(iii)(I), which directed the insertion of “investment” before “funding”, was executed by inserting “investment” before “funding” both places it appeared, to reflect the probable intent of Congress.
+Pub. L. 112–81, §1069(a)(3)(B)(iii)(I), which directed the insertion of "investment" before "funding", was executed by inserting "investment" before "funding" both places it appeared, to reflect the probable intent of Congress.
 
-Subsec. (c)(2)(D) to (F). Pub. L. 112–81, §1069(a)(3)(B)(iv)–(vi), added subpars. (D) and (E), redesignated former subpar. (D) as (F), and, in subpar. (F), inserted “, the Department of the Army,” after “Navy”.
+Subsec. (c)(2)(D) to (F). Pub. L. 112–81, §1069(a)(3)(B)(iv)–(vi), added subpars. (D) and (E), redesignated former subpar. (D) as (F), and, in subpar. (F), inserted ", the Department of the Army," after "Navy".
 
 Subsec. (c)(3), (4). Pub. L. 112–81, §1069(a)(3)(C), added pars. (3) and (4).
 
-Subsec. (d). Pub. L. 112–81, §1069(a)(4), inserted “, the Department of the Army,” after “Navy”.
+Subsec. (d). Pub. L. 112–81, §1069(a)(4), inserted ", the Department of the Army," after "Navy".
 
 Subsec. (e). Pub. L. 112–81, §1069(a)(6), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 112–81, §1069(a)(5), (7), redesignated subsec. (e) as (f), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “The term ‘defense budget materials’, with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year.”
+Subsec. (f). Pub. L. 112–81, §1069(a)(5), (7), redesignated subsec. (e) as (f), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: "The term 'defense budget materials', with respect to a fiscal year, means the materials submitted to Congress by the Secretary of Defense in support of the budget for that fiscal year."
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “, the Secretary”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -20,5 +20,5 @@ This Act, referred to in subsecs. (a) and (b), is act May 27, 1937, ch. 269, as 
 
 #### Amendments
 
-<b>1962</b>—Subsec. (b). Pub. L. 87–728 struck out “Regulations to carry out this subsection shall be effective when filed for record in the manner provided in section 835a(f) of this title”.
+<b>1962</b>—Subsec. (b). Pub. L. 87–728 struck out "Regulations to carry out this subsection shall be effective when filed for record in the manner provided in section 835a(f) of this title".
 

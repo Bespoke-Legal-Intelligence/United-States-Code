@@ -13,7 +13,7 @@
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §514(c)(2), Oct. 14, 2008, 122 Stat. 4442, added item 14702 and struck out former item 14702 “Retention on reserve active-status list of certain officers until age 60”.
+<b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §514(c)(2), Oct. 14, 2008, 122 Stat. 4442, added item 14702 and struck out former item 14702 "Retention on reserve active-status list of certain officers until age 60".
 
 
 ---

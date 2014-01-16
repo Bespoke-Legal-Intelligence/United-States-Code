@@ -4,7 +4,7 @@
 
 (2) The Comptroller General shall, by regulation prescribed pursuant to section 3555 of this title, establish an express option for deciding those protests which the Comptroller General determines suitable for resolution within 65 days after the date the protest is submitted.
 
-(3) An amendment to a protest that adds a new ground of protest, if timely made, should be resolved, to the maximum extent practicable, within the time limit established under paragraph (1) of this subsection for final decision of the initial protest. If an amended protest cannot be resolved within such time limit, the Comptroller General may resolve the amended protest through the express option under paragraph (2) of this subsection.
+(3) An amendment to a protest that adds a new ground of protest, if timely made, should be resolved, to the maximum extent practicable, within the time limit established under paragraph (1) of this subsection for final decision of the initial protest. If an amended protest cannotbe resolved within such time limit, the Comptroller General may resolve the amended protest through the express option under paragraph (2) of this subsection.
 
 (4) The Comptroller General may dismiss a protest that the Comptroller General determines is frivolous or which, on its face, does not state a valid basis for protest.
 
@@ -32,7 +32,7 @@
 
 (c)(1) If the Comptroller General determines that a solicitation for a contract or a proposed award or the award of a contract does not comply with a statute or regulation, the Comptroller General may recommend that the Federal agency conducting the procurement pay to an appropriate interested party the costs of—
 
-&emsp;(A) filing and pursuing the protest, including reasonable attorneys’ fees and consultant and expert witness fees; and
+&emsp;(A) filing and pursuing the protest, including reasonable attorneys' fees and consultant and expert witness fees; and
 
 &emsp;(B) bid and proposal preparation.
 
@@ -40,7 +40,7 @@
 
 &emsp;(A) costs for consultant and expert witness fees that exceed the highest rate of compensation for expert witnesses paid by the Federal Government; or
 
-&emsp;(B) costs for attorneys’ fees that exceed $150 per hour unless the agency determines, based on the recommendation of the Comptroller General on a case by case basis, that an increase in the cost of living or a special factor, such as the limited availability of qualified attorneys for the proceedings involved, justifies a higher fee.
+&emsp;(B) costs for attorneys' fees that exceed $150 per hour unless the agency determines, based on the recommendation of the Comptroller General on a case by case basis, that an increase in the cost of living or a special factor, such as the limited availability of qualified attorneys for the proceedings involved, justifies a higher fee.
 
 (3) If the Comptroller General recommends under paragraph (1) that a Federal agency pay costs to an interested party, the Federal agency shall—
 
@@ -76,21 +76,21 @@ Section 3(a) of the Small Business Act, referred to in subsec. (c)(2), is classi
 
 #### Amendments
 
-<b>2013</b>—Subsec. (e)(2). Pub. L. 112–239 inserted at end “The report shall also include a summary of the most prevalent grounds for sustaining protests during such preceding year.”
+<b>2013</b>—Subsec. (e)(2). Pub. L. 112–239 inserted at end "The report shall also include a summary of the most prevalent grounds for sustaining protests during such preceding year."
 
-<b>2009</b>—Subsec. (b)(1)(C) to (H). Pub. L. 111–84 added subpar. (C), redesignated former subpars. (C) to (G) as (D) to (H), respectively, and substituted “, (E), and (F)” for “, and (E)” in subpar. (G).
+<b>2009</b>—Subsec. (b)(1)(C) to (H). Pub. L. 111–84 added subpar. (C), redesignated former subpars. (C) to (G) as (D) to (H), respectively, and substituted ", (E), and (F)" for ", and (E)" in subpar. (G).
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–106, §5501(2)(A), substituted “100 days” for “125 days”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–106, §5501(2)(A), substituted "100 days" for "125 days".
 
-Subsec. (b)(2). Pub. L. 104–106, §4321(d)(3), substituted “section 3553(d)(3)(C)(i)(I)” for “section 3553(d)(2)(A)(i)”.
+Subsec. (b)(2). Pub. L. 104–106, §4321(d)(3), substituted "section 3553(d)(3)(C)(i)(I)" for "section 3553(d)(2)(A)(i)".
 
-Subsec. (e)(1). Pub. L. 104–106, §5501(2)(B)(i), substituted “Government Reform and Oversight” for “Government Operations”.
+Subsec. (e)(1). Pub. L. 104–106, §5501(2)(B)(i), substituted "Government Reform and Oversight" for "Government Operations".
 
-Subsec. (e)(2). Pub. L. 104–106, §5501(2)(B)(ii), substituted “100 days” for “125 days”.
+Subsec. (e)(2). Pub. L. 104–106, §5501(2)(B)(ii), substituted "100 days" for "125 days".
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–355, §1403(a)(1), substituted “125 days after” for “90 working days from”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–355, §1403(a)(1), substituted "125 days after" for "90 working days from".
 
-Subsec. (a)(2). Pub. L. 103–355, §1403(a)(2), substituted “65 days after” for “45 calendar days from”.
+Subsec. (a)(2). Pub. L. 103–355, §1403(a)(2), substituted "65 days after" for "45 calendar days from".
 
 Subsec. (a)(3), (4). Pub. L. 103–355, §1403(a)(3), (4), added par. (3) and redesignated former par. (3) as (4).
 
@@ -98,21 +98,21 @@ Subsec. (b)(3). Pub. L. 103–355, §1403(b)(1), added par. (3).
 
 Subsec. (c). Pub. L. 103–355, §1403(b)(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
-“(c)(1) If the Comptroller General determines that a solicitation for a contract or a proposed award or the award of a contract does not comply with a statute or regulation, the Comptroller General may declare an appropriate interested party to be entitled to the costs of—
+"(c)(1) If the Comptroller General determines that a solicitation for a contract or a proposed award or the award of a contract does not comply with a statute or regulation, the Comptroller General may declare an appropriate interested party to be entitled to the costs of—
 
-&emsp;“(A) filing and pursuing the protest, including reasonable attorneys’ fees; and
+&emsp;"(A) filing and pursuing the protest, including reasonable attorneys' fees; and
 
-&emsp;“(B) bid and proposal preparation.
+&emsp;"(B) bid and proposal preparation.
 
-“(2) Monetary awards to which a party is declared to be entitled under paragraph (1) of this subsection shall be paid promptly by the Federal agency concerned out of funds available to or for the use of the Federal agency for the procurement of property and services.”
+"(2) Monetary awards to which a party is declared to be entitled under paragraph (1) of this subsection shall be paid promptly by the Federal agency concerned out of funds available to or for the use of the Federal agency for the procurement of property and services."
 
 Subsec. (e). Pub. L. 103–355, §1403(b)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows:
 
-“(e)(1) The head of the procuring activity responsible for the solicitation, proposed award, or award of the contract shall report to the Comptroller General, if the Federal agency has not fully implemented those recommendations within 60 days of receipt of the Comptroller General's recommendations under subsection (b) of this section.
+"(e)(1) The head of the procuring activity responsible for the solicitation, proposed award, or award of the contract shall report to the Comptroller General, if the Federal agency has not fully implemented those recommendations within 60 days of receipt of the Comptroller General's recommendations under subsection (b) of this section.
 
-“(2) Not later than January 31 of each year, the Comptroller General shall transmit to Congress a report describing each instance in which a Federal agency did not fully implement the Comptroller General's recommendations during the preceding fiscal year.”
+"(2) Not later than January 31 of each year, the Comptroller General shall transmit to Congress a report describing each instance in which a Federal agency did not fully implement the Comptroller General's recommendations during the preceding fiscal year."
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–463 struck out “unless the Comptroller General determines and states in writing the reasons that the specific circumstances of the protest require a longer period” after “submitted to the Comptroller General” before period at end.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–463 struck out "unless the Comptroller General determines and states in writing the reasons that the specific circumstances of the protest require a longer period" after "submitted to the Comptroller General" before period at end.
 
 #### Change of Name
 
@@ -136,9 +136,9 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date
 
-Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369,set out as a note under section 2302 of Title 10, Armed Forces.
+Section applicable with respect to any protest filed after Jan. 14, 1985, see section 2751(b) of Pub. L. 98–369, set out as a note under section 2302 of Title 10, Armed Forces.
 
 #### Prompt Payment of Costs Under Prior Law
 
-Pub. L. 103–355, title I, §1403(b)(4), Oct. 13, 1994, 108 Stat. 3290, provided that: “Costs to which the Comptroller General declared an interested party to be entitled under section 3554 of title 31, United States Code, as in effect immediately before the enactment of this Act \[Oct. 13, 1994\], shall, if not paid or otherwise satisfied by the Federal agency concerned before the date of the enactment of this Act, be paid promptly.”
+Pub. L. 103–355, title I, §1403(b)(4), Oct. 13, 1994, 108 Stat. 3290, provided that: "Costs to which the Comptroller General declared an interested party to be entitled under section 3554 of title 31, United States Code, as in effect immediately before the enactment of this Act \[Oct. 13, 1994\], shall, if not paid or otherwise satisfied by the Federal agency concerned before the date of the enactment of this Act, be paid promptly."
 

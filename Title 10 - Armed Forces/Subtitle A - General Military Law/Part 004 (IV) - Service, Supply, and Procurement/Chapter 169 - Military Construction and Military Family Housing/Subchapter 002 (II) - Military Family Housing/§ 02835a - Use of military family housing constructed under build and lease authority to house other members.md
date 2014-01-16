@@ -2,7 +2,7 @@
 
 (a)
 
-Individual Assignment of Members Without Dependents.—(1) To the extent that the Secretary concerned determines that military family housing constructed and leased undersection 2835 of this title is not needed to house members of the armed forces eligible for assignment to military family housing, the Secretary may assign, without rental charge, members without dependents to the housing.
+Individual Assignment of Members Without Dependents.—(1) To the extent that the Secretary concerned determines that military family housing constructed and leased under section 2835 of this title is not needed to house members of the armed forces eligible for assignment to military family housing, the Secretary may assign, without rental charge, members without dependents to the housing.
 
 (2) A member without dependents who is assigned to housing pursuant to paragraph (1) shall be considered to be assigned to quarters pursuant to section 403(e) of title 37.
 
@@ -32,11 +32,11 @@ Notice and Wait Requirements.—(1) The Secretary concerned may not convert mili
 
 (d)
 
-Application to Housing Leased Under Former Authority.—This section also shall apply to housing initially acquired or constructed under the former section 2828(g) of this title (commonly known as the “Build to Lease program”), as added by section 801 of the Military Construction Authorization Act, 1984 (Public Law 98–115; 97 Stat 782).
+Application to Housing Leased Under Former Authority.—This section also shall apply to housing initially acquired or constructed under the former section 2828(g) of this title (commonly known as the "Build to Lease program"), as added by section 801 of the Military Construction Authorization Act, 1984 (Public Law 98–115; 97 Stat 782).
 
 (Added Pub. L. 110–417, div. B, title XXVIII, §2803(a), Oct. 14, 2008, 122 Stat. 4719.)
 
 #### References in Text
 
-Section 2828(g) of this title (commonly known as the “Build to Lease program”), as added by section 801 of the Military Construction Authorization Act, 1984, referred to in subsec. (d), means the subsection (g) added to section 2828 of this title by section 801 of Pub. L. 98–115, which was repealed by Pub. L. 102–190, div. B, title XXVIII, §2806(b), Dec. 5, 1991, 105 Stat. 1540.
+Section 2828(g) of this title (commonly known as the "Build to Lease program"), as added by section 801 of the Military Construction Authorization Act, 1984, referred to in subsec. (d), means the subsection (g) added to section 2828 of this title by section 801 of Pub. L. 98–115, which was repealed by Pub. L. 102–190, div. B, title XXVIII, §2806(b), Dec. 5, 1991, 105 Stat. 1540.
 

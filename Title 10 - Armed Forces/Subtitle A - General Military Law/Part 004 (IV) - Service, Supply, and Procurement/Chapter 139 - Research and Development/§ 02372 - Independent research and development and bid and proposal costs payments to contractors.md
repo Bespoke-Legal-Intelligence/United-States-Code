@@ -34,7 +34,7 @@ Adjusted Maximum Reimbursement Amount.—For purposes of subsection (c)(2), the 
 
 &emsp;&emsp;(A) the percentage by which the projected total amount of such incurred costs for such fiscal year exceeds the total amount of the incurred costs of the contractor for the preceding fiscal year; or
 
-&emsp;&emsp;(B) the estimated percentage rate of inflation from the end of the preceding fiscal year to the end of the fiscal year for whichthe amount of the limitation is being computed.
+&emsp;&emsp;(B) the estimated percentage rate of inflation from the end of the preceding fiscal year to the end of the fiscal year for which the amount of the limitation is being computed.
 
 (e)
 
@@ -50,7 +50,7 @@ Limitations on Regulations.—Regulations prescribed pursuant to subsection (c) 
 
 (g)
 
-Encouragement of Certain Contractor Activities.—The regulations under subsection (a) shall encourage contractors to engage in research and development activities of potential interest to the Department of Defense, including activities intended to accomplish any of the following:
+Encouragement of Certain Contractor Activities.—The regulations under subsection\(a) shall encourage contractors to engage in research and development activities of potential interest to the Department of Defense, including activities intended to accomplish any of the following:
 
 &emsp;(1) Enabling superior performance of future United States weapon systems and components.
 
@@ -76,25 +76,25 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Covered contract.—The term “covered contract” has the meaning given that term in section 2324(l) of this title.
+Covered contract.—The term "covered contract" has the meaning given that term in section 2324(l) of this title.
 
 &emsp;(2)
 
-Covered segment.—The term “covered segment”, with respect to a contractor, means a product division of the contractor that allocated more than $1,000,000 in independent research and development and bid and proposal costs to Department of Defense contracts during the preceding fiscal year. In the case of a contractor that has no product divisions, such term means the contractor as a whole.
+Covered segment.—The term "covered segment", with respect to a contractor, means a product division of the contractor that allocated more than $1,000,000 in independent research and development and bid and proposal costs to Department of Defense contracts during the preceding fiscal year. In the case of a contractor that has no product divisions, such term means the contractor as a whole.
 
 (Added Pub. L. 101–510, div. A, title VIII, §824(a)(1), Nov. 5, 1990, 104 Stat. 1603; amended Pub. L. 102–25, title VII, §701(c), Apr. 6, 1991, 105 Stat. 113; Pub. L. 102–190, div. A, title VIII, §802(a)(1), Dec. 5, 1991, 105 Stat. 1412; Pub. L. 102–484, div. A, title X, §1052(27), Oct. 23, 1992, 106 Stat. 2500; Pub. L. 103–35, title II, §201(c)(5), May 31, 1993, 107 Stat. 98; Pub. L. 104–106, div. D, title XLIII, §4321(b)(11), Feb. 10, 1996, 110 Stat. 672.)
 
 #### Amendments
 
-<b>1996</b>—Subsec. (i)(1). Pub. L. 104–106 substituted “2324(l)” for “2324(m)”.
+<b>1996</b>—Subsec. (i)(1). Pub. L. 104–106 substituted "2324(l)" for "2324(m)".
 
-<b>1993</b>—Subsec. (g)(5). Pub. L. 103–35 substituted “section 2506” for “section 2522”.
+<b>1993</b>—Subsec. (g)(5). Pub. L. 103–35 substituted "section 2506" for "section 2522".
 
-<b>1992</b>—Subsec. (e)(1). Pub. L. 102–484 substituted “on December 4, 1991” for “on the day before the date of the enactment of the National Defense Authorization Act for Fiscal Years 1992 and 1993”.
+<b>1992</b>—Subsec. (e)(1). Pub. L. 102–484 substituted "on December 4, 1991" for "on the day before the date of the enactment of the National Defense Authorization Act for Fiscal Years 1992 and 1993".
 
-<b>1991</b>—Pub. L. 102–190 substituted section catchline for one which read “Independent research and development” and amended text generally, substituting present provisions for provisions authorizing payment of independent research and development or bid and proposal costs, encouraging contractors to engage in research and development activities, and authorizing advance agreements regarding the manner and extent in which the Department of Defense may pay independent research and development costs or bid and proposal costs.
+<b>1991</b>—Pub. L. 102–190 substituted section catchline for one which read "Independent research and development" and amended text generally, substituting present provisions for provisions authorizing payment of independent research and development or bid and proposal costs, encouraging contractors to engage in research and development activities, and authorizing advance agreements regarding the manner and extent in which the Department of Defense may pay independent research and development costs or bid and proposal costs.
 
-Subsec. (d)(2)(B). Pub. L. 102–25 substituted “subsection (b), including” for “subsection (b) or”.
+Subsec. (d)(2)(B). Pub. L. 102–25 substituted "subsection (b), including" for "subsection (b) or".
 
 #### Effective Date of 1996 Amendment
 
@@ -102,11 +102,11 @@ For effective date and applicability of amendment by Pub. L. 104–106, see sect
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–190, div. A, title VIII, §802(e), Dec. 5, 1991, 105 Stat. 1414, provided that: “The amendments made by this section \[amending this section and section 2330 of this title\] shall take effect on October 1, 1992, and shall apply to independent research and development and bid and proposal costs incurred by a contractor during fiscal years of that contractor that begin on or after that date.”
+Pub. L. 102–190, div. A, title VIII, §802(e), Dec. 5, 1991, 105 Stat. 1414, provided that: "The amendments made by this section \[amending this section and section 2330 of this title\] shall take effect on October 1, 1992, and shall apply to independent research and development and bid and proposal costs incurred by a contractor during fiscal years of that contractor that begin on or after that date."
 
 #### Regulations
 
-Pub. L. 102–190, div. A, title VIII, §802(b), Dec. 5, 1991, 105 Stat. 1414, provided that: “The Secretary of Defense shall prescribe proposed regulations to implement the amendment made by subsection (a)(1) \[amending this section\] not later than April 1, 1992, and shall prescribe final regulations for that purpose not later than June 1, 1992.”
+Pub. L. 102–190, div. A, title VIII, §802(b), Dec. 5, 1991, 105 Stat. 1414, provided that: "The Secretary of Defense shall prescribe proposed regulations to implement the amendment made by subsection (a)(1) \[amending this section\] not later than April 1, 1992, and shall prescribe final regulations for that purpose not later than June 1, 1992."
 
 #### Study by Office of Technology Assessment
 

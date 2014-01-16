@@ -1,18 +1,18 @@
 ### §2211. Powers and duties of Deputy Secretary of Agriculture
 
-The Deputy Secretary of Agriculture is authorized to exercise the functions and performthe duties of the first assistant of the Secretary of Agriculture within the meaning of section 3345 of title 5 and shall perform such other duties as may be required by law or prescribed by the Secretary of Agriculture.
+The Deputy Secretary of Agriculture is authorized to exercise the functions and perform the duties of the first assistant of the Secretary of Agriculture within the meaning of section 3345 of title 5 and shall perform such other duties as may be required by law or prescribed by the Secretary of Agriculture.
 
 (June 5, 1939, ch. 181, 53 Stat. 809; Pub. L. 94–561, §1(c)(2), Oct. 19, 1976, 90 Stat. 2643.)
 
 #### Codification
 
-“Section 3345 of title 5” substituted in text for “section 177 of the Revised Statutes of the United States (U.S.C., title 5, sec. 4)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+"Section 3345 of title 5" substituted in text for "section 177 of the Revised Statutes of the United States (U.S.C., title 5, sec. 4)" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 Section was formerly classified to section 514b of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–561 substituted “Deputy Secretary of Agriculture” for Under Secretary of Agriculture.
+<b>1976</b>—Pub. L. 94–561 substituted "Deputy Secretary of Agriculture" for Under Secretary of Agriculture.
 
 #### Effective Date of 1976 Amendment
 

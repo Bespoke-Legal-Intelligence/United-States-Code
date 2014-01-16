@@ -10,17 +10,17 @@ The Director shall have the duty and responsibility to advise the Secretary on t
 
 #### (c) Research programs respecting effects of national energy programs, policies, and regulations of Department on minorities
 
-The Director shall conduct an ongoing research program, with the assistance of the Administrator of the Energy Information Administration, and such other Federal agencies as the Director determines appropriate, to determine the effects (including the socio-economic and environmental effects) of national energy programs, policies, and regulations of the Department on minorities. In conducting such program, the Director shall, from time to time, develop and recommend to the Secretary policies to assist, where appropriate, such minorities and minority business enterprises concerning such effects. In addition, the Director shall, to the greatest extent practicable—
+The Director shall conduct an ongoing research program, with the assistance of the Administrator of the Energy Information Administration, and such other Federal agencies as the Director determines appropriate, to determine the effects (including the socio-economic and environmental effects) of national energy programs, policies, and regulations of the Department on minorities. In conducting such program, the Director shall, from time to time, develop and recommend to the Secretary policiesto assist, where appropriate, such minorities and minority business enterprises concerning such effects. In addition, the Director shall, to the greatest extent practicable—
 
 &emsp;(1) determine the average energy consumption and use patterns of minorities relative to other population categories;
 
 &emsp;(2) evaluate the percentage of disposable income spent on energy by minorities relative to other population categories; and
 
-&emsp;(3) determines how programs, policies, and actions of the Department and its components affect such consumption and use patterns and such income.
+&emsp;(3) determines <sup>1</sup> how programs, policies, and actions of the Department and its components affect such consumption and use patterns and such income.
 
 #### (d) Management and technical assistance to minority educational institutions and business enterprises to foster participation in research, development, demonstration, and contract activities of Department
 
-The Director may provide the management any <sup>1</sup> technical assistance he considers appropriate to minority educational institutions and minority business enterprises to enable these enterprises and institutions to participate in the research, development, demonstration, and contract activities of the Department. In carrying out his functions under this section, the Director may enter into contracts, in accordance with section 7256 of this title and other applicable provisions of law, with any person, including minority educational institutions, minority business enterprises, and organizations the primary purpose of which is to assist the development of minority communities. The management and technical assistance may include—
+The Director may provide the management any <sup>2</sup> technical assistance he considers appropriate to minority educational institutions and minority business enterprises to enable these enterprises and institutions to participate in the research, development, demonstration, and contract activities of the Department. In carrying out his functions under this section, the Director may enter into contracts, in accordance with section 7256 of this title and other applicable provisions of law, with any person, including minority educational institutions, minority business enterprises, and organizations the primary purpose of which is to assist the development of minority communities. The management and technical assistance may include—
 
 &emsp;(1) a national information clearinghouse which will develop and disseminate information on the aspects of energy programs to minority business enterprises, minority educational institutions and other appropriate minority organizations;
 
@@ -32,7 +32,7 @@ The Director may provide the management any <sup>1</sup> technical assistance h
 
 #### (e) Loans to minority business enterprises; restriction on use of funds; interest; deposits into Treasury
 
-(1) The Secretary, acting through the Office, may provide financial assistance in the form of loans to any minority business enterprise under such rules as he shall prescribe to assist such enterprises in participating fully in research, development, demonstration, and contract activities of the Department to the extent he considers appropriate. He shall limit the use of financial assistance to providing funds necessary forsuch enterprises to bid for and obtain contracts or other agreements, and shall limit the amount of the financial assistance to any recipient to not more than 75 percent of such costs.
+(1) The Secretary, acting through the Office, may provide financial assistance in the form of loans to any minority business enterprise under such rules as he shall prescribe to assist such enterprises in participating fully in research, development, demonstration, and contract activities of the Department to the extent he considers appropriate. He shall limit the use of financial assistance to providing funds necessary for such enterprises to bid for and obtain contracts or other agreements, and shall limit the amount of the financial assistance to any recipient to not more than 75 percent of such costs.
 
 (2) The Secretary shall determine the rate of interest on loans under this section in consultation with the Secretary of the Treasury.
 
@@ -42,11 +42,11 @@ The Director may provide the management any <sup>1</sup> technical assistance h
 
 As used in this section, the term—
 
-&emsp;(1) “minority” means any individual who is a citizen of the United States and who is a Negro, Puerto Rican, American Indian, Eskimo, Oriental, or Aleut or is a Spanish speaking individual of Spanish descent;
+&emsp;(1) "minority" means any individual who is a citizen of the United States and who is a Negro, Puerto Rican, American Indian, Eskimo, Oriental, or Aleut or is a Spanish speaking individual of Spanish descent;
 
-&emsp;(2) “minority business enterprise” means a firm, corporation, association, or partnership which is at least 50 percent owned or controlled by a minority or group of minorities; and
+&emsp;(2) "minority business enterprise" means a firm, corporation, association, or partnership which is at least 50 percent owned or controlled by a minority or group of minorities; and
 
-&emsp;(3) “minority educational institution” means an educational institution with an enrollment in which a substantial proportion (as determined by the Secretary) of the students are minorities.
+&emsp;(3) "minority educational institution" means an educational institution with an enrollment in which a substantial proportion (as determined by the Secretary) of the students are minorities.
 
 #### (g) Authorization of appropriations
 
@@ -54,5 +54,7 @@ There is authorized to be appropriated to the Secretary to carry out the functio
 
 (Pub. L. 95–91, title II, §211, as added Pub. L. 95–619, title VI, §641, Nov. 9, 1978, 92 Stat. 3284.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “and”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "determine".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "and".</i>
 

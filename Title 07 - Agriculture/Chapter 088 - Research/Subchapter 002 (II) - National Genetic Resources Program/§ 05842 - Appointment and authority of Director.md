@@ -52,7 +52,7 @@ Not later than one year after November 28, 1990, the Director shall transmit to 
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–237 substituted “Resources Program” for “Resources program”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–237 substituted "Resources Program" for "Resources program".
 
 #### Termination of Reporting Requirements
 

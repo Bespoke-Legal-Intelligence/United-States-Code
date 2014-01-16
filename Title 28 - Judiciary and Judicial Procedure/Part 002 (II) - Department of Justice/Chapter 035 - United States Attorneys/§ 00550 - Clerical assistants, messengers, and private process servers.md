@@ -20,7 +20,7 @@ Act
 
 \[None\].
 
-The words “and at salaries fixed by” are omitted as superseded by the Classification Act of 1949, as amended, which is codified in chapter 51 and subchapter III of chapter 53 of title 5, United States Code.
+The words "and at salaries fixed by" are omitted as superseded by the Classification Act of 1949, as amended, which is codified in chapter 51 and subchapter III of chapter 53 of title 5, United States Code.
 
 #### 1948 Act
 
@@ -54,11 +54,11 @@ A prior section 554, act June 25, 1948, ch. 646, 62 Stat. 913, related to the de
 
 A prior section 555, act June 25, 1948, ch. 646, 62 Stat. 913, related to the delivery of all unserved process to the successor marshal or his deputies, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 574 of this title by section 4(c) of Pub. L. 89–554.
 
-A prior section 556, act June 25, 1948, ch. 646, 62 Stat. 913, related to the prohibition of the practice of law by a marshal or deputy marshal, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 575 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 556, act June 25, 1948, ch. 646, 62 Stat. 913, related to the prohibition of the practice of law bya marshal or deputy marshal, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 663, and reenactment in section 575 of this title by section 4(c) of Pub. L. 89–554.
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–647 substituted “, messengers, and private process servers” for “and messengers” in section catchline and text.
+<b>1990</b>—Pub. L. 101–647 substituted ", messengers, and private process servers" for "and messengers" in section catchline and text.
 
 #### Effective Date of 1990 Amendment
 

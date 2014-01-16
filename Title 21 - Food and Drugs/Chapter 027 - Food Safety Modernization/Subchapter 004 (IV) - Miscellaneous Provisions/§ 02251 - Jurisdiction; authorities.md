@@ -54,7 +54,7 @@ The United States Grain Standards Act, referred to in par. (4)(D), is part B of 
 
 The Packers and Stockyards Act, 1921, referred to in par. (4)(E), is act Aug. 15, 1921, ch. 64, 42 Stat. 159, which is classified generally to chapter 9 (§181 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 181 of Title 7 and Tables.
 
-The United States Warehouse Act, referred to in par. (4)(F), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486, which is classified generally to chapter 10 (§241 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 241 of Title 7 and Tables.
+The United States Warehouse Act, referred to in par. (4)(F), is part C of act Aug. 11, 1916, ch. 313, 39 Stat. 486,which is classified generally to chapter 10 (§241 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 241 of Title 7 and Tables.
 
 The Agricultural Adjustment Act (7 U.S.C. 601 et seq.), reenacted with the amendments made by the Agricultural Marketing Agreement Act of 1937, referred to in par. (4)(H), is title I of act May 12, 1933, ch. 25, 48 Stat. 31, which is classified generally to chapter 26 (§601 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 7 and Tables.
 

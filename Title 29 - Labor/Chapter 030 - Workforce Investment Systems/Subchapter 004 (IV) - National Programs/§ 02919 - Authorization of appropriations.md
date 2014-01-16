@@ -1,6 +1,6 @@
 ### §2919. Authorization of appropriations
 
-#### (a) Native American programs; migrant and seasonal farmworker programs; veterans’ workforce investment programs
+#### (a) Native American programs; migrant and seasonal farmworker programs; veterans' workforce investment programs
 
 #### (1) In general
 
@@ -88,9 +88,9 @@ The Trade Act of 1974, as amended by the Trade Act of 2002, referred to in subse
 
 #### Amendments
 
-<b>2009</b>—Subsec. (c)(1). Pub. L. 111–5, §1899K(b)(1), substituted “Appropriations” for “Authorization and appropriation for fiscal year 2002” in heading.
+<b>2009</b>—Subsec. (c)(1). Pub. L. 111–5, §1899K(b)(1), substituted "Appropriations" for "Authorization and appropriation for fiscal year 2002" in heading.
 
-Subsec. (c)(1)(A). Pub. L. 111–5, §1899K(b)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “to carry out subsection (a)(4)(A) of section 2918 of this title, $10,000,000 for fiscal year 2002; and”.
+Subsec. (c)(1)(A). Pub. L. 111–5, §1899K(b)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: "to carry out subsection (a)(4)(A) of section 2918 of this title, $10,000,000 for fiscal year 2002; and".
 
 <b>2002</b>—Subsec. (c). Pub. L. 107–210 added subsec. (c).
 
@@ -106,5 +106,5 @@ Amendment by Pub. L. 107–210 applicable to petitions for certification filed u
 
 Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 2918 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraphs”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraphs".</i>
 

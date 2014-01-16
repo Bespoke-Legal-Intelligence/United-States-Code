@@ -2,7 +2,7 @@
 
 #### (a) Competitive specialized research and extension grants authorized
 
-The Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants to support research and extension activities specified in subsections (e) through (i) of this section. The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
+The Secretary of Agriculture (referred to in this section as the "Secretary") may make competitive grants to support research and extension activities specified in subsections (e) through (i) of this section. The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
 
 #### (b) Administration
 
@@ -96,7 +96,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (15) Gypsy moth research and extension
 
-&emsp;Research and extension grants may be made under this section for the purpose of developing biological control, management, and eradication methods against nonnative insects, including Lymantria dispar (commonly known as the “gypsy moth”), that contribute to significant agricultural, economic, or environmental harm.
+&emsp;Research and extension grants may be made under this section for the purpose of developing biological control, management, and eradication methods against nonnative insects, including Lymantria dispar (commonly known as the "gypsy moth"), that contribute to significant agricultural, economic, or environmental harm.
 
 #### (16) Tomato spotted wilt virus research and extension
 
@@ -230,7 +230,7 @@ Following the completion of a peer review process for grant proposals received u
 
 &emsp;Research and extension grants may be made under this section to study—
 
-&emsp;&emsp;(A) the effects of viral hemorrhagic septicemia (referred to in this paragraph as “VHS”) on freshwater fish throughout the natural and expanding range of VHS; and
+&emsp;&emsp;(A) the effects of viral hemorrhagic septicemia (referred to in this paragraph as "VHS") on freshwater fish throughout the natural and expanding range of VHS; and
 
 &emsp;&emsp;(B) methods for transmission and human-mediated transport of VHS among waterbodies.
 
@@ -410,69 +410,69 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7204(b)(1), substituted “subsections (e) through (i)” for “subsections (e), (f), and (g)” in first sentence.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7204(b)(1), substituted "subsections (e) through (i)" for "subsections (e), (f), and (g)" in first sentence.
 
-Subsec. (b)(1). Pub. L. 110–246, §7204(b)(2)(A), substituted “paragraphs (4), (7), (8), and (11)(B)” for “paragraphs (1), (6), (7), and (11)”.
+Subsec. (b)(1). Pub. L. 110–246, §7204(b)(2)(A), substituted "paragraphs (4), (7), (8), and (11)(B)" for "paragraphs (1), (6), (7), and (11)".
 
-Subsec. (b)(2). Pub. L. 110–246, §7204(b)(2)(B), substituted “subsections (e) through (i)” for “subsection (e)”.
+Subsec. (b)(2). Pub. L. 110–246, §7204(b)(2)(B), substituted "subsections (e) through (i)" for "subsection (e)".
 
-Subsec. (d). Pub. L. 110–246, §7203, substituted “shall” for “may”.
+Subsec. (d). Pub. L. 110–246, §7203, substituted "shall" for "may".
 
 Subsec. (e). Pub. L. 110–246, §7204(a)(1)(B)–(D), redesignated pars. (2), (3), (5), (6), (9) to (14), (16), (18) to (20), (22), (24), (25), (28) to (31), (33), (35) to (40), and (44) as (1) to (29), respectively, added pars. (30) to (52), and struck out former pars. (1), (4), (7), (8), (15), (17), (21), (23), (26), (27), (32), (34), (41) to (43), and (45), which related to research on the brown citrus aphid and the citrus tristeza virus, uses of mesquite, red meat safety, sorghum ergot eradication, development of the low-bush blueberry, wild pampas grass control, genetic aspects of scrapie in sheep, forestry, wind erosion, crop loss models, harvesting productivity for fruits and vegetables, agricultural marketing, beef cattle genetics, ingestion of dairy pipeline cleaner, genetic resource conservation, and improvement of specialty crop production, respectively.
 
-Subsec. (e)(3). Pub. L. 110–246, §7204(a)(1)(A), substituted “, improving, and eventually commercializing, alfatoxin controls in corn and other affected agricultural products and crops” for “and controlling aflatoxin in the food and feed chains”.
+Subsec. (e)(3). Pub. L. 110–246, §7204(a)(1)(A), substituted ", improving, and eventually commercializing, alfatoxin controls in corn and other affected agricultural products and crops" for "and controlling aflatoxin in the food and feed chains".
 
-Subsecs. (h) to (j). Pub. L. 110–246, §7204(a)(2)–(4), added subsecs. (h) and (i), redesignated former subsec. (h) as (j), and substituted “2012” for “2007” in subsec. (j).
+Subsecs. (h) to (j). Pub. L. 110–246, §7204(a)(2)–(4), added subsecs. (h) and (i), redesignated former subsec. (h) as (j), and substituted "2012" for "2007" in subsec. (j).
 
 <b>2004</b>—Subsec. (e)(45). Pub. L. 108–465 added par. (45).
 
 <b>2002</b>—Subsec. (e)(25) to (44). Pub. L. 107–171, §7208(b), added pars. (25) to (44).
 
-Subsec. (h). Pub. L. 107–171, §7119, substituted “2007” for “2002”.
+Subsec. (h). Pub. L. 107–171, §7119, substituted "2007" for "2002".
 
 <b>1998</b>—Pub. L. 105–185 amended section catchline and text generally, substituting present provisions for provisions which in subsecs. (a) to (f) which authorized specialized research programs relating to, respectively, brown citrus aphid and citrus tristeza virus, ethanol, aflatoxin, mesquite, prickly pear, and deer tick ecology and related research, and for provisions in subsec. (g) subjecting research to peer review, setting limitation on use of funds, and providing for general eligibility to participate in programs.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–127, §§863(1), 888, added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Secretary of Agriculture is encouraged to fund research for the development of technology which will ascertain the lean content of animal carcasses to be used for human consumption.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §§863(1), 888, added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "The Secretary of Agriculture is encouraged to fund research for the development of technology which will ascertain the lean content of animal carcasses to be used for human consumption."
 
-Subsecs. (d)(4), (e)(4). Pub. L. 104–127, §836, substituted “1997” for “1995”.
+Subsecs. (d)(4), (e)(4). Pub. L. 104–127, §836, substituted "1997" for "1995".
 
 Subsec. (f). Pub. L. 104–127, §863, redesignated subsec. (i) as (f) and struck out heading and text of former subsec. (f). Text read as follows:
 
-“(1)
+"(1)
 
 Research required.—The Secretary of Agriculture shall establish and carry out a program to make grants to colleges and universities for research relating to immunoassay used—
 
-&emsp;“(A) to detect agricultural pesticide residues on agricultural commodities for human consumption; and
+&emsp;"(A) to detect agricultural pesticide residues on agricultural commodities for human consumption; and
 
-&emsp;“(B) to diagnose animal and plant diseases.
+&emsp;"(B) to diagnose animal and plant diseases.
 
-“(2)
+"(2)
 
-Preference.—In making grants under this subsection, the Secretary may give preference to those colleges and universities that, as of November 28, 1990, are conducting research described in this subsection.”
+Preference.—In making grants under this subsection, the Secretary may give preference to those colleges and universities that, as of November 28, 1990, are conducting research described in this subsection."
 
-Subsec. (g). Pub. L. 104–127, §863, redesignated subsec. (k) as (g) and struck out heading and text of former subsec. (g). Text read as follows: “The Secretary shall make research and extension grants available for the development of agricultural production and marketing systems that will service niche markets located in nearby metropolitan areas. In awarding such grants, the Secretary shall pay particular attention to areas—
+Subsec. (g). Pub. L. 104–127, §863, redesignated subsec. (k) as (g) and struck out heading and text of former subsec. (g). Text read as follows: "The Secretary shall make research and extension grants available for the development of agricultural production and marketing systems that will service niche markets located in nearby metropolitan areas. In awarding such grants, the Secretary shall pay particular attention to areas—
 
-&emsp;“(1) with a high concentration of small farm operations; and
+&emsp;"(1) with a high concentration of small farm operations; and
 
-&emsp;“(2) that experience difficulty in delivering products to market due to geographic isolation.”
+&emsp;"(2) that experience difficulty in delivering products to market due to geographic isolation."
 
 Subsec. (h). Pub. L. 104–127, §863(1), struck out subsec. (h) which provided that Secretary of Agriculture may establish and carry out a program to conduct research on disease of scrapie in sheep and goats.
 
-Subsec. (i). Pub. L. 104–127, §§836, 863(2), redesignated subsec. (i) as (f) and substituted “1997” for “1995”.
+Subsec. (i). Pub. L. 104–127, §§836, 863(2), redesignated subsec. (i) as (f) and substituted "1997" for "1995".
 
-Subsec. (j). Pub. L. 104–127, §863(1), struck out heading and text of subsec. (j). Text read as follows: “The Secretary of Agriculture may—
+Subsec. (j). Pub. L. 104–127, §863(1), struck out heading and text of subsec. (j). Text read as follows: "The Secretary of Agriculture may—
 
-&emsp;“(1) conduct fundamental and applied research related to the development of new commercial products derived from natural plant materials for industrial, medical, and agricultural applications; and
+&emsp;"(1) conduct fundamental and applied research related to the development of new commercial products derived from natural plant materials for industrial, medical, and agricultural applications; and
 
-&emsp;“(2) participate with colleges and universities, other Federal agencies, and private sector entities in conducting such research.”
+&emsp;"(2) participate with colleges and universities, other Federal agencies, and private sector entities in conducting such research."
 
 Subsec. (k). Pub. L. 104–127, §863(2), redesignated subsec. (k) as (g).
 
 <b>1991</b>—Subsec. (c). Pub. L. 102–237, §407(11), redesignated pars. (A) to (I) as (1) to (9), respectively.
 
-Subsec. (i). Pub. L. 102–237, §406(1), substituted “Secretary of Agriculture, acting through the Cooperative State Research Service, to make competitive grants” for “Agricultural Research Service”.
+Subsec. (i). Pub. L. 102–237, §406(1), substituted "Secretary of Agriculture, acting through the Cooperative State Research Service, to make competitive grants" for "Agricultural Research Service".
 
-Subsec. (k)(1). Pub. L. 102–237, §406(2), substituted “Research” for “Except for research funded under subsection (i), research”.
+Subsec. (k)(1). Pub. L. 102–237, §406(2), substituted "Research" for "Except for research funded under subsection (i), research".
 
 #### Effective Date of 2008 Amendment
 
@@ -482,13 +482,13 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Pub. L. 108–465, title III, §301, Dec. 21, 2004, 118 Stat. 3885, provided that:
 
-“(a)
+"(a)
 
 Priority.—The Secretary of Agriculture shall elevate the priority of current methyl bromide alternative research and extension activities and reexamine the risks and benefits of extending the phase-out deadline in effect on the date of the enactment of this Act \[Dec. 21, 2004\], including the estimated cost to the grower or processor associated with any alternatives proposed.
 
-“(b)
+"(b)
 
-Authorization of Appropriations.—For each of the fiscal years 2005 through 2009, there is authorized to be appropriated to the Secretary of Agriculture $5,000,000 to carry out this section.”
+Authorization of Appropriations.—For each of the fiscal years 2005 through 2009, there is authorized to be appropriated to the Secretary of Agriculture $5,000,000 to carry out this section."
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

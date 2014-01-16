@@ -8,7 +8,7 @@
 
 #### (2) Eligible schools
 
-&emsp;For the purposes of this section, the term “eligible elementary and secondary schools” means schools that—
+&emsp;For the purposes of this section, the term "eligible elementary and secondary schools" means schools that—
 
 &emsp;&emsp;(A) operate school lunch programs under this chapter;
 
@@ -18,7 +18,7 @@
 
 #### (b) Eligible children
 
-Reimbursement may be provided under this section only for supplements served to school children who are not more than 18 years of age, except that the age limitation provided by thissubsection shall not apply to a child described in section 1760(d)(1)(A) of this title.
+Reimbursement may be provided under this section only for supplements served to school children who are not more than 18 years of age, except that the age limitation provided by this subsection shall not apply to a child described in section 1760(d)(1)(A) of this title.
 
 #### (c) Reimbursement
 
@@ -36,7 +36,7 @@ Reimbursement may be provided under this section only for supplements served to 
 
 #### (d) Contents of supplements
 
-The requirements that apply to the content of meal supplements served under child care food programs operated with assistance under this chapter shall apply to the content of meal supplements served under programs operated with assistance under this section.
+The requirements that apply to the content of meal supplements served under child care foodprograms operated with assistance under this chapter shall apply to the content of meal supplements served under programs operated with assistance under this section.
 
 (June 4, 1946, ch. 281, §17A, as added Pub. L. 101–147, title I, §106(a), Nov. 10, 1989, 103 Stat. 885; amended Pub. L. 105–336, title I, §108, Oct. 31, 1998, 112 Stat. 3153.)
 
@@ -46,17 +46,17 @@ The Child Nutrition Act of 1966, referred to in subsec. (c)(1), is Pub. L. 89–
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–336, §108(a)(1), substituted “supplements under a program organized primarily to provide care for” for “supplements to”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–336, §108(a)(1), substituted "supplements under a program organized primarily to provide care for" for "supplements to".
 
-Subsec. (a)(2)(C). Pub. L. 105–336, §108(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “are participating in the child care food program under section 1766 of this title on May 15, 1989.”
+Subsec. (a)(2)(C). Pub. L. 105–336, §108(a)(2), added subpar. (C) and struck out former subpar. (C) which read as follows: "are participating in the child care food program under section 1766 of this title on May 15, 1989."
 
-Subsec. (b). Pub. L. 105–336, §108(b), substituted “served to school children who are not more than 18 years of age, except that the age limitation provided by this subsection shall not apply to a child described in section 1760(d)(1)(A) of this title.” for “served to children—
+Subsec. (b). Pub. L. 105–336, §108(b), substituted "served to school children who are not more than 18 years of age, except that the age limitation provided by this subsection shall not apply to a child described in section 1760(d)(1)(A) of this title." for "served to children—
 
-&emsp;“(1) who are not more than 12 years of age; or
+&emsp;"(1) who are not more than 12 years of age; or
 
-&emsp;“(2) in the case of children of migrant workers or children with handicaps, who are not more than 15 years of age.”
+&emsp;"(2) in the case of children of migrant workers or children with handicaps, who are not more than 15 years of age."
 
-Subsec. (c). Pub. L. 105–336, §108(c), added par. (1), designated existing provisions as par. (2), inserted heading, and substituted “In the case of an eligible child who is participating in a program authorized under this section at a site that is not described in paragraph (1), for the purposes” for “For the purposes”.
+Subsec. (c). Pub. L. 105–336, §108(c), added par. (1), designated existing provisions as par. (2), inserted heading, and substituted "In the case of an eligible child who is participating in a program authorized under this section at a site that is not described in paragraph (1), for the purposes" for "For the purposes".
 
 #### Effective Date of 1998 Amendment
 
@@ -64,5 +64,5 @@ Amendment by Pub. L. 105–336 effective Oct. 1, 1998, see section 401 of Pub. L
 
 #### Regulations
 
-Pub. L. 101–147, title I, §106(b), Nov. 10, 1989, 103 Stat. 886, provided that: “Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement section 17A of the \[Richard B. Russell\] National School Lunch Act \[this section\] (as added by subsection (a) of this section).”
+Pub. L. 101–147, title I, §106(b), Nov. 10, 1989, 103 Stat. 886, provided that: "Not later than July 1, 1990, the Secretary of Agriculture shall issue final regulations to implement section 17A of the \[Richard B. Russell\] National School Lunch Act \[this section\] (as added by subsection (a) of this section)."
 

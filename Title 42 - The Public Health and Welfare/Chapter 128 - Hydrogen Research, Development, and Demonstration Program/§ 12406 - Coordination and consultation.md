@@ -20,7 +20,7 @@ The Secretary shall consult with the Administrator of the National Aeronautics a
 
 #### References in Text
 
-This chapter, the first time appearing in subsec. (a)(2), was in the original “this title”, and was translated as reading “this Act” meaning Pub. L. 101–566, to reflect the probable intent of Congress, because Pub. L. 101–566 is not divided into titles.
+This chapter, the first time appearing in subsec. (a)(2), was in the original "this title", and was translated as reading "this Act" meaning Pub. L. 101–566, to reflect the probable intent of Congress, because Pub. L. 101–566 is not divided into titles.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -42,7 +42,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the term “qualified contribution” means any charitable contribution (as defined in section 170(c)) if—
+&emsp;&emsp;For purposes of this subsection, the term "qualified contribution" means any charitable contribution (as defined in section 170(c)) if—
 
 &emsp;&emsp;&emsp;(i) such contribution is paid during the period beginning on August 28, 2005, and ending on December 31, 2005, in cash to an organization described in section 170(b)(1)(A) (other than an organization described in section 509(a)(3)),
 
@@ -90,11 +90,11 @@ In the case of any taxpayer determined by the Secretary to be affected by the Pr
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified individual” means any qualified Hurricane Katrina individual, any qualified Hurricane Rita individual, and any qualified Hurricane Wilma individual.
+&emsp;&emsp;The term "qualified individual" means any qualified Hurricane Katrina individual, any qualified Hurricane Rita individual, and any qualified Hurricane Wilma individual.
 
 #### (B) Qualified Hurricane Katrina individual
 
-&emsp;&emsp;The term “qualified Hurricane Katrina individual” means any individual whose principal place of abode on August 25, 2005, was located—
+&emsp;&emsp;The term "qualified Hurricane Katrina individual" means any individual whose principal place of abode on August 25, 2005, was located—
 
 &emsp;&emsp;&emsp;(i) in the GO Zone, or
 
@@ -102,7 +102,7 @@ In the case of any taxpayer determined by the Secretary to be affected by the Pr
 
 #### (C) Qualified Hurricane Rita individual
 
-&emsp;&emsp;The term “qualified Hurricane Rita individual” means any individual (other than a qualified Hurricane Katrina individual) whose principal place of abode on September 23, 2005, was located—
+&emsp;&emsp;The term "qualified Hurricane Rita individual" means any individual (other than a qualified Hurricane Katrina individual) whose principal place of abode on September 23, 2005, was located—
 
 &emsp;&emsp;&emsp;(i) in the Rita GO Zone, or
 
@@ -110,7 +110,7 @@ In the case of any taxpayer determined by the Secretary to be affected by the Pr
 
 #### (D) Qualified Hurricane Wilma individual
 
-&emsp;&emsp;The term “qualified Hurricane Wilma individual” means any individual whose principal place of abode on October 23, 2005, was located—
+&emsp;&emsp;The term "qualified Hurricane Wilma individual" means any individual whose principal place of abode on October 23, 2005, was located—
 
 &emsp;&emsp;&emsp;(i) in the Wilma GO Zone, or
 
@@ -118,7 +118,7 @@ In the case of any taxpayer determined by the Secretary to be affected by the Pr
 
 #### (3) Applicable date
 
-&emsp;For purposes of this subsection, the term “applicable date” means—
+&emsp;For purposes of this subsection, the term "applicable date" means—
 
 &emsp;&emsp;(A) in the case of a qualified Hurricane Katrina individual, August 25, 2005,
 
@@ -128,7 +128,7 @@ In the case of any taxpayer determined by the Secretary to be affected by the Pr
 
 #### (4) Earned income
 
-&emsp;For purposes of this subsection, the term “earned income” has the meaning given such term under section 32(c).
+&emsp;For purposes of this subsection, the term "earned income" has the meaning given such term under section 32(c).
 
 #### (5) Special rules
 
@@ -160,5 +160,5 @@ With respect to taxable years beginning in 2005 or 2006, the Secretary may make 
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(2)(A)(i). Pub. L. 110–172 substituted “subparagraph (G)” for “subparagraph (F)”.
+<b>2007</b>—Subsec. (a)(2)(A)(i). Pub. L. 110–172 substituted "subparagraph (G)" for "subparagraph (F)".
 

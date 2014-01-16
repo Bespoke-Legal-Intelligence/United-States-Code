@@ -6,7 +6,7 @@ The Secretary of the Treasury shall instruct the United States executive directo
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–389 struck out “on the use of the facility” after “Monetary Fund”.
+<b>1980</b>—Pub. L. 96–389 struck out "on the use of the facility" after "Monetary Fund".
 
 #### Effective Date of 1980 Amendment
 

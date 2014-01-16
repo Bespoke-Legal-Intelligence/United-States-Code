@@ -2,7 +2,7 @@
 
 (a) Whoever kills any individual who is a Member of Congress or a Member-of-Congress-elect, a member of the executive branch of the Government who is the head, or a person nominated to be head during the pendency of such nomination, of a department listed in section 101 of title 5 or the second ranking official in such department, the Director (or a person nominated to be Director during the pendency of such nomination) or Principal Deputy Director of National Intelligence, the Director (or a person nominated to be Director during the pendency of such nomination) or Deputy Director of the Central Intelligence Agency, a major Presidential or Vice Presidential candidate (as defined in section 3056 of this title), or a Justice of the United States, as defined in section 451 of title 28, or a person nominated to be a Justice of the United States, during the pendency of such nomination, shall be punished as provided by sections 1111 and 1112 of this title.
 
-(b) Whoever kidnaps any individual designated in subsection (a) of this section shall be punished (1) by imprisonment for any term of years or for life, or (2) by death or imprisonment for any term of years or for life, if death results to such individual.
+(b) Whoever kidnaps any individual designated in subsection (a) of this section shall be punished (1) by imprisonment for any term of years or for life, or (2) by death or imprisonment forany term of years or for life, if death results to such individual.
 
 (c) Whoever attempts to kill or kidnap any individual designated in subsection (a) of this section shall be punished by imprisonment for any term of years or for life.
 
@@ -22,31 +22,31 @@
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–87 inserted “the Director (or a person nominated to be Director during the pendency of such nomination) or Principal Deputy Director of National Intelligence,” after “in such department,” and substituted “the Central Intelligence Agency,” for “Central Intelligence,”.
+<b>2012</b>—Subsec. (a). Pub. L. 112–87 inserted "the Director (or a person nominated to be Director during the pendency of such nomination) or Principal Deputy Director of National Intelligence," after "in such department," and substituted "the Central Intelligence Agency," for "Central Intelligence,".
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–294, §604(c)(2), substituted “involved the use” for “involved in the use”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–294, §604(c)(2), substituted "involved the use" for "involved in the use".
 
 Pub. L. 104–294, §604(b)(12)(C), repealed Pub. L. 103–322, §320101(d)(3). See 1994 Amendment note below.
 
-<b>1994</b>—Pub. L. 103–322, §330021(1), substituted “kidnapping” for “kidnaping” in section catchline.
+<b>1994</b>—Pub. L. 103–322, §330021(1), substituted "kidnapping" for "kidnaping" in section catchline.
 
-Subsec. (e). Pub. L. 103–322, §330016(1)(L), substituted “shall be fined under this title” for “shall be fined not more than $10,000” after “personal injury results,”.
+Subsec. (e). Pub. L. 103–322, §330016(1)(L), substituted "shall be fined under this title" for "shall be fined not more than $10,000" after "personal injury results,".
 
-Pub. L. 103–322, §320101(d)(4), substituted “imprisoned not more than ten years” for “imprisoned for not more than ten years”.
+Pub. L. 103–322, §320101(d)(4), substituted "imprisoned not more than ten years" for "imprisoned for not more than ten years".
 
 Pub. L. 103–322, §320101(d)(3), which provided for amendment identical to Pub. L. 103–322, §330016(1)(L), above, was repealed by Pub. L. 104–294, §604(b)(12)(C).
 
-Pub. L. 103–322, §320101(d)(2), inserted “the assault involved in the use of a dangerous weapon, or” after “and if”.
+Pub. L. 103–322, §320101(d)(2), inserted "the assault involved in the use of a dangerous weapon, or" after "and if".
 
-Pub. L. 103–322, §§320101(d)(1), 330016(1)(K), amended subsec. (e) identically, substituting “shall be fined under this title” for “shall be fined not more than $5,000” after “subsection (a) of this section”.
+Pub. L. 103–322, §§320101(d)(1), 330016(1)(K), amended subsec. (e) identically, substituting "shall be fined under this title" for "shall be fined not more than $5,000" after "subsection (a) of this section".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–690 inserted a comma after “section 3056 of this title)”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690 inserted a comma after "section 3056 of this title)".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–646, §62(1), inserted “a major Presidential or Vice Presidential candidate (as defined in section 3056 of this title)”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–646, §62(1), inserted "a major Presidential or Vice Presidential candidate (as defined in section 3056 of this title)".
 
-Subsec. (h). Pub. L. 99–646, §62(2), substituted “individual” for “official”.
+Subsec. (h). Pub. L. 99–646, §62(2), substituted "individual" for "official".
 
-<b>1982</b>—Pub. L. 97–285, §2(a), substituted “Congressional, Cabinet, and Supreme Court assassination, kidnaping, and assault; penalties” for “Congressional assassination, kidnaping, and assault” in section catchline.
+<b>1982</b>—Pub. L. 97–285, §2(a), substituted "Congressional, Cabinet, and Supreme Court assassination, kidnaping, and assault; penalties" for "Congressional assassination, kidnaping, and assault" in section catchline.
 
 Subsec. (a). Pub. L. 97–285, §1(a), expanded coverage of subsec. (a) to cover the killing of any individual who is a member of the executive branch of the Government and the head, or a person nominated to be head during the pendency of such nomination, of a department listed in section 101 of title 5 or the second ranking official in such department, the Director (or a person nominated to be Director during the pendency of such nomination) or Deputy Director of Central Intelligence, or a Justice of the United States, as defined in section 451 of title 28, or a person nominated to be a Justice of the United States, during the pendency of such nomination.
 
@@ -58,5 +58,5 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Report to Member of Congress on Investigation Conducted Subsequent to Threat on Member's Life
 
-Pub. L. 95–624, §19, Nov. 9, 1978, 92 Stat. 3466, provided that: “The Federal Bureau of Investigation shall provide a written report to a Member of Congress on any investigation conducted based on a threat on the Member's life under section 351 of title 18 of the United States Code.”
+Pub. L. 95–624, §19, Nov. 9, 1978, 92 Stat. 3466, provided that: "The Federal Bureau of Investigation shall provide a written report to a Member of Congress on any investigation conducted based on a threat on the Member's life under section 351 of title 18 of the United States Code."
 

@@ -20,9 +20,9 @@ The Tennessee Valley Authority shall conduct a least-cost planning program in ac
 
 &emsp;&emsp;(C) treat demand and supply resources on a consistent and integrated basis.
 
-#### (3) “System cost” defined
+#### (3) "System cost" defined
 
-&emsp;As used in paragraph (1), the term “system cost” means all direct and quantifiable net costs for an energy resource over its available life, including the cost of production, transportation, utilization, waste management, environmental compliance, and, in the case of imported energy resources, maintaining access to foreign sources of supply.
+&emsp;As used in paragraph (1), the term "system cost" means all direct and quantifiable net costs for an energy resource over its available life, including the cost of production, transportation, utilization, waste management, environmental compliance, and, in the case of imported energy resources, maintaining access to foreign sources of supply.
 
 #### (c) Participation by distributors
 

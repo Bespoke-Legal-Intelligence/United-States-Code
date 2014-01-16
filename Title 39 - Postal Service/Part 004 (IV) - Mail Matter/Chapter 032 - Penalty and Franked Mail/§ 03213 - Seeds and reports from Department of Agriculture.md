@@ -10,5 +10,5 @@ Seeds and agricultural reports emanating from the Department of Agriculture may 
 
 #### Amendments
 
-<b>1981</b>—Par. (2). Pub. L. 97–69 substituted “during the 90-day period immediately” for “until the thirtieth day of June”.
+<b>1981</b>—Par. (2). Pub. L. 97–69 substituted "during the 90-day period immediately" for "until the thirtieth day of June".
 

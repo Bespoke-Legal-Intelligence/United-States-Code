@@ -12,7 +12,7 @@ The Administrator shall promulgate regulations specifying under what conditions 
 
 &emsp;(2) to impinge on so as to adversely affect the territorial sea or area of national resource jurisdiction, as recognized by the United States, of any other nation.
 
-> Such regulations shall also provide for the Administrator to mediate or arbitrate any disputesamong licensees regarding the extent to which the thermal plume of one licensee's facility or plantship impinges on the operation of another licensee's facility or plantship.
+> Such regulations shall also provide for the Administrator to mediate or arbitrate any disputes among licensees regarding the extent to which the thermal plume of one licensee's facility or plantship impinges on the operation of another licensee's facility or plantship.
 
 #### (c) Coast Guard operations
 
@@ -22,15 +22,15 @@ The Secretary of the department in which the Coast Guard is operating shall prom
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
+This chapter, referred to in subsecs. (b) and (c), was in the original "this Act", meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b)(2). Pub. L. 98–623, §602(e)(2), substituted “national resource jurisdiction” for “natural resource jurisdiction”.
+<b>1984</b>—Subsec. (b)(2). Pub. L. 98–623, §602(e)(2), substituted "national resource jurisdiction" for "natural resource jurisdiction".
 
 Subsec. (b)(3). Pub. L. 98–623, §602(e)(15), struck out par. (3) which prohibited a licensee of an ocean thermal energy conversion facility or plantship under this chapter, except in the case of force majeure, from permitting foreign vessels to call at, or load or unload cargo at, or otherwise use such facility or plantship unless the foreign state involved had specifically agreed to recognize the jurisdiction of the United States over the vessel and its personnel while such vessel was located in the safety zone and the vessel owner or operator had designated an agent in the United States for receipt of service of process for legal claims or proceedings arising from activities of the vessel or its personnel while located in such zone. See section 9118(d)(3) of this title.
 
-Subsec. (c). Pub. L. 98–623, §602(e)(16), substituted “the thermal plume of such” for “the thermal plume such of” in second place appearing, and substituted “impingement” for “impingment”.
+Subsec. (c). Pub. L. 98–623, §602(e)(16), substituted "the thermal plume of such" for "the thermal plume such of" in second place appearing, and substituted "impingement" for "impingment".
 
 #### Transfer of Functions
 

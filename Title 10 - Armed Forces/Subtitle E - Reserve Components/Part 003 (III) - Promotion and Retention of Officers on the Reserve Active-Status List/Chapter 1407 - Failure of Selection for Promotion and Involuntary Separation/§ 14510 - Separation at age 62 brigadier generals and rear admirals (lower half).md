@@ -10,5 +10,5 @@ Provisions similar to those in this section were contained in sections 3843(a) a
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–364 substituted “age 62: brigadier generals” for “age 60: reserve brigadier generals” in section catchline and “62” for “60” in text.
+<b>2006</b>—Pub. L. 109–364 substituted "age 62: brigadier generals" for "age 60: reserve brigadier generals" in section catchline and "62" for "60" in text.
 

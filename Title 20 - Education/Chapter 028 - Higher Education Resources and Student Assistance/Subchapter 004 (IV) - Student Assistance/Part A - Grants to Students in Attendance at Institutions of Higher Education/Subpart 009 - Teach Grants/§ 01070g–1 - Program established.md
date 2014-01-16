@@ -8,7 +8,7 @@
 
 #### (2) References
 
-&emsp;Grants made under paragraph (1) shall be known as “Teacher Education Assistance for College and Higher Education Grants” or “TEACH Grants”.
+&emsp;Grants made under paragraph (1) shall be known as "Teacher Education Assistance for College and Higher Education Grants" or "TEACH Grants".
 
 #### (b) Payment methodology
 
@@ -46,7 +46,7 @@
 
 #### (2) Graduate students
 
-&emsp;The period during which a graduate student may receive grants under this subpart shall bethe period required for the completion of a master's degree course of study pursued by the teacher candidate at the eligible institution at which the teacher candidate is in attendance, except that the total amount that a teacher candidate may receive under this subpart for graduate study shall not exceed $8,000.
+&emsp;The period during which a graduate student may receive grants under this subpart shall be the period required for the completion of a master's degree course of study pursued by the teacher candidate at the eligible institution at which the teacher candidate is in attendance, except that the total amount that a teacher candidate may receive under this subpart for graduate study shall not exceed $8,000.
 
 #### (3) Remedial course; study abroad
 
@@ -56,7 +56,7 @@
 
 #### Amendments
 
-<b>2007</b>—Subsecs. (a)(1), (c)(1). Pub. L. 110–153, §3(2)(A), substituted “year” for “academic year”.
+<b>2007</b>—Subsecs. (a)(1), (c)(1). Pub. L. 110–153, §3(2)(A), substituted "year" for "academic year".
 
-Subsec. (c)(2). Pub. L. 110–153, §3(2)(B), substituted “other assistance the student may receive” for “other student assistance” and struck out at end “If, with respect to any teacher candidate for any academic year, it is determined that the amount of a TEACH Grant exceeds the cost of attendance for that year, the amount of the TEACH Grant shall be reduced until such grant does not exceed the cost of attendance at the eligible institution.”
+Subsec. (c)(2). Pub. L. 110–153, §3(2)(B), substituted "other assistance the student may receive" for "other student assistance" and struck out at end "If, with respect to any teacher candidate for any academic year, it is determined that the amount of a TEACH Grant exceeds the cost of attendance for that year, the amount of the TEACH Grant shall be reduced until such grant does not exceed the cost of attendance at the eligible institution."
 

@@ -48,7 +48,7 @@ Phase-in.—In order to carry out the requirement of the last sentence of subsec
 
 &emsp;(2)
 
-Incentive for prisoners’ successful completion of treatment program.—
+Incentive for prisoners' successful completion of treatment program.—
 
 &emsp;&emsp;(A)
 
@@ -76,15 +76,15 @@ Authorization of appropriations.—There are authorized to carry out this subsec
 
 Definitions.—As used in this subsection—
 
-&emsp;&emsp;(A) the term “residential substance abuse treatment” means a course of individual and group activities and treatment, lasting at least 6 months, in residential treatment facilities set apart from the general prison population (which may include the use of pharmocotherapies,<sup>1</sup> where appropriate, that may extend beyond the 6-month period);
+&emsp;&emsp;(A) the term "residential substance abuse treatment" means a course of individual and group activities and treatment, lasting at least 6 months, in residential treatment facilities set apart from the general prison population (which may include the use of pharmocotherapies,<sup>1</sup> where appropriate, that may extend beyond the 6-month period);
 
-&emsp;&emsp;(B) the term “eligible prisoner” means a prisoner who is—
+&emsp;&emsp;(B) the term "eligible prisoner" means a prisoner who is—
 
 &emsp;&emsp;&emsp;(i) determined by the Bureau of Prisons to have a substance abuse problem; and
 
 &emsp;&emsp;&emsp;(ii) willing to participate in a residential substance abuse treatment program; and
 
-&emsp;&emsp;(C) the term “aftercare” means placement, case management and monitoring of the participant in a community-based substance abuse treatment program when the participant leaves the custody of the Bureau of Prisons.
+&emsp;&emsp;(C) the term "aftercare" means placement, case management and monitoring of the participant in a community-based substance abuse treatment program when the participant leaves the custody of the Bureau of Prisons.
 
 &emsp;(6)
 
@@ -104,7 +104,7 @@ Sex offender management programs.—The Bureau of Prisons shall establish non-re
 
 &emsp;&emsp;(B)
 
-Residential sex offender treatment programs.—The Bureau of Prisons shall establish residential sex offender treatment programs to provide treatment to sex offenders who volunteer for such programs and are deemed by the Bureau of Prisons to be in need of and suitable for residential treatment.
+Residential sex offender treatment programs.—The Bureau of Prisons shall establish residential sex offender treatmentprograms to provide treatment to sex offenders who volunteer for such programs and are deemed by the Bureau of Prisons to be in need of and suitable for residential treatment.
 
 &emsp;(2)
 
@@ -124,7 +124,7 @@ In general.—In order to ensure a minimum standard of health and habitability, 
 
 &emsp;(2)
 
-Definition.—In this subsection, the term “community confinement” has the meaning given that term in the application notes undersection 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
+Definition.—In this subsection, the term "community confinement" has the meaning given that term in the application notes under section 5F1.1 of the Federal Sentencing Guidelines Manual, as in effect on the date of the enactment of the Second Chance Act of 2007.
 
 (Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 2007; amended Pub. L. 101–647, title XXIX, §2903, Nov. 29, 1990, 104 Stat. 4913; Pub. L. 103–322, title II, §20401, title III, §32001, Sept. 13, 1994, 108 Stat. 1824, 1896; Pub. L. 109–162, title XI, §1146, Jan. 5, 2006, 119 Stat. 3112; Pub. L. 109–248, title VI, §622, July 27, 2006, 120 Stat. 634; Pub. L. 110–199, title II, §§231(f), 251(b), 252, Apr. 9, 2008, 122 Stat. 687, 693.)
 
@@ -138,41 +138,41 @@ For a prior section 3621, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–199, §251(b), inserted “Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person.” at end of concluding provisions.
+<b>2008</b>—Subsec. (b). Pub. L. 110–199, §251(b), inserted "Any order, recommendation, or request by a sentencing court that a convicted person serve a term of imprisonment in a community corrections facility shall have no binding effect on the authority of the Bureau under this section to determine or change the place of imprisonment of that person." at end of concluding provisions.
 
-Subsec. (e)(5)(A). Pub. L. 110–199, §252, substituted “means a course of individual and group activities and treatment, lasting at least 6 months, in residential treatment facilities set apart from the general prison population (which may include the use of pharmocotherapies, where appropriate, that may extend beyond the 6-month period);” for “means a course of individual and group activities, lasting between 6 and 12 months, in residential treatment facilities set apart from the general prison population—
+Subsec. (e)(5)(A). Pub. L. 110–199, §252, substituted "means a course of individual and group activities and treatment, lasting at least 6 months, in residential treatment facilities set apart from the general prison population (which may include the use of pharmocotherapies, where appropriate, that may extend beyond the 6-month period);" for "means a course of individual and group activities, lasting between 6 and 12 months, in residential treatment facilities set apart from the general prison population—
 
-&emsp;“(i) directed at the substance abuse problems of the prisoner;
+&emsp;"(i) directed at the substance abuse problems of the prisoner;
 
-&emsp;“(ii) intended to develop the prisoner's cognitive, behavioral, social, vocational, and other skills so as to solve the prisoner's substance abuse and related problems; and
+&emsp;"(ii) intended to develop the prisoner's cognitive, behavioral, social, vocational, and other skills so as to solve the prisoner's substance abuse and related problems; and
 
-&emsp;“(iii) which may include the use of pharmacoptherapies, if appropriate, that may extend beyond the treatment period;”.
+&emsp;"(iii) which may include the use of pharmacoptherapies, if appropriate, that may extend beyond the treatment period;".
 
 Subsec. (g). Pub. L. 110–199, §231(f), added subsec. (g).
 
-<b>2006</b>—Subsec. (e)(4). Pub. L. 109–162, §1146(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “There are authorized to be appropriated to carry out this subsection—
+<b>2006</b>—Subsec. (e)(4). Pub. L. 109–162, §1146(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: "There are authorized to be appropriated to carry out this subsection—
 
-&emsp;“(A) $13,500,000 for fiscal year 1996;
+&emsp;"(A) $13,500,000 for fiscal year 1996;
 
-&emsp;“(B) $18,900,000 for fiscal year 1997;
+&emsp;"(B) $18,900,000 for fiscal year 1997;
 
-&emsp;“(C) $25,200,000 for fiscal year 1998;
+&emsp;"(C) $25,200,000 for fiscal year 1998;
 
-&emsp;“(D) $27,000,000 for fiscal year 1999; and
+&emsp;"(D) $27,000,000 for fiscal year 1999; and
 
-&emsp;“(E) $27,900,000 for fiscal year 2000.”
+&emsp;"(E) $27,900,000 for fiscal year 2000."
 
 Subsec. (e)(5)(A)(iii). Pub. L. 109–162, §1146(2), added cl. (iii).
 
 Subsec. (f). Pub. L. 109–248 added subsec. (f).
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–322, §32001(1), struck out “, to the extent practicable,” after “The Bureau shall” in concluding provisions.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322, §32001(1), struck out ", to the extent practicable," after "The Bureau shall" in concluding provisions.
 
-Pub. L. 103–322, §20401, inserted “In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status.” after subsec. (b)(5).
+Pub. L. 103–322, §20401, inserted "In designating the place of imprisonment or making transfers under this subsection, there shall be no favoritism given to prisoners of high social or economic status." after subsec. (b)(5).
 
 Subsec. (e). Pub. L. 103–322, §32001(2), added subsec. (e).
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–647 inserted at end “The Bureau shall, to the extent practicable, make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse.”
+<b>1990</b>—Subsec. (b). Pub. L. 101–647 inserted at end "The Bureau shall, to the extent practicable, make available appropriate substance abuse treatment for each prisoner the Bureau determines has a treatable condition of substance addiction or abuse."
 
 #### Effective Date
 
@@ -182,5 +182,5 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 For construction of amendments by Pub. L. 110–199 and requirements for grants made under such amendments, see section 17504 of Title 42, The Public Health and Welfare.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “pharmacotherapies,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "pharmacotherapies,".</i>
 

@@ -4,7 +4,7 @@ For purposes of section 1441a–2 of this title:
 
 #### (1) State housing finance authority
 
-&emsp;The term “State housing finance authority” means any public agency, authority, or corporation which—
+&emsp;The term "State housing finance authority" means any public agency, authority, or corporation which—
 
 &emsp;&emsp;(A) serves as an instrumentality of any State or any political subdivision of any State; and
 
@@ -12,11 +12,11 @@ For purposes of section 1441a–2 of this title:
 
 #### (2) Nonprofit entity
 
-&emsp;The term “nonprofit entity” means any not-for-profit corporation chartered under State law that is exempt from Federal taxation under section 501(c) of title 26 and no part of the net earnings of which inures to the benefit of any member, founder, contributor, or individual (including any nonprofit entity established by the corporation established under title IX of the Housing and Urban Development Act of 1968 \[42 U.S.C. 3931 et seq.\]).
+&emsp;The term "nonprofit entity" means any not-for-profit corporation chartered under State law that is exempt from Federal taxation under section 501(c) of title 26 and no part of the net earnings of which inures to the benefit of any member, founder, contributor, or individual (including any nonprofit entity established by the corporation established under title IX of the Housing and Urban Development Act of 1968 \[42 U.S.C. 3931 et seq.\]).
 
 #### (3) Mortgage-related assets
 
-&emsp;The term “mortgage-related assets” means—
+&emsp;The term "mortgage-related assets" means—
 
 &emsp;&emsp;(A) residential mortgage loans secured by 1- to 4-family or multifamily dwellings; and
 
@@ -26,7 +26,7 @@ For purposes of section 1441a–2 of this title:
 
 #### (4) Net income
 
-&emsp;The term “net income” means income after deduction of all associated expenses calculated in accordance with generally accepted accounting principles.
+&emsp;The term "net income" means income after deduction of all associated expenses calculated in accordance with generally accepted accounting principles.
 
 (Pub. L. 101–73, title XIII, §1301, Aug. 9, 1989, 103 Stat. 547.)
 

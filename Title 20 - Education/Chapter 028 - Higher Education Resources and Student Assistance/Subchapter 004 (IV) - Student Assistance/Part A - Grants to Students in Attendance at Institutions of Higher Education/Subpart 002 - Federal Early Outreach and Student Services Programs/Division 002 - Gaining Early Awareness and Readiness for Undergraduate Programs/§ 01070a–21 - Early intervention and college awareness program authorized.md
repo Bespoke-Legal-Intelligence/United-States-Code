@@ -38,9 +38,9 @@ The Secretary is authorized, in accordance with the requirements of this divisio
 
 &emsp;&emsp;(B) ensure that students served under this division on the day before August 14, 2008, continue to receive assistance through the completion of secondary school.
 
-#### (c) “Eligible entity” defined
+#### (c) "Eligible entity" defined
 
-For the purposes of this division, the term “eligible entity” means—
+For the purposes of this division, the term "eligible entity" means—
 
 &emsp;(1) a State; or
 
@@ -62,29 +62,29 @@ A prior section 1070a–21, Pub. L. 89–329, title IV, §404A, as added Pub. L.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315, §404(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary is authorized, in accordance with the requirements of this division, to establish a program that—
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §404(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary is authorized, in accordance with the requirements of this division, to establish a program that—
 
-&emsp;“(1) encourages eligible entities to provide or maintain a guarantee to eligible low-income students who obtain a secondary school diploma (or its recognized equivalent), of the financial assistance necessary to permit the students to attend an institution of higher education; and
+&emsp;"(1) encourages eligible entities to provide or maintain a guarantee to eligible low-income students who obtain a secondary school diploma (or its recognized equivalent), of the financial assistance necessary to permit the students to attend an institution of higher education; and
 
-&emsp;“(2) supports eligible entities in providing—
+&emsp;"(2) supports eligible entities in providing—
 
-&emsp;&emsp;“(A) additional counseling, mentoring, academic support, outreach, and supportive services to elementary school, middle school, and secondary school students who are at risk of dropping out of school; and
+&emsp;&emsp;"(A) additional counseling, mentoring, academic support, outreach, and supportive services to elementary school, middle school, and secondary school students who are at risk of dropping out of school; and
 
-&emsp;&emsp;“(B) information to students and their parents about the advantages of obtaining a postsecondary education and the college financing options for the students and their parents.”
+&emsp;&emsp;"(B) information to students and their parents about the advantages of obtaining a postsecondary education and the college financing options for the students and their parents."
 
 Subsec. (b)(2), (3). Pub. L. 110–315, §404(a)(2), added pars. (2) and (3) and struck out former par. (2) which related to priority in making awards to eligible entities.
 
-Subsec. (c)(2). Pub. L. 110–315, §404(a)(3), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: “a partnership consisting of—
+Subsec. (c)(2). Pub. L. 110–315, §404(a)(3), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows: "a partnership consisting of—
 
-&emsp;“(A) one or more local educational agencies acting on behalf of—
+&emsp;"(A) one or more local educational agencies acting on behalf of—
 
-&emsp;&emsp;“(i) one or more elementary schools or secondary schools; and
+&emsp;&emsp;"(i) one or more elementary schools or secondary schools; and
 
-&emsp;&emsp;“(ii) the secondary schools that students from the schools described in clause (i) would normally attend;
+&emsp;&emsp;"(ii) the secondary schools that students from the schools described in clause (i) would normally attend;
 
-&emsp;“(B) one or more degree granting institutions of higher education; and
+&emsp;"(B) one or more degree granting institutions of higher education; and
 
-&emsp;“(C) at least two community organizations or entities, such as businesses, professional associations, community-based organizations, philanthropic organizations, State agencies, institutions or agencies sponsoring programs authorized under subpart 4 of this part, or other public or private agencies or organizations.”
+&emsp;"(C) at least two community organizations or entities, such as businesses, professional associations, community-based organizations, philanthropic organizations, State agencies, institutions or agencies sponsoring programs authorized under subpart 4 of this part, or other public or private agencies or organizations."
 
 #### Effective Date
 

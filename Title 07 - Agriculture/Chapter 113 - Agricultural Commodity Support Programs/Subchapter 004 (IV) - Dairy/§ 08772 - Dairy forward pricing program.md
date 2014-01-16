@@ -64,5 +64,5 @@ The authorities provided by each provision of, and each amendment made by, Pub. 
 
 Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “its”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "its".</i>
 

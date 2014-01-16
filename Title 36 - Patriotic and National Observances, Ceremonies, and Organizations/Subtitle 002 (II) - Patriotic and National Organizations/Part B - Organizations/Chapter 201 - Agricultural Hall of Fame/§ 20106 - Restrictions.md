@@ -66,7 +66,7 @@ Aug. 31, 1960, Pub. L. 86–680, §§3(A) (1st sentence proviso), 9, 10, 12, 74 
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (d), the words “or advance” are added in 2 places for consistency in the subsection.
+In subsection (d), the words "or advance" are added in 2 places for consistency in the subsection.
 

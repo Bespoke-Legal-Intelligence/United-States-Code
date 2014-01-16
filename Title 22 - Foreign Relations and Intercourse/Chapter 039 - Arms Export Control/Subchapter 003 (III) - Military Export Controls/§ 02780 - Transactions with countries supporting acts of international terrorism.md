@@ -46,7 +46,7 @@ The following transactions by the United States Government are prohibited:
 
 #### (3) Applicability to actions outside the United States
 
-&emsp;Paragraph (1) applies with respect to actions described in that paragraph which are taken either within or outside the United States by a United States person described in subsection (l)(3)(A) or (B) of this section. To the extent provided in regulations issued under subsection (l)(3)(D) of this section, paragraph (1) applies with respect to actions described in that paragraph which are taken outside the United States by a person designated as a United States person in those regulations.
+&emsp;Paragraph (1) applies with respect to actions described in that paragraph which are taken either within or outside the United States by a United States person described in subsection\(l)(3)(A) or (B) of this section. To the extent provided in regulations issued under subsection (l)(3)(D) of this section, paragraph (1) applies with respect to actions described in that paragraph which are taken outside the United States by a person designated as a United States person in those regulations.
 
 #### (c) Transfers to governments and persons covered
 
@@ -58,7 +58,7 @@ This section applies with respect to—
 
 #### (d) Countries covered by prohibition
 
-The prohibitions contained in this section apply with respect to a country if the Secretary of State determines that the government of thatcountry has repeatedly provided support for acts of international terrorism. For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups, willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material, or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons.
+The prohibitions contained in this section apply with respect to a country if the Secretary of State determines that the government of that country has repeatedly provided support for acts of international terrorism. For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups, willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material, or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons.
 
 #### (e) Publication of determinations
 
@@ -82,7 +82,7 @@ Each determination of the Secretary of State under subsection (d) of this sectio
 
 &emsp;&emsp;(ii) the government concerned has provided assurances that it will not support acts of international terrorism in the future.
 
-(2)(A) No rescission under paragraph (1)(B) of a determination under subsection (d) of this section may be made if the Congress, within 45 days after receipt of a report under paragraph (1)(B), enacts a joint resolution the matter after the resolving clause of which is as follows: “That the proposed rescission of the determination under section 40(d) of the Arms Export Control Act pursuant to the report submitted to the Congress on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ is hereby prohibited.”, the blank to be completed with the appropriate date.
+(2)(A) No rescission under paragraph (1)(B) of a determination under subsection (d) of this section may be made if the Congress, within 45 days after receipt of a report under paragraph (1)(B), enacts a joint resolution the matter after the resolving clause of which is as follows: "That the proposed rescission of the determination under section 40(d) of the Arms Export Control Act pursuant to the report submitted to the Congress on \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ is hereby prohibited.", the blank to be completed with the appropriate date.
 
 (B) A joint resolution described in subparagraph (A) and introduced within the appropriate 45-day period shall be considered in the Senate and the House of Representatives in accordance with paragraphs (3) through (7) of section 8066(c) of the Department of Defense Appropriations Act (as contained in Public Law 98–473), except that references in such paragraphs to the Committees on Appropriations of the House of Representatives and the Senate shall be deemed to be references to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate, respectively.
 
@@ -112,7 +112,7 @@ The President may waive the prohibitions contained in this section with respect 
 
 #### (h) Exemption for transactions subject to National Security Act reporting requirements
 
-The prohibitions contained in this section do not apply with respect to any transaction subject to reporting requirements under title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.; relating to congressional oversight of intelligence activities).
+The prohibitions contained in this section do not apply with respect to any transaction subject to reporting requirements under title V of the National Security Act of 1947 (\[50 U.S.C. 3091 et seq.\]; relating to congressional oversight of intelligence activities).
 
 #### (i) Relation to other laws
 
@@ -122,7 +122,7 @@ The prohibitions contained in this section do not apply with respect to any tran
 
 #### (2) Section 614(a) waiver authority
 
-&emsp;If the authority of section 614(a) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2364(a)\] is used to permit a transaction under that Act \[22 U.S.C. 2151 et seq.\] or this chapter which isotherwise prohibited by this section, the written policy justification required by that section shall include the information specified in subsection (g)(2)(B) of this section.
+&emsp;If the authority of section 614(a) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2364(a)\] is used to permit a transaction under that Act \[22 U.S.C. 2151 et seq.\] or this chapter which is otherwise prohibited by this section, the written policy justification required by that section shall include the information specified in subsection (g)(2)(B) of this section.
 
 #### (j) Criminal penalty
 
@@ -136,11 +136,11 @@ In the enforcement of this section, the President is authorized to exercise the 
 
 As used in this section—
 
-&emsp;(1) the term “munitions item” means any item enumerated on the United States Munitions list <sup>1</sup> (without regard to whether the item is imported into or exported from the United States);
+&emsp;(1) the term "munitions item" means any item enumerated on the United States Munitions list <sup>1</sup> (without regard to whether the item is imported into or exported from the United States);
 
-&emsp;(2) the term “United States”, when used geographically, means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States;
+&emsp;(2) the term "United States", when used geographically, means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and any territory or possession of the United States;
 
-&emsp;(3) the term “United States person” means—
+&emsp;(3) the term "United States person" means—
 
 &emsp;&emsp;(A) any citizen or permanent resident alien of the United States;
 
@@ -156,15 +156,15 @@ As used in this section—
 
 > &emsp;&emsp;with respect to that person's actions while outside the United States;
 
-&emsp;(4) the term “nuclear explosive device” has the meaning given that term in section 6305(4) of this title; and
+&emsp;(4) the term "nuclear explosive device" has the meaning given that term in section 6305(4) of this title; and
 
-&emsp;(5) the term “unsafeguarded special nuclear material” has the meaning given that term in section 6305(8) of this title.
+&emsp;(5) the term "unsafeguarded special nuclear material" has the meaning given that term in section 6305(8) of this title.
 
 (Pub. L. 90–629, ch. 3, §40, as added Pub. L. 99–399, title V, §509(a), Aug. 27, 1986, 100 Stat. 874; amended Pub. L. 101–222, §2(a), Dec. 12, 1989, 103 Stat. 1892; Pub. L. 102–138, title III, §321, Oct. 28, 1991, 105 Stat. 710; Pub. L. 103–236, title VIII, §822(a)(2), Apr. 30, 1994, 108 Stat. 511; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §1303\], Nov. 29, 1999, 113 Stat. 1536, 1501A–511; Pub. L. 107–228, div. B, title XII, §1204, Sept. 30, 2002, 116 Stat. 1427; Pub. L. 111–195, title I, §107(a)(3), July 1, 2010, 124 Stat. 1337.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (2), (i)(1), and (k), was in the original “this Act”, and this chapter, referred to in subsec. (i)(2), was in the original “the Arms Export Control Act”, both of which mean Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1), (2), (i)(1), and (k), was in the original "this Act", and this chapter, referred to in subsec. (i)(2), was in the original "the Arms Export Control Act", both of which mean Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1), (2) and (i)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -172,33 +172,33 @@ Section 40(d) of the Arms Export Control Act, referred to in subsec. (f)(2)(A), 
 
 Paragraphs (3) through (7) of section 8066(c) of the Department of Defense Appropriations Act (as contained in Public Law 98–473), referred to in subsec. (f)(2)(B), is Pub. L. 98–473, title I, §101(h) \[title VIII, §8066(c)(3)–(7)\], Oct. 12, 1984, 98 Stat. 1904, 1936, 1937, which is not classified to the Code.
 
-The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. Title V of the National Security Act of 1947 is classified generally to subchapter III (§413 et seq.) of chapter 15 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 50.
+The National Security Act of 1947, referred to in subsec. (h), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of Title 50, War and National Defense, prior toeditorial reclassification in chapter 44 (§3001 et seq.) of Title 50. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of Title 50. For complete classification of this Act to the Code, see Tables.
 
 The Export Administration Act of 1979, referred to in subsec. (k), is Pub. L. 96–72, Sept. 29, 1979, 93 Stat. 503, as amended, which is classified principally to section 2401 et seq. of the Appendix to Title 50. For complete classification of this Act to the Code, see Short Title note set out under section 2401 of the Appendix to Title 50 and Tables.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (j). Pub. L. 111–195 substituted “20 years” for “10 years”.
+<b>2010</b>—Subsec. (j). Pub. L. 111–195 substituted "20 years" for "10 years".
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–228 substituted “groups,” for “groups or” in second sentence and inserted before period at end “, or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–228 substituted "groups," for "groups or" in second sentence and inserted before period at end ", or willfully aid or abet the efforts of an individual or group to use, develop, produce, stockpile, or otherwise acquire chemical, biological, or radiological weapons".
 
-<b>1999</b>—Subsec. (k). Pub. L. 106–113 inserted “section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that” after “except that”.
+<b>1999</b>—Subsec. (k). Pub. L. 106–113 inserted "section 11(c)(2)(B) of such Act shall not apply, and instead, as prescribed in regulations issued under this section, the Secretary of State may assess civil penalties for violations of this chapter and regulations prescribed thereunder and further may commence a civil action to recover such civil penalties, and except further that" after "except that".
 
-<b>1994</b>—Subsec. (d). Pub. L. 103–236, §822(a)(2)(A), inserted at end “For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups or willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material.”
+<b>1994</b>—Subsec. (d). Pub. L. 103–236, §822(a)(2)(A), inserted at end "For purposes of this subsection, such acts shall include all activities that the Secretary determines willfully aid or abet the international proliferation of nuclear explosive devices to individuals or groups or willfully aid or abet an individual or groups in acquiring unsafeguarded special nuclear material."
 
-Subsec. (l). Pub. L. 103–236, §822(a)(2)(B), amended subsec. (l) by striking “and” after the semicolon in par. (2), substituting a semicolon for the period at the end of par. (3), and adding pars. (4) and (5).
+Subsec. (l). Pub. L. 103–236, §822(a)(2)(B), amended subsec. (l) by striking "and" after the semicolon in par. (2), substituting a semicolon for the period at the end of par. (3), and adding pars. (4) and (5).
 
 <b>1991</b>—Subsec. (f). Pub. L. 102–138, §321, designated existing provisions as par. (1), redesignated former par. (1) as subpar. (A) and former subpars. (A) to (C) as cls. (i) to (iii), respectively, redesignated former par. (2) as subpar. (B) and former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added par. (2). So much of Pub. L. 102–138, §321(1), as directed that subpar. (C) of former par. (2) be redesignated cl. (iii) of par. (1)(B), could not be executed because no such subpar. (C) had been enacted.
 
-<b>1989</b>—Pub. L. 101–222 substituted “Transactions with” for “Exports to” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>1989</b>—Pub. L. 101–222 substituted "Transactions with" for "Exports to" in section catchline and amended text generally. Prior to amendment, text read as follows:
 
-“(a)
+"(a)
 
 Prohibition.—Except as provided in subsection (b) of this section, items on the United States Munitions List may not be exported to any country which the Secretary of State has determined, for purposes of section 6(j)(1)(A) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)(1)(A)), has repeatedly provided support for acts of international terrorism.
 
-“(b)
+"(b)
 
-Waiver.—The President may waive the prohibition contained in subsection (a) of this section in the case of a particular export if the President determines that the export is important to the national interests of the United States and submits to the Congress a report justifying that determination and describing the proposed export. Any such waiver shall expire at the end of 90 days after it is granted unless the Congress enacts a law extending the waiver.”
+Waiver.—The President may waive the prohibition contained in subsection (a) of this section in the case of a particular export if the President determines that the export is important to the national interests of the United States and submits to the Congress a report justifying that determination and describing the proposed export. Any such waiver shall expire at the end of 90 days after it is granted unless the Congress enacts a law extending the waiver."
 
 #### Effective Date of 1994 Amendment
 

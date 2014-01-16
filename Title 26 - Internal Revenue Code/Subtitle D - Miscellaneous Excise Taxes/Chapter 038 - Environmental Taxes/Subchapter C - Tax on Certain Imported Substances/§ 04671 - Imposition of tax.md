@@ -38,7 +38,7 @@ No tax shall be imposed under this section during any period during which the Ha
 
 #### Amendments
 
-<b>1986</b>—Subsec. (e). Pub. L. 99–509 substituted “the Hazardous Substance Superfund financing rate under section 4611 does not apply” for “no tax is imposed under section 4611(a)”.
+<b>1986</b>—Subsec. (e). Pub. L. 99–509 substituted "the Hazardous Substance Superfund financing rate under section 4611 does not apply" for "no tax is imposed under section 4611(a)".
 
 #### Effective Date of 1986 Amendment
 
@@ -46,23 +46,23 @@ Amendment by Pub. L. 99–509 effective on commencement date as defined in forme
 
 #### Effective Date
 
-Pub. L. 99–499, title V, §515(c), Oct. 17, 1986, 100 Stat. 1769, provided that: “The amendments made by thissection \[enacting this subchapter\] shall take effect on January 1, 1989.”
+Pub. L. 99–499, title V, §515(c), Oct. 17, 1986, 100 Stat. 1769, provided that: "The amendments made by this section \[enacting this subchapter\] shall take effect on January 1, 1989."
 
 #### Study and Report
 
 Pub. L. 99–499, title V, §515(d), Oct. 17, 1986, 100 Stat. 1769, provided that:
 
-“(1)
+"(1)
 
 In general.—The Secretary of the Treasury or his delegate shall conduct a study of issues relating to the implementation of—
 
-&emsp;“(A) the tax imposed by the section 4671 of the Internal Revenue Code of 1986 (as added by this section), and
+&emsp;"(A) the tax imposed by the section 4671 of the Internal Revenue Code of 1986 (as added by this section), and
 
-&emsp;“(B) the credit for exports of taxable substances under section 4661(e)(2)(A)(ii)(II) of such Code.
+&emsp;"(B) the credit for exports of taxable substances under section 4661(e)(2)(A)(ii)(II) of such Code.
 
 > In conducting such study, the Secretary of the Treasury or his delegate shall consult with the Environmental Protection Agency and the International Trade Commission.
 
-“(2)
+"(2)
 
-Report.—The report of the study under paragraph (1) shall be submitted not later than January 1, 1988, to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
+Report.—The report of the study under paragraph (1) shall be submitted not later than January 1, 1988, to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate."
 

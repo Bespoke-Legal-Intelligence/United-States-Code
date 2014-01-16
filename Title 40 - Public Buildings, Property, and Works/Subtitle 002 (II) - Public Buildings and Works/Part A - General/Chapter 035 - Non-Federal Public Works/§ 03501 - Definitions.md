@@ -4,15 +4,15 @@ In this chapter, the following definitions apply:
 
 &emsp;(1)
 
-Public agency.—The term “public agency” means a State or a public agency or political subdivision of a State.
+Public agency.—The term "public agency" means a State or a public agency or political subdivision of a State.
 
 &emsp;(2)
 
-Public works.—The term “public works” includes any public works other than housing.
+Public works.—The term "public works" includes any public works other than housing.
 
 &emsp;(3)
 
-State.—The term “State” means a State of the United States, the District of Columbia, Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and any territory or possession of the United States.
+State.—The term "State" means a State of the United States, the District of Columbia, Puerto Rico, Guam, the Virgin Islands, the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and any territory or possession of the United States.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1167.)
 
@@ -34,7 +34,7 @@ Aug. 2, 1954, ch. 649, title VII, §703, 68 Stat. 641; Pub. L. 90–19, §10(d),
 
 In this section, the text of 40:460(2) is omitted as unnecessary because the complete name of the Secretary of Housing and Urban Development is used the first time the term appears in a section.
 
-In clause (1), the words “or ‘public agencies’ ” are omitted as unnecessary because of 1:1.
+In clause (1), the words "or 'public agencies' " are omitted as unnecessary because of 1:1.
 
-In clause (3), the words “Guam, the Virgin Islands” are added to clarify that the provisions of the source law apply to those jurisdictions. The words “the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau” are substituted for “the Trust Territory of the Pacific Islands” because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
+In clause (3), the words "Guam, the Virgin Islands" are added to clarify that the provisions of the source law apply to those jurisdictions. The words "the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau" are substituted for "the Trust Territory of the Pacific Islands" because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
 

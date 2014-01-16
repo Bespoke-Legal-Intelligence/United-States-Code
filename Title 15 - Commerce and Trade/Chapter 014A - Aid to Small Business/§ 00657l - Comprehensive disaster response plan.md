@@ -12,7 +12,7 @@ The Administrator shall develop, implement, or maintain a comprehensive written 
 
 &emsp;&emsp;(B) an assessment of the demand for Administration assistance most likely to occur in response to the disaster;
 
-&emsp;&emsp;(C) an assessment of the needs of the Administration, with respect to such resources as information technology, telecommunications, human resources, and office space, to meet the demand referred to in subparagraph (B); and
+&emsp;&emsp;(C) an assessment of the needs of the Administration, with respect to such resourcesas information technology, telecommunications, human resources, and office space, to meet the demand referred to in subparagraph (B); and
 
 &emsp;&emsp;(D) guidelines pursuant to which the Administration will coordinate with other Federal agencies and with State and local authorities to best respond to the demand referred to in subparagraph (B) and to best use the resources referred to in that subparagraph.
 

@@ -18,19 +18,19 @@ Regulations.—The Secretary of Defense shall prescribe regulations for administ
 
 (e)
 
-Transportation Defined.—In this section, the terms “transportation” and “transport”, with respect to baggage or household effects, includes packing, crating, drayage, temporary storage, and unpacking of the baggage or household effects.
+Transportation Defined.—In this section, the terms "transportation" and "transport", with respect to baggage or household effects, includes packing, crating, drayage, temporary storage, and unpacking of the baggage or household effects.
 
 (Added Pub. L. 108–136, div. A, title VI, §634(a), Nov. 24, 2003, 117 Stat. 1509; amended Pub. L. 109–364, div. A, title III, §363(a), (b), Oct. 17, 2006, 120 Stat. 2167; Pub. L. 110–181, div. A, title III, §373, Jan. 28, 2008, 122 Stat. 82.)
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d). Pub. L. 110–181 inserted at end “The regulations may include a requirement that a member of the armed forces or civilian employee of the Department of Defense comply with reasonable restrictions or conditions prescribed by the Secretary in order to receive the full amount deducted under subsection (b).”
+<b>2008</b>—Subsec. (d). Pub. L. 110–181 inserted at end "The regulations may include a requirement that a memberof the armed forces or civilian employee of the Department of Defense comply with reasonable restrictions or conditions prescribed by the Secretary in order to receive the full amount deducted under subsection (b)."
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–364, §363(b)(1), substituted “shall include” for “may include”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–364, §363(b)(1), substituted "shall include" for "may include".
 
-Pub. L. 109–364, §363(a), substituted “at Government expense of baggage and household effects for members of the armed forces or civilian employees of the Department of Defense (or both)” for “of baggage and household effects for members of the armed forces at Government expense”.
+Pub. L. 109–364, §363(a), substituted "at Government expense of baggage and household effects for members of the armed forces or civilian employees of the Department of Defense (or both)" for "of baggage and household effects for members of the armed forces at Government expense".
 
-Subsec. (b). Pub. L. 109–364, §363(b)(2), substituted “shall be deducted” for “may be deducted”.
+Subsec. (b). Pub. L. 109–364, §363(b)(2), substituted "shall be deducted" for "may be deducted".
 
 #### Effective Date of 2006 Amendment
 

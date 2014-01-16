@@ -6,7 +6,7 @@ In carrying out his authority under section 3335 of this title, including the is
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–479 substituted “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1984</b>—Pub. L. 98–479 substituted "Health and Human Services" for "Health, Education, and Welfare".
 
 #### Transfer of Functions
 

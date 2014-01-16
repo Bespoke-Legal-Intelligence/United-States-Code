@@ -48,13 +48,13 @@ Oct. 20, 1951, ch. 524, §§2 (less last 32 words of 2d sentence), 6 (less appli
 
 10:1866 (less applicability to 10:1861).
 
-In subsection (a), the words “consider, ascertain, adjust, determine” are omitted as covered by the word “settle”, as defined in section 9801 of this title. The words “receive payment” are substituted for 10:1862 (2d sentence, less last 32 words). The words “of a kind that is within the admiralty jurisdiction” are substituted for the words “cognizable in admiralty”. Clause (2) issubstituted for 10:1862 (last proviso of last sentence). 10:1862 (1st proviso of last sentence) is omitted as unnecessary, since other applicable claims laws are restated in this title. The words “by contract or otherwise” are omitted as surplusage.
+In subsection (a), the words "consider, ascertain, adjust, determine" are omitted as covered by the word "settle", as defined in section 9801 of this title. The words "receive payment" are substituted for 10:1862 (2d sentence, less last 32 words). The words "of a kind that is within the admiralty jurisdiction" are substituted for the words "cognizable in admiralty". Clause (2) issubstituted for 10:1862 (last proviso of last sentence). 10:1862 (1st proviso of last sentence) is omitted as unnecessary, since other applicable claims laws are restated in this title. The words "by contract or otherwise" are omitted as surplusage.
 
-In subsection (b), the words “of the United States as miscellaneous receipts” and “to deliver” are omitted as surplusage.
+In subsection (b), the words "of the United States as miscellaneous receipts" and "to deliver" are omitted as surplusage.
 
 #### Amendments
 
-<b>1989</b>—Subsec. (c). Pub. L. 101–189 substituted “$100,000” for “$10,000”.
+<b>1989</b>—Subsec. (c). Pub. L. 101–189 substituted "$100,000" for "$10,000".
 
-<b>1965</b>—Subsec. (c). Pub. L. 89–67 substituted “$10,000” for “$1,000”.
+<b>1965</b>—Subsec. (c). Pub. L. 89–67 substituted "$10,000" for "$1,000".
 

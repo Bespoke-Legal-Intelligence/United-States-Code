@@ -50,13 +50,13 @@ The coordinator designated under subsection (a) of this section shall have the r
 
 #### (2) International financial institutions
 
-&emsp;The coordinator designated under subsection (a) of this section, under the direction of the Secretary of State, shall work through the Secretary of the Treasury and the United States Executive Directors at the international financial institutions (as defined in section 262r(c)(2) of this title) to coordinate United States assistance for Afghanistan with international financial institutions.
+&emsp;The coordinator designated under subsection (a) of this section, under the direction of theSecretary of State, shall work through the Secretary of the Treasury and the United States Executive Directors at the international financial institutions (as defined in section 262r(c)(2) of this title) to coordinate United States assistance for Afghanistan with international financial institutions.
 
 (Pub. L. 107–327, title I, §104, Dec. 4, 2002, 116 Stat. 2804; Pub. L. 108–458, title VII, §7104(c)(2), (d), Dec. 17, 2004, 118 Stat. 3781.)
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–458, §7104(c)(2), substituted “shall” for “is strongly urged to” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–458, §7104(c)(2), substituted "shall" for "is strongly urged to" in introductory provisions.
 
 Subsecs. (c), (d). Pub. L. 108–458, §7104(d), added subsecs. (c) and (d).
 
@@ -66,9 +66,9 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Findings
 
-Pub. L. 108–458, title VII, §7104(c)(1), Dec. 17, 2004, 118 Stat. 3781, provided that: “Congress makes the following findings:
+Pub. L. 108–458, title VII, §7104(c)(1), Dec. 17, 2004, 118 Stat. 3781, provided that: "Congress makes the following findings:
 
-&emsp;“(A) The Final Report of the National Commission on Terrorist Attacks Upon the United States criticized the provision of United States assistance to Afghanistan for being too inflexible.
+&emsp;"(A) The Final Report of the National Commission on Terrorist Attacks Upon the United States criticized the provision of United States assistance to Afghanistan for being too inflexible.
 
-&emsp;“(B) The Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 et seq.) contains provisions that provide for flexibility in the provision of assistance for Afghanistan and are not subject to the requirements of typical foreign assistance programs and provide for the designation of a coordinator to oversee United States assistance for Afghanistan.”
+&emsp;"(B) The Afghanistan Freedom Support Act of 2002 (22 U.S.C. 7501 et seq.) contains provisions that provide for flexibility in the provision of assistance for Afghanistan and are not subject to the requirements of typical foreign assistance programs and provide for the designation of a coordinator to oversee United States assistance for Afghanistan."
 

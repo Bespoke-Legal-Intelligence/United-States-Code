@@ -2,7 +2,7 @@
 
 #### (a) Designation
 
-To conserve and protect the Ancient Bristlecone Pines by maintaining near-natural conditions and to ensure the survival of the Pines for the purposes of public enjoyment and scientific study, the approximately 31,700 acres of public land in the State, as generally depicted on the map entitled “Ancient Bristlecone Pine Forest—Proposed” and dated July 16, 2008, is designated as the “Ancient Bristlecone Pine Forest”.
+To conserve and protect the Ancient Bristlecone Pines by maintaining near-natural conditions and to ensure the survival of the Pines for the purposes of public enjoyment and scientific study, the approximately 31,700 acres of public land in the State, as generally depicted on the map entitled "Ancient Bristlecone Pine Forest—Proposed" and dated July 16, 2008, is designated as the "Ancient Bristlecone Pine Forest".
 
 #### (b) Map and legal description
 
@@ -50,7 +50,7 @@ To conserve and protect the Ancient Bristlecone Pines by maintaining near-natura
 
 #### (B) Scientific research
 
-&emsp;&emsp;Scientific research shall be allowed in the Forest in accordance with the Inyo NationalForest Land and Resource Management Plan (as in effect on March 30, 2009).
+&emsp;&emsp;Scientific research shall be allowed in the Forest in accordance with the Inyo National Forest Land and Resource Management Plan (as in effect on March 30, 2009).
 
 #### (3) Withdrawal
 
@@ -74,5 +74,5 @@ The National Forest Management Act of 1976, referred to in subsec. (c)(1)(B), is
 
 For definitions of terms used in this section, see section 1801 of Pub. L. 111–11, set out as a note under section 460vvv of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “protects”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "protects".</i>
 

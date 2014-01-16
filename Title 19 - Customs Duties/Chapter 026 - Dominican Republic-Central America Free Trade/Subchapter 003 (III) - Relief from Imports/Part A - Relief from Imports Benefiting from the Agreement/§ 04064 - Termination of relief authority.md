@@ -16,7 +16,7 @@ If an article for which relief is provided under this part is an article for whi
 
 #### References in Text
 
-This part, referred to in text, was in the original “this subtitle”, meaning subtitle A (§§311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted this part and amended section 2252 of this title. For complete classification of subtitle A to the Code, see Tables.
+This part, referred to in text, was in the original "this subtitle", meaning subtitle A (§§311–316) of title III of Pub. L. 109–53, Aug. 2, 2005, 119 Stat. 488, which enacted this part and amended section 2252 of this title. For complete classification of subtitle A to the Code, see Tables.
 
 #### Effective and Termination Dates
 

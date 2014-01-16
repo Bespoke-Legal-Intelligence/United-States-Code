@@ -6,27 +6,27 @@ Sections 2207, 2304(a), 2306(a), 2306(b), 2306(e), 2306a, and 2313 of this title
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–350 substituted “section 6306 of title 41” for “section 3741 of the Revised Statutes (41 U.S.C. 22)”.
+<b>2011</b>—Pub. L. 111–350 substituted "section 6306 of title 41" for "section 3741 of the Revised Statutes (41 U.S.C. 22)".
 
-<b>1994</b>—Pub. L. 103–337, §1317(c)(2)(A), substituted “Waiver of applicability of certain laws” for “Law applicable to acquisition and cross-servicing agreements” as section catchline.
+<b>1994</b>—Pub. L. 103–337, §1317(c)(2)(A), substituted "Waiver of applicability of certain laws" for "Law applicable to acquisition and cross-servicing agreements" as section catchline.
 
-Pub. L. 103–337, §1317(c)(1), designated subsec. (b) as entire section and struck out former subsec. (a) which read as follows: “Except as provided in subsection (b), acquisition of logistic support, supplies, and services under section 2341 of this title and agreements entered into under section 2342 of this title shall be made in accordance with chapter 137 of this title and the provisions of this subchapter.”
+Pub. L. 103–337, §1317(c)(1), designated subsec. (b) as entire section and struck out former subsec. (a) which read as follows: "Except as provided in subsection (b), acquisition of logistic support, supplies, and services under section 2341 of this title and agreements entered into under section 2342 of this title shall be made in accordance with chapter 137 of this title and the provisions of this subchapter."
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–190 substituted “this title and” for “this title,” and struck out “, and section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168)” before “shall not apply”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–190 substituted "this title and" for "this title," and struck out ", and section 719 of the Defense Production Act of 1950 (50 U.S.C. App. 2168)" before "shall not apply".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted “this subchapter” for “this chapter”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted "this subchapter" for "this chapter".
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–456 struck out “section” before “2306a”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–456 struck out "section" before "2306a".
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–26 substituted “section 2306a,” for “2306(f),”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–26 substituted "section 2306a," for "2306(f),".
 
 <b>1985</b>—Pub. L. 99–145, §1304(a)(1), renumbered section 2323 of this title as this section.
 
-Subsec. (a). Pub. L. 99–145, §1304(a)(5), substituted “section 2341” for “section 2321” and “section 2342” for “section 2322”.
+Subsec. (a). Pub. L. 99–145, §1304(a)(5), substituted "section 2341" for "section 2321" and "section 2342" for "section 2322".
 
-Subsec. (b). Pub. L. 99–145, §1304(a)(5), substituted “section 2341” for “section 2321” and “section 2342” for “section 2322”.
+Subsec. (b). Pub. L. 99–145, §1304(a)(5), substituted "section 2341" for "section 2321" and "section 2342" for "section 2322".
 
-Pub. L. 99–145, §961(b), substituted “section 2304(a)” for “section 2304(g)”.
+Pub. L. 99–145, §961(b), substituted "section 2304(a)" for "section 2304(g)".
 
 #### Effective Date of 1994 Amendment
 

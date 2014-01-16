@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Appropriate Federal regulatory authority
 
-&emsp;The term “appropriate Federal regulatory authority” means—
+&emsp;The term "appropriate Federal regulatory authority" means—
 
 &emsp;&emsp;(A) in the case of a Federal power marketing agency, the Secretary, except that the Secretary may designate the Administrator of a Federal power marketing agency to act as the appropriate Federal regulatory authority with respect to the transmission system of the Federal power marketing agency; and
 
@@ -14,11 +14,11 @@ In this section:
 
 #### (2) Federal power marketing agency
 
-&emsp;The term “Federal power marketing agency” has the meaning given the term in section 796 of title 16.
+&emsp;The term "Federal power marketing agency" has the meaning given the term in section 796 of title 16.
 
 #### (3) Federal utility
 
-&emsp;The term “Federal utility” means—
+&emsp;The term "Federal utility" means—
 
 &emsp;&emsp;(A) a Federal power marketing agency; or
 
@@ -26,11 +26,11 @@ In this section:
 
 #### (4) Transmission Organization
 
-&emsp;The term “Transmission Organization” has the meaning given the term in section 796 of title 16.
+&emsp;The term "Transmission Organization" has the meaning given the term in section 796 of title 16.
 
 #### (5) Transmission system
 
-&emsp;The term “transmission system” means an electric transmission facility owned, leased, orcontracted for by the United States and operated by a Federal utility.
+&emsp;The term "transmission system" means an electric transmission facility owned, leased, or contracted for by the United States and operated by a Federal utility.
 
 #### (b) Transfer
 

@@ -6,7 +6,7 @@ A State statute, regulation, or other rule of law may modify, limit, or supersed
 
 &emsp;(1) constitutes an enactment or adoption of the Uniform Electronic Transactions Act as approved and recommended for enactment in all the States by the National Conference of Commissioners on Uniform State Laws in 1999, except that any exception to the scope of such Act enacted by a State under section 3(b)(4) of such Act shall be preempted to the extent such exception is inconsistent with this subchapter or subchapter II of this chapter, or would not be permitted under paragraph (2)(A)(ii) of this subsection; or
 
-&emsp;(2)(A) specifies the alternative procedures or requirements for the use or acceptance (orboth) of electronic records or electronic signatures to establish the legal effect, validity, or enforceability of contracts or other records, if—
+&emsp;(2)(A) specifies the alternative procedures or requirements for the use or acceptance (or both) of electronic records or electronic signatures to establish the legal effect, validity, or enforceability of contracts or other records, if—
 
 &emsp;&emsp;(i) such alternative procedures or requirements are consistent with this subchapter and subchapter II of this chapter; and
 

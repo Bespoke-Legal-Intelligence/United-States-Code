@@ -6,7 +6,7 @@
 | [719a.](%C2%A7%2000719a%20-%20Congressional%20statement%20of%20purpose.md) | Congressional statement of purpose. |
 | [719b.](%C2%A7%2000719b%20-%20Definitions.md) | Definitions. |
 | [719c.](%C2%A7%2000719c%20-%20Federal%20Power%20Commission%20reviews%20and%20reports.md) | Federal Power Commission reviews and reports. |
-| [719d.](%C2%A7%2000719d%20-%20Federal%20and%20State%20officer%20or%20agency%20and%20other%20interested%20persons%E2%80%99%20reports.md) | Federal and State officer or agency and other interested persons’ reports. |
+| [719d.](%C2%A7%2000719d%20-%20Federal%20and%20State%20officer%20or%20agency%20and%20other%20interested%20persons%27%20reports.md) | Federal and State officer or agency and other interested persons' reports. |
 | [719e.](%C2%A7%2000719e%20-%20Presidential%20decision%20and%20report.md) | Presidential decision and report. |
 | [719f.](%C2%A7%2000719f%20-%20Congressional%20review.md) | Congressional review. |
 | [719g.](%C2%A7%2000719g%20-%20Transportation%20system%20certificates%2C%20rights-of-way%2C%20permits%2C%20leases%2C%20or%20other%20authorizations.md) | Transportation system certificates, rights-of-way, permits, leases, or other authorizations. |
@@ -30,7 +30,7 @@
 - [&sect; 00719a - Congressional statement of purpose](%C2%A7%2000719a%20-%20Congressional%20statement%20of%20purpose.md)
 - [&sect; 00719b - Definitions](%C2%A7%2000719b%20-%20Definitions.md)
 - [&sect; 00719c - Federal Power Commission reviews and reports](%C2%A7%2000719c%20-%20Federal%20Power%20Commission%20reviews%20and%20reports.md)
-- [&sect; 00719d - Federal and State officer or agency and other interested persons&#8217; reports](%C2%A7%2000719d%20-%20Federal%20and%20State%20officer%20or%20agency%20and%20other%20interested%20persons%E2%80%99%20reports.md)
+- [&sect; 00719d - Federal and State officer or agency and other interested persons' reports](%C2%A7%2000719d%20-%20Federal%20and%20State%20officer%20or%20agency%20and%20other%20interested%20persons%27%20reports.md)
 - [&sect; 00719e - Presidential decision and report](%C2%A7%2000719e%20-%20Presidential%20decision%20and%20report.md)
 - [&sect; 00719f - Congressional review](%C2%A7%2000719f%20-%20Congressional%20review.md)
 - [&sect; 00719g - Transportation system certificates, rights-of-way, permits, leases, or other authorizations](%C2%A7%2000719g%20-%20Transportation%20system%20certificates%2C%20rights-of-way%2C%20permits%2C%20leases%2C%20or%20other%20authorizations.md)

@@ -18,7 +18,7 @@ From the amount appropriated for any fiscal year under section 7714(f) of this t
 
 #### References in Text
 
-Section 10 of the Act of September 23, 1950 (Public Law 815, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994), referred to in subsec. (a), means section 10 of act Sept. 23, 1950, ch. 995, which was classified to section 640 of this title prior to repeal by Pub. L. 103–382, title III, §331(a), Oct. 20, 1994, 108 Stat. 3965.
+Section 10 of the Act of September 23, 1950 (Public Law 815, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994), referred to in subsec. (a), means section 10 of act Sept. 23, 1950, ch. 995, which was classified to section 640 of this title prior to repealby Pub. L. 103–382, title III, §331(a), Oct. 20, 1994, 108 Stat. 3965.
 
 Section 10 of the Act of September 23, 1950 (Public Law 815, 81st Congress) (as such Act was in effect on January 1, 1958), referred to in subsec. (b)(1), probably means section 10 of act Sept. 23, 1950, ch. 995, as added by Pub. L. 85–620, title I, §101, Aug. 12, 1958, 72 Stat. 553, as amended, which was classified to section 640 of this title prior to repeal by Pub. L. 103–382, title III, §331(a), Oct. 20, 1994, 108 Stat. 3965. The act Sept. 23, 1950, did not contain a section 10 on Jan. 1, 1958.
 

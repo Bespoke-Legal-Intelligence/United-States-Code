@@ -14,7 +14,7 @@ A prior section 2512 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–690 substituted “section 300cc(a)” for “section 300cc”.
+<b>1988</b>—Pub. L. 100–690 substituted "section 300cc(a)" for "section 300cc".
 
 #### Effective Date of 1988 Amendment
 

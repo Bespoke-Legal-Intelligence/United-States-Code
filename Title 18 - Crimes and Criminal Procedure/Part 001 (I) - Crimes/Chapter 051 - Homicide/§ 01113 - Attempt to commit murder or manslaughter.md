@@ -8,15 +8,15 @@ Except as provided in section 113 of this title, whoever, within the special mar
 
 Based on title 18, U.S.C., 1940 ed., §456 (Mar. 4, 1909, ch. 321, §277, 35 Stat. 1143).
 
-Words “within the special maritime and territorial jurisdiction of the United States” were added in view of definitive section 7 of this title, and section was rearranged to more clearly express intent of existing law.
+Words "within the special maritime and territorial jurisdiction of the United States" were added in view of definitive section 7 of this title, and section was rearranged to more clearly express intent of existing law.
 
 Mandatory punishment provision was rephrased in the alternative.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–132 substituted “seven years” for “three years”.
+<b>1996</b>—Pub. L. 104–132 substituted "seven years" for "three years".
 
 <b>1990</b>—Pub. L. 101–647 struck out final period at end.
 
-<b>1988</b>—Pub. L. 100–690 substituted “shall, for an attempt to commit murder be imprisoned not more than twenty years or fined under this title, or both, and for an attempt to commit manslaughter be imprisoned not more than three years or fined under this title, or both.” for “shall be fined not more than $1,000 or imprisoned not more than three years, or both”.
+<b>1988</b>—Pub. L. 100–690 substituted "shall, for an attempt to commit murder be imprisoned not more than twenty years or fined under this title, or both, and for an attempt to commit manslaughter be imprisoned not more than three years or fined under this title, or both." for "shall be fined not more than $1,000 or imprisoned not more than three years, or both".
 

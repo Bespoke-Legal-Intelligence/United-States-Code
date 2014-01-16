@@ -94,7 +94,7 @@ The Social Security Act, referred to in subsec. (b)(2)(A)(xi), (B)(viii), is act
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a)(5). Pub. L. 107–279, §404(d)(7)(A), substituted “Director of the Institute of Education Sciences” for “Assistant Secretary of the Office of Educational Research and Improvement”.
+<b>2002</b>—Subsec. (a)(5). Pub. L. 107–279, §404(d)(7)(A), substituted "Director of the Institute of Education Sciences" for "Assistant Secretary of the Office of Educational Research and Improvement".
 
-Subsec. (b)(2)(B). Pub. L. 107–279, §404(d)(7)(B), substituted “National Education Centers of the Institute of Education Sciences” for “research institutes of the Office of Educational Research and Improvement” in introductory provisions.
+Subsec. (b)(2)(B). Pub. L. 107–279, §404(d)(7)(B), substituted "National Education Centers of the Institute of Education Sciences" for "research institutes of the Office of Educational Research and Improvement" in introductory provisions.
 

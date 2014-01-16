@@ -38,9 +38,9 @@ June 3, 1916, ch. 134, §11 (18th through 25th words); restated June 4, 1920, ch
 
 June 26, 1936, ch. 839 (16th through 31st words), 49 Stat. 1974.
 
-In subsection (a), the words “in addition to the assistants prescribed by subsections (b) and (c) and section 3037 of this title” are substituted for the words “Except as prescribed in subsections (b) and (c) of this section”. The words “selected and”, “which procedure shall be”, and 10:21h(a) (last 21 words) are omitted as surplusage.
+In subsection (a), the words "in addition to the assistants prescribed by subsections (b) and (c) and section 3037 of this title" are substituted for the words "Except as prescribed in subsections (b) and (c) of this section". The words "selected and", "which procedure shall be", and 10:21h(a) (last 21 words) are omitted as surplusage.
 
-In subsection (b), the words “appointed from the officers of the Dental Corps” are substituted for the words “who shall be an officer of the Dental Corps, and who shall be selected and appointed”. The last sentence is substituted for the words “with the rank of major general”.
+In subsection (b), the words "appointed from the officers of the Dental Corps" are substituted for the words "who shall be an officer of the Dental Corps, and who shall be selected and appointed". The last sentence is substituted for the words "with the rank of major general".
 
 Subsection (c) is based on section 11 of the National Defense Act, as amended by the Act of June 26, 1936, ch. 839, 49 Stat. 1974 (10:181 and 181a), which provides for two assistants to the Chief of Engineers with the rank of brigadier general, and as impliedly amended by section 513(a) and 513(b) of the Officer Personnel Act of 1947 (10:559g), which provides the method of selection of assistant chiefs of branches, and prescribes that assistant chiefs be promoted to the grade held as such in the Regular Army if they hold a lower grade in the Regular Army. Section 404(f) of the Army Organization Act of 1950, 64 Stat. 274, exempts these two positions from the operation of section 208(a) of that act (10:21h(a)).
 
@@ -50,7 +50,7 @@ A prior section 3039, act Aug. 10, 1956, ch. 1041, 70A Stat. 164, related to Ins
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–433 renumbered section 3040 of this title as this section and substituted “section 3036” for “sections 3036 and 3039” in subsec. (a).
+<b>1986</b>—Pub. L. 99–433 renumbered section 3040 of this title as this section and substituted "section 3036" for "sections 3036 and 3039" in subsec. (a).
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–485 inserted provision establishing the Assistant Surgeon General as Chief of the Dental Corps and making him responsible for recommendations to the Surgeon General and through the Surgeon General to the Chief of Staff on all matters concerning dentistry and dental health of the Army.
 

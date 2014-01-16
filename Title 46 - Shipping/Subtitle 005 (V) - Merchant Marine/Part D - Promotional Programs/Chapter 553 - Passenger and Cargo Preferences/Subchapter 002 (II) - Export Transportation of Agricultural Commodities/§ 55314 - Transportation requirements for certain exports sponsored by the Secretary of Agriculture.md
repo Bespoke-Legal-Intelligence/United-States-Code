@@ -62,13 +62,13 @@ June 29, 1936, ch. 858, title IX, §901k, as added Pub. L. 99–198, title XI, �
 
 46 App.:1241f(c)(1), (3), (4).
 
-In this section, the words “commercial vessels of the United States” are substituted for “United States-flag commercial vessels” for consistency in the revised title.
+In this section, the words "commercial vessels of the United States" are substituted for "United States-flag commercial vessels" for consistency in the revised title.
 
 In subsection (a)(1), before subparagraph (A), the text of 46 App. U.S.C. 1241f(a)(2)(A) and (B) is omitted as obsolete. Subparagraphs (A) and (B) are substituted for 46 App. U.S.C. 1241o to improve the organization and to eliminate unnecessary words.
 
-In subsection (a)(2), the words “the 12-month period beginning October 1 of each year” are substituted for “12 month periods commencing April 1, 1986, the 18-month period beginning April 1, 2002, and the 12-month period beginning October 1, 2003, and each year thereafter” to eliminate obsolete and unnecessary language.
+In subsection (a)(2), the words "the 12-month period beginning October 1 of each year" are substituted for "12 month periods commencing April 1, 1986, the 18-month period beginning April 1, 2002, and the 12-month period beginning October 1, 2003, and each year thereafter" to eliminate obsolete and unnecessary language.
 
-In subsection (c)(4), before subparagraph (A), the words “or instrumentality” are omitted as unnecessary because of the definition of “agency” in chapter 1.
+In subsection (c)(4), before subparagraph (A), the words "or instrumentality" are omitted as unnecessary because of the definition of "agency" in chapter 1.
 
 #### References in Text
 
@@ -78,25 +78,25 @@ The Food for Peace Act, referred to in subsec. (b)(1), is act July 10, 1954, ch.
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–141, §100124(a)(1), struck out subsec. (a), which related to minimum tonnage of agricultural commodities and their products.
 
-Subsec. (b). Pub. L. 112–141, §100124(a)(2), substituted “The activities specified in this subsection are export activities” for “This section applies to export activity” in introductory provisions.
+Subsec. (b). Pub. L. 112–141, §100124(a)(2), substituted "The activities specified in this subsection are export activities" for "This section applies to export activity" in introductory provisions.
 
 Subsec. (c). Pub. L. 112–141, §100124(a)(1), struck out subsec. (c), which related to additional requirements for this section and section 55305 of this title.
 
 <b>2009</b>—Subsec. (a). Pub. L. 111–84 amended directory language of Pub. L. 110–417, §3511(d). See 2008 Amendment notes below.
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–417, §3511(d), as amended by Pub. L. 111–84, substituted “fiscal” for “calendar” in two places in text.
+<b>2008</b>—Subsec. (a). Pub. L. 110–417, §3511(d), as amended by Pub. L. 111–84, substituted "fiscal" for "calendar" in two places in text.
 
-Subsec. (a)(2). Pub. L. 110–417, §3511(d), as amended by Pub. L. 111–84, which directed substitution of “
+Subsec. (a)(2). Pub. L. 110–417, §3511(d), as amended by Pub. L. 111–84, which directed substitution of "
 
-fiscal” for “
+fiscal" for "
 
-calendar” in heading, was executed by substituting “
+calendar" in heading, was executed by substituting "
 
-Fiscal” for “
+Fiscal" for "
 
-Calendar” to reflect the probable intent of Congress.
+Calendar" to reflect the probable intent of Congress.
 
-Subsecs. (b)(1), (c)(2). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+Subsecs. (b)(1), (c)(2). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954".
 
 #### Effective Date of 2009 Amendment
 

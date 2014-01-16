@@ -54,7 +54,7 @@ Contract Modifications.—A task or delivery order may not increase the scope, p
 
 (f)
 
-Contract Period.—The head of an agency entering into a task or delivery order contract under this section may provide for the contract to cover any period up to five years and may extend the contract period for one or more successive periods pursuant to an option provided inthe contract or a modification of the contract. The total contract period as extended may not exceed 10 years unless such head of an agency determines in writing that exceptional circumstances necessitate a longer contract period.
+Contract Period.—The head of an agency entering into a task or delivery order contract under this section may provide for the contract to cover any period up to five years and may extend the contract period for one or more successive periods pursuant to an option provided in the contract or a modification of the contract. The total contract period as extended may not exceed 10 years unless such head of an agency determines in writing that exceptional circumstances necessitate a longer contract period.
 
 (g)
 
@@ -72,33 +72,33 @@ Another section 2304a was renumbered section 2304e of this title.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d)(3). Pub. L. 112–81 struck out subpar. (A) designation before “No task”, redesignated cls. (i) to (iv) of former subpar. (A) as subpars. (A) to (D), respectively, of par. (3), redesignated subcls. (I) and (II) of former cl. (ii) as cls. (i) and (ii), respectively, of subpar. (B), and struck out former subpar. (B) which read as follows: “The head of the agency shall notify the congressional defense committees within 30 days after any determination under clause (i), (ii), (iii), or (iv) of subparagraph (A).”
+<b>2011</b>—Subsec. (d)(3). Pub. L. 112–81 struck out subpar. (A) designation before "No task", redesignated cls. (i) to (iv) of former subpar. (A) as subpars. (A) to (D), respectively, of par. (3), redesignated subcls. (I) and (II) of former cl. (ii) as cls. (i) and (ii), respectively, of subpar. (B), and struck out former subpar. (B) which read as follows: "The head of the agency shall notify the congressional defense committees within 30 days after any determination under clause (i), (ii), (iii), or (iv) of subparagraph (A)."
 
-<b>2009</b>—Subsec. (d)(3)(B). Pub. L. 111–84 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The head of the agency shall notify Congress within 30 days after any determination under subparagraph (A)(iv).”
+<b>2009</b>—Subsec. (d)(3)(B). Pub. L. 111–84 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "The head of the agency shall notify Congress within 30 days after any determination under subparagraph (A)(iv)."
 
 <b>2008</b>—Subsec. (d)(3), (4). Pub. L. 110–181 added par. (3) and redesignated former par. (3) as (4).
 
-<b>2004</b>—Subsec. (f). Pub. L. 108–375 substituted “any period up to five years and may extend the contract period for one or more successive periods pursuant to an option provided in the contract or a modification of the contract. The total contract period as extended may not exceed 10 years unless such head of an agency determines in writing that exceptional circumstances necessitate a longer contract period” for “a total period of not more than five years”.
+<b>2004</b>—Subsec. (f). Pub. L. 108–375 substituted "any period up to five years and may extend the contract period for one or more successive periods pursuant to an option provided in the contract or a modification of the contract. The total contract period as extended may not exceed 10 years unless such head of an agency determines in writing that exceptional circumstances necessitate a longer contract period" for "a total period of not more than five years".
 
 <b>2003</b>—Subsecs. (f) to (h). Pub. L. 108–136 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title VIII, §843(a)(3)(A), Jan. 28, 2008, 122 Stat. 237, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on the date that is 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], and shall apply with respect to any contract awarded on or after such date.”
+Pub. L. 110–181, div. A, title VIII, §843(a)(3)(A), Jan. 28, 2008, 122 Stat. 237, provided that: "The amendments made by paragraph (1) \[amending this section\] shall take effect on the date that is 120 days after the date of the enactment of this Act \[Jan. 28, 2008\], and shall apply with respect to any contract awarded on or after such date."
 
 #### Effective Date
 
-For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an Effective Date of 1994 Amendment note under section 2302 of this title.
+For effective date and applicability of section, see section 10001 of Pub. L. 103–355, set out as an EffectiveDate of 1994 Amendment note under section 2302 of this title.
 
 #### Congressional Intelligence Committees
 
-Pub. L. 111–84, div. A, title VIII, §814(b), Oct. 28, 2009, 123 Stat. 2407, provided that: “In the case of a task or delivery order contract awarded with respect to intelligence activities of the Department of Defense, any notification provided under \[former\] subparagraph (B) of section 2304a(d)(3) of title 10, United States Code, as amended by subsection (a), shall also be provided at the same time as notification is provided to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] under that subparagraph—
+Pub. L. 111–84, div. A, title VIII, §814(b), Oct. 28, 2009, 123 Stat. 2407, provided that: "In the case of a task or delivery order contract awarded with respect to intelligence activities of the Department of Defense, any notification provided under \[former\] subparagraph (B) of section 2304a(d)(3) of title 10, United States Code, as amended by subsection (a), shall also be provided at the same time as notification is provided to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] under that subparagraph—
 
-&emsp;“(1) to the Permanent Select Committee on Intelligence of the House of Representatives insofar as such task or delivery order contract relates to tactical intelligence and intelligence-related activities of the Department; and
+&emsp;"(1) to the Permanent Select Committee on Intelligence of the House of Representatives insofar as such task or delivery order contract relates to tactical intelligence and intelligence-related activities of the Department; and
 
-&emsp;“(2) to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives insofar as such task or delivery order contract relates to intelligence and intelligence-related activities of the Department other than those specified in paragraph (1).”
+&emsp;"(2) to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives insofar as such task or delivery order contract relates to intelligence and intelligence-related activities of the Department other than those specified in paragraph (1)."
 
 #### Provisions Not Affected by Pub. L. 103–355
 
-Pub. L. 103–355, title I, §1004(d), Oct. 13, 1994, 108 Stat. 3253, as amended by Pub. L. 108–136, div. A, title X, §1045(f), Nov. 24, 2003, 117 Stat. 1613, provided that: “Nothing in section 2304a, 2304b, 2304c, or 2304d of title 10, United States Code, as added by subsection (a), and nothing in the amendments made by subsections (b) and (c) \[amending sections 2304 and 2331 of this title\], shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under chapter 11 of title 40, United States Code.”
+Pub. L. 103–355, title I, §1004(d), Oct. 13, 1994, 108 Stat. 3253, as amended by Pub. L. 108–136, div. A, title X, §1045(f), Nov. 24, 2003, 117 Stat. 1613, provided that: "Nothing in section 2304a, 2304b, 2304c, or 2304d of title 10, United States Code, as added by subsection (a), and nothing in the amendments made by subsections (b) and (c) \[amending sections 2304 and 2331 of this title\], shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under chapter 11 of title 40, United States Code."
 

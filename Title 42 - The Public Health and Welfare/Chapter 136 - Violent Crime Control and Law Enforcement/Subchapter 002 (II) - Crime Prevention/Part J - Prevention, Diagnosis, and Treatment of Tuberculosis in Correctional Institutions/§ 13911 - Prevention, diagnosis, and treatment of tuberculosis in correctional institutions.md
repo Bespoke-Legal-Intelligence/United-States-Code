@@ -36,9 +36,9 @@ The Attorney General shall ensure that prisons in the Federal prison system and 
 
 In this section—
 
-&emsp;“Indian tribe” means a tribe, band, pueblo, nation, or other organized group or community of Indians, including an Alaska Native village (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.),<sup>1</sup> that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;"Indian tribe" means a tribe, band, pueblo, nation, or other organized group or community of Indians, including an Alaska Native village (as defined in or established under the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.),<sup>1</sup> that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-&emsp;“State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and the United States Virgin Islands.
+&emsp;"State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, American Samoa, Guam, and the United States Virgin Islands.
 
 (Pub. L. 103–322, title III, §32201, Sept. 13, 1994, 108 Stat. 1901.)
 

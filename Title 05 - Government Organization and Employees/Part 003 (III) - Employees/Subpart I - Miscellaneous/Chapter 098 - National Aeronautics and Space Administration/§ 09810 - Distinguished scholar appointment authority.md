@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) received, within 2 years before the effective date of the appointment, from an accredited institution authorized to grant baccalaureate degrees, a baccalaureate degree in a field of study for which possession of that degree in conjunction with academic achievements meets the qualification standards as prescribed by the Office of Personnel Management for the position to which the individual is being appointed; and
 
-&emsp;&emsp;(B) achieved a cumulative grade point average of 3.0 or higher on a 4.0 scale and a grade point average of 3.5 or higher forcourses in the field of study required to qualify for the position;
+&emsp;&emsp;(B) achieved a cumulative grade point average of 3.0 or higher on a 4.0 scale and a grade point average of 3.5 or higher for courses in the field of study required to qualify for the position;
 
 &emsp;(2) with respect to a position at the GS–9 level, the individual—
 

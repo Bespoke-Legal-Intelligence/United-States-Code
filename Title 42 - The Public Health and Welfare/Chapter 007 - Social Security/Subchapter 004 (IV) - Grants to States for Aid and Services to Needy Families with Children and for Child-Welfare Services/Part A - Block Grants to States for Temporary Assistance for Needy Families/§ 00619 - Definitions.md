@@ -4,11 +4,11 @@ As used in this part:
 
 #### (1) Adult
 
-&emsp;The term “adult” means an individual who is not a minor child.
+&emsp;The term "adult" means an individual who is not a minor child.
 
 #### (2) Minor child
 
-&emsp;The term “minor child” means an individual who—
+&emsp;The term "minor child" means an individual who—
 
 &emsp;&emsp;(A) has not attained 18 years of age; or
 
@@ -16,17 +16,17 @@ As used in this part:
 
 #### (3) Fiscal year
 
-&emsp;The term “fiscal year” means any 12-month period ending on September 30 of a calendar year.
+&emsp;The term "fiscal year" means any 12-month period ending on September 30 of a calendar year.
 
 #### (4) Indian, Indian tribe, and tribal organization
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the terms “Indian”, “Indian tribe”, and “tribal organization” have the meaning given such terms by section 450b of title 25.
+&emsp;&emsp;Except as provided in subparagraph (B), the terms "Indian", "Indian tribe", and "tribal organization" have the meaning given such terms by section 450b of title 25.
 
 #### (B) Special rule for Indian tribes in Alaska
 
-&emsp;&emsp;The term “Indian tribe” means, with respect to the State of Alaska, only the Metlakatla Indian Community of the Annette Islands Reserve and the following Alaska Native regional nonprofit corporations:
+&emsp;&emsp;The term "Indian tribe" means, with respect to the State of Alaska, only the Metlakatla Indian Community of the Annette Islands Reserve and the following Alaska Native regional nonprofit corporations:
 
 &emsp;&emsp;&emsp;(i) Arctic Slope Native Association.
 
@@ -54,7 +54,7 @@ As used in this part:
 
 #### (5) State
 
-&emsp;Except as otherwise specifically provided, the term “State” means the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, and American Samoa.
+&emsp;Except as otherwise specifically provided, the term "State" means the 50 States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, and American Samoa.
 
 (Aug. 14, 1935, ch. 531, title IV, §419, as added Pub. L. 104–193, title I, §103(a)(2), Aug. 22, 1996, 110 Stat. 2159.)
 

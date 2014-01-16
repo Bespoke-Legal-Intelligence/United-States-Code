@@ -4,15 +4,15 @@ In this subchapter:
 
 #### (1) Assistance
 
-&emsp;The term “assistance” means the provision of, or the provision of access to, information (including communication contents, communications records, or other information relating to a customer or communication), facilities, or another form of assistance.
+&emsp;The term "assistance" means the provision of, or the provision of access to, information (including communication contents, communications records, or other information relating to a customer or communication), facilities, or another form of assistance.
 
 #### (2) Civil action
 
-&emsp;The term “civil action” includes a covered civil action.
+&emsp;The term "civil action" includes a covered civil action.
 
 #### (3) Congressional intelligence committees
 
-&emsp;The term “congressional intelligence committees” means—
+&emsp;The term "congressional intelligence committees" means—
 
 &emsp;&emsp;(A) the Select Committee on Intelligence of the Senate; and
 
@@ -20,11 +20,11 @@ In this subchapter:
 
 #### (4) Contents
 
-&emsp;The term “contents” has the meaning given that term in section 1801(n) of this title.
+&emsp;The term "contents" has the meaning given that term in section 1801(n) of this title.
 
 #### (5) Covered civil action
 
-&emsp;The term “covered civil action” means a civil action filed in a Federal or State court that—
+&emsp;The term "covered civil action" means a civil action filed in a Federal or State court that—
 
 &emsp;&emsp;(A) alleges that an electronic communication service provider furnished assistance to an element of the intelligence community; and
 
@@ -32,7 +32,7 @@ In this subchapter:
 
 #### (6) Electronic communication service provider
 
-&emsp;The term “electronic communication service provider” means—
+&emsp;The term "electronic communication service provider" means—
 
 &emsp;&emsp;(A) a telecommunications carrier, as that term is defined in section 153 of title 47;
 
@@ -48,11 +48,11 @@ In this subchapter:
 
 #### (7) Intelligence community
 
-&emsp;The term “intelligence community” has the meaning given the term in section 401a(4) of this title.
+&emsp;The term "intelligence community" has the meaning given the term in section 3003(4) of this title.
 
 #### (8) Person
 
-&emsp;The term “person” means—
+&emsp;The term "person" means—
 
 &emsp;&emsp;(A) an electronic communication service provider; or
 
@@ -66,7 +66,7 @@ In this subchapter:
 
 #### (9) State
 
-&emsp;The term “State” means any State, political subdivision of a State, the Commonwealth of Puerto Rico, the District of Columbia, and any territory or possession of the United States, and includes any officer, public utility commission, or other body authorized to regulate an electronic communication service provider.
+&emsp;The term "State" means any State, political subdivision of a State, the Commonwealth of Puerto Rico, the District of Columbia, and any territory or possession of the United States, and includes any officer, public utility commission, or other body authorized to regulate an electronic communication service provider.
 
 (Pub. L. 95–511, title VIII, §801, as added Pub. L. 110–261, title II, §201, July 10, 2008, 122 Stat. 2467.)
 

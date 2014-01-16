@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Effective for the 2008 through 2012 crop years, in the case of a producer that would beeligible for a loan deficiency payment under section 8735 of this title for wheat, barley, or oats, but that elects to use acreage planted to the wheat, barley, or oats for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement with the Secretary to forgo any other harvesting of the wheat, barley, or oats on that acreage.
+&emsp;Effective for the 2008 through 2012 crop years, in the case of a producer that would be eligible for a loan deficiency payment under section 8735 of this title for wheat, barley, or oats, but that elects to use acreage planted to the wheat, barley, or oats for the grazing of livestock, the Secretary shall make a payment to the producer under this section if the producer enters into an agreement with the Secretary to forgo any other harvesting of the wheat, barley, or oats on that acreage.
 
 #### (2) Grazing of triticale acreage
 
@@ -28,7 +28,7 @@
 
 &emsp;The amount of a payment made under this section to a producer on a farm described in subsection (a)(2) shall be equal to the amount determined by multiplying—
 
-&emsp;&emsp;(A) the loan deficiency payment rate determined under section 8735(c) of this title in effect for wheat, as of the date of the agreement, for the county in which the farm is located; by
+&emsp;&emsp;(A) the loan deficiency payment rate determined under section 8735(c) of this title ineffect for wheat, as of the date of the agreement, for the county in which the farm is located; by
 
 &emsp;&emsp;(B) the payment quantity determined by multiplying—
 

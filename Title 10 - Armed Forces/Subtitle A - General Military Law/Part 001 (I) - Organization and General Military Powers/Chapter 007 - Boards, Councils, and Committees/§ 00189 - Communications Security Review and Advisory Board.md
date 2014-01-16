@@ -1,0 +1,42 @@
+### §189. Communications Security Review and Advisory Board
+
+(a)
+
+Establishment.—There shall be in the Department of Defense a Communications Security Review and Advisory Board (in this section referred to as the "Board") to review and assess the communications security, cryptographic modernization, and related key management activities of the Department and provide advice to the Secretary with respect to such activities.
+
+(b)
+
+Members.—(1) The Secretary shall determine the number of members of the Board.
+
+(2) The Chief Information Officer of the Department of Defense shall serve as chairman of the Board.
+
+(3) The Secretary shall appoint officers in the grade of general or admiral and civilian employees of the Department of Defense in the Senior Executive Service to serve as members of the Board.
+
+(c)
+
+Responsibilities.—The Board shall—
+
+&emsp;(1) monitor the overall communications security, cryptographic modernization, and key management efforts of the Department, including activities under major defense acquisition programs (as defined in section 139c <sup>1</sup> of this title), by—
+
+&emsp;&emsp;(A) requiring each Chief Information Officer of each military department to report the communications security activities of the military department to the Board;
+
+&emsp;&emsp;(B) tracking compliance of each military department with respect to communications security modernization efforts;
+
+&emsp;&emsp;(C) validating lifecycle communications security modernization plans for major defense acquisition programs;
+
+&emsp;(2) validate the need to replace cryptographic equipment based on the expiration dates of the equipment and evaluate the risks of continuing to use cryptographic equipment after such expiration dates;
+
+&emsp;(3) convene in-depth program reviews for specific cryptographic modernization developments with respect to validating requirements and identifying programmatic risks;
+
+&emsp;(4) develop a long-term roadmap for communications security to identify potential issues and ensure synchronization with major planning documents; and
+
+&emsp;(5) advise the Secretary on the cryptographic posture of the Department, including budgetary recommendations.
+
+(d)
+
+Exclusion of Certain Programs.—The Board shall not include the consideration of programs funded under the National Intelligence Program (as defined in section 3(6) of the National Security Act of 1947 (50 U.S.C. 3003(6))) in carrying out this section.
+
+(Added Pub. L. 113–66, div. A, title II, §261(a), Dec. 26, 2013, 127 Stat. 724.)
+
+<i><sup>1</sup></i><i> So in original. Section 139c no longer contains language referring to "major defense acquisition program". See section 2430(a) of this title.</i>
+

@@ -6,13 +6,13 @@ The purpose of this section is to ensure compilation and public disclosure of da
 
 #### (b) Definition of socially disadvantaged farmer or rancher
 
-In this section, the term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2003(e) of this title.
+In this section, the term "socially disadvantaged farmer or rancher" has the meaning given the term in section 2003(e) of this title.
 
 #### (c) Compilation of program participation data
 
 #### (1) Annual requirement
 
-&emsp;For each county and State in the United States, the Secretary of Agriculture (referred to in this section as the “Secretary”) shall annually compile program application and participation rate data regarding socially disadvantaged farmers or ranchers by computing for each program of the Department of Agriculture that serves agricultural producers and landowners—
+&emsp;For each county and State in the United States, the Secretary of Agriculture (referred to in this section as the "Secretary") shall annually compile program application and participation rate data regarding socially disadvantaged farmers or ranchers by computing for each program of the Department of Agriculture that serves agricultural producers and landowners—
 
 &emsp;&emsp;(A) raw numbers of applicants and participants by race, ethnicity, and gender, subject to appropriate privacy protections, as determined by the Secretary; and
 
@@ -58,11 +58,11 @@ In any case in which a current or prospective producer or landowner, in person o
 
 &emsp;(2) the action taken, not taken, or recommended to the producer or landowner.
 
-(Pub. L. 101–624, title XXV, §2501A, as added Pub. L. 107–171, title X, §10708(a), May 13, 2002, 116Stat. 522; amended Pub. L. 110–234, title XIV, §§14003, 14006, May 22, 2008, 122 Stat. 1443, 1445; Pub. L. 110–246, §4(a), title XIV, §§14003, 14006, June 18, 2008, 122 Stat. 1664, 2205, 2207.)
+(Pub. L. 101–624, title XXV, §2501A, as added Pub. L. 107–171, title X, §10708(a), May 13, 2002, 116 Stat. 522; amended Pub. L. 110–234, title XIV, §§14003, 14006, May 22, 2008, 122 Stat. 1443, 1445; Pub. L. 110–246, §4(a), title XIV, §§14003, 14006, June 18, 2008, 122 Stat. 1664, 2205, 2207.)
 
 #### Codification
 
-Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
+Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub.L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
 #### Amendments
 
@@ -76,7 +76,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Oversight and Compliance
 
-Pub. L. 110–234, title XIV, §14007, May 22, 2008, 122 Stat. 1446, and Pub. L. 110–246, §4(a), title XIV, §14007, June 18, 2008, 122 Stat. 1664, 2208, provided that: “The Secretary \[of Agriculture\], acting through the Assistant Secretary for Civil Rights of the Department of Agriculture, shall use the reports described in subsection (c) of section 2501A of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279–1), as amended by section 14006, in the conduct of oversight and evaluation of civil rights compliance.”
+Pub. L. 110–234, title XIV, §14007, May 22, 2008, 122 Stat. 1446, and Pub. L. 110–246, §4(a), title XIV, §14007, June 18, 2008, 122 Stat. 1664, 2208, provided that: "The Secretary \[of Agriculture\], acting through the Assistant Secretary for Civil Rights of the Department of Agriculture, shall use the reports described in subsection (c) of section 2501A of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 2279–1), as amended by section 14006, in the conduct of oversight and evaluation of civil rights compliance."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

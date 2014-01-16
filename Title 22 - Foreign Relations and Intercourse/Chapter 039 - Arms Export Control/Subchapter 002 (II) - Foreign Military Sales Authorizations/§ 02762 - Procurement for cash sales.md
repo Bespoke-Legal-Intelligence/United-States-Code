@@ -2,7 +2,7 @@
 
 #### (a) Authority of President; dependable undertaking by foreign country or international organization; interest rates
 
-Except as otherwise provided in this section, the President may, without requirement for charge to any appropriation or contract authorization otherwise provided, enter into contracts for the procurement of defense articles or defense services for sale for United States dollars to any foreign country or international organization if such country or international organization provides the United States Government with a dependable undertaking (1) to pay the full amount of such contract which will assure the United States Government against any loss on the contract, and (2) to make funds available in such amounts and at such times as may be required to meet the payments required by the contract, and any damages and costs that may accrue from the cancellation of such contract, in advance of the time such payments, damages, or costs are due. Interest shall be charged on any net amount by which any such country or international organization is in arrears under all of its outstanding unliquidated dependable undertakings, considered collectively. The rate of interest charged shall be a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding short-term obligations of the United States as of the last day of the month preceding the net arrearage and shall be computed from the date of net arrearage.
+Except as otherwise provided in this section, the President may, without requirement for charge to any appropriation or contract authorization otherwise provided, enter into contracts for the procurement of defense articles or defense services for sale for United States dollars to any foreign country or international organization if such country or international organization provides the United States Government with a dependable undertaking (1) to pay the full amount of such contract which will assure the United States Government against any loss on the contract, and (2) to make funds available in such amounts and at such times as may be required to meet the payments required by thecontract, and any damages and costs that may accrue from the cancellation of such contract, in advance of the time such payments, damages, or costs are due. Interest shall be charged on any net amount by which any such country or international organization is in arrears under all of its outstanding unliquidated dependable undertakings, considered collectively. The rate of interest charged shall be a rate not less than a rate determined by the Secretary of the Treasury taking into consideration the current average market yield on outstanding short-term obligations of the United States as of the last day of the month preceding the net arrearage and shall be computed from the date of net arrearage.
 
 #### (b) Issuance of letters of offer under emergency determination; availability of appropriations for payment
 
@@ -22,7 +22,7 @@ The provisions of the Renegotiation Act of 1951 \[50 U.S.C. App. 1211 et seq.\] 
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Renegotiation Act of 1951, referred to in subsec. (c), is act Mar. 23, 1951, ch. 15, 65 Stat. 7, as amended, which was classified principally to section 1211 et seq. of Title 50, Appendix, War and National Defense, prior to its omission from the Code. See Codification note set out under section 1211 of Title 50, Appendix.
 
@@ -32,7 +32,7 @@ The Renegotiation Act of 1951, referred to in subsec. (c), is act Mar. 23, 1951,
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–107 added subsec. (d).
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–533 substituted “procurement contracts” for “contracts for the procurement of defense articles and defense services” and inserted reference to contracts entered into under section 2769 of this title.
+<b>1980</b>—Subsec. (c). Pub. L. 96–533 substituted "procurement contracts" for "contracts for the procurement of defense articles and defense services" and inserted reference to contracts entered into under section 2769 of this title.
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–384 added subsec. (c).
 
@@ -40,21 +40,21 @@ The Renegotiation Act of 1951, referred to in subsec. (c), is act Mar. 23, 1951,
 
 Subsec. (b). Pub. L. 94–329, §207(b), substituted provisions authorizing President to issue letters of offer with provisions for billing on delivery of article or rendering of service and payment within 120 days after billing date where President determines that emergency conditions exist, for provisions authorizing President to accept a dependable undertaking of a foreign country or international organization with respect to sales of defense articles and services and to make payment within 120 days of delivery of article or rendering of service.
 
-<b>1973</b>—Pub. L. 93–189 designated text preceding first proviso as subsec. (a) and inserted “Except as otherwise provided in this section,” before “the President”, designated first proviso as subsec. (b) and inserted reference to acceptance of a dependable undertaking of aforeign country or international organization, and struck out further provisions setting forth Presidential powers with respect to sales agreements with and payments by purchasing countries or international organizations.
+<b>1973</b>—Pub. L. 93–189 designated text preceding first proviso as subsec. (a) and inserted "Except as otherwise provided in this section," before "the President", designated first proviso as subsec. (b) and inserted reference to acceptance of a dependable undertaking of a foreign country or international organization, and struck out further provisions setting forth Presidential powers with respect to sales agreements with and payments by purchasing countries or international organizations.
 
 #### Effective Date of 1996 Amendment; Implementing Regulations
 
-Pub. L. 104–107, title V, §531A(b), Feb. 12, 1996, 110 Stat. 731, provided that: “Section 22(d) of the Arms Export Control Act \[subsec. (d) of this section\], as added by subsection (a)—
+Pub. L. 104–107, title V, §531A(b), Feb. 12, 1996, 110 Stat. 731, provided that: "Section 22(d) of the Arms Export Control Act \[subsec. (d) of this section\], as added by subsection (a)—
 
-&emsp;“(1) shall take effect on the 60th day following the date of the enactment of this Act \[Feb. 12, 1996\];
+&emsp;"(1) shall take effect on the 60th day following the date of the enactment of this Act \[Feb. 12, 1996\];
 
-&emsp;“(2) shall be applicable only to contracts made in implementation of sales made after such effective date; and
+&emsp;"(2) shall be applicable only to contracts made in implementation of sales made after such effective date; and
 
-&emsp;“(3) shall be implemented by revised procurement regulations, which shall be issued prior to such effective date.”
+&emsp;"(3) shall be implemented by revised procurement regulations, which shall be issued prior to such effective date."
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a) of this section delegated to Secretary of Defense by section 1(d) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+For delegation of functions of the President under subsec. (a) of this section, see section 1(d) of Ex. Ord.No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
 #### Prior Provisions
 

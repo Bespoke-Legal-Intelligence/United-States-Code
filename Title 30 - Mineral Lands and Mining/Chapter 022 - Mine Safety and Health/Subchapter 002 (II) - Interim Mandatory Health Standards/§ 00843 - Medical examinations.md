@@ -8,7 +8,7 @@ The operator of a coal mine shall cooperate with the Secretary of Health and Hum
 
 (1) On and after the operative date of this subchapter, any miner who, in the judgment of the Secretary of Health and Human Services based upon such reading or other medical examinations, shows evidence of the development of pneumoconiosis shall be afforded the option of transferring from his position to another position in any area of the mine, for such period or periods as may be necessary to prevent further development of such disease, where the concentration of respirable dust in the mine atmosphere is not more than 2.0 milligrams of dust per cubic meter of air.
 
-(2) Effective three years after December 30, 1969, any miner who, in the judgment of the Secretary of Health and Human Services based upon such reading or other medical examinations, shows evidence of the development of pneumoconiosis shall be afforded the option of transferring from his position to another position in any area of the mine, for such period or periods as may be necessary to prevent further development of such disease, where the concentration of respirable dust in the mine atmosphere is not more than 1.0 millograms <sup>1</sup> of dust per cubic meter of air, or if such level is not attainable in such mine, to a position in such mine where the concentration of respirable dust is the lowest attainable below 2.0 milligrams per cubic meter of air.
+(2) Effective three years after December 30, 1969, any miner who, in the judgment of the Secretary of Health and Human Services based upon such reading or other medical examinations, shows evidence of the development of pneumoconiosis shall be afforded the option of transferring from his position to another position in any area of the mine, for such period or periods as may be necessary to prevent further development of such disease, where the concentration of respirable dust in the mine atmosphere is notmore than 1.0 millograms <sup>1</sup> of dust per cubic meter of air, or if such level is not attainable in such mine, to a position in such mine where the concentration of respirable dust is the lowest attainable below 2.0 milligrams per cubic meter of air.
 
 (3) Any miner so transferred shall receive compensation for such work at not less than the regular rate of pay received by him immediately prior to his transfer.
 
@@ -24,13 +24,13 @@ If the death of any active miner occurs in any coal mine, or if the death of any
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 For operative date of this subchapter, referred to in subsec. (b)(1), see section 509 of Pub. L. 91–173, set out as an Effective Date note under section 801 of this title.
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted in text for “Secretary of Health, Education, and Welfare” pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted in text for "Secretary of Health, Education, and Welfare" pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “milligrams”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "milligrams".</i>
 

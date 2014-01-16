@@ -2,7 +2,7 @@
 
 #### (a) Provision of storage space
 
-If a low income community requests the Secretary to provide water supply storage space ina water resources development project operated by the Secretary and if the amount of space requested is available or could be made available through reallocation of water supply storage space in the project or through modifications to operation of the project, the Secretary may provide such space to the community at a price determined under subsection (c) of this section.
+If a low income community requests the Secretary to provide water supply storage space in a water resources development project operated by the Secretary and if the amount of space requested is available or could be made available through reallocation of water supply storage space in the project or through modifications to operation of the project, the Secretary may provide such space to the community at a price determined under subsection (c) of this section.
 
 #### (b) Maximum amount of storage space
 
@@ -28,9 +28,9 @@ The $100 amount set forth in subsection (c) of this section shall be adjusted an
 
 Nothing in this section shall be construed as affecting the responsibility of non-Federal interests to provide operation and maintenance costs assigned to water supply storage provided under this section.
 
-#### (g) “Low income community” defined
+#### (g) "Low income community" defined
 
-The term “low income community” means a community with a population of less than 20,000 which is located in a county with a per capita income less than the per capita income of two-thirds of the counties in the United States.
+The term "low income community" means a community with a population of less than 20,000 which is located in a county with a per capita income less than the per capita income of two-thirds of the counties in the United States.
 
 (Pub. L. 101–640, title III, §322, Nov. 28, 1990, 104 Stat. 4643.)
 
@@ -38,7 +38,7 @@ The term “low income community” means a community with a population of less 
 
 Section was enacted as part of the Water Resources Development Act of 1990, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 101–640, set out as a note under section 2201 of this title.
 

@@ -12,29 +12,29 @@ Mental Health Professionals.—Of the number of persons designated as members of
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–84 designated existing provisions as subsec. (a), inserted heading, substituted “6,300” for “6,000”, and added subsec. (b).
+<b>2009</b>—Pub. L. 111–84 designated existing provisions as subsec. (a), inserted heading, substituted "6,300" for "6,000", and added subsec. (b).
 
-<b>1991</b>—Pub. L. 102–190 substituted “except that the total number of persons so designated may not, at any time, exceed 6,000.” for “except that—
+<b>1991</b>—Pub. L. 102–190 substituted "except that the total number of persons so designated may not, at any time, exceed 6,000." for "except that—
 
-&emsp;“(1) the total number of persons so designated in all of the programs authorized by this subchapter shall not, at any time, exceed 6,000; and
+&emsp;"(1) the total number of persons so designated in all of the programs authorized by this subchapter shall not, at any time, exceed 6,000; and
 
-&emsp;“(2) after September 30, 1991, of the total number of persons so designated, at least 2,500 shall be persons—
+&emsp;"(2) after September 30, 1991, of the total number of persons so designated, at least 2,500 shall be persons—
 
-&emsp;&emsp;“(A) who are in the final two years of their course of study; and
+&emsp;&emsp;"(A) who are in the final two years of their course of study; and
 
-&emsp;&emsp;“(B) who have agreed to accept, if offered, residency training in a health profession skill which has been designated by the Secretary as a critically needed wartime skill.”
+&emsp;&emsp;"(B) who have agreed to accept, if offered, residency training in a health profession skill which has been designated by the Secretary as a critically needed wartime skill."
 
-<b>1989</b>—Par. (2). Pub. L. 101–189 inserted “after September 30, 1991,” after “(2)”.
+<b>1989</b>—Par. (2). Pub. L. 101–189 inserted "after September 30, 1991," after "(2)".
 
-<b>1987</b>—Pub. L. 100–180, §712(b)(1), substituted “except that—” and pars. (1) and (2) for “except that the total number of persons so designated in all of the programs authorized by this subchapter shall not, at any time, exceed 6,000.”
+<b>1987</b>—Pub. L. 100–180, §712(b)(1), substituted "except that—" and pars. (1) and (2) for "except that the total number of persons so designated in all of the programs authorized by this subchapter shall not, at any time, exceed 6,000."
 
-Pub. L. 100–180, §711(a)(2), substituted “subchapter” for “chapter”.
+Pub. L. 100–180, §711(a)(2), substituted "subchapter" for "chapter".
 
-<b>1985</b>—Pub. L. 99–145 substituted “6,000” for “5,000”.
+<b>1985</b>—Pub. L. 99–145 substituted "6,000" for "5,000".
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–180, div. A, title VII, §712(b)(2), Dec. 4, 1987, 101 Stat. 1112, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1989.”
+Pub. L. 100–180, div. A, title VII, §712(b)(2), Dec. 4, 1987, 101 Stat. 1112, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1989."
 
 #### Effective Date of 1985 Amendment
 

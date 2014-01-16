@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “Federal correctional institution” and “term of life imprisonment” have the meanings stated in section 1118.
+Definition.—In this section, "Federal correctional institution" and "term of life imprisonment" have the meanings stated in section 1118.
 
 (b)
 
@@ -12,5 +12,5 @@ Offense and Penalty.—A person, having escaped from a Federal correctional inst
 
 #### Amendments
 
-<b>1996</b>—Subsecs. (a), (b). Pub. L. 104–294 substituted “Federal correctional institution” for “Federal prison”.
+<b>1996</b>—Subsecs. (a), (b). Pub. L. 104–294 substituted "Federal correctional institution" for "Federal prison".
 

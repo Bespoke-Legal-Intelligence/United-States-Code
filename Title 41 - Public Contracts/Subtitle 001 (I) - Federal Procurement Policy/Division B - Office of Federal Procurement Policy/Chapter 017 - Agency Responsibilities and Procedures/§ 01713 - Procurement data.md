@@ -6,15 +6,15 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Qualified hubzone small business concern.—The term “qualified HUBZone small business concern” has the meaning given that term in section 3(p) of the Small Business Act (15 U.S.C. 632(p)).
+Qualified hubzone small business concern.—The term "qualified HUBZone small business concern" has the meaning given that term in section 3(p) of the Small Business Act (15 U.S.C. 632(p)).
 
 &emsp;(2)
 
-Small business concern owned and controlled by socially and economically disadvantaged individuals.—The term “small business concern owned and controlled by socially and economically disadvantaged individuals” has the meaning given that term in section 8(d) of the Small Business Act (15 U.S.C. 637(d)).
+Small business concern owned and controlled by socially and economically disadvantaged individuals.—The term "small business concern owned and controlled by socially and economically disadvantaged individuals" has the meaning given that term in section 8(d) of the Small Business Act (15 U.S.C. 637(d)).
 
 &emsp;(3)
 
-Small business concern owned and controlled by women.—The term “small business concern owned and controlled by women” has the meaning given that term in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and section 204 of the Women's Business Ownership Act of 1988 (Public Law 100–533, 102 Stat. 2692).
+Small business concern owned and controlled by women.—The term "small business concern owned and controlled by women" has the meaning given that term in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and section 204 of the Women's Business Ownership Act of 1988 (Public Law 100–533, 102 Stat. 2692).
 
 (b)
 
@@ -42,7 +42,7 @@ Pub. L. 100–533, title V, §502, Oct. 25, 1988, 102 Stat. 2697; Pub. L. 105–
 
 41:417a(a).
 
-In subsection (b), the words “socially and economically disadvantaged individuals” are substituted for “socially and economically disadvantaged businesses” for consistency with the term set out in subsection (a).
+In subsection (b), the words "socially and economically disadvantaged individuals" are substituted for "socially and economically disadvantaged businesses" for consistency with the term set out in subsection (a).
 
 #### References in Text
 

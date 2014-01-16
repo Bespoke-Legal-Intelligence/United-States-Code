@@ -8,5 +8,5 @@ The Federal Energy Regulatory Commission shall not license the construction of a
 
 The Federal Power Act (41 Stat. 1063) as amended (16 U.S.C. 791a et seq.), referred to in text, is act June 10, 1920, ch. 285, 41 Stat. 1063, as amended, which is classified generally to chapter 12 (§791a et seq.) of this title. For complete classification of this Act to the Code, see section 791a of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “affect”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "affect".</i>
 

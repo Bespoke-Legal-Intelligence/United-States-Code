@@ -28,7 +28,7 @@
 | [831\.](Subchapter%20003%20%28III%29%20-%20Personnel%20Security%20Procedures%20in%20National%20Security%20Agency/%C2%A7%2000831%20-%20Regulations%20for%20employment%20security.md) | Regulations for employment security. |
 | [832\.](Subchapter%20003%20%28III%29%20-%20Personnel%20Security%20Procedures%20in%20National%20Security%20Agency/%C2%A7%2000832%20-%20Full%20field%20investigation%20and%20appraisal.md) | Full field investigation and appraisal. |
 | [833\.](Subchapter%20003%20%28III%29%20-%20Personnel%20Security%20Procedures%20in%20National%20Security%20Agency/%C2%A7%2000833%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93201%2C%20div.%20A%2C%20title%20XVI%2C%20%C2%A71633%28b%29%282%29%2C%20Sept.%2023%2C%201996%2C%20110%20Stat.%202751.md) | Repealed. |
-| [834\.](Subchapter%20003%20%28III%29%20-%20Personnel%20Security%20Procedures%20in%20National%20Security%20Agency/%C2%A7%2000834%20-%20%E2%80%9CClassified%20information%E2%80%9D%20defined.md) | “Classified information” defined. |
+| [834\.](Subchapter%20003%20%28III%29%20-%20Personnel%20Security%20Procedures%20in%20National%20Security%20Agency/%C2%A7%2000834%20-%20Classified%20information%20defined.md) | "Classified information" defined. |
 | [835\.](Subchapter%20003%20%28III%29%20-%20Personnel%20Security%20Procedures%20in%20National%20Security%20Agency/%C2%A7%2000835%20-%20Nonapplicability%20of%20administrative%20procedure%20provisions.md) | Nonapplicability of administrative procedure provisions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -39,7 +39,7 @@
 | :--- | ---: |
 | [841\.](Subchapter%20004%20%28IV%29%20-%20Communist%20Control/%C2%A7%2000841%20-%20Findings%20and%20declarations%20of%20fact.md) | Findings and declarations of fact. |
 | [842\.](Subchapter%20004%20%28IV%29%20-%20Communist%20Control/%C2%A7%2000842%20-%20Proscription%20of%20Communist%20Party%2C%20its%20successors%2C%20and%20subsidiary%20organizations.md) | Proscription of Communist Party, its successors, and subsidiary organizations. |
-| [843\.](Subchapter%20004%20%28IV%29%20-%20Communist%20Control/%C2%A7%2000843%20-%20Application%20of%20Internal%20Security%20Act%20of%201950%20to%20members%20of%20Communist%20Party%20and%20other%20subversive%20organizations%3B%20%E2%80%9CCommunist%20Party%E2%80%9D%E2%80%A6.md) | Application of Internal Security Act of 1950 to members of Communist Party and other subversive organizations; “Communist Party” defined. |
+| [843\.](Subchapter%20004%20%28IV%29%20-%20Communist%20Control/%C2%A7%2000843%20-%20Application%20of%20Internal%20Security%20Act%20of%201950%20to%20members%20of%20Communist%20Party%20and%20other%20subversive%20organizations%3B%20Communist%20Party%20defined.md) | Application of Internal Security Act of 1950 to members of Communist Party and other subversive organizations; "Communist Party" defined. |
 | [844\.](Subchapter%20004%20%28IV%29%20-%20Communist%20Control/%C2%A7%2000844%20-%20Determination%20by%20jury%20of%20membership%20in%20Communist%20Party%2C%20participation%2C%20or%20knowledge%20of%20purpose.md) | Determination by jury of membership in Communist Party, participation, or knowledge of purpose. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

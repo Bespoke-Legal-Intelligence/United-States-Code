@@ -1,6 +1,6 @@
 ### §732a. Critical positions
 
-(a) The Comptroller General may establish senior-level positions to meet critical scientific,technical or professional needs of the Government Accountability Office. An individual serving in such a position shall—
+(a) The Comptroller General may establish senior-level positions to meet critical scientific, technical or professional needs of the Government Accountability Office. An individual serving in such a position shall—
 
 &emsp;(1) be subject to the laws and regulations applicable to the General Accounting Office Senior Executive Service <sup>1</sup> under section 733 of this title, with respect to rates of basic pay, performance awards, ranks, carry over of annual leave, benefits, performance appraisals, removal or suspension, and reductions in force;
 
@@ -18,9 +18,9 @@
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–323 substituted “paragraph (1) or (2) of section 731(e)” for “section 731(d), (e)(1), or (e)(2)”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–323 substituted "paragraph (1) or (2) of section 731(e)" for "section 731(d), (e)(1), or (e)(2)".
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in introductory provisions.
 
 #### Change of Name
 

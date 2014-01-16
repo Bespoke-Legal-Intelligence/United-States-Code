@@ -21,11 +21,11 @@
 
 <b>2008</b>—Pub. L. 110–181, div. A, title VIII, §852(a)(2), Jan. 28, 2008, 122 Stat. 250, added item 1705.
 
-<b>2003</b>—Pub. L. 108–136, div. A, title VIII, §836(1), Nov. 24, 2003, 117 Stat. 1551, struck out items 1703 “Director of Acquisition Education, Training, and Career Development”, 1705 “Directors of Acquisition Career Management in the military departments”, 1706 “Acquisition career program boards”, and 1707 “Personnel in the Office of the Secretary of Defense and in the Defense Agencies”.
+<b>2003</b>—Pub. L. 108–136, div. A, title VIII, §836(1), Nov. 24, 2003, 117 Stat. 1551, struck out items 1703 "Director of Acquisition Education, Training, and Career Development", 1705 "Directors of Acquisition Career Management in the military departments", 1706 "Acquisition career program boards", and 1707 "Personnel in the Office of the Secretary of Defense and in the Defense Agencies".
 
-<b>2001</b>—Pub. L. 107–107, div. A, title X, §1048(b)(3)(B), Dec. 28, 2001, 115 Stat. 1225, substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics: authorities and responsibilities” for “Under Secretary of Defense for Acquisition and Technology: authorities and responsibilities” in item 1702.
+<b>2001</b>—Pub. L. 107–107, div. A, title X, §1048(b)(3)(B), Dec. 28, 2001, 115 Stat. 1225, substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics: authorities and responsibilities" for "Under Secretary of Defense for Acquisition and Technology: authorities and responsibilities" in item 1702.
 
-<b>1993</b>—Pub. L. 103–160, div. A, title IX, §904(d)(2), Nov. 30, 1993, 107 Stat. 1728, inserted “and Technology” after “Acquisition” in item 1702.
+<b>1993</b>—Pub. L. 103–160, div. A, title IX, §904(d)(2), Nov. 30, 1993, 107 Stat. 1728, inserted "and Technology" after "Acquisition" in item 1702.
 
 
 ---

@@ -6,5 +6,5 @@ All fermented, distilled, or other intoxicating liquors or liquids transported i
 
 #### Short Title
 
-Act Aug. 8, 1890, is popularly known as the “Wilson Act” or the “Original Packages Act”.
+Act Aug. 8, 1890, is popularly known as the "Wilson Act" or the "Original Packages Act".
 

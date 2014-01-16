@@ -30,21 +30,21 @@ Historical and Revision Notes
 
 Sept. 3, 1954, ch. 1257, §§102(1) (as applicable to §204), 204, 68 Stat. 1149, 1151.
 
-The word “subsequently” is omitted as surplusage.
+The word "subsequently" is omitted as surplusage.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(2). Pub. L. 104–201 inserted “or a reserve active-status list” after “active-duty list”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–201 inserted "or a reserve active-status list" after "active-duty list".
 
 Subsec. (b)(3), (4). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–337, §1627. See 1994 Amendment note below.
 
 <b>1994</b>—Pub. L. 103–337, §1662(h)(2), renumbered section 1005 of this title as this section.
 
-Subsec. (a). Pub. L. 103–337, §1675(d)(2), substituted “573, 1407, 1409, or 1411” for “337, 361, 363, 573, 837, 861, or 863”.
+Subsec. (a). Pub. L. 103–337, §1675(d)(2), substituted "573, 1407, 1409, or 1411" for "337, 361, 363, 573, 837, 861, or 863".
 
 Subsec. (b)(3), (4). Pub. L. 103–337, §1627, as amended by Pub. L. 104–106, added pars. (3) and (4).
 
-<b>1984</b>—Pub. L. 98–525 substituted “(a) Except as provided in subsection (b), a reserve commissioned officer” for “A reserve commissioned officer, other than a commissioned warrant officer,”, struck out the comma before “may”, and added subsec. (b).
+<b>1984</b>—Pub. L. 98–525 substituted "(a) Except as provided in subsection (b), a reserve commissioned officer" for "A reserve commissioned officer, other than a commissioned warrant officer,", struck out the comma before "may", and added subsec. (b).
 
 <b>1975</b>—Pub. L. 93–586 inserted reference to chapter 21 of title 14.
 

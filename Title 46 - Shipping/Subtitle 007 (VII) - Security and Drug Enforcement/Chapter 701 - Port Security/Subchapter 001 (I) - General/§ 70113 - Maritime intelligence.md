@@ -16,5 +16,5 @@ Information Integration.—To deter a transportation security incident, the Secr
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–293 inserted at end “The system may include a vessel risk profiling component that assigns incoming vessels a terrorism risk rating.”
+<b>2004</b>—Subsec. (a). Pub. L. 108–293 inserted at end "The system may include a vessel risk profiling component that assigns incoming vessels a terrorism risk rating."
 

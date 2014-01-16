@@ -24,21 +24,21 @@ Historical and Revision Notes
 
 Reorg. Plan No. 2 of 1968, eff. July 1, 1968, §3, 82 Stat. 1369.
 
-In subsection (b), the words “and shall be compensated at the rate now or hereafter provided for Level III of the Executive Schedule Pay Rates (5 U.S.C. 5314)” are omitted as surplus because of 5:5314.
+In subsection (b), the words "and shall be compensated at the rate now or hereafter provided for Level III of the Executive Schedule Pay Rates (5 U.S.C. 5314)" are omitted as surplus because of 5:5314.
 
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–240 substituted “Federal Transit Administration” for “Urban Mass Transportation Administration” in section catchline and subsec. (a).
+<b>1991</b>—Pub. L. 102–240 substituted "Federal Transit Administration" for "Urban Mass Transportation Administration" in section catchline and subsec. (a).
 
 #### Change of Name
 
 Pub. L. 102–240, title III, §3004(a), (b), Dec. 18, 1991, 105 Stat. 2088, provided that:
 
-“(a)
+"(a)
 
-Redesignation of UMTA.—The Urban Mass Transportation Administration of the Department of Transportation shall be known and designated as the ‘Federal Transit Administration’.
+Redesignation of UMTA.—The Urban Mass Transportation Administration of the Department of Transportation shall be known and designated as the 'Federal Transit Administration'.
 
-“(b)
+"(b)
 
-References.—Any reference in a law, map, regulation, document, paper, or other record of the United States to the Urban Mass Transportation Administration shall be deemed to be a reference to the ‘Federal Transit Administration’.”
+References.—Any reference in a law, map, regulation, document, paper, or other record of the United States to the Urban Mass Transportation Administration shall be deemed to be a reference to the 'Federal Transit Administration'."
 

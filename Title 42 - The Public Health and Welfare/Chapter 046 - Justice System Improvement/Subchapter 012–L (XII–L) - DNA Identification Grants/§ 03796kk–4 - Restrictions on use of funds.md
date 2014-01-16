@@ -10,5 +10,5 @@ A State or unit of local government may not use more than 10 percent of the fund
 
 (Pub. L. 90–351, title I, §2405, as added Pub. L. 103–322, title XXI, §210302(c)(1)(C), Sept. 13, 1994, 108 Stat. 2067.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “under”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "under".</i>
 

@@ -28,7 +28,7 @@ Reversionary Interest and Other Deed Requirements.—(1) The deed of conveyance 
 
 &emsp;(A) to convey the property to another eligible entity, subject to the approval of the Secretary concerned and subject to the same covenants and terms and conditions as provided in the deed from the United States; and
 
-&emsp;(B) to conduct incidental revenue-producing activities on the property that are compatiblewith the use of the property for conservation purposes.
+&emsp;(B) to conduct incidental revenue-producing activities on the property that are compatible with the use of the property for conservation purposes.
 
 (3) The deed of conveyance may contain such additional terms, reservations, restrictions, and conditions as the Secretary concerned considers appropriate to protect the interests of the United States.
 
@@ -58,11 +58,11 @@ Relation to Other Conveyance Authorities.—(1) The Secretary concerned may not 
 
 Definitions.—In this section:
 
-&emsp;(1) The term “appropriate committees of Congress” has the meaning given such term in section 2801 of this title.
+&emsp;(1) The term "appropriate committees of Congress" has the meaning given such term in section 2801 of this title.
 
-&emsp;(2) The term “Secretary concerned” means the Secretary of a military department.
+&emsp;(2) The term "Secretary concerned" means the Secretary of a military department.
 
-&emsp;(3) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, Guam, the Virgin Islands, and American Samoa.
+&emsp;(3) The term "State" includes the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Marianas, Guam, the Virgin Islands, and American Samoa.
 
 (Added Pub. L. 107–314, div. B, title XXVIII, §2812(a)(1), Dec. 2, 2002, 116 Stat. 2707; amended Pub. L. 109–163, div. A, title X, §1056(a)(1), (b), Jan. 6, 2006, 119 Stat. 3438, 3439; Pub. L. 109–364, div. A, title X, §1071(a)(22), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 111–383, div. B, title XXVIII, §2803(a), Jan. 7, 2011, 124 Stat. 4458.)
 
@@ -72,9 +72,9 @@ Section 1 of Public Law 106–504 (114 Stat. 2309), referred to in subsec. (h)(2
 
 #### Amendments
 
-<b>2011</b>—Subsec. (e). Pub. L. 111–383 inserted before period at end “or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
+<b>2011</b>—Subsec. (e). Pub. L. 111–383 inserted before period at end "or, if earlier, a period of 14 days has elapsed from the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title".
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–364 substituted “Reversionary” for “Revisionary” in heading.
+<b>2006</b>—Subsec. (c). Pub. L. 109–364 substituted "Reversionary" for "Revisionary" in heading.
 
-Subsec. (i)(2) to (4). Pub. L. 109–163 struck out par. (2), which defined “base closure law”, redesignated pars. (3) and (4) as (2) and (3), respectively, and, in par. (3), substituted “Guam, the Virgin Islands, and American Samoa” for “and the territories and possessions of the United States”.
+Subsec. (i)(2) to (4). Pub. L. 109–163 struck out par. (2), which defined "base closure law", redesignated pars. (3) and (4) as (2) and (3), respectively, and, in par. (3), substituted "Guam, the Virgin Islands, and American Samoa" for "and the territories and possessions of the United States".
 

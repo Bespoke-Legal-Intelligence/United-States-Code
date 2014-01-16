@@ -28,15 +28,15 @@
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a)(4), (6). Pub. L. 101–609, §4(a)(1), (2), substituted “recommend” for “suggest”.
+<b>1990</b>—Subsec. (a)(4), (6). Pub. L. 101–609, §4(a)(1), (2), substituted "recommend" for "suggest".
 
 Subsec. (a)(9), (10). Pub. L. 101–609, §4(a)(3)–(5), added pars. (9) and (10).
 
-Subsec. (b). Pub. L. 101–609, §4(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Not later than January 31 of each year, the Commission shall—
+Subsec. (b). Pub. L. 101–609, §4(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "Not later than January 31 of each year, the Commission shall—
 
-&emsp;“(1) publish a statement of goals and objectives with respect to Arctic research to guide the Interagency Committee established under section 4106 of this title in the performance of its duties; and
+&emsp;"(1) publish a statement of goals and objectives with respect to Arctic research to guide the Interagency Committee established under section 4106 of this title in the performance of its duties; and
 
-&emsp;“(2) submit to the President and to the Congress a report describing the activities and accomplishments of the Commission during the immediately preceding fiscal year.”
+&emsp;"(2) submit to the President and to the Congress a report describing the activities and accomplishments of the Commission during the immediately preceding fiscal year."
 
 #### Termination of Reporting Requirements
 

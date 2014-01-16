@@ -6,5 +6,5 @@ There are hereby authorized to be appropriated for any fiscal year such sums as 
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–147 inserted “Appropriations for administrative expense” as section catchline and substituted “are hereby” for “is hereby” and “the Secretary's” for “his”.
+<b>1989</b>—Pub. L. 101–147 inserted "Appropriations for administrative expense" as section catchline and substituted "are hereby" for "is hereby" and "the Secretary's" for "his".
 

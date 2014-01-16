@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(E) The chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the House of Representatives and the chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the Senate.
 
-> &emsp;Each member appointed under this paragraph shall serve for a term of 3 years. Any vacancy shall be filled in the same manner as the original appointment and the individual so appointed shall serve for the remainder of the term. Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
+> &emsp;Each member appointed under this paragraph shall serve for a term of 3 years. Any vacancy shall be filled in the same manner as the original appointment and the individual so appointed shall serve for the remainder of theterm. Members of the Board shall serve without pay, but shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of their duties.
 
 #### (b) Purpose and authority of the Center
 
@@ -56,7 +56,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each organization in the United States desiring a grant under this section shall submit an application to the Center at suchtime, in such manner, and accompanied by such information as the Center may reasonably require.
+&emsp;&emsp;Each organization in the United States desiring a grant under this section shall submit an application to the Center at such time, in such manner, and accompanied by such information as the Center may reasonably require.
 
 #### (B) Contents
 
@@ -146,7 +146,7 @@ Subsec. (a)(2)(B). Pub. L. 111–68, §1601(a)(2), substituted “Senators” fo
 
 Subsec. (d). Pub. L. 111–68, §1601(b), substituted “On behalf of the Board, the Librarian of Congress shall appoint” for “The Board shall appoint”.
 
-<b>2007</b>—Subsec. (a)(2)(E). Pub. L. 109–289, §20703(d)(6), as added by Pub. L. 110–5, repealed Pub. L. 109–13, §3402(b), and amended this section to read as if Pub. L. 109–13,§3402(b), had not been enacted. See 2005 Amendment note below.
+<b>2007</b>—Subsec. (a)(2)(E). Pub. L. 109–289, §20703(d)(6), as added by Pub. L. 110–5, repealed Pub. L. 109–13, §3402(b), and amended this section to read as if Pub. L. 109–13, §3402(b), had not been enacted. See 2005 Amendment note below.
 
 <b>2005</b>—Subsec. (a)(2)(E). Pub. L. 109–13, §3402(b), which substituted “chair of the Committee on Appropriations of the House of Representatives (or another member of such Committee designated by the chair)” for “chair of the Subcommittee on Legislative Branch of the Committee on Appropriations of the House of Representatives”, was repealed by Pub. L. 109–289, §20703(d)(6), as added by Pub. L. 110–5. See Construction of 2005 Amendment note below.
 
@@ -344,7 +344,7 @@ Administering agency.—The term ‘administering agency’ means—
 
 &emsp;&emsp;“(A) for fiscal years 2000 and 2001, the Library of Congress; and
 
-&emsp;&emsp;“(B) for fiscal year 2002, and subsequent fiscal years, the Executive agency designated by the President of the United States under subsection (a)(2).
+&emsp;&emsp;“(B) for fiscal year 2002, and subsequent fiscal years, the Executive agency designated by thePresident of the United States under subsection (a)(2).
 
 &emsp;“(2)
 

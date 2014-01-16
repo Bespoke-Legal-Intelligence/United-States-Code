@@ -14,7 +14,7 @@ Except as provided in subsection (c) of this section, the Federal share of the c
 
 #### (b) Non-Federal share
 
-In determining the amount of the non-Federal share of the cost of a project, the Secretary may provide credit toward the non-Federal share forall contributions both in cash and in-kind, fairly evaluated, including contributions of space, equipment, assumptions of debt, and services.
+In determining the amount of the non-Federal share of the cost of a project, the Secretary may provide credit toward the non-Federal share for all contributions both in cash and in-kind, fairly evaluated, including contributions of space, equipment, assumptions of debt, and services.
 
 #### (c) Increase in Federal share
 
@@ -38,9 +38,9 @@ A prior section 3144, Pub. L. 89–136, title II, §204, as added Pub. L. 94–4
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–373, §202(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Subject to section 3145 of this title, the amount of a grant for a project under this subchapter shall not exceed 50 percent of the cost of the project.”
+<b>2004</b>—Subsec. (a). Pub. L. 108–373, §202(a), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "Subject to section 3145 of this title, the amount of a grant for a project under this subchapter shall not exceed 50 percent of the cost of the project."
 
-Subsec. (b). Pub. L. 108–373, §202(b), inserted “assumptions of debt,” after “equipment,”.
+Subsec. (b). Pub. L. 108–373, §202(b), inserted "assumptions of debt," after "equipment,".
 
 Subsec. (c). Pub. L. 108–373, §202(c), added subsec. (c).
 

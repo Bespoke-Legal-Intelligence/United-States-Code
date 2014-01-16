@@ -18,7 +18,7 @@
 
 #### (C) Credit base defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “credit base” means—
+&emsp;&emsp;For purposes of this paragraph, the term "credit base" means—
 
 &emsp;&emsp;&emsp;(i) the portion of the basis of any qualified rehabilitated building attributable to qualified rehabilitation expenditures,
 
@@ -36,11 +36,11 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of this paragraph and paragraph (2), the term “nonqualified nonrecourse financing” means any nonrecourse financing which is not qualified commercial financing.
+&emsp;&emsp;&emsp;For purposes of this paragraph and paragraph (2), the term "nonqualified nonrecourse financing" means any nonrecourse financing which is not qualified commercial financing.
 
 #### (ii) Qualified commercial financing
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, the term “qualified commercial financing” means any financing with respect to any property if—
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term "qualified commercial financing" means any financing with respect to any property if—
 
 &emsp;&emsp;&emsp;&emsp;(I) such property is acquired by the taxpayer from a person who is not a related person,
 
@@ -52,7 +52,7 @@
 
 #### (iii) Nonrecourse financing
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “nonrecourse financing” includes—
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "nonrecourse financing" includes—
 
 &emsp;&emsp;&emsp;&emsp;(I) any amount with respect to which the taxpayer is protected against loss through guarantees, stop-loss agreements, or other similar arrangements, and
 
@@ -62,7 +62,7 @@
 
 #### (iv) Qualified person
 
-&emsp;&emsp;&emsp;For purposes of this paragraph, the term “qualified person” means any person which is actively and regularly engaged in the business of lending money and which is not—
+&emsp;&emsp;&emsp;For purposes of this paragraph, the term "qualified person" means any person which is actively and regularly engaged in the business of lending money and which is not—
 
 &emsp;&emsp;&emsp;&emsp;(I) a related person with respect to the taxpayer,
 
@@ -72,7 +72,7 @@
 
 #### (v) Related person
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “related person” has the meaning given such term by section 465(b)(3)(C). Except as otherwise provided in regulations prescribed by the Secretary, the determination of whether a person is a related person shall be made as of the close of the taxable year in which the property is placed in service.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "related person" has the meaning given such term by section 465(b)(3)(C). Except as otherwise provided in regulations prescribed by the Secretary, the determination of whether a person is a related person shall be made as of the close of the taxable year in which the property is placed in service.
 
 #### (E) Application to partnerships and S corporations
 
@@ -92,7 +92,7 @@
 
 #### (iii) Qualified business property
 
-&emsp;&emsp;&emsp;For purposes of clause (ii), the term “qualified business property” means any property if—
+&emsp;&emsp;&emsp;For purposes of clause (ii), the term "qualified business property" means any property if—
 
 &emsp;&emsp;&emsp;&emsp;(I) such property is used by the corporation in the active conduct of a trade or business,
 
@@ -162,27 +162,27 @@ A prior section 49, Pub. L. 91–172, title VII, §703(a), Dec. 30, 1969, 83 Sta
 
 <b>2009</b>—Subsec. (a)(1)(C)(v). Pub. L. 111–5 added cl. (v).
 
-<b>2005</b>—Subsec. (a)(1)(C)(iii), (iv). Pub. L. 109–58 added cls. (iii) and (iv) and struck out former cl. (iii) which read as follows: “the amortizable basis of any qualified timber property.”
+<b>2005</b>—Subsec. (a)(1)(C)(iii), (iv). Pub. L. 109–58 added cls. (iii) and (iv) and struck out former cl. (iii) which read as follows: "the amortizable basis of any qualified timber property."
 
-<b>1998</b>—Subsec. (b)(4). Pub. L. 105–206 substituted “this chapter” for “subpart A, B, D, or G”.
+<b>1998</b>—Subsec. (b)(4). Pub. L. 105–206 substituted "this chapter" for "subpart A, B, D, or G".
 
-<b>1990</b>—Pub. L. 101–508, §11813(a), amended section generally, substituting section catchline for one which read: “Termination of regular percentage” and in text substituting present provisions for provisions relating to the nonapplicability of the regular percentage to any property placed in service after Dec. 31, 1985, for purposes of determining the investment tax credit, exceptions to such rule, the 35 percent reduction in credit for taxable years after 1986, the full basis adjustment in determining investment tax credit, and the definition of transition property and treatment of progress expenditures.
+<b>1990</b>—Pub. L. 101–508, §11813(a), amended section generally, substituting section catchline for one which read: "Termination of regular percentage" and in text substituting present provisions for provisions relating to the nonapplicability of the regular percentage to any property placed in service after Dec. 31, 1985, for purposes of determining the investment tax credit, exceptions to such rule, the 35 percent reduction in credit for taxable years after 1986, the full basis adjustment in determining investment tax credit, and the definition of transition property and treatment of progress expenditures.
 
-<b>1988</b>—Subsec. (c)(4)(B). Pub. L. 100–647, §1002(e)(2), substituted “years” for “year” in heading and amended text generally. Prior to amendment, text read as follows: “The amount of the reduction of the regular investment credit under paragraph (3)—
+<b>1988</b>—Subsec. (c)(4)(B). Pub. L. 100–647, §1002(e)(2), substituted "years" for "year" in heading and amended text generally. Prior to amendment, text read as follows: "The amount of the reduction of the regular investment credit under paragraph (3)—
 
-&emsp;“(i) may not be carried back to any taxable year, but
+&emsp;"(i) may not be carried back to any taxable year, but
 
-&emsp;“(ii) shall be added to the carryforwards from the taxable year before applying paragraph (2).”
+&emsp;"(ii) shall be added to the carryforwards from the taxable year before applying paragraph (2)."
 
-Subsec. (c)(5)(B)(i). Pub. L. 100–647, §1002(e)(3), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “The term ‘regular investment credit’ has the meaning given such term by section 48(o)”.
+Subsec. (c)(5)(B)(i). Pub. L. 100–647, §1002(e)(3), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "The term 'regular investment credit' has the meaning given such term by section 48(o)".
 
 Subsec. (c)(5)(C). Pub. L. 100–647, §1002(e)(8)(B), struck out subpar. (C) which related to portion of credits attributable to regular investment credit.
 
-Subsec. (d)(1). Pub. L. 100–647, §1002(e)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “In the case of periods after December 31, 1985, section 48(q) (relating to basis adjustment to section 38 property) shall be applied with respect to transaction property—
+Subsec. (d)(1). Pub. L. 100–647, §1002(e)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "In the case of periods after December 31, 1985, section 48(q) (relating to basis adjustment to section 38 property) shall be applied with respect to transaction property—
 
-&emsp;“(A) by substituting ‘100 percent’ for ‘50 percent’ in paragraph (1), and
+&emsp;"(A) by substituting '100 percent' for '50 percent' in paragraph (1), and
 
-&emsp;“(B) without regard to paragraph (4) thereof (relating to election of reduced credit in lieu of basis adjustment).”
+&emsp;"(B) without regard to paragraph (4) thereof (relating to election of reduced credit in lieu of basis adjustment)."
 
 #### Effective Date of 2010 Amendment
 
@@ -214,49 +214,49 @@ Amendment by section 1002(e)(8)(B) of Pub. L. 100–647 applicable to taxable ye
 
 Pub. L. 99–514, title II, §211(e), Oct. 22, 1986, 100 Stat. 2169, as amended by Pub. L. 100–647, title I, §1002(e)(4)–(7), Nov. 10, 1988, 102 Stat. 3367, 3368, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in this subsection, the amendments made by this section \[enacting this section and provisions set out below\] shall apply to property placed in service after December 31, 1985, in taxable years ending after such date. Section 49(c) of the Internal Revenue Code of 1986 (as added by subsection (a)) shall apply to taxable years ending after June 30, 1987, and to amounts carried to such taxable years.
 
-“(2)
+"(2)
 
 Exceptions for certain films.—For purposes of determining whether any property is transition property within the meaning of section 49(e) of the Internal Revenue Code of 1986—
 
-&emsp;“(A) in the case of any motion picture or television film, construction shall be treated as including production for purposes of section 203(b)(1) of this Act \[enacting provisions set out as a note under section 168 of this title\], and written contemporary evidence of an agreement (in accordance with industry practice) shall be treated as a written binding contract for such purposes,
+&emsp;"(A) in the case of any motion picture or television film, construction shall be treated as including production for purposes of section 203(b)(1) of this Act \[enacting provisions set out as a note under section 168 of this title\], and written contemporary evidence of an agreement (in accordance with industry practice) shall be treated as a written binding contract for such purposes,
 
-&emsp;“(B) in the case of any television film, a license agreement or agreement for production services between a television network and a producer shall be treated as a binding contract for purposes of section 203(b)(1)(A) of this Act, and
+&emsp;"(B) in the case of any television film, a license agreement or agreement for production services between a television network and a producer shall be treated as a binding contract for purposes of section 203(b)(1)(A) of this Act, and
 
-&emsp;“(C) a motion picture film shall be treated as described in section 203(b)(1)(A) of this Act if—
+&emsp;"(C) a motion picture film shall be treated as described in section 203(b)(1)(A) of this Act if—
 
-&emsp;&emsp;“(i) funds were raised pursuant to a public offering before September 26, 1985, for the production of such film,
+&emsp;&emsp;"(i) funds were raised pursuant to a public offering before September 26, 1985, for the production of such film,
 
-&emsp;&emsp;“(ii) 40 percent of the funds raised pursuant to such public offering are being spent on films the production of which commenced before such date, and
+&emsp;&emsp;"(ii) 40 percent of the funds raised pursuant to such public offering are being spent on films the production of which commenced before such date, and
 
-&emsp;&emsp;“(iii) all of the films funded by such public offering are required to be distributed pursuant to distribution agreements entered into before September 26, 1985.
+&emsp;&emsp;"(iii) all of the films funded by such public offering are required to be distributed pursuant to distribution agreements entered into before September 26, 1985.
 
-“(3)
+"(3)
 
 Normalization rules.—The provisions of subsection (b) \[see Normalization Rules note below\] shall apply to any violation of the normalization requirements under paragraph (1) or (2) of section 46(f) of the Internal Revenue Code of 1986 occurring in taxable years ending after December 31, 1985.
 
-“(4)
+"(4)
 
 Additional exceptions.—
 
-&emsp;“(A) Subsections (c) and (d) of section 49 of the Internal Revenue Code of 1986 shall not apply to any continuous caster facility for slabs and blooms which is subject to a lease and which is part of a project the second phase of which is a continuous slab caster which was placed in service before December 31, 1985.
+&emsp;"(A) Subsections (c) and (d) of section 49 of the Internal Revenue Code of 1986 shall not apply to any continuous caster facility for slabs and blooms which is subject to a lease and which is part of a project the second phase of which is a continuous slab caster which was placed in service before December 31, 1985.
 
-&emsp;“(B) For purposes of determining whether an automobile manufacturing facility (including equipment and incidental appurtenances) is transition property within the meaning of section 49(e), property with respect to which the Board of Directors of an automobile manufacturer formally approved the plan for the project on January 7, 1985 shall be treated as transition property and subsections (c) and (d) of section 49 of such Code shall not apply to such property, but only with respect to $70,000,000 of regular investment tax credits.
+&emsp;"(B) For purposes of determining whether an automobile manufacturing facility (including equipment and incidental appurtenances) is transition property within the meaning of section 49(e), property with respect to which the Board of Directors of an automobile manufacturer formally approved the plan for the project on January 7, 1985 shall be treated as transition property and subsections (c) and (d) of section 49 of such Code shall not apply to such property, but only with respect to $70,000,000 of regular investment tax credits.
 
-&emsp;“(C) Any solid waste disposal facility which will process and incinerate solid waste of one or more public or private entities including Dakota County, Minnesota, and with respect to which a bond carryforward from 1985 was elected in an amount equal to $12,500,000 shall be treated as transition property within the meaning of section 49(e) of the Internal Revenue Code of 1986.
+&emsp;"(C) Any solid waste disposal facility which will process and incinerate solid waste of one or more public or private entities including Dakota County, Minnesota, and with respect to which a bond carryforward from 1985 was elected in an amount equal to $12,500,000 shall be treated as transition property within the meaning of section 49(e) of the Internal Revenue Code of 1986.
 
-&emsp;“(D) For purposes of section 49 of such Code, the following property shall be treated as transition property:
+&emsp;"(D) For purposes of section 49 of such Code, the following property shall be treated as transition property:
 
-&emsp;&emsp;“(i) 2 catamarans built by a shipbuilder incorporated in the State of Washington in 1964, the contracts for which were signed on April 22, 1986 and November 12, 1985, and 1 barge built by such shipbuilder the contract for which was signed on August 7, 1985.
+&emsp;&emsp;"(i) 2 catamarans built by a shipbuilder incorporated in the State of Washington in 1964, the contracts for which were signed on April 22, 1986 and November 12, 1985, and 1 barge built by such shipbuilder the contract for which was signed on August 7, 1985.
 
-&emsp;&emsp;“(ii) 2 large passenger ocean-going United States flag cruise ships with a passenger rated capacity of up to 250 which are built by the shipbuilder described in clause (i), which are the first such ships built in the United States since 1952, and which were designed at the request of a Pacific Coast cruise line pursuant to a contract entered into in October 1985. This clause shall apply only to that portion of the cost of each ship which does not exceed $40,000,000.
+&emsp;&emsp;"(ii) 2 large passenger ocean-going United States flag cruise ships with a passenger rated capacity of up to 250 which are built by the shipbuilder described in clause (i), which are the first such ships built in the United States since 1952, and which were designed at the request of a Pacific Coast cruise line pursuant to a contract entered into in October 1985. This clause shall apply only to that portion of the cost of each ship which does not exceed $40,000,000.
 
-&emsp;&emsp;“(iii) Property placed in service during 1986 by Satellite Industries, Inc., with headquarters in Minneapolis, Minnesota, to the extent that the cost of such property does not exceed $1,950,000.
+&emsp;&emsp;"(iii) Property placed in service during 1986 by Satellite Industries, Inc., with headquarters in Minneapolis, Minnesota, to the extent that the cost of such property does not exceed $1,950,000.
 
-&emsp;“(E) Subsections (c) and (d) of section 49 of such Code shall not apply to property described in section 204(a)(4) of this Act \[enacting provisions set out as a note under section 168 of this title\].”
+&emsp;"(E) Subsections (c) and (d) of section 49 of such Code shall not apply to property described in section 204(a)(4) of this Act \[enacting provisions set out as a note under section 168 of this title\]."
 
 #### Savings Provision
 
@@ -264,37 +264,37 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 
 #### Normalization Rules
 
-Pub. L. 99–514, title II, §211(b), Oct. 22, 1986, 100 Stat. 2168, provided that: “If, for any taxable year beginning after December 31, 1985, the requirements of paragraph (1) or (2) of section 46(f) of the Internal Revenue Codeof 1986 are not met with respect to public utility property to which the regular percentage applied for purposes of determining the amount of the investment tax credit—
+Pub. L. 99–514, title II, §211(b), Oct. 22, 1986, 100 Stat. 2168, provided that: "If, for any taxable year beginning after December 31, 1985, the requirements of paragraph (1) or (2) of section 46(f) of the Internal Revenue Codeof 1986 are not met with respect to public utility property to which the regular percentage applied for purposes of determining the amount of the investment tax credit—
 
-&emsp;“(1) all credits for open taxable years as of the time of the final determination referred to in section 46(f)(4)(A) of such Code shall be recaptured, and
+&emsp;"(1) all credits for open taxable years as of the time of the final determination referred to in section 46(f)(4)(A) of such Code shall be recaptured, and
 
-&emsp;“(2) if the amount of the taxpayer's unamortized credits (or the credits not previously restored to rate base) with respect to such property (whether or not for open years) exceeds the amount referred to in paragraph (1), the taxpayer's tax for the taxable year shall be increased by the amount of such excess.
+&emsp;"(2) if the amount of the taxpayer's unamortized credits (or the credits not previously restored to rate base) with respect to such property (whether or not for open years) exceeds the amount referred to in paragraph (1), the taxpayer's tax for the taxable year shall be increased by the amount of such excess.
 
-> If any portion of the excess described in paragraph (2) is attributable to a credit which is allowable as a carryover to a taxable year beginning after December 31, 1985, in lieu of applying paragraph (2) with respect to such portion, the amount of such carryover shall be reduced by the amount of such portion. Rules similar to the rules of this subsection shall apply in the case of any property with respect to which the requirements of section 46(f)(9) of such Code are met.”
+> If any portion of the excess described in paragraph (2) is attributable to a credit which is allowable as a carryover to a taxable year beginning after December 31, 1985, in lieu of applying paragraph (2) with respect to such portion, the amount of such carryover shall be reduced by the amount of such portion. Rules similar to the rules of this subsection shall apply in the case of any property with respect to which the requirements of section 46(f)(9) of such Code are met."
 
 #### Exception for Certain Aircraft Used in Alaska
 
 Pub. L. 99–514, title II, §211(d), Oct. 22, 1986, 100 Stat. 2168, provided that:
 
-“(1) The amendments made by subsection (a) \[enacting this section and provisions set out above\] shall not apply to property originally placed in service after December 29, 1982, and before August 1, 1985, by a corporation incorporated in Alaska on May 21, 1953, and used by it—
+"(1) The amendments made by subsection (a) \[enacting this section and provisions set out above\] shall not apply to property originally placed in service after December 29, 1982, and before August 1, 1985, by a corporation incorporated in Alaska on May 21, 1953, and used by it—
 
-&emsp;“(A) in part, for the transportation of mail for the United States Postal Service in the State of Alaska, and
+&emsp;"(A) in part, for the transportation of mail for the United States Postal Service in the State of Alaska, and
 
-&emsp;“(B) in part, to provide air service in the State of Alaska on routes which had previously been served by an air carrier that received compensation from the Civil Aeronautics Board for providing service.
+&emsp;"(B) in part, to provide air service in the State of Alaska on routes which had previously been served by an air carrier that received compensation from the Civil Aeronautics Board for providing service.
 
-“(2) In the case of property described in subparagraph (A)—
+"(2) In the case of property described in subparagraph (A)—
 
-&emsp;“(A) such property shall be treated as recovery property described in section 208(d)(5) of the Tax Equity and Fiscal Responsibility Act of 1982 (‘TEFRA’) \[section 208(d)(5) of Pub. L. 97–248, enacting provisions set out as a note under section 168 of this title\];
+&emsp;"(A) such property shall be treated as recovery property described in section 208(d)(5) of the Tax Equity and Fiscal Responsibility Act of 1982 ('TEFRA') \[section 208(d)(5) of Pub. L. 97–248, enacting provisions set out as a note under section 168 of this title\];
 
-&emsp;“(B) ‘48 months’ shall be substituted for ‘3 months’ each place it appears in applying—
+&emsp;"(B) '48 months' shall be substituted for '3 months' each place it appears in applying—
 
-&emsp;&emsp;“(i) section 48(b)(2)(B) of the Code \[26 U.S.C. 48(b)(2)(B)\], and
+&emsp;&emsp;"(i) section 48(b)(2)(B) of the Code \[26 U.S.C. 48(b)(2)(B)\], and
 
-&emsp;&emsp;“(ii) section 168(f)(8)(D) of the Code \[26 U.S.C. 168(f)(8)(D)\] (as in effect after the amendments made by the Technical Corrections Act of 1982 \[Pub. L. 97–448\] but before the amendments made by TEFRA); and
+&emsp;&emsp;"(ii) section 168(f)(8)(D) of the Code \[26 U.S.C. 168(f)(8)(D)\] (as in effect after the amendments made by the Technical Corrections Act of 1982 \[Pub. L. 97–448\] but before the amendments made by TEFRA); and
 
-&emsp;“(C) the limitation of section 168(f)(8)(D)(ii)(III) (as then in effect) shall be read by substituting ‘the lessee's original cost basis.’, for ‘the adjusted basis of the lessee at the time of the lease.’
+&emsp;"(C) the limitation of section 168(f)(8)(D)(ii)(III) (as then in effect) shall be read by substituting 'the lessee's original cost basis.', for 'the adjusted basis of the lessee at the time of the lease.'
 
-“(3) The aggregate amount of property to which this paragraph shall apply shall not exceed $60,000,000.”
+"(3) The aggregate amount of property to which this paragraph shall apply shall not exceed $60,000,000."
 
 <i><sup>1</sup></i><i> So in original. Probably should not be hyphenated.</i>
 

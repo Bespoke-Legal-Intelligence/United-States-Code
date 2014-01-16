@@ -38,7 +38,7 @@ Contents.—The regulations issued under this section shall include, at a minimu
 
 &emsp;&emsp;(I) a prohibition on intermodal equipment providers from placing intermodal equipment in service on the public highways to the extent such providers or their equipment are found to pose an imminent hazard;
 
-&emsp;&emsp;(J) a process by which motor carriers and agents of motor carriers shall be able to request the Federal Motor Carrier Safety Administration to undertake an investigation of an intermodal equipment provider identified under subparagraph (A) that is allegedto be not in compliance with the regulations under this section;
+&emsp;&emsp;(J) a process by which motor carriers and agents of motor carriers shall be able to request the Federal Motor Carrier Safety Administration to undertake an investigation of an intermodal equipment provider identified under subparagraph (A) that is alleged to be not in compliance with the regulations under this section;
 
 &emsp;&emsp;(K) a process by which equipment providers and agents of equipment providers shall be able to request the Administration to undertake an investigation of a motor carrier that is alleged to be not in compliance with the regulations issued under this section;
 
@@ -94,19 +94,19 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Intermodal equipment.—The term “intermodal equipment” means trailing equipment that is used in the intermodal transportation of containers over public highways in interstate commerce, including trailers and chassis.
+Intermodal equipment.—The term "intermodal equipment" means trailing equipment that is used in the intermodal transportation of containers over public highways in interstate commerce, including trailers and chassis.
 
 &emsp;(2)
 
-Intermodal equipment interchange agreement.—The term “intermodal equipment interchange agreement” means the Uniform Intermodal Interchange and Facilities Access Agreement or any other written document executed by an intermodal equipment provider or its agent and a motor carrier or its agent, the primary purpose of which is to establish the responsibilities and liabilities of both parties with respect to the interchange of the intermodal equipment.
+Intermodal equipment interchange agreement.—The term "intermodal equipment interchange agreement" means the Uniform Intermodal Interchange and Facilities Access Agreement or any other written document executed by an intermodal equipment provider or its agent and a motor carrier or its agent, the primary purpose of which is to establish the responsibilities and liabilities of both parties with respect to the interchange of the intermodal equipment.
 
 &emsp;(3)
 
-Intermodal equipment provider.—The term “intermodal equipment provider” means any person that interchanges intermodal equipment with a motor carrier pursuant to a written interchange agreement or has a contractual responsibility for the maintenance of the intermodal equipment.
+Intermodal equipment provider.—The term "intermodal equipment provider" means any person that interchanges intermodal equipment with a motor carrier pursuant to a written interchange agreement or has a contractual responsibility for the maintenance of the intermodal equipment.
 
 &emsp;(4)
 
-Interchange.—The term “interchange”—
+Interchange.—The term "interchange"—
 
 &emsp;&emsp;(A) means the act of providing intermodal equipment to a motor carrier pursuant to an intermodal equipment interchange agreement for the purpose of transporting the equipment for loading or unloading by any person or repositioning the equipment for the benefit of the equipment provider; but
 
@@ -120,11 +120,11 @@ The date of enactment of this section, referred to in subsec. (a)(3)(E)(ii), is 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §32931(b)(1), amended par. (1) generally. Prior to amendment, text read as follows: “Not later than 1 year after the date of enactment of this section, the Secretary of Transportation, after providing notice and opportunity for comment, shall issue regulations establishing a program to ensure that intermodal equipment used to transport intermodal containers is safe and systematically maintained.”
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §32931(b)(1), amended par. (1) generally. Prior to amendment, text read as follows: "Not later than 1 year after the date of enactment of this section, the Secretary of Transportation, after providing notice and opportunity for comment, shall issue regulations establishing a program to ensure that intermodal equipment used to transport intermodal containers is safe and systematically maintained."
 
-Subsec. (a)(4). Pub. L. 112–141, §32931(b)(2), struck out par. (4). Text read as follows: “Not later than 120 days after the date of enactment of this section, the Secretary shall initiate a rulemaking proceeding for issuance of the regulations under this section.”
+Subsec. (a)(4). Pub. L. 112–141, §32931(b)(2), struck out par. (4). Text read as follows: "Not later than 120 days after the date of enactment of this section, the Secretary shall initiate a rulemaking proceeding for issuance of the regulations under this section."
 
-<b>2008</b>—Subsec. (a)(3)(E)(ii). Pub. L. 110–244 substituted “section” for “Act”.
+<b>2008</b>—Subsec. (a)(3)(E)(ii). Pub. L. 110–244 substituted "section" for "Act".
 
 #### Effective Date of 2012 Amendment
 

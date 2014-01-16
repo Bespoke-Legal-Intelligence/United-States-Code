@@ -34,7 +34,7 @@ Provisions similar to those contained in this section, which related to membersh
 
 #### Amendments
 
-<b>1981</b>—Subsec. (b)(2). Pub. L. 97–87 struck out “, or until ninety days after such date, whichever is earlier” after “until his or her successor has taken office”.
+<b>1981</b>—Subsec. (b)(2). Pub. L. 97–87 struck out ", or until ninety days after such date, whichever is earlier" after "until his or her successor has taken office".
 
 <b>1978</b>—Subsec. (b)(1). Pub. L. 95–304 substituted provisions authorizing terms of members to expire on July 1, 1979, July 1, 1980, and July 1, 1981, respectively, for provisions authorizing terms of members to be for 1 year, 2 years, and 3 years, respectively.
 

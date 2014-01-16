@@ -4,7 +4,7 @@ In this chapter:
 
 #### (1) Adjusted share
 
-&emsp;The term “adjusted share” means the number equal to the quotient obtained by dividing—
+&emsp;The term "adjusted share" means the number equal to the quotient obtained by dividing—
 
 &emsp;&emsp;(A) the number equal to the quotient obtained by dividing—
 
@@ -16,7 +16,7 @@ In this chapter:
 
 #### (2) Base share
 
-&emsp;The term “base share” means the number equal to the average of—
+&emsp;The term "base share" means the number equal to the average of—
 
 &emsp;&emsp;(A) the quotient obtained by dividing—
 
@@ -32,11 +32,11 @@ In this chapter:
 
 #### (3) County payment
 
-&emsp;The term “county payment” means the payment for an eligible county calculated under section 7111(b) of this title.
+&emsp;The term "county payment" means the payment for an eligible county calculated under section 7111(b) of this title.
 
 #### (4) Eligible county
 
-&emsp;The term “eligible county” means any county that—
+&emsp;The term "eligible county" means any county that—
 
 &emsp;&emsp;(A) contains Federal land (as defined in paragraph (7)); and
 
@@ -44,23 +44,23 @@ In this chapter:
 
 #### (5) Eligibility period
 
-&emsp;The term “eligibility period” means fiscal year 1986 through fiscal year 1999.
+&emsp;The term "eligibility period" means fiscal year 1986 through fiscal year 1999.
 
 #### (6) Eligible State
 
-&emsp;The term “eligible State” means a State or territory of the United States that received a 25-percent payment for 1 or more fiscal years of the eligibility period.
+&emsp;The term "eligible State" means a State or territory of the United States that received a 25-percent payment for 1 or more fiscal years of the eligibility period.
 
 #### (7) Federal land
 
-&emsp;The term “Federal land” means—
+&emsp;The term "Federal land" means—
 
 &emsp;&emsp;(A) land within the National Forest System, as defined in section 1609(a) of this title exclusive of the National Grasslands and land utilization projects designated as National Grasslands administered pursuant to the Act of July 22, 1937 (7 U.S.C. 1010–1012); and
 
-&emsp;&emsp;(B) such portions of the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land as are or may hereafter come under the jurisdiction of the Department of the Interior, which have heretofore or may hereafter be classified as timberlands, and power-site land valuablefor timber, that shall be managed, except as provided in the former section 3 of the Act of August 28, 1937 (50 Stat. 875; 43 U.S.C. 1181c), for permanent forest production.
+&emsp;&emsp;(B) such portions of the revested Oregon and California Railroad and reconveyed Coos Bay Wagon Road grant land as are or may hereafter come under the jurisdiction of the Department of the Interior, which have heretofore or may hereafter be classified as timberlands, and power-site land valuable for timber, that shall be managed, except as provided in the former section 3 of the Act of August 28, 1937 (50 Stat. 875; 43 U.S.C. 1181c), for permanent forest production.
 
 #### (8) 50-percent adjusted share
 
-&emsp;The term “50-percent adjusted share” means the number equal to the quotient obtained by dividing—
+&emsp;The term "50-percent adjusted share" means the number equal to the quotient obtained by dividing—
 
 &emsp;&emsp;(A) the number equal to the quotient obtained by dividing—
 
@@ -72,7 +72,7 @@ In this chapter:
 
 #### (9) 50-percent base share
 
-&emsp;The term “50-percent base share” means the number equal to the average of—
+&emsp;The term "50-percent base share" means the number equal to the average of—
 
 &emsp;&emsp;(A) the quotient obtained by dividing—
 
@@ -88,11 +88,11 @@ In this chapter:
 
 #### (10) 50-percent payment
 
-&emsp;The term “50-percent payment” means the payment that is the sum of the 50-percent share otherwise paid to a county pursuant to title II of the Act of August 28, 1937 (chapter 876; 50 Stat. 875; 43 U.S.C. 1181f), and the payment made to a county pursuant to the Act of May 24, 1939 (chapter 144; 53 Stat. 753; 43 U.S.C. 1181f–1 et seq.).
+&emsp;The term "50-percent payment" means the payment that is the sum of the 50-percent share otherwise paid to a county pursuant to title II of the Act of August 28, 1937 (chapter 876; 50 Stat. 875; 43 U.S.C. 1181f), and the payment made to a county pursuant to the Act of May 24, 1939 (chapter 144; 53 Stat. 753; 43 U.S.C. 1181f–1 et seq.).
 
 #### (11) Full funding amount
 
-&emsp;The term “full funding amount” means—
+&emsp;The term "full funding amount" means—
 
 &emsp;&emsp;(A) $500,000,000 for fiscal year 2008;
 
@@ -102,7 +102,7 @@ In this chapter:
 
 #### (12) Income adjustment
 
-&emsp;The term “income adjustment” means the square of the quotient obtained by dividing—
+&emsp;The term "income adjustment" means the square of the quotient obtained by dividing—
 
 &emsp;&emsp;(A) the per capita personal income for each eligible county; by
 
@@ -110,15 +110,15 @@ In this chapter:
 
 #### (13) Per capita personal income
 
-&emsp;The term “per capita personal income” means the most recent per capita personal income data, as determined by the Bureau of Economic Analysis.
+&emsp;The term "per capita personal income" means the most recent per capita personal income data, as determined by the Bureau of Economic Analysis.
 
 #### (14) Safety net payments
 
-&emsp;The term “safety net payments” means the special payment amounts paid to States and counties required by section 13982 or 13983 <sup>2</sup> of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; 16 U.S.C. 500 note; 43 U.S.C. 1181f note).
+&emsp;The term "safety net payments" means the special payment amounts paid to States and counties required by section 13982 or 13983 <sup>2</sup> of the Omnibus Budget Reconciliation Act of 1993 (Public Law 103–66; 16 U.S.C. 500 note; 43 U.S.C. 1181f note).
 
 #### (15) Secretary concerned
 
-&emsp;The term “Secretary concerned” means—
+&emsp;The term "Secretary concerned" means—
 
 &emsp;&emsp;(A) the Secretary of Agriculture or the designee of the Secretary of Agriculture with respect to the Federal land described in paragraph (7)(A); and
 
@@ -126,17 +126,17 @@ In this chapter:
 
 #### (16) State payment
 
-&emsp;The term “State payment” means the payment for an eligible State calculated under section 7111(a) of this title.
+&emsp;The term "State payment" means the payment for an eligible State calculated under section 7111(a) of this title.
 
 #### (17) 25-percent payment
 
-&emsp;The term “25-percent payment” means the payment to States required by the sixth paragraph under the heading of “FOREST SERVICE” in the Act of May 23, 1908 (35 Stat. 260; 16 U.S.C. 500), and section 13 of the Act of March 1, 1911 (36 Stat. 963; 16 U.S.C. 500).
+&emsp;The term "25-percent payment" means the payment to States required by the sixth paragraph under the heading of "FOREST SERVICE" in the Act of May 23, 1908 (35 Stat. 260; 16 U.S.C. 500), and section 13 of the Act of March 1, 1911 (36 Stat. 963; 16 U.S.C. 500).
 
 (Pub. L. 106–393, §3, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3894; amended Pub. L. 112–141, div. F, title I, §100101(a)(1), July 6, 2012, 126 Stat. 905.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607, known as the Secure Rural Schools and Community Self-Determination Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 106–393, Oct. 30, 2000, 114 Stat. 1607, known as the Secure Rural Schools and Community Self-Determination Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 The Act of July 22, 1937, referred to in par. (7)(A), is act July 22, 1937, ch. 517, 50 Stat. 522, known as the Bankhead-Jones Farm Tenant Act, which is classified generally to chapter 33 (§1000 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 1000 of Title 7 and Tables.
 
@@ -152,9 +152,9 @@ A prior section 3 of Pub. L. 106–393 was set out in a note under section 500 o
 
 #### Amendments
 
-<b>2012</b>—Par. (11). Pub. L. 112–141 substituted “each of fiscal years 2009 through 2011” for “fiscal year 2009 and each fiscal year thereafter” in subpar. (B) and added subpar. (C).
+<b>2012</b>—Par. (11). Pub. L. 112–141 substituted "each of fiscal years 2009 through 2011" for "fiscal year 2009 and each fiscal year thereafter" in subpar. (B) and added subpar. (C).
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "of".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

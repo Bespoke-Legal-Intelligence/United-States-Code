@@ -11,7 +11,7 @@
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455, title X, §1042(d)(2)(F), Oct. 4, 1976, 90 Stat. 1639, struck out in item relating to part IV “relating to qualification of certain retirement plans” after “Declaratory judgments”.
+<b>1976</b>—Pub. L. 94–455, title X, §1042(d)(2)(F), Oct. 4, 1976, 90 Stat. 1639, struck out in item relating to part IV "relating to qualification of certain retirement plans" after "Declaratory judgments".
 
 <b>1974</b>—Pub. L. 93–406, title II, §1041(c), Sept. 2, 1974, 88 Stat. 951, inserted item relating to part IV.
 

@@ -16,7 +16,7 @@ In this part:
 
 #### (1) Community learning center
 
-&emsp;The term “community learning center” means an entity that—
+&emsp;The term "community learning center" means an entity that—
 
 &emsp;&emsp;(A) assists students in meeting State and local academic achievement standards in core academic subjects, such as reading and mathematics, by providing the students with opportunities for academic enrichment activities and a broad array of other activities (such as drug and violence prevention, counseling, art, music, recreation, technology, and character education programs) during nonschool hours or periods when school is not in session (such as before and after school or during summer recess) that reinforce and complement the regular academic programs of the schools attended by the students served; and
 
@@ -24,7 +24,7 @@ In this part:
 
 #### (2) Covered program
 
-&emsp;The term “covered program” means a program for which—
+&emsp;The term "covered program" means a program for which—
 
 &emsp;&emsp;(A) the Secretary made a grant under part I of title X (as such part was in effect on the day before January 8, 2002); and
 
@@ -32,11 +32,11 @@ In this part:
 
 #### (3) Eligible entity
 
-&emsp;The term “eligible entity” means a local educational agency, community-based organization, another public or private entity, or a consortium of two or more of such agencies, organizations, or entities.
+&emsp;The term "eligible entity" means a local educational agency, community-based organization, another public or private entity, or a consortium of two or more of such agencies, organizations, or entities.
 
 #### (4) State
 
-&emsp;The term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;The term "State" means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 (Pub. L. 89–10, title IV, §4201, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1765.)
 

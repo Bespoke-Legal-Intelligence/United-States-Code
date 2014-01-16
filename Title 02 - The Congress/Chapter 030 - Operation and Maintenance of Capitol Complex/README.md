@@ -16,6 +16,7 @@
 | [2010\.](Subchapter%20001%20%28I%29%20-%20House%20of%20Representatives/%C2%A7%2002010%20-%20Assignment%20of%20rooms%3B%20control%20of%20by%20House.md) | Assignment of rooms; control of by House. |
 | [2011\.](Subchapter%20001%20%28I%29%20-%20House%20of%20Representatives/%C2%A7%2002011%20-%20Assignment%20of%20unoccupied%20space.md) | Assignment of unoccupied space. |
 | [2012\.](Subchapter%20001%20%28I%29%20-%20House%20of%20Representatives/%C2%A7%2002012%20-%20Furniture%20for%20House%20of%20Representatives.md) | Furniture for House of Representatives. |
+| [2013\.](Subchapter%20001%20%28I%29%20-%20House%20of%20Representatives/%C2%A7%2002013%20-%20Revolving%20fund%20for%20House%20gymnasium%3B%20deposit%20of%20receipts%3B%20availability%20for%20expenditure.md) | Revolving fund for House gymnasium; deposit of receipts; availability for expenditure. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -28,6 +29,7 @@
 | [2023\.](Subchapter%20002%20%28II%29%20-%20Senate/%C2%A7%2002023%20-%20Control%2C%20care%2C%20and%20supervision%20of%20Senate%20Office%20Building.md) | Control, care, and supervision of Senate Office Building. |
 | [2024\.](Subchapter%20002%20%28II%29%20-%20Senate/%C2%A7%2002024%20-%20Assignment%20of%20space%20in%20Senate%20Office%20Building.md) | Assignment of space in Senate Office Building. |
 | [2025\.](Subchapter%20002%20%28II%29%20-%20Senate/%C2%A7%2002025%20-%20Senate%20Garage.md) | Senate Garage. |
+| [2026\.](Subchapter%20002%20%28II%29%20-%20Senate/%C2%A7%2002026%20-%20Senate%20Staff%20Health%20and%20Fitness%20Facility%20Revolving%20Fund.md) | Senate Staff Health and Fitness Facility Revolving Fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -46,6 +48,7 @@
 | [2049\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002049%20-%20Loans%20for%20Senate%20Restaurants.md) | Loans for Senate Restaurants. |
 | [2050\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002050%20-%20Transfer%20of%20appropriations%20for%20management%20personnel%20and%20miscellaneous%20restaurant%20expenses%20to%20special%20deposit%20account.md) | Transfer of appropriations for management personnel and miscellaneous restaurant expenses to special deposit account. |
 | [2051\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002051%20-%20Continued%20benefits%20for%20certain%20Senate%20Restaurants%20employees.md) | Continued benefits for certain Senate Restaurants employees. |
+| [2052\.](Subchapter%20003%20%28III%29%20-%20Restaurants/%C2%A7%2002052%20-%20Senate%20restaurant%20deficit%20fund%3B%20deposit%20of%20proceeds%20from%20surcharge%20on%20orders.md) | Senate restaurant deficit fund; deposit of proceeds from surcharge on orders. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -131,7 +134,7 @@
 
 |  |  |
 | :--- | ---: |
-| [2161\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002161%20-%20John%20W.%20McCormack%20Residential%20Page%20School.md) | John W. McCormack Residential Page School. |
+| [2161\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002161%20-%20Transferred.md) | Transferred. |
 | [2162\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002162%20-%20Capitol%20Power%20Plant.md) | Capitol Power Plant. |
 | [2162a.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002162a%20-%20Promoting%20maximum%20efficiency%20in%20operation%20of%20Capitol%20Power%20Plant.md) | Promoting maximum efficiency in operation of Capitol Power Plant. |
 | [2163\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002163%20-%20Capitol%20Grounds%20shuttle%20service.md) | Capitol Grounds shuttle service. |
@@ -142,6 +145,7 @@
 | [2169\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002169%20-%20Capitol%20complex%20E%E2%80%9385%20refueling%20station.md) | Capitol complex E–85 refueling station. |
 | [2170\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002170%20-%20Battery%20recharging%20stations%20for%20privately%20owned%20vehicles%20in%20parking%20areas%20under%20the%20jurisdiction%20of%20the%20Senate%20at%20no%20net%20cost%20to%20the%E2%80%A6.md) | Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the Senate at no net cost to the Federal Government. |
 | [2171\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002171%20-%20Battery%20recharging%20stations%20for%20privately%20owned%20vehicles%20in%20parking%20areas%20under%20the%20jurisdiction%20of%20the%20House%20of%20Representatives%20at%20no%20net%E2%80%A6.md) | Battery recharging stations for privately owned vehicles in parking areas under the jurisdiction of the House of Representatives at no net cost to the Federal Government. |
+| [2172\.](Subchapter%20007%20%28VII%29%20-%20Other%20Entities%20and%20Services/%C2%A7%2002172%20-%20Office%20of%20Congressional%20Accessibility%20Services.md) | Office of Congressional Accessibility Services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

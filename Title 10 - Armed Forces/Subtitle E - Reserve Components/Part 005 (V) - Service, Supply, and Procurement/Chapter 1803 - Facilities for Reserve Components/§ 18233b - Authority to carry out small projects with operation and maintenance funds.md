@@ -6,9 +6,9 @@ Under such regulations as the Secretary of Defense may prescribe, the Secretary 
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81 substituted “not more than the amount specified in section 2805(c) of this title.” for “not more than—
+<b>2011</b>—Pub. L. 112–81 substituted "not more than the amount specified in section 2805(c) of this title." for "not more than—
 
-&emsp;“(1) the amount specified in section 2805(c)(1)(A) of this title, in the case of a project intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening; or
+&emsp;"(1) the amount specified in section 2805(c)(1)(A) of this title, in the case of a project intended solely to correct a deficiency that is life-threatening, health-threatening, or safety-threatening; or
 
-&emsp;“(2) the amount specified in section 2805(c)(1)(B) of this title, in the case of any other project.”
+&emsp;"(2) the amount specified in section 2805(c)(1)(B) of this title, in the case of any other project."
 

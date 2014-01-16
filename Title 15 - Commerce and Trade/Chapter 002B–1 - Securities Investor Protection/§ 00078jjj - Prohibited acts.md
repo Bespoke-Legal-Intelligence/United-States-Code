@@ -44,7 +44,7 @@ It shall be unlawful for any broker or dealer for whom a trustee has been appoin
 
 #### (1) In general
 
-&emsp;Any person who falsely represents by any means (including, without limitation, through the Internet or any other medium of mass communication), with actual knowledge of the falsity of the representation and with an intent to deceive or cause injury to another, that such person, or another person, is a member of SIPC or that any person or account is protected or is eligible for protection under this chapter or by SIPC, shall be liable for any damages caused thereby and shall be fined notmore than $250,000 or imprisoned for not more than 5 years.
+&emsp;Any person who falsely represents by any means (including, without limitation, through the Internet or any other medium of mass communication), with actual knowledge of the falsity of the representation and with an intent to deceive or cause injury to another, that such person, or another person, is a member of SIPC or that any person or account is protected or is eligible for protection under this chapter or by SIPC, shall be liable for any damages caused thereby and shall be fined not more than $250,000 or imprisoned for not more than 5 years.
 
 #### (2) Injunctions
 
@@ -54,21 +54,21 @@ It shall be unlawful for any broker or dealer for whom a trustee has been appoin
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(1). Pub. L. 111–203, §929V(b)(1), substituted “$250,000” for “$50,000” in concluding provisions.
+<b>2010</b>—Subsec. (c)(1). Pub. L. 111–203, §929V(b)(1), substituted "$250,000" for "$50,000" in concluding provisions.
 
-Subsec. (c)(2). Pub. L. 111–203, §929V(b)(2), substituted “$250,000” for “$50,000”.
+Subsec. (c)(2). Pub. L. 111–203, §929V(b)(2), substituted "$250,000" for "$50,000".
 
 Subsec. (d). Pub. L. 111–203, §929V(c), added subsec. (d).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–283, §13(a), inserted “and penalty” after “interest”, and substituted “it” for “he” wherever appearing.
+<b>1978</b>—Subsec. (a). Pub. L. 95–283, §13(a), inserted "and penalty" after "interest", and substituted "it" for "he" wherever appearing.
 
-Subsec. (b). Pub. L. 95–283, §13(b), in heading inserted “or initiation of direct payment procedure” after “trustee”, and in text inserted references to initiation of direct payment procedure in two places.
+Subsec. (b). Pub. L. 95–283, §13(b), in heading inserted "or initiation of direct payment procedure" after "trustee", and in text inserted references to initiation of direct payment procedure in two places.
 
-Subsec. (c). Pub. L. 95–283, §13(c), in heading substituted “Concealment of assets; false statements or claims” for “Embezzlement, etc., of assets of SIPC”, added par. (1), and designated existing provisions as par. (2) and, as so designated, inserted references to direct or indirect acts, and provisions covering defrauding or attempts to defraud SIPC or a trustee, and substituted provisions covering activities constituting fraudulent, or with intent to defeat this chapter, abstracts or conversions, for provisions covering activities constituting unlawfully abstracting or unlawfully and willfully converting moneys, etc.
+Subsec. (c). Pub. L. 95–283, §13(c), in heading substituted "Concealment of assets; false statements or claims" for "Embezzlement, etc., of assets of SIPC", added par. (1), and designated existing provisions as par. (2) and, as so designated, inserted references to direct or indirect acts, and provisions covering defrauding or attempts to defraud SIPC or a trustee, and substituted provisions covering activities constituting fraudulent, or with intent to defeat this chapter, abstracts or conversions, for provisions covering activities constituting unlawfully abstracting or unlawfully and willfully converting moneys, etc.
 
 #### Effective Date of 2010 Amendment
 

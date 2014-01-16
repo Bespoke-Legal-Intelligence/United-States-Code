@@ -4,11 +4,11 @@
 
 #### (1) Comprehensive primary health care services
 
-&emsp;In this section, the term “comprehensive primary health care services” means the primary health services described in section 254b(b)(1) of this title.
+&emsp;In this section, the term "comprehensive primary health care services" means the primary health services described in section 254b(b)(1) of this title.
 
 #### (2) Nurse-managed health clinic
 
-&emsp;The term “nurse-managed health clinic” means a nurse-practice arrangement, managed by advanced practice nurses, that provides primary care or wellness services to underserved or vulnerable populations and that is associated with a school, college, university or department of nursing, federally qualified health center, or independent nonprofit health or social services agency.
+&emsp;The term "nurse-managed health clinic" means a nurse-practice arrangement, managed by advanced practice nurses, that provides primary care or wellness services to underserved or vulnerable populations and that is associated with a school, college, university or department of nursing, federally qualified health center, or independent nonprofit health or social services agency.
 
 #### (b) Authority to award grants
 
@@ -44,5 +44,5 @@ For the purposes of carrying out this section, there are authorized to be approp
 
 #### Purpose
 
-Pub. L. 111–148, title V, §5208(a), Mar. 23, 2010, 124 Stat. 612, provided that: “The purpose of this section \[enacting this section\] is to fund the development and operation of nurse-managed health clinics.”
+Pub. L. 111–148, title V, §5208(a), Mar. 23, 2010, 124 Stat. 612, provided that: "The purpose of this section \[enacting this section\] is to fund the development and operation of nurse-managed health clinics."
 

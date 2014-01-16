@@ -2,11 +2,11 @@
 
 #### (a) Congressional declaration of purpose
 
-To ensure the coordinated economic revitalization and environmental enhancement of the Great Lakes and their connecting channels and the Saint Lawrence Seaway (hereinafter in this section referred to as the “Great Lakes”), known as the “Fourth Seacoast” of the United States, it is hereby declared to be the intent of Congress to recognize the importance of the economic vitality of the Great Lakes region, the importance of exports from the region in the United States balance of trade, and the need to assure an environmentally and socially responsible navigation system for the Great Lakes. Congress finds that the Great Lakes provide a diversity of agricultural, commercial, environmental, recreational, and related opportunities based on their extensive water resources and water transportation systems.
+To ensure the coordinated economic revitalization and environmental enhancement of theGreat Lakes and their connecting channels and the Saint Lawrence Seaway (hereinafter in this section referred to as the "Great Lakes"), known as the "Fourth Seacoast" of the United States, it is hereby declared to be the intent of Congress to recognize the importance of the economic vitality of the Great Lakes region, the importance of exports from the region in the United States balance of trade, and the need to assure an environmentally and socially responsible navigation system for the Great Lakes. Congress finds that the Great Lakes provide a diversity of agricultural, commercial, environmental, recreational, and related opportunities based on their extensive water resources and water transportation systems.
 
 #### (b) Establishment; strategy development; composition of Board; Director; report; termination
 
-(1) There is hereby established a Board to be known as the Great Lakes Commodities Marketing Board (hereinafter in this subsection referred to as the “Board”).
+(1) There is hereby established a Board to be known as the Great Lakes Commodities Marketing Board (hereinafter in this subsection referred to as the "Board").
 
 (2)(A) The Board shall develop a strategy to improve the capacity of the Great Lakes region to produce, market, and transport commodities in a timely manner and to maximize the efficiency and benefits of marketing products produced in the Great Lakes region and products shipped through the Great Lakes.
 
@@ -34,7 +34,7 @@ To ensure the coordinated economic revitalization and environmental enhancement 
 
 (D) In developing the strategy, the Board shall consider weather problems and related costs and marketing problems resulting from the late harvest of agricultural commodities (including wheat and sunflower seeds) in the Great Lakes region.
 
-(E) In developing the strategy, the Board shall consult United States ports on the Great Lakesand their users, including farm organizations (such as wheat growers and soybean growers), port authorities, water carrier organizations, and other interested persons.
+(E) In developing the strategy, the Board shall consult United States ports on the Great Lakes and their users, including farm organizations (such as wheat growers and soybean growers), port authorities, water carrier organizations, and other interested persons.
 
 (3) The Board shall be composed of seven members as follows:
 
@@ -64,7 +64,7 @@ To ensure the coordinated economic revitalization and environmental enhancement 
 
 (5)(A) The Board shall, without regard to section 5311(b) <sup>1</sup> of title 5, have a Director, who shall be appointed by the Board and shall be paid at a rate which the Board considers appropriate.
 
-(B) Subject to such rules as may be prescribed by the Board, without regard to 5311(b) <sup>1</sup> of title 5, the Board may appoint and fix the pay of such additional personnel as the Board considers appropriate.
+(B) Subject to such rules as may be prescribed by the Board, without regard to 5311(b) <sup>1</sup> of title5, the Board may appoint and fix the pay of such additional personnel as the Board considers appropriate.
 
 (C) Upon request of the Board, the head of any Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of such agency to the Board to assist the Board in carrying out its duties under this subsection.
 

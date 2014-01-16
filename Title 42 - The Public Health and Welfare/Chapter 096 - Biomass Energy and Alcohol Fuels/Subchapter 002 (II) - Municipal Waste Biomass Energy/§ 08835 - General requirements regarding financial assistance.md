@@ -8,7 +8,7 @@
 
 &emsp;(B) will displace petroleum or natural gas as a fuel.
 
-(2)(A) With respect to projects producing biomass energy other than biomass fuel, financial assistance under the provisions of sections 8832,8833, and 8834 of this title shall be available only if the Secretary of Energy finds that the project does not use petroleum or natural gas except for flame stabilization or start-up.
+(2)(A) With respect to projects producing biomass energy other than biomass fuel, financial assistance under the provisions of sections 8832, 8833, and 8834 of this title shall be available only if the Secretary of Energy finds that the project does not use petroleum or natural gas except for flame stabilization or start-up.
 
 (B) With respect to projects producing biomass fuel, financial assistance under such provisions shall be available to such project only if the Secretary of Energy finds that the Btu content of the biomass fuel produced substantially exceeds the Btu content of any petroleum or natural gas used in the project to produce the biomass fuel.
 
@@ -84,9 +84,9 @@ Notwithstanding the provisions of the Federal Financing Bank Act of 1973 (12 U.S
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(6)(D), was in the original “this title”, meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 8801 of this title and Tables.
+This chapter, referred to in subsec. (a)(6)(D), was in the original "this title", meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 8801 of this title and Tables.
 
 The Federal Financing Bank Act of 1973, referred to in subsec. (h), is Pub. L. 93–224, Dec. 29, 1973, 87 Stat. 937, which is classified generally to chapter 24 (§2281 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2281 of Title 12 and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of the".</i>
 

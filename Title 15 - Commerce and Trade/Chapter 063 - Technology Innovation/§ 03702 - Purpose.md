@@ -16,7 +16,7 @@ It is the purpose of this chapter to improve the economic, environmental, and so
 
 #### Amendments
 
-<b>1986</b>—Par. (2). Pub. L. 99–502, §9(b)(1), substituted “cooperative research centers” for “centers for industrial technology”.
+<b>1986</b>—Par. (2). Pub. L. 99–502, §9(b)(1), substituted "cooperative research centers" for "centers for industrial technology".
 
-Par. (3). Pub. L. 99–502, §9(f)(2), inserted “, including inventions, software, and training technologies,”.
+Par. (3). Pub. L. 99–502, §9(f)(2), inserted ", including inventions, software, and training technologies,".
 

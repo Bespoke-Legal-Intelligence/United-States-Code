@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “locomotive visibility” means the enhancement of day and night visibility of the front end unit of a train, considering in particular the visibility and perspective of a driver of a motor vehicle at a grade crossing.
+Definition.—In this section, "locomotive visibility" means the enhancement of day and night visibility of the front end unit of a train, considering in particular the visibility and perspective of a driver of a motor vehicle at a grade crossing.
 
 (b)
 
@@ -78,17 +78,17 @@ Oct. 16, 1970, Pub. L. 91–458, 84 Stat. 971, §202(u); added Oct. 27, 1992, Pu
 
 45:431(u)(2) (last sentence).
 
-In this section, the word “visibility” is substituted for “conspicuity” for clarity and consistency in this chapter.
+In this section, the word "visibility" is substituted for "conspicuity" for clarity and consistency in this chapter.
 
-In subsection (a), the words “by means of lighting, reflective materials, or other means” are omitted as surplus.
+In subsection (a), the words "by means of lighting, reflective materials, or other means" are omitted as surplus.
 
-In subsection (b), the words “those lights” are substituted for “such measures” for clarity.
+In subsection (b), the words "those lights" are substituted for "such measures" for clarity.
 
-In subsection (c), the word “Secretary's” is substituted for ”Department of Transportation's” because of 49:102(b). The word “using” is substituted for “having . . . in service” to eliminate unnecessary words.
+In subsection (c), the word "Secretary's" is substituted for "Department of Transportation's" because of 49:102(b). The word "using" is substituted for "having . . . in service" to eliminate unnecessary words.
 
 In subsection (e)(2) and (3) of this section, the reference is to paragraph (1) of this subsection, rather than to subsection (d) of this section, because the regulations are prescribed under paragraph (1).
 
-In subsection (e)(2), the words “a category” are substituted for “and category” to correct an apparent mistake in the source provision. See S. Rept. 102–990, 102d Cong., 2d Sess., p. 18 (1992).
+In subsection (e)(2), the words "a category" are substituted for "and category" to correct an apparent mistake in the source provision. See S. Rept. 102–990, 102d Cong., 2d Sess., p. 18 (1992).
 
-In subsection (e)(3), the word “full” is omitted as surplus.
+In subsection (e)(3), the word "full" is omitted as surplus.
 

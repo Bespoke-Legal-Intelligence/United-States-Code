@@ -32,7 +32,7 @@
 | [<b>23.</b>](Chapter%20023%20-%20Training%20and%20Fellowship%20Programs%20for%20Community%20Development/README.md) | <b>Training and Fellowship Programs for Community Development</b> | <b>801</b> |
 | [<b>24.</b>](Chapter%20024%20-%20Grants%20for%20Educational%20Materials%2C%20Facilities%20and%20Services%2C%20and%20Strengthening%20of%20Educational%20Agencies/README.md) | <b>Grants for Educational Materials, Facilities and Services, and Strengthening of Educational Agencies \[Omitted, Repealed, or Transferred\]</b> | <b>821</b> |
 | [<b>25.</b>](Chapter%20025%20-%20Pay%20and%20Personnel%20Program%20for%20Overseas%20Teachers/README.md) | <b>Pay and Personnel Program for Overseas Teachers</b> | <b>901</b> |
-| [<b>25A.</b>](Chapter%20025A%20-%20Overseas%20Defense%20Dependents%E2%80%99%20Education/README.md) | <b>Overseas Defense Dependents’ Education</b> | <b>921</b> |
+| [<b>25A.</b>](Chapter%20025A%20-%20Overseas%20Defense%20Dependents%27%20Education/README.md) | <b>Overseas Defense Dependents' Education</b> | <b>921</b> |
 | [<b>26.</b>](Chapter%20026%20-%20Support%20and%20Scholarship%20in%20Humanities%20and%20Arts%3B%20Museum%20Services/README.md) | <b>Support and Scholarship in Humanities and Arts; Museum Services</b> | <b>951</b> |
 | [<b>26A.</b>](Chapter%20026A%20-%20Indemnity%20for%20Exhibitions%20of%20Arts%20and%20Artifacts/README.md) | <b>Indemnity for Exhibitions of Arts and Artifacts</b> | <b>971</b> |
 | [<b>27.</b>](Chapter%20027%20-%20National%20Vocational%20Student%20Loan%20Insurance/README.md) | <b>National Vocational Student Loan Insurance \[Repealed\]</b> | <b>981</b> |
@@ -125,7 +125,7 @@
 - [Chapter 023 - Training and Fellowship Programs for Community Development](Chapter%20023%20-%20Training%20and%20Fellowship%20Programs%20for%20Community%20Development/README.md)
 - [Chapter 024 - Grants for Educational Materials, Facilities and Services, and Strengthening of Educational Agencies](Chapter%20024%20-%20Grants%20for%20Educational%20Materials%2C%20Facilities%20and%20Services%2C%20and%20Strengthening%20of%20Educational%20Agencies/README.md)
 - [Chapter 025 - Pay and Personnel Program for Overseas Teachers](Chapter%20025%20-%20Pay%20and%20Personnel%20Program%20for%20Overseas%20Teachers/README.md)
-- [Chapter 025A - Overseas Defense Dependents&#8217; Education](Chapter%20025A%20-%20Overseas%20Defense%20Dependents%E2%80%99%20Education/README.md)
+- [Chapter 025A - Overseas Defense Dependents' Education](Chapter%20025A%20-%20Overseas%20Defense%20Dependents%27%20Education/README.md)
 - [Chapter 026 - Support and Scholarship in Humanities and Arts; Museum Services](Chapter%20026%20-%20Support%20and%20Scholarship%20in%20Humanities%20and%20Arts%3B%20Museum%20Services/README.md)
 - [Chapter 026A - Indemnity for Exhibitions of Arts and Artifacts](Chapter%20026A%20-%20Indemnity%20for%20Exhibitions%20of%20Arts%20and%20Artifacts/README.md)
 - [Chapter 027 - National Vocational Student Loan Insurance](Chapter%20027%20-%20National%20Vocational%20Student%20Loan%20Insurance/README.md)

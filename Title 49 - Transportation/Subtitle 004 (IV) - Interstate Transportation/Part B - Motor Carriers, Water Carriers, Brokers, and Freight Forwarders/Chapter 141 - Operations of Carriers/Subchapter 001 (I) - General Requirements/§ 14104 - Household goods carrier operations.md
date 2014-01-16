@@ -58,7 +58,7 @@ Estimate.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—Notwithstanding a waiver under subparagraph (B), a carrier's statement of charges for transportationmust be submitted to the shipper in writing and must indicate whether it is binding or nonbinding. The written estimate shall be based on a physical survey of the household goods if the household goods are located within a 50-mile radius of the location of the carrier's household goods agent preparing the estimate.
+In general.—Notwithstanding a waiver under subparagraph (B), a carrier's statement of charges for transportation must be submitted to the shipper in writing and must indicate whether it is binding or nonbinding. The written estimate shall be based on a physical survey of the household goods if the household goods are located within a 50-mile radius of the location of the carrier's household goods agent preparing the estimate.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -70,7 +70,7 @@ Nonbinding.—A nonbinding estimate under this paragraph must indicate that the 
 
 &emsp;(2)
 
-Other information.—At the time that a motor carrier provides the written estimate required by paragraph (1), the motor carrier shall provide the shipper a copy of the Department of Transportation publication FMCSA–ESA–03–005 (or its successor publication) entitled “Ready to Move?”. Before the execution of a contract for service, the motor carrier shall provide the shipper copy of the Department of Transportation publication OCE 100, entitled “Your Rights and Responsibilities When You Move” required by section 375.213 of title 49, Code of Federal Regulations (or any successor regulation).
+Other information.—At the time that a motor carrier provides the written estimate required by paragraph (1), the motor carrier shall provide the shipper a copy of the Department of Transportation publication FMCSA–ESA–03–005 (or its successor publication) entitled "Ready to Move?". Before the execution of a contract for service, the motor carrier shall provide the shipper copy of the Department of Transportation publication OCE 100, entitled "Your Rights and Responsibilities When You Move" required by section 375.213 of title 49, Code of Federal Regulations (or any successor regulation).
 
 &emsp;(3)
 
@@ -78,7 +78,7 @@ Applicability of antitrust laws.—Any charge for an estimate of charges provide
 
 (c)
 
-Flexibility in Weighing Shipments.—The Secretary shall issue regulations that provide motor carriers providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135 with the maximum possible flexibility in weighing shipments, consistent with assurance to the shipper of accurate weighing practices. The Secretary shall not prohibit such carriers from backweighing shipments or from basing their charges on the reweigh weights if the shipper observes both the tare and gross weighings (or, prior to such weighings, waives in writing the opportunity to observe such weighings) and such weighings are performed on the same scale.
+Flexibility in Weighing Shipments.—The Secretary shall issue regulations that provide motor carriers providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135 with the maximum possible flexibility in weighing shipments, consistent with assurance to the shipper of accurate weighing practices. The Secretary shall not prohibit such carriers from backweighing shipments or from basing their charges on the reweigh weights if the shipper observes both thetare and gross weighings (or, prior to such weighings, waives in writing the opportunity to observe such weighings) and such weighings are performed on the same scale.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 891; amended Pub. L. 109–59, title IV, §4205, Aug. 10, 2005, 119 Stat. 1753.)
 
@@ -88,9 +88,9 @@ Provisions similar to those in this section were contained in section 11110 of t
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–59 added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: “Every motor carrier providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135, upon request of a prospective shipper, may provide the shipper with an estimate of charges for transportation of household goods and for the proposed services. The Secretary shall not prohibit any such carrier from charging a prospective shipper for providing a written, binding estimate for the transportation and proposed services.”
+<b>2005</b>—Subsec. (b). Pub. L. 109–59 added pars. (1) and (2), redesignated former par. (2) as (3), and struck out heading and text of former par. (1). Text read as follows: "Every motor carrier providing transportation of household goods subject to jurisdiction under subchapter I of chapter 135, upon request of a prospective shipper, may provide the shipper with an estimate of charges for transportation of household goods and for the proposed services. The Secretary shall not prohibit any such carrier from charging a prospective shipper for providing a written, binding estimate for the transportation and proposed services."
 
 #### Study of Enforcement of Consumer Protection Rules in Household Goods Moving Industry
 
-Pub. L. 106–159, title II, §209(c), Dec. 9, 1999, 113 Stat. 1764, provided that: “The Comptroller General shall conduct a study of the effectiveness of the Department of Transportation's enforcement of household goods consumer protection rules under title 49, United States Code. The study shall also include a review of other potential methods of enforcing such rules, including allowing States to enforce such rules.”
+Pub. L. 106–159, title II, §209(c), Dec. 9, 1999, 113 Stat. 1764, provided that: "The Comptroller General shall conduct a study of the effectiveness of the Department of Transportation's enforcement of household goods consumer protection rules under title 49, United States Code. The study shall also include a review of other potential methods of enforcing such rules, including allowing States to enforce such rules."
 

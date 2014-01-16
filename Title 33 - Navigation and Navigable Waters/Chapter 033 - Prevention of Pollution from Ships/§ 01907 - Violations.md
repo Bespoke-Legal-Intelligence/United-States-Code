@@ -6,7 +6,7 @@ It is unlawful to act in violation of the MARPOL Protocol, Annex IV to the Antar
 
 #### (b) Investigations; subpenas: issuance by Secretary, enforcement; action by Secretary; information to party
 
-Upon receipt of evidence that a violation has occurred, the Secretary shall cause the matter to be investigated. In any investigation underthis section the Secretary may issue subpenas to require the attendance of any witness and the production of documents and other evidence. In case of refusal to obey a subpena issued to any person, the Secretary may request the Attorney General to invoke the aid of the appropriate district court of the United States to compel compliance. Upon completion of the investigation, the Secretary shall take the action required by the MARPOL Protocol or the Antarctic Protocol and whatever further action he considers appropriate under the circumstances. If the initial evidence was provided by a party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, acting through the Secretary of State, shall inform that party of the action taken or proposed.
+Upon receipt of evidence that a violation has occurred, the Secretary shall cause the matter to be investigated. In any investigation under this section the Secretary may issue subpenas to require the attendance of any witness and the production of documents and other evidence. In case of refusal to obey a subpena issued to any person, the Secretary may request the Attorney General to invoke the aid of the appropriate district court of the United States to compel compliance. Upon completion of the investigation, the Secretary shall take the action required by the MARPOL Protocol or the Antarctic Protocol and whatever further action he considers appropriate under the circumstances. If the initial evidence was provided by a party to the MARPOL Protocol or the Antarctic Protocol, the Secretary, acting through the Secretary of State, shall inform that party of the action taken or proposed.
 
 #### (c) Ship inspections; reports to Secretary; additional action
 
@@ -18,7 +18,7 @@ Upon receipt of evidence that a violation has occurred, the Secretary shall caus
 
 &emsp;(B) to comply with a request from a party to the MARPOL Protocol or the Antarctic Protocol for an investigation as to whether the ship may have discharged a harmful substance anywhere in violation of the MARPOL Protocol or Annex IV to the Antarctic Protocol. An investigation may be undertaken under this clause only when the requesting party has furnished sufficient evidence to allow the Secretary reasonably to believe that a discharge has occurred.
 
-> If an inspection under this subsection indicates that a violation has occurred, the investigating officer shall forward a report to the Secretary for appropriate action. The Secretary shall undertake to notify the master of the ship concerned and, acting in coordination with the Secretary of State, shall take any additional action required by Article 6 of the Convention.
+> If an inspection under this subsection indicates that a violation has occurred, the investigatingofficer shall forward a report to the Secretary for appropriate action. The Secretary shall undertake to notify the master of the ship concerned and, acting in coordination with the Secretary of State, shall take any additional action required by Article 6 of the Convention.
 
 #### (d) Garbage disposal inspections; covered ships; enforcement actions
 
@@ -44,25 +44,25 @@ Upon receipt of evidence that a violation has occurred, the Secretary shall caus
 
 #### Amendments
 
-<b>2008</b>—Subsec. (f). Pub. L. 110–280 amended subsec. (f) generally. Prior to amendment, text read as follows: “Remedies and requirements of this chapter supplement and neither amend nor repeal any other provisions of law, except as expressly provided in this chapter. Nothing in this chapter shall limit, deny, amend, modify, or repeal any other remedy available to the United States or any other person, except as expressly provided in this chapter.”
+<b>2008</b>—Subsec. (f). Pub. L. 110–280 amended subsec. (f) generally. Prior to amendment, text read as follows: "Remedies and requirements of this chapter supplement and neither amend nor repeal any other provisions of law, except as expressly provided in this chapter. Nothing in this chapter shall limit, deny, amend, modify, or repeal any other remedy available to the United States or any other person, except as expressly provided in this chapter."
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–227, §201(e)(1), (2), inserted “Annex IV to the Antarctic Protocol,” after “violation of the MARPOL Protocol,”, “or to the Antarctic Protocol” after “to the MARPOL Protocol”, and “and Annex IV to the Antarctic Protocol” after “enforcement of the MARPOL Protocol”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–227, §201(e)(1), (2), inserted "Annex IV to the Antarctic Protocol," after "violation of the MARPOL Protocol,", "or to the Antarctic Protocol" after "to the MARPOL Protocol", and "and Annex IV to the Antarctic Protocol" after "enforcement of the MARPOL Protocol".
 
-Subsec. (b). Pub. L. 104–227, §201(e)(3), inserted “or the Antarctic Protocol” after “MARPOL Protocol” in two places.
+Subsec. (b). Pub. L. 104–227, §201(e)(3), inserted "or the Antarctic Protocol" after "MARPOL Protocol" in two places.
 
-Subsec. (c)(1). Pub. L. 104–227, §201(e)(4), inserted “, of Article 3 or Article 4 of Annex IV to the Antarctic Protocol,” after “to the Convention”.
+Subsec. (c)(1). Pub. L. 104–227, §201(e)(4), inserted ", of Article 3 or Article 4 of Annex IV to the Antarctic Protocol," after "to the Convention".
 
-Subsec. (c)(2). Pub. L. 104–227, §201(e)(5), (6), inserted “or the Antarctic Protocol” after “which the MARPOL Protocol” in introductory provisions, “, Annex IV to the Antarctic Protocol,” after “MARPOL Protocol” in subpar. (A), and “or the Antarctic Protocol” after “to the MARPOL Protocol” and “or Annex IV to the Antarctic Protocol” after “of the MARPOL Protocol” in subpar. (B).
+Subsec. (c)(2). Pub. L. 104–227, §201(e)(5), (6), inserted "or the Antarctic Protocol" after "which the MARPOL Protocol" in introductory provisions, ", Annex IV to the Antarctic Protocol," after "MARPOL Protocol" in subpar. (A), and "or the Antarctic Protocol" after "to the MARPOL Protocol" and "or Annex IV to the Antarctic Protocol" after "of the MARPOL Protocol" in subpar. (B).
 
-Subsec. (d)(1). Pub. L. 104–227, §201(e)(8), inserted “, Article 5 of Annex IV to the Antarctic Protocol,” after “Convention”.
+Subsec. (d)(1). Pub. L. 104–227, §201(e)(8), inserted ", Article 5 of Annex IV to the Antarctic Protocol," after "Convention".
 
-Subsec. (e)(1). Pub. L. 104–227, §201(e)(9), inserted “or the Antarctic Protocol” after “MARPOL Protocol” and substituted “those Protocols” for “that Protocol”.
+Subsec. (e)(1). Pub. L. 104–227, §201(e)(9), inserted "or the Antarctic Protocol" after "MARPOL Protocol" and substituted "those Protocols" for "that Protocol".
 
-Subsec. (e)(2). Pub. L. 104–227, §201(e)(10), inserted “, of Annex IV to the Antarctic Protocol,” after “MARPOL Protocol”.
+Subsec. (e)(2). Pub. L. 104–227, §201(e)(10), inserted ", of Annex IV to the Antarctic Protocol," after "MARPOL Protocol".
 
-<b>1989</b>—Subsecs. (c)(1), (e)(2). Pub. L. 101–225 inserted “or of this chapter”.
+<b>1989</b>—Subsecs. (c)(1), (e)(2). Pub. L. 101–225 inserted "or of this chapter".
 
-<b>1987</b>—Subsec. (c). Pub. L. 100–220, §2104(a), added par. (1), designated existing provisions as par. (2), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and in closing provisions of par. (2) substituted “The” for “If a report made under this subsection involves a ship, other than one of United States registry or nationality or one operated under the authority of the United States, the”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–220, §2104(a), added par. (1), designated existing provisions as par. (2), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and in closing provisions of par. (2) substituted "The" for "If a report made under this subsection involves a ship, other than one of United States registry or nationality or one operated under the authority of the United States, the".
 
 Subsecs. (d) to (f). Pub. L. 100–220, §2104(b), added subsecs. (d) and (e) and redesignated former subsec. (d) as (f).
 

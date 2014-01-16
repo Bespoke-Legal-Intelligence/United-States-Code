@@ -10,11 +10,11 @@ In this section:
 
 #### (1) Asian American
 
-&emsp;The term “Asian American” has the meaning given the term “Asian” in the Office of Management and Budget's Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity as published on October 30, 1997 (62 Fed. Reg. 58789).
+&emsp;The term "Asian American" has the meaning given the term "Asian" in the Office of Management and Budget's Standards for Maintaining, Collecting, and Presenting Federal Data on Race and Ethnicity as published on October 30, 1997 (62 Fed. Reg. 58789).
 
 #### (2) Asian American and Native American Pacific Islander-serving institution
 
-&emsp;The term “Asian American and Native American Pacific Islander-serving institution” means an institution of higher education that—
+&emsp;The term "Asian American and Native American Pacific Islander-serving institution" means an institution of higher education that—
 
 &emsp;&emsp;(A) is an eligible institution under section 1058(b) of this title; and
 
@@ -22,13 +22,13 @@ In this section:
 
 #### (3) Native American Pacific Islander
 
-&emsp;The term “Native American Pacific Islander” means any descendant of the aboriginal people of any island in the Pacific Ocean that is a territory or possession of the United States.
+&emsp;The term "Native American Pacific Islander" means any descendant of the aboriginal people of any island in the Pacific Ocean that is a territory or possession of the United States.
 
 #### (c) Authorized activities
 
 #### (1) Types of activities authorized
 
-&emsp;Grants awarded under this section shall be used by Asian American and Native American Pacific Islander-serving institutions to assist such institutions to plan, develop, undertake, and carry out activities to improve and expand such institutions’ capacity to serve Asian Americans and Native American Pacific Islanders and low-income individuals.
+&emsp;Grants awarded under this section shall be used by Asian American and Native American Pacific Islander-serving institutions to assist such institutions to plan, develop, undertake, and carry out activities to improve and expand such institutions' capacity to serve Asian Americans and Native American Pacific Islanders and low-income individuals.
 
 #### (2) Examples of authorized activities
 
@@ -60,7 +60,7 @@ In this section:
 
 &emsp;&emsp;(M) establishing partnerships with community-based organizations serving Asian Americans and Native American Pacific Islanders; and
 
-&emsp;&emsp;(N) education or counseling services designed to improve the financial and economic literacy of students or the students’ families.
+&emsp;&emsp;(N) education or counseling services designed to improve the financial and economic literacy of students or the students' families.
 
 #### (d) Application process
 

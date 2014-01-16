@@ -8,7 +8,7 @@
 
 #### (2) Exceptions
 
-&emsp;The lien imposed by paragraph (1), or any similar lien imposed on the spirits under priorprovisions of internal revenue law, shall terminate in the case of distilled spirits produced on premises qualified under internal revenue law for the production of distilled spirits when such distilled spirits are—
+&emsp;The lien imposed by paragraph (1), or any similar lien imposed on the spirits under prior provisions of internal revenue law, shall terminate in the case of distilled spirits produced on premises qualified under internal revenue law for the production of distilled spirits when such distilled spirits are—
 
 &emsp;&emsp;(A) withdrawn from bonded premises on determination of tax; or
 
@@ -30,17 +30,17 @@ Provisions similar to those comprising subsec. (b)(1) of this section were conta
 
 #### Amendments
 
-<b>1980</b>—Subsec. (a)(2)(B). Pub. L. 96–223 substituted “(11), or (12),” for “or (11),”.
+<b>1980</b>—Subsec. (a)(2)(B). Pub. L. 96–223 substituted "(11), or (12)," for "or (11),".
 
-<b>1979</b>—Subsec. (a)(2)(B). Pub. L. 96–39, §807(a)(2)(C), substituted “(3), or (11)” for “or (3)”.
+<b>1979</b>—Subsec. (a)(2)(B). Pub. L. 96–39, §807(a)(2)(C), substituted "(3), or (11)" for "or (3)".
 
 Subsecs. (b), (c). Pub. L. 96–39, §807(a)(2)(A), (B), redesignated subsec. (c) as (b). Former subsec. (b), relating to other property subject to lien, was repealed.
 
-<b>1977</b>—Subsec. (a)(2). Pub. L. 95–176 struck out reference to par. (9) of section 5214(a) in subpar. (B), and in subpar. (C) substituted “a customs bonded warehouse” for “customs manufacturing bonded warehouses” and provided for termination of the lien for tax when the distilled spirits are used in certain research, development, or testing.
+<b>1977</b>—Subsec. (a)(2). Pub. L. 95–176 struck out reference to par. (9) of section 5214(a) in subpar. (B), and in subpar. (C) substituted "a customs bonded warehouse" for "customs manufacturing bonded warehouses" and provided for termination of the lien for tax when the distilled spirits are used in certain research, development, or testing.
 
-<b>1976</b>—Subsec. (b)(3)(B), (4). Pub. L. 94–455 struck out “or his delegate” after “Secretary”, wherever appearing.
+<b>1976</b>—Subsec. (b)(3)(B), (4). Pub. L. 94–455 struck out "or his delegate" after "Secretary", wherever appearing.
 
-<b>1965</b>—Subsec. (c). Pub. L. 89–44 substituted “5223(e)” for “5223(d)”.
+<b>1965</b>—Subsec. (c). Pub. L. 89–44 substituted "5223(e)" for "5223(d)".
 
 #### Effective Date of 1980 Amendment
 
@@ -52,9 +52,9 @@ Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 810 of Pub. L. 
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–176 effective on first day of first calendar month beginning more than 90 days after Nov. 14, 1977, see section 7 of Pub. L. 95–176, set out as a note under section 5003 of this title.
+Amendment by Pub. L. 95–176 effective on first day of first calendar month beginning more than 90 days afterNov. 14, 1977, see section 7 of Pub. L. 95–176, set out as a note under section 5003 of this title.
 
 #### Effective Date of 1965 Amendment
 
-Pub. L. 89–44, title VIII, §805(g)(2), June 21, 1965, 79 Stat. 162, provided that: “The amendments made by subsections (b), (d), and (f) (other than paragraph (6)) \[amending this section and sections 5025, 5083, 5223, and 5234 of this title\], shall take effect on October 1, 1965.”
+Pub. L. 89–44, title VIII, §805(g)(2), June 21, 1965, 79 Stat. 162, provided that: "The amendments made by subsections (b), (d), and (f) (other than paragraph (6)) \[amending this section and sections 5025, 5083, 5223, and 5234 of this title\], shall take effect on October 1, 1965."
 

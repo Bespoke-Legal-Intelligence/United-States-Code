@@ -2,7 +2,7 @@
 
 #### (a) Definition of renewable fuel blend
 
-For purposes of this section, the term “renewable fuel blend” means a gasoline blend that contains not less than 11 percent, and not more than 85 percent, renewable fuel or diesel fuel that contains at least 10 percent renewable fuel.
+For purposes of this section, the term "renewable fuel blend" means a gasoline blend that contains not less than 11 percent, and not more than 85 percent, renewable fuel or diesel fuel that contains at least 10 percent renewable fuel.
 
 #### (b) Infrastructure development grants
 
@@ -40,7 +40,7 @@ For purposes of this section, the term “renewable fuel blend” means a gasoli
 
 #### (4) Operation of renewable fuel blend stations
 
-&emsp;The Secretary shall establish rules that set forth requirements for grant recipients under this section that include providing to the public the renewable fuel blends, establishing a marketing plan that informs consumers of the price and availability of the renewable fuel blends, clearly labeling the dispensers and related equipment, and providing periodic reports on the status of the renewable fuel blend sales, the type and amount of the renewable fuel blends dispensed at each location, and the average price of such fuel.
+&emsp;The Secretary shall establish rules that set forth requirements for grant recipients underthis section that include providing to the public the renewable fuel blends, establishing a marketing plan that informs consumers of the price and availability of the renewable fuel blends, clearly labeling the dispensers and related equipment, and providing periodic reports on the status of the renewable fuel blend sales, the type and amount of the renewable fuel blends dispensed at each location, and the average price of such fuel.
 
 #### (5) Notification requirements
 
@@ -68,7 +68,7 @@ The Secretary shall enter into contracts with entities with demonstrated experie
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a competitive grant pilot program (referred to in this subsection as the “pilot program”), to be administered through the Vehicle Technology Deployment Program of the Department, to provide not more than 10 geographically-dispersed project grants to State governments, Indian tribal governments, local governments, metropolitan transportation authorities, or partnerships of those entities to carry out 1 or more projects for the purposes described in paragraph (2).
+&emsp;The Secretary shall establish a competitive grant pilot program (referred to in this subsection as the "pilot program"), to be administered through the Vehicle Technology Deployment Program of the Department, to provide not more than 10 geographically-dispersed project grants to State governments, Indian tribal governments, local governments, metropolitan transportation authorities, or partnerships of those entities to carry out 1 or more projects for the purposes described in paragraph (2).
 
 #### (2) Grant purposes
 

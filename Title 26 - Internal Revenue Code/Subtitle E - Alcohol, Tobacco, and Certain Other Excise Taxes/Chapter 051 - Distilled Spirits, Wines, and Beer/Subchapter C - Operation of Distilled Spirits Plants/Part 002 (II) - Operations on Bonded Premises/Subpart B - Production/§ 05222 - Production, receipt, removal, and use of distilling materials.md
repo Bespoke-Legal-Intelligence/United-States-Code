@@ -50,15 +50,15 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 640, 64
 
 #### Amendments
 
-<b>1997</b>—Subsec. (b)(2). Pub. L. 105–34 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “conveyed without payment of tax from contiguous brewery premises where produced; or”.
+<b>1997</b>—Subsec. (b)(2). Pub. L. 105–34 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "conveyed without payment of tax from contiguous brewery premises where produced; or".
 
-<b>1979</b>—Subsec. (c). Pub. L. 96–39 struck out “, in the production facilities of a distilled spirits plant” after “distilling material”.
+<b>1979</b>—Subsec. (c). Pub. L. 96–39 struck out ", in the production facilities of a distilled spirits plant" after "distilling material".
 
 <b>1978</b>—Subsec. (a)(2)(C). Pub. L. 95–458 inserted reference to section 5053(e).
 
-<b>1976</b>—Subsecs. (a)(1), (b), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a)(1), (b), (c). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Subsec. (d). Pub. L. 94–455, §1905(b)(6)(D), struck out “5601(b)(3), 5601(b)(4),” after “5601(a)(8),”.
+Subsec. (d). Pub. L. 94–455, §1905(b)(6)(D), struck out "5601(b)(3), 5601(b)(4)," after "5601(a)(8),".
 
 #### Effective Date of 1997 Amendment
 

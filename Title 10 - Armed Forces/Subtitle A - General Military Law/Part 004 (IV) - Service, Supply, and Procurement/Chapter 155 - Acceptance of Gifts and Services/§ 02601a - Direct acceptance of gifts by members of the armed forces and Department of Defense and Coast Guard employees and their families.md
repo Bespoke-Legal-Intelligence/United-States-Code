@@ -44,15 +44,15 @@ Application of Certain Regulations.—To the extent provided in the regulations 
 
 #### References in Text
 
-The date of the enactment of the National Defense Authorization Act for Fiscal Year 2012, referred to in subsec. (e), is the date of enactment of Pub. L. 112–81, which was approved Dec. 31, 2011.
+The date of the enactment of the National Defense Authorization Act for Fiscal Year 2012, referred to insubsec. (e), is the date of enactment of Pub. L. 112–81, which was approved Dec. 31, 2011.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239 inserted “when it is not operating as a service in the Navy” after “Coast Guard” in introductory provisions.
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239 inserted "when it is not operating as a service in the Navy" after "Coast Guard" in introductory provisions.
 
 <b>2011</b>—Subsec. (b)(2), (3). Pub. L. 112–81, §543(1), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (c). Pub. L. 112–81, §543(2), substituted “paragraph (1), (2) or (3) of subsection (b)” for “paragraph (1) or (2) of subsection (c)”.
+Subsec. (c). Pub. L. 112–81, §543(2), substituted "paragraph (1), (2) or (3) of subsection (b)" for "paragraph (1) or (2) of subsection (c)".
 
 Subsec. (e). Pub. L. 112–81, §543(3), added subsec. (e).
 

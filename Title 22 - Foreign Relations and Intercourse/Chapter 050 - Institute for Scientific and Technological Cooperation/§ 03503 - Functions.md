@@ -8,7 +8,7 @@ In carrying out its purposes, the Institute shall—
 
 &emsp;(2) support research, in the United States and in developing countries, on critical development problems, with emphasis on research relating to technologies which are labor-intensive or which do not generate additional unemployment or underemployment and with emphasis on those problems which are the greatest impediment to improvement in the lives of the majority of the poor;
 
-&emsp;(3) foster the exchange of scientists and other technological experts with developing countries, and other forms of exchange andcommunication to promote the joint solution of problems of mutual concern to the United States and developing countries;
+&emsp;(3) foster the exchange of scientists and other technological experts with developing countries, and other forms of exchange and communication to promote the joint solution of problems of mutual concern to the United States and developing countries;
 
 &emsp;(4) advise and assist other agencies of the United States Government in planning and executing policies and programs of scientific and technological cooperation with developing countries;
 
@@ -36,13 +36,15 @@ The President shall prescribe appropriate procedures to assure coordination of t
 
 #### References in Text
 
+This chapter, referred to in subsec. (c), was in the original "this title", meaning title IV of Pub. L. 96–53, Aug. 14, 1979, 93 Stat. 371, which is classified principally to this chapter. For complete classification of title IV to the Code, see Tables.
+
 The Foreign Assistance Act of 1961, referred to in subsec. (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Foreign Service Act of 1980, referred to in subsec. (c), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 The Foreign Relations Authorization Act, Fiscal Year 1979, referred to in subsec. (c), is Pub. L. 95–426, Oct. 7, 1978, 92 Stat. 963, as amended. Title V of the Act is classified generally to sections 2656a to 2656d of this title. For complete classification of this Act to the Code, see Tables.
 
-The International Development and Food Assistance Act of 1978, referred to in subsec. (c), is Pub. L. 95–424, Oct. 6, 1978, 92 Stat. 937, as amended. Title IV of the International Development and Food Assistance Act of 1978 is classified to section 2385a of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 2151 of this title and Tables.
+The International Development and Food Assistance Act of 1978, referred to in subsec. (c), is Pub. L. 95–424,Oct. 6, 1978, 92 Stat. 937, as amended. Title IV of the International Development and Food Assistance Act of 1978 is classified to section 2385a of this title. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
@@ -52,5 +54,5 @@ The International Development and Food Assistance Act of 1978, referred to in su
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “they”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "they".</i>
 

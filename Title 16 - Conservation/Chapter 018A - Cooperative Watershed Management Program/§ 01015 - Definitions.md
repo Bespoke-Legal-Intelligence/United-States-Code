@@ -4,23 +4,23 @@ In this chapter:
 
 #### (1) Affected stakeholder
 
-&emsp;The term “affected stakeholder” means an entity that significantly affects, or is significantly affected by, the quality or quantity of water in a watershed, as determined by the Secretary.
+&emsp;The term "affected stakeholder" means an entity that significantly affects, or is significantly affected by, the quality or quantity of water in a watershed, as determined by the Secretary.
 
 #### (2) Grant recipient
 
-&emsp;The term “grant recipient” means a watershed group that the Secretary has selected to receive a grant under section 1015a(c)(2) of this title.
+&emsp;The term "grant recipient" means a watershed group that the Secretary has selected toreceive a grant under section 1015a(c)(2) of this title.
 
 #### (3) Program
 
-&emsp;The term “program” means the Cooperative Watershed Management Program established by the Secretary under section 1015a(a) of this title.
+&emsp;The term "program" means the Cooperative Watershed Management Program established by the Secretary under section 1015a(a) of this title.
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior.
+&emsp;The term "Secretary" means the Secretary of the Interior.
 
 #### (5) Watershed group
 
-&emsp;The term “watershed group” means a self-sustaining, cooperative watershed-wide group that—
+&emsp;The term "watershed group" means a self-sustaining, cooperative watershed-wide group that—
 
 &emsp;&emsp;(A) is comprised of representatives of the affected stakeholders of the relevant watershed;
 
@@ -74,7 +74,7 @@ In this chapter:
 
 #### (6) Watershed management project
 
-&emsp;The term “watershed management project” means any project (including a demonstration project) that—
+&emsp;The term "watershed management project" means any project (including a demonstration project) that—
 
 &emsp;&emsp;(A) enhances water conservation, including alternative water uses;
 

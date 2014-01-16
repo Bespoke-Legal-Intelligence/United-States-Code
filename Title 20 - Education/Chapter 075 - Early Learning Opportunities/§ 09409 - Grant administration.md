@@ -8,7 +8,7 @@ The Secretary may use not more than 3 percent of the amount appropriated under s
 
 A State that receives a grant under this chapter may use—
 
-&emsp;(1) not more than 2 percent of the funds made available through the grant to carry outactivities designed to coordinate early learning programs on the State level, including programs funded or operated by the State educational agency, health, children and family, and human service agencies, and any State-level collaboration or coordination council involving early learning and education, such as the entities funded under section 9835(a)(2)(B)(vi) of title 42;
+&emsp;(1) not more than 2 percent of the funds made available through the grant to carry out activities designed to coordinate early learning programs on the State level, including programs funded or operated by the State educational agency, health, children and family, and human service agencies, and any State-level collaboration or coordination council involving early learning and education, such as the entities funded under section 9835(a)(2)(B)(vi) of title 42;
 
 &emsp;(2) not more than 2 percent of the funds made available through the grant for the administrative costs of carrying out the grant program and the costs of reporting State and local efforts to the Secretary; and
 
@@ -38,7 +38,7 @@ A State that receives a grant under this chapter may use—
 
 &emsp;&emsp;&emsp;(iv) ensure collaboration with respect to assistance provided under this chapter between the State agency responsible for education and the State agency responsible for children and family services;
 
-&emsp;&emsp;&emsp;(v) prepare and submit to the Secretary, an annual report on the activities carried out in the State under this chapter, which shall include a statement describing how all funds received under this chapter are expended and documentation of the effects that resources under this chapter have had on—
+&emsp;&emsp;&emsp;(v) prepare and submit to the Secretary, an annual report on the activities carried out in the State under this chapter, which shall include a statement describing how all funds received under this chapter are expended and documentation of the effectsthat resources under this chapter have had on—
 
 &emsp;&emsp;&emsp;&emsp;(I) parental capacity to improve learning readiness in their young children;
 
@@ -66,5 +66,5 @@ A State that receives a grant under this chapter may use—
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(1). Pub. L. 110–134 substituted “entities funded under section 9835(a)(2)(B)(vi) of title 42” for “entities funded under section 9835(a)(5) of title 42”.
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–134 substituted "entities funded under section 9835(a)(2)(B)(vi) of title 42" for "entities funded under section 9835(a)(5) of title 42".
 

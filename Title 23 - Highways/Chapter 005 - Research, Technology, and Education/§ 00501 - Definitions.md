@@ -4,15 +4,15 @@ In this chapter, the following definitions apply:
 
 &emsp;(1)
 
-Federal laboratory.—The term “Federal laboratory” includes a Government-owned, Government-operated laboratory and a Government-owned, contractor-operated laboratory.
+Federal laboratory.—The term "Federal laboratory" includes a Government-owned, Government-operated laboratory and a Government-owned, contractor-operated laboratory.
 
 &emsp;(2)
 
-Incident.—The term “incident” means a crash, natural disaster, workzone activity, special event, or other emergency road user occurrence that adversely affects or impedes the normal flow of traffic.
+Incident.—The term "incident" means a crash, natural disaster, workzone activity, special event, or other emergency road user occurrence that adversely affects or impedes the normal flow of traffic.
 
 &emsp;(3)
 
-Innovation lifecycle.—The term “innovation lifecycle” means the process of innovating through—
+Innovation lifecycle.—The term "innovation lifecycle" means the process of innovating through—
 
 &emsp;&emsp;(A) the identification of a need;
 
@@ -26,15 +26,15 @@ Innovation lifecycle.—The term “innovation lifecycle” means the process of
 
 &emsp;(4)
 
-Intelligent transportation infrastructure.—The term “intelligent transportation infrastructure” means fully integrated public sector intelligent transportation system components, as defined by the Secretary.
+Intelligent transportation infrastructure.—The term "intelligent transportation infrastructure" means fully integrated public sector intelligent transportation system components, as defined by the Secretary.
 
 &emsp;(5)
 
-Intelligent transportation system.—The terms “intelligent transportation system” and “ITS” mean electronics, photonics, communications, or information processing used singly or in combination to improve the efficiency or safety of a surface transportation system.
+Intelligent transportation system.—The terms "intelligent transportation system" and "ITS" mean electronics, photonics, communications, or information processing used singly or in combination to improve the efficiency or safety of a surface transportation system.
 
 &emsp;(6)
 
-National architecture.—For purposes of this chapter, the term “national architecture” means the common framework for interoperability that defines—
+National architecture.—For purposes of this chapter, the term "national architecture" means the common framework for interoperability that defines—
 
 &emsp;&emsp;(A) the functions associated with intelligent transportation system user services;
 
@@ -46,15 +46,15 @@ National architecture.—For purposes of this chapter, the term “national arch
 
 &emsp;(7)
 
-Project.—The term “project” means an undertaking to research, develop, or operationally test intelligent transportation systems or any other undertaking eligible for assistance under this chapter.
+Project.—The term "project" means an undertaking to research, develop, or operationally test intelligent transportation systems or any other undertaking eligible for assistance under this chapter.
 
 &emsp;(8)
 
-Safety.—The term “safety” includes highway and traffic safety systems, research, and development relating to vehicle, highway, driver, passenger, bicyclist, and pedestrian characteristics, accident investigations, communications, emergency medical care, and transportation of the injured.
+Safety.—The term "safety" includes highway and traffic safety systems, research, and development relating to vehicle, highway, driver, passenger, bicyclist, and pedestrian characteristics, accident investigations, communications, emergency medical care, and transportation of the injured.
 
 &emsp;(9)
 
-Standard.—The term “standard” means a document that—
+Standard.—The term "standard" means a document that—
 
 &emsp;&emsp;(A) contains technical specifications or other precise criteria for intelligent transportation systems that are to be used consistently as rules, guidelines, or definitions of characteristics so as to ensure that materials, products, processes, and services are fit for the intended purposes of the materials, products, processes, and services; and
 

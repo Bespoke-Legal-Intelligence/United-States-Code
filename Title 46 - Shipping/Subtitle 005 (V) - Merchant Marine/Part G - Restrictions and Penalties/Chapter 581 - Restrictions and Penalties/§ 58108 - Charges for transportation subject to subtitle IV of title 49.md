@@ -6,7 +6,7 @@ Prohibition.—A carrier may not charge, collect, or receive for transportation 
 
 (b)
 
-Suspension of Prohibition.—Whenever the Secretary of Transportation believes that adequate shipping facilities to or from any port in a territory or possession of the United States or a foreign country are not being provided by vessels documented under the laws of the United States, the Secretary shall certify this fact to the Surface Transportation Board. On receiving the certification, the Board may by order suspend the operation of subsection (a) with respect to the rates, fares, and charges for the transportation by rail of persons and property transported from or to be transported to those ports, for such time and under such terms and conditions as the Secretary may specify in the order or in any supplemental order.
+Suspension of Prohibition.—Whenever the Secretary of Transportation believes that adequate shipping facilities to or from any port in a territory or possession of the United States or a foreign country are not being provided by vessels documented under the laws of the United States, the Secretary shall certify this fact to the Surface Transportation Board. On receiving the certification, the Board may by order suspend the operation of subsection (a) with respectto the rates, fares, and charges for the transportation by rail of persons and property transported from or to be transported to those ports, for such time and under such terms and conditions as the Secretary may specify in the order or in any supplemental order.
 
 (c)
 
@@ -30,5 +30,5 @@ Historical and Revision Notes
 
 June 5, 1920, ch. 250, §28, 41 Stat. 999; Ex. Ord. No. 6166, §12, eff. June 10, 1933; June 29, 1936, ch. 858, §§204, 904, 49 Stat. 1987, 2016; Pub. L. 97–31, §12(50), Aug. 6, 1981, 95 Stat. 157; Pub. L. 104–88, title III, §321(3), Dec. 29, 1995, 109 Stat. 950.
 
-The words “territory or possession” are substituted for “possession or dependency” for consistency in the revised title.
+The words "territory or possession" are substituted for "possession or dependency" for consistency in the revised title.
 

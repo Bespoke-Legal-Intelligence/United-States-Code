@@ -4,7 +4,7 @@ For purposes of this subchapter:
 
 #### (1) At risk of homelessness
 
-&emsp;The term “at risk of homelessness” means, with respect to an individual or family, that the individual or family—
+&emsp;The term "at risk of homelessness" means, with respect to an individual or family, that the individual or family—
 
 &emsp;&emsp;(A) has income below 30 percent of median income for the geographic area;
 
@@ -30,7 +30,7 @@ For purposes of this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “chronically homeless” means, with respect to an individual or family, that the individual or family—
+&emsp;&emsp;The term "chronically homeless" means, with respect to an individual or family, that the individual or family—
 
 &emsp;&emsp;&emsp;(i) is homeless and lives or resides in a place not meant for human habitation, a safe haven, or in an emergency shelter;
 
@@ -44,7 +44,7 @@ For purposes of this subchapter:
 
 #### (3) Collaborative applicant
 
-&emsp;The term “collaborative applicant” means an entity that—
+&emsp;The term "collaborative applicant" means an entity that—
 
 &emsp;&emsp;(A) carries out the duties specified in section 11360a of this title;
 
@@ -54,7 +54,7 @@ For purposes of this subchapter:
 
 #### (4) Collaborative application
 
-&emsp;The term “collaborative application” means an application for a grant under part C that—
+&emsp;The term "collaborative application" means an application for a grant under part C that—
 
 &emsp;&emsp;(A) satisfies section 11382 of this title; and
 
@@ -62,25 +62,25 @@ For purposes of this subchapter:
 
 #### (5) Consolidated Plan
 
-&emsp;The term “Consolidated Plan” means a comprehensive housing affordability strategy and community development plan required in part 91 of title 24, Code of Federal Regulations.
+&emsp;The term "Consolidated Plan" means a comprehensive housing affordability strategy and community development plan required in part 91 of title 24, Code of Federal Regulations.
 
 #### (6) Eligible entity
 
-&emsp;The term “eligible entity” means, with respect to a part, a public entity, a private entity, or an entity that is a combination of public and private entities, that is eligible to directly receive grant amounts under such part.
+&emsp;The term "eligible entity" means, with respect to a part, a public entity, a private entity, or an entity that is a combination of public and private entities, that is eligible to directly receive grant amounts under such part.
 
 #### (7) Families with children and youth defined as homeless under other Federal statutes
 
-&emsp;The term “families with children and youth defined as homeless under other Federal statutes” means any children or youth that are defined as “homeless” under any Federal statute other than this part, but are not defined as homeless under section 11302 of this title, and shall also include the parent, parents, or guardian of such children or youth under part B of subchapter VI this <sup>1</sup> chapter (42 U.S.C. 11431 et seq.).
+&emsp;The term "families with children and youth defined as homeless under other Federal statutes" means any children or youth that are defined as "homeless" under any Federal statute other than this part, but are not defined as homeless under section 11302 of this title, and shall also include the parent, parents, or guardian of such children or youth under part B of subchapter VI this <sup>1</sup> chapter (42 U.S.C. 11431 et seq.).
 
 #### (8) Geographic area
 
-&emsp;The term “geographic area” means a State, metropolitan city, urban county, town, village, or other nonentitlement area, or a combination or consortia of such, in the United States, as described in section 5306 of this title.
+&emsp;The term "geographic area" means a State, metropolitan city, urban county, town, village, or other nonentitlement area, or a combination or consortia of such, in the United States, as described in section 5306 of this title.
 
 #### (9) Homeless individual with a disability
 
 #### (A) In general
 
-&emsp;&emsp;The term “homeless individual with a disability” means an individual who is homeless, as defined in section 11302 of this title, and has a disability that—
+&emsp;&emsp;The term "homeless individual with a disability" means an individual who is homeless, as defined in section 11302 of this title, and has a disability that—
 
 &emsp;&emsp;&emsp;(i)(I) is expected to be long-continuing or of indefinite duration;
 
@@ -100,7 +100,7 @@ For purposes of this subchapter:
 
 #### (10) Legal entity
 
-&emsp;The term “legal entity” means—
+&emsp;The term "legal entity" means—
 
 &emsp;&emsp;(A) an entity described in section 501(c)(3) of title 26 and exempt from tax under section 501(a) of such title;
 
@@ -110,15 +110,15 @@ For purposes of this subchapter:
 
 #### (11) Metropolitan city; urban county; nonentitlement area
 
-&emsp;The terms “metropolitan city”, “urban county”, and “nonentitlement area” have the meanings given such terms in section 5302(a) of this title.
+&emsp;The terms "metropolitan city", "urban county", and "nonentitlement area" have the meanings given such terms in section 5302(a) of this title.
 
 #### (12) New
 
-&emsp;The term “new” means, with respect to housing, that no assistance has been provided under this subchapter for the housing.
+&emsp;The term "new" means, with respect to housing, that no assistance has been provided under this subchapter for the housing.
 
 #### (13) Operating costs
 
-&emsp;The term “operating costs” means expenses incurred by a project sponsor operating transitional housing or permanent housing under this subchapter with respect to—
+&emsp;The term "operating costs" means expenses incurred by a project sponsor operating transitional housing or permanent housing under this subchapter with respect to—
 
 &emsp;&emsp;(A) the administration, maintenance, repair, and security of such housing;
 
@@ -128,15 +128,15 @@ For purposes of this subchapter:
 
 #### (14) Outpatient health services
 
-&emsp;The term “outpatient health services” means outpatient health care services, mental health services, and outpatient substance abuse services.
+&emsp;The term "outpatient health services" means outpatient health care services, mental health services, and outpatient substance abuse services.
 
 #### (15) Permanent housing
 
-&emsp;The term “permanent housing” means community-based housing without a designated length of stay, and includes both permanent supportive housing and permanent housing without supportive services.
+&emsp;The term "permanent housing" means community-based housing without a designated length of stay, and includes both permanent supportive housing and permanent housing without supportive services.
 
 #### (16) Personally identifying information
 
-&emsp;The term “personally identifying information” means individually identifying information for or about an individual, including information likely to disclose the location of a victim of domestic violence, dating violence, sexual assault, or stalking, including—
+&emsp;The term "personally identifying information" means individually identifying information for or about an individual, including information likely to disclose the location of a victim of domestic violence, dating violence, sexual assault, or stalking, including—
 
 &emsp;&emsp;(A) a first and last name;
 
@@ -150,7 +150,7 @@ For purposes of this subchapter:
 
 #### (17) Private nonprofit organization
 
-&emsp;The term “private nonprofit organization” means an organization—
+&emsp;The term "private nonprofit organization" means an organization—
 
 &emsp;&emsp;(A) no part of the net earnings of which inures to the benefit of any member, founder, contributor, or individual;
 
@@ -162,11 +162,11 @@ For purposes of this subchapter:
 
 #### (18) Project
 
-&emsp;The term “project” means, with respect to activities carried out under part C, eligible activities described in section 11383(a) of this title, undertaken pursuant to a specific endeavor, such as serving a particular population or providing a particular resource.
+&emsp;The term "project" means, with respect to activities carried out under part C, eligible activities described in section 11383(a) of this title, undertaken pursuant to a specific endeavor, such as serving a particular population or providing a particular resource.
 
 #### (19) Project-based
 
-&emsp;The term “project-based” means, with respect to rental assistance, that the assistance is provided pursuant to a contract that—
+&emsp;The term "project-based" means, with respect to rental assistance, that the assistance is provided pursuant to a contract that—
 
 &emsp;&emsp;(A) is between—
 
@@ -178,11 +178,11 @@ For purposes of this subchapter:
 
 #### (20) Project sponsor
 
-&emsp;The term “project sponsor” means, with respect to proposed eligible activities, the organization directly responsible for carrying out the proposed eligible activities.
+&emsp;The term "project sponsor" means, with respect to proposed eligible activities, the organization directly responsible for carrying out the proposed eligible activities.
 
 #### (21) Recipient
 
-&emsp;Except as used in part B, the term “recipient” means an eligible entity who—
+&emsp;Except as used in part B, the term "recipient" means an eligible entity who—
 
 &emsp;&emsp;(A) submits an application for a grant under section 11382 of this title that is approved by the Secretary;
 
@@ -194,19 +194,19 @@ For purposes of this subchapter:
 
 #### (22) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Housing and Urban Development.
+&emsp;The term "Secretary" means the Secretary of Housing and Urban Development.
 
 #### (23) Serious mental illness
 
-&emsp;The term “serious mental illness” means a severe and persistent mental illness or emotional impairment that seriously limits a person's ability to live independently.
+&emsp;The term "serious mental illness" means a severe and persistent mental illness or emotional impairment that seriously limits a person's ability to live independently.
 
 #### (24) Solo applicant
 
-&emsp;The term “solo applicant” means an entity that is an eligible entity, directly submits an application for a grant under part C to the Secretary, and, if awarded such grant, receives such grant directly from the Secretary.
+&emsp;The term "solo applicant" means an entity that is an eligible entity, directly submits an application for a grant under part C to the Secretary, and, if awarded such grant, receives such grant directly from the Secretary.
 
 #### (25) Sponsor-based
 
-&emsp;The term “sponsor-based” means, with respect to rental assistance, that the assistance is provided pursuant to a contract that—
+&emsp;The term "sponsor-based" means, with respect to rental assistance, that the assistance is provided pursuant to a contract that—
 
 &emsp;&emsp;(A) is between—
 
@@ -222,11 +222,11 @@ For purposes of this subchapter:
 
 #### (26) State
 
-&emsp;Except as used in part B, the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+&emsp;Except as used in part B, the term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
 #### (27) Supportive services
 
-&emsp;The term “supportive services” means services that address the special needs of people served by a project, including—
+&emsp;The term "supportive services" means services that address the special needs of people served by a project, including—
 
 &emsp;&emsp;(A) the establishment and operation of a child care services program for families experiencing homelessness;
 
@@ -254,7 +254,7 @@ For purposes of this subchapter:
 
 #### (28) Tenant-based
 
-&emsp;The term “tenant-based” means, with respect to rental assistance, assistance that—
+&emsp;The term "tenant-based" means, with respect to rental assistance, assistance that—
 
 &emsp;&emsp;(A) allows an eligible person to select a housing unit in which such person will live using rental assistance provided under part C, except that if necessary to assure that the provision of supportive services to a person participating in a program is feasible, a recipient or project sponsor may require that the person live—
 
@@ -266,23 +266,23 @@ For purposes of this subchapter:
 
 #### (29) Transitional housing
 
-&emsp;The term “transitional housing” means housing the purpose of which is to facilitate the movement of individuals and families experiencing homelessness to permanent housing within 24 months or such longer period as the Secretary determines necessary.
+&emsp;The term "transitional housing" means housing the purpose of which is to facilitate the movement of individuals and families experiencing homelessness to permanent housing within 24 months or such longer period as the Secretary determines necessary.
 
 #### (30) Unified funding agency
 
-&emsp;The term “unified funding agency” means a collaborative applicant that performs the duties described in section 11360a(g) of this title.
+&emsp;The term "unified funding agency" means a collaborative applicant that performs the duties described in section 11360a(g) of this title.
 
 #### (31) Underserved populations
 
-&emsp;The term “underserved populations” includes populations underserved because of geographic location, underserved racial and ethnic populations, populations underserved because of special needs (such as language barriers, disabilities, alienage status, or age), and any other population determined to be underserved by the Secretary, as appropriate.
+&emsp;The term "underserved populations" includes populations underserved because of geographic location, underserved racial and ethnic populations, populations underserved because of special needs (such as language barriers, disabilities, alienage status, or age), and any other population determined to be underserved by the Secretary, as appropriate.
 
 #### (32) Victim service provider
 
-&emsp;The term “victim service provider” means a private nonprofit organization whose primary mission is to provide services to victims of domestic violence, dating violence, sexual assault, or stalking. Such term includes rape crisis centers, battered women's shelters, domestic violence transitional housing programs, and other programs.
+&emsp;The term "victim service provider" means a private nonprofit organization whose primary mission is to provide services to victims of domestic violence, dating violence, sexual assault, or stalking. Such term includes rape crisis centers, battered women's shelters, domestic violence transitional housing programs, and other programs.
 
 #### (33) Victim services
 
-&emsp;The term “victim services” means services that assist domestic violence, dating violence, sexual assault, or stalking victims, including services offered by rape crisis centers and domestic violence shelters, and other organizations, with a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking.
+&emsp;The term "victim services" means services that assist domestic violence, dating violence, sexual assault, or stalking victims, including services offered by rape crisis centers and domestic violence shelters, and other organizations, with a documented history of effective work concerning domestic violence, dating violence, sexual assault, or stalking.
 
 (Pub. L. 100–77, title IV, §401, as added Pub. L. 111–22, div. B, title I, §1101(3), May 20, 2009, 123 Stat. 1669.)
 
@@ -292,23 +292,27 @@ A prior section 401 of Pub. L. 100–77 was renumbered section 403 and is classi
 
 #### Effective Date
 
-Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and UrbanDevelopment, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
+Section effective on the earlier of 18 months after May 20, 2009, or 3 months after publication of certain final regulations by Secretary of Housing and Urban Development, see section 1503 of Pub. L. 111–22, set out as an Effective Date of 2009 Amendment note under section 11302 of this title.
+
+#### Termination of Trust Territory of the Pacific Islands
+
+For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### HEARTH Act Technical Corrections
 
-Pub. L. 112–141, div. F, title II, §100261, July 6, 2012, 126 Stat. 978, provided that: “For purposes of title IV of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11360 et seq.)—
+Pub. L. 112–141, div. F, title II, §100261, July 6, 2012, 126 Stat. 978, provided that: "For purposes of title IV of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11360 et seq.)—
 
-&emsp;“(1) the term ‘local government’ includes an instrumentality of a unit of general purpose local government other than a public housing agency that is established pursuant to legislation and designated by the chief executive to act on behalf of the local government with regard to activities funded under such title IV and includes a combination of general purpose local governments, such as an association of governments, that is recognized by the Secretary of Housing and Urban Development;
+&emsp;"(1) the term 'local government' includes an instrumentality of a unit of general purpose local government other than a public housing agency that is established pursuant to legislation and designated by the chief executive to act on behalf of the local government with regard to activities funded under such title IV and includes a combination of general purpose local governments, such as an association of governments, that is recognized by the Secretary of Housing and Urban Development;
 
-&emsp;“(2) the term ‘State’ includes any instrumentality of any of the several States designated by the Governor to act on behalf of the State and does not include the District of Columbia;
+&emsp;"(2) the term 'State' includes any instrumentality of any of the several States designated by the Governor to act on behalf of the State and does not include the District of Columbia;
 
-&emsp;“(3) for purposes of environmental review, the Secretary of Housing and Urban Development shall continue to permit assistance and projects to be treated as assistance for special projects that are subject to section 305(c) of the Multifamily Housing Property Disposition Reform Act of 1994 (42 U.S.C. 3547), and subject to the regulations issued by the Secretary of Housing and Urban Development to implement such section; and
+&emsp;"(3) for purposes of environmental review, the Secretary of Housing and Urban Development shall continue to permit assistance and projects to be treated as assistance for special projects that are subject to section 305(c) of the Multifamily Housing PropertyDisposition Reform Act of 1994 (42 U.S.C. 3547), and subject to the regulations issued by the Secretary of Housing and Urban Development to implement such section; and
 
-&emsp;“(4) a metropolitan city and an urban county that each receive an allocation under such title IV and are located within a geographic area that is covered by a single continuum of care may jointly request the Secretary of Housing and Urban Development to permit the urban county or the metropolitan city, as agreed to by such county and city, to receive and administer their combined allocations under a single grant.”
+&emsp;"(4) a metropolitan city and an urban county that each receive an allocation under such title IV and are located within a geographic area that is covered by a single continuum of care may jointly request the Secretary of Housing and Urban Development to permit the urban county or the metropolitan city, as agreed to by such county and city, to receive and administer their combined allocations under a single grant."
 
 #### Definitions
 
-For provisions relating to definitions of “State” and “local government” as used in this section, see section 100261 of Pub. L. 112–141, set out as a HEARTH Act Technical Corrections note above.
+For provisions relating to definitions of "State" and "local government" as used in this section, see section 100261 of Pub. L. 112–141, set out as a HEARTH Act Technical Corrections note above.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of this”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of this".</i>
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 88–515, §1, Aug. 30, 1964, 78 Stat. 696.
 
-The words “manufactured on or after the effective date of this section” are omitted as executed.
+The words "manufactured on or after the effective date of this section" are omitted as executed.
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Sept. 7, 1916, ch. 451, §36, 39 Stat. 738.
 
-Only the word “cargo” is used, instead of “merchandise”, “freight”, and “cargo”, for consistency in the section.
+Only the word "cargo" is used, instead of "merchandise", "freight", and "cargo", for consistency in the section.
 

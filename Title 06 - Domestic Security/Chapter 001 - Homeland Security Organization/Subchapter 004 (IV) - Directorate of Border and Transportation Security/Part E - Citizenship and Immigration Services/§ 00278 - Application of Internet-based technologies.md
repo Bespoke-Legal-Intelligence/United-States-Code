@@ -12,7 +12,7 @@ The Secretary, not later than 1 year after the effective date of this chapter, i
 
 #### (2) Report
 
-&emsp;A report on the study under this subsection shall be submitted to the Committees on the Judiciary of the House of Representatives and the Senate not later than 1 year after the effective date of this chapter.
+&emsp;A report on the study under this subsection shall be submitted to the Committees on the Judiciary of the House of Representatives andthe Senate not later than 1 year after the effective date of this chapter.
 
 #### (c) Technology Advisory Committee
 
@@ -36,7 +36,7 @@ The Secretary, not later than 1 year after the effective date of this chapter, i
 
 The effective date of this chapter, referred to in subsecs. (a), (b)(2), and (c)(1), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
 
-The Immigration and Nationality Act, referred to in subsec. (a), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. Forcomplete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (a), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 #### Termination of Advisory Committees
 

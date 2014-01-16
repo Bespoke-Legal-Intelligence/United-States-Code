@@ -10,37 +10,37 @@ The Congress declares that it is the policy of the United States to support the 
 
 #### (c) Treatment of foreign missions in United States
 
-The treatment to be accorded to a foreign mission in the United States shall be determined by the Secretary after due consideration of the benefits, privileges, and immunities provided to missions of the United States in the country or territory represented by that foreign mission, as well as matters relating to the protection of the interests of the United States.
+The treatment to be accorded to a foreign mission in the United States shall be determined bythe Secretary after due consideration of the benefits, privileges, and immunities provided to missions of the United States in the country or territory represented by that foreign mission, as well as matters relating to the protection of the interests of the United States.
 
 (Aug. 1, 1956, ch. 841, title II, §201, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 283; amended Pub. L. 99–93, title I, §127(a), Aug. 16, 1985, 99 Stat. 418.)
 
 #### Amendments
 
-<b>1985</b>—Subsec. (c). Pub. L. 99–93 inserted “, as well as matters relating to the protection of the interests of the United States”.
+<b>1985</b>—Subsec. (c). Pub. L. 99–93 inserted ", as well as matters relating to the protection of the interests of the United States".
 
 #### Effective Date
 
-Pub. L. 97–241, title II, §204, Aug. 24, 1982, 96 Stat. 291, provided that: “The amendments made by this title \[see Short Title note below\] shall take effect on October 1, 1982.”
+Pub. L. 97–241, title II, §204, Aug. 24, 1982, 96 Stat. 291, provided that: "The amendments made by this title \[see Short Title note below\] shall take effect on October 1, 1982."
 
 #### Short Title of 1983 Amendment
 
-Pub. L. 98–164, title VI, §601, Nov. 22, 1983, 97 Stat. 1042, provided that: “This title \[enacting section 4304a of this title, amending sections 254e and 4303 of this title, and enacting provisions set out as a note under section 4303 of this title\] may be cited as the ‘Foreign Missions Amendments Act of 1983’.”
+Pub. L. 98–164, title VI, §601, Nov. 22, 1983, 97 Stat. 1042, provided that: "This title \[enacting section 4304a of this title, amending sections 254e and 4303 of this title, and enacting provisions set out as a note under section 4303 of this title\] may be cited as the 'Foreign Missions Amendments Act of 1983'."
 
 #### Short Title
 
-Pub. L. 97–241, title II, §201, Aug. 24, 1982, 96 Stat. 282, provided that: “This title \[enacting this chapter, amending sections 254a, 254b, 254c, 2662, and 2684 of this title and section 1364 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] may be cited as the ‘Foreign Missions Act’.”
+Pub. L. 97–241, title II, §201, Aug. 24, 1982, 96 Stat. 282, provided that: "This title \[enacting this chapter, amending sections 254a, 254b, 254c, 2662, and 2684 of this title and section 1364 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] may be cited as the 'Foreign Missions Act'."
 
 #### United States Department of State Freedom of Expression
 
 Pub. L. 100–204, title I, §133, Dec. 22, 1987, 101 Stat. 1344, provided that:
 
-“(a)
+"(a)
 
 Finding.—Congress finds that the United States Department of State, on September 15, 1987, declared itself to be a temporary foreign diplomatic mission for the purpose of denying free speech to American citizens who planned to protest the tyranny of the Soviet regime.
 
-“(b)
+"(b)
 
-Prohibition.—It is not in the national security interest of the United States for the Department of State to declare, and it shall not declare, itself to be a foreign diplomatic mission.”
+Prohibition.—It is not in the national security interest of the United States for the Department of State to declare, and it shall not declare, itself to be a foreign diplomatic mission."
 
 #### United States-Soviet Reciprocity in Matters Relating to Embassies
 

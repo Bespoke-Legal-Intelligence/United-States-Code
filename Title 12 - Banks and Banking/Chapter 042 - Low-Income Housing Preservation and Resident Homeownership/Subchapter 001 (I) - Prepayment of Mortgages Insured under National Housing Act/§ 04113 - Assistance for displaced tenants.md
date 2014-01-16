@@ -28,7 +28,7 @@ The Secretary shall coordinate with public housing agencies to ensure that any v
 
 #### (d) Required acceptance of section 1437f assistance
 
-An owner who prepays the mortgage (or terminates the mortgage insurance contract) on eligible low-income housing and maintains the housing for residential rental occupancy may not refuse to rent, refuse to negotiate for the rental of, or otherwise make unavailable or deny the rent of a dwelling unit in such property to any person, or discriminate against any person in the terms, conditions, or privileges of rental ofa dwelling (or in the provision of services or facilities in connection therewith), because the person receives assistance under section 1437f of title 42.
+An owner who prepays the mortgage (or terminates the mortgage insurance contract) on eligible low-income housing and maintains the housing for residential rental occupancy may not refuse to rent, refuse to negotiate for the rental of, or otherwise make unavailable or deny the rent of a dwelling unit in such property to any person, or discriminate against any person in the terms, conditions, or privileges of rental of a dwelling (or in the provision of services or facilities in connection therewith), because the person receives assistance under section 1437f of title 42.
 
 #### (e) Regional pools
 
@@ -56,11 +56,11 @@ In providing assistance under this section, the Secretary shall allocate the ass
 
 <b>1999</b>—Subsec. (f). Pub. L. 106–74 added subsec. (f).
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–276 substituted “tenant-based assistance under section 1437f of title 42” for “assistance under the certificate and voucher programs under sections 1437f(b) and 1437f(o)”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–276 substituted "tenant-based assistance under section 1437f of title 42" for "assistance under the certificate and voucher programs under sections 1437f(b) and 1437f(o)".
 
 #### Effective Date of 1998 Amendment
 
 Amendment by title V of Pub. L. 105–276 effective and applicable beginning upon Oct. 1, 1999, except as otherwise provided, with provision that Secretary may implement amendment before such date, except to extent that such amendment provides otherwise, and with savings provision, see section 503 of Pub. L. 105–276, set out as a note under section 1437 of Title 42, The Public Health and Welfare.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 

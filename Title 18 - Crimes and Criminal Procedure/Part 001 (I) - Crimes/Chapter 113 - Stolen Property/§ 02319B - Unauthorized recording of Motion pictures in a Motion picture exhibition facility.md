@@ -54,11 +54,11 @@ Definitions.—In this section, the following definitions shall apply:
 
 &emsp;(1)
 
-Title 17 definitions.—The terms “audiovisual work”, “copy”, “copyright owner”, “motion picture”, “motion picture exhibition facility”, and “transmit” have, respectively, the meanings given those terms in section 101 of title 17.
+Title 17 definitions.—The terms "audiovisual work", "copy", "copyright owner", "motion picture", "motion picture exhibition facility", and "transmit" have, respectively, the meanings given those terms in section 101 of title 17.
 
 &emsp;(2)
 
-Audiovisual recording device.—The term “audiovisual recording device” means a digital or analog photographic or video camera, or any other technology or device capable of enabling the recording or transmission of a copyrighted motion picture or other audiovisual work, or any part thereof, regardless of whether audiovisual recording is the sole or primary purpose of the device.
+Audiovisual recording device.—The term "audiovisual recording device" means a digital or analog photographic or video camera, or any other technology or device capable of enabling the recording or transmission of a copyrighted motion picture or other audiovisual work, or any part thereof, regardless of whether audiovisual recording is the sole or primary purpose of the device.
 
 (Added Pub. L. 109–9, title I, §102(a), Apr. 27, 2005, 119 Stat. 218; amended Pub. L. 110–403, title II, §204, Oct. 13, 2008, 122 Stat. 4261.)
 
@@ -68,5 +68,5 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), are set 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–403 amended subsec. (b) generally. Prior to amendment, text read as follows: “When a person is convicted of a violation of subsection (a), the court in its judgment of conviction shall, in addition to any penalty provided, order the forfeiture and destruction or other disposition of all unauthorized copies of motion pictures or other audiovisual works protected under title 17, or parts thereof, and any audiovisual recording devices or other equipment used in connection with the offense.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–403 amended subsec. (b) generally. Prior to amendment, text read as follows: "When a person is convicted of a violation of subsection (a), the court in its judgment of conviction shall, in addition to any penalty provided, order the forfeiture and destruction or other disposition of all unauthorized copies of motion pictures or other audiovisual works protected under title 17, or parts thereof, and any audiovisual recording devices or other equipment used in connection with the offense."
 

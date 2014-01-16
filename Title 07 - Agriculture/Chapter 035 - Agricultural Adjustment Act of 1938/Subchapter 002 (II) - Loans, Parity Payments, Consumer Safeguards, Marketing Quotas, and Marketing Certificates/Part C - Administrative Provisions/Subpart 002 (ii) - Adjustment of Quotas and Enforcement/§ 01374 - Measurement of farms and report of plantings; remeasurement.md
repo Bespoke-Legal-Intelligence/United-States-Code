@@ -4,21 +4,21 @@
 
 (b) With respect to cotton, the Secretary, upon such terms and conditions as he may by regulation prescribe, shall provide, through the county and local committees for the measurement prior to planting of an acreage on the farm equal to the farm acreage allotment if so requested by the farm operator, and any farm on which the acreage planted to cotton does not exceed such measured acreage shall be deemed to be in compliance with the farm acreage allotment.
 
-(c) The Secretary shall by appropriate regulations provide for the remeasurement upon request by the farm operator of the acreage planted to such commodity on the farm and for the measurement of the acreage planted to such commodity on the farm remaining after any adjustment of excess acreage hereunder and shall prescribe the conditions under which the farm operator shall be required to pay the county committee for the expense of the measurement of adjusted acreage or the expense of remeasurement after the initial measurement or the measurement of adjusted acreage. The regulations shall also provide for the refund of any deposit or payment made for the expense of the remeasurement of the initially determined acreage or the adjusted acreage when because of an error in the determination of such acreage the remeasurement brings the acreage within the allotment or permitted acreage or results in a change in acreage in excess of a reasonable variation normal to measurements of acreage of the commodity. Unless the requirements for measurement of adjusted acreage are met by the farm operator, the acreage prior to such adjustment as determined by the county committee shall be considered the acreage of the commodity on the farm in determining whether the applicable farm allotment has been exceeded.
+(c) The Secretary shall by appropriate regulations provide for the remeasurement upon request by the farm operator of the acreage planted to such commodity on the farm and for the measurement of the acreage planted to such commodity on the farm remaining after any adjustment of excess acreage hereunder and shall prescribe the conditions under which the farm operator shall be required to pay the county committee for the expense of the measurement of adjusted acreage or the expense of remeasurement after the initial measurement or the measurement of adjusted acreage. The regulations shall also provide for the refund of any deposit or payment made for the expense of the remeasurement of the initially determined acreage or the adjusted acreage when because of an error in the determination of such acreage the remeasurement brings the acreage within the allotment or permitted acreage or results in a change in acreage in excess of a reasonable variation normal to measurements of acreage of thecommodity. Unless the requirements for measurement of adjusted acreage are met by the farm operator, the acreage prior to such adjustment as determined by the county committee shall be considered the acreage of the commodity on the farm in determining whether the applicable farm allotment has been exceeded.
 
 (Feb. 16, 1938, ch. 30, title III, §374, 52 Stat. 65; Apr. 3, 1941, ch. 39, §8, 55 Stat. 92; Aug. 29, 1949, ch. 518, §2(b), 63 Stat. 676; Aug. 28, 1954, ch. 1041, title III, §311(b), 68 Stat. 904; Pub. L. 86–553, §§1, 2, June 30, 1960, 74 Stat. 258; Pub. L. 89–321, title VII, §§701, 702, Nov. 3, 1965, 79 Stat. 1210; Pub. L. 91–524, title VI, §612, Nov. 30, 1970, as added Pub. L. 93–86, §1(25), Aug. 10, 1973, 87 Stat. 236; Pub. L. 95–113, title VI, §605, Sept. 29, 1977, 91 Stat. 940; Pub. L. 97–98, title V, §505, Dec. 22, 1981, 95 Stat. 1241; Pub. L. 99–198, title V, §505, Dec. 23, 1985, 99 Stat. 1418; Pub. L. 101–624, title V, §504, Nov. 28, 1990, 104 Stat. 3440; Pub. L. 102–237, title I, §116(2), Dec. 13, 1991, 105 Stat. 1840.)
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–237 inserted “(or, at the option of those cotton producers who had an established practice of using 32 inch rows before the 1991 crop, 32 inch rows)” after “30 inch rows” and inserted at end “For the 1992 through 1995 crops, the rules establishing the requirements for eligibility for conserving use for payment acres shall be the same rules as were in effect for 1991 crops.”
+<b>1991</b>—Subsec. (a). Pub. L. 102–237 inserted "(or, at the option of those cotton producers who had an established practice of using 32 inch rows before the 1991 crop, 32 inch rows)" after "30 inch rows" and inserted at end "For the 1992 through 1995 crops, the rules establishing the requirements for eligibility for conserving use for payment acres shall be the same rules as were in effect for 1991 crops."
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted “1995 crops, except that, for the 1991 through 1995 crops, the rules shall allow 30 inch rows to be taken into account for classifying the acreage planted to cotton and the area skipped” for “1990 crops”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted "1995 crops, except that, for the 1991 through 1995 crops, the rules shall allow 30 inch rows to be taken into account for classifying the acreage planted to cotton and the area skipped" for "1990 crops".
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–198 substituted “1990 crops” for “1985 crops”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–198 substituted "1990 crops" for "1985 crops".
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–98 substituted “1985 crops” for “1981 crops”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–98 substituted "1985 crops" for "1981 crops".
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–113 substituted “1981” for “1977” in provisions setting the last year for application of the 1971 through 1973 skiprow patterns in classifying the acreage planted to cotton.
+<b>1977</b>—Subsec. (a). Pub. L. 95–113 substituted "1981" for "1977" in provisions setting the last year for application of the 1971 through 1973 skiprow patterns in classifying the acreage planted to cotton.
 
 <b>1973</b>—Subsec. (a). Pub. L. 91–524, §612, as added by Pub. L. 93–86, inserted provisions relating to cotton planted in skiprow patterns.
 
@@ -26,9 +26,9 @@
 
 Subsec. (c). Pub. L. 89–321, §702, struck out sentence directing the Secretary to provide by regulation for the adjustment of planted acreage to the farm acreage allotment if the acreage determined to be planted to any basic agricultural commodity on the farm is in excess of the farm acreage allotment.
 
-<b>1960</b>—Subsec. (b). Pub. L. 86–553, §1, struck out second sentence which read as follows: “The Secretary shall similarly provide for the remeasurement upon request by the farm operator of the acreage planted to cotton on the farm, but the operator shall be required to reimburse the local committee for the expense of such remeasurement if the planted acreage is found to be in excess of the allotted acreage” which is now covered by subsec. (c) of this section.
+<b>1960</b>—Subsec. (b). Pub. L. 86–553, §1, struck out second sentence which read as follows: "The Secretary shall similarly provide for the remeasurement upon request by the farm operator of the acreage planted to cotton on the farm, but the operator shall be required to reimburse the local committee for the expense of such remeasurement if the planted acreage is found to be in excess of the allotted acreage" which is now covered by subsec. (c) of this section.
 
-Subsec. (c). Pub. L. 86–553, §2, authorized Secretary to provide by regulations for remeasurement of acreageplanted to a basic agricultural commodity and for measurement of acreage planted to such commodity remaining after adjustment of excess of measurement and remeasurement and to provide for refunds, and prescribed method of computing acreage in determining whether the applicable farm allotment has been exceeded.
+Subsec. (c). Pub. L. 86–553, §2, authorized Secretary to provide by regulations for remeasurement of acreage planted to a basic agricultural commodity and for measurement of acreage planted to such commodity remaining after adjustment of excess of measurement and remeasurement and to provide for refunds, and prescribed method of computing acreage in determining whether the applicable farm allotment has been exceeded.
 
 <b>1954</b>—Subsec. (b). Act Aug. 28, 1954, struck out last sentence relating to overplanting of cotton acreage.
 
@@ -36,7 +36,7 @@ Subsec. (c). Act Aug. 28, 1954, added subsec. (c).
 
 <b>1949</b>—Act Aug. 29, 1949, redesignated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1941</b>—Act Apr. 3, 1941, inserted “peanuts,” after “cotton,”.
+<b>1941</b>—Act Apr. 3, 1941, inserted "peanuts," after "cotton,".
 
 #### Effective Date of 1990 Amendment
 

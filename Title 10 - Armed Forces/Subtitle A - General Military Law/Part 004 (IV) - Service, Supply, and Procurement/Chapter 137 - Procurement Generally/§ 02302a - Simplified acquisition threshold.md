@@ -12,9 +12,9 @@ Inapplicable Laws.—No law properly listed in the Federal Acquisition Regulatio
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–350, §5(b)(9)(A), substituted “section 134 of title 41” for “section 4(11) of the Office of Federal Procurement Policy Act”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–350, §5(b)(9)(A), substituted "section 134 of title 41" for "section 4(11) of the Office of Federal Procurement Policy Act".
 
-Subsec. (b). Pub. L. 111–350, §5(b)(9)(B), substituted “section 1905 of title 41” for “section 33 of the Office of Federal Procurement Policy Act”.
+Subsec. (b). Pub. L. 111–350, §5(b)(9)(B), substituted "section 1905 of title 41" for "section 33 of the Office of Federal Procurement Policy Act".
 
 <b>1994</b>—Subsec. (b). Pub. L. 103–355, §4102(a), added subsec. (b).
 

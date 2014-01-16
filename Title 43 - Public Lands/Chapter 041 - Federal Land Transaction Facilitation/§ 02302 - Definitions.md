@@ -4,13 +4,13 @@ In this chapter:
 
 #### (1) Exceptional resource
 
-&emsp;The term “exceptional resource” means a resource of scientific, natural, historic, cultural, or recreational value that has been documented by a Federal, State, or local governmental authority, and for which there is a compelling need for conservation and protection under the jurisdiction of a Federal agency in order to maintain the resource for the benefit of the public.
+&emsp;The term "exceptional resource" means a resource of scientific, natural, historic, cultural, or recreational value that has been documented by a Federal, State, or local governmental authority, and for which there is a compelling need for conservation and protection under the jurisdiction of a Federal agency in order to maintain the resource for the benefit of the public.
 
 #### (2) Federally designated area
 
-&emsp;The term “federally designated area” means land in Alaska and the eleven contiguous Western States (as defined in section 1702(o) of this title) that on July 25, 2000, was within the boundary of—
+&emsp;The term "federally designated area" means land in Alaska and the eleven contiguous Western States (as defined in section 1702(o) of this title) that on July 25, 2000, was within the boundary of—
 
-&emsp;&emsp;(A) a national monument, area of critical environmental concern, national conservation area, national riparian conservation area, national recreation area, national scenic area, research natural area, nationaloutstanding natural area, or a national natural landmark managed by the Bureau of Land Management;
+&emsp;&emsp;(A) a national monument, area of critical environmental concern, national conservation area, national riparian conservation area, national recreation area, national scenic area, research natural area, national outstanding natural area, or a national natural landmark managed by the Bureau of Land Management;
 
 &emsp;&emsp;(B) a unit of the National Park System;
 
@@ -30,21 +30,21 @@ In this chapter:
 
 #### (3) Inholding
 
-&emsp;The term “inholding” means any right, title, or interest, held by a non-Federal entity, in or to a tract of land that lies within the boundary of a federally designated area.
+&emsp;The term "inholding" means any right, title, or interest, held by a non-Federal entity, in or to a tract of land that lies within the boundary of a federally designated area.
 
 #### (4) Public land
 
-&emsp;The term “public land” means public lands (as defined in section 1702 of this title).
+&emsp;The term "public land" means public lands (as defined in section 1702 of this title).
 
 #### (5) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior.
+&emsp;The term "Secretary" means the Secretary of the Interior.
 
 (Pub. L. 106–248, title II, §203, July 25, 2000, 114 Stat. 614.)
 
 #### References in Text
 
-The Wilderness Act, referred to in par. (2)(E)(i), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended, which is classified generally to chapter 23 (§1131 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of Title 16 and Tables.
+The Wilderness Act, referred to in par. (2)(E)(i), is Pub. L. 88–577, Sept. 3, 1964, 78 Stat. 890, as amended,which is classified generally to chapter 23 (§1131 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1131 of Title 16 and Tables.
 
 The Wild and Scenic Rivers Act, referred to in par. (2)(E)(iii), is Pub. L. 90–542, Oct. 2, 1968, 82 Stat. 906, as amended, which is classified generally to chapter 28 (§1271 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1271 of Title 16 and Tables.
 

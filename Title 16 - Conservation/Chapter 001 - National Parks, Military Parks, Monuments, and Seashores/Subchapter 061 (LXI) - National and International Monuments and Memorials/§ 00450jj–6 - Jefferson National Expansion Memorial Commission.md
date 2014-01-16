@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established the Jefferson National Expansion Memorial Commission (hereinafter in sections 450jj–6 to 450jj–9 of this title referred to as the “Commission”).
+There is hereby established the Jefferson National Expansion Memorial Commission (hereinafter in sections 450jj–6 to 450jj–9 of this title referred to as the "Commission").
 
 #### (b) Composition
 
@@ -60,7 +60,7 @@ The Commission shall be composed of twenty members as follows:
 
 #### (d) Compensation of members; travel expenses and per diem
 
-Members of the Commission shall receive no pay on account of their service on the Commission, but while away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in the samemanner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
+Members of the Commission shall receive no pay on account of their service on the Commission, but while away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5.
 
 #### (e) Chairperson
 
@@ -82,7 +82,7 @@ The Commission may, for the purposes of carrying out the Commission's duties und
 
 (May 17, 1954, ch. 204, §7, as added Pub. L. 98–398, title II, §201(a), Aug. 24, 1984, 98 Stat. 1469.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection (b)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection (b)".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "of".</i>
 

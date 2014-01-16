@@ -8,7 +8,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 #### (A) In general
 
-&emsp;&emsp;The recipient may carry out national service programs through an Education Corps that identifies and meets unmet educationalneeds within communities through activities such as those described in subparagraph (B) and improves performance on the indicators described in subparagraph (C).
+&emsp;&emsp;The recipient may carry out national service programs through an Education Corps that identifies and meets unmet educational needs within communities through activities such as those described in subparagraph (B) and improves performance on the indicators described in subparagraph (C).
 
 #### (B) Activities
 
@@ -136,7 +136,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;&emsp;(I) undertakes meaningful service projects with visible public benefits, including projects involving urban renewal, sustaining natural resources, or improving human services;
 
-&emsp;&emsp;&emsp;&emsp;(II) includes as participants youths and young adults who are age 16 through 25, including out-of-school youth and other disadvantaged youth (such as youth who are aging out of foster care, youth who have limited English proficiency, homeless youth, and youth who are individuals with disabilities), who are age 16 through 25; and
+&emsp;&emsp;&emsp;&emsp;(II) includes as participants youths and young adults who are age 16 through 25,including out-of-school youth and other disadvantaged youth (such as youth who are aging out of foster care, youth who have limited English proficiency, homeless youth, and youth who are individuals with disabilities), who are age 16 through 25; and
 
 &emsp;&emsp;&emsp;&emsp;(III) provides those participants who are youth and young adults with—
 
@@ -188,7 +188,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(vii) other activities, addressing unmet needs of veterans, that the Corporation may designate.
 
-#### (C) Veterans’ Corps indicators
+#### (C) Veterans' Corps indicators
 
 &emsp;&emsp;The indicators for a corps program described in this paragraph are—
 
@@ -204,11 +204,11 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;&emsp;(vi) the number of economically disadvantaged students engaged in mentoring relationships with veterans;
 
-&emsp;&emsp;&emsp;(vii) the number of projects designed to meet identifiable public needs of veterans, especially veterans with disabilities, veterans who are unemployed, older veterans, and veterans in rural communities;
+&emsp;&emsp;&emsp;(vii) the number of projects designed to meet identifiable public needs of veterans,especially veterans with disabilities, veterans who are unemployed, older veterans, and veterans in rural communities;
 
 &emsp;&emsp;&emsp;(viii) any additional indicator that relates to education or skill attainment that assists in providing veterans with the skills to address identifiable public needs, or that relates to improving the lives of veterans, of members of the Armed Forces on active duty, and of families of the veterans and the members on active duty, and that the Corporation, in consultation (as appropriate) with the Secretary of Veterans Affairs, establishes; or
 
-&emsp;&emsp;&emsp;(ix) any additional local indicator (applicable to a particular recipient and on which an improvement in performance isneeded) relating to the education or skill attainment, or the improvement, described in clause (viii), that is approved by the Corporation or a State Commission.
+&emsp;&emsp;&emsp;(ix) any additional local indicator (applicable to a particular recipient and on which an improvement in performance is needed) relating to the education or skill attainment, or the improvement, described in clause (viii), that is approved by the Corporation or a State Commission.
 
 #### (5) Opportunity Corps
 
@@ -350,7 +350,7 @@ The recipient of a grant under section 12571(a) of this title and a Federal agen
 
 &emsp;&emsp;(B) A service program that—
 
-&emsp;&emsp;&emsp;(i) recruits individuals with special skills or provides specialized preservice training to enable participants to be placed individually or in teams in positions in which theparticipants can meet such unmet needs; and
+&emsp;&emsp;&emsp;(i) recruits individuals with special skills or provides specialized preservice training to enable participants to be placed individually or in teams in positions in which the participants can meet such unmet needs; and
 
 &emsp;&emsp;&emsp;(ii) if consistent with the purposes of the program, brings participants together for additional training and other activities designed to foster civic responsibility, increase the skills of participants, and improve the quality of the service provided.
 
@@ -492,7 +492,7 @@ Not later than 60 days after the end of each fiscal year for which the Corporati
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(2)(F)(ii) and (f)(1)(A), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+This chapter, referred to in subsecs. (b)(2)(F)(ii) and (f)(1)(A), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (c)(1)(C)(i), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219. Part C of title IV of the Act is classified generally to part C (§2751 et seq.) of subchapter I of chapter 34 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 20, Education, and Tables.
 
@@ -506,15 +506,15 @@ A prior section 122 of Pub. L. 101–610 was renumbered section 199B, and is cla
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–13 substituted “National” for “Types of national” in section catchline and amended text generally. Prior to amendment, section enumerated eligible types of national service programs, set forth qualification criteria to determine eligibility, and required establishment of priorities regarding national service programs.
+<b>2009</b>—Pub. L. 111–13 substituted "National" for "Types of national" in section catchline and amended text generally. Prior to amendment, section enumerated eligible types of national service programs, set forth qualification criteria to determine eligibility, and required establishment of priorities regarding national service programs.
 
 #### Effective Date of 2009 Amendment
 
 Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as a note under section 4950 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "or".</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “paragraph”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "paragraph".</i>
 

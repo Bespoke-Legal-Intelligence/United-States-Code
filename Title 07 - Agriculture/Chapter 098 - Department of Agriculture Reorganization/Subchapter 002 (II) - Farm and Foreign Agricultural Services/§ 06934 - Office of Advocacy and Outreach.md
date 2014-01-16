@@ -6,21 +6,21 @@ In this section:
 
 #### (1) Beginning farmer or rancher
 
-&emsp;The term “beginning farmer or rancher” has the meaning given the term in section 1991(a) of this title.
+&emsp;The term "beginning farmer or rancher" has the meaning given the term in section 1991(a) of this title.
 
 #### (2) Office
 
-&emsp;The term “Office” means the Office of Advocacy and Outreach established under this section.
+&emsp;The term "Office" means the Office of Advocacy and Outreach established under this section.
 
 #### (3) Socially disadvantaged farmer or rancher
 
-&emsp;The term “socially disadvantaged farmer or rancher” has the meaning given the term in section 2279(e) of this title.
+&emsp;The term "socially disadvantaged farmer or rancher" has the meaning given the term in section 2279(e) of this title.
 
 #### (b) Establishment and purpose
 
 #### (1) In general
 
-&emsp;The Secretary shall establish within the executive operations of the Department an office to be known as the “Office of Advocacy and Outreach”—
+&emsp;The Secretary shall establish within the executive operations of the Department an office to be known as the "Office of Advocacy and Outreach"—
 
 &emsp;&emsp;(A) to improve access to programs of the Department; and
 
@@ -108,13 +108,13 @@ The duties of the Office shall be to ensure small farms and ranches, beginning f
 
 #### (D) Other duties
 
-&emsp;&emsp;The Small Farms and Beginning Farmers and Ranchers Group may carry out other duties to improve access to, and participation in, programs of the Department by small farms and ranches and beginning farmers or ranchers, as determined by the Secretary.
+&emsp;&emsp;The Small Farms and Beginning Farmers and Ranchers Group may carry out other duties to improve access to, and participation in, programs of the Department by smallfarms and ranches and beginning farmers or ranchers, as determined by the Secretary.
 
 #### (f) Farmworker Coordinator
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish within the Office the position of Farmworker Coordinator (referred to in this subsection as the “Coordinator”).
+&emsp;The Secretary shall establish within the Office the position of Farmworker Coordinator (referred to in this subsection as the "Coordinator").
 
 #### (2) Duties
 

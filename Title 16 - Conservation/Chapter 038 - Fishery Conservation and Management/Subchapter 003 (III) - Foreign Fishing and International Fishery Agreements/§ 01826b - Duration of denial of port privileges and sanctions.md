@@ -10,5 +10,5 @@ Section was enacted as part of the High Seas Driftnet Fisheries Enforcement Act,
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 109–479 inserted “or illegal, unreported, or unregulated fishing” after “driftnet fishing”.
+<b>2007</b>—Pub. L. 109–479 inserted "or illegal, unreported, or unregulated fishing" after "driftnet fishing".
 

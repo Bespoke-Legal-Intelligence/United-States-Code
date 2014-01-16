@@ -6,11 +6,11 @@ In this part:
 
 #### (A) In general
 
-&emsp;&emsp;The term “eligible land” means land on which agricultural commodities, livestock, or forest-related products are produced.
+&emsp;&emsp;The term "eligible land" means land on which agricultural commodities, livestock, or forest-related products are produced.
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “eligible land” includes the following:
+&emsp;&emsp;The term "eligible land" includes the following:
 
 &emsp;&emsp;&emsp;(i) Cropland.
 
@@ -26,15 +26,15 @@ In this part:
 
 #### (2) National organic program
 
-&emsp;The term “national organic program” means the national organic program established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et. seq.).
+&emsp;The term "national organic program" means the national organic program established under the Organic Foods Production Act of 1990 (7 U.S.C. 6501 et. seq.).
 
 #### (3) Organic system plan
 
-&emsp;The term “organic system plan” means an organic plan approved under the national organic program.
+&emsp;The term "organic system plan" means an organic plan approved under the national organic program.
 
 #### (4) Payment
 
-&emsp;The term “payment” means financial assistance provided to a producer for performing practices under this part, including compensation for—
+&emsp;The term "payment" means financial assistance provided to a producer for performing practices under this part, including compensation for—
 
 &emsp;&emsp;(A) incurred costs associated with planning, design, materials, equipment, installation, labor, management, maintenance, or training; and
 
@@ -42,7 +42,7 @@ In this part:
 
 #### (5) Practice
 
-&emsp;The term “practice” means 1 or more improvements and conservation activities that are consistent with the purposes of the program under this part, as determined by the Secretary, including—
+&emsp;The term "practice" means 1 or more improvements and conservation activities that are consistent with the purposes of the program under this part, as determined by the Secretary, including—
 
 &emsp;&emsp;(A) improvements to eligible land of the producer, including—
 
@@ -64,7 +64,7 @@ In this part:
 
 #### (6) Program
 
-&emsp;The term “program” means the environmental quality incentives program established by this part.
+&emsp;The term "program" means the environmental quality incentives program established by this part.
 
 (Pub. L. 99–198, title XII, §1240A, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 253; amended Pub. L. 110–234, title II, §2502, May 22, 2008, 122 Stat. 1058; Pub. L. 110–246, §4(a), title II, §2502, June 18, 2008, 122 Stat. 1664, 1786.)
 
@@ -82,7 +82,7 @@ A prior section 3839aa–1, Pub. L. 99–198, title XII, §1240A, as added Pub. 
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §2502, amended section generally. Prior to amendment, section defined “beginning farmer or rancher”, “eligible land”, “land management practice”, “livestock”, “practice”, and “structural practice”.
+<b>2008</b>—Pub. L. 110–246, §2502, amended section generally. Prior to amendment, section defined "beginning farmer or rancher", "eligible land", "land management practice", "livestock", "practice", and "structural practice".
 
 #### Effective Date of 2008 Amendment
 

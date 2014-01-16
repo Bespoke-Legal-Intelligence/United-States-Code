@@ -6,7 +6,7 @@
 
 (2)(A) The Commission shall prescribe labeling rules under this section applicable to all covered products of each of the types specified in paragraphs (3), (5), and (7) of section 6292(a) of this title, except to the extent that with respect to any such type (or class thereof), the Commission determines under the second sentence of subsection (b)(5) of this section that labeling in accordance with this section is not technologically or economically feasible or is not likely to assist consumers in making purchasing decisions.
 
-(B) The Commission shall prescribe labeling rules under this section applicable to the covered product specified in paragraph (13) of section 6292(a) of this title and to which standards are applicable under section 6295 of this title. Such rules shall provide that the labeling of any fluorescent lamp ballast manufactured on or after January 1, 1990, will indicate conspicuously, in a manner prescribed by the Commission under subsection (b) of this section by July 1, 1989, a capital letter “E” printed within a circle on the ballast and on the packaging of the ballast or of the luminaire into which the ballast has been incorporated.
+(B) The Commission shall prescribe labeling rules under this section applicable to the covered product specified in paragraph (13) of section 6292(a) of this title and to which standards are applicable under section 6295 of this title. Such rules shall provide that the labeling of any fluorescent lamp ballast manufactured on or after January 1, 1990, will indicate conspicuously, in a manner prescribed by the Commission under subsection (b) of this section by July1, 1989, a capital letter "E" printed within a circle on the ballast and on the packaging of the ballast or of the luminaire into which the ballast has been incorporated.
 
 (C)
 
@@ -18,7 +18,7 @@ In general.—The Commission shall issue labeling rules under this section appli
 
 &emsp;(ii)
 
-Labeling.—The rules shall provide that the labeling of any metal halide lamp fixture manufactured on or after the later of January 1, 2009, or the date that is 270 days after December 19, 2007, shall indicate conspicuously, in a manner prescribed by the Commission under subsection (b) by July 1, 2008, a capital letter “E” printed within a circle on the packaging of the fixture, and on the ballast contained in the fixture.
+Labeling.—The rules shall provide that the labeling of any metal halide lamp fixture manufactured on or after the later of January 1, 2009, or the date that is 270 days after December 19, 2007, shall indicate conspicuously, in a manner prescribed by the Commission under subsection (b) by July 1, 2008, a capital letter "E" printed within a circle on the packaging of the fixture, and on the ballast contained in the fixture.
 
 (D)(i) Not later than 18 months after October 24, 1992, the Commission shall prescribe labeling rules under this section applicable to general service fluorescent lamps, medium base compact fluorescent lamps, and general service incandescent lamps. Except as provided in clause (ii), such rules shall provide that the labeling of any general service fluorescent lamp, medium base compact fluorescent lamp, and general service incandescent lamp manufactured after the 12-month period beginning on the date of the publication of such rule shall indicate conspicuously on the packaging of the lamp, in a manner prescribed by the Commission under subsection (b) of this section, such information as the Commission deems necessary to enable consumers to select the most energy efficient lamps which meet their requirements. Labeling information for incandescent lamps shall be based on performance when operated at 120 volts input, regardless of the rated lamp voltage.
 
@@ -42,7 +42,7 @@ Completion.—The Commission shall—
 
 &emsp;&emsp;(aa) complete the rulemaking not later than the date that is 30 months after December 19, 2007; and
 
-&emsp;&emsp;(bb) consider reopening the rulemaking not later than 180 days before the effectivedates of the standards for general service incandescent lamps established under section 6295(i)(1)(A) of this title, if the Commission determines that further labeling changes are needed to help consumers understand lamp alternatives.
+&emsp;&emsp;(bb) consider reopening the rulemaking not later than 180 days before the effective dates of the standards for general service incandescent lamps established under section 6295(i)(1)(A) of this title, if the Commission determines that further labeling changes are needed to help consumers understand lamp alternatives.
 
 (E)(i) Not later than one year after October 24, 1992, the Commission shall prescribe labeling rules under this section for showerheads and faucets to which standards are applicable under subsection (j) of section 6295 of this title. Such rules shall provide that the labeling of any showerhead or faucet manufactured after the 12-month period beginning on the date of the publication of such rule shall be consistent with the marking and labeling requirements of ASME A112.18.1M–1989, except that each showerhead and flow restricting or controlling spout-end device shall bear a permanent legible marking indicating the flow rate, expressed in gallons per minute (gpm) or gallons per cycle (gpc), and the flow rate value shall be the actual flow rate or the maximum flow rate specified by the standards established in subsection (j) of section 6295 of this title.
 
@@ -52,7 +52,7 @@ Completion.—The Commission shall—
 
 (ii) If the marking and labeling requirements of ASME A112.19.2M–1990 are revised at any time and approved by ANSI, the Commission shall amend the labeling rules established pursuant to clause (i) to be consistent with such revised ASME/ANSI requirements unless such requirements are inconsistent with the purposes of this chapter or the requirement specified in clause (i) requiring each fixture and flushometer valve to bear a permanent legible marking indicating the water use of such fixture or flushometer valve.
 
-(iii) Any labeling rules prescribed under this subparagraph before January 1, 1997, shall provide that, with respect to any gravity tank-type white 2-piece toilet which has a water use greater than 1.6 gallons per flush (gpf), any printed matter distributed or displayed in connection with such product (including packaging and point of sale material, catalog material, and print advertising) shall include, in a conspicuous manner, the words “For Commercial Use Only”.
+(iii) Any labeling rules prescribed under this subparagraph before January 1, 1997, shall provide that, with respect to any gravity tank-type white 2-piece toilet which has a water use greater than 1.6 gallons per flush (gpf), any printed matter distributed or displayed in connection with such product (including packaging and point of sale material, catalog material, and print advertising) shall include, in a conspicuous manner, the words "For Commercial Use Only".
 
 (G)(i) Not later than 90 days after August 8, 2005, the Commission shall initiate a rulemaking to consider—
 
@@ -128,9 +128,9 @@ Determination of feasibility.—Clause (i) or (ii) shall not apply in any case i
 
 (5)(A) For covered products described in subsections (u) through (ff) of section 6295 of this title, after a test procedure has been prescribed under section 6293 of this title, the Secretary or the Commission, as appropriate, may prescribe, by rule, under this section labeling requirements for the products.
 
-(B) In the case of products to which TP–1 standards under section 6295(y) of this title apply, labeling requirements shall be based on the “Standard for the Labeling of Distribution Transformer Efficiency” prescribed by the National Electrical Manufacturers Association (NEMA TP–3) as in effect on August 8, 2005.
+(B) In the case of products to which TP–1 standards under section 6295(y) of this title apply, labeling requirements shall be based on the "Standard for the Labeling of Distribution Transformer Efficiency" prescribed by the National Electrical Manufacturers Association (NEMA TP–3) as in effect on August 8, 2005.
 
-(C) In the case of dehumidifiers covered under section 6295(dd) of this title, the Commission shall not require an “Energy Guide” label.
+(C) In the case of dehumidifiers covered under section 6295(dd) of this title, the Commission shall not require an "Energy Guide" label.
 
 (6)
 
@@ -140,7 +140,7 @@ Authority to include additional product categories.—The Commission may, by reg
 
 (1)(A) Any labeling rule in effect on March 17, 1987, shall remain in effect until amended, by rule, by the Commission.
 
-(B) After March 17, 1987, and not later than 30 days after the date on which a proposed test procedure applicable to a covered product of any of the types specified in paragraphs (1) through (13), and paragraphs (15) through (19) <sup>1</sup> of section 6292(a) of this title (or class thereof) is prescribed under section 6293(b) of this title, the Commission shall publish a proposed labeling rule applicable to such type (or class thereof).
+(B) After March 17, 1987, and not later than 30 days after the date on which a proposed test procedure applicable to a covered product of any ofthe types specified in paragraphs (1) through (13), and paragraphs (15) through (19) <sup>1</sup> of section 6292(a) of this title (or class thereof) is prescribed under section 6293(b) of this title, the Commission shall publish a proposed labeling rule applicable to such type (or class thereof).
 
 (2) The Commission shall afford interested persons an opportunity to present written or oral data, views, and comments with respect to the proposed labeling rules published under paragraph (1). The period for such presentations shall not be less than 45 days.
 
@@ -154,7 +154,7 @@ Authority to include additional product categories.—The Commission may, by reg
 
 (1) Subject to paragraph (6), a rule prescribed under this section shall require that each covered product in the type or class of covered products to which the rule applies bear a label which discloses—
 
-&emsp;(A) the estimated annual operating cost of such product (determined in accordance withtest procedures prescribed under section 6293 of this title), except that if—
+&emsp;(A) the estimated annual operating cost of such product (determined in accordance with test procedures prescribed under section 6293 of this title), except that if—
 
 &emsp;&emsp;(i) the Secretary determines that disclosure of estimated annual operating cost is not technologically feasible, or
 
@@ -186,7 +186,7 @@ Authority to include additional product categories.—The Commission may, by reg
 
 &emsp;(C) ship with the product,
 
-> additional information relating to energy consumption, including instructions for the maintenance, use, or repair of the covered product, if the Commission determines that such additional information would assist consumers in making purchasing decisions or in using such product, and that such requirement would not be unduly burdensome to manufacturers.
+> additional information relating to energy consumption, including instructions for the maintenance, use, or repair of the covered product, if the Commission determines that such additionalinformation would assist consumers in making purchasing decisions or in using such product, and that such requirement would not be unduly burdensome to manufacturers.
 
 (6) The Commission may delay the effective date of the requirement specified in paragraph (1)(B) of this subsection applicable to a type or class of covered product, insofar as it requires the disclosure on the label of information respecting range of a measure of energy consumption, for not more than 12 months after the date on which the rule under this section is first applicable to such type or class, if the Commission determines that such information will not be available within an adequate period of time before such date.
 
@@ -214,7 +214,7 @@ The Secretary, in consultation with the Commission, shall study consumer product
 
 #### (f) Consultation
 
-The Secretary and the Commission shall consult with each other on a continuing basis as may be necessary or appropriate to carry out their respective responsibilities under this part. Before the Commission makes any determination under subsection (a)(1) of this section, itshall obtain the views of the Secretary and shall take such views into account in making such determination.
+The Secretary and the Commission shall consult with each other on a continuing basis as may be necessary or appropriate to carry out their respective responsibilities under this part. Before the Commission makes any determination under subsection (a)(1) of this section, it shall obtain the views of the Secretary and shall take such views into account in making such determination.
 
 #### (g) Other authority of the Commission
 
@@ -224,7 +224,7 @@ Until such time as labeling rules under this section take effect with respect to
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(2)(E)(ii), (F)(ii) and (c)(8)(C), was in the original “this Act”, meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
+This chapter, referred to in subsecs. (a)(2)(E)(ii), (F)(ii) and (c)(8)(C), was in the original "this Act", meaning Pub. L. 94–163, Dec. 22, 1975, 89 Stat. 871, as amended, known as the Energy Policy and Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 6201 of this title and Tables.
 
 Paragraph (19) of section 6292(a) of this title, referred to in subsecs. (a)(3), (b)(1)(B), (3), (5), was redesignated (20) and a new par. (19) was added by Pub. L. 110–140, title III, §324(b), Dec. 19, 2007, 121 Stat. 1593.
 
@@ -250,45 +250,45 @@ Subsec. (c)(9). Pub. L. 110–140, §325(b), as amended by Pub. L. 112–210, §
 
 Subsec. (a)(5). Pub. L. 109–58, §137(b), added par. (5).
 
-<b>1998</b>—Subsec. (a)(2)(C)(ii). Pub. L. 105–388 substituted “section 6295(i)” for “section 6295(j)”.
+<b>1998</b>—Subsec. (a)(2)(C)(ii). Pub. L. 105–388 substituted "section 6295(i)" for "section 6295(j)".
 
 <b>1992</b>—Subsec. (a)(2)(C) to (E). Pub. L. 102–486, §123(e)(1), added subpars. (C) to (E).
 
-Subsec. (a)(3). Pub. L. 102–486, §123(e)(2), substituted “(19)” for “(14)”.
+Subsec. (a)(3). Pub. L. 102–486, §123(e)(2), substituted "(19)" for "(14)".
 
-Subsec. (b)(1)(B). Pub. L. 102–486, §123(e)(3), substituted “(13), and paragraphs (15) through (19)” for “(14)”.
+Subsec. (b)(1)(B). Pub. L. 102–486, §123(e)(3), substituted "(13), and paragraphs (15) through (19)" for "(14)".
 
-Subsec. (b)(3), (5). Pub. L. 102–486, §123(e)(4), substituted “(19)” for “(14)”.
+Subsec. (b)(3), (5). Pub. L. 102–486, §123(e)(4), substituted "(19)" for "(14)".
 
-Subsec. (c)(7). Pub. L. 102–486, §123(e)(5)(A), substituted “paragraphs (13), (14), (15), (16), (17), and (18) of section 6292(a)” for “paragraph (13) of section 6292”.
+Subsec. (c)(7). Pub. L. 102–486, §123(e)(5)(A), substituted "paragraphs (13), (14), (15), (16), (17), and (18) of section 6292(a)" for "paragraph (13) of section 6292".
 
 Subsec. (c)(8). Pub. L. 102–486, §123(e)(5)(B), added par. (8).
 
 <b>1988</b>—Subsec. (a)(2). Pub. L. 100–357, §2(d)(1), designated existing provision as subpar. (A) and added subpar. (B).
 
-Subsecs. (a)(3), (b)(1)(B), (3), (5). Pub. L. 100–357, §2(d)(2), substituted “(14)” for “(13)”.
+Subsecs. (a)(3), (b)(1)(B), (3), (5). Pub. L. 100–357, §2(d)(2), substituted "(14)" for "(13)".
 
 Subsec. (c)(7). Pub. L. 100–357, §2(d)(3), added par. (7).
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–12, §11(b)(2)(A), inserted heading.
 
-Subsec. (a)(1). Pub. L. 100–12, §11(a)(1)(A), substituted “paragraphs (1), (2), (4), (6), and (8) through (12)” for “paragraphs (1) through (9)”.
+Subsec. (a)(1). Pub. L. 100–12, §11(a)(1)(A), substituted "paragraphs (1), (2), (4), (6), and (8) through (12)" for "paragraphs (1) through (9)".
 
-Subsec. (a)(2). Pub. L. 100–12, §11(a)(1)(B), substituted “paragraphs (3), (5), and (7)” for “paragraphs (10) through (13)”.
+Subsec. (a)(2). Pub. L. 100–12, §11(a)(1)(B), substituted "paragraphs (3), (5), and (7)" for "paragraphs (10) through (13)".
 
-Subsec. (a)(3). Pub. L. 100–12, §11(a)(1)(C)(i), substituted “paragraph (13)” for “paragraph (14)”.
+Subsec. (a)(3). Pub. L. 100–12, §11(a)(1)(C)(i), substituted "paragraph (13)" for "paragraph (14)".
 
-Subsec. (a)(3)(A). Pub. L. 100–12, §11(a)(1)(C)(ii), added subpar. (A) and struck out former subpar. (A) which read as follows: “the Commission or the Secretary has made a determination with respect to such type (or class thereof) under section 6293(a)(5)(B) of this title,”.
+Subsec. (a)(3)(A). Pub. L. 100–12, §11(a)(1)(C)(ii), added subpar. (A) and struck out former subpar. (A) which read as follows: "the Commission or the Secretary has made a determination with respect to such type (or class thereof) under section 6293(a)(5)(B) of this title,".
 
-Subsec. (a)(3)(B). Pub. L. 100–12, §11(a)(1)(C)(iii), substituted “section 6293(b)(1)(B)” for “section 6293(a)(5)”.
+Subsec. (a)(3)(B). Pub. L. 100–12, §11(a)(1)(C)(iii), substituted "section 6293(b)(1)(B)" for "section 6293(a)(5)".
 
 Subsec. (b). Pub. L. 100–12, §11(a)(1)(D), inserted heading.
 
-Subsec. (b)(1). Pub. L. 100–12, §11(a)(1)(D), added par. (1) and struck out former par. (1) which read as follows: “Not later than 30 days after the date on which a proposed test procedure applicable to a covered product of any of the types specified in paragraphs (1) through (14) of section 6292(a) of this title (or class thereof) is published under section 6293(a) of this title, the Commission shall publish a proposed labeling rule applicable to such type (or class thereof).”
+Subsec. (b)(1). Pub. L. 100–12, §11(a)(1)(D), added par. (1) and struck out former par. (1) which read as follows: "Not later than 30 days after the date on which a proposed test procedure applicable to a covered product of any of the types specified in paragraphs (1) through (14) of section 6292(a) of this title (or class thereof) is published under section 6293(a) of this title, the Commission shall publish a proposed labeling rule applicable to such type (or class thereof)."
 
-Subsec. (b)(3). Pub. L. 100–12, §11(a)(1)(E), substituted “section 6293(b)” for “section 6293” in two places, “(12)” for “(13)”, and “(13)” for “(14)”.
+Subsec. (b)(3). Pub. L. 100–12, §11(a)(1)(E), substituted "section 6293(b)" for "section 6293" in two places, "(12)" for "(13)", and "(13)" for "(14)".
 
-Subsec. (b)(5). Pub. L. 100–12, §11(a)(1)(F), substituted “(3), (5), and (7)” for “(10) through (13)” and “(13)” for “(14)”.
+Subsec. (b)(5). Pub. L. 100–12, §11(a)(1)(F), substituted "(3), (5), and (7)" for "(10) through (13)" and "(13)" for "(14)".
 
 Subsec. (c). Pub. L. 100–12, §11(b)(2)(B), inserted heading.
 
@@ -298,19 +298,19 @@ Subsec. (e). Pub. L. 100–12, §11(b)(2)(D), inserted heading.
 
 Subsec. (f). Pub. L. 100–12, §11(b)(2)(E), inserted heading.
 
-Pub. L. 100–12, §11(a)(1)(G), struck out “or (2)” after “subsection (a)(1)”.
+Pub. L. 100–12, §11(a)(1)(G), struck out "or (2)" after "subsection (a)(1)".
 
 Subsec. (g). Pub. L. 100–12, §11(b)(2)(F), inserted heading.
 
 <b>1978</b>—Subsec. (a)(1), (2). Pub. L. 95–619, §425(b), struck out labeling rule exception where Administrator had determined under section 6293(a)(6) of this title that test procedures could not be developed pursuant to section 6293(b) of this title.
 
-Subsec. (a)(3). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, in cls. (A) and (B).
+Subsec. (a)(3). Pub. L. 95–619, §691(b)(2), substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, in cls. (A) and (B).
 
-Subsec. (c)(1)(A)(i). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”.
+Subsec. (c)(1)(A)(i). Pub. L. 95–619, §691(b)(2), substituted "Secretary" for "Administrator".
 
-Subsec. (c)(5). Pub. L. 95–619, §425(c), inserted “including instructions for the maintenance, use, or repair of the covered product,” after “energy consumption”.
+Subsec. (c)(5). Pub. L. 95–619, §425(c), inserted "including instructions for the maintenance, use, or repair of the covered product," after "energy consumption".
 
-Subsecs. (e), (f). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator” wherever appearing.
+Subsecs. (e), (f). Pub. L. 95–619, §691(b)(2), substituted "Secretary" for "Administrator" wherever appearing.
 
 #### Effective Date of 2012 Amendment
 
@@ -318,29 +318,29 @@ Amendment by Pub. L. 112–210 effective as if included in the Energy Independen
 
 #### Effective Date of 2007 Amendment
 
-Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub.L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
+Amendment by Pub. L. 110–140 effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as an Effective Date note under section 1824 of Title 2, The Congress.
 
 #### Market Assessments and Consumer Awareness Program
 
 Pub. L. 110–140, title III, §321(c), Dec. 19, 2007, 121 Stat. 1584, provided that:
 
-“(1)
+"(1)
 
 In general.—In cooperation with the Administrator of the Environmental Protection Agency, the Secretary of Commerce, the Federal Trade Commission, lighting and retail industry associations, energy efficiency organizations, and any other entities that the Secretary of Energy determines to be appropriate, the Secretary of Energy shall—
 
-&emsp;“(A) conduct an annual assessment of the market for general service lamps and compact fluorescent lamps—
+&emsp;"(A) conduct an annual assessment of the market for general service lamps and compact fluorescent lamps—
 
-&emsp;&emsp;“(i) to identify trends in the market shares of lamp types, efficiencies, and light output levels purchased by residential and nonresidential consumers; and
+&emsp;&emsp;"(i) to identify trends in the market shares of lamp types, efficiencies, and light output levels purchased by residential and nonresidential consumers; and
 
-&emsp;&emsp;“(ii) to better understand the degree to which consumer decisionmaking is based on lamp power levels or watts, light output or lumens, lamp lifetime, and other factors, including information required on labels mandated by the Federal Trade Commission;
+&emsp;&emsp;"(ii) to better understand the degree to which consumer decisionmaking is based on lamp power levels or watts, light output or lumens, lamp lifetime, and other factors, including information required on labels mandated by the Federal Trade Commission;
 
-&emsp;“(B) provide the results of the market assessment to the Federal Trade Commission for consideration in the rulemaking described in section 324(a)(2)(C)(iii) of the Energy Policy and Conservation Act (42 U.S.C. 6294(a)(2)(C)(iii)); and
+&emsp;"(B) provide the results of the market assessment to the Federal Trade Commission for consideration in the rulemaking described in section 324(a)(2)(C)(iii) of the Energy Policy and Conservation Act (42 U.S.C. 6294(a)(2)(C)(iii)); and
 
-&emsp;“(C) in cooperation with industry trade associations, lighting industry members, utilities, and other interested parties, carry out a proactive national program of consumer awareness, information, and education that broadly uses the media and other effective communication techniques over an extended period of time to help consumers understand the lamp labels and make energy-efficient lighting choices that meet the needs of consumers.
+&emsp;"(C) in cooperation with industry trade associations, lighting industry members, utilities, and other interested parties, carry out a proactive national program of consumer awareness, information, and education that broadly uses the media and other effective communication techniques over an extended period of time to help consumers understand the lamp labels and make energy-efficient lighting choices that meet the needs of consumers.
 
-“(2)
+"(2)
 
-Authorization of appropriations.—There is authorized to be appropriated to carry out this subsection $10,000,000 for each of fiscal years 2009 through 2012.”
+Authorization of appropriations.—There is authorized to be appropriated to carry out this subsection $10,000,000 for each of fiscal years 2009 through 2012."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

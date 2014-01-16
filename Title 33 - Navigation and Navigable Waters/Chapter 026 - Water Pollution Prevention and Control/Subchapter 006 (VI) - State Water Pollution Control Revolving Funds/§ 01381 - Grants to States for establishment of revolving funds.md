@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-Subject to the provisions of this subchapter, the Administrator shall make capitalization grants to each State for the purpose of establishing a water pollution control revolving fund for providing assistance (1) for construction of treatment works (as defined in section 1292 of this title) which are publicly owned, (2) for implementing a management program under section 1329 of this title, and (3) for developing and implementing a conservation and management plan under section 1330 of this title.
+Subject to the provisions of this subchapter, the Administrator shall make capitalization grants to each State for the purpose of establishing a water pollution control revolving fund for providing assistance (1) for construction oftreatment works (as defined in section 1292 of this title) which are publicly owned, (2) for implementing a management program under section 1329 of this title, and (3) for developing and implementing a conservation and management plan under section 1330 of this title.
 
 #### (b) Schedule of grant payments
 

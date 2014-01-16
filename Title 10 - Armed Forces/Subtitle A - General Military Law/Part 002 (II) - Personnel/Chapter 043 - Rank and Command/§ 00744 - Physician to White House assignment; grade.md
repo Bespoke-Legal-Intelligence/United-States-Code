@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Apr. 4, 1930, ch. 104, 46 Stat. 140.
 
-The word “temporary”, in 10:515 and 34:251a, is omitted as surplusage.
+The word "temporary", in 10:515 and 34:251a, is omitted as surplusage.
 

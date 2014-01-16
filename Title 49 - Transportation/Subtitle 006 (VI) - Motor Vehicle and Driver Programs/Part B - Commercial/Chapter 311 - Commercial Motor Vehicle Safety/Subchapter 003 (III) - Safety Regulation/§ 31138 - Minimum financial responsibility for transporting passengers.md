@@ -48,7 +48,7 @@ Evidence of Financial Responsibility.—(1) Subject to paragraph (2) of this sub
 
 (4)
 
-Other persons.—The Secretary may require a person, other than a motor carrier (as defined in section 13102), transporting passengers by motor vehicle to file with the Secretary the evidence of financial responsibility specified in subsection (c)(1) in an amount not less than the greater of the amount required by subsection (b)(1) or the amount required for such person to transport passengers under the laws of the State or States in which the person is operating; except that the amount of the financial responsibility must be sufficient to pay not more than the amount of the financial responsibility for each final judgment against the person for bodily injury to, or death of, an individual resulting from the negligent operation, maintenance, or use of the motor vehicle, or for loss or damage to property, or both.
+Other persons.—The Secretary may require a person, other than a motor carrier (as defined in section 13102), transporting passengers by motor vehicle to file with the Secretary the evidence of financial responsibility specified in subsection (c)(1) in an amount not less than the greater of the amount required bysubsection (b)(1) or the amount required for such person to transport passengers under the laws of the State or States in which the person is operating; except that the amount of the financial responsibility must be sufficient to pay not more than the amount of the financial responsibility for each final judgment against the person for bodily injury to, or death of, an individual resulting from the negligent operation, maintenance, or use of the motor vehicle, or for loss or damage to property, or both.
 
 (d)
 
@@ -122,35 +122,35 @@ Sept. 20, 1982, Pub. L. 97–261, §18(e), 96 Stat. 1122.
 
 Sept. 20, 1982, Pub. L. 97–261, §18(f), (g), 96 Stat. 1122.
 
-In subsection (b), before clause (1), the text of section 18(b)(1) (words beginning with “except”) and (2) (words beginning with “except”) and (c) of the Bus Regulatory Reform Act of 1982 (Public Law 97–261, 96 Stat. 1121) is omitted as expired. The word “minimal” is omitted as surplus.
+In subsection (b), before clause (1), the text of section 18(b)(1) (words beginning with "except") and (2) (words beginning with "except") and (c) of the Bus Regulatory Reform Act of 1982 (Public Law 97–261, 96 Stat. 1121) is omitted as expired. The word "minimal" is omitted as surplus.
 
-In subsection (c)(1), the words “The Secretary shall establish, by regulation, methods and procedures to assure compliance with this section” are omitted as surplus.
+In subsection (c)(1), the words "The Secretary shall establish, by regulation, methods and procedures to assure compliance with this section" are omitted as surplus.
 
-In subsection (d)(4), the words “The Attorney General shall bring a civil action . . . to collect a penalty referred to the Attorney General for collection under this subsection” are substituted for “Such civil penalty may be recovered in an action brought by the Attorney General on behalf of the United States” for consistency in the revised title.
+In subsection (d)(4), the words "The Attorney General shall bring a civil action . . . to collect a penalty referred to the Attorney General for collection under this subsection" are substituted for "Such civil penalty may be recovered in an action brought by the Attorney General on behalf of the United States" for consistency in the revised title.
 
-In subsection (d)(5), the words “when finally determined (or agreed upon in compromise)” are omitted as surplus.
+In subsection (d)(5), the words "when finally determined (or agreed upon in compromise)" are omitted as surplus.
 
 In subsection (e), before clause (1), the text of section 18(g) of the Bus Regulatory Reform Act of 1982 (Public Law 97–261, 96 Stat. 1122) is omitted as unnecessary because of the restatement.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–244, §305(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability and property damage for the transportation of passengers by commercial motor vehicle in the United States between a place in a State and—
+<b>2008</b>—Subsec. (a). Pub. L. 110–244, §305(a)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability and property damage for the transportation of passengers by commercial motor vehicle in the United States between a place in a State and—
 
-&emsp;“(1) a place in another State;
+&emsp;"(1) a place in another State;
 
-&emsp;“(2) another place in the same State through a place outside of that State; or
+&emsp;"(2) another place in the same State through a place outside of that State; or
 
-&emsp;“(3) a place outside the United States.”
+&emsp;"(3) a place outside the United States."
 
-Subsec. (c)(4). Pub. L. 110–244, §305(a)(2), struck out “commercial” before “motor vehicle” in two places.
+Subsec. (c)(4). Pub. L. 110–244, §305(a)(2), struck out "commercial" before "motor vehicle" in two places.
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–59, §4120(a)(1), struck out “for compensation” after “passengers” and inserted “commercial” before “motor vehicle” in introductory provisions.
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §4120(a)(1), struck out "for compensation" after "passengers" and inserted "commercial" before "motor vehicle" in introductory provisions.
 
 Subsec. (c)(4). Pub. L. 109–59, §4120(a)(2), added par. (4).
 
-Subsec. (d)(5). Pub. L. 109–59, §4121, substituted “Highway Trust Fund (other than the Mass Transit Account)” for “Treasury as miscellaneous receipts”.
+Subsec. (d)(5). Pub. L. 109–59, §4121, substituted "Highway Trust Fund (other than the Mass Transit Account)" for "Treasury as miscellaneous receipts".
 
-<b>2002</b>—Subsec. (e)(2). Pub. L. 107–298 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “providing taxicab service, having a seating capacity of not more than 6 passengers, and not being operated on a regular route or between specified places;”.
+<b>2002</b>—Subsec. (e)(2). Pub. L. 107–298 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "providing taxicab service, having a seating capacity of not more than 6 passengers, and not being operated on a regular route or between specified places;".
 
 <b>1995</b>—Subsec. (c)(3). Pub. L. 104–88, §104(c), added par. (3).
 

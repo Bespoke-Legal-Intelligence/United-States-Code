@@ -14,7 +14,7 @@ In conducting the study, the Secretary shall consider the feasibility of—
 
 &emsp;(3) providing an appropriate level of matching funds for Federal medical assistance with respect to amounts such entity expends for medical assistance for services and related administrative costs; and
 
-&emsp;(4) authorizing the Secretary, at the option of the Navajo Nation, to treat the Navajo Nation as a State for the purposes of title XIX <sup>1</sup> of the Social Security Act (relating to theState children's health insurance program) under terms equivalent to those described in paragraphs (2) through (4).<sup>2</sup>
+&emsp;(4) authorizing the Secretary, at the option of the Navajo Nation, to treat the Navajo Nation as a State for the purposes of title XIX <sup>1</sup> of the Social Security Act (relating to the State children's health insurance program) under terms equivalent to those described in paragraphs (2) through (4).<sup>2</sup>
 
 #### (c) Report
 
@@ -40,5 +40,5 @@ Section 411 of Pub. L. 94–437 is based on section 159 of title I of S. 1790, O
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be paragraphs “(1) through (3).”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be paragraphs "(1) through (3).".</i>
 

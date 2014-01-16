@@ -6,9 +6,9 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 02561 - Repealed. Pub. L. 111&#8211;84, div. C, title XXXI, &sect;3117(a), Oct. 28, 2009, 123 Stat. 2709](%C2%A7%2002561%20-%20Repealed.%20Pub.%20L.%20111%E2%80%9384%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73117%28a%29%2C%20Oct.%2028%2C%202009%2C%20123%20Stat.%202709.md)
-- [&sect; 02562 - Nonproliferation initiatives and activities](%C2%A7%2002562%20-%20Nonproliferation%20initiatives%20and%20activities.md)
+- [&sect; 02562 - Repealed. Pub. L. 113&#8211;66, div. C, title XXXI, &sect;3146(d)(1)(A), Dec. 26, 2013, 127 Stat. 1075](%C2%A7%2002562%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9366%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73146%28d%29%281%29%28A%29%2C%20Dec.%2026%2C%202013%2C%20127%20Stat.%201075.md)
 - [&sect; 02563 - Annual report on status of Nuclear Materials Protection, Control, and Accounting Program](%C2%A7%2002563%20-%20Annual%20report%20on%20status%20of%20Nuclear%20Materials%20Protection%2C%20Control%2C%20and%20Accounting%20Program.md)
-- [&sect; 02564 - Nuclear Cities Initiative](%C2%A7%2002564%20-%20Nuclear%20Cities%20Initiative.md)
+- [&sect; 02564 - Repealed. Pub. L. 113&#8211;66, div. C, title XXXI, &sect;3146(d)(2)(A), Dec. 26, 2013, 127 Stat. 1075](%C2%A7%2002564%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9366%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73146%28d%29%282%29%28A%29%2C%20Dec.%2026%2C%202013%2C%20127%20Stat.%201075.md)
 - [&sect; 02565 - Authority to conduct program relating to fissile materials](%C2%A7%2002565%20-%20Authority%20to%20conduct%20program%20relating%20to%20fissile%20materials.md)
 - [&sect; 02566 - Disposition of weapons-usable plutonium at Savannah River Site](%C2%A7%2002566%20-%20Disposition%20of%20weapons-usable%20plutonium%20at%20Savannah%20River%20Site.md)
 - [&sect; 02567 - Disposition of surplus defense plutonium at Savannah River Site, Aiken, South Carolina](%C2%A7%2002567%20-%20Disposition%20of%20surplus%20defense%20plutonium%20at%20Savannah%20River%20Site%2C%20Aiken%2C%20South%20Carolina.md)

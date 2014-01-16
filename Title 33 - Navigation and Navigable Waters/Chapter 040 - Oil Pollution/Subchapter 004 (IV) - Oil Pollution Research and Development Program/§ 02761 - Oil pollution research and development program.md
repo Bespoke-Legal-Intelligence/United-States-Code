@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;There is established an Interagency Coordinating Committee on Oil Pollution Research (hereinafter in this section referred to as the “Interagency Committee”).
+&emsp;There is established an Interagency Coordinating Committee on Oil Pollution Research (hereinafter in this section referred to as the "Interagency Committee").
 
 #### (2) Purposes
 
@@ -132,13 +132,13 @@
 
 #### (8) Regional research program
 
-&emsp;(A) Consistent with the research plan in subsection (b) of this section, the InteragencyCommittee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means a Coast Guard district as set out in part 3 of title 33, Code of Federal Regulations (1989).
+&emsp;(A) Consistent with the research plan in subsection (b) of this section, the Interagency Committee shall coordinate a program of competitive grants to universities or other research institutions, or groups of universities or research institutions, for the purposes of conducting a coordinated research program related to the regional aspects of oil pollution, such as prevention, removal, mitigation, and the effects of discharged oil on regional environments. For the purposes of this paragraph, a region means a Coast Guard district as set out in part 3 of title 33, Code of Federal Regulations (1989).
 
 &emsp;(B) The Interagency Committee shall coordinate the publication by the agencies represented on the Interagency Committee of a solicitation for grants under this subsection. The application shall be in such form and contain such information as may be required in the published solicitation. The applications shall be reviewed by the Interagency Committee, which shall make recommendations to the appropriate granting agency represented on the Interagency Committee for awarding the grant. The granting agency shall award the grants recommended by the Interagency Committee unless the agency decides not to award the grant due to budgetary or other compelling considerations and publishes its reasons for such a determination in the Federal Register. No grants may be made by any agency from any funds authorized for this paragraph unless such grant award has first been recommended by the Interagency Committee.
 
 &emsp;(C) Any university or other research institution, or group of universities or research institutions, may apply for a grant for the regional research program established by this paragraph. The applicant must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program. With respect to a group application, the entity or entities which will carry out the substantial portion of the proposed research must be located in the region, or in a State a part of which is in the region, for which the project is proposed as part of the regional research program.
 
-&emsp;(D) The Interagency Committee shall make recommendations on grants in such a manner as to ensure an appropriate balance within a region among the various aspects of oil pollution research, including prevention, removal, mitigation, and the effects of discharged oil on regional environments. In addition, the Interagency Committee shall make recommendations for grants based on the following criteria:
+&emsp;(D) The Interagency Committee shall make recommendations on grants in such a manner as to ensure an appropriate balance within a region among the various aspects of oil pollution research, including prevention, removal, mitigation, and the effects of discharged oil onregional environments. In addition, the Interagency Committee shall make recommendations for grants based on the following criteria:
 
 &emsp;&emsp;(i) There is available to the applicant for carrying out this paragraph demonstrated research resources.
 
@@ -192,29 +192,29 @@ This Act, referred to in subsec. (c)(8)(G), is Pub. L. 101–380, Aug. 18, 1990,
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–241, §902(l)(3), added pars. (3) and (4) and struck out former par. (3) and concluding provisions which read as follows:
 
-“Membership.—The Interagency Committee shall include representatives from the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the United States Coast Guard, the Maritime Administration, and the Pipeline and Hazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Environmental Protection Agency, the National Aeronautics and Space Administration, and the United States Fire Administration in the Federal Emergency Management Agency, as well as such other Federal agencies as the President may designate.
+"Membership.—The Interagency Committee shall include representatives from the Department of Commerce (including the National Oceanic and Atmospheric Administration and the National Institute of Standards and Technology), the Department of Energy, the Department of the Interior (including the Minerals Management Service and the United States Fish and Wildlife Service), the Department of Transportation (including the United States Coast Guard, the Maritime Administration, and the Pipeline andHazardous Materials Safety Administration), the Department of Defense (including the Army Corps of Engineers and the Navy), the Environmental Protection Agency, the National Aeronautics and Space Administration, and the United States Fire Administration in the Federal Emergency Management Agency, as well as such other Federal agencies as the President may designate.
 
-> A representative of the Department of Transportation shall serve as Chairman.”
+> A representative of the Department of Transportation shall serve as Chairman."
 
-Subsec. (c)(4)(B). Pub. L. 109–241, §605(a)(1), substituted “RIVERA and the T/V ATHOS I,” for “RIVERA,”.
+Subsec. (c)(4)(B). Pub. L. 109–241, §605(a)(1), substituted "RIVERA and the T/V ATHOS I," for "RIVERA,".
 
-Subsec. (c)(6). Pub. L. 109–241, §902(l)(4), substituted “such agencies as the President may designate,” for “other such agencies in the Department of Transportation as the Secretary of Transportation may designate,”.
+Subsec. (c)(6). Pub. L. 109–241, §902(l)(4), substituted "such agencies as the President may designate," for "other such agencies in the Department of Transportation as the Secretary of Transportation may designate,".
 
-<b>2004</b>—Subsec. (a)(3). Pub. L. 108–426, §2(c)(5)(A), substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Projects Administration”.
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–426, §2(c)(5)(A), substituted "Pipeline and Hazardous Materials Safety Administration" for "Research and Special Projects Administration".
 
-Subsec. (c)(11). Pub. L. 108–426, §2(c)(5)(B), substituted “Pipeline and Hazardous Materials Safety Administration” for “Research and Special Programs Administration”.
+Subsec. (c)(11). Pub. L. 108–426, §2(c)(5)(B), substituted "Pipeline and Hazardous Materials Safety Administration" for "Research and Special Programs Administration".
 
-<b>1996</b>—Subsec. (c)(2)(D). Pub. L. 104–324, §1108, inserted “, and the Center for Marine Training and Safety in Galveston, Texas” before semicolon at end.
+<b>1996</b>—Subsec. (c)(2)(D). Pub. L. 104–324, §1108, inserted ", and the Center for Marine Training and Safety in Galveston, Texas" before semicolon at end.
 
 Subsec. (c)(6). Pub. L. 104–332, §2(h)(1), made technical amendment to Pub. L. 101–646, §4002(1). See 1990 Amendment note below.
 
-Subsec. (c)(9). Pub. L. 104–324, §1102(c)(2), inserted “until the authorization for funding under section 2736(b) of this title expires” before period at end.
+Subsec. (c)(9). Pub. L. 104–324, §1102(c)(2), inserted "until the authorization for funding under section 2736(b) of this title expires" before period at end.
 
 Subsec. (f). Pub. L. 104–332 made technical amendment to Pub. L. 101–646, §4002(2). See 1990 Amendment note below.
 
-<b>1990</b>—Subsec. (c)(6). Pub. L. 101–537, §2002(1), and Pub. L. 101–646, §4002(1), as amended by Pub. L. 104–332, §2(h)(1), made substantially identical amendments, substituting “4” for “3” and inserting cl. (D).
+<b>1990</b>—Subsec. (c)(6). Pub. L. 101–537, §2002(1), and Pub. L. 101–646, §4002(1), as amended by Pub. L. 104–332, §2(h)(1), made substantially identical amendments, substituting "4" for "3" and inserting cl. (D).
 
-Subsec. (f). Pub. L. 101–537, §2002(2), and Pub. L. 101–646, §4002(2), as amended by Pub. L. 104–332, amended subsec. (f) identically, substituting “$22,000,000” for “$21,250,000” in introductory provisions and “$3,000,000” for “$2,250,000” in par. (2).
+Subsec. (f). Pub. L. 101–537, §2002(2), and Pub. L. 101–646, §4002(2), as amended by Pub. L. 104–332, amended subsec. (f) identically, substituting "$22,000,000" for "$21,250,000" in introductory provisions and "$3,000,000" for "$2,250,000" in par. (2).
 
 #### Transfer of Functions
 

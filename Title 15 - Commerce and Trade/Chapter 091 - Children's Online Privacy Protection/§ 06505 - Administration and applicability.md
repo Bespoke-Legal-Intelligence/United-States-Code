@@ -28,7 +28,7 @@ Compliance with the requirements imposed under this chapter shall be enforced un
 
 #### (c) Exercise of certain powers
 
-For the purpose of the exercise by any agency referred to in subsection (a) <sup>2</sup> of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a) <sup>2</sup> of this section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
+For the purpose of the exercise by any agency referred to in subsection (a) <sup>2</sup> of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this chapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a) <sup>2</sup> ofthis section, each of the agencies referred to in that subsection may exercise, for the purpose of enforcing compliance with any requirement imposed under this chapter, any other authority conferred on it by law.
 
 #### (d) Actions by Commission
 
@@ -52,7 +52,7 @@ The Packers and Stockyards Act, 1921, referred to in subsec. (b)(5), is act Aug.
 
 The Farm Credit Act of 1971, referred to in subsec. (b)(6), is Pub. L. 92–181, Dec. 10, 1971, 85 Stat. 583, as amended, which is classified generally to chapter 23 (§2001 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 12 and Tables.
 
-This chapter, referred to in subsec. (e), was in the original “Act” and “the Act”, respectively, and was translated as reading “this title” to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (e), was in the original "Act" and "the Act", respectively, and was translated as reading "this title" to reflect the probable intent of Congress.
 
 #### Effective Date
 
@@ -60,5 +60,5 @@ For effective date of section, see section 1308 of Pub. L. 105–277, set out as
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be subsection “(b)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be subsection "(b)".</i>
 

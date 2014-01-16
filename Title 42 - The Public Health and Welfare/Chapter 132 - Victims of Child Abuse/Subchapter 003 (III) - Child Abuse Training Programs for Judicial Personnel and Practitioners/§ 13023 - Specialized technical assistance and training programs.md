@@ -30,7 +30,7 @@ The Administrator shall make grants under subsections (a) and (b) of this sectio
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–273 substituted “sections 5666, 5673, and 5676 of this title” for “section 5665a, 5673, and 5676 of this title”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–273 substituted "sections 5666, 5673, and 5676 of this title" for "section 5665a, 5673, and 5676 of this title".
 
 #### Effective Date of 2002 Amendment
 

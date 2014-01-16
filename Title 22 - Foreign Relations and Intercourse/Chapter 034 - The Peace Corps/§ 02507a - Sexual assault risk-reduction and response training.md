@@ -38,7 +38,7 @@ In this section and sections 2507b through 2507g of this title:
 
 #### (1) Personally identifying information
 
-&emsp;The term “personally identifying information” means individually identifying information for or about a volunteer who is a victim of sexual assault, including information likely to disclose the location of such victim, including the following:
+&emsp;The term "personally identifying information" means individually identifying information for or about a volunteer who is a victim of sexual assault, including information likely to disclose the location of such victim, including the following:
 
 &emsp;&emsp;(A) A first and last name.
 
@@ -54,7 +54,7 @@ In this section and sections 2507b through 2507g of this title:
 
 #### (A) In general
 
-&emsp;&emsp;The term “restricted reporting” means a system of reporting that allows a volunteer who is sexually assaulted to confidentially disclose the details of his or her assault to specified individuals and receive the services outlined in section 2507b(c) of this title without the dissemination of his or her personally identifying information except as necessary for the provision of such services, and without automatically triggering an official investigative process.
+&emsp;&emsp;The term "restricted reporting" means a system of reporting that allows a volunteer who is sexually assaulted to confidentially disclose the details of his or her assault to specified individuals and receive the services outlined in section 2507b(c) of this title without the dissemination of his or her personally identifying information except as necessary for the provision of such services, and without automatically triggering an official investigative process.
 
 #### (B) Exceptions
 
@@ -78,11 +78,11 @@ In this section and sections 2507b through 2507g of this title:
 
 #### (3) Sexual assault
 
-&emsp;The term “sexual assault” means any conduct prescribed by chapter 109A of title 18, whether or not the conduct occurs in the special maritime and territorial jurisdiction of the United States, and includes both assaults committed by offenders who are strangers to the victim and assaults committed by offenders who are known or related by blood or marriage to the victim.
+&emsp;The term "sexual assault" means any conduct prescribed by chapter 109A of title 18, whether or not the conduct occurs in the special maritime and territorial jurisdiction of the United States, and includes both assaults committed by offenders who are strangers to the victim and assaults committed by offenders who are known or related by blood or marriage to the victim.
 
 #### (4) Stalking
 
-&emsp;The term “stalking” means engaging in a course of conduct directed at a specific person that would cause a reasonable person to—
+&emsp;The term "stalking" means engaging in a course of conduct directed at a specific person that would cause a reasonable person to—
 
 &emsp;&emsp;(A) fear for his or her safety or the safety of others; or
 
@@ -92,13 +92,13 @@ In this section and sections 2507b through 2507g of this title:
 
 #### Offset of Costs and Personnel
 
-Pub. L. 112–57, §9, Nov. 21, 2011, 125 Stat. 745, provided that: “Notwithstanding any other provision of law, the Direct \[probably should be “Director”\] of the Peace Corps shall—
+Pub. L. 112–57, §9, Nov. 21, 2011, 125 Stat. 745, provided that: "Notwithstanding any other provision of law, the Direct \[probably should be "Director"\] of the Peace Corps shall—
 
-&emsp;“(1) eliminate such initiatives, positions, and programs within the Peace Corps (other than within the Office of Inspector General) as the Director deems necessary to ensure any and all costs incurred to carry out the provisions of this Act \[see Short Title of 2011 Amendment note set out under section 2501 of this title\], and the amendments made by this Act, are entirely offset;
+&emsp;"(1) eliminate such initiatives, positions, and programs within the Peace Corps (other than within the Office of Inspector General) as the Director deems necessary to ensure any and all costs incurred to carry out the provisions of this Act \[see Short Title of 2011 Amendment note set out under section 2501 of this title\], and the amendments made by this Act, are entirely offset;
 
-&emsp;“(2) ensure no net increase in personnel are added to carry out the provisions of this Act, with any new full or part time employees or equivalents offset by eliminating an equivalent number of existing staff (other than within the Office of Inspector General);
+&emsp;"(2) ensure no net increase in personnel are added to carry out the provisions of this Act, with any new full or part time employees or equivalents offset by eliminating an equivalent number of existing staff (other than within the Office of Inspector General);
 
-&emsp;“(3) report to Congress not later than 60 days after the date of the enactment of this Act \[Nov. 21, 2011\] the actions taken to ensure compliance with paragraphs (1) and (2), including the specific initiatives, positions, and programs within the Peace Corps that have been eliminated to ensure that the costs of carrying out this Act will be offset; and
+&emsp;"(3) report to Congress not later than 60 days after the date of the enactment of this Act \[Nov. 21, 2011\] the actions taken to ensure compliance with paragraphs (1) and (2), including the specific initiatives, positions, and programs within the Peace Corps that have been eliminated to ensure that the costs of carrying out this Act will be offset; and
 
-&emsp;“(4) not implement any other provision of this Act (other than paragraphs (1), (2), and (3)) or any amendment made by this Act until the Director has certified that the actions specified in paragraphs (1), (2), and (3) have been completed.”
+&emsp;"(4) not implement any other provision of this Act (other than paragraphs (1), (2), and (3)) or any amendment made by this Act until the Director has certified that the actions specified in paragraphs (1), (2), and (3) have been completed."
 

@@ -4,7 +4,7 @@
 
 #### (1) Assurance to Export-Import Bank of repayment
 
-&emsp;The President is authorized to provide guarantees to the Bank for liabilities described in paragraph (2) in order to satisfy the requirement of section 2(b)(1)(B) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(1)(B)) that the Bank have <sup>1</sup> reasonable assurance of repayment.
+&emsp;The President is authorized to provide guarantees to the Bank for liabilities described inparagraph (2) in order to satisfy the requirement of section 2(b)(1)(B) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(1)(B)) that the Bank have <sup>1</sup> reasonable assurance of repayment.
 
 #### (2) Liabilities which may be guaranteed
 
@@ -68,11 +68,11 @@ The President may not enter into any commitments to guarantee under subsection (
 
 For purposes of this section—
 
-&emsp;(1) the term “administering agency” means the Agency for International Development;
+&emsp;(1) the term "administering agency" means the Agency for International Development;
 
-&emsp;(2) the term “Administrator” means the Administrator of the Agency for International Development; and
+&emsp;(2) the term "Administrator" means the Administrator of the Agency for International Development; and
 
-&emsp;(3) the term “Bank” means the Export-Import Bank of the United States.
+&emsp;(3) the term "Bank" means the Export-Import Bank of the United States.
 
 (Pub. L. 87–195, pt. I, §225, as added Pub. L. 101–179, title III, §304(a), Nov. 28, 1989, 103 Stat. 1312.)
 
@@ -82,7 +82,7 @@ The Export-Import Bank Act of 1945, referred to in subsec. (a)(2), is act July 3
 
 #### Codification
 
-Subsec. (h) of this section, which required the Administrator and the President of the Bank, every 6 months, to prepare and transmit to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a report on the amount and extension of guarantees and insurance provided by the Bank and guaranteed under this section during the preceding 6-month period, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 148 of House Document No. 103–7.
+Subsec. (h) of this section, which required the Administrator and the President of the Bank, every 6 months,to prepare and transmit to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a report on the amount and extension of guarantees and insurance provided by the Bank and guaranteed under this section during the preceding 6-month period, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 148 of House Document No. 103–7.
 
 #### Delegation of Functions
 
@@ -90,7 +90,7 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Conforming Reference
 
-Pub. L. 101–179, title III, §304(c), Nov. 28, 1989, 103 Stat. 1314, provided that: “With respect to Poland, any reference in the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 \[Pub. L. 101–167, Nov. 21, 1989, 103 Stat. 1195\], to section 224 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2184\] shall be deemed to be a reference to section 225 of that Act \[22 U.S.C. 2185\] (as enacted by this section).”
+Pub. L. 101–179, title III, §304(c), Nov. 28, 1989, 103 Stat. 1314, provided that: "With respect to Poland, any reference in the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990 \[Pub. L. 101–167, Nov. 21, 1989, 103 Stat. 1195\], to section 224 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2184\] shall be deemed to be a reference to section 225 of that Act \[22 U.S.C. 2185\] (as enacted by this section)."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “has”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "has".</i>
 

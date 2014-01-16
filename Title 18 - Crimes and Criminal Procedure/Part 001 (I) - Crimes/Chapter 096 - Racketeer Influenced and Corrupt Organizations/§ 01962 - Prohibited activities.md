@@ -12,5 +12,5 @@
 
 #### Amendments
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–690 substituted “subsection” for “subsections”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–690 substituted "subsection" for "subsections".
 

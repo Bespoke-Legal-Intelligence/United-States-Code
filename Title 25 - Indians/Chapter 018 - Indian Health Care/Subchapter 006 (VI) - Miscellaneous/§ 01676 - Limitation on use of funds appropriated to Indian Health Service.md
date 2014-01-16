@@ -2,7 +2,7 @@
 
 #### (a) HHS appropriations
 
-Any limitation on the use of funds contained in an Act providing appropriations for the Department of Health and Human Services for a period with respect to the performance of abortions shall apply for that period with respect to the performance of abortions using funds contained in an Act providing appropriations for the Indian Health Service.
+Any limitation on the use of funds contained in an Act providing appropriations for the Department of Health and Human Services for a period with respect to the performance of abortions shall apply for that period with respect tothe performance of abortions using funds contained in an Act providing appropriations for the Indian Health Service.
 
 #### (b) Limitations pursuant to other Federal law
 
@@ -14,5 +14,5 @@ Any limitation pursuant to other Federal laws on the use of Federal funds approp
 
 <b>2010</b>—Pub. L. 111–148 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-<b>1988</b>—Pub. L. 100–713 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “Within one year from December 17, 1980, the Secretary shall submit to the Congress a resource allocation plan. Such plan shall explain the future allocation of services and funds among the service population of the Service and shall provide a schedule for reducing deficiencies in resources of tribes and nontribal specific entities.”
+<b>1988</b>—Pub. L. 100–713 inserted section catchline and amended text generally. Prior to amendment, text read as follows: "Within one year from December 17, 1980, the Secretary shall submit to the Congress a resource allocation plan. Such plan shall explain the future allocation of services and funds among the service population of the Service and shall provide a schedule for reducing deficiencies in resources of tribes and nontribal specific entities."
 

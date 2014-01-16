@@ -38,7 +38,7 @@
 
 (2) It shall be unlawful for any fiduciary, or any other person having authority to direct the performance of functions described in paragraph (1), to permit any such function to be performed by any person to whom subsection (a) applies unless such person has met the requirements of such subsection.
 
-(e) Notwithstanding any other provision of law, any person who is required to be bonded as provided in subsection (a) shall be exempt from any other provision of law which would, but for this subsection, require such person to be bonded for the handling of the funds or other property of the Thrift Savings Fund.
+(e) Notwithstanding any other provision of law, any person who is required to be bonded as provided in subsection (a) shall be exempt fromany other provision of law which would, but for this subsection, require such person to be bonded for the handling of the funds or other property of the Thrift Savings Fund.
 
 (f) The Secretary of Labor shall prescribe such regulations as may be necessary to carry out the provisions of this section, including exempting a person or class of persons from the requirements of this section.
 

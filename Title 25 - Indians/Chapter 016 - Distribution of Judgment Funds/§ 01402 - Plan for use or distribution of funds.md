@@ -14,7 +14,7 @@ In any case where the Secretary determines that the circumstances do not permit 
 
 #### (d) Submission of proposed legislation and report to Congress in absence of consent of tribal governments to division of judgment funds between two or more beneficiary entities
 
-In cases where the Secretary has to submit a plan dividing judgment funds between two or more beneficiary entities, he shall obtain the consent of the tribal governments involved to the proposed division. If the Secretary cannot obtain such consent within one hundred and eighty days after appropriation of the funds for the award or within one hundred and eighty days of January 12, 1983, he shall submit proposed legislation to the Congress as provided in subsection (c) of this section.
+In cases where the Secretary has to submit a plan dividing judgment funds between two ormore beneficiary entities, he shall obtain the consent of the tribal governments involved to the proposed division. If the Secretary cannot obtain such consent within one hundred and eighty days after appropriation of the funds for the award or within one hundred and eighty days of January 12, 1983, he shall submit proposed legislation to the Congress as provided in subsection (c) of this section.
 
 #### (e) Extension of time for preparation and submission of plan
 
@@ -28,25 +28,25 @@ The Indian Claims Commission, referred to in subsec. (a), terminated Sept. 30, 1
 
 #### Codification
 
-In subsec. (a), “United States Claims Court” \[now United States Court of Federal Claims\] substituted for “Court of Claims” pursuant to section 160(a)(1) of Pub. L. 97–164, as the probable intent of Congress, notwithstanding later amendment by section 1 of Pub. L. 97–458, which made reference to Court of Claims.
+In subsec. (a), "United States Claims Court" \[now United States Court of Federal Claims\] substituted for "Court of Claims" pursuant to section 160(a)(1) of Pub. L. 97–164, as the probable intent of Congress, notwithstanding later amendment by section 1 of Pub. L. 97–458, which made reference to Court of Claims.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (e). Pub. L. 103–437 substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
+<b>1994</b>—Subsec. (e). Pub. L. 103–437 substituted "Committee on Indian" for "Select Committee on Indian" and "Natural Resources" for "Interior and Insular Affairs".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
-<b>1983</b>—Subsec. (a). Pub. L. 97–458 substituted “one year” for “one hundred and eighty days”; inserted provision for contents of the plan; inserted provision for submission of copy of the plan to each affected tribe or group, incorporating part of former subsec. (c); struck out proviso prescribing Oct. 19, 1973, as the commencing date with respect to judgments for which funds were appropriated and for which legislation authorizing use or distribution was not enacted prior to Oct. 19, 1973; and struck out second sentence respecting submission of proposed legislation and report to Congress, incorporated in subsec. (c). See Codification note above.
+<b>1983</b>—Subsec. (a). Pub. L. 97–458 substituted "one year" for "one hundred and eighty days"; inserted provision for contents of the plan; inserted provision for submission of copy of the plan to each affected tribe or group, incorporating part of former subsec. (c); struck out proviso prescribing Oct. 19, 1973, as the commencing date with respect to judgments for which funds were appropriated and for which legislation authorizing use or distribution was not enacted prior to Oct. 19, 1973; and struck out second sentence respecting submission of proposed legislation and report to Congress, incorporated in subsec. (c). See Codification note above.
 
 Subsec. (b). Pub. L. 97–458 added subsec. (b). Former subsec. (b) redesignated (e).
 
-Subsec. (c). Pub. L. 97–458 redesignated second sentence of subsec. (a) as subsec. (c) and substituted “he shall submit to the Congress within the one-year period proposed legislation to authorize use or distribution of such funds, together with a report thereon” for “he shall submit, within such one hundred and eighty-day period, proposed legislation as provided in section 1405(b) of this title”. Former subsec. (c) respecting notification of affected Indian tribe on the date of submission of the plan covered in part in subsec. (a) as to provision for a copy of the plan.
+Subsec. (c). Pub. L. 97–458 redesignated second sentence of subsec. (a) as subsec. (c) and substituted "he shall submit to the Congress within the one-year period proposed legislation to authorize use or distribution of such funds, together with a report thereon" for "he shall submit, within such one hundred and eighty-day period, proposed legislation as provided in section 1405(b) of this title". Former subsec. (c) respecting notification of affected Indian tribe on the date of submission of the plan covered in part in subsec. (a) as to provision for a copy of the plan.
 
 Subsec. (d). Pub. L. 97–458 added subsec. (d).
 
-Subsec. (e). Pub. L. 97–458 redesignated subsec. (b) as (e); increased time allowed for submission of plans toone year from a one hundred and eighty-day period and additional time allowed for such submissions to one hundred and eighty from ninety days; and substituted the Senate Select Committee on Indian Affairs for the Senate Committee on Interior and Insular Affairs as the Senate committee approving any extensions.
+Subsec. (e). Pub. L. 97–458 redesignated subsec. (b) as (e); increased time allowed for submission of plans to one year from a one hundred and eighty-day period and additional time allowed for such submissions to one hundred and eighty from ninety days; and substituted the Senate Select Committee on Indian Affairs for the Senate Committee on Interior and Insular Affairs as the Senate committee approving any extensions.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”. See Codification note above.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims". See Codification note above.
 
 #### Effective Date of 1992 Amendment
 

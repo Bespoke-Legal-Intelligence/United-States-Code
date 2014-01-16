@@ -16,7 +16,7 @@ The Secretary of Housing and Urban Development, the Comptroller of the Currency,
 
 &emsp;(2) utilize, contract with and act through, without regard to section 6101 of title 41, any Federal, State, or local public agency or instrumentality, educational institution, or non-profit agency or organization with the consent of the agency or organization concerned, and any funds available to said officers for carrying out their respective functions, powers, and duties shall be available to reimburse or pay any such agency or organization; and, whenever in the judgment of any such officer necessary, he may make advance, progress, or other payments with respect to such contracts without regard to the provisions of subsections (a) and (b) of section 3324 of title 31; and
 
-&emsp;(3) make expenditures for all necessary expenses, including preparation, mounting, shipping, and installation of exhibits; purchase and exchange of technical apparatus; and such other expenses as may, from time to time, be found necessary in carrying out their respective functions, powers, and duties: <i>Provided</i>, That funds made available for administrative expenses in carrying out the functions, powers, and duties imposed upon the Secretary of Housing and Urban Development and the Federal Home Loan Bank Agency,<sup>1</sup> respectively, by or pursuant to law may at their option be consolidated into a single administrative expense fund accounts of such officer or agency for expenditure by them, respectively, in accordance with the provisions hereof.
+&emsp;(3) make expenditures for all necessary expenses, including preparation, mounting, shipping, and installation of exhibits; purchase and exchange of technical apparatus; and such other expenses as may, from time to time, be found necessary in carrying out their respective functions, powers, and duties: <i>Provided</i>, That funds made available for administrative expenses in carrying out the functions, powers, and duties imposed upon the Secretary of Housing and Urban Development and the Federal Home Loan Bank Agency,<sup>1</sup> respectively, by or pursuant to law may at their option be consolidated into a single administrative expense fund accounts of such officer or agencyfor expenditure by them, respectively, in accordance with the provisions hereof.
 
 #### (d) Use of funds for library memberships
 
@@ -30,7 +30,7 @@ This Act, referred to in subsec. (c), is act Aug. 10, 1948, ch. 832, 62 Stat. 12
 
 #### Codification
 
-In subsec. (c)(2), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c)(2), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 Subsec. (b) of section 502 of act Aug. 10, 1948, is set out as section 1404a of Title 42, The Public Health and Welfare.
 
@@ -38,39 +38,39 @@ Section was enacted as part of the Housing Act of 1948, and not as part of the N
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c). Pub. L. 111–203, §370(1), substituted “, the Comptroller of the Currency, and the Federal Deposit Insurance Corporation” for “and the Director of the Office of Thrift Supervision” in introductory provisions.
+<b>2010</b>—Subsec. (c). Pub. L. 111–203, §370(1), substituted ", the Comptroller of the Currency, and the Federal Deposit Insurance Corporation" for "and the Director of the Office of Thrift Supervision" in introductory provisions.
 
-Subsec. (c)(3). Pub. L. 111–203, §370(2), substituted “Agency” for “Board”.
+Subsec. (c)(3). Pub. L. 111–203, §370(2), substituted "Agency" for "Board".
 
-<b>1989</b>—Subsec. (c). Pub. L. 101–73, §306(a), which directed the substitution of “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board (which term as used in this section shall also include and refer to the Federal Savings and Loan Insurance Corporation, the Home Owners Loan Corporation, and the Chairman of the Federal Home Loan Bank Board)”, was executed as directed, except that “Home Owners’ ” rather than “Home Owners” appeared in the original in the language struck out.
+<b>1989</b>—Subsec. (c). Pub. L. 101–73, §306(a), which directed the substitution of "Director of the Office of Thrift Supervision" for "Federal Home Loan Bank Board (which term as used in this section shall also include and refer to the Federal Savings and Loan Insurance Corporation, the Home Owners Loan Corporation, and the Chairman of the Federal Home Loan Bank Board)", was executed as directed, except that "Home Owners' " rather than "Home Owners" appeared in the original in the language struck out.
 
-Subsec. (c)(1). Pub. L. 101–73, §306(b), substituted “of any Federal, State, or local” for “of any State or local”.
+Subsec. (c)(1). Pub. L. 101–73, §306(b), substituted "of any Federal, State, or local" for "of any State or local".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–242, §570(a)(1), struck out “The Secretary of Commerce or his designee shall hereafter be included in the membership of the National Housing Council.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–242, §570(a)(1), struck out "The Secretary of Commerce or his designee shall hereafter be included in the membership of the National Housing Council."
 
-Subsec. (c)(2). Pub. L. 100–242, §570(a)(3), inserted “and” at end.
+Subsec. (c)(2). Pub. L. 100–242, §570(a)(3), inserted "and" at end.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–479, §202(b)(1), substituted “chapter 51 and subchapter III of chapter 53 of title 5” for “the Classification Act of 1949, as amended”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–479, §202(b)(1), substituted "chapter 51 and subchapter III of chapter 53 of title 5" for "the Classification Act of 1949, as amended".
 
-Subsec. (c)(1). Pub. L. 98–479, §202(b)(2), substituted “section 5703 of title 5” for “5 U.S.C. 73b–2”.
+Subsec. (c)(1). Pub. L. 98–479, §202(b)(2), substituted "section 5703 of title 5" for "5 U.S.C. 73b–2".
 
-Subsec. (c)(2). Pub. L. 98–479, §203(c), substituted “subsections (a) and (b) of section 3324 of title 31” for “section 3648 of the Revised Statutes \[31 U.S.C. 529\]”.
+Subsec. (c)(2). Pub. L. 98–479, §203(c), substituted "subsections (a) and (b) of section 3324 of title 31" for "section 3648 of the Revised Statutes \[31 U.S.C. 529\]".
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–19, §5(d)(1)–(3), substituted “Secretary of Housing and Urban Development” for “Housing and Home Finance Administrator” and “Secretary” for “Administrator” wherever appearing, and struck out provision for preparation of official seal and judicial notice thereof.
+<b>1967</b>—Subsec. (a). Pub. L. 90–19, §5(d)(1)–(3), substituted "Secretary of Housing and Urban Development" for "Housing and Home Finance Administrator" and "Secretary" for "Administrator" wherever appearing, and struck out provision for preparation of official seal and judicial notice thereof.
 
-Subsec. (c). Pub. L. 90–19, §5(d)(8), (9), substituted “Secretary of Housing and Urban Development and theFederal Home Loan Bank Board” for “Housing and Home Finance Administrator, the Home Loan Bank Board” where it first appears and “Federal Home Loan Bank Board” for “Home Loan Bank Board, the Federal Housing Commissioner, and the Public Housing Commissioner”.
+Subsec. (c). Pub. L. 90–19, §5(d)(8), (9), substituted "Secretary of Housing and Urban Development and the Federal Home Loan Bank Board" for "Housing and Home Finance Administrator, the Home Loan Bank Board" where it first appears and "Federal Home Loan Bank Board" for "Home Loan Bank Board, the Federal Housing Commissioner, and the Public Housing Commissioner".
 
-Subsec. (c)(3). Pub. L. 90–19, §5(d)(10), (11), substituted “Secretary of Housing and Urban Development and the Federal Home Loan Bank Board” and “such officer or agency” for “Housing and Home Finance Administrator, the Home Loan Bank Board, the Federal Housing Commissioner, and the Public Housing Commissioner” and “said officers or agencies”.
+Subsec. (c)(3). Pub. L. 90–19, §5(d)(10), (11), substituted "Secretary of Housing and Urban Development and the Federal Home Loan Bank Board" and "such officer or agency" for "Housing and Home Finance Administrator, the Home Loan Bank Board, the Federal Housing Commissioner, and the Public Housing Commissioner" and "said officers or agencies".
 
-Subsec. (d). Pub. L. 90–19, §5(d)(12), (13), substituted “Secretary of Housing and Urban Development may utilize funds made available to him” for “Housing and Home Finance Administrator, the Federal Housing Commissioner and the Public Housing Commissioner, respectively, may utilize funds made available to them” and struck out “of the respective agencies” after “librarians”.
+Subsec. (d). Pub. L. 90–19, §5(d)(12), (13), substituted "Secretary of Housing and Urban Development may utilize funds made available to him" for "Housing and Home Finance Administrator, the Federal Housing Commissioner and the Public Housing Commissioner, respectively, may utilize funds made available to them" and struck out "of the respective agencies" after "librarians".
 
 <b>1961</b>—Subsec. (c)(3). Pub. L. 87–70, §909(1), struck out provisions which made section 5 of title 41 inapplicable to any purchase or contract by officers (or their agencies) for services or supplies if the amount thereof does not exceed $300.
 
 Subsec. (d). Pub. L. 87–70, §909(2), added subsec. (d).
 
-<b>1950</b>—Act Apr. 20, 1950, amended third sentence of subsec. (a) to authorize the Administrator to permit redelegation of functions and powers which he had delegated previously to officers, agents, and employees but this does not relieve him of any final responsibility, and inserted “or pay” after “reimburse” in subsec. (c)(2).
+<b>1950</b>—Act Apr. 20, 1950, amended third sentence of subsec. (a) to authorize the Administrator to permit redelegation of functions and powers which he had delegated previously to officers, agents, and employees but this does not relieve him of any final responsibility, and inserted "or pay" after "reimburse" in subsec. (c)(2).
 
-<b>1949</b>—Subsec. (a). Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
+<b>1949</b>—Subsec. (a). Act Oct. 28, 1949, substituted "Classification Act of 1949" for "Classification Act of 1923".
 
 #### Effective Date of 2010 Amendment
 
@@ -90,7 +90,7 @@ For assignment of certain emergency preparedness functions to Secretary of Housi
 
 #### Annual Report on Areas of Program Administration and Management Which Require Improvement
 
-Pub. L. 90–448, §5, Aug. 1, 1968, 82 Stat. 477, as amended by Pub. L. 91–609, title IX, §918, Dec. 31, 1970, 84 Stat. 1816, directed Secretary to report annually to Committees on Banking and Currency of House and Senate, identifying specific areas of program administration and management which require improvement, describing actions taken and proposed, and recommendations for legislation, prior to repeal by Pub. L. 93–608, §1(9), Jan. 2, 1975, 88 Stat. 1968.
+Pub. L. 90–448, §5, Aug. 1, 1968, 82 Stat. 477, as amended by Pub. L. 91–609, title IX, §918, Dec. 31, 1970, 84 Stat.1816, directed Secretary to report annually to Committees on Banking and Currency of House and Senate, identifying specific areas of program administration and management which require improvement, describing actions taken and proposed, and recommendations for legislation, prior to repeal by Pub. L. 93–608, §1(9), Jan. 2, 1975, 88 Stat. 1968.
 
 #### Executive Order No. 11196
 

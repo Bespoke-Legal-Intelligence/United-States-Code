@@ -9,13 +9,16 @@
 | [495\.](%C2%A7%2000495%20-%20Strategic%20delivery%20systems.md) | Strategic delivery systems. |
 | [496\.](%C2%A7%2000496%20-%20Consideration%20of%20expansion%20of%20nuclear%20forces%20of%20other%20countries.md) | Consideration of expansion of nuclear forces of other countries. |
 | [497\.](%C2%A7%2000497%20-%20Notification%20required%20for%20reduction%2C%20consolidation%2C%20or%20withdrawal%20of%20nuclear%20forces%20based%20in%20Europe.md) | Notification required for reduction, consolidation, or withdrawal of nuclear forces based in Europe. |
-| [498\.](%C2%A7498%201%20Unilateral%20change%20in%20nuclear%20weapons%20stockpile%20of%20the%20United%20States.md) | Unilateral change in nuclear weapons stockpile of the United States. |
+| [497a.](%C2%A7%2000497a%20-%20Notification%20required%20for%20reduction%20or%20consolidation%20of%20dual-capable%20aircraft%20based%20in%20Europe.md) | Notification required for reduction or consolidation of dual-capable aircraft based in Europe. |
+| [498\.](%C2%A7%2000498%20-%20Unilateral%20change%20in%20nuclear%20weapons%20stockpile%20of%20the%20United%20States.md) | Unilateral change in nuclear weapons stockpile of the United States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–239, div. A, title X, §§1031(b)(1), (3)(C)(i), 1033(b)(2)(A), 1035(b), 1036(b), 1037(b)(2), 1038(b), Jan. 2, 2013, 126 Stat. 1918, 1919, 1921, 1924, 1925, 1927, added chapter heading and items 491 to 498.
+<b>2013</b>—Pub. L. 113–66, div. A, title X, §1051(b)(2), Dec. 26, 2013, 127 Stat. 859, added item 497a.
+
+Pub. L. 112–239, div. A, title X, §§1031(b)(1), (3)(C)(i), 1033(b)(2)(A), 1035(b), 1036(b), 1037(b)(2), 1038(b), Jan. 2, 2013, 126 Stat. 1918, 1919, 1921, 1924, 1925, 1927, added chapter heading and items 491 to 498.
 
 
 ---
@@ -29,4 +32,5 @@
 - [&sect; 00495 - Strategic delivery systems](%C2%A7%2000495%20-%20Strategic%20delivery%20systems.md)
 - [&sect; 00496 - Consideration of expansion of nuclear forces of other countries](%C2%A7%2000496%20-%20Consideration%20of%20expansion%20of%20nuclear%20forces%20of%20other%20countries.md)
 - [&sect; 00497 - Notification required for reduction, consolidation, or withdrawal of nuclear forces based in Europe](%C2%A7%2000497%20-%20Notification%20required%20for%20reduction%2C%20consolidation%2C%20or%20withdrawal%20of%20nuclear%20forces%20based%20in%20Europe.md)
-- [&sect;498 1 Unilateral change in nuclear weapons stockpile of the United States](%C2%A7498%201%20Unilateral%20change%20in%20nuclear%20weapons%20stockpile%20of%20the%20United%20States.md)
+- [&sect; 00497a - Notification required for reduction or consolidation of dual-capable aircraft based in Europe](%C2%A7%2000497a%20-%20Notification%20required%20for%20reduction%20or%20consolidation%20of%20dual-capable%20aircraft%20based%20in%20Europe.md)
+- [&sect; 00498 - Unilateral change in nuclear weapons stockpile of the United States](%C2%A7%2000498%20-%20Unilateral%20change%20in%20nuclear%20weapons%20stockpile%20of%20the%20United%20States.md)

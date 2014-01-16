@@ -24,7 +24,7 @@
 
 &emsp;(5) in the case of a claim involving an erroneous payment of travel, transportation or relocation expenses and allowances, if application for waiver is received in his office after the expiration of 3 years immediately following the date on which the erroneous payment was discovered.
 
-(c) A person who has repaid to the United States all or part of the amount of a claim, with respect to which a waiver is granted under this section, is entitled, to the extent of the waiver, to refund, by the employing agency at the timeof the erroneous payment, of the amount repaid to the United States, if he applies to that employing agency for that refund within two years following the effective date of the waiver. The employing agency shall pay that refund in accordance with this section.
+(c) A person who has repaid to the United States all or part of the amount of a claim, with respect to which a waiver is granted under this section, is entitled, to the extent of the waiver, to refund, by the employing agency at the time of the erroneous payment, of the amount repaid to the United States, if he applies to that employing agency for that refund within two years following the effective date of the waiver. The employing agency shall pay that refund in accordance with this section.
 
 (d) In the audit and settlement of the accounts of any accountable official, full credit shall be given for any amounts with respect to which collection by the United States is waived under this section.
 
@@ -100,7 +100,7 @@ Pub. L. 109–55, title I, §1100(b), Aug. 2, 2005, 119 Stat. 577, provided that
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–316 effective 60 days after Oct. 19, 1996, see section 101(e)(2) of Pub. L. 104–316, set out as a note under section 130c of Title 2, The Congress.
+Amendment by Pub. L. 104–316 effective 60 days after Oct. 19, 1996, see section 101(e)(2) of Pub. L. 104–316, set out as a note under section 4593 of Title 2, The Congress.
 
 #### Effective Date of 1988 Amendment
 

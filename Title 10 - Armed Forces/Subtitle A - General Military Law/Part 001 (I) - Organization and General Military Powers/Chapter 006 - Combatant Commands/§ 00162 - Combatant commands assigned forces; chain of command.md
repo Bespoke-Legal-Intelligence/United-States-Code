@@ -2,7 +2,7 @@
 
 (a)
 
-Assignment of Forces.—(1) Except as provided in paragraph (2), the Secretaries of the military departments shall assign all forces under their jurisdiction to unified and specified combatant commands or to the United States element of the North American Aerospace Defense Command to perform missions assigned to those commands. Such assignments shall be made as directed by the Secretary of Defense, including direction as to the command to which forces are to be assigned. The Secretary of Defense shall ensure that such assignments are consistent with the force structure prescribed by the President for each combatant command.
+Assignment of Forces.—(1) Except as provided in paragraph (2), the Secretaries of themilitary departments shall assign all forces under their jurisdiction to unified and specified combatant commands or to the United States element of the North American Aerospace Defense Command to perform missions assigned to those commands. Such assignments shall be made as directed by the Secretary of Defense, including direction as to the command to which forces are to be assigned. The Secretary of Defense shall ensure that such assignments are consistent with the force structure prescribed by the President for each combatant command.
 
 (2) Except as otherwise directed by the Secretary of Defense, forces to be assigned by the Secretaries of the military departments to the combatant commands or to the United States element of the North American Aerospace Defense Command under paragraph (1) do not include forces assigned to carry out functions of the Secretary of a military department listed in sections 3013(b), 5013(b), and 8013(b) of this title or forces assigned to multinational peacekeeping organizations.
 
@@ -16,7 +16,7 @@ Assignment of Forces.—(1) Except as provided in paragraph (2), the Secretaries
 
 (b)
 
-Chain of Command.—Unless otherwise directed by the President, the chain of commandto a unified or specified combatant command runs—
+Chain of Command.—Unless otherwise directed by the President, the chain of command to a unified or specified combatant command runs—
 
 &emsp;(1) from the President to the Secretary of Defense; and
 
@@ -26,11 +26,11 @@ Chain of Command.—Unless otherwise directed by the President, the chain of com
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1) to (3). Pub. L. 104–201 substituted “North American Aerospace Defense Command” for “North American Air Defense Command”.
+<b>1996</b>—Subsec. (a)(1) to (3). Pub. L. 104–201 substituted "North American Aerospace Defense Command" for "North American Air Defense Command".
 
-<b>1988</b>—Subsec. (a)(1) to (3). Pub. L. 100–456 inserted “or to the United States element of the North American Air Defense Command”.
+<b>1988</b>—Subsec. (a)(1) to (3). Pub. L. 100–456 inserted "or to the United States element of the North American Air Defense Command".
 
-<b>1987</b>—Subsec. (a)(2). Pub. L. 100–180 inserted before period at end “or forces assigned to multinational peacekeeping organizations”.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–180 inserted before period at end "or forces assigned to multinational peacekeeping organizations".
 
 #### Implementation of Assignment of Forces to Combatant Commands
 

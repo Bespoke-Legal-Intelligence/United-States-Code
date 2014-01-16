@@ -24,7 +24,7 @@
 
 (2) A reviewing official may refer allegations of liability to a presiding officer only if the Attorney General or an Assistant Attorney General designated by the Attorney General approves the referral of such allegations in a written statement described in paragraph (1) of this subsection.
 
-(3) If the Attorney General or an Assistant Attorney General designated by the Attorney General transmits to an authority head a written finding that the continuation of any hearing under this section with respect to a claim or statement may adversely affect any pending or potential criminal or civil action related to such claim or statement, such hearing shall be immediately stayed and may be resumed only upon written authorization of the Attorney General.
+(3) If the Attorney General or an Assistant Attorney General designated by the Attorney General transmits to an authority head a written finding that the continuation of any hearing under this section with respect to a claim orstatement may adversely affect any pending or potential criminal or civil action related to such claim or statement, such hearing shall be immediately stayed and may be resumed only upon written authorization of the Attorney General.
 
 (c)(1) No allegations of liability under section 3802 of this title with respect to any claim made, presented, or submitted by any person shall be referred to a presiding officer under paragraph (2) of subsection (b) if the reviewing official determines that—
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(III) acts in reckless disregard of the truth or falsity of the claim or statement.
 
-(C) For purposes of this subsection, the term “benefits” means—
+(C) For purposes of this subsection, the term "benefits" means—
 
 &emsp;(i) benefits under the supplemental security income program under title XVI of the Social Security Act;
 
@@ -98,7 +98,7 @@
 
 (B) A person is not entitled under subparagraph (A) to review and obtain a copy of any document, transcript, record, or material which is privileged under Federal law.
 
-(2) At any time after receiving a notice under paragraph (2)(B) of subsection (d), the person receiving such notice shall be entitled to obtain all exculpatory information in the possession of the investigating official or the reviewing official relating to the allegations contained in such notice. The provisions of subparagraph (B) of paragraph (1) do not apply to any document, transcript, record, or other material, or any portion thereof, in which such exculpatory information is contained.
+(2) At any time after receiving a notice under paragraph (2)(B) of subsection (d), the person receiving such notice shall be entitled to obtain all exculpatory information in the possession ofthe investigating official or the reviewing official relating to the allegations contained in such notice. The provisions of subparagraph (B) of paragraph (1) do not apply to any document, transcript, record, or other material, or any portion thereof, in which such exculpatory information is contained.
 
 (f) Any hearing commenced under paragraph (2) of subsection (d) shall be conducted by the presiding officer on the record in order to determine—
 
@@ -160,11 +160,11 @@
 
 &emsp;(A) in the judicial district of the United States in which the person alleged to be liable under section 3802 of this title resides or transacts business;
 
-&emsp;(B) in the judicial district of the United States in which the claim or statement uponwhich the allegation of liability under such section was made, presented, or submitted; or
+&emsp;(B) in the judicial district of the United States in which the claim or statement upon which the allegation of liability under such section was made, presented, or submitted; or
 
 &emsp;(C) in such other place as may be agreed upon by such person and the presiding officer who will conduct such hearing.
 
-(h) The presiding officer shall issue a written decision, including findings and determinations, after the conclusion of the hearing. Such decision shall include the findings of fact and conclusions of law which the presiding officer relied upon in determining whether a person is liable under this chapter. The presiding officer shall promptly send to each party to the hearing a copy of such decision and a statement describing the right of any person determined to be liable under section 3802 of this title to appeal the decision of the presiding officer to the authority head under paragraph (2) of subsection (i).
+(h) The presiding officer shall issue a written decision, including findings and determinations,after the conclusion of the hearing. Such decision shall include the findings of fact and conclusions of law which the presiding officer relied upon in determining whether a person is liable under this chapter. The presiding officer shall promptly send to each party to the hearing a copy of such decision and a statement describing the right of any person determined to be liable under section 3802 of this title to appeal the decision of the presiding officer to the authority head under paragraph (2) of subsection (i).
 
 (i)(1) Except as provided in paragraph (2) of this subsection and section 3805 of this title, the decision, including the findings and determinations, of the presiding officer issued under subsection (h) of this section are final.
 
@@ -198,7 +198,7 @@ The Richard B. Russell National School Lunch Act, referred to in subsec. (c)(2)(
 
 The Low-Income Home Energy Assistance Act of 1981, referred to in subsec. (c)(2)(C)(xv), is title XXVI of Pub. L. 97–35, Aug. 13, 1981, 95 Stat. 893, as amended, which is classified generally to subchapter II (§8621 et seq.) of chapter 94 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 8621 of Title 42 and Tables.
 
-The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (c)(2)(C)(xvi), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to Part A (§6861 et seq.) of subchapter III of chapter 81 of Title 42. For complete classification of this Act to the Code, seeShort Title note set out under section 6801 of Title 42 and Tables.
+The Energy Conservation in Existing Buildings Act of 1976, referred to in subsec. (c)(2)(C)(xvi), is title IV of Pub. L. 94–385, Aug. 14, 1976, 90 Stat. 1150, as amended. Part A of the Energy Conservation in Existing Buildings Act of 1976 is classified generally to Part A (§6861 et seq.) of subchapter III of chapter 81 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of Title 42 and Tables.
 
 #### Codification
 
@@ -206,15 +206,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(2)(C)(vii). Pub. L. 110–246, §4115(c)(2)(E), substituted “section 3(l)” for “section 3(h)”.
+<b>2008</b>—Subsec. (c)(2)(C)(vii). Pub. L. 110–246, §4115(c)(2)(E), substituted "section 3(l)" for "section 3(h)".
 
-Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(S), substituted “supplemental nutrition assistance program” for “food stamp program” and “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+Pub. L. 110–246, §4002(b)(1)(A), (B), (2)(S), substituted "supplemental nutrition assistance program" for "food stamp program" and "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
-<b>1999</b>—Subsec. (c)(2)(C)(xiii). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
+<b>1999</b>—Subsec. (c)(2)(C)(xiii). Pub. L. 106–78 substituted "Richard B. Russell National School Lunch Act" for "National School Lunch Act".
 
-<b>1996</b>—Subsec. (c)(2)(C)(iv). Pub. L. 104–193 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “aid to families with dependent children under a State plan approved under section 402(a) of the Social Security Act;”.
+<b>1996</b>—Subsec. (c)(2)(C)(iv). Pub. L. 104–193 amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "aid to families with dependent children under a State plan approved under section 402(a) of the Social Security Act;".
 
-<b>1994</b>—Subsec. (c)(2)(C)(x). Pub. L. 103–448 substituted “special supplemental nutrition program” for “special supplemental food program”.
+<b>1994</b>—Subsec. (c)(2)(C)(x). Pub. L. 103–448 substituted "special supplemental nutrition program" for "special supplemental food program".
 
 #### Effective Date of 2008 Amendment
 

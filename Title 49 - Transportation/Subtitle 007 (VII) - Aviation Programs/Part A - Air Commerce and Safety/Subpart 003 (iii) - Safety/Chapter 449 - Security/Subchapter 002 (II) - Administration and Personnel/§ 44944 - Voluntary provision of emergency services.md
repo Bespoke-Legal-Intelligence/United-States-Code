@@ -6,7 +6,7 @@ Program for Provision of Voluntary Services.—
 
 &emsp;(1)
 
-Program.—The Under Secretary of Transportation for Transportation Security shall carry out a program to permit qualified law enforcement officers, firefighters, andemergency medical technicians to provide emergency services on commercial air flights during emergencies.
+Program.—The Under Secretary of Transportation for Transportation Security shall carry out a program to permit qualified law enforcement officers, firefighters, and emergency medical technicians to provide emergency services on commercial air flights during emergencies.
 
 &emsp;(2)
 
@@ -36,7 +36,7 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 
 #### Construction
 
-Pub. L. 107–71, title I, §131(c), Nov. 19, 2001, 115 Stat. 635, provided that: “Nothing in this section \[enacting this section\] may be construed to require any modification of regulations of the Department of Transportation governing the possession of firearms while in aircraft or air transportation facilities or to authorize the possession of a firearm in an aircraft or any such facility not authorized under those regulations.”
+Pub. L. 107–71, title I, §131(c), Nov. 19, 2001, 115 Stat. 635, provided that: "Nothing in this section \[enacting this section\] may be construed to require any modification of regulations of the Department of Transportation governing the possession of firearms while in aircraft or air transportation facilities or to authorize the possession of a firearm in an aircraft or any such facility not authorized under those regulations."
 
-\[For definitions of “aircraft” and “air transportation” used in section 131(c) of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.\]
+\[For definitions of "aircraft" and "air transportation" used in section 131(c) of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.\]
 

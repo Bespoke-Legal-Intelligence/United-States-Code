@@ -86,7 +86,7 @@ A project assisted under this section may provide services such as—
 
 #### (6) Supplement, not supplant
 
-&emsp;Funds received by a grant recipient that are used under this subsection shall be used to supplement, and not supplant, non-Federal funds expended for student support services programs.
+&emsp;Funds received by a grant recipient that are used under this subsection shall be used tosupplement, and not supplant, non-Federal funds expended for student support services programs.
 
 #### (e) Requirements for approval of applications
 
@@ -100,7 +100,7 @@ In approving applications for projects under this section for any fiscal year, t
 
 &emsp;(2) require an assurance that the remaining students participating in the project proposed to be carried out under any application be low-income individuals, first generation college students, or individuals with disabilities;
 
-&emsp;(3) require an assurance that not less than one-third of the individuals with disabilitiesparticipating in the project be low-income individuals;
+&emsp;(3) require an assurance that not less than one-third of the individuals with disabilities participating in the project be low-income individuals;
 
 &emsp;(4) require that there be a determination by the institution, with respect to each participant in such project, that the participant has a need for academic support in order to pursue successfully a program of education beyond secondary school;
 
@@ -116,23 +116,23 @@ In approving applications for projects under this section for any fiscal year, t
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(1). Pub. L. 111–152 substituted “exceed the Federal Pell Grant amount, determined under section 1070a(b)(2)(A) of this title, for which a student is eligible, or be less than the minimum Federal Pell Grant amount described in section 1070a(b)(4) of this title, for” for “exceed the maximum appropriated Pell Grant or, be less than the minimum appropriated Pell Grant, for”.
+<b>2010</b>—Subsec. (d)(1). Pub. L. 111–152 substituted "exceed the Federal Pell Grant amount, determined under section 1070a(b)(2)(A) of this title, for which a student is eligible, or be less than the minimum Federal Pell Grant amount described in section 1070a(b)(4) of this title, for" for "exceed the maximum appropriated Pell Grant or, be less than the minimum appropriated Pell Grant, for".
 
-<b>2008</b>—Subsec. (a)(3), (4). Pub. L. 110–315, §403(d)(1), added pars. (3) and (4) and struck out former par. (3) which read as follows: “to foster an institutional climate supportive of the success of low-income and first generation college students and individuals with disabilities.”
+<b>2008</b>—Subsec. (a)(3), (4). Pub. L. 110–315, §403(d)(1), added pars. (3) and (4) and struck out former par. (3) which read as follows: "to foster an institutional climate supportive of the success of low-income and first generation college students and individuals with disabilities."
 
 Subsec. (b). Pub. L. 110–315, §403(d)(3), added subsec. (b) and struck out former subsec. (b) which related to permissible services.
 
 Subsecs. (c), (d). Pub. L. 110–315, §403(d)(2), (3), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(1). Pub. L. 110–315, §403(d)(4), substituted “subsection (c)” for “subsection (b)”.
+Subsec. (d)(1). Pub. L. 110–315, §403(d)(4), substituted "subsection (c)" for "subsection (b)".
 
-Subsec. (e). Pub. L. 110–315, §403(d)(2), (5), redesignated subsec. (d) as (e) and substituted “projects under this section” for “student support services projects under this division” in introductory provisions.
+Subsec. (e). Pub. L. 110–315, §403(d)(2), (5), redesignated subsec. (d) as (e) and substituted "projects under this section" for "student support services projects under this division" in introductory provisions.
 
 <b>2000</b>—Subsecs. (c), (d). Pub. L. 106–554 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-<b>1998</b>—Subsec. (c)(6). Pub. L. 105–244 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “require an assurance from the institution which is the recipient of the grant or contract that each student enrolled in the project will be offered sufficient financial assistance to meet that student's full financial need.”
+<b>1998</b>—Subsec. (c)(6). Pub. L. 105–244 amended par. (6) generally. Prior to amendment, par. (6) read as follows: "require an assurance from the institution which is the recipient of the grant or contract that each student enrolled in the project will be offered sufficient financial assistance to meet that student's full financial need."
 
-<b>1993</b>—Subsec. (c)(2). Pub. L. 103–208 struck out “either” after “application”.
+<b>1993</b>—Subsec. (c)(2). Pub. L. 103–208 struck out "either" after "application".
 
 #### Effective Date of 2010 Amendment
 
@@ -140,7 +140,7 @@ Amendment by Pub. L. 111–152 effective July 1, 2010, see section 2101(c) of Pu
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(1) \[title III, §317(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to student support services grants awarded on or after the date of enactment of this Act \[Dec. 21, 2000\].”
+Pub. L. 106–554, §1(a)(1) \[title III, §317(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply with respect to student support services grants awarded on or after the date of enactment of this Act \[Dec. 21, 2000\]."
 
 #### Effective Date of 1998 Amendment
 

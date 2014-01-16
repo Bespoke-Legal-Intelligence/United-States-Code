@@ -46,19 +46,19 @@ Changes were made in phraseology and surplusage omitted.
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–248, §302(2)(A), inserted “to undergo postrelease proceedings” after “trial” in section catchline.
+<b>2006</b>—Pub. L. 109–248, §302(2)(A), inserted "to undergo postrelease proceedings" after "trial" in section catchline.
 
-Subsec. (a). Pub. L. 109–248, §302(2)(B), inserted “or at any time after the commencement of probation or supervised release and prior to the completion of the sentence,” after “sentencing of the defendant,”.
+Subsec. (a). Pub. L. 109–248, §302(2)(B), inserted "or at any time after the commencement of probation or supervised release and prior to the completion of the sentence," after "sentencing of the defendant,".
 
-Subsec. (d). Pub. L. 109–248, §302(2)(C), substituted “proceedings to go forward” for “trial to proceed” wherever appearing and “sections 4246 and 4248” for “section 4246” in concluding provisions.
+Subsec. (d). Pub. L. 109–248, §302(2)(C), substituted "proceedings to go forward" for "trial to proceed" wherever appearing and "sections 4246 and 4248" for "section 4246" in concluding provisions.
 
-Subsec. (e). Pub. L. 109–248, §302(2)(D), inserted “or other proceedings” after “trial” and substituted “chapters 207 and 227” for “chapter 207”.
+Subsec. (e). Pub. L. 109–248, §302(2)(D), inserted "or other proceedings" after "trial" and substituted "chapters 207 and 227" for "chapter 207".
 
-<b>1984</b>—Pub. L. 98–473 amended section generally, substituting “Determination of mental competency to stand trial” for “Examination and transfer to hospital” in section catchline, and substituting provisions relating to motion, report, hearing, etc., for determination of competency of defendant, for provisions relating to boards of examiners for examination of inmates of Federal penal and correctional institutions and transfer of such inmates to hospitals.
+<b>1984</b>—Pub. L. 98–473 amended section generally, substituting "Determination of mental competency to stand trial" for "Examination and transfer to hospital" in section catchline, and substituting provisions relating to motion, report, hearing, etc., for determination of competency of defendant, for provisions relating to boards of examiners for examination of inmates of Federal penal and correctional institutions and transfer of such inmates to hospitals.
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–473, title II, §401, Oct. 12, 1984, 98 Stat. 2057, provided that: “This chapter \[chapter IV (§§401–406) of title II of Pub. L. 98–473, enacting section 20 of this title and amending this chapter, section 3006A of this title, and rule 12.2 of the Federal Rules of Criminal Procedure and rule 704 of the Federal Rules of Evidence set out in the Appendix to this title\] may be sited \[cited\] as the ‘Insanity Defense Reform Act of 1984’.”
+Pub. L. 98–473, title II, §401, Oct. 12, 1984, 98 Stat. 2057, provided that: "This chapter \[chapter IV (§§401–406) oftitle II of Pub. L. 98–473, enacting section 20 of this title and amending this chapter, section 3006A of this title, and rule 12.2 of the Federal Rules of Criminal Procedure and rule 704 of the Federal Rules of Evidence set out in the Appendix to this title\] may be sited \[cited\] as the 'Insanity Defense Reform Act of 1984'."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “stand trial or to undergo postrelease proceedings”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "stand trial or to undergo postrelease proceedings".</i>
 

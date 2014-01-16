@@ -6,7 +6,7 @@ Nothing in this subchapter shall be deemed to affect the criminal or civil liabi
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–385 inserted before period at end “unless the program involves obscene material”.
+<b>1992</b>—Pub. L. 102–385 inserted before period at end "unless the program involves obscene material".
 
 #### Effective Date of 1992 Amendment
 

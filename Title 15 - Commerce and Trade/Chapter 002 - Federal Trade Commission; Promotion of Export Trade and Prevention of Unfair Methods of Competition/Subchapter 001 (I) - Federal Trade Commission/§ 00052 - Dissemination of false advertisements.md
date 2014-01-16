@@ -16,9 +16,9 @@ The dissemination or the causing to be disseminated of any false advertisement w
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–297 inserted “services,” after “devices,” in pars. (1) and (2).
+<b>1994</b>—Subsec. (a). Pub. L. 103–297 inserted "services," after "devices," in pars. (1) and (2).
 
-<b>1975</b>—Subsec. (a). Pub. L. 93–637 substituted “in or having an effect upon commerce,” for “in commerce”.
+<b>1975</b>—Subsec. (a). Pub. L. 93–637 substituted "in or having an effect upon commerce," for "in commerce".
 
-Subsec. (b). Pub. L. 93–637 substituted “in or affecting commerce” for “in commerce”.
+Subsec. (b). Pub. L. 93–637 substituted "in or affecting commerce" for "in commerce".
 

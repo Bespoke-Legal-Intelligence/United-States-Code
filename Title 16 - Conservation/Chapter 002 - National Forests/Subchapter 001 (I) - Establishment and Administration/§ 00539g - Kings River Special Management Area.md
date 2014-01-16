@@ -2,15 +2,15 @@
 
 #### (a) Establishment
 
-In order to provide for public outdoor recreation use and enjoyment of certain areas within the Sierra National Forest and the Sequoia National Forest, to protect those areas’ natural, archaeological, and scenic resources, and to provide for appropriate fish and wildlife management of those areas, there is hereby established the Kings River Special Management Area (hereinafter in this Act referred to as the “special management area”). The special management area shall be administered by the Secretary of Agriculture (hereinafter in this Act referred to as “the Secretary”) through the Sierra National Forest.
+In order to provide for public outdoor recreation use and enjoyment of certain areas within the Sierra National Forest and the Sequoia National Forest, to protect those areas' natural, archaeological, and scenic resources, and to provide for appropriate fish and wildlife management of those areas, there is hereby established the Kings River Special Management Area (hereinafter in this Act referred to as the "special management area"). The special management area shall be administered by the Secretary of Agriculture (hereinafter in this Act referred to as "the Secretary") through the Sierra National Forest.
 
 #### (b) Area included
 
-The special management area shall consist of the lands, waters, and interests therein within the area generally depicted on the map entitled “Boundary Map, Kings River Special Management Area”, dated April 1987. The map shall be on file and available for public inspection in the offices of the National Forest Service, Department of Agriculture. The Secretary of Agriculture may from time to time make minor revisions of the boundary of the special management area.
+The special management area shall consist of the lands, waters, and interests therein within the area generally depicted on the map entitled "Boundary Map, Kings River Special Management Area", dated April 1987. The map shall be on file and available for public inspection in the offices of the National Forest Service, Department of Agriculture. The Secretary of Agriculture may from time to time make minor revisions of the boundary of the special management area.
 
 #### (c) Administration
 
-The Secretary shall administer the special management area in accordance with this Act and with the provisions of law generally applicable to units of the National Forest System. In the case of any conflict between the provisions of such Acts, the provisions of this Act shall govern. In the administration of the special management area the Secretary may utilizesuch statutory authority as may be available to him for the conservation of wildlife and natural resources as he deems necessary to carry out the purposes of this Act. Nothing in this Act shall be construed to prohibit grazing within the special management area to the same extent, and in accordance with the same rules and regulations as applicable in the absence of this Act. The Secretary may permit the cutting of timber within the special management area only in those cases where in the judgment of the Secretary the cutting of such timber is required in order to control the attacks of fire, insects, or diseases or to otherwise conserve the scenery or the natural or historical objects in the area.
+The Secretary shall administer the special management area in accordance with this Act and with the provisions of law generally applicable to units of the National Forest System. In the case of any conflict between the provisions of such Acts, the provisions of this Act shall govern. In the administration of the special management area the Secretary may utilize such statutory authority as may be available to him for the conservation of wildlife and natural resources as he deems necessary to carry out the purposes of this Act. Nothing in this Act shall be construed to prohibit grazing within the special management area to the same extent, and in accordance with the same rules and regulations as applicable in the absence of this Act. The Secretary may permit the cutting of timber within the special management area only in those cases where in the judgment of the Secretary the cutting of such timber is required in order to control the attacks of fire, insects, or diseases or to otherwise conserve the scenery or the natural or historical objects in the area.
 
 #### (d) Mining and mineral leasing
 
@@ -18,7 +18,7 @@ Subject to valid existing rights, lands within the special management area are w
 
 #### (e) Hunting and fishing
 
-The Secretary shall permit hunting and fishing on lands and waters within the special management area in accordance with applicable Federal and State law. The Secretary may designate zones where, and establish periods when, such activities will not be permitted for reasons of public safety, administration, fish and wildlife management or public use and enjoyment. Except in emergencies, regulations issued by the Secretary under this subsection shall be put into effect only after consultation with the appropriate State agencies responsible for hunting and fishing activities.
+The Secretary shall permit hunting and fishing on lands and waters within the special management area in accordance with applicable Federal and State law. The Secretary may designate zones where, and establish periods when, such activities will not be permitted for reasonsof public safety, administration, fish and wildlife management or public use and enjoyment. Except in emergencies, regulations issued by the Secretary under this subsection shall be put into effect only after consultation with the appropriate State agencies responsible for hunting and fishing activities.
 
 #### (f) Management plan
 
@@ -38,7 +38,5 @@ In recognition of the dispute that exists over whether a dam project should be c
 
 This Act, referred to in subsecs. (a), (c), and (h), is Pub. L. 100–150, Nov. 3, 1987, 101 Stat. 881, which enacted this section and amended section 1274 of this title. For complete classification of this Act to the Code, see Tables.
 
-The mining laws and the mineral leasing laws of the United States, referred to in subsec. (d), are classified generally to Title 30, Mineral Lands and Mining.
-
-The Geothermal Steam Act of 1970, referred to in subsec. (d), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, as amended, which is classified principally to chapter 23 (§1001 et seq.) of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
+The Geothermal Steam Act of 1970, referred to in subsec. (d), is Pub. L. 91–581, Dec. 24, 1970, 84 Stat. 1566, as amended, which is classified principally to chapter 23 (§1001 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 30 and Tables.
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) shall include a provision to allow the termination of such agreement by any party thereto after reasonable notice; and
 
-&emsp;&emsp;(C) may provide for the reimbursement of any party thereto for all or any part of the costs incurred by such party in furnishingwildfire protection resources for, or on behalf of, any other party thereto.
+&emsp;&emsp;(C) may provide for the reimbursement of any party thereto for all or any part of the costs incurred by such party in furnishing wildfire protection resources for, or on behalf of, any other party thereto.
 
 #### (b) Exchange of wildfire protection resources without a reciprocal agreement
 
@@ -28,9 +28,9 @@ In the absence of any agreement authorized under subsection (a) of this section,
 
 Notwithstanding the preceding provisions of this section, reimbursement may be provided for the costs incurred by the Government of Canada or a Canadian organization in furnishing wildfire protection resources to the Government of the United States under—
 
-&emsp;(1) the memorandum entitled “Memorandum of Understanding Between the United States Department of Agriculture and Environment Canada on Cooperation in the Field of Forestry-Related Programs” dated June 25, 1982; and
+&emsp;(1) the memorandum entitled "Memorandum of Understanding Between the United States Department of Agriculture and Environment Canada on Cooperation in the Field of Forestry-Related Programs" dated June 25, 1982; and
 
-&emsp;(2) the arrangement entitled “Arrangement in the Form of an Exchange of Notes Between the Government of Canada and the Government of the United States of America” dated May 4, 1982.
+&emsp;(2) the arrangement entitled "Arrangement in the Form of an Exchange of Notes Between the Government of Canada and the Government of the United States of America" dated May 4, 1982.
 
 #### (d) Service performed under this subchapter by Federal employees
 
@@ -50,9 +50,9 @@ Notwithstanding the preceding provisions of this section, reimbursement may be p
 
 Subsec. (b). Pub. L. 112–74, §411(3)(B)(i), inserted heading.
 
-Subsec. (b)(1). Pub. L. 112–74, §411(3)(B)(ii), substituted “United States; and” for “United States, and”.
+Subsec. (b)(1). Pub. L. 112–74, §411(3)(B)(ii), substituted "United States; and" for "United States, and".
 
 Subsec. (c). Pub. L. 112–74, §411(3)(C), inserted heading.
 
-Subsec. (d). Pub. L. 112–74, §411(3)(D), inserted subsec. heading, designated first and second sentences as pars. (1) and (2), respectively, inserted par. headings, and substituted “Except as provided in section 1856n–1 of this title, the” for “The” in par. (2).
+Subsec. (d). Pub. L. 112–74, §411(3)(D), inserted subsec. heading, designated first and second sentences as pars. (1) and (2), respectively, inserted par. headings, and substituted "Except as provided in section 1856n–1 of this title, the" for "The" in par. (2).
 

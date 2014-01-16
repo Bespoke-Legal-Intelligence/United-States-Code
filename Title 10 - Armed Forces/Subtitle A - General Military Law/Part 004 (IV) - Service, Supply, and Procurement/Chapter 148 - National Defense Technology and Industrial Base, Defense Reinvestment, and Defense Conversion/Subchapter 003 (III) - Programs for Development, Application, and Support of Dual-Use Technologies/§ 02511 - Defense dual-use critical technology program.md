@@ -12,7 +12,7 @@ Assistance Authorized.—The Secretary of Defense may provide technical and othe
 
 Financial Commitment of Non-Federal Government Participants.—(1) The total amount of funds provided by the Federal Government for a project conducted under the program may not exceed 50 percent of the total cost of the project. However, the Secretary of Defense may agree to a project in which the total amount of funds provided by the Federal Government exceeds 50 percent if the Secretary determines the project is particularly meritorious, but the project would not otherwise have sufficient non-Federal funding or in-kind contributions.
 
-(2) The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a project conducted under the program for the purpose of calculating the share of the project costs that has been or is being undertaken by such participants. In such regulations, the Secretary may authorize a participant that is a small business concern to use funds received under the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of project activities. Any such funds so used may be considered in calculating the amount of the financial commitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity percentage contribution in the project from non-Federal sources.
+(2) The Secretary may prescribe regulations to provide for consideration of in-kind contributions by non-Federal Government participants in a project conducted under the program for the purpose of calculating the share of the project costs that has been or is being undertaken by such participants. In such regulations, the Secretary may authorize a participant that is a small business concern to use funds receivedunder the Small Business Innovation Research Program or the Small Business Technology Transfer Program to help pay the costs of project activities. Any such funds so used may be considered in calculating the amount of the financial commitment undertaken by the non-Federal Government participants unless the Secretary determines that the small business concern has not made a significant equity percentage contribution in the project from non-Federal sources.
 
 (3) The Secretary shall consider a project proposal submitted by a small business concern without regard to the ability of the small business concern to immediately meet its share of the anticipated project costs. Upon the selection of a project proposal submitted by a small business concern, the small business concern shall have a period of not less than 120 days in which to arrange to meet its financial commitment requirements under the project from sources other than a person of a foreign country. If the Secretary determines upon the expiration of that period that the small business concern will be unable to meet its share of the anticipated project costs, the Secretary shall revoke the selection of the project proposal submitted by the small business concern.
 
@@ -46,7 +46,7 @@ Regulations.—The Secretary of Defense shall prescribe regulations for the purp
 
 #### Prior Provisions
 
-A prior section 2511, added Pub. L. 101–510, div. A, title VIII, §823(a)(3), Nov. 5, 1990, 104 Stat. 1600; amended Pub. L. 102–190, div. A, title VIII, §824(b), Dec. 5, 1991, 105 Stat. 1438, defined “manufacturing technology”, “manufacturing extension program”, and “United States-based small manufacturing firm” for purposes of former chapter 149 of this title, prior to repeal and restatement in section 2491 of this title by Pub. L. 102–484, §§4202(a), 4203(a).
+A prior section 2511, added Pub. L. 101–510, div. A, title VIII, §823(a)(3), Nov. 5, 1990, 104 Stat. 1600; amended Pub. L. 102–190, div. A, title VIII, §824(b), Dec. 5, 1991, 105 Stat. 1438, defined "manufacturing technology", "manufacturing extension program", and "United States-based small manufacturing firm" for purposes of former chapter 149 of this title, prior to repeal and restatement in section 2491 of this title by Pub. L. 102–484, §§4202(a), 4203(a).
 
 Another prior section 2511 was renumbered section 2540 of this title and subsequently repealed.
 
@@ -54,99 +54,99 @@ Provisions similar to those in this section were contained in section 2523 of th
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–106 substituted “program” for “partnerships” in section catchline and amended text generally. Prior to amendment, text related to program for establishment of cooperative arrangements between Department of Defense and eligible entities.
+<b>1996</b>—Pub. L. 104–106 substituted "program" for "partnerships" in section catchline and amended text generally. Prior to amendment, text related to program for establishment of cooperative arrangements between Department of Defense and eligible entities.
 
 <b>1994</b>—Subsec. (c)(3). Pub. L. 103–337 added par. (3).
 
-<b>1993</b>—Subsec. (c). Pub. L. 103–160, §1315(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary of Defense shall ensure that, to the maximum extent he determines to be practicable, the amount of the funds provided by the Federal Government under a partnership does not exceed the total amount provided by non-Federal Government participants in that partnership.”
+<b>1993</b>—Subsec. (c). Pub. L. 103–160, §1315(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Secretary of Defense shall ensure that, to the maximum extent he determines to be practicable, the amount of the funds provided by the Federal Government under a partnership does not exceed the total amount provided by non-Federal Government participants in that partnership."
 
-Subsec. (e). Pub. L. 103–160, §1317(c), struck out “, except that procedures other than competitive procedures may be used in any case in which an exception set out in section 2304(c) of this title applies” after “partnerships”.
+Subsec. (e). Pub. L. 103–160, §1317(c), struck out ", except that procedures other than competitive procedures may be used in any case in which an exception set out in section 2304(c) of this title applies" after "partnerships".
 
 #### Dual-Use Science and Technology Program
 
 Pub. L. 105–85, div. A, title II, §203, Nov. 18, 1997, 111 Stat. 1655, as amended by Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717, provided that:
 
-“(a)
+"(a)
 
 Funding 1998.—Of the amounts authorized to be appropriated by section 201 \[111 Stat. 1655\], $75,000,000 is authorized for dual-use projects.
 
-“(b)
+"(b)
 
 Goals.—(1) Subject to paragraph (3), it shall be the objective of the Secretary of each military department to obligate for dual-use projects in each fiscal year referred to in paragraph (2), out of the total amount authorized to be appropriated for such fiscal year for the applied research programs of the military department, the percent of such amount that is specified for that fiscal year in paragraph (2).
 
-“(2) The objectives for fiscal years under paragraph (1) are as follows:
+"(2) The objectives for fiscal years under paragraph (1) are as follows:
 
-&emsp;“(A) For fiscal year 1998, 5 percent.
+&emsp;"(A) For fiscal year 1998, 5 percent.
 
-&emsp;“(B) For fiscal year 1999, 7 percent.
+&emsp;"(B) For fiscal year 1999, 7 percent.
 
-&emsp;“(C) For fiscal year 2000, 10 percent.
+&emsp;"(C) For fiscal year 2000, 10 percent.
 
-&emsp;“(D) For fiscal year 2001, 15 percent.
+&emsp;"(D) For fiscal year 2001, 15 percent.
 
-“(3) The Secretary of Defense may establish for a military department for a fiscal year an objective different from the objective set forth in paragraph (2) if the Secretary—
+"(3) The Secretary of Defense may establish for a military department for a fiscal year an objective different from the objective set forth in paragraph (2) if the Secretary—
 
-&emsp;“(A) determines that compelling national security considerations require the establishment of the different objective; and
+&emsp;"(A) determines that compelling national security considerations require the establishment of the different objective; and
 
-&emsp;“(B) notifies Congress of the determination and the reasons for the determination.
+&emsp;"(B) notifies Congress of the determination and the reasons for the determination.
 
-“(c)
+"(c)
 
 Designation of Official for Dual-Use Programs.—(1) The Secretary of Defense shall designate a senior official in the Office of the Secretary of Defense to carry out responsibilities for dual-use projects under this subsection. The designated official shall report directly to the Under Secretary of Defense for Acquisition, Technology, and Logistics.
 
-“(2) The primary responsibilities of the designated official shall include developing policy and overseeing the establishment of, and adherence to, procedures for ensuring that dual-use projects are initiated and administered effectively and that applicable commercial technologies are integrated into current and future military systems.
+"(2) The primary responsibilities of the designated official shall include developing policy and overseeing the establishment of, and adherence to, procedures for ensuring that dual-use projects are initiated and administered effectively and that applicable commercial technologies are integrated into current and future military systems.
 
-“(3) In carrying out the responsibilities, the designated official shall ensure that—
+"(3) In carrying out the responsibilities, the designated official shall ensure that—
 
-&emsp;“(A) dual-use projects are consistent with the joint warfighting science and technology plan referred to in section 270 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 10 U.S.C. 2501 note); and
+&emsp;"(A) dual-use projects are consistent with the joint warfighting science and technology plan referred to in section 270 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 10 U.S.C. 2501 note); and
 
-&emsp;“(B) the dual-use projects of the military departments and defense agencies of the Department of Defense are coordinated and avoid unnecessary duplication.
+&emsp;"(B) the dual-use projects of the military departments and defense agencies of the Department of Defense are coordinated and avoid unnecessary duplication.
 
-“(d)
+"(d)
 
 Financial Commitment of Non-Federal Government Participants.—The total amount of funds provided by a military department for a dual-use project entered into by the Secretary of that department shall not exceed 50 percent of the total cost of the project. In the case of a dual-use project initiated after the date of the enactment of this Act \[Nov. 18, 1997\], the Secretary may consider in-kind contributions by non-Federal participants only to the extent such contributions constitute 50 percent or less of the share of the project costs by such participants.
 
-“(e)
+"(e)
 
 Use of Competitive Procedures.—Funds obligated for a dual-use project may be counted toward meeting an objective under subsection (a) only if the funds are obligated for a contract, grant, cooperative agreement, or other transaction that was entered into through the use of competitive procedures.
 
-“(f)
+"(f)
 
 Report.—(1) Not later than March 1 of each of 1998, 1999, and 2000, the Secretary of Defense shall submit a report to the congressional defense committees \[Committees on Armed Services and Appropriations of Senate and House of Representatives\] on the progress made by the Department of Defense in meeting the objectives set forth in subsection (b) during the preceding fiscal year.
 
-“(2) The report for a fiscal year shall contain, at a minimum, the following:
+"(2) The report for a fiscal year shall contain, at a minimum, the following:
 
-&emsp;“(A) The aggregate value of all contracts, grants, cooperative agreements, or other transactions entered into during the fiscal year for which funding is counted toward meeting an objective under this section, expressed in relationship to the total amount appropriated for the applied research programs in the Department of Defense for that fiscal year.
+&emsp;"(A) The aggregate value of all contracts, grants, cooperative agreements, or other transactions entered into during the fiscal year for which funding is counted toward meeting an objective under this section, expressed in relationship to the total amount appropriated for the applied research programs in the Department of Defense for that fiscal year.
 
-&emsp;“(B) For each military department, the value of all contracts, grants, cooperative agreements, or other transactions entered into during the fiscal year for which funding is counted toward meeting an objective under this section, expressed in relationship to the total amount appropriated for the applied research program of the military department for that fiscal year.
+&emsp;"(B) For each military department, the value of all contracts, grants, cooperative agreements, or other transactions entered into during the fiscal year for which funding is counted toward meeting an objective under this section, expressed in relationship to the total amount appropriated for the applied research program of the military department for that fiscal year.
 
-&emsp;“(C) A summary of the cost-sharing arrangements in dual-use projects that were initiated during the fiscal year and are counted toward reaching an objective under this section.
+&emsp;"(C) A summary of the cost-sharing arrangements in dual-use projects that were initiated during the fiscal year and are counted toward reaching an objective under this section.
 
-&emsp;“(D) A description of the regulations, directives, or other procedures that have been issued by the Secretary of Defense or the Secretary of a military department to increase the percentage of the totalvalue of the dual-use projects undertaken to meet or exceed an objective under this section.
+&emsp;"(D) A description of the regulations, directives, or other procedures that have been issued by the Secretary of Defense or the Secretary of a military department to increase the percentage of the total value of the dual-use projects undertaken to meet or exceed an objective under this section.
 
-&emsp;“(E) Any recommended legislation to facilitate achievement of objectives under this section.
+&emsp;"(E) Any recommended legislation to facilitate achievement of objectives under this section.
 
-“(g)
+"(g)
 
-Commercial Operations and Support Savings Initiative.—(1) The Secretary of Defense shall establish a Commercial Operations and Support Savings Initiative (in this subsection referred to as the ‘Initiative’) to develop commercial products and processes that the military departments can incorporate into operational military systems to reduce costs of operations and support.
+Commercial Operations and Support Savings Initiative.—(1) The Secretary of Defense shall establish a Commercial Operations and Support Savings Initiative (in this subsection referred to as the 'Initiative') to develop commercial products and processes that the military departments can incorporate into operational military systems to reduce costs of operations and support.
 
-“(2) Of the amounts authorized to be appropriated by section 201, $50,000,000 is authorized for the Initiative.
+"(2) Of the amounts authorized to be appropriated by section 201, $50,000,000 is authorized for the Initiative.
 
-“(3) Projects and participants in the Initiative shall be selected through the use of competitive procedures.
+"(3) Projects and participants in the Initiative shall be selected through the use of competitive procedures.
 
-“(4) The budget submitted to Congress by the President for fiscal year 1999 and each fiscal year thereafter pursuant to section 1105(a) of title 31, United States Code, shall set forth separately the funding request for the Initiative.
+"(4) The budget submitted to Congress by the President for fiscal year 1999 and each fiscal year thereafter pursuant to section 1105(a) of title 31, United States Code, shall set forth separately the funding request for the Initiative.
 
-“(h)
+"(h)
 
 Repeal of Superseded Authority.—\[Repealed section 203 of Pub. L. 104–201, 110 Stat. 2451.\]
 
-“(i)
+"(i)
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘applied research program’ means a program of a military department which is funded under the 6.2 Research, Development, Test and Evaluation account of that department.
+&emsp;"(1) The term 'applied research program' means a program of a military department which is funded under the 6.2 Research, Development, Test and Evaluation account of that department.
 
-&emsp;“(2) The term ‘dual-use project’ means a project under a program of a military department or a defense agency under which research or development of a dual-use technology is carried out and the costs of which are shared by the Department of Defense and non-Government entities.”
+&emsp;"(2) The term 'dual-use project' means a project under a program of a military department or a defense agency under which research or development of a dual-use technology is carried out and the costs of which are shared by the Department of Defense and non-Government entities."
 
 #### Application of 1993 Amendments to Existing Technology Reinvestment Projects
 

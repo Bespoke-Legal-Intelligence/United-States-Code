@@ -23,7 +23,7 @@
 
 |  |  |
 | :--- | ---: |
-| [1405\.](Subchapter%20002%20%28II%29%20-%20Civil%20Government/%C2%A7%2001405%20-%20Geographical%20application%20of%20subchapter%3B%20land%20and%20waters%20included%20in%20term%20%E2%80%9CVirgin%20Islands%E2%80%9D.md) | Geographical application of subchapter; land and waters included in term “Virgin Islands”. |
+| [1405\.](Subchapter%20002%20%28II%29%20-%20Civil%20Government/%C2%A7%2001405%20-%20Geographical%20application%20of%20subchapter%3B%20land%20and%20waters%20included%20in%20term%20Virgin%20Islands.md) | Geographical application of subchapter; land and waters included in term "Virgin Islands". |
 | 1405a, 1405b. Repealed. |  |
 | [1405c.](Subchapter%20002%20%28II%29%20-%20Civil%20Government/%C2%A7%2001405c%20-%20Transfer%20of%20property%20to%20government.md) | Transfer of property to government. |
 | 1405d to 1405p. Repealed. |  |

@@ -26,5 +26,5 @@ Provisions similar to those in this section were contained in sections 857 and 8
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(2). Pub. L. 108–189 amended par. (2) generally substituting “The Servicemembers Civil Relief Act” for “The Soldiers’ and Sailors’ Civil Relief Act of 1940 (50 App. U.S.C. 501 et seq.)”.
+<b>2003</b>—Subsec. (a)(2). Pub. L. 108–189 amended par. (2) generally substituting "The Servicemembers Civil Relief Act" for "The Soldiers' and Sailors' Civil Relief Act of 1940 (50 App. U.S.C. 501 et seq.)".
 

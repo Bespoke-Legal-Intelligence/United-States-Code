@@ -56,7 +56,7 @@ Each State library administrative agency receiving a grant under this subchapter
 
 #### (d) Information
 
-Each library receiving assistance under this subchapter shall submit to the State library administrative agency such information as such agency may require to meet the requirements of subsection (c) of this section.
+Each library receiving assistance under this subchapter shall submit to the State library administrative agency such information as suchagency may require to meet the requirements of subsection (c) of this section.
 
 #### (e) Approval
 
@@ -120,7 +120,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (A) In general
 
-&emsp;&emsp;A library covered by paragraph (1) shall certify the compliance of such library with the requirements of paragraph (1) as part ofthe application process for the next program funding year under this subchapter following the effective date of this subsection, and for each subsequent program funding year thereafter.
+&emsp;&emsp;A library covered by paragraph (1) shall certify the compliance of such library with the requirements of paragraph (1) as part of the application process for the next program funding year under this subchapter following the effective date of this subsection, and for each subsequent program funding year thereafter.
 
 #### (B) Process
 
@@ -140,7 +140,7 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (iii) Waivers
 
-&emsp;&emsp;&emsp;Any library subject to a certification under clause (ii)(II) that cannot make the certification otherwise required by that clause may seek a waiver of that clause if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that clause. The library shall notify the Director of the Institute of Museum and Library Services of the applicability of that clause to the library. Such notice shall certify that the library will comply with the requirements in paragraph (1) before the start of the third program year after the effective date of this subsection for which the library is applying for funds under this subchapter.
+&emsp;&emsp;&emsp;Any library subject to a certification under clause (ii)(II) that cannot make the certification otherwise required by thatclause may seek a waiver of that clause if State or local procurement rules or regulations or competitive bidding requirements prevent the making of the certification otherwise required by that clause. The library shall notify the Director of the Institute of Museum and Library Services of the applicability of that clause to the library. Such notice shall certify that the library will comply with the requirements in paragraph (1) before the start of the third program year after the effective date of this subsection for which the library is applying for funds under this subchapter.
 
 #### (5) Noncompliance
 
@@ -172,11 +172,11 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (A) Child pornography
 
-&emsp;&emsp;The term “child pornography” has the meaning given such term in section 2256 of title 18.
+&emsp;&emsp;The term "child pornography" has the meaning given such term in section 2256 of title 18.
 
 #### (B) Harmful to minors
 
-&emsp;&emsp;The term “harmful to minors” means any picture, image, graphic image file, or other visual depiction that—
+&emsp;&emsp;The term "harmful to minors" means any picture, image, graphic image file, or other visual depiction that—
 
 &emsp;&emsp;&emsp;(i) taken as a whole and with respect to minors, appeals to a prurient interest in nudity, sex, or excretion;
 
@@ -186,15 +186,15 @@ Each library receiving assistance under this subchapter shall submit to the Stat
 
 #### (C) Minor
 
-&emsp;&emsp;The term “minor” means an individual who has not attained the age of 17.
+&emsp;&emsp;The term "minor" means an individual who has not attained the age of 17.
 
 #### (D) Obscene
 
-&emsp;&emsp;The term “obscene” has the meaning applicable to such term in section 1460 of title 18.
+&emsp;&emsp;The term "obscene" has the meaning applicable to such term in section 1460 of title 18.
 
 #### (E) Sexual act; sexual contact
 
-&emsp;&emsp;The terms “sexual act” and “sexual contact” have the meanings given such terms in section 2246 of title 18.
+&emsp;&emsp;The terms "sexual act" and "sexual contact" have the meanings given such terms in section 2246 of title 18.
 
 (Pub. L. 94–462, title II, §224, as added Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §702\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–300; amended Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–340; Pub. L. 108–81, title II, §205, title V, §504(f), Sept. 25, 2003, 117 Stat. 999, 1004; Pub. L. 111–340, title II, §204, Dec. 22, 2010, 124 Stat. 3600.)
 
@@ -208,19 +208,19 @@ The General Education Provisions Act, referred to in subsec. (f)(5)(A), is title
 
 <b>2010</b>—Subsec. (b)(6) to (8). Pub. L. 111–340, §204(1), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
 
-Subsec. (e)(2). Pub. L. 111–340, §204(2), inserted “, including through electronic means” before period at end.
+Subsec. (e)(2). Pub. L. 111–340, §204(2), inserted ", including through electronic means" before period at end.
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–81, §205(1), substituted “once every 5 years, as determined by the Director.” for “not later than April 1, 1997.”
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–81, §205(1), substituted "once every 5 years, as determined by the Director." for "not later than April 1, 1997."
 
-Subsec. (b)(5). Pub. L. 108–81, §504(f), struck out “and” at end.
+Subsec. (b)(5). Pub. L. 108–81, §504(f), struck out "and" at end.
 
-Subsec. (f). Pub. L. 108–81, §205(2)(A), substituted “this subchapter” for “this chapter” wherever appearing.
+Subsec. (f). Pub. L. 108–81, §205(2)(A), substituted "this subchapter" for "this chapter" wherever appearing.
 
-Subsec. (f)(1). Pub. L. 108–81, §205(2)(B), substituted “section 9122(1)(A) or (B)” for “9122(2)(A) or (B)” and made technical amendment to reference in original act which appears in text as reference to section 254(h)(6) of title 47.
+Subsec. (f)(1). Pub. L. 108–81, §205(2)(B), substituted "section 9122(1)(A) or (B)" for "9122(2)(A) or (B)" and made technical amendment to reference in original act which appears in text as reference to section 254(h)(6) of title 47.
 
-Subsec. (f)(7). Pub. L. 108–81, §205(2)(C)(i), substituted “subsection:” for “section:” in introductory provisions.
+Subsec. (f)(7). Pub. L. 108–81, §205(2)(C)(i), substituted "subsection:" for "section:" in introductory provisions.
 
-Subsec. (f)(7)(D). Pub. L. 108–81, §205(2)(C)(ii), substituted “applicable to” for “given”.
+Subsec. (f)(7)(D). Pub. L. 108–81, §205(2)(C)(ii), substituted "applicable to" for "given".
 
 <b>2000</b>—Subsec. (b)(6), (7). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)(1)\], added par. (6) and redesignated former par. (6) as (7).
 
@@ -228,19 +228,19 @@ Subsec. (f). Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(a)(2)\], 
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343, provided that: “The amendment made by this section \[amending this section\] shall take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\].”
+Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1712(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–343, provided that:"The amendment made by this section \[amending this section\] shall take effect 120 days after the date of the enactment of this Act \[Dec. 21, 2000\]."
 
 #### Availability of Certain Funds for Acquisition of Technology Protection Measures
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1721(g)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–350, provided that:
 
-“(1)
+"(1)
 
 In general.—Notwithstanding any other provision of law, funds available under section 3134 \[former 20 U.S.C. 6844\] or part A of title VI of the Elementary and Secondary Education Act of 1965 \[former 20 U.S.C. 7311 et seq.\], or under section 231 of the Library Services and Technology Act \[20 U.S.C. 9141\], may be used for the purchase or acquisition of technology protection measures that are necessary to meet the requirements of this title \[see Short Title of 2000 Amendments note set out under section 6301 of this title\] and the amendments made by this title. No other sources of funds for the purchase or acquisition of such measures are authorized by this title, or the amendments made by this title.
 
-“(2)
+"(2)
 
-Technology protection measure defined.—In this section, the term ‘technology protection measure’ has the meaning given that term in section 1703 \[set out as a note under section 902 of Title 47, Telecommunications\].”
+Technology protection measure defined.—In this section, the term 'technology protection measure' has the meaning given that term in section 1703 \[set out as a note under section 902 of Title 47, Telecommunications\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “under”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "under".</i>
 

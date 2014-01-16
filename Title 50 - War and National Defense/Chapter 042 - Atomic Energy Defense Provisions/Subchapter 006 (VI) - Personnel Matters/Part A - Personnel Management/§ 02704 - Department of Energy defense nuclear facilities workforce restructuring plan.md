@@ -36,7 +36,7 @@ In preparing the plan required under subsection (a), the Secretary shall be guid
 
 &emsp;(6) The Department of Energy should provide local impact assistance to communities that are affected by the restructuring plan and coordinate the provision of such assistance with—
 
-&emsp;&emsp;(A) programs carried out by the Secretary of Labor under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\];
+&emsp;&emsp;(A) programs carried out by the Secretary of Labor under title I of the Workforce Investment Act of 1998 (29 U.S.C. 2801 et seq.);
 
 &emsp;&emsp;(B) programs carried out pursuant to the Defense Economic Adjustment, Diversification, Conversion, and Stabilization Act of 1990 (division D of Public Law 101–510; 10 U.S.C. 2391 note); and
 
@@ -54,9 +54,9 @@ The Secretary shall, subject to the availability of appropriations for such purp
 
 #### (f) Department of Energy defense nuclear facility defined
 
-In this section, the term “Department of Energy defense nuclear facility” means—
+In this section, the term "Department of Energy defense nuclear facility" means—
 
-&emsp;(1) a production facility or utilization facility (as those terms are defined in section 2014 of title 42) that is under the control or jurisdiction of the Secretary and that is operated for national security purposes (including the tritium loading facility at Savannah River, South Carolina, the 236 H facility at Savannah River, South Carolina; and the Mound Laboratory, Ohio), but the term does not include any facility that does not conduct atomic energy defense activities and does not include any facility or activity covered by Executive Order Number 12344, dated February 1, 1982, pertaining to the naval nuclear propulsion program;
+&emsp;(1) a production facility or utilization facility (as those terms are defined in section 2014 of title 42) that is under the control or jurisdiction of the Secretary and that is operated for national security purposes (including the tritium loading facility at Savannah River, South Carolina, and the 236 H facility at Savannah River, South Carolina), but the term does not include any facility that does not conduct atomic energy defense activities and does not include any facility or activity covered by Executive Order Number 12344, dated February 1, 1982, pertaining to the naval nuclear propulsion program;
 
 &emsp;(2) a nuclear waste storage or disposal facility that is under the control or jurisdiction of the Secretary;
 
@@ -72,13 +72,13 @@ In this section, the term “Department of Energy defense nuclear facility” me
 
 &emsp;&emsp;(C) was operated for national security purposes.
 
-(Pub. L. 107–314, div. D, title XLVI, §4604, formerly Pub. L. 102–484, div. C, title XXXI, §3161, Oct. 23, 1992, 106 Stat. 2644; Pub. L. 103–337, div. A, title X, §1070(c)(2), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 107–107, div. A, title X, §1048(h)(1), Dec. 28, 2001, 115 Stat. 1229; renumbered Pub. L. 107–314, div. D, title XLVI, §4604, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(5), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 112–239, div. C, title XXXI, §§3131(q)(1), (bb)(1)(A), (C), 3134(b)(1), Jan. 2, 2013, 126 Stat. 2183, 2185, 2193.)
+(Pub. L. 107–314, div. D, title XLVI, §4604, formerly Pub. L. 102–484, div. C, title XXXI, §3161, Oct. 23, 1992, 106 Stat. 2644; Pub. L. 103–337, div. A, title X, §1070(c)(2), Oct. 5, 1994, 108 Stat. 2857; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(7)(A), (f)(6)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 107–107, div. A, title X, §1048(h)(1), Dec. 28, 2001, 115 Stat. 1229; renumbered Pub. L. 107–314, div. D, title XLVI, §4604, and amended Pub. L. 108–136, div. C, title XXXI, §3141(i)(5), Nov. 24, 2003, 117 Stat. 1777; Pub. L. 112–239, div. C, title XXXI, §§3131(q)(1), (bb)(1)(A), (C), 3134(b)(1), Jan. 2, 2013, 126 Stat. 2183, 2185, 2193; Pub. L. 113–66, div. C, title XXXI, §3146(g)(4), Dec. 26, 2013, 127 Stat. 1079.)
 
 #### References in Text
 
-Section 3152 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec. (c)(2), is section 3152 of Pub. L. 101–189, div. C, title XXXI, Nov. 29, 1989, 103 Stat. 1682, which is not classified to the Code.
+Section 3152 of the National Defense Authorization Act for Fiscal Years 1990 and 1991, referred to in subsec.\(c)(2), is section 3152 of Pub. L. 101–189, div. C, title XXXI, Nov. 29, 1989, 103 Stat. 1682, which is not classified to the Code.
 
-The Workforce Investment Act of 1998, referred to in subsec. (c)(6)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29,Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (c)(6)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 The Public Works and Economic Development Act of 1965, referred to in subsec. (c)(6)(C), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended. Title II of the Act is classified generally to subchapter II (§3141 et seq.) of chapter 38 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
 
@@ -92,13 +92,17 @@ Section was formerly classified to section 7274h of Title 42, The Public Health 
 
 #### Amendments
 
-Subsec. (b)(1). Pub. L. 112–239, §3134(b)(1)(A), struck out “and any updates of the plan under subsection (e)” after “plan referred to in subsection (a)”.
+<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239, §3134(b)(1)(A), struck out "and any updates of the plan under subsection (e)" after "plan referred to in subsection (a)".
+
+Subsec. (c)(6)(A). Pub. L. 113–66, §3146(g)(4)(A), inserted "(29 U.S.C. 2801 et seq.)" after "1998".
 
 Subsec. (e). Pub. L. 112–239, §3134(b)(1)(B), (D), redesignated subsec. (f) as (e) and struck out former subsec. (e), which required the Secretary to issue plan updates.
 
 Subsec. (f). Pub. L. 112–239, §3134(b)(1)(D), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Subsec. (f)(2). Pub. L. 112–239, §3134(b)(1)(C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “The Secretary shall submit to Congress any updates of the plan under subsection (e) immediately upon completion of any such update.”
+Subsec. (f)(1). Pub. L. 113–66, §3146(g)(4)(B), substituted "and the 236 H facility at Savannah River, South Carolina" for "the 236 H facility at Savannah River, South Carolina; and the Mound Laboratory, Ohio".
+
+Subsec. (f)(2). Pub. L. 112–239, §3134(b)(1)(C), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: "The Secretary shall submit to Congress any updates of the plan under subsection (e) immediately upon completion of any such update."
 
 Subsec. (f)(3). Pub. L. 112–239, §3134(b)(1)(C)(ii), redesignated par. (3) as (2).
 
@@ -106,27 +110,27 @@ Pub. L. 112–239, §3131(q)(1), added par. (3).
 
 Subsec. (g). Pub. L. 112–239, §3134(b)(1)(D), redesignated subsec. (g) as (f).
 
-Subsec. (g)(3). Pub. L. 112–239, §3131(bb)(1)(A), (C), substituted “Nevada National Security Site” for “Nevada Test Site” and struck out “; the Pinnellas Plant, Florida;” before “and the Pantex facility”.
+Subsec. (g)(3). Pub. L. 112–239, §3131(bb)(1)(A), (C), substituted "Nevada National Security Site" for "Nevada Test Site" and struck out "; the Pinnellas Plant, Florida;" before "and the Pantex facility".
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–136, §3141(i)(5)(D)(i), struck out “(hereinafter in this subtitle referred to as the ‘Secretary’)” after “Secretary of Energy”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §3141(i)(5)(D)(i), struck out "(hereinafter in this subtitle referred to as the 'Secretary')" after "Secretary of Energy".
 
 Subsec. (g). Pub. L. 108–136, §3141(i)(5)(D)(ii), added subsec. (g).
 
-<b>2001</b>—Subsec. (c)(6)(C). Pub. L. 107–107 substituted “title II of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3141 et seq.)” for “title IX of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3241 et seq.)”.
+<b>2001</b>—Subsec. (c)(6)(C). Pub. L. 107–107 substituted "title II of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3141 et seq.)" for "title IX of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3241 et seq.)".
 
-<b>1998</b>—Subsec. (c)(6)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(6)(A)\], added subpar. (A) and struck out former subpar. (A) which read as follows: “programs carried out by the Secretary of Labor under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998;”.
+<b>1998</b>—Subsec. (c)(6)(A). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(6)(A)\], added subpar. (A) and struck out former subpar. (A) which read as follows: "programs carried out by the Secretary of Labor under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998;".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(7)(A)\], added subpar. (A) and struck out former subpar. (A) which read as follows: “programs carried out by the Department of Labor pursuant to the Job Training Partnership Act (29 U.S.C. 1501 et seq.);”
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(7)(A)\], added subpar. (A) and struck out former subpar. (A) which read as follows: "programs carried out by the Department of Labor pursuant to the Job Training Partnership Act (29 U.S.C. 1501 et seq.);"
 
-<b>1994</b>—Pub. L. 103–337, §1070(c)(2)(B), substituted “workforce” for “work force” in section catchline.
+<b>1994</b>—Pub. L. 103–337, §1070(c)(2)(B), substituted "workforce" for "work force" in section catchline.
 
-Subsec. (a). Pub. L. 103–337, §1070(c)(2)(A), substituted “workforce for” for “work force for” in introductory provisions.
+Subsec. (a). Pub. L. 103–337, §1070(c)(2)(A), substituted "workforce for" for "work force for" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 103–337, §1070(c)(2)(A), substituted “workforce” for “work force” in introductory provisions.
+Subsec. (c)(1). Pub. L. 103–337, §1070(c)(2)(A), substituted "workforce" for "work force" in introductory provisions.
 
-Subsec. (c)(6)(B). Pub. L. 103–337, §1070(c)(2)(C), substituted “division D” for “Part D”.
+Subsec. (c)(6)(B). Pub. L. 103–337, §1070(c)(2)(C), substituted "division D" for "Part D".
 
-Subsec. (d). Pub. L. 103–337, §1070(c)(2)(A), substituted “workforce” for “work force”.
+Subsec. (d). Pub. L. 103–337, §1070(c)(2)(A), substituted "workforce" for "work force".
 
 #### Effective Date of 1998 Amendment
 

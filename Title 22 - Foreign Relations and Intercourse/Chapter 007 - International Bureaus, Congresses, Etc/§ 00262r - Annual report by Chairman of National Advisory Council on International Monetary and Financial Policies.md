@@ -46,19 +46,19 @@ As used in this title, title XVIII, and title XIX:
 
 #### (1) Chairman
 
-&emsp;The term “Chairman” means the Chairman of the National Advisory Council on International Monetary and Financial Policies.
+&emsp;The term "Chairman" means the Chairman of the National Advisory Council on International Monetary and Financial Policies.
 
 #### (2) International financial institutions
 
-&emsp;The term “international financial institutions” means the International Monetary Fund, International Bank for Reconstruction and Development, European Bank for Reconstruction and Development, International Development Association, International Finance Corporation, Multilateral Investment Guarantee Agency, African Development Bank, African Development Fund, Asian Development Bank, Inter-American Development Bank <sup>1</sup> Bank for Economic Cooperation and Development in the Middle East and North Africa,,<sup>2</sup> and Inter-American Investment Corporation.
+&emsp;The term "international financial institutions" means the International Monetary Fund, International Bank for Reconstruction and Development, European Bank for Reconstruction and Development, International Development Association, International Finance Corporation, Multilateral Investment Guarantee Agency, African Development Bank, African Development Fund, Asian Development Bank, Inter-American Development Bank <sup>1</sup> Bank for Economic Cooperation and Development in the Middle East and North Africa,,<sup>2</sup> and Inter-American Investment Corporation.
 
 #### (3) Multilateral development institutions
 
-&emsp;The term “multilateral development institutions” means the international financial institutions other than the International Monetary Fund.
+&emsp;The term "multilateral development institutions" means the international financial institutions other than the International Monetary Fund.
 
 #### (4) Multilateral development banks
 
-&emsp;The term “multilateral development banks” means the multilateral development institutions other than the Multilateral Investment Guarantee Agency.
+&emsp;The term "multilateral development banks" means the multilateral development institutions other than the Multilateral Investment Guarantee Agency.
 
 #### (d) Testimony required
 
@@ -68,7 +68,7 @@ Upon request of the Committee on Banking, Finance and Urban Affairs of the House
 
 #### (1) In general
 
-&emsp;The Secretary of the Treasury should establish an International Monetary Fund Advisory Committee (in this subsection referred to as the “Advisory Committee”).
+&emsp;The Secretary of the Treasury should establish an International Monetary Fund Advisory Committee (in this subsection referred to as the "Advisory Committee").
 
 #### (2) Membership
 
@@ -88,9 +88,9 @@ Reorganization Plan No. 4 of 1965, referred to in subsec. (d), is set out in the
 
 <b>1998</b>—Subsec. (e). Pub. L. 105–277 added subsec. (e).
 
-<b>1996</b>—Subsec. (c)(2). Pub. L. 104–208 inserted “Bank for Economic Cooperation and Development in the Middle East and North Africa,” after “Inter-American Development Bank”.
+<b>1996</b>—Subsec. (c)(2). Pub. L. 104–208 inserted "Bank for Economic Cooperation and Development in the Middle East and North Africa," after "Inter-American Development Bank".
 
-<b>1990</b>—Subsec. (c)(2). Pub. L. 101–513 inserted “European Bank for Reconstruction and Development,” before “International Development Association,”.
+<b>1990</b>—Subsec. (c)(2). Pub. L. 101–513 inserted "European Bank for Reconstruction and Development," before "International Development Association,".
 
 #### Change of Name
 
@@ -100,147 +100,147 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 Pub. L. 105–277, div. A, §101(d) \[title V, §583\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–202, provided that:
 
-“(a) Notwithstanding any other provision of law, each annual report required by subsection 1701(a) of the International Financial Institutions Act, as amended (Public Law 95–118, 22 U.S.C. 262r), shall comprise—
+"(a) Notwithstanding any other provision of law, each annual report required by subsection 1701(a) of the International Financial Institutions Act, as amended (Public Law 95–118, 22 U.S.C. 262r), shall comprise—
 
-&emsp;“(1) an assessment of the effectiveness of the major policies and operations of the international financial institutions;
+&emsp;"(1) an assessment of the effectiveness of the major policies and operations of the international financial institutions;
 
-&emsp;“(2) the major issues affecting United States participation;
+&emsp;"(2) the major issues affecting United States participation;
 
-&emsp;“(3) the major developments in the past year;
+&emsp;"(3) the major developments in the past year;
 
-&emsp;“(4) the prospects for the coming year;
+&emsp;"(4) the prospects for the coming year;
 
-&emsp;“(5) the progress made and steps taken to achieve United States policy goals (including major policy goals embodied in current law) with respect to the international financial institutions; and
+&emsp;"(5) the progress made and steps taken to achieve United States policy goals (including major policy goals embodied in current law) with respect to the international financial institutions; and
 
-&emsp;“(6) such data and explanations concerning the effectiveness, operations, and policies of the international financial institutions, such recommendations concerning the international financial institutions, and such other data and material as the Chairman may deem appropriate.
+&emsp;"(6) such data and explanations concerning the effectiveness, operations, and policies of the international financial institutions, such recommendations concerning the international financial institutions, and such other data and material as the Chairman may deem appropriate.
 
-“(b) The requirements of Sections 1602(e), 1603(c), 1604(c), and 1701(b) of the International Financial Institutions Act, as amended (Public Law 95–118, 22 U.S.C. 262p–1, 262p–2, 262p–3 and 262(r) \[262r\]), Section 2018(c) of the International Narcotics Control Act of 1986, as amended (Public Law 99–570, 22 U.S.C. 2291 note), Section 407(c) of the Foreign Debt Reserving Act of 1989 (Public Law 101–240, 22 U.S.C. 2291 note), Section 14(c) of the Inter-American Development Bank Act, as amended (Public Law 86–147, 22 U.S.C. 283j–1(c)), and Section 1002 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 (Public Law 102–511) (22 U.S.C. 286ll(b)) shall no longer apply to the contents of such annual reports.”
+"(b) The requirements of Sections 1602(e), 1603(c), 1604(c), and 1701(b) of the International Financial Institutions Act, as amended (Public Law 95–118, 22 U.S.C. 262p–1, 262p–2, 262p–3 and 262(r) \[262r\]), Section 2018(c) of the International Narcotics Control Act of 1986, as amended (Public Law 99–570, 22 U.S.C. 2291 note), Section 407(c) of the Foreign Debt Reserving Act of 1989 (Public Law 101–240, 22 U.S.C. 2291 note), Section 14(c) of the Inter-American Development Bank Act, as amended (Public Law 86–147, 22 U.S.C. 283j–1(c)), and Section 1002 of the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992 (Public Law 102–511) (22 U.S.C. 286ll(b)) shall no longer apply to the contents of such annual reports."
 
 #### International Financial Institution Advisory Commission
 
 Pub. L. 105–277, div. A, §101(d) \[title VI, §603\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–220, provided that:
 
-“(a)
+"(a)
 
-In General.—The Secretary of the Treasury shall establish an International Financial Institution Advisory Commission (in this section referred to as the ‘Commission’).
+In General.—The Secretary of the Treasury shall establish an International Financial Institution Advisory Commission (in this section referred to as the 'Commission').
 
-“(b)
+"(b)
 
 Membership.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Commission shall be composed of 11 members, as follows:
 
-&emsp;&emsp;“(A) 3 members appointed by the Speaker of the House of Representatives.
+&emsp;&emsp;"(A) 3 members appointed by the Speaker of the House of Representatives.
 
-&emsp;&emsp;“(B) 3 members appointed by the Majority Leader of the Senate.
+&emsp;&emsp;"(B) 3 members appointed by the Majority Leader of the Senate.
 
-&emsp;&emsp;“(C) 5 members appointed jointly by the Minority Leader of the House of Representatives and the Minority Leader of the Senate.
+&emsp;&emsp;"(C) 5 members appointed jointly by the Minority Leader of the House of Representatives and the Minority Leader of the Senate.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Timing of appointments.—All appointments to the Commission shall be made not later than 45 days after the date of enactment of this Act \[Oct. 21, 1998\].
 
-&emsp;“(3)
+&emsp;"(3)
 
 Chairman.—The Majority Leader of the Senate, after consultation with the Speaker of the House of Representatives and the Minority Leaders of the House of Representatives and the Senate, shall designate 1 of the members of the Commission to serve as Chairman of the Commission.
 
-“(c)
+"(c)
 
 Qualifications.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Expertise.—Members of the Commission shall be appointed from among those with knowledge and expertise in the workings of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]), the World Trade Organization, and the Bank for International Settlements.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Former affiliation.—At least 4 members of the Commission shall be individuals who were officers or employees of the Executive Branch before January 20, 1992, and not more than half of such 4 members shall have served under Presidents from the same political party.
 
-“(d)
+"(d)
 
 Period of Appointment; Vacancies.—Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall be filled in the same manner as the original appointment was made.
 
-“(e)
+"(e)
 
 Duties of the Commission.—The Commission shall advise and report to the Congress on the future role and responsibilities of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]), the World Trade Organization, and the Bank for International Settlements. In carrying out such duties, the Commission shall meet with and advise the Secretary of the Treasury or the Deputy Secretary of the Treasury, and shall examine—
 
-&emsp;“(1) the effect of globalization, increased trade, capital flows, and other relevant factors on such institutions;
+&emsp;"(1) the effect of globalization, increased trade, capital flows, and other relevant factors on such institutions;
 
-&emsp;“(2) the adequacy, efficacy, and desirability of current policies and programs at such institutions as well as their suitability for respective beneficiaries of such institutions;
+&emsp;"(2) the adequacy, efficacy, and desirability of current policies and programs at such institutions as well as their suitability for respective beneficiaries of such institutions;
 
-&emsp;“(3) cooperation or duplication of functions and responsibilities of such institutions; and
+&emsp;"(3) cooperation or duplication of functions and responsibilities of such institutions; and
 
-&emsp;“(4) other matters the Commission deems necessary to make recommendations pursuant to subsection (g).
+&emsp;"(4) other matters the Commission deems necessary to make recommendations pursuant to subsection (g).
 
-“(f)
+"(f)
 
 Powers and Procedures of the Commission.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Hearings.—The Commission or, at its direction, any panel or member of the Commission may, for the purpose of carrying out the provisions of this section, hold hearings, sit and act at times and places, take testimony, receive evidence, and administer oaths to the extent that the Commission or any panel or member considers advisable.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Information.—The Commission may secure directly information that the Commission considers necessary to enable the Commission to carry out its responsibilities under this section.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Meetings.—The Commission shall meet at the call of the Chairman.
 
-“(g)
+"(g)
 
 Report.—On the termination of the Commission, the Commission shall submit to the Secretary of the Treasury and the appropriate committees a report that contains recommendations regarding the following matters:
 
-&emsp;“(1) Changes to policy goals set forth in the Bretton Woods Agreements Act \[22 U.S.C. 286 et seq.\] and the International Financial Institutions Act \[see Short Title of 1977 Amendment note set out under section 261 of this title\].
+&emsp;"(1) Changes to policy goals set forth in the Bretton Woods Agreements Act \[22 U.S.C. 286 et seq.\] and the International Financial Institutions Act \[see Short Title of 1977 Amendment note set out under section 261 of this title\].
 
-&emsp;“(2) Changes to the charters, organizational structures, policies and programs of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]).
+&emsp;"(2) Changes to the charters, organizational structures, policies and programs of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]).
 
-&emsp;“(3) Additional monitoring tools, global standards, or regulations for, among other things, global capital flows, bankruptcy standards, accounting standards, payment systems, and safety and soundness principles for financial institutions.
+&emsp;"(3) Additional monitoring tools, global standards, or regulations for, among other things, global capital flows, bankruptcy standards, accounting standards, payment systems, and safety and soundness principles for financial institutions.
 
-&emsp;“(4) Possible mergers or abolition of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]), including changes to the manner in which such institutions coordinate their policy and program implementation and their roles and responsibilities.
+&emsp;"(4) Possible mergers or abolition of the international financial institutions (as defined in section 1701(c)(2) of the International Financial Institutions Act \[22 U.S.C. 262r(c)(2)\]), including changes to the manner in which such institutions coordinate their policy and program implementation and their roles and responsibilities.
 
-&emsp;“(5) Any additional changes necessary to stabilize currencies, promote continued trade liberalization and to avoid future financial crises.
+&emsp;"(5) Any additional changes necessary to stabilize currencies, promote continued trade liberalization and to avoid future financial crises.
 
-“(h)
+"(h)
 
 Termination.—The Commission shall terminate 6 months after the first meeting of the Commission,which shall be not later than 30 days after the appointment of all members of the Commission.
 
-“(i)
+"(i)
 
 Reports by the Executive Branch.—
 
-&emsp;“(1) Within three months after receiving the report of the Commission under subsection (g), the President of the United States through the Secretary of the Treasury shall report to the appropriate committees on the desirability and feasibility of implementing the recommendations contained in the report.
+&emsp;"(1) Within three months after receiving the report of the Commission under subsection (g), the President of the United States through the Secretary of the Treasury shall report to the appropriate committees on the desirability and feasibility of implementing the recommendations contained in the report.
 
-&emsp;“(2) Annually, for three years after the termination of the Commission, the President of the United States through the Secretary of the Treasury shall submit to the appropriate committees a report on the steps taken, if any, through relevant international institutions and international fora to implement such recommendations as are deemed feasible and desirable under paragraph (1).”
+&emsp;"(2) Annually, for three years after the termination of the Commission, the President of the United States through the Secretary of the Treasury shall submit to the appropriate committees a report on the steps taken, if any, through relevant international institutions and international fora to implement such recommendations as are deemed feasible and desirable under paragraph (1)."
 
 #### Progress Reports to Congress on United States Initiatives To Update Architecture of International Monetary System
 
-Pub. L. 105–277, div. A, §101(d) \[title VI, §606\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–223, provided that: “Not later than July 15, 1999, and July 15, 2000, the Secretary of the Treasury shall report to the Chairmen and Ranking Members of the appropriate committees on the progress of efforts to reform the architecture of the international monetary system. The reports shall include a discussion of the substance of the United States position in consultations with other governments and the degree of progress in achieving international acceptance and implementation of such position with respect to the following issues:
+Pub. L. 105–277, div. A, §101(d) \[title VI, §606\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–223, provided that: "Not later than July 15, 1999, and July 15, 2000, the Secretary of the Treasury shall report to the Chairmen and Ranking Members of the appropriate committees on the progress of efforts to reform the architecture of the international monetary system. The reports shall include a discussion of the substance of the United States position in consultations with other governments and the degree of progress in achieving international acceptance and implementation of such position with respect to the following issues:
 
-&emsp;“(1) Adapting the mission and capabilities of the International Monetary Fund to take better account of the increased importance of cross-border capital flows in the world economy and improving the coordination of its responsibilities and activities with those of the International Bank for Reconstruction and Development.
+&emsp;"(1) Adapting the mission and capabilities of the International Monetary Fund to take better account of the increased importance of cross-border capital flows in the world economy and improving the coordination of its responsibilities and activities with those of the International Bank for Reconstruction and Development.
 
-&emsp;“(2) Advancing measures to prevent, and improve the management of, international financial crises, including by—
+&emsp;"(2) Advancing measures to prevent, and improve the management of, international financial crises, including by—
 
-&emsp;&emsp;“(A) integrating aspects of national bankruptcy principles into the management of international financial crises where feasible; and
+&emsp;&emsp;"(A) integrating aspects of national bankruptcy principles into the management of international financial crises where feasible; and
 
-&emsp;&emsp;“(B) changing investor expectations about official rescues, thereby reducing moral hazard and systemic risk in international financial markets,
+&emsp;&emsp;"(B) changing investor expectations about official rescues, thereby reducing moral hazard and systemic risk in international financial markets,
 
 > &emsp;in order to help minimize the adjustment costs that the resolution of financial crises may impose on the real economy, in the form of disrupted patterns of trade, employment, and progress in living standards, and reduce the frequency and magnitude of claims on United States taxpayer resources.
 
-&emsp;“(3) Improving international economic policy cooperation, including among the Group of Seven countries, to take better account of the importance of cross-border capital flows in the determination of exchange rate relationships.
+&emsp;"(3) Improving international economic policy cooperation, including among the Group of Seven countries, to take better account of the importance of cross-border capital flows in the determination of exchange rate relationships.
 
-&emsp;“(4) Improving international cooperation in the supervision and regulation of financial institutions and markets.
+&emsp;"(4) Improving international cooperation in the supervision and regulation of financial institutions and markets.
 
-&emsp;“(5) Strengthening the financial sector in emerging economies, including by improving the coordination of financial sector liberalization with the establishment of strong public and private institutions in the areas of prudential supervision, accounting and disclosure conventions, bankruptcy laws and administrative procedures, and the collection and dissemination of economic and financial statistics, including the maturity structure of foreign indebtedness.
+&emsp;"(5) Strengthening the financial sector in emerging economies, including by improving the coordination of financial sector liberalization with the establishment of strong public and private institutions in the areas of prudential supervision, accounting and disclosure conventions, bankruptcy laws and administrative procedures, and the collection and dissemination of economic and financial statistics, including the maturity structure of foreign indebtedness.
 
-&emsp;“(6) Advocating that implementation of European Economic and Monetary Union and the advent of the European Currency Unit, or euro, proceed in a manner that is consistent with strong global economic growth and stability in world financial markets.”
+&emsp;"(6) Advocating that implementation of European Economic and Monetary Union and the advent of the European Currency Unit, or euro, proceed in a manner that is consistent with strong global economic growth and stability in world financial markets."
 
 #### Definitions
 
-Pub. L. 105–277, div. A, §101(d) \[title VI, §607\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224, as amended by Pub. L. 106–200, title IV, §404(a), May 18, 2000, 114 Stat. 291, provided that: “For purposes of sections 601 through 606 of this title \[see Tables for classification\], the term ‘appropriate committees’ means the Committees on Appropriations, Foreign Relations, Finance, and Banking, Housing, and Urban Affairs of the Senate and the Committees on Appropriations, Ways and Means, and Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives.”
+Pub. L. 105–277, div. A, §101(d) \[title VI, §607\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–224, as amended by Pub. L. 106–200, title IV, §404(a), May 18, 2000, 114 Stat. 291, provided that: "For purposes of sections 601 through 606 of this title \[see Tables for classification\], the term 'appropriate committees' means the Committees on Appropriations, Foreign Relations, Finance, and Banking, Housing, and Urban Affairs of the Senate and the Committees on Appropriations, Ways and Means, and Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives."
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

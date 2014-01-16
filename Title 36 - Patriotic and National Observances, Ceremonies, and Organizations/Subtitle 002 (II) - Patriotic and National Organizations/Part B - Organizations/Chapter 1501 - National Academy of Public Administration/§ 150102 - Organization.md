@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—National Academy of Public Administration (in this chapter, the “corporation”), incorporated in the District of Columbia, is a federally chartered corporation.
+Federal Charter.—National Academy of Public Administration (in this chapter, the "corporation"), incorporated in the District of Columbia, is a federally chartered corporation.
 
 (b)
 

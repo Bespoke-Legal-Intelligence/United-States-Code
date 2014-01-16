@@ -2,7 +2,7 @@
 
 #### (a) Payments required under Panama Canal Treaty; annual audit
 
-The Commission shall pay to the Republic of Panama those payments required under paragraph 5 of Article III and paragraph 4 of Article XIII of the Panama Canal Treaty of 1977. Payments made under paragraph 5 of Article III of such Treaty shall be audited annually by the Comptroller General and any overpayment, as determined in accordance with Understanding (1) incorporated in the Resolution of Ratification of the Panama Canal Treaty (adopted by the United States Senate on April 18, 1978), for the services described in that paragraph which are provided shall be refunded by the Republic of Panama or set off against amounts payable by the United States to the Republic of Panama under paragraph 5 of Article III of the Panama Canal Treaty of 1977.
+The Commission shall pay to the Republic of Panama those payments required under paragraph 5 of Article III and paragraph 4 of Article XIII of the Panama Canal Treaty of 1977. Payments made under paragraph 5 of Article III of such Treaty shall be audited annually by theComptroller General and any overpayment, as determined in accordance with Understanding (1) incorporated in the Resolution of Ratification of the Panama Canal Treaty (adopted by the United States Senate on April 18, 1978), for the services described in that paragraph which are provided shall be refunded by the Republic of Panama or set off against amounts payable by the United States to the Republic of Panama under paragraph 5 of Article III of the Panama Canal Treaty of 1977.
 
 #### (b) Excess operating revenues
 
@@ -38,9 +38,9 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 <b>1998</b>—Subsec. (f). Pub. L. 105–261 made technical correction to Pub. L. 104–201. See 1996 Amendment note below.
 
-<b>1997</b>—Subsec. (f). Pub. L. 105–85, which directed substitution of “sections 3712(b)” for “sections 3712(c)”, could not be executed because the words “sections 3712(c)” did not appear subsequent to amendment by Pub. L. 104–201, as amended by Pub. L. 105–261. See 1996 and 1998 Amendments notes below and above.
+<b>1997</b>—Subsec. (f). Pub. L. 105–85, which directed substitution of "sections 3712(b)" for "sections 3712(c)", could not be executed because the words "sections 3712(c)" did not appear subsequent to amendment by Pub. L. 104–201, as amended by Pub. L. 105–261. See 1996 and 1998 Amendments notes below and above.
 
-<b>1996</b>—Subsec. (f). Pub. L. 104–201, as amended by Pub. L. 105–261, substituted “sections 3712(b)” for “sections 3712(c)”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–201, as amended by Pub. L. 105–261, substituted "sections 3712(b)" for "sections 3712(c)".
 
 <b>1987</b>—Subsec. (e)(7). Pub. L. 100–203 added cl. (7).
 
@@ -48,7 +48,7 @@ The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in su
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. C, title XXXV, §3512(b), Oct. 17, 1998, 112 Stat. 2271, provided that the amendment made by section 3512(b) is effective as of Sept. 23, 1996, and as if included in section 3548(b)(3) of the Panama Canal Act Amendments of 1996, Pub. L. 104–201, as enacted.
+Pub. L. 105–261, div. C, title XXXV, §3512(b), Oct. 17, 1998, 112 Stat. 2271, provided that the amendment made by section 3512(b) is effective as of Sept. 23, 1996, and asif included in section 3548(b)(3) of the Panama Canal Act Amendments of 1996, Pub. L. 104–201, as enacted.
 
 #### Effective Date of 1987 Amendment
 
@@ -56,5 +56,5 @@ Amendment by Pub. L. 100–203 effective Jan. 1, 1988, see section 5429 of Pub. 
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–368, §7, Aug. 1, 1986, 100 Stat. 777, provided that: “The amendment made by section 6 \[amending this section\] shall take effect with respect to fiscal year 1986 and subsequent fiscal years.”
+Pub. L. 99–368, §7, Aug. 1, 1986, 100 Stat. 777, provided that: "The amendment made by section 6 \[amending this section\] shall take effect with respect to fiscal year 1986 and subsequent fiscal years."
 

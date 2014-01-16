@@ -14,7 +14,7 @@ Shared Energy Savings Contracts.—(1) The Secretary of Defense shall develop a 
 
 &emsp;(D) select from such firms the most qualified firm to provide shared energy savings services pursuant to a contractual arrangement that the Secretary determines is fair and reasonable, taking into account the estimated value of the services to be rendered and the scope and nature of the project.
 
-(3) In carrying out paragraph (1), the Secretary may also provide for the direct negotiation, by departments, agencies, and instrumentalities of the Department of Defense, of contracts with shared energy savings contractors that have been selected competitively and approved by any gas or electric utility serving thedepartment, agency, or instrumentality concerned.
+(3) In carrying out paragraph (1), the Secretary may also provide for the direct negotiation, by departments, agencies, and instrumentalities of the Department of Defense, of contracts with shared energy savings contractors that have been selected competitively and approved by any gas or electric utility serving the department, agency, or instrumentality concerned.
 
 (b)
 
@@ -38,9 +38,9 @@ Agreements With Gas or Electric Utilities.—(1) The Secretary of Defense may au
 
 #### Amendments
 
-<b>2008</b>—Subsec. (e). Pub. L. 110–181, which directed the amendment of this section by striking out subsec. (e), could not be executed because subsec. (e) was previously repealed by Pub. L. 110–140, §511(c). See 2007 Amendment note below.
+<b>2008</b>—Subsec. (e). Pub. L. 110–181, which directed the amendment of this section by striking out subsec. (e),could not be executed because subsec. (e) was previously repealed by Pub. L. 110–140, §511(c). See 2007 Amendment note below.
 
-<b>2007</b>—Subsec. (e). Pub. L. 110–140 struck out heading and text of subsec. (e). Text read as follows: “When a decision is made to award an energy savings performance contract that contains a clause setting forth a cancellation ceiling in excess of $7,000,000, the Secretary of Defense shall submit to the appropriate committees of Congress written notification of the proposed contract and of the proposed cancellation ceiling for the contract. The notification shall include the justification for the proposed cancellation ceiling. The contract may then be awarded only after the end of the 30-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 15-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title.”
+<b>2007</b>—Subsec. (e). Pub. L. 110–140 struck out heading and text of subsec. (e). Text read as follows: "When a decision is made to award an energy savings performance contract that contains a clause setting forth a cancellation ceiling in excess of $7,000,000, the Secretary of Defense shall submit to the appropriate committees of Congress written notification of the proposed contract and of the proposed cancellation ceiling for the contract. The notification shall include the justification for the proposed cancellation ceiling. The contract may then be awarded only after the end of the 30-day period beginning on the date the notification is received by such committees or, if earlier, the end of the 15-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title."
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–364, §2853, added subsec. (e).
 

@@ -24,7 +24,7 @@ Amendment.—At least once every 7 years, the Secretary shall conduct an evaluat
 
 (C) If the Secretary prescribes a rule containing such a determination, the rule may establish an amended test procedure for such product that meets the requirements of paragraphs (2) and (3) of this subsection. In establishing any amended test procedure under this subparagraph or subparagraph (B), the Secretary shall follow the procedures and meet the requirements specified in section 6293(e) of this title.
 
-(5)(A) With respect to electric motors to which standards are applicable under section 6313 ofthis title, the test procedures shall be the test procedures specified in NEMA Standards Publication MG1–1987 and IEEE Standard 112 Test Method B for motor efficiency, as in effect on October 24, 1992.
+(5)(A) With respect to electric motors to which standards are applicable under section 6313 of this title, the test procedures shall be the test procedures specified in NEMA Standards Publication MG1–1987 and IEEE Standard 112 Test Method B for motor efficiency, as in effect on October 24, 1992.
 
 (B) If the test procedure requirements of NEMA Standards Publication MG–1987 and IEEE Standard 112 Test Method B for motor efficiency are amended, the Secretary shall amend the test procedures established by subparagraph (A) to conform to such amended test procedure requirements unless the Secretary determines, by rule, published in the Federal Register and supported by clear and convincing evidence, that to do so would not meet the requirements for test procedures described in paragraphs (2) and (3) of this subsection.
 
@@ -104,13 +104,13 @@ Before prescribing any final test procedures under this section, the Secretary s
 
 &emsp;(1) publish proposed test procedures in the Federal Register; and
 
-&emsp;(2) afford interested persons an opportunity (of not less than 45 days’ duration) to present oral and written data, views, and arguments on the proposed test procedures.
+&emsp;(2) afford interested persons an opportunity (of not less than 45 days' duration) to present oral and written data, views, and arguments on the proposed test procedures.
 
 #### (c) Reevaluations
 
 (1) The Secretary shall, not later than 3 years after the date of prescribing a test procedure under this section (and from time to time thereafter), conduct a reevaluation of such procedure and, on the basis of such reevaluation, shall determine if such test procedure should be amended. In conducting such reevaluation, the Secretary shall take into account such information as he deems relevant, including technological developments relating to the energy efficiency of the type (or class) of covered equipment involved.
 
-(2) If the Secretary determines under paragraph (1) that a test procedure should be amended, he shall promptly publish in the Federal Register proposed test procedures incorporating such amendments and afford interested persons an opportunity to present oral and written data, views, and arguments. Such comment period shall not be less than 45 days’ duration.
+(2) If the Secretary determines under paragraph (1) that a test procedure should be amended, he shall promptly publish in the Federal Register proposed test procedures incorporating such amendments and afford interested persons an opportunity to present oral and written data, views, and arguments. Such comment period shall not be less than 45 days' duration.
 
 #### (d) Prohibited representations
 
@@ -122,7 +122,7 @@ Before prescribing any final test procedures under this section, the Secretary s
 
 > respecting the energy consumption of such equipment or cost of energy consumed by such equipment, unless such equipment has been tested in accordance with such test procedure and such representation fairly discloses the results of such testing.
 
-(2) On the petition of any manufacturer, distributor, retailer, or private labeler, filed not later than the 60th day before the expiration of the period involved, the 180-day period referred to in paragraph (1) may be extended by the Secretary with respect to the petitioner (but in no event for more than an additional 180 days) if he finds that the requirements of paragraph (1) would impose on such petitioner an undue hardship (as determined by the Secretary).
+(2) On the petition of any manufacturer, distributor, retailer, or private labeler, filed not later than the 60th day before the expiration of the period involved, the 180-day period referredto in paragraph (1) may be extended by the Secretary with respect to the petitioner (but in no event for more than an additional 180 days) if he finds that the requirements of paragraph (1) would impose on such petitioner an undue hardship (as determined by the Secretary).
 
 #### (e) Assistance by National Institute of Standards and Technology
 
@@ -138,27 +138,27 @@ Section 6313(c)(4) of this title, referred to in subsec. (a)(6)(C), was redesign
 
 <b>2012</b>—Subsec. (a). Pub. L. 112–210, §10(a)(2), made technical amendment to directory language of Pub. L. 110–140, §302(b). See 2007 Amendment note below.
 
-Subsec. (a)(4)(A), (7). Pub. L. 112–210, §10(c)(2), substituted “Air-Conditioning, Heating, and Refrigeration Institute” for “Air-Conditioning and Refrigeration Institute” wherever appearing.
+Subsec. (a)(4)(A), (7). Pub. L. 112–210, §10(c)(2), substituted "Air-Conditioning, Heating, and Refrigeration Institute" for "Air-Conditioning and Refrigeration Institute" wherever appearing.
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–140, §302(b), as amended by Pub. L. 112–210, §10(a)(2), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: “The Secretary may conduct an evaluation of a class of covered equipment and may prescribe test procedures for such class in accordance with the provisions of this section.”
+<b>2007</b>—Subsec. (a). Pub. L. 110–140, §302(b), as amended by Pub. L. 112–210, §10(a)(2), inserted subsec. heading, added par. (1), and struck out former par. (1) which read as follows: "The Secretary may conduct an evaluation of a class of covered equipment and may prescribe test procedures for such class in accordance with the provisions of this section."
 
 Subsec. (a)(9). Pub. L. 110–140, §312(c), added par. (9).
 
-<b>2005</b>—Subsec. (a)(4)(A), (B). Pub. L. 109–58, §136(f)(1)(A), inserted “very large commercial package air conditioning and heating equipment,” after “large commercial package air conditioning and heating equipment,”.
+<b>2005</b>—Subsec. (a)(4)(A), (B). Pub. L. 109–58, §136(f)(1)(A), inserted "very large commercial package air conditioning and heating equipment," after "large commercial package air conditioning and heating equipment,".
 
 Subsec. (a)(6) to (8). Pub. L. 109–58, §136(f)(1)(B), added pars. (6) to (8).
 
-Subsec. (d)(1). Pub. L. 109–58, §136(f)(2), inserted “very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers,” after “large commercial package air conditioning and heating equipment,” in introductory provisions.
+Subsec. (d)(1). Pub. L. 109–58, §136(f)(2), inserted "very large commercial package air conditioning and heating equipment, commercial refrigerators, freezers, and refrigerator-freezers, automatic commercial ice makers, commercial clothes washers," after "large commercial package air conditioning and heating equipment," in introductory provisions.
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, §122(b)(1)(A), added par. (1) and struck out former par. (1) which read as follows: “If the Secretary has conducted an evaluation of a class of covered equipment under section 6313 of this title, he may prescribe test procedures for such class in accordance with the following provisions of this section.”
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, §122(b)(1)(A), added par. (1) and struck out former par. (1) which read as follows: "If the Secretary has conducted an evaluation of a class of covered equipment under section 6313 of this title, he may prescribe test procedures for such class in accordance with the following provisions of this section."
 
 Subsec. (a)(4), (5). Pub. L. 102–486, §122(b)(1)(B), added pars. (4) and (5).
 
 Subsecs. (c), (d). Pub. L. 102–486, §122(f)(2), redesignated subsec. (d), relating to reevaluations, as (c).
 
-Subsec. (d)(1). Pub. L. 102–486, §122(b)(2), inserted “(or, in the case of small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks, 360 days)” after “180 days”.
+Subsec. (d)(1). Pub. L. 102–486, §122(b)(2), inserted "(or, in the case of small commercial package air conditioning and heating equipment, large commercial package air conditioning and heating equipment, packaged terminal air conditioners, packaged terminal heat pumps, warm-air furnaces, packaged boilers, storage water heaters, instantaneous water heaters, and unfired hot water storage tanks, 360 days)" after "180 days".
 
-<b>1988</b>—Subsec. (e). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+<b>1988</b>—Subsec. (e). Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "National Bureau of Standards".
 
 #### Effective Date of 2012 Amendment
 

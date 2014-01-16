@@ -30,7 +30,7 @@ Except as otherwise provided by law, nothing in this section shall be construed 
 
 <b>1995</b>—Subsec. (b). Pub. L. 104–66 struck out subsec. (b) which related to reports to Congress.
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–418, §5171(b)(1), (2), substituted “the Speaker of the House of Representatives and the Committees on Foreign Relations and Governmental Affairs of the Senate a report containing information and recommendations” for “Congress a report containing recommendations”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–418, §5171(b)(1), (2), substituted "the Speaker of the House of Representatives and the Committees on Foreign Relations and Governmental Affairs of the Senate a report containing information and recommendations" for "Congress a report containing recommendations".
 
 Subsec. (b)(3). Pub. L. 100–418, §5171(b)(3)–(5), added par. (3).
 

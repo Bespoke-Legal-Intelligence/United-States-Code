@@ -46,7 +46,7 @@ Any grant under section 5306 of this title shall be made only if the grantee cer
 
 &emsp;(4) it has developed a community development plan pursuant to subsection (m) of this section, for the period specified by the grantee under paragraph (3), that identifies community development needs and specifies both short- and long-term community development objectives that have been developed in accordance with the primary objective and requirements of this chapter;
 
-&emsp;(5) the grantee will not attempt to recover any capital costs of public improvements assisted in whole or part under section 5306 of this title or with amounts resulting from a guarantee under section 5308 of this title by assessing any amount against properties owned and occupied by persons of low and moderate income, including any fee charged orassessment made as a condition of obtaining access to such public improvements, unless (A) funds received under section 5306 of this title are used to pay the proportion of such fee or assessment that relates to the capital costs of such public improvements that are financed from revenue sources other than under this chapter; or (B) for purposes of assessing any amount against properties owned and occupied by persons of moderate income, the grantee certifies to the Secretary that it lacks sufficient funds received under section 5306 of this title to comply with the requirements of subparagraph (A); and
+&emsp;(5) the grantee will not attempt to recover any capital costs of public improvements assisted in whole or part under section 5306 of this title or with amounts resulting from a guarantee under section 5308 of this title by assessing any amount against properties owned and occupied by persons of low and moderate income, including any fee charged or assessment made as a condition of obtaining access to such public improvements, unless (A) funds received under section 5306 of this title are used to pay the proportion of such fee or assessment that relates to the capital costs of such public improvements that are financed from revenue sources other than under this chapter; or (B) for purposes of assessing any amount against properties owned and occupied by persons of moderate income, the grantee certifies to the Secretary that it lacks sufficient funds received under section 5306 of this title to comply with the requirements of subparagraph (A); and
 
 &emsp;(6) the grantee will comply with the other provisions of this chapter and with other applicable laws.
 
@@ -70,7 +70,7 @@ A grant may be made under section 5306(b) of this title only if the unit of gene
 
 &emsp;&emsp;(ii) such comparable replacement dwellings shall be designed to remain affordable to persons of low and moderate income for 10 years from the time of initial occupancy;
 
-&emsp;&emsp;(iii) relocation benefits shall be provided for all low or moderate income persons who occupied housing demolished or converted to a use other than for low or moderate income housing, including reimbursement for actual and reasonable moving expenses, security deposits, credit checks, and other moving-related expenses, including any interim living costs; and in the case of displaced persons of low and moderate income, provide either—
+&emsp;&emsp;(iii) relocation benefits shall be provided for all low or moderate income persons whooccupied housing demolished or converted to a use other than for low or moderate income housing, including reimbursement for actual and reasonable moving expenses, security deposits, credit checks, and other moving-related expenses, including any interim living costs; and in the case of displaced persons of low and moderate income, provide either—
 
 &emsp;&emsp;&emsp;(I) compensation sufficient to ensure that, for a 5-year period, the displaced families shall not bear, after relocation, a ratio of shelter costs to income that exceeds 30 percent; or
 
@@ -100,7 +100,7 @@ Each grantee shall submit to the Secretary, at a time determined by the Secretar
 
 &emsp;(2) in the case of grants to States made under section 5306(d) of this title, whether the State has distributed funds to units of general local government in a timely manner and in conformance to the method of distribution described in its statement, whether the State has carried out its certifications in compliance with the requirements of this chapter and other applicable laws, and whether the State has made such reviews and audits of the units of general local government as may be necessary or appropriate to determine whether they have satisfied the applicable performance criteria described in paragraph (1) of this subsection.
 
-> The Secretary may make appropriate adjustments in the amount of the annual grants in accordance with the Secretary's findings under this subsection. With respect to assistance made available to units of general local government under section 5306(d) of this title, the Secretary may adjust, reduce, or withdraw such assistance, or take other action as appropriate in accordance with the Secretary's reviews and audits under this subsection, except that funds already expended on eligible activities under this chapter shall not be recaptured or deducted from future assistance to such units of general local government.
+> The Secretary may make appropriate adjustments in the amount of the annual grants in accordance with the Secretary's findings under this subsection. With respect to assistance made available to units of general local government under section 5306(d) of this title, the Secretary may adjust, reduce, or withdraw such assistance, or take other action as appropriate in accordance with the Secretary's reviews and audits under this subsection, except that funds already expended on eligible activities under thischapter shall not be recaptured or deducted from future assistance to such units of general local government.
 
 #### (f) Audit of grantees by Government Accountability Office; access to books, accounts, records, etc., by representatives of Government Accountability Office
 
@@ -132,7 +132,7 @@ Insofar as they relate to funds provided under this chapter, the financial trans
 
 &emsp;(A) leverage of community development block grant funds so that participating financial institutions commit private funds for loans in the rehabilitation program in amounts substantially in excess of deposit of community development funds;
 
-&emsp;(B) commitment of private funds for rehabilitation loans at below-market interest rates or with repayment periods lengthened or at higher risk than would normally be taken;
+&emsp;(B) commitment of private funds for rehabilitation loans at below-market interest ratesor with repayment periods lengthened or at higher risk than would normally be taken;
 
 &emsp;(C) provision of administrative services in support of the rehabilitation program by the participating lending institutions; and
 
@@ -188,7 +188,7 @@ No funds authorized to be appropriated under section 5303 of this title may be o
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in text, was in the original "this title", meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, which is classified principally to subchapters II to IX (§2000a et seq.) of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of this title and Tables.
 
@@ -200,27 +200,27 @@ The National Environmental Policy Act of 1969, referred to in subsec. (g)(1), (2
 
 #### Amendments
 
-<b>2004</b>—Subsec. (f). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2004</b>—Subsec. (f). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in two places.
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–186, §501(c)(1), in first sentence, struck out “or” after “State,” and inserted “or under section 5306(a)(3) of this title by any insular area,” after “government,”, and, in second sentence, substituted a comma for “and in the case of” before “units” and inserted “and insular areas receiving grants pursuant to section 5306(a)(3) of this title,” after “section 5306(d)(2)(B) of this title,”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–186, §501(c)(1), in first sentence, struck out "or" after "State," and inserted "or under section 5306(a)(3) of this title by any insular area," after "government,", and, in second sentence, substituted a comma for "and in the case of" before "units" and inserted "and insular areas receiving grants pursuant to section 5306(a)(3) of this title," after "section 5306(d)(2)(B) of this title,".
 
-Subsec. (e)(1). Pub. L. 108–186, §501(c)(2), substituted “subsection (a)(3), (b), or (d)(2)(B) of section 5306 of this title” for “section 5306(b) or section 5306(d)(2)(B) of this title”.
+Subsec. (e)(1). Pub. L. 108–186, §501(c)(2), substituted "subsection (a)(3), (b), or (d)(2)(B) of section 5306 of this title" for "section 5306(b) or section 5306(d)(2)(B) of this title".
 
-Subsec. (m)(1). Pub. L. 108–186, §501(c)(3)(A), inserted “(a)(2),” after “under subsection”.
+Subsec. (m)(1). Pub. L. 108–186, §501(c)(3)(A), inserted "(a)(2)," after "under subsection".
 
-Subsec. (m)(2). Pub. L. 108–186, §501(c)(3)(B), substituted “government other than an insular area” for “government” in introductory provisions.
+Subsec. (m)(2). Pub. L. 108–186, §501(c)(3)(B), substituted "government other than an insular area" for "government" in introductory provisions.
 
-<b>1994</b>—Subsec. (b)(3)(A). Pub. L. 103–233 inserted “or a grant” after “guarantee”.
+<b>1994</b>—Subsec. (b)(3)(A). Pub. L. 103–233 inserted "or a grant" after "guarantee".
 
-<b>1992</b>—Subsec. (b)(2). Pub. L. 102–550, §808, substituted “the Civil Rights Act of 1964 and the Fair Housing Act” for “Public Law 88–352 and Public Law 90–284”.
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–550, §808, substituted "the Civil Rights Act of 1964 and the Fair Housing Act" for "Public Law 88–352 and Public Law 90–284".
 
-Subsec. (b)(4). Pub. L. 102–550, §812(b), inserted “pursuant to subsection (m) of this section” after “plan” and struck out “and housing” before “needs and”.
+Subsec. (b)(4). Pub. L. 102–550, §812(b), inserted "pursuant to subsection (m) of this section" after "plan" and struck out "and housing" before "needs and".
 
-Subsec. (j). Pub. L. 102–550, §804, in first sentence, struck out “while the unit of general local government is participating in a community development program under this chapter” after “has agreed that” and inserted before period at end “; except that the Secretary may, by regulation, exclude from consideration as program income any amounts determined to be so small that compliance with this subsection creates an unreasonable administrative burden on the unit of general local government”.
+Subsec. (j). Pub. L. 102–550, §804, in first sentence, struck out "while the unit of general local government is participating in a community development program under this chapter" after "has agreed that" and inserted before period at end "; except that the Secretary may, by regulation, exclude from consideration as program income any amounts determined to be so small that compliance with this subsection creates an unreasonable administrative burden on the unit of general local government".
 
-Subsecs. (l), (m). Pub. L. 102–550, §812(a), redesignated subsec. (l), relating to community development plans, as (m) and amended it generally, substituting present provisions for provisions requiring recipients to have submitted a description of its nonhousing community development needs and strategies for meeting those needs, providing for special requirements for such plans where the recipient was a State or a unit of generallocal government, and providing that a submission of a plan would not be binding with respect to the use or distribution of amounts received under section 5306 of this title.
+Subsecs. (l), (m). Pub. L. 102–550, §812(a), redesignated subsec. (l), relating to community development plans, as (m) and amended it generally, substituting present provisions for provisions requiring recipients to have submitted a description of its nonhousing community development needs and strategies for meeting those needs, providing for special requirements for such plans where the recipient was a State or a unit of general local government, and providing that a submission of a plan would not be binding with respect to the use or distribution of amounts received under section 5306 of this title.
 
-<b>1990</b>—Subsec. (b)(3). Pub. L. 101–625, §902(b), substituted “70 percent” for “60 percent”.
+<b>1990</b>—Subsec. (b)(3). Pub. L. 101–625, §902(b), substituted "70 percent" for "60 percent".
 
 Subsec. (c). Pub. L. 101–625, §905, amended subsec. (c) generally, substituting present provisions for provisions authorizing grants under section 5306(b) of this title only if the unit of local government certified that it followed a current housing assistance plan approved by the Secretary which (1) accurately surveyed the condition of the housing stock in the community, (2) specified a realistic annual goal for the number of dwelling units or persons of low and moderate income to be assisted, (3) indicated the general locations of proposed low and moderate income housing, and (4) specified activities that would be undertaken annually to minimize displacement and preserve or expand the availability of low and moderate income housing, and which required the establishment of dates and manner for the submission of housing assistance plans.
 
@@ -228,41 +228,41 @@ Subsec. (l). Pub. L. 101–625, §922, added subsec. (l) relating to community d
 
 Pub. L. 101–625, §906, added subsec. (l) relating to protection of individuals engaging in nonviolent civil rights demonstrations.
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–242, §505, struck out at end “In all cases, beginning in fiscal year 1984, the statement required in this subsection shall include a description of the use of funds made available under section 5306 of this title in fiscal year 1982 and thereafter (or, beginning in fiscal year 1985, such use since preparation of the last statement prepared pursuant to this subsection) together with an assessment of the relationship of such use to the community development objectives identified in the statement prepared pursuant to this subsection for such previous fiscal years and to the requirements of subsection (b)(3) of this section.”
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–242, §505, struck out at end "In all cases, beginning in fiscal year 1984, the statement required in this subsection shall include a description of the use of funds made available under section 5306 of this title in fiscal year 1982 and thereafter (or, beginning in fiscal year 1985, such use since preparation of the last statement prepared pursuant to this subsection) together with an assessment of the relationship of such use to the community development objectives identified in the statement prepared pursuant to this subsection for such previous fiscal years and to the requirements of subsection (b)(3) of this section."
 
 Subsec. (a)(3). Pub. L. 100–242, §508, added par. (3).
 
-Subsec. (b)(3). Pub. L. 100–242, §506, designated provision after “except that” as cl. (A) and added cl. (B).
+Subsec. (b)(3). Pub. L. 100–242, §506, designated provision after "except that" as cl. (A) and added cl. (B).
 
-Pub. L. 100–242, §502(c), substituted “60” for “51”.
+Pub. L. 100–242, §502(c), substituted "60" for "51".
 
-Subsec. (c)(1)(A), (B). Pub. L. 100–242, §507(b)(1), substituted “persons of low and moderate income” for “lower income persons” wherever appearing.
+Subsec. (c)(1)(A), (B). Pub. L. 100–242, §507(b)(1), substituted "persons of low and moderate income" for "lower income persons" wherever appearing.
 
-Subsec. (c)(1)(C). Pub. L. 100–242, §507(b), substituted “persons of low and moderate income” for “lower income persons” and “low-income persons”.
+Subsec. (c)(1)(C). Pub. L. 100–242, §507(b), substituted "persons of low and moderate income" for "lower income persons" and "low-income persons".
 
 Subsec. (c)(1)(D). Pub. L. 100–242, §507(a), added subpar. (D).
 
 Subsec. (d). Pub. L. 100–242, §509(a)(2), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(1). Pub. L. 100–628, §1083(a), amended third sentence generally. Prior to amendment, third sentence read as follows: “A grantee receiving a grant under section 5306(d) of this title shall so certify to the State”.
+Subsec. (d)(1). Pub. L. 100–628, §1083(a), amended third sentence generally. Prior to amendment, third sentence read as follows: "A grantee receiving a grant under section 5306(d) of this title shall so certify to the State".
 
-Subsec. (d)(2)(A)(iii)(II). Pub. L. 100–628, §1083(b), inserted “and” after “mutual housing association;”.
+Subsec. (d)(2)(A)(iii)(II). Pub. L. 100–628, §1083(b), inserted "and" after "mutual housing association;".
 
 Subsecs. (e) to (k). Pub. L. 100–242, §509(a)(1), redesignated subsecs. (d) to (j) as (e) to (k), respectively.
 
-<b>1984</b>—Subsec. (a)(2)(E). Pub. L. 98–479, §101(a)(5), inserted “or in the method of distribution of such funds”.
+<b>1984</b>—Subsec. (a)(2)(E). Pub. L. 98–479, §101(a)(5), inserted "or in the method of distribution of such funds".
 
-Subsec. (b)(5)(B). Pub. L. 98–479, §101(a)(6), substituted “moderate” for “low and moderate income who are not persons of very low” before “income, the grantee certifies”.
+Subsec. (b)(5)(B). Pub. L. 98–479, §101(a)(6), substituted "moderate" for "low and moderate income who are not persons of very low" before "income, the grantee certifies".
 
-Subsec. (d). Pub. L. 98–479, §101(a)(7), struck out the comma between “which” and “its funds” in third sentence, and inserted “general” before “local” after “and units of” in fifth sentence, and before “local” in sixth sentence.
+Subsec. (d). Pub. L. 98–479, §101(a)(7), struck out the comma between "which" and "its funds" in third sentence, and inserted "general" before "local" after "and units of" in fifth sentence, and before "local" in sixth sentence.
 
 <b>1983</b>—Subsec. (a)(1). Pub. L. 98–181, §104(a), inserted sentence at end that the statement must include a description of the use of funds made available under section 5306 of this title in fiscal year 1982 and thereafter (or, beginning with fiscal year 1985, such use since preparation of the last statement under this subsection) together with an assessment of the relationship of such use to the community development objectives identified in the statement prepared pursuant to this subsection for previous fiscal years and to the requirements of subsec. (b)(3) of this section.
 
-Subsec. (a)(2). Pub. L. 98–181, §104(b)(1), in provisions preceding subpar. (A) substituted “shall in a timely manner” for “shall”.
+Subsec. (a)(2). Pub. L. 98–181, §104(b)(1), in provisions preceding subpar. (A) substituted "shall in a timely manner" for "shall".
 
-Pub. L. 98–181, §104(b)(6), inserted at end “Any final statement of activities may be modified or amended from time to time by the grantee in accordance with the same procedures required in this paragraph for the preparation and submission of such statement.”
+Pub. L. 98–181, §104(b)(6), inserted at end "Any final statement of activities may be modified or amended from time to time by the grantee in accordance with the same procedures required in this paragraph for the preparation and submission of such statement."
 
-Subsec. (a)(2)(A). Pub. L. 98–181, §104(b)(2), substituted “citizens or, as appropriate, units of general local government” for “citizens”, and inserted “, including the estimated amount proposed to be used for activities that will benefit persons of low and moderate income and the plans of the grantee for minimizing displacement of persons as a result of activities assisted with such funds and to assist persons actually displaced as a result of such activities”.
+Subsec. (a)(2)(A). Pub. L. 98–181, §104(b)(2), substituted "citizens or, as appropriate, units of general local government" for "citizens", and inserted ", including the estimated amount proposed to be used for activities that will benefit persons of low and moderate income and the plans of the grantee for minimizing displacement of persons as a result of activities assisted with such funds and to assist persons actually displaced as a result of such activities".
 
 Subsec. (a)(2)(D), (E). Pub. L. 98–181, §104(b)(3)–(5), added subpars. (D) and (E).
 
@@ -272,11 +272,11 @@ Subsec. (b)(3). Pub. L. 98–181, §101(b), inserted provision that the aggregat
 
 Subsec. (b)(4) to (6). Pub. L. 98–181, §104(c)(2)–(4), added pars. (4) and (5) and redesignated former par. (4) as (6).
 
-Subsec. (c)(1)(A). Pub. L. 98–181, §104(d), inserted “(including the number of vacant and abandoned dwelling units)”.
+Subsec. (c)(1)(A). Pub. L. 98–181, §104(d), inserted "(including the number of vacant and abandoned dwelling units)".
 
-Subsec. (d). Pub. L. 98–181, §104(e), in provisions preceding par. (1), substituted “performance and evaluation report” for “performance report”; substituted “subsection (a) of this section and to the requirements of subsection (b)(3) of this section” for “subsection (a) of this section”; and inserted provision requiring that the report be made available for citizen comment prior to submission, that the report summarize such comments and indicate programmatic accomplishments, changes in programs and objectives, and an evaluation of the extent to which funds were used to benefit low- and moderate-income persons, and requiring the Secretary to establish uniform recordkeeping, performance and evaluation reporting, and requirements for grantees, States, and local governments, based on the Secretary's approval of recommendations made by such grantees and State and local governments.
+Subsec. (d). Pub. L. 98–181, §104(e), in provisions preceding par. (1), substituted "performance and evaluation report" for "performance report"; substituted "subsection (a) of this section and to the requirements of subsection (b)(3) of this section" for "subsection (a) of this section"; and inserted provision requiring that the report be made available for citizen comment prior to submission, that the report summarize such comments and indicate programmatic accomplishments, changes in programs and objectives, and an evaluation of the extent to which funds were used to benefit low- and moderate-income persons, and requiring the Secretary to establish uniform recordkeeping, performance and evaluation reporting, and requirements for grantees, States, and local governments, based on the Secretary's approval of recommendations made by such grantees and State and local governments.
 
-Subsec. (g)(1). Pub. L. 98–181, §104(f), inserted “and substantial disbursements from such fund must begin within 180 days after receipt of such payment”.
+Subsec. (g)(1). Pub. L. 98–181, §104(f), inserted "and substantial disbursements from such fund must begin within 180 days after receipt of such payment".
 
 Subsecs. (i), (j). Pub. L. 98–181, §104(g), added subsecs. (i) and (j).
 
@@ -286,11 +286,11 @@ Subsec. (b). Pub. L. 97–35, §302(b), substituted provisions relating to certi
 
 Subsec. (c). Pub. L. 97–35, §302(b), substituted provisions relating to certifications by the unit of general local government respecting enumerated grants for provisions relating to approval of applications.
 
-Subsec. (d). Pub. L. 97–35, §302(c)(1), substituted provisions relating to performance and assessment reportsby grantee to the Secretary concerning use of funds under section 5306 of this title, and reviews, audits and adjustments by the Secretary, for provisions relating to performance and assessment reports by grantee to the Secretary concerning activities carried out under this chapter, and reviews, audits, and adjustments by Secretary.
+Subsec. (d). Pub. L. 97–35, §302(c)(1), substituted provisions relating to performance and assessment reports by grantee to the Secretary concerning use of funds under section 5306 of this title, and reviews, audits and adjustments by the Secretary, for provisions relating to performance and assessment reports by grantee to the Secretary concerning activities carried out under this chapter, and reviews, audits, and adjustments by Secretary.
 
 Subsec. (e). Pub. L. 97–35, §302(d), redesignated subsec. (g) as (e). Former subsec. (e), which related to review and comment on application by areawide agency under procedures established by President, was struck out.
 
-Subsec. (f). Pub. L. 97–35, §302(d), (e), redesignated subsec. (h) as (f), in par. (1) substituted “recipients of assistance under this chapter” for “applicants”, in par. (2) “recipient of assistance under this chapter” for “applicant” and “the releases of funds” for “the applications and releases of funds” and in par. (3)(B) to (D) “recipient of assistance under this chapter” for “applicant”, and added par. (4). Former subsec. (f), which related to approval date of application and adjustment of grant subsequent to approval of application, was struck out.
+Subsec. (f). Pub. L. 97–35, §302(d), (e), redesignated subsec. (h) as (f), in par. (1) substituted "recipients of assistance under this chapter" for "applicants", in par. (2) "recipient of assistance under this chapter" for "applicant" and "the releases of funds" for "the applications and releases of funds" and in par. (3)(B) to (D) "recipient of assistance under this chapter" for "applicant", and added par. (4). Former subsec. (f), which related to approval date of application and adjustment of grant subsequent to approval of application, was struck out.
 
 Subsec. (g). Pub. L. 97–35, §302(d), (f), redesignated subsec. (i) as (g), in par. (1) substituted provision relating to units of general local government as recipients for provision relating to recipients of funds and in par. (2) struck out provision relating to review and approval of agreements. Former subsec. (g) redesignated (e).
 
@@ -300,13 +300,13 @@ Subsecs. (i), (j). Pub. L. 97–35, §302(d), redesignated subsecs. (i) and (j) 
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–399, §104(b), inserted provision following par. (6) relating to discretionary inclusion in program summary comparable information with respect to applicant's energy conservation and renewable energy resource needs and objectives.
 
-Subsec. (a)(2). Pub. L. 96–399, §105(a), in cl. (B) substituted “activities, and objectives, including activities” for “including activities”, struck out “and objectives” after “moderate-income persons”, and in cl. (C) inserted provisions respecting activities on the involuntary displacement of low- and moderate-income persons.
+Subsec. (a)(2). Pub. L. 96–399, §105(a), in cl. (B) substituted "activities, and objectives, including activities" for "including activities", struck out "and objectives" after "moderate-income persons", and in cl. (C) inserted provisions respecting activities on the involuntary displacement of low- and moderate-income persons.
 
-Subsec. (c). Pub. L. 96–399, §111(c)(1), substituted “5306(b)” for “5306(a)”.
+Subsec. (c). Pub. L. 96–399, §111(c)(1), substituted "5306(b)" for "5306(a)".
 
-Subsec. (d). Pub. L. 96–399, §§109, 111(c)(2), substituted “Each” for “Prior to the beginning of fiscal year 1977 and each fiscal year thereafter, each”, inserted provision relating to the annual submission of the performance report, prior to the beginning of each fiscal year, and less frequently for a grantee receiving a grant not funding a comprehensive development program, inserted provisions respecting determinations by the Secretary in the case of a grant for which a report is submitted less frequently than annually in accordance with the second sentence of this paragraph, and substituted “5306(c)” for “5306(d)(2)” and “5306(e)” for “5306(f)(1)(B)”.
+Subsec. (d). Pub. L. 96–399, §§109, 111(c)(2), substituted "Each" for "Prior to the beginning of fiscal year 1977 and each fiscal year thereafter, each", inserted provision relating to the annual submission of the performance report, prior to the beginning of each fiscal year, and less frequently for a grantee receiving a grant not funding a comprehensive development program, inserted provisions respecting determinations by the Secretary in the case of a grant for which a report is submitted less frequently than annually in accordance with the second sentence of this paragraph, and substituted "5306(c)" for "5306(d)(2)" and "5306(e)" for "5306(f)(1)(B)".
 
-Subsec. (e). Pub. L. 96–399, §111(c)(2), substituted “5306(c)” for “5306(d)(2)” and “5306(e)” for “5306(f)(1)(B)”.
+Subsec. (e). Pub. L. 96–399, §111(c)(2), substituted "5306(c)" for "5306(d)(2)" and "5306(e)" for "5306(f)(1)(B)".
 
 Subsec. (j). Pub. L. 96–399, §101(d), added subsec. (j).
 
@@ -314,37 +314,37 @@ Subsec. (j). Pub. L. 96–399, §101(d), added subsec. (j).
 
 Subsec. (b)(3). Pub. L. 96–153, §103(c), struck out cl. (A) and redesignated cls. (B) and (C) as (A) and (B), respectively.
 
-Subsec. (h)(1). Pub. L. 96–153, §103(g)(1), substituted “Act of 1969 and other provisions of law which further the purposes of such Act (as specified in regulations issued by the Secretary) are most” for “Act of 1969 are most”, and “such Act, and such other provisions of law as the regulations of the Secretary specify that would apply” for “such Act that would apply”.
+Subsec. (h)(1). Pub. L. 96–153, §103(g)(1), substituted "Act of 1969 and other provisions of law which further the purposes of such Act (as specified in regulations issued by the Secretary) are most" for "Act of 1969 are most", and "such Act, and such other provisions of lawas the regulations of the Secretary specify that would apply" for "such Act that would apply".
 
-Subsec. (h)(2). Pub. L. 96–153, §103(g)(2), substituted “National Environmental Policy Act of 1969 and such other provisions of law as the regulations of the Secretary specify” for “National Environmental Policy Act”.
+Subsec. (h)(2). Pub. L. 96–153, §103(g)(2), substituted "National Environmental Policy Act of 1969 and such other provisions of law as the regulations of the Secretary specify" for "National Environmental Policy Act".
 
-Subsec. (h)(3)(D). Pub. L. 96–153, §103(g)(3), substituted “Act of 1969 and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or other provision of law” for “Act of 1969 insofar as the provisions of such Act” in cl. (i).
+Subsec. (h)(3)(D). Pub. L. 96–153, §103(g)(3), substituted "Act of 1969 and each provision of law specified in regulations issued by the Secretary insofar as the provisions of such Act or other provision of law" for "Act of 1969 insofar as the provisions of such Act" in cl. (i).
 
-<b>1978</b>—Subsec. (a)(3)(C). Pub. L. 95–557, §103(c), inserted “as a result of existing or projected employment opportunities in the community (and those elderly persons residing in or expected to reside in the community), or as estimated in a community accepted State or regional housing opportunity plan approved by the Secretary” after “expected to reside in the community”.
+<b>1978</b>—Subsec. (a)(3)(C). Pub. L. 95–557, §103(c), inserted "as a result of existing or projected employment opportunities in the community (and those elderly persons residing in or expected to reside in the community), or as estimated in a community accepted State or regional housing opportunity plan approved by the Secretary" after "expected to reside in the community".
 
-Subsec. (a)(4)(A). Pub. L. 95–557, §103(a), (c), inserted “owners of homes requiring rehabilitation assistance” after “large families” and inserted “as a result of existing or projected employment opportunities in the community (and those elderly persons residing in or expected to reside in the community), or as estimated in a community accepted State or regional housing opportunity plan approved by the Secretary” after “expected to reside in the community”.
+Subsec. (a)(4)(A). Pub. L. 95–557, §103(a), (c), inserted "owners of homes requiring rehabilitation assistance" after "large families" and inserted "as a result of existing or projected employment opportunities in the community (and those elderly persons residing in or expected to reside in the community), or as estimated in a community accepted State or regional housing opportunity plan approved by the Secretary" after "expected to reside in the community".
 
-Subsec. (a)(4)(B)(i). Pub. L. 95–557, §103(b), inserted “including existing rental and owner occupied dwelling units to be upgraded and thereby preserved” after “existing dwelling units”.
+Subsec. (a)(4)(B)(i). Pub. L. 95–557, §103(b), inserted "including existing rental and owner occupied dwelling units to be upgraded and thereby preserved" after "existing dwelling units".
 
 Subsec. (c). Pub. L. 95–557, §103(d), inserted provisions relating to approval or disapproval of any application on the basis that such application addresses any one of the primary purposes described in par. (3) to a greater or lesser extent than any other, unless such purpose is plainly inappropriate, in which case the application may be disapproved.
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–128, §110(a), inserted reference to section 5318 of this title.
 
-Subsec. (a)(1). Pub. L. 95–128, §104(a)(1), inserted “and housing” before “needs”.
+Subsec. (a)(1). Pub. L. 95–128, §104(a)(1), inserted "and housing" before "needs".
 
 Subsec. (a)(2)(B). Pub. L. 95–128, §104(a)(2), included provision activities designed to revitalize neighborhoods for benefit of low- and moderate-income persons.
 
 Subsec. (a)(3). Pub. L. 95–128, §104(a)(3), inserted subpar. (B) requirement for a program designed to insure fully opportunity for participation by, and benefits to, the handicapped and added subpar. (C).
 
-Subsec. (a)(4). Pub. L. 95–128, §104(a)(4), inserted subpar. (A) provision for identification of housing stock in a deteriorated condition; inserted in subpar. (B) “lower-income” before “persons” and added cl. (iii); and inserted subpar. (C)(i) provision respecting reclamation of housing stock where feasible through use of a broad range of techniques for housing restoration by local government, the private sector, or community organizations, including provision of a reasonable opportunity for tenants displaced as a result of such activities to relocate in their immediate neighborhood.
+Subsec. (a)(4). Pub. L. 95–128, §104(a)(4), inserted subpar. (A) provision for identification of housing stock in a deteriorated condition; inserted in subpar. (B) "lower-income" before "persons" and added cl. (iii); and inserted subpar. (C)(i) provision respecting reclamation of housing stock where feasible through use of a broad range of techniques for housing restoration by local government, the private sector, or community organizations, including provision of a reasonable opportunity for tenants displaced as a result of such activities to relocate in their immediate neighborhood.
 
-Subsec. (a)(6). Pub. L. 95–128, §104(a)(5), added cl. (A), redesignated former cls. (A) and (B) as (B) and (C), and redesignated former cl. (C) as (D) and substituted “with an opportunity to submit comments concerning the community development performance of the applicant; but nothing in this paragraph” for “an adequate opportunity to participate in the development of the application; but no part of this paragraph”.
+Subsec. (a)(6). Pub. L. 95–128, §104(a)(5), added cl. (A), redesignated former cls. (A) and (B) as (B) and (C), and redesignated former cl. (C) as (D) and substituted "with an opportunity to submit comments concerning the community development performance of the applicant; but nothing in this paragraph" for "an adequate opportunity to participate in the development of the application; but no part of this paragraph".
 
-Subsec. (b)(2). Pub. L. 95–128, §104(b), substituted in first sentence “low- and moderate-income” for “low- or moderate-income” and in second sentence after “urgency” the clause “because existing conditions pose a serious and immediate threat to the health or welfare of the community, and other financial resources are not available” for “as specifically described in the application”.
+Subsec. (b)(2). Pub. L. 95–128, §104(b), substituted in first sentence "low- and moderate-income" for "low- or moderate-income" and in second sentence after "urgency" the clause "because existing conditions pose a serious and immediate threat to the health or welfare of the community, and other financial resources are not available" for "as specifically described in the application".
 
-Subsec. (b)(3). Pub. L. 95–128, §104(c), added cl. (B), struck out former cl. “(B) the application relates to thefirst community development activity to be carried out by such locality with assistance under this chapter”, redesignated cl. (D) as (C) and struck out former cl. “(C) the assistance requested is for a single development activity under this chapter of a type eligible for assistance under title VII of the Housing Act of 1961 or title VII of the Housing and Urban Development Act of 1965”.
+Subsec. (b)(3). Pub. L. 95–128, §104(c), added cl. (B), struck out former cl. "(B) the application relates to the first community development activity to be carried out by such locality with assistance under this chapter", redesignated cl. (D) as (C) and struck out former cl. "(C) the assistance requested is for a single development activity under this chapter of a type eligible for assistance under title VII of the Housing Act of 1961 or title VII of the Housing and Urban Development Act of 1965".
 
-Subsec. (c)(3). Pub. L. 95–128, §104(d), inserted “, with specific regard to the primary purposes of principally benefiting persons of low- and moderate-income or aiding in the prevention or elimination of slums or blight or meeting other community development needs having a particular urgency,” before “or other applicable law”.
+Subsec. (c)(3). Pub. L. 95–128, §104(d), inserted ", with specific regard to the primary purposes of principally benefiting persons of low- and moderate-income or aiding in the prevention or elimination of slums or blight or meeting other community development needs having a particular urgency," before "or other applicable law".
 
 Subsec. (d). Pub. L. 95–128, §104(e), inserted requirement for inclusion of citizen comments in the performance reports and Secretary's consideration of the comments and inserted provision for adjustment of grants under section 5306(d)(2) and (f)(1)(B) of this title without recapture of expended funds or deduction from future grants.
 
@@ -358,7 +358,7 @@ Amendment by Pub. L. 103–233 applicable with respect to any amounts made avail
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–242, title V, §509(b), Feb. 5, 1988, 101 Stat. 1929, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1988.”
+Pub. L. 100–242, title V, §509(b), Feb. 5, 1988, 101 Stat. 1929, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on October 1, 1988."
 
 #### Effective Date of 1983 Amendment
 
@@ -368,7 +368,7 @@ Amendment by Pub. L. 98–181 applicable only to funds available for fiscal year
 
 Amendment by sections 302(b), (d)–(f) and 309(d) of Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 97–35, set out as an Effective Date note under section 3701 of Title 12, Banks and Banking.
 
-Pub. L. 97–35, title III, §302(c)(2), Aug. 13, 1981, 95 Stat. 386, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1982.”
+Pub. L. 97–35, title III, §302(c)(2), Aug. 13, 1981, 95 Stat. 386, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on October 1, 1982."
 
 #### Effective Date of 1978 Amendment
 
@@ -382,77 +382,77 @@ Amendment by Pub. L. 95–128 effective Oct. 1, 1977, see section 114 of Pub. L.
 
 Pub. L. 102–550, title VIII, §852, Oct. 28, 1992, 106 Stat. 3858, provided that:
 
-“(a)
+"(a)
 
-Establishment of Demonstration Program.—Not later than the expiration of the 1-year period beginning on the date appropriations for the purposes of this section are made available, the Secretary of Housing and Urban Development (hereafter in this section referred to as the ‘Secretary’) shall establish and implement a demonstration program to determine the feasibility of assisting States and units of general local government to develop methods, utilizing contemporary computer technology, to—
+Establishment of Demonstration Program.—Not later than the expiration of the 1-year period beginning on the date appropriations for the purposes ofthis section are made available, the Secretary of Housing and Urban Development (hereafter in this section referred to as the 'Secretary') shall establish and implement a demonstration program to determine the feasibility of assisting States and units of general local government to develop methods, utilizing contemporary computer technology, to—
 
-&emsp;“(1) monitor, inventory, and maintain current listings of the community development needs of the States and units of general local government; and
+&emsp;"(1) monitor, inventory, and maintain current listings of the community development needs of the States and units of general local government; and
 
-&emsp;“(2) coordinate strategies within States (especially among various units of general local government) for meeting such needs.
+&emsp;"(2) coordinate strategies within States (especially among various units of general local government) for meeting such needs.
 
-“(b)
+"(b)
 
 Integrated Database System and Computer Mapping Tool.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Development and purposes.—In carrying out the program under this section, the Secretary shall provide for the development of an integrated database system and computer mapping tool designed to efficiently (A) collect, store, process, and retrieve information relating to priority nonhousing community development needs within States, and (B) coordinate strategies for meeting such needs. The integrated database system and computer mapping tool shall be designed in a manner to coordinate and facilitate the preparation of community development plans under section 104(m)(1) of the Housing and Community Development Act of 1974 \[42 U.S.C. 5304(m)(1)\] and to process any information necessary for such plans.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Availability to states.—The Secretary shall make the integrated database system and computer mapping tool developed pursuant to this subsection available to States without charge.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Coordination with existing technology.—The Secretary shall, to the extent practicable, utilize existing technologies and coordinate such activities with existing data systems to prevent duplication.
 
-“(c)
+"(c)
 
 Technical Assistance.—Under the program under this section, the Secretary shall provide consultation and advice to States and units of general local government regarding the capabilities and advantages of the integrated database system and computer mapping tool developed pursuant to subsection (b) and assistance in installing and using the database system and mapping tool.
 
-“(d)
+"(d)
 
 Grants.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Authority and purpose.—The Secretary shall, to the extent amounts are made available under appropriation Acts pursuant to subsection (g), make grants to States for capital costs relating to installation and use of the integrated database system and computer mapping tool developed pursuant to subsection (b).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Limitations.—The Secretary may not make more than one grant under this subsection to any single State. The Secretary may not make a grant under this subsection to any single State in an amount exceeding $1,000,000.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Application and selection.—The Secretary shall provide for the form and manner of applications for grants under this subsection. The Secretary shall establish criteria for the selection of States which have submitted applications to receive grants under this section and shall select recipients according to such criteria, which shall give priority to States having, on a long-term basis (as determined by the Secretary), levels of unemployment above the national average level.
 
-“(e)
+"(e)
 
 State Coordination of Local Needs.—Each State that receives a grant under subsection (d) shall annually submit to the Secretary a report containing a summary of the priority nonhousing community development needs within the State.
 
-“(f)
+"(f)
 
-Reports by Secretary.—The Secretary shall annually submit to the Committees on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives and Banking, Housing, and Urban Affairs of the Senate, a report containing a summary of the information submitted forthe year by States pursuant to subsection (e), which shall describe the priority nonhousing community development needs within such States.
+Reports by Secretary.—The Secretary shall annually submit to the Committees on Banking, Finance and Urban Affairs \[now Committee on Financial Services\] of the House of Representatives and Banking, Housing, and Urban Affairs of the Senate, a report containing a summary of the information submitted for the year by States pursuant to subsection (e), which shall describe the priority nonhousing community development needs within such States.
 
-“(g)
+"(g)
 
-Authorization of Appropriations.—There are authorized to be appropriated for each of the fiscal years 1993 and 1994, $10,000,000 to carry out the program established under this section.”
+Authorization of Appropriations.—There are authorized to be appropriated for each of the fiscal years 1993 and 1994, $10,000,000 to carry out the program established under this section."
 
 #### Authority To Provide Lump-Sum Payments to Revolving Loan Funds
 
 Pub. L. 101–625, title IX, §909, Nov. 28, 1990, 104 Stat. 4389, provided that:
 
-“(a)
+"(a)
 
 In General.—Notwithstanding any other provision of law, units of general local government receiving assistance under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\] may receive funds in one payment for use in establishing or supplementing revolving loan funds in the manner provided under section 104(h) of such Act (42 U.S.C. 5304(h)).
 
-“(b)
+"(b)
 
-Applicability.—This section shall apply to funds approved in appropriations Acts for use under title I of the Housing and Community Development Act of 1974 for fiscal year 1992 and any fiscal year thereafter.”
+Applicability.—This section shall apply to funds approved in appropriations Acts for use under title I of the Housing and Community Development Act of 1974 for fiscal year 1992 and any fiscal year thereafter."
 
 #### Revolving Loan Funds
 
-Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 752, provided: “That after September 30, 1991, notwithstanding section 909 of the Cranston-Gonzalez National Affordable Housing Act (Public Law 101–625) \[set out above\], no funds provided or heretofore provided in this or any other appropriations Act shall be used to establish or supplement a revolving fund under section 104(h) of the Housing and Community Development Act of 1974 \[42 U.S.C. 5304(h)\], as amended.”
+Pub. L. 102–139, title II, Oct. 28, 1991, 105 Stat. 752, provided: "That after September 30, 1991, notwithstanding section 909 of the Cranston-Gonzalez National Affordable Housing Act (Public Law 101–625) \[set out above\], no funds provided or heretofore provided in this or any other appropriations Act shall be used to establish or supplement a revolving fund under section 104(h) of the Housing and Community Development Act of 1974 \[42 U.S.C. 5304(h)\], as amended."
 
 Similar provisions were contained in the following prior appropriation acts:
 

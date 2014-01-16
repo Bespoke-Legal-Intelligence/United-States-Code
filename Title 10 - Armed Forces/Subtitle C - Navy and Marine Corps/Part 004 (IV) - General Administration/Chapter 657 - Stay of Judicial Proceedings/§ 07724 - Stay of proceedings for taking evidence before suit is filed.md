@@ -34,5 +34,5 @@ July 3, 1944, ch. 399, §2 (less applicability to duration of stay), 58 Stat. 72
 
 July 3, 1944, ch. 399, §6, 58 Stat. 726.
 
-In subsection (b) the words “upon a claim against the United States” and “as to any proceedings by or on behalf of such claimant for the taking of a deposition or the production of evidence in connection with or in relation to such claim” are omitted as surplusage.
+In subsection (b) the words "upon a claim against the United States" and "as to any proceedings by or on behalf of such claimant for the taking of a deposition or the production of evidence in connection with or in relation to such claim" are omitted as surplusage.
 

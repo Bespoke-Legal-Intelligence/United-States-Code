@@ -10,15 +10,15 @@ In this section:
 
 #### (1) Qualified conservation loan
 
-&emsp;The term “qualified conservation loan” means a loan, the proceeds of which are used to cover the costs to the borrower of carrying out a qualified conservation project.
+&emsp;The term "qualified conservation loan" means a loan, the proceeds of which are used to cover the costs to the borrower of carrying out a qualified conservation project.
 
 #### (2) Qualified conservation project
 
-&emsp;The term “qualified conservation project” means conservation measures that address provisions of a conservation plan of the eligible borrower.
+&emsp;The term "qualified conservation project" means conservation measures that address provisions of a conservation plan of the eligible borrower.
 
 #### (3) Conservation plan
 
-&emsp;The term “conservation plan” means a plan, approved by the Secretary, that, for a farming or ranching operation, identifies the conservation activities that will be addressed with loan funds provided under this section, including—
+&emsp;The term "conservation plan" means a plan, approved by the Secretary, that, for a farming or ranching operation, identifies the conservation activities that will be addressed with loan funds provided under this section, including—
 
 &emsp;&emsp;(A) the installation of conservation structures to address soil, water, and related resources;
 
@@ -84,19 +84,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Subsec. (a). Pub. L. 104–127, §603(2), (5), redesignated subsec. (a)(1) as (a), inserted heading, and redesignated subpars. (A) to (F) as pars. (1) to (6), respectively. Former pars. (2) and (3) redesignated subsecs. (b) and (c), respectively.
 
-Subsec. (b). Pub. L. 104–127, §603(1), (3), redesignated subsec. (a)(2) as (b), inserted heading, substituted “guaranteeing loans” for “insuring loans”, and struck out former subsec. (b) which read as follows: “Loans may also be made or insured under this subchapter to residents of rural areas without regard to the requirements of clauses (2) and (3) of section 1922 of this title to acquire or establish in rural areas small business enterprises to provide such residents with essential income.”
+Subsec. (b). Pub. L. 104–127, §603(1), (3), redesignated subsec. (a)(2) as (b), inserted heading, substituted "guaranteeing loans" for "insuring loans", and struck out former subsec. (b) which read as follows: "Loans may also be made or insured under this subchapter to residents of rural areas without regard to the requirements of clauses (2) and (3) of section 1922 of this title to acquire or establish in rural areas small business enterprises to provide such residents with essential income."
 
-Subsec. (c). Pub. L. 104–127, §603(1), (4), (6), redesignated subsec. (a)(3) as (c), inserted heading, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former subsec. (c) which read as follows: “Loans may also be made or insured under this subchapter to any farm owners or tenants without regard to the requirements of clauses (1), (2), and (3) of section 1922 of this title for the purposes of meeting Federal, State, or local requirements for agricultural, animal, or poultry waste pollution abatement and control facilities, including the construction, modification, or relocation of farm or other structures necessary to comply with such pollution abatement requirements.”
+Subsec. (c). Pub. L. 104–127, §603(1), (4), (6), redesignated subsec. (a)(3) as (c), inserted heading, redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, and struck out former subsec. (c) which read as follows: "Loans may also be made or insured under this subchapter to any farm owners or tenants without regard to the requirements of clauses (1), (2), and (3) of section 1922 of this title for the purposes of meeting Federal, State, or local requirements for agricultural, animal, or poultry waste pollution abatement and control facilities, including the construction, modification, or relocation of farm or other structures necessary to comply with such pollution abatement requirements."
 
-<b>1991</b>—Subsecs. (a), (d). Pub. L. 102–237 redesignated subsec. (d) as (a) and moved it to appear before subsec. (b) and struck out former subsec. (a) which read as follows: “Loans may also be made or insured under this subchapter to any farmowners or tenants without regard to the requirements of section 1922(1), (2), and (3) of this title for the purposes only of land and water development, use and conservation, not including recreational uses and facilities, and without regard to the requirements of section 1922(2) and (3) of this title, to farmowners or tenants to finance outdoor recreational enterprises or to convert to recreational uses their farming or ranching operations, including those heretofore financed under this chapter.”
+<b>1991</b>—Subsecs. (a), (d). Pub. L. 102–237 redesignated subsec. (d) as (a) and moved it to appear before subsec. (b) and struck out former subsec. (a) which read as follows: "Loans may also be made or insured under this subchapter to any farmowners or tenants without regard to the requirements of section 1922(1), (2), and (3) of this title for the purposes only of land and water development, use and conservation, not including recreational uses and facilities, and without regard to the requirements of section 1922(2) and (3) of this title, to farmowners or tenants to finance outdoor recreational enterprises or to convert to recreational uses their farming or ranching operations, including those heretofore financed under this chapter."
 
 <b>1990</b>—Subsec. (d). Pub. L. 101–624 added subsec. (d).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–334, §102(1), struck out “individual” after “title, to”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–334, §102(1), struck out "individual" after "title, to".
 
 Subsec. (c). Pub. L. 95–334, §102(2), added subsec. (c).
 
-<b>1972</b>—Pub. L. 92–419 designated existing provisions as subsec. (a) and struck out item (a) and (b) designations appearing before “to any farmowners” and “without regard to”, respectively, and added subsec. (b).
+<b>1972</b>—Pub. L. 92–419 designated existing provisions as subsec. (a) and struck out item (a) and (b) designations appearing before "to any farmowners" and "without regard to", respectively, and added subsec. (b).
 
 <b>1968</b>—Pub. L. 90–488 designated existing provisions as cl. (a), excluded recreational uses and facilities, and added cl. (b).
 

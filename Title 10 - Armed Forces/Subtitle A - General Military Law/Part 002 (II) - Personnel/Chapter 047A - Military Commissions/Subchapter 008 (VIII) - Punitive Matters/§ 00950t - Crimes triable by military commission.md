@@ -32,7 +32,7 @@ Taking hostages.—Any person subject to this chapter who, having knowingly seiz
 
 &emsp;(8)
 
-Employing poison or similar weapons.—Any person subject to this chapter who intentionally, as a method of warfare, employs asubstance or weapon that releases a substance that causes death or serious and lasting damage to health in the ordinary course of events, through its asphyxiating, bacteriological, or toxic properties, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
+Employing poison or similar weapons.—Any person subject to this chapter who intentionally, as a method of warfare, employs a substance or weapon that releases a substance that causes death or serious and lasting damage to health in the ordinary course of events, through its asphyxiating, bacteriological, or toxic properties, shall be punished, if death results to one or more of the victims, by death or such other punishment as a military commission under this chapter may direct, and, if death does not result to any of the victims, by such punishment, other than death, as a military commission under this chapter may direct.
 
 &emsp;(9)
 
@@ -52,7 +52,7 @@ Offense.—Any person subject to this chapter who commits an act specifically in
 
 &emsp;&emsp;(B)
 
-Severe mental pain or suffering defined.—In this paragraph, the term “severe mental pain or suffering” has the meaning given that term in section 2340(2) of title 18.
+Severe mental pain or suffering defined.—In this paragraph, the term "severe mental pain or suffering" has the meaning given that term in section 2340(2) of title 18.
 
 &emsp;(12)
 
@@ -68,7 +68,7 @@ Offense.—Any person subject to this chapter who intentionally causes serious b
 
 &emsp;&emsp;(B)
 
-Serious bodily injury defined.—In this paragraph, the term “serious bodily injury” means bodily injury which involves—
+Serious bodily injury defined.—In this paragraph, the term "serious bodily injury" means bodily injury which involves—
 
 &emsp;&emsp;&emsp;(i) a substantial risk of death;
 
@@ -96,7 +96,7 @@ Using treachery or perfidy.—Any person subject to this chapter who, after invi
 
 &emsp;(18)
 
-Improperly using a flag of truce.—Any person subject to this chapter who uses aflag of truce to feign an intention to negotiate, surrender, or otherwise suspend hostilities when there is no such intention shall be punished as a military commission under this chapter may direct.
+Improperly using a flag of truce.—Any person subject to this chapter who uses a flag of truce to feign an intention to negotiate, surrender, or otherwise suspend hostilities when there is no such intention shall be punished as a military commission under this chapter may direct.
 
 &emsp;(19)
 
@@ -132,7 +132,7 @@ Offense.—Any person subject to this chapter who provides material support or r
 
 &emsp;&emsp;(B)
 
-Material support or resources defined.—In this paragraph, the term “material support or resources” has the meaning given that term in section 2339A(b) of title 18.
+Material support or resources defined.—In this paragraph, the term "material support or resources" has the meaning given that term in section 2339A(b) of title 18.
 
 &emsp;(26)
 
@@ -140,7 +140,7 @@ Wrongfully aiding the enemy.—Any person subject to this chapter who, in breach
 
 &emsp;(27)
 
-Spying.—Any person subject to this chapter who, in violation of the law of war and with intent or reason to believe that it is to be used to the injury of the United States or to the advantage of a foreign power, collects or attempts to collect information by clandestine means or while acting under false pretenses, for the purpose of conveying such information to an enemy of the United States, or one of the co-belligerents of the enemy, shall be punished by death or such other punishment as a military commission under this chapter may direct.
+Spying.—Any person subject to this chapter who, in violation of the law of war and with intent or reason to believe that it is to be used to the injury of the United States or to the advantage of a foreign power, collects or attempts to collect information by clandestine means or while acting under false pretenses,for the purpose of conveying such information to an enemy of the United States, or one of the co-belligerents of the enemy, shall be punished by death or such other punishment as a military commission under this chapter may direct.
 
 &emsp;(28)
 
@@ -190,7 +190,7 @@ Section 950w, added Pub. L. 109–366, §3(a)(1), Oct. 17, 2006, 120 Stat. 2630,
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “be”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "be".</i>
 
 <i><sup>3</sup></i><i> So in original. Probably should be followed by a period.</i>
 

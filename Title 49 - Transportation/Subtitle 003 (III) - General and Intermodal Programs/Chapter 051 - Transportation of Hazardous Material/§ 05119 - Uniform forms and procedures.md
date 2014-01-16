@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Working Group.—The Secretary shall establish a working group of State and local government officials, including representatives of the National Governors’ Association, the National Association of Counties, the National League of Cities, the United States Conference of Mayors, the National Conference of State Legislatures, and the Alliance for Uniform Hazmat Transportation Procedures.
+Establishment of Working Group.—The Secretary shall establish a working group of State and local government officials, including representatives of the National Governors' Association, the National Association of Counties, the National League of Cities, the United States Conference of Mayors, the National Conference of State Legislatures, and the Alliance for Uniform Hazmat Transportation Procedures.
 
 (b)
 
@@ -66,9 +66,9 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, §121(a)–(g); added Nov. 16, 19
 
 49 App.:1819(g).
 
-In subsection (a), before clause (1), the words “As soon as practicable after November 16, 1990” are omitted as obsolete.
+In subsection (a), before clause (1), the words "As soon as practicable after November 16, 1990" are omitted as obsolete.
 
-In subsection (c)(1), the words “Subject to the provisions of this subsection” and “to the Secretary” are omitted as surplus.
+In subsection (c)(1), the words "Subject to the provisions of this subsection" and "to the Secretary" are omitted as surplus.
 
 #### References in Text
 
@@ -78,5 +78,5 @@ The date of enactment of this subsection, referred to in subsec. (e), is the dat
 
 <b>2005</b>—Pub. L. 109–59 reenacted section catchline without change and amended text generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to establishment of working group, consultation and reporting, regulations, and relationship to other laws.
 
-<b>1996</b>—Subsec. (b)(2), Pub. L. 104–287 substituted “Transportation and Infrastructure” for “Public Works and Transportation”.
+<b>1996</b>—Subsec. (b)(2), Pub. L. 104–287 substituted "Transportation and Infrastructure" for "Public Works and Transportation".
 

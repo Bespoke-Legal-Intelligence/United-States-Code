@@ -18,7 +18,7 @@ The Secretary, acting through the Director of the National Foreign Affairs Train
 
 #### (c) Report
 
-Not later than 180 days after August 3, 2007, the Secretary shall submit to the appropriate congressional committees a report containing a description of the current and planned training provided to Foreign Service officers in human rights and democracy promotion, including such training provided to chiefs of mission serving or preparing to serve in nondemocratic countries or democratic transition countries.
+Not later than 180 days after August 3, 2007, the Secretary shall submit to the appropriate congressional committees a report containing a description of the current and planned training provided to Foreign Service officers in human rights and democracy promotion, including such training provided to chiefs of mission serving orpreparing to serve in nondemocratic countries or democratic transition countries.
 
 (Pub. L. 110–53, title XXI, §2141, Aug. 3, 2007, 121 Stat. 534.)
 
@@ -26,5 +26,5 @@ Not later than 180 days after August 3, 2007, the Secretary shall submit to the 
 
 References to National Foreign Affairs Training Center considered to refer to George P. Shultz National Foreign Affairs Training Center, see section 1(b) of Pub. L. 107–132, set out as a note under section 4021 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

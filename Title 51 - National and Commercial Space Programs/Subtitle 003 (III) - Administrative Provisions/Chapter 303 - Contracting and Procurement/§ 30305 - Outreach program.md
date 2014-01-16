@@ -14,11 +14,11 @@ Facilitating enhanced insight.—Facilitating the enhanced insight of the privat
 
 &emsp;(2)
 
-Creating network.—Creating a network of academic institutions, aerospace contractors, and Administration centers that will commit to donating appropriate technical assistance to small businesses, giving preference to socially and economically disadvantaged small business concerns, small business concerns owned and controlled by service-disabled veterans, and HUBZone small business concerns. This paragraph shall not apply to any contracting actions entered into or taken by the Administration.
+Creating network.—Creating a network of academic institutions, aerospace contractors, and Administration centers that willcommit to donating appropriate technical assistance to small businesses, giving preference to socially and economically disadvantaged small business concerns, small business concerns owned and controlled by service-disabled veterans, and HUBZone small business concerns. This paragraph shall not apply to any contracting actions entered into or taken by the Administration.
 
 &emsp;(3)
 
-Creating network of economic development organizations.—Creating a network ofeconomic development organizations to increase the awareness and enhance the effectiveness of the program nationwide.
+Creating network of economic development organizations.—Creating a network of economic development organizations to increase the awareness and enhance the effectiveness of the program nationwide.
 
 (c)
 
@@ -48,7 +48,7 @@ Historical and Revision Notes
 
 Pub. L. 110–422, title XI, §1107, Oct. 15, 2008, 122 Stat. 4810.
 
-In subsection (c), in the matter before paragraph (1), the date “October 15, 2008” is substituted for “the date of enactment of this Act” to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2008.
+In subsection (c), in the matter before paragraph (1), the date "October 15, 2008" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2008.
 
 #### Change of Name
 

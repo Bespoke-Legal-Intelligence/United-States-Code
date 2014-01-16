@@ -32,7 +32,7 @@
 
 &emsp;The Secretary shall provide the assistance described in paragraph (1) for rural community development activities, which shall include providing—
 
-&emsp;&emsp;(A) grants to private, nonprofit corporations to enable the corporations to provideassistance concerning home repair to rural low-income families and concerning planning and developing low-income rural rental housing units; and
+&emsp;&emsp;(A) grants to private, nonprofit corporations to enable the corporations to provide assistance concerning home repair to rural low-income families and concerning planning and developing low-income rural rental housing units; and
 
 &emsp;&emsp;(B) grants to multistate, regional, private, nonprofit organizations to enable the organizations to provide training and technical assistance to small, rural communities concerning meeting their community facility needs.
 
@@ -60,7 +60,7 @@ Committee on Labor and Human Resources of Senate changed to Committee on Health,
 
 #### Procedures To Permit Grant Funds or Intangible Property Acquired by Grant Funds To Become Sole Property of Grantees
 
-Pub. L. 112–74, div. F, title II, Dec. 23, 2011, 125 Stat. 1078, provided in part: “That the Secretary \[of Health and Human Services\] shall establish procedures regarding the disposition of intangible assets and program income that permit such assets acquired with, and program income derived from, grant funds authorized under section 680 of the CSBG Act \[Community Services Block Grant Act, 42 U.S.C. 9921\] to become the sole property of such grantees after a period of not more than 12 years after the end of the grant period for any activity consistent with section 680(a)(2)(A) of the CSBG Act \[42 U.S.C. 9921(a)(2)(A)\]: <i>Provided further</i>, That intangible assets in the form of loans, equity investments and other debt instruments, and program income may be used by grantees for any eligible purpose consistent with section 680(a)(2)(A) of the CSBG Act: <i>Provided further</i>, That these procedures shall apply to such grant funds made available after November 29, 1999”.
+Pub. L. 112–74, div. F, title II, Dec. 23, 2011, 125 Stat. 1078, provided in part: "That the Secretary \[of Health and Human Services\] shall establish procedures regarding the disposition of intangible assets and program income that permit such assets acquired with, and program income derived from, grant funds authorized under section 680 of the CSBG Act \[Community Services Block Grant Act, 42 U.S.C. 9921\] to become the soleproperty of such grantees after a period of not more than 12 years after the end of the grant period for any activity consistent with section 680(a)(2)(A) of the CSBG Act \[42 U.S.C. 9921(a)(2)(A)\]: <i>Provided further</i>, That intangible assets in the form of loans, equity investments and other debt instruments, and program income may be used by grantees for any eligible purpose consistent with section 680(a)(2)(A) of the CSBG Act: <i>Provided further</i>, That these procedures shall apply to such grant funds made available after November 29, 1999".
 
 Similar provisions were contained in the following prior appropriation acts:
 

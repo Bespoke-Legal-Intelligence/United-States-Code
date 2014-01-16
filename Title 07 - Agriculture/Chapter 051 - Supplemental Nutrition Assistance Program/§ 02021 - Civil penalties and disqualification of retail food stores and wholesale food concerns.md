@@ -74,7 +74,7 @@ Subject to subsection (c), a disqualification under subsection (a) of this secti
 
 #### (e) Transfer of ownership; penalty in lieu of disqualification period; fines for acceptance of loose coupons; judicial action to recover penalty or fine
 
-(1) In the event any retail food store or wholesale food concern that has been disqualified under subsection (a) of this section is sold or the ownership thereof is otherwise transferred to a purchaser or transferee, the person or persons who sell or otherwise transfer ownership of the retail food store or wholesale food concern shall be subjected to a civil penalty in an amount established by the Secretary through regulations to reflect that portion of the disqualification period that has not yet expired. If the retail food store or wholesale food concern has been disqualified permanently, the civil penalty shall be double the penalty for a ten-year disqualification period, as calculated under regulations issued by the Secretary. The disqualification period imposed under subsection (b) of this section shall continue in effect as to the person or persons who sell or otherwise transfer ownership of the retail food store or wholesale food concern notwithstanding the imposition of a civil penalty under this subsection.
+(1) In the event any retail food store or wholesale food concern that has been disqualified under subsection (a) of this section is sold or the ownership thereof is otherwise transferred to a purchaser or transferee, the person or persons who sell or otherwise transfer ownership of the retail food store or wholesale food concern shall be subjected to a civil penalty in an amount established by the Secretary through regulationsto reflect that portion of the disqualification period that has not yet expired. If the retail food store or wholesale food concern has been disqualified permanently, the civil penalty shall be double the penalty for a ten-year disqualification period, as calculated under regulations issued by the Secretary. The disqualification period imposed under subsection (b) of this section shall continue in effect as to the person or persons who sell or otherwise transfer ownership of the retail food store or wholesale food concern notwithstanding the imposition of a civil penalty under this subsection.
 
 (2) At any time after a civil penalty imposed under paragraph (1) has become final under the provisions of section 2023(a) of this title, the Secretary may request the Attorney General to institute a civil action against the person or persons subject to the penalty in a district court of the United States for any district in which such person or persons are found, reside, or transact business to collect the penalty and such court shall have jurisdiction to hear and decide such action. In such action, the validity and amount of such penalty shall not be subject to review.
 
@@ -128,51 +128,51 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §4132(1), substituted “Civil penalties” for “Civil money penalties” in section catchline.
+<b>2008</b>—Pub. L. 110–246, §4132(1), substituted "Civil penalties" for "Civil money penalties" in section catchline.
 
-Subsec. (a). Pub. L. 110–246, §4132(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “Any approved retail food store or wholesale food concern may be disqualified for a specified period of time from further participation in the food stamp program, or subjected to a civil money penalty of up to $10,000 for each violation if the Secretary determines that its disqualification would cause hardship to food stamp households, on a finding, made as specified in the regulations, that such store or concern has violated any of the provisions of this chapter or the regulations issued pursuant to this chapter. Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system.”
+Subsec. (a). Pub. L. 110–246, §4132(1), added subsec. (a) and struck out former subsec. (a) which read as follows:"Any approved retail food store or wholesale food concern may be disqualified for a specified period of time from further participation in the food stamp program, or subjected to a civil money penalty of up to $10,000 for each violation if the Secretary determines that its disqualification would cause hardship to food stamp households, on a finding, made as specified in the regulations, that such store or concern has violated any of the provisions of this chapter or the regulations issued pursuant to this chapter. Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system."
 
-Subsec. (b). Pub. L. 110–246, §4132(2)(A), inserted heading and substituted “Subject to subsection (c), a disqualification” for “Disqualification” in introductory provisions.
+Subsec. (b). Pub. L. 110–246, §4132(2)(A), inserted heading and substituted "Subject to subsection (c), a disqualification" for "Disqualification" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 110–246, §4132(2)(B), substituted “not to exceed 5 years” for “of no less than six months nor more than five years”.
+Subsec. (b)(1). Pub. L. 110–246, §4132(2)(B), substituted "not to exceed 5 years" for "of no less than six months nor more than five years".
 
-Subsec. (b)(2). Pub. L. 110–246, §4132(2)(C), substituted “not to exceed 10 years” for “of no less than twelve months nor more than ten years”.
+Subsec. (b)(2). Pub. L. 110–246, §4132(2)(C), substituted "not to exceed 10 years" for "of no less than twelve months nor more than ten years".
 
-Subsec. (b)(3)(B). Pub. L. 110–246, §4132(2)(D), (E), in introductory provisions, inserted “or a finding of the unauthorized redemption, use, transfer, acquisition, alteration, or possession of EBT cards” after “wholesale food concern” and substituted “civil penalty” for “civil money penalty” and “civil penalties” for “civil money penalties”.
+Subsec. (b)(3)(B). Pub. L. 110–246, §4132(2)(D), (E), in introductory provisions, inserted "or a finding of the unauthorized redemption, use, transfer, acquisition, alteration, or possession of EBT cards" after "wholesale food concern" and substituted "civil penalty" for "civil money penalty" and "civil penalties" for "civil money penalties".
 
-Subsec. (b)(3)(C). Pub. L. 110–246, §4132(2)(E), substituted “civil penalty” for “civil money penalty”.
+Subsec. (b)(3)(C). Pub. L. 110–246, §4132(2)(E), substituted "civil penalty" for "civil money penalty".
 
-Subsec. (c). Pub. L. 110–246, §4132(3), inserted subsec. heading, added par. (1), designated existing provisions as par. (2), inserted par. heading, and substituted “civil penalty” for “civil money penalty” in text.
+Subsec. (c). Pub. L. 110–246, §4132(3), inserted subsec. heading, added par. (1), designated existing provisions as par. (2), inserted par. heading, and substituted "civil penalty" for "civil money penalty" in text.
 
-Subsec. (d). Pub. L. 110–246, §4132(4), inserted subsec. heading, added pars. (1) and (2), designated part of existing provisions as pars. (3) to (5), inserted par. headings, in par. (5), substituted “A store or concern described in paragraph (4)” for “Such store or concern”, and struck out after subsec. designation “As a condition of authorization to accept and redeem coupons, the Secretary may require a retail food store or wholesale food concern which has been disqualified or subjected to a civil penalty pursuant to subsection (a) of this section to furnish a bond to cover the value of coupons which such store or concern may in the future accept and redeem in violation of this chapter.”
+Subsec. (d). Pub. L. 110–246, §4132(4), inserted subsec. heading, added pars. (1) and (2), designated part of existing provisions as pars. (3) to (5), inserted par. headings, in par. (5), substituted "A store or concern described in paragraph (4)" for "Such store or concern", and struck out after subsec. designation "As a condition of authorization to accept and redeem coupons, the Secretary may require a retail food store or wholesale food concern which has been disqualified or subjected to a civil penalty pursuant to subsection (a) of this section to furnish a bond to cover the value of coupons which such store or concern may in the future accept and redeem in violation of this chapter."
 
-Subsec. (e). Pub. L. 110–246, §4132(5), substituted “civil penalty” for “civil money penalty” wherever appearing.
+Subsec. (e). Pub. L. 110–246, §4132(5), substituted "civil penalty" for "civil money penalty" wherever appearing.
 
 Subsec. (h). Pub. L. 110–246, §4132(6), added subsec. (h).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–193, §841, inserted at end “Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–193, §841, inserted at end "Regulations issued pursuant to this chapter shall provide criteria for the finding of a violation and the suspension or disqualification of a retail food store or wholesale food concern on the basis of evidence that may include facts established through on-site investigations, inconsistent redemption data, or evidence obtained through a transaction report under an electronic benefit transfer system."
 
-Subsec. (b)(3)(B). Pub. L. 104–127, §401(a), struck out “(including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation)” after “substantial evidence” and substituted “, including evidence that—” and cls. (i) and (ii) for “; or”.
+Subsec. (b)(3)(B). Pub. L. 104–127, §401(a), struck out "(including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation)" after "substantial evidence" and substituted ", including evidence that—" and cls. (i) and (ii) for "; or".
 
 Subsec. (b)(4). Pub. L. 104–193, §842, added par. (4).
 
 Subsec. (g). Pub. L. 104–193, §843, added subsec. (g).
 
-<b>1993</b>—Subsec. (b)(3)(B). Pub. L. 103–66, §13943, substituted “for violations occurring during a single investigation” for “during a 2-year period”.
+<b>1993</b>—Subsec. (b)(3)(B). Pub. L. 103–66, §13943, substituted "for violations occurring during a single investigation" for "during a 2-year period".
 
-Subsec. (b)(3)(C). Pub. L. 103–66, §13944, substituted “substance (as” for “substances (as the term is” and “for violations occurring during a single investigation” for “during a 2-year period”.
+Subsec. (b)(3)(C). Pub. L. 103–66, §13944, substituted "substance (as" for "substances (as the term is" and "for violations occurring during a single investigation" for "during a 2-year period".
 
-<b>1990</b>—Subsec. (b)(3). Pub. L. 101–624, §1743, in subpar. (A) struck out “or” after “disqualification;”, in subpar. (B) inserted “for each violation (except that the amount of civil money penalties imposed during a 2-year period may not exceed $40,000)” after “$20,000” and “(including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation)” after “evidence”, and substituted “; or” for period at end, and added subpar. (C).
+<b>1990</b>—Subsec. (b)(3). Pub. L. 101–624, §1743, in subpar. (A) struck out "or" after "disqualification;", in subpar. (B) inserted "for each violation (except that the amount of civil money penalties imposed during a 2-year period may not exceed $40,000)" after "$20,000" and "(including evidence that neither the ownership nor management of the store or food concern was aware of, approved, benefited from, or was involved in the conduct or approval of the violation)" after "evidence", and substituted "; or" for period at end, and added subpar. (C).
 
 Subsec. (e)(3). Pub. L. 101–624, §1744, added par. (3).
 
 Subsec. (f). Pub. L. 101–624, §1745, added subsec. (f).
 
-<b>1988</b>—Subsec. (b)(3). Pub. L. 100–435 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “permanent upon the third occasion of disqualification or the first occasion of a disqualification based on the purchase of coupons or trafficking in coupons or authorization cards by a retail food store or wholesale food concern.”
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–435 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "permanent upon the third occasion of disqualification or the first occasion of a disqualification based on the purchase of coupons or trafficking in coupons or authorization cards by a retail food store or wholesale food concern."
 
 <b>1985</b>—Subsec. (e). Pub. L. 99–198 added subsec. (e).
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–253, §175(1)–(3), redesignated first sentence as subsec. (a), substituted “$10,000” for “$5,000”, and struck out second sentence relating to disqualification.
+<b>1982</b>—Subsec. (a). Pub. L. 97–253, §175(1)–(3), redesignated first sentence as subsec. (a), substituted "$10,000" for "$5,000", and struck out second sentence relating to disqualification.
 
 Subsec. (b). Pub. L. 97–253, §175(3), added subsec. (b) relating to disqualification.
 
@@ -184,11 +184,11 @@ Subsec. (d). Pub. L. 97–253, §176(a), added subsec. (d).
 
 #### Change of Name
 
-References to a “coupon”, “authorization card”, or other access device provided under the Food and Nutrition Act of 2008 considered to refer to a “benefit” under that Act, see section 4115(d) of Pub. L. 110–246, set out as a note under section 2012 of this title.
+References to a "coupon", "authorization card", or other access device provided under the Food and Nutrition Act of 2008 considered to refer to a "benefit" under that Act, see section 4115(d) of Pub. L. 110–246, set out as a note under section 2012 of this title.
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 Amendment by section 4132 of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

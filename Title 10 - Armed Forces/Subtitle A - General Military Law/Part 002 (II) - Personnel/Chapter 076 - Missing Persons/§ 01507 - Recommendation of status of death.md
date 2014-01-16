@@ -34,7 +34,7 @@ Submittal of Information on Death.—If a board appointed under section 1503, 15
 
 <b>1996</b>—Subsec. (b)(3), (4). Pub. L. 104–201 struck out pars. (3) and (4) which read as follows:
 
-“(3) A description of the location of the body, if recovered.
+"(3) A description of the location of the body, if recovered.
 
-“(4) If the body has been recovered and is not identifiable through visual means, a certification by a practitioner of an appropriate forensic science that the body recovered is that of the missing person.”
+"(4) If the body has been recovered and is not identifiable through visual means, a certification by a practitioner of an appropriate forensic science that the body recovered is that of the missing person."
 

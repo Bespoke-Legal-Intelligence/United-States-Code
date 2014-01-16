@@ -16,7 +16,7 @@ No publication or other disclosure of statistics or other information required o
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 designated existing provisions as subsec. (a), struck out “or his delegate” after “Secretary”, inserted “not less than” after “prepare and publish” and “claimed or” after “income, the amounts”, substituted “internal revenue laws” for “income tax laws”, and added subsecs. (b) and (c).
+<b>1976</b>—Pub. L. 94–455 designated existing provisions as subsec. (a), struck out "or his delegate" after "Secretary", inserted "not less than" after "prepare and publish" and "claimed or" after "income, the amounts", substituted "internal revenue laws" for "income tax laws", and added subsecs. (b) and (c).
 
 #### Effective Date of 1976 Amendment
 

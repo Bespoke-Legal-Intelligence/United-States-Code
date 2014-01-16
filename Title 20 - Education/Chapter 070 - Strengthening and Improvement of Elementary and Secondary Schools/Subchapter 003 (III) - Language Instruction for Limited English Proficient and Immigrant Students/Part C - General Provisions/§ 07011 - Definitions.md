@@ -4,23 +4,23 @@ Except as otherwise provided, in this subchapter:
 
 #### (1) Child
 
-&emsp;The term “child” means any individual aged 3 through 21.
+&emsp;The term "child" means any individual aged 3 through 21.
 
 #### (2) Community-based organization
 
-&emsp;The term “community-based organization” means a private nonprofit organization of demonstrated effectiveness, Indian tribe, or tribally sanctioned educational authority, that is representative of a community or significant segments of a community and that provides educational or related services to individuals in the community. Such term includes a Native Hawaiian or Native American Pacific Islander native language educational organization.
+&emsp;The term "community-based organization" means a private nonprofit organization of demonstrated effectiveness, Indian tribe, or tribally sanctioned educational authority, that is representative of a community or significant segments of a community and that provides educational or related services to individuals in the community. Such term includes a Native Hawaiian or Native American Pacific Islander native language educational organization.
 
 #### (3) Community college
 
-&emsp;The term “community college” means an institution of higher education as defined in section 1001 of this title that provides not less than a 2-year program that is acceptable for full credit toward a bachelor's degree, including institutions receiving assistance under the Tribally Controlled Colleges and Universities Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\].
+&emsp;The term "community college" means an institution of higher education as defined in section 1001 of this title that provides not less than a 2-year program that is acceptable for full credit toward a bachelor's degree, including institutions receiving assistance under the Tribally Controlled Colleges and Universities Assistance Act of 1978 \[25 U.S.C. 1801 et seq.\].
 
 #### (4) Director
 
-&emsp;The term “Director” means the Director of the Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students established under section 3420 of this title.
+&emsp;The term "Director" means the Director of the Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students established under section 3420 of this title.
 
 #### (5) Family education program
 
-&emsp;The term “family education program” means a language instruction educational program or special alternative instruction program that—
+&emsp;The term "family education program" means a language instruction educational program or special alternative instruction program that—
 
 &emsp;&emsp;(A) is designed—
 
@@ -34,7 +34,7 @@ Except as otherwise provided, in this subchapter:
 
 #### (6) Immigrant children and youth
 
-&emsp;The term “immigrant children and youth” means individuals who—
+&emsp;The term "immigrant children and youth" means individuals who—
 
 &emsp;&emsp;(A) are aged 3 through 21;
 
@@ -44,11 +44,11 @@ Except as otherwise provided, in this subchapter:
 
 #### (7) Indian tribe
 
-&emsp;The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Native village or Regional Corporation or Village Corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;The term "Indian tribe" means any Indian tribe, band, nation, or other organized group or community, including any Native village or Regional Corporation or Village Corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 #### (8) Language instruction educational program
 
-&emsp;The term “language instruction educational program” means an instruction course—
+&emsp;The term "language instruction educational program" means an instruction course—
 
 &emsp;&emsp;(A) in which a limited English proficient child is placed for the purpose of developing and attaining English proficiency, while meeting challenging State academic content and student academic achievement standards, as required by section 6311(b)(1) of this title; and
 
@@ -56,11 +56,11 @@ Except as otherwise provided, in this subchapter:
 
 #### (9) Native American and Native American language
 
-&emsp;The terms “Native American” and “Native American language” shall have the meanings given such terms in section 2902 of title 25.
+&emsp;The terms "Native American" and "Native American language" shall have the meanings given such terms in section 2902 of title 25.
 
 #### (10) Native Hawaiian or Native American Pacific Islander native language educational organization
 
-&emsp;The term “Native Hawaiian or Native American Pacific Islander native language educational organization” means a nonprofit organization with—
+&emsp;The term "Native Hawaiian or Native American Pacific Islander native language educational organization" means a nonprofit organization with—
 
 &emsp;&emsp;(A) a majority of its governing board and employees consisting of fluent speakers of the traditional Native American languages used in the organization's educational programs; and
 
@@ -68,7 +68,7 @@ Except as otherwise provided, in this subchapter:
 
 #### (11) Native language
 
-&emsp;The term “native language”, when used with reference to an individual of limited English proficiency, means—
+&emsp;The term "native language", when used with reference to an individual of limited English proficiency, means—
 
 &emsp;&emsp;(A) the language normally used by such individual; or
 
@@ -76,11 +76,11 @@ Except as otherwise provided, in this subchapter:
 
 #### (12) Paraprofessional
 
-&emsp;The term “paraprofessional” means an individual who is employed in a preschool, elementary school, or secondary school under the supervision of a certified or licensed teacher, including individuals employed in language instruction educational programs, special education, and migrant education.
+&emsp;The term "paraprofessional" means an individual who is employed in a preschool, elementary school, or secondary school under the supervision of a certified or licensed teacher, including individuals employed in language instruction educational programs, special education, and migrant education.
 
 #### (13) Specially qualified agency
 
-&emsp;The term “specially qualified agency” means an eligible entity, as defined in section 6871 of this title, in a State whose State educational agency—
+&emsp;The term "specially qualified agency" means an eligible entity, as defined in section 6871 of this title, in a State whose State educational agency—
 
 &emsp;&emsp;(A) does not participate in a program under subpart 1 of part A of this subchapter for a fiscal year; or
 
@@ -88,11 +88,11 @@ Except as otherwise provided, in this subchapter:
 
 #### (14) State
 
-&emsp;The term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;The term "State" means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 #### (15) Tribally sanctioned educational authority
 
-&emsp;The term “tribally sanctioned educational authority” means—
+&emsp;The term "tribally sanctioned educational authority" means—
 
 &emsp;&emsp;(A) any department or division of education operating within the administrative structure of the duly constituted governing body of an Indian tribe; and
 
@@ -116,5 +116,5 @@ A prior section 3301 of Pub. L. 89–10 was classified to section 6921 of this t
 
 #### Amendments
 
-<b>2008</b>—Par. (3). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
+<b>2008</b>—Par. (3). Pub. L. 110–315 substituted "the Tribally Controlled Colleges and Universities Assistance Act of 1978" for "the Tribally Controlled College or University Assistance Act of 1978".
 

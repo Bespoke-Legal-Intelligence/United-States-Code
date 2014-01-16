@@ -4,7 +4,7 @@
 
 &emsp;(1) the Nation is in a severe recession and that the sharp downturn in economic activity has driven large numbers of workers into unemployment and has reduced the incomes of many others;
 
-&emsp;(2) as a result of these adverse economic conditions the capacity of many homeowners to continue to make mortgage payments has deteriorated and may further deteriorate in the months ahead, leading to the possibility of widespread mortgage foreclosures and distress sales of homes; and
+&emsp;(2) as a result of these adverse economic conditions the capacity of many homeowners tocontinue to make mortgage payments has deteriorated and may further deteriorate in the months ahead, leading to the possibility of widespread mortgage foreclosures and distress sales of homes; and
 
 &emsp;(3) many of these homeowners could retain their homes with temporary financial assistance until economic conditions improve.
 
@@ -14,7 +14,7 @@
 
 #### Short Title
 
-Pub. L. 94–50, §1, July 2, 1975, 89 Stat. 249, provided: “That this Act \[enacting this chapter, amending sections 1723e and 1735b of this title and sections 1452 and 4106 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 1723e of this title\] may be cited as the ‘Emergency Housing Act of 1975’.”
+Pub. L. 94–50, §1, July 2, 1975, 89 Stat. 249, provided: "That this Act \[enacting this chapter, amending sections 1723e and 1735b of this title and sections 1452 and 4106 of Title 42, The Public Health and Welfare, enacting provisions set out as a note under this section, and amending provisions set out as a note under section 1723e of this title\] may be cited as the 'Emergency Housing Act of 1975'."
 
-Pub. L. 94–50, title I, §101, July 2, 1975, 89 Stat. 249, provided that: “This title \[enacting this chapter\] may be cited as the ‘Emergency Homeowners’ Relief Act’.”
+Pub. L. 94–50, title I, §101, July 2, 1975, 89 Stat. 249, provided that: "This title \[enacting this chapter\] may be cited as the 'Emergency Homeowners' Relief Act'."
 

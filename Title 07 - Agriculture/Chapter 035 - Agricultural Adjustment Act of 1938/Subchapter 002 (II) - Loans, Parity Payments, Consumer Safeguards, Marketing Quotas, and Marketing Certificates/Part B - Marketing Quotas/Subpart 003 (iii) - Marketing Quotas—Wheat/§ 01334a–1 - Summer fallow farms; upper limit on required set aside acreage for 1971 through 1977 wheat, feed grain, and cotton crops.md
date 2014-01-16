@@ -10,5 +10,5 @@ Section was enacted as part of the Agricultural Act of 1970, and not as part of 
 
 #### Amendments
 
-<b>1973</b>—Pub. L. 93–86 substituted “1971 through 1977” for “1971, 1972, and 1973”.
+<b>1973</b>—Pub. L. 93–86 substituted "1971 through 1977" for "1971, 1972, and 1973".
 

@@ -22,7 +22,7 @@ In this section:
 
 #### (1) Applicable drug
 
-&emsp;The term “applicable drug” means a drug—
+&emsp;The term "applicable drug" means a drug—
 
 &emsp;&emsp;(A) which is subject to subsection (b) of such section 353 of title 21; and
 
@@ -30,11 +30,11 @@ In this section:
 
 #### (2) Authorized distributor of record
 
-&emsp;The term “authorized distributor of record” has the meaning given that term in subsection (e)(3)(A) of such section.
+&emsp;The term "authorized distributor of record" has the meaning given that term in subsection (e)(3)(A) of such section.
 
 #### (3) Manufacturer
 
-&emsp;The term “manufacturer” has the meaning given that term for purposes of subsection (d) of such section.
+&emsp;The term "manufacturer" has the meaning given that term for purposes of subsection (d) of such section.
 
 (Aug. 14, 1935, ch. 531, title XI, §1128H, as added Pub. L. 111–148, title VI, §6004, Mar. 23, 2010, 124 Stat. 697.)
 

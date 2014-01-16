@@ -10,7 +10,7 @@ Section is from act May 29, 1945, popularly known as the Naval Appropriation Act
 
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–54 substituted “Department of Veterans Affairs” for “United States Veterans’ Administration”.
+<b>1991</b>—Pub. L. 102–54 substituted "Department of Veterans Affairs" for "United States Veterans' Administration".
 
 #### Similar Provisions
 

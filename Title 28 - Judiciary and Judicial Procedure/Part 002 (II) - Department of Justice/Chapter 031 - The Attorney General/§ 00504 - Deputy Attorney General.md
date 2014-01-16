@@ -2,7 +2,7 @@
 
 The President may appoint, by and with the advice and consent of the Senate, a Deputy Attorney General.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 107–77, title VI, §612(c), Nov. 28, 2001, 115 Stat. 800; Pub. L. 107–273, div. B, title IV, §4004(f), Nov. 2, 2002, 116 Stat. 1812.)
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 107–77, title VI, §612(c),Nov. 28, 2001, 115 Stat. 800; Pub. L. 107–273, div. B, title IV, §4004(f), Nov. 2, 2002, 116 Stat. 1812.)
 
 Historical and Revision Notes
 
@@ -16,13 +16,13 @@ Historical and Revision Notes
 
 5 U.S.C. 294.
 
-Mar. 3, 1903, ch. 1006, §1 (so much of 2d par. under “Department of Justice” as provides for appointment, pay, and duties of an assistant to the Attorney General), 32 Stat. 1062.
+Mar. 3, 1903, ch. 1006, §1 (so much of 2d par. under "Department of Justice" as provides for appointment, pay, and duties of an assistant to the Attorney General), 32 Stat. 1062.
 
 \[Uncodified\].
 
 1950 Reorg. Plan No. 2, §3, eff. May 24, 1950, 64 Stat. 1261.
 
-The words “may appoint” are substituted for “is authorized to appoint”. So much of the Act of Mar. 3, 1903, as relates to pay is omitted as superseded by §303(c) of the Act of Aug. 14, 1964, Pub. L. 88–426, 78 Stat. 416, which is codified in section 5314 of title 5, United States Code.
+The words "may appoint" are substituted for "is authorized to appoint". So much of the Act of Mar. 3, 1903, as relates to pay is omitted as superseded by §303(c) of the Act of Aug. 14, 1964, Pub. L. 88–426, 78 Stat. 416, which is codified in section 5314 of title 5, United States Code.
 
 #### Prior Provisions
 
@@ -32,7 +32,7 @@ A prior section 504, acts June 25, 1948, ch. 646, 62 Stat. 909; Mar. 18, 1959, P
 
 <b>2002</b>—Pub. L. 107–273 repealed Pub. L. 107–77, §612(c). See 2001 Amendment note below.
 
-<b>2001</b>—Pub. L. 107–77, §612(c), which directed amendment of section catchline by substituting “Attorneys” for “Attorney” and amendment of text by inserting “and a Deputy Attorney General for Combating Domestic Terrorism” after “General”, was repealed by Pub. L. 107–273.
+<b>2001</b>—Pub. L. 107–77, §612(c), which directed amendment of section catchline by substituting "Attorneys" for "Attorney" and amendment of text by inserting "and a Deputy Attorney General for Combating Domestic Terrorism" after "General", was repealed by Pub. L. 107–273.
 
 #### Position Relating to Combating Domestic Terrorism
 

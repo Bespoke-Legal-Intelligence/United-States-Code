@@ -16,11 +16,11 @@ Changes were made in phraseology.
 
 <b>1986</b>—Pub. L. 99–651 inserted last sentence.
 
-<b>1959</b>—Pub. L. 86–312 inserted sentence to provide that place where retired judge maintains actual abode shall be deemed to be his official station and inserted “; official station” in section catchline.
+<b>1959</b>—Pub. L. 86–312 inserted sentence to provide that place where retired judge maintains actual abode shall be deemed to be his official station and inserted "; official station" in section catchline.
 
 #### Change of Name
 
-Words “magistrate judge” substituted for “magistrate” wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+Words "magistrate judge" substituted for "magistrate" wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
 #### Effective Date of 1986 Amendment
 

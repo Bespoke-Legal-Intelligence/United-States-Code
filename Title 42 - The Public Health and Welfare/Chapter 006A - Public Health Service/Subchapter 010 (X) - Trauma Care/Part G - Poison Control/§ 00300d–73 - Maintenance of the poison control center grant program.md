@@ -64,5 +64,5 @@ There is authorized to be appropriated to carry out this section, $27,500,000 fo
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–377, §5(b), Oct. 8, 2008, 122 Stat. 4067, provided that: “The amendment made by this section \[amending this section\] shall be effective as of the date of the enactment of this Act \[Oct. 8, 2008\] and shall apply to grants made on or after January 1, 2009.”
+Pub. L. 110–377, §5(b), Oct. 8, 2008, 122 Stat. 4067, provided that: "The amendment made by this section \[amending this section\] shall be effective as of the date of the enactment of this Act \[Oct. 8, 2008\] and shall apply to grants made on or after January 1, 2009."
 

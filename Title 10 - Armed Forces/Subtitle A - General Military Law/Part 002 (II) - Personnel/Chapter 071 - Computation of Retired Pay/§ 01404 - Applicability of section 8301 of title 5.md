@@ -22,5 +22,5 @@ The effect of the act of April 23, 1930 (5 U.S.C. 47a), in temporarily deferring
 
 #### Amendments
 
-<b>1966</b>—Pub. L. 89–718 substituted “8301” for “47a” in section catchline and text.
+<b>1966</b>—Pub. L. 89–718 substituted "8301" for "47a" in section catchline and text.
 

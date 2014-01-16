@@ -6,5 +6,5 @@ Any amount paid by a Federal agency pursuant to any contract entered into under 
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–375 inserted “, water, or wastewater treatment” after “payment of energy”.
+<b>2004</b>—Pub. L. 108–375 inserted ", water, or wastewater treatment" after "payment of energy".
 

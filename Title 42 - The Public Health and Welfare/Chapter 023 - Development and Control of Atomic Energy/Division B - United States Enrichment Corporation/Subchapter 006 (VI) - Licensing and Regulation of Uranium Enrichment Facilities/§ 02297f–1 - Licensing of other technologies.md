@@ -16,7 +16,7 @@ Section 5 of the Solar, Wind, Waste, and Geothermal Power Production Act of 1990
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–134 substituted “including” for “other than” and “sections 2073, 2093, and 2243” for “sections 2073 and 2093”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–134 substituted "including" for "other than" and "sections 2073, 2093, and 2243" for "sections 2073 and 2093".
 
 #### References to United States Enrichment Corporation
 

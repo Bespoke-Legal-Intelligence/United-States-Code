@@ -20,19 +20,19 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $5,000” in closing provisions.
+<b>1996</b>—Pub. L. 104–294 substituted "fined under this title" for "fined not more than $5,000" in closing provisions.
 
 <b>1994</b>—Pub. L. 103–394 amended section generally. Prior to amendment, section read as follows:
 
-“Whoever, being a custodian, trustee, marshal, or other officer of the court, knowingly purchases, directly or indirectly, any property of the estate of which he is such officer in a case under title 11; or
+"Whoever, being a custodian, trustee, marshal, or other officer of the court, knowingly purchases, directly or indirectly, any property of the estate of which he is such officer in a case under title 11; or
 
-“Whoever being such officer, knowingly refuses to permit a reasonable opportunity for the inspection of the documents and accounts relating to the affairs of estates in his charge by parties in interest when directed by the court to do so—
+"Whoever being such officer, knowingly refuses to permit a reasonable opportunity for the inspection of the documents and accounts relating to the affairs of estates in his charge by parties in interest when directed by the court to do so—
 
-“Shall be fined under this title, and shall forfeit his office, which shall thereupon become vacant.”
+"Shall be fined under this title, and shall forfeit his office, which shall thereupon become vacant."
 
-Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in third par.
+Pub. L. 103–322 substituted "fined under this title" for "fined not more than $500" in third par.
 
-<b>1978</b>—Pub. L. 95–598 struck out “referees and other” before “officers” in section catchline, and in text struck out “Whoever knowingly acts as a referee in a case in which he is directly or indirectly interested; or” before “Whoever, being a” and “referee, receiver,” before “custodian” and substituted “case under title 11” for “bankruptcy proceeding”.
+<b>1978</b>—Pub. L. 95–598 struck out "referees and other" before "officers" in section catchline, and in text struck out "Whoever knowingly acts as a referee in a case in which he is directly or indirectly interested; or" before "Whoever, being a" and "referee, receiver," before "custodian" and substituted "case under title 11" for "bankruptcy proceeding".
 
 #### Effective Date of 1994 Amendment
 

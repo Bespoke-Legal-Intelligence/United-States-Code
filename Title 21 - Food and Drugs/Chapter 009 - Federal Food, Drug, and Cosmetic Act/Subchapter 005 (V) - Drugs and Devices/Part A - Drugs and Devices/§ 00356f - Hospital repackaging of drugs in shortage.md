@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Drug
 
-&emsp;The term “drug” excludes any controlled substance (as such term is defined in section 802 of this title).
+&emsp;The term "drug" excludes any controlled substance (as such term is defined in section 802 of this title).
 
 #### (2) Health system
 
-&emsp;The term “health system” means a collection of hospitals that are owned and operated by the same entity and that share access to databases with drug order information for their patients.
+&emsp;The term "health system" means a collection of hospitals that are owned and operated by the same entity and that share access to databases with drug order information for their patients.
 
 #### (3) Repackage
 
-&emsp;For the purposes of this section only, the term “repackage”, with respect to a drug, means to divide the volume of a drug into smaller amounts in order to—
+&emsp;For the purposes of this section only, the term "repackage", with respect to a drug, means to divide the volume of a drug into smaller amounts in order to—
 
 &emsp;&emsp;(A) extend the supply of a drug in response to the placement of the drug on a drug shortage list under section 356e of this title; and
 

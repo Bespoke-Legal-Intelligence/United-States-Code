@@ -1,6 +1,6 @@
 ### §8902. Contracting authority
 
-(a) The Office of Personnel Management may contract with qualified carriers offering plans described by section 8903 or 8903a of this title, without regard to section 6101(b) to (d) of title 41 or other statute requiring competitive bidding. Each contract shall be for a uniform term of atleast 1 year, but may be made automatically renewable from term to term in the absence of notice of termination by either party.
+(a) The Office of Personnel Management may contract with qualified carriers offering plans described by section 8903 or 8903a of this title, without regard to section 6101(b) to (d) of title 41 or other statute requiring competitive bidding. Each contract shall be for a uniform term of at least 1 year, but may be made automatically renewable from term to term in the absence of notice of termination by either party.
 
 (b) To be eligible as a carrier for the plan described by section 8903(2) of this title, a company must be licensed to issue group health insurance in all the States and the District of Columbia.
 
@@ -20,7 +20,7 @@
 
 (h) The benefits and coverage made available under subsection (g) of this section are noncancelable by the carrier except for fraud, over-insurance, or nonpayment of periodic charges.
 
-(i) Rates charged under health benefits plans described by section 8903 or 8903a of this title shall reasonably and equitably reflect the cost of the benefits provided. Rates under health benefits plans described by section 8903(1) and (2) of this title shall be determined on a basis which, in the judgment of the Office, is consistent with the lowest schedule of basic rates generally charged for new group health benefit plans issued to large employers. The rates determined for the first contract term shall be continued for later contract terms, except that they may be readjusted for any later term, based on past experience and benefit adjustments under the later contract. Any readjustment in rates shall be made in advance of the contract term in which they will apply and on a basis which, in the judgment of the Office, is consistent with the general practice of carriers which issue group health benefit plans to large employers.
+(i) Rates charged under health benefits plans described by section 8903 or 8903a of this title shall reasonably and equitably reflect the cost of the benefits provided. Rates under health benefits plans described by section 8903(1) and (2) of this title shall be determined on a basis which,in the judgment of the Office, is consistent with the lowest schedule of basic rates generally charged for new group health benefit plans issued to large employers. The rates determined for the first contract term shall be continued for later contract terms, except that they may be readjusted for any later term, based on past experience and benefit adjustments under the later contract. Any readjustment in rates shall be made in advance of the contract term in which they will apply and on a basis which, in the judgment of the Office, is consistent with the general practice of carriers which issue group health benefit plans to large employers.
 
 (j) Each contract under this chapter shall require the carrier to agree to pay for or provide a health service or supply in an individual case if the Office finds that the employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title is entitled thereto under the terms of the contract.
 
@@ -144,7 +144,7 @@ Pub. L. 93–246 added subsec. (j) requiring the carrier to pay for or provide a
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to also being applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of Title 42, The Public Health and Welfare.
+Amendment by Pub. L. 105–12 effective Apr. 30, 1997, and applicable to Federal payments made pursuant to obligations incurred after Apr. 30, 1997, for items and services provided on or after such date, subject to alsobeing applicable with respect to contracts entered into, renewed, or extended after Apr. 30, 1997, as well as contracts entered into before Apr. 30, 1997, to the extent permitted under such contracts, see section 11 of Pub. L. 105–12, set out as an Effective Date note under section 14401 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1992 Amendment
 

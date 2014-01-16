@@ -14,7 +14,7 @@ The Secretary of the Interior may by rule after notice and comment pursuant to s
 
 #### (d) Loans by federally supervised, approved, regulated, or insured financial institutions
 
-A regulated lending institution or Federal agency lender may make loans secured by structures which are not eligible for flood insurance by reason of this section: <i>Provided</i>, That prior to making such a loan, such institution determines that the loans or structures securing the loan are within the Floodway.
+A regulated lending institution or Federal agency lender may make loans secured by structures which are not eligible for flood insurance by reason of this section: <i>Provided</i>, That prior to making such a loan, such institution determinesthat the loans or structures securing the loan are within the Floodway.
 
 (Pub. L. 90–448, title XIII, §1322, as added Pub. L. 99–450, §12, Oct. 8, 1986, 100 Stat. 1135; amended Pub. L. 100–242, title V, §545(e), Feb. 5, 1988, 101 Stat. 1942; Pub. L. 103–325, title V, §512(b), Sept. 23, 1994, 108 Stat. 2257.)
 
@@ -24,11 +24,11 @@ The National Flood Insurance Act, referred to in subsec. (a), probably means the
 
 Section 1600c(b)(2) of title 43, referred to in subsecs. (a) and (c), was struck out and former subsec. (b)(1)(ii) redesignated (b)(2) of section 1600c by Pub. L. 105–362, title IX, §901(d)(1), Nov. 10, 1998, 112 Stat. 3289. As amended, section 1600c(b)(2) no longer relates to maps required to be prepared and filed by the Secretary.
 
-This chapter, referred to in subsec. (b), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (d). Pub. L. 103–325 substituted “regulated lending institution or Federal agency lender” for “federally supervised, approved, regulated or insured financial institution”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–325 substituted "regulated lending institution or Federal agency lender" for "federally supervised, approved, regulated or insured financial institution".
 
 <b>1988</b>—Pub. L. 100–242 inserted section catchline.
 

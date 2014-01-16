@@ -28,7 +28,7 @@ For the purpose of subsection (b) of this section, a card, code, or other means 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(3). Pub. L. 111–203 substituted “Bureau” for “Board”.
+<b>2010</b>—Subsec. (b)(3). Pub. L. 111–203 substituted "Bureau" for "Board".
 
 #### Effective Date of 2010 Amendment
 

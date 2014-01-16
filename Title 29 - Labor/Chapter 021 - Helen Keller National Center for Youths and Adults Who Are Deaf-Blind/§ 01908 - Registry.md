@@ -10,11 +10,11 @@ No individual who is deaf-blind may be required to provide information to the Ce
 
 #### (c) Nondisclosure
 
-The Center (including the network of the Center) may not disclose information contained in a registry established under subsection (a) of this section to any individual or organization that is not affiliated with the Center, unless the individual to whom the information relates providesspecific written authorization for the Center to disclose the information.
+The Center (including the network of the Center) may not disclose information contained in a registry established under subsection (a) of this section to any individual or organization that is not affiliated with the Center, unless the individual to whom the information relates provides specific written authorization for the Center to disclose the information.
 
 #### (d) Privacy rights
 
-The requirements of section 552a of title 5 (commonly known as the “Privacy Act of 1974”) shall apply to personally identifiable information contained in the registries established by the Center under subsection (a) of this section, in the same manner and to the same extent as such requirements apply to a record of an agency.
+The requirements of section 552a of title 5 (commonly known as the "Privacy Act of 1974") shall apply to personally identifiable information contained in the registries established by the Center under subsection (a) of this section, in the same manner and to the same extent as such requirements apply to a record of an agency.
 
 #### (e) Removal of information
 

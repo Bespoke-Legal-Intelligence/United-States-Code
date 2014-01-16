@@ -8,11 +8,11 @@
 
 #### (A) Aquaculture
 
-&emsp;&emsp;The term “aquaculture” means the culture or husbandry of aquatic animals or plants by private industry for commercial purposes including the culture and growing of fish by private industry for the purpose of creating or augmenting publicly owned and regulated stocks of fish.
+&emsp;&emsp;The term "aquaculture" means the culture or husbandry of aquatic animals or plants by private industry for commercial purposes including the culture and growing of fish by private industry for the purpose of creating or augmenting publicly owned and regulated stocks of fish.
 
 #### (B) Solar energy
 
-&emsp;&emsp;The term “solar energy” means energy derived from sources (other than fossil fuels) and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974, as amended \[42 U.S.C. 5901 et seq.\].
+&emsp;&emsp;The term "solar energy" means energy derived from sources (other than fossil fuels) and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974, as amended \[42 U.S.C. 5901 et seq.\].
 
 #### (2) Loan purposes
 
@@ -76,7 +76,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 (1) The Secretary may participate in joint financing to facilitate development of private business enterprises in rural areas with the Economic Development Administration, the Small Business Administration, and the Department of Housing and Urban Development and other Federal and State agencies and with private and quasi-public financial institutions, through joint loans to applicants eligible under subsection (a) of this section for the purpose of improving, developing, or financing business, industry, and employment and improving the economic and environmental climate in rural areas or through joint grants to applicants eligible under subsection (c) of this section for such purposes, including in the case of loans or grants the development, construction, or acquisition of land, buildings, plants, equipment, access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refining, service and fees.
 
-(2) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, that is calculated to or is likely to result in the transfer from one area to another of any employment or business activity provided by operations of the applicant, but this limitation shall not be construed to prohibit assistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary of such entity if the establishment of such branch, affiliate, or subsidiary will not result in an increase in unemployment in the area of original location or in any other area where such entity conducts business operations unless there is reason to believe that such branch, affiliate, or subsidiary is being established with the intention of closing down the operations of the existing business entity in the area of its original location or in any other area where it conducts such operations.
+(2) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, that is calculated to or is likely to result in the transfer from one area to another of any employment or business activity provided by operations of the applicant, but thislimitation shall not be construed to prohibit assistance for the expansion of an existing business entity through the establishment of a new branch, affiliate, or subsidiary of such entity if the establishment of such branch, affiliate, or subsidiary will not result in an increase in unemployment in the area of original location or in any other area where such entity conducts business operations unless there is reason to believe that such branch, affiliate, or subsidiary is being established with the intention of closing down the operations of the existing business entity in the area of its original location or in any other area where it conducts such operations.
 
 (3) No financial or other assistance shall be extended under any provision of this section, except for cases in which such assistance does not exceed $1,000,000 or for cases in which direct employment will not be increased by more than fifty employees, which is calculated to or likely to result in an increase in the production of goods, materials, or commodities, or the availability of services or facilities in the area, when there is not sufficient demand for such goods, materials, commodities, services, or facilities, to employ the efficient capacity of existing competitive commercial or industrial enterprises, unless such financial or other assistance will not have an adverse effect upon existing competitive enterprises in the area.
 
@@ -96,11 +96,11 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (A) Nonprofit institution
 
-&emsp;&emsp;The term “nonprofit institution” means any organization or institution, including an accredited institution of higher education, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+&emsp;&emsp;The term "nonprofit institution" means any organization or institution, including an accredited institution of higher education, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
 #### (B) United States
 
-&emsp;&emsp;The term “United States” means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the other territories and possessions of the United States.
+&emsp;&emsp;The term "United States" means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the other territories and possessions of the United States.
 
 #### (2) Grants
 
@@ -124,7 +124,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 &emsp;&emsp;&emsp;(ii) Programs for the collection, interpretation, and dissemination of information that may be useful to individuals, cooperatives, small businesses, and other similar entities in rural areas served by the center.
 
-&emsp;&emsp;&emsp;(iii) Programs providing training and instruction for individuals, cooperatives, small businesses, and other similar entities in rural areas served by the center.
+&emsp;&emsp;&emsp;(iii) Programs providing training and instruction for individuals, cooperatives,small businesses, and other similar entities in rural areas served by the center.
 
 &emsp;&emsp;&emsp;(iv) Programs providing loans and grants to individuals, cooperatives, small businesses, and other similar entities in rural areas served by the center.
 
@@ -194,7 +194,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (A) Definition of socially disadvantaged group
 
-&emsp;&emsp;In this paragraph, the term “socially disadvantaged group” has the meaning given the term in section 2003(e) of this title.
+&emsp;&emsp;In this paragraph, the term "socially disadvantaged group" has the meaning given the term in section 2003(e) of this title.
 
 #### (B) Reservation of funds
 
@@ -216,9 +216,9 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (f) Grants to broadcasting systems
 
-#### (1) “Statewide” defined
+#### (1) "Statewide" defined
 
-&emsp;In this subsection, the term “statewide” means having a coverage area of not less than 90 percent of the population of a State and not less than 80 percent of the rural land area of the State (as determined by the Secretary).
+&emsp;In this subsection, the term "statewide" means having a coverage area of not less than 90 percent of the population of a State and not less than 80 percent of the rural land area of the State (as determined by the Secretary).
 
 #### (2) Grants
 
@@ -232,7 +232,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (1) Definition of business and industry loan
 
-&emsp;In this subsection, the term “business and industry loan” means a business and industry direct or guaranteed loan that is made or guaranteed by the Secretary under subsection (a)(2)(A) of this section, including guarantees described in paragraph (3)(A)(ii).
+&emsp;In this subsection, the term "business and industry loan" means a business and industry direct or guaranteed loan that is made or guaranteed by the Secretary under subsection (a)(2)(A) of this section, including guarantees described in paragraph (3)(A)(ii).
 
 #### (2) Loan guarantees for the purchase of cooperative stock
 
@@ -278,7 +278,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (5) Fees
 
-&emsp;The Secretary may assess a 1-time fee for any guaranteed business and industry loan in an amount that does not exceed 2 percent of the guaranteed principal portion of the loan.
+&emsp;The Secretary may assess a 1-time fee for any guaranteed business and industry loan inan amount that does not exceed 2 percent of the guaranteed principal portion of the loan.
 
 #### (6) Loan guarantees in nonrural areas
 
@@ -338,7 +338,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (i) Locally or regionally produced agricultural food product
 
-&emsp;&emsp;&emsp;The term “locally or regionally produced agricultural food product” means any agricultural food product that is raised, produced, and distributed in—
+&emsp;&emsp;&emsp;The term "locally or regionally produced agricultural food product" means any agricultural food product that is raised, produced, and distributed in—
 
 &emsp;&emsp;&emsp;&emsp;(I) the locality or region in which the final product is marketed, so that the total distance that the product is transported is less than 400 miles from the origin of the product; or
 
@@ -346,7 +346,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (ii) Underserved community
 
-&emsp;&emsp;&emsp;The term “underserved community” means a community (including an urban or rural community and an Indian tribal community) that has, as determined by the Secretary—
+&emsp;&emsp;&emsp;The term "underserved community" means a community (including an urban or rural community and an Indian tribal community) that has, as determined by the Secretary—
 
 &emsp;&emsp;&emsp;&emsp;(I) limited access to affordable, healthy foods, including fresh fruits and vegetables, in grocery retail stores or farmer-to-consumer direct markets; and
 
@@ -368,7 +368,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (iv) Reports
 
-&emsp;&emsp;&emsp;Not later than 2 years after the date of enactment of this paragraph and annually thereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes projects carried out using loans or loan guarantees made under clause (i), including—
+&emsp;&emsp;&emsp;Not later than 2 years after the date of enactment of this paragraph and annuallythereafter, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes projects carried out using loans or loan guarantees made under clause (i), including—
 
 &emsp;&emsp;&emsp;&emsp;(I) the characteristics of the communities served; and
 
@@ -392,7 +392,7 @@ The Secretary may guarantee loans made under subsection (a) of this section to f
 
 #### (1) Definition of national nonprofit agricultural assistance institution
 
-&emsp;In this subsection, the term “national nonprofit agricultural assistance institution” means an organization that—
+&emsp;In this subsection, the term "national nonprofit agricultural assistance institution" means an organization that—
 
 &emsp;&emsp;(A) is described in section 501(c)(3) of title 26 and exempt from taxation under <sup>2</sup> 501(a) of that title;
 
@@ -420,7 +420,7 @@ The Secretary may guarantee loans made under subsection (a) of this section to f
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall carry out the program under this subsection by making a grant to,or offering to enter into a cooperative agreement with, a national nonprofit agricultural assistance institution.
+&emsp;&emsp;The Secretary shall carry out the program under this subsection by making a grant to, or offering to enter into a cooperative agreement with, a national nonprofit agricultural assistance institution.
 
 #### (B) Grant amount
 
@@ -440,15 +440,15 @@ Effective beginning on the date of enactment of this subsection through Septembe
 
 The Federal Nonnuclear Energy Research and Development Act of 1974, as amended, referred to in subsec. (a)(1)(B), is Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, which is classified generally to chapter 74 (§5901 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of Title 42 and Tables.
 
-For definition of “this chapter”, referred to in subsec. (d)(5), (7), see note set out under section 1921 of this title.
+For definition of "this chapter", referred to in subsec. (d)(5), (7), see note set out under section 1921 of this title.
 
 Title V of the Housing Act of 1949, referred to in subsec. (d)(7), is title V of act July 15, 1949, ch. 338, 63 Stat. 432, as amended, which is classified generally to subchapter III (§1471 et seq.) of chapter 8A of Title 42, The Public Health and Welfare. For complete classification of this Act to the code, see References in Text note set out under section 1441 of Title 42 and Tables.
 
-The date of enactment of this paragraph and the date of enactment of this subsection, referred to in subsecs. (g)(9)(B)(iv) and (j), respectively, is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
+The date of enactment of this paragraph and the date of enactment of this subsection, referred to in subsecs.\(g)(9)(B)(iv) and (j), respectively, is the date of enactment of Pub. L. 110–246, which was approved June 18, 2008.
 
 #### Codification
 
-In subsec. (d)(7), “chapter 11 of title 31” substituted for “the Budget and Accounting Act of 1921 \[31 U.S.C. 1 et seq.\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d)(7), "chapter 11 of title 31" substituted for "the Budget and Accounting Act of 1921 \[31 U.S.C. 1 et seq.\]" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 The authorities provided by each provision of, and each amendment made by, Pub. L. 110–246, as in effect on Sept. 30, 2012, to continue, and the Secretary of Agriculture to carry out the authorities, until the later of Sept. 30, 2013, or the date specified in the provision of, or amendment made by, Pub. L. 110–246, see section 701(a) of Pub. L. 112–240, set out in a 1-Year Extension of Agricultural Programs note under section 8701 of this title.
 
@@ -458,81 +458,81 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Pub. L. 110–246, §6012(a)(1), inserted section catchline.
 
-Subsec. (a). Pub. L. 110–246, §6012(a)(1), (2), inserted subsec. heading, inserted par. (1) heading and introductory provisions, designated former fourth sentence as subpar. (A), inserted subpar. heading, substituted “The” for “As used in this subsection, the”, designated former second sentence as subpar. (B), inserted subpar. heading, substituted “The” for “For the purposes of this subsection, the”, designated former first sentence as par. (2), inserted par. heading, in introductory provisions, substituted “The Secretary may” for “The Secretary may also” and inserted “and private investment funds that invest primarily in cooperative organizations” after “nonprofit”, redesignated former cls. (1) to (4) as subpars. (A) to (D), respectively, designated former third sentence as par. (3), inserted par. heading, substituted “Loans described in paragraph (2)” for “Such loans”, and designated former fifth sentence as par. (4) and inserted par. heading.
+Subsec. (a). Pub. L. 110–246, §6012(a)(1), (2), inserted subsec. heading, inserted par. (1) heading and introductory provisions, designated former fourth sentence as subpar. (A), inserted subpar. heading, substituted "The" for "As used in this subsection, the", designated former second sentence as subpar. (B), inserted subpar. heading, substituted "The" for "For the purposes of this subsection, the", designated former first sentence as par. (2), inserted par. heading, in introductory provisions, substituted "The Secretary may" for "The Secretary may also" and inserted "and private investment funds that invest primarily in cooperative organizations" after "nonprofit", redesignated former cls. (1) to (4) as subpars. (A) to (D), respectively, designated former third sentence as par. (3), inserted par. heading, substituted "Loans described in paragraph (2)" for "Such loans", and designated former fifth sentence as par. (4) and inserted par. heading.
 
-Subsec. (e)(5)(A). Pub. L. 110–246, §6013(a)(1), substituted “carrying out activities to promote and assist the development of cooperatively and mutually owned businesses” for “administering a nationally coordinated, regionally or State-wide operated project”.
+Subsec. (e)(5)(A). Pub. L. 110–246, §6013(a)(1), substituted "carrying out activities to promote and assist the development of cooperatively and mutually owned businesses" for "administering a nationally coordinated, regionally or State-wide operated project".
 
-Subsec. (e)(5)(B). Pub. L. 110–246, §6013(a)(2), inserted “to promote and assist the development of cooperatively and mutually owned businesses” before semicolon at end.
+Subsec. (e)(5)(B). Pub. L. 110–246, §6013(a)(2), inserted "to promote and assist the development of cooperatively and mutually owned businesses" before semicolon at end.
 
-Subsec. (e)(5)(D), (E). Pub. L. 110–246, §6013(a)(3)–(6), added subpar. (E), redesignated former subpar. (E) as (D), struck out “and” at end, and struck out former subpar. (D) which read as follows: “demonstrate the ability to create horizontal linkages among businesses within and among various sectors in rural areas of the United States and vertical linkages to domestic and international markets;”.
+Subsec. (e)(5)(D), (E). Pub. L. 110–246, §6013(a)(3)–(6), added subpar. (E), redesignated former subpar. (E) as (D), struck out "and" at end, and struck out former subpar. (D) which read as follows: "demonstrate the ability to create horizontal linkages among businesses within and among various sectors in rural areas of the United States and vertical linkages to domestic and international markets;".
 
-Subsec. (e)(5)(F). Pub. L. 110–246, §6013(a)(7), struck out “greater than” before “a 25 percent”.
+Subsec. (e)(5)(F). Pub. L. 110–246, §6013(a)(7), struck out "greater than" before "a 25 percent".
 
-Subsec. (e)(6). Pub. L. 110–246, §6013(b), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: “The Secretary shall make grants under this subsection for a period of 1 year. The Secretary shall evaluate programs receiving assistance under this subsection. If the Secretary determines it to be in the best interest of the program, the Secretary may award an additional grant to the program for the immediately succeeding year without application for the grant.”
+Subsec. (e)(6). Pub. L. 110–246, §6013(b), added par. (6) and struck out former par. (6). Prior to amendment, text read as follows: "The Secretary shall make grants under this subsection for a period of 1 year. The Secretary shall evaluate programs receiving assistance under this subsection. If the Secretary determines it to be in the best interest of the program, the Secretary may award an additional grant to the program for the immediately succeeding year without application for the grant."
 
-Subsec. (e)(7) to (12). Pub. L. 110–246, §6013(c)–(f), added pars. (7), (10), and (11), redesignated former pars. (7) to (9) as (8), (9), and (12), respectively, and in par. (12), substituted “2008 through 2012” for “1996 through 2007”.
+Subsec. (e)(7) to (12). Pub. L. 110–246, §6013(c)–(f), added pars. (7), (10), and (11), redesignated former pars. (7) to (9) as (8), (9), and (12), respectively, and in par. (12), substituted "2008 through 2012" for "1996 through 2007".
 
-Subsec. (f)(3). Pub. L. 110–246, §6014, substituted “2008 through 2012” for “2002 through 2007”.
+Subsec. (f)(3). Pub. L. 110–246, §6014, substituted "2008 through 2012" for "2002 through 2007".
 
-Subsec. (g)(1). Pub. L. 110–246, §6012(a)(3)(A), (b)(2), substituted “subsection (a)(2)(A)” for “subsection (a)(1)” and inserted “, including guarantees described in paragraph (3)(A)(ii)” before period at end.
+Subsec. (g)(1). Pub. L. 110–246, §6012(a)(3)(A), (b)(2), substituted "subsection (a)(2)(A)" for "subsection (a)(1)" and inserted ", including guarantees described in paragraph (3)(A)(ii)" before period at end.
 
-Subsec. (g)(3)(A). Pub. L. 110–246, §6012(a)(3)(B), substituted “Eligibility” for “In general” in subpar. heading, designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
+Subsec. (g)(3)(A). Pub. L. 110–246, §6012(a)(3)(B), substituted "Eligibility" for "In general" in subpar. heading, designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
-Subsec. (g)(6)(A)(iii). Pub. L. 110–246, §6012(b)(2), substituted “subsection (a)(2)(A)” for “subsection (a)(1)”.
+Subsec. (g)(6)(A)(iii). Pub. L. 110–246, §6012(b)(2), substituted "subsection (a)(2)(A)" for "subsection (a)(1)".
 
-Subsec. (g)(8)(A)(ii). Pub. L. 110–246, §6012(a)(3)(C), inserted “that” after “project” in introductory provisions, added subcls. (I) and (II), and struck out former subcls. (I) and (II) which read as follows:
+Subsec. (g)(8)(A)(ii). Pub. L. 110–246, §6012(a)(3)(C), inserted "that" after "project" in introductory provisions, added subcls. (I) and (II), and struck out former subcls. (I) and (II) which read as follows:
 
-“(I) in a rural area; and
+"(I) in a rural area; and
 
-“(II) that provides for the value-added processing of agricultural commodities.”
+"(II) that provides for the value-added processing of agricultural commodities."
 
-Subsec. (g)(8)(C). Pub. L. 110–246, §6012(b)(2), substituted “subsection (a)(2)(A)” for “subsection (a)(1)”.
+Subsec. (g)(8)(C). Pub. L. 110–246, §6012(b)(2), substituted "subsection (a)(2)(A)" for "subsection (a)(1)".
 
 Subsec. (g)(9). Pub. L. 110–246, §6015, added par. (9).
 
 Subsecs. (i), (j). Pub. L. 110–246, §§6016, 6017, added subsecs. (i) and (j).
 
-<b>2002</b>—Subsec. (a)(3). Pub. L. 107–171, §6013, inserted “and other renewable energy systems (including wind energy systems and anaerobic digestors for the purpose of energy generation)” after “solar energy systems”.
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–171, §6013, inserted "and other renewable energy systems (including wind energy systems and anaerobic digestors for the purpose of energy generation)" after "solar energy systems".
 
-Subsec. (c)(1). Pub. L. 107–171, §6014, substituted “Grants” for “In general” in heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
+Subsec. (c)(1). Pub. L. 107–171, §6014, substituted "Grants" for "In general" in heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
 
-Subsec. (e)(5)(F). Pub. L. 107–171, §6015(1), inserted “, except that the Secretary shall not require non-Federal financial support in an amount that is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382))” before period at end.
+Subsec. (e)(5)(F). Pub. L. 107–171, §6015(1), inserted ", except that the Secretary shall not require non-Federal financial support in an amount that is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382))" before period at end.
 
-Subsec. (e)(9). Pub. L. 107–171, §6015(2), substituted “2007” for “2002”.
+Subsec. (e)(9). Pub. L. 107–171, §6015(2), substituted "2007" for "2002".
 
 Subsec. (f)(3). Pub. L. 107–171, §6016, added par. (3).
 
 Subsec. (g). Pub. L. 107–171, §6017, added subsec. (g) and struck out heading and text of former subsec. (g). Text read as follows:
 
-“(1)
+"(1)
 
-Definition of farmer.—In this subsection, the term ‘farmer’ means any farmer that the Secretary determines is a family farmer.
+Definition of farmer.—In this subsection, the term 'farmer' means any farmer that the Secretary determines is a family farmer.
 
-“(2)
+"(2)
 
 Loan guarantees.—The Secretary may guarantee loans under this section to individual farmers for the purpose of purchasing start-up capital stock of a farmer cooperative established for the purpose of processing an agricultural commodity.
 
-“(3)
+"(3)
 
-Eligibility.—To be eligible for a loan guarantee under this subsection, a farmer must produce the agricultural commodity that will be processed by the cooperative.”
+Eligibility.—To be eligible for a loan guarantee under this subsection, a farmer must produce the agricultural commodity that will be processed by the cooperative."
 
 Subsec. (h). Pub. L. 107–171, §6007(b), added subsec. (h).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–127, §747(a)(1), in first sentence, struck out “and” before “(3)” and inserted before period at end “, and (4) to facilitate economic opportunity for industries undergoing adjustment from terminated Federal agricultural price and income support programs or increased competition from foreign trade”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §747(a)(1), in first sentence, struck out "and" before "(3)" and inserted before period at end ", and (4) to facilitate economic opportunity for industries undergoing adjustment from terminated Federal agricultural price and income support programs or increased competition from foreign trade".
 
-Pub. L. 104–127, §635(b), in third sentence, substituted “(4) of” for “(3) of”.
+Pub. L. 104–127, §635(b), in third sentence, substituted "(4) of" for "(3) of".
 
-Subsec. (b). Pub. L. 104–127, §747(a)(2), inserted heading, redesignated par. (2) as subsec. (b), struck out “(2)” before “The Secretary”, and struck out par. (1) which read as follows: “Secretary may make grants, not to exceed $50,000,000 annually, to eligible applicants under this section for pollution abatement and control projects in rural areas. No such grant shall exceed 50 per centum of the development cost of such a project.”
+Subsec. (b). Pub. L. 104–127, §747(a)(2), inserted heading, redesignated par. (2) as subsec. (b), struck out "(2)" before "The Secretary", and struck out par. (1) which read as follows: "Secretary may make grants, not to exceed $50,000,000 annually, to eligible applicants under this section for pollution abatement and control projects in rural areas. No such grant shall exceed 50 per centum of the development cost of such a project."
 
-Subsec. (c). Pub. L. 104–127, §747(a)(3), inserted heading, in par. (1), inserted par. heading and inserted “(including nonprofit entities)” after “private business enterprises”, in par. (2), inserted par. heading and substituted “award grants on a competitive basis” for “make grants”, and added par. (3).
+Subsec. (c). Pub. L. 104–127, §747(a)(3), inserted heading, in par. (1), inserted par. heading and inserted "(including nonprofit entities)" after "private business enterprises", in par. (2), inserted par. heading and substituted "award grants on a competitive basis" for "make grants", and added par. (3).
 
-Subsec. (d)(2) to (4). Pub. L. 104–127, §661(d)(1), substituted “provision of this section” for “provision of this section and sections 1924(b) and 1942(b) of this title”.
+Subsec. (d)(2) to (4). Pub. L. 104–127, §661(d)(1), substituted "provision of this section" for "provision of this section and sections 1924(b) and 1942(b) of this title".
 
-Subsec. (d)(6). Pub. L. 104–127, §661(d)(2), substituted “this section” for “this section, section 1924 of this title, or section 1942 of this title”.
+Subsec. (d)(6). Pub. L. 104–127, §661(d)(2), substituted "this section" for "this section, section 1924 of this title, or section 1942 of this title".
 
 Subsec. (e). Pub. L. 104–127, §747(a)(4), added subsec. (e) and struck out former subsec. (e) which authorized the insuring or guaranteeing of loans for the purpose of constructing or improving subterminal facilities.
 
-Subsec. (e)(2). Pub. L. 104–180 amended Pub. L. 104–127, §747(a)(4), which enacted subsec. (e), to insert “effective October 1, 1996,” after “The Secretary shall make grants” in par. (2).
+Subsec. (e)(2). Pub. L. 104–180 amended Pub. L. 104–127, §747(a)(4), which enacted subsec. (e), to insert "effective October 1, 1996," after "The Secretary shall make grants" in par. (2).
 
 Subsec. (f). Pub. L. 104–127, §759B, added par. (1), redesignated existing provisions as par. (2), and added par. heading.
 
@@ -540,11 +540,11 @@ Pub. L. 104–127, §747(a)(5), (6), redesignated subsec. (j) as (f) and struck 
 
 Pub. L. 104–127, §705(1), made technical amendment to directory language of Pub. L. 101–624, §2347(a). See 1990 Amendment note below.
 
-Subsec. (g). Pub. L. 104–127, §747(a)(5), (7), added subsec. (g) and struck out former subsec. (g) which read as follows: “In carrying out subsection (f) of this section, the Secretary may provide technical assistance to alleviate or prevent conditions of excessive unemployment or underemployment of persons residing in economically distressed rural areas that the Secretary determines have a substantial need for such assistance. Such assistance shall include planning and feasibility studies, management and operational assistance, and studies evaluating the needs for development potential of projects that increase employment and improve economic growth in such areas.”
+Subsec. (g). Pub. L. 104–127, §747(a)(5), (7), added subsec. (g) and struck out former subsec. (g) which read as follows: "In carrying out subsection (f) of this section, the Secretary may provide technical assistance to alleviate or prevent conditions of excessive unemployment or underemployment of persons residing in economically distressed rural areas that the Secretary determines have a substantial need for such assistance. Such assistance shall include planning and feasibility studies, management and operational assistance, and studies evaluating the needs for development potential of projects that increase employment and improve economic growth in such areas."
 
 Pub. L. 104–127, §705(1), made technical amendment to directory language of Pub. L. 101–624, §2347(a). See 1990 Amendment note below.
 
-Subsec. (h). Pub. L. 104–127, §747(a)(5), struck out subsec. (h) which read as follows: “The Secretary may make grants to defray not to exceed 75 percent of the administrative costs incurred by organizations and public bodies to carry out projects for which grants or loans are made under subsection (f) of this section. For purposes of determining the non-Federal share of such costs, the Secretary shall consider contributions in cash and in kind, fairly evaluated, including but not limited to premises, equipment, and services.”
+Subsec. (h). Pub. L. 104–127, §747(a)(5), struck out subsec. (h) which read as follows: "The Secretary may make grants to defray not to exceed 75 percent of the administrative costs incurred by organizations and public bodies to carry out projects for which grants or loans are made under subsection (f) of this section. For purposes of determining the non-Federal share of such costs, the Secretary shall consider contributions in cash and in kind, fairly evaluated, including but not limited to premises, equipment, and services."
 
 Pub. L. 104–127, §705(1), made technical amendment to directory language of Pub. L. 101–624, §2347(a). See 1990 Amendment note below.
 
@@ -554,53 +554,53 @@ Subsec. (j). Pub. L. 104–127, §747(a)(6), redesignated subsec. (j) as (f).
 
 <b>1992</b>—Subsec. (c). Pub. L. 102–554 designated existing provisions as par. (1) and added par. (2).
 
-Pub. L. 102–552, which directed the substitution of “business enterprises or the creation, expansion, and operation of rural distance learning networks or rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students,” for “business enterprises,” in section 310B(c) without specifying the name of the act, was executed to this section, which is section 310B of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress.
+Pub. L. 102–552, which directed the substitution of "business enterprises or the creation, expansion, and operation of rural distance learning networks or rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students," for "business enterprises," in section 310B(c) without specifying the name of the act, was executed to this section, which is section 310B of the Consolidated Farm and Rural Development Act, to reflect the probable intent of Congress.
 
-<b>1991</b>—Subsec. (d)(5), (7). Pub. L. 102–237, §701(h)(1)(C), (D), substituted “this chapter” for “this Act”.
+<b>1991</b>—Subsec. (d)(5), (7). Pub. L. 102–237, §701(h)(1)(C), (D), substituted "this chapter" for "this Act".
 
 Subsec. (f)(4). Pub. L. 102–237, §701(c)(3), (4), redesignated par. (4), relating to grants to statewide private nonprofit public television systems, as subsec. (j), and transferred such provision to follow subsec. (i).
 
-Subsec. (i)(2)(B)(iv). Pub. L. 102–237, §701(c)(1), substituted “(iii) of this subparagraph” for “(ii) of this subsection”.
+Subsec. (i)(2)(B)(iv). Pub. L. 102–237, §701(c)(1), substituted "(iii) of this subparagraph" for "(ii) of this subsection".
 
-Subsec. (i)(5)(A). Pub. L. 102–237, §701(c)(2), inserted closing parenthesis after “section 2008(b)(3) of this title”.
+Subsec. (i)(5)(A). Pub. L. 102–237, §701(c)(2), inserted closing parenthesis after "section 2008(b)(3) of this title".
 
 Subsec. (j). Pub. L. 102–237, §701(c)(3)–(5), redesignated subsec. (f)(4), relating to grants to statewide private nonprofit public television systems, as subsec. (j), transferred such provision to follow subsec. (i), and inserted heading.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–624, §2388(b), substituted “paragraphs (1) and (3)” for “subsections (a) and (c)”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624, §2388(b), substituted "paragraphs (1) and (3)" for "subsections (a) and (c)".
 
 Subsec. (b). Pub. L. 101–624, §2325, designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d). Pub. L. 101–624, §2388(c), designated first par. and pars. (1) to (6) as (1) to (7), respectively, substituted “paragraphs (2) and (3)” for “paragraph (1) and (2)” in par. (4), and realigned margins of pars. (5) to (7).
+Subsec. (d). Pub. L. 101–624, §2388(c), designated first par. and pars. (1) to (6) as (1) to (7), respectively, substituted "paragraphs (2) and (3)" for "paragraph (1) and (2)" in par. (4), and realigned margins of pars. (5) to (7).
 
 Subsec. (f). Pub. L. 101–624, §2386, added par. (4) relating to grants to statewide private nonprofit public television systems.
 
 Pub. L. 101–624, §2347, formerly §2347(a), as renumbered by Pub. L. 104–127, §705(1), added subsec. (f) and struck out former subsec. (f) which read as follows:
 
-“(1) The Secretary may make grants under this subsection to public and nonprofit private institutions for the purpose of enabling them to establish and operate centers of rural technology development that have, as a primary objective, the improvement of the economic condition of rural areas by promoting the development (through technological innovation and adaptation of existing technology) and commercialization of (A) new products that can be produced in rural areas, and (B) new processes that can be used in such production.
+"(1) The Secretary may make grants under this subsection to public and nonprofit private institutions for the purpose of enabling them to establish and operate centers of rural technology development that have, as a primary objective, the improvement of the economic condition of rural areas by promoting the development (through technological innovation and adaptation of existing technology) and commercialization of (A) new products that can be produced in rural areas, and (B) new processes that can be used in such production.
 
-“(2) Grants under this subsection may be made on a competitive basis. In making grants, the Secretary shall give preference to applicants that will establish centers for rural technology in areas that have (A) few industries and agribusinesses, (B) high levels of unemployment, (C) high rates of out-migration of people, business, and industries, and (D) low levels of per capita income.
+"(2) Grants under this subsection may be made on a competitive basis. In making grants, the Secretary shall give preference to applicants that will establish centers for rural technology in areas that have (A) few industries and agribusinesses, (B) high levels of unemployment, (C) high rates of out-migration of people, business, and industries, and (D) low levels of per capita income.
 
-“(3) If grants are to be made under this subsection, the Secretary shall issue regulations implementing this subsection that shall include provisions for the monitoring and evaluation of the rural technology development activities carried out by institutions that receive grants under this subsection.”
+"(3) If grants are to be made under this subsection, the Secretary shall issue regulations implementing this subsection that shall include provisions for the monitoring and evaluation of the rural technology development activities carried out by institutions that receive grants under this subsection."
 
 Subsecs. (g), (h). Pub. L. 101–624, §2347, formerly §2347(a), as renumbered by Pub. L. 104–127, §705(1), added subsecs. (g) and (h).
 
 Subsec. (i). Pub. L. 101–624, §2337, added subsec. (i).
 
-<b>1987</b>—Subsec. (c). Pub. L. 100–203 inserted “and private nonprofit corporations” after “to public bodies” and substituted “to finance and facilitate development of small and emerging” for “to facilitate development of”.
+<b>1987</b>—Subsec. (c). Pub. L. 100–203 inserted "and private nonprofit corporations" after "to public bodies" and substituted "to finance and facilitate development of small and emerging" for "to facilitate development of".
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–409, §2(1), inserted provision that no loan may be made, insured, or guaranteed under this subsection that exceeds $25,000,000 in principal amount.
 
 Subsec. (f). Pub. L. 99–409, §2(2), added subsec. (f).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–438 authorized the Secretary to make and insure loans for the purpose of reducing the reliance on nonrenewable energy resources by encouraging the development and construction of solar energy systems, including the modification of existing systems, in rural areas and defined term “solar energy”, for purposes of subsection (a) of this section, as meaning energy derived from sources, other than fossil fuels, and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974, as amended.
+<b>1980</b>—Subsec. (a). Pub. L. 96–438 authorized the Secretary to make and insure loans for the purpose of reducing the reliance on nonrenewable energy resources by encouraging the development and construction of solar energy systems, including the modification of existing systems, in rural areas and defined term "solar energy", for purposes of subsection (a) of this section, as meaning energy derived from sources, other than fossil fuels, and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974, as amended.
 
 Subsec. (e). Pub. L. 96–358 added subsec. (e).
 
 <b>1978</b>—Subsec. (d)(1), (2). Pub. L. 95–334, §112(1), inserted exception for assistance less than $1,000,000, or where direct employment will not be increased by more than 50 employees.
 
-Subsec. (d)(3). Pub. L. 95–334, §112, inserted exception for assistance less than $1,000,000, or where direct employment will not be increased by more than 50 employees and substituted “30” for “60”.
+Subsec. (d)(3). Pub. L. 95–334, §112, inserted exception for assistance less than $1,000,000, or where direct employment will not be increased by more than 50 employees and substituted "30" for "60".
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–113 inserted reference to the conservation, development, and utilization of water for aquaculture purposes and inserted definition of “aquaculture”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–113 inserted reference to the conservation, development, and utilization of water for aquaculture purposes and inserted definition of "aquaculture".
 
 <b>1973</b>—Subsec. (d)(4) to (6). Pub. L. 91–524, §817, as added by Pub. L. 93–86, added pars. (4) to (6).
 
@@ -610,7 +610,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–180, title VII, §731, Aug. 6, 1996, 110 Stat. 1600, provided in part: “That this section \[amending this section\] shall take effect upon enactment of this Act into law \[Aug. 6, 1996\].”
+Pub. L. 104–180, title VII, §731, Aug. 6, 1996, 110 Stat. 1600, provided in part: "That this section \[amending this section\] shall take effect upon enactment of this Act into law \[Aug. 6, 1996\]."
 
 #### Effective Date of 1991 Amendment
 
@@ -634,57 +634,57 @@ Powers, duties, and assets of agencies, offices, and other entities within Depar
 
 #### Business Development
 
-Pub. L. 101–624, title XXIII, §2336, Nov. 28, 1990, 104 Stat. 4022, provided that: “The purposes of this chapter \[chapter 2 (§§2336, 2337) of subtitle D of title XXIII of Pub. L. 101–624, amending this section\] are to—
+Pub. L. 101–624, title XXIII, §2336, Nov. 28, 1990, 104 Stat. 4022, provided that: "The purposes of this chapter \[chapter 2 (§§2336, 2337) of subtitle D of title XXIII of Pub. L. 101–624, amending this section\] are to—
 
-&emsp;“(1) provide funds to improve telecommunications service in rural areas; and
+&emsp;"(1) provide funds to improve telecommunications service in rural areas; and
 
-&emsp;“(2) provide access to advanced telecommunications services and computer networks to improve job opportunities and the business environment in rural areas.”
+&emsp;"(2) provide access to advanced telecommunications services and computer networks to improve job opportunities and the business environment in rural areas."
 
 #### Guarantee by Secretary of Agriculture of Loans to Nonprofit National Rural Development and Finance Corporations
 
-Pub. L. 99–198, title XIII, §1323, Dec. 23, 1985, 99 Stat. 1534, as amended by Pub. L. 99–425, title IV, §407(c),Sept. 30, 1986, 100 Stat. 971; Pub. L. 99–500, §101(a) \[title VI, §641\], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, §101(a) \[title VI, §641\], Oct. 30, 1986, 100 Stat. 3341, 3341–35; Pub. L. 100–202, §101(k) \[title VI, §636\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–357, provided that:
+Pub. L. 99–198, title XIII, §1323, Dec. 23, 1985, 99 Stat. 1534, as amended by Pub. L. 99–425, title IV, §407(c), Sept. 30, 1986, 100 Stat. 971; Pub. L. 99–500, §101(a) \[title VI, §641\], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, §101(a) \[title VI, §641\], Oct. 30, 1986, 100 Stat. 3341, 3341–35; Pub. L. 100–202, §101(k) \[title VI, §636\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–357, provided that:
 
-“(a)(1) Prior to September 30, 1988, the Secretary of Agriculture (hereafter in this section referred to as the ‘Secretary’) shall guarantee loans made by public agencies or private organizations (including loans made by financial institutions such as insurance companies) to nonprofit national rural development and finance corporations that establish similar and affiliated statewide rural development and finance programs for the purpose of providing loans, guarantees, and other financial assistance to profit or nonprofit local businesses to improve business, industry, and employment opportunities in a rural area (as determined by the Secretary).
+"(a)(1) Prior to September 30, 1988, the Secretary of Agriculture (hereafter in this section referred to as the 'Secretary') shall guarantee loans made by public agencies or private organizations (including loans made by financial institutions such as insurance companies) to nonprofit national rural development and finance corporations that establish similar and affiliated statewide rural development and finance programs for the purpose of providing loans, guarantees, and other financial assistance to profit or nonprofit local businesses to improve business, industry, and employment opportunities in a rural area (as determined by the Secretary).
 
-“(2) To be eligible to obtain a loan guarantee under this subsection, a corporation must—
+"(2) To be eligible to obtain a loan guarantee under this subsection, a corporation must—
 
-&emsp;“(A) demonstrate to the Secretary the ability of the corporation to administer a national revolving rural development loan program;
+&emsp;"(A) demonstrate to the Secretary the ability of the corporation to administer a national revolving rural development loan program;
 
-&emsp;“(B) be prepared to commit financial resources under the control of the corporation to the establishment of affiliated statewide rural development and finance programs; and
+&emsp;"(B) be prepared to commit financial resources under the control of the corporation to the establishment of affiliated statewide rural development and finance programs; and
 
-&emsp;“(C) have secured commitments of significant financial support from public agencies and private organizations for such affiliated statewide programs.
+&emsp;"(C) have secured commitments of significant financial support from public agencies and private organizations for such affiliated statewide programs.
 
-“(3) A national rural development and finance corporation receiving a loan guarantee under this subsection shall base a determination to establish an affiliated statewide program in large part on the willingness of States and private organizations to sponsor and make funds available to such program.
+"(3) A national rural development and finance corporation receiving a loan guarantee under this subsection shall base a determination to establish an affiliated statewide program in large part on the willingness of States and private organizations to sponsor and make funds available to such program.
 
-“(4) Notwithstanding any other provision of law, for the fiscal year ending September 30, 1986, of the amounts available to guarantee loans in accordance with section 310B of the Consolidated Farm and Rural Development Act (7 U.S.C. 1932) from the Rural Development Insurance Fund, $20,000,000 shall be used by the Secretary to guarantee loans under the national rural development and finance program established under this subsection, to remain available until expended.
+"(4) Notwithstanding any other provision of law, for the fiscal year ending September 30, 1986, of the amounts available to guarantee loans in accordance with section 310B of the Consolidated Farm and Rural Development Act (7 U.S.C. 1932) from the Rural Development Insurance Fund, $20,000,000 shall be used by the Secretary to guarantee loans under the national rural development and finance program established under this subsection, to remain available until expended.
 
-“(5) Notwithstanding any provision to the contrary of subsection (4) above, the $20,000,000 which was available pursuant to subsection (4) shall continue to be available and shall be used by the Secretary prior to September 30, 1988, to guarantee loans for the national rural development and finance program and shall remain available until expended.
+"(5) Notwithstanding any provision to the contrary of subsection (4) above, the $20,000,000 which was available pursuant to subsection (4) shall continue to be available and shall be used by the Secretary prior to September 30, 1988, to guarantee loans for the national rural development and finance program and shall remain available until expended.
 
-“(b)(1) Prior to September 30, 1988, the Secretary shall make grants, from funds transferred under paragraph (2), to national rural development and finance corporations for the purpose of establishing a rural development program to provide financial and technical assistance to compliment \[sic\] the loan guarantees made or to be made to such corporations under subsection (a).
+"(b)(1) Prior to September 30, 1988, the Secretary shall make grants, from funds transferred under paragraph (2), to national rural development and finance corporations for the purpose of establishing a rural development program to provide financial and technical assistance to compliment \[sic\] the loan guarantees made or to be made to such corporations under subsection (a).
 
-“(2) All funds in, appropriated to, or repaid to the Rural Development Loan Fund, including those on deposit and available upon date of enactment \[Dec. 23, 1985\], under sections 623 and 633 \[42 U.S.C. 9812, 9822\] of the Community Economic Development Act of 1981 (42 U.S.C. 9801 et seq.) shall be transferred to the Secretary provided that—
+"(2) All funds in, appropriated to, or repaid to the Rural Development Loan Fund, including those on deposit and available upon date of enactment \[Dec. 23, 1985\], under sections 623 and 633 \[42 U.S.C. 9812, 9822\] of the Community Economic Development Act of 1981 (42 U.S.C. 9801 et seq.) shall be transferred to the Secretary provided that—
 
-&emsp;“(A) all funds on deposit and available on date of enactment shall be used for the purpose of making grants under paragraph (1) and shall remain available until expended;
+&emsp;"(A) all funds on deposit and available on date of enactment shall be used for the purpose of making grants under paragraph (1) and shall remain available until expended;
 
-&emsp;“(B) notwithstanding any other provision of law, all loans to intermediary borrowers made prior to date of enactment, shall upon date of enactment, for the life of such loan, bear a rate of interest not to exceed that in effect upon the date of issuance of such loans; and
+&emsp;"(B) notwithstanding any other provision of law, all loans to intermediary borrowers made prior to date of enactment, shall upon date of enactment, for the life of such loan, bear a rate of interest not to exceed that in effect upon the date of issuance of such loans; and
 
-&emsp;“(C) notwithstanding paragraph (1), all funds other than funds to which subparagraph (A) applies shall be used by the Secretary to make loans—
+&emsp;"(C) notwithstanding paragraph (1), all funds other than funds to which subparagraph (A) applies shall be used by the Secretary to make loans—
 
-&emsp;&emsp;“(i) to the entities;
+&emsp;&emsp;"(i) to the entities;
 
-&emsp;&emsp;“(ii) for the purposes; and
+&emsp;&emsp;"(ii) for the purposes; and
 
-&emsp;&emsp;“(iii) subject to the terms and conditions;
+&emsp;&emsp;"(iii) subject to the terms and conditions;
 
-> &emsp;specified in the first, second, and last sentences of section 623(a) of the Community Economic Development Act of 1981 (42 U.S.C. 9812(a)). For purposes of this subparagraph, any reference in such sentences to the Secretary shall be deemed to be a reference to the Secretary of Agriculture.”
+> &emsp;specified in the first, second, and last sentences of section 623(a) of the Community Economic Development Act of 1981 (42 U.S.C. 9812(a)). For purposes of this subparagraph, any reference in such sentences to the Secretary shall be deemed to be a reference to the Secretary of Agriculture."
 
-Pub. L. 99–500, §101(a) \[title VI, §641\], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, §101(a) \[title VI, §641\], Oct. 30, 1986, 100 Stat. 3341, 3341–35, provided in part: “That such grant funds \[probably means grant funds under section 1323(b)(1) of Pub. L. 99–198, set out above\] may be used by such corporation to provide technical assistance and financial assistance, including capitalizing revolving loan programs, pursuant to the Act.”
+Pub. L. 99–500, §101(a) \[title VI, §641\], Oct. 18, 1986, 100 Stat. 1783, 1783–35, and Pub. L. 99–591, §101(a) \[title VI, §641\], Oct. 30, 1986, 100 Stat. 3341, 3341–35, provided in part: "That such grant funds \[probably means grant funds under section 1323(b)(1) of Pub. L. 99–198, set out above\] may be used by such corporation to provide technical assistance and financial assistance, including capitalizing revolving loan programs, pursuant to the Act."
 
 #### Limits on Grants for Fiscal Years 1982, 1983, and 1984
 
 Pub. L. 97–35, title I, §120, Aug. 13, 1981, 95 Stat. 367, provided in part that, notwithstanding any other provision of law, there was authorized to be appropriated for grants pursuant to section 310B(c) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1932) not to exceed: $5,007,000 for fiscal year 1982, $5,280,000 for fiscal year 1983, and $5,553,000 for fiscal year 1984.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “centers.”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "centers."</i>
 
-<i><sup>2</sup></i><i> So in original. The word “section” probably should appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "section" probably should appear.</i>
 

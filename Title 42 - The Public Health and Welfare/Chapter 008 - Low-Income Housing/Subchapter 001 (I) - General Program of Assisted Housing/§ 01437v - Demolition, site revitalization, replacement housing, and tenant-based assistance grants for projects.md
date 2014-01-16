@@ -30,7 +30,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (2) Supplemental funds
 
-&emsp;In calculating the amount of supplemental funds provided by a grantee for purposes of paragraph (1), the grantee may include amounts from other Federal sources, any State or local government sources, any private contributions, the value of any donated material or building, the value of any lease ona building, the value of the time and services contributed by volunteers, and the value of any other in-kind services or administrative costs provided.
+&emsp;In calculating the amount of supplemental funds provided by a grantee for purposes of paragraph (1), the grantee may include amounts from other Federal sources, any State or local government sources, any private contributions, the value of any donated material or building, the value of any lease on a building, the value of the time and services contributed by volunteers, and the value of any other in-kind services or administrative costs provided.
 
 #### (3) Exemption
 
@@ -68,7 +68,7 @@ The Secretary may make grants as provided in this section to applicants whose ap
 
 #### (2) Endowment trust for supportive services
 
-&emsp;In using grant amounts under this section made available in fiscal year 2000 or thereafter for supportive services under paragraph (1)(L), a public housing agency may deposit such amounts in an endowment trust to provide supportive services over such period of time as the agency determines. Such amounts shall be provided to the agency by the Secretary in a lump sum when requested by the agency, shall be invested in a wise and prudent manner, and shall be used (together with any interest thereon earned) only for eligible uses pursuant to paragraph (1)(L). A public housing agency may use amounts in an endowment trust under this paragraph in conjunction with other amounts donated or otherwise made available to the trust for similar purposes.
+&emsp;In using grant amounts under this section made available in fiscal year 2000 or thereafter for supportive services under paragraph (1)(L), a public housing agency may deposit such amounts in an endowment trust to providesupportive services over such period of time as the agency determines. Such amounts shall be provided to the agency by the Secretary in a lump sum when requested by the agency, shall be invested in a wise and prudent manner, and shall be used (together with any interest thereon earned) only for eligible uses pursuant to paragraph (1)(L). A public housing agency may use amounts in an endowment trust under this paragraph in conjunction with other amounts donated or otherwise made available to the trust for similar purposes.
 
 #### (e) Application and selection
 
@@ -134,7 +134,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Applicant
 
-&emsp;The term “applicant” means—
+&emsp;The term "applicant" means—
 
 &emsp;&emsp;(A) any public housing agency that is not designated as troubled pursuant to section 1437d(j)(2) of this title;
 
@@ -150,7 +150,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Severely distressed public housing
 
-&emsp;The term “severely distressed public housing” means a public housing project (or building in a project)—
+&emsp;The term "severely distressed public housing" means a public housing project (or building in a project)—
 
 &emsp;&emsp;(A) that—
 
@@ -172,7 +172,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (3) Supportive services
 
-&emsp;The term “supportive services” includes all activities that will promote upward mobility, self-sufficiency, and improved quality of life for the residents of the public housing project involved, including literacy training, job training, day care, transportation, and economic development activities.
+&emsp;The term "supportive services" includes all activities that will promote upward mobility, self-sufficiency, and improved quality of life for the residents of the public housing project involved, including literacy training, job training, day care, transportation, and economic development activities.
 
 #### (k) Grantee reporting
 
@@ -200,7 +200,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (2) Technical assistance and program oversight
 
-&emsp;Of the amount appropriated pursuant to paragraph (1) for any fiscal year, the Secretary may use up to 2 percent for technical assistance or contract expertise, including assistance in connection with the establishment and operation of computer centers in public housing through the Neighborhoods <sup>3</sup> Networks initiative described in subsection (d)(1)(G) of this section. Such assistance or contract expertise may be provided directly or indirectly by grants, contracts, or cooperative agreements, and shall include training, and the cost of necessary travel for participants in such training, by or to officials of the Department of Housing and Urban Development, of public housing agencies, and of residents.
+&emsp;Of the amount appropriated pursuant to paragraph (1) for any fiscal year, the Secretary may use up to 2 percent for technical assistance or contract expertise, including assistance in connection with the establishment and operation of computer centers in public housing through the Neighborhoods <sup>3</sup> Networks initiative described in subsection (d)(1)(G) of this section. Such assistance or contract expertise may be provided directly or indirectly by grants, contracts, or cooperative agreements, and shall include training, and the costof necessary travel for participants in such training, by or to officials of the Department of Housing and Urban Development, of public housing agencies, and of residents.
 
 #### (3) Set-aside for main street housing grants
 
@@ -214,7 +214,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (2) Eligible project
 
-&emsp;For purposes of this subsection, the term “eligible project” means a project that—
+&emsp;For purposes of this subsection, the term "eligible project" means a project that—
 
 &emsp;&emsp;(A) the Secretary determines, under the criteria established pursuant to paragraph (3), is a main street project;
 
@@ -280,7 +280,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (A) Affordable housing
 
-&emsp;&emsp;The term “affordable housing” means rental or homeownership dwelling units that—
+&emsp;&emsp;The term "affordable housing" means rental or homeownership dwelling units that—
 
 &emsp;&emsp;&emsp;(i) are made available for initial occupancy to low-income families, with a subset of units made available to very- and extremely-low income families; and
 
@@ -288,7 +288,7 @@ The Secretary shall submit to the Congress an annual report setting forth—
 
 #### (B) Smaller community
 
-&emsp;&emsp;The term “smaller community” means a unit of general local government (as such term is defined in section 5302 of this title) that—
+&emsp;&emsp;The term "smaller community" means a unit of general local government (as suchterm is defined in section 5302 of this title) that—
 
 &emsp;&emsp;&emsp;(i) has a population of 50,000 or fewer; and
 
@@ -310,75 +310,75 @@ Section 503(a) of the Quality Housing and Work Responsibility Act of 1998, refer
 
 #### Amendments
 
-<b>2011</b>—Subsec. (m)(1). Pub. L. 112–55, §222(1), substituted “fiscal year 2012.” for “fiscal year 2010.”
+<b>2011</b>—Subsec. (m)(1). Pub. L. 112–55, §222(1), substituted "fiscal year 2012." for "fiscal year 2010."
 
-Subsec. (o). Pub. L. 112–55, §222(2), substituted “September 30, 2012.” for “September 30, 2010.”
+Subsec. (o). Pub. L. 112–55, §222(2), substituted "September 30, 2012." for "September 30, 2010."
 
-<b>2009</b>—Subsec. (m)(1). Pub. L. 111–117, §222(1), substituted “fiscal year 2010.” for “fiscal year 2009.”
+<b>2009</b>—Subsec. (m)(1). Pub. L. 111–117, §222(1), substituted "fiscal year 2010." for "fiscal year 2009."
 
-Pub. L. 111–8, §223(1), which directed the substitution of “2009” for “2003”, was executed by making the substitution for “2008”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 110–161, §224(1). See 2007 Amendment note below.
+Pub. L. 111–8, §223(1), which directed the substitution of "2009" for "2003", was executed by making the substitution for "2008", to reflect the probable intent of Congress and the intervening amendment by Pub. L. 110–161, §224(1). See 2007 Amendment note below.
 
-Subsec. (o). Pub. L. 111–117, §222(2), substituted “September 30, 2010.” for “September 30, 2009.”
+Subsec. (o). Pub. L. 111–117, §222(2), substituted "September 30, 2010." for "September 30, 2009."
 
-Pub. L. 111–8, §223(2), which directed substitution of “September 30, 2009” for “September 30, 2007”, was executed by making the substitution for “September 30, 2008”, to reflect the probable intent of Congress and the intervening amendment by Pub. L. 110–161, §224(2). See 2007 Amendment note below.
+Pub. L. 111–8, §223(2), which directed substitution of "September 30, 2009" for "September 30, 2007", was executed by making the substitution for "September 30, 2008", to reflect the probable intent of Congress and the intervening amendment by Pub. L. 110–161, §224(2). See 2007 Amendment note below.
 
-<b>2007</b>—Subsec. (m)(1). Pub. L. 110–161, §224(1), which directed substitution of “2008” for “2003”, was executed by making the substitution for “2007”, to reflect the probable intent of Congress and the amendment by Pub. L. 109–289, §21045(1), as added by Pub. L. 110–5. See below.
+<b>2007</b>—Subsec. (m)(1). Pub. L. 110–161, §224(1), which directed substitution of "2008" for "2003", was executed by making the substitution for "2007", to reflect the probable intent of Congress and the amendment by Pub. L. 109–289, §21045(1), as added by Pub. L. 110–5. See below.
 
-Pub. L. 109–289, §21045(1), as added by Pub. L. 110–5, substituted “2007” for “2003”.
+Pub. L. 109–289, §21045(1), as added by Pub. L. 110–5, substituted "2007" for "2003".
 
-Subsec. (o). Pub. L. 110–161, §224(2), substituted “September 30, 2008” for “September 30, 2007”.
+Subsec. (o). Pub. L. 110–161, §224(2), substituted "September 30, 2008" for "September 30, 2007".
 
-Pub. L. 109–289, §21045(2), as added by Pub. L. 110–5, substituted “September 30, 2007” for “September 30, 2006”.
+Pub. L. 109–289, §21045(2), as added by Pub. L. 110–5, substituted "September 30, 2007" for "September 30, 2006".
 
 <b>2003</b>—Subsec. (a). Pub. L. 108–186, §403(a), inserted concluding provisions.
 
-Subsec. (e)(2). Pub. L. 108–186, §402(a)(1), substituted “The Secretary shall establish criteria for the award of grants under this section and shall include among the factors—” for “The Secretary shall establish selection criteria for the award of grants under this section and shall include such factors as—” in introductory provisions.
+Subsec. (e)(2). Pub. L. 108–186, §402(a)(1), substituted "The Secretary shall establish criteria for the award of grants under this section and shall include among the factors—" for "The Secretary shall establish selection criteria for the award of grants under this section and shall include such factors as—" in introductory provisions.
 
-Subsec. (e)(2)(B). Pub. L. 108–186, §402(a)(2), struck out “large-scale” after “for managing”.
+Subsec. (e)(2)(B). Pub. L. 108–186, §402(a)(2), struck out "large-scale" after "for managing".
 
-Subsec. (e)(2)(D). Pub. L. 108–186, §402(a)(3), inserted “and ongoing implementation” after “development” and “, except that the Secretary may not award a grant under this section unless the applicant has involved affected public housing residents at the beginning and during the planning process for the revitalization program, prior to submission of an application” before semicolon at end.
+Subsec. (e)(2)(D). Pub. L. 108–186, §402(a)(3), inserted "and ongoing implementation" after "development" and ", except that the Secretary may not award a grant under this section unless the applicant has involved affected public housing residents at the beginning and during the planning process for the revitalization program, prior to submission of an application" before semicolon at end.
 
 Subsec. (e)(2)(I) to (L). Pub. L. 108–186, §402(a)(4)–(6), added subpars. (I) to (K) and redesignated former subpar. (I) as (L).
 
 Subsec. (j)(2)(A)(iii)(III). Pub. L. 108–186, §402(b), added subcl. (III).
 
-Subsec. (l)(3). Pub. L. 108–186, §403(c)(1), substituted “, including a specification of the amount and type of assistance provided under subsection (n) of this section;” for “; and”.
+Subsec. (l)(3). Pub. L. 108–186, §403(c)(1), substituted ", including a specification of the amount and type of assistance provided under subsection (n) of this section;" for "; and".
 
 Subsec. (l)(4), (5). Pub. L. 108–186, §403(c)(2), (3), added par. (4) and redesignated former par. (4) as (5).
 
-Subsec. (m)(1). Pub. L. 108–186, §402(d), which directed substitution of “through 2006” for “, 2001, and 2002” could not be executed because the words “, 2001, and 2002” did not appear subsequent to amendment by Pub. L. 108–7, §215(a). See below.
+Subsec. (m)(1). Pub. L. 108–186, §402(d), which directed substitution of "through 2006" for ", 2001, and 2002" could not be executed because the words ", 2001, and 2002" did not appear subsequent to amendment by Pub. L. 108–7, §215(a). See below.
 
-Pub. L. 108–7, §215(a), substituted “$574,000,000 for fiscal year 2003” for “$600,000,000 for fiscal year 1999 and such sums as may be necessary for each of fiscal years 2000, 2001, and 2002”.
+Pub. L. 108–7, §215(a), substituted "$574,000,000 for fiscal year 2003" for "$600,000,000 for fiscal year 1999 and such sums as may be necessary for each of fiscal years 2000, 2001, and 2002".
 
 Subsec. (m)(3). Pub. L. 108–186, §403(d), added par. (3).
 
 Subsec. (n). Pub. L. 108–186, §403(b)(2), added subsec. (n). Former subsec. (n) redesignated (o).
 
-Pub. L. 108–186, §402(e), substituted “September 30, 2006” for “September 30, 2004”.
+Pub. L. 108–186, §402(e), substituted "September 30, 2006" for "September 30, 2004".
 
-Pub. L. 108–7, §215(b), substituted “September 30, 2004” for “September 30, 2002”.
+Pub. L. 108–7, §215(b), substituted "September 30, 2004" for "September 30, 2002".
 
 Subsec. (o) Pub. L. 108–186, §403(b)(1), redesignated subsec. (n) as (o).
 
-<b>2000</b>—Subsec. (d)(1)(G). Pub. L. 106–377, §1(a)(1) \[title II, §214(b)(1)\], inserted before semicolon “, including a Neighborhood Networks initiative for the establishment and operation of computer centers in public housing for the purpose of enhancing the self-sufficiency, employability, an economic self-reliance of public housing residents by providing them with onsite computer access and training resources”.
+<b>2000</b>—Subsec. (d)(1)(G). Pub. L. 106–377, §1(a)(1) \[title II, §214(b)(1)\], inserted before semicolon ", including a Neighborhood Networks initiative for the establishment and operation of computer centers in public housing for the purpose of enhancing the self-sufficiency, employability, an economic self-reliance of public housing residents by providing them with onsite computer access and training resources".
 
-Subsec. (m)(2). Pub. L. 106–377, §1(a)(1) \[title II, §214(b)(2)\], inserted before period at end of first sentence “, including assistance in connection with the establishment and operation of computer centers in public housing through the Neighborhoods Networks initiative described in subsection (d)(1)(G) of this section”.
+Subsec. (m)(2). Pub. L. 106–377, §1(a)(1) \[title II, §214(b)(2)\], inserted before period at end of first sentence ", including assistance in connection with the establishment and operation of computer centers in public housing through the Neighborhoods Networks initiative described in subsection (d)(1)(G) of this section".
 
 <b>1998</b>—Pub. L. 105–276 amended section generally. Prior to amendment, section authorized planning grants for development of revitalization programs for severely distressed public housing and implementation grants to carry out revitalization programs for such housing, authorized exceptions to general program rules, established Office of Severely Distressed Public Housing Revitalization, and required annual report to Congress.
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–99 temporarily substituted “Exception” for “Exceptions” in subsec. heading and struck out “(1)
+<b>1996</b>—Subsec. (e). Pub. L. 104–99 temporarily substituted "Exception" for "Exceptions" in subsec. heading and struck out "(1)
 
-Long-term viability.—” before “The Secretary may waive” and par. (2) which read as follows:
+Long-term viability.—" before "The Secretary may waive" and par. (2) which read as follows:
 
-“(2)
+"(2)
 
-Selection of tenants.—For projects revitalized under this section, a public housing agency may select tenants pursuant to a local system of preferences, in lieu of selecting tenants pursuant to the preferences specified under section 1437d(c)(4)(A)(i) of this title. Such local system shall be established in writing and shall respond to local housing needs and priorities as determined by the public housing agency. The public housing agency shall hold 1 or more public hearings to obtain the views of low-income tenants and other interested parties on the housing needs and priorities of the agency's jurisdiction.” See Effective and Termination Dates of 1996 Amendments note below.
+Selection of tenants.—For projects revitalized under this section, a public housing agency may select tenants pursuant to a local system of preferences, in lieu of selecting tenants pursuant to the preferencesspecified under section 1437d(c)(4)(A)(i) of this title. Such local system shall be established in writing and shall respond to local housing needs and priorities as determined by the public housing agency. The public housing agency shall hold 1 or more public hearings to obtain the views of low-income tenants and other interested parties on the housing needs and priorities of the agency's jurisdiction." See Effective and Termination Dates of 1996 Amendments note below.
 
-Subsec. (h)(3). Pub. L. 104–330 struck out “, except that it does not include any Indian housing authority” after “section 1437a(b) of this title”.
+Subsec. (h)(3). Pub. L. 104–330 struck out ", except that it does not include any Indian housing authority" after "section 1437a(b) of this title".
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–276, title V, §535(b), Oct. 21, 1998, 112 Stat. 2586, provided that: “The amendment made by this section \[amending this section\] is made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–276, title V, §535(b), Oct. 21, 1998, 112 Stat. 2586, provided that: "The amendment made by this section \[amending this section\] is made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."
 
 #### Effective and Termination Dates of 1996 Amendments
 
@@ -392,11 +392,11 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Study of Elderly and Disabled Public Housing Needs
 
-Pub. L. 108–186, title IV, §402(c), Dec. 16, 2003, 117 Stat. 2694, provided that: “Not later than 18 months after the date of enactment of this Act \[Dec. 16, 2003\], the Comptroller General of the United States shall submit a report to Congress regarding the extent of severely distressed elderly and non-elderly disabled public housing, and recommendations for improving that housing through the HOPE VI program or other means, taking into account the special needs of the residents.”
+Pub. L. 108–186, title IV, §402(c), Dec. 16, 2003, 117 Stat. 2694, provided that: "Not later than 18 months after the date of enactment of this Act \[Dec. 16, 2003\], the Comptroller General of the United States shall submit a report to Congress regarding the extent of severely distressed elderly and non-elderly disabled public housing, and recommendations for improving that housing through the HOPE VI program or other means, taking into account the special needs of the residents."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “and”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "and".</i>
 
 <i><sup>2</sup></i><i> So in original.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “Neighborhood”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "Neighborhood".</i>
 

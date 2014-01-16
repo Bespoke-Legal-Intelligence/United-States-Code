@@ -2,7 +2,7 @@
 
 (a)
 
-Accession Bonus Authorized.—Under regulations prescribed by the Secretary concerned, a person who executes a written agreement to accept a commission or an appointment as an officer of the armed forces and serve on active duty in a designated critical officer skill for the period specified in the agreement may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+Accession Bonus Authorized.—Under regulations prescribed by the Secretary concerned,a person who executes a written agreement to accept a commission or an appointment as an officer of the armed forces and serve on active duty in a designated critical officer skill for the period specified in the agreement may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
 (b)
 
@@ -30,39 +30,41 @@ Repayment.—An individual who, having received all or part of the bonus under a
 
 (g)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2013.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2014.
 
-(Added Pub. L. 107–107, div. A, title VI, §621(a), Dec. 28, 2001, 115 Stat. 1139; amended Pub. L. 107–314, div. A, title VI, §614(e), title X, §1062(c)(2), Dec. 2, 2002, 116 Stat. 2568, 2651; Pub. L. 108–136, div. A, title VI, §§614(e), 623, Nov. 24, 2003, 117 Stat. 1502, 1505; Pub. L. 108–375, div. A, title VI, §614(f), Oct. 28, 2004, 118 Stat. 1948; Pub. L. 109–163, div. A, title VI, §§624(f), 687(b)(32), Jan. 6, 2006, 119 Stat. 3295, 3332; Pub. L. 109–364, div. A, title VI, §614(f), Oct. 17, 2006, 120 Stat. 2249; Pub. L. 110–181, div. A, title VI, §614(e), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §614(e), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(5), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(5), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(5), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §615(5), Jan. 2, 2013, 126 Stat. 1777.)
+(Added Pub. L. 107–107, div. A, title VI, §621(a), Dec. 28, 2001, 115 Stat. 1139; amended Pub. L. 107–314, div. A, title VI, §614(e), title X, §1062(c)(2), Dec. 2, 2002, 116 Stat. 2568, 2651; Pub. L. 108–136, div. A, title VI, §§614(e), 623, Nov. 24, 2003, 117 Stat. 1502, 1505; Pub. L. 108–375, div. A, title VI, §614(f), Oct. 28, 2004, 118 Stat. 1948; Pub. L. 109–163, div. A, title VI, §§624(f), 687(b)(32), Jan. 6, 2006, 119 Stat. 3295, 3332; Pub. L. 109–364, div. A, title VI, §614(f), Oct. 17, 2006, 120 Stat. 2249; Pub. L. 110–181, div. A, title VI, §614(e), Jan. 28, 2008, 122 Stat. 149; Pub. L. 110–417, \[div. A\], title VI, §614(e), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(5), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(5), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(5), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §615(5), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §615(5), Dec. 26, 2013, 127 Stat. 781.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (g). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+<b>2013</b>—Subsec. (g). Pub. L. 113–66 substituted "December 31, 2014" for "December 31, 2013".
 
-<b>2011</b>—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (g). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-<b>2009</b>—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-<b>2008</b>—Subsec. (g). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+<b>2009</b>—Subsec. (g). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-Pub. L. 110–181 substituted “December 31, 2008” for “December 31, 2007”.
+<b>2008</b>—Subsec. (g). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
+
+Pub. L. 110–181 substituted "December 31, 2008" for "December 31, 2007".
 
 <b>2006</b>—Subsec. (f). Pub. L. 109–163, §687(b)(32), amended heading and text of subsec. (f) generally, substituting provisions referring to repayment provisions of section 303a(e) for specific provisions relating to repayment required when individual receives accession bonus payment but fails to accept commission or appointment as officer or to commence or complete agreed upon period of active duty.
 
-Subsec. (g). Pub. L. 109–364 substituted “December 31, 2007” for “December 31, 2006”.
+Subsec. (g). Pub. L. 109–364 substituted "December 31, 2007" for "December 31, 2006".
 
-Pub. L. 109–163, §624(f), substituted “December 31, 2006” for “December 31, 2005”.
+Pub. L. 109–163, §624(f), substituted "December 31, 2006" for "December 31, 2005".
 
-<b>2004</b>—Subsec. (g). Pub. L. 108–375 substituted “December 31, 2005” for “December 31, 2004”.
+<b>2004</b>—Subsec. (g). Pub. L. 108–375 substituted "December 31, 2005" for "December 31, 2004".
 
-<b>2003</b>—Subsecs. (a), (f)(1). Pub. L. 108–136, §623, inserted “or an appointment” after “commission”.
+<b>2003</b>—Subsecs. (a), (f)(1). Pub. L. 108–136, §623, inserted "or an appointment" after "commission".
 
-Subsec. (g). Pub. L. 108–136, §614(e), substituted “December 31, 2004” for “December 31, 2003”.
+Subsec. (g). Pub. L. 108–136, §614(e), substituted "December 31, 2004" for "December 31, 2003".
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–314, §1062(c)(2), struck out par. (1) designation before “The Secretary”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–314, §1062(c)(2), struck out par. (1) designation before "The Secretary".
 
-Subsec. (g). Pub. L. 107–314, §614(e), substituted “December 31, 2003” for “December 31, 2002”.
+Subsec. (g). Pub. L. 107–314, §614(e), substituted "December 31, 2003" for "December 31, 2002".
 
 #### Effective Date of 2008 Amendment
 

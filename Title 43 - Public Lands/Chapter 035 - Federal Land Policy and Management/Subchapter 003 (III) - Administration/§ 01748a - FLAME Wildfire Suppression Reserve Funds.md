@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Federal land
 
-&emsp;The term “Federal land” means—
+&emsp;The term "Federal land" means—
 
 &emsp;&emsp;(A) public land, as defined in section 1702 of this title;
 
@@ -20,15 +20,15 @@ In this section:
 
 #### (2) FLAME Fund
 
-&emsp;The term “FLAME Fund” means a FLAME Wildfire Suppression Reserve Fund established by subsection (b).
+&emsp;The term "FLAME Fund" means a FLAME Wildfire Suppression Reserve Fund established by subsection (b).
 
 #### (3) Relevant congressional committees
 
-&emsp;The term “relevant congressional committees” means the Committee on Appropriations, the Committee on Natural Resources, and the Committee on Agriculture of the House of Representatives and the Committee on Appropriations, the Committee on Energy and Natural Resources, and the Committee on Indian Affairs of the Senate.
+&emsp;The term "relevant congressional committees" means the Committee on Appropriations, the Committee on Natural Resources, and the Committee on Agriculture of the House of Representatives and the Committee on Appropriations, the Committee on Energy and Natural Resources, and the Committee on Indian Affairs of the Senate.
 
 #### (4) Secretary concerned
 
-&emsp;The term “Secretary concerned” means—
+&emsp;The term "Secretary concerned" means—
 
 &emsp;&emsp;(A) the Secretary of the Interior, with respect to—
 
@@ -118,7 +118,7 @@ The FLAME Funds shall be available to cover the costs of large or complex wildfi
 
 &emsp;&emsp;&emsp;&emsp;(II) the Secretary concerned determines that the fire has required an emergency Federal response based on the significant complexity, severity, or threat posed by the fire to human life, property, or resources; or
 
-&emsp;&emsp;&emsp;(ii) the cumulative costs of wildfire suppression and Federal emergency response activities for the Secretary concerned will exceed, within 30 days, all of the amounts previously appropriated (includingamounts appropriated under an emergency designation, but excluding amounts appropriated to the FLAME Fund) to the Secretary concerned for wildfire suppression and Federal emergency response.
+&emsp;&emsp;&emsp;(ii) the cumulative costs of wildfire suppression and Federal emergency response activities for the Secretary concerned will exceed, within 30 days, all of the amounts previously appropriated (including amounts appropriated under an emergency designation, but excluding amounts appropriated to the FLAME Fund) to the Secretary concerned for wildfire suppression and Federal emergency response.
 
 #### (3) State, private, and tribal land
 

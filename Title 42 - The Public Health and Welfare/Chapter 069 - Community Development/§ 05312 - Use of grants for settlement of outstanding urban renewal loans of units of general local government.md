@@ -12,13 +12,13 @@ The Secretary is authorized, notwithstanding any other provision of this chapter
 
 #### (b) Approval by Secretary of financial settlement of urban renewal project
 
-Upon application by any local public agency carrying out an urban renewal project under title I of the Housing Act of 1949 \[42 U.S.C. 1450et seq.\], which application is approved by the governing body of the unit of general local government in which the project is located, the Secretary may approve a financial settlement of such project if he finds that a surplus of capital grant funds after full repayment of temporary loan indebtedness will result and may authorize the unit of general local government to use such surplus funds, without deduction or offset, in accordance with the provisions of this chapter.
+Upon application by any local public agency carrying out an urban renewal project under title I of the Housing Act of 1949 \[42 U.S.C. 1450 et seq.\], which application is approved by the governing body of the unit of general local government in which the project is located, the Secretary may approve a financial settlement of such project if he finds that a surplus of capital grant funds after full repayment of temporary loan indebtedness will result and may authorize the unit of general local government to use such surplus funds, without deduction or offset, in accordance with the provisions of this chapter.
 
 (Pub. L. 93–383, title I, §112, Aug. 22, 1974, 88 Stat. 650; Pub. L. 97–35, title III, §309(k), Aug. 13, 1981, 95 Stat. 397; Pub. L. 98–181, title I \[title I, §109\], Nov. 30, 1983, 97 Stat. 1168; Pub. L. 98–479, title I, §101(a)(13)(A), Oct. 17, 1984, 98 Stat. 2220.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in text, was in the original "this title", meaning title I of Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, which is classified principally to this chapter. For complete classification of title I to the Code, see Tables.
 
 The Housing Act of 1949, referred to in subsecs. (a) and (b), is act July 15, 1949, ch. 338, 63 Stat. 413. Title I of the Housing Act of 1949 was classified generally to subchapter II (§1450 et seq.) of chapter 8A of this title, and was omitted from the Code pursuant to section 5316 of this title which terminated authority to make grants or loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 
@@ -28,7 +28,7 @@ The Housing Act of 1949, referred to in subsecs. (a) and (b), is act July 15, 19
 
 <b>1983</b>—Subsec. (c). Pub. L. 98–181 added subsec. (c).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted “5303” for “5303(a)”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35 substituted "5303" for "5303(a)".
 
 #### Effective Date of 1983 Amendment
 

@@ -6,13 +6,13 @@ Except as provided in subsection (b) of this section, no assistance may be provi
 
 #### (b) Exception
 
-The prohibition contained in subsection (a) of this section shall not apply to any activity conducted pursuant to title V of the National Security Act of 1947 (50 U.S.C. 413 et seq.).
+The prohibition contained in subsection (a) of this section shall not apply to any activity conducted pursuant to title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\].
 
 (Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1132\], Nov. 29, 1999, 113 Stat. 1536, 1501A–493).
 
 #### References in Text
 
-The National Security Act of 1947, referred to in subsec. (b), is act July 26, 1947, ch. 343, 61 Stat. 495, as amended. Title V of the Act is classified generally to subchapter III (§413 et seq.) of chapter 15 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 401 of this title and Tables.
+The National Security Act of 1947, referred to in subsec. (b), is act July 26, 1947, ch. 343, 61 Stat. 495, which was formerly classified principally to chapter 15 (§401 et seq.) of this title, prior to editorial reclassification in chapter 44 (§3001 et seq.) of this title. Title V of the Act is now classified generally to subchapter III (§3091 et seq.) of chapter 44 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

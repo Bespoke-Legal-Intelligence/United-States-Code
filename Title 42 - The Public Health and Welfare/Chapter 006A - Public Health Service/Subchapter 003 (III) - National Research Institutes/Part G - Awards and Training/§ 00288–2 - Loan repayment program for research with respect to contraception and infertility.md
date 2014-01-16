@@ -6,7 +6,7 @@ The Secretary, in consultation with the Director of the Eunice Kennedy Shriver N
 
 #### (b) Contracts, obligated service, breach of contract
 
-The provisions of sections 254l–1, 254m, and 254o of this title shall, except as inconsistent with subsection (a) of this section, apply to the program established in subsection (a) of this section to the same extent and in the same manner as such provisions apply to the National HealthService Corps Loan Repayment Program established in subpart III of part D of subchapter II of this chapter.
+The provisions of sections 254l–1, 254m, and 254o of this title shall, except as inconsistent with subsection (a) of this section, apply to the program established in subsection (a) of this section to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in subpart III of part D of subchapter II of this chapter.
 
 #### (c) Availability of funds
 
@@ -16,7 +16,7 @@ Amounts available for carrying out this section shall remain available until the
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–154, which directed substitution of “Eunice Kennedy Shriver National Institute of Child Health and Human Development” for “National Institute on Child Health and Human Development”, was executed by making the substitution for “National Institute of Child Health and Human Development” to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (a). Pub. L. 110–154, which directed substitution of "Eunice Kennedy Shriver National Institute of Child Health and Human Development" for "National Institute on Child Health and Human Development", was executed by making the substitution for "National Institute of Child Health and Human Development" to reflect the probable intent of Congress.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–392 substituted “$35,000” for “$20,000”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–392 substituted "$35,000" for "$20,000".
 

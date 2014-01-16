@@ -6,15 +6,15 @@ For purposes of this subchapter—
 
 #### (1) Accident and health coverage
 
-&emsp;The term “accident and health coverage” means any coverage which, if provided by an insurance policy, would cause such policy to be a specified health insurance policy (as defined in section 4375(c)).
+&emsp;The term "accident and health coverage" means any coverage which, if provided by an insurance policy, would cause such policy to be a specified health insurance policy (as defined in section 4375(c)).
 
 #### (2) Insurance policy
 
-&emsp;The term “insurance policy” means any policy or other instrument whereby a contract of insurance is issued, renewed, or extended.
+&emsp;The term "insurance policy" means any policy or other instrument whereby a contract of insurance is issued, renewed, or extended.
 
 #### (3) United States
 
-&emsp;The term “United States” includes any possession of the United States.
+&emsp;The term "United States" includes any possession of the United States.
 
 #### (b) Treatment of governmental entities
 
@@ -22,7 +22,7 @@ For purposes of this subchapter—
 
 &emsp;For purposes of this subchapter—
 
-&emsp;&emsp;(A) the term “person” includes any governmental entity, and
+&emsp;&emsp;(A) the term "person" includes any governmental entity, and
 
 &emsp;&emsp;(B) notwithstanding any other law or rule of law, governmental entities shall not be exempt from the fees imposed by this subchapter except as provided in paragraph (2).
 
@@ -32,13 +32,13 @@ For purposes of this subchapter—
 
 #### (3) Exempt governmental program defined
 
-&emsp;For purposes of this subchapter, the term “exempt governmental program” means—
+&emsp;For purposes of this subchapter, the term "exempt governmental program" means—
 
 &emsp;&emsp;(A) any insurance program established under title XVIII of the Social Security Act,
 
 &emsp;&emsp;(B) the medical assistance program established by title XIX or XXI of the Social Security Act,
 
-&emsp;&emsp;(C) any program established by Federal law for providing medical care (other than through insurance policies) to individuals (or the spouses and dependents thereof) by reason of such individuals being members ofthe Armed Forces of the United States or veterans, and
+&emsp;&emsp;(C) any program established by Federal law for providing medical care (other than through insurance policies) to individuals (or the spouses and dependents thereof) by reason of such individuals being members of the Armed Forces of the United States or veterans, and
 
 &emsp;&emsp;(D) any program established by Federal law for providing medical care (other than through insurance policies) to members of Indian tribes (as defined in section 4(d) of the Indian Health Care Improvement Act).
 

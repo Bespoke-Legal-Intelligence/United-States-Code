@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 19, 1964, Pub. L. 88–449, §7(b), 78 Stat. 498.
 
-The word “have” is substituted for “maintain” for consistency in the revised title. The words “at all times” are omitted as unnecessary. The words “to receive” are substituted for “authorized to accept”, and the words “is notice to or service on” are substituted for “shall be deemed notice or service upon”, for consistency in the revised title.
+The word "have" is substituted for "maintain" for consistency in the revised title. The words "at all times" are omitted as unnecessary. The words "to receive" are substituted for "authorized to accept", and the words "is notice to or service on" are substituted for "shall be deemed notice or service upon", for consistency in the revised title.
 

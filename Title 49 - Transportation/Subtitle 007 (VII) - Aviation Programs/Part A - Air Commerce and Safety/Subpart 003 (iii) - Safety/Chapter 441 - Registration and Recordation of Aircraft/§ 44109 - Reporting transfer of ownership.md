@@ -38,5 +38,5 @@ Oct. 27, 1986, Pub. L. 99–570, §3401(d)(2), 100 Stat. 3207–102.
 
 In subsection (a), the text of 49 App.:1509(f) (last sentence) is omitted as unnecessary.
 
-In subsection (b)(1), the words “Within 30 days after the date of enactment of subsection (f) of section 1109 of the Federal Aviation Act of 1958 as added by this subsection” are omitted as obsolete.
+In subsection (b)(1), the words "Within 30 days after the date of enactment of subsection (f) of section 1109 of the Federal Aviation Act of 1958 as added by this subsection" are omitted as obsolete.
 

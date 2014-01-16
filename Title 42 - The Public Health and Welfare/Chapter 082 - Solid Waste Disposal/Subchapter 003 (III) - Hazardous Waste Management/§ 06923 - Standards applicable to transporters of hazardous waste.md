@@ -24,13 +24,13 @@ Not later than two years after November 8, 1984, and after opportunity for publi
 
 #### References in Text
 
-Section 6922(5) of this title, referred to in subsec. (a)(3), was redesignated section 6922(a)(5) of this title,by Pub. L. 98–616, title II, §224(a)(1), Nov. 8, 1984, 98 Stat. 3253.
+Section 6922(5) of this title, referred to in subsec. (a)(3), was redesignated section 6922(a)(5) of this title, by Pub. L. 98–616, title II, §224(a)(1), Nov. 8, 1984, 98 Stat. 3253.
 
 The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (a)(4), probably means the Marine Protection, Research, and Sanctuaries Act of 1972, Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended. Title I of the Marine Protection, Research, and Sanctuaries Act of 1972 is classified generally to subchapter I (§1411 et seq.) of chapter 27 of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
 
 #### Codification
 
-In subsec. (b), “chapter 51 of title 49” substituted for “the Hazardous Materials Transportation Act (88 Stat. 2156) \[49 App. U.S.C. 1801 et seq.\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (b), "chapter 51 of title 49" substituted for "the Hazardous Materials Transportation Act (88 Stat. 2156) \[49 App. U.S.C. 1801 et seq.\]" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
 
@@ -38,7 +38,7 @@ In subsec. (b), “chapter 51 of title 49” substituted for “the Hazardous Ma
 
 <b>1978</b>—Subsec. (a)(4). Pub. L. 95–609, §7(g)(1), inserted provision relating to title I of the Marine Protection, Research, and Sanctuaries Act.
 
-Subsec. (b). Pub. L. 95–609, §7(g)(2), substituted “Administrator under this section” for “Administrator under this subchapter”.
+Subsec. (b). Pub. L. 95–609, §7(g)(2), substituted "Administrator under this section" for "Administrator under this subchapter".
 
 #### Transfer of Functions
 

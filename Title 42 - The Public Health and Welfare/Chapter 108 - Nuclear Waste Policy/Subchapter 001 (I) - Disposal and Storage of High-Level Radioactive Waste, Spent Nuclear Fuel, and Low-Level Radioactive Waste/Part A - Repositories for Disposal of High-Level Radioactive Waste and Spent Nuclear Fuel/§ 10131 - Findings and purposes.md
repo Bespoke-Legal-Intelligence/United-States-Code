@@ -24,7 +24,7 @@
 
 &emsp;(3) to define the relationship between the Federal Government and the State governments with respect to the disposal of such waste and spent fuel; and
 
-&emsp;(4) to establish a Nuclear Waste Fund, composed of payments made by the generators and owners of such waste and spent fuel, that willensure that the costs of carrying out activities relating to the disposal of such waste and spent fuel will be borne by the persons responsible for generating such waste and spent fuel.
+&emsp;(4) to establish a Nuclear Waste Fund, composed of payments made by the generators and owners of such waste and spent fuel, that will ensure that the costs of carrying out activities relating to the disposal of such waste and spent fuel will be borne by the persons responsible for generating such waste and spent fuel.
 
 (Pub. L. 97–425, title I, §111, Jan. 7, 1983, 96 Stat. 2207.)
 

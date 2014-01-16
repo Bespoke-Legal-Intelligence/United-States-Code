@@ -16,7 +16,7 @@ Authorized Terms of Supervised Release.—Except as otherwise provided, the auth
 
 (c)
 
-Factors To Be Considered in Including a Term of Supervised Release.—The court, indetermining whether to include a term of supervised release, and, if a term of supervised release is to be included, in determining the length of the term and the conditions of supervised release, shall consider the factors set forth in section 3553(a)(1), (a)(2)(B), (a)(2)(C), (a)(2)(D), (a)(4), (a)(5), (a)(6), and (a)(7).
+Factors To Be Considered in Including a Term of Supervised Release.—The court, in determining whether to include a term of supervised release, and, if a term of supervised release is to be included, in determining the length of the term and the conditions of supervised release, shall consider the factors set forth in section 3553(a)(1), (a)(2)(B), (a)(2)(C), (a)(2)(D), (a)(4), (a)(5), (a)(6), and (a)(7).
 
 (d)
 
@@ -38,7 +38,7 @@ Modification of Conditions or Revocation.—The court may, after considering the
 
 &emsp;(2) extend a term of supervised release if less than the maximum authorized term was previously imposed, and may modify, reduce, or enlarge the conditions of supervised release, at any time prior to the expiration or termination of the term of supervised release, pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation and the provisions applicable to the initial setting of the terms and conditions of post-release supervision;
 
-&emsp;(3) revoke a term of supervised release, and require the defendant to serve in prison all or part of the term of supervised release authorized by statute for the offense that resulted in such term of supervised release without credit for time previously served on postrelease supervision, if the court, pursuant to the Federal Rules of Criminal Procedure applicable to revocation of probation or supervised release,finds by a preponderance of the evidence that the defendant violated a condition of supervised release, except that a defendant whose term is revoked under this paragraph may not be required to serve on any such revocation more than 5 years in prison if the offense that resulted in the term of supervised release is a class A felony, more than 3 years in prison if such offense is a class B felony, more than 2 years in prison if such offense is a class C or D felony, or more than one year in any other case; or
+&emsp;(3) revoke a term of supervised release, and require the defendant to serve in prison all or part of the term of supervised release authorized by statute for the offense that resulted in such term of supervised release without credit for time previously served on postrelease supervision, if the court, pursuant to the Federal Rules of Criminal Procedure applicable to revocation of probation or supervised release, finds by a preponderance of the evidence that the defendant violated a condition of supervised release, except that a defendant whose term is revoked under this paragraph may not be required to serve on any such revocation more than 5 years in prison if the offense that resulted in the term of supervised release is a class A felony, more than 3 years in prison if such offense is a class B felony, more than 2 years in prison if such offense is a class C or D felony, or more than one year in any other case; or
 
 &emsp;(4) order the defendant to remain at his place of residence during nonworking hours and, if the court so directs, to have compliance monitored by telephone or electronic signaling devices, except that an order under this paragraph may be imposed only as an alternative to incarceration.
 
@@ -74,7 +74,7 @@ Supervised Release Terms for Terrorism Predicates.—Notwithstanding subsection 
 
 (k) Notwithstanding subsection (b), the authorized term of supervised release for any offense under section 1201 involving a minor victim, and for any offense under section 1591, 2241, 2242, 2243, 2244, 2245, 2250, 2251, 2251A, 2252, 2252A, 2260, 2421, 2422, 2423, or 2425, is any term of years not less than 5, or life. If a defendant required to register under the Sex Offender Registration and Notification Act commits any criminal offense under chapter 109A, 110, or 117, or section 1201 or 1591, for which imprisonment for a term longer than 1 year can be imposed, the court shall revoke the term of supervised release and require the defendant to serve a term of imprisonment under subsection (e)(3) without regard to the exception contained therein. Such term shall be not less than 5 years.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1999; amended Pub. L. 99–570, title I, §1006(a)(1)–(3), Oct. 27, 1986, 100 Stat. 3207–6; Pub. L. 99–646, §14(a), Nov. 10, 1986, 100 Stat. 3594; Pub. L. 100–182, §§8, 9, 12, 25, Dec. 7, 1987, 101 Stat. 1267, 1268, 1272; Pub. L. 100–690, title VII, §§7108, 7303(b), 7305(b), Nov. 18, 1988, 102 Stat. 4418, 4464, 4465; Pub. L. 101–647, title XXXV, §3589, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 103–322, title II, §20414(c), title XI, §110505, title XXXII, §320921(c), Sept. 13, 1994, 108 Stat. 1831, 2016, 2130; Pub. L. 105–119, title I, §115(a)(8)(B)(iv), Nov. 26, 1997, 111 Stat. 2466; Pub. L. 106–546, §7(b), Dec. 19, 2000, 114 Stat. 2734; Pub. L. 107–56, title VIII, §812, Oct. 26, 2001, 115 Stat. 382; Pub. L. 107–273, div. B, title II, §2103(b), title III, §3007, Nov. 2, 2002, 116 Stat. 1793, 1806; Pub. L. 108–21, title I, §101, Apr. 30, 2003, 117 Stat. 651; Pub. L. 109–177, title II, §212, Mar. 9, 2006, 120 Stat. 230; Pub. L. 109–248, title I, §141(e), title II, §210(b), July 27, 2006, 120 Stat. 603, 615; Pub. L. 110–406, §14(b), Oct. 13, 2008, 122 Stat. 4294.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1999; amended Pub. L. 99–570, title I, §1006(a)(1)–(3), Oct. 27, 1986, 100 Stat. 3207–6; Pub. L. 99–646, §14(a), Nov. 10, 1986, 100 Stat. 3594; Pub. L. 100–182, §§8, 9, 12, 25, Dec. 7, 1987, 101 Stat. 1267, 1268, 1272; Pub. L. 100–690, title VII, §§7108, 7303(b), 7305(b), Nov. 18, 1988, 102 Stat. 4418, 4464, 4465; Pub. L. 101–647, title XXXV, §3589, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 103–322, title II, §20414(c), title XI, §110505, title XXXII, §320921(c), Sept. 13, 1994, 108 Stat. 1831, 2016, 2130; Pub. L. 105–119, title I, §115(a)(8)(B)(iv), Nov. 26, 1997, 111 Stat. 2466; Pub. L. 106–546, §7(b), Dec. 19, 2000, 114 Stat. 2734; Pub. L. 107–56, title VIII,§812, Oct. 26, 2001, 115 Stat. 382; Pub. L. 107–273, div. B, title II, §2103(b), title III, §3007, Nov. 2, 2002, 116 Stat. 1793, 1806; Pub. L. 108–21, title I, §101, Apr. 30, 2003, 117 Stat. 651; Pub. L. 109–177, title II, §212, Mar. 9, 2006, 120 Stat. 230; Pub. L. 109–248, title I, §141(e), title II, §210(b), July 27, 2006, 120 Stat. 603, 615; Pub. L. 110–406, §14(b), Oct. 13, 2008, 122 Stat. 4294.)
 
 #### References in Text
 
@@ -88,71 +88,71 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (e)(1), (2), (3)
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d). Pub. L. 110–406 substituted “section 3563(b) and any other condition it considers to be appropriate, provided, however that a condition set forth in subsection 3563(b)(10) shall be imposed only for a violation of a condition of supervised release in accordance with section 3583(e)(2) and only when facilities are available.” for “section 3563(b)(1) through (b)(10) and (b)(12) through (b)(20), and any other condition it considers to be appropriate.” in concluding provisions.
+<b>2008</b>—Subsec. (d). Pub. L. 110–406 substituted "section 3563(b) and any other condition it considers to be appropriate, provided, however that a condition set forth in subsection 3563(b)(10) shall be imposed only for a violation of a condition of supervised release in accordance with section 3583(e)(2) and only when facilities are available." for "section 3563(b)(1) through (b)(10) and (b)(12) through (b)(20), and any other condition it considers to be appropriate." in concluding provisions.
 
-<b>2006</b>—Subsec. (d). Pub. L. 109–248, §§141(e)(1), 210(b), substituted “required to register under the Sex Offender Registration and Notification Act, that the person comply with the requirements of that Act.” for “described in section 4042(c)(4), that the person report the address where the person will reside and any subsequent change of residence to the probation officer responsible for supervision, and that the person register in any State where the person resides, is employed, carries on a vocation, or is a student (as such terms are defined under section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994).” in third sentence of introductory provisions and inserted “The court may order, as an explicit condition of supervised release for a person who is a felon and required to register under the Sex Offender Registration and Notification Act, that the person submit his person, and any property, house, residence, vehicle, papers, computer, other electronic communications or data storage devices or media, and effects to search at any time, with or without a warrant, by any law enforcement or probation officer with reasonable suspicion concerning a violation of a condition of supervised release or unlawful conduct by the person, and by any probation officer in the lawful discharge of the officer's supervision functions.” at end of concluding provisions.
+<b>2006</b>—Subsec. (d). Pub. L. 109–248, §§141(e)(1), 210(b), substituted "required to register under the Sex Offender Registration and Notification Act, that the person comply with the requirements of that Act." for "described in section 4042(c)(4), that the person report the address where the person will reside and any subsequent change of residence to the probation officer responsible for supervision, and that the person register in any State where the person resides, is employed, carries on a vocation, or is a student (as such terms are defined under section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994)." in third sentence of introductory provisions and inserted "The court may order, as an explicit condition of supervised release for a person who is a felon and required to register under the Sex Offender Registration and Notification Act, that the person submit his person, and any property, house, residence, vehicle, papers, computer, other electronic communications or data storage devices or media, and effects to search at any time, with or without a warrant, by any law enforcement or probation officer with reasonable suspicion concerning a violation of a condition of supervised release or unlawful conduct by the person, and by any probation officer in the lawful discharge of the officer's supervision functions." at end of concluding provisions.
 
-Subsec. (j). Pub. L. 109–177 struck out “, the commission of which resulted in, or created a foreseeable risk of, death or serious bodily injury to another person,” before “is any term of years or life.”
+Subsec. (j). Pub. L. 109–177 struck out ", the commission of which resulted in, or created a foreseeable risk of, death or serious bodily injury to another person," before "is any term of years or life."
 
-Subsec. (k). Pub. L. 109–248, §141(e)(2), substituted “2243, 2244, 2245, 2250” for “2244(a)(1), 2244(a)(2)”, inserted “not less than 5,” after “any term of years”, and inserted “If a defendant required to register under the Sex Offender Registration and Notification Act commits any criminal offense under chapter 109A, 110, or 117, or section 1201 or 1591, for which imprisonment for a term longer than 1 year can be imposed, the court shall revoke the term of supervised release and require the defendant to serve a term of imprisonment under subsection (e)(3) without regard to the exception contained therein. Such term shall be not less than 5 years.” at end.
+Subsec. (k). Pub. L. 109–248, §141(e)(2), substituted "2243, 2244, 2245, 2250" for "2244(a)(1), 2244(a)(2)", inserted "not less than 5," after "any term of years", and inserted "If a defendant required to register under the Sex Offender Registration and Notification Act commits any criminal offense under chapter 109A, 110, or 117, or section 1201 or 1591, for which imprisonment for a term longer than 1 year can be imposed, the court shall revoke the term of supervised release and require the defendant to serve a term of imprisonment under subsection (e)(3) without regard to the exception contained therein. Such term shall be not less than 5 years." at end.
 
-<b>2003</b>—Subsec. (e)(3). Pub. L. 108–21, §101(1), inserted “on any such revocation” after “required to serve”.
+<b>2003</b>—Subsec. (e)(3). Pub. L. 108–21, §101(1), inserted "on any such revocation" after "required to serve".
 
-Subsec. (h). Pub. L. 108–21, §101(2), struck out “that is less than the maximum term of imprisonment authorized under subsection (e)(3)” after “required to serve a term of imprisonment”.
+Subsec. (h). Pub. L. 108–21, §101(2), struck out "that is less than the maximum term of imprisonment authorized under subsection (e)(3)" after "required to serve a term of imprisonment".
 
 Subsec. (k). Pub. L. 108–21, §101(3), added subsec. (k).
 
-<b>2002</b>—Subsecs. (c), (e). Pub. L. 107–273, §3007, substituted “(a)(6), and (a)(7)” for “and (a)(6)”.
+<b>2002</b>—Subsecs. (c), (e). Pub. L. 107–273, §3007, substituted "(a)(6), and (a)(7)" for "and (a)(6)".
 
 Subsec. (g)(4). Pub. L. 107–273, §2103(b), added par. (4).
 
 <b>2001</b>—Subsec. (j). Pub. L. 107–56 added subsec. (j).
 
-<b>2000</b>—Subsec. (d). Pub. L. 106–546 inserted “The court shall order, as an explicit condition of supervised release, that the defendant cooperate in the collection of a DNA sample from the defendant, if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000.” before “The court shall also order,”.
+<b>2000</b>—Subsec. (d). Pub. L. 106–546 inserted "The court shall order, as an explicit condition of supervised release, that the defendant cooperate in the collection of a DNA sample from the defendant, if the collection of such a sample is authorized pursuant to section 3 of the DNA Analysis Backlog Elimination Act of 2000." before "The court shall also order,".
 
-<b>1997</b>—Subsec. (d). Pub. L. 105–119 inserted after second sentence “The court shall order, as an explicit condition of supervised release for a person described in section 4042(c)(4), that the person report the address where the person will reside and any subsequent change of residence to the probation officer responsible for supervision, and that the person register in any State where the person resides, is employed, carries on a vocation, or is a student (as such terms are defined under section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994).”
+<b>1997</b>—Subsec. (d). Pub. L. 105–119 inserted after second sentence "The court shall order, as an explicit condition of supervised release for a person described in section 4042(c)(4), that the person report the address where the person will reside and any subsequent change of residence to the probation officer responsible for supervision, and that the person register in any State where the person resides, is employed, carries on a vocation, or is a student (as such terms are defined under section 170101(a)(3) of the Violent Crime Control and Law Enforcement Act of 1994)."
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322, §320921(c)(1), inserted before period at end “or if the defendant has been convicted for the first time of a domestic violence crime as defined in section 3561(b)”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §320921(c)(1), inserted before period at end "or if the defendant has been convicted for the first time of a domestic violence crime as defined in section 3561(b)".
 
-Subsec. (d). Pub. L. 103–322, §320921(c)(2), inserted after first sentence “The court shall order as an explicit condition of supervised release for a defendant convicted for the first time of a domestic violence crime as defined in section 3561(b) that the defendant attend a public, private, or private nonprofit offender rehabilitation program that has been approved by the court, in consultation with a State Coalition Against Domestic Violence or other appropriate experts, if an approved program is readily available within a 50-mile radius of the legal residence of the defendant.”
+Subsec. (d). Pub. L. 103–322, §320921(c)(2), inserted after first sentence "The court shall order as an explicit condition of supervised release for a defendant convicted for the first time of a domestic violence crime as defined in section 3561(b) that the defendant attend a public, private, or private nonprofit offender rehabilitation program that has been approved by the court, in consultation with a State Coalition Against Domestic Violence or other appropriate experts, if an approved program is readily available within a 50-mile radius of the legal residence of the defendant."
 
-Pub. L. 103–322, §20414(c), inserted after first sentence “The court shall also order, as an explicit condition of supervised release, that the defendant refrain from any unlawful use of a controlled substance and submit to a drug test within 15 days of release on supervised release and at least 2 periodic drug tests thereafter (as determined by the court) for use of a controlled substance. The condition stated in the preceding sentence may be ameliorated or suspended by the court as provided in section 3563(a)(4). The results of a drug test administered in accordance with the preceding subsection shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3583(g) when considering any action against a defendant who fails a drug test.”
+Pub. L. 103–322, §20414(c), inserted after first sentence "The court shall also order, as an explicit condition of supervised release, that the defendant refrain from any unlawful use of a controlled substance and submit to a drug test within 15 days of release on supervised release and at least 2 periodic drug tests thereafter (as determined by the court) for use of a controlled substance. The condition stated in the preceding sentence may be ameliorated or suspended by the court as provided in section 3563(a)(4). The results of a drug test administered in accordance with the preceding subsection shall be subject to confirmation only if the results are positive, the defendant is subject to possible imprisonment for such failure, and either the defendant denies the accuracy of such test or there is some other reason to question the results of the test. A drug test confirmation shall be a urine drug test confirmed using gas chromatography/mass spectrometry techniques or such test as the Director of the Administrative Office of the United States Courts after consultation with the Secretary of Health and Human Services may determine to be of equivalent accuracy. The court shall consider whether the availability of appropriate substance abuse treatment programs, or an individual's current or past participation in such programs, warrants an exception in accordance with United States Sentencing Commission guidelines from the rule of section 3583(g) when considering any action against a defendant who fails a drug test."
 
-Pub. L. 103–322, §110505(1), substituted “unlawfully possess a controlled substance” for “possess illegal controlled substances” in first sentence.
+Pub. L. 103–322, §110505(1), substituted "unlawfully possess a controlled substance" for "possess illegal controlled substances" in first sentence.
 
-Subsec. (e)(1). Pub. L. 103–322, §110505(2)(A), substituted “defendant” for “person” in two places.
+Subsec. (e)(1). Pub. L. 103–322, §110505(2)(A), substituted "defendant" for "person" in two places.
 
-Subsec. (e)(3). Pub. L. 103–322, §110505(2)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “revoke a term of supervised release, and require the person to serve in prison all or part of the term of supervised release without credit for time previously served on postrelease supervision, if it finds by a preponderance of the evidence that the person violated a condition of supervised release, pursuant to the provisions of the Federal Rules of Criminal Procedure that are applicable to probation revocation and to the provisions of applicable policy statements issued by the Sentencing Commission, except that a person whose term is revoked under this paragraph may not be required to serve more than 3 years in prison if the offense for which the person was convicted was a Class B felony, or more than 2 years in prison if the offense was a Class C or D felony; or”.
+Subsec. (e)(3). Pub. L. 103–322, §110505(2)(B), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "revoke a term of supervised release, and require the person to serve in prison all or part of the term of supervised release without credit for time previously served on postrelease supervision, if it finds by a preponderance of the evidence that the person violated a condition of supervised release, pursuant to the provisions of the Federal Rules of Criminal Procedure that are applicable to probation revocation and to the provisions of applicable policy statements issued by the Sentencing Commission, except that a person whose term is revoked under this paragraph may not be required to serve more than 3 years in prison if the offense for which the person was convicted was a Class B felony, or more than 2 years in prison if the offense was a Class C or D felony; or".
 
-Subsec. (e)(4). Pub. L. 103–322, §110505(2)(A), substituted “defendant” for “person”.
+Subsec. (e)(4). Pub. L. 103–322, §110505(2)(A), substituted "defendant" for "person".
 
 Subsecs. (g) to (i). Pub. L. 103–322, §110505(3), added subsecs. (g) to (i) and struck out former subsec. (g) which read as follows:
 
-“(g)
+"(g)
 
-Possession of Controlled Substances.—If the defendant is found by the court to be in the possession of a controlled substance, the court shall terminate the term of supervised release and require the defendant to serve in prison not less than one-third of the term of supervised release.”
+Possession of Controlled Substances.—If the defendant is found by the court to be in the possession of a controlled substance, the court shall terminate the term of supervised release and require the defendant to serve in prison not less than one-third of the term of supervised release."
 
-<b>1990</b>—Subsec. (d)(2). Pub. L. 101–647, §3589(1), inserted a comma after “3553(a)(2)(B)”.
+<b>1990</b>—Subsec. (d)(2). Pub. L. 101–647, §3589(1), inserted a comma after "3553(a)(2)(B)".
 
-Subsec. (e)(2) to (5). Pub. L. 101–647, §3589(2)(A)–(C), struck out “or” at end of par. (2), substituted “; or” for period at end of par. (3), and redesignated par. (5) as (4).
+Subsec. (e)(2) to (5). Pub. L. 101–647, §3589(2)(A)–(C), struck out "or" at end of par. (2), substituted "; or" for period at end of par. (3), and redesignated par. (5) as (4).
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–690, §7303(b)(1), inserted “and that the defendant not possess illegal controlled substances” before period at end of first sentence.
+<b>1988</b>—Subsec. (d). Pub. L. 100–690, §7303(b)(1), inserted "and that the defendant not possess illegal controlled substances" before period at end of first sentence.
 
-Pub. L. 100–690, §7305(b)(1), substituted “(b)(20)” for “(b)(19)” in concluding provisions.
+Pub. L. 100–690, §7305(b)(1), substituted "(b)(20)" for "(b)(19)" in concluding provisions.
 
-Subsec. (d)(1). Pub. L. 100–690, §7108(a)(1), inserted “(a)(2)(C),” after “(a)(2)(B),”.
+Subsec. (d)(1). Pub. L. 100–690, §7108(a)(1), inserted "(a)(2)(C)," after "(a)(2)(B),".
 
-Subsec. (d)(2). Pub. L. 100–690, §7108(a)(2), which directed that “(a)(2)(C),” be inserted after “(a)(2)(B),”, was executed by inserting “(a)(2)(C),” after “(a)(2)(B)” as the probable intent of Congress, because no comma appeared after “(a)(2)(B)”.
+Subsec. (d)(2). Pub. L. 100–690, §7108(a)(2), which directed that "(a)(2)(C)," be inserted after "(a)(2)(B),", was executed by inserting "(a)(2)(C)," after "(a)(2)(B)" as the probable intent of Congress, because no comma appeared after "(a)(2)(B)".
 
-Subsec. (e). Pub. L. 100–690, §7108(b)(1), inserted “(a)(2)(C),” after “(a)(2)(B),” in introductory provisions.
+Subsec. (e). Pub. L. 100–690, §7108(b)(1), inserted "(a)(2)(C)," after "(a)(2)(B)," in introductory provisions.
 
-Subsec. (e)(2). Pub. L. 100–690, §7108(b)(2), inserted “or” after “supervision;”.
+Subsec. (e)(2). Pub. L. 100–690, §7108(b)(2), inserted "or" after "supervision;".
 
-Subsec. (e)(3). Pub. L. 100–690, §7305(b)(2)(A), which directed amendment of par. (3) by striking “or” at the end could not be executed because of the intervening amendment by Pub. L. 100–690, §7108(b)(3), (4). See below.
+Subsec. (e)(3). Pub. L. 100–690, §7305(b)(2)(A), which directed amendment of par. (3) by striking "or" at the end could not be executed because of the intervening amendment by Pub. L. 100–690, §7108(b)(3), (4). See below.
 
-Pub. L. 100–690, §7108(b)(3), (4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “treat a violation of a condition of a term of supervised release as contempt of court pursuant to section 401(3) of this title; or”.
+Pub. L. 100–690, §7108(b)(3), (4), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: "treat a violation of a condition of a term of supervised release as contempt of court pursuant to section 401(3) of this title; or".
 
-Subsec. (e)(4). Pub. L. 100–690, §7305(b)(2)(B), which directed amendment of par. (4) by striking the period at the end and inserting “; or” could not be executed because subsec. (e) did not contain a par. (4) after the intervening amendment by Pub. L. 100–690, §7108(b)(4). See below.
+Subsec. (e)(4). Pub. L. 100–690, §7305(b)(2)(B), which directed amendment of par. (4) by striking the period at the end and inserting "; or" could not be executed because subsec. (e) did not contain a par. (4) after the intervening amendment by Pub. L. 100–690, §7108(b)(4). See below.
 
 Pub. L. 100–690, §7108(b)(4), redesignated par. (4) as (3).
 
@@ -160,27 +160,27 @@ Subsec. (e)(5). Pub. L. 100–690, §7305(b)(2)(C), added par. (5).
 
 Subsec. (g). Pub. L. 100–690, §7303(b)(2), added subsec. (g).
 
-<b>1987</b>—Subsec. (b)(1). Pub. L. 100–182, §8(1), substituted “five years” for “three years”.
+<b>1987</b>—Subsec. (b)(1). Pub. L. 100–182, §8(1), substituted "five years" for "three years".
 
-Subsec. (b)(2). Pub. L. 100–182, §8(2), substituted “three years” for “two years”.
+Subsec. (b)(2). Pub. L. 100–182, §8(2), substituted "three years" for "two years".
 
-Subsec. (b)(3). Pub. L. 100–182, §8(3), inserted “(other than a petty offense)” after “misdemeanor”.
+Subsec. (b)(3). Pub. L. 100–182, §8(3), inserted "(other than a petty offense)" after "misdemeanor".
 
-Subsec. (c). Pub. L. 100–182, §9, inserted “(a)(2)(C),”.
+Subsec. (c). Pub. L. 100–182, §9, inserted "(a)(2)(C),".
 
-Subsec. (e)(1). Pub. L. 100–182, §12(1), inserted “pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation,”.
+Subsec. (e)(1). Pub. L. 100–182, §12(1), inserted "pursuant to the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation,".
 
-Subsec. (e)(2). Pub. L. 100–182, §12(2), struck out “after a hearing,” before “extend a term” and inserted “the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation and” after “pursuant to”.
+Subsec. (e)(2). Pub. L. 100–182, §12(2), struck out "after a hearing," before "extend a term" and inserted "the provisions of the Federal Rules of Criminal Procedure relating to the modification of probation and" after "pursuant to".
 
-Subsec. (e)(4). Pub. L. 100–182, §25, inserted “, except that a person whose term is revoked under this paragraph may not be required to serve more than 3 years in prison if the offense for which the person was convicted was a Class B felony, or more than 2 years in prison if the offense was a Class C or D felony” before “Commission” at end.
+Subsec. (e)(4). Pub. L. 100–182, §25, inserted ", except that a person whose term is revoked under this paragraph may not be required to serve more than 3 years in prison if the offense for which the person was convicted was a Class B felony, or more than 2 years in prison if the offense was a Class C or D felony" before "Commission" at end.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–570, §1006(a)(1), inserted “, except that the court shall include as a part of the sentence a requirement that the defendant be placed on a term of supervised release if such a term is required by statute”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–570, §1006(a)(1), inserted ", except that the court shall include as a part of the sentence a requirement that the defendant be placed on a term of supervised release if such a term is required by statute".
 
-Subsec. (b). Pub. L. 99–570, §1006(a)(2), substituted “Except as otherwise provided, the” for “The”.
+Subsec. (b). Pub. L. 99–570, §1006(a)(2), substituted "Except as otherwise provided, the" for "The".
 
-Subsec. (e). Pub. L. 99–570, §1006(a)(3)(A), and Pub. L. 99–646, §14(a)(1), amended section catchline identically, substituting “conditions or revocation” for “term or conditions”.
+Subsec. (e). Pub. L. 99–570, §1006(a)(3)(A), and Pub. L. 99–646, §14(a)(1), amended section catchline identically, substituting "conditions or revocation" for "term or conditions".
 
-Subsec. (e)(1). Pub. L. 99–646, §14(a)(2), struck out “previously ordered” before “and discharge”.
+Subsec. (e)(1). Pub. L. 99–646, §14(a)(2), struck out "previously ordered" before "and discharge".
 
 Subsec. (e)(4). Pub. L. 99–570, §224(a)(3)(B)–(D), added par. (4).
 
@@ -198,9 +198,9 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 
 #### Effective Date of 1986 Amendments
 
-Pub. L. 99–646, §14(b), Nov. 10, 1986, 100 Stat. 3594, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 3583 of title 18, United States Code \[Nov. 1, 1987\].”
+Pub. L. 99–646, §14(b), Nov. 10, 1986, 100 Stat. 3594, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 3583 of title 18, United States Code \[Nov. 1, 1987\]."
 
-Pub. L. 99–570, title I, §1006(a)(4), Oct. 27, 1986, 100 Stat. 3207–7, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on the date of the taking effect of section 3583 of title 18, United States Code \[Nov. 1, 1987\].”
+Pub. L. 99–570, title I, §1006(a)(4), Oct. 27, 1986, 100 Stat. 3207–7, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on the date of the taking effect of section 3583 of title 18, United States Code \[Nov. 1, 1987\]."
 
 #### Effective Date
 

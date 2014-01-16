@@ -19,18 +19,20 @@
 | [2835\.](%C2%A7%2002835%20-%20Long-term%20leasing%20of%20military%20family%20housing%20to%20be%20constructed.md) | Long-term leasing of military family housing to be constructed. |
 | [2835a.](%C2%A7%2002835a%20-%20Use%20of%20military%20family%20housing%20constructed%20under%20build%20and%20lease%20authority%20to%20house%20other%20members.md) | Use of military family housing constructed under build and lease authority to house other members. |
 | [2836\.](%C2%A7%2002836%20-%20Military%20housing%20rental%20guarantee%20program.md) | Military housing rental guarantee program. |
-| [2837\.](%C2%A7%2002837%20-%20Limited%20partnerships%20with%20private%20developers%20of%20housing.md) | Limited partnerships with private developers of housing. |
+| \[2837. | Repealed.\] |
 | [2838\.](%C2%A7%2002838%20-%20Leasing%20of%20military%20family%20housing%20to%20Secretary%20of%20Defense.md) | Leasing of military family housing to Secretary of Defense. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+<b>2013</b>—Pub. L. 113–66, div. B, title XXVIII, §2802(a)(2), Dec. 26, 2013, 127 Stat. 1006, struck out item 2837 "Limited partnerships with private developers of housing".
+
 <b>2008</b>—Pub. L. 110–417, div. B, title XXVIII, §§2803(b), 2804(b), Oct. 14, 2008, 122 Stat. 4720, 4721, added items 2835a and 2838.
 
-<b>2006</b>—Pub. L. 109–364, div. B, title XXVIII, §2803(b), Oct. 17, 2006, 120 Stat. 2467, struck out item 2823 “Determination of availability of suitable alternative housing for acquisition in lieu of construction of new family housing”.
+<b>2006</b>—Pub. L. 109–364, div. B, title XXVIII, §2803(b), Oct. 17, 2006, 120 Stat. 2467, struck out item 2823 "Determination of availability of suitable alternative housing for acquisition in lieu of construction of new family housing".
 
-<b>2000</b>—Pub. L. 106–398, §1 \[div. B, title XXVIII, §2803(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–413, substituted “Military family housing: local comparability of room patterns and floor areas” for “Limitations on space by pay grade” in item 2826.
+<b>2000</b>—Pub. L. 106–398, §1 \[div. B, title XXVIII, §2803(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–413, substituted "Military family housing: local comparability of room patterns and floor areas" for "Limitations on space by pay grade" in item 2826.
 
 <b>1994</b>—Pub. L. 103–337, div. B, title XXVIII, §2803(b), Oct. 5, 1994, 108 Stat. 3053, added item 2837.
 
@@ -60,5 +62,5 @@
 - [&sect; 02835 - Long-term leasing of military family housing to be constructed](%C2%A7%2002835%20-%20Long-term%20leasing%20of%20military%20family%20housing%20to%20be%20constructed.md)
 - [&sect; 02835a - Use of military family housing constructed under build and lease authority to house other members](%C2%A7%2002835a%20-%20Use%20of%20military%20family%20housing%20constructed%20under%20build%20and%20lease%20authority%20to%20house%20other%20members.md)
 - [&sect; 02836 - Military housing rental guarantee program](%C2%A7%2002836%20-%20Military%20housing%20rental%20guarantee%20program.md)
-- [&sect; 02837 - Limited partnerships with private developers of housing](%C2%A7%2002837%20-%20Limited%20partnerships%20with%20private%20developers%20of%20housing.md)
+- [&sect; 02837 - Repealed. Pub. L. 113&#8211;66, div. B, title XXVIII, &sect;2802(a)(1), Dec. 26, 2013, 127 Stat. 1006](%C2%A7%2002837%20-%20Repealed.%20Pub.%20L.%20113%E2%80%9366%2C%20div.%20B%2C%20title%20XXVIII%2C%20%C2%A72802%28a%29%281%29%2C%20Dec.%2026%2C%202013%2C%20127%20Stat.%201006.md)
 - [&sect; 02838 - Leasing of military family housing to Secretary of Defense](%C2%A7%2002838%20-%20Leasing%20of%20military%20family%20housing%20to%20Secretary%20of%20Defense.md)

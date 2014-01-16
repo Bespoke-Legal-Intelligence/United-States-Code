@@ -4,29 +4,29 @@ As used in this chapter:
 
 #### (1) Board
 
-&emsp;The terms “Avocado Board” and “Board” mean the Hass Avocado Board established under section 7804 of this title.
+&emsp;The terms "Avocado Board" and "Board" mean the Hass Avocado Board established under section 7804 of this title.
 
 #### (2) Conflict of interest
 
-&emsp;The term “conflict of interest” means a situation in which a member or employee of the Board has a direct or indirect financial interest in a person that performs a service for, or enters into a contract with, the Board for anything of economic value.
+&emsp;The term "conflict of interest" means a situation in which a member or employee of theBoard has a direct or indirect financial interest in a person that performs a service for, or enters into a contract with, the Board for anything of economic value.
 
 #### (3) Consumer information
 
-&emsp;The term “consumer information” means any action or program that provides information to consumers and other persons on the use, nutritional attributes, and other information that will assist consumers and other persons in making evaluations and decisions regarding the purchase, preparation, and use of Hass avocados.
+&emsp;The term "consumer information" means any action or program that provides information to consumers and other persons on the use, nutritional attributes, and other information that will assist consumers and other persons in making evaluations and decisions regarding the purchase, preparation, and use of Hass avocados.
 
 #### (4) Customs
 
-&emsp;The term “Customs” means the United States Customs Service.
+&emsp;The term "Customs" means the United States Customs Service.
 
 #### (5) Department
 
-&emsp;The term “Department” means the United States Department of Agriculture.
+&emsp;The term "Department" means the United States Department of Agriculture.
 
 #### (6) Hass avocado
 
 #### (A) In general
 
-&emsp;&emsp;The term “Hass avocado” includes—
+&emsp;&emsp;The term "Hass avocado" includes—
 
 &emsp;&emsp;&emsp;(i) the fruit of any Hass variety avocado tree; and
 
@@ -44,31 +44,31 @@ As used in this chapter:
 
 #### (A) First handler
 
-&emsp;&emsp;The term “first handler” means a person operating in the Hass avocados marketing system that sells domestic or imported Hass avocados for United States domestic consumption, and who is responsible for remitting assessments to the Board. The term includes an importer or producer who sells directly to consumers Hass avocados that the importer or producer has imported into the United States or produced, respectively.
+&emsp;&emsp;The term "first handler" means a person operating in the Hass avocados marketing system that sells domestic or imported Hass avocados for United States domestic consumption, and who is responsible for remitting assessments to the Board. The term includes an importer or producer who sells directly to consumers Hass avocados that the importer or producer has imported into the United States or produced, respectively.
 
 #### (B) Exempt handler
 
-&emsp;&emsp;The term “exempt handler” means a person who would otherwise be considered a first handler, except that all avocados purchased by the person have already been subject to the assessment under section 7804(h) of this title.
+&emsp;&emsp;The term "exempt handler" means a person who would otherwise be considered a first handler, except that all avocados purchased by the person have already been subject to the assessment under section 7804(h) of this title.
 
 #### (8) Importer
 
-&emsp;The term “importer” means any person who imports Hass avocados into the United States.
+&emsp;The term "importer" means any person who imports Hass avocados into the United States.
 
 #### (9) Industry information
 
-&emsp;The term “industry information” means information and programs that are designed to increase efficiency in processing, enhance the development of new markets and marketing strategies, increase marketing efficiency, and activities to enhance the image of Hass avocados and the Hass avocado industry domestically.
+&emsp;The term "industry information" means information and programs that are designed to increase efficiency in processing, enhance the development of new markets and marketing strategies, increase marketing efficiency, and activities to enhance the image of Hass avocados and the Hass avocado industry domestically.
 
 #### (10) Order
 
-&emsp;The term “order” means the Hass avocado promotion, research, and information order issued under this chapter.
+&emsp;The term "order" means the Hass avocado promotion, research, and information order issued under this chapter.
 
 #### (11) Person
 
-&emsp;The term “person” means any individual, group of individuals, firm, partnership, corporation, joint stock company, association, cooperative, or other legal entity.
+&emsp;The term "person" means any individual, group of individuals, firm, partnership, corporation, joint stock company, association, cooperative, or other legal entity.
 
 #### (12) Producer
 
-&emsp;The term “producer” means any person who—
+&emsp;The term "producer" means any person who—
 
 &emsp;&emsp;(A) is engaged in the domestic production of Hass avocados for commercial use; and
 
@@ -76,23 +76,23 @@ As used in this chapter:
 
 #### (13) Promotion
 
-&emsp;The term “promotion” means any action to advance the image, desirability, or marketability of Hass avocados, including paid advertising, sales promotion, and publicity, in order to improve the competitive position and stimulate sales of Hass avocados in the domestic marketplace.
+&emsp;The term "promotion" means any action to advance the image, desirability, or marketability of Hass avocados, including paid advertising, sales promotion, and publicity, in order to improve the competitive position and stimulate sales of Hass avocados in the domestic marketplace.
 
 #### (14) Research
 
-&emsp;The term “research” means any type of test, study, or analysis relating to market research, market development, and marketing efforts, or relating to the use, quality, or nutritional value of Hass avocados, other related food science research, or research designed to advance the image, desirability, and marketability of Hass avocados.
+&emsp;The term "research" means any type of test, study, or analysis relating to market research, market development, and marketing efforts, or relating to the use, quality, or nutritional value of Hass avocados, other related food science research, or research designed to advance the image, desirability, and marketability of Hass avocados.
 
 #### (15) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture.
+&emsp;The term "Secretary" means the Secretary of Agriculture.
 
 #### (16) State
 
-&emsp;The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, the Republic of the Marshall Islands, and the Federated States of Micronesia.
+&emsp;The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the United States Virgin Islands, Guam, American Samoa, the Republic of the Marshall Islands, and the Federated States of Micronesia.
 
 #### (17) United States
 
-&emsp;The term “United States” means the United States collectively.
+&emsp;The term "United States" means the United States collectively.
 
 (Pub. L. 106–387, §1(a) \[title XII, §1203\], Oct. 28, 2000, 114 Stat. 1549, 1549A–79.)
 

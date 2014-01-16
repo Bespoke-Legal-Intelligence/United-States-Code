@@ -36,17 +36,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7511(c)(23), substituted “National Institute of Food and Agriculture” for “Extension Service”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7511(c)(23), substituted "National Institute of Food and Agriculture" for "Extension Service".
 
 <b>1996</b>—Subsecs. (f), (g). Pub. L. 104–127 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–237, §407(15)(A), (B), substituted “reservation” for “Reservation” and “reservations” for “Reservations” wherever appearing.
+<b>1991</b>—Subsec. (a). Pub. L. 102–237, §407(15)(A), (B), substituted "reservation" for "Reservation" and "reservations" for "Reservations" wherever appearing.
 
-Subsec. (b). Pub. L. 102–237, §407(15)(A), substituted “reservation” for “Reservation” in two places.
+Subsec. (b). Pub. L. 102–237, §407(15)(A), substituted "reservation" for "Reservation" in two places.
 
-Subsec. (c). Pub. L. 102–237, §407(15)(C), substituted “tribal” for “Tribal” after “assistance of the”.
+Subsec. (c). Pub. L. 102–237, §407(15)(C), substituted "tribal" for "Tribal" after "assistance of the".
 
-Subsec. (e). Pub. L. 102–237, §407(15)(A), substituted “reservation” for “Reservation” in two places.
+Subsec. (e). Pub. L. 102–237, §407(15)(A), substituted "reservation" for "Reservation" in two places.
 
 #### Effective Date of 2008 Amendment
 

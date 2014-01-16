@@ -1,6 +1,6 @@
 ### §4041. Administration
 
-In accordance with such regulations as the President may prescribe, the Secretary of State shall administer the Foreign Service Retirement and Disability System (hereinafter in this part referred to as the “System”), originally established pursuant to section 18 of the Act of May 24, 1924 (43 Stat. 144).
+In accordance with such regulations as the President may prescribe, the Secretary of State shall administer the Foreign Service Retirement and Disability System (hereinafter in this part referred to as the "System"), originally established pursuant to section 18 of the Act of May 24, 1924 (43 Stat. 144).
 
 (Pub. L. 96–465, title I, §801, Oct. 17, 1980, 94 Stat. 2102; Pub. L. 99–335, title IV, §402(a)(2), June 6, 1986, 100 Stat. 609.)
 
@@ -10,7 +10,7 @@ Section 18 of the Act of May 24, 1924 (43 Stat. 144), referred to in text, which
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–335 substituted “part” for “subchapter”.
+<b>1986</b>—Pub. L. 99–335 substituted "part" for "subchapter".
 
 #### Effective Date of 1986 Amendment
 
@@ -28,15 +28,15 @@ Functions of President under this section delegated to Secretary of State, see s
 
 Pub. L. 100–204, title I, §158, Dec. 22, 1987, 101 Stat. 1355, provided that:
 
-“(a)
+"(a)
 
 Termination.—The Secretary of State shall exercise the authorities available to him to ensure that the United States does not provide, directly or indirectly, any retirement benefits of any kind to any present or former foreign national employee of a United States diplomatic or consular post against whom the Secretary has convincing evidence that such employee has engaged in intelligence activities directed against the United States. To the extent practicable, the Secretary shall provide due process in implementing this section.
 
-“(b)
+"(b)
 
-Waiver.—The Secretary of State may waive the applicability of subsection (a) on a case-by-case basis with respect to an employee if he determines that it is vital to the national security of the United States to do so and he reports such waiver to the appropriate committees of the Congress.”
+Waiver.—The Secretary of State may waive the applicability of subsection (a) on a case-by-case basis with respect to an employee if he determines that it is vital to the national security of the United States to do so and he reports such waiver to the appropriate committees of the Congress."
 
 #### Temporary Retirement Contributions and Procedures for Certain Participants
 
-For temporary provisions providing modified contributions and procedures for members of the Serviceparticipating in the Foreign Service Retirement and Disability System who are also required to pay employment taxes relating to benefits under title II of the Social Security Act, 42 U.S.C. 401 et seq., until they are covered by a new Government retirement system or Jan. 1, 1986, whichever is earlier, see title II of Pub. L. 98–168, set out as a note under section 8331 of Title 5, Government Organization and Employees.
+For temporary provisions providing modified contributions and procedures for members of the Service participating in the Foreign Service Retirement and Disability System who are also required to pay employment taxes relating to benefits under title II of the Social Security Act, 42 U.S.C. 401 et seq., until they are covered by a new Government retirement system or Jan. 1, 1986, whichever is earlier, see title II of Pub. L. 98–168, set out as a note under section 8331 of Title 5, Government Organization and Employees.
 

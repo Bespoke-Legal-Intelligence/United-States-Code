@@ -6,7 +6,7 @@ The Secretary shall, not later than November 15, of the calendar years 1970 thro
 
 #### Amendments
 
-<b>1973</b>—Pub. L. 93–86 substituted “1970 through 1976” for “1970, 1971, and 1972”.
+<b>1973</b>—Pub. L. 93–86 substituted "1970 through 1976" for "1970, 1971, and 1972".
 
 #### Effective Date
 

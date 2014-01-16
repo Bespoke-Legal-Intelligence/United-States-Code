@@ -18,7 +18,7 @@ In general.—Neither the Secretary nor the Board has jurisdiction under this pa
 
 &emsp;(2)
 
-Definition.—In this section, “corporate family” means a group of corporations consisting of a parent corporation and all subsidiaries in which the parent corporation owns directly or indirectly a 100 percent interest.
+Definition.—In this section, "corporate family" means a group of corporations consisting of a parent corporation and all subsidiaries in which the parent corporation owns directly or indirectly a 100 percent interest.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 861.)
 

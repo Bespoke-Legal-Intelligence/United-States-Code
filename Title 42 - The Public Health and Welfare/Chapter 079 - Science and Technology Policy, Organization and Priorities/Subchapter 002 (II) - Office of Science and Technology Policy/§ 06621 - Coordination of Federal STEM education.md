@@ -26,7 +26,7 @@ The committee established under subsection (a) shall—
 
 &emsp;&emsp;(D) with respect to subparagraph (A), describe the role of each agency in supporting programs and activities designed to achieve the objectives; and
 
-&emsp;(6) establish, periodically update, and maintain an inventory of federally sponsored STEM education programs and activities, including documentation of assessments of the effectiveness of such programs and activities and ratesof participation by women, underrepresented minorities, and persons in rural areas in such programs and activities.
+&emsp;(6) establish, periodically update, and maintain an inventory of federally sponsored STEM education programs and activities, including documentation of assessments of the effectiveness of such programs and activities and rates of participation by women, underrepresented minorities, and persons in rural areas in such programs and activities.
 
 #### (b) <sup>1</sup> Responsibilities of OSTP
 
@@ -54,15 +54,15 @@ Section was enacted as part of the America COMPETES Reauthorization Act of 2010,
 
 #### Definitions
 
-Pub. L. 111–358, §2, Jan. 4, 2011, 124 Stat. 3984, provided that: “In this Act \[see Tables for classification\]:
+Pub. L. 111–358, §2, Jan. 4, 2011, 124 Stat. 3984, provided that: "In this Act \[see Tables for classification\]:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Director.—In title I \[enacting this section, sections 6622 to 6624 of this title, and section 3719 of Title 15, Commerce and Trade, and amending section 20144 of Title 51, National and Commercial Space Programs\], the term ‘Director’ means the Director of the Office of Science and Technology Policy.
+Director.—In title I \[enacting this section, sections 6622 to 6624 of this title, and section 3719 of Title 15, Commerce and Trade, and amending section 20144 of Title 51, National and Commercial Space Programs\], the term 'Director' means the Director of the Office of Science and Technology Policy.
 
-&emsp;“(2)
+&emsp;"(2)
 
-STEM.—The term ‘STEM’ means the academic and professional disciplines of science, technology, engineering, and mathematics.”
+STEM.—The term 'STEM' means the academic and professional disciplines of science, technology, engineering, and mathematics."
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (b) have been enacted.</i>
 

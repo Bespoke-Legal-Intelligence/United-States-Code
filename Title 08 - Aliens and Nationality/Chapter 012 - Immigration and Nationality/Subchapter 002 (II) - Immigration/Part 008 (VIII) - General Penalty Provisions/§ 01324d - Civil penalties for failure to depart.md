@@ -28,7 +28,7 @@ This chapter, referred to in subsec. (b), was in the original, “this Act”, m
 
 #### Effective Date
 
-Pub. L. 104–208, div. C, title III, §380(c), Sept. 30, 1996, 110 Stat. 3009–650, provided that: “The amendmentmade by subsection (a) \[enacting this section\] shall apply to actions occurring on or after the title III–A effective date (as defined in section 309(a) of this division \[set out as a note under section 1101 of this title\]).”
+Pub. L. 104–208, div. C, title III, §380(c), Sept. 30, 1996, 110 Stat. 3009–650, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to actions occurring on or after the title III–A effective date (as defined in section 309(a) of this division \[set out as a note under section 1101 of this title\]).”
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

@@ -6,13 +6,13 @@
 
 (2) For the purpose of this section:
 
-&emsp;(A) The term “endowment fund” means a fund established by State law, by an institution of higher education, or by a foundation which is exempt from taxation and is maintained for the purpose of generating income for the support of the institution, but which shall not include real estate.
+&emsp;(A) The term "endowment fund" means a fund established by State law, by an institution of higher education, or by a foundation which is exempt from taxation and is maintained for the purpose of generating income for the support of the institution, but which shall not include real estate.
 
-&emsp;(B) The term “endowment fund corpus” means an amount equal to the grant or grants awarded under this section plus an amount equal to such grant or grants provided by the institution.
+&emsp;(B) The term "endowment fund corpus" means an amount equal to the grant or grants awarded under this section plus an amount equal to such grant or grants provided by the institution.
 
-&emsp;(C) The term “endowment fund income” means an amount equal to the total value of the endowment fund established under this section minus the endowment fund corpus.
+&emsp;(C) The term "endowment fund income" means an amount equal to the total value of the endowment fund established under this section minus the endowment fund corpus.
 
-&emsp;(D)(i) The term “eligible institution” means an institution that is an—
+&emsp;(D)(i) The term "eligible institution" means an institution that is an—
 
 &emsp;&emsp;(I) eligible institution under part A of this subchapter or would be considered to be such an institution if section 1058(b)(1)(C) of this title referred to a postgraduate degree rather than a bachelor's degree;
 
@@ -82,9 +82,9 @@ An institution receiving a grant under this section shall provide to the Secreta
 
 In selecting eligible institutions for grants under this section for any fiscal year, the Secretary shall—
 
-&emsp;(1) give priority to an applicant that is receiving assistance under part A of this subchapter or part B of this subchapter or has received a grant under part A of this subchapter or part B of this subchapter within the 5 fiscal years preceding the fiscal year in which the applicant is applying for a grant under this section;
+&emsp;(1) give priority to an applicant that is receiving assistance under part A of this subchapter or part B of this subchapter or has received a grant under part A of this subchapteror part B of this subchapter within the 5 fiscal years preceding the fiscal year in which the applicant is applying for a grant under this section;
 
-&emsp;(2) give priority to an applicant with a greater need for such a grant, based on thecurrent market value of the applicant's existing endowment in relation to the number of full-time equivalent students enrolled at such institution; and
+&emsp;(2) give priority to an applicant with a greater need for such a grant, based on the current market value of the applicant's existing endowment in relation to the number of full-time equivalent students enrolled at such institution; and
 
 &emsp;(3) consider—
 
@@ -126,49 +126,49 @@ A prior section 1065a, Pub. L. 89–329, title III, §333, as added Pub. L. 98�
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(2)(B)(i). Pub. L. 110–315, §313(a)(1), substituted “$1,000,000” for “$500,000”.
+<b>2008</b>—Subsec. (b)(2)(B)(i). Pub. L. 110–315, §313(a)(1), substituted "$1,000,000" for "$500,000".
 
-Subsec. (b)(5). Pub. L. 110–315, §313(a)(2), substituted “$100,000” for “$50,000”.
+Subsec. (b)(5). Pub. L. 110–315, §313(a)(2), substituted "$100,000" for "$50,000".
 
 Subsec. (i). Pub. L. 110–315, §313(b), added subsec. (i).
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–244, §305(1), substituted “section 1068h” for “section 1069f”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–244, §305(1), substituted "section 1068h" for "section 1069f".
 
 Subsec. (b)(2)(B), (C). Pub. L. 105–244, §305(2), added subpars. (B) and (C) and struck out former subpars. (B) and (C) which authorized Secretary to make grants under this part to eligible institutions in amounts which varied depending on amount appropriated in each fiscal year to carry out this part and limited rights of institutions to reapply for grants when amount appropriated was below specified amounts.
 
-<b>1993</b>—Subsecs. (a)(2)(D), (b)(2)(B), (C), (5). Pub. L. 103–208 realigned margins and in subsec. (b)(5) substituted “An endowment” for “an endowment”.
+<b>1993</b>—Subsecs. (a)(2)(D), (b)(2)(B), (C), (5). Pub. L. 103–208 realigned margins and in subsec. (b)(5) substituted "An endowment" for "an endowment".
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–325, §304(b)(1)(A), struck out “of higher education” after “eligible institutions”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–325, §304(b)(1)(A), struck out "of higher education" after "eligible institutions".
 
 Subsec. (a)(2)(D). Pub. L. 102–325, §304(b)(1)(B), added subpar. (D).
 
-Subsec. (b)(1). Pub. L. 102–325, §304(b)(2), inserted “endowment” before “challenge grants” and struck out “of higher education” after “eligible institutions”.
+Subsec. (b)(1). Pub. L. 102–325, §304(b)(2), inserted "endowment" before "challenge grants" and struck out "of higher education" after "eligible institutions".
 
 Subsec. (b)(2)(B), (C). Pub. L. 102–325, §304(b)(3), amended subpars. (B) and (C) generally. Prior to amendment, subpars. (B) and (C) read as follows:
 
-“(B) In any fiscal year in which the appropriations for this part exceeds $10,000,000, the Secretary may make a grant under this part to an eligible institution of higher education if such institution—
+"(B) In any fiscal year in which the appropriations for this part exceeds $10,000,000, the Secretary may make a grant under this part to an eligible institution of higher education if such institution—
 
-&emsp;“(i) has deposited in its endowment fund established under this section an amount which is equal to one-half of the amount of such grant; and
+&emsp;"(i) has deposited in its endowment fund established under this section an amount which is equal to one-half of the amount of such grant; and
 
-&emsp;“(ii) applies for a grant in an amount exceeding $1,000,000.
+&emsp;"(ii) applies for a grant in an amount exceeding $1,000,000.
 
-“(C) An eligible institution of higher education that is awarded a grant under this section shall not be eligible to reapply for a grant under this section during the 10 years immediately following the period that it received such grant.”
+"(C) An eligible institution of higher education that is awarded a grant under this section shall not be eligible to reapply for a grant under this section during the 10 years immediately following the period that it received such grant."
 
-Subsec. (b)(4)(A). Pub. L. 102–325, §304(b)(4), substituted “subsection (a)(2)(D) of this section” for “section 1064(a)(1) of this title”.
+Subsec. (b)(4)(A). Pub. L. 102–325, §304(b)(4), substituted "subsection (a)(2)(D) of this section" for "section 1064(a)(1) of this title".
 
-Subsec. (b)(4)(B). Pub. L. 102–325, §304(b)(5), substituted “an endowment challenge grant” for “a challenge grant”.
+Subsec. (b)(4)(B). Pub. L. 102–325, §304(b)(5), substituted "an endowment challenge grant" for "a challenge grant".
 
-Subsec. (b)(5). Pub. L. 102–325, §304(b)(6), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “Except as provided in paragraph (2)(B), a challenge grant under this section to an eligible institution year shall—
+Subsec. (b)(5). Pub. L. 102–325, §304(b)(6), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "Except as provided in paragraph (2)(B), a challenge grant under this section to an eligible institution year shall—
 
-&emsp;“(A) not be less than $50,000 for any fiscal year; and
+&emsp;"(A) not be less than $50,000 for any fiscal year; and
 
-&emsp;“(B) not be more than (i) $250,000 for fiscal year 1987; or (ii) $500,000 for fiscal year 1988 or any succeeding fiscal year.”
+&emsp;"(B) not be more than (i) $250,000 for fiscal year 1987; or (ii) $500,000 for fiscal year 1988 or any succeeding fiscal year."
 
-Subsec. (f)(1). Pub. L. 102–325, §304(b)(7), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “give priority to an applicant which is a recipient of a grant made under part A or B of this subchapter (or section 1069a of this title) during the academic year in which the applicant is applying for a grant under this section;”.
+Subsec. (f)(1). Pub. L. 102–325, §304(b)(7), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "give priority to an applicant which is a recipient of a grant made under part A or B of this subchapter (or section 1069a of this title) during the academic year in which the applicant is applying for a grant under this section;".
 
-Subsec. (g). Pub. L. 102–325, §304(b)(8), inserted “, including a description of the long- and short-term plans for raising and using the funds under this part” before period at end of first sentence.
+Subsec. (g). Pub. L. 102–325, §304(b)(8), inserted ", including a description of the long- and short-term plans for raising and using the funds under this part" before period at end of first sentence.
 
-<b>1987</b>—Subsec. (f)(1). Pub. L. 100–50 inserted “(or section 1069a of this title)”.
+<b>1987</b>—Subsec. (f)(1). Pub. L. 100–50 inserted "(or section 1069a of this title)".
 
 #### Effective Date of 1998 Amendment
 

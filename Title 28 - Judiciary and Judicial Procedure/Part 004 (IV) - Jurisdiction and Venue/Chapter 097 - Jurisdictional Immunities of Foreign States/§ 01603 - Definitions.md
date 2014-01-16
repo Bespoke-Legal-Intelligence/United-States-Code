@@ -2,9 +2,9 @@
 
 For purposes of this chapter—
 
-&emsp;(a) A “foreign state”, except as used in section 1608 of this title, includes a political subdivision of a foreign state or an agency or instrumentality of a foreign state as defined in subsection (b).
+&emsp;(a) A "foreign state", except as used in section 1608 of this title, includes a political subdivision of a foreign state or an agency or instrumentality of a foreign state as defined in subsection (b).
 
-&emsp;(b) An “agency or instrumentality of a foreign state” means any entity—
+&emsp;(b) An "agency or instrumentality of a foreign state" means any entity—
 
 &emsp;&emsp;(1) which is a separate legal person, corporate or otherwise, and
 
@@ -12,17 +12,17 @@ For purposes of this chapter—
 
 &emsp;&emsp;(3) which is neither a citizen of a State of the United States as defined in section 1332 (c) and (e) of this title, nor created under the laws of any third country.
 
-&emsp;(c) The “United States” includes all territory and waters, continental or insular, subject to the jurisdiction of the United States.
+&emsp;(c) The "United States" includes all territory and waters, continental or insular, subject to the jurisdiction of the United States.
 
-&emsp;(d) A “commercial activity” means either a regular course of commercial conduct or a particular commercial transaction or act. The commercial character of an activity shall be determined by reference to the nature of the course of conduct or particular transaction or act, rather than by reference to its purpose.
+&emsp;(d) A "commercial activity" means either a regular course of commercial conduct or a particular commercial transaction or act. The commercial character of an activity shall be determined by reference to the nature of the course of conduct or particular transaction or act, rather than by reference to its purpose.
 
-&emsp;(e) A “commercial activity carried on in the United States by a foreign state” means commercial activity carried on by such state and having substantial contact with the United States.
+&emsp;(e) A "commercial activity carried on in the United States by a foreign state" means commercial activity carried on by such state and having substantial contact with the United States.
 
 (Added Pub. L. 94–583, §4(a), Oct. 21, 1976, 90 Stat. 2892; amended Pub. L. 109–2, §4(b)(2), Feb. 18, 2005, 119 Stat. 12.)
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(3). Pub. L. 109–2 substituted “(e)” for “(d)”.
+<b>2005</b>—Subsec. (b)(3). Pub. L. 109–2 substituted "(e)" for "(d)".
 
 #### Effective Date of 2005 Amendment
 

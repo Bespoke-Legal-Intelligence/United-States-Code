@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—In this chapter, the term “depot-level maintenance and repair” means (except as provided in subsection (b)) material maintenance or repair requiring the overhaul, upgrading, or rebuilding of parts, assemblies, or subassemblies, and the testing and reclamation of equipment as necessary, regardless of the source of funds for the maintenance or repair or the location at which the maintenance or repair is performed. The term includes (1) all aspects of software maintenance classified by the Department of Defense as of July 1, 1995, as depot-level maintenance and repair, and (2) interim contractor support or contractor logistics support (or any similar contractor support), to the extent that such support is for the performance of services described in the preceding sentence.
+In General.—In this chapter, the term "depot-level maintenance and repair" means (except as provided in subsection (b)) material maintenance or repair requiring the overhaul, upgrading, or rebuilding of parts, assemblies, or subassemblies, and the testing and reclamation of equipment as necessary, regardless of the source of funds for the maintenance or repair or the location at which the maintenance or repair is performed. The term includes (1) all aspects ofsoftware maintenance classified by the Department of Defense as of July 1, 1995, as depot-level maintenance and repair, and (2) interim contractor support or contractor logistics support (or any similar contractor support), to the extent that such support is for the performance of services described in the preceding sentence.
 
 (b)
 
@@ -18,13 +18,13 @@ Section 322(b)(1) of Pub. L. 112–239, cited as a credit to this section, reviv
 
 #### Prior Provisions
 
-A prior section 2460, added Pub. L. 105–85, div. A, title III, §355(a), Nov. 18, 1997, 111 Stat. 1693; amended Pub. L. 105–261, div. A, title III, §341, Oct. 17, 1998, 112 Stat. 1973; Pub. L. 112–81, div. A, title III, §321, Dec. 31, 2011, 125 Stat. 1361, defined “depot-level maintenance and repair” for this chapter prior to repeal by Pub. L. 112–239, div. A, title III, §322(a)(1), Jan. 2, 2013, 126 Stat. 1694.
+A prior section 2460, added Pub. L. 105–85, div. A, title III, §355(a), Nov. 18, 1997, 111 Stat. 1693; amended Pub. L. 105–261, div. A, title III, §341, Oct. 17, 1998, 112 Stat. 1973; Pub. L. 112–81, div. A, title III, §321, Dec. 31, 2011, 125 Stat. 1361, defined "depot-level maintenance and repair" for this chapter prior to repeal by Pub. L. 112–239, div. A, title III, §322(a)(1), Jan. 2, 2013, 126 Stat. 1694.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239, §322(c), substituted “or the nuclear refueling or defueling of an aircraft carrier and any concurrent complex overhaul” for “or the nuclear refueling of an aircraft carrier”.
+<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239, §322(c), substituted "or the nuclear refueling or defueling of an aircraft carrier and any concurrent complex overhaul" for "or the nuclear refueling of an aircraft carrier".
 
 #### Effective Date
 
-Section and amendment by Pub. L. 112–239 effective Dec. 31, 2011, immediately after enactment of Pub. L.112–81, see section 322(f) of Pub. L. 112–239, set out as an Effective Date of 2013 Amendment note under section 2366a of this title.
+Section and amendment by Pub. L. 112–239 effective Dec. 31, 2011, immediately after enactment of Pub. L. 112–81, see section 322(f) of Pub. L. 112–239, set out as an Effective Date of 2013 Amendment note under section 2366a of this title.
 

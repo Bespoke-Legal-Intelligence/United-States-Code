@@ -12,5 +12,5 @@ The limitation on the amount for such contingencies is increased, and the amount
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–293 substituted “$50,000” for “$7,500” and struck out at end “The Commandant may authorize the Superintendent of the Academy to expend not to exceed $2,500 of this amount for contingencies of the Academy.”
+<b>2004</b>—Pub. L. 108–293 substituted "$50,000" for "$7,500" and struck out at end "The Commandant may authorize the Superintendent of the Academy to expend not to exceed $2,500 of this amount for contingencies of the Academy."
 

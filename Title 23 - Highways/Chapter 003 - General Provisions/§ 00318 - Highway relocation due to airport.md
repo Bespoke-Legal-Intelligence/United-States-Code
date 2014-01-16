@@ -6,5 +6,5 @@ Federal highway funds shall not be used for the reconstruction or relocation of 
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–178 substituted “State transportation department” for “State highway department”.
+<b>1998</b>—Pub. L. 105–178 substituted "State transportation department" for "State highway department".
 

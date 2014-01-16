@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 10241 - &#8220;State&#8221; defined](%C2%A7%2010241%20-%20%E2%80%9CState%E2%80%9D%20defined.md)
+- [&sect; 10241 - State defined](%C2%A7%2010241%20-%20State%20defined.md)
 - [&sect; 10242 - Office of Nuclear Waste Negotiator](%C2%A7%2010242%20-%20Office%20of%20Nuclear%20Waste%20Negotiator.md)
 - [&sect; 10243 - Duties of Negotiator](%C2%A7%2010243%20-%20Duties%20of%20Negotiator.md)
 - [&sect; 10244 - Environmental assessment of sites](%C2%A7%2010244%20-%20Environmental%20assessment%20of%20sites.md)

@@ -84,11 +84,11 @@ Obstructs defined.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—In this paragraph, the term “obstructs” includes actions that were known, or reasonably should have been known, to prevent, hinder, or impede an investigation without good cause.
+In general.—In this paragraph, the term "obstructs" includes actions that were known, or reasonably should have been known, to prevent, hinder, or impede an investigation without good cause.
 
 &emsp;&emsp;&emsp;(ii)
 
-Good cause.—In clause (i), the term “good cause” may include actions such as restricting access to facilities that are not secure or safe for nonpipeline personnel or visitors.
+Good cause.—In clause (i), the term "good cause" may include actions such as restricting access to facilities that are not secure or safe for nonpipeline personnel or visitors.
 
 (f)
 
@@ -146,21 +146,21 @@ Aug. 12, 1968, Pub. L. 90–481, §3(d), 82 Stat. 721; Nov. 30, 1979, Pub. L. 96
 
 49 App.:2002(h) (3d–last sentences).
 
-In subsection (a)(1), the words “at all times after the date . . . takes effect . . . the requirements of” are omitted as surplus. The words “except as provided in this section” are added for clarity.
+In subsection (a)(1), the words "at all times after the date . . . takes effect . . . the requirements of" are omitted as surplus. The words "except as provided in this section" are added for clarity.
 
-In subsection (a)(2), the words “establish and” in 49 App.:2006(a)(2) and “and comply with such plan” are omitted as surplus.
+In subsection (a)(2), the words "establish and" in 49 App.:2006(a)(2) and "and comply with such plan" are omitted as surplus.
 
-In subsection (b), the word “prescribed” is substituted for “issued” for consistency in the revised title and with other titles of the United States Code. The word “particular” is omitted as surplus. The words “a person must take to comply” are substituted for “required of the person to whom the order is issued” for clarity and to eliminate unnecessary words.
+In subsection (b), the word "prescribed" is substituted for "issued" for consistency in the revised title and with other titles of the United States Code. The word "particular" is omitted as surplus. The words "a person must take to comply" are substituted for "required of the person to whom the order is issued" for clarity and to eliminate unnecessary words.
 
-In subsection (c), the words “any part of” are substituted for “in whole or in part” to eliminate unnecessary words. The words “and to such extent” and “he determines that . . . of compliance with such standard” are omitted as surplus.
+In subsection (c), the words "any part of" are substituted for "in whole or in part" to eliminate unnecessary words. The words "and to such extent" and "he determines that . . . of compliance with such standard" are omitted as surplus.
 
-In subsection (d), the words “to which the certification or agreement applies” are added for clarity. The words “to the granting of the waiver” and “any State agency action granting” are omitted as surplus. The words “shall provide a prompt opportunity for a hearing” are substituted for “shall afford such agency a prompt opportunity to present its request for waiver, with opportunity for hearing” to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code.
+In subsection (d), the words "to which the certification or agreement applies" are added for clarity. The words "to the granting of the waiver" and "any State agency action granting" are omitted as surplus. The words "shall provide a prompt opportunity for a hearing" are substituted for "shall afford such agency a prompt opportunity to present its request for waiver, with opportunity for hearing" to eliminate unnecessary words and for consistency in the revised title and with other titles of the Code.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (e). Pub. L. 112–90 amended subsec. (e) generally. Prior to amendment, text read as follows: “If the Secretary or the National Transportation Safety Board investigate an accident involving a pipeline facility, the operator of the facility shall make available to the Secretary or the Board all records and information that in any way pertain to the accident (including integrity management plans and test results), and shall afford all reasonable assistance in the investigation of the accident.”
+<b>2012</b>—Subsec. (e). Pub. L. 112–90 amended subsec. (e) generally. Prior to amendment, text read as follows: "If the Secretary or the National Transportation Safety Board investigate an accident involving a pipeline facility, the operator of the facility shall make available to the Secretary or the Board all records and information that in any way pertain to the accident (including integrity management plans and test results), and shall afford all reasonable assistance in the investigation of the accident."
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–468 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “On application of a person owning or operating a pipeline facility, the Secretary by order may waive compliance with any part of an applicable standard prescribed under this chapter on terms the Secretary considers appropriate, if the waiver is not inconsistent with pipeline safety. The Secretary shall state the reasons for granting a waiver under this subsection. The Secretary may act on a waiver only after notice and an opportunity for a hearing.”
+<b>2006</b>—Subsec. (c). Pub. L. 109–468 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "On application of a person owning or operating a pipeline facility, the Secretary by order may waive compliance with any part of an applicable standard prescribed under this chapter on terms the Secretary considers appropriate, if the waiver is not inconsistent with pipeline safety. The Secretary shall state the reasons for granting a waiver under this subsection. The Secretary may act on a waiver only after notice and an opportunity for a hearing."
 
 <b>2002</b>—Subsec. (a)(4). Pub. L. 107–355, §14(c), added par. (4).
 
@@ -168,11 +168,11 @@ Subsec. (e). Pub. L. 107–355, §10(a), added subsec. (e).
 
 Subsec. (f). Pub. L. 107–355, §10(c), added subsec. (f).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–304, §13(a)(1), struck out “transporting gas or hazardous liquid or” after “person” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–304, §13(a)(1), struck out "transporting gas or hazardous liquid or" after "person" in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 104–304, §13(a)(2), added par. (1) and struck out former par. (1) which read as follows: “comply with applicable safety standards prescribed under this chapter, except as provided in this section;”.
+Subsec. (a)(1). Pub. L. 104–304, §13(a)(2), added par. (1) and struck out former par. (1) which read as follows: "comply with applicable safety standards prescribed under this chapter, except as provided in this section;".
 
-Subsec. (b). Pub. L. 104–304, §13(b), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary of Transportation may issue orders directing compliance with this chapter or a regulation prescribed under this chapter. An order shall state clearly the action a person must take to comply.”
+Subsec. (b). Pub. L. 104–304, §13(b), reenacted subsec. heading without change and amended text generally. Prior to amendment, text read as follows: "The Secretary of Transportation may issue orders directing compliance with this chapter or a regulation prescribed under this chapter. An order shall state clearly the action a person must take to comply."
 
-Subsec. (c). Pub. L. 104–304, §13(c), substituted “owning” for “transporting gas or hazardous liquid”.
+Subsec. (c). Pub. L. 104–304, §13(c), substituted "owning" for "transporting gas or hazardous liquid".
 

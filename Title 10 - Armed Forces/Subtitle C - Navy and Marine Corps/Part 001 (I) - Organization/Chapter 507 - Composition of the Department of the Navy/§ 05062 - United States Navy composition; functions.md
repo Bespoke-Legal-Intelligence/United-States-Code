@@ -1,10 +1,10 @@
 ### §5062. United States Navy: composition; functions
 
-(a) The Navy, within the Department of the Navy, includes, in general, naval combat and service forces and such aviation as may be organic therein. The Navy shall be organized, trained, and equipped primarily for prompt and sustained combat incident to operations at sea. It is responsible for the preparation of naval forces necessary for the effective prosecution of war except as otherwise assigned and, in accordance with integrated joint mobilization plans, for the expansion of the peacetime components of the Navy to meet the needs of war.
+(a) The Navy, within the Department of the Navy, includes, in general, naval combat and service forces and such aviation as may be organic therein. The Navy shall be organized,trained, and equipped primarily for prompt and sustained combat incident to operations at sea. It is responsible for the preparation of naval forces necessary for the effective prosecution of war except as otherwise assigned and, in accordance with integrated joint mobilization plans, for the expansion of the peacetime components of the Navy to meet the needs of war.
 
 (b) The naval combat forces of the Navy shall include not less than 11 operational aircraft carriers. For purposes of this subsection, an operational aircraft carrier includes an aircraft carrier that is temporarily unavailable for worldwide deployment due to routine or scheduled maintenance or repair.
 
-(c) All naval aviation shall be integrated with the naval service as part thereof within the Department of the Navy. Naval aviation consists of combat and service and training forces, and includes land-based naval aviation, air transport essential for naval operations, all air weapons and air techniques involved in the operationsand activities of the Navy, and the entire remainder of the aeronautical organization of the Navy, together with the personnel necessary therefor.
+(c) All naval aviation shall be integrated with the naval service as part thereof within the Department of the Navy. Naval aviation consists of combat and service and training forces, and includes land-based naval aviation, air transport essential for naval operations, all air weapons and air techniques involved in the operations and activities of the Navy, and the entire remainder of the aeronautical organization of the Navy, together with the personnel necessary therefor.
 
 (d) The Navy shall develop aircraft, weapons, tactics, technique, organization, and equipment of naval combat and service elements. Matters of joint concern as to these functions shall be coordinated between the Army, the Air Force, and the Navy.
 
@@ -30,7 +30,7 @@ A prior section 5062, act Aug. 10, 1956, ch. 1041, 70A Stat. 281, prescribed the
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–364 substituted “11” for “12”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–364 substituted "11" for "12".
 
 Pub. L. 109–163, §126(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -38,15 +38,15 @@ Subsecs. (c), (d). Pub. L. 109–163, §126(a)(1), redesignated subsecs. (b) and
 
 <b>1986</b>—Pub. L. 99–433, §511(b)(3), renumbered section 5012 of this title as this section.
 
-Subsec. (a). Pub. L. 99–433, §511(b)(4)(A), substituted “assigned and, in accordance with integrated joint mobilization plans, for the expansion of the peacetime components of the Navy to meet the needs of war” for “assigned and is generally responsible for naval reconnaissance, antisubmarine warfare, and protection of shipping”.
+Subsec. (a). Pub. L. 99–433, §511(b)(4)(A), substituted "assigned and, in accordance with integrated joint mobilization plans, for the expansion of the peacetime components of the Navy to meet the needs of war" for "assigned and is generally responsible for naval reconnaissance, antisubmarine warfare, and protection of shipping".
 
 Subsec. (d). Pub. L. 99–433, §511(b)(4)(B), struck out subsec. (d) which related to responsibility for expansion of peacetime naval components to meet the needs of war.
 
 #### Number of Navy Carrier Air Wings and Carrier Air Wing Headquarters
 
-Pub. L. 112–81, div. A, title X, §1093, Dec. 31, 2011, 125 Stat. 1606, provided that: “The Secretary of the Navy shall ensure that the Navy maintains—
+Pub. L. 112–81, div. A, title X, §1093, Dec. 31, 2011, 125 Stat. 1606, provided that: "The Secretary of the Navy shall ensure that the Navy maintains—
 
-&emsp;“(1) a minimum of 10 carrier air wings; and
+&emsp;"(1) a minimum of 10 carrier air wings; and
 
-&emsp;“(2) for each such carrier air wing, a dedicated and fully staffed headquarters.”
+&emsp;"(2) for each such carrier air wing, a dedicated and fully staffed headquarters."
 

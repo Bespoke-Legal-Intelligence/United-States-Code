@@ -6,11 +6,11 @@ As used in this section:
 
 #### (1) Arson
 
-&emsp;The term “arson” includes all incendiary and suspicious fires.
+&emsp;The term "arson" includes all incendiary and suspicious fires.
 
 #### (2) Office
 
-&emsp;The term “Office” means the Office of Fire Prevention and Arson Control of the United States Fire Administration.
+&emsp;The term "Office" means the Office of Fire Prevention and Arson Control of the United States Fire Administration.
 
 #### (b) Grants
 

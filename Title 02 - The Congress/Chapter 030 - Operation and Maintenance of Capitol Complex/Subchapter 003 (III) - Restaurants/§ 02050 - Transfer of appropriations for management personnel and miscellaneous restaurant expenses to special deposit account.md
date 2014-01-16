@@ -16,3 +16,5 @@ senate office buildings” in the annual Legislative Branch Appropriations Act.
 
 Section was classified to section 174j–10 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
+Section is from the Congressional Operations Appropriations Act, 1998, which is title I of the Legislative Branch Appropriations Act, 1998.
+

@@ -12,7 +12,7 @@ If the United States is not joined as a party, a judgment in any civil action or
 
 #### (b) Other sales
 
-Notwithstanding subsection (a) sale of property on which the United States has or claims a lien, or a title derived from enforcement of a lien, under the provisions of this title, made pursuant to an instrument creating a lien onsuch property, pursuant to a confession of judgment on the obligation secured by such an instrument, or pursuant to a nonjudicial sale under a statutory lien on such property—
+Notwithstanding subsection (a) sale of property on which the United States has or claims a lien, or a title derived from enforcement of a lien, under the provisions of this title, made pursuant to an instrument creating a lien on such property, pursuant to a confession of judgment on the obligation secured by such an instrument, or pursuant to a nonjudicial sale under a statutory lien on such property—
 
 &emsp;(1) shall, except as otherwise provided, be made subject to and without disturbing such lien or title, if notice of such lien was filed or such title recorded in the place provided by law for such filing or recording more than 30 days before such sale and the United States is not given notice of such sale in the manner prescribed in subsection (c)(1); or
 
@@ -56,7 +56,7 @@ Notwithstanding subsection (a) sale of property on which the United States has o
 
 #### (A) In general
 
-&emsp;&emsp;In any case in which real property is redeemed by the United States pursuant to this subsection, the Secretary shall apply to the officer designated by local law, if any, for the documents necessary to evidence the fact of redemption and to record title to such property in the name of the United States. If no such officer is designated by local law or if such officer fails to issue such documents, the Secretary shall execute a certificate of redemption therefor.
+&emsp;&emsp;In any case in which real property is redeemed by the United States pursuant to this subsection, the Secretary shall apply to the officer designated by local law, if any, for the documents necessary to evidence the fact of redemption and to record title to such property in the name of the United States. If no such officer is designated by local law or if such officer fails to issue suchdocuments, the Secretary shall execute a certificate of redemption therefor.
 
 #### (B) Filing
 
@@ -76,13 +76,13 @@ A prior section 7425 was renumbered 7434 of this title.
 
 <b>1986</b>—Subsec. (c)(4). Pub. L. 99–514 added par. (4).
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title XV, §1572(b), Oct. 22, 1986, 100 Stat. 2765, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to forfeitures after the 30th day after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XV, §1572(b), Oct. 22, 1986, 100 Stat. 2765, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to forfeitures after the 30th day after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
 #### Effective Date
 
-Section applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lienor interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as an Effective Date of 1966 Amendment note under section 6323 of this title.
+Section applicable after Nov. 2, 1966, regardless of when title or lien of United States arose or when lien or interest of another person was acquired, with certain exceptions, see section 114(a)–(c) of Pub. L. 89–719, set out as an Effective Date of 1966 Amendment note under section 6323 of this title.
 

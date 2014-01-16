@@ -108,7 +108,7 @@ If property was acquired by a corporation in connection with a reorganization to
 
 #### Amendments
 
-<b>2005</b>—Subsec. (e)(2)(C)(ii). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “An election under clause (i) shall be included with the return of tax for the taxable year in which the transaction occurred, shall be in such form and manner as the Secretary may prescribe, and, once made, shall be irrevocable.”
+<b>2005</b>—Subsec. (e)(2)(C)(ii). Pub. L. 109–135 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "An election under clause (i) shall be included with the return of tax for the taxable year in which the transaction occurred, shall be in such form and manner as the Secretary may prescribe, and, once made, shall be irrevocable."
 
 <b>2004</b>—Subsec. (e). Pub. L. 108–357 added subsec. (e).
 
@@ -116,7 +116,7 @@ If property was acquired by a corporation in connection with a reorganization to
 
 <b>1986</b>—Subsec. (c)(3). Pub. L. 99–514 struck out par. (3) relating to exceptions for contributions in aid of construction.
 
-<b>1976</b>—Subsec. (c)(2)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (c)(2)(B). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsec. (c)(3). Pub. L. 94–455, §2120(b), added par. (3).
 
@@ -128,7 +128,7 @@ Amendment by Pub. L. 109–135 effective as if included in the provision of the 
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §836(c)(1), Oct. 22, 2004, 118 Stat. 1596, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to transactions after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §836(c)(1), Oct. 22, 2004, 118 Stat. 1596, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to transactions after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 1999 Amendment
 

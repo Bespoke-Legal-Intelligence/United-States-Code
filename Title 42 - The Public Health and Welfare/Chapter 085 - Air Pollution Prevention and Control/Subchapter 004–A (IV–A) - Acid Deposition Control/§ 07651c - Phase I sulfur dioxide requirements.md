@@ -10,7 +10,7 @@
 
 &emsp;(B) the product of each unit's baseline multiplied by 2.50 lbs/mmBtu divided by 2,000,
 
-> and sum the computations. The Administrator shall adjust the foregoing calculation to reflect projected calendar year 1995 utilization of the units subject to the emissions limitations of this subchapter that the Administrator finds would have occurred in the absence of the imposition of such requirements. Pursuant to subsection (d) of this section, the Administrator shall allocate allowances from the reserve established hereinunder until the earlier of such timeas all such allowances in the reserve are allocated or December 31, 1999.
+> and sum the computations. The Administrator shall adjust the foregoing calculation to reflect projected calendar year 1995 utilization of the units subject to the emissions limitations of this subchapter that the Administrator finds would have occurred in the absence of the imposition of such requirements. Pursuant to subsection (d) of this section, the Administrator shall allocate allowances from the reserve established hereinunder until the earlier of such time as all such allowances in the reserve are allocated or December 31, 1999.
 
 (3) In addition to allowances allocated pursuant to paragraph (1), in each calendar year beginning in 1995 and ending in 1999, inclusive, the Administrator shall allocate for each unit on Table A that is located in the States of Illinois, Indiana, or Ohio (other than units at Kyger Creek, Clifty Creek and Joppa Steam), allowances in an amount equal to 200,000 multiplied by the unit's pro rata share of the total number of allowances allocated for all units on Table A in the 3 States (other than units at Kyger Creek, Clifty Creek, and Joppa Steam) pursuant to paragraph (1). Such allowances shall be excluded from the calculation of the reserve under paragraph (2).
 
@@ -46,7 +46,7 @@ The owner or operator of an affected unit under subsection (a) of this section m
 
 &emsp;(B) provide a copy of an executed contract, which may be contingent upon the Administrator approving the proposal, for the design engineering, and construction of the qualifying phase I technology for the extension unit, or for the unit or units to which the extension unit's emission reduction obligation is to be transferred;
 
-&emsp;(C) specify the unit's or units’ baseline, actual 1985 emissions rate, allowable 1985 emissions rate, and projected utilization for calendar years 1995 through 1999;
+&emsp;(C) specify the unit's or units' baseline, actual 1985 emissions rate, allowable 1985 emissions rate, and projected utilization for calendar years 1995 through 1999;
 
 &emsp;(D) require CEMS on both the eligible phase I extension unit or units and the transfer unit or units beginning no later than January 1, 1995; and
 
@@ -62,7 +62,7 @@ The owner or operator of an affected unit under subsection (a) of this section m
 
 &emsp;(C) the amount by which (i) the product of each unit's baseline multiplied by an emission rate of 1.20 lbs/mmBtu, divided by 2,000, exceeds (ii) the tonnage level specified under subparagraph (E) of paragraph (2) of this subsection multiplied by a factor of 3.
 
-(5) Each eligible Phase I extension unit shall receive allowances determined under subsection (a)(1) or (c) of this section. In addition, for calendar year 1995, the Administrator shall allocate to each eligible Phase I extension unit, from the allowance reserve created pursuant to subsection (a)(2) of this section, allowances equal to the difference between the lesser of the average annual emissions in calendar years 1988 and 1989 or its projected emissions tonnage for calendar year 1995 and the product of the unit's baseline multiplied by an emission rate of 2.50 lbs/mmBtu, divided by 2,000. In calendar year 1996, the Administrator shall allocate for each eligible unit, from the allowance reserve created pursuant to subsection (a)(2) of this section, allowances equal to the difference between the lesser of the average annual emissions in calendar years 1988 and 1989 or its projected emissions tonnage for calendar year 1996 and the product of the unit's baseline multiplied by an emission rate of 2.50 lbs/mmBtu, divided by 2,000. It shall be unlawful for any source or unit subject to an approved extension plan under this subsection to emit sulfur dioxide in excess of the emissions limitations provided for in the permit and approved extension plan, unless the owner or operator of each unit governed by the permit and approved plan holds allowances to emit not less than the unit's total annual emissions.
+(5) Each eligible Phase I extension unit shall receive allowances determined under subsection (a)(1) or (c) of this section. In addition, for calendar year 1995, the Administrator shall allocate to each eligible Phase I extension unit, from theallowance reserve created pursuant to subsection (a)(2) of this section, allowances equal to the difference between the lesser of the average annual emissions in calendar years 1988 and 1989 or its projected emissions tonnage for calendar year 1995 and the product of the unit's baseline multiplied by an emission rate of 2.50 lbs/mmBtu, divided by 2,000. In calendar year 1996, the Administrator shall allocate for each eligible unit, from the allowance reserve created pursuant to subsection (a)(2) of this section, allowances equal to the difference between the lesser of the average annual emissions in calendar years 1988 and 1989 or its projected emissions tonnage for calendar year 1996 and the product of the unit's baseline multiplied by an emission rate of 2.50 lbs/mmBtu, divided by 2,000. It shall be unlawful for any source or unit subject to an approved extension plan under this subsection to emit sulfur dioxide in excess of the emissions limitations provided for in the permit and approved extension plan, unless the owner or operator of each unit governed by the permit and approved plan holds allowances to emit not less than the unit's total annual emissions.
 
 (6) In addition to allowances specified in paragraph (5), the Administrator shall allocate for each eligible Phase I extension unit employing qualifying Phase I technology, for calendar years 1997, 1998, and 1999, additional allowances, from any remaining allowances in the reserve created pursuant to subsection (a)(2) of this section, following the reduction in the reserve provided for in paragraph (4), not to exceed the amount by which (A) the product of each eligible unit's baseline times an emission rate of 1.20 lbs/mmBtu, divided by 2,000, exceeds (B) the tonnage level specified under subparagraph (E) of paragraph (2) of this subsection.
 
@@ -1578,15 +1578,15 @@ S. Oak Creek
 
 #### (A) Qualified energy conservation measure
 
-&emsp;&emsp;The term “qualified energy conservation measure” means a cost effective measure, as identified by the Administrator in consultation with the Secretary of Energy, that increases the efficiency of the use of electricity provided by an electric utility to its customers.
+&emsp;&emsp;The term "qualified energy conservation measure" means a cost effective measure, as identified by the Administrator in consultation with the Secretary of Energy, that increases the efficiency of the use of electricity provided by an electric utility to its customers.
 
 #### (B) Qualified renewable energy
 
-&emsp;&emsp;The term “qualified renewable energy” means energy derived from biomass, solar, geothermal, or wind as identified by the Administrator in consultation with the Secretary of Energy.
+&emsp;&emsp;The term "qualified renewable energy" means energy derived from biomass, solar, geothermal, or wind as identified by the Administrator in consultation with the Secretary of Energy.
 
 #### (C) Electric utility
 
-&emsp;&emsp;The term “electric utility” means any person, State agency, or Federal agency, which sells electric energy.
+&emsp;&emsp;The term "electric utility" means any person, State agency, or Federal agency, which sells electric energy.
 
 #### (2) Allowances for emissions avoided through energy conservation and renewable energy
 
@@ -1614,7 +1614,7 @@ S. Oak Creek
 
 #### (C) Period of applicability
 
-&emsp;&emsp;Allowances under this subsection shall be allocated only with respect to kilowatthours of electric energy saved by qualified energy conservation measures or generated by qualified renewable energy after January 1, 1992 and before the earlier of (i) December 31, 2000, or (ii) the date on which any electric utility steam generating unit owned or operated by the electric utility to which the allowances are allocated becomes subject to this subchapter (including those sources that elect to become affected by this subchapter, pursuant to section 7651i of this title).
+&emsp;&emsp;Allowances under this subsection shall be allocated only with respect to kilowatt hours of electric energy saved by qualified energy conservation measures or generated by qualified renewable energy after January 1, 1992 and before the earlier of (i) December 31, 2000, or (ii) the date on which any electric utility steam generating unit owned or operated by the electric utility to which the allowances are allocated becomes subject to this subchapter (including those sources that elect to become affected by this subchapter, pursuant to section 7651i of this title).
 
 #### (D) Determination of avoided emissions
 
@@ -1666,7 +1666,7 @@ S. Oak Creek
 
 #### (g) Conservation and Renewable Energy Reserve
 
-The Administrator shall establish a Conservation and Renewable Energy Reserve under this subsection. Beginning on January 1, 1995, the Administrator may allocate from the Conservation and Renewable Energy Reserve an amount equal to a total of 300,000 allowances for emissions of sulfur dioxide pursuant to section 7651b of this title. In order to provide 300,000 allowances for such reserve, in each year beginning in calendar year 2000 and until calendar year 2009, inclusive, the Administrator shall reduce each unit's basic Phase II allowance allocation on the basis of its pro rata share of 30,000 allowances. If allowances remain in the reserve after January 2, 2010, the Administrator shall allocate such allowances for affected units under section 7651d of this title on a pro rata basis. For purposes of this subsection, for any unit subject to the emissions limitation requirements of section 7651d of this title, the term “pro rata basis” refers to the ratio which the reductions made in such unit's allowances in order to establish the reserve under this subsection bears to the total of such reductions for all such units.
+The Administrator shall establish a Conservation and Renewable Energy Reserve under this subsection. Beginning on January 1, 1995, the Administrator may allocate from the Conservation and Renewable Energy Reserve an amount equal to a total of 300,000 allowances for emissions of sulfur dioxide pursuant to section 7651b of this title. In order to provide 300,000 allowances for such reserve, in each year beginning in calendar year 2000 and until calendar year 2009, inclusive, the Administrator shall reduce each unit's basic Phase II allowance allocation on the basis of its pro rata share of 30,000 allowances. If allowances remain in the reserve after January 2, 2010, the Administrator shall allocate such allowances for affected units under section 7651d of this title on a pro rata basis. For purposes of this subsection, for any unit subject to the emissions limitation requirements of section 7651d of this title, the term "pro rata basis" refers to the ratio which the reductions made in such unit's allowances in order to establish the reserve under this subsection bears to the total of such reductions for all such units.
 
 #### (h) Alternative allowance allocation for units in certain utility systems with optional baseline
 
@@ -1688,23 +1688,23 @@ The Administrator shall establish a Conservation and Renewable Energy Reserve un
 
 (July 14, 1955, ch. 360, title IV, §404, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2592.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “7651a(4)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "7651a(4)".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “unit's”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "unit's".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "this".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “paragraph (1)”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be "paragraph (1)".</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be "subsection".</i>
 
-<i><sup>6</sup></i><i> So in original. Probably should be “majeure”.</i>
+<i><sup>6</sup></i><i> So in original. Probably should be "majeure".</i>
 
-<i><sup>7</sup></i><i> So in original. Probably should be “impracticability”.</i>
+<i><sup>7</sup></i><i> So in original. Probably should be "impracticability".</i>
 
 <i><sup>8</sup></i><i> So in original. There is no cl. (ii).</i>
 
 <i><sup>9</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 
-<i><sup>10</sup></i><i> So in original. Probably should be section “7651a(4)”.</i>
+<i><sup>10</sup></i><i> So in original. Probably should be section "7651a(4)".</i>
 

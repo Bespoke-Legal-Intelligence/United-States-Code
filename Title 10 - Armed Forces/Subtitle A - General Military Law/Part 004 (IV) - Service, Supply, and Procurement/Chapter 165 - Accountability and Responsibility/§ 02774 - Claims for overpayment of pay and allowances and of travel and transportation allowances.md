@@ -28,39 +28,39 @@
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(2)(A). Pub. L. 109–364, §671(a)(1), substituted “$10,000” for “$1,500”.
+<b>2006</b>—Subsec. (a)(2)(A). Pub. L. 109–364, §671(a)(1), substituted "$10,000" for "$1,500".
 
-Subsec. (b)(2). Pub. L. 109–364, §671(a)(2), substituted “five years” for “three years”.
+Subsec. (b)(2). Pub. L. 109–364, §671(a)(2), substituted "five years" for "three years".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–316, §105(b)(1), substituted “Director of the Office of Management and Budget” for “Comptroller General” in par. (1), and in par. (2) inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B) and substituted “Director of the Office of Management and Budget” for “Comptroller General”, and struck out former subpar. (B) which read as follows “the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official; and”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–316, §105(b)(1), substituted "Director of the Office of Management and Budget" for "Comptroller General" in par. (1), and in par. (2) inserted "and" at end of subpar. (A), redesignated subpar. (C) as (B) and substituted "Director of the Office of Management and Budget" for "Comptroller General", and struck out former subpar. (B) which read as follows "the claim is not the subject of an exception made by the Comptroller General in the account of any accountable officer or official; and".
 
-Subsec. (b). Pub. L. 104–316, §105(b)(2), substituted “Director of the Office of Management and Budget” for “Comptroller General”.
+Subsec. (b). Pub. L. 104–316, §105(b)(2), substituted "Director of the Office of Management and Budget" for "Comptroller General".
 
-<b>1991</b>—Subsec. (a)(2)(A). Pub. L. 102–190 substituted “$1,500” for “$500”.
+<b>1991</b>—Subsec. (a)(2)(A). Pub. L. 102–190 substituted "$1,500" for "$500".
 
-<b>1987</b>—Pub. L. 100–26, §7(j)(7)(A), substituted “allowances and of” for “allowances, and” in section catchline.
+<b>1987</b>—Pub. L. 100–26, §7(j)(7)(A), substituted "allowances and of" for "allowances, and" in section catchline.
 
-Subsec. (a). Pub. L. 100–26, §7(j)(7)(B), struck out “as defined in section 101(3) of title 37,” after “uniformed services,”.
+Subsec. (a). Pub. L. 100–26, §7(j)(7)(B), struck out "as defined in section 101(3) of title 37," after "uniformed services,".
 
-<b>1985</b>—Pub. L. 99–224, §2(a)(1), substituted “and” for “other than” in section catchline.
+<b>1985</b>—Pub. L. 99–224, §2(a)(1), substituted "and" for "other than" in section catchline.
 
-Subsec. (a). Pub. L. 99–224, §2(a)(2), substituted “made before, on, or after October 2, 1972, or arising out of an erroneous payment of travel and transportation allowances” for “, other than travel and transportation allowances, made before or after October 2, 1972”.
+Subsec. (a). Pub. L. 99–224, §2(a)(2), substituted "made before, on, or after October 2, 1972, or arising out of an erroneous payment of travel and transportation allowances" for ", other than travel and transportation allowances, made before or after October 2, 1972".
 
-Subsec. (b)(2). Pub. L. 99–224, §2(a)(3), struck out “of pay or allowances, other than travel and transportation allowances,” after “payment”.
+Subsec. (b)(2). Pub. L. 99–224, §2(a)(3), struck out "of pay or allowances, other than travel and transportation allowances," after "payment".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “October 2, 1972” for “the effective date of this section”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "October 2, 1972" for "the effective date of this section".
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title VI, §671(c), Oct. 17, 2006, 120 Stat. 2270, provided that: “The amendments madeby this section \[amending this section and section 716 of Title 32, National Guard\] shall take effect on March 1, 2007.”
+Pub. L. 109–364, div. A, title VI, §671(c), Oct. 17, 2006, 120 Stat. 2270, provided that: "The amendments made by this section \[amending this section and section 716 of Title 32, National Guard\] shall take effect on March 1, 2007."
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–316 effective 60 days after Oct. 19, 1996, see section 101(e) of Pub. L. 104–316, set out as a note under section 130c of Title 2, The Congress.
+Amendment by Pub. L. 104–316 effective 60 days after Oct. 19, 1996, see section 101(e) of Pub. L. 104–316, set out as a note under section 4593 of Title 2, The Congress.
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–224 applicable to any claim arising out of an erroneous payment of travel and transportation allowances made on or after Dec. 28, 1985, see section 4 of Pub. L. 99–224, set out as a note under section 5584 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 99–224 applicable to any claim arising out of an erroneous payment of travel andtransportation allowances made on or after Dec. 28, 1985, see section 4 of Pub. L. 99–224, set out as a note under section 5584 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1980 Amendment
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Cancellation of Debts Up To $2,500 of Uniformed Service Members Incurred in Connection With Operation Desert Shield/Storm
 
-Pub. L. 104–61, title VIII, §8052, Dec. 1, 1995, 109 Stat. 662, provided that: “Notwithstanding any other provision of law, the Secretary of Defense may, when he considers it in the best interest of the United States, cancel any part of an indebtedness, up to $2,500, that is or was owed to the United States by a member or former member of a uniformed service if such indebtedness, as determined by the Secretary, was incurred in connection with Operation Desert Shield/Storm: <i>Provided</i>, That the amount of an indebtedness previously paid by a member or former member and cancelled under this section shall be refunded to the member.”
+Pub. L. 104–61, title VIII, §8052, Dec. 1, 1995, 109 Stat. 662, provided that: "Notwithstanding any other provision of law, the Secretary of Defense may, when he considers it in the best interest of the United States, cancel any part of an indebtedness, up to $2,500, that is or was owed to the United States by a member or former member of a uniformed service if such indebtedness, as determined by the Secretary, was incurred in connection with Operation Desert Shield/Storm: <i>Provided</i>, That the amount of an indebtedness previously paid by a member or former member and cancelled under this section shall be refunded to the member."
 
 Similar provisions were contained in the following prior appropriation acts:
 

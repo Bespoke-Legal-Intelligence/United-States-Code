@@ -26,7 +26,7 @@ The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs 
 
 &emsp;(12) Facilitating and supporting the training of members and units of the National Guard to meet State requirements.
 
-&emsp;(13)(A) Assisting the Secretary of Defense in facilitating and coordinating with the entities listed in subparagraph (B) the use of National Guard personnel and resources for operations conducted under title 32, or in support of State missions.
+&emsp;(13)(A) Assisting the Secretary of Defense in facilitating and coordinating with the entitieslisted in subparagraph (B) the use of National Guard personnel and resources for operations conducted under title 32, or in support of State missions.
 
 &emsp;(B) The entities listed in this subparagraph for purposes of subparagraph (A) are the following:
 
@@ -42,15 +42,15 @@ The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs 
 
 #### Amendments
 
-<b>2013</b>—Par. (13)(B)(iii), (iv). Pub. L. 112–239 redesignated cl. (iv) as (iii) and struck out former cl. (iii)which read as follows: “The United States Joint Forces Command.”
+<b>2013</b>—Par. (13)(B)(iii), (iv). Pub. L. 112–239 redesignated cl. (iv) as (iii) and struck out former cl. (iii) which read as follows: "The United States Joint Forces Command."
 
-<b>2008</b>—Pub. L. 110–181, §1813(c)(1), substituted “charter” for “charter from Secretaries of the Army and Air Force” in section catchline.
+<b>2008</b>—Pub. L. 110–181, §1813(c)(1), substituted "charter" for "charter from Secretaries of the Army and Air Force" in section catchline.
 
-Pub. L. 110–181, §1813(b)(1), in introductory provisions, substituted “The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, the Secretary of the Army, and the Secretary of the Air Force, shall develop” for “The Secretary of the Army and the Secretary of the Air Force shall jointly develop” and “reflect the full scope of the duties and activities of the Bureau, including” for “cover”.
+Pub. L. 110–181, §1813(b)(1), in introductory provisions, substituted "The Secretary of Defense, in consultation with the Chairman of the Joint Chiefs of Staff, the Secretary of the Army, and the Secretary of the Air Force, shall develop" for "The Secretary of the Army and the Secretary of the Air Force shall jointly develop" and "reflect the full scope of the duties and activities of the Bureau, including" for "cover".
 
-Pars. (2) to (14). Pub. L. 110–181, §1813(a), (b)(2), added pars. (2) and (13), redesignated former pars. (2) to (11) as (3) to (12), respectively, and former par. (12) as (14), and substituted “the Secretary of Defense” for “the Secretaries” in par. (14).
+Pars. (2) to (14). Pub. L. 110–181, §1813(a), (b)(2), added pars. (2) and (13), redesignated former pars. (2) to (11) as (3) to (12), respectively, and former par. (12) as (14), and substituted "the Secretary of Defense" for "the Secretaries" in par. (14).
 
 #### Annual Preparation of Future Years Defense Plan
 
-Pub. L. 104–196, §123, Sept. 16, 1996, 110 Stat. 2392, provided that: “The National Guard Bureau shall annually prepare a future years defense plan based on the requirement and priorities of the National Guard: <i>Provided</i>, That this plan shall be presented to the committees of Congress concurrent with the President's budget submission for each fiscal year.”
+Pub. L. 104–196, §123, Sept. 16, 1996, 110 Stat. 2392, provided that: "The National Guard Bureau shall annually prepare a future years defense plan based on the requirement and priorities of the National Guard: <i>Provided</i>, That this plan shall be presented to the committees of Congress concurrent with the President's budget submission for each fiscal year."
 

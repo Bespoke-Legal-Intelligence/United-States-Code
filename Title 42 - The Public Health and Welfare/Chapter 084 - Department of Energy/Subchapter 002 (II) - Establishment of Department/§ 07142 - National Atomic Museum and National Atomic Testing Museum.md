@@ -6,9 +6,9 @@ The museum operated by the Department of Energy and currently located at Buildin
 
 &emsp;(1) is recognized as the official atomic museum of the United States;
 
-&emsp;(2) shall be known as the “National Atomic Museum”; and
+&emsp;(2) shall be known as the "National Atomic Museum"; and
 
-&emsp;(3) shall have the sole right throughout the United States and its possessions to have and use the name “National Atomic Museum”.
+&emsp;(3) shall have the sole right throughout the United States and its possessions to have and use the name "National Atomic Museum".
 
 #### (b) Volunteers
 
@@ -42,7 +42,7 @@ The museum operated by the Nevada Test Site Historical Foundation and located in
 
 &emsp;(1) is recognized as the official atomic testing museum of the United States; and
 
-&emsp;(2) shall be known as the “National Atomic Testing Museum”.
+&emsp;(2) shall be known as the "National Atomic Testing Museum".
 
 (Pub. L. 102–190, div. C, title XXXI, §3137, Dec. 5, 1991, 105 Stat. 1578; Pub. L. 103–35, title II, §203(b)(4), May 31, 1993, 107 Stat. 102; Pub. L. 112–81, div. C, title XXXI, §3114, Dec. 31, 2011, 125 Stat. 1709.)
 
@@ -56,11 +56,11 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, §3114(1), inserted “and National Atomic Testing Museum” after “Atomic Museum” in section catchline.
+<b>2011</b>—Pub. L. 112–81, §3114(1), inserted "and National Atomic Testing Museum" after "Atomic Museum" in section catchline.
 
 Subsec. (d). Pub. L. 112–81, §3114(2), added subsec. (d).
 
-<b>1993</b>—Subsec. (c)(1). Pub. L. 103–35 struck out comma after “Secretary of Energy” in introductory provisions.
+<b>1993</b>—Subsec. (c)(1). Pub. L. 103–35 struck out comma after "Secretary of Energy" in introductory provisions.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

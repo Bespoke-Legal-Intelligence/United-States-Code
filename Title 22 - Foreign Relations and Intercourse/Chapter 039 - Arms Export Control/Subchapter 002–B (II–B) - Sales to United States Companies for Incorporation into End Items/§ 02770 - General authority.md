@@ -8,17 +8,17 @@ Subject to the conditions specified in subsection (b) of this section, the Presi
 
 Defense articles and defense services may be sold, procured and sold, or manufactured and sold, pursuant to subsection (a) of this section only if (1) the end item to which the articles apply is to be procured for the armed forces of a friendly country or international organization, (2) the articles would be supplied to the prime contractor as government-furnished equipment or materials if the end item were being procured for the use of the United States Armed Forces, and (3) the articles and services are available only from United States Government sources or are not available to the prime contractor directly from United States commercial sources at such times as may be required to meet the prime contractor's delivery schedule.
 
-#### (c) “Defense articles” and “defense services” defined
+#### (c) "Defense articles" and "defense services" defined
 
-For the purpose of this section, the terms “defense articles” and “defense services” mean defense articles and defense services as defined in section 2794(3) and (4) of this title.
+For the purpose of this section, the terms "defense articles" and "defense services" mean defense articles and defense services as defined in section 2794(3) and (4) of this title.
 
 (Pub. L. 90–629, ch. 2B, §30, as added Pub. L. 97–392, §1, Dec. 29, 1982, 96 Stat. 1962; amended Pub. L. 101–165, title IX, §9097, Nov. 21, 1989, 103 Stat. 1150.)
 
 #### Amendments
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–165 inserted “either (i)” after “such a company” in first sentence and inserted before period at end of first sentence “or (ii) in the case of ammunition parts subject to subsection (b) of this section, using commercial practices which restrict actual delivery directly to a friendly foreign country or international organization pursuant to approval under section 2778 of this title”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–165 inserted "either (i)" after "such a company" in first sentence and inserted before period at end of first sentence "or (ii) in the case of ammunition parts subject to subsection (b) of this section, using commercial practices which restrict actual delivery directly to a friendly foreign country or international organization pursuant to approval under section 2778 of this title".
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense by section 1(d) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+For delegation of functions of the President under this section, see section 1(d) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a noteunder section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 

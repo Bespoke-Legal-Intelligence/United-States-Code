@@ -8,7 +8,7 @@ The purposes of the corporation are as provided in the articles of incorporation
 
 &emsp;(3) stimulate to the highest degree possible the interests of the entire Nation in the problems of veterans, their widows, and orphans;
 
-&emsp;(4) cooperate to the fullest extent and in a harmonious manner with all veterans’ organizations in common projects designed to serve the interests of all veterans of all wars in which the United States has participated;
+&emsp;(4) cooperate to the fullest extent and in a harmonious manner with all veterans' organizations in common projects designed to serve the interests of all veterans of all wars in which the United States has participated;
 
 &emsp;(5) collate, preserve, and encourage the study of historical episodes, chronicles, mementos, and events pertaining to the wars, campaigns, and military actions of the United States;
 
@@ -26,7 +26,7 @@ The purposes of the corporation are as provided in the articles of incorporation
 
 &emsp;(12) increase our love, honor, and service to God and to our fellow man without regard to race, creed, color, or national origin; and
 
-&emsp;(13) function as a veterans’ and patriotic organization as authorized by the laws of each State in which it is incorporated.
+&emsp;(13) function as a veterans' and patriotic organization as authorized by the laws of each State in which it is incorporated.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1329; Pub. L. 109–284, §5(6), Sept. 27, 2006, 120 Stat. 1212.)
 
@@ -46,9 +46,9 @@ Historical and Revision Notes
 
 Aug. 17, 1984, Pub. L. 98–382, §3, 98 Stat. 1343.
 
-Before clause (1), the word “objects” is omitted as included in “purposes”.
+Before clause (1), the word "objects" is omitted as included in "purposes".
 
 #### Amendments
 
-<b>2006</b>—Par. (13). Pub. L. 109–284 substituted “laws of each State” for “laws of the each State”.
+<b>2006</b>—Par. (13). Pub. L. 109–284 substituted "laws of each State" for "laws of the each State".
 

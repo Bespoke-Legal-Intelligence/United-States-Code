@@ -8,7 +8,7 @@ The Administrator shall provide Congress with a report within eighteen months af
 
 Each biennial report submitted under subsection (a) of this section after the first report shall contain each of the following:
 
-&emsp;(1) An analysis of the data collected under section 13106 of this title on an industry-by-industry basis for not less than five SIC codes orother categories as the Administrator deems appropriate. The analysis shall begin with those SIC codes or other categories of facilities which generate the largest quantities of toxic chemical waste. The analysis shall include an evaluation of trends in source reduction by industry, firm size, production, or other useful means. Each such subsequent report shall cover five SIC codes or other categories which were not covered in a prior report until all SIC codes or other categories have been covered.
+&emsp;(1) An analysis of the data collected under section 13106 of this title on an industry-by-industry basis for not less than five SIC codes or other categories as the Administrator deems appropriate. The analysis shall begin with those SIC codes or other categories of facilities which generate the largest quantities of toxic chemical waste. The analysis shall include an evaluation of trends in source reduction by industry, firm size, production, or other useful means. Each such subsequent report shall cover five SIC codes or other categories which were not covered in a prior report until all SIC codes or other categories have been covered.
 
 &emsp;(2) An analysis of the usefulness and validity of the data collected under section 13106 of this title for measuring trends in source reduction and the adoption of source reduction by business.
 
@@ -32,7 +32,7 @@ Each biennial report submitted under subsection (a) of this section after the fi
 
 #### References in Text
 
-Section 13103(b) of this title, referred to in subsec. (a), was in the original “section 4(b)” and was translated as reading “section 6604(b)”, meaning section 6604(b) of Pub. L. 101–508, because Pub. L. 101–508 has no section 4 but section 6604(b) of Pub. L. 101–508 relates to development of a strategy to promote source reduction.
+Section 13103(b) of this title, referred to in subsec. (a), was in the original "section 4(b)" and was translated as reading "section 6604(b)", meaning section 6604(b) of Pub. L. 101–508, because Pub. L. 101–508 has no section 4 but section 6604(b) of Pub. L. 101–508 relates to development of a strategy to promote source reduction.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

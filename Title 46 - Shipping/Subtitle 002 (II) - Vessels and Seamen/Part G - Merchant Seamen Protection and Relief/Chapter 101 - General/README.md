@@ -11,9 +11,9 @@
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–206, title IV, §422(c)(2), Dec. 20, 1993, 107 Stat. 2439, struck out item 10102 “Designations and duties of shipping commissioners”.
+<b>1993</b>—Pub. L. 103–206, title IV, §422(c)(2), Dec. 20, 1993, 107 Stat. 2439, struck out item 10102 "Designations and duties of shipping commissioners".
 
-<b>1989</b>—Pub. L. 101–225, title II, §214(b), Dec. 12, 1989, 103 Stat. 1914, substituted “Requirement to report sexual offenses” for “Regulations” in item 10104.
+<b>1989</b>—Pub. L. 101–225, title II, §214(b), Dec. 12, 1989, 103 Stat. 1914, substituted "Requirement to report sexual offenses" for "Regulations" in item 10104.
 
 
 ---

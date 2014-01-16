@@ -6,7 +6,7 @@
 | [1512\.](%C2%A7%2001512%20-%20Transportation%2C%20open%20air%20testing%2C%20and%20disposal%3B%20Presidential%20determination%3B%20report%20to%20Congress%3B%20notice%20to%20Congress%20and%20State%20Governors.md) | Transportation, open air testing, and disposal; Presidential determination; report to Congress; notice to Congress and State Governors. |
 | [1512a.](%C2%A7%2001512a%20-%20Transportation%20of%20chemical%20munitions.md) | Transportation of chemical munitions. |
 | [1513\.](%C2%A7%2001513%20-%20Deployment%2C%20storage%2C%20and%20disposal%3B%20notification%20to%20host%20country%20and%20Congress%3B%20international%20law%20violations%3B%20reports%20to%20Congress%20and%E2%80%A6.md) | Deployment, storage, and disposal; notification to host country and Congress; international law violations; reports to Congress and international organizations. |
-| [1514\.](%C2%A7%2001514%20-%20%E2%80%9CUnited%20States%E2%80%9D%20defined.md) | “United States” defined. |
+| [1514\.](%C2%A7%2001514%20-%20United%20States%20defined.md) | "United States" defined. |
 | [1515\.](%C2%A7%2001515%20-%20Suspension%3B%20Presidential%20authorization.md) | Suspension; Presidential authorization. |
 | [1516\.](%C2%A7%2001516%20-%20Delivery%20systems.md) | Delivery systems. |
 | [1517\.](%C2%A7%2001517%20-%20Immediate%20disposal%20when%20health%20or%20safety%20are%20endangered.md) | Immediate disposal when health or safety are endangered. |
@@ -34,7 +34,7 @@
 - [&sect; 01512 - Transportation, open air testing, and disposal; Presidential determination; report to Congress; notice to Congress and State Governors](%C2%A7%2001512%20-%20Transportation%2C%20open%20air%20testing%2C%20and%20disposal%3B%20Presidential%20determination%3B%20report%20to%20Congress%3B%20notice%20to%20Congress%20and%20State%20Governors.md)
 - [&sect; 01512a - Transportation of chemical munitions](%C2%A7%2001512a%20-%20Transportation%20of%20chemical%20munitions.md)
 - [&sect; 01513 - Deployment, storage, and disposal; notification to host country and Congress; international law violations; reports to Congress and&#8230;](%C2%A7%2001513%20-%20Deployment%2C%20storage%2C%20and%20disposal%3B%20notification%20to%20host%20country%20and%20Congress%3B%20international%20law%20violations%3B%20reports%20to%20Congress%20and%E2%80%A6.md)
-- [&sect; 01514 - &#8220;United States&#8221; defined](%C2%A7%2001514%20-%20%E2%80%9CUnited%20States%E2%80%9D%20defined.md)
+- [&sect; 01514 - United States defined](%C2%A7%2001514%20-%20United%20States%20defined.md)
 - [&sect; 01515 - Suspension; Presidential authorization](%C2%A7%2001515%20-%20Suspension%3B%20Presidential%20authorization.md)
 - [&sect; 01516 - Delivery systems](%C2%A7%2001516%20-%20Delivery%20systems.md)
 - [&sect; 01517 - Immediate disposal when health or safety are endangered](%C2%A7%2001517%20-%20Immediate%20disposal%20when%20health%20or%20safety%20are%20endangered.md)

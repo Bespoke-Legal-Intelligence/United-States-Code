@@ -34,5 +34,5 @@ Repeal effective 120 days following Aug. 1, 1968, or such later date prescribed 
 
 #### Separability
 
-Act Aug. 7, 1956, ch. 1025, §23, 70 Stat. 1086, which provided that the invalidity of any provision of act Aug. 7,1956, or its application, should not affect the remainder thereof, was repealed by Pub. L. 90–448, title XIII, §1303(c), Aug. 1, 1968, 82 Stat. 573.
+Act Aug. 7, 1956, ch. 1025, §23, 70 Stat. 1086, which provided that the invalidity of any provision of act Aug. 7, 1956, or its application, should not affect the remainder thereof, was repealed by Pub. L. 90–448, title XIII, §1303(c), Aug. 1, 1968, 82 Stat. 573.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established within the Office of the Director of NIH an office to be known as the Office of Research on Women's Health (in this part referred to as the “Office”). The Office shall be headed by a director, who shall be appointed by the Director of NIH and who shall report directly to the Director.
+There is established within the Office of the Director of NIH an office to be known as the Office of Research on Women's Health (in this part referred to as the "Office"). The Office shall be headed by a director, who shall be appointed by the Director of NIH and who shall report directly to the Director.
 
 #### (b) Purpose
 
@@ -28,7 +28,7 @@ The Director of the Office shall—
 
 #### (c) Coordinating Committee
 
-(1) In carrying out subsection (b) of this section, the Director of the Office shall establish a committee to be known as the Coordinating Committee on Research on Women's Health (in this subsection referred to as the “Coordinating Committee”).
+(1) In carrying out subsection (b) of this section, the Director of the Office shall establish a committee to be known as the Coordinating Committee on Research on Women's Health (in this subsection referred to as the "Coordinating Committee").
 
 (2) The Coordinating Committee shall be composed of the Directors of the national research institutes (or the designees of the Directors).
 
@@ -48,7 +48,7 @@ The Director of the Office shall—
 
 #### (d) Advisory Committee
 
-(1) In carrying out subsection (b) of this section, the Director of the Office shall establish an advisory committee to be known as the Advisory Committee on Research on Women's Health (in this subsection referred to as the “Advisory Committee”).
+(1) In carrying out subsection (b) of this section, the Director of the Office shall establish an advisory committee to be known as the Advisory Committee on Research on Women's Health (in this subsection referred to as the "Advisory Committee").
 
 (2) The Advisory Committee shall be composed of no fewer than 12, and not more than 18 individuals, who are not officers or employees of the Federal Government. The Director of NIH shall make appointments to the Advisory Committee from among physicians, practitioners, scientists, and other health professionals, whose clinical practice, research specialization, or professional expertise includes a significant focus on research on women's health. A majority of the members of the Advisory Committee shall be women.
 
@@ -92,7 +92,7 @@ The Secretary, acting through the Assistant Secretary for Personnel and in colla
 
 For purposes of this part:
 
-&emsp;(1) The term “women's health conditions”, with respect to women of all age, ethnic, and racial groups, means all diseases, disorders, and conditions (including with respect to mental health)—
+&emsp;(1) The term "women's health conditions", with respect to women of all age, ethnic, and racial groups, means all diseases, disorders, and conditions (including with respect to mental health)—
 
 &emsp;&emsp;(A) unique to, more serious, or more prevalent in women;
 
@@ -100,19 +100,19 @@ For purposes of this part:
 
 &emsp;&emsp;(C) with respect to which there has been insufficient clinical research involving women as subjects or insufficient clinical data on women.
 
-&emsp;(2) The term “research on women's health” means research on women's health conditions, including research on preventing such conditions.
+&emsp;(2) The term "research on women's health" means research on women's health conditions, including research on preventing such conditions.
 
 (July 1, 1944, ch. 373, title IV, §486, as added Pub. L. 103–43, title I, §141(a)(3), June 10, 1993, 107 Stat. 136; amended Pub. L. 105–340, title I, §106, Oct. 31, 1998, 112 Stat. 3193; Pub. L. 111–148, title III, §3509(c), Mar. 23, 2010, 124 Stat. 534.)
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148 inserted “and who shall report directly to the Director” before period at end.
+<b>2010</b>—Subsec. (a). Pub. L. 111–148 inserted "and who shall report directly to the Director" before period at end.
 
-<b>1998</b>—Subsec. (d)(2). Pub. L. 105–340 substituted “NIH” for “the Office”.
+<b>1998</b>—Subsec. (d)(2). Pub. L. 105–340 substituted "NIH" for "the Office".
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by thePresident or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

@@ -54,7 +54,7 @@ The change conforms section 1334(b) of title 10 to the source law, the last sent
 
 <b>1994</b>—Pub. L. 103–337 renumbered section 1334 of this title as this section and amended text generally, changing one section reference.
 
-<b>1962</b>—Subsec. (b). Pub. L. 87–651 substituted “retirement (without pay) for failure to conform to standards and qualifications prescribed under section 1001 of this title may not be credited in a computation” for “retirement or transfer to the Retired Reserve may not be credited in any computation.”
+<b>1962</b>—Subsec. (b). Pub. L. 87–651 substituted "retirement (without pay) for failure to conform to standards and qualifications prescribed under section 1001 of this title may not be credited in a computation" for "retirement or transfer to the Retired Reserve may not be credited in any computation."
 
 #### Effective Date of 1994 Amendment
 
@@ -62,5 +62,5 @@ Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provi
 
 #### Effective Date of 1962 Amendment
 
-Section 305 of Pub. L. 87–651 provided that: “Section 108 of this Act \[amending this section\] is effective as of August 10, 1956, for all purposes. Section 304 of this Act is effective as of February 6, 1959.”
+Section 305 of Pub. L. 87–651 provided that: "Section 108 of this Act \[amending this section\] is effective as of August 10, 1956, for all purposes. Section 304 of this Act is effective as of February 6, 1959."
 

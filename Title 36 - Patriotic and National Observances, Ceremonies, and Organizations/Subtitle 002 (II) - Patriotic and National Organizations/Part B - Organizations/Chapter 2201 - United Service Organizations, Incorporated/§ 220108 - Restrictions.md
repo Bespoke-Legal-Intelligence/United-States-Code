@@ -66,11 +66,11 @@ Dec. 29, 1979, Pub. L. 96–165, §4(a), (b), (d), (e), 93 Stat. 1269, 1270.
 
 &nbsp;
 
-In subsection (a), before clause (1), the word “pecuniary” is omitted as unnecessary.
+In subsection (a), before clause (1), the word "pecuniary" is omitted as unnecessary.
 
-In subsection (b), the words “any shares of capital” are omitted as unnecessary.
+In subsection (b), the words "any shares of capital" are omitted as unnecessary.
 
-In subsection (c), the words “as an organization” are omitted as unnecessary.
+In subsection (c), the words "as an organization" are omitted as unnecessary.
 
-In subsection (d) the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
+In subsection (d) the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title.
 

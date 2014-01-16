@@ -6,15 +6,15 @@ The exchange allowances or proceeds derived from the exchange or sale of passeng
 
 #### References in Text
 
-The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, is Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, which is classified principally to chapter 33 (§2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
+The Mutual Educational and Cultural Exchange Act of 1961, referred to in text, is Pub. L. 87–256, Sept. 21,1961, 75 Stat. 527, as amended, which is classified principally to chapter 33 (§2451 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
 #### Codification
 
-“Section 503 of title 40” substituted in text for “section 201(c) of the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Section 503 of title 40" substituted in text for "section 201(c) of the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
-<b>1979</b>—Pub. L. 96–60 substituted “shall be available” for “are authorized to be made available”.
+<b>1979</b>—Pub. L. 96–60 substituted "shall be available" for "are authorized to be made available".
 
 #### Effective Date of 1979 Amendment
 

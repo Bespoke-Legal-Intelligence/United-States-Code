@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Office of Rural Health Policy (established in section 912 of this title), may make grants to States for the purpose of improving health care in rural areas through the operation of State offices of rural health.
+The Secretary, acting through the Director of the Office of Rural Health Policy (established in section 912 of this title), may make grants toStates for the purpose of improving health care in rural areas through the operation of State offices of rural health.
 
 #### (b) Requirement of matching funds
 
@@ -100,9 +100,9 @@ The Secretary may not make a grant under subsection (a) of this section unless a
 
 The Secretary may not make payments under subsection (a) of this section to a State for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the State has complied with each of the agreements made by the State under this section.
 
-#### (i) “State” defined
+#### (i) "State" defined
 
-For purposes of this section, the term “State” means each of the several States.
+For purposes of this section, the term "State" means each of the several States.
 
 #### (j) Authorization of appropriations
 
@@ -132,15 +132,15 @@ A prior section 338J of act July 1, 1944, was renumbered section 338K by Pub. L.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–392, §301(1), struck out “in cash” after “contributions” in introductory provisions.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–392, §301(1), struck out "in cash" after "contributions" in introductory provisions.
 
-Subsec. (j)(1). Pub. L. 105–392, §301(2), struck out “and” after “1992,” and inserted before period at end “, and such sums as may be necessary for each of the fiscal years 1998 through 2002”.
+Subsec. (j)(1). Pub. L. 105–392, §301(2), struck out "and" after "1992," and inserted before period at end ", and such sums as may be necessary for each of the fiscal years 1998 through 2002".
 
-Subsec. (k). Pub. L. 105–392, §301(3), substituted “$36,000,000” for “$10,000,000”.
+Subsec. (k). Pub. L. 105–392, §301(3), substituted "$36,000,000" for "$10,000,000".
 
 #### Communications for Rural Health Providers
 
-Pub. L. 102–538, title I, §154, formerly §134, Oct. 27, 1992, 106 Stat. 3541, renumbered §154 by Pub. L. 103–66, title VI, §6001(a)(2), Aug. 10, 1993, 107 Stat. 379, directed Secretary of Commerce, in conjunction with Secretary of Health and Human Services, to establish an advisory panel to develop recommendations for the improvement of rural health care through the collection of information needed by providers and the improvement inthe use of communications to disseminate such information and, not later than 1 year after establishment of Panel to prepare and submit to Congress a report summarizing the recommendations made by the Panel.
+Pub. L. 102–538, title I, §154, formerly §134, Oct. 27, 1992, 106 Stat. 3541, renumbered §154 by Pub. L. 103–66, title VI, §6001(a)(2), Aug. 10, 1993, 107 Stat. 379, directed Secretary of Commerce, in conjunction with Secretary of Health and Human Services, to establish an advisory panel to develop recommendations for the improvement of rural health care through the collection of information needed by providers and the improvement in the use of communications to disseminate such information and, not later than 1 year after establishment of Panel to prepare and submit to Congress a report summarizing the recommendations made by the Panel.
 
 Similar provisions were contained in Pub. L. 101–555, §3, Nov. 15, 1990, 104 Stat. 2760.
 

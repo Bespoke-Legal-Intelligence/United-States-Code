@@ -16,9 +16,9 @@
 
 (c) In this section:
 
-&emsp;(1) The term “abuse or threatened abuse of law or legal process” means the use or threatened use of a law or legal process, whether administrative, civil, or criminal, in any manner or for any purpose for which the law was not designed, in order to exert pressure on another person to cause that person to take some action or refrain from taking some action.
+&emsp;(1) The term "abuse or threatened abuse of law or legal process" means the use or threatened use of a law or legal process, whether administrative, civil, or criminal, in any manner or for any purpose for which the law was not designed, in order to exert pressure on another person to cause that person to take some action or refrain from taking some action.
 
-&emsp;(2) The term “serious harm” means any harm, whether physical or nonphysical, including psychological, financial, or reputational harm, that is sufficiently serious, under all the surrounding circumstances, to compel a reasonable person of the same background and in the same circumstances to perform or to continue performing labor or services in order to avoid incurring that harm.
+&emsp;(2) The term "serious harm" means any harm, whether physical or nonphysical, including psychological, financial, or reputational harm, that is sufficiently serious, under all the surrounding circumstances, to compel a reasonable person of the same background and in the same circumstances to perform or to continue performing labor or services in order to avoid incurring that harm.
 
 (d) Whoever violates this section shall be fined under this title, imprisoned not more than 20 years, or both. If death results from a violation of this section, or if the violation includes kidnaping, an attempt to kidnap, aggravated sexual abuse, or an attempt to kill, the defendant shall be fined under this title, imprisoned for any term of years or life, or both.
 

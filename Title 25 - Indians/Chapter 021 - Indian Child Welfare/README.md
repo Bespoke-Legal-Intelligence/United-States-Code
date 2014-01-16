@@ -35,7 +35,7 @@
 | [1931\.](Subchapter%20002%20%28II%29%20-%20Indian%20Child%20and%20Family%20Programs/%C2%A7%2001931%20-%20Grants%20for%20on%20or%20near%20reservation%20programs%20and%20child%20welfare%20codes.md) | Grants for on or near reservation programs and child welfare codes. |
 | [1932\.](Subchapter%20002%20%28II%29%20-%20Indian%20Child%20and%20Family%20Programs/%C2%A7%2001932%20-%20Grants%20for%20off-reservation%20programs%20for%20additional%20services.md) | Grants for off-reservation programs for additional services. |
 | [1933\.](Subchapter%20002%20%28II%29%20-%20Indian%20Child%20and%20Family%20Programs/%C2%A7%2001933%20-%20Funds%20for%20on%20and%20off%20reservation%20programs.md) | Funds for on and off reservation programs. |
-| [1934\.](Subchapter%20002%20%28II%29%20-%20Indian%20Child%20and%20Family%20Programs/%C2%A7%2001934%20-%20%E2%80%9CIndian%E2%80%9D%20defined%20for%20certain%20purposes.md) | “Indian” defined for certain purposes. |
+| [1934\.](Subchapter%20002%20%28II%29%20-%20Indian%20Child%20and%20Family%20Programs/%C2%A7%2001934%20-%20Indian%20defined%20for%20certain%20purposes.md) | "Indian" defined for certain purposes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -68,11 +68,11 @@
 
 #### (A) Community-based long-term care
 
-&emsp;&emsp;The term “community-based long-term care” has the meaning given such term by the Secretary.
+&emsp;&emsp;The term "community-based long-term care" has the meaning given such term by the Secretary.
 
 #### (B) Eligible entity
 
-&emsp;&emsp;The term “eligible entity” means the following:
+&emsp;&emsp;The term "eligible entity" means the following:
 
 &emsp;&emsp;&emsp;(i) A long-term care facility.
 

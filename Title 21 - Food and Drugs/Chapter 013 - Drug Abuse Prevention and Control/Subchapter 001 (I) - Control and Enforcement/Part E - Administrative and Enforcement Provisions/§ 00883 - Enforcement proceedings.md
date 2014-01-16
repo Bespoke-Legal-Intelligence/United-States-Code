@@ -6,5 +6,5 @@ Before any violation of this subchapter is reported by the Administrator of the 
 
 #### Amendments
 
-<b>1979</b>—Pub. L. 96–132 substituted “Administrator of the Drug Enforcement Administration” for “Director of the Bureau of Narcotics and Dangerous Drugs” and “Administrator may” for “Director may”.
+<b>1979</b>—Pub. L. 96–132 substituted "Administrator of the Drug Enforcement Administration" for "Director of the Bureau of Narcotics and Dangerous Drugs" and "Administrator may" for "Director may".
 

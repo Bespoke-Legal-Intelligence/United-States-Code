@@ -16,7 +16,7 @@ General.—Except as provided in this section and section 32502 of this title, a
 
 Nonapplication.—Subsection (a)(1) of this section does not apply to—
 
-&emsp;(1) the sale, offer for sale, or introduction or delivery for introduction in interstate commerce of a passenger motor vehicle or passenger motor vehicle equipment after the firstpurchase of the vehicle or equipment in good faith other than for resale (but this clause does not prohibit a standard from requiring that a vehicle or equipment be manufactured to comply with the standard over a specified period of operation or use); or
+&emsp;(1) the sale, offer for sale, or introduction or delivery for introduction in interstate commerce of a passenger motor vehicle or passenger motor vehicle equipment after the first purchase of the vehicle or equipment in good faith other than for resale (but this clause does not prohibit a standard from requiring that a vehicle or equipment be manufactured to comply with the standard over a specified period of operation or use); or
 
 &emsp;(2) a person—
 
@@ -70,11 +70,11 @@ Oct. 20, 1972, Pub. L. 92–513, §106, 86 Stat. 952.
 
 15:1916(c).
 
-In subsection (a)(4), the words “required by such subsection to the effect that a passenger motor vehicle or passenger motor vehicle equipment conforms to all applicable bumper standards” are omitted as surplus.
+In subsection (a)(4), the words "required by such subsection to the effect that a passenger motor vehicle or passenger motor vehicle equipment conforms to all applicable bumper standards" are omitted as surplus.
 
-In subsection (c)(1), before clause (A), the word “conditions” is substituted for “such terms and conditions” to eliminate unnecessary words. In clause (A), the words “comply, after importation” are substituted for “brought into conformity” for clarity and consistency.
+In subsection (c)(1), before clause (A), the word "conditions" is substituted for "such terms and conditions" to eliminate unnecessary words. In clause (A), the words "comply, after importation" are substituted for "brought into conformity" for clarity and consistency.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277 inserted “and section 32502 of this title” after “Except as provided in this section” in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 inserted "and section 32502 of this title" after "Except as provided in this section" in introductory provisions.
 

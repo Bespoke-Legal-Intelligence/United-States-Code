@@ -10,5 +10,5 @@ Section is derived from subsec. (y) of former section 264 of this title. See Cod
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: “It is not the purpose of this chapter to discriminate in any manner against State nonmember banks and in favor of national or member banks; but the purpose is to provide all banks with the same opportunity to obtain and enjoy the benefits of this chapter. No bank shall be discriminated against because its capital stock is less than the amount required for eligibility for admission into the Federal Reserve System.”
+<b>1989</b>—Pub. L. 101–73 amended section generally. Prior to amendment, section read as follows: "It is not the purpose of this chapter to discriminate in any manner against State nonmember banks and in favor of national or member banks; but the purpose is to provide all banks with the same opportunity to obtain and enjoy the benefits of this chapter. No bank shall be discriminated against because its capital stock is less than the amount required for eligibility for admission into the Federal Reserve System."
 

@@ -8,7 +8,7 @@ In the case of financing provided with respect to owner-occupied residences in t
 
 &emsp;(2) by applying subsection (f)(3) thereof without regard to subparagraph (A) thereof, and
 
-&emsp;(3) by substituting “$150,000” for “$15,000” in subsection (k)(4) thereof.
+&emsp;(3) by substituting "$150,000" for "$15,000" in subsection (k)(4) thereof.
 
 #### (b) Application
 

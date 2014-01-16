@@ -34,5 +34,5 @@ Submission and Layover Provisions.—A covered agreement under subsection (a) ma
 
 #### Effective Date
 
-Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, setout as a note under section 5301 of Title 12, Banks and Banking.
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.
 

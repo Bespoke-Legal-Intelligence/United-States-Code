@@ -46,7 +46,7 @@ The Board of Advisors shall be composed of 37 members appointed as follows:
 
 #### (b) Manner of appointments
 
-Appointments shall be made to the Board of Advisors under subsection (a) of this section in a manner which ensures that the Board of Advisors will be bipartisan in nature and will reflect the various geographic regions of the United States.
+Appointments shall be made to the Board of Advisors under subsection (a) of this section ina manner which ensures that the Board of Advisors will be bipartisan in nature and will reflect the various geographic regions of the United States.
 
 #### (c) Term of service; vacancy
 
@@ -58,11 +58,11 @@ The Board of Advisors shall elect a Chair from among its members.
 
 (Pub. L. 107–252, title II, §214, Oct. 29, 2002, 116 Stat. 1680.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “National Association of County Recorders, Election Officials and Clerks.”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "National Association of County Recorders, Election Officials and Clerks."</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “International Association of Clerks, Recorders, Election Officials and Treasurers.”</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "International Association of Clerks, Recorders, Election Officials and Treasurers."</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “Barriers”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "Barriers".</i>
 
 <i><sup>4</sup></i><i> So in original. Probably means the Public Integrity Section of the Criminal Division of the Department of Justice.</i>
 

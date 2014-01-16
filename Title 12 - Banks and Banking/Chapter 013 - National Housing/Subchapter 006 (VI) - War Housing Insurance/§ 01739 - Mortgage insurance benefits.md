@@ -10,7 +10,7 @@ In any case in which the mortgagee under a mortgage insured under section 1738 o
 
 #### (b) Consent to release of mortgagee or property
 
-The Secretary may at any time, under such terms and conditions as he may prescribe, consent to the release of the mortgagor from his liability under the mortgage or the credit instrument secured thereby, or consent to the release of parts of the mortgaged property from the lien of the mortgage: <i>Provided</i>, That the mortgagor shall not be released from such liability in any case until the Secretary is satisfied that themortgaged property has been sold to a purchaser satisfactory to the Secretary, and that such purchaser has paid on account of the purchase price, in cash or its equivalent, at least 10 per centum of the Secretary's estimate of the value as of the date the mortgage is accepted for insurance.
+The Secretary may at any time, under such terms and conditions as he may prescribe, consent to the release of the mortgagor from his liability under the mortgage or the credit instrument secured thereby, or consent to the release of parts of the mortgaged property from the lien of the mortgage: <i>Provided</i>, That the mortgagor shall not be released from such liability in any case until the Secretary is satisfied that the mortgaged property has been sold to a purchaser satisfactory to the Secretary, and that such purchaser has paid on account of the purchase price, in cash or its equivalent, at least 10 per centum of the Secretary's estimate of the value as of the date the mortgage is accepted for insurance.
 
 #### (c) Debentures; form and denomination
 
@@ -32,9 +32,9 @@ The certificate of claim issued by the Secretary to any mortgagee shall be for a
 
 &emsp;(ii) If such excess is equal to or less than the total amount payable under such certificate of claim, the Secretary shall pay to the holder of such certificate the full amount of such excess.
 
-(2) Notwithstanding any other provisions of this section, the Secretary is authorized, with the consent of the mortgagee or mortgagor, as the case may be, to effect the settlement of certificates of claim and refunds at any time afterthe sale or transfer of title to the property conveyed to the Secretary under this section and without awaiting the final liquidation of such property for the purpose of determining the net amount to be realized therefrom: <i>Provided</i>, That the settlement authority created by the Housing Amendments of 1955 shall be terminated with respect to any certificate of claim outstanding as of September 2, 1964.
+(2) Notwithstanding any other provisions of this section, the Secretary is authorized, with the consent of the mortgagee or mortgagor, as the case may be, to effect the settlement of certificates of claim and refunds at any time after the sale or transfer of title to the property conveyed to the Secretary under this section and without awaiting the final liquidation of such property for the purpose of determining the net amount to be realized therefrom: <i>Provided</i>, That the settlement authority created by the Housing Amendments of 1955 shall be terminated with respect to any certificate of claim outstanding as of September 2, 1964.
 
-(3) With the consent of the holder thereof, the Secretary is authorized to settle, without awaiting the final liquidation of the Secretary's interest in the property, any certificate of claim issued pursuant to subsection (e) of this section, with respect to which a settlement had not been effected prior to September 2, 1964, by making payment in cash to the holder thereof of such amount, not exceeding the face amount of the certificate of claim, together with the accrued interest increment thereon, as the Secretary may consider appropriate: <i>Provided</i>, That in any case where the certificate of claim is settled in accordance with the provisions of this paragraph, any amounts realized after September 2, 1964, in the liquidation of the Secretary's interest in the property, shall be retained by the Secretary and credited to the applicable insurance fund.
+(3) With the consent of the holder thereof, the Secretary is authorized to settle, without awaiting the final liquidation of the Secretary's interest in the property, any certificate of claim issued pursuant to subsection (e) of this section, with respect to which a settlement had not been effected prior to September 2, 1964, by making payment in cash to the holder thereof of such amount, not exceeding the face amount of the certificate of claim, together with the accrued interest increment thereon, as the Secretary may consider appropriate: <i>Provided</i>, That in any case where the certificate of claim is settled inaccordance with the provisions of this paragraph, any amounts realized after September 2, 1964, in the liquidation of the Secretary's interest in the property, shall be retained by the Secretary and credited to the applicable insurance fund.
 
 #### (g) Handling and disposal of property; settlement of claims
 
@@ -50,51 +50,51 @@ No mortgagee or mortgagor shall have and no certificate of claim shall be constr
 
 The General Insurance Fund, referred to in text, was established by section 1735c of this title.
 
-Sections 532 and 536 of the Appendix to title 50, referred to in subsec. (a)(2), was in the original a reference to sections 302 and 306, respectively, of the Soldiers’ and Sailors’ Civil Relief Act of 1940, Oct. 17, 1940, ch. 888, 54 Stat. 1178. That Act was amended generally and renamed the “Servicemembers Civil Relief Act” by Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2835. As so amended, provisions of the Servicemembers Civil Relief Act that are similar to those contained in former sections 532 and 536 of the Appendix to title 50 are now contained in sections 533 and 538 of the Appendix to Title 50.
+Sections 532 and 536 of the Appendix to title 50, referred to in subsec. (a)(2), was in the original a reference to sections 302 and 306, respectively, of the Soldiers' and Sailors' Civil Relief Act of 1940, Oct. 17, 1940, ch. 888, 54 Stat. 1178. That Act was amended generally and renamed the "Servicemembers Civil Relief Act" by Pub. L. 108–189, §1, Dec. 19, 2003, 117 Stat. 2835. As so amended, provisions of the Servicemembers Civil Relief Act that are similar to those contained in former sections 532 and 536 of the Appendix to title 50 are now contained in sections 533 and 538 of the Appendix to Title 50.
 
 The Housing Amendments of 1955, referred to in subsec. (f)(2), is act Aug. 11, 1955, ch. 783, 69 Stat. 635, as amended. For complete classification of this Act to the Code, see Short Title of 1955 Amendments note set out under section 1701 of this title and Tables.
 
 #### Codification
 
-In subsec. (g), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (g), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-<b>1967</b>—Pub. L. 90–19, §1(a)(3), substituted “Secretary” for “Commissioner” wherever appearing in subsecs. (a), (a)(2), (b) to (e), (f)(1), (f)(1)(i), (ii), (f)(2), (3), (g), and (h).
+<b>1967</b>—Pub. L. 90–19, §1(a)(3), substituted "Secretary" for "Commissioner" wherever appearing in subsecs. (a), (a)(2), (b) to (e), (f)(1), (f)(1)(i), (ii), (f)(2), (3), (g), and (h).
 
-Pub. L. 90–19, §1(a)(4), substituted “Secretary's” for “Commissioner's” wherever appearing in subsecs. (b) and (f)(3) of this section.
+Pub. L. 90–19, §1(a)(4), substituted "Secretary's" for "Commissioner's" wherever appearing in subsecs. (b) and (f)(3) of this section.
 
-Subsec. (g). Pub. L. 90–19, §1(d), substituted “an officer” for “the Commissioner or by any Assistant Commissioner”.
+Subsec. (g). Pub. L. 90–19, §1(d), substituted "an officer" for "the Commissioner or by any Assistant Commissioner".
 
-<b>1965</b>—Subsecs. (c), (d), (f)(1)(i). Pub. L. 89–117 substituted “General Insurance Fund” for “War Housing Insurance Fund”.
+<b>1965</b>—Subsecs. (c), (d), (f)(1)(i). Pub. L. 89–117 substituted "General Insurance Fund" for "War Housing Insurance Fund".
 
-<b>1964</b>—Subsec. (a). Pub. L. 88–560, §105(d)(1), (f), inserted “<i>Provided further</i>, That with respect to any debentures issued on or after September 2, 1964, the Commissioner may, with the consent of the mortgagee (in lieu of issuing a certificate of claim as provided in subsection (e)), include in debentures, in addition toamounts otherwise allowed for such costs, an amount not to exceed one-third of the total foreclosure, acquisition, and conveyance costs actually paid by the mortgagee and approved by the Commissioner, but in no event may the total allowance for such costs exceed the amount actually paid by the mortgagee:” and struck out of third sentence “paid after either of such dates” after “mortgage insurance premiums”, respectively.
+<b>1964</b>—Subsec. (a). Pub. L. 88–560, §105(d)(1), (f), inserted "<i>Provided further</i>, That with respect to any debentures issued on or after September 2, 1964, the Commissioner may, with the consent of the mortgagee (in lieu of issuing a certificate of claim as provided in subsection (e)), include in debentures, in addition to amounts otherwise allowed for such costs, an amount not to exceed one-third of the total foreclosure, acquisition, and conveyance costs actually paid by the mortgagee and approved by the Commissioner, but in no event may the total allowance for such costs exceed the amount actually paid by the mortgagee:" and struck out of third sentence "paid after either of such dates" after "mortgage insurance premiums", respectively.
 
 Subsec. (c). Pub. L. 88–560, §105(d)(2), increased limitation on difference between value of mortgage and aggregate face value of debentures issued from $50 to $350.
 
-Subsec. (d). Pub. L. 88–560, §105(d)(3), substituted in second sentence “default, except that debentures issued pursuant to claims for insurance filed on or after September 2, 1964, shall be dated as of the date of default or as of such later date as the Commissioner, in his discretion, may establish by regulation. The debentures” for “default, and”.
+Subsec. (d). Pub. L. 88–560, §105(d)(3), substituted in second sentence "default, except that debentures issued pursuant to claims for insurance filed on or after September 2, 1964, shall be dated as of the date of default or as of such later date as the Commissioner, in his discretion, may establish by regulation. The debentures" for "default, and".
 
-Subsec. (f). Pub. L. 88–560, §105(d)(4)–(8), designated introductory par. as par. (1) and substituted “If, after deducting (in such manner and amount as the Commissioner shall determine to be equitable and in accordance with sound accounting practice) the expenses incurred by the Commissioner, the net amount realized from any property conveyed to the Commissioner under this section and the claims assigned therewith exceed the face value” for “If the net amount realized from any property conveyed to the Commissioner under this section and the claims assigned therewith, after deducting all expenses incurred by the Commissioner in handling, dealing with, and disposing of such property and in collecting such claims, exceeds the face value”; redesignated former par. (1) as (i) and substituted “property: <i>Provided</i>, That on and after September 2, 1964, any excess remaining after payment to the holder of the full amount of the certificate of claim shall be retained by the Commissioner and credited to the War Housing Insurance Fund; and” for “property; and”; redesignated former par. (2) as (ii); designated concluding par. as par. (2) and inserted proviso; and added par. (3), respectively.
+Subsec. (f). Pub. L. 88–560, §105(d)(4)–(8), designated introductory par. as par. (1) and substituted "If, after deducting (in such manner and amount as the Commissioner shall determine to be equitable and in accordance with sound accounting practice) the expenses incurred by the Commissioner, the net amount realized from any property conveyed to the Commissioner underthis section and the claims assigned therewith exceed the face value" for "If the net amount realized from any property conveyed to the Commissioner under this section and the claims assigned therewith, after deducting all expenses incurred by the Commissioner in handling, dealing with, and disposing of such property and in collecting such claims, exceeds the face value"; redesignated former par. (1) as (i) and substituted "property: <i>Provided</i>, That on and after September 2, 1964, any excess remaining after payment to the holder of the full amount of the certificate of claim shall be retained by the Commissioner and credited to the War Housing Insurance Fund; and" for "property; and"; redesignated former par. (2) as (ii); designated concluding par. as par. (2) and inserted proviso; and added par. (3), respectively.
 
 <b>1955</b>—Subsec. (f). Act Aug. 11, 1955, authorized the Commissioner to effect the settlement of certificates of claim and refunds at any time after the sale or transfer of title to the property.
 
-<b>1950</b>—Act Apr. 20, 1950, substituted “Commissioner” for “Administrator” wherever appearing.
+<b>1950</b>—Act Apr. 20, 1950, substituted "Commissioner" for "Administrator" wherever appearing.
 
-<b>1948</b>—Subsec. (b). Act Mar. 31, 1948, substituted “value” for “necessary current cost”.
+<b>1948</b>—Subsec. (b). Act Mar. 31, 1948, substituted "value" for "necessary current cost".
 
-<b>1946</b>—Subsec. (b). Act May 22, 1946, substituted “Administrator's estimate of the necessary current cost” after “10 per centum of the” for “appraised value of such property as determined by the Administrator”.
+<b>1946</b>—Subsec. (b). Act May 22, 1946, substituted "Administrator's estimate of the necessary current cost" after "10 per centum of the" for "appraised value of such property as determined by the Administrator".
 
 <b>1943</b>—Subsec. (a). Act Oct. 14, 1943, inserted proviso dealing with losses due to nonforeclosure of mortgages to last sentence.
 
-<b>1942</b>—Act May 26, 1942, §14(b), substituted “War” and “war” for “Defense” and “defense” wherever occurring.
+<b>1942</b>—Act May 26, 1942, §14(b), substituted "War" and "war" for "Defense" and "defense" wherever occurring.
 
-Subsec. (a). Act May 26, 1942, §5, substituted “section 1738 of this title” for “this subchapter”.
+Subsec. (a). Act May 26, 1942, §5, substituted "section 1738 of this title" for "this subchapter".
 
-Subsec. (c). Act May 26, 1942, §6, substituted “subchapter” for “section”.
+Subsec. (c). Act May 26, 1942, §6, substituted "subchapter" for "section".
 
 Subsec. (d). Act May 26, 1942, §7, amended subsec. (d).
 
-Subsec. (g). Act May 26, 1942, §8, substituted “subchapter” for “section” and inserted “with respect to mortgages insured under section 1738 of this title”.
+Subsec. (g). Act May 26, 1942, §8, substituted "subchapter" for "section" and inserted "with respect to mortgages insured under section 1738 of this title".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

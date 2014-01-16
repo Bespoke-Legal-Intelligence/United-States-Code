@@ -2,35 +2,35 @@
 
 As used in this chapter, the term—
 
-&emsp;(1) “consumer education” means actions undertaken to inform consumers on matters related to the consumption of fish and fish products;
+&emsp;(1) "consumer education" means actions undertaken to inform consumers on matters related to the consumption of fish and fish products;
 
-&emsp;(2) “council” means a seafood promotional council established under section 4009 of this title;
+&emsp;(2) "council" means a seafood promotional council established under section 4009 of this title;
 
-&emsp;(3) “fish” means finfish, mollusks, crustaceans, and all other forms of aquatic animal life used for human consumption; the term does not include marine mammals and seabirds;
+&emsp;(3) "fish" means finfish, mollusks, crustaceans, and all other forms of aquatic animal life used for human consumption; the term does not include marine mammals and seabirds;
 
-&emsp;(4) “Fund” means the Fisheries Promotional Fund established in section 4008 of this title;
+&emsp;(4) "Fund" means the Fisheries Promotional Fund established in section 4008 of this title;
 
-&emsp;(5) “harvester” means any individual who is in the business of catching or growing fish for purposes of sale;
+&emsp;(5) "harvester" means any individual who is in the business of catching or growing fish for purposes of sale;
 
-&emsp;(6) “importer” means any person in the business of importing fish or fish products into the United States from another country for commercial purposes or who acts as an agent, broker, or consignee for any person or nation that produces, processes or markets fish or fish products outside of the United States for sale or other commercial purpose in the United States;
+&emsp;(6) "importer" means any person in the business of importing fish or fish products into the United States from another country for commercial purposes or who acts as an agent, broker, or consignee for any person or nation that produces, processes or markets fish or fish products outside of the United States for sale or other commercial purpose in the United States;
 
-&emsp;(7) “marketer” means any person who is in the business of selling fish or fish products in the wholesale, retail, or restaurant trade, but whose primary business function is not the processing or packaging of fish or fish products in preparation for sale;
+&emsp;(7) "marketer" means any person who is in the business of selling fish or fish products in the wholesale, retail, or restaurant trade, but whose primary business function is not the processing or packaging of fish or fish products in preparation for sale;
 
-&emsp;(8) “marketing and promotion” means an activity aimed at encouraging the consumption of fish or fish products or expanding or maintaining commercial markets for fish or fish products;
+&emsp;(8) "marketing and promotion" means an activity aimed at encouraging the consumption of fish or fish products or expanding or maintaining commercial markets for fish or fish products;
 
-&emsp;(9) “member” means any person serving on the National Council or on any council;
+&emsp;(9) "member" means any person serving on the National Council or on any council;
 
-&emsp;(10) “National Council” means the National Fish and Seafood Promotional Council established in section 4004 of this title;
+&emsp;(10) "National Council" means the National Fish and Seafood Promotional Council established in section 4004 of this title;
 
-&emsp;(11) “person” means any individual, group of individuals, partnership, corporation, association, cooperative, or any private entity organized or existing under the laws of the United States or any State, commonwealth, territory or possession of the United States;
+&emsp;(11) "person" means any individual, group of individuals, partnership, corporation, association, cooperative, or any private entity organized or existing under the laws of the United States or any State, commonwealth, territory or possession of the United States;
 
-&emsp;(12) “processor” means any person who is in the business of preparing or packaging fish or fish products (including fish of the processor's own harvesting) for sale;
+&emsp;(12) "processor" means any person who is in the business of preparing or packaging fish or fish products (including fish of the processor's own harvesting) for sale;
 
-&emsp;(13) “receiver” means any person who owns fish processing vessels and any person in the business of acquiring fish directly from harvesters;
+&emsp;(13) "receiver" means any person who owns fish processing vessels and any person in the business of acquiring fish directly from harvesters;
 
-&emsp;(14) “research” means any type of research designed to advance the image, desirability, usage, marketability, production or quality of fish and fish products;
+&emsp;(14) "research" means any type of research designed to advance the image, desirability, usage, marketability, production or quality of fish and fish products;
 
-&emsp;(15) “sector” means—
+&emsp;(15) "sector" means—
 
 &emsp;&emsp;(A) the sector consisting of harvesters;
 
@@ -44,9 +44,9 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(F) the consumer sector consisting of persons professionally engaged in the dissemination of information pertaining to the nutritional benefits and preparation of fish and fish products;
 
-&emsp;(16) “Secretary” means the Secretary of Commerce, or the Secretary's designee; and
+&emsp;(16) "Secretary" means the Secretary of Commerce, or the Secretary's designee; and
 
-&emsp;(17) “United States” means the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands and any other territory, possession, or commonwealth of the United States.
+&emsp;(17) "United States" means the several States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands and any other territory, possession, or commonwealth of the United States.
 
 (Pub. L. 99–659, title II, §204, Nov. 14, 1986, 100 Stat. 3716.)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish a National Organic Standards Board (in accordance with theFederal Advisory Committee Act) (hereafter referred to in this section as the “Board”) to assist in the development of standards for substances to be used in organic production and to advise the Secretary on any other aspects of the implementation of this chapter.
+The Secretary shall establish a National Organic Standards Board (in accordance with theFederal Advisory Committee Act) (hereafter referred to in this section as the "Board") to assist in the development of standards for substances to be used in organic production and to advise the Secretary on any other aspects of the implementation of this chapter.
 
 #### (b) Composition of Board
 
@@ -124,5 +124,5 @@ The Federal Advisory Committee Act, referred to in subsec. (a), is Pub. L. 92–
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–237 substituted “to assist” for “(to assist”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–237 substituted "to assist" for "(to assist".
 

@@ -74,7 +74,7 @@ Level V of the Executive Schedule, referred to in subsecs. (a)(2) and (b)(2)(B),
 
 “(b)(1) Subject to regulations prescribed by the Office of Personnel Management, the first sentence of subsection (a) shall not apply to an employee who is paid premium pay by reason of work in connection with an emergency which involves a direct threat to life or property, including a forest wildfire emergency.
 
-“(2) Notwithstanding paragraph (1), no employee referred to in such paragraph may be paid premium pay under the provisions of law cited in the first sentence of subsection (a) if, or to the extent that, the aggregate of such employee's basic pay and premium pay under those provisions would, in any calendar year, exceed the maximum rate payable for GS–15 in effect at the end of such calendar year.
+“(2) Notwithstanding paragraph (1), no employee referred to in such paragraph may be paid premium pay under the provisions of law cited in the first sentence of subsection (a) if, or to the extent that, the aggregateof such employee's basic pay and premium pay under those provisions would, in any calendar year, exceed the maximum rate payable for GS–15 in effect at the end of such calendar year.
 
 “(c)(1) Subsections (a) and (b) shall not apply to a law enforcement officer.
 

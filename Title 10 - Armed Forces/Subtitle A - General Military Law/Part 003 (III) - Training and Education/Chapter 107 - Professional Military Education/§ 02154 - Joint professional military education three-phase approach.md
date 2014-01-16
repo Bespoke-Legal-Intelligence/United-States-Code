@@ -22,5 +22,5 @@ Sequenced Approach.—The Secretary shall require the sequencing of joint profes
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(1). Pub. L. 112–81 inserted “or at a joint intermediate level school” before period at end.
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–81 inserted "or at a joint intermediate level school" before period at end.
 

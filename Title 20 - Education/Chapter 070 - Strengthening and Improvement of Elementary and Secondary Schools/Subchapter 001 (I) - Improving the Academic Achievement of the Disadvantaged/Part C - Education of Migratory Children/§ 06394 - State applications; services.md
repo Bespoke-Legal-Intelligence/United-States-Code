@@ -28,7 +28,7 @@ Each such application shall include—
 
 &emsp;(6) such budgetary and other information as the Secretary may require; and
 
-&emsp;(7) a description of how the State will encourage programs and projects assisted under this part to offer family literacy services if the program or project serves a substantial number of migratory children who have parents who do not have a high school diploma or its recognized equivalent or who have low levels of literacy.
+&emsp;(7) a description of how the State will encourage programs and projects assisted under this part to offer family literacy services if the program or project serves a substantialnumber of migratory children who have parents who do not have a high school diploma or its recognized equivalent or who have low levels of literacy.
 
 #### (c) Assurances
 

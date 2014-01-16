@@ -24,7 +24,7 @@
 
 &emsp;As soon as practicable after the agreement is reached under subsection (a) with regard to a project to be funded in whole or in part using project funds, or other funds described in section 7123(a)(2) of this title, the Secretary concerned shall transfer to the applicable unit of National Forest System land or Bureau of Land Management District an amount of project funds equal to—
 
-&emsp;&emsp;(A) in the case of a project to be completed in a single fiscal year, the total amount specified in the agreement to be paid usingproject funds, or other funds described in section 7123(a)(2) of this title; or
+&emsp;&emsp;(A) in the case of a project to be completed in a single fiscal year, the total amount specified in the agreement to be paid using project funds, or other funds described in section 7123(a)(2) of this title; or
 
 &emsp;&emsp;(B) in the case of a multiyear project, the amount specified in the agreement to be paid using project funds, or other funds described in section 7123(a)(2) of this title for the first fiscal year.
 

@@ -6,7 +6,7 @@ In computing taxable income under section 63, there shall be allowed as deductio
 
 #### Amendments
 
-<b>1977</b>—Pub. L. 95–30 substituted “section 63” for “section 63(a)”.
+<b>1977</b>—Pub. L. 95–30 substituted "section 63" for "section 63(a)".
 
 #### Effective Date of 1977 Amendment
 

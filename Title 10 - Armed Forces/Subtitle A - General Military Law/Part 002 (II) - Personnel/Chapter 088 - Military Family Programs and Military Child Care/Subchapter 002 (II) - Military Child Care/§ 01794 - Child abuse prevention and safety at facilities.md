@@ -20,7 +20,7 @@ Safety Regulations.—The Secretary of Defense shall prescribe regulations on sa
 
 (e)
 
-Inspections.—The Secretary of Defense shall require that each military child development center be inspected not less often than four times a year. Each such inspection shall be unannounced. At least one inspection a year shall be carried out by a representative of theinstallation served by the center, and one inspection a year shall be carried out by a representative of the major command under which that installation operates.
+Inspections.—The Secretary of Defense shall require that each military child development center be inspected not less often than four times a year. Each such inspection shall be unannounced. At least one inspection a year shall be carried out by a representative of the installation served by the center, and one inspection a year shall be carried out by a representative of the major command under which that installation operates.
 
 (f)
 

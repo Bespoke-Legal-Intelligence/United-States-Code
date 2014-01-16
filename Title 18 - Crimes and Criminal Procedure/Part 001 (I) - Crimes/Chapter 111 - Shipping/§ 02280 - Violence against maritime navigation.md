@@ -54,7 +54,7 @@ Jurisdiction.—There is jurisdiction over the activity prohibited in subsection
 
 (c)
 
-Bar To Prosecution.—It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term “labor dispute” has the meaning set forth in section 2(c) <sup>1</sup> of the Norris-LaGuardia Act, as amended (29 U.S.C. 113(c)).
+Bar To Prosecution.—It is a bar to Federal prosecution under subsection (a) for conduct that occurred within the United States that the conduct involved was during or in relation to a labor dispute, and such conduct is prohibited as a felony under the law of the State in which it was committed. For purposes of this section, the term "labor dispute" has the meaning set forth in section 2(c) <sup>1</sup> of the Norris-LaGuardia Act, as amended (29 U.S.C. 113(c)).
 
 (d)
 
@@ -64,35 +64,35 @@ Delivery of Suspected Offender.—The master of a covered ship flying the flag o
 
 Definitions.—In this section—
 
-&emsp;“covered ship” means a ship that is navigating or is scheduled to navigate into, through or from waters beyond the outer limit of the territorial sea of a single country or a lateral limit of that country's territorial sea with an adjacent country.
+&emsp;"covered ship" means a ship that is navigating or is scheduled to navigate into, through or from waters beyond the outer limit of the territorial sea of a single country or a lateral limit of that country's territorial sea with an adjacent country.
 
-&emsp;“national of the United States” has the meaning stated in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
+&emsp;"national of the United States" has the meaning stated in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
-&emsp;“territorial sea of the United States” means all waters extending seaward to 12 nautical miles from the baselines of the United States determined in accordance with international law.
+&emsp;"territorial sea of the United States" means all waters extending seaward to 12 nautical miles from the baselines of the United States determined in accordance with international law.
 
-&emsp;“ship” means a vessel of any type whatsoever not permanently attached to the sea-bed, including dynamically supported craft, submersibles or any other floating craft, but does not include a warship, a ship owned or operated by a government when being used as a naval auxiliary or for customs or police purposes, or a ship which has been withdrawn from navigation or laid up.
+&emsp;"ship" means a vessel of any type whatsoever not permanently attached to the sea-bed, including dynamically supported craft, submersibles or any other floating craft, but does not include a warship, a ship owned or operated by a government when being used as a naval auxiliary or for customs or police purposes, or a ship which has been withdrawn from navigation or laid up.
 
-&emsp;“United States”, when used in a geographical sense, includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands and all territories and possessions of the United States.
+&emsp;"United States", when used in a geographical sense, includes the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands and all territories and possessions of the United States.
 
 (Added Pub. L. 103–322, title VI, §60019(a), Sept. 13, 1994, 108 Stat. 1975; amended Pub. L. 104–132, title VII, §§722, 723(a)(1), Apr. 24, 1996, 110 Stat. 1299, 1300.)
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1)(H). Pub. L. 104–132, §723(a)(1), inserted “or conspires” after “attempts”.
+<b>1996</b>—Subsec. (a)(1)(H). Pub. L. 104–132, §723(a)(1), inserted "or conspires" after "attempts".
 
-Subsec. (b)(1)(A)(ii). Pub. L. 104–132, §722(1), struck out “and the activity is not prohibited as a crime by the State in which the activity takes place” after “the United States”.
+Subsec. (b)(1)(A)(ii). Pub. L. 104–132, §722(1), struck out "and the activity is not prohibited as a crime by the State in which the activity takes place" after "the United States".
 
-Subsec. (b)(1)(A)(iii). Pub. L. 104–132, §722(2), struck out “the activity takes place on a ship flying the flag of a foreign country or outside the United States,” before “by a national of the United States”.
+Subsec. (b)(1)(A)(iii). Pub. L. 104–132, §722(2), struck out "the activity takes place on a ship flying the flag of a foreign country or outside the United States," before "by a national of the United States".
 
 #### Effective Date
 
-Pub. L. 103–322, title VI, §60019(c), Sept. 13, 1994, 108 Stat. 1979, provided that: “This section \[enacting this section and section 2281 of this title\] and the amendments made by this section shall take effect on the later of—
+Pub. L. 103–322, title VI, §60019(c), Sept. 13, 1994, 108 Stat. 1979, provided that: "This section \[enacting this section and section 2281 of this title\] and the amendments made by this section shall take effect on the later of—
 
-&emsp;“(1) the date of the enactment of this Act \[Sept. 13, 1994\]; or
+&emsp;"(1) the date of the enactment of this Act \[Sept. 13, 1994\]; or
 
-&emsp;“(2)(A) in the case of section 2280 of title 18, United States Code, the date the Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation has come into force and the United States has become a party to that Convention; and
+&emsp;"(2)(A) in the case of section 2280 of title 18, United States Code, the date the Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation has come into force and the United States has become a party to that Convention; and
 
-&emsp;“(B) in the case of section 2281 of title 18, United States Code, the date the Protocol for the Suppression of Unlawful Acts Against the Safety of Fixed Platforms Located on the Continental Shelf has come into force and the United States has become a party to that Protocol.”
+&emsp;"(B) in the case of section 2281 of title 18, United States Code, the date the Protocol for the Suppression of Unlawful Acts Against the Safety of Fixed Platforms Located on the Continental Shelf has come into force and the United States has become a party to that Protocol."
 
 > \[Convention and Protocol came into force Mar. 1, 1992, and entered into force with respect to the United States Mar. 6, 1995, Treaty Doc. 101–1.\]
 
@@ -100,5 +100,5 @@ Pub. L. 103–322, title VI, §60019(c), Sept. 13, 1994, 108 Stat. 1979, provide
 
 For extension of territorial sea of United States, see Proc. No. 5928, set out as a note under section 1331 of Title 43, Public Lands.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “13(c)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "13(c)".</i>
 

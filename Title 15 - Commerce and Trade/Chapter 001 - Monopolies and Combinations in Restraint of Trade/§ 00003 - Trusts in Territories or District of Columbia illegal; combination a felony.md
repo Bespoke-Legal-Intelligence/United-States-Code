@@ -8,27 +8,27 @@
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–237, which directed the substitution of “$100,000,000” for “$10,000,000”, “$1,000,000” for “$350,000”, and “10” for “three”, was executed by making each substitution in both subsecs. (a) and (b) to reflect the probable intent of Congress.
+<b>2004</b>—Pub. L. 108–237, which directed the substitution of "$100,000,000" for "$10,000,000", "$1,000,000" for "$350,000", and "10" for "three", was executed by making each substitution in both subsecs. (a) and (b) to reflect the probable intent of Congress.
 
 <b>2002</b>—Pub. L. 107–273 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1990</b>—Pub. L. 101–588 substituted “$10,000,000” for “one million dollars” and “$350,000” for “one hundred thousand dollars”.
+<b>1990</b>—Pub. L. 101–588 substituted "$10,000,000" for "one million dollars" and "$350,000" for "one hundred thousand dollars".
 
-<b>1974</b>—Pub. L. 93–528 substituted “a felony, and, on conviction thereof, shall be punished by fine not exceeding one million dollars if a corporation, or, if any other person, one hundred thousand dollars, or by imprisonment not exceeding three years” for “a misdemeanor, and, on conviction thereof, shall be punished by fine not exceeding fifty thousand dollars, or by imprisonment not exceeding one year”.
+<b>1974</b>—Pub. L. 93–528 substituted "a felony, and, on conviction thereof, shall be punished by fine not exceeding one million dollars if a corporation, or, if any other person, one hundred thousand dollars, or by imprisonment not exceeding three years" for "a misdemeanor, and, on conviction thereof, shall be punished by fine not exceeding fifty thousand dollars, or by imprisonment not exceeding one year".
 
-<b>1955</b>—Act July 7, 1955, substituted “fifty thousand dollars” for “five thousand”.
+<b>1955</b>—Act July 7, 1955, substituted "fifty thousand dollars" for "five thousand".
 
 #### Effective Date of 2002 Amendment
 
 Pub. L. 107–273, div. C, title IV, §14103, Nov. 2, 2002, 116 Stat. 1922, provided that:
 
-“(a)
+"(a)
 
 Effective Date.—Except as provided in subsection (b), this subtitle \[probably means this title, amending this section and sections 12, 27, and 44 of this title, section 225 of Title 7, Agriculture, section 1413 of Title 30, Mineral Lands and Mining, and section 2135 of Title 42, The Public Health and Welfare, repealing sections 30 and 31 of this title, enacting provisions set out as a note under section 1 of this title, amending provisions set out as notes under sections 1 and 8 of this title, and repealing provisions set out as notes under section 15 of this title and section 41309 of Title 49, Transportation\] and the amendments made by this subtitle shall take effect on the date of enactment of this Act \[Nov. 2, 2002\].
 
-“(b)
+"(b)
 
 Application to Cases.—(1) Section 14102(f) \[repealing section 30 of this title\] shall apply to cases pending on or after the date of the enactment of this Act.
 
-“(2) The amendments made by subsections (a), (b), and (c) of section 14102 \[amending this section and sections 12 and 44 of this title, section 225 of Title 7, Agriculture, section 1413 of Title 30, Mineral Lands and Mining, and section 2135 of Title 42, The Public Health and Welfare, repealing section 31 of this title, amending provisions set out as a note under section 8 of this title, and repealing provisions set out as a note under section 15 of this title\] shall apply only with respect to cases commenced on or after the date of enactment of this Act.”
+"(2) The amendments made by subsections (a), (b), and (c) of section 14102 \[amending this section and sections 12 and 44 of this title, section 225 of Title 7, Agriculture, section 1413 of Title 30, Mineral Lands and Mining, and section 2135 of Title 42, The Public Health and Welfare, repealing section 31 of this title, amending provisions set out as a note under section 8 of this title, and repealing provisions set out as a note under section 15 of this title\] shall apply only with respect to cases commenced on or after the date of enactment of this Act."
 

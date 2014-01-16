@@ -6,11 +6,11 @@ For purposes of this section:
 
 #### (1) Advisory committee
 
-&emsp;The term “advisory committee” means an advisory committee under the Federal Advisory Committee Act that provides advice or recommendations to the Secretary regarding activities of the Food and Drug Administration.
+&emsp;The term "advisory committee" means an advisory committee under the Federal Advisory Committee Act that provides advice or recommendations to the Secretary regarding activities of the Food and Drug Administration.
 
 #### (2) Financial interest
 
-&emsp;The term “financial interest” means a financial interest under section 208(a) of title 18.
+&emsp;The term "financial interest" means a financial interest under section 208(a) of title 18.
 
 #### (b) Recruitment for advisory committees
 
@@ -58,7 +58,7 @@ Notwithstanding section 107(a)(2) of the Ethics in Government Act of 1978, the f
 
 #### (1) 15 or more days in advance
 
-&emsp;As soon as practicable, but (except as provided in paragraph (2)) not later than 15 days prior to a meeting of an advisory committee to which a written determination as referred to in section 208(b)(1) of title 18 or a written certification as referred to in section 208(b)(3) of such title, applies, the Secretary shall disclose (other than information exempted from disclosure under section 552 or section 552a of title 5 (popularly known as the Freedom of Information Act and the Privacy Act of 1974, respectively)) on the Internet Web site of the Food and Drug Administration—
+&emsp;As soon as practicable, but (except as provided in paragraph (2)) not later than 15 days prior to a meeting of an advisory committeeto which a written determination as referred to in section 208(b)(1) of title 18 or a written certification as referred to in section 208(b)(3) of such title, applies, the Secretary shall disclose (other than information exempted from disclosure under section 552 or section 552a of title 5 (popularly known as the Freedom of Information Act and the Privacy Act of 1974, respectively)) on the Internet Web site of the Food and Drug Administration—
 
 &emsp;&emsp;(A) the type, nature, and magnitude of the financial interests of the advisory committee member to which such determination or certification applies; and
 
@@ -88,7 +88,7 @@ The Secretary shall ensure that the public record and transcript of each meeting
 
 #### (2) Public availability
 
-&emsp;Not later than 30 days after submitting any report under paragraph (1) to the committeesspecified in such paragraph, the Secretary shall make each such report available to the public.
+&emsp;Not later than 30 days after submitting any report under paragraph (1) to the committees specified in such paragraph, the Secretary shall make each such report available to the public.
 
 #### (f) Periodic review of guidance
 
@@ -120,17 +120,17 @@ A prior section 712 of act June 25, 1938, was renumbered section 711 by Pub. L. 
 
 <b>2012</b>—Subsecs. (b), (c). Pub. L. 112–144, §1142(a)(1), added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which related to appointments to advisory committees and disclosures, prohibitions on participation, and waivers.
 
-Subsec. (d). Pub. L. 112–144, §1142(a)(2), substituted “subsection (c)” for “subsection (c)(3)”.
+Subsec. (d). Pub. L. 112–144, §1142(a)(2), substituted "subsection (c)" for "subsection (c)(3)".
 
 Subsec. (e). Pub. L. 112–144, §1142(a)(3), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to annual report.
 
-Subsec. (f). Pub. L. 112–144, §1142(a)(4), substituted “shall—” for “shall review guidance of the Food and Drug Administration regarding conflict of interest waiver determinations with respect to advisory committees and update such guidance as necessary.” and added pars. (1) and (2).
+Subsec. (f). Pub. L. 112–144, §1142(a)(4), substituted "shall—" for "shall review guidance of the Food and Drug Administration regarding conflict of interest waiver determinations with respect to advisory committees and update such guidance as necessary." and added pars. (1) and (2).
 
 Subsec. (g). Pub. L. 112–144, §1142(a)(5), added subsec. (g).
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–144, title XI, §1142(b), July 9, 2012, 126 Stat. 1130, provided that: “The amendments made by subsection (a) \[amending this section\] apply beginning on October 1, 2012.”
+Pub. L. 112–144, title XI, §1142(b), July 9, 2012, 126 Stat. 1130, provided that: "The amendments made by subsection (a) \[amending this section\] apply beginning on October 1, 2012."
 
 #### Effective Date
 

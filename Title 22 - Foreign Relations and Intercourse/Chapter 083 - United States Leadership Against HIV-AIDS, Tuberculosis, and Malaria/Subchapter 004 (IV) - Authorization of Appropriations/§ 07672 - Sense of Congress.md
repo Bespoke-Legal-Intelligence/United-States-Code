@@ -18,13 +18,13 @@ It is the sense of Congress that, of the amounts appropriated pursuant to the au
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–293 substituted “10 percent should be used” for “an effective distribution of such amounts would be—
+<b>2008</b>—Subsec. (b). Pub. L. 110–293 substituted "10 percent should be used" for "an effective distribution of such amounts would be—
 
-&emsp;“(1) 55 percent of such amounts for treatment of individuals with HIV/AIDS;
+&emsp;"(1) 55 percent of such amounts for treatment of individuals with HIV/AIDS;
 
-&emsp;“(2) 15 percent of such amounts for palliative care of individuals with HIV/AIDS;
+&emsp;"(2) 15 percent of such amounts for palliative care of individuals with HIV/AIDS;
 
-&emsp;“(3) 20 percent of such amounts for HIV/AIDS prevention consistent with section 2151b–2(d) of this title, of which such amount at least 33 percent should be expended for abstinence-until-marriage programs; and
+&emsp;"(3) 20 percent of such amounts for HIV/AIDS prevention consistent with section 2151b–2(d) of this title, of which such amount at least 33 percent should be expended for abstinence-until-marriage programs; and
 
-&emsp;“(4) 10 percent of such amounts”.
+&emsp;"(4) 10 percent of such amounts".
 

@@ -46,7 +46,7 @@ Procedures.—The Secretary may carry out this section—
 
 &emsp;(7)
 
-Development and promotion of use of products.—The Secretary shall use fundsmade available to carry out this section to develop, administer, communicate, and promote the use of products of research, technology, and technology transfer programs under this section.
+Development and promotion of use of products.—The Secretary shall use funds made available to carry out this section to develop, administer, communicate, and promote the use of products of research, technology, and technology transfer programs under this section.
 
 (b)
 
@@ -98,7 +98,7 @@ Historical and Revision Notes
 
 Dec. 18, 1991, Pub. L. 102–240, §4002(j), 105 Stat. 2144.
 
-The words “safety duties and powers” are substituted for “safety functions” for clarity and consistency in the revised title. The reference to fiscal year 1992 is omitted as obsolete.
+The words "safety duties and powers" are substituted for "safety functions" for clarity and consistency in the revised title. The reference to fiscal year 1992 is omitted as obsolete.
 
 #### References in Text
 
@@ -106,5 +106,5 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text read as follows: “Not more than $\_\_\_\_\_\_\_\_\_\_ may be appropriated to the Secretary of Transportation for the fiscal year ending September 30, 19\_\_, to carry out the safety duties and powers of the Federal Highway Administration.”
+<b>2005</b>—Pub. L. 109–59 amended section catchline and text generally. Prior to amendment, text read as follows: "Not more than $\_\_\_\_\_\_\_\_\_\_ may be appropriated to the Secretary of Transportation for the fiscal year ending September 30, 19\_\_, to carry out the safety duties and powers of the Federal Highway Administration."
 

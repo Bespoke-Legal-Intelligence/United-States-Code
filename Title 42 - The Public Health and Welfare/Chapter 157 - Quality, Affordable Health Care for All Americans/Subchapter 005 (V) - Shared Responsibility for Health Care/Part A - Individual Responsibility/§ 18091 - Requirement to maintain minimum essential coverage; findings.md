@@ -4,13 +4,13 @@ Congress makes the following findings:
 
 #### (1) In general
 
-&emsp;The individual responsibility requirement provided for in this section (in this section referred to as the “requirement”) is commercial and economic in nature, and substantially affects interstate commerce, as a result of the effects described in paragraph (2).
+&emsp;The individual responsibility requirement provided for in this section (in this section referred to as the "requirement") is commercial and economic in nature, and substantially affects interstate commerce, as a result of the effects described in paragraph (2).
 
 #### (2) Effects on the national economy and interstate commerce
 
 &emsp;The effects described in this paragraph are the following:
 
-&emsp;&emsp;(A) The requirement regulates activity that is commercial and economic in nature: economic and financial decisions about howand when health care is paid for, and when health insurance is purchased. In the absence of the requirement, some individuals would make an economic and financial decision to forego health insurance coverage and attempt to self-insure, which increases financial risks to households and medical providers.
+&emsp;&emsp;(A) The requirement regulates activity that is commercial and economic in nature: economic and financial decisions about how and when health care is paid for, and when health insurance is purchased. In the absence of the requirement, some individuals would make an economic and financial decision to forego health insurance coverage and attempt to self-insure, which increases financial risks to households and medical providers.
 
 &emsp;&emsp;(B) Health insurance and health care services are a significant part of the national economy. National health spending is projected to increase from $2,500,000,000,000, or 17.6 percent of the economy, in 2009 to $4,700,000,000,000 in 2019. Private health insurance spending is projected to be $854,000,000,000 in 2009, and pays for medical supplies, drugs, and equipment that are shipped in interstate commerce. Since most health insurance is sold by national or regional health insurance companies, health insurance is sold in interstate commerce and claims payments flow through interstate commerce.
 
@@ -32,7 +32,7 @@ Congress makes the following findings:
 
 #### (3) Supreme Court ruling
 
-&emsp;In United States v. South-Eastern Underwriters Association (322 U.S. 533 (1944)), the Supreme Court of the United States ruled that insurance is interstate commerce subject to Federal regulation.
+&emsp;In United States v. South-Eastern Underwriters Association (322 U.S. 533 (1944)), theSupreme Court of the United States ruled that insurance is interstate commerce subject to Federal regulation.
 
 (Pub. L. 111–148, title I, §1501(a), title X, §10106(a), Mar. 23, 2010, 124 Stat. 242, 907.)
 

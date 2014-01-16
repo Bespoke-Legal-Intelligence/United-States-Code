@@ -26,5 +26,5 @@ Termination.—The authority of the Secretary under this section shall expire on
 
 #### Amendments
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–201 substituted “on February 10, 1998” for “two years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–201 substituted "on February 10, 1998" for "two years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996".
 

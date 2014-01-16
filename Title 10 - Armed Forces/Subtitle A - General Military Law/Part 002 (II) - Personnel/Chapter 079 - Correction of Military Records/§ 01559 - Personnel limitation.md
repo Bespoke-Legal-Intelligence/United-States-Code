@@ -24,7 +24,7 @@ Baseline Number.—The baseline number for a service review agency under this se
 
 (c)
 
-Service Review Agency Defined.—In this section, the term “service review agency” means—
+Service Review Agency Defined.—In this section, the term "service review agency" means—
 
 &emsp;(1) with respect to the Department of the Army, the Army Review Boards Agency;
 
@@ -38,13 +38,13 @@ Service Review Agency Defined.—In this section, the term “service review age
 
 <b>2013</b>—Subsec. (a). Pub. L. 112–239, §1076(b)(2), made technical amendment to directory language of Pub. L. 111–383. See 2011 Amendment note below.
 
-Pub. L. 112–239, §520, substituted “December 31, 2016” for “December 31, 2013”.
+Pub. L. 112–239, §520, substituted "December 31, 2016" for "December 31, 2013".
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–383, as amended by Pub. L. 112–239, §1076(b)(2), substituted “December 31, 2013” for “December 31, 2010” in introductory provisions.
+<b>2011</b>—Subsec. (a). Pub. L. 111–383, as amended by Pub. L. 112–239, §1076(b)(2), substituted "December 31, 2013" for "December 31, 2010" in introductory provisions.
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–417 substituted “December 31, 2010” for “October 1, 2008” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–417 substituted "December 31, 2010" for "October 1, 2008" in introductory provisions.
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–375 substituted “Before October 1, 2008,” for “During fiscal years 2003, 2004, and 2005,”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375 substituted "Before October 1, 2008," for "During fiscal years 2003, 2004, and 2005,".
 
 #### Effective Date of 2013 Amendment
 

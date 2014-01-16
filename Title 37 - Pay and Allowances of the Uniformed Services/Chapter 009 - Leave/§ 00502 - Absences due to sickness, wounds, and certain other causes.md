@@ -2,7 +2,7 @@
 
 (a) A member of the Army, Navy, Air Force, Marine Corps, Coast Guard, or National Oceanic and Atmospheric Administration, who is absent because of sickness or wounds, or who is directed by the Secretary concerned, or his designated representative, to be absent from duty to await orders pending disability retirement proceedings for a period that is longer than the leave authorized by section 701 of title 10, is entitled to the pay and allowances to which he would be entitled if he were not so absent. A member who is absent with leave for any other reason for not longer than the leave authorized by that section is entitled to the same pay and allowances to which he would be entitled if he were not on leave, and to any additional allowances otherwise provided by law for members on leave.
 
-(b) Except as provided in subsection (a) and section 701(h) of title 10, a member who is authorized by the Secretary concerned, or his designated representative, to be absent for a period that is longer than the leave authorized by section 701 of title 10 is not entitled to pay or allowances during the part of his absence that is more than the number of days’ leave authorized by that section.
+(b) Except as provided in subsection (a) and section 701(h) of title 10, a member who is authorized by the Secretary concerned, or his designated representative, to be absent for a period that is longer than the leave authorized by section 701 of title 10 is not entitled to pay or allowances during the part of his absence that is more than the number of days' leave authorized by that section.
 
 (Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 482; Pub. L. 89–718, §49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 96–513, title V, §516(15), Dec. 12, 1980, 94 Stat. 2939; Pub. L. 99–661, div. A, title V, §506(b), Nov. 14, 1986, 100 Stat. 3865; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
 
@@ -40,21 +40,21 @@ Aug. 17, 1949, ch. 452, §1 (less last proviso), 63 Stat. 611.
 
 Aug. 9, 1946, ch. 931, §2(f) (last 8 words), 60 Stat. 963.
 
-In subsection (a), the words “After August 31, 1946”, in section 33(b) of existing title 37, are omitted as executed. The words “allowance or”, in section 33(b) of existing title 37, are omitted as surplusage. The last sentence of section 33(b) of existing title 37 is omitted as executed, since the Act of December 28, 1945 (59 Stat. 663) was repealed by section 506(g) of the Officer Personnel Act of 1947 (61 Stat. 892).
+In subsection (a), the words "After August 31, 1946", in section 33(b) of existing title 37, are omitted as executed. The words "allowance or", in section 33(b) of existing title 37, are omitted as surplusage. The last sentence of section 33(b) of existing title 37 is omitted as executed, since the Act of December 28, 1945 (59 Stat. 663) was repealed by section 506(g) of the Officer Personnel Act of 1947 (61 Stat. 892).
 
-In subsections (a) and (b), the words “, or his designated representative,” are substituted for the last 8 words of section 32(f) of existing title 37.
+In subsections (a) and (b), the words ", or his designated representative," are substituted for the last 8 words of section 32(f) of existing title 37.
 
-In subsection (b), the words “Except as provided in subsection (a) of this section” are inserted for clarity. The words “the part of his absence that is more than the number of days’ leave authorized by that section” are substituted for the words “such absence”.
+In subsection (b), the words "Except as provided in subsection (a) of this section" are inserted for clarity. The words "the part of his absence that is more than the number of days' leave authorized by that section" are substituted for the words "such absence".
 
 #### Amendments
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out “of this section” after “subsection (a)”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–25 struck out "of this section" after "subsection (a)".
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–661 inserted “and section 701(h) of title 10”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–661 inserted "and section 701(h) of title 10".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration".
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey".
 
 #### Effective Date of 1980 Amendment
 

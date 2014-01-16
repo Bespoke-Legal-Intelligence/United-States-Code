@@ -30,7 +30,7 @@
 
 (3) Section 8462 shall apply with respect to amounts under this subsection only as provided in paragraphs (1) and (2).
 
-(b)(1) Except as provided in subsection (d), if an annuitant is entitled to an annuity under this subchapter as of the day before the date of the sixty-second anniversary of the annuitant's birth (hereinafter in this section referred to asthe annuitant's “redetermination date”), such annuity shall be redetermined by the Office in accordance with paragraph (2). Effective as of the annuitant's redetermination date, the annuity (as so redetermined) shall be in lieu of any annuity to which such annuitant would otherwise be entitled under this subchapter.
+(b)(1) Except as provided in subsection (d), if an annuitant is entitled to an annuity under this subchapter as of the day before the date of the sixty-second anniversary of the annuitant's birth (hereinafter in this section referred to as the annuitant's “redetermination date”), such annuity shall be redetermined by the Office in accordance with paragraph (2). Effective as of the annuitant's redetermination date, the annuity (as so redetermined) shall be in lieu of any annuity to which such annuitant would otherwise be entitled under this subchapter.
 
 (2)(A) An annuity redetermined under this subsection shall be equal to the amount of the annuity to which the annuitant would be entitled under section 8415, taking into account the provisions of subparagraph (B).
 

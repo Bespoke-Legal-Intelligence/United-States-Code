@@ -60,13 +60,13 @@ Paragraph (3), referred to in subsec. (a)(1), was repealed by Pub. L. 104–127,
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(3). Pub. L. 104–127, §661(g), struck out par. (3) which read as follows: “The interest rate on any loan (other than a guaranteed loan) made or insured under clause (5) of section 1942(a) of this title for activities that involve the use of prime farmland as defined in section 1927(a)(6)(C) of this title shall be the interest rate otherwise applicable under this section increased by 2 per centum per annum.”
+<b>1996</b>—Subsec. (a)(3). Pub. L. 104–127, §661(g), struck out par. (3) which read as follows: "The interest rate on any loan (other than a guaranteed loan) made or insured under clause (5) of section 1942(a) of this title for activities that involve the use of prime farmland as defined in section 1927(a)(6)(C) of this title shall be the interest rate otherwise applicable under this section increased by 2 per centum per annum."
 
 Subsec. (c). Pub. L. 104–127, §614, added subsec. (c).
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–624 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The interest rate on any loan (other than a guaranteed loan) to a low-income, limited resource borrower under this subchapter shall be the interest rate otherwise applicable under this section reduced by 3 per centum per annum.”
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–624 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The interest rate on any loan (other than a guaranteed loan) to a low-income, limited resource borrower under this subchapter shall be the interest rate otherwise applicable under this section reduced by 3 per centum per annum."
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–258 inserted “(or, in the case of loans for farm operating purposes, fifteen years)” and substituted “Except as otherwise provided for farm loans under section 1981b of this title, the interest rate” for “The interest rate”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–258 inserted "(or, in the case of loans for farm operating purposes, fifteen years)" and substituted "Except as otherwise provided for farm loans under section 1981b of this title, the interest rate" for "The interest rate".
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35 redesignated existing provisions as par. (1), inserted reference to loans guaranteed under pars. (2) and (3), and added pars. (2) and (3).
 

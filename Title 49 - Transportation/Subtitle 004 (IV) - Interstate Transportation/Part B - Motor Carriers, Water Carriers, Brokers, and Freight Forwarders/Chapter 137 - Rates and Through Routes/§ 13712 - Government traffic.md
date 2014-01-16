@@ -10,5 +10,5 @@ Provisions similar to those in this section were contained in section 10721 of t
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–350 substituted “Section 6101(b) to (d) of title 41” for “Section 3709 of the Revised Statutes (41 U.S.C. 5)”.
+<b>2011</b>—Pub. L. 111–350 substituted "Section 6101(b) to (d) of title 41" for "Section 3709 of the Revised Statutes (41 U.S.C. 5)".
 

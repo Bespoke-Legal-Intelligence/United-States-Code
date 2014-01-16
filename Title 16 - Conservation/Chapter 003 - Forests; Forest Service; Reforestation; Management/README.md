@@ -19,7 +19,7 @@
 | [554\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000554%20-%20Forest%20supervisors%20and%20rangers.md) | Forest supervisors and rangers. |
 | [554a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000554a%20-%20Employees%20to%20be%20appointed%20without%20regard%20to%20political%20affiliations.md) | Employees to be appointed without regard to political affiliations. |
 | [554b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000554b%20-%20Medical%20care%20for%20employees%20engaged%20in%20hazardous%20work%3B%20notification%20and%20transportation%20of%20employees.md) | Medical care for employees engaged in hazardous work; notification and transportation of employees. |
-| [554c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000554c%20-%20Care%20of%20employees%E2%80%99%20graves.md) | Care of employees’ graves. |
+| [554c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000554c%20-%20Care%20of%20employees%27%20graves.md) | Care of employees' graves. |
 | [554d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000554d%20-%20Recreation%20facilities%20for%20employees%20of%20Forest%20Service%20and%20their%20immediate%20families.md) | Recreation facilities for employees of Forest Service and their immediate families. |
 | [554e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000554e%20-%20Employment%20of%20workers%20for%20emergencies.md) | Employment of workers for emergencies. |
 | [555\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000555%20-%20Forest%20headquarters%2C%20ranger%20stations%2C%20dwellings%2C%20or%20other%20needed%20sites.md) | Forest headquarters, ranger stations, dwellings, or other needed sites. |
@@ -118,9 +118,9 @@
 | [580m.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000580m%20-%20Development%20of%20reservoir%20areas%20for%20future%20resources%20of%20timber%3B%20Congressional%20declaration%20of%20policy.md) | Development of reservoir areas for future resources of timber; Congressional declaration of policy. |
 | [580n.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000580n%20-%20Protection%20and%20development%20of%20forest%20or%20other%20vegetative%20cover%3B%20establishment%20and%20maintenance%20of%20conservation%20measures%3B%20coordination%20of%E2%80%A6.md) | Protection and development of forest or other vegetative cover; establishment and maintenance of conservation measures; coordination of programs and policies. |
 | 580<i>o.</i> | Forest Service appropriations. |
-| [580p.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000580p%20-%20%E2%80%9CWoodsy%20Owl%E2%80%9D%20and%20%E2%80%9CSmokey%20Bear%E2%80%9D%20characters%20and%20names%3B%20definitions.md) | “Woodsy Owl” and “Smokey Bear” characters and names; definitions. |
+| [580p.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000580p%20-%20Woodsy%20Owl%20and%20Smokey%20Bear%20characters%20and%20names%3B%20definitions.md) | "Woodsy Owl" and "Smokey Bear" characters and names; definitions. |
 | 580p–1. | Property of the United States. |
-| 580p–2. | Deposit of fees collected under regulations relating to “Smokey Bear”; availability. |
+| 580p–2. | Deposit of fees collected under regulations relating to "Smokey Bear"; availability. |
 | 580p–3. | Use of royalty fees; special account. |
 | 580p–4. | Injunction against unauthorized manufacture, use, or reproduction. |
 | [580q.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000580q%20-%20National%20Tree%20Seed%20Laboratory%3B%20disposition%20of%20fees.md) | National Tree Seed Laboratory; disposition of fees. |
@@ -150,7 +150,7 @@
 | 582a–4. | Regulations; advice and assistance; appointment, membership, etc., of council. |
 | 582a–5. | Apportionments; advice, criteria, etc. |
 | 582a–6. | Scope of forestry research. |
-| 582a–7. | “State” defined. |
+| 582a–7. | "State" defined. |
 | 582a–8. | Competitive forestry, natural resources, and environmental grants program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -164,8 +164,8 @@
 | [583b.](Subchapter%20004%20%28IV%29%20-%20Sustained-Yield%20Forest%20Management/%C2%A7%2000583b%20-%20Establishment%20of%20sustained-yield%20units%20to%20stabilize%20sale%20of%20timber%20and%20forest%20products.md) | Establishment of sustained-yield units to stabilize sale of timber and forest products. |
 | [583c.](Subchapter%20004%20%28IV%29%20-%20Sustained-Yield%20Forest%20Management/%C2%A7%2000583c%20-%20Agreements%20between%20Secretaries%20of%20Agriculture%20and%20the%20Interior%2C%20or%20with%20other%20Federal%20agencies%20having%20jurisdiction%20over%20forest%20land.md) | Agreements between Secretaries of Agriculture and the Interior, or with other Federal agencies having jurisdiction over forest land. |
 | [583d.](Subchapter%20004%20%28IV%29%20-%20Sustained-Yield%20Forest%20Management/%C2%A7%2000583d%20-%20Notice%3B%20registered%20mail%20and%20publication%3B%20costs%3B%20contents%3B%20request%20for%20hearing%3B%20time%3B%20determination%20and%20record%20available%20for%20inspection.md) | Notice; registered mail and publication; costs; contents; request for hearing; time; determination and record available for inspection. |
-| [583e.](Subchapter%20004%20%28IV%29%20-%20Sustained-Yield%20Forest%20Management/%C2%A7%2000583e%20-%20Remedies%20against%20private%20owners%3B%20jurisdiction%3B%20final%20orders%3B%20%E2%80%9Cowner%E2%80%9D%20defined.md) | Remedies against private owners; jurisdiction; final orders; “owner” defined. |
-| [583f.](Subchapter%20004%20%28IV%29%20-%20Sustained-Yield%20Forest%20Management/%C2%A7%2000583f%20-%20%E2%80%9CFederally%20owned%20or%20administered%20forest%20land%E2%80%9D%20defined.md) | “Federally owned or administered forest land” defined. |
+| [583e.](Subchapter%20004%20%28IV%29%20-%20Sustained-Yield%20Forest%20Management/%C2%A7%2000583e%20-%20Remedies%20against%20private%20owners%3B%20jurisdiction%3B%20final%20orders%3B%20owner%20defined.md) | Remedies against private owners; jurisdiction; final orders; "owner" defined. |
+| [583f.](Subchapter%20004%20%28IV%29%20-%20Sustained-Yield%20Forest%20Management/%C2%A7%2000583f%20-%20Federally%20owned%20or%20administered%20forest%20land%20defined.md) | "Federally owned or administered forest land" defined. |
 | [583g.](Subchapter%20004%20%28IV%29%20-%20Sustained-Yield%20Forest%20Management/%C2%A7%2000583g%20-%20Rules%20and%20regulations%3B%20delegation%20of%20powers%20and%20duties.md) | Rules and regulations; delegation of powers and duties. |
 | [583h.](Subchapter%20004%20%28IV%29%20-%20Sustained-Yield%20Forest%20Management/%C2%A7%2000583h%20-%20Prior%20acts%20as%20affecting%20or%20affected%20by%20subchapter.md) | Prior acts as affecting or affected by subchapter. |
 | [583i.](Subchapter%20004%20%28IV%29%20-%20Sustained-Yield%20Forest%20Management/%C2%A7%2000583i%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |

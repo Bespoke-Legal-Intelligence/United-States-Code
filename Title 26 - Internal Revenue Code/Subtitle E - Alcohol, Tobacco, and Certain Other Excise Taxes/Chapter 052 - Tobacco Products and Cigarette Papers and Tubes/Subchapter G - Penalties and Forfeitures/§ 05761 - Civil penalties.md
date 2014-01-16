@@ -38,7 +38,7 @@ Except as provided in subsections (b) and (d) of section 5704—
 
 #### (B) Delivery sale
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “delivery sale” means any sale of a tobacco product to a consumer if—
+&emsp;&emsp;For purposes of subparagraph (A), the term "delivery sale" means any sale of a tobacco product to a consumer if—
 
 &emsp;&emsp;&emsp;(i) the consumer submits the order for such sale by means of a telephone or other method of voice transmission, the mail, or the Internet or other online service, or the seller is otherwise not in the physical presence of the buyer when the request for purchase or order is made, or
 
@@ -60,33 +60,33 @@ The Harmonized Tariff Schedule of the United States, referred to in subsecs. (c)
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–432, §401(f)(2)(A), struck out at end “This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under chapter 98 of the Harmonized Tariff Schedule of the United States, and such person may voluntarily relinquish to the Secretary at the time of entry any excess of such quantity without incurring the penalty under this subsection. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity.”
+<b>2006</b>—Subsec. (c). Pub. L. 109–432, §401(f)(2)(A), struck out at end "This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under chapter 98 of the Harmonized Tariff Schedule of the United States, and such person may voluntarily relinquish to the Secretary at the time of entry any excess of such quantity without incurring the penalty under this subsection. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity."
 
 Subsecs. (d) to (f). Pub. L. 109–432, §401(f)(1), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–554 inserted at end “This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under chapter 98 of the Harmonized Tariff Schedule of the United States, and such person may voluntarily relinquish to the Secretary at the time of entry any excess of such quantity without incurring the penalty under this subsection. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity.”
+<b>2000</b>—Subsec. (c). Pub. L. 106–554 inserted at end "This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under chapter 98 of the Harmonized Tariff Schedule of the United States, and such person may voluntarily relinquish to the Secretary at the time of entry any excess of such quantity without incurring the penalty under this subsection. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity."
 
-Pub. L. 106–476, §4003(a), inserted at end “This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under subchapter IV of chapter 98 of the Harmonized Tariff Schedule of the United States. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity.”
+Pub. L. 106–476, §4003(a), inserted at end "This subsection and section 5754 shall not apply to any person who relands or receives tobacco products in the quantity allowed entry free of tax and duty under subchapter IV of chapter 98 of the Harmonized Tariff Schedule of the United States. No quantity of tobacco products other than the quantity referred to in the preceding sentence may be relanded or received as a personal use quantity."
 
-Pub. L. 106–476, §4002(c), which directed amendment of the last sentence of subsec. (c) by substituting “the jurisdiction of the United States shall be forfeited to the United States and destroyed. All vessels, vehicles, and aircraft used in such relanding or in removing such products, papers, and tubes from the place where relanded, shall be forfeited to the United States.” for “the jurisdiction of the United States” and all that followed through the end period, was executed by making the substitution for “the jurisdiction of the United States, and all vessels, vehicles, and aircraft used in such relanding or in removing such products, papers, and tubes from the place where relanded, shall be forfeited to the United States.” in the second sentence of subsec. (c) to reflect the probable intent of Congress and the intervening retroactive amendments by Pub. L. 106–476, §4003(a), and Pub. L. 106–554. See above.
+Pub. L. 106–476, §4002(c), which directed amendment of the last sentence of subsec. (c) by substituting "the jurisdiction of the United States shall be forfeited to the United States and destroyed. All vessels, vehicles, and aircraft used in such relanding or in removing such products, papers, and tubes from the place where relanded, shall be forfeited to the United States." for "the jurisdiction of the United States" and all that followed through the end period, was executed by making the substitution for "the jurisdiction of the United States, and all vessels, vehicles, and aircraft used in such relanding or in removing such products, papers, and tubes from the place where relanded, shall be forfeited to the United States." in the second sentence of subsec. (c) to reflect the probable intent of Congress and the intervening retroactive amendments by Pub. L. 106–476, §4003(a), and Pub. L. 106–554. See above.
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–33, §9302(h)(1)(C), substituted “subsection (b) or (c)” for “subsection (b)”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–33, §9302(h)(1)(C), substituted "subsection (b) or (c)" for "subsection (b)".
 
 Subsec. (c). Pub. L. 105–33, §9302(h)(1)(B), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 105–33, §9302(h)(1)(D), substituted “The penalties imposed by subsections (b) and (c)” for “The penalty imposed by subsection (b)”.
+Subsec. (d). Pub. L. 105–33, §9302(h)(1)(D), substituted "The penalties imposed by subsections (b) and (c)" for "The penalty imposed by subsection (b)".
 
 Pub. L. 105–33, §9302(h)(1)(B), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 105–33, §9302(h)(1)(B), redesignated subsec. (d) as (e).
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7721(c)(4), inserted “or part II of subchapter A of chapter 68” after “or 6653”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7721(c)(4), inserted "or part II of subchapter A of chapter 68" after "or 6653".
 
-Subsec. (c). Pub. L. 101–239, §7721(c)(5), substituted “6665” for “6662” in heading and “6665(a)” for “6662(a)” in text.
+Subsec. (c). Pub. L. 101–239, §7721(c)(5), substituted "6665" for "6662" in heading and "6665(a)" for "6662(a)" in text.
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–369 substituted “section 6662” for “section 6660” in heading and “section 6662(a)” for “section 6660(a)” in text.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369 substituted "section 6662" for "section 6660" in heading and "section 6662(a)" for "section 6660(a)" in text.
 
-<b>1983</b>—Subsec. (c). Pub. L. 97–448 substituted “section 6660” for “section 6659” in heading, and substituted “section 6660(a)” for “section 6659(a)” in text.
+<b>1983</b>—Subsec. (c). Pub. L. 97–448 substituted "section 6660" for "section 6659" in heading, and substituted "section 6660(a)" for "section 6659(a)" in text.
 
 <b>1981</b>—Subsec. (c). Pub. L. 97–34, §724(b)(5), added subsec. (c). Former subsec. (c), which related to applicability of section 6656 to failure to make deposit of taxes imposed under subchapter A on the prescribed date and imposition of penalty, was struck out.
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 106–554 effective as if included in section 9302 of the B
 
 Amendment by section 4002 of Pub. L. 106–476 effective 90 days after Nov. 9, 2000, see section 4002(d) of Pub. L. 106–476, set out as a note under section 5704 of this title.
 
-Pub. L. 106–476, title IV, §4003(b), Nov. 9, 2000, 114 Stat. 2178, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in section 9302 of the Balanced Budget Act of 1997 \[Pub. L. 105–33\].”
+Pub. L. 106–476, title IV, §4003(b), Nov. 9, 2000, 114 Stat. 2178, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in section 9302 of the Balanced Budget Act of 1997 \[Pub. L. 105–33\]."
 
 #### Effective Date of 1997 Amendment
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 105–33 applicable to articles removed, as defined in sect
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to returns the due date for which (determined without regard toextensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
+Amendment by Pub. L. 101–239 applicable to returns the due date for which (determined without regard to extensions) is after Dec. 31, 1989, see section 7721(d) of Pub. L. 101–239, set out as a note under section 461 of this title.
 
 #### Effective Date of 1984 Amendment
 

@@ -26,17 +26,17 @@
 
 (5) For purposes of this subsection—
 
-&emsp;(A) the term “construction” includes construction, reconstruction, or repair;
+&emsp;(A) the term "construction" includes construction, reconstruction, or repair;
 
-&emsp;(B) the term “distressed area” means an area which the Secretary determines due to drought conditions has an inadequate water supply which is causing, or is likely to cause, a substantial threat to the health and welfare of the inhabitants of the area including threat of damage or loss of property;
+&emsp;(B) the term "distressed area" means an area which the Secretary determines due to drought conditions has an inadequate water supply which is causing, or is likely to cause, a substantial threat to the health and welfare of the inhabitants of the area including threat of damage or loss of property;
 
-&emsp;(C) the term “political subdivision” means a city, town, borough, county, parish, district, association, or other public body created by or pursuant to State law and having jurisdiction over the water supply of such public body;
+&emsp;(C) the term "political subdivision" means a city, town, borough, county, parish, district, association, or other public body created by or pursuant to State law and having jurisdiction over the water supply of such public body;
 
-&emsp;(D) the term “reasonable cost” means the lesser of (i) the cost to the Secretary of constructing a well pursuant to this subsection exclusive of the cost of transporting equipment used in the construction of wells, or (ii) the cost to a private business of constructing such well;
+&emsp;(D) the term "reasonable cost" means the lesser of (i) the cost to the Secretary of constructing a well pursuant to this subsection exclusive of the cost of transporting equipment used in the construction of wells, or (ii) the cost to a private business of constructing such well;
 
-&emsp;(E) the term “Secretary” means the Secretary of the Army, acting through the Chief of Engineers; and
+&emsp;(E) the term "Secretary" means the Secretary of the Army, acting through the Chief of Engineers; and
 
-&emsp;(F) the term “State” means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
+&emsp;(F) the term "State" means a State, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
 
 #### (c) Levee owners manual
 
@@ -54,11 +54,11 @@
 
 #### (A) Maintenance and upkeep
 
-&emsp;&emsp;The term “maintenance and upkeep” means all maintenance and general upkeep of a levee performed on a regular and consistent basis that is not repair and rehabilitation.
+&emsp;&emsp;The term "maintenance and upkeep" means all maintenance and general upkeep of a levee performed on a regular and consistent basis that is not repair and rehabilitation.
 
 #### (B) Repair and rehabilitation
 
-&emsp;&emsp;The term “repair and rehabilitation”—
+&emsp;&emsp;The term "repair and rehabilitation"—
 
 &emsp;&emsp;&emsp;(i) means the repair or rebuilding of a levee or other flood control structure, after the structure has been damaged by a flood, to the level of protection provided by the structure before the flood; but
 
@@ -76,35 +76,35 @@ The Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(1),
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–303, §202(e), in first sentence, inserted “, or in implementation of nonstructural alternatives to the repair or restoration of such flood control work if requested by the non-Federal sponsor”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–303, §202(e), in first sentence, inserted ", or in implementation of nonstructural alternatives to the repair or restoration of such flood control work if requested by the non-Federal sponsor".
 
 Subsec. (c). Pub. L. 104–303, §202(f), added subsec. (c).
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–640 substituted “preparation for emergency response to any natural disaster” for “flood emergency preparation” and inserted provision permitting the emergency fund to be used for emergency dredging for restoration of authorized depths for Federal navigable channels and waterways made necessary by flood, drought, earthquake, or other natural disasters.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–640 substituted "preparation for emergency response to any natural disaster" for "flood emergency preparation" and inserted provision permitting the emergency fund to be used for emergency dredging for restoration of authorized depths for Federal navigable channels and waterways made necessary by flood, drought, earthquake, or other natural disasters.
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–707 substituted “and Emergency Assistance Act” for “Act of 1974”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–707 substituted "and Emergency Assistance Act" for "Act of 1974".
 
 <b>1987</b>—Subsec. (a). Pub. L. 100–45 designated existing provisions as par. (1) and added par. (2).
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–662 inserted provision relating to authority of the Chief of Engineers, when the Governor of an affected State requests a determination that an emergency or major disaster exists, to perform on public and private lands and waters, for a period of ten days following the Governor's request, any emergency work made necessary by such emergency or disaster which is essential for the preservation of life and property, and substituted “clean water” for “clean drinking water” and “contaminated water” for “contaminated drinking water”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–662 inserted provision relating to authority of the Chief of Engineers, when the Governor of an affected State requests a determination that an emergency or major disaster exists, to perform on public and private lands and waters, for a period of ten days following the Governor's request, any emergency work made necessary by such emergency or disaster which is essential for the preservation of life and property, and substituted "clean water" for "clean drinking water" and "contaminated water" for "contaminated drinking water".
 
 <b>1977</b>—Pub. L. 95–51 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1974</b>—Pub. L. 93–251 struck out limitation of emergency fund to $15,000,000, provided for emergency supplies of clean drinking water to localities confronted with source of contaminated drinking water, and substituted in proviso “of sums to such emergency fund” for “of said sum”.
+<b>1974</b>—Pub. L. 93–251 struck out limitation of emergency fund to $15,000,000, provided for emergency supplies of clean drinking water to localities confronted with source of contaminated drinking water, and substituted in proviso "of sums to such emergency fund" for "of said sum".
 
 <b>1962</b>—Pub. L. 87–874 authorized expenditures from the emergency fund for the protection of federally authorized hurricane or shore protection being threatened when such is warranted to protect against imminent and substantial loss to life and property, and for the repair and restoration of any such federally authorized hurricane or shore protective structure damaged or destroyed by wind or water action of an extraordinary nature when such is warranted for the adequate functioning of the structure for hurricane or shore protection.
 
 <b>1955</b>—Act June 28, 1955, authorized expenditure for flood emergency preparation and eliminated the requirement of maintenance of flood control works threatened by flood.
 
-<b>1950</b>—Act May 17, 1950, expanded scope of work considered under emergency repairs to flood-control structures, and substituted “$15,000,000” for “$2,000,000”.
+<b>1950</b>—Act May 17, 1950, expanded scope of work considered under emergency repairs to flood-control structures, and substituted "$15,000,000" for "$2,000,000".
 
 <b>1948</b>—Act June 30, 1948, inserted provisions relating to the strengthening, extending, or modification of flood-control works.
 
-<b>1946</b>—Act July 24, 1946, substituted “$2,000,000” for “$1,000,000”.
+<b>1946</b>—Act July 24, 1946, substituted "$2,000,000" for "$1,000,000".
 
 #### Change of Name
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -114,15 +114,15 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 Pub. L. 104–303, title II, §202(g), Oct. 12, 1996, 110 Stat. 3676, provided that:
 
-“(1)
+"(1)
 
 Review.—The Secretary shall undertake a comprehensive review of the current policy guidelines on vegetation management for levees. The review shall examine current policies in view of the varied interests in providing flood control, preserving, protecting, and enhancing natural resources, protecting the rights of Native Americans pursuant to treaty and statute, and such other factors as the Secretary considers appropriate.
 
-“(2)
+"(2)
 
 Cooperation and consultation.—The review under this section \[subsection\] shall be undertaken in cooperation with interested Federal agencies and in consultation with interested representatives of State and local governments and the public.
 
-“(3)
+"(3)
 
-Revision of guidelines.—Based upon the results of the review, the Secretary shall revise, not later than 270 days after the date of the enactment of this Act \[Oct. 12, 1996\], the policy guidelines so as to provide a coherent and coordinated policy for vegetation management for levees. Such revised guidelines shall address regional variations in levee management and resource needs and shall be incorporated in the manual proposed under section 5(c) of such Act of August 18, 1941 (33 U.S.C. 701n\[(c)\]).”
+Revision of guidelines.—Based upon the results of the review, the Secretary shall revise, not later than 270 days after the date of the enactment of this Act \[Oct. 12, 1996\], the policy guidelines so as to provide a coherent and coordinated policy for vegetation management for levees. Such revised guidelines shall address regional variations in levee management and resource needs and shall be incorporated in the manual proposed under section 5(c) of such Act of August 18, 1941 (33 U.S.C. 701n\[(c)\])."
 

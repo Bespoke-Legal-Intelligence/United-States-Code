@@ -72,7 +72,7 @@ In general.—Each State or metropolitan planning organization required to oblig
 
 &emsp;&emsp;(B)
 
-Definition of eligible entity.—In this paragraph, the term “eligible entity” means—
+Definition of eligible entity.—In this paragraph, the term "eligible entity" means—
 
 &emsp;&emsp;&emsp;(i) a local government;
 

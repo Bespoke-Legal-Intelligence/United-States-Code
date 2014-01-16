@@ -78,7 +78,7 @@ Shorter duration.—In the case of a master contract entered into before the end
 
 &emsp;&emsp;(B)
 
-Definition.—The period described in this subparagraph is the 7-year period beginning on the earliest date as of which any long-term care insurance coverage under this chapter becomes effective.
+Definition.—The period described in this subparagraph is the 7-year period beginning on the earliest date as of which anylong-term care insurance coverage under this chapter becomes effective.
 
 &emsp;(3)
 
@@ -86,7 +86,7 @@ Congressional notification.—No later than 180 days after receiving the second 
 
 &emsp;(4)
 
-Full portability.—Each master contract under this chapter shall include such provisions as may be necessary to ensure that, once an individual becomes duly enrolled, long-term care insurance coverage obtained by such individual pursuant to that enrollmentshall not be terminated due to any change in status (such as separation from Government service or the uniformed services) or ceasing to meet the requirements for being considered a qualified relative (whether as a result of dissolution of marriage or otherwise).
+Full portability.—Each master contract under this chapter shall include such provisions as may be necessary to ensure that, once an individual becomes duly enrolled, long-term care insurance coverage obtained by such individual pursuant to that enrollment shall not be terminated due to any change in status (such as separation from Government service or the uniformed services) or ceasing to meet the requirements for being considered a qualified relative (whether as a result of dissolution of marriage or otherwise).
 
 (Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 764; amended Pub. L. 111–350, §5(a)(18), Jan. 4, 2011, 124 Stat. 3842.)
 

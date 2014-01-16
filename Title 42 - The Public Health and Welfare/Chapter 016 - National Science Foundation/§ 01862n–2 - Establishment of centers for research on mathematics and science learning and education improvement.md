@@ -14,7 +14,7 @@
 
 #### (3) Focus
 
-&emsp;(A) Each Center shall be focused on a different challenge faced by elementary school or secondary school teachers of mathematics and science. In determining the research focus of the Centers, the Director shall consult with the National Academy of Sciences and the Secretary of Education and take into account the extent to which other Federal programs support research on similar questions.
+&emsp;(A) Each Center shall be focused on a different challenge faced by elementary school orsecondary school teachers of mathematics and science. In determining the research focus of the Centers, the Director shall consult with the National Academy of Sciences and the Secretary of Education and take into account the extent to which other Federal programs support research on similar questions.
 
 &emsp;(B) The proposal solicitation issued by the Director shall state the focus of each Center and applicants shall apply for designation as a specific Center.
 
@@ -56,7 +56,7 @@
 
 #### (c) Annual conference
 
-The Director shall convene an annual meeting of the Centers to foster collaboration among the Centers and to further disseminate the results of the Centers’ activities.
+The Director shall convene an annual meeting of the Centers to foster collaboration among the Centers and to further disseminate the results of the Centers' activities.
 
 #### (d) Coordination
 
@@ -68,7 +68,7 @@ The Director shall coordinate with the Secretary of Education in—
 
 &emsp;&emsp;(A) understand the implications of the research disseminated under paragraph (1) for classroom practice; and
 
-&emsp;&emsp;(B) can use the research to improve such teachers’ performance in the classroom.
+&emsp;&emsp;(B) can use the research to improve such teachers' performance in the classroom.
 
 (Pub. L. 107–368, §11, Dec. 19, 2002, 116 Stat. 3053; Pub. L. 110–69, title VII, §7006(b), Aug. 9, 2007, 121 Stat. 679.)
 
@@ -78,13 +78,13 @@ Section was enacted as part of the National Science Foundation Authorization Act
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(1)(A). Pub. L. 110–69, §7006(b)(1), inserted “or eligible nonprofit organizations” after “institutions of higher education”.
+<b>2007</b>—Subsec. (a)(1)(A). Pub. L. 110–69, §7006(b)(1), inserted "or eligible nonprofit organizations" after "institutions of higher education".
 
-Subsec. (b)(1). Pub. L. 110–69, §7006(b)(2), (3), in introductory provisions, inserted “or an eligible nonprofit organization” after “institution of higher education” and substituted “thereof” for “of such institutions”.
+Subsec. (b)(1). Pub. L. 110–69, §7006(b)(2), (3), in introductory provisions, inserted "or an eligible nonprofit organization" after "institution of higher education" and substituted "thereof" for "of such institutions".
 
 #### Funding for Centers
 
-Pub. L. 110–69, title VII, §7006(a), Aug. 9, 2007, 121 Stat. 679, provided that: “The Director \[of the National Science Foundation\] shall continue to carry out the program of Centers for Research on Learning and Education Improvement as established in section 11 of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–2).”
+Pub. L. 110–69, title VII, §7006(a), Aug. 9, 2007, 121 Stat. 679, provided that: "The Director \[of the National Science Foundation\] shall continue to carry out the program of Centers for Research on Learning and Education Improvement as established in section 11 of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–2)."
 
 #### Definitions
 

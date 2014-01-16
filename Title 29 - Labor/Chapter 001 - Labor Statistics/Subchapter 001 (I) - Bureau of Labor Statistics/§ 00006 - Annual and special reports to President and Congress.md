@@ -6,11 +6,11 @@ The Commissioner of Labor Statistics shall annually make a report in writing to 
 
 #### Codification
 
-Act Mar. 4, 1913, authorized substitution of “Commissioner of Labor Statistics” for “Commissioner of Labor”.
+Act Mar. 4, 1913, authorized substitution of "Commissioner of Labor Statistics" for "Commissioner of Labor".
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–273 substituted “March” for “December”.
+<b>1976</b>—Pub. L. 94–273 substituted "March" for "December".
 
 #### Termination of Reporting Requirements
 

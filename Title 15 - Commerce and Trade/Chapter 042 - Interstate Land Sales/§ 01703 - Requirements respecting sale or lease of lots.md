@@ -26,7 +26,7 @@ It shall be unlawful for any developer or agent, directly or indirectly, to make
 
 #### (b) Revocation of nonexempt contract or agreement at option of purchaser or lessee; time limit
 
-Any contract or agreement for the sale or lease of a lot not exempt under section 1702 of this title may be revoked at the option of the purchaser or lessee until midnight of the seventh day following the signing of such contract or agreement or until such later time as may be required pursuant to applicable State laws, and such contract or agreement shall clearly provide this right.
+Any contract or agreement for the sale or lease of a lot not exempt under section 1702 ofthis title may be revoked at the option of the purchaser or lessee until midnight of the seventh day following the signing of such contract or agreement or until such later time as may be required pursuant to applicable State laws, and such contract or agreement shall clearly provide this right.
 
 #### (c) Revocation of contract or agreement at option of purchaser or lessee where required property report not supplied
 
@@ -58,7 +58,7 @@ Subsec. (b). Pub. L. 96–153 substituted provisions relating to revocation of c
 
 Subsecs. (c) to (e). Pub. L. 96–153 added subsecs. (c) to (e).
 
-<b>1974</b>—Subsec. (b). Pub. L. 383 substituted “until midnight of the third business day following the consummation of the transaction” for “within forty-eight hours” and struck out provisions relating to exceptions of contracts or agreements stipulating to the nonapplicability of the revocation authority to certain purchasers.
+<b>1974</b>—Subsec. (b). Pub. L. 383 substituted "until midnight of the third business day following the consummation of the transaction" for "within forty-eight hours" and struck out provisions relating to exceptions of contracts or agreements stipulating to the nonapplicability of the revocation authority to certain purchasers.
 
 #### Effective Date of 1979 Amendment
 
@@ -66,5 +66,5 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–383, title VIII, §812(c)(2), Aug. 22, 1974, 88 Stat. 737, provided that: “The amendments made byparagraph (1) \[amending this section\] shall be effective sixty days after the date of the enactment of this Act \[Aug. 22, 1974\].”
+Pub. L. 93–383, title VIII, §812(c)(2), Aug. 22, 1974, 88 Stat. 737, provided that: "The amendments made by paragraph (1) \[amending this section\] shall be effective sixty days after the date of the enactment of this Act \[Aug. 22, 1974\]."
 

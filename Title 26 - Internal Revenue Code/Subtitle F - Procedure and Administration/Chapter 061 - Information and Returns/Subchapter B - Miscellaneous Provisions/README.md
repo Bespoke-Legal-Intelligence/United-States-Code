@@ -34,11 +34,11 @@
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–41, title V, §502(b), Oct. 21, 2011, 125 Stat. 460, added items 6116 and 6117 and struck out former item 6116 “Cross reference”.
+<b>2011</b>—Pub. L. 112–41, title V, §502(b), Oct. 21, 2011, 125 Stat. 460, added items 6116 and 6117 and struck out former item 6116 "Cross reference".
 
-<b>2007</b>—Pub. L. 110–28, title VIII, §8246(a)(2)(C)(ii), May 25, 2007, 121 Stat. 201, substituted “Tax return preparer” for “Income tax return preparer” in item 6107.
+<b>2007</b>—Pub. L. 110–28, title VIII, §8246(a)(2)(C)(ii), May 25, 2007, 121 Stat. 201, substituted "Tax return preparer" for "Income tax return preparer" in item 6107.
 
-<b>2004</b>—Pub. L. 108–357, title VIII, §815(b)(1), (4), Oct. 22, 2004, 118 Stat. 1582, 1583, substituted “Disclosure of reportable transactions” for “Registration of tax shelters” in item 6111 and “Material advisors of reportable transactions must keep lists of advisees, etc.” for “Organizers and sellers of potentially abusive tax shelters must keep lists of investors” in item 6112.
+<b>2004</b>—Pub. L. 108–357, title VIII, §815(b)(1), (4), Oct. 22, 2004, 118 Stat. 1582, 1583, substituted "Disclosure of reportable transactions" for "Registration of tax shelters" in item 6111 and "Material advisors of reportable transactions must keep lists of advisees, etc." for "Organizers and sellers of potentially abusive tax shelters must keep lists of investors" in item 6112.
 
 <b>2000</b>—Pub. L. 106–554, §1(a)(7) \[title III, §304(b)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, added item 6105.
 
@@ -50,11 +50,11 @@
 
 <b>1984</b>—Pub. L. 98–369, div. A, title I, §§141(c)(1), 142(c)(1), July 18, 1984, 98 Stat. 680, 682, added items 6111 and 6112 and redesignated former item 6111 as 6113.
 
-<b>1976</b>—Pub. L. 94–455, title XII, §§1201(c), 1202(a)(2), 1203(i)(2), title XIX, §1906(b)(1), (2), Oct. 4, 1976, 90 Stat. 1667, 1685, 1694, 1833, substituted in item 6103 “Confidentiality and disclosure of returns and return information” for “Publicity of returns and disclosure of information as to persons filing income tax returns”, struck out item 6105 “Compilation of relief from excess profits tax cases”, added items 6107 and 6110, redesignated former item 6110 as 6111, and as so redesignated substituted “reference” for “references”.
+<b>1976</b>—Pub. L. 94–455, title XII, §§1201(c), 1202(a)(2), 1203(i)(2), title XIX, §1906(b)(1), (2), Oct. 4, 1976, 90 Stat. 1667, 1685, 1694, 1833, substituted in item 6103 "Confidentiality and disclosure of returns and return information" for "Publicity of returns and disclosure of information as to persons filing income tax returns", struck out item 6105 "Compilation of relief from excess profits tax cases", added items 6107 and 6110, redesignated former item 6110 as 6111, and as so redesignated substituted "reference" for "references".
 
-<b>1968</b>—Pub. L. 90–618, title II, §203(b), Oct. 22, 1968, 82 Stat. 1235, struck out item 6107 “List of special taxpayers for public inspection”.
+<b>1968</b>—Pub. L. 90–618, title II, §203(b), Oct. 22, 1968, 82 Stat. 1235, struck out item 6107 "List of special taxpayers for public inspection".
 
-<b>1966</b>—Pub. L. 89–713, §4(b), Nov. 2, 1966, 80 Stat. 1109, substituted “disclosure of information as to persons filing income tax returns” for “lists of taxpayers” in item 6103.
+<b>1966</b>—Pub. L. 89–713, §4(b), Nov. 2, 1966, 80 Stat. 1109, substituted "disclosure of information as to persons filing income tax returns" for "lists of taxpayers" in item 6103.
 
 <b>1961</b>—Pub. L. 87–397, §1(c)(1), Oct. 5, 1961, 75 Stat. 829, added item 6109 and redesignated former item 6109 as 6110.
 

@@ -30,9 +30,9 @@ Historical and Revision Notes
 
 May 31, 1920, ch. 216, §5, 41 Stat. 693.
 
-In subsection (a), the words “is organized and” are omitted as executed and obsolete.
+In subsection (a), the words "is organized and" are omitted as executed and obsolete.
 
-In subsection (b), the words “certificates of” are omitted as unnecessary.
+In subsection (b), the words "certificates of" are omitted as unnecessary.
 
-In subsection (c), the words “income or assets” are substituted for “earnings, income, or funds” for consistency in the revised title.
+In subsection (c), the words "income or assets" are substituted for "earnings, income, or funds" for consistency in the revised title.
 

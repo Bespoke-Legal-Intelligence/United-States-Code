@@ -108,7 +108,7 @@ The Board shall have no power—
 
 (3) No director, officer, or employee of any corporation established under this subsection may receive compensation, travel expenses, or benefits from both the Corporation and the Board.
 
-(Pub. L. 96–114, title I, §106, formerly §7, Nov. 16, 1979, 93 Stat. 854; Pub. L. 99–161, §4(f), Nov. 25, 1985, 99 Stat. 935; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–674, §2(c), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §7, Nov. 6, 1990, 104 Stat. 2306; renumbered title I, §106, Pub. L. 106–533, §1(b)(1), (2), Nov. 22, 2000, 114 Stat. 2553; Pub. L. 111–200, §2(d)–(g), July 7, 2010, 124 Stat. 1369.)
+(Pub. L. 96–114, title I, §106, formerly §7, Nov. 16, 1979, 93 Stat. 854; Pub. L. 99–161, §4(f), Nov. 25, 1985, 99 Stat. 935; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–674, §2(c), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §7, Nov. 6, 1990, 104 Stat. 2306; renumbered title I, §106, Pub. L.106–533, §1(b)(1), (2), Nov. 22, 2000, 114 Stat. 2553; Pub. L. 111–200, §2(d)–(g), July 7, 2010, 124 Stat. 1369.)
 
 #### Amendments
 
@@ -130,7 +130,7 @@ Subsec. (i). Pub. L. 111–200, §2(g), added subsec. (i) and struck out former 
 
 &emsp;“(B) the extent of the authority of the corporation shall be the same as that of the Board.
 
-“(3) No director, officer, or employee of any corporation established under this subsection may receivecompensation, travel expenses, or benefits from both the corporation and the Board.”
+“(3) No director, officer, or employee of any corporation established under this subsection may receive compensation, travel expenses, or benefits from both the corporation and the Board.”
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–525, §7(a), which directed the insertion of “(a)” after the section designation, was not executed in view of existing subsec. (a) designation.
 

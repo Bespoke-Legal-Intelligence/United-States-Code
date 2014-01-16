@@ -2,11 +2,11 @@
 
 #### (a) Information sharing
 
-Consistent with section 485 of this title, the Secretary, acting through the Under Secretary for Intelligence and Analysis, shall integrate the information and standardize the format of the products of the intelligence components of the Department containing homeland security information, terrorism information, weapons of mass destruction information, or national intelligence (as defined in section 401a(5) of title 50) except for any internal security protocols or personnel information of such intelligence components, or other administrative processes that are administered by any chief security officer of the Department.
+Consistent with section 485 of this title, the Secretary, acting through the Under Secretary for Intelligence and Analysis, shall integrate the information and standardize the format of the products of the intelligence components of the Department containing homeland security information, terrorism information, weapons of mass destruction information, or national intelligence (as defined in section 3003(5) of title 50) except for any internal security protocols or personnel information of such intelligence components, or other administrative processes that are administered by any chief security officer of the Department.
 
 #### (b) Information sharing and knowledge management officers
 
-For each intelligence component of the Department, the Secretary shall designate an information sharing and knowledge management officer who shall report to the Under Secretary for Intelligence and Analysis regarding coordinating the different systems used in the Department to gather and disseminate homeland security information or national intelligence (as defined in section 401a(5) of title 50).
+For each intelligence component of the Department, the Secretary shall designate an information sharing and knowledge management officer who shall report to the Under Secretary for Intelligence and Analysis regarding coordinating the different systems used in the Department to gather and disseminate homeland security information or national intelligence (as defined in section 3003(5) of title 50).
 
 #### (c) State, local, and private-sector sources of information
 
@@ -30,7 +30,7 @@ For each intelligence component of the Department, the Secretary shall designate
 
 &emsp;The Secretary, acting through the Under Secretary for Intelligence and Analysis or the Assistant Secretary for Infrastructure Protection, as appropriate, shall provide to employees of the Department opportunities for training and education to develop an understanding of—
 
-&emsp;&emsp;(A) the definitions of homeland security information and national intelligence (as defined in section 401a(5) of title 50); and
+&emsp;&emsp;(A) the definitions of homeland security information and national intelligence (as defined in section 3003(5) of title 50); and
 
 &emsp;&emsp;(B) how information available to such employees as part of their duties—
 
@@ -58,7 +58,7 @@ Pub. L. 110–53, title V, §502(b), Aug. 3, 2007, 121 Stat. 311, provided that:
 
 “(1)
 
-In general.—The Under Secretary for Intelligence and Analysis shall receive from the United States Secret Service homeland security information, terrorism information, weapons of mass destruction information (as these terms are defined in Section \[sic\] 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 (6 U.S.C. 485)), or national intelligence, as defined in Section \[sic\] 3(5) of the National Security Act of 1947 (50 U.S.C. 401a(5)), as well as suspect information obtained in criminal investigations. The United States Secret Service shall cooperate with the Under Secretary for Intelligence and Analysis with respect to activities under sections 204 and 205 of the Homeland Security Act of 2002 \[6 U.S.C. 124a, 124b\].
+In general.—The Under Secretary for Intelligence and Analysis shall receive from the United States Secret Service homeland security information, terrorism information, weapons of mass destruction information (as these terms are defined in Section \[sic\] 1016 of the Intelligence Reform and Terrorism Prevention Act of 2004 (6 U.S.C. 485)), or national intelligence, as defined in Section \[sic\] 3(5) of the National Security Act of 1947 (50 U.S.C. 401a(5)) \[now 50 U.S.C. 3003(5)\], as well as suspect information obtained in criminal investigations. The United States Secret Service shall cooperate with the Under Secretary for Intelligence and Analysis with respect to activities under sections 204 and 205 of the Homeland Security Act of 2002 \[6 U.S.C. 124a, 124b\].
 
 “(2)
 

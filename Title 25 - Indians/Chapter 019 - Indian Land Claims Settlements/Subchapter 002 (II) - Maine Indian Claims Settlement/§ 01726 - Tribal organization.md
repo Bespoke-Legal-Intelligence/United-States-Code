@@ -2,7 +2,7 @@
 
 #### (a) Appropriate instrument in writing; filing of organic governing document
 
-The Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indiansmay each organize for its common welfare and adopt an appropriate instrument in writing to govern the affairs of the tribe, nation, or band when each is acting in its governmental capacity. Such instrument and any amendments thereto must be consistent with the terms of this subchapter and the Maine Implementing Act. The Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians shall each file with the Secretary a copy of its organic governing document and any amendments thereto.
+The Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians may each organize for its common welfare and adopt an appropriate instrument in writing to govern the affairs of the tribe, nation, or band when each is acting in its governmental capacity. Such instrument and any amendments thereto must be consistent with the terms of this subchapter and the Maine Implementing Act. The Passamaquoddy Tribe, the Penobscot Nation, and the Houlton Band of Maliseet Indians shall each file with the Secretary a copy of its organic governing document and any amendments thereto.
 
 #### (b) Membership
 

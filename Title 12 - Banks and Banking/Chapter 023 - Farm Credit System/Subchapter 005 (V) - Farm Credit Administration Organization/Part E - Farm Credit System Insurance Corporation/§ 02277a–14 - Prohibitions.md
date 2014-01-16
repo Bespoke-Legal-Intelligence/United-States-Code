@@ -4,7 +4,7 @@
 
 #### (1) Use of corporate name
 
-&emsp;It shall be unlawful for any person or entity to use the words “Farm Credit System Insurance Corporation” or any combination of such words that would have the effect of leading the public to believe that there is any connection between such person or entity and the Corporation, by virtue of the name under which such person or entity does business.
+&emsp;It shall be unlawful for any person or entity to use the words "Farm Credit System Insurance Corporation" or any combination of such words that would have the effect of leading the public to believe that there is any connection between such person or entity and the Corporation, by virtue of the name under which such person or entity does business.
 
 #### (2) False representation
 
@@ -58,9 +58,9 @@
 
 #### Amendments
 
-<b>1991</b>—Subsec. (d)(1). Pub. L. 102–237 struck out “insured” before “System”.
+<b>1991</b>—Subsec. (d)(1). Pub. L. 102–237 struck out "insured" before "System".
 
-<b>1990</b>—Subsec. (d)(1). Pub. L. 101–624, §1837(1), substituted “insured System institution” for “insured System bank”.
+<b>1990</b>—Subsec. (d)(1). Pub. L. 101–624, §1837(1), substituted "insured System institution" for "insured System bank".
 
-Subsec. (d)(2). Pub. L. 101–624, §1837(2), substituted “institution” for “bank”.
+Subsec. (d)(2). Pub. L. 101–624, §1837(2), substituted "institution" for "bank".
 

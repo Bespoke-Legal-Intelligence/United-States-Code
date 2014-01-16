@@ -32,5 +32,5 @@ Historical and Revision Notes
 
 Aug. 20, 1954, ch. 774, §3, 68 Stat. 749.
 
-In clause (5), the words “destroy, or impair” are substituted for “or make for the destruction or impairment of” to eliminate unnecessary words.
+In clause (5), the words "destroy, or impair" are substituted for "or make for the destruction or impairment of" to eliminate unnecessary words.
 

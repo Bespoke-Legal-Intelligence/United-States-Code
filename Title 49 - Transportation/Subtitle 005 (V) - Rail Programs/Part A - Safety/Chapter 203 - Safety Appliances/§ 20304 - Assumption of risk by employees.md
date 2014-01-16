@@ -26,5 +26,5 @@ Mar. 2, 1893, ch. 196, §8, 27 Stat. 532; June 22, 1988, Pub. L. 100–342, §13
 
 Mar. 2, 1903, ch. 976, §1 (words before 23d comma), 32 Stat. 943; June 22, 1988, Pub. L. 100–342, §13(2)(A), 102 Stat. 631.
 
-The words “after learning of the violation” are substituted for “after the unlawful use of such locomotive, car, or train had been brought to his knowledge” in 45:7 for clarity.
+The words "after learning of the violation" are substituted for "after the unlawful use of such locomotive, car, or train had been brought to his knowledge" in 45:7 for clarity.
 

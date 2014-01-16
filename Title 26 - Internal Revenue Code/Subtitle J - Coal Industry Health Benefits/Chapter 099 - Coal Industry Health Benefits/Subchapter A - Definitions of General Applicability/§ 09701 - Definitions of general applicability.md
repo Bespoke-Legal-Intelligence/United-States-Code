@@ -8,7 +8,7 @@ For purposes of this chapter—
 
 #### (A) In general
 
-&emsp;&emsp;The term “UMWA Benefit Plan” means a plan—
+&emsp;&emsp;The term "UMWA Benefit Plan" means a plan—
 
 &emsp;&emsp;&emsp;(i) which is described in section 404(c), or a continuation thereof; and
 
@@ -16,27 +16,27 @@ For purposes of this chapter—
 
 #### (B) 1950 UMWA Benefit Plan
 
-&emsp;&emsp;The term “1950 UMWA Benefit Plan” means a UMWA Benefit Plan, participation in which is substantially limited to individuals who retired before 1976.
+&emsp;&emsp;The term "1950 UMWA Benefit Plan" means a UMWA Benefit Plan, participation in which is substantially limited to individuals who retired before 1976.
 
 #### (C) 1974 UMWA Benefit Plan
 
-&emsp;&emsp;The term “1974 UMWA Benefit Plan” means a UMWA Benefit Plan, participation in which is substantially limited to individuals who retired on or after January 1, 1976.
+&emsp;&emsp;The term "1974 UMWA Benefit Plan" means a UMWA Benefit Plan, participationin which is substantially limited to individuals who retired on or after January 1, 1976.
 
 #### (2) 1950 UMWA Pension Plan
 
-&emsp;The term “1950 UMWA Pension Plan” means a pension plan described in section 404(c) (or a continuation thereof), participation in which is substantially limited to individuals who retired before 1976.
+&emsp;The term "1950 UMWA Pension Plan" means a pension plan described in section 404(c) (or a continuation thereof), participation in which is substantially limited to individuals who retired before 1976.
 
 #### (3) 1974 UMWA Pension Plan
 
-&emsp;The term “1974 UMWA Pension Plan” means a pension plan described in section 404(c) (or a continuation thereof), participation in which is substantially limited to individuals who retired in 1976 and thereafter.
+&emsp;The term "1974 UMWA Pension Plan" means a pension plan described in section 404(c) (or a continuation thereof), participation in which is substantially limited to individuals who retired in 1976 and thereafter.
 
 #### (4) 1992 UMWA Benefit Plan
 
-&emsp;The term “1992 UMWA Benefit Plan” means the plan referred to in section 9713A.<sup>1</sup>
+&emsp;The term "1992 UMWA Benefit Plan" means the plan referred to in section 9713A.<sup>1</sup>
 
 #### (5) Combined Fund
 
-&emsp;The term “Combined Fund” means the United Mine Workers of America Combined Benefit Fund established under section 9702.
+&emsp;The term "Combined Fund" means the United Mine Workers of America Combined Benefit Fund established under section 9702.
 
 #### (b) Agreements
 
@@ -44,7 +44,7 @@ For purposes of this section—
 
 #### (1) Coal wage agreement
 
-&emsp;The term “coal wage agreement” means—
+&emsp;The term "coal wage agreement" means—
 
 &emsp;&emsp;(A) the National Bituminous Coal Wage Agreement, or
 
@@ -56,11 +56,11 @@ For purposes of this section—
 
 #### (2) Settlors
 
-&emsp;The term “settlors” means the United Mine Workers of America and the Bituminous Coal Operators’ Association, Inc. (referred to in this chapter as the “BCOA”).
+&emsp;The term "settlors" means the United Mine Workers of America and the Bituminous Coal Operators' Association, Inc. (referred to in this chapter as the "BCOA").
 
 #### (3) National Bituminous Coal Wage Agreement
 
-&emsp;The term “National Bituminous Coal Wage Agreement” means a collective bargaining agreement negotiated by the BCOA and the United Mine Workers of America.
+&emsp;The term "National Bituminous Coal Wage Agreement" means a collective bargaining agreement negotiated by the BCOA and the United Mine Workers of America.
 
 #### (c) Terms relating to operators
 
@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (1) Signatory operator
 
-&emsp;The term “signatory operator” means a person which is or was a signatory to a coal wage agreement.
+&emsp;The term "signatory operator" means a person which is or was a signatory to a coal wage agreement.
 
 #### (2) Related persons
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 #### (3) 1988 agreement operator
 
-&emsp;The term “1988 agreement operator” means—
+&emsp;The term "1988 agreement operator" means—
 
 &emsp;&emsp;(A) a signatory operator which was a signatory to the 1988 National Bituminous Coal Wage Agreement,
 
@@ -100,11 +100,11 @@ For purposes of this section—
 
 #### (4) Last signatory operator
 
-&emsp;The term “last signatory operator” means, with respect to a coal industry retiree, a signatory operator which was the most recent coal industry employer of such retiree.
+&emsp;The term "last signatory operator" means, with respect to a coal industry retiree, a signatory operator which was the most recent coal industry employer of such retiree.
 
 #### (5) Assigned operator
 
-&emsp;The term “assigned operator” means, with respect to an eligible beneficiary defined in section 9703(f), the signatory operator to which liability under subchapter B with respect to the beneficiary is assigned under section 9706.
+&emsp;The term "assigned operator" means, with respect to an eligible beneficiary defined in section 9703(f), the signatory operator to which liability under subchapter B with respect to the beneficiary is assigned under section 9706.
 
 #### (6) Operators of dependent beneficiaries
 
@@ -112,13 +112,13 @@ For purposes of this section—
 
 #### (7) Business
 
-&emsp;For purposes of this chapter, a person shall be considered to be in business if such person conducts or derives revenue from any business activity, whether or not in the coal industry.
+&emsp;For purposes of this chapter, a person shall be considered to be in business if such personconducts or derives revenue from any business activity, whether or not in the coal industry.
 
 #### (8) Successor in interest
 
 #### (A) Safe harbor
 
-&emsp;&emsp;The term “successor in interest” shall not include any person who—
+&emsp;&emsp;The term "successor in interest" shall not include any person who—
 
 &emsp;&emsp;&emsp;(i) is an unrelated person to an eligible seller described in subparagraph (C); and
 
@@ -126,21 +126,21 @@ For purposes of this section—
 
 #### (B) Unrelated person
 
-&emsp;&emsp;The term “unrelated person” means a purchaser who does not bear a relationship to the eligible seller described in section 267(b).
+&emsp;&emsp;The term "unrelated person" means a purchaser who does not bear a relationship to the eligible seller described in section 267(b).
 
 #### (C) Eligible seller
 
-&emsp;&emsp;For purposes of this paragraph, the term “eligible seller” means an assigned operator described in section 9704(j)(2) or a related person to such assigned operator.
+&emsp;&emsp;For purposes of this paragraph, the term "eligible seller" means an assigned operator described in section 9704(j)(2) or a related person to such assigned operator.
 
 #### (d) Enactment date
 
-For purposes of this chapter, the term “enactment date” means the date of the enactment of this chapter.
+For purposes of this chapter, the term "enactment date" means the date of the enactment of this chapter.
 
 (Added Pub. L. 102–486, title XIX, §19143(a), Oct. 24, 1992, 106 Stat. 3037; amended Pub. L. 109–432, div. C, title II, §211(d), Dec. 20, 2006, 120 Stat. 3023.)
 
 #### References in Text
 
-Section 9713A, referred to in subsec. (a)(4), probably should be a reference to section 9712 which provided for the establishment of the United Mine Workers of America 1992 Benefit Plan, referred to in that section as the “1992 UMWA Benefit Plan”. No section 9713A of this title has been enacted.
+Section 9713A, referred to in subsec. (a)(4), probably should be a reference to section 9712 which provided for the establishment of the United Mine Workers of America 1992 Benefit Plan, referred to in that section as the "1992 UMWA Benefit Plan". No section 9713A of this title has been enacted.
 
 The date of the enactment of this chapter, referred to in subsec. (d), is the date of the enactment of Pub. L. 102–486, which was approved Oct. 24, 1992.
 
@@ -150,29 +150,29 @@ The date of the enactment of this chapter, referred to in subsec. (d), is the da
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. C, title II, §211(e), Dec. 20, 2006, 120 Stat. 3023, provided that: “The amendments made by this section \[amending this section and sections 9704, 9711, and 9712 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 20, 2006\], except that the amendment made by subsection (d) \[amending this section\] shall apply to transactions after the date of the enactment of this Act.”
+Pub. L. 109–432, div. C, title II, §211(e), Dec. 20, 2006, 120 Stat. 3023, provided that: "The amendments made by this section \[amending this section and sections 9704, 9711, and 9712 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 20, 2006\], except that the amendment made by subsection (d) \[amending this section\] shall apply to transactions after the date of the enactment of this Act."
 
 #### Findings and Declaration of Policy
 
 Pub. L. 102–486, title XIX, §19142, Oct. 24, 1992, 106 Stat. 3037, provided that:
 
-“(a)
+"(a)
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) the production, transportation, and use of coal substantially affects interstate and foreign commerce and the national public interest; and
+&emsp;"(1) the production, transportation, and use of coal substantially affects interstate and foreign commerce and the national public interest; and
 
-&emsp;“(2) in order to secure the stability of interstate commerce, it is necessary to modify the current private health care benefit plan structure for retirees in the coal industry to identify persons most responsible for plan liabilities in order to stabilize plan funding and allow for the provision of health care benefits to such retirees.
+&emsp;"(2) in order to secure the stability of interstate commerce, it is necessary to modify the current private health care benefit plan structure for retirees in the coal industry to identify persons most responsible for plan liabilities in order to stabilize plan funding and allow for the provision of health care benefits to such retirees.
 
-“(b)
+"(b)
 
-Statement of Policy.—It is the policy of this subtitle \[subtitle C (§§19141–19143) of title XIX of Pub. L. 102–486, enacting this subtitle, amending sections1231 and 1232 of Title 30, Mineral Lands and Mining, and enacting provisions set out as a note under section 1 of this title\]—
+Statement of Policy.—It is the policy of this subtitle \[subtitle C (§§19141–19143) of title XIX of Pub. L. 102–486, enacting this subtitle, amending sections 1231 and 1232 of Title 30, Mineral Lands and Mining, and enacting provisions set out as a note under section 1 of this title\]—
 
-&emsp;“(1) to remedy problems with the provision and funding of health care benefits with respect to the beneficiaries of multiemployer benefit plans that provide health care benefits to retirees in the coal industry;
+&emsp;"(1) to remedy problems with the provision and funding of health care benefits with respect to the beneficiaries of multiemployer benefit plans that provide health care benefits to retirees in the coal industry;
 
-&emsp;“(2) to allow for sufficient operating assets for such plans; and
+&emsp;"(2) to allow for sufficient operating assets for such plans; and
 
-&emsp;“(3) to provide for the continuation of a privately financed self-sufficient program for the delivery of health care benefits to the beneficiaries of such plans.”
+&emsp;"(3) to provide for the continuation of a privately financed self-sufficient program for the delivery of health care benefits to the beneficiaries of such plans."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -12,11 +12,11 @@ This Act, referred to in text, is act June 25, 1910, ch. 431, 36 Stat. 855, whic
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–462 substituted “under the Indian Land Consolidation Act or a tribal probate code approved under such Act and pursuant to such rules” for “under such rules” in first sentence.
+<b>2000</b>—Pub. L. 106–462 substituted "under the Indian Land Consolidation Act or a tribal probate code approved under such Act and pursuant to such rules" for "under such rules" in first sentence.
 
-<b>1990</b>—Pub. L. 101–301 substituted “his decisions shall be subject to judicial review to the same extent as determinations rendered under section 373 of this title” for “his decision thereon shall be final and conclusive”.
+<b>1990</b>—Pub. L. 101–301 substituted "his decisions shall be subject to judicial review to the same extent as determinations rendered under section 373 of this title" for "his decision thereon shall be final and conclusive".
 
-<b>1934</b>—Act Apr. 30, 1934, substituted “, all payments made, together with all interest paid on such deferred installments, shall be so forfeited” for “a further amount, not exceeding 15 per centum of the purchase price together with all interest paid on such deferred installments may be so forfeited”, inserted “allottee or his” in sentence beginning “All forfeitures shall inure” and struck out “hereafter” from last proviso.
+<b>1934</b>—Act Apr. 30, 1934, substituted ", all payments made, together with all interest paid on such deferred installments, shall be so forfeited" for "a further amount, not exceeding 15 per centum of the purchase price together with all interest paid on such deferred installments may be so forfeited", inserted "allottee or his" in sentence beginning "All forfeitures shall inure" and struck out "hereafter" from last proviso.
 
-<b>1928</b>—Act Mar. 3, 1928, inserted in introductory text “or may hereafter be made,” after “has been made,”, “together with all interest paid on such deferred installments” after “purchase price”, “or may hereafter be” after “restrictions on alienation has been”, and “hereafter” in last proviso, and substituted “by this or any other Act” for “by any Act”.
+<b>1928</b>—Act Mar. 3, 1928, inserted in introductory text "or may hereafter be made," after "has been made,", "together with all interest paid on such deferred installments" after "purchase price", "or may hereafter be" after "restrictions on alienation has been", and "hereafter" in last proviso, and substituted "by this or any other Act" for "by any Act".
 

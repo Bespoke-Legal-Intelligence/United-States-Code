@@ -16,9 +16,9 @@
 
 (2) For purposes of this subsection:
 
-&emsp;(A) The term “van” means any automobile which the Secretary determines is manufactured primarily for use in the transportation of not less than 8 individuals and not more than 15 individuals.
+&emsp;(A) The term "van" means any automobile which the Secretary determines is manufactured primarily for use in the transportation of not less than 8 individuals and not more than 15 individuals.
 
-&emsp;(B) The term “van pooling arrangement” means an arrangement for the transportation of employees between their residences or other designated locations and their place of employment on a nonprofit basis in which the operating costs of such arrangement are paid for by the employees utilizing such arrangement.
+&emsp;(B) The term "van pooling arrangement" means an arrangement for the transportation of employees between their residences or other designated locations and their place of employment on a nonprofit basis in which the operating costs of such arrangement are paid for by the employees utilizing such arrangement.
 
 #### (c) Omitted
 
@@ -38,9 +38,9 @@ Subsec. (c) of this section, which required the Secretary to include in the repo
 
 #### Amendments
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–615 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The President shall submit to the Congress an annual report concerning all steps taken under subsections (a) and (b) of this section.”
+<b>1988</b>—Subsec. (c). Pub. L. 100–615 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The President shall submit to the Congress an annual report concerning all steps taken under subsections (a) and (b) of this section."
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–619, §691(b)(2), substituted “Secretary” for “Administrator”, meaning Administrator of the Federal Energy Administration, wherever appearing.
+<b>1978</b>—Subsec. (b). Pub. L. 95–619, §691(b)(2), substituted "Secretary" for "Administrator", meaning Administrator of the Federal Energy Administration, wherever appearing.
 
 Subsecs. (d), (e). Pub. L. 95–619, §501, added subsecs. (d) and (e).
 
@@ -62,7 +62,7 @@ Responsibilities of Executive Agencies
 
 1–102. Agencies shall establish an annual ridesharing goal tailored to each facility, and expressed as a percentage of fulltime personnel working at that facility who use ridesharing in the commute between home and work. Agencies that share facilities or that are within easy walking distance of one another should coordinate their efforts to develop and implement ridesharing opportunities.
 
-1–103. Agencies shall designate, in accordance with OMB Circular A–118, an employee transportation coordinator. Agencies that share facilities may designate a single transportation coordinator. The coordinator shall assist employees in forming carpools or vanpools (employee-owned or leased) and facilitate employee participation in ridesharing matching programs. The coordinator shall publicize within the facility the availability of public transportation. The coordinator shall also communicate employee needs for new or improved transportation service to the appropriate local public transit authorities or other organizations furnishing multi-passenger modes of travel.
+1–103. Agencies shall designate, in accordance with OMB Circular A–118, an employee transportation coordinator. Agencies that share facilities may designate a single transportation coordinator. The coordinatorshall assist employees in forming carpools or vanpools (employee-owned or leased) and facilitate employee participation in ridesharing matching programs. The coordinator shall publicize within the facility the availability of public transportation. The coordinator shall also communicate employee needs for new or improved transportation service to the appropriate local public transit authorities or other organizations furnishing multi-passenger modes of travel.
 
 1–104. Agencies shall report to the Administrator of General Services, hereinafter referred to as the Administrator, the goals established, the means developed to achieve those goals, and the progress achieved. These reports shall be in such form and frequency as the Administrator may require.
 

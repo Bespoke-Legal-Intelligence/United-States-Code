@@ -12,7 +12,7 @@ A summons issued under section 6420(e)(2), 6421(g)(2), 6427(j)(2), or 7602 shall
 
 #### (2) Third-party recordkeeper
 
-&emsp;For purposes of paragraph (1), the term “third-party recordkeeper” means—
+&emsp;For purposes of paragraph (1), the term "third-party recordkeeper" means—
 
 &emsp;&emsp;(A) any mutual savings bank, cooperative bank, domestic building and loan association, or other savings institution chartered and supervised as a savings and loan or similar association under Federal or State law, any bank (as defined in section 581), or any credit union (within the meaning of section 501(c)(14)(A)),
 
@@ -50,21 +50,21 @@ Subsec. (b)(2). Pub. L. 105–206, §3413(c), added subpar. (J) and concluding p
 
 <b>1988</b>—Pub. L. 100–647, §1017(c)(12), made technical correction to language of Pub. L. 99–514, §1703(e)(2)(G), see 1986 Amendment note below.
 
-Pub. L. 100–647, §1017(c)(9), substituted “6421(g)(2)” for “6421(f)(2)”.
+Pub. L. 100–647, §1017(c)(9), substituted "6421(g)(2)" for "6421(f)(2)".
 
-<b>1986</b>—Pub. L. 99–514, as amended by Pub. L. 100–647, §1017(c)(12), substituted “6427(j)(2)” for “6427(i)(2)”.
+<b>1986</b>—Pub. L. 99–514, as amended by Pub. L. 100–647, §1017(c)(12), substituted "6427(j)(2)" for "6427(i)(2)".
 
-<b>1984</b>—Pub. L. 98–369 substituted “6427(i)(2)” for “6427(h)(2)”.
+<b>1984</b>—Pub. L. 98–369 substituted "6427(i)(2)" for "6427(h)(2)".
 
-<b>1983</b>—Pub. L. 97–424 struck out “6424(d)(2),” after “6421(f)(2),”.
+<b>1983</b>—Pub. L. 97–424 struck out "6424(d)(2)," after "6421(f)(2),".
 
-<b>1980</b>—Pub. L. 96–223 substituted “6427(h)(2)” for “6427(g)(2)”.
+<b>1980</b>—Pub. L. 96–223 substituted "6427(h)(2)" for "6427(g)(2)".
 
-<b>1978</b>—Pub. L. 95–599 substituted “6427(g)(2)” for “6427(f)(2)”.
+<b>1978</b>—Pub. L. 95–599 substituted "6427(g)(2)" for "6427(f)(2)".
 
-<b>1976</b>—Pub. L. 94–530 substituted “6427(f)(2)” for “6427(e)(2)”.
+<b>1976</b>—Pub. L. 94–530 substituted "6427(f)(2)" for "6427(e)(2)".
 
-Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 <b>1970</b>—Pub. L. 91–258 inserted reference to section 6427(e)(2).
 
@@ -78,7 +78,7 @@ Act Apr. 2, 1956, inserted reference to section 6420(e)(2).
 
 Amendment by section 3413(c) of Pub. L. 105–206 applicable to summonses issued, and software acquired, after July 22, 1998, see section 3413(e)(1) of Pub. L. 105–206, set out as an Effective Date note under section 7612 of this title.
 
-Pub. L. 105–206, title III, §3416(b), July 22, 1998, 112 Stat. 757, provided that: “The amendment made by this section \[amending this section\] shall apply to summonses served after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title III, §3416(b), July 22, 1998, 112 Stat. 757, provided that: "The amendment made by this section \[amending this section\] shall apply to summonses served after the date of the enactment of this Act \[July 22, 1998\]."
 
 #### Effective Date of 1988 Amendment
 

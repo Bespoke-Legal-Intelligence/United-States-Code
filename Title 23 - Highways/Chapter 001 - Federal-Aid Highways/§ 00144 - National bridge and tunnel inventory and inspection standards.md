@@ -74,7 +74,7 @@ In general.—The Secretary shall—
 
 &emsp;(2)
 
-Inspection report.—Not later than 2 years after the date of enactment of theMAP–21, each State and appropriate Federal agency shall report element level data to the Secretary, as each bridge is inspected pursuant to this section, for all highway bridges on the National Highway System.
+Inspection report.—Not later than 2 years after the date of enactment of the MAP–21, each State and appropriate Federal agency shall report element level data to the Secretary, as each bridge is inspected pursuant to this section, for all highway bridges on the National Highway System.
 
 &emsp;(3)
 
@@ -130,7 +130,7 @@ Historic Bridges.—
 
 &emsp;(1)
 
-Definition of historic bridge.—In this subsection, the term “historic bridge” means any bridge that is listed on, or eligible for listing on, the National Register of Historic Places.
+Definition of historic bridge.—In this subsection, the term "historic bridge" means any bridge that is listed on, or eligible for listing on, the National Register of Historic Places.
 
 &emsp;(2)
 
@@ -294,7 +294,7 @@ Availability of Funds.—In carrying out this section—
 
 &emsp;(4) a Federal agency may use funds made available to the agency under section 503.
 
-(Added Pub. L. 91–605, title II, §204(a), Dec. 31, 1970, 84 Stat. 1741; amended Pub. L. 93–87, title II, §204, Aug. 13, 1973, 87 Stat. 284; Pub. L. 93–643, §113, Jan. 4, 1975, 88 Stat. 2286; Pub. L. 95–599, title I, §124(a), Nov. 6, 1978, 92 Stat. 2702; Pub. L. 96–106, §§7, 8(a), Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–327, §5(c), Oct. 15, 1982, 96 Stat. 1612; Pub. L. 97–424, title I, §§121(a), 122(a), Jan. 6, 1983, 96 Stat. 2111, 2112; Pub. L. 100–17, title I, §§123(a)–(d)(1), (3), (e), (f)(2), 128, 133(b)(11), Apr. 2, 1987, 101 Stat. 161–163, 167, 172; Pub. L. 102–240, title I, §1028(a)–(f), Dec. 18, 1991, 105 Stat. 1967, 1968; Pub. L. 103–220, §1, Mar. 17, 1994, 108 Stat. 100; Pub. L. 104–59, title III, §§318, 325(b), Nov. 28, 1995, 109 Stat. 588, 592; Pub. L. 105–178, title I,§§1109, 1115(f)(3); June 9, 1998, 112 Stat. 141; Pub. L. 105–206, title IX, §9002(i), July 22, 1998, 112 Stat. 836; Pub. L. 108–88, §2(b)(5), Sept. 30, 2003, 117 Stat. 1111; Pub. L. 108–202, §2(b)(3), Feb. 29, 2004, 118 Stat. 478; Pub. L. 108–224, §2(b)(2), Apr. 30, 2004, 118 Stat. 627; Pub. L. 108–263, §2(b)(2), June 30, 2004, 118 Stat. 698; Pub. L. 108–280, §2(b)(2), July 30, 2004, 118 Stat. 876; Pub. L. 108–310, §2(b)(5), Sept. 30, 2004, 118 Stat. 1145; Pub. L. 109–14, §2(b)(3), May 31, 2005, 119 Stat. 324; Pub. L. 109–20, §2(b)(2), July 1, 2005, 119 Stat. 346; Pub. L. 109–35, §2(b)(2), July 20, 2005, 119 Stat. 379; Pub. L. 109–37, §2(b)(2), July 22, 2005, 119 Stat. 394; Pub. L. 109–40, §2(b)(2), July 28, 2005, 119 Stat. 410; Pub. L. 109–59, title I, §1114, Aug. 10, 2005, 119 Stat. 1172; Pub. L. 110–244, title I, §101(m)(1), June 6, 2008, 122 Stat. 1575; Pub. L. 112–141, div. A, title I, §1111(a), July 6, 2012, 126 Stat. 445.)
+(Added Pub. L. 91–605, title II, §204(a), Dec. 31, 1970, 84 Stat. 1741; amended Pub. L. 93–87, title II, §204, Aug. 13, 1973, 87 Stat. 284; Pub. L. 93–643, §113, Jan. 4, 1975, 88 Stat. 2286; Pub. L. 95–599, title I, §124(a), Nov. 6, 1978, 92 Stat. 2702; Pub. L. 96–106, §§7, 8(a), Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–327, §5(c), Oct. 15, 1982, 96 Stat. 1612; Pub. L. 97–424, title I, §§121(a), 122(a), Jan. 6, 1983, 96 Stat. 2111, 2112; Pub. L. 100–17, title I, §§123(a)–(d)(1), (3), (e), (f)(2), 128, 133(b)(11), Apr. 2, 1987, 101 Stat. 161–163, 167, 172; Pub. L. 102–240, title I, §1028(a)–(f), Dec. 18, 1991, 105 Stat. 1967, 1968; Pub. L. 103–220, §1, Mar. 17, 1994, 108 Stat. 100; Pub. L. 104–59, title III, §§318, 325(b), Nov. 28, 1995, 109 Stat. 588, 592; Pub. L. 105–178, title I, §§1109, 1115(f)(3); June 9, 1998, 112 Stat. 141; Pub. L. 105–206, title IX, §9002(i), July 22, 1998, 112 Stat. 836; Pub. L. 108–88, §2(b)(5), Sept. 30, 2003, 117 Stat. 1111; Pub. L. 108–202, §2(b)(3), Feb. 29, 2004, 118 Stat. 478; Pub. L. 108–224, §2(b)(2), Apr. 30, 2004, 118 Stat. 627; Pub. L. 108–263, §2(b)(2), June 30, 2004, 118 Stat. 698; Pub. L. 108–280, §2(b)(2), July 30, 2004, 118 Stat. 876; Pub. L. 108–310, §2(b)(5), Sept. 30, 2004, 118 Stat. 1145; Pub. L. 109–14, §2(b)(3), May 31, 2005, 119 Stat. 324; Pub. L. 109–20, §2(b)(2), July 1, 2005, 119 Stat. 346; Pub. L. 109–35, §2(b)(2), July 20, 2005, 119 Stat. 379; Pub. L. 109–37, §2(b)(2), July 22, 2005, 119 Stat. 394; Pub. L. 109–40, §2(b)(2), July 28, 2005, 119 Stat. 410; Pub. L. 109–59, title I, §1114, Aug. 10, 2005, 119 Stat. 1172; Pub. L. 110–244, title I, §101(m)(1), June 6, 2008, 122 Stat. 1575; Pub. L. 112–141, div. A, title I, §1111(a), July 6, 2012, 126 Stat. 445.)
 
 #### References in Text
 
@@ -308,137 +308,137 @@ The date of enactment of the MAP–21, referred to in subsecs. (d)(2) and (h)(5)
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to highway bridge program.
 
-<b>2008</b>—Pub. L. 110–244, §101(m)(1)(A), struck out “replacement and rehabilitation” after “Highway bridge” in section catchline.
+<b>2008</b>—Pub. L. 110–244, §101(m)(1)(A), struck out "replacement and rehabilitation" after "Highway bridge" in section catchline.
 
-Subsecs. (b)(1), (c)(1)(1). Pub. L. 110–244, §101(m)(1)(B), substituted “Federal-aid highway” for “Federal-aid system”.
+Subsecs. (b)(1), (c)(1)(1). Pub. L. 110–244, §101(m)(1)(B), substituted "Federal-aid highway" for "Federal-aid system".
 
-Subsec. (c)(2). Pub. L. 110–244, §101(m)(1)(C), substituted “Federal-aid highways” for “the Federal-aid system”.
+Subsec. (c)(2). Pub. L. 110–244, §101(m)(1)(C), substituted "Federal-aid highways" for "the Federal-aid system".
 
-Subsec. (d)(4). Pub. L. 110–244, §101(m)(1)(D), inserted “systematic” before “preventive” in heading.
+Subsec. (d)(4). Pub. L. 110–244, §101(m)(1)(D), inserted "systematic" before "preventive" in heading.
 
-Subsec. (e)(1), (2). Pub. L. 110–244, §101(m)(1)(B), substituted “Federal-aid highway” for “Federal-aid system”.
+Subsec. (e)(1), (2). Pub. L. 110–244, §101(m)(1)(B), substituted "Federal-aid highway" for "Federal-aid system".
 
-Subsec. (e)(3), (4). Pub. L. 110–244, §101(m)(1)(E), substituted “bridges not on Federal-aid highways” for “off-system bridges”.
+Subsec. (e)(3), (4). Pub. L. 110–244, §101(m)(1)(E), substituted "bridges not on Federal-aid highways" for "off-system bridges".
 
-Subsec. (f). Pub. L. 110–244, §101(m)(1)(F), (G), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “The Federal share payable on account of any project under this section shall be 80 per centum of the cost thereof.”
+Subsec. (f). Pub. L. 110–244, §101(m)(1)(F), (G), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "The Federal share payable on account of any project under this section shall be 80 per centum of the cost thereof."
 
-Subsec. (f)(1)(A)(vi). Pub. L. 110–244, §101(m)(1)(H), inserted “and the removal of the Missisquoi Bay causeway” after “Bridge”.
+Subsec. (f)(1)(A)(vi). Pub. L. 110–244, §101(m)(1)(H), inserted "and the removal of the Missisquoi Bay causeway" after "Bridge".
 
-Subsec. (f)(2). Pub. L. 110–244, §101(m)(1)(I), inserted heading and struck out former heading “Off-system bridges”.
+Subsec. (f)(2). Pub. L. 110–244, §101(m)(1)(I), inserted heading and struck out former heading "Off-system bridges".
 
 Subsecs. (g) to (l). Pub. L. 110–244, §101(m)(1)(G), redesignated subsecs. (h) to (m) as (g) to (l), respectively. Former subsec. (g) redesignated (f).
 
-Subsec. (m). Pub. L. 110–244, §101(m)(1)(G), (J), redesignated subsec. (n) as (m), inserted heading, and struck out former heading “Off-System Bridge Program”. Former subsec. (m) redesignated (l).
+Subsec. (m). Pub. L. 110–244, §101(m)(1)(G), (J), redesignated subsec. (n) as (m), inserted heading, and struck out former heading "Off-System Bridge Program". Former subsec. (m) redesignated (l).
 
 Subsec. (n). Pub. L. 110–244, §101(m)(1)(G), redesignated subsec. (o) as (n). Former subsec. (n) redesignated (m).
 
-Subsec. (n)(4)(B). Pub. L. 110–244, §101(m)(1)(K), substituted “State transportation department” for “State highway agency”.
+Subsec. (n)(4)(B). Pub. L. 110–244, §101(m)(1)(K), substituted "State transportation department" for "State highway agency".
 
 Subsec. (o). Pub. L. 110–244, §101(m)(1)(G), redesignated subsec. (p) as (o). Former subsec. (o) redesignated (n).
 
-Subsec. (o)(2). Pub. L. 110–244, §101(m)(1)(C), substituted “Federal-aid highways” for “the Federal-aid system”.
+Subsec. (o)(2). Pub. L. 110–244, §101(m)(1)(C), substituted "Federal-aid highways" for "the Federal-aid system".
 
 Subsecs. (p) to (s). Pub. L. 110–244, §101(m)(1)(G), redesignated subsecs. (p) to (s) as (o) to (r), respectively.
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–59, §1114(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “Congress hereby finds and declares it to be in the vital interest of the Nation that a highway bridge replacement and rehabilitation program be established to enable the several States to replace or rehabilitate highway bridges over waterways, other topographical barriers, other highways, or railroads when the States and the Secretary finds that a bridge is significantly important and is unsafe because of structural deficiencies, physical deterioration, or functional obsolescence.”
+<b>2005</b>—Subsec. (a). Pub. L. 109–59, §1114(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: "Congress hereby finds and declares it to be in the vital interest of the Nation that a highway bridge replacement and rehabilitation program be established to enable the several States to replace or rehabilitate highway bridges over waterways, other topographical barriers, other highways, or railroads when the States and the Secretary finds that a bridge is significantly important and is unsafe because of structural deficiencies, physical deterioration, or functional obsolescence."
 
 Subsec. (d). Pub. L. 109–59, §1114(b), inserted heading and amended text of subsec. (d) generally. Prior to amendment, text related to approval of Federal participation in replacement or rehabilitation of bridges.
 
-Subsec. (e). Pub. L. 109–59, §1114(c), in third sentence, substituted “deck area” for “square footage”, in fourth sentence, struck out “the total cost of deficient bridges in a State and in all States shall be reduced by the total cost of any highway bridges constructed under subsection (m) in such State, relating to replacement of destroyed bridges and ferryboat services, and,” after “For purposes of the preceding sentence,”, and, in seventh sentence, substituted “for the period specified in section 118(b)(2)” for “for the same period as funds apportioned for projects on the Federal-aid primary system under this title”.
+Subsec. (e). Pub. L. 109–59, §1114(c), in third sentence, substituted "deck area" for "square footage", in fourth sentence, struck out "the total cost of deficient bridges in a State and in all States shall be reduced by the total cost of any highway bridges constructed under subsection (m) in such State, relating to replacement of destroyed bridges and ferryboat services, and," after "For purposes of the preceding sentence,", and, in seventh sentence, substituted "for the period specified in section 118(b)(2)" for "for the same period as funds apportioned for projects on the Federal-aid primary system under this title".
 
-Subsec. (g). Pub. L. 109–59, §1114(e)(2)(A), substituted “
+Subsec. (g). Pub. L. 109–59, §1114(e)(2)(A), substituted "
 
-Bridge Set-asides” for “
+Bridge Set-asides" for "
 
-Set Asides” in heading.
+Set Asides" in heading.
 
 Subsec. (g)(1). Pub. L. 109–59, §1114(e)(2)(A), added par. (1) and struck out heading and text of former par. (1), which related to apportionments for the discretionary bridge program for fiscal years 1992 through 2005.
 
-Subsec. (g)(1)(C). Pub. L. 109–59, §1114(e)(1), substituted “2005” for “2003” in heading and text.
+Subsec. (g)(1)(C). Pub. L. 109–59, §1114(e)(1), substituted "2005" for "2003" in heading and text.
 
 Subsec. (g)(2). Pub. L. 109–59, §1114(e)(2)(C), redesignated par. (3) as (2).
 
-Pub. L. 109–59, §1114(e)(2)(A), (B), both amended subsec. (g) by striking out heading and text of par. (2). Text read as follows: “Subject to section 149(d) of the Federal-Aid Highway Act of 1987, amounts made available by paragraph (1) for obligation at the discretion of the Secretary may be obligated only—
+Pub. L. 109–59, §1114(e)(2)(A), (B), both amended subsec. (g) by striking out heading and text of par. (2). Text read as follows: "Subject to section 149(d) of the Federal-Aid Highway Act of 1987, amounts made available by paragraph (1) for obligation at the discretion of the Secretary may be obligated only—
 
-&emsp;“(A) for a project for a highway bridge the replacement or rehabilitation cost of which is more than $10,000,000, and
+&emsp;"(A) for a project for a highway bridge the replacement or rehabilitation cost of which is more than $10,000,000, and
 
-&emsp;“(B) for a project for a highway bridge the replacement or rehabilitation cost of which is less than $10,000,000 if such cost is at least twice the amount apportioned to the State in which such bridge is located under subsection (e) for the fiscal year in which application is made for a grant for such bridge.”
+&emsp;"(B) for a project for a highway bridge the replacement or rehabilitation cost of which is less than $10,000,000 if such cost is at least twice the amount apportioned to the State in which such bridge is located under subsection (e) for the fiscal year in which application is made for a grant for such bridge."
 
 Subsec. (g)(3). Pub. L. 109–59, §1114(e)(2)(C), redesignated par. (3) as (2).
 
-Pub. L. 109–59, §1114(d), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “Not less than 15 percent nor more than 35 percent of the amount apportioned to each State in each of fiscal years 1987 through 2004 and in the period of October 1, 2004, through July 30, 2005, shall be expended for projects to replace, rehabilitate, paint or seismic retrofit, or apply calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and de-icing compositions or install scour countermeasures to highway bridges located on public roads, other than those on a Federal-aid highway. The Secretary, after consultation with State and local officials, may, with respect to such State, reduce the requirement for expenditure for bridges not on a Federal-aid highway when the Secretary determines that such State has inadequate needs to justify such expenditure.”
+Pub. L. 109–59, §1114(d), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: "Not less than 15 percent nor more than 35 percent of the amount apportioned to each State in each of fiscal years 1987 through 2004 and in the period of October 1, 2004, through July 30, 2005, shall be expended for projects to replace, rehabilitate, paint or seismic retrofit, or apply calcium magnesium acetate, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and de-icing compositions or install scour countermeasures to highway bridges located on public roads, other than those on a Federal-aid highway. The Secretary, after consultation with State and local officials, may, with respect to such State, reduce the requirement for expenditure for bridges not on a Federal-aid highway when the Secretary determines that such State has inadequate needs to justify such expenditure."
 
-Pub. L. 109–40 substituted “July 30” for “July 27”.
+Pub. L. 109–40 substituted "July 30" for "July 27".
 
-Pub. L. 109–37 substituted “July 27” for “July 21”.
+Pub. L. 109–37 substituted "July 27" for "July 21".
 
-Pub. L. 109–35 substituted “July 21” for “July 19”.
+Pub. L. 109–35 substituted "July 21" for "July 19".
 
-Pub. L. 109–20 substituted “July 19” for “June 30”.
+Pub. L. 109–20 substituted "July 19" for "June 30".
 
-Pub. L. 109–14 substituted “June 30” for “May 31”.
+Pub. L. 109–14 substituted "June 30" for "May 31".
 
-Subsec. (i). Pub. L. 109–59, §1114(g), struck out “at the same time as the report required by section 307(f) of this title is submitted to Congress” after “biennially” in concluding provisions.
+Subsec. (i). Pub. L. 109–59, §1114(g), struck out "at the same time as the report required by section 307(f) of this title is submitted to Congress" after "biennially" in concluding provisions.
 
 Subsecs. (r), (s). Pub. L. 109–59, §1114(f), added subsecs. (r) and (s).
 
-<b>2004</b>—Subsec. (g)(3). Pub. L. 108–310 inserted “and in the period of October 1, 2004, through May 31, 2005,” after “2004”.
+<b>2004</b>—Subsec. (g)(3). Pub. L. 108–310 inserted "and in the period of October 1, 2004, through May 31, 2005," after "2004".
 
-Pub. L. 108–280 substituted “2004” for “2003 and in the period of October 1, 2003, through July 31, 2004,”.
+Pub. L. 108–280 substituted "2004" for "2003 and in the period of October 1, 2003, through July 31, 2004,".
 
-Pub. L. 108–263 substituted “July 31” for “June 30”.
+Pub. L. 108–263 substituted "July 31" for "June 30".
 
-Pub. L. 108–224 substituted “June 30” for “April 30”.
+Pub. L. 108–224 substituted "June 30" for "April 30".
 
-Pub. L. 108–202 substituted “April 30” for “February 29”.
+Pub. L. 108–202 substituted "April 30" for "February 29".
 
-<b>2003</b>—Subsec. (g)(3). Pub. L. 108–88 inserted “and in the period of October 1, 2003, through February 29, 2004,” after “2003”.
+<b>2003</b>—Subsec. (g)(3). Pub. L. 108–88 inserted "and in the period of October 1, 2003, through February 29, 2004," after "2003".
 
-<b>1998</b>—Subsec. (d). Pub. L. 105–178, §1109(d)(1), (2), inserted “, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and de-icing compositions or installing scour countermeasures” after “magnesium acetate” and inserted “or sodium acetate/formate or such anti-icing or de-icing composition or installation of such countermeasures” after “such acetate” in two places.
+<b>1998</b>—Subsec. (d). Pub. L. 105–178, §1109(d)(1), (2), inserted ", sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and de-icing compositions or installing scour countermeasures" after "magnesium acetate" and inserted "or sodium acetate/formate or such anti-icing or de-icing composition or installation of such countermeasures" after "such acetate" in two places.
 
-Subsec. (e). Pub. L. 105–178, §1109(a), inserted “, and, if a State transfers funds apportioned to the State under this section in a fiscal year beginning after September 30, 1997, to any other apportionment of funds to such State under this title, the total cost of deficient bridges in such State and in all States to be determined for the succeeding fiscal year shall be reduced by the amount of such transferred funds” after “destroyed bridges and ferryboat services”.
+Subsec. (e). Pub. L. 105–178, §1109(a), inserted ", and, if a State transfers funds apportioned to the State under this section in a fiscal year beginning after September 30, 1997, to any other apportionment of funds to such State under this title, the total cost of deficient bridges in such State and in all States to be determined for the succeeding fiscal year shall be reduced by the amount of such transferred funds" after "destroyed bridges and ferryboat services".
 
 Subsec. (g)(1). Pub. L. 105–178, §1109(b), designated existing provisions as subpar. (A), inserted heading, realigned margins, and added subpars. (B) and (C).
 
-Subsec. (g)(3). Pub. L. 105–178, §1109(c), (d)(3), substituted “through 2003” for “1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, and 1997,”, substituted “Federal-aid highway” for “Federal-aid system” in two places, and inserted “, sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and de-icing compositions or install scour countermeasures” after “magnesium acetate”.
+Subsec. (g)(3). Pub. L. 105–178, §1109(c), (d)(3), substituted "through 2003" for "1988, 1989, 1990, 1991, 1992, 1993, 1994, 1995, 1996, and 1997,", substituted "Federal-aid highway" for "Federal-aid system" in two places, and inserted ", sodium acetate/formate, or other environmentally acceptable, minimally corrosive anti-icing and de-icing compositions or install scour countermeasures" after "magnesium acetate".
 
-Subsec. (g)(4). Pub. L. 105–178, §1115(f)(3), as added by Pub. L. 105–206, §9002(i), struck out heading and text of par. (4). Text read as follows: “Not less than 1 percent of the amount apportioned to each State which has an Indian reservation within its boundaries for each fiscal year shall be expended for projects to replace, rehabilitate, paint, or apply calcium magnesium acetate to highway bridges located on Indian reservation roads. Upon determining a State bridge apportionment and before transferring funds to the States, the Secretary shall transfer the Indian reservation bridge allocation under this paragraph to the Secretary of the Interior for expenditure pursuant to this paragraph. The Secretary, after consultation with State and Indian tribal government officials and with the concurrence of the Secretary of the Interior, may, with respect to such State, reduce the requirement for expenditure for bridges under this paragraph when the Secretary determines that there are inadequate needs to justify such expenditure. The non-Federal share payable on account of such a project may be provided from funds made available for Indian reservation roads under chapter 2 of this title.”
+Subsec. (g)(4). Pub. L. 105–178, §1115(f)(3), as added by Pub. L. 105–206, §9002(i), struck out heading and text of par. (4). Text read as follows: "Not less than 1 percent of the amount apportioned to each State which has an Indian reservation within its boundaries for each fiscal year shall be expended for projects to replace, rehabilitate, paint, or apply calcium magnesium acetate to highway bridges located on Indian reservation roads. Upon determining a State bridge apportionment and before transferring funds to the States, the Secretary shall transfer the Indian reservation bridge allocation under this paragraph to the Secretary of the Interior for expenditure pursuant to this paragraph. The Secretary, after consultation with State and Indian tribal government officials and with the concurrence of the Secretary of the Interior, may, with respect to such State, reduce the requirement for expenditure for bridges under this paragraph when the Secretary determines that there are inadequate needs to justify such expenditure. The non-Federal share payable on account of such a project may be provided from funds made available for Indian reservation roads under chapter 2 of this title."
 
-Subsec. (n). Pub. L. 105–178, §1109(e), substituted “Federal-aid highway” for “Federal-aid system”.
+Subsec. (n). Pub. L. 105–178, §1109(e), substituted "Federal-aid highway" for "Federal-aid system".
 
-<b>1995</b>—Subsec. (i)(1). Pub. L. 104–59, §325(b), substituted “Committee on Transportation and Infrastructure” for “Committee on Public Works and Transportation”.
+<b>1995</b>—Subsec. (i)(1). Pub. L. 104–59, §325(b), substituted "Committee on Transportation and Infrastructure" for "Committee on Public Works and Transportation".
 
-Subsec. (l). Pub. L. 104–59, §318, inserted at end “Any non-Federal funds expended for the seismic retrofit of the bridge may be credited toward the non-Federal share required as a condition of receipt of any Federal funds for seismic retrofit of the bridge made available after the date of the expenditure.”
+Subsec. (l). Pub. L. 104–59, §318, inserted at end "Any non-Federal funds expended for the seismic retrofit of the bridge may be credited toward the non-Federal share required as a condition of receipt of any Federal funds for seismic retrofit of the bridge made available after the date of the expenditure."
 
-<b>1994</b>—Subsec. (d). Pub. L. 103–220, §1(1), inserted before period at end of third sentence “, except that a State may carry out a project for seismic retrofit of a bridge under this section without regard to whether the bridge is eligible for replacement or rehabilitation under this section”.
+<b>1994</b>—Subsec. (d). Pub. L. 103–220, §1(1), inserted before period at end of third sentence ", except that a State may carry out a project for seismic retrofit of a bridge under this section without regard to whether the bridge is eligible for replacement or rehabilitation under this section".
 
-Subsec. (e). Pub. L. 103–220, §1(2), inserted at end “The use of funds authorized under this section to carry out a project for the seismic retrofit of a bridge shall not affect the apportionment of funds under this section.”
+Subsec. (e). Pub. L. 103–220, §1(2), inserted at end "The use of funds authorized under this section to carry out a project for the seismic retrofit of a bridge shall not affect the apportionment of funds under this section."
 
 <b>1991</b>—Subsec. (c)(3). Pub. L. 102–240, §1028(a), added par. (3).
 
-Subsec. (d). Pub. L. 102–240, §1028(b), inserted “Whenever any State makes application to the Secretary for assistance in painting and seismic retrofit, or applying calcium magnesium acetate to, the structure of a highway bridge, the Secretary may approve Federal participation in the painting or seismic retrofit of, or application of such acetate to, such structure.” after first sentence and “(other than projects for bridge structure painting or seismic retrofit or application of such acetate)” after “projects” in last sentence.
+Subsec. (d). Pub. L. 102–240, §1028(b), inserted "Whenever any State makes application to the Secretary for assistance in painting and seismic retrofit, or applying calcium magnesium acetate to, the structure of a highway bridge, the Secretary may approve Federal participation in the painting or seismic retrofit of, or application of such acetate to, such structure." after first sentence and "(other than projects for bridge structure painting or seismic retrofit or application of such acetate)" after "projects" in last sentence.
 
-Subsec. (f). Pub. L. 102–240, §1028(c), substituted “project” for “highway bridge replaced or rehabilitated”.
+Subsec. (f). Pub. L. 102–240, §1028(c), substituted "project" for "highway bridge replaced or rehabilitated".
 
-Subsec. (g)(1). Pub. L. 102–240, §1028(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Of the amount authorized per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991 by section 106(a)(5) of the Federal-Aid Highway Act of 1987, all but $225,000,000 per fiscal year shall be apportioned as provided in subsection (e) of this section. $225,000,000 per fiscal year of the amount authorized for each of such fiscal years shall be available for obligation on the date of each such apportionment in the same manner and to the same extent as the sums apportioned on such date, except that the obligation of such $225,000,000 shall, subject to section 149(d) of the Federal-Aid Highway Act of 1987, be at the discretion of the Secretary.”
+Subsec. (g)(1). Pub. L. 102–240, §1028(d), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Of the amount authorized per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991 by section 106(a)(5) of the Federal-Aid Highway Act of 1987, all but $225,000,000 per fiscal year shall be apportioned as provided in subsection (e) of this section. $225,000,000 per fiscal year of the amount authorized for each of such fiscal years shall be available for obligation on the date of each such apportionment in the same manner and to the same extent as the sums apportioned on such date, except that the obligation of such $225,000,000 shall, subject to section 149(d) of the Federal-Aid Highway Act of 1987, be at the discretion of the Secretary."
 
-Subsec. (g)(3). Pub. L. 102–240, §1028(e)(1), substituted “1991, 1992, 1993, 1994, 1995, 1996, and 1997” for “and 1991” and “, rehabilitate, paint or seismic retrofit, or apply calcium magnesium acetate to” for “or rehabilitate”.
+Subsec. (g)(3). Pub. L. 102–240, §1028(e)(1), substituted "1991, 1992, 1993, 1994, 1995, 1996, and 1997" for "and 1991" and ", rehabilitate, paint or seismic retrofit, or apply calcium magnesium acetate to" for "or rehabilitate".
 
 Subsec. (g)(4). Pub. L. 102–240, §1028(f), added par. (4).
 
 Subsecs. (p), (q). Pub. L. 102–240, §1028(e)(2), added subsec. (p) and redesignated former subsec. (p) as (q).
 
-<b>1987</b>—Subsec. (e). Pub. L. 100–17, §133(b)(11), inserted at end “Funds apportioned under this section shall be available for expenditure for the same period as funds apportioned for projects on the Federal-aid primary system under this title. Any funds not obligated at the expiration of such period shall be reapportioned by the Secretary to the other States in accordance with this subsection.”
+<b>1987</b>—Subsec. (e). Pub. L. 100–17, §133(b)(11), inserted at end "Funds apportioned under this section shall be available for expenditure for the same period as funds apportioned for projects on the Federal-aid primary system under this title. Any funds not obligated at the expiration of such period shall be reapportioned by the Secretary to the other States in accordance with this subsection."
 
-Pub. L. 100–17, §123(d)(3), inserted after third sentence “For purposes of the preceding sentence, the total cost of deficient bridges in a State and in all States shall be reduced by the total cost of any highway bridges constructed under subsection (m) in such State, relating to replacement of destroyed bridges and ferryboat services.”
+Pub. L. 100–17, §123(d)(3), inserted after third sentence "For purposes of the preceding sentence, the total cost of deficient bridges in a State and in all States shall be reduced by the total cost of any highway bridges constructed under subsection (m) in such State, relating to replacement of destroyed bridges and ferryboat services."
 
 Subsec. (g). Pub. L. 100–17, §123(a), amended subsec. (g) generally, revising and restating as pars. (1) to (3) provisions formerly contained in pars. (1) and (2).
 
-Subsec. (h). Pub. L. 100–17, §123(b), substituted “(1)” for “which are not subject to the ebb and flow of the tide, and” and added cl. (2).
+Subsec. (h). Pub. L. 100–17, §123(b), substituted "(1)" for "which are not subject to the ebb and flow of the tide, and" and added cl. (2).
 
-Subsec. (i). Pub. L. 100–17, §128, substituted “307(f)” for “307(e)” in last sentence.
+Subsec. (i). Pub. L. 100–17, §128, substituted "307(f)" for "307(e)" in last sentence.
 
-Pub. L. 100–17, §123(c), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “The Secretary shall report annually on projects approved under this section, shall annually revise and report the current inventories authorized by subsections (b) and (c) of this section, and shall report such recommendations as he may have for improvement of the program authorized by this section.”
+Pub. L. 100–17, §123(c), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: "The Secretary shall report annually on projects approved under this section, shall annually revise and report the current inventories authorized by subsections (b) and (c) of this section, and shall report such recommendations as he may have for improvement of the program authorized by this section."
 
 Subsec. (m). Pub. L. 100–17, §123(d)(1), added subsec. (m). Former subsec. (m) redesignated (p).
 
@@ -450,17 +450,17 @@ Subsec. (p). Pub. L. 100–17, §123(d)(1), redesignated former subsec. (m) as (
 
 <b>1983</b>—Subsec. (e). Pub. L. 97–424, §121(a), substituted provisions setting forth categorization, formula for apportionment factors, and limitations respecting deficient bridges for provisions relating to apportionment of funds for fiscal years ending Sept. 30, 1979, through Sept. 30, 1983, availability for expenditure of such funds, and reapportionment by the Secretary.
 
-Pub. L. 97–327, §5(c)(1), substituted “September 30, 1982, and September 30, 1983” for “and September 30, 1982”.
+Pub. L. 97–327, §5(c)(1), substituted "September 30, 1982, and September 30, 1983" for "and September 30, 1982".
 
 Subsec. (g). Pub. L. 97–424, §122(a), designated existing provisions as par. (1), struck out provisions added by section 5(c)(2) of Pub. L. 97–327 relating to apportionment of amounts for fiscal year ending Sept. 30, 1983, and added par. (2).
 
 Pub. L. 97–327, §5(c)(2), inserted provision that, of the amount authorized for the fiscal year ending September 30, 1983, by paragraph (1) of section 5(a) of the Federal-Aid Highway Act of 1982, all but $200,000,000 (multiplied by the factor determined under section 4(a) of such Act) be apportioned, and that $200,000,000 (multiplied by such factor) of the amount authorized for such fiscal year be available for obligation on the date of each such apportionment in the same manner and to the same extent as the sums apportioned on such date with specific limitations applicable to the obligation of such $200,000,000.
 
-<b>1979</b>—Subsec. (d). Pub. L. 96–106, §7(a), substituted “such bridge with a comparable facility or in rehabilitating such bridge” for “or rehabilitating such bridge with a comparable facility”.
+<b>1979</b>—Subsec. (d). Pub. L. 96–106, §7(a), substituted "such bridge with a comparable facility or in rehabilitating such bridge" for "or rehabilitating such bridge with a comparable facility".
 
-Subsec. (g). Pub. L. 96–106, §8(a), inserted “, and for any project for a highway bridge the replacement or rehabilitation costs of which is less than $10,000,000 if such costs is at least twice the amount apportioned to the State in which such bridge is located under subsection (e) of this section for the fiscal year in which application is made for a grant for such bridge”.
+Subsec. (g). Pub. L. 96–106, §8(a), inserted ", and for any project for a highway bridge the replacement or rehabilitation costs of which is less than $10,000,000 if such costs is at least twice the amount apportioned to the State in which such bridge is located under subsection (e) of this section for the fiscal year in which application is made for a grant for such bridge".
 
-Subsec. (m). Pub. L. 96–106, §7(b), substituted “major work” for “major repairs”.
+Subsec. (m). Pub. L. 96–106, §7(b), substituted "major work" for "major repairs".
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–599 substituted provisions relating to Congressional findings as to highway bridge replacement and rehabilitation for provisions relating to Congressional findings as to special bridge replacement.
 
@@ -472,7 +472,7 @@ Subsec. (d). Pub. L. 95–599 redesignated former subsec. (c) as (d) and among o
 
 Subsec. (e). Pub. L. 95–599 added subsec. (e). Former subsec. (e) redesignated (g).
 
-Subsec. (f). Pub. L. 95–599 redesignated former subsec. (d) as (f), substituted “80” for “75”, and inserted “highway” after “account of any”. Former subsec. (f) was struck out.
+Subsec. (f). Pub. L. 95–599 redesignated former subsec. (d) as (f), substituted "80" for "75", and inserted "highway" after "account of any". Former subsec. (f) was struck out.
 
 Subsec. (g). Pub. L. 95–599 redesignated former subsec. (e) as (g) and inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1979 through Sept. 30, 1982. Former subsec. (g) redesignated (h).
 
@@ -506,15 +506,15 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–17, title I, §123(d)(2), Apr. 2, 1987, 101 Stat. 162, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to funds apportioned to the States under \[former\] section 144 of title 23, United States Code, after September 30, 1986.”
+Pub. L. 100–17, title I, §123(d)(2), Apr. 2, 1987, 101 Stat. 162, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to funds apportioned to the States under \[former\] section 144 of title 23, United States Code, after September 30, 1986."
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 97–424, title I, §121(b), Jan. 6, 1983, 96 Stat. 2112, provided that: “The amendment made by subsection (a) of this section \[amending this section\] shall take effect October 1, 1982, and shall apply with respect to each fiscal year beginning on or after such date. Notwithstanding subsection (e) of \[former\] section 144 of title 23, United States Code, as soon as practical after the date of enactment of this Act \[Jan. 6, 1983\], the Secretary of Transportation shall apportion under such subsection (e), as amended by subsection (a) of this section, sums authorized to be appropriated to carry out such section 144 for the fiscal year ending September 30, 1983.”
+Pub. L. 97–424, title I, §121(b), Jan. 6, 1983, 96 Stat. 2112, provided that: "The amendment made by subsection (a) of this section \[amending this section\] shall take effect October 1, 1982, and shall apply with respect to each fiscal year beginning on or after such date. Notwithstanding subsection (e) of \[former\] section 144 of title 23, United States Code, as soon as practical after the date of enactment of this Act \[Jan. 6, 1983\], the Secretary of Transportation shall apportion under such subsection (e), as amended by subsection (a) of this section, sums authorized to be appropriated to carry out such section 144 for the fiscal year ending September 30, 1983."
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of reporting provisions in subsec. (h)(1), (3), and (4) of this section,see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 135 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in subsec. (h)(1), (3), and (4) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 135 of House Document No. 103–7.
 
 #### National Historic Covered Bridge Preservation
 
@@ -526,23 +526,23 @@ Pub. L. 105–178, title I, §1224, as added by Pub. L. 105–206, title IX, §9
 
 Pub. L. 109–59, title I, §1805, Aug. 10, 2005, 119 Stat. 1459, as amended by Pub. L. 112–141, div. A, title I, §1523, July 6, 2012, 126 Stat. 580, provided that:
 
-“(a)
+"(a)
 
 In General.—Any State that demolishes a bridge or an overpass that is eligible for Federal assistance under the national highway performance program under section 119 of title 23, United States Code, is directed to first make the debris from the demolition of such bridge or overpass available for beneficial use by a Federal, State, or local government, unless such use obstructs navigation.
 
-“(b)
+"(b)
 
 Recipient Responsibilities.—A recipient of the debris described in subsection (a) shall—
 
-&emsp;“(1) bear the additional cost associated with having the debris made available;
+&emsp;"(1) bear the additional cost associated with having the debris made available;
 
-&emsp;“(2) ensure that placement of the debris complies with applicable law; and
+&emsp;"(2) ensure that placement of the debris complies with applicable law; and
 
-&emsp;“(3) assume all future legal responsibility arising from the placement of the debris, which may include entering into an agreement to hold the owner of the demolished bridge or overpass harmless in any liability action.
+&emsp;"(3) assume all future legal responsibility arising from the placement of the debris, which may include entering into an agreement to hold the owner of the demolished bridge or overpass harmless in any liability action.
 
-“(c)
+"(c)
 
-Definition.—In this section, the term ‘beneficial use’ means the application of the debris for purposes of shore erosion control or stabilization, ecosystem restoration, and marine habitat creation.”
+Definition.—In this section, the term 'beneficial use' means the application of the debris for purposes of shore erosion control or stabilization, ecosystem restoration, and marine habitat creation."
 
 #### Highway Timber Bridge Research and Demonstration Program
 
@@ -554,7 +554,7 @@ Pub. L. 102–240, title I, §1089, Dec. 18, 1991, 105 Stat. 2023, directed Secr
 
 #### Historic Bridges; Congressional Findings and Declarations
 
-Pub. L. 100–17, title I, §123(f)(1), Apr. 2, 1987, 101 Stat. 163, provided that: “Congress hereby finds and declares it to be in the national interest to encourage the rehabilitation, reuse and preservation of bridges significant in American history, architecture, engineering and culture. Historic bridges are important links to our past, serve as safe and vital transportation routes in the present, and can represent significant resources for the future.”
+Pub. L. 100–17, title I, §123(f)(1), Apr. 2, 1987, 101 Stat. 163, provided that: "Congress hereby finds and declares it to be in the national interest to encourage the rehabilitation, reuse and preservation of bridges significant in American history, architecture, engineering and culture. Historic bridges are important links to our past, serve as safe and vital transportation routes in the present, and can represent significant resources for the future."
 
 #### Study and Recommendations by Transportation Research Board on Effects of Bridge Program on Preservation and Rehabilitation of Historic Bridges
 
@@ -582,5 +582,5 @@ Pub. L. 95–599, title I, §124(c), Nov. 6, 1978, 92 Stat. 2705, directed Secre
 
 #### Acceleration of Bridge Projects; Ohio River Bridge Fund Reprogramming; Reports to Congress
 
-Pub. L. 95–599, title I, §147, Nov. 6, 1978, 92 Stat. 2714, as amended by Pub. L. 96–106, §15, Nov. 19, 1979, 93 Stat. 798; Pub. L. 99–272, title IV, §4105, Apr. 7, 1986, 100 Stat. 116, directed Secretary of Transportation to conduct two projects to construct or replace high-traffic-volume bridges on the Federal-aid highway system which span major bodies of water in order to demonstrate the feasibility of reducing the time required to replace unsafe bridges; authorized funds for the projects; directed Secretary to report to Congress within six months after the completion of each project; redirected certain funds in excess of amounts needed to complete the projects for use in further projects for construction of three state-of-the-art Ohio River bridges linking designated cities in Kentucky and Ohio; and directed Secretary toreport to Congress within a year after the completion of these bridges.
+Pub. L. 95–599, title I, §147, Nov. 6, 1978, 92 Stat. 2714, as amended by Pub. L. 96–106, §15, Nov. 19, 1979, 93 Stat. 798; Pub. L. 99–272, title IV, §4105, Apr. 7, 1986, 100 Stat. 116, directed Secretary of Transportation to conduct two projects to construct or replace high-traffic-volume bridges on the Federal-aid highway system which span major bodies of water in order to demonstrate the feasibility of reducing the time required to replace unsafe bridges; authorized funds for the projects; directed Secretary to report to Congress within six months after the completion of each project; redirected certain funds in excess of amounts needed to complete the projects for use in further projects for construction of three state-of-the-art Ohio River bridges linking designated cities in Kentucky and Ohio; and directed Secretary to report to Congress within a year after the completion of these bridges.
 

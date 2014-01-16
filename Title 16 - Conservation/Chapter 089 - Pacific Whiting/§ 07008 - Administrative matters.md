@@ -30,11 +30,11 @@ With respect to the 2 independent members of the scientific review group and the
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–348 amended subsec. (a) generally. Prior to amendment, text read as follows: “Individuals appointed under section 7002, 7003, 7004, or 7005 of this title who are serving as such Commissioners, other than officers or employees of the United States Government, shall be considered to be Federal employees while performing such service, only for purposes of—
+<b>2011</b>—Subsec. (a). Pub. L. 111–348 amended subsec. (a) generally. Prior to amendment, text read as follows: "Individuals appointed under section 7002, 7003, 7004, or 7005 of this title who are serving as such Commissioners, other than officers or employees of the United States Government, shall be considered to be Federal employees while performing such service, only for purposes of—
 
-&emsp;“(1) injury compensation under chapter 81 of title 5;
+&emsp;"(1) injury compensation under chapter 81 of title 5;
 
-&emsp;“(2) requirements concerning ethics, conflicts of interest, and corruption as provided under title 18; and
+&emsp;"(2) requirements concerning ethics, conflicts of interest, and corruption as provided under title 18; and
 
-&emsp;“(3) any other criminal or civil statute or regulation governing the conduct of Federal employees.”
+&emsp;"(3) any other criminal or civil statute or regulation governing the conduct of Federal employees."
 

@@ -40,7 +40,7 @@ Not later than 2 years after December 20, 2010, and every 2 years thereafter, th
 
 #### (2) Report
 
-&emsp;Not later than 1 year after December 20, 2010, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Labor of the House of Representatives a report that contains the results of the study conducted under paragraph (1) and any recommendations for statutory orregulatory changes the Secretary determines appropriate. Such report may be submitted electronically.
+&emsp;Not later than 1 year after December 20, 2010, the Secretary shall submit to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Education and Labor of the House of Representatives a report that contains the results of the study conducted under paragraph (1) and any recommendations for statutory or regulatory changes the Secretary determines appropriate. Such report may be submitted electronically.
 
 (Pub. L. 93–247, title I, §110, formerly §13, as added Pub. L. 100–294, title I, §101, Apr. 25, 1988, 102 Stat. 116; renumbered title I, §112, and amended Pub. L. 101–126, §3(a)(1), (2), (b)(6), Oct. 25, 1989, 103 Stat. 764, 765; renumbered §110 and amended Pub. L. 104–235, title I, §113(a)(1)(B), (3), Oct. 3, 1996, 110 Stat. 3079; Pub. L. 108–36, title I, §118, June 25, 2003, 117 Stat. 813; Pub. L. 111–320, title I, §118, Dec. 20, 2010, 124 Stat. 3475.)
 
@@ -52,27 +52,27 @@ A prior section 110 of Pub. L. 93–247 was renumbered section 108 and is classi
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–320, §118(a), added subsec. (a) and struck out former subsec. (a) which required the Secretary to submit to the appropriate committees of Congress a biennial report on efforts to coordinate the objectives and activities of agencies and organizations which are responsible for programs and activities related to child abuse and neglect.
 
-Subsec. (b). Pub. L. 111–320, §118(a), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “Not later than two years after the first fiscal year for which funds are obligated under section 10603a of this title, the Secretary shall submit to the appropriate committees of Congress a report evaluating the effectiveness of assisted programs in achieving the objectives of section 5106c of this title.”
+Subsec. (b). Pub. L. 111–320, §118(a), added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "Not later than two years after the first fiscal year for which funds are obligated under section 10603a of this title, the Secretary shall submit to the appropriate committees of Congress a report evaluating the effectiveness of assisted programs in achieving the objectives of section 5106c of this title."
 
 Subsec. (c). Pub. L. 111–320, §118(b), amended subsec. (c) generally. Prior to amendment, text read as follows:
 
-“(1)
+"(1)
 
 Study.—The Secretary shall conduct a study by random sample of the effectiveness of the citizen review panels established under section 5106a(c) of this title.
 
-“(2)
+"(2)
 
-Report.—Not later than 3 years after June 25, 2003, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report that contains the results of the study conducted under paragraph (1).”
+Report.—Not later than 3 years after June 25, 2003, the Secretary shall submit to the Committee on Education and the Workforce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate a report that contains the results of the study conducted under paragraph (1)."
 
 Subsec. (d). Pub. L. 111–320, §118(c), added subsec. (d).
 
 <b>2003</b>—Subsec. (c). Pub. L. 108–36 added subsec. (c).
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–235 substituted “effectiveness of assisted programs in achieving the objectives of section 5106c of this title” for “effectiveness of—
+<b>1996</b>—Subsec. (b). Pub. L. 104–235 substituted "effectiveness of assisted programs in achieving the objectives of section 5106c of this title" for "effectiveness of—
 
-&emsp;“(1) assisted programs in achieving the objectives of section 5106c of this title; and
+&emsp;"(1) assisted programs in achieving the objectives of section 5106c of this title; and
 
-&emsp;“(2) the technical assistance provided under section 5106b of this title”.
+&emsp;"(2) the technical assistance provided under section 5106b of this title".
 
 <b>1989</b>—Subsec. (b). Pub. L. 101–126, §3(b)(6), made technical amendments to references to sections 5106b and 5106c of this title to reflect renumbering of corresponding sections of original act.
 

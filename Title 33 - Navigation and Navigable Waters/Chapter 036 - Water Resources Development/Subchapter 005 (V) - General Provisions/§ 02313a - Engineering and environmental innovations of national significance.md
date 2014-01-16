@@ -20,7 +20,7 @@ To encourage innovative and environmentally sound engineering solutions and inno
 
 Section was enacted as part of the Water Resources Development Act of 1996, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under section 2201 of this title.
 

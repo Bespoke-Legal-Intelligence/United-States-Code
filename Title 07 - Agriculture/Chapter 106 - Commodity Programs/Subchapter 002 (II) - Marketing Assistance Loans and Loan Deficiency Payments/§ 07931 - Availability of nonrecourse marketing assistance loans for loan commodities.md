@@ -24,13 +24,13 @@ As a condition of the receipt of a marketing assistance loan under subsection (a
 
 #### (e) Termination of superseded loan authority
 
-Notwithstanding section 131 of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7231), nonrecourse marketing assistance loans shall not be made for the 2002 crop of loan commodities under subtitle C of title I of such Act \[7 U.S.C. 7231 et seq.\].
+Notwithstanding section 131 of the Federal Agriculture Improvement and Reform Act of 1996 (7U.S.C. 7231), nonrecourse marketing assistance loans shall not be made for the 2002 crop of loan commodities under subtitle C of title I of such Act \[7 U.S.C. 7231 et seq.\].
 
 (Pub. L. 107–171, title I, §1201, May 13, 2002, 116 Stat. 155.)
 
 #### References in Text
 
-This subchapter, referred to in subsec. (c), was in the original “this subtitle”, meaning subtitle B (§§1201–1209) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 155, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
+This subchapter, referred to in subsec. (c), was in the original "this subtitle", meaning subtitle B (§§1201–1209) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 155, which is classified principally to this subchapter. For complete classification of subtitle B to the Code, see Tables.
 
 The Food Security Act of 1985, referred to in subsec. (d), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Subtitles B and C of title XII of the Act are classified generally to subchapters II (§3811 et seq.) and III (§3821 et seq.), respectively, of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 

@@ -6,7 +6,7 @@ The importation into the United States is prohibited of—
 
 &emsp;(2) screenings of any seeds subject to this subchapter (except that this shall not apply to screenings of wheat, oats, rye, barley, buckwheat, field corn, sorghum, broomcorn, flax, millet, proso, soybeans, cowpeas, field peas, or field beans, which are not imported for seeding purposes and are declared for cleaning, processing, or manufacturing purposes, and not for seeding purposes);
 
-&emsp;(3) any seed containing 10 per centum or more of any agricultural or vegetable seeds, unless the invoice pertaining to such seed and any other labeling of such seed bear a lot identification and the name of each kind and variety of vegetable seed present in any amount and each kind or kind and variety of agricultural seed present in excess of 5 per centum of the whole, and unless in the case of hybrid seed present in excess of 5 per centum of the whole it is designated as hybrid.<sup>1</sup>
+&emsp;(3) any seed containing 10 per centum or more of any agricultural or vegetable seeds,unless the invoice pertaining to such seed and any other labeling of such seed bear a lot identification and the name of each kind and variety of vegetable seed present in any amount and each kind or kind and variety of agricultural seed present in excess of 5 per centum of the whole, and unless in the case of hybrid seed present in excess of 5 per centum of the whole it is designated as hybrid.<sup>1</sup>
 
 &emsp;(4) any agricultural seeds or any mixture thereof, or any vegetable seeds or any mixture thereof, for seeding purposes, that have been treated, unless each container thereof bears a label giving the following information and statements in accordance with rules and regulations prescribed under section 1592 of this title:
 
@@ -14,7 +14,7 @@ The importation into the United States is prohibited of—
 
 &emsp;&emsp;(B) The commonly accepted coined, chemical (generic), or abbreviated chemical name of any substance used in such treatment;
 
-&emsp;&emsp;(C) If the substance used in such treatment in the amount remaining with the seeds is harmful to humans or other vertebrate animals, an appropriate caution statement approved by the Secretary of Agriculture as adequate for the protection of the public, such as “Do not use for food or feed or oil purposes”; <i>Provided</i>, That the caution statement for mercurials and similarly toxic substances, as defined in said rules and regulations, shall be a representation of a skull and crossbones and a statement such as “This seed has been treated with POISON”, in red letters on a background of distinctly contrasting color; and
+&emsp;&emsp;(C) If the substance used in such treatment in the amount remaining with the seeds is harmful to humans or other vertebrate animals, an appropriate caution statement approved by the Secretary of Agriculture as adequate for the protection of the public, such as "Do not use for food or feed or oil purposes"; <i>Provided</i>, That the caution statement for mercurials and similarly toxic substances, as defined in said rules and regulations, shall be a representation of a skull and crossbones and a statement such as "This seed has been treated with POISON", in red letters on a background of distinctly contrasting color; and
 
 &emsp;&emsp;(D) A description, approved by the Secretary of Agriculture as adequate for the protection of the public, of any process used in such treatment.
 
@@ -22,11 +22,11 @@ The importation into the United States is prohibited of—
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–465 struck out “(a)” before “The importation” in introductory provisions, struck out “, or is required to be stained and is not so stained, under the terms of this subchapter,” after “noxious-weed seeds” in par. (1), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “any seed containing 10 per centum or more of the seeds of alfalfa or red clover, which has been stained prior to being offered for entry in a manner that does not permit compliance with the provisions of this subchapter and the regulations made and promulgated thereunder.”
+<b>1994</b>—Pub. L. 103–465 struck out "(a)" before "The importation" in introductory provisions, struck out ", or is required to be stained and is not so stained, under the terms of this subchapter," after "noxious-weed seeds" in par. (1), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: "any seed containing 10 per centum or more of the seeds of alfalfa or red clover, which has been stained prior to being offered for entry in a manner that does not permit compliance with the provisions of this subchapter and the regulations made and promulgated thereunder."
 
-<b>1983</b>—Subsec. (a)(1). Pub. L. 97–439 substituted “any agricultural or vegetable seeds if any such seed contains noxious weed seeds” for “any seed containing 10 per centum or more of any agricultural or vegetable seeds if any such seed is adulterated or unfit for seeding purposes”.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 97–439 substituted "any agricultural or vegetable seeds if any such seed contains noxious weed seeds" for "any seed containing 10 per centum or more of any agricultural or vegetable seeds if any such seed is adulterated or unfit for seeding purposes".
 
-<b>1966</b>—Subsec. (a)(4). Pub. L. 89–686, §13, prohibited importation of any seed containing 10 per centum or more of any agricultural seeds and prescribed as additional prerequisites to importation a lot identification for theinvoice and any other labeling, the kind and variety of seed present in any amount, each kind or kind and variety of seed present in excess of 5 per centum of the whole, and hybrid designation in case of hybrid seed present in excess of 5 per centum of the whole.
+<b>1966</b>—Subsec. (a)(4). Pub. L. 89–686, §13, prohibited importation of any seed containing 10 per centum or more of any agricultural seeds and prescribed as additional prerequisites to importation a lot identification for the invoice and any other labeling, the kind and variety of seed present in any amount, each kind or kind and variety of seed present in excess of 5 per centum of the whole, and hybrid designation in case of hybrid seed present in excess of 5 per centum of the whole.
 
 Subsec. (a)(5). Pub. L. 89–686, §14, added par. (5).
 

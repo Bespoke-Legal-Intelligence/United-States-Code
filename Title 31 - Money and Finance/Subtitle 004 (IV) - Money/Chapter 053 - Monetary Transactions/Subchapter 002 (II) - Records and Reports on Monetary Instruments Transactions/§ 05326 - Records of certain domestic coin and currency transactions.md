@@ -28,7 +28,7 @@ In general.—The Secretary of the Treasury may, by regulation or order, require
 
 &emsp;(2)
 
-Reportable transaction defined.—For purposes of this subsection, the term “reportable transaction” means any transaction involving coins or currency (or such other monetary instruments as the Secretary may describe in the regulation or order) the total amounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe.
+Reportable transaction defined.—For purposes of this subsection, the term "reportable transaction" means any transaction involving coins or currency (or such other monetary instruments as the Secretary may describe in the regulation or order) the total amounts or denominations of which are equal to or greater than an amount which the Secretary may prescribe.
 
 (c)
 
@@ -46,17 +46,17 @@ Section 3(c) of the Federal Deposit Insurance Act, referred to in subsec. (b)(1)
 
 #### Amendments
 
-<b>2001</b>—Subsec.(a). Pub. L. 107–56, §365(c)(2)(B), inserted “or nonfinancial trade or business” after “financial institution” and “or nonfinancial trades or businesses” for “financial institutions” in introductory provisions.
+<b>2001</b>—Subsec.(a). Pub. L. 107–56, §365(c)(2)(B), inserted "or nonfinancial trade or business" after "financial institution" and "or nonfinancial trades or businesses" for "financial institutions" in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 107–56, §365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution”.
+Subsec. (a)(1)(A). Pub. L. 107–56, §365(c)(2)(B)(i), inserted "or nonfinancial trade or business" after "financial institution".
 
-Subsec. (b)(1)(A). Pub. L. 107–56, §365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” wherever appearing.
+Subsec. (b)(1)(A). Pub. L. 107–56, §365(c)(2)(B)(i), inserted "or nonfinancial trade or business" after "financial institution" wherever appearing.
 
-Subsec. (b)(1)(B). Pub. L. 107–56, §365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution”.
+Subsec. (b)(1)(B). Pub. L. 107–56, §365(c)(2)(B)(i), inserted "or nonfinancial trade or business" after "financial institution".
 
-Subsec. (c). Pub. L. 107–56, §365(c)(2)(B)(i), inserted “or nonfinancial trade or business” after “financial institution” in two places.
+Subsec. (c). Pub. L. 107–56, §365(c)(2)(B)(i), inserted "or nonfinancial trade or business" after "financial institution" in two places.
 
-Subsec. (d). Pub. L. 107–56, §353(d), substituted “more than 180 days” for “more than 60 days”.
+Subsec. (d). Pub. L. 107–56, §353(d), substituted "more than 180 days" for "more than 60 days".
 
 <b>1992</b>—Subsecs. (b) to (d). Pub. L. 102–550 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 

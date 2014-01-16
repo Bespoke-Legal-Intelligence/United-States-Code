@@ -29,9 +29,9 @@
 
 <b>1991</b>—Pub. L. 102–190, div. A, title VI, §654(b)(2), Dec. 5, 1991, 105 Stat. 1390, added item 1444a.
 
-<b>1972</b>—Pub. L. 92–425, §1(2)(B), (C), Sept. 21, 1972, 86 Stat. 706, struck out item 1443 “Board of Actuaries”, and struck out “reports to Congress” from item 1444.
+<b>1972</b>—Pub. L. 92–425, §1(2)(B), (C), Sept. 21, 1972, 86 Stat. 706, struck out item 1443 "Board of Actuaries", and struck out "reports to Congress" from item 1444.
 
-<b>1961</b>—Pub. L. 87–381, §6(2), (3), Oct. 4, 1961, 75 Stat. 812, inserted “; withdrawal for severe financial hardship” in item 1436, and added items 1445 and 1446.
+<b>1961</b>—Pub. L. 87–381, §6(2), (3), Oct. 4, 1961, 75 Stat. 812, inserted "; withdrawal for severe financial hardship" in item 1436, and added items 1445 and 1446.
 
 
 ---

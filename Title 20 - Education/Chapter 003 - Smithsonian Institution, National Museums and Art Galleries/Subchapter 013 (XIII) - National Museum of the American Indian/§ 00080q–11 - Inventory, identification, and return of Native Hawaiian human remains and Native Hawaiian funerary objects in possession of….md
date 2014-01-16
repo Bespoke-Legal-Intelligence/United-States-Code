@@ -14,11 +14,11 @@ The Secretary of the Smithsonian Institution shall—
 
 As used in this section—
 
-&emsp;(1) the term “Malama I Na Kupuna O Hawai'i Nei” means the nonprofit, Native Hawaiian organization, incorporated under the laws of the State of Hawaii by that name on April 17, 1989, the purpose of which is to provide guidance and expertise in decisions dealing with Native Hawaiian cultural issues, particularly burial issues; and
+&emsp;(1) the term "Malama I Na Kupuna O Hawai'i Nei" means the nonprofit, Native Hawaiian organization, incorporated under the laws of the State of Hawaii by that name on April 17, 1989, the purpose of which is to provide guidance and expertise in decisions dealing with Native Hawaiian cultural issues, particularly burial issues; and
 
-&emsp;(2) the term “Office of Hawaiian Affairs” means the Office of Hawaiian Affairs established by the Constitution of the State of Hawaii.
+&emsp;(2) the term "Office of Hawaiian Affairs" means the Office of Hawaiian Affairs established by the Constitution of the State of Hawaii.
 
 (Pub. L. 101–185, §13, Nov. 28, 1989, 103 Stat. 1345.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “and”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "and".</i>
 

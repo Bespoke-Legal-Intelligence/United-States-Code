@@ -6,7 +6,7 @@ The Secretary may provide training and technical assistance to States with respe
 
 #### (b) Provision by Secretary of supplies and services in lieu of grant funds
 
-(1) Upon the request of a State receiving payments under this part, the Secretary may, subject to paragraph (2), provide supplies, equipment, and services for the purpose of aiding the State in carrying out such part and, for such purpose, may detail to the State any officer or employee of the Department of Health and Human Services.
+(1) Upon the request of a State receiving payments under this part, the Secretary may, subject to paragraph (2), provide supplies, equipment, and services for the purpose of aiding theState in carrying out such part and, for such purpose, may detail to the State any officer or employee of the Department of Health and Human Services.
 
 (2) With respect to a request described in paragraph (1), the Secretary shall reduce the amount of payments under section 300ee–11(a) of this title to the State by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
@@ -18,7 +18,7 @@ A prior section 2510 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b)(2). Pub. L. 100–690 substituted “section 300ee–11(a) of this title” for “the program involved”.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–690 substituted "section 300ee–11(a) of this title" for "the program involved".
 
 #### Effective Date of 1988 Amendment
 

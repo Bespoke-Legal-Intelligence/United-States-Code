@@ -28,9 +28,9 @@ R.S. 1169.
 
 Apr. 16, 1947, ch. 38, §106 (less 1st sentence), 61 Stat. 44.
 
-In subsection (a), the word “commissioned” is inserted for clarity. The words “Except as provided in section 94 of this title”, not contained in section 1169 of the Revised Statutes, but contained in 10:94, are omitted as surplusage, since 10:94 deals exclusively with assignments. The words “except within the Army Medical Service” are substituted for the words “in the line or in other staff corps”. Officers of the Army Nurse Corps and Women's Medical Specialist Corps are not covered by subsection (a), since their command authority is specifically stated in subsection (b).
+In subsection (a), the word "commissioned" is inserted for clarity. The words "Except as provided in section 94 of this title", not contained in section 1169 of the Revised Statutes, but contained in 10:94, are omitted as surplusage, since 10:94 deals exclusively with assignments. The words "except within the Army Medical Service" are substituted for the words "in the line or in other staff corps". Officers of the Army Nurse Corps and Women's Medical Specialist Corps are not covered by subsection (a), since their command authority is specifically stated in subsection (b).
 
-In subsection (b), 10:166e (last 22 words of 1st sentence) is omitted as superseded by sections 3012(e) and 3065 of this title. The words “may exercise command only” are substituted for the words “shall not be entitled \* \* \* to command except”. The words “by virtue of their rank” and “by competent authority” are omitted as surplusage.
+In subsection (b), 10:166e (last 22 words of 1st sentence) is omitted as superseded by sections 3012(e) and 3065 of this title. The words "may exercise command only" are substituted for the words "shall not be entitled \* \* \* to command except". The words "by virtue of their rank" and "by competent authority" are omitted as surplusage.
 
 1958
 
@@ -52,21 +52,21 @@ The amendment of subsec. (b) also reflects the authority contained in section 33
 
 #### Amendments
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–525 substituted “subsection (b)” for “subsection (c)”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–525 substituted "subsection (b)" for "subsection (c)".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513, §212(a)(1), struck out “, other than an officer of the Army Nurse Corps or Army Medical Specialist Corps,” after “officer of the Army Medical Department”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §212(a)(1), struck out ", other than an officer of the Army Nurse Corps or Army Medical Specialist Corps," after "officer of the Army Medical Department".
 
 Subsecs. (b), (c). Pub. L. 96–513, §212(a)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which provided that an officer of the Army Nurse Corps or the Army Medical Specialist Corps exercise command only within his branch, or over persons placed under his charge.
 
-<b>1968</b>—Pub. L. 90–329 substituted “Army Medical Department” for “Army Medical Service” in section catchline and in subsecs. (a) and (c).
+<b>1968</b>—Pub. L. 90–329 substituted "Army Medical Department" for "Army Medical Service" in section catchline and in subsecs. (a) and (c).
 
-<b>1961</b>—Subsec. (a). Pub. L. 87–142, §1(1), substituted “Except as provided in subsection (c), a” for “A”.
+<b>1961</b>—Subsec. (a). Pub. L. 87–142, §1(1), substituted "Except as provided in subsection (c), a" for "A".
 
 Subsec. (c). Pub. L. 87–142, §1(2), added subsec. (c).
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–861, §1(60), substituted “Army Medical Specialist Corps” for “Women's Medical Specialist Corps”.
+<b>1958</b>—Subsec. (a). Pub. L. 85–861, §1(60), substituted "Army Medical Specialist Corps" for "Women's Medical Specialist Corps".
 
-Subsec. (b). Pub. L. 85–861, §1(60), (87), substituted “Army Medical Specialist Corps” for “Women's Medical Specialist Corps” and “his” for “her own” and “her”.
+Subsec. (b). Pub. L. 85–861, §1(60), (87), substituted "Army Medical Specialist Corps" for "Women's Medical Specialist Corps" and "his" for "her own" and "her".
 
 #### Effective Date of 1980 Amendment
 

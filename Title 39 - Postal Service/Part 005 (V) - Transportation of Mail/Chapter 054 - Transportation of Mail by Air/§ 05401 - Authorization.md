@@ -8,9 +8,9 @@
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–272 substituted “part A of subtitle VII” for “sections 1301–1542”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–272 substituted "part A of subtitle VII" for "sections 1301–1542".
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–443 substituted "Secretary of Transportation" for "Civil Aeronautics Board".
 
 #### Effective Date of 1984 Amendment
 

@@ -12,7 +12,7 @@ Criteria.—All determinations by the Postal Regulatory Commission under subsect
 
 &emsp;(2)
 
-Exclusion of products covered by postal monopoly.—A product covered by the postal monopoly shall not be subject to transfer under this section from the market-dominant category of mail. For purposes of the preceding sentence, the term “product covered by the postal monopoly” means any product the conveyance or transmission of which is reserved to the United States under section 1696 of title 18, subject to the same exception as set forth in the last sentence of section 409(e)(1).
+Exclusion of products covered by postal monopoly.—A product covered by the postal monopoly shall not be subject to transfer under this section from the market-dominant category of mail. For purposes of the preceding sentence, the term "product covered by the postal monopoly" means any product the conveyance or transmission of which is reserved to the United States under section 1696 of title 18, subject to the same exception as set forth in the last sentence of section 409(e)(1).
 
 &emsp;(3)
 

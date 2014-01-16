@@ -2,11 +2,11 @@
 
 #### (a) Chesapeake Bay watershed defined
 
-In this section, the term “Chesapeake Bay watershed” means all tributaries, backwaters, and side channels, including their watersheds, draining into the Chesapeake Bay.
+In this section, the term "Chesapeake Bay watershed" means all tributaries, backwaters, and side channels, including their watersheds, draining into the Chesapeake Bay.
 
 #### (b) Establishment and purpose
 
-The Secretary shall assist producers in implementing conservation activities on agricultural lands in the Chesapeake Bay watershed for the purposes of—
+The Secretary shall assist producers in implementing conservation activities on agriculturallands in the Chesapeake Bay watershed for the purposes of—
 
 &emsp;(1) improving water quality and quantity in the Chesapeake Bay watershed; and
 

@@ -2,7 +2,7 @@
 
 #### (a) Interest rates; security; equitable geographical distribution
 
-(1) Any loan made by the Secretary to a public agency under this part for the modernization or construction of a public hospital or other health facility shall require such public agency to pay interest thereon at a rate comparable to the current rate of interest prevailing with respect to loans, to nonprofit private agencies, which are guaranteed under this part, for the modernization or construction of similar facilities in the same or similar areas, minus 3 per centum per annum.
+(1) Any loan made by the Secretary to a public agency under this part for the modernization or construction of a public hospital or other health facility shall require such public agency to pay interest thereon at a rate comparable to the current rate of interest prevailing with respect to loans, to nonprofit private agencies, which are guaranteed under this part, for the modernization or construction of similar facilities inthe same or similar areas, minus 3 per centum per annum.
 
 (2)(A) No loan to a public agency shall be made under this part unless—
 
@@ -18,7 +18,7 @@
 
 (1) The Secretary shall from time to time, but with due regard to the financial interests of the United States, sell loans referred to in subsection (a)(1) of this section either on the private market or to the Federal National Mortgage Association in accordance with section 1717 of title 12.
 
-(2) Any loan so sold shall be sold for an amount which is equal (or approximately equal)to the amount of the unpaid principal of such loan as of the time of sale.
+(2) Any loan so sold shall be sold for an amount which is equal (or approximately equal) to the amount of the unpaid principal of such loan as of the time of sale.
 
 #### (c) Agreements
 
@@ -58,9 +58,9 @@ There is authorized to be appropriated to the Secretary, for deposit in the loan
 
 #### Amendments
 
-<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 #### Commitments for Direct Loans to Public Agencies
 
-Pub. L. 91–667, title II, §200, Jan. 11, 1971, 84 Stat. 2007, provided: “That the Secretary is authorized to issue commitments for direct loans to public agencies in accordance with section 627 of the Public Health Service Act \[this section\] which shall constitute contractual obligations of the United States, the total of such outstanding commitments not to exceed $30,000,000 at any given time; to sell obligations received pursuant to such commitments as provided in section 627, and the proceeds of any such sale shall be used to make a direct loan pursuant to the outstanding commitment under which the obligations were received.”
+Pub. L. 91–667, title II, §200, Jan. 11, 1971, 84 Stat. 2007, provided: "That the Secretary is authorized to issue commitments for direct loans to public agencies in accordance with section 627 of the Public Health Service Act \[42 U.S.C. 291j–7\] which shall constitute contractual obligations of the United States, the total of such outstanding commitments not to exceed $30,000,000 at anygiven time; to sell obligations received pursuant to such commitments as provided in section 627, and the proceeds of any such sale shall be used to make a direct loan pursuant to the outstanding commitment under which the obligations were received."
 

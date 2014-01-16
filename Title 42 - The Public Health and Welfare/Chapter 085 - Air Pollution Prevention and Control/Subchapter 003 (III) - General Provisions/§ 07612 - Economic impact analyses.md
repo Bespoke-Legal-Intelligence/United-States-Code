@@ -18,7 +18,7 @@ The Administrator, in consultation with the Secretary of Commerce, the Secretary
 
 #### (b) Benefits
 
-In describing the benefits of a standard described in subsection (a) of this section, the Administrator shall consider all of the economic, public health, and environmental benefits of efforts to comply with such standard. In any casewhere numerical values are assigned to such benefits, a default assumption of zero value shall not be assigned to such benefits unless supported by specific data. The Administrator shall assess how benefits are measured in order to assure that damage to human health and the environment is more accurately measured and taken into account.
+In describing the benefits of a standard described in subsection (a) of this section, the Administrator shall consider all of the economic, public health, and environmental benefits of efforts to comply with such standard. In any case where numerical values are assigned to such benefits, a default assumption of zero value shall not be assigned to such benefits unless supported by specific data. The Administrator shall assess how benefits are measured in order to assure that damage to human health and the environment is more accurately measured and taken into account.
 
 #### (c) Costs
 
@@ -36,7 +36,7 @@ Not later than 12 months after November 15, 1990, the Administrator, in consulta
 
 #### (f) Appointment of Advisory Council on Clean Air Compliance Analysis
 
-Not later than 6 months after November 15, 1990, the Administrator, in consultation with the Secretary of Commerce and the Secretary of Labor, shall appoint an Advisory Council on Clean Air Compliance Analysis of not less than nine members (hereafter in this section referred to as the “Council”). In appointing such members, the Administrator shall appoint recognized experts in the fields of the health and environmental effects of air pollution, economic analysis, environmental sciences, and such other fields that the Administrator determines to be appropriate.
+Not later than 6 months after November 15, 1990, the Administrator, in consultation with the Secretary of Commerce and the Secretary of Labor, shall appoint an Advisory Council on Clean Air Compliance Analysis of not less than nine members (hereafter in this section referred to as the "Council"). In appointing such members, the Administrator shall appoint recognized experts in the fields of the health and environmental effects of air pollution, economic analysis, environmental sciences, and such other fields that the Administrator determines to be appropriate.
 
 #### (g) Duties of Advisory Council
 
@@ -62,7 +62,7 @@ Section was formerly classified to section 1857j–1 of this title.
 
 <b>1977</b>—Subsec. (c). Pub. L. 95–95 added subsec. (c).
 
-<b>1970</b>—Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” wherever appearing.
+<b>1970</b>—Pub. L. 91–604, §15(c)(2), substituted "Administrator" for "Secretary" wherever appearing.
 
 #### Effective Date of 1977 Amendment
 
@@ -76,49 +76,49 @@ Advisory councils established after Jan. 5, 1973, to terminate not later than th
 
 Pub. L. 101–549, title VIII, §811, Nov. 15, 1990, 104 Stat. 2690, provided that:
 
-“(a)
+"(a)
 
 Findings.—The Congress finds that—
 
-&emsp;“(1) all nations have the responsibility to adopt and enforce effective air quality standards and requirements and the United States, in enacting this Act \[see Tables for classification\], is carrying out its responsibility in this regard;
+&emsp;"(1) all nations have the responsibility to adopt and enforce effective air quality standards and requirements and the United States, in enacting this Act \[see Tables for classification\], is carrying out its responsibility in this regard;
 
-&emsp;“(2) as a result of complying with this Act, businesses in the United States will make significant capital investments and incur incremental costs in implementing control technology standards;
+&emsp;"(2) as a result of complying with this Act, businesses in the United States will make significant capital investments and incur incremental costs in implementing control technology standards;
 
-&emsp;“(3) such compliance may impair the competitiveness of certain United States jobs, production, processes, and products if foreign goods are produced under less costly environmental standards and requirements than are United States goods; and
+&emsp;"(3) such compliance may impair the competitiveness of certain United States jobs, production, processes, and products if foreign goods are produced under less costly environmental standards and requirements than are United States goods; and
 
-&emsp;“(4) mechanisms should be sought through which the United States and its trading partners can agree to eliminate or reduce competitive disadvantages.
+&emsp;"(4) mechanisms should be sought through which the United States and its trading partners can agree to eliminate or reduce competitive disadvantages.
 
-“(b)
+"(b)
 
 Action by the President.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Within 18 months after the date of the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the President shall submit to the Congress a report—
 
-&emsp;&emsp;“(A) identifying and evaluating the economic effects of—
+&emsp;&emsp;"(A) identifying and evaluating the economic effects of—
 
-&emsp;&emsp;&emsp;“(i) the significant air quality standards and controls required under this Act, and
+&emsp;&emsp;&emsp;"(i) the significant air quality standards and controls required under this Act, and
 
-&emsp;&emsp;&emsp;“(ii) the differences between the significant standards and controls required under this Act and similar standards and controls adopted and enforced by the major trading partners of the United States,
+&emsp;&emsp;&emsp;"(ii) the differences between the significant standards and controls required under this Act and similar standards and controls adopted and enforced by the major trading partners of the United States,
 
 &nbsp;&nbsp;on the international competitiveness of United States manufacturers; and
 
-&emsp;&emsp;“(B) containing a strategy for addressing such economic effects through trade consultations and negotiations.
+&emsp;&emsp;"(B) containing a strategy for addressing such economic effects through trade consultations and negotiations.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Additional reporting requirements.—(A) The evaluation required under paragraph (1)(A) shall examine the extent to which the significant air quality standards and controls required under this Act are comparable to existing internationally-agreed norms.
 
-&emsp;“(B) The strategy required to be developed under paragraph (1)(B) shall include recommended options (such as the harmonization of standards and trade adjustment measures) for reducing or eliminating competitive disadvantages caused by differences in standards and controls between the United States and each of its major trading partners.
+&emsp;"(B) The strategy required to be developed under paragraph (1)(B) shall include recommended options (such as the harmonization of standards and trade adjustment measures) for reducing or eliminating competitive disadvantages caused by differences in standards and controls between the United States and each of its major trading partners.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Public comment.—Interested parties shall be given an opportunity to submit comments regarding the evaluations and strategy required in the report under paragraph (1). The President shall take any such comment into account in preparing the report.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Interim report.—Within 9 months after the date of the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the President shall submit to the Congress an interim report on the progress being made in complying with paragraph (1).”
+Interim report.—Within 9 months after the date of the enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\], the President shall submit to the Congress an interim report on the progress being made in complying with paragraph (1)."
 
 #### GAO Reports on Costs and Benefits
 

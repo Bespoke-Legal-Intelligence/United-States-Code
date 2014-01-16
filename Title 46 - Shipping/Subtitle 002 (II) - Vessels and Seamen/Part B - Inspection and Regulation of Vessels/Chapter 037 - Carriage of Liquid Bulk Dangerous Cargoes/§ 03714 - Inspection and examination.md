@@ -52,5 +52,5 @@ Section 3714(c) requires each vessel subject to this chapter to have a person au
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a)(4). Pub. L. 99–307 substituted “charterer” for “charter”.
+<b>1986</b>—Subsec. (a)(4). Pub. L. 99–307 substituted "charterer" for "charter".
 

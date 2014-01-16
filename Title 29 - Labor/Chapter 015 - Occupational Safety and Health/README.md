@@ -24,7 +24,7 @@
 | [669a.](%C2%A7%2000669a%20-%20Expanded%20research%20on%20worker%20health%20and%20safety.md) | Expanded research on worker health and safety. |
 | [670\.](%C2%A7%2000670%20-%20Training%20and%20employee%20education.md) | Training and employee education. |
 | [671\.](%C2%A7%2000671%20-%20National%20Institute%20for%20Occupational%20Safety%20and%20Health.md) | National Institute for Occupational Safety and Health. |
-| [671a.](%C2%A7%2000671a%20-%20Workers%E2%80%99%20family%20protection.md) | Workers’ family protection. |
+| [671a.](%C2%A7%2000671a%20-%20Workers%27%20family%20protection.md) | Workers' family protection. |
 | [672\.](%C2%A7%2000672%20-%20Grants%20to%20States.md) | Grants to States. |
 | [673\.](%C2%A7%2000673%20-%20Statistics.md) | Statistics. |
 | [674\.](%C2%A7%2000674%20-%20Audit%20of%20grant%20recipient%3B%20maintenance%20of%20records%3B%20contents%20of%20records%3B%20access%20to%20books%2C%20etc.md) | Audit of grant recipient; maintenance of records; contents of records; access to books, etc. |
@@ -62,7 +62,7 @@
 - [&sect; 00669a - Expanded research on worker health and safety](%C2%A7%2000669a%20-%20Expanded%20research%20on%20worker%20health%20and%20safety.md)
 - [&sect; 00670 - Training and employee education](%C2%A7%2000670%20-%20Training%20and%20employee%20education.md)
 - [&sect; 00671 - National Institute for Occupational Safety and Health](%C2%A7%2000671%20-%20National%20Institute%20for%20Occupational%20Safety%20and%20Health.md)
-- [&sect; 00671a - Workers&#8217; family protection](%C2%A7%2000671a%20-%20Workers%E2%80%99%20family%20protection.md)
+- [&sect; 00671a - Workers' family protection](%C2%A7%2000671a%20-%20Workers%27%20family%20protection.md)
 - [&sect; 00672 - Grants to States](%C2%A7%2000672%20-%20Grants%20to%20States.md)
 - [&sect; 00673 - Statistics](%C2%A7%2000673%20-%20Statistics.md)
 - [&sect; 00674 - Audit of grant recipient; maintenance of records; contents of records; access to books, etc](%C2%A7%2000674%20-%20Audit%20of%20grant%20recipient%3B%20maintenance%20of%20records%3B%20contents%20of%20records%3B%20access%20to%20books%2C%20etc.md)

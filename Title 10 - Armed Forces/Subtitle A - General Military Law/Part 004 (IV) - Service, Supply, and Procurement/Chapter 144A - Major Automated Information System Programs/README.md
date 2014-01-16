@@ -11,7 +11,7 @@
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–417, \[div. A\], title VIII, §812(a)(3), Oct. 14, 2008, 122 Stat. 4525, added item 2445a and struck out former item 2445a “Major automated information system program defined”.
+<b>2008</b>—Pub. L. 110–417, \[div. A\], title VIII, §812(a)(3), Oct. 14, 2008, 122 Stat. 4525, added item 2445a and struck out former item 2445a "Major automated information system program defined".
 
 
 ---

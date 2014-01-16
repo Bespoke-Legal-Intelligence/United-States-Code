@@ -2,11 +2,11 @@
 
 #### (a) Definition of agricultural commodity
 
-In this section, the term “agricultural commodity” means an agricultural commodity, or a product of an agricultural commodity, that is produced in the United States.
+In this section, the term "agricultural commodity" means an agricultural commodity, or a product of an agricultural commodity, that is produced in the United States.
 
 #### (b) Program
 
-Subject to subsection (l) of this section, the Secretary may establish a program, to be known as “McGovern-Dole International Food for Education and Child Nutrition Program”, requiring the procurement of agricultural commodities and the provision of financial and technical assistance to carry out—
+Subject to subsection (l) of this section, the Secretary may establish a program, to be known as "McGovern-Dole International Food for Education and Child Nutrition Program", requiring the procurement of agricultural commodities and the provision of financial and technical assistance to carry out—
 
 &emsp;(1) preschool and school food for education programs in foreign countries to improve food security, reduce the incidence of hunger, and improve literacy and primary education, particularly with respect to girls; and
 
@@ -40,7 +40,7 @@ Notwithstanding any other provision of law—
 
 &emsp;&emsp;(vi) the charges for general average contributions arising out of the ocean transport of agricultural commodities transferred pursuant thereto;
 
-&emsp;&emsp;(B) all or any part of the internal transportation, storage, and handling costs incurred in moving the eligible commodity, if the Secretary determines that—
+&emsp;&emsp;(B) all or any part of the internal transportation, storage, and handling costs incurredin moving the eligible commodity, if the Secretary determines that—
 
 &emsp;&emsp;&emsp;(i) payment of the costs is appropriate; and
 
@@ -92,7 +92,7 @@ Assistance may be provided under this section to private voluntary organizations
 
 &emsp;&emsp;(A) identify and assess the needs of beneficiaries, especially malnourished or undernourished mothers and their children who are 5 years of age or younger, and school-age children who are malnourished, undernourished, or do not regularly attend school;
 
-&emsp;&emsp;(B)(i) in the case of preschool and school-age children, target low-income areas where children's enrollment and attendance in school is low or girls’ enrollment and participation in preschool or school is low, and incorporate developmental objectives for improving literacy and primary education, particularly with respect to girls; and
+&emsp;&emsp;(B)(i) in the case of preschool and school-age children, target low-income areas where children's enrollment and attendance in school is low or girls' enrollment and participation in preschool or school is low, and incorporate developmental objectives for improving literacy and primary education, particularly with respect to girls; and
 
 &emsp;&emsp;(ii) in the case of programs to benefit mothers and children who are 5 years of age or younger, coordinate supplementary feeding and nutrition programs with existing or newly-established maternal, infant, and children programs that provide health-needs interventions, including maternal, prenatal, and postnatal and newborn care;
 
@@ -112,7 +112,7 @@ The Food and Nutrition Service of the Department of Agriculture may provide tech
 
 #### (2) Reports
 
-&emsp;The Secretary shall annually submit to the Committee on International Relations and the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the commitments and activities of governments, including the United States government, in the global effort to reduce child hunger and increase school attendance.
+&emsp;The Secretary shall annually submit to the Committee on International Relations and the Committee on Agriculture of the House ofRepresentatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the commitments and activities of governments, including the United States government, in the global effort to reduce child hunger and increase school attendance.
 
 #### (i) Private sector involvement
 
@@ -156,25 +156,25 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (b), (c)(2)(B). Pub. L. 110–246, §3106(1), substituted “Secretary” for “President” in introductory provisions.
+<b>2008</b>—Subsecs. (b), (c)(2)(B). Pub. L. 110–246, §3106(1), substituted "Secretary" for "President" in introductory provisions.
 
-Subsec. (d). Pub. L. 110–246, §3106(2), substituted “The Secretary shall” for “The President shall designate 1 or more Federal agencies” in introductory provisions.
+Subsec. (d). Pub. L. 110–246, §3106(2), substituted "The Secretary shall" for "The President shall designate 1 or more Federal agencies" in introductory provisions.
 
-Subsec. (f)(1). Pub. L. 110–246, §3106(1), substituted “Secretary” for “President” in introductory provisions.
+Subsec. (f)(1). Pub. L. 110–246, §3106(1), substituted "Secretary" for "President" in introductory provisions.
 
-Subsec. (f)(2). Pub. L. 110–246, §3106(3), substituted “Secretary” for “implementing agency” in introductory provisions.
+Subsec. (f)(2). Pub. L. 110–246, §3106(3), substituted "Secretary" for "implementing agency" in introductory provisions.
 
-Subsecs. (h), (i). Pub. L. 110–246, §3106(1), substituted “Secretary” for “President” wherever appearing.
+Subsecs. (h), (i). Pub. L. 110–246, §3106(1), substituted "Secretary" for "President" wherever appearing.
 
 Subsec. (k). Pub. L. 110–246, §3001(b)(1)(A), (2)(G), made technical amendment to reference in original act which appears in text as reference to section 1733(a) of this title.
 
-Subsec. (l)(1). Pub. L. 110–246, §3106(4)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Of the funds of the Commodity Credit Corporation, the Secretary shall use $100,000,000 for fiscal year 2003 to carry out this section.”
+Subsec. (l)(1). Pub. L. 110–246, §3106(4)(A), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "Of the funds of the Commodity Credit Corporation, the Secretary shall use $100,000,000 for fiscal year 2003 to carry out this section."
 
-Pub. L. 110–246, §3106(1), substituted “Secretary” for “President”.
+Pub. L. 110–246, §3106(1), substituted "Secretary" for "President".
 
-Subsec. (l)(2). Pub. L. 110–246, §3106(4)(B), substituted “2008 through 2012” for “2004 through 2007”.
+Subsec. (l)(2). Pub. L. 110–246, §3106(4)(B), substituted "2008 through 2012" for "2004 through 2007".
 
-Subsec. (l)(3). Pub. L. 110–246, §3106(4)(C), substituted “the Department of Agriculture or any other Federal agency assisting” for “any Federal agency implementing or assisting”.
+Subsec. (l)(3). Pub. L. 110–246, §3106(4)(C), substituted "the Department of Agriculture or any other Federal agency assisting" for "any Federal agency implementing or assisting".
 
 #### Change of Name
 
@@ -198,5 +198,5 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. The word “to” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "to" probably should not appear.</i>
 

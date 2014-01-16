@@ -112,15 +112,15 @@ Jan. 3, 1975, Pub. L. 93–633, §303(b)(1), 88 Stat. 2167; Oct. 14, 1982, Pub. 
 
 49 App.:1902(c)(2).
 
-In subsection (a), the words “previously established within the Department of Transportation” are omitted as unnecessary. The words “in accordance with this section, on and after April 1, 1975” are omitted as executed.
+In subsection (a), the words "previously established within the Department of Transportation" are omitted as unnecessary. The words "in accordance with this section, on and after April 1, 1975" are omitted as executed.
 
-In subsection (c), the words “except as otherwise provided in this paragraph” are omitted as surplus. The text of 49 App.:1902(b)(2) (4th sentence) is omitted as executed.
+In subsection (c), the words "except as otherwise provided in this paragraph" are omitted as surplus. The text of 49 App.:1902(b)(2) (4th sentence) is omitted as executed.
 
-In subsection (d), the words “On or before January 1, 1976” are omitted as executed. The words “(and thereafter as required)” and “(hereafter in this chapter referred to as the ‘Chairman’)” are omitted as unnecessary.
+In subsection (d), the words "On or before January 1, 1976" are omitted as executed. The words "(and thereafter as required)" and "(hereafter in this chapter referred to as the 'Chairman')" are omitted as unnecessary.
 
-In subsection (e), before clause (1), the words “is the chief executive and administrative officer of the Board” are substituted for “shall be the chief executive officer of the Board and shall exercise the executive and administrative functions of the Board” for clarity. The words “Subject to the general policies and decisions of the Board, the Chairman shall” are substituted for 49 App.:1902(b)(3) (last sentence) to eliminate unnecessary words. In clause (1), the words “Subject to the civil service and classification laws” are omitted as unnecessary because of title 5, United States Code, especially sections 3301, 5101, and 5331. The words “the Board is authorized” are omitted for consistency because the authority to appoint officers and employees is vested in the Chairman subject to the “general policies and decisions of the Board” as provided in the source provisions. The words “including investigators, attorneys, and administrative law judges” are omitted as covered by “officers and employees”. The words “carry out this chapter” are substituted for “carry out its powers and duties under this chapter” to eliminate unnecessary words. In clause (3), the words “expenditures of the Board” are substituted for “the use and expenditure of funds” for clarity.
+In subsection (e), before clause (1), the words "is the chief executive and administrative officer of the Board" are substituted for "shall be the chief executive officer of the Board and shall exercise the executive and administrative functions of the Board" for clarity. The words "Subject to the general policies and decisions of the Board, the Chairman shall" are substituted for 49 App.:1902(b)(3) (last sentence) to eliminate unnecessary words. In clause (1), the words "Subject to the civil service and classification laws" are omitted as unnecessary because of title 5, United States Code, especially sections 3301, 5101, and 5331. The words "the Board is authorized" are omitted for consistency because the authority to appoint officers and employees is vested in the Chairman subject to the "general policies and decisions of the Board" as provided in the source provisions. The words "including investigators, attorneys, and administrative law judges" are omitted as covered by "officers and employees". The words "carry out this chapter" are substituted for "carry out its powers and duties under this chapter" to eliminate unnecessary words. In clause (3), the words "expenditures of the Board" are substituted for "the use and expenditure of funds" for clarity.
 
-In subsection (f), the words “duties and powers” are substituted for “function” for consistency in the revised title and with other titles of the Code.
+In subsection (f), the words "duties and powers" are substituted for "function" for consistency in the revised title and with other titles of the Code.
 
 In subsection (g), the text of 49 App.:1902(c)(1) is omitted as unnecessary because of 40:ch. 10.
 
@@ -130,7 +130,7 @@ GS–15, referred to in subsec. (i), is contained in the General Schedule, which
 
 #### Amendments
 
-<b>2006</b>—Subsec. (e)(1). Pub. L. 109–443, §9(d)(1), added par. (1) and struck out former par. (1) which read as follows: “appoint, supervise, and fix the pay of officers and employees necessary to carry out this chapter;”.
+<b>2006</b>—Subsec. (e)(1). Pub. L. 109–443, §9(d)(1), added par. (1) and struck out former par. (1) which read as follows: "appoint, supervise, and fix the pay of officers and employees necessary to carry out this chapter;".
 
 Subsec. (e)(2) to (4). Pub. L. 109–443, §9(d)(2), (3), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
@@ -144,43 +144,43 @@ Subsecs. (i), (j). Pub. L. 109–443, §9(d)(4), (5), added subsec. (i) and rede
 
 Pub. L. 109–443, §2(a)(2), Dec. 21, 2006, 120 Stat. 3297, provided that:
 
-“(A)
+"(A)
 
 Plan.—Within 90 days after the date of enactment of this Act \[Dec. 21, 2006\], the National Transportation Safety Board shall—
 
-&emsp;“(i) develop a plan to achieve, to the maximum extent feasible, the self-sufficient operation of the National Transportation Safety Board Academy and utilize the Academy's facilities and resources;
+&emsp;"(i) develop a plan to achieve, to the maximum extent feasible, the self-sufficient operation of the National Transportation Safety Board Academy and utilize the Academy's facilities and resources;
 
-&emsp;“(ii) submit a draft of the plan to the Comptroller General for review and comment; and
+&emsp;"(ii) submit a draft of the plan to the Comptroller General for review and comment; and
 
-&emsp;“(iii) submit a draft of the plan to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
+&emsp;"(iii) submit a draft of the plan to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-“(B)
+"(B)
 
 Plan development considerations.—The Board shall—
 
-&emsp;“(i) give consideration in developing the plan under subparagraph (A)(i) to other revenue-generating measures, including subleasing the facility to another entity; and
+&emsp;"(i) give consideration in developing the plan under subparagraph (A)(i) to other revenue-generating measures, including subleasing the facility to another entity; and
 
-&emsp;“(ii) include in the plan a detailed financial statement that covers current Academy expenses and revenues and an analysis of the projected impact of the plan on the Academy's expenses and revenues.
+&emsp;"(ii) include in the plan a detailed financial statement that covers current Academy expenses and revenues and an analysis of the projected impact of the plan on the Academy's expenses and revenues.
 
-“(C)
+"(C)
 
 Report.—Within 180 days after the date of enactment of this Act \[Dec. 21, 2006\], the National Transportation Safety Board shall submit a report to the Committee on Commerce, Science, and Transportation ofthe Senate and the Committee on Transportation and Infrastructure of the House of Representatives that includes—
 
-&emsp;“(i) an updated copy of the plan developed pursuant to subparagraph (A)(i);
+&emsp;"(i) an updated copy of the plan developed pursuant to subparagraph (A)(i);
 
-&emsp;“(ii) any comments and recommendations made by the Comptroller General pursuant to the Government Accountability Office's review of the draft plan; and
+&emsp;"(ii) any comments and recommendations made by the Comptroller General pursuant to the Government Accountability Office's review of the draft plan; and
 
-&emsp;“(iii) a response to the Comptroller General's comments and recommendations, including a description of any modifications made to the plan in response to those comments and recommendations.
+&emsp;"(iii) a response to the Comptroller General's comments and recommendations, including a description of any modifications made to the plan in response to those comments and recommendations.
 
-“(D)
+"(D)
 
-Implementation.—The plan developed pursuant to subparagraph (A)(i) shall be implemented within 2 years after the date of enactment of this Act \[Dec. 21, 2006\].”
+Implementation.—The plan developed pursuant to subparagraph (A)(i) shall be implemented within 2 years after the date of enactment of this Act \[Dec. 21, 2006\]."
 
 #### Audit Procedures
 
-Pub. L. 109–443, §6, Dec. 21, 2006, 120 Stat. 3300, provided that: “The National Transportation Safety Board, in consultation with the Inspector General of the Department of Transportation, shall continue to develop and implement comprehensive internal audit controls for its operations. The audit controls shall address, at a minimum, Board asset management systems, including systems for accounting management, debt collection, travel, and property and inventory management and control.”
+Pub. L. 109–443, §6, Dec. 21, 2006, 120 Stat. 3300, provided that: "The National Transportation Safety Board, in consultation with the Inspector General of the Department of Transportation, shall continue to develop and implement comprehensive internal audit controls for its operations. The audit controls shall address, at a minimum, Board asset management systems, including systems for accounting management, debt collection, travel, and property and inventory management and control."
 
 #### Improved Audit Procedures
 
-Pub. L. 106–424, §11, Nov. 1, 2000, 114 Stat. 1887, provided that: “The National Transportation Safety Board, in consultation with the Inspector General of the Department of Transportation, shall develop and implement comprehensive internal audit controls for its financial programs based on the findings and recommendations of the private sector audit firm contract entered into by the Board in March, 2000. The improved internal audit controls shall, at a minimum, address Board asset management systems, including systems for accounting management, debt collection, travel, and property and inventory management and control.”
+Pub. L. 106–424, §11, Nov. 1, 2000, 114 Stat. 1887, provided that: "The National Transportation Safety Board, in consultation with the Inspector General of the Department of Transportation, shall develop and implement comprehensive internal audit controls for its financial programs based on the findings and recommendations of the private sector audit firm contract entered into by the Board in March, 2000. The improved internal audit controls shall, at a minimum, address Board asset management systems, including systems for accounting management, debt collection, travel, and property and inventory management and control."
 

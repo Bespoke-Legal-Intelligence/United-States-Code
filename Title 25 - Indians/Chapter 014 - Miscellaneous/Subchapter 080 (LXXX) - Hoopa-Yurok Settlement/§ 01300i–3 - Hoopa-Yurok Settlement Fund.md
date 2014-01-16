@@ -26,5 +26,5 @@ There is hereby authorized to be appropriated the sum of $10,000,000 which shall
 
 (Pub. L. 100–580, §4, Oct. 31, 1988, 102 Stat. 2927.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

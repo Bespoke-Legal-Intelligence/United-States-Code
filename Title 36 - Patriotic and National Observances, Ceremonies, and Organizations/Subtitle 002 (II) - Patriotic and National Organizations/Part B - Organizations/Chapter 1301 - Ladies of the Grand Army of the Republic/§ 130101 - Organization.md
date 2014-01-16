@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Ladies of the Grand Army of the Republic (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—Ladies of the Grand Army of the Republic (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

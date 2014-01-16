@@ -4,7 +4,7 @@
 
 (1) The employing agency shall deduct and withhold from the basic pay of each participant the applicable percentage of basic pay specified in paragraph (2) of this subsection minus the percentage then in effect under section 3101(a) of title 26 (relating to the rate of tax for old age, survivors, and disability insurance).
 
-(2)(A) The applicable percentage for a participant other than a revised annuity participant shall be as follows:
+(2)(A) The applicable percentage for a participant other than a revised annuity participant or a further revised annuity participant shall be as follows:
 
 &nbsp;
 
@@ -23,6 +23,14 @@
 | --- | --- | --- |
 | &nbsp; | 9\.85 | After December 31, 2012 |
 
+(C) The applicable percentage for a further revised annuity participant shall be as follows:
+
+&nbsp;
+
+| &nbsp; | &nbsp; | &nbsp; |
+| --- | --- | --- |
+| &nbsp; | 11\.15 | After December 31, 2013. |
+
 #### (b) Consent to deductions; discharge of claims
 
 Each participant is deemed to consent and agree to the deductions under subsection (a) of this section. Notwithstanding any law or regulation affecting the pay of a participant, payment less such deductions is a full and complete discharge and acquittance of all claims and demands for regular services during the period covered by the payment, except the right to any benefits under this part based on the service of the participant.
@@ -35,23 +43,27 @@ Amounts deducted and withheld under this section shall be deposited in the Treas
 
 Under such regulations as the Secretary of State may issue, amounts deducted under subsection (a) of this section shall be entered on individual retirement records.
 
-(Pub. L. 96–465, title I, §856, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 618; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–33, title VII, §7001(e)(1)(A), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, §101(a) \[title V, §505(e)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III, §322(b)(2), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, §5002(b), Feb. 22, 2012, 126 Stat. 200.)
+(Pub. L. 96–465, title I, §856, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 618; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–33, title VII, §7001(e)(1)(A), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, §101(a) \[title V, §505(e)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III, §322(b)(2), Sept. 30, 2002, 116 Stat. 1384; Pub. L. 112–96, title V, §5002(b), Feb. 22, 2012, 126 Stat. 200; Pub. L. 113–67, div. A, title IV, §402(b), Dec. 26, 2013, 127 Stat. 1185.)
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(2). Pub. L. 112–96 designated existing provisions as subpar. (A), substituted “The applicable percentage for a participant other than a revised annuity participant” for “The applicable percentage under this subsection”, and added subpar. (B).
+<b>2013</b>—Subsec. (a)(2)(A). Pub. L. 113–67, §402(b)(1), inserted "or a further revised annuity participant" after "revised annuity participant".
+
+Subsec. (a)(2)(C). Pub. L. 113–67, §402(b)(2), added subpar. (C).
+
+<b>2012</b>—Subsec. (a)(2). Pub. L. 112–96 designated existing provisions as subpar. (A), substituted "The applicable percentage for a participant other than a revised annuity participant" for "The applicable percentage under this subsection", and added subpar. (B).
 
 <b>2002</b>—Subsec. (a)(2). Pub. L. 107–228, in table, substituted item relating to applicable percentage after January 11, 2003, for item relating to applicable percentage after December 31, 2000.
 
 <b>2000</b>—Subsec. (a)(2). Pub. L. 106–346, in table, substituted item relating to applicable percentage after December 31, 2000, for items relating to applicable percentages from January 1, 2001, to December 31, 2002; and after December 31, 2002.
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–33 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The employing agency shall deduct and withhold from basic pay of each participant a percentage of basic pay equal to 7½ percent minus the percentage then in effect under section 3101(a) of title 26 (relating to the rate of tax for old age, survivors and disability insurance).”
+<b>1997</b>—Subsec. (a). Pub. L. 105–33 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The employing agency shall deduct and withhold from basic pay of each participant a percentage of basic pay equal to 7½ percent minus the percentage then in effect under section 3101(a) of title 26 (relating to the rate of tax for old age, survivors and disability insurance)."
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–228 effective with the first pay period beginning on or after the date that is 90 days after Sept. 30, 2002, see section 322(c)(2) of Pub. L. 107–228, set out as a note under section 4045 of this title.
+Amendment by Pub. L. 107–228 effective with the first pay period beginning on or after the date that is 90 daysafter Sept. 30, 2002, see section 322(c)(2) of Pub. L. 107–228, set out as a note under section 4045 of this title.
 
 #### Effective Date of 2000 Amendment
 

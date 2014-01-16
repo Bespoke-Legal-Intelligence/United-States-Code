@@ -36,7 +36,7 @@ No interest shall be allowed on any overpayment attributable to this section.
 
 #### Prior Provisions
 
-A prior section 6429, added Pub. L. 96–499, title XI, §1131(a)(1), Dec. 5, 1980, 94 Stat. 2691; amended Pub. L. 97–34, title VI, §601(a)(1)–(5), Aug. 13, 1981, 95 Stat. 335, 336; Pub. L. 97–448, title I, §106(a)(1), (3), Jan. 12, 1983, 96Stat. 2387, 2388, related to credit and refund of chapter 45 windfall profit taxes on domestic crude oil paid by royalty owners, prior to repeal by Pub. L. 100–418, title I, §1941(b)(1), (c), Aug. 23, 1988, 102 Stat. 1323, 1324, applicable to crude oil removed from the premises on or after Aug. 23, 1988.
+A prior section 6429, added Pub. L. 96–499, title XI, §1131(a)(1), Dec. 5, 1980, 94 Stat. 2691; amended Pub. L. 97–34, title VI, §601(a)(1)–(5), Aug. 13, 1981, 95 Stat. 335, 336; Pub. L. 97–448, title I, §106(a)(1), (3), Jan. 12, 1983, 96 Stat. 2387, 2388, related to credit and refund of chapter 45 windfall profit taxes on domestic crude oil paid by royalty owners, prior to repeal by Pub. L. 100–418, title I, §1941(b)(1), (c), Aug. 23, 1988, 102 Stat. 1323, 1324, applicable to crude oil removed from the premises on or after Aug. 23, 1988.
 
 #### Termination Date
 

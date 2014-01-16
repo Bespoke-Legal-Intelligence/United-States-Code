@@ -2,7 +2,7 @@
 
 (a) The Administrator is authorized to make grants to States and units of local government or combinations thereof to assist them in planning, establishing, operating, coordinating, and evaluating projects directly or through grants and contracts with public and private agencies for the development of more effective education, training, research, prevention, diversion, treatment, and rehabilitation programs in the area of juvenile delinquency and programs to improve the juvenile justice system.
 
-(b)(1) With not to exceed 2 percent of the funds available in a fiscal year to carry out this part, the Administrator shall make grants to and enter into contracts with public and private agencies, organizations, and individuals to provide technical assistance to States, units of general local governments <sup>1</sup> (and combinations thereof), and local private agencies to facilitate compliance with section 5633 of this title and implementation of the State plan approved under section 5633(c) of this title.
+(b)(1) With not to exceed 2 percent of the funds available in a fiscal year to carry out this part, the Administrator shall make grants to and enter into contracts with public and private agencies, organizations, and individuals to provide technical assistance to States, units of general local governments <sup>1</sup> (and combinations thereof), and local private agencies to facilitate compliance with section 5633 of this title andimplementation of the State plan approved under section 5633(c) of this title.
 
 (2) Grants and contracts may be made under paragraph (1) only to public and private agencies, organizations, and individuals that have experience in providing such technical assistance.
 
@@ -10,19 +10,19 @@
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(2). Pub. L. 107–273 struck out at end “In providing such technical assistance, the recipient of a grant or contract under this subsection shall coordinate its activities with the State agency described in section 5671(c)(1) of this title.”
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–273 struck out at end "In providing such technical assistance, the recipient of a grant or contract under this subsection shall coordinate its activities with the State agency described in section 5671(c)(1) of this title."
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277 substituted “units of local government” for “units of general local government”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 substituted "units of local government" for "units of general local government".
 
-<b>1992</b>—Subsec. (b)(2). Pub. L. 102–586, §2(f)(1)(A), which directed the substitution of “experience” for “existence”, could not be executed because “existence” did not appear in text.
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–586, §2(f)(1)(A), which directed the substitution of "experience" for "existence", could not be executed because "existence" did not appear in text.
 
 Pub. L. 102–586, §2(f)(1)(B), made technical amendment to reference to section 5671 of this title to reflect renumbering of corresponding section of original act.
 
-<b>1988</b>—Pub. L. 100–690 inserted “and contracts” after “grants” in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
+<b>1988</b>—Pub. L. 100–690 inserted "and contracts" after "grants" in section catchline, designated existing provisions as subsec. (a), and added subsec. (b).
 
 <b>1984</b>—Pub. L. 98–473 amended section catchline.
 
-<b>1977</b>—Pub. L. 95–115 inserted “grants and” before “contracts” and substituted “units of general local government or combinations thereof” for “local governments”.
+<b>1977</b>—Pub. L. 95–115 inserted "grants and" before "contracts" and substituted "units of general local government or combinations thereof" for "local governments".
 
 #### Effective Date of 2002 Amendment
 
@@ -36,5 +36,5 @@ Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pu
 
 Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub. L. 93–415, as added by Pub. L. 95–115, set out as a note under section 5601 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “units of local governments”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "units of local governments".</i>
 

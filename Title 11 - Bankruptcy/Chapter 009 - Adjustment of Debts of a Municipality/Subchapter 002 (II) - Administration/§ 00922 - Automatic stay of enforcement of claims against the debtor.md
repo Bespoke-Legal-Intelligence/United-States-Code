@@ -24,7 +24,7 @@ The automatic stay provided under section 362 of title 11 is incomplete for a mu
 
 <b>1988</b>—Subsecs. (c), (d). Pub. L. 100–597 added subsecs. (c) and (d).
 
-<b>1984</b>—Subsec. (a)(1). Pub. L. 98–353 substituted “a judicial” for “judicial”, and “action or proceeding” for “proceeding”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–353 substituted "a judicial" for "judicial", and "action or proceeding" for "proceeding".
 
 #### Effective Date of 1988 Amendment
 

@@ -96,15 +96,15 @@ If a corporation redeems its stock (within the meaning of section 317(b)), and i
 
 &emsp;&emsp;&emsp;&emsp;(II) each related person agrees to be jointly and severally liable for any deficiency (including interest and additions to tax) resulting from an acquisition described in clause (ii) of subparagraph (A).
 
-&emsp;&emsp;&nbsp;In any case to which the preceding sentence applies, the second sentence of subparagraph (A) and subparagraph (B)(ii) shall be applied by substituting “distributee or any related person” for “distributee” each place it appears.
+&emsp;&emsp;&nbsp;In any case to which the preceding sentence applies, the second sentence of subparagraph (A) and subparagraph (B)(ii) shall be applied by substituting "distributee or any related person" for "distributee" each place it appears.
 
 #### (ii) Definitions
 
 &emsp;&emsp;&emsp;For purposes of this subparagraph—
 
-&emsp;&emsp;&emsp;&emsp;(I) the term “entity” means a partnership, estate, trust, or corporation; and
+&emsp;&emsp;&emsp;&emsp;(I) the term "entity" means a partnership, estate, trust, or corporation; and
 
-&emsp;&emsp;&emsp;&emsp;(II) the term “related person” means any person to whom ownership of stock in the corporation is (at the time of the distribution) attributable under section 318(a)(1) if such stock is further attributable to the entity under section 318(a)(3).
+&emsp;&emsp;&emsp;&emsp;(II) the term "related person" means any person to whom ownership of stock in the corporation is (at the time of the distribution) attributable under section 318(a)(1) if such stock is further attributable to the entity under section 318(a)(3).
 
 #### (d) Redemptions treated as distributions of property
 
@@ -130,7 +130,7 @@ Except as otherwise provided in this subchapter, if a corporation redeems its st
 
 #### (3) Qualified trade or business
 
-&emsp;For purposes of paragraph (2), the term “qualified trade or business” means any trade or business which—
+&emsp;For purposes of paragraph (2), the term "qualified trade or business" means any trade or business which—
 
 &emsp;&emsp;(A) was actively conducted throughout the 5-year period ending on the date of the redemption, and
 
@@ -158,15 +158,15 @@ Except as otherwise provided in this subchapter, if a corporation redeems its st
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–325, §306(a)(2), substituted “(4), or (5)” for “or (4)”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–325, §306(a)(2), substituted "(4), or (5)" for "or (4)".
 
 Subsec. (b)(5), (6). Pub. L. 111–325, §306(a)(1), added par. (5) and redesignated former par. (5) as (6).
 
-<b>1984</b>—Subsec. (f)(3). Pub. L. 98–369 substituted “complete liquidation” for “partial or complete liquidation”.
+<b>1984</b>—Subsec. (f)(3). Pub. L. 98–369 substituted "complete liquidation" for "partial or complete liquidation".
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–248, §222(c)(3), substituted “paragraph (1), (2), (3), or (4)” for “paragraph (1), (2), or (3)”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–248, §222(c)(3), substituted "paragraph (1), (2), (3), or (4)" for "paragraph (1), (2), or (3)".
 
-Subsec. (b)(4), (5). Pub. L. 97–248, §222(c)(1), (4), added par. (4), redesignated former par. (4) as (5) and substituted “paragraph (2), (3), or (4)” for “paragraph (2) or (3)” after “to meet the requirements of”, and “paragraph (1), (2), or (4)” for “paragraph (1) or (2)” after “and also the requirements of”.
+Subsec. (b)(4), (5). Pub. L. 97–248, §222(c)(1), (4), added par. (4), redesignated former par. (4) as (5) and substituted "paragraph (2), (3), or (4)" for "paragraph (2) or (3)" after "to meet the requirements of", and "paragraph (1), (2), or (4)" for "paragraph (1) or (2)" after "and also the requirements of".
 
 Subsec. (c)(2)(C). Pub. L. 97–248, §228(a), added subpar. (C).
 
@@ -176,7 +176,7 @@ Subsecs. (e), (f). Pub. L. 97–248, §222(c)(2), added subsec. (e) and redesign
 
 Subsec. (b)(4), (5). Pub. L. 96–589, §5(b)(1), (2)(B), redesignated par. (5) as (4) and struck out reference to par. (4) in two places. Former par. (4) was struck out.
 
-<b>1976</b>—Subsec. (c)(2). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (c)(2). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date of 2010 Amendment
 
@@ -188,89 +188,89 @@ Amendment by Pub. L. 98–369 effective as if included in the provision of the T
 
 #### Effective Date of 1982 Amendment; Partial Liquidations
 
-Pub. L. 97–248, title II, §228(b), Sept. 3, 1982, 96 Stat. 493, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to distributions after August 31, 1982, in taxable years ending after such date.”
+Pub. L. 97–248, title II, §228(b), Sept. 3, 1982, 96 Stat. 493, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to distributions after August 31, 1982, in taxable years ending after such date."
 
 Pub. L. 97–248, title II, §222(f), Sept. 3, 1982, 96 Stat. 481, as amended by Pub. L. 97–448, title III, §306(a)(6)(A), Jan. 12, 1983, 96 Stat. 2402; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section and sections 306, 312, 331, 334, 336, 341, 346, 543, and 562 of this title and repealing section 338 of this title\] shall apply to distributions after August 31, 1982.
 
-“(2)
+"(2)
 
 Exceptions.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Ruling requests.—The amendments made by this section shall not apply to distributions made by any corporation if—
 
-&emsp;&emsp;“(i)(I) on July 22, 1982, there was a ruling request by such corporation pending with the Internal Revenue Service as to whether such distributions would qualify as a partial liquidation, or
+&emsp;&emsp;"(i)(I) on July 22, 1982, there was a ruling request by such corporation pending with the Internal Revenue Service as to whether such distributions would qualify as a partial liquidation, or
 
-&emsp;&emsp;“(II) within the period beginning on July 12, 1981, and ending on July 22, 1982, the Internal Revenue Service granted a ruling to such corporation that the distributions would qualify as a partial liquidation, and
+&emsp;&emsp;"(II) within the period beginning on July 12, 1981, and ending on July 22, 1982, the Internal Revenue Service granted a ruling to such corporation that the distributions would qualify as a partial liquidation, and
 
-&emsp;&emsp;“(ii) such distributions are pursuant to a plan of partial liquidation adopted before October 1, 1982 (or, if later, 90 days after the date on which the Internal Revenue Service granted a ruling pursuant to the request described in clause (i)(I)).
+&emsp;&emsp;"(ii) such distributions are pursuant to a plan of partial liquidation adopted before October 1, 1982 (or, if later, 90 days after the date on which the Internal Revenue Service granted a ruling pursuant to the request described in clause (i)(I)).
 
-&emsp;“(B)
+&emsp;"(B)
 
 Plans adopted before july 23, 1982.—The amendments made by this section shall not apply to distributions made pursuant to a plan of partial liquidation adopted before July 23, 1982.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Control acquired after 1981 and before july 23, 1982.—The amendments made by this section shall not apply to distributions made pursuant to a plan of partial liquidation adopted before October 1, 1982, where control of the corporation making the distributions was acquired after December 31, 1981, and before July 23, 1982.
 
-&emsp;“(D)
+&emsp;"(D)
 
 Tender offer or binding contract outstanding on july 22, 1982.—
 
-&emsp;&emsp;“(i)
+&emsp;&emsp;"(i)
 
 In general.—The amendments made by this section shall not apply to distributions made by a corporation if—
 
-&emsp;&emsp;&emsp;“(I) such distributions are pursuant to a plan of liquidation adopted before October 1, 1982, and
+&emsp;&emsp;&emsp;"(I) such distributions are pursuant to a plan of liquidation adopted before October 1, 1982, and
 
-&emsp;&emsp;&emsp;“(II) control of such corporation was acquired after July 22, 1982, pursuant to a tender offer or binding contract outstanding on such date.
+&emsp;&emsp;&emsp;"(II) control of such corporation was acquired after July 22, 1982, pursuant to a tender offer or binding contract outstanding on such date.
 
-&emsp;&emsp;“(ii)
+&emsp;&emsp;"(ii)
 
-Extension of time for adopting plan where acquisition subject to federal regulatory approval.—If the acquisition described in clause (i)(II) is subject to approval by a Federal regulatory agency, clause (i) shall be applied by substituting for ‘October 1, 1982’ the date which is 90 days after the date on which approval by the Federal regulatory agency of such acquisition becomes final.
+Extension of time for adopting plan where acquisition subject to federal regulatory approval.—If the acquisition described in clause (i)(II) is subject to approval by a Federal regulatory agency, clause (i) shall be applied by substituting for 'October 1, 1982' the date which is 90 days after the date on which approval by the Federal regulatory agency of such acquisition becomes final.
 
-&emsp;&emsp;“(iii)
+&emsp;&emsp;"(iii)
 
 Special rule where offer subject to approval by foreign regulatory body.—In any case where an offer to acquire stock in a corporationwas subject to intervention by a foreign regulatory body and a public announcement of such an offer resulted in the intervention by such foreign regulatory body before July 23, 1982—
 
-&emsp;&emsp;&emsp;“(I) such public announcement shall be treated as a tender offer, and
+&emsp;&emsp;&emsp;"(I) such public announcement shall be treated as a tender offer, and
 
-&emsp;&emsp;&emsp;“(II) clause (i) shall be applied by substituting for ‘October 1, 1982’ the date which is 90 days after the date on which such regulatory body approves a public offer to acquire stock in such corporation.
+&emsp;&emsp;&emsp;"(II) clause (i) shall be applied by substituting for 'October 1, 1982' the date which is 90 days after the date on which such regulatory body approves a public offer to acquire stock in such corporation.
 
-&emsp;&emsp;“(iv)
+&emsp;&emsp;"(iv)
 
 Special rule where one-third of shares acquired during march and april 1982.—If—
 
-&emsp;&emsp;&emsp;“(I) one-third or more of the shares of a corporation were acquired by another corporation during March and April 1982, and
+&emsp;&emsp;&emsp;"(I) one-third or more of the shares of a corporation were acquired by another corporation during March and April 1982, and
 
-&emsp;&emsp;&emsp;“(II) during March or April 1982, the acquiring corporation filed with the Federal Trade Commission notification of its intent to acquire control of the acquired corporation,
+&emsp;&emsp;&emsp;"(II) during March or April 1982, the acquiring corporation filed with the Federal Trade Commission notification of its intent to acquire control of the acquired corporation,
 
 &nbsp;&nbsp;subclause (II) of clause (i) shall not apply with respect to distributions made by the acquired corporation.
 
-&emsp;“(E)
+&emsp;"(E)
 
 Insurance companies.—The amendments made by this section shall not apply to distributions made by an insurance company pursuant to a plan of partial liquidation adopted before October 1, 1982, where control was acquired by the distributee or its parent after December 31, 1980, and before July 23, 1982, and the conduct of the insurance business by the distributee is conditioned on approval by a State regulatory authority.
 
-> For purposes of this paragraph, the term ‘control’ has the meaning given to such term by section 368(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], except that in applying such section both direct and indirect ownership of stock shall be taken into account.
+> For purposes of this paragraph, the term 'control' has the meaning given to such term by section 368(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], except that in applying such section both direct and indirect ownership of stock shall be taken into account.
 
-“(3)
+"(3)
 
 Approval of plan by board of directors.—For purposes of—
 
-&emsp;“(A) paragraph (2), and
+&emsp;"(A) paragraph (2), and
 
-&emsp;“(B) applying section 346(a)(2) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act) \[Sept. 3, 1982\] to distributions to which (but for paragraph (2)) the amendments made by this section would apply,
+&emsp;"(B) applying section 346(a)(2) of the Internal Revenue Code of 1986 (as in effect on the day before the date of the enactment of this Act) \[Sept. 3, 1982\] to distributions to which (but for paragraph (2)) the amendments made by this section would apply,
 
 > a plan of liquidation shall be treated as adopted when approved by the corporation's board of directors.
 
-“(4)
+"(4)
 
-Coordination with amendments made by section 224.—For purposes of section 338(e)(2)(C) of the Internal Revenue Code of 1986 (as added by section 224), any property acquired in a distribution to which the amendments made by this section do not apply by reason of paragraph (2) shall be treated as acquired before September 1, 1982.”
+Coordination with amendments made by section 224.—For purposes of section 338(e)(2)(C) of the Internal Revenue Code of 1986 (as added by section 224), any property acquired in a distribution to which the amendments made by this section do not apply by reason of paragraph (2) shall be treated as acquired before September 1, 1982."
 
 #### Effective Date of 1980 Amendment
 

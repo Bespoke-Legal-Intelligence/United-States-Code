@@ -32,7 +32,7 @@ The failure of a State to adopt or adhere to an administrative grievance procedu
 
 #### (e) Limitation on recovery
 
-No Federal civil action may be brought by a prisoner confined in a jail, prison, or other correctional facility, for mental or emotional injury suffered while in custody without a prior showing of physical injury.
+No Federal civil action may be brought by a prisoner confined in a jail, prison, or other correctional facility, for mental or emotional injury suffered while in custody without a prior showing of physical injury or the commission of a sexual act (as defined in section 2246 of title 18).
 
 #### (f) Hearings
 
@@ -42,39 +42,41 @@ No Federal civil action may be brought by a prisoner confined in a jail, prison,
 
 #### (g) Waiver of reply
 
-(1) Any defendant may waive the right to reply to any action brought by a prisoner confined in any jail, prison, or other correctional facility under section 1983 of this title or any other Federal law. Notwithstanding any other law or rule of procedure, such waiver shall not constitute an admission of the allegations contained in the complaint. No relief shall be granted to the plaintiff unless a reply has been filed.
+(1) Any defendant may waive the right to reply to any action brought by a prisoner confined inany jail, prison, or other correctional facility under section 1983 of this title or any other Federal law. Notwithstanding any other law or rule of procedure, such waiver shall not constitute an admission of the allegations contained in the complaint. No relief shall be granted to the plaintiff unless a reply has been filed.
 
 (2) The court may require any defendant to reply to a complaint brought under this section if it finds that the plaintiff has a reasonable opportunity to prevail on the merits.
 
-#### (h) “Prisoner” defined
+#### (h) "Prisoner" defined
 
-As used in this section, the term “prisoner” means any person incarcerated or detained in any facility who is accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law or the terms and conditions of parole, probation, pretrial release, or diversionary program.
+As used in this section, the term "prisoner" means any person incarcerated or detained in any facility who is accused of, convicted of, sentenced for, or adjudicated delinquent for, violations of criminal law or the terms and conditions of parole, probation, pretrial release, or diversionary program.
 
-(Pub. L. 96–247, §7, May 23, 1980, 94 Stat. 352; Pub. L. 103–322, title II, §20416(a), Sept. 13, 1994, 108 Stat. 1833; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §803(d)\], Apr. 26, 1996, 110 Stat. 1321, 1321–71; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
+(Pub. L. 96–247, §7, May 23, 1980, 94 Stat. 352; Pub. L. 103–322, title II, §20416(a), Sept. 13, 1994, 108 Stat. 1833; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §803(d)\], Apr. 26, 1996, 110 Stat. 1321, 1321–71; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 113–4, title XI, §1101(a), Mar. 7, 2013, 127 Stat. 134.)
 
 #### References in Text
 
-Section 1988 of this title, referred to in subsec. (d)(1), (4), was in the original a reference to section 2 of the Revised Statutes of the United States (42 U.S.C. 1988), and has been translated as reading section 722 of the Revised Statutes of the United States to reflect the probable intent of Congress. Section 2 of the Revised Statutes, which defined the term “county”, was repealed and reenacted as section 2 of Title 1, General Provisions, by act July 30, 1947, ch. 388, 61 Stat. 633, 640.
+Section 1988 of this title, referred to in subsec. (d)(1), (4), was in the original a reference to section 2 of the Revised Statutes of the United States (42 U.S.C. 1988), and has been translated as reading section 722 of the Revised Statutes of the United States to reflect the probable intent of Congress. Section 2 of the Revised Statutes, which defined the term "county", was repealed and reenacted as section 2 of Title 1, General Provisions, by act July 30, 1947, ch. 388, 61 Stat. 633, 640.
 
 #### Amendments
 
+<b>2013</b>—Subsec. (e). Pub. L. 113–4 inserted "or the commission of a sexual act (as defined in section 2246 of title 18)" before period at end.
+
 <b>1996</b>—Pub. L. 104–134 amended section generally, substituting provisions relating to suits by prisoners, consisting of subsecs. (a) to (h), for former provisions relating to exhaustion of remedies, consisting of subsecs. (a) to (d).
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322, §20416(a)(1), substituted “exceed 180 days” for “exceed ninety days” in par. (1) and inserted before period at end of par. (2) “or are otherwise fair and effective”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §20416(a)(1), substituted "exceed 180 days" for "exceed ninety days" in par. (1) and inserted before period at end of par. (2) "or are otherwise fair and effective".
 
-Subsec. (c). Pub. L. 103–322, §20416(a)(2), inserted “or are otherwise fair and effective” before period at end of par. (1) and “or is no longer fair and effective” before period at end of par. (2).
+Subsec. (c). Pub. L. 103–322, §20416(a)(2), inserted "or are otherwise fair and effective" before period at end of par. (1) and "or is no longer fair and effective" before period at end of par. (2).
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–322, title II, §20416(b), Sept. 13, 1994, 108 Stat. 1834, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[Sept. 13, 1994\].”
+Pub. L. 103–322, title II, §20416(b), Sept. 13, 1994, 108 Stat. 1834, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on the date of enactment of this Act \[Sept. 13, 1994\]."
 
 #### Nondisclosure of Information in Actions Brought by Prisoners
 
-Pub. L. 105–277, div. A, §101(b) \[title I, §127\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–74, provided that: “Notwithstanding any other provision of law, in any action brought by a prisoner under section 1979 of the Revised Statutes (42 U.S.C. 1983) against a Federal, State, or local jail, prison, or correctional facility, or any employee or former employee thereof, arising out of the incarceration of that prisoner—
+Pub. L. 105–277, div. A, §101(b) \[title I, §127\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–74, provided that: "Notwithstanding any other provision of law, in any action brought by a prisoner under section 1979 of the Revised Statutes (42 U.S.C. 1983) against a Federal, State, or local jail, prison, or correctional facility, or any employee or former employee thereof, arising out of the incarceration of that prisoner—
 
-&emsp;“(1) the financial records of a person employed or formerly employed by the Federal, State, or local jail, prison, or correctional facility, shall not be subject to disclosure without the written consent of that person or pursuant to a court order, unless a verdict of liability has been entered against that person; and
+&emsp;"(1) the financial records of a person employed or formerly employed by the Federal, State, or local jail, prison, or correctional facility, shall not be subject to disclosure without the written consent of that person or pursuant to a court order, unless a verdict of liability has been entered against that person; and
 
-&emsp;“(2) the home address, home phone number, social security number, identity of family members, personal tax returns, and personal banking information of a person described in paragraph (1), and any other records or information of a similar nature relating to that person, shall not be subject to disclosure without the written consent of that person, or pursuant to a court order.”
+&emsp;"(2) the home address, home phone number, social security number, identity of family members, personal tax returns, and personal banking information of a person described in paragraph (1), and any other records or information of a similar nature relating to that person, shall not be subject to disclosure without the written consent of that person, or pursuant to a court order."
 
 \[Pub. L. 105–277, div. A, §101(b) \[title I, §127\], set out above, applicable to fiscal year 2000 and thereafter, see Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §109\], set out as an Applicability of Provisions Relating to Use of Counterterrorism Appropriations and Nondisclosure of Information in Actions Brought by Prisoners note under section 524 of Title 28, Judiciary and Judicial Procedure.\]
 

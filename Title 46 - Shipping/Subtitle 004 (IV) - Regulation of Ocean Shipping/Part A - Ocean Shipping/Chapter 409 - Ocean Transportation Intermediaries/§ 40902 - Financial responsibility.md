@@ -48,5 +48,5 @@ Historical and Revision Notes
 
 Pub. L. 98–237, §19(b), Mar. 20, 1984; added Pub. L. 105–258, title I, §116(4), Oct. 14, 1998, 112 Stat. 1913.
 
-In subsection (b), in paragraphs (2) and (3), the words “described in section 1702(17) of this Appendix” are omitted as unnecessary.
+In subsection (b), in paragraphs (2) and (3), the words "described in section 1702(17) of this Appendix" are omitted as unnecessary.
 

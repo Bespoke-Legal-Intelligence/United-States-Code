@@ -16,5 +16,5 @@ A prior section 743 of Pub. L. 89–329 was classified to section 1132c–2 of t
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–315 struck out subsec. (a) designation and heading before “The Secretary may appoint,” and struck out subsec. (b). Prior to amendment, text of subsec. (b) read as follows: “The Director shall establish procedures for reviewing and evaluating grants and contracts made or entered into under this part. Procedures for reviewing grant applications or contracts for financial assistance under this section may not be subject to any review outside of officials responsible for the administration of the Fund for the Improvement of Postsecondary Education.”
+<b>2008</b>—Pub. L. 110–315 struck out subsec. (a) designation and heading before "The Secretary may appoint," and struck out subsec. (b). Prior to amendment, text of subsec. (b) read as follows: "The Director shall establish procedures for reviewing and evaluating grants andcontracts made or entered into under this part. Procedures for reviewing grant applications or contracts for financial assistance under this section may not be subject to any review outside of officials responsible for the administration of the Fund for the Improvement of Postsecondary Education."
 

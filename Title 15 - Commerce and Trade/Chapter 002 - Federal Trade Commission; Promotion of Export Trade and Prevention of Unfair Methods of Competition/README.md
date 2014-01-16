@@ -112,7 +112,7 @@
 
 |  |  |
 | :--- | ---: |
-| [71\.](Subchapter%20006%20%28VI%29%20-%20Prevention%20of%20Unfair%20Methods%20of%20Competition/%C2%A7%2000071%20-%20%E2%80%9CPerson%E2%80%9D%20defined.md) | “Person” defined. |
+| [71\.](Subchapter%20006%20%28VI%29%20-%20Prevention%20of%20Unfair%20Methods%20of%20Competition/%C2%A7%2000071%20-%20Person%20defined.md) | "Person" defined. |
 | [72\.](Subchapter%20006%20%28VI%29%20-%20Prevention%20of%20Unfair%20Methods%20of%20Competition/%C2%A7%2000072%20-%20Repealed.%20Pub.%20L.%20108%E2%80%93429%2C%20title%20II%2C%20%C2%A72006%28a%29%2C%20Dec.%203%2C%202004%2C%20118%20Stat.%202597.md) | Repealed. |
 | [73\.](Subchapter%20006%20%28VI%29%20-%20Prevention%20of%20Unfair%20Methods%20of%20Competition/%C2%A7%2000073%20-%20Agreements%20involving%20restrictions%20in%20favor%20of%20imported%20goods.md) | Agreements involving restrictions in favor of imported goods. |
 | [74\.](Subchapter%20006%20%28VI%29%20-%20Prevention%20of%20Unfair%20Methods%20of%20Competition/%C2%A7%2000074%20-%20Rules%20and%20regulations.md) | Rules and regulations. |

@@ -18,7 +18,7 @@ From the amounts reserved under section 9131(a)(1)(B) of this title for any fisc
 
 #### (1) In general
 
-&emsp;The Director may carry out the activities described in subsection (a) of this section byawarding grants to, or entering into contracts or cooperative agreements with, libraries, agencies, institutions of higher education, or museums, where appropriate.
+&emsp;The Director may carry out the activities described in subsection (a) of this section by awarding grants to, or entering into contracts or cooperative agreements with, libraries, agencies, institutions of higher education, or museums, where appropriate.
 
 #### (2) Competitive basis
 
@@ -34,25 +34,25 @@ The Director shall make every effort to ensure that activities assisted under th
 
 <b>2010</b>—Subsec. (a)(1), (2). Pub. L. 111–340, §206(1), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
-“(1) education, recruitment, and training of persons in library and information science, particularly in areas of new technology and other critical needs, including graduate fellowships, traineeships, institutes, or other programs;
+"(1) education, recruitment, and training of persons in library and information science, particularly in areas of new technology and other critical needs, including graduate fellowships, traineeships, institutes, or other programs;
 
-“(2) research and demonstration projects related to the improvement of libraries, education in library and information science, enhancement of library services through effective and efficient use of new technologies, and dissemination of information derived from such projects;”.
+"(2) research and demonstration projects related to the improvement of libraries, education in library and information science, enhancement of library services through effective and efficient use of new technologies, and dissemination of information derived from such projects;".
 
-Subsec. (a)(3). Pub. L. 111–340, §206(2), substituted “digitizing” for “digitization” and inserted “, including the development of national, regional, statewide, or local emergency plans that would ensure the preservation of knowledge and library collections in the event of a disaster” before “; and”.
+Subsec. (a)(3). Pub. L. 111–340, §206(2), substituted "digitizing" for "digitization" and inserted ", including the development of national, regional, statewide, or local emergency plans that would ensure the preservation of knowledge and library collections in the event of a disaster" before "; and".
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–81, §207, substituted “education, recruitment, and training” for “education and training”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–81, §207, substituted "education, recruitment, and training" for "education and training".
 
-Subsec. (b)(1). Pub. L. 108–81, §504(g), substituted “cooperative agreements with,” for “cooperative agreements, with,”.
+Subsec. (b)(1). Pub. L. 108–81, §504(g), substituted "cooperative agreements with," for "cooperative agreements, with,".
 
-<b>1997</b>—Pub. L. 105–128, §7(1), substituted section catchline for former catchline which read as follows: “National leadership grants or contracts”.
+<b>1997</b>—Pub. L. 105–128, §7(1), substituted section catchline for former catchline which read as follows: "National leadership grants or contracts".
 
-Subsec. (a). Pub. L. 105–128, §7(2), in introductory provisions, substituted “program of awarding grants or entering into contracts or cooperative agreements” for “program awarding national leadership grants or contracts” and “Such grants, contracts, and cooperative agreements” for “Such grants or contracts”.
+Subsec. (a). Pub. L. 105–128, §7(2), in introductory provisions, substituted "program of awarding grants or entering into contracts or cooperative agreements" for "program awarding national leadership grants or contracts" and "Such grants, contracts, and cooperative agreements" for "Such grants or contracts".
 
-Subsec. (a)(3). Pub. L. 105–128, §8, substituted “preserving or digitization” for “preservation of digitization”.
+Subsec. (a)(3). Pub. L. 105–128, §8, substituted "preserving or digitization" for "preservation of digitization".
 
-Subsec. (b). Pub. L. 105–128, §7(3)(A), substituted heading for former heading which read as follows: “Grants or contracts”.
+Subsec. (b). Pub. L. 105–128, §7(3)(A), substituted heading for former heading which read as follows: "Grants or contracts".
 
-Subsec. (b)(1). Pub. L. 105–128, §7(3)(B), inserted “or cooperative agreements,” after “contracts”.
+Subsec. (b)(1). Pub. L. 105–128, §7(3)(B), inserted "or cooperative agreements," after "contracts".
 
-Subsec. (b)(2). Pub. L. 105–128, §7(3)(C), substituted “Grants, contracts, and cooperative agreements” for “Grants and contracts”.
+Subsec. (b)(2). Pub. L. 105–128, §7(3)(C), substituted "Grants, contracts, and cooperative agreements" for "Grants and contracts".
 

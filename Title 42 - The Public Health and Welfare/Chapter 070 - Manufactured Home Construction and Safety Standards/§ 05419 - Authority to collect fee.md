@@ -18,7 +18,7 @@ In carrying out inspections under this chapter, in developing standards and regu
 
 &emsp;&emsp;(F) facilitating the acceptance of the quality, durability, safety, and affordability of manufactured housing within the Department; and
 
-&emsp;&emsp;(G) the administration and enforcement of the installation standards authorized by section 5404 of this title in States in which the Secretary is required to implement an installation program after the expiration of the 5-year period set forth in section 5404(c)(2)(B) of this title, and the administration and enforcement of a dispute resolution program described in section 5422(c)(12) of this title in States in which the Secretary isrequired to implement such a program after the expiration of the 5-year period set forth in section 5422(g)(2) of this title; and
+&emsp;&emsp;(G) the administration and enforcement of the installation standards authorized by section 5404 of this title in States in which the Secretary is required to implement an installation program after the expiration of the 5-year period set forth in section 5404(c)(2)(B) of this title, and the administration and enforcement of a dispute resolution program described in section 5422(c)(12) of this title in States in which the Secretary is required to implement such a program after the expiration of the 5-year period set forth in section 5422(g)(2) of this title; and
 
 &emsp;(2) subject to subsection (e) of this section, use amounts from any fee collected under paragraph (1) of this subsection to pay expenses referred to in that paragraph, which shall be exempt and separate from any limitations on the Department regarding full-time equivalent positions and travel.
 
@@ -42,7 +42,7 @@ Beginning on December 27, 2000, the amount of any fee collected under this secti
 
 #### (1) In general
 
-&emsp;There is established in the Treasury of the United States a fund to be known as the “Manufactured Housing Fees Trust Fund” for deposit of amounts from any fee collected under this section. Such amounts shall be held in trust for use only as provided in this chapter.
+&emsp;There is established in the Treasury of the United States a fund to be known as the "Manufactured Housing Fees Trust Fund" for deposit of amounts from any fee collected under this section. Such amounts shall be held in trust for use only as provided in this chapter.
 
 #### (2) Appropriation
 
@@ -56,15 +56,15 @@ Beginning on December 27, 2000, the amount of any fee collected under this secti
 
 #### References in Text
 
-For the effective date of the Manufactured Housing Improvement Act of 2000, referred to in subsec. (e)(3), see section 612 of Pub. L. 106–569, set out as an Effective Date of 2000 Amendment note under section 5401 of this title.
+For the effective date of the Manufactured Housing Improvement Act of 2000, referred to in subsec. (e)(3),see section 612 of Pub. L. 106–569, set out as an Effective Date of 2000 Amendment note under section 5401 of this title.
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–569 amended section catchline and text generally. Prior to amendment, text read as follows: “In carrying out the inspections required under this chapter, the Secretary may establish and impose on manufactured home manufacturers, distributors, and dealers such reasonable fees as may be necessary to offset the expenses incurred by him in conducting such inspections, and the Secretary may use any fees so collected to pay expenses incurred in connection with such inspections, except that this section shall not apply in any State which has in effect a State plan under section 5422 of this title.”
+<b>2000</b>—Pub. L. 106–569 amended section catchline and text generally. Prior to amendment, text read as follows: "In carrying out the inspections required under this chapter, the Secretary may establish and impose on manufactured home manufacturers, distributors, and dealers such reasonable fees as may be necessary to offset the expenses incurred by him in conducting such inspections, and the Secretary may use any fees so collected to pay expenses incurred in connection with such inspections, except that this section shall not apply in any State which has in effect a State plan under section 5422 of this title."
 
-<b>1980</b>—Pub. L. 96–399 substituted “manufactured home” for “mobile home”.
+<b>1980</b>—Pub. L. 96–399 substituted "manufactured home" for "mobile home".
 
-<b>1979</b>—Pub. L. 96–153 substituted “conducting such inspections, and the Secretary may use any fees so collected to pay expenses incurred in connection with such inspections, except” for “conducting such inspections, except”.
+<b>1979</b>—Pub. L. 96–153 substituted "conducting such inspections, and the Secretary may use any fees so collected to pay expenses incurred in connection with such inspections, except" for "conducting such inspections, except".
 
 #### Effective Date of 2000 Amendment
 
@@ -74,11 +74,11 @@ Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment ha
 
 Pub. L. 107–18, §1, July 5, 2001, 115 Stat. 152, provided that:
 
-“(a)
+"(a)
 
 Availability of Fees.—Notwithstanding section 620(e)(2) of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5419(e)(2)), any fees collected under that Act, including any fees collected before the date of enactment of the American Homeownership and Economic Opportunity Act of 2000 (12 U.S.C. 1701 note) \[Dec. 27, 2000\] and remaining unobligated on the date of enactment of this Act \[July 5, 2001\], shall be available for expenditure to offset the expenses incurred by the Secretary under the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5401 et seq.), otherwise in accordance with section 620 of that Act.
 
-“(b)
+"(b)
 
-Duration.—The authority for the use of fees provided for in subsection (a) shall remain in effect during the period beginning in fiscal year 2001 and ending on the effective date of the first appropriations Act referred to in section 620(e)(2) of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5419(e)(2)) that is enacted with respect to a fiscal year after fiscal year 2001.”
+Duration.—The authority for the use of fees provided for in subsection (a) shall remain in effect during the period beginning in fiscal year 2001 and ending on the effective date of the first appropriations Act referred to in section 620(e)(2) of the National Manufactured Housing Construction and Safety Standards Act of 1974 (42 U.S.C. 5419(e)(2)) that is enacted with respect to a fiscal year after fiscal year 2001."
 

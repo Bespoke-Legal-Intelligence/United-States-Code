@@ -137,7 +137,7 @@
 
 (2)(A) Bankruptcy judges may hold court at such places within the United States outside the judicial district as the nature of the business of the court may require, and upon such notice as the court orders, upon a finding by either the chief judge of the bankruptcy court (or, if the chief judge is unavailable, the most senior available bankruptcy judge) or by the judicial council of the circuit that, because of emergency conditions, no location within the district is reasonably available where the bankruptcy judges could hold court.
 
-(B) Bankruptcy judges may transact any business at special sessions of court held outside the district pursuant to this paragraph that might be transacted at a regular session.
+(B) Bankruptcy judges may transact any business at special sessions of court held outside thedistrict pursuant to this paragraph that might be transacted at a regular session.
 
 (C) If a bankruptcy court issues an order exercising its authority under subparagraph (A), the court—
 
@@ -165,25 +165,25 @@
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a)(1). Pub. L. 109–8, §1223(d)(1), substituted “Each bankruptcy judge to be appointed for a judicial district, as provided in paragraph (2), shall be appointed by the court of appeals of the United States for the circuit in which such district is located.” for “The United States court of appeals for the circuit shall appoint bankruptcy judges for the judicial districts established in paragraph (2) in such numbers as are established in such paragraph.”
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–8, §1223(d)(1), substituted "Each bankruptcy judge to be appointed for a judicial district, as provided in paragraph (2), shall be appointed by the court of appeals of the United States for the circuit in which such district is located." for "The United States court of appeals for the circuit shall appoint bankruptcy judges for the judicial districts established in paragraph (2) in such numbers as are established in such paragraph."
 
-Subsec. (a)(2). Pub. L. 109–8, §1223(d)(2), substituted “3” for “2” in item relating to middle district of Georgia and struck out item relating to middle and southern districts of Georgia.
+Subsec. (a)(2). Pub. L. 109–8, §1223(d)(2), substituted "3" for "2" in item relating to middle district of Georgia and struck out item relating to middle and southern districts of Georgia.
 
 Subsec. (c). Pub. L. 109–63 designated existing provisions as par. (1) and added par. (2).
 
-<b>1992</b>—Subsec. (a)(2). Pub. L. 102–361, §2, in item relating to district of Arizona substituted “7” for “5”, in item relating to central district of California substituted “21” for “19”, in item relating to district of Connecticut substituted “3” for “2”, in item relating to middle district of Florida substituted “8” for “4”, in item relating to southern district of Florida substituted “5” for “3”, in item relating to northern district of Georgia substituted “8” for “6”, inserted item relating to middle and southern districts of Georgia, in item relating to district of Maryland substituted “4” for “3”, in item relating to district of Massachusetts substituted “5” for “4”, in item relating to district of New Jersey substituted “8” for “7”, in item relating to southern district of New York substituted “9” for “7”, in item relating to eastern district of Pennsylvania substituted “5” for “3”, in item relating to middle district of Tennessee substituted “3” for “2”, in item relating to western district of Tennessee substituted “4” for “3”, in item relating to northern district of Texas substituted “6” for “5”, and in item relating to eastern district of Virginia substituted “5” for “4”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–361, §2, in item relating to district of Arizona substituted "7" for "5", in item relating to central district of California substituted "21" for "19", in item relating to district of Connecticut substituted "3" for "2", in item relating to middle district of Florida substituted "8" for "4", in item relating to southern district of Florida substituted "5" for "3", in item relating to northern district of Georgia substituted "8" for "6", inserted item relating to middle and southern districts of Georgia, in item relating to district of Maryland substituted "4" for "3", in item relating to district of Massachusetts substituted "5" for "4", in item relating to district of New Jersey substituted "8" for "7", in item relating to southern district of New York substituted "9" for "7", in item relating to eastern district of Pennsylvania substituted "5" for "3", in item relating to middle district of Tennessee substituted "3" for "2", in item relating to western district of Tennessee substituted "4" for "3", in item relating to northern district of Texas substituted "6" for "5", and in item relating to eastern district of Virginia substituted "5" for "4".
 
 Subsec. (b)(3). Pub. L. 102–361, §4, added par. (3).
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–650 inserted after third sentence “However, upon the expiration of the term, a bankruptcy judge may, with the approval of the judicial council of the circuit, continue to perform the duties of the office until the earlier of the date which is 180 days after the expiration of the term or the date of the appointment of a successor.”
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–650 inserted after third sentence "However, upon the expiration of the term, a bankruptcy judge may, with the approval of the judicial council of the circuit, continue to perform the duties of the office until the earlier of the date which is 180 days after the expiration of the term or the date of the appointment of a successor."
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–587 in item relating to district of Alaska substituted “2” for “1”, in item relating to district of Colorado substituted “5” for “4”, in item relating to district of Kansas substituted “4” for “3”, in item relating to eastern district of Kentucky substituted “2” for “1”, in item relating to eastern district of Texas substituted “2” for “1”, in item relating to western district of Texas substituted “4” for “3”, and in item relating to district of Arizona substituted “5” for “4”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–587 in item relating to district of Alaska substituted "2" for "1", in item relating to district of Colorado substituted "5" for "4", in item relating to district of Kansas substituted "4" for "3", in item relating to eastern district of Kentucky substituted "2" for "1", in item relating to eastern district of Texas substituted "2" for "1", in item relating to western district of Texas substituted "4" for "3", and in item relating to district of Arizona substituted "5" for "4".
 
-<b>1986</b>—Subsec. (a)(2). Pub. L. 99–554 in item relating to eastern district and western district of Arkansas substituted “3” for “2”, in item relating to northern district of California substituted “9” for “7”, in item relating to eastern district of California substituted “6” for “4”, in item relating to central district of California substituted “19” for “12”, in item relating to southern district of California substituted “4” for “3”, in item relating to middle district of Florida substituted “4” for “2”, in item relating to northern district of Georgia substituted “6” for “4”, in item relating to southern district of Georgia substituted “2” for “1”, in item relating to district of Idaho substituted “2” for “1”, in item relating to northern district of Illinois substituted “10” for “8”, in item relating to central district of Illinois substituted “3” for “2”, in item relating to northern district of Indiana substituted “3” for “2”, in item relating to northern district of Iowa substituted “2” for “1”, in item relating to southern district of Iowa substituted “2” for “1”, in item relating to western district of Kentucky substituted “3” for “2”, in item relating to western district of Louisiana substituted “3” for “2”, in item relating to district of Maryland substituted “3” for “2”, in item relating to western district of Michigan substituted “3” for “2”, in item relating to district of Nebraska substituted “2” for “1”, in item relating to district of Nevada substituted “3” for “2”, in item relating to district of New Jersey substituted “7” for “5”, in item relating to western district of North Carolina substituted “2” for “1”, in item relating to northern district of Oklahoma substituted “2” for “1”, in item relating to western district of Oklahoma substituted “3” for “2”, in item relating to district of Oregon substituted “5” for “4”, in item relating to western district of Pennsylvania substituted “4” for “3”, in item relating to district of South Carolina substituted “2” for “1”, in item relating to district of South Dakota substituted “2” for “1”, in item relating to eastern district of Tennessee substituted “3” for “2”, in item relating to western district of Tennessee substituted “3” for “2”, in item relating to northern district of Texas substituted “5” for “4”, in item relating to southern district of Texas substituted “6” for “3”, in item relating to western district of Texas substituted “3” for “2”, in item relating to district of Utah substituted “3” for “2”, in item relating to eastern district of Virginia substituted “4” for “3”, in item relating to eastern district of Washington substituted “2” for “1”, in item relating to western district of Washington substituted “5” for “4”, and in item relating to eastern district of Wisconsin substituted “4” for “3”.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–554 in item relating to eastern district and western district of Arkansas substituted "3" for "2", in item relating to northern district of California substituted "9" for "7", in item relating to eastern district of California substituted "6" for "4", in item relating to central district of California substituted "19" for "12", in item relating to southern district of California substituted "4" for "3", in item relating to middle district of Florida substituted "4" for "2", in item relating to northern district of Georgia substituted "6" for "4", in item relating to southern district of Georgia substituted "2" for "1", in item relating to district of Idaho substituted "2" for "1", in item relating to northern district of Illinois substituted "10" for "8", in item relating to central district of Illinois substituted "3" for "2", in item relating to northern district of Indiana substituted "3" for "2", in item relating to northern district of Iowa substituted "2" for "1", in item relating to southern district of Iowa substituted "2" for "1", in item relating to western district of Kentucky substituted "3" for "2", in item relating to western district of Louisiana substituted "3" for "2", in item relating to district of Maryland substituted "3" for "2", in item relating to western district of Michigan substituted "3" for "2", in item relating to district of Nebraska substituted "2" for "1", in item relating to district of Nevada substituted "3" for "2", in item relating to district of New Jersey substituted "7" for "5", in item relating to western district of North Carolina substituted "2" for "1", in item relating to northern district of Oklahoma substituted "2" for "1", in item relating to western district of Oklahoma substituted "3" for "2", in item relating to district of Oregon substituted "5" for "4", in item relating to western district of Pennsylvania substituted "4" for "3", in item relating to district ofSouth Carolina substituted "2" for "1", in item relating to district of South Dakota substituted "2" for "1", in item relating to eastern district of Tennessee substituted "3" for "2", in item relating to western district of Tennessee substituted "3" for "2", in item relating to northern district of Texas substituted "5" for "4", in item relating to southern district of Texas substituted "6" for "3", in item relating to western district of Texas substituted "3" for "2", in item relating to district of Utah substituted "3" for "2", in item relating to eastern district of Virginia substituted "4" for "3", in item relating to eastern district of Washington substituted "2" for "1", in item relating to western district of Washington substituted "5" for "4", and in item relating to eastern district of Wisconsin substituted "4" for "3".
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–8, title XII, §1223(e), Apr. 20, 2005, 119 Stat. 198, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Apr. 20, 2005\].”
+Pub. L. 109–8, title XII, §1223(e), Apr. 20, 2005, 119 Stat. 198, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Apr. 20, 2005\]."
 
 #### Effective Date of 1986 Amendment
 
@@ -191,365 +191,365 @@ Amendment by Pub. L. 99–554 effective Oct. 27, 1986, see section 302(b) of Pub
 
 #### Subsequent Reauthorization
 
-Pub. L. 112–121, §4, May 25, 2012, 126 Stat. 349, provided that: “Prior to further reauthorization of any judgeship authorized by this Act \[See Short Title of 2012 Amendment note set out under section 1 of this title\], the Committee on the Judiciary of the Senate and House of Representatives shall conduct a review of the bankruptcy judgeships authorized by this Act to determine the need, if any, for continued reauthorization of each judgeship, to evaluate any changes in all bankruptcy case filings and their effect, if any, on filing fee revenue, and to require the Administrative Office of the Courts to submit a report to the Committee on the Judiciary of the Senate and House of Representatives on bankruptcy case workload, bankruptcy judgeship costs, and filing fee revenue.”
+Pub. L. 112–121, §4, May 25, 2012, 126 Stat. 349, provided that: "Prior to further reauthorization of any judgeship authorized by this Act \[See Short Title of 2012 Amendment note set out under section 1 of this title\], the Committee on the Judiciary of the Senate and House of Representatives shall conduct a review of the bankruptcy judgeships authorized by this Act to determine the need, if any, for continued reauthorization of each judgeship, to evaluate any changes in all bankruptcy case filings and their effect, if any, on filing fee revenue, and to require the Administrative Office of the Courts to submit a report to the Committee on the Judiciary of the Senate and House of Representatives on bankruptcy case workload, bankruptcy judgeship costs, and filing fee revenue."
 
 #### Temporary Appointment of Additional Judges
 
 Pub. L. 112–121, §2, May 25, 2012, 126 Stat. 346, provided that:
 
-“(a)
+"(a)
 
 Temporary Office of Bankruptcy Judges Authorized by Public Law 109–8.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Extensions.—The temporary office of bankruptcy judges authorized for the following districts by section 1223(b) of Public Law 109–8 (28 U.S.C. 152 note) are extended until the applicable vacancy specified in paragraph (2) in the office of a bankruptcy judge for the respective district occurs:
 
-&emsp;&emsp;“(A) The central district of California.
+&emsp;&emsp;"(A) The central district of California.
 
-&emsp;&emsp;“(B) The eastern district of California.
+&emsp;&emsp;"(B) The eastern district of California.
 
-&emsp;&emsp;“(C) The district of Delaware.
+&emsp;&emsp;"(C) The district of Delaware.
 
-&emsp;&emsp;“(D) The southern district of Florida.
+&emsp;&emsp;"(D) The southern district of Florida.
 
-&emsp;&emsp;“(E) The southern district of Georgia.
+&emsp;&emsp;"(E) The southern district of Georgia.
 
-&emsp;&emsp;“(F) The district of Maryland.
+&emsp;&emsp;"(F) The district of Maryland.
 
-&emsp;&emsp;“(G) The eastern district of Michigan.
+&emsp;&emsp;"(G) The eastern district of Michigan.
 
-&emsp;&emsp;“(H) The district of New Jersey.
+&emsp;&emsp;"(H) The district of New Jersey.
 
-&emsp;&emsp;“(I) The northern district of New York.
+&emsp;&emsp;"(I) The northern district of New York.
 
-&emsp;&emsp;“(J) The eastern district of North Carolina.
+&emsp;&emsp;"(J) The eastern district of North Carolina.
 
-&emsp;&emsp;“(K) The eastern district of Pennsylvania.
+&emsp;&emsp;"(K) The eastern district of Pennsylvania.
 
-&emsp;&emsp;“(L) The middle district of Pennsylvania.
+&emsp;&emsp;"(L) The middle district of Pennsylvania.
 
-&emsp;&emsp;“(M) The district of Puerto Rico.
+&emsp;&emsp;"(M) The district of Puerto Rico.
 
-&emsp;&emsp;“(N) The district of South Carolina.
+&emsp;&emsp;"(N) The district of South Carolina.
 
-&emsp;&emsp;“(O) The western district of Tennessee.
+&emsp;&emsp;"(O) The western district of Tennessee.
 
-&emsp;&emsp;“(P) The eastern district of Virginia.
+&emsp;&emsp;"(P) The eastern district of Virginia.
 
-&emsp;&emsp;“(Q) The district of Nevada.
+&emsp;&emsp;"(Q) The district of Nevada.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Vacancies.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Single vacancies.—Except as provided in subparagraphs (B), (C), (D), and (E), the 1st vacancy in the office of a bankruptcy judge for each district specified in paragraph (1)—
 
-&emsp;&emsp;&emsp;“(i) occurring more than 5 years after the date of the enactment of this Act \[May 25, 2012\], and
+&emsp;&emsp;&emsp;"(i) occurring more than 5 years after the date of the enactment of this Act \[May 25, 2012\], and
 
-&emsp;&emsp;&emsp;“(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
+&emsp;&emsp;&emsp;"(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
 
 &nbsp;&nbsp;shall not be filled.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Central district of california.—The 1st, 2d, and 3d vacancies in the office of a bankruptcy judge for the central district of California—
 
-&emsp;&emsp;&emsp;“(i) occurring 5 years or more after the date of the enactment of this Act, and
+&emsp;&emsp;&emsp;"(i) occurring 5 years or more after the date of the enactment of this Act, and
 
-&emsp;&emsp;&emsp;“(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
+&emsp;&emsp;&emsp;"(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
 
 &nbsp;&nbsp;shall not be filled.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 District of delaware.—The 1st, 2d, 3d, and 4th vacancies in the office of a bankruptcy judge for the district of Delaware—
 
-&emsp;&emsp;&emsp;“(i) occurring more than 5 years after the date of the enactment of this Act, and
+&emsp;&emsp;&emsp;"(i) occurring more than 5 years after the date of the enactment of this Act, and
 
-&emsp;&emsp;&emsp;“(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
+&emsp;&emsp;&emsp;"(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
 
 &nbsp;&nbsp;shall not be filled.
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
 Southern district of florida.—The 1st and 2d vacancies in the office of a bankruptcy judge for the southern district of Florida—
 
-&emsp;&emsp;&emsp;“(i) occurring more than 5 years after the date of the enactment of this Act, and
+&emsp;&emsp;&emsp;"(i) occurring more than 5 years after the date of the enactment of this Act, and
 
-&emsp;&emsp;&emsp;“(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
+&emsp;&emsp;&emsp;"(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
 
 &nbsp;&nbsp;shall not be filled.
 
-&emsp;&emsp;“(E)
+&emsp;&emsp;"(E)
 
 District of maryland.—The 1st, 2d, and 3d vacancies in the office of a bankruptcy judge for the district of Maryland—
 
-&emsp;&emsp;&emsp;“(i) occurring more than 5 years after the date of the enactment of this Act, and
+&emsp;&emsp;&emsp;"(i) occurring more than 5 years after the date of the enactment of this Act, and
 
-&emsp;&emsp;&emsp;“(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
+&emsp;&emsp;&emsp;"(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
 
 &nbsp;&nbsp;shall not be filled.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Applicability of other provisions.—Except as provided in paragraphs (1) and (2), all other provisions of section 1223(b) of Public Law 109–8 (28 U.S.C. 152 note) remain applicable to the temporary office of bankruptcy judges referred to in paragraph (1).
 
-“(b)
+"(b)
 
 Temporary Office of Bankruptcy Judges Extended by Public Law 109–8.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Extensions.—The temporary office of bankruptcy judges authorized by section 3 of the Bankruptcy Judgeship Act of 1992 \[Pub. L. 102–361\] (28 U.S.C. 152 note) and extended by section 1223(c) of Public Law 109–8 (28 U.S.C. 152 note) for the district of Delaware, the district of Puerto Rico, and the eastern district of Tennessee are extended until the applicable vacancy specified in paragraph (2) in the office of a bankruptcy judge for the respective district occurs.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Vacancies.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 District of delaware.—The 5th vacancy in the office of a bankruptcy judge for the district of Delaware—
 
-&emsp;&emsp;&emsp;“(i) occurring more than 5 years after the date of the enactment of this Act \[May 25, 2012\], and
+&emsp;&emsp;&emsp;"(i) occurring more than 5 years after the date of the enactment of this Act \[May 25, 2012\], and
 
-&emsp;&emsp;&emsp;“(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
+&emsp;&emsp;&emsp;"(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
 
 &nbsp;&nbsp;shall not be filled.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 District of puerto rico.—The 2d vacancy in the office of a bankruptcy judge for the district of Puerto Rico—
 
-&emsp;&emsp;&emsp;“(i) occurring more than 5 years after the date of the enactment of this Act, and
+&emsp;&emsp;&emsp;"(i) occurring more than 5 years after the date of the enactment of this Act, and
 
-&emsp;&emsp;&emsp;“(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
+&emsp;&emsp;&emsp;"(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
 
 &nbsp;&nbsp;shall not be filled.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Eastern district of tennessee.—The 1st vacancy in the office of a bankruptcy judge for the eastern district of Tennessee—
 
-&emsp;&emsp;&emsp;“(i) occurring more than 5 years after the date of the enactment of this Act, and
+&emsp;&emsp;&emsp;"(i) occurring more than 5 years after the date of the enactment of this Act, and
 
-&emsp;&emsp;&emsp;“(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
+&emsp;&emsp;&emsp;"(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
 
 &nbsp;&nbsp;shall not be filled.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Applicability of other provisions.—Except as provided in paragraphs (1) and (2), all other provisions of section 3 of the Bankruptcy Judgeship Act of 1992 (28 U.S.C. 152 note) and section 1223(c) of Public Law 109–8 (28 U.S.C. 152 note) remain applicable to the temporary office of bankruptcy judges referred to in paragraph (1).
+Applicability of other provisions.—Except as provided in paragraphs (1) and (2), all other provisions of section 3 of the Bankruptcy Judgeship Act of 1992\(28 U.S.C. 152 note) and section 1223(c) of Public Law 109–8 (28 U.S.C. 152 note) remain applicable to the temporary office of bankruptcy judges referred to in paragraph (1).
 
-“(c)
+"(c)
 
 Temporary Office of the Bankruptcy Judge Authorized by Public Law 102–361 for the Middle District of North Carolina.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Extension.—The temporary office of the bankruptcy judge authorized by section 3 of the Bankruptcy Judgeship Act of 1992 \[Pub. L. 102–361\] (28 U.S.C. 152 note) for the middle district of North Carolina is extended until the vacancy specified in paragraph (2) occurs.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Vacancy.—The 1st vacancy in the office of a bankruptcy judge for the middle district of North Carolina—
 
-&emsp;&emsp;“(A) occurring more than 5 years after the date of the enactment of this Act \[May 25, 2012\], and
+&emsp;&emsp;"(A) occurring more than 5 years after the date of the enactment of this Act \[May 25, 2012\], and
 
-&emsp;&emsp;“(B) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
+&emsp;&emsp;"(B) resulting from the death, retirement, resignation, or removal of a bankruptcy judge,
 
 &nbsp;&nbsp;shall not be filled.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Applicability of other provisions.—Except as provided in paragraphs (1) and (2), all other provisions of section 3 of the Bankruptcy Judgeship Act of 1992 (28 U.S.C. 152 note) remain applicable to the temporary office of the bankruptcy judge referred to in paragraph (1).”
+Applicability of other provisions.—Except as provided in paragraphs (1) and (2), all other provisions of section 3 of the Bankruptcy Judgeship Act of 1992 (28 U.S.C. 152 note) remain applicable to the temporary office of the bankruptcy judge referred to in paragraph (1)."
 
 Pub. L. 109–8, title XII, §1223(b), (c), Apr. 20, 2005, 119 Stat. 196, 198, provided that:
 
-“(b)
+"(b)
 
 Temporary Judgeships.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Appointments.—The following bankruptcy judges shall be appointed in the manner prescribed in section 152(a)(1) of title 28, United States Code, for the appointment of bankruptcy judges provided for in section 152(a)(2) of such title:
 
-&emsp;&emsp;“(A) One additional bankruptcy judge for the eastern district of California.
+&emsp;&emsp;"(A) One additional bankruptcy judge for the eastern district of California.
 
-&emsp;&emsp;“(B) Three additional bankruptcy judges for the central district of California.
+&emsp;&emsp;"(B) Three additional bankruptcy judges for the central district of California.
 
-&emsp;&emsp;“(C) Four additional bankruptcy judges for the district of Delaware.
+&emsp;&emsp;"(C) Four additional bankruptcy judges for the district of Delaware.
 
-&emsp;&emsp;“(D) Two additional bankruptcy judges for the southern district of Florida.
+&emsp;&emsp;"(D) Two additional bankruptcy judges for the southern district of Florida.
 
-&emsp;&emsp;“(E) One additional bankruptcy judge for the southern district of Georgia.
+&emsp;&emsp;"(E) One additional bankruptcy judge for the southern district of Georgia.
 
-&emsp;&emsp;“(F) Three additional bankruptcy judges for the district of Maryland.
+&emsp;&emsp;"(F) Three additional bankruptcy judges for the district of Maryland.
 
-&emsp;&emsp;“(G) One additional bankruptcy judge for the eastern district of Michigan.
+&emsp;&emsp;"(G) One additional bankruptcy judge for the eastern district of Michigan.
 
-&emsp;&emsp;“(H) One additional bankruptcy judge for the southern district of Mississippi.
+&emsp;&emsp;"(H) One additional bankruptcy judge for the southern district of Mississippi.
 
-&emsp;&emsp;“(I) One additional bankruptcy judge for the district of New Jersey.
+&emsp;&emsp;"(I) One additional bankruptcy judge for the district of New Jersey.
 
-&emsp;&emsp;“(J) One additional bankruptcy judge for the eastern district of New York.
+&emsp;&emsp;"(J) One additional bankruptcy judge for the eastern district of New York.
 
-&emsp;&emsp;“(K) One additional bankruptcy judge for the northern district of New York.
+&emsp;&emsp;"(K) One additional bankruptcy judge for the northern district of New York.
 
-&emsp;&emsp;“(L) One additional bankruptcy judge for the southern district of New York.
+&emsp;&emsp;"(L) One additional bankruptcy judge for the southern district of New York.
 
-&emsp;&emsp;“(M) One additional bankruptcy judge for the eastern district of North Carolina.
+&emsp;&emsp;"(M) One additional bankruptcy judge for the eastern district of North Carolina.
 
-&emsp;&emsp;“(N) One additional bankruptcy judge for the eastern district of Pennsylvania.
+&emsp;&emsp;"(N) One additional bankruptcy judge for the eastern district of Pennsylvania.
 
-&emsp;&emsp;“(O) One additional bankruptcy judge for the middle district of Pennsylvania.
+&emsp;&emsp;"(O) One additional bankruptcy judge for the middle district of Pennsylvania.
 
-&emsp;&emsp;“(P) One additional bankruptcy judge for the district of Puerto Rico.
+&emsp;&emsp;"(P) One additional bankruptcy judge for the district of Puerto Rico.
 
-&emsp;&emsp;“(Q) One additional bankruptcy judge for the western district of Tennessee.
+&emsp;&emsp;"(Q) One additional bankruptcy judge for the western district of Tennessee.
 
-&emsp;&emsp;“(R) One additional bankruptcy judge for the eastern district of Virginia.
+&emsp;&emsp;"(R) One additional bankruptcy judge for the eastern district of Virginia.
 
-&emsp;&emsp;“(S) One additional bankruptcy judge for the district of South Carolina.
+&emsp;&emsp;"(S) One additional bankruptcy judge for the district of South Carolina.
 
-&emsp;&emsp;“(T) One additional bankruptcy judge for the district of Nevada.
+&emsp;&emsp;"(T) One additional bankruptcy judge for the district of Nevada.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Vacancies.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Districts with single appointments.—Except as provided in subparagraphs (B), (C), (D), and (E), the first vacancy occurring in the office of bankruptcy judge in each of the judicial districts set forth in paragraph (1)—
 
-&emsp;&emsp;&emsp;“(i) occurring 5 years or more after the appointment date of the bankruptcy judge appointed under paragraph (1) to such office; and
+&emsp;&emsp;&emsp;"(i) occurring 5 years or more after the appointment date of the bankruptcy judge appointed under paragraph (1) to such office; and
 
-&emsp;&emsp;&emsp;“(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge;
+&emsp;&emsp;&emsp;"(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge;
 
 &nbsp;&nbsp;shall not be filled.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Central district of california.—The 1st, 2d, and 3d vacancies in the office of bankruptcy judge in the central district of California—
 
-&emsp;&emsp;&emsp;“(i) occurring 5 years or more after the respective 1st, 2d, and 3d appointment dates of the bankruptcy judges appointed under paragraph (1)(B); and
+&emsp;&emsp;&emsp;"(i) occurring 5 years or more after the respective 1st, 2d, and 3d appointment dates of the bankruptcy judges appointed under paragraph (1)(B); and
 
-&emsp;&emsp;&emsp;“(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge;
+&emsp;&emsp;&emsp;"(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge;
 
 &nbsp;&nbsp;shall not be filled.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 District of delaware.—The 1st, 2d, 3d, and 4th vacancies in the office of bankruptcy judge in the district of Delaware—
 
-&emsp;&emsp;&emsp;“(i) occurring 5 years or more after the respective 1st, 2d, 3d, and 4th appointment dates of the bankruptcy judges appointed under paragraph (1)(F); and
+&emsp;&emsp;&emsp;"(i) occurring 5 years or more after the respective 1st, 2d, 3d, and 4th appointment dates of the bankruptcy judges appointed under paragraph (1)(F); and
 
-&emsp;&emsp;&emsp;“(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge;
+&emsp;&emsp;&emsp;"(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge;
 
 &nbsp;&nbsp;shall not be filled.
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
 Southern district of florida.—The 1st and 2d vacancies in the office of bankruptcy judge in the southern district of Florida—
 
-&emsp;&emsp;&emsp;“(i) occurring 5 years or more after the respective 1st and 2d appointment dates of the bankruptcy judges appointed under paragraph (1)(D); and
+&emsp;&emsp;&emsp;"(i) occurring 5 years or more after the respective 1st and 2d appointment dates of the bankruptcy judges appointed under paragraph (1)(D); and
 
-&emsp;&emsp;&emsp;“(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge;
+&emsp;&emsp;&emsp;"(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge;
 
 &nbsp;&nbsp;shall not be filled.
 
-&emsp;&emsp;“(E)
+&emsp;&emsp;"(E)
 
 District of maryland.—The 1st, 2d, and 3d vacancies in the office of bankruptcy judge in the district of Maryland—
 
-&emsp;&emsp;&emsp;“(i) occurring 5 years or more after the respective 1st, 2d, and 3d appointment dates of the bankruptcy judges appointed under paragraph (1)(F); and
+&emsp;&emsp;&emsp;"(i) occurring 5 years or more after the respective 1st, 2d, and 3d appointment dates of the bankruptcy judges appointed under paragraph (1)(F); and
 
-&emsp;&emsp;&emsp;“(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge;
+&emsp;&emsp;&emsp;"(ii) resulting from the death, retirement, resignation, or removal of a bankruptcy judge;
 
 &nbsp;&nbsp;shall not be filled.
 
-“(c)
+"(c)
 
 Extensions.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The temporary office of bankruptcy judges authorized for the northern district of Alabama, the district of Delaware, the district of Puerto Rico, and the eastern district of Tennessee under paragraphs (1), (3), (7), and (9) of section 3(a) of the Bankruptcy Judgeship Act of 1992 \[Pub. L. 102–361\] (28 U.S.C. 152 note) are extended until the first vacancy occurring in the office of a bankruptcy judge in the applicable district resulting from the death, retirement, resignation, or removal of a bankruptcy judge and occurring 5 years after the date of the enactment of this Act \[Apr. 20, 2005\].
 
-&emsp;“(2)
+&emsp;"(2)
 
-Applicability of other provisions.—All other provisions of section 3 of the Bankruptcy Judgeship Act of 1992 (28 U.S.C. 152 note) remain applicable to the temporary office of bankruptcy judges referred to in this subsection.”
+Applicability of other provisions.—All other provisions of section 3 of the Bankruptcy Judgeship Act of 1992 (28 U.S.C. 152 note) remain applicable to the temporary office of bankruptcy judges referred to in this subsection."
 
 Pub. L. 102–361, §3, Aug. 26, 1992, 106 Stat. 965, as amended by Pub. L. 104–317, title III, §307, Oct. 19, 1996, 110 Stat. 3852, provided that:
 
-“(a)
+"(a)
 
 Appointments.—The following bankruptcy judges shall be appointed in the manner prescribed in section 152(a)(1) of title 28, United States Code:
 
-&emsp;“(1) 1 additional bankruptcy judge for the northern district of Alabama.
+&emsp;"(1) 1 additional bankruptcy judge for the northern district of Alabama.
 
-&emsp;“(2) 1 additional bankruptcy judge for the district of Colorado.
+&emsp;"(2) 1 additional bankruptcy judge for the district of Colorado.
 
-&emsp;“(3) 1 additional bankruptcy judge for the district of Delaware.
+&emsp;"(3) 1 additional bankruptcy judge for the district of Delaware.
 
-&emsp;“(4) 1 additional bankruptcy judge for the southern district of Illinois.
+&emsp;"(4) 1 additional bankruptcy judge for the southern district of Illinois.
 
-&emsp;“(5) 1 additional bankruptcy judge for the district of New Hampshire.
+&emsp;"(5) 1 additional bankruptcy judge for the district of New Hampshire.
 
-&emsp;“(6) 1 additional bankruptcy judge for the middle district of North Carolina.
+&emsp;"(6) 1 additional bankruptcy judge for the middle district of North Carolina.
 
-&emsp;“(7) 1 additional bankruptcy judge for the district of Puerto Rico.
+&emsp;"(7) 1 additional bankruptcy judge for the district of Puerto Rico.
 
-&emsp;“(8) 1 additional bankruptcy judge for the district of South Carolina.
+&emsp;"(8) 1 additional bankruptcy judge for the district of South Carolina.
 
-&emsp;“(9) 1 additional bankruptcy judge for the eastern district of Tennessee.
+&emsp;"(9) 1 additional bankruptcy judge for the eastern district of Tennessee.
 
-&emsp;“(10) 1 additional bankruptcy judge for the western district of Texas.
+&emsp;"(10) 1 additional bankruptcy judge for the western district of Texas.
 
-“(b)
+"(b)
 
-Vacancies.—The first vacancy in the office of bankruptcy judge in each of the judicial districts set forth in subsection (a), resulting from the death, retirement, resignation, or removal of a bankruptcy judge, and occurring 5 years or more after the appointment date of the judge named to fill the temporary judgeship position, shall not be filled. In the case of a vacancy resulting from the expiration of the term of a bankruptcy judge not described in the preceding sentence, that judge shall be eligible for reappointment as a bankruptcy judge in that district.”
+Vacancies.—The first vacancy in the office of bankruptcy judge in each of the judicial districts set forth in subsection (a), resulting from the death, retirement, resignation, or removal of a bankruptcy judge, and occurring 5 years or more after the appointment date of the judge named to fill the temporary judgeship position, shall not be filled. In the case of a vacancy resulting from the expiration of the term of a bankruptcy judge not described in the preceding sentence, that judge shall be eligible for reappointment as a bankruptcy judge in that district."
 
 #### Extension and Termination of Term of Office of Part-Time Bankruptcy Judge Serving on July 2, 1986, in District of Oregon, Western District of Michigan, and Eastern District of Oklahoma
 
-Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 718, provided that: “Notwithstanding the provisions of section 106(b)(1) of the Bankruptcy Amendments and Federal Judgeship Act of 1984 \[section 106(b)(1) of Pub. L. 98–353, set out below\], a bankruptcy judge serving on a part-time basis on the date of enactment of this Act \[July 2, 1986\] may continue to serve as a part-time judge for such district until December 31, 1986, or until such time as a full-time bankruptcy judge for such district is appointed, whichever is earlier: <i>Provided</i>, That these provisions shall apply only to part-time bankruptcy judges serving in the district of Oregon, the western district of Michigan, and the eastern district of Oklahoma.”
+Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 718, provided that: "Notwithstanding the provisions of section 106(b)(1) of the Bankruptcy Amendments and Federal Judgeship Act of 1984 \[section 106(b)(1) of Pub. L. 98–353, set out below\], a bankruptcy judge serving on a part-time basis on the date of enactment of this Act \[July 2, 1986\] may continue to serve as a part-time judge for such district until December 31, 1986, or until such time as a full-time bankruptcy judge for such district is appointed, whichever is earlier: <i>Provided</i>, That these provisions shall apply only to part-time bankruptcy judges serving in the district of Oregon, the western district of Michigan, and the eastern district of Oklahoma."
 
 #### Extension and Termination of Term of Office of Bankruptcy Judge and Part-Time Bankruptcy Judge Serving on July 10, 1984; Practice of Law by Part-Time Bankruptcy Judge
 
 Pub. L. 98–353, title I, §106, July 10, 1984, 98 Stat. 342, provided that:
 
-“(a) Notwithstanding section 152 of title 28, United States Code, as added by this Act, the term of office of a bankruptcy judge who is serving on the date of enactment of this Act \[July 10, 1984\] is extended to and expires four years after the date such bankruptcy judge was last appointed to such office or on October 1, 1986, whichever is later.
+"(a) Notwithstanding section 152 of title 28, United States Code, as added by this Act, the term of office of a bankruptcy judge who is serving on the date of enactment of this Act \[July 10, 1984\] is extended to and expires four years after the date such bankruptcy judge was last appointed to such office or on October 1, 1986, whichever is later.
 
-“(b)(1) Notwithstanding section 153(a) of title 28, United States Code, as added by this Act, and notwithstanding subsection (a) of this section, a bankruptcy judge serving on a part-time basis on the date of enactment of this Act \[July 10, 1984\] may continue to serve on such basis for a period not to exceed two years from the date of enactment of this Act \[July 10, 1984\].
+"(b)(1) Notwithstanding section 153(a) of title 28, United States Code, as added by this Act, and notwithstanding subsection (a) of this section, a bankruptcy judge serving on a part-time basis on the date of enactment of this Act \[July 10, 1984\] may continue to serve on such basis for a period not to exceed two years from the date of enactment of this Act \[July 10, 1984\].
 
-“(2) Notwithstanding the provisions of section 153(b) of title 28, United States Code, a bankruptcy judge serving on a part-time basis may engage in the practice of law but may not engage in any other practice, business, occupation, or employment inconsistent with the expeditious, proper, and impartial performance of such bankruptcy judge's duties as a judicial officer. The Judicial Conference of the United States may promulgate appropriate rules and regulations to implement this paragraph.”
+"(2) Notwithstanding the provisions of section 153(b) of title 28, United States Code, a bankruptcy judge serving on a part-time basis may engage in the practice of law but may not engage in any other practice, business, occupation, or employment inconsistent with the expeditious, proper, and impartial performance of such bankruptcy judge's duties as a judicial officer. The Judicial Conference of the United States may promulgate appropriate rules and regulations to implement this paragraph."
 
 #### Appointment To Fill Vacancies; Nominations; Qualifications
 
 Pub. L. 98–353, title I, §120, July 10, 1984, 98 Stat. 344, as amended by Pub. L. 99–554, title I, §102, Oct. 27, 1986, 100 Stat. 3089; Pub. L. 104–317, title III, §303, Oct. 19, 1996, 110 Stat. 3852, provided that:
 
-“(a)(1) Whenever a court of appeals is authorized to fill a vacancy that occurs on a bankruptcy court of the United States, such court of appeals shall appoint to fill that vacancy a person whose character, experience, ability, and impartiality qualify such person to serve in the Federal judiciary.
+"(a)(1) Whenever a court of appeals is authorized to fill a vacancy that occurs on a bankruptcy court of the United States, such court of appeals shall appoint to fill that vacancy a person whose character, experience, ability, and impartiality qualify such person to serve in the Federal judiciary.
 
-“(2) It is the sense of the Congress that the courts of appeals should consider for appointment under section 152 of title 28, United States Code, to the first vacancy which arises after the date of the enactment of this Act \[July 10, 1984\] in the office of each bankruptcy judge, the bankruptcy judge who holds such office immediately before such vacancy arises, if such bankruptcy judge requests to be considered for such appointment.
+"(2) It is the sense of the Congress that the courts of appeals should consider for appointment under section 152 of title 28, United States Code, to the first vacancy which arises after the date of the enactment of this Act \[July 10, 1984\] in the office of each bankruptcy judge, the bankruptcy judge who holds such office immediately before such vacancy arises, if such bankruptcy judge requests to be considered for such appointment.
 
-“(3) When filling vacancies, the court of appeals may consider reappointing incumbent bankruptcy judges under procedures prescribed by regulations issued by the Judicial Conference of the United States.
+"(3) When filling vacancies, the court of appeals may consider reappointing incumbent bankruptcy judges under procedures prescribed by regulations issued by the Judicial Conference of the United States.
 
-“(b) The judicial council of the circuit involved shall assist the court of appeals by evaluating potential nominees and by recommending to such court for consideration for appointment to each vacancy on the bankruptcy court persons who are qualified to be bankruptcy judges under regulations prescribed by the Judicial Conference of the United States. In the case of the first vacancy which arises after the date of the enactment of this Act \[July 10, 1984\] in the office of each bankruptcy judge, such potential nominees shall include the bankruptcy judge who holds such office immediately before such vacancy arises, if such bankruptcy judge requests to be considered for such appointment and the judicial council determines that such judge is qualified under subsection (c) of this section to continue to serve. Such potential nominees shall receive consideration equal to that given all other potential nominees for such position. All incumbent nominees seeking reappointment thereafter may be considered for such a reappointment, pursuant to a majority vote of the judges of the appointing court of appeals, under procedures authorized under subsection (a)(3).
+"(b) The judicial council of the circuit involved shall assist the court of appeals by evaluating potential nominees and by recommending to such court for consideration for appointment to each vacancy on the bankruptcy court persons who are qualified to be bankruptcy judges under regulations prescribed by the Judicial Conference of the United States. In the case of the first vacancy which arises after the date of the enactment of this Act \[July 10, 1984\] in the office of each bankruptcy judge, such potential nominees shall include the bankruptcy judge who holds such office immediately before such vacancy arises, if such bankruptcy judge requests to be considered for such appointment and the judicial council determines that such judge is qualified under subsection (c) of this section to continue to serve. Such potential nominees shall receive consideration equal to that given all other potential nominees for such position. All incumbent nominees seeking reappointment thereafter may be considered for such a reappointment, pursuant to a majority vote of the judges of the appointing court of appeals, under procedures authorized under subsection (a)(3).
 
-“(c) Before transmitting to the court of appeals the names of the persons the judicial council for the circuit deems best qualified to fill any existing vacancy, the judicial council shall have determined that—
+"(c) Before transmitting to the court of appeals the names of the persons the judicial council for the circuit deems best qualified to fill any existing vacancy, the judicial council shall have determined that—
 
-&emsp;“(1) public notice of such vacancy has been given and an effort has been made, in the case of each such vacancy, to identify qualified candidates, without regard to race, color, sex, religion, or national origin,
+&emsp;"(1) public notice of such vacancy has been given and an effort has been made, in the case of each such vacancy, to identify qualified candidates, without regard to race, color, sex, religion, or national origin,
 
-&emsp;“(2) such persons are members in good standing of at least one State bar, the District of Columbia bar, or the bar of the Commonwealth of Puerto Rico, and members in good standing of every other bar of which they are members,
+&emsp;"(2) such persons are members in good standing of at least one State bar, the District of Columbia bar, or the bar of the Commonwealth of Puerto Rico, and members in good standing of every other bar of which they are members,
 
-&emsp;“(3) such persons possess, and have a reputation for, integrity and good character,
+&emsp;"(3) such persons possess, and have a reputation for, integrity and good character,
 
-&emsp;“(4) such persons are of sound physical and mental health,
+&emsp;"(4) such persons are of sound physical and mental health,
 
-&emsp;“(5) such persons possess and have demonstrated commitment to equal justice under law,
+&emsp;"(5) such persons possess and have demonstrated commitment to equal justice under law,
 
-&emsp;“(6) such persons possess and have demonstrated outstanding legal ability and competence, as evidenced by substantial legal experience, ability to deal with complex legal problems, aptitude for legal scholarship and writing, and familiarity with courts and court processes, and
+&emsp;"(6) such persons possess and have demonstrated outstanding legal ability and competence, as evidenced by substantial legal experience, ability to deal with complex legal problems, aptitude for legal scholarship and writing, and familiarity with courts and court processes, and
 
-&emsp;“(7) such persons demeanor, character, and personality indicate that they would exhibit judicial temperament if appointed to the position of United States bankruptcy judge.”
+&emsp;"(7) such persons demeanor, character, and personality indicate that they would exhibit judicial temperament if appointed to the position of United States bankruptcy judge."
 

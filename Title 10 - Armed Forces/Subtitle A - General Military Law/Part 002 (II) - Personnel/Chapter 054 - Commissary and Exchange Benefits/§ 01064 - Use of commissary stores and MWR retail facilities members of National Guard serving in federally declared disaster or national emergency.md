@@ -14,15 +14,15 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Federally declared disaster.—The term “federally declared disaster” means a disaster or other situation for which a Presidential declaration of major disaster is issued under section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170).
+Federally declared disaster.—The term "federally declared disaster" means a disaster or other situation for which a Presidential declaration of major disaster is issuedunder section 401 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170).
 
 &emsp;(2)
 
-MWR retail facilities.—The term “MWR retail facilities” has the meaning given that term in section 1063(e) of this title.
+MWR retail facilities.—The term "MWR retail facilities" has the meaning given that term in section 1063(e) of this title.
 
 &emsp;(3)
 
-National emergency.—The term “national emergency” means a national emergency declared by the President or Congress.
+National emergency.—The term "national emergency" means a national emergency declared by the President or Congress.
 
 (Added Pub. L. 105–261, div. A, title III, §362(c), Oct. 17, 1998, 112 Stat. 1985, §1063a; amended Pub. L. 107–314, div. A, title III, §322(a), (b)(1), Dec. 2, 2002, 116 Stat. 2510; renumbered §1064 and amended Pub. L. 108–136, div. A, title VI, §651(b)(2), (3), Nov. 24, 2003, 117 Stat. 1521.)
 
@@ -34,11 +34,11 @@ A prior section 1064, added Pub. L. 101–510, div. A, title III, §321(b), Nov.
 
 <b>2003</b>—Pub. L. 108–136, §651(b)(3), renumbered section 1063a of this title as this section.
 
-Subsec. (c)(2). Pub. L. 108–136, §651(b)(2), substituted “section 1063(e)” for “section 1065(e)”.
+Subsec. (c)(2). Pub. L. 108–136, §651(b)(2), substituted "section 1063(e)" for "section 1065(e)".
 
-<b>2002</b>—Pub. L. 107–314, §322(b)(1), inserted “or national emergency” after “disaster” in section catchline.
+<b>2002</b>—Pub. L. 107–314, §322(b)(1), inserted "or national emergency" after "disaster" in section catchline.
 
-Subsec. (a). Pub. L. 107–314, §322(a)(1), inserted “or national emergency” after “disaster”.
+Subsec. (a). Pub. L. 107–314, §322(a)(1), inserted "or national emergency" after "disaster".
 
 Subsec. (c)(3). Pub. L. 107–314, §322(a)(2), added par. (3).
 

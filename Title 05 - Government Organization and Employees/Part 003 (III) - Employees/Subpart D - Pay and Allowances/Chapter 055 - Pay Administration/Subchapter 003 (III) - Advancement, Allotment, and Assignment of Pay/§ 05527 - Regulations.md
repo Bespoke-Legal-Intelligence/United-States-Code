@@ -48,7 +48,7 @@ Section 1. As used in this order:
 
 (a) The term “the act” means the act of September 26, 1961 (Public Law 87–304), 75 Stat. 662 \[now this subchapter\].
 
-(b) The term “Federal agency” means any executive department of the Government of the United States ofAmerica, any agency or independent establishment in the executive branch of the Government, and any corporation wholly owned or controlled by the Government.
+(b) The term “Federal agency” means any executive department of the Government of the United States of America, any agency or independent establishment in the executive branch of the Government, and any corporation wholly owned or controlled by the Government.
 
 (c) The term “foreign area” means any area (including the Trust Territory of the Pacific Islands) situated outside (1) the United States (including the District of Columbia), (2) the Commonwealth of Puerto Rico, (3) the Canal Zone, and (4) any territory or possession of the United States.
 

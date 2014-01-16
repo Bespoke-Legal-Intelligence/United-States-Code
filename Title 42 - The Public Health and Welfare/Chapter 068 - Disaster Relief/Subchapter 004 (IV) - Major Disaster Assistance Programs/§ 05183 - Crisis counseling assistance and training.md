@@ -10,5 +10,5 @@ A prior section 416 of Pub. L. 93–288 was renumbered section 419 by Pub. L. 10
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–707 struck out “(through the National Institute of Mental Health)” after “authorized”.
+<b>1988</b>—Pub. L. 100–707 struck out "(through the National Institute of Mental Health)" after "authorized".
 

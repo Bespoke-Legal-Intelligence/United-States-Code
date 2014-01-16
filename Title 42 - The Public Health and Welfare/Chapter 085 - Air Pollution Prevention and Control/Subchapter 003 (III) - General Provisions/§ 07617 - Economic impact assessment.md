@@ -62,7 +62,7 @@ The requirements imposed on the Administrator under this section shall be treate
 
 In the case of any provision of this chapter in which costs are expressly required to be taken into account, the adequacy or inadequacy of any assessment required under this section may be taken into consideration, but shall not be treated for purposes of judicial review of any such provision as conclusive with respect to compliance or noncompliance with the requirement of such provision to take cost into account.
 
-(July 14, 1955, ch. 360, title III, §317, as added Pub. L. 95–95, title III, §307, Aug. 7, 1977, 91 Stat. 778; amended Pub. L. 95–623, §13(d), Nov. 9, 1978, 92 Stat. 3458.)
+(July 14, 1955, ch. 360, title III, §317, as added Pub. L. 95–95, title III, §307, Aug. 7, 1977, 91 Stat.778; amended Pub. L. 95–623, §13(d), Nov. 9, 1978, 92 Stat. 3458.)
 
 #### References in Text
 
@@ -74,7 +74,7 @@ Another section 317 of act July 14, 1955, is set out as a Short Title note under
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a)(1). Pub. L. 95–623 substituted “section 7411” for “section 7411(b)”.
+<b>1978</b>—Subsec. (a)(1). Pub. L. 95–623 substituted "section 7411" for "section 7411(b)".
 
 #### Effective Date
 

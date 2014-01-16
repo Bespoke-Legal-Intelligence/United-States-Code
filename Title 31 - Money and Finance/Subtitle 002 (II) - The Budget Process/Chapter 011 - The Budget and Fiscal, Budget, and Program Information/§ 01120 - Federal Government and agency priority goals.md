@@ -48,7 +48,7 @@ Federal Government Priority Goals.—
 
 Agency Priority Goals.—
 
-&emsp;(1) Every 2 years, the head of each agency listed in section 901(b) of this title, or as otherwise determined by the Director of the Office of Management and Budget, shall identify agency priority goals from among the performance goals of the agency. The Director ofthe Office of Management and Budget shall determine the total number of agency priority goals across the Government, and the number to be developed by each agency. The agency priority goals shall—
+&emsp;(1) Every 2 years, the head of each agency listed in section 901(b) of this title, or as otherwise determined by the Director of the Office of Management and Budget, shall identify agency priority goals from among the performance goals of the agency. The Director of the Office of Management and Budget shall determine the total number of agency priority goals across the Government, and the number to be developed by each agency. The agency priority goals shall—
 
 &emsp;&emsp;(A) reflect the highest priorities of the agency, as determined by the head of the agency and informed by the Federal Government priority goals provided under subsection (a) and the consultations with Congress and other interested parties required by section 306(d) of title 5;
 

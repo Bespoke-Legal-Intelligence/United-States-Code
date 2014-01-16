@@ -14,3 +14,95 @@ The President shall issue rules which provide for the fair and impartial conside
 
 (Pub. L. 93–288, title IV, §423, as added Pub. L. 100–707, title I, §106(l), Nov. 23, 1988, 102 Stat. 4705.)
 
+#### Dispute Resolution Pilot Program
+
+Pub. L. 113–2, div. B, §1105, Jan. 29, 2013, 127 Stat. 43, provided that:
+
+"(a)
+
+Definitions.—In this section, the following definitions apply:
+
+&emsp;"(1)
+
+Administrator.—The term 'Administrator' means the Administrator of the Federal Emergency Management Agency.
+
+&emsp;"(2)
+
+Eligible assistance.—The term 'eligible assistance' means assistance—
+
+&emsp;&emsp;"(A) under section 403, 406, or 407 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5170b, 5172, 5173);
+
+&emsp;&emsp;"(B) for which the legitimate amount in dispute is not less than $1,000,000, which sum the Administrator shall adjust annually to reflect changes in the Consumer Price Index for all Urban Consumers published by the Department of Labor;
+
+&emsp;&emsp;"(C) for which the applicant has a non-Federal share; and
+
+&emsp;&emsp;"(D) for which the applicant has received a decision on a first appeal.
+
+"(b)
+
+Procedures.—
+
+&emsp;"(1)
+
+In general.—Not later than 180 days after the date of enactment of this section \[Jan. 29, 2013\], and in order to facilitate an efficient recovery from major disasters, the Administrator shall establish procedures under which an applicant may request the use of alternative dispute resolution, including arbitration by an independent review panel, to resolve disputes relating to eligible assistance.
+
+&emsp;"(2)
+
+Binding effect.—A decision by an independent review panel under this section shall be binding upon the parties to the dispute.
+
+&emsp;"(3)
+
+Considerations.—The procedures established under this section shall—
+
+&emsp;&emsp;"(A) allow a party of a dispute relating to eligible assistance to request an independent review panel for the review;
+
+&emsp;&emsp;"(B) require a party requesting an independent review panel as described in subparagraph (A) to agree to forgo rights to any further appeal of the dispute relating to any eligible assistance;
+
+&emsp;&emsp;"(C) require that the sponsor of an independent review panel for any alternative dispute resolution under this section be—
+
+&emsp;&emsp;&emsp;"(i) an individual or entity unaffiliated with the dispute (which may include a Federal agency, an administrative law judge, or a reemployed annuitant who was an employee of the Federal Government) selected by the Administrator; and
+
+&emsp;&emsp;&emsp;"(ii) responsible for identifying and maintaining an adequate number of independent experts qualified to review and resolve disputes under this section;
+
+&emsp;&emsp;"(D) require an independent review panel to—
+
+&emsp;&emsp;&emsp;"(i) resolve any remaining disputed issue in accordance with all applicable laws, regulations, and Agency interpretations of those laws through its published policies and guidance;
+
+&emsp;&emsp;&emsp;"(ii) consider only evidence contained in the administrative record, as it existed at the time at which the Agency made its initial decision;
+
+&emsp;&emsp;&emsp;"(iii) only set aside a decision of the Agency found to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law; and
+
+&emsp;&emsp;&emsp;"(iv) in the case of a finding of material fact adverse to the claimant made on first appeal, only set aside or reverse such finding if the finding is clearly erroneous;
+
+&emsp;&emsp;"(E) require an independent review panel to expeditiously issue a written decision for any alternative dispute resolution under this section; and
+
+&emsp;&emsp;"(F) direct that if an independent review panel for any alternative dispute resolution under this section determines that the basis upon which a party submits a request for alternative dispute resolution is frivolous, the independent review panel shall direct the party to pay the reasonable costs to the Federal Emergency Management Agency relating to the review by the independent review panel. Any funds received by the Federal Emergency Management Agency under the authority of this section shall be deposited to the credit of the appropriation or appropriations available for the eligible assistance in dispute on the date on which the funds are received.
+
+"(c)
+
+Sunset.—A request for review by an independent review panel under this section may not be made after December 31, 2015.
+
+"(d)
+
+Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 270 days after the termination of authority under this section under subsection (c), the Comptroller General of the UnitedStates shall submit to the Committee on Homeland Security and Governmental Affairs of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report analyzing the effectiveness of the program under this section.
+
+&emsp;"(2)
+
+Contents.—The report submitted under paragraph (1) shall include—
+
+&emsp;&emsp;"(A) a determination of the availability of data required to complete the report;
+
+&emsp;&emsp;"(B) an assessment of the effectiveness of the program under this section, including an assessment of whether the program expedited or delayed the disaster recovery process;
+
+&emsp;&emsp;"(C) an assessment of whether the program increased or decreased costs to administer section 403, 406, or 407 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5170b, 5172, 5173\];
+
+&emsp;&emsp;"(D) an assessment of the procedures and safeguards that the independent review panels established to ensure objectivity and accuracy, and the extent to which they followed those procedures and safeguards;
+
+&emsp;&emsp;"(E) a recommendation as to whether any aspect of the program under this section should be made a permanent authority; and
+
+&emsp;&emsp;"(F) recommendations for any modifications to the authority or the administration of the authority under this section in order to improve the disaster recovery process."
+

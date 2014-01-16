@@ -11,4 +11,4 @@
 - [&sect; 03796cc&#8211;3 - Local applications](%C2%A7%2003796cc%E2%80%933%20-%20Local%20applications.md)
 - [&sect; 03796cc&#8211;4 - Distribution of funds](%C2%A7%2003796cc%E2%80%934%20-%20Distribution%20of%20funds.md)
 - [&sect; 03796cc&#8211;5 - Evaluation](%C2%A7%2003796cc%E2%80%935%20-%20Evaluation.md)
-- [&sect; 03796cc&#8211;6 - &#8220;Local entity&#8221; defined](%C2%A7%2003796cc%E2%80%936%20-%20%E2%80%9CLocal%20entity%E2%80%9D%20defined.md)
+- [&sect; 03796cc&#8211;6 - Local entity defined](%C2%A7%2003796cc%E2%80%936%20-%20Local%20entity%20defined.md)

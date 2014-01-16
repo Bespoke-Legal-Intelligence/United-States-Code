@@ -18,7 +18,7 @@ There is established within the Department an independent regulatory commission 
 
 #### (c) Duties and responsibilities of Chairman
 
-The Chairman shall be responsible on behalf of the Commission for the executive and administrative operation of the Commission, including functions of the Commission with respect to (1) the appointment and employment of hearing examiners in accordance with the provisions of title 5, (2) the selection, appointment, and fixing of the compensation of such personnel as he deems necessary, including an executive director, (3) the supervision of personnel employed by or assigned to the Commission, except that each member of the Commission may select and supervise personnel for his personal staff, (4) the distribution of business among personnel and among administrative units of the Commission, and (5) the procurement of services of experts and consultants in accordance with section 3109 of title 5. The Secretary shall provide to the Commission such support and facilities as the Commission determines it needs to carry out its functions.
+The Chairman shall be responsible on behalf of the Commission for the executive and administrative operation of the Commission, including functions of the Commission with respect to (1)the appointment and employment of hearing examiners in accordance with the provisions of title 5, (2) the selection, appointment, and fixing of the compensation of such personnel as he deems necessary, including an executive director, (3) the supervision of personnel employed by or assigned to the Commission, except that each member of the Commission may select and supervise personnel for his personal staff, (4) the distribution of business among personnel and among administrative units of the Commission, and (5) the procurement of services of experts and consultants in accordance with section 3109 of title 5. The Secretary shall provide to the Commission such support and facilities as the Commission determines it needs to carry out its functions.
 
 #### (d) Supervision and direction of members, employees, or other personnel of Commission
 
@@ -38,7 +38,7 @@ In carrying out any of its functions, the Commission shall have the powers autho
 
 #### (h) Principal office of Commission
 
-The principal office of the Commission shall be in or near the District of Columbia, where itsgeneral sessions shall be held, but the Commission may sit anywhere in the United States.
+The principal office of the Commission shall be in or near the District of Columbia, where its general sessions shall be held, but the Commission may sit anywhere in the United States.
 
 #### (i) Commission deemed agency; attorney for Commission
 
@@ -52,39 +52,39 @@ In each annual authorization and appropriation request under this chapter, the S
 
 #### References in Text
 
-This chapter, referred to in subsecs. (i) and (j), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in subsecs. (i) and (j), was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–271 designated existing provisions as par. (1), substituted “5 years” for “four years”, struck out after third sentence “The terms of the members first taking office shall expire (as designated by the President at the time of appointment), two at the end of two years, two at the end of three years, and one at the end of four years.”, substituted “A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has been confirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires.” for “A Commissioner may continue to serve after the expiration of his term until his successor has taken office, except that he may not so continue to serve for more than one year after the date on which his term would otherwise expire under this subsection.”, and added par. (2).
+<b>1990</b>—Subsec. (b). Pub. L. 101–271 designated existing provisions as par. (1), substituted "5 years" for "four years", struck out after third sentence "The terms of the members first taking office shall expire (as designated by the President at the time of appointment), two at the end of two years, two at the end of three years, and one at the end of four years.", substituted "A Commissioner may continue to serve after the expiration of his term until his successor is appointed and has been confirmed and taken the oath of Office, except that such Commissioner shall not serve beyond the end of the session of the Congress in which such term expires." for "A Commissioner may continue to serve after the expiration of his term until his successor has taken office, except that he may not so continue to serve for more than one year after the date on which his term would otherwise expire under this subsection.", and added par. (2).
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–271, §2(c), Apr. 11, 1990, 104 Stat. 136, provided that: “The amendments made by this section \[amending this section\] apply only to persons appointed or reappointed as members of the Federal Energy Regulatory Commission after the date of enactment of this Act \[Apr. 11, 1990\].”
+Pub. L. 101–271, §2(c), Apr. 11, 1990, 104 Stat. 136, provided that: "The amendments made by this section \[amending this section\] apply only to persons appointed or reappointed as members of the Federal Energy Regulatory Commission after the date of enactment of this Act \[Apr. 11, 1990\]."
 
 #### Renewable Energy and Energy Conservation Incentives
 
 Pub. L. 101–549, title VIII, §808, Nov. 15, 1990, 104 Stat. 2690, provided that:
 
-“(a)
+"(a)
 
-Definition.—For purposes of this section, ‘renewable energy’ means energy from photovoltaic, solar thermal, wind, geothermal, and biomass energy production technologies.
+Definition.—For purposes of this section, 'renewable energy' means energy from photovoltaic, solar thermal, wind, geothermal, and biomass energy production technologies.
 
-“(b)
+"(b)
 
 Rate Incentives Study.—Within 18 months after enactment \[Nov. 15, 1990\], the Federal Energy Regulatory Commission, in consultation with the Environmental Protection Agency, shall complete a study which calculates the net environmental benefits of renewable energy, compared to nonrenewable energy, and assigns numerical values to them. The study shall include, but not be limited to, environmental impacts on air, water, land use, water use, human health, and waste disposal.
 
-“(c)
+"(c)
 
 Model Regulations.—In conjunction with the study in subsection (b), the Commission shall propose one or more models for incorporating the net environmental benefits into the regulatory treatment of renewable energy in order to provide economic compensation for those benefits.
 
-“(d)
+"(d)
 
-Report.—The Commission shall transmit the study and the model regulations to Congress, along with any recommendations on the best ways to reward renewable energy technologies for their environmental benefits, in a report no later than 24 months after enactment \[Nov. 15, 1990\].”
+Report.—The Commission shall transmit the study and the model regulations to Congress, along with any recommendations on the best ways to reward renewable energy technologies for their environmental benefits, in a report no later than 24 months after enactment \[Nov. 15, 1990\]."
 
 #### Retention and Use of Revenues From Licensing Fees, Inspection Services, and Other Services and Collections; Reduction To Achieve Final Fiscal Year Appropriation
 
-Pub. L. 99–500, §101(e) \[title III\], Oct. 18, 1986, 100 Stat. 1783–194, 1783–208, and Pub. L. 99–591, §101(e) \[title III\], Oct. 30, 1986, 100 Stat. 3341–194, 3341–208, provided in part: “That hereafter and notwithstanding any other provision of law revenues from licensing fees, inspection services, and other services and collections, estimated at $78,754,000 in fiscal year 1987, may be retained and used for necessary expenses in this account, and may remain available until expended: <i>Provided further</i>, That the sum herein appropriated shall be reduced as revenues are received during fiscal year 1987, so as to result in a final fiscal year 1987 appropriation estimated at not more than $20,325,000.”
+Pub. L. 99–500, §101(e) \[title III\], Oct. 18, 1986, 100 Stat. 1783–194, 1783–208, and Pub. L. 99–591, §101(e) \[title III\], Oct. 30, 1986, 100 Stat. 3341–194, 3341–208, provided in part: "That hereafter and notwithstanding any other provision of law revenues from licensing fees, inspection services, and other services and collections, estimated at $78,754,000 in fiscal year 1987, may be retained and used for necessary expenses in this account, and may remain available until expended: <i>Provided further</i>, That the sum herein appropriated shall be reduced as revenues are received during fiscal year 1987, so as to result in a final fiscal year 1987 appropriation estimated at not more than $20,325,000."
 
 Similar provisions were contained in the following appropriation acts:
 

@@ -10,5 +10,5 @@ The Administrator of General Services, with respect to standards issued under se
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–541, in introductory text, inserted reference to the United States Postal Service with respect to standards issued under section 4154a of this title and struck out “is authorized” at end; in par. (1), inserted introductory words “is authorized”; and in par. (2), substituted “shall establish a system of continuing surveys and investigations” for “to conduct such surveys and investigations as he deems necessary”.
+<b>1976</b>—Pub. L. 94–541, in introductory text, inserted reference to the United States Postal Service with respect to standards issued under section 4154a of this title and struck out "is authorized" at end; in par. (1), inserted introductory words "is authorized"; and in par. (2), substituted "shall establish a system of continuing surveys and investigations" for "to conduct such surveys and investigations as he deems necessary".
 

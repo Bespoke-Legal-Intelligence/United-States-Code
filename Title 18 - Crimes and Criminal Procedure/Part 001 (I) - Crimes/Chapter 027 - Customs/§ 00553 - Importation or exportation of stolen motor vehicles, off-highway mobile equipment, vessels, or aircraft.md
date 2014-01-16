@@ -18,15 +18,15 @@
 
 (c) As used in this section, the term—
 
-&emsp;(1) “motor vehicle” has the meaning given that term in section 32101 of title 49;
+&emsp;(1) "motor vehicle" has the meaning given that term in section 32101 of title 49;
 
-&emsp;(2) “off-highway mobile equipment” means any self-propelled agricultural equipment, self-propelled construction equipment, and self-propelled special use equipment, used or designed for running on land but not on rail or highway;
+&emsp;(2) "off-highway mobile equipment" means any self-propelled agricultural equipment, self-propelled construction equipment, and self-propelled special use equipment, used or designed for running on land but not on rail or highway;
 
-&emsp;(3) “vessel” has the meaning given that term in section 401 of the Tariff Act of 1930 (19 U.S.C. 1401);
+&emsp;(3) "vessel" has the meaning given that term in section 401 of the Tariff Act of 1930 (19 U.S.C. 1401);
 
-&emsp;(4) “aircraft” has the meaning given that term in section 40102(a) of title 49; and
+&emsp;(4) "aircraft" has the meaning given that term in section 40102(a) of title 49; and
 
-&emsp;(5) “identification number”—
+&emsp;(5) "identification number"—
 
 &emsp;&emsp;(A) in the case of a motor vehicle, has the meaning given that term in section 511 of this title; and
 
@@ -36,11 +36,11 @@
 
 #### Amendments
 
-<b>1994</b>—Subsec. (c)(1). Pub. L. 103–272, §5(e)(5)(A), substituted “section 32101 of title 49” for “section 2 of the Motor Vehicle Information and Cost Savings Act”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–272, §5(e)(5)(A), substituted "section 32101 of title 49" for "section 2 of the Motor Vehicle Information and Cost Savings Act".
 
-Subsec. (c)(4). Pub. L. 103–272, §5(e)(5)(B), substituted “section 40102(a) of title 49” for “section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)”.
+Subsec. (c)(4). Pub. L. 103–272, §5(e)(5)(B), substituted "section 40102(a) of title 49" for "section 101 of the Federal Aviation Act of 1958 (49 U.S.C. App. 1301)".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–519 substituted “fined under this title or imprisoned not more than 10 years” for “fined not more than $15,000 or imprisoned not more than five years” in concluding provisions.
+<b>1992</b>—Subsec. (a). Pub. L. 102–519 substituted "fined under this title or imprisoned not more than 10 years" for "fined not more than $15,000 or imprisoned not more than five years" in concluding provisions.
 
-<b>1988</b>—Subsec. (b)(2). Pub. L. 100–690 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “is not a violation of section 511 of this title.”
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–690 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "is not a violation of section 511 of this title."
 

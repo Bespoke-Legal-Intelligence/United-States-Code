@@ -12,13 +12,13 @@ The Corporation shall conduct a study and submit a report to the authorizing com
 
 &emsp;(4) how existing programs and activities carried out under the national service laws could be improved to serve veterans, veterans service organizations, families of active-duty military, including gaps in services to veterans;
 
-&emsp;(5) the extent to which existing programs and activities carried out under the national service laws are coordinated and recommendations to improve such coordination includingthe methods for ensuring the efficient financial organization of services directed towards veterans; and
+&emsp;(5) the extent to which existing programs and activities carried out under the national service laws are coordinated and recommendations to improve such coordination including the methods for ensuring the efficient financial organization of services directed towards veterans; and
 
 &emsp;(6) how to improve utilization of veterans as resources and volunteers.
 
 #### (b) Consultation
 
-In conducting the studies and preparing the reports required under this subsection, the Corporation shall consult with veterans’ service organizations, the Secretary of Veterans Affairs, State veterans agencies, the Secretary of Defense, as appropriate, and other individuals and entities the Corporation considers appropriate.
+In conducting the studies and preparing the reports required under this subsection, the Corporation shall consult with veterans' service organizations, the Secretary of Veterans Affairs, State veterans agencies, the Secretary of Defense, as appropriate, and other individuals and entities the Corporation considers appropriate.
 
 (Pub. L. 101–610, title I, §196C, as added Pub. L. 111–13, title I, §1709, Apr. 21, 2009, 123 Stat. 1549.)
 

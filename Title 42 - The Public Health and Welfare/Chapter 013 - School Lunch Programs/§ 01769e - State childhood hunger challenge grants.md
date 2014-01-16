@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Child
 
-&emsp;The term “child” means a person under the age of 18.
+&emsp;The term "child" means a person under the age of 18.
 
 #### (2) Supplemental nutrition assistance program
 
-&emsp;The term “supplemental nutrition assistance program” means the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.).
+&emsp;The term "supplemental nutrition assistance program" means the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.).
 
 #### (b) Purpose
 
@@ -34,7 +34,7 @@ State demonstration projects carried out under this section may include projects
 
 #### (1) In general
 
-&emsp;In carrying out this section, the Secretary may competitively award grants or enter into competitively awarded cooperative agreements with Governors for use in accordance with demonstration projects that meet the purposes of this section.
+&emsp;In carrying out this section, the Secretary may competitively award grants or enter into competitively awarded cooperative agreements with Governors for use in accordancewith demonstration projects that meet the purposes of this section.
 
 #### (2) Application
 

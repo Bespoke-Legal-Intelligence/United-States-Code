@@ -2,7 +2,7 @@
 
 #### (a) Establishment and purpose
 
-The Director of the Centers for Disease Control and Prevention shall convene an independent Community Preventive Services Task Force (referred to in this subsection as the “Task Force”) to be composed of individuals with appropriate expertise. Such Task Force shall review the scientific evidence related to the effectiveness, appropriateness, and cost-effectiveness of community preventive interventions for the purpose of developing recommendations, to be published in the Guide to Community Preventive Services (referred to in this section as the “Guide”), for individuals and organizations delivering population-based services, including primary care professionals, health care systems, professional societies, employers, community organizations, non-profit organizations, schools, governmental public health agencies, Indian tribes, tribal organizations and urban Indian organizations, medical groups, Congress and other policy-makers. Community preventive services include any policies, programs, processes or activities designed to affect or otherwise affecting health at the population level.
+The Director of the Centers for Disease Control and Prevention shall convene an independent Community Preventive Services Task Force (referred to in this subsection as the "Task Force") to be composed of individuals with appropriate expertise. Such Task Force shall review the scientific evidence related to the effectiveness, appropriateness, and cost-effectiveness of community preventive interventions for the purpose of developing recommendations, to be published in the Guide to Community Preventive Services (referred to in this section as the "Guide"), for individuals and organizations delivering population-based services, including primary care professionals, health care systems, professional societies, employers, community organizations, non-profit organizations, schools, governmental public health agencies, Indian tribes, tribal organizations and urban Indian organizations, medical groups, Congress and other policy-makers. Community preventive services include any policies, programs, processes or activities designed to affect or otherwise affecting health at the population level.
 
 #### (b) Duties
 
@@ -22,7 +22,7 @@ The duties of the Task Force shall include—
 
 #### (c) Role of agency
 
-The Director shall provide ongoing administrative, research, and technical support for the operations of the Task Force, including coordinating and supporting the dissemination of the recommendations of the Task Force, ensuring adequate staff resources, and assistance to thoseorganizations requesting it for implementation of Guide recommendations.
+The Director shall provide ongoing administrative, research, and technical support for the operations of the Task Force, including coordinating and supporting the dissemination of the recommendations of the Task Force, ensuring adequate staff resources, and assistance to those organizations requesting it for implementation of Guide recommendations.
 
 #### (d) Coordination with Preventive Services Task Force
 
@@ -42,5 +42,5 @@ There are authorized to be appropriated such sums as may be necessary for each f
 
 Appendix 2 of title 5, referred to in subsec. (e), probably means the Federal Advisory Committee Act, Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "of".</i>
 

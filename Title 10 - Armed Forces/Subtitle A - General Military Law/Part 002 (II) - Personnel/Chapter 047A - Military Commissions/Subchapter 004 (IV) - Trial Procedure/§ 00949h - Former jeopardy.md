@@ -6,7 +6,7 @@ In General.—No person may, without the person's consent, be tried by a militar
 
 (b)
 
-Scope of Trial.—No proceeding in which the accused has been found guilty by military commission under this chapter upon any charge or specification is a trial in the sense of this section until the finding of guilty has become final after review of the case has been fully completed.
+Scope of Trial.—No proceeding in which the accused has been found guilty by military commission under this chapter upon any chargeor specification is a trial in the sense of this section until the finding of guilty has become final after review of the case has been fully completed.
 
 (Added Pub. L. 111–84, div. A, title XVIII, §1802, Oct. 28, 2009, 123 Stat. 2587.)
 

@@ -48,55 +48,55 @@ Committee on Science of House of Representatives changed to Committee on Science
 
 Pub. L. 107–277, Nov. 5, 2002, 116 Stat. 1936, provided that:
 
-#### “SECTION. 1. SHORT TITLE.
+#### "SECTION. 1. SHORT TITLE.
 
-“This Act \[enacting this section and this note\] may be cited as the ‘Enterprise Integration Act of 2002’.
+"This Act \[enacting this section and this note\] may be cited as the 'Enterprise Integration Act of 2002'.
 
-#### “SEC. 2. FINDINGS.
+#### "SEC. 2. FINDINGS.
 
-“The Congress makes the following findings:
+"The Congress makes the following findings:
 
-&emsp;“(1) Over 90 percent of United States companies engaged in manufacturing are small- and medium-sized businesses.
+&emsp;"(1) Over 90 percent of United States companies engaged in manufacturing are small- and medium-sized businesses.
 
-&emsp;“(2) Most of these manufacturers produce goods for assemblage into products of large companies.
+&emsp;"(2) Most of these manufacturers produce goods for assemblage into products of large companies.
 
-&emsp;“(3) The emergence of the World Wide Web and the promulgation of international standards for product data exchange greatly accelerated the movement toward electronically integrated supply chains during the last half of the 1990's.
+&emsp;"(3) The emergence of the World Wide Web and the promulgation of international standards for product data exchange greatly accelerated the movement toward electronically integrated supply chains during the last half of the 1990's.
 
-&emsp;“(4) European and Asian countries are investing heavily in electronic enterprise standards development, and in preparing their smaller manufacturers to do business in the new environment. European efforts are well advanced in the aerospace, automotive, and shipbuilding industries and are beginning in other industries including home building, furniture manufacturing, textiles, and apparel. This investment could give overseas companies a major competitive advantage.
+&emsp;"(4) European and Asian countries are investing heavily in electronic enterprise standards development, and in preparing their smaller manufacturers to do business in the new environment. European efforts are well advanced in the aerospace, automotive, and shipbuilding industries and are beginning in other industries including home building, furniture manufacturing, textiles, and apparel. This investment could give overseas companies a major competitive advantage.
 
-&emsp;“(5) The National Institute of Standards and Technology, because of the electronic commerce expertise in its laboratories and quality program, its long history of working cooperatively with manufacturers, and the nationwide reach of its manufacturing extension program, is in a unique position to help United States large and smaller manufacturers alike in their responses to this challenge.
+&emsp;"(5) The National Institute of Standards and Technology, because of the electronic commerce expertise in its laboratories and quality program, its long history of working cooperatively with manufacturers, and the nationwide reach of its manufacturing extension program, is in a unique position to help United States large and smaller manufacturers alike in their responses to this challenge.
 
-&emsp;“(6) It is, therefore, in the national interest for the National Institute of Standards and Technology to accelerate its efforts in helping industry develop standards and enterprise integration processes that are necessary to increase efficiency and lower costs.
+&emsp;"(6) It is, therefore, in the national interest for the National Institute of Standards and Technology to accelerate its efforts in helping industry develop standards and enterprise integration processes that are necessary to increase efficiency and lower costs.
 
-#### “SEC. 3. ENTERPRISE INTEGRATION INITIATIVE.
+#### "SEC. 3. ENTERPRISE INTEGRATION INITIATIVE.
 
 \[Enacted this section.\]
 
-#### “SEC. 4. DEFINITIONS.
+#### "SEC. 4. DEFINITIONS.
 
-“For purposes of this Act—
+"For purposes of this Act—
 
-&emsp;“(1) the term ‘automotive’ means land-based engine-powered vehicles including automobiles, trucks, busses, trains, defense vehicles, farm equipment, and motorcycles;
+&emsp;"(1) the term 'automotive' means land-based engine-powered vehicles including automobiles, trucks, busses, trains, defense vehicles, farm equipment, and motorcycles;
 
-&emsp;“(2) the term ‘Director’ means the Director of the National Institute of Standards and Technology;
+&emsp;"(2) the term 'Director' means the Director of the National Institute of Standards and Technology;
 
-&emsp;“(3) the term ‘enterprise integration’ means the electronic linkage of manufacturers, assemblers, suppliers, and customers to enable the electronic exchange of product, manufacturing, and other business data among all partners in a product supply chain, and such term includes related application protocols and other related standards;
+&emsp;"(3) the term 'enterprise integration' means the electronic linkage of manufacturers, assemblers, suppliers, and customers to enable the electronic exchange of product, manufacturing, and other business data among all partners in a product supply chain, and such term includes related application protocols and other related standards;
 
-&emsp;“(4) the term ‘major manufacturing industry’ includes the aerospace, automotive, electronics, shipbuilding, construction, home building, furniture, textile, and apparel industries and such other industries as the Director designates; and
+&emsp;"(4) the term 'major manufacturing industry' includes the aerospace, automotive, electronics, shipbuilding, construction, home building, furniture, textile, and apparel industries and such other industries as the Director designates; and
 
-&emsp;“(5) the term ‘roadmap’ means an assessment of manufacturing interoperability requirements developed by an industry describing that industry's goals related to enterprise integration, the knowledge and standards including application protocols necessary to achieve those goals, and the necessary steps, timetable, and assignment of responsibilities for acquiring the knowledge and developing the standards and protocols.
+&emsp;"(5) the term 'roadmap' means an assessment of manufacturing interoperability requirements developed by an industry describing that industry's goals related to enterprise integration, the knowledge and standards including application protocols necessary to achieve those goals, and the necessary steps, timetable, and assignment of responsibilities for acquiring the knowledge and developing the standards and protocols.
 
-#### “SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
+#### "SEC. 5. AUTHORIZATION OF APPROPRIATIONS.
 
-“There are authorized to be appropriated to the Director to carry out functions under this Act—
+"There are authorized to be appropriated to the Director to carry out functions under this Act—
 
-&emsp;“(1) $2,000,000 for fiscal year 2002;
+&emsp;"(1) $2,000,000 for fiscal year 2002;
 
-&emsp;“(2) $10,000,000 for fiscal year 2003;
+&emsp;"(2) $10,000,000 for fiscal year 2003;
 
-&emsp;“(3) $15,000,000 for fiscal year 2004; and
+&emsp;"(3) $15,000,000 for fiscal year 2004; and
 
-&emsp;“(4) $20,000,000 for fiscal year 2005.”
+&emsp;"(4) $20,000,000 for fiscal year 2005."
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

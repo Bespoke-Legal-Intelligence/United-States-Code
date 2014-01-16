@@ -24,7 +24,7 @@ This chapter, referred to in subsecs. (a) and (b), was in the original “this A
 
 #### Standards for Measuring and Assessing the Quality and Effectiveness of Federal Law Enforcement Training
 
-Pub. L. 108–334, title V, §506, Oct. 18, 2004, 118 Stat. 1316, provided that: “The Federal Law Enforcement Training Center shall establish an accrediting body, toinclude representatives from the Federal law enforcement community and non-Federal accreditation experts involved in law enforcement training, to establish standards for measuring and assessing the quality and effectiveness of Federal law enforcement training programs, facilities, and instructors.”
+Pub. L. 108–334, title V, §506, Oct. 18, 2004, 118 Stat. 1316, provided that: “The Federal Law Enforcement Training Center shall establish an accrediting body, to include representatives from the Federal law enforcement community and non-Federal accreditation experts involved in law enforcement training, to establish standards for measuring and assessing the quality and effectiveness of Federal law enforcement training programs, facilities, and instructors.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

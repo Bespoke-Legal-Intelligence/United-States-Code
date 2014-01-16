@@ -18,7 +18,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (2) Designated State agency
 
-&emsp;The plan shall identify the agency or office within the State designated to support the Council in accordance with this section and section 15025(d) of this title (referred to in this part as a “designated State agency”).
+&emsp;The plan shall identify the agency or office within the State designated to support the Council in accordance with this section and section 15025(d) of this title (referred to in this part as a "designated State agency").
 
 #### (3) Comprehensive review and analysis
 
@@ -34,7 +34,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;&emsp;(B) a description of the extent to which agencies operating such other federally assisted State programs, including activities authorized under section 3003 or 3004 of title 29, pursue interagency initiatives to improve and enhance community services, individualized supports, and other forms of assistance for individuals with developmental disabilities;
 
-&emsp;&emsp;(C) an analysis of the extent to which community services and opportunities related to the areas of emphasis directly benefit individuals with developmental disabilities, especially with regard to their ability to access and use services provided in their communities, to participate in opportunities, activities, and events offered in their communities, and to contribute to community life, identifying particularly—
+&emsp;&emsp;(C) an analysis of the extent to which community services and opportunities related tothe areas of emphasis directly benefit individuals with developmental disabilities, especially with regard to their ability to access and use services provided in their communities, to participate in opportunities, activities, and events offered in their communities, and to contribute to community life, identifying particularly—
 
 &emsp;&emsp;&emsp;(i) the degree of support for individuals with developmental disabilities that are attributable to either physical impairment, mental impairment, or a combination of physical and mental impairments;
 
@@ -130,7 +130,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (H) Human rights
 
-&emsp;&emsp;The plan shall provide assurances that the human rights of the individuals with developmental disabilities (especially individuals without familial protection) who are receiving services under programs assisted underthis part will be protected consistent with section 15009 of this title (relating to rights of individuals with developmental disabilities).
+&emsp;&emsp;The plan shall provide assurances that the human rights of the individuals with developmental disabilities (especially individuals without familial protection) who are receiving services under programs assisted under this part will be protected consistent with section 15009 of this title (relating to rights of individuals with developmental disabilities).
 
 #### (I) Minority participation
 
@@ -180,5 +180,5 @@ The Fair Housing Act, referred to in subsec. (c)(5)(F), is title VIII of Pub. L.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c)(3)(B). Pub. L. 108–364 substituted “section 3003 or 3004 of title 29” for “section 3011 or 3012 of title 29”.
+<b>2004</b>—Subsec. (c)(3)(B). Pub. L. 108–364 substituted "section 3003 or 3004 of title 29" for "section 3011 or 3012 of title 29".
 

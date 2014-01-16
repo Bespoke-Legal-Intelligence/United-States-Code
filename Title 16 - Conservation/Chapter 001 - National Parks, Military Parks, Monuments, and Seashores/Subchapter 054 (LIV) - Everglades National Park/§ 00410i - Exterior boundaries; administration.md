@@ -166,5 +166,5 @@ Land and water now in Federal ownership within said boundary shall continue to b
 
 #### Everglades Ecosystem Restoration
 
-Pub. L. 112–74, div. E, title I, §107, Dec. 23, 2011, 125 Stat. 1008, provided that: “This \[fiscal year 2012\] and any subsequent fiscal year, the National Park Service is authorized to implement modifications to the Tamiami Trail as described in, and in accordance with, the preferred alternative identified in the final environmental impact statement noticed in the Federal Register on December 14, 2010, (75 Fed. Reg. 77896), relating to restoration efforts of the Everglades ecosystem.”
+Pub. L. 112–74, div. E, title I, §107, Dec. 23, 2011, 125 Stat. 1008, provided that: "This \[fiscal year 2012\] and any subsequent fiscal year, the National Park Service is authorized to implement modifications to the Tamiami Trail as described in, and in accordance with, the preferred alternative identified in the final environmental impact statement noticed in the Federal Register on December 14, 2010, (75 Fed. Reg. 77896), relating to restoration efforts of the Everglades ecosystem."
 

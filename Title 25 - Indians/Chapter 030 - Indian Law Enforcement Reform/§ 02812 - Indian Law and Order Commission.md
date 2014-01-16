@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established a commission to be known as the Indian Law and Order Commission (referred to in this section as the “Commission”).
+There is established a commission to be known as the Indian Law and Order Commission (referred to in this section as the "Commission").
 
 #### (b) Membership
 
@@ -122,7 +122,7 @@ Taking into consideration the results of the study under paragraph (1),<sup>1</s
 
 &emsp;(3) adjustments to the penal authority of tribal courts and exploring alternatives to incarceration;
 
-&emsp;(4) the enhanced use of chapter 43 of title 28 (commonly known as “the Federal Magistrates Act”) in Indian country;
+&emsp;(4) the enhanced use of chapter 43 of title 28 (commonly known as "the Federal Magistrates Act") in Indian country;
 
 &emsp;(5) effective means of protecting the rights of victims and defendants in tribal criminal justice systems (including defendants incarcerated for a period of less than 1 year);
 
@@ -132,7 +132,7 @@ Taking into consideration the results of the study under paragraph (1),<sup>1</s
 
 #### (f) Report
 
-Not later than 2 years after the date of enactment of this Act, the Commission shall submit to the President and Congress a report that contains—
+Not later than 3 years after the date of enactment of this Act, the Commission shall submit to the President and Congress a report that contains—
 
 &emsp;(1) a detailed statement of the findings and conclusions of the Commission; and
 
@@ -202,7 +202,7 @@ Not later than 2 years after the date of enactment of this Act, the Commission s
 
 #### (B) National Institute of Justice
 
-&emsp;&emsp;The National Institute of Justice may enter into a contract with the researchers and experts selected by the Commission under subparagraph (A) to provide funding in exchange for the services of the researchers and experts.
+&emsp;&emsp;The National Institute of Justice may enter into a contract with the researchersand experts selected by the Commission under subparagraph (A) to provide funding in exchange for the services of the researchers and experts.
 
 #### (2) Other organizations
 
@@ -212,7 +212,7 @@ Not later than 2 years after the date of enactment of this Act, the Commission s
 
 #### (1) Establishment
 
-&emsp;The Commission shall establish a committee, to be known as the “Tribal Advisory Committee”.
+&emsp;The Commission shall establish a committee, to be known as the "Tribal Advisory Committee".
 
 #### (2) Membership
 
@@ -250,7 +250,7 @@ The Commission shall terminate 90 days after the date on which the Commission su
 
 The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
 
-(Pub. L. 101–379, §15, as added Pub. L. 111–211, title II, §235, July 29, 2010, 124 Stat. 2282.)
+(Pub. L. 101–379, §15, as added Pub. L. 111–211, title II, §235, July 29, 2010, 124 Stat. 2282; amended Pub. L. 113–4, title IX, §909(a), Mar. 7, 2013, 127 Stat. 126.)
 
 #### References in Text
 
@@ -260,7 +260,11 @@ The Indian Civil Rights Act of 1968, referred to in subsec. (d)(4), is title II 
 
 The Tribal Law and Order Act of 2010, referred to in subsec. (d)(5), is title II of Pub. L. 111–211, July 29, 2010, 124 Stat. 2261. For complete classification of this Act to the Code, see Short Title of 2010 Amendment note set out under section 2801 of this title and Tables.
 
-The Federal Advisory Committee Act, referred to in subsec. (m), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770,which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Federal Advisory Committee Act, referred to in subsec. (m), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection (d),”.</i>
+#### Amendments
+
+<b>2013</b>—Subsec. (f). Pub. L. 113–4 substituted "3 years" for "2 years" in introductory provisions.
+
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection (d),".</i>
 

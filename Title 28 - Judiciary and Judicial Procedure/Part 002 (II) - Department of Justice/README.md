@@ -16,19 +16,19 @@
 
 <b>2006</b>—Pub. L. 109–162, title XI, §1187(d), Jan. 5, 2006, 119 Stat. 3128, added item for chapter 40A.
 
-<b>2002</b>—Pub. L. 107–273, div. B, title IV, §4003(b)(6), Nov. 2, 2002, 116 Stat. 1812, inserted “Service” after “Marshals” in item for chapter 37.
+<b>2002</b>—Pub. L. 107–273, div. B, title IV, §4003(b)(6), Nov. 2, 2002, 116 Stat. 1812, inserted "Service" after "Marshals" in item for chapter 37.
 
-<b>1986</b>—Pub. L. 99–554, title I, §144(g)(2), Oct. 27, 1986, 100 Stat. 3097, substituted “40” for “39” in item relating to Independent Counsel.
+<b>1986</b>—Pub. L. 99–554, title I, §144(g)(2), Oct. 27, 1986, 100 Stat. 3097, substituted "40" for "39" in item relating to Independent Counsel.
 
-<b>1983</b>—Pub. L. 97–409, §2(a)(2), Jan. 3, 1983, 96 Stat. 2039, substituted “Independent Counsel” for “Special Prosecutor” in item for second chapter 39.
+<b>1983</b>—Pub. L. 97–409, §2(a)(2), Jan. 3, 1983, 96 Stat. 2039, substituted "Independent Counsel" for "Special Prosecutor" in item for second chapter 39.
 
-<b>1978</b>—Pub. L. 95–598, title II, §224(b), Nov. 6, 1978, 92 Stat. 2664, added item for chapter 39, “United States Trustees”, effective Oct. 1, 1979.
+<b>1978</b>—Pub. L. 95–598, title II, §224(b), Nov. 6, 1978, 92 Stat. 2664, added item for chapter 39, "United States Trustees", effective Oct. 1, 1979.
 
-Pub. L. 95–521, title VI, §601(b), Oct. 26, 1978, 92 Stat. 1873, added item for chapter 39 “Special Prosecutor”.
+Pub. L. 95–521, title VI, §601(b), Oct. 26, 1978, 92 Stat. 1873, added item for chapter 39 "Special Prosecutor".
 
 <b>1966</b>—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 611, added items for chapters 31 and 33 and redesignated items for former chapters 31 and 33 as 35 and 37, respectively.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “599A”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "599A".</i>
 
 
 ---

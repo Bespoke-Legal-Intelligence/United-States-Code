@@ -8,7 +8,7 @@ Marks for the supplemental register shall not be published for or be subject to 
 
 > such person may at any time, upon payment of the prescribed fee and the filing of a petition stating the ground therefor, apply to the Director to cancel such registration. The Director shall refer such application to the Trademark Trial and Appeal Board which shall give notice thereof to the registrant. If it is found after a hearing before the Board that the registrant is not entitled to registration, or that the mark has been abandoned, the registration shall be canceled by the Director. However, no final judgment shall be entered in favor of an applicant under section 1051(b) of this title before the mark is registered, if such applicant cannot prevail without establishing constructive use pursuant to section 1057(c) of this title.
 
-(July 5, 1946, ch. 540, title II, §24, 60 Stat. 436; Pub. L. 85–609, §1(d), Aug. 8, 1958, 72 Stat. 540; Pub. L. 87–772, §14, Oct. 9, 1962, 76 Stat. 773; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §122, Nov. 16, 1988, 102 Stat. 3943; Pub. L. 106–43, §2(d), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 109–312, §3(d), Oct. 6, 2006, 120 Stat. 1732.)
+(July 5, 1946, ch. 540, title II, §24, 60 Stat. 436; Pub. L. 85–609, §1(d), Aug. 8, 1958, 72 Stat. 540; Pub. L. 87–772, §14, Oct. 9, 1962, 76 Stat. 773; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L.100–667, title I, §122, Nov. 16, 1988, 102 Stat. 3943; Pub. L. 106–43, §2(d), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 109–312, §3(d), Oct. 6, 2006, 120 Stat. 1732.)
 
 #### Prior Provisions
 
@@ -16,15 +16,15 @@ Act Mar. 19, 1920, ch. 104, §2, 41 Stat. 534.
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–312 amended second sentence generally. Prior to amendment, second sentence read as follows: “Whenever any person believes that he is or will be damaged by the registration of a mark on this register, including as a result of dilution under section 1125(c) of this title, he may at any time, upon payment of the prescribed fee and the filing of a petition stating the ground therefor, apply to the Director to cancel such registration.” The words following “tarnishment,” in second sentence are shown as a flush provision notwithstanding directory language showing them as part of cl. (2), to reflect the probable intent of Congress.
+<b>2006</b>—Pub. L. 109–312 amended second sentence generally. Prior to amendment, second sentence read as follows: "Whenever any person believes that he is or will be damaged by the registration of a mark on this register, including as a result of dilution under section 1125(c) of this title, he may at any time, upon payment of the prescribed fee and the filing of a petition stating the ground therefor, apply to the Director to cancel such registration." The words following "tarnishment," in second sentence are shown as a flush provision notwithstanding directory language showing them as part of cl. (2), to reflect the probable intent of Congress.
 
-<b>1999</b>—Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
+<b>1999</b>—Pub. L. 106–113 substituted "Director" for "Commissioner" wherever appearing.
 
-Pub. L. 106–43 inserted “, including as a result of dilution under section 1125(c) of this title,” after “register” in second sentence.
+Pub. L. 106–43 inserted ", including as a result of dilution under section 1125(c) of this title," after "register" in second sentence.
 
-<b>1988</b>—Pub. L. 100–667 struck out “verified” after “filing of a”, substituted “is not entitled to registration,” for “was not entitled to register the mark at the time of his application for registration thereof,” struck out “is not used by the registrant or” after “that the mark”, and inserted provision that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
+<b>1988</b>—Pub. L. 100–667 struck out "verified" after "filing of a", substituted "is not entitled to registration," for "was not entitled to register the mark at the time of his application for registration thereof," struck out "is not used by the registrant or" after "that the mark", and inserted provision that no final judgment be entered before mark is registered if applicant cannot prevail without establishing constructive use.
 
-<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 <b>1962</b>—Pub. L. 87–772 provided for payment of the prescribed fee and the filing of a verified petition.
 

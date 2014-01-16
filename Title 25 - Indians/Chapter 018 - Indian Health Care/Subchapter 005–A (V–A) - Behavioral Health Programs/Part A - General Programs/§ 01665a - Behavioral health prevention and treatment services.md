@@ -22,7 +22,7 @@ The purposes of this section are as follows:
 
 &emsp;The Secretary, acting through the Service, Indian tribes, and tribal organizations, shall encourage Indian tribes and tribal organizations to develop tribal plans, and urban Indian organizations to develop local plans, and for all such groups to participate in developing areawide plans for Indian Behavioral Health Services. The plans shall include, to the extent feasible, the following components:
 
-&emsp;&emsp;(A) An assessment of the scope of alcohol or other substance abuse, mental illness, anddysfunctional and self-destructive behavior, including suicide, child abuse, and family violence, among Indians, including—
+&emsp;&emsp;(A) An assessment of the scope of alcohol or other substance abuse, mental illness, and dysfunctional and self-destructive behavior, including suicide, child abuse, and family violence, among Indians, including—
 
 &emsp;&emsp;&emsp;(i) the number of Indians served who are directly or indirectly affected by such illness or behavior; or
 

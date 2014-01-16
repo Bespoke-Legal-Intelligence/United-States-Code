@@ -2,7 +2,7 @@
 
 #### (a) Findings
 
-Congress finds that the Texas Band of Kickapoo Indians is a subgroup of the Kickapoo Tribe of Oklahoma; that many years ago, the Band was forced to migrate from its ancestral lands to what is now the State of Texas and the nation of Mexico; that, although many members of the band <sup>1</sup> meet the requirements for United States citizenship, some of them cannot prove that they are United States citizens; that, although the Band resides in the State of Texas, it owns no land there; that, because the Band owns no land in Texas, members of the Band are considered ineligible for services which the United States provides to other Indians who are members of federally recognized tribes because of their status as Indians except when the members of the Band are on or near the reservation of the Kickapoo Tribe of Oklahoma; that members of the Band live under conditions that pose serious threats to their health; and that, because their culture is derived from three different cultures, they have unique needs including, especially, educational needs.
+Congress finds that the Texas Band of Kickapoo Indians is a subgroup of the Kickapoo Tribe of Oklahoma; that many years ago, the Band was forced to migrate from its ancestral lands to what is now the State of Texas and the nation of Mexico; that, although many membersof the band <sup>1</sup> meet the requirements for United States citizenship, some of them cannot prove that they are United States citizens; that, although the Band resides in the State of Texas, it owns no land there; that, because the Band owns no land in Texas, members of the Band are considered ineligible for services which the United States provides to other Indians who are members of federally recognized tribes because of their status as Indians except when the members of the Band are on or near the reservation of the Kickapoo Tribe of Oklahoma; that members of the Band live under conditions that pose serious threats to their health; and that, because their culture is derived from three different cultures, they have unique needs including, especially, educational needs.
 
 #### (b) Declarations
 
@@ -12,7 +12,7 @@ Congress therefore declares that the Band should be recognized by the United Sta
 
 #### Short Title
 
-Pub. L. 97–429, §1, Jan. 8, 1983, 96 Stat. 2269, provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Texas Band of Kickapoo Act’.”
+Pub. L. 97–429, §1, Jan. 8, 1983, 96 Stat. 2269, provided: "That this Act \[enacting this subchapter\] may be cited as the 'Texas Band of Kickapoo Act'."
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

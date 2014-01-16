@@ -10,7 +10,7 @@ The Secretary shall provide payment for obligations incurred by the Secretary un
 
 #### (b) Cost sharing payments
 
-In making cost sharing payments to owners under this part, the Secretary may pay up to 100percent of the cost of establishing conservation measures and practices pursuant to this part.
+In making cost sharing payments to owners under this part, the Secretary may pay up to 100 percent of the cost of establishing conservation measures and practices pursuant to this part.
 
 #### (c) Easement payments; acceptability of offers
 
@@ -56,7 +56,7 @@ If an owner who is entitled to a payment under this part dies, becomes incompete
 
 #### (4) State environmental enhancement
 
-&emsp;The provisions of this subsection that limit payments to any person, and section 1305(d) of the Agricultural Reconciliation Act of 1987 (7 U.S.C. 1308 note), shall not be applicable to payments received by a State, political subdivision, or agency thereof in connection with agreements entered into under an environmental easement enhancement program carried out by that entity that has been approved by the Secretary. The Secretary may enter into such agreements for payments to States, political subdivisions, or agencies thereof that the Secretary determines will advance the purposes of this part.
+&emsp;The provisions of this subsection that limit payments to any person, and section 1305(d) of the Agricultural Reconciliation Act of 1987 (7U.S.C. 1308 note), shall not be applicable to payments received by a State, political subdivision, or agency thereof in connection with agreements entered into under an environmental easement enhancement program carried out by that entity that has been approved by the Secretary. The Secretary may enter into such agreements for payments to States, political subdivisions, or agencies thereof that the Secretary determines will advance the purposes of this part.
 
 #### (g) Exemption from automatic sequester
 

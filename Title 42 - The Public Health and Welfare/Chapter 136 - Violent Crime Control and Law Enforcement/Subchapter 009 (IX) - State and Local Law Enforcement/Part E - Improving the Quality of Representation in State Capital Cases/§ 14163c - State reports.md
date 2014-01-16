@@ -16,7 +16,7 @@ With respect to the funds provided under section 14163 of this title, a report u
 
 &emsp;(2) an explanation of the means by which the State—
 
-&emsp;&emsp;(A) invests the responsibility for identifying and appointing qualified attorneys torepresent indigents in capital cases in a program described in section 14163(e)(1)(A) of this title, an entity described in section 14163(e)(1)(B) of this title, or a selection committee or similar entity described in section 14163(e)(1)(C) of this title; and
+&emsp;&emsp;(A) invests the responsibility for identifying and appointing qualified attorneys to represent indigents in capital cases in a program described in section 14163(e)(1)(A) of this title, an entity described in section 14163(e)(1)(B) of this title, or a selection committee or similar entity described in section 14163(e)(1)(C) of this title; and
 
 &emsp;&emsp;(B) requires such program, entity, or selection committee or similar entity, or other appropriate entity designated pursuant to the statutory procedure described in section 14163(e)(1)(C) of this title, to—
 
@@ -28,7 +28,7 @@ With respect to the funds provided under section 14163 of this title, a report u
 
 &emsp;&emsp;&emsp;(iv) conduct, sponsor, or approve specialized training programs for attorneys representing defendants in capital cases in accordance with section 14163(e)(2)(D) of this title;
 
-&emsp;&emsp;&emsp;(v) monitor the performance and training program attendance of appointed attorneys, and remove from the roster attorneys who fail to deliver effective representation or fail to comply with such requirements as such program, entity, or selection committee or similar entity may establish regarding participation in training programs, in accordance with section 14163(e)(2)(E) of this title; and
+&emsp;&emsp;&emsp;(v) monitor the performance and training program attendance of appointed attorneys, and remove from the roster attorneys who fail to deliver effective representation or fail to comply with such requirements as such program, entity, or selection committee or similar entity may establish regarding participation in trainingprograms, in accordance with section 14163(e)(2)(E) of this title; and
 
 &emsp;&emsp;&emsp;(vi) ensure funding for the cost of competent legal representation by the defense team and outside experts selected by counsel, in accordance with section 14163(e)(2)(F) of this title, including a statement setting forth—
 

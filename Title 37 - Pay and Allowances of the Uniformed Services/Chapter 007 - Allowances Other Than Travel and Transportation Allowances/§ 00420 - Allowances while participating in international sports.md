@@ -38,11 +38,11 @@ A prior section 420 was renumbered section 421 of this title.
 
 <b>2013</b>—Subsec. (b). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
-<b>2011</b>—Subsec. (b). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474–481” for “404–411”.
+<b>2011</b>—Subsec. (b). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "474–481" for "404–411".
 
-<b>1997</b>—Subsec. (c). Pub. L. 105–85 substituted “housing” for “quarters”.
+<b>1997</b>—Subsec. (c). Pub. L. 105–85 substituted "housing" for "quarters".
 
-<b>1966</b>—Pub. L. 89–718 substituted “section 717 of title 10” for “section 716 of title 10” wherever appearing.
+<b>1966</b>—Pub. L. 89–718 substituted "section 717 of title 10" for "section 716 of title 10" wherever appearing.
 
 #### Effective Date of 2013 Amendment
 

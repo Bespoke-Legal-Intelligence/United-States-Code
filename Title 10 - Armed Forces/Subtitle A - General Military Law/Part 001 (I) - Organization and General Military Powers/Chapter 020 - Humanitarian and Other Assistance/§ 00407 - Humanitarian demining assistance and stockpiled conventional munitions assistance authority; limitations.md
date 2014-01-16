@@ -8,7 +8,7 @@ Authority.—(1) Under regulations prescribed by the Secretary of Defense, the S
 
 &emsp;(B) the specific operational readiness skills of the members of the armed forces who participate in the activities.
 
-(2) Humanitarian demining assistance and stockpiled conventional munitions assistance under this section shall complement, and may not duplicate, any other form of social or economic assistance which may be provided to thecountry concerned by any other department or agency of the United States.
+(2) Humanitarian demining assistance and stockpiled conventional munitions assistance under this section shall complement, and may not duplicate, any other form of social or economic assistance which may be provided to the country concerned by any other department or agency of the United States.
 
 (3) The Secretary of Defense shall ensure that no member of the armed forces, while providing humanitarian demining assistance or stockpiled conventional munitions assistance under this section—
 
@@ -42,67 +42,71 @@ Annual Report.—The Secretary of Defense shall include in the annual report und
 
 &emsp;(2) the type and description of humanitarian demining assistance or stockpiled conventional munitions assistance carried out in each country during the preceding fiscal year, as specified in paragraph (1), and whether such assistance was primarily related to the humanitarian demining efforts or stockpiled conventional munitions assistance;
 
-&emsp;(3) a list of countries in which humanitarian demining assistance or stockpiled conventional munitions assistance could not be carried out during the preceding fiscal year due to insufficient numbers of Department of Defense personnel to carry out such activities; and
+&emsp;(3) a list of countries in which humanitarian demining assistance or stockpiled conventional munitions assistance could not be carried out during the preceding fiscal year due to insufficient numbers of Department of Defense personnel to carry out such activities;
 
-&emsp;(4) the amount expended in carrying out such assistance in each such country during the preceding fiscal year.
+&emsp;(4) the amount expended in carrying out such assistance in each such country during the preceding fiscal year; and
+
+&emsp;(5) a description of interagency efforts to coordinate and improve research, development, test, and evaluation for humanitarian demining technology and mechanical clearance methods, including the transfer of relevant counter-improvised explosive device technology with potential humanitarian demining applications.
 
 (e)
 
 Definitions.—In this section:
 
-&emsp;(1) The term “humanitarian demining assistance”, as it relates to training and support, means detection and clearance of landmines and other explosive remnants of war, and includes activities related to the furnishing of education, training, and technical assistance with respect to explosive safety, the detection and clearance of landmines and other explosive remnants of war, and the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance.
+&emsp;(1) The term "humanitarian demining assistance", as it relates to training and support, means detection and clearance of landmines and other explosive remnants of war, and includes activities related to the furnishing of education, training, and technical assistance with respect to explosive safety, the detection and clearance of landmines and other explosive remnants of war, and the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance.
 
-&emsp;(2) The term “stockpiled conventional munitions assistance”, as it relates to the support of humanitarian assistance efforts, means training and support in the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance, and includes activities related to the furnishing of education, training, and technical assistance with respect to explosive safety, the detection and clearance of landmines and other explosive remnants of war, and the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance.
+&emsp;(2) The term "stockpiled conventional munitions assistance", as it relates to the support of humanitarian assistance efforts, means training and support in the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance, and includes activities related to the furnishing of education, training, and technical assistance with respect to explosive safety, the detection and clearance of landmines and other explosive remnants of war, and the disposal, demilitarization, physical security, and stockpile management of potentially dangerous stockpiles of explosive ordnance.
 
-(Added Pub. L. 109–364, div. A, title XII, §1203(b)(1), Oct. 17, 2006, 120 Stat. 2413; amended Pub. L. 112–81, div. A, title X, §1092(a), (b)(1), Dec. 31, 2011, 125 Stat. 1605, 1606.)
+(Added Pub. L. 109–364, div. A, title XII, §1203(b)(1), Oct. 17, 2006, 120 Stat. 2413; amended Pub. L. 112–81, div. A, title X, §1092(a), (b)(1), Dec. 31, 2011, 125 Stat. 1605, 1606; Pub. L. 113–66, div. A, title X, §1083, Dec. 26, 2013, 127 Stat. 871.)
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, §1092(b)(1), amended section catchline generally, substituting “Humanitarian demining assistance and stockpiled conventional munitions assistance: authority; limitations” for “Humanitarian demining assistance: authority; limitations”.
+<b>2013</b>—Subsec. (d)(5). Pub. L. 113–66 added par. (5).
 
-Subsec. (a)(1). Pub. L. 112–81, §1092(a)(1)(A), inserted “and stockpiled conventional munitions assistance” after “humanitarian demining assistance” in introductory provisions.
+<b>2011</b>—Pub. L. 112–81, §1092(b)(1), amended section catchline generally, substituting "Humanitarian demining assistance and stockpiled conventional munitions assistance: authority; limitations" for "Humanitarian demining assistance: authority; limitations".
 
-Subsec. (a)(2). Pub. L. 112–81, §1092(a)(1)(B), inserted “and stockpiled conventional munitions assistance” after “Humanitarian demining assistance”.
+Subsec. (a)(1). Pub. L. 112–81, §1092(a)(1)(A), inserted "and stockpiled conventional munitions assistance" after "humanitarian demining assistance" in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 112–81, §1092(a)(1)(C)(i), inserted “or stockpiled conventional munitions assistance” after “humanitarian demining assistance” in introductory provisions.
+Subsec. (a)(2). Pub. L. 112–81, §1092(a)(1)(B), inserted "and stockpiled conventional munitions assistance" after "Humanitarian demining assistance".
 
-Subsec. (a)(3)(A). Pub. L. 112–81, §1092(a)(1)(C)(ii), inserted “, or stockpiled conventional munitions, as applicable,” after “explosive remnants of war”.
+Subsec. (a)(3). Pub. L. 112–81, §1092(a)(1)(C)(i), inserted "or stockpiled conventional munitions assistance" after "humanitarian demining assistance" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 112–81, §1092(a)(2)(A), which directed amendment by inserting “and stockpiled conventional munitions assistance” after “humanitarian demining assistance”, was executed by making the insertion after “Humanitarian demining assistance” to reflect the probable intent of Congress.
+Subsec. (a)(3)(A). Pub. L. 112–81, §1092(a)(1)(C)(ii), inserted ", or stockpiled conventional munitions, as applicable," after "explosive remnants of war".
 
-Subsec. (b)(2). Pub. L. 112–81, §1092(a)(2)(B), inserted “or stockpiled conventional munitions assistance” after “humanitarian demining assistance”.
+Subsec. (b)(1). Pub. L. 112–81, §1092(a)(2)(A), which directed amendment by inserting "and stockpiled conventional munitions assistance" after "humanitarian demining assistance", was executed by making the insertion after "Humanitarian demining assistance" to reflect the probable intent of Congress.
 
-Subsec. (c)(1). Pub. L. 112–81, §1092(a)(3)(A), inserted “or stockpiled conventional munitions assistance” after “humanitarian demining assistance”.
+Subsec. (b)(2). Pub. L. 112–81, §1092(a)(2)(B), inserted "or stockpiled conventional munitions assistance" after "humanitarian demining assistance".
 
-Subsec. (c)(2)(B). Pub. L. 112–81, §1092(a)(3)(B), inserted “or stockpiled conventional munitions activities” after “humanitarian demining activities” and inserted “, or stockpiled conventional munitions, as applicable,” after “explosive remnants of war”.
+Subsec. (c)(1). Pub. L. 112–81, §1092(a)(3)(A), inserted "or stockpiled conventional munitions assistance" after "humanitarian demining assistance".
 
-Subsec. (d). Pub. L. 112–81, §1092(a)(4)(A), inserted “or stockpiled conventional munitions assistance” after “humanitarian demining assistance” wherever appearing.
+Subsec. (c)(2)(B). Pub. L. 112–81, §1092(a)(3)(B), inserted "or stockpiled conventional munitions activities" after "humanitarian demining activities" and inserted ", or stockpiled conventional munitions, as applicable," after "explosive remnants of war".
 
-Subsec. (d)(2). Pub. L. 112–81, §1092(a)(4)(B), inserted “, and whether such assistance was primarily related to the humanitarian demining efforts or stockpiled conventional munitions assistance” after “paragraph (1)”.
+Subsec. (d). Pub. L. 112–81, §1092(a)(4)(A), inserted "or stockpiled conventional munitions assistance" after "humanitarian demining assistance" wherever appearing.
 
-Subsec. (e). Pub. L. 112–81, §1092(a)(5), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: “In this section, the term ‘humanitarian demining assistance’, as it relates to training and support, means detection and clearance of landmines and other explosive remnants of war, including activities related to the furnishing of education, training, and technical assistance with respect to the detection and clearance of landmines and other explosive remnants of war.”
+Subsec. (d)(2). Pub. L. 112–81, §1092(a)(4)(B), inserted ", and whether such assistance was primarily related to the humanitarian demining efforts or stockpiled conventional munitions assistance" after "paragraph (1)".
+
+Subsec. (e). Pub. L. 112–81, §1092(a)(5), added subsec. (e) and struck out former subsec. (e). Prior to amendment, text read as follows: "In this section, the term 'humanitarian demining assistance', as it relates to training and support, means detection and clearance of landmines and other explosive remnants of war, including activities related to the furnishing of education, training, and technical assistance with respect to the detection and clearance of landmines and other explosive remnants of war."
 
 #### Authority To Transfer Surplus Mine-Resistant Ambush-Protected Vehicles and Spare Parts
 
 Pub. L. 112–239, div. A, title X, §1053, Jan. 2, 2013, 126 Stat. 1937, provided that:
 
-“(a)
+"(a)
 
 Authority.—The Secretary of Defense is authorized to transfer surplus Mine-Resistant Ambush-Protected vehicles, including spare parts for such vehicles, to non-profit United States humanitarian demining organizations for purposes of demining activities and training of such organizations.
 
-“(b)
+"(b)
 
 Terms and Conditions.—Any transfer of vehicles or spare parts under subsection (a) shall be subject to the following terms and conditions:
 
-&emsp;“(1) The transfer shall be made on a loan basis.
+&emsp;"(1) The transfer shall be made on a loan basis.
 
-&emsp;“(2) The costs of operation and maintenance of the vehicles shall be borne by the recipient organization.
+&emsp;"(2) The costs of operation and maintenance of the vehicles shall be borne by the recipient organization.
 
-&emsp;“(3) Any other terms and conditions as the Secretary of Defense determines to be appropriate.
+&emsp;"(3) Any other terms and conditions as the Secretary of Defense determines to be appropriate.
 
-“(c)
+"(c)
 
-Notification.—The Secretary of Defense shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] in writing not less than 60 days before making any transfer of vehicles or spare parts under subsection (a). Such notification shall include the name of the organization, the number and model of the vehicle to be transferred, a listing of any spare parts to be transferred, and any other information the Secretary considers appropriate.”
+Notification.—The Secretary of Defense shall notify the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] in writing not less than 60 days before making any transfer of vehicles or spare parts under subsection (a). Such notification shall include the name of the organization, the number and model of the vehicle to be transferred, a listing of any spare parts to be transferred, and any other information the Secretary considers appropriate."
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

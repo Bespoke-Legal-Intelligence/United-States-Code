@@ -2,7 +2,7 @@
 
 (a) A permanent professor of the Academy, other than the Dean of the Academic Board, who is the head of a department of instruction, or who has served as such a professor for more than six years, has the grade of colonel. However, a permanent professor appointed from the Regular Army has the grade of colonel after the date when he completes six years of service as a professor, or after the date on which he would have been promoted had he been selected for promotion from among officers in the promotion zone, whichever is earlier. All other permanent professors have the grade of lieutenant colonel.
 
-(b) A person appointed as director of admissions of the Academy has the regular grade oflieutenant colonel, and, after he has served six years as director of admissions, has the regular grade of colonel. However, a person appointed from the Regular Army has the regular grade of colonel after the date when he completes six years of service as director of admissions, or after the date on which he would have been promoted had he been selected for promotion from among officers in the promotion zone, whichever is earlier.
+(b) A person appointed as director of admissions of the Academy has the regular grade of lieutenant colonel, and, after he has served six years as director of admissions, has the regular grade of colonel. However, a person appointed from the Regular Army has the regular grade of colonel after the date when he completes six years of service as director of admissions, or after the date on which he would have been promoted had he been selected for promotion from among officers in the promotion zone, whichever is earlier.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 239; Pub. L. 85–600, §1(11), Aug. 6, 1958, 72 Stat. 523; Pub. L. 85–861, §33(a)(46)(B), Sept. 2, 1958, 72 Stat. 1567; Pub. L. 95–551, §§2, 4(a), Oct. 30, 1978, 92 Stat. 2069; Pub. L. 96–513, title II, §218(a), title V, §502(25), Dec. 12, 1980, 94 Stat. 2886, 2911; Pub. L. 98–525, title V, §533(d)(1), Oct. 19, 1984, 98 Stat. 2528.)
 
@@ -22,27 +22,27 @@ Act
 
 Aug. 7, 1947, ch. 512, §520(a), 61 Stat. 912.
 
-The word “grade” is substituted for the word “rank”. The words “pay, and allowances” are omitted, since they are determined by the grade held. 10:1079a (a) (last proviso), and the words “Hereafter each of”, “who have been or may hereafter be”, and “and appointed in” are omitted as surplusage.
+The word "grade" is substituted for the word "rank". The words "pay, and allowances" are omitted, since they are determined by the grade held. 10:1079a (a) (last proviso), and the words "Hereafter each of", "who have been or may hereafter be", and "and appointed in" are omitted as surplusage.
 
 #### 1958 Act
 
-The word “regular” is deleted \[in sections 4335 and 4336\] to make clear that a Dean or professor of the United States Military Academy holds only the office of “Dean” or “professor” and not the office of “brigadier general” or “colonel”, as the case may be, even though he is entitled to the pay and allowances of that grade.
+The word "regular" is deleted \[in sections 4335 and 4336\] to make clear that a Dean or professor of the United States Military Academy holds only the office of "Dean" or "professor" and not the office of "brigadier general" or "colonel", as the case may be, even though he is entitled to the pay and allowances of that grade.
 
 #### Amendments
 
-<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–525 substituted “on which he would have been promoted had he been selected for promotion from among officers in the promotion zone,” for “when a regular officer, junior to him on the promotion list or active-duty list on which his name was carried before his appointment as a professor, is promoted to the regular grade of colonel,”.
+<b>1984</b>—Subsecs. (a), (b). Pub. L. 98–525 substituted "on which he would have been promoted had he been selected for promotion from among officers in the promotion zone," for "when a regular officer, junior to him on the promotion list or active-duty list on which his name was carried before his appointment as a professor, is promoted to the regular grade of colonel,".
 
-<b>1980</b>—Subsecs. (a), (b). Pub. L. 96–513, §502(25), substituted “a regular officer” for “a promotion-list officer”, and inserted “or active-duty list” after “on the promotion list”.
+<b>1980</b>—Subsecs. (a), (b). Pub. L. 96–513, §502(25), substituted "a regular officer" for "a promotion-list officer", and inserted "or active-duty list" after "on the promotion list".
 
 Subsec. (c). Pub. L. 96–513, §218(a), struck out subsec. (c) which provided that, unless he is serving in a higher grade, an officer detailed to perform the duties of director of admissions has, while performing those duties, the temporary grade of lieutenant colonel and, after performing those duties for a period of six years, has the temporary grade of colonel.
 
-<b>1978</b>—Pub. L. 95–551, §4(a), substituted “director of admissions” for “registrar” in section catchline.
+<b>1978</b>—Pub. L. 95–551, §4(a), substituted "director of admissions" for "registrar" in section catchline.
 
-Subsecs. (b), (c). Pub. L. 95–551, §2, substituted “director of admissions” for “registrar” wherever appearing.
+Subsecs. (b), (c). Pub. L. 95–551, §2, substituted "director of admissions" for "registrar" wherever appearing.
 
-<b>1958</b>—Pub. L. 85–600, §1(11)(C), inserted “; registrar” in section catchline.
+<b>1958</b>—Pub. L. 85–600, §1(11)(C), inserted "; registrar" in section catchline.
 
-Subsec. (a). Pub. L. 85–861 substituted “has the grade of colonel” for “has the regular grade of colonel” in two places, and “have the grade of lieutenant colonel” for “have the regular grade of lieutenant colonel”.
+Subsec. (a). Pub. L. 85–861 substituted "has the grade of colonel" for "has the regular grade of colonel" in two places, and "have the grade of lieutenant colonel" for "have the regular grade of lieutenant colonel".
 
 Pub. L. 85–600 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
@@ -56,5 +56,5 @@ Amendment by Pub. L. 85–861 effective Aug. 10, 1956, see section 33(g) of Pub.
 
 #### Service Performed as Registrar Prior to Aug. 6, 1958
 
-Pub. L. 85–600, §2, Aug. 6, 1958, 72 Stat. 524, provided that: “No increase in pay or allowances accrues by reason of the enactment of this Act \[amending this section and sections 3075, 3204, 3205, 3283, 3296, 3883, 3886, 4331, 4333, 4334, 8075, 8204, 8205, 8296, 8883, 8886, 9331, 9333, 9334, and 9336 of this title\] for service performed before this Act takes effect \[Aug. 6, 1958\].”
+Pub. L. 85–600, §2, Aug. 6, 1958, 72 Stat. 524, provided that: "No increase in pay or allowances accrues by reason of the enactment of this Act \[amending this section and sections 3075, 3204, 3205, 3283, 3296, 3883, 3886, 4331, 4333, 4334, 8075, 8204, 8205, 8296, 8883, 8886, 9331, 9333, 9334, and 9336 of this title\] for service performed before this Act takes effect \[Aug. 6, 1958\]."
 

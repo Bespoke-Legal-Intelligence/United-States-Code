@@ -40,9 +40,9 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, §105(e), (f); added Nov. 16, 199
 
 49 App.:1804(f).
 
-In subsection (a)(1), the words “the requirements of” and “applicable” are omitted as surplus.
+In subsection (a)(1), the words "the requirements of" and "applicable" are omitted as surplus.
 
-In subsection (b), before clause (1), the word “deface” is omitted as surplus.
+In subsection (b), before clause (1), the word "deface" is omitted as surplus.
 
 #### Pub. L. 103–429
 
@@ -50,15 +50,15 @@ This amends 49:5104(a)(1) to clarify the restatement of 49 App.:1804(e)(1) by se
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §7106(a), substituted “a package, component of a package, or packaging for” for “a container, package, or packaging (or a component of a container, package, or packaging) for” and “the package, component of a package, or packaging meets” for “the container, package, or packaging (or a component of a container, package, or packaging) meets”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–59, §7106(a), substituted "a package, component of a package, or packaging for" for "a container, package, or packaging (or a component of a container, package, or packaging) for" and "the package, component of a package, or packaging meets" for "the container, package, or packaging (or a component of a container, package, or packaging) meets".
 
-Subsec. (b). Pub. L. 109–59, §7106(b)(1), substituted “No person may” for “A person may not” in introductory provisions.
+Subsec. (b). Pub. L. 109–59, §7106(b)(1), substituted "No person may" for "A person may not" in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 109–59, §7106(b)(2), inserted “component of a package, or packaging,” after “package,”.
+Subsec. (b)(2). Pub. L. 109–59, §7106(b)(2), inserted "component of a package, or packaging," after "package,".
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–429 inserted “applicable” after “each”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–429 inserted "applicable" after "each".
 
-Pub. L. 103–311 substituted “, package, or packaging (or a component of a container, package, or packaging)” for “or package” in two places.
+Pub. L. 103–311 substituted ", package, or packaging (or a component of a container, package, or packaging)" for "or package" in two places.
 
 #### Effective Date of 1994 Amendment
 

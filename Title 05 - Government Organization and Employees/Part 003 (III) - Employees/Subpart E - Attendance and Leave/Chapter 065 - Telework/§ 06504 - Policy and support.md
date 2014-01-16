@@ -54,7 +54,7 @@ Incorporation into continuity of operations plans.—Each executive agency shall
 
 &emsp;(2)
 
-Continuity of operations plans supersede telework policy.—During any periodthat an executive agency is operating under a continuity of operations plan, that plan shall supersede any telework policy.
+Continuity of operations plans supersede telework policy.—During any period that an executive agency is operating under a continuity of operations plan, that plan shall supersede any telework policy.
 
 (e)
 

@@ -92,7 +92,7 @@ The determination of the manner of disposal or use of sludge is a local determin
 
 &emsp;For the purposes of carrying out the scientific studies, demonstration projects, and public information and education projects authorized in this section, there is authorized to be appropriated for fiscal years beginning after September 30, 1986, not to exceed $5,000,000.
 
-(June 30, 1948, ch. 758, title IV, §405, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 884; amended Pub. L. 95–217, §§54(d), 68, Dec. 27, 1977, 91 Stat. 1591, 1606; Pub. L. 100–4, title IV, §406(a)–(c), (f), Feb. 4, 1987, 101 Stat. 71, 72, 74.)
+(June 30, 1948, ch. 758, title IV, §405, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 884;amended Pub. L. 95–217, §§54(d), 68, Dec. 27, 1977, 91 Stat. 1591, 1606; Pub. L. 100–4, title IV, §406(a)–(c), (f), Feb. 4, 1987, 101 Stat. 71, 72, 74.)
 
 #### References in Text
 
@@ -108,27 +108,27 @@ The Clean Air Act, referred to in subsec. (f)(1), is act July 14, 1955, ch. 360,
 
 <b>1987</b>—Subsec. (d). Pub. L. 100–4, §406(a), designated existing provision as par. (1), inserted heading, redesignated former pars. (1) to (3) as subpars. (A) to (C), and added pars. (2) to (5).
 
-Pub. L. 100–4, §406(f), inserted heading “Regulations” and aligned par. (1) with par. (3) and subpars. (A) to (C) of par. (1) with subpar. (C) of par. (2).
+Pub. L. 100–4, §406(f), inserted heading "Regulations" and aligned par. (1) with par. (3) and subpars. (A) to (C) of par. (1) with subpar. (C) of par. (2).
 
-Subsec. (e). Pub. L. 100–4, §406(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The determination of the manner of disposal or use of sludge is a local determination except that it shall be unlawful for the owner or operator of any publicly owned treatment works to dispose of sludge from such works for any use for which guidelines have been established pursuant to subsection (d) of this section, except in accordance with such guidelines.”
+Subsec. (e). Pub. L. 100–4, §406(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "The determination of the manner of disposal or use of sludge is a local determination except that it shall be unlawful for the owner or operator of any publicly owned treatment works to dispose of sludge from such works for any use for which guidelines have been established pursuant to subsection (d) of this section, except in accordance with such guidelines."
 
 Subsecs. (f), (g). Pub. L. 100–4, §406(c), added subsecs. (f) and (g).
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–217, §68(a), substituted “under section 1342 of this title” for “under this section”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–217, §68(a), substituted "under section 1342 of this title" for "under this section".
 
-Subsec. (b). Pub. L. 95–217, §§54(d)(1), 68(b), (c), substituted “sewage sludge subject to subsection (a) of this section and section 1342 of this title” for “sewage sludge subject to this section” and struck out “, as the Administrator determines necessary to carry out the objective of this chapter” after “permit issued under section 1342 of this title”.
+Subsec. (b). Pub. L. 95–217, §§54(d)(1), 68(b), (c), substituted "sewage sludge subject to subsection (a) of this section and section 1342 of this title" for "sewage sludge subject to this section" and struck out ", as the Administrator determines necessary to carry out the objective of this chapter" after "permit issued under section 1342 of this title".
 
-Subsec. (c). Pub. L. 95–217, §§54(d)(2), 68(d), substituted “disposal of sewage sludge subject to subsection (a) of this section within its jurisdiction may do so in accordance with section 1342 of this title” for “disposal of sewage sludge within its jurisdiction may do so if upon submission of such program the Administrator determines such program is adequate to carry out the objective of this chapter”.
+Subsec. (c). Pub. L. 95–217, §§54(d)(2), 68(d), substituted "disposal of sewage sludge subject to subsection (a) of this section within its jurisdiction may do so in accordance with section 1342 of this title" for "disposal of sewage sludge within its jurisdiction may do so if upon submission of such program the Administrator determines such program is adequate to carry out the objective of this chapter".
 
 Subsecs. (d), (e). Pub. L. 95–217, §54(d)(3), added subsecs. (d) and (e).
 
 #### Removal Credits
 
-Pub. L. 100–4, title IV, §406(e), Feb. 4, 1987, 101 Stat. 73, provided that: “The part of the decision of Natural Resources Defense Council, Inc. v. U.S. Environmental Protection Agency, No. 84–3530 (3d. Cir. 1986), which addresses section 405(d) of the Federal Water Pollution Control Act \[33 U.S.C. 1345(d)\] is stayed until August 31, 1987, with respect to—
+Pub. L. 100–4, title IV, §406(e), Feb. 4, 1987, 101 Stat. 73, provided that: "The part of the decision of Natural Resources Defense Council, Inc. v. U.S. Environmental Protection Agency, No. 84–3530 (3d. Cir. 1986), which addresses section 405(d) of the Federal Water Pollution Control Act \[33 U.S.C. 1345(d)\] is stayed until August 31, 1987, with respect to—
 
-&emsp;“(1) those publicly owned treatment works the owner or operator of which received authority to revise pretreatment requirements under section 307(b)(1) of such Act \[33 U.S.C. 1317(b)(1)\] before the date of the enactment of this section \[Feb. 4, 1987\], and
+&emsp;"(1) those publicly owned treatment works the owner or operator of which received authority to revise pretreatment requirements under section 307(b)(1) of such Act \[33 U.S.C. 1317(b)(1)\] before the date of the enactment of this section \[Feb. 4, 1987\], and
 
-&emsp;“(2) those publicly owned treatment works the owner or operator of which has submitted an application for authority to revise pretreatment requirements under such section 307(b)(1) which application is pending on such date of enactment and is approved before August 31, 1987.
+&emsp;"(2) those publicly owned treatment works the owner or operator of which has submitted an application for authority to revise pretreatment requirements under such section 307(b)(1) which application is pending on such date of enactment and is approved before August 31, 1987.
 
-> The Administrator shall not authorize any other removal credits under such Act \[33 U.S.C. 1251 et seq.\] until the Administrator issues the regulations required by paragraph (2)(A)(ii) of section 405(d) of such Act, as amended by subsection (a) of this section.”
+> The Administrator shall not authorize any other removal credits under such Act \[33 U.S.C. 1251 et seq.\] until the Administrator issues the regulations required by paragraph (2)(A)(ii) of section 405(d) of such Act, as amended by subsection (a) of this section."
 

@@ -28,7 +28,7 @@ It is the policy of the United States—
 
 &emsp;(5) to ensure vigorous enforcement of Federal criminal laws to deter and punish trafficking in obscenity, stalking, and harassment by means of computer.
 
-#### (c) Protection for “Good Samaritan” blocking and screening of offensive material
+#### (c) Protection for "Good Samaritan" blocking and screening of offensive material
 
 #### (1) Treatment of publisher or speaker
 
@@ -50,7 +50,7 @@ A provider of interactive computer service shall, at the time of entering an agr
 
 #### (1) No effect on criminal law
 
-&emsp;Nothing in this section shall be construed to impair the enforcement of section 223 or 231 of this title, chapter 71 (relating to obscenity) or 110 (relating to sexual exploitation of children) of title 18, or any other Federal criminal statute.
+&emsp;Nothing in this section shall be construed to impair the enforcement of section 223 or 231 ofthis title, chapter 71 (relating to obscenity) or 110 (relating to sexual exploitation of children) of title 18, or any other Federal criminal statute.
 
 #### (2) No effect on intellectual property law
 
@@ -70,19 +70,19 @@ As used in this section:
 
 #### (1) Internet
 
-&emsp;The term “Internet” means the international computer network of both Federal and non-Federal interoperable packet switched data networks.
+&emsp;The term "Internet" means the international computer network of both Federal and non-Federal interoperable packet switched data networks.
 
 #### (2) Interactive computer service
 
-&emsp;The term “interactive computer service” means any information service, system, or access software provider that provides or enables computer access by multiple users to a computer server, including specifically a service or system that provides access to the Internet and such systems operated or services offered by libraries or educational institutions.
+&emsp;The term "interactive computer service" means any information service, system, or access software provider that provides or enables computer access by multiple users to a computer server, including specifically a service or system that provides access to the Internet and such systems operated or services offered by libraries or educational institutions.
 
 #### (3) Information content provider
 
-&emsp;The term “information content provider” means any person or entity that is responsible, in whole or in part, for the creation or development of information provided through the Internet or any other interactive computer service.
+&emsp;The term "information content provider" means any person or entity that is responsible, in whole or in part, for the creation or development of information provided through the Internet or any other interactive computer service.
 
 #### (4) Access software provider
 
-&emsp;The term “access software provider” means a provider of software (including client or server software), or enabling tools that do any one or more of the following:
+&emsp;The term "access software provider" means a provider of software (including client or server software), or enabling tools that do any one or more of the following:
 
 &emsp;&emsp;(A) filter, screen, allow, or disallow content;
 
@@ -104,7 +104,7 @@ Section 509 of Pub. L. 104–104, which directed amendment of title II of the Co
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–277, §1404(a)(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (d)(1). Pub. L. 105–277, §1404(a)(1), inserted “or 231” after “section 223”.
+Subsec. (d)(1). Pub. L. 105–277, §1404(a)(1), inserted "or 231" after "section 223".
 
 Subsecs. (e), (f). Pub. L. 105–277, §1404(a)(2), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
@@ -112,5 +112,5 @@ Subsecs. (e), (f). Pub. L. 105–277, §1404(a)(2), redesignated subsecs. (d) an
 
 Amendment by Pub. L. 105–277 effective 30 days after Oct. 21, 1998, see section 1406 of Pub. L. 105–277, set out as a note under section 223 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph (A).”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subparagraph (A)."</i>
 

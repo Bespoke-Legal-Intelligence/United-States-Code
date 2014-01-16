@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 July 18, 1958, Pub. L. 85–530, §9(b), 72 Stat. 373.
 
-The words “at all times” are omitted as unnecessary. The words “to receive” are substituted for “authorized to accept”, and the word “is” is substituted for “will be deemed”, for consistency in the revised title.
+The words "at all times" are omitted as unnecessary. The words "to receive" are substituted for "authorized to accept", and the word "is" is substituted for "will be deemed", for consistency in the revised title.
 

@@ -14,7 +14,7 @@ Except for division C of Public Law 108–324 \[15 U.S.C. 720 et seq.\], the Sec
 
 &emsp;&emsp;(B) the Secretary has received from the borrower a payment in full for the cost of the guarantee and deposited the payment into the Treasury; or
 
-&emsp;&emsp;(C) a combination of one or more appropriations under subparagraph (A) and one or more payments from the borrower under subparagraph (B) has been made that is sufficient to cover the cost of the guarantee.
+&emsp;&emsp;(C) a combination of one or more appropriations under subparagraph (A) and one or more payments from the borrower undersubparagraph (B) has been made that is sufficient to cover the cost of the guarantee.
 
 #### (c) Amount
 
@@ -24,7 +24,7 @@ Unless otherwise provided by law, a guarantee by the Secretary shall not exceed 
 
 #### (1) In general
 
-&emsp;No guarantee shall be made unless the Secretary determines that there is reasonableprospect of repayment of the principal and interest on the obligation by the borrower.
+&emsp;No guarantee shall be made unless the Secretary determines that there is reasonable prospect of repayment of the principal and interest on the obligation by the borrower.
 
 #### (2) Amount
 
@@ -154,11 +154,11 @@ Reorganization Plan Numbered 14 of 1950, referred to in subsec. (k), is set out 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b). Pub. L. 112–74 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: “No guarantee shall be made unless—
+<b>2011</b>—Subsec. (b). Pub. L. 112–74 added subsec. (b) and struck out former subsec. (b). Prior to amendment, text read as follows: "No guarantee shall be made unless—
 
-&emsp;“(1) an appropriation for the cost has been made; or
+&emsp;"(1) an appropriation for the cost has been made; or
 
-&emsp;“(2) the Secretary has received from the borrower a payment in full for the cost of the obligation and deposited the payment into the Treasury.”
+&emsp;"(2) the Secretary has received from the borrower a payment in full for the cost of the obligation and deposited the payment into the Treasury."
 
 <b>2009</b>—Subsec. (k). Pub. L. 111–85 added subsec. (k).
 

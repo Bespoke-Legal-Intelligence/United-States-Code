@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Mar. 9, 1920, ch. 95, §3 (last sentence), 41 Stat. 526; Pub. L. 97–31, §12(25)(A), Aug. 6, 1981, 95 Stat. 155.
 
-The words “civil action” are substituted for “proceeding” for consistency in this chapter and with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
+The words "civil action" are substituted for "proceeding" for consistency in this chapter and with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 

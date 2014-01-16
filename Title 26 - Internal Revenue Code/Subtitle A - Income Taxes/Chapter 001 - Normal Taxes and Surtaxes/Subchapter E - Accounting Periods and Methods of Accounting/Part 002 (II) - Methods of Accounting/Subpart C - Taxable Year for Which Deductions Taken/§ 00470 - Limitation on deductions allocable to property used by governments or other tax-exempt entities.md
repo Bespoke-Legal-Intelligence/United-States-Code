@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (1) Tax-exempt use loss
 
-&emsp;The term “tax-exempt use loss” means, with respect to any taxable year, the amount (if any) by which—
+&emsp;The term "tax-exempt use loss" means, with respect to any taxable year, the amount (if any) by which—
 
 &emsp;&emsp;(A) the sum of—
 
@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “tax-exempt use property” has the meaning given to such term by section 168(h), except that such section shall be applied—
+&emsp;&emsp;The term "tax-exempt use property" has the meaning given to such term by section 168(h), except that such section shall be applied—
 
 &emsp;&emsp;&emsp;(i) without regard to paragraphs (1)(C) and (3) thereof, and
 
@@ -66,7 +66,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the term “allowable amount” means an amount equal to 20 percent of the lessor's adjusted basis in the property at the time the lease is entered into.
+&emsp;&emsp;&emsp;Except as otherwise provided in this subparagraph, the term "allowable amount" means an amount equal to 20 percent of the lessor's adjusted basis in the property at the time the lease is entered into.
 
 #### (ii) Higher amount permitted in certain cases
 
@@ -86,7 +86,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 &emsp;&emsp;&emsp;&emsp;(III) in the case of a transaction which involves a lender, any credit support made available to the lessor in which any such lender does not have a claim that is senior to the lessor.
 
-&emsp;&emsp;&nbsp;For purposes of subclause (I), the term “loan” shall not include any amount treated as a loan under section 467 with respect to a section 467 rental agreement.
+&emsp;&emsp;&nbsp;For purposes of subclause (I), the term "loan" shall not include any amount treated as a loan under section 467 with respect to a section 467 rental agreement.
 
 #### (2) Lessor must make substantial equity investment
 
@@ -152,7 +152,7 @@ This section shall not apply to any lease of property which meets the requiremen
 
 #### (B) Former tax-exempt use property
 
-&emsp;&emsp;For purposes of this subsection, the term “former tax-exempt use property” means any property which—
+&emsp;&emsp;For purposes of this subsection, the term "former tax-exempt use property" means any property which—
 
 &emsp;&emsp;&emsp;(i) is not tax-exempt use property for the taxable year, but
 
@@ -190,19 +190,19 @@ For purposes of this section—
 
 #### (1) Related parties
 
-&emsp;The terms “lessor”, “lessee”, and “lender” each include any related party (within the meaning of section 197(f)(9)(C)(i)).
+&emsp;The terms "lessor", "lessee", and "lender" each include any related party (within the meaning of section 197(f)(9)(C)(i)).
 
 #### (2) Lease term
 
-&emsp;The term “lease term” has the meaning given to such term by section 168(i)(3).
+&emsp;The term "lease term" has the meaning given to such term by section 168(i)(3).
 
 #### (3) Lender
 
-&emsp;The term “lender” means, with respect to any lease, a person that makes a loan to the lessor which is secured (or economically similar to being secured) by the lease or the leased property.
+&emsp;The term "lender" means, with respect to any lease, a person that makes a loan to the lessor which is secured (or economically similar to being secured) by the lease or the leased property.
 
 #### (4) Loan
 
-&emsp;The term “loan” includes any similar arrangement.
+&emsp;The term "loan" includes any similar arrangement.
 
 #### (g) Regulations
 
@@ -216,23 +216,23 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(2). Pub. L. 110–172, §7(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘tax-exempt use property’ has the meaning given to such term by section 168(h), except that such section shall be applied—
+<b>2007</b>—Subsec. (c)(2). Pub. L. 110–172, §7(c)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The term 'tax-exempt use property' has the meaning given to such term by section 168(h), except that such section shall be applied—
 
-&emsp;“(A) without regard to paragraphs (1)(C) and (3) thereof, and
+&emsp;"(A) without regard to paragraphs (1)(C) and (3) thereof, and
 
-&emsp;“(B) as if property described in—
+&emsp;"(B) as if property described in—
 
-&emsp;&emsp;“(i) section 167(f)(1)(B),
+&emsp;&emsp;"(i) section 167(f)(1)(B),
 
-&emsp;&emsp;“(ii) section 167(f)(2), and
+&emsp;&emsp;"(ii) section 167(f)(2), and
 
-&emsp;&emsp;“(iii) section 197 intangible,
+&emsp;&emsp;"(iii) section 197 intangible,
 
 > &emsp;were tangible property.
 
-> Such term shall not include property which would (but for this sentence) be tax-exempt use property solely by reason of section 168(h)(6) if any credit is allowable under section 42 or 47 with respect to such property.”
+> Such term shall not include property which would (but for this sentence) be tax-exempt use property solely by reason of section 168(h)(6) if any credit is allowable under section 42 or 47 with respect to such property."
 
-Subsec. (d)(1)(A). Pub. L. 110–172, §7(c)(2), in introductory provisions, substituted “(at all times during the lease term)” for “(at any time during the lease term)”.
+Subsec. (d)(1)(A). Pub. L. 110–172, §7(c)(2), in introductory provisions, substituted "(at all times during the lease term)" for "(at any time during the lease term)".
 
 #### Effective Date of 2007 Amendment
 
@@ -242,35 +242,35 @@ Amendment by Pub. L. 110–172 effective as if included in the provision of the 
 
 Pub. L. 108–357, title VIII, §849, Oct. 22, 2004, 118 Stat. 1606, as amended by Pub. L. 109–135, title IV, §403(ff), Dec. 21, 2005, 119 Stat. 2631, provided that:
 
-“(a)
+"(a)
 
 In General.—Except as provided in this section, the amendments made by this part \[part III (§§847–849) of subtitle B of title VIII of Pub. L. 108–357, enacting this section and amending sections 167, 168, and 197 of this title\] shall apply to leases entered into after March 12, 2004, and in the case of property treated as tax-exempt use property other than by reason of a lease, to property acquired after March 12, 2004.
 
-“(b)
+"(b)
 
 Exception.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The amendments made by this part shall not apply to qualified transportation property.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Qualified transportation property.—For purposes of paragraph (1), the term ‘qualified transportation property’ means domestic property subject to a lease with respect to which a formal application—
+Qualified transportation property.—For purposes of paragraph (1), the term 'qualified transportation property' means domestic property subject to a lease with respect to which a formal application—
 
-&emsp;&emsp;“(A) was submitted for approval to the Federal Transit Administration (an agency of the Department of Transportation) after June 30, 2003, and before March 13, 2004,
+&emsp;&emsp;"(A) was submitted for approval to the Federal Transit Administration (an agency of the Department of Transportation) after June 30, 2003, and before March 13, 2004,
 
-&emsp;&emsp;“(B) is approved by the Federal Transit Administration before January 1, 2006, and
+&emsp;&emsp;"(B) is approved by the Federal Transit Administration before January 1, 2006, and
 
-&emsp;&emsp;“(C) includes a description of such property and the value of such property.
+&emsp;&emsp;"(C) includes a description of such property and the value of such property.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Exchanges and conversion of tax-exempt use property.—Section 470(e)(4) of the Internal Revenue Code of 1986, as added by section 848, shall apply to property exchanged or converted after the date of the enactment of this Act \[Oct. 22, 2004\].
 
-&emsp;“(4)
+&emsp;"(4)
 
-Intangibles and indian tribal governments.—The amendments made subsections (b)(2), (b)(3), and (e) of section 847 \[amending sections 167, 168, and 197 of this title\], and the treatment of property described in clauses (ii) and (iii) of section 470(c)(2)(B) of the Internal Revenue Code of 1986 (as added by section 848) as tangible property, shall apply to leases entered into after October 3, 2004.”
+Intangibles and indian tribal governments.—The amendments made subsections (b)(2), (b)(3), and (e) of section 847 \[amending sections 167, 168, and 197 of this title\], and the treatment of property described in clauses (ii) and (iii) of section 470(c)(2)(B) of the Internal Revenue Code of 1986 (as added by section 848) as tangible property, shall apply to leases entered into after October 3, 2004."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph (A)(ii)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subparagraph (A)(ii)".</i>
 

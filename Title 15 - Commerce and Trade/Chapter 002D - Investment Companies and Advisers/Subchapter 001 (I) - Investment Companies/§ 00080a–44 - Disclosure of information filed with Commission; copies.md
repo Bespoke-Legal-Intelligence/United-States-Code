@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–550 substituted “Except as provided in section 78x(c) of this title, it shall be unlawful” for “It shall be unlawful”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–550 substituted "Except as provided in section 78x(c) of this title, it shall be unlawful" for "It shall be unlawful".
 
 #### Transfer of Functions
 

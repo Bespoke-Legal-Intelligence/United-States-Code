@@ -28,7 +28,7 @@ Minor changes were made in translation and phraseology.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330016(1)(K), substituted "fined under this title" for "fined not more than $5,000".
 
-Subsec. (b). Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
+Subsec. (b). Pub. L. 103–322, §330016(1)(L), substituted "fined under this title" for "fined not more than $10,000".
 

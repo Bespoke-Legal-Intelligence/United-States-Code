@@ -18,7 +18,7 @@ A prior section 3839aa–6, Pub. L. 99–198, title XII, §1240F, as added Pub. 
 
 #### Amendments
 
-<b>2008</b>—Par. (1). Pub. L. 110–246, §2507, struck out “cost-share payments or incentive” before “payments”.
+<b>2008</b>—Par. (1). Pub. L. 110–246, §2507, struck out "cost-share payments or incentive" before "payments".
 
 #### Effective Date of 2008 Amendment
 

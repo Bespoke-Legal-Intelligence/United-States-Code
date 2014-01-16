@@ -36,7 +36,7 @@ Except as provided in subsection (b) of this section, gaming regulated by this c
 
 &emsp;(B) the interests of the Miccosukee Tribe of Indians of Florida in approximately 25 contiguous acres of land, more or less, in Dade County, Florida, located within one mile of the intersection of State Road Numbered 27 (also known as Krome Avenue) and the Tamiami Trail.
 
-(3) Upon request of the governing body of the Miccosukee Tribe of Indians of Florida, the Secretary shall, notwithstanding any other provision of law, accept the transfer by such Tribe tothe Secretary of the interests of such Tribe in the lands described in paragraph (2)(B) and the Secretary shall declare that such interests are held in trust by the Secretary for the benefit of such Tribe and that such interests are part of the reservation of such Tribe under sections 465 and 467 of this title, subject to any encumbrances and rights that are held at the time of such transfer by any person or entity other than such Tribe. The Secretary shall publish in the Federal Register the legal description of any lands that are declared held in trust by the Secretary under this paragraph.
+(3) Upon request of the governing body of the Miccosukee Tribe of Indians of Florida, the Secretary shall, notwithstanding any other provision of law, accept the transfer by such Tribe to the Secretary of the interests of such Tribe in the lands described in paragraph (2)(B) and the Secretary shall declare that such interests are held in trust by the Secretary for the benefit of such Tribe and that such interests are part of the reservation of such Tribe under sections 465 and 467 of this title, subject to any encumbrances and rights that are held at the time of such transfer by any person or entity other than such Tribe. The Secretary shall publish in the Federal Register the legal description of any lands that are declared held in trust by the Secretary under this paragraph.
 
 #### (c) Authority of Secretary not affected
 
@@ -49,4 +49,8 @@ Nothing in this section shall affect or diminish the authority and responsibilit
 (2) The provisions of this subsection shall apply notwithstanding any other provision of law enacted before, on, or after October 17, 1988, unless such other provision of law specifically cites this subsection.
 
 (Pub. L. 100–497, §20, Oct. 17, 1988, 102 Stat. 2485.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a) and (d)(1), was in the original "this Act", meaning Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, known as the Indian Gaming Regulatory Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
 

@@ -20,35 +20,35 @@
 
 (b) Under regulations to be prescribed by the Secretary of Defense, the Secretary concerned, upon application to him, shall furnish one gold star lapel button without cost to the widow and to each parent and next of kin of a member who lost or loses his or her life under any circumstances prescribed in subsection (a).
 
-(c) Not more than one gold star lapel button may be furnished to any one individual except that, when a gold star lapel button furnished under this section has been lost, destroyed, or rendered unfit for use without fault or neglecton the part of the person to whom it was furnished, the button may be replaced upon application and payment of an amount sufficient to cover the cost of manufacture and distribution.
+(c) Not more than one gold star lapel button may be furnished to any one individual except that, when a gold star lapel button furnished under this section has been lost, destroyed, or rendered unfit for use without fault or neglect on the part of the person to whom it was furnished, the button may be replaced upon application and payment of an amount sufficient to cover the cost of manufacture and distribution.
 
 (d) In this section:
 
-&emsp;(1) The term “widow” includes widower.
+&emsp;(1) The term "widow" includes widower.
 
-&emsp;(2) The term “parents” includes mother, father, stepmother, stepfather, mother through adoption, father through adoption, and foster parents who stood in loco parentis.
+&emsp;(2) The term "parents" includes mother, father, stepmother, stepfather, mother through adoption, father through adoption, and foster parents who stood in loco parentis.
 
-&emsp;(3) The term “next of kin” includes only children, brothers, sisters, half brothers, and half sisters.
+&emsp;(3) The term "next of kin" includes only children, brothers, sisters, half brothers, and half sisters.
 
-&emsp;(4) The term “children” includes stepchildren and children through adoption.
+&emsp;(4) The term "children" includes stepchildren and children through adoption.
 
-&emsp;(5) The term “World War I” includes the period from April 6, 1917, to March 3, 1921.
+&emsp;(5) The term "World War I" includes the period from April 6, 1917, to March 3, 1921.
 
-&emsp;(6) The term “World War II” includes the period from September 8, 1939, to July 25, 1947, at 12 o'clock noon.
+&emsp;(6) The term "World War II" includes the period from September 8, 1939, to July 25, 1947, at 12 o'clock noon.
 
-&emsp;(7) The term “military operations” includes those operations involving members of the armed forces assisting in United States Government sponsored training of military personnel of a foreign nation.
+&emsp;(7) The term "military operations" includes those operations involving members of the armed forces assisting in United States Government sponsored training of military personnel of a foreign nation.
 
-&emsp;(8) The term “peacekeeping force” includes those personnel assigned to a force engaged in a peacekeeping operation authorized by the United Nations Security Council.
+&emsp;(8) The term "peacekeeping force" includes those personnel assigned to a force engaged in a peacekeeping operation authorized by the United Nations Security Council.
 
 (Added Pub. L. 89–534, §1(1), Aug. 11, 1966, 80 Stat. 345, §1124; renumbered §1126, Pub. L. 89–718, §9, Nov. 2, 1966, 80 Stat. 1117; amended Pub. L. 98–94, title XII, §1268(8), Sept. 24, 1983, 97 Stat. 706; Pub. L. 100–26, §7(k)(5), Apr. 21, 1987, 101 Stat. 284; Pub. L. 103–160, div. A, title XI, §1143, Nov. 30, 1993, 107 Stat. 1757.)
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–160, §1143(a), struck out “of the United States” after “armed forces” in introductory provisions, redesignated cls. (i) to (iii) of par. (2) as subpars. (A) to (C), respectively, and added par. (3).
+<b>1993</b>—Subsec. (a). Pub. L. 103–160, §1143(a), struck out "of the United States" after "armed forces" in introductory provisions, redesignated cls. (i) to (iii) of par. (2) as subpars. (A) to (C), respectively, and added par. (3).
 
 Subsec. (d)(7), (8). Pub. L. 103–160, §1143(b), added pars. (7) and (8).
 
-<b>1987</b>—Subsec. (d). Pub. L. 100–26 substituted colon for dash at end of introductory provisions, inserted “The term” in each par., and substituted periods for semicolons in pars. (1) to (4) and period for “; and” in par. (5).
+<b>1987</b>—Subsec. (d). Pub. L. 100–26 substituted colon for dash at end of introductory provisions, inserted "The term" in each par., and substituted periods for semicolons in pars. (1) to (4) and period for "; and" in par. (5).
 
-<b>1983</b>—Subsec. (a)(1). Pub. L. 98–94 substituted “who” for “Who”.
+<b>1983</b>—Subsec. (a)(1). Pub. L. 98–94 substituted "who" for "Who".
 

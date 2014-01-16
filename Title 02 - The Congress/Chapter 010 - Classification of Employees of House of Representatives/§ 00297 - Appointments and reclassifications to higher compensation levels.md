@@ -6,7 +6,7 @@
 
 &emsp;(2) at the rate of the lowest step for which the rate of compensation exceeds, by not less than two steps of the compensation level from which he is appointed, his rate of compensation immediately prior to such appointment; or
 
-&emsp;(3) at the rate of the highest step of such higher compensation level, or at his rate of compensation immediately prior to such appointment, whichever rate is the higher.
+&emsp;(3) at the rate of the highest step of such higher compensation level, or at his rate ofcompensation immediately prior to such appointment, whichever rate is the higher.
 
 (b) The committee may provide by regulations for the payment of compensation, at an appropriate compensation step determined in accordance with such regulations, to each employee subject to the House Wage Schedule (HWS) who is appointed to a position in a higher compensation level of such schedule or whose position is placed in a higher compensation level of such schedule pursuant to a reclassification of such position.
 

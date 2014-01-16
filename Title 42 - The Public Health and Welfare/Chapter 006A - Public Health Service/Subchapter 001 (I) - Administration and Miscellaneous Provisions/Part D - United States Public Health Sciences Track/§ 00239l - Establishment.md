@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is hereby authorized to be established a United States Public Health Sciences Track (referred to in this part as the “Track”), at sites to be selected by the Secretary, with authority to grant appropriate advanced degrees in a manner that uniquely emphasizes team-based service, public health, epidemiology, and emergency preparedness and response. It shall be so organized as to graduate not less than—
+&emsp;There is hereby authorized to be established a United States Public Health Sciences Track (referred to in this part as the "Track"), at sites to be selected by the Secretary, with authority to grant appropriate advanced degrees in a manner that uniquely emphasizes team-based service, public health, epidemiology, and emergency preparedness and response. It shall be so organized as to graduate not less than—
 
 &emsp;&emsp;(A) 150 medical students annually, 10 of whom shall be awarded studentships to the Uniformed Services University of Health Sciences;
 

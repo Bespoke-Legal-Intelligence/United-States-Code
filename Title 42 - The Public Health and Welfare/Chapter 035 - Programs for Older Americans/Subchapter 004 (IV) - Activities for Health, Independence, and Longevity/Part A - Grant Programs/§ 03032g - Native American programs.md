@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Assistant Secretary shall make grants or enter into contracts with not fewer than two and not more than four eligible entities to establish and operate Resource Centers on Native American Elders (referred to in this section as “Resource Centers”). The Assistant Secretary shall make such grants or enter into such contracts for periods of not less than 3 years.
+&emsp;The Assistant Secretary shall make grants or enter into contracts with not fewer than two and not more than four eligible entities to establish and operate Resource Centers on Native American Elders (referred to in this section as "Resource Centers"). The Assistant Secretary shall make such grants or enter into such contracts for periods of not less than 3 years.
 
 #### (2) Functions
 
@@ -22,7 +22,7 @@
 
 #### (B) Areas of concern
 
-&emsp;&emsp;In conducting the functions described in subparagraph (A), a Resource Center shall focus on priority areas of concern for the Resource Centers regarding Native Americans who are older individuals, which areas shall be—
+&emsp;&emsp;In conducting the functions described in subparagraph (A), a Resource Center shallfocus on priority areas of concern for the Resource Centers regarding Native Americans who are older individuals, which areas shall be—
 
 &emsp;&emsp;&emsp;(i) health (including mental health) problems;
 
@@ -56,5 +56,5 @@ The Assistant Secretary shall make grants and enter into contracts to provide in
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(2)(B)(i). Pub. L. 109–365 inserted “(including mental health)” after “health”.
+<b>2006</b>—Subsec. (a)(2)(B)(i). Pub. L. 109–365 inserted "(including mental health)" after "health".
 

@@ -6,5 +6,5 @@ In order to insure appropriate representation at meetings of international fishe
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–659 struck out “the Great Lakes Fishery Commission,” after “the International Pacific Halibut Commission,”.
+<b>1986</b>—Pub. L. 99–659 struck out "the Great Lakes Fishery Commission," after "the International Pacific Halibut Commission,".
 

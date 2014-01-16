@@ -8,7 +8,7 @@ In the case of any estate with respect to which an election has been made under 
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “section 6166 lien property” means interests in real and other property to the extent such interests—
+&emsp;For purposes of this section, the term "section 6166 lien property" means interests in real and other property to the extent such interests—
 
 &emsp;&emsp;(A) can be expected to survive the deferral period, and
 
@@ -30,7 +30,7 @@ In the case of any estate with respect to which an election has been made under 
 
 #### (c) Agreement
 
-The agreement referred to in this subsection is a written agreement signed by each person in being who has an interest (whether or not in possession) in any property designated in such agreement—
+The agreement referred to in this subsection is a written agreement signed by each person inbeing who has an interest (whether or not in possession) in any property designated in such agreement—
 
 &emsp;(1) consenting to the creation of the lien under this section with respect to such property, and
 
@@ -82,15 +82,15 @@ For purposes of this section—
 
 #### (1) Deferred amount
 
-&emsp;The term “deferred amount” means the aggregate amount deferred under section 6166 (determined as of the date prescribed by section 6151(a) for payment of the tax imposed by chapter 11).
+&emsp;The term "deferred amount" means the aggregate amount deferred under section 6166 (determined as of the date prescribed by section 6151(a) for payment of the tax imposed by chapter 11).
 
 #### (2) Required interest amount
 
-&emsp;The term “required interest amount” means the aggregate amount of interest which will be payable over the first 4 years of the deferral period with respect to the deferred amount (determined as of the date prescribed by section 6151(a) for the payment of the tax imposed by chapter 11).
+&emsp;The term "required interest amount" means the aggregate amount of interest which will be payable over the first 4 years of the deferral period with respect to the deferred amount (determined as of the date prescribed by section 6151(a) for the payment of the tax imposed by chapter 11).
 
 #### (3) Deferral period
 
-&emsp;The term “deferral period” means the period for which the payment of tax is deferred pursuant to the election under section 6166.
+&emsp;The term "deferral period" means the period for which the payment of tax is deferred pursuant to the election under section 6166.
 
 #### (4) Application of definitions in case of deficiencies
 
@@ -100,21 +100,21 @@ For purposes of this section—
 
 #### Amendments
 
-<b>1981</b>—Pub. L. 97–34, §422(e)(6)(C), struck out “or 6166A” after “section 6166” in section catchline.
+<b>1981</b>—Pub. L. 97–34, §422(e)(6)(C), struck out "or 6166A" after "section 6166" in section catchline.
 
-Subsecs. (a), (c)(2). Pub. L. 97–34, §422(e)(6)(A), struck out “or 6166A” after “section 6166”.
+Subsecs. (a), (c)(2). Pub. L. 97–34, §422(e)(6)(A), struck out "or 6166A" after "section 6166".
 
-Subsec. (d)(3), (5). Pub. L. 97–34, §422(e)(6)(B), struck out “or 6166A(h)” after “section 6166(g)”.
+Subsec. (d)(3), (5). Pub. L. 97–34, §422(e)(6)(B), struck out "or 6166A(h)" after "section 6166(g)".
 
-Subsec. (e)(1), (3), (4). Pub. L. 97–34, §422(e)(6)(A), struck out “or 6166A” after “section 6166”.
+Subsec. (e)(1), (3), (4). Pub. L. 97–34, §422(e)(6)(A), struck out "or 6166A" after "section 6166".
 
-<b>1978</b>—Subsec. (b)(2)(B). Pub. L. 95–600, §702(e)(1)(B), substituted “required interest amount” for “aggregate interest amount”.
+<b>1978</b>—Subsec. (b)(2)(B). Pub. L. 95–600, §702(e)(1)(B), substituted "required interest amount" for "aggregate interest amount".
 
-Subsec. (d)(5). Pub. L. 95–600, §702(e)(1)(C), substituted “required interest amount” for “aggregate interest amount”.
+Subsec. (d)(5). Pub. L. 95–600, §702(e)(1)(C), substituted "required interest amount" for "aggregate interest amount".
 
-Subsec. (e)(2). Pub. L. 95–600, §702(e)(1)(A), substituted “Required interest amount” for “Aggregate interest amount” in heading and in text “required interest amount”, “over the first 4 years of the deferral period” and “for the payment” for “aggregate interest amount”, “over the deferral period” and “for payment”, respectively.
+Subsec. (e)(2). Pub. L. 95–600, §702(e)(1)(A), substituted "Required interest amount" for "Aggregate interest amount" in heading and in text "required interest amount", "over the first 4 years of the deferral period" and "for the payment" for "aggregate interest amount", "over the deferral period" and "for payment", respectively.
 
-Subsec. (e)(4). Pub. L. 95–600, §702(e)(1)(D), substituted “required interest amount” for “aggregate interest amount”.
+Subsec. (e)(4). Pub. L. 95–600, §702(e)(1)(D), substituted "required interest amount" for "aggregate interest amount".
 
 #### Effective Date of 1981 Amendment
 
@@ -122,5 +122,5 @@ Amendment by Pub. L. 97–34 applicable to estates of decedents dying after Dec.
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title VII, §702(e)(2), Nov. 6, 1978, 92 Stat. 2930, provided that: “The amendments made by this section \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976.”
+Pub. L. 95–600, title VII, §702(e)(2), Nov. 6, 1978, 92 Stat. 2930, provided that: "The amendments made by this section \[amending this section\] shall apply to the estates of decedents dying after December 31, 1976."
 

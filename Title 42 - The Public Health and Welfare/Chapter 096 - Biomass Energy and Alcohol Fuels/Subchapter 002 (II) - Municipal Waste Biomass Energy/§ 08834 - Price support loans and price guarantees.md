@@ -4,7 +4,7 @@
 
 (1) In the case of any existing municipal waste energy project which produces and sells biomass energy, the Secretary of Energy may commit to make, and make, a price support loan in amounts determined under paragraph (3) for the operation of such project. Payments under any such loan shall be disbursed on an annual basis, as determined (in accordance with paragraph (3)) on the basis of the amount of biomass energy produced and sold by that project during the 12-month period involved and the type and cost of fuel displaced by the biomass energy sold.
 
-(2)(A) In the case of any support loan under this section for an existing municipal waste energy project—
+(2)(A) <sup>1</sup> In the case of any support loan under this section for an existing municipal waste energy project—
 
 &emsp;(i) disbursements under such loan may not be made for more than 5 consecutive 12-month periods;
 
@@ -16,7 +16,7 @@
 
 (3) The amount of the loan payment to be disbursed under this subsection for any year with respect to each type of biomass energy produced and sold by an existing municipal waste energy project shall be equal to—
 
-&emsp;(A)(i) the standard support price reduced by the cost of the fuel displaced by the biomassenergy sold, or (ii) $2.00, whichever is lower, multiplied by
+&emsp;(A)(i) the standard support price reduced by the cost of the fuel displaced by the biomass energy sold, or (ii) $2.00, whichever is lower, multiplied by
 
 &emsp;(B) the amount of such biomass energy sold (in millions of Btu's).
 
@@ -50,27 +50,29 @@
 
 For purposes of this section—
 
-&emsp;(1) The term “new municipal waste energy project” means any municipal waste energy project which—
+&emsp;(1) The term "new municipal waste energy project" means any municipal waste energy project which—
 
 &emsp;&emsp;(A) is initially placed in service after June 30, 1980; or
 
 &emsp;&emsp;(B) if initially placed in service before June 30, 1980, has an increased capacity by reason of additional construction, and as such is placed in service after such date.
 
-&emsp;(2) The term “existing municipal waste energy project” means any municipal waste energy project which is not a new municipal waste project.
+&emsp;(2) The term "existing municipal waste energy project" means any municipal waste energy project which is not a new municipal waste project.
 
-&emsp;(3) The term “placed in service” means operated at more than 50 percent of the estimated operational capacity.
+&emsp;(3) The term "placed in service" means operated at more than 50 percent of the estimated operational capacity.
 
-&emsp;(4)(A) Except as provided in subparagraphs (B) and (C), the term “standard support price” means the average price (per million Btu's) for No. 6 fuel oil imported into the United States on June 30, 1980, as determined, by rule, by the Secretary of Energy not later than 90 days after June 30, 1980.
+&emsp;(4)(A) Except as provided in subparagraphs (B) and (C), the term "standard support price" means the average price (per million Btu's) for No. 6 fuel oil imported into the United States on June 30, 1980, as determined, by rule, by the Secretary of Energy not later than 90 days after June 30, 1980.
 
-&emsp;(B) In any case in which the fuel displaced is No. 6 fuel oil or any higher grade of petroleum (as determined by the Secretary of Energy), the term “standard support price” means 125 per centum of the price determined by rule under subparagraph (A).
+&emsp;(B) In any case in which the fuel displaced is No. 6 fuel oil or any higher grade of petroleum (as determined by the Secretary of Energy), the term "standard support price" means 125 per centum of the price determined by rule under subparagraph (A).
 
-&emsp;(C) In any case in which biomass energy produced and sold by a project is steam or electricity, the term “standard support price” means the price determined by rule under subparagraph (A), subject to such adjustments as the Secretary of Energy may authorize by rule.
+&emsp;(C) In any case in which biomass energy produced and sold by a project is steam or electricity, the term "standard support price" means the price determined by rule under subparagraph (A), subject to such adjustments as the Secretary of Energy may authorize by rule.
 
-&emsp;(5) The term “cost of the fuel displaced” means the cost of the fuel (per million Btu's) which the purchaser of biomass energy would have purchased if the biomass energy had not been available for sale to that purchaser.
+&emsp;(5) The term "cost of the fuel displaced" means the cost of the fuel (per million Btu's) which the purchaser of biomass energy would have purchased if the biomass energy had not been available for sale to that purchaser.
 
 &emsp;(6) Any biomass energy produced by a municipal waste energy project which may be retained for use by the owner or operator of such project shall be considered to be sold at such price as the Secretary of Energy determines.
 
 &emsp;(7) Not later than 90 days after June 30, 1980, the Secretary of Energy shall prescribe, by rule, the manner of determining the fuel displaced by the sale of any biomass energy, and the price of the fuel displaced.
 
 (Pub. L. 96–294, title II, §234, June 30, 1980, 94 Stat. 699.)
+
+<i><sup>1</sup></i><i> So in original. No subpar. (B) has been enacted.</i>
 

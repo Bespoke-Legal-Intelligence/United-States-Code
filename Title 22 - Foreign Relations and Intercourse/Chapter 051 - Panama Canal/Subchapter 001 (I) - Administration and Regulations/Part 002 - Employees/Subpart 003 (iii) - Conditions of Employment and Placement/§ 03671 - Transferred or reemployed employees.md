@@ -30,7 +30,7 @@
 
 &emsp;(J) an employee grievance system, and the right to appeal adverse and disciplinary actions and position classification actions;
 
-&emsp;(K) veterans’ preference eligibility;
+&emsp;(K) veterans' preference eligibility;
 
 &emsp;(L) holidays;
 
@@ -40,7 +40,7 @@
 
 #### (b) Break in service
 
-Any individual described in subsection (a)(1)(B) of this section who would have met the service requirement for early retirement benefits under section 8336(i) or 8339(d)(2) of title 5 (as amended by sections 1241(a) and 1242 of this Act, respectively), but for a break in service of more than 3 days immediately after September 30, 1979, shall be considered to meet that requirement. Any break in service by any such individual for purposes of section 8332 of such title 5 during the period beginning September 30, 1979, and ending on the date of the appointment referred to in such subsection (a)(1)(B) of this section shall be considered a period of creditable service under such section 8332 for such individual, except that such period shall not be taken into account for purposes of determining average pay (as defined in section 8331(4) of such title 5) and no deduction, contribution, or deposit shall be required for that period under section 8334 of such title 5.
+Any individual described in subsection (a)(1)(B) of this section who would have met the service requirement for early retirement benefits under section 8336(i) or 8339(d)(2) of title 5 (as amended by sections 1241(a) and 1242 of this Act, respectively), but for a break in service of more than 3 days immediately after September 30, 1979, shall be considered to meet that requirement. Any break in service by any such individual for purposes of section 8332 of such title 5 during the period beginning September 30, 1979, and ending on the date of the appointment referred to in such subsection (a)(1)(B) of this section shall be considered a period of creditable service under such section 8332 for such individual, except that such period shall not be takeninto account for purposes of determining average pay (as defined in section 8331(4) of such title 5) and no deduction, contribution, or deposit shall be required for that period under section 8334 of such title 5.
 
 #### (c) Applicability of sections 903(c) and 904(a)(2) of title 20; sabbaticals
 
@@ -66,7 +66,7 @@ Any individual described in subsection (a)(1)(B) of this section who would have 
 
 #### References in Text
 
-This Act, referred to in subsec. (b), is Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama CanalAct of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
+This Act, referred to in subsec. (b), is Pub. L. 96–70, Sept. 27, 1979, 93 Stat. 452, known as the Panama Canal Act of 1979, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
 #### Codification
 
@@ -76,27 +76,27 @@ Section 1231(d) of Pub. L. 96–70 amended sections 5595, 5724a, and 8102 of Tit
 
 <b>1998</b>—Subsec. (a)(2)(A), (B). Pub. L. 105–261 struck out subpars. (A) and (B) which read as follows:
 
-“(A) rates of basic pay;
+"(A) rates of basic pay;
 
-“(B) tropical differential;”.
+"(B) tropical differential;".
 
 Subsec. (a)(2)(F) to (H). Pub. L. 105–261 struck out subpars. (F) to (H) which read as follows:
 
-“(F) leave and travel;
+"(F) leave and travel;
 
-“(G) transportation and repatriation benefits;
+"(G) transportation and repatriation benefits;
 
-“(H) group health and life insurance;”.
+"(H) group health and life insurance;".
 
-<b>1997</b>—Subsec. (c)(3)(A). Pub. L. 105–85 substituted “September 30, 1979” for “the day before October 1, 1979”.
+<b>1997</b>—Subsec. (c)(3)(A). Pub. L. 105–85 substituted "September 30, 1979" for "the day before October 1, 1979".
 
 <b>1996</b>—Subsec. (a)(3). Pub. L. 104–201 struck out par. (3) which read as follows:
 
-“(3)(A) The provisions of this subsection shall take effect on September 27, 1979.
+"(3)(A) The provisions of this subsection shall take effect on September 27, 1979.
 
-“(B) No spending authority (as described in section 651(c)(2)(C) of title 2) provided for under this subsection shall take effect before October 1, 1979.
+"(B) No spending authority (as described in section 651(c)(2)(C) of title 2) provided for under this subsection shall take effect before October 1, 1979.
 
-“(C) Effective October 1, 1979, any individual who, but for subparagraph (B) of this paragraph, would have been entitled to one or more payments pursuant to this subsection for periods before October 1, 1979, shall be entitled, to the extent or in such amounts as are provided in advance in appropriation Acts, to a lump sum payment equal to the total amount of all such payments.”
+"(C) Effective October 1, 1979, any individual who, but for subparagraph (B) of this paragraph, would have been entitled to one or more payments pursuant to this subsection for periods before October 1, 1979, shall be entitled, to the extent or in such amounts as are provided in advance in appropriation Acts, to a lump sum payment equal to the total amount of all such payments."
 
 #### Effective Date of 1998 Amendment
 

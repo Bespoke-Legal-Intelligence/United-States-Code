@@ -16,7 +16,7 @@ Limitation on Payment of Restructuring Costs.—(1) The Secretary of Defense may
 
 (b)
 
-Definition.—In this section, the term “business combination” includes a merger or acquisition.
+Definition.—In this section, the term "business combination" includes a merger or acquisition.
 
 (Added Pub. L. 105–85, div. A, title VIII, §804(a)(1), Nov. 18, 1997, 111 Stat. 1832; amended Pub. L. 106–65, div. A, title X, §1066(a)(19), Oct. 5, 1999, 113 Stat. 771; Pub. L. 108–375, div. A, title VIII, §819, Oct. 28, 2004, 118 Stat. 2016; Pub. L. 112–239, div. A, title X, §1076(g)(2), Jan. 2, 2013, 126 Stat. 1955.)
 
@@ -30,15 +30,15 @@ Another prior section 2325 was renumbered section 2345 of this title.
 
 <b>2013</b>—Subsec. (b). Pub. L. 112–239 redesignated subsec. (c) as (b) and struck out former subsec. (b) which required reports relating to business combinations occurring on or after August 15, 1994.
 
-<b>2004</b>—Subsec. (a)(2). Pub. L. 108–375 substituted “paragraph (1), with respect to a business combination, to an official of the Department of Defense—” for “paragraph (1) to an official of the Department of Defense below the level of an Assistant Secretary of Defense.” and added subpars. (A) and (B).
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–375 substituted "paragraph (1), with respect to a business combination, to an official of the Department of Defense—" for "paragraph (1) to an official of the Department of Defense below the level of an Assistant Secretary of Defense." and added subpars. (A) and (B).
 
-<b>1999</b>—Subsec. (a)(1). Pub. L. 106–65 inserted “that occurs after November 18, 1997,” after “of the contractor” in introductory provisions.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–65 inserted "that occurs after November 18, 1997," after "of the contractor" in introductory provisions.
 
 #### Effective Date
 
-Pub. L. 105–85, div. A, title VIII, §804(c), Nov. 18, 1997, 111 Stat. 1834, provided that: “Section 2325(a) of title 10, United States Code, as added by subsection (a), shall apply with respect to business combinations that occur after the date of the enactment of this Act \[Nov. 18, 1997\].”
+Pub. L. 105–85, div. A, title VIII, §804(c), Nov. 18, 1997, 111 Stat. 1834, provided that: "Section 2325(a) of title 10, United States Code, as added by subsection (a), shall apply with respect to business combinations that occur after the date of the enactment of this Act \[Nov. 18, 1997\]."
 
 #### GAO Reports
 
-Pub. L. 105–85, div. A, title VIII, §804(b), Nov. 18, 1997, 111 Stat. 1832, directed the Comptroller General, not later than Apr. 1, 1998, to identify major market areas affected by business combinations of defense contractors since Jan. 1, 1990, and develop a methodology for determining the savings from business combinations of defense contractors on the prices paid on particular defense contracts, and to submit to committees of Congress a report describing the changes in numbers of businesses competing for major defense contracts since Jan. 1, 1990; and directed the Comptroller General, not later than Dec. 1, 1998, to submit to committees of Congress a report containing updated information on restructuring costs of business combinations paid by the Department of Defense pursuant to certifications under Pub. L. 103–337, §818 (set out as a note under section 2324 of this title), savings realized by the Department of Defense as a result of the business combinations for which the payment of restructuring costs was so certified, and an assessment of the savings on the prices paid on a meaningful sample of defense contracts.
+Pub. L. 105–85, div. A, title VIII, §804(b), Nov. 18, 1997, 111 Stat. 1832, directed the Comptroller General, not later than Apr. 1, 1998, to identify major market areas affected by business combinations of defense contractors since Jan. 1, 1990, and develop a methodology for determining the savings from business combinations of defense contractors on the prices paid on particular defense contracts, and to submit to committees of Congress a report describing the changes in numbers of businesses competing for major defense contracts since Jan. 1, 1990; and directed the Comptroller General, not later than Dec. 1, 1998, to submit to committees of Congress a report containing updated information on restructuring costs of business combinations paid by the Department of Defense pursuant to certifications under Pub. L. 103–337, §818 (set out as a note under section 2324 of this title), savings realized by the Department of Defense as a result of the business combinations forwhich the payment of restructuring costs was so certified, and an assessment of the savings on the prices paid on a meaningful sample of defense contracts.
 

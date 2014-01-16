@@ -24,7 +24,7 @@ The National Security Assistance Strategy should—
 
 &emsp;(8) discuss how specific types of assistance, such as foreign military financing and international military education and training, will be combined at the country level to achieve United States objectives; and
 
-&emsp;(9) detail, with respect to each of the paragraphs (1) through (8), how specific types of assistance provided pursuant to the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] and the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] are coordinated with United States assistance programs managed by the Department of Defense and other agencies.
+&emsp;(9) detail, with respect to each of the paragraphs (1) through (8), how specific types of assistance provided pursuant to the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] and theForeign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] are coordinated with United States assistance programs managed by the Department of Defense and other agencies.
 
 #### (c) Covered assistance
 
@@ -50,5 +50,5 @@ Section was enacted as part of the Security Assistance Act of 2000, and not as p
 
 #### Definition
 
-Pub. L. 106–280, §2, Oct. 6, 2000, 114 Stat. 846, provided that: “In this Act \[see Short Title of 2000 Amendments note set out under section 2151 of this title\], the term ‘appropriate committees of Congress’ means the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives.”
+Pub. L. 106–280, §2, Oct. 6, 2000, 114 Stat. 846, provided that: "In this Act \[see Short Title of 2000 Amendments note set out under section 2151 of this title\], the term 'appropriate committees of Congress' means the Committee on Foreign Relations of the Senate and the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives."
 

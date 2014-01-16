@@ -1,6 +1,6 @@
 ### §30124. Nonuse of safety belts
 
-A motor vehicle safety standard prescribed under this chapter may not require a manufacturer to comply with the standard by using asafety belt interlock designed to prevent starting or operating a motor vehicle if an occupant is not using a safety belt.
+A motor vehicle safety standard prescribed under this chapter may not require a manufacturer to comply with the standard by using a safety belt interlock designed to prevent starting or operating a motor vehicle if an occupant is not using a safety belt.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 957; Pub. L. 112–141, div. C, title I, §31202(a)(2), July 6, 2012, 126 Stat. 757.)
 
@@ -20,11 +20,11 @@ Historical and Revision Notes
 
 Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §125; added Oct. 27, 1974, Pub. L. 93–492, §109, 88 Stat. 1482.
 
-The text of 15:1410b(a) and (c)–(e) is omitted as obsolete. The text of 15:1410b(b)(2) and (3) and (f)(2) and (3) is omitted as unnecessary because of the restatement. The words “After the effective date of the amendment prescribed under subsection (a) of this section” are omitted as executed. The words “prescribed under this chapter” are substituted for “Federal” for consistency in this chapter.
+The text of 15:1410b(a) and (c)–(e) is omitted as obsolete. The text of 15:1410b(b)(2) and (3) and (f)(2) and (3) is omitted as unnecessary because of the restatement. The words "After the effective date of the amendment prescribed under subsection (a) of this section" are omitted as executed. The words "prescribed under this chapter" are substituted for "Federal" for consistency in this chapter.
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, text read as follows: “A motor vehicle safety standard prescribed under this chapter may not require or allow a manufacturer to comply with the standard by using a safety belt interlock designed to prevent starting or operating a motor vehicle if an occupant is not using a safety belt or a buzzer designed to indicate a safety belt is not in use, except a buzzer that operates only during the 8-second period after the ignition is turned to the ‘start’ or ‘on’ position.”
+<b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, text read as follows: "A motor vehicle safety standard prescribed under this chapter may not require or allow a manufacturer to comply with the standard by using a safety belt interlock designed to prevent starting or operating a motor vehicle if an occupant is not using a safety belt or a buzzer designed to indicate a safety belt is not in use, except a buzzer that operates only during the 8-second period after the ignition is turned to the 'start' or 'on' position."
 
 #### Effective Date of 2012 Amendment
 

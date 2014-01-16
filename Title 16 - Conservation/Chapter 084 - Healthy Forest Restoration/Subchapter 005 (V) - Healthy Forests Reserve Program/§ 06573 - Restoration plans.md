@@ -14,5 +14,5 @@ The restoration plan shall require such restoration practices as are necessary t
 
 (Pub. L. 108–148, title V, §503, Dec. 3, 2003, 117 Stat. 1912.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of the".</i>
 

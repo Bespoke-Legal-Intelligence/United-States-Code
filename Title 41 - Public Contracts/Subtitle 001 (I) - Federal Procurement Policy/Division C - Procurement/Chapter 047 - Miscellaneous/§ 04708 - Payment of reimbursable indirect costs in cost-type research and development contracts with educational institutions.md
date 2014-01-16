@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 87–638, Sept. 5, 1962, 76 Stat. 437.
 
-The words “On and after September 5, 1962” are omitted as obsolete.
+The words "On and after September 5, 1962" are omitted as obsolete.
 

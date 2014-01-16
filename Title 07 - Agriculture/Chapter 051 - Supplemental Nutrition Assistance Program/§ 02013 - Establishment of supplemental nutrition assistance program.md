@@ -52,7 +52,7 @@ Subject to the availability of funds appropriated under section 2027 of this tit
 
 #### (C) Definition of traditional and locally grown
 
-&emsp;&emsp;The Secretary shall determine the definition of the term “traditional and locally-grown” with respect to food distributed under this paragraph.
+&emsp;&emsp;The Secretary shall determine the definition of the term "traditional and locally-grown" with respect to food distributed under this paragraph.
 
 #### (D) Survey
 
@@ -86,23 +86,23 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–296 struck out “and, through an approved State plan, nutrition education” after “issuance to them of an allotment” in first sentence.
+<b>2010</b>—Subsec. (a). Pub. L. 111–296 struck out "and, through an approved State plan, nutrition education" after "issuance to them of an allotment" in first sentence.
 
-<b>2008</b>—Pub. L. 110–246, §4002(a)(1), substituted “supplemental nutrition assistance program” for “food stamp program” in section catchline.
+<b>2008</b>—Pub. L. 110–246, §4002(a)(1), substituted "supplemental nutrition assistance program" for "food stamp program" in section catchline.
 
-Subsec. (a). Pub. L. 110–246, §4115(b)(2), substituted “benefits” for “coupons” in two places and “benefits issued” for “Coupons issued”.
+Subsec. (a). Pub. L. 110–246, §4115(b)(2), substituted "benefits" for "coupons" in two places and "benefits issued" for "Coupons issued".
 
-Pub. L. 110–246, §4111(a), inserted “and, through an approved State plan, nutrition education” after “an allotment” in first sentence.
+Pub. L. 110–246, §4111(a), inserted "and, through an approved State plan, nutrition education" after "an allotment" in first sentence.
 
-Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program” wherever appearing.
+Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program" wherever appearing.
 
-Subsec. (b). Pub. L. 110–246, §4211(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “Distribution of commodities, with or without the food stamp program, shall be made whenever a request for concurrent or separate food program operations, respectively, is made by a tribal organization. In the event of distribution on all or part of an Indian reservation, the appropriate agency of the State government in the area involved shall be responsible for such distribution, except that, if the Secretary determines that the tribal organization is capable of effectively and efficiently administering such distribution, then such tribal organizations shall administer such distribution: <i>Provided</i>, That the Secretary shall not approve any plan for such distribution which permits any household on any Indian reservation to participate simultaneously in the food stamp program and the distribution of federally donated foods. The Secretary is authorized to pay such amounts for administrative costs of such distribution on Indian reservations as the Secretary finds necessary for effective administration of such distribution by a State agency or tribal organization.”
+Subsec. (b). Pub. L. 110–246, §4211(a), added subsec. (b) and struck out former subsec. (b) which read as follows: "Distribution of commodities, with or without the food stamp program, shall be made whenever a request for concurrent or separate food program operations, respectively, is made by a tribal organization. In the event of distribution on all or part of an Indian reservation, the appropriate agency of the State government in the area involved shall be responsible for such distribution, except that, if the Secretary determines that the tribal organization is capable of effectively and efficiently administering such distribution, then such tribal organizations shall administer such distribution: <i>Provided</i>, That the Secretary shall not approve any plan for such distribution which permits any household on any Indian reservation to participate simultaneously in the food stamp program and the distribution of federally donated foods. The Secretary is authorized to pay such amounts for administrative costs of such distribution on Indian reservations as the Secretary finds necessary for effective administration of such distribution by a State agency or tribal organization."
 
-Subsec. (c). Pub. L. 110–246, §4001(b), substituted “supplemental nutrition assistance program” for “food stamp program”.
+Subsec. (c). Pub. L. 110–246, §4001(b), substituted "supplemental nutrition assistance program" for "food stamp program".
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–198, §1505(a), inserted “, except that a State may not participate in the food stamp program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with coupons issued under this chapter” at end of first sentence.
+<b>1985</b>—Subsec. (a). Pub. L. 99–198, §1505(a), inserted ", except that a State may not participate in the food stamp program if the Secretary determines that State or local sales taxes are collected within that State on purchases of food made with coupons issued under this chapter" at end of first sentence.
 
-Subsec. (b). Pub. L. 99–198, §1506, struck out first sentence which directed that in jurisdictions where the food stamp program is in operation, there shall be no distribution of federally donated foods to households under the authority of any law, except that distribution may be made (1) on a temporary basis under programs authorized by law to meet disaster relief needs, or (2) for the purpose of the commodity supplemental food program, and struck out “also” after “shall” in second sentence.
+Subsec. (b). Pub. L. 99–198, §1506, struck out first sentence which directed that in jurisdictions where the food stamp program is in operation, there shall be no distribution of federally donated foods to households under the authority of any law, except that distribution may be made (1) on a temporary basis under programs authorized by law to meet disaster relief needs, or (2) for the purpose of the commodity supplemental food program, and struck out "also" after "shall" in second sentence.
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–113 made establishment of food stamp program subject to availability of funds appropriated under section 2027 of this title.
 
@@ -110,9 +110,9 @@ Subsec. (b). Pub. L. 95–113 inserted provisions relating to requests by tribal
 
 Subsec. (c). Pub. L. 95–113 inserted provisions relating to transmittal of regulations and accompanying statement of justification to Congressional committees.
 
-<b>1971</b>—Subsec. (a). Pub. L. 91–671 substituted “the State agency” and “the charge to be paid for such allotment by eligible households” for “an appropriate State agency” and “their normal expenditures for food”, respectively, and struck out “more nearly” before “to obtain”.
+<b>1971</b>—Subsec. (a). Pub. L. 91–671 substituted "the State agency" and "the charge to be paid for such allotment by eligible households" for "an appropriate State agency" and "their normal expenditures for food", respectively, and struck out "more nearly" before "to obtain".
 
-Subsec. (b). Pub. L. 91–671 substituted “operation” for “effect”, “federally donated foods” for “federally owned foods” where first appearing, and exception provision for distributions to households: during temporary emergency situations, for period of time necessary to effect transition to a food stamp program as a replacement of distribution of federally donated foods, or on request of the State agency without simultaneous participation in both the food stamp program and distribution of federally donated foods for prior exception during emergency situations caused by a national or other disaster.
+Subsec. (b). Pub. L. 91–671 substituted "operation" for "effect", "federally donated foods" for "federally owned foods" where first appearing, and exception provision for distributions to households: during temporary emergency situations, for period of time necessary to effect transition to a food stamp program as a replacement of distribution of federally donated foods, or on request of the State agency without simultaneous participation in both the food stamp program and distribution of federally donated foods for prior exception during emergency situations caused by a national or other disaster.
 
 #### Effective Date of 2010 Amendment
 
@@ -128,9 +128,9 @@ Amendment by sections 4001(b), 4002(a)(1), 4111(a), 4115(b)(2), and 4211(a) of P
 
 Pub. L. 99–198, title XV, §1505(b), Dec. 23, 1985, 99 Stat. 1567, provided that:
 
-“(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall take effect with respect to a State beginning on the first day of the fiscal year that commences in the calendar year during which the first regular session of the legislature of such State is convened following the date of enactment of this Act \[Dec. 23, 1985\].
+"(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] shall take effect with respect to a State beginning on the first day of the fiscal year that commences in the calendar year during which the first regular session of the legislature of such State is convened following the date of enactment of this Act \[Dec. 23, 1985\].
 
-“(2) Upon a showing by a State, to the satisfaction of the Secretary, that the application of paragraph (1), without regard to this paragraph, would have an adverse and disruptive effect on the administration of the food stamp program in such State or would provide inadequate time for retail stores to implement changes in sales tax policy required as a result of the amendment made by subsection (a) \[amending this section\], the Secretary may delay the effective date of subsection (a) with respect to such State to a date not later than October 1, 1987.”
+"(2) Upon a showing by a State, to the satisfaction of the Secretary, that the application of paragraph (1), without regard to this paragraph, would have an adverse and disruptive effect on the administration of the food stamp program in such State or would provide inadequate time for retail stores to implement changes in sales tax policy required as a result of the amendment made by subsection (a) \[amending this section\], the Secretary may delay the effective date of subsection (a) with respect to such State to a date not later than October 1, 1987."
 
 #### Effective Date of 1977 Amendment
 

@@ -14,5 +14,5 @@ Amounts appropriated for program direction pursuant to a DOE national security a
 
 Section was formerly classified to section 7386h of Title 42, The Public Health and Welfare, prior to renumbering by Pub. L. 108–136.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “authorization”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "authorization".</i>
 

@@ -20,5 +20,5 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Application of Section
 
-This section not to affect any liability of any person under section 1446 of this title as in effect before Dec.23, 1985, see section 108 of Pub. L. 99–198, set out as an Application of 1985 Amendments note under section 1446 of this title.
+This section not to affect any liability of any person under section 1446 of this title as in effect before Dec. 23, 1985, see section 108 of Pub. L. 99–198, set out as an Application of 1985 Amendments note under section 1446 of this title.
 

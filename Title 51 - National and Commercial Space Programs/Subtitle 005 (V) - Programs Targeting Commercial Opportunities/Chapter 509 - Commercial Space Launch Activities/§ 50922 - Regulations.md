@@ -52,7 +52,7 @@ The Commercial Space Launch Amendments Act of 2004, referred to in subsecs. (c) 
 
 <b>2010</b>—Pub. L. 111–314, §4(d)(2), (3)(V), successively renumbered section 70120 of title 49 and section 70120 of this title as this section.
 
-Subsec. (c)(2)(B). Pub. L. 111–314, §4(d)(5)(U), substituted “section 50902” for “section 70102”.
+Subsec. (c)(2)(B). Pub. L. 111–314, §4(d)(5)(U), substituted "section 50902" for "section 70102".
 
 <b>2004</b>—Subsecs. (c), (d). Pub. L. 108–492 added subsecs. (c) and (d).
 

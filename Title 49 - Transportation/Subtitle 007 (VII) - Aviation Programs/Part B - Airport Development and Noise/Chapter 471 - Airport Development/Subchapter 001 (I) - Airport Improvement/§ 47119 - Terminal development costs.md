@@ -22,7 +22,7 @@ In general.—The Secretary of Transportation may approve a project for terminal
 
 &emsp;(2)
 
-Project in revenue-producing areas and nonrevenue-producing parking lots.—In making a decision under paragraph (1), the Secretary may approve as allowable costs theexpenses of terminal development in a revenue-producing area and construction, reconstruction, repair, and improvement in a nonrevenue-producing parking lot if—
+Project in revenue-producing areas and nonrevenue-producing parking lots.—In making a decision under paragraph (1), the Secretary may approve as allowable costs the expenses of terminal development in a revenue-producing area and construction, reconstruction, repair, and improvement in a nonrevenue-producing parking lot if—
 
 &emsp;&emsp;(A) except as provided in section 47108(e)(3), the airport does not have more than .05 percent of the total annual passenger boardings in the United States; and
 
@@ -90,7 +90,7 @@ Nonhub Airports.—With respect to a project at a commercial service airport whi
 
 (e)
 
-Determination of Passenger Boarding at Commercial Service Airports.—For the purpose of determining whether an amount may be distributed for a fiscal year from the discretionary fund in accordance with subsection (b)(2)(A) to a commercial service airport, the Secretary shall make the determination of whether or not a public airport is a commercial service airport on the basis of the number of passenger boardings and type of air service at the public airport in the calendar year that includes the first day of such fiscal year or the preceding calendar year, whichever is more beneficial to the airport.
+Determination of Passenger Boarding at Commercial Service Airports.—For the purpose of determining whether an amount may be distributed for a fiscal year from the discretionary fund in accordance with subsection\(b)(2)(A) to a commercial service airport, the Secretary shall make the determination of whether or not a public airport is a commercial service airport on the basis of the number of passenger boardings and type of air service at the public airport in the calendar year that includes the first day of such fiscal year or the preceding calendar year, whichever is more beneficial to the airport.
 
 (f) Limitation on Discretionary Funds.—The Secretary may distribute not more than $20,000,000 from the discretionary fund established under section 47115 for terminal development projects at a nonhub airport or a small hub airport that is eligible to receive discretionary funds under section 47108(e)(3).
 
@@ -126,9 +126,9 @@ Sept. 3, 1982, Pub. L. 97–248, §513(b)(2), 96 Stat. 690; Dec. 30, 1987, Pub. 
 
 Sept. 3, 1982, Pub. L. 97–248, §513(b)(3), 96 Stat. 690.
 
-In subsection (a), before clause (1), the words “(within the meaning of section 11(1) of the Airport and Airway Development Act of 1970 \[49 App. U.S.C. 1711(1)\] as in effect immediately before September 3, 1982)” are omitted because of the definition of “air carrier airport” in section 47102 of the revised title. The words “after June 30, 1970” are substituted for “on or after July 1, 1970” for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words. The words “to repay immediately money borrowed and used to pay the costs for terminal development at the airport, if those costs would be allowable project costs under section 47110(d) of this title” are substituted for “for the immediate retirement of the principal of bonds or other evidences of indebtedness the proceeds of which were used for that part of the terminal development at such airport the cost of which would be allowable under paragraph (1) of this subsection” for clarity and to eliminate unnecessary words.
+In subsection (a), before clause (1), the words "(within the meaning of section 11(1) of the Airport and Airway Development Act of 1970 \[49 App. U.S.C. 1711(1)\] as in effect immediately before September 3, 1982)" are omitted because of the definition of "air carrier airport" in section 47102 of the revised title. The words "after June 30, 1970" are substituted for "on or after July 1, 1970" for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words. The words "to repay immediately money borrowed and used to pay the costs for terminal development at the airport, if those costs would be allowable project costs under section 47110(d) of this title" are substituted for "for the immediate retirement of the principal of bonds or other evidences of indebtedness the proceeds of which were used for that part of the terminal development at such airport the cost of which would be allowable under paragraph (1) of this subsection" for clarity and to eliminate unnecessary words.
 
-In subsection (b), before clause (1), the words “In a fiscal year” are added for clarity. In clause (2), the words “from the discretionary fund” are substituted for “sums to be distributed at the discretion of the Secretary under section 2206(c) of this Appendix” for clarity and consistency in this chapter. In clause (3), the words “for projects” are added for clarity.
+In subsection (b), before clause (1), the words "In a fiscal year" are added for clarity. In clause (2), the words "from the discretionary fund" are substituted for "sums to be distributed at the discretion of the Secretary under section 2206(c) of this Appendix" for clarity and consistency in this chapter. In clause (3), the words "for projects" are added for clarity.
 
 Pub. L. 103–429
 
@@ -146,7 +146,7 @@ Pub. L. 103–429
 
 Sept. 3, 1982, Pub. L. 97–248, §513(b)(2), as amended May 26, 1994, Pub. L. 103–260, §107, 108 Stat. 700.
 
-In subsection (b)(3), the words “from the discretionary fund and small airport fund” are substituted for “sums to be distributed at the discretion of the Secretary under section 2206(c) and 2206(d) of this Appendix” for clarity and consistency in this chapter.
+In subsection (b)(3), the words "from the discretionary fund and small airport fund" are substituted for "sums to be distributed at the discretion of the Secretary under section 2206(c) and 2206(d) of this Appendix" for clarity and consistency in this chapter.
 
 #### References in Text
 
@@ -158,45 +158,45 @@ Section 20(b) of the Airport and Airway Development Act of 1970, referred to in 
 
 Subsec. (b). Pub. L. 112–95, §152(b)(1), redesignated subsec. (a) as (b). Former subsec. (b) redesignated (c).
 
-Subsec. (b)(3), (4)(A). Pub. L. 112–95, §152(b)(4), substituted “subsection (a)” for “section 47110(d)”.
+Subsec. (b)(3), (4)(A). Pub. L. 112–95, §152(b)(4), substituted "subsection (a)" for "section 47110(d)".
 
-Subsec. (b)(4)(B). Pub. L. 112–95, §152(b)(3), substituted “Secretary” for “Secretary of Transportation”.
+Subsec. (b)(4)(B). Pub. L. 112–95, §152(b)(3), substituted "Secretary" for "Secretary of Transportation".
 
-Subsec. (b)(5). Pub. L. 112–95, §152(b)(5), substituted “subsections (c)(1) and (c)(2)” for “subsection (b)(1) and (2)”.
+Subsec. (b)(5). Pub. L. 112–95, §152(b)(5), substituted "subsections (c)(1) and (c)(2)" for "subsection (b)(1) and (2)".
 
 Subsec. (c). Pub. L. 112–95, §152(b)(1), redesignated subsec. (b) as (c). Former subsec. (c) redesignated (d).
 
-Subsec. (c)(1), (2)(A). Pub. L. 112–95, §152(b)(6), substituted “subsection (a)” for “section 47110(d) of this title”.
+Subsec. (c)(1), (2)(A). Pub. L. 112–95, §152(b)(6), substituted "subsection (a)" for "section 47110(d) of this title".
 
-Subsec. (c)(2)(B). Pub. L. 112–95, §152(b)(7), substituted “subsection (a)” for “section 47110(d)”.
+Subsec. (c)(2)(B). Pub. L. 112–95, §152(b)(7), substituted "subsection (a)" for "section 47110(d)".
 
-Subsec. (c)(3), (4). Pub. L. 112–95, §152(b)(6), substituted “subsection (a)” for “section 47110(d) of this title”.
+Subsec. (c)(3), (4). Pub. L. 112–95, §152(b)(6), substituted "subsection (a)" for "section 47110(d) of this title".
 
-Subsec. (c)(5). Pub. L. 112–95, §152(b)(7), substituted “subsection (a)” for “section 47110(d)”.
+Subsec. (c)(5). Pub. L. 112–95, §152(b)(7), substituted "subsection (a)" for "section 47110(d)".
 
 Subsecs. (d), (e). Pub. L. 112–95, §152(b)(1), redesignated subsecs. (c) and (d) as (d) and (e), respectively.
 
 Subsec. (f). Pub. L. 112–95, §152(b)(8), added subsec. (f).
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–176, §166, amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “An amount apportioned under section 47114 of this title and made available to the sponsor of an air carrier airport at which terminal development was carried out after June 30, 1970, and before July 12, 1976, or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992, is available to repay immediately money borrowed and used to pay the costs for terminal development at the airport, if those costs would be allowable project costs under section 47110(d) of this title if they had been incurred after September 3, 1982. An amount is available for a grant under this subsection—
+<b>2003</b>—Subsec. (a). Pub. L. 108–176, §166, amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "An amount apportioned under section 47114 of this title and made available to the sponsor of an air carrier airport at which terminal development was carried out after June 30, 1970, and before July 12, 1976, or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992, is available to repay immediately money borrowed and used to pay the costs for terminal development at the airport, if those costs would be allowable project costs under section 47110(d) of this title if they had been incurred after September 3, 1982. An amount is available for a grant under this subsection—
 
-&emsp;“(1) only if—
+&emsp;"(1) only if—
 
-&emsp;&emsp;“(A) the sponsor submits the certification required under section 47110(d) of this title;
+&emsp;&emsp;"(A) the sponsor submits the certification required under section 47110(d) of this title;
 
-&emsp;&emsp;“(B) the Secretary of Transportation decides that using the amount to repay the borrowed money will not defer an airport development project outside the terminal area at that airport; and
+&emsp;&emsp;"(B) the Secretary of Transportation decides that using the amount to repay the borrowed money will not defer an airport development project outside the terminal area at that airport; and
 
-&emsp;&emsp;“(C) amounts available for airport development under this subchapter will not be used for additional terminal development projects at the airport for at least 3 years beginning on the date the grant is used to repay the borrowed money; and
+&emsp;&emsp;"(C) amounts available for airport development under this subchapter will not be used for additional terminal development projects at the airport for at least 3 years beginning on the date the grant is used to repay the borrowed money; and
 
-&emsp;“(2) subject to the limitations in subsection (b)(1) and (2) of this section.”
+&emsp;"(2) subject to the limitations in subsection (b)(1) and (2) of this section."
 
 Subsec. (b)(5). Pub. L. 108–176, §149(d), added par. (5).
 
 <b>2000</b>—Subsec. (d). Pub. L. 106–181 added subsec. (d).
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–305, §117(1), inserted “or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992,” after “July 12, 1976,”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–305, §117(1), inserted "or, in the case of a commercial service airport which annually had less than 0.05 percent of the total enplanements in the United States, between January 1, 1992, and October 31, 1992," after "July 12, 1976,".
 
-Subsec. (b)(2). Pub. L. 103–429, §6(69)(B), added par. (2) and struck out former par. (2) which read as follows: “to a sponsor of a nonprimary commercial service airport, not more than $200,000 of the amount that may be distributed for the fiscal year from the discretionary fund to pay project costs allowable under section 47110(d) of this title; or”.
+Subsec. (b)(2). Pub. L. 103–429, §6(69)(B), added par. (2) and struck out former par. (2) which read as follows:"to a sponsor of a nonprimary commercial service airport, not more than $200,000 of the amount that may be distributed for the fiscal year from the discretionary fund to pay project costs allowable under section 47110(d) of this title; or".
 
 Subsec. (b)(3). Pub. L. 103–429, §6(69)(B), added par. (3). Former par. (3) redesignated (4).
 
@@ -210,5 +210,5 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 

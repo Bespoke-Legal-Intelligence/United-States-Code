@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Barn
 
-&emsp;The term “barn” means a building (other than a dwelling) on a farm, ranch, or other agricultural operation for—
+&emsp;The term "barn" means a building (other than a dwelling) on a farm, ranch, or other agricultural operation for—
 
 &emsp;&emsp;(A) housing animals;
 
@@ -18,7 +18,7 @@ In this section:
 
 #### (2) Eligible applicant
 
-&emsp;The term “eligible applicant” means—
+&emsp;The term "eligible applicant" means—
 
 &emsp;&emsp;(A) a State department of agriculture (or a designee);
 
@@ -32,7 +32,7 @@ In this section:
 
 #### (3) Historic barn
 
-&emsp;The term “historic barn” means a barn that—
+&emsp;The term "historic barn" means a barn that—
 
 &emsp;&emsp;(A) is at least 50 years old;
 
@@ -42,7 +42,7 @@ In this section:
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means the Secretary, acting through the Under Secretary of Rural Development.
+&emsp;The term "Secretary" means the Secretary, acting through the Under Secretary of Rural Development.
 
 #### (b) Program
 
@@ -64,7 +64,7 @@ The Secretary shall establish a historic barn preservation program—
 
 #### (1) In general
 
-&emsp;The Secretary may make grants to, or enter into contracts or cooperative agreements with, eligible applicants to carry out an eligible project under paragraph (2).
+&emsp;The Secretary may make grants to, or enter into contracts or cooperative agreementswith, eligible applicants to carry out an eligible project under paragraph (2).
 
 #### (2) Eligible projects
 
@@ -100,11 +100,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(2)(A), (B). Pub. L. 110–246, §6020(a)(1)(A), substituted “historic barns” for “a historic barn”.
+<b>2008</b>—Subsec. (c)(2)(A), (B). Pub. L. 110–246, §6020(a)(1)(A), substituted "historic barns" for "a historic barn".
 
-Subsec. (c)(2)(C). Pub. L. 110–246, §6020(a)(1)(B), substituted “on historic barns (including surveys)” for “on a historic barn”.
+Subsec. (c)(2)(C). Pub. L. 110–246, §6020(a)(1)(B), substituted "on historic barns (including surveys)" for "on a historic barn".
 
-Subsec. (c)(3) to (5). Pub. L. 110–246, §6020(a)(2), (3), (b), added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and, in par. (5), substituted “2008 through 2012” for “2002 through 2007”.
+Subsec. (c)(3) to (5). Pub. L. 110–246, §6020(a)(2), (3), (b), added par. (3), redesignated former pars. (3) and (4) as (4) and (5), respectively, and, in par. (5), substituted "2008 through 2012" for "2002 through 2007".
 
 #### Effective Date of 2008 Amendment
 

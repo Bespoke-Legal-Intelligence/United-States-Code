@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Dec. 5, 1974, Pub. L. 93–510, §9, 88 Stat. 1607.
 
-In this section, the words “the provision of” are omitted as surplus and the word “for” is substituted for “in connection with” for consistency.
+In this section, the words "the provision of" are omitted as surplus and the word "for" is substituted for "in connection with" for consistency.
 

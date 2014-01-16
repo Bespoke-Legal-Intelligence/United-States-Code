@@ -34,7 +34,7 @@ In general.—If a carrier providing transportation of household goods subject t
 
 &emsp;(2)
 
-Estimate of broker without carrier agreement.—If a broker for transportation of household goods subject to jurisdiction under subchapter I of chapter 135 makes an estimate of the cost of transporting any such goods before entering into an agreement with a carrier to provide transportation of household goods subject to such jurisdiction, the broker is liable to the United States for a civil penalty of not less than $10,000 for each violation.
+Estimate of broker without carrier agreement.—If a broker for transportation ofhousehold goods subject to jurisdiction under subchapter I of chapter 135 makes an estimate of the cost of transporting any such goods before entering into an agreement with a carrier to provide transportation of household goods subject to such jurisdiction, the broker is liable to the United States for a civil penalty of not less than $10,000 for each violation.
 
 &emsp;(3)
 
@@ -84,7 +84,7 @@ Settlement of Household Goods Civil Penalties.—Nothing in this section shall b
 
 #### References in Text
 
-The Solid Waste Disposal Act, referred to in subsec. (b), is title II of Pub. L. 89–272, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42, The Public Health and Welfare. Section 3001 of theAct is classified to section 6921 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (b), is title II of Pub. L. 89–272, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of Title 42, The Public Health and Welfare. Section 3001 of the Act is classified to section 6921 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -92,11 +92,11 @@ Provisions similar to those in this section were contained in sections 10751 and
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §32108(a)(4), which directed substitution of “$10,000 for each violation, or $25,000 for each violation relating to providing transportation of passengers” for “$2,000 for each violation and each additional day the violation continues”, was executed by making the substitution for “$2,000 for each violation and for each additional day the violation continues” in concluding provisions, to reflect the probable intent of Congress.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §32108(a)(4), which directed substitution of "$10,000 for each violation, or $25,000 for each violation relating to providing transportation of passengers" for "$2,000 for each violation and each additional day the violation continues", was executed by making the substitution for "$2,000 for each violation and for each additional day the violation continues" in concluding provisions, to reflect the probable intent of Congress.
 
-Pub. L. 112–141, §32108(a)(1)–(3), substituted “$1,000” for “$500” and “or section 13902(c) of this title,” for “with respect to providing transportation of passengers,” and struck out “who is not registered under this part to provide transportation of passengers,” after “in the case of a person” in concluding provisions.
+Pub. L. 112–141, §32108(a)(1)–(3), substituted "$1,000" for "$500" and "or section 13902(c) of this title," for "with respect to providing transportation of passengers," and struck out "who is not registered under this part to provide transportation of passengers," after "in the case of a person" in concluding provisions.
 
-Subsec. (b). Pub. L. 112–141, §32108(b), substituted “not less than $20,000, but not to exceed $40,000” for “not to exceed $20,000”.
+Subsec. (b). Pub. L. 112–141, §32108(b), substituted "not less than $20,000, but not to exceed $40,000" for "not to exceed $20,000".
 
 Subsec. (h). Pub. L. 112–141, §32923(a), added subsec. (h).
 
@@ -114,27 +114,27 @@ Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88
 
 Pub. L. 106–159, title II, §219, Dec. 9, 1999, 113 Stat. 1768, provided that:
 
-“(a)
+"(a)
 
 General Rule.—Subject to subsections (b) and (c), a foreign motor carrier or foreign motor private carrier (as such terms are defined under section 13102 of title 49, United States Code) that operates without authority, before the implementation of the land transportation provisions of the North American Free Trade Agreement, outside the boundaries of a commercial zone along the United States-Mexico border shall be liable to the United States for a civil penalty and shall be disqualified from operating a commercial motor vehicle anywhere within the United States as provided in subsections (b) and (c).
 
-“(b)
+"(b)
 
 Penalty for Intentional Violation.—The civil penalty for an intentional violation of subsection (a) by a carrier shall not be more than $10,000 and may include a disqualification from operating a commercial motor vehicle anywhere within the United States for a period of not more than 6 months.
 
-“(c)
+"(c)
 
 Penalty for Pattern of Intentional Violations.—The civil penalty for a pattern of intentional violations of subsection (a) by a carrier shall not be more than $25,000 and the carrier shall be disqualified from operating a commercial motor vehicle anywhere within the United States and the disqualification may be permanent.
 
-“(d)
+"(d)
 
 Leasing.—Before the implementation of the land transportation provisions of the North American Free Trade Agreement, during any period in which a suspension, condition, restriction, or limitation imposed under section 13902(c) of title 49, United States Code, applies to a motor carrier (as defined in section 13902(e) of such title), that motor carrier may not lease a commercial motor vehicle to another motor carrier or a motor private carrier to transport property in the United States.
 
-“(e)
+"(e)
 
 Savings Clause.—No provision of this section may be enforced if it is inconsistent with any international agreement of the United States.
 
-“(f)
+"(f)
 
-Acts of Employees.—The actions of any employee driver of a foreign motor carrier or foreign motor private carrier committed without the knowledge of the carrier or committed unintentionally shall not be grounds for penalty or disqualification under this section.”
+Acts of Employees.—The actions of any employee driver of a foreign motor carrier or foreign motor private carrier committed without the knowledge of the carrier or committed unintentionally shall not be grounds for penalty or disqualification under this section."
 

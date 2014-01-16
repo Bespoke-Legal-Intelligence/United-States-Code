@@ -36,7 +36,7 @@ Amendment by Pub. L. 111–148 is based on sections 101(b)(4) and 131 of title I
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(2). Pub. L. 111–148 substituted “section 1665g(c) of this title” for “section 1621h(m) of this title”.
+<b>2010</b>—Subsec. (b)(2). Pub. L. 111–148 substituted "section 1665g(c) of this title" for "section 1621h(m) of this title".
 
 Subsec. (e). Pub. L. 111–148 struck out subsec. (e) which authorized appropriations for fiscal years 1993 to 2000.
 

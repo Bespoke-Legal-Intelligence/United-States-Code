@@ -64,7 +64,7 @@ The Secretary shall evaluate each project carried out under subsection (a)(1) of
 
 #### (2) Data infrastructure
 
-&emsp;If amounts are not appropriated for a fiscal year to carry out section 300y of this title withrespect to mental health, then the Secretary shall make available, from the amounts appropriated for such fiscal year under paragraph (1), an amount equal to the sum of $6,000,000 and 10 percent of all amounts appropriated for such fiscal year under such paragraph in excess of $100,000,000, to carry out such section 300y of this title.
+&emsp;If amounts are not appropriated for a fiscal year to carry out section 300y of this title with respect to mental health, then the Secretary shall make available, from the amounts appropriated for such fiscal year under paragraph (1), an amount equal to the sum of $6,000,000and 10 percent of all amounts appropriated for such fiscal year under such paragraph in excess of $100,000,000, to carry out such section 300y of this title.
 
 (July 1, 1944, ch. 373, title V, §520A, as added Pub. L. 100–690, title II, §2057(3), Nov. 18, 1988, 102 Stat. 4212; renumbered §520 and amended Pub. L. 101–93, §3(e), (g), Aug. 16, 1989, 103 Stat. 610, 611; Pub. L. 101–639, §2, Nov. 28, 1990, 104 Stat. 4600; renumbered §520A and amended Pub. L. 102–321, title I, §116, July 10, 1992, 106 Stat. 348; Pub. L. 106–310, div. B, title XXXII, §3201(a), Oct. 17, 2000, 114 Stat. 1189.)
 
@@ -76,25 +76,25 @@ Section was formerly classified to section 290cc–13 of this title prior to ren
 
 <b>2000</b>—Pub. L. 106–310 amended section catchline and text generally, substituting provisions relating to priority mental health needs of regional and national significance for provisions relating to establishment of grant programs for demonstration projects.
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–321, §116(b)(1), substituted “Center for Mental Health Services” for “National Institute of Mental Health”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–321, §116(b)(1), substituted "Center for Mental Health Services" for "National Institute of Mental Health".
 
-Subsec. (c). Pub. L. 102–321, §116(b)(2), substituted “five” for “three”.
+Subsec. (c). Pub. L. 102–321, §116(b)(2), substituted "five" for "three".
 
-Subsec. (e)(1). Pub. L. 102–321, §116(b)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purposes of carrying out this section, there are authorized to be appropriated $40,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993.”
+Subsec. (e)(1). Pub. L. 102–321, §116(b)(3), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "For the purposes of carrying out this section, there are authorized to be appropriated $40,000,000 for fiscal year 1991, and such sums as may be necessary for each of the fiscal years 1992 and 1993."
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–639, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary, acting through the Director, may make grants to States, political subdivisions of States, and nonprofit private agencies—
+<b>1990</b>—Subsec. (a). Pub. L. 101–639, §2(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Secretary, acting through the Director, may make grants to States, political subdivisions of States, and nonprofit private agencies—
 
-&emsp;“(1) for mental health services demonstration projects for the planning, coordination, and improvement of community services (including outreach and self-help services) for seriously mentally ill individuals, seriously emotionally disturbed children and youth, elderly individuals, and homeless seriously mentally ill individuals, and for the conduct of research concerning such services;
+&emsp;"(1) for mental health services demonstration projects for the planning, coordination, and improvement of community services (including outreach and self-help services) for seriously mentally ill individuals, seriously emotionally disturbed children and youth, elderly individuals, and homeless seriously mentally ill individuals, and for the conduct of research concerning such services;
 
-&emsp;“(2) for demonstration projects for the prevention of youth suicide;
+&emsp;"(2) for demonstration projects for the prevention of youth suicide;
 
-&emsp;“(3) for demonstration projects for the improvement of the recognition, assessment, treatment, and clinical management of depressive disorders; and
+&emsp;"(3) for demonstration projects for the improvement of the recognition, assessment, treatment, and clinical management of depressive disorders; and
 
-&emsp;“(4) for demonstration projects for treatment and prevention relating to sex offenses.”
+&emsp;"(4) for demonstration projects for treatment and prevention relating to sex offenses."
 
-Subsec. (e)(1). Pub. L. 101–639, §2(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purposes of carrying out this section, there are authorized to be appropriated $60,000,000 for each of the fiscal years 1989 and 1990.”
+Subsec. (e)(1). Pub. L. 101–639, §2(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "For the purposes of carrying out this section, there are authorized to be appropriated $60,000,000 for each of the fiscal years 1989 and 1990."
 
-<b>1989</b>—Pub. L. 101–93 substituted “programs” for “program” in section catchline and in subsec. (a) substituted “seriously mentally ill” for “chronically mentally ill” wherever appearing, redesignated par. (5) as (4), and inserted “for” before “demonstration” in pars. (2), (3), and (4).
+<b>1989</b>—Pub. L. 101–93 substituted "programs" for "program" in section catchline and in subsec. (a) substituted "seriously mentally ill" for "chronically mentally ill" wherever appearing, redesignated par. (5) as (4), and inserted "for" before "demonstration" in pars. (2), (3), and (4).
 
 #### Effective Date of 1992 Amendment
 

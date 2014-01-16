@@ -6,7 +6,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Director.—The term “Director” means the Director of the Federal Bureau of Investigation.
+Director.—The term "Director" means the Director of the Federal Bureau of Investigation.
 
 &emsp;(2) FBI
 
@@ -14,7 +14,7 @@ buildings and grounds.—
 
 &emsp;&emsp;(A)
 
-In general.—The term “FBI buildings and grounds” means—
+In general.—The term "FBI buildings and grounds" means—
 
 &emsp;&emsp;&emsp;(i) the whole or any part of any building or structure which is occupied under a lease or otherwise by the Federal Bureau of Investigation and is subject to supervision and control by the Federal Bureau of Investigation;
 
@@ -24,11 +24,11 @@ In general.—The term “FBI buildings and grounds” means—
 
 &emsp;&emsp;(B)
 
-Inclusion.—The term “FBI buildings and grounds” includes adjacent streets and sidewalks not to exceed 500 feet from such property.
+Inclusion.—The term "FBI buildings and grounds" includes adjacent streets and sidewalks not to exceed 500 feet from such property.
 
 &emsp;(3)
 
-FBI police.—The term “FBI police” means the permanent police force established under subsection (b).
+FBI police.—The term "FBI police" means the permanent police force established under subsection (b).
 
 (b)
 
@@ -94,7 +94,7 @@ Authority of Metropolitan Police Force.—This section does not affect the autho
 
 #### Prior Provisions
 
-Another section 540C, added Pub. L. 107–306, title VIII, §824(a), Nov. 27, 2002, 116 Stat. 2428, related to annual report on activities of Federal Bureau of Investigation personnel outside the United States. Pub. L. 108–177, title III, §361(i), (n), Dec. 13, 2003, 117 Stat. 2625, 2626, which, under the heading “Annual Report on Activities of FBI Personnel Outside the United States”, directed the repeal of section 540C of title 28, effective Dec. 31, 2003, was executed by repealing the section 540C added by Pub. L. 107–306, to reflect the probable intent of Congress.
+Another section 540C, added Pub. L. 107–306, title VIII, §824(a), Nov. 27, 2002, 116 Stat. 2428, related to annual report on activities of Federal Bureau of Investigation personnel outside the United States. Pub. L. 108–177, title III, §361(i), (n), Dec. 13, 2003, 117 Stat. 2625, 2626, which, under the heading "Annual Report on Activities of FBI Personnel Outside the United States", directed the repeal of section 540C of title 28, effective Dec. 31, 2003, was executed by repealing the section 540C added by Pub. L. 107–306, to reflect the probable intent of Congress.
 
 #### Transfer of Functions
 

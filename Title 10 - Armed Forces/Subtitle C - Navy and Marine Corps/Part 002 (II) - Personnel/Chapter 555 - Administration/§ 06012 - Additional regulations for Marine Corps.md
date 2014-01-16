@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 R.S. 1620.
 
-The words “such” and “as he may deem expedient” are omitted as surplusage.
+The words "such" and "as he may deem expedient" are omitted as surplusage.
 

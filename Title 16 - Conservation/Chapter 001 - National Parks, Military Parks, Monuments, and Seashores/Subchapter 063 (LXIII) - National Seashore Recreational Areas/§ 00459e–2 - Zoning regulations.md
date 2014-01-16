@@ -38,13 +38,13 @@ Notwithstanding any other provision of sections 459e to 459e–9 of this title, 
 
 &emsp;(2) is inconsistent with the purposes for which the seashore was established.
 
-> Except to the extent the Court may deem necessary in extraordinary circumstances, no such order or injunction shall continue in effect for more than one hundred and eighty days. During the period of such order or injunction, the Secretary shall diligently and in good faith negotiate with the owner of the property to assure that following termination of the order or injunction, the inconsistent use is abated or the significant harm to the natural resources is mitigated.
+> Except to the extent the Court may deem necessary in extraordinary circumstances, no suchorder or injunction shall continue in effect for more than one hundred and eighty days. During the period of such order or injunction, the Secretary shall diligently and in good faith negotiate with the owner of the property to assure that following termination of the order or injunction, the inconsistent use is abated or the significant harm to the natural resources is mitigated.
 
 (Pub. L. 88–587, §3, Sept. 11, 1964, 78 Stat. 930; Pub. L. 98–482, §§3–5, Oct. 17, 1984, 98 Stat. 2256.)
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–482, §4, substituted “by means of limitations or restrictions on the size, location or use of any commercial, residential, and other structures” for “by means of acreage, frontage, and setback requirements” and required that the standards seek to reconcile the population density of the seashore on Oct. 17, 1984, with the protection of the natural resources of the seashore.
+<b>1984</b>—Subsec. (b). Pub. L. 98–482, §4, substituted "by means of limitations or restrictions on the size, location or use of any commercial, residential, and other structures" for "by means of acreage, frontage, and setback requirements" and required that the standards seek to reconcile the population density of the seashore on Oct. 17, 1984, with the protection of the natural resources of the seashore.
 
 Subsec. (e). Pub. L. 98–482, §3, designated part of existing provisions as pars. (1) and (2), made the provisions applicable to any property, and excluded undeveloped property in the Dune district.
 

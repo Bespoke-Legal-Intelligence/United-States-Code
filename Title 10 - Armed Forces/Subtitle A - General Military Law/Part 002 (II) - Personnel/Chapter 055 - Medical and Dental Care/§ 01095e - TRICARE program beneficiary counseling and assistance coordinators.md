@@ -26,5 +26,5 @@ Duties.—The Secretary shall prescribe the duties of the position of beneficiar
 
 #### Deadline for Initial Designations
 
-Pub. L. 106–65, div. A, title VII, §715(b), Oct. 5, 1999, 113 Stat. 690, directed that each beneficiary counseling and assistance coordinator required under the regulations described in subsec. (a) of this section be designated not later than Jan. 15, 2000.
+Pub. L. 106–65, div. A, title VII, §715(b), Oct. 5, 1999, 113 Stat. 690, directed that each beneficiary counselingand assistance coordinator required under the regulations described in subsec. (a) of this section be designated not later than Jan. 15, 2000.
 

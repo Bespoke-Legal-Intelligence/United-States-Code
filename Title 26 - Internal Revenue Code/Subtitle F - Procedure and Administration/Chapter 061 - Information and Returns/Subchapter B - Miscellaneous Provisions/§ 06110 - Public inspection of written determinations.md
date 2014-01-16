@@ -12,7 +12,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “written determination” means a ruling, determination letter, technical advice memorandum, or Chief Counsel advice.
+&emsp;&emsp;The term "written determination" means a ruling, determination letter, technical advice memorandum, or Chief Counsel advice.
 
 #### (B) Exceptions
 
@@ -20,17 +20,17 @@ For purposes of this section—
 
 #### (2) Background file document
 
-&emsp;The term “background file document” with respect to a written determination includes the request for that written determination, any written material submitted in support of the request, and any communication (written or otherwise) between the Internal Revenue Service and persons outside the Internal Revenue Service in connection with such written determination (other than any communication between the Department of Justice and the Internal Revenue Service relating to a pending civil or criminal case or investigation) received before issuance of the written determination.
+&emsp;The term "background file document" with respect to a written determination includes the request for that written determination, any written material submitted in support of the request, and any communication (written or otherwise) between the Internal Revenue Service and persons outside the Internal Revenue Service in connection with such written determination (other than any communication between the Department of Justice and the Internal Revenue Service relating to a pending civil or criminal case or investigation) received before issuance of the written determination.
 
 #### (3) Reference and general written determinations
 
 #### (A) Reference written determination
 
-&emsp;&emsp;The term “reference written determination” means any written determination which has been determined by the Secretary to have significant reference value.
+&emsp;&emsp;The term "reference written determination" means any written determination which has been determined by the Secretary to have significant reference value.
 
 #### (B) General written determination
 
-&emsp;&emsp;The term “general written determination” means any written determination other than a reference written determination.
+&emsp;&emsp;The term "general written determination" means any written determination other than a reference written determination.
 
 #### (c) Exemptions from disclosure
 
@@ -50,7 +50,7 @@ Before making any written determination or background file document open or avai
 
 &emsp;(7) geological and geophysical information and data, including maps, concerning wells.
 
-> The Secretary shall determine the appropriate extent of such deletions and, except in the case of intentional or willful disregard of this subsection, shall not be required to make such deletions (nor be liable for failure to make deletions) unless the Secretary has agreed to such deletions or has been ordered by a court (in aproceeding under subsection (f)(3)) to make such deletions.
+> The Secretary shall determine the appropriate extent of such deletions and, except in the case of intentional or willful disregard of this subsection, shall not be required to make such deletions (nor be liable for failure to make deletions) unless the Secretary has agreed to such deletions or has been ordered by a court (in a proceeding under subsection (f)(3)) to make such deletions.
 
 #### (d) Procedures with regard to third party contacts
 
@@ -78,7 +78,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (1) Notice of intention to disclose
 
-&emsp;Except as otherwise provided by subsection (i), the Secretary shall upon issuance of any written determination, or upon receipt of a request for a background file document, mail a notice of intention to disclose such determination or document to any person to whom the written determination pertains (or a successor in interest, executor, or other person authorized by law to act for or on behalf of such person).
+&emsp;Except as otherwise provided by subsection (i), the Secretary shall upon issuance of anywritten determination, or upon receipt of a request for a background file document, mail a notice of intention to disclose such determination or document to any person to whom the written determination pertains (or a successor in interest, executor, or other person authorized by law to act for or on behalf of such person).
 
 #### (2) Administrative remedies
 
@@ -110,7 +110,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (A) Creation of remedy
 
-&emsp;&emsp;Any person who has exhausted the administrative remedies prescribed pursuant toparagraph (2) with respect to a request for disclosure may file a petition in the United States Tax Court or a complaint in the United States District Court for the District of Columbia for an order requiring that any written determination or background file document (or portion thereof) be made open or available to public inspection. Except where inconsistent with subparagraph (B), the provisions of subparagraphs (C), (D), (E), (F), and (G) of section 552(a)(4) of title 5, United States Code, shall apply to any proceeding under this paragraph. The Court shall examine the matter de novo and without regard to a decision of a court under paragraph (3) with respect to such written determination or background file document, and may examine the entire text of such written determination or background file document in order to determine whether such written determination or background file document or any part thereof shall be open or available to public inspection under this section. The burden of proof with respect to the issue of disclosure of any information shall be on the Secretary and any other person seeking to restrain disclosure.
+&emsp;&emsp;Any person who has exhausted the administrative remedies prescribed pursuant to paragraph (2) with respect to a request for disclosure may file a petition in the United States Tax Court or a complaint in the United States District Court for the District of Columbia for an order requiring that any written determination or background file document (or portion thereof) be made open or available to public inspection. Except where inconsistent with subparagraph (B), the provisions of subparagraphs (C), (D), (E), (F), and (G) of section 552(a)(4) of title 5, United States Code, shall apply to any proceeding under this paragraph. The Court shall examine the matter de novo and without regard to a decision of a court under paragraph (3) with respect to such written determination or background file document, and may examine the entire text of such written determination or background file document in order to determine whether such written determination or background file document or any part thereof shall be open or available to public inspection under this section. The burden of proof with respect to the issue of disclosure of any information shall be on the Secretary and any other person seeking to restrain disclosure.
 
 #### (B) Intervention
 
@@ -128,7 +128,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this section, the text of any written determination or any background file document (as modified under subsection (c)) shall be open or available to public inspection—
+&emsp;Except as otherwise provided in this section, the text of any written determination or anybackground file document (as modified under subsection (c)) shall be open or available to public inspection—
 
 &emsp;&emsp;(A) no earlier than 75 days, and no later than 90 days, after the notice provided in subsection (f)(1) is mailed, or, if later,
 
@@ -168,7 +168,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 &emsp;&emsp;&emsp;(iv) a partnership's or partner's taxable year under section 706,
 
-> &emsp;&emsp;but the Secretary shall make any such written determination and related backgroundfile document available upon the written request of any person after the date on which (except for this subparagraph) such determination would be open to public inspection.
+> &emsp;&emsp;but the Secretary shall make any such written determination and related background file document available upon the written request of any person after the date on which (except for this subparagraph) such determination would be open to public inspection.
 
 #### (h) Disclosure of prior written determinations and related background file documents
 
@@ -210,7 +210,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, the term “Chief Counsel advice” means written advice or instruction, under whatever name or designation, prepared by any national office component of the Office of Chief Counsel which—
+&emsp;&emsp;For purposes of this section, the term "Chief Counsel advice" means written advice or instruction, under whatever name or designation, prepared by any national office component of the Office of Chief Counsel which—
 
 &emsp;&emsp;&emsp;(i) is issued to field or service center employees of the Service or regional or district employees of the Office of Chief Counsel; and
 
@@ -224,7 +224,7 @@ Whenever the Secretary makes a written determination open to public inspection u
 
 #### (B) Revenue provision defined
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “revenue provision” means any existing or former internal revenue law, regulation, revenue ruling, revenue procedure, other published or unpublished guidance, or tax treaty, either in general or as applied to specific taxpayers or groups of specific taxpayers.
+&emsp;&emsp;For purposes of subparagraph (A), the term "revenue provision" means any existing or former internal revenue law, regulation, revenue ruling, revenue procedure, other published or unpublished guidance, or tax treaty, either in general or as applied to specific taxpayers or groups of specific taxpayers.
 
 #### (2) Additional documents treated as Chief Counsel advice
 
@@ -326,45 +326,45 @@ A prior section 6110 was renumbered 6116 of this title.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (i)(3). Pub. L. 110–172 inserted “and related background file documents” after “Chief Counsel advice” in introductory provisions.
+<b>2007</b>—Subsec. (i)(3). Pub. L. 110–172 inserted "and related background file documents" after "Chief Counsel advice" in introductory provisions.
 
-<b>2000</b>—Subsec. (b)(1). Pub. L. 106–554, §1(a)(7) \[title III, §304(c)(1)\], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “The term ‘written determination’ means a ruling, determination letter, technical advice memorandum, or Chief Counsel advice. Such term shall not include any advance pricing agreement entered into by a taxpayer and the Secretary and any background information related to such agreement or any application for an advance pricing agreement.”
+<b>2000</b>—Subsec. (b)(1). Pub. L. 106–554, §1(a)(7) \[title III, §304(c)(1)\], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: "The term 'written determination' means a ruling, determination letter, technical advice memorandum, or Chief Counsel advice. Such term shall not include any advance pricing agreement entered into by a taxpayer and the Secretary and any background information related to such agreement or any application for an advance pricing agreement."
 
-Subsec. (g)(5)(A). Pub. L. 106–554, §1(a)(7) \[title III, §313(e)\], inserted “, any Chief Counsel advice,” after “technical advice memorandum”.
+Subsec. (g)(5)(A). Pub. L. 106–554, §1(a)(7) \[title III, §313(e)\], inserted ", any Chief Counsel advice," after "technical advice memorandum".
 
-Subsec. (l)(1). Pub. L. 106–554, §1(a)(7) \[title III, §304(c)(2)\], inserted “or 6105” after “6104”.
+Subsec. (l)(1). Pub. L. 106–554, §1(a)(7) \[title III, §304(c)(2)\], inserted "or 6105" after "6104".
 
-<b>1999</b>—Subsec. (b)(1). Pub. L. 106–170 inserted at end “Such term shall not include any advance pricing agreement entered into by a taxpayer and the Secretary and any background information related to such agreement or any application for an advance pricing agreement.”
+<b>1999</b>—Subsec. (b)(1). Pub. L. 106–170 inserted at end "Such term shall not include any advance pricing agreement entered into by a taxpayer and the Secretary and any background information related to such agreement or any application for an advance pricing agreement."
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–206, §3509(a), substituted “technical advice memorandum, or Chief Counsel advice” for “or technical advice memorandum”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–206, §3509(a), substituted "technical advice memorandum, or Chief Counsel advice" for "or technical advice memorandum".
 
-Subsec. (f)(1). Pub. L. 105–206, §3509(c)(1), substituted “Except as otherwise provided by subsection (i), the Secretary” for “The Secretary”.
+Subsec. (f)(1). Pub. L. 105–206, §3509(c)(1), substituted "Except as otherwise provided by subsection (i), the Secretary" for "The Secretary".
 
 Subsec. (i). Pub. L. 105–206, §3509(b), added subsec. (i). Former subsec. (i) redesignated (j).
 
 Subsec. (j). Pub. L. 105–206, §3509(b), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
 
-Subsec. (j)(1)(B), (2). Pub. L. 105–206, §3509(c)(2), substituted “subsection (g) or (i)(4)(B)” for “subsection (g)”.
+Subsec. (j)(1)(B), (2). Pub. L. 105–206, §3509(c)(2), substituted "subsection (g) or (i)(4)(B)" for "subsection (g)".
 
 Subsec. (k). Pub. L. 105–206, §3509(b), redesignated subsec. (j) as (k). Former subsec. (k) redesignated (l).
 
-Subsec. (k)(1)(B). Pub. L. 105–206, §3509(c)(3), substituted “subsection (c)(1) or (i)(3)” for “subsection (c)”.
+Subsec. (k)(1)(B). Pub. L. 105–206, §3509(c)(3), substituted "subsection (c)(1) or (i)(3)" for "subsection (c)".
 
 Subsecs. (l), (m). Pub. L. 105–206, §3509(b), redesignated subsecs. (k) and (l) as (l) and (m), respectively.
 
-<b>1992</b>—Subsec. (i)(1). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (i)(1). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
 <b>1984</b>—Subsec. (f)(5). Pub. L. 98–620 struck out provision that the Court of Appeals had to expedite any review of such decision in every way possible.
 
-<b>1982</b>—Subsec. (i)(1). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Subsec. (i)(1). Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims".
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–172, §10(b), Dec. 29, 2007, 121 Stat. 2484, provided that: “The amendment made by this section \[amending this section\] shall take effect as if included in the provision of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\] to which it relates.”
+Pub. L. 110–172, §10(b), Dec. 29, 2007, 121 Stat. 2484, provided that: "The amendment made by this section \[amending this section\] shall take effect as if included in the provision of the Internal Revenue Service Restructuring and Reform Act of 1998 \[Pub. L. 105–206\] to which it relates."
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(7) \[title III, §304(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, provided that: “The amendments made by this section \[enacting section 6105 of this title and amending this section and section 6103 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\].”
+Pub. L. 106–554, §1(a)(7) \[title III, §304(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–634, provided that: "The amendments made by this section \[enacting section 6105 of this title and amending this section and section 6103 of this title\] shall take effect on the date of the enactment of this Act \[Dec. 21, 2000\]."
 
 Amendment by section 1(a)(7) \[title III, §313(e)\] of Pub. L. 106–554 effective as if included in the provisions of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, to which such amendment relates, see section 1(a)(7) \[title III, §313(f)\] of Pub. L. 106–554, set out as a note under section 6015 of this title.
 
@@ -372,29 +372,29 @@ Amendment by section 1(a)(7) \[title III, §313(e)\] of Pub. L. 106–554 effect
 
 Pub. L. 105–206, title III, §3509(d), July 22, 1998, 112 Stat. 774, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section\] shall apply to any Chief Counsel advice issued more than 90 days after the date of the enactment of this Act \[July 22, 1998\].
 
-“(2)
+"(2)
 
 Transition rules.—The amendments made by this section shall apply to any Chief Counsel advice issued after December 31, 1985, and before the 91st day after the date of the enactment of this Act \[July 22, 1998\] by the offices of the associate chief counsel for domestic, employee benefits and exempt organizations, and international, except that any such Chief Counsel advice shall be treated as made available on a timely basis if such advice is made available for public inspection not later than the following dates:
 
-&emsp;“(A) One year after the date of the enactment of this Act \[July 22, 1998\], in the case of all litigation guideline memoranda, service center advice, tax litigation bulletins, criminal tax bulletins, and general litigation bulletins.
+&emsp;"(A) One year after the date of the enactment of this Act \[July 22, 1998\], in the case of all litigation guideline memoranda, service center advice, tax litigation bulletins, criminal tax bulletins, and general litigation bulletins.
 
-&emsp;“(B) Eighteen months after such date of enactment, in the case of field service advice and technical assistance to the field issued on or after January 1, 1994.
+&emsp;"(B) Eighteen months after such date of enactment, in the case of field service advice and technical assistance to the field issued on or after January 1, 1994.
 
-&emsp;“(C) Three years after such date of enactment, in the case of field service advice and technical assistance to the field issued on or after January 1, 1992, and before January 1, 1994.
+&emsp;"(C) Three years after such date of enactment, in the case of field service advice and technical assistance to the field issued on or after January 1, 1992, and before January 1, 1994.
 
-&emsp;“(D) Six years after such date of enactment, in the case of any other Chief Counsel advice issued after December 31, 1985.
+&emsp;"(D) Six years after such date of enactment, in the case of any other Chief Counsel advice issued after December 31, 1985.
 
-“(3)
+"(3)
 
 Documents treated as chief counsel advice.—If the Secretary of the Treasury by regulation provides pursuant to section 6110(i)(2) of the Internal Revenue Code of 1986, as added by this section, that any additional advice or instruction issued by the Office of Chief Counsel shall be treated as Chief Counsel advice, such additional advice or instruction shall be made available for public inspection pursuant to section 6110 of such Code, as amended by this section, only in accordance with the effective date set forth in such regulation.
 
-“(4)
+"(4)
 
-Chief counsel advice to be available electronically.—The Internal Revenue Service shall make any Chief Counsel advice issued more than 90 days afterthe date of the enactment of this Act \[July 22, 1998\] and made available for public inspection pursuant to section 6110 of such Code, as amended by this section, also available by computer telecommunications within 1 year after issuance.”
+Chief counsel advice to be available electronically.—The Internal Revenue Service shall make any Chief Counsel advice issued more than 90 days after the date of the enactment of this Act \[July 22, 1998\] and made available for public inspection pursuant to section 6110 of such Code, as amended by this section, also available by computer telecommunications within 1 year after issuance."
 
 #### Effective Date of 1992 Amendment
 
@@ -410,9 +410,9 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Effective Date
 
-Pub. L. 94–455, title XII, §1201(e), Oct. 4, 1976, 90 Stat. 1667, provided that: “Except as otherwise provided in this section \[enacting this section and provisions set out below\], the amendments made by this section shall take effect on November 1, 1976.”
+Pub. L. 94–455, title XII, §1201(e), Oct. 4, 1976, 90 Stat. 1667, provided that: "Except as otherwise provided in this section \[enacting this section and provisions set out below\], the amendments made by this section shall take effect on November 1, 1976."
 
 #### Pending Requests
 
-Pub. L. 94–455, title XII, §1201(b), Oct. 4, 1976, 90 Stat. 1667, provided that: “Any written determination or background file document which is the subject of a judicial proceeding pursuant to section 552 of title 5, United States Code, commenced before January 1, 1976, shall not be treated as a written determination subject to subsection (h)(1) \[subsec. (h)(1) of this section\], but shall be available to the complainant along with the background file document, if requested, as soon as practicable after July 1, 1976.”
+Pub. L. 94–455, title XII, §1201(b), Oct. 4, 1976, 90 Stat. 1667, provided that: "Any written determination or background file document which is the subject of a judicial proceeding pursuant to section 552 of title 5, United States Code, commenced before January 1, 1976, shall not be treated as a written determination subject to subsection (h)(1) \[subsec. (h)(1) of this section\], but shall be available to the complainant along with the background file document, if requested, as soon as practicable after July 1, 1976."
 

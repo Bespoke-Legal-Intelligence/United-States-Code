@@ -44,9 +44,9 @@ Inconsistent laws.—Except as provided in subsection (f)(2), this section preem
 
 Different treatment under state law of members and dependents prohibited.—States shall not—
 
-&emsp;&emsp;(A) authorize creditors to charge covered members and their dependents annual percentage rates of interest for loans higher than the legal limit for residents of the State; or
+&emsp;&emsp;(A) authorize creditors to charge covered members and their dependents annual percentage rates of interest for any consumer credit or loans higher than the legal limit for residents of the State; or
 
-&emsp;&emsp;(B) permit violation or waiver of any State consumer lending protections for the benefit of residents of the State on the basis of nonresident or military status of a covered member or dependent of such a member, regardless of the member's or dependent's domicile or permanent home of record.
+&emsp;&emsp;(B) permit violation or waiver of any State consumer lending protections covering consumer credit for the benefit of residents of the State on the basis of nonresident or military status of a covered member or dependent of such a member, regardless of the member's or dependent's domicile or permanent home of record.
 
 (e)
 
@@ -138,11 +138,11 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations to carry
 
 &emsp;(A) Disclosures required of any creditor that extends consumer credit to a covered member or dependent of such a member.
 
-&emsp;(B) The method for calculating the applicable annual percentage rate of interest on such obligations, in accordance with the limit established under this section.
+&emsp;(B) The method for calculating the applicable annual percentage rate of interest on suchobligations, in accordance with the limit established under this section.
 
 &emsp;(C) A maximum allowable amount of all fees, and the types of fees, associated with any such extension of credit, to be expressed and disclosed to the borrower as a total amount and as a percentage of the principal amount of the obligation, at the time at which the transaction is entered into.
 
-&emsp;(D) Definitions of “creditor” under paragraph (5) and “consumer credit” under paragraph (6) of subsection (i), consistent with the provisions of this section.
+&emsp;(D) Definitions of "creditor" under paragraph (5) and "consumer credit" under paragraph (6) of subsection (i), consistent with the provisions of this section.
 
 &emsp;(E) Such other criteria or limitations as the Secretary of Defense determines appropriate, consistent with the provisions of this section.
 
@@ -168,7 +168,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Covered member.—The term “covered member” means a member of the armed forces who is—
+Covered member.—The term "covered member" means a member of the armed forces who is—
 
 &emsp;&emsp;(A) on active duty under a call or order that does not specify a period of 30 days or less; or
 
@@ -176,19 +176,19 @@ Covered member.—The term “covered member” means a member of the armed forc
 
 &emsp;(2)
 
-Dependent.—The term “dependent”, with respect to a covered member, means a person described in subparagraph (A), (D), (E), or (I) of section 1072(2) of this title.
+Dependent.—The term "dependent", with respect to a covered member, means a person described in subparagraph (A), (D), (E), or (I) of section 1072(2) of this title.
 
 &emsp;(3)
 
-Interest.—The term “interest” includes all cost elements associated with the extension of credit, including fees, service charges, renewal charges, credit insurance premiums, any ancillary product sold with any extension of credit to a servicemember or the servicemember's dependent, as applicable, and any other charge or premium with respect to the extension of consumer credit.
+Interest.—The term "interest" includes all cost elements associated with the extension of credit, including fees, service charges, renewal charges, credit insurance premiums, any ancillary product sold with any extension of credit to a servicemember or the servicemember's dependent, as applicable, and any other charge or premium with respect to the extension of consumer credit.
 
 &emsp;(4)
 
-Annual percentage rate.—The term “annual percentage rate” has the same meaning as in section 107 of the Truth and Lending Act (15 U.S.C. 1606), as implemented by regulations of the Board of Governors of the Federal Reserve System. For purposes of this section, such term includes all fees and charges, including charges and fees for single premium credit insurance and other ancillary products sold in connection with the credit transaction, and such fees and charges shall be included in the calculation of the annual percentage rate.
+Annual percentage rate.—The term "annual percentage rate" has the same meaning as in section 107 of the Truth and Lending Act (15 U.S.C. 1606), as implemented by regulations of the Board of Governors of the Federal Reserve System. For purposes of this section, such term includes all fees and charges, including charges and fees for single premium credit insurance and other ancillary products sold in connection with the credit transaction, and such fees and charges shall be included in the calculation of the annual percentage rate.
 
 &emsp;(5)
 
-Creditor.—The term “creditor” means a person—
+Creditor.—The term "creditor" means a person—
 
 &emsp;&emsp;(A) who—
 
@@ -200,19 +200,9 @@ Creditor.—The term “creditor” means a person—
 
 &emsp;(6)
 
-Consumer credit.—The term “consumer credit” has the meaning provided for such term in regulations prescribed under this section, except that such term does not include (A) a residential mortgage, or (B) a loan procured in the course of purchasing a car or other personal property, when that loan is offered for the express purpose of financing the purchase and is secured by the car or personal property procured.
+Consumer credit.—The term "consumer credit" has the meaning provided for such term in regulations prescribed under this section, except that such term does not include (A) a residential mortgage, or (B) a loan procured in the course of purchasing a car or other personal property, when that loan is offered for the express purpose of financing the purchase and is secured by the car or personal property procured.
 
 (Added Pub. L. 109–364, div. A, title VI, §670(a), Oct. 17, 2006, 120 Stat. 2266; amended Pub. L. 112–239, div. A, title VI, §§661(a), (b), 662(a), (b), 663, Jan. 2, 2013, 126 Stat. 1785, 1786.)
-
-#### Amendment of Subsection (d)(2)
-
-<i>Pub. L. 112–239, div. A, title VI, §661(a), (c), Jan. 2, 2013, 126 Stat. 1785, provided that, one year after Jan. 2, 2013, or such earlier date as the Secretary of Defense shall specify in the modification of regulations required by §661(c)(1) of Pub. L. 112–239, subsection (d)(2) of this section is amended—</i>
-
-<i>(1) in subparagraph (A), by inserting “any consumer credit or” before “loans”; and</i>
-
-<i>(2) in subparagraph (B), by inserting “covering consumer credit” after “State consumer lending protections”.</i>
-
-<i>See 2011 Amendment notes below.</i>
 
 #### References in Text
 
@@ -222,57 +212,57 @@ The Servicemembers Civil Relief Act, referred to in subsecs. (e)(2) and (g), is 
 
 #### Amendments
 
-<b>2013</b>—Subsec. (d)(2)(A). Pub. L. 112–239, §661(a)(1), inserted “any consumer credit or” before “loans”.
+<b>2013</b>—Subsec. (d)(2)(A). Pub. L. 112–239, §661(a)(1), inserted "any consumer credit or" before "loans".
 
-Subsec. (d)(2)(B). Pub. L. 112–239, §661(a)(2), inserted “covering consumer credit” after “State consumer lending protections”.
+Subsec. (d)(2)(B). Pub. L. 112–239, §661(a)(2), inserted "covering consumer credit" after "State consumer lending protections".
 
 Subsec. (f)(5), (6). Pub. L. 112–239, §662(a), (b), added pars. (5) and (6).
 
-Subsec. (h)(3). Pub. L. 112–239, §661(b)(1), inserted “and not less often than once every two years thereafter,” after “under this subsection,” in introductory provisions.
+Subsec. (h)(3). Pub. L. 112–239, §661(b)(1), inserted "and not less often than once every two years thereafter," after "under this subsection," in introductory provisions.
 
-Subsec. (h)(3)(E). Pub. L. 112–239, §661(b)(2), added subpar. (E) and struck out former subpar. (E) which read as follows: “The Office of Thrift Supervision.”
+Subsec. (h)(3)(E). Pub. L. 112–239, §661(b)(2), added subpar. (E) and struck out former subpar. (E) which read as follows: "The Office of Thrift Supervision."
 
-Subsec. (i)(2). Pub. L. 112–239, §663, amended par. (2) generally. Prior to amendment, par. (2) defined the term “dependent”.
+Subsec. (i)(2). Pub. L. 112–239, §663, amended par. (2) generally. Prior to amendment, par. (2) defined the term "dependent".
 
-#### Effective Date of 2013 Amendments
+#### Effective Date of 2013 Amendment
 
 Pub. L. 112–239, div. A, title VI, §661(c), Jan. 2, 2013, 126 Stat. 1785, provided that:
 
-“(1)
+"(1)
 
 Modification of regulations.—The Secretary of Defense shall modify the regulations prescribed under subsection (h) of section 987 of title 10, United States Code, to take into account the amendments made by subsection (a) \[amending this section\].
 
-“(2)
+"(2)
 
 Effective date.—The amendments made by subsection (a) shall take effect on—
 
-&emsp;“(A) the date that is one year after the date of the enactment of this Act \[Jan. 2, 2013\]; or
+&emsp;"(A) the date that is one year after the date of the enactment of this Act \[Jan. 2, 2013\]; or
 
-&emsp;“(B) such earlier date as the Secretary shall specify in the modification of regulations required by paragraph (1).
+&emsp;"(B) such earlier date as the Secretary shall specify in the modification of regulations required by paragraph (1).
 
-“(3)
+"(3)
 
-Publication of earlier date.—If the Secretary specifies an earlier effective date for the amendments made by subsection (a) pursuant to paragraph (2)(B), the Secretary shall publish notice of such earlier effective date in the Federal Register not later than 90 days before such earlier effective date.”
+Publication of earlier date.—If the Secretary specifies an earlier effective date for the amendments made by subsection (a) pursuant to paragraph (2)(B), the Secretary shall publish notice of such earlier effective date in the Federal Register not later than 90 days before such earlier effective date."
 
-Pub. L. 112–239, div. A, title VI, §662(c), Jan. 2, 2013, 126 Stat. 1786, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to consumer credit extended on or after the date of the enactment of this Act \[Jan. 2, 2013\].”
+Pub. L. 112–239, div. A, title VI, §662(c), Jan. 2, 2013, 126 Stat. 1786, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to consumer credit extended on or after the date of the enactment of this Act \[Jan. 2, 2013\]."
 
 #### Effective Date
 
 Pub. L. 109–364, div. A, title VI, §670(c), Oct. 17, 2006, 120 Stat. 2269, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), section 987 of title 10, United States Code, as added by subsection (a), shall take effect on October 1, 2007, or on such earlier date as may be prescribed by the Secretary of Defense, and shall apply with respect to extensions of consumer credit on or after such effective date.
 
-“(2)
+"(2)
 
 Authority to prescribe regulations.—Subsection (h) of such section shall take effect on the date of the enactment of this Act \[Oct. 17, 2006\].
 
-“(3)
+"(3)
 
-Publication of earlier effective date.—If the Secretary of Defense prescribes an effective date for section 987 of title 10, United States Code, as added by subsection (a), earlier than October 1, 2007, the Secretary shall publish that date in the Federal Register. Such publication shall be made not less than 90 days before that earlier effective date.”
+Publication of earlier effective date.—If the Secretary of Defense prescribes an effective date for section 987 of title 10, United States Code, as added by subsection (a), earlier than October 1, 2007, the Secretary shall publish that date in the Federal Register. Such publication shall be made not less than 90 days before that earlier effective date \[Final rule implementing provisions of section 670 of Pub. L. 109–364, which enacted 10 U.S.C. 987, effective Oct. 1, 2007, see 72 F.R. 50580.\]."
 
 #### Interim Regulations
 
-Pub. L. 109–364, div. A, title VI, §670(d), Oct. 17, 2006, 120 Stat. 2269, provided that: “The Secretary of Defense may prescribe interim regulations as necessary to carry out such section \[this section\]. For the purpose of prescribing such interim regulations, the Secretary is excepted from compliance with the notice-and-comment requirements of section 553 of title 5, United States Code. All interim rules prescribed under the authority of this subsection that are not earlier superseded by final rules shall expire no later than 270 days after the effective date of section 987 of title 10, United States Code \[see Effective Date note above\], as added by this section.”
+Pub. L. 109–364, div. A, title VI, §670(d), Oct. 17, 2006, 120 Stat. 2269, provided that: "The Secretary of Defense may prescribe interim regulations as necessary to carry out such section \[this section\]. For the purpose of prescribing such interim regulations, the Secretary is excepted from compliance with the notice-and-comment requirements of section 553 of title 5, United States Code. All interim rules prescribed under the authority of this subsection that are not earlier superseded by final rules shall expire no later than 270 days after the effective date of section 987 of title 10, United States Code \[see Effective Date note above\], as added by this section."
 

@@ -2,7 +2,7 @@
 
 (a) Except when the Attorney General in a particular case directs otherwise, the Attorney General and the Solicitor General shall conduct and argue suits and appeals in the Supreme Court and suits in the United States Court of Federal Claims or in the United States Court of Appeals for the Federal Circuit and in the Court of International Trade in which the United States is interested.
 
-(b) When the Attorney General considers it in the interests of the United States, he may personally conduct and argue any case in a court of the United States in which the United States isinterested, or he may direct the Solicitor General or any officer of the Department of Justice to do so.
+(b) When the Attorney General considers it in the interests of the United States, he may personally conduct and argue any case in a court of the United States in which the United States is interested, or he may direct the Solicitor General or any officer of the Department of Justice to do so.
 
 (Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 613; amended Pub. L. 96–417, title V, §503, Oct. 10, 1980, 94 Stat. 1743; Pub. L. 97–164, title I, §117, Apr. 2, 1982, 96 Stat. 32; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516.)
 
@@ -20,13 +20,13 @@ Historical and Revision Notes
 
 R.S. §359.
 
-The words “and writs of error” are omitted on authority of the Act of Jan. 31, 1928, ch. 14, §1, 45 Stat. 54. The word “considers” is substituted for “deems”.
+The words "and writs of error" are omitted on authority of the Act of Jan. 31, 1928, ch. 14, §1, 45 Stat. 54. The word "considers" is substituted for "deems".
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court or in the United States Court of Appeals for the Federal Circuit” for “Court of Claims”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164 substituted "United States Claims Court or in the United States Court of Appeals for the Federal Circuit" for "Court of Claims".
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–417 required the Attorney General and the Solicitor General to conduct and argue suits in the Court of International Trade.
 

@@ -24,5 +24,5 @@ Section 747 subordinates to other customer claims, all claims of a customer who 
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–222 substituted “the transaction giving rise to such claim occurred” for “such claim arose” in provisions preceding par. (1).
+<b>1982</b>—Pub. L. 97–222 substituted "the transaction giving rise to such claim occurred" for "such claim arose" in provisions preceding par. (1).
 

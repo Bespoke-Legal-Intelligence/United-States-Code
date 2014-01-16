@@ -44,7 +44,7 @@
 
 (d) Each plan shall further specify the rule changes, statutory amendments, and appropriations needed to effectuate further improvements in the administration of justice in the district which cannot be accomplished without such amendments or funds.
 
-(e) Each plan shall include recommendations to the Administrative Office of the United States Courts for reporting forms, procedures, and time requirements. The Director of the Administrative Office of the United States Courts, with the approval of the Judicial Conference ofthe United States, shall prescribe such forms and procedures and time requirements consistent with section 3170 after consideration of the recommendations contained in the district plan and the need to reflect both unique local conditions and uniform national reporting standards.
+(e) Each plan shall include recommendations to the Administrative Office of the United States Courts for reporting forms, procedures, and time requirements. The Director of the Administrative Office of the United States Courts, with the approval of the Judicial Conference of the United States, shall prescribe such forms and procedures and time requirements consistent with section 3170 after consideration of the recommendations contained in the district plan and the need to reflect both unique local conditions and uniform national reporting standards.
 
 (f) Each plan may be accompanied by guidelines promulgated by the judicial council of the circuit for use by all district courts within that circuit to implement and secure compliance with this chapter.
 
@@ -52,7 +52,7 @@
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b)(8). Pub. L. 101–647 substituted “extension” for “extention”.
+<b>1990</b>—Subsec. (b)(8). Pub. L. 101–647 substituted "extension" for "extention".
 
 <b>1979</b>—Subsec. (b)(9). Pub. L. 96–43, §9(a), added par. (9).
 

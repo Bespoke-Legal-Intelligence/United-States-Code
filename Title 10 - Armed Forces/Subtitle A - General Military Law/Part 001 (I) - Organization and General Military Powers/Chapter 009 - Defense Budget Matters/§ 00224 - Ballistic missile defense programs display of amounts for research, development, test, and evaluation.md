@@ -32,23 +32,23 @@ Follow-on Research, Development, Test, and Evaluation.—The Secretary of Defens
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–136, §226(b), substituted “the integration of a ballistic missile defense element into the overall ballistic missile defense architecture” for “a Department of Defense missile defense program described in subsection (b)”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §226(b), substituted "the integration of a ballistic missile defense element into the overall ballistic missile defense architecture" for "a Department of Defense missile defense program described in subsection (b)".
 
-Subsec. (e). Pub. L. 108–136, §226(a), substituted “before a” for “for each”, inserted “is” before “transferred”, and substituted “roles and responsibilities” for “responsibility” and “are clearly delineated” for “remains with the Director”.
+Subsec. (e). Pub. L. 108–136, §226(a), substituted "before a" for "for each", inserted "is" before "transferred", and substituted "roles and responsibilities" for "responsibility" and "are clearly delineated" for "remains with the Director".
 
-Subsec. (f). Pub. L. 108–136, §1043(b)(4), struck out heading and text of subsec. (f). Text read as follows: “In this section, the term ‘congressional defense committees’ means the following:
+Subsec. (f). Pub. L. 108–136, §1043(b)(4), struck out heading and text of subsec. (f). Text read as follows: "In this section, the term 'congressional defense committees' means the following:
 
-&emsp;“(1) The Committee on Armed Services and the Committee on Appropriations of the Senate.
+&emsp;"(1) The Committee on Armed Services and the Committee on Appropriations of the Senate.
 
-&emsp;“(2) The Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
+&emsp;"(2) The Committee on Armed Services and the Committee on Appropriations of the House of Representatives."
 
-<b>2002</b>—Subsecs. (a), (b)(1), (c), (d). Pub. L. 107–314, §225(b)(1)(A), substituted “Missile Defense Agency” for “Ballistic Missile Defense Organization”.
+<b>2002</b>—Subsecs. (a), (b)(1), (c), (d). Pub. L. 107–314, §225(b)(1)(A), substituted "Missile Defense Agency" for "Ballistic Missile Defense Organization".
 
-Subsec. (e). Pub. L. 107–314 substituted “for each” for “before a”, “transferred” for “is transferred”, “Missile Defense Agency” for “Ballistic Missile Defense Organization”, and “responsibility for research, development, test, and evaluation related to system improvements for that program remains with the Director” for “roles and responsibilities for research, development, test, and evaluation related to system improvements for that program are clearly defined”.
+Subsec. (e). Pub. L. 107–314 substituted "for each" for "before a", "transferred" for "is transferred", "Missile Defense Agency" for "Ballistic Missile Defense Organization", and "responsibility for research, development, test, and evaluation related to system improvements for that program remains with the Director" for "roles and responsibilities for research, development, test, and evaluation related to system improvements for that program are clearly defined".
 
-<b>2001</b>—Pub. L. 107–107, §231(b)(1), substituted “research, development, test, and evaluation” for “procurement” in section catchline.
+<b>2001</b>—Pub. L. 107–107, §231(b)(1), substituted "research, development, test, and evaluation" for "procurement" in section catchline.
 
-Subsec. (a). Pub. L. 107–107, §231(a)(1), substituted “research, development, test, and evaluation” for “procurement” in two places.
+Subsec. (a). Pub. L. 107–107, §231(a)(1), substituted "research, development, test, and evaluation" for "procurement" in two places.
 
 Subsecs. (b) to (f). Pub. L. 107–107, §231(a)(2), added subsecs. (b) to (f) and struck out former subsecs. (b) and (c) which related to covered programs and core theater ballistic missile defense program, respectively.
 

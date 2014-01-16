@@ -96,7 +96,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “eligible partnership” means a partnership that includes—
+&emsp;&emsp;The term "eligible partnership" means a partnership that includes—
 
 &emsp;&emsp;&emsp;(i) one or more institutions of higher education, one of which serves as the fiscal agent and grant recipient for the eligible partnership;
 
@@ -114,7 +114,7 @@ In this section:
 
 #### (2) Nontraditional student
 
-&emsp;The term “nontraditional student” means a student—
+&emsp;The term "nontraditional student" means a student—
 
 &emsp;&emsp;(A) who is an independent student, as defined in section 1087vv(d) of this title;
 

@@ -12,5 +12,5 @@ If a taxpayer exercises the election provided for in subsection (a) for any taxa
 
 #### Amendments
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 

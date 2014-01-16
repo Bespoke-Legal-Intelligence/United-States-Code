@@ -40,5 +40,5 @@ Historical and Revision Notes
 
 June 9, 1906, ch. 3065, §2, 34 Stat. 227.
 
-Before clause (1), the words “objects” and “declared to be” are omitted as unnecessary.
+Before clause (1), the words "objects" and "declared to be" are omitted as unnecessary.
 

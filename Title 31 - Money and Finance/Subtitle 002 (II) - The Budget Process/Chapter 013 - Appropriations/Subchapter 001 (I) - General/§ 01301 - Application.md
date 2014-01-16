@@ -46,25 +46,25 @@ Aug. 24, 1912, ch. 355, §7, 37 Stat. 487; Mar. 3, 1919, ch. 99, §6(last senten
 
 June 30, 1906, ch. 3914, §9, 34 Stat. 764.
 
-In subsection (a), the word “Appropriations” is substituted for “sums appropriated for the various branches of expenditure in the public service” to eliminate unnecessary words. The words “they are respectively” and “and for no others” are omitted as surplus. The words “except as otherwise provided by law” are substituted for “All” in section 3678 of the Revised Statutes to inform the reader that there are exceptions to the source provisions restated in the subsection.
+In subsection (a), the word "Appropriations" is substituted for "sums appropriated for the various branches of expenditure in the public service" to eliminate unnecessary words. The words "they are respectively" and "and for no others" are omitted as surplus. The words "except as otherwise provided by law" are substituted for "All" in section 3678 of the Revised Statutes to inform the reader that there are exceptions to the source provisions restated in the subsection.
 
-In subsection (c), before clause (1), the words “specific or indefinite” are omitted as surplus. The words “made subsequent to August 24, 1912” are omitted as executed. The words “without reference to a fiscal year” are omitted as surplus. In clause (1), the words “is for” are substituted for “belongs to one of the following four classes” to eliminate unnecessary words. The words “last specifically named in and excepted from the operation of the provisions of section 713 of this title” and the words related to section 5 of the Act of June 20, 1874 (31:713), in section 6(last sentence) of the Act of March 3, 1919 (ch. 99, 40 Stat. 1309), are omitted because section 5 was repealed by section 3 of the Act of July 6, 1949 (ch. 299, 63 Stat. 407).
+In subsection (c), before clause (1), the words "specific or indefinite" are omitted as surplus. The words "made subsequent to August 24, 1912" are omitted as executed. The words "without reference to a fiscal year" are omitted as surplus. In clause (1), the words "is for" are substituted for "belongs to one of the following four classes" to eliminate unnecessary words. The words "last specifically named in and excepted from the operation of the provisions of section 713 of this title" and the words related to section 5 of the Act of June 20, 1874 (31:713), in section 6(last sentence) of the Act of March 3, 1919 (ch. 99, 40 Stat. 1309), are omitted because section 5 was repealed by section 3 of the Act of July 6, 1949 (ch. 299, 63 Stat. 407).
 
-In subsection (d), the words “passed after June 30, 1906” are omitted as executed.
+In subsection (d), the words "passed after June 30, 1906" are omitted as executed.
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–359, §1, July 13, 1984, 98 Stat. 402, provided: “That this Act \[amending section 1322 of this title\] may be cited as the ‘Postal Savings System Statute of Limitations Act’.”
+Pub. L. 98–359, §1, July 13, 1984, 98 Stat. 402, provided: "That this Act \[amending section 1322 of this title\] may be cited as the 'Postal Savings System Statute of Limitations Act'."
 
 #### Transfers From Appropriation Accounts; Salaries of Temporarily Reassigned Employees
 
-Pub. L. 105–277, div. A, §101(f) \[title V, §510\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–385, as amended by Pub. L. 106–31, title V, §5005(l), May 21, 1999, 113 Stat. 111, provided that: “Notwithstanding any other provision of law, hereafter—
+Pub. L. 105–277, div. A, §101(f) \[title V, §510\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–385, as amended by Pub. L. 106–31, title V, §5005(l), May 21, 1999, 113 Stat. 111, provided that: "Notwithstanding any other provision of law, hereafter—
 
-&emsp;“(1) no amount may be transferred from an appropriation account for the Departments of Labor, Health and Human Services, and Education except as authorized in this or any subsequent appropriation Act, or in the Act establishing the program or activity for which funds are contained in this Act \[see Tables for classification\];
+&emsp;"(1) no amount may be transferred from an appropriation account for the Departments of Labor, Health and Human Services, and Education except as authorized in this or any subsequent appropriation Act, or in the Act establishing the program or activity for which funds are contained in this Act \[see Tables for classification\];
 
-&emsp;“(2) no department, agency, or other entity, other than the one responsible for administering the program or activity for which an appropriation is made in this Act, may exercise authority for the timing of the obligation and expenditure of such appropriation, or for the purpose for which it is obligated and expended, except to the extent and in the manner otherwise provided in sections 1512 and 1513 of title 31, United States Code; and
+&emsp;"(2) no department, agency, or other entity, other than the one responsible for administering the program or activity for which an appropriation is made in this Act, may exercise authority for the timing of the obligation and expenditure of such appropriation, or for the purpose for which it is obligated and expended, except to the extent and in the manner otherwise provided in sections 1512 and 1513 of title 31, United States Code; and
 
-&emsp;“(3) no funds provided under this Act or subsequent Departments of Labor, Health and Human Services, Education, and Related Agencies Appropriations Acts shall be available for the salary (or any part thereof) of an employee who is reassigned on a temporary detail basis to another position in the employing agency or department or in any other agency or department, unless the detail is independently approved by the head of the employing department or agency.”
+&emsp;"(3) no funds provided under this Act or subsequent Departments of Labor, Health and Human Services, Education, and Related Agencies Appropriations Acts shall be available for the salary (or any part thereof) of an employee who is reassigned on a temporary detail basis to another position in the employing agency or department or in any other agency or department, unless the detail is independently approved by the head of the employing department or agency."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -92,7 +92,7 @@ Sec. 2. <i>Duties of Agency Heads</i>. (a) With respect to all appropriations la
 
 (iii) no oral or written communications concerning earmarks shall supersede statutory criteria, competitive awards, or merit-based decisionmaking.
 
-(b) An agency shall not consider the views of a House, committee, Member, officer, or staff of the Congress with respect to commitments, obligations, or expenditures to carry out any earmark unless such views are in writing, to facilitate consideration in accordance with section 2(a)(ii) above. All written communications from the Congress, or a House, committee, Member, officer, or staff thereof, recommending that funds be committed, obligated, or expended on any earmark shall be made publicly available on the Internet by the receiving agency, not later than 30 days after receipt of such communication, unless otherwise specifically directed by the head of the agency, without delegation, after consultation with the Director of the Office ofManagement and Budget, to preserve appropriate confidentiality between the executive and legislative branches.
+(b) An agency shall not consider the views of a House, committee, Member, officer, or staff of the Congress with respect to commitments, obligations, or expenditures to carry out any earmark unless such views are in writing, to facilitate consideration in accordance with section 2(a)(ii) above. All written communications from the Congress, or a House, committee, Member, officer, or staff thereof, recommending that funds be committed, obligated, or expended on any earmark shall be made publicly available on the Internet by the receiving agency, not later than 30 days after receipt of such communication, unless otherwise specifically directed by the head of the agency, without delegation, after consultation with the Director of the Office of Management and Budget, to preserve appropriate confidentiality between the executive and legislative branches.
 
 (c) Heads of agencies shall otherwise implement within their respective agencies the policy set forth in section 1 of this order, consistent with such instructions as the Director of the Office of Management and Budget may prescribe.
 
@@ -100,9 +100,9 @@ Sec. 2. <i>Duties of Agency Heads</i>. (a) With respect to all appropriations la
 
 Sec. 3. <i>Definitions</i>. For purposes of this order:
 
-(a) The term “agency” means an executive agency as defined in section 105 of title 5, United States Code, and the United States Postal Service and the Postal Regulatory Commission, but shall exclude the Government Accountability Office; and
+(a) The term "agency" means an executive agency as defined in section 105 of title 5, United States Code, and the United States Postal Service and the Postal Regulatory Commission, but shall exclude the Government Accountability Office; and
 
-(b) the term “earmark” means funds provided by the Congress for projects, programs, or grants where the purported congressional direction (whether in statutory text, report language, or other communication) circumvents otherwise applicable merit-based or competitive allocation processes, or specifies the location or recipient, or otherwise curtails the ability of the executive branch to manage its statutory and constitutional responsibilities pertaining to the funds allocation process.
+(b) the term "earmark" means funds provided by the Congress for projects, programs, or grants where the purported congressional direction (whether in statutory text, report language, or other communication) circumvents otherwise applicable merit-based or competitive allocation processes, or specifies the location or recipient, or otherwise curtails the ability of the executive branch to manage its statutory and constitutional responsibilities pertaining to the funds allocation process.
 
 Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—As provided in section 175 of this title, there is in the Office of the Secretary of Defense a board known as the “Reserve Forces Policy Board” (in this section referred to as the “Board”).
+In General.—As provided in section 175 of this title, there is in the Office of the Secretary of Defense a board known as the "Reserve Forces Policy Board" (in this section referred to as the "Board").
 
 (b)
 
@@ -62,7 +62,7 @@ Matters To Be Acted on.—The Board may act on those matters referred to it by t
 
 (e)
 
-Staff.—The Board shall be supported by a staff consisting of one full-time officer from each of the reserve components listed in paragraphs (1) through (6) of section 10101 of this title who holds the grade of colonel (or in thecase of the Navy, the grade of captain) or who has been selected for promotion to that grade. These officers shall also serve as liaisons between their respective components and the Board. They shall perform their staff and liaison duties under the supervision of the military executive officer of the Board in an independent manner reflecting the independent nature of the Board.
+Staff.—The Board shall be supported by a staff consisting of one full-time officer from each of the reserve components listed in paragraphs (1) through (6) of section 10101 of this title who holds the grade of colonel (or in the case of the Navy, the grade of captain) or who has been selected for promotion to that grade. These officers shall also serve as liaisons between their respective components and the Board. They shall perform their staff and liaison duties under the supervision of the military executive officer of the Board in an independent manner reflecting the independent nature of the Board.
 
 (f)
 
@@ -78,13 +78,13 @@ Provisions similar to those in this section were contained in section 175 of thi
 
 <b>2011</b>—Pub. L. 111–383 amended section generally. Prior to amendment, section related to the composition and functions of the Reserve Forces Policy Board.
 
-<b>2006</b>—Subsec. (a)(7). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsec. (a)(7). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve".
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 111–383, div. A, title V, §514(a)(2), Jan. 7, 2011, 124 Stat. 4213, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on July 1, 2011.”
+Pub. L. 111–383, div. A, title V, §514(a)(2), Jan. 7, 2011, 124 Stat. 4213, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on July 1, 2011."
 
 #### Effective Date of 2002 Amendment
 

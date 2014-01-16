@@ -18,9 +18,9 @@ The information required by subsection (a)(1) may be provided in classified form
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–172 substituted “2017” for “2012” in introductory provisions.
+<b>2012</b>—Subsec. (a). Pub. L. 112–172 substituted "2017" for "2012" in introductory provisions.
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–346 substituted “annually thereafter through 2012” for “in each of the 2 years thereafter” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–346 substituted "annually thereafter through 2012" for "in each of the 2 years thereafter" in introductory provisions.
 
-<b>2004</b>—Subsec. (a)(2). Pub. L. 108–447 substituted “subparagraphs (A) through (D) of section 7832(b)(1) of this title” for “paragraphs (1) through (4) of section 7832(b) of this title”.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–447 substituted "subparagraphs (A) through (D) of section 7832(b)(1) of this title" for "paragraphs (1) through (4) of section 7832(b) of this title".
 

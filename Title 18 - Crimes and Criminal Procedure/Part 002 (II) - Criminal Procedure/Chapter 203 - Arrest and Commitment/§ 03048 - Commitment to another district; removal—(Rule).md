@@ -8,9 +8,9 @@ Arrest in nearby or distant districts; informative statement by judge or magistr
 
 #### Amendments
 
-<b>1968</b>—Pub. L. 90–578 substituted “magistrate” for “commissioner”.
+<b>1968</b>—Pub. L. 90–578 substituted "magistrate" for "commissioner".
 
 #### Change of Name
 
-Words “magistrate judge” substituted for “magistrate” in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words "magistrate judge" substituted for "magistrate" in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 

@@ -24,15 +24,15 @@
 
 (c) As used in this section—
 
-&emsp;(1) the term “genuine police badge” means an official badge issued by public authority to identify an individual as a law enforcement officer having police powers;
+&emsp;(1) the term "genuine police badge" means an official badge issued by public authority to identify an individual as a law enforcement officer having police powers;
 
-&emsp;(2) the term “counterfeit police badge” means an item that so resembles a police badge that it would deceive an ordinary individual into believing it was a genuine police badge; and <sup>2</sup>
+&emsp;(2) the term "counterfeit police badge" means an item that so resembles a police badge that it would deceive an ordinary individual into believing it was a genuine police badge; and <sup>2</sup>
 
-&emsp;(3) the term “official insignia or uniform” means an article of distinctive clothing or insignia, including a badge, emblem or identification card, that is an indicium of the authority of a public employee;
+&emsp;(3) the term "official insignia or uniform" means an article of distinctive clothing or insignia, including a badge, emblem or identification card, that is an indicium of the authority of a public employee;
 
-&emsp;(4) the term “public employee” means any officer or employee of the Federal Government or of a State or local government; and
+&emsp;(4) the term "public employee" means any officer or employee of the Federal Government or of a State or local government; and
 
-&emsp;(5) the term “uniform” means distinctive clothing or other items of dress, whether real or counterfeit, worn during the performance of official duties and which identifies the wearer as a public agency employee.
+&emsp;(5) the term "uniform" means distinctive clothing or other items of dress, whether real or counterfeit, worn during the performance of official duties and which identifies the wearer as a public agency employee.
 
 (d) It is a defense to a prosecution under this section that the official insignia or uniform is not used or intended to be used to mislead or deceive, or is a counterfeit insignia or uniform and is used or is intended to be used exclusively—
 
@@ -44,21 +44,21 @@
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–162, §1191(a)(6), substituted “Public employee insignia and uniform” for “Police badges” in section catchline.
+<b>2006</b>—Pub. L. 109–162, §1191(a)(6), substituted "Public employee insignia and uniform" for "Police badges" in section catchline.
 
-Subsec. (a)(1). Pub. L. 109–162, §1191(a)(1), substituted “official insignia or uniform” for “police badge”.
+Subsec. (a)(1). Pub. L. 109–162, §1191(a)(1), substituted "official insignia or uniform" for "police badge".
 
-Subsec. (a)(2). Pub. L. 109–162, §1191(a)(1), (2), substituted “official insignia or uniform to” for “police badge to” and “official insignia or uniform;” for “badge of the police;”.
+Subsec. (a)(2). Pub. L. 109–162, §1191(a)(1), (2), substituted "official insignia or uniform to" for "police badge to" and "official insignia or uniform;" for "badge of the police;".
 
-Subsec. (a)(3). Pub. L. 109–162, §1191(a)(1), substituted “official insignia or uniform” for “police badge”.
+Subsec. (a)(3). Pub. L. 109–162, §1191(a)(1), substituted "official insignia or uniform" for "police badge".
 
-Subsec. (a)(4). Pub. L. 109–162, §1191(a)(1), (2), substituted “official insignia or uniform under” for “police badge under” and “official insignia or uniform,” for “badge of the police,”.
+Subsec. (a)(4). Pub. L. 109–162, §1191(a)(1), (2), substituted "official insignia or uniform under" for "police badge under" and "official insignia or uniform," for "badge of the police,".
 
-Subsec. (b). Pub. L. 109–162, §1191(a)(3)(C), which directed the insertion of “is not used to mislead or deceive, or” before “is used or intended” was executed by making the insertion before “is used or is intended”, to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 109–162, §1191(a)(3)(C), which directed the insertion of "is not used to mislead or deceive, or" before "is used or intended" was executed by making the insertion before "is used or is intended", to reflect the probable intent of Congress.
 
-Pub. L. 109–162, §1191(a)(3)(A), (B), substituted “the insignia or uniform” for “the badge” and inserted “is other than a counterfeit insignia or uniform and” before “is used or is intended to be used”.
+Pub. L. 109–162, §1191(a)(3)(A), (B), substituted "the insignia or uniform" for "the badge" and inserted "is other than a counterfeit insignia or uniform and" before "is used or is intended to be used".
 
-Pub. L. 109–162, §1191(a)(1), which directed substitution of “official insignia or uniform” for “police badge” could not be executed because the term “police badge” did not appear.
+Pub. L. 109–162, §1191(a)(1), which directed substitution of "official insignia or uniform" for "police badge" could not be executed because the term "police badge" did not appear.
 
 Subsec. (c)(3) to (5). Pub. L. 109–162, §1191(a)(4), added pars. (3) to (5).
 
@@ -66,5 +66,5 @@ Subsec. (d). Pub. L. 109–162, §1191(a)(5), added subsec. (d).
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "and" probably should not appear.</i>
 

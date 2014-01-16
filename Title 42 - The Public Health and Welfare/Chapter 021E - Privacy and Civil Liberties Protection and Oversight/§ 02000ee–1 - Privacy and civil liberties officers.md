@@ -2,7 +2,7 @@
 
 #### (a) Designation and functions
 
-The Attorney General, the Secretary of Defense, the Secretary of State, the Secretary of the Treasury, the Secretary of Health and Human Services, the Secretary of Homeland Security, the Director of National Intelligence, the Director of the Central Intelligence Agency, and the head of any other department, agency, orelement of the executive branch designated by the Privacy and Civil Liberties Oversight Board under section 2000ee of this title to be appropriate for coverage under this section shall designate not less than 1 senior officer to serve as the principal advisor to—
+The Attorney General, the Secretary of Defense, the Secretary of State, the Secretary of the Treasury, the Secretary of Health and Human Services, the Secretary of Homeland Security, the Director of National Intelligence, the Director of the Central Intelligence Agency, and the head of any other department, agency, or element of the executive branch designated by the Privacy and Civil Liberties Oversight Board under section 2000ee of this title to be appropriate for coverage under this section shall designate not less than 1 senior officer to serve as the principal advisor to—
 
 &emsp;(1) assist the head of such department, agency, or element and other officials of such department, agency, or element in appropriately considering privacy and civil liberties concerns when such officials are proposing, developing, or implementing laws, regulations, policies, procedures, or guidelines related to efforts to protect the Nation against terrorism;
 
@@ -68,7 +68,7 @@ No action constituting a reprisal, or threat of reprisal, for making a complaint
 
 #### (2) Contents
 
-&emsp;Each report submitted under paragraph (1) shall include information on the discharge of each of the functions of the officer concerned, including—
+&emsp;Each report submitted under paragraph (1) shall include information on the discharge ofeach of the functions of the officer concerned, including—
 
 &emsp;&emsp;(A) information on the number and types of reviews undertaken;
 
@@ -94,5 +94,5 @@ Nothing in this section shall be construed to limit or otherwise supplant any ot
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–53 amended section generally. Prior to amendment, text of section read as follows: “It is the sense of Congress that each executive department or agency with law enforcement or antiterrorism functions should designate a privacy and civil liberties officer.”
+<b>2007</b>—Pub. L. 110–53 amended section generally. Prior to amendment, text of section read as follows: "It is the sense of Congress that each executive department or agency with law enforcement or antiterrorism functions should designate a privacy and civil liberties officer."
 

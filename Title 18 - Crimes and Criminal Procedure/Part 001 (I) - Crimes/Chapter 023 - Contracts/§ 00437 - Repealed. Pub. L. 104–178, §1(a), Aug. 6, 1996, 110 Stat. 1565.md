@@ -4,9 +4,9 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 703; June 17, 1980, Pub. L. 96–
 
 #### Effective Date of Repeal
 
-Pub. L. 104–178, §1(c), Aug. 6, 1996, 110 Stat. 1565, provided that: “The repeal made by subsection (a) \[repealing this section\] shall—
+Pub. L. 104–178, §1(c), Aug. 6, 1996, 110 Stat. 1565, provided that: "The repeal made by subsection (a) \[repealing this section\] shall—
 
-&emsp;“(1) take effect on the date of enactment of this Act \[Aug. 6, 1996\]; and
+&emsp;"(1) take effect on the date of enactment of this Act \[Aug. 6, 1996\]; and
 
-&emsp;“(2) apply with respect to any contract obtained, and any purchase or sale occurring, on or after the date of enactment of this Act.”
+&emsp;"(2) apply with respect to any contract obtained, and any purchase or sale occurring, on or after the date of enactment of this Act."
 

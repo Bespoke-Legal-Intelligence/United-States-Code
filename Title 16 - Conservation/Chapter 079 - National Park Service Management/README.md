@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [5901\.](%C2%A7%2005901%20-%20%E2%80%9CSecretary%E2%80%9D%20defined.md) | “Secretary” defined. |
+| [5901\.](%C2%A7%2005901%20-%20Secretary%20defined.md) | "Secretary" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -84,7 +84,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 05901 - &#8220;Secretary&#8221; defined](%C2%A7%2005901%20-%20%E2%80%9CSecretary%E2%80%9D%20defined.md)
+- [&sect; 05901 - Secretary defined](%C2%A7%2005901%20-%20Secretary%20defined.md)
 - [Subchapter 001 (I) - National Park Service Career Development, Training, and Management](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service%20Career%20Development%2C%20Training%2C%20and%20Management/README.md)
 - [Subchapter 002 (II) - National Park System Resource Inventory and Management](Subchapter%20002%20%28II%29%20-%20National%20Park%20System%20Resource%20Inventory%20and%20Management/README.md)
 - [Subchapter 003 (III) - National Park Service Concessions Management](Subchapter%20003%20%28III%29%20-%20National%20Park%20Service%20Concessions%20Management/README.md)

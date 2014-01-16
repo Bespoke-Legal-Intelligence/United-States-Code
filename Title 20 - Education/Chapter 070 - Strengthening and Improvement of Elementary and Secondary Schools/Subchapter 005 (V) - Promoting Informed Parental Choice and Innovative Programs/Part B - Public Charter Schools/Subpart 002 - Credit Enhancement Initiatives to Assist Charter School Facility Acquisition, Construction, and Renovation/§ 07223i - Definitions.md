@@ -4,11 +4,11 @@ In this subpart:
 
 #### (1) Charter school
 
-&emsp;The term “charter school” has the meaning given such term in section 7221i of this title.
+&emsp;The term "charter school" has the meaning given such term in section 7221i of this title.
 
 #### (2) Eligible entity
 
-&emsp;The term “eligible entity” means—
+&emsp;The term "eligible entity" means—
 
 &emsp;&emsp;(A) a public entity, such as a State or local governmental entity;
 

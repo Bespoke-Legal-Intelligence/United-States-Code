@@ -19,22 +19,25 @@
 | [1594\.](%C2%A7%2001594%20-%20General%20provisions.md) | General provisions. |
 | [1595\.](%C2%A7%2001595%20-%20Civil%20remedy.md) | Civil remedy. |
 | [1596\.](%C2%A7%2001596%20-%20Additional%20jurisdiction%20in%20certain%20trafficking%20offenses.md) | Additional jurisdiction in certain trafficking offenses. |
+| [1597\.](%C2%A7%2001597%20-%20Unlawful%20conduct%20with%20respect%20to%20immigration%20documents.md) | Unlawful conduct with respect to immigration documents. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Historical and Revision Notes
 
-It was felt that further revision of this chapter should be considered at an opportune time for the same reasons stated with respect to chapter 81, “Piracy and Privateering”.
+It was felt that further revision of this chapter should be considered at an opportune time for the same reasons stated with respect to chapter 81, "Piracy and Privateering".
 
 #### Amendments
 
+<b>2013</b>—Pub. L. 113–4, title XII, §1211(c)(2), Mar. 7, 2013, 127 Stat. 143, added item 1597.
+
 <b>2008</b>—Pub. L. 110–457, title II, §§222(d)(2), 223(b), Dec. 23, 2008, 122 Stat. 5070, 5072, added items 1593A and 1596.
 
-<b>2003</b>—Pub. L. 108–193, §§4(a)(4)(B), 5(c)(1), Dec. 19, 2003, 117 Stat. 2878, 2879, substituted “PEONAGE, SLAVERY, AND TRAFFICKING IN PERSONS” for “PEONAGE AND SLAVERY” as chapter heading and added item 1595.
+<b>2003</b>—Pub. L. 108–193, §§4(a)(4)(B), 5(c)(1), Dec. 19, 2003, 117 Stat. 2878, 2879, substituted "PEONAGE, SLAVERY, AND TRAFFICKING IN PERSONS" for "PEONAGE AND SLAVERY" as chapter heading and added item 1595.
 
 <b>2000</b>—Pub. L. 106–386, div. A, §112(a)(3), Oct. 28, 2000, 114 Stat. 1489, added items 1589 to 1594.
 
-<b>1949</b>—Act May 24, 1949, ch. 139, §36, 63 Stat. 95, substituted a semicolon for comma after “Peonage” in item 1581.
+<b>1949</b>—Act May 24, 1949, ch. 139, §36, 63 Stat. 95, substituted a semicolon for comma after "Peonage" in item 1581.
 
 
 ---
@@ -58,3 +61,4 @@ It was felt that further revision of this chapter should be considered at an opp
 - [&sect; 01594 - General provisions](%C2%A7%2001594%20-%20General%20provisions.md)
 - [&sect; 01595 - Civil remedy](%C2%A7%2001595%20-%20Civil%20remedy.md)
 - [&sect; 01596 - Additional jurisdiction in certain trafficking offenses](%C2%A7%2001596%20-%20Additional%20jurisdiction%20in%20certain%20trafficking%20offenses.md)
+- [&sect; 01597 - Unlawful conduct with respect to immigration documents](%C2%A7%2001597%20-%20Unlawful%20conduct%20with%20respect%20to%20immigration%20documents.md)

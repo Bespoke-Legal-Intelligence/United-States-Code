@@ -22,9 +22,9 @@ The Secretary shall submit an annual report to Congress, and shall include in su
 
 #### Amendments
 
-<b>2002</b>—Par. (8). Pub. L. 107–251 struck out “agreements under” after “in accordance with”.
+<b>2002</b>—Par. (8). Pub. L. 107–251 struck out "agreements under" after "in accordance with".
 
 <b>1990</b>—Pars. (1), (3), (5), (6). Pub. L. 101–597 substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
 
-<b>1982</b>—Pub. L. 97–375 struck out “on May 1 of each year” after “report to Congress”.
+<b>1982</b>—Pub. L. 97–375 struck out "on May 1 of each year" after "report to Congress".
 

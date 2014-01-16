@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary, in coordination with the Advisory Committee and State and local water resource agencies, shall establish a national assessment program to be known as the “national water availability and use assessment program”—
+The Secretary, in coordination with the Advisory Committee and State and local water resource agencies, shall establish a national assessment program to be known as the "national water availability and use assessment program"—
 
 &emsp;(1) to provide a more accurate assessment of the status of the water resources of the United States;
 
@@ -78,7 +78,7 @@ The Secretary, in coordination with the Advisory Committee and State and local w
 
 #### (2) Criteria
 
-&emsp;To be eligible to receive a grant under paragraph (1), a State water resource agency shall demonstrate to the Secretary that the water use and availability dataset proposed to be established or integrated by the State water resource agency—
+&emsp;To be eligible to receive a grant under paragraph (1), a State water resource agency shalldemonstrate to the Secretary that the water use and availability dataset proposed to be established or integrated by the State water resource agency—
 
 &emsp;&emsp;(A) is in compliance with each quality and conformity standard established by the Secretary to ensure that the data will be capable of integration with any national dataset; and
 

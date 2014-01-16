@@ -76,7 +76,7 @@
 
 #### (i) Conviction of aggravated felony
 
-&emsp;&emsp;&emsp;For purposes of clause (ii) of subparagraph (A), an alien who has been convicted of an aggravated felony shall be considered to have been convicted of a particularly serious crime.
+&emsp;&emsp;&emsp;For purposes of clause (ii) of subparagraph (A), an alien who has been convictedof an aggravated felony shall be considered to have been convicted of a particularly serious crime.
 
 #### (ii) Offenses
 
@@ -120,7 +120,7 @@
 
 &emsp;Asylum granted under subsection (b) of this section does not convey a right to remain permanently in the United States, and may be terminated if the Attorney General determines that—
 
-&emsp;&emsp;(A) the alien no longer meets the conditions described in subsection (b)(1) of thissection owing to a fundamental change in circumstances;
+&emsp;&emsp;(A) the alien no longer meets the conditions described in subsection (b)(1) of this section owing to a fundamental change in circumstances;
 
 &emsp;&emsp;(B) the alien meets a condition described in subsection (b)(2) of this section;
 
@@ -146,7 +146,7 @@
 
 #### (3) Fees
 
-&emsp;The Attorney General may impose fees for the consideration of an application for asylum, for employment authorization under this section, and for adjustment of status under section 1159(b) of this title. Such fees shall not exceed the Attorney General's costs in adjudicating the applications. The Attorney General may provide for the assessment and payment of such fees over a period of time or by installments. Nothing in this paragraph shall be construed to require the Attorney General to charge fees for adjudication services provided to asylum applicants, or to limit the authority of the Attorney General to set adjudication and naturalization fees in accordance with section 1356(m) of this title.
+&emsp;The Attorney General may impose fees for the consideration of an application for asylum, for employment authorization under this section, and for adjustment of status under section 1159(b) of this title. Such fees shall notexceed the Attorney General's costs in adjudicating the applications. The Attorney General may provide for the assessment and payment of such fees over a period of time or by installments. Nothing in this paragraph shall be construed to require the Attorney General to charge fees for adjudication services provided to asylum applicants, or to limit the authority of the Attorney General to set adjudication and naturalization fees in accordance with section 1356(m) of this title.
 
 #### (4) Notice of privilege of counsel and consequences of frivolous application
 
@@ -178,7 +178,7 @@
 
 #### (6) Frivolous applications
 
-&emsp;If the Attorney General determines that an alien has knowingly made a frivolous application for asylum and the alien has received thenotice under paragraph (4)(A), the alien shall be permanently ineligible for any benefits under this chapter, effective as of the date of a final determination on such application.
+&emsp;If the Attorney General determines that an alien has knowingly made a frivolous application for asylum and the alien has received the notice under paragraph (4)(A), the alien shall be permanently ineligible for any benefits under this chapter, effective as of the date of a final determination on such application.
 
 #### (7) No private right of action
 
@@ -208,7 +208,7 @@ Subsec. (b)(1)(B). Pub. L. 109–13, §101(a)(3), added subpar. (B)
 
 Subsec. (b)(2)(A)(v). Pub. L. 109–13, §101(b), substituted “described in” for “inadmissible under” in two places and struck out “removable under” before “section 1227(a)(4)(B)”.
 
-<b>2002</b>—Subsec. (b)(3). Pub. L. 107–208 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.”
+<b>2002</b>—Subsec. (b)(3). Pub. L. 107–208 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A spouse or child (asdefined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.”
 
 <b>2001</b>—Subsec. (b)(2)(A)(v). Pub. L. 107–56 substituted “(III), (IV), or (VI)” for “(III), or (IV)”.
 

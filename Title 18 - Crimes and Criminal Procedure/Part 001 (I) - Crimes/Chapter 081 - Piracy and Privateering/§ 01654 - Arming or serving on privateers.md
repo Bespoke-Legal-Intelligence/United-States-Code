@@ -14,7 +14,7 @@ Shall be fined under this title or imprisoned not more than ten years, or both.
 
 Based on title 18, U.S.C., 1940 ed., §494 (Mar. 4, 1909, ch. 321, §303, 35 Stat. 1147).
 
-Reference to persons procuring or aiding was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
+Reference to persons procuring or aiding was omitted as unnecessary in view of definition of "principal" in section 2 of this title.
 
 Mandatory punishment provisions were rephrased in the alternative.
 
@@ -24,5 +24,5 @@ Minor changes were made in phraseology and arrangement.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000" in last par.
 

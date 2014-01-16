@@ -14,7 +14,7 @@ A prior section 3309 was renumbered section 3311 of this title.
 
 #### Effective Date
 
-Section applicable with respect to remuneration paid after 1961 for services performed after 1961, see section 535 of Pub. L. 86–778, set out as an Effective Date of 1960 Amendment note under section 3305 of this title.
+Section applicable with respect to remuneration paid after 1961 for services performed after 1961, see section535 of Pub. L. 86–778, set out as an Effective Date of 1960 Amendment note under section 3305 of this title.
 
 #### Applicability to Federal Land Banks, Federal Intermediate Credit Banks, and Banks for Cooperatives
 

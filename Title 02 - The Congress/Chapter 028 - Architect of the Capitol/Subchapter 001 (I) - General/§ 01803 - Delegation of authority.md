@@ -16,5 +16,5 @@ Section is from the Legislative Branch Appropriation Act, 1956.
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–7 substituted “Architect of the Capitol may delegate to the assistants of the Architect such authority of the Architect as the Architect may determine proper, except those authorities, duties, and responsibilities specifically assigned to the Deputy Architect of the Capitol by the Legislative Branch Appropriations Act, 2003” for “Architect of the Capitol is authorized on and after August 5, 1955, to delegate to theAssistant Architect and other assistants such authority of the Architect as he may deem proper”.
+<b>2003</b>—Pub. L. 108–7 substituted “Architect of the Capitol may delegate to the assistants of the Architect such authority of the Architect as the Architect may determine proper, except those authorities, duties, and responsibilities specifically assigned to the Deputy Architect of the Capitol by the Legislative Branch Appropriations Act, 2003” for “Architect of the Capitol is authorized on and after August 5, 1955, to delegate to the Assistant Architect and other assistants such authority of the Architect as he may deem proper”.
 

@@ -76,7 +76,7 @@ A national, State, district, or local committee of a political party (including 
 
 &emsp;&emsp;(B) solicit, receive, direct, transfer, or spend funds in connection with any election other than an election for Federal office or disburse funds in connection with such an election unless the funds—
 
-&emsp;&emsp;&emsp;(i) are not in excess of the amounts permitted with respect to contributions tocandidates and political committees under paragraphs (1), (2), and (3) of section 441a(a) of this title; and
+&emsp;&emsp;&emsp;(i) are not in excess of the amounts permitted with respect to contributions to candidates and political committees under paragraphs (1), (2), and (3) of section 441a(a) of this title; and
 
 &emsp;&emsp;&emsp;(ii) are not from sources prohibited by this Act from making contributions in connection with an election for Federal office.
 

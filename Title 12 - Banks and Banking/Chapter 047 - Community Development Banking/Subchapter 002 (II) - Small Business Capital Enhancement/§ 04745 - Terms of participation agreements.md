@@ -162,7 +162,7 @@ If, subsequent to payment of a claim by the participating State, a participating
 
 #### (2) Definitions
 
-&emsp;For purposes of this subsection, the terms “executive officer”, “director”, “principal shareholder”, “immediate family”, and “related interest” refer to the same relationship to a participating financial institution as the relationship described in part 215 of title 12 of the Code of Federal Regulations, or any successor to such part.
+&emsp;For purposes of this subsection, the terms "executive officer", "director", "principal shareholder", "immediate family", and "related interest" refer to the same relationship to a participating financial institution as the relationship described in part 215 of title 12 of the Code of Federal Regulations, or any successor to such part.
 
 #### (q) Termination clause
 

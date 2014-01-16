@@ -2,7 +2,7 @@
 
 #### (a) Submissions
 
-No loan, loan guarantee, or grant may be made under part A or B for a medical facilities project unless an application for such project has been submitted to and approved by the Secretary. If two or more entities join in a project, an application for such project may be filed by any of such entities or by all of them.
+No loan, loan guarantee, or grant may be made under part A or B for a medical facilities project unless an application for such project has been submitted to and approved by the Secretary. If two or more entities join in a project,an application for such project may be filed by any of such entities or by all of them.
 
 #### (b) Form; required provisions; waiver; projects subject to requirements
 
@@ -48,7 +48,7 @@ No loan, loan guarantee, or grant may be made under part A or B for a medical fa
 
 #### Codification
 
-In subsec. (b)(1)(I), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 (40 U.S.C. 276a—276a–5, known as the Davis-Bacon Act)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (40 U.S.C. 276c)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (b)(1)(I), "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the Act of March 3, 1931 (40 U.S.C. 276a—276a–5, known as the Davis-Bacon Act)" and "section 3145 of title 40" substituted for "section 2 of the Act of June 13, 1934 (40 U.S.C. 276c)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 

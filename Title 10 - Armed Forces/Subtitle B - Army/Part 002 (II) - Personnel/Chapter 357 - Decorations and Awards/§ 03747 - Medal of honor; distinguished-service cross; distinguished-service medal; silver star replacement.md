@@ -16,11 +16,11 @@ Historical and Revision Notes
 
 10:1416.
 
-July 9, 1918, ch. 143 (14th par. under “Ordnance Department”), 40 Stat. 871.
+July 9, 1918, ch. 143 (14th par. under "Ordnance Department"), 40 Stat. 871.
 
-The words “issued for wear with or in place of any of them” are inserted for clarity. The words “presented under the provisions of this title” and “such medal, cross, bar, ribbon, rosette, or device” are omitted as surplusage.
+The words "issued for wear with or in place of any of them" are inserted for clarity. The words "presented under the provisions of this title" and "such medal, cross, bar, ribbon, rosette, or device" are omitted as surplusage.
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–107 substituted “stolen, lost, or destroyed” for “lost or destroyed”.
+<b>2001</b>—Pub. L. 107–107 substituted "stolen, lost, or destroyed" for "lost or destroyed".
 

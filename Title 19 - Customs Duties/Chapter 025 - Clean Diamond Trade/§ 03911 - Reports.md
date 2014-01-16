@@ -22,5 +22,5 @@ For each country identified in subsection (a)(3), the President, during such per
 
 For assignment of functions of President under this section, see section 2 of Ex. Ord. No. 13312, July 29, 2003, 68 F.R. 45151, set out as a note under section 3901 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Kimberley”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Kimberley".</i>
 

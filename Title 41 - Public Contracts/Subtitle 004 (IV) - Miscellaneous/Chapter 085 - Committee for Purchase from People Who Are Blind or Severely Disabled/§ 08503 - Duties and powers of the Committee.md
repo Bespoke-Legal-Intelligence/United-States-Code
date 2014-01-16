@@ -74,7 +74,7 @@ June 25, 1938, ch. 697, §2, 52 Stat. 1196; Pub. L. 92–28, §1, June 23, 1971,
 
 41:47(e).
 
-In subsection (a), the text of 41:47(a)(1) (last sentence) is omitted as obsolete. The words “procurement list” are substituted for “(hereafter in sections 46 to 48c of this title referred to as the ‘procurement list’)” to eliminate unnecessary words.
+In subsection (a), the text of 41:47(a)(1) (last sentence) is omitted as obsolete. The words "procurement list" are substituted for "(hereafter in sections 46 to 48c of this title referred to as the 'procurement list')" to eliminate unnecessary words.
 
 In subsection (d)(2), the text of 41:47(d)(2)(B) is omitted as obsolete.
 

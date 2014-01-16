@@ -60,9 +60,9 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §29(a)–(c); added Dec. 18, 1991
 
 49 App.:1625(b).
 
-In subsection (a), before clause (1), the word “conduct” is substituted for “administer” for consistency in this section.
+In subsection (a), before clause (1), the word "conduct" is substituted for "administer" for consistency in this section.
 
-In subsection (d), the word “department” is omitted for consistency in this section.
+In subsection (d), the word "department" is omitted for consistency in this section.
 
 #### Pub. L. 104–287
 
@@ -74,21 +74,21 @@ This amends 49:5315(d), 5317(b)(5), and 5323(b)(1), (c), and (e) to correct erro
 
 <b>2005</b>—Subsecs. (a), (b). Pub. L. 109–59, §3017(a), added subsecs. (a) and (b) and struck out former subsecs. (a) and (b), which related to establishment and duties of a national transit institute in subsec. (a) and delegation to the institute of the authority of the Secretary to develop and conduct educational and training programs related to mass transportation in subsec. (b).
 
-Subsec. (d). Pub. L. 109–59, §3017(b), struck out “mass” after “public” in two places.
+Subsec. (d). Pub. L. 109–59, §3017(b), struck out "mass" after "public" in two places.
 
-<b>1998</b>—Pub. L. 105–178, §3017(a)(1), as amended by Pub. L. 105–206 substituted “transit” for “mass transportation” in section catchline.
+<b>1998</b>—Pub. L. 105–178, §3017(a)(1), as amended by Pub. L. 105–206 substituted "transit" for "mass transportation" in section catchline.
 
-Subsec. (a). Pub. L. 105–178, §3017(a)(2)(A), as amended by Pub. L. 105–206 substituted “national transit institute” for “national mass transportation institute” in introductory provisions.
+Subsec. (a). Pub. L. 105–178, §3017(a)(2)(A), as amended by Pub. L. 105–206 substituted "national transit institute" for "national mass transportation institute" in introductory provisions.
 
-Subsec. (a)(5). Pub. L. 105–178, §3017(a)(2)(B), as amended by Pub. L. 105–206 inserted “and architectural design” before semicolon at end.
+Subsec. (a)(5). Pub. L. 105–178, §3017(a)(2)(B), as amended by Pub. L. 105–206 inserted "and architectural design" before semicolon at end.
 
-Subsec. (a)(7). Pub. L. 105–178, §3017(a)(2)(C), as amended by Pub. L. 105–206 substituted “delivering” for “carrying out”.
+Subsec. (a)(7). Pub. L. 105–178, §3017(a)(2)(C), as amended by Pub. L. 105–206 substituted "delivering" for "carrying out".
 
-Subsec. (a)(11). Pub. L. 105–178, §3017(a)(2)(D), as amended by Pub. L. 105–206 inserted “, construction management, insurance, and risk management” before semicolon at end.
+Subsec. (a)(11). Pub. L. 105–178, §3017(a)(2)(D), as amended by Pub. L. 105–206 inserted ", construction management, insurance, and risk management" before semicolon at end.
 
 Subsec. (a)(15), (16). Pub. L. 105–178, §3017(a)(2)(E)–(G), as amended by Pub. L. 105–206 added pars. (15) and (16).
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–287 substituted “sections 5307 and 5309” for “sections 5304 and 5306”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–287 substituted "sections 5307 and 5309" for "sections 5304 and 5306".
 
 #### Effective Date of 2012 Amendment
 
@@ -106,53 +106,53 @@ Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. 
 
 Pub. L. 112–141, div. B, §20013(b), July 6, 2012, 126 Stat. 692, provided that:
 
-“(1)
+"(1)
 
 Identify impediments.—The Secretary shall—
 
-&emsp;“(A) except as provided in paragraph (6), identify any provisions of chapter 53 of title 49, United States Code, and any regulations or practices thereunder, that impede greater use of public-private partnerships and private investment in public transportation capital projects; and
+&emsp;"(A) except as provided in paragraph (6), identify any provisions of chapter 53 of title 49, United States Code, and any regulations or practices thereunder, that impede greater use of public-private partnerships and private investment in public transportation capital projects; and
 
-&emsp;“(B) develop and implement on a project basis procedures and approaches that—
+&emsp;"(B) develop and implement on a project basis procedures and approaches that—
 
-&emsp;&emsp;“(i) address such impediments in a manner similar to the Special Experimental Project Number 15 of the Federal Highway Administration (commonly referred to as ‘SEP-15’); and
+&emsp;&emsp;"(i) address such impediments in a manner similar to the Special Experimental Project Number 15 of the Federal Highway Administration (commonly referred to as 'SEP-15'); and
 
-&emsp;&emsp;“(ii) protect the public interest and any public investment in public transportation capital projects that involve public-private partnerships or private investment in public transportation capital projects.
+&emsp;&emsp;"(ii) protect the public interest and any public investment in public transportation capital projects that involve public-private partnerships or private investment in public transportation capital projects.
 
-“(2)
+"(2)
 
 Transparency.—The Secretary shall develop guidance to promote greater transparency and public access to public-private partnership agreements involving recipients of Federal assistance under chapter 53 of title 49, United States Code, including—
 
-&emsp;“(A) any conflict of interest involving any party involved in the public-private partnership;
+&emsp;"(A) any conflict of interest involving any party involved in the public-private partnership;
 
-&emsp;“(B) tax and financing aspects related to a public-private partnership agreement;
+&emsp;"(B) tax and financing aspects related to a public-private partnership agreement;
 
-&emsp;“(C) changes in the workforce and wages, benefits, or rules as a result of a public-private partnership;
+&emsp;"(C) changes in the workforce and wages, benefits, or rules as a result of a public-private partnership;
 
-&emsp;“(D) estimates of the revenue or savings the public-private partnership will produce for the private entity and public entity;
+&emsp;"(D) estimates of the revenue or savings the public-private partnership will produce for the private entity and public entity;
 
-&emsp;“(E) any impacts on other developments and transportation modes as a result of non-compete clauses contained in public-private partnership agreements; and
+&emsp;"(E) any impacts on other developments and transportation modes as a result of non-compete clauses contained in public-private partnership agreements; and
 
-&emsp;“(F) any other issues the Secretary believes will increase transparency of public-private partnership agreements and protect the public interest.
+&emsp;"(F) any other issues the Secretary believes will increase transparency of public-private partnership agreements and protect the public interest.
 
-“(3)
+"(3)
 
 Assessment.—In developing and implementing the guidance under paragraph (2), the Secretary shall encourage project sponsors to conduct assessments to determine whether use of a public-private partnership represents a better public and financial benefit than a similar transaction using public funding or public project delivery.
 
-“(4)
+"(4)
 
 Report.—Not later than 4 years after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary shall submit to Congress a report on the status of the procedures, approaches, and guidance developed and implemented under paragraphs (1) and (2).
 
-“(5)
+"(5)
 
 Rulemaking.—Not later than 1 year after the date of enactment of this Act, the Secretary shall issue rules to carry out the procedures and approaches developed under paragraph (1).
 
-“(6)
+"(6)
 
 Rule of construction.—Nothing in this subsection may be construed to allow the Secretary to waive any requirement under—
 
-&emsp;“(A) section 5333 of title 49, United States Code;
+&emsp;"(A) section 5333 of title 49, United States Code;
 
-&emsp;“(B) the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); or
+&emsp;"(B) the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.); or
 
-&emsp;“(C) any other provision of Federal law.”
+&emsp;"(C) any other provision of Federal law."
 

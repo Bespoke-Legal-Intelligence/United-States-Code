@@ -6,7 +6,7 @@ Type Certificates.—
 
 &emsp;(1)
 
-Issuance, investigations, and tests.—The Administrator of the Federal Aviation Administration shall issue a type certificate for an aircraft, aircraft engine, or propeller, or for an appliance specified under paragraph (2)(A) of this subsection when the Administrator finds that the aircraft, aircraft engine, propeller, or appliance is properly designed and manufactured, performs properly, and meets the regulations and minimum standards prescribed under section 44701(a) of this title. On receiving an application for a type certificate, the Administrator shall investigate the application and may conduct a hearing. The Administrator shall make, or require the applicant to make, tests the Administrator considers necessary in the interest of safety.
+Issuance, investigations, and tests.—The Administrator of the Federal Aviation Administration shall issue a type certificate for an aircraft, aircraft engine, or propeller, or for an appliance specified under paragraph (2)(A) of this subsection when the Administrator finds that the aircraft, aircraft engine, propeller, or appliance is properly designed and manufactured, performs properly, and meets the regulations and minimum standards prescribed under section 44701(a) of this title. On receiving an application for a type certificate, the Administrator shall investigate the application and may conduct a hearing. TheAdministrator shall make, or require the applicant to make, tests the Administrator considers necessary in the interest of safety.
 
 &emsp;(2)
 
@@ -42,7 +42,7 @@ In general.—Notwithstanding any other provision of law, the Administrator may 
 
 &emsp;&emsp;(B)
 
-Engineering data defined.—In this section, the term “engineering data” as used with respect to an aircraft, engine, propeller, or appliance means type design drawing and specifications for the entire aircraft, engine, propeller, or appliance or change to the aircraft, engine, propeller, or appliance, including the original design data, and any associated supplier data for individual parts or components approved as part of the particular certificate for the aircraft, engine, propeller, or appliance.
+Engineering data defined.—In this section, the term "engineering data" as used with respect to an aircraft, engine, propeller, or appliance means type design drawing and specifications for the entire aircraft, engine, propeller, or appliance or change to the aircraft, engine, propeller, or appliance, including the original design data, and any associated supplier data for individual parts or components approved as part of the particular certificate for the aircraft, engine, propeller, or appliance.
 
 &emsp;&emsp;(C)
 
@@ -80,7 +80,7 @@ Design and Production Organization Certificates.—
 
 &emsp;(1)
 
-Issuance.—Beginning January 1, 2013, the Administrator may issue a certificate to a design organization, production organization, or design and production organization to authorize the organization to certify compliance of aircraft, aircraft engines, propellers, and appliances with the requirements and minimum standards prescribed under section 44701(a). An organization holding a certificate issued under this subsection shall be known as a certified design and production organization (in this subsection referred to as a “CDPO”).
+Issuance.—Beginning January 1, 2013, the Administrator may issue a certificate to a design organization, production organization, or design and production organization to authorize the organization to certify compliance of aircraft, aircraft engines, propellers, and appliances with the requirements and minimum standards prescribed under section 44701(a). An organization holding a certificate issued under this subsection shall be known as a certified design and production organization (in this subsection referred to as a "CDPO").
 
 &emsp;(2)
 
@@ -154,35 +154,35 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 49 App.:1655(c)(1).
 
-In subsections (a)–(c)(1), the word “Administrator” in section 603 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 776) is retained on authority of 49:106(g).
+In subsections (a)–(c)(1), the word "Administrator" in section 603 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 776) is retained on authority of 49:106(g).
 
-In subsection (a)(1), the text of 49 App.:1423(a)(2) (1st sentence 1st–16th words) and the words “in regulations” are omitted as surplus. The words “properly designed and manufactured, performs properly” are substituted for “of proper design, material, specification, construction, and performance for safe operation” to eliminate unnecessary words. The word “rules” is omitted as being synonymous with “regulations”. The words “under section 44701(a) of this title” and “for a type certificate” are added for clarity. The words “including flight tests and tests of raw materials or any part or appurtenance of such aircraft, aircraft engine, propeller, or appliance” are omitted as surplus.
+In subsection (a)(1), the text of 49 App.:1423(a)(2) (1st sentence 1st–16th words) and the words "in regulations" are omitted as surplus. The words "properly designed and manufactured, performs properly" are substituted for "of proper design, material, specification, construction, and performance for safe operation" to eliminate unnecessary words. The word "rules" is omitted as being synonymous with "regulations". The words "under section 44701(a) of this title" and "for a type certificate" are added for clarity. The words "including flight tests and tests of raw materials or any part or appurtenance of such aircraft, aircraft engine, propeller, or appliance" are omitted as surplus.
 
-In subsection (a)(2)(A), the words “issuance of” are omitted as surplus.
+In subsection (a)(2)(A), the words "issuance of" are omitted as surplus.
 
-In subsection (a)(2)(B), the words “the duration thereof and such other” are omitted as surplus. The words “conditions, and limitations” are omitted as being included in “terms”.
+In subsection (a)(2)(B), the words "the duration thereof and such other" are omitted as surplus. The words "conditions, and limitations" are omitted as being included in "terms".
 
-In subsection (a)(2)(C), the words “issued for aircraft, aircraft engines, or propellers” and “all of” are omitted as surplus. The word “specification” is substituted for “determination” for clarity.
+In subsection (a)(2)(C), the words "issued for aircraft, aircraft engines, or propellers" and "all of" are omitted as surplus. The word "specification" is substituted for "determination" for clarity.
 
-In subsection (b), the word “satisfactorily” is omitted as surplus. The words “shall inspect, and may require testing of, a duplicate to ensure that it conforms to the requirements of the certificate” are substituted for “shall make such inspection and may require such tests of any aircraft, aircraft engine, propeller, or appliance manufactured under a production certificate as may be necessary to assure manufacture of each unit in conformity with the type certificate or any amendment or modification thereof” to eliminate unnecessary words. The words “the duration thereof and such other . . . conditions, and limitations” are omitted as surplus.
+In subsection (b), the word "satisfactorily" is omitted as surplus. The words "shall inspect, and may require testing of, a duplicate to ensure that it conforms to the requirements of the certificate" are substituted for "shall make such inspection and may require such tests of any aircraft, aircraft engine, propeller, or appliance manufactured under a production certificate as may be necessary to assure manufacture of each unit in conformity with the type certificate or any amendment or modification thereof" to eliminate unnecessary words. The words "the duration thereof and such other . . . conditions, and limitations" are omitted as surplus.
 
-In subsection (c)(1), the words “may apply to” are substituted for “may file with . . . an application” to eliminate unnecessary words. The words “in accordance with regulations prescribed by the Secretary of Transportation” are omitted because of 49:322(a). The words “the duration of such certificate, the type of service for which the aircraft may be used, and such other . . . conditions, and limitations” are omitted as surplus.
+In subsection (c)(1), the words "may apply to" are substituted for "may file with . . . an application" to eliminate unnecessary words. The words "in accordance with regulations prescribed by the Secretary of Transportation" are omitted because of 49:322(a). The words "the duration of such certificate, the type of service for which the aircraft may be used, and such other . . . conditions, and limitations" are omitted as surplus.
 
-In subsection (c)(2), the words “having a property interest” are substituted for “who are holders of property interests” to eliminate unnecessary words.
+In subsection (c)(2), the words "having a property interest" are substituted for "who are holders of property interests" to eliminate unnecessary words.
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–95, §303(c)(1), substituted “, and design and production organization certificates” for “and design organization certificates” in section catchline.
+<b>2012</b>—Pub. L. 112–95, §303(c)(1), substituted ", and design and production organization certificates" for "and design organization certificates" in section catchline.
 
 Subsec. (a)(5). Pub. L. 112–95, §302, added par. (5).
 
 Subsec. (e). Pub. L. 112–95, §303(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) related to design organization certificates.
 
-<b>2005</b>—Subsec. (a)(1) to (3). Pub. L. 109–59, §4405(1)–(3), (5), (6), inserted par. headings, realigned margins, and substituted “Except as provided in paragraph (4), if” for “If” in par. (3).
+<b>2005</b>—Subsec. (a)(1) to (3). Pub. L. 109–59, §4405(1)–(3), (5), (6), inserted par. headings, realigned margins, and substituted "Except as provided in paragraph (4), if" for "If" in par. (3).
 
 Subsec. (a)(4). Pub. L. 109–59, §4405(4), added par. (4).
 
-<b>2003</b>—Pub. L. 108–176, §227(e)(1), added section catchline and struck out former section catchline which read as follows: “Type certificates, production certificates, and airworthiness certificates”.
+<b>2003</b>—Pub. L. 108–176, §227(e)(1), added section catchline and struck out former section catchline which readas follows: "Type certificates, production certificates, and airworthiness certificates".
 
 Subsec. (a)(3). Pub. L. 108–176, §811, added par. (3).
 
@@ -198,105 +198,195 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Small Airplane Revitalization
+
+Pub. L. 113–53, Nov. 27, 2013, 127 Stat. 584, provided that:
+
+#### "SECTION 1. SHORT TITLE.
+
+"This Act may be cited as the 'Small Airplane Revitalization Act of 2013'.
+
+#### "SEC. 2. FINDINGS.
+
+"Congress makes the following findings:
+
+&emsp;"(1) A healthy small aircraft industry is integral to economic growth and to maintaining an effective transportation infrastructure for communities and countries around the world.
+
+&emsp;"(2) Small airplanes comprise nearly 90 percent of general aviation aircraft certified by the Federal Aviation Administration.
+
+&emsp;"(3) General aviation provides for the cultivation of a workforce of engineers, manufacturing and maintenance professionals, and pilots who secure the economic success and defense of the United States.
+
+&emsp;"(4) General aviation contributes to well-paying jobs in the manufacturing and technology sectors in the United States and products produced by those sectors are exported in great numbers.
+
+&emsp;"(5) Technology developed and proven in general aviation aids in the success and safety of all sectors of aviation and scientific competence.
+
+&emsp;"(6) The average small airplane in the United States is now 40 years old and the regulatory barriers to bringing new designs to the market are resulting in a lack of innovation and investment in small airplane design.
+
+&emsp;"(7) Since 2003, the United States lost 10,000 active private pilots per year on average, partially due to a lack of cost-effective, new small airplanes.
+
+&emsp;"(8) General aviation safety can be improved by modernizing and revamping the regulations relating to small airplanes to clear the path for technology adoption and cost-effective means to retrofit the existing fleet with new safety technologies.
+
+#### "SEC. 3. SAFETY AND REGULATORY IMPROVEMENTS FOR GENERAL AVIATION.
+
+"(a)
+
+In General.—Not later than December 15, 2015, the Administrator of the Federal Aviation Administration shall issue a final rule—
+
+&emsp;"(1) to advance the safety and continued development of small airplanes by reorganizing the certification requirements for such airplanes under part 23 to streamline the approval of safety advancements; and
+
+&emsp;"(2) that meets the objectives described in subsection (b).
+
+"(b)
+
+Objectives Described.—The objectives described in this subsection are based on the recommendations of the Part 23 Reorganization Aviation Rulemaking Committee:
+
+&emsp;"(1) The establishment of a regulatory regime for small airplanes that will improve safety and reduce the regulatory cost burden for the Federal Aviation Administration and the aviation industry.
+
+&emsp;"(2) The establishment of broad, outcome-driven safety objectives that will spur innovation and technology adoption.
+
+&emsp;"(3) The replacement of current, prescriptive requirements under part 23 with performance-based regulations.
+
+&emsp;"(4) The use of consensus standards accepted by the Federal Aviation Administration to clarify how the safety objectives of part 23 may be met using specific designs and technologies.
+
+"(c)
+
+Consensus-Based Standards.—In prescribing regulations under this section, the Administrator shall use consensus standards, as described in section 12(d) of the National Technology Transfer and Advancement Act of 1996 \[1995\] (15 U.S.C. 272 note), to the extent practicable while continuing traditional methods for meeting part 23.
+
+"(d)
+
+Safety Cooperation.—The Administrator shall lead the effort to improve general aviation safety by working with leading aviation regulators to assist them in adopting a complementary regulatory approach for small airplanes.
+
+"(e)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Consensus standards.—
+
+&emsp;&emsp;"(A)
+
+In general.—The term 'consensus standards' means standards developed by an organization described in subparagraph (B) that may include provisions requiring that owners of relevant intellectual property have agreed to make that intellectual property available on a nondiscriminatory, royalty-free, or reasonable royalty basis to all interested persons.
+
+&emsp;&emsp;"(B)
+
+Organizations described.—An organization described in this subparagraph is a domestic or international organization that—
+
+&emsp;&emsp;&emsp;"(i) plans, develops, establishes, or coordinates, through a process based on consensus and using agreed-upon procedures, voluntary standards; and
+
+&emsp;&emsp;&emsp;"(ii) operates in a transparent manner, considers a balanced set of interests with respect to such standards, and provides for due process and an appeals process with respect to such standards.
+
+&emsp;"(2)
+
+Part 23.—The term 'part 23' means part 23 of title 14, Code of Federal Regulations.
+
+&emsp;"(3)
+
+Part 23 reorganization aviation rulemaking committee.—The term 'Part 23 Reorganization Aviation Rulemaking Committee' means the aviation rulemaking committee established by the Federal Aviation Administration in August 2011 to consider the reorganization of the regulations under part 23.
+
+&emsp;"(4)
+
+Small airplane.—The term 'small airplane' means an airplane which is certified to part 23 standards."
+
 #### Applicability
 
-Pub. L. 112–95, title III, §303(b), Feb. 14, 2012, 126 Stat. 57, provided that: “Before January 1, 2013, the Administrator of the Federal Aviation Administration may continue to issue certificates under section 44704(e) of title 49, United States Code, as in effect on the day before the date of enactment of this Act \[Feb. 14, 2012\].”
+Pub. L. 112–95, title III, §303(b), Feb. 14, 2012, 126 Stat. 57, provided that: "Before January 1, 2013, the Administrator of the Federal Aviation Administration may continue to issue certificates under section 44704(e) of title 49, United States Code, as in effect on the day before the date of enactment of this Act \[Feb. 14, 2012\]."
 
 #### Aircraft Certification Process Review and Reform
 
 Pub. L. 112–95, title III, §312, Feb. 14, 2012, 126 Stat. 66, provided that:
 
-“(a)
+"(a)
 
 In General.—The Administrator of the Federal Aviation Administration, in consultation with representatives of the aviation industry, shall conduct an assessment of the certification and approval process under section 44704 of title 49, United States Code.
 
-“(b)
+"(b)
 
 Contents.—In conducting the assessment, the Administrator shall consider—
 
-&emsp;“(1) the expected number of applications for product certifications and approvals the Administrator will receive under section 44704 of such title in the 1-year, 5-year, and 10-year periods following the date of enactment of this Act \[Feb. 14, 2012\];
+&emsp;"(1) the expected number of applications for product certifications and approvals the Administrator will receive under section 44704 of such title in the 1-year, 5-year, and 10-year periods following the date of enactment of this Act \[Feb. 14, 2012\];
 
-&emsp;“(2) process reforms and improvements necessary to allow the Administrator to review and approve the applications in a fair and timely fashion;
+&emsp;"(2) process reforms and improvements necessary to allow the Administrator to review and approve the applications in a fair and timely fashion;
 
-&emsp;“(3) the status of recommendations made in previous reports on the Administration's certification process;
+&emsp;"(3) the status of recommendations made in previous reports on the Administration's certification process;
 
-&emsp;“(4) methods for enhancing the effective use of delegation systems, including organizational designation authorization;
+&emsp;"(4) methods for enhancing the effective use of delegation systems, including organizational designation authorization;
 
-&emsp;“(5) methods for training the Administration's field office employees in the safety management system and auditing; and
+&emsp;"(5) methods for training the Administration's field office employees in the safety management system and auditing; and
 
-&emsp;“(6) the status of updating airworthiness requirements, including implementing recommendations in the Administration's report entitled ‘Part 23—Small Airplane Certification Process Study’ (OK–09–3468, dated July 2009).
+&emsp;"(6) the status of updating airworthiness requirements, including implementing recommendations in the Administration's report entitled 'Part 23—Small Airplane Certification Process Study' (OK–09–3468, dated July 2009).
 
-“(c)
+"(c)
 
 Recommendations.—In conducting the assessment, the Administrator shall make recommendations to improve efficiency and reduce costs through streamlining and reengineering the certification process under section 44704 of such title to ensure that the Administrator can conduct certifications and approvals under such section in a manner that supports and enables the development of new products and technologies and the global competitiveness of the United States aviation industry.
 
-“(d)
+"(d)
 
 Report to Congress.—Not later than 180 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the assessment, together with an explanation of how the Administrator will implement recommendations made under subsection (c) and measure the effectiveness of the recommendations.
 
-“(e)
+"(e)
 
-Implementation of Recommendations.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall begin to implement the recommendations made under subsection (c).”
+Implementation of Recommendations.—Not later than 1 year after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall begin to implement the recommendations made under subsection (c)."
 
 #### Historical Aircraft Documents
 
 Pub. L. 112–95, title VIII, §816, Feb. 14, 2012, 126 Stat. 126, provided that:
 
-“(a)
+"(a)
 
 Preservation of Documents.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Administrator of the Federal Aviation Administration shall take such actions as the Administrator determines necessary to preserve original aircraft type certificate engineering and technical data in the possession of the Federal Aviation Administration related to—
 
-&emsp;&emsp;“(A) approved aircraft type certificate numbers ATC 1 through ATC 713; and
+&emsp;&emsp;"(A) approved aircraft type certificate numbers ATC 1 through ATC 713; and
 
-&emsp;&emsp;“(B) Group-2 approved aircraft type certificate numbers 2–1 through 2–544.
+&emsp;&emsp;"(B) Group-2 approved aircraft type certificate numbers 2–1 through 2–544.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Revision of order.—Not later than 3 years after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall revise FAA Order 1350.15C, Item Number 8110. Such revision shall prohibit the destruction of the historical aircraft documents identified in paragraph (1).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Consultation.—The Administrator may carry out paragraph (1) in consultation with the Archivist of the United States and the Administrator of General Services.
 
-“(b)
+"(b)
 
 Availability of Documents.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Freedom of information act requests.—The Administrator shall make the documents to be preserved under subsection (a)(1) available to a person—
 
-&emsp;&emsp;“(A) upon receipt of a request made by the person pursuant to section 552 of title 5, United States Code; and
+&emsp;&emsp;"(A) upon receipt of a request made by the person pursuant to section 552 of title 5, United States Code; and
 
-&emsp;&emsp;“(B) subject to a prohibition on use of the documents for commercial purposes.
+&emsp;&emsp;"(B) subject to a prohibition on use of the documents for commercial purposes.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Trade secrets, commercial, and financial information.—Section 552(b)(4) of such title shall not apply to requests for documents to be made available pursuant to paragraph (1).
 
-“(c)
+"(c)
 
 Holder of Type Certificate.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Rights of holder.—Nothing in this section shall affect the rights of a holder or owner of a type certificate identified in subsection (a)(1), nor require the holder or owner to provide, surrender, or preserve any original or duplicate engineering or technical data to or for the Federal Aviation Administration, a person, or the public.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Liability.—There shall be no liability on the part of, and no cause of action of any nature shall arise against, a holder of a type certificate, its authorized representative, its agents, or its employees, or any firm, person, corporation, or insurer related to the type certificate data and documents identified in subsection (a)(1).
 
-&emsp;“(3)
+&emsp;"(3)
 
-Airworthiness.—Notwithstanding any other provision of law, the holder of a type certificate identified in subsection (a)(1) shall only be responsible for Federal Aviation Administration regulation requirements related to type certificate data and documents identified in subsection (a)(1) for aircraft having a standard airworthiness certificate issued prior to the date the documents are released to a person by the Federal Aviation Administration under subsection (b)(1).”
+Airworthiness.—Notwithstanding any other provision of law, the holder of a type certificate identified in subsection (a)(1) shall only be responsible for Federal Aviation Administration regulation requirements related to type certificate data and documents identified in subsection (a)(1) for aircraft having a standard airworthiness certificate issued prior to the date the documents are released to a person by the Federal Aviation Administration under subsection (b)(1)."
 
 #### Plan for Development and Oversight of System for Certification of Design Organizations
 
-Pub. L. 108–176, title II, §227(b)(1), Dec. 12, 2003, 117 Stat. 2531, provided that: “Not later than 4 years after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan for the development and oversight of a system for certification of design organizations to certify compliance with the requirements and minimum standards prescribed under section 44701(a) of title 49, United States Code, for the type certification of aircraft, aircraft engines, propellers, or appliances.”
+Pub. L. 108–176, title II, §227(b)(1), Dec. 12, 2003, 117 Stat. 2531, provided that: "Not later than 4 years after the date of enactment of this Act \[Dec. 12, 2003\], the Administrator of the Federal Aviation Administration shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a plan for the development and oversight of a system for certification of design organizations to certify compliance with the requirements and minimum standards prescribed under section 44701(a) of title 49, United States Code, for the type certification of aircraft, aircraft engines, propellers, or appliances."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

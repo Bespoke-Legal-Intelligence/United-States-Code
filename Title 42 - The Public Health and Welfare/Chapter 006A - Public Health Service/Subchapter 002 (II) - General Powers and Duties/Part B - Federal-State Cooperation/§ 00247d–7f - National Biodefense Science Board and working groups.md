@@ -4,7 +4,7 @@
 
 #### (1) Establishment and function
 
-&emsp;The Secretary shall establish the National Biodefense Science Board (referred to in this section as the “Board”) to provide expert advice and guidance to the Secretary on scientific, technical and other matters of specialinterest to the Department of Health and Human Services regarding current and future chemical, biological, nuclear, and radiological agents, whether naturally occurring, accidental, or deliberate.
+&emsp;The Secretary shall establish the National Biodefense Science Board (referred to in this section as the "Board") to provide expert advice and guidance to the Secretary on scientific, technical and other matters of special interest to the Department of Health and Human Services regarding current and future chemical, biological, nuclear, and radiological agents, whether naturally occurring, accidental, or deliberate.
 
 #### (2) Membership
 
@@ -18,9 +18,15 @@
 
 &emsp;&emsp;(D) five other members as determined appropriate by the Secretary, of whom—
 
-&emsp;&emsp;&emsp;(i) one such member shall be a practicing healthcare professional; and
+&emsp;&emsp;&emsp;(i) one such member shall be a practicing healthcare professional;
 
-&emsp;&emsp;&emsp;(ii) one such member shall be an individual from an organization representing healthcare consumers.
+&emsp;&emsp;&emsp;(ii) one such member shall be an individual from an organization representing healthcare consumers;
+
+&emsp;&emsp;&emsp;(iii) one such member shall be an individual with pediatric subject matter expertise; and
+
+&emsp;&emsp;&emsp;(iv) one such member shall be a State, tribal, territorial, or local public health official.
+
+> &emsp;Nothing in this paragraph shall preclude a member of the Board from satisfying two or more of the requirements described in subparagraph (D).
 
 #### (3) Term of appointment
 
@@ -36,9 +42,11 @@
 
 &emsp;&emsp;(A) advise the Secretary on current and future trends, challenges, and opportunities presented by advances in biological and life sciences, biotechnology, and genetic engineering with respect to threats posed by naturally occurring infectious diseases and chemical, biological, radiological, and nuclear agents;
 
-&emsp;&emsp;(B) at the request of the Secretary, review and consider any information and findings received from the working groups established under subsection (b); and
+&emsp;&emsp;(B) at the request of the Secretary, review and consider any information and findings received from the working groups established under subsection (b);
 
-&emsp;&emsp;(C) at the request of the Secretary, provide recommendations and findings for expanded, intensified, and coordinated biodefense research and development activities.
+&emsp;&emsp;(C) at the request of the Secretary, provide recommendations and findings for expanded, intensified, and coordinated biodefense research and development activities; and
+
+&emsp;&emsp;(D) provide any recommendation, finding, or report provided to the Secretary under this paragraph to the appropriate committees of Congress.
 
 #### (6) Meetings
 
@@ -94,7 +102,7 @@ The Secretary may establish a working group of experts, or may use an existing w
 
 &emsp;(2) identify accepted animal models for particular diseases and conditions associated with any biological, chemical, radiological, or nuclear agent, any toxin, or any potential pandemic infectious disease, and identify strategies to accelerate animal model and research tool development and validation; and
 
-&emsp;(3) obtain advice regarding supporting and facilitating advanced research and development related to qualified countermeasures and qualified pandemic or epidemic products thatare likely to be safe and effective with respect to children, pregnant women, and other vulnerable populations, and other issues regarding activities under this section that affect such populations.
+&emsp;(3) obtain advice regarding supporting and facilitating advanced research and development related to qualified countermeasures and qualified pandemic or epidemic products that are likely to be safe and effective with respect to children, pregnant women, and other vulnerable populations, and other issues regarding activities under this section that affect such populations.
 
 #### (c) Definitions
 
@@ -104,5 +112,13 @@ Any term that is defined in section 247d–7e of this title and that is used in 
 
 There are authorized to be appropriated $1,000,000 to carry out this section for fiscal year 2007 and each fiscal year thereafter.
 
-(July 1, 1944, ch. 373, title III, §319M, as added Pub. L. 109–417, title IV, §402, Dec. 19, 2006, 120 Stat. 2872.)
+(July 1, 1944, ch. 373, title III, §319M, as added Pub. L. 109–417, title IV, §402, Dec. 19, 2006, 120 Stat. 2872; amended Pub. L. 113–5, title IV, §404, Mar. 13, 2013, 127 Stat. 197.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (a)(2). Pub. L. 113–5, §404(1)(B), inserted concluding provisions.
+
+Subsec. (a)(2)(D)(iii), (iv). Pub. L. 113–5, §404(1)(A), added cls. (iii) and (iv).
+
+Subsec. (a)(5)(D). Pub. L. 113–5, §404(2), added subpar. (D).
 

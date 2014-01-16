@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 11, 1971, Pub. L. 92–93, §8, 85 Stat. 318.
 
-The words “activities of the corporation are not confined to the District of Columbia but may be” are substituted for “activities of said organization, as set out herein, shall not be confined to said city, but shall be” for consistency in the revised title.
+The words "activities of the corporation are not confined to the District of Columbia but may be" are substituted for "activities of said organization, as set out herein, shall not be confined to said city, but shall be" for consistency in the revised title.
 

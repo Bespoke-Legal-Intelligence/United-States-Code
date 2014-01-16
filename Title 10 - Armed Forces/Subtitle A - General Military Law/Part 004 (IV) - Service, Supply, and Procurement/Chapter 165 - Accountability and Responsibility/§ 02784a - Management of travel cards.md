@@ -46,17 +46,17 @@ Regulations on Disciplinary Action.—(1) The Secretary of Defense shall prescri
 
 Definitions.—In this section:
 
-&emsp;(1) The term “Defense travel card” means a charge or credit card that—
+&emsp;(1) The term "Defense travel card" means a charge or credit card that—
 
 &emsp;&emsp;(A) is issued to an employee of the Department of Defense or a member of the armed forces under a contract entered into by the Department of Defense with the issuer of the card; and
 
 &emsp;&emsp;(B) is to be used for charging expenses incurred by the employee or member in connection with official travel.
 
-&emsp;(2) The term “disposable pay”, with respect to a pay period, means the amount equal to the excess of the amount of basic pay or retired pay, as the case may be, payable for the pay period over the total of the amounts deducted and withheld from such pay.
+&emsp;(2) The term "disposable pay", with respect to a pay period, means the amount equal to the excess of the amount of basic pay or retired pay, as the case may be, payable for the pay period over the total of the amounts deducted and withheld from such pay.
 
-&emsp;(3) The term “retired pay” means—
+&emsp;(3) The term "retired pay" means—
 
-&emsp;&emsp;(A) in the case of a former employee of the Department of Defense, any retirement benefit payable to that individual, out of the Civil Service Retirement and DisabilityFund, based (in whole or in part) on service performed by such individual as a civilian employee of the Department of Defense; and
+&emsp;&emsp;(A) in the case of a former employee of the Department of Defense, any retirement benefit payable to that individual, out of the Civil Service Retirement and Disability Fund, based (in whole or in part) on service performed by such individual as a civilian employee of the Department of Defense; and
 
 &emsp;&emsp;(B) in the case of a retired member of the armed forces or member of the Fleet Reserve or Fleet Marine Corps Reserve, retired or retainer pay to which the member is entitled.
 
@@ -70,11 +70,11 @@ Exclusion of Coast Guard.—This section does not apply to the Coast Guard.
 
 <b>2013</b>—Subsec. (a)(3). Pub. L. 112–239, §1076(a)(9), made technical amendment to directory language of Pub. L. 112–81, §631(f)(4)(A). See 2011 Amendment note below.
 
-<b>2011</b>—Subsec. (a)(3). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404”.
+<b>2011</b>—Subsec. (a)(3). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "474" for "404".
 
-<b>2006</b>—Subsec. (a)(2). Pub. L. 109–364 substituted “card” for “care”.
+<b>2006</b>—Subsec. (a)(2). Pub. L. 109–364 substituted "card" for "care".
 
-<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136, §1009(a)(1), substituted “The Secretary of Defense shall require” for “The Secretary of Defense may require”.
+<b>2003</b>—Subsec. (a)(1). Pub. L. 108–136, §1009(a)(1), substituted "The Secretary of Defense shall require" for "The Secretary of Defense may require".
 
 Subsec. (a)(2), (3). Pub. L. 108–136, §1009(a)(2), (3), added par. (2) and redesignated former par. (2) as (3).
 

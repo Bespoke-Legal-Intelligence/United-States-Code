@@ -32,23 +32,23 @@ From the items of gross income specified in subsection (a) there shall be deduct
 
 <b>2010</b>—Subsec. (a)(9). Pub. L. 111–240 added par. (9).
 
-<b>1989</b>—Subsec. (a)(6). Pub. L. 101–239 substituted “865(i)(1)” for “865(h)(1)”.
+<b>1989</b>—Subsec. (a)(6). Pub. L. 101–239 substituted "865(i)(1)" for "865(h)(1)".
 
 <b>1988</b>—Subsec. (c). Pub. L. 100–647 repealed subsec. (c) which read as follows:
 
-“(c)
+"(c)
 
-Cross reference.—For source of amounts attributable to certain aircraft and vessels, see section 861(e).”
+Cross reference.—For source of amounts attributable to certain aircraft and vessels, see section 861(e)."
 
-<b>1986</b>—Subsec. (a)(6). Pub. L. 99–514, §1211(b)(1)(C), substituted “inventory property (within the meaning of section 865(h)(1))” for “personal property”.
+<b>1986</b>—Subsec. (a)(6). Pub. L. 99–514, §1211(b)(1)(C), substituted "inventory property (within the meaning of section 865(h)(1))" for "personal property".
 
-Subsec. (b). Pub. L. 99–514, §104(b)(12), substituted “the standard deduction” for “the zero bracket amount”.
+Subsec. (b). Pub. L. 99–514, §104(b)(12), substituted "the standard deduction" for "the zero bracket amount".
 
 <b>1981</b>—Subsec. (a)(8). Pub. L. 97–34 added par. (8).
 
 <b>1977</b>—Subsec. (b). Pub. L. 95–30 provided that, in the case of an individual who does not itemize deductions, an amount equal to the zero bracket amount shall be considered a deduction which cannot definitely be allocated to some item or class of gross income.
 
-<b>1976</b>—Subsec. (a)(5), (6). Pub. L. 94–455, §1901(b)(26)(C), inserted “or exchange” after “sale”.
+<b>1976</b>—Subsec. (a)(5), (6). Pub. L. 94–455, §1901(b)(26)(C), inserted "or exchange" after "sale".
 
 Subsec. (a)(7). Pub. L. 94–455, §1036(b), added par. (7).
 

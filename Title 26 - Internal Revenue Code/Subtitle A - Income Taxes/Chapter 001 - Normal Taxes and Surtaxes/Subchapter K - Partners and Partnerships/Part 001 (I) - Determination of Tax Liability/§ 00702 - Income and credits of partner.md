@@ -36,31 +36,31 @@ In any case where it is necessary to determine the gross income of a partner for
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(5). Pub. L. 108–27 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “dividends with respect to which there is a deduction under part VIII of subchapter B,”.
+<b>2003</b>—Subsec. (a)(5). Pub. L. 108–27 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "dividends with respect to which there is a deduction under part VIII of subchapter B,".
 
-<b>1986</b>—Subsec. (a)(5). Pub. L. 99–514 amended par. (5) generally. Prior to amendment, par. (5) read as follows: “dividends or interest with respect to which there is an exclusion under section 116 or 128, or a deduction under part VIII of subchapter B,”.
+<b>1986</b>—Subsec. (a)(5). Pub. L. 99–514 amended par. (5) generally. Prior to amendment, par. (5) read as follows: "dividends or interest with respect to which there is an exclusion under section 116 or 128, or a deduction under part VIII of subchapter B,".
 
-<b>1984</b>—Subsec. (a)(1), (2). Pub. L. 98–369 substituted “6 months” for “1 year”, applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
+<b>1984</b>—Subsec. (a)(1), (2). Pub. L. 98–369 substituted "6 months" for "1 year", applicable to property acquired after June 22, 1984, and before Jan. 1, 1988. See Effective Date of 1984 Amendment note below.
 
-<b>1983</b>—Subsec. (a)(5). Pub. L. 97–448 substituted “an exclusion under section 116 or 128,” for “provided an exclusion under section 116 or 128”.
+<b>1983</b>—Subsec. (a)(5). Pub. L. 97–448 substituted "an exclusion under section 116 or 128," for "provided an exclusion under section 116 or 128".
 
 <b>1982</b>—Subsec. (d). Pub. L. 97–248 added subsec. (d).
 
-<b>1981</b>—Subsec. (a)(5). Pub. L. 97–34, §301(b)(6)(C), inserted reference to “interest” in heading and text which continued the amendment made by Pub. L. 96–223.
+<b>1981</b>—Subsec. (a)(5). Pub. L. 97–34, §301(b)(6)(C), inserted reference to "interest" in heading and text which continued the amendment made by Pub. L. 96–223.
 
-Pub. L. 97–34, §301(b)(5), inserted “or 128” after “section 116”.
+Pub. L. 97–34, §301(b)(5), inserted "or 128" after "section 116".
 
-<b>1980</b>—Subsec. (a)(5). Pub. L. 96–223 inserted “or interest” after “dividends”.
+<b>1980</b>—Subsec. (a)(5). Pub. L. 96–223 inserted "or interest" after "dividends".
 
-<b>1976</b>—Subsec. (a)(1), (2). Pub. L. 94–455, §1402(b)(2), provided that “9 months” would be changed to “1 year”.
+<b>1976</b>—Subsec. (a)(1), (2). Pub. L. 94–455, §1402(b)(2), provided that "9 months" would be changed to "1 year".
 
-Pub. L. 94–455, §1402(b)(1)(L), provided that “6 months” would be changed to “9 months” for taxable years beginning in 1977.
+Pub. L. 94–455, §1402(b)(1)(L), provided that "6 months" would be changed to "9 months" for taxable years beginning in 1977.
 
-Subsec. (a)(7) to (9). Pub. L. 94–455, §§1901(b)(1)(I)(i), 1906(b)(13)(A), redesignated pars. (8) and (9) as (7) and (8), respectively, and in par. (7), as so redesignated, struck out “or his delegate” after “Secretary”. Former par. (7), which related partially tax-exempt interest on obligations of the United States or its instrumentalities, was struck out.
+Subsec. (a)(7) to (9). Pub. L. 94–455, §§1901(b)(1)(I)(i), 1906(b)(13)(A), redesignated pars. (8) and (9) as (7) and (8), respectively, and in par. (7), as so redesignated, struck out "or his delegate" after "Secretary". Former par. (7), which related partially tax-exempt interest on obligations of the United States or its instrumentalities, was struck out.
 
-Subsec. (b). Pub. L. 94–455, §1901(b)(1)(I)(ii), substituted “paragraphs (1) through (7)” for “paragraphs (1) through (8)”.
+Subsec. (b). Pub. L. 94–455, §1901(b)(1)(I)(ii), substituted "paragraphs (1) through (7)" for "paragraphs (1) through (8)".
 
-<b>1964</b>—Subsec. (a)(5). Pub. L. 88–272 struck out “a credit under section 34,” before “an exclusion”.
+<b>1964</b>—Subsec. (a)(5). Pub. L. 88–272 struck out "a credit under section 34," before "an exclusion".
 
 #### Effective Date of 2003 Amendment
 

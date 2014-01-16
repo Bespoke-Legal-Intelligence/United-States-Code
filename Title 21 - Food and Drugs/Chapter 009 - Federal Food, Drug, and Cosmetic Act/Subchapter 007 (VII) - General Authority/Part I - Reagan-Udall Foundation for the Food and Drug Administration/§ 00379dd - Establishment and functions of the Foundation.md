@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A nonprofit corporation to be known as the Reagan-Udall Foundation for the Food and Drug Administration (referred to in this part as the “Foundation”) shall be established in accordance with this section. The Foundation shall be headed by an Executive Director, appointed by the members of the Board of Directors under subsection (e).<sup>1</sup> The Foundation shall not be an agency or instrumentality of the United States Government.
+A nonprofit corporation to be known as the Reagan-Udall Foundation for the Food and Drug Administration (referred to in this part as the "Foundation") shall be established in accordance with this section. The Foundation shall be headed by an Executive Director, appointed by the members of the Board of Directors under subsection (e).<sup>1</sup> The Foundation shall not be an agency or instrumentality of the United States Government.
 
 #### (b) Purpose of Foundation
 
@@ -44,7 +44,7 @@ The Foundation shall—
 
 #### (A) In general
 
-&emsp;&emsp;The Foundation shall have a Board of Directors (referred to in this part as the “Board”), which shall be composed of ex officio and appointed members in accordance with this subsection. All appointed members of the Board shall be voting members.
+&emsp;&emsp;The Foundation shall have a Board of Directors (referred to in this part as the "Board"), which shall be composed of ex officio and appointed members in accordance with this subsection. All appointed members of the Board shall be voting members.
 
 #### (B) Ex officio members
 
@@ -168,7 +168,7 @@ The Foundation shall—
 
 #### (e) Incorporation
 
-The ex officio members of the Board shall serve as incorporators and shall take whatever actions necessary to incorporate the Foundation.
+The ex officio members of the Board shall serve as incorporators and shall take whateveractions necessary to incorporate the Foundation.
 
 #### (f) Nonprofit status
 
@@ -212,7 +212,7 @@ In carrying out this part, the Board, acting through the Executive Director, may
 
 &emsp;(7) enter into such other contracts, leases, cooperative agreements, and other transactions as the Board considers appropriate to conduct the activities of the Foundation;
 
-&emsp;(8) modify or consent to the modification of any contract or agreement to which it is aparty or in which it has an interest under this part;
+&emsp;(8) modify or consent to the modification of any contract or agreement to which it is a party or in which it has an interest under this part;
 
 &emsp;(9) take such action as may be necessary to obtain patents and licenses for devices and procedures developed by the Foundation and its employees;
 
@@ -256,7 +256,7 @@ Federal Government employees may serve on committees advisory to the Foundation 
 
 &emsp;Beginning with fiscal year 2009, the Executive Director shall submit to Congress and the Commissioner an annual report that—
 
-&emsp;&emsp;(A) describes the activities of the Foundation and the progress of the Foundation in furthering the goals and priorities established under subsection (c)(2), including the practical impact of the Foundation on regulated product development;
+&emsp;&emsp;(A) describes the activities of the Foundation and the progress of the Foundation infurthering the goals and priorities established under subsection (c)(2), including the practical impact of the Foundation on regulated product development;
 
 &emsp;&emsp;(B) provides a specific accounting of the source and use of all funds used by the Foundation to carry out such activities; and
 
@@ -272,5 +272,5 @@ From amounts appropriated to the Food and Drug Administration for each fiscal ye
 
 (June 25, 1938, ch. 675, §770, as added Pub. L. 110–85, title VI, §601(a), Sept. 27, 2007, 121 Stat. 890.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection (g).”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection (g)."</i>
 

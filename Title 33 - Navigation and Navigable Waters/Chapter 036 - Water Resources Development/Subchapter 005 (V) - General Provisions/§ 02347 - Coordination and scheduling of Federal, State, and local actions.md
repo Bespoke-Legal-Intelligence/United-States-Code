@@ -6,7 +6,7 @@ Upon request of the non-Federal interest in the form of a written notice of inte
 
 #### (b) Coordination
 
-The Secretary shall seek, to the extent practicable, to consolidate hearing and comment periods, procedures for data collection and report preparation, and the environmental review and permitting processes associated with the project and related activities. The Secretary shall notify, to the extent possible, the non-Federal interest of its responsibilities for data development and information that may be necessary to process each permit required for the project, including a schedule when the information and data should be provided to the appropriate Federal, State, or local agency or Indian tribe.
+The Secretary shall seek, to the extent practicable, to consolidate hearing and comment periods, procedures for data collection and report preparation, and the environmental review and permitting processes associated with the project and related activities. The Secretary shall notify, to the extent possible, the non-Federal interest of its responsibilities for data development and information that may be necessary to process each permit required for the project, including a schedule when the information anddata should be provided to the appropriate Federal, State, or local agency or Indian tribe.
 
 #### (c) Costs of coordination
 
@@ -22,7 +22,7 @@ Not later than 3 years after November 8, 2007, the Secretary shall prepare and t
 
 Section was enacted as part of the Water Resources Development Act of 2007, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 

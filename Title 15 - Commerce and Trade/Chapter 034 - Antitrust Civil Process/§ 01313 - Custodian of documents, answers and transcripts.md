@@ -6,7 +6,7 @@ The Assistant Attorney General in charge of the Antitrust Division of the Depart
 
 #### (b) Production of materials
 
-Any person, upon whom any demand under section 1312 of this title for the production of documentary material has been duly served, shall make such material available for inspection and copying or reproduction to the custodian designated therein at the principal place of business of such person (or at such other place as such custodian and such person thereafter may agree and prescribe in writing or as the court may direct, pursuant to section 1314(d) <sup>1</sup> of this title) on the return date specified in such demand (or on such later date as such custodian may prescribe in writing). Such person may upon written agreement between such person and the custodian substitute copies for originals of all or any part of such material.
+Any person, upon whom any demand under section 1312 of this title for the production of documentary material has been duly served, shall make such material available for inspection and copying or reproduction to the custodian designated therein at the principal place of business of such person (or at such other place as such custodian and such person thereafter may agree and prescribe in writing or as the court may direct, pursuant to section 1314(d) <sup>1</sup> of this title) on the return date specified in suchdemand (or on such later date as such custodian may prescribe in writing). Such person may upon written agreement between such person and the custodian substitute copies for originals of all or any part of such material.
 
 #### (c) Responsibility for materials; disclosure
 
@@ -32,7 +32,7 @@ If any documentary material has been produced in the course of any antitrust inv
 
 &emsp;(2) no case or proceeding, in which such material may be used, has been commenced within a reasonable time after completion of the examination and analysis of all documentary material and other information assembled in the course of such investigation,
 
-> the custodian shall, upon written request of the person who produced such material, return to such person any such material (other than copies thereof furnished to the custodian pursuant to subsection (b) of this section or made by the Department of Justice pursuant to subsection (c) of this section) which has not passed into the control of any court, grand jury, or agencythrough the introduction thereof into the record of such case or proceeding.
+> the custodian shall, upon written request of the person who produced such material, return to such person any such material (other than copies thereof furnished to the custodian pursuant to subsection (b) of this section or made by the Department of Justice pursuant to subsection (c) of this section) which has not passed into the control of any court, grand jury, or agency through the introduction thereof into the record of such case or proceeding.
 
 #### (f) Appointment of successor custodians
 
@@ -44,19 +44,19 @@ In the event of the death, disability, or separation from service in the Departm
 
 Section 1314(d) of this title, referred to in subsec. (b), was redesignated section 1314(e) of this title by Pub. L. 96–349.
 
-This chapter, referred to in subsecs. (c), (e), and (f), was in the original “this Act”, meaning Pub. L. 87–664, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
+This chapter, referred to in subsecs. (c), (e), and (f), was in the original "this Act", meaning Pub. L. 87–664,which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
 
 #### Amendments
 
 <b>1980</b>—Subsec. (c)(2). Pub. L. 96–349, §7(a)(2), provided for use of copies of documentary material by agents of the Department of Justice, including use by such agents in connection with the taking of oral testimony.
 
-Subsec. (c)(3). Pub. L. 96–349, §§2(b)(4), 7(a)(2), inserted “, and, in the case of any product of discovery produced pursuant to an express demand for such material, of the person from whom the discovery was obtained” before “, by any individual” and reference to “agent” of the Department of Justice.
+Subsec. (c)(3). Pub. L. 96–349, §§2(b)(4), 7(a)(2), inserted ", and, in the case of any product of discovery produced pursuant to an express demand for such material, of the person from whom the discovery was obtained" before ", by any individual" and reference to "agent" of the Department of Justice.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–435 substituted “custodian of documentary material, answers to interrogatories, and transcripts of oral testimony received under this chapter” for “antitrust documentary custodian”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–435 substituted "custodian of documentary material, answers to interrogatories, and transcripts of oral testimony received under this chapter" for "antitrust documentary custodian".
 
-Subsec. (b). Pub. L. 94–435 struck out “issued” after “any demand”, inserted “for the production of documentary material” before “has been duly served”, and substituted “copies for originals of all or any part of such material” for “for copies of all or any part of such material originals thereof”.
+Subsec. (b). Pub. L. 94–435 struck out "issued" after "any demand", inserted "for the production of documentary material" before "has been duly served", and substituted "copies for originals of all or any part of such material" for "for copies of all or any part of such material originals thereof".
 
-Subsec. (c). Pub. L. 94–435, among other changes, inserted provisions relating to answers to interrogatories and transcripts of oral testimony and, in par. (1), substituted “of documentary material” for “thereof”, in par. (2), inserted “by any duly authorized official or employee of the Department of Justice” after “for official use”, and inserted a provision relating to the use of documentary material, answers to interrogatories, and transcripts in connection with the taking of oral testimony, in par. (3), inserted “Except as otherwise provided in this section” before “while in the possession”, substituted “no documentary material” for “no material”, “official” for “officer, member”, and inserted provision relating to disclosure of information to Congress or authorized committees or subcommittees thereof, in par. (4), added cl. (B).
+Subsec. (c). Pub. L. 94–435, among other changes, inserted provisions relating to answers to interrogatories and transcripts of oral testimony and, in par. (1), substituted "of documentary material" for "thereof", in par. (2), inserted "by any duly authorized official or employee of the Department of Justice" after "for official use", and inserted a provision relating to the use of documentary material, answers to interrogatories, and transcripts in connection with the taking of oral testimony, in par. (3), inserted "Except as otherwise provided in this section" before "while in the possession", substituted "no documentary material" for "no material", "official" for "officer, member", and inserted provision relating to disclosure of information to Congress or authorized committees or subcommittees thereof, in par. (4), added cl. (B).
 
 Subsec. (d). Pub. L. 94–435, among other changes, in par. (1), inserted provisions relating to answers to interrogatories and transcripts of oral testimony, substituted a provision that an attorney designated under this section be from the Department of Justice for a provision that a designated attorney be appearing on behalf of the United States, provided that such an attorney can make an appearance under this section before a Federal administrative or regulatory agency in addition to a court or grand jury, and added par. (2).
 

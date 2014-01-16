@@ -16,7 +16,7 @@ Revocation of Airmen Certificates.—The Administrator shall issue an order revo
 
 (c)
 
-Pilot in Command Defined.—In this section, the term “pilot in command” has the meaning given such term by section 1.1 of title 14, Code of Federal Regulations.
+Pilot in Command Defined.—In this section, the term "pilot in command" has the meaning given such term by section 1.1 of title 14, Code of Federal Regulations.
 
 (Added Pub. L. 104–264, title VI, §602(a)(1), Oct. 9, 1996, 110 Stat. 3263.)
 

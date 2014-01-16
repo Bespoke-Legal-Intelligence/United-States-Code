@@ -6,5 +6,5 @@ Whoever knowingly uses, manufactures, or sells any cremation urn of a design app
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $250”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $250".
 

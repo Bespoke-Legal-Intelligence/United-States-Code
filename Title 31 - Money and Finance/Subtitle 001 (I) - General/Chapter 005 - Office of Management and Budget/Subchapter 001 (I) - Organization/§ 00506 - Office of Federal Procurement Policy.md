@@ -20,7 +20,7 @@ The section is included to provide in subchapter I of chapter 5 of title 31 a co
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–350 substituted “section 1101(a) of title 41” for “section 5(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 404(a))”.
+<b>2011</b>—Pub. L. 111–350 substituted "section 1101(a) of title 41" for "section 5(a) of the Office of Federal Procurement Policy Act (41 U.S.C. 404(a))".
 
 <b>1990</b>—Pub. L. 101–576 renumbered section 504 of this title as this section.
 

@@ -58,7 +58,7 @@ Availability of Airlift Services.—(1) From the total amount of charter air tra
 
 (j)
 
-Definition.—In this section, the term “charter air transportation” has the meaning given such term in section 40102(14) of title 49.
+Definition.—In this section, the term "charter air transportation" has the meaning given such term in section 40102(14) of title 49.
 
 (k)
 
@@ -72,21 +72,21 @@ Section 356 of the National Defense Authorization Act for Fiscal Year 2008, refe
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(3). Pub. L. 112–239, §1055(b)(1), struck out “passenger” after “commercial air”.
+<b>2013</b>—Subsec. (a)(3). Pub. L. 112–239, §1055(b)(1), struck out "passenger" after "commercial air".
 
-Subsec. (b). Pub. L. 112–239, §1076(f)(44), substituted “required by section 356 of the National Defense Authorization Act for Fiscal Year 2008” for “required by section 1356 of the National Defense Authorization Act for Fiscal Year 2008”.
+Subsec. (b). Pub. L. 112–239, §1076(f)(44), substituted "required by section 356 of the National Defense Authorization Act for Fiscal Year 2008" for "required by section 1356 of the National Defense Authorization Act for Fiscal Year 2008".
 
 Subsec. (j). Pub. L. 112–239, §1076(b)(4), made technical amendment to directory language of Pub. L. 111–383, §1075(b)(50)(C). See 2011 Amendment note below.
 
-Pub. L. 112–239, §1055(b)(2), struck out “, except that it only means such transportation for which the Secretary of Defense has entered into a contract for the purpose of passenger travel” before period at end.
+Pub. L. 112–239, §1055(b)(2), struck out ", except that it only means such transportation for which the Secretary of Defense has entered into a contract for the purpose of passenger travel" before period at end.
 
-Subsec. (k). Pub. L. 112–239, §1055(a), substituted “December 31, 2020” for “December 31, 2015”.
+Subsec. (k). Pub. L. 112–239, §1055(a), substituted "December 31, 2020" for "December 31, 2015".
 
-<b>2011</b>—Subsec. (b). Pub. L. 111–383, §1075(b)(50)(A), which directed substitution of “section 1356 of the National Defense Authorization Act for Fiscal Year 2008” for “Section 1356 of the National Defense Authorization Act for 2008” was executed by making the substitution for “Section 356 of the National Defense Authorization Act for 2008” to reflect the probable intent of Congress.
+<b>2011</b>—Subsec. (b). Pub. L. 111–383, §1075(b)(50)(A), which directed substitution of "section 1356 of the National Defense Authorization Act for Fiscal Year 2008" for "Section 1356 of the National Defense Authorization Act for 2008" was executed by making the substitution for "Section 356 of the National Defense Authorization Act for 2008" to reflect the probable intent of Congress.
 
-Subsec. (f)(2). Pub. L. 111–383, §1075(b)(50)(B), substituted “arrangement under paragraph (1)” for “arrangement under paragraph (2)”.
+Subsec. (f)(2). Pub. L. 111–383, §1075(b)(50)(B), substituted "arrangement under paragraph (1)" for "arrangement under paragraph (2)".
 
-Subsec. (j). Pub. L. 111–383, §1075(b)(50)(C), as amended by Pub. L. 112–239, §1076(b)(4), struck out “United States Code,” after “title 49,”.
+Subsec. (j). Pub. L. 111–383, §1075(b)(50)(C), as amended by Pub. L. 112–239, §1076(b)(4), struck out "United States Code," after "title 49,".
 
 #### Effective Date of 2013 Amendment
 
@@ -96,11 +96,11 @@ Amendment by section 1076(b)(4) of Pub. L. 112–239 effective Jan. 7, 2011, and
 
 Pub. L. 110–417, \[div. A\], title X, §1033(c), Oct. 14, 2008, 122 Stat. 4593, provided that:
 
-“(1)
+"(1)
 
 Report.—The Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a written report on the actions taken under subsections (a) and (b) of section 9515 of title 10, United States Code, as added by subsection (a), along with the anticipated risks and benefits of such actions.
 
-“(2)
+"(2)
 
-Limitation.—No authority under subsections (c) through (I) \[sic\] of such section may be implemented until 30 days after the date on which the Secretary submits the report required under paragraph (1).”
+Limitation.—No authority under subsections (c) through (I) \[sic\] of such section may be implemented until 30 days after the date on which the Secretary submits the report required under paragraph (1)."
 

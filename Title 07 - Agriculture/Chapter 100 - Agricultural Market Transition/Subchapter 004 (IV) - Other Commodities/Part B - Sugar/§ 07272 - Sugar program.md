@@ -70,7 +70,7 @@ The Secretary shall make loans available to processors of domestically grown sug
 
 #### (1) Definition of in-process sugars and syrups
 
-&emsp;In this subsection, the term “in-process sugars and syrups” does not include raw sugar, liquid sugar, invert sugar, invert syrup, or other finished product that is otherwise eligible for a loan under subsection (a) or (b).
+&emsp;In this subsection, the term "in-process sugars and syrups" does not include raw sugar, liquid sugar, invert sugar, invert syrup, or other finished product that is otherwise eligible for a loan under subsection (a) or (b).
 
 #### (2) Availability
 
@@ -202,11 +202,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2002</b>—Pub. L. 107–171 reenacted section catchline and amended text generally, substituting substantially similar provisions in subsecs. (a), (b), (d), (e), and (h), and substituting in subsec. (c) provisions relating to loan rate adjustments for provisions relating to reduction in loan rates, in subsec. (f) provisions relating to loans for in-process sugar for provisions for marketing assessment, in subsec. (g) provisions relating to avoiding forfeitures and corporate inventory disposition for provisions relating to forfeiture penalty, in subsec. (i) provisions relating to substitution of refined sugar for provisions relating to crops, and adding subsec. (j).
 
-<b>2000</b>—Subsec. (e)(1). Pub. L. 106–387, §1(a) \[title VIII, §836(1)(B)\], substituted “The” for “Subject to paragraph (2), the”.
+<b>2000</b>—Subsec. (e)(1). Pub. L. 106–387, §1(a) \[title VIII, §836(1)(B)\], substituted "The" for "Subject to paragraph (2), the".
 
-Pub. L. 106–387, §1(a) \[title VIII, §836(1)(A)\], substituted “nonrecourse” for “recourse”.
+Pub. L. 106–387, §1(a) \[title VIII, §836(1)(A)\], substituted "nonrecourse" for "recourse".
 
-Subsec. (e)(2), (3). Pub. L. 106–387, §1(a) \[title VIII, §836(2)–(4)\], redesignated par. (3) as (2), substituted“The Secretary shall” for “If the Secretary is required under paragraph (2) to make nonrecourse loans available during a fiscal year or to change recourse loans into nonrecourse loans, the Secretary shall”, and struck out heading and text of former par. (2). Text read as follows: “During any fiscal year in which the tariff rate quota for imports of sugar into the United States is established at, or is increased to, a level in excess of 1,500,000 short tons raw value, the Secretary shall carry out this section by making available nonrecourse loans. Any recourse loan previously made available by the Secretary under this section during the fiscal year shall be changed by the Secretary into a nonrecourse loan.”
+Subsec. (e)(2), (3). Pub. L. 106–387, §1(a) \[title VIII, §836(2)–(4)\], redesignated par. (3) as (2), substituted"The Secretary shall" for "If the Secretary is required under paragraph (2) to make nonrecourse loans available during a fiscal year or to change recourse loans into nonrecourse loans, the Secretary shall", and struck out heading and text of former par. (2). Text read as follows: "During any fiscal year in which the tariff rate quota for imports of sugar into the United States is established at, or is increased to, a level in excess of 1,500,000 short tons raw value, the Secretary shall carry out this section by making available nonrecourse loans. Any recourse loan previously made available by the Secretary under this section during the fiscal year shall be changed by the Secretary into a nonrecourse loan."
 
 #### Effective Date of 2008 Amendment
 
@@ -214,15 +214,15 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Effective Date of Assessment Termination
 
-Pub. L. 107–171, title I, §1401(b), May 13, 2002, 116 Stat. 187, provided that: “Subsection (f) of section 156 of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7272(f)), as in effect immediately before the enactment of the Farm Security and Rural Investment Act of 2002 \[Pub. L. 107–171\], is deemed to have been repealed effective as of October 1, 2001.”
+Pub. L. 107–171, title I, §1401(b), May 13, 2002, 116 Stat. 187, provided that: "Subsection (f) of section 156 of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7272(f)), as in effect immediately before the enactment of the Farm Security and Rural Investment Act of 2002 \[Pub. L. 107–171\], is deemed to have been repealed effective as of October 1, 2001."
 
 #### Regulations
 
-Pub. L. 106–387, §1(a) \[title VIII, §840\], Oct. 28, 2000, 114 Stat. 1549, 1549A–63, provided that: “As soon as practicable after the date of enactment of this Act \[Oct. 28, 2000\], the Secretary and the Commodity Credit Corporation, as appropriate, shall issue such regulations as are necessary to implement sections 804, 805, 806, 809, 810, 811, 812, 814, 815, 816, 836, 837, 838, 839, 841, 843, 844, and 845 of this title \[amending this section and section 3720B of Title 31, Money and Finance, enacting provisions set out as notes under section 3720B of Title 31, and amending provisions set out as a note under section 1421 of this title\]: <i>Provided</i>, That the issuance of the regulations shall be made without regard to: (1) the notice and comment provisions of section 553 of title 5, United States Code; (2) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and (3) chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’): <i>Provided further</i>, That in carrying out this section, the Secretary shall use the authority provided under section 808 of title 5, United States Code.”
+Pub. L. 106–387, §1(a) \[title VIII, §840\], Oct. 28, 2000, 114 Stat. 1549, 1549A–63, provided that: "As soon as practicable after the date of enactment of this Act \[Oct. 28, 2000\], the Secretary and the Commodity Credit Corporation, as appropriate, shall issue such regulations as are necessary to implement sections 804, 805, 806, 809, 810, 811, 812, 814, 815, 816, 836, 837, 838, 839, 841, 843, 844, and 845 of this title \[amending this section and section 3720B of Title 31, Money and Finance, enacting provisions set out as notes under section 3720B of Title 31, and amending provisions set out as a note under section 1421 of this title\]: <i>Provided</i>, That the issuance of the regulations shall be made without regard to: (1) the notice and comment provisions of section 553 of title 5, United States Code; (2) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and (3) chapter 35 of title 44, United States Code (commonly known as the 'Paperwork Reduction Act'): <i>Provided further</i>, That in carrying out this section, the Secretary shall use the authority provided under section 808 of title 5, United States Code."
 
 #### Loans for 2007 Crop Year
 
-Pub. L. 110–234, title I, §1401(b), May 22, 2008, 122 Stat. 981, and Pub. L. 110–246, §4(a), title I, §1401(b), June 18, 2008, 122 Stat. 1664, 1709, provided that: “The Secretary \[of Agriculture\] shall make loans for raw cane sugar and refined beet sugar available for the 2007 crop year on the terms and conditions provided in section 156 of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7272), as in effect on the day before the date of enactment of this Act \[June 18, 2008\].”
+Pub. L. 110–234, title I, §1401(b), May 22, 2008, 122 Stat. 981, and Pub. L. 110–246, §4(a), title I, §1401(b), June 18, 2008, 122 Stat. 1664, 1709, provided that: "The Secretary \[of Agriculture\] shall make loans for raw cane sugar and refined beet sugar available for the 2007 crop year on the terms and conditions provided in section 156 of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7272), as in effect on the day before the date of enactment of this Act \[June 18, 2008\]."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

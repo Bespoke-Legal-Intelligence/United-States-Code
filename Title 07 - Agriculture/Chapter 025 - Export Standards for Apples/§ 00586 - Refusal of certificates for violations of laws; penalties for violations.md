@@ -6,5 +6,5 @@ After opportunity for hearing the Secretary is authorized to refuse the issuance
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–96 struck out “and/or pears” after “any apples”.
+<b>1999</b>—Pub. L. 106–96 struck out "and/or pears" after "any apples".
 

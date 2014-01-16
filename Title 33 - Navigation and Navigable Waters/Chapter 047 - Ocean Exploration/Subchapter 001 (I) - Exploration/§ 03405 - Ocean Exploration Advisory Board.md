@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Administrator of the National Oceanic and Atmospheric Administration shall appointan Ocean Exploration Advisory Board composed of experts in relevant fields—
+The Administrator of the National Oceanic and Atmospheric Administration shall appoint an Ocean Exploration Advisory Board composed of experts in relevant fields—
 
 &emsp;(1) to advise the Administrator on priority areas for survey and discovery;
 
@@ -28,5 +28,5 @@ Section 14 of the Federal Advisory Committee Act, referred to in subsec. (b), is
 
 The Outer Continental Shelf Lands Act, referred to in subsec. (c), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “this”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "this".</i>
 

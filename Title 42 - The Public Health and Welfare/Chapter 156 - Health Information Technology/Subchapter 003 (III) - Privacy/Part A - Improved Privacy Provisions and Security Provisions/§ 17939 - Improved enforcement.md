@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the regulation promulgated pursuant to paragraph (3), any civil monetary penalty or monetary settlement collected with respect to an offense punishable under this subchapter or section 1176 of the Social Security Act (42 U.S.C. 1320d–5) insofar as such section relates to privacy or security shall be transferred to the Office for Civil Rights of the Department of Health and Human Services to be used for purposes of enforcing the provisions of this subchapter and subparts C and E of part 164 of title 45, Code of Federal Regulations, as such provisions are in effect as of February 17, 2009.
+&emsp;Subject to the regulation promulgated pursuant to paragraph (3), any civil monetary penalty or monetary settlement collected with respect to an offense punishable under this subchapter or section 1176 of the Social Security Act (42 U.S.C. 1320d–5) insofar as such section relates to privacy or security shall be transferred to the Office for Civil Rights of the Department of Health and Human Services tobe used for purposes of enforcing the provisions of this subchapter and subparts C and E of part 164 of title 45, Code of Federal Regulations, as such provisions are in effect as of February 17, 2009.
 
 #### (2) GAO report
 
@@ -52,15 +52,15 @@
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (a)(2) and (c)(1), was in the original “this subtitle”, meaning subtitle D (§13400 et seq.) of title XIII of div. A of Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 258, which is classified principally to this subchapter. For complete classification of subtitle D to the Code, see Tables.
+This subchapter, referred to in subsecs. (a)(2) and (c)(1), was in the original "this subtitle", meaning subtitle D (§13400 et seq.) of title XIII of div. A of Pub. L. 111–5, Feb. 17, 2009, 123 Stat. 258, which is classified principally to this subchapter. For complete classification of subtitle D to the Code, see Tables.
 
-For reference to “the amendments made by subsection (a)” in subsec. (b)(1) and “the amendments made by this subsection” in subsecs. (d)(4) and (e)(3), see Codification note below.
+For reference to "the amendments made by subsection (a)" in subsec. (b)(1) and "the amendments made by this subsection" in subsecs. (d)(4) and (e)(3), see Codification note below.
 
 #### Codification
 
 Section is comprised of section 13410 of Pub. L. 111–5. Subsecs. (a)(1), (d)(1)–(3), (e)(1), (2), and (f) of section 13410 of Pub. L. 111–5 amended section 1320d–5 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "this".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "sections".</i>
 

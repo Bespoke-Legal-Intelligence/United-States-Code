@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this chapter, the term “Federal Government” has the same meaning that the term “United States” had in the Contract Work Hours and Safety Standards Act (Public Law 87–581, 76 Stat. 357).
+Definition.—In this chapter, the term "Federal Government" has the same meaning that the term "United States" had in the Contract Work Hours and Safety Standards Act (Public Law 87–581, 76 Stat. 357).
 
 (b)
 
@@ -96,11 +96,11 @@ Pub. L. 87–581, title I, §103(c), as added Pub. L. 103–355, title IV, §410
 
 Subsection (a) is added for clarity.
 
-In subsection (b)(1), before clause (A), the words “except as otherwise provided” are omitted as unnecessary.
+In subsection (b)(1), before clause (A), the words "except as otherwise provided" are omitted as unnecessary.
 
-In subsection (b)(2), before clause (A), the words “Except as otherwise expressly provided” are omitted as unnecessary.
+In subsection (b)(2), before clause (A), the words "Except as otherwise expressly provided" are omitted as unnecessary.
 
-In subsection (b)(3)(A)(ii), the words “Walsh-Healey Act” are substituted for \[“\]Walsh-Healey Public Contracts Act” to use the correct short title of the Act.
+In subsection (b)(3)(A)(ii), the words "Walsh-Healey Act" are substituted for \["\]Walsh-Healey Public Contracts Act" to use the correct short title of the Act.
 
 #### References in Text
 
@@ -108,7 +108,7 @@ The Contract Work Hours and Safety Standards Act, referred to in subsec. (a), is
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(3)(A)(ii). Pub. L. 111–350 substituted “chapter 65 of title 41” for “the Walsh-Healey Act (41 U.S.C. 35 et seq.)”.
+<b>2011</b>—Subsec. (b)(3)(A)(ii). Pub. L. 111–350 substituted "chapter 65 of title 41" for "the Walsh-Healey Act (41 U.S.C. 35 et seq.)".
 
-<b>2006</b>—Subsec. (b)(3)(B). Pub. L. 109–284 substituted “3702” for “3902” in heading and text and “paragraph (1)(B)(iii)” for “subsection (a)(2)(C)” in text.
+<b>2006</b>—Subsec. (b)(3)(B). Pub. L. 109–284 substituted "3702" for "3902" in heading and text and "paragraph (1)(B)(iii)" for "subsection (a)(2)(C)" in text.
 

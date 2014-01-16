@@ -12,7 +12,7 @@
 
 #### (3) Definition of eligible entity
 
-&emsp;For purposes of this part, the term “eligible entity” means—
+&emsp;For purposes of this part, the term "eligible entity" means—
 
 &emsp;&emsp;(A) an institution of higher education; or
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;(D) To conduct professional development programs for faculty in all disciplines to enable faculty to incorporate sustainability content in their courses.
 
-&emsp;&emsp;(E) To create the analytical tools necessary for institutions of higher education toassess and measure their individual progress toward fully sustainable campus operations and fully integrating sustainability into the curriculum.
+&emsp;&emsp;(E) To create the analytical tools necessary for institutions of higher education to assess and measure their individual progress toward fully sustainable campus operations and fully integrating sustainability into the curriculum.
 
 &emsp;&emsp;(F) To develop educational benchmarks for institutions of higher education to determine the necessary rigor and effectiveness of academic sustainability programs.
 

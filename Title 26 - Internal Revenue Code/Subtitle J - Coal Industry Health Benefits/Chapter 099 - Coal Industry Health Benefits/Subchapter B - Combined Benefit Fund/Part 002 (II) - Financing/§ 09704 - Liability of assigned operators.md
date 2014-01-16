@@ -18,7 +18,7 @@ For purposes of this chapter—
 
 #### (1) In general
 
-&emsp;The health benefit premium for any plan year for any assigned operator shall be anamount equal to the product of the per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries assigned to such operator under section 9706.
+&emsp;The health benefit premium for any plan year for any assigned operator shall be an amount equal to the product of the per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries assigned to such operator under section 9706.
 
 #### (2) Per beneficiary premium
 
@@ -54,7 +54,7 @@ The death benefit premium for any plan year for any assigned operator shall be e
 
 #### (B) Inadequate transfers
 
-&emsp;&emsp;If, for any plan year beginning on or after October 1, 2006, the amounts transferred under section 9705(b) are less than the amounts required to be transferred to the Combined Fund under subsection (h)(2)(A) or (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232)),<sup>1</sup> then the unassigned beneficiaries premium for any assigned operator shall be equal to the operator's applicable percentage of the amount required to be so transferred which was not so transferred.
+&emsp;&emsp;If, for any plan year beginning on or after October 1, 2006, the amounts transferredunder section 9705(b) are less than the amounts required to be transferred to the Combined Fund under subsection (h)(2)(A) or (i) of section 402 of the Surface Mining Control and Reclamation Act of 1977 (30 U.S.C. 1232)),<sup>1</sup> then the unassigned beneficiaries premium for any assigned operator shall be equal to the operator's applicable percentage of the amount required to be so transferred which was not so transferred.
 
 #### (e) Premium accounts; adjustments
 
@@ -88,7 +88,7 @@ The death benefit premium for any plan year for any assigned operator shall be e
 
 #### (C) No authority for increased payments
 
-&emsp;&emsp;Nothing in this paragraph shall be construed to allow expenditures for health carebenefits for any plan year in excess of the limit under section 9703(b)(2).
+&emsp;&emsp;Nothing in this paragraph shall be construed to allow expenditures for health care benefits for any plan year in excess of the limit under section 9703(b)(2).
 
 #### (f) Applicable percentage
 
@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “applicable percentage” means, with respect to any assigned operator, the percentage determined by dividing the number of eligible beneficiaries assigned under section 9706 to such operator by the total number of eligible beneficiaries assigned under section 9706 to all such operators (determined on the basis of assignments as of October 1, 1993).
+&emsp;The term "applicable percentage" means, with respect to any assigned operator, the percentage determined by dividing the number of eligible beneficiaries assigned under section 9706 to such operator by the total number of eligible beneficiaries assigned under section 9706 to all such operators (determined on the basis of assignments as of October 1, 1993).
 
 #### (2) Annual adjustments
 
@@ -128,7 +128,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 #### (A) 1st year costs
 
-&emsp;&emsp;During the plan year of the Combined Fund beginning February 1, 1993, the 1988 agreement operators shall make contributions to the Combined Fund in amounts necessary to pay benefits and administrative costs of the Combined Fund incurred during such year, reduced by the amount transferred to the Combined Fund under section 9705(a) on February 1, 1993.
+&emsp;&emsp;During the plan year of the Combined Fund beginning February 1, 1993, the 1988agreement operators shall make contributions to the Combined Fund in amounts necessary to pay benefits and administrative costs of the Combined Fund incurred during such year, reduced by the amount transferred to the Combined Fund under section 9705(a) on February 1, 1993.
 
 #### (B) Deficits from merged plans
 
@@ -146,7 +146,7 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 #### (ii) Deficit payments
 
-&emsp;&emsp;&emsp;In the case a 1988 agreement operator making contributions under subparagraph (B), the premium of such operator under subsection (a) shall be reduced by the amounts which are paid to the Combined Fund by reason of claims arising in connection with the 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan as of February 1, 1993, including claims based on the “evergreen clause” found in the language of the 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan, and which are allocated to such operator under subparagraph (E).
+&emsp;&emsp;&emsp;In the case a 1988 agreement operator making contributions under subparagraph (B), the premium of such operator under subsection (a) shall be reduced by the amounts which are paid to the Combined Fund by reason of claims arising in connection with the 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan as of February 1, 1993, including claims based on the "evergreen clause" found in the language of the 1950 UMWA Benefit Plan and the 1974 UMWA Benefit Plan, and which are allocated to such operator under subparagraph (E).
 
 #### (iii) Limitation
 
@@ -210,11 +210,11 @@ The trustees of the Combined Fund shall, not later than 60 days after the enactm
 
 #### (C) Coordination with repeal of assignments
 
-&emsp;&emsp;A person shall not fail to be treated as an assigned operator to which this subsection applies solely because the person ceases to be an assigned operator by reason of section 9706(h)(1) if the person otherwise meets the requirements of this subsection and is liable for the payment of premiums under section 9706(h)(3).
+&emsp;&emsp;A person shall not fail to be treated as an assigned operator to which this subsectionapplies solely because the person ceases to be an assigned operator by reason of section 9706(h)(1) if the person otherwise meets the requirements of this subsection and is liable for the payment of premiums under section 9706(h)(3).
 
 #### (D) Controlled group
 
-&emsp;&emsp;For purposes of this subsection, the term “controlled group of corporations” has the meaning given such term by section 52(a).
+&emsp;&emsp;For purposes of this subsection, the term "controlled group of corporations" has the meaning given such term by section 52(a).
 
 #### (3) Requirements
 
@@ -250,21 +250,21 @@ The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-<b>2006</b>—Subsec. (d). Pub. L. 109–432, §212(a)(2)(A), reenacted heading without change and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “The unassigned beneficiaries premium for any plan year for any assigned operator shall be equal to the applicable percentage of the product of the per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries who are not assigned under section 9706 to any person for such plan year.”
+<b>2006</b>—Subsec. (d). Pub. L. 109–432, §212(a)(2)(A), reenacted heading without change and amended text of subsec. (d) generally. Prior to amendment, text read as follows: "The unassigned beneficiaries premium for any plan year for any assigned operator shall be equal to the applicable percentage of the product of the per beneficiary premium for the plan year multiplied by the number of eligible beneficiaries who are not assigned under section 9706 to any person for such plan year."
 
-Subsec. (e)(1). Pub. L. 109–432, §212(a)(2)(B)(i), inserted “and amounts transferred under section 9705(b)” after “premiums received”.
+Subsec. (e)(1). Pub. L. 109–432, §212(a)(2)(B)(i), inserted "and amounts transferred under section 9705(b)" after "premiums received".
 
-Subsec. (e)(3)(A). Pub. L. 109–432, §212(a)(2)(B)(ii), inserted at end “Amounts credited to an account from amounts transferred under section 9705(b) shall not be taken into account in determining whether there is a surplus in the account for purposes of this paragraph.”
+Subsec. (e)(3)(A). Pub. L. 109–432, §212(a)(2)(B)(ii), inserted at end "Amounts credited to an account from amounts transferred under section 9705(b) shall not be taken into account in determining whether there is a surplus in the account for purposes of this paragraph."
 
 Subsec. (f)(2)(C). Pub. L. 109–432, §212(a)(2)(C), added subpar. (C).
 
 Subsec. (j). Pub. L. 109–432, §211(a), added subsec. (j).
 
-<b>1994</b>—Subsecs. (b)(2), (h). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary of Health and Human Services”.
+<b>1994</b>—Subsecs. (b)(2), (h). Pub. L. 103–296 substituted "Commissioner of Social Security" for "Secretary of Health and Human Services".
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. C, title II, §212(a)(4), Dec. 20, 2006, 120 Stat. 3025, provided that: “The amendments made by this subsection \[amending this section and sections 9705 and 9706 of this title\] shall apply to plan years of the Combined Fund beginning after September 30, 2006.”
+Pub. L. 109–432, div. C, title II, §212(a)(4), Dec. 20, 2006, 120 Stat. 3025, provided that: "The amendments made by this subsection \[amending this section and sections 9705 and 9706 of this title\] shall apply to plan years of the Combined Fund beginning after September 30, 2006."
 
 #### Effective Date of 1994 Amendment
 
@@ -272,5 +272,5 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 <i><sup>1</sup></i><i> So in original. Second closing parenthesis probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Commissioner”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "Commissioner".</i>
 

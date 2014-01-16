@@ -15,11 +15,11 @@
 
 <b>1989</b>—Pub. L. 101–189, div. A, title XI, §1124(d)(2), Nov. 29, 1989, 103 Stat. 1560, added item 9021.
 
-<b>1983</b>—Pub. L. 98–94, title IX, §932(c)(2), Sept. 24, 1983, 97 Stat. 650, struck out item 9022 “Contract surgeons”.
+<b>1983</b>—Pub. L. 98–94, title IX, §932(c)(2), Sept. 24, 1983, 97 Stat. 650, struck out item 9022 "Contract surgeons".
 
-<b>1962</b>—Pub. L. 87–651, title I, §128(2), Sept. 7, 1962, 76 Stat. 514, struck out item 9023 “Service club and library services”.
+<b>1962</b>—Pub. L. 87–651, title I, §128(2), Sept. 7, 1962, 76 Stat. 514, struck out item 9023 "Service club and library services".
 
-<b>1958</b>—Pub. L. 85–861, §1(200), Sept. 2, 1958, 72 Stat. 1541, struck out item 9021 “Appointment: professional and scientific services”.
+<b>1958</b>—Pub. L. 85–861, §1(200), Sept. 2, 1958, 72 Stat. 1541, struck out item 9021 "Appointment: professional and scientific services".
 
 
 ---

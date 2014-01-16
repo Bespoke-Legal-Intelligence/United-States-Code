@@ -1,12 +1,12 @@
 ### §715. Property loss; personal injury or death: activities under certain sections of this title
 
-(a) Under such regulations as the Secretary of the Army or Secretary of the Air Force mayprescribe, he or, subject to appeal to him, the Judge Advocate General of the armed force under his jurisdiction, if designated by him, may settle and pay in an amount not more than $100,000 a claim against the United States for—
+(a) Under such regulations as the Secretary of the Army or Secretary of the Air Force may prescribe, he or, subject to appeal to him, the Judge Advocate General of the armed force under his jurisdiction, if designated by him, may settle and pay in an amount not more than $100,000 a claim against the United States for—
 
 &emsp;(1) damage to, or loss of, real property, including damage or loss incident to use and occupancy;
 
 &emsp;(2) damage to, or loss of, personal property, including property bailed to the United States or the National Guard and including registered or insured mail damaged, lost, or destroyed by a criminal act while in the possession of the National Guard; or
 
-&emsp;(3) personal injury or death; either caused by a member of the Army National Guard or the Air National Guard, as the case may be, while engaged in training or duty under section 316, 502, 503, 504, or 505 of this title or any other provision of law for which he is entitled to pay under section 206 of title 37, or for which he has waived that pay, and acting within the scope of his employment; or otherwise incident to noncombat activities of the Army National Guard or the Air National Guard, as the case may be, under one of those sections.
+&emsp;(3) personal injury or death; either caused by a member of the Army National Guard or theAir National Guard, as the case may be, while engaged in training or duty under section 316, 502, 503, 504, or 505 of this title or any other provision of law for which he is entitled to pay under section 206 of title 37, or for which he has waived that pay, and acting within the scope of his employment; or otherwise incident to noncombat activities of the Army National Guard or the Air National Guard, as the case may be, under one of those sections.
 
 (b) A claim may be allowed under subsection (a) only if—
 
@@ -32,33 +32,33 @@
 
 (g) Notwithstanding any other provision of law, the settlement of a claim under this section is final and conclusive.
 
-(h) In this section, “settle” means consider, ascertain, adjust, determine, and dispose of a claim, whether by full or partial allowance or disallowance.
+(h) In this section, "settle" means consider, ascertain, adjust, determine, and dispose of a claim, whether by full or partial allowance or disallowance.
 
 (Added Pub. L. 86–740, §1(1), Sept. 13, 1960, 74 Stat. 878; amended Pub. L. 87–649, §8(b), Sept. 7, 1962, 76 Stat. 495; Pub. L. 90–486, §2(3), Aug. 13, 1968, 82 Stat. 756; Pub. L. 90–525, §6, Sept. 26, 1968, 82 Stat. 878; Pub. L. 91–312, §3, July 8, 1970, 84 Stat. 412; Pub. L. 92–445, Sept. 29, 1972, 86 Stat. 745; Pub. L. 93–336, §3, July 8, 1974, 88 Stat. 292; Pub. L. 98–564, §4, Oct. 30, 1984, 98 Stat. 2919; Pub. L. 104–316, title II, §202(r), Oct. 19, 1996, 110 Stat. 3844.)
 
 #### Amendments
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–316 substituted “Secretary of the Treasury” for “Comptroller General”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–316 substituted "Secretary of the Treasury" for "Comptroller General".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–564, §4(1), substituted “$100,000” for “$25,000”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–564, §4(1), substituted "$100,000" for "$25,000".
 
-Subsec. (d). Pub. L. 98–564, §4(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “If the Secretary of the military department concerned considers that a claim in excess of $25,000 is meritorious and would otherwise be covered by this section, he may pay the claimant $25,000 and report the excess to Congress for its consideration”.
+Subsec. (d). Pub. L. 98–564, §4(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "If the Secretary of the military department concerned considers that a claim in excess of $25,000 is meritorious and would otherwise be covered by this section, he may pay the claimant $25,000 and report the excess to Congress for its consideration".
 
-Subsec. (f). Pub. L. 98–564, §4(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “In any case where the amount to be paid is not more than $5,000, the authority contained in subsection (a) may be delegated to any officer of the Army or the Air Force, as the case may be, who has been delegated authority under section 2733(g) of title 10, to settle similar claims, subject to appeal to the Secretary concerned, or his designee for that purpose”.
+Subsec. (f). Pub. L. 98–564, §4(3), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "In any case where the amount to be paid is not more than $5,000, the authority contained in subsection (a) may be delegated to any officer of the Army or the Air Force, as the case may be, who has been delegated authority under section 2733(g) of title 10, to settle similar claims, subject to appeal to the Secretary concerned, or his designee for that purpose".
 
-<b>1974</b>—Subsecs. (a), (d). Pub. L. 93–336, §3(1), (2), substituted “$25,000” for “$15,000”.
+<b>1974</b>—Subsecs. (a), (d). Pub. L. 93–336, §3(1), (2), substituted "$25,000" for "$15,000".
 
-Subsec. (f). Pub. L. 93–336, §3(3), substituted “$5,000” for “$2,500”.
+Subsec. (f). Pub. L. 93–336, §3(3), substituted "$5,000" for "$2,500".
 
 <b>1972</b>—Subsec. (b)(4). Pub. L. 92–445 inserted provision that claim may be allowed to extent that law of place where act or omission complained of occurred would permit recovery from a private individual under similar circumstances, when damage to or loss of property, or personal injury or death was caused wholly or partly by a negligent or wrongful act of claimant, his agent, or his employee.
 
-<b>1970</b>—Subsecs. (a), (d). Pub. L. 91–312 substituted “$15,000” for “$5,000”.
+<b>1970</b>—Subsecs. (a), (d). Pub. L. 91–312 substituted "$15,000" for "$5,000".
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–486 struck out “caused by a person employed under section 709 of this title acting within the scope of his employment;” after “acting within the scope of his employment;”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–486 struck out "caused by a person employed under section 709 of this title acting within the scope of his employment;" after "acting within the scope of his employment;".
 
 Subsec. (f). Pub. L. 90–525 increased limitation on amount of settlement from $1,000 to $2,500 and provided for appeals to Secretary concerned, or his designee, from determinations delegating authority to settle claims to an officer of the Army or the Air Force.
 
-<b>1962</b>—Subsec. (a)(3). Pub. L. 87–649 substituted “section 206 of title 37” for “section 301 of title 37”.
+<b>1962</b>—Subsec. (a)(3). Pub. L. 87–649 substituted "section 206 of title 37" for "section 301 of title 37".
 
 #### Effective Date of 1968 Amendment
 

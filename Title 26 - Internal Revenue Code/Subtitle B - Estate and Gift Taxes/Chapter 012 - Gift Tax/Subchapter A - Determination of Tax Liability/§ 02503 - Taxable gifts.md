@@ -2,7 +2,7 @@
 
 #### (a) General definition
 
-The term “taxable gifts” means the total amount of gifts made during the calendar year, less the deductions provided in subchapter C (section 2522 and following).
+The term "taxable gifts" means the total amount of gifts made during the calendar year, less the deductions provided in subchapter C (section 2522 and following).
 
 #### (b) Exclusions from gifts
 
@@ -16,7 +16,7 @@ The term “taxable gifts” means the total amount of gifts made during the cal
 
 &emsp;&emsp;(A) $10,000, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting “calendar year 1997” for “calendar year 1992” in subparagraph (B) thereof.
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for such calendar year by substituting "calendar year 1997" for "calendar year 1992" in subparagraph (B) thereof.
 
 > &emsp;If any amount as adjusted under the preceding sentence is not a multiple of $1,000, such amount shall be rounded to the next lowest multiple of $1,000.
 
@@ -42,7 +42,7 @@ No part of a gift to an individual who has not attained the age of 21 years on t
 
 #### (2) Qualified transfer
 
-&emsp;For purposes of this subsection, the term “qualified transfer” means any amount paid on behalf of an individual—
+&emsp;For purposes of this subsection, the term "qualified transfer" means any amount paid on behalf of an individual—
 
 &emsp;&emsp;(A) as tuition to an educational organization described in section 170(b)(1)(A)(ii) for the education or training of such individual, or
 
@@ -68,11 +68,11 @@ If any individual waives, before the death of a participant, any survivor benefi
 
 #### (A) Qualified work of art
 
-&emsp;&emsp;The term “qualified work of art” means any archaeological, historic, or creative tangible personal property.
+&emsp;&emsp;The term "qualified work of art" means any archaeological, historic, or creative tangible personal property.
 
 #### (B) Private foundation
 
-&emsp;&emsp;The term “private foundation” has the meaning given such term by section 509, except that such term shall not include any private operating foundation (as defined in section 4942(j)(3)).
+&emsp;&emsp;The term "private foundation" has the meaning given such term by section 509, except that such term shall not include any private operating foundation (as defined in section 4942(j)(3)).
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 404; Pub. L. 91–614, title I, §102(a)(3), Dec. 31, 1970, 84 Stat. 1839; Pub. L. 95–600, title VII, §702(j)(2), Nov. 6, 1978, 92 Stat. 2931; Pub. L. 97–34, title III, §311(h)(5), title IV, §§441(a), (b), 442(a)(3), Aug. 13, 1981, 95 Stat. 282, 319, 320; Pub. L. 99–514, title XVIII, §1898(h)(1)(B), Oct. 22, 1986, 100 Stat. 2957; Pub. L. 100–647, title I, §1018(s)(2)(A), (u)(52), Nov. 10, 1988, 102 Stat. 3586, 3593; Pub. L. 101–239, title VII, §7811(m)(1), Dec. 19, 1989, 103 Stat. 2412; Pub. L. 105–34, title V, §501(c), Aug. 5, 1997, 111 Stat. 846.)
 
@@ -86,17 +86,17 @@ If any individual waives, before the death of a participant, any survivor benefi
 
 <b>1989</b>—Subsecs. (f), (g). Pub. L. 101–239 redesignated subsec. (f), relating to treatment of certain loans of artworks, as (g).
 
-<b>1988</b>—Subsec. (e)(2)(B). Pub. L. 100–647, §1018(u)(52), substituted “section 213(d)” for “section 213(e)”.
+<b>1988</b>—Subsec. (e)(2)(B). Pub. L. 100–647, §1018(u)(52), substituted "section 213(d)" for "section 213(e)".
 
 Subsec. (f). Pub. L. 100–647, §1018(s)(2)(A), added subsec. (f) relating to treatment of certain loans of artworks.
 
 <b>1986</b>—Subsec. (f). Pub. L. 99–514 added subsec. (f).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–34, §442(a)(3)(A), substituted “the total amount of gifts made during the calendar year, less the deductions provided in subchapter C (section 2522 and following)” for “, in the case of gifts made after December 31, 1970, the total amount of gifts made during calendar quarter, less the deductions provided in subchapter C (sec. 2521 and following” and struck out provision that in the case of gifts made before Jan. 1, 1971, “taxable gifts” means the total amount of gifts made during the calendar year, less the deductions provided in subchapter C.
+<b>1981</b>—Subsec. (a). Pub. L. 97–34, §442(a)(3)(A), substituted "the total amount of gifts made during the calendar year, less the deductions provided in subchapter C (section 2522 and following)" for ", in the case of gifts made after December 31, 1970, the total amount of gifts made during calendar quarter, less the deductions provided in subchapter C (sec. 2521 and following" and struck out provision that in the case of gifts made before Jan. 1, 1971, "taxable gifts" means the total amount of gifts made during the calendar year, less the deductions provided in subchapter C.
 
 Subsec. (b). Pub. L. 97–34, §442(a)(3)(B), substituted provision that in the case of gifts, other than gifts of future interests in property, made to any person by the donor during the calendar year, the first $10,000 of such gifts to such person shall not, for purposes of subsec. (a), be included in the total amount of gifts made during such year for provision that in computing taxable gifts for the calendar quarter, in the case of gifts, other than gifts of future interests in property, made to any person by the donor during the calendar year 1971 and subsequent calendar years, $10,000 of such gifts to such person less the aggregate of the amounts of such gifts to such person during all preceding calendar quarters of the calendar year shall not, for purposes of subsec. (a), be included in the total amount of gifts made during such quarter.
 
-Pub. L. 97–34, §441(a), substituted “$10,000” for “$3,000”.
+Pub. L. 97–34, §441(a), substituted "$10,000" for "$3,000".
 
 Subsec. (d). Pub. L. 97–34, §311(h)(5), repealed subsec. (d) which related to individual retirement accounts, etc., for spouse.
 
@@ -104,7 +104,7 @@ Subsec. (e). Pub. L. 97–34, §441(b), added subsec. (e).
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–600 added subsec. (d).
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–614, §102(a)(3)(A), divided definition of “taxable gifts” into gifts made after Dec. 31, 1970, where taxable gifts are based on the total amount of gifts made during the calendar quarter, less the applicable deductions, and gifts made before Jan. 1, 1971, where taxable gifts are based on the total amount of gifts made during the calendar year, less the applicable deductions.
+<b>1970</b>—Subsec. (a). Pub. L. 91–614, §102(a)(3)(A), divided definition of "taxable gifts" into gifts made after Dec. 31, 1970, where taxable gifts are based on the total amount of gifts made during the calendar quarter, less the applicable deductions, and gifts made before Jan. 1, 1971, where taxable gifts are based on the total amount of gifts made during the calendar year, less the applicable deductions.
 
 Subsec. (b). Pub. L. 91–614, §102(a)(3)(B), substituted provisions with regard to computing taxable gifts forthe calendar quarter, in the case of gifts made to any persons by the donor during the calendar year 1971 and subsequent calendar years, $3,000 of such gifts to such person less the aggregate of the amounts of such gifts to such person during all preceding calendar quarters of the calendar year shall not be included in the total amount of gifts made during such quarter for provisions requiring in the case of gifts made to any person by the donor during the calendar year 1955 and subsequent calendar years, the first $3,000 of such gifts to such person shall not be included in the total amount of gifts made during such year.
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1018(s)(2)(B), Nov. 10, 1988, 102 Stat. 3587, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to loans after July 31, 1969.”
+Pub. L. 100–647, title I, §1018(s)(2)(B), Nov. 10, 1988, 102 Stat. 3587, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to loans after July 31, 1969."
 
 Amendment by section 1018(u)(52) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -132,29 +132,29 @@ Amendment by section 311(h)(5) of Pub. L. 97–34 applicable to taxable years be
 
 Pub. L. 97–34, title IV, §441(c), Aug. 13, 1981, 95 Stat. 319, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section\] shall apply to transfers after December 31, 1981.
 
-“(2)
+"(2)
 
 Transitional rule.—If—
 
-&emsp;“(A) an instrument executed before the date which is 30 days after the date of the enactment of this Act \[Aug. 13, 1981\] provides for a power of appointment which may be exercised during any period after December 31, 1981,
+&emsp;"(A) an instrument executed before the date which is 30 days after the date of the enactment of this Act \[Aug. 13, 1981\] provides for a power of appointment which may be exercised during any period after December 31, 1981,
 
-&emsp;“(B) such power of appointment is expressly defined in terms of, or by reference to, the amount of the gift tax exclusion under section 2503(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (or the corresponding provision of prior law),
+&emsp;"(B) such power of appointment is expressly defined in terms of, or by reference to, the amount of the gift tax exclusion under section 2503(b) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (or the corresponding provision of prior law),
 
-&emsp;“(C) the instrument described in subparagraph (A) has not been amended on or after the date which is 30 days after the date of the enactment of this Act \[Aug. 13, 1981\], and
+&emsp;"(C) the instrument described in subparagraph (A) has not been amended on or after the date which is 30 days after the date of the enactment of this Act \[Aug. 13, 1981\], and
 
-&emsp;“(D) the State has not enacted a statute applicable to such gift under which such power of appointment is to be construed as being defined in terms of, or by reference to, the amount of the exclusion under such section 2503(b) after its amendment by subsection (a),
+&emsp;"(D) the State has not enacted a statute applicable to such gift under which such power of appointment is to be construed as being defined in terms of, or by reference to, the amount of the exclusion under such section 2503(b) after its amendment by subsection (a),
 
-> then the amendment made by subsection (a) shall not apply to such gift.”
+> then the amendment made by subsection (a) shall not apply to such gift."
 
 Amendment by section 442(a)(3) of Pub. L. 97–34 applicable with respect to gifts made after Dec. 31, 1981, see section 442(e) of Pub. L. 97–34, set out as a note under section 2501 of this title.
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title VII, §702(j)(3)(B), Nov. 6, 1978, 92 Stat. 2932, provided that: “The amendment made by paragraph (2) \[amending this section\] shall apply to transfers made after December 31, 1976.”
+Pub. L. 95–600, title VII, §702(j)(3)(B), Nov. 6, 1978, 92 Stat. 2932, provided that: "The amendment made by paragraph (2) \[amending this section\] shall apply to transfers made after December 31, 1976."
 
 #### Effective Date of 1970 Amendment
 

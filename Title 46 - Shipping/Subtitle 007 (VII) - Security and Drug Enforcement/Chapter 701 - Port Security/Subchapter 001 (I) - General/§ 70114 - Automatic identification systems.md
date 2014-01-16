@@ -28,23 +28,23 @@ Regulations.—The Secretary shall prescribe regulations implementing subsection
 
 Pub. L. 107–295, title I, §102(e), Nov. 25, 2002, 116 Stat. 2084, provided that:
 
-“(1)
+"(1)
 
 Schedule.—Section 70114 of title 46, United States Code, as enacted by this Act, shall apply as follows:
 
-&emsp;“(A) On and after January 1, 2003, to any vessel built after that date.
+&emsp;"(A) On and after January 1, 2003, to any vessel built after that date.
 
-&emsp;“(B) On and after July 1, 2003, to any vessel built before the date referred to in subparagraph (A) that is—
+&emsp;"(B) On and after July 1, 2003, to any vessel built before the date referred to in subparagraph (A) that is—
 
-&emsp;&emsp;“(i) a passenger vessel required to carry a certificate under the International Convention for the Safety of Life at Sea, 1974 (SOLAS) \[see 33 U.S.C. 1602 and notes thereunder\];
+&emsp;&emsp;"(i) a passenger vessel required to carry a certificate under the International Convention for the Safety of Life at Sea, 1974 (SOLAS) \[see 33 U.S.C. 1602 and notes thereunder\];
 
-&emsp;&emsp;“(ii) a tanker; or
+&emsp;&emsp;"(ii) a tanker; or
 
-&emsp;&emsp;“(iii) a towing vessel engaged in moving a tank vessel.
+&emsp;&emsp;"(iii) a towing vessel engaged in moving a tank vessel.
 
-&emsp;“(C) On and after December 31, 2004, to all other vessels built before the date referred to in subparagraph (A).
+&emsp;"(C) On and after December 31, 2004, to all other vessels built before the date referred to in subparagraph (A).
 
-“(2)
+"(2)
 
-Definition.—The terms in this subsection have the same meaning as those terms have under section 2101 \[now also 115\] of title 46, United States Code.”
+Definition.—The terms in this subsection have the same meaning as those terms have under section 2101 \[now also 115\] of title 46, United States Code."
 

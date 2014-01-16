@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-It is the purpose of this section to establish a Prevention and Public Health Fund (referred to in this section as the “Fund”), to be administered through the Department of Health and Human Services, Office of the Secretary, to provide for expanded and sustained national investment in prevention and public health programs to improve health and help restrain the rate of growth in private and public sector health care costs.
+It is the purpose of this section to establish a Prevention and Public Health Fund (referred to in this section as the "Fund"), to be administered through the Department of Health and Human Services, Office of the Secretary, to provide for expanded and sustained national investment in prevention and public health programs to improve health and help restrain the rate of growth in private and public sector health care costs.
 
 #### (b) Funding
 
@@ -40,9 +40,9 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
 <b>2012</b>—Subsec. (b)(2) to (6). Pub. L. 112–96 added pars. (2) to (5) and struck out former pars. (2) to (6) which appropriated amounts for fiscal years 2011 through 2015 and each fiscal year thereafter.
 
-<b>2010</b>—Subsec. (c). Pub. L. 111–148, §10401(b), substituted “research, health screenings, and initiatives” for “research and health screenings” and “Regarding Preventive” for “for Preventive”.
+<b>2010</b>—Subsec. (c). Pub. L. 111–148, §10401(b), substituted "research, health screenings, and initiatives" for "research and health screenings" and "Regarding Preventive" for "for Preventive".
 
 #### Website
 
-Pub. L. 112–74, div. F, title II, §220(a), Dec. 23, 2011, 125 Stat. 1085, provided that: “The Secretary \[of Health and Human Services\] shall establish a publicly accessible website to provide information regarding the uses of funds made available under section 4002 of Public Law 111–148 \[this section\].”
+Pub. L. 112–74, div. F, title II, §220(a), Dec. 23, 2011, 125 Stat. 1085, provided that: "The Secretary \[of Health and Human Services\] shall establish a publicly accessible website to provide information regarding the uses of funds made available under section 4002 of Public Law 111–148 \[42 U.S.C. 300u–11\]."
 

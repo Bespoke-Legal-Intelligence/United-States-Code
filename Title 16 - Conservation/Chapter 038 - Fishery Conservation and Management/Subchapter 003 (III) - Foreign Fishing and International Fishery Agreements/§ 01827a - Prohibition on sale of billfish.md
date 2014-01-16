@@ -16,7 +16,7 @@ For purposes of section 1858(a) of this title, a violation of this section shall
 
 #### (d) Billfish defined
 
-In this section the term “billfish”—
+In this section the term "billfish"—
 
 &emsp;(1) means any fish of the species—
 
@@ -48,11 +48,11 @@ Section was enacted as part of the Billfish Conservation Act of 2012 and not as 
 
 #### Findings
 
-Pub. L. 112–183, §2, Oct. 5, 2012, 126 Stat. 1422, provided that: “Congress finds the following:
+Pub. L. 112–183, §2, Oct. 5, 2012, 126 Stat. 1422, provided that: "Congress finds the following:
 
-&emsp;“(1) The United States carefully regulates its domestic fisheries for billfish and participates in international fishery management bodies in the Atlantic and Pacific.
+&emsp;"(1) The United States carefully regulates its domestic fisheries for billfish and participates in international fishery management bodies in the Atlantic and Pacific.
 
-&emsp;“(2) Global billfish populations have declined significantly, however, because of overfishing primarily through retention of bycatch by non-United States commercial fishing fleets.
+&emsp;"(2) Global billfish populations have declined significantly, however, because of overfishing primarily through retention of bycatch by non-United States commercial fishing fleets.
 
-&emsp;“(3) Ending the importation of foreign-caught billfish for sale in the United States aligns with U.S. management measures of billfish and protects the significant economic benefits to the U.S. economy of recreational fishing and marine commerce and the traditional cultural fisheries.”
+&emsp;"(3) Ending the importation of foreign-caught billfish for sale in the United States aligns with U.S. management measures of billfish and protects the significant economic benefits to the U.S. economy of recreational fishing and marine commerce and the traditional cultural fisheries."
 

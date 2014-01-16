@@ -18,5 +18,5 @@ Section 4106 provides a civil penalty of $100 for a violation of this chapter or
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–540 substituted “not more than $5,000” for “$100”.
+<b>1988</b>—Pub. L. 100–540 substituted "not more than $5,000" for "$100".
 

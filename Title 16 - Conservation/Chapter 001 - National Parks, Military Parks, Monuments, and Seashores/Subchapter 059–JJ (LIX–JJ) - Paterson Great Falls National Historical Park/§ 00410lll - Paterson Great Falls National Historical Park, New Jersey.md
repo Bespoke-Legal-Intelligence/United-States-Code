@@ -6,35 +6,35 @@ In this section:
 
 #### (1) City
 
-&emsp;The term “City” means the City of Paterson, New Jersey.
+&emsp;The term "City" means the City of Paterson, New Jersey.
 
 #### (2) Commission
 
-&emsp;The term “Commission” means the Paterson Great Falls National Historical Park Advisory Commission established by subsection (e)(1).
+&emsp;The term "Commission" means the Paterson Great Falls National Historical Park Advisory Commission established by subsection (e)(1).
 
 #### (3) Historic District
 
-&emsp;The term “Historic District” means the Great Falls Historic District in the State.
+&emsp;The term "Historic District" means the Great Falls Historic District in the State.
 
 #### (4) Management plan
 
-&emsp;The term “management plan” means the management plan for the Park developed under subsection (d).
+&emsp;The term "management plan" means the management plan for the Park developed under subsection (d).
 
 #### (5) Map
 
-&emsp;The term “Map” means the map entitled “Paterson Great Falls National Historical Park–Proposed Boundary”, numbered T03/80,001, and dated May 2008.
+&emsp;The term "Map" means the map entitled "Paterson Great Falls National Historical Park–Proposed Boundary", numbered T03/80,001, and dated May 2008.
 
 #### (6) Park
 
-&emsp;The term “Park” means the Paterson Great Falls National Historical Park established by subsection (b)(1)(A).
+&emsp;The term "Park" means the Paterson Great Falls National Historical Park established by subsection (b)(1)(A).
 
 #### (7) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior.
+&emsp;The term "Secretary" means the Secretary of the Interior.
 
 #### (8) State
 
-&emsp;The term “State” means the State of New Jersey.
+&emsp;The term "State" means the State of New Jersey.
 
 #### (b) Paterson Great Falls National Historical Park
 
@@ -42,7 +42,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), there is established in the State a unit of the National Park System to be known as the “Paterson Great Falls National Historical Park”.
+&emsp;&emsp;Subject to subparagraph (B), there is established in the State a unit of the National Park System to be known as the "Paterson Great Falls National Historical Park".
 
 #### (B) Conditions for establishment
 
@@ -144,7 +144,7 @@ In this section:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;As a condition of the receipt of funds under this paragraph, the Secretary shall require that any Federal funds made available under a cooperative agreement shall be matched on a 1-to-1 basis by non-Federal funds.
+&emsp;&emsp;&emsp;As a condition of the receipt of funds under this paragraph, the Secretary shallrequire that any Federal funds made available under a cooperative agreement shall be matched on a 1-to-1 basis by non-Federal funds.
 
 #### (ii) Form
 
@@ -190,7 +190,7 @@ In this section:
 
 #### (1) Establishment
 
-&emsp;There is established a commission to be known as the “Paterson Great Falls National Historical Park Advisory Commission”.
+&emsp;There is established a commission to be known as the "Paterson Great Falls National Historical Park Advisory Commission".
 
 #### (2) Duties
 
@@ -270,7 +270,7 @@ In this section:
 
 #### (ii) Travel expenses
 
-&emsp;&emsp;&emsp;Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
+&emsp;&emsp;&emsp;Members of the Commission shall be allowed travel expenses, including per diemin lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
 
 #### (B) Staff
 

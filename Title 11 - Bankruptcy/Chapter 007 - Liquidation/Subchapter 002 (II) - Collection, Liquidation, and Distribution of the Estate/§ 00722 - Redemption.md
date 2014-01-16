@@ -24,7 +24,7 @@ The right to redeem extends to the whole of the property, not just the debtor's 
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–8 inserted “in full at the time of redemption” before period at end.
+<b>2005</b>—Pub. L. 109–8 inserted "in full at the time of redemption" before period at end.
 
 #### Effective Date of 2005 Amendment
 

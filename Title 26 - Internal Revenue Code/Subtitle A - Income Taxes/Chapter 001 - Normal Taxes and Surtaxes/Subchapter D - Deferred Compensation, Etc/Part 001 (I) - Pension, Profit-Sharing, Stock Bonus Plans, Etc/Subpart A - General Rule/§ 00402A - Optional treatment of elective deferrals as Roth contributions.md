@@ -14,13 +14,13 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “qualified Roth contribution program” means a program under which an employee may elect to make designated Roth contributions in lieu of all or a portion of elective deferrals the employee is otherwise eligible to make under the applicable retirement plan.
+&emsp;The term "qualified Roth contribution program" means a program under which an employee may elect to make designated Roth contributions in lieu of all or a portion of elective deferrals the employee is otherwise eligible to make under the applicable retirement plan.
 
 #### (2) Separate accounting required
 
 &emsp;A program shall not be treated as a qualified Roth contribution program unless the applicable retirement plan—
 
-&emsp;&emsp;(A) establishes separate accounts (“designated Roth accounts”) for the designated Roth contributions of each employee and any earnings properly allocable to the contributions, and
+&emsp;&emsp;(A) establishes separate accounts ("designated Roth accounts") for the designated Roth contributions of each employee and any earnings properly allocable to the contributions, and
 
 &emsp;&emsp;(B) maintains separate recordkeeping with respect to each account.
 
@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (1) Designated Roth contribution
 
-&emsp;The term “designated Roth contribution” means any elective deferral which—
+&emsp;The term "designated Roth contribution" means any elective deferral which—
 
 &emsp;&emsp;(A) is excludable from gross income of an employee without regard to this section, and
 
@@ -108,7 +108,7 @@ For purposes of this title—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified distribution” has the meaning given such term by section 408A(d)(2)(A) (without regard to clause (iv) thereof).
+&emsp;&emsp;The term "qualified distribution" has the meaning given such term by section 408A(d)(2)(A) (without regard to clause (iv) thereof).
 
 #### (B) Distributions within nonexclusion period
 
@@ -120,7 +120,7 @@ For purposes of this title—
 
 #### (C) Distributions of excess deferrals and contributions and earnings thereon
 
-&emsp;&emsp;The term “qualified distribution” shall not include any distribution of any excess deferral under section 402(g)(2) or any excess contribution under section 401(k)(8), and any income on the excess deferral or contribution.
+&emsp;&emsp;The term "qualified distribution" shall not include any distribution of any excess deferral under section 402(g)(2) or any excess contribution under section 401(k)(8), and any income on the excess deferral or contribution.
 
 #### (3) Treatment of distributions of certain excess deferrals
 
@@ -140,9 +140,9 @@ For purposes of this section—
 
 #### (1) Applicable retirement plan
 
-&emsp;The term “applicable retirement plan” means—
+&emsp;The term "applicable retirement plan" means—
 
-&emsp;&emsp;(A) an employees’ trust described in section 401(a) which is exempt from tax under section 501(a),
+&emsp;&emsp;(A) an employees' trust described in section 401(a) which is exempt from tax under section 501(a),
 
 &emsp;&emsp;(B) a plan under which amounts are contributed by an individual's employer for an annuity contract described in section 403(b), and
 
@@ -150,7 +150,7 @@ For purposes of this section—
 
 #### (2) Elective deferral
 
-&emsp;The term “elective deferral” means—
+&emsp;The term "elective deferral" means—
 
 &emsp;&emsp;(A) any elective deferral described in subparagraph (A) or (C) of section 402(g)(3), and
 
@@ -166,17 +166,17 @@ For purposes of this section—
 
 Subsec. (e)(1)(C). Pub. L. 111–240, §2111(a), added subpar. (C).
 
-Subsec. (e)(2). Pub. L. 111–240, §2111(b), amended par. (2) generally. Prior to amendment, text read as follows: “The term ‘elective deferral’ means any elective deferral described in subparagraph (A) or (C) of section 402(g)(3).”
+Subsec. (e)(2). Pub. L. 111–240, §2111(b), amended par. (2) generally. Prior to amendment, text read as follows: "The term 'elective deferral' means any elective deferral described in subparagraph (A) or (C) of section 402(g)(3)."
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–240, title IX, §902(b), Jan. 2, 2013, 126 Stat. 2371, provided that: “The amendment made by this section \[amending this section\] shall apply to transfers after December 31, 2012, in taxable years ending after such date.”
+Pub. L. 112–240, title IX, §902(b), Jan. 2, 2013, 126 Stat. 2371, provided that: "The amendment made by this section \[amending this section\] shall apply to transfers after December 31, 2012, in taxable years ending after such date."
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–240, title II, §2111(c), Sept. 27, 2010, 124 Stat. 2566, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2010.”
+Pub. L. 111–240, title II, §2111(c), Sept. 27, 2010, 124 Stat. 2566, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2010."
 
-Pub. L. 111–240, title II, §2112(b), Sept. 27, 2010, 124 Stat. 2566, provided that: “The amendments made by this section \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Sept. 27, 2010\].”
+Pub. L. 111–240, title II, §2112(b), Sept. 27, 2010, 124 Stat. 2566, provided that: "The amendments made by this section \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Sept. 27, 2010\]."
 
 #### Effective Date
 

@@ -16,19 +16,19 @@ The Commission shall refer any proceeding regarding the jurisdictional separatio
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Codification
 
-In subsec. (a), “section 3105 of title 5” substituted for “section 11 of the Administrative Procedure Act (5 U.S.C. 1010)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (a), "section 3105 of title 5" substituted for "section 11 of the Administrative Procedure Act (5 U.S.C. 1010)" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–414 struck out “, as referred to in sections 202(b) and 205(f) of the Interstate Commerce Act,” after “State commissions”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–414 struck out ", as referred to in sections 202(b) and 205(f) of the Interstate Commerce Act," after "State commissions".
 
 <b>1971</b>—Subsec. (c). Pub. L. 92–131 added subsec. (c).
 
-<b>1956</b>—Subsec. (a). Act Aug. 2, 1956, inserted in second sentence “and examiner provided for in section 3105 of title 5, designated by” after “the Commissioner”.
+<b>1956</b>—Subsec. (a). Act Aug. 2, 1956, inserted in second sentence "and examiner provided for in section 3105 of title 5, designated by" after "the Commissioner".
 
 <b>1952</b>—Subsec. (a). Act July 16, 1952, inserted first sentence so as to bring these provisions in conformity with section 409 of this title.
 

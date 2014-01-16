@@ -28,5 +28,5 @@ A prior section 2015, Pub. L. 95–561, title XI, §1135, as added Pub. L. 103�
 
 Another prior section 2015, Pub. L. 95–561, title XI, §1135, Nov. 1, 1978, 92 Stat. 2327, related to recruitment policy for Indian educators and promotion plan for Bureau employees, prior to the general amendment of this chapter by Pub. L. 103–382.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “2005(c)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "2005(c)".</i>
 

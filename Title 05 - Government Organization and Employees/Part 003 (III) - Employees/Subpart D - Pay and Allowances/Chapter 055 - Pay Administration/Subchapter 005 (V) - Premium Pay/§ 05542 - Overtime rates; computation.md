@@ -52,7 +52,7 @@
 
 &emsp;(2) such investigator shall be compensated for all other overtime work under section 5545a.
 
-(e) Notwithstanding subsection (d)(1) of this section, all hours of overtime work scheduled in advance of the administrative workweek shall be compensated under subsection (a) if that work involves duties as authorized by section 3056(a) of title 18 or section 37(a)(3) of the State Department Basic Authorities Act of 1956, and if the investigator performs, on that same day, at least 2 hours of overtime work not scheduled in advance of the administrative workweek.
+(e) Notwithstanding subsection (d)(1) of this section, all hours of overtime work scheduled in advance of the administrative workweek shall be compensated under subsection (a) if that work involves duties as authorized by section3056(a) of title 18 or section 37(a)(3) of the State Department Basic Authorities Act of 1956, and if the investigator performs, on that same day, at least 2 hours of overtime work not scheduled in advance of the administrative workweek.
 
 (f) In applying subsection (a) of this section with respect to a firefighter who is subject to section 5545b—
 
@@ -160,7 +160,7 @@ Subsec. (c). Pub. L. 101–509, §529 \[title II, §210(1)\], added subsec. (c).
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–558, §2(b), Dec. 21, 2000, 114 Stat. 2777, as amended by Pub. L. 107–20, title II, §2605, July 24, 2001, 115 Stat. 178, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 21, 2000\].”
+Pub. L. 106–558, §2(b), Dec. 21, 2000, 114 Stat. 2777, as amended by Pub. L. 107–20, title II, §2605, July 24, 2001,115 Stat. 178, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 21, 2000\].”
 
 #### Effective Date of 1998 Amendment
 

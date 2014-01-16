@@ -40,7 +40,7 @@ The Secretary shall ensure that phytosanitary issues involving imports and expor
 
 #### (1) In general
 
-&emsp;A State may provide to a unit of local government in the State described in paragraph (2) any cost-sharing assistance or financing mechanism provided to the State under a cooperative agreement entered into under this Act between the Secretary and the State relating to the eradication, prevention, control, or suppression of plant pests.
+&emsp;A State may provide to a unit of local government in the State described in paragraph\(2) any cost-sharing assistance or financing mechanism provided to the State under a cooperative agreement entered into under this Act between the Secretary and the State relating to the eradication, prevention, control, or suppression of plant pests.
 
 #### (2) Requirements
 
@@ -58,7 +58,7 @@ The Secretary shall ensure that phytosanitary issues involving imports and expor
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under section 7701 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this title", meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
 This Act, referred to in subsec. (f)(1), is Pub. L. 106–224, June 20, 2000, 114 Stat. 358, known as the Agricultural Risk Protection Act of 2000. For complete classification of this Act to the Code, see Short Title of 2000 Amendment note set out under section 1501 of this title and Tables.
 

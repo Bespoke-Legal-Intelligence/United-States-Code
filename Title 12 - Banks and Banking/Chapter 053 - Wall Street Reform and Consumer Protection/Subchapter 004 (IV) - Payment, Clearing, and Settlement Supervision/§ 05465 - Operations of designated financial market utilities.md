@@ -112,5 +112,5 @@ This Act, referred to in subsec. (e)(2)(D), is Pub. L. 111–203, July 21, 2010,
 
 <i><sup>1</sup></i><i> So in original. Another closing parenthesis probably should appear.</i>
 
-<i><sup>2</sup></i><i> So in original. The word “notice” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "notice" probably should not appear.</i>
 

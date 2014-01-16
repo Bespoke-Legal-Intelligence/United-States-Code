@@ -36,25 +36,25 @@ Section was enacted as part of the College Scholarship Fraud Prevention Act of 2
 
 #### Findings
 
-Pub. L. 106–420, §2, Nov. 1, 2000, 114 Stat. 1867, provided that: “Congress makes the following findings:
+Pub. L. 106–420, §2, Nov. 1, 2000, 114 Stat. 1867, provided that: "Congress makes the following findings:
 
-&emsp;“(1) A substantial amount of fraud occurs in the offering of college education financial assistance services to consumers.
+&emsp;"(1) A substantial amount of fraud occurs in the offering of college education financial assistance services to consumers.
 
-&emsp;“(2) Such fraud includes the following:
+&emsp;"(2) Such fraud includes the following:
 
-&emsp;&emsp;“(A) Misrepresentations regarding the provision of sources from which consumers may obtain financial assistance (including scholarships, grants, loans, tuition, awards, and other assistance) for purposes of financing a college education.
+&emsp;&emsp;"(A) Misrepresentations regarding the provision of sources from which consumers may obtain financial assistance (including scholarships, grants, loans, tuition, awards, and other assistance) for purposes of financing a college education.
 
-&emsp;&emsp;“(B) Misrepresentations regarding the provision of portfolios of such assistance tailored to the needs of specific consumers.
+&emsp;&emsp;"(B) Misrepresentations regarding the provision of portfolios of such assistance tailored to the needs of specific consumers.
 
-&emsp;&emsp;“(C) Misrepresentations regarding the pre-selection of students as eligible to receive such assistance.
+&emsp;&emsp;"(C) Misrepresentations regarding the pre-selection of students as eligible to receive such assistance.
 
-&emsp;&emsp;“(D) Misrepresentations that such assistance will be provided to consumers who purchase specified services from specified entities.
+&emsp;&emsp;"(D) Misrepresentations that such assistance will be provided to consumers who purchase specified services from specified entities.
 
-&emsp;&emsp;“(E) Misrepresentations regarding the business relationships between particular entities and entities that award or may award such assistance.
+&emsp;&emsp;"(E) Misrepresentations regarding the business relationships between particular entities and entities that award or may award such assistance.
 
-&emsp;&emsp;“(F) Misrepresentations regarding refunds of processing fees if consumers are not provided specified amounts of such assistance, and other misrepresentations regarding refunds.
+&emsp;&emsp;"(F) Misrepresentations regarding refunds of processing fees if consumers are not provided specified amounts of such assistance, and other misrepresentations regarding refunds.
 
-&emsp;“(3) In 1996, the Federal Trade Commission launched ‘Project Scholarscam’, a joint law enforcement and consumer education campaign directed at fraudulent purveyors of so-called ‘scholarship services’.
+&emsp;"(3) In 1996, the Federal Trade Commission launched 'Project Scholarscam', a joint law enforcement and consumer education campaign directed at fraudulent purveyors of so-called 'scholarship services'.
 
-&emsp;“(4) Despite the efforts of the Federal Trade Commission, colleges and universities, and nongovernmental organizations, the continued lack of awareness about scholarship fraud permits a significant amount of fraudulent activity to occur.”
+&emsp;"(4) Despite the efforts of the Federal Trade Commission, colleges and universities, and nongovernmental organizations, the continued lack of awareness about scholarship fraud permits a significant amount of fraudulent activity to occur."
 

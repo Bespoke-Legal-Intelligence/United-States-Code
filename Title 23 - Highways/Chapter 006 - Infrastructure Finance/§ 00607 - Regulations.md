@@ -6,11 +6,11 @@ The Secretary may promulgate such regulations as the Secretary determines to be 
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section read as follows: “The Secretary may issue such regulations as the Secretary determines appropriate to carry out this chapter.”
+<b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section read as follows: "The Secretary may issue such regulations as the Secretary determines appropriate to carry out this chapter."
 
 <b>2005</b>—Pub. L. 109–59, §1602(d), renumbered section 187 of this title as this section.
 
-Pub. L. 109–59, §1602(b)(5), substituted “this chapter” for “this subchapter”.
+Pub. L. 109–59, §1602(b)(5), substituted "this chapter" for "this subchapter".
 
 #### Effective Date of 2012 Amendment
 

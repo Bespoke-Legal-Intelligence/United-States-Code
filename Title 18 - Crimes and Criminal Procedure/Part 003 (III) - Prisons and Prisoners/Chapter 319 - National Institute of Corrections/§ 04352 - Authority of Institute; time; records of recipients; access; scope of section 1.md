@@ -32,31 +32,31 @@
 
 \[(b) Repealed. Pub. L. 97–375, title I, §109(a), Dec. 21, 1982, 96 Stat. 1820.\]
 
-(c) Each recipient of assistance under this chapter shall keep such records as the Institute shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(c) Each recipient of assistance under this chapter shall keep such records as the Instituteshall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the total cost of the project or undertaking in connection with which such assistance is given or used, and the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 (d) The Institute, and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access for purposes of audit and examinations to any books, documents, papers, and records of the recipients that are pertinent to the grants received under this chapter.
 
 (e) The provision of this section shall apply to all recipients of assistance under this title, whether by direct grant or contract from the Institute or by subgrant or subcontract from primary grantees or contractors of the Institute.
 
-(Added Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1140; amended Pub. L. 97–375, title I,§109(a), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 101–647, title XXXV, §3599F, Nov. 29, 1990, 104 Stat. 4932; Pub. L. 111–211, title II, §261(b), July 29, 2010, 124 Stat. 2299.)
+(Added Pub. L. 93–415, title V, §521, Sept. 7, 1974, 88 Stat. 1140; amended Pub. L. 97–375, title I, §109(a), Dec. 21, 1982, 96 Stat. 1820; Pub. L. 101–647, title XXXV, §3599F, Nov. 29, 1990, 104 Stat. 4932; Pub. L. 111–211, title II, §261(b), July 29, 2010, 124 Stat. 2299.)
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1), (3), (4). Pub. L. 111–211, §261(b)(1), inserted “tribal,” after “State,”.
+<b>2010</b>—Subsec. (a)(1), (3), (4). Pub. L. 111–211, §261(b)(1), inserted "tribal," after "State,".
 
-Subsec. (a)(6). Pub. L. 111–211, §261(b)(2), inserted “and tribal communities,” after “States” and “, tribal,” after “State”.
+Subsec. (a)(6). Pub. L. 111–211, §261(b)(2), inserted "and tribal communities," after "States" and ", tribal," after "State".
 
-Subsec. (a)(8). Pub. L. 111–211, §261(b)(1), inserted “tribal,” after “State,”.
+Subsec. (a)(8). Pub. L. 111–211, §261(b)(1), inserted "tribal," after "State,".
 
-Subsec. (a)(12). Pub. L. 111–211, §261(b)(3), inserted “, tribal,” after “State”.
+Subsec. (a)(12). Pub. L. 111–211, §261(b)(3), inserted ", tribal," after "State".
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–647 substituted “this chapter shall” for “this shall”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–647 substituted "this chapter shall" for "this shall".
 
 <b>1982</b>—Subsec. (b). Pub. L. 97–375 struck out subsec. (b) which directed the Institute to submit an annual report to the President and Congress, including a comprehensive and detailed report of the Institute's operations, activities, financial condition and accomplishments under this title, and which might include such recommendations related to corrections as the Institute deemed appropriate.
 
 #### Inclusion of National Institute of Corrections in Federal Prison System Salaries and Expenses Budget
 
-Pub. L. 104–208, div. A, title I, §101(a), \[title I\], Sept. 30, 1996, 110 Stat. 3009, 3009–11, provided in part: “That the National Institute of Corrections hereafter shall be included in the FPS Salaries and Expenses budget, in the Contract Confinement program and shall continue to perform its current functions under 18 U.S.C. 4351, et seq., with the exception of its grant program and shall collect reimbursement for services whenever possible”.
+Pub. L. 104–208, div. A, title I, §101(a), \[title I\], Sept. 30, 1996, 110 Stat. 3009, 3009–11, provided in part: "That the National Institute of Corrections hereafter shall be included in the FPS Salaries and Expenses budget, in the Contract Confinement program and shall continue to perform its current functions under 18 U.S.C. 4351, et seq., with the exception of its grant program and shall collect reimbursement for services whenever possible".
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -66,21 +66,21 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 Pub. L. 100–690, title VI, §6292, Nov. 18, 1988, 102 Stat. 4369, provided that:
 
-“(a)
+"(a)
 
-In General.—The Director of the National Institute of Corrections, in consultation with persons with expertise in the field of community-based drug rehabilitation, shall establish and operate, at any suitable location, a national training center (hereinafter in this section referred to as the ‘center’) for training Federal, State, and local prison or jail officials to conduct drug rehabilitation programs for criminals convicted of drug-related crimes and for drug-dependent criminals. Programs conducted at the center shall include training for correctional officers, administrative staff, and correctional mental health professionals (including subcontracting agency personnel).
+In General.—The Director of the National Institute of Corrections, in consultation with persons with expertise in the field of community-based drug rehabilitation, shall establish and operate, at any suitable location, a national training center (hereinafter in this section referred to as the 'center') for training Federal, State, and local prison or jail officials to conduct drug rehabilitation programs for criminals convicted of drug-related crimes and for drug-dependent criminals. Programs conducted at the center shall include training for correctional officers, administrative staff, and correctional mental health professionals (including subcontracting agency personnel).
 
-“(b)
+"(b)
 
 Design and Construction of Facilities.—The Director of the National Institute of Corrections shall design and construct facilities for the center.
 
-“(c)
+"(c)
 
 Authorization of Appropriations.—In addition to amounts otherwise authorized to be appropriated with respect to the National Institute of Corrections, there are authorized to be appropriated to the Director of the National Institute of Corrections—
 
-&emsp;“(1) for establishment and operation of the center, for curriculum development for the center, and for salaries and expenses of personnel at the center, not more than $4,000,000 for each of fiscal years 1989, 1990, and 1991; and
+&emsp;"(1) for establishment and operation of the center, for curriculum development for the center, and for salaries and expenses of personnel at the center, not more than $4,000,000 for each of fiscal years 1989, 1990, and 1991; and
 
-&emsp;“(2) for design and construction of facilities for the center, not more than $10,000,000 for fiscal years 1989, 1990, and 1991.”
+&emsp;"(2) for design and construction of facilities for the center, not more than $10,000,000 for fiscal years 1989, 1990, and 1991."
 
 <i><sup>1</sup></i><i> Section catchline editorially supplied.</i>
 

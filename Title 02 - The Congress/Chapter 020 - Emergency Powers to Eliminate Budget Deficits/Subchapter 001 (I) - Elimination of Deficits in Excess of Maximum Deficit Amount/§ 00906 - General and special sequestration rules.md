@@ -36,7 +36,7 @@ For all student loans under part B or D of title IV of the Higher Education Act 
 
 #### (4) Timing of subsequent sequestration order
 
-&emsp;A sequestration order required by section 902 or 903 of this title with respect to programsunder such title XVIII \[42 U.S.C. 1395 et seq.\] shall not take effect until the first month beginning after the end of the effective period of any prior sequestration order with respect to such programs, as determined in accordance with paragraph (1).
+&emsp;A sequestration order required by section 902 or 903 of this title with respect to programs under such title XVIII \[42 U.S.C. 1395 et seq.\] shall not take effect until the first month beginning after the end of the effective period of any prior sequestration order with respect to such programs, as determined in accordance with paragraph (1).
 
 #### (5) No increase in beneficiary charges in assignment-related cases
 
@@ -152,7 +152,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 > shall not be subject to reduction.
 
-(2)(A) A State may reduce each weekly benefit payment made under the Federal-State Extended Unemployment Compensation Act of 1970 for any week of unemployment occurring during any period with respect to which payments are reduced under an order issued under section 904 of this title by a percentage not to exceed the percentage by which the Federal payment to the State under section 204 of such Act is to be reduced for such week as a result of such order.
+(2)(A) A State may reduce each weekly benefit payment made under the Federal-State Extended Unemployment Compensation Act of 1970for any week of unemployment occurring during any period with respect to which payments are reduced under an order issued under section 904 of this title by a percentage not to exceed the percentage by which the Federal payment to the State under section 204 of such Act is to be reduced for such week as a result of such order.
 
 (B) A reduction by a State in accordance with subparagraph (A) shall not be considered as a failure to fulfill the requirements of section 3304(a)(11) of title 26.
 
@@ -170,7 +170,7 @@ Notwithstanding any change in the display of budget accounts, any order issued b
 
 #### (3) Delayed reduction in outlays permissible
 
-&emsp;Notwithstanding any other provision of this title,<sup>1</sup> if an order under section 904 of this title is issued with respect to a fiscal year, any reduction under the order applicable to contracts described in paragraph (1) may providefor reductions in outlays for the account involved to occur in the fiscal year following the fiscal year to which the order applies.
+&emsp;Notwithstanding any other provision of this title,<sup>1</sup> if an order under section 904 of this title is issued with respect to a fiscal year, any reduction under the order applicable to contracts described in paragraph (1) may provide for reductions in outlays for the account involved to occur in the fiscal year following the fiscal year to which the order applies.
 
 #### (4) Uniform percentage rate of reduction and other limitations
 
@@ -198,7 +198,7 @@ The effects of sequestration shall be as follows:
 
 &emsp;(5) If an automatic spending increase is sequestered, the increase (in the applicable index) that was disregarded as a result of that sequestration shall not be taken into account in any subsequent fiscal year.
 
-&emsp;(6) Budgetary resources sequestered in revolving, trust, and special fund accounts and offsetting collections sequestered in appropriation accounts shall not be available for obligation during the fiscal year in which the sequestration occurs, but shall be available in subsequent years to the extent otherwise provided in law.
+&emsp;(6) Budgetary resources sequestered in revolving, trust, and special fund accounts andoffsetting collections sequestered in appropriation accounts shall not be available for obligation during the fiscal year in which the sequestration occurs, but shall be available in subsequent years to the extent otherwise provided in law.
 
 (Pub. L. 99–177, title II, §256, Dec. 12, 1985, 99 Stat. 1086; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–86, title V, §506(b), Aug. 10, 1987, 101 Stat. 634; Pub. L. 100–119, title I, §§102(b)(2), (3), (11), 104(a)(3), (4), Sept. 29, 1987, 101 Stat. 773, 775, 776; Pub. L. 101–73, title VII, §743(b), Aug. 9, 1989, 103 Stat. 437; Pub. L. 101–508, title XIII, §13101(d), Nov. 5, 1990, 104 Stat. 1388–589; Pub. L. 101–509, title V, §529 \[title I, §101(b)(2)(A), (4)(H)\], Nov. 5, 1990, 104 Stat. 1427, 1439, 1440; Pub. L. 104–193, title I, §110(r)(2), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–33, title X, §10208(a)(1), (b)–(g), Aug. 5, 1997, 111 Stat. 708–710; Pub. L. 111–139, title I, §§9(b), 10, Feb. 12, 2010, 124 Stat. 21; Pub. L. 111–203, title III, §352, July 21, 2010, 124 Stat. 1546; Pub. L. 112–81, div. A, title VI, §631(f)(4)(B), Dec. 31, 2011, 125 Stat. 1465; Pub. L. 112–239, div. A, title X, §1076(a)(9), Jan. 2, 2013, 126 Stat. 1948.)
 
@@ -238,7 +238,7 @@ Subsec. (c). Pub. L. 111–139, §10(c), struck out subsec. (c). Text read as fo
 
 Subsec. (d)(1). Pub. L. 111–139, §10(d)(2), amended par. (1) generally. Prior to amendment, text read as follows: “To achieve the total percentage reduction in those programs required by sections 902 and 903 of this title, and notwithstanding section 710 of the Social Security Act, OMB shall determine, and the applicable Presidential order under section 904 of this title shall implement, the percentage reduction that shall apply to payments under the health insurance programs under title XVIII of the Social Security Act for services furnished after the order is issued, such that the reduction made in payments under that order shall achieve the required total percentage reduction in those payments for that fiscal year as determined on a 12-month basis.”
 
-Subsec. (d)(2) to (6). Pub. L. 111–139, §10(d)(1), (3)–(5), added pars. (2) and (4), redesignated former pars. (2), (3), and (4) as (3), (5), and (6), respectively, and amended par. (6) generally. Prior to amendment, text of par. (6) read as follows: “In computing the adjusted average per capita cost for purposes of section 1876(a)(4) of the Social Security Act, the Secretary of Health and Human Services shall not take into account any reductions in payment amounts which have been or may be effected under this subchapter.”
+Subsec. (d)(2) to (6). Pub. L. 111–139, §10(d)(1), (3)–(5), added pars. (2) and (4), redesignated former pars. (2), (3),and (4) as (3), (5), and (6), respectively, and amended par. (6) generally. Prior to amendment, text of par. (6) read as follows: “In computing the adjusted average per capita cost for purposes of section 1876(a)(4) of the Social Security Act, the Secretary of Health and Human Services shall not take into account any reductions in payment amounts which have been or may be effected under this subchapter.”
 
 Subsec. (d)(7). Pub. L. 111–139, §10(d)(6), added par. (7).
 

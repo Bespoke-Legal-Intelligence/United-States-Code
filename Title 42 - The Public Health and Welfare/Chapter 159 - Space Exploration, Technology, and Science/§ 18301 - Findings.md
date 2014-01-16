@@ -20,11 +20,11 @@ Congress makes the following findings:
 
 &emsp;(9) While commercial transportation systems have the promise to contribute valuable services, it is in the United States national interest to maintain a government operated space transportation system for crew and cargo delivery to space.
 
-&emsp;(10) Congress restates its commitment, expressed in the National Aeronautics and Space Administration Authorization Act of 2005 <sup>1</sup> (Public Law 109–155) and the National Aeronautics and Space Administration Authorization Act of 2008 <sup>1</sup> (Public Law 110–422), to the development of commercially developed launch and delivery systems to the ISS for crew and cargo missions. Congress reaffirms that NASA shall make use of United States commercially provided ISS crew transfer and crew rescue services to the maximum extent practicable.
+&emsp;(10) Congress restates its commitment, expressed in the National Aeronautics and Space Administration Authorization Act of 2005 <sup>1</sup> (Public Law 109–155) and the National Aeronautics and Space Administration Authorization Act of 2008 <sup>1</sup> (Public Law 110–422), to thedevelopment of commercially developed launch and delivery systems to the ISS for crew and cargo missions. Congress reaffirms that NASA shall make use of United States commercially provided ISS crew transfer and crew rescue services to the maximum extent practicable.
 
 &emsp;(11) It is critical to identify an appropriate combination of NASA and related United States Government programs, while providing a framework that allows partnering, leveraging and stimulation of the existing and emerging commercial and international efforts in both near Earth space and the regions beyond.
 
-&emsp;(12) The designation of the United States segment of the ISS as a National Laboratory, as provided by the National Aeronautics and Space Administration Authorization Act of 2005 <sup>1</sup> and the National Aeronautics and Space Administration Authorization Act of 2008,<sup>1</sup>provides an opportunity for multiple United States Government agencies, university-based researchers, research organizations, and others to utilize the unique environment of microgravity for fundamental scientific research and potential economic development.
+&emsp;(12) The designation of the United States segment of the ISS as a National Laboratory, as provided by the National Aeronautics and Space Administration Authorization Act of 2005 <sup>1</sup> and the National Aeronautics and Space Administration Authorization Act of 2008,<sup>1</sup> provides an opportunity for multiple United States Government agencies, university-based researchers, research organizations, and others to utilize the unique environment of microgravity for fundamental scientific research and potential economic development.
 
 &emsp;(13) For some potential replacement elements necessary for ISS sustainability, the Space Shuttle may represent the only vehicle, existing or planned, capable of carrying those elements to the ISS in the near term. Additional or alternative transportation capabilities must be identified as contingency delivery options, and accompanied by an independent analysis of projected availability of such capabilities.
 
@@ -42,7 +42,7 @@ The National Aeronautics and Space Administration Authorization Act of 2008, ref
 
 #### Short Title
 
-Pub. L. 111–267, §1(a), Oct. 11, 2010, 124 Stat. 2805, provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Aeronautics and Space Administration Authorization Act of 2010’.”
+Pub. L. 111–267, §1(a), Oct. 11, 2010, 124 Stat. 2805, provided that: "This Act \[enacting this chapter\] may be cited as the 'National Aeronautics and Space Administration Authorization Act of 2010'."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Election; time; procedure
 
-After the compilation of the tribal membership roll under section 1300n–4(a) of this title, upon the written request of the Interim Tribal Council, the Secretary shall conduct, by secret ballot, an election for the purpose of ratifying a final constitution for the Tribe. The election shall be held consistent with sections 476(c)(1) and 476(c)(2)(A) of this title. Absentee voting shall be permitted regardless of voter residence.
+After the compilation of the tribal membership roll under section 1300n–4(a) of this title,upon the written request of the Interim Tribal Council, the Secretary shall conduct, by secret ballot, an election for the purpose of ratifying a final constitution for the Tribe. The election shall be held consistent with sections 476(c)(1) and 476(c)(2)(A) of this title. Absentee voting shall be permitted regardless of voter residence.
 
 #### (b) Election of tribal officials; procedures
 

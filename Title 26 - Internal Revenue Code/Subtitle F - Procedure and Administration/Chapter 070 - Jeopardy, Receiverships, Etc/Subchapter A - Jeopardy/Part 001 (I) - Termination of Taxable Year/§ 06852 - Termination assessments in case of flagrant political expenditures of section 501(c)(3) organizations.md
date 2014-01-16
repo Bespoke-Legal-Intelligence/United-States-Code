@@ -28,7 +28,7 @@
 
 #### (1) Definitions
 
-&emsp;For purposes of this section, the terms “section 501(c)(3) organization”, “political expenditure”, and “organization manager” have the respective meanings given to such terms by section 4955.
+&emsp;For purposes of this section, the terms "section 501(c)(3) organization", "political expenditure", and "organization manager" have the respective meanings given to such terms by section 4955.
 
 #### (2) Certain rules made applicable
 

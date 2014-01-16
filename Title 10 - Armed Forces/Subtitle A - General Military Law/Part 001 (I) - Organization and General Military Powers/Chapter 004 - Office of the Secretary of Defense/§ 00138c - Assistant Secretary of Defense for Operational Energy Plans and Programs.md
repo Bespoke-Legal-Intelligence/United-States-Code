@@ -60,13 +60,19 @@ Budgetary and Financial Matters.—(1) The Assistant Secretary shall review and 
 
 (3) The Assistant Secretary shall review a proposed budget transmitted under paragraph (2) for a fiscal year and, not later than January 31 of the preceding fiscal year, shall submit to the Secretary of Defense a report containing the comments of the Assistant Secretary with respect to the proposed budget, together with the certification of the Assistant Secretary regarding whether the proposed budget is adequate for implementation of the strategy.
 
-(4) Not later than 30 days after the date on which the budget for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Secretary of Defense shall submit to Congress a report on the proposed budgets for that fiscal year that the Assistant Secretary has not certified under paragraph (3). The report shall include the following:
+(4) The Secretary of Defense shall submit to Congress a report on the proposed budgets for a fiscal year that the Assistant Secretary has notcertified under paragraph (3). The report shall include the following:
 
 &emsp;(A) A discussion of the actions that the Secretary proposes to take, together with any recommended legislation that the Secretary considers appropriate, to address the inadequacy of the proposed budgets.
 
 &emsp;(B) Any additional comments that the Secretary considers appropriate regarding the inadequacy of the proposed budgets.
 
 (5) The report required by paragraph (4) shall also include a separate statement of estimated expenditures and requested appropriations for that fiscal year for the activities of the Assistant Secretary in carrying out the duties of the Assistant Secretary.
+
+(6) The report required by paragraph (4) for a fiscal year shall be submitted by the later of the following dates:
+
+&emsp;(A) The date that is 30 days after the date on which the budget for that fiscal year is submitted to Congress pursuant to section 1105 of title 31.
+
+&emsp;(B) March 31 of the previous fiscal year.
 
 (f)
 
@@ -84,13 +90,13 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Operational energy.—The term “operational energy” means the energy required for training, moving, and sustaining military forces and weapons platforms for military operations. The term includes energy used by tactical power systems and generators and weapons platforms.
+Operational energy.—The term "operational energy" means the energy required for training, moving, and sustaining military forces and weapons platforms for military operations. The term includes energy used by tactical power systems and generators and weapons platforms.
 
 &emsp;(2)
 
-Operational energy strategy.—The terms “operational energy strategy” and “strategy” mean the operational energy strategy developed under subsection (d).
+Operational energy strategy.—The terms "operational energy strategy" and "strategy" mean the operational energy strategy developed under subsection (d).
 
-(Added Pub. L. 110–417, \[div. A\], title IX, §902(a), Oct. 14, 2008, 122 Stat. 4564, §139b; renumbered §138c and amended Pub. L. 111–383, div. A, title IX, §901(b)(7), (k)(1)(C), Jan. 7, 2011, 124 Stat. 4320, 4325; Pub. L. 112–81, div. A, title III, §311, Dec. 31, 2011, 125 Stat. 1351; Pub. L. 112–239, div. A, title X, §1076(f)(3), Jan. 2, 2013, 126 Stat. 1952.)
+(Added Pub. L. 110–417, \[div. A\], title IX, §902(a), Oct. 14, 2008, 122 Stat. 4564, §139b; renumbered §138c and amended Pub. L. 111–383, div. A, title IX, §901(b)(7), (k)(1)(C), Jan. 7, 2011, 124 Stat. 4320, 4325; Pub. L. 112–81, div. A, title III, §311, Dec. 31, 2011, 125 Stat. 1351; Pub. L. 112–239, div. A, title X, §1076(f)(3), Jan. 2, 2013, 126 Stat. 1952; Pub. L. 113–66, div. A, title III, §311, Dec. 26, 2013, 127 Stat. 728.)
 
 #### Codification
 
@@ -100,25 +106,29 @@ Subsec. (c)(3) of section 138 of this title, which was transferred to this secti
 
 <b>2013</b>—Subsec. (c)(3). Pub. L. 112–239 transferred subsec. (c)(3) of section 138 of this title to subsec. (c)(3) of this section. See Codification note above.
 
-<b>2011</b>—Pub. L. 111–383, §901(k)(1)(C), substituted “Assistant Secretary of Defense for Operational Energy Plans and Programs” for “Director of Operational Energy Plans and Programs” in section catchline.
+Subsec. (e)(4). Pub. L. 113–66, §311(1), in introductory provisions, substituted "The Secretary of Defense shall submit to Congress a report on the proposed budgets for a fiscal year" for "Not later than 30 days after the date on which the budget for a fiscal year is submitted to Congress pursuant to section 1105 of title 31, the Secretary of Defense shall submit to Congress a report on the proposed budgets for that fiscal year".
 
-Pub. L. 111–383, §901(b)(7)(B), substituted “Assistant Secretary” for “Director” wherever appearing in text.
+Subsec. (e)(6). Pub. L. 113–66, §311(2), added par. (6).
+
+<b>2011</b>—Pub. L. 111–383, §901(k)(1)(C), substituted "Assistant Secretary of Defense for Operational Energy Plans and Programs" for "Director of Operational Energy Plans and Programs" in section catchline.
+
+Pub. L. 111–383, §901(b)(7)(B), substituted "Assistant Secretary" for "Director" wherever appearing in text.
 
 Pub. L. 111–383, §901(b)(7), renumbered section 139b of this title as this section.
 
-Subsec. (a). Pub. L. 111–383, §901(b)(7)(A), substituted “The Assistant Secretary of Defense for Operational Energy Plans and Programs” for “There is a Director of Operational Energy Plans and Programs in the Department of Defense (in this section referred to as the ‘Director’), appointed by the President, by and with the advice and consent of the Senate. The Director”.
+Subsec. (a). Pub. L. 111–383, §901(b)(7)(A), substituted "The Assistant Secretary of Defense for Operational Energy Plans and Programs" for "There is a Director of Operational Energy Plans and Programs in the Department of Defense (in this section referred to as the 'Director'), appointed by the President, by and with the advice and consent of the Senate. The Director".
 
-Subsec. (d)(2). Pub. L. 111–383, §901(b)(7)(C), substituted “The Secretary of each military department” for “Not later than 90 days after the date on which the Assistant Secretary is first appointed, the Secretary of each of the military departments” and “Secretary who shall” for “Secretary who will” and inserted “so designated” after “The officials”.
+Subsec. (d)(2). Pub. L. 111–383, §901(b)(7)(C), substituted "The Secretary of each military department" for "Not later than 90 days after the date on which the Assistant Secretary is first appointed, the Secretary of each of the military departments" and "Secretary who shall" for "Secretary who will" and inserted "so designated" after "The officials".
 
 Subsec. (d)(3). Pub. L. 112–81, §311(1)(B), added par. (3). Former par. (3) redesignated (4).
 
 Subsec. (d)(4). Pub. L. 112–81, §311(1)(A), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Pub. L. 111–383, §901(b)(7)(D), substituted “Updates to the strategy required by paragraph (1)” for “The initial strategy shall be submitted to the congressional defense committees not later than 180 days after the date on which the Assistant Secretary is first appointed. Subsequent updates to the strategy”.
+Pub. L. 111–383, §901(b)(7)(D), substituted "Updates to the strategy required by paragraph (1)" for "The initial strategy shall be submitted to the congressional defense committees not later than 180 days after the date on which the Assistant Secretary is first appointed. Subsequent updates to the strategy".
 
 Subsec. (d)(5). Pub. L. 112–81, §311(1)(A), redesignated par. (4) as (5).
 
-Subsec. (e)(4). Pub. L. 112–81, §311(2), substituted “30 days” for “10 days”.
+Subsec. (e)(4). Pub. L. 112–81, §311(2), substituted "30 days" for "10 days".
 
 #### Effective Date of 2011 Amendment
 

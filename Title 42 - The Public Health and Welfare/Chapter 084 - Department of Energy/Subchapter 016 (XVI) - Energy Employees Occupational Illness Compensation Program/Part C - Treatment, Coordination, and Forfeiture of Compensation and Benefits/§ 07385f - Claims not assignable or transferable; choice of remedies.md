@@ -12,5 +12,5 @@ No individual may receive more than one payment of compensation under part B.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–375 substituted “this subchapter” for “part B”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375 substituted "this subchapter" for "part B".
 

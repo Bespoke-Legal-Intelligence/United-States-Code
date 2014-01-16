@@ -12,7 +12,7 @@ In General.—The Director shall develop and maintain a national transportation 
 
 (b)
 
-Intermodal Network Analysis.—The databases referred to in subsection (a) shall becapable of supporting intermodal network analysis.
+Intermodal Network Analysis.—The databases referred to in subsection (a) shall be capable of supporting intermodal network analysis.
 
 (Added Pub. L. 112–141, div. E, title II, §52011(a), July 6, 2012, 126 Stat. 894.)
 

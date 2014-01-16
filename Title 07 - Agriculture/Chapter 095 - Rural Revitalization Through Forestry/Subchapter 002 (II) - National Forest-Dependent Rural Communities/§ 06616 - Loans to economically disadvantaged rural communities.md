@@ -18,5 +18,5 @@ The interest rates on a loan made pursuant to this section shall be as determine
 
 #### Amendments
 
-<b>1999</b>—Subsec. (a)(2), (3). Pub. L. 106–113 substituted “National Forest System land resources” for “national forest resources”.
+<b>1999</b>—Subsec. (a)(2), (3). Pub. L. 106–113 substituted "National Forest System land resources" for "national forest resources".
 

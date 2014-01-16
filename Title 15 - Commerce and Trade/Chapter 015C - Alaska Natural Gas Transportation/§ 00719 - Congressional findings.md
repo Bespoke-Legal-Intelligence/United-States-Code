@@ -14,13 +14,13 @@ The Congress finds and declares that—
 
 #### Expiration Date
 
-Pub. L. 94–586, §20, Oct. 22, 1976, 90 Stat. 2916, provided that: “This Act \[this chapter\] shall terminate in the event that no decision of the President takes effect under section 8 of this Act \[section 719f of this title\], such termination to occur at the end of the last day on which a decision could be, but is not, approved under such section.”
+Pub. L. 94–586, §20, Oct. 22, 1976, 90 Stat. 2916, provided that: "This Act \[this chapter\] shall terminate in the event that no decision of the President takes effect under section 8 of this Act \[section 719f of this title\], such termination to occur at the end of the last day on which a decision could be, but is not, approved under such section."
 
 #### Short Title
 
-Pub. L. 94–586, §1, Oct. 22, 1976, 90 Stat. 2903, provided that: “This Act \[enacting this chapter and provisions set out as notes under this section and section 1651 of Title 43, Public Lands\] may be cited as the ‘Alaska Natural Gas Transportation Act of 1976’.”
+Pub. L. 94–586, §1, Oct. 22, 1976, 90 Stat. 2903, provided that: "This Act \[enacting this chapter and provisions set out as notes under this section and section 1651 of Title 43, Public Lands\] may be cited as the 'Alaska Natural Gas Transportation Act of 1976'."
 
 #### Antitrust Study
 
-Pub. L. 94–586, §19, Oct. 22, 1976, 90 Stat. 2916, directed Attorney General of United States to conduct a thorough study of antitrust issues and problems relating to production and transportation of Alaska natural gas and, not later than six months after Oct. 22, 1976, tocomplete such study and submit to Congress a report containing his findings and recommendations with respect thereto.
+Pub. L. 94–586, §19, Oct. 22, 1976, 90 Stat. 2916, directed Attorney General of United States to conduct a thorough study of antitrust issues and problems relating to production and transportation of Alaska natural gas and, not later than six months after Oct. 22, 1976, to complete such study and submit to Congress a report containing his findings and recommendations with respect thereto.
 

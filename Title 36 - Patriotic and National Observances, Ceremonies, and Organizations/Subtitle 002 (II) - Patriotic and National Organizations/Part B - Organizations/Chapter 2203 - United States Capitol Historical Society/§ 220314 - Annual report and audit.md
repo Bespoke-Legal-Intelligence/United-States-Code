@@ -32,11 +32,11 @@ Oct. 20, 1978, Pub. L. 95–493, §§13(b), 17, 92 Stat. 1646, 1647.
 
 &nbsp;
 
-In subsection (b), the words “In addition to complying with the audit requirements of section 10101 of this title” are added for clarity.
+In subsection (b), the words "In addition to complying with the audit requirements of section 10101 of this title" are added for clarity.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–217 substituted “section 5108 of title 40” for “section 451 of the Legislative Reorganization Act of 1970 (40 U.S.C. 193m–1)”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–217 substituted "section 5108 of title 40" for "section 451 of the Legislative Reorganization Act of 1970 (40 U.S.C. 193m–1)".
 
 #### Termination of Reporting Requirements
 

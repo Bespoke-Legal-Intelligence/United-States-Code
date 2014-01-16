@@ -42,9 +42,9 @@ Oct. 20, 1978, Pub. L. 95–493, §§9, 11, 92 Stat. 1646.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (b), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The words “This subsection does not prevent” are substituted for “Nothing in this subsection, however, shall be construed to prevent” for consistency in the revised title and to eliminate unnecessary words.
+In subsection (b), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title. The words "This subsection does not prevent" are substituted for "Nothing in this subsection, however, shall be construed to prevent" for consistency in the revised title and to eliminate unnecessary words.
 
-In subsection (c), the words “or advance” are added the first time they appear for consistency in the subsection. The word “Trustees” is substituted for “Any director”, and the word “trustee” is substituted for “director”, for clarity and consistency in the revised chapter.
+In subsection (c), the words "or advance" are added the first time they appear for consistency in the subsection. The word "Trustees" is substituted for "Any director", and the word "trustee" is substituted for "director", for clarity and consistency in the revised chapter.
 

@@ -6,7 +6,7 @@ The purpose of this section is to encourage energy efficiency in buildings throu
 
 #### (b) Grants for establishment
 
-Not later than 18 months after October 24, 1992, the Secretary shall make grants to nonprofit institutions, or to consortiums that may include nonprofit institutions, State and local governments, universities, and utilities, to establish or enhance one regional building energy efficiency center (hereafter in this section referred to as a “regional center”) in each of the 10 regions served by a Department of Energy regional support office.
+Not later than 18 months after October 24, 1992, the Secretary shall make grants to nonprofit institutions, or to consortiums that may include nonprofit institutions, State and local governments, universities, and utilities, to establish or enhance one regional building energy efficiency center (hereafter in this section referred to as a "regional center") in each of the 10 regions served by a Department of Energy regional support office.
 
 #### (c) Permitted activities
 
@@ -48,7 +48,7 @@ The Secretary shall select recipients of grants under this section on the basis 
 
 #### (1) Federal share
 
-&emsp;The Federal share of a grant under this section shall be no more than 50 percent of the costs of establishing, and no more than 25 percent of the cost of operating the regional center.
+&emsp;The Federal share of a grant under this section shall be no more than 50 percent of thecosts of establishing, and no more than 25 percent of the cost of operating the regional center.
 
 #### (2) Non-Federal contributions
 
@@ -128,5 +128,5 @@ Subsec. (i) of this section, which required the Secretary to transmit annually t
 
 Section was enacted as part of title I of the Energy Policy Act, and not as part of title XXI of that Act which comprises this subchapter.
 
-<i><sup>1</sup></i><i> So in original. The word “from” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "from" probably should not appear.</i>
 

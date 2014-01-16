@@ -130,7 +130,7 @@ Rule for computation.—Computation of a member's retired pay for purposes of th
 
 &emsp;(5)
 
-Rule for designation of new insurable interest beneficiary following death of original beneficiary.—The Secretary of Defense shall prescribe in regulations premiums which a participant making an election under section 1448(b)(1)(G) of this title shall be required to pay for participating in the Plan pursuant to that election. The total amount of the premiums to be paid by a participant under the regulations shall be equal to the sum of the following:
+Rule for designation of new insurable interest beneficiary following death of original beneficiary.—The Secretary of Defense shall prescribe in regulations premiumswhich a participant making an election under section 1448(b)(1)(G) of this title shall be required to pay for participating in the Plan pursuant to that election. The total amount of the premiums to be paid by a participant under the regulations shall be equal to the sum of the following:
 
 &emsp;&emsp;(A) The total additional amount by which the retired pay of the participant would have been reduced before the effective date of the election if the original beneficiary (i) had not died and had been covered under the Plan through the date of the election, and (ii) had been the same number of years younger than the participant (if any) as the new beneficiary designated under the election.
 
@@ -216,7 +216,7 @@ Resumption of participation in plan.—
 
 &emsp;&emsp;(A)
 
-Conditions for resumption.—A person described in paragraph (1) who discontinued participation in the Plan may elect to participate again in the Plan if—
+Conditions for resumption.—A person described in paragraph (1) who discontinuedparticipation in the Plan may elect to participate again in the Plan if—
 
 &emsp;&emsp;&emsp;(i) after having discontinued participation in the Plan the Secretary of Veterans Affairs reduces that person's service-connected disability rating to a rating of less than total; and
 
@@ -264,7 +264,7 @@ Years and Age 70.—Effective October 1, 2008, no reduction may be made under th
 
 &emsp;(2) the month during which the participant attains 70 years of age.
 
-(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 710; amended Pub. L. 94–496, §1(4), (5), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §205, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–402, §4, Oct. 9, 1980, 94 Stat. 1706; Pub. L. 97–22, §11(a)(3), (5), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, titleVII, §§714(a), 719(7), (8), 723(b)(2), Nov. 8, 1985, 99 Stat. 672, 675–677; Pub. L. 99–348, title III, §301(a)(3), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(E), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–224, §3(b), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 101–189, div. A, title XIV, §§1402(a)–(c), 1407(a)(9), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1577, 1578, 1589, 1602; Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C)(ii), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title VI, §637(a), Oct. 5, 1994, 108 Stat. 2790; Pub. L. 104–201, div. A, title VI, §§634, 635(a), Sept. 23, 1996, 110 Stat. 2572, 2579; Pub. L. 105–85, div. A, title X, §1073(a)(29), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §641, Oct. 17, 1998, 112 Stat. 2045; Pub. L. 106–65, div. A, title VI, §643(a)(2), Oct. 5, 1999, 113 Stat. 663; Pub. L. 109–364, div. A, title VI, §643(b), Oct. 17, 2006, 120 Stat. 2260; Pub. L. 112–239, div. A, title VI, §641(a), Jan. 2, 2013, 126 Stat. 1782.)
+(Added Pub. L. 92–425, §1(3), Sept. 21, 1972, 86 Stat. 710; amended Pub. L. 94–496, §1(4), (5), Oct. 14, 1976, 90 Stat. 2375; Pub. L. 95–397, title II, §205, Sept. 30, 1978, 92 Stat. 847; Pub. L. 96–402, §4, Oct. 9, 1980, 94 Stat. 1706; Pub. L. 97–22, §11(a)(3), (5), July 10, 1981, 95 Stat. 137; Pub. L. 99–145, title VII, §§714(a), 719(7), (8), 723(b)(2), Nov. 8, 1985, 99 Stat. 672, 675–677; Pub. L. 99–348, title III, §301(a)(3), July 1, 1986, 100 Stat. 702; Pub. L. 99–661, div. A, title XIII, §1343(a)(8)(E), Nov. 14, 1986, 100 Stat. 3992; Pub. L. 100–224, §3(b), Dec. 30, 1987, 101 Stat. 1537; Pub. L. 101–189, div. A, title XIV, §§1402(a)–(c), 1407(a)(9), title XVI, §1621(a)(1), Nov. 29, 1989, 103 Stat. 1577, 1578, 1589, 1602; Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C)(ii), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 103–337, div. A, title VI, §637(a), Oct. 5, 1994, 108 Stat. 2790; Pub. L. 104–201, div. A, title VI, §§634, 635(a), Sept. 23, 1996, 110 Stat. 2572, 2579; Pub. L. 105–85, div. A, title X, §1073(a)(29), Nov. 18, 1997, 111 Stat. 1901; Pub. L. 105–261, div. A, title VI, §641, Oct. 17, 1998, 112 Stat. 2045; Pub. L. 106–65, div. A, title VI, §643(a)(2), Oct. 5, 1999, 113 Stat. 663; Pub. L. 109–364, div. A, title VI, §643(b), Oct. 17, 2006, 120 Stat. 2260; Pub. L. 112–239, div. A, title VI, §641(a), Jan. 2, 2013, 126 Stat. 1782.)
 
 #### References in Text
 
@@ -272,87 +272,87 @@ Section 631(b) of Public Law 104–106 (110 Stat. 364), referred to in subsec. (
 
 #### Amendments
 
-<b>2013</b>—Subsec. (e). Pub. L. 112–239 inserted in heading “and FERS” after “CSRS” and inserted in text “or chapter 84 of such title” after “chapter 83 of title 5”, “or 8416(a)” after “8339(j)”, and “or 8442(a)” after “8341(b)”.
+<b>2013</b>—Subsec. (e). Pub. L. 112–239 inserted in heading "and FERS" after "CSRS" and inserted in text "or chapter 84 of such title" after "chapter 83 of title 5", "or 8416(a)" after "8339(j)", and "or 8442(a)" after "8341(b)".
 
 <b>2006</b>—Subsec. (c)(5). Pub. L. 109–364 added par. (5).
 
-<b>1999</b>—Subsec. (i). Pub. L. 106–65 substituted “Whenever the retired pay” for “When the retired pay”.
+<b>1999</b>—Subsec. (i). Pub. L. 106–65 substituted "Whenever the retired pay" for "When the retired pay".
 
 <b>1998</b>—Subsec. (j). Pub. L. 105–261 added subsec. (j).
 
-<b>1997</b>—Subsec. (a)(1)(A). Pub. L. 105–85, §1073(a)(29)(A), substituted “provided” for “providing” in introductory provisions.
+<b>1997</b>—Subsec. (a)(1)(A). Pub. L. 105–85, §1073(a)(29)(A), substituted "provided" for "providing" in introductory provisions.
 
-Subsec. (e). Pub. L. 105–85, §1073(a)(29)(B), substituted “section 8339(j)” for “section 8339(i)” and “section 8341(b)” for “section 8331(b)”.
+Subsec. (e). Pub. L. 105–85, §1073(a)(29)(B), substituted "section 8339(j)" for "section 8339(i)" and "section 8341(b)" for "section 8331(b)".
 
 <b>1996</b>—Pub. L. 104–201, §634, amended section generally, revising and restating provisions relating to reductions in retired pay.
 
 Subsec. (h)(2). Pub. L. 104–201, §635(a), added par. (2).
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–337 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The retired pay of a person to whom section 1448 of this title applies who has a dependent child but does not have an eligible spouse or former spouse, or who has a spouse or former spouse but has elected to provide an annuity for dependent children only, shall, as long as he has an eligible dependent child, be reduced by an amount prescribed under regulations of the Secretary of Defense.”
+<b>1994</b>—Subsec. (b). Pub. L. 103–337 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The retired pay of a person to whom section 1448 of this title applies who has a dependent child but does not have an eligible spouse or former spouse, or who has a spouse or former spouse but has elected to provide an annuity for dependent children only, shall, as long as he has an eligible dependent child, be reduced by an amount prescribed under regulations of the Secretary of Defense."
 
 <b>1990</b>—Subsec. (h). Pub. L. 101–510 made clarifying amendment to directory language of Pub. L. 101–189, §1407(a)(9), see 1989 Amendment note below.
 
 <b>1989</b>—Subsec. (a). Pub. L. 101–189, §1402(a), inserted heading.
 
-Subsec. (a)(1). Pub. L. 101–189, §1402(a), added par. (1) and struck out former par. (1) which read as follows: “Except as provided in subsection (b), the retired pay of a person to whom section 1448 of this title applies who has a spouse or former spouse, or who has a spouse or former spouse and a dependent child, and who has not elected to provide an annuity to a person designated by him under section 1450(a)(4) of this title, or who had elected to provide such an annuity to such a person but has changed his election in favor of his spouse under section 1450(f) of this title, shall be reduced each month—
+Subsec. (a)(1). Pub. L. 101–189, §1402(a), added par. (1) and struck out former par. (1) which read as follows: "Except as provided in subsection (b), the retired pay of a person to whom section 1448 of this title applies who has a spouse or former spouse, or who has a spouse or former spouse and a dependent child, and who has not elected to provide an annuity to a person designated by him under section 1450(a)(4) of this title, or who had elected to provide such an annuity to such a person but has changed his election in favor of his spouse under section 1450(f) of this title, shall be reduced each month—
 
-&emsp;“(A) by an amount equal to 2½ percent of the first $300 (as adjusted from time to time under paragraph (4)) of the base amount plus 10 percent of the remainder of the base amount, if the person is providing a standard annuity; or
+&emsp;"(A) by an amount equal to 2½ percent of the first $300 (as adjusted from time to time under paragraph (4)) of the base amount plus 10 percent of the remainder of the base amount, if the person is providing a standard annuity; or
 
-&emsp;“(B) by an amount prescribed under regulations of the Secretary of Defense, if the person is providing a reserve-component annuity.”
+&emsp;"(B) by an amount prescribed under regulations of the Secretary of Defense, if the person is providing a reserve-component annuity."
 
-Subsec. (a)(4)(A), (B). Pub. L. 101–189, §1402(c), substituted “amounts under paragraph (1)” for “amount under paragraph (1)(A)”.
+Subsec. (a)(4)(A), (B). Pub. L. 101–189, §1402(c), substituted "amounts under paragraph (1)" for "amount under paragraph (1)(A)".
 
 Subsec. (a)(5). Pub. L. 101–189, §1402(b), added par. (5).
 
-Subsec. (g)(1), (5). Pub. L. 101–189, §1621(a)(1), substituted “Department of Veterans Affairs” for “Veterans’ Administration”.
+Subsec. (g)(1), (5). Pub. L. 101–189, §1621(a)(1), substituted "Department of Veterans Affairs" for "Veterans' Administration".
 
-Subsec. (h). Pub. L. 101–189, §1407(a)(9), as amended by Pub. L. 101–510, inserted “(or any other provision of law)” after “Whenever retired pay is increased under section 1401a of this title” and substituted “such retired pay is so increased” for “such retired pay is increased under section 1401a of this title”.
+Subsec. (h). Pub. L. 101–189, §1407(a)(9), as amended by Pub. L. 101–510, inserted "(or any other provision of law)" after "Whenever retired pay is increased under section 1401a of this title" and substituted "such retired pay is so increased" for "such retired pay is increased under section 1401a of this title".
 
 <b>1987</b>—Subsec. (i). Pub. L. 100–224 added subsec. (i).
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–348 inserted provision that computation of a member's retired pay for purposes of this subsection be made without regard to any reduction under section 1409(b)(2) of this title.
 
-Subsec. (h). Pub. L. 99–661 struck out “and retainer” after “Whenever retired”.
+Subsec. (h). Pub. L. 99–661 struck out "and retainer" after "Whenever retired".
 
-<b>1985</b>—Pub. L. 99–145, §719(8)(B), struck out “or retainer” after “retired” in section catchline.
+<b>1985</b>—Pub. L. 99–145, §719(8)(B), struck out "or retainer" after "retired" in section catchline.
 
-Subsec. (a)(1). Pub. L. 99–145, §714(a)(1), (2), designated existing first sentence of subsec. (a) as par. (1); redesignated cl. (1) as (A), inserting “(as adjusted from time to time under paragraph (4))” after “$300” and substituting “a standard annuity” for “an annuity by virtue of eligibility under section 1448(a)(1)(A) of this title”; and redesignated cl. (2) as (B), substituting “a reserve-component annuity” for “an annuity by virtue of eligibility under section 1448(a)(1)(B)”.
+Subsec. (a)(1). Pub. L. 99–145, §714(a)(1), (2), designated existing first sentence of subsec. (a) as par. (1); redesignated cl. (1) as (A), inserting "(as adjusted from time to time under paragraph (4))" after "$300" and substituting "a standard annuity" for "an annuity by virtue of eligibility under section 1448(a)(1)(A) of this title"; and redesignated cl. (2) as (B), substituting "a reserve-component annuity" for "an annuity by virtue of eligibility under section 1448(a)(1)(B)".
 
-Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retired or retainer pay”.
+Pub. L. 99–145, §719(8)(A), substituted "retired pay" for "retired or retainer pay".
 
-Pub. L. 99–145, §723(b)(2)(1), inserted “or former spouse” after first two references to “spouse”.
+Pub. L. 99–145, §723(b)(2)(1), inserted "or former spouse" after first two references to "spouse".
 
-Subsec. (a)(2). Pub. L. 99–145, §714(a)(3), designated existing second sentence of subsec. (a) as par. (2), and substituted “If there is a dependent child as well as a spouse or former spouse, the amount prescribed under paragraph (1)” for “As long as there is an eligible spouse and a dependent child, that amount”.
+Subsec. (a)(2). Pub. L. 99–145, §714(a)(3), designated existing second sentence of subsec. (a) as par. (2), and substituted "If there is a dependent child as well as a spouse or former spouse, the amount prescribed under paragraph (1)" for "As long as there is an eligible spouse and a dependent child, that amount".
 
-Subsec. (a)(3). Pub. L. 99–145, §714(a)(4), designated existing third sentence of subsec. (a) as par. (3), substituted “paragraph (1)” for “the first sentence of this subsection”, and inserted “or former spouse” after “eligible spouse”.
+Subsec. (a)(3). Pub. L. 99–145, §714(a)(4), designated existing third sentence of subsec. (a) as par. (3), substituted "paragraph (1)" for "the first sentence of this subsection", and inserted "or former spouse" after "eligible spouse".
 
-Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retired or retainer pay”.
+Pub. L. 99–145, §719(8)(A), substituted "retired pay" for "retired or retainer pay".
 
 Subsec. (a)(4). Pub. L. 99–145, §714(a)(5), added par. (4).
 
-Subsec. (b). Pub. L. 99–145, §723(b)(2)(2), inserted “or former spouse” after “spouse” in two places.
+Subsec. (b). Pub. L. 99–145, §723(b)(2)(2), inserted "or former spouse" after "spouse" in two places.
 
-Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retired or retainer pay”.
+Pub. L. 99–145, §719(8)(A), substituted "retired pay" for "retired or retainer pay".
 
-Subsec. (c). Pub. L. 99–145, §719(7), (8)(A), substituted “retired pay” for “retired or retainer pay” in three places, and substituted “a standard annuity” for “the annuity by virtue of eligibility under section 1448(a)(1)(A) of this title” in cl. (1), “a reserve-component annuity” for “the annuity by virtue of eligibility under section 1448(a)(1)(B) of this title” in cl. (2), and “this subsection” for “this section” in third sentence.
+Subsec. (c). Pub. L. 99–145, §719(7), (8)(A), substituted "retired pay" for "retired or retainer pay" in three places, and substituted "a standard annuity" for "the annuity by virtue of eligibility under section 1448(a)(1)(A) of this title" in cl. (1), "a reserve-component annuity" for "the annuity by virtue of eligibility under section 1448(a)(1)(B) of this title" in cl. (2), and "this subsection" for "this section" in third sentence.
 
-Subsecs. (d) to (h). Pub. L. 99–145, §719(8)(A), substituted “retired pay” for “retired or retainer pay” wherever appearing.
+Subsecs. (d) to (h). Pub. L. 99–145, §719(8)(A), substituted "retired pay" for "retired or retainer pay" wherever appearing.
 
-<b>1981</b>—Subsec. (e). Pub. L. 97–22, §11(a)(3), substituted “Office of Personnel Management” for “Civil Service Commission”.
+<b>1981</b>—Subsec. (e). Pub. L. 97–22, §11(a)(3), substituted "Office of Personnel Management" for "Civil Service Commission".
 
-Subsec. (g)(4). Pub. L. 97–22, §11(a)(5), substituted “this section” for “section 1452 of this title”.
+Subsec. (g)(4). Pub. L. 97–22, §11(a)(5), substituted "this section" for "section 1452 of this title".
 
 <b>1980</b>—Subsecs. (g), (h). Pub. L. 96–402, added subsecs. (g) and (h).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–397, §205(a), substituted pars. (1) and (2) for “by an amount equal to 2½ percent of the first $300 of the base amount plus 10 percent ofthe remainder of the base amount” after “shall be reduced each month”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–397, §205(a), substituted pars. (1) and (2) for "by an amount equal to 2½ percent of the first $300 of the base amount plus 10 percent of the remainder of the base amount" after "shall be reduced each month".
 
-Subsec. (c). Pub. L. 95–397, §205(b), substituted pars. (1) and (2) for “by 10 percent plus 5 percent for each full 5 years the individual designated is younger than that person. However, the total reduction may not exceed 40 percent. The reduction in retired or retainer pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person receiving retired or retainer pay changes his election under section 1450(f)”, and inserted provision following par. (2) that the total reduction under clause (1) may not exceed 40 percent, and that the reduction in retired or retainer pay shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person changes his election under section 1450(f) of this title.
+Subsec. (c). Pub. L. 95–397, §205(b), substituted pars. (1) and (2) for "by 10 percent plus 5 percent for each full 5 years the individual designated is younger than that person. However, the total reduction may not exceed 40 percent. The reduction in retired or retainer pay prescribed by this subsection shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person receiving retired or retainer pay changes his election under section 1450(f)", and inserted provision following par. (2) that the total reduction under clause (1) may not exceed 40 percent, and that the reduction in retired or retainer pay shall continue during the lifetime of the person designated under section 1450(a)(4) of this title or until the person changes his election under section 1450(f) of this title.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–496, §1(4), (5)(A), substituted “Except as provided in subsection (b), the retired or retainer pay” for “The retired or retainer pay”, “(a)(4)” for “(a)(3)”, and inserted provision prohibiting a reduction in retired or retainer pay during any month in which there is no eligible spouse beneficiary.
+<b>1976</b>—Subsec. (a). Pub. L. 94–496, §1(4), (5)(A), substituted "Except as provided in subsection (b), the retired or retainer pay" for "The retired or retainer pay", "(a)(4)" for "(a)(3)", and inserted provision prohibiting a reduction in retired or retainer pay during any month in which there is no eligible spouse beneficiary.
 
-Subsec. (b). Pub. L. 94–496, §1(5)(B), inserted “or who has a spouse but has elected to provide an annuity for dependent children only,” after “spouse,”.
+Subsec. (b). Pub. L. 94–496, §1(5)(B), inserted "or who has a spouse but has elected to provide an annuity for dependent children only," after "spouse,".
 
-Subsec. (c). Pub. L. 94–496, §1(4), (5)(C), substituted “(a)(4)” for “(a)(3)”, and inserted provision directing that reduction in retired or retainer pay continue during the lifetime of a beneficiary designated under section 1450(a)(4) of this title or until such person change his election pursuant to section 1450(f) of this title.
+Subsec. (c). Pub. L. 94–496, §1(4), (5)(C), substituted "(a)(4)" for "(a)(3)", and inserted provision directing that reduction in retired or retainer pay continue during the lifetime of a beneficiary designated under section 1450(a)(4) of this title or until such person change his election pursuant to section 1450(f) of this title.
 
 #### Effective Date of 2013 Amendment
 
@@ -364,15 +364,15 @@ Amendment by Pub. L. 106–65 effective Oct. 1, 1999, see section 644 of Pub. L.
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–201, div. A, title VI, §635(b), Sept. 23, 1996, 110 Stat. 2579, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to retired pay payable for months beginning on or after the date of the enactment of this Act \[Sept. 23, 1996\].”
+Pub. L. 104–201, div. A, title VI, §635(b), Sept. 23, 1996, 110 Stat. 2579, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to retired pay payable for months beginning on or after the date of the enactment of this Act \[Sept. 23, 1996\]."
 
 #### Effective Date of 1994 Amendment
 
 Pub. L. 103–337, div. A, title VI, §637(b), Oct. 5, 1994, 108 Stat. 2790, provided that:
 
-“(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] applies to any election for child-only coverage under a reserve-component annuity under the Survivor Benefit Plan, whether made before, on, or after the date of the enactment of this Act \[Oct. 5, 1994\].
+"(1) Except as provided in paragraph (2), the amendment made by subsection (a) \[amending this section\] applies to any election for child-only coverage under a reserve-component annuity under the Survivor Benefit Plan, whether made before, on, or after the date of the enactment of this Act \[Oct. 5, 1994\].
 
-“(2) Paragraph (1) does not apply in a case of an election referred to in that paragraph that was made before the date of the enactment of this Act if the participant was informed, in writing, before the date of the enactment of this Act that no reduction in the participant's retired pay for child-only coverage would be made during a period when there was no eligible dependent child.”
+"(2) Paragraph (1) does not apply in a case of an election referred to in that paragraph that was made before the date of the enactment of this Act if the participant was informed, in writing, before the date of the enactment of this Act that no reduction in the participant's retired pay for child-only coverage would be made during a period when there was no eligible dependent child."
 
 #### Effective Date of 1990 Amendment
 
@@ -380,7 +380,7 @@ Pub. L. 101–510, div. A, title XIV, §1484(l)(4)(C), Nov. 5, 1990, 104 Stat. 1
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–145, title VII, §714(b), Nov. 8, 1985, 99 Stat. 673, provided that: “The amendments made by clause (5) of subsection (a) \[amending this section\] shall apply only with respect to persons who first participate in the Plan on or after the effective date of this title \[see note below\].”
+Pub. L. 99–145, title VII, §714(b), Nov. 8, 1985, 99 Stat. 673, provided that: "The amendments made by clause (5) of subsection (a) \[amending this section\] shall apply only with respect to persons who first participate in the Plan on or after the effective date of this title \[see note below\]."
 
 Amendment by title VII of Pub. L. 99–145 effective Mar. 1, 1986, except as otherwise provided, with prohibition against accrual of benefits to any person by reason of the enactment of such title VII for any period before Mar. 1, 1986, see section 731 of Pub. L. 99–145, set out as a note under section 1447 of this title.
 
@@ -402,25 +402,25 @@ Amendment by Pub. L. 94–496 effective Sept. 11, 1972, see section 3 of Pub. L.
 
 Pub. L. 101–189, div. A, title XIV, §1402(d), Nov. 29, 1989, 103 Stat. 1578, provided that:
 
-“(1)
+"(1)
 
 Recomputation.—The Secretary concerned shall recompute the SBP premium of persons described in paragraph (2). Any such recomputation shall take effect on March 1, 1990.
 
-“(2)
+"(2)
 
 Persons covered.—A person referred to in paragraph (1) as described in this paragraph is a person who on March 1, 1990—
 
-&emsp;“(A) is entitled to retired pay;
+&emsp;"(A) is entitled to retired pay;
 
-&emsp;“(B) is providing spouse coverage (as described in paragraph (5) of section 1452\[(a)\] of title 10, United States Code, as added by subsection (b)); and
+&emsp;"(B) is providing spouse coverage (as described in paragraph (5) of section 1452\[(a)\] of title 10, United States Code, as added by subsection (b)); and
 
-&emsp;“(C) is subject to an SBP premium in excess of 6½ percent of the base amount of that person under the Survivor Benefit Plan.
+&emsp;"(C) is subject to an SBP premium in excess of 6½ percent of the base amount of that person under the Survivor Benefit Plan.
 
-“(3)
+"(3)
 
 Amount of recomputed premium.—The amount of an SBP premium recomputed under this subsection shall be 6½ percent of the base amount under the Survivor Benefit Plan of the person whose premium is recomputed.
 
-“(4)
+"(4)
 
-SBP premium defined.—For purposes of this subsection, the term ‘SBP premium’ means a reduction in retired pay under section 1452 of title 10, United States Code.”
+SBP premium defined.—For purposes of this subsection, the term 'SBP premium' means a reduction in retired pay under section 1452 of title 10, United States Code."
 

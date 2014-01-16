@@ -40,15 +40,15 @@ In applying subsection (a) for the purpose of determining the accumulated earnin
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1812(a)(1), substituted “did not reduce the amount of tax imposed by this chapter” for “did not reduce income subject to tax”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §1812(a)(1), substituted "did not reduce the amount of tax imposed by this chapter" for "did not reduce income subject to tax".
 
-Subsec. (c). Pub. L. 99–514, §1812(a)(2), substituted “reducing tax imposed by this chapter” for “reducing income subject to tax or reducing tax imposed by this chapter, as the case may be”.
+Subsec. (c). Pub. L. 99–514, §1812(a)(2), substituted "reducing tax imposed by this chapter" for "reducing income subject to tax or reducing tax imposed by this chapter, as the case may be".
 
 <b>1984</b>—Pub. L. 98–369 amended section generally, substituting provisions relating to recovery of tax benefit items for provisions relating to recovery of bad debts, prior taxes, and delinquency amounts.
 
 <b>1980</b>—Subsec. (d). Pub. L. 96–589 added subsec. (d).
 
-<b>1976</b>—Subsec. (b)(4). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b)(4). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 1986 Amendment
 
@@ -56,7 +56,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §171(c), July 18, 1984, 98 Stat. 699, provided that: “The amendments made by this section \[amending this section\] shall apply to amounts recovered after December 31, 1983, in taxable years ending after such date.”
+Pub. L. 98–369, div. A, title I, §171(c), July 18, 1984, 98 Stat. 699, provided that: "The amendments made by this section \[amending this section\] shall apply to amounts recovered after December 31, 1983, in taxable years ending after such date."
 
 #### Effective Date of 1980 Amendment
 

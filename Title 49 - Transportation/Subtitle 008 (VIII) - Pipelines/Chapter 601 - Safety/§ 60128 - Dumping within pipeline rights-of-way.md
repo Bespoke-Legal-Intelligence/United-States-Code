@@ -6,7 +6,7 @@ Prohibition.—No person shall excavate for the purpose of unauthorized disposal
 
 (b)
 
-Definition.—For purposes of this section, the term “solid waste” has the meaning given that term in section 1004(27) of the Solid Waste Disposal Act (42 U.S.C. 6903(27)).
+Definition.—For purposes of this section, the term "solid waste" has the meaning given that term in section 1004(27) of the Solid Waste Disposal Act (42 U.S.C. 6903(27)).
 
 (Added Pub. L. 104–304, §18(a), Oct. 12, 1996, 110 Stat. 3804.)
 

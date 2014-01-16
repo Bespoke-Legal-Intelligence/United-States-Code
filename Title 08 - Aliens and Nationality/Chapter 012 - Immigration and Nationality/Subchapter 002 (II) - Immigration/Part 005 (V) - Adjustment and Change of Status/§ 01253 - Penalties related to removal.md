@@ -22,7 +22,7 @@
 
 #### (3) Suspension
 
-&emsp;The court may for good cause suspend the sentence of an alien under this subsection and order the alien's release under such conditions as the court may prescribe. In determining whether good cause has been shown to justifyreleasing the alien, the court shall take into account such factors as—
+&emsp;The court may for good cause suspend the sentence of an alien under this subsection and order the alien's release under such conditions as the court may prescribe. In determining whether good cause has been shown to justify releasing the alien, the court shall take into account such factors as—
 
 &emsp;&emsp;(A) the age, health, and period of detention of the alien;
 
@@ -98,7 +98,7 @@ Subsec. (h)(2). Pub. L. 101–649, §515(a)(2), inserted sentence at end relatin
 
 #### Effective Date of 1996 Amendments
 
-Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30,1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Pub. L. 104–132, title IV, §413(g), Apr. 24, 1996, 110 Stat. 1269, provided that: “The amendments made by this section \[amending this section and sections 1254, 1255, and 1259 of this title\] shall take effect on the date of the enactment of this Act \[Apr. 24, 1996\] and shall apply to applications filed before, on, or after such date if final action has not been taken on them before such date.”
 

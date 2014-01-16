@@ -1,6 +1,6 @@
 ### §1397c. State reporting requirements
 
-Prior to expenditure by a State of payments made to it under section 1397a of this title for any fiscal year, the State shall report on the intended use of the payments the State is to receive under this division, including information on the types of activities to be supported andthe categories or characteristics of individuals to be served. The report shall be transmitted to the Secretary and made public within the State in such manner as to facilitate comment by any person (including any Federal or other public agency) during development of the report and after its completion. The report shall be revised throughout the year as may be necessary to reflect substantial changes in the activities assisted under this division, and any revision shall be subject to the requirements of the previous sentence.
+Prior to expenditure by a State of payments made to it under section 1397a of this title for any fiscal year, the State shall report on the intended use of the payments the State is to receive under this division, including information on the types of activities to be supported and the categories or characteristics of individuals to be served. The report shall be transmitted to the Secretary and made public within the State in such manner as to facilitate comment by any person (including any Federal or other public agency) during development of the report and after its completion. The report shall be revised throughout the year as may be necessary to reflect substantial changes in the activities assisted under this division, and any revision shall be subject to the requirements of the previous sentence.
 
 (Aug. 14, 1935, ch. 531, title XX, §2004, as added Pub. L. 97–35, title XXIII, §2352(a), Aug. 13, 1981, 95 Stat. 869; amended Pub. L. 111–148, title VI, §6703(d)(1)(B), Mar. 23, 2010, 124 Stat. 803.)
 
@@ -10,5 +10,5 @@ A prior section 1397c, act Aug. 14, 1935, ch. 531, title XX, §2004, as added Ja
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148, which directed substitution of “this division” for “this subchapter” wherever appearing in subtitle 1 of title XX of act Aug. 14, 1935, was executed by making the substitution in two places in this section, which is in subtitle A of title XX act Aug. 14, 1935, to reflect the probable intent of Congress.
+<b>2010</b>—Pub. L. 111–148, which directed substitution of "this division" for "this subchapter" wherever appearing in subtitle 1 of title XX of act Aug. 14, 1935, was executed by making the substitution in two places in this section, which is in subtitle A of title XX act Aug. 14, 1935, to reflect the probable intent of Congress.
 

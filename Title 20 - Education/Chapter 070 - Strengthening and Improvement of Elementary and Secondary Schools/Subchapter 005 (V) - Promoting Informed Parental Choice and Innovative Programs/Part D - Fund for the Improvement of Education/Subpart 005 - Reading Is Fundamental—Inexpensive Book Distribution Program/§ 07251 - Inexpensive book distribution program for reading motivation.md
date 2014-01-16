@@ -6,7 +6,7 @@ The purpose of this subpart is to establish and implement a model partnership be
 
 #### (b) Authorization
 
-The Secretary is authorized to enter into a contract with Reading Is Fundamental (RIF)\(hereafter in this section referred to as the “contractor”) to support and promote programs, which include the distribution of inexpensive books to young and school-age children, that motivate children to read.
+The Secretary is authorized to enter into a contract with Reading Is Fundamental (RIF) (hereafter in this section referred to as the "contractor") to support and promote programs, which include the distribution of inexpensive books to young and school-age children, that motivate children to read.
 
 #### (c) Requirements of contract
 
@@ -44,7 +44,7 @@ Any contract entered into under subsection (b) of this section shall contain eac
 
 #### (d) Restriction on payments
 
-The Secretary shall make no payment of the Federal share of the cost of acquiring and distributing books under any contract under this section unless the Secretary determines that the contractor or subcontractor, as the case may be, has made arrangements with book publishers or distributors to obtain books at discounts at least as favorable as discounts that are customarily given by such publisher or distributor for book purchases made under similar circumstances in the absence of Federal assistance.
+The Secretary shall make no payment of the Federal share of the cost of acquiring and distributing books under any contract under this section unless the Secretary determines that the contractor or subcontractor, as the casemay be, has made arrangements with book publishers or distributors to obtain books at discounts at least as favorable as discounts that are customarily given by such publisher or distributor for book purchases made under similar circumstances in the absence of Federal assistance.
 
 #### (e) Special rules for certain subcontractors
 
@@ -66,9 +66,9 @@ The contractor may enter into a multi-year subcontract under this section, if—
 
 #### (g) Federal share defined
 
-In this section, the term “Federal share” means, with respect to the cost to a subcontractor of purchasing books to be paid for under this section, 75 percent of such costs to the subcontractor, except that the Federal share for programs serving children of migrant or seasonal farmworkers shall be 100 percent of such costs to the subcontractor.
+In this section, the term "Federal share" means, with respect to the cost to a subcontractor of purchasing books to be paid for under this section, 75 percent of such costs to the subcontractor, except that the Federal share for programs serving children of migrant or seasonal farmworkers shall be 100 percent of such costs to the subcontractor.
 
 (Pub. L. 89–10, title V, §5451, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1824.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(G) Children”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(G) Children".</i>
 

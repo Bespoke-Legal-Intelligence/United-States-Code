@@ -22,11 +22,11 @@
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(2). Pub. L. 112–29 struck out “of this title” after “29”.
+<b>2011</b>—Subsec. (a)(2). Pub. L. 112–29 struck out "of this title" after "29".
 
-<b>2000</b>—Subsec. (a)(2). Pub. L. 106–404, §6(2)(A), substituted “inventions” for “patent applications, patents, or other forms of protection obtained”.
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–404, §6(2)(A), substituted "inventions" for "patent applications, patents, or other forms of protection obtained".
 
-Subsec. (a)(3). Pub. L. 106–404, §6(2)(B), inserted “, including acquiring rights for and administering royalties to the Federal Government in any invention, but only to the extent the party from whom the rights are acquired voluntarily enters into the transaction, to facilitate the licensing of a federally owned invention” after “or through contract”.
+Subsec. (a)(3). Pub. L. 106–404, §6(2)(B), inserted ", including acquiring rights for and administering royalties to the Federal Government in any invention, but only to the extent the party from whom the rights are acquired voluntarily enters into the transaction, to facilitate the licensing of a federally owned invention" after "or through contract".
 
 <b>1984</b>—Pub. L. 98–620 designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -52,7 +52,7 @@ Ex. Ord. No. 9865, June 14, 1947, 12 F.R. 3907, as amended by Ex. Ord. No. 10096
 
 1\. All Government departments and agencies shall, whenever practicable, acquire the right to file foreign patent applications on inventions resulting from research conducted or financed by the Government.
 
-2\. All Government departments and agencies which have or may hereafter acquire title to inventions or the right to file patent applications abroad thereon, shall fully and continuously inform the Chairman of Government Patents Board \[now Secretary of Commerce. See Ex. Ord. No. 10930 set out as a note below\] concerning such inventions, except as provided in section 6 hereof, and shall make recommendations to the Chairman of Government Patents Board as to which of such inventions should receive patent protection by the United States abroad and the foreign jurisdictions in which such patent protection should be sought. The recommendations of such departments and agencies shall indicate the immediate or future industrial, commercial or other value of the invention concerned, including its value to public health.
+2\. All Government departments and agencies which have or may hereafter acquire title to inventions or theright to file patent applications abroad thereon, shall fully and continuously inform the Chairman of Government Patents Board \[now Secretary of Commerce. See Ex. Ord. No. 10930 set out as a note below\] concerning such inventions, except as provided in section 6 hereof, and shall make recommendations to the Chairman of Government Patents Board as to which of such inventions should receive patent protection by the United States abroad and the foreign jurisdictions in which such patent protection should be sought. The recommendations of such departments and agencies shall indicate the immediate or future industrial, commercial or other value of the invention concerned, including its value to public health.
 
 3\. The Chairman of Government Patents Board shall determine whether, and in what foreign jurisdictions, the United States should seek patents for such inventions, and, to the extent of appropriations available therefor, shall procure patent protection for such inventions, taking all action, consistent with existing law, necessary to acquire and maintain patent rights abroad. Such determinations of the said Department shall be made after full consultation with United States industry and commerce, with the Department of State, and with other Government agencies familiar with the technical, scientific, industrial, commercial or other economic or social factors affecting the invention involved, and after consideration of the availability of valid patent protection in the countries determined to be immediate or potential markets for, or producers of, products, processes, or services covered by or relating to the invention.
 
@@ -82,7 +82,7 @@ NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and 
 
 (e) Actions taken, and rights acquired, under the foregoing provisions of this section, shall be reported to the Chairman in accordance with procedures established by him.
 
-2\. Subject to considerations of national security, or public health, safety, or welfare, the following basic policy is established for the collection, and dissemination to the public, of information concerning inventions resulting from Government research and development activities:
+2\. Subject to considerations of national security, or public health, safety, or welfare, the following basicpolicy is established for the collection, and dissemination to the public, of information concerning inventions resulting from Government research and development activities:
 
 (a) When an invention is made under circumstances defined in paragraph 1(a) of this order giving the United States the right to title thereto, the Government agency concerned shall either prepare and file an application for patent therefor in the United States Patent Office \[now Patent and Trademark Office\] or make a full disclosure of the invention promptly to the Chairman, who may, if he determines the Government interest so requires, cause application for patent to be filed or cause the invention to be fully disclosed by publication thereof: <i>Provided, however</i>, That, consistent with present practice of the Department of Agriculture, no application for patent shall, without the approval of the Secretary of Agriculture, be filed in respect of any variety of plant invented by any employee of that Department.
 
@@ -116,15 +116,15 @@ NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and 
 
 7\. As used in this Executive order, the next stated terms, in singular and plural, are defined as follows for the purposes hereof:
 
-(a) “Government agency” includes any executive department and any independent commission, board, office, agency, authority, or other establishment of the Executive Branch of the Government of the United States (including any such independent regulatory commission or board, any such wholly-owned corporation, and the Smithsonian Institution), but excludes the Atomic Energy Commission.
+(a) "Government agency" includes any executive department and any independent commission, board, office, agency, authority, or other establishment of the Executive Branch of the Government of the United States (including any such independent regulatory commission or board, any such wholly-owned corporation, and the Smithsonian Institution), but excludes the Atomic Energy Commission.
 
-(b) “Government employee” includes any officer or employee, civilian or military, of any Government agency, except such part-time consultants or employees as may be excluded by regulations promulgated pursuant to paragraph 4(b) hereof.
+(b) "Government employee" includes any officer or employee, civilian or military, of any Government agency, except such part-time consultants or employees as may be excluded by regulations promulgated pursuant to paragraph 4(b) hereof.
 
-(c) “Invention” includes any art, machine, manufacture, design, or composition of matter, or any new and useful improvement thereof, or any variety of plant, which is or may be patentable under the patent laws of the United States.
+(c) "Invention" includes any art, machine, manufacture, design, or composition of matter, or any new and useful improvement thereof, or any variety of plant, which is or may be patentable under the patent laws of the United States.
 
 #### Ex. Ord. No. 10695. Transfer of Records to Department of Commerce
 
-Section 2 of Ex. Ord. 10695, Jan. 16, 1957, 22 F.R. 365, provided that: “The Chairman of the Government Patents Board is hereby authorized to transfer to the Department of Commerce any or all of the records heretofore prepared by the Board pursuant to paragraph 2(b) of Executive Order No. 10096 \[set out above\].”
+Section 2 of Ex. Ord. 10695, Jan. 16, 1957, 22 F.R. 365, provided that: "The Chairman of the Government Patents Board is hereby authorized to transfer to the Department of Commerce any or all of the records heretofore prepared by the Board pursuant to paragraph 2(b) of Executive Order No. 10096 \[set out above\]."
 
 #### Ex. Ord. No. 10930. Abolition of Government Patents Board
 

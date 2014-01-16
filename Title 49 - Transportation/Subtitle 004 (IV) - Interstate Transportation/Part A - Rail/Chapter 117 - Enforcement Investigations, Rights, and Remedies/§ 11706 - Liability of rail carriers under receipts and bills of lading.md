@@ -32,13 +32,13 @@
 
 &emsp;(iii) against the carrier alleged to have caused the loss or damage, in the judicial district in which such loss or damage is alleged to have occurred.
 
-(B) In this section, “judicial district” means (i) in the case of a United States district court, a judicial district of the United States, and (ii) in the case of a State court, the applicable geographic area over which such court exercises jurisdiction.
+(B) In this section, "judicial district" means (i) in the case of a United States district court, a judicial district of the United States, and (ii) in the case of a State court, the applicable geographic area over which such court exercises jurisdiction.
 
 (e) A rail carrier may not provide by rule, contract, or otherwise, a period of less than 9 months for filing a claim against it under this section and a period of less than 2 years for bringing a civil action against it under this section. The period for bringing a civil action is computed from the date the carrier gives a person written notice that the carrier has disallowed any part of the claim specified in the notice. For the purposes of this subsection—
 
 &emsp;(1) an offer of compromise shall not constitute a disallowance of any part of the claim unless the carrier, in writing, informs the claimant that such part of the claim is disallowed and provides reasons for such disallowance; and
 
-&emsp;(2) communications received from a carrier's insurer shall not constitute a disallowance of any part of the claim unless the insurer, in writing, informs the claimant that such part of the claim is disallowed, provides reasons for such disallowance, and informs the claimant that the insurer is acting on behalf of the carrier.
+&emsp;(2) communications received from a carrier's insurer shall not constitute a disallowance ofany part of the claim unless the insurer, in writing, informs the claimant that such part of the claim is disallowed, provides reasons for such disallowance, and informs the claimant that the insurer is acting on behalf of the carrier.
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 847.)
 

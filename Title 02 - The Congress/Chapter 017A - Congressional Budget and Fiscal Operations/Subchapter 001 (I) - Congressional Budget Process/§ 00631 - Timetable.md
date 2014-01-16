@@ -29,7 +29,7 @@ Section was formerly classified to section 1321 of Title 31 prior to the general
 
 <b>1990</b>—Pub. L. 101–508 substituted “First Monday in February” for “First Monday after January 3”.
 
-<b>1985</b>—Pub. L. 99–177 amended section generally. Prior to the amendment the timetable was on or before: November 10—President submits current services budget; 15th day after Congress meets—President submits his budget; March 15—Committees and joint committees submit reports to Budget Committees; April 1—Congressional Budget Office submits reports to Budget Committees; April 15—Budget Committees report first concurrent resolution on the budget to their Houses; May 15—Committees report bills and resolutions authorizing new budget authority; May 15—Congress completes action on first concurrent resolution on the budget; 7th day after Labor Day—Congress completes action on bills and resolutions providing new budget authority and new spending authority; September 15—Congress completes action on second required concurrent resolution on the budget; September 25—Congress completes action on reconciliation bill or resolution, or both, implementing second required concurrent resolution; October 1—Fiscal year begins.
+<b>1985</b>—Pub. L. 99–177 amended section generally. Prior to the amendment the timetable was on or before: November 10—President submits current services budget; 15th day after Congress meets—President submits hisbudget; March 15—Committees and joint committees submit reports to Budget Committees; April 1—Congressional Budget Office submits reports to Budget Committees; April 15—Budget Committees report first concurrent resolution on the budget to their Houses; May 15—Committees report bills and resolutions authorizing new budget authority; May 15—Congress completes action on first concurrent resolution on the budget; 7th day after Labor Day—Congress completes action on bills and resolutions providing new budget authority and new spending authority; September 15—Congress completes action on second required concurrent resolution on the budget; September 25—Congress completes action on reconciliation bill or resolution, or both, implementing second required concurrent resolution; October 1—Fiscal year begins.
 
 #### Effective Date of 1985 Amendment
 
@@ -69,7 +69,7 @@ Committee Allocations, Aggregates, and Levels.—
 
 &emsp;&emsp;“(A) for the Committee on Appropriations, committee allocations for fiscal years 2012 and 2013 consistent with the discretionary spending limits set forth in this Act for the purpose of enforcing section 302 of the Congressional Budget Act of 1974;
 
-&emsp;&emsp;“(B) for all committees other than the Committee on Appropriations, committee allocations for fiscal years 2012, 2013, 2013 through 2017, and 2013through 2022 consistent with the Congressional Budget Office's March 2012 baseline for the purpose of enforcing section 302 of the Congressional Budget Act of 1974;
+&emsp;&emsp;“(B) for all committees other than the Committee on Appropriations, committee allocations for fiscal years 2012, 2013, 2013 through 2017, and 2013 through 2022 consistent with the Congressional Budget Office's March 2012 baseline for the purpose of enforcing section 302 of the Congressional Budget Act of 1974;
 
 &emsp;&emsp;“(C) aggregate spending levels for fiscal years 2012 and 2013 and aggregate revenue levels for fiscal years 2012, 2013, 2013–2017, and 2013–2022 consistent with the Congressional Budget Office's March 2012 baseline and the discretionary spending limits set forth in this Act for the purpose of enforcing section 311 of the Congressional Budget Act of 1974; and
 
@@ -97,7 +97,7 @@ Further Adjustments.—
 
 Expiration.—
 
-&emsp;“(1) Subsections (a)(1), (b)(1), and (c)(1) shall expire if a concurrent resolution on the budget for fiscal year 2012 is agreed to by the Senate and House of Representatives pursuant to section 301 of the Congressional Budget Act of 1974 \[2 U.S.C. 632\].
+&emsp;“(1) Subsections (a)(1), (b)(1), and (c)(1) shall expire if a concurrent resolution on the budget for fiscalyear 2012 is agreed to by the Senate and House of Representatives pursuant to section 301 of the Congressional Budget Act of 1974 \[2 U.S.C. 632\].
 
 &emsp;“(2) Subsections (a)(2), (b)(2), and (c)(2) shall expire if a concurrent resolution on the budget for fiscal year 2013 is agreed to by the Senate and House of Representatives pursuant to section 301 of the Congressional Budget Act of 1974.”
 

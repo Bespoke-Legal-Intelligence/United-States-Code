@@ -40,11 +40,11 @@
 
 #### Amendments
 
-<b>2011</b>—Subsec. (c)(2). Pub. L. 111–350 substituted “section 1122(a)(4) of title 41” for “section 6(d)(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 405(d)(5))”.
+<b>2011</b>—Subsec. (c)(2). Pub. L. 111–350 substituted "section 1122(a)(4) of title 41" for "section 6(d)(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 405(d)(5))".
 
-<b>2006</b>—Subsec. (c)(5). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (c)(5). Pub. L. 109–435 substituted "Postal Regulatory Commission" for "Postal Rate Commission".
 
-<b>1994</b>—Pub. L. 103–272 substituted “form,” for “form” in section catchline.
+<b>1994</b>—Pub. L. 103–272 substituted "form," for "form" in section catchline.
 
 #### Transfer of Functions
 

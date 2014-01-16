@@ -6,23 +6,23 @@ In this section:
 
 #### (1) Alaska Native
 
-&emsp;The term “Alaska Native” means a Native as such term is defined in section 1602 of title 43.
+&emsp;The term "Alaska Native" means a Native as such term is defined in section 1602 of title 43.
 
 #### (2) Bureau-funded school
 
-&emsp;The term “Bureau-funded school” has the meaning given the term in section 2021 of title 25.
+&emsp;The term "Bureau-funded school" has the meaning given the term in section 2021 of title 25.
 
 #### (3) Indian, Indian tribe, and tribal organization
 
-&emsp;The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings given the terms in section 450b of title 25.
+&emsp;The terms "Indian", "Indian tribe", and "tribal organization" have the meanings given the terms in section 450b of title 25.
 
 #### (4) Native Hawaiian
 
-&emsp;The term “Native Hawaiian” means any individual any of whose ancestors were natives, prior to 1778, of the area which now comprises the State of Hawaii.
+&emsp;The term "Native Hawaiian" means any individual any of whose ancestors were natives, prior to 1778, of the area which now comprises the State of Hawaii.
 
 #### (5) Native Hawaiian organization
 
-&emsp;The term “Native Hawaiian organization” has the meaning given the term in section 7517 of this title.
+&emsp;The term "Native Hawaiian organization" has the meaning given the term in section 7517 of this title.
 
 #### (b) Program authorized
 
@@ -48,7 +48,7 @@ In this section:
 
 &emsp;&emsp;(A) confer with, and allow for active participation by, representatives of Indian tribes, tribal organizations, and individual tribal members; and
 
-&emsp;&emsp;(B) promulgate the regulations under subchapter III of chapter 5 of title 5, commonly known as the “Negotiated Rulemaking Act of 1990”.
+&emsp;&emsp;(B) promulgate the regulations under subchapter III of chapter 5 of title 5, commonly known as the "Negotiated Rulemaking Act of 1990".
 
 #### (6) Application
 
@@ -88,7 +88,7 @@ The Secretary may not place upon grants awarded or contracts entered into under 
 
 #### (f) Consolidation of funds
 
-Each organization, tribe, or entity receiving assistance under this section may consolidatesuch assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 (25 U.S.C. 3401 et seq.).
+Each organization, tribe, or entity receiving assistance under this section may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 (25 U.S.C. 3401 et seq.).
 
 #### (g) Nonduplicative and nonexclusive services
 

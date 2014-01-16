@@ -12,5 +12,5 @@
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a)(1), (2). Pub. L. 102–190 substituted “Government” for “government”.
+<b>1991</b>—Subsec. (a)(1), (2). Pub. L. 102–190 substituted "Government" for "government".
 

@@ -24,7 +24,7 @@
 
 (b) Any person desiring to be licensed as a collector shall file an application for such license with the Attorney General. The application shall be in such form and contain only that information necessary to determine eligibility as the Attorney General shall by regulation prescribe. The fee for such license shall be $10 per year. Any license granted under this subsection shall only apply to transactions in curios and relics.
 
-(c) Upon the filing of a proper application and payment of the prescribed fee, the Attorney General shall issue to a qualified applicant the appropriate license which, subject to the provisions of this chapter and other applicable provisions of law, shall entitle the licensee to transport, ship, and receive firearms and ammunition covered by such license in interstate or foreign commerce during the period stated in the license. Nothing in this chapter shall be construed to prohibit a licensed manufacturer, importer, or dealer from maintaining and disposingof a personal collection of firearms, subject only to such restrictions as apply in this chapter to dispositions by a person other than a licensed manufacturer, importer, or dealer. If any firearm is so disposed of by a licensee within one year after its transfer from his business inventory into such licensee's personal collection or if such disposition or any other acquisition is made for the purpose of willfully evading the restrictions placed upon licensees by this chapter, then such firearm shall be deemed part of such licensee's business inventory, except that any licensed manufacturer, importer, or dealer who has maintained a firearm as part of a personal collection for one year and who sells or otherwise disposes of such firearm shall record the description of the firearm in a bound volume, containing the name and place of residence and date of birth of the transferee if the transferee is an individual, or the identity and principal and local places of business of the transferee if the transferee is a corporation or other business entity: <i>Provided</i>, That no other recordkeeping shall be required.
+(c) Upon the filing of a proper application and payment of the prescribed fee, the Attorney General shall issue to a qualified applicant the appropriate license which, subject to the provisions of this chapter and other applicable provisions of law, shall entitle the licensee to transport, ship, and receive firearms and ammunition covered by such license in interstate or foreign commerce during the period stated in the license. Nothing in this chapter shall be construed to prohibit a licensed manufacturer, importer, or dealer from maintaining and disposing of a personal collection of firearms, subject only to such restrictions as apply in this chapter to dispositions by a person other than a licensed manufacturer, importer, or dealer. If any firearm is so disposed of by a licensee within one year after its transfer from his business inventory into such licensee's personal collection or if such disposition or any other acquisition is made for the purpose of willfully evading the restrictions placed upon licensees by this chapter, then such firearm shall be deemed part of such licensee's business inventory, except that any licensed manufacturer, importer, or dealer who has maintained a firearm as part of a personal collection for one year and who sells or otherwise disposes of such firearm shall record the description of the firearm in a bound volume, containing the name and place of residence and date of birth of the transferee if the transferee is an individual, or the identity and principal and local places of business of the transferee if the transferee is a corporation or other business entity: <i>Provided</i>, That no other recordkeeping shall be required.
 
 (d)(1) Any application submitted under subsection (a) or (b) of this section shall be approved if—
 
@@ -40,7 +40,7 @@
 
 &emsp;(F) the applicant certifies that—
 
-&emsp;&emsp;(i) the business to be conducted under the license is not prohibited by State or local law in the place where the licensed premise is located;
+&emsp;&emsp;(i) the business to be conducted under the license is not prohibited by State or locallaw in the place where the licensed premise is located;
 
 &emsp;&emsp;(ii)(I) within 30 days after the application is approved the business will comply with the requirements of State and local law applicable to the conduct of the business; and
 
@@ -62,7 +62,7 @@
 
 (4) If criminal proceedings are instituted against a licensee alleging any violation of this chapter or of rules or regulations prescribed under this chapter, and the licensee is acquitted of such charges, or such proceedings are terminated, other than upon motion of the Government before trial upon such charges, the Attorney General shall be absolutely barred from denying or revoking any license granted under this chapter where such denial or revocation is based in whole or in part on the facts which form the basis of such criminal charges. No proceedings for the revocation of a license shall be instituted by the Attorney General more than one year after the filing of the indictment or information.
 
-(g)(1)(A) Each licensed importer, licensed manufacturer, and licensed dealer shall maintain such records of importation, production, shipment, receipt, sale, or other disposition of firearms at his place of business for such period, and in such form, as the Attorney General may by regulations prescribe. Such importers, manufacturers, and dealers shall not be required to submit to the Attorney General reports and information with respect to such records and the contents thereof, except as expressly required by this section. The Attorney General, when he has reasonable cause to believe a violation of this chapter has occurred and that evidence thereof may be found on such premises, may, upon demonstrating such cause before a Federal magistrate judge and securing from such magistrate judge a warrant authorizing entry, enter during business hours the premises (including places of storage) of any licensed firearms importer, licensed manufacturer, licensed dealer, licensed collector, or any licensed importer or manufacturer of ammunition, for the purpose of inspecting or examining—
+(g)(1)(A) Each licensed importer, licensed manufacturer, and licensed dealer shall maintain such records of importation, production, shipment, receipt, sale, or other disposition of firearms at his place of business for such period, and in such form, as the Attorney General may by regulations prescribe. Such importers, manufacturers, and dealers shall not be required to submit to the Attorney General reports and information with respect to such records and the contents thereof, except as expressly required by this section. The Attorney General, when he has reasonable cause to believe a violation of this chapter has occurred and that evidence thereof may be found on such premises, may, upon demonstrating such cause before a Federal magistrate judge and securing from such magistrate judge a warrant authorizing entry, enter during business hours the premises (including places ofstorage) of any licensed firearms importer, licensed manufacturer, licensed dealer, licensed collector, or any licensed importer or manufacturer of ammunition, for the purpose of inspecting or examining—
 
 &emsp;(i) any records or documents required to be kept by such licensed importer, licensed manufacturer, licensed dealer, or licensed collector under this chapter or rules or regulations under this chapter, and
 
@@ -88,7 +88,7 @@
 
 (D) At the election of a licensed collector, the annual inspection of records and inventory permitted under this paragraph shall be performed at the office of the Attorney General designated for such inspections which is located in closest proximity to the premises where the inventory and records of such licensed collector are maintained. The inspection and examination authorized by this paragraph shall not be construed as authorizing the Attorney General to seize any records or other documents other than those records or documents constituting material evidence of a violation of law. If the Attorney General seizes such records or documents, copies shall be provided the licensee within a reasonable time. The Attorney General may make available to any Federal, State, or local law enforcement agency any information which he may obtain by reason of this chapter with respect to the identification of persons prohibited from purchasing or receiving firearms or ammunition who have purchased or received firearms or ammunition, together with a description of such firearms or ammunition, and he may provide information to the extent such information may be contained in the records required to be maintained by this chapter, when so requested by any Federal, State, or local law enforcement agency.
 
-(2) Each licensed collector shall maintain in a bound volume the nature of which the Attorney General may by regulations prescribe, records of the receipt, sale, or other disposition of firearms. Such records shall include the name and address of any person to whom the collector sells or otherwise disposes of a firearm. Such collector shall not be required to submit to the Attorney General reports and information withrespect to such records and the contents thereof, except as expressly required by this section.
+(2) Each licensed collector shall maintain in a bound volume the nature of which the Attorney General may by regulations prescribe, records of the receipt, sale, or other disposition of firearms. Such records shall include the name and address of any person to whom the collector sells or otherwise disposes of a firearm. Such collector shall not be required to submit to the Attorney General reports and information with respect to such records and the contents thereof, except as expressly required by this section.
 
 (3)(A) Each licensee shall prepare a report of multiple sales or other dispositions whenever the licensee sells or otherwise disposes of, at one time or during any five consecutive business days, two or more pistols, or revolvers, or any combination of pistols and revolvers totalling two or more, to an unlicensed person. The report shall be prepared on a form specified by the Attorney General and forwarded to the office specified thereon and to the department of State police or State law enforcement agency of the State or local law enforcement agency of the local jurisdiction in which the sale or other disposition took place, not later than the close of business on the day that the multiple sale or other disposition occurs.
 
@@ -96,7 +96,7 @@
 
 (4) Where a firearms or ammunition business is discontinued and succeeded by a new licensee, the records required to be kept by this chapter shall appropriately reflect such facts and shall be delivered to the successor. Where discontinuance of the business is absolute, such records shall be delivered within thirty days after the business discontinuance to the Attorney General. However, where State law or local ordinance requires the delivery of records to other responsible authority, the Attorney General may arrange for the delivery of such records to such other responsible authority.
 
-(5)(A) Each licensee shall, when required by letter issued by the Attorney General, and until notified to the contrary in writing by the Attorney General, submit on a form specified by the Attorney General, for periods and at the times specified in such letter, all record information required to be kept by this chapter or such lesser record information as the Attorney General in such letter may specify.
+(5)(A) Each licensee shall, when required by letter issued by the Attorney General, and until notified to the contrary in writing by the Attorney General, submit on a form specified by the Attorney General, for periods and at the times specified in such letter, all record informationrequired to be kept by this chapter or such lesser record information as the Attorney General in such letter may specify.
 
 (B) The Attorney General may authorize such record information to be submitted in a manner other than that prescribed in subparagraph (A) of this paragraph when it is shown by a licensee that an alternate method of reporting is reasonably necessary and will not unduly hinder the effective administration of this chapter. A licensee may use an alternate method of reporting if the licensee describes the proposed alternate method of reporting and the need therefor in a letter application submitted to the Attorney General, and the Attorney General approves such alternate method of reporting.
 
@@ -108,7 +108,7 @@
 
 (i) Licensed importers and licensed manufacturers shall identify by means of a serial number engraved or cast on the receiver or frame of the weapon, in such manner as the Attorney General shall by regulations prescribe, each firearm imported or manufactured by such importer or manufacturer.
 
-(j) A licensed importer, licensed manufacturer, or licensed dealer may, under rules or regulations prescribed by the Attorney General, conduct business temporarily at a location other than the location specified on the license if such temporary location is the location for a gun show or event sponsored by any national, State, or local organization, or any affiliate of any such organization devoted to the collection, competitive use, or other sporting use of firearms in the community, and such location is in the State which is specified on the license. Records of receipt and disposition of firearms transactions conducted at such temporary location shall include the location of the sale or other disposition and shall be entered in the permanent records of the licensee and retained on the location specified on the license. Nothing in this subsection shall authorize any licensee to conduct business in or from any motorized or towed vehicle. Notwithstanding the provisions of subsection (a) of this section, a separate fee shall not be required of a licensee with respect to business conducted under this subsection. Any inspection or examination of inventory or records under this chapter by the Attorney General at such temporary location shall be limited to inventory consisting of, or records relating to, firearms held or disposed at such temporary location. Nothing in this subsection shall be construed to authorize the Attorney General to inspect or examine the inventory or records of a licensed importer, licensed manufacturer, or licensed dealer at any location other than the location specified on the license. Nothing in this subsection shall be construed to diminish in anymanner any right to display, sell, or otherwise dispose of firearms or ammunition, which is in effect before the date of the enactment of the Firearms Owners’ Protection Act, including the right of a licensee to conduct “curios or relics” firearms transfers and business away from their business premises with another licensee without regard as to whether the location of where the business is conducted is located in the State specified on the license of either licensee.
+(j) A licensed importer, licensed manufacturer, or licensed dealer may, under rules or regulations prescribed by the Attorney General, conduct business temporarily at a location other than the location specified on the license if such temporary location is the location for a gun show or event sponsored by any national, State, or local organization, or any affiliate of any such organization devoted to the collection, competitive use, or other sporting use of firearms in the community, and such location is in the State which is specified on the license. Records of receipt and disposition of firearms transactions conducted at such temporary location shall include the location of the sale or other disposition and shall be entered in the permanent records of the licensee and retained on the location specified on the license. Nothing in this subsection shall authorize any licensee to conduct business in or from any motorized or towed vehicle. Notwithstanding the provisions of subsection (a) of this section, a separate fee shall not be required of a licensee with respect to business conducted under this subsection. Any inspection or examination of inventory or records under this chapter by the Attorney General at such temporary location shall be limited to inventory consisting of, or records relating to, firearms held or disposed at such temporary location. Nothing in this subsection shall be construed to authorize the Attorney General to inspect or examine the inventory or records of a licensed importer, licensed manufacturer, or licensed dealer at any location other than the location specified on the license. Nothing in this subsection shall be construed to diminish in any manner any right to display, sell, or otherwise dispose of firearms or ammunition, which is in effect before the date of the enactment of the Firearms Owners' Protection Act, including the right of a licensee to conduct "curios or relics" firearms transfers and business away from their business premises with another licensee without regard as to whether the location of where the business is conducted is located in the State specified on the license of either licensee.
 
 (k) Licensed importers and licensed manufacturers shall mark all armor piercing projectiles and packages containing such projectiles for distribution in the manner prescribed by the Attorney General by regulation. The Attorney General shall furnish information to each dealer licensed under this chapter defining which projectiles are considered armor piercing ammunition as defined in section 921(a)(17)(B).
 
@@ -120,77 +120,77 @@
 
 The effective date of this subparagraph, referred to in subsec. (g)(3)(B), is the date of enactment of Pub. L. 103–159, which was approved Nov. 30, 1993.
 
-The date of the enactment of the Firearms Owners’ Protection Act, referred to in subsec. (j), is the date of enactment of Pub. L. 99–308, which was approved May 19, 1986.
+The date of the enactment of the Firearms Owners' Protection Act, referred to in subsec. (j), is the date of enactment of Pub. L. 99–308, which was approved May 19, 1986.
 
 #### Amendments
 
-<b>2002</b>—Subsecs. (a) to (g), (i) to (k). Pub. L. 107–296, §1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
+<b>2002</b>—Subsecs. (a) to (g), (i) to (k). Pub. L. 107–296, §1112(f)(6), substituted "Attorney General" for "Secretary" wherever appearing.
 
-Subsec. (l). Pub. L. 107–296, §1112(f)(5), substituted “Attorney General” for “Secretary of the Treasury”.
+Subsec. (l). Pub. L. 107–296, §1112(f)(5), substituted "Attorney General" for "Secretary of the Treasury".
 
 <b>1998</b>—Subsec. (d)(1)(G). Pub. L. 105–277, §101(b) \[title I, §119(b)\], added subpar. (G).
 
-Subsec. (e). Pub. L. 105–277, §101(b) \[title I, §119(c)\], inserted before period at end of first sentence “or fails to have secure gun storage or safety devices available at any place in which firearms are sold under the license to persons who are not licensees (except that in any case in which a secure gun storage or safety device is temporarily unavailable because of theft, casualty loss, consumer sales, backorders from a manufacturer, or any other similar reason beyond the control of the licensee, the dealer shall not be considered to be in violation of the requirement to make available such a device)”.
+Subsec. (e). Pub. L. 105–277, §101(b) \[title I, §119(c)\], inserted before period at end of first sentence "or fails to have secure gun storage or safety devices available at any place in which firearms are sold under the license to persons who are not licensees (except that in any case in which a secure gun storage or safety device is temporarily unavailable because of theft, casualty loss, consumer sales, backorders from a manufacturer, or any other similar reason beyond the control of the licensee, the dealer shall not be considered to be in violation of the requirement to make available such a device)".
 
-<b>1996</b>—Subsec. (g)(1)(B)(ii). Pub. L. 104–294, §603(k), substituted “; or” for period at end of subcl. (II) and realigned margins.
+<b>1996</b>—Subsec. (g)(1)(B)(ii). Pub. L. 104–294, §603(k), substituted "; or" for period at end of subcl. (II) and realigned margins.
 
 Subsec. (g)(3)(A). Pub. L. 104–294, §603(j)(1), amended directory language of Pub. L. 103–159, §201(1). See 1993 Amendment note below.
 
-Subsec. (j). Pub. L. 104–208 substituted for period at end “, including the right of a licensee to conduct ‘curios or relics’ firearms transfers and business away from their business premises with another licensee without regard as to whether the location of where the business is conducted is located in the State specified on the license of either licensee.”
+Subsec. (j). Pub. L. 104–208 substituted for period at end ", including the right of a licensee to conduct 'curios or relics' firearms transfers and business away from their business premises with another licensee without regard as to whether the location of where the business is conducted is located in the State specified on the license of either licensee."
 
 Subsec. (l). Pub. L. 104–294, §603(l), redesignated last subsec. as subsec. (l) and realigned margins.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322, §110301(a), inserted “and shall include a photograph and fingerprints of the applicant” after “regulation prescribe” in introductory provisions.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §110301(a), inserted "and shall include a photograph and fingerprints of the applicant" after "regulation prescribe" in introductory provisions.
 
 Subsec. (a)(3)(B). Pub. L. 103–322, §330011(i), amended directory language of Pub. L. 101–647, §3525. See 1990 Amendment note below.
 
 Subsec. (d)(1)(F). Pub. L. 103–322, §110302, added subpar. (F).
 
-Subsec. (d)(2). Pub. L. 103–322, §110303, substituted “60-day period” for “forty-five-day period”.
+Subsec. (d)(2). Pub. L. 103–322, §110303, substituted "60-day period" for "forty-five-day period".
 
-Subsec. (g)(1)(B)(ii). Pub. L. 103–322, §110304, amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “for ensuring compliance with the record keeping requirements of this chapter not more than once during any twelve-month period; or”.
+Subsec. (g)(1)(B)(ii). Pub. L. 103–322, §110304, amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "for ensuring compliance with the record keeping requirements of this chapter not more than once during any twelve-month period; or".
 
 Subsec. (g)(6). Pub. L. 103–322, §110305, added par. (6).
 
 Subsec. (g)(7). Pub. L. 103–322, §110306, added par. (7).
 
-Subsec. (i). Pub. L. 103–322, §110103(d), which inserted at end “A large capacity ammunition feeding device manufactured after the date of the enactment of this sentence shall be identified by a serial number that clearly shows that the device was manufactured or imported after the effective date of this subsection, and such other identification as the Secretary may by regulation prescribe.”, was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+Subsec. (i). Pub. L. 103–322, §110103(d), which inserted at end "A large capacity ammunition feeding device manufactured after the date of the enactment of this sentence shall be identified by a serial number that clearly shows that the device was manufactured or imported after the effective date of this subsection, and such other identification as the Secretary may by regulation prescribe.", was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
-Pub. L. 103–322, §110102(d), which inserted penultimate sentence which read as follows: “The serial number of any semiautomatic assault weapon manufactured after the date of the enactment of this sentence shall clearly show the date on which the weapon was manufactured.”, was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
+Pub. L. 103–322, §110102(d), which inserted penultimate sentence which read as follows: "The serial number of any semiautomatic assault weapon manufactured after the date of the enactment of this sentence shall clearly show the date on which the weapon was manufactured.", was repealed by Pub. L. 103–322, §110105(2). See Effective and Termination Dates of 1994 Amendment note below.
 
 Subsec. (l). Pub. L. 103–322, §110307, which directed the amendment of this section by adding subsec. (1) at end, was executed by adding subsec. (l) at end to reflect the probable intent of Congress.
 
-<b>1993</b>—Subsec. (a)(3)(A). Pub. L. 103–159, §303(1), inserted “or” at end of subpar. (A).
+<b>1993</b>—Subsec. (a)(3)(A). Pub. L. 103–159, §303(1), inserted "or" at end of subpar. (A).
 
-Subsec. (a)(3)(B). Pub. L. 103–159, §303(2), (3), substituted “who is not a dealer in destructive devices, a fee of $200 for 3 years, except that the fee for renewal of a valid license shall be $90 for 3 years.” for “who is a pawnbroker dealing in firearms other than destructive devices, a fee of $25 per year; or”.
+Subsec. (a)(3)(B). Pub. L. 103–159, §303(2), (3), substituted "who is not a dealer in destructive devices, a fee of $200 for 3 years, except that the fee for renewal of a valid license shall be $90 for 3 years." for "who is a pawnbroker dealing in firearms other than destructive devices, a fee of $25 per year; or".
 
-Subsec. (a)(3)(C). Pub. L. 103–159, §303(4), struck out subpar. (C) which read as follows: “who is not a dealer in destructive devices or a pawnbroker, a fee of $10 per year.”
+Subsec. (a)(3)(C). Pub. L. 103–159, §303(4), struck out subpar. (C) which read as follows: "who is not a dealer in destructive devices or a pawnbroker, a fee of $10 per year."
 
-Subsec. (g)(3). Pub. L. 103–159, §201, as amended by Pub. L. 104–294, §603(j)(1), designated existing provisions as subpar. (A), inserted “and to the department of State police or State law enforcement agency of the State or local law enforcement agency of the local jurisdiction in which the sale or other disposition took place,” after “thereon”, and added subpar. (B).
+Subsec. (g)(3). Pub. L. 103–159, §201, as amended by Pub. L. 104–294, §603(j)(1), designated existing provisions as subpar. (A), inserted "and to the department of State police or State law enforcement agency of the State or local law enforcement agency of the local jurisdiction in which the sale or other disposition took place," after "thereon", and added subpar. (B).
 
-<b>1990</b>—Subsec. (a)(3)(B). Pub. L. 101–647, §3525, as amended by Pub. L. 103–322, §330011(i), inserted a comma after “devices”.
+<b>1990</b>—Subsec. (a)(3)(B). Pub. L. 101–647, §3525, as amended by Pub. L. 103–322, §330011(i), inserted a comma after "devices".
 
-Subsec. (d)(1)(B). Pub. L. 101–647, §2203(a), substituted “(n)” for “(h)”.
+Subsec. (d)(1)(B). Pub. L. 101–647, §2203(a), substituted "(n)" for "(h)".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–690, §7060(d)(1), struck out period after “licensing” in introductory provisions.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690, §7060(d)(1), struck out period after "licensing" in introductory provisions.
 
-Subsec. (f)(3). Pub. L. 100–690, §7060(d)(2), struck out the period that followed a period after “paragraph (2)”.
+Subsec. (f)(3). Pub. L. 100–690, §7060(d)(2), struck out the period that followed a period after "paragraph (2)".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–308, §103(1), amended first sentence generally and substituted “only that information necessary to determine eligibility for licensing.” for “such information” in second sentence. Prior to amendment, first sentence read as follows: “No person shall engage in business as a firearms or ammunition importer, manufacturer, or dealer until he has filed an application with, and received a license to do so from, the Secretary.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–308, §103(1), amended first sentence generally and substituted "only that information necessary to determine eligibility for licensing." for "such information" in second sentence. Prior to amendment, first sentence read as follows: "No person shall engage in business as a firearms or ammunition importer, manufacturer, or dealer until he has filed an application with, and received a license to do so from, the Secretary."
 
-Subsec. (a)(1)(A). Pub. L. 99–408, §3, in amending subpar. (A) generally, substituted “, ammunition for destructive devices or armor piercing ammunition” for “or ammunition for destructive devices”.
+Subsec. (a)(1)(A). Pub. L. 99–408, §3, in amending subpar. (A) generally, substituted ", ammunition for destructive devices or armor piercing ammunition" for "or ammunition for destructive devices".
 
-Subsec. (a)(1)(C). Pub. L. 99–408, §4, in amending subpar. (C) generally, substituted “, other than ammunition for destructive devices or armor piercing ammunition” for “other than destructive devices”.
+Subsec. (a)(1)(C). Pub. L. 99–408, §4, in amending subpar. (C) generally, substituted ", other than ammunition for destructive devices or armor piercing ammunition" for "other than destructive devices".
 
 Subsec. (a)(2). Pub. L. 99–408, §5, amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
-“(A) of destructive devices or ammunition for destructive devices, a fee of $1,000 per year; or
+"(A) of destructive devices or ammunition for destructive devices, a fee of $1,000 per year; or
 
-“(B) of firearms other than destructive devices or ammunition for firearms other than destructive devices, a fee of $50 per year.”
+"(B) of firearms other than destructive devices or ammunition for firearms other than destructive devices, a fee of $50 per year."
 
-Subsec. (a)(3)(B). Pub. L. 99–308, §103(2), struck out “or ammunition for firearms other than destructive devices,” after “destructive devices”.
+Subsec. (a)(3)(B). Pub. L. 99–308, §103(2), struck out "or ammunition for firearms other than destructive devices," after "destructive devices".
 
-Subsec. (b). Pub. L. 99–308, §103(3), substituted “only that information necessary to determine eligibility” for “such information”.
+Subsec. (b). Pub. L. 99–308, §103(3), substituted "only that information necessary to determine eligibility" for "such information".
 
 Subsec. (c). Pub. L. 99–360 inserted provision which required any licensed manufacturer, importer, or dealer who has maintained a firearm as part of a personal collection for one year and sells or otherwise disposes of such firearm to record the description of the firearm in a bound volume, specified other information to be recorded, and provided that no other recordkeeping be required.
 
@@ -198,27 +198,27 @@ Pub. L. 99–308, §103(4), inserted provision that nothing in this chapter be c
 
 Subsec. (e). Pub. L. 99–408, §6, inserted provisions relating to licenses of dealers willfully transferring armor piercing ammunition.
 
-Pub. L. 99–308, §103(5), inserted “willfully” before “violated”.
+Pub. L. 99–308, §103(5), inserted "willfully" before "violated".
 
-Subsec. (f)(3). Pub. L. 99–308, §103(6)(A), inserted “de novo” before “judicial review” in second sentence and “whether or not such evidence was considered at the hearing held under paragraph (2).” after “to the proceeding” in third sentence.
+Subsec. (f)(3). Pub. L. 99–308, §103(6)(A), inserted "de novo" before "judicial review" in second sentence and "whether or not such evidence was considered at the hearing held under paragraph (2)." after "to the proceeding" in third sentence.
 
 Subsec. (f)(4). Pub. L. 99–308, §103(6)(B), added par. (4).
 
-Subsec. (g). Pub. L. 99–308, §103(7), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Each licensed importer, licensed manufacturer, licensed dealer, and licensed collector shall maintain such records of importation, production, shipment, receipt, sale, or other disposition, of firearms and ammunition except .22 caliber rimfire ammunition at such place, for such period, and in such form as the Secretary may by regulations prescribe. Such importers, manufacturers, dealers, and collectors shall make such records available for inspection at all reasonable times, and shall submit to the Secretary such reports and information with respect to such records and the contents thereof as he shall by regulations prescribe. The Secretary may enter during business hours the premises (including places of storage) of any firearms or ammunition importer, manufacturer, dealer, or collector for the purpose of inspecting or examining (1) any records or documents required to be kept by such importer, manufacturer, dealer, or collector under the provisions of this chapter or regulations issued under this chapter, and (2) any firearms or ammunition kept or stored by such importer, manufacturer, dealer, or collector at such premises. Upon the request of any State or any political subdivision thereof, the Secretary may make available to such State or any political subdivision thereof, any information which he may obtain by reason of the provisions of this chapter with respect to the identification of persons within such State or political subdivision thereof, who have purchased or received firearms or ammunition, together with a description of such firearms or ammunition.”
+Subsec. (g). Pub. L. 99–308, §103(7), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "Each licensed importer, licensed manufacturer, licensed dealer, and licensed collector shall maintain such records of importation, production, shipment, receipt, sale, or other disposition, of firearms and ammunition except .22 caliber rimfire ammunition at such place, for such period, and in such form as the Secretary may by regulations prescribe. Such importers, manufacturers, dealers, and collectors shall make such records available for inspection at all reasonable times, and shall submit to the Secretary such reports and information with respect to such records and the contents thereof as he shall by regulations prescribe. The Secretary may enter during business hours the premises (including places of storage) of any firearms or ammunition importer, manufacturer, dealer, or collector for the purpose of inspecting or examining (1) any records or documents required to be kept by such importer, manufacturer, dealer, or collector under the provisions of this chapter or regulations issued under this chapter, and (2) any firearms or ammunition kept or stored by such importer, manufacturer, dealer, or collector at such premises. Upon the request of any State or any political subdivision thereof, the Secretary may make available to such State or any political subdivision thereof, any information which he may obtain by reason of the provisions of this chapter with respect to the identification of persons within such State or political subdivision thereof, who have purchased or received firearms or ammunition, together with a description of such firearms or ammunition."
 
-Subsec. (j). Pub. L. 99–308, §103(8), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “This section shall not apply to anyone who engages only in hand loading, reloading, or custom loading ammunition for his own firearm, and who does not hand load, reload, or custom load ammunition for others.”
+Subsec. (j). Pub. L. 99–308, §103(8), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: "This section shall not apply to anyone who engages only in hand loading, reloading, or custom loading ammunition for his own firearm, and who does not hand load, reload, or custom load ammunition for others."
 
 Subsec. (k). Pub. L. 99–408, §7, added subsec. (k).
 
-<b>1982</b>—Subsec. (g). Pub. L. 97–377 inserted “except .22 caliber rimfire ammunition” after “and ammunition”. The amendment by Pub. L. 97–377, which purported to amend subsec. (9), was executed instead to subsec. (g) as the probable intent of Congress because this section does not contain a subsec. (9).
+<b>1982</b>—Subsec. (g). Pub. L. 97–377 inserted "except .22 caliber rimfire ammunition" after "and ammunition". The amendment by Pub. L. 97–377, which purported to amend subsec. (9), was executed instead to subsec. (g) as the probable intent of Congress because this section does not contain a subsec. (9).
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–618 struck out “be required to” after “Each applicant shall”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–618 struck out "be required to" after "Each applicant shall".
 
-Subsec. (a)(1). Pub. L. 90–618 inserted “the applicant is” after “If” in text preceding subpar. (A), substituted “or ammunition for destructive devices,” for “and/or ammunition” in subpar. (A), decreased the fee from $500 per year to $50 per year in subpar. (B), and added subpar. (C).
+Subsec. (a)(1). Pub. L. 90–618 inserted "the applicant is" after "If" in text preceding subpar. (A), substituted "or ammunition for destructive devices," for "and/or ammunition" in subpar. (A), decreased the fee from $500 per year to $50 per year in subpar. (B), and added subpar. (C).
 
-Subsec. (a)(2). Pub. L. 90–618 inserted “the applicant is” after “If” in text preceding subpar. (A), substituted “or ammunition for destructive devices,” for “and/or ammunition” in subpar. (A), and inserted provision for ammunition for firearms other than destructive devices and decreased the fee from $500 per year to $50 per year in subpar. (B).
+Subsec. (a)(2). Pub. L. 90–618 inserted "the applicant is" after "If" in text preceding subpar. (A), substituted "or ammunition for destructive devices," for "and/or ammunition" in subpar. (A), and inserted provision for ammunition for firearms other than destructive devices and decreased the fee from $500 per year to $50 per year in subpar. (B).
 
-Subsec. (a)(3). Pub. L. 90–618 inserted “the applicant is” after “If” in text preceding subpar. (A), substituted “in destructive devices or ammunition for destructive devices,” for “of destructive devices and/or ammunition” in subpar. (A), and inserted provision for ammunition for firearms other than destructive devices and decreased the fee from $250 per year to $25 per year in subpar. (B).
+Subsec. (a)(3). Pub. L. 90–618 inserted "the applicant is" after "If" in text preceding subpar. (A), substituted "in destructive devices or ammunition for destructive devices," for "of destructive devices and/or ammunition" in subpar. (A), and inserted provision for ammunition for firearms other than destructive devices and decreased the fee from $250 per year to $25 per year in subpar. (B).
 
 Subsecs. (b), (c). Pub. L. 90–618 added subsec. (b), redesignated former subsec. (b) as (c) and made mandatory the requirement that the Secretary issue the appropriate license to a qualified applicant. Former subsec. (c) redesignated (d).
 
@@ -228,15 +228,15 @@ Subsecs. (e), (f). Pub. L. 90–618 added subsecs. (e) and (f) and redesignated 
 
 Subsec. (g). Pub. L. 90–618 redesignated former subsec. (d) as (g) and added licensed collectors to the enumerated list of licensees subject to the provisions of this section.
 
-Subsec. (h). Pub. L. 90–618 redesignated former subsec. (e) as (h) and substituted “subsection (c)” for “subsection (b)”.
+Subsec. (h). Pub. L. 90–618 redesignated former subsec. (e) as (h) and substituted "subsection (c)" for "subsection (b)".
 
-Subsec. (i). Pub. L. 90–618 redesignated former subsec. (f) as (i) and inserted “, by means of a serial number engraved or cast on the receiver or frame of the weapon,” after “shall identify”.
+Subsec. (i). Pub. L. 90–618 redesignated former subsec. (f) as (i) and inserted ", by means of a serial number engraved or cast on the receiver or frame of the weapon," after "shall identify".
 
 Subsec. (j). Pub. L. 90–618 added subsec. (j).
 
 #### Change of Name
 
-Words “magistrate judge” substituted for “magistrate” wherever appearing in subsec. (g)(1)(A) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+Words "magistrate judge" substituted for "magistrate" wherever appearing in subsec. (g)(1)(A) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 2002 Amendment
 
@@ -248,7 +248,7 @@ Amendment by Pub. L. 105–277, effective 180 days after Oct. 21, 1998, see sect
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–294, title VI, §603(j)(2), Oct. 11, 1996, 110 Stat. 3505, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if the amendment had been included in the Act referred to in paragraph (1) \[Pub. L. 103–159\] on the date of the enactment of such Act \[Nov. 30, 1993\].”
+Pub. L. 104–294, title VI, §603(j)(2), Oct. 11, 1996, 110 Stat. 3505, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as if the amendment had been included in the Act referred to in paragraph (1) \[Pub. L. 103–159\] on the date of the enactment of such Act \[Nov. 30, 1993\]."
 
 #### Effective and Termination Dates of 1994 Amendment
 
@@ -260,7 +260,7 @@ Pub. L. 103–322, title XXXIII, §330011(i), Sept. 13, 1994, 108 Stat. 2145, pr
 
 Amendment by sections 3 to 5 of Pub. L. 99–408 effective first day of first calendar month beginning more than ninety days after Aug. 28, 1986, and amendment by sections 6 and 7 of Pub. L. 99–408 effective Aug. 28, 1986, see section 9 of Pub. L. 99–408, set out as a note under section 921 of this title.
 
-Amendment by Pub. L. 99–360 effective on date on which amendment of this section by Firearms Owners’ Protection Act, Pub. L. 99–308, became effective, see section 2 of Pub. L. 99–360, set out as a note under section 921 of this title.
+Amendment by Pub. L. 99–360 effective on date on which amendment of this section by Firearms Owners' Protection Act, Pub. L. 99–308, became effective, see section 2 of Pub. L. 99–360, set out as a note under section 921 of this title.
 
 Amendment by section 103(1)–(6)(A), (7), (8) of Pub. L. 99–308 effective 180 days after May 19, 1986, and amendment by section 103(6)(B) of Pub. L. 99–308 applicable to any action, petition, or appellate proceeding pending on May 19, 1986, see section 110(a), (b) of Pub. L. 99–308, set out as a note under section 921 of this title.
 
@@ -272,29 +272,49 @@ Amendment by Pub. L. 90–618 effective Dec. 16, 1968, see section 105 of Pub. L
 
 Pub. L. 105–277, div. A, §101(b) \[title I, §119(d)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–70, provided that:
 
-“(1)
+"(1)
 
 Statutory construction.—Nothing in the amendments made by this section \[amending this section and section 921 of this title\] shall be construed—
 
-&emsp;“(A) as creating a cause of action against any firearms dealer or any other person for any civil liability; or
+&emsp;"(A) as creating a cause of action against any firearms dealer or any other person for any civil liability; or
 
-&emsp;“(B) as establishing any standard of care.
+&emsp;"(B) as establishing any standard of care.
 
-“(2)
+"(2)
 
-Evidence.—Notwithstanding any other provision of law, evidence regarding compliance or noncompliance with the amendments made by this section shall not be admissible as evidence in any proceeding of any court, agency, board, or other entity.”
+Evidence.—Notwithstanding any other provision of law, evidence regarding compliance or noncompliance with the amendments made by this section shall not be admissible as evidence in any proceeding of any court, agency, board, or other entity."
+
+#### Funding for Bureau Not Authorized for Implementing Physical Inventory Requirement
+
+Pub. L. 113–6, div. B, title II, Mar. 26, 2013, 127 Stat. 248, provided in part: "That, in the current fiscal year and any fiscal year thereafter, no funds made available by this or any other Act shall be expended to promulgate or implement any rule requiring a physical inventory of any business licensed under section 923 of title 18, United States Code".
+
+#### Funding for Bureau Not Authorized To Deny License Applications or Renewals Due to Lack of Business Activity
+
+Pub. L. 113–6, div. B, title II, Mar. 26, 2013, 127 Stat. 248, provided in part: "That, in the current fiscal year and any fiscal year thereafter, no funds authorized or made available under this or any other Act may be used to deny any application for a license under section 923 of title 18, United States Code, or renewal of such a license due to a lack of business activity, provided that the applicant is otherwise eligible to receive such a license, and is eligible to report business income or to claim an income tax deduction for business expenses under the Internal Revenue Code of 1986 \[26 U.S.C. 1 et seq.\]."
+
+#### Tracing Studies Disclaimer
+
+Pub. L. 113–6, div. B, title V, §514, Mar. 26, 2013, 127 Stat. 271, provided that:
+
+"(a) Tracing studies conducted by the Bureau of Alcohol, Tobacco, Firearms and Explosives are released without adequate disclaimers regarding the limitations of the data.
+
+"(b) For fiscal year 2013 and thereafter, the Bureau of Alcohol, Tobacco, Firearms and Explosives shall include in all such data releases, language similar to the following that would make clear that trace data cannot be used to draw broad conclusions about firearms-related crime:
+
+&emsp;"(1) Firearm traces are designed to assist law enforcement authorities in conducting investigations by tracking the sale and possession of specific firearms. Law enforcement agencies may request firearms traces for any reason, and those reasons are not necessarily reported to the Federal Government. Not all firearms used in crime are traced and not all firearms traced are used in crime.
+
+&emsp;"(2) Firearms selected for tracing are not chosen for purposes of determining which types, makes, or models of firearms are used for illicit purposes. The firearms selected do not constitute a random sample and should not be considered representative of the larger universe of all firearms used by criminals, or any subset of that universe. Firearms are normally traced to the first retail seller, and sources reported for firearms traced do not necessarily represent the sources or methods by which firearms in general are acquired for use in crime."
 
 #### Funding for Bureau Not Authorized for Consolidation or Centralization of Records
 
-Pub. L. 112–55, div. B, title II, Nov. 18, 2011, 125 Stat. 609, provided in part: “That no funds appropriated herein or hereafter shall be available for salaries or administrative expenses in connection with consolidating or centralizing, within the Department of Justice, the records, or any portion thereof, of acquisition and disposition of firearms maintained by Federal firearms licensees”.
+Pub. L. 112–55, div. B, title II, Nov. 18, 2011, 125 Stat. 609, provided in part: "That no funds appropriated herein or hereafter shall be available for salaries or administrative expenses in connection with consolidating or centralizing, within the Department of Justice, the records, or any portion thereof, of acquisition and disposition of firearms maintained by Federal firearms licensees".
 
 #### Funding for Bureau Not Authorized for Electronic Retrieval of Information
 
-Pub. L. 112–55, div. B, title II, Nov. 18, 2011, 125 Stat. 610, provided in part: “That, hereafter, no funds made available by this or any other Act may be used to electronically retrieve information gathered pursuant to 18 U.S.C. 923(g)(4) by name or any personal identification code”.
+Pub. L. 112–55, div. B, title II, Nov. 18, 2011, 125 Stat. 610, provided in part: "That, hereafter, no funds made available by this or any other Act may be used to electronically retrieve information gathered pursuant to 18 U.S.C. 923(g)(4) by name or any personal identification code".
 
 #### Funding for Bureau Not Authorized for Disclosure of Data
 
-Pub. L. 112–55, div. B, title II, Nov. 18, 2011, 125 Stat. 609, provided in part: “That, during the current fiscal year and in each fiscal year thereafter, no funds appropriated under this or any other Act may be used to disclose part or all of the contents of the Firearms Trace System database maintained by the National Trace Center of the Bureau of Alcohol, Tobacco, Firearms and Explosives or any information required to be kept by licensees pursuant to section 923(g) of title 18, United States Code, or required to be reported pursuant to paragraphs (3) and (7) of such section, except to: (1) a Federal, State, local, or tribal law enforcement agency, or a Federal, State, or local prosecutor; or (2) a foreign law enforcement agency solely in connection with or for use in a criminal investigation or prosecution; or (3) a Federal agency for a national security or intelligence purpose; unless such disclosure of such data to any of the entities described in (1), (2) or (3) of this proviso would compromise the identity of any undercover law enforcement officer or confidential informant, or interfere with any case under investigation; and no person or entity described in (1), (2) or (3) shall knowingly and publicly disclose such data; and all such data shall be immune from legal process, shall not be subject to subpoena or other discovery, shall be inadmissible in evidence, and shall not be used, relied on, or disclosed in any manner, nor shall testimony or other evidence be permitted based on the data, in a civil action in any State (including the District of Columbia) or Federal court or in an administrative proceeding other than a proceeding commenced by the Bureau of Alcohol, Tobacco, Firearms and Explosives to enforce the provisions of chapter 44 of such title, or a review of such an action or proceeding; except that this proviso shall not be construed to prevent: (A) the disclosure of statistical information concerning total production, importation, and exportation by each licensed importer (as defined in section 921(a)(9) of such title) and licensed manufacturer (as defined in section 921(a)(10) of such title); (B) the sharing or exchange of such information among and between Federal, State, local, or foreign law enforcement agencies, Federal, State, or local prosecutors, and Federal national security, intelligence, or counterterrorism officials; or (C) the publication of annual statistical reports on products regulated by the Bureau of Alcohol, Tobacco, Firearms and Explosives, including total production, importation, and exportation by each licensed importer (as so defined) and licensed manufacturer (as so defined), or statistical aggregate data regarding firearms traffickers and trafficking channels, or firearms misuse, felons, and trafficking investigations”.
+Pub. L. 112–55, div. B, title II, Nov. 18, 2011, 125 Stat. 609, provided in part: "That, during the current fiscal year and in each fiscal year thereafter, no funds appropriated under this or any other Act may be used to disclose part or all of the contents of the Firearms Trace System database maintained by the National Trace Center of the Bureau of Alcohol, Tobacco, Firearms and Explosives or any information required to be kept by licensees pursuant to section 923(g) of title 18, United States Code, or required to be reported pursuant to paragraphs (3) and (7) of such section, except to: (1) a Federal, State, local, or tribal law enforcement agency, or a Federal, State, or local prosecutor; or (2) a foreign law enforcement agency solely in connection with or for use in a criminal investigation or prosecution; or (3) a Federal agency for a national security or intelligence purpose; unless such disclosure of such data to any of the entities described in (1), (2) or (3) of this proviso would compromise the identity of any undercover law enforcement officer or confidential informant, or interfere with any case under investigation; and no person or entity described in (1), (2) or (3) shall knowingly and publicly disclose such data; and all such data shall be immune from legal process, shall not be subject to subpoena or other discovery, shall be inadmissible in evidence, and shall not be used, relied on, or disclosed in any manner, nor shall testimony or other evidence be permitted based on the data, in a civil action in any State (including the District of Columbia) or Federal court or in an administrative proceeding other than a proceeding commenced by the Bureau of Alcohol, Tobacco, Firearms and Explosives to enforce the provisions of chapter 44 of such title, or a review of such an action or proceeding; except that this proviso shall not be construed to prevent: (A) the disclosure of statistical information concerning total production, importation, and exportation by each licensed importer (as defined in section 921(a)(9) of such title) and licensed manufacturer (as defined in section 921(a)(10) of such title); (B) the sharing or exchange of such information among and between Federal, State, local, or foreign law enforcement agencies, Federal, State, or local prosecutors, and Federal national security, intelligence, or counterterrorism officials; or (C) the publication of annual statistical reports on products regulated by the Bureau of Alcohol, Tobacco, Firearms and Explosives, including total production, importation, and exportation by each licensed importer (as so defined) and licensed manufacturer (as so defined), or statistical aggregate data regarding firearms traffickers and trafficking channels, or firearms misuse, felons, and trafficking investigations".
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -308,5 +328,5 @@ Pub. L. 109–108, title I, Nov. 22, 2005, 119 Stat. 2295.
 
 Pub. L. 108–447, div. B, title I, Dec. 8, 2004, 118 Stat. 2859.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Attorney General's”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Attorney General's".</i>
 

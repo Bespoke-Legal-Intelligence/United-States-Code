@@ -4,7 +4,7 @@ In this part:
 
 #### (1) Eligible local entity
 
-&emsp;The term “eligible local entity” means—
+&emsp;The term "eligible local entity" means—
 
 &emsp;&emsp;(A) a high-need local educational agency; or
 
@@ -12,7 +12,7 @@ In this part:
 
 #### (2) Eligible local partnership
 
-&emsp;The term “eligible local partnership” means a partnership that—
+&emsp;The term "eligible local partnership" means a partnership that—
 
 &emsp;&emsp;(A) shall include at least one high-need local educational agency and at least one—
 
@@ -32,7 +32,7 @@ In this part:
 
 #### (3) High-need local educational agency
 
-&emsp;The term “high-need local educational agency” means a local educational agency that—
+&emsp;The term "high-need local educational agency" means a local educational agency that—
 
 &emsp;&emsp;(A) is among the local educational agencies in a State with the highest numbers or percentages of children from families with incomes below the poverty line; and
 

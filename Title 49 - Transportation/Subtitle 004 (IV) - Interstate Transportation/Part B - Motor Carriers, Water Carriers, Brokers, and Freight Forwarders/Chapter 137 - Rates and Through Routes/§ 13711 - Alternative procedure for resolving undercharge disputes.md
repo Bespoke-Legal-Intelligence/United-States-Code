@@ -10,7 +10,7 @@ Jurisdiction of Board.—
 
 &emsp;(1)
 
-Determination.—The Board shall have jurisdiction to make a determination of whether or not attempting to charge or the charging of a rate by a motor carrier or freight forwarder or party representing a motor carrier or freight forwarder is an unreasonable practice under subsection (a). If the Board determines that attempting to chargeor the charging of the rate is an unreasonable practice under subsection (a), the carrier, freight forwarder, or party may not collect the difference described in subsection (a) between the applicable rate and the negotiated rate for the transportation service.
+Determination.—The Board shall have jurisdiction to make a determination of whether or not attempting to charge or the charging of a rate by a motor carrier or freight forwarder or party representing a motor carrier or freight forwarder is an unreasonable practice under subsection (a). If the Board determines that attempting to charge or the charging of the rate is an unreasonable practice under subsection (a), the carrier, freight forwarder, or party may not collect the difference described in subsection (a) between the applicable rate and the negotiated rate for the transportation service.
 
 &emsp;(2)
 
@@ -40,7 +40,7 @@ Nonapplicability of Negotiated Rate Dispute Resolution Procedure.—If a person 
 
 (f)
 
-Definitions.—In this section, the term “negotiated rate” means a rate, charge, classification, or rule agreed upon by a motor carrier or freight forwarder and a shipper through negotiations pursuant to which no tariff was lawfully and timely filed and for which there is written evidence of such agreement.
+Definitions.—In this section, the term "negotiated rate" means a rate, charge, classification, or rule agreed upon by a motor carrier or freight forwarder and a shipper through negotiations pursuant to which no tariff was lawfully and timely filed and for which there is written evidence of such agreement.
 
 (g)
 
@@ -68,11 +68,11 @@ Provisions similar to those in this section were contained in section 2(e) of Pu
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–287, §5(31)(A), substituted “or, before January 1, 1996” for “or, before the effective date of this section”, “December 31, 1995” for “the day before the effective date of this section”, and “provided before January 1, 1996” for “provided before the effective date of this section”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–287, §5(31)(A), substituted "or, before January 1, 1996" for "or, before the effective date of this section", "December 31, 1995" for "the day before the effective date of this section", and "provided before January 1, 1996" for "provided before the effective date of this section".
 
-Subsec. (d). Pub. L. 104–287, §5(31)(B), substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before such effective date”.
+Subsec. (d). Pub. L. 104–287, §5(31)(B), substituted "January 1, 1996" for "the effective date of this section" and "December 31, 1995" for "the day before such effective date".
 
-Subsec. (g). Pub. L. 104–287, §5(31)(C), substituted “January 1, 1996” for “the effective date of this section”.
+Subsec. (g). Pub. L. 104–287, §5(31)(C), substituted "January 1, 1996" for "the effective date of this section".
 
 #### Abolition of Interstate Commerce Commission
 

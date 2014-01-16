@@ -4,17 +4,17 @@
 
 In this section—
 
-&emsp;(1) the term “Federal banking agencies” means the Office of the Comptroller of the Currency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation;
+&emsp;(1) the term "Federal banking agencies" means the Office of the Comptroller of theCurrency, the Board of Governors of the Federal Reserve System, and the Federal Deposit Insurance Corporation;
 
-&emsp;(2) the term “insured depository institution” has the same meaning as in section 1813(c) of title 12;
+&emsp;(2) the term "insured depository institution" has the same meaning as in section 1813(c) of title 12;
 
-&emsp;(3) the term “securitizer” means—
+&emsp;(3) the term "securitizer" means—
 
 &emsp;&emsp;(A) an issuer of an asset-backed security; or
 
 &emsp;&emsp;(B) a person who organizes and initiates an asset-backed securities transaction by selling or transferring assets, either directly or indirectly, including through an affiliate, to the issuer; and
 
-&emsp;(4) the term “originator” means a person who—
+&emsp;(4) the term "originator" means a person who—
 
 &emsp;&emsp;(A) through the extension of credit or otherwise, creates a financial asset that collateralizes an asset-backed security; and
 
@@ -136,7 +136,7 @@ In determining how to allocate risk retention obligations between a securitizer 
 
 #### (B) Qualified residential mortgage
 
-&emsp;&emsp;The Federal banking agencies, the Commission, the Secretary of Housing and Urban Development, and the Director of the Federal Housing Finance Agency shall jointly define the term “qualified residential mortgage” for purposes of this subsection, taking into consideration underwriting and product features that historical loan performance data indicate result in a lower risk of default, such as—
+&emsp;&emsp;The Federal banking agencies, the Commission, the Secretary of Housing and Urban Development, and the Director of the Federal Housing Finance Agency shall jointly define the term "qualified residential mortgage" for purposes of this subsection, taking into consideration underwriting and product features that historical loan performance data indicate result in a lower risk of default, such as—
 
 &emsp;&emsp;&emsp;(i) documentation and verification of the financial resources relied upon to qualify the mortgagor;
 
@@ -152,11 +152,11 @@ In determining how to allocate risk retention obligations between a securitizer 
 
 &emsp;&emsp;&emsp;(iv) mortgage guarantee insurance or other types of insurance or credit enhancement obtained at the time of origination, to the extent such insurance or credit enhancement reduces the risk of default; and
 
-&emsp;&emsp;&emsp;(v) prohibiting or restricting the use of balloon payments, negative amortization, prepayment penalties, interest-only payments, and other features that have beendemonstrated to exhibit a higher risk of borrower default.
+&emsp;&emsp;&emsp;(v) prohibiting or restricting the use of balloon payments, negative amortization, prepayment penalties, interest-only payments, and other features that have been demonstrated to exhibit a higher risk of borrower default.
 
 #### (C) Limitation on definition
 
-&emsp;&emsp;The Federal banking agencies, the Commission, the Secretary of Housing and Urban Development, and the Director of the Federal Housing Finance Agency in defining the term “qualified residential mortgage”, as required by subparagraph (B), shall define that term to be no broader than the definition “qualified mortgage” as the term is defined under section 129C(c)(2) of the Truth in Lending Act, as amended by the Consumer Financial Protection Act of 2010,<sup>2</sup> and regulations adopted thereunder.
+&emsp;&emsp;The Federal banking agencies, the Commission, the Secretary of Housing and Urban Development, and the Director of the Federal Housing Finance Agency in defining the term "qualified residential mortgage", as required by subparagraph (B), shall define that term to be no broader than the definition "qualified mortgage" as the term is defined under section 129C(c)(2) of the Truth in Lending Act, as amended by the Consumer Financial Protection Act of 2010,<sup>2</sup> and regulations adopted thereunder.
 
 #### (5) Condition for qualified residential mortgage exemption
 
@@ -196,13 +196,13 @@ The regulations issued under this section shall become effective—
 
 The Securities Act of 1933, referred to in subsec. (c)(1)(G)(iii), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of this title. For complete classification of this Act to the Code, see section 77a of this title and Tables.
 
-Section 129C(c)(2) of the Truth in Lending Act, as amended by the Consumer Financial Protection Act of 2010, referred to in subsec. (e)(4)(C), probably means section 129C(b)(2) of Pub. L. 90–321, as amended by title X of Pub. L. 111–203, which defines “qualified mortgage” and is classified to section 1639c(b)(2) of this title.
+Section 129C(c)(2) of the Truth in Lending Act, as amended by the Consumer Financial Protection Act of 2010, referred to in subsec. (e)(4)(C), probably means section 129C(b)(2) of Pub. L. 90–321, as amended by title X of Pub. L. 111–203, which defines "qualified mortgage" and is classified to section 1639c(b)(2) of this title.
 
 #### Effective Date
 
 Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

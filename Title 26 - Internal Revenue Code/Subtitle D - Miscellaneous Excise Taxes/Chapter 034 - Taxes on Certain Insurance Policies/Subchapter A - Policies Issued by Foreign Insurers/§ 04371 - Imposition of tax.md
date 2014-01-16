@@ -22,21 +22,21 @@ For information regarding constitutionality of section 4371 of act Aug. 16, 1954
 
 #### Amendments
 
-<b>1989</b>—Par. (2). Pub. L. 101–239 struck out “, unless the insurer is subject to tax under section 842(b)” after “or annuity contract”.
+<b>1989</b>—Par. (2). Pub. L. 101–239 struck out ", unless the insurer is subject to tax under section 842(b)" after "or annuity contract".
 
-<b>1987</b>—Par. (2). Pub. L. 100–203 substituted “section 842(b)” for “section 813”.
+<b>1987</b>—Par. (2). Pub. L. 100–203 substituted "section 842(b)" for "section 813".
 
-<b>1984</b>—Par. (2). Pub. L. 98–369 substituted “section 813” for “section 819”.
+<b>1984</b>—Par. (2). Pub. L. 98–369 substituted "section 813" for "section 819".
 
-<b>1976</b>—Pub. L. 94–455 substituted in par. (1) “4 cents” for “four cents” and “premium paid” for “premium charged”, in pars. (2) and (3) “1 cent” for “one cent” and “premium paid” for “premium charged”, and struck out provision following par. (3) relating to computation of tax on premium paid in lieu of premium charged.
+<b>1976</b>—Pub. L. 94–455 substituted in par. (1) "4 cents" for "four cents" and "premium paid" for "premium charged", in pars. (2) and (3) "1 cent" for "one cent" and "premium paid" for "premium charged", and struck out provision following par. (3) relating to computation of tax on premium paid in lieu of premium charged.
 
 <b>1965</b>—Pub. L. 89–44 inserted last sentence relating to computation of tax on premium paid in lieu of premium charged.
 
-<b>1959</b>—Par. (2). Pub. L. 86–69 substituted “section 819” for “section 816”.
+<b>1959</b>—Par. (2). Pub. L. 86–69 substituted "section 819" for "section 816".
 
-<b>1958</b>—Pub. L. 85–859 substituted “is hereby imposed, on each policy of insurance, indemnity bond, annuity contract, or policy of reinsurance issued by any foreign insurer or reinsurer, a tax” for “shall be imposed a tax on each policy of insurance, indemnity bond, annuity contract, or policy of reinsurance issued by any foreign insurer or reinsurer”.
+<b>1958</b>—Pub. L. 85–859 substituted "is hereby imposed, on each policy of insurance, indemnity bond, annuity contract, or policy of reinsurance issued by any foreign insurer or reinsurer, a tax" for "shall be imposed a tax on each policy of insurance, indemnity bond, annuity contract, or policy of reinsurance issued by any foreign insurer or reinsurer".
 
-<b>1956</b>—Par. (2). Act Mar. 13, 1956, substituted “section 816” for “section 807”.
+<b>1956</b>—Par. (2). Act Mar. 13, 1956, substituted "section 816" for "section 807".
 
 #### Effective Date of 1989 Amendment
 

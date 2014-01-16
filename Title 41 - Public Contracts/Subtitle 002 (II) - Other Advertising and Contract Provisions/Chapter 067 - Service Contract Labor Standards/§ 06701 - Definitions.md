@@ -4,15 +4,15 @@ In this chapter:
 
 &emsp;(1)
 
-Compensation.—The term “compensation” means any of the payments or fringe benefits described in section 6703 of this title.
+Compensation.—The term "compensation" means any of the payments or fringe benefits described in section 6703 of this title.
 
 &emsp;(2)
 
-Secretary.—The term “Secretary” means the Secretary of Labor.
+Secretary.—The term "Secretary" means the Secretary of Labor.
 
 &emsp;(3)
 
-Service employee.—The term “service employee”—
+Service employee.—The term "service employee"—
 
 &emsp;&emsp;(A) means an individual engaged in the performance of a contract made by the Federal Government and not exempted under section 6702(b) of this title, whether negotiated or advertised, the principal purpose of which is to furnish services in the United States;
 
@@ -22,7 +22,7 @@ Service employee.—The term “service employee”—
 
 &emsp;(4)
 
-United states.—The term “United States”—
+United states.—The term "United States"—
 
 &emsp;&emsp;(A) includes any State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, the outer Continental Shelf as defined in the Outer Continental Shelf Lands Act (43 U.S.C. §1331 et seq.), American Samoa, Guam, Wake Island, and Johnston Island; but
 
@@ -46,9 +46,9 @@ Historical and Revision Notes
 
 Pub. L. 89–286, §8, Oct. 22, 1965, 79 Stat. 1036; Pub. L. 93–57, §1, July 6, 1973, 87 Stat. 140; Pub. L. 94–489, §3, Oct. 13, 1976, 90 Stat. 2358.
 
-In paragraph (3), the word “individual” is substituted for “person” because of the definition of “person” in 1:1. The words “contract made by the Federal Government” are substituted for “contract entered into by the United States” for consistency in the revised title. The words “as of July 30, 1976, and any subsequent revision of those regulations” are omitted as obsolete.
+In paragraph (3), the word "individual" is substituted for "person" because of the definition of "person" in 1:1. The words "contract made by the Federal Government" are substituted for "contract entered into by the United States" for consistency in the revised title. The words "as of July 30, 1976, and any subsequent revision of those regulations" are omitted as obsolete.
 
-In paragraph (4)(A), the words “the outer Continental Shelf” are substituted for “Outer Continental Shelf lands” for consistency with the definition in 43:1331 and for consistency with the more common usage generally found in subchapter III of chapter 29 of title 43. The words “Eniwetok Atoll, Kwajalein Atoll” are omitted because they are part of the Marshall Islands and therefore no longer part of the United States. The words “Canton Island” are omitted because it is part of Kiribati and therefore no longer part of the United States.
+In paragraph (4)(A), the words "the outer Continental Shelf" are substituted for "Outer Continental Shelf lands" for consistency with the definition in 43:1331 and for consistency with the more common usage generally found in subchapter III of chapter 29 of title 43. The words "Eniwetok Atoll, Kwajalein Atoll" are omitted because they are part of the Marshall Islands and therefore no longer part of the United States. The words "Canton Island" are omitted because it is part of Kiribati and therefore no longer part of the United States.
 
 #### References in Text
 

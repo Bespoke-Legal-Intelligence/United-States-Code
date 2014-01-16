@@ -14,7 +14,7 @@ Source of Funds.—Funds authorized for deposit in an account established by sec
 
 (d)
 
-Environmental Restoration Project Defined.—In this section, the term “environmental restoration project” includes any construction, development, conversion, or extension of a structure, or installation of equipment, in direct support of a response.
+Environmental Restoration Project Defined.—In this section, the term "environmental restoration project" includes any construction, development, conversion, or extension of a structure, or installation of equipment, in direct support of a response.
 
 (Added Pub. L. 107–314, div. A, title III, §313(a)(2), Dec. 2, 2002, 116 Stat. 2507.)
 

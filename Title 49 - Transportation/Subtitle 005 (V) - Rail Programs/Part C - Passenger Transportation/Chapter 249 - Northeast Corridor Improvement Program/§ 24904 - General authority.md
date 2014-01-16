@@ -116,13 +116,13 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §402(a)(2); added Feb. 5, 1976,
 
 45:562(a)(2) (last sentence).
 
-In subsection (a), before clause (1), the words “the purposes of” are omitted as surplus. The words “this part” are substituted for “this subchapter, the Rail Passenger Service Act \[45 U.S.C. 501 et seq.\]” for clarity because subchapter III of chapter 17 of title 45, United States Code, and the Rail Passenger Service Act make up part C of subtitle V of the revised title. In clause (1), the words “by purchase, lease, exchange, gift, or otherwise, and to hold . . . sell, lease, or otherwise”, “real or personal”, and “which is necessary or” are omitted as surplus. The words “to provide” are substituted for “establishing and maintaining” for consistency in this chapter. In clause (2), the words “for the United States, by lease, purchase, condemnation, or otherwise” and “(including lands, easements, and rights-of-way, and any other property interests, including contract rights) are omitted as surplus. In clause (3), the words “the continuous operation and maintenance of” are omitted as surplus. In clause (4), the words “Washington” and “at its option” are omitted as surplus. In clause (5), the words “other safety facilities or equipment . . . any” and “which it determines are” are omitted as surplus. In clause (6), the words “Notwithstanding any other provision of this chapter”, “tracks, rights-of-way and other”, and “by the Corporation” in 45:562(a)(2) (1st sentence) and “other railroads” and “trackage rights, contract services, and other appropriate” in 45:851(a)(6) are omitted as surplus. In clause (7), the words “qualified individual to serve as the” are omitted as surplus. In clause (8), the words “on a basis which is consistent with, and” are omitted as surplus.
+In subsection (a), before clause (1), the words "the purposes of" are omitted as surplus. The words "this part" are substituted for "this subchapter, the Rail Passenger Service Act \[45 U.S.C. 501 et seq.\]" for clarity because subchapter III of chapter 17 of title 45, United States Code, and the Rail Passenger Service Act make up part C of subtitle V of the revised title. In clause (1), the words "by purchase, lease, exchange, gift, or otherwise, and to hold . . . sell, lease, or otherwise", "real or personal", and "which is necessary or" are omitted as surplus. The words "to provide" are substituted for "establishing and maintaining" for consistency in this chapter. In clause (2), the words "for the United States, by lease, purchase, condemnation, or otherwise" and "(including lands, easements, and rights-of-way, and any other property interests, including contract rights) are omitted as surplus. In clause (3), the words "the continuous operation and maintenance of" are omitted as surplus. In clause (4), the words "Washington" and "at its option" are omitted as surplus. In clause (5), the words "other safety facilities or equipment . . . any" and "which it determines are" are omitted as surplus. In clause (6), the words "Notwithstanding any other provision of this chapter", "tracks, rights-of-way and other", and "by the Corporation" in 45:562(a)(2) (1st sentence) and "other railroads" and "trackage rights, contract services, and other appropriate" in 45:851(a)(6) are omitted as surplus. In clause (7), the words "qualified individual to serve as the" are omitted as surplus. In clause (8), the words "on a basis which is consistent with, and" are omitted as surplus.
 
-In subsection (c)(1), the words “shall provide for” are substituted for “to be on such terms and conditions as are necessary to” to eliminate unnecessary words. The word “reasonable” is substituted for “on an equitable and fair basis” for consistency in the revised title.
+In subsection (c)(1), the words "shall provide for" are substituted for "to be on such terms and conditions as are necessary to" to eliminate unnecessary words. The word "reasonable" is substituted for "on an equitable and fair basis" for consistency in the revised title.
 
-In subsection (c)(2), the words “If the parties do not” are substituted for “In the event of a failure to” for clarity. The words “to be provided”, “consistent with equitable and fair compensation principles”, “proper amount of”, “the provision of”, and “the date of” are omitted as surplus.
+In subsection (c)(2), the words "If the parties do not" are substituted for "In the event of a failure to" for clarity. The words "to be provided", "consistent with equitable and fair compensation principles", "proper amount of", "the provision of", and "the date of" are omitted as surplus.
 
-In subsection (c)(3), the words “either before or” are omitted as surplus because the National Railroad Passenger Corporation may make agreements on arrangements for rail freight or commuter rail transportation under subsection (a)(6) of this section and this subsection applies only when there is no agreement.
+In subsection (c)(3), the words "either before or" are omitted as surplus because the National Railroad Passenger Corporation may make agreements on arrangements for rail freight or commuter rail transportation under subsection (a)(6) of this section and this subsection applies only when there is no agreement.
 
 #### Pub. L. 103–429
 
@@ -132,19 +132,19 @@ This amends 49:24904(a)(2) to correct an error in the codification enacted by se
 
 The Regional Rail Reorganization Act of 1973, referred to in subsecs. (a) and (c)(2), is Pub. L. 93–236, Jan. 2, 1974, 87 Stat. 985, as amended, which is classified principally to chapter 16 (§701 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 45 and Tables.
 
-The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsecs. (a)(6) and (c)(2), isPub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 45 and Tables.
+The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in subsecs. (a)(6) and (c)(2), is Pub. L. 94–210, Feb. 5, 1976, 90 Stat. 31, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 45 and Tables.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (c)(2). Pub. L. 112–141 substituted “Surface Transportation Board” for “Interstate Commerce Commission” and “Board” for “Commission”.
+<b>2012</b>—Subsec. (c)(2). Pub. L. 112–141 substituted "Surface Transportation Board" for "Interstate Commerce Commission" and "Board" for "Commission".
 
-Subsec. (c)(3). Pub. L. 112–141, §32932(c)(4)(B), substituted “Board” for “Commission”.
+Subsec. (c)(3). Pub. L. 112–141, §32932(c)(4)(B), substituted "Board" for "Commission".
 
-<b>2008</b>—Subsec. (c)(2). Pub. L. 110–432 inserted “commuter rail passenger and” after “between” in first sentence and struck out “freight” after “rail” in second sentence.
+<b>2008</b>—Subsec. (c)(2). Pub. L. 110–432 inserted "commuter rail passenger and" after "between" in first sentence and struck out "freight" after "rail" in second sentence.
 
-<b>1997</b>—Subsec. (a)(6) to (8). Pub. L. 105–134 inserted “and” at end of par. (6), substituted a period for “; and” at end of par. (7), and struck out par. (8) which read as follows: “make agreements with telecommunications common carriers, subject to the Communications Act of 1934 (47 U.S.C. 151 et seq.), to continue existing, and establish new and improved, passenger radio mobile telephone service in the high-speed rail passenger transportation area specified in section 24902(a)(1) and (2).”
+<b>1997</b>—Subsec. (a)(6) to (8). Pub. L. 105–134 inserted "and" at end of par. (6), substituted a period for "; and" at end of par. (7), and struck out par. (8) which read as follows: "make agreements with telecommunications common carriers, subject to the Communications Act of 1934 (47 U.S.C. 151 et seq.), to continue existing, and establish new and improved, passenger radio mobile telephone service in the high-speed rail passenger transportation area specified in section 24902(a)(1) and (2)."
 
-<b>1994</b>—Subsec. (a)(2). Pub. L. 103–429 inserted “, by condemnation or otherwise,” after “acquire”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–429 inserted ", by condemnation or otherwise," after "acquire".
 
 #### Effective Date of 2012 Amendment
 

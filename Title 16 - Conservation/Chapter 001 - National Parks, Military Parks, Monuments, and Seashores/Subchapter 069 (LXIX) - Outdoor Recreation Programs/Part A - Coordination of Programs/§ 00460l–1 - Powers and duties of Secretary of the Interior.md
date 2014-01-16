@@ -12,7 +12,7 @@ Prepare a system for classification of outdoor recreation resources to assist in
 
 #### (c) Nationwide plan; contents; problems, solutions and actions; initial plan; revisions of plan; transmittal to Congress and Governors
 
-Formulate and maintain a comprehensive nationwide outdoor recreation plan, taking into consideration the plans of the various Federalagencies, States, and their political subdivisions. The plan shall set forth the needs and demands of the public for outdoor recreation and the current and foreseeable availability in the future of outdoor recreation resources to meet those needs. The plan shall identify critical outdoor recreation problems, recommend solutions, and recommend desirable actions to be taken at each level of government and by private interests. The Secretary shall transmit the initial plan, which shall be prepared as soon as practicable within five years on and after May 28, 1963, to the President for transmittal to the Congress. Future revisions of the plan shall be similarly transmitted at succeeding five-year intervals. When a plan or revision is transmitted to the Congress, the Secretary shall transmit copies to the Governors of the several States.
+Formulate and maintain a comprehensive nationwide outdoor recreation plan, taking into consideration the plans of the various Federal agencies, States, and their political subdivisions. The plan shall set forth the needs and demands of the public for outdoor recreation and the current and foreseeable availability in the future of outdoor recreation resources to meet those needs. The plan shall identify critical outdoor recreation problems, recommend solutions, and recommend desirable actions to be taken at each level of government and by private interests. The Secretary shall transmit the initial plan, which shall be prepared as soon as practicable within five years on and after May 28, 1963, to the President for transmittal to the Congress. Future revisions of the plan shall be similarly transmitted at succeeding five-year intervals. When a plan or revision is transmitted to the Congress, the Secretary shall transmit copies to the Governors of the several States.
 
 #### (d) Technical assistance and advice; cooperation with States and private interests
 
@@ -38,11 +38,11 @@ Accept and use donations of money, property, personal services, or facilities fo
 
 #### Codification
 
-In subsec. (f), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (f), "section 3324(a) and (b) of title 31" substituted for "section 3648 of the Revised Statutes (31 U.S.C. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-<b>1970</b>—Subsec. (f). Pub. L. 91–375 substituted “section 3204 of title 39” for “section 4154 of title 39”.
+<b>1970</b>—Subsec. (f). Pub. L. 91–375 substituted "section 3204 of title 39" for "section 4154 of title 39".
 
 #### Effective Date of 1970 Amendment
 
@@ -56,25 +56,25 @@ For termination, effective May 15, 2000, of provisions in subsec. (c) of this se
 
 Pub. L. 105–359, §1, Nov. 10, 1998, 112 Stat. 3275, provided that:
 
-“(a)
+"(a)
 
 Study Required.—The Secretary of Agriculture and the Secretary of the Interior shall jointly conduct a study regarding ways to improve the access for persons with disabilities to outdoor recreational opportunities (such as fishing, hunting, trapping, wildlife viewing, hiking, boating, and camping) made available to the public on the Federal lands described in subsection (b).
 
-“(b)
+"(b)
 
 Covered Federal Lands.—The Federal lands referred to in subsection (a) are the following:
 
-&emsp;“(1) National Forest System lands.
+&emsp;"(1) National Forest System lands.
 
-&emsp;“(2) Units of the National Park System.
+&emsp;"(2) Units of the National Park System.
 
-&emsp;“(3) Areas in the National Wildlife Refuge System.
+&emsp;"(3) Areas in the National Wildlife Refuge System.
 
-&emsp;“(4) Lands administered by the Bureau of Land Management.
+&emsp;"(4) Lands administered by the Bureau of Land Management.
 
-“(c)
+"(c)
 
-Report on Study.—Not later than 18 months after the date of the enactment of this Act \[Nov. 10, 1998\], the Secretaries shall submit to Congress a report containing the results of the study.”
+Report on Study.—Not later than 18 months after the date of the enactment of this Act \[Nov. 10, 1998\], the Secretaries shall submit to Congress a report containing the results of the study."
 
 #### Connecticut River National Recreation Area Feasibility Study
 

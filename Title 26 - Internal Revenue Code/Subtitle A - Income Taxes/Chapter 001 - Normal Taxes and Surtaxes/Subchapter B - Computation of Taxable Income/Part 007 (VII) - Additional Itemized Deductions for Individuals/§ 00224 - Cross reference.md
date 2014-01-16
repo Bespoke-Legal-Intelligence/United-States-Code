@@ -18,7 +18,7 @@
 
 <b>1986</b>—Pub. L. 99–514, §135(b)(1), renumbered section 223 of this title as this section.
 
-Pub. L. 99–514, §301(b)(5)(A), amended section generally, substituting “reference” for “references” in section catchline, striking out par. (1) which referred to section 1202 for deduction for long-term capital gains in the case of a taxpayer other than a corporation, and striking out par. (2) designation.
+Pub. L. 99–514, §301(b)(5)(A), amended section generally, substituting "reference" for "references" in section catchline, striking out par. (1) which referred to section 1202 for deduction for long-term capital gains in the case of a taxpayer other than a corporation, and striking out par. (2) designation.
 
 <b>1981</b>—Pub. L. 97–34 successively renumbered sections 221 and 222 of this title as this section.
 
@@ -36,7 +36,7 @@ Amendment by Pub. L. 108–173 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, seesection 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
+Amendment by Pub. L. 107–16 applicable to payments made in taxable years beginning after Dec. 31, 2001, see section 431(d) of Pub. L. 107–16, set out as a note under section 62 of this title.
 
 #### Effective Date of 1986 Amendment
 

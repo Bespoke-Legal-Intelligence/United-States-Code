@@ -16,7 +16,7 @@ Nothing contained in this section shall be construed to limit or impair the auth
 
 #### References in Text
 
-Executive Order 12333, referred to in subsec. (c), is set out as a note under section 401 of Title 50, War and National Defense.
+Executive Order 12333, referred to in subsec. (c), is set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Codification
 
@@ -24,11 +24,11 @@ Section was enacted as part of the International Security and Development Cooper
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–399, §503(1), substituted “terrorism-related” for “anti-terrorism” in section catchline.
+<b>1986</b>—Pub. L. 99–399, §503(1), substituted "terrorism-related" for "anti-terrorism" in section catchline.
 
-Subsec. (a). Pub. L. 99–399, §503(2), substituted “assistance related to international terrorism which is provided by the United States Government to foreign countries” for “anti-terrorism assistance to foreign countries provided by the United States Government”.
+Subsec. (a). Pub. L. 99–399, §503(2), substituted "assistance related to international terrorism which is provided by the United States Government to foreign countries" for "anti-terrorism assistance to foreign countries provided by the United States Government".
 
-Subsec. (b). Pub. L. 99–399, §503(3), substituted “assistance related to international terrorism which was” for “anti-terrorism assistance”.
+Subsec. (b). Pub. L. 99–399, §503(3), substituted "assistance related to international terrorism which was" for "anti-terrorism assistance".
 
 Subsec. (c). Pub. L. 99–399, §503(4), added subsec. (c).
 

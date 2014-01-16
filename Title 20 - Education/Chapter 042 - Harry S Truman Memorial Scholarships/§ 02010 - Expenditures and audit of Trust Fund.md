@@ -2,7 +2,7 @@
 
 #### (a) Authorization of funding
 
-The Secretary is authorized to pay to the Foundation from the interest and earnings of the fund such sums as the Board determines are necessary and appropriate to enable the Foundation to carry out the purposes of this chapter.
+The Secretary is authorized to pay to the Foundation from the interest and earnings of the fund such sums as the Board determines arenecessary and appropriate to enable the Foundation to carry out the purposes of this chapter.
 
 #### (b) Access to books, records, etc., by Government Accountability Office
 
@@ -12,5 +12,5 @@ The activities of the Foundation under this chapter may be audited by the Govern
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office” in two places.
+<b>2004</b>—Subsec. (b). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office" in two places.
 

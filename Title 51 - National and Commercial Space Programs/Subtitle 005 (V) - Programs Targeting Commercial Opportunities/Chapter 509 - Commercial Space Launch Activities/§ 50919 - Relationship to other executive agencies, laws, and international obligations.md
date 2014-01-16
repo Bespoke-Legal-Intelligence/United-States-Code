@@ -88,7 +88,7 @@ Oct. 30, 1984, Pub. L. 98–575, §§6(c), 21, 98 Stat. 3058, 3063.
 
 49 App.:2620(c).
 
-In subsection (e)(1), the words “government of a foreign country” are substituted for “foreign nation” for consistency in the revised title and with other titles of the United States Code.
+In subsection (e)(1), the words "government of a foreign country" are substituted for "foreign nation" for consistency in the revised title and with other titles of the United States Code.
 
 #### Pub. L. 104–287
 
@@ -104,17 +104,17 @@ The Foreign Trade Zones Act, referred to in subsec. (f), is act June 18, 1934, c
 
 <b>2010</b>—Pub. L. 111–314, §4(d)(2), (3)(S), successively renumbered section 70117 of title 49 and section 70117 of this title as this section.
 
-Subsec. (b)(2). Pub. L. 111–314, §4(d)(5)(T), substituted “chapter 601 of this title” for “the Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5601 et seq.)”.
+Subsec. (b)(2). Pub. L. 111–314, §4(d)(5)(T), substituted "chapter 601 of this title" for "the Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5601 et seq.)".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–303, §102(a)(15)(A), inserted “or reentry site, or to reenter a reentry vehicle” after “operate a launch site”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–303, §102(a)(15)(A), inserted "or reentry site, or to reenter a reentry vehicle" after "operate a launch site".
 
-Subsec. (d). Pub. L. 105–303, §102(a)(15)(B), inserted “or reentry” after “approval of a space launch”.
+Subsec. (d). Pub. L. 105–303, §102(a)(15)(B), inserted "or reentry" after "approval of a space launch".
 
-Subsec. (f). Pub. L. 105–303, §102(a)(15)(C), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “A launch vehicle or payload that is launched is not, because of the launch, an export for purposes of a law controlling exports.”
+Subsec. (f). Pub. L. 105–303, §102(a)(15)(C), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "A launch vehicle or payload that is launched is not, because of the launch, an export for purposes of a law controlling exports."
 
-Subsec. (g)(1). Pub. L. 105–303, §102(a)(15)(D)(i), substituted “reentry, operation of a launch vehicle or reentry vehicle, operation of a launch site or reentry site,” for “operation of a launch vehicle or launch site,”.
+Subsec. (g)(1). Pub. L. 105–303, §102(a)(15)(D)(i), substituted "reentry, operation of a launch vehicle or reentry vehicle, operation of a launch site or reentry site," for "operation of a launch vehicle or launch site,".
 
-Subsec. (g)(2). Pub. L. 105–303, §102(a)(15)(D)(ii), inserted “reentry,” after “launch,”.
+Subsec. (g)(2). Pub. L. 105–303, §102(a)(15)(D)(ii), inserted "reentry," after "launch,".
 
-<b>1996</b>—Subsec. (b)(2). Pub. L. 104–287 substituted “Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5601 et seq.)” for “Land Remote-Sensing Commercialization Act of 1984 (15 U.S.C. 4201 et seq.)”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–287 substituted "Land Remote Sensing Policy Act of 1992 (15 U.S.C. 5601 et seq.)" for "Land Remote-Sensing Commercialization Act of 1984 (15 U.S.C. 4201 et seq.)".
 

@@ -16,7 +16,7 @@
 
 &emsp;(2) have been recommended by a board under subsection (e).
 
-> Each officer covered by the preceding sentence, except the Surgeon General, shall be appointed in the regular grade of major general. The Surgeon General may be appointed from officers in any corps of the Army Medical Department and,while so serving, has the grade of lieutenant general. The Judge Advocate General shall be appointed as prescribed in section 3037 of this title.
+> Each officer covered by the preceding sentence, except the Surgeon General, shall be appointed in the regular grade of major general. The Surgeon General may be appointed from officers in any corps of the Army Medical Department and, while so serving, has the grade of lieutenant general. The Judge Advocate General shall be appointed as prescribed in section 3037 of this title.
 
 (c) An officer appointed under subsection (b) normally holds office for four years. However, the President may terminate or extend the appointment at any time.
 
@@ -28,7 +28,7 @@
 
 &emsp;(B) the services are provided on a reimbursable basis.
 
-(3) In this subsection, the term “State” includes the several States, the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, territories and possessions of the United States, and Indian tribes.
+(3) In this subsection, the term "State" includes the several States, the District of Columbia, the Commonwealths of Puerto Rico and the Northern Mariana Islands, territories and possessions of the United States, and Indian tribes.
 
 (e) For each office to be filled under subsection (b), the Secretary shall select a board of five general officers, including the incumbent, if any, of the office, and at least two officers, if available, in a grade above major general who have had extensive service in the branch concerned. The Secretary shall give the board a list of the officers to be considered and shall specify the number of officers, not less than three, to be recommended. The list shall include—
 
@@ -90,11 +90,11 @@ June 3, 1916, ch. 134, §11 (1st 17 words); restated June 4, 1920, ch. 227, subc
 
 Aug. 7, 1947, ch. 512, §513(a) (less 5th sentence), (b), 61 Stat. 901.
 
-In subsection (b), all references to the appointment of assistant chiefs are omitted as covered by sections 3037 and 3040 of this title. All references to the grade of brigadier general are omitted, since 10:21f(b) specifies the grade of major general for the offices. 10:559g(a) (4th sentence) is omitted as surplusage, since the appointment is to a permanent grade. 10:559g(a) (6th and 7th sentences) is omitted as executed. 10:559g(a) (last sentence) is omitted, since the revised section applies only to the officers named in subsection (a). The words “except the Judge Advocate General” are inserted for clarity. The eight words before clause (1), and clauses (1) and (2), are substituted for the words “as prescribed in section 559g of this title”, in 10:21f(b), and 10:559g(a) (1st sentence). The second sentence is substituted for 10:559g(a) (2d sentence) and 10:21f(b) (1st 15 words). The words “selected and”, in 10:21f(b), are omitted as surplusage. The words “arms, or services”, in 10:559g(a) are omitted as obsolete, since sections 3063 and 3064 of this title designate the former arms and services as “branches”.
+In subsection (b), all references to the appointment of assistant chiefs are omitted as covered by sections 3037 and 3040 of this title. All references to the grade of brigadier general are omitted, since 10:21f(b) specifies the grade of major general for the offices. 10:559g(a) (4th sentence) is omitted as surplusage, since the appointment is to a permanent grade. 10:559g(a) (6th and 7th sentences) is omitted as executed. 10:559g(a) (last sentence) is omitted, since the revised section applies only to the officers named in subsection (a). The words "except the Judge Advocate General" are inserted for clarity. The eight words before clause (1), and clauses (1) and (2), are substituted for the words "as prescribed in section 559g of this title", in 10:21f(b), and 10:559g(a) (1st sentence). The second sentence is substituted for 10:559g(a) (2d sentence) and 10:21f(b) (1st 15 words). The words "selected and", in 10:21f(b), are omitted as surplusage. The words "arms, or services", in 10:559g(a) are omitted as obsolete, since sections 3063 and 3064 of this title designate the former arms and services as "branches".
 
-In subsection (c), the words “normally holds office” are substituted for the words “shall normally continue in that assignment for a tour of duty”. The words “appointment” and “office” are substituted for the words “assignment” and “tour of duty” whenever they are used in that sense.
+In subsection (c), the words "normally holds office" are substituted for the words "shall normally continue in that assignment for a tour of duty". The words "appointment" and "office" are substituted for the words "assignment" and "tour of duty" whenever they are used in that sense.
 
-In subsection (e), the introductory clause is substituted for 10:559g(b) (words before colon of 1st sentence). The words “in a grade above major general” are substituted for the words “of a rank above that of the position for which selections are to be made”, since all the positions are in the grade of major general. The word “select” is substituted for the word “appoint”, since the filling of the offices is not appointment to an office in the constitutional sense. The word “extensive” is substituted for the word “extended”, except where it refers to “extended” active duty, in which case the word “extended” is omitted as surplusage. The words “the name of” are inserted for clarity. The words “appointed in, or assigned to” are substituted for the words “of the”, and “in the”, before the words “that branch”, to conform to sections 3063 and 3064 of this title. The word “regular” is substituted for the word “permanent”. The words “each regular or reserve officer” are substituted for the words “of officers of anycomponent of the Army of the United States”. The words “these officers” are substituted for the words “among those recommended by such board”. The words “This does not affect” are substituted for the words “but this shall in no way prejudice”. The words “to be filled”, “by it”, “other”, “which number shall”, “to be considered”, “and may in addition thereto and”, and “in the position concerned” are omitted as surplusage.
+In subsection (e), the introductory clause is substituted for 10:559g(b) (words before colon of 1st sentence). The words "in a grade above major general" are substituted for the words "of a rank above that of the position for which selections are to be made", since all the positions are in the grade of major general. The word "select" is substituted for the word "appoint", since the filling of the offices is not appointment to an office in the constitutional sense. The word "extensive" is substituted for the word "extended", except where it refers to "extended" active duty, in which case the word "extended" is omitted as surplusage. The words "the name of" are inserted for clarity. The words "appointed in, or assigned to" are substituted for the words "of the", and "in the", before the words "that branch", to conform to sections 3063 and 3064 of this title. The word "regular" is substituted for the word "permanent". The words "each regular or reserve officer" are substituted for the words "of officers of any component of the Army of the United States". The words "these officers" are substituted for the words "among those recommended by such board". The words "This does not affect" are substituted for the words "but this shall in no way prejudice". The words "to be filled", "by it", "other", "which number shall", "to be considered", "and may in addition thereto and", and "in the position concerned" are omitted as surplusage.
 
 1982
 
@@ -116,37 +116,37 @@ Act
 
 Oct. 27, 1965, Pub. L. 89–298, §219, 79 Stat. 1089.
 
-The first sentence is restated to clarify that the Secretary concerned is the Secretary of the Army. The word “services” is substituted for “work or services” because it is inclusive. The word “instrumentality” is added for clarity.
+The first sentence is restated to clarify that the Secretary concerned is the Secretary of the Army. The word "services" is substituted for "work or services" because it is inclusive. The word "instrumentality" is added for clarity.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–106 inserted “may be appointed from officers in any corps of the Army Medical Department and” after “The Surgeon General” in concluding provisions.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106 inserted "may be appointed from officers in any corps of the Army Medical Department and" after "The Surgeon General" in concluding provisions.
 
-Subsec. (d)(3). Pub. L. 104–201 substituted “In this subsection” for “For purposes of this subsection”.
+Subsec. (d)(3). Pub. L. 104–201 substituted "In this subsection" for "For purposes of this subsection".
 
 <b>1992</b>—Subsec. (d)(3). Pub. L. 102–580 added par. (3).
 
-<b>1987</b>—Subsec. (d). Pub. L. 100–26 designated existing first sentence requiring each officer named in subsec. (a) to perform prescribed duties as par. (1), designated existing second sentence permitting the Chief of Engineers to accept orders to provide services to another department, agency, or governmental instrumentality as par. (2), and substituted “United States or to a State or political subdivision of a State. The Chief of Engineers may provide any part of those services by contract. Services may be provided to a State, or to a political subdivision of a State, only if—
+<b>1987</b>—Subsec. (d). Pub. L. 100–26 designated existing first sentence requiring each officer named in subsec. (a) to perform prescribed duties as par. (1), designated existing second sentence permitting the Chief of Engineers to accept orders to provide services to another department, agency, or governmental instrumentality as par. (2), and substituted "United States or to a State or political subdivision of a State. The Chief of Engineers may provide any part of those services by contract. Services may be provided to a State, or to a political subdivision of a State, only if—
 
-&emsp;“(A) the work to be undertaken on behalf of non-Federal interests involves Federal assistance and the head of the department or agency providing Federal assistance for the work does not object to the provision of services by the Chief of Engineers; and
+&emsp;"(A) the work to be undertaken on behalf of non-Federal interests involves Federal assistance and the head of the department or agency providing Federal assistance for the work does not object to the provision of services by the Chief of Engineers; and
 
-&emsp;“(B) the services are provided on a reimbursable basis.” for “United States and, on a reimbursable basis, to a State or political subdivision thereof. Services provided to a State or political subdivision thereof shall be undertaken only on condition that—
+&emsp;"(B) the services are provided on a reimbursable basis." for "United States and, on a reimbursable basis, to a State or political subdivision thereof. Services provided to a State or political subdivision thereof shall be undertaken only on condition that—
 
-&emsp;“(1) the work to be undertaken on behalf of non-Federal interests involves Federal assistance; and
+&emsp;"(1) the work to be undertaken on behalf of non-Federal interests involves Federal assistance; and
 
-&emsp;“(2) the department or agency providing Federal assistance for the work does not object to the provision of services by the Chief of Engineers.\[,\]
+&emsp;"(2) the department or agency providing Federal assistance for the work does not object to the provision of services by the Chief of Engineers.\[,\]
 
-> any part of those services by contract.”
+> any part of those services by contract."
 
-<b>1986</b>—Subsec. (d). Pub. L. 99–662 substituted “and, on a reimbursable basis, to a State or political subdivision thereof. Services provided to a State or political subdivision thereof shall be undertaken only on condition that—
+<b>1986</b>—Subsec. (d). Pub. L. 99–662 substituted "and, on a reimbursable basis, to a State or political subdivision thereof. Services provided to a State or political subdivision thereof shall be undertaken only on condition that—
 
-&emsp;“(1) the work to be undertaken on behalf of non-Federal interests involves Federal assistance; and
+&emsp;"(1) the work to be undertaken on behalf of non-Federal interests involves Federal assistance; and
 
-&emsp;“(2) the department or agency providing Federal assistance for the work does not object to the provision of services by the Chief of Engineers.”
+&emsp;"(2) the department or agency providing Federal assistance for the work does not object to the provision of services by the Chief of Engineers."
 
-> for “and may provide”, which resulted in the creation of an incomplete sentence.
+> for "and may provide", which resulted in the creation of an incomplete sentence.
 
-<b>1982</b>—Subsec. (d). Pub. L. 97–295 substituted “Secretary of the Army” for “Secretary” and inserted provision that, under the supervision of the Secretary, the Chief of Engineers may accept orders to provide services to another department, agency, or instrumentality of the United States and may provide any part of those services by contract.
+<b>1982</b>—Subsec. (d). Pub. L. 97–295 substituted "Secretary of the Army" for "Secretary" and inserted provision that, under the supervision of the Secretary, the Chief of Engineers may accept orders to provide services to another department, agency, or instrumentality of the United States and may provide any part of those services by contract.
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–718 struck out cls. (2) to (8) naming the Chief Signal Officer, Adjutant General, Quartermaster General, Chief of Finance, Chief of Ordnance, Chief Chemical Officer, and Chief of Transportation respectively, and redesignated cls. (9) to (11) as (2) to (4), respectively.
 
@@ -154,93 +154,93 @@ Subsec. (d)(3). Pub. L. 104–201 substituted “In this subsection” for “Fo
 
 #### Corps of Engineers; Annual Budget Submission
 
-Pub. L. 110–161, div. C, title I, §114, Dec. 26, 2007, 121 Stat. 1944, provided that: “All budget documents and justification materials for the Corps of Engineers annual budget submission to Congress shall be assembled and presented based on the most recent annual appropriations Act: <i>Provided</i>, That new budget proposals for fiscal year 2008 and thereafter, shall not be integrated into the budget justifications submitted to Congress but shall be submitted separately from the budget justifications documents.”
+Pub. L. 110–161, div. C, title I, §114, Dec. 26, 2007, 121 Stat. 1944, provided that: "All budget documents and justification materials for the Corps of Engineers annual budget submission to Congress shall be assembled and presented based on the most recent annual appropriations Act: <i>Provided</i>, That new budget proposals for fiscal year 2008 and thereafter, shall not be integrated into the budget justifications submitted to Congress but shall be submitted separately from the budget justifications documents."
 
 #### Chief of Engineers; Fiscal Transparency Report
 
 Pub. L. 110–114, title II, §2027, Nov. 8, 2007, 121 Stat. 1079, provided that:
 
-“(a)
+"(a)
 
 In General.—On the third Tuesday of January of each year beginning January 2008, the Chief of Engineers shall submit to the Committee on Environment and Public Works of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on—
 
-&emsp;“(1) the expenditures by the Corps for the preceding fiscal year and estimated expenditures by the Corps for the current fiscal year; and
+&emsp;"(1) the expenditures by the Corps for the preceding fiscal year and estimated expenditures by the Corps for the current fiscal year; and
 
-&emsp;“(2) for projects and activities that are not scheduled for completion in the current fiscal year, the estimated expenditures by the Corps necessary in the following fiscal year for each project or activity to maintain the same level of effort being achieved in the current fiscal year.
+&emsp;"(2) for projects and activities that are not scheduled for completion in the current fiscal year, the estimated expenditures by the Corps necessary in the following fiscal year for each project or activity to maintain the same level of effort being achieved in the current fiscal year.
 
-“(b)
+"(b)
 
 Contents.—In addition to the information described in subsection (a), the report shall contain a detailed accounting of the following information:
 
-&emsp;“(1) With respect to activities carried out with funding provided under the Construction appropriations account for the Secretary \[of the Army\], information on—
+&emsp;"(1) With respect to activities carried out with funding provided under the Construction appropriations account for the Secretary \[of the Army\], information on—
 
-&emsp;&emsp;“(A) projects currently under construction, including—
+&emsp;&emsp;"(A) projects currently under construction, including—
 
-&emsp;&emsp;&emsp;“(i) allocations to date;
+&emsp;&emsp;&emsp;"(i) allocations to date;
 
-&emsp;&emsp;&emsp;“(ii) the number of years remaining to complete construction;
+&emsp;&emsp;&emsp;"(ii) the number of years remaining to complete construction;
 
-&emsp;&emsp;&emsp;“(iii) the estimated annual Federal cost to maintain that construction schedule; and
+&emsp;&emsp;&emsp;"(iii) the estimated annual Federal cost to maintain that construction schedule; and
 
-&emsp;&emsp;&emsp;“(iv) a list of projects the Corps of Engineers expects to complete during the current fiscal year; and
+&emsp;&emsp;&emsp;"(iv) a list of projects the Corps of Engineers expects to complete during the current fiscal year; and
 
-&emsp;&emsp;“(B) projects for which there is a signed partnership agreement and completed planning, engineering, and design, including—
+&emsp;&emsp;"(B) projects for which there is a signed partnership agreement and completed planning, engineering, and design, including—
 
-&emsp;&emsp;&emsp;“(i) the number of years the project is expected to require for completion; and
+&emsp;&emsp;&emsp;"(i) the number of years the project is expected to require for completion; and
 
-&emsp;&emsp;&emsp;“(ii) estimated annual Federal cost to maintain that construction schedule.
+&emsp;&emsp;&emsp;"(ii) estimated annual Federal cost to maintain that construction schedule.
 
-&emsp;“(2) With respect to operation and maintenance of the inland and intracoastal waterways identified by section 206 of the Inland Waterways Revenue Act of 1978 (33 U.S.C. 1804)—
+&emsp;"(2) With respect to operation and maintenance of the inland and intracoastal waterways identified by section 206 of the Inland Waterways Revenue Act of 1978 (33 U.S.C. 1804)—
 
-&emsp;&emsp;“(A) the estimated annual cost to maintain each waterway for the authorized reach and at the authorized depth;
+&emsp;&emsp;"(A) the estimated annual cost to maintain each waterway for the authorized reach and at the authorized depth;
 
-&emsp;&emsp;“(B) the estimated annual cost of operation and maintenance of locks and dams to ensure navigation without interruption; and
+&emsp;&emsp;"(B) the estimated annual cost of operation and maintenance of locks and dams to ensure navigation without interruption; and
 
-&emsp;&emsp;“(C) the actual expenditures to maintain each waterway.
+&emsp;&emsp;"(C) the actual expenditures to maintain each waterway.
 
-&emsp;“(3) With respect to activities carried out with funding provided under the Investigations appropriations account for the Secretary—
+&emsp;"(3) With respect to activities carried out with funding provided under the Investigations appropriations account for the Secretary—
 
-&emsp;&emsp;“(A) the number of active studies;
+&emsp;&emsp;"(A) the number of active studies;
 
-&emsp;&emsp;“(B) the number of completed studies not yet authorized for construction;
+&emsp;&emsp;"(B) the number of completed studies not yet authorized for construction;
 
-&emsp;&emsp;“(C) the number of initiated studies; and
+&emsp;&emsp;"(C) the number of initiated studies; and
 
-&emsp;&emsp;“(D) the number of studies expected to be completed during the fiscal year.
+&emsp;&emsp;"(D) the number of studies expected to be completed during the fiscal year.
 
-&emsp;“(4) Funding received and estimates of funds to be received for interagency and international support activities under section 234 of the Water Resources Development Act of 1996 (33 U.S.C. 2323a).
+&emsp;"(4) Funding received and estimates of funds to be received for interagency and international support activities under section 234 of the Water Resources Development Act of 1996 (33 U.S.C. 2323a).
 
-&emsp;“(5) Recreation fees and lease payments.
+&emsp;"(5) Recreation fees and lease payments.
 
-&emsp;“(6) Hydropower and water storage receipts.
+&emsp;"(6) Hydropower and water storage receipts.
 
-&emsp;“(7) Deposits into the Inland Waterways Trust Fund and the Harbor Maintenance Trust Fund.
+&emsp;"(7) Deposits into the Inland Waterways Trust Fund and the Harbor Maintenance Trust Fund.
 
-&emsp;“(8) Other revenues and fees collected by the Corps of Engineers.
+&emsp;"(8) Other revenues and fees collected by the Corps of Engineers.
 
-&emsp;“(9) With respect to permit applications and notifications, a list of individual permit applications and nationwide permit notifications, including—
+&emsp;"(9) With respect to permit applications and notifications, a list of individual permit applications and nationwide permit notifications, including—
 
-&emsp;&emsp;“(A) the date on which each permit application is filed;
+&emsp;&emsp;"(A) the date on which each permit application is filed;
 
-&emsp;&emsp;“(B) the date on which each permit application is determined to be complete;
+&emsp;&emsp;"(B) the date on which each permit application is determined to be complete;
 
-&emsp;&emsp;“(C) the date on which any permit application is withdrawn; and
+&emsp;&emsp;"(C) the date on which any permit application is withdrawn; and
 
-&emsp;&emsp;“(D) the date on which the Corps of Engineers grants or denies each permit.
+&emsp;&emsp;"(D) the date on which the Corps of Engineers grants or denies each permit.
 
-&emsp;“(10) With respect to projects that are authorized but for which construction is not complete, a list of such projects for which no funds have been allocated for the 5 preceding fiscal years, including, for each project—
+&emsp;"(10) With respect to projects that are authorized but for which construction is not complete, a list of such projects for which no funds have been allocated for the 5 preceding fiscal years, including, for each project—
 
-&emsp;&emsp;“(A) the authorization date;
+&emsp;&emsp;"(A) the authorization date;
 
-&emsp;&emsp;“(B) the last allocation date;
+&emsp;&emsp;"(B) the last allocation date;
 
-&emsp;&emsp;“(C) the percentage of construction completed;
+&emsp;&emsp;"(C) the percentage of construction completed;
 
-&emsp;&emsp;“(D) the estimated cost remaining until completion of the project; and
+&emsp;&emsp;"(D) the estimated cost remaining until completion of the project; and
 
-&emsp;&emsp;“(E) a brief explanation of the reasons for the delay.”
+&emsp;&emsp;"(E) a brief explanation of the reasons for the delay."
 
-\[Reference to “partnership agreement” deemed to be reference to “cooperation agreement”, see section 2003(f)(3) of Pub. L. 110–114, set out as a note under section 1962d–5b of Title 42, The Public Health and Welfare.\]
+\[Reference to "partnership agreement" deemed to be reference to "cooperation agreement", see section 2003(f)(3) of Pub. L. 110–114, set out as a note under section 1962d–5b of Title 42, The Public Health and Welfare.\]
 
 #### Chief of Engineers; Work or Services for Other Federal Departments and Agencies
 

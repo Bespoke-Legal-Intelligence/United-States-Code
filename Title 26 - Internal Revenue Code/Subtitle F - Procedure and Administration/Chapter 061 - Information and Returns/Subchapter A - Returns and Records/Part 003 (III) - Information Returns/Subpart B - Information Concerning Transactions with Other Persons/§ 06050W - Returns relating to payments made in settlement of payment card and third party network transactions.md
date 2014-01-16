@@ -16,7 +16,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “payment settlement entity” means—
+&emsp;The term "payment settlement entity" means—
 
 &emsp;&emsp;(A) in the case of a payment card transaction, the merchant acquiring entity, and
 
@@ -24,11 +24,11 @@ For purposes of this section—
 
 #### (2) Merchant acquiring entity
 
-&emsp;The term “merchant acquiring entity” means the bank or other organization which has the contractual obligation to make payment to participating payees in settlement of payment card transactions.
+&emsp;The term "merchant acquiring entity" means the bank or other organization which has the contractual obligation to make payment to participating payees in settlement of payment card transactions.
 
 #### (3) Third party settlement organization
 
-&emsp;The term “third party settlement organization” means the central organization which has the contractual obligation to make payment to participating payees of third party network transactions.
+&emsp;The term "third party settlement organization" means the central organization which has the contractual obligation to make payment to participating payees of third party network transactions.
 
 #### (4) Special rules related to intermediaries
 
@@ -52,15 +52,15 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “reportable payment transaction” means any payment card transaction and any third party network transaction.
+&emsp;The term "reportable payment transaction" means any payment card transaction and any third party network transaction.
 
 #### (2) Payment card transaction
 
-&emsp;The term “payment card transaction” means any transaction in which a payment card is accepted as payment.
+&emsp;The term "payment card transaction" means any transaction in which a payment card is accepted as payment.
 
 #### (3) Third party network transaction
 
-&emsp;The term “third party network transaction” means any transaction which is settled through a third party payment network.
+&emsp;The term "third party network transaction" means any transaction which is settled through a third party payment network.
 
 #### (d) Other definitions
 
@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “participating payee” means—
+&emsp;&emsp;The term "participating payee" means—
 
 &emsp;&emsp;&emsp;(i) in the case of a payment card transaction, any person who accepts a payment card as payment, and
 
@@ -82,11 +82,11 @@ For purposes of this section—
 
 #### (C) Inclusion of governmental units
 
-&emsp;&emsp;The term “person” includes any governmental unit (and any agency or instrumentality thereof).
+&emsp;&emsp;The term "person" includes any governmental unit (and any agency or instrumentality thereof).
 
 #### (2) Payment card
 
-&emsp;The term “payment card” means any card which is issued pursuant to an agreement or arrangement which provides for—
+&emsp;The term "payment card" means any card which is issued pursuant to an agreement or arrangement which provides for—
 
 &emsp;&emsp;(A) one or more issuers of such cards,
 
@@ -98,7 +98,7 @@ For purposes of this section—
 
 #### (3) Third party payment network
 
-&emsp;The term “third party payment network” means any agreement or arrangement—
+&emsp;The term "third party payment network" means any agreement or arrangement—
 
 &emsp;&emsp;(A) which involves the establishment of accounts with a central organization by a substantial number of persons who—
 

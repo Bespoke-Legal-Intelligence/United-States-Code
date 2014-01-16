@@ -24,7 +24,7 @@ Nothing in this chapter shall be construed to apply to (or to authorize any Stat
 
 (1) No later than 90 days after October 21, 1980, the Administrator shall review any regulations applicable to the treatment, storage, or disposal of any coal mining wastes or overburden promulgated by the Secretary of the Interior under the Surface Mining and Reclamation Act of 1977 \[30 U.S.C. 1201 et seq.\]. If the Administrator determines that any requirement of final regulations promulgated under any section of subchapter III of this chapter relating to mining wastes or overburden is not adequately addressed in such regulations promulgated by the Secretary, the Administrator shall promptly transmit such determination, together with suggested revisions and supporting documentation, to the Secretary.
 
-(2) The Secretary of the Interior shall have exclusive responsibility for carrying out any requirement of subchapter III of this chapter with respect to coal mining wastes or overburden forwhich a surface coal mining and reclamation permit is issued or approved under the Surface Mining Control and Reclamation Act of 1977 \[30 U.S.C. 1201 et seq.\]. The Secretary shall, with the concurrence of the Administrator, promulgate such regulations as may be necessary to carry out the purposes of this subsection and shall integrate such regulations with regulations promulgated under the Surface Mining Control and Reclamation Act of 1977.
+(2) The Secretary of the Interior shall have exclusive responsibility for carrying out any requirement of subchapter III of this chapter with respect to coal mining wastes or overburden for which a surface coal mining and reclamation permit is issued or approved under the Surface Mining Control and Reclamation Act of 1977 \[30 U.S.C. 1201 et seq.\]. The Secretary shall, with the concurrence of the Administrator, promulgate such regulations as may be necessary to carry out the purposes of this subsection and shall integrate such regulations with regulations promulgated under the Surface Mining Control and Reclamation Act of 1977.
 
 (Pub. L. 89–272, title II, §1006, as added Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2802; amended Pub. L. 96–482, §3, Oct. 21, 1980, 94 Stat. 2334; Pub. L. 98–616, title I, §102, title V, §501(f)(2), Nov. 8, 1984, 98 Stat. 3225, 3276.)
 
@@ -32,7 +32,7 @@ Nothing in this chapter shall be construed to apply to (or to authorize any Stat
 
 The Federal Water Pollution Control Act, referred to in subsecs. (a) and (b), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
 
-The Atomic Energy Act of 1954, as amended, referred to in subsec. (a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, as amended, referred to in subsec. (a), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 The Marine Protection, Research and Sanctuaries Act of 1972, referred to in subsecs. (a) and (b), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which enacted chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 33 and Tables.
 
@@ -62,5 +62,5 @@ For transfer of certain enforcement functions of Administrator or other official
 
 #### Uranium Mill Tailings
 
-Pub. L. 98–616, title VII, §703, Nov. 8, 1984, 98 Stat. 3289, provided that: “Nothing in the Hazardous and Solid Waste Amendments of 1984 \[see Short Title of 1984 Amendment note set out under section 6901 of this title\] shall be construed to affect, modify, or amend the Uranium Mill Tailings Radiation Control Act of 1978 \[42 U.S.C. 7901 et seq.\]”.
+Pub. L. 98–616, title VII, §703, Nov. 8, 1984, 98 Stat. 3289, provided that: "Nothing in the Hazardous and Solid Waste Amendments of 1984 \[see Short Title of 1984 Amendment note set out under section 6901 of this title\] shall be construed to affect, modify, or amend the Uranium Mill Tailings Radiation Control Act of 1978 \[42 U.S.C. 7901 et seq.\]".
 

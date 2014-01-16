@@ -6,7 +6,7 @@ No carcasses, parts of carcasses, meat or meat food products of cattle, sheep, s
 
 #### (b) Terms and conditions for destruction
 
-The Secretary may prescribe the terms and conditions for the destruction of all such articles which are imported contrary to this section, unless (1) they are exported by the consignee within the time fixed therefor by the Secretary, or (2) in the case of articles which arenot in compliance with the chapter solely because of misbranding, such articles are brought into compliance with the chapter under supervision of authorized representatives of the Secretary.
+The Secretary may prescribe the terms and conditions for the destruction of all such articles which are imported contrary to this section, unless (1) they are exported by the consignee within the time fixed therefor by the Secretary, or (2) in the case of articles which are not in compliance with the chapter solely because of misbranding, such articles are brought into compliance with the chapter under supervision of authorized representatives of the Secretary.
 
 #### (c) Payment of storage, cartage, and labor charges by owner or consignee; liens
 
@@ -30,11 +30,11 @@ The Secretary may prescribe terms and conditions under which amenable species th
 
 (1) As used in this subsection:
 
-&emsp;(A) The term “meat articles” means carcasses, meat and meat food products of cattle, sheep, swine, goats, horses, mules, or other equines, that are capable of use as human food.
+&emsp;(A) The term "meat articles" means carcasses, meat and meat food products of cattle, sheep, swine, goats, horses, mules, or other equines, that are capable of use as human food.
 
-&emsp;(B) The term “standards” means inspection, building construction, sanitary, quality, species verification, residue, and other standards that are applicable to meat articles.
+&emsp;(B) The term "standards" means inspection, building construction, sanitary, quality, species verification, residue, and other standards that are applicable to meat articles.
 
-(2) On request of the Committee on Agriculture or the Committee on Ways and Means of the House of Representatives or the Committee on Agriculture, Nutrition, and Forestry or the Committee on Finance of the Senate, or at the initiative of the Secretary, the Secretary shall, as soon as practicable, determine whether a particular foreign country applies standards for the importation of meat articles from the United States that are not related to public health concerns about end-product quality that can be substantiated by reliable analytical methods.
+(2) On request of the Committee on Agriculture or the Committee on Ways and Means of the House of Representatives or the Committee on Agriculture, Nutrition, and Forestry or the Committee on Finance of the Senate, or at the initiative of the Secretary, the Secretary shall, as soon as practicable, determine whether a particular foreign country applies standards for theimportation of meat articles from the United States that are not related to public health concerns about end-product quality that can be substantiated by reliable analytical methods.
 
 (3) If the Secretary determines that a foreign country applies standards described in paragraph (2)—
 
@@ -50,7 +50,7 @@ The Secretary may prescribe terms and conditions under which amenable species th
 
 #### References in Text
 
-Act of August 27, 1958, referred to in subsec. (a), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, as amended, which is classified generally to chapter 48 (§1901 et seq.)of Title 7, Agriculture. Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by Pub. L. 95–445, §5(b), Oct. 10, 1978, 92 Stat. 1069, effective as set forth in section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note under section 603 of this title. For complete classification of this Act to the Code, see Tables.
+Act of August 27, 1958, referred to in subsec. (a), is Pub. L. 85–765, Aug. 27, 1958, 72 Stat. 862, as amended, which is classified generally to chapter 48 (§1901 et seq.) of Title 7, Agriculture. Sections 1903 and 1905 of Title 7, included within reference to Act of August 27, 1958, were repealed by Pub. L. 95–445, §5(b), Oct. 10, 1978, 92 Stat. 1069, effective as set forth in section 7 of Pub. L. 95–445, set out as an Effective Date of 1978 Amendment note under section 603 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (a), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of this title. For complete classification of this act to the Code, see section 301 of this title and Tables.
 
@@ -62,21 +62,21 @@ Section was formerly classified to section 88 of this title.
 
 #### Amendments
 
-<b>2005</b>—Subsec. (g). Pub. L. 109–97 substituted “amenable species” for “cattle, sheep, swine, goats, horses, mules, and other equines” in two places.
+<b>2005</b>—Subsec. (g). Pub. L. 109–97 substituted "amenable species" for "cattle, sheep, swine, goats, horses, mules, and other equines" in two places.
 
-<b>1994</b>—Subsec. (e). Pub. L. 103–437 substituted “Agriculture, Nutrition, and Forestry” for “Agriculture and Forestry” in introductory provisions.
+<b>1994</b>—Subsec. (e). Pub. L. 103–437 substituted "Agriculture, Nutrition, and Forestry" for "Agriculture and Forestry" in introductory provisions.
 
 Subsec. (e)(1)(A), (B). Pub. L. 103–465, §431(l)(1), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
 
-“(A) Subject to subparagraphs (B) and (C), a certification by the Secretary that foreign plants in Canada and Mexico that export carcasses or meat or meat products referred to in subsection (a) of this section have complied with paragraph (2) or with requirements that are equivalent to United States requirements with regard to all inspection and building construction standards, and all other provisions of this chapter and regulations issued under this chapter.
+"(A) Subject to subparagraphs (B) and (C), a certification by the Secretary that foreign plants in Canada and Mexico that export carcasses or meat or meat products referred to in subsection (a) of this section have complied with paragraph (2) or with requirements that are equivalent to United States requirements with regard to all inspection and building construction standards, and all other provisions of this chapter and regulations issued under this chapter.
 
-“(B) Subject to subparagraph (C), the Secretary may treat as equivalent to a United States requirement a requirement described in subparagraph (A) if the exporting country provides the Secretary with scientific evidence or other information, in accordance with risk assessment methodologies agreed to by the Secretary and the exporting country, to demonstrate that the requirement or standard of the exporting country achieves the level of protection that the Secretary considers appropriate.”
+"(B) Subject to subparagraph (C), the Secretary may treat as equivalent to a United States requirement a requirement described in subparagraph (A) if the exporting country provides the Secretary with scientific evidence or other information, in accordance with risk assessment methodologies agreed to by the Secretary and the exporting country, to demonstrate that the requirement or standard of the exporting country achieves the level of protection that the Secretary considers appropriate."
 
-Subsec. (e)(2) to (7). Pub. L. 103–465, §431(l)(2), (3), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) which read as follows: “A certification by the Secretary that, except as provided in paragraph (1), foreign plants that export carcasses or meat or meat products referred to in subsection (a) of this section have complied with requirements that are at least equal to all inspection and building construction standards and all other provisions of this chapter and regulations issued under this chapter.”
+Subsec. (e)(2) to (7). Pub. L. 103–465, §431(l)(2), (3), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) which read as follows: "A certification by the Secretary that, except as provided in paragraph (1), foreign plants that export carcasses or meat or meat products referred to in subsection (a) of this section have complied with requirements that are at least equal to all inspection and building construction standards and all other provisions of this chapter and regulations issued under this chapter."
 
-<b>1993</b>—Subsec. (e). Pub. L. 103–182, §361(f)(1), substituted “not be limited to the following:” for “not be limited to—” in introductory provisions.
+<b>1993</b>—Subsec. (e). Pub. L. 103–182, §361(f)(1), substituted "not be limited to the following:" for "not be limited to—" in introductory provisions.
 
-Subsec. (e)(1) to (7). Pub. L. 103–182, §361(f)(2)–(7), added pars. (1) and (2), struck out former par. (1), redesignated pars. (2) to (6) as (3) to (7), respectively, substituted “The” for “the” at beginning of each par., substituted period for semicolon at end of pars. (3) to (5), and substituted period for “; and” at end of par. (6). Prior to amendment, former par. (1) read as follows: “a certification by the Secretary that foreign plants exporting carcasses or meat or meat products referred to in subsection (a) of this section have complied with requirements at least equal to all the inspection, building construction standards, and all other provisions of this chapter and regulations issued thereunder;”.
+Subsec. (e)(1) to (7). Pub. L. 103–182, §361(f)(2)–(7), added pars. (1) and (2), struck out former par. (1), redesignated pars. (2) to (6) as (3) to (7), respectively, substituted "The" for "the" at beginning of each par., substituted period for semicolon at end of pars. (3) to (5), and substituted period for "; and" at end of par. (6). Prior to amendment, former par. (1) read as follows: "a certification by the Secretary that foreign plants exporting carcasses or meat or meat products referred to in subsection (a) of this section have complied with requirements at least equal to all the inspection, building construction standards, and all other provisions of this chapter and regulations issued thereunder;".
 
 <b>1988</b>—Subsec. (e)(6). Pub. L. 100–418, §4604(b), added par. (6).
 

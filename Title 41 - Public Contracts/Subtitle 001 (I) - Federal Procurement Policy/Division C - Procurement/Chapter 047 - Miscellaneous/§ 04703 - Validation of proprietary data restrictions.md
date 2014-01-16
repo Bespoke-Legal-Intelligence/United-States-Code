@@ -50,7 +50,7 @@ Challenge is sustained.—If the contracting officer's challenge to the restrict
 
 &emsp;&emsp;(A) the restriction is cancelled; and
 
-&emsp;&emsp;(B) if the asserted restriction is found not to be substantially justified, the contractor or subcontractor, as appropriate, is liable to the Federal Government for payment of the cost to the Federal Government of reviewing the asserted restriction and the fees and other expenses (as defined in section 2412(d)(2)(A) of title 28) incurred by the Federal Government in challenging the asserted restriction, unless special circumstances would make the payment unjust.
+&emsp;&emsp;(B) if the asserted restriction is found not to be substantially justified, the contractor or subcontractor, as appropriate, is liable to the Federal Government for payment of the cost to the Federal Government of reviewing the asserted restriction and the fees andother expenses (as defined in section 2412(d)(2)(A) of title 28) incurred by the Federal Government in challenging the asserted restriction, unless special circumstances would make the payment unjust.
 
 &emsp;(2)
 

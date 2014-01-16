@@ -10,7 +10,7 @@ Provisions similar to those in this section were contained in section 5454 of th
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–163, §515(b)(3)(I), substituted “Navy Reserve” for “Naval Reserve” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §515(b)(3)(I), substituted "Navy Reserve" for "Naval Reserve" in section catchline.
 
-Pub. L. 109–163, §515(b)(1)(GG), substituted “Navy Reserve” for “Naval Reserve” in text.
+Pub. L. 109–163, §515(b)(1)(GG), substituted "Navy Reserve" for "Naval Reserve" in text.
 

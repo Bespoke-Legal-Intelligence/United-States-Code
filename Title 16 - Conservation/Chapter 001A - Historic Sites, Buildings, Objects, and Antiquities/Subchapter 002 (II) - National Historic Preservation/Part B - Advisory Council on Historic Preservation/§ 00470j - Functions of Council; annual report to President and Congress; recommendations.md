@@ -36,5 +36,5 @@ For termination, effective May 15, 2000, of provisions in subsec. (b) of this se
 
 #### Relationship of Federal Tax Laws to Historic Preservation; Report to President and Congress
 
-Section 503 of Pub. L. 96–515 directed the Advisory Council on Historic Preservation to submit a report,within one year of Dec. 12, 1980, to the President and the Congress on Federal tax laws relating to historic preservation or affecting in any manner historic preservation.
+Section 503 of Pub. L. 96–515 directed the Advisory Council on Historic Preservation to submit a report, within one year of Dec. 12, 1980, to the President and the Congress on Federal tax laws relating to historic preservation or affecting in any manner historic preservation.
 

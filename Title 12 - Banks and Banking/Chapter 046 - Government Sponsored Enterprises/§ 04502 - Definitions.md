@@ -4,15 +4,15 @@ For purposes of this chapter:
 
 #### (1) Affiliate
 
-&emsp;Except as provided by the Director, the term “affiliate” means any entity that controls, iscontrolled by, or is under common control with, an enterprise.
+&emsp;Except as provided by the Director, the term "affiliate" means any entity that controls, iscontrolled by, or is under common control with, an enterprise.
 
 #### (2) Agency
 
-&emsp;The term “Agency” means the Federal Housing Finance Agency established under section 4511 of this title.
+&emsp;The term "Agency" means the Federal Housing Finance Agency established under section 4511 of this title.
 
 #### (3) Authorizing statutes
 
-&emsp;The term “authorizing statutes” means—
+&emsp;The term "authorizing statutes" means—
 
 &emsp;&emsp;(A) the Federal National Mortgage Association Charter Act;
 
@@ -22,13 +22,13 @@ For purposes of this chapter:
 
 #### (4) Board
 
-&emsp;The term “Board” means the Federal Housing Finance Oversight Board established under section 4513a of this title.
+&emsp;The term "Board" means the Federal Housing Finance Oversight Board established under section 4513a of this title.
 
 #### (5) Capital distribution
 
 #### (A) In general
 
-&emsp;&emsp;The term “capital distribution” means—
+&emsp;&emsp;The term "capital distribution" means—
 
 &emsp;&emsp;&emsp;(i) any dividend or other distribution in cash or in kind made with respect to any shares of, or other ownership interest in, an enterprise, except a dividend consisting only of shares of the enterprise;
 
@@ -42,11 +42,11 @@ For purposes of this chapter:
 
 #### (6) Compensation
 
-&emsp;The term “compensation” means any payment of money or the provision of any other thing of current or potential value in connection with employment.
+&emsp;The term "compensation" means any payment of money or the provision of any other thing of current or potential value in connection with employment.
 
 #### (7) Core capital
 
-&emsp;The term “core capital” means, with respect to an enterprise, the sum of the following (as determined in accordance with generally accepted accounting principles):
+&emsp;The term "core capital" means, with respect to an enterprise, the sum of the following (as determined in accordance with generally accepted accounting principles):
 
 &emsp;&emsp;(A) The par or stated value of outstanding common stock.
 
@@ -62,11 +62,11 @@ For purposes of this chapter:
 
 #### (A) Default
 
-&emsp;&emsp;The term “default” means, with respect to a regulated entity, any adjudication or other official determination by any court of competent jurisdiction, or the Agency, pursuant to which a conservator, receiver, limited-life regulated entity, or legal custodian is appointed for a regulated entity.
+&emsp;&emsp;The term "default" means, with respect to a regulated entity, any adjudication or other official determination by any court of competent jurisdiction, or the Agency, pursuant to which a conservator, receiver, limited-life regulated entity, or legal custodian is appointed for a regulated entity.
 
 #### (B) In danger of default
 
-&emsp;&emsp;The term “in danger of default” means a regulated entity with respect to which, in the opinion of the Agency—
+&emsp;&emsp;The term "in danger of default" means a regulated entity with respect to which, in the opinion of the Agency—
 
 &emsp;&emsp;&emsp;(i) the regulated entity is not likely to be able to pay the obligations of the regulated entity in the normal course of business; or
 
@@ -78,11 +78,11 @@ For purposes of this chapter:
 
 #### (9) Director
 
-&emsp;The term “Director” means the Director of the Federal Housing Finance Agency.
+&emsp;The term "Director" means the Director of the Federal Housing Finance Agency.
 
 #### (10) Enterprise
 
-&emsp;The term “enterprise” means—
+&emsp;The term "enterprise" means—
 
 &emsp;&emsp;(A) the Federal National Mortgage Association and any affiliate thereof; and
 
@@ -90,7 +90,7 @@ For purposes of this chapter:
 
 #### (11) Entity-affiliated party
 
-&emsp;The term “entity-affiliated party” means—
+&emsp;The term "entity-affiliated party" means—
 
 &emsp;&emsp;(A) any director, officer, employee, or controlling stockholder of, or agent for, a regulated entity;
 
@@ -114,15 +114,15 @@ For purposes of this chapter:
 
 #### (12) Executive officer
 
-&emsp;The term “executive officer” means, with respect to an enterprise, the chairman of the board of directors, chief executive officer,chief financial officer, president, vice chairman, any executive vice president, and any senior vice president in charge of a principal business unit, division, or function.
+&emsp;The term "executive officer" means, with respect to an enterprise, the chairman of the board of directors, chief executive officer,chief financial officer, president, vice chairman, any executive vice president, and any senior vice president in charge of a principal business unit, division, or function.
 
 #### (13) Limited-life regulated entity
 
-&emsp;The term “limited-life regulated entity” means an entity established by the Agency under section 4617(i) of this title with respect to a Federal Home Loan Bank in default or in danger of default or with respect to an enterprise in default or in danger of default.
+&emsp;The term "limited-life regulated entity" means an entity established by the Agency under section 4617(i) of this title with respect to a Federal Home Loan Bank in default or in danger of default or with respect to an enterprise in default or in danger of default.
 
 #### (14) Low-income
 
-&emsp;The term “low-income” means—
+&emsp;The term "low-income" means—
 
 &emsp;&emsp;(A) in the case of owner-occupied units, income not in excess of 80 percent of area median income; and
 
@@ -130,11 +130,11 @@ For purposes of this chapter:
 
 #### (15) Median income
 
-&emsp;The term “median income” means, with respect to an area, the unadjusted median family income for the area, as determined and published annually by the Director.
+&emsp;The term "median income" means, with respect to an area, the unadjusted median family income for the area, as determined and published annually by the Director.
 
 #### (16) Moderate-income
 
-&emsp;The term “moderate-income” means—
+&emsp;The term "moderate-income" means—
 
 &emsp;&emsp;(A) in the case of owner-occupied units, income not in excess of area median income; and
 
@@ -142,19 +142,19 @@ For purposes of this chapter:
 
 #### (17) Mortgage purchases
 
-&emsp;The term “mortgage purchases” includes mortgages purchased for portfolio or securitization.
+&emsp;The term "mortgage purchases" includes mortgages purchased for portfolio or securitization.
 
 #### (18) Multifamily housing
 
-&emsp;The term “multifamily housing” means a residence consisting of more than 4 dwelling units.
+&emsp;The term "multifamily housing" means a residence consisting of more than 4 dwelling units.
 
 #### (19) Office of Finance
 
-&emsp;The term “Office of Finance” means the Office of Finance of the Federal Home Loan Bank System (or any successor thereto).
+&emsp;The term "Office of Finance" means the Office of Finance of the Federal Home Loan Bank System (or any successor thereto).
 
 #### (20) Regulated entity
 
-&emsp;The term “regulated entity” means—
+&emsp;The term "regulated entity" means—
 
 &emsp;&emsp;(A) the Federal National Mortgage Association and any affiliate thereof;
 
@@ -164,15 +164,15 @@ For purposes of this chapter:
 
 #### (21) Single family housing
 
-&emsp;The term “single family housing” means a residence consisting of 1 to 4 dwelling units.
+&emsp;The term "single family housing" means a residence consisting of 1 to 4 dwelling units.
 
 #### (22) State
 
-&emsp;The term “State” means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+&emsp;The term "State" means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
 #### (23) Total capital
 
-&emsp;The term “total capital” means, with respect to an enterprise, the sum of the following:
+&emsp;The term "total capital" means, with respect to an enterprise, the sum of the following:
 
 &emsp;&emsp;(A) The core capital of the enterprise; <sup>1</sup>
 
@@ -188,7 +188,7 @@ For purposes of this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “very low-income” means—
+&emsp;&emsp;The term "very low-income" means—
 
 &emsp;&emsp;&emsp;(i) in the case of owner-occupied units, families having incomes not greater than 50 percent of the area median income; and
 
@@ -196,7 +196,7 @@ For purposes of this chapter:
 
 #### (B) Rule of construction
 
-&emsp;&emsp;For purposes of section <sup>2</sup> 4568 and 4569 of this title, the term “very low-income” means—
+&emsp;&emsp;For purposes of section <sup>2</sup> 4568 and 4569 of this title, the term "very low-income" means—
 
 &emsp;&emsp;&emsp;(i) in the case of owner-occupied units, income in excess of 30 percent but not greater than 50 percent of the area median income; and
 
@@ -204,11 +204,11 @@ For purposes of this chapter:
 
 #### (25) Violation
 
-&emsp;The term “violation” includes any action (alone or in combination with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
+&emsp;The term "violation" includes any action (alone or in combination with another or others) for or toward causing, bringing about, participating in, counseling, or aiding or abetting a violation.
 
 #### (26) Conforming mortgage
 
-&emsp;The term “conforming mortgage” means, with respect to an enterprise, a conventional mortgage having an original principal obligation that does not exceed the dollar amount limitation in effect at the time of such origination and applicable to such mortgage, under, as applicable—
+&emsp;The term "conforming mortgage" means, with respect to an enterprise, a conventional mortgage having an original principal obligation that does not exceed the dollar amount limitation in effect at the time of such origination and applicable to such mortgage, under, as applicable—
 
 &emsp;&emsp;(A) section 302(b)(2) of the Federal National Mortgage Association Charter Act \[12 U.S.C. 1717(b)(2)\]; or
 
@@ -216,7 +216,7 @@ For purposes of this chapter:
 
 #### (27) Extremely low-income
 
-&emsp;The term “extremely low-income” means—
+&emsp;The term "extremely low-income" means—
 
 &emsp;&emsp;(A) in the case of owner-occupied units, income not in excess of 30 percent of the area median income; and
 
@@ -224,17 +224,17 @@ For purposes of this chapter:
 
 #### (28) Low-income area
 
-&emsp;The term “low-income area” means a census tract or block numbering area in which the median income does not exceed 80 percent of the median income for the area in which such census tract or block numbering area is located, and, for the purposes of section 4562(a)(1)(B) of this title, shall include families having incomes not greater than 100 percent of the area median income who reside in minority census tracts and shall include families having incomes not greater than 100 percent of the area median income who reside in designated disaster areas.
+&emsp;The term "low-income area" means a census tract or block numbering area in which the median income does not exceed 80 percent of the median income for the area in which such census tract or block numbering area is located, and, for the purposes of section 4562(a)(1)(B) of this title, shall include families having incomes not greater than 100 percent of the area median income who reside in minority census tracts and shall include families having incomes not greater than 100 percent of the area median income who reside in designated disaster areas.
 
 #### (29) Minority census tract
 
-&emsp;The term “minority census tract” means a census tract that has a minority population of at least 30 percent and a median family income of less than 100 percent of the area family median income.
+&emsp;The term "minority census tract" means a census tract that has a minority population of at least 30 percent and a median family income of less than 100 percent of the area family median income.
 
 #### (30) Shortage of standard rental units both affordable and available to extremely low-income renter households
 
 #### (A) In general
 
-&emsp;&emsp;The term “shortage of standard rental units both affordable and available to extremely low-income renter households” means the gap between—
+&emsp;&emsp;The term "shortage of standard rental units both affordable and available to extremely low-income renter households" means the gap between—
 
 &emsp;&emsp;&emsp;(i) the number of units with complete plumbing and kitchen facilities with a rent that is 30 percent or less of 30 percent of the adjusted area median income as determined by the Director that are occupied by extremely low-income renter households or are vacant for rent; and
 
@@ -248,7 +248,7 @@ For purposes of this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “shortage of standard rental units both affordable and available to very low-income renter households” means the gap between—
+&emsp;&emsp;The term "shortage of standard rental units both affordable and available to very low-income renter households" means the gap between—
 
 &emsp;&emsp;&emsp;(i) the number of units with complete plumbing and kitchen facilities with a rent that is 30 percent or less of 50 percent of the adjusted area median income as determined by the Director that are occupied by either extremely low- or very low-income renter households or are vacant for rent; and
 
@@ -262,7 +262,7 @@ For purposes of this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
+This chapter, referred to in text, was in the original "this title", meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
 The Federal National Mortgage Association Charter Act, referred to in par. (3)(A), is title III of act June 27, 1934, ch. 847, 48 Stat. 1252, which is classified generally to subchapter III (§1716 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1716 of this title and Tables.
 
@@ -272,11 +272,11 @@ The Federal Home Loan Bank Act, referred to in par. (3)(C), is act July 22, 1932
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–289, §1002(a)(2)–(14), added pars. (2) to (4), (8), (11), (13), (19), (20), and (25), redesignated former pars. (2) to (12) and (16) to (19) as (5) to (7), (9), (10), (12), (14) to (18), and (21) to (24), respectively, substituted “Federal Housing Finance Agency” for “Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development” in par. (9), and struck out former pars. (13) to (15) which defined the terms “new program”, “Office”, and “Secretary”, respectively.
+<b>2008</b>—Pub. L. 110–289, §1002(a)(2)–(14), added pars. (2) to (4), (8), (11), (13), (19), (20), and (25), redesignated former pars. (2) to (12) and (16) to (19) as (5) to (7), (9), (10), (12), (14) to (18), and (21) to (24), respectively, substituted "Federal Housing Finance Agency" for "Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development" in par. (9), and struck out former pars. (13) to (15) which defined the terms "new program", "Office", and "Secretary", respectively.
 
-Pars. (8)(B), (9), (10)(B), (19)(B). Pub. L. 110–289, §1002(a)(1), substituted “Director” for “Secretary”.
+Pars. (8)(B), (9), (10)(B), (19)(B). Pub. L. 110–289, §1002(a)(1), substituted "Director" for "Secretary".
 
-Par. (24). Pub. L. 110–289, §1128(d)(1), added par. (24) and struck out former par. (24) which defined the term “very low-income”.
+Par. (24). Pub. L. 110–289, §1128(d)(1), added par. (24) and struck out former par. (24) which defined the term "very low-income".
 
 Pars. (26) to (31). Pub. L. 110–289, §1128(d)(2), added pars. (26) to (31).
 
@@ -286,5 +286,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "sections".</i>
 

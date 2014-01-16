@@ -4,9 +4,9 @@
 
 Definitions.—In this section:
 
-&emsp;(1) The term “military nursing research” means research on the furnishing of care and services by nurses in the armed forces.
+&emsp;(1) The term "military nursing research" means research on the furnishing of care and services by nurses in the armed forces.
 
-&emsp;(2) The term “TriService Nursing Research Program” means the program of military nursing research authorized under this section.
+&emsp;(2) The term "TriService Nursing Research Program" means the program of military nursing research authorized under this section.
 
 (b)
 

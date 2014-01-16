@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Jan. 22, 1923, ch. 28, 42 Stat. 1142 (last 24 words of 5th par.).
 
-The words “as miscellaneous receipts” are omitted as surplusage.
+The words "as miscellaneous receipts" are omitted as surplusage.
 

@@ -68,11 +68,11 @@ Each insured depository institution shall adopt policies for closings of branche
 
 #### (A) Interstate bank defined
 
-&emsp;&emsp;The term “interstate bank” means a bank which maintains branches in more than 1 State.
+&emsp;&emsp;The term "interstate bank" means a bank which maintains branches in more than 1 State.
 
 #### (B) Low- or moderate-income area
 
-&emsp;&emsp;The term “low- or moderate-income area” means a census tract for which the median family income is—
+&emsp;&emsp;The term "low- or moderate-income area" means a census tract for which the median family income is—
 
 &emsp;&emsp;&emsp;(i) less than 80 percent of the median family income for the metropolitan statistical area (as designated by the Director of the Office of Management and Budget) in which the census tract is located; or
 

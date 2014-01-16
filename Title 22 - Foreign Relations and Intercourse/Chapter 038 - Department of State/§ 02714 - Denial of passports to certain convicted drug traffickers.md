@@ -36,25 +36,25 @@ Notwithstanding subsection (a) of this section, the Secretary of State may issue
 
 As used in this section—
 
-&emsp;(1) the term “controlled substance” has the same meaning as is provided in section 102 of the Controlled Substances Act (21 U.S.C. 802);
+&emsp;(1) the term "controlled substance" has the same meaning as is provided in section 102 of the Controlled Substances Act (21 U.S.C. 802);
 
-&emsp;(2) the term “Federal drug offense” means a violation of—
+&emsp;(2) the term "Federal drug offense" means a violation of—
 
 &emsp;&emsp;(A) the Controlled Substances Act (21 U.S.C. 801 et seq.) or the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.);
 
 &emsp;&emsp;(B) any other Federal law involving controlled substances; or
 
-&emsp;&emsp;(C) subchapter II of chapter 53 of title 31 (commonly referred to as the “Bank Secrecy Act”), or section 1956 or section 1957 of title 18 (commonly referred to as the “Money Laundering Act”), if the Secretary of State determines that the violation is related to illicit production of or trafficking in a controlled substance;
+&emsp;&emsp;(C) subchapter II of chapter 53 of title 31 (commonly referred to as the "Bank Secrecy Act"), or section 1956 or section 1957 of title 18 (commonly referred to as the "Money Laundering Act"), if the Secretary of State determines that the violation is related to illicit production of or trafficking in a controlled substance;
 
-&emsp;(3) the term “felony” means a criminal offense punishable by death or imprisonment for more than one year;
+&emsp;(3) the term "felony" means a criminal offense punishable by death or imprisonment for more than one year;
 
-&emsp;(4) the term “imprisoned” means an individual is confined in or otherwise restricted to a jail-type institution, a half-way house, a treatment facility, or another institution, on a full or part-time basis, pursuant to the sentence imposed as the result of a conviction;
+&emsp;(4) the term "imprisoned" means an individual is confined in or otherwise restricted to a jail-type institution, a half-way house, a treatment facility, or another institution, on a full or part-time basis, pursuant to the sentence imposed as the result of a conviction;
 
-&emsp;(5) the term “misdemeanor” means a criminal offense other than a felony;
+&emsp;(5) the term "misdemeanor" means a criminal offense other than a felony;
 
-&emsp;(6) the term “State drug offense” means a violation of State law involving the manufacture, distribution, or possession of a controlled substance; and
+&emsp;(6) the term "State drug offense" means a violation of State law involving the manufacture, distribution, or possession of a controlled substance; and
 
-&emsp;(7) the term “State law” means the law of a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or a territory or possession of the United States.
+&emsp;(7) the term "State law" means the law of a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, or a territory or possession of the United States.
 
 (Aug. 1, 1956, ch. 841, title I, §42, as added Pub. L. 100–690, title IV, §4603(2), Nov. 18, 1988, 102 Stat. 4287.)
 
@@ -68,5 +68,5 @@ The Controlled Substances Import and Export Act, referred to in subsec. (e)(2)(A
 
 A prior section 42 of act Aug. 1, 1956, was renumbered section 43 by section 4603(1) of Pub. L. 100–690, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “a”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "a".</i>
 

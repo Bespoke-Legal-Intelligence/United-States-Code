@@ -18,7 +18,7 @@ In carrying out section 300jj–13(b)(1)(A) of this title, until recommendations
 
 Executive Order No. 13335, referred to in subsec. (a), is set out as a note under section 300u of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "sections".</i>
 

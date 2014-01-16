@@ -8,9 +8,9 @@ The Commodity Futures Trading Commission and the Commission shall coordinate wit
 
 &emsp;(3) promoting robust risk management oversight by regulators of designated clearing entities; and
 
-&emsp;(4) improving regulators’ ability to monitor the potential effects of designated clearing entity risk management on the stability of the financial system of the United States.
+&emsp;(4) improving regulators' ability to monitor the potential effects of designated clearing entity risk management on the stability of the financial system of the United States.
 
 (Pub. L. 111–203, title VIII, §813, July 21, 2010, 124 Stat. 1821.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “with”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "with".</i>
 

@@ -24,7 +24,7 @@ The Secretary is authorized—
 
 #### (4) Payment of fair market value for purchased lands; determination by independent appraisal
 
-&emsp;In the exercise of his authority to purchase lands under this subchapter to pay for anysuch purchased lands their fair market value, as determined by the Secretary, who may, in his discretion, base his determination on an independent appraisal obtained by him.
+&emsp;In the exercise of his authority to purchase lands under this subchapter to pay for any such purchased lands their fair market value, as determined by the Secretary, who may, in his discretion, base his determination on an independent appraisal obtained by him.
 
 #### (5) Identification of appropriate public uses of public lands and interests therein within Area; disposition of public lands within Area
 
@@ -40,7 +40,7 @@ The Secretary is authorized—
 
 #### (8) Cooperative arrangements with State and local governmental agencies, and nonprofit organizations concerning installation, construction, maintenance, and operation of access and recreational facilities, etc.; designation of zones and establishment of periods for hunting and fishing
 
-&emsp;To enter into such cooperative arrangements with the State of California, local governmental agencies, and nonprofit organizations as the Secretary deems necessary or desirable concerning but not limited to installation, construction, maintenance, and operation of access and recreational facilities, reforestation, revegetation, soil and moisture conservation, and management of fish and wildlife including hunting and fishing and control of predators. The Secretary shall permit hunting and fishing on lands and waters under the jurisdiction within the boundaries of the recreation area in accordance with the applicable laws of the United States and the State of California, except that the Secretary may designate zones where, and establish periods when, no hunting or fishing shall be permitted for reasons of public safety, administration, fish and wildlife management, or public use and enjoyment. Except in emergencies, any regulations of the Secretary pursuant to this section shall be put into effect only after consultation with the appropriate State fish and game department.
+&emsp;To enter into such cooperative arrangements with the State of California, local governmental agencies, and nonprofit organizations as the Secretary deems necessary or desirable concerning but not limited to installation, construction, maintenance, and operation of access and recreational facilities, reforestation, revegetation, soil and moisture conservation, and management of fish and wildlife including hunting and fishing and control of predators. The Secretary shall permit hunting and fishing on lands and waters under the jurisdiction within the boundaries of the recreation area in accordance with the applicable laws of the United States and the State of California, except that the Secretary may designate zones where, and establish periods when, no hunting or fishing shall be permitted for reasons of public safety, administration,fish and wildlife management, or public use and enjoyment. Except in emergencies, any regulations of the Secretary pursuant to this section shall be put into effect only after consultation with the appropriate State fish and game department.
 
 #### (9) Issuance of regulations
 

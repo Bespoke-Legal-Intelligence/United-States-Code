@@ -40,11 +40,11 @@ Use of Funds.—Amounts received by the National Defense University for instruct
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted “35 full-time student positions” for “20 full-time student positions”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted "35 full-time student positions" for "20 full-time student positions".
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–84 substituted “20” for “10”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–84 substituted "20" for "10".
 
 #### Effective Date
 
-Pub. L. 107–107, div. A, title V, §528(b), Dec. 28, 2001, 115 Stat. 1103, provided that: “Section 2167 of title 10, United States Code, as added by subsection (a), shall take effect on January 1, 2002.”
+Pub. L. 107–107, div. A, title V, §528(b), Dec. 28, 2001, 115 Stat. 1103, provided that: "Section 2167 of title 10, United States Code, as added by subsection (a), shall take effect on January 1, 2002."
 

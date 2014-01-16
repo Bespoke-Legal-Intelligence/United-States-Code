@@ -30,7 +30,7 @@ An applicable individual shall for each month beginning after 2013 ensure that t
 
 &emsp;&emsp;(A) the sum of the monthly penalty amounts determined under paragraph (2) for months in the taxable year during which 1 or more such failures occurred, or
 
-&emsp;&emsp;(B) an amount equal to the national average premium for qualified health planswhich have a bronze level of coverage, provide coverage for the applicable family size involved, and are offered through Exchanges for plan years beginning in the calendar year with or within which the taxable year ends.
+&emsp;&emsp;(B) an amount equal to the national average premium for qualified health plans which have a bronze level of coverage, provide coverage for the applicable family size involved, and are offered through Exchanges for plan years beginning in the calendar year with or within which the taxable year ends.
 
 #### (2) Monthly penalty amounts
 
@@ -76,9 +76,9 @@ An applicable individual shall for each month beginning after 2013 ensure that t
 
 &emsp;&emsp;&emsp;(i) $695, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2015” for “calendar year 1992” in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting "calendar year 2015" for "calendar year 1992" in subparagraph (B) thereof.
 
-> &emsp;&emsp;If the amount of any increase under clause (i) is not a multiple of $50, such increase shall be rounded to the next lowest multiple of $50.
+> &emsp;&emsp;If the amount of any increase under clause (i) is not a multiple of $50, such increaseshall be rounded to the next lowest multiple of $50.
 
 #### (4) Terms relating to income and families
 
@@ -90,7 +90,7 @@ An applicable individual shall for each month beginning after 2013 ensure that t
 
 #### (B) Household income
 
-&emsp;&emsp;The term “household income” means, with respect to any taxpayer for any taxable year, an amount equal to the sum of—
+&emsp;&emsp;The term "household income" means, with respect to any taxpayer for any taxable year, an amount equal to the sum of—
 
 &emsp;&emsp;&emsp;(i) the modified adjusted gross income of the taxpayer, plus
 
@@ -102,7 +102,7 @@ An applicable individual shall for each month beginning after 2013 ensure that t
 
 #### (C) Modified adjusted gross income
 
-&emsp;&emsp;The term “modified adjusted gross income” means adjusted gross income increased by—
+&emsp;&emsp;The term "modified adjusted gross income" means adjusted gross income increased by—
 
 &emsp;&emsp;&emsp;(i) any amount excluded from gross income under section 911, and
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “applicable individual” means, with respect to any month, an individual other than an individual described in paragraph (2), (3), or (4).
+&emsp;The term "applicable individual" means, with respect to any month, an individual other than an individual described in paragraph (2), (3), or (4).
 
 #### (2) Religious exemptions
 
@@ -134,7 +134,7 @@ For purposes of this section—
 
 #### (ii) Health care sharing ministry
 
-&emsp;&emsp;&emsp;The term “health care sharing ministry” means an organization—
+&emsp;&emsp;&emsp;The term "health care sharing ministry" means an organization—
 
 &emsp;&emsp;&emsp;&emsp;(I) which is described in section 501(c)(3) and is exempt from taxation under section 501(a),
 
@@ -166,11 +166,11 @@ No penalty shall be imposed under subsection (a) with respect to—
 
 #### (B) Required contribution
 
-&emsp;&emsp;For purposes of this paragraph, the term “required contribution” means—
+&emsp;&emsp;For purposes of this paragraph, the term "required contribution" means—
 
 &emsp;&emsp;&emsp;(i) in the case of an individual eligible to purchase minimum essential coverage consisting of coverage through an eligible-employer-sponsored plan, the portion of the annual premium which would be paid by the individual (without regard to whether paid through salary reduction or otherwise) for self-only coverage, or
 
-&emsp;&emsp;&emsp;(ii) in the case of an individual eligible only to purchase minimum essential coverage described in subsection (f)(1)(C), the annual premium for the lowest cost bronze plan available in the individual market through the Exchange in the State in the rating area in which the individual resides (without regard to whether the individual purchased a qualified health plan through the Exchange), reduced by the amount of the credit allowable under section 36B for the taxable year (determined as if the individual was covered by a qualified health plan offered through the Exchange for the entire taxable year).
+&emsp;&emsp;&emsp;(ii) in the case of an individual eligible only to purchase minimum essential coverage described in subsection (f)(1)(C), theannual premium for the lowest cost bronze plan available in the individual market through the Exchange in the State in the rating area in which the individual resides (without regard to whether the individual purchased a qualified health plan through the Exchange), reduced by the amount of the credit allowable under section 36B for the taxable year (determined as if the individual was covered by a qualified health plan offered through the Exchange for the entire taxable year).
 
 #### (C) Special rules for individuals related to employees
 
@@ -178,7 +178,7 @@ No penalty shall be imposed under subsection (a) with respect to—
 
 #### (D) Indexing
 
-&emsp;&emsp;In the case of plan years beginning in any calendar year after 2014, subparagraph (A) shall be applied by substituting for “8 percent” the percentage the Secretary of Health and Human Services determines reflects the excess of the rate of premium growth between the preceding calendar year and 2013 over the rate of income growth for such period.
+&emsp;&emsp;In the case of plan years beginning in any calendar year after 2014, subparagraph (A) shall be applied by substituting for "8 percent" the percentage the Secretary of Health and Human Services determines reflects the excess of the rate of premium growth between the preceding calendar year and 2013 over the rate of income growth for such period.
 
 #### (2) Taxpayers with income below filing threshold
 
@@ -216,7 +216,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “minimum essential coverage” means any of the following:
+&emsp;The term "minimum essential coverage" means any of the following:
 
 #### (A) Government sponsored programs
 
@@ -254,7 +254,7 @@ For purposes of this section—
 
 #### (2) Eligible employer-sponsored plan
 
-&emsp;The term “eligible employer-sponsored plan” means, with respect to any employee, a group health plan or group health insurance coverage offered by an employer to the employee which is—
+&emsp;The term "eligible employer-sponsored plan" means, with respect to any employee, agroup health plan or group health insurance coverage offered by an employer to the employee which is—
 
 &emsp;&emsp;(A) a governmental plan (within the meaning of section 2791(d)(8) of the Public Health Service Act), or
 
@@ -264,7 +264,7 @@ For purposes of this section—
 
 #### (3) Excepted benefits not treated as minimum essential coverage
 
-&emsp;The term “minimum essential coverage” shall not include health insurance coverage which consists of coverage of excepted benefits—
+&emsp;The term "minimum essential coverage" shall not include health insurance coverage which consists of coverage of excepted benefits—
 
 &emsp;&emsp;(A) described in paragraph (1) of subsection (c) of section 2791 of the Public Health Service Act; or
 
@@ -316,69 +316,69 @@ Section 2791 of the Public Health Service Act, referred to in subsec. (f)(2)(A),
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(1). Pub. L. 111–148, §10106(b)(1), amended par. (1) generally. Prior to amendment, text read as follows: “If an applicable individual fails to meet the requirement of subsection (a) for 1 or more months during any calendar year beginning after 2013, then, except as provided in subsection (d), there is hereby imposed a penalty with respect to the individual in the amount determined under subsection (c).”
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–148, §10106(b)(1), amended par. (1) generally. Prior to amendment, text read as follows: "If an applicable individual fails to meet the requirement of subsection (a) for 1 or more months during any calendar year beginning after 2013, then, except as provided in subsection (d), there is hereby imposed a penalty with respect to the individual in the amount determined under subsection (c)."
 
 Subsec. (c)(1), (2). Pub. L. 111–148, §10106(b)(2), amended pars. (1) and (2) generally. Prior to amendment pars. (1) and (2) related to the amount of and dollar limitations on penalty for failure to maintain minimum essential coverage.
 
-Subsec. (c)(2)(B). Pub. L. 111–152, §1002(a)(1)(A), inserted “the excess of” before “the taxpayer's household income” and “for the taxable year over the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer” before “for the taxable year” in introductory provisions.
+Subsec. (c)(2)(B). Pub. L. 111–152, §1002(a)(1)(A), inserted "the excess of" before "the taxpayer's household income" and "for the taxable year over the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer" before "for the taxable year" in introductory provisions.
 
-Subsec. (c)(2)(B)(i). Pub. L. 111–152, §1002(a)(1)(B), substituted “1.0” for “0.5”.
+Subsec. (c)(2)(B)(i). Pub. L. 111–152, §1002(a)(1)(B), substituted "1.0" for "0.5".
 
-Subsec. (c)(2)(B)(ii). Pub. L. 111–152, §1002(a)(1)(C), substituted “2.0” for “1.0”.
+Subsec. (c)(2)(B)(ii). Pub. L. 111–152, §1002(a)(1)(C), substituted "2.0" for "1.0".
 
-Subsec. (c)(2)(B)(iii). Pub. L. 111–152, §1002(a)(1)(D), substituted “2.5” for “2.0”.
+Subsec. (c)(2)(B)(iii). Pub. L. 111–152, §1002(a)(1)(D), substituted "2.5" for "2.0".
 
-Subsec. (c)(3)(A). Pub. L. 111–152, §1002(a)(2)(A), substituted “$695” for “$750”.
+Subsec. (c)(3)(A). Pub. L. 111–152, §1002(a)(2)(A), substituted "$695" for "$750".
 
-Subsec. (c)(3)(B). Pub. L. 111–152, §1002(a)(2)(B), substituted “$325” for “$495”.
+Subsec. (c)(3)(B). Pub. L. 111–152, §1002(a)(2)(B), substituted "$325" for "$495".
 
-Pub. L. 111–148, §10106(b)(3), substituted “$495” for “$350”.
+Pub. L. 111–148, §10106(b)(3), substituted "$495" for "$350".
 
-Subsec. (c)(3)(D). Pub. L. 111–152, §1002(a)(2)(C), substituted “$695” for “$750” in introductory provisions and cl. (i).
+Subsec. (c)(3)(D). Pub. L. 111–152, §1002(a)(2)(C), substituted "$695" for "$750" in introductory provisions and cl. (i).
 
-Subsec. (c)(4)(B)(i), (ii). Pub. L. 111–152, §1004(a)(1)(C), substituted “modified adjusted gross” for “modified gross”.
+Subsec. (c)(4)(B)(i), (ii). Pub. L. 111–152, §1004(a)(1)(C), substituted "modified adjusted gross" for "modified gross".
 
-Subsec. (c)(4)(C). Pub. L. 111–152, §1004(a)(2)(B), amended subpar. (C) generally. Prior to amendment, text read as follows: “The term ‘modified gross income’ means gross income—
+Subsec. (c)(4)(C). Pub. L. 111–152, §1004(a)(2)(B), amended subpar. (C) generally. Prior to amendment, text read as follows: "The term 'modified gross income' means gross income—
 
-&emsp;“(i) decreased by the amount of any deduction allowable under paragraph (1), (3), (4), or (10) of section 62(a),
+&emsp;"(i) decreased by the amount of any deduction allowable under paragraph (1), (3), (4), or (10) of section 62(a),
 
-&emsp;“(ii) increased by the amount of interest received or accrued during the taxable year which is exempt from tax imposed by this chapter, and
+&emsp;"(ii) increased by the amount of interest received or accrued during the taxable year which is exempt from tax imposed by this chapter, and
 
-&emsp;“(iii) determined without regard to sections 911, 931, and 933.”
+&emsp;"(iii) determined without regard to sections 911, 931, and 933."
 
 Subsec. (c)(4)(D). Pub. L. 111–152, §1002(b)(1), struck out subpar. (D). Text read as follows:
 
-“(i)
+"(i)
 
-In general.—The term ‘poverty line’ has the meaning given that term in section 2110(c)(5) of the Social Security Act (42 U.S.C. 1397jj(c)(5)).
+In general.—The term 'poverty line' has the meaning given that term in section 2110(c)(5) of the Social Security Act (42 U.S.C. 1397jj(c)(5)).
 
-“(ii)
+"(ii)
 
-Poverty line used.—In the case of any taxable year ending with or within a calendar year, the poverty line used shall be the most recently published poverty line as of the 1st day of such calendar year.”
+Poverty line used.—In the case of any taxable year ending with or within a calendar year, the poverty line used shall be the most recently published poverty line as of the 1st day of such calendar year."
 
-Subsec. (d)(2)(A). Pub. L. 111–148, §10106(c), amended subpar. (A) generally. Prior to amendment, text read as follows: “Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that such individual is a member of a recognized religious sect or division thereof described in section 1402(g)(1) and an adherent of established tenets or teachings of such sect or division as described in such section.”
+Subsec. (d)(2)(A). Pub. L. 111–148, §10106(c), amended subpar. (A) generally. Prior to amendment, text read as follows: "Such term shall not include any individual for any month if such individual has in effect an exemption under section 1311(d)(4)(H) of the Patient Protection and Affordable Care Act which certifies that such individual is a member of a recognized religious sect or division thereof described in section 1402(g)(1) and an adherent of established tenets or teachings of such sect or division as described in such section."
 
-Subsec. (e)(1)(C). Pub. L. 111–148, §10106(d), amended subpar. (C) generally. Prior to amendment, text read as follows: “For purposes of subparagraph (B)(i), if an applicable individual is eligible for minimum essential coverage through an employer by reason of a relationship to an employee, the determination shall be made by reference to the affordability of the coverage to the employee.”
+Subsec. (e)(1)(C). Pub. L. 111–148, §10106(d), amended subpar. (C) generally. Prior to amendment, text read as follows: "For purposes of subparagraph (B)(i), if an applicable individual is eligible for minimum essential coverage through an employer by reason of a relationship to an employee, the determination shall be made by reference to the affordability of the coverage to the employee."
 
-Subsec. (e)(2). Pub. L. 111–152, §1002(b)(2), substituted “below filing threshold” for “under 100 percent of poverty line” in heading and “the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer.” for “100 percent of the poverty line for the size of the family involved (determined in the same manner as under subsection (b)(4)).” in text.
+Subsec. (e)(2). Pub. L. 111–152, §1002(b)(2), substituted "below filing threshold" for "under 100 percent of poverty line" in heading and "the amount of gross income specified in section 6012(a)(1) with respect to the taxpayer." for "100 percent of the poverty line for the size of the family involved (determined in the same manner as under subsection (b)(4))." in text.
 
-Subsec. (f)(1)(A)(iv). Pub. L. 111–159, §2(a)(1), added cl. (iv) and struck out former cl. (iv) which read as follows: “the TRICARE for Life program,”.
+Subsec. (f)(1)(A)(iv). Pub. L. 111–159, §2(a)(1), added cl. (iv) and struck out former cl. (iv) which read as follows: "the TRICARE for Life program,".
 
-Subsec. (f)(1)(A)(v). Pub. L. 111–173, §1(a), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: “the veteran's health care program under chapter 17 of title 38, United States Code,”.
+Subsec. (f)(1)(A)(v). Pub. L. 111–173, §1(a), amended cl. (v) generally. Prior to amendment, cl. (v) read as follows: "the veteran's health care program under chapter 17 of title 38, United States Code,".
 
 Subsec. (f)(1)(A)(vii). Pub. L. 111–159, §2(a)(2)–(4), added cl. (vii).
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–173, §1(b), May 27, 2010, 124 Stat. 1215, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in section 1501(b) of the Patient Protection and Affordable Care Act \[Pub. L. 111–148\].”
+Pub. L. 111–173, §1(b), May 27, 2010, 124 Stat. 1215, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in section 1501(b) of the Patient Protection and Affordable Care Act \[Pub. L. 111–148\]."
 
-Pub. L. 111–159, §2(b), Apr. 26, 2010, 124 Stat. 1123, provided that: “The amendments made by this section \[amending this section\] shall take effect as if included in section 1501(b) of the Patient Protection and Affordable Care Act \[Pub. L. 111–148\] and shall be executed immediately after the amendments made by such section 1501(b).”
+Pub. L. 111–159, §2(b), Apr. 26, 2010, 124 Stat. 1123, provided that: "The amendments made by this section \[amending this section\] shall take effect as if included in section 1501(b) of the Patient Protection and Affordable Care Act \[Pub. L. 111–148\] and shall be executed immediately after the amendments made by such section 1501(b)."
 
 #### Effective Date
 
-Pub. L. 111–148, title I, §1501(d), Mar. 23, 2010, 124 Stat. 249, provided that: “The amendments made by this section \[enacting this section and section 18091 of Title 42, The Public Health and Welfare\] shall apply to taxable years ending after December 31, 2013.”
+Pub. L. 111–148, title I, §1501(d), Mar. 23, 2010, 124 Stat. 249, provided that: "The amendments made by this section \[enacting this section and section 18091 of Title 42, The Public Health and Welfare\] shall apply to taxable years ending after December 31, 2013."
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "the".</i>
 
 <i><sup>2</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

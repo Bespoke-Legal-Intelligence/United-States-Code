@@ -4,7 +4,7 @@ In this part:
 
 #### (1) Affiliate
 
-&emsp;The term “affiliate”, with respect to a packer, means—
+&emsp;The term "affiliate", with respect to a packer, means—
 
 &emsp;&emsp;(A) a person that directly or indirectly owns, controls, or holds with power to vote, 5 percent or more of the outstanding voting securities of the packer;
 
@@ -14,31 +14,31 @@ In this part:
 
 #### (2) Applicable reporting period
 
-&emsp;The term “applicable reporting period” means the period of time prescribed by the prior day report, the morning report, and the afternoon report, as required under section 1635j(c) of this title.
+&emsp;The term "applicable reporting period" means the period of time prescribed by the prior day report, the morning report, and the afternoon report, as required under section 1635j(c) of this title.
 
 #### (3) Barrow
 
-&emsp;The term “barrow” means a neutered male swine.
+&emsp;The term "barrow" means a neutered male swine.
 
 #### (4) Base market hog
 
-&emsp;The term “base market hog” means a barrow or gilt for which no discounts are subtracted from and no premiums are added to the base price.
+&emsp;The term "base market hog" means a barrow or gilt for which no discounts are subtracted from and no premiums are added to the base price.
 
 #### (5) Boar
 
-&emsp;The term “boar” means a sexually-intact male swine.
+&emsp;The term "boar" means a sexually-intact male swine.
 
 #### (6) Formula price
 
-&emsp;The term “formula price” means a price determined by a mathematical formula under which the price established for a specified market serves as the basis for the formula.
+&emsp;The term "formula price" means a price determined by a mathematical formula under which the price established for a specified market serves as the basis for the formula.
 
 #### (7) Gilt
 
-&emsp;The term “gilt” means a young female swine that has not produced a litter.
+&emsp;The term "gilt" means a young female swine that has not produced a litter.
 
 #### (8) Hog class
 
-&emsp;The term “hog class” means, as applicable—
+&emsp;The term "hog class" means, as applicable—
 
 &emsp;&emsp;(A) barrows or gilts;
 
@@ -48,21 +48,21 @@ In this part:
 
 #### (9) Noncarcass merit premium
 
-&emsp;The term “noncarcass merit premium” means an increase in the base price of the swine offered by an individual packer or packing plant, based on any factor other than the characteristics of the carcass, if the actual amount of the premium is known before the sale and delivery of the swine.
+&emsp;The term "noncarcass merit premium" means an increase in the base price of the swine offered by an individual packer or packing plant, based on any factor other than the characteristics of the carcass, if the actual amount of the premium is known before the sale and delivery of the swine.
 
 #### (10) Other market formula purchase
 
 #### (A) In general
 
-&emsp;&emsp;The term “other market formula purchase” means a purchase of swine by a packer in which the pricing mechanism is a formula price based on any market other than the market for swine, pork, or a pork product.
+&emsp;&emsp;The term "other market formula purchase" means a purchase of swine by a packer in which the pricing mechanism is a formula price based on any market other than the market for swine, pork, or a pork product.
 
 #### (B) Inclusion
 
-&emsp;&emsp;The term “other market formula purchase” includes a formula purchase in a case in which the price formula is based on one or more futures or options contracts.
+&emsp;&emsp;The term "other market formula purchase" includes a formula purchase in a case in which the price formula is based on one or more futures or options contracts.
 
 #### (11) Other purchase arrangement
 
-&emsp;The term “other purchase arrangement” means a purchase of swine by a packer that—
+&emsp;The term "other purchase arrangement" means a purchase of swine by a packer that—
 
 &emsp;&emsp;(A) is not a negotiated purchase, swine or pork market formula purchase, or other market formula purchase; and
 
@@ -70,7 +70,7 @@ In this part:
 
 #### (12) Packer
 
-&emsp;The term “packer” means any person engaged in the business of buying swine in commerce for purposes of slaughter, of manufacturing or preparing meats or meat food products from swine for sale or shipment in commerce, or of marketing meats or meat food products from swine in an unmanufactured form acting as a wholesale broker, dealer, or distributor in commerce, except that—
+&emsp;The term "packer" means any person engaged in the business of buying swine in commerce for purposes of slaughter, of manufacturing or preparing meats or meat food products from swine for sale or shipment in commerce, or of marketing meats or meat food products from swine in an unmanufactured form acting as a wholesale broker, dealer, or distributor in commerce, except that—
 
 &emsp;&emsp;(A) the term includes only a swine processing plant that is federally inspected;
 
@@ -84,11 +84,11 @@ In this part:
 
 #### (13) Packer-owned swine
 
-&emsp;The term “packer-owned swine” means swine that a packer (including a subsidiary oraffiliate of the packer) owns for at least 14 days immediately before slaughter.
+&emsp;The term "packer-owned swine" means swine that a packer (including a subsidiary or affiliate of the packer) owns for at least 14 days immediately before slaughter.
 
 #### (14) Packer-sold swine
 
-&emsp;The term “packer-sold swine” means the swine that are—
+&emsp;The term "packer-sold swine" means the swine that are—
 
 &emsp;&emsp;(A) owned by a packer (including a subsidiary or affiliate of the packer) for more than 14 days immediately before sale for slaughter; and
 
@@ -96,15 +96,15 @@ In this part:
 
 #### (15) Pork
 
-&emsp;The term “pork” means the meat of a porcine animal.
+&emsp;The term "pork" means the meat of a porcine animal.
 
 #### (16) Pork product
 
-&emsp;The term “pork product” means a product or byproduct produced or processed in whole or in part from pork.
+&emsp;The term "pork product" means a product or byproduct produced or processed in whole or in part from pork.
 
 #### (17) Purchase data
 
-&emsp;The term “purchase data” means all of the applicable data, including weight (if purchased live), for all swine purchased during the applicable reporting period, regardless of the expected delivery date of the swine, reported by—
+&emsp;The term "purchase data" means all of the applicable data, including weight (if purchased live), for all swine purchased during the applicable reporting period, regardless of the expected delivery date of the swine, reported by—
 
 &emsp;&emsp;(A) hog class;
 
@@ -114,7 +114,7 @@ In this part:
 
 #### (18) Slaughter data
 
-&emsp;The term “slaughter data” means all of the applicable data for all swine slaughtered by a packer during the applicable reporting period, regardless of when the price of the swine was negotiated or otherwise determined, reported by—
+&emsp;The term "slaughter data" means all of the applicable data for all swine slaughtered by a packer during the applicable reporting period, regardless of when the price of the swine was negotiated or otherwise determined, reported by—
 
 &emsp;&emsp;(A) hog class;
 
@@ -124,19 +124,19 @@ In this part:
 
 #### (19) Sow
 
-&emsp;The term “sow” means an adult female swine that has produced one or more litters.
+&emsp;The term "sow" means an adult female swine that has produced one or more litters.
 
 #### (20) Swine
 
-&emsp;The term “swine” means a porcine animal raised to be a feeder pig, raised for seedstock, or raised for slaughter.
+&emsp;The term "swine" means a porcine animal raised to be a feeder pig, raised for seedstock, or raised for slaughter.
 
 #### (21) Swine or pork market formula purchase
 
-&emsp;The term “swine or pork market formula purchase” means a purchase of swine by a packer in which the pricing mechanism is a formula price based on a market for swine, pork, or a pork product, other than a future or option for swine, pork, or a pork product.
+&emsp;The term "swine or pork market formula purchase" means a purchase of swine by a packer in which the pricing mechanism is a formula price based on a market for swine, pork, or a pork product, other than a future or option for swine, pork, or a pork product.
 
 #### (22) Type of purchase
 
-&emsp;The term “type of purchase”, with respect to swine, means—
+&emsp;The term "type of purchase", with respect to swine, means—
 
 &emsp;&emsp;(A) a negotiated purchase;
 
@@ -150,11 +150,11 @@ In this part:
 
 #### Amendments
 
-<b>2006</b>—Par. (4). Pub. L. 109–296, §2(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘base market hog’ means a hog for which no discounts are subtracted from and no premiums are added to the base price.”
+<b>2006</b>—Par. (4). Pub. L. 109–296, §2(a), reenacted heading without change and amended text generally. Priorto amendment, text read as follows: "The term 'base market hog' means a hog for which no discounts are subtracted from and no premiums are added to the base price."
 
-Par. (5). Pub. L. 109–296, §2(b), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The term ‘bred female swine’ means any female swine, whether a sow or gilt, that has been mated or inseminated and is assumed, or has been confirmed, to be pregnant.”
+Par. (5). Pub. L. 109–296, §2(b), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: "The term 'bred female swine' means any female swine, whether a sow or gilt, that has been mated or inseminated and is assumed, or has been confirmed, to be pregnant."
 
-Par. (12)(B). Pub. L. 109–296, §2(c)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: “for any calendar year, the term includes only a swine processing plant that slaughtered an average of at least 100,000 swine per year during the immediately preceding 5 calendar years; and”.
+Par. (12)(B). Pub. L. 109–296, §2(c)(1), added subpar. (B) and struck out former subpar. (B) which read as follows: "for any calendar year, the term includes only a swine processing plant that slaughtered an average of at least 100,000 swine per year during the immediately preceding 5 calendar years; and".
 
-Par. (12)(C). Pub. L. 109–296, §2(c)(2), inserted “or person” after “swine processing plant”, “plant capacity of the processing plant”, and “determining whether the processing plant”.
+Par. (12)(C). Pub. L. 109–296, §2(c)(2), inserted "or person" after "swine processing plant", "plant capacity of the processing plant", and "determining whether the processing plant".
 

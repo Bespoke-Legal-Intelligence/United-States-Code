@@ -28,5 +28,5 @@ Another prior section 524 of Pub. L. 89–329 was classified to section 1114 of 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315, §504, substituted “sections 1101b and 1102b” for “section 1101b”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §504, substituted "sections 1101b and 1102b" for "section 1101b".
 

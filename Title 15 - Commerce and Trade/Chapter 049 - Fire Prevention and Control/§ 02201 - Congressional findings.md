@@ -32,43 +32,43 @@ The National Commission on Fire Prevention and Control, established pursuant to 
 
 #### Short Title of 2013 Amendment
 
-Pub. L. 112–239, div. A, title XVIII, §1801, Jan. 2, 2013, 126 Stat. 2099, provided that: “This subtitle \[subtitle A (§§1801–1807) of title XVIII of div. A of Pub. L. 112–239, amending sections 2203, 2204, 2206, 2210, 2214, 2215, 2217, 2218, 2224, 2226, 2229, 2229a of this title and section 290a of Title 42, The Public Health and Welfare\] may be cited as the ‘Fire Grants Reauthorization Act of 2012’.”
+Pub. L. 112–239, div. A, title XVIII, §1801, Jan. 2, 2013, 126 Stat. 2099, provided that: "This subtitle \[subtitle A (§§1801–1807) of title XVIII of div. A of Pub. L. 112–239, amending sections 2203, 2204, 2206, 2210, 2214, 2215, 2217, 2218, 2224, 2226, 2229, 2229a of this title and section 290a of Title 42, The Public Health and Welfare\] may be cited as the 'Fire Grants Reauthorization Act of 2012'."
 
-Pub. L. 112–239, div. A, title XVIII, §1811, Jan. 2, 2013, 126 Stat. 2117, provided that: “This subtitle \[subtitle B (§§1811–1815) of title XVIII of div. A of Pub. L. 112–239, amending sections 2204, 2205, 2208, 2216 of this title\] may be cited as the ‘United States Fire Administration Reauthorization Act of 2012’.”
+Pub. L. 112–239, div. A, title XVIII, §1811, Jan. 2, 2013, 126 Stat. 2117, provided that: "This subtitle \[subtitle B (§§1811–1815) of title XVIII of div. A of Pub. L. 112–239, amending sections 2204, 2205, 2208, 2216 of this title\] may be cited as the 'United States Fire Administration Reauthorization Act of 2012'."
 
 #### Short Title of 2008 Amendment
 
-Pub. L. 110–376, §1, Oct. 8, 2008, 122 Stat. 4056, provided that: “This subtitle \[probably should be “This Act”, enacting section 2234 of this title, amending sections 2203, 2206 to 2208, 2216, and 2218 of this title and section 321d of Title 6, Domestic Security, and enacting provisions set out as a note under this section\] may be cited as the ‘United States Fire Administration Reauthorization Act of 2008’.”
+Pub. L. 110–376, §1, Oct. 8, 2008, 122 Stat. 4056, provided that: "This subtitle \[probably should be "This Act", enacting section 2234 of this title, amending sections 2203, 2206 to 2208, 2216, and 2218 of this title and section 321d of Title 6, Domestic Security, and enacting provisions set out as a note under this section\] may be cited as the 'United States Fire Administration Reauthorization Act of 2008'."
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–375, div. C, title XXXVI, §3601, Oct. 28, 2004, 118 Stat. 2195, provided that: “This title \[amending section 2229 of this title\] may be cited as the ‘Assistance to Firefighters Grant Program Reauthorization Act of 2004’.”
+Pub. L. 108–375, div. C, title XXXVI, §3601, Oct. 28, 2004, 118 Stat. 2195, provided that: "This title \[amending section 2229 of this title\] may be cited as the 'Assistance to Firefighters Grant Program Reauthorization Act of 2004'."
 
 #### Short Title of 2003 Amendment
 
-Pub. L. 108–169, title I, §101, Dec. 6, 2003, 117 Stat. 2036, provided that: “This title \[amending section 2216 of this title and enacting provisions set out as a note under section 2204 of this title\] may be cited as the ‘United States Fire Administration Reauthorization Act of 2003’.”
+Pub. L. 108–169, title I, §101, Dec. 6, 2003, 117 Stat. 2036, provided that: "This title \[amending section 2216 of this title and enacting provisions set out as a note under section 2204 of this title\] may be cited as the 'United States Fire Administration Reauthorization Act of 2003'."
 
-Pub. L. 108–169, title II, §201, Dec. 6, 2003, 117 Stat. 2036, provided that: “This title \[amending sections 2206, 2207, 2209, and 2229 of this title and sections 151303, 151304, and 151307 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and enacting provisions set out as notes under section 2206 of this title\] may be cited as the ‘Firefighting Research and Coordination Act’.”
+Pub. L. 108–169, title II, §201, Dec. 6, 2003, 117 Stat. 2036, provided that: "This title \[amending sections 2206, 2207, 2209, and 2229 of this title and sections 151303, 151304, and 151307 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and enacting provisions set out as notes under section 2206 of this title\] may be cited as the 'Firefighting Research and Coordination Act'."
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–503, title I, §101, Nov. 13, 2000, 114 Stat. 2298, provided that: “This title \[enacting sections 2230 and 2231 of this title, amending sections 1511, 2203, 2204, 2206, 2209, 2210, 2214 to 2218 and 2220 of this title, sections 151302 to 151304 and 151307 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and section 290a of Title 42, The Public Health and Welfare, and repealing sections 2222 and 2223 of this title\] may be cited as the ‘Fire Administration Authorization Act of 2000’.”
+Pub. L. 106–503, title I, §101, Nov. 13, 2000, 114 Stat. 2298, provided that: "This title \[enacting sections 2230 and 2231 of this title, amending sections 1511, 2203, 2204, 2206, 2209, 2210, 2214 to 2218 and 2220 of this title, sections 151302 to 151304 and 151307 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, and section 290a of Title 42, The Public Health and Welfare, and repealing sections 2222 and 2223 of this title\] may be cited as the 'Fire Administration Authorization Act of 2000'."
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–108, §1, Nov. 20, 1997, 111 Stat. 2264, provided that: “This Act \[amending sections 2216, 2225, and 2227 of this title and enacting provisions set out as notes under sections 2204 and 2218 of this title\] may be cited as the ‘United States Fire Administration Authorization Act for Fiscal Years 1998 and 1999’.”
+Pub. L. 105–108, §1, Nov. 20, 1997, 111 Stat. 2264, provided that: "This Act \[amending sections 2216, 2225, and 2227 of this title and enacting provisions set out as notes under sections 2204 and 2218 of this title\] may be cited as the 'United States Fire Administration Authorization Act for Fiscal Years 1998 and 1999'."
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–254, §1, May 19, 1994, 108 Stat. 679, provided that: “This Act \[enacting sections 2221 and 2228 of this title, amending sections 2216, 2220, and 2227 of this title, and enacting provisions set out as notes under this section and section 2216 of this title\] may be cited as the ‘Arson Prevention Act of 1994’.”
+Pub. L. 103–254, §1, May 19, 1994, 108 Stat. 679, provided that: "This Act \[enacting sections 2221 and 2228 of this title, amending sections 2216, 2220, and 2227 of this title, and enacting provisions set out as notes under this section and section 2216 of this title\] may be cited as the 'Arson Prevention Act of 1994'."
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–391, §1, Sept. 25, 1990, 104 Stat. 747, provided that: “This Act \[enacting sections 2224, 2225, 2225aand 2226 of this title and section 5707a of Title 5, Government Organization and Employees, amending section 2203 of this title and sections 5701 and 5707 of Title 5, and enacting provisions set out as notes under this section and sections 5707 and 5707a of Title 5\] may be cited as the ‘Hotel and Motel Fire Safety Act of 1990’.”
+Pub. L. 101–391, §1, Sept. 25, 1990, 104 Stat. 747, provided that: "This Act \[enacting sections 2224, 2225, 2225aand 2226 of this title and section 5707a of Title 5, Government Organization and Employees, amending section 2203 of this title and sections 5701 and 5707 of Title 5, and enacting provisions set out as notes under this section and sections 5707 and 5707a of Title 5\] may be cited as the 'Hotel and Motel Fire Safety Act of 1990'."
 
 #### Short Title
 
-Pub. L. 93–498, §1, Oct. 29, 1974, 88 Stat. 1535, provided: “That this Act \[enacting this chapter and section 290a of Title 42, The Public Health and Welfare, amending sections 278f and 1511 of this title, and repealing section 278g of this title\] may be cited as the ‘Federal Fire Prevention and Control Act of 1974’.”
+Pub. L. 93–498, §1, Oct. 29, 1974, 88 Stat. 1535, provided: "That this Act \[enacting this chapter and section 290a of Title 42, The Public Health and Welfare, amending sections 278f and 1511 of this title, and repealing section 278g of this title\] may be cited as the 'Federal Fire Prevention and Control Act of 1974'."
 
 #### Study on Need for Federal Assistance to State and Local Communities To Fund Firefighting and Emergency Response Activities
 
@@ -78,79 +78,79 @@ Pub. L. 106–398, §1 \[\[div. A\], title XVII, §1701(b)\], Oct. 30, 2000, 114
 
 Pub. L. 104–132, title VIII, §819, Apr. 24, 1996, 110 Stat. 1316, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided that:
 
-“(a)
+"(a)
 
 Grant Authorization.—The Attorney General, in consultation with the Administrator of the Federal Emergency Management Agency, may make grants to provide specialized training and equipment to enhance the capability of metropolitan fire and emergency service departments to respond to terrorist attacks.
 
-“(b)
+"(b)
 
-Authorization of Appropriations.—There are authorized to be appropriated for fiscal year 1997, $5,000,000 to carry out this section.”
+Authorization of Appropriations.—There are authorized to be appropriated for fiscal year 1997, $5,000,000 to carry out this section."
 
 #### Arson Prevention and Control; Congressional Findings
 
-Pub. L. 103–254, §2, May 19, 1994, 108 Stat. 679, provided that: “Congress finds that—
+Pub. L. 103–254, §2, May 19, 1994, 108 Stat. 679, provided that: "Congress finds that—
 
-&emsp;“(1) arson is a serious and costly problem, and is responsible for approximately 25 percent of all fires in the United States;
+&emsp;"(1) arson is a serious and costly problem, and is responsible for approximately 25 percent of all fires in the United States;
 
-&emsp;“(2) arson is a leading cause of fire deaths, accounting for approximately 700 deaths annually in the United States, and is the leading cause of property damage due to fire in the United States;
+&emsp;"(2) arson is a leading cause of fire deaths, accounting for approximately 700 deaths annually in the United States, and is the leading cause of property damage due to fire in the United States;
 
-&emsp;“(3) estimates of arson property losses are in the range of $2,000,000,000 annually, or approximately 1 of every 4 dollars lost to fire;
+&emsp;"(3) estimates of arson property losses are in the range of $2,000,000,000 annually, or approximately 1 of every 4 dollars lost to fire;
 
-&emsp;“(4) the incidence of arson in the United States is seriously underreported, in part because of the lack of adequate participation by local jurisdictions in the National Fire Incident Reporting System (NFIRS) and the Uniform Crime Reporting (UCR) program;
+&emsp;"(4) the incidence of arson in the United States is seriously underreported, in part because of the lack of adequate participation by local jurisdictions in the National Fire Incident Reporting System (NFIRS) and the Uniform Crime Reporting (UCR) program;
 
-&emsp;“(5) there is a need for expanded training programs for arson investigators;
+&emsp;"(5) there is a need for expanded training programs for arson investigators;
 
-&emsp;“(6) there is a need for improved programs designed to enable volunteer firefighters to detect arson crimes and to preserve evidence vital to the investigation and prosecution of arson cases;
+&emsp;"(6) there is a need for improved programs designed to enable volunteer firefighters to detect arson crimes and to preserve evidence vital to the investigation and prosecution of arson cases;
 
-&emsp;“(7) according to the National Fire Protection Association, of all the suspicious and incendiary fires estimated to occur, only 1/3 are confirmed as arson; and
+&emsp;"(7) according to the National Fire Protection Association, of all the suspicious and incendiary fires estimated to occur, only 1/3 are confirmed as arson; and
 
-&emsp;“(8) improved training of arson investigators will increase the ability of fire departments to identify suspicious and incendiary fires, and will result in increased and more effective prosecution of arson offenses.”
+&emsp;"(8) improved training of arson investigators will increase the ability of fire departments to identify suspicious and incendiary fires, and will result in increased and more effective prosecution of arson offenses."
 
 #### Congressional Findings and Purpose
 
-Pub. L. 110–376, §2, Oct. 8, 2008, 122 Stat. 4056, provided that: “Congress makes the following findings:
+Pub. L. 110–376, §2, Oct. 8, 2008, 122 Stat. 4056, provided that: "Congress makes the following findings:
 
-&emsp;“(1) The number of lives lost each year because of fire has dropped significantly over the last 25 years in the United States. However, the United States still has one of the highest fire death rates in the industrialized world. In 2006, the National Fire Protection Association reported 3,245 civilian fire deaths, 16,400 civilian fire injuries, and $11,307,000,000 in direct losses due to fire.
+&emsp;"(1) The number of lives lost each year because of fire has dropped significantly over the last 25 years in the United States. However, the United States still has one of the highest fire death rates in the industrialized world. In 2006, the National Fire Protection Association reported 3,245 civilian fire deaths, 16,400 civilian fire injuries, and $11,307,000,000 in direct losses due to fire.
 
-&emsp;“(2) Every year, more than 100 firefighters die in the line of duty. The United States Fire Administration should continue its leadership to help local fire agencies dramatically reduce these fatalities.
+&emsp;"(2) Every year, more than 100 firefighters die in the line of duty. The United States Fire Administration should continue its leadership to help local fire agencies dramatically reduce these fatalities.
 
-&emsp;“(3) The Federal Government should continue to work with State and local governments and the fire service community to further the promotion of national voluntary consensus standards that increase firefighter safety.
+&emsp;"(3) The Federal Government should continue to work with State and local governments and the fire service community to further the promotion of national voluntary consensus standards that increase firefighter safety.
 
-&emsp;“(4) The United States Fire Administration provides crucial support to the 30,300 fire departments of the United States through training, emergency incident data collection, fire awareness and education, and support of research and development activities for fire prevention, control, and suppression technologies.
+&emsp;"(4) The United States Fire Administration provides crucial support to the 30,300 fire departments of the United States through training, emergency incident data collection, fire awareness and education, and support of research and development activities for fire prevention, control, and suppression technologies.
 
-&emsp;“(5) The collection of data on fire and other emergency incidents is a vital tool both for policy makers and emergency responders to identify and develop responses to emerging hazards. Improving the data collection capabilities of the United States Fire Administration is essential for accurately tracking and responding to the magnitude and nature of the fire problems of the United States.
+&emsp;"(5) The collection of data on fire and other emergency incidents is a vital tool both for policy makers and emergency responders to identify and develop responses to emerging hazards. Improving the data collection capabilities of the United States Fire Administration is essential for accurately tracking and responding to the magnitude and nature of the fire problems of the United States.
 
-&emsp;“(6) The research and development performed by the National Institute of Standards and Technology, the United States Fire Administration, other government agencies, and nongovernmental organizations on fire technologies, techniques, and tools advance the capabilities of the fire service of the United States to suppress and prevent fires.
+&emsp;"(6) The research and development performed by the National Institute of Standards and Technology, the United States Fire Administration, other government agencies, and nongovernmental organizations on fire technologies, techniques, and tools advance the capabilities of the fire service of the United States to suppress and prevent fires.
 
-&emsp;“(7) Because of the essential role of the United States Fire Administration and the fire service community in preparing for and responding to national \[probably should be “natural”\] and man-made disasters, the United States Fire Administration should have a prominent place within the Federal Emergency Management Agency and the Department of Homeland Security.”
+&emsp;"(7) Because of the essential role of the United States Fire Administration and the fire service community in preparing for and responding to national \[probably should be "natural"\] and man-made disasters, the United States Fire Administration should have a prominent place within the Federal Emergency Management Agency and the Department of Homeland Security."
 
 Pub. L. 101–391, §2, Sept. 25, 1990, 104 Stat. 747, provided that:
 
-“(a)
+"(a)
 
 Findings.—Congress finds that—
 
-&emsp;“(1) more than 400 Americans have lost their lives in multistory hotel fires over the last 5 years;
+&emsp;"(1) more than 400 Americans have lost their lives in multistory hotel fires over the last 5 years;
 
-&emsp;“(2) when properly installed and maintained, automatic sprinklers and smoke detectors provide the most effective safeguards against the loss of life and property from fire;
+&emsp;"(2) when properly installed and maintained, automatic sprinklers and smoke detectors provide the most effective safeguards against the loss of life and property from fire;
 
-&emsp;“(3) automatic sprinklers and smoke detectors should supplement and not supplant other fire protection measures, including existing requirements for fire resistive walls and fire retardant furnishings;
+&emsp;"(3) automatic sprinklers and smoke detectors should supplement and not supplant other fire protection measures, including existing requirements for fire resistive walls and fire retardant furnishings;
 
-&emsp;“(4) some State and local governments and the hotel industry need to act more rapidly to require the installation and use of automatic sprinkler systems in hotels; and
+&emsp;"(4) some State and local governments and the hotel industry need to act more rapidly to require the installation and use of automatic sprinkler systems in hotels; and
 
-&emsp;“(5) through the United States Fire Administration and the Center for Fire Research, the Federal Government has helped to develop and promote the use of residential sprinkler systems and other means of fire prevention and control.
+&emsp;"(5) through the United States Fire Administration and the Center for Fire Research, the Federal Government has helped to develop and promote the use of residential sprinkler systems and other means of fire prevention and control.
 
-“(b)
+"(b)
 
-Purpose.—It is the purpose of this Act \[see Short Title of 1990 Amendment note above\] to save lives and protect property by promoting fire and life safety in hotels, motels, and all places of public accommodation affecting commerce.”
+Purpose.—It is the purpose of this Act \[see Short Title of 1990 Amendment note above\] to save lives and protect property by promoting fire and life safety in hotels, motels, and all places of public accommodation affecting commerce."
 
 #### Waiver of Federal Liability
 
-Pub. L. 101–391, §7, Sept. 25, 1990, 104 Stat. 752, provided that: “In any action for damages resulting from a fire at a place of public accommodation, the Federal Government may not be found liable for the death of orinjury to any person or damage to any property because an officer or employee of the Federal Government was negligent in carrying out any requirement under this Act \[see Short Title of 1990 Amendment note above\] or the amendments made by this Act.”
+Pub. L. 101–391, §7, Sept. 25, 1990, 104 Stat. 752, provided that: "In any action for damages resulting from a fire at a place of public accommodation, the Federal Government may not be found liable for the death of orinjury to any person or damage to any property because an officer or employee of the Federal Government was negligent in carrying out any requirement under this Act \[see Short Title of 1990 Amendment note above\] or the amendments made by this Act."
 
 #### Effect on Certain Requirements
 
-Pub. L. 101–391, §8, Sept. 25, 1990, 104 Stat. 752, provided that: “Nothing in this Act \[see Short Title of 1990 Amendment note above\] shall be construed to encourage model building code organizations, or State or local governments, to reduce requirements for fire resistive walls or other safety features.”
+Pub. L. 101–391, §8, Sept. 25, 1990, 104 Stat. 752, provided that: "Nothing in this Act \[see Short Title of 1990 Amendment note above\] shall be construed to encourage model building code organizations, or State or local governments, to reduce requirements for fire resistive walls or other safety features."
 
 #### <b>REORGANIZATION PLAN NO. 3 OF 1978</b>
 
@@ -162,7 +162,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Sec. 101. Establishment of the Federal Emergency Management Agency
 
-There is hereby established as an independent establishment in the Executive Branch, the Federal Emergency Management Agency (the “Agency”).
+There is hereby established as an independent establishment in the Executive Branch, the Federal Emergency Management Agency (the "Agency").
 
 #### Sec. 102. The Director
 
@@ -260,7 +260,7 @@ The new Agency would be in this position. To increase White House oversight and 
 
 The communications, warning, evacuation, and public education processes involved in preparedness for a possible nuclear attack should be developed, tested, and used for major natural and accidental disasters as well. Consolidation of civil defense functions in the new Agency will assure that attack readiness programs are effectively integrated into the preparedness organizations and programs of State and local government, private industry, and volunteer organizations.
 
-While serving an important “all hazards” readiness and response role, civil defense must continue to be fully compatible with and be ready to play an important role in our Nation's overall strategic policy. Accordingly, to maintain a link between our strategic nuclear planning and our nuclear attack preparedness planning, I will make the Secretary of Defense and the National Security Council responsible for oversight of civil defense related programs and policies of the new Agency. This will also include appropriate Department of Defense support in areas like program development, technical support, research, communications, intelligence and emergency operations.
+While serving an important "all hazards" readiness and response role, civil defense must continue to be fully compatible with and be ready to play an important role in our Nation's overall strategic policy. Accordingly, to maintain a link between our strategic nuclear planning and our nuclear attack preparedness planning, I will make the Secretary of Defense and the National Security Council responsible for oversight of civil defense related programs and policies of the new Agency. This will also include appropriate Department of Defense support in areas like program development, technical support, research, communications, intelligence and emergency operations.
 
 <i>Third, whenever possible, emergency responsibilities should be extensions of the regular missions of Federal agencies</i>. The primary task of the Federal Emergency Management Agency will be to coordinate and plan for the emergency deployment of resources that have other routine uses. There is no need to develop a separate set of Federal skills and capabilities for those rare occasions when catastrophe occurs.
 
@@ -268,7 +268,7 @@ While serving an important “all hazards” readiness and response role, civil 
 
 The affected hazard mitigation activities include the Federal Insurance Administration which seeks to reduce flood losses by assisting states and local governments in developing appropriate land uses and building standards and several agencies that presently seek to reduce fire and earthquake losses through research and education.
 
-Most State and local governments have consolidated emergency planning, preparedness and response functions on an “all hazard” basis to take advantage of the similarities in preparing for and responding to the full range of potential emergencies. The Federal Government can and should follow this lead.
+Most State and local governments have consolidated emergency planning, preparedness and response functions on an "all hazard" basis to take advantage of the similarities in preparing for and responding to the full range of potential emergencies. The Federal Government can and should follow this lead.
 
 Each of the changes set forth in the plan is necessary to accomplish one or more of the purposes set forth in section 901(a) of title 5 of the United States Code. The plan does not call for abolishing any functions now authorized by law. The provisions in the plan for the appointment and pay of any head or officer of the new agency have been found by me to be necessary.
 

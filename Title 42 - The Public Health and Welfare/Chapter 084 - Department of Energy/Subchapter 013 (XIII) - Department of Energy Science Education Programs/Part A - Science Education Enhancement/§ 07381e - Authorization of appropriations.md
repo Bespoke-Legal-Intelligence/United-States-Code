@@ -6,7 +6,7 @@ There are authorized to be appropriated to the Secretary for carrying out univer
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 110–69 substituted “this part” for “this subchapter”.
+<b>2007</b>—Pub. L. 110–69 substituted "this part" for "this subchapter".
 
-<b>1998</b>—Pub. L. 105–245 substituted “Office of Science” for “Office of Energy Research”.
+<b>1998</b>—Pub. L. 105–245 substituted "Office of Science" for "Office of Energy Research".
 

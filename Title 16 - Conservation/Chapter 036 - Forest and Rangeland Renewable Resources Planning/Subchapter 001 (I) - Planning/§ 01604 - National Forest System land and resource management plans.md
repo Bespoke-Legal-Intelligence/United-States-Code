@@ -22,7 +22,7 @@ In developing, maintaining, and revising plans for units of the National Forest 
 
 &emsp;(1) provide for multiple use and sustained yield of the products and services obtained therefrom in accordance with the Multiple-Use Sustained-Yield Act of 1960 \[16 U.S.C. 528–531\], and, in particular, include coordination of outdoor recreation, range, timber, watershed, wildlife and fish, and wilderness; and
 
-&emsp;(2) determine forest management systems, harvesting levels, and procedures in the light of all of the uses set forth in subsection (c)(1) of this section, the definition of the terms “multiple use” and “sustained yield” as provided in the Multiple-Use Sustained-Yield Act of 1960, and the availability of lands and their suitability for resource management.
+&emsp;(2) determine forest management systems, harvesting levels, and procedures in the light of all of the uses set forth in subsection (c)(1) of this section, the definition of the terms "multiple use" and "sustained yield" as provided in the Multiple-Use Sustained-Yield Act of 1960, and the availability of lands and their suitability for resource management.
 
 #### (f) Required provisions
 
@@ -30,7 +30,7 @@ Plans developed in accordance with this section shall—
 
 &emsp;(1) form one integrated plan for each unit of the National Forest System, incorporating in one document or one set of documents, available to the public at convenient locations, all of the features required by this section;
 
-&emsp;(2) be embodied in appropriate written material, including maps and other descriptive documents, reflecting proposed and possible actions, including the planned timber sale program and the proportion of probable methods of timber harvest within the unit necessary to fulfill the plan;
+&emsp;(2) be embodied in appropriate written material, including maps and other descriptive documents, reflecting proposed and possible actions, including the planned timber sale program and the proportion of probable methodsof timber harvest within the unit necessary to fulfill the plan;
 
 &emsp;(3) be prepared by an interdisciplinary team. Each team shall prepare its plan based on inventories of the applicable resources of the forest;
 
@@ -54,7 +54,7 @@ As soon as practicable, but not later than two years after October 22, 1976, the
 
 &emsp;(3) specifying guidelines for land management plans developed to achieve the goals of the Program which—
 
-&emsp;&emsp;(A) insure consideration of the economic and environmental aspects of various systems of renewable resource management, including the related systems of silvicultureand protection of forest resources, to provide for outdoor recreation (including wilderness), range, timber, watershed, wildlife, and fish;
+&emsp;&emsp;(A) insure consideration of the economic and environmental aspects of various systems of renewable resource management, including the related systems of silviculture and protection of forest resources, to provide for outdoor recreation (including wilderness), range, timber, watershed, wildlife, and fish;
 
 &emsp;&emsp;(B) provide for diversity of plant and animal communities based on the suitability and capability of the specific land area in order to meet overall multiple-use objectives, and within the multiple-use objectives of a land management plan adopted pursuant to this section, provide, where appropriate, to the degree practicable, for steps to be taken to preserve the diversity of tree species similar to that existing in the region controlled by the plan;
 
@@ -80,7 +80,7 @@ As soon as practicable, but not later than two years after October 22, 1976, the
 
 &emsp;&emsp;&emsp;(iii) cut blocks, patches, or strips are shaped and blended to the extent practicable with the natural terrain;
 
-&emsp;&emsp;&emsp;(iv) there are established according to geographic areas, forest types, or other suitable classifications the maximum size limits for areas to be cut in one harvest operation, including provision to exceed the established limits after appropriate public notice and review by the responsible Forest Service officer one level above the Forest Service officer who normally would approve the harvest proposal: <i>Provided</i>, That such limits shall not apply to the size of areas harvested as a result of natural catastrophic conditions such as fire, insect and disease attack, or windstorm; and
+&emsp;&emsp;&emsp;(iv) there are established according to geographic areas, forest types, or other suitable classifications the maximum size limits for areas to be cut in one harvest operation, including provision to exceedthe established limits after appropriate public notice and review by the responsible Forest Service officer one level above the Forest Service officer who normally would approve the harvest proposal: <i>Provided</i>, That such limits shall not apply to the size of areas harvested as a result of natural catastrophic conditions such as fire, insect and disease attack, or windstorm; and
 
 &emsp;&emsp;&emsp;(v) such cuts are carried out in a manner consistent with the protection of soil, watershed, fish, wildlife, recreation, and esthetic resources, and the regeneration of the timber resource.
 
@@ -94,7 +94,7 @@ As soon as practicable, but not later than two years after October 22, 1976, the
 
 #### (i) Consistency of resource plans, permits, contracts, and other instruments with land management plans; revision
 
-Resource plans and permits, contracts, and other instruments for the use and occupancy of National Forest System lands shall be consistent with the land management plans. Those resource plans and permits, contracts, and other such instruments currently in existence shall be revised as soon as practicable to be made consistent with such plans. When land management plans are revised, resource plans and permits, contracts, and other instruments, when necessary, shall be revised as soon as practicable. Any revision in present or future permits, contracts, and other instruments made pursuant tothis section shall be subject to valid existing rights.
+Resource plans and permits, contracts, and other instruments for the use and occupancy of National Forest System lands shall be consistent with the land management plans. Those resource plans and permits, contracts, and other such instruments currently in existence shall be revised as soon as practicable to be made consistent with such plans. When land management plans are revised, resource plans and permits, contracts, and other instruments, when necessary, shall be revised as soon as practicable. Any revision in present or future permits, contracts, and other instruments made pursuant to this section shall be subject to valid existing rights.
 
 #### (j) Effective date of land management plans and revisions
 
@@ -130,7 +130,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (g)(1), is
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–588, §12(a), substituted “section 4” for “section 3” in the original, which, because of the translation as “section 1602 of this title” required no change in text.
+<b>1976</b>—Subsec. (a). Pub. L. 94–588, §12(a), substituted "section 4" for "section 3" in the original, which, because of the translation as "section 1602 of this title" required no change in text.
 
 Subsecs. (c) to (m). Pub. L. 94–588, §6, added subsecs. (c) to (m).
 
@@ -140,7 +140,7 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 #### Revision of Forest Plans
 
-Pub. L. 112–74, div. E, title IV, §409, Dec. 23, 2011, 125 Stat. 1039, provided that: “The Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act (16 U.S.C. 1600 et seq.) or any other law: <i>Provided</i>, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
+Pub. L. 112–74, div. E, title IV, §409, Dec. 23, 2011, 125 Stat. 1039, provided that: "The Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act (16 U.S.C. 1600 et seq.) or any other law: <i>Provided</i>, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -162,7 +162,7 @@ Pub. L. 107–63, title III, §327, Nov. 5, 2001, 115 Stat. 470.
 
 #### Expeditious Completion of Management Plans of Forest Service and Bureau of Land Management; Continuation of Existing Plans; Judicial Review
 
-Pub. L. 101–121, title III, §312, Oct. 23, 1989, 103 Stat. 743, provided that: “The Forest Service and Bureau of Land Management are to continue to complete as expeditiously as possible development of their respective Forest Land and Resource Management Plans to meet all applicable statutory requirements. Notwithstanding the date in section 6(c) of the NFMA (16 U.S.C. 1600) \[16 U.S.C. 1604(c)\], the Forest Service, and the Bureau of Land Management under separate authority, may continue the management of lands within their jurisdiction under existing land and resource management plans pending the completion of new plans. Nothing shall limit judicial review of particular activities on these lands: <i>Provided, however</i>, That there shall be no challenges to any existing plan on the sole basis that the plan in its entirety is outdated, or in the case of the Bureau of Land Management, solely on the basis that the plan does not incorporate information available subsequent to the completion of the existing plan: <i>Provided further</i>, That any and all particular activities to be carried out under existing plans may nevertheless be challenged.”
+Pub. L. 101–121, title III, §312, Oct. 23, 1989, 103 Stat. 743, provided that: "The Forest Service and Bureau of Land Management are to continue to complete as expeditiously as possible development of their respective Forest Land and Resource Management Plans to meet all applicable statutory requirements. Notwithstanding the date in section 6(c) of the NFMA (16 U.S.C. 1600) \[16 U.S.C. 1604(c)\], the Forest Service, and the Bureau of Land Management under separate authority, may continue the management of lands within their jurisdiction under existing land and resource management plans pending the completion of new plans. Nothing shall limit judicial review of particular activities on these lands: <i>Provided, however</i>, That there shall be no challenges to any existing plan on the sole basis that the plan in its entirety is outdated, or in the case of the Bureau of Land Management, solely on the basis that the plan does not incorporate information available subsequent to the completion of the existing plan: <i>Provided further</i>, That any and all particular activities to be carried out under existing plans may nevertheless be challenged."
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -172,7 +172,7 @@ Pub. L. 100–202, §101(g) \[title III, §314\], Dec. 22, 1987, 101 Stat. 1329�
 
 Pub. L. 99–500, §101(h) \[title II\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–268, and Pub. L. 99–591, §101(h) \[title II\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–268.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “long-term”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "long-term".</i>
 
-<i><sup>2</sup></i><i> So in original. The “; and” probably should be a period.</i>
+<i><sup>2</sup></i><i> So in original. The "; and" probably should be a period.</i>
 

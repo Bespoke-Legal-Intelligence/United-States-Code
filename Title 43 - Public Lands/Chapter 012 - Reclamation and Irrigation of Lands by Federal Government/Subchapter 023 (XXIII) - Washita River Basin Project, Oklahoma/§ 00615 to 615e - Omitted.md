@@ -16,5 +16,5 @@ Section 615e, act Feb. 25, 1956, ch. 71, §6, 70 Stat. 30, related to authorizat
 
 #### Foss Reservoir Master Conservancy District; Feasibility Study; Revision of Repayment Contract
 
-Pub. L. 90–311, May 18, 1968, 82 Stat. 124, directed Secretary of the Interior to conduct feasibility studies in areas serving Foss Reservoir Master Conservancy District to determine alternative water sources and methods of alleviating problems associated with poor quality and supply of water stored in Foss Reservoir, provided for assistance to Foss Reservoir Master Conservancy District in developing an adequate interim water supply, and authorized Secretary to use any available funds to carry out this Act.
+Pub. L. 90–311, May 18, 1968, 82 Stat. 124, directed Secretary of the Interior to conduct feasibility studies in areas serving Foss Reservoir Master Conservancy District to determine alternative water sources and methods of alleviating problems associated with poor quality and supply of water stored in Foss Reservoir, provided for assistance to Foss Reservoir Master Conservancy District in developing an adequate interim watersupply, and authorized Secretary to use any available funds to carry out this Act.
 

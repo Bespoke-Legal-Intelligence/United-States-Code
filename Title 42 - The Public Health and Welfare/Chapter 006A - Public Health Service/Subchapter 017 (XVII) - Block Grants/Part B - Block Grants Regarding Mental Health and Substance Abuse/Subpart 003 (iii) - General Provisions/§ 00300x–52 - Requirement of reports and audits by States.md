@@ -20,9 +20,9 @@ A funding agreement for a grant under section 300x or 300x–21 of this title is
 
 &emsp;(2) provide copies of the report under subsection (a) of this section, upon request, to any interested person (including any public agency).
 
-(July 1, 1944, ch. 373, title XIX, §1942, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106Stat. 403; amended Pub. L. 104–316, title I, §122(e), Oct. 19, 1996, 110 Stat. 3837.)
+(July 1, 1944, ch. 373, title XIX, §1942, as added Pub. L. 102–321, title II, §203(a), July 10, 1992, 106 Stat. 403; amended Pub. L. 104–316, title I, §122(e), Oct. 19, 1996, 110 Stat. 3837.)
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–316 struck out “and the Comptroller General” after “with the States” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–316 struck out "and the Comptroller General" after "with the States" in introductory provisions.
 

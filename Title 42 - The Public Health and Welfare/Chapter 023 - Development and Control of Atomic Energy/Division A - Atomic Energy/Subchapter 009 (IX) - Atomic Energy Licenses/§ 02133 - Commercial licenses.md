@@ -6,7 +6,7 @@ The Commission is authorized to issue licenses to persons applying therefor to t
 
 #### (b) Nonexclusive basis
 
-The Commission shall issue such licenses on a nonexclusive basis to persons applying therefor (1) whose proposed activities will serve a useful purpose proportionate to the quantities of special nuclear material or source material to be utilized; (2) who are equipped to observe and who agree to observe such safety standards to protect health and to minimize danger to life or property as the Commission may by rule establish; and (3) who agree to make available to theCommission such technical information and data concerning activities under such licenses as the Commission may determine necessary to promote the common defense and security and to protect the health and safety of the public. All such information may be used by the Commission only for the purposes of the common defense and security and to protect the health and safety of the public.
+The Commission shall issue such licenses on a nonexclusive basis to persons applying therefor (1) whose proposed activities will serve a useful purpose proportionate to the quantities of special nuclear material or source material to be utilized; (2) who are equipped to observe and who agree to observe such safety standards to protect health and to minimize danger to life or property as the Commission may by rule establish; and (3) who agree to make available to the Commission such technical information and data concerning activities under such licenses as the Commission may determine necessary to promote the common defense and security and to protect the health and safety of the public. All such information may be used by the Commission only for the purposes of the common defense and security and to protect the health and safety of the public.
 
 #### (c) License period
 
@@ -22,19 +22,23 @@ Each license issued for a utilization facility under this section or section 213
 
 (Aug. 1, 1946, ch. 724, title I, §103, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 936; amended Aug. 6, 1956, ch. 1015, §§12, 13, 70 Stat. 1071; Pub. L. 91–560, §4, Dec. 19, 1970, 84 Stat. 1472; Pub. L. 96–295, title II, §201, June 30, 1980, 94 Stat. 786; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 109–58, title VI, §621, Aug. 8, 2005, 119 Stat. 782.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, asadded by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
 #### Amendments
 
-<b>2005</b>—Subsec. (c). Pub. L. 109–58 inserted “from the authorization to commence operations” after “forty years”.
+<b>2005</b>—Subsec. (c). Pub. L. 109–58 inserted "from the authorization to commence operations" after "forty years".
 
 <b>1980</b>—Subsec. (f). Pub. L. 96–295 added subsec. (f).
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–560 struck out requirement of a finding of practical value under section 2132 and substituted “utilization and production facilities for industrial or commercial purposes” for “such type of utilization or production facility”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–560 struck out requirement of a finding of practical value under section 2132 and substituted "utilization and production facilities for industrial or commercial purposes" for "such type of utilization or production facility".
 
-<b>1956</b>—Subsec. (a). Act Aug. 6, 1956, §12, inserted “use,” after “possess,”.
+<b>1956</b>—Subsec. (a). Act Aug. 6, 1956, §12, inserted "use," after "possess,".
 
-Subsec. (d). Act Aug. 6, 1956, §13, inserted “an alien or any” after “issued to”.
+Subsec. (d). Act Aug. 6, 1956, §13, inserted "an alien or any" after "issued to".
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “(e)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "(e)".</i>
 

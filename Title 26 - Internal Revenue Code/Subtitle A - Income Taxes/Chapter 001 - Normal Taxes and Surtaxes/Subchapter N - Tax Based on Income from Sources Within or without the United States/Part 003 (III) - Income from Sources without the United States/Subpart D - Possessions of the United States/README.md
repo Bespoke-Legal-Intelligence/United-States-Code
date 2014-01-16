@@ -21,7 +21,7 @@ Subpart D—Possessions of the United States
 
 <b>2004</b>—Pub. L. 108–357, title VIII, §908(c)(6), Oct. 22, 2004, 118 Stat. 1657, added item 937.
 
-<b>1986</b>—Pub. L. 99–514, title XII, §§1272(d)(12), 1274(d), 1275(c)(8), Oct. 22, 1986, 100 Stat. 2595, 2598, 2599, substituted “Guam, American Samoa, or the Northern Mariana Islands” for “possessions of the United States” in item 931, added item 932, and struck out former item 932 “Citizens of possessions of the United States”, item 934A “Income tax rate on Virgin Islands source income” and item 935 “Coordination of United States and Guam individual income taxes”.
+<b>1986</b>—Pub. L. 99–514, title XII, §§1272(d)(12), 1274(d), 1275(c)(8), Oct. 22, 1986, 100 Stat. 2595, 2598, 2599, substituted "Guam, American Samoa, or the Northern Mariana Islands" for "possessions of the United States" in item 931, added item 932, and struck out former item 932 "Citizens of possessions of the United States", item 934A "Income tax rate on Virgin Islands source income" and item 935 "Coordination of United States and Guam individual income taxes".
 
 <b>1983</b>—Pub. L. 97–455, §1(d)(1), Jan. 12, 1983, 96 Stat. 2498, added item 934A.
 

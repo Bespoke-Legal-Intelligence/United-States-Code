@@ -16,11 +16,11 @@ Limitation on Appropriations.—No appropriation shall be made to acquire or con
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–281, §221(a)(2)(A), in introductory provisions, substituted “acquire or construct the following:” for “exercise any authority or any combination of authorities provided under this chapter in order to provide for the acquisition or construction by private persons, including a small business concern qualified under section 8(a) of the Small Business Act (15 U.S.C. 637(a)), of the following:”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–281, §221(a)(2)(A), in introductory provisions, substituted "acquire or construct the following:" for "exercise any authority or any combination of authorities provided under this chapter in order to provide for the acquisition or construction by private persons, including a small business concern qualified under section 8(a) of the Small Business Act (15 U.S.C. 637(a)), of the following:".
 
-Subsec. (a)(1). Pub. L. 111–281, §221(a)(2)(B), substituted “Military family housing” for “Family housing units”.
+Subsec. (a)(1). Pub. L. 111–281, §221(a)(2)(B), substituted "Military family housing" for "Family housing units".
 
-Subsec. (a)(2). Pub. L. 111–281, §221(a)(2)(C), substituted “Military unaccompanied housing” for “Unaccompanied housing units”.
+Subsec. (a)(2). Pub. L. 111–281, §221(a)(2)(C), substituted "Military unaccompanied housing" for "Unaccompanied housing units".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–295 inserted “, including a small business concern qualified under section 8(a) of the Small Business Act (15 U.S.C. 637(a)),” after “private persons” in introductory provisions.
+<b>2002</b>—Subsec. (a). Pub. L. 107–295 inserted ", including a small business concern qualified under section 8(a) of the Small Business Act (15 U.S.C. 637(a))," after "private persons" in introductory provisions.
 

@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Entity
 
-&emsp;The term “entity” means a partnership, association, trust, joint venture, corporation, or other organization.
+&emsp;The term "entity" means a partnership, association, trust, joint venture, corporation, or other organization.
 
 #### (2) Own or control
 
-&emsp;The term “own or control” means, with respect to an entity—
+&emsp;The term "own or control" means, with respect to an entity—
 
 &emsp;&emsp;(A) to hold more than 50 percent of the equity interest by vote or value in the entity;
 

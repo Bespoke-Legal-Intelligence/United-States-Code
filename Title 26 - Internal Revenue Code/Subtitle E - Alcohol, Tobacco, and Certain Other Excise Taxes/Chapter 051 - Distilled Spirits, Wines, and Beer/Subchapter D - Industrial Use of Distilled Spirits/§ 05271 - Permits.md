@@ -20,7 +20,7 @@ No person shall—
 
 Any application submitted under this section may be disapproved and the permit denied if the Secretary, after notice and opportunity for hearing, finds that—
 
-&emsp;(1) in case of an application to withdraw and use distilled spirits free of tax, the applicant isnot authorized by law or regulations issued pursuant thereto to withdraw or use such distilled spirits; or
+&emsp;(1) in case of an application to withdraw and use distilled spirits free of tax, the applicant is not authorized by law or regulations issued pursuant thereto to withdraw or use such distilled spirits; or
 
 &emsp;(2) the applicant (including, in the case of a corporation, any officer, director, or principal stockholder, and, in the case of a partnership, a partner) is, by reason of his business experience, financial standing, or trade connections, not likely to maintain operations in compliance with this chapter; or
 
@@ -70,13 +70,13 @@ The Secretary shall prescribe all necessary regulations relating to issuance, de
 
 #### Prior Provisions
 
-A prior section 5271, act Aug. 16, 1954, ch. 736, 68A Stat. 650, related to “notice of business of rectifier”, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171(a), (c), 5172, and 5178(a)(1)(A), (4)(B)–(D) of this title.
+A prior section 5271, act Aug. 16, 1954, ch. 736, 68A Stat. 650, related to "notice of business of rectifier", prior to the general revision of this chapter by Pub. L. 85–859. See sections 5171(a), (c), 5172, and 5178(a)(1)(A), (4)(B)–(D) of this title.
 
 Provisions similar to those comprising subsecs. (a) to (f) and (h) of this section were contained in prior section 5304(a)(1) to (4), (b), (c), act Aug. 16, 1954, ch. 736, 68A Stat. 655, prior to the general revision of this chapter by Pub. L. 85–859.
 
 #### Amendments
 
-<b>1976</b>—Subsecs. (a) to (e), (h). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a) to (e), (h). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date
 

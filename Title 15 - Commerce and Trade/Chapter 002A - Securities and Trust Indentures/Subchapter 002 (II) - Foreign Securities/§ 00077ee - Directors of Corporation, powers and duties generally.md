@@ -14,7 +14,7 @@ The board of directors may—
 
 &emsp;(6) Collect, preserve, publish, circulate, and render available in readily accessible form, when deemed essential or necessary, documents, statistics, reports, and information of all kinds in respect of foreign securities, including particularly records of foreign external securities in default and records of the progress made toward the payment of past-due obligations.
 
-&emsp;(7) Take such steps as it may deem expedient with the view of securing the adoption of clear and simple forms of foreign securities and justand sound principles in the conditions and terms thereof.
+&emsp;(7) Take such steps as it may deem expedient with the view of securing the adoption of clear and simple forms of foreign securities and just and sound principles in the conditions and terms thereof.
 
 &emsp;(8) Generally, act in the name and on behalf of the holders of foreign securities the care or representation of whose interests may be entrusted to the Corporation; conserve and protect the rights and interests of holders of foreign securities issued, sold, or owned in the United States; adopt measures for the protection, vindication, and preservation or reservation of the rights and interests of holders of foreign securities either on any default in or on breach or contemplated breach of the conditions on which such foreign securities may have been issued, or otherwise; obtain for such holders such legal and other assistance and advice as the board of directors may deem expedient; and do all such other things as are incident or conducive to the attainment of the above objects.
 

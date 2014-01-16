@@ -36,7 +36,7 @@ There are in the Agency 10 regional offices, as identified by the Administrator.
 
 &emsp;&emsp;(C) coordinating the establishment of effective regional operable and interoperable emergency communications capabilities;
 
-&emsp;&emsp;(D) staffing and overseeing 1 or more strike teams within the region under subsection (f), to serve as the focal point of the Federal Government's initial response efforts for natural disasters, acts of terrorism, and other man-made disasters within that region, and otherwise building Federal response capabilities to respond to natural disasters, acts of terrorism, and other man-made disasters within that region;
+&emsp;&emsp;(D) staffing and overseeing 1 or more strike teams within the region under subsection (f), to serve as the focal point of the Federal Government's initial response efforts for natural disasters, acts of terrorism, and other man-made disasters within thatregion, and otherwise building Federal response capabilities to respond to natural disasters, acts of terrorism, and other man-made disasters within that region;
 
 &emsp;&emsp;(E) designating an individual responsible for the development of strategic and operational regional plans in support of the National Response Plan;
 

@@ -31,7 +31,7 @@
 | [3506\.](%C2%A7%2003506%20-%20Service%20of%20papers%20filed%20in%20opposition%20to%20official%20request%20by%20United%20States%20to%20foreign%20government%20for%20criminal%20evidence.md) | Service of papers filed in opposition to official request by United States to foreign government for criminal evidence. |
 | [3507\.](%C2%A7%2003507%20-%20Special%20master%20at%20foreign%20deposition.md) | Special master at foreign deposition. |
 | [3508\.](%C2%A7%2003508%20-%20Custody%20and%20return%20of%20foreign%20witnesses.md) | Custody and return of foreign witnesses. |
-| [3509\.](%C2%A7%2003509%20-%20Child%20victims%E2%80%99%20and%20child%20witnesses%E2%80%99%20rights.md) | Child victims’ and child witnesses’ rights. |
+| [3509\.](%C2%A7%2003509%20-%20Child%20victims%27%20and%20child%20witnesses%27%20rights.md) | Child victims' and child witnesses' rights. |
 | [3510\.](%C2%A7%2003510%20-%20Rights%20of%20victims%20to%20attend%20and%20observe%20trial.md) | Rights of victims to attend and observe trial. |
 | [3511\.](%C2%A7%2003511%20-%20Judicial%20review%20of%20requests%20for%20information.md) | Judicial review of requests for information. |
 | [3512\.](%C2%A7%2003512%20-%20Foreign%20requests%20for%20assistance%20in%20criminal%20investigations%20and%20prosecutions.md) | Foreign requests for assistance in criminal investigations and prosecutions. |
@@ -44,15 +44,15 @@
 
 <b>2006</b>—Pub. L. 109–177, title I, §115(1), Mar. 9, 2006, 120 Stat. 211, added item 3511.
 
-<b>2002</b>—Pub. L. 107–273, div. B, title IV, §4002(c)(3)(B), Nov. 2, 2002, 116 Stat. 1809, struck out item 3503 “Depositions to preserve testimony”.
+<b>2002</b>—Pub. L. 107–273, div. B, title IV, §4002(c)(3)(B), Nov. 2, 2002, 116 Stat. 1809, struck out item 3503 "Depositions to preserve testimony".
 
-<b>2000</b>—Pub. L. 106–544, §5(b)(2), (3), Dec. 19, 2000, 114 Stat. 2718, struck out “in Federal health care investigations” after “subpoenas” in item 3486 and struck out item 3486A “Administrative subpoenas in cases involving child abuse and child sexual exploitation”.
+<b>2000</b>—Pub. L. 106–544, §5(b)(2), (3), Dec. 19, 2000, 114 Stat. 2718, struck out "in Federal health care investigations" after "subpoenas" in item 3486 and struck out item 3486A "Administrative subpoenas in cases involving child abuse and child sexual exploitation".
 
-<b>1998</b>—Pub. L. 105–314, title VI, §606(b), Oct. 30, 1998, 112 Stat. 2985, added items 3486 and 3486A and struck out former item 3486 “Authorized investigative demand procedures”.
+<b>1998</b>—Pub. L. 105–314, title VI, §606(b), Oct. 30, 1998, 112 Stat. 2985, added items 3486 and 3486A and struck out former item 3486 "Authorized investigative demand procedures".
 
 <b>1997</b>—Pub. L. 105–6, §2(b), Mar. 19, 1997, 111 Stat. 12, added item 3510.
 
-<b>1996</b>—Pub. L. 104–294, title VI, §604(a)(4), Oct. 11, 1996, 110 Stat. 3506, substituted “victims’ ” for “Victims’ ” in item 3509.
+<b>1996</b>—Pub. L. 104–294, title VI, §604(a)(4), Oct. 11, 1996, 110 Stat. 3506, substituted "victims' " for "Victims' " in item 3509.
 
 Pub. L. 104–191, title II, §248(b), Aug. 21, 1996, 110 Stat. 2019, added item 3486.
 
@@ -62,7 +62,7 @@ Pub. L. 104–191, title II, §248(b), Aug. 21, 1996, 110 Stat. 2019, added item
 
 <b>1984</b>—Pub. L. 98–473, title II, §1217(b), Oct. 12, 1984, 98 Stat. 2166, added items 3505, 3506, and 3507.
 
-<b>1970</b>—Pub. L. 91–452, title II, §228(b), title VI, §601(b), title VII, §702(b), Oct. 15, 1970, 84 Stat. 930, 935, 936, added items 3503 and 3504, and struck out item 3486 “Compelled testimony tending to incriminate witnesses; immunity”.
+<b>1970</b>—Pub. L. 91–452, title II, §228(b), title VI, §601(b), title VII, §702(b), Oct. 15, 1970, 84 Stat. 930, 935, 936, added items 3503 and 3504, and struck out item 3486 "Compelled testimony tending to incriminate witnesses; immunity".
 
 <b>1968</b>—Pub. L. 90–351, title II, §701(b), June 19, 1968, 82 Stat. 211, added items 3501 and 3502.
 
@@ -108,7 +108,7 @@ Pub. L. 91–452, title V, §§501–504, Oct. 15, 1970, 84 Stat. 933, which aut
 - [&sect; 03506 - Service of papers filed in opposition to official request by United States to foreign government for criminal evidence](%C2%A7%2003506%20-%20Service%20of%20papers%20filed%20in%20opposition%20to%20official%20request%20by%20United%20States%20to%20foreign%20government%20for%20criminal%20evidence.md)
 - [&sect; 03507 - Special master at foreign deposition](%C2%A7%2003507%20-%20Special%20master%20at%20foreign%20deposition.md)
 - [&sect; 03508 - Custody and return of foreign witnesses](%C2%A7%2003508%20-%20Custody%20and%20return%20of%20foreign%20witnesses.md)
-- [&sect; 03509 - Child victims&#8217; and child witnesses&#8217; rights](%C2%A7%2003509%20-%20Child%20victims%E2%80%99%20and%20child%20witnesses%E2%80%99%20rights.md)
+- [&sect; 03509 - Child victims' and child witnesses' rights](%C2%A7%2003509%20-%20Child%20victims%27%20and%20child%20witnesses%27%20rights.md)
 - [&sect; 03510 - Rights of victims to attend and observe trial](%C2%A7%2003510%20-%20Rights%20of%20victims%20to%20attend%20and%20observe%20trial.md)
 - [&sect; 03511 - Judicial review of requests for information](%C2%A7%2003511%20-%20Judicial%20review%20of%20requests%20for%20information.md)
 - [&sect; 03512 - Foreign requests for assistance in criminal investigations and prosecutions](%C2%A7%2003512%20-%20Foreign%20requests%20for%20assistance%20in%20criminal%20investigations%20and%20prosecutions.md)

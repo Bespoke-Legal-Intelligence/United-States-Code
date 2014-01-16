@@ -38,7 +38,7 @@
 
 #### (5) Monitoring the administration of the system
 
-&emsp;In a State in which the system is housed in a State agency, the State may use not more than 5 percent of any allotment under thissubsection for the costs of monitoring the administration of the system required under section 15043(a) of this title.
+&emsp;In a State in which the system is housed in a State agency, the State may use not more than 5 percent of any allotment under this subsection for the costs of monitoring the administration of the system required under section 15043(a) of this title.
 
 #### (6) Technical assistance and American Indian consortium
 

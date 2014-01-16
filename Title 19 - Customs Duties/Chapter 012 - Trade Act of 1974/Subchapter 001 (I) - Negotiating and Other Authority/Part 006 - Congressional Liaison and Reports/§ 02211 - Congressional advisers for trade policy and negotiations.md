@@ -22,7 +22,7 @@
 
 #### (b) Briefing
 
-(1) The United States Trade Representative shall keep each official adviser designated under subsection (a)(1) of this section currently informed on matters affecting the trade policy of the United States and, with respect to possible agreements, negotiating objectives, the status of negotiations in progress, and the nature of any changes in domestic law or the administration thereof which may be recommended to Congress to carry out any trade agreement or any requirement of, amendment to, or recommendation under, such agreement.
+(1) The United States Trade Representative shall keep each official adviser designated undersubsection (a)(1) of this section currently informed on matters affecting the trade policy of the United States and, with respect to possible agreements, negotiating objectives, the status of negotiations in progress, and the nature of any changes in domestic law or the administration thereof which may be recommended to Congress to carry out any trade agreement or any requirement of, amendment to, or recommendation under, such agreement.
 
 (2) The United States Trade Representative shall keep each official adviser designated under subsection (a)(2) of this section currently informed regarding the trade policy matters and negotiations with respect to which the adviser is designated.
 
@@ -50,7 +50,7 @@ The United States Trade Representative shall consult on a continuing basis with 
 
 <b>1988</b>—Pub. L. 100–418 amended section generally, substituting present provisions for similar provisions which had related to Congressional delegates to negotiations, and changing the structure of the section from one consisting of subsecs. (a) and (b) to one consisting of subsecs. (a) to (c).
 
-<b>1979</b>—Subsec. (b)(1). Pub. L. 96–39 substituted “trade agreement or any requirement of, amendment to, or recommendation under, such agreement” for “trade agreement”.
+<b>1979</b>—Subsec. (b)(1). Pub. L. 96–39 substituted "trade agreement or any requirement of, amendment to, or recommendation under, such agreement" for "trade agreement".
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

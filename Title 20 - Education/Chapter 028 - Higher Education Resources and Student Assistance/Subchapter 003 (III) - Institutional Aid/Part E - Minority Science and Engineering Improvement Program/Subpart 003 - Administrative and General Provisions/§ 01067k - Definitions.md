@@ -2,29 +2,29 @@
 
 For the purpose of this part—
 
-&emsp;(1) The term “accredited” means currently certified by a nationally recognized accrediting agency or making satisfactory progress toward achieving accreditation.
+&emsp;(1) The term "accredited" means currently certified by a nationally recognized accrediting agency or making satisfactory progress toward achieving accreditation.
 
-&emsp;(2) The term “minority” means American Indian, Alaskan Native, Black (not of Hispanic origin), Hispanic (including persons of Mexican, Puerto Rican, Cuban, and Central or South American origin), Pacific Islander or other ethnic group underrepresented in science and engineering.
+&emsp;(2) The term "minority" means American Indian, Alaskan Native, Black (not of Hispanic origin), Hispanic (including persons of Mexican, Puerto Rican, Cuban, and Central or South American origin), Pacific Islander or other ethnic group underrepresented in science and engineering.
 
-&emsp;(3) The term “minority institution” means an institution of higher education whose enrollment of a single minority or a combination of minorities (as defined in paragraph (2)) exceeds 50 percent of the total enrollment. The Secretary shall verify this information from the data on enrollments in the higher education general information surveys (HEGIS) furnished by the institution to the Office for Civil Rights, Department of Education.
+&emsp;(3) The term "minority institution" means an institution of higher education whose enrollment of a single minority or a combination of minorities (as defined in paragraph (2)) exceeds 50 percent of the total enrollment. The Secretary shall verify this information from the data on enrollments in the higher education general information surveys (HEGIS) furnished by the institution to the Office for Civil Rights, Department of Education.
 
-&emsp;(4) The term “science” means, for the purpose of this program, the biological, engineering, mathematical, physical, behavioral, and social sciences, and history and philosophy of science; also included are interdisciplinary fields which are comprised of overlapping areas among two or more sciences.
+&emsp;(4) The term "science" means, for the purpose of this program, the biological, engineering, mathematical, physical, behavioral, and social sciences, and history and philosophy of science; also included are interdisciplinary fields which are comprised of overlapping areas among two or more sciences.
 
-&emsp;(5) The term “underrepresented in science and engineering” means a minority group whose number of scientists and engineers per 10,000 population of that group is substantially below the comparable figure for scientists and engineers who are white and not of Hispanic origin.
+&emsp;(5) The term "underrepresented in science and engineering" means a minority group whose number of scientists and engineers per 10,000 population of that group is substantially below the comparable figure for scientists and engineers who are white and not of Hispanic origin.
 
-&emsp;(6) The term “institutional grant” means a grant that supports the implementation of a comprehensive science improvement plan, which may include any combination of activities for improving the preparation of minority students for careers in science.
+&emsp;(6) The term "institutional grant" means a grant that supports the implementation of a comprehensive science improvement plan, which may include any combination of activities for improving the preparation of minority students for careers in science.
 
-&emsp;(7) The term “cooperative grant” means a grant that assists groups of nonprofit accredited colleges and universities to work together to conduct a science improvement program.
+&emsp;(7) The term "cooperative grant" means a grant that assists groups of nonprofit accredited colleges and universities to work together to conduct a science improvement program.
 
-&emsp;(8) The term “design projects” means projects that assist minority institutions that do not have their own appropriate resources or personnel to plan and develop long-range science improvement programs.
+&emsp;(8) The term "design projects" means projects that assist minority institutions that do not have their own appropriate resources or personnel to plan and develop long-range science improvement programs.
 
-&emsp;(9) The term “special projects” means—
+&emsp;(9) The term "special projects" means—
 
 &emsp;&emsp;(A) a special project grant to a minority institution which supports activities that—
 
 &emsp;&emsp;&emsp;(i) improve the quality of training in science and engineering at minority institutions; or
 
-&emsp;&emsp;&emsp;(ii) enhance the minority institutions’ general scientific research capabilities; or
+&emsp;&emsp;&emsp;(ii) enhance the minority institutions' general scientific research capabilities; or
 
 &emsp;&emsp;(B) a special project grant to any eligible applicant which supports activities that—
 
@@ -40,9 +40,9 @@ Section was formerly classified to section 1135d–5 of this title prior to renu
 
 #### Amendments
 
-<b>2008</b>—Par. (9)(A). Pub. L. 110–315 substituted “supports” for “support” in introductory provisions.
+<b>2008</b>—Par. (9)(A). Pub. L. 110–315 substituted "supports" for "support" in introductory provisions.
 
-<b>1998</b>—Par. (4). Pub. L. 105–244, §307(c), inserted “behavioral,” after “physical,”.
+<b>1998</b>—Par. (4). Pub. L. 105–244, §307(c), inserted "behavioral," after "physical,".
 
 #### Effective Date of 1998 Amendment
 

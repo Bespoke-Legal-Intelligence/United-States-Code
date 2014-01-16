@@ -6,13 +6,13 @@ Before any foreign trade agreement is concluded with any foreign government or i
 
 #### Amendments
 
-<b>1975</b>—Pub. L. 93–618 substituted “United States International Trade Commission” for “United States Tariff Commission”.
+<b>1975</b>—Pub. L. 93–618 substituted "United States International Trade Commission" for "United States Tariff Commission".
 
 <b>1951</b>—Act June 16, 1951, provided that the President request the Tariff Commission to make the investigation and report.
 
 <b>1949</b>—Act Sept. 26, 1949, changed the Tariff Commission's functions under these sections from investigatory to advisory functions.
 
-<b>1945</b>—Act July 5, 1945, inserted “War, Navy,” after “Departments of State”.
+<b>1945</b>—Act July 5, 1945, inserted "War, Navy," after "Departments of State".
 
 #### Change of Name
 

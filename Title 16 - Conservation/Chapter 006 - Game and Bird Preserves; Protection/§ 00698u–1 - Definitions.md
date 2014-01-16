@@ -4,19 +4,19 @@ In sections 698u to 698u–7 of this title:
 
 #### (1) Advisory Committee
 
-&emsp;The term “Advisory Committee” means the Advisory Committee established under section 698u–5 of this title.
+&emsp;The term "Advisory Committee" means the Advisory Committee established under section 698u–5 of this title.
 
 #### (2) Preserve
 
-&emsp;The term “Preserve” means the Tallgrass Prairie National Preserve established by section 698u–2 of this title.
+&emsp;The term "Preserve" means the Tallgrass Prairie National Preserve established by section 698u–2 of this title.
 
 #### (3) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior.
+&emsp;The term "Secretary" means the Secretary of the Interior.
 
 #### (4) Trust
 
-&emsp;The term “Trust” means the National Park Trust, Inc., a District of Columbia nonprofit corporation, or any successor-in-interest.
+&emsp;The term "Trust" means the National Park Trust, Inc., a District of Columbia nonprofit corporation, or any successor-in-interest.
 
 (Pub. L. 104–333, div. I, title X, §1003, Nov. 12, 1996, 110 Stat. 4205.)
 

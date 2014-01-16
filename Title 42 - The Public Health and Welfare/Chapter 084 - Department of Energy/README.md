@@ -240,7 +240,7 @@
 |  |  |
 | :--- | ---: |
 | [7371\.](Subchapter%20012%20%28XII%29%20-%20Renewable%20Energy%20Initiatives/%C2%A7%2007371%20-%20Statement%20of%20purpose.md) | Statement of purpose. |
-| [7372\.](Subchapter%20012%20%28XII%29%20-%20Renewable%20Energy%20Initiatives/%C2%A7%2007372%20-%20%E2%80%9CSecretary%E2%80%9D%20and%20%E2%80%9Crenewable%20energy%20resource%E2%80%9D%20defined.md) | “Secretary” and “renewable energy resource” defined. |
+| [7372\.](Subchapter%20012%20%28XII%29%20-%20Renewable%20Energy%20Initiatives/%C2%A7%2007372%20-%20Secretary%20and%20renewable%20energy%20resource%20defined.md) | "Secretary" and "renewable energy resource" defined. |
 | [7373\.](Subchapter%20012%20%28XII%29%20-%20Renewable%20Energy%20Initiatives/%C2%A7%2007373%20-%20Coordinated%20dissemination%20of%20information%20on%20renewable%20energy%20resources%20and%20conservation.md) | Coordinated dissemination of information on renewable energy resources and conservation. |
 | [7374\.](Subchapter%20012%20%28XII%29%20-%20Renewable%20Energy%20Initiatives/%C2%A7%2007374%20-%20Energy%20self-sufficiency%20initiatives.md) | Energy self-sufficiency initiatives. |
 | [7375\.](Subchapter%20012%20%28XII%29%20-%20Renewable%20Energy%20Initiatives/%C2%A7%2007375%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
@@ -410,7 +410,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part D—Assistance in State Workers’ Compensation Proceedings
+#### Part D—Assistance in State Workers' Compensation Proceedings
 
 |  |  |
 | :--- | ---: |

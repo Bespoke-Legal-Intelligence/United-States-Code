@@ -24,7 +24,7 @@ It shall be the duty of the District Court for the District of Columbia and the 
 
 #### (d) Noncompliance with sequestration procedures
 
-(1) If it is finally determined by a court of competent jurisdiction that an order issued by the President under section 904 of this title for any fiscal year—
+(1) If it is finally determined by a court of competent jurisdiction that an order issued bythe President under section 904 of this title for any fiscal year—
 
 &emsp;(A) does not reduce automatic spending increases under any program specified in section 906(a) <sup>1</sup> of this title if such increases are required to be reduced by subchapter I of this chapter (or reduces such increases by a greater extent than is so required), or
 
@@ -52,7 +52,7 @@ The rights created by this section are in addition to the rights of any person u
 
 #### (g) Economic data and assumptions
 
-The economic data and economic assumptions used by the Director of OMB in computing thefigures specified in any report issued by the Director of OMB under section 904 of this title, shall not be subject to review in any judicial or administrative proceeding.
+The economic data and economic assumptions used by the Director of OMB in computing the figures specified in any report issued by the Director of OMB under section 904 of this title, shall not be subject to review in any judicial or administrative proceeding.
 
 (Pub. L. 99–177, title II, §274, Dec. 12, 1985, 99 Stat. 1098; Pub. L. 100–119, title I, §102(b)(9), (10), Sept. 29, 1987, 101 Stat. 774, 775; Pub. L. 105–33, title X, §10211, Aug. 5, 1997, 111 Stat. 711.)
 

@@ -12,13 +12,13 @@ A shipper, carrier by motor vehicle or rail vehicle, receiver, or other person s
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–31 inserted “tobacco product,” after “device,” in two places and “tobacco products,” after “devices,” in two places.
+<b>2009</b>—Subsec. (a). Pub. L. 111–31 inserted "tobacco product," after "device," in two places and "tobacco products," after "devices," in two places.
 
-<b>2005</b>—Pub. L. 109–59 struck out “of interstate shipment” after “Records” in section catchline, designated existing provisions as subsec. (a), inserted subsec. heading, substituted “carriers, except as provided in subsection (b) of this section” for “carriers” before period at end, and added subsec. (b).
+<b>2005</b>—Pub. L. 109–59 struck out "of interstate shipment" after "Records" in section catchline, designated existing provisions as subsec. (a), inserted subsec. heading, substituted "carriers, except as provided in subsection (b) of this section" for "carriers" before period at end, and added subsec. (b).
 
-<b>1993</b>—Pub. L. 103–80 substituted “, except that” for “: <i>Provided</i>, That” and “, and except that” for “: <i>Provided further</i>, That”.
+<b>1993</b>—Pub. L. 103–80 substituted ", except that" for ": <i>Provided</i>, That" and ", and except that" for ": <i>Provided further</i>, That".
 
-<b>1970</b>—Pub. L. 91–452 inserted “, or any evidence which is directly or indirectly derived from such evidence,” after “under this section”.
+<b>1970</b>—Pub. L. 91–452 inserted ", or any evidence which is directly or indirectly derived from such evidence," after "under this section".
 
 #### Effective Date of 2005 Amendment
 

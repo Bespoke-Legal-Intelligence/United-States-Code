@@ -10,7 +10,7 @@
 - [&sect; 00406 - Interference with foreign trade](%C2%A7%2000406%20-%20Interference%20with%20foreign%20trade.md)
 - [&sect; 00407 - Repealed. Aug. 13, 1953, ch. 434, &sect;2, 67 Stat. 577](%C2%A7%2000407%20-%20Repealed.%20Aug.%2013%2C%201953%2C%20ch.%20434%2C%20%C2%A72%2C%2067%20Stat.%20577.md)
 - [&sect; 00408 - Use of land and naval forces to prevent exportation](%C2%A7%2000408%20-%20Use%20of%20land%20and%20naval%20forces%20to%20prevent%20exportation.md)
-- [&sect; 00408a - &#8220;United States&#8221; defined](%C2%A7%2000408a%20-%20%E2%80%9CUnited%20States%E2%80%9D%20defined.md)
+- [&sect; 00408a - United States defined](%C2%A7%2000408a%20-%20United%20States%20defined.md)
 - [&sect; 00409, 410 - Repealed. June 25, 1948, ch. 645, &sect;21, 62 Stat. 862, eff. Sept. 1, 1948](%C2%A7%2000409%2C%20410%20-%20Repealed.%20June%2025%2C%201948%2C%20ch.%20645%2C%20%C2%A721%2C%2062%20Stat.%20862%2C%20eff.%20Sept.%201%2C%201948.md)
 - [&sect; 00411 to 419 - Omitted](%C2%A7%2000411%20to%20419%20-%20Omitted.md)
 - [&sect; 00420 - Repealed. July 25, 1947, ch. 327, &sect;1, 61 Stat. 449](%C2%A7%2000420%20-%20Repealed.%20July%2025%2C%201947%2C%20ch.%20327%2C%20%C2%A71%2C%2061%20Stat.%20449.md)

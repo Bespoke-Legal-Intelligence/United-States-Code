@@ -2,7 +2,7 @@
 
 #### (a) Promulgation of regulations by Secretary of Commerce
 
-The Secretary, in consultation with the Secretary of the Interior, the Secretary of the Department in which the Coast Guard is operating and the appropriate Regional Fishery Management Council, shall promulgate such regulations as may be necessary to carry out the United States international obligations under the Treaty and this chapter, pursuant to section 3635 of this title, as well as conforming amendatory regulations applicable to the United States Exclusive Economic Zone. Any such regulation may be made applicable, as necessary, to all persons and all vessels subject to the jurisdiction of the United States, wherever located. Such regulations as are necessary and appropriate to carry out obligations of the United States under the Treaty involve a foreign affairs function, and as such shall not be subject to sections 553 through 557 of title 5, or the National Environmental Policy Act (42 U.S.C. 4321 et seq.).
+The Secretary, in consultation with the Secretary of the Interior, the Secretary of the Department in which the Coast Guard is operatingand the appropriate Regional Fishery Management Council, shall promulgate such regulations as may be necessary to carry out the United States international obligations under the Treaty and this chapter, pursuant to section 3635 of this title, as well as conforming amendatory regulations applicable to the United States Exclusive Economic Zone. Any such regulation may be made applicable, as necessary, to all persons and all vessels subject to the jurisdiction of the United States, wherever located. Such regulations as are necessary and appropriate to carry out obligations of the United States under the Treaty involve a foreign affairs function, and as such shall not be subject to sections 553 through 557 of title 5, or the National Environmental Policy Act (42 U.S.C. 4321 et seq.).
 
 #### (b) Additions to fishery regimes and Fraser River Panel regulations
 
@@ -16,11 +16,11 @@ Regulations promulgated by the Secretary under this chapter shall be subject to 
 
 #### Amendment of Subsection (a)
 
-<i>Pub. L. 102–251, title III, §§306(b), 308, Mar. 9, 1992, 106 Stat. 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting “and special areas” after “Exclusive Economic Zone”.</i>
+<i>Pub. L. 102–251, title III, §§306(b), 308, Mar. 9, 1992, 106 Stat. 66, provided that, effective on the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States, with authority to prescribe implementing regulations effective Mar. 9, 1992, but with no such regulation to be effective until the date on which the Agreement enters into force for the United States, subsection (a) is amended by inserting "and special areas" after "Exclusive Economic Zone".</i>
 
 #### References in Text
 
-The National Environmental Policy Act, referred to in subsec. (a), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The PublicHealth and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act, referred to in subsec. (a), probably means the National Environmental Policy Act of 1969, Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Effective Date of 1992 Amendment
 

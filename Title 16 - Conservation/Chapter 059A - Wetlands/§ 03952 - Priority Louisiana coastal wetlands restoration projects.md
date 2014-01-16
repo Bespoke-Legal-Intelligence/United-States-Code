@@ -38,7 +38,7 @@ Pre-plan.—Prior to the date on which the plan required by subsection (b) of th
 
 #### (1) Plan preparation
 
-&emsp;The Task Force shall prepare a plan to identify coastal wetlands restoration projects, inorder of priority, based on the cost-effectiveness of such projects in creating, restoring, protecting, or enhancing the long-term conservation of coastal wetlands, taking into account the quality of such coastal wetlands, with due allowance for small-scale projects necessary to demonstrate the use of new techniques or materials for coastal wetlands restoration. Such restoration plan shall be completed within three years from November 29, 1990.
+&emsp;The Task Force shall prepare a plan to identify coastal wetlands restoration projects, in order of priority, based on the cost-effectiveness of such projects in creating, restoring, protecting, or enhancing the long-term conservation of coastal wetlands, taking into account the quality of such coastal wetlands, with due allowance for small-scale projects necessary to demonstrate the use of new techniques or materials for coastal wetlands restoration. Such restoration plan shall be completed within three years from November 29, 1990.
 
 #### (2) Purpose of the plan
 
@@ -46,7 +46,7 @@ Pre-plan.—Prior to the date on which the plan required by subsection (b) of th
 
 #### (3) Integration of existing plans
 
-&emsp;In developing the restoration plan, the Task Force shall seek to integrate the “Louisiana Comprehensive Coastal Wetlands Feasibility Study” conducted by the Secretary of the Army and the “Coastal Wetlands Conservation and Restoration Plan” prepared by the State of Louisiana's Wetlands Conservation and Restoration Task Force.
+&emsp;In developing the restoration plan, the Task Force shall seek to integrate the "Louisiana Comprehensive Coastal Wetlands Feasibility Study" conducted by the Secretary of the Army and the "Coastal Wetlands Conservation and Restoration Plan" prepared by the State of Louisiana's Wetlands Conservation and Restoration Task Force.
 
 #### (4) Elements of the plan
 
@@ -74,7 +74,7 @@ Pre-plan.—Prior to the date on which the plan required by subsection (b) of th
 
 &emsp;&emsp;(K) consultation with the public and provision for public review during development of the plan; and
 
-&emsp;&emsp;(L) evaluation of the effectiveness of each coastal wetlands restoration project in achieving long-term solutions to arresting coastal wetlands loss in Louisiana.
+&emsp;&emsp;(L) evaluation of the effectiveness of each coastal wetlands restoration project inachieving long-term solutions to arresting coastal wetlands loss in Louisiana.
 
 #### (5) Plan modification
 
@@ -128,7 +128,7 @@ The Secretary shall, with the funds made available in accordance with this chapt
 
 #### Amendments
 
-<b>1996</b>—Subsec. (f)(4). Pub. L. 104–303, §532(1), substituted “(3), and (5)” for “and (3)”.
+<b>1996</b>—Subsec. (f)(4). Pub. L. 104–303, §532(1), substituted "(3), and (5)" for "and (3)".
 
 Subsec. (f)(5). Pub. L. 104–303, §532(2), added par. (5).
 

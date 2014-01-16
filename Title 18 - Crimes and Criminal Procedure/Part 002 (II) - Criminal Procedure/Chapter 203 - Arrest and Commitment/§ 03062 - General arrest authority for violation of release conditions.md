@@ -6,5 +6,5 @@ A law enforcement officer, who is authorized to arrest for an offense committed 
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–690 substituted “section 3142(c)(1)(B)(iv), (v), (viii), (ix), or (xiii)” for “section 3142(c)(2)(D), (c)(2)(E), (c)(2)(H), (c)(2)(I), or (c)(2)(M)” and “section 3142(c)(1)(B)(x)” for “section 3142(c)(2)(J)”.
+<b>1988</b>—Pub. L. 100–690 substituted "section 3142(c)(1)(B)(iv), (v), (viii), (ix), or (xiii)" for "section 3142(c)(2)(D), (c)(2)(E), (c)(2)(H), (c)(2)(I), or (c)(2)(M)" and "section 3142(c)(1)(B)(x)" for "section 3142(c)(2)(J)".
 

@@ -24,9 +24,9 @@ A State nonmember insured bank may not permit—
 
 As used in this section—
 
-&emsp;(1) The term “deal in” includes making, taking, buying, selling, redeeming, or collecting.
+&emsp;(1) The term "deal in" includes making, taking, buying, selling, redeeming, or collecting.
 
-&emsp;(2) The term “lottery” includes any arrangement whereby three or more persons (the “participants”) advance money or credit to another in exchange for the possibility or expectation that one or more but not all of the participants (the “winners”) will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
+&emsp;(2) The term "lottery" includes any arrangement whereby three or more persons (the "participants") advance money or credit to another in exchange for the possibility or expectation that one or more but not all of the participants (the "winners") will receive by reason of their advances more than the amounts they have advanced, the identity of the winners being determined by any means which includes—
 
 &emsp;&emsp;(A) a random selection;
 
@@ -34,7 +34,7 @@ As used in this section—
 
 &emsp;&emsp;(C) any record or tabulation of the result of one or more events in which any participant has no interest except for its bearing upon the possibility that he may become a winner.
 
-&emsp;(3) The term “lottery ticket” includes any right, privilege, or possibility (and any ticket, receipt, record, or other evidence of any such right, privilege, or possibility), of becoming a winner in a lottery.
+&emsp;(3) The term "lottery ticket" includes any right, privilege, or possibility (and any ticket, receipt, record, or other evidence of any such right, privilege, or possibility), of becoming a winner in a lottery.
 
 #### (d) Lawful banking services connected with operation of lottery
 
@@ -48,7 +48,7 @@ The Board of Directors shall prescribe such regulations as may be necessary to t
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(3). Pub. L. 103–325 inserted “or” at end.
+<b>1994</b>—Subsec. (a)(3). Pub. L. 103–325 inserted "or" at end.
 
 #### Effective Date
 

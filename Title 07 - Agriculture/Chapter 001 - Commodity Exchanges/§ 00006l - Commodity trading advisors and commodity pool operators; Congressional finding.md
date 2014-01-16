@@ -12,7 +12,7 @@ It is hereby found that the activities of commodity trading advisors and commodi
 
 #### Amendments
 
-<b>2000</b>—Pars. (2), (3). Pub. L. 106–554 inserted “or derivatives transaction execution facilities” after “contract markets”.
+<b>2000</b>—Pars. (2), (3). Pub. L. 106–554 inserted "or derivatives transaction execution facilities" after "contract markets".
 
 #### Effective Date
 

@@ -1,6 +1,6 @@
 ### §912. Office of Rural Health Policy
 
-(a) There shall be established in the Department of Health and Human Services (in this section referred to as the “Department”) an Office of Rural Health Policy (in this section referred to as the “Office”). The Office shall be headed by a Director, who shall advise the Secretary on the effects of current policies and proposed statutory, regulatory, administrative, and budgetary changes in the programs established under subchapters XVIII and XIX of this chapter on the financial viability of small rural hospitals, the ability of rural areas (and rural hospitals in particular) to attract and retain physicians and other health professionals, and access to (and the quality of) health care in rural areas.
+(a) There shall be established in the Department of Health and Human Services (in this section referred to as the "Department") an Office of Rural Health Policy (in this section referred to as the "Office"). The Office shall be headed by a Director, who shall advise the Secretary on the effects of current policies and proposed statutory, regulatory, administrative, and budgetary changes in the programs established under subchapters XVIII and XIX of this chapter on the financial viability of small rural hospitals, the ability of rural areas (and rural hospitals in particular) to attract and retain physicians and other health professionals, and access to (and the quality of) health care in rural areas.
 
 (b) In addition to advising the Secretary with respect to the matters specified in subsection (a) of this section, the Director, through the Office, shall—
 
@@ -8,7 +8,7 @@
 
 &emsp;(2) establish and maintain a clearinghouse for collecting and disseminating information on—
 
-&emsp;&emsp;(A) rural health care issues, including rural mental health, rural infant mortality prevention, and rural occupational safety and preventive health promotion,
+&emsp;&emsp;(A) rural health care issues, including rural mental health, rural infant mortalityprevention, and rural occupational safety and preventive health promotion,
 
 &emsp;&emsp;(B) research findings relating to rural health care, and
 
@@ -30,13 +30,13 @@ Section 4403 of the Omnibus Budget Reconciliation Act of 1987, referred to in su
 
 <b>2003</b>—Subsec. (b)(5). Pub. L. 108–173 added par. (5).
 
-<b>1989</b>—Subsec. (b)(2)(A). Pub. L. 101–239, §6213(g)(1), substituted “health care issues, including rural mental health, rural infant mortality prevention, and rural occupational safety and preventive health promotion” for “health care issues”.
+<b>1989</b>—Subsec. (b)(2)(A). Pub. L. 101–239, §6213(g)(1), substituted "health care issues, including rural mental health, rural infant mortality prevention, and rural occupational safety and preventive health promotion" for "health care issues".
 
-Subsec. (b)(2)(C). Pub. L. 101–239, §6213(g)(2), substituted “health care in rural areas, including programs providing community-based mental health services, pre-natal and infant care services, and rural occupational safety and preventive health education and promotion” for “health care in rural areas”.
+Subsec. (b)(2)(C). Pub. L. 101–239, §6213(g)(2), substituted "health care in rural areas, including programs providing community-based mental health services, pre-natal and infant care services, and rural occupational safety and preventive health education and promotion" for "health care in rural areas".
 
-Subsec. (b)(4). Pub. L. 101–239, §6213(g)(3), substituted “rural health care, including activities relating to rural mental health, rural infant mortality, and rural occupational safety and preventive health promotion” for “rural health care”.
+Subsec. (b)(4). Pub. L. 101–239, §6213(g)(3), substituted "rural health care, including activities relating to rural mental health, rural infant mortality, and rural occupational safety and preventive health promotion" for "rural health care".
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–360 substituted “section 4403 of the Omnibus Budget Reconciliation Act of 1987 (as such section pertains to rural health issues)” for “section 4083 of the Omnibus Budget Reconciliation Act of 1987”.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–360 substituted "section 4403 of the Omnibus Budget Reconciliation Act of 1987 (as such section pertains to rural health issues)" for "section 4083 of the Omnibus Budget Reconciliation Act of 1987".
 
 #### Effective Date of 1988 Amendment
 

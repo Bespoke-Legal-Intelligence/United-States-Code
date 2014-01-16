@@ -14,9 +14,9 @@ Subpart C—Life Insurance Deductions
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–218, title II, §205(b)(7), Apr. 10, 2004, 118 Stat. 610, struck out item 809 “Reduction in certain deductions of mutual life insurance companies”.
+<b>2004</b>—Pub. L. 108–218, title II, §205(b)(7), Apr. 10, 2004, 118 Stat. 610, struck out item 809 "Reduction in certain deductions of mutual life insurance companies".
 
-<b>1986</b>—Pub. L. 99–514, title X, §1011(b)(11)(B), Oct. 22, 1986, 100 Stat. 2389, substituted “Small life insurance company deduction” for “Special deductions” in item 806.
+<b>1986</b>—Pub. L. 99–514, title X, §1011(b)(11)(B), Oct. 22, 1986, 100 Stat. 2389, substituted "Small life insurance company deduction" for "Special deductions" in item 806.
 
 
 ---

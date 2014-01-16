@@ -10,7 +10,7 @@ Section is based on Pub. L. 99–190, §101(b) \[title VIII, §8012\], Dec. 19, 
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” wherever appearing.
+<b>2002</b>—Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation" wherever appearing.
 
 #### Effective Date of 2002 Amendment
 

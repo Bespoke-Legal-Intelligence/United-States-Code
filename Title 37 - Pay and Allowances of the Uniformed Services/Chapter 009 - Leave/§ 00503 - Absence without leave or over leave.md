@@ -32,13 +32,13 @@ Aug. 17, 1949, ch. 452, §1 (less last proviso), 63 Stat. 611.
 
 July 1, 1944, ch. 373, §219(b); added Aug. 9, 1950, ch. 654, §2 (2d par.), 64 Stat. 426.
 
-In subsections (a) and (b), the words “for the period of that absence” are substituted for the words “during such absence”.
+In subsections (a) and (b), the words "for the period of that absence" are substituted for the words "during such absence".
 
 #### Amendments
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “National Oceanic and Atmospheric Administration” for “Environmental Science Services Administration”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "National Oceanic and Atmospheric Administration" for "Environmental Science Services Administration".
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted “Environmental Science Services Administration” for “Coast and Geodetic Survey”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–718 substituted "Environmental Science Services Administration" for "Coast and Geodetic Survey".
 
 #### Effective Date of 1980 Amendment
 

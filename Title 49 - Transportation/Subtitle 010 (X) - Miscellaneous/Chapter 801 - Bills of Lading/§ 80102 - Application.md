@@ -30,7 +30,7 @@ Historical and Revision Notes
 
 Aug. 29, 1916, ch. 415, §1, 39 Stat. 538.
 
-In this chapter, the words “common carrier” are substituted for “carrier” because the source provisions restated in this section provide that this chapter applies to bills of lading issued by common carriers.
+In this chapter, the words "common carrier" are substituted for "carrier" because the source provisions restated in this section provide that this chapter applies to bills of lading issued by common carriers.
 
-In clause (2), the words “territory or possession” are substituted for “Territory” for consistency in the revised title and with other titles of the United States Code.
+In clause (2), the words "territory or possession" are substituted for "Territory" for consistency in the revised title and with other titles of the United States Code.
 

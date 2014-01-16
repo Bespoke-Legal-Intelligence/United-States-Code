@@ -4,7 +4,7 @@
 
 #### (1) Date of delivery
 
-&emsp;If any return, claim, statement, or other document required to be filed, or any payment required to be made, within a prescribed period or on or before a prescribed date under authority of any provision of the internal revenue laws is, after such period or such date, delivered by United States mail to the agency, officer, or office with which such return, claim, statement, or other document is required to be filed, or to which such payment is required to be made, the date of the United States postmark stamped on the cover in which such return, claim, statement, or other document, or payment, is mailed shall be deemed to be the date of delivery or the date of payment, as the case may be.
+&emsp;If any return, claim, statement, or other document required to be filed, or any payment required to be made, within a prescribed period or on or before a prescribed date under authority of any provision of the internal revenue laws is, after such period or such date, delivered by United States mail to the agency, officer, or office with which such return, claim, statement, or other document is required to be filed, or to which such payment isrequired to be made, the date of the United States postmark stamped on the cover in which such return, claim, statement, or other document, or payment, is mailed shall be deemed to be the date of delivery or the date of payment, as the case may be.
 
 #### (2) Mailing requirements
 
@@ -60,7 +60,7 @@ This section shall not apply with respect to—
 
 &emsp;&emsp;(B) the deposit was, on or before such second day, mailed in the United States in an envelope or other appropriate wrapper, postage prepaid, properly addressed to the bank, trust company, domestic building and loan association, or credit union authorized to receive such deposit.
 
-> &emsp;In applying subsection (c) for purposes of this subsection, the term “payment” includes “deposit”, and the reference to the postmark date refers to the date of mailing.
+> &emsp;In applying subsection (c) for purposes of this subsection, the term "payment" includes "deposit", and the reference to the postmark date refers to the date of mailing.
 
 #### (3) No application to certain deposits
 
@@ -74,7 +74,7 @@ This section shall not apply with respect to—
 
 #### (2) Designated delivery service
 
-&emsp;For purposes of this subsection, the term “designated delivery service” means any delivery service provided by a trade or business if such service is designated by the Secretary for purposes of this section. The Secretary may designate a delivery service under the preceding sentence only if the Secretary determines that such service—
+&emsp;For purposes of this subsection, the term "designated delivery service" means any delivery service provided by a trade or business if such service is designated by the Secretary for purposes of this section. The Secretary may designate a delivery service under the preceding sentence only if the Secretary determines that such service—
 
 &emsp;&emsp;(A) is available to the general public,
 
@@ -86,43 +86,43 @@ This section shall not apply with respect to—
 
 #### (3) Equivalents of registered and certified mail
 
-&emsp;The Secretary may provide a rule similar to the rule of paragraph (1) with respect to any service provided by a designated delivery service which is substantially equivalent to United States registered or certified mail.
+&emsp;The Secretary may provide a rule similar to the rule of paragraph (1) with respect to anyservice provided by a designated delivery service which is substantially equivalent to United States registered or certified mail.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 895; Pub. L. 85–866, title I, §89(a), Sept. 2, 1958, 72 Stat. 1665; Pub. L. 89–713, §5(a), Nov. 2, 1966, 80 Stat. 1110; Pub. L. 90–364, title I, §106(a), June 28, 1968, 82 Stat. 266; Pub. L. 94–455, title XIX, §§1906(a)(49), (b)(13)(A), Oct. 4, 1976, 90 Stat. 1831, 1834; Pub. L. 95–147, §3(b), Oct. 28, 1977, 91 Stat. 1228; Pub. L. 98–369, div. A, title I, §157(a), July 18, 1984, 98 Stat. 695; Pub. L. 99–514, title XVIII, §1811(e), Oct. 22, 1986, 100 Stat. 2833; Pub. L. 104–168, title XII, §1210, July 30, 1996, 110 Stat. 1474; Pub. L. 105–206, title II, §2003(b), July 22, 1998, 112 Stat. 725.)
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–206 inserted “; electronic filing” after “mailing” in heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows:
+<b>1998</b>—Subsec. (c). Pub. L. 105–206 inserted "; electronic filing" after "mailing" in heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows:
 
-“(1)
+"(1)
 
 Registered mail.—For purposes of this section, if any such return, claim, statement, or other document, or payment, is sent by United States registered mail—
 
-&emsp;“(A) such registration shall be prima facie evidence that the return, claim, statement, or other document was delivered to the agency, officer, or office to which addressed, and
+&emsp;"(A) such registration shall be prima facie evidence that the return, claim, statement, or other document was delivered to the agency, officer, or office to which addressed, and
 
-&emsp;“(B) the date of registration shall be deemed the postmark date.
+&emsp;"(B) the date of registration shall be deemed the postmark date.
 
-“(2)
+"(2)
 
-Certified mail.—The Secretary is authorized to provide by regulations the extent to which the provisions of paragraph (1) of this subsection with respect to prima facie evidence of delivery and the postmark date shall apply to certified mail.”
+Certified mail.—The Secretary is authorized to provide by regulations the extent to which the provisions of paragraph (1) of this subsection with respect to prima facie evidence of delivery and the postmark date shall apply to certified mail."
 
 <b>1996</b>—Subsec. (f). Pub. L. 104–168 added subsec. (f).
 
-<b>1986</b>—Subsec. (e)(3). Pub. L. 99–514 substituted “any tax” for “the tax”.
+<b>1986</b>—Subsec. (e)(3). Pub. L. 99–514 substituted "any tax" for "the tax".
 
 <b>1984</b>—Subsec. (e)(3). Pub. L. 98–369 added par. (3).
 
-<b>1977</b>—Subsec. (e). Pub. L. 95–147 substituted “, trust company, domestic building and loan association, or credit union” for “or trust company” in three places.
+<b>1977</b>—Subsec. (e). Pub. L. 95–147 substituted ", trust company, domestic building and loan association, or credit union" for "or trust company" in three places.
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455, §1906(a)(49), (b)(13)(A), substituted “United States Postal Service” for “United States Post Office” after “made by the”, and struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455, §1906(a)(49), (b)(13)(A), substituted "United States Postal Service" for "United States Post Office" after "made by the", and struck out "or his delegate" after "Secretary".
 
-Subsecs. (c)(2), (e)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsecs. (c)(2), (e)(1). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 <b>1968</b>—Subsec. (e). Pub. L. 90–364 added subsec. (e).
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–713 inserted filing of tax returns and the payments of tax to the list of operations to which the timely-mailing-timely-filing provisions of the subsec. apply and altered the subsec. structurally by dividing its provisions into pars. (1) and (2).
 
-Subsec. (b). Pub. L. 89–713 substituted “Postmarks” for “Stamp machine” in heading.
+Subsec. (b). Pub. L. 89–713 substituted "Postmarks" for "Stamp machine" in heading.
 
 Subsec. (c). Pub. L. 89–713 inserted returns and payments to the list of operations to which the timely-mailing-timely-filing provisions apply and altered par. (1) structurally by dividing its provisions into subpars. (A) and (B).
 
@@ -136,7 +136,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §157(b), July 18, 1984, 98 Stat. 695, provided that: “The amendment made by this section \[amending this section\] shall apply to deposits required to be made after July 31, 1984.”
+Pub. L. 98–369, div. A, title I, §157(b), July 18, 1984, 98 Stat. 695, provided that: "The amendment made by this section \[amending this section\] shall apply to deposits required to be made after July 31, 1984."
 
 #### Effective Date of 1977 Amendment
 
@@ -148,15 +148,15 @@ Amendment by Pub. L. 94–455 effective on first day of first month which begins
 
 #### Effective Date of 1968 Amendment
 
-Pub. L. 90–364, title I, §106(b), June 28, 1968, 82 Stat. 266, provided that: “The amendment made by subsec. (a) \[amending this section\] shall apply only as to mailing occurring after the date of the enactment of this Act \[June 28, 1968\].”
+Pub. L. 90–364, title I, §106(b), June 28, 1968, 82 Stat. 266, provided that: "The amendment made by subsec. (a) \[amending this section\] shall apply only as to mailing occurring after the date of the enactment of this Act \[June 28, 1968\]."
 
 #### Effective Date of 1966 Amendment
 
-Pub. L. 89–713, §5(c), Nov. 2, 1966, 80 Stat. 1111, provided that: “The amendments made by this section \[amending this section\] shall apply only if the mailing occurs after the date of the enactment of this Act \[Nov. 2, 1966\].”
+Pub. L. 89–713, §5(c), Nov. 2, 1966, 80 Stat. 1111, provided that: "The amendments made by this section \[amending this section\] shall apply only if the mailing occurs after the date of the enactment of this Act \[Nov. 2, 1966\]."
 
 #### Effective Date of 1958 Amendment
 
-Pub. L. 85–866, title I, §89(d), Sept. 2, 1958, 72 Stat. 1666, provided that: “This section \[amending this section and sections 167, 6164, 6212, 6532, and 7455 of this title\] shall apply only if the mailing occurs after the date of the enactment of this Act \[Sept. 2, 1958\].”
+Pub. L. 85–866, title I, §89(d), Sept. 2, 1958, 72 Stat. 1666, provided that: "This section \[amending this section and sections 167, 6164, 6212, 6532, and 7455 of this title\] shall apply only if the mailing occurs after the date of the enactment of this Act \[Sept. 2, 1958\]."
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -164,5 +164,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Provisions of Internal Revenue Code of 1939
 
-Pub. L. 85–866, title I, §89(c), Sept. 2, 1958, 72 Stat. 1666, provided that: “In applying any provision of the Internal Revenue Code of 1939 which requires, or provides for, the use of registered mail, the reference to registered mail shall be treated as including a reference to certified mail.”
+Pub. L. 85–866, title I, §89(c), Sept. 2, 1958, 72 Stat. 1666, provided that: "In applying any provision of the Internal Revenue Code of 1939 which requires, or provides for, the use of registered mail, the reference to registered mail shall be treated as including a reference to certified mail."
 

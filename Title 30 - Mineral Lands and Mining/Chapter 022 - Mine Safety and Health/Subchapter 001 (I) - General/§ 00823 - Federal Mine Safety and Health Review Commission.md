@@ -40,7 +40,7 @@ The Commission is authorized to delegate to any group of three or more members a
 
 &emsp;(V) A prejudicial error of procedure was committed.
 
-(iii) Each issue shall be separately numbered and plainly and concisely stated, and shall be supported by detailed citations to the record when assignments of error are based on the record, and by statutes, regulations, or principal authorities relied upon. Except for good cause shown, no assignment of error by any party shall rely on any question of fact or law upon which the administrative law judge had not been afforded an opportunity to pass. Review by the Commission shall be granted only by affirmativevote of two of the Commissioners present and voting. If granted, review shall be limited to the questions raised by the petition.
+(iii) Each issue shall be separately numbered and plainly and concisely stated, and shall be supported by detailed citations to the record when assignments of error are based on the record, and by statutes, regulations, or principal authorities relied upon. Except for good cause shown, no assignment of error by any party shall rely on any question of fact or law upon which the administrative law judge had not been afforded an opportunity to pass. Review by the Commission shall be granted only by affirmative vote of two of the Commissioners present and voting. If granted, review shall be limited to the questions raised by the petition.
 
 (B) At any time within 30 days after the issuance of a decision of an administrative law judge, the Commission may in its discretion (by affirmative vote of two of the Commissioners present and voting) order the case before it for review but only upon the ground that the decision may be contrary to law or Commission policy, or that a novel question of policy has been presented. The Commission shall state in such order the specific issue of law, Commission policy, or novel question of policy involved. If a party's petition for discretionary review has been granted, the Commission shall not raise or consider additional issues in such review proceedings except in compliance with the requirements of this paragraph.
 
@@ -56,7 +56,7 @@ In connection with hearings before the Commission or its administrative law judg
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (d), and (e), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsecs. (a), (d), and (e), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 For the effective date of the Federal Mine Safety and Health Amendments Act of 1977, referred to in subsec. (b)(2), see section 307 of Pub. L. 95–164, set out as an Effective Date of 1977 Amendment note under section 801 of this title.
 
@@ -70,5 +70,5 @@ Section effective 120 days after Nov. 9, 1977, see section 307 of Pub. L. 95–1
 
 #### Transfer of Functions
 
-“Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (b)(2) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+"Director of the Office of Personnel Management" substituted for "Civil Service Commission" in subsec. (b)(2) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred all functions vested by statute in United States Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 

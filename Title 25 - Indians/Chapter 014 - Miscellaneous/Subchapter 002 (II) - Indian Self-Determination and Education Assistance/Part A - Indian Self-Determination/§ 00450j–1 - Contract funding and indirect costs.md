@@ -78,7 +78,7 @@ Not later than May 15 of each year, the Secretary shall prepare and submit to Co
 
 #### (d) Treatment of shortfalls in indirect cost recoveries
 
-(1) Where a tribal organization's allowable indirect cost recoveries are below the level of indirect costs that the tribal organizations should have received for any given year pursuant to its approved indirect cost rate, and such shortfall is the result of lack of full indirect cost funding by any Federal, State, or other agency, such shortfall in recoveries shall not form the basis for any theoretical over-recovery or other adverse adjustment to any future years’ indirect cost rate or amount for such tribal organization, nor shall any agency seek to collect such shortfall from the tribal organization.
+(1) Where a tribal organization's allowable indirect cost recoveries are below the level of indirect costs that the tribal organizations should have received for any given year pursuant to its approved indirect cost rate, and such shortfall is the result of lack of full indirect cost funding by any Federal, State, or other agency, such shortfall in recoveries shall not form the basis for any theoretical over-recovery or other adverse adjustment to any future years' indirect cost rate or amount for such tribal organization, nor shall any agency seek to collect such shortfall from the tribal organization.
 
 (2) Nothing in this subsection shall be construed to authorize the Secretary to fund less than the full amount of need for indirect costs associated with a self-determination contract.
 
@@ -136,7 +136,7 @@ Without intending any limitation, a tribal organization may, without the approva
 
 #### (l) Suspension, withholding, or delay in payment of funds
 
-(1) The Secretary may only suspend, withhold, or delay the payment of funds for a period of 30 days beginning on the date the Secretary makes a determination under this paragraph to a tribal organization under a self-determination contract, if the Secretary determines that the tribal organization has failed to substantially carry out the contract without good cause. In any such case, the Secretary shall provide the tribal organization with reasonable advance written notice, technical assistance (subject to available resources) to assist the tribal organization, a hearing on the record not later than 10 days after the date of such determination or such later date as the tribal organization shall approve, and promptly release any funds withheld upon subsequent compliance.
+(1) The Secretary may only suspend, withhold, or delay the payment of funds for a period of 30days beginning on the date the Secretary makes a determination under this paragraph to a tribal organization under a self-determination contract, if the Secretary determines that the tribal organization has failed to substantially carry out the contract without good cause. In any such case, the Secretary shall provide the tribal organization with reasonable advance written notice, technical assistance (subject to available resources) to assist the tribal organization, a hearing on the record not later than 10 days after the date of such determination or such later date as the tribal organization shall approve, and promptly release any funds withheld upon subsequent compliance.
 
 (2) With respect to any hearing or appeal conducted pursuant to this subsection, the Secretary shall have the burden of proof to establish by clearly demonstrating the validity of the grounds for suspending, withholding, or delaying payment of funds.
 
@@ -156,7 +156,11 @@ To the extent that programs, functions, services, or activities carried out by t
 
 Notwithstanding any other provision of law (including any regulation), a tribal organization that carries out a self-determination contract may, with respect to allocations within the approved budget of the contract, rebudget to meet contract requirements, if such rebudgeting would not have an adverse effect on the performance of the contract.
 
-(Pub. L. 93–638, title I, §106, as added Pub. L. 100–472, title II, §205, Oct. 5, 1988, 102 Stat. 2292; amended Pub. L. 101–301, §2(a)(8), (9), May 24,1990, 104 Stat. 207; Pub. L. 101–644, title II, §203(a), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §102(14)–(19), Oct. 25, 1994, 108 Stat. 4257–4259; Pub. L. 105–362, title VIII, §801(g), Nov. 10, 1998, 112 Stat. 3288; Pub. L. 106–260, §9, Aug. 18, 2000, 114 Stat. 733.)
+(Pub. L. 93–638, title I, §106, as added Pub. L. 100–472, title II, §205, Oct. 5, 1988, 102 Stat. 2292; amended Pub. L. 101–301, §2(a)(8), (9), May 24, 1990, 104 Stat. 207; Pub. L. 101–644, title II, §203(a), Nov. 29, 1990, 104 Stat. 4666; Pub. L. 103–413, title I, §102(14)–(19), Oct. 25, 1994, 108 Stat. 4257–4259; Pub. L. 105–362, title VIII, §801(g), Nov. 10, 1998, 112 Stat. 3288; Pub. L. 106–260, §9, Aug. 18, 2000, 114 Stat. 733.)
+
+#### References in Text
+
+This subchapter, referred to in subsecs. (a)(1), (3), (b), (c), (k)(11), and (n), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Prior Provisions
 
@@ -168,31 +172,31 @@ A prior section 106 of Pub. L. 93–638 was renumbered section 105 by Pub. L. 10
 
 <b>1998</b>—Subsecs. (c) to (o). Pub. L. 105–362 redesignated subsecs. (d) to (o) as (c) to (n), respectively, and struck out former subsec. (c) which related to Secretary's annual report to Congress on implementation of this subchapter.
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–413, §102(14)(A), inserted before period at end “, without regard to any organizational level within the Department of the Interior or the Department of Health and Human Services, as appropriate, at which the program, function, service, or activity or portion thereof, including supportive administrative functions that are otherwise contractable, is operated”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–413, §102(14)(A), inserted before period at end ", without regard to any organizational level within the Department of the Interior or the Department of Health and Human Services, as appropriate, at which the program, function, service, or activity or portion thereof, including supportive administrative functions that are otherwise contractable, is operated".
 
-Subsec. (a)(2). Pub. L. 103–413, §102(14)(B), inserted “an amount for” after “consist of”.
+Subsec. (a)(2). Pub. L. 103–413, §102(14)(B), inserted "an amount for" after "consist of".
 
-Subsec. (a)(3). Pub. L. 103–413, §102(14)(C), added par. (3) and struck out former par. (3) which read as follows: “Any savings in operation under a self-determination contract shall be utilized to provide additional services or benefits under the contract or be expended in the succeeding fiscal year as provided in section 13a of this title.”
+Subsec. (a)(3). Pub. L. 103–413, §102(14)(C), added par. (3) and struck out former par. (3) which read as follows: "Any savings in operation under a self-determination contract shall be utilized to provide additional services or benefits under the contract or be expended in the succeeding fiscal year as provided in section 13a of this title."
 
 Subsec. (a)(4) to (6). Pub. L. 103–413, §102(14)(C), added pars. (4) to (6).
 
-Subsec. (c). Pub. L. 103–413, §102(15)(A), substituted “May 15” for “March 15” in introductory provisions.
+Subsec. (c). Pub. L. 103–413, §102(15)(A), substituted "May 15" for "March 15" in introductory provisions.
 
-Subsec. (c)(1), (2). Pub. L. 103–413, §102(15)(B), substituted “contract support costs” for “indirect costs”.
+Subsec. (c)(1), (2). Pub. L. 103–413, §102(15)(B), substituted "contract support costs" for "indirect costs".
 
 Subsec. (c)(6). Pub. L. 103–413, §102(15)(C)–(E), added par. (6).
 
-Subsec. (f). Pub. L. 103–413, §102(16), inserted after second sentence “For the purpose of determining the 365-day period specified in this paragraph, an audit report shall be deemed to have been received on the date of actual receipt by the Secretary, if, within 60 days after receiving the report, the Secretary does not give notice of a determination by the Secretary to reject the single-agency report as insufficient due to noncompliance with chapter 75 of title 31 or noncompliance with any other applicable law.”
+Subsec. (f). Pub. L. 103–413, §102(16), inserted after second sentence "For the purpose of determining the 365-day period specified in this paragraph, an audit report shall be deemed to have been received on the date of actual receipt by the Secretary, if, within 60 days after receiving the report, the Secretary does not give notice of a determination by the Secretary to reject the single-agency report as insufficient due to noncompliance with chapter 75 of title 31 or noncompliance with any other applicable law."
 
-Subsec. (g). Pub. L. 103–413, §102(17), added subsec. (g) and struck out former subsec. (g) which read as follows: “Upon the approval of a self-determination contract and at the request of an Indian tribe or tribal organization, the Secretary shall add the indirect cost funding amount awarded for a self-determination contract to the amount awarded for direct program funding for the first year and, subject to adjustments in the amount of direct program costs for the contract, for each subsequent year that the program remains continuously under contract.”
+Subsec. (g). Pub. L. 103–413, §102(17), added subsec. (g) and struck out former subsec. (g) which read as follows: "Upon the approval of a self-determination contract and at the request of an Indian tribe or tribal organization, the Secretary shall add the indirect cost funding amount awarded for a self-determination contract to the amount awarded for direct program funding for the first year and, subject to adjustments in the amount of direct program costs for the contract, for each subsequent year that the program remains continuously under contract."
 
-Subsec. (i). Pub. L. 103–413, §102(18), added subsec. (i) and struck out former subsec. (i) which read as follows: “Within one month after October 5, 1988, the Secretary is mandated to establish a team in each area of the Bureau of Indian Affairs which consists of agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency) and tribal representatives for the purpose of analyzing the ‘Indian Priority System’ and other aspects of the budgeting and funding allocation process of the Bureau of Indian Affairs for the purpose of making a report to Congress with appropriate recommendations for changes and legislative actions to achieve greater tribal decision-making authority over the use of funds appropriated for the benefit of the tribes and their members. The report along with the analysis, findings and recommendations of the area teams shall be submitted to Congress within six months of October 5, 1988. The Secretary may submit to Congress separate comments on the information and recommendations on the report.”
+Subsec. (i). Pub. L. 103–413, §102(18), added subsec. (i) and struck out former subsec. (i) which read as follows: "Within one month after October 5, 1988, the Secretary is mandated to establish a team in each area of the Bureau of Indian Affairs which consists of agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency) and tribal representatives for the purpose of analyzing the 'Indian Priority System' and other aspects of the budgeting and funding allocation process of the Bureau of Indian Affairs for the purpose of making a report to Congress with appropriate recommendations for changes and legislative actions to achieve greater tribal decision-making authority over the use of funds appropriated for the benefit of the tribes and their members. The report along with the analysis, findings and recommendations of the area teams shall be submitted to Congress within six months of October 5, 1988. The Secretary may submit to Congress separate comments on the information and recommendations on the report."
 
 Subsecs. (j) to (o). Pub. L. 103–413, §102(19), added subsecs. (j) to (o).
 
-<b>1990</b>—Subsec. (e). Pub. L. 101–644 substituted “1992” for “1988”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–644 substituted "1992" for "1988".
 
-Subsec. (f). Pub. L. 101–301, §2(a)(8), substituted “prior to enactment of chapter 75 of title 31” for “prior to enactment of the Single Agency Audit Act of 1984 (chapter 75 of title 31)”, which for purposes of codification was translated as “prior to October 19, 1984”, requiring no change in text.
+Subsec. (f). Pub. L. 101–301, §2(a)(8), substituted "prior to enactment of chapter 75 of title 31" for "prior to enactment of the Single Agency Audit Act of 1984 (chapter 75 of title 31)", which for purposes of codification was translated as "prior to October 19, 1984", requiring no change in text.
 
-Subsec. (i). Pub. L. 101–301, §2(a)(9), substituted “agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency)” for “agency personnel”.
+Subsec. (i). Pub. L. 101–301, §2(a)(9), substituted "agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency)" for "agency personnel".
 

@@ -4,7 +4,7 @@ In this part:
 
 #### (1) Arts and sciences
 
-&emsp;The term “arts and sciences” means—
+&emsp;The term "arts and sciences" means—
 
 &emsp;&emsp;(A) when referring to an organizational unit of an institution of higher education, any academic unit that offers one or more academic majors in disciplines or content areas corresponding to the academic subjects in which teachers teach; and
 
@@ -12,11 +12,11 @@ In this part:
 
 #### (2) Charter school
 
-&emsp;The term “charter school” has the meaning given the term in section 7221i of this title.
+&emsp;The term "charter school" has the meaning given the term in section 7221i of this title.
 
 #### (3) High-need local educational agency
 
-&emsp;The term “high-need local educational agency” means a local educational agency—
+&emsp;The term "high-need local educational agency" means a local educational agency—
 
 &emsp;&emsp;(A)(i) that serves not fewer than 10,000 children from families with incomes below the poverty line; or
 
@@ -28,7 +28,7 @@ In this part:
 
 #### (4) Highly qualified paraprofessional
 
-&emsp;The term “highly qualified paraprofessional” means a paraprofessional who has not less than 2 years of—
+&emsp;The term "highly qualified paraprofessional" means a paraprofessional who has not less than 2 years of—
 
 &emsp;&emsp;(A) experience in a classroom; and
 
@@ -36,11 +36,11 @@ In this part:
 
 #### (5) Out-of-field teacher
 
-&emsp;The term “out-of-field teacher” means a teacher who is teaching an academic subject or a grade level for which the teacher is not highly qualified.
+&emsp;The term "out-of-field teacher" means a teacher who is teaching an academic subject or a grade level for which the teacher is not highly qualified.
 
 #### (6) Principal
 
-&emsp;The term “principal” includes an assistant principal.
+&emsp;The term "principal" includes an assistant principal.
 
 (Pub. L. 89–10, title II, §2102, as added Pub. L. 107–110, title II, §201, Jan. 8, 2002, 115 Stat. 1620.)
 

@@ -8,7 +8,7 @@ Section 5910, added Pub. L. 85–861, §1(133), Sept. 2, 1958, 72 Stat. 1506; am
 
 Section 5911, added Pub. L. 85–861, §1(133), Sept. 2, 1958, 72 Stat. 1507; amended Pub. L. 86–559, §1(45), June 30, 1960, 74 Stat. 274, related to promotions of reserve officers by temporary and permanent appointments. See section 14301 et seq. of this title.
 
-Section 5912, added Pub. L. 85–861, §1(133), Sept. 2, 1958, 72 Stat. 1507; amended Pub. L. 92–129, title VI, §603(d), Sept. 28, 1971, 85 Stat. 362, related to President's power to make appointments under this chapter of officers in Naval Reserve and Marine Corps Reserve. See section 14301 et seq. of this title.
+Section 5912, added Pub. L. 85–861, §1(133), Sept. 2, 1958, 72 Stat. 1507; amended Pub. L. 92–129, title VI,§603(d), Sept. 28, 1971, 85 Stat. 362, related to President's power to make appointments under this chapter of officers in Naval Reserve and Marine Corps Reserve. See section 14301 et seq. of this title.
 
 #### Effective Date of Repeal
 

@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (1) Qualified revitalization building
 
-&emsp;The term “qualified revitalization building” means any building (and its structural components) if—
+&emsp;The term "qualified revitalization building" means any building (and its structural components) if—
 
 &emsp;&emsp;(A) the building is placed in service by the taxpayer in a renewal community and the original use of the building begins with the taxpayer, or
 
@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified revitalization expenditure” means any amount properly chargeable to capital account for property for which depreciation is allowable under section 168 (without regard to this section) and which is—
+&emsp;&emsp;The term "qualified revitalization expenditure" means any amount properly chargeable to capital account for property for which depreciation is allowable under section 168 (without regard to this section) and which is—
 
 &emsp;&emsp;&emsp;(i) nonresidential real property (as defined in section 168(e)), or
 
@@ -42,7 +42,7 @@ For purposes of this section—
 
 #### (ii) Credits
 
-&emsp;&emsp;&emsp;The term “qualified revitalization expenditure” does not include any expenditure which the taxpayer may take into account in computing any credit allowable under this title unless the taxpayer elects to take the expenditure into account only for purposes of this section.
+&emsp;&emsp;&emsp;The term "qualified revitalization expenditure" does not include any expenditure which the taxpayer may take into account in computing any credit allowable under this title unless the taxpayer elects to take the expenditure into account only for purposes of this section.
 
 #### (c) Dollar limitation
 
@@ -68,7 +68,7 @@ The aggregate amount which may be treated as qualified revitalization expenditur
 
 #### (3) Commercial revitalization agency
 
-&emsp;For purposes of this section, the term “commercial revitalization agency” means any agency authorized by a State to carry out this section.
+&emsp;For purposes of this section, the term "commercial revitalization agency" means any agency authorized by a State to carry out this section.
 
 #### (4) Time and manner of allocations
 
@@ -86,7 +86,7 @@ The aggregate amount which may be treated as qualified revitalization expenditur
 
 #### (2) Qualified allocation plan
 
-&emsp;For purposes of this subsection, the term “qualified allocation plan” means any plan—
+&emsp;For purposes of this subsection, the term "qualified allocation plan" means any plan—
 
 &emsp;&emsp;(A) which sets forth selection criteria to be used to determine priorities of the commercial revitalization agency which are appropriate to local conditions,
 

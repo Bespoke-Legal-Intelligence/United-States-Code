@@ -18,7 +18,7 @@ The Secretary shall transmit, on March 1 of each year beginning with 1987 and co
 
 #### (d) Receipt by committees
 
-The reports required by this chapter shall be transmitted to the Committee on Energy and Commerce of the House of Representatives and the Committee on Energy and Natural Resources of the Senate.
+The reports required by this chapter shall be transmitted to the Committee on Energy and Commerce of the House of Representatives andthe Committee on Energy and Natural Resources of the Senate.
 
 (Pub. L. 99–509, title III, §3006, Oct. 21, 1986, 100 Stat. 1886.)
 

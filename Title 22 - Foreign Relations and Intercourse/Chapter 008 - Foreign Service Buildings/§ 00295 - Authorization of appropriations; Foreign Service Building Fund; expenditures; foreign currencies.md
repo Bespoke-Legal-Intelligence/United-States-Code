@@ -30,7 +30,7 @@
 
 (f) In addition to amounts authorized before October 10, 1966, there is hereby authorized to be appropriated to the Secretary of State—
 
-&emsp;(1) for acquisition by purchase or construction (including acquisition of leaseholds) ofsites and buildings in foreign countries under this chapter, and for major alterations of buildings acquired under this chapter, the following sums—
+&emsp;(1) for acquisition by purchase or construction (including acquisition of leaseholds) of sites and buildings in foreign countries under this chapter, and for major alterations of buildings acquired under this chapter, the following sums—
 
 &emsp;&emsp;(A) for use in Africa, not to exceed $5,485,000, of which not to exceed $1,885,000 may be appropriated for the fiscal year 1967;
 
@@ -90,7 +90,7 @@
 
 (3) There are hereby authorized to be appropriated to the Secretary of State such additional or supplemental amounts as may be necessary for increases in salary, pay, retirement, or other employee benefits authorized by law.
 
-(May 7, 1926, ch. 250, §4, 44 Stat. 404; June 19, 1952, ch. 446, §2, 66 Stat. 140; Pub. L. 86–723, §49, Sept. 8, 1960, 74 Stat. 847; Pub. L. 88–94, §§1, 2(d), Aug. 12, 1963, 77 Stat. 121, 122; Pub. L. 88–414, Aug. 10, 1964, 78 Stat. 387; Pub. L. 89–22, May 21, 1965, 79 Stat. 112; Pub. L. 89–636, §1, Oct. 10, 1966, 80 Stat. 881; Pub. L. 90–442, July 30, 1968, 82 Stat. 461; Pub. L. 91–586, Dec. 24, 1970, 84 Stat. 1578; Pub. L. 93–47, June 22, 1973, 87 Stat. 98; Pub. L. 93–263, Apr. 12, 1974, 88 Stat. 83; Pub. L. 94–141, title I, §171, Nov. 29, 1975, 89 Stat. 760; Pub. L. 94–350, title I, §109, July 12, 1976, 90 Stat. 824; Pub. L. 95–45, §3, June 15, 1977, 91 Stat. 221; Pub. L. 103–199, title V, §503, Dec. 17, 1993, 107 Stat. 2327.)
+(May 7, 1926, ch. 250, §4, 44 Stat. 404; June 19, 1952, ch. 446, §2, 66 Stat. 140; Pub. L. 86–723, §49,Sept. 8, 1960, 74 Stat. 847; Pub. L. 88–94, §§1, 2(d), Aug. 12, 1963, 77 Stat. 121, 122; Pub. L. 88–414, Aug. 10, 1964, 78 Stat. 387; Pub. L. 89–22, May 21, 1965, 79 Stat. 112; Pub. L. 89–636, §1, Oct. 10, 1966, 80 Stat. 881; Pub. L. 90–442, July 30, 1968, 82 Stat. 461; Pub. L. 91–586, Dec. 24, 1970, 84 Stat. 1578; Pub. L. 93–47, June 22, 1973, 87 Stat. 98; Pub. L. 93–263, Apr. 12, 1974, 88 Stat. 83; Pub. L. 94–141, title I, §171, Nov. 29, 1975, 89 Stat. 760; Pub. L. 94–350, title I, §109, July 12, 1976, 90 Stat. 824; Pub. L. 95–45, §3, June 15, 1977, 91 Stat. 221; Pub. L. 103–199, title V, §503, Dec. 17, 1993, 107 Stat. 2327.)
 
 #### References in Text
 
@@ -100,15 +100,15 @@ Date of enactment of this section, referred to in subsec. (d), probably means th
 
 #### Amendments
 
-<b>1993</b>—Subsec. (j). Pub. L. 103–199 struck out subsec. (j) which read as follows: “For the purpose of carrying into effect the provisions of this chapter in the Union of Soviet Socialist Republics, there is authorized to be appropriated, in addition to amounts authorized prior to July 12, 1976, $30,000,000, which amount is authorized to remain available until expended.”
+<b>1993</b>—Subsec. (j). Pub. L. 103–199 struck out subsec. (j) which read as follows: "For the purpose of carrying into effect the provisions of this chapter in the Union of Soviet Socialist Republics, there is authorized to be appropriated, in addition to amounts authorized prior to July 12, 1976, $30,000,000, which amount is authorized to remain available until expended."
 
-<b>1977</b>—Subsec. (h)(1). Pub. L. 95–45 substituted “$225,000” for “$6,725,000” in subpar. (A), “$12,885,000” for “$8,005,000” in subpar. (B), “$3,400,000” for “$3,745,000” in subpar. (C), “$150,000” for “$420,000” in subpar. (D), added subpar. (E), authorizing an appropriation of not to exceed $17,200,000 for facilities for the United States Agency for International Development for fiscal year 1977, and struck out subpars. which had authorized appropriations for Africa, the American Republics, and East Asia for fiscal year 1977.
+<b>1977</b>—Subsec. (h)(1). Pub. L. 95–45 substituted "$225,000" for "$6,725,000" in subpar. (A), "$12,885,000" for "$8,005,000" in subpar. (B), "$3,400,000" for "$3,745,000" in subpar. (C), "$150,000" for "$420,000" in subpar. (D), added subpar. (E), authorizing an appropriation of not to exceed $17,200,000 for facilities for the United States Agency for International Development for fiscal year 1977, and struck out subpars. which had authorized appropriations for Africa, the American Republics, and East Asia for fiscal year 1977.
 
 <b>1976</b>—Subsec. (h)(2). Pub. L. 94–350, §109(1), increased appropriations authorization for fiscal years 1976 and 1977 to $73,058,000 from $71,600,000.
 
 Subsec. (j). Pub. L. 94–350, §109(2), added subsec. (j).
 
-<b>1975</b>—Subsec. (g)(1). Pub. L. 94–141, §171(a), substituted “$850,000” for “$2,190,000” in subpar. (A), “$240,000” for “$375,000” in subpar. (B), “$682,000” for “$4,780,000” in subpar. (C), “$1,243,000” for “$2,585,000” in subpar. (D), and “$10,433,000” for “$3,518,000” in subpar. (E).
+<b>1975</b>—Subsec. (g)(1). Pub. L. 94–141, §171(a), substituted "$850,000" for "$2,190,000" in subpar. (A), "$240,000" for "$375,000" in subpar. (B), "$682,000" for "$4,780,000" in subpar. (C), "$1,243,000" for "$2,585,000" in subpar. (D), and "$10,433,000" for "$3,518,000" in subpar. (E).
 
 Subsec. (h). Pub. L. 94–141, §171(b)(1), added subsec. (h). Former subsec. (h) redesignated (i).
 
@@ -128,7 +128,7 @@ Subsec. (h). Pub. L. 93–47, §1(1), (2), redesignated former subsec. (g) as (h
 
 <b>1966</b>—Subsec. (d). Pub. L. 89–636, §1(1), struck out last three sentences providing for availability of appropriated funds until expended, use of foreign currencies for expenditures, and use of funds authorized by any subpar. of par. (1) of subsec. (d), now incorporated in subsec. (g)(1) and (2) of this section, respectively.
 
-Subsec. (e). Pub. L. 89–636, §1(2), substituted “$2,600,000” for “$1,000,000”.
+Subsec. (e). Pub. L. 89–636, §1(2), substituted "$2,600,000" for "$1,000,000".
 
 Subsec. (f). Pub. L. 89–636, §1(3), added subsec. (f).
 
@@ -138,7 +138,7 @@ Subsec. (g). Pub. L. 89–636, §1(3), redesignated second and third sentences o
 
 <b>1964</b>—Subsec. (d). Pub. L. 88–414 authorized appropriations of not more than $12,200,000 for fiscal year 1966, $12,400,000 for fiscal year 1967, and beginning with fiscal year 1966, permitted use of not more than 10 per centum of the funds authorized for any subparagraph under par. (1) of this subsection for the purposes of any other subparagraph of such par. (1).
 
-<b>1963</b>—Subsec. (a). Pub. L. 88–94, §2(d), struck out “, subject to the direction of the commission,” after “Secretary of State”.
+<b>1963</b>—Subsec. (a). Pub. L. 88–94, §2(d), struck out ", subject to the direction of the commission," after "Secretary of State".
 
 Subsec. (d). Pub. L. 88–94, §1, added subsec. (d).
 

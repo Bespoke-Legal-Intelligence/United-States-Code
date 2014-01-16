@@ -6,7 +6,7 @@ The Commission may investigate and ascertain the actual legitimate cost of the p
 
 #### (b) Inventory of property; statements of costs
 
-Every natural-gas company upon request shall file with the Commission an inventory of all or any part of its property and a statement of the original cost thereof, and shall keep the Commission informed regarding the cost of all additions, betterments, extensions, and new construction.
+Every natural-gas company upon request shall file with the Commission an inventory of all orany part of its property and a statement of the original cost thereof, and shall keep the Commission informed regarding the cost of all additions, betterments, extensions, and new construction.
 
 (June 21, 1938, ch. 556, §6, 52 Stat. 824.)
 

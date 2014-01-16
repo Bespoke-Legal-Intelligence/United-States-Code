@@ -1,6 +1,6 @@
 ### §3071. Information for which rewards authorized
 
-(a) With respect to acts of terrorism primarily within the territorial jurisdiction of the United States, the Attorney General may reward any individual who furnishes information—
+(a) With respect to acts of terrorism primarily within the territorial jurisdiction of the UnitedStates, the Attorney General may reward any individual who furnishes information—
 
 &emsp;(1) leading to the arrest or conviction, in any country, of any individual or individuals for the commission of an act of terrorism against a United States person or United States property; or
 
@@ -24,7 +24,7 @@
 
 #### Short Title
 
-Pub. L. 98–533, §1, Oct. 19, 1984, 98 Stat. 2706, provided that: “This Act \[enacting this chapter and section 2708 of Title 22, Foreign Relations and Intercourse, amending sections 2669, 2678 and 2704 of Title 22, enacting provisions set out as a note under section 5928 of Title 5, Government Organization and Employees and amending provisions set out as a note under section 2651 of Title 22\] may be cited as the ‘1984 Act to Combat International Terrorism’.”
+Pub. L. 98–533, §1, Oct. 19, 1984, 98 Stat. 2706, provided that: "This Act \[enacting this chapter and section 2708 of Title 22, Foreign Relations and Intercourse, amending sections 2669, 2678 and 2704 of Title 22, enacting provisions set out as a note under section 5928 of Title 5, Government Organization and Employees and amending provisions set out as a note under section 2651 of Title 22\] may be cited as the '1984 Act to Combat International Terrorism'."
 
 #### Attorney General's Authority To Pay Rewards To Combat Terrorism
 

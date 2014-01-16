@@ -8,7 +8,7 @@ The President shall impose sanctions described in subsection (c) with respect to
 
 #### (1) In general
 
-&emsp;Not later than 90 days after July 1, 2010, the President shall submit to the appropriate congressional committees a list of persons whoare officials of the Government of Iran or persons acting on behalf of that Government (including members of paramilitary organizations such as Ansar-e-Hezbollah and Basij-e Mostaz'afin), that the President determines, based on credible evidence, are responsible for or complicit in, or responsible for ordering, controlling, or otherwise directing, the commission of serious human rights abuses against citizens of Iran or their family members on or after June 12, 2009, regardless of whether such abuses occurred in Iran.
+&emsp;Not later than 90 days after July 1, 2010, the President shall submit to the appropriate congressional committees a list of persons who are officials of the Government of Iran or persons acting on behalf of that Government (including members of paramilitary organizations such as Ansar-e-Hezbollah and Basij-e Mostaz'afin), that the President determines, based on credible evidence, are responsible for or complicit in, or responsible for ordering,controlling, or otherwise directing, the commission of serious human rights abuses against citizens of Iran or their family members on or after June 12, 2009, regardless of whether such abuses occurred in Iran.
 
 #### (2) Updates of list
 

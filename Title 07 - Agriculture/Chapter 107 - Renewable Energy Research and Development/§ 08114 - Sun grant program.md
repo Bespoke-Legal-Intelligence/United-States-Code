@@ -178,7 +178,7 @@ The sun grant centers and subcenter shall maintain a Sun Grant Information Analy
 
 #### (f) Annual reports
 
-Not later than 90 days after the end of each fiscal year, a sun grant center or subcenter receiving a grant under this section shall submit to the Secretary a report that describes the policies, priorities, and operations of the program carried out by the center or subcenter during the fiscal year, including—
+Not later than 90 days after the end of each fiscal year, a sun grant center or subcenter receiving a grant under this section shall submitto the Secretary a report that describes the policies, priorities, and operations of the program carried out by the center or subcenter during the fiscal year, including—
 
 &emsp;(1) the results of all peer and merit review procedures conducted pursuant to subsection (c)(1)(D)(i); and
 
@@ -208,9 +208,9 @@ Provisions similar to those in this section were contained in section 8109 of th
 
 Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of this title.
 
-#### Definition of “Secretary”
+#### Definition of "Secretary"
 
-“Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
+"Secretary" as meaning the Secretary of Agriculture, see section 8701 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a third closing parenthesis.</i>
 

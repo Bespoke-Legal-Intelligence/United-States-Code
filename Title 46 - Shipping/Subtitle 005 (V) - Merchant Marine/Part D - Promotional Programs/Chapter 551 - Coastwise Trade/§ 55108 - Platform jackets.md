@@ -6,11 +6,11 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Coastwise qualified vessel.—The term “coastwise qualified vessel” means a vessel that has been issued a certificate of documentation with a coastwise endorsement under chapter 121 of this title.
+Coastwise qualified vessel.—The term "coastwise qualified vessel" means a vessel that has been issued a certificate of documentation with a coastwise endorsement under chapter 121 of this title.
 
 &emsp;(2)
 
-Platform jacket.—The term “platform jacket” refers to a single physical component and includes any type of offshore exploration, development, or production structure or component thereof, including—
+Platform jacket.—The term "platform jacket" refers to a single physical component and includes any type of offshore exploration, development, or production structure or component thereof, including—
 
 &emsp;&emsp;(A) platform jackets;
 
@@ -22,7 +22,7 @@ Platform jacket.—The term “platform jacket” refers to a single physical co
 
 &emsp;&emsp;(E) jacket structures; and
 
-&emsp;&emsp;(F) deck modules (known as “topsides”).
+&emsp;&emsp;(F) deck modules (known as "topsides").
 
 (b)
 
@@ -66,7 +66,7 @@ Historical and Revision Notes
 
 June 5, 1920, ch. 250, §27 (last proviso), 41 Stat. 999; July 2, 1935, ch. 355, 49 Stat. 442; Pub. L. 101–329 \[100–329\], §1(a)(2), June 7, 1988, 102 Stat. 588; Pub. L. 107–295, title II, §213(c), Nov. 25, 2002, 116 Stat. 2100; Pub. L. 108–293, title IV, §417, Aug. 9, 2004, 118 Stat. 1048.
 
-In subsection (a), the words “coastwise endorsement under chapter 121” are substituted for “coastwise endorsement under section 12106” because section 12106 is being restated in various sections in revised chapter 121.
+In subsection (a), the words "coastwise endorsement under chapter 121" are substituted for "coastwise endorsement under section 12106" because section 12106 is being restated in various sections in revised chapter 121.
 
-In subsection (b), the words “Section 55102 of this title does not apply” are substituted for “shall not be deemed transportation subject to this section” for consistency in the chapter.
+In subsection (b), the words "Section 55102 of this title does not apply" are substituted for "shall not be deemed transportation subject to this section" for consistency in the chapter.
 

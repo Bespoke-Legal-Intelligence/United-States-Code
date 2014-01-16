@@ -1,6 +1,6 @@
 ### §2505. Peace Corps volunteer leaders; number; applicability of chapter; benefits
 
-The President may enroll in the Peace Corps qualified citizens or nationals of the UnitedStates whose services are required for supervisory or other special duties or responsibilities in connection with programs under this chapter (referred to in this chapter as “volunteer leaders”). The ratio of the total number of volunteer leaders to the total number of volunteers in service at any one time shall not exceed one to twenty-five. Except as otherwise provided in this chapter, all of the provisions of this chapter applicable to volunteers shall be applicable to volunteer leaders, and the term “volunteers” shall include “volunteer leaders”: <i>Provided, however</i>, That—
+The President may enroll in the Peace Corps qualified citizens or nationals of the United States whose services are required for supervisory or other special duties or responsibilities in connection with programs under this chapter (referred to in this chapter as "volunteer leaders"). The ratio of the total number of volunteer leaders to the total number of volunteers in service at any one time shall not exceed one to twenty-five. Except as otherwise provided in this chapter, all of the provisions of this chapter applicable to volunteers shall be applicable to volunteer leaders, and the term "volunteers" shall include "volunteer leaders": <i>Provided, however</i>, That—
 
 &emsp;(1) volunteer leaders shall be entitled to receive a readjustment allowance at a rate not less than $125 for each month of satisfactory service as determined by the President;
 
@@ -14,25 +14,25 @@ The President may enroll in the Peace Corps qualified citizens or nationals of t
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 #### Amendments
 
-<b>1982</b>—Par. (1). Pub. L. 97–387 substituted “not less than $125” for “not to exceed $125”.
+<b>1982</b>—Par. (1). Pub. L. 97–387 substituted "not less than $125" for "not to exceed $125".
 
 <b>1970</b>—Pub. L. 91–352 struck out provisions extending health care under cl. (3) to a married volunteer's child if born during the volunteer's service.
 
 <b>1965</b>—Pub. L. 89–134 extended the health care provisions of cl. (3) to a married volunteer's child if born during the volunteer's service.
 
-<b>1963</b>—Pub. L. 88–200 substituted “a readjustment allowance” for “termination payments” in cl. (1).
+<b>1963</b>—Pub. L. 88–200 substituted "a readjustment allowance" for "termination payments" in cl. (1).
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–387, §1(b), Dec. 23, 1982, 96 Stat. 1947, provided that: “This amendment \[amending this section\] shall be effective as of December 29, 1981.”
+Pub. L. 97–387, §1(b), Dec. 23, 1982, 96 Stat. 1947, provided that: "This amendment \[amending this section\] shall be effective as of December 29, 1981."
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Director of Peace Corps with functions relating to providing health care in government facilities under clause (3) to be exercised in consultation with head of agency responsible for facility by sections 1–103 and 1–106 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
+Functions of President under this section delegated to Director of Peace Corps with functions relating toproviding health care in government facilities under clause (3) to be exercised in consultation with head of agency responsible for facility by sections 1–103 and 1–106 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29023, eff. May 16, 1979, set out as a note under section 2501 of this title.
 
 #### Appointment to Civilian Career Services
 

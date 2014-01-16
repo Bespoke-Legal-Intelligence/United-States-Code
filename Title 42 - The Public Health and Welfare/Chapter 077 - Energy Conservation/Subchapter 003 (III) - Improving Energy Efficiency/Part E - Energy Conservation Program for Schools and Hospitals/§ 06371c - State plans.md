@@ -2,7 +2,7 @@
 
 #### (a) Invitation to State energy agency to submit plan; contents
 
-The Secretary shall invite the State energy agency of each State to submit, within 90 days after the effective date of the guidelines prescribed pursuant to section 6371a of this title, or such longer period as the Secretary may, for good cause, allow, a State plan under this section for such State. Such plan shall include—
+The Secretary shall invite the State energy agency of each State to submit, within 90 days after the effective date of the guidelines prescribed pursuant to section 6371a of this title, or such longer period as the Secretary may, forgood cause, allow, a State plan under this section for such State. Such plan shall include—
 
 &emsp;(1) the results of preliminary energy audits conducted in accordance with the guidelines prescribed under section 6371a(a)(1) of this title, and an estimate of the energy savings that may result from the modification of maintenance and operating procedures and installation of energy conservation measures in the schools and hospitals in such State;
 

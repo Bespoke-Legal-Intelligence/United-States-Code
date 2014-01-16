@@ -102,15 +102,15 @@ Oct. 26, 1992, Pub. L. 102–522, title II, §§203(a)–(f), 204(c)(2) (words a
 
 &nbsp;
 
-Subsection (a) is substituted for “The Foundation shall have a governing Board of Directors (hereafter in this chapter referred to as the ‘Board’)” for consistency in the revised title and to eliminate unnecessary words.
+Subsection (a) is substituted for "The Foundation shall have a governing Board of Directors (hereafter in this chapter referred to as the 'Board')" for consistency in the revised title and to eliminate unnecessary words.
 
-In subsection (b)(1), the words “(hereafter in this chapter referred to as the ‘Administrator’)” in 36:5202(a)(2) are omitted as unnecessary. The words “Within 3 months after October 26, 1992” in 36:5202(b) are omitted as obsolete.
+In subsection (b)(1), the words "(hereafter in this chapter referred to as the 'Administrator')" in 36:5202(a)(2) are omitted as unnecessary. The words "Within 3 months after October 26, 1992" in 36:5202(b) are omitted as obsolete.
 
 Subsection (b)(3) is substituted for 36:5202(b) (last sentence) to eliminate obsolete and unnecessary words.
 
-In subsection (d), the words “for the transaction of business” are omitted as unnecessary.
+In subsection (d), the words "for the transaction of business" are omitted as unnecessary.
 
-Subsection (f)(1) is substituted for “Appointment to the Board shall not constitute employment by, or the holding of an office of, the United States for the purposes of any Federal law” to eliminate unnecessary words.
+Subsection (f)(1) is substituted for "Appointment to the Board shall not constitute employment by, or the holding of an office of, the United States for the purposes of any Federal law" to eliminate unnecessary words.
 
 #### Pub. L. 105–354
 
@@ -118,33 +118,33 @@ This amends subsections (f) and (g) of section 151303 of title 36, as enacted by
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–284 substituted “The chairman” for “The Chairman”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–284 substituted "The chairman" for "The Chairman".
 
-<b>2003</b>—Subsec. (b)(2). Pub. L. 108–169, §206(a)(1), (2), substituted “12” for “9” in introductory provisions and “nine” for “six” in subpar. (D).
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–169, §206(a)(1), (2), substituted "12" for "9" in introductory provisions and "nine" for "six" in subpar. (D).
 
-Subsec. (b)(3). Pub. L. 108–169, §206(a)(3), substituted “4 members” for “3 members”.
+Subsec. (b)(3). Pub. L. 108–169, §206(a)(3), substituted "4 members" for "3 members".
 
-<b>2000</b>—Subsec. (f). Pub. L. 106–503, §113(b)(1), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “Appointment to the board does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States.”
+<b>2000</b>—Subsec. (f). Pub. L. 106–503, §113(b)(1), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: "Appointment to the board does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States."
 
-Subsecs. (g), (h). Pub. L. 106–503, §113(b), redesignated subsec. (h) as (g) and struck out heading and text of former subsec. (g). Text read as follows: “Members of the board serve without compensation.”
+Subsecs. (g), (h). Pub. L. 106–503, §113(b), redesignated subsec. (h) as (g) and struck out heading and text of former subsec. (g). Text read as follows: "Members of the board serve without compensation."
 
 <b>1998</b>—Subsecs. (f) to (h). Pub. L. 105–354 amended subsecs. (f) and (g) generally and added subsec. (h). Prior to amendment, subsecs. (f) and (g) read as follows:
 
-“(f)
+"(f)
 
 Status and Compensation.—Members of the board—
 
-&emsp;“(1) are not officers or employees of the United States Government; and
+&emsp;"(1) are not officers or employees of the United States Government; and
 
-&emsp;“(2) serve without compensation.
+&emsp;"(2) serve without compensation.
 
-“(g)
+"(g)
 
-Liability of Directors.—Members of the board are not personally liable, except for gross negligence.”
+Liability of Directors.—Members of the board are not personally liable, except for gross negligence."
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–354, §3, Nov. 3, 1998, 112 Stat. 3245, provided that: “The amendment made by section 1(8) of this Act \[amending this section\] shall take effect as if included in the provisions of Public Law 105–225, as of the date of enactment of Public Law 105–225 \[Aug. 12, 1998\].”
+Pub. L. 105–354, §3, Nov. 3, 1998, 112 Stat. 3245, provided that: "The amendment made by section 1(8) of this Act \[amending this section\] shall take effect as if included in the provisions of Public Law 105–225, as of the date of enactment of Public Law 105–225 \[Aug. 12, 1998\]."
 
 #### Transfer of Functions
 

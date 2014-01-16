@@ -40,7 +40,7 @@ An agreement entered into under this chapter shall—
 
 #### (d) Review of agreements
 
-The Secretary or the Administrator, as appropriate, may make a determination to terminate, or refuse to enter into, a multi-year agreementwith respect to a recipient country if the Secretary or the Administrator determines that such country is not fulfilling the objectives or requirements of this chapter. In making such a determination, the Secretary or the Administrator, as appropriate, may consider the extent to which the country is—
+The Secretary or the Administrator, as appropriate, may make a determination to terminate, or refuse to enter into, a multi-year agreement with respect to a recipient country if the Secretary or the Administrator determines that such country is not fulfilling the objectives or requirements of this chapter. In making such a determination, the Secretary or the Administrator, as appropriate, may consider the extent to which the country is—
 
 &emsp;(1) making significant economic development reforms;
 
@@ -52,11 +52,11 @@ The Secretary or the Administrator, as appropriate, may make a determination to 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–127, §214(1), inserted “with foreign countries” after “Before entering into agreements”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §214(1), inserted "with foreign countries" after "Before entering into agreements".
 
-Subsec. (b)(2). Pub. L. 104–127, §214(2), inserted “with foreign countries” after “agreements entered into” and “and broad-based economic growth” before semicolon at end.
+Subsec. (b)(2). Pub. L. 104–127, §214(2), inserted "with foreign countries" after "agreements entered into" and "and broad-based economic growth" before semicolon at end.
 
-Subsec. (c)(1). Pub. L. 104–127, §214(3), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “Agreements to provide assistance on a multi-year basis under this chapter shall be made available to recipient countries or to eligible organizations.”
+Subsec. (c)(1). Pub. L. 104–127, §214(3), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "Agreements to provide assistance on a multi-year basis under this chapter shall be made available to recipient countries or to eligible organizations."
 
 <b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions outlining aims of assistance programs, namely humanitarian and national interest objectives, and requiring assessments of recipient countries to determine types and quantities of commodities needed, conditions under which distribution should take place, most suitable timing for delivery, etc.
 

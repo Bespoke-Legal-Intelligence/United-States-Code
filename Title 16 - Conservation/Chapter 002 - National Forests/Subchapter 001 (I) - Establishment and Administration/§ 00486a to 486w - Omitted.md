@@ -164,7 +164,7 @@ Sierra National Forest—Acts June 11, 1906, Res. No. 27, 34 Stat. 832; Apr. 16,
 
 Siskiyou National Forest—Acts Sept. 22, 1922, ch. 407, 42 Stat. 1019; June 13, 1935, ch. 222, 49 Stat. 338.
 
-Siuslaw National Forest—Acts Feb. 11, 1920, ch. 69, 41 Stat. 405; June 30, 1932, ch. 328, 47 Stat. 451; Jan. 17, 1940,ch. 2, 54 Stat. 14; Nov. 25, 1940, ch. 915, 54 Stat. 1210; Mar. 23, 1972, Pub. L. 92–260, §6, 86 Stat. 100.
+Siuslaw National Forest—Acts Feb. 11, 1920, ch. 69, 41 Stat. 405; June 30, 1932, ch. 328, 47 Stat. 451; Jan. 17, 1940, ch. 2, 54 Stat. 14; Nov. 25, 1940, ch. 915, 54 Stat. 1210; Mar. 23, 1972, Pub. L. 92–260, §6, 86 Stat. 100.
 
 Snoqualmie National Forest—Acts Sept. 22, 1922, ch. 424, 42 Stat. 1036; Feb. 28, 1925, ch. 369, 43 Stat. 1074; Aug. 21, 1937, ch. 727, 50 Stat. 739.
 

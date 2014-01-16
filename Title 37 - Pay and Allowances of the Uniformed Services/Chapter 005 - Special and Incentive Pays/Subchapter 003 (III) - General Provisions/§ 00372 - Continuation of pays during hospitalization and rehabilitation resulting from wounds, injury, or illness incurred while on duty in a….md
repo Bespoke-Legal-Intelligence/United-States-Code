@@ -2,7 +2,7 @@
 
 (a)
 
-Continuation of Pays.—If a member of a regular or reserve component of a uniformed service incurs a wound, injury, or illness in the line of duty while serving in a combat operationor a combat zone, while serving in a hostile fire area, or while exposed to a hostile fire event, as described under section 351 of this title, and is hospitalized for treatment of the wound, injury, or illness, the Secretary concerned may continue to pay to the member, notwithstanding any provision of this chapter to the contrary, all pay and allowances (including any bonus, incentive pay, or similar benefit) that were being paid to the member at the time the member incurred the wound, injury, or illness.
+Continuation of Pays.—If a member of a regular or reserve component of a uniformed service incurs a wound, injury, or illness in the line of duty while serving in a combat operation or a combat zone, while serving in a hostile fire area, or while exposed to a hostile fire event, as described under section 351 of this title, and is hospitalized for treatment of the wound, injury, or illness, the Secretary concerned may continue to pay to the member, notwithstanding any provision of this chapter to the contrary, all pay and allowances (including any bonus, incentive pay, or similar benefit) that were being paid to the member at the time the member incurred the wound, injury, or illness.
 
 (b)
 
@@ -16,7 +16,7 @@ Duration.—The payment of pay and allowances to a member under subsection (a) m
 
 (c)
 
-Bonus, Incentive Pay, or Similar Benefit Defined.—In this section, the term “bonus, incentive pay, or similar benefit” means a bonus, incentive pay, special pay, or similar payment paid to a member of the uniformed services under this title or title 10.
+Bonus, Incentive Pay, or Similar Benefit Defined.—In this section, the term "bonus, incentive pay, or similar benefit" means a bonus, incentive pay, special pay, or similar payment paid to a member of the uniformed services under this title or title 10.
 
 (Added Pub. L. 110–181, div. A, title VI, §661(a)(2), Jan. 28, 2008, 122 Stat. 176.)
 

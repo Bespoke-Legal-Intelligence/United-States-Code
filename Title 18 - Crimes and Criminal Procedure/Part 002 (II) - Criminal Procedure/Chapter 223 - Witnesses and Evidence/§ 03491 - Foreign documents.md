@@ -20,9 +20,9 @@ The Federal Rules of Evidence, referred to in text, are set out in the Appendix 
 
 #### Amendments
 
-<b>1975</b>—Pub. L. 94–149 substituted “the authentication requirements of the Federal Rules of Evidence” for “the requirements of section 1732 of Title 28”.
+<b>1975</b>—Pub. L. 94–149 substituted "the authentication requirements of the Federal Rules of Evidence" for "the requirements of section 1732 of Title 28".
 
-<b>1964</b>—Pub. L. 88–619 struck out “and section 1741 of Title 28” after “section 3494 of this title” in two places.
+<b>1964</b>—Pub. L. 88–619 struck out "and section 1741 of Title 28" after "section 3494 of this title" in two places.
 
-<b>1949</b>—Act May 24, 1949, substituted “section 1741” for “section 695e” and “section 1732” for “section 695” wherever appearing.
+<b>1949</b>—Act May 24, 1949, substituted "section 1741" for "section 695e" and "section 1732" for "section 695" wherever appearing.
 

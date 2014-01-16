@@ -6,7 +6,7 @@ Each boxer shall register with—
 
 &emsp;(1) the boxing commission of the State in which such boxer resides; or
 
-&emsp;(2) in the case of a boxer who is a resident of a foreign country, or a State in which there is no boxing commission, the boxing commission of any State that has such a commission.
+&emsp;(2) in the case of a boxer who is a resident of a foreign country, or a State in which there isno boxing commission, the boxing commission of any State that has such a commission.
 
 #### (b) Identification card
 
@@ -36,7 +36,7 @@ It is the sense of the Congress that a boxing commission should, upon issuing an
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b)(2). Pub. L. 106–210, §7(c), substituted “4 years” for “2 years”.
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–210, §7(c), substituted "4 years" for "2 years".
 
 Subsec. (c). Pub. L. 106–210, §7(f), added subsec. (c).
 

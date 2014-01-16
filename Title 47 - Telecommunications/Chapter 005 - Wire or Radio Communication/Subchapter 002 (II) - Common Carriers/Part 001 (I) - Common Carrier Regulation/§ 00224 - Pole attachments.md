@@ -4,19 +4,19 @@
 
 As used in this section:
 
-(1) The term “utility” means any person who is a local exchange carrier or an electric, gas, water, steam, or other public utility, and who owns or controls poles, ducts, conduits, or rights-of-way used, in whole or in part, for any wire communications. Such term does not include any railroad, any person who is cooperatively organized, or any person owned by the Federal Government or any State.
+(1) The term "utility" means any person who is a local exchange carrier or an electric, gas, water, steam, or other public utility, and who owns or controls poles, ducts, conduits, or rights-of-way used, in whole or in part, for any wire communications. Such term does not include any railroad, any person who is cooperatively organized, or any person owned by the Federal Government or any State.
 
-(2) The term “Federal Government” means the Government of the United States or any agency or instrumentality thereof.
+(2) The term "Federal Government" means the Government of the United States or any agency or instrumentality thereof.
 
-(3) The term “State” means any State, territory, or possession of the United States, the District of Columbia, or any political subdivision, agency, or instrumentality thereof.
+(3) The term "State" means any State, territory, or possession of the United States, the District of Columbia, or any political subdivision, agency, or instrumentality thereof.
 
-(4) The term “pole attachment” means any attachment by a cable television system or provider of telecommunications service to a pole, duct, conduit, or right-of-way owned or controlled by a utility.
+(4) The term "pole attachment" means any attachment by a cable television system or provider of telecommunications service to a pole, duct, conduit, or right-of-way owned or controlled by a utility.
 
-(5) For purposes of this section, the term “telecommunications carrier” (as defined in section 153 of this title) does not include any incumbent local exchange carrier as defined in section 251(h) of this title.
+(5) For purposes of this section, the term "telecommunications carrier" (as defined in section 153 of this title) does not include any incumbent local exchange carrier as defined in section 251(h) of this title.
 
 #### (b) Authority of Commission to regulate rates, terms, and conditions; enforcement powers; promulgation of regulations
 
-(1) Subject to the provisions of subsection (c) of this section, the Commission shall regulate the rates, terms, and conditions for pole attachments to provide that such rates, terms, and conditions are just and reasonable, and shall adopt procedures necessary and appropriate to hear and resolve complaints concerning such rates, terms, and conditions. For purposes of enforcing any determinations resulting from complaint procedures established pursuant to this subsection, the Commission shall take such action as it deems appropriate and necessary, including issuing cease and desist orders, as authorized by section 312(b) of this title.
+(1) Subject to the provisions of subsection (c) of this section, the Commission shall regulate the rates, terms, and conditions for pole attachments to provide that such rates, terms, and conditions are just and reasonable, and shall adopt procedures necessary and appropriate tohear and resolve complaints concerning such rates, terms, and conditions. For purposes of enforcing any determinations resulting from complaint procedures established pursuant to this subsection, the Commission shall take such action as it deems appropriate and necessary, including issuing cease and desist orders, as authorized by section 312(b) of this title.
 
 (2) The Commission shall prescribe by rule regulations to carry out the provisions of this section.
 
@@ -40,11 +40,11 @@ As used in this section:
 
 &emsp;&emsp;(ii) within the applicable period prescribed for such final action in such rules and regulations of the State, if the prescribed period does not extend beyond 360 days after the filing of such complaint.
 
-#### (d) Determination of just and reasonable rates; “usable space” defined
+#### (d) Determination of just and reasonable rates; "usable space" defined
 
 (1) For purposes of subsection (b) of this section, a rate is just and reasonable if it assures a utility the recovery of not less than the additional costs of providing pole attachments, nor more than an amount determined by multiplying the percentage of the total usable space, or the percentage of the total duct or conduit capacity, which is occupied by the pole attachment by the sum of the operating expenses and actual capital costs of the utility attributable to the entire pole, duct, conduit, or right-of-way.
 
-(2) As used in this subsection, the term “usable space” means the space above the minimum grade level which can be used for the attachment of wires, cables, and associated equipment.
+(2) As used in this subsection, the term "usable space" means the space above the minimum grade level which can be used for the attachment of wires, cables, and associated equipment.
 
 (3) This subsection shall apply to the rate for any pole attachment used by a cable television system solely to provide cable service. Until the effective date of the regulations required under subsection (e) of this section, this subsection shall also apply to the rate for any pole attachment used by a cable system or any telecommunications carrier (to the extent such carrier is not a party to a pole attachment agreement) to provide any telecommunications service.
 
@@ -70,7 +70,7 @@ A utility that engages in the provision of telecommunications services or cable 
 
 #### (h) Modification or alteration of pole, duct, conduit, or right-of-way
 
-Whenever the owner of a pole, duct, conduit, or right-of-way intends to modify or alter such pole, duct, conduit, or right-of-way, the owner shall provide written notification of such action to any entity that has obtained an attachment to such conduit or right-of-way so that such entity may have a reasonable opportunity to add to or modify its existing attachment. Any entity that adds to or modifies its existing attachment after receiving such notification shall bear a proportionate share of the costs incurred by the owner in making such pole, duct, conduit, or right-of-way accessible.
+Whenever the owner of a pole, duct, conduit, or right-of-way intends to modify or alter suchpole, duct, conduit, or right-of-way, the owner shall provide written notification of such action to any entity that has obtained an attachment to such conduit or right-of-way so that such entity may have a reasonable opportunity to add to or modify its existing attachment. Any entity that adds to or modifies its existing attachment after receiving such notification shall bear a proportionate share of the costs incurred by the owner in making such pole, duct, conduit, or right-of-way accessible.
 
 #### (i) Costs of rearranging or replacing attachment
 
@@ -80,21 +80,21 @@ An entity that obtains an attachment to a pole, conduit, or right-of-way shall n
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–104, §703(1), inserted first sentence and struck out former first sentence which read as follows: “The term ‘utility’ means any person whose rates or charges are regulated by the Federal Government or a State and who owns or controls poles, ducts, conduits, or rights-of-way used, in whole or in part, for wire communication.”
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–104, §703(1), inserted first sentence and struck out former first sentence which read as follows: "The term 'utility' means any person whose rates or charges are regulated by the Federal Government or a State and who owns or controls poles, ducts, conduits, or rights-of-way used, in whole or in part, for wire communication."
 
-Subsec. (a)(4). Pub. L. 104–104, §703(2), inserted “or provider of telecommunications service” after “system”.
+Subsec. (a)(4). Pub. L. 104–104, §703(2), inserted "or provider of telecommunications service" after "system".
 
 Subsec. (a)(5). Pub. L. 104–104, §703(3), added par. (5).
 
-Subsec. (c)(1). Pub. L. 104–104, §703(4), inserted “, or access to poles, ducts, conduits, and rights-of-way as provided in subsection (f) of this section,” after “conditions”.
+Subsec. (c)(1). Pub. L. 104–104, §703(4), inserted ", or access to poles, ducts, conduits, and rights-of-way as provided in subsection (f) of this section," after "conditions".
 
-Subsec. (c)(2)(B). Pub. L. 104–104, §703(5), substituted “the services offered via such attachments” for “cable television services”.
+Subsec. (c)(2)(B). Pub. L. 104–104, §703(5), substituted "the services offered via such attachments" for "cable television services".
 
 Subsec. (d)(3). Pub. L. 104–104, §703(6), added par. (3).
 
 Subsecs. (e) to (i). Pub. L. 104–104, §703(7), added subsecs. (e) to (i).
 
-<b>1994</b>—Subsec. (b)(2). Pub. L. 103–414 substituted “The Commission” for “Within 180 days from February 21, 1978, the Commission”.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–414 substituted "The Commission" for "Within 180 days from February 21, 1978, the Commission".
 
 <b>1984</b>—Subsec. (c)(3). Pub. L. 98–549 added par. (3).
 
@@ -108,5 +108,5 @@ Amendment by Pub. L. 98–549 effective 60 days after Oct. 30, 1984, except wher
 
 Section effective on thirtieth day after Feb. 21, 1978, see section 7 of Pub. L. 95–234, set out as an Effective Date of 1978 Amendment note under section 152 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “nondiscriminatory”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "nondiscriminatory".</i>
 

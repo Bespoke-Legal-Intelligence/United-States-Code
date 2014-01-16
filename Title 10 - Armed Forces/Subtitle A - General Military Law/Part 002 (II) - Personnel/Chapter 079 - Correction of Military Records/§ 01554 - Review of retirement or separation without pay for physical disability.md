@@ -14,15 +14,15 @@ Sections 1553 and 1554 are restated, without substantive change, to conform to t
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted “a member or former member of the uniformed services” for “an officer” and “the member's case” for “his case”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted "a member or former member of the uniformed services" for "an officer" and "the member's case" for "his case".
 
-<b>1989</b>—Subsec. (c). Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>1989</b>—Subsec. (c). Pub. L. 101–189 substituted "Secretary of Veterans Affairs" for "Administrator of Veterans' Affairs".
 
 <b>1962</b>—Pub. L. 87–651 amended section generally without substantive change to conform to the style adopted for the revision of this title.
 
 #### Effective Date
 
-Section effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans’ Benefits.
+Section effective Jan. 1, 1959, see section 2 of Pub. L. 85–857, set out as a note preceding Part I of Title 38, Veterans' Benefits.
 
 #### Transfer of Functions
 

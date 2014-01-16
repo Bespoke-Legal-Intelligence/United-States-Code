@@ -6,7 +6,7 @@ Reasonable variations shall be permitted and tolerance shall be established by r
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “Bureau of Standards”.
+<b>1988</b>—Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "Bureau of Standards".
 
 #### Transfer of Functions
 

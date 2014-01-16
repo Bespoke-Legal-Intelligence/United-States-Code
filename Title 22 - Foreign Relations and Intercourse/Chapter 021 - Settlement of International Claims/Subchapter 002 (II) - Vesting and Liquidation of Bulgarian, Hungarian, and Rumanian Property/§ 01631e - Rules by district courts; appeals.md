@@ -6,7 +6,7 @@ The district courts of the United States are given jurisdiction to make and ente
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–352 substituted “chapter 83” for “sections 1252, 1254, 1291, and 1292”.
+<b>1988</b>—Pub. L. 100–352 substituted "chapter 83" for "sections 1252, 1254, 1291, and 1292".
 
 #### Effective Date of 1988 Amendment
 

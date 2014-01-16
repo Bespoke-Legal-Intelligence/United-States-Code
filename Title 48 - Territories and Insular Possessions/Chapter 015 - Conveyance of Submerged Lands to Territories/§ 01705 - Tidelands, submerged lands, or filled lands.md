@@ -1,26 +1,26 @@
 ### §1705. Tidelands, submerged lands, or filled lands
 
-#### (a) Conveyance to Guam, Virgin Islands, and American Samoa
+#### (a) Conveyance to Guam, the Commonwealth of the Northern Mariana Islands, Virgin Islands, and American Samoa
 
-Subject to valid existing rights, all right, title, and interest of the United States in lands permanently or periodically covered by tidal waters up to but not above the line of mean high tide and seaward to a line three geographical miles distant from the coastlines of the territories of Guam, the Virgin Islands, and American Samoa, as heretofore or hereafter modified by accretion, erosion, and reliction, and in artificially made, filled in, or reclaimed lands which were formerly permanently or periodically covered by tidal waters, are hereby conveyed to the governments of Guam, the Virgin Islands, and American Samoa, as the case may be, to be administered in trust for the benefit of the people thereof.
+Subject to valid existing rights, all right, title, and interest of the United States in lands permanently or periodically covered by tidal waters up to but not above the line of mean high tide and seaward to a line three geographical miles distant from the coastlines of the territories of Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and American Samoa, as heretofore or hereafter modified by accretion, erosion, and reliction, and in artificially made, filled in, or reclaimed lands which were formerly permanently or periodically covered by tidal waters, are hereby conveyed to the governments of Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and American Samoa, as the case may be, to be administered in trust for the benefit of the people thereof.
 
 #### (b) Retention of certain lands and mineral rights by United States
 
 There are excepted from the transfer made by subsection (a) hereof—
 
-&emsp;(i) all deposits of oil, gas, and other minerals, but the term “minerals” shall not include coral, sand, and gravel;
+&emsp;(i) all deposits of oil, gas, and other minerals, but the term "minerals" shall not include coral, sand, and gravel;
 
 &emsp;(ii) all submerged lands adjacent to property owned by the United States above the line of mean high tide;
 
-&emsp;(iii) all submerged lands adjacent to property above the line of mean high tide acquired by the United States by eminent domain proceedings, purchase, exchange, or gift, after October 5, 1974, as required for completion of the Department of the Navy Land Acquisition Project relative to the construction of the Ammunition Pier authorized by the Military Construction Authorization Act, 1971 (84 Stat. 1204), as amended by section 201 of the Military Construction Act, 1973 (86 Stat. 1135);
+&emsp;(iii) all submerged lands adjacent to property above the line of mean high tide acquired by the United States by eminent domain proceedings, purchase, exchange, or gift, after the date of enactment of this Act, as required for completion of the Department of the Navy Land Acquisition Project relative to the construction of the Ammunition Pier authorized by the Military Construction Authorization Act, 1971 (84 Stat. 1204), as amended by section 201 of the Military Construction Act, 1973 (86 Stat. 1135);
 
-&emsp;(iv) all submerged lands filled in, built up, or otherwise reclaimed by the United States, before October 5, 1974, for its own use;
+&emsp;(iv) all submerged lands filled in, built up, or otherwise reclaimed by the United States, before the date of enactment of this Act, for its own use;
 
 &emsp;(v) all tracts or parcels of submerged land containing on any part thereof any structures or improvements constructed by the United States;
 
 &emsp;(vi) all submerged lands that have heretofore been determined by the President or the Congress to be of such scientific, scenic, or historic character as to warrant preservation and administration under the provisions of sections 1, 2, 3, and 4 of title 16;
 
-&emsp;(vii) all submerged lands designated by the President within one hundred and twenty days after October 5, 1974;
+&emsp;(vii) all submerged lands designated by the President within one hundred and twenty days after the date of enactment of this Act;
 
 &emsp;(viii) all submerged lands that are within the administrative responsibility of any agency or department of the United States other than the Department of the Interior;
 
@@ -30,33 +30,43 @@ There are excepted from the transfer made by subsection (a) hereof—
 
 &emsp;(xi) all submerged lands within the Buck Island Reef National Monument as described in Presidential Proclamation 3448 dated December 28, 1961.
 
-> Upon request of the Governor of Guam, the Virgin Islands, or American Samoa, the Secretary of the Interior may, with or without reimbursement, and subject to the procedure specified in subsection (c) of this section convey all right, title, and interest of the United States in any of the lands described in clauses (ii), (iii), (iv), (v), (vi), (vii), or (viii) of this subsection to the government of Guam, the Virgin Islands, or American Samoa, as the case may be, with the concurrence of the agency having custody thereof.
+> Upon request of the Governor of Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, or American Samoa, the Secretary of the Interior may, with or without reimbursement, and subject to the procedure specified in subsection (c) of this section convey all right, title, and interest of the United States in any of the lands described in clauses (ii), (iii), (iv), (v), (vi), (vii), or (viii) of this subsection to the government of Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, or American Samoa, as the case may be, with the concurrence of the agency having custody thereof.
 
 #### (c) Submittal to Congressional committees of proposals for conveyance of retained lands or rights
 
 No conveyance shall be made by the Secretary pursuant to subsection (a) or (b) of this section until the expiration of sixty calendar days (excluding days on which the House of Representatives or the Senate is not in session because of an adjournment of more than three days to a day certain) from the date on which the Secretary of the Interior submits to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate an explanatory statement indicating the tract proposed to be conveyed and the need therefor, unless prior to the expiration of such sixty calendar days both committees inform the Secretary that they wish to take no action with respect to the proposed conveyance.
 
-#### (d) Oil, gas, and other mineral deposits in submerged lands conveyed to Guam, Virgin Islands, and American Samoa; conveyance by United States; existing leases, permits, etc.
+#### (d) Oil, gas, and other mineral deposits in submerged lands conveyed to Guam, the Commonwealth of the Northern Mariana Islands, Virgin Islands, and American Samoa; conveyance by United States; existing leases, permits, etc.
 
-(1) The Secretary of the Interior shall, not later than sixty days after March 12, 1980, convey to the governments of Guam, the Virgin Islands, and American Samoa, as the case may be, all right, title, and interest of the United States in deposits of oil, gas, and other minerals in the submerged lands conveyed to the government of such territory by subsection (a) of this section.
+(1) The Secretary of the Interior shall, not later than sixty days after the date of enactment of this subsection, convey to the governments of Guam, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, and American Samoa, as the case may be, all right, title, and interest of the United States in deposits of oil, gas, and other minerals in the submerged lands conveyed to the government of such territory by subsection (a) of this section.
 
 (2) The conveyance of mineral deposits under paragraph (1) of this subsection shall be subject to any existing lease, permit, or other interest granted by the United States prior to the date of such conveyance. All rentals, royalties, or fees which accrue after such date of conveyance in connection with any such lease, permit, or other interest shall be payable to the government of the territory to which such mineral deposits are conveyed.
 
-(Pub. L. 93–435, §1, Oct. 5, 1974, 88 Stat. 1210; Pub. L. 96–205, title VI, §607, Mar. 12, 1980, 94 Stat. 91; Pub. L. 103–437, §17(b), Nov. 2, 1994, 108 Stat. 4595.)
+(Pub. L. 93–435, §1, Oct. 5, 1974, 88 Stat. 1210; Pub. L. 96–205, title VI, §607, Mar. 12, 1980, 94 Stat. 91; Pub. L. 103–437, §17(b), Nov. 2, 1994, 108 Stat. 4595; Pub. L. 113–34, §1(a), Sept. 18, 2013, 127 Stat. 518.)
 
 #### References in Text
 
 The authorization for the construction by the Navy of the Ammunition Pier under the Military Construction Authorization Act, 1971, (84 Stat. 1204), as amended by section 201 of the Military Construction Act, 1973 (86 Stat. 1135), referred to in subsec. (b)(iii), is contained in section 201 of Pub. L. 91–511, Oct. 26, 1970, 84 Stat. 1204, as amended by section 201 of Pub. L. 92–545, Oct. 25, 1972, 86 Stat. 1138, which is not classified to the Code.
 
+The date of enactment of this Act, referred to in subsec. (b)(iii), (iv), and (vii), is the date of enactment of Pub. L. 93–435, which was approved Oct. 5, 1974.
+
 Section 398b of title 16, referred to in subsec. (b)(x), was repealed by Pub. L. 85–404, May 16, 1958, 72 Stat. 112.
+
+The date of enactment of this subsection, referred to in subsec. (d)(1), is the date of enactment of Pub. L. 96–205, which was approved Mar. 12, 1980.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the House of Representatives and the Senate”.
+<b>2013</b>—Pub. L. 113–34 inserted "the Commonwealth of the Northern Mariana Islands," after "Guam," wherever appearing.
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–205, §607(b), inserted “subsection (a) or (b) of” before “this section”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted "Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate" for "Committees on Interior and Insular Affairs of the House of Representatives and the Senate".
+
+<b>1980</b>—Subsec. (c). Pub. L. 96–205, §607(b), inserted "subsection (a) or (b) of" before "this section".
 
 Subsec. (d). Pub. L. 96–205, §607(a), added subsec. (d).
+
+#### References to "Date of Enactment"
+
+Pub. L. 113–34, §1(b), Sept. 18, 2013, 127 Stat. 518, provided that: "For the purposes of the amendment made by subsection (a) \[amending this section and section 1706 of this title\], each reference in Public Law 93–435 \[see Tables for classification\] to the 'date of enactment' shall be considered to be a reference to the date of the enactment of this section \[Sept. 18, 2013\]."
 
 #### Proc. No. 4346. Reserving Certain Lands Adjacent to and Enlarging Boundaries of Buck Island Reef National Monument in Virgin Islands
 
@@ -86,9 +96,9 @@ NOW, THEREFORE, I GERALD R. FORD, President of the United States of America, by 
 
 <i>American Samoa</i>. The submerged lands adjacent to Rose Atoll located 78 miles east-southeast of Tau Island in the Manua Group at latitude 14°32′52″ south and longitude 168°08′34″ west, which lands shall be under the joint administrative jurisdiction of the Department of Commerce and the Department of the Interior.
 
-<i>Guam</i>. (1) The submerged lands of inner and outer Apra Harbor; and, (2) the submerged lands adjacent to the following uplands: (a) Unsurveyed land, Municipality of Machanao, Guam, as delineated on Commander Naval Forces. Marianas Y \& D Drawing Numbered 597–464, lying between the seaward boundaries of Lots Numbered 9992 through 9997 and the mean high tide,containing an undetermined area of land, (b) unsurveyed land, Municipality of Machanao, Guam, as delineated on Commander Naval Forces, Marianas Y \& D Drawing Numbered 597–464, lying between the seaward boundary of Lot Numbered 10080 and the line of mean high tide, containing an undetermined amount of land, and (c) Lot Numbered PO 4.1 in the Municipality of Machanao, Guam, as delineated on Y \& D Drawing Numbered 597–464, more particularly described as surveyed land bordered on the north by Lot Numbered 10080, Machanao, east by Northwest Air Force Base, south by U. S. Naval Communication Station (Finegayan) and west by the sea containing a computed area of 125.50 acres, more or less. All of the above lands within the territory of Guam shall be under the administrative jurisdiction of the Department of the Navy.
+<i>Guam</i>. (1) The submerged lands of inner and outer Apra Harbor; and, (2) the submerged lands adjacent to the following uplands: (a) Unsurveyed land, Municipality of Machanao, Guam, as delineated on Commander Naval Forces. Marianas Y \& D Drawing Numbered 597–464, lying between the seaward boundaries of Lots Numbered 9992 through 9997 and the mean high tide, containing an undetermined area of land, (b) unsurveyed land, Municipality of Machanao, Guam, as delineated on Commander Naval Forces, Marianas Y \& D Drawing Numbered 597–464, lying between the seaward boundary of Lot Numbered 10080 and the line of mean high tide, containing an undetermined amount of land, and (c) Lot Numbered PO 4.1 in the Municipality of Machanao, Guam, as delineated on Y \& D Drawing Numbered 597–464, more particularly described as surveyed land bordered on the north by Lot Numbered 10080, Machanao, east by Northwest Air Force Base, south by U. S. Naval Communication Station (Finegayan) and west by the sea containing a computed area of 125.50 acres, more or less. All of the above lands within the territory of Guam shall be under the administrative jurisdiction of the Department of the Navy.
 
-<i>The Virgin Islands</i>. (1) The submerged lands as described in the Code of Federal Regulations revised as of July 1, 1974, cited as 33 CFR 207.817 areas “A” \& “B”, (2) the submerged lands seaward of the 100 fathom curve off the coast of St. Croix beginning at a point 17°40′30″ N and ending at a point 17°46′30″ North as depicted on Coast and Geodetic Survey Chart Numbered 25250, Third Edition; Title: St. Croix, Virgin Islands Underwater Range, and (3) the submerged lands seaward of the Underwater Range Operational Control Center, St. Croix, Virgin Islands presently leased to the Department of the Navy and described as Plot 1B18 of Estate Sprat Hall subdivision, located in northside Quarter “A”, St. Croix containing 4.84 acres of land. All of the above lands within the territory of the Virgin Islands shall be under the administrative jurisdiction of the Department of the Navy.
+<i>The Virgin Islands</i>. (1) The submerged lands as described in the Code of Federal Regulations revised as of July 1, 1974, cited as 33 CFR 207.817 areas "A" \& "B", (2) the submerged lands seaward of the 100 fathom curve off the coast of St. Croix beginning at a point 17°40′30″ N and ending at a point 17°46′30″ North as depicted on Coast and Geodetic Survey Chart Numbered 25250, Third Edition; Title: St. Croix, Virgin Islands Underwater Range, and (3) the submerged lands seaward of the Underwater Range Operational Control Center, St. Croix, Virgin Islands presently leased to the Department of the Navy and described as Plot 1B18 of Estate Sprat Hall subdivision, located in northside Quarter "A", St. Croix containing 4.84 acres of land. All of the above lands within the territory of the Virgin Islands shall be under the administrative jurisdiction of the Department of the Navy.
 
 IN WITNESS WHEREOF, I have hereunto set my hand this first day of February, in the year of our Lord nineteen hundred seventy-five, and of the Independence of the United States of America the one hundred and ninety-ninth.
 

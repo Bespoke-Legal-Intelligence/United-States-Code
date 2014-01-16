@@ -66,13 +66,13 @@ The Secretary shall transmit to the Congress not later than 120 days after Augus
 
 For purposes of this section—
 
-&emsp;(1) the term “concentrating solar power devices” means devices that concentrate the power of the sun by reflection or refraction to improve the efficiency of a photovoltaic or thermal generation process;
+&emsp;(1) the term "concentrating solar power devices" means devices that concentrate the power of the sun by reflection or refraction to improve the efficiency of a photovoltaic or thermal generation process;
 
-&emsp;(2) the term “minority institution” has the meaning given to that term in section 1067k of title 20;
+&emsp;(2) the term "minority institution" has the meaning given to that term in section 1067k of title 20;
 
-&emsp;(3) the term “part B institution” has the meaning given to that term in section 1061 of title 20; and
+&emsp;(3) the term "part B institution" has the meaning given to that term in section 1061 of title 20; and
 
-&emsp;(4) the term “photovoltaic devices” means devices that convert light directly into electricity through a solid-state, semiconductor process.
+&emsp;(4) the term "photovoltaic devices" means devices that convert light directly into electricity through a solid-state, semiconductor process.
 
 #### (g) Authorization of appropriations
 

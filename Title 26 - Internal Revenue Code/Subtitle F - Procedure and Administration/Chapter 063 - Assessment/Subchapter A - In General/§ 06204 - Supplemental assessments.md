@@ -12,11 +12,11 @@ The Secretary may, at any time within the period prescribed for assessment, make
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
-<b>1974</b>—Subsec. (b). Pub. L. 93–406 substituted “gift, and certain excise taxes” for “and gift taxes”.
+<b>1974</b>—Subsec. (b). Pub. L. 93–406 substituted "gift, and certain excise taxes" for "and gift taxes".
 
 #### Effective Date of 1974 Amendment
 
-Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, and, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan yearsbeginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
+Amendment by Pub. L. 93–406 applicable, except as otherwise provided in section 1017(c) through (i) of Pub. L. 93–406, for plan years beginning after Sept. 2, 1974, and, in the case of plans in existence on Jan. 1, 1974, amendment by Pub. L. 93–406 applicable for plan years beginning after Dec. 31, 1975, see section 1017 of Pub. L. 93–406, set out as an Effective Date; Transitional Rules note under section 410 of this title.
 

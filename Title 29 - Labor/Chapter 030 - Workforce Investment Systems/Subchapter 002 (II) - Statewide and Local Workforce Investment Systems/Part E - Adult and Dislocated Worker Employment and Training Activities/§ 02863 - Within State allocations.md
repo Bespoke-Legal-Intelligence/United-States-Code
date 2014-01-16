@@ -40,7 +40,7 @@
 
 #### (iii) Definition
 
-&emsp;&emsp;&emsp;The term “allocation percentage”, used with respect to fiscal year 2000 or a subsequent fiscal year, means a percentage of the funds referred to in clause (i), received through an allocation made under this subparagraph, for the fiscal year.
+&emsp;&emsp;&emsp;The term "allocation percentage", used with respect to fiscal year 2000 or a subsequent fiscal year, means a percentage of the funds referred to in clause (i), received through an allocation made under this subparagraph, for the fiscal year.
 
 #### (B) Dislocated worker employment and training activities
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;&emsp;(ii) references in section 2862(b) of this title to all States shall be deemed to be references to all local areas in the State involved; and
 
-&emsp;&emsp;&emsp;(iii) except as described in clause (i), references in section 2862(b)(1) of this title to the term “excess number” shall be considered to be references to the term as defined in section 2862(b)(1) of this title.
+&emsp;&emsp;&emsp;(iii) except as described in clause (i), references in section 2862(b)(1) of this title to the term "excess number" shall be considered to be references to the term as defined in section 2862(b)(1) of this title.
 
 #### (3) Adult employment and training discretionary allocations
 
@@ -80,7 +80,7 @@
 
 #### (4) Transfer authority
 
-&emsp;A local board may transfer, if such a transfer is approved by the Governor, not more than 20 percent of the funds allocated to the local area under paragraph (2)(A) or (3), and 20percent of the funds allocated to the local area under paragraph (2)(B), for a fiscal year between—
+&emsp;A local board may transfer, if such a transfer is approved by the Governor, not more than 20 percent of the funds allocated to the local area under paragraph (2)(A) or (3), and 20 percent of the funds allocated to the local area under paragraph (2)(B), for a fiscal year between—
 
 &emsp;&emsp;(A) adult employment and training activities; and
 
@@ -110,7 +110,7 @@
 
 #### (2) Amount
 
-&emsp;The amount available for reallocation for a program year is equal to the amount by which the unobligated balance of the local area allocation under paragraph (2)(A) or (3) of subsection (b) of this section for such activities, at the end of the program year prior to the program year for which the determination under this paragraph is made exceeds 20 percent of such allocation for the prior program year.
+&emsp;The amount available for reallocation for a program year is equal to the amount by whichthe unobligated balance of the local area allocation under paragraph (2)(A) or (3) of subsection (b) of this section for such activities, at the end of the program year prior to the program year for which the determination under this paragraph is made exceeds 20 percent of such allocation for the prior program year.
 
 #### (3) Reallocation
 

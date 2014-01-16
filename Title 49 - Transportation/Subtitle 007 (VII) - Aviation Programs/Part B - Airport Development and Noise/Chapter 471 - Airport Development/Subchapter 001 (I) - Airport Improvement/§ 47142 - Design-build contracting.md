@@ -22,7 +22,7 @@ Reimbursement of Costs.—The Administrator may reimburse an airport sponsor for
 
 (c)
 
-Design-Build Contract Defined.—In this section, the term “design-build contract” means an agreement that provides for both design and construction of a project by a contractor.
+Design-Build Contract Defined.—In this section, the term "design-build contract" means an agreement that provides for both design and construction of a project by a contractor.
 
 (Added Pub. L. 108–176, title I, §181(a), Dec. 12, 2003, 117 Stat. 2515.)
 

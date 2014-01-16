@@ -34,7 +34,7 @@ The plan created by the partition is—
 
 #### (f) Authority of corporation to obtain decree partitioning plan and appointing trustee for terminated portion of partitioned plan
 
-The corporation may proceed under section 1342(c) through (h) of this title for a decree partitioning a plan and appointing a trustee for the terminated portion of a partitioned plan. Thecourt may order the partition of a plan upon making the findings described in subsection (b)(1) through (4) of this section, and subject to the conditions set forth in subsections (c) through (e) of this section.
+The corporation may proceed under section 1342(c) through (h) of this title for a decree partitioning a plan and appointing a trustee for the terminated portion of a partitioned plan. The court may order the partition of a plan upon making the findings described in subsection (b)(1) through (4) of this section, and subject to the conditions set forth in subsections (c) through (e) of this section.
 
 (Pub. L. 93–406, title IV, §4233, as added Pub. L. 96–364, title I, §104(2), Sept. 26, 1980, 94 Stat. 1246.)
 

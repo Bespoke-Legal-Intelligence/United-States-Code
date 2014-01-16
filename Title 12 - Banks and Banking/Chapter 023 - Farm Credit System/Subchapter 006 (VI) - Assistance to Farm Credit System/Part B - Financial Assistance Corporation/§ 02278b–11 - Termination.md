@@ -12,5 +12,5 @@ Simultaneously with the termination of the Financial Assistance Corporation as p
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–552 substituted “terminate on the complete discharge by the Financial Assistance Corporation of its responsibilities under section 2278a–9(e) of this title and subsections (c) through (g) of section 2278b–6 of this title with regard to repayments by System institutions, but in no event later than 2 years following” for “terminate on”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–552 substituted "terminate on the complete discharge by the Financial Assistance Corporation of its responsibilities under section 2278a–9(e) of this title and subsections (c) through (g) of section 2278b–6 of this title with regard to repayments by System institutions, but in no event later than 2 years following" for "terminate on".
 

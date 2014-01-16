@@ -40,7 +40,7 @@ Designation of Transferee.—A member transferring an entitlement to basic educa
 
 Time for Transfer; Revocation and Modification.—(1) Subject to the time limitation for use of entitlement under section 16164, a member approved to transfer entitlement to basic educational assistance under this section may transfer such entitlement only while serving as a member of the armed forces when the transfer is executed.
 
-(2) A member transferring entitlement under this section may modify or revoke at any time the transfer of any unused portion of the entitlement so transferred. The modification or revocation of the transfer of entitlement under this paragraph shall be made by the submittal ofwritten notice of the action to both the Secretary concerned and the Secretary of Veterans Affairs.
+(2) A member transferring entitlement under this section may modify or revoke at any time the transfer of any unused portion of the entitlement so transferred. The modification or revocation of the transfer of entitlement under this paragraph shall be made by the submittal of written notice of the action to both the Secretary concerned and the Secretary of Veterans Affairs.
 
 (3) Entitlement transferred under this section may not be treated as marital property, or the asset of a marital estate, subject to division in a divorce or other civil proceeding.
 
@@ -116,11 +116,11 @@ Regulations.—(1) The Secretary of Defense, in coordination with the Secretary 
 
 (k)
 
-Secretary Concerned Defined.—For purposes of this section, the term “Secretary concerned” has the meaning given in section 101(a)(9) in the case of a member of the armed forces.
+Secretary Concerned Defined.—For purposes of this section, the term "Secretary concerned" has the meaning given in section 101(a)(9) in the case of a member of the armed forces.
 
 (Added Pub. L. 110–252, title V, §5006(c), June 30, 2008, 122 Stat. 2383; amended Pub. L. 111–383, div. A, title X, §1075(b)(56), Jan. 7, 2011, 124 Stat. 4372.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(2). Pub. L. 111–383 substituted “subsection (j)” for “section (j)”.
+<b>2011</b>—Subsec. (b)(2). Pub. L. 111–383 substituted "subsection (j)" for "section (j)".
 

@@ -22,7 +22,7 @@ The Secretary, acting through the Under Secretary for Research, Education, and E
 
 &emsp;(1) establish such technical and scientific review groups as are needed to carry out the functions of the Department; and
 
-&emsp;(2) appoint and pay the members of the groups, except that officers and employees of the United States shall not receive additional compensation for service as a member of a group.
+&emsp;(2) appoint and pay the members of the groups, except that officers and employees ofthe United States shall not receive additional compensation for service as a member of a group.
 
 (Pub. L. 103–354, title II, §261, Oct. 13, 1994, 108 Stat. 3227.)
 

@@ -2,7 +2,7 @@
 
 #### (a) Promulgating authority
 
-The authority to promulgate regulations under this chapter is vested in (A) the Secretary of Health and Human Services (referred to hereinafter as the “Secretary”) with respect to any consumer commodity which is a food, drug, device, or cosmetic, as each such term is defined by section 321 of title 21; and (B) the Federal Trade Commission (referred to hereinafter as the “Commission”) with respect to any other consumer commodity.
+The authority to promulgate regulations under this chapter is vested in (A) the Secretary of Health and Human Services (referred to hereinafter as the "Secretary") with respect to any consumer commodity which is a food, drug, device, or cosmetic, as each such term is defined by section 321 of title 21; and (B) the Federal Trade Commission (referred to hereinafter as the "Commission") with respect to any other consumer commodity.
 
 #### (b) Exemption of commodities from regulations
 
@@ -24,25 +24,25 @@ Whenever the promulgating authority determines that regulations containing prohi
 
 #### (d) Development by manufacturers, packers, and distributors of voluntary product standards
 
-Whenever the Secretary of Commerce determines that there is undue proliferation of the weights or masses, measures, or quantities in which any consumer commodity or reasonably comparable consumer commodities are being distributed in packages for sale at retail and such undue proliferation impairs the reasonable ability of consumers to make value comparisons with respect to such consumer commodity or commodities, he shall request manufacturers, packers, and distributors of the commodity orcommodities to participate in the development of a voluntary product standard for such commodity or commodities under the procedures for the development of voluntary products standards established by the Secretary pursuant to section 272 of this title. Such procedures shall provide adequate manufacturer, packer, distributor, and consumer representation.
+Whenever the Secretary of Commerce determines that there is undue proliferation of the weights or masses, measures, or quantities in which any consumer commodity or reasonably comparable consumer commodities are being distributed in packages for sale at retail and such undue proliferation impairs the reasonable ability of consumers to make value comparisons with respect to such consumer commodity or commodities, he shall request manufacturers, packers, and distributors of the commodity or commodities to participate in the development of a voluntary product standard for such commodity or commodities under the procedures for the development of voluntary products standards established by the Secretary pursuant to section 272 of this title. Such procedures shall provide adequate manufacturer, packer, distributor, and consumer representation.
 
 #### (e) Report and recommendations to Congress upon industry failure to develop or abide by voluntary product standards
 
 If (1) after one year after the date on which the Secretary of Commerce first makes the request of manufacturers, packers, and distributors to participate in the development of a voluntary product standard as provided in subsection (d) of this section, he determines that such a standard will not be published pursuant to the provisions of such subsection (d), or (2) if such a standard is published and the Secretary of Commerce determines that it has not been observed, he shall promptly report such determination to the Congress with a statement of the efforts that have been made under the voluntary standards program and his recommendation as to whether Congress should enact legislation providing regulatory authority to deal with the situation in question.
 
-(Pub. L. 89–755, §5, Nov. 3, 1966, 80 Stat. 1298; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–245, title I, §107(a)(1), (2), Feb. 14, 1992, 106 Stat. 13; Pub. L. 102–329, §§1(1), (2), 3, Aug. 3, 1991, 106 Stat. 847, 848.)
+(Pub. L. 89–755, §5, Nov. 3, 1966, 80 Stat. 1298; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 102–245, title I, §107(a)(1), (2), Feb. 14, 1992, 106 Stat. 13; Pub. L. 102–329, §§1(1), (2), 3, Aug. 3, 1992, 106 Stat. 847, 848.)
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–245, §107(a)(1), (2), (b), which directed amendment of section, effective two years after Feb. 14, 1992, by substituting “weight or mass” for “weight” in subsec. (c)(1) and “weights or masses” for “weights” in subsec. (d), was repealed by Pub. L. 102–329, §3.
+<b>1992</b>—Pub. L. 102–245, §107(a)(1), (2), (b), which directed amendment of section, effective two years after Feb. 14, 1992, by substituting "weight or mass" for "weight" in subsec. (c)(1) and "weights or masses" for "weights" in subsec. (d), was repealed by Pub. L. 102–329, §3.
 
-Subsec. (c)(1). Pub. L. 102–329, §1(1), substituted “weight or mass” for “weight”.
+Subsec. (c)(1). Pub. L. 102–329, §1(1), substituted "weight or mass" for "weight".
 
-Subsec. (d). Pub. L. 102–329, §1(2), substituted “weights or masses” for “weights”.
+Subsec. (d). Pub. L. 102–329, §1(2), substituted "weights or masses" for "weights".
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1992 Amendment
 

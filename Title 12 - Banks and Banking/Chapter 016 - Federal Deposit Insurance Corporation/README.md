@@ -18,7 +18,7 @@
 | [1822\.](%C2%A7%2001822%20-%20Corporation%20as%20receiver.md) | Corporation as receiver. |
 | [1823\.](%C2%A7%2001823%20-%20Corporation%20monies.md) | Corporation monies. |
 | [1824\.](%C2%A7%2001824%20-%20Borrowing%20authority.md) | Borrowing authority. |
-| [1825\.](%C2%A7%2001825%20-%20Issuance%20of%20notes%2C%20debentures%2C%20bonds%2C%20and%20other%20obligations%3B%20exemption%20from%20taxation.md) | Issuance of notes, debentures, bonds, and other obligations; exemption from taxation. |
+| [1825\.](%C2%A7%2001825%20-%20Issuance%20of%20notes%2C%20debentures%2C%20bonds%2C%20and%20other%20obligations%3B%20exemptions.md) | Issuance of notes, debentures, bonds, and other obligations; exemptions. |
 | [1826\.](%C2%A7%2001826%20-%20Forms%20of%20obligations%3B%20preparation%20by%20Secretary%20of%20the%20Treasury.md) | Forms of obligations; preparation by Secretary of the Treasury. |
 | [1827\.](%C2%A7%2001827%20-%20Reports%20by%20Corporation%3B%20audit%20of%20financial%20transactions%3B%20report%20on%20audits%3B%20employment%20of%20certified%20public%20accountants%20for%20audits.md) | Reports by Corporation; audit of financial transactions; report on audits; employment of certified public accountants for audits. |
 | [1828\.](%C2%A7%2001828%20-%20Regulations%20governing%20insured%20depository%20institutions.md) | Regulations governing insured depository institutions. |
@@ -97,7 +97,7 @@
 - [&sect; 01822 - Corporation as receiver](%C2%A7%2001822%20-%20Corporation%20as%20receiver.md)
 - [&sect; 01823 - Corporation monies](%C2%A7%2001823%20-%20Corporation%20monies.md)
 - [&sect; 01824 - Borrowing authority](%C2%A7%2001824%20-%20Borrowing%20authority.md)
-- [&sect; 01825 - Issuance of notes, debentures, bonds, and other obligations; exemption from taxation](%C2%A7%2001825%20-%20Issuance%20of%20notes%2C%20debentures%2C%20bonds%2C%20and%20other%20obligations%3B%20exemption%20from%20taxation.md)
+- [&sect; 01825 - Issuance of notes, debentures, bonds, and other obligations; exemptions](%C2%A7%2001825%20-%20Issuance%20of%20notes%2C%20debentures%2C%20bonds%2C%20and%20other%20obligations%3B%20exemptions.md)
 - [&sect; 01826 - Forms of obligations; preparation by Secretary of the Treasury](%C2%A7%2001826%20-%20Forms%20of%20obligations%3B%20preparation%20by%20Secretary%20of%20the%20Treasury.md)
 - [&sect; 01827 - Reports by Corporation; audit of financial transactions; report on audits; employment of certified public accountants for audits](%C2%A7%2001827%20-%20Reports%20by%20Corporation%3B%20audit%20of%20financial%20transactions%3B%20report%20on%20audits%3B%20employment%20of%20certified%20public%20accountants%20for%20audits.md)
 - [&sect; 01828 - Regulations governing insured depository institutions](%C2%A7%2001828%20-%20Regulations%20governing%20insured%20depository%20institutions.md)

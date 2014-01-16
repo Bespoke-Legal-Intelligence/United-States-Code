@@ -42,7 +42,7 @@
 
 |  |  |
 | :--- | ---: |
-| [10851\.](Subchapter%20003%20%28III%29%20-%20Construction/%C2%A7%2010851%20-%20Construction%20of%20subchapters%20I%20and%20II%3B%20%E2%80%9Cindividual%20with%20mental%20illness%E2%80%9D%20defined.md) | Construction of subchapters I and II; “individual with mental illness” defined. |
+| [10851\.](Subchapter%20003%20%28III%29%20-%20Construction/%C2%A7%2010851%20-%20Construction%20of%20subchapters%20I%20and%20II%3B%20individual%20with%20mental%20illness%20defined.md) | Construction of subchapters I and II; "individual with mental illness" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

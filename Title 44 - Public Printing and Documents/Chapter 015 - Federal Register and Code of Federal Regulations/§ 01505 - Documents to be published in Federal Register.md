@@ -52,7 +52,7 @@ Section 1. <i>Form</i>. Proposed Executive orders and proclamations shall be pre
 
 (d) The spelling of geographic names shall conform to the decisions of the Board on Geographic Names, established by Section 2 of the Act of July 25, 1947, 61 Stat. 456 (43 U.S.C. 364a).
 
-(e) Descriptions of tracts of land shall conform, so far as practicable, to the most recent edition of the “Specifications for Descriptions of Tracts of Land for Use in Executive Orders and Proclamations,” prepared by the Bureau of Land Management, Department of the Interior.
+(e) Descriptions of tracts of land shall conform, so far as practicable, to the most recent edition of the "Specifications for Descriptions of Tracts of Land for Use in Executive Orders and Proclamations," prepared by the Bureau of Land Management, Department of the Interior.
 
 (f) Proposed Executive orders and proclamations shall be prepared on paper approximately 8.5 × 14 inches, shall have a left-hand margin of approximately 1 inches \[sic\] and a right-hand margin of approximately 1 inch, and shall be double-spaced, except that quotations, tabulations, and descriptions of land may be single-spaced.
 
@@ -64,19 +64,19 @@ Sec. 2. <i>Routing and approval of drafts</i>. (a) A proposed Executive order or
 
 (b) If the Director of the Office of Management and Budget approves the proposed Executive order or proclamation, he shall transmit it to the Attorney General for his consideration as to both form and legality.
 
-(c) If the proposed Executive order or proclamation is disapproved by the Director of the Office of Management and Budget or by the Attorney General, it shall not thereafter be presented to the President unless it is accompanied by a statement of the reasons for such disapproval.
+(c) If the proposed Executive order or proclamation is disapproved by the Director of the Office of Management and Budget or by the Attorney General, it shallnot thereafter be presented to the President unless it is accompanied by a statement of the reasons for such disapproval.
 
 Sec. 3. <i>Routing and certification of originals and copies</i>. (a) If the order or proclamation is signed by the President, the original and two copies thereof shall be forwarded to the Director of the Office of the Federal Register for publication in the
 
 Federal Register.
 
-(b) The Office of the Federal Register shall cause to be placed upon the copies of all Executive orders andproclamations forwarded as provided in subsection (a) of this section the following notation, to be signed by the Director or by some person authorized by him to sign such notation: “Certified to be a true copy of the original.”
+(b) The Office of the Federal Register shall cause to be placed upon the copies of all Executive orders and proclamations forwarded as provided in subsection (a) of this section the following notation, to be signed by the Director or by some person authorized by him to sign such notation: "Certified to be a true copy of the original."
 
 Sec. 4. <i>Proclamations calling for the observance of special days or events</i>. Except as may be otherwise provided by law, responsibility for the preparation and presentation of proposed proclamations calling for the observance of special days, or other periods of time, or events shall be assigned by the Director of the Office of Management and Budget to such agencies as he may consider appropriate. Such proposed proclamations shall be submitted to the Director at least sixty days before the date of the specified observance. Notwithstanding the provisions of Section 2, the Director shall transmit any approved commemorative proclamations to the President.
 
 Sec. 5. <i>Proclamations of treaties excluded</i>. Consonant with the provisions of section 1511 of title 44, United States Code (49 Stat. 503 \[sic\]; 44 U.S.C. 1511), nothing in this order shall be construed to apply to treaties, conventions, protocols, or other international agreements, or proclamations thereof by the President.
 
-Sec. 6. <i>Definition</i>. The term “Presidential proclamations and Executive orders,” as used in subsection 1505(a) of title 44, United States Code (44 U.S.C. 1505(a)), shall, except as the President or his representative may hereafter otherwise direct, be deemed to include such attachments thereto as are referred to in the respective proclamations or orders.
+Sec. 6. <i>Definition</i>. The term "Presidential proclamations and Executive orders," as used in subsection 1505(a) of title 44, United States Code (44 U.S.C. 1505(a)), shall, except as the President or his representative may hereafter otherwise direct, be deemed to include such attachments thereto as are referred to in the respective proclamations or orders.
 
 Sec. 7. <i>Prior order</i>. Upon its publication in the
 

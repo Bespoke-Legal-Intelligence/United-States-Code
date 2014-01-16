@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Little League Baseball, Incorporated (in this chapter, the “corporation”), is a federally chartered corporation.
+Federal Charter.—Little League Baseball, Incorporated (in this chapter, the "corporation"), is a federally chartered corporation.
 
 (b)
 

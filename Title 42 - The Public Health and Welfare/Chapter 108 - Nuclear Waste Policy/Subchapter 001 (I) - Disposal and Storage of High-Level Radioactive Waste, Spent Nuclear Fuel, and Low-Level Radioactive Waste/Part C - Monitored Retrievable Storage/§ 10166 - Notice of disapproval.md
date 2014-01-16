@@ -14,5 +14,5 @@ For purposes of carrying out the provisions of this subsection,<sup>1</sup> refe
 
 Pub. L. 100–202 and Pub. L. 100–203 added identical sections.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section,".</i>
 

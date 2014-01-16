@@ -2,19 +2,19 @@
 
 As used in this subchapter:
 
-&emsp;(1) The term “Secretary” means the Secretary of Energy.
+&emsp;(1) The term "Secretary" means the Secretary of Energy.
 
-&emsp;(2) The term “electric utility” means any person, State agency, or Federal agency which sells electric energy.
+&emsp;(2) The term "electric utility" means any person, State agency, or Federal agency which sells electric energy.
 
-&emsp;(3) The term “Federal agency” means any agency or instrumentality of the United States.
+&emsp;(3) The term "Federal agency" means any agency or instrumentality of the United States.
 
-&emsp;(4) The term “State agency” means a State, political subdivision thereof, or any agency or instrumentality of either.
+&emsp;(4) The term "State agency" means a State, political subdivision thereof, or any agency or instrumentality of either.
 
-&emsp;(5) The term “State utility regulatory commission” means (A) any utility regulatory commission which is a State agency or (B) the Tennessee Valley Authority.
+&emsp;(5) The term "State utility regulatory commission" means (A) any utility regulatory commission which is a State agency or (B) the Tennessee Valley Authority.
 
-&emsp;(6) The term “State” means any State, the District of Columbia, Puerto Rico, and any territory or possession of the United States.
+&emsp;(6) The term "State" means any State, the District of Columbia, Puerto Rico, and any territory or possession of the United States.
 
-&emsp;(7) The term “utility regulatory commission” means any State agency or Federal agency which has authority to fix, modify, approve, or disapprove rates for the sale of electric energy by any electric utility (other than by such agency).
+&emsp;(7) The term "utility regulatory commission" means any State agency or Federalagency which has authority to fix, modify, approve, or disapprove rates for the sale of electric energy by any electric utility (other than by such agency).
 
 (Pub. L. 94–385, title II, §202, Aug. 14, 1976, 90 Stat. 1142; Pub. L. 95–617, title I, §143, Nov. 9, 1978, 92 Stat. 3134; Pub. L. 105–388, §5(b)(2), Nov. 13, 1998, 112 Stat. 3479.)
 
@@ -22,5 +22,5 @@ As used in this subchapter:
 
 <b>1998</b>—Par. (1). Pub. L. 105–388 made technical amendment by striking heading and designation which had been inserted by Pub. L. 95–617.
 
-<b>1978</b>—Par. (1). Pub. L. 95–617 substituted “The term ‘Secretary’ means the Secretary of Energy” for “The term ‘Administrator’ means the Administrator of the Federal Energy Administration; except that after such Administration ceases to exist, such term means any officer of the United States designated by the President for purposes of this subchapter”.
+<b>1978</b>—Par. (1). Pub. L. 95–617 substituted "The term 'Secretary' means the Secretary of Energy" for "The term 'Administrator' means the Administrator of the Federal Energy Administration; except that after such Administration ceases to exist, such term means any officer of the United States designated by the President for purposes of this subchapter".
 

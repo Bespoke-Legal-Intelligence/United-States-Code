@@ -34,7 +34,7 @@ Historical and Revision Notes
 
 Apr. 6, 1988, Pub. L. 100–281, §9, 102 Stat. 74.
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (b), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
+In subsection (b), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title.
 

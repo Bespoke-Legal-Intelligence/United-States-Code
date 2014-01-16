@@ -46,7 +46,7 @@ Scope of Enforcement.—This section shall apply to the following:
 
 &emsp;(1) Any military or Department of Defense property disposed of after January 6, 2011, in a manner that is not in accordance with statutes and regulations governing Government property in effect at the time of the disposal of such property.
 
-&emsp;(2) Any significant military equipment disposed of on or after January 1, 2002, in a manner that is not in accordance with statutes and regulations governing Government property in effect at the time of the disposal of such significant military equipment.
+&emsp;(2) Any significant military equipment disposed of on or after January 1, 2002, in a manner that is not in accordance with statutesand regulations governing Government property in effect at the time of the disposal of such significant military equipment.
 
 (h)
 
@@ -56,17 +56,17 @@ Rule of Construction.—The authority of this section is in addition to any othe
 
 Definitions.—In this section:
 
-&emsp;(1) The term “significant military equipment” means defense articles on the United States Munitions List for which special export controls are warranted because of their capacity for substantial military utility or capability.
+&emsp;(1) The term "significant military equipment" means defense articles on the United States Munitions List for which special export controls are warranted because of their capacity for substantial military utility or capability.
 
-&emsp;(2) The term “museum” has the meaning given that term in section 273(1) of the Museum Services Act (20 U.S.C. 9172(1)).
+&emsp;(2) The term "museum" has the meaning given that term in section 273(1) of the Museum Services Act (20 U.S.C. 9172(1)).
 
-&emsp;(3) The term “fully demilitarized” means, with respect to equipment or material, the destruction of the military offensive or defensive advantages inherent in the equipment or material, including, at a minimum, the destruction or disabling of key points of such equipment or material, such as the fuselage, tail assembly, wing spar, armor, radar and radomes, armament and armament provisions, operating systems and software, and classified items.
+&emsp;(3) The term "fully demilitarized" means, with respect to equipment or material, the destruction of the military offensive or defensive advantages inherent in the equipment or material, including, at a minimum, the destruction or disabling of key points of such equipment or material, such as the fuselage, tail assembly, wing spar, armor, radar and radomes, armament and armament provisions, operating systems and software, and classified items.
 
-&emsp;(4) The term “veterans organization” means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under section 5902 of title 38.
+&emsp;(4) The term "veterans organization" means any organization recognized by the Secretary of Veterans Affairs for the representation of veterans under section 5902 of title 38.
 
 (Added Pub. L. 111–383, div. A, title III, §355(a), Jan. 7, 2011, 124 Stat. 4195; amended Pub. L. 112–239, div. A, title X, §1076(e)(5), Jan. 2, 2013, 126 Stat. 1951.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (g)(1). Pub. L. 112–239 substituted “after January 6, 2011,” for “on or after the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011”.
+<b>2013</b>—Subsec. (g)(1). Pub. L. 112–239 substituted "after January 6, 2011," for "on or after the date of the enactment of the Ike Skelton National Defense Authorization Act for Fiscal Year 2011".
 

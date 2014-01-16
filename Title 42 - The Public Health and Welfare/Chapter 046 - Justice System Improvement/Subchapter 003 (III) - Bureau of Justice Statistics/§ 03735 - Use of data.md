@@ -22,5 +22,5 @@ Section 3739, Pub. L. 90–351, title I, §309, as added Pub. L. 94–503, title
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–162 substituted “private person or public agency” for “particular individual”.
+<b>2006</b>—Pub. L. 109–162 substituted "private person or public agency" for "particular individual".
 

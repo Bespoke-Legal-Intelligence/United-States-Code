@@ -6,7 +6,7 @@ The National Commission shall call general conferences for the discussion of mat
 
 #### Repeal of Reporting Requirements
 
-<i>Pub. L. 89–348, §1(21), Nov. 8, 1965, 79 Stat. 1311, repealed provisions of this section which required an annual report to the Congress by the National Commission on Educational, Sci</i><i>entific, and Cultural Cooperation and the Secretary of State of the receipts and expenditures of funds and bequests received and disbursed in connection with the United Nations Educational, Scientific, and Cultural Organization.</i>
+<i>Pub. L. 89–348, §1(21), Nov. 8, 1965, 79 Stat. 1311, repealed provisions of this section which required an annual report to the Congress by the National Commission on Educational, Scientific, and Cultural Cooperation and the Secretary of State of the receipts and expenditures of funds and bequests received and disbursed in connection with the United Nations Educational, Scientific, and Cultural Organization.</i>
 
 #### References in Text
 
@@ -14,7 +14,7 @@ The constitution of the Organization, referred to in text, is the Constitution o
 
 #### Codification
 
-“Section 5703 of title 5” substituted in text for “section 5 of the Administrative Expenses Act of 1946, as amended (5 U.S.C. 73b–2)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+"Section 5703 of title 5" substituted in text for "section 5 of the Administrative Expenses Act of 1946, as amended (5 U.S.C. 73b–2)" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

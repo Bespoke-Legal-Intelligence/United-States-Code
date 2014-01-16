@@ -162,7 +162,7 @@ The Secretary may use centers established under section 278k of this title to pr
 
 #### (q) Minimizing risk
 
-The Secretary shall promulgate regulations and policies to carry out this section in accordance with Office of Management and Budget Circular No. A–129, entitled “Policies for Federal Credit Programs and Non-Tax Receivables”, as in effect on January 4, 2011.
+The Secretary shall promulgate regulations and policies to carry out this section in accordance with Office of Management and Budget Circular No. A–129, entitled "Policies for Federal Credit Programs and Non-Tax Receivables", as in effect on January 4, 2011.
 
 #### (r) Sense of Congress
 
@@ -178,27 +178,27 @@ In this section:
 
 #### (1) Cost
 
-&emsp;The term “cost” has the meaning given such term under section 661a of title 2.
+&emsp;The term "cost" has the meaning given such term under section 661a of title 2.
 
 #### (2) Innovative process
 
-&emsp;The term “innovative process” means a process that is significantly improved as compared to the process in general use in the commercial marketplace in the United States at the time the loan guarantee is issued.
+&emsp;The term "innovative process" means a process that is significantly improved as compared to the process in general use in the commercial marketplace in the United States at the time the loan guarantee is issued.
 
 #### (3) Innovative technology
 
-&emsp;The term “innovative technology” means a technology that is significantly improved as compared to the technology in general use in the commercial marketplace in the United States at the time the loan guarantee is issued.
+&emsp;The term "innovative technology" means a technology that is significantly improved as compared to the technology in general use in the commercial marketplace in the United States at the time the loan guarantee is issued.
 
 #### (4) Loan guarantee
 
-&emsp;The term “loan guarantee” has the meaning given such term in section 661a of title 2. The term includes a loan guarantee commitment (as defined in section 661a of title 2).
+&emsp;The term "loan guarantee" has the meaning given such term in section 661a of title 2. Theterm includes a loan guarantee commitment (as defined in section 661a of title 2).
 
 #### (5) Obligation
 
-&emsp;The term “obligation” means the loan or other debt obligation that is guaranteed under this section.
+&emsp;The term "obligation" means the loan or other debt obligation that is guaranteed under this section.
 
 #### (6) Program
 
-&emsp;The term “program” means the loan guarantee program established in subsection (a).
+&emsp;The term "program" means the loan guarantee program established in subsection (a).
 
 #### (t) Authorization of appropriations
 
@@ -208,5 +208,5 @@ There are authorized to be appropriated $20,000,000 for each of fiscal years 201
 
 #### Change of Name
 
-Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives byHouse Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
+Committee on Science and Technology of House of Representatives changed to Committee on Science, Space, and Technology of House of Representatives by House Resolution No. 5, One Hundred Twelfth Congress, Jan. 5, 2011.
 

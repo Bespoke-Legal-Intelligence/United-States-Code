@@ -62,7 +62,7 @@ Amendment by Pub. L. 93–344 effective on day on which first Director of Congre
 
 #### Authorization of Appropriations
 
-Pub. L. 97–108, §3, Dec. 23, 1981, 95 Stat. 1511, provided that: “There are authorized to be appropriated suchsums as may be necessary to carry out this Act \[amending this section and enacting provisions set out as notes under this section and section 621 of this title\].”
+Pub. L. 97–108, §3, Dec. 23, 1981, 95 Stat. 1511, provided that: “There are authorized to be appropriated such sums as may be necessary to carry out this Act \[amending this section and enacting provisions set out as notes under this section and section 621 of this title\].”
 
 #### Expiration of Authorization
 

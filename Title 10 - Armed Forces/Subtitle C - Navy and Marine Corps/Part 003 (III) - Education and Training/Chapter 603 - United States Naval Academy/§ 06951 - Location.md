@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 R.S. 1511.
 
-The words “United States” are inserted before the words “Naval Academy” to state the full title. The word “established” is omitted as executed. The words “in the State of” are omitted as surplusage.
+The words "United States" are inserted before the words "Naval Academy" to state the full title. The word "established" is omitted as executed. The words "in the State of" are omitted as surplusage.
 

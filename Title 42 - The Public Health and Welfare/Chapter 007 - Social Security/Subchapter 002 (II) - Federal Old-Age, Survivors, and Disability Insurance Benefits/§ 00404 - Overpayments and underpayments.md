@@ -6,7 +6,7 @@
 
 &emsp;(A) With respect to payment to a person of more than the correct amount, the Commissioner of Social Security shall decrease any payment under this subchapter to which such overpaid person is entitled, or shall require such overpaid person or his estate to refund the amount in excess of the correct amount, or shall decrease any payment under this subchapter payable to his estate or to any other person on the basis of the wages and self-employment income which were the basis of the payments to such overpaid person, or shall obtain recovery by means of reduction in tax refunds based on notice to the Secretary of the Treasury as permitted under section 3720A of title 31, or shall apply any combination of the foregoing. A payment made under this subchapter on the basis of an erroneous report of death by the Department of Defense of an individual in the line of duty while he is a member of the uniformed services (as defined in section 410(m) of this title) on active duty (as defined in section 410(l) of this title) shall not be considered an incorrect payment for any month prior to the month such Department notifies the Commissioner of Social Security that such individual is alive.
 
-&emsp;(B)(i) Subject to clause (ii), with respect to payment to a person of less than the correct amount, the Commissioner of Social Security shall make payment of the balance of the amount due such underpaid person, or, if such person dies before payments are completed or before negotiating one or more checks representing correct payments, disposition of the amount due shall be made in accordance with subsection (d) of this section.
+&emsp;(B)(i) Subject to clause (ii), with respect to payment to a person of less than the correct amount, the Commissioner of Social Security shall make payment of the balance of the amount due such underpaid person, or, if such person dies before payments are completed orbefore negotiating one or more checks representing correct payments, disposition of the amount due shall be made in accordance with subsection (d) of this section.
 
 &emsp;(ii) No payment shall be made under this subparagraph to any person during any period for which monthly insurance benefits of such person—
 
@@ -50,7 +50,7 @@ If an individual dies before any payment due him under this subchapter is comple
 
 &emsp;(5) if there is no person who meets the requirements of paragraph (1), (2), (3), or (4), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the person or persons, if any, determined by the Commissioner of Social Security to be the child or children of the deceased individual (and, in case there is more than one such child, in equal parts to each such child);
 
-&emsp;(6) if there is no person who meets the requirements of paragraph (1), (2), (3), (4), or (5), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the parent or parents, if any, of the deceased individual (and, in case there is more than one such parent, in equal parts to each such parent); or
+&emsp;(6) if there is no person who meets the requirements of paragraph (1), (2), (3), (4), or (5),or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the parent or parents, if any, of the deceased individual (and, in case there is more than one such parent, in equal parts to each such parent); or
 
 &emsp;(7) if there is no person who meets the requirements of paragraph (1), (2), (3), (4), (5), or (6), or if each person who meets such requirements dies before the payment due him under this subchapter is completed, to the legal representative of the estate of the deceased individual, if any.
 
@@ -62,7 +62,7 @@ For payments which are adjusted by reason of payment of benefits under the suppl
 
 (1) With respect to any deliquent <sup>1</sup> amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5, all as in effect immediately after April 26, 1996.
 
-(2) For purposes of paragraph (1), the term “delinquent amount” means an amount—
+(2) For purposes of paragraph (1), the term "delinquent amount" means an amount—
 
 &emsp;(A) in excess of the correct amount of payment under this subchapter;
 
@@ -74,31 +74,31 @@ For payments which are adjusted by reason of payment of benefits under the suppl
 
 For provisions relating to the cross-program recovery of overpayments made under programs administered by the Commissioner of Social Security, see section 1320b–17 of this title.
 
-(Aug. 14, 1935, ch. 531, title II, §204, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1368; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(a), 68 Stat. 1085; Pub. L. 89–97, title III, §329, July 30, 1965, 79 Stat. 401; Pub. L. 90–248, title I, §§152, 153(a), 154(a), Jan. 2, 1968, 81 Stat. 860, 861; Pub.L. 96–265, title V, §501(b), June 9, 1980, 94 Stat. 470; Pub. L. 99–272, title XII, §12113(a), Apr. 7, 1986, 100 Stat. 288; Pub. L. 101–239, title X, §10305(b), Dec. 19, 1989, 103 Stat. 2483; Pub. L. 101–508, title V, §5129(a), Nov. 5, 1990, 104 Stat. 1388–287; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–387, §5(a), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(z)(2)(A), Apr. 26, 1996, 110 Stat. 1321–379; Pub. L. 104–316, title I, §115(g)(2)(E), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–306, §8(b)(1), Oct. 28, 1998, 112 Stat. 2929; Pub. L. 106–169, title II, §§201(a), 203(c), Dec. 14, 1999, 113 Stat. 1831, 1832; Pub. L. 108–203, title II, §210(b)(1), Mar. 2, 2004, 118 Stat. 517; Pub. L. 111–115, §2(a), Dec. 15, 2009, 123 Stat. 3029.)
+(Aug. 14, 1935, ch. 531, title II, §204, 49 Stat. 624; Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, 1368; Aug. 28, 1950, ch. 809, title I, §109(b)(1), 64 Stat. 523; Sept. 1, 1954, ch. 1206, title I, §111(a), 68 Stat. 1085; Pub. L. 89–97, title III, §329, July 30, 1965, 79 Stat. 401; Pub. L. 90–248, title I, §§152, 153(a), 154(a), Jan. 2, 1968, 81 Stat. 860, 861; Pub. L. 96–265, title V, §501(b), June 9, 1980, 94 Stat. 470; Pub. L. 99–272, title XII, §12113(a), Apr. 7, 1986, 100 Stat. 288; Pub. L. 101–239, title X, §10305(b), Dec. 19, 1989, 103 Stat. 2483; Pub. L. 101–508, title V, §5129(a), Nov. 5, 1990, 104 Stat. 1388–287; Pub. L. 103–296, title I, §107(a)(4), Aug. 15, 1994, 108 Stat. 1478; Pub. L. 103–387, §5(a), Oct. 22, 1994, 108 Stat. 4077; Pub. L. 104–134, title III, §31001(z)(2)(A), Apr. 26, 1996, 110 Stat. 1321–379; Pub. L. 104–316, title I, §115(g)(2)(E), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 105–306, §8(b)(1), Oct. 28, 1998, 112 Stat. 2929; Pub. L. 106–169, title II, §§201(a), 203(c), Dec. 14, 1999, 113 Stat. 1831, 1832; Pub. L. 108–203, title II, §210(b)(1), Mar. 2, 2004, 118 Stat. 517; Pub. L. 111–115, §2(a), Dec. 15, 2009, 123 Stat. 3029.)
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(1)(B). Pub. L. 111–115 designated existing provisions as cl. (i), substituted “Subject to clause (ii), with” for “With”, and added cls. (ii) and (iii).
+<b>2009</b>—Subsec. (a)(1)(B). Pub. L. 111–115 designated existing provisions as cl. (i), substituted "Subject to clause (ii), with" for "With", and added cls. (ii) and (iii).
 
-<b>2004</b>—Subsec. (g). Pub. L. 108–203 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “For payments which are adjusted or withheld to recover an overpayment of supplemental security income benefits paid under subchapter XVI of this chapter (including State supplementary payments paid under an agreement pursuant to section 1382e(a) of this title or section 212(b) of Public Law 93–66), see section 1320b–17 of this title.”
+<b>2004</b>—Subsec. (g). Pub. L. 108–203 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "For payments which are adjusted or withheld to recover an overpayment of supplemental security income benefits paid under subchapter XVI of this chapter (including State supplementary payments paid under an agreement pursuant to section 1382e(a) of this title or section 212(b) of Public Law 93–66), see section 1320b–17 of this title."
 
-<b>1999</b>—Subsec. (a)(2). Pub. L. 106–169, §201(a), inserted at end “If any payment of more than the correct amount is made to a representative payee on behalf of an individual after the individual's death, the representative payee shall be liable for the repayment of the overpayment, and the Commissioner of Social Security shall establish an overpayment control record under the social security account number of the representative payee.”
+<b>1999</b>—Subsec. (a)(2). Pub. L. 106–169, §201(a), inserted at end "If any payment of more than the correct amount is made to a representative payee on behalf of an individual after the individual's death, the representative payee shall be liable for the repayment of the overpayment, and the Commissioner of Social Security shall establish an overpayment control record under the social security account number of the representative payee."
 
-Subsec. (f)(1). Pub. L. 106–169, §203(c), substituted “3711(f)” for “3711(e)” and inserted “all” before “as in effect”.
+Subsec. (f)(1). Pub. L. 106–169, §203(c), substituted "3711(f)" for "3711(e)" and inserted "all" before "as in effect".
 
 <b>1998</b>—Subsec. (g). Pub. L. 105–306 added subsec. (g).
 
-<b>1996</b>—Subsec. (f). Pub. L. 104–134, which directed that subsec. (f) be amended to read as follows: “(f)(1) With respect to any deliquent amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5, as in effect immediately after April 26, 1996.”, was executed by substituting the new language for par. (1) only to reflect the probable intent of Congress. Prior to amendment, par. (1) read as follows: “With respect to any delinquent amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, and 3718 of title 31 as in effect on October 1, 1994.”
+<b>1996</b>—Subsec. (f). Pub. L. 104–134, which directed that subsec. (f) be amended to read as follows: "(f)(1) With respect to any deliquent amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, 3717, and 3718 of title 31 and in section 5514 of title 5, as in effect immediately after April 26, 1996.", was executed by substituting the new language for par. (1) only to reflect the probable intent of Congress. Prior to amendment, par. (1) read as follows: "With respect to any delinquent amount, the Commissioner of Social Security may use the collection practices described in sections 3711(f), 3716, and 3718 of title 31 as in effect on October 1, 1994."
 
-Subsec. (f)(1). Pub. L. 104–316 substituted “sections 3711(e)” for “sections 3711(f)”.
+Subsec. (f)(1). Pub. L. 104–316 substituted "sections 3711(e)" for "sections 3711(f)".
 
-<b>1994</b>—Subsecs. (a)(1), (b), (d)(1), (4), (5). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+<b>1994</b>—Subsecs. (a)(1), (b), (d)(1), (4), (5). Pub. L. 103–296, §107(a)(4), substituted "Commissioner of Social Security" for "Secretary" wherever appearing.
 
 Subsec. (f). Pub. L. 103–387 added subsec. (f).
 
-<b>1990</b>—Subsec. (a)(1)(A). Pub. L. 101–508 inserted “or shall obtain recovery by means of reduction in tax refunds based on notice to the Secretary of the Treasury as permitted under section 3720A of title 31,” after “payments to such overpaid person,”.
+<b>1990</b>—Subsec. (a)(1)(A). Pub. L. 101–508 inserted "or shall obtain recovery by means of reduction in tax refunds based on notice to the Secretary of the Treasury as permitted under section 3720A of title 31," after "payments to such overpaid person,".
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–239 inserted at end “In making for purposes of this subsection any determination of whether any individual is without fault, the Secretary shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language).”
+<b>1989</b>—Subsec. (b). Pub. L. 101–239 inserted at end "In making for purposes of this subsection any determination of whether any individual is without fault, the Secretary shall specifically take into account any physical, mental, educational, or linguistic limitation such individual may have (including any lack of facility with the English language)."
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–272 redesignated existing subsec. (a) as (a)(1) and pars. (1) and (2) thereof as subpars. (A) and (B), respectively, and added par. (2).
 
@@ -116,29 +116,29 @@ Subsec. (d). Pub. L. 90–248, §154(a), struck out, in text preceding par. (1),
 
 <b>1965</b>—Subsec. (d). Pub. L. 89–97 added subsec. (d).
 
-<b>1954</b>—Subsec. (a). Act Sept. 1, 1954, inserted “and self-employment income” after “wages” in second sentence.
+<b>1954</b>—Subsec. (a). Act Sept. 1, 1954, inserted "and self-employment income" after "wages" in second sentence.
 
-<b>1950</b>—Act Aug. 28, 1950, substituted “Administrator” for “board”.
+<b>1950</b>—Act Aug. 28, 1950, substituted "Administrator" for "board".
 
 <b>1939</b>—Act Aug. 10, 1939, omitted former provisions relating to payments to aged individuals not qualified for benefits and substituted the present section relating to overpayments and underpayments.
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–115, §2(c), Dec. 15, 2009, 123 Stat. 3030, provided that: “The amendments made by this section \[amending this section and section 1383 of this title\] shall be effective for payments that would otherwise be made on or after the date of the enactment of this Act \[Dec. 15, 2009\].”
+Pub. L. 111–115, §2(c), Dec. 15, 2009, 123 Stat. 3030, provided that: "The amendments made by this section \[amending this section and section 1383 of this title\] shall be effective for payments that would otherwise be made on or after the date of the enactment of this Act \[Dec. 15, 2009\]."
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–203, title II, §210(c), Mar. 2, 2004, 118 Stat. 517, provided that: “The amendments and repeal made by this section \[amending this section and sections 1008, 1320b–17, and 1383 of this title and repealing section 1320b–18 of this title\] shall take effect on the date of enactment of this Act \[Mar. 2, 2004\], and shall be effective with respect to overpayments under titles II, VIII, and XVI of the Social Security Act \[subchapters II, VIII, and XVI of this chapter\] that are outstanding on or after such date.”
+Pub. L. 108–203, title II, §210(c), Mar. 2, 2004, 118 Stat. 517, provided that: "The amendments and repeal made by this section \[amending this section and sections 1008, 1320b–17, and 1383 of this title and repealing section 1320b–18 of this title\] shall take effect on the date of enactment of this Act \[Mar. 2, 2004\], and shall be effective with respect to overpayments under titles II, VIII, and XVI of the Social Security Act \[42 U.S.C. 401 et seq., 1001 et seq., 1381 et seq.\] that are outstanding on or after such date."
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–169, title II, §201(c), Dec. 14, 1999, 113 Stat. 1831, provided that: “The amendments made by this section \[amending this section and section 1383 of this title\] shall apply to overpayments made 12 months or more after the date of the enactment of this Act \[Dec. 14, 1999\].”
+Pub. L. 106–169, title II, §201(c), Dec. 14, 1999, 113 Stat. 1831, provided that: "The amendments made by this section \[amending this section and section 1383 of this title\] shall apply to overpayments made 12 months or more after the date of the enactment of this Act \[Dec. 14, 1999\]."
 
 Amendment by section 203(c) of Pub. L. 106–169 applicable to debt outstanding on or after Dec. 14, 1999, see section 203(d) of Pub. L. 106–169, set out as a note under section 3701 of Title 31, Money and Finance.
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–306, §8(c), Oct. 28, 1998, 112 Stat. 2930, provided that: “The amendments made by this section \[enacting section 1320b–17 of this title and amending this section and section 1383 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\] and shall apply to amounts incorrectly paid which remain outstanding on or after such date.”
+Pub. L. 105–306, §8(c), Oct. 28, 1998, 112 Stat. 2930, provided that: "The amendments made by this section \[enacting section 1320b–17 of this title and amending this section and section 1383 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 28, 1998\] and shall apply to amounts incorrectly paid which remain outstanding on or after such date."
 
 #### Effective Date of 1994 Amendments
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 101–239 applicable with respect to determinations made on
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–272, title XII, §12113(c), Apr. 7, 1986, 100 Stat. 289, provided that: “The amendments made by this section \[amending this section and section 1383 of this title\] shall apply only in the case of deaths of which the Secretary is first notified on or after the date of the enactment of this Act \[Apr. 7, 1986\].”
+Pub. L. 99–272, title XII, §12113(c), Apr. 7, 1986, 100 Stat. 289, provided that: "The amendments made by this section \[amending this section and section 1383 of this title\] shall apply only in the case of deaths of which the Secretary is first notified on or after the date of the enactment of this Act \[Apr. 7, 1986\]."
 
 #### Effective Date of 1980 Amendment
 
@@ -164,11 +164,11 @@ Amendment by Pub. L. 96–265 applicable in the case of payments of monthly insu
 
 #### Effective Date of 1968 Amendment
 
-Pub. L. 90–248, title I, §153(b), Jan. 2, 1968, 81 Stat. 861, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to benefits under title II of the Social Security Act \[this subchapter\] if the individual to whom such benefits were paid would have been entitled to such benefits in or after the month in which this Act was enacted \[January 1968\] if the report mentioned in the amendment made by subsection (a) of this section had been correct (but without regard to the provisions of section 202(j)(1) of such Act \[section 402(j)(1) of this title\]).”
+Pub. L. 90–248, title I, §153(b), Jan. 2, 1968, 81 Stat. 861, provided that: "The amendment made by this section \[amending this section\] shall apply with respect to benefits under title II of the Social Security Act \[this subchapter\] if the individual to whom such benefits were paid would have been entitled to such benefits in or after the month in which this Act was enacted \[January 1968\] if the report mentioned in the amendment made by subsection (a) of this section had been correct (but without regard to the provisions of section 202(j)(1) of such Act \[42 U.S.C. 402(j)(1)\])."
 
 #### Effective Date of 1939 Amendment
 
 Act Aug. 10, 1939, ch. 666, title II, §201, 53 Stat. 1362, provided that the amendment made by that section is effective Jan. 1, 1940.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “delinquent”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "delinquent".</i>
 

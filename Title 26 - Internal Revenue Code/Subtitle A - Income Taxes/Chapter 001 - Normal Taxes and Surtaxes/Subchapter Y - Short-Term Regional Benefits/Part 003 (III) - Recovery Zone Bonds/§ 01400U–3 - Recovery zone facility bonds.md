@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-For purposes of part IV of subchapter B (relating to tax exemption requirements for State andlocal bonds), the term “exempt facility bond” includes any recovery zone facility bond.
+For purposes of part IV of subchapter B (relating to tax exemption requirements for State andlocal bonds), the term "exempt facility bond" includes any recovery zone facility bond.
 
 #### (b) Recovery zone facility bond
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “recovery zone facility bond” means any bond issued as part of an issue if—
+&emsp;For purposes of this section, the term "recovery zone facility bond" means any bond issued as part of an issue if—
 
 &emsp;&emsp;(A) 95 percent or more of the net proceeds (as defined in section 150(a)(3)) of such issue are to be used for recovery zone property,
 
@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “recovery zone property” means any property to which section 168 applies (or would apply but for section 179) if—
+&emsp;The term "recovery zone property" means any property to which section 168 applies (or would apply but for section 179) if—
 
 &emsp;&emsp;(A) such property was constructed, reconstructed, renovated, or acquired by purchase (as defined in section 179(d)(2)) by the taxpayer after the date on which the designation of the recovery zone took effect,
 
@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (2) Qualified business
 
-&emsp;The term “qualified business” means any trade or business except that—
+&emsp;The term "qualified business" means any trade or business except that—
 
 &emsp;&emsp;(A) the rental to others of real property located in a recovery zone shall be treated as a qualified business only if the property is not residential rental property (as defined in section 168(e)(2)), and
 

@@ -34,15 +34,15 @@ SIPC shall consult and cooperate with the self-regulatory organizations toward t
 
 The Commission may, by such rules as it determines necessary or appropriate in the public interest and to carry out the purposes of this chapter, require any self-regulatory organization to furnish SIPC with reports and records (or copies thereof) relating to the financial condition of members of or participants in such self-regulatory organization.
 
-(Pub. L. 91–598, §13, formerly §9, Dec. 30, 1970, 84 Stat. 1654; amended Pub. L. 94–29, §26, June 4, 1975, 89 Stat. 163; renumbered §13 and amended Pub. L. 95–283, §§9, 12, May 21, 1978, 92 Stat. 260, 269.)
+(Pub. L. 91–598, §13, formerly §9, Dec. 30, 1970, 84 Stat. 1654; amended Pub. L. 94–29, §26, June 4,1975, 89 Stat. 163; renumbered §13 and amended Pub. L. 95–283, §§9, 12, May 21, 1978, 92 Stat. 260, 269.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsec. (f), was in the original "this Act", meaning Pub. L. 91–598, Dec. 30, 1970, 84 Stat. 1636. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–283, §12(a), in heading substituted “Collection” for “Collecting”, and in text inserted provisions relating to designation of a self-regulatory organization other than the examining authority to act as collection agent and provisions relating to designation of a registered clearing agency as collection agent, and substituted provisions relating to remittances by the collection agent to SIPC, for provisions relating to remittances by an examining authority to SIPC.
+<b>1978</b>—Subsec. (a). Pub. L. 95–283, §12(a), in heading substituted "Collection" for "Collecting", and in text inserted provisions relating to designation of a self-regulatory organization other than the examining authority to act as collection agent and provisions relating to designation of a registered clearing agency as collection agent, and substituted provisions relating to remittances by the collection agent to SIPC, for provisions relating to remittances by an examining authority to SIPC.
 
 Subsec. (b). Pub. L. 95–283, §12(b), inserted reference to section 78eee(a)(2) of this title.
 

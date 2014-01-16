@@ -2,17 +2,17 @@
 
 When used in this chapter—
 
-&emsp;(1) The term “person” includes individuals, partnerships, corporations, and associations.
+&emsp;(1) The term "person" includes individuals, partnerships, corporations, and associations.
 
-&emsp;(2) The term “Secretary of Agriculture” means the Secretary of Agriculture of the United States.
+&emsp;(2) The term "Secretary of Agriculture" means the Secretary of Agriculture of the United States.
 
-&emsp;(3) Except as provided herein, the term “foreign commerce” means commerce between any State, or the District of Columbia, and any place outside of the United States or its possessions.
+&emsp;(3) Except as provided herein, the term "foreign commerce" means commerce between any State, or the District of Columbia, and any place outside of the United States or its possessions.
 
-&emsp;(4) The term “apples” means fresh whole apples, whether or not the apples have been in storage.
+&emsp;(4) The term "apples" means fresh whole apples, whether or not the apples have been in storage.
 
 (June 10, 1933, ch. 59, §9, 48 Stat. 124; Pub. L. 106–96, §1(b), Nov. 12, 1999, 113 Stat. 1321.)
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–96 added par. (4) and struck out former par. (4) which read as follows: “The term ‘apples and/or pears’ means fresh whole apples or pears, whether or not they have been in storage.”
+<b>1999</b>—Pub. L. 106–96 added par. (4) and struck out former par. (4) which read as follows: "The term 'apples and/or pears' means fresh whole apples or pears, whether or not they have been in storage."
 

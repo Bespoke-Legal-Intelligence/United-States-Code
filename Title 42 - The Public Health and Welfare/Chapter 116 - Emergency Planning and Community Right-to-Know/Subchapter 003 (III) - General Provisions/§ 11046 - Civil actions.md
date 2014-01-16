@@ -96,5 +96,5 @@ This Act, referred to in subsec. (e), is Pub. L. 99–499, Oct. 17, 1986, 100 St
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

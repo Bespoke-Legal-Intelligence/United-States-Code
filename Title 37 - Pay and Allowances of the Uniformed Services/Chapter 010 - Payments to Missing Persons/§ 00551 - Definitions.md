@@ -2,7 +2,7 @@
 
 In this chapter:
 
-&emsp;(1) The term “dependent”, with respect to a member of a uniformed service, means—
+&emsp;(1) The term "dependent", with respect to a member of a uniformed service, means—
 
 &emsp;&emsp;(A) his spouse;
 
@@ -14,7 +14,7 @@ In this chapter:
 
 &emsp;&emsp;(E) a person determined to be dependent by the Secretary concerned, or his designee.
 
-&emsp;(2) The term “missing status” means the status of a member of a uniformed service who is officially carried or determined to be absent in a status of—
+&emsp;(2) The term "missing status" means the status of a member of a uniformed service who is officially carried or determined to be absent in a status of—
 
 &emsp;&emsp;(A) missing;
 
@@ -26,7 +26,7 @@ In this chapter:
 
 &emsp;&emsp;(E) detained in a foreign country against his will.
 
-&emsp;(3) The term “pay and allowances” means—
+&emsp;(3) The term "pay and allowances" means—
 
 &emsp;&emsp;(A) basic pay;
 
@@ -74,19 +74,19 @@ Mar. 7, 1942, ch. 166, §2(a) (22d through 66th and 96th through 120th words of 
 
 Only that portion of the source law which is applicable to members of the uniformed services and their dependents is codified in this section.
 
-The words “In this chapter” are substituted for “For the purpose of this Act”.
+The words "In this chapter" are substituted for "For the purpose of this Act".
 
-In clause (1), the words “with respect to a member of a uniformed service” are inserted for clarity. In clause (1)(A), the word “lawful” is omitted as unnecessary in view of the accepted recognition of the fact that the word “wife” means a lawful wife. In clause (1)(E), the words “Secretary concerned, or his designee” are substituted for “head of the department concerned, or subordinate designated by him” to conform to the definition in 37 U.S.C. 101(5). The definitions of “person”, “active service”, and “department”, respectively, in 50 App. U.S.C. 1001(a)(1), (b), and (d) are omitted as unnecessary in view of the definitions of “member”, “uniformed services”, “active service”, and “Secretary concerned”, in 37 U.S.C. 101(3), (5), (20), and (23).
+In clause (1), the words "with respect to a member of a uniformed service" are inserted for clarity. In clause (1)(A), the word "lawful" is omitted as unnecessary in view of the accepted recognition of the fact that the word "wife" means a lawful wife. In clause (1)(E), the words "Secretary concerned, or his designee" are substituted for "head of the department concerned, or subordinate designated by him" to conform to the definition in 37 U.S.C. 101(5). The definitions of "person", "active service", and "department", respectively, in 50 App. U.S.C. 1001(a)(1), (b), and (d) are omitted as unnecessary in view of the definitions of "member", "uniformed services", "active service", and "Secretary concerned", in 37 U.S.C. 101(3), (5), (20), and (23).
 
 The definitions in clauses (2) and (3), which do not appear in, but are based on, the source law are created for legislative convenience.
 
 #### Amendments
 
-<b>1997</b>—Par. (3)(D). Pub. L. 105–85 substituted “housing” for “quarters”.
+<b>1997</b>—Par. (3)(D). Pub. L. 105–85 substituted "housing" for "quarters".
 
-<b>1987</b>—Pub. L. 100–26 substituted “In this chapter:” for “In this chapter—”, inserted “The term” at beginning of pars. (1) to (3), and substituted period for semicolon at end of par. (1) and period for “; and” at end of par. (2).
+<b>1987</b>—Pub. L. 100–26 substituted "In this chapter:" for "In this chapter—", inserted "The term" at beginning of pars. (1) to (3), and substituted period for semicolon at end of par. (1) and period for "; and" at end of par. (2).
 
-<b>1985</b>—Par. (1)(A). Pub. L. 99–145 substituted “spouse” for “wife”.
+<b>1985</b>—Par. (1)(A). Pub. L. 99–145 substituted "spouse" for "wife".
 
 #### Effective Date of 1997 Amendment
 

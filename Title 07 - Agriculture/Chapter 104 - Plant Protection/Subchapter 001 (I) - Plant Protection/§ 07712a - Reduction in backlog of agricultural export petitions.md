@@ -10,7 +10,7 @@ To the maximum extent practicable, the Secretary of Agriculture shall endeavor t
 
 #### (b) Report
 
-The Secretary of Agriculture shall submit to the Committee on Agriculture of the House ofRepresentatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report specifying, for the year covered by the report—
+The Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate an annual report specifying, for the year covered by the report—
 
 &emsp;(1) the total number of applications processed to completion;
 

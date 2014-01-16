@@ -70,9 +70,9 @@ Pub. L. 99–652, §8, Nov. 14, 1986, 100 Stat. 3652; Pub. L. 103–321, §2(e),
 
 40:1008(c)(2).
 
-In subsection (b)(1), the words “Notwithstanding any other provision of law” are omitted as unnecessary.
+In subsection (b)(1), the words "Notwithstanding any other provision of law" are omitted as unnecessary.
 
-In subsection (b)(2), the words “Congress authorizes and directs that” are omitted as unnecessary.
+In subsection (b)(2), the words "Congress authorizes and directs that" are omitted as unnecessary.
 
 #### References in Text
 
@@ -80,25 +80,25 @@ The date of enactment of the Commemorative Works Clarification and Revision Act 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(3), (4). Pub. L. 108–126, §203(f)(1), substituted “sponsor” for “person”.
+<b>2003</b>—Subsec. (a)(3), (4). Pub. L. 108–126, §203(f)(1), substituted "sponsor" for "person".
 
 Subsec. (b). Pub. L. 108–126, §203(f)(2), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 
-“(1)
+"(1)
 
 Amount.—In addition to the criteria described in subsection (a), a construction permit may not be issued unless the person authorized to construct the commemorative work has donated an amount equal to 10 percent of the total estimated cost of construction to offset the costs of perpetual maintenance and preservation of the commemorative work. The amounts shall be credited to a separate account in the Treasury.
 
-“(2)
+"(2)
 
 Availability.—The Secretary of the Treasury shall make any part of the donated amount available to the Secretary of the Interior or Administrator for maintenance at the request of the Secretary of the Interior or Administrator. The Secretary of the Interior or Administrator shall not request more from the separate account than the total amount deposited by persons establishing commemorative works in areas the Secretary of the Interior or Administrator administers.
 
-“(3)
+"(3)
 
 Inventory of available amounts.—The Secretary of the Interior and Administrator shall maintain an inventory of amounts available under this subsection. The amounts are not subject to annual appropriations.
 
-“(4)
+"(4)
 
-Nonapplicability.—This subsection does not apply when a department or agency of the Federal Government constructs the work and less than 50 percent of the funding for the work is provided by private sources.”
+Nonapplicability.—This subsection does not apply when a department or agency of the Federal Government constructs the work and less than 50 percent of the funding for the work is provided by private sources."
 
 #### Effective Date of 2003 Amendment
 

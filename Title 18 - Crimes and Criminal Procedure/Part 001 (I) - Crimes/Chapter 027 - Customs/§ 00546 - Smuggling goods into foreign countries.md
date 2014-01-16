@@ -18,5 +18,5 @@ The laws of the United States respecting the customs revenue, referred to in tex
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in first par.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000" in first par.
 

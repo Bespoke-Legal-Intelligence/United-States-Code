@@ -20,7 +20,7 @@ The Commission is authorized to accept, hold, administer, and utilize gifts, beq
 
 #### (2) Report required
 
-&emsp;The Commission shall report its findings to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate within 180 days after of <sup>1</sup> July 30, 2002, and shall use such findings to revise its rules and regulations as necessary. The report shall include a discussion of regulatory or legislative actions that are recommended or that may be necessary to address concerns identified in the study.
+&emsp;The Commission shall report its findings to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate within 180 days after of <sup>1</sup> July 30, 2002,and shall use such findings to revise its rules and regulations as necessary. The report shall include a discussion of regulatory or legislative actions that are recommended or that may be necessary to address concerns identified in the study.
 
 (Pub. L. 107–204, title III, §308, July 30, 2002, 116 Stat. 784; Pub. L. 111–203, title IX, §929B, July 21, 2010, 124 Stat. 1852.)
 
@@ -30,15 +30,15 @@ Section is comprised of section 308 of Pub. L. 107–204. Subsec. (d) of section
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §929B(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “If in any judicial or administrative action brought by the Commission under the securities laws (as such term is defined in section 78c(a)(47) of this title) the Commission obtains an order requiring disgorgement against any person for a violation of such laws or the rules or regulations thereunder, or such person agrees in settlement of any such action to such disgorgement, and the Commission also obtains pursuant to such laws a civil penalty against such person, the amount of such civil penalty shall, on the motion or at the direction of the Commission, be added to and become part of the disgorgement fund for the benefit of the victims of such violation.”
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §929B(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "If in any judicial or administrative action brought by the Commission under the securities laws (as such term is defined in section 78c(a)(47) of this title) the Commission obtains an order requiring disgorgement against any person for a violation of such laws or the rules or regulations thereunder, or such person agrees in settlement of any such action to such disgorgement, and the Commission also obtains pursuant to such laws a civil penalty against such person, the amount of such civil penalty shall, on the motion or at the direction of the Commission, be added to and become part of the disgorgement fund for the benefit of the victims of such violation."
 
-Subsec. (b). Pub. L. 111–203, §929B(2), substituted “for a disgorgement fund or other fund described in subsection (a)” for “for a disgorgement fund described in subsection (a)” and “in such fund” for “in the disgorgement fund”.
+Subsec. (b). Pub. L. 111–203, §929B(2), substituted "for a disgorgement fund or other fund described in subsection (a)" for "for a disgorgement fund described in subsection (a)" and "in such fund" for "in the disgorgement fund".
 
-Subsec. (e). Pub. L. 111–203, §929B(3), struck out subsec. (e). Text read as follows: “As used in this section, the term ‘disgorgement fund’ means a fund established in any administrative or judicial proceeding described in subsection (a) of this section.”
+Subsec. (e). Pub. L. 111–203, §929B(3), struck out subsec. (e). Text read as follows: "As used in this section, the term 'disgorgement fund' means a fund established in any administrative or judicial proceeding described in subsection (a) of this section."
 
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as an Effective Date note under section 5301 of Title 12, Banks and Banking.
 
-<i><sup>1</sup></i><i> So in original. The word “of” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "of" probably should not appear.</i>
 

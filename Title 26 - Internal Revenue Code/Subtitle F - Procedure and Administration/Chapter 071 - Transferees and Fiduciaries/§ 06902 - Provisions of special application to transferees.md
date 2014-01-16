@@ -12,5 +12,5 @@ Upon application to the Tax Court, a transferee of property of a taxpayer shall 
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 

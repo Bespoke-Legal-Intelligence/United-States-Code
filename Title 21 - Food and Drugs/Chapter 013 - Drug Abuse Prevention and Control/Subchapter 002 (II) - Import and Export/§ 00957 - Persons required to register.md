@@ -22,7 +22,7 @@ No person may—
 
 (2) The Attorney General may, by regulation, waive the requirement for registration of certain importers and exporters if he finds it consistent with the public health and safety; and may authorize any such importer or exporter to possess controlled substances or list I chemicals for purposes of importation and exportation.
 
-(Pub. L. 91–513, title III, §1007, Oct. 27, 1970, 84 Stat. 1288; Pub. L. 98–473, title II, §523, Oct. 12,1984, 98 Stat. 2076; Pub. L. 103–200, §3(e), Dec. 17, 1993, 107 Stat. 2337.)
+(Pub. L. 91–513, title III, §1007, Oct. 27, 1970, 84 Stat. 1288; Pub. L. 98–473, title II, §523, Oct. 12, 1984, 98 Stat. 2076; Pub. L. 103–200, §3(e), Dec. 17, 1993, 107 Stat. 2337.)
 
 #### References in Text
 
@@ -30,13 +30,13 @@ Section 802(25) of this title, referred to in subsec. (b)(1)(C), was redesignate
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–200, §3(e)(1)(A), inserted “or list I chemical” after “controlled substance”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–200, §3(e)(1)(A), inserted "or list I chemical" after "controlled substance".
 
-Subsec. (a)(2). Pub. L. 103–200, §3(e)(1)(B), substituted “or list I chemical,” for “in schedule I, II, III, IV, or V,”.
+Subsec. (a)(2). Pub. L. 103–200, §3(e)(1)(B), substituted "or list I chemical," for "in schedule I, II, III, IV, or V,".
 
-Subsec. (b)(1). Pub. L. 103–200, §3(e)(2)(A), inserted “or list I chemical” after “controlled substance” in introductory provisions and subpar. (B).
+Subsec. (b)(1). Pub. L. 103–200, §3(e)(2)(A), inserted "or list I chemical" after "controlled substance" in introductory provisions and subpar. (B).
 
-Subsec. (b)(2). Pub. L. 103–200, §3(e)(2)(B), inserted “or list I chemicals” after “controlled substances”.
+Subsec. (b)(2). Pub. L. 103–200, §3(e)(2)(B), inserted "or list I chemicals" after "controlled substances".
 
 <b>1984</b>—Subsec. (a)(2). Pub. L. 98–473 inserted reference to schedule V.
 
@@ -48,27 +48,27 @@ Amendment by Pub. L. 103–200 effective on date that is 120 days after Dec. 17,
 
 Pub. L. 91–513, title III, §1104, Oct. 27, 1970, 84 Stat. 1294, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(a)(1) Any person—
+"(a)(1) Any person—
 
-&emsp;“(A) who is engaged in importing or exporting any controlled substance on the day before the effective date of section 1007 \[May 1, 1971\],
+&emsp;"(A) who is engaged in importing or exporting any controlled substance on the day before the effective date of section 1007 \[May 1, 1971\],
 
-&emsp;“(B) who notifies the Attorney General that he is so engaged, and
+&emsp;"(B) who notifies the Attorney General that he is so engaged, and
 
-&emsp;“(C) who is registered on such day under section 510 of the Federal Food, Drug, and Cosmetic Act \[section 360 of this title\] or under section 4722 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, section 4722 of title 26\],
+&emsp;"(C) who is registered on such day under section 510 of the Federal Food, Drug, and Cosmetic Act \[section 360 of this title\] or under section 4722 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954, section 4722 of title 26\],
 
-> shall, with respect to each establishment for which such registration is in effect under any such section, be deemed to have a provisional registration under section 1008 \[section 958 of this title\] for the import or export (as the case may be) of controlled substances.
+> shall, with respect to each establishment for which such registration is in effect under any such section, bedeemed to have a provisional registration under section 1008 \[section 958 of this title\] for the import or export (as the case may be) of controlled substances.
 
-“(2) During the period his provisional registration is in effect under this section, the registration number assigned such person under such section 510 or under such section 4722 (as the case may be) shall be his registration number for purposes of part A of this title \[this subchapter\].
+"(2) During the period his provisional registration is in effect under this section, the registration number assigned such person under such section 510 or under such section 4722 (as the case may be) shall be his registration number for purposes of part A of this title \[this subchapter\].
 
-“(b) The provisions of section 304 \[section 824 of this title\], relating to suspension and revocation of registration, shall apply to a provisional registration under this section.
+"(b) The provisions of section 304 \[section 824 of this title\], relating to suspension and revocation of registration, shall apply to a provisional registration under this section.
 
-“(c) Unless sooner suspended or revoked under subsection (b), a provisional registration of a person under subsection (a)(1) of this section shall be in effect until—
+"(c) Unless sooner suspended or revoked under subsection (b), a provisional registration of a person under subsection (a)(1) of this section shall be in effect until—
 
-&emsp;“(1) the date on which such person has registered with the Attorney General under section 1008 \[section 958 of this title\] or has had his registration denied under such section, or
+&emsp;"(1) the date on which such person has registered with the Attorney General under section 1008 \[section 958 of this title\] or has had his registration denied under such section, or
 
-&emsp;“(2) such date as may be prescribed by the Attorney General for registration of importers or exporters, as the case may be,
+&emsp;"(2) such date as may be prescribed by the Attorney General for registration of importers or exporters, as the case may be,
 
-> whichever occurs first.”
+> whichever occurs first."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

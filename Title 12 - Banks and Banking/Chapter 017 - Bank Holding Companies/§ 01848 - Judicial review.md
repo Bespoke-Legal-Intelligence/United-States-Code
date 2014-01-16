@@ -8,5 +8,5 @@ Any party aggrieved by an order of the Board under this chapter may obtain a rev
 
 <b>1966</b>—Pub. L. 89–485 reduced from 60 to 30 days the period allowed for the filing of a petition to obtain judicial review of a Board order.
 
-<b>1958</b>—Pub. L. 85–791 substituted, in second sentence, “transmitted to the Board by the clerk of the court, and thereupon the Board shall file in the court the record made before the Board, as provided in section 2112 of title 28” for “served upon the Board, and thereupon the Board shall certify and file in the court a transcript of the record made before the Board”, and in third sentence, “such petition” for “the transcript”.
+<b>1958</b>—Pub. L. 85–791 substituted, in second sentence, "transmitted to the Board by the clerk of the court, and thereupon the Board shall file in the court the record made before the Board, as provided in section 2112 of title 28" for "served upon the Board, and thereupon the Board shall certify and file in the court a transcript of the record made before the Board", and in third sentence, "such petition" for "the transcript".
 

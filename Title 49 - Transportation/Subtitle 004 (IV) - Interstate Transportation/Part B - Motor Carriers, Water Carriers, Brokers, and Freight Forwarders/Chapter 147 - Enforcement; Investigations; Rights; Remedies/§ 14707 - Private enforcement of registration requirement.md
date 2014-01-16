@@ -6,7 +6,7 @@ In General.—If a person provides transportation by motor vehicle or service in
 
 (b)
 
-Procedure.—A copy of the complaint in a civil action under subsection (a) shall be servedon the Secretary and a certificate of service must appear in the complaint filed with the court. The Secretary may intervene in a civil action under subsection (a). The Secretary may notify the district court in which the action is pending that the Secretary intends to consider the matter that is the subject of the complaint in a proceeding before the Secretary. When that notice is filed, the court shall stay further action pending disposition of the proceeding before the Secretary.
+Procedure.—A copy of the complaint in a civil action under subsection (a) shall be served on the Secretary and a certificate of service must appear in the complaint filed with the court. The Secretary may intervene in a civil action under subsection (a). The Secretary may notify the district court in which the action is pending that the Secretary intends to consider the matter that is the subject of the complaint in a proceeding before the Secretary. When that notice is filed, the court shall stay further action pending disposition of the proceeding before the Secretary.
 
 (c)
 

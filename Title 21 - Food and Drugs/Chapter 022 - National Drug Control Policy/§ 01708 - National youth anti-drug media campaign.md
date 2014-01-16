@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Director shall conduct a national youth anti-drug media campaign (referred to in this chapter <sup>1</sup> as the “national media campaign”) in accordance with this section for the purposes of—
+The Director shall conduct a national youth anti-drug media campaign (referred to in this chapter <sup>1</sup> as the "national media campaign") in accordance with this section for the purposes of—
 
 &emsp;(1) preventing drug abuse among young people in the United States;
 
@@ -72,7 +72,7 @@ The Director shall conduct a national youth anti-drug media campaign (referred t
 
 &emsp;Subject to the availability of appropriations, for each fiscal year, not less than 77 percent of the amounts appropriated under this section shall be used for the purchase of advertising time and space for the national media campaign, subject to the following exceptions:
 
-&emsp;&emsp;(A) In any fiscal year for which less than $125,000,000 is appropriated for the national media campaign, not less than 72 percent of the amounts appropriated under this section shall be used for the purchase of advertising time and space for the national media campaign.
+&emsp;&emsp;(A) In any fiscal year for which less than $125,000,000 is appropriated for the national media campaign, not less than 72 percent of the amounts appropriated under this sectionshall be used for the purchase of advertising time and space for the national media campaign.
 
 &emsp;&emsp;(B) In any fiscal year for which more than $195,000,000 is appropriated under this section, not less than 82 percent shall be used for advertising production costs and the purchase of advertising time and space for the national media campaign.
 
@@ -134,7 +134,7 @@ None of the amounts made available under subsection (b) may be obligated or expe
 
 &emsp;(5) To fund advertising that does not contain a primary message intended to reduce or prevent illicit drug use.
 
-&emsp;(6) To fund advertising containing a primary message intended to promote support for themedia campaign or private sector contributions to the media campaign.
+&emsp;(6) To fund advertising containing a primary message intended to promote support for the media campaign or private sector contributions to the media campaign.
 
 #### (f) Matching requirement
 
@@ -214,7 +214,7 @@ The Director shall, to the maximum extent feasible, use amounts made available u
 
 #### (2) Authority to use funds for other drug abuse upon certification that methamphetamine abuse fell during fiscal year 2007
 
-&emsp;With respect to fiscal year 2008 and any fiscal year thereafter, if the Director certifies in writing to Congress that domestic methamphetamine laboratory seizures (as reported to the El Paso Intelligence Center of the Drug Enforcement Administration) decreased to atleast 75 percent of the 2006 level, or the Director has documented a highly, statistically significant increase in a specific drug, from a baseline determined by locally collected data, that can be defined as a local drug crisis, the Director may apply paragraph (1)(A) for that fiscal year with respect to advertisements specifically intended to reduce the use of such other drugs.
+&emsp;With respect to fiscal year 2008 and any fiscal year thereafter, if the Director certifies in writing to Congress that domestic methamphetamine laboratory seizures (as reported to the El Paso Intelligence Center of the Drug Enforcement Administration) decreased to at least 75 percent of the 2006 level, or the Director has documented a highly, statistically significant increase in a specific drug, from a baseline determined by locally collected data, that can be defined as a local drug crisis, the Director may apply paragraph (1)(A) for that fiscal year with respect to advertisements specifically intended to reduce the use of such other drugs.
 
 #### (l) Authorization of appropriations
 
@@ -228,13 +228,13 @@ There is authorized to be appropriated to the Office to carry out this section, 
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this subtitle” and was translated as reading “this title”, meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. Title VII does not contain subtitles. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this subtitle" and was translated as reading"this title", meaning title VII of Pub. L. 105–277, div. C, Oct. 21, 1998, 112 Stat. 2681–670, which is classified principally to this chapter, to reflect the probable intent of Congress. Title VII does not contain subtitles. For complete classification of title VII to the Code, see Short Title note set out under section 1701 of this title and Tables.
 
 #### Codification
 
-In subsec. (g)(1), “section 4706 of title 41” substituted for “section 304C of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254d)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (g)(1), "section 4706 of title 41" substituted for "section 304C of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 254d)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
-In subsec. (g)(2), “chapter 43 of title 41” substituted for “section 306 of such Act (41 U.S.C. 256)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (g)(2), "chapter 43 of title 41" substituted for "section 306 of such Act (41 U.S.C. 256)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
@@ -246,7 +246,7 @@ Ex. Ord. No. 12992, Mar. 15, 1996, 61 F.R. 11287, as amended by Ex. Ord. No. 130
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Establishment</i>. There is established the President's Drug Policy Council (“Council”).
+Section 1. <i>Establishment</i>. There is established the President's Drug Policy Council ("Council").
 
 Sec. 2. <i>Membership</i>. The Council shall comprise the:
 
@@ -318,9 +318,9 @@ Sec. 5. <i>Administration</i>. (a) The Council may utilize established or ad hoc
 
 Ex. Ord. No. 13023, Nov. 6, 1996, 61 F.R. 57767, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and in order to change the name of the “President's Council on Counter-Narcotics” to the “President's Drug Policy Council” and to make the Secretaries of the Interior, Agriculture, Health and Human Services, Housing and Urban Development, Education, Veterans Affairs, and the Assistant to the President for Domestic Policy, permanent members of the Council, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, and in order to change the name of the "President's Council on Counter-Narcotics" to the "President's Drug Policy Council" and to make the Secretaries of the Interior, Agriculture, Health and Human Services, Housing and Urban Development, Education, Veterans Affairs, and the Assistant to the President for Domestic Policy, permanent members of the Council, it is hereby ordered as follows:
 
-Section 1. The Council established by Executive Order 12992 \[set out above\] shall henceforth be called the “President's Drug Policy Council.”
+Section 1. The Council established by Executive Order 12992 \[set out above\] shall henceforth be called the "President's Drug Policy Council."
 
 \[
 

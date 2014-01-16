@@ -4,7 +4,7 @@ For purposes of this part:
 
 #### (1) Engineered
 
-&emsp;When referring to enhanced geothermal systems, the term “engineered” means subjectedto intervention, including intervention to address one or more of the following issues:
+&emsp;When referring to enhanced geothermal systems, the term "engineered" means subjected to intervention, including intervention to address one or more of the following issues:
 
 &emsp;&emsp;(A) Lack of effective permeability or porosity or open fracture connectivity within the reservoir.
 
@@ -14,31 +14,31 @@ For purposes of this part:
 
 #### (2) Enhanced geothermal systems
 
-&emsp;The term “enhanced geothermal systems” means geothermal reservoir systems that are engineered, as opposed to occurring naturally.
+&emsp;The term "enhanced geothermal systems" means geothermal reservoir systems that are engineered, as opposed to occurring naturally.
 
 #### (3) Geofluid
 
-&emsp;The term “geofluid” means any fluid used to extract thermal energy from the Earth which is transported to the surface for direct use or electric power generation, except that such term shall not include oil or natural gas.
+&emsp;The term "geofluid" means any fluid used to extract thermal energy from the Earth which is transported to the surface for direct use or electric power generation, except that such term shall not include oil or natural gas.
 
 #### (4) Geopressured resources
 
-&emsp;The term “geopressured resources” mean geothermal deposits found in sedimentary rocks under higher than normal pressure and saturated with gas or methane.
+&emsp;The term "geopressured resources" mean geothermal deposits found in sedimentary rocks under higher than normal pressure and saturated with gas or methane.
 
 #### (5) Geothermal
 
-&emsp;The term “geothermal” refers to heat energy stored in the Earth's crust that can be accessed for direct use or electric power generation.
+&emsp;The term "geothermal" refers to heat energy stored in the Earth's crust that can be accessed for direct use or electric power generation.
 
 #### (6) Hydrothermal
 
-&emsp;The term “hydrothermal” refers to naturally occurring subsurface reservoirs of hot water or steam.
+&emsp;The term "hydrothermal" refers to naturally occurring subsurface reservoirs of hot water or steam.
 
 #### (7) Systems approach
 
-&emsp;The term “systems approach” means an approach to solving problems or designing systems that attempts to optimize the performance of the overall system, rather than a particular component of the system.
+&emsp;The term "systems approach" means an approach to solving problems or designing systems that attempts to optimize the performance of the overall system, rather than a particular component of the system.
 
 (Pub. L. 110–140, title VI, §612, Dec. 19, 2007, 121 Stat. 1679.)
 
 #### Short Title
 
-This part known as the “Advanced Geothermal Energy Research and Development Act of 2007”, see Short Title note set out under section 17001 of this title.
+This part known as the "Advanced Geothermal Energy Research and Development Act of 2007", see Short Title note set out under section 17001 of this title.
 

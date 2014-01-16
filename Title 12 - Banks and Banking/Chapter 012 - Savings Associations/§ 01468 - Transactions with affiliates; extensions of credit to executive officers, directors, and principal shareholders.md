@@ -36,7 +36,7 @@
 
 #### (2) Additional restrictions authorized
 
-&emsp;The appropriate Federal banking agency may impose such additional restrictions on loans or extensions of credit to any appropriate Federal banking agency or executive officer of any savings association, or any person who directly or indirectly owns, controls, orhas the power to vote more than 10 percent of any class of voting securities of a savings association, as the appropriate Federal banking agency determines to be necessary to protect the safety and soundness of the savings association.
+&emsp;The appropriate Federal banking agency may impose such additional restrictions on loans or extensions of credit to any appropriate Federal banking agency or executive officer of any savings association, or any person who directly or indirectly owns, controls, or has the power to vote more than 10 percent of any class of voting securities of a savings association, as the appropriate Federal banking agency determines to be necessary to protect the safety and soundness of the savings association.
 
 #### (c) Administrative enforcement
 
@@ -68,27 +68,27 @@ The Federal Reserve Act, referred to in subsecs. (a)(1), (3) and (b)(1), is act 
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §369(9), substituted “appropriate Federal banking agency” for “Director” wherever appearing.
+<b>2010</b>—Pub. L. 111–203, §369(9), substituted "appropriate Federal banking agency" for "Director" wherever appearing.
 
 Subsec. (d). Pub. L. 111–203, §608(c), added subsec. (d).
 
 <b>1994</b>—Subsec. (a)(2)(C). Pub. L. 103–325, §316(b), struck out heading and text of subpar. (C) which read as follows:
 
-“(C)
+"(C)
 
 Transition rule for well capitalized savings associations.—
 
-&emsp;“(i)
+&emsp;"(i)
 
 In general.—A savings association that is well capitalized (as defined in section 1831o of this title), as determined without including goodwill in calculating core capital, shall be treated as a bank for purposes of section 371c(d)(1) of this title and section 371c–1 of this title.
 
-&emsp;“(ii)
+&emsp;"(ii)
 
-Liability of commonly controlled depository institutions.—Any savings association that engages under clause (i) in a transaction that would not otherwise be permissible under this subsection, and any affiliated insured bank that is commonly controlled (as defined in section 1815(e)(9) of this title), shall be subject to subsection (e) of section 1815 of this title as if paragraph (6) of that subsection did not apply.”
+Liability of commonly controlled depository institutions.—Any savings association that engages under clause (i) in a transaction that would not otherwise be permissible under this subsection, and any affiliated insured bank that is commonly controlled (as defined in section 1815(e)(9) of this title), shall be subject to subsection (e) of section 1815 of this title as if paragraph (6) of that subsection did not apply."
 
 Pub. L. 103–325, §316(a), added subpar. (C).
 
-<b>1991</b>—Subsec. (b)(1). Pub. L. 102–242 substituted “Subsections (g) and (h) of section 22” for “Section 22(h)”.
+<b>1991</b>—Subsec. (b)(1). Pub. L. 102–242 substituted "Subsections (g) and (h) of section 22" for "Section 22(h)".
 
 <b>1989</b>—Pub. L. 101–73 amended section generally, substituting subsecs. (a) to (c) relating to affiliate transactions, extensions of credit, and administrative enforcement, for former undesignated paragraph relating to separability of provisions.
 
@@ -112,17 +112,17 @@ Amendment by Pub. L. 102–242 effective upon the earlier of the date on which f
 
 Pub. L. 101–73, title III, §304, Aug. 9, 1989, 103 Stat. 351, provided that:
 
-“(a)
+"(a)
 
 Consistency of Certain Regulations With Section 23A
 
 of the Federal Reserve Act \[12 U.S.C. 371c\].—Not later than 6 months after the date of enactment of this Act \[Aug. 9, 1989\], the Director of the Office of Thrift Supervision shall revise the Director's conflicts regulations so as not to prohibit a thrift institution from purchasing mortgages from a mortgage-banking affiliate to the same extent as a member bank may do so under section 250.250 of title 12, Code of Federal Regulations.
 
-“(b)
+"(b)
 
-Transitional Period.—Notwithstanding section 11(a) of the Home Owners’ Loan Act \[12 U.S.C. 1468(a)\] (as added by section 301 of this Act), a thrift institution that, before May 1, 1989, had received approval from the Federal Savings and Loan Insurance Corporation pursuant to section 408(d)(6) of the National Housing Act \[former 12 U.S.C. 1730a(d)(6)\] as then in effect to purchase mortgages from a mortgage-banking affiliate may, during the 6-month period following the date on which final regulations are prescribed pursuant to subsection (a), continue to engage in transactions for which it had received such approval. Any savings association that engages in such transactions pursuant to this subsection shall comply with the standards that were applicable under section 408(d)(6) as in effect on May 1, 1989.
+Transitional Period.—Notwithstanding section 11(a) of the Home Owners' Loan Act \[12 U.S.C. 1468(a)\] (as added by section 301 of this Act), a thrift institution that, before May 1, 1989, had received approval from the Federal Savings and Loan Insurance Corporation pursuant to section 408(d)(6) of the National Housing Act \[former 12 U.S.C. 1730a(d)(6)\] as then in effect to purchase mortgages from a mortgage-banking affiliate may, during the 6-month period following the date on which final regulations are prescribed pursuant to subsection (a), continue to engage in transactions for which it had received such approval. Any savings association that engages in such transactions pursuant to this subsection shall comply with the standards that were applicable under section 408(d)(6) as in effect on May 1, 1989.
 
-“(c)
+"(c)
 
-Authority To Extend Regulatory Approvals That Would Otherwise Lapse During the Transitional Period.—The Director of the Office of Thrift Supervision may extend until the expiration of the 6-month period described in subsection (b) any approval granted by the Federal Savings and Loan Insurance Corporation that expires or would expire before the expiration of that 6-month period. In determining whether to grant such exemptions, the Director shall apply the standards that were applicable under section 408(d)(6) of the National Housing Act \[former 12 U.S.C. 1730a(d)(6)\] as in effect on May 1, 1989.”
+Authority To Extend Regulatory Approvals That Would Otherwise Lapse During the Transitional Period.—The Director of the Office of Thrift Supervision may extend until the expiration of the 6-month period described in subsection (b) any approval granted by the Federal Savings and Loan Insurance Corporation that expires or would expire before the expiration of that 6-month period. In determining whether to grant such exemptions, the Director shall apply the standards that were applicable under section 408(d)(6) of the National Housing Act \[former 12 U.S.C. 1730a(d)(6)\] as in effect on May 1, 1989."
 

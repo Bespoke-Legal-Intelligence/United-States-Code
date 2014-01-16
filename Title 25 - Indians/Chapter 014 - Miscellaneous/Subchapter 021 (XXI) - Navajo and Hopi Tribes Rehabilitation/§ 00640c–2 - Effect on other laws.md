@@ -16,9 +16,9 @@ Section was not enacted as part of act Apr. 19, 1950, ch. 92, 64 Stat. 44, which
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–315, §946(e)(1), substituted “Diné College” for “the Navajo Community College”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–315, §946(e)(1), substituted "Diné College" for "the Navajo Community College".
 
-Subsec. (b). Pub. L. 110–315 substituted “Diné College” for “the Navajo Community College” and “College be used” for “college be used”.
+Subsec. (b). Pub. L. 110–315 substituted "Diné College" for "the Navajo Community College" and "College be used" for "college be used".
 
 <b>1988</b>—Pub. L. 100–297 designated existing provisions as subsec. (a) and added subsec. (b).
 

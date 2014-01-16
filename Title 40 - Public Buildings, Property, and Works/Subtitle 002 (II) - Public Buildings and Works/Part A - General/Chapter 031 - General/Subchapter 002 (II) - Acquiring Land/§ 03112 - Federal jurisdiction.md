@@ -40,5 +40,5 @@ R.S. §355 (last par.); June 28, 1930, ch. 710, 46 Stat. 828; Feb. 1, 1940, ch. 
 
 Subsection (a) is substituted for 40:255 (last par. 1st sentence words before semicolon) to eliminate unnecessary words.
 
-In subsection (b), the words “exclusive or partial” are omitted as unnecessary.
+In subsection (b), the words "exclusive or partial" are omitted as unnecessary.
 

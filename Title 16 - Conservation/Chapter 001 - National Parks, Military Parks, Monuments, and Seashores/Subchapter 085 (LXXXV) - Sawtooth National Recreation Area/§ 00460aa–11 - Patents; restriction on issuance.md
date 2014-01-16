@@ -4,7 +4,3 @@ Patents shall not hereafter be issued for locations and claims heretofore made i
 
 (Pub. L. 92–400, §12, Aug. 22, 1972, 86 Stat. 615.)
 
-#### References in Text
-
-The mining laws of the United States, referred to in text, are classified generally to Title 30, Mineral Lands and Mining.
-

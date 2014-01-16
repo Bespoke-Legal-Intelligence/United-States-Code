@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) has a substantial amount of educational loans relative to income; and
 
-&emsp;&emsp;(B) agrees to serve as an employee of the Centers for Disease Control and Prevention or the Agency for Toxic Substances and Disease Registry for purposes of paragraph (1) for a period of not less than 3 years.
+&emsp;&emsp;(B) agrees to serve as an employee of the Centers for Disease Control and Preventionor the Agency for Toxic Substances and Disease Registry for purposes of paragraph (1) for a period of not less than 3 years.
 
 #### (b) Applicability of certain provisions
 
@@ -20,7 +20,7 @@ With respect to the National Health Service Corps Loan Repayment Program establi
 
 #### (c) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated $500,000 for fiscal year 1994, and such sums as may benecessary for each of the fiscal years 1995 through 2002.
+For the purpose of carrying out this section, there are authorized to be appropriated $500,000 for fiscal year 1994, and such sums as may be necessary for each of the fiscal years 1995 through 2002.
 
 #### (d) Availability of appropriations
 
@@ -30,9 +30,9 @@ Amounts appropriated for a fiscal year for contracts under subsection (a) of thi
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–392, §406(1), substituted “$35,000” for “$20,000”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–392, §406(1), substituted "$35,000" for "$20,000".
 
-Subsec. (c). Pub. L. 105–392, §406(2), substituted “2002” for “1998”.
+Subsec. (c). Pub. L. 105–392, §406(2), substituted "2002" for "1998".
 
 Subsec. (d). Pub. L. 105–392, §406(3), added subsec. (d).
 

@@ -6,9 +6,9 @@ In authorizing international information activities under this chapter, it is th
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–239 inserted “and the Broadcasting Board of Governors” after “Secretary” and “or the Broadcasting Board of Governors” after “Department”.
+<b>2013</b>—Pub. L. 112–239 inserted "and the Broadcasting Board of Governors" after "Secretary" and "or the Broadcasting Board of Governors" after "Department".
 
 #### Effective Date of 2013 Amendment
 
-Amendment by Pub. L. 112–239 effective and applicable on the date that is 180 days after Jan. 2, 2013, see section 1078(e) of Pub. L. 112–239, set out as a note under section 1437 of this title.
+Amendment by Pub. L. 112–239 effective and applicable on the date that is 180 days after Jan. 2, 2013, seesection 1078(e) of Pub. L. 112–239, set out as a note under section 1437 of this title.
 

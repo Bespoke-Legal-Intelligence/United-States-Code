@@ -52,7 +52,7 @@ Aug. 26, 1958, Pub. L. 85–761, §§9, 10, 12, 72 Stat. 858.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title. The words “as provided in section 835 of this title” are omitted as unnecessary.
+In subsection (c), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title. The words "as provided in section 835 of this title" are omitted as unnecessary.
 

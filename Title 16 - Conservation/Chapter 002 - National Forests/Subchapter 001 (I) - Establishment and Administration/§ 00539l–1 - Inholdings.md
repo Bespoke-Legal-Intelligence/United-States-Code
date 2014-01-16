@@ -22,7 +22,7 @@ If the Colorado State Land Board informs the Secretary that the Board is willing
 
 &emsp;&emsp;(A) subsection (a) of this section, upon conclusion of an agreement for acquisition by the United States of lands referred to in subsection (a) of this section, or 1 year after August 21, 2002, whichever occurs first; and
 
-&emsp;&emsp;(B) subsection (b) of this section, upon conclusion of an agreement for acquisition by the United States of lands referred to insubsection (b) of this section, or 1 year after August 21, 2002, whichever occurs first.
+&emsp;&emsp;(B) subsection (b) of this section, upon conclusion of an agreement for acquisition by the United States of lands referred to in subsection (b) of this section, or 1 year after August 21, 2002, whichever occurs first.
 
 #### (2) Funding information
 

@@ -50,7 +50,7 @@ Use of Flexible Hiring Authority.—(1) The Secretary of Defense may use the fle
 
 Determinations Relating to the Conversion of Certain Functions.—(1) Except as provided in paragraph (2), in determining whether a function should be converted to performance by Department of Defense civilian employees, the Secretary of Defense shall—
 
-&emsp;(A) develop methodology for determining costs based on the guidance outlined in the Directive-Type Memorandum 09–007 entitled “Estimating and Comparing the Full Costs of Civilian and Military Manpower and Contractor Support” or any successor guidance for the determination of costs when costs are the sole basis for the determination;
+&emsp;(A) develop methodology for determining costs based on the guidance outlined in the Directive-Type Memorandum 09–007 entitled "Estimating and Comparing the Full Costs of Civilian and Military Manpower and Contractor Support" or any successor guidance for the determination of costs when costs are the sole basis for the determination;
 
 &emsp;(B) take into consideration any supplemental guidance issued by the Secretary of a military department for determinations affecting functions of that military department; and
 
@@ -70,11 +70,11 @@ Notification Relating to the Conversion of Certain Functions.—The Secretary of
 
 Definitions.—In this section:
 
-&emsp;(1) The term “functions closely associated with inherently governmental functions” has the meaning given that term in section 2383(b)(3) of this title.
+&emsp;(1) The term "functions closely associated with inherently governmental functions" has the meaning given that term in section 2383(b)(3) of this title.
 
-&emsp;(2) The term “acquisition function” has the meaning given that term under section 1721(a) of this title.
+&emsp;(2) The term "acquisition function" has the meaning given that term under section 1721(a) of this title.
 
-&emsp;(3) The term “inherently governmental function” has the meaning given that term in the Federal Activities Inventory Reform Act of 1998 (Public Law 105–270; 31 U.S.C. 501 note).
+&emsp;(3) The term "inherently governmental function" has the meaning given that term in the Federal Activities Inventory Reform Act of 1998 (Public Law 105–270; 31 U.S.C. 501 note).
 
 (Added Pub. L. 110–181, div. A, title III, §324(a)(1), Jan. 28, 2008, 122 Stat. 60; amended Pub. L. 111–383, div. A, title III, §353, Jan. 7, 2011, 124 Stat. 4194; Pub. L. 112–81, div. A, title IX, §938, Dec. 31, 2011, 125 Stat. 1547.)
 
@@ -86,13 +86,13 @@ A prior section 2463, added Pub. L. 100–370, §2(a)(1), July 19, 1988, 102 Sta
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1). Pub. L. 112–81, §938(1), added subpars. (A), (B), and (D), redesignated former subpars. (B), (C), and (D) as (C), (E), and (F), and struck out former subpar. (A) which read as follows: “has been performed by Department of Defense civilian employees at any time during the previous 10 years;”.
+<b>2011</b>—Subsec. (b)(1). Pub. L. 112–81, §938(1), added subpars. (A), (B), and (D), redesignated former subpars. (B), (C), and (D) as (C), (E), and (F), and struck out former subpar. (A) which read as follows: "has been performed by Department of Defense civilian employees at any time during the previous 10 years;".
 
-Subsec. (d)(1). Pub. L. 111–383 struck out “under the National Security Personnel System, as established” before “pursuant to section 9902 of title 5”.
+Subsec. (d)(1). Pub. L. 111–383 struck out "under the National Security Personnel System, as established" before "pursuant to section 9902 of title 5".
 
 Subsecs. (e), (f). Pub. L. 112–81, §938(3), added subsecs. (e) and (f). Former subsec. (e) redesignated (g).
 
-Subsec. (g). Pub. L. 112–81, §938(4), substituted “this section:” for “this section the term ‘functions closely associated with inherently governmental functions’ has the meaning given that term in section 2383(b)(3) of this title.” and added pars. (1) to (3).
+Subsec. (g). Pub. L. 112–81, §938(4), substituted "this section:" for "this section the term 'functions closely associated with inherently governmental functions' has the meaning given that term in section 2383(b)(3) of this title." and added pars. (1) to (3).
 
 Pub. L. 112–81, §938(2), redesignated subsec. (e) as (g).
 
@@ -100,41 +100,41 @@ Pub. L. 112–81, §938(2), redesignated subsec. (e) as (g).
 
 Pub. L. 111–383, div. A, title III, §323, Jan. 7, 2011, 124 Stat. 4184, provided that:
 
-“(a)
+"(a)
 
 Prohibition.—The Secretary of Defense may not establish, apply, or enforce any numerical goal, target, or quota for the conversion of Department of Defense functions to performance by Department of Defense civilian employees, unless such goal, target, or quota is based on considered research and analysis, as required by section 235, 2330a, or 2463 of title 10, United States Code.
 
-“(b)
+"(b)
 
 Decisions to Insource.—In deciding which functions should be converted to performance by Department of Defense civilian employees pursuant to section 2463 of title 10, United States Code, the Secretary of Defense shall use the costing methodology outlined in the Directive-Type Memorandum 09–007 (Estimating and Comparing the Full Costs of Civilian and Military Manpower and Contractor Support) or any successor guidance for the determination of costs when costs are the sole basis for the decision. The Secretary of a military department may issue supplemental guidance to assist in such decisions affecting functions of that military department.
 
-“(c)
+"(c)
 
 Reports.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Report to congress.—Not later than March 31, 2011, the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the decisions with respect to the conversion of functions to performance by Department of Defense civilian employees made during fiscal year 2010. Such report shall identify, for each such decision—
 
-&emsp;&emsp;“(A) the agency or service of the Department involved in the decision;
+&emsp;&emsp;"(A) the agency or service of the Department involved in the decision;
 
-&emsp;&emsp;“(B) the basis and rationale for the decision; and
+&emsp;&emsp;"(B) the basis and rationale for the decision; and
 
-&emsp;&emsp;“(C) the number of contractor employees whose functions were converted to performance by Department of Defense civilian employees.
+&emsp;&emsp;"(C) the number of contractor employees whose functions were converted to performance by Department of Defense civilian employees.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Comptroller general review.—Not later than 120 days after the submittal of the report under paragraph (1), the Comptroller General of the United States shall submit to the congressional defense committees an assessment of the report.
 
-“(d)
+"(d)
 
 Construction.—Nothing in this section shall be construed—
 
-&emsp;“(1) to preclude the Secretary of Defense from establishing, applying, and enforcing goals for the conversion of acquisition functions and other critical functions to performance by Department of Defense civilian employees, where such goals are based on considered research and analysis; or
+&emsp;"(1) to preclude the Secretary of Defense from establishing, applying, and enforcing goals for the conversion of acquisition functions and other critical functions to performance by Department of Defense civilian employees, where such goals are based on considered research and analysis; or
 
-&emsp;“(2) to require the Secretary of Defense to conduct a cost comparison before making a decision to convert any acquisition function or other critical function to performance by Department of Defense civilian employees, where factors other than cost serve as a basis for the Secretary's decision.”
+&emsp;"(2) to require the Secretary of Defense to conduct a cost comparison before making a decision to convert any acquisition function or other critical function to performance by Department of Defense civilian employees, where factors other than cost serve as a basis for the Secretary's decision."
 
 #### Deadline for Issuance of Guidelines and Procedures
 
-Pub. L. 110–181, div. A, title III, §324(a)(3), Jan. 28, 2008, 122 Stat. 61, provided that: “The Secretary of Defense shall implement the guidelines and procedures required under section 2463 of title 10, United States Code, as added by paragraph (1), by not later than 60 days after the date of the enactment of this Act \[Jan. 28, 2008\].”
+Pub. L. 110–181, div. A, title III, §324(a)(3), Jan. 28, 2008, 122 Stat. 61, provided that: "The Secretary of Defense shall implement the guidelines and procedures required under section 2463 of title 10, United States Code, as added by paragraph (1), by not later than 60 days after the date of the enactment of this Act \[Jan. 28, 2008\]."
 

@@ -2,23 +2,23 @@
 
 When used in this subchapter—
 
-&emsp;(1) the term “eligible institution” means an accredited school or college of veterinary medicine or a State agricultural experiment station that conducts animal health and disease research;
+&emsp;(1) the term "eligible institution" means an accredited school or college of veterinary medicine or a State agricultural experiment station that conducts animal health and disease research;
 
-&emsp;(2) the term “dean” means the dean of an accredited school or college of veterinary medicine;
+&emsp;(2) the term "dean" means the dean of an accredited school or college of veterinary medicine;
 
-&emsp;(3) the term “director” means the director of a State agricultural experiment station which qualifies as an eligible institution; and
+&emsp;(3) the term "director" means the director of a State agricultural experiment station which qualifies as an eligible institution; and
 
-&emsp;(4) the term “animal health research capacity” means the capacity of an eligible institution to conduct animal health and disease research, as determined by the Secretary.
+&emsp;(4) the term "animal health research capacity" means the capacity of an eligible institution to conduct animal health and disease research, as determined by the Secretary.
 
 (Pub. L. 95–113, title XIV, §1430, Sept. 29, 1977, 91 Stat. 1002; Pub. L. 97–98, title XIV, §1427, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 105–185, title VI, §606(d)(1), June 23, 1998, 112 Stat. 604.)
 
 #### Amendments
 
-<b>1998</b>—Pars. (3) to (5). Pub. L. 105–185 inserted “and” at end of par. (3), redesignated par. (5) as (4), and struck out former par. (4) which read as follows: “the term ‘Board’ means the Animal Health Science Research Advisory Board; and”.
+<b>1998</b>—Pars. (3) to (5). Pub. L. 105–185 inserted "and" at end of par. (3), redesignated par. (5) as (4), and struck out former par. (4) which read as follows: "the term 'Board' means the Animal Health Science Research Advisory Board; and".
 
-<b>1981</b>—Par. (1). Pub. L. 97–98 substituted “an accredited school or college of veterinary medicine or a State agricultural research experiment station that conducts animal health and disease research” for “any college or university having an accredited college of veterinarymedicine or a department of veterinary science or animal pathology, or a similar unit conducting animal health and disease research in a State agricultural experiment station”.
+<b>1981</b>—Par. (1). Pub. L. 97–98 substituted "an accredited school or college of veterinary medicine or a State agricultural research experiment station that conducts animal health and disease research" for "any college or university having an accredited college of veterinarymedicine or a department of veterinary science or animal pathology, or a similar unit conducting animal health and disease research in a State agricultural experiment station".
 
-Par. (2). Pub. L. 97–98 substituted “an accredited school or college of veterinary medicine” for “a college or university which qualifies as an eligible institution”.
+Par. (2). Pub. L. 97–98 substituted "an accredited school or college of veterinary medicine" for "a college or university which qualifies as an eligible institution".
 
 #### Effective Date of 1981 Amendment
 

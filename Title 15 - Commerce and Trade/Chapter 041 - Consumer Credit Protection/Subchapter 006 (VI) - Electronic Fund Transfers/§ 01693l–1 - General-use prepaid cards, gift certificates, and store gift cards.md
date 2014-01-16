@@ -6,13 +6,13 @@ In this section, the following definitions shall apply:
 
 #### (1) Dormancy fee; inactivity charge or fee
 
-&emsp;The terms “dormancy fee” and “inactivity charge or fee” mean a fee, charge, or penalty for non-use or inactivity of a gift certificate, store gift card, or general-use prepaid card.
+&emsp;The terms "dormancy fee" and "inactivity charge or fee" mean a fee, charge, or penalty for non-use or inactivity of a gift certificate, store gift card, or general-use prepaid card.
 
 #### (2) General use <sup>1</sup> prepaid card, gift certificate, and store gift card
 
 #### (A) General-use prepaid card
 
-&emsp;&emsp;The term “general-use prepaid card” means a card or other payment code or device issued by any person that is—
+&emsp;&emsp;The term "general-use prepaid card" means a card or other payment code or device issued by any person that is—
 
 &emsp;&emsp;&emsp;(i) redeemable at multiple, unaffiliated merchants or service providers, or automated teller machines;
 
@@ -24,7 +24,7 @@ In this section, the following definitions shall apply:
 
 #### (B) Gift certificate
 
-&emsp;&emsp;The term “gift certificate” means an electronic promise that is—
+&emsp;&emsp;The term "gift certificate" means an electronic promise that is—
 
 &emsp;&emsp;&emsp;(i) redeemable at a single merchant or an affiliated group of merchants that share the same name, mark, or logo;
 
@@ -36,7 +36,7 @@ In this section, the following definitions shall apply:
 
 #### (C) Store gift card
 
-&emsp;&emsp;The term “store gift card” means an electronic promise, plastic card, or other payment code or device that is—
+&emsp;&emsp;The term "store gift card" means an electronic promise, plastic card, or other payment code or device that is—
 
 &emsp;&emsp;&emsp;(i) redeemable at a single merchant or an affiliated group of merchants that share the same name, mark, or logo;
 
@@ -48,7 +48,7 @@ In this section, the following definitions shall apply:
 
 #### (D) Exclusions
 
-&emsp;&emsp;The terms “general-use prepaid card”, “gift certificate”, and “store gift card” do not include an electronic promise, plastic card, or payment code or device that is—
+&emsp;&emsp;The terms "general-use prepaid card", "gift certificate", and "store gift card" do not include an electronic promise, plastic card, or payment code or device that is—
 
 &emsp;&emsp;&emsp;(i) used solely for telephone services;
 
@@ -70,11 +70,11 @@ In this section, the following definitions shall apply:
 
 #### (A) In general
 
-&emsp;&emsp;The term “service fee” means a periodic fee, charge, or penalty for holding or use of a gift certificate, store gift card, or general-use prepaid card.
+&emsp;&emsp;The term "service fee" means a periodic fee, charge, or penalty for holding or use of a gift certificate, store gift card, or general-use prepaid card.
 
 #### (B) Exclusion
 
-&emsp;&emsp;With respect to a general-use prepaid card, the term “service fee” does not include a one-time initial issuance fee.
+&emsp;&emsp;With respect to a general-use prepaid card, the term "service fee" does not include a one-time initial issuance fee.
 
 #### (b) Prohibition on imposition of fees or charges
 
@@ -158,7 +158,7 @@ A prior section 915 of Pub. L. 90–321 was renumbered section 916 and is classi
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
 
 #### Effective Date of 2010 Amendment
 
@@ -168,43 +168,43 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Pub. L. 111–24, title IV, §403, as added by Pub. L. 111–209, §1, July 27, 2010, 124 Stat. 2254, provided that:
 
-“(a)
+"(a)
 
 In General.—Except as provided under subsection (b) of this section, this title \[enacting this section and amending sections 1693m to 1693r of this title and provisions set out as a note under section 1693 of this title\] and the amendments made by this title shall become effective 15 months after the date of enactment of this Act \[May 22, 2009\].
 
-“(b)
+"(b)
 
 Exception.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—In the case of a gift certificate, store gift card, or general-use prepaid card that was produced prior to April 1, 2010, the effective date of the disclosure requirements described in sections 915(b)(3) and (c)(2)(B) of the Electronic Funds \[probably should be “Fund”\] Transfer Act \[15 U.S.C. 1693l–1(b)(3), (c)(2)(B)\] shall be January 31, 2011, provided that an issuer of such a certificate or card shall—
+In general.—In the case of a gift certificate, store gift card, or general-use prepaid card that was produced prior to April 1, 2010, the effective date of the disclosure requirements described in sections 915(b)(3) and (c)(2)(B) of the Electronic Funds \[probably should be "Fund"\] Transfer Act \[15 U.S.C. 1693l–1(b)(3), (c)(2)(B)\] shall be January 31, 2011, provided that an issuer of such a certificate or card shall—
 
-&emsp;&emsp;“(A) comply with paragraphs (1) and (2) of section 915(b) of such Act \[15 U.S.C. 1693l–1(b)(1), (2)\];
+&emsp;&emsp;"(A) comply with paragraphs (1) and (2) of section 915(b) of such Act \[15 U.S.C. 1693l–1(b)(1), (2)\];
 
-&emsp;&emsp;“(B) consider any such certificate or card for which funds expire to have no expiration date with respect to the underlying funds;
+&emsp;&emsp;"(B) consider any such certificate or card for which funds expire to have no expiration date with respect to the underlying funds;
 
-&emsp;&emsp;“(C) at a consumer's request, replace such certificate or card that has funds remaining at no cost to the consumer; and
+&emsp;&emsp;"(C) at a consumer's request, replace such certificate or card that has funds remaining at no cost to the consumer; and
 
-&emsp;&emsp;“(D) comply with the disclosure requirements of paragraph (2) of this subsection.
+&emsp;&emsp;"(D) comply with the disclosure requirements of paragraph (2) of this subsection.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Disclosure requirements.—The disclosure requirements of this subsection are met by providing notice to consumers, via in-store signage, messages during customer service calls, Web sites, and general advertising, that—
 
-&emsp;&emsp;“(A) any such certificate or card for which funds expire shall be deemed to have no expiration date with respect to the underlying funds;
+&emsp;&emsp;"(A) any such certificate or card for which funds expire shall be deemed to have no expiration date with respect to the underlying funds;
 
-&emsp;&emsp;“(B) consumers holding such certificate or card shall have a right to a free replacement certificate or card that includes the packaging and materials, typically associated with such a certificate or card; and
+&emsp;&emsp;"(B) consumers holding such certificate or card shall have a right to a free replacement certificate or card that includes the packaging and materials, typically associated with such a certificate or card; and
 
-&emsp;&emsp;“(C) any dormancy fee, inactivity fee, or service fee for such certificates or cards that might otherwise be charged shall not be charged if such fees do not comply with section 915 of the Electronic Funds \[probably should be “Fund”\] Transfer Act \[15 U.S.C. 1693l–1\].
+&emsp;&emsp;"(C) any dormancy fee, inactivity fee, or service fee for such certificates or cards that might otherwise be charged shall not be charged if such fees do not comply with section 915 of the Electronic Funds \[probably should be "Fund"\] Transfer Act \[15 U.S.C. 1693l–1\].
 
-&emsp;“(3)
+&emsp;"(3)
 
-Period for disclosure requirements.—The notice requirements in paragraph (2) of this subsection shall continue until January 31, 2013.”
+Period for disclosure requirements.—The notice requirements in paragraph (2) of this subsection shall continue until January 31, 2013."
 
-Pub. L. 111–24, title IV, §403, May 22, 2009, 123 Stat. 1754, which provided that title IV of Pub. L. 111–24 wasto become effective 15 months after May 22, 2009, was repealed by Pub. L. 111–209, §1, July 27, 2010, 124 Stat. 2254.
+Pub. L. 111–24, title IV, §403, May 22, 2009, 123 Stat. 1754, which provided that title IV of Pub. L. 111–24 was to become effective 15 months after May 22, 2009, was repealed by Pub. L. 111–209, §1, July 27, 2010, 124 Stat. 2254.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “General-use”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "General-use".</i>
 
-<i><sup>2</sup></i><i> So in original. The word “shall” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "shall" probably should not appear.</i>
 

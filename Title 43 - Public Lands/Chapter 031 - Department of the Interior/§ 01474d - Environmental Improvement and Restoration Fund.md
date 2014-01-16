@@ -2,7 +2,7 @@
 
 #### (a) Fund
 
-One half of the amounts awarded by the Supreme Court to the United States in the case of United States of America v. State of Alaska (117 S.Ct. 1888) shall be deposited in a fund in the Treasury of the United States to be known as the “Environmental Improvement and Restoration Fund” (referred to in this section as the “Fund”).
+One half of the amounts awarded by the Supreme Court to the United States in the case of United States of America v. State of Alaska (117 S.Ct. 1888) shall be deposited in a fund in the Treasury of the United States to be known as the "Environmental Improvement and Restoration Fund" (referred to in this section as the "Fund").
 
 #### (b) Investments
 
@@ -30,7 +30,7 @@ One half of the amounts awarded by the Supreme Court to the United States in the
 
 Each year, interest earned and covered into the Fund in the previous fiscal year shall be made available as follows:
 
-&emsp;(1) To the extent provided in the subsequent appropriations Acts, 80 percent of such amounts shall be made available to be equally divided among the Directors of the National Park Service, the United States Fish and Wildlife Service, the Bureau of Land Management, and the Chief of the Forest Service for high priority deferred maintenance and modernization of facilities that directly enhance the experience of visitors, including natural, cultural, recreational, and historic resources protection projects in National Parks, National Wildlife Refuges, and the public lands respectively as provided in subsection (d) of this section and for payment to the State of Louisiana and its lessees for oil and gas drainage in the West Delta field. The Secretary shall submit with the annual budget submission to Congress a list of high priority maintenance and modernization projects for congressional consideration.
+&emsp;(1) To the extent provided in the subsequent appropriations Acts, 80 percent of such amounts shall be made available to be equally divided among the Directors of the National Park Service, the United States Fish and Wildlife Service, the Bureau of Land Management, and the Chief of the Forest Service for high priority deferred maintenance and modernization of facilities that directly enhance the experience of visitors, including natural, cultural, recreational, and historic resources protection projects in National Parks, National Wildlife Refuges, and the public landsrespectively as provided in subsection (d) of this section and for payment to the State of Louisiana and its lessees for oil and gas drainage in the West Delta field. The Secretary shall submit with the annual budget submission to Congress a list of high priority maintenance and modernization projects for congressional consideration.
 
 &emsp;(2) 20 percent of such amounts shall be made available without further appropriation to the Secretary of Commerce for the purpose of carrying out marine research activities in the North Pacific in accordance with subsection (e) of this section.
 
@@ -42,7 +42,7 @@ A project referred to in subsection (c)(1) of this section shall be consistent w
 
 (1) Funds available under subsection (c)(2) of this section shall be used by the Secretary of Commerce according to this subsection to provide grants to Federal, State, private or foreign organizations or individuals to conduct research activities on or relating to the fisheries or marine ecosystems in the north Pacific Ocean, Bering Sea, and Arctic Ocean (including any lesser related bodies of water).
 
-(2) Research priorities and grant requests shall be reviewed by a board to be known as the North Pacific Research Board (referred to in this subsection as the “Board”). The Board shall seek to avoid duplicating other research activities, and shall place a priority on cooperative research efforts designed to address pressing fishery management or marine ecosystem information needs.
+(2) Research priorities and grant requests shall be reviewed by a board to be known as the North Pacific Research Board (referred to in this subsection as the "Board"). The Board shall seek to avoid duplicating other research activities, and shall place a priority on cooperative research efforts designed to address pressing fishery management or marine ecosystem information needs.
 
 (3) The Board shall be comprised of the following representatives or their designees—
 
@@ -86,33 +86,33 @@ A project referred to in subsection (c)(1) of this section shall be consistent w
 
 #### Amendments
 
-<b>2003</b>—Subsec. (e)(4)(B). Pub. L. 108–7 substituted “15 percent” for “5 percent”.
+<b>2003</b>—Subsec. (e)(4)(B). Pub. L. 108–7 substituted "15 percent" for "5 percent".
 
-<b>2000</b>—Subsec. (e)(2). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)(A)\], struck out “and recommended for Secretarial approval” after “shall be reviewed”.
+<b>2000</b>—Subsec. (e)(2). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)(A)\], struck out "and recommended for Secretarial approval" after "shall be reviewed".
 
-Subsec. (e)(3)(A). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)(B)\], struck out “, who shall be a co-chair of the Board” before semicolon at end.
+Subsec. (e)(3)(A). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)(B)\], struck out ", who shall be a co-chair of the Board" before semicolon at end.
 
-Subsec. (e)(3)(F). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)(C)\], which directed amendment of subpar. (F) by striking out “, who shall be a co-chair of the Board”, was executed by striking out “, who shall also be a co-chair of the Board” before semicolon at end to reflect the probable intent of Congress.
+Subsec. (e)(3)(F). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)(C)\], which directed amendment of subpar. (F) by striking out ", who shall be a co-chair of the Board", was executed by striking out ", who shall also be a co-chair of the Board" before semicolon at end to reflect the probable intent of Congress.
 
 Subsec. (e)(3)(N). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)(G)\], which directed amendment of par. (3) by adding subpar. (N) at the end, was executed by adding subpar. (N) after subpar. (M), to reflect the probable intent of Congress.
 
-Subsec. (e)(4)(A). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)(D)\], struck out “and administer” after “shall review”.
+Subsec. (e)(4)(A). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)(D)\], struck out "and administer" after "shall review".
 
-Subsec. (e)(4)(B). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)(E)\], struck out “Grant recommendations and other decisions of the Board shall be by majority vote, with each member having one vote.” after “(B)”.
+Subsec. (e)(4)(B). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)(E)\], struck out "Grant recommendations and other decisions of the Board shall be by majority vote, with each member having one vote." after "(B)".
 
 Subsec. (e)(5). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)(F)\], added par. (5).
 
-<b>1999</b>—Subsec. (c). Pub. L. 106–113, §1000(a)(3) \[title III, §352(a)(1)\], substituted “made available” for “available for appropriation, to the extent provided in the subsequent appropriations Acts,” in introductory provisions, inserted “To the extent provided in the subsequent appropriations Acts,” before “80 percent of such amounts” in par. (1), and “without further appropriation” after “20 percent of such amounts shall be made available” in par. (2).
+<b>1999</b>—Subsec. (c). Pub. L. 106–113, §1000(a)(3) \[title III, §352(a)(1)\], substituted "made available" for "available for appropriation, to the extent provided in the subsequent appropriations Acts," in introductory provisions, inserted "To the extent provided in the subsequent appropriations Acts," before "80 percent of such amounts" in par. (1), and "without further appropriation" after "20 percent of such amounts shall be made available" in par. (2).
 
-Subsec. (f). Pub. L. 106–113, §1000(a)(3) \[title III, §352(a)(2)\], struck out heading and text of subsec. (f). Text read as follows: “If amounts are not assumed by the concurrent budget resolution and appropriated from the Fund by December 15, 1999, the Fund shall terminate and the amounts in the Fund including the accrued interest shall be applied to reduce the Federal deficit.”
+Subsec. (f). Pub. L. 106–113, §1000(a)(3) \[title III, §352(a)(2)\], struck out heading and text of subsec. (f). Text read as follows: "If amounts are not assumed by the concurrent budget resolution and appropriated from the Fund by December 15, 1999, the Fund shall terminate and the amounts in the Fund including the accrued interest shall be applied to reduce the Federal deficit."
 
-<b>1998</b>—Subsec. (f). Pub. L. 105–277 substituted “1999” for “1998”.
+<b>1998</b>—Subsec. (f). Pub. L. 105–277 substituted "1999" for "1998".
 
 #### Transfer of Functions
 
 For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. The period probably should be “; and”.</i>
+<i><sup>2</sup></i><i> So in original. The period probably should be "; and".</i>
 

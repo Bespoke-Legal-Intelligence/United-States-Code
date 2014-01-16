@@ -68,9 +68,9 @@ Sept. 9, 1966, Pub. L. 89–563, 80 Stat. 718, §108(c)(3)(E); added Oct. 31, 19
 
 15:1397(c)(3)(E)(v).
 
-In subsection (a)(1), the words “Except as provided in subsections (c) and (d) of this section” are added because of the restatement.
+In subsection (a)(1), the words "Except as provided in subsections (c) and (d) of this section" are added because of the restatement.
 
-In subsection (a)(2)(B), the words “showing compliance with the standards” are substituted for “showing no such failure to comply” for clarity.
+In subsection (a)(2)(B), the words "showing compliance with the standards" are substituted for "showing no such failure to comply" for clarity.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “misrepresentation.”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "misrepresentation."</i>
 

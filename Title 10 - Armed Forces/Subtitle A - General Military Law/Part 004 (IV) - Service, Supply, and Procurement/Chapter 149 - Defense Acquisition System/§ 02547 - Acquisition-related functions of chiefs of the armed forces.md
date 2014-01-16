@@ -24,9 +24,9 @@ Rule of Construction.—Nothing in this section shall be construed to affect the
 
 Definitions.—In this section:
 
-&emsp;(1) The term “requirements creep” means the addition of new technical or operational specifications after a requirements document is approved by the appropriate validation authority for the requirements document.
+&emsp;(1) The term "requirements creep" means the addition of new technical or operational specifications after a requirements document is approved by the appropriate validation authority for the requirements document.
 
-&emsp;(2) The term “requirements document” means a document produced in the requirements process that is provided for an acquisition program to guide the subsequent development, production, and testing of the program and that—
+&emsp;(2) The term "requirements document" means a document produced in the requirements process that is provided for an acquisition program to guide the subsequent development, production, and testing of the program and that—
 
 &emsp;&emsp;(A) justifies the need for a materiel approach, or an approach that is a combination of materiel and non-materiel, to satisfy one or more specific capability gaps;
 
@@ -42,7 +42,7 @@ A prior section 2547 was renumbered section 2557 of this title.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §951(c)(1), substituted “of requirements for equipping the armed force concerned” for “of requirements relating to the defense acquisition system”.
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §951(c)(1), substituted "of requirements for equipping the armed force concerned" for "of requirements relating to the defense acquisition system".
 
 Subsec. (a)(3) to (6). Pub. L. 112–239, §951(c)(2), (3), added pars. (3) and (4) and redesignated former pars. (3) and (4) as (5) and (6), respectively.
 

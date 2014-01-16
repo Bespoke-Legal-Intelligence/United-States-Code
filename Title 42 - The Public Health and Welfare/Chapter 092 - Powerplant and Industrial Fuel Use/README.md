@@ -79,7 +79,7 @@
 |  |  |
 | :--- | ---: |
 | [8401\.](Subchapter%20006%20%28VI%29%20-%20Financial%20Assistance/%C2%A7%2008401%20-%20Assistance%20to%20areas%20impacted%20by%20increased%20coal%20or%20uranium%20production.md) | Assistance to areas impacted by increased coal or uranium production. |
-| [8401a.](Subchapter%20006%20%28VI%29%20-%20Financial%20Assistance/%C2%A7%2008401a%20-%20%E2%80%9CLocal%20government%E2%80%9D%20defined.md) | “Local government” defined. |
+| [8401a.](Subchapter%20006%20%28VI%29%20-%20Financial%20Assistance/%C2%A7%2008401a%20-%20Local%20government%20defined.md) | "Local government" defined. |
 | [8402\.](Subchapter%20006%20%28VI%29%20-%20Financial%20Assistance/%C2%A7%2008402%20-%20Loans%20to%20assist%20powerplant%20acquisitions%20of%20air%20pollution%20control%20equipment.md) | Loans to assist powerplant acquisitions of air pollution control equipment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

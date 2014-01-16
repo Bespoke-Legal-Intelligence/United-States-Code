@@ -130,7 +130,7 @@ Ex. Ord. No. 13433, May 16, 2007, 72 F.R. 28441, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. To help ensure the integrity and effective supervision of the legal and expert witness services provided to or on behalf of the United States, it is the policy of the United States that organizations or individuals that provide such services to or on behalf of the United States shall be compensated in amountsthat are reasonable, not contingent upon the outcome of litigation or other proceedings, and established according to criteria set in advance of performance of the services, except when otherwise required by law.
+Section 1. <i>Policy</i>. To help ensure the integrity and effective supervision of the legal and expert witness services provided to or on behalf of the United States, it is the policy of the United States that organizations or individuals that provide such services to or on behalf of the United States shall be compensated in amounts that are reasonable, not contingent upon the outcome of litigation or other proceedings, and established according to criteria set in advance of performance of the services, except when otherwise required by law.
 
 Sec. 2. <i>Duties of Agency Heads</i>. (a) Heads of agencies shall implement within their respective agencies the policy set forth in section 1, consistent with such instructions as the Attorney General may prescribe.
 
@@ -140,9 +140,9 @@ Sec. 2. <i>Duties of Agency Heads</i>. (a) Heads of agencies shall implement wit
 
 Sec. 3. <i>Definitions</i>. For purposes of this order:
 
-(a) The term “agency” means an executive agency as defined in section 105 of title 5, United States Code, and the United States Postal Service and the Postal Regulatory Commission, but shall exclude the Government Accountability Office and elements of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 as amended (50 U.S.C. 401a(4))\[)\].
+(a) The term “agency” means an executive agency as defined in section 105 of title 5, United States Code, and the United States Postal Service and the Postal Regulatory Commission, but shall exclude the Government Accountability Office and elements of the intelligence community (as defined in section 3(4) of the National Security Act of 1947 as amended (50 U.S.C. 401a(4)) \[now 50 U.S.C. 3003(4)\]\[)\].
 
-(b) The term “contingency fee agreement” means a contract or other agreement to provide services under which the amount or the payment of the fee for the services is contingent in whole or in part on the outcome of the matter for which the services were obtained. The term does not include:
+(b) The term “contingency fee agreement” means a contract or other agreement to provide services underwhich the amount or the payment of the fee for the services is contingent in whole or in part on the outcome of the matter for which the services were obtained. The term does not include:
 
 (i) qualified tax collection contracts defined in section 6306 of title 26, United States Code, and
 

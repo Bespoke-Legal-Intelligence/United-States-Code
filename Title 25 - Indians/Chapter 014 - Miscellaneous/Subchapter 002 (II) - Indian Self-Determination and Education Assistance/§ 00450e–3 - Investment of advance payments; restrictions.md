@@ -12,7 +12,7 @@ Advance payments made by the Department of the Interior to Indian tribes, tribal
 
 The Indian Self-Determination and Education Assistance Act, referred to in text, is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to this subchapter (§450 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-The Tribally Controlled Schools Act of 1988, referred to in text, is part B (§§5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§2501 et seq.) of thistitle. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+The Tribally Controlled Schools Act of 1988, referred to in text, is part B (§§5201–5212) of title V of Pub. L. 100–297, Apr. 28, 1988, 102 Stat. 385, as amended, which is classified generally to chapter 27 (§2501 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 #### Codification
 

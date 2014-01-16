@@ -38,7 +38,7 @@
 
 (d) Except as otherwise provided by statute, the proponent of a rule or order has the burden of proof. Any oral or documentary evidence may be received, but the agency as a matter of policy shall provide for the exclusion of irrelevant, immaterial, or unduly repetitious evidence. A sanction may not be imposed or rule or order issued except on consideration of the whole record or those parts thereof cited by a party and supported by and in accordance with the reliable, probative, and substantial evidence. The agency may, to the extent consistent with the interests of justice and the policy of the underlying statutes administered by the agency, consider a violation of section 557(d) of this title sufficient grounds for a decision adverse to a party who has knowingly committed such violation or knowingly caused such violation to occur. A party is entitled to present his case or defense by oral or documentary evidence, to submit rebuttal evidence, and to conduct such cross-examination as may be required for a full and true disclosure of the facts. In rule making or determining claims for money or benefits or applications for initial licenses an agency may, when a party will not be prejudiced thereby, adopt procedures for the submission of all or part of the evidence in written form.
 
-(e) The transcript of testimony and exhibits, together with all papers and requests filed in the proceeding, constitutes the exclusive record for decision in accordance with section 557 of this title and, on payment of lawfully prescribed costs, shall be made available to the parties.When an agency decision rests on official notice of a material fact not appearing in the evidence in the record, a party is entitled, on timely request, to an opportunity to show the contrary.
+(e) The transcript of testimony and exhibits, together with all papers and requests filed in the proceeding, constitutes the exclusive record for decision in accordance with section 557 of this title and, on payment of lawfully prescribed costs, shall be made available to the parties. When an agency decision rests on official notice of a material fact not appearing in the evidence in the record, a party is entitled, on timely request, to an opportunity to show the contrary.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 386; Pub. L. 94–409, §4(c), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 95–251, §2(a)(1), Mar. 27, 1978, 92 Stat. 183; Pub. L. 101–552, §4(a), Nov. 15, 1990, 104 Stat. 2737.)
 
@@ -64,7 +64,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 <b>1990</b>—Subsec. (c)(6). Pub. L. 101–552, §4(a)(1), inserted before semicolon at end “or by the use of alternative means of dispute resolution as provided in subchapter IV of this chapter”.
 
-Subsec. (c)(7) to (11). Pub. L. 101–552, §4(a)(2), added pars. (7) and (8) and redesignated former pars. (7) and (8) and redesignated former pars. (7) to (9) as (9) to (11), respectively.
+Subsec. (c)(7) to (11). Pub. L. 101–552, §4(a)(2), added pars. (7) and (8) and redesignated former pars. (7) to (9) as (9) to (11), respectively.
 
 <b>1978</b>—Subsec. (b)(3). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
 

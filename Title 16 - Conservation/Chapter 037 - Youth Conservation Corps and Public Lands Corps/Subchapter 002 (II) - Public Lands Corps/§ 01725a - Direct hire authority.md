@@ -18,5 +18,5 @@
 
 Section was enacted as part of the Department of the Interior, Environment, and Related Agencies Appropriations Act, 2012, and also as part of the Consolidated Appropriations Act, 2012, and not as part of the Public Lands Corps Act of 1993 which comprises this subchapter.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (2)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph (2)".</i>
 

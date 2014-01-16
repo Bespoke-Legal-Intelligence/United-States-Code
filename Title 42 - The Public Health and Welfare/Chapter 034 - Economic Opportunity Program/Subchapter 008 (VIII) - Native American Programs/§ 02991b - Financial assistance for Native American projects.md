@@ -34,7 +34,7 @@ Financial assistance extended to an agency under this subchapter shall not excee
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (a), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (a), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat.688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 This Act, referred to in subsec. (a), probably means the Native American Programs Act of 1974, Pub. L. 88–452, title VIII, as added by Pub. L. 93–644, §11, Jan. 4, 1975, 88 Stat. 2324, which is classified generally to this subchapter, see section 2991 of this title.
 
@@ -44,29 +44,29 @@ A prior section 2991b, Pub. L. 88–452, title VIII, §803, as added Pub. L. 89�
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–171 substituted “areas that are not Indian reservations or Alaska Native villages” for “nonreservation areas”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–171 substituted "areas that are not Indian reservations or Alaska Native villages" for "nonreservation areas".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–497 struck out “, subject to the availability of funds appropriated under the authority of section 2992d(c) of this title,” after “Commissioner is authorized” in second sentence.
+<b>1992</b>—Subsec. (a). Pub. L. 102–497 struck out ", subject to the availability of funds appropriated under the authority of section 2992d(c) of this title," after "Commissioner is authorized" in second sentence.
 
-Pub. L. 102–375, §822(21), substituted “Alaska Native villages” for “Alaskan Native villages”.
+Pub. L. 102–375, §822(21), substituted "Alaska Native villages" for "Alaskan Native villages".
 
-Pub. L. 102–375, §822(1)(A), (B)(i), substituted “Commissioner” for “Secretary” wherever appearing andsubstituted “Indian and Alaska Native organizations” for “Indian organizations”.
+Pub. L. 102–375, §822(1)(A), (B)(i), substituted "Commissioner" for "Secretary" wherever appearing and substituted "Indian and Alaska Native organizations" for "Indian organizations".
 
-Pub. L. 102–375, §822(1)(B)(ii), which directed the substitution of “area that is not an Indian reservation or Alaska Native village” for “nonreservation area”, could not be executed because the words “nonreservation area” did not appear.
+Pub. L. 102–375, §822(1)(B)(ii), which directed the substitution of "area that is not an Indian reservation or Alaska Native village" for "nonreservation area", could not be executed because the words "nonreservation area" did not appear.
 
-Subsecs. (b), (c)(1), (d)(1), (4). Pub. L. 102–375, §822(1)(A), substituted “Commissioner” for “Secretary” wherever appearing.
+Subsecs. (b), (c)(1), (d)(1), (4). Pub. L. 102–375, §822(1)(A), substituted "Commissioner" for "Secretary" wherever appearing.
 
 <b>1990</b>—Subsec. (d). Pub. L. 101–408 added subsec. (d).
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–175, §506(c)(2), substituted “Native Hawaiians” for “Hawaiian Natives”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–175, §506(c)(2), substituted "Native Hawaiians" for "Hawaiian Natives".
 
-Pub. L. 100–175, §§502(1), 504(a), inserted “, on a single year or multiyear basis,” after “assistance” in first sentence and inserted after first sentence “The Secretary is authorized, subject to the availability of funds appropriated under the authority of section 2992d(c) of this title, to provide financial assistance to public and nonprofit private agencies serving other Native American Pacific Islanders (including American Samoan Natives) for projects pertaining to the purposes of this Act.”
+Pub. L. 100–175, §§502(1), 504(a), inserted ", on a single year or multiyear basis," after "assistance" in first sentence and inserted after first sentence "The Secretary is authorized, subject to the availability of funds appropriated under the authority of section 2992d(c) of this title, to provide financial assistance to public and nonprofit private agencies serving other Native American Pacific Islanders (including American Samoan Natives) for projects pertaining to the purposes of this Act."
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–558, §1002(a), inserted at end “Every determination made with respect to a request for financial assistance under this section shall be made without regard to whether the agency making such request serves, or the project to be assisted is for the benefit of, Indians who are not members of a federally recognized tribe. To the greatest extent practicable, the Secretary shall ensure that each project to be assisted under this subchapter is consistent with the priorities established by the agency which receives such assistance.”
+<b>1984</b>—Subsec. (a). Pub. L. 98–558, §1002(a), inserted at end "Every determination made with respect to a request for financial assistance under this section shall be made without regard to whether the agency making such request serves, or the project to be assisted is for the benefit of, Indians who are not members of a federally recognized tribe. To the greatest extent practicable, the Secretary shall ensure that each project to be assisted under this subchapter is consistent with the priorities established by the agency which receives such assistance."
 
 Subsec. (c)(1). Pub. L. 98–558, §1002(b), designated existing provisions as par. (1) and added par. (2).
 
-<b>1978</b>—Pub. L. 95–568 substituted in subsecs. (b) and (c) “the Secretary determines” for “he determines”.
+<b>1978</b>—Pub. L. 95–568 substituted in subsecs. (b) and (c) "the Secretary determines" for "he determines".
 
 #### Effective Date of 1987 Amendment
 

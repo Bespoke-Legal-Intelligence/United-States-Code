@@ -106,17 +106,17 @@ Amounts authorized to be appropriated to the Secretary of Energy for defense nuc
 
 In this section:
 
-&emsp;(1) The term “fissile materials” means plutonium, highly-enriched uranium, or othermaterial capable of sustaining an explosive nuclear chain reaction, including irradiated items containing such materials if the radiation field from such items is not sufficient to prevent the theft or misuse of such items.
+&emsp;(1) The term "fissile materials" means plutonium, highly-enriched uranium, or othermaterial capable of sustaining an explosive nuclear chain reaction, including irradiated items containing such materials if the radiation field from such items is not sufficient to prevent the theft or misuse of such items.
 
-&emsp;(2) The term “radiological materials” includes Americium-241, Californium-252, Cesium-137, Cobalt-60, Iridium-192, Plutonium-238, Radium-226, Strontium-90, Curium-244, and irradiated items containing such materials, or other materials designated by the Secretary of Energy for purposes of this paragraph.
+&emsp;(2) The term "radiological materials" includes Americium-241, Californium-252, Cesium-137, Cobalt-60, Iridium-192, Plutonium-238, Radium-226, Strontium-90, Curium-244, and irradiated items containing such materials, or other materials designated by the Secretary of Energy for purposes of this paragraph.
 
-&emsp;(3) The term “related equipment” includes equipment useful for enrichment of uranium in the isotope 235 and for extraction of fissile materials from irradiated fuel rods and other equipment designated by the Secretary of Energy for purposes of this section.
+&emsp;(3) The term "related equipment" includes equipment useful for enrichment of uranium in the isotope 235 and for extraction of fissile materials from irradiated fuel rods and other equipment designated by the Secretary of Energy for purposes of this section.
 
-&emsp;(4) The term “highly-enriched uranium” means uranium enriched to or above 20 percent in the isotope 235.
+&emsp;(4) The term "highly-enriched uranium" means uranium enriched to or above 20 percent in the isotope 235.
 
-&emsp;(5) The term “low-enriched uranium” means uranium enriched below 20 percent in the isotope 235.
+&emsp;(5) The term "low-enriched uranium" means uranium enriched below 20 percent in the isotope 235.
 
-&emsp;(6) The term “proliferation-attractive”, in the case of fissile materials and radiological materials, means quantities and types of such materials that are determined by the Secretary of Energy to present a significant risk to the national security of the United States if diverted to a use relating to proliferation.
+&emsp;(6) The term "proliferation-attractive", in the case of fissile materials and radiological materials, means quantities and types of such materials that are determined by the Secretary of Energy to present a significant risk to the national security of the United States if diverted to a use relating to proliferation.
 
 (Pub. L. 108–375, div. C, title XXXI, §3132, Oct. 28, 2004, 118 Stat. 2166; Pub. L. 109–364, div. C, title XXXI, §3113, Oct. 17, 2006, 120 Stat. 2504; Pub. L. 112–239, div. C, title XXXI, §3118, Jan. 2, 2013, 126 Stat. 2173.)
 
@@ -128,11 +128,11 @@ Section was enacted as part of the Ronald W. Reagan National Defense Authorizati
 
 <b>2013</b>—Subsec. (f)(2). Pub. L. 112–239, §3118(a), amended par. (2) generally. Prior to amendment, par. (2) related to programs covered and listed certain international programs within the Global Threat Reduction Initiative.
 
-Subsec. (f)(7). Pub. L. 112–239, §3118(b), substituted “December 31, 2018” for “December 31, 2013”.
+Subsec. (f)(7). Pub. L. 112–239, §3118(b), substituted "December 31, 2018" for "December 31, 2013".
 
 <b>2006</b>—Subsecs. (f), (g). Pub. L. 109–364 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-#### “Congressional Defense Committees” Defined
+#### "Congressional Defense Committees" Defined
 
 Congressional defense committees has the meaning given that term in section 101(a)(16) of Title 10, Armed Forces, see section 3 of Pub. L. 108–375, Oct. 28, 2004, 118 Stat. 1825. See note under section 101 of Title 10.
 

@@ -50,7 +50,7 @@ The Commissioner may diverge from the priority order if the Commissioner determi
 
 #### References in Text
 
-Public Law 106–58, referred to in subsec. (a)(1)(A), is Pub. L. 106–58, Sept. 29, 1999, 113 Stat. 430, known as the Treasury and General Government Appropriations Act, 2000. For complete classification of this Act to the Code, see Tables.
+Public Law 106–58, referred to in subsec. (a)(1)(A), is Pub. L. 106–58, Sept. 29, 1999, 113 Stat. 430, known as theTreasury and General Government Appropriations Act, 2000. For complete classification of this Act to the Code, see Tables.
 
 Public Law 108–90, referred to in subsec. (a)(1)(B), is Pub. L. 108–90, Oct. 1, 2003, 117 Stat. 1137, known as the Department of Homeland Security Appropriations Act, 2004. For complete classification of this Act to the Code, see Tables.
 

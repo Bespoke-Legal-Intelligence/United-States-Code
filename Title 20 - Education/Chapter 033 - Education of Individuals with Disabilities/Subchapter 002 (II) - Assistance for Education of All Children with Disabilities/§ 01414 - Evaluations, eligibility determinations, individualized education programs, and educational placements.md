@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) the local educational agency shall not be considered to be in violation of the requirement to make available a free appropriate public education to the child for the failure to provide such child with the special education and related services for which the local educational agency requests such consent; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the local educational agency shall not be required to convene an IEP meeting or develop an IEP under this section for the child for the special education and related services forwhich the local educational agency requests such consent.
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the local educational agency shall not be required to convene an IEP meeting or develop an IEP under this section for the child for the special education and related services for which the local educational agency requests such consent.
 
 #### (iii) Consent for wards of the State
 
@@ -222,7 +222,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The evaluation described in subparagraph (A) shall not be required before the termination of a child's eligibility under this subchapter due to graduation from secondary school with a regular diploma,or due to exceeding the age eligibility for a free appropriate public education under State law.
+&emsp;&emsp;&emsp;The evaluation described in subparagraph (A) shall not be required before the termination of a child's eligibility under this subchapter due to graduation from secondary school with a regular diploma, or due to exceeding the age eligibility for a free appropriate public education under State law.
 
 #### (ii) Summary of performance
 
@@ -238,7 +238,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “individualized education program” or “IEP” means a written statement for each child with a disability that is developed, reviewed, and revised in accordance with this section and that includes—
+&emsp;&emsp;&emsp;The term "individualized education program" or "IEP" means a written statement for each child with a disability that is developed, reviewed, and revised in accordance with this section and that includes—
 
 &emsp;&emsp;&emsp;&emsp;(I) a statement of the child's present levels of academic achievement and functional performance, including—
 
@@ -294,7 +294,7 @@
 
 #### (B) Individualized education program team
 
-&emsp;&emsp;The term “individualized education program team” or “IEP Team” means a group of individuals composed of—
+&emsp;&emsp;The term "individualized education program team" or "IEP Team" means a group of individuals composed of—
 
 &emsp;&emsp;&emsp;(i) the parents of a child with a disability;
 
@@ -362,7 +362,7 @@
 
 #### (II) Transfer outside State
 
-&emsp;&emsp;&emsp;&emsp;In the case of a child with a disability who transfers school districts within the same academic year, who enrolls in a new school, and who had an IEP that was in effect in another State, the local educational agency shall provide such child with a free appropriate public education, including services comparable to those described in the previously held IEP, in consultation with the parents until such time as the local educational agency conducts an evaluation pursuant to subsection (a)(1), if determined to be necessary by such agency, and develops a new IEP, if appropriate, that is consistent with Federal and State law.
+&emsp;&emsp;&emsp;&emsp;In the case of a child with a disability who transfers school districts within thesame academic year, who enrolls in a new school, and who had an IEP that was in effect in another State, the local educational agency shall provide such child with a free appropriate public education, including services comparable to those described in the previously held IEP, in consultation with the parents until such time as the local educational agency conducts an evaluation pursuant to subsection (a)(1), if determined to be necessary by such agency, and develops a new IEP, if appropriate, that is consistent with Federal and State law.
 
 #### (ii) Transmittal of records
 
@@ -450,7 +450,7 @@
 
 #### (ii) Authorization
 
-&emsp;&emsp;&emsp;In order to carry out the purpose of this paragraph, the Secretary is authorized toapprove not more than 15 proposals from States to carry out the activity described in clause (i).
+&emsp;&emsp;&emsp;In order to carry out the purpose of this paragraph, the Secretary is authorized to approve not more than 15 proposals from States to carry out the activity described in clause (i).
 
 #### (iii) Proposal
 
@@ -502,7 +502,7 @@
 
 #### (C) Definition
 
-&emsp;&emsp;In this paragraph, the term “natural transition points” means those periods that are close in time to the transition of a child with a disability from preschool to elementary grades, from elementary grades to middle or junior high school grades, from middle or junior high school grades to secondary school grades, and from secondary school grades to post-secondary activities, but in no case a period longer than 3 years.
+&emsp;&emsp;In this paragraph, the term "natural transition points" means those periods that are close in time to the transition of a child with a disability from preschool to elementary grades, from elementary grades to middle or junior high school grades, from middle or junior high school grades to secondary school grades, and from secondary school grades to post-secondary activities, but in no case a period longer than 3 years.
 
 #### (6) Failure to meet transition objectives
 
@@ -520,7 +520,7 @@
 
 #### (B) Additional requirement
 
-&emsp;&emsp;If a child with a disability is convicted as an adult under State law and incarcerated in an adult prison, the child's IEP Team may modify the child's IEP or placement notwithstanding the requirements of sections <sup>1</sup>1412(a)(5)(A) of this title and paragraph (1)(A) if the State has demonstrated a bona fide security or compelling penological interest that cannot otherwise be accommodated.
+&emsp;&emsp;If a child with a disability is convicted as an adult under State law and incarcerated in an adult prison, the child's IEP Team may modify the child's IEP or placement notwithstanding the requirements of sections <sup>1</sup> 1412(a)(5)(A) of this title and paragraph (1)(A) if the State has demonstrated a bona fide security or compelling penological interest that cannot otherwise be accommodated.
 
 #### (e) Educational placements
 
@@ -540,7 +540,7 @@ Another prior section 1414, Pub. L. 91–230, title VI, §614, Apr. 13, 1970, 84
 
 A prior section 1414a, Pub. L. 91–230, title VI, §614A, as added Pub. L. 103–382, title III, §312, Oct. 20, 1994, 108 Stat. 3934, which related to treatment of State agencies that received funds for fiscal year 1994 under subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as in existence on the day preceding Oct. 20, 1994), was omitted in the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

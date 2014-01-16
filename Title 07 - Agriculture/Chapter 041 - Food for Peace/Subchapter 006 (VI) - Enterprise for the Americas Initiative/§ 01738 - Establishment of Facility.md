@@ -1,6 +1,6 @@
 ### §1738. Establishment of Facility
 
-There is established in the Department of the Treasury an entity to be known as the “Enterprise for the Americas Facility” (hereafter referred to in this subchapter as the “Facility”).
+There is established in the Department of the Treasury an entity to be known as the "Enterprise for the Americas Facility" (hereafter referred to in this subchapter as the "Facility").
 
 (July 10, 1954, ch. 469, title VI, §601, as added Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3658.)
 
@@ -10,7 +10,7 @@ Subchapter effective Jan. 1, 1991, see section 1513 of Pub. L. 101–624, set ou
 
 #### Executive Order No. 12757
 
-Ex. Ord. No. 12757, Mar. 19, 1991, 56 F.R. 12107, as amended by Ex. Ord. No. 12823, Dec. 3, 1992, 57 F.R. 57645; Ex. Ord. No. 13028, Dec. 3, 1996, 61 F.R. 64589; Ex. Ord. No. 13131, July 22, 1999, 64 F.R. 40733, which related to implementation of the Enterprise for the Americas Initiative and the Tropical Forest Conservation Act of1998, was revoked by Ex. Ord. No. 13345, §6(a), July 8, 2004, 69 F.R. 41903, set out below.
+Ex. Ord. No. 12757, Mar. 19, 1991, 56 F.R. 12107, as amended by Ex. Ord. No. 12823, Dec. 3, 1992, 57 F.R. 57645; Ex. Ord. No. 13028, Dec. 3, 1996, 61 F.R. 64589; Ex. Ord. No. 13131, July 22, 1999, 64 F.R. 40733, which related to implementation of the Enterprise for the Americas Initiative and the Tropical Forest Conservation Act of 1998, was revoked by Ex. Ord. No. 13345, §6(a), July 8, 2004, 69 F.R. 41903, set out below.
 
 #### Ex. Ord. No. 13345. Assigning Foreign Affairs Functions and Implementing the Enterprise for the Americas Initiative and the Tropical Forest Conservation Act
 
@@ -92,7 +92,7 @@ Sec. 6. <i>Revocation of Executive Orders</i>. The following Executive Orders ar
 
 (d) Executive Order 13131 of July 22, 1999.
 
-Sec. 7. <i>Judicial Review</i>. This order is not intended to, and does not, create any right or benefit, substantiveor procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, entities, officers, employees or agents, or any other person.
+Sec. 7. <i>Judicial Review</i>. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, entities, officers, employees or agents, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

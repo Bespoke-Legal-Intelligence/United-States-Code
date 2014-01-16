@@ -18,19 +18,19 @@
 
 &emsp;For purposes of this section—
 
-&emsp;&emsp;(A) the term “reinspection” means—
+&emsp;&emsp;(A) the term "reinspection" means—
 
 &emsp;&emsp;&emsp;(i) with respect to domestic facilities (as defined in section 350d(b) of this title), 1 or more inspections conducted under section 374 of this title subsequent to an inspection conducted under such provision which identified noncompliance materially related to a food safety requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary's satisfaction; and
 
 &emsp;&emsp;&emsp;(ii) with respect to importers, 1 or more examinations conducted under section 381 of this title subsequent to an examination conducted under such provision which identified noncompliance materially related to a food safety requirement of this chapter, specifically to determine whether compliance has been achieved to the Secretary's satisfaction;
 
-&emsp;&emsp;(B) the term “reinspection-related costs” means all expenses, including administrative expenses, incurred in connection with—
+&emsp;&emsp;(B) the term "reinspection-related costs" means all expenses, including administrative expenses, incurred in connection with—
 
 &emsp;&emsp;&emsp;(i) arranging, conducting, and evaluating the results of reinspections; and
 
 &emsp;&emsp;&emsp;(ii) assessing and collecting reinspection fees under this section; and
 
-&emsp;&emsp;(C) the term “responsible party” has the meaning given such term in section 350f(a)(1) of this title.
+&emsp;&emsp;(C) the term "responsible party" has the meaning given such term in section 350f(a)(1) of this title.
 
 #### (b) Establishment of fees
 
@@ -68,7 +68,7 @@
 
 #### (iii) Published guidelines
 
-&emsp;&emsp;&emsp;Not later than 180 days after January 4, 2011, the Secretary shall publish in the Federal Register a proposed set of guidelines in consideration of the burden of fee amounts on small business. Such consideration may include reduced fee amounts for small businesses. The Secretary shall provide for a period of public comment on such guidelines. The Secretary shall adjust the fee schedule for small businesses subject to such fees only through notice and comment rulemaking.
+&emsp;&emsp;&emsp;Not later than 180 days after January 4, 2011, the Secretary shall publish in the Federal Register a proposed set of guidelines in consideration of the burden of fee amounts on small business. Such consideration may include reduced fee amounts for small businesses. The Secretary shall provide for a period of public comment on such guidelines. The Secretary shall adjustthe fee schedule for small businesses subject to such fees only through notice and comment rulemaking.
 
 #### (3) Use of fees
 
@@ -126,7 +126,7 @@ Fees authorized under subsection (a) shall be collected and available for obliga
 
 #### (2) Collection of unpaid fees
 
-&emsp;In any case where the Secretary does not receive payment of a fee assessed under this section within 30 days after it is due, such feeshall be treated as a claim of the United States Government subject to provisions of subchapter II of chapter 37 of title 31.
+&emsp;In any case where the Secretary does not receive payment of a fee assessed under this section within 30 days after it is due, such fee shall be treated as a claim of the United States Government subject to provisions of subchapter II of chapter 37 of title 31.
 
 #### (f) Annual report to Congress
 
@@ -144,5 +144,5 @@ Nothing in this section to be construed to apply to certain alcohol-related faci
 
 <i><sup>1</sup></i><i> So in original. No subcl. (I) has been enacted.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “clauses”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "clauses".</i>
 

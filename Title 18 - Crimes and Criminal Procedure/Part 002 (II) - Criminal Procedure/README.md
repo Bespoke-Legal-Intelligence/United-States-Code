@@ -41,7 +41,7 @@
 | [<b>232A.</b>](Chapter%20232A%20-%20Special%20Forfeiture%20of%20Collateral%20Profits%20of%20Crime/README.md) | <b>Special forfeiture of collateral profits of crime</b> | <b>3681</b> |
 | [<b>233.</b>](Chapter%20233%20-%20Contempts/README.md) | <b>Contempts</b> | <b>3691</b> |
 | [<b>235.</b>](Chapter%20235%20-%20Appeal/README.md) | <b>Appeal</b> | <b>3731</b> |
-| [<b>237.</b>](Chapter%20237%20-%20Crime%20Victims%E2%80%99%20Rights/README.md) | <b>Crime victims’ rights</b> | <b>3771</b> |
+| [<b>237.</b>](Chapter%20237%20-%20Crime%20Victims%27%20Rights/README.md) | <b>Crime victims' rights</b> | <b>3771</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -53,31 +53,31 @@
 
 <b>2000</b>—Pub. L. 106–523, §2(b), Nov. 22, 2000, 114 Stat. 2492, added item for chapter 212.
 
-<b>1994</b>—Pub. L. 103–359, title VIII, §803(c)(1), Oct. 14, 1994, 108 Stat. 3439, substituted “terrorist acts and espionage” for “terrorists acts” in item for chapter 204.
+<b>1994</b>—Pub. L. 103–359, title VIII, §803(c)(1), Oct. 14, 1994, 108 Stat. 3439, substituted "terrorist acts and espionage" for "terrorists acts" in item for chapter 204.
 
 Pub. L. 103–322, title VI, §60002(b), Sept. 13, 1994, 108 Stat. 1968, added item for chapter 228.
 
-<b>1988</b>—Pub. L. 100–702, title IV, §404(a)(1), Nov. 19, 1988, 102 Stat. 4651, struck out item 237 “Rules of criminal procedure”.
+<b>1988</b>—Pub. L. 100–702, title IV, §404(a)(1), Nov. 19, 1988, 102 Stat. 4651, struck out item 237 "Rules of criminal procedure".
 
-<b>1986</b>—Pub. L. 99–646, §41(d), Nov. 10, 1986, 100 Stat. 3600, struck out item for chapter 232 “Special forfeiture of collateral profits of crime” and added item for chapter 232A.
+<b>1986</b>—Pub. L. 99–646, §41(d), Nov. 10, 1986, 100 Stat. 3600, struck out item for chapter 232 "Special forfeiture of collateral profits of crime" and added item for chapter 232A.
 
 Pub. L. 99–508, title III, §301(b), Oct. 21, 1986, 100 Stat. 1872, added item for chapter 206.
 
 <b>1984</b>—Pub. L. 98–533, title I, §101(b), Oct. 19, 1984, 98 Stat. 2708, added item for chapter 204.
 
-Pub. L. 98–473, title II, §§203(d), 212(b), 1209(a), 1406(b), Oct. 12, 1984, 98 Stat. 1985, 2011, 2163, 2176, inserted “and detention pending judicial proceedings” in item for chapter 207, added items for chapters 224, 227, 229, 231, and 232, and struck out items for former chapters 227 “Sentence, judgment, and execution”, 229 “Fines, penalties and forfeitures” and 231 “Probation”.
+Pub. L. 98–473, title II, §§203(d), 212(b), 1209(a), 1406(b), Oct. 12, 1984, 98 Stat. 1985, 2011, 2163, 2176, inserted "and detention pending judicial proceedings" in item for chapter 207, added items for chapters 224, 227, 229, 231, and 232, and struck out items for former chapters 227 "Sentence, judgment, and execution", 229 "Fines, penalties and forfeitures" and 231 "Probation".
 
 <b>1975</b>—Pub. L. 93–619, title I, §102, Jan. 3, 1975, 88 Stat. 2086, added item for chapter 208.
 
 <b>1970</b>—Pub. L. 91–452, title I, §101(b), Oct. 15, 1970, 84 Stat. 926, added item for chapter 216.
 
-<b>1968</b>—Pub. L. 90–578, title III, §301(c), Oct. 17, 1968, 82 Stat. 1115, substituted “Trial by United States magistrates” for “Trial by commissioners” in item for chapter 219.
+<b>1968</b>—Pub. L. 90–578, title III, §301(c), Oct. 17, 1968, 82 Stat. 1115, substituted "Trial by United States magistrates" for "Trial by commissioners" in item for chapter 219.
 
-<b>1966</b>—Pub. L. 89–465, §5(e)(2), June 22, 1966, 80 Stat. 217, substituted “Release” for “Bail” in item for chapter 207.
+<b>1966</b>—Pub. L. 89–465, §5(e)(2), June 22, 1966, 80 Stat. 217, substituted "Release" for "Bail" in item for chapter 207.
 
 #### Change of Name
 
-“United States magistrate judges” substituted for “United States magistrates” in item for chapter 219 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+"United States magistrate judges" substituted for "United States magistrates" in item for chapter 219 pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 <i><sup>1</sup></i><i> So in original. First word only of item should be capitalized.</i>
 
@@ -117,4 +117,4 @@ Pub. L. 98–473, title II, §§203(d), 212(b), 1209(a), 1406(b), Oct. 12, 1984,
 - [Chapter 232A - Special Forfeiture of Collateral Profits of Crime](Chapter%20232A%20-%20Special%20Forfeiture%20of%20Collateral%20Profits%20of%20Crime/README.md)
 - [Chapter 233 - Contempts](Chapter%20233%20-%20Contempts/README.md)
 - [Chapter 235 - Appeal](Chapter%20235%20-%20Appeal/README.md)
-- [Chapter 237 - Crime Victims&#8217; Rights](Chapter%20237%20-%20Crime%20Victims%E2%80%99%20Rights/README.md)
+- [Chapter 237 - Crime Victims' Rights](Chapter%20237%20-%20Crime%20Victims%27%20Rights/README.md)

@@ -50,7 +50,7 @@ Outstanding securities convertible into stock (whether or not convertible during
 
 #### Amendments
 
-<b>1964</b>—Pub. L. 88–272 substituted “section 543(a)(7)” for “section 543(a)(5)”, and “section 543(a)(4)” for “section 543(a)(9),” wherever appearing.
+<b>1964</b>—Pub. L. 88–272 substituted "section 543(a)(7)" for "section 543(a)(5)", and "section 543(a)(4)" for "section 543(a)(9)," wherever appearing.
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–435, §1(c)(1), inserted reference to section 543(a)(9) in introductory provisions.
 

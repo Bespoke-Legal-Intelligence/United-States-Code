@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Oct. 15, 1962, Pub. L. 87–817, §5(a), 76 Stat. 930.
 
-The words “the Commonwealth of Puerto Rico” are omitted as included in “territories, and possessions of the United States”.
+The words "the Commonwealth of Puerto Rico" are omitted as included in "territories, and possessions of the United States".
 

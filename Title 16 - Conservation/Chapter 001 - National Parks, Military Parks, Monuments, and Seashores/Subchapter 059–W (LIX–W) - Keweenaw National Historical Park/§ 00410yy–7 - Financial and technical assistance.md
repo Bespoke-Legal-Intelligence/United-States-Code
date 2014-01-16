@@ -16,5 +16,5 @@ Funds authorized to be appropriated to the Secretary for the purposes of this se
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b). Pub. L. 111–11 substituted “each $1 of funds” for “each $4 of funds”.
+<b>2009</b>—Subsec. (b). Pub. L. 111–11 substituted "each $1 of funds" for "each $4 of funds".
 

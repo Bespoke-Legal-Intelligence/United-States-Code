@@ -18,7 +18,7 @@ The Governor or Governor's designee of each State shall, within 3 years of June 
 
 #### (b) Public participation
 
-To the maximum extent possible, each State shall establish procedures, including but not limited to the establishment of technical and citizens’ advisory committees, to encourage the public to participate in developing the protection program for wellhead areas and source water assessment programs under section 300j–13 of this title. Such procedures shall include notice and opportunity for public hearing on the State program before it is submitted to the Administrator.
+To the maximum extent possible, each State shall establish procedures, including but notlimited to the establishment of technical and citizens' advisory committees, to encourage the public to participate in developing the protection program for wellhead areas and source water assessment programs under section 300j–13 of this title. Such procedures shall include notice and opportunity for public hearing on the State program before it is submitted to the Administrator.
 
 #### (c) Disapproval
 
@@ -34,9 +34,9 @@ To the maximum extent possible, each State shall establish procedures, including
 
 After the date 3 years after June 19, 1986, no State shall receive funds authorized to be appropriated under this section except for the purpose of implementing the program and requirements of paragraphs (4) and (6) of subsection (a) of this section.
 
-#### (e) “Wellhead protection area” defined
+#### (e) "Wellhead protection area" defined
 
-As used in this section, the term “wellhead protection area” means the surface and subsurface area surrounding a water well or wellfield, supplying a public water system, through which contaminants are reasonably likely to move toward and reach such water well or wellfield. The extent of a wellhead protection area,within a State, necessary to provide protection from contaminants which may have any adverse effect on the health of persons is to be determined by the State in the program submitted under subsection (a) of this section. Not later than one year after June 19, 1986, the Administrator shall issue technical guidance which States may use in making such determinations. Such guidance may reflect such factors as the radius of influence around a well or wellfield, the depth of drawdown of the water table by such well or wellfield at any given point, the time or rate of travel of various contaminants in various hydrologic conditions, distance from the well or wellfield, or other factors affecting the likelihood of contaminants reaching the well or wellfield, taking into account available engineering pump tests or comparable data, field reconnaissance, topographic information, and the geology of the formation in which the well or wellfield is located.
+As used in this section, the term "wellhead protection area" means the surface and subsurface area surrounding a water well or wellfield, supplying a public water system, through which contaminants are reasonably likely to move toward and reach such water well or wellfield. The extent of a wellhead protection area, within a State, necessary to provide protection from contaminants which may have any adverse effect on the health of persons is to be determined by the State in the program submitted under subsection (a) of this section. Not later than one year after June 19, 1986, the Administrator shall issue technical guidance which States may use in making such determinations. Such guidance may reflect such factors as the radius of influence around a well or wellfield, the depth of drawdown of the water table by such well or wellfield at any given point, the time or rate of travel of various contaminants in various hydrologic conditions, distance from the well or wellfield, or other factors affecting the likelihood of contaminants reaching the well or wellfield, taking into account available engineering pump tests or comparable data, field reconnaissance, topographic information, and the geology of the formation in which the well or wellfield is located.
 
 #### (f) Prohibitions
 
@@ -54,7 +54,7 @@ Each State shall make every reasonable effort to implement the State wellhead ar
 
 #### (h) Federal agencies
 
-Each department, agency, and instrumentality of the executive, legislative, and judicial branches of the Federal Government having jurisdiction over any potential source of contaminants identified by a State program pursuant to the provisions of subsection (a)(3) of this section shall be subject to and comply with all requirements of the State program developed according to subsection (a)(4) of this section applicable to such potential source of contaminants, both substantive and procedural, in the same manner, and to the same extent, as any other person is subject to such requirements, including payment of reasonable charges and fees. The President may exempt any potential source under the jurisdiction of any department, agency, or instrumentality in the executive branch if the President determines it to be in the paramount interest of the United States to do so. No such exemption shall be granted due to the lack of an appropriation unless the President shall have specifically requested such appropriation as part of the budgetary process and the Congress shall have failed to make available such requested appropriations.
+Each department, agency, and instrumentality of the executive, legislative, and judicial branches of the Federal Government having jurisdiction over any potential source of contaminants identified by a State program pursuant to the provisions of subsection (a)(3) of this section shall be subject to and comply with all requirements of the State program developed according to subsection (a)(4) of this section applicable to such potential source of contaminants, both substantive and procedural, in the same manner, and to the same extent, as any other person is subject to such requirements, including payment of reasonable charges and fees. The President may exempt any potential source under the jurisdiction of any department, agency, or instrumentality in the executive branch if the President determines it to be in the paramount interest of the United States to do so. No suchexemption shall be granted due to the lack of an appropriation unless the President shall have specifically requested such appropriation as part of the budgetary process and the Congress shall have failed to make available such requested appropriations.
 
 #### (i) Additional requirement
 
@@ -62,9 +62,9 @@ Each department, agency, and instrumentality of the executive, legislative, and 
 
 &emsp;In addition to the provisions of subsection (a) of this section, States in which there are more than 2,500 active wells at which annular injection is used as of January 1, 1986, shall include in their State program a certification that a State program exists and is being adequately enforced that provides protection from contaminants which may have any adverse effect on the health of persons and which are associated with the annular injection or surface disposal of brines associated with oil and gas production.
 
-#### (2) “Annular injection” defined
+#### (2) "Annular injection" defined
 
-&emsp;For purposes of this subsection, the term “annular injection” means the reinjection of brines associated with the production of oil or gas between the production and surface casings of a conventional oil or gas producing well.
+&emsp;For purposes of this subsection, the term "annular injection" means the reinjection of brines associated with the production of oil or gas between the production and surface casings of a conventional oil or gas producing well.
 
 #### (3) Review
 
@@ -93,7 +93,7 @@ Unless the State program is disapproved under this section, the Administrator sh
 | &nbsp;&nbsp;1991 | 35,000,000&nbsp;&nbsp; |
 | &nbsp;&nbsp;1992–2003 | 30,000,000. |
 
-(July 1, 1944, ch. 373, title XIV, §1428, as added and amended Pub. L. 99–339, title II, §205, titleIII, §301(e), June 19, 1986, 100 Stat. 660, 664; Pub. L. 104–182, title I, §§120(b), 132(b), title V, §501(f)(4), Aug. 6, 1996, 110 Stat. 1650, 1674, 1692.)
+(July 1, 1944, ch. 373, title XIV, §1428, as added and amended Pub. L. 99–339, title II, §205, title III, §301(e), June 19, 1986, 100 Stat. 660, 664; Pub. L. 104–182, title I, §§120(b), 132(b), title V, §501(f)(4), Aug. 6, 1996, 110 Stat. 1650, 1674, 1692.)
 
 #### References in Text
 
@@ -107,15 +107,15 @@ The Comprehensive Environmental Response, Compensation, and Liability Act of 198
 
 <b>1996</b>—Pub. L. 104–182, §501(f)(4), made technical amendment to section catchline and subsec. (a) designation.
 
-Subsec. (b). Pub. L. 104–182, §132(b)(4), inserted before period at end of first sentence “and source water assessment programs under section 300j–13 of this title”.
+Subsec. (b). Pub. L. 104–182, §132(b)(4), inserted before period at end of first sentence "and source water assessment programs under section 300j–13 of this title".
 
-Subsec. (c)(1). Pub. L. 104–182, §132(b)(3), which directed substitution of “is disapproved” for “is inadequate” in third sentence, was executed by making the substitution in fourth sentence to reflect the probable intent of Congress and the amendment by Pub. L. 104–182, §132(b)(2). See below.
+Subsec. (c)(1). Pub. L. 104–182, §132(b)(3), which directed substitution of "is disapproved" for "is inadequate" in third sentence, was executed by making the substitution in fourth sentence to reflect the probable intent of Congress and the amendment by Pub. L. 104–182, §132(b)(2). See below.
 
-Pub. L. 104–182, §132(b)(2), inserted after second sentence “A State program developed pursuant to section 300j–13 of this title or section 300g–7(b) of this title shall be deemed to meet the applicable requirements of section 300j–13 of this title or section 300g–7(b) of this title unless the Administrator determines within 9 months of the receipt of the program that such program (or portion thereof) does not meet such requirements.”
+Pub. L. 104–182, §132(b)(2), inserted after second sentence "A State program developed pursuant to section 300j–13 of this title or section 300g–7(b) of this title shall be deemed to meet the applicable requirements of section 300j–13 of this title or section 300g–7(b) of this title unless the Administrator determines within 9 months of the receipt of the program that such program (or portion thereof) does not meet such requirements."
 
-Pub. L. 104–182, §132(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: “If, in the judgment of the Administrator, a State program (or portion thereof, including the definition of a wellhead protection area), is not adequate to protect public water systems as required by this section, the Administrator shall disapprove such program (or portion thereof).”
+Pub. L. 104–182, §132(b)(1), amended first sentence generally. Prior to amendment, first sentence read as follows: "If, in the judgment of the Administrator, a State program (or portion thereof, including the definition of a wellhead protection area), is not adequate to protect public water systems as required by this section, the Administrator shall disapprove such program (or portion thereof)."
 
-Subsec. (c)(2). Pub. L. 104–182, §132(b)(3), substituted “is disapproved” for “is inadequate”.
+Subsec. (c)(2). Pub. L. 104–182, §132(b)(3), substituted "is disapproved" for "is inadequate".
 
 Subsec. (k). Pub. L. 104–182, §120(b), inserted table item relating to fiscal years 1992 through 2003.
 

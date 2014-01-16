@@ -4,7 +4,7 @@
 
 The Secretary shall identify, and list in the report under section 1826h of this title, a nation if fishing vessels of that nation are engaged, or have been engaged at any point during the preceding 2 years, in illegal, unreported, or unregulated fishing—
 
-&emsp;(1) the relevant international fishery management organization has failed to implementeffective measures to end the illegal, unreported, or unregulated fishing activity by vessels of that nation or the nation is not a party to, or does not maintain cooperating status with, such organization; or
+&emsp;(1) the relevant international fishery management organization has failed to implement effective measures to end the illegal, unreported, or unregulated fishing activity by vessels of that nation or the nation is not a party to, or does not maintain cooperating status with, such organization; or
 
 &emsp;(2) where no international fishery management organization exists with a mandate to regulate the fishing activity in question.
 
@@ -36,7 +36,7 @@ No later than 60 days after submitting a report to Congress under section 1826h 
 
 &emsp;The Secretary may establish a procedure for certification, on a shipment-by-shipment, shipper-by-shipper, or other basis of fish or fish products from a vessel of a harvesting nation not certified under paragraph (1) if the Secretary determines that—
 
-&emsp;&emsp;(A) the vessel has not engaged in illegal, unreported, or unregulated fishing under an international fishery management agreement to which the United States is a party; or
+&emsp;&emsp;(A) the vessel has not engaged in illegal, unreported, or unregulated fishing under aninternational fishery management agreement to which the United States is a party; or
 
 &emsp;&emsp;(B) the vessel is not identified by an international fishery management organization as participating in illegal, unreported, or unregulated fishing activities.
 
@@ -62,11 +62,11 @@ No later than 60 days after submitting a report to Congress under section 1826h 
 
 #### (1) In general
 
-&emsp;In sections 1826d to 1826k of this title the term “illegal, unreported, or unregulated fishing” has the meaning established under paragraph (2).
+&emsp;In sections 1826d to 1826k of this title the term "illegal, unreported, or unregulated fishing" has the meaning established under paragraph (2).
 
 #### (2) Secretary to define term within legislative guidelines
 
-&emsp;Within 3 months after January 12, 2007, the Secretary shall publish a definition of the term “illegal, unreported, or unregulated fishing” for purposes of sections 1826d to 1826k of this title.
+&emsp;Within 3 months after January 12, 2007, the Secretary shall publish a definition of the term "illegal, unreported, or unregulated fishing" for purposes of sections 1826d to 1826k of this title.
 
 #### (3) Guidelines
 
@@ -76,7 +76,7 @@ No later than 60 days after submitting a report to Congress under section 1826h 
 
 &emsp;&emsp;(B) overfishing of fish stocks shared by the United States, for which there are no applicable international conservation or management measures or in areas with no applicable international fishery management organization or agreement, that has adverse impacts on such stocks; and
 
-&emsp;&emsp;(C) fishing activity that has an adverse impact on seamounts, hydrothermal vents, andcold water corals located beyond national jurisdiction, for which there are no applicable conservation or management measures or in areas with no applicable international fishery management organization or agreement.
+&emsp;&emsp;(C) fishing activity that has an adverse impact on seamounts, hydrothermal vents, and cold water corals located beyond national jurisdiction, for which there are no applicable conservation or management measures or in areas with no applicable international fishery management organization or agreement.
 
 #### (f) Authorization of appropriations
 
@@ -86,9 +86,9 @@ There are authorized to be appropriated to the Secretary for fiscal years 2007 t
 
 #### References in Text
 
-Section 1826a(a) and section 1826a(b)(3) and (4) of this title, referred to in subsec. (d)(3)(A), was in the original “section 101(a) and section 101(b)(3) and (4) of this Act (16 U.S.C. 1826a(a), (b)(3), and (b)(4))” and was translated as meaning section 101(a) and section 101(b)(3) and (4) of the High Seas Driftnet Fisheries Enforcement Act, to reflect the probable intent of Congress.
+Section 1826a(a) and section 1826a(b)(3) and (4) of this title, referred to in subsec. (d)(3)(A), was in the original "section 101(a) and section 101(b)(3) and (4) of this Act (16 U.S.C. 1826a(a), (b)(3), and (b)(4))" and was translated as meaning section 101(a) and section 101(b)(3) and (4) of the High Seas Driftnet Fisheries Enforcement Act, to reflect the probable intent of Congress.
 
-Sections 1826d to 1826k of this title, referred to in subsec. (e)(1), (2), was in the original “this Act” and was translated as reading “this title” meaning title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
+Sections 1826d to 1826k of this title, referred to in subsec. (e)(1), (2), was in the original "this Act" and was translated as reading "this title" meaning title VI of Pub. L. 104–43, Nov. 3, 1995, 109 Stat. 391, known as the High Seas Driftnet Fishing Moratorium Protection Act. For complete classification of title VI to the Code, see Short Title of 1995 Amendment note set out under section 1801 of this title and Tables.
 
 #### Codification
 
@@ -96,5 +96,5 @@ Section was enacted as part of the High Seas Driftnet Fishing Moratorium Protect
 
 #### Amendments
 
-<b>2011</b>—Subsec. (e)(3)(A). Pub. L. 111–348 substituted “bycatch reduction requirements, and shark conservation measures;” for “and bycatch reduction requirements;”.
+<b>2011</b>—Subsec. (e)(3)(A). Pub. L. 111–348 substituted "bycatch reduction requirements, and shark conservation measures;" for "and bycatch reduction requirements;".
 

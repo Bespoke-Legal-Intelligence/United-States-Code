@@ -4,11 +4,11 @@
 
 As used in this section—
 
-&emsp;(1) The term “Act of 1976” means the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
+&emsp;(1) The term "Act of 1976" means the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.).
 
-&emsp;(2) The term “billfish” means any species of marlin, spearfish, sailfish or swordfish.
+&emsp;(2) The term "billfish" means any species of marlin, spearfish, sailfish or swordfish.
 
-&emsp;(3) The term “Secretary” means the Secretary of Commerce.
+&emsp;(3) The term "Secretary" means the Secretary of Commerce.
 
 #### (b) Observer program
 
@@ -26,7 +26,7 @@ The Secretary shall establish a program under which a United States observer wil
 
 #### (c) Functions of observers
 
-United States observers, while aboard foreign fishing vessels as required under subsection (b) of this section, shall carry out such scientific and other functions as the Secretary deems necessary or appropriate to carry out this section.
+United States observers, while aboard foreign fishing vessels as required under subsection (b) of this section, shall carry out such scientificand other functions as the Secretary deems necessary or appropriate to carry out this section.
 
 #### (d) Fees
 
@@ -56,7 +56,7 @@ The Secretary shall issue such regulations as are necessary or appropriate to ca
 
 #### References in Text
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a)(1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which isclassified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (a)(1), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 101 of the Act of 1976 \[16 U.S.C. 1811\], referred to in subsec. (b)(1)(A), which established the fishery conservation zone, was amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, and now relates to United States sovereign rights to fish and fishery management authority within the exclusive economic zone.
 
@@ -66,9 +66,9 @@ Section was not enacted as part of the Magnuson-Stevens Fishery Conservation and
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–208 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–208 substituted "Magnuson-Stevens Fishery" for "Magnuson Fishery".
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–561 substituted “Magnuson Fishery Conservation and Management Act” for “Fishery Conservation and Management Act of 1976”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–561 substituted "Magnuson Fishery Conservation and Management Act" for "Fishery Conservation and Management Act of 1976".
 
 #### Effective Date of 1996 Amendment
 

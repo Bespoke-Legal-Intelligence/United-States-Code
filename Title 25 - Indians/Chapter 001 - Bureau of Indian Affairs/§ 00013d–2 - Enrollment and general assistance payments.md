@@ -36,13 +36,13 @@ The Higher Education Act of 1965, referred to in subsec. (a)(2), is Pub. L. 89�
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–315 substituted “the Tribally Controlled Colleges and Universities Assistance Act of 1978” for “the Tribally Controlled College or University Assistance Act of 1978”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–315 substituted "the Tribally Controlled Colleges and Universities Assistance Act of 1978" for "the Tribally Controlled College or University Assistance Act of 1978".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–110, §1045(1), added subsec. heading and introductory provisions and struck out former subsec. heading and introductory provisions. Former introductory provisions read as follows: “The Secretary of the Interior shall not disqualify from continued receipt of general assistance payments from the Bureau of Indian Affairs an otherwise eligible Indian for whom the Bureau has been making general assistance payments for at least 3 months (or exclude such an individual from continued consideration in determining the amount of general assistance payments for a household) because the individual is enrolled (and is making satisfactory progress toward completion of a program or training that can reasonably be expected to lead to gainful employment) for at least half-time study or training in—”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–110, §1045(1), added subsec. heading and introductory provisions and struck out former subsec. heading and introductory provisions. Former introductory provisions read as follows: "The Secretary of the Interior shall not disqualify from continued receipt of general assistance payments from the Bureau of Indian Affairs an otherwise eligible Indian for whom the Bureau has been making general assistance payments for at least 3 months (or exclude such an individual from continued consideration in determining the amount of general assistance payments for a household) because the individual is enrolled (and is making satisfactory progress toward completion of a program or training that can reasonably be expected to lead to gainful employment) for at least half-time study or training in—".
 
-Subsec. (a)(4). Pub. L. 107–110, §1045(2), added par. (4) and struck out former par. (4) which read as follows: “other programs or training approved by the Secretary.”
+Subsec. (a)(4). Pub. L. 107–110, §1045(2), added par. (4) and struck out former par. (4) which read as follows: "other programs or training approved by the Secretary."
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–244 substituted “Tribally Controlled College or University Assistance Act of 1978” for “Tribally Controlled Community College Assistance Act of 1978”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–244 substituted "Tribally Controlled College or University Assistance Act of 1978" for "Tribally Controlled Community College Assistance Act of 1978".
 
 #### Effective Date of 2002 Amendment
 

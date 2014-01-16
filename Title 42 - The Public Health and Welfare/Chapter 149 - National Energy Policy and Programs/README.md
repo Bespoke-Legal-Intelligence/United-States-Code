@@ -475,16 +475,9 @@
 
 #### Part J—Ultra-Deepwater and Unconventional Natural Gas and Other Petroleum Resources
 
-|  |  |
-| :--- | ---: |
-| [16371\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20J%20-%20Ultra-Deepwater%20and%20Unconventional%20Natural%20Gas%20and%20Other%20Petroleum%20Resources/%C2%A7%2016371%20-%20Program%20authority.md) | Program authority. |
-| [16372\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20J%20-%20Ultra-Deepwater%20and%20Unconventional%20Natural%20Gas%20and%20Other%20Petroleum%20Resources/%C2%A7%2016372%20-%20Ultra-deepwater%20and%20unconventional%20onshore%20natural%20gas%20and%20other%20petroleum%20research%20and%20development%20program.md) | Ultra-deepwater and unconventional onshore natural gas and other petroleum research and development program. |
-| [16373\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20J%20-%20Ultra-Deepwater%20and%20Unconventional%20Natural%20Gas%20and%20Other%20Petroleum%20Resources/%C2%A7%2016373%20-%20Additional%20requirements%20for%20awards.md) | Additional requirements for awards. |
-| [16374\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20J%20-%20Ultra-Deepwater%20and%20Unconventional%20Natural%20Gas%20and%20Other%20Petroleum%20Resources/%C2%A7%2016374%20-%20Advisory%20committees.md) | Advisory committees. |
-| [16375\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20J%20-%20Ultra-Deepwater%20and%20Unconventional%20Natural%20Gas%20and%20Other%20Petroleum%20Resources/%C2%A7%2016375%20-%20Limits%20on%20participation.md) | Limits on participation. |
-| [16376\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20J%20-%20Ultra-Deepwater%20and%20Unconventional%20Natural%20Gas%20and%20Other%20Petroleum%20Resources/%C2%A7%2016376%20-%20Sunset.md) | Sunset. |
-| [16377\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20J%20-%20Ultra-Deepwater%20and%20Unconventional%20Natural%20Gas%20and%20Other%20Petroleum%20Resources/%C2%A7%2016377%20-%20Definitions.md) | Definitions. |
-| [16378\.](Subchapter%20009%20%28IX%29%20-%20Research%20and%20Development/Part%20J%20-%20Ultra-Deepwater%20and%20Unconventional%20Natural%20Gas%20and%20Other%20Petroleum%20Resources/%C2%A7%2016378%20-%20Funding.md) | Funding. |
+|  |
+| :--- |
+| 16371 to 16378. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

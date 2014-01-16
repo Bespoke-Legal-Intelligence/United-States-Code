@@ -54,9 +54,9 @@
 
 #### References in Text
 
-The Atomic Energy Act of 1954, referred to in subsec. (b)(2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (b)(2), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
-January 15, 1986, referred to in subsec. (b)(3), was in the original “the date of enactment of this Act” and was translated as meaning the date of enactment of Pub. L. 99–240 to reflect the probable intent of Congress.
+January 15, 1986, referred to in subsec. (b)(3), was in the original "the date of enactment of this Act" and was translated as meaning the date of enactment of Pub. L. 99–240 to reflect the probable intent of Congress.
 
 #### Codification
 
@@ -66,5 +66,5 @@ Section was enacted as part of the Low-Level Radioactive Waste Policy Act, and n
 
 A prior section 2021c, Pub. L. 96–573, §3, Dec. 22, 1980, 94 Stat. 3347, related to the applicability of low-level radioactive waste compacts, prior to repeal by Pub. L. 99–240, §102. See section 2021d of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

@@ -24,7 +24,7 @@ The Administrator shall, not later than one year after August 7, 1977, promulgat
 
 (1) Not later than December 31, 1980, and at five-year intervals thereafter, the Administrator shall complete a thorough review of the criteria published under section 7408 of this title and the national ambient air quality standards promulgated under this section and shall make such revisions in such criteria and standards and promulgate such new standards as may be appropriate in accordance with section 7408 of this title and subsection (b) of this section. The Administrator may review and revise criteria or promulgate new standards earlier or more frequently than required under this paragraph.
 
-(2)(A) The Administrator shall appoint an independent scientific review committee composed of seven members including at least one member of the National Academy of Sciences,one physician, and one person representing State air pollution control agencies.
+(2)(A) The Administrator shall appoint an independent scientific review committee composed of seven members including at least one member of the National Academy of Sciences, one physician, and one person representing State air pollution control agencies.
 
 (B) Not later than January 1, 1980, and at five-year intervals thereafter, the committee referred to in subparagraph (A) shall complete a review of the criteria published under section 7408 of this title and the national primary and secondary ambient air quality standards promulgated under this section and shall recommend to the Administrator any new national ambient air quality standards and revisions of existing criteria and standards as may be appropriate under section 7408 of this title and subsection (b) of this section.
 
@@ -62,27 +62,27 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 Pub. L. 101–549, title VIII, §817, Nov. 15, 1990, 104 Stat. 2697, provided that:
 
-“(a)
+"(a)
 
 Report.—The Administrator shall request the National Academy of Sciences to prepare a report to the Congress on the role of national secondary ambient air quality standards in protecting welfare and the environment. The report shall:
 
-&emsp;“(1) include information on the effects on welfare and the environment which are caused by ambient concentrations of pollutants listed pursuant to section 108 \[42 U.S.C. 7408\] and other pollutants which may be listed;
+&emsp;"(1) include information on the effects on welfare and the environment which are caused by ambient concentrations of pollutants listed pursuant to section 108 \[42 U.S.C. 7408\] and other pollutants which may be listed;
 
-&emsp;“(2) estimate welfare and environmental costs incurred as a result of such effects;
+&emsp;"(2) estimate welfare and environmental costs incurred as a result of such effects;
 
-&emsp;“(3) examine the role of secondary standards and the State implementation planning process in preventing such effects;
+&emsp;"(3) examine the role of secondary standards and the State implementation planning process in preventing such effects;
 
-&emsp;“(4) determine ambient concentrations of each such pollutant which would be adequate to protect welfare and the environment from such effects;
+&emsp;"(4) determine ambient concentrations of each such pollutant which would be adequate to protect welfare and the environment from such effects;
 
-&emsp;“(5) estimate the costs and other impacts of meeting secondary standards; and
+&emsp;"(5) estimate the costs and other impacts of meeting secondary standards; and
 
-&emsp;“(6) consider other means consistent with the goals and objectives of the Clean Air Act \[42 U.S.C. 7401 et seq.\] which may be more effective than secondary standards in preventing or mitigating such effects.
+&emsp;"(6) consider other means consistent with the goals and objectives of the Clean Air Act \[42 U.S.C. 7401 et seq.\] which may be more effective than secondary standards in preventing or mitigating such effects.
 
-“(b)
+"(b)
 
 Submission to Congress; Comments; Authorization.—(1) The report shall be transmitted to the Congress not later than 3 years after the date of enactment of the Clean Air Act Amendments of 1990 \[Nov. 15, 1990\].
 
-“(2) At least 90 days before issuing a report the Administrator shall provide an opportunity for public comment on the proposed report. The Administrator shall include in the final report a summary of the comments received on the proposed report.
+"(2) At least 90 days before issuing a report the Administrator shall provide an opportunity for public comment on the proposed report. The Administrator shall include in the final report a summary of the comments received on the proposed report.
 
-“(3) There are authorized to be appropriated such sums as are necessary to carry out this section.”
+"(3) There are authorized to be appropriated such sums as are necessary to carry out this section."
 

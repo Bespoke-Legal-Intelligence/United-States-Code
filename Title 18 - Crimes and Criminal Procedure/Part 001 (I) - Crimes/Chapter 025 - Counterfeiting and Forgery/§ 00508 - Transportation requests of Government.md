@@ -2,7 +2,7 @@
 
 Whoever falsely makes, forges, or counterfeits in whole or in part, any form or request in similitude of the form or request provided by the Government for requesting a common carrier to furnish transportation on account of the United States or any department or agency thereof, or knowingly alters any form or request provided by the Government for requesting a common carrier to furnish transportation on account of the United States or any department or agency thereof; or
 
-Whoever knowingly passes, utters, publishes, or sells, or attempts to pass, utter, publish, or sell, any such false, forged, counterfeited, or altered form or request—
+Whoever knowingly passes, utters, publishes, or sells, or attempts to pass, utter, publish, orsell, any such false, forged, counterfeited, or altered form or request—
 
 Shall be fined under this title or imprisoned not more than ten years, or both.
 
@@ -14,13 +14,13 @@ Based on title 18, U.S.C., 1940 ed., §146 (Dec. 11, 1926, ch. 2, §1, 44 Stat. 
 
 References to persons causing, procuring, aiding or assisting were omitted as unnecessary as such persons are made principals by section 2 of this title.
 
-Also, in first paragraph, word “agency” was substituted for “branch”, in view of definitions of department and agency in section 6 of this title.
+Also, in first paragraph, word "agency" was substituted for "branch", in view of definitions of department and agency in section 6 of this title.
 
-Words “upon conviction” in last paragraph were omitted as surplusage since punishment cannot be imposed until a conviction is secured.
+Words "upon conviction" in last paragraph were omitted as surplusage since punishment cannot be imposed until a conviction is secured.
 
 Minor changes of phraseology were also made.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
 

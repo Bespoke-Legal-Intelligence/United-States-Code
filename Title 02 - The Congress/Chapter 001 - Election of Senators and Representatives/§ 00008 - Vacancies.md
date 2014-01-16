@@ -12,7 +12,7 @@ Except as provided in subsection (b) of this section, the time for holding elect
 
 #### (2) Timing of special election
 
-&emsp;A special election held under this subsection to fill a vacancy shall take place not later than 49 days after the Speaker of the House of Representatives announces that the vacancy exists, unless, during the 75-day period whichbegins on the date of the announcement of the vacancy—
+&emsp;A special election held under this subsection to fill a vacancy shall take place not later than 49 days after the Speaker of the House of Representatives announces that the vacancy exists, unless, during the 75-day period which begins on the date of the announcement of the vacancy—
 
 &emsp;&emsp;(A) a regularly scheduled general election for the office involved is to be held; or
 
@@ -60,7 +60,7 @@ Except as provided in subsection (b) of this section, the time for holding elect
 
 &emsp;&emsp;(A) to a Delegate or Resident Commissioner to the Congress in the same manner as it applies to a Member of the House of Representatives; and
 
-&emsp;&emsp;(B) to the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, and the United States Virgin Islands in the same manner as it applies to a State, except that a vacancy in the representation from any such jurisdiction in the House shall not be taken into account by the Speaker in determining whether vacancies in the representation from the States in the House exceed 100 for purposes of paragraph (4)(A).
+&emsp;&emsp;(B) to the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, Guam, and the United States Virgin Islands in the same manner as it applies to a State, except that a vacancy in the representation from any such jurisdiction inthe House shall not be taken into account by the Speaker in determining whether vacancies in the representation from the States in the House exceed 100 for purposes of paragraph (4)(A).
 
 #### (7) Rule of construction regarding Federal election laws
 
@@ -84,7 +84,7 @@ Except as provided in subsection (b) of this section, the time for holding elect
 
 #### References in Text
 
-The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (b)(5), (7)(C), is Pub. L.99–410, Aug. 28, 1986, 100 Stat. 924, as amended, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
+The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. (b)(5), (7)(C), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, as amended, which is classified principally to subchapter I–G (§1973ff et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
 
 The Voting Rights Act of 1965, referred to in subsec. (b)(7)(A), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, as amended, which is classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of chapter 20 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of Title 42 and Tables.
 

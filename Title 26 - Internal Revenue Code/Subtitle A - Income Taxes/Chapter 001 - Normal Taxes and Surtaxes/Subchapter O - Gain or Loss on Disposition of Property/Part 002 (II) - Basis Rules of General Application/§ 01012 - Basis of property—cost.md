@@ -32,7 +32,7 @@ The cost of real property shall not include any amount in respect of real proper
 
 #### (3) Definitions
 
-&emsp;For purposes of this section, the terms “specified security” and “applicable date” shall have the meaning given such terms in section 6045(g).
+&emsp;For purposes of this section, the terms "specified security" and "applicable date" shall have the meaning given such terms in section 6045(g).
 
 #### (d) Average basis for stock acquired pursuant to a dividend reinvestment plan
 
@@ -54,7 +54,7 @@ The cost of real property shall not include any amount in respect of real proper
 
 #### (A) In general
 
-&emsp;&emsp;The term “dividend reinvestment plan” means any arrangement under which dividends on any stock are reinvested in stock identical to the stock with respect to which the dividends are paid.
+&emsp;&emsp;The term "dividend reinvestment plan" means any arrangement under which dividends on any stock are reinvested in stock identical to the stock with respect to which the dividends are paid.
 
 #### (B) Initial stock acquisition treated as acquired in connection with plan
 
@@ -70,11 +70,11 @@ The cost of real property shall not include any amount in respect of real proper
 
 Pub. L. 110–343, div. B, title IV, §403(e), Oct. 3, 2008, 122 Stat. 3860, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting sections 6045A and 6045B of this title and amending this section and sections 6045 and 6724 of this title\] shall take effect on January 1, 2011.
 
-“(2)
+"(2)
 
-Extension of period for statements sent to customers.—The amendments made by subsection (a)(3) \[amending section 6045 of this title\] shall apply to statements required to be furnished after December 31, 2008.”
+Extension of period for statements sent to customers.—The amendments made by subsection (a)(3) \[amending section 6045 of this title\] shall apply to statements required to be furnished after December 31, 2008."
 

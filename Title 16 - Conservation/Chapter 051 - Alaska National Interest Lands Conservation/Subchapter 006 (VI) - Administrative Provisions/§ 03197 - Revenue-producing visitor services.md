@@ -14,19 +14,19 @@ Notwithstanding provisions of law other than those contained in subsection (a), 
 
 &emsp;(3) shall, consistent with the provisions of this section, offer to Cook Inlet Region, Incorporated, in cooperation with Village Corporations within the Cook Inlet Region when appropriate, the right of first refusal to provide new revenue producing visitor services within the Kenai National Moose Range or that portion of the Lake Clark National Park and Preserve within the boundaries of the Cook Inlet Region that right to remain open for a period of ninety days as agreed to in paragraph VIII of the document referred to in section 12 of the Act of January 2, 1976 (Public Law 94–204).
 
-#### (c) “Visitor service” defined
+#### (c) "Visitor service" defined
 
-As used in this section, the term “visitor service” means any service made available for a fee or charge to persons who visit a conservation system unit, including such services as providing food, accommodations, transportation, tours, and guides excepting the guiding of sport hunting and fishing. Nothing in this Act shall limit or affect the authority of the Federal Government or the State of Alaska to license and regulate transportation services.
+As used in this section, the term "visitor service" means any service made available for a fee or charge to persons who visit a conservation system unit, including such services as providing food, accommodations, transportation, tours, and guides excepting the guiding of sport hunting and fishing. Nothing in this Act shall limit or affect the authority of the Federal Government or the State of Alaska to license and regulate transportation services.
 
 (Pub. L. 96–487, title XIII, §1307, Dec. 2, 1980, 94 Stat. 2479; Pub. L. 105–333, §10, Oct. 31, 1998, 112 Stat. 3134.)
 
 #### References in Text
 
-This Act, referred to in subsecs. (b)(1) and (c), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, knownas the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (b)(1) and (c), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 Section 12 of the Act of January 2, 1976 (Public Law 94–204), referred to in subsec. (b)(3), is section 12 of Pub. L. 94–204, Jan. 2, 1976, 89 Stat. 1150, which is set out as a note under section 1611 of Title 43, Public Lands.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–333 substituted “Native Corporations” for “Native Corporation” and “are most directly affected” for “is most directly affected”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–333 substituted "Native Corporations" for "Native Corporation" and "are most directly affected" for "is most directly affected".
 

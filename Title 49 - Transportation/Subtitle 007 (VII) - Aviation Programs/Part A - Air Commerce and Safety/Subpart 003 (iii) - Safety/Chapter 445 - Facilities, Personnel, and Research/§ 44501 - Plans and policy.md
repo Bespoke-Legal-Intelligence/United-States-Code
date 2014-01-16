@@ -96,17 +96,17 @@ Sept. 3, 1982, Pub. L. 97–248, §504(b), 96 Stat. 675; Nov. 5, 1990, Pub. L. 1
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §312(d); added Nov. 3, 1988, Pub. L. 100–591, §4(a), 102 Stat. 3011.
 
-In subsection (a), the word “Administrator” in section 312(a) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 752) is retained on authority of 49:106(g). The words “air navigation facilities” are substituted for “landing areas, Federal airways, radar installations and all other aids and facilities for air navigation” because of the definition of “air navigation facility” in section 40102(a) of the revised title. The words “the armed forces” are substituted for “military agencies” because of 10:101.
+In subsection (a), the word "Administrator" in section 312(a) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 752) is retained on authority of 49:106(g). The words "air navigation facilities" are substituted for "landing areas, Federal airways, radar installations and all other aids and facilities for air navigation" because of the definition of "air navigation facility" in section 40102(a) of the revised title. The words "the armed forces" are substituted for "military agencies" because of 10:101.
 
-In subsection (b), before clause (1), the words “the requirements of” are omitted as surplus. The text of 49 App.:2203(b) (1st sentence) is omitted as executed. The words “thereafter” and “For fiscal year 1991 and thereafter” are omitted as obsolete. In clauses (2)(C) and (3), the word “personnel” is substituted for “manpower” for consistency in the revised title. In clause (2)(C), the word “all” is omitted as surplus.
+In subsection (b), before clause (1), the words "the requirements of" are omitted as surplus. The text of 49 App.:2203(b) (1st sentence) is omitted as executed. The words "thereafter" and "For fiscal year 1991 and thereafter" are omitted as obsolete. In clauses (2)(C) and (3), the word "personnel" is substituted for "manpower" for consistency in the revised title. In clause (2)(C), the word "all" is omitted as surplus.
 
-In subsection (c), before clause (1), the word “completed” is omitted as surplus.
+In subsection (c), before clause (1), the word "completed" is omitted as surplus.
 
-In subsection (d)(1), the words “review, revise” are omitted as surplus. The word “annually” is substituted for “for fiscal year 1990, and for each fiscal year thereafter” to eliminate obsolete language.
+In subsection (d)(1), the words "review, revise" are omitted as surplus. The word "annually" is substituted for "for fiscal year 1990, and for each fiscal year thereafter" to eliminate obsolete language.
 
-In subsection (d)(2)(B), before clause (i), the words “an appropriation” are substituted for “funding”, and in clause (ii), the word “appropriations” is substituted for “funding”, for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (d)(2)(B), before clause (i), the words "an appropriation" are substituted for "funding", and in clause (ii), the word "appropriations" is substituted for "funding", for clarity and consistency in the revised title and with other titles of the United States Code.
 
-In subsection (d)(3), the words “beginning with the date of transmission of the first aviation research plan as required by paragraph (1)” are omitted as obsolete.
+In subsection (d)(3), the words "beginning with the date of transmission of the first aviation research plan as required by paragraph (1)" are omitted as obsolete.
 
 #### References in Text
 
@@ -118,15 +118,15 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (
 
 <b>2000</b>—Subsec. (c)(2)(B)(iv) to (vi). Pub. L. 106–181, §902(a)(1), added cls. (iv) and (vi) and redesignated former cl. (iv) as (v).
 
-Subsec. (c)(3). Pub. L. 106–181, §902(a)(2), inserted at end “The report shall be prepared in accordance with requirements of section 1116 of title 31.”
+Subsec. (c)(3). Pub. L. 106–181, §902(a)(2), inserted at end "The report shall be prepared in accordance with requirements of section 1116 of title 31."
 
-<b>1996</b>—Subsec. (c)(1). Pub. L. 104–287 substituted “Committee on Science” for “Committee on Science, Space, and Technology”.
+<b>1996</b>—Subsec. (c)(1). Pub. L. 104–287 substituted "Committee on Science" for "Committee on Science, Space, and Technology".
 
-Subsec. (c)(2)(A). Pub. L. 104–264, §1105(1), substituted “5-year period” for “15-year period”.
+Subsec. (c)(2)(A). Pub. L. 104–264, §1105(1), substituted "5-year period" for "15-year period".
 
 Subsec. (c)(2)(B). Pub. L. 104–264, §1105(2), amended subpar. (B) generally. Prior to amendment, subpar. (B) set out the requirements for research plans including specific requirements for the first two years of the plan, for the 3rd, 4th, and 5th years, and for the 6th and subsequent years.
 
-Subsec. (c)(3). Pub. L. 104–264, §1105(3), inserted “, including a description of the dissemination to the private sector of research results and a description of any new technologies developed” after “during the prior fiscal year”.
+Subsec. (c)(3). Pub. L. 104–264, §1105(3), inserted ", including a description of the dissemination to the private sector of research results and a description of any new technologies developed" after "during the prior fiscal year".
 
 #### Change of Name
 
@@ -144,151 +144,151 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 Pub. L. 112–95, title VIII, §804, Feb. 14, 2012, 126 Stat. 119, provided that:
 
-“(a)
+"(a)
 
 National Facilities Realignment and Consolidation Report.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Administrator of the Federal Aviation Administration shall develop a report, to be known as the National Facilities Realignment and Consolidation Report, in accordance with the requirements of this subsection.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Purpose.—The purpose of the report shall be—
 
-&emsp;&emsp;“(A) to support the transition to the Next Generation Air Transportation System; and
+&emsp;&emsp;"(A) to support the transition to the Next Generation Air Transportation System; and
 
-&emsp;&emsp;“(B) to reduce capital, operating, maintenance, and administrative costs of the FAA where such cost reductions can be implemented without adversely affecting safety.
+&emsp;&emsp;"(B) to reduce capital, operating, maintenance, and administrative costs of the FAA where such cost reductions can be implemented without adversely affecting safety.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Contents.—The report shall include—
 
-&emsp;&emsp;“(A) recommendations of the Administrator on realignment and consolidation of services and facilities (including regional offices) of the FAA; and
+&emsp;&emsp;"(A) recommendations of the Administrator on realignment and consolidation of services and facilities (including regional offices) of the FAA; and
 
-&emsp;&emsp;“(B) for each of the recommendations, a description of—
+&emsp;&emsp;"(B) for each of the recommendations, a description of—
 
-&emsp;&emsp;&emsp;“(i) the Administrator's justification;
+&emsp;&emsp;&emsp;"(i) the Administrator's justification;
 
-&emsp;&emsp;&emsp;“(ii) the projected costs and savings; and
+&emsp;&emsp;&emsp;"(ii) the projected costs and savings; and
 
-&emsp;&emsp;&emsp;“(iii) the proposed timing for implementation.
+&emsp;&emsp;&emsp;"(iii) the proposed timing for implementation.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Input.—The report shall be developed by the Administrator (or the Administrator's designee)—
 
-&emsp;&emsp;“(A) in coordination with the Chief NextGen Officer and the Chief Operating Officer of the Air Traffic Organization of the FAA; and
+&emsp;&emsp;"(A) in coordination with the Chief NextGen Officer and the Chief Operating Officer of the Air Traffic Organization of the FAA; and
 
-&emsp;&emsp;“(B) with the participation of—
+&emsp;&emsp;"(B) with the participation of—
 
-&emsp;&emsp;&emsp;“(i) representatives of labor organizations representing operations and maintenance employees of the air traffic control system; and
+&emsp;&emsp;&emsp;"(i) representatives of labor organizations representing operations and maintenance employees of the air traffic control system; and
 
-&emsp;&emsp;&emsp;“(ii) industry stakeholders.
+&emsp;&emsp;&emsp;"(ii) industry stakeholders.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Submission to congress.—Not later than 120 days after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall submit the report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
 
-&emsp;“(6)
+&emsp;"(6)
 
 Public notice and comment.—The Administrator shall publish the report in the Federal Register and allow 45 days for the submission of public comments.
 
-“(b)
+"(b)
 
 Report to Congress Containing Recommendations of Administrator.—Not later than 60 days after the last day of the period for public comment under subsection (a)(6), the Administrator shall submit to the committees specified in subsection (a)(5)—
 
-&emsp;“(1) a report containing the recommendations of the Administrator on realignment and consolidation of services and facilities (including regional offices) of the FAA; and
+&emsp;"(1) a report containing the recommendations of the Administrator on realignment and consolidation of services and facilities (including regional offices) of the FAA; and
 
-&emsp;“(2) copies of any public comments received by the Administrator under subsection (a)(6).
+&emsp;"(2) copies of any public comments received by the Administrator under subsection (a)(6).
 
-“(c)
+"(c)
 
 Realignment and Consolidation of FAA Services and Facilities.—Except as provided in subsection (d), the Administrator shall realign and consolidate the services and facilities of the FAA in accordance with the recommendations included in the report submitted under subsection (b).
 
-“(d)
+"(d)
 
 Congressional Disapproval.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Administrator may not carry out a recommendation for realignment or consolidation of services or facilities of the FAA that is included in the report submitted under subsection (b) if a joint resolution of disapproval is enacted disapproving such recommendation before the earlier of—
 
-&emsp;&emsp;“(A) the last day of the 30-day period beginning on the date of submission of the report; or
+&emsp;&emsp;"(A) the last day of the 30-day period beginning on the date of submission of the report; or
 
-&emsp;&emsp;“(B) the adjournment of Congress sine die for the session during which the report is transmitted.
+&emsp;&emsp;"(B) the adjournment of Congress sine die for the session during which the report is transmitted.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Computation of 30-day period.—For purposes of paragraph (1)(A), the days on which either House of Congress is not in session because of an adjournment of more than 3 days to a day certain shall be excluded in computation of the 30-day period.
 
-“(e)
+"(e)
 
 Definitions.—In this section, the following definitions apply:
 
-&emsp;“(1)
+&emsp;"(1)
 
-FAA.—The term ‘FAA’ means the Federal Aviation Administration.
+FAA.—The term 'FAA' means the Federal Aviation Administration.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Realignment; consolidation.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
-In general.—The terms ‘realignment’ and ‘consolidation’ include any action that—
+In general.—The terms 'realignment' and 'consolidation' include any action that—
 
-&emsp;&emsp;&emsp;“(i) relocates functions, services, or personnel positions;
+&emsp;&emsp;&emsp;"(i) relocates functions, services, or personnel positions;
 
-&emsp;&emsp;&emsp;“(ii) discontinues or severs existing facility functions or services; or
+&emsp;&emsp;&emsp;"(ii) discontinues or severs existing facility functions or services; or
 
-&emsp;&emsp;&emsp;“(iii) combines the results described in clauses (i) and (ii).
+&emsp;&emsp;&emsp;"(iii) combines the results described in clauses (i) and (ii).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
-Exclusion.—The terms do not include a reduction in personnel resulting from workload adjustments.”
+Exclusion.—The terms do not include a reduction in personnel resulting from workload adjustments."
 
 #### Program Authorizations
 
-Pub. L. 112–95, title IX, §901(c), Feb. 14, 2012, 126 Stat. 137, provided that: “From the other accounts described in the national aviation research plan required undersection 44501(c) of title 49, United States Code, the following research and development activities are authorized:
+Pub. L. 112–95, title IX, §901(c), Feb. 14, 2012, 126 Stat. 137, provided that: "From the other accounts described in the national aviation research plan required under section 44501(c) of title 49, United States Code, the following research and development activities are authorized:
 
-&emsp;“(1) Runway Incursion Reduction.
+&emsp;"(1) Runway Incursion Reduction.
 
-&emsp;“(2) System Capacity, Planning, and Improvement.
+&emsp;"(2) System Capacity, Planning, and Improvement.
 
-&emsp;“(3) Operations Concept Validation.
+&emsp;"(3) Operations Concept Validation.
 
-&emsp;“(4) NAS Weather Requirements.
+&emsp;"(4) NAS Weather Requirements.
 
-&emsp;“(5) Airspace Management Program.
+&emsp;"(5) Airspace Management Program.
 
-&emsp;“(6) NextGen—Air Traffic Control/Technical Operations Human Factors.
+&emsp;"(6) NextGen—Air Traffic Control/Technical Operations Human Factors.
 
-&emsp;“(7) NextGen—Environment and Energy—Environmental Management System and Advanced Noise and Emissions Reduction.
+&emsp;"(7) NextGen—Environment and Energy—Environmental Management System and Advanced Noise and Emissions Reduction.
 
-&emsp;“(8) NextGen—New Air Traffic Management Requirements.
+&emsp;"(8) NextGen—New Air Traffic Management Requirements.
 
-&emsp;“(9) NextGen—Operations Concept Validation—Validation Modeling.
+&emsp;"(9) NextGen—Operations Concept Validation—Validation Modeling.
 
-&emsp;“(10) NextGen—System Safety Management Transformation.
+&emsp;"(10) NextGen—System Safety Management Transformation.
 
-&emsp;“(11) NextGen—Wake Turbulence—Recategorization.
+&emsp;"(11) NextGen—Wake Turbulence—Recategorization.
 
-&emsp;“(12) NextGen—Operational Assessments.
+&emsp;"(12) NextGen—Operational Assessments.
 
-&emsp;“(13) NextGen—Staffed NextGen Towers.
+&emsp;"(13) NextGen—Staffed NextGen Towers.
 
-&emsp;“(14) Center for Advanced Aviation System Development.
+&emsp;"(14) Center for Advanced Aviation System Development.
 
-&emsp;“(15) Airports Technology Research Program—Capacity.
+&emsp;"(15) Airports Technology Research Program—Capacity.
 
-&emsp;“(16) Airports Technology Research Program—Safety.
+&emsp;"(16) Airports Technology Research Program—Safety.
 
-&emsp;“(17) Airports Technology Research Program—Environment.
+&emsp;"(17) Airports Technology Research Program—Environment.
 
-&emsp;“(18) Airport Cooperative Research—Capacity.
+&emsp;"(18) Airport Cooperative Research—Capacity.
 
-&emsp;“(19) Airport Cooperative Research—Environment.
+&emsp;"(19) Airport Cooperative Research—Environment.
 
-&emsp;“(20) Airport Cooperative Research—Safety.”
+&emsp;"(20) Airport Cooperative Research—Safety."
 

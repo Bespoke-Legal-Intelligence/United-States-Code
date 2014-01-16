@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—National Fallen Firefighters Foundation (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—National Fallen Firefighters Foundation (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 
@@ -42,7 +42,7 @@ Oct. 26, 1992, Pub. L. 102–522, title II, §§202(a), 204(a)(1), 106 Stat. 341
 
 &nbsp;
 
-Subsection (a) is substituted for “There is established the National Fallen Firefighters Foundation (hereafter in this chapter referred to as the ‘Foundation’)” for consistency in the revised title.
+Subsection (a) is substituted for "There is established the National Fallen Firefighters Foundation (hereafter in this chapter referred to as the 'Foundation')" for consistency in the revised title.
 
-In subsection (c), the words “Except as otherwise provided” are added, and the word “existence” is substituted for “succession”, for consistency in the revised title.
+In subsection (c), the words "Except as otherwise provided" are added, and the word "existence" is substituted for "succession", for consistency in the revised title.
 

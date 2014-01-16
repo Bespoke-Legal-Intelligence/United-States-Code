@@ -10,57 +10,57 @@ A prior section 7 of act July 31, 1945, ch. 341, was renumbered section 6 and is
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–122 substituted “2014” for “2011”.
+<b>2012</b>—Pub. L. 112–122 substituted "2014" for "2011".
 
-<b>2006</b>—Pub. L. 109–438 substituted “2011” for “2006”.
+<b>2006</b>—Pub. L. 109–438 substituted "2011" for "2006".
 
-<b>2002</b>—Pub. L. 107–189 substituted “September 30, 2006” for “September 30, 2001”.
+<b>2002</b>—Pub. L. 107–189 substituted "September 30, 2006" for "September 30, 2001".
 
-<b>1997</b>—Pub. L. 105–121 substituted “September 30, 2001” for “September 30, October 23, 1997”.
+<b>1997</b>—Pub. L. 105–121 substituted "September 30, 2001" for "September 30, October 23, 1997".
 
-Pub. L. 105–46 substituted “October 23, 1997” for “1997”.
+Pub. L. 105–46 substituted "October 23, 1997" for "1997".
 
-<b>1992</b>—Pub. L. 102–429, §102, substituted “1997” for “1992”.
+<b>1992</b>—Pub. L. 102–429, §102, substituted "1997" for "1992".
 
-<b>1986</b>—Pub. L. 99–472 substituted “September 30, 1992” for “September 30, 1986”.
+<b>1986</b>—Pub. L. 99–472 substituted "September 30, 1992" for "September 30, 1986".
 
-<b>1983</b>—Pub. L. 98–181 substituted “September 30, 1986” for “November 18, 1983”.
+<b>1983</b>—Pub. L. 98–181 substituted "September 30, 1986" for "November 18, 1983".
 
-Pub. L. 98–143 substituted “November 18, 1983” for “October 31, 1983”.
+Pub. L. 98–143 substituted "November 18, 1983" for "October 31, 1983".
 
-Pub. L. 98–109 substituted “October 31, 1983” for “September 30, 1983”.
+Pub. L. 98–109 substituted "October 31, 1983" for "September 30, 1983".
 
-<b>1978</b>—Pub. L. 95–630 substituted “September 30, 1983” for “December 31, 1978”.
+<b>1978</b>—Pub. L. 95–630 substituted "September 30, 1983" for "December 31, 1978".
 
-Pub. L. 95–407 substituted “December 31, 1978” for “September 30, 1978”.
+Pub. L. 95–407 substituted "December 31, 1978" for "September 30, 1978".
 
-<b>1977</b>—Pub. L. 95–143 substituted “September 30, 1978” for “June 30, 1978”.
+<b>1977</b>—Pub. L. 95–143 substituted "September 30, 1978" for "June 30, 1978".
 
-<b>1975</b>—Pub. L. 93–646 substituted “June 30, 1978” for “November 30, 1974”.
+<b>1975</b>—Pub. L. 93–646 substituted "June 30, 1978" for "November 30, 1974".
 
-<b>1974</b>—Pub. L. 93–450 substituted “November 30, 1974” for “October 15, 1974”.
+<b>1974</b>—Pub. L. 93–450 substituted "November 30, 1974" for "October 15, 1974".
 
-Pub. L. 93–425 substituted “October 15, 1974” for “September 30, 1974”.
+Pub. L. 93–425 substituted "October 15, 1974" for "September 30, 1974".
 
-Pub. L. 93–374 substituted “September 30, 1974” for “July 30, 1974”.
+Pub. L. 93–374 substituted "September 30, 1974" for "July 30, 1974".
 
-Pub. L. 93–331 substituted “July 30, 1974” for “June 30, 1974”.
+Pub. L. 93–331 substituted "July 30, 1974" for "June 30, 1974".
 
-<b>1971</b>—Pub. L. 92–126 substituted “June 30, 1974” for “June 30, 1973” and “Secretary of the Treasury or any other purchasers” for “Secretary of the Treasury”.
+<b>1971</b>—Pub. L. 92–126 substituted "June 30, 1974" for "June 30, 1973" and "Secretary of the Treasury or any other purchasers" for "Secretary of the Treasury".
 
-<b>1968</b>—Pub. L. 90–267 changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States” and substituted “June 30, 1973” for “June 30, 1968”.
+<b>1968</b>—Pub. L. 90–267 changed name of "Export-Import Bank of Washington" to "Export-Import Bank of the United States" and substituted "June 30, 1973" for "June 30, 1968".
 
-<b>1963</b>—Pub. L. 88–101 substituted “June 30, 1968” for “June 30, 1963”.
+<b>1963</b>—Pub. L. 88–101 substituted "June 30, 1968" for "June 30, 1963".
 
-<b>1957</b>—Pub. L. 85–55 substituted “June 30, 1963” for “June 30, 1958”.
+<b>1957</b>—Pub. L. 85–55 substituted "June 30, 1963" for "June 30, 1958".
 
-<b>1951</b>—Act Oct. 3, 1951, substituted “June 30, 1958” for “June 30, 1953”.
+<b>1951</b>—Act Oct. 3, 1951, substituted "June 30, 1958" for "June 30, 1953".
 
 <b>1947</b>—Act June 9, 1947, struck out former section and inserted present section to provide for the termination of the Bank as of June 30, 1953, and its orderly liquidation thereafter.
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–121, §2(b), Nov. 26, 1997, 111 Stat. 2528, provided that: “The amendment made by this section \[amending this section\] shall take effect on September 30, 1997.”
+Pub. L. 105–121, §2(b), Nov. 26, 1997, 111 Stat. 2528, provided that: "The amendment made by this section \[amending this section\] shall take effect on September 30, 1997."
 
 #### Effective Date of 1978 Amendment
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 95–630 effective Nov. 10, 1978, see section 1917 of Pub. 
 
 #### Continuation of Bank Functions
 
-Provisions extending the date that the Export-Import Bank of the United States could continue to exercise its functions in connection with and in furtherance ofits objects and purposes notwithstanding the dates specified in this section and section 1(c) of Pub. L. 103–428, set out as an Effective and Termination Dates of 1994 Amendments note under section 635 of this title, were contained in the following acts:
+Provisions extending the date that the Export-Import Bank of the United States could continue to exercise its functions in connection with and in furtherance of its objects and purposes notwithstanding the dates specified in this section and section 1(c) of Pub. L. 103–428, set out as an Effective and Termination Dates of 1994 Amendments note under section 635 of this title, were contained in the following acts:
 
 Pub. L. 112–74, div. I, title VI, Dec. 23, 2011, 125 Stat. 1191, extending the date to May 31, 2012.
 

@@ -44,7 +44,7 @@ Extension of Policies.—
 
 &emsp;(1)
 
-In general.—The Secretary shall extend through September 30, 2013, and may extend through December 31, 2013, the termination date of any insurance policy that the Department of Transportation issued to an air carrier under subsection (a) and that is in effect on the date of enactment of this subsection on no less favorable terms to the air carrier than existed on June 19, 2002; except that the Secretary shall amend the insurance policy, subject to such terms and conditions as the Secretary may prescribe, to add coverage for losses or injuries to aircraft hulls, passengers, and crew at the limits carried by air carriers for such losses and injuries as of such date of enactment and at an additional premium comparable to the premium charged for third-party casualty coverage under such policy.
+In general.—The Secretary shall extend through the date specified in section 106(3) of the Continuing Appropriations Act, 2014, the termination date of any insurance policy that the Department of Transportation issued to an air carrier under subsection (a) and that is in effect on the date of enactment of this subsection on no less favorable terms to the air carrier than existed on June 19, 2002; except that the Secretary shall amend the insurance policy, subject to such terms and conditions as the Secretary may prescribe, to add coverage for losses or injuries to aircraft hulls, passengers, and crew at the limits carried by air carriers for such losses and injuries as of such date of enactment and at an additional premium comparable to the premium charged for third-party casualty coverage under such policy.
 
 &emsp;(2)
 
@@ -70,7 +70,7 @@ Amount.—Insurance provided by the Secretary under this subsection shall be for
 
 Terms and conditions.—Insurance provided by the Secretary under this subsection shall be subject to the terms and conditions set forth in this chapter and such other terms and conditions as the Secretary may prescribe.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168; Pub. L. 105–137, §2(a), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(a), Sept. 22, 2001, 115 Stat. 234; Pub. L. 107–296, title XII, §1202, Nov. 25, 2002, 116 Stat. 2286; Pub. L. 108–11, title IV, §4001(a), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(a)(1), Dec. 12, 2003, 117 Stat. 2498; Pub. L. 108–447, div. H, title I, §106(a), Dec. 8, 2004, 118 Stat. 3204; Pub. L. 109–115, div. A, title I, §108(a), Nov. 30, 2005, 119 Stat. 2402; Pub. L. 110–161, div. K, title I, §114(a), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–253, §3(c)(6), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(c), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(b), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(c), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(b), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–117, div. A, title I, §114(a), Dec. 16, 2009, 123 Stat. 3042; Pub. L. 111–153, §5(b), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(b), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(b), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(b), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(c), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(b), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(b), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(b), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(b), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(b), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(c), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(c), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title VII, §701, Feb. 14, 2012, 126 Stat. 118.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168; Pub. L. 105–137, §2(a), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(a), Sept. 22, 2001, 115 Stat. 234; Pub. L. 107–296, title XII, §1202, Nov. 25, 2002, 116 Stat. 2286; Pub. L. 108–11, title IV, §4001(a), Apr. 16, 2003, 117 Stat. 606; Pub. L. 108–176, title I, §106(a)(1), Dec. 12, 2003, 117 Stat. 2498; Pub. L. 108–447, div. H, title I, §106(a), Dec. 8, 2004, 118 Stat. 3204; Pub. L. 109–115, div. A, title I, §108(a), Nov. 30, 2005, 119 Stat. 2402; Pub. L. 110–161, div. K, title I, §114(a), Dec. 26, 2007, 121 Stat. 2381; Pub. L. 110–253, §3(c)(6), June 30, 2008, 122 Stat. 2418; Pub. L. 110–330, §5(c), Sept. 30, 2008, 122 Stat. 3718; Pub. L. 111–12, §5(b), Mar. 30, 2009, 123 Stat. 1458; Pub. L. 111–69, §5(c), Oct. 1, 2009, 123 Stat. 2055; Pub. L. 111–116, §5(b), Dec. 16, 2009, 123 Stat. 3032; Pub. L. 111–117, div. A, title I, §114(a), Dec. 16, 2009, 123 Stat. 3042; Pub. L. 111–153, §5(b), Mar. 31, 2010, 124 Stat. 1085; Pub. L. 111–161, §5(b), Apr. 30, 2010, 124 Stat. 1127; Pub. L. 111–197, §5(b), July 2, 2010, 124 Stat. 1354; Pub. L. 111–216, title I, §104(b), Aug. 1, 2010, 124 Stat. 2349; Pub. L. 111–249, §5(c), Sept. 30, 2010, 124 Stat. 2628; Pub. L. 111–329, §5(b), Dec. 22, 2010, 124 Stat. 3567; Pub. L. 112–7, §5(b), Mar. 31, 2011, 125 Stat. 32; Pub. L. 112–16, §5(b), May 31, 2011, 125 Stat. 219; Pub. L. 112–21, §5(b), June 29, 2011, 125 Stat. 234; Pub. L. 112–27, §5(b), Aug. 5, 2011, 125 Stat. 271; Pub. L. 112–30, title II, §205(c), Sept. 16, 2011, 125 Stat. 358; Pub. L. 112–91, §5(c), Jan. 31, 2012, 126 Stat. 4; Pub. L. 112–95, title VII, §701, Feb. 14, 2012, 126 Stat. 118; Pub. L. 113–46, div. A, §152, Oct. 17, 2013, 127 Stat. 565.)
 
 Historical and Revision Notes
 
@@ -108,89 +108,93 @@ Aug. 23, 1958, Pub. L. 85–726, §1307(a) (last sentence words between 2d and 3
 
 Aug. 23, 1958, Pub. L. 85–726, §1311, 72 Stat. 806.
 
-In subsection (a)(1), before clause (A), the words “Subject to subsection (b) of this section” are added,and the words “American aircraft or foreign-flag aircraft” are substituted for “aircraft” in 49 App.:1532(a), for clarity. The words “in the manner and to the extent provided by this subchapter” are omitted as unnecessary. The words “Insurance shall be issued under this subchapter only to cover any risk from the operation of an aircraft . . . such aircraft is” are omitted because of the restatement. In clause (B), the word “places” is substituted for “points” for consistency in the revised title.
+In subsection (a)(1), before clause (A), the words "Subject to subsection (b) of this section" are added, and the words "American aircraft or foreign-flag aircraft" are substituted for "aircraft" in 49 App.:1532(a), for clarity. The words "in the manner and to the extent provided by this subchapter" are omitted as unnecessary. The words "Insurance shall be issued under this subchapter only to cover any risk from the operation of an aircraft . . . such aircraft is" are omitted because of the restatement. In clause (B), the word "places" is substituted for "points" for consistency in the revised title.
 
-In subsection (a)(2), the words “An aircraft may be insured or reinsured for not more than” are substituted for “and such stated amount shall not exceed” in 49 App.:1537(a) for clarity and because of the restatement. The words “its reasonable value” are substituted for “an amount . . . to represent the fair and reasonable value of the aircraft” to eliminate unnecessary words. The words “Insurance or reinsurance may be provided only” are added because of the restatement. The word “conditions” is omitted as being included in “terms”.
+In subsection (a)(2), the words "An aircraft may be insured or reinsured for not more than" are substituted for "and such stated amount shall not exceed" in 49 App.:1537(a) for clarity and because of the restatement. The words "its reasonable value" are substituted for "an amount . . . to represent the fair and reasonable value of the aircraft" to eliminate unnecessary words. The words "Insurance or reinsurance may be provided only" are added because of the restatement. The word "conditions" is omitted as being included in "terms".
 
-In subsection (b), the words “The Secretary may provide insurance or reinsurance under subsection (a) of this section only with the approval of the President” are substituted for “with the approval of the President” for clarity and because of the restatement. The words “The President may” are substituted for “The President shall” because the authority of the President is discretionary.
+In subsection (b), the words "The Secretary may provide insurance or reinsurance under subsection (a) of this section only with the approval of the President" are substituted for "with the approval of the President" for clarity and because of the restatement. The words "The President may" are substituted for "The President shall" because the authority of the President is discretionary.
 
-In subsection (c), the words “the Secretary to consult . . . before providing insurance or reinsurance under this chapter” are substituted for “and after such consultation . . . as” because of the restatement. The words “departments, agencies, and instrumentalities” are substituted for “agencies” for consistency in the revised title and with other titles of the United States Code.
+In subsection (c), the words "the Secretary to consult . . . before providing insurance or reinsurance under this chapter" are substituted for "and after such consultation . . . as" because of the restatement. The words "departments, agencies, and instrumentalities" are substituted for "agencies" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (d), the words “However, the Secretary may not benefit from the additional insurance” are substituted for “in that event, the Secretary shall not be entitled to the benefit of such insurance” for clarity.
+In subsection (d), the words "However, the Secretary may not benefit from the additional insurance" are substituted for "in that event, the Secretary shall not be entitled to the benefit of such insurance" for clarity.
 
 #### References in Text
 
 The date of enactment of this paragraph, referred to in subsec. (b)(4), is the date of enactment of Pub. L. 107–42, which was approved Sept. 22, 2001.
 
+The date specified in section 106(3) of the Continuing Appropriations Act, 2014, referred to in subsec. (f)(1), is the date specified in section 106(3) of div. A of Pub. L. 113–46, Oct. 17, 2013, 127 Stat. 559, which is Jan. 15, 2014.
+
 The date of enactment of this subsection, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 107–296, which was approved Nov. 25, 2002.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (f)(1). Pub. L. 112–95 substituted “shall extend through September 30, 2013, and may extend through December 31, 2013, the termination date” for “shall extend through February 17, 2012, and may extend through May 17, 2012, the termination date”.
+<b>2013</b>—Subsec. (f)(1). Pub. L. 113–46 substituted "the date specified in section 106(3) of the Continuing Appropriations Act, 2014" for "September 30, 2013, and may extend through December 31, 2013".
 
-Pub. L. 112–91 substituted “February 17, 2012,” for “January 31, 2012,” and “May 17, 2012,” for “April 30, 2012,”.
+<b>2012</b>—Subsec. (f)(1). Pub. L. 112–95 substituted "shall extend through September 30, 2013, and may extend through December 31, 2013, the termination date" for "shall extend through February 17, 2012, and may extend through May 17, 2012, the termination date".
 
-<b>2011</b>—Subsec. (f)(1). Pub. L. 112–30 substituted “January 31, 2012,” for “September 16, 2011,” and “April 30, 2012,” for “December 31, 2011,”.
+Pub. L. 112–91 substituted "February 17, 2012," for "January 31, 2012," and "May 17, 2012," for "April 30, 2012,".
 
-Pub. L. 112–27 substituted “September 16, 2011,” for “July 22, 2011,” and “December 31, 2011,” for “October 31, 2011,”.
+<b>2011</b>—Subsec. (f)(1). Pub. L. 112–30 substituted "January 31, 2012," for "September 16, 2011," and "April 30, 2012," for "December 31, 2011,".
 
-Pub. L. 112–21 substituted “July 22, 2011,” for “June 30, 2011,” and “October 31, 2011,” for “September 30, 2011,”.
+Pub. L. 112–27 substituted "September 16, 2011," for "July 22, 2011," and "December 31, 2011," for "October 31, 2011,".
 
-Pub. L. 112–16 substituted “June 30, 2011,” for “May 31, 2011,” and “September 30, 2011,” for “August 31, 2011,”.
+Pub. L. 112–21 substituted "July 22, 2011," for "June 30, 2011," and "October 31, 2011," for "September 30, 2011,".
 
-Pub. L. 112–7 substituted “May 31, 2011,” for “March 31, 2011,” and “August 31, 2011,” for “June 30, 2011,”.
+Pub. L. 112–16 substituted "June 30, 2011," for "May 31, 2011," and "September 30, 2011," for "August 31, 2011,".
 
-<b>2010</b>—Subsec. (f)(1). Pub. L. 111–329, §5(b), substituted “March 31, 2011,” for “December 31, 2010,” and “June 30, 2011,” for “March 31, 2011,”.
+Pub. L. 112–7 substituted "May 31, 2011," for "March 31, 2011," and "August 31, 2011," for "June 30, 2011,".
 
-Pub. L. 111–249 substituted “December 31, 2010,” for “September 30, 2010,” and “March 31, 2011,” for “December 31, 2010,”.
+<b>2010</b>—Subsec. (f)(1). Pub. L. 111–329, §5(b), substituted "March 31, 2011," for "December 31, 2010," and "June 30, 2011," for "March 31, 2011,".
 
-Pub. L. 111–216 substituted “September 30, 2010,” for “August 1, 2010,” and “December 31, 2010,” for “October 31, 2010,”.
+Pub. L. 111–249 substituted "December 31, 2010," for "September 30, 2010," and "March 31, 2011," for "December 31, 2010,".
 
-Pub. L. 111–197 substituted “August 1, 2010,” for “July 3, 2010,” and “October 31, 2010,” for “September 30, 2010,”.
+Pub. L. 111–216 substituted "September 30, 2010," for "August 1, 2010," and "December 31, 2010," for "October 31, 2010,".
 
-Pub. L. 111–161 substituted “July 3, 2010,” for “April 30, 2010,” and “September 30, 2010,” for “July 31, 2010,”.
+Pub. L. 111–197 substituted "August 1, 2010," for "July 3, 2010," and "October 31, 2010," for "September 30, 2010,".
 
-Pub. L. 111–153 substituted “April 30, 2010,” for “March 31, 2010,” and “July 31, 2010,” for “June 30, 2010,”.
+Pub. L. 111–161 substituted "July 3, 2010," for "April 30, 2010," and "September 30, 2010," for "July 31, 2010,".
 
-<b>2009</b>—Subsec. (f)(1). Pub. L. 111–117, which directed the substitution of “September 30, 2010,” for “September 30, 2009,” and “December 31, 2010,” for “December 31, 2009,”, could not be executed because of the intervening amendment by Pub. L. 111–69. See below.
+Pub. L. 111–153 substituted "April 30, 2010," for "March 31, 2010," and "July 31, 2010," for "June 30, 2010,".
 
-Pub. L. 111–116 substituted “March 31, 2010,” for “December 31, 2009,” and “June 30, 2010,” for “March 31, 2010,”.
+<b>2009</b>—Subsec. (f)(1). Pub. L. 111–117, which directed the substitution of "September 30, 2010," for "September 30, 2009," and "December 31, 2010," for "December 31, 2009,", could not be executed because of the intervening amendment by Pub. L. 111–69. See below.
 
-Pub. L. 111–69 substituted “December 31, 2009,” for “September 30, 2009,” and “March 31, 2010,” for “December 31, 2009,”.
+Pub. L. 111–116 substituted "March 31, 2010," for "December 31, 2009," and "June 30, 2010," for "March 31, 2010,".
 
-Pub. L. 111–12 substituted “September 30, 2009,” for “March 31, 2009,” and “December 31, 2009,” for “May 31, 2009,”.
+Pub. L. 111–69 substituted "December 31, 2009," for "September 30, 2009," and "March 31, 2010," for "December 31, 2009,".
 
-<b>2008</b>—Subsec. (f)(1). Pub. L. 110–330 substituted “March 31, 2009,” for “November 30, 2008,” and “May 31, 2009,” for “December 31, 2008,”.
+Pub. L. 111–12 substituted "September 30, 2009," for "March 31, 2009," and "December 31, 2009," for "May 31, 2009,".
 
-Pub. L. 110–253 substituted “November 30, 2008” for “August 31, 2008”.
+<b>2008</b>—Subsec. (f)(1). Pub. L. 110–330 substituted "March 31, 2009," for "November 30, 2008," and "May 31, 2009," for "December 31, 2008,".
 
-<b>2007</b>—Subsec. (f)(1). Pub. L. 110–161 substituted “2008” for “2006” in two places.
+Pub. L. 110–253 substituted "November 30, 2008" for "August 31, 2008".
 
-<b>2005</b>—Subsec. (f)(1). Pub. L. 109–115 substituted “2006” for “2005” in two places.
+<b>2007</b>—Subsec. (f)(1). Pub. L. 110–161 substituted "2008" for "2006" in two places.
 
-<b>2004</b>—Subsec. (f)(1). Pub. L. 108–447 substituted “2005” for “2004” in two places.
+<b>2005</b>—Subsec. (f)(1). Pub. L. 109–115 substituted "2006" for "2005" in two places.
 
-<b>2003</b>—Subsec. (f)(1). Pub. L. 108–11, substituted “2004” for “2003” in two places.
+<b>2004</b>—Subsec. (f)(1). Pub. L. 108–447 substituted "2005" for "2004" in two places.
+
+<b>2003</b>—Subsec. (f)(1). Pub. L. 108–11, substituted "2004" for "2003" in two places.
 
 Subsec. (g). Pub. L. 108–176 added subsec. (g).
 
 <b>2002</b>—Subsec. (f). Pub. L. 107–296 added subsec. (f).
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–42, §201(a)(1), substituted “subsection (c)” for “subsection (b)” and “foreign-flag aircraft.” for “foreign-flag aircraft—” and struck out subpars. (A) and (B) which read as follows:
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–42, §201(a)(1), substituted "subsection (c)" for "subsection (b)" and "foreign-flag aircraft." for "foreign-flag aircraft—" and struck out subpars. (A) and (B) which read as follows:
 
-“(A) in foreign air commerce; or
+"(A) in foreign air commerce; or
 
-“(B) between at least 2 places, all of which are outside the United States.”
+"(B) between at least 2 places, all of which are outside the United States."
 
 Subsec. (b). Pub. L. 107–42, §201(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 107–42, §201(a)(2), (4), redesignated subsec. (b) as (c), in first sentence inserted “, or reimburse an air carrier under subsection (b) of this section,” before “only with the approval”, and in second sentence inserted “or the reimbursement” before “only after deciding” and “in the interest of air commerce or national security or” before “to carry out the foreign policy”. Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 107–42, §201(a)(2), (4), redesignated subsec. (b) as (c), in first sentence inserted ", or reimburse an air carrier under subsection (b) of this section," before "only with the approval", and in second sentence inserted "or the reimbursement" before "only after deciding" and "in the interest of air commerce or national security or" before "to carry out the foreign policy". Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 107–42, §201(a)(2), (5), redesignated subsec. (c) as (d) and inserted “or reimbursing an air carrier” before “under this chapter”. Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 107–42, §201(a)(2), (5), redesignated subsec. (c) as (d) and inserted "or reimbursing an air carrier" before "under this chapter". Former subsec. (d) redesignated (e).
 
 Subsec. (e). Pub. L. 107–42, §201(a)(2), redesignated subsec. (d) as (e).
 
-<b>1997</b>—Subsec. (a)(2). Pub. L. 105–137 substituted “as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry.” for “as determined by the Secretary.”
+<b>1997</b>—Subsec. (a)(2). Pub. L. 105–137 substituted "as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry." for "as determined by the Secretary."
 
 #### Effective Date of 2011 Amendment
 
@@ -238,7 +242,7 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Extension of Termination Date of Policies
 
-Pub. L. 109–289, div. B, title II, §21002(a), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 47, provided that subsec. (f)(1) of this section would be applied by substituting “September 30, 2007” for “August 31, 2006, and may extend through December 31, 2006”.
+Pub. L. 109–289, div. B, title II, §21002(a), as added by Pub. L. 110–5, §2, Feb. 15, 2007, 121 Stat. 47, provided that subsec. (f)(1) of this section would be applied by substituting "September 30, 2007" for "August 31, 2006, and may extend through December 31, 2006".
 
 #### Provision of Aviation Insurance Coverage for Commercial Air Carrier Service
 
@@ -262,21 +266,23 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Memorandum for the Secretary of Transportation
 
-Memorandum of President of the United States, Sept. 27, 2012, 77 F.R. 60035, provided:
+Memorandum of President of the United States, Dec. 27, 2013, 79 F.R. 527, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States, including 49 U.S.C. 44301–44310, I hereby:
 
 1\. Determine that the continuation of U.S. air transportation is necessary in the interest of air commerce, national security, and the foreign policy of the United States.
 
-2\. Approve provision by the Secretary of Transportation of insurance or reinsurance to U.S.-certificated air carriers against loss or damage arising out of any risk from the operation of an aircraft, in the manner and to the extent provided in chapter 443 of title 49, U.S. Code, until September 30, 2013, if he determines that such insurance or reinsurance cannot be obtained on reasonable terms from any company authorized to conduct an insurance business in a State of the United States.
+2\. Approve provision by the Secretary of Transportation of insurance or reinsurance to U.S.-certificated air carriers against loss or damage arising out of any risk from the operation of an aircraft, in the manner and to the extent provided in chapter 443 of title 49, United States Code, until January 15, 2014, if he determines that such insurance or reinsurance cannot be obtained on reasonable terms from any company authorized to conduct an insurance business in a State of the United States.
 
-3\. Delegate to the Secretary of Transportation the authority, vested in me by 49 U.S.C. 44306(c), to extend this approval and determination beyond September 30, 2013, to December 31, 2013, if he finds that the continued operation of aircraft to be insured or reinsured is necessary in the interest of air commerce or national security or to carry out the foreign policy of the United States Government, if he also determines that such insurance or reinsurance cannot be obtained on reasonable terms from any company authorized to conduct an insurance business in a State of the United States.
+3\. Delegate to the Secretary of Transportation the authority, vested in me by 49 U.S.C. 44306(c), to extend this approval and determination through December 31, 2014, or until any date prior to December 31, 2014, provided that the Congress further extends the date contained in section 44310 and further provided that he not use this delegation to extend this determination and approval beyond the dates authorized under any such provision of law with an ending effective date prior to December 31, 2014.
 
 You are directed to bring this determination immediately to the attention of all air carriers, as defined in 49 U.S.C. 40102(a)(2), and to arrange for its publication in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior Presidential documents related to provision of insurance to U.S.-flag commercial air service were contained in the following:
+
+Memorandum of President of the United States, Sept. 27, 2012, 77 F.R. 60035.
 
 Memorandum of President of the United States, Sept. 28, 2011, 76 F.R. 61247.
 

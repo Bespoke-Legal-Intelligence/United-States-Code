@@ -6,9 +6,9 @@ The Secretary of Agriculture is authorized to make payments to agricultural prod
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–82, §502(1), inserted “(including measures carried out to assist confined livestock)”.
+<b>1989</b>—Pub. L. 101–82, §502(1), inserted "(including measures carried out to assist confined livestock)".
 
-Pub. L. 101–82, §502(2), temporarily substituted “any fiscal year in which there is a period of severe drought” for “periods of severe drought”. See Effective and Termination Dates of 1989 Amendment note below.
+Pub. L. 101–82, §502(2), temporarily substituted "any fiscal year in which there is a period of severe drought" for "periods of severe drought". See Effective and Termination Dates of 1989 Amendment note below.
 
 #### Effective and Termination Dates of 1989 Amendment
 

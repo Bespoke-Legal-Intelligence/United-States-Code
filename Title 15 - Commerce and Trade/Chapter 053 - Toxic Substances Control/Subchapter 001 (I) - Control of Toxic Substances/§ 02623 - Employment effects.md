@@ -22,7 +22,7 @@ The Administrator shall evaluate on a continuing basis the potential effects on 
 
 (B) If public hearings are to be held on any matter involved in an investigation conducted under this subsection—
 
-&emsp;(i) at least five days’ notice shall be provided the person making the request for the investigation and any person identified in such request,
+&emsp;(i) at least five days' notice shall be provided the person making the request for the investigation and any person identified in such request,
 
 &emsp;(ii) such hearings shall be held in accordance with section 2605(c)(3) of this title, and
 

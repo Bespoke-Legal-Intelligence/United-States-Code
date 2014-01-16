@@ -20,7 +20,7 @@ Section 3311(a) of this title may not be construed as conferring Congressional a
 
 #### (2) Report on significant market opening
 
-&emsp;No later than May 1, 1994, and May 1, 1997, the Trade Representative shall submit to the President, and to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the “appropriate Congressional committees”), a report which lists those foreign countries—
+&emsp;No later than May 1, 1994, and May 1, 1997, the Trade Representative shall submit to the President, and to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the "appropriate Congressional committees"), a report which lists those foreign countries—
 
 &emsp;&emsp;(A) that—
 

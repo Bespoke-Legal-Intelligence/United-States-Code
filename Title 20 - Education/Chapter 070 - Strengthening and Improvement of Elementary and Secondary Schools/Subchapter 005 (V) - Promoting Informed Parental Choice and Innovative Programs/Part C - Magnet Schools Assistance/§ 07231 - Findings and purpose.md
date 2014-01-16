@@ -12,7 +12,7 @@ Congress makes the following findings:
 
 &emsp;(4) It is in the best interests of the United States—
 
-&emsp;&emsp;(A) to continue the Federal Government's support of local educational agencies that are implementing court-ordered desegregation plans and local educational agencies that are voluntarily seeking to foster meaningful interaction among students of different racial and ethnic backgrounds, beginning at the earliest stage of such students’ education;
+&emsp;&emsp;(A) to continue the Federal Government's support of local educational agencies that are implementing court-ordered desegregation plans and local educational agencies that are voluntarily seeking to foster meaningful interaction among students of different racial and ethnic backgrounds, beginning at the earliest stage of such students' education;
 
 &emsp;&emsp;(B) to ensure that all students have equitable access to a high quality education that will prepare all students to function well in a technologically oriented and a highly competitive economy comprised of people from many different racial and ethnic backgrounds; and
 
@@ -24,7 +24,7 @@ Congress makes the following findings:
 
 The purpose of this part is to assist in the desegregation of schools served by local educational agencies by providing financial assistance to eligible local educational agencies for—
 
-&emsp;(1) the elimination, reduction, or prevention of minority group isolation in elementary schools and secondary schools with substantial proportions of minority students, which shall include assisting in the efforts of the United States to achieve voluntary desegregation in public schools;
+&emsp;(1) the elimination, reduction, or prevention of minority group isolation in elementary schools and secondary schools with substantial proportions of minority students, whichshall include assisting in the efforts of the United States to achieve voluntary desegregation in public schools;
 
 &emsp;(2) the development and implementation of magnet school programs that will assist local educational agencies in achieving systemic reforms and providing all students the opportunity to meet challenging State academic content standards and student academic achievement standards;
 

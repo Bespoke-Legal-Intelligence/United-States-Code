@@ -20,7 +20,7 @@ Joint Professional Military Education.—Joint professional military education c
 
 Other Definitions.—In this chapter:
 
-&emsp;(1) The term “senior level service school” means any of the following:
+&emsp;(1) The term "senior level service school" means any of the following:
 
 &emsp;&emsp;(A) The Army War College.
 
@@ -30,7 +30,7 @@ Other Definitions.—In this chapter:
 
 &emsp;&emsp;(D) The Marine Corps War College.
 
-&emsp;(2) The term “intermediate level service school” means any of the following:
+&emsp;(2) The term "intermediate level service school" means any of the following:
 
 &emsp;&emsp;(A) The United States Army Command and General Staff College.
 
@@ -40,7 +40,7 @@ Other Definitions.—In this chapter:
 
 &emsp;&emsp;(D) The Marine Corps Command and Staff College.
 
-&emsp;(3) The term “joint intermediate level school” includes the National Defense Intelligence College.
+&emsp;(3) The term "joint intermediate level school" includes the National Defense Intelligence College.
 
 (Added Pub. L. 108–375, div. A, title V, §532(a)(2), Oct. 28, 2004, 118 Stat. 1897; amended Pub. L. 112–81, div. A, title V, §552(a)(2), Dec. 31, 2011, 125 Stat. 1412; Pub. L. 112–239, div. A, title VIII, §845(c), Jan. 2, 2013, 126 Stat. 1848.)
 

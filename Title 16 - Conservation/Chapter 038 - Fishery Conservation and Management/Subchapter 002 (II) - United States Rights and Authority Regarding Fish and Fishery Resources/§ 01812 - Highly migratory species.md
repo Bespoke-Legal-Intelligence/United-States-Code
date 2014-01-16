@@ -16,25 +16,25 @@ If a relevant international fisheries organization does not have a process for d
 
 #### References in Text
 
-This chapter, referred to in subsec. (c), was in the original “this Act”, meaning Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (c), was in the original "this Act", meaning Pub. L. 94–265, Apr. 13,1976, 90 Stat. 331, as amended, known as the Magnuson-Stevens Fishery Conservation and Management Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Amendments
 
 <b>2007</b>—Pub. L. 109–479 designated existing provisions as subsec. (a), inserted heading, and added subsecs. (b) and (c).
 
-<b>1996</b>—Pub. L. 104–297 substituted “shall promote the achievement of optimum yield” for “promoting the objective of optimum utilization”.
+<b>1996</b>—Pub. L. 104–297 substituted "shall promote the achievement of optimum yield" for "promoting the objective of optimum utilization".
 
-<b>1990</b>—Pub. L. 101–627 amended section generally. Prior to amendment, section read as follows: “The sovereign rights and exclusive fishery management authority asserted by the United States under section 1811 of this title over fish do not include, and may not be construed to extend to, highly migratory species of fish.”
+<b>1990</b>—Pub. L. 101–627 amended section generally. Prior to amendment, section read as follows: "The sovereign rights and exclusive fishery management authority asserted by the United States under section 1811 of this title over fish do not include, and may not be construed to extend to, highly migratory species of fish."
 
-<b>1986</b>—Pub. L. 99–659 amended section generally. Prior to amendment, section read as follows: “The United States shall exercise exclusive fishery management authority, in the manner provided for in this chapter, over the following:
+<b>1986</b>—Pub. L. 99–659 amended section generally. Prior to amendment, section read as follows: "The United States shall exercise exclusive fishery management authority, in the manner provided for in this chapter, over the following:
 
-&emsp;“(1) All fish within the fishery conservation zone.
+&emsp;"(1) All fish within the fishery conservation zone.
 
-&emsp;“(2) All anadromous species throughout the migratory range of each such species beyond the fishery conservation zone; except that such management authority shall not extend to such species during the time they are found within any foreign nation's territorial sea or fishery conservation zone (or the equivalent), to the extent that such sea or zone is recognized by the United States.
+&emsp;"(2) All anadromous species throughout the migratory range of each such species beyond the fishery conservation zone; except that such management authority shall not extend to such species during the time they are found within any foreign nation's territorial sea or fishery conservation zone (or the equivalent), to the extent that such sea or zone is recognized by the United States.
 
-&emsp;“(3) All Continental Shelf fishery resources beyond the fishery conservation zone.”
+&emsp;"(3) All Continental Shelf fishery resources beyond the fishery conservation zone."
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–627, title I, §103(c), Nov. 28, 1990, 104 Stat. 4439, provided that: “The amendments made by this section \[amending this section\] shall take effect on January 1, 1992.”
+Pub. L. 101–627, title I, §103(c), Nov. 28, 1990, 104 Stat. 4439, provided that: "The amendments made by this section \[amending this section\] shall take effect on January 1, 1992."
 

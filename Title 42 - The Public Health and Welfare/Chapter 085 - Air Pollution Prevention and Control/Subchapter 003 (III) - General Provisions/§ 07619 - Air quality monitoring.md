@@ -22,7 +22,7 @@ After notice and opportunity for public hearing, the Administrator shall promulg
 
 #### (A) In general
 
-&emsp;&emsp;The term “exceptional event” means an event that—
+&emsp;&emsp;The term "exceptional event" means an event that—
 
 &emsp;&emsp;&emsp;(i) affects air quality;
 
@@ -34,7 +34,7 @@ After notice and opportunity for public hearing, the Administrator shall promulg
 
 #### (B) Exclusions
 
-&emsp;&emsp;In this subsection, the term “exceptional event” does not include—
+&emsp;&emsp;In this subsection, the term "exceptional event" does not include—
 
 &emsp;&emsp;&emsp;(i) stagnation of air masses or meteorological inversions;
 
@@ -66,7 +66,7 @@ After notice and opportunity for public hearing, the Administrator shall promulg
 
 &emsp;&emsp;&emsp;(iv) the principle that each State must take necessary measures to safeguard public health regardless of the source of the air pollution; and
 
-&emsp;&emsp;&emsp;(v) the principle that air quality data should be carefully screened to ensure that events not likely to recur are represented accurately in all monitoring data and analyses.
+&emsp;&emsp;&emsp;(v) the principle that air quality data should be carefully screened to ensure thatevents not likely to recur are represented accurately in all monitoring data and analyses.
 
 #### (B) Requirements
 
@@ -94,13 +94,13 @@ After notice and opportunity for public hearing, the Administrator shall promulg
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–59 designated existing provisions as subsec. (a), inserted heading, substituted “After notice and opportunity for public hearing” for “Not later than one year after August 7, 1977, and after notice and opportunity for public hearing”, and added subsec. (b).
+<b>2005</b>—Pub. L. 109–59 designated existing provisions as subsec. (a), inserted heading, substituted "After notice and opportunity for public hearing" for "Not later than one year after August 7, 1977, and after notice and opportunity for public hearing", and added subsec. (b).
 
 #### Effective Date
 
 Section effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as an Effective Date of 1977 Amendment note under section 7401 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “in”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "in".</i>
 

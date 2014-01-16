@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 R.S. 1542.
 
-The words “Commanders of naval shipyards” are substituted for the words “commandants of the several navy yards” to conform to present terminology. The words “of the Navy” are inserted for clarity.
+The words "Commanders of naval shipyards" are substituted for the words "commandants of the several navy yards" to conform to present terminology. The words "of the Navy" are inserted for clarity.
 

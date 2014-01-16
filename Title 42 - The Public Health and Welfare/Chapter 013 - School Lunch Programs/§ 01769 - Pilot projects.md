@@ -20,7 +20,7 @@
 
 #### (1) Definition of eligible school
 
-&emsp;In this subsection, the term “eligible school” means a school or institution that participates in a program under this chapter or the school breakfast program established under section 1773 of this title.
+&emsp;In this subsection, the term "eligible school" means a school or institution that participates in a program under this chapter or the school breakfast program established under section 1773 of this title.
 
 #### (2) Program
 
@@ -124,15 +124,15 @@
 
 #### (i) Eligible program
 
-&emsp;&emsp;&emsp;The term “eligible program” means—
+&emsp;&emsp;&emsp;The term "eligible program" means—
 
-&emsp;&emsp;&emsp;&emsp;(I) a school-based program with hands-on vegetable gardening and nutrition education that is incorporated into thecurriculum for 1 or more grades at 2 or more eligible schools; or
+&emsp;&emsp;&emsp;&emsp;(I) a school-based program with hands-on vegetable gardening and nutrition education that is incorporated into the curriculum for 1 or more grades at 2 or more eligible schools; or
 
 &emsp;&emsp;&emsp;&emsp;(II) a community-based summer program with hands-on vegetable gardening and nutrition education that is part of, or coordinated with, a summer enrichment program at 2 or more eligible schools.
 
 #### (ii) Eligible school
 
-&emsp;&emsp;&emsp;The term “eligible school” means a public school, at least 50 percent of the students of which are eligible for free or reduced price meals under this chapter.
+&emsp;&emsp;&emsp;The term "eligible school" means a public school, at least 50 percent of the students of which are eligible for free or reduced price meals under this chapter.
 
 #### (B) Establishment
 
@@ -220,7 +220,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not later than 3 years after the implementation of this subsection, the Secretary shallconduct an evaluation to assess the impact of the changed income eligibility guidelines by comparing the school food authorities operating under this subsection to school food authorities not operating under this subsection.
+&emsp;&emsp;Not later than 3 years after the implementation of this subsection, the Secretary shall conduct an evaluation to assess the impact of the changed income eligibility guidelines by comparing the school food authorities operating under this subsection to school food authorities not operating under this subsection.
 
 #### (B) Impact assessment
 
@@ -262,7 +262,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish an organic food pilot program (referred to in this subsection as the “pilot program”) under which the Secretary shall provide grants on a competitive basis to school food authorities selected under paragraph (3).
+&emsp;The Secretary shall establish an organic food pilot program (referred to in this subsection as the "pilot program") under which the Secretary shall provide grants on a competitive basis to school food authorities selected under paragraph (3).
 
 #### (2) Use of funds
 
@@ -304,7 +304,7 @@
 
 &emsp;&emsp;There are authorized to be appropriated to carry out this subsection $10,000,000 for fiscal years 2011 through 2015.
 
-(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390; Pub. L. 108–211, §5(b), Mar. 31, 2004, 118 Stat. 567; Pub. L. 108–265, title I, §§116(f), 120–124, June 30, 2004, 118 Stat. 750, 756–760; Pub. L. 109–97, title VII, §777(a), Nov. 10, 2005, 119 Stat. 2161; Pub. L. 110–161, div. A, title VII, §738(b), Dec. 26, 2007, 121 Stat. 1880; Pub. L. 110–234, title IV, §§4303, 4304(b), May 22, 2008, 122 Stat. 1126, 1131; Pub. L. 110–246, §4(a), title IV, §§4303, 4304(b), June 18, 2008, 122 Stat. 1664, 1887, 1892; Pub. L. 111–80, title VII, §749(d), Oct. 21, 2009, 123 Stat. 2132; Pub. L. 111–296, title II, §§210, 243, title IV, §§405, 441(a)(9)–(13), Dec. 13, 2010, 124 Stat. 3223, 3236, 3259, 3264.)
+(June 4, 1946, ch. 281, §18, formerly §20, as added Pub. L. 95–166, §10(2), Nov. 10, 1977, 91 Stat. 1336; amended Pub. L. 95–627, §11, Nov. 10, 1978, 92 Stat. 3624; renumbered §18 and amended Pub. L. 99–500, title III, §§327, 371(c)(1), Oct. 18, 1986, 100 Stat. 1783–362, 1783–368, and Pub. L. 99–591, title III, §§327, 371(c)(1), Oct. 30, 1986, 100 Stat. 3341–365, 3341–372; renumbered §18 and amended Pub. L. 99–661, div. D, title II, §4207, title V, §4501(c)(1), Nov. 14, 1986, 100 Stat. 4073, 4080; Pub. L. 100–237, §5, Jan. 8, 1988, 101 Stat. 1739; Pub. L. 101–147, title I, §107, title II, §205(a), title III, §311, Nov. 10, 1989, 103 Stat. 886, 910, 916; Pub. L. 102–342, title I, §101(a), title III, §301, Aug. 14, 1992, 106 Stat. 911, 913; Pub. L. 102–512, title I, §102, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §§117(a)(2)(A), (b), 118, Nov. 2, 1994, 108 Stat. 4717, 4719; Pub. L. 104–193, title VII, §709, Aug. 22, 1996, 110 Stat. 2301; Pub. L. 105–336, title I, §109(a)–(c)(1), Oct. 31, 1998, 112 Stat. 3154–3156; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §102(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–215; Pub. L. 107–171, title IV, §4305(a), May 13, 2002, 116 Stat. 332; Pub. L. 108–30, §1, May 29, 2003, 117 Stat. 774; Pub. L. 108–134, §5(2), Nov. 22, 2003, 117 Stat. 1390; Pub. L. 108–211, §5(b), Mar. 31, 2004, 118 Stat. 567; Pub. L. 108–265, title I, §§116(f), 120–124, June 30, 2004, 118 Stat. 750, 756–760; Pub. L. 109–97, title VII, §777(a), Nov. 10, 2005, 119 Stat. 2161; Pub. L. 110–161, div. A, title VII, §738(b), Dec. 26, 2007, 121 Stat. 1880; Pub. L. 110–234, title IV, §§4303, 4304(b), May 22, 2008, 122 Stat. 1126, 1131; Pub. L. 110–246, §4(a), title IV, §§4303, 4304(b), June 18, 2008, 122 Stat. 1664, 1887, 1892; Pub. L. 111–80, title VII, §749(d), Oct. 21, 2009, 123 Stat. 2132; Pub. L. 111–296, title II, §§210, 243, title IV, §§405, 441(a)(9)–(13), Dec. 13, 2010, 124 Stat. 3223, 3236, 3259, 3264.)
 
 #### References in Text
 
@@ -324,15 +324,15 @@ A prior section 18 of act June 4, 1946, which was classified to section 1767 of 
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–296, §441(a)(9), struck out subsec. (a) which related to pilot projects for administration of child nutrition programs by contract or direct disbursement.
 
-Subsec. (c). Pub. L. 111–296, §441(a)(10), redesignated pars. (3) and (4) as (1) and (2), respectively, in par. (1), substituted “The Secretary may conduct” for “In addition to the pilot projects described in this subsection, the Secretary may conduct other”, and struck out former pars. (1) and (2) which related to certain pilot programs.
+Subsec. (c). Pub. L. 111–296, §441(a)(10), redesignated pars. (3) and (4) as (1) and (2), respectively, in par. (1), substituted "The Secretary may conduct" for "In addition to the pilot projects described in this subsection, the Secretary may conduct other", and struck out former pars. (1) and (2) which related to certain pilot programs.
 
 Subsecs. (d) to (f). Pub. L. 111–296, §441(a)(11)–(13), struck out subsecs. (d) to (f) which related to fortified fluid milk, breakfast pilot projects, and summer food service residential camp eligibility, respectively.
 
-Subsecs. (g), (h). Pub. L. 111–296, §243(2), (3), added subsec. (g), redesignated pars. (3) and (4) of former subsec. (g) as pars. (1) and (2), respectively, of subsec. (h), inserted subsec. heading, substituted “In general” for “Pilot program for high-poverty schools” in heading of subsec. (h)(1), “carried out by the Secretary” for “in accordance with paragraph (1)(H)” in subsec. (h)(1)(F), and “2015” for “ 2009” in subsec. (h)(2), and struck out heading “Access to local foods and school gardens” of former subsec. (g), and pars. (1) and (2) of former subsec. (g) which related to grants and technical assistance by the Secretary to schools and non-profit entities for various projects and administration of such grants and technical assistance. Former subsec. (h) redesignated (i).
+Subsecs. (g), (h). Pub. L. 111–296, §243(2), (3), added subsec. (g), redesignated pars. (3) and (4) of former subsec. (g) as pars. (1) and (2), respectively, of subsec. (h), inserted subsec. heading, substituted "In general" for "Pilot program for high-poverty schools" in heading of subsec. (h)(1), "carried out by the Secretary" for "in accordance with paragraph (1)(H)" in subsec. (h)(1)(F), and "2015" for " 2009" in subsec. (h)(2), and struck out heading "Access to local foods and school gardens" of former subsec. (g), and pars. (1) and (2) of former subsec. (g) which related to grants and technical assistance by the Secretary to schools and non-profit entities for various projects and administration of such grants and technical assistance. Former subsec. (h) redesignated (i).
 
 Subsec. (i). Pub. L. 111–296, §243(1), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-Subsec. (i)(5). Pub. L. 111–296, §405, substituted “2011 through 2015” for “2005 through 2010”.
+Subsec. (i)(5). Pub. L. 111–296, §405, substituted "2011 through 2015" for "2005 through 2010".
 
 Subsec. (j). Pub. L. 111–296, §243(1), redesignated subsec. (i) as (j). Former subsec. (j) redesignated (k).
 
@@ -340,37 +340,37 @@ Pub. L. 111–296, §210, added subsec. (j).
 
 Subsec. (k). Pub. L. 111–296, §243(1), redesignated subsec. (j) as (k).
 
-<b>2009</b>—Subsec. (h)(5). Pub. L. 111–80 substituted “2010” for “2009”.
+<b>2009</b>—Subsec. (h)(5). Pub. L. 111–80 substituted "2010" for "2009".
 
 <b>2008</b>—Subsecs. (f), (g). Pub. L. 110–246, §4304(b), redesignated subsecs. (g) and (h) as (f) and (g), respectively, and struck out former subsec. (f) which related to fresh fruit and vegetable program.
 
 Subsec. (h). Pub. L. 110–246, §4304(b), redesignated subsec. (i) as (h). Former subsec. (h) redesignated (g).
 
-Pub. L. 110–246, §4303, in par. (1)(C) inserted “promotes healthy food education in the school curriculum and” before “incorporates”, added pars. (2) and (3), and redesignated former par. (2) as (4).
+Pub. L. 110–246, §4303, in par. (1)(C) inserted "promotes healthy food education in the school curriculum and" before "incorporates", added pars. (2) and (3), and redesignated former par. (2) as (4).
 
 Subsecs. (i), (j). Pub. L. 110–246, §4304(b), redesignated subsec. (j) as (i). Former subsec. (i) redesignated (h).
 
 <b>2007</b>—Subsecs. (f) to (k). Pub. L. 110–161 redesignated subsecs. (g) to (k) as (f) to (j), respectively, and struck out former subsec. (f) which related to simplified summer food programs.
 
-<b>2005</b>—Subsec. (f)(1)(B). Pub. L. 109–97, §777(a)(1), substituted “June 2005” for “April 2004” in introductory provisions.
+<b>2005</b>—Subsec. (f)(1)(B). Pub. L. 109–97, §777(a)(1), substituted "June 2005" for "April 2004" in introductory provisions.
 
-Subsec. (f)(1)(B)(ii). Pub. L. 109–97, §777(a)(2), substituted “75” for “66.67” in introductory provisions.
+Subsec. (f)(1)(B)(ii). Pub. L. 109–97, §777(a)(2), substituted "75" for "66.67" in introductory provisions.
 
-<b>2004</b>—Subsec. (f). Pub. L. 108–265, §116(f)(5)(A), substituted “Simplified summer food programs” for “Summer food pilot projects” in heading.
+<b>2004</b>—Subsec. (f). Pub. L. 108–265, §116(f)(5)(A), substituted "Simplified summer food programs" for "Summer food pilot projects" in heading.
 
-Subsec. (f)(1). Pub. L. 108–265, §116(f)(1), added par. (1) and struck out heading and text of former par. (1), which defined “eligible State” using formula based on data available in July 2000.
+Subsec. (f)(1). Pub. L. 108–265, §116(f)(1), added par. (1) and struck out heading and text of former par. (1), which defined "eligible State" using formula based on data available in July 2000.
 
-Subsec. (f)(2). Pub. L. 108–265, §116(f)(5)(B), substituted “Programs” for “Pilot projects” in heading and “food program” for “food pilot project” in text.
+Subsec. (f)(2). Pub. L. 108–265, §116(f)(5)(B), substituted "Programs" for "Pilot projects" in heading and "food program" for "food pilot project" in text.
 
-Pub. L. 108–265, §116(f)(2), substituted “The” for “During the period beginning October 1, 2000, and ending June 30, 2004, the”.
+Pub. L. 108–265, §116(f)(2), substituted "The" for "During the period beginning October 1, 2000, and ending June 30, 2004, the".
 
-Pub. L. 108–211 substituted “June 30, 2004” for “March 31, 2004”.
+Pub. L. 108–211 substituted "June 30, 2004" for "March 31, 2004".
 
-Subsec. (f)(3)(A), (B). Pub. L. 108–265, §116(f)(5)(C), substituted “program” for “pilot project”.
+Subsec. (f)(3)(A), (B). Pub. L. 108–265, §116(f)(5)(C), substituted "program" for "pilot project".
 
-Pub. L. 108–265, §116(f)(3), struck out “(other than a service institution described in section 1761(a)(7) of this title)” after “service institution”.
+Pub. L. 108–265, §116(f)(3), struck out "(other than a service institution described in section 1761(a)(7) of this title)" after "service institution".
 
-Subsec. (f)(5). Pub. L. 108–265, §116(f)(5)(D), substituted “programs” for “pilot projects” in heading and “the program” for “the pilot project” in text wherever appearing.
+Subsec. (f)(5). Pub. L. 108–265, §116(f)(5)(D), substituted "programs" for "pilot projects" in heading and "the program" for "the pilot project" in text wherever appearing.
 
 Subsec. (f)(6). Pub. L. 108–265, §116(f)(4), added par. (6) and struck out heading and text of former par. (6), which related to interim and final reports on pilot projects carried out under this subsec.
 
@@ -378,9 +378,9 @@ Subsec. (g). Pub. L. 108–265, §120, added subsec. (g) and struck out heading 
 
 Subsecs. (h) to (k). Pub. L. 108–265, §§121–124, added subsecs. (h) to (k).
 
-<b>2003</b>—Subsec. (f)(2). Pub. L. 108–134 substituted “beginning October 1, 2000, and ending March 31, 2004” for “of fiscal years 2001 through 2003”.
+<b>2003</b>—Subsec. (f)(2). Pub. L. 108–134 substituted "beginning October 1, 2000, and ending March 31, 2004" for "of fiscal years 2001 through 2003".
 
-Subsec. (g)(4). Pub. L. 108–30 inserted before period at end “, to remain available until the close of the school year beginning July 2003”.
+Subsec. (g)(4). Pub. L. 108–30 inserted before period at end ", to remain available until the close of the school year beginning July 2003".
 
 <b>2002</b>—Subsec. (g). Pub. L. 107–171 added subsec (g).
 
@@ -402,33 +402,33 @@ Subsec. (i). Pub. L. 105–336, §109(b), (c)(1), amended subsec. (i) generally 
 
 <b>1996</b>—Subsec. (d)(3) to (5). Pub. L. 104–193, §709(a), redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which related to pilot program for schools with universal free lunch programs to use certain methods to determine number of free, reduced price, and paid meals to be provided.
 
-Subsec. (e)(1). Pub. L. 104–193, §709(b)(1), designated subpar. (A) as par. (1), substituted “Secretary may establish” for “Secretary shall establish”, and struck out subpar. (B) which read as follows: “The amount of a grant under subparagraph (A) shall be equal to the amount necessary to provide meals or supplements described in such subparagraph and shall be determined in accordance with reimbursement payment rates for meals and supplements under the child and adult care food program under section 1766 of this title.”
+Subsec. (e)(1). Pub. L. 104–193, §709(b)(1), designated subpar. (A) as par. (1), substituted "Secretary may establish" for "Secretary shall establish", and struck out subpar. (B) which read as follows: "The amount of a grant under subparagraph (A) shall be equal to the amount necessary to provide meals or supplements described in such subparagraph and shall be determined in accordance with reimbursement payment rates for meals and supplements under the child and adult care food program under section 1766 of this title."
 
 Subsec. (e)(5). Pub. L. 104–193, §709(b)(2), added heading and text of par. (5) and struck out former par. (5) which read as follows:
 
-“(5)(A) Except as provided in subparagraph (B), the Secretary shall expend to carry out this subsection, from amounts appropriated for purposes of carrying out section 1766 of this title, $325,000 for fiscal year 1995, $475,000 for each of fiscal years 1996 and 1997, and $525,000 for fiscal year 1998. In addition to amounts described in the preceding sentence, the Secretary shall expend any additional amounts in any fiscal year as may be provided in advance in appropriations Acts.
+"(5)(A) Except as provided in subparagraph (B), the Secretary shall expend to carry out this subsection, from amounts appropriated for purposes of carrying out section 1766 of this title, $325,000 for fiscal year 1995, $475,000 for each of fiscal years 1996 and 1997, and $525,000 for fiscal year 1998. In addition to amounts described in the preceding sentence, the Secretary shall expend any additional amounts in any fiscal year as may be provided in advance in appropriations Acts.
 
-“(B) The Secretary may expend less than the amount required under subparagraph (A) if there is an insufficient number of suitable applicants.”
+"(B) The Secretary may expend less than the amount required under subparagraph (A) if there is an insufficient number of suitable applicants."
 
-<b>1994</b>—Subsec. (b)(1). Pub. L. 103–448, §118(a), struck out “, and ending September 30, 1994” after “beginning July 1, 1987”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–448, §118(a), struck out ", and ending September 30, 1994" after "beginning July 1, 1987".
 
 Subsec. (c). Pub. L. 103–448, §117(a)(2)(A), (b), added subsec. (c) and struck out former subsec. (c), which related to provision of food service to homeless children under age 6 in emergency shelters.
 
 Subsecs. (e) to (i). Pub. L. 103–448, §118(b)–(f), added subsecs. (e) to (i).
 
-<b>1992</b>—Subsec. (b)(1). Pub. L. 102–342, §301, substituted “September 30, 1994” for “September 30, 1992”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–342, §301, substituted "September 30, 1994" for "September 30, 1992".
 
-Subsec. (c)(2). Pub. L. 102–342, §101(a)(1), inserted “State, city, local, or county governments, other public entities, or” before “private nonprofit”.
+Subsec. (c)(2). Pub. L. 102–342, §101(a)(1), inserted "State, city, local, or county governments, other public entities, or" before "private nonprofit".
 
-Subsec. (c)(2)(B)(i). Pub. L. 102–512 substituted “Each private nonprofit organization” for “Each such organization”.
+Subsec. (c)(2)(B)(i). Pub. L. 102–512 substituted "Each private nonprofit organization" for "Each such organization".
 
-Subsec. (c)(3)(A). Pub. L. 102–342, §101(a)(2), inserted at end “The projects shall receive reimbursement payments for meals and supplements served on Saturdays, Sundays, and holidays, at the request of the sponsor of any such project. The meal pattern requirements of this subparagraph may be modified as necessary by the Secretary to take into account the needs of infants.”
+Subsec. (c)(3)(A). Pub. L. 102–342, §101(a)(2), inserted at end "The projects shall receive reimbursement payments for meals and supplements served on Saturdays, Sundays, and holidays, at the request of the sponsor of any such project. The meal pattern requirements of this subparagraph may be modified as necessary by the Secretary to take into account the needs of infants."
 
-Subsec. (c)(5)(A). Pub. L. 102–342, §101(a)(1), (3), substituted “not less than $350,000 in each of fiscal years 1991 and 1992, not less than $650,000 in fiscal year 1993, and not less than $800,000 in fiscal year 1994,” for “and not less than $350,000 in each of the fiscal years 1991, 1992, 1993, and 1994,” and inserted “State, city, local, or county governments, other public entities, or” before “private nonprofit”.
+Subsec. (c)(5)(A). Pub. L. 102–342, §101(a)(1), (3), substituted "not less than $350,000 in each of fiscal years 1991 and 1992, not less than $650,000 in fiscal year 1993, and not less than $800,000 in fiscal year 1994," for "and not less than $350,000 in each of the fiscal years 1991, 1992, 1993, and 1994," and inserted "State, city, local, or county governments, other public entities, or" before "private nonprofit".
 
 Subsec. (c)(7). Pub. L. 102–342, §101(a)(4), added par. (7).
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–147, §311(2), struck out “(42 U.S.C. 1771 et seq.)” after “Child Nutrition Act of 1966” and “(42 U.S.C. 1774)” after “section 5 of the Child Nutrition Act of 1966”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–147, §311(2), struck out "(42 U.S.C. 1771 et seq.)" after "Child Nutrition Act of 1966" and "(42 U.S.C. 1774)" after "section 5 of the Child Nutrition Act of 1966".
 
 Pub. L. 101–147, §311(1), redesignated subsec. (d) as (a) and struck out former subsec. (a) which set forth statement of purpose of section and requirements for types of projects.
 
@@ -440,7 +440,7 @@ Subsec. (d). Pub. L. 101–147, §311(1), redesignated subsec. (g) as (d). Forme
 
 Subsec. (e). Pub. L. 101–147, §311(1), redesignated subsec. (e) as (b).
 
-Subsec. (e)(1). Pub. L. 101–147, §107(1)(A), substituted “beginning July 1, 1987, and ending September 30, 1992” for “for the duration beginning July 1, 1987, and ending December 31, 1990” and inserted at end “The Secretary, directly or through contract, shall administer the project under this subsection.”
+Subsec. (e)(1). Pub. L. 101–147, §107(1)(A), substituted "beginning July 1, 1987, and ending September 30, 1992" for "for the duration beginning July 1, 1987, and ending December 31, 1990" and inserted at end "The Secretary, directly or through contract, shall administer the project under this subsection."
 
 Subsec. (f). Pub. L. 101–147, §311(1), redesignated subsec. (f) as (c).
 
@@ -452,7 +452,7 @@ Pub. L. 101–147, §205(a), added subsec. (g).
 
 <b>1988</b>—Subsec. (e). Pub. L. 100–237 added subsec. (e).
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–500 and Pub. L. 99–591, §327(b), and Pub. L. 99–661, §4207(b), which directed the identical amendment of subsec. (c) by striking out “except for the pilot projects conducted under subsection (d) of this section,” were executed by striking out “, except for the pilot projects conducted under subsection (d) of this section” after “under this section” in introductory provisions, as the probable intent of Congress.
+<b>1986</b>—Subsec. (c). Pub. L. 99–500 and Pub. L. 99–591, §327(b), and Pub. L. 99–661, §4207(b), which directed the identical amendment of subsec. (c) by striking out "except for the pilot projects conducted under subsection (d) of this section," were executed by striking out ", except for the pilot projects conducted under subsection (d) of this section" after "under this section" in introductory provisions, as the probable intent of Congress.
 
 Subsec. (d). Pub. L. 99–500 and Pub. L. 99–591, §327(a), and Pub. L. 99–661, §4207(a), amended section identically, adding subsec. (d) and striking out former subsec. (d) which related to free lunches without regard to family income and to reimbursement of school food authorities.
 
@@ -476,7 +476,7 @@ Amendment by Pub. L. 110–161 effective on Jan. 1 of the first full calendar ye
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–97, title VII, §777(b), Nov. 10, 2005, 119 Stat. 2161, provided that: “The amendments made by subsection (a) \[amending this section\] take effect on January 1, 2006.”
+Pub. L. 109–97, title VII, §777(b), Nov. 10, 2005, 119 Stat. 2161, provided that: "The amendments made by subsection (a) \[amending this section\] take effect on January 1, 2006."
 
 #### Effective Date of 2004 Amendment
 
@@ -484,7 +484,7 @@ Amendment by section 116(f)(1), (3) of Pub. L. 108–265 effective Jan. 1, 2005,
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–171, title IV, §4305(b), May 13, 2002, 116 Stat. 332, provided that: “The amendment made by this section \[amending this section\] takes effect on the date of enactment of this Act \[May 13, 2002\].”
+Pub. L. 107–171, title IV, §4305(b), May 13, 2002, 116 Stat. 332, provided that: "The amendment made by this section \[amending this section\] takes effect on the date of enactment of this Act \[May 13, 2002\]."
 
 #### Effective Date of 1998 Amendment
 
@@ -496,7 +496,7 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–512, title I, §104, Oct. 24, 1992, 106 Stat. 3364, provided that: “This title \[amending this section and section 1776 of this title and enacting provisions set out as a note under section 1771 of this title\] and the amendments made by this title shall become effective on September 30, 1992.”
+Pub. L. 102–512, title I, §104, Oct. 24, 1992, 106 Stat. 3364, provided that: "This title \[amending this sectionand section 1776 of this title and enacting provisions set out as a note under section 1771 of this title\] and the amendments made by this title shall become effective on September 30, 1992."
 
 #### Effective Date of 1978 Amendment
 
@@ -504,7 +504,7 @@ Amendment by Pub. L. 95–627 effective Oct. 1, 1978, see section 14 of Pub. L. 
 
 #### Other Demonstration Projects for Feeding Homeless Children
 
-Pub. L. 102–342, title I, §101(b), Aug. 14, 1992, 106 Stat. 911, as amended by Pub. L. 105–336, title I, §109(c)(2), Oct. 31, 1998, 112 Stat. 3157, provided that: “The Secretary of Agriculture may conduct demonstration projects to identify effective means of providing food assistance to homeless children residing in temporary shelters.”
+Pub. L. 102–342, title I, §101(b), Aug. 14, 1992, 106 Stat. 911, as amended by Pub. L. 105–336, title I, §109(c)(2), Oct. 31, 1998, 112 Stat. 3157, provided that: "The Secretary of Agriculture may conduct demonstration projects to identify effective means of providing food assistance to homeless children residing in temporary shelters."
 
 #### Alternative Counting and Claiming Procedures; Promulgation of Regulations
 

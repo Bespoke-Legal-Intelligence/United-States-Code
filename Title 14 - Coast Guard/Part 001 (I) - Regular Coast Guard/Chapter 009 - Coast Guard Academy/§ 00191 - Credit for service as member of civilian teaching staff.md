@@ -12,5 +12,5 @@ Changes in phraseology were made in order to adapt the section to the new struct
 
 #### Amendments
 
-<b>1960</b>—Pub. L. 86–474 substituted “member of civilian teaching staff” for “civilian instructor” in section catchline, and “member of the civilian teaching staff” for “civilian instructor or civilian librarian” in text, and struck out “commissioned” before “instructor” in two places.
+<b>1960</b>—Pub. L. 86–474 substituted "member of civilian teaching staff" for "civilian instructor" in section catchline, and "member of the civilian teaching staff" for "civilian instructor or civilian librarian" in text, and struck out "commissioned" before "instructor" in two places.
 

@@ -16,7 +16,7 @@ The Secretary may make a grant under this section only if the applicant agrees t
 
 &emsp;(4) to improve data collection and retention; or
 
-&emsp;(5) to increase education, training, and technical assistance opportunities, such as training and continuing education in the management of emergency medical services accessible to emergency medical personnel in rural areas through telehealth, home studies, and other methods.
+&emsp;(5) to increase education, training, and technical assistance opportunities, such as training and continuing education in the management of emergency medical services accessibleto emergency medical personnel in rural areas through telehealth, home studies, and other methods.
 
 #### (c) Preference
 
@@ -50,5 +50,5 @@ Another prior section 1203 of act July 1, 1994, was renumbered section 1202 and 
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148 inserted “for trauma systems” after “grants” in section catchline and substituted “Assistant Secretary for Preparedness and Response” for “Administrator of the Health Resources and Services Administration” in subsec. (a).
+<b>2010</b>—Pub. L. 111–148 inserted "for trauma systems" after "grants" in section catchline and substituted "Assistant Secretary for Preparedness and Response" for "Administrator of the Health Resources and Services Administration" in subsec. (a).
 

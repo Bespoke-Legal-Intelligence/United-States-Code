@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Agriculture (referred to in this section as the “Secretary”), acting through the Chief of the Forest Service, shall provide technical, financial, and related assistance to Indian tribes for the purpose of expanding tribal stewardship capacities and activities through tribal forestry best-management practices and other means at the tribal level to address watershed issues on land under the jurisdiction of or administered by the Indian tribes.
+The Secretary of Agriculture (referred to in this section as the "Secretary"), acting through the Chief of the Forest Service, shall provide technical, financial, and related assistance to Indian tribes for the purpose of expanding tribal stewardship capacities and activities through tribal forestry best-management practices and other means at the tribal level to address watershed issues on land under the jurisdiction of or administered by the Indian tribes.
 
 #### (b) Technical assistance to protect water quality
 

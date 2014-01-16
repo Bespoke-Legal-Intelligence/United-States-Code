@@ -56,447 +56,447 @@ Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–554, §111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Attorney General shall appoint one United States trustee for each of the following districts or groups of districts:
+<b>1986</b>—Subsec. (a). Pub. L. 99–554, §111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The Attorney General shall appoint one United States trustee for each of the following districts or groups of districts:
 
-&emsp;“(1) District of Maine, District of New Hampshire, District of Massachusetts, and District of Rhode Island.
+&emsp;"(1) District of Maine, District of New Hampshire, District of Massachusetts, and District of Rhode Island.
 
-&emsp;“(2) Southern District of New York.
+&emsp;"(2) Southern District of New York.
 
-&emsp;“(3) District of Delaware and District of New Jersey.
+&emsp;"(3) District of Delaware and District of New Jersey.
 
-&emsp;“(4) Eastern District of Virginia and District of District of Columbia.
+&emsp;"(4) Eastern District of Virginia and District of District of Columbia.
 
-&emsp;“(5) Northern District of Alabama.
+&emsp;"(5) Northern District of Alabama.
 
-&emsp;“(6) Northern District of Texas.
+&emsp;"(6) Northern District of Texas.
 
-&emsp;“(7) Northern District of Illinois.
+&emsp;"(7) Northern District of Illinois.
 
-&emsp;“(8) District of Minnesota, District of North Dakota, District of South Dakota.
+&emsp;"(8) District of Minnesota, District of North Dakota, District of South Dakota.
 
-&emsp;“(9) Central District of California.
+&emsp;"(9) Central District of California.
 
-&emsp;“(10) District of Colorado and District of Kansas.”
+&emsp;"(10) District of Colorado and District of Kansas."
 
-Subsec. (b). Pub. L. 99–554, §111(b), substituted “five years” for “seven years” and “office” for “Office”.
+Subsec. (b). Pub. L. 99–554, §111(b), substituted "five years" for "seven years" and "office" for "Office".
 
-Subsec. (c). Pub. L. 99–554, §111(c), struck out “for cause” after “removal”.
+Subsec. (c). Pub. L. 99–554, §111(c), struck out "for cause" after "removal".
 
 #### Effective Date of 1986 Amendment; Transition and Administrative Provisions
 
 Pub. L. 99–554, title III, Oct. 27, 1986, 100 Stat. 3118, as amended by Pub. L. 101–650, title III, §317(a), (c), Dec. 1, 1990, 104 Stat. 5115, 5116; Pub. L. 103–65, §1, Aug. 6, 1993, 107 Stat. 311; Pub. L. 106–518, title V, §501, Nov. 13, 2000, 114 Stat. 2421; Pub. L. 109–8, title X, §1001(c), Apr. 20, 2005, 119 Stat. 186, provided that:
 
-#### “SEC. 301. INCUMBENT UNITED STATES TRUSTEES.
+#### "SEC. 301. INCUMBENT UNITED STATES TRUSTEES.
 
-“(a)
+"(a)
 
 Area for Which Appointed.—Notwithstanding any paragraph of section 581(a) of title 28, United States Code, as in effect before the effective date of this Act, a United States trustee serving in such office on the effective date of this Act shall serve the remaining term of such office as United States trustee for the region specified in a paragraph of such section, as amended by this Act, that includes the site at which the primary official station of the United States trustee is located immediately before the effective date of this Act.
 
-“(b)
+"(b)
 
 Term of Office.—Notwithstanding section 581(b) of title 28, United States Code, as in effect before the effective date of this Act, the term of office of any United States trustee serving in such office on the date of the enactment of this Act \[Oct. 27, 1986\] shall expire—
 
-&emsp;“(1) 2 years after the expiration date of such term of office under such section, as so in effect, or
+&emsp;"(1) 2 years after the expiration date of such term of office under such section, as so in effect, or
 
-&emsp;“(2) 4 years after the date of the enactment of this Act,
+&emsp;"(2) 4 years after the date of the enactment of this Act,
 
 > whichever occurs first.
 
-#### “SEC. 302. EFFECTIVE DATES; APPLICATION OF AMENDMENTS.
+#### "SEC. 302. EFFECTIVE DATES; APPLICATION OF AMENDMENTS.
 
-“(a)
+"(a)
 
 General Effective Date.—Except as provided in subsections (b), (c), (d), (e), and \[former\] (f), this Act and the amendments made by this Act \[see Short Title of 1986 Amendment note below\] shall take effect 30 days after the date of the enactment of this Act \[Oct. 27, 1986\].
 
-“(b)
+"(b)
 
 Amendments Relating to Bankruptcy Judges and Incumbent United States Trustees.—Subtitle A of title I, and sections 301 and 307(a) \[amending sections 152 and 156 of this title, enacting provisions set out as notes under section 581 of this title, and amending provisions set out as notes under section 152 of this title and preceding section 581 of this title\], shall take effect on the date of the enactment of this Act \[Oct. 27, 1986\].
 
-“(c)
+"(c)
 
 Amendments Relating to Family Farmers.—(1) The amendments made by subtitle B of title II \[§§251 to 257 of Pub. L. 99–554, see Tables for classification\] shall not apply with respect to cases commenced under title 11 of the United States Code before the effective date of this Act.
 
-“(2) Section 1202 of title 11 of the United States Code (as added by the amendment made by section 255 of this Act) shall take effect on the effective date of this Act and before the amendment made by section 227 of this Act \[amending section 1202 of this title\].
+"(2) Section 1202 of title 11 of the United States Code (as added by the amendment made by section 255 of this Act) shall take effect on the effective date of this Act and before the amendment made by section 227 of this Act \[amending section 1202 of this title\].
 
-“(3) Until the amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\] become effective in a district and apply to a case, for purposes of such case—
+"(3) Until the amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\] become effective in a district and apply to a case, for purposes of such case—
 
-&emsp;“(A)(i) any reference in section 326(b) of title 11 of the United States Code to chapter 13 of title 11 of the United States Code shall be deemed to be a reference to chapter 12 or chapter 13 of title 11 of the United States Code,
+&emsp;"(A)(i) any reference in section 326(b) of title 11 of the United States Code to chapter 13 of title 11 of the United States Code shall be deemed to be a reference to chapter 12 or chapter 13 of title 11 of the United States Code,
 
-&emsp;“(ii) any reference in such section 326(b) to section 1302(d) of title 11 of the United States Code shall be deemed to be a reference to section 1302(d) of title 11 of the United States Code or section 586(b) of title 28 of the United States Code, and
+&emsp;"(ii) any reference in such section 326(b) to section 1302(d) of title 11 of the United States Code shall be deemed to be a reference to section 1302(d) of title 11 of the United States Code or section 586(b) of title 28 of the United States Code, and
 
-&emsp;“(iii) any reference in such section 326(b) to section 1302(a) of title 11 of the United States Code shall be deemed to be a reference to section 1202(a) or section 1302(a) of title 11 of the United States Code, and
+&emsp;"(iii) any reference in such section 326(b) to section 1302(a) of title 11 of the United States Code shall be deemed to be a reference to section 1202(a) or section 1302(a) of title 11 of the United States Code, and
 
-&emsp;“(B)(i) the first two references in section 1202(a) of title 11 of the United States Code (as added by the amendment made by section 255 of this Act) to the United States trustee shall be deemed to be a reference to the court, and
+&emsp;"(B)(i) the first two references in section 1202(a) of title 11 of the United States Code (as added by the amendment made by section 255 of this Act) to the United States trustee shall be deemed to be a reference to the court, and
 
-&emsp;“(ii) any reference in such section 1202(a) to section 586(b) of title 28 of the United States Code shall be deemed to be a reference to section 1202(c) of title 11 of the United States Code (as so added).
+&emsp;"(ii) any reference in such section 1202(a) to section 586(b) of title 28 of the United States Code shall be deemed to be a reference to section 1202(c) of title 11 of the United States Code (as so added).
 
-“(d)
+"(d)
 
 Application of Amendments to Judicial Districts.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Certain regions not currently served by united states trustees.—(A) The amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\], and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not—
 
-&emsp;&emsp;“(i) become effective in or with respect to a judicial district specified in subparagraph (B) until, or
+&emsp;&emsp;"(i) become effective in or with respect to a judicial district specified in subparagraph (B) until, or
 
-&emsp;&emsp;“(ii) apply to cases while pending in such district before,
+&emsp;&emsp;"(ii) apply to cases while pending in such district before,
 
 > &emsp;the expiration of the 270-day period beginning on the effective date of this Act or of the 30-day period beginning on the date the Attorney General certifies under section 303 of this Act the region specified in a paragraph of section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, that includes such district, whichever occurs first.
 
-&emsp;“(B) Subparagraph (A) applies to the following:
+&emsp;"(B) Subparagraph (A) applies to the following:
 
-&emsp;&emsp;“(i) The judicial district established for the Commonwealth of Puerto Rico.
+&emsp;&emsp;"(i) The judicial district established for the Commonwealth of Puerto Rico.
 
-&emsp;&emsp;“(ii) The District of Connecticut.
+&emsp;&emsp;"(ii) The District of Connecticut.
 
-&emsp;&emsp;“(iii) The judicial districts established for the State of New York (other than the Southern District of New York).
+&emsp;&emsp;"(iii) The judicial districts established for the State of New York (other than the Southern District of New York).
 
-&emsp;&emsp;“(iv) The District of Vermont.
+&emsp;&emsp;"(iv) The District of Vermont.
 
-&emsp;&emsp;“(v) The judicial districts established for the State of Pennsylvania.
+&emsp;&emsp;"(v) The judicial districts established for the State of Pennsylvania.
 
-&emsp;&emsp;“(vi) The judicial district established for the Virgin Islands of the United States.
+&emsp;&emsp;"(vi) The judicial district established for the Virgin Islands of the United States.
 
-&emsp;&emsp;“(vii) The District of Maryland.
+&emsp;&emsp;"(vii) The District of Maryland.
 
-&emsp;&emsp;“(viii) The judicial districts established for the State of North Carolina.
+&emsp;&emsp;"(viii) The judicial districts established for the State of North Carolina.
 
-&emsp;&emsp;“(ix) The District of South Carolina.
+&emsp;&emsp;"(ix) The District of South Carolina.
 
-&emsp;&emsp;“(x) The judicial districts established for the State of West Virginia.
+&emsp;&emsp;"(x) The judicial districts established for the State of West Virginia.
 
-&emsp;&emsp;“(xi) The Western District of Virginia.
+&emsp;&emsp;"(xi) The Western District of Virginia.
 
-&emsp;&emsp;“(xii) The Eastern District of Texas.
+&emsp;&emsp;"(xii) The Eastern District of Texas.
 
-&emsp;&emsp;“(xiii) The judicial districts established for the State of Wisconsin.
+&emsp;&emsp;"(xiii) The judicial districts established for the State of Wisconsin.
 
-&emsp;&emsp;“(xiv) The judicial districts established for the State of Iowa.
+&emsp;&emsp;"(xiv) The judicial districts established for the State of Iowa.
 
-&emsp;&emsp;“(xv) The judicial districts established for the State of New Mexico.
+&emsp;&emsp;"(xv) The judicial districts established for the State of New Mexico.
 
-&emsp;&emsp;“(xvi) The judicial districts established for the State of Oklahoma.
+&emsp;&emsp;"(xvi) The judicial districts established for the State of Oklahoma.
 
-&emsp;&emsp;“(xvii) The District of Utah.
+&emsp;&emsp;"(xvii) The District of Utah.
 
-&emsp;&emsp;“(xviii) The District of Wyoming (including those portions of Yellowstone National Park situated in the States of Montana and Idaho).
+&emsp;&emsp;"(xviii) The District of Wyoming (including those portions of Yellowstone National Park situated in the States of Montana and Idaho).
 
-&emsp;&emsp;“(xix) The judicial districts established for the State of Alabama.
+&emsp;&emsp;"(xix) The judicial districts established for the State of Alabama.
 
-&emsp;&emsp;“(xx) The judicial districts established for the State of Florida.
+&emsp;&emsp;"(xx) The judicial districts established for the State of Florida.
 
-&emsp;&emsp;“(xxi) The judicial districts established for the State of Georgia.
+&emsp;&emsp;"(xxi) The judicial districts established for the State of Georgia.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Certain remaining judicial districts not currently served by united states trustees.—(A) The amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\], and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not—
 
-&emsp;&emsp;“(i) become effective in or with respect to a judicial district specified in subparagraph (B) until, or
+&emsp;&emsp;"(i) become effective in or with respect to a judicial district specified in subparagraph (B) until, or
 
-&emsp;&emsp;“(ii) apply to cases while pending in such district before,
+&emsp;&emsp;"(ii) apply to cases while pending in such district before,
 
 > &emsp;the expiration of the 2-year period beginning on the effective date of this Act or of the 30-day period beginning on the date the Attorney General certifies under section 303 of this Act the region specified in a paragraph of section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, that includes such district, whichever occurs first.
 
-&emsp;“(B) Subparagraph (A) applies to the following:
+&emsp;"(B) Subparagraph (A) applies to the following:
 
-&emsp;&emsp;“(i) The judicial districts established for the State of Louisiana.
+&emsp;&emsp;"(i) The judicial districts established for the State of Louisiana.
 
-&emsp;&emsp;“(ii) The judicial districts established for the State of Mississippi.
+&emsp;&emsp;"(ii) The judicial districts established for the State of Mississippi.
 
-&emsp;&emsp;“(iii) The Southern District of Texas and the Western District of Texas.
+&emsp;&emsp;"(iii) The Southern District of Texas and the Western District of Texas.
 
-&emsp;&emsp;“(iv) The judicial districts established for the State of Kentucky.
+&emsp;&emsp;"(iv) The judicial districts established for the State of Kentucky.
 
-&emsp;&emsp;“(v) The judicial districts established for the State of Tennessee.
+&emsp;&emsp;"(v) The judicial districts established for the State of Tennessee.
 
-&emsp;&emsp;“(vi) The judicial districts established for the State of Michigan.
+&emsp;&emsp;"(vi) The judicial districts established for the State of Michigan.
 
-&emsp;&emsp;“(vii) The judicial districts established for the State of Ohio.
+&emsp;&emsp;"(vii) The judicial districts established for the State of Ohio.
 
-&emsp;&emsp;“(viii) The judicial districts established for the State of Illinois (other than the Northern District of Illinois).
+&emsp;&emsp;"(viii) The judicial districts established for the State of Illinois (other than the Northern District of Illinois).
 
-&emsp;&emsp;“(ix) The judicial districts established for the State of Indiana.
+&emsp;&emsp;"(ix) The judicial districts established for the State of Indiana.
 
-&emsp;&emsp;“(x) The judicial districts established for the State of Arkansas.
+&emsp;&emsp;"(x) The judicial districts established for the State of Arkansas.
 
-&emsp;&emsp;“(xi) The judicial districts established for the State of Nebraska.
+&emsp;&emsp;"(xi) The judicial districts established for the State of Nebraska.
 
-&emsp;&emsp;“(xii) The judicial districts established for the State of Missouri.
+&emsp;&emsp;"(xii) The judicial districts established for the State of Missouri.
 
-&emsp;&emsp;“(xiii) The District of Arizona.
+&emsp;&emsp;"(xiii) The District of Arizona.
 
-&emsp;&emsp;“(xiv) The District of Hawaii.
+&emsp;&emsp;"(xiv) The District of Hawaii.
 
-&emsp;&emsp;“(xv) The judicial district established for Guam.
+&emsp;&emsp;"(xv) The judicial district established for Guam.
 
-&emsp;&emsp;“(xvi) The judicial district established for the Commonwealth of the Northern Mariana Islands.
+&emsp;&emsp;"(xvi) The judicial district established for the Commonwealth of the Northern Mariana Islands.
 
-&emsp;&emsp;“(xvii) The judicial districts established for the State of California (other than the Central District of California).
+&emsp;&emsp;"(xvii) The judicial districts established for the State of California (other than the Central District of California).
 
-&emsp;&emsp;“(xviii) The District of Nevada.
+&emsp;&emsp;"(xviii) The District of Nevada.
 
-&emsp;&emsp;“(xix) The District of Alaska.
+&emsp;&emsp;"(xix) The District of Alaska.
 
-&emsp;&emsp;“(xx) The District of Idaho.
+&emsp;&emsp;"(xx) The District of Idaho.
 
-&emsp;&emsp;“(xxi) The District of Montana.
+&emsp;&emsp;"(xxi) The District of Montana.
 
-&emsp;&emsp;“(xxii) The District of Oregon.
+&emsp;&emsp;"(xxii) The District of Oregon.
 
-&emsp;&emsp;“(xxiii) The judicial districts established for the State of Washington.
+&emsp;&emsp;"(xxiii) The judicial districts established for the State of Washington.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Judicial districts for the states of alabama and north carolina.—(A) Notwithstanding paragraphs (1) and (2), and any other provision of law, the amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\], and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not—
 
-&emsp;&emsp;“(i) become effective in or with respect to a judicial district specified in subparagraph (E) until, or
+&emsp;&emsp;"(i) become effective in or with respect to a judicial district specified in subparagraph (E) until, or
 
-&emsp;&emsp;“(ii) apply to cases while pending in such district before,
+&emsp;&emsp;"(ii) apply to cases while pending in such district before,
 
 > &emsp;such district elects to be included in a bankruptcy region established in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, except that the amendment to section 105(a) of title 11, United States Code, shall become effective as of the date of the enactment of the Federal Courts Study Committee Implementation Act of 1990 \[Dec. 1, 1990\].
 
-&emsp;“(B) Any election under subparagraph (A) shall be made upon a majority vote of the chief judge of such district and each bankruptcy judge in such judicial district in favor of such election.
+&emsp;"(B) Any election under subparagraph (A) shall be made upon a majority vote of the chief judge of such district and each bankruptcy judge in such judicial district in favor of such election.
 
-&emsp;“(C) Notice that an election has been made under subparagraph (A) shall be given, not later than 10 days after such election, to the Attorney General and the appropriate Federal Circuit Court of Appeals for such district.
+&emsp;"(C) Notice that an election has been made under subparagraph (A) shall be given, not later than 10 days after such election, to the Attorney General and the appropriate Federal Circuit Court of Appeals for such district.
 
-&emsp;“(D) Any election made under subparagraph (A) shall become effective on the date the amendments made by subtitle A of title II of this Act become effective in the region that includes such district or 30 days after the Attorney General receives the notice required under subparagraph (C), whichever occurs later.
+&emsp;"(D) Any election made under subparagraph (A) shall become effective on the date the amendments made by subtitle A of title II of this Act become effective in the region that includes such district or 30 days after the Attorney General receives the notice required under subparagraph (C), whichever occurs later.
 
-&emsp;“(E) Subparagraph (A) applies to the following:
+&emsp;"(E) Subparagraph (A) applies to the following:
 
-&emsp;&emsp;“(i) The judicial districts established for the State of Alabama.
+&emsp;&emsp;"(i) The judicial districts established for the State of Alabama.
 
-&emsp;&emsp;“(ii) The judicial districts established for the State of North Carolina.
+&emsp;&emsp;"(ii) The judicial districts established for the State of North Carolina.
 
-&emsp;“(F)(i) Subject to clause (ii), with respect to cases under chapters 7, 11, 12, and 13 of title 11, United States Code—
+&emsp;"(F)(i) Subject to clause (ii), with respect to cases under chapters 7, 11, 12, and 13 of title 11, United States Code—
 
-&emsp;&emsp;“(I) commenced before the effective date of this Act, and
+&emsp;&emsp;"(I) commenced before the effective date of this Act, and
 
-&emsp;&emsp;“(II) pending in a judicial district in the State of Alabama or the State of North Carolina before any election made under subparagraph (A) by such district becomes effective,
+&emsp;&emsp;"(II) pending in a judicial district in the State of Alabama or the State of North Carolina before any election made under subparagraph (A) by such district becomes effective,
 
 > &emsp;the amendments made by section 113 \[amending section 586 of this title\] and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not apply until the expiration of the 1-year period beginning on the date such election becomes effective.
 
-&emsp;“(ii) For purposes of clause (i), the amendments made by section 113 and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not apply with respect to a case under chapter 7, 11, 12, or 13 of title 11, United States Code, if—
+&emsp;"(ii) For purposes of clause (i), the amendments made by section 113 and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not apply with respect to a case under chapter 7, 11, 12, or 13 of title 11, United States Code, if—
 
-&emsp;&emsp;“(I) the trustee in the case files the final report and account of administration of the estate, required under section 704 of such title, or
+&emsp;&emsp;"(I) the trustee in the case files the final report and account of administration of the estate, required under section 704 of such title, or
 
-&emsp;&emsp;“(II) a plan is confirmed under section 1129, 1225, or 1325 of such title,
+&emsp;&emsp;"(II) a plan is confirmed under section 1129, 1225, or 1325 of such title,
 
 > &emsp;before the expiration of the 1-year period beginning on the date such election becomes effective.
 
-&emsp;“(G) Notwithstanding section 589a of title 28, United States Code, as added by section 115 of this Act, funds collected as a result of the amendments made by section 117 of this Act \[amending section 1930 of this title\] in a judicial district in the State of Alabama or the State of North Carolina under section 1930(a) of title 28, United States Code, before the date the amendments made by subtitle A of title II of this Act take effect in such district shall be deposited in the general receipts of the Treasury.
+&emsp;"(G) Notwithstanding section 589a of title 28, United States Code, as added by section 115 of this Act, funds collected as a result of the amendments made by section 117 of this Act \[amending section 1930 of this title\] in a judicial district in the State of Alabama or the State of North Carolina under section 1930(a) of title 28, United States Code, before the date the amendments made by subtitle A of title II of this Act take effect in such district shall be deposited in the general receipts of the Treasury.
 
-&emsp;“(H) The repeal made by section 231 of this Act \[repealing chapter 15 of title 11\] shall not apply in or with respect to the Northern District of Alabama until March 1, 1987, or the effective date of any election made under subparagraph (A) by such district, whichever occurs first.
+&emsp;"(H) The repeal made by section 231 of this Act \[repealing chapter 15 of title 11\] shall not apply in or with respect to the Northern District of Alabama until March 1, 1987, or the effective date of any election made under subparagraph (A) by such district, whichever occurs first.
 
-&emsp;“(I) In any judicial district in the State of Alabama or the State of North Carolina that has not made the election described in subparagraph (A), any person who is appointed under regulations issued by the Judicial Conference of the United States to administer estates in cases under title 11 of the United States Code may—
+&emsp;"(I) In any judicial district in the State of Alabama or the State of North Carolina that has not made the election described in subparagraph (A), any person who is appointed under regulations issued by the Judicial Conference of the United States to administer estates in cases under title 11 of the United States Code may—
 
-&emsp;&emsp;“(i) establish, maintain, and supervise a panel of private trustees that are eligible and available to serve as trustees in cases under title 11, United States Code, and
+&emsp;&emsp;"(i) establish, maintain, and supervise a panel of private trustees that are eligible and available to serve as trustees in cases under title 11, United States Code, and
 
-&emsp;&emsp;“(ii) supervise the administration of cases and trustees in cases under chapters 7, 11, 12, and 13 of title 11, United States Code,
+&emsp;&emsp;"(ii) supervise the administration of cases and trustees in cases under chapters 7, 11, 12, and 13 of title 11, United States Code,
 
 > &emsp;until the amendments made by subtitle A of title II take effect in such district.
 
-“(e)
+"(e)
 
 Application of United States Trustee System and Quarterly Fees to Certain Cases.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Subject to paragraph (2), with respect to cases under chapters 7, 11, 12, and 13 of title 11, United States Code—
 
-&emsp;&emsp;“(A) commenced before the effective date of this Act, and
+&emsp;&emsp;"(A) commenced before the effective date of this Act, and
 
-&emsp;&emsp;“(B) pending in a judicial district referred to in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, for which a United States trustee is not authorized before the effective date of this Act to be appointed,
+&emsp;&emsp;"(B) pending in a judicial district referred to in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, for which a United States trustee is not authorized before the effective date of this Act to be appointed,
 
 > &emsp;the amendments made by section 113 \[amending section 586 of this title\] and subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\], and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not apply until the expiration of the 3-year period beginning on the effective date of this Act, or of the 1-year period beginning on the date the Attorney General certifies under section 303 of this Act the region specified in a paragraph of such section 581(a), as so amended, that includes such district, whichever occurs first.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Amendments inapplicable.—For purposes of paragraph (1), the amendments made by section 113 and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not apply with respect to a case under chapter 7, 11, 12, or 13 of title 11, United States Code, if—
 
-&emsp;&emsp;“(A) the trustee in the case files the final report and account of administration of the estate, required under section 704 of such title, or
+&emsp;&emsp;"(A) the trustee in the case files the final report and account of administration of the estate, required under section 704 of such title, or
 
-&emsp;&emsp;“(B) a plan is confirmed under section 1129, 1225, or 1325 of such title,
+&emsp;&emsp;"(B) a plan is confirmed under section 1129, 1225, or 1325 of such title,
 
 > &emsp;before the expiration of the 3-year period, or the expiration of the 1-year period, specified in paragraph (1), whichever occurs first.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Rule of construction regarding fees for cases.—This Act \[see Short Title of 1986 Amendment note below\] and the amendments made by section 117(4) of this Act \[amending section 1930 of this title\] shall not be construed to require the payment of a fee under paragraph (6) of section 1930(a) of title 28, United States Code, in a case under title 11 of the United States Code for any conduct or period occurring before such paragraph becomes effective in the district in which such case is pending.
 
-#### “SEC. 303. CERTIFICATION OF JUDICIAL DISTRICTS; NOTICE AND PUBLICATION OF CERTIFICATION.
+#### "SEC. 303. CERTIFICATION OF JUDICIAL DISTRICTS; NOTICE AND PUBLICATION OF CERTIFICATION.
 
-“(a)
+"(a)
 
 Certification by Attorney General.—The Attorney General may certify in writing a region specified in a paragraph of section 581(a) of title 28, United States Code (other than paragraph (16)), as amended by section 111(a) of this Act, to the appropriate court of appeals of the United States, for the purpose of informing such court that certain amendments made by this Act will become effective in accordance with section 302 of this Act.
 
-“(b)
+"(b)
 
 Notice and Publication of Certification.—Whenever the Attorney General transmits a certification under subsection (a), the Attorney General shall simultaneously—
 
-&emsp;“(1) transmit a copy of such certification to the Speaker of the House of Representatives and to the President pro tempore of the Senate, and
+&emsp;"(1) transmit a copy of such certification to the Speaker of the House of Representatives and to the President pro tempore of the Senate, and
 
-&emsp;“(2) publish such certification in the Federal Register.
+&emsp;"(2) publish such certification in the Federal Register.
 
-#### “SEC. 304. ADMINISTRATIVE PROVISIONS.
+#### "SEC. 304. ADMINISTRATIVE PROVISIONS.
 
-“(a)
+"(a)
 
 Cooperative Arrangements.—The Attorney General and the Director of the Administrative Office of the United States Courts may enter into agreements under which United States trustees may—
 
-&emsp;“(1) use—
+&emsp;"(1) use—
 
-&emsp;&emsp;“(A) the services, equipment, personnel, records, reports, and data compilations, in any form, of the courts of the United States, and
+&emsp;&emsp;"(A) the services, equipment, personnel, records, reports, and data compilations, in any form, of the courts of the United States, and
 
-&emsp;&emsp;“(B) the facilities of such courts, and
+&emsp;&emsp;"(B) the facilities of such courts, and
 
-&emsp;“(2) cooperate in the use by the courts of the United States of—
+&emsp;"(2) cooperate in the use by the courts of the United States of—
 
-&emsp;&emsp;“(A) the services, equipment, personnel, records, reports, and data compilations, in any form, of United States trustees, and
+&emsp;&emsp;"(A) the services, equipment, personnel, records, reports, and data compilations, in any form, of United States trustees, and
 
-&emsp;&emsp;“(B) the facilities of such trustees,
+&emsp;&emsp;"(B) the facilities of such trustees,
 
 > &emsp;to prevent duplication during the 2-year period beginning on the effective date of this Act.
 
-“(b)
+"(b)
 
 Information and Documents Relating to Bankruptcy Cases and United States Trustees.—The Director of the Administrative Office of the United States Courts shall make available to United States trustees, at the request of the Attorney General and on a continuing basis, all records, reports, and data compilations relating to—
 
-&emsp;“(1) cases and proceedings under title 11 of the United States Code, and
+&emsp;"(1) cases and proceedings under title 11 of the United States Code, and
 
-&emsp;“(2) the duties of United States trustees under titles 11 and 28 of the United States Code.
+&emsp;"(2) the duties of United States trustees under titles 11 and 28 of the United States Code.
 
-#### “SEC. 305. APPLICATION OF CERTAIN BANKRUPTCY RULES.
+#### "SEC. 305. APPLICATION OF CERTAIN BANKRUPTCY RULES.
 
-“(a)
+"(a)
 
 Rules Relating to the United States Trustee System.—If a United States trustee is not authorized, before the effective date of this Act, to be appointed for a judicial district referred to in section 581(a) of title 28, United States Code, as amended by section 111(a) of this Act, then part X of the Bankruptcy Rules \[11 U.S.C. App.\] shall not apply to cases in such district until the amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\] become effective under section 302 of this Act in such district.
 
-“(b)
+"(b)
 
 Rules Relating to Chapter 12
 
 of Title 11.—The rules prescribed under section 2075 of title 28, United States Code, and in effect on the date of the enactment of this Act \[Oct. 27, 1986\] shall apply to cases filed under chapter 12 of title 11, United States Code, to the extent practicable and not inconsistent with the amendments made by title II of this Act \[see Tables for classification\].
 
-#### “SEC. 306. SALARY OF INCUMBENT UNITED STATES TRUSTEES.
+#### "SEC. 306. SALARY OF INCUMBENT UNITED STATES TRUSTEES.
 
-“For service as a United States trustee in the period beginning on the effective date of this Act and ending on the expiration under section 301 of this Act of their respective terms of office, the salary payable to United States trustees serving in such offices on the effective date of this Act shall be fixed in accordance with section 587 of title 28, United States Code, as amended by section 114(a) of this Act.
+"For service as a United States trustee in the period beginning on the effective date of this Act and ending on the expiration under section 301 of this Act of their respective terms of office, the salary payable to United States trustees serving in such offices on the effective date of this Act shall be fixed in accordance with section 587 of title 28, United States Code, as amended by section 114(a) of this Act.
 
-#### “SEC. 307. PRESERVATION OF UNITED STATES TRUSTEE SYSTEM DURING PENDENCY OF LEGISLATION; REPEALER.
+#### "SEC. 307. PRESERVATION OF UNITED STATES TRUSTEE SYSTEM DURING PENDENCY OF LEGISLATION; REPEALER.
 
-“(a)
+"(a)
 
-Temporary Delay of Repeal of United States Trustee System.—Effective immediately before November 10, 1986, section 408(c) of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2687), is amended by striking out ‘November 10, 1986’ and inserting in lieu thereof ‘30 days after the effective date of the Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986 \[Pub. L. 99–554\]’.
+Temporary Delay of Repeal of United States Trustee System.—Effective immediately before November 10, 1986, section 408(c) of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2687), is amended by striking out 'November 10, 1986' and inserting in lieu thereof '30 days after the effective date of the Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986 \[Pub. L. 99–554\]'.
 
-“(b)
+"(b)
 
 Conforming Amendment.—Section 408 of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2687), is repealed.
 
-#### “SEC. 308. CONSIDERATION OF CURRENT PRIVATE TRUSTEES FOR APPOINTMENT BY UNITED STATES TRUSTEES.
+#### "SEC. 308. CONSIDERATION OF CURRENT PRIVATE TRUSTEES FOR APPOINTMENT BY UNITED STATES TRUSTEES.
 
-“(a)
+"(a)
 
 Trustees in Bankruptcy Cases Under Chapter 7.—It is the sense of the Congress that individuals who are serving before the effective date of this Act, as trustees in cases under chapter 7 of title 11, United States Code, should be considered by United States trustees for appointment under section 586(a)(1) of title 28, United States Code, to the panels of private trustees that are established as a result of the amendments made by this Act \[see Short Title of 1986 Amendment note below\].
 
-“(b)
+"(b)
 
 Standing Trustees in Bankruptcy Cases Under Chapter 13.—It is the sense of the Congress that individuals who are serving before the effective date of this Act, as standing trustees in cases under chapter 13 of title 11, United States Code, should be considered by the United States trustees for appointment under section 586(b) of title 28, United States Code, as standing trustees who are appointed as a result of the amendments made by this Act \[see Short Title of 1986 Amendment note below\].
 
-#### “SEC. 309. APPOINTMENT OF UNITED STATES TRUSTEES BY THE ATTORNEY GENERAL.
+#### "SEC. 309. APPOINTMENT OF UNITED STATES TRUSTEES BY THE ATTORNEY GENERAL.
 
-“It is the sense of the Congress that individuals otherwise qualified who are serving, before the effective date of this Act, as estate administrators under title 11 of the United States Code should be considered by the Attorney General for appointment under sections 581 and 582 of title 28, United States Code, to new positions of United States trustee and assistant United States trustee resulting from the amendments made by this Act \[see Short Title of 1986 Amendment note below\].
+"It is the sense of the Congress that individuals otherwise qualified who are serving, before the effective date of this Act, as estate administrators under title 11 of the United States Code should be considered by the Attorney General for appointment under sections 581 and 582 of title 28, United States Code, to new positions of United States trustee and assistant United States trustee resulting from the amendments made by this Act \[see Short Title of 1986 Amendment note below\].
 
-#### “SEC. 310. ELECTRONIC CASE MANAGEMENT DEMONSTRATION PROJECT.
+#### "SEC. 310. ELECTRONIC CASE MANAGEMENT DEMONSTRATION PROJECT.
 
-“(a)
+"(a)
 
 Establishment of Project.—Not later than 1 year after the effective date of this Act, the Director of the Executive Office for United States Trustees, in consultation with the Director of the Administrative Office of the United States Courts, shall establish an electronic case management demonstration project to be carried out in 3 Federal judicial districts that have a sufficiently large and varied bankruptcy caseload so as to provide a meaningful evaluation of the cost and effectiveness of such system. A contract for such project shall be awarded—
 
-&emsp;“(1) on the basis of competitive bids submitted by qualified nongovernmental entities that are able to design an automated joint information system for use by the United States courts and by United States trustees, and
+&emsp;"(1) on the basis of competitive bids submitted by qualified nongovernmental entities that are able to design an automated joint information system for use by the United States courts and by United States trustees, and
 
-&emsp;“(2) in accordance with the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], the Office of Federal Procurement Policy Act \[see division B (except sections 1123, 2303,2304, and 2313) of subtitle I of Title 41\], and title 31 of the United States Code.
+&emsp;"(2) in accordance with the Federal Property and Administrative Services Act of 1949 \[see chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of Title 41, Public Contracts\], the Office of Federal Procurement Policy Act \[see division B (except sections 1123, 2303, 2304, and 2313) of subtitle I of Title 41\], and title 31 of the United States Code.
 
-“(b)
+"(b)
 
 Study by General Accounting Office \[now Government Accountability Office\].—Not later than 1 year after the electronic case management system begins to operate in all of the judicial districts participating in the demonstration project carried out under subsection (a), the General Accounting Office \[now Government Accountability Office\] shall conduct a study to compare the cost and effectiveness of such system with the cost and effectiveness of case management systems used in Federal judicial districts that are not participating in such project.
 
-“(c)
+"(c)
 
 Term of Project.—The demonstration project required by subsection (a) shall be carried out until—
 
-&emsp;“(1) the expiration of the 2-year period beginning on the date the electronic case management system begins to operate in all of the judicial districts participating in such project, or
+&emsp;"(1) the expiration of the 2-year period beginning on the date the electronic case management system begins to operate in all of the judicial districts participating in such project, or
 
-&emsp;“(2) legislation is enacted to extend, expand, modify, or terminate the operation of such project,
+&emsp;"(2) legislation is enacted to extend, expand, modify, or terminate the operation of such project,
 
 > whichever occurs first.
 
-“(d)
+"(d)
 
 Use by Clerks of the Courts.—The electronic case management system demonstrated under the project required by subsection (a) shall provide the clerk of court in each district in which such system is operated, with a means of—
 
-&emsp;“(1) maintaining a complete electronic case file of all relevant information contained in petitions and schedules (and any amendments thereto) relating to debtors in cases under title 11 of the United States Code, including—
+&emsp;"(1) maintaining a complete electronic case file of all relevant information contained in petitions and schedules (and any amendments thereto) relating to debtors in cases under title 11 of the United States Code, including—
 
-&emsp;&emsp;“(A) a complete list of creditors in each such case, as listed by the debtor,
+&emsp;&emsp;"(A) a complete list of creditors in each such case, as listed by the debtor,
 
-&emsp;&emsp;“(B) a complete list of assets scheduled by the debtor, the value of such asset, and any action taken by the trustee or debtor in possession with regard to such asset during the pendency of such case,
+&emsp;&emsp;"(B) a complete list of assets scheduled by the debtor, the value of such asset, and any action taken by the trustee or debtor in possession with regard to such asset during the pendency of such case,
 
-&emsp;&emsp;“(C) a complete list of debts and, with respect to each debt—
+&emsp;&emsp;"(C) a complete list of debts and, with respect to each debt—
 
-&emsp;&emsp;&emsp;“(i) any priority of such debt under title 11 of the United States Code,
+&emsp;&emsp;&emsp;"(i) any priority of such debt under title 11 of the United States Code,
 
-&emsp;&emsp;&emsp;“(ii) whether such debt is secured or unsecured, and
+&emsp;&emsp;&emsp;"(ii) whether such debt is secured or unsecured, and
 
-&emsp;&emsp;&emsp;“(iii) whether such debt is contingent or noncontingent, and
+&emsp;&emsp;&emsp;"(iii) whether such debt is contingent or noncontingent, and
 
-&emsp;&emsp;“(D) the debtor's statements of current expenses and income, and
+&emsp;&emsp;"(D) the debtor's statements of current expenses and income, and
 
-&emsp;“(2) maintaining all calendars and dockets and producing all notices required to be sent in cases under title 11 of the United States Code.
+&emsp;"(2) maintaining all calendars and dockets and producing all notices required to be sent in cases under title 11 of the United States Code.
 
-“(e)
+"(e)
 
 Use by United States Trustees.—The electronic case management system demonstrated under the project required by subsection (a) shall provide, at a minimum, the United States trustee in each district in which such system is operated with—
 
-&emsp;“(1) complete electronic case files which contain, in addition to the information listed in subsection (d), records of case openings, case closings, hearings, and the filing of all motions, trustee appointments, pleadings, and responses, as well as a record of the responses by the United States trustee to those motions, trustee appointments, and pleadings,
+&emsp;"(1) complete electronic case files which contain, in addition to the information listed in subsection (d), records of case openings, case closings, hearings, and the filing of all motions, trustee appointments, pleadings, and responses, as well as a record of the responses by the United States trustee to those motions, trustee appointments, and pleadings,
 
-&emsp;“(2) a means to generate standardized forms for motions, appointments, pleadings, and responses,
+&emsp;"(2) a means to generate standardized forms for motions, appointments, pleadings, and responses,
 
-&emsp;“(3) a means to generate standard management reports and letters on an exception basis,
+&emsp;"(3) a means to generate standard management reports and letters on an exception basis,
 
-&emsp;“(4) a means to maintain accounting records, reports, and information required to be maintained by debtors in possession and trustees in cases under title 11 of the United States Code,
+&emsp;"(4) a means to maintain accounting records, reports, and information required to be maintained by debtors in possession and trustees in cases under title 11 of the United States Code,
 
-&emsp;“(5) a means to calculate and record distribution to creditors, final applications and orders for distribution, and final case closing reports, and
+&emsp;"(5) a means to calculate and record distribution to creditors, final applications and orders for distribution, and final case closing reports, and
 
-&emsp;“(6) a means to monitor the payment of filing and other required fees.
+&emsp;"(6) a means to monitor the payment of filing and other required fees.
 
-“(f)
+"(f)
 
 Availability to Certain Governmental Entities.—Unlimited access to information maintained in the electronic case management system demonstrated under the project required by subsection (a) shall be provided at no charge to the following:
 
-&emsp;“(1) The Congress.
+&emsp;"(1) The Congress.
 
-&emsp;“(2) The Executive Office for the United States Trustees.
+&emsp;"(2) The Executive Office for the United States Trustees.
 
-&emsp;“(3) The Administrative Office of the United States Courts.
+&emsp;"(3) The Administrative Office of the United States Courts.
 
-&emsp;“(4) The clerks of the courts in judicial districts in which such system is operated and persons who review case information, in accordance with section 107(a) of title 11, United States Code, in the offices of the clerks.
+&emsp;"(4) The clerks of the courts in judicial districts in which such system is operated and persons who review case information, in accordance with section 107(a) of title 11, United States Code, in the offices of the clerks.
 
-&emsp;“(5) The judges on the bankruptcy and district courts in districts in which such system is operated.
+&emsp;"(5) The judges on the bankruptcy and district courts in districts in which such system is operated.
 
-&emsp;“(6) Trustees in cases pending in districts in which such system is operated.
+&emsp;"(6) Trustees in cases pending in districts in which such system is operated.
 
-“(g)
+"(g)
 
 Fees for Other Users.—(1) The entity which is awarded a contract to provide the electronic case management system demonstrated under this project may, under guidelines established by the Director of the Executive Office for the United States Trustees in the provisions of such contract, collect reasonable fees from assets of the estate of the debtor in bankruptcy for providing notices and services to the court and trustees under the demonstration project.
 
-“(2) Access to information maintained in electronic case files pursuant to the demonstration project may be provided to persons other than those specified in subsection (f), but such access shall be limited to viewing such information only. A reasonable charge for such access may be collected by the entity which is awarded a contract under this section, in accordance with the guidelines established by the Director of the Executive Office for the United States Trustees in such contract. A reasonable portion of any charge so collected may be required by the Director to be remitted to the Executive Office for United States Trustees and deposited in the United States Trustee System Fund established in section 589a of title 28, United States Code.
+"(2) Access to information maintained in electronic case files pursuant to the demonstration project may be provided to persons other than those specified in subsection (f), but such access shall be limited to viewing such information only. A reasonable charge for such access may be collected by the entity which is awarded a contract under this section, in accordancewith the guidelines established by the Director of the Executive Office for the United States Trustees in such contract. A reasonable portion of any charge so collected may be required by the Director to be remitted to the Executive Office for United States Trustees and deposited in the United States Trustee System Fund established in section 589a of title 28, United States Code.
 
-“(h)
+"(h)
 
 Security.—Access provided under subsection (f) to an entity or an individual shall be subject to such security limitations as may be imposed by the Congress or the head of the affected entity.
 
-#### “SEC. 311. CASES PENDING UNDER THE BANKRUPTCY ACT.
+#### "SEC. 311. CASES PENDING UNDER THE BANKRUPTCY ACT.
 
-“At the end of one calendar year following the date the amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\] take effect in a district in which any case is still pending under the Bankruptcy Act \[see 11 U.S.C. notes prec. 101\], the district court shall withdraw the reference of any such case and, after notice and a hearing, determine the status of the case. Such case shall be remanded to the bankruptcy judge with such instructions as are necessary for the prompt closing of the case and with a requirement that a progress report on the case be provided by the bankruptcy judge after such interval as the district court deems appropriate.”
+"At the end of one calendar year following the date the amendments made by subtitle A of title II of this Act \[§§201 to 231 of Pub. L. 99–554, see Tables for classification\] take effect in a district in which any case is still pending under the Bankruptcy Act \[see 11 U.S.C. notes prec. 101\], the district court shall withdraw the reference of any such case and, after notice and a hearing, determine the status of the case. Such case shall be remanded to the bankruptcy judge with such instructions as are necessary for the prompt closing of the case and with a requirement that a progress report on the case be provided by the bankruptcy judge after such interval as the district court deems appropriate."
 
 #### Effective Date
 
@@ -504,17 +504,17 @@ Chapter effective Oct. 1, 1979, see section 402(c) of Pub. L. 95–598, set out 
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–554, §1, Oct. 27, 1986, 100 Stat. 3088, provided: “That this Act \[enacting section 589a of this title and section 307 and chapter 12 of Title 11, Bankruptcy, amending this section, sections 49, 96, 152, 156, 157, 526, 582, 584 to 587, 604, 1334, and 1930 of this title, sections 101 to 103, 105, 108, 109, 303, 321, 322, 324, 326, 327, 329, 330, 341, 343, 345 to 348, 362 to 365, 502, 503, 521 to 524, 546 to 549, 554, 557, 701, 703 to 707, 724, 726 to 728, 743, 1102, 1104 to 1106, 1112, 1121, 1129, 1163, 1202, 1302, 1306, 1307, and 1324 to 1326 of Title 11, Bankruptcy Form No. 1, repealing chapters 11 and 12 of Title 11, enacting provisions set out as notes under this section and section 589 of this title, amending provisions set out as notes preceding this section and under section 152 of this title, and repealing provisions set out as a note preceding this section\] may be cited as the ‘Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986’.”
+Pub. L. 99–554, §1, Oct. 27, 1986, 100 Stat. 3088, provided: "That this Act \[enacting section 589a of this title and section 307 and chapter 12 of Title 11, Bankruptcy, amending this section, sections 49, 96, 152, 156, 157, 526, 582, 584 to 587, 604, 1334, and 1930 of this title, sections 101 to 103, 105, 108, 109, 303, 321, 322, 324, 326, 327, 329, 330, 341, 343, 345 to 348, 362 to 365, 502, 503, 521 to 524, 546 to 549, 554, 557, 701, 703 to 707, 724, 726 to 728, 743, 1102, 1104 to 1106, 1112, 1121, 1129, 1163, 1202, 1302, 1306, 1307, and 1324 to 1326 of Title 11, Bankruptcy Form No. 1, repealing chapters 11 and 12 of Title 11, enacting provisions set out as notes under this section and section 589 of this title, amending provisions set out as notes preceding this section and under section 152 of this title, and repealing provisions set out as a note preceding this section\] may be cited as the 'Bankruptcy Judges, United States Trustees, and Family Farmer Bankruptcy Act of 1986'."
 
 #### Bankruptcy Crimes
 
-Pub. L. 109–162, title XI, §1175, Jan. 5, 2006, 119 Stat. 3125, provided that: “The Director of the Executive Office for United States Trustees shall prepare an annual report to the Congress detailing—
+Pub. L. 109–162, title XI, §1175, Jan. 5, 2006, 119 Stat. 3125, provided that: "The Director of the Executive Office for United States Trustees shall prepare an annual report to the Congress detailing—
 
-&emsp;“(1) the number and types of criminal referrals made by the United States Trustee Program;
+&emsp;"(1) the number and types of criminal referrals made by the United States Trustee Program;
 
-&emsp;“(2) the outcomes of each criminal referral;
+&emsp;"(2) the outcomes of each criminal referral;
 
-&emsp;“(3) for any year in which the number of criminal referrals is less than for the prior year, an explanation of the decrease; and
+&emsp;"(3) for any year in which the number of criminal referrals is less than for the prior year, an explanation of the decrease; and
 
-&emsp;“(4) the United States Trustee Program's efforts to prevent bankruptcy fraud and abuse, particularly with respect to the establishment of uniform internal controls to detect common, higher risk frauds, such as a debtor's failure to disclose all assets.”
+&emsp;"(4) the United States Trustee Program's efforts to prevent bankruptcy fraud and abuse, particularly with respect to the establishment of uniform internal controls to detect common, higher risk frauds, such as a debtor's failure to disclose all assets."
 

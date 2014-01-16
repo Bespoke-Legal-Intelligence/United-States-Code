@@ -1,6 +1,6 @@
 ### §430w. Administration, protection, and development
 
-The administration, protection, and development of the aforesaid national battlefield parkshall be exercised under the direction of the Secretary of the Interior by the National Park Service subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
+The administration, protection, and development of the aforesaid national battlefield park shall be exercised under the direction of the Secretary of the Interior by the National Park Service subject to the provisions of sections 1, 2, 3, and 4 of this title, as amended.
 
 (June 26, 1935, ch. 315, §4, 49 Stat. 424.)
 

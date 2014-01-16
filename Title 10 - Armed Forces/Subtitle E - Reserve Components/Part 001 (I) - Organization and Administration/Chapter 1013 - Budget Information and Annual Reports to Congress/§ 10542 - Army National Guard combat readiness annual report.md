@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of the Army shall include in the annual report of the Secretary to Congress known as the Army Posture Statement a detailed presentation concerning the Army National Guard, including particularly information relating to the implementation of the Army National Guard Combat Readiness Reform Act of 1992 (title XI of Public Law 102–484; 106 Stat. 2536) (hereinafter in this section referred to as “ANGCRRA”).
+In General.—The Secretary of the Army shall include in the annual report of the Secretary to Congress known as the Army Posture Statement a detailed presentation concerning the Army National Guard, including particularly information relating to the implementation of the Army National Guard Combat Readiness Reform Act of 1992 (title XI of Public Law 102–484; 106 Stat. 2536) (hereinafter in this section referred to as "ANGCRRA").
 
 (b)
 
@@ -18,13 +18,13 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;&emsp;(B) the number for whom waivers were granted by the Secretary under section 1112(a)(2) of ANGCRRA, together with the reason for each waiver.
 
-&emsp;(4) The number of officers who were commissioned as distinguished Reserve Officers’ Training Corps graduates and were released from active duty before the completion of their active-duty service obligation and, of those officers—
+&emsp;(4) The number of officers who were commissioned as distinguished Reserve Officers' Training Corps graduates and were released from active duty before the completion of their active-duty service obligation and, of those officers—
 
 &emsp;&emsp;(A) the number who are serving the remaining period of their active-duty service obligation as a member of the Selected Reserve pursuant to section 1112(a)(1) of ANGCRRA; and
 
 &emsp;&emsp;(B) the number for whom waivers were granted by the Secretary under section 1112(a)(2) of ANGCRRA, together with the reason for each waiver.
 
-&emsp;(5) The number of officers who are graduates of the Reserve Officers’ Training Corps program and who are performing their minimum period of obligated service in accordance with section 1112(b) of ANGCRRA by a combination of (A) two years of active duty, and (B) such additional period of service as is necessary to complete the remainder of such obligation served in the National Guard and, of those officers, the number for whom permission to perform their minimum period of obligated service in accordance with that section was granted during the preceding fiscal year.
+&emsp;(5) The number of officers who are graduates of the Reserve Officers' Training Corps program and who are performing their minimum period of obligated service in accordance with section 1112(b) of ANGCRRA by a combination of (A) two years of active duty, and (B) such additional period of service as is necessary to complete the remainder of such obligation served in the National Guard and, of those officers, the number for whom permission to perform their minimum period of obligated service in accordance with that section was granted during the preceding fiscal year.
 
 &emsp;(6) The number of officers for whom recommendations were made during the preceding fiscal year for a unit vacancy promotion to a grade above first lieutenant and, of those recommendations, the number and percentage that were concurred in by an active-duty officer under section 1113(a) of ANGCRRA, shown separately for each of the three categories of officers set forth in section 1113(b) of ANGCRRA.
 
@@ -50,7 +50,7 @@ Matters To Be Included in Report.—Each presentation under subsection (a) shall
 
 &emsp;(15) The number of units of the Army National Guard that are scheduled for early deployment in the event of a mobilization and, of those units, the number that are dentally ready for deployment in accordance with section 1118 of ANGCRRA.
 
-&emsp;(16) The estimated post-mobilization training time for each Army National Guard combat unit, and a description, displayed in broadcategories and by State, of what training would need to be accomplished for Army National Guard combat units in a post-mobilization period for purposes of section 1119 of ANGCRRA.
+&emsp;(16) The estimated post-mobilization training time for each Army National Guard combat unit, and a description, displayed in broad categories and by State, of what training would need to be accomplished for Army National Guard combat units in a post-mobilization period for purposes of section 1119 of ANGCRRA.
 
 &emsp;(17) A description of the measures taken during the preceding fiscal year to comply with the requirement in section 1120 of ANGCRRA to expand the use of simulations, simulators, and advanced training devices and technologies for members and units of the Army National Guard.
 
@@ -86,13 +86,13 @@ The Army National Guard Combat Readiness Reform Act of 1992, referred to in text
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(21). Pub. L. 104–201 substituted “10 U.S.C. 12001 note” for “10 U.S.C. 261 note”.
+<b>1996</b>—Subsec. (b)(21). Pub. L. 104–201 substituted "10 U.S.C. 12001 note" for "10 U.S.C. 261 note".
 
-Subsec. (d). Pub. L. 104–106 struck out subsec. (d) which read as follows: “
+Subsec. (d). Pub. L. 104–106 struck out subsec. (d) which read as follows: "
 
-Definition.—In this section, the term ‘State’ includes the District of Columbia, Puerto Rico, Guam, and the Virgin Islands.”
+Definition.—In this section, the term 'State' includes the District of Columbia, Puerto Rico, Guam, and the Virgin Islands."
 
-<b>1994</b>—Pub. L. 103–337 renumbered section 3082 of this title as this section, struck out “reform” after “readiness” in section catchline, and struck out heading and text of subsec. (c). Text read as follows: “The requirement to include in a presentation required by subsection (a) information under any paragraph of subsection (b) shall take effect with respect to the year following the year in which the provision of ANGCRRA to which that paragraph pertains has taken effect. Before then, in the case of any such paragraph, the Secretary shall include any information that may be available concerning the topic covered by that paragraph.”
+<b>1994</b>—Pub. L. 103–337 renumbered section 3082 of this title as this section, struck out "reform" after "readiness" in section catchline, and struck out heading and text of subsec. (c). Text read as follows: "The requirement to include in a presentation required by subsection (a) information under any paragraph of subsection (b) shall take effect with respect to the year following the year in which the provision of ANGCRRA to which that paragraph pertains has taken effect. Before then, in the case of any such paragraph, the Secretary shall include any information that may be available concerning the topic covered by that paragraph."
 
 #### Effective Date of 1996 Amendment
 

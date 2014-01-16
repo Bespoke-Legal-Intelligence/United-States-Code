@@ -1,14 +1,14 @@
 ### §1715z–6. Supplemental loans for multifamily projects
 
-#### (a) Authorization to insure; “supplemental loan” defined
+#### (a) Authorization to insure; "supplemental loan" defined
 
-With respect to a multifamily project, hospital, or group practice facility covered by a mortgage insured under any section or subchapter of this chapter or covered by a mortgage held by the Secretary, the Secretary is authorized, upon such terms and conditions as he may prescribe, to make commitments to insure, and to insure, supplemental loans (including advances during construction or improvement) made by financial institutions approved by the Secretary. As used in this section, “supplemental loan” means a loan, advance of credit, or purchase of an obligation representing a loan or advance of credit made for the purpose of financing improvements or additions to such project, hospital, or facility: <i>Provided</i>, That a loan involving a nursing home, hospital, or a group practice facility may also be made for the purpose of financing equipment to be used in the operation of such nursing home, hospital, or facility.
+With respect to a multifamily project, hospital, or group practice facility covered by a mortgage insured under any section or subchapter of this chapter or covered by a mortgage held by the Secretary, the Secretary is authorized, upon such terms and conditions as he may prescribe, to make commitments to insure, and to insure, supplemental loans (including advances during construction or improvement) made by financial institutions approved by the Secretary. As used in this section, "supplemental loan" means a loan, advance of credit, or purchase of an obligation representing a loan or advance of credit made for the purpose of financing improvements or additions to such project, hospital, or facility: <i>Provided</i>, That a loan involving a nursing home, hospital, or a group practice facility may also be made for the purpose of financing equipment to be used in the operation of such nursing home, hospital, or facility.
 
 #### (b) Eligibility for insurance
 
 To be eligible for insurance under this section, a supplemental loan shall—
 
-&emsp;(1) be limited to 90 per centum of the amount which the Secretary estimates will be the value of such improvements, additions, and equipment, except that such amount when added to the outstanding balance of the mortgage covering the project or facility, shall not exceed the maximum mortgage amount insurable under the section or subchapter pursuant to which the mortgage covering such project or facility is insured or an amount acceptable to the Secretary;
+&emsp;(1) be limited to 90 per centum of the amount which the Secretary estimates will bethe value of such improvements, additions, and equipment, except that such amount when added to the outstanding balance of the mortgage covering the project or facility, shall not exceed the maximum mortgage amount insurable under the section or subchapter pursuant to which the mortgage covering such project or facility is insured or an amount acceptable to the Secretary;
 
 &emsp;(2) have a maturity satisfactory to the Secretary;
 
@@ -22,11 +22,11 @@ To be eligible for insurance under this section, a supplemental loan shall—
 
 #### (c) Applicability of other provisions of law
 
-The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (l), and (n) of section 1713 of this title shall be applicable to loans insured under this section, except that (1) all references to the term “mortgage” shall be construed to refer to the term “loan” as used in this section, (2) loans involving projects covered by a mortgage insured under section 1715e of this title that is the obligation of the Cooperative Management Housing Insurance Fund shall be insured under and shall be the obligation of such fund, and (3) loans involving projects covered by a mortgage insured under section 1715z–1 of this title shall be insured under and shall be the obligation of the Special Risk Insurance Fund.
+The provisions of subsections (d), (e), (g), (h), (i), (j), (k), (l), and (n) of section 1713 of this title shall be applicable to loans insured under this section, except that (1) all references to the term "mortgage" shall be construed to refer to the term "loan" as used in this section, (2) loans involving projects covered by a mortgage insured under section 1715e of this title that is the obligation of the Cooperative Management Housing Insurance Fund shall be insured under and shall be the obligation of such fund, and (3) loans involving projects covered by a mortgage insured under section 1715z–1 of this title shall be insured under and shall be the obligation of the Special Risk Insurance Fund.
 
 #### (d) Authorization to insure loans for improvements or additions; terms and conditions; limitation on amount
 
-Notwithstanding the foregoing, the Secretary may insure a loan for improvements or additions to a multifamily housing project, or a group practice or medical practice facility or hospital or other health facility approved by the Secretary, which is not covered by a mortgage insured under this chapter, if he finds that such a loan would assist in preserving, expanding, or improving housing opportunities, or in providing protection against fire or other hazards. Such loans shall have a maturity satisfactory to the Secretary and shall meet such other conditions as the Secretary may prescribe. In no event shall such a loan be insured if it is for an amount in excess of the maximum amount which could be approved if the outstanding indebtedness, if any, covering the property were a mortgage insured under this chapter. At any sale under foreclosure of a mortgage on a project or facility which is not insured under this chapter but which is senior to a loan assigned to the Secretary pursuant to subsection (c) of this section, the Secretary is authorized to bid, in addition to amounts authorized under section 1713(k) of this title, any sum up to but not in excess of the total unpaid indebtednesssecured by such senior mortgage, plus taxes, insurance, foreclosure costs, fees, and other expenses. In the event that, pursuant to subsection (c) of this section, the Secretary acquires title to, or is assigned, a loan covering a project or facility which is subject to a mortgage which is not insured under this chapter, the Secretary is authorized to make payments from the General Insurance Fund on the debt secured by such mortgage, and to take such other steps as the Secretary may deem appropriate to preserve or protect the Secretary's interest in the project or facility.
+Notwithstanding the foregoing, the Secretary may insure a loan for improvements or additions to a multifamily housing project, or a group practice or medical practice facility or hospital or other health facility approved by the Secretary, which is not covered by a mortgage insured under this chapter, if he finds that such a loan would assist in preserving, expanding, or improving housing opportunities, or in providing protection against fire or other hazards. Such loans shall have a maturity satisfactory to the Secretary and shall meet such other conditions as the Secretary may prescribe. In no event shall such a loan be insured if it is for an amount in excess of the maximum amount which could be approved if the outstanding indebtedness, if any, covering the property were a mortgage insured under this chapter. At any sale under foreclosure of a mortgage on a project or facility which is not insured under this chapter but which is senior to a loan assigned to the Secretary pursuant to subsection (c) of this section, the Secretary is authorized to bid, in addition to amounts authorized under section 1713(k) of this title, any sum up to but not in excess of the total unpaid indebtedness secured by such senior mortgage, plus taxes, insurance, foreclosure costs, fees, and other expenses. In the event that, pursuant to subsection (c) of this section, the Secretary acquires title to, or is assigned, a loan covering a project or facility which is subject to a mortgage which is not insured under this chapter, the Secretary is authorized to make payments from the General Insurance Fund on the debt secured by such mortgage, and to take such other steps as the Secretary may deem appropriate to preserve or protect the Secretary's interest in the project or facility.
 
 #### (e) Loan insurance for energy conserving improvements and solar energy systems
 
@@ -58,7 +58,7 @@ Notwithstanding the foregoing, the Secretary may insure a loan for improvements 
 
 #### (g) Extension of rental assistance for term of loan
 
-(1) When underwriting a rehabilitation loan under this section in connection with eligible multifamily housing, the Secretary may assume that any rental assistance provided for purposes of servicing the additional debt will be extended for the term of the rehabilitation loan. The Secretary shall exercise prudent underwriting practices in insuring rehabilitation loans under this section. For purposes of this subsection, the term “eligible multifamily housing” means any housing financed by a loan or mortgage that is—
+(1) When underwriting a rehabilitation loan under this section in connection with eligible multifamily housing, the Secretary may assume that any rental assistance provided for purposes of servicing the additional debt will be extended for the term of the rehabilitation loan. The Secretary shall exercise prudent underwriting practices in insuring rehabilitation loans under this section. For purposes of this subsection, the term "eligible multifamily housing" means any housing financed by a loan or mortgage that is—
 
 &emsp;(A) insured or held by the Secretary under section 1715l(d)(3) of this title and assisted under section 1701s of this title or section 1437f of title 42;
 
@@ -72,67 +72,67 @@ Notwithstanding the foregoing, the Secretary may insure a loan for improvements 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a), (d), and (e)(1), was in the original “this Act”, meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
+This chapter, referred to in subsecs. (a), (d), and (e)(1), was in the original "this Act", meaning act June 27, 1934, ch. 847, 48 Stat. 1246, which is classified principally to this chapter (§1701 et seq.). For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
 <b>1996</b>—Subsec. (f). Pub. L. 104–204 struck out subsec. (f), which related to insurance for second mortgage financing.
 
-<b>1992</b>—Subsec. (f)(2)(B)(i). Pub. L. 102–550, §316(a)(1), inserted “the amount of rehabilitation costs required by the plan of action and related charges and” after “equal to”.
+<b>1992</b>—Subsec. (f)(2)(B)(i). Pub. L. 102–550, §316(a)(1), inserted "the amount of rehabilitation costs required by the plan of action and related charges and" after "equal to".
 
-Subsec. (f)(2)(B)(ii). Pub. L. 102–550, §317(c)(1), struck out “and” at end.
+Subsec. (f)(2)(B)(ii). Pub. L. 102–550, §317(c)(1), struck out "and" at end.
 
-Subsec. (f)(3)(B). Pub. L. 102–550, §316(a)(2), inserted “and the amount of rehabilitation costs required by the plan of action and related charges and” after “1990”.
+Subsec. (f)(3)(B). Pub. L. 102–550, §316(a)(2), inserted "and the amount of rehabilitation costs required by the plan of action and related charges and" after "1990".
 
-Subsec. (f)(5)(A). Pub. L. 102–550, §316(a)(3)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “have a maturity and provisions for amortization satisfactory to the Secretary, bear interest at such rate as may be agreed upon by the mortgagor and mortgagee, and be secured in such manner as the Secretary may require; and”.
+Subsec. (f)(5)(A). Pub. L. 102–550, §316(a)(3)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: "have a maturity and provisions for amortization satisfactory to the Secretary, bear interest at such rate as may be agreed upon by the mortgagor and mortgagee, and be secured in such manner as the Secretary may require; and".
 
 Subsec. (f)(5)(B), (C). Pub. L. 102–550, §316(a)(3), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (f)(6). Pub. L. 102–550, §317(c)(2), which directed the substitution of “acquisition loan” for “acquisiton loan” in par. (7), was executed by making the substitution in par. (6) to reflect the probable intent of Congress and the intervening redesignation of par. (7) as (6) by Pub. L. 102–550, §316(a)(5). See below.
+Subsec. (f)(6). Pub. L. 102–550, §317(c)(2), which directed the substitution of "acquisition loan" for "acquisiton loan" in par. (7), was executed by making the substitution in par. (6) to reflect the probable intent of Congress and the intervening redesignation of par. (7) as (6) by Pub. L. 102–550, §316(a)(5). See below.
 
-Pub. L. 102–550, §316(a)(4), (5), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The Secretary may provide for combination of loans insured under subsection (d) of this section with equity and acquisition loans insured under this subsection.”
+Pub. L. 102–550, §316(a)(4), (5), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: "The Secretary may provide for combination of loans insured under subsection (d) of this section with equity and acquisition loans insured under this subsection."
 
 Subsec. (f)(7) to (9). Pub. L. 102–550, §316(a)(5), redesignated pars. (7) to (9) as (6) to (8), respectively.
 
 Subsec. (f)(10). Pub. L. 102–550, §316(b), added par. (10).
 
-<b>1990</b>—Subsec. (f). Pub. L. 101–625 amended subsec. (f) generally, substituting present provisions for provisions relating to insurance of “equity loans” under the Emergency Low Income Housing Preservation Act of 1987, providing for eligibility for such insurance, providing that a qualified nonprofit organization or limited equity tenant cooperative corporation may constitute an owner of housing for purposes of receiving an insured loan, providing for applicability of certain provisions of section 1713 of this title, and providing that an approved mortgagee may not withhold consent to an equity loan on property on which mortgagee holds a mortgage.
+<b>1990</b>—Subsec. (f). Pub. L. 101–625 amended subsec. (f) generally, substituting present provisions for provisions relating to insurance of "equity loans" under the Emergency Low Income Housing Preservation Act of 1987, providing for eligibility for such insurance, providing that a qualified nonprofit organization or limited equity tenant cooperative corporation may constitute an owner of housing for purposes of receiving an insured loan, providing for applicability of certain provisions of section 1713 of this title, and providing that an approved mortgagee may not withhold consent to an equity loan on property on which mortgagee holds a mortgage.
 
-<b>1989</b>—Subsec. (f)(2). Pub. L. 101–235, §203(c)(1), inserted at end “When underwriting an equity loan under this subsection, the Secretary may assume that the rental assistance provided in accordance with an approved plan of action under section 225(b) of the Emergency Low Income Housing Preservation Act of 1987 will be extended for the full term of the contract entered into under section 225(c) of that Act. The Secretary may accelerate repayment of a loan under this section in the event rental assistance is not extended under section 225(c) of that Act or the Secretary is unable to develop a revised package of incentives to the owner comparable to those received under the original approved plan of action.”
+<b>1989</b>—Subsec. (f)(2). Pub. L. 101–235, §203(c)(1), inserted at end "When underwriting an equity loan under this subsection, the Secretary may assume that the rental assistance provided in accordance with an approved plan of action under section 225(b) of the Emergency Low Income Housing Preservation Act of 1987 will be extended for the full term of the contract entered into under section 225(c) of that Act. The Secretary may accelerate repayment of a loan under this section in the event rental assistance is not extended under section 225(c) of that Act or the Secretary is unable to develop a revised package of incentives to the owner comparable to those received under the original approved plan of action."
 
-Subsec. (f)(3). Pub. L. 101–235, §203(c)(2), inserted “public entity,” after “A”.
+Subsec. (f)(3). Pub. L. 101–235, §203(c)(2), inserted "public entity," after "A".
 
 Subsec. (f)(6). Pub. L. 101–235, §203(d), added par. (6).
 
 Subsec. (g). Pub. L. 101–235, §204(b), added subsec. (g).
 
-<b>1988</b>—Subsec. (b)(3). Pub. L. 100–242, §429(c), substituted “borrower and the financial institution” for “mortgagor and the mortgagee”.
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–242, §429(c), substituted "borrower and the financial institution" for "mortgagor and the mortgagee".
 
 Subsec. (f). Pub. L. 100–242, §231, added subsec. (f).
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–479, §204(a)(11), substituted “to make” for “to made”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–479, §204(a)(11), substituted "to make" for "to made".
 
-Subsec. (b)(1). Pub. L. 98–479, §204(a)(12), substituted “or facility” for “of facility” before “is insured”.
+Subsec. (b)(1). Pub. L. 98–479, §204(a)(12), substituted "or facility" for "of facility" before "is insured".
 
-<b>1983</b>—Subsec. (b)(3). Pub. L. 98–181 substituted provision that the interest rate be such a rate as agreed upon by the mortgagor and the mortgagee for provision that the interest rate, exclusive of premium charges for insurance and service charges, not exceed such per centum per annum, not in excess of 6 per centum, on the amount of the principal obligation outstanding at any time, as the Secretary finds necessary to meet market conditions.
+<b>1983</b>—Subsec. (b)(3). Pub. L. 98–181 substituted provision that the interest rate be such a rate as agreedupon by the mortgagor and the mortgagee for provision that the interest rate, exclusive of premium charges for insurance and service charges, not exceed such per centum per annum, not in excess of 6 per centum, on the amount of the principal obligation outstanding at any time, as the Secretary finds necessary to meet market conditions.
 
 <b>1980</b>—Subsec. (e)(1). Pub. L. 96–399 inserted provisions respecting requirements for purchase or installation in connection with other energy conserving improvements, etc.
 
-<b>1979</b>—Subsec. (b)(2). Pub. L. 96–153 struck out “but not to exceed the remaining term of the mortgage” after “the Secretary”.
+<b>1979</b>—Subsec. (b)(2). Pub. L. 96–153 struck out "but not to exceed the remaining term of the mortgage" after "the Secretary".
 
 <b>1978</b>—Subsec. (d). Pub. L. 95–557 inserted provision relating to the amounts the Secretary is authorized to bid at any sale under foreclosure of a mortgage on a project or facility which is not insured under this chapter but which is senior to a loan assigned to the Secretary pursuant to subsection (c), and such other steps the Secretary is authorized to take to preserve or protect his interest in the project or facility.
 
 Subsec. (e). Pub. L. 95–619 added subsec. (e).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–375 inserted “, hospital,” after “multifamily project”, “additions to such project”, “involving a nursing home”, and “of such nursing home”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–375 inserted ", hospital," after "multifamily project", "additions to such project", "involving a nursing home", and "of such nursing home".
 
 <b>1974</b>—Subsec. (d). Pub. L. 93–383 added subsec. (d).
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–609, §111(1), (2), inserted in first sentence “or covered by a mortgage held by the Secretary” after “this chapter” and substituted in proviso “a nursing home or a group practice facility” for “a nursing home covered by a mortgage insured under section 1715w of this title or a loan involving a group practice facility covered by a mortgage insured under subchapter IX–B of this chapter”, respectively.
+<b>1970</b>—Subsec. (a). Pub. L. 91–609, §111(1), (2), inserted in first sentence "or covered by a mortgage held by the Secretary" after "this chapter" and substituted in proviso "a nursing home or a group practice facility" for "a nursing home covered by a mortgage insured under section 1715w of this title or a loan involving a group practice facility covered by a mortgage insured under subchapter IX–B of this chapter", respectively.
 
-Subsec. (b)(1). Pub. L. 91–609, §111(3), inserted “or an amount acceptable to the Secretary” before semicolon at end.
+Subsec. (b)(1). Pub. L. 91–609, §111(3), inserted "or an amount acceptable to the Secretary" before semicolon at end.
 
-Subsec. (b)(5). Pub. L. 91–609, §111(4), inserted “or pursuant to which the original mortgage covering the project or facility was insured” before semicolon at end.
+Subsec. (b)(5). Pub. L. 91–609, §111(4), inserted "or pursuant to which the original mortgage covering the project or facility was insured" before semicolon at end.
 
 #### Effective Date of 1988 Amendment
 

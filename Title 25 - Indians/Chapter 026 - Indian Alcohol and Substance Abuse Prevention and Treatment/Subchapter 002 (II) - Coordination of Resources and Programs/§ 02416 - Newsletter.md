@@ -14,7 +14,7 @@ The Secretary of the Interior shall publish an alcohol and substance abuse newsl
 
 &emsp;&emsp;(B) tribal offices,
 
-&emsp;&emsp;(C) Bureau of Indian Affairs’ agency and area offices,
+&emsp;&emsp;(C) Bureau of Indian Affairs' agency and area offices,
 
 &emsp;&emsp;(D) Indian Health Service area and service unit offices,
 
@@ -24,13 +24,13 @@ The Secretary of the Interior shall publish an alcohol and substance abuse newsl
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section $500,000 for fiscal year 1993and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+There are authorized to be appropriated to carry out this section $500,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
 
 (Pub. L. 99–570, title IV, §4210, Oct. 27, 1986, 100 Stat. 3207–143; Pub. L. 100–690, title II, §2218, Nov. 18, 1988, 102 Stat. 4222; Pub. L. 102–573, title VII, §703(3), Oct. 29, 1992, 106 Stat. 4583.)
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–573 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated for each of the fiscal years 1989, 1990, 1991, and 1992, $300,000 to carry out the provisions of this section.”
+<b>1992</b>—Subsec. (b). Pub. L. 102–573 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "There are authorized to be appropriated for each of the fiscal years 1989, 1990, 1991, and 1992, $300,000 to carry out the provisions of this section."
 
-<b>1988</b>—Pub. L. 100–690 struck out “, not later than 120 days after October 27, 1986,” after “the Interior shall”, designated existing provisions as subsec. (a), and added subsec. (b).
+<b>1988</b>—Pub. L. 100–690 struck out ", not later than 120 days after October 27, 1986," after "the Interior shall", designated existing provisions as subsec. (a), and added subsec. (b).
 

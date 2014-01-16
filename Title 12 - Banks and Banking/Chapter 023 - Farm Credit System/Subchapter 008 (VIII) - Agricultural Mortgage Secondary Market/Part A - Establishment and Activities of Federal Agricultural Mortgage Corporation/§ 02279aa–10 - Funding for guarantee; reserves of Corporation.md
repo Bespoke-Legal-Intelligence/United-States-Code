@@ -40,5 +40,5 @@ The Corporation may impose charges or fees in reasonable amounts in connection w
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(4). Pub. L. 104–316 substituted “Review” for “Annual review” in heading and “may review” for “shall annually review” in text.
+<b>1996</b>—Subsec. (b)(4). Pub. L. 104–316 substituted "Review" for "Annual review" in heading and "may review" for "shall annually review" in text.
 

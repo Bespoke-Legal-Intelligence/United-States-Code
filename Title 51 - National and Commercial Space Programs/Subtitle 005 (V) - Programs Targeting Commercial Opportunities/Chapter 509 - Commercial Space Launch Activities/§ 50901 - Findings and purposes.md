@@ -74,65 +74,65 @@ Oct. 30, 1984, Pub. L. 98–575, §§2, 3, 98 Stat. 3055; Nov. 16, 1990, Pub. L.
 
 49 App.:2602.
 
-In subsection (a), before clause (1), the words “and declares” are omitted as surplus.
+In subsection (a), before clause (1), the words "and declares" are omitted as surplus.
 
-In subsection (b), before clause (1), the word “therefore” is omitted as surplus.
+In subsection (b), before clause (1), the word "therefore" is omitted as surplus.
 
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–314 successively renumbered section 70101 of title 49 and section 70101 of this title as this section.
 
-<b>2004</b>—Subsec. (a)(3). Pub. L. 108–492, §2(a)(1), inserted “human space flight,” after “microgravity research,”.
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–492, §2(a)(1), inserted "human space flight," after "microgravity research,".
 
-Subsec. (a)(4). Pub. L. 108–492, §2(a)(2), struck out “satellite” after “providing private” and substituted “capabilities of” for “services now available from”.
+Subsec. (a)(4). Pub. L. 108–492, §2(a)(2), struck out "satellite" after "providing private" and substituted "capabilities of" for "services now available from".
 
 Subsec. (a)(10) to (15). Pub. L. 108–492, §2(a)(3)–(5), added pars. (10) to (15).
 
 Subsec. (b)(2)(C). Pub. L. 108–492, §2(a)(6), added subpar. (C).
 
-Subsec. (b)(3). Pub. L. 108–492, §2(a)(7), substituted “issue permits and commercial licenses and transfer” for “issue and transfer”.
+Subsec. (b)(3). Pub. L. 108–492, §2(a)(7), substituted "issue permits and commercial licenses and transfer" for "issue and transfer".
 
-<b>1998</b>—Subsec. (a)(3). Pub. L. 105–303, §102(a)(2)(A), inserted “microgravity research,” after “information services,”.
+<b>1998</b>—Subsec. (a)(3). Pub. L. 105–303, §102(a)(2)(A), inserted "microgravity research," after "information services,".
 
-Subsec. (a)(4). Pub. L. 105–303, §102(a)(2)(B), inserted “, reentry,” after “launching” in two places.
+Subsec. (a)(4). Pub. L. 105–303, §102(a)(2)(B), inserted ", reentry," after "launching" in two places.
 
-Subsec. (a)(5). Pub. L. 105–303, §102(a)(2)(C), inserted “, reentry vehicles,” after “launch vehicles”.
+Subsec. (a)(5). Pub. L. 105–303, §102(a)(2)(C), inserted ", reentry vehicles," after "launch vehicles".
 
-Subsec. (a)(6). Pub. L. 105–303, §102(a)(2)(D), inserted “and reentry services” after “launch services”.
+Subsec. (a)(6). Pub. L. 105–303, §102(a)(2)(D), inserted "and reentry services" after "launch services".
 
-Subsec. (a)(7). Pub. L. 105–303, §102(a)(2)(E), inserted “, reentries,” after “launches” in two places.
+Subsec. (a)(7). Pub. L. 105–303, §102(a)(2)(E), inserted ", reentries," after "launches" in two places.
 
-Subsec. (a)(8). Pub. L. 105–303, §102(a)(2)(F), (G), inserted “, reentry sites,” after “launch sites” and “and reentry services” after “launch services”.
+Subsec. (a)(8). Pub. L. 105–303, §102(a)(2)(F), (G), inserted ", reentry sites," after "launch sites" and "and reentry services" after "launch services".
 
-Subsec. (a)(9). Pub. L. 105–303, §102(a)(2)(H), (I), inserted “reentry sites,” after “launch sites,” and “and reentry site” after “launch site”.
+Subsec. (a)(9). Pub. L. 105–303, §102(a)(2)(H), (I), inserted "reentry sites," after "launch sites," and "and reentry site" after "launch site".
 
-Subsec. (b)(2). Pub. L. 105–303, §102(a)(2)(J), inserted “, reentry vehicles,” after “launch vehicles” in introductory provisions.
+Subsec. (b)(2). Pub. L. 105–303, §102(a)(2)(J), inserted ", reentry vehicles," after "launch vehicles" in introductory provisions.
 
-Subsec. (b)(2)(A). Pub. L. 105–303, §102(a)(2)(K), struck out “launch” before “licenses”.
+Subsec. (b)(2)(A). Pub. L. 105–303, §102(a)(2)(K), struck out "launch" before "licenses".
 
-Subsec. (b)(3). Pub. L. 105–303, §102(a)(2)(L), (M), inserted “and reentry” after “conduct of commercial launch” and struck out “launch” before “licenses”.
+Subsec. (b)(3). Pub. L. 105–303, §102(a)(2)(L), (M), inserted "and reentry" after "conduct of commercial launch" and struck out "launch" before "licenses".
 
-Subsec. (b)(4). Pub. L. 105–303, §102(a)(2)(N), inserted “and development of reentry sites,” after “launch-site support facilities,”.
+Subsec. (b)(4). Pub. L. 105–303, §102(a)(2)(N), inserted "and development of reentry sites," after "launch-site support facilities,".
 
 #### Findings
 
-Pub. L. 106–405, §2, Nov. 1, 2000, 114 Stat. 1751, provided that: “The Congress finds that—
+Pub. L. 106–405, §2, Nov. 1, 2000, 114 Stat. 1751, provided that: "The Congress finds that—
 
-&emsp;“(1) a robust United States space transportation industry is vital to the Nation's economic well-being and national security;
+&emsp;"(1) a robust United States space transportation industry is vital to the Nation's economic well-being and national security;
 
-&emsp;“(2) enactment of a 5-year extension of the excess third party claims payment provision of \[former\] chapter 701 of title 49, United States Code \[now 51 U.S.C. 50901 et seq.\] (Commercial Space Launch Activities), will have a beneficial impact on the international competitiveness of the United States space transportation industry;
+&emsp;"(2) enactment of a 5-year extension of the excess third party claims payment provision of \[former\] chapter 701 of title 49, United States Code \[now 51 U.S.C. 50901 et seq.\] (Commercial Space Launch Activities), will have a beneficial impact on the international competitiveness of the United States space transportation industry;
 
-&emsp;“(3) space transportation may evolve into airplane-style operations;
+&emsp;"(3) space transportation may evolve into airplane-style operations;
 
-&emsp;“(4) during the next 3 years the Federal Government and the private sector should analyze the liability risk-sharing regime to determine its appropriateness and effectiveness, and, if needed, develop and propose a new regime to Congress at least 2 years prior to the expiration of the extension contained in this Act \[see Tables for classification\];
+&emsp;"(4) during the next 3 years the Federal Government and the private sector should analyze the liability risk-sharing regime to determine its appropriateness and effectiveness, and, if needed, develop and propose a new regime to Congress at least 2 years prior to the expiration of the extension contained in this Act \[see Tables for classification\];
 
-&emsp;“(5) the areas of responsibility of the Office of the Associate Administrator for Commercial Space Transportation have significantly increased as a result of—
+&emsp;"(5) the areas of responsibility of the Office of the Associate Administrator for Commercial Space Transportation have significantly increased as a result of—
 
-&emsp;&emsp;“(A) the rapidly expanding commercial space transportation industry and associated government licensing requirements;
+&emsp;&emsp;"(A) the rapidly expanding commercial space transportation industry and associated government licensing requirements;
 
-&emsp;&emsp;“(B) regulatory activity as a result of the emerging commercial reusable launch vehicle industry; and
+&emsp;&emsp;"(B) regulatory activity as a result of the emerging commercial reusable launch vehicle industry; and
 
-&emsp;&emsp;“(C) the increased regulatory activity associated with commercial operation of launch and reentry sites; and
+&emsp;&emsp;"(C) the increased regulatory activity associated with commercial operation of launch and reentry sites; and
 
-&emsp;“(6) the Office of the Associate Administrator for Commercial Space Transportation should continue to limit its promotional activities to those which support its regulatory mission.”
+&emsp;"(6) the Office of the Associate Administrator for Commercial Space Transportation should continue to limit its promotional activities to those which support its regulatory mission."
 

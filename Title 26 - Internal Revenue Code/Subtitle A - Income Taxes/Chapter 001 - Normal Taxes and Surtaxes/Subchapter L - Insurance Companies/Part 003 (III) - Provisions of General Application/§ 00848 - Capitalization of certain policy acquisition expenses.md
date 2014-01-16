@@ -12,7 +12,7 @@ In the case of an insurance company—
 
 #### (1) In general
 
-&emsp;Paragraph (2) of subsection (a) shall be applied with respect to so much of the specified policy acquisition expenses of an insurance company for any taxable year as does not exceed $5,000,000 by substituting “60-month” for “120-month”.
+&emsp;Paragraph (2) of subsection (a) shall be applied with respect to so much of the specified policy acquisition expenses of an insurance company for any taxable year as does not exceed $5,000,000 by substituting "60-month" for "120-month".
 
 #### (2) Phase-out
 
@@ -26,7 +26,7 @@ In the case of an insurance company—
 
 &emsp;&emsp;(B) the amount to which paragraph (1) applies shall be allocated among such companies in such manner as the Secretary may prescribe.
 
-> &emsp;For purposes of the preceding sentence, the term “controlled group” means any controlled group of corporations as defined in section 1563(a); except that subsections (a)(4) and (b)(2)(D) of section 1563 shall not apply, and subsection (b)(2)(C) of section 1563 shall not apply to the extent it excludes a foreign corporation to which section 842 applies.
+> &emsp;For purposes of the preceding sentence, the term "controlled group" means any controlled group of corporations as defined in section 1563(a); except that subsections (a)(4) and (b)(2)(D) of section 1563 shall not apply, and subsection (b)(2)(C) of section 1563 shall not apply to the extent it excludes a foreign corporation to which section 842 applies.
 
 #### (4) Exception for acquisition expenses attributable to certain reinsurance contracts
 
@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “specified policy acquisition expenses” means, with respect to any taxable year, so much of the general deductions for such taxable year as does not exceed the sum of—
+&emsp;The term "specified policy acquisition expenses" means, with respect to any taxable year, so much of the general deductions for such taxable year as does not exceed the sum of—
 
 &emsp;&emsp;(A) 1.75 percent of the net premiums for such taxable year on specified insurance contracts which are annuity contracts,
 
@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (2) General deductions
 
-&emsp;The term “general deductions” means the deductions provided in part VI of subchapter B (sec. 161 and following, relating to itemized deductions) and in part I of subchapter D (sec. 401 and following, relating to pension, profit sharing, stock bonus plans, etc.).
+&emsp;The term "general deductions" means the deductions provided in part VI of subchapter B (sec. 161 and following, relating to itemized deductions) and in part I of subchapter D (sec. 401 and following, relating to pension, profit sharing, stock bonus plans, etc.).
 
 #### (d) Net premiums
 
@@ -56,7 +56,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “net premiums” means, with respect to any category of specified insurance contracts set forth in subsection (c)(1), the excess (if any) of—
+&emsp;The term "net premiums" means, with respect to any category of specified insurance contracts set forth in subsection (c)(1), the excess (if any) of—
 
 &emsp;&emsp;(A) the gross amount of premiums and other consideration on such contracts, over
 
@@ -86,11 +86,11 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, the term “specified insurance contract” means any life insurance, annuity, or noncancellable accident and health insurance contract (or any combination thereof).
+&emsp;&emsp;Except as otherwise provided in this paragraph, the term "specified insurance contract" means any life insurance, annuity, or noncancellable accident and health insurance contract (or any combination thereof).
 
 #### (B) Exceptions
 
-&emsp;&emsp;The term “specified insurance contract” shall not include—
+&emsp;&emsp;The term "specified insurance contract" shall not include—
 
 &emsp;&emsp;&emsp;(i) any pension plan contract (as defined in section 818(a)),
 
@@ -104,7 +104,7 @@ For purposes of this section—
 
 #### (2) Group life insurance contract
 
-&emsp;The term “group life insurance contract” means any life insurance contract—
+&emsp;The term "group life insurance contract" means any life insurance contract—
 
 &emsp;&emsp;(A) which covers a group of individuals defined by reference to employment relationship, membership in an organization, or similar factor,
 
@@ -144,7 +144,7 @@ For purposes of this section—
 
 #### (2) Negative capitalization amount
 
-&emsp;For purposes of paragraph (1), the term “negative capitalization amount” means, with respect to any category of specified insurance contracts, the percentage (applicable under subsection (c)(1) to such category) of the amount (if any) by which—
+&emsp;For purposes of paragraph (1), the term "negative capitalization amount" means, with respect to any category of specified insurance contracts, the percentage (applicable under subsection (c)(1) to such category) of the amount (if any) by which—
 
 &emsp;&emsp;(A) the amount determined under subparagraph (B) of subsection (d)(1) with respect to such category, exceeds
 
@@ -180,13 +180,13 @@ In the case of any taxable year which includes September 30, 1990, the amount ta
 
 <b>2003</b>—Subsec. (e)(1)(B)(v). Pub. L. 108–173 added cl. (v).
 
-<b>2000</b>—Subsec. (e)(1)(B)(iv). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], substituted “an Archer MSA” for “a Archer MSA”.
+<b>2000</b>—Subsec. (e)(1)(B)(iv). Pub. L. 106–554, §1(a)(7) \[title II, §202(b)(10)\], substituted "an Archer MSA" for "a Archer MSA".
 
-Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(5)\], substituted “Archer MSA” for “medical savings account”.
+Pub. L. 106–554, §1(a)(7) \[title II, §202(a)(5)\], substituted "Archer MSA" for "medical savings account".
 
 <b>1996</b>—Subsec. (e)(1)(B)(iv). Pub. L. 104–191 added cl. (iv).
 
-<b>1993</b>—Subsec. (g). Pub. L. 103–66 substituted “this section or section 197” for “this section”.
+<b>1993</b>—Subsec. (g). Pub. L. 103–66 substituted "this section or section 197" for "this section".
 
 #### Effective Date of 2006 Amendment
 
@@ -206,5 +206,5 @@ Amendment by Pub. L. 103–66 applicable, except as otherwise provided, with res
 
 #### Effective Date
 
-Pub. L. 101–508, title XI, §11301(d)(1), Nov. 5, 1990, 104 Stat. 1388–449, provided that: “The amendments made by subsections (a) and (c) \[enacting this section\] shall apply to taxable years ending on or after September 30, 1990. Any capitalization required by reason of such amendments shall not be treated as a change in method of accounting for purposes of the Internal Revenue Code of 1986.”
+Pub. L. 101–508, title XI, §11301(d)(1), Nov. 5, 1990, 104 Stat. 1388–449, provided that: "The amendments made by subsections (a) and (c) \[enacting this section\] shall apply to taxable years ending on or after September 30, 1990. Any capitalization required by reason of such amendments shall not be treated as a change in method of accounting for purposes of the Internal Revenue Code of 1986."
 

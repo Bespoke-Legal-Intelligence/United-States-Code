@@ -16,7 +16,7 @@ Grants, contracts, and cooperative agreements entered into by the National Scien
 
 #### References in Text
 
-The National Science Foundation Act of 1950, referred to in subsec. (c), is act May 10, 1950, ch. 171, 64 Stat. 149, as amended, which is classified generally to chapter 16 (§1861 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1861 of Title 42 and Tables.
+The National Science Foundation Act of 1950, referred to in subsec. (c), is act May 10, 1950, ch. 171, 64 Stat. 149,as amended, which is classified generally to chapter 16 (§1861 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1861 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -26,5 +26,5 @@ A prior section 9 of Pub. L. 96–480 was renumbered section 10 and is classifie
 
 <b>2000</b>—Subsecs. (a), (b). Pub. L. 106–404 made technical amendments to references in original act which appear in text as references to section 3705 of this title.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–502 substituted “Cooperative Research Centers” for “Centers for Industrial Technology” and struck out last sentence which read as follows: “The provisions of sections 3705(e) and 3705(f) of this title shall apply to Centers established under this section.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–502 substituted "Cooperative Research Centers" for "Centers for Industrial Technology" and struck out last sentence which read as follows: "The provisions of sections 3705(e) and 3705(f) of this title shall apply to Centers established under this section."
 

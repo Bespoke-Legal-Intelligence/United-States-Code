@@ -30,5 +30,5 @@ If the Director disapproves the initial capital restoration plan submitted by th
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–289 substituted “regulated entity” for “enterprise” wherever appearing.
+<b>2008</b>—Pub. L. 110–289 substituted "regulated entity" for "enterprise" wherever appearing.
 

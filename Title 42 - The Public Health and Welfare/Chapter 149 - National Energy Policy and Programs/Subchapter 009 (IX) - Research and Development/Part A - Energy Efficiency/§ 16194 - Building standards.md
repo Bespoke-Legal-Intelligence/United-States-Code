@@ -2,11 +2,11 @@
 
 #### (a) Definition of high performance building
 
-In this section, the term “high performance building” means a building that integrates and optimizes all major high-performance building attributes, including energy efficiency, durability, life-cycle performance, and occupant productivity.
+In this section, the term "high performance building" means a building that integrates and optimizes all major high-performance building attributes, including energy efficiency, durability, life-cycle performance, and occupant productivity.
 
 #### (b) Assessment
 
-Not later than 120 days after August 8, 2005, the Secretary shall enter into an agreementwith the National Institute of Building Sciences to—
+Not later than 120 days after August 8, 2005, the Secretary shall enter into an agreement with the National Institute of Building Sciences to—
 
 &emsp;(1) conduct an assessment (in cooperation with industry, standards development organizations, and other entities, as appropriate) of whether the current voluntary consensus standards and rating systems for high performance buildings are consistent with the current technological state of the art, including relevant results from the research, development and demonstration activities of the Department;
 

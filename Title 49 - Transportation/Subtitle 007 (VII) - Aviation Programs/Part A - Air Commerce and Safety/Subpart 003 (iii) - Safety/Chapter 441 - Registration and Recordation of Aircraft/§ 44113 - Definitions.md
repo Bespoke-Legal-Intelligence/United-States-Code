@@ -4,15 +4,15 @@ In this chapter, the following definitions apply:
 
 &emsp;(1)
 
-Cape town treaty.—The term “Cape Town Treaty” means the Convention on International Interests in Mobile Equipment, as modified by the Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment, signed at Rome on May 9, 2003.
+Cape town treaty.—The term "Cape Town Treaty" means the Convention on International Interests in Mobile Equipment, as modified by the Protocol to the Convention on International Interests in Mobile Equipment on Matters Specific to Aircraft Equipment, signed at Rome on May 9, 2003.
 
 &emsp;(2)
 
-United states entry point.—The term “United States Entry Point” means the Federal Aviation Administration Civil Aviation Registry.
+United states entry point.—The term "United States Entry Point" means the Federal Aviation Administration Civil Aviation Registry.
 
 &emsp;(3)
 
-International registry.—The term “International Registry” means the registry established under the Cape Town Treaty.
+International registry.—The term "International Registry" means the registry established under the Cape Town Treaty.
 
 (Added Pub. L. 108–297, §6(a), Aug. 9, 2004, 118 Stat. 1097.)
 

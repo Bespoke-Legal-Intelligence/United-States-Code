@@ -22,11 +22,11 @@ Each local board shall—
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–645 inserted before period at end of second sentence “, and except that each local board administering program funds for a locality within which is located a reservation (as such term is defined in section 1452(d) of title 25, or a portion thereof, shall include a board member who is a member of an Indian tribe (as such term is defined in section 5302(a)(17) of this title”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–645 inserted before period at end of second sentence ", and except that each local board administering program funds for a locality within which is located a reservation (as such term is defined in section 1452(d) of title 25, or a portion thereof, shall include a board member who is a member of an Indian tribe (as such term is defined in section 5302(a)(17) of this title".
 
 #### Implementation of 1990 Amendment
 
-Pub. L. 101–645, title II, §202(b), Nov. 29, 1990, 104 Stat. 4675, provided that: “Each local board under the Emergency Food and Shelter Program whose membership shall include a member of an Indian tribe by reason of the amendment made by subsection (a) \[amending this section\] shall comply with the requirement made by such amendment not later than the expiration of the 30-day period beginning on the date of the enactment of this Act \[Nov. 29, 1990\].”
+Pub. L. 101–645, title II, §202(b), Nov. 29, 1990, 104 Stat. 4675, provided that: "Each local board under the Emergency Food and Shelter Program whose membership shall include a member of an Indian tribe by reason of the amendment made by subsection (a) \[amending this section\] shall comply with the requirement made by such amendment not later than the expiration of the 30-day period beginning on the date of the enactment of this Act \[Nov. 29, 1990\]."
 
 <i><sup>1</sup></i><i> So in original. A closing parenthesis probably should precede the punctuation.</i>
 

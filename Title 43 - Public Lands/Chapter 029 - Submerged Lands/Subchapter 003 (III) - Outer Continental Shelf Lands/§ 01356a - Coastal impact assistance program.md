@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Coastal political subdivision
 
-&emsp;The term “coastal political subdivision” means a political subdivision of a coastal State any part of which political subdivision is—
+&emsp;The term "coastal political subdivision" means a political subdivision of a coastal State any part of which political subdivision is—
 
 &emsp;&emsp;(A) within the coastal zone (as defined in section 304 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1453)) of the coastal State as of August 8, 2005; and
 
@@ -14,47 +14,47 @@ In this section:
 
 #### (2) Coastal population
 
-&emsp;The term “coastal population” means the population, as determined by the most recent official data of the Census Bureau, of each political subdivision any part of which lies within the designated coastal boundary of a State (as defined in a State's coastal zone management program under the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.)).
+&emsp;The term "coastal population" means the population, as determined by the most recentofficial data of the Census Bureau, of each political subdivision any part of which lies within the designated coastal boundary of a State (as defined in a State's coastal zone management program under the Coastal Zone Management Act of 1972 (16 U.S.C. 1451 et seq.)).
 
 #### (3) Coastal State
 
-&emsp;The term “coastal State” has the meaning given the term in section 304 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1453).
+&emsp;The term "coastal State" has the meaning given the term in section 304 of the Coastal Zone Management Act of 1972 (16 U.S.C. 1453).
 
 #### (4) Coastline
 
-&emsp;The term “coastline” has the meaning given the term “coast line” in section 1301 of this title.
+&emsp;The term "coastline" has the meaning given the term "coast line" in section 1301 of this title.
 
 #### (5) Distance
 
-&emsp;The term “distance” means the minimum great circle distance, measured in statute miles.
+&emsp;The term "distance" means the minimum great circle distance, measured in statute miles.
 
 #### (6) Leased tract
 
-&emsp;The term “leased tract” means a tract that is subject to a lease under section 1335 or 1337 of this title for the purpose of drilling for, developing, and producing oil or natural gas resources.
+&emsp;The term "leased tract" means a tract that is subject to a lease under section 1335 or 1337 of this title for the purpose of drilling for, developing, and producing oil or natural gas resources.
 
 #### (7) Leasing moratoria
 
-&emsp;The term “leasing moratoria” means the prohibitions on preleasing, leasing, and related activities on any geographic area of the outer Continental Shelf as contained in sections 107 through 109 of division E of the Consolidated Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 3063).
+&emsp;The term "leasing moratoria" means the prohibitions on preleasing, leasing, and related activities on any geographic area of the outer Continental Shelf as contained in sections 107 through 109 of division E of the Consolidated Appropriations Act, 2005 (Public Law 108–447; 118 Stat. 3063).
 
 #### (8) Political subdivision
 
-&emsp;The term “political subdivision” means the local political jurisdiction immediately below the level of State government, including counties, parishes, and boroughs.
+&emsp;The term "political subdivision" means the local political jurisdiction immediately below the level of State government, including counties, parishes, and boroughs.
 
 #### (9) Producing State
 
 #### (A) In general
 
-&emsp;&emsp;The term “producing State” means a coastal State that has a coastal seaward boundary within 200 nautical miles of the geographic center of a leased tract within any area of the outer Continental Shelf.
+&emsp;&emsp;The term "producing State" means a coastal State that has a coastal seaward boundary within 200 nautical miles of the geographic center of a leased tract within any area of the outer Continental Shelf.
 
 #### (B) Exclusion
 
-&emsp;&emsp;The term “producing State” does not include a producing State, a majority of the coastline of which is subject to leasing moratoria, unless production was occurring on January 1, 2005, from a lease within 10 nautical miles of the coastline of that State.
+&emsp;&emsp;The term "producing State" does not include a producing State, a majority of the coastline of which is subject to leasing moratoria, unless production was occurring on January 1, 2005, from a lease within 10 nautical miles of the coastline of that State.
 
 #### (10) Qualified Outer Continental Shelf revenues
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified Outer Continental Shelf revenues” means all amounts received by the United States from each leased tract or portion of a leased tract—
+&emsp;&emsp;The term "qualified Outer Continental Shelf revenues" means all amounts received by the United States from each leased tract or portion of a leased tract—
 
 &emsp;&emsp;&emsp;(i) lying—
 
@@ -66,11 +66,11 @@ In this section:
 
 #### (B) Inclusions
 
-&emsp;&emsp;The term “qualified Outer Continental Shelf revenues” includes bonus bids, rents, royalties (including payments for royalty taken in kind and sold), net profit share payments, and related late-payment interest from natural gas and oil leases issued under this subchapter.
+&emsp;&emsp;The term "qualified Outer Continental Shelf revenues" includes bonus bids, rents, royalties (including payments for royalty taken in kind and sold), net profit share payments, and related late-payment interest from natural gas and oil leases issued under this subchapter.
 
 #### (C) Exclusion
 
-&emsp;&emsp;The term “qualified Outer Continental Shelf revenues” does not include any revenues from a leased tract or portion of a leased tract that is located in a geographic area subject to a leasing moratorium on January 1, 2005, unless the lease was in production on January 1, 2005.
+&emsp;&emsp;The term "qualified Outer Continental Shelf revenues" does not include any revenues from a leased tract or portion of a leased tract that is located in a geographic area subject to a leasing moratorium on January 1, 2005, unless the lease was in production on January 1, 2005.
 
 #### (b) Payments to producing States and coastal political subdivisions
 
@@ -102,7 +102,7 @@ In this section:
 
 #### (C) Multiple producing States
 
-&emsp;&emsp;In a case in which more than one producing State is located within 200 nautical miles of any portion of a leased tract, the amount allocated to each producing State for the leased tract shall be inversely proportional to the distance between—
+&emsp;&emsp;In a case in which more than one producing State is located within 200 nauticalmiles of any portion of a leased tract, the amount allocated to each producing State for the leased tract shall be inversely proportional to the distance between—
 
 &emsp;&emsp;&emsp;(i) the nearest point on the coastline of the producing State; and
 
@@ -160,7 +160,7 @@ In this section:
 
 #### (C) Waiver
 
-&emsp;&emsp;The Secretary may waive subparagraph (A) with respect to an allocated share of a producing State and hold the allocable sharein escrow if the Secretary determines that the producing State is making a good faith effort to develop and submit, or update, a plan in accordance with subsection (c) of this section.
+&emsp;&emsp;The Secretary may waive subparagraph (A) with respect to an allocated share of a producing State and hold the allocable share in escrow if the Secretary determines that the producing State is making a good faith effort to develop and submit, or update, a plan in accordance with subsection (c) of this section.
 
 #### (c) Coastal impact assistance plan
 
@@ -266,7 +266,7 @@ In this section:
 
 &emsp;&emsp;If a producing State or coastal political subdivision does not submit the additional information or amendments to the plan required by this paragraph, or if, based on the information submitted by the Secretary determines that the project is not in compliance with subsection (d), by the deadlines specified in this paragraph, the Secretary shall not disburse any additional funds to the producing State or the coastal political subdivisions until the date on which the additional information or amendment to the plan has been approved by the Secretary.
 
-(Aug. 7, 1953, ch. 345, §31, as added Pub. L. 106–553, §1(a)(2) \[title IX, §903\], Dec. 21, 2000, 114 Stat. 2762, 2762A–124; amended Pub. L. 109–58, title III, §384, Aug. 8, 2005, 119 Stat. 739; Pub. L. 111–212, title III, §3013, July 29, 2010, 124 Stat. 2341.)
+(Aug. 7, 1953, ch. 345, §31, as added Pub. L. 106–553, §1(a)(2) \[title IX, §903\], Dec. 21, 2000, 114Stat. 2762, 2762A–124; amended Pub. L. 109–58, title III, §384, Aug. 8, 2005, 119 Stat. 739; Pub. L. 111–212, title III, §3013, July 29, 2010, 124 Stat. 2341.)
 
 #### References in Text
 

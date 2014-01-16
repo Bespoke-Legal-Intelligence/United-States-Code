@@ -44,7 +44,7 @@ The Secretary shall encourage community health worker programs receiving funds u
 
 #### (f) Evidence-based interventions
 
-The Secretary shall encourage community health worker programs receiving funding under this section to implement a process or an outcome-based payment system that rewards community health workers for connecting underserved populations with the most appropriate services at the most appropriate time. Nothing in this section shall be construed to require such a payment.
+The Secretary shall encourage community health worker programs receiving funding underthis section to implement a process or an outcome-based payment system that rewards community health workers for connecting underserved populations with the most appropriate services at the most appropriate time. Nothing in this section shall be construed to require such a payment.
 
 #### (g) Quality assurance and cost effectiveness
 
@@ -68,13 +68,13 @@ In this section:
 
 #### (1) Community health worker
 
-&emsp;The term “community health worker” means an individual who promotes health or nutrition within the community in which the individual resides—
+&emsp;The term "community health worker" means an individual who promotes health or nutrition within the community in which the individual resides—
 
 &emsp;&emsp;(A) by serving as a liaison between communities and healthcare agencies;
 
 &emsp;&emsp;(B) by providing guidance and social assistance to community residents;
 
-&emsp;&emsp;(C) by enhancing community residents’ ability to effectively communicate with healthcare providers;
+&emsp;&emsp;(C) by enhancing community residents' ability to effectively communicate with healthcare providers;
 
 &emsp;&emsp;(D) by providing culturally and linguistically appropriate health or nutrition education;
 
@@ -86,15 +86,15 @@ In this section:
 
 #### (2) Community setting
 
-&emsp;The term “community setting” means a home or a community organization located in the neighborhood in which a participant in the program under this section resides.
+&emsp;The term "community setting" means a home or a community organization located in the neighborhood in which a participant in the program under this section resides.
 
 #### (3) Eligible entity
 
-&emsp;The term “eligible entity” means a public or nonprofit private entity (including a State or public subdivision of a State, a public health department, a free health clinic, a hospital, or a Federally-qualified health center (as defined in section 1861(aa) of the Social Security Act \[42 U.S.C. 1395x(aa)\])), or a consortium of any such entities.
+&emsp;The term "eligible entity" means a public or nonprofit private entity (including a State or public subdivision of a State, a public health department, a free health clinic, a hospital, or a Federally-qualified health center (as defined in section 1861(aa) of the Social Security Act \[42 U.S.C. 1395x(aa)\])), or a consortium of any such entities.
 
 #### (4) Medically underserved community
 
-&emsp;The term “medically underserved community” means a community identified by a State—
+&emsp;The term "medically underserved community" means a community identified by a State—
 
 &emsp;&emsp;(A) that has a substantial number of individuals who are members of a medically underserved population, as defined by section 254b(b)(3) of this title; and
 
@@ -108,7 +108,7 @@ The Social Security Act, referred to in subsec. (b)(3), is act Aug. 14, 1935, ch
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(4). Pub. L. 111–148, §10501(c)(1), substituted “identify and refer” for “identify, educate, refer, and enroll”.
+<b>2010</b>—Subsec. (b)(4). Pub. L. 111–148, §10501(c)(1), substituted "identify and refer" for "identify, educate, refer, and enroll".
 
-Subsec. (k)(1). Pub. L. 111–148, §10501(c)(2), struck out “, as defined by the Department of Labor as Standard Occupational Classification \[21–1094\]” before “means” in introductory provisions.
+Subsec. (k)(1). Pub. L. 111–148, §10501(c)(2), struck out ", as defined by the Department of Labor as Standard Occupational Classification \[21–1094\]" before "means" in introductory provisions.
 

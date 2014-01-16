@@ -1,6 +1,6 @@
 ### §130. Repealed. Pub. L. 95–391, title I, §111, Sept. 30, 1978, 92 Stat. 777
 
-Section, Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693; H. Res. 163, Mar. 19, 1975; Pub. L. 95–94, title I, §115, Aug. 5, 1977, 91 Stat. 668, authorized payment of expenses of participation by House in interparliamentary institutions. See section 130–1 of this title.
+Section, Pub. L. 87–730, §103, Oct. 2, 1962, 76 Stat. 693; H. Res. 163, Mar. 19, 1975; Pub. L. 95–94, title I, §115, Aug. 5, 1977, 91 Stat. 668, authorized payment of expenses of participation by House in interparliamentary institutions. See section 5581 of this title.
 
 The repeal of this section is based on a part of section 2 of House Resolution No. 1047, Ninety-fifth Congress, Apr. 4, 1978, which was enacted into permanent law by Pub. L. 95–391.
 
@@ -14,5 +14,5 @@ Section 2 of House Resolution No. 1047, Ninety-fifth Congress, Apr. 4, 1978, ena
 
 #### Authorization for Payment of Expenses from Contingent Fund of House of Representatives for Participatory Activities
 
-Section 1 of House Resolution No. 434, Ninety-fifth Congress, Mar. 31, 1977, enacted into permanent law byPub. L. 95–94, title I, §115, Aug. 5, 1977, 91 Stat. 668, which provided that, until otherwise provided by law, there was to have been paid out of the contingent fund of the House of Representatives such sums as may have been necessary, but not to exceed $15,000 in any calendar year, for the payment of expenses incurred in carrying out this section, was repealed by section 2 of H. Res. 1047, Ninety-fifth Congress, Apr. 4, 1978, which was enacted into permanent law by section 111 of Pub. L. 95–391, effective Sept. 30, 1978.
+Section 1 of House Resolution No. 434, Ninety-fifth Congress, Mar. 31, 1977, enacted into permanent law by Pub. L. 95–94, title I, §115, Aug. 5, 1977, 91 Stat. 668, which provided that, until otherwise provided by law, there was to have been paid out of the contingent fund of the House of Representatives such sums as may have been necessary, but not to exceed $15,000 in any calendar year, for the payment of expenses incurred in carrying out this section, was repealed by section 2 of H. Res. 1047, Ninety-fifth Congress, Apr. 4, 1978, which was enacted into permanent law by section 111 of Pub. L. 95–391, effective Sept. 30, 1978.
 

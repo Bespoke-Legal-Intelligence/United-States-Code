@@ -32,7 +32,7 @@
 
 <b>2000</b>—Subsec. (c). Pub. L. 106–553 substituted “(a)–(i), (n), (q), (r), and (s)” for “(a)–(i), (n), (q), and (r)”.
 
-<b>1997</b>—Subsec. (c). Pub. L. 105–61, which directed the substitution of “(q), and (r) of section 8339” for “and (q) of section 8339 of this title” in section 8334a(c), was executed by making the substitution in subsec. (c) of this section to reflect the probable intent of Congress, because there is no section 8334a in this title.
+<b>1997</b>—Subsec. (c). Pub. L. 105–61, which directed the substitution of “(q), and (r) of section 8339” for “and (q) of section 8339 of this title” in section 8334a(c), was executed by making the substitution in subsec. (c) of thissection to reflect the probable intent of Congress, because there is no section 8334a in this title.
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–66, §11002(a)(1), substituted “any employee or Member who has a life-threatening affliction or other critical medical condition” for “an employee or Member”.
 
@@ -122,5 +122,5 @@ Similar provisions were contained in the following acts:
 
 Pub. L. 101–227, §2, Dec. 12, 1989, 103 Stat. 1943, which was repealed by Pub. L. 101–508, title VII, §7001(a)(2)(D), Nov. 5, 1990, 104 Stat. 1388–328.
 
-Pub. L. 100–203, title VI, §6001, Dec. 22, 1987, 101 Stat. 1330–275, as amended by Pub. L. 101–103, §6, Sept. 30, 1989, 103 Stat. 672; Pub. L. 101–508, title VII, §7001(a)(2)(C)(i), Nov. 5, 1990, 104 Stat. 1388–328.
+Pub. L. 100–203, title VI, §6001, Dec. 22, 1987, 101 Stat. 1330–275, as amended by Pub. L. 101–103, §6, Sept. 30,1989, 103 Stat. 672; Pub. L. 101–508, title VII, §7001(a)(2)(C)(i), Nov. 5, 1990, 104 Stat. 1388–328.
 

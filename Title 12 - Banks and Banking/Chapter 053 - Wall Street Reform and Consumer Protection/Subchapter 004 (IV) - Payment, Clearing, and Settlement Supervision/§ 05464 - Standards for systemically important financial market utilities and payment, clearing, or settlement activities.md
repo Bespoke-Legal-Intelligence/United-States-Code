@@ -26,15 +26,15 @@
 
 #### (C) Written determination
 
-&emsp;&emsp;Any determination by the Board of Governors under subparagraph (B) shall be provided in writing to the Commodity Futures Trading Commission or the Commission, as applicable, and the Council, and shall explain why existing prudential requirements, considered as a whole, are insufficient to ensure that the operations and activities of the designated clearing entities or the activities of financial institutions described in subparagraph (B) will not pose significant liquidity, credit, operational, or other risks to the financial markets or to the financial stability of the United States. The Board of Governors’ determination shall contain a detailed analysis supporting its findings and identify the specific prudential requirements that are insufficient.
+&emsp;&emsp;Any determination by the Board of Governors under subparagraph (B) shall be provided in writing to the Commodity Futures Trading Commission or the Commission, as applicable, and the Council, and shall explain why existing prudential requirements, considered as a whole, are insufficient to ensure that the operations and activities of the designated clearing entities or the activities of financial institutions described in subparagraph (B) will not pose significant liquidity, credit, operational, or other risks to the financial markets or to the financial stability of the United States. The Board of Governors' determination shall contain a detailed analysis supporting its findings and identify the specific prudential requirements that are insufficient.
 
 #### (D) CFTC and Commission response
 
-&emsp;&emsp;The Commodity Futures Trading Commission or the Commission, as applicable, shall within 60 days either object to the Board of Governors’ determination with a detailed analysis as to why existing prudential requirements are sufficient, or submit an explanation to the Council and the Board of Governors describing the actions to be taken in response to the Board of Governors’ determination.
+&emsp;&emsp;The Commodity Futures Trading Commission or the Commission, as applicable, shall within 60 days either object to the Board of Governors' determination with a detailed analysis as to why existing prudential requirements are sufficient, or submit an explanation to the Council and the Board of Governors describing the actions to be taken in response to the Board of Governors' determination.
 
 #### (E) Authorization
 
-&emsp;&emsp;Upon an affirmative vote by not fewer than 2/3 of members then serving on the Council, the Council shall either find that the response submitted under subparagraph (D) is sufficient, or require the Commodity Futures Trading Commission, or the Commission, as applicable, to prescribe such risk management standards as the Council determines is necessary to address the specific prudential requirements that are determined to be insufficient.” <sup>1</sup>
+&emsp;&emsp;Upon an affirmative vote by not fewer than 2/3 of members then serving on the Council, the Council shall either find that the response submitted under subparagraph (D) is sufficient, or require the Commodity Futures Trading Commission, or the Commission, as applicable, to prescribe such risk management standards as the Council determines is necessary to address the specific prudential requirements that are determined to be insufficient." <sup>1</sup>
 
 #### (b) Objectives and principles
 

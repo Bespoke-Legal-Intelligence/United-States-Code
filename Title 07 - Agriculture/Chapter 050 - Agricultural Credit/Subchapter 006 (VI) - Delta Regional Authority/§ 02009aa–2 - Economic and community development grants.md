@@ -42,5 +42,5 @@ The Authority may approve grants to States and public and nonprofit entities for
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(3). Pub. L. 107–171 struck out heading and text of par. (3). Text read as follows: “Notwithstanding any provision of law limiting the Federal share in any grant program, funds appropriated to carry out this section may be used to increase a Federal share in a grant program, as the Authority determines appropriate.”
+<b>2002</b>—Subsec. (b)(3). Pub. L. 107–171 struck out heading and text of par. (3). Text read as follows: "Notwithstanding any provision of law limiting the Federal share in any grant program, funds appropriated to carry out this section may be used to increase a Federal share in a grant program, as the Authority determines appropriate."
 

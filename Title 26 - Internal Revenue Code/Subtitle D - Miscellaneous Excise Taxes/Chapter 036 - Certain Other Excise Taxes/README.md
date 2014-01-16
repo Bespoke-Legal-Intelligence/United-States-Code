@@ -23,7 +23,7 @@
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–34, title XIV, §1432(b)(2), Aug. 5, 1997, 110 Stat. 1050, struck out item for subchapter F “Tax on removal of hard mineral resources from deep seabed”.
+<b>1997</b>—Pub. L. 105–34, title XIV, §1432(b)(2), Aug. 5, 1997, 110 Stat. 1050, struck out item for subchapter F "Tax on removal of hard mineral resources from deep seabed".
 
 <b>1989</b>—Pub. L. 101–239, title VII, §7504(b), Dec. 19, 1989, 103 Stat. 2363, added item for subchapter B.
 

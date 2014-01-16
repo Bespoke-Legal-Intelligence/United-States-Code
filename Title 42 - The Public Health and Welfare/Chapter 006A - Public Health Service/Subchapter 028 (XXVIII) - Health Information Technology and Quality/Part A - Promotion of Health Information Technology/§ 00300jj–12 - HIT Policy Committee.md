@@ -138,7 +138,7 @@ There is established a HIT Policy Committee to make policy recommendations to th
 
 #### (A) In general
 
-&emsp;&emsp;The terms of the members of the HIT Policy Committee shall be for 3 years, except that the Comptroller General shall designate staggered terms for the members first appointed.
+&emsp;&emsp;The terms of the members of the HIT Policy Committee shall be for 3 years, exceptthat the Comptroller General shall designate staggered terms for the members first appointed.
 
 #### (B) Vacancies
 

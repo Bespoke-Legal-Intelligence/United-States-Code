@@ -16,7 +16,7 @@
 
 &emsp;(2) of an appeal from a judgment in a civil action for patent infringement which would otherwise be appealable to the United States Court of Appeals for the Federal Circuit and is final except for an accounting.
 
-(d)(1) When the chief judge of the Court of International Trade issues an order under the provisions of section 256(b) of this title, or when any judge of the Court of International Trade, in issuing any other interlocutory order, includes in the order a statement that a controlling question of law is involved with respect to which there is a substantial ground for difference ofopinion and that an immediate appeal from that order may materially advance the ultimate termination of the litigation, the United States Court of Appeals for the Federal Circuit may, in its discretion, permit an appeal to be taken from such order, if application is made to that Court within ten days after the entry of such order.
+(d)(1) When the chief judge of the Court of International Trade issues an order under the provisions of section 256(b) of this title, or when any judge of the Court of International Trade, in issuing any other interlocutory order, includes in the order a statement that a controlling question of law is involved with respect to which there is a substantial ground for difference of opinion and that an immediate appeal from that order may materially advance the ultimate termination of the litigation, the United States Court of Appeals for the Federal Circuit may, in its discretion, permit an appeal to be taken from such order, if application is made to that Court within ten days after the entry of such order.
 
 (2) When the chief judge of the United States Court of Federal Claims issues an order under section 798(b) of this title, or when any judge of the United States Court of Federal Claims, in issuing an interlocutory order, includes in the order a statement that a controlling question of law is involved with respect to which there is a substantial ground for difference of opinion and that an immediate appeal from that order may materially advance the ultimate termination of the litigation, the United States Court of Appeals for the Federal Circuit may, in its discretion, permit an appeal to be taken from such order, if application is made to that Court within ten days after the entry of such order.
 
@@ -38,21 +38,21 @@ Section consolidates sections 225(b), 227 and part of 227a of title 28, U.S.C., 
 
 The second paragraph of section 225(b) of title 28, U.S.C., 1940 ed., relating to review of decisions of the district courts, under section 9 of the Railway Labor Act (section 159 of title 45), was omitted as covered by section 1291 of this title.
 
-Words in section 227 of title 28, U.S.C., 1940 ed., “or decree,” after “interlocutory order,” were deleted, in view of Rule 65 of the Federal Rules of Civil Procedure, using only the word “order.”
+Words in section 227 of title 28, U.S.C., 1940 ed., "or decree," after "interlocutory order," were deleted, in view of Rule 65 of the Federal Rules of Civil Procedure, using only the word "order."
 
 Provisions of sections 227 and 227a of title 28, U.S.C., 1940 ed., relating to stay of proceedings pending appeal were omitted as superseded by Federal Rules of Civil Procedure, Rule 73.
 
 Provisions of section 227 of title 28, U.S.C., 1940 ed., requiring an additional bond by the district court as a condition of appeal were omitted in view of Federal Rules of Civil Procedure, Rule 73.
 
-Words in section 227 of title 28, U.S.C., 1940 ed., “and sections 346 and 347 of this title shall apply to such cases in the circuit courts of appeals as to other cases therein,” at the end of the first sentence of section 227 of title 28, U.S.C., 1940 ed., were deleted as fully covered by section 1254 of this title, applicable to any case in a court of appeals. Other procedural provisions of said section 227 were omitted as covered by section 2101 et seq. of this title.
+Words in section 227 of title 28, U.S.C., 1940 ed., "and sections 346 and 347 of this title shall apply to such cases in the circuit courts of appeals as to other cases therein," at the end of the first sentence of section 227 of title 28, U.S.C., 1940 ed., were deleted as fully covered by section 1254 of this title, applicable to any case in acourt of appeals. Other procedural provisions of said section 227 were omitted as covered by section 2101 et seq. of this title.
 
-In subsection (4), which is based on section 227a of title 28, U.S.C., 1940 ed., words “civil actions” were substituted for “suits in equity” and word “judgments” was substituted for “decree,” in view of Rules 2 and 54 of the Federal Rules of Civil Procedure.
+In subsection (4), which is based on section 227a of title 28, U.S.C., 1940 ed., words "civil actions" were substituted for "suits in equity" and word "judgments" was substituted for "decree," in view of Rules 2 and 54 of the Federal Rules of Civil Procedure.
 
 The provision of sections 227 and 227a of title 28, U.S.C., 1940 ed., that appeal must be taken within thirty days after entry of order, decree or judgment is incorporated in section 2107 of this title.
 
 The provisions of section 227a of title 28, U.S.C., 1940 ed., relating to stay of proceedings pending appeal, were omitted as superseded by Rule 73 of the Federal Rules of Civil Procedure.
 
-The district courts for the districts of Hawaii and Puerto Rico are embraced in the term “district courts of the United States.” (See definitive section 451 of this title.) Consequently the specific reference in section 225 of title 28, U.S.C., 1940 ed., to “the United States district courts for Hawaii” was omitted.
+The district courts for the districts of Hawaii and Puerto Rico are embraced in the term "district courts of the United States." (See definitive section 451 of this title.) Consequently the specific reference in section 225 of title 28, U.S.C., 1940 ed., to "the United States district courts for Hawaii" was omitted.
 
 The District Court for the District of Puerto Rico is not enumerated in section 225(b) of title 28, U.S.C., 1940 ed., nevertheless subsection (2) of the revised section does not except such court. Thus in conformity with the last sentence of section 864, title 48, U.S.C., 1940 ed. For distribution of said section 864, see Distribution Table.
 
@@ -60,21 +60,21 @@ Section 61 of title 7 of the Canal Zone Code is also incorporated in sections 12
 
 #### Amendments
 
-<b>1992</b>—Subsec. (d)(2). Pub. L. 102–572, §§902(b)(1), 906(c), substituted “When the chief judge of the United States Court of Federal Claims issues an order under section 798(b) of this title, or when any judge of the United States Court of Federal Claims” for “When any judge of the United States Claims Court”.
+<b>1992</b>—Subsec. (d)(2). Pub. L. 102–572, §§902(b)(1), 906(c), substituted "When the chief judge of the United States Court of Federal Claims issues an order under section 798(b) of this title, or when any judge of the United States Court of Federal Claims" for "When any judge of the United States Claims Court".
 
-Subsec. (d)(3). Pub. L. 102–572, §902(b)(2), substituted “Court of Federal Claims” for “Claims Court” in two places.
+Subsec. (d)(3). Pub. L. 102–572, §902(b)(2), substituted "Court of Federal Claims" for "Claims Court" in two places.
 
-Subsec. (d)(4). Pub. L. 102–572, §902(b), substituted “United States Court of Federal Claims” for “United States Claims Court” in subpar. (A) and “Court of Federal Claims” for “Claims Court” in two places in subpar. (B).
+Subsec. (d)(4). Pub. L. 102–572, §902(b), substituted "United States Court of Federal Claims" for "United States Claims Court" in subpar. (A) and "Court of Federal Claims" for "Claims Court" in two places in subpar. (B).
 
 Subsec. (e). Pub. L. 102–572, §101, added subsec. (e).
 
 <b>1988</b>—Subsec. (d)(4). Pub. L. 100–702 added par. (4).
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–620, §412(a), inserted “which would have jurisdiction of an appeal of such action” after “The Court of Appeals”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–620, §412(a), inserted "which would have jurisdiction of an appeal of such action" after "The Court of Appeals".
 
-Subsec. (c)(1). Pub. L. 98–620, §412(b), inserted “or (b)” after “(a)”.
+Subsec. (c)(1). Pub. L. 98–620, §412(b), inserted "or (b)" after "(a)".
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–164, §125(a)(1), substituted “Except as provided in subsections (c) and (d) of this section, the courts” for “The courts” in introductory provisions.
+<b>1982</b>—Subsec. (a). Pub. L. 97–164, §125(a)(1), substituted "Except as provided in subsections (c) and (d) of this section, the courts" for "The courts" in introductory provisions.
 
 Subsec. (a)(4). Pub. L. 97–164, §125(a)(2), (3), struck out par. (4) which related to judgments in civil actions for patent infringement which were final except for accounting.
 
@@ -94,7 +94,7 @@ Amendment by sections 902(b) and 906(c) of Pub. L. 102–572 effective Oct. 29, 
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–702, title V, §502, Nov. 19, 1988, 102 Stat. 4652, provided that: “The amendment made by section 501 \[amending this section\] shall apply to any action commenced in the district court on or after the date of enactment of this title \[Nov. 19, 1988\].”
+Pub. L. 100–702, title V, §502, Nov. 19, 1988, 102 Stat. 4652, provided that: "The amendment made by section 501 \[amending this section\] shall apply to any action commenced in the district court on or after the date of enactment of this title \[Nov. 19, 1988\]."
 
 #### Effective Date of 1982 Amendment
 
@@ -106,5 +106,5 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska int
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 3831 and 3841 to 3843 of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 3831 and 3841 to 3843 of Title 22, Foreign Relations and Intercourse.
 

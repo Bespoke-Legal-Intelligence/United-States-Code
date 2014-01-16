@@ -6,9 +6,9 @@ In any criminal proceeding under section 1131 of this title, based on any act or
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–34, which directed the amendment of cl. (2)(B) by substituting “annual reports” for “plan descriptions, annual reports,”, was executed by making the substitution for “plan description, annual reports,” to reflect the probable intent of Congress.
+<b>1997</b>—Pub. L. 105–34, which directed the amendment of cl. (2)(B) by substituting "annual reports" for "plan descriptions, annual reports,", was executed by making the substitution for "plan description, annual reports," to reflect the probable intent of Congress.
 
-<b>1989</b>—Pub. L. 101–239 substituted “act or omission” for “act of omission” before “complained of”.
+<b>1989</b>—Pub. L. 101–239 substituted "act or omission" for "act of omission" before "complained of".
 
 #### Effective Date of 1989 Amendment
 

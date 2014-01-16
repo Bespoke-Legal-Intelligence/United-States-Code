@@ -1,6 +1,6 @@
 ### §671. Inspection services; refusal or withdrawal; hearing; business unfitness based upon certain convictions; other provisions for withdrawal of services unaffected; responsible connection with business; finality of Secretary's actions; judicial review; record
 
-The Secretary may (for such period, or indefinitely, as he deems necessary to effectuate thepurposes of this chapter) refuse to provide, or withdraw, inspection service under subchapter I of this chapter with respect to any establishment if he determines, after opportunity for a hearing is accorded to the applicant for, or recipient of, such service, that such applicant or recipient is unfit to engage in any business requiring inspection under subchapter I because the applicant or recipient, or anyone responsibly connected with the applicant or recipient, has been convicted, in any Federal or State court, of (1) any felony, or (2) more than one violation of any law, other than a felony, based upon the acquiring, handling, or distributing of unwholesome, mislabeled, or deceptively packaged food or upon fraud in connection with transactions in food. This section shall not affect in any way other provisions of this chapter for withdrawal of inspection services under subchapter I from establishments failing to maintain sanitary conditions or to destroy condemned carcasses, parts, meat or meat food products.
+The Secretary may (for such period, or indefinitely, as he deems necessary to effectuate the purposes of this chapter) refuse to provide, or withdraw, inspection service under subchapter I of this chapter with respect to any establishment if he determines, after opportunity for a hearing is accorded to the applicant for, or recipient of, such service, that such applicant or recipient is unfit to engage in any business requiring inspection under subchapter I because the applicant or recipient, or anyone responsibly connected with the applicant or recipient, has been convicted, in any Federal or State court, of (1) any felony, or (2) more than one violation of any law, other than a felony, based upon the acquiring, handling, or distributing of unwholesome, mislabeled, or deceptively packaged food or upon fraud in connection with transactions in food. This section shall not affect in any way other provisions of this chapter for withdrawal of inspection services under subchapter I from establishments failing to maintain sanitary conditions or to destroy condemned carcasses, parts, meat or meat food products.
 
 For the purpose of this section a person shall be deemed to be responsibly connected with the business if he was a partner, officer, director, holder, or owner of 10 per centum or more of its voting stock or employee in a managerial or executive capacity.
 
@@ -10,9 +10,9 @@ The determination and order of the Secretary with respect thereto under this sec
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–641, §403(b)(1), (2)(B), (C), temporarily designated provisions which related to authority to refuse or withdraw inspection service as subsec. (a), struck out “any felony, or (2)” after “of (1)”, and inserted “or (2) any felony” after “transactions in food”. See Effective and Termination Dates of 1986 Amendment note below.
+<b>1986</b>—Subsec. (a). Pub. L. 99–641, §403(b)(1), (2)(B), (C), temporarily designated provisions which related to authority to refuse or withdraw inspection service as subsec. (a), struck out "any felony, or (2)" after "of (1)", and inserted "or (2) any felony" after "transactions in food". See Effective and Termination Dates of 1986 Amendment note below.
 
-Pub. L. 99–641, §403(b)(2)(A), which directed that subsec. (a) be amended by substituting “applicant for” for “applicant, for”, could not be executed because “applicant, for” does not appear.
+Pub. L. 99–641, §403(b)(2)(A), which directed that subsec. (a) be amended by substituting "applicant for" for "applicant, for", could not be executed because "applicant, for" does not appear.
 
 Subsecs. (b) to (e). Pub. L. 99–641, §403(b)(6), temporarily added subsecs. (b) to (e). See Effective and Termination Dates of 1986 Amendment note below.
 
@@ -20,7 +20,7 @@ Subsec. (f). Pub. L. 99–641, §403(b)(3), temporarily designated provisions wh
 
 Subsec. (g). Pub. L. 99–641, §403(b)(4), temporarily designated provisions which related to responsible connection with business as subsec. (g). See Effective and Termination Dates of 1986 Amendment note below.
 
-Subsec. (h). Pub. L. 99–641, §403(b)(5), temporarily designated provisions which related to finality of determination by Secretary and to judicial review as subsec. (h), substituted “Except as provided in subsection (e)(2) of this section, the determination” for “The determination” and “subsection (e) of this section” for “this section”. See Effective and Termination Dates of 1986 Amendment note below.
+Subsec. (h). Pub. L. 99–641, §403(b)(5), temporarily designated provisions which related to finality of determination by Secretary and to judicial review as subsec. (h), substituted "Except as provided in subsection (e)(2) of this section, the determination" for "The determination" and "subsection (e) of this section" for "this section". See Effective and Termination Dates of 1986 Amendment note below.
 
 #### Effective and Termination Dates of 1986 Amendment
 
@@ -32,5 +32,5 @@ Subchapter effective Dec. 15, 1967, see section 20 of Pub. L. 90–201, set out 
 
 #### Construction and Effect of Amendments by Pub. L. 99–641
 
-For provisions relating to construction and effect of temporary amendments by section 403 of Pub. L. 99–641, see sections 403(e) and 404 of Pub. L. 99–641, set out as notes entitled “Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program” and “Savings Provision”, respectively, under section 609 of this title.
+For provisions relating to construction and effect of temporary amendments by section 403 of Pub. L. 99–641, see sections 403(e) and 404 of Pub. L. 99–641, set out as notes entitled "Inspection Services for Establishments Not Participating in Total Plant Quality-Control Program" and "Savings Provision", respectively, under section 609 of this title.
 

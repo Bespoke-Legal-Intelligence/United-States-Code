@@ -26,7 +26,7 @@ Audit Independence.—The Small Business Ombudsman of a defense audit agency sha
 
 (d)
 
-Defense Audit Agency Defined.—In this section, the term “defense audit agency” means the Defense Contract Audit Agency and the Defense Contract Management Agency.
+Defense Audit Agency Defined.—In this section, the term "defense audit agency" means the Defense Contract Audit Agency and the Defense Contract Management Agency.
 
 (Added Pub. L. 112–239, div. A, title XVI, §1612(a), Jan. 2, 2013, 126 Stat. 2064.)
 

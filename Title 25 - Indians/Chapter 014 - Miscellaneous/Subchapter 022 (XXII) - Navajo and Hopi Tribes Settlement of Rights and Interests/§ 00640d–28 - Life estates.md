@@ -58,5 +58,5 @@ Subsec. (a) provided for the repeal of section 640d–4(a)(4) of this title.
 
 #### Amendments
 
-<b>1988</b>—Subsecs. (b) to (d), (f), (k). Pub. L. 100–666 substituted “Commissioner” for “Commission” wherever appearing.
+<b>1988</b>—Subsecs. (b) to (d), (f), (k). Pub. L. 100–666 substituted "Commissioner" for "Commission" wherever appearing.
 

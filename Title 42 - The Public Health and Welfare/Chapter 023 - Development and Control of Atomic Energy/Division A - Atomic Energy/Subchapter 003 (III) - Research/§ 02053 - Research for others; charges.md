@@ -8,5 +8,5 @@ Where the Commission finds private facilities or laboratories are inadequate for
 
 <b>1971</b>—Pub. L. 92–84 substituted provisions authorizing the Commission to conduct research for other persons for the development of energy, for provisions authorizing the Commission to conduct research for other persons for the development of atomic energy.
 
-<b>1967</b>—Pub. L. 90–190 inserted provision which authorized the Commission, to the extent the Commission made certain determinations, to assist other persons on the fields of protection of public health and safety by conducting for such persons, through the facilities of the Commission, research and development or training activities and studies, and substituted “the activities and studies referred to in this section” for “such activities and studies”.
+<b>1967</b>—Pub. L. 90–190 inserted provision which authorized the Commission, to the extent the Commission made certain determinations, to assist other persons on the fields of protection of public health and safety by conducting for such persons, through the facilities of the Commission, research and development or training activities and studies, and substituted "the activities and studies referred to in this section" for "such activities and studies".
 

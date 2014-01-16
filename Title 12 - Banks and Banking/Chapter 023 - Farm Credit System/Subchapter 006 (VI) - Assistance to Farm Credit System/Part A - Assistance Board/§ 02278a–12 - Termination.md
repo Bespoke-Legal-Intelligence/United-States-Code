@@ -6,7 +6,7 @@ The Assistance Board and the authority provided to the Assistance Board by this 
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–399 inserted “to the Assistance Board” after “provided”.
+<b>1988</b>—Pub. L. 100–399 inserted "to the Assistance Board" after "provided".
 
 #### Effective Date of 1988 Amendment
 

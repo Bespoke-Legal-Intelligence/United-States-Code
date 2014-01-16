@@ -4,23 +4,23 @@
 
 Program Required.—(1) The Secretary of Defense, acting through the Under Secretary of Defense for Acquisition, Technology, and Logistics, shall carry out a program to provide opportunities for the increased introduction of innovative and cost-saving technology in acquisition programs of the Department of Defense.
 
-(2) The program, to be known as the Defense Acquisition Challenge Program (hereinafter in this section referred to as the “Challenge Program”), shall provide any person or activity within or outside the Department of Defense with the opportunity to propose alternatives, to be known as challenge proposals, at the component, subsystem, or system level of an existing Department of Defense acquisition program that would result in improvements in performance, affordability, manufacturability, or operational capability of that acquisition program.
+(2) The program, to be known as the Defense Acquisition Challenge Program (hereinafter in this section referred to as the "Challenge Program"), shall provide any person or activity within or outside the Department of Defense with the opportunity to propose alternatives, to be known as challenge proposals, at the component, subsystem, or system level of an existing Department of Defense acquisition program that would result in improvements in performance, affordability, manufacturability, or operational capability of that acquisition program.
 
 (b)
 
-Panels.—The Under Secretary shall establish one or more panels of highly qualified scientists and engineers (hereinafter in this section referred to as “Panels”) to provide preliminary evaluations of challenge proposals under subsection (c).
+Panels.—The Under Secretary shall establish one or more panels of highly qualified scientists and engineers (hereinafter in this section referred to as "Panels") to provide preliminary evaluations of challenge proposals under subsection (c).
 
 (c)
 
 Preliminary Evaluation by Panels.—(1) Under procedures prescribed by the Under Secretary, a person or activity within or outside the Department of Defense may submit challenge proposals to a Panel, through the unsolicited proposal process or in response to a broad agency announcement.
 
-(2) The Under Secretary shall establish procedures pursuant to which appropriate officials of the Department of Defense may identify proposals submitted through the unsolicited proposalprocess as challenge proposals. The procedures shall provide for the expeditious referral of such proposals to a Panel for preliminary evaluation under this subsection.
+(2) The Under Secretary shall establish procedures pursuant to which appropriate officials of the Department of Defense may identify proposals submitted through the unsolicited proposal process as challenge proposals. The procedures shall provide for the expeditious referral of such proposals to a Panel for preliminary evaluation under this subsection.
 
 (3) The Under Secretary shall issue on an annual basis not less than one such broad agency announcement inviting interested parties to submit challenge proposals. Such announcements may also identify particular technology areas and acquisition programs that will be given priority in the evaluation of challenge proposals.
 
 (4)(A) The Under Secretary shall establish procedures for the prompt issuance of a solicitation for challenge proposals addressing—
 
-&emsp;(i) any acquisition program for which, since the last such announcement, the Secretary concerned has determined under section 2433(d) of this title that the program's acquisition unit cost or procurement unit cost has increased by a percentage equal to or greater than the critical cost growth threshold for the program (in this section referred to as a “critical cost growth threshold breach”); and
+&emsp;(i) any acquisition program for which, since the last such announcement, the Secretary concerned has determined under section 2433(d) of this title that the program's acquisition unit cost or procurement unit cost has increased by a percentage equal to or greater than the critical cost growth threshold for the program (in this section referred to as a "critical cost growth threshold breach"); and
 
 &emsp;(ii) any design, engineering, manufacturing, or technology integration issues, in accordance with the assessment required by section 2433(e)(2)(A) of this title, that have contributed significantly to the cost growth of such program.
 
@@ -38,7 +38,7 @@ Preliminary Evaluation by Panels.—(1) Under procedures prescribed by the Under
 
 &emsp;(A) may establish procedures to ensure that the Challenge Program does not become an avenue for the repetitive submission of proposals that have been previously reviewed and found not to have merit; and
 
-&emsp;(B) may establish procedures to ensure that the Challenge Program establishes appropriate priorities for proposals from businesses that are not major contractors with the Department of Defense.
+&emsp;(B) may establish procedures to ensure that the Challenge Program establishes appropriatepriorities for proposals from businesses that are not major contractors with the Department of Defense.
 
 (7) If a Panel determines that a challenge proposal satisfies each of the criteria specified in paragraph (5), the person or activity submitting that challenge proposal shall be provided an opportunity to submit such challenge proposal for a full review and evaluation under subsection (d).
 
@@ -66,7 +66,7 @@ Action Upon Unfavorable Full Review and Evaluation.—Under procedures prescribe
 
 &emsp;(1) The office carrying out the full review and evaluation shall provide to the Panel that conducted the preliminary evaluation a statement containing a summary of the rationale for the unfavorable evaluation.
 
-&emsp;(2) If the Panel disagrees with the rationale provided under paragraph (1), the Panel mayreturn the challenge proposal to the office for further consideration.
+&emsp;(2) If the Panel disagrees with the rationale provided under paragraph (1), the Panel may return the challenge proposal to the office for further consideration.
 
 (g)
 
@@ -76,7 +76,7 @@ Access to Technical Resources.—(1) Under procedures established by the Under S
 
 (h)
 
-Conflicts of Interest and Confidentiality.—In carrying out each preliminary evaluation under subsection (c) and full review under subsection (d), the Under Secretary shall ensure the elimination of conflicts of interest and that the identity of any person or activity submitting a challenge proposal is not disclosed outside the Federal Government, prior to contract award, without the consent of the person or activity. For purposes of the proceeding sentence, the term “Federal Government” includes both employees of the Federal Government and employees of Federal Government contractors providing advisory and assistance services as described in part 37 of the Federal Acquisition Regulation.
+Conflicts of Interest and Confidentiality.—In carrying out each preliminary evaluation under subsection (c) and full review under subsection (d), the Under Secretary shall ensure the elimination of conflicts of interest and that the identity of any person or activity submitting a challenge proposal is not disclosed outside the Federal Government, prior to contract award, without the consent of the person or activity. For purposes of the proceeding sentence, the term "Federal Government" includes both employees of the Federal Government and employees of Federal Government contractors providing advisory and assistance services as described in part 37 of the Federal Acquisition Regulation.
 
 (i)
 
@@ -84,7 +84,7 @@ Limitation on Use of Funds.—Funds made available for the Challenge Program may
 
 (j)
 
-System Defined.—In this section, the term “system”—
+System Defined.—In this section, the term "system"—
 
 &emsp;(1) means—
 
@@ -120,21 +120,21 @@ Definitions.—In this subsection:
 
 &emsp;&emsp;(A)
 
-Nondevelopmental item.—The term “nondevelopmental item” has the meaning given that term in section 4 <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
+Nondevelopmental item.—The term "nondevelopmental item" has the meaning given that term in section 4 <sup>1</sup> of the Office of Federal Procurement Policy Act (41 U.S.C. 403).
 
 &emsp;&emsp;(B)
 
-Covered acquisition program.—The term “covered acquisition program” means any acquisition program of the Department of Defense other than a major defense acquisition program, but does not include any contract awarded under an exception to competitive acquisition authorized by the Small Business Act (15 U.S.C. 631 et seq.) <sup>2</sup>
+Covered acquisition program.—The term "covered acquisition program" means any acquisition program of the Department of Defense other than a major defense acquisition program, but does not include any contract awarded under an exception to competitive acquisition authorized by the Small Business Act (15 U.S.C. 631 et seq.).
 
 &emsp;&emsp;(C)
 
-Level of performance.—The term “level of performance”, with respect to a nondevelopmental item, means the extent to which the item demonstrates required item functional characteristics.
+Level of performance.—The term "level of performance", with respect to a nondevelopmental item, means the extent to which the item demonstrates required item functional characteristics.
 
 &emsp;(5)
 
 Sunset.—The authority to carry out the pilot program under this subsection shall terminate on January 7, 2016.
 
-(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\], title VIII, §821, Oct. 14, 2008, 122 Stat. 4531; Pub. L. 111–383, div. A, title VIII, §827, Jan. 7, 2011, 124 Stat. 4270; Pub. L. 112–239, div. A, title X, §1076(e)(3), Jan. 2, 2013, 126 Stat. 1951.)
+(Added Pub. L. 107–314, div. A, title II, §243(a), Dec. 2, 2002, 116 Stat. 2495; amended Pub. L. 109–364, div. A, title II, §213(b), (d)–(g), Oct. 17, 2006, 120 Stat. 2121–2123; Pub. L. 110–417, \[div. A\], title VIII, §821, Oct. 14, 2008, 122 Stat. 4531; Pub. L. 111–383, div. A, title VIII, §827, Jan. 7, 2011, 124 Stat. 4270; Pub. L. 112–239, div. A, title X, §1076(e)(3), Jan. 2, 2013, 126 Stat. 1951; Pub. L. 113–66, div. A, title X, §1091(a)(10), Dec. 26, 2013, 127 Stat. 876.)
 
 #### References in Text
 
@@ -144,7 +144,9 @@ The Small Business Act, referred to in subsec. (k)(4)(B), is Pub. L. 85–536, �
 
 #### Amendments
 
-<b>2013</b>—Subsec. (k)(5). Pub. L. 112–239 substituted “January 7, 2016” for “the date that is five years after the date of the enactment of this Act”.
+<b>2013</b>—Subsec. (k)(4)(B). Pub. L. 113–66 inserted period at end.
+
+Subsec. (k)(5). Pub. L. 112–239 substituted "January 7, 2016" for "the date that is five years after the date of the enactment of this Act".
 
 <b>2011</b>—Subsecs. (j) to (l). Pub. L. 111–383 redesignated subsec. (l) as (j), added subsec. (k), and struck out former subsecs. (j) and (k) which related to annual report and termination of authority, respectively.
 
@@ -152,29 +154,27 @@ The Small Business Act, referred to in subsec. (k)(4)(B), is Pub. L. 85–536, �
 
 <b>2006</b>—Subsec. (c)(4), (5). Pub. L. 109–364, §213(b)(1), added par. (4) and redesignated former par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (c)(6). Pub. L. 109–364, §213(b)(1)(A), (d), redesignated par. (5) as (6) and amended it generally. Prior to amendment, par. (6) read as follows: “The Under Secretary may establish procedures to ensure that the Challenge Program does not become an avenue for the repetitive submission of proposals that have been previously reviewed and found not to have merit.” Former par. (6) redesignated (7).
+Subsec. (c)(6). Pub. L. 109–364, §213(b)(1)(A), (d), redesignated par. (5) as (6) and amended it generally. Prior to amendment, par. (6) read as follows: "The Under Secretary may establish procedures to ensure that the Challenge Program does not become an avenue for the repetitive submission of proposals that have been previously reviewed and found not to have merit." Former par. (6) redesignated (7).
 
-Subsec. (c)(7). Pub. L. 109–364, §213(b)(1)(A), (g)(1), redesignated par. (6) as (7) and substituted “paragraph (5)” for “paragraph (4)”.
+Subsec. (c)(7). Pub. L. 109–364, §213(b)(1)(A), (g)(1), redesignated par. (6) as (7) and substituted "paragraph (5)" for "paragraph (4)".
 
-Subsec. (d)(1). Pub. L. 109–364, §213(g)(2), substituted “subsection (c)(7)” for “subsection (c)(6)”.
+Subsec. (d)(1). Pub. L. 109–364, §213(g)(2), substituted "subsection (c)(7)" for "subsection (c)(6)".
 
-Subsec. (d)(2). Pub. L. 109–364, §213(g)(3), substituted “subsection (c)(5)” for “subsection (c)(4)” in introductory provisions.
+Subsec. (d)(2). Pub. L. 109–364, §213(g)(3), substituted "subsection (c)(5)" for "subsection (c)(4)" in introductory provisions.
 
-Subsec. (e)(1). Pub. L. 109–364, §213(g)(4), substituted “subsection (c)(5)” for “subsection (c)(4)”.
+Subsec. (e)(1). Pub. L. 109–364, §213(g)(4), substituted "subsection (c)(5)" for "subsection (c)(4)".
 
 Subsec. (e)(3). Pub. L. 109–364, §213(b)(2), added par. (3).
 
 Subsecs. (f), (g). Pub. L. 109–364, §213(b)(3), added subsec. (f) and redesignated former subsec. (f) as (g). Former subsec. (g) redesignated (h).
 
-Subsec. (h). Pub. L. 109–364, §213(b)(3)(A), (e), redesignated subsec. (g) as (h), substituted “Conflicts of Interest and Confidentiality” for “Elimination of Conflicts of Interest” in heading, substituted “conflicts of interest and that the identity of any person or activity submitting a challenge proposal is not disclosed outside the Federal Government, prior to contract award, without the consent of the person or activity” for “conflicts of interest”, and inserted at end “For purposes of the proceeding sentence, the term ‘Federal Government’ includes both employees of the Federal Government and employees of Federal Government contractors providing advisory and assistance services as described in part 37 of the Federal Acquisition Regulation.” Former subsec. (h) redesignated (i).
+Subsec. (h). Pub. L. 109–364, §213(b)(3)(A), (e), redesignated subsec. (g) as (h), substituted "Conflicts of Interest and Confidentiality" for "Elimination of Conflicts of Interest" in heading, substituted "conflicts of interest and that the identity of any person or activity submitting a challenge proposal is not disclosed outside the Federal Government, prior to contract award, without the consent of the person or activity" for "conflicts of interest", and inserted at end "For purposes of the proceeding sentence, the term 'Federal Government' includes both employees of the Federal Government and employees of Federal Government contractors providing advisory and assistance services as described in part 37 of the Federal Acquisition Regulation." Former subsec. (h) redesignated (i).
 
 Subsec. (i). Pub. L. 109–364, §213(b)(3)(A), redesignated subsec. (h) as (i). Former subsec. (i) redesignated (j).
 
-Subsec. (j). Pub. L. 109–364, §213(b)(3)(A), (4), redesignated subsec. (i) as (j) and substituted “The report shall also include a list of each challenge proposal that was determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but was not determined under a full review and evaluation to satisfy such criteria, together with a detailed rationale for the Department's determination that such criteria were not satisfied” for “No report is required for a fiscal year in which the Challenge Program is not carried out”. Former subsec. (j) redesignated (k).
+Subsec. (j). Pub. L. 109–364, §213(b)(3)(A), (4), redesignated subsec. (i) as (j) and substituted "The report shall also include a list of each challenge proposal that was determined by a Panel to satisfy each of the criteria specified in subsection (c)(5), but was not determined under a full review and evaluation to satisfy such criteria, together with a detailed rationale for the Department's determination that such criteria were not satisfied" for "No report is required for a fiscal year in which the Challenge Program is not carried out". Former subsec. (j) redesignated (k).
 
-Subsec. (k). Pub. L. 109–364, §213(b)(3)(A), (f), redesignated subsec. (j) as (k) and substituted “2012” for “2007”.
+Subsec. (k). Pub. L. 109–364, §213(b)(3)(A), (f), redesignated subsec. (j) as (k) and substituted "2012" for "2007".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a period.</i>
 

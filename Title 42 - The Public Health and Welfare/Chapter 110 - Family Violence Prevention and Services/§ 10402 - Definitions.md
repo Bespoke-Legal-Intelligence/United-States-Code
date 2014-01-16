@@ -4,19 +4,19 @@ In this chapter:
 
 #### (1) Alaska Native
 
-&emsp;The term “Alaska Native” has the meaning given the term “Native” in section 1602 of title 43.
+&emsp;The term "Alaska Native" has the meaning given the term "Native" in section 1602 of title 43.
 
 #### (2) Dating violence
 
-&emsp;The term “dating violence” has the meaning given such term in section 13925(a) of this title.
+&emsp;The term "dating violence" has the meaning given such term in section 13925(a) of this title.
 
 #### (3) Domestic violence
 
-&emsp;The term “domestic violence” has the meaning given such term in section 13925(a) of this title.
+&emsp;The term "domestic violence" has the meaning given such term in section 13925(a) of this title.
 
 #### (4) Family violence
 
-&emsp;The term “family violence” means any act or threatened act of violence, including any forceful detention of an individual, that—
+&emsp;The term "family violence" means any act or threatened act of violence, including any forceful detention of an individual, that—
 
 &emsp;&emsp;(A) results or threatens to result in physical injury; and
 
@@ -30,31 +30,31 @@ In this chapter:
 
 #### (5) Indian; Indian tribe; tribal organization
 
-&emsp;The terms “Indian”, “Indian tribe”, and “tribal organization” have the meanings given such terms in section 450b of title 25.
+&emsp;The terms "Indian", "Indian tribe", and "tribal organization" have the meanings given such terms in section 450b of title 25.
 
 #### (6) Native Hawaiian
 
-&emsp;The term “Native Hawaiian” has the meaning given the term in section 7517 of title 20.
+&emsp;The term "Native Hawaiian" has the meaning given the term in section 7517 of title 20.
 
 #### (7) Personally identifying information
 
-&emsp;The term “personally identifying information” has the meaning given the term in section 13925(a) of this title.
+&emsp;The term "personally identifying information" has the meaning given the term in section 13925(a) of this title.
 
 #### (8) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Health and Human Services.
+&emsp;The term "Secretary" means the Secretary of Health and Human Services.
 
 #### (9) Shelter
 
-&emsp;The term “shelter” means the provision of temporary refuge and supportive services in compliance with applicable State law (including regulation) governing the provision, on a regular basis, of shelter, safe homes, meals, and supportive services to victims of family violence, domestic violence, or dating violence, and their dependents.
+&emsp;The term "shelter" means the provision of temporary refuge and supportive services in compliance with applicable State law (including regulation) governing the provision, on a regular basis, of shelter, safe homes, meals, and supportive services to victims of family violence, domestic violence, or dating violence, and their dependents.
 
 #### (10) State
 
-&emsp;The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and, except as otherwise provided, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and, except as otherwise provided, Guam, American Samoa, the United States Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
 #### (11) State Domestic Violence Coalition
 
-&emsp;The term “State Domestic Violence Coalition” means a statewide nongovernmental nonprofit private domestic violence organization that—
+&emsp;The term "State Domestic Violence Coalition" means a statewide nongovernmental nonprofit private domestic violence organization that—
 
 &emsp;&emsp;(A) has a membership that includes a majority of the primary-purpose domestic violence service providers in the State;
 
@@ -62,11 +62,11 @@ In this chapter:
 
 &emsp;&emsp;(C) has as its purpose to provide education, support, and technical assistance to such service providers to enable the providers to establish and maintain shelter and supportive services for victims of domestic violence and their dependents; and
 
-&emsp;&emsp;(D) serves as an information clearinghouse, primary point of contact, and resource center on domestic violence for the State and supports the development of polices, protocols, and procedures to enhance domestic violence intervention and prevention in the State.
+&emsp;&emsp;(D) serves as an information clearinghouse, primary point of contact, and resource center on domestic violence for theState and supports the development of polices, protocols, and procedures to enhance domestic violence intervention and prevention in the State.
 
 #### (12) Supportive services
 
-&emsp;The term “supportive services” means services for adult and youth victims of family violence, domestic violence, or dating violence, and dependents exposed to family violence, domestic violence, or dating violence, that are designed to—
+&emsp;The term "supportive services" means services for adult and youth victims of family violence, domestic violence, or dating violence, and dependents exposed to family violence, domestic violence, or dating violence, that are designed to—
 
 &emsp;&emsp;(A) meet the needs of such victims of family violence, domestic violence, or dating violence, and their dependents, for short-term, transitional, or long-term safety; and
 
@@ -74,11 +74,11 @@ In this chapter:
 
 #### (13) Tribally designated official
 
-&emsp;The term “tribally designated official” means an individual designated by an Indian tribe, tribal organization, or nonprofit private organization authorized by an Indian tribe, to administer a grant under section 10409 of this title.
+&emsp;The term "tribally designated official" means an individual designated by an Indian tribe, tribal organization, or nonprofit private organization authorized by an Indian tribe, to administer a grant under section 10409 of this title.
 
 #### (14) Underserved populations
 
-&emsp;The term “underserved populations” has the meaning given the term in section 13925(a) of this title. For the purposes of this chapter, the Secretary has the same authority to determine whether a population is an underserved population as the Attorney General has under that section 13925(a) <sup>1</sup> of this title.
+&emsp;The term "underserved populations" has the meaning given the term in section 13925(a) of this title. For the purposes of this chapter, the Secretary has the same authority to determine whether a population is an underserved population as the Attorney General has under that section 13925(a) <sup>1</sup> of this title.
 
 (Pub. L. 98–457, title III, §302, as added Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3484.)
 

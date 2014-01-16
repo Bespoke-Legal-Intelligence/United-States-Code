@@ -1,11 +1,5 @@
 subpart 4—fees relating to animal drugs
 
-#### Termination of Subpart
-
-<i>For termination of subpart by section 5 of Pub. L. 108–130, see Termination Date note set out under section 379j–11 of this title.</i>
-
-<i>For savings provisions, see section 106 of Pub. L. 110–316, set out as a note under section 379j–11 of this title.</i>
-
 
 ---
 

@@ -44,5 +44,5 @@ June 29, 1936, ch. 858, title II, §211(e), (g), 49 Stat. 1989; Pub. L. 91–469
 
 46 App.:811 (3d sentence).
 
-In subsection (b), the words “existing on June 29, 1936, or thereafter built” are omitted as obsolete.
+In subsection (b), the words "existing on June 29, 1936, or thereafter built" are omitted as obsolete.
 

@@ -10,7 +10,7 @@ The activities carried out by a center under subsection (a) of this section may 
 
 #### (c) Priority regarding infants and children
 
-In carrying out the purpose described in subsection (a) of this section, the Secretary shall give priority to various populations of infants, young children, and their mothers.
+In carrying out the purpose described in subsection (a) of this section, the Secretary shallgive priority to various populations of infants, young children, and their mothers.
 
 #### (d) Authorization of appropriations
 

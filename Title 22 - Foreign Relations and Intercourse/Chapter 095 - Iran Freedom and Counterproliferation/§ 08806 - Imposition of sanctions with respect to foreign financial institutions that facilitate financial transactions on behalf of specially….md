@@ -28,7 +28,7 @@ The President may not impose sanctions under subsection (a) with respect to any 
 
 #### (A) In general
 
-&emsp;&emsp;Subsection (a) shall not apply with respect to a financial transaction described in subparagraph (B) conducted or facilitated by a foreign financial institution if, at the time of the transaction, the exception under section 8513a(d)(4)(D)(i) of this title applies to the country with primary jurisdiction over the foreign financial institution.
+&emsp;&emsp;Subsection (a) shall not apply with respect to a financial transaction described in subparagraph (B) conducted or facilitated by a foreign financial institution if, at the timeof the transaction, the exception under section 8513a(d)(4)(D)(i) of this title applies to the country with primary jurisdiction over the foreign financial institution.
 
 #### (B) Financial transactions described
 
@@ -69,4 +69,8 @@ Subsection (a) shall apply to a foreign financial institution that conducts or f
 &emsp;Each report submitted under paragraph (1)(B) shall be submitted in unclassified form, but may include a classified annex.
 
 (Pub. L. 112–239, div. A, title XII, §1247, Jan. 2, 2013, 126 Stat. 2013.)
+
+#### Delegation of Functions
+
+For delegation of certain functions and authorities vested in the President by this section, see Memorandum of President of the United States, June 3, 2013, 78 F.R. 35545, set out as a note under section 8801 of this title.
 

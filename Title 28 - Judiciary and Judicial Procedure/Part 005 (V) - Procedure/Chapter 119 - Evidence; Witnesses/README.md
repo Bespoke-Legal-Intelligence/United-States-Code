@@ -17,7 +17,7 @@
 
 <b>1978</b>—Pub. L. 95–539, §2(b), Oct. 28, 1978, 92 Stat. 2042, added items 1827 and 1828.
 
-<b>1970</b>—Pub. L. 91–563, §5(b), Dec. 19, 1970, 84 Stat. 1478, struck out item 1823 “United States officers and employees”.
+<b>1970</b>—Pub. L. 91–563, §5(b), Dec. 19, 1970, 84 Stat. 1478, struck out item 1823 "United States officers and employees".
 
 Pub. L. 91–452, title III, §301(b), Oct. 15, 1970, 84 Stat. 932, added item 1826.
 

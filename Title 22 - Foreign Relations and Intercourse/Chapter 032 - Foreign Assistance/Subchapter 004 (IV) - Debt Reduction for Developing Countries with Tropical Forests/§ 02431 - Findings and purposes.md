@@ -14,7 +14,7 @@ The Congress finds the following:
 
 &emsp;&emsp;(C) regulating hydrological cycles on which far-flung agricultural and coastal resources depend.
 
-&emsp;(3) International negotiations and assistance programs to conserve forest resources have proliferated over the past decade, but the rapid rate of tropical deforestation continues unabated.
+&emsp;(3) International negotiations and assistance programs to conserve forest resources have proliferated over the past decade, but therapid rate of tropical deforestation continues unabated.
 
 &emsp;(4) Developing countries with urgent needs for investment and capital for development have allocated a significant amount of their forests to logging concessions.
 
@@ -46,5 +46,5 @@ A prior section 802 of Pub. L. 87–195, pt. V, was classified to section 2432 o
 
 #### Short Title
 
-For short title of this subchapter as the “Tropical Forest Conservation Act of 1998”, see section 801 of Pub. L. 87–195, set out as a note under section 2151 of this title.
+For short title of this subchapter as the "Tropical Forest Conservation Act of 1998", see section 801 of Pub. L. 87–195, set out as a note under section 2151 of this title.
 

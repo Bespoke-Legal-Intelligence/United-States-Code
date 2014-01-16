@@ -18,7 +18,7 @@ Limits Based on Risk Factors.—
 
 &emsp;(1)
 
-Definition.—In this subsection, the term “cost” has the meaning given that term in section 502 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a).
+Definition.—In this subsection, the term "cost" has the meaning given that term in section 502 of the Federal Credit Reform Act of 1990 (2 U.S.C. 661a).
 
 &emsp;(2)
 
@@ -112,7 +112,7 @@ June 29, 1936, ch. 858, title XI, §1103(h), as added Pub. L. 104–239, §13(a)
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(C). See 2006 Amendment note below.
 
-Subsec. (c). Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(C), into this section by inserting “or Administrator” after “Secretary” wherever appearing. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (c). Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(C), into this section by inserting "or Administrator" after "Secretary" wherever appearing. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(C), which directed the amendment of section 1273(h) of the former Appendix to this title from which subsec. (c) of this section was derived, was repealed by Pub. L. 110–181, §3522(b).See 2008 Amendment note for subsec. (c) and Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(C), which directed the amendment of section 1273(h) of the former Appendix to this title from which subsec. (c) of this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsec. (c) and Historical and Revision notes above.
 

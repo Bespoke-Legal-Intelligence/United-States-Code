@@ -6,7 +6,7 @@ Definitions.—
 
 &emsp;(1)
 
-Appropriate federal official.—In this section, the term “appropriate Federal official” means—
+Appropriate federal official.—In this section, the term "appropriate Federal official" means—
 
 &emsp;&emsp;(A) the Attorney General of the United States; or
 
@@ -14,7 +14,7 @@ Appropriate federal official.—In this section, the term “appropriate Federal
 
 &emsp;(2)
 
-Appropriate state official.—In this section, the term “appropriate State official” means the person in the State who has the primary regulatory or supervisory responsibility with respect to the defendant, or who licenses or otherwise authorizes the defendant to conduct business in the State, if some or all of the matters alleged in the class action are subject to regulation by that person. If there is no primary regulator, supervisor, or licensing authority, or the matters alleged in the class action are not subject to regulation or supervision by that person, then the appropriate State official shall be the State attorney general.
+Appropriate state official.—In this section, the term "appropriate State official" means the person in the State who has the primary regulatory or supervisory responsibility with respect to the defendant, or who licenses or otherwise authorizes the defendant to conduct business in the State, if some or all of the matters alleged in the class action are subject to regulation by that person. If there is no primary regulator, supervisor, or licensing authority, or the matters alleged in the class action are not subject to regulation or supervision by that person, then the appropriate State official shall be the State attorney general.
 
 (b)
 
@@ -26,7 +26,7 @@ In General.—Not later than 10 days after a proposed settlement of a class acti
 
 &emsp;(3) any proposed or final notification to class members of—
 
-&emsp;&emsp;(A)(i) the members’ rights to request exclusion from the class action; or
+&emsp;&emsp;(A)(i) the members' rights to request exclusion from the class action; or
 
 &emsp;&emsp;(ii) if no right to request exclusion exists, a statement that no such right exists; and
 

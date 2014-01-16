@@ -70,7 +70,7 @@
 
 #### (I) Increase in Federal percentage assumed in initial risk corridor
 
-&emsp;&emsp;&emsp;&emsp;An equal percentage point increase in the percents applied under subparagraphs (B)(i), (B)(ii)(I), (C)(i), and (C)(ii)(I) of section 1395w–115(e)(2) of thistitle. In no case shall the application of previous sentence prevent the application of a higher percentage under section 1395w–115(e)(2)(B)(iii) <sup>1</sup> of this title.
+&emsp;&emsp;&emsp;&emsp;An equal percentage point increase in the percents applied under subparagraphs (B)(i), (B)(ii)(I), (C)(i), and (C)(ii)(I) of section 1395w–115(e)(2) of this title. In no case shall the application of previous sentence prevent the application of a higher percentage under section 1395w–115(e)(2)(B)(iii) <sup>1</sup> of this title.
 
 #### (II) Increase in Federal percentage assumed in second risk corridor
 
@@ -122,7 +122,7 @@
 
 #### (1) Review of information
 
-&emsp;The Secretary shall review the information filed under subsection (b) of this section for the purpose of conducting negotiations under paragraph (2).
+&emsp;The Secretary shall review the information filed under subsection (b) of this section forthe purpose of conducting negotiations under paragraph (2).
 
 #### (2) Negotiation regarding terms and conditions
 
@@ -206,11 +206,11 @@
 
 #### (A) Limited risk plan
 
-&emsp;&emsp;The term “limited risk plan” means a prescription drug plan that provides basic prescription drug coverage and for which the PDP sponsor includes a modification of risk level described in subparagraph (E) of subsection (b)(2) of this section in its bid submitted for the plan under such subsection. Such term does not include a fallback prescription drug plan.
+&emsp;&emsp;The term "limited risk plan" means a prescription drug plan that provides basic prescription drug coverage and for which the PDP sponsor includes a modification of risklevel described in subparagraph (E) of subsection (b)(2) of this section in its bid submitted for the plan under such subsection. Such term does not include a fallback prescription drug plan.
 
 #### (B) Full risk plan
 
-&emsp;&emsp;The term “full risk plan” means a prescription drug plan that is not a limited risk plan or a fallback prescription drug plan.
+&emsp;&emsp;The term "full risk plan" means a prescription drug plan that is not a limited risk plan or a fallback prescription drug plan.
 
 #### (g) Guaranteeing access to coverage
 
@@ -244,7 +244,7 @@
 
 #### (2) Eligible fallback entity
 
-&emsp;For purposes of this section, the term “eligible fallback entity” means, with respect to all fallback service areas in a PDP region for a contract period, an entity that—
+&emsp;For purposes of this section, the term "eligible fallback entity" means, with respect to all fallback service areas in a PDP region for a contract period, an entity that—
 
 &emsp;&emsp;(A) meets the requirements to be a PDP sponsor (or would meet such requirements but for the fact that the entity is not a risk-bearing entity); and
 
@@ -254,11 +254,11 @@
 
 #### (3) Fallback service area
 
-&emsp;For purposes of this subsection, the term “fallback service area” means, for a PDP region with respect to a year, any area within such region for which the Secretary determines before the beginning of the year that the access requirements of the first sentence of section 1395w–103(a) of this title will not be met for part D eligible individuals residing in the area for the year.
+&emsp;For purposes of this subsection, the term "fallback service area" means, for a PDP region with respect to a year, any area within such region for which the Secretary determines before the beginning of the year that the access requirements of the first sentence of section 1395w–103(a) of this title will not be met for part D eligible individuals residing in the area for the year.
 
 #### (4) Fallback prescription drug plan
 
-&emsp;For purposes of this part, the term “fallback prescription drug plan” means a prescription drug plan that—
+&emsp;For purposes of this part, the term "fallback prescription drug plan" means a prescription drug plan that—
 
 &emsp;&emsp;(A) only offers the standard prescription drug coverage and access to negotiated prices described in section 1395w–102(a)(1)(A) of this title and does not include any supplemental prescription drug coverage; and
 
@@ -280,7 +280,7 @@
 
 #### (i) Costs
 
-&emsp;&emsp;&emsp;The entity contains costs to the Medicare Prescription Drug Account and to part D eligible individuals enrolled in a fallback prescription drug plan offered by the entity through mechanisms such as generic substitution and price discounts.
+&emsp;&emsp;&emsp;The entity contains costs to the Medicare Prescription Drug Account and to part D eligible individuals enrolled in a fallback prescription drug plan offered bythe entity through mechanisms such as generic substitution and price discounts.
 
 #### (ii) Quality programs
 
@@ -312,7 +312,7 @@
 
 #### (ii) Limitation
 
-&emsp;&emsp;&emsp;A fallback prescription drug plan may be offered under a contract in an area for ayear only if that area is a fallback service area for that year.
+&emsp;&emsp;&emsp;A fallback prescription drug plan may be offered under a contract in an area for a year only if that area is a fallback service area for that year.
 
 #### (C) Entity not permitted to market or brand fallback prescription drug plans
 
@@ -320,7 +320,7 @@
 
 #### (h) Annual report on use of limited risk plans and fallback plans
 
-The Secretary shall submit to Congress an annual report that describes instances in which limited risk plans and fallback prescription drug plans were offered under subsections (f) and (g) of this section. The Secretary shall include in such report such recommendations as may be appropriate to limit the need for the provision of such plans and to maximize the assumption of financial risk under section subsection (f) of this section.
+The Secretary shall submit to Congress an annual report that describes instances in which limited risk plans and fallback prescription drug plans were offered under subsections (f) and (g) of this section. The Secretary shall include in such report such recommendations as may be appropriate to limit the need for the provision of such plans and to maximize the assumption of financial risk under section subsection <sup>3</sup> (f) of this section.
 
 #### (i) Noninterference
 
@@ -338,11 +338,11 @@ A PDP sponsor offering a prescription drug plan shall permit State Pharmaceutica
 
 #### References in Text
 
-Section 1395w–115(e)(2)(B)(iii) of this title, referred to in subsec. (b)(2)(E)(ii)(I), was in the original “section 1869D–15(e)(2)(B)(iii)”, and was translated as reading “section 1860D–15(e)(2)(B)(iii)”, meaning 1860D–15(e)(2)(B)(iii) of the Social Security Act, to reflect the probable intent of Congress, because the Social Security Act does not contain a section 1869D–15 and section 1395w–115(e)(2)(B)(iii) of this title provides for an application of a higher percentage for years 2006 and 2007.
+Section 1395w–115(e)(2)(B)(iii) of this title, referred to in subsec. (b)(2)(E)(ii)(I), was in the original "section 1869D–15(e)(2)(B)(iii)", and was translated as reading "section 1860D–15(e)(2)(B)(iii)", meaning 1860D–15(e)(2)(B)(iii) of the Social Security Act, to reflect the probable intent of Congress, because the Social Security Act does not contain a section 1869D–15 and section 1395w–115(e)(2)(B)(iii) of this title provides for an application of a higher percentage for years 2006 and 2007.
 
 #### Codification
 
-In subsec. (g)(1)(B)(iii), “section 132 of title 41” substituted for “section 4(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(5))” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (g)(1)(B)(iii), "section 132 of title 41" substituted for "section 4(5) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(5))" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
@@ -356,25 +356,27 @@ Amendment by Pub. L. 111–148 applicable to bids submitted for contract years b
 
 Pub. L. 108–173, title I, §107(a), Dec. 8, 2003, 117 Stat. 2169, provided that:
 
-“(1)
+"(1)
 
-In general.—The Secretary \[of Health and Human Services\] shall conduct a study that examines variations in per capita spending for covered part D drugs under part D of title XVIII of the Social Security Act \[this part\] among PDP regions and, with respect to such spending, the amount of such variation that is attributable to—
+In general.—The Secretary \[of Health and Human Services\] shall conduct a study that examinesvariations in per capita spending for covered part D drugs under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\] among PDP regions and, with respect to such spending, the amount of such variation that is attributable to—
 
-&emsp;“(A) price variations (described in section 1860D–15(c)(2) of such Act \[section 1395w–115(c)(2) of this title\]); and
+&emsp;"(A) price variations (described in section 1860D–15(c)(2) of such Act \[42 U.S.C. 1395w–115(c)(2)\]); and
 
-&emsp;“(B) differences in per capita utilization that is not taken into account in the health status risk adjustment provided under section 1860D–15(c)(1) of such Act \[section 1395w–115(c)(1) of this title\].
+&emsp;"(B) differences in per capita utilization that is not taken into account in the health status risk adjustment provided under section 1860D–15(c)(1) of such Act \[42 U.S.C. 1395w–115(c)(1)\].
 
-“(2)
+"(2)
 
 Report and recommendations.—Not later than January 1, 2009, the Secretary shall submit to Congress a report on the study conducted under paragraph (1). Such report shall include—
 
-&emsp;“(A) information regarding the extent of geographic variation described in paragraph (1)(B);
+&emsp;"(A) information regarding the extent of geographic variation described in paragraph (1)(B);
 
-&emsp;“(B) an analysis of the impact on direct subsidies under section 1860D–15(a)(1) of the Social Security Act \[section 1395w–115(a)(1) of this title\] in different PDP regions if such subsidies were adjusted to take into account the variation described in subparagraph (A); and
+&emsp;"(B) an analysis of the impact on direct subsidies under section 1860D–15(a)(1) of the Social Security Act \[42 U.S.C. 1395w–115(a)(1)\] in different PDP regions if such subsidies were adjusted to take into account the variation described in subparagraph (A); and
 
-&emsp;“(C) recommendations regarding the appropriateness of applying an additional geographic adjustment factor under section 1860D–15(c)(2) \[section 1395w–115(c)(2) of this title\] that reflects some or all of the variation described in subparagraph (A).”
+&emsp;"(C) recommendations regarding the appropriateness of applying an additional geographic adjustment factor under section 1860D–15(c)(2) \[42 U.S.C. 1395w–115(c)(2)\] that reflects some or all of the variation described in subparagraph (A)."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “(v)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "(v)".</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

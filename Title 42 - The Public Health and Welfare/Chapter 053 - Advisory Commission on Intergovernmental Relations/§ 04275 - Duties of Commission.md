@@ -16,7 +16,7 @@ Section was formerly classified to section 2375 of Title 5 prior to the general 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in cl. (3) of this section relating to submittal of an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113of Title 31, Money and Finance, and item 12 on page 153 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in cl. (3) of this section relating to submittal of an annual report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 12 on page 153 of House Document No. 103–7.
 
 #### Study and Report to Congress of Effect on Funds Available for Housing and State and Local Bond Markets of Full Deposit Insurance for Public Funds; Submission Date; Authorization of Appropriations
 

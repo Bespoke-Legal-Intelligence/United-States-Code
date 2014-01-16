@@ -36,13 +36,13 @@
 
 #### (d) Confidentiality of informant
 
-The identity of any person making a report described in subsection (b)(1) of this section shall not be disclosed, without the consent of the individual, to any person other than a court of competent jurisdiction or an employee of an Indian tribe, a State or the Federal Government who needs to know the information in the performance of such employee's duties.
+The identity of any person making a report described in subsection (b)(1) of this section shall not be disclosed, without the consent ofthe individual, to any person other than a court of competent jurisdiction or an employee of an Indian tribe, a State or the Federal Government who needs to know the information in the performance of such employee's duties.
 
 (Pub. L. 101–630, title IV, §404, Nov. 28, 1990, 104 Stat. 4547.)
 
 #### References in Text
 
-Section 3202(3) of this title, referred to in subsec. (c)(2)(A), was in the original “section 503(3)” meaning section 503(3) of Pub. L. 101–630, and was translated as reading section 403(3), which defines child abuse, to reflect the probable intent of Congress.
+Section 3202(3) of this title, referred to in subsec. (c)(2)(A), was in the original "section 503(3)" meaning section 503(3) of Pub. L. 101–630, and was translated as reading section 403(3), which defines child abuse, to reflect the probable intent of Congress.
 
 #### Codification
 

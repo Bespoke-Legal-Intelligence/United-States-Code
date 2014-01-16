@@ -42,5 +42,5 @@ This section shall not apply to a successor to the interests of, or a person who
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(2). Pub. L. 103–325 substituted “section 5322 or 5324 of title 31” for “section 5322 of title 31”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–325 substituted "section 5322 or 5324 of title 31" for "section 5322 of title 31".
 

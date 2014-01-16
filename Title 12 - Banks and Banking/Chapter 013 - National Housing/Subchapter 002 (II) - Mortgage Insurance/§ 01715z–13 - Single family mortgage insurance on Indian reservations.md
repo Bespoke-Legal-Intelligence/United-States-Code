@@ -18,7 +18,7 @@ Notwithstanding any other provision of this chapter, with respect to mortgages c
 
 #### (c) Lack of tribal or trust fund income
 
-The Secretary may not refuse to insure a mortgage under this section to an individualhome purchaser because there is no distributed tribal or trust fund income attributable to that purchaser.
+The Secretary may not refuse to insure a mortgage under this section to an individual home purchaser because there is no distributed tribal or trust fund income attributable to that purchaser.
 
 #### (d) Availability of tribal eviction procedures
 
@@ -40,7 +40,7 @@ Notwithstanding any other provision of this chapter, the insurance of a mortgage
 
 (3) In the event that any default is cured, the Secretary shall seek to reinstate the loan with the mortgagee or another mortgagee. For purposes of this paragraph, the Secretary may provide appropriate financial incentives to reinstate the loan commensurate with sound management of the General Insurance Fund.
 
-(4) If the Secretary determines that a mortgagor is not making a good-faith effort to cure a default, and that trust fund or tribal income is available under subsection (b)(3)(B) of this section, the Secretary shall commence proceedings for the garnishment of the mortgagor's distributed share of tribal or trust fund income in order to collect loan payments that are past due. Proceedings under this paragraph may be instituted in a tribal court, court of competent jurisdiction designated by the tribe, or Federal district court.
+(4) If the Secretary determines that a mortgagor is not making a good-faith effort to cure adefault, and that trust fund or tribal income is available under subsection (b)(3)(B) of this section, the Secretary shall commence proceedings for the garnishment of the mortgagor's distributed share of tribal or trust fund income in order to collect loan payments that are past due. Proceedings under this paragraph may be instituted in a tribal court, court of competent jurisdiction designated by the tribe, or Federal district court.
 
 (5) If the Secretary determines such action is necessary to protect the General Insurance Fund from undue loss, the Secretary may initiate foreclosure proceedings with respect to any mortgage acquired under this subsection. Such proceeding may take place in a tribal court, a court of competent jurisdiction, or Federal district court. Any such court shall have jurisdiction to convey to the Secretary the remaining life of a lease on the real property and to order eviction of the delinquent mortgagor.
 
@@ -48,15 +48,15 @@ Notwithstanding any other provision of this chapter, the insurance of a mortgage
 
 In the administration of this section, the Secretary shall establish a premium charge for insurance that will be sufficient to cover the full costs of the mortgage insurance program under this section, except that such charge may not exceed 3 percent per annum of the principal amount of the mortgage outstanding at any time. Not later than September 30, 1984, the Secretary shall determine and report to the Congress on the feasibility of eliminating any excess amount of the premium under this section over the premium under section 1709 of this title. In the event such premiums are not sufficient to cover the full costs of the mortgage insurance program under this section, the Secretary shall make recommendations to the Congress about changes to the program.
 
-#### (i) “Indian tribe” and “trust or otherwise restricted land” defined
+#### (i) "Indian tribe" and "trust or otherwise restricted land" defined
 
 For purposes of this section:
 
-&emsp;(1) The term “Indian tribe” means any Indian or Alaska native tribe, band, nation, or other organized group or community of Indians or Alaska natives recognized as eligible for the services provided to Indians or Alaska natives by the Secretary of the Interior because of its status as such an entity, or that was an eligible recipient under chapter 67 of title 31, prior to the repeal of such chapter.
+&emsp;(1) The term "Indian tribe" means any Indian or Alaska native tribe, band, nation, or other organized group or community of Indians or Alaska natives recognized as eligible for the services provided to Indians or Alaska natives by the Secretary of the Interior because of its status as such an entity, or that was an eligible recipient under chapter 67 of title 31, prior to the repeal of such chapter.
 
-&emsp;(2) The term “trust or otherwise restricted land” means (A) that area of land, as defined by the Secretary of the Interior, over which an Indian tribe is recognized by the United States as having governmental jurisdiction; (B) land held in trust for the benefit of any Indian tribe or individual or held by any Indian tribe or individual subject to a restriction by the United States against alienation; or (C) land acquired by Alaska natives under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] or any other land acquired by Alaska natives pursuant to statute by virtue of their unique status as Alaska natives.
+&emsp;(2) The term "trust or otherwise restricted land" means (A) that area of land, as defined by the Secretary of the Interior, over which an Indian tribe is recognized by the United States as having governmental jurisdiction; (B) land held in trust for the benefit of any Indian tribe or individual or held by any Indian tribe or individual subject to a restriction by the United States against alienation; or (C) land acquired by Alaska natives under the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\] or any other land acquired by Alaska natives pursuant to statute by virtue of their unique status as Alaska natives.
 
-(June 27, 1934, ch. 847, title II, §248, as added Pub. L. 98–181, title I \[title IV, §422\], Nov. 30, 1983, 97 Stat. 1214; amended Pub. L. 99–272, titleXIV, §14001(b)(7), Apr. 7, 1986, 100 Stat. 329; Pub. L. 100–242, title IV, §§413(c), 429(i), Feb. 5, 1988, 101 Stat. 1906, 1919; Pub. L. 110–289, div. B, title I, §2119(b), July 30, 2008, 122 Stat. 2835.)
+(June 27, 1934, ch. 847, title II, §248, as added Pub. L. 98–181, title I \[title IV, §422\], Nov. 30, 1983, 97 Stat. 1214; amended Pub. L. 99–272, title XIV, §14001(b)(7), Apr. 7, 1986, 100 Stat. 329; Pub. L. 100–242, title IV, §§413(c), 429(i), Feb. 5, 1988, 101 Stat. 1906, 1919; Pub. L. 110–289, div. B, title I, §2119(b), July 30, 2008, 122 Stat. 2835.)
 
 #### References in Text
 
@@ -68,21 +68,21 @@ The Alaska Native Claims Settlement Act, referred to in subsec. (i)(2), is Pub. 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (f). Pub. L. 110–289 substituted “Mutual Mortgage Insurance Fund” for “General Insurance Fund established in section 1735c of this title” and struck out “(1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)” after “except that”.
+<b>2008</b>—Subsec. (f). Pub. L. 110–289 substituted "Mutual Mortgage Insurance Fund" for "General Insurance Fund established in section 1735c of this title" and struck out "(1) all references in section 1710 of this title to the Mutual Mortgage Insurance Fund or the Fund shall be construed to refer to the General Insurance Fund; and (2)" after "except that".
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–242, §429(i)(1), substituted “land” for “lands”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–242, §429(i)(1), substituted "land" for "lands".
 
-Subsec. (a)(2). Pub. L. 100–242, §429(i)(2), substituted “on trust or otherwise restricted land” for “on trust lands or otherwise restricted land”.
+Subsec. (a)(2). Pub. L. 100–242, §429(i)(2), substituted "on trust or otherwise restricted land" for "on trust lands or otherwise restricted land".
 
-Subsec. (d). Pub. L. 100–242, §429(i)(3), substituted “trust or otherwise restricted land” for “tribal or trust land”.
+Subsec. (d). Pub. L. 100–242, §429(i)(3), substituted "trust or otherwise restricted land" for "tribal or trust land".
 
 Subsec. (f). Pub. L. 100–242, §413(c)(3), added subsec. (f). Former subsec. (f) redesignated (g).
 
-Subsec. (g). Pub. L. 100–242, §413(c)(1), (2), redesignated former subsec. (f) as (g) and substituted “General Insurance Fund” for “insurance fund” in pars. (3) and (5). Former subsec. (g) redesignated (h).
+Subsec. (g). Pub. L. 100–242, §413(c)(1), (2), redesignated former subsec. (f) as (g) and substituted "General Insurance Fund" for "insurance fund" in pars. (3) and (5). Former subsec. (g) redesignated (h).
 
 Subsecs. (h), (i). Pub. L. 100–242, §413(c)(2), redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 
-<b>1986</b>—Subsec. (h)(1). Pub. L. 99–272 substituted “was an eligible recipient under chapter 67 of title 31, prior to the repeal of such chapter” for “is an eligible recipient under chapter 67 of title 31”.
+<b>1986</b>—Subsec. (h)(1). Pub. L. 99–272 substituted "was an eligible recipient under chapter 67 of title 31, prior to the repeal of such chapter" for "is an eligible recipient under chapter 67 of title 31".
 
 #### Effective Date of 1986 Amendment
 

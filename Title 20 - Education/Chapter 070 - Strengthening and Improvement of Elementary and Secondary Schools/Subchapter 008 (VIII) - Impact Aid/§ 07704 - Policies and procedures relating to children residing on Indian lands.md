@@ -42,7 +42,7 @@ The Secretary shall—
 
 &emsp;&emsp;(ii) designate a hearing examiner to conduct the hearing; and
 
-&emsp;&emsp;(iii) notify the affected tribe or tribes and the local educational agency involved of the time, place, and nature of the hearing and send copies of the complaint to the local educational agency and the affected tribe or tribes.
+&emsp;&emsp;(iii) notify the affected tribe or tribes and the local educational agency involved of thetime, place, and nature of the hearing and send copies of the complaint to the local educational agency and the affected tribe or tribes.
 
 #### (2) Hearing
 

@@ -28,7 +28,7 @@
 
 #### (C) Definition of record
 
-&emsp;&emsp;In this section, the term “record” means—
+&emsp;&emsp;In this section, the term "record" means—
 
 &emsp;&emsp;&emsp;(i) all notices and other matter published in the Federal Register with respect to the regulation or order reviewed;
 

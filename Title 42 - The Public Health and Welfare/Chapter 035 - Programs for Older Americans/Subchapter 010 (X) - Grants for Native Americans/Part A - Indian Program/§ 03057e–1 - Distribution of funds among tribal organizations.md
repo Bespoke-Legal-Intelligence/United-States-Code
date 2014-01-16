@@ -6,7 +6,7 @@ Subject to the availability of appropriations to carry out this part, the amount
 
 #### (b) Use of additional amounts appropriated
 
-If the funds appropriated to carry out this part in a fiscal year subsequent to fiscal year 1991 exceed the funds appropriated to carry out this part in fiscal year 1991, then the amount of thegrant (if any) made under this part to a tribal organization for the subsequent fiscal year shall be—
+If the funds appropriated to carry out this part in a fiscal year subsequent to fiscal year 1991 exceed the funds appropriated to carry out this part in fiscal year 1991, then the amount of the grant (if any) made under this part to a tribal organization for the subsequent fiscal year shall be—
 
 &emsp;(1) increased by such amount as the Assistant Secretary considers to be appropriate, in addition to the amount of any increase required by subsection (a) of this section, so that the grant equals or more closely approaches the amount of the grant made under this part to the tribal organization for fiscal year 1980; or
 
@@ -16,7 +16,7 @@ If the funds appropriated to carry out this part in a fiscal year subsequent to 
 
 #### (1) Definition
 
-&emsp;In this subsection, the term “covered year” means fiscal year 2006 or a subsequent fiscal year.
+&emsp;In this subsection, the term "covered year" means fiscal year 2006 or a subsequent fiscal year.
 
 #### (2) Consortia of tribal organizations
 
@@ -32,9 +32,9 @@ If the funds appropriated to carry out this part in a fiscal year subsequent to 
 
 <b>2006</b>—Subsec. (c). Pub. L. 109–365 added subsec. (c).
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” in pars. (1) and (2).
+<b>1993</b>—Subsec. (b). Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner" in pars. (1) and (2).
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–365, title VI, §601(b), Oct. 17, 2006, 120 Stat. 2590, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to grants awarded under part A of title VI of the Older Americans Act of 1965 (42 U.S.C. 3057b et seq.) during the grant period beginning April 1, 2008, and all subsequent grant periods.”
+Pub. L. 109–365, title VI, §601(b), Oct. 17, 2006, 120 Stat. 2590, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to grants awarded under part A of title VI of the Older Americans Act of 1965 (42 U.S.C. 3057b et seq.) during the grant period beginning April 1, 2008, and all subsequent grant periods."
 

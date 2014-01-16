@@ -32,31 +32,31 @@ Section effective and applicable beginning upon Oct. 1, 1999, except as otherwis
 
 Pub. L. 105–276, title V, §587, Oct. 21, 1998, 112 Stat. 2650, provided that:
 
-“(a)
+"(a)
 
 Requirement.—The Secretary of Housing and Urban Development shall investigate all security contracts awarded by grantees under the Public and Assisted Housing Drug Elimination Act of 1990 (42 U.S.C. 11901 et seq.) that are public housing agencies that own or operate more than 4,500 public housing dwelling units—
 
-&emsp;“(1) to determine whether the contractors under such contracts have complied with all laws and regulations regarding prohibition of discrimination in hiring practices;
+&emsp;"(1) to determine whether the contractors under such contracts have complied with all laws and regulations regarding prohibition of discrimination in hiring practices;
 
-&emsp;“(2) to determine whether such contracts were awarded in accordance with the applicable laws and regulations regarding the award of such contracts;
+&emsp;"(2) to determine whether such contracts were awarded in accordance with the applicable laws and regulations regarding the award of such contracts;
 
-&emsp;“(3) to determine how many such contracts were awarded under emergency contracting procedures; and
+&emsp;"(3) to determine how many such contracts were awarded under emergency contracting procedures; and
 
-&emsp;“(4) to evaluate the effectiveness of the contracts.
+&emsp;"(4) to evaluate the effectiveness of the contracts.
 
-“(b)
+"(b)
 
 Report.—Not later than 180 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary shall complete the investigation required under subsection (a) and submit a report to the Congress regarding the findings under the investigation. With respect to each such contract, the report shall (1) state whether the contract was made and is operating, or was not made or is not operating, in full compliance with applicable laws and regulations, and (2) for each contract that the Secretary determines is in such compliance issue a certification of such compliance by the Secretary of Housing and Urban Development.
 
-“(c)
+"(c)
 
 Actions.—For each contract that is described in the report under subsection (b) as not made or not operating in full compliance with applicable laws and regulations, the Secretary of Housing and Urban Development shall promptly take any actions available under law or regulation that are necessary—
 
-&emsp;“(1) to bring such contract into compliance; or
+&emsp;"(1) to bring such contract into compliance; or
 
-&emsp;“(2) to terminate the contract.
+&emsp;"(2) to terminate the contract.
 
-“(d)
+"(d)
 
-Effective Date.—This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\].”
+Effective Date.—This section shall take effect on the date of the enactment of this Act \[Oct. 21, 1998\]."
 

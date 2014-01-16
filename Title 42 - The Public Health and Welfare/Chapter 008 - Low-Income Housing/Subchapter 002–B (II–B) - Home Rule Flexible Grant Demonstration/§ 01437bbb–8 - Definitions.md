@@ -4,9 +4,9 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (1) Jurisdiction
 
-&emsp;The term “jurisdiction” means—
+&emsp;The term "jurisdiction" means—
 
-&emsp;&emsp;(A) a unit of general local government (as such term is defined in section 12704 of thistitle) that has boundaries, for purposes of carrying out this subchapter, that—
+&emsp;&emsp;(A) a unit of general local government (as such term is defined in section 12704 of this title) that has boundaries, for purposes of carrying out this subchapter, that—
 
 &emsp;&emsp;&emsp;(i) wholly contain the area within which a public housing agency is authorized to operate; and
 
@@ -16,7 +16,7 @@ For purposes of this subchapter, the following definitions shall apply:
 
 #### (2) Participating jurisdiction
 
-&emsp;The term “participating jurisdiction” means, with respect to a period for which such an agreement is made, a jurisdiction that has entered into an agreement under section 1437bbb–5(b)(3) of this title to receive assistance pursuant to this subchapter for such fiscal year.
+&emsp;The term "participating jurisdiction" means, with respect to a period for which such an agreement is made, a jurisdiction that has entered into an agreement under section 1437bbb–5(b)(3) of this title to receive assistance pursuant to this subchapter for such fiscal year.
 
 (Sept. 1, 1937, ch. 896, title IV, §409, as added Pub. L. 105–276, title V, §561, Oct. 21, 1998, 112 Stat. 2624.)
 

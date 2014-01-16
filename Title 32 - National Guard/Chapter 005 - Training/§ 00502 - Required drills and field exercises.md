@@ -82,23 +82,23 @@ June 3, 1916, ch. 134, §92; restated June 3, 1924, ch. 244, §2; restated Oct. 
 
 32:62 (2d and 3d provisos of last sentence).
 
-In subsection (a), the words “including target practice” and “such company, troop, battery, or detachment shall have been \* \* \* from participation in any part thereof” are omitted as surplusage.
+In subsection (a), the words "including target practice" and "such company, troop, battery, or detachment shall have been \* \* \* from participation in any part thereof" are omitted as surplusage.
 
-In subsections (a) and (b), the word “troop” is omitted as obsolete.
+In subsections (a) and (b), the word "troop" is omitted as obsolete.
 
-In subsection (b), the words “parts of those organizations” are substituted for the words “subdivisions or parts thereof”. The words “but in the latter case”, “of subdivisions or groups”, “comprehend”, and “the time limit of” are omitted as surplusage.
+In subsection (b), the words "parts of those organizations" are substituted for the words "subdivisions or parts thereof". The words "but in the latter case", "of subdivisions or groups", "comprehend", and "the time limit of" are omitted as surplusage.
 
-In subsection (c), the word “member” is substituted for the words “officer, warrant officer, or enlisted man”. The words “series of formations” are substituted for the words “separate consecutive formations announced”. The words “regardless of the number of formations that he attends during the series” are substituted for the words “even though he may have attended more than one of the formations”. The words “sum”, “actual military”, and “of time” are omitted as surplusage. 32:62 (4th proviso of last sentence) is omitted as superseded by section 683 of title 10. 32:62 (last proviso of last sentence) is omitted as superseded by section 501(b) of the Career Compensation Act of 1949, 63 Stat. 826 (37 U.S.C. 301(b)).
+In subsection (c), the word "member" is substituted for the words "officer, warrant officer, or enlisted man". The words "series of formations" are substituted for the words "separate consecutive formations announced". The words "regardless of the number of formations that he attends during the series" are substituted for the words "even though he may have attended more than one of the formations". The words "sum", "actual military", and "of time" are omitted as surplusage. 32:62 (4th proviso of last sentence) is omitted as superseded by section 683 of title 10. 32:62 (last proviso of last sentence) is omitted as superseded by section 501(b) of the Career Compensation Act of 1949, 63 Stat. 826 (37 U.S.C. 301(b)).
 
-In subsection (d), the word “members” is substituted for the words “officers and enlisted men”. The words “for which a member is credited” are substituted for the words “participated in by each officer and enlisted man at each assembly at which he shall be credited as having been present”. The words “for duty at such assembly”, “actual”, and “character of” are omitted as surplusage.
+In subsection (d), the word "members" is substituted for the words "officers and enlisted men". The words "for which a member is credited" are substituted for the words "participated in by each officer and enlisted man at each assembly at which he shall be credited as having been present". The words "for duty at such assembly", "actual", and "character of" are omitted as surplusage.
 
-In subsection (e), the word “member” is substituted for the words “officer or enlisted man”. The words “Air Corps \* \* \* assigned to an Air Corps unit thereof, or \* \* \* an officer or enlisted man of the Medical Department of the said National Guard regularly attached to an Air Corps unit of the National Guard by appropriate authority” are omitted, since the revised subsection applies only to members who perform flights under competent orders and who are thereby prevented from attending a regular drill.
+In subsection (e), the word "member" is substituted for the words "officer or enlisted man". The words "Air Corps \* \* \* assigned to an Air Corps unit thereof, or \* \* \* an officer or enlisted man of the Medical Department of the said National Guard regularly attached to an Air Corps unit of the National Guard by appropriate authority" are omitted, since the revised subsection applies only to members who perform flights under competent orders and who are thereby prevented from attending a regular drill.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (f). Pub. L. 109–364 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), struck out “Duty without pay shall be considered for all purposes as if it were duty with pay.” at end, and added pars. (2) and (3).
+<b>2006</b>—Subsec. (f). Pub. L. 109–364 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), struck out "Duty without pay shall be considered for all purposes as if it were duty with pay." at end, and added pars. (2) and (3).
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–160 substituted “90 consecutive days” for “30 consecutive days” in second sentence.
+<b>1993</b>—Subsec. (b). Pub. L. 103–160 substituted "90 consecutive days" for "30 consecutive days" in second sentence.
 
 <b>1971</b>—Subsec. (a). Pub. L. 92–156 inserted exception to training requirements where member served on active duty for one year or more if the training period falls during last one hundred and twenty days of required membership in National Guard.
 

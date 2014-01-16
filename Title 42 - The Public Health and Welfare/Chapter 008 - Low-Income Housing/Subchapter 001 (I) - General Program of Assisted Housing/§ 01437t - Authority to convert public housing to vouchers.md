@@ -14,7 +14,7 @@ A public housing agency may convert any public housing project (or portion there
 
 &emsp;&emsp;(B) an analysis of the market value of the public housing project both before and after rehabilitation, and before and after conversion;
 
-&emsp;&emsp;(C) an analysis of the rental market conditions with respect to the likely success of the use of tenant-based assistance under section 1437f of this title in that market for the specific residents of the public housing project, including an assessment of the availability of decent and safe dwellings renting at or below the payment standard established for tenant-based assistanceunder section 1437f of this title by the agency;
+&emsp;&emsp;(C) an analysis of the rental market conditions with respect to the likely success of the use of tenant-based assistance under section 1437f of this title in that market for the specific residents of the public housing project, including an assessment of the availability of decent and safe dwellings renting at or below the payment standard established for tenant-based assistance under section 1437f of this title by the agency;
 
 &emsp;&emsp;(D) the impact of the conversion to tenant-based assistance under this section on the neighborhood in which the public housing project is located; and
 
@@ -108,7 +108,7 @@ Amendment by title V of Pub. L. 105–276 effective and applicable beginning upo
 
 #### Savings Provision
 
-Pub. L. 105–276, title V, §533(b), Oct. 21, 1998, 112 Stat. 2578, provided that: “The amendment made by subsection (a) \[amending this section\] shall not affect any contract or other agreement entered into under section 22 of the United States Housing Act of 1937 \[42 U.S.C. 1437t\], as such section existed immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998 \[Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title\].”
+Pub. L. 105–276, title V, §533(b), Oct. 21, 1998, 112 Stat. 2578, provided that: "The amendment made by subsection (a) \[amending this section\] shall not affect any contract or other agreement entered into under section 22 of the United States Housing Act of 1937 \[42 U.S.C. 1437t\], as such section existed immediately before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998 \[Pub. L. 105–276, set out as an Effective Date of 1998 Amendment note under section 1437 of this title\]."
 
 #### Public Housing One-Stop Perinatal Services Demonstration
 

@@ -8,7 +8,7 @@
 
 #### (2) Covered areas
 
-&emsp;For purposes of this subsection, each of the following shall be a “covered area”:
+&emsp;For purposes of this subsection, each of the following shall be a "covered area":
 
 #### (A) Ozone nonattainment areas
 
@@ -86,7 +86,7 @@ The plan revision shall require fuel providers to make clean alternative fuel av
 
 &emsp;&emsp;(B) The purchase of clean fuel <sup>2</sup> vehicles which meet more stringent standards established by the Administrator pursuant to paragraph (4).
 
-&emsp;&emsp;(C) The purchase of vehicles in categories which are not covered by this section butwhich meet standards established for such vehicles under paragraph (4).
+&emsp;&emsp;(C) The purchase of vehicles in categories which are not covered by this section but which meet standards established for such vehicles under paragraph (4).
 
 #### (2) Use of credits; limitations based on weight classes
 
@@ -108,11 +108,11 @@ The plan revision shall require fuel providers to make clean alternative fuel av
 
 #### (4) Standards for issuing credits for cleaner vehicles
 
-&emsp;Solely for purposes of issuing credits under paragraph (1)(B), the Administrator shall establish under this paragraph standards for Ultra-Low Emission Vehicles (“ULEV”s) and Zero Emissions Vehicles (“ZEV”s) which shall be more stringent than those otherwise applicable to clean-fuel vehicles under this part. The Administrator shall certify clean fuel <sup>2</sup> vehicles as complying with such more stringent standards, and administer and enforce such more stringent standards, in the same manner as in the case of the otherwise applicable clean-fuel vehicle standards established under this section. The standards established by the Administrator under this paragraph for vehicles under 8,500 lbs. GVWR or greater shall conform as closely as possible to standards which are established by the State of California for ULEV and ZEV vehicles in the same class. For vehicles of 8,500 lbs. GVWR or more, the Administrator shall promulgate comparable standards for purposes of this subsection.
+&emsp;Solely for purposes of issuing credits under paragraph (1)(B), the Administrator shall establish under this paragraph standards for Ultra-Low Emission Vehicles ("ULEV"s) and Zero Emissions Vehicles ("ZEV"s) which shall be more stringent than those otherwise applicable to clean-fuel vehicles under this part. The Administrator shall certify clean fuel <sup>2</sup> vehicles as complying with such more stringent standards, and administer and enforce such more stringent standards, in the same manner as in the case of the otherwise applicable clean-fuel vehicle standards established under this section. The standards established by the Administrator under this paragraph for vehicles under 8,500 lbs. GVWR or greater shall conform as closely as possible to standards which are established by the State of California for ULEV and ZEV vehicles in the same class. For vehicles of 8,500 lbs. GVWR or more, the Administrator shall promulgate comparable standards for purposes of this subsection.
 
 #### (5) Early fleet credits
 
-&emsp;The State plan revision shall provide credits under this subsection to fleet operators that purchase vehicles certified to meet clean-fuel vehicle standards under this part during any period after approval of the plan revision and prior to the effective date of the fleet program under this section.
+&emsp;The State plan revision shall provide credits under this subsection to fleet operators thatpurchase vehicles certified to meet clean-fuel vehicle standards under this part during any period after approval of the plan revision and prior to the effective date of the fleet program under this section.
 
 #### (g) Availability to public
 
@@ -124,7 +124,7 @@ The Administrator shall by rule, within 1 year after November 15, 1990, ensure t
 
 (July 14, 1955, ch. 360, title II, §246, as added Pub. L. 101–549, title II, §229(a), Nov. 15, 1990, 104 Stat. 2520.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “light-duty”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "light-duty".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “clean-fuel”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "clean-fuel".</i>
 

@@ -4,7 +4,7 @@
 
 (1) The Commission shall prescribe rules prohibiting deceptive telemarketing acts or practices and other abusive telemarketing acts or practices.
 
-(2) The Commission shall include in such rules respecting deceptive telemarketing acts or practices a definition of deceptive telemarketing acts or practices which shall include fraudulent charitable solicitations, and which may include acts or practices of entities or individuals thatassist or facilitate deceptive telemarketing, including credit card laundering.
+(2) The Commission shall include in such rules respecting deceptive telemarketing acts or practices a definition of deceptive telemarketing acts or practices which shall include fraudulent charitable solicitations, and which may include acts or practices of entities or individuals that assist or facilitate deceptive telemarketing, including credit card laundering.
 
 (3) The Commission shall include in such rules respecting other abusive telemarketing acts or practices—
 
@@ -58,11 +58,11 @@ Any violation of any rule prescribed under subsection (a)—
 
 &emsp;&emsp;For purposes of subparagraph (A)—
 
-&emsp;&emsp;&emsp;(i) the terms “broker”, “dealer”, “transfer agent”, “municipal securities dealer”, “municipal securities broker”, “government securities broker”, and “government securities dealer” have the meanings given such terms by paragraphs (4), (5), (25), (30), (31), (43), and (44) of section 78c(a) of this title;
+&emsp;&emsp;&emsp;(i) the terms "broker", "dealer", "transfer agent", "municipal securities dealer", "municipal securities broker", "government securities broker", and "government securities dealer" have the meanings given such terms by paragraphs (4), (5), (25), (30), (31), (43), and (44) of section 78c(a) of this title;
 
-&emsp;&emsp;&emsp;(ii) the term “investment adviser” has the meaning given such term by section 80b–2(a)(11) of this title; and
+&emsp;&emsp;&emsp;(ii) the term "investment adviser" has the meaning given such term by section 80b–2(a)(11) of this title; and
 
-&emsp;&emsp;&emsp;(iii) the term “investment company” has the meaning given such term by section 80a–3(a) of this title.
+&emsp;&emsp;&emsp;(iii) the term "investment company" has the meaning given such term by section 80a–3(a) of this title.
 
 #### (e) Commodity Futures Trading Commission rules
 
@@ -86,15 +86,15 @@ Section is comprised of section 3 of Pub. L. 103–297. Subsec. (e)(2) of sectio
 
 <b>2010</b>—Subsecs. (b), (c). Pub. L. 111–203 added subsecs. (b) and (c) and struck out former subsecs. (b) and (c) which read as follows:
 
-“(b)
+"(b)
 
 Rulemaking.—The Commission shall prescribe the rules under subsection (a) of this section within 365 days after August 16, 1994. Such rules shall be prescribed in accordance with section 553 of title 5.
 
-“(c)
+"(c)
 
-Enforcement.—Any violation of any rule prescribed under subsection (a) of this section shall be treated as a violation of a rule under section 57a of this title regarding unfair or deceptive acts or practices.”
+Enforcement.—Any violation of any rule prescribed under subsection (a) of this section shall be treated as a violation of a rule under section 57a of this title regarding unfair or deceptive acts or practices."
 
-<b>2001</b>—Subsec. (a)(2). Pub. L. 107–56, §1011(b)(1), inserted “which shall include fraudulent charitable solicitations, and” before “which may include”.
+<b>2001</b>—Subsec. (a)(2). Pub. L. 107–56, §1011(b)(1), inserted "which shall include fraudulent charitable solicitations, and" before "which may include".
 
 Subsec. (a)(3)(D). Pub. L. 107–56, §1011(b)(2), added subpar. (D).
 

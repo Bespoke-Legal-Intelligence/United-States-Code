@@ -20,9 +20,9 @@ The Chairman of the Board shall appoint such personnel as may be necessary to ca
 
 &emsp;&emsp;The Chairman shall fix the compensation and number of, and appoint and direct, employees of the Administration. The Chairman may set and adjust the rates of basic pay for employees of the Administration without regard to the provisions of chapter 51, or subchapter III of chapter 53, of title 5. The Chairman may provide such additional compensation and benefits to employees of the Administration as is necessary to maintain comparability with the total amount of compensation and benefits provided by other Federal bank regulatory agencies. In setting and adjusting the total amount of compensation and benefits for employees of the Administration, the Chairman shall consult with, and seek to maintain comparability with, other Federal bank regulatory agencies.
 
-#### (B) “Other Federal bank regulatory agencies” defined
+#### (B) "Other Federal bank regulatory agencies" defined
 
-&emsp;&emsp;For purposes of this subsection, the term “other Federal bank regulatory agencies” has the same meaning given to the term “appropriate Federal banking agency” in section 1813(q) of this title.
+&emsp;&emsp;For purposes of this subsection, the term "other Federal bank regulatory agencies" has the same meaning given to the term "appropriate Federal banking agency" in section 1813(q) of this title.
 
 #### (C) Ethics in Government
 
@@ -38,9 +38,9 @@ The Chairman of the Board shall appoint such personnel as may be necessary to ca
 
 #### (d) Funding
 
-The operations of the Farm Credit Administration, and the salaries of members of the Board and employees of the Administration, shall be funded and paid for from the fund created under section 2250 of this title.
+The operations of the Farm Credit Administration, and the salaries of members of theBoard and employees of the Administration, shall be funded and paid for from the fund created under section 2250 of this title.
 
-(Pub. L. 92–181, title V, §5.11, Dec. 10, 1971, 85 Stat. 620; Pub. L. 99–205, title II, §201(1), Dec. 23,1985, 99 Stat. 1690; Pub. L. 100–233, title IV, §431(c), title VIII, §805(x), Jan. 6, 1988, 101 Stat. 1659, 1716; Pub. L. 100–399, title IV, §415(a), title VII, §702(b), Aug. 17, 1988, 102 Stat. 1004, 1006; Pub. L. 101–73, title XII, §1210, Aug. 9, 1989, 103 Stat. 523.)
+(Pub. L. 92–181, title V, §5.11, Dec. 10, 1971, 85 Stat. 620; Pub. L. 99–205, title II, §201(1), Dec. 23, 1985, 99 Stat. 1690; Pub. L. 100–233, title IV, §431(c), title VIII, §805(x), Jan. 6, 1988, 101 Stat. 1659, 1716; Pub. L. 100–399, title IV, §415(a), title VII, §702(b), Aug. 17, 1988, 102 Stat. 1004, 1006; Pub. L. 101–73, title XII, §1210, Aug. 9, 1989, 103 Stat. 523.)
 
 #### References in Text
 
@@ -48,19 +48,19 @@ The Ethics in Government Act of 1978, referred to in subsec. (c)(2)(C)(i), is Pu
 
 #### Amendments
 
-<b>1989</b>—Subsec. (c)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The officers and employees of the agency shall be—
+<b>1989</b>—Subsec. (c)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "The officers and employees of the agency shall be—
 
-&emsp;“(A) subject to the Ethics in Government Act of 1978 (2 U.S.C. 701 et seq.);
+&emsp;"(A) subject to the Ethics in Government Act of 1978 (2 U.S.C. 701 et seq.);
 
-&emsp;“(B) considered officers or employees of the United States for the purposes of sections 201 through 203, and sections 205 through 209, of title 18; and
+&emsp;"(B) considered officers or employees of the United States for the purposes of sections 201 through 203, and sections 205 through 209, of title 18; and
 
-&emsp;“(C) subject to section 5373 of title 5.”
+&emsp;"(C) subject to section 5373 of title 5."
 
 <b>1988</b>—Pub. L. 100–233, §805(x), which directed the amendment of this section by striking out the last sentence, was repealed by Pub. L. 100–399, §702(b). See Construction of 1988 Amendment note below.
 
 Pub. L. 100–233, §431(c), amended section generally, substituting subsecs. (a) to (d) for former text consisting of single undesignated paragraph.
 
-Subsec. (c)(2)(C). Pub. L. 100–399, §415(a), substituted “5373” for “5315”.
+Subsec. (c)(2)(C). Pub. L. 100–399, §415(a), substituted "5373" for "5315".
 
 <b>1985</b>—Pub. L. 99–205 substituted provisions respecting organization of the Farm Credit Administration for provisions relating to compensation and expense allowance of the Governor of the Farm Credit Administration.
 

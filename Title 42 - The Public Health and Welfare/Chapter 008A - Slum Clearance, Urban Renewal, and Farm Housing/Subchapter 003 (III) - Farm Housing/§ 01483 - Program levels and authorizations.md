@@ -68,7 +68,7 @@ The Secretary, to the extent approved in appropriations Acts for fiscal years 19
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated for rural housing vouchers under section 1490r ofthis title, $130,000,000 for fiscal year 1993 and $140,000,000 for fiscal year 1994.
+There are authorized to be appropriated for rural housing vouchers under section 1490r of this title, $130,000,000 for fiscal year 1993 and $140,000,000 for fiscal year 1994.
 
 (July 15, 1949, ch. 338, title V, §513, 63 Stat. 438; July 14, 1952, ch. 723, §11(c), 66 Stat. 604; June 29, 1954, ch. 410, §5(c), 68 Stat. 320; Aug. 2, 1954, ch. 649, title VIII, §812(c), 68 Stat. 647; Aug. 11, 1955, ch. 783, title V, §501(3), 69 Stat. 654; Aug. 7, 1956, ch. 1029, title VI, §606(c), 70 Stat. 1115; Pub. L. 87–70, title VIII, §§801(c), 805(b), June 30, 1961, 75 Stat. 186, 188; Pub. L. 88–560, title V, §§501(c), 503(b), Sept. 2, 1964, 78 Stat. 796, 798; Pub. L. 89–117, title X, §1005(b), Aug. 10, 1965, 79 Stat. 501; Pub. L. 90–448, title X, §1003, Aug. 1, 1968, 82 Stat. 553; Pub. L. 91–78, §1, Sept. 30, 1969, 83 Stat. 125; Pub. L. 91–152, title IV, §413(a), Dec. 24, 1969, 83 Stat. 398; Pub. L. 93–117, §13(a), Oct. 2, 1973, 87 Stat. 423; Pub. L. 93–383, title V, §509(a), Aug. 22, 1974, 88 Stat. 694; Pub. L. 95–60, §4(a), June 30, 1977, 91 Stat. 258; Pub. L. 95–80, §4(a), July 31, 1977, 91 Stat. 340; Pub. L. 95–128, title V, §501(a), Oct. 12, 1977, 91 Stat. 1138; Pub. L. 95–406, §7(a), Sept. 30, 1978, 92 Stat. 880; Pub. L. 95–557, title V, §501(a)–(c), Oct. 31, 1978, 92 Stat. 2110, 2111; Pub. L. 95–619, title II, §232(b), Nov. 9, 1978, 92 Stat. 3227; Pub. L. 96–71, §5(a), Sept. 28, 1979, 93 Stat. 502; Pub. L. 96–105, §5(a), Nov. 8, 1979, 93 Stat. 795; Pub. L. 96–153, title V, §501(a), Dec. 21, 1979, 93 Stat. 1132; Pub. L. 96–372, §6(a), Oct. 3, 1980, 94 Stat. 1364; Pub. L. 96–399, title V, §501(a), Oct. 8, 1980, 94 Stat. 1667; Pub. L. 97–35, title III, §351(a), Aug. 13, 1981, 95 Stat. 420; Pub. L. 98–181, title I \[title V, §511(a)\], Nov. 30, 1983, 97 Stat. 1243; Pub. L. 98–479, title I, §105(d), Oct. 17, 1984, 98 Stat. 2227; Pub. L. 99–272, title III, §3005, Apr. 7, 1986, 100 Stat. 103; Pub. L. 100–242, title III, §301(a)–(d), (g), Feb. 5, 1988, 101 Stat. 1891–1893; Pub. L. 101–625, title VII, §701(a)–(d), Nov. 28, 1990, 104 Stat. 4281, 4282; Pub. L. 102–550, title VII, §701(a)–(d), (f), Oct. 28, 1992, 106 Stat. 3832–3834; Pub. L. 105–276, title V, §599C(e)(2)(C), Oct. 21, 1998, 112 Stat. 2662.)
 
@@ -78,21 +78,21 @@ Section 1490c(f) of this title, referred to in subsec. (b)(8), was repealed by P
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c)(2). Pub. L. 105–276, §599C(e)(2)(C)(i), inserted “or contracts for operating assistance under section 1490a(a)(5) of this title” after “section 1490a(a)(2)(A) of this title” in introductory provisions.
+<b>1998</b>—Subsec. (c)(2). Pub. L. 105–276, §599C(e)(2)(C)(i), inserted "or contracts for operating assistance under section 1490a(a)(5) of this title" after "section 1490a(a)(2)(A) of this title" in introductory provisions.
 
-Subsec. (c)(2)(A). Pub. L. 105–276, §599C(e)(2)(C)(ii), inserted “or operating assistance contracts” after “contracts”.
+Subsec. (c)(2)(A). Pub. L. 105–276, §599C(e)(2)(C)(ii), inserted "or operating assistance contracts" after "contracts".
 
-Subsec. (c)(2)(B). Pub. L. 105–276, §599C(e)(2)(C)(iii), struck out “rental” before “assistance” in two places.
+Subsec. (c)(2)(B). Pub. L. 105–276, §599C(e)(2)(C)(iii), struck out "rental" before "assistance" in two places.
 
-Subsec. (c)(2)(C). Pub. L. 105–276, §599C(e)(2)(C)(iv), inserted “or operating assistance contracts” after “contracts”.
+Subsec. (c)(2)(C). Pub. L. 105–276, §599C(e)(2)(C)(iv), inserted "or operating assistance contracts" after "contracts".
 
 <b>1992</b>—Subsec. (a). Pub. L. 102–550, §701(a), inserted heading and amended par. (1) generally, substituting provisions relating to aggregate amounts for which Secretary may insure and guarantee loans for fiscal years 1993 and 1994 for provisions authorizing aggregate amounts for fiscal years 1991 and 1992.
 
 Subsec. (b). Pub. L. 102–550, §701(b), amended subsec. (b) generally, inserting heading and substituting provisions authorizing appropriations for fiscal years 1993 and 1994 for provisions authorizing appropriations for fiscal years 1991 and 1992.
 
-Subsec. (c). Pub. L. 102–550, §701(c), inserted heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary, to the extent approved in appropriation Acts for fiscal years 1991 and 1992, may enter into rental assistance payment contracts under section 1490a(a)(2)(A) of this title aggregating $397,000,000 for fiscal year 1991 and $414,100,000 for fiscal year 1992.”
+Subsec. (c). Pub. L. 102–550, §701(c), inserted heading and amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Secretary, to the extentapproved in appropriation Acts for fiscal years 1991 and 1992, may enter into rental assistance payment contracts under section 1490a(a)(2)(A) of this title aggregating $397,000,000 for fiscal year 1991 and $414,100,000 for fiscal year 1992."
 
-Subsec. (d). Pub. L. 102–550, §701(d), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Secretary, to the extent approved in appropriation Acts for fiscal years 1991 and 1992, may enter into 5-year supplemental rental assistance contracts under section 1472(c)(5)(D) of this title aggregating $5,200,000 for fiscal year 1991 and $5,500,000 for fiscal year 1992.”
+Subsec. (d). Pub. L. 102–550, §701(d), inserted heading and amended text generally. Prior to amendment, text read as follows: "The Secretary, to the extent approved in appropriation Acts for fiscal years 1991 and 1992, may enter into 5-year supplemental rental assistance contracts under section 1472(c)(5)(D) of this title aggregating $5,200,000 for fiscal year 1991 and $5,500,000 for fiscal year 1992."
 
 Subsec. (e). Pub. L. 102–550, §701(f), amended subsec. (e) generally, substituting present provisions for provisions authorizing a demonstration rural housing voucher program during fiscal years 1988 and 1989. See section 1490r of this title.
 
@@ -112,99 +112,99 @@ Subsec. (c). Pub. L. 100–242, §301(c), amended subsec. (c) generally, substit
 
 Subsecs. (d), (e). Pub. L. 100–242, §301(d), (g), added subsecs. (d) and (e).
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary may insure and guarantee loans under this subchapter during fiscal years 1984 and 1985 in an aggregate amount not to exceed such sums as may be approved in an appropriation Act.”
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Secretary may insure and guarantee loans under this subchapter during fiscal years 1984 and 1985 in an aggregate amount not to exceed such sums as may be approved in an appropriation Act."
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–479, §105(d)(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b)(7). Pub. L. 98–479, §105(d)(2), substituted “1490m of this title” for “1490k of this title”.
+Subsec. (b)(7). Pub. L. 98–479, §105(d)(2), substituted "1490m of this title" for "1490k of this title".
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–181 amended subsec. (a) generally, substituting “The Secretary may insure and guarantee loans under this subchapter during fiscal years 1984 and 1985 in an aggregate amount not to exceed such sums as may be approved in an appropriation Act” for “The Secretary may, as approved in appropriation Acts, insure and guarantee loans under the authorities provided in this subchapter in an aggregate principal amount not to exceed $3,700,600,000 with respect to the fiscal year ending September 30, 1982; except that—
+<b>1983</b>—Subsec. (a). Pub. L. 98–181 amended subsec. (a) generally, substituting "The Secretary may insure and guarantee loans under this subchapter during fiscal years 1984 and 1985 in an aggregate amount not to exceed such sums as may be approved in an appropriation Act" for "The Secretary may, as approved in appropriation Acts, insure and guarantee loans under the authorities provided in this subchapter in an aggregate principal amount not to exceed $3,700,600,000 with respect to the fiscal year ending September 30, 1982; except that—
 
-&emsp;“(1) not less than $3,170,000,000 of any amount so approved in appropriation Acts for such year shall be made available for loans insured or guaranteed on behalf of borrowers receiving assistance pursuant to subparagraph (B) or (C) of section 1490a(a)(1) of this title;
+&emsp;"(1) not less than $3,170,000,000 of any amount so approved in appropriation Acts for such year shall be made available for loans insured or guaranteed on behalf of borrowers receiving assistance pursuant to subparagraph (B) or (C) of section 1490a(a)(1) of this title;
 
-&emsp;“(2) not more than $25,600,000 of such amount so approved for such fiscal year may be made available for loans insured under section 1484 of this title;
+&emsp;"(2) not more than $25,600,000 of such amount so approved for such fiscal year may be made available for loans insured under section 1484 of this title;
 
-&emsp;“(3) not more than $5,000,000 of such amount so approved shall be available for making advances under section 1471(e) of this title for such fiscal year; and
+&emsp;"(3) not more than $5,000,000 of such amount so approved shall be available for making advances under section 1471(e) of this title for such fiscal year; and
 
-&emsp;“(4) none of such amount shall be available for loans guaranteed pursuant to this title on behalf of borrowers who do not receive assistance pursuant to subparagraph (B) or (C) of section 1490a(a)(1) of this title.
+&emsp;"(4) none of such amount shall be available for loans guaranteed pursuant to this title on behalf of borrowers who do not receive assistance pursuant to subparagraph (B) or (C) of section 1490a(a)(1) of this title.
 
-Subsec. (b). Pub. L. 98–181 amended subsec. (b) generally, substituting “There are authorized to be appropriated for fiscal years 1984 and 1985—
+Subsec. (b). Pub. L. 98–181 amended subsec. (b) generally, substituting "There are authorized to be appropriated for fiscal years 1984 and 1985—
 
-&emsp;“(1) such sums as may be necessary for grants pursuant to section 1474 of this title;
+&emsp;"(1) such sums as may be necessary for grants pursuant to section 1474 of this title;
 
-&emsp;“(2) such sums as may be necessary for the purposes of section 1479(c) of this title;
+&emsp;"(2) such sums as may be necessary for the purposes of section 1479(c) of this title;
 
-&emsp;“(3) such sums as may be necessary to meet payments on notes or other obligations issued by the Secretary under section 1481 of this title equal to (A) the aggregate of the contributions made by the Secretary in the form of credits on principal due on loans made pursuant to section 1473 of this title, and (B) the interest due on a similar sum represented by notes or other obligations issued by the Secretary;
+&emsp;"(3) such sums as may be necessary to meet payments on notes or other obligations issued by the Secretary under section 1481 of this title equal to (A) the aggregate of the contributions made by the Secretary in the form of credits on principal due on loans made pursuant to section 1473 of this title, and (B) the interest due on a similar sum represented by notes or other obligations issued by the Secretary;
 
-&emsp;“(4) such sums as may be necessary for financial assistance pursuant to section 1486 of this title;
+&emsp;"(4) such sums as may be necessary for financial assistance pursuant to section 1486 of this title;
 
-&emsp;“(5) such sums as may be necessary for the purposes of section 1490c of this title;
+&emsp;"(5) such sums as may be necessary for the purposes of section 1490c of this title;
 
-&emsp;“(6) such sums as may be necessary for purposes of section 1490e(a) of this title;
+&emsp;"(6) such sums as may be necessary for purposes of section 1490e(a) of this title;
 
-&emsp;“(7) not to exceed $100,000,000 for each such year for grants under section 1490k of this title; of which 5 per centum shall be available for technical assistance; and
+&emsp;"(7) not to exceed $100,000,000 for each such year for grants under section 1490k of this title; of which 5 per centum shall be available for technical assistance; and
 
-&emsp;“(8) such sums as may be required by the Secretary to administer the provisions of sections 1715z and 1715z–1 of title 12 and section 1437f of this title”
+&emsp;"(8) such sums as may be required by the Secretary to administer the provisions of sections 1715z and 1715z–1 of title 12 and section 1437f of this title"
 
-> &emsp;for “There are authorized to be appropriated—
+> &emsp;for "There are authorized to be appropriated—
 
-&emsp;“(1) such sums as may be necessary to meet payments on notes or other obligations issued by the Secretary under section 1481 of this title equal to (A) the aggregate of the contributions made by the Secretary in the form of credits on principal due on loans made pursuant to section 1473 of this title, and (B) the interest due on a similar sum represented by notes or other obligations issued by the Secretary;
+&emsp;"(1) such sums as may be necessary to meet payments on notes or other obligations issued by the Secretary under section 1481 of this title equal to (A) the aggregate of the contributions made by the Secretary in the form of credits on principal due on loans made pursuant to section 1473 of this title, and (B) the interest due on a similar sum represented by notes or other obligations issued by the Secretary;
 
-&emsp;“(2) not to exceed $50,000,000 for loans and grants pursuant to section 1474 of this title for the fiscal year ending September 30, 1982, of which not more than $25,000,000 shall be available for grants;
+&emsp;"(2) not to exceed $50,000,000 for loans and grants pursuant to section 1474 of this title for the fiscal year ending September 30, 1982, of which not more than $25,000,000 shall be available for grants;
 
-&emsp;“(3) not to exceed $25,000,000 for financial assistance pursuant to section 1486 of this title for the fiscal year ending September 30, 1982;
+&emsp;"(3) not to exceed $25,000,000 for financial assistance pursuant to section 1486 of this title for the fiscal year ending September 30, 1982;
 
-&emsp;“(4) not to exceed $2,000,000 for the purposes of section 1490e(a) of this title, of which not less than $1,000,000 shall be used for counseling purchasers and delinquent borrowers, for the fiscal year ending September 30, 1982;
+&emsp;"(4) not to exceed $2,000,000 for the purposes of section 1490e(a) of this title, of which not less than $1,000,000 shall be used for counseling purchasers and delinquent borrowers, for the fiscal year ending September 30, 1982;
 
-&emsp;“(5) such sums as may be required by the Secretary to administer the provisions of sections 1752 and 1752–1 of title 12 and section 1437f of this title; and
+&emsp;"(5) such sums as may be required by the Secretary to administer the provisions of sections 1752 and 1752–1 of title 12 and section 1437f of this title; and
 
-&emsp;“(6) not to exceed $2,000,000 for the purposes of section 1479(c) of this title for the fiscal year ending September 30, 1982.”
+&emsp;"(6) not to exceed $2,000,000 for the purposes of section 1479(c) of this title for the fiscal year ending September 30, 1982."
 
 Subsec. (c). Pub. L. 98–181 added subsec. (c).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35, §351(a)(1)–(3), in introductory text substituted provisions authorizing appropriations for the fiscal year ending Sept. 30, 1982, for provisions authorizing appropriations for the fiscal year ending Sept. 30, 1981, in par. (1) substituted “$3,170,000,000” for “$3,120,000,000”, and in par. (3) substituted “none” for “not more than $100,000,000”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §351(a)(1)–(3), in introductory text substituted provisions authorizing appropriations for the fiscal year ending Sept. 30, 1982, for provisions authorizing appropriations for the fiscal year ending Sept. 30, 1981, in par. (1) substituted"$3,170,000,000" for "$3,120,000,000", and in par. (3) substituted "none" for "not more than $100,000,000".
 
-Subsec. (b). Pub. L. 97–35, §351(a)(4)–(7), in par. (2) substituted “$50,000,000” for “$49,000,000” and “1982” for “1981”, in par. (3) substituted “1982” for “1981”, in par. (4) substituted “1982” for “1981”, and added par. (6).
+Subsec. (b). Pub. L. 97–35, §351(a)(4)–(7), in par. (2) substituted "$50,000,000" for "$49,000,000" and "1982" for "1981", in par. (3) substituted "1982" for "1981", in par. (4) substituted "1982" for "1981", and added par. (6).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–399, §501(a)(1)–(4), substituted in introductory clause, provision for $3,797,600,000 for fiscal year ending Sept. 30, 1981, for provision for $4,484,000,000 for fiscal year ending Oct. 15, 1980, in par. (1) substituted “$3,120,000,000” for “$3,070,000,000”, in par. (2) substituted “$25,600,000” for “$38,000,000”, and added par. (4).
+<b>1980</b>—Subsec. (a). Pub. L. 96–399, §501(a)(1)–(4), substituted in introductory clause, provision for $3,797,600,000 for fiscal year ending Sept. 30, 1981, for provision for $4,484,000,000 for fiscal year ending Oct. 15, 1980, in par. (1) substituted "$3,120,000,000" for "$3,070,000,000", in par. (2) substituted "$25,600,000" for "$38,000,000", and added par. (4).
 
-Pub. L. 96–372, §6(a)(1), substituted “October 15, 1980” for “September 30, 1980”.
+Pub. L. 96–372, §6(a)(1), substituted "October 15, 1980" for "September 30, 1980".
 
-Subsec. (b). Pub. L. 96–399, §501(a)(5)–(7), in par. (2) substituted provision for $49,000,000 for fiscal year ending Sept. 30, 1981, for provision for $48,000,000 for fiscal year ending Sept. 30, 1980, and inserted limitation of $25,000,000 available for grants, in par. (3) substituted provision for $25,000,000 for fiscal year ending Sept. 30, 1981, for provision for $30,000,000 for fiscal year ending Oct. 15, 1980, and in par. (4) substituted “$2,000,000” for “$1,500,000”, “$1,000,000” for “$750,000”, “1981” for “1980”, and struck out “and not to exceed $1,000,000 for the purposes of section 1490e(b) of this title” after “borrowers”.
+Subsec. (b). Pub. L. 96–399, §501(a)(5)–(7), in par. (2) substituted provision for $49,000,000 for fiscal year ending Sept. 30, 1981, for provision for $48,000,000 for fiscal year ending Sept. 30, 1980, and inserted limitation of $25,000,000 available for grants, in par. (3) substituted provision for $25,000,000 for fiscal year ending Sept. 30, 1981, for provision for $30,000,000 for fiscal year ending Oct. 15, 1980, and in par. (4) substituted "$2,000,000" for "$1,500,000", "$1,000,000" for "$750,000", "1981" for "1980", and struck out "and not to exceed $1,000,000 for the purposes of section 1490e(b) of this title" after "borrowers".
 
-Pub. L. 96–372, §6(a)(2), substituted “October 15, 1980” for “September 30, 1980” in pars. (2) to (4).
+Pub. L. 96–372, §6(a)(2), substituted "October 15, 1980" for "September 30, 1980" in pars. (2) to (4).
 
 <b>1979</b>—Pub. L. 96–153 amended section generally, inserted authorization of appropriations for fiscal year ending Sept. 30, 1980 for guaranteeing loans under this subchapter and laid down maximum limits for certain programs, authorized appropriation of $48,000,000 for fiscal year ending Sept. 30, 1980 for purposes of section 1481 of this title, of $30,000,000 for fiscal year ending Sept. 30, 1980 for purposes of section 1486 of this title, of $1,500,000 for fiscal year ending Sept. 30, 1980 for purposes of section 1490e(a) of this title, of $1,000,000 for purposes of section 1490e(b) of this title, inserted reference to section 1437f of this title, and struck out authorization of appropriations for research and study programs.
 
-Pub. L. 96–105 substituted “November 30, 1979” for “October 31, 1979” wherever appearing in cls. (b) to (d).
+Pub. L. 96–105 substituted "November 30, 1979" for "October 31, 1979" wherever appearing in cls. (b) to (d).
 
-Pub. L. 96–71 substituted “October 31, 1979” for “September 30, 1979” wherever appearing in cls. (b) to (d).
+Pub. L. 96–71 substituted "October 31, 1979" for "September 30, 1979" wherever appearing in cls. (b) to (d).
 
 <b>1978</b>—Pub. L. 95–619 in cl. (b) inserted requirement that not less than $25,000,000 of any amount authorized to be appropriated for the fiscal year ending Sept. 30, 1979, was to be appropriated for the purpose of making grants pursuant to section 1474(c) of this title.
 
-Pub. L. 95–557, inserted in cl. (b) “and not to exceed $48,000,000 for the fiscal year ending September 30, 1979”, and in cl. (c) “and not to exceed $38,000,000 for the fiscal year ending September 30, 1979”, and substituted in cl. (d) “not to exceed $10,000,000 for research and study programs pursuant to subsections (b), (c), and (d) of section 1476 of this title for the fiscal year ending September 30, 1979” for “not to exceed $250,000 per year for research and study programs pursuant to subsection (b), (c), and (d) of section 1476 of this title during the period beginning July 1, 1961, and ending June 30, 1974, and not to exceed $1,000,000 per year for such programs during the period beginning October 1, 1974, and ending October 31, 1978”.
+Pub. L. 95–557, inserted in cl. (b) "and not to exceed $48,000,000 for the fiscal year ending September 30, 1979", and in cl. (c) "and not to exceed $38,000,000 for the fiscal year ending September 30, 1979", and substituted in cl. (d) "not to exceed $10,000,000 for research and study programs pursuant to subsections (b), (c), and (d) of section 1476 of this title for the fiscal year ending September 30, 1979" for "not to exceed $250,000 per year for research and study programs pursuant to subsection (b), (c), and (d) of section 1476 of this title during the period beginning July 1, 1961, and ending June 30, 1974, and not to exceed $1,000,000 per year for such programs during the period beginning October 1, 1974, and ending October 31, 1978".
 
-Pub. L. 95–406 substituted in cls. (b) to (d) “October 31, 1978” for “September 30, 1978”.
+Pub. L. 95–406 substituted in cls. (b) to (d) "October 31, 1978" for "September 30, 1978".
 
-<b>1977</b>—Pub. L. 95–128 substituted in cls. (b) to (d) “September 30, 1978” for “September 30, 1977” and in cls. (b) and (c) “$105,000,000” for “$80,000,000”.
+<b>1977</b>—Pub. L. 95–128 substituted in cls. (b) to (d) "September 30, 1978" for "September 30, 1977" and in cls. (b) and (c) "$105,000,000" for "$80,000,000".
 
-Pub. L. 95–80 substituted “September 30, 1977” for “July 31, 1977” wherever appearing.
+Pub. L. 95–80 substituted "September 30, 1977" for "July 31, 1977" wherever appearing.
 
-Pub. L. 95–60 substituted “July 31, 1977” for “June 30, 1977” wherever appearing.
+Pub. L. 95–60 substituted "July 31, 1977" for "June 30, 1977" wherever appearing.
 
-<b>1974</b>—Pub. L. 93–383 in cls. (b) and (c) increased amount from $50,000,000 to $80,000,000 and substituted “June 30, 1977” for “October 1, 1974”, and in cl. (d) substituted “June 30, 1974” for “October 1, 1974” and inserted provisions authorizing not to exceed $1,000,000per year during the period beginning October 1, 1974, and ending June 30, 1977.
+<b>1974</b>—Pub. L. 93–383 in cls. (b) and (c) increased amount from $50,000,000 to $80,000,000 and substituted "June 30, 1977" for "October 1, 1974", and in cl. (d) substituted "June 30, 1974" for "October 1, 1974" and inserted provisions authorizing not to exceed $1,000,000 per year during the period beginning October 1, 1974, and ending June 30, 1977.
 
-<b>1973</b>—Pub. L. 93–117 substituted “October 1, 1974” for “October 1, 1973” wherever appearing.
+<b>1973</b>—Pub. L. 93–117 substituted "October 1, 1974" for "October 1, 1973" wherever appearing.
 
-<b>1969</b>—Pub. L. 91–152 substituted “October 1, 1973” for “January 1, 1970” wherever appearing.
+<b>1969</b>—Pub. L. 91–152 substituted "October 1, 1973" for "January 1, 1970" wherever appearing.
 
-Pub. L. 91–78 substituted “January 1, 1970” for “October 1, 1969” wherever appearing.
+Pub. L. 91–78 substituted "January 1, 1970" for "October 1, 1969" wherever appearing.
 
 <b>1968</b>—Pub. L. 90–448 authorized appropriations of such sums as may be required to administer the provisions of sections 1715z and 1715z–1 of title 12.
 
-<b>1965</b>—Pub. L. 89–117 substituted “October 1, 1969” for “September 30, 1965” wherever appearing and “$50,000,000” for “$10,000,000” in cl. (c) as the maximum allowable appropriation for financial assistance pursuant to section 1486 of this title.
+<b>1965</b>—Pub. L. 89–117 substituted "October 1, 1969" for "September 30, 1965" wherever appearing and "$50,000,000" for "$10,000,000" in cl. (c) as the maximum allowable appropriation for financial assistance pursuant to section 1486 of this title.
 
-<b>1964</b>—Pub. L. 88–560 substituted “September 30, 1965” for “June 30, 1965” wherever appearing, redesignated cls. (c) and (d) as (d) and (e), and added cl. (c).
+<b>1964</b>—Pub. L. 88–560 substituted "September 30, 1965" for "June 30, 1965" wherever appearing, redesignated cls. (c) and (d) as (d) and (e), and added cl. (c).
 
 <b>1961</b>—Pub. L. 87–70 extended the period for grants and loans pursuant to section 1474 (a), (b) of this title from June 30, 1961, to June 30, 1965, and authorized appropriations of not more than $250,000 per year for research and study programs pursuant to subsections (b), (c), and (d) of section 1476 of this title for the period beginning July 1, 1961, and ending June 30, 1965.
 

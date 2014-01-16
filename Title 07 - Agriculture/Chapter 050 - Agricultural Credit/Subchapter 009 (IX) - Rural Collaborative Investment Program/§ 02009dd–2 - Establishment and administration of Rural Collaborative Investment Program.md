@@ -10,7 +10,7 @@ In carrying out this subchapter, the Secretary shall—
 
 &emsp;(1) appoint and provide administrative and program support to the National Board;
 
-&emsp;(2) establish a national institute, to be known as the “National Institute on RegionalRural Competitiveness and Entrepreneurship”, to provide technical assistance to the Secretary and the National Board regarding regional competitiveness and rural entrepreneurship, including technical assistance for—
+&emsp;(2) establish a national institute, to be known as the "National Institute on Regional Rural Competitiveness and Entrepreneurship", to provide technical assistance to the Secretary and the National Board regarding regional competitiveness and rural entrepreneurship, including technical assistance for—
 
 &emsp;&emsp;(A) the development of rigorous analytic programs to assist Regional Boards in determining the challenges and opportunities that need to be addressed to receive the greatest regional competitive advantage;
 
@@ -52,7 +52,7 @@ In carrying out this subchapter, the Secretary shall—
 
 #### (c) National Rural Investment Board
 
-The Secretary shall establish within the Department of Agriculture a board to be known as the “National Rural Investment Board”.
+The Secretary shall establish within the Department of Agriculture a board to be known as the "National Rural Investment Board".
 
 #### (d) Duties of National Board
 
@@ -118,7 +118,7 @@ The National Board shall—
 
 #### (B) Ex-officio members
 
-&emsp;&emsp;In consultation with the chairman and ranking member of each of the Committeeon Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Secretary may appoint not more than 3 other officers or employees of the Executive Branch to serve as ex-officio, nonvoting members of the National Board.
+&emsp;&emsp;In consultation with the chairman and ranking member of each of the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Secretary may appoint not more than 3 other officers or employees of the Executive Branch to serve as ex-officio, nonvoting members of the National Board.
 
 #### (5) Term of office
 
@@ -152,7 +152,7 @@ The National Board shall—
 
 #### (f) Administrative support
 
-The Secretary, on a reimbursable basis from funds made available under section 2009dd–7 of this title, may provide such administrative support to the National Board as the Secretary determines is necessary.
+The Secretary, on a reimbursable basis from funds made available under section 2009dd–7 ofthis title, may provide such administrative support to the National Board as the Secretary determines is necessary.
 
 (Pub. L. 87–128, title III, §385C, as added Pub. L. 107–171, title VI, §6030, May 13, 2002, 116 Stat. 403; amended Pub. L. 110–234, title VI, §6028, May 22, 2008, 122 Stat. 1184; Pub. L. 110–246, §4(a), title VI, §6028, June 18, 2008, 122 Stat. 1664, 1945.)
 
@@ -172,5 +172,5 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (1)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph (1)".</i>
 

@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-The authority to initiate projects under this subchapter shall terminate on September 30, 2012.
+The authority to initiate projects under this subchapter shall terminate on September 30, 2013.
 
 #### (b) Deposits in Treasury
 
-Any project funds not obligated by September 30, 2013, shall be deposited in the Treasury of the United States.
+Any project funds not obligated by September 30, 2014, shall be deposited in the Treasury of the United States.
 
-(Pub. L. 106–393, title II, §208, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3909; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), (8), July 6, 2012, 126 Stat. 905, 906.)
+(Pub. L. 106–393, title II, §208, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3909; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), (8), July 6, 2012, 126 Stat. 905, 906; Pub. L. 113–40, §10(a)(2)(E), Oct. 2, 2013, 127 Stat. 545.)
 
 #### Prior Provisions
 
@@ -16,7 +16,11 @@ A prior section 208 of Pub. L. 106–393 was set out in a note under section 500
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100101(a)(2), substituted “2012” for “2011”.
+<b>2013</b>—Subsec. (a). Pub. L. 113–40, §10(a)(2)(E)(i), substituted "2013" for "2012".
 
-Subsec. (b). Pub. L. 112–141, §100101(a)(8), substituted “2013” for “2012”.
+Subsec. (b). Pub. L. 113–40, §10(a)(2)(E)(ii), substituted "2014" for "2013".
+
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100101(a)(2), substituted "2012" for "2011".
+
+Subsec. (b). Pub. L. 112–141, §100101(a)(8), substituted "2013" for "2012".
 

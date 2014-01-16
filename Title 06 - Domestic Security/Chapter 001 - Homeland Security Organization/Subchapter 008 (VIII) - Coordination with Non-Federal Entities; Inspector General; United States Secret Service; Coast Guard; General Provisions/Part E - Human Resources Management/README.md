@@ -10,3 +10,4 @@ Part E—Human Resources Management
 - [&sect; 00413 - Use of counternarcotics enforcement activities in certain employee performance appraisals](%C2%A7%2000413%20-%20Use%20of%20counternarcotics%20enforcement%20activities%20in%20certain%20employee%20performance%20appraisals.md)
 - [&sect; 00414 - Homeland Security Rotation Program](%C2%A7%2000414%20-%20Homeland%20Security%20Rotation%20Program.md)
 - [&sect; 00415 - Homeland Security Education Program](%C2%A7%2000415%20-%20Homeland%20Security%20Education%20Program.md)
+- [&sect; 00416 - Use of protective equipment or measures by employees](%C2%A7%2000416%20-%20Use%20of%20protective%20equipment%20or%20measures%20by%20employees.md)

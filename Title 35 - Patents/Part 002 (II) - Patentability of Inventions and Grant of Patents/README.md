@@ -21,11 +21,11 @@
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–273, div. C, title III, §13206(a)(6), Nov. 2, 2002, 116 Stat. 1904, substituted “Examination of Application” for “Examination of Applications” in heading of chapter 12.
+<b>2002</b>—Pub. L. 107–273, div. C, title III, §13206(a)(6), Nov. 2, 2002, 116 Stat. 1904, substituted "Examination of Application" for "Examination of Applications" in heading of chapter 12.
 
 <b>1982</b>—Pub. L. 97–256, title I, §101(6), Sept. 8, 1982, 96 Stat. 816, added item for chapter 18.
 
-<b>1975</b>—Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949, substituted “Patent and Trademark Office” for “Patent Office” in heading of chapter 13.
+<b>1975</b>—Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949, substituted "Patent and Trademark Office" for "Patent Office" in heading of chapter 13.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
 

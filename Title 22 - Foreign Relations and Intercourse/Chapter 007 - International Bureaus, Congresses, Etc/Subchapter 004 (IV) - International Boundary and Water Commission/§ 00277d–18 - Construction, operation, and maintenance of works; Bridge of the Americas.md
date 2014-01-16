@@ -16,7 +16,7 @@ The authority of subsection (b) of this section may be exercised only to the ext
 
 #### Amendments
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–113 inserted “operations, maintenance, and” after “cost of”.
+<b>1999</b>—Subsec. (b). Pub. L. 106–113 inserted "operations, maintenance, and" after "cost of".
 
 <b>1994</b>—Pub. L. 103–236 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 

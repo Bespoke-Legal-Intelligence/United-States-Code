@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—The Foundation of the Federal Bar Association (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—The Foundation of the Federal Bar Association (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

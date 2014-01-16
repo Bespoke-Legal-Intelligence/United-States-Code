@@ -6,7 +6,7 @@ All personnel actions affecting employees or applicants for employment (except w
 
 #### (b) Equal Employment Opportunity Commission; enforcement powers; issuance of rules, regulations, etc.; annual review and approval of national and regional equal employment opportunity plans; review and evaluation of equal employment opportunity programs and publication of progress reports; consultations with interested parties; compliance with rules, regulations, etc.; contents of national and regional equal employment opportunity plans; authority of Librarian of Congress
 
-Except as otherwise provided in this subsection, the Equal Employment Opportunity Commission shall have authority to enforce the provisions of subsection (a) of this section through appropriate remedies, including reinstatement or hiring of employees with or without back pay, as will effectuate the policies of this section, and shall issue such rules, regulations, orders and instructions as it deems necessary and appropriate to carry out its responsibilities under this section. The Equal Employment Opportunity Commission shall—
+Except as otherwise provided in this subsection, the Equal Employment Opportunity Commission shall have authority to enforce the provisions of subsection (a) of this section through appropriate remedies, including reinstatement or hiring of employees with or without back pay, as will effectuate the policies ofthis section, and shall issue such rules, regulations, orders and instructions as it deems necessary and appropriate to carry out its responsibilities under this section. The Equal Employment Opportunity Commission shall—
 
 &emsp;(1) be responsible for the annual review and approval of a national and regional equal employment opportunity plan which each department and agency and each appropriate unit referred to in subsection (a) of this section shall submit in order to maintain an affirmative program of equal employment opportunity for all such employees and applicants for employment;
 
@@ -50,19 +50,19 @@ Executive Order 11478, as amended, referred to in subsecs. (c) and (e), is set o
 
 <b>2009</b>—Subsec. (f). Pub. L. 111–2 added subsec. (f).
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–435 substituted "Postal Regulatory Commission" for "Postal Rate Commission".
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–220 inserted “in the Smithsonian Institution,” before “and in the Government Printing Office,”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–220 inserted "in the Smithsonian Institution," before "and in the Government Printing Office,".
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–1 substituted “units of the judicial branch” for “units of the legislative and judicial branches” and inserted “Government Printing Office, the General Accounting Office, and the” before “Library of Congress”.
+<b>1995</b>—Subsec. (a). Pub. L. 104–1 substituted "units of the judicial branch" for "units of the legislative and judicial branches" and inserted "Government Printing Office, the General Accounting Office, and the" before "Library of Congress".
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–166, §114(1), substituted “90 days” for “thirty days”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–166, §114(1), substituted "90 days" for "thirty days".
 
-Subsec. (d). Pub. L. 102–166, §114(2), inserted before the period “, and the same interest to compensate for delay in payment shall be available as in cases involving nonpublic parties.”
+Subsec. (d). Pub. L. 102–166, §114(2), inserted before the period ", and the same interest to compensate for delay in payment shall be available as in cases involving nonpublic parties."
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–191 struck out “(other than the General Accounting Office)” after “in executive agencies”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–191 struck out "(other than the General Accounting Office)" after "in executive agencies".
 
 #### Effective Date of 2009 Amendment
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 96–191 effective Oct. 1, 1980, see section 10(a) of Pub. 
 
 #### Transfer of Functions
 
-“Equal Employment Opportunity Commission” substituted for “Civil Service Commission” in subsecs. (b) and (c) pursuant to Reorg. Plan No. 1 of 1978, §3, 43 F.R. 19807, 92 Stat. 3781, set out as a note under section 2000e–4 of this title, which transferred all equal opportunity in Federal employment enforcement and related functions vested in Civil Service Commission by subsecs. (b) and (c) of this section to Equal Employment Opportunity Commission, with certain authority delegable to Director of Office of Personnel Management, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053, set out as a note under section 2000e–4 of this title.
+"Equal Employment Opportunity Commission" substituted for "Civil Service Commission" in subsecs. (b) and (c) pursuant to Reorg. Plan No. 1 of 1978, §3, 43 F.R. 19807, 92 Stat. 3781, set out as a note under section 2000e–4 of this title, which transferred all equal opportunity in Federal employment enforcement and related functions vested in Civil Service Commission by subsecs. (b) and (c) of this section to Equal Employment Opportunity Commission, with certain authority delegable to Director of Office of Personnel Management, effective Jan. 1, 1979, as provided by section 1–101 of Ex. Ord. No. 12106, Dec. 28, 1978, 44 F.R. 1053, set out as a note under section 2000e–4 of this title.
 
 #### Ex. Ord. No. 13145. To Prohibit Discrimination in Federal Employment Based on Genetic Information
 
@@ -106,13 +106,13 @@ Sec. 2. <i>Requirements Applicable to Employing Departments and Agencies.</i>
 
 1–201. Definitions.
 
-&emsp;(a) The term “employee” shall include an employee, applicant for employment, or former employee covered by section 717 of the Civil Rights Act of 1964, as amended (42 U.S.C. 2000e–16).
+&emsp;(a) The term "employee" shall include an employee, applicant for employment, or former employee covered by section 717 of the Civil Rights Act of 1964, as amended (42 U.S.C. 2000e–16).
 
 &emsp;(b) Genetic monitoring means the periodic examination of employees to evaluate acquired modifications to their genetic material, such as chromosomal damage or evidence of increased occurrence of mutations, that may have developed in the course of employment due to exposure to toxic substances in the workplace, in order to identify, evaluate, respond to the effects of, or control adverse environmental exposures in the workplace.
 
 &emsp;(c) Genetic services means health services, including genetic tests, provided to obtain, assess, or interpret genetic information for diagnostic or therapeutic purposes, or for genetic education or counseling.
 
-&emsp;(d) Genetic test means the analysis of human DNA, RNA, chromosomes, proteins, or certain metabolites in order to detect disease-related genotypes or mutations. Tests for metabolites fall within the definition of “genetic tests” when an excess or deficiency of the metabolites indicates the presence of a mutation or mutations. The conducting of metabolic tests by a department or agency that are not intended to reveal the presence of a mutation shall not be considered a violation of this order, regardless of the results of the tests. Test results revealing a mutation shall, however, be subject to the provisions of this order.
+&emsp;(d) Genetic test means the analysis of human DNA, RNA, chromosomes, proteins, or certain metabolites in order to detect disease-related genotypes or mutations. Tests for metabolites fall within the definition of "genetic tests" when an excess or deficiency of the metabolites indicates the presence of a mutation or mutations. The conducting of metabolic tests by a department or agency that are not intended to reveal the presence of a mutation shall not be considered a violation of this order, regardless of the results of the tests. Test results revealing a mutation shall, however, be subject to the provisions of this order.
 
 &emsp;(e) Protected genetic information.
 
@@ -130,7 +130,7 @@ Sec. 2. <i>Requirements Applicable to Employing Departments and Agencies.</i>
 
 &emsp;(a) The employing department or agency shall not discharge, fail or refuse to hire, or otherwise discriminate against any employee with respect to the compensation, terms, conditions, or privileges of employment of that employee, because of protected genetic information with respect to the employee, or because of information about a request for or the receipt of genetic services by such employee.
 
-&emsp;(b) The employing department or agency shall not limit, segregate, or classify employees in any way that would deprive or tend to deprive any employee of employment opportunities or otherwise adversely affect that employee's status, because of protected genetic information with respect to the employee or because of information about a request for or the receipt of genetic services by such employee.
+&emsp;(b) The employing department or agency shall not limit, segregate, or classify employees in any way that would deprive or tend to deprive any employeeof employment opportunities or otherwise adversely affect that employee's status, because of protected genetic information with respect to the employee or because of information about a request for or the receipt of genetic services by such employee.
 
 &emsp;(c) The employing department or agency shall not request, require, collect, or purchase protected genetic information with respect to an employee, or information about a request for or the receipt of genetic services by such employee.
 
@@ -140,7 +140,7 @@ Sec. 2. <i>Requirements Applicable to Employing Departments and Agencies.</i>
 
 &emsp;&emsp;(2) to an occupational or other health researcher, if the research conducted complies with the regulations and protections provided for under part 46 of title 45, of the Code of Federal Regulations;
 
-&emsp;&emsp;(3) if required by a Federal statute, congressional subpoena, or an order issued by a court of competent jurisdiction, except that if the subpoena or court order was secured without the knowledge of the individual to whom the information refers, theemployer shall provide the individual with adequate notice to challenge the subpoena or court order, unless the subpoena or court order also imposes confidentiality requirements; or
+&emsp;&emsp;(3) if required by a Federal statute, congressional subpoena, or an order issued by a court of competent jurisdiction, except that if the subpoena or court order was secured without the knowledge of the individual to whom the information refers, the employer shall provide the individual with adequate notice to challenge the subpoena or court order, unless the subpoena or court order also imposes confidentiality requirements; or
 
 &emsp;&emsp;(4) to executive branch officials investigating compliance with this order, if the information is relevant to the investigation.
 

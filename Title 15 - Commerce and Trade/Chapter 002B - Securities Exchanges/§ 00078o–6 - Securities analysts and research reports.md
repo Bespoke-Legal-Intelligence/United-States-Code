@@ -10,7 +10,7 @@ The Commission, or upon the authorization and direction of the Commission, a reg
 
 &emsp;&emsp;(B) limiting the supervision and compensatory evaluation of securities analysts to officials employed by the broker or dealer who are not engaged in investment banking activities; and
 
-&emsp;&emsp;(C) requiring that a broker or dealer and persons employed by a broker or dealer who are involved with investment banking activities may not, directly or indirectly, retaliate against or threaten to retaliate against any securities analyst employed by that broker or dealer or its affiliates as a result of an adverse, negative, or otherwise unfavorable research report that may adversely affect the present or prospective investment banking relationship of the broker or dealer with the issuer that is the subject of the research report, except that such rulesmay not limit the authority of a broker or dealer to discipline a securities analyst for causes other than such research report in accordance with the policies and procedures of the firm;
+&emsp;&emsp;(C) requiring that a broker or dealer and persons employed by a broker or dealer who are involved with investment banking activities may not, directly or indirectly, retaliate against or threaten to retaliate against any securities analyst employed by that broker or dealer or its affiliates as a result of an adverse, negative, or otherwise unfavorable research report that may adversely affect the present or prospective investment banking relationship of the broker or dealer with the issuer that is the subject of the research report, except that such rules may not limit the authority of a broker or dealer to discipline a securities analyst for causes other than such research report in accordance with the policies and procedures of the firm;
 
 &emsp;(2) to define periods during which brokers or dealers who have participated, or are to participate, in a public offering of securities as underwriters or dealers should not publish or otherwise distribute research reports relating to such securities or to the issuer of such securities;
 
@@ -44,9 +44,9 @@ Notwithstanding subsection (a) or any other provision of law, neither the Commis
 
 In this section—
 
-&emsp;(1) the term “securities analyst” means any associated person of a registered broker or dealer that is principally responsible for, and any associated person who reports directly or indirectly to a securities analyst in connection with, the preparation of the substance of a research report, whether or not any such person has the job title of “securities analyst”; and
+&emsp;(1) the term "securities analyst" means any associated person of a registered broker or dealer that is principally responsible for, and any associated person who reports directly or indirectly to a securities analyst in connection with, the preparation of the substance of a research report, whether or not any such person has the job title of "securities analyst"; and
 
-&emsp;(2) the term “research report” means a written or electronic communication that includes an analysis of equity securities of individual companies or industries, and that provides information reasonably sufficient upon which to base an investment decision.
+&emsp;(2) the term "research report" means a written or electronic communication that includes an analysis of equity securities of individual companies or industries, and that provides information reasonably sufficient upon which to base an investment decision.
 
 (June 6, 1934, ch. 404, title I, §15D, as added Pub. L. 107–204, title V, §501(a), July 30, 2002, 116 Stat. 791; amended Pub. L. 112–106, title I, §105(b), Apr. 5, 2012, 126 Stat. 311.)
 
@@ -56,13 +56,13 @@ In this section—
 
 #### Post Offering Communications
 
-Pub. L. 112–106, title I, §105(d), Apr. 5, 2012, 126 Stat. 311, provided that: “Neither the \[Securities and Exchange\] Commission nor any national securities association registered under section 15A of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–3\] may adopt or maintain any rule or regulation prohibiting any broker, dealer, or member of a national securities association from publishing or distributing any research report or making a public appearance, with respect to the securities of an emerging growth company, either—
+Pub. L. 112–106, title I, §105(d), Apr. 5, 2012, 126 Stat. 311, provided that: "Neither the \[Securities and Exchange\] Commission nor any national securities association registered under section 15A of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–3\] may adopt or maintain any rule or regulation prohibiting any broker, dealer, or member of a national securities association from publishing or distributing any research report or making a public appearance, with respect to the securities of an emerging growth company, either—
 
-&emsp;“(1) within any prescribed period of time following the initial public offering date of the emerging growth company; or
+&emsp;"(1) within any prescribed period of time following the initial public offering date of the emerging growth company; or
 
-&emsp;“(2) within any prescribed period of time prior to the expiration date of any agreement between the broker, dealer, or member of a national securities association and the emerging growth company or its shareholders that restricts or prohibits the sale of securities held by the emerging growth company or its shareholders after the initial public offering date.”
+&emsp;"(2) within any prescribed period of time prior to the expiration date of any agreement between the broker, dealer, or member of a national securities association and the emerging growth company or its shareholders that restricts or prohibits the sale of securities held by the emerging growth company or its shareholders after the initial public offering date."
 
 #### Commission Authority
 
-Pub. L. 107–204, title V, §501(c), July 30, 2002, 116 Stat. 793, provided that: “The Commission may promulgate and amend its regulations, or direct a registered securities association or national securities exchange to promulgate and amend its rules, to carry out section 15D of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–6\], as added by this section, as is necessary for the protection of investors and in the public interest.”
+Pub. L. 107–204, title V, §501(c), July 30, 2002, 116 Stat. 793, provided that: "The Commission may promulgate and amend its regulations, or direct a registered securities association or national securities exchange to promulgate and amend its rules, to carry out section 15D of the Securities Exchange Act of 1934 \[15 U.S.C. 78o–6\], as added by this section, as is necessary for the protection of investors and in the public interest."
 

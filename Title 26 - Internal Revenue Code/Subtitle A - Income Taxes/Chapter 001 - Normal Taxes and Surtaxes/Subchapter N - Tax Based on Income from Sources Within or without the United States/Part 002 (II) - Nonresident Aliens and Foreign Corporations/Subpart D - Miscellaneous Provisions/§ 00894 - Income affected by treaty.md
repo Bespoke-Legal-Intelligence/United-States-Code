@@ -36,13 +36,13 @@ For purposes of applying any exemption from, or reduction of, any tax provided b
 
 <b>1997</b>—Subsec. (c). Pub. L. 105–34 added subsec. (c).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted “Treaty provisions” for “Income affected by treaty” in heading and amended text generally. Prior to amendment, text read as follows: “Income of any kind, to the extent required by any treaty obligation of the United States, shall not be included in gross income and shall be exempt from taxation under this subtitle.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted "Treaty provisions" for "Income affected by treaty" in heading and amended text generally. Prior to amendment, text read as follows: "Income of any kind, to the extent required by any treaty obligation of the United States, shall not be included in gross income and shall be exempt from taxation under this subtitle."
 
-<b>1966</b>—Pub. L. 89–809 designated existing provisions as subsec. (a), added subsec. (b), and substituted “affected by treaty” for “exempt under treaty” in section catchline.
+<b>1966</b>—Pub. L. 89–809 designated existing provisions as subsec. (a), added subsec. (b), and substituted "affected by treaty" for "exempt under treaty" in section catchline.
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title X, §1054(b), Aug. 5, 1997, 111 Stat. 944, provided that: “The amendments made by this section \[amending this section\] shall apply upon the date of enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1054(b), Aug. 5, 1997, 111 Stat. 944, provided that: "The amendments made by this section \[amending this section\] shall apply upon the date of enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -50,5 +50,5 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1966 Amendment
 
-Pub. L. 89–809, title I, §105(d), Nov. 13, 1966, 80 Stat. 1565, provided that: “The amendments made by this section (other than subsections (d) and (f)) \[amending this section and enacting section 896 of this title\] shall apply with respect to taxable years beginning after December 31, 1966.”
+Pub. L. 89–809, title I, §105(d), Nov. 13, 1966, 80 Stat. 1565, provided that: "The amendments made by this section (other than subsections (d) and (f)) \[amending this section and enacting section 896 of this title\] shall apply with respect to taxable years beginning after December 31, 1966."
 

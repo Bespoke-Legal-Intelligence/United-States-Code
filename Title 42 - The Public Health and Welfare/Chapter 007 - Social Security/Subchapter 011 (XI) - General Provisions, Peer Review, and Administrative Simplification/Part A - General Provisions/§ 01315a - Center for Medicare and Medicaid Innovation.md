@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;There is created within the Centers for Medicare \& Medicaid Services a Center for Medicare and Medicaid Innovation (in this section referred to as the “CMI”) to carry out the duties described in this section. The purpose of the CMI is to test innovative payment and service delivery models to reduce program expenditures under the applicable subchapters while preserving or enhancing the quality of care furnished to individuals under such subchapters. In selecting such models, the Secretary shall give preference to models that also improve the coordination, quality, and efficiency of health care services furnished to applicable individuals defined in paragraph (4)(A).
+&emsp;There is created within the Centers for Medicare \& Medicaid Services a Center for Medicare and Medicaid Innovation (in this section referred to as the "CMI") to carry out the duties described in this section. The purpose of the CMI is to test innovative payment and service delivery models to reduce program expenditures under the applicable subchapters while preserving or enhancing the quality of care furnished to individuals under such subchapters. In selecting such models, the Secretary shall give preference to models that also improve the coordination, quality, and efficiency of health care services furnished to applicable individuals defined in paragraph (4)(A).
 
 #### (2) Deadline
 
@@ -20,7 +20,7 @@
 
 #### (A) Applicable individual
 
-&emsp;&emsp;The term “applicable individual” means—
+&emsp;&emsp;The term "applicable individual" means—
 
 &emsp;&emsp;&emsp;(i) an individual who is entitled to, or enrolled for, benefits under part A of subchapter XVIII or enrolled for benefits under part B of such subchapter;
 
@@ -30,7 +30,7 @@
 
 #### (B) Applicable subchapter
 
-&emsp;&emsp;The term “applicable subchapter” means subchapter XVIII, subchapter XIX, or both.
+&emsp;&emsp;The term "applicable subchapter" means subchapter XVIII, subchapter XIX, or both.
 
 #### (5) Testing within certain geographic areas
 
@@ -46,7 +46,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall select models to be tested from models where the Secretary determines that there is evidence that the model addresses a defined population for which there are deficits in care leading to poor clinical outcomes or potentially avoidable expenditures. The Secretary shall focus on models expected to reduce program costs under the applicable subchapter while preserving or enhancing the quality of care received by individuals receiving benefits under such subchapter. The models selected under this subparagraph may include, but are not limited to, the models described in subparagraph (B).
+&emsp;&emsp;The Secretary shall select models to be tested from models where the Secretary determines that there is evidence that the model addresses a defined population for which there are deficits in care leading to poor clinical outcomes or potentially avoidable expenditures. The Secretary shall focus on models expected to reduce program costs under the applicable subchapter while preserving or enhancing the quality of care received by individuals receiving benefits under such subchapter. The models selectedunder this subparagraph may include, but are not limited to, the models described in subparagraph (B).
 
 #### (B) Opportunities
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) providing assistance to other health care institutions on how best to employ such best practices and proven care methods to improve health care quality and lower costs.
 
-&emsp;&emsp;&emsp;(xvi) Facilitate inpatient care, including intensive care, of hospitalized applicableindividuals at their local hospital through the use of electronic monitoring by specialists, including intensivists and critical care specialists, based at integrated health systems.
+&emsp;&emsp;&emsp;(xvi) Facilitate inpatient care, including intensive care, of hospitalized applicable individuals at their local hospital through the use of electronic monitoring by specialists, including intensivists and critical care specialists, based at integrated health systems.
 
 &emsp;&emsp;&emsp;(xvii) Promoting greater efficiencies and timely access to outpatient services (such as outpatient physical therapy services) through models that do not require a physician or other health professional to refer the service or be involved in establishing the plan of care for the service, when such service is furnished by a health professional who has the authority to furnish the service under existing State law.
 
@@ -240,7 +240,7 @@ Section 4016 of the Balanced Budget Act of 1997, referred to in subsec. (b)(2)(B
 
 <b>2010</b>—Subsec. (a)(5). Pub. L. 111–148, §10306(1), added par. (5).
 
-Subsec. (b)(2)(A). Pub. L. 111–148, §10306(2)(A), inserted “The Secretary shall focus on models expected to reduce program costs under the applicable subchapter while preserving or enhancing the quality of care received by individuals receiving benefits under such subchapter.” after the first sentence and substituted “this subparagraph may include, but are not limited to,” for “the preceding sentence may include”.
+Subsec. (b)(2)(A). Pub. L. 111–148, §10306(2)(A), inserted "The Secretary shall focus on models expected to reduce program costs under the applicable subchapter while preserving or enhancing the quality of care received by individuals receiving benefits under such subchapter." after the first sentence and substituted "this subparagraph may include, but are not limited to," for "the preceding sentence may include".
 
 Subsec. (b)(2)(B)(xix), (xx). Pub. L. 111–148, §10306(2)(B), added cls. (xix) and (xx).
 
@@ -250,9 +250,9 @@ Subsec. (b)(4)(C). Pub. L. 111–148, §10306(3), added subpar. (C).
 
 Subsec. (c). Pub. L. 111–148, §10306(4)(C), inserted concluding provisions.
 
-Subsec. (c)(1)(B). Pub. L. 111–148, §10306(4)(A), substituted “patient care without increasing spending;” for “care and reduce spending; and”.
+Subsec. (c)(1)(B). Pub. L. 111–148, §10306(4)(A), substituted "patient care without increasing spending;" for "care and reduce spending; and".
 
-Subsec. (c)(2). Pub. L. 111–148, §10306(4)(B), substituted “reduce (or would not result in any increase in) net program spending under applicable subchapters; and” for “reduce program spending under applicable subchapters.”
+Subsec. (c)(2). Pub. L. 111–148, §10306(4)(B), substituted "reduce (or would not result in any increase in) net program spending under applicable subchapters; and" for "reduce program spending under applicable subchapters."
 
 Subsec. (c)(3). Pub. L. 111–148, §10306(4)(C), added par. (3).
 
@@ -260,45 +260,45 @@ Subsec. (c)(3). Pub. L. 111–148, §10306(4)(C), added par. (3).
 
 Pub. L. 111–148, title II, §2705, Mar. 23, 2010, 124 Stat. 324, provided that:
 
-“(a)
+"(a)
 
-In General.—The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall, in coordination with the Center for Medicare and Medicaid Innovation (as established under section 1115A of the Social Security Act \[42 U.S.C. 1315a\], as added by section 3021 of this Act), establish the Medicaid Global Payment System Demonstration Project under which a participating State shall adjust the payments made to an eligible safety net hospital system or network from a fee-for-service payment structure to a global capitated payment model.
+In General.—The Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall, in coordination with the Center for Medicare and Medicaid Innovation (as established under section 1115A of the Social Security Act \[42 U.S.C. 1315a\], as added by section 3021 of this Act), establish the Medicaid Global Payment System Demonstration Project under which a participating State shall adjust the payments made to an eligible safety net hospital system or network from a fee-for-service payment structure to a global capitated payment model.
 
-“(b)
+"(b)
 
 Duration and Scope.—The demonstration project conducted under this section shall operate during a period of fiscal years 2010 through 2012. The Secretary shall select not more than 5 States to participate in the demonstration project.
 
-“(c)
+"(c)
 
-Eligible Safety Net Hospital System or Network.—For purposes of this section, the term ‘eligible safety net hospital system or network’ means a large, safety net hospital system or network (as defined by the Secretary) that operates within a State selected by the Secretary under subsection (b).
+Eligible Safety Net Hospital System or Network.—For purposes of this section, the term 'eligible safety net hospital system or network' means a large, safety net hospital system or network (as defined by the Secretary) that operates within a State selected by the Secretary under subsection (b).
 
-“(d)
+"(d)
 
 Evaluation.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Testing.—The Innovation Center shall test and evaluate the demonstration project conducted under this section to examine any changes in health care quality outcomes and spending by the eligible safety net hospital systems or networks.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Budget neutrality.—During the testing period under paragraph (1), any budget neutrality requirements under section 1115A(b)(3) of the Social Security Act \[42 U.S.C. 1315a(b)(3)\] (as so added) shall not be applicable.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Modification.—During the testing period under paragraph (1), the Secretary may, in the Secretary's discretion, modify or terminate the demonstration project conducted under this section.
 
-“(e)
+"(e)
 
 Report.—Not later than 12 months after the date of completion of the demonstration project under this section, the Secretary shall submit to Congress a report containing the results of the evaluation and testing conducted under subsection (d), together with recommendations for such legislation and administrative action as the Secretary determines appropriate.
 
-“(f)
+"(f)
 
-Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section.”
+Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Promoting”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Promoting".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “in section”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "in section".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be preceded by “the”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be preceded by "the".</i>
 

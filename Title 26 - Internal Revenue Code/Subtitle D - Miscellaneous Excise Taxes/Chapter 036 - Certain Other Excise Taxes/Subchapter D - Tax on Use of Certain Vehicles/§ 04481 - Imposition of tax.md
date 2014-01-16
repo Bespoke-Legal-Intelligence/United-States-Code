@@ -57,35 +57,35 @@ Section 6156, referred to in subsec. (d)(2), was repealed by Pub. L. 108–357, 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (f). Pub. L. 112–141 substituted “2017” for “2013”.
+<b>2012</b>—Subsec. (f). Pub. L. 112–141 substituted "2017" for "2013".
 
-Pub. L. 112–102 substituted “2013” for “2012”.
+Pub. L. 112–102 substituted "2013" for "2012".
 
-<b>2011</b>—Subsec. (f). Pub. L. 112–30 substituted “2012” for “2011”.
+<b>2011</b>—Subsec. (f). Pub. L. 112–30 substituted "2012" for "2011".
 
-<b>2005</b>—Subsec. (f). Pub. L. 109–59 substituted “2011” for “2006”.
+<b>2005</b>—Subsec. (f). Pub. L. 109–59 substituted "2011" for "2006".
 
-Pub. L. 109–14 substituted “2006” for “2005”.
+Pub. L. 109–14 substituted "2006" for "2005".
 
-<b>2004</b>—Subsec. (c)(2). Pub. L. 108–357, §867(a)(2), substituted “sold, destroyed, or stolen” for “destroyed or stolen” in heading.
+<b>2004</b>—Subsec. (c)(2). Pub. L. 108–357, §867(a)(2), substituted "sold, destroyed, or stolen" for "destroyed or stolen" in heading.
 
-Subsec. (c)(2)(A). Pub. L. 108–357, §867(a)(1), substituted “sold, destroyed, or stolen” for “destroyed or stolen” in two places.
+Subsec. (c)(2)(A). Pub. L. 108–357, §867(a)(1), substituted "sold, destroyed, or stolen" for "destroyed or stolen" in two places.
 
 Subsecs. (e), (f). Pub. L. 108–357, §867(c), added subsec. (e) and redesignated former subsec. (e) as (f).
 
-<b>1998</b>—Subsec. (e). Pub. L. 105–178 substituted “2005” for “1999”.
+<b>1998</b>—Subsec. (e). Pub. L. 105–178 substituted "2005" for "1999".
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–188 provided that section 8002(a)(5) of Pub. L. 102–240 shall be applied as if “4481(e)” appeared instead of “4481(c)”. See 1991 Amendment note below.
+<b>1996</b>—Subsec. (e). Pub. L. 104–188 provided that section 8002(a)(5) of Pub. L. 102–240 shall be applied as if "4481(e)" appeared instead of "4481(c)". See 1991 Amendment note below.
 
-<b>1991</b>—Subsec. (e). Pub. L. 102–240, which directed the substitution of “1999” for “1995” in subsec. (c), was executed by making the substitution in subsec. (e). See 1996 Amendment note above.
+<b>1991</b>—Subsec. (e). Pub. L. 102–240, which directed the substitution of "1999" for "1995" in subsec. (c), was executed by making the substitution in subsec. (e). See 1996 Amendment note above.
 
-<b>1990</b>—Subsec. (e). Pub. L. 101–508 substituted “1995” for “1993”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–508 substituted "1995" for "1993".
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–17, §507(a), inserted “or contiguous foreign country” after “State”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–17, §507(a), inserted "or contiguous foreign country" after "State".
 
-Subsec. (e). Pub. L. 100–17, §502(a)(5), substituted “1993” for “1988”.
+Subsec. (e). Pub. L. 100–17, §502(a)(5), substituted "1993" for "1988".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369, §901(a), in amending subsec. (a) generally, substituted “55,000” for “33,000” in provisions preceding table, struck out heading “(1) In general”, substituted table provisions for former table which provided:
+<b>1984</b>—Subsec. (a). Pub. L. 98–369, §901(a), in amending subsec. (a) generally, substituted "55,000" for "33,000" in provisions preceding table, struck out heading "(1) In general", substituted table provisions for former table which provided:
 
 &nbsp;
 
@@ -98,33 +98,33 @@ Subsec. (e). Pub. L. 100–17, §502(a)(5), substituted “1993” for “1988�
 
 > and struck out par. (2) which provided applicable rates and maximum taxes for taxable periods beginning July 1, 1984 through 1988 or thereafter.
 
-Pub. L. 98–369, §734(f), struck out from subsec. (a), as subsec. (a) was in effect before the amendments made by section 513(a) of Pub. L. 97–424: “In case of the taxable period beginning on July 1, 1984, and ending on September 30, 1984, the tax shall be at the rate of 75 cents for such period for each 1,000 pounds of taxable gross weight or fraction thereof.” See 1983 Amendment note below.
+Pub. L. 98–369, §734(f), struck out from subsec. (a), as subsec. (a) was in effect before the amendments made by section 513(a) of Pub. L. 97–424: "In case of the taxable period beginning on July 1, 1984, and ending on September 30, 1984, the tax shall be at the rate of 75 cents for such period for each 1,000 pounds of taxable gross weight or fraction thereof." See 1983 Amendment note below.
 
-<b>1983</b>—Subsec. (a). Pub. L. 97–424, §513(a), substituted “at least 33,000 pounds at the rate specified in the following table:” for “more than 26,000 pounds, at the rate of $3.00 a year for each 1,000 pounds of taxable gross weight or fraction thereof.”, and added pars. (1) and (2).
+<b>1983</b>—Subsec. (a). Pub. L. 97–424, §513(a), substituted "at least 33,000 pounds at the rate specified in the following table:" for "more than 26,000 pounds, at the rate of $3.00 a year for each 1,000 pounds of taxable gross weight or fraction thereof.", and added pars. (1) and (2).
 
 Subsec. (c). Pub. L. 97–424, §513(d), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (e). Pub. L. 97–424, §516(a)(4), substituted “1988” for “1984” after “October 1,”.
+Subsec. (e). Pub. L. 97–424, §516(a)(4), substituted "1988" for "1984" after "October 1,".
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–599, §502(a)(6), substituted “1984” for “1979” in two places.
+<b>1978</b>—Subsec. (a). Pub. L. 95–599, §502(a)(6), substituted "1984" for "1979" in two places.
 
-Subsec. (e). Pub. L. 95–599, §502(a)(7), substituted “1984” for “1979”.
+Subsec. (e). Pub. L. 95–599, §502(a)(7), substituted "1984" for "1979".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–280, §303(a)(7), substituted “1979” for “1977” in two places.
+<b>1976</b>—Subsec. (a). Pub. L. 94–280, §303(a)(7), substituted "1979" for "1977" in two places.
 
-Subsec. (e). Pub. L. 94–280, §303(a)(8), substituted “1979” for “1977”.
+Subsec. (e). Pub. L. 94–280, §303(a)(8), substituted "1979" for "1977".
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–605, §303(a)(7), substituted “1977” for “1972” in two places.
+<b>1970</b>—Subsec. (a). Pub. L. 91–605, §303(a)(7), substituted "1977" for "1972" in two places.
 
-Subsec. (e). Pub. L. 91–605, §303(a)(8), substituted “1977” for “1972”.
+Subsec. (e). Pub. L. 91–605, §303(a)(8), substituted "1977" for "1972".
 
 <b>1961</b>—Subsec. (a). Pub. L. 87–61, §203(a), (b)(2)(A), increased rate of tax from $1.50 to $3.00 a year, and provided for a tax at the rate of 75 cents for each 1,000 pounds during the period beginning on July 1, 1972, and ending on September 30, 1972.
 
-Subsec. (c). Pub. L. 87–61, §203(b)(2)(B), substituted “any taxable period” for “any year”, “after the first month in such period” for “after July 31”, and “the last day in such taxable period” for “the last day of June following”.
+Subsec. (c). Pub. L. 87–61, §203(b)(2)(B), substituted "any taxable period" for "any year", "after the first month in such period" for "after July 31", and "the last day in such taxable period" for "the last day of June following".
 
 Subsec. (d). Pub. L. 87–61, §203(b)(2)(B), made conforming changes to refer to payment of tax for a taxable period instead of payment for a year, and inserted cross reference to section 6156.
 
-Subsec. (e). Pub. L. 87–61, §203(b)(1), substituted “before October 1, 1972” for “after June 30, 1956, and before July 1, 1972”.
+Subsec. (e). Pub. L. 87–61, §203(b)(1), substituted "before October 1, 1972" for "after June 30, 1956, and before July 1, 1972".
 
 #### Effective Date of 2012 Amendment
 
@@ -138,53 +138,53 @@ Amendment by Pub. L. 112–30 effective Oct. 1, 2011, see section 142(f) of Pub.
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–14, §9(d), May 31, 2005, 119 Stat. 336, provided that: “The amendments made by this section \[amending this section and sections 4482, 4483, 9503, and 9504 of this title\] shall take effect on the date of the enactment of this Act \[May 31, 2005\].”
+Pub. L. 109–14, §9(d), May 31, 2005, 119 Stat. 336, provided that: "The amendments made by this section \[amending this section and sections 4482, 4483, 9503, and 9504 of this title\] shall take effect on the date of the enactment of this Act \[May 31, 2005\]."
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §867(e), Oct. 22, 2004, 118 Stat. 1622, provided that: “The amendments made by this section \[amending this section and section 4483 of this title and repealing section 6156 of this title\] shall apply to taxable periods beginning after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §867(e), Oct. 22, 2004, 118 Stat. 1622, provided that: "The amendments made by this section \[amending this section and section 4483 of this title and repealing section 6156 of this title\] shall apply to taxable periods beginning after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–17, title V, §507(d), Apr. 2, 1987, 101 Stat. 260, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 4483 of this title\] shall take effect on July 1, 1987.”
+Pub. L. 100–17, title V, §507(d), Apr. 2, 1987, 101 Stat. 260, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 4483 of this title\] shall take effect on July 1, 1987."
 
 #### Effective Date of 1984 Amendment
 
 Amendment by section 734(f) of Pub. L. 98–369 effective, except as otherwise provided, as if included in the provisions of the Highway Revenue Act of 1982, title V of Pub. L. 97–424, to which such amendment relates, see section 736 of Pub. L. 98–369, set out as a note under section 4051 of this title.
 
-Pub. L. 98–369, div. A, title IX, §901(c), July 18, 1984, 98 Stat. 1004, provided that: “The amendment made by subsection (a) \[amending this section\] (and the provisions of subsection (b) \[set out below\]) shall take effect on July 1, 1984.”
+Pub. L. 98–369, div. A, title IX, §901(c), July 18, 1984, 98 Stat. 1004, provided that: "The amendment made by subsection (a) \[amending this section\] (and the provisions of subsection (b) \[set out below\]) shall take effect on July 1, 1984."
 
 #### Effective Date of 1983 Amendment
 
 Pub. L. 97–424, title V, §513(f), Jan. 6, 1983, 96 Stat. 2179, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 4482 and 4483 of this title and enacting provisions set out below\] shall take effect on July 1, 1984.
 
-“(2)
+"(2)
 
 Special rule in the case of certain owner-operators.—
 
-“(A) In general.—In the case of a small owner-operator, paragraph (1) of this subsection and paragraph (2) of section 4481(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section) shall be applied by substituting for each date contained in such paragraphs a date which is 1 year after the date so contained.
+"(A) In general.—In the case of a small owner-operator, paragraph (1) of this subsection and paragraph (2) of section 4481(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by this section) shall be applied by substituting for each date contained in such paragraphs a date which is 1 year after the date so contained.
 
-“(B) Small owner-operator.—For purposes of this paragraph, the term “small owner-operator” means any person who owns and operates at any time during the taxable period no more than 5 highway motor vehicles with respect to which a tax is imposed by section 4481 of such Code for such taxable period.
+"(B) Small owner-operator.—For purposes of this paragraph, the term "small owner-operator" means any person who owns and operates at any time during the taxable period no more than 5 highway motor vehicles with respect to which a tax is imposed by section 4481 of such Code for such taxable period.
 
-&emsp;“\[No subpar. (C) has been enacted.\]
+&emsp;"\[No subpar. (C) has been enacted.\]
 
-“(D) Aggregation of vehicle ownerships.—For purposes of subparagraph (B), all highway motor vehicles with respect to which a tax is imposed by section 4481 of such Code which are owned by—
+"(D) Aggregation of vehicle ownerships.—For purposes of subparagraph (B), all highway motor vehicles with respect to which a tax is imposed by section 4481 of such Code which are owned by—
 
-&emsp;&emsp;“(i) any trade or business (whether or not incorporated) which is under common control with the taxpayer (within the meaning of section 52(b)), or
+&emsp;&emsp;"(i) any trade or business (whether or not incorporated) which is under common control with the taxpayer (within the meaning of section 52(b)), or
 
-&emsp;&emsp;“(ii) any member of any controlled groups of corporations of which the taxpayer is a member, for any taxable period shall be treated as being owned by the taxpayer during such period. The Secretaryshall prescribe regulations which provide attribution rules that take into account, in addition to the persons and entities described in the preceding sentence, taxpayers who own highway motor vehicles through partnerships, joint ventures, and corporations.
+&emsp;&emsp;"(ii) any member of any controlled groups of corporations of which the taxpayer is a member, for any taxable period shall be treated as being owned by the taxpayer during such period. The Secretary shall prescribe regulations which provide attribution rules that take into account, in addition to the persons and entities described in the preceding sentence, taxpayers who own highway motor vehicles through partnerships, joint ventures, and corporations.
 
-“(E) Controlled groups of corporations.—For purposes of this paragraph, the term ‘controlled group of corporations’ has the meaning given to such term by section 1563(a), except that—
+"(E) Controlled groups of corporations.—For purposes of this paragraph, the term 'controlled group of corporations' has the meaning given to such term by section 1563(a), except that—
 
-&emsp;&emsp;“(i) ‘more than 50 percent’ shall be substituted for ‘at least 80 percent’ each place it appears in section 1563(a)(1), and
+&emsp;&emsp;"(i) 'more than 50 percent' shall be substituted for 'at least 80 percent' each place it appears in section 1563(a)(1), and
 
-&emsp;&emsp;“(ii) the determination shall be made without regard to subsections (a)(4) and (e)(3)(C) of section 1563.
+&emsp;&emsp;"(ii) the determination shall be made without regard to subsections (a)(4) and (e)(3)(C) of section 1563.
 
-“(F) Highway motor vehicles.—For purposes of this paragraph, the term ‘highway motor vehicle’ has the meaning given to such term by section 4482(a) of such Code.”
+"(F) Highway motor vehicles.—For purposes of this paragraph, the term 'highway motor vehicle' has the meaning given to such term by section 4482(a) of such Code."
 
 #### Effective Date of 1961 Amendment
 
@@ -196,57 +196,57 @@ Section effective June 29, 1956, see section 211 of act June 29, 1956, set out a
 
 #### Regulations
 
-Pub. L. 100–17, title V, §507(c), Apr. 2, 1987, 101 Stat. 260, provided that: “The Secretary of the Treasury or the delegate of the Secretary shall within 120 days after the date of the enactment of this section \[Apr. 2, 1987\] prescribe regulations governing payment of the tax imposed by section 4481 of the Internal Revenue Code of 1986 on any highway motor vehicle operated by a motor carrier domiciled in any contiguous foreign country or owned or controlled by persons of any contiguous foreign country. Such regulations shall include a procedure by which the operator of such motor vehicle shall evidence that such operator has paid such tax at the time such motor vehicle enters the United States. In the event of the failure to provide evidence of payment, such regulations may provide for denial of entry of such motor vehicle into the United States.”
+Pub. L. 100–17, title V, §507(c), Apr. 2, 1987, 101 Stat. 260, provided that: "The Secretary of the Treasury or the delegate of the Secretary shall within 120 days after the date of the enactment of this section \[Apr. 2, 1987\] prescribe regulations governing payment of the tax imposed by section 4481 of the Internal Revenue Code of 1986 on any highway motor vehicle operated by a motor carrier domiciled in any contiguous foreign country or owned or controlled by persons of any contiguous foreign country. Such regulations shall include a procedure by which the operator of such motor vehicle shall evidence that such operator has paid such tax at the time such motor vehicle enters the United States. In the event of the failure to provide evidence of payment, such regulations may provide for denial of entry of such motor vehicle into the United States."
 
 #### Special Rules in the Case of Certain Owner-Operators
 
 Pub. L. 98–369, div. A, title IX, §901(b), July 18, 1984, 98 Stat. 1003, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 Special rule for taxable period beginning on july 1, 1984.—In the case of a small owner-operator, the amount of the tax imposed by section 4481 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] on the use of any highway motor vehicle subject to tax under section 4481(a) of such Code (as amended by subsection (a)) for the taxable period which begins on July 1, 1984, shall be the lesser of—
 
-&emsp;“(A) $3 for each 1,000 pounds of taxable gross weight (or fraction thereof), or
+&emsp;"(A) $3 for each 1,000 pounds of taxable gross weight (or fraction thereof), or
 
-&emsp;“(B) the amount of the tax which would be imposed under such section 4481(a) without regard to this paragraph.
+&emsp;"(B) the amount of the tax which would be imposed under such section 4481(a) without regard to this paragraph.
 
-“(2)
+"(2)
 
 Exemption for vehicles used for less than 5,000 miles (and certain other amendments) to take effect on july 1, 1984.—In the case of a small owner-operator, notwithstanding subsection (f)(2) of section 513 of the Highway Revenue Act of 1982 \[section 513(f)(2) of Pub. L. 97–424, set out as an Effective Date of 1983 Amendment note above\], the amendments made by subsections (b), (c), and (d) of such section \[amending sections 4481 to 4483 of this title\] shall take effect on July 1, 1984.
 
-“(3)
+"(3)
 
-Small owner-operator defined.—For purposes of this subsection, the term ‘small owner-operator’ has the meaning given such term by section 513(f)(2) of the Highway Revenue Act of 1982.
+Small owner-operator defined.—For purposes of this subsection, the term 'small owner-operator' hasthe meaning given such term by section 513(f)(2) of the Highway Revenue Act of 1982.
 
-“(4)
+"(4)
 
-Taxable gross weight.—For purposes of this subsection, the term ‘taxable gross weight’ has the same meaning as when used in section 4481 of the Internal Revenue Code of 1986.”
+Taxable gross weight.—For purposes of this subsection, the term 'taxable gross weight' has the same meaning as when used in section 4481 of the Internal Revenue Code of 1986."
 
 #### Studies Relating to Heavy Vehicle Use Tax
 
 Pub. L. 98–369, div. A, title IX, subtitle D, part I, July 18, 1984, 98 Stat. 1010, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-#### “SEC. 931. WHETHER HEAVY VEHICLES BEAR FAIR SHARE OF HIGHWAY COSTS.
+#### "SEC. 931. WHETHER HEAVY VEHICLES BEAR FAIR SHARE OF HIGHWAY COSTS.
 
-“The Secretary of Transportation shall conduct a study of whether highway motor vehicles with taxable gross weights of 80,000 pounds or more bear their fair share of the costs of the highway system.
+"The Secretary of Transportation shall conduct a study of whether highway motor vehicles with taxable gross weights of 80,000 pounds or more bear their fair share of the costs of the highway system.
 
-#### “SEC. 932. TRANS-BORDER TRUCKING.
+#### "SEC. 932. TRANS-BORDER TRUCKING.
 
-“The Secretary of Transportation shall conduct a study to determine the significance of the tax imposed by section 4481 of the Internal Revenue Code of 1986 (relating to tax on use of certain vehicles) on trans-border trucking operations.
+"The Secretary of Transportation shall conduct a study to determine the significance of the tax imposed by section 4481 of the Internal Revenue Code of 1986 (relating to tax on use of certain vehicles) on trans-border trucking operations.
 
-#### “SEC. 933. WEIGHT-DISTANCE TAXES.
+#### "SEC. 933. WEIGHT-DISTANCE TAXES.
 
-“The Secretary of Transportation shall conduct a study to evaluate the feasibility and ability of weight-distance truck taxes to provide the greatest degree of equity among highway users, to ease the costs of compliance of such taxes, and to improve the efficiency by which such taxes might be administered. Such study shall also include an evaluation of the evasion potential for weight-distance taxes and an assessment of the benefits to interstate commerce of replacing all Federal truck taxes (other than fuel taxes) with a weight-distance tax.
+"The Secretary of Transportation shall conduct a study to evaluate the feasibility and ability of weight-distance truck taxes to provide the greatest degree of equity among highway users, to ease the costs of compliance of such taxes, and to improve the efficiency by which such taxes might be administered. Such study shall also include an evaluation of the evasion potential for weight-distance taxes and an assessment of the benefits to interstate commerce of replacing all Federal truck taxes (other than fuel taxes) with a weight-distance tax.
 
-#### “SEC. 934. REPORTS, ETC.
+#### "SEC. 934. REPORTS, ETC.
 
-“(a)
+"(a)
 
 Consultation With Treasury.—Studies conducted under this part shall be conducted in consultation with the Secretary of the Treasury.
 
-“(b)
+"(b)
 
-Report.—Not later than October 1, 1987, the Secretary of Transportation shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on each study conducted under this part together with such recommendations as the Secretary may deem advisable.”
+Report.—Not later than October 1, 1987, the Secretary of Transportation shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report on each study conducted under this part together with such recommendations as the Secretary may deem advisable."
 
 #### Study of Alternatives to Tax on Use of Heavy Trucks
 

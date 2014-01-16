@@ -6,5 +6,5 @@ Notwithstanding any other provision of law, the Secretary of Agriculture is auth
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–127 inserted “solicit,” after “authorized to” in first sentence.
+<b>1996</b>—Pub. L. 104–127 inserted "solicit," after "authorized to" in first sentence.
 

@@ -6,7 +6,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Administration human space flight vehicle.—The term “Administration human space flight vehicle” means a space vehicle, as defined in section 20138(a) of this title, that—
+Administration human space flight vehicle.—The term "Administration human space flight vehicle" means a space vehicle, as defined in section 20138(a) of this title, that—
 
 &emsp;&emsp;(A) is intended to transport one or more persons;
 
@@ -20,7 +20,7 @@ Administration human space flight vehicle.—The term “Administration human sp
 
 &emsp;(2)
 
-Crewmember.—The term “crewmember” means an astronaut or other person assigned to an Administration human space flight vehicle.
+Crewmember.—The term "crewmember" means an astronaut or other person assigned to an Administration human space flight vehicle.
 
 (b)
 

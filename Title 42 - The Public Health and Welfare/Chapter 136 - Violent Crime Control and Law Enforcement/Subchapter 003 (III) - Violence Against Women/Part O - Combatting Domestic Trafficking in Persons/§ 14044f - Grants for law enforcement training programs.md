@@ -6,19 +6,19 @@ In this section:
 
 #### (1) Act of trafficking
 
-&emsp;The term “act of trafficking” means an act or practice described in paragraph (8) of section 7102 of title 22.
+&emsp;The term "act of trafficking" means an act or practice described in paragraph (9) of section 7102 of title 22.
 
 #### (2) Eligible entity
 
-&emsp;The term “eligible entity” means a State or a local government.
+&emsp;The term "eligible entity" means a State or a local government.
 
 #### (3) State
 
-&emsp;The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and any other territory or possession of the United States.
+&emsp;The term "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, the United States Virgin Islands, the Commonwealth of the Northern Mariana Islands, American Samoa, and any other territory or possession of the United States.
 
 #### (4) Victim of trafficking
 
-&emsp;The term “victim of trafficking” means a person subjected to an act of trafficking.
+&emsp;The term "victim of trafficking" means a person subjected to an act of trafficking.
 
 #### (b) Grants authorized
 
@@ -38,7 +38,7 @@ A grant awarded under this section shall be used to—
 
 #### (1) Administrative expenses
 
-&emsp;An eligible entity that receives a grant under this section may use not more than 5 percent of the total amount of such grant for administrative expenses.
+&emsp;An eligible entity that receives a grant under this section may use not more than 5percent of the total amount of such grant for administrative expenses.
 
 #### (2) Nonexclusivity
 
@@ -48,9 +48,13 @@ A grant awarded under this section shall be used to—
 
 There are authorized to be appropriated $10,000,000 for each of the fiscal years 2007 through 2011 to carry out the provisions of this section.
 
-(Pub. L. 109–162, title I, §111, Jan. 5, 2006, 119 Stat. 2984.)
+(Pub. L. 109–162, title I, §111, Jan. 5, 2006, 119 Stat. 2984; Pub. L. 113–4, title XII, §1212(b)(2)(D), Mar. 7, 2013, 127 Stat. 144.)
 
 #### Codification
 
-Section was enacted as part of the Violence Against Women and Department of Justice Reauthorization Actof 2005, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+Section was enacted as part of the Violence Against Women and Department of Justice Reauthorization Act of 2005, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (a)(1). Pub. L. 113–4 substituted "paragraph (9)" for "paragraph (8)".
 

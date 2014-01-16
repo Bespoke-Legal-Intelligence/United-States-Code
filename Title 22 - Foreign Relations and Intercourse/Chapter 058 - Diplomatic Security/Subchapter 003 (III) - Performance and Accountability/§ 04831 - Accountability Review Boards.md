@@ -4,7 +4,7 @@
 
 #### (1) Convening a Board
 
-&emsp;Except as provided in paragraphs (2) and (3), in any case of serious injury, loss of life, or significant destruction of property at, or related to, a United States Government mission abroad, and in any case of a serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad, which is covered by the provisions of this chapter (other than a facility or installation subject to the control of a United States area military commander), the Secretary of State shall convene an Accountability Review Board (in this subchapter referred to as the “Board”). The Secretary shall not convene a Board where the Secretary determines that a case clearly involves only causes unrelated to security.
+&emsp;Except as provided in paragraphs (2) and (3), in any case of serious injury, loss of life, or significant destruction of property at, or related to, a United States Government mission abroad, and in any case of a serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad, which is covered by the provisions of this chapter (other than a facility or installation subject to the control of a United States area military commander), the Secretary of State shall convene an Accountability Review Board (in this subchapter referred to as the "Board"). The Secretary shall not convene a Board where the Secretary determines that a case clearly involves only causes unrelated to security.
 
 #### (2) Department of Defense facilities and personnel
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(ii) conduct an inquiry of the incident; and
 
-&emsp;&emsp;&emsp;(iii) upon completion of the inquiry required by clause (ii), submit to each such Committee a report on the findings and recommendations related to such inquiry and the actions taken with respect to such recommendations.
+&emsp;&emsp;&emsp;(iii) upon completion of the inquiry required by clause (ii), submit to each such Committee a report on the findings andrecommendations related to such inquiry and the actions taken with respect to such recommendations.
 
 #### (b) Deadlines for convening Boards
 
@@ -54,17 +54,17 @@ Whenever the Secretary of State convenes a Board, the Secretary shall promptly i
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1), was in the original “titles I through IV”, meaning titles I through IV of Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 855, known as the Diplomatic Security Act, which is classified principally to this chapter. For complete classification of titles I through IV of Pub. L. 99–399 to the Code, see Short Title note set out under section 4801 of this title and Tables.
+This chapter, referred to in subsec. (a)(1), was in the original "titles I through IV", meaning titles I through IV of Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 855, known as the Diplomatic Security Act, which is classified principally to this chapter. For complete classification of titles I through IV of Pub. L. 99–399 to the Code, see Short Title note set out under section 4801 of this title and Tables.
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a)(1). Pub. L. 109–140, §3(1), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+<b>2005</b>—Subsec. (a)(1). Pub. L. 109–140, §3(1), substituted "paragraphs (2) and (3)" for "paragraph (2)".
 
 Subsec. (a)(3). Pub. L. 109–140, §3(2), added par. (3).
 
-<b>1999</b>—Pub. L. 106–113 substituted “Review Boards” for “review” in section catchline and amended text generally. Prior to amendment, text read as follows: “In any case of serious injury, loss of life, or significant destruction of property at or related to a United States Government mission abroad, and in any case of a serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad, which is covered by the provisions of this chapter (other than a facility or installation subject to the control of a United States area military commander), the Secretary of State shall convene an Accountability Review Board (hereafter in this subchapter referred to as the ‘Board’). With respect to breaches of security involving intelligence activities, the Secretary of State may delay establishing an Accountability Review Board if, after consultation with the Chairman of the Select Committee on Intelligence of the Senate and the Chairman of the Permanent Select Committee on Intelligence of the House of Representatives, the Secretary determines that doing so would compromise intelligence sources and methods. The Secretary shall promptly advise the Chairmen of such committees of each determination pursuant to this section to delay the establishment of an Accountability Review Board. The Secretary shall not convene a Board where the Secretary determines that a case clearly involves only causes unrelated to security.”
+<b>1999</b>—Pub. L. 106–113 substituted "Review Boards" for "review" in section catchline and amended text generally. Prior to amendment, text read as follows: "In any case of serious injury, loss of life, or significant destruction of property at or related to a United States Government mission abroad, and in any case of a serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad, which is covered by the provisions of this chapter (other than a facility or installation subject to the control of a United States area military commander), the Secretary of State shall convene an Accountability Review Board (hereafter in this subchapter referred to as the 'Board'). With respect to breaches of security involving intelligence activities, the Secretary of State may delay establishing an Accountability Review Board if, after consultation with the Chairman of the Select Committee on Intelligence of the Senate and the Chairman of the Permanent Select Committee on Intelligence of the House of Representatives, the Secretary determines that doing so would compromise intelligence sources and methods. The Secretary shall promptly advise the Chairmen of such committees of each determination pursuant to this section to delay the establishment of an Accountability Review Board. The Secretary shall not convene a Board where the Secretary determines that a case clearly involves only causes unrelated to security."
 
-<b>1987</b>—Pub. L. 100–204 inserted “, and in any case of a serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad,” after “mission abroad” in first sentence, and inserted after first sentence “With respect to breaches of security involving intelligence activities, the Secretary of State may delay establishing an Accountability Review Board if, after consultation with the Chairman of the Select Committee on Intelligence of the Senate and the Chairman of the Permanent Select Committee on Intelligence of the House of Representatives, the Secretary determines that doing so would compromise intelligence sources and methods. The Secretary shall promptly advise the Chairmen of such committees of each determination pursuant to this section to delay the establishment of an Accountability Review Board.”
+<b>1987</b>—Pub. L. 100–204 inserted ", and in any case of a serious breach of security involving intelligence activities of a foreign government directed at a United States Government mission abroad," after "mission abroad" in first sentence, and inserted after first sentence "With respect to breaches of security involving intelligence activities, the Secretary of State may delay establishing an Accountability Review Board if, after consultation with the Chairman of the Select Committee on Intelligence of the Senate and the Chairman of the Permanent Select Committee on Intelligence of the House of Representatives, the Secretary determines that doing so would compromise intelligence sources and methods. The Secretary shall promptly advise the Chairmen of such committees of each determination pursuant to this section to delay the establishment of an Accountability Review Board."
 
 #### Change of Name
 
@@ -72,7 +72,7 @@ Committee on International Relations of House of Representatives changed to Comm
 
 #### Continuation of Review Boards for Facilities in Afghanistan and Iraq
 
-Pub. L. 112–74, div. I, title VII, §7034(m)(2), Dec. 23, 2011, 125 Stat. 1216, provided that: “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4831(a)(3)) shall remain in effect through September 30, 2012.”
+Pub. L. 112–74, div. I, title VII, §7034(m)(2), Dec. 23, 2011, 125 Stat. 1216, provided that: "The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4831(a)(3)) shall remain in effect through September 30, 2012."
 
-Pub. L. 111–117, div. F, title VII, §7034(r), Dec. 16, 2009, 123 Stat. 3363, provided that: “The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4831(a)(3)) shall remain in effect through September 30, 2010.”
+Pub. L. 111–117, div. F, title VII, §7034(r), Dec. 16, 2009, 123 Stat. 3363, provided that: "The authority provided by section 301(a)(3) of the Omnibus Diplomatic Security and Antiterrorism Act of 1986 (22 U.S.C. 4831(a)(3)) shall remain in effect through September 30, 2010."
 

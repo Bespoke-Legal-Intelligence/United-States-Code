@@ -76,9 +76,9 @@ Period of Availability to Recipients.—Amounts made available under this sectio
 
 Definitions.—For purposes of this section:
 
-&emsp;(1) The term “State” means a State of the United States.
+&emsp;(1) The term "State" means a State of the United States.
 
-&emsp;(2) The term “territory” means the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the United States Virgin Islands.
+&emsp;(2) The term "territory" means the District of Columbia, Puerto Rico, the Northern Mariana Islands, Guam, American Samoa, and the United States Virgin Islands.
 
 (Added Pub. L. 108–7, div. I, title III, §356, Feb. 20, 2003, 117 Stat. 421; amended Pub. L. 109–59, title III, §3037(a), Aug. 10, 2005, 119 Stat. 1635; Pub. L. 112–141, div. B, §20029(a), July 6, 2012, 126 Stat. 729.)
 
@@ -86,7 +86,7 @@ Definitions.—For purposes of this section:
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to alternatives analysis program.
 
-<b>2005</b>—Pub. L. 109–59 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “Effective for funds not yet expended on the effective date of this section, the Federal share for funds under this chapter for a grantee named in section 603(14) of Public Law 97–468 shall be the same as the Federal share under 23 U.S.C. section 120(b) for Federal aid highway funds apportioned to the State in which it operates.”
+<b>2005</b>—Pub. L. 109–59 inserted section catchline and amended text generally. Prior to amendment, text read as follows: "Effective for funds not yet expended on the effective date of this section, the Federal share for funds under this chapter for a grantee named in section 603(14) of Public Law 97–468 shall be the same as the Federal share under 23 U.S.C. section 120(b) for Federal aid highway funds apportioned to the State in which it operates."
 
 #### Effective Date of 2012 Amendment
 

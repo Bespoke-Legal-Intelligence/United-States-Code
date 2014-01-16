@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title40",
- "package": "USCODE-2012-title40",
+ "package": "USCODE-2013-title40",
  "pieces": [
   {
    "id": "40_",
@@ -130,14 +130,10 @@
    "id": "40_102",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       76,
-       "[Page 9]"
-      ]
-     ]
+     "L",
+     24,
+     "[Page 9]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 001 - General/Subchapter 001 (I) - Purpose and Definitions/§ 00102 - Definitions.md",
@@ -160,7 +156,7 @@
    "marks": [
     [
      "L",
-     56,
+     46,
      "[Page 10]",
      true
     ]
@@ -185,10 +181,10 @@
    "marks": [
     [
      "I",
-     16,
+     12,
      [
       [
-       271,
+       125,
        "[Page 11]"
       ]
      ]
@@ -425,7 +421,7 @@
      8,
      [
       [
-       410,
+       223,
        "[Page 25]"
       ]
      ]
@@ -469,10 +465,10 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       122,
+       283,
        "[Page 26]"
       ]
      ]
@@ -501,7 +497,7 @@
      28,
      [
       [
-       250,
+       77,
        "[Page 27]"
       ]
      ]
@@ -526,14 +522,18 @@
    "id": "40_321",
    "marks": [
     [
-     "L",
-     102,
-     "[Page 28]",
-     true
+     "I",
+     100,
+     [
+      [
+       75,
+       "[Page 28]"
+      ]
+     ]
     ],
     [
      "L",
-     228,
+     224,
      "[Page 29]",
      true
     ]
@@ -567,10 +567,10 @@
    "marks": [
     [
      "I",
-     47,
+     45,
      [
       [
-       106,
+       42,
        "[Page 30]"
       ]
      ]
@@ -595,14 +595,10 @@
    "id": "40_501",
    "marks": [
     [
-     "I",
+     "L",
      88,
-     [
-      [
-       158,
-       "[Page 31]"
-      ]
-     ]
+     "[Page 31]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 001 (I) - Procurement and Warehousing/§ 00501 - Services for executive agencies.md",
@@ -929,32 +925,34 @@
      ]
     ],
     [
-     "I",
-     124,
-     [
-      [
-       81,
-       "[Page 43]"
-      ]
-     ]
+     "L",
+     122,
+     "[Page 43]",
+     true
+    ],
+    [
+     "L",
+     210,
+     "[Page 44]",
+     true
     ],
     [
      "I",
-     212,
+     316,
      [
       [
-       78,
-       "[Page 44]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     318,
-     [
-      [
-       310,
+       111,
        "[Page 45]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     368,
+     [
+      [
+       101,
+       "[Page 46]"
       ]
      ]
     ]
@@ -962,54 +960,47 @@
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 003 (III) - Disposing of Property/§ 00549 - Donation of personal property through state agencies.md",
    "printed_pages": [
     41,
-    45
+    46
    ]
   },
   {
    "id": "40_550",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 46]",
-     true
-    ],
-    [
-     "L",
-     76,
-     "[Page 47]",
-     true
-    ],
-    [
      "I",
-     154,
+     66,
      [
       [
-       460,
-       "[Page 48]"
+       124,
+       "[Page 47]"
       ]
      ]
-    ]
-   ],
-   "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 003 (III) - Disposing of Property/§ 00550 - Disposal of real property for certain purposes.md",
-   "printed_pages": [
-    45,
-    48
-   ]
-  },
-  {
-   "id": "40_551",
-   "marks": [
+    ],
     [
      "L",
-     6,
+     144,
+     "[Page 48]",
+     true
+    ],
+    [
+     "L",
+     250,
      "[Page 49]",
      true
     ]
    ],
+   "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 003 (III) - Disposing of Property/§ 00550 - Disposal of real property for certain purposes.md",
+   "printed_pages": [
+    46,
+    49
+   ]
+  },
+  {
+   "id": "40_551",
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 003 (III) - Disposing of Property/§ 00551 - Donations to American Red Cross.md",
    "printed_pages": [
-    48,
+    49,
     49
    ]
   },
@@ -1027,10 +1018,10 @@
    "marks": [
     [
      "I",
-     50,
+     30,
      [
       [
-       154,
+       996,
        "[Page 50]"
       ]
      ]
@@ -1046,14 +1037,10 @@
    "id": "40_554",
    "marks": [
     [
-     "I",
-     50,
-     [
-      [
-       994,
-       "[Page 51]"
-      ]
-     ]
+     "L",
+     48,
+     "[Page 51]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 003 (III) - Disposing of Property/§ 00554 - Property for development or operation of a port facility.md",
@@ -1082,26 +1069,26 @@
   },
   {
    "id": "40_557",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 003 (III) - Disposing of Property/§ 00557 - Donation of books to Free Public Library.md",
-   "printed_pages": [
-    51,
-    51
-   ]
-  },
-  {
-   "id": "40_558",
    "marks": [
     [
      "L",
-     10,
+     4,
      "[Page 52]",
      true
     ]
    ],
-   "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 003 (III) - Disposing of Property/§ 00558 - Donation of forfeited vessels.md",
+   "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 003 (III) - Disposing of Property/§ 00557 - Donation of books to Free Public Library.md",
    "printed_pages": [
     51,
+    52
+   ]
+  },
+  {
+   "id": "40_558",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 003 (III) - Disposing of Property/§ 00558 - Donation of forfeited vessels.md",
+   "printed_pages": [
+    52,
     52
    ]
   },
@@ -1110,10 +1097,10 @@
    "marks": [
     [
      "I",
-     82,
+     56,
      [
       [
-       230,
+       129,
        "[Page 53]"
       ]
      ]
@@ -1147,41 +1134,55 @@
    "id": "40_572",
    "marks": [
     [
+     "I",
+     46,
+     [
+      [
+       84,
+       "[Page 54]"
+      ]
+     ]
+    ],
+    [
      "L",
-     80,
-     "[Page 54]",
+     150,
+     "[Page 55]",
      true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 004 (IV) - Proceeds from Sale or Transfer/§ 00572 - Real property.md",
    "printed_pages": [
     53,
-    54
+    55
    ]
   },
   {
    "id": "40_573",
-   "marks": [
-    [
-     "L",
-     22,
-     "[Page 55]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 004 (IV) - Proceeds from Sale or Transfer/§ 00573 - Personal property.md",
    "printed_pages": [
-    54,
+    55,
     55
    ]
   },
   {
    "id": "40_574",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     98,
+     [
+      [
+       208,
+       "[Page 56]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 004 (IV) - Proceeds from Sale or Transfer/§ 00574 - Other rules regarding proceeds.md",
    "printed_pages": [
     55,
-    55
+    56
    ]
   },
   {
@@ -1189,8 +1190,8 @@
    "marks": [],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 005 (V) - Operation of Buildings and Related Activities/README.md",
    "printed_pages": [
-    55,
-    55
+    56,
+    56
    ]
   },
   {
@@ -1198,58 +1199,43 @@
    "marks": [
     [
      "I",
-     10,
+     102,
      [
       [
-       96,
-       "[Page 56]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     116,
-     [
-      [
-       122,
+       93,
        "[Page 57]"
       ]
      ]
     ],
     [
      "I",
-     184,
+     164,
      [
       [
-       312,
+       232,
        "[Page 58]"
       ]
      ]
+    ],
+    [
+     "L",
+     228,
+     "[Page 59]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 005 (V) - Operation of Buildings and Related Activities/§ 00581 - General authority of Administrator of General Services.md",
    "printed_pages": [
-    55,
-    58
+    56,
+    59
    ]
   },
   {
    "id": "40_582",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       315,
-       "[Page 59]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 005 (V) - Operation of Buildings and Related Activities/§ 00582 - Management of buildings by Administrator of General Services.md",
    "printed_pages": [
-    58,
+    59,
     59
    ]
   },
@@ -1258,10 +1244,10 @@
    "marks": [
     [
      "I",
-     34,
+     14,
      [
       [
-       261,
+       83,
        "[Page 60]"
       ]
      ]
@@ -1287,10 +1273,10 @@
    "marks": [
     [
      "I",
-     28,
+     12,
      [
       [
-       83,
+       76,
        "[Page 61]"
       ]
      ]
@@ -1306,10 +1292,14 @@
    "id": "40_586",
    "marks": [
     [
-     "L",
-     70,
-     "[Page 62]",
-     true
+     "I",
+     66,
+     [
+      [
+       276,
+       "[Page 62]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 005 (V) - Operation of Buildings and Related Activities/§ 00586 - Charges for space and services.md",
@@ -1331,14 +1321,10 @@
    "id": "40_588",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       268,
-       "[Page 63]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 63]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 005 (V) - Operation of Buildings and Related Activities/§ 00588 - Movement and supply of office furniture.md",
@@ -1361,15 +1347,19 @@
    "marks": [
     [
      "L",
-     30,
+     10,
      "[Page 64]",
      true
     ],
     [
-     "L",
-     162,
-     "[Page 65]",
-     true
+     "I",
+     122,
+     [
+      [
+       148,
+       "[Page 65]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 005 (V) - Operation of Buildings and Related Activities/§ 00590 - Child care.md",
@@ -1392,10 +1382,10 @@
    "marks": [
     [
      "I",
-     64,
+     46,
      [
       [
-       80,
+       77,
        "[Page 66]"
       ]
      ]
@@ -1412,10 +1402,10 @@
    "marks": [
     [
      "I",
-     20,
+     12,
      [
       [
-       315,
+       76,
        "[Page 67]"
       ]
      ]
@@ -1441,19 +1431,23 @@
    "marks": [
     [
      "I",
-     58,
+     52,
      [
       [
-       170,
+       530,
        "[Page 68]"
       ]
      ]
     ],
     [
-     "L",
-     112,
-     "[Page 69]",
-     true
+     "I",
+     102,
+     [
+      [
+       263,
+       "[Page 69]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 006 (VI) - Motor Vehicle Pools and Transportation Systems/§ 00601 - Purposes.md",
@@ -1473,30 +1467,26 @@
   },
   {
    "id": "40_603",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     68,
+     "[Page 70]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 006 (VI) - Motor Vehicle Pools and Transportation Systems/§ 00603 - Process for establishing motor vehicle pools and transportation systems.md",
    "printed_pages": [
     69,
-    69
+    70
    ]
   },
   {
    "id": "40_604",
-   "marks": [
-    [
-     "I",
-     16,
-     [
-      [
-       250,
-       "[Page 70]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 006 (VI) - Motor Vehicle Pools and Transportation Systems/§ 00604 - Treatment of assets taken over to establish motor vehicle pools and transportation systems.md",
    "printed_pages": [
-    69,
+    70,
     70
    ]
   },
@@ -1514,7 +1504,7 @@
    "marks": [
     [
      "L",
-     38,
+     18,
      "[Page 71]",
      true
     ]
@@ -1563,30 +1553,26 @@
   },
   {
    "id": "40_611",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     22,
+     "[Page 72]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 005 - Property Management/Subchapter 006 (VI) - Motor Vehicle Pools and Transportation Systems/§ 00611 - Duty to report violations.md",
    "printed_pages": [
     71,
-    71
+    72
    ]
   },
   {
    "id": "40_-SUBTITLE_I-ch7",
-   "marks": [
-    [
-     "I",
-     4,
-     [
-      [
-       25,
-       "[Page 72]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 007 - Foreign Excess Property/README.md",
    "printed_pages": [
-    71,
+    72,
     72
    ]
   },
@@ -1595,10 +1581,10 @@
    "marks": [
     [
      "I",
-     120,
+     112,
      [
       [
-       222,
+       481,
        "[Page 73]"
       ]
      ]
@@ -1641,10 +1627,14 @@
    "id": "40_705",
    "marks": [
     [
-     "L",
-     26,
-     "[Page 74]",
-     true
+     "I",
+     8,
+     [
+      [
+       85,
+       "[Page 74]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 007 - Foreign Excess Property/§ 00705 - Handling of proceeds from disposal.md",
@@ -1682,30 +1672,30 @@
   },
   {
    "id": "40_903",
-   "marks": [],
-   "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 009 - Urban Land Use/§ 00903 - Acquisition and use.md",
-   "printed_pages": [
-    74,
-    74
-   ]
-  },
-  {
-   "id": "40_904",
    "marks": [
     [
      "I",
-     4,
+     8,
      [
       [
-       83,
+       421,
        "[Page 75]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 009 - Urban Land Use/§ 00904 - Disposal.md",
+   "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 009 - Urban Land Use/§ 00903 - Acquisition and use.md",
    "printed_pages": [
     74,
+    75
+   ]
+  },
+  {
+   "id": "40_904",
+   "marks": [],
+   "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 009 - Urban Land Use/§ 00904 - Disposal.md",
+   "printed_pages": [
+    75,
     75
    ]
   },
@@ -1740,14 +1730,10 @@
    "id": "40_1102",
    "marks": [
     [
-     "I",
-     16,
-     [
-      [
-       280,
-       "[Page 76]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 76]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 011 - Selection of Architects and Engineers/§ 01102 - Definitions.md",
@@ -1767,30 +1753,26 @@
   },
   {
    "id": "40_1104",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     12,
+     "[Page 77]",
+     true
+    ]
+   ],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 011 - Selection of Architects and Engineers/§ 01104 - Negotiation of contract.md",
    "printed_pages": [
     76,
-    76
+    77
    ]
   },
   {
    "id": "40_-SUBTITLE_I-ch13",
-   "marks": [
-    [
-     "I",
-     13,
-     [
-      [
-       53,
-       "[Page 77]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 013 - Public Property/README.md",
    "printed_pages": [
-    76,
+    77,
     77
    ]
   },
@@ -1817,11 +1799,21 @@
    "marks": [
     [
      "I",
-     30,
+     26,
      [
       [
-       746,
+       220,
        "[Page 78]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     124,
+     [
+      [
+       162,
+       "[Page 79]"
       ]
      ]
     ]
@@ -1829,22 +1821,15 @@
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 013 - Public Property/§ 01303 - Disposition of surplus real property.md",
    "printed_pages": [
     77,
-    78
+    79
    ]
   },
   {
    "id": "40_1304",
-   "marks": [
-    [
-     "L",
-     10,
-     "[Page 79]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 013 - Public Property/§ 01304 - Transfer of federal property to States.md",
    "printed_pages": [
-    78,
+    79,
     79
    ]
   },
@@ -1862,13 +1847,13 @@
    "marks": [
     [
      "L",
-     20,
+     10,
      "[Page 80]",
      true
     ],
     [
      "L",
-     122,
+     106,
      "[Page 81]",
      true
     ]
@@ -1893,7 +1878,7 @@
    "marks": [
     [
      "L",
-     24,
+     6,
      "[Page 82]",
      true
     ]
@@ -1935,14 +1920,10 @@
    "id": "40_1312",
    "marks": [
     [
-     "I",
-     28,
-     [
-      [
-       269,
-       "[Page 83]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 83]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 013 - Public Property/§ 01312 - Release of real estate in certain cases.md",
@@ -1965,10 +1946,10 @@
    "marks": [
     [
      "I",
-     34,
+     30,
      [
       [
-       323,
+       85,
        "[Page 84]"
       ]
      ]
@@ -1984,20 +1965,20 @@
    "id": "40_1315",
    "marks": [
     [
-     "L",
-     38,
-     "[Page 85]",
-     true
-    ],
-    [
      "I",
-     162,
+     36,
      [
       [
-       518,
-       "[Page 86]"
+       81,
+       "[Page 85]"
       ]
      ]
+    ],
+    [
+     "L",
+     160,
+     "[Page 86]",
+     true
     ]
    ],
    "path": "Subtitle 001 (I) - Federal Property and Administrative Services/Chapter 013 - Public Property/§ 01315 - Law enforcement authority of Secretary of Homeland Security for protection of public property.md",
@@ -2011,10 +1992,10 @@
    "marks": [
     [
      "I",
-     39,
+     27,
      [
       [
-       78,
+       80,
        "[Page 87]"
       ]
      ]
@@ -2058,10 +2039,10 @@
    "marks": [
     [
      "I",
-     26,
+     22,
      [
       [
-       586,
+       980,
        "[Page 88]"
       ]
      ]
@@ -2122,10 +2103,14 @@
    "id": "40_3111",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 89]",
-     true
+     "I",
+     16,
+     [
+      [
+       209,
+       "[Page 89]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 031 - General/Subchapter 002 (II) - Acquiring Land/§ 03111 - Approval of sufficiency of title prior to acquisition.md",
@@ -2156,14 +2141,10 @@
    "id": "40_3114",
    "marks": [
     [
-     "I",
-     32,
-     [
-      [
-       438,
-       "[Page 90]"
-      ]
-     ]
+     "L",
+     20,
+     "[Page 90]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 031 - General/Subchapter 002 (II) - Acquiring Land/§ 03114 - Declaration of taking.md",
@@ -2183,30 +2164,30 @@
   },
   {
    "id": "40_3116",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 031 - General/Subchapter 002 (II) - Acquiring Land/§ 03116 - Interest as part of just compensation.md",
-   "printed_pages": [
-    90,
-    90
-   ]
-  },
-  {
-   "id": "40_3117",
    "marks": [
     [
      "I",
-     2,
+     16,
      [
       [
-       91,
+       88,
        "[Page 91]"
       ]
      ]
     ]
    ],
-   "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 031 - General/Subchapter 002 (II) - Acquiring Land/§ 03117 - Exclusion of certain property by stipulation of Attorney General.md",
+   "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 031 - General/Subchapter 002 (II) - Acquiring Land/§ 03116 - Interest as part of just compensation.md",
    "printed_pages": [
     90,
+    91
+   ]
+  },
+  {
+   "id": "40_3117",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 031 - General/Subchapter 002 (II) - Acquiring Land/§ 03117 - Exclusion of certain property by stipulation of Attorney General.md",
+   "printed_pages": [
+    91,
     91
    ]
   },
@@ -2233,7 +2214,7 @@
    "marks": [
     [
      "L",
-     98,
+     48,
      "[Page 92]",
      true
     ]
@@ -2258,10 +2239,10 @@
    "marks": [
     [
      "I",
-     70,
+     40,
      [
       [
-       150,
+       87,
        "[Page 93]"
       ]
      ]
@@ -2296,10 +2277,10 @@
    "marks": [
     [
      "I",
-     18,
+     14,
      [
       [
-       226,
+       233,
        "[Page 94]"
       ]
      ]
@@ -2316,7 +2297,7 @@
    "marks": [
     [
      "L",
-     62,
+     30,
      "[Page 95]",
      true
     ]
@@ -2339,7 +2320,7 @@
   {
    "id": "40_3144",
    "marks": [],
-   "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 031 - General/Subchapter 004 (IV) - Wage Rate Requirements/§ 03144 - Authority of Comptroller General to pay wages and list contractors violating contracts.md",
+   "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 031 - General/Subchapter 004 (IV) - Wage Rate Requirements/§ 03144 - Authority to pay wages and list contractors violating contracts.md",
    "printed_pages": [
     95,
     95
@@ -2347,26 +2328,26 @@
   },
   {
    "id": "40_3145",
-   "marks": [],
-   "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 031 - General/Subchapter 004 (IV) - Wage Rate Requirements/§ 03145 - Regulations governing contractors and subcontractors.md",
-   "printed_pages": [
-    95,
-    95
-   ]
-  },
-  {
-   "id": "40_3146",
    "marks": [
     [
      "L",
-     22,
+     12,
      "[Page 96]",
      true
     ]
    ],
-   "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 031 - General/Subchapter 004 (IV) - Wage Rate Requirements/§ 03146 - Effect on other federal laws.md",
+   "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 031 - General/Subchapter 004 (IV) - Wage Rate Requirements/§ 03145 - Regulations governing contractors and subcontractors.md",
    "printed_pages": [
     95,
+    96
+   ]
+  },
+  {
+   "id": "40_3146",
+   "marks": [],
+   "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 031 - General/Subchapter 004 (IV) - Wage Rate Requirements/§ 03146 - Effect on other federal laws.md",
+   "printed_pages": [
+    96,
     96
    ]
   },
@@ -2411,7 +2392,7 @@
    "marks": [
     [
      "L",
-     36,
+     26,
      "[Page 97]",
      true
     ]
@@ -2444,13 +2425,17 @@
    "id": "40_3172",
    "marks": [
     [
-     "L",
-     42,
-     "[Page 98]",
-     true
+     "I",
+     4,
+     [
+      [
+       582,
+       "[Page 98]"
+      ]
+     ]
     ]
    ],
-   "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 031 - General/Subchapter 006 (VI) - Miscellaneous/§ 03172 - Extension of state workers’ compensation laws to buildings, works, and property of the Federal Government.md",
+   "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 031 - General/Subchapter 006 (VI) - Miscellaneous/§ 03172 - Extension of state workers' compensation laws to buildings, works, and property of the Federal Government.md",
    "printed_pages": [
     97,
     98
@@ -2458,26 +2443,30 @@
   },
   {
    "id": "40_3173",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     78,
+     [
+      [
+       107,
+       "[Page 99]"
+      ]
+     ]
+    ]
+   ],
    "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 031 - General/Subchapter 006 (VI) - Miscellaneous/§ 03173 - Working capital fund for General Services Administration.md",
    "printed_pages": [
     98,
-    98
+    99
    ]
   },
   {
    "id": "40_3174",
-   "marks": [
-    [
-     "L",
-     6,
-     "[Page 99]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 031 - General/Subchapter 006 (VI) - Miscellaneous/§ 03174 - Operation of public utility communications services serving governmental activities.md",
    "printed_pages": [
-    98,
+    99,
     99
    ]
   },
@@ -2504,10 +2493,10 @@
    "marks": [
     [
      "I",
-     64,
+     40,
      [
       [
-       114,
+       131,
        "[Page 100]"
       ]
      ]
@@ -2533,7 +2522,7 @@
    "marks": [
     [
      "L",
-     88,
+     74,
      "[Page 101]",
      true
     ]
@@ -2558,10 +2547,10 @@
    "marks": [
     [
      "I",
-     56,
+     34,
      [
       [
-       183,
+       96,
        "[Page 102]"
       ]
      ]
@@ -2587,10 +2576,10 @@
    "marks": [
     [
      "I",
-     36,
+     12,
      [
       [
-       79,
+       309,
        "[Page 103]"
       ]
      ]
@@ -2607,7 +2596,7 @@
    "marks": [
     [
      "L",
-     52,
+     46,
      "[Page 104]",
      true
     ]
@@ -2623,23 +2612,19 @@
    "marks": [
     [
      "I",
-     14,
+     6,
      [
       [
-       83,
+       275,
        "[Page 105]"
       ]
      ]
     ],
     [
-     "I",
-     110,
-     [
-      [
-       86,
-       "[Page 106]"
-      ]
-     ]
+     "L",
+     74,
+     "[Page 106]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 033 - Acquisition, Construction, and Alteration/§ 03307 - Congressional approval of proposed projects.md",
@@ -2662,7 +2647,7 @@
    "marks": [
     [
      "L",
-     60,
+     26,
      "[Page 107]",
      true
     ]
@@ -2695,14 +2680,10 @@
    "id": "40_3312",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       84,
-       "[Page 108]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 108]",
+     true
     ]
    ],
    "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 033 - Acquisition, Construction, and Alteration/§ 03312 - Compliance with nationally recognized codes.md",
@@ -2715,10 +2696,14 @@
    "id": "40_3313",
    "marks": [
     [
-     "L",
-     32,
-     "[Page 109]",
-     true
+     "I",
+     28,
+     [
+      [
+       95,
+       "[Page 109]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 033 - Acquisition, Construction, and Alteration/§ 03313 - Use of energy efficient lighting fixtures and bulbs.md",
@@ -2740,10 +2725,14 @@
    "id": "40_3315",
    "marks": [
     [
-     "L",
-     16,
-     "[Page 110]",
-     true
+     "I",
+     12,
+     [
+      [
+       204,
+       "[Page 110]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 033 - Acquisition, Construction, and Alteration/§ 03315 - Report to Congress.md",
@@ -2784,10 +2773,10 @@
    "marks": [
     [
      "I",
-     20,
+     12,
      [
       [
-       86,
+       325,
        "[Page 111]"
       ]
      ]
@@ -2879,7 +2868,7 @@
      36,
      [
       [
-       256,
+       304,
        "[Page 114]"
       ]
      ]
@@ -2895,20 +2884,20 @@
    "id": "40_3704",
    "marks": [
     [
-     "I",
-     40,
-     [
-      [
-       162,
-       "[Page 115]"
-      ]
-     ]
+     "L",
+     34,
+     "[Page 115]",
+     true
     ],
     [
-     "L",
-     134,
-     "[Page 116]",
-     true
+     "I",
+     132,
+     [
+      [
+       111,
+       "[Page 116]"
+      ]
+     ]
     ]
    ],
    "path": "Subtitle 002 (II) - Public Buildings and Works/Part A - General/Chapter 037 - Contract Work Hours and Safety Standards/§ 03704 - Health and safety standards in building trades and construction industry.md",
@@ -6957,6 +6946,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2012-title40 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2013-title40 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 40 - Public Buildings, Property, and Works"
 }

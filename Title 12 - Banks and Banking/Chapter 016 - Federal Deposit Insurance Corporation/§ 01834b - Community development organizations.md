@@ -26,7 +26,7 @@ For purposes of this subtitle, any insured depository institution, or a qualifie
 
 A community development bank meets the requirements of this subsection if—
 
-&emsp;(1) the community development bank has a 15-member advisory board designated as the “Community Investment Board” and consisting entirely of community leaders who—
+&emsp;(1) the community development bank has a 15-member advisory board designated as the "Community Investment Board" and consisting entirely of community leaders who—
 
 &emsp;&emsp;(A) shall be appointed initially by the board of directors of the community development bank and thereafter by the Community Investment Board from nominations received from the community; and
 
@@ -50,23 +50,23 @@ For purposes of this section—
 
 #### (1) Community development bank
 
-&emsp;The term “community development bank” means any depository institution (as defined in section 1813(c)(1) of this title).
+&emsp;The term "community development bank" means any depository institution (as defined in section 1813(c)(1) of this title).
 
 #### (2) Community development organization
 
-&emsp;The term “community development organization” means any community development bank, community development corporation, community development unit within any insured depository institution, or community development credit union.
+&emsp;The term "community development organization" means any community development bank, community development corporation, community development unit within any insured depository institution, or community development credit union.
 
 #### (3) Low- and moderate-income persons
 
-&emsp;The term “low- and moderate-income persons” has the meaning given such term in section 5302(a)(20) of title 42.
+&emsp;The term "low- and moderate-income persons" has the meaning given such term in section 5302(a)(20) of title 42.
 
 #### (4) Nonprofit organization; small business
 
-&emsp;The terms “nonprofit organization” and “small business” have the meanings given to such terms by regulations which the appropriate Federal banking agency shall prescribe for purposes of this section.
+&emsp;The terms "nonprofit organization" and "small business" have the meanings given to such terms by regulations which the appropriate Federal banking agency shall prescribe for purposes of this section.
 
 #### (5) Qualified distressed community
 
-&emsp;The term “qualified distressed community” has the meaning given to such term in section 1834a(b) of this title.
+&emsp;The term "qualified distressed community" has the meaning given to such term in section 1834a(b) of this title.
 
 (Pub. L. 102–242, title II, §234, Dec. 19, 1991, 105 Stat. 2315.)
 

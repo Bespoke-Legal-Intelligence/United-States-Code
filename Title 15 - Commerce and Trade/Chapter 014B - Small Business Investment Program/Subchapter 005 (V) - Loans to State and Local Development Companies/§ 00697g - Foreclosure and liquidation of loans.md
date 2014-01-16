@@ -112,7 +112,7 @@ In accordance with this section, the Administration shall delegate to any qualif
 
 &emsp;&emsp;&emsp;(i) consider an offer made by an obligor to compromise the debt for less than the full amount owing; and
 
-&emsp;&emsp;&emsp;(ii) pursuant to such an offer, release any obligor or other party contingently liable,if the company secures the written approval of the Administration.
+&emsp;&emsp;&emsp;(ii) pursuant to such an offer, release any obligor or other party contingently liable, if the company secures the written approval of the Administration.
 
 #### (E) Contents of notice of no decision
 
@@ -144,7 +144,7 @@ The Administration may revoke or suspend a delegation of authority under this se
 
 #### (1) In general
 
-&emsp;Based on information provided by qualified State and local development companies and the Administration, the Administration shall annually submit to the Committees on Small Business of the House of Representatives and of the Senate a report on the results of delegation of authority under this section.
+&emsp;Based on information provided by qualified State and local development companies andthe Administration, the Administration shall annually submit to the Committees on Small Business of the House of Representatives and of the Senate a report on the results of delegation of authority under this section.
 
 #### (2) Contents
 
@@ -188,13 +188,13 @@ Committee on Small Business of Senate changed to Committee on Small Business and
 
 Pub. L. 106–554, §1(a)(9) \[title III, §307(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–689, provided that:
 
-“(1)
+"(1)
 
 In general.—Not later than 150 days after the date of the enactment of this Act \[Dec. 21, 2000\], the Administrator shall issue such regulations as may be necessary to carry out section 510 of the Small Business Investment Act of 1958 \[15 U.S.C. 697g\], as added by subsection (a) of this section.
 
-“(2)
+"(2)
 
-Termination of pilot program.—Beginning on the date on which final regulations are issued under paragraph (1), section 204 of the Small Business Programs Improvement Act of 1996 \[Pub. L. 104–208, div. D\] (15 U.S.C. 695 note) shall cease to have effect.”
+Termination of pilot program.—Beginning on the date on which final regulations are issued under paragraph (1) \[final rule effective May 14, 2007; see 72 F.R. 18349\], section 204 of the Small Business Programs Improvement Act of 1996 \[Pub. L. 104–208, div. D\] (15 U.S.C. 695 note) shall cease to have effect."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

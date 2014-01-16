@@ -4,11 +4,11 @@ In this part:
 
 #### (1) Cattle committed
 
-&emsp;The term “cattle committed” means cattle that are scheduled to be delivered to a packer within the 7-day period beginning on the date of an agreement to sell the cattle.
+&emsp;The term "cattle committed" means cattle that are scheduled to be delivered to a packer within the 7-day period beginning on the date of an agreement to sell the cattle.
 
 #### (2) Cattle type
 
-&emsp;The term “cattle type” means the following types of cattle purchased for slaughter:
+&emsp;The term "cattle type" means the following types of cattle purchased for slaughter:
 
 &emsp;&emsp;(A) Fed steers.
 
@@ -22,11 +22,11 @@ In this part:
 
 #### (3) Formula marketing arrangement
 
-&emsp;The term “formula marketing arrangement” means the advance commitment of cattle for slaughter by any means other than through a negotiated purchase or a forward contract, using a method for calculating price in which the price is determined at a future date.
+&emsp;The term "formula marketing arrangement" means the advance commitment of cattle for slaughter by any means other than through a negotiated purchase or a forward contract, using a method for calculating price in which the price is determined at a future date.
 
 #### (4) Forward contract
 
-&emsp;The term “forward contract” means—
+&emsp;The term "forward contract" means—
 
 &emsp;&emsp;(A) an agreement for the purchase of cattle, executed in advance of slaughter, under which the base price is established by reference to—
 
@@ -38,7 +38,7 @@ In this part:
 
 #### (5) Packer
 
-&emsp;The term “packer” means any person engaged in the business of buying cattle in commerce for purposes of slaughter, of manufacturing or preparing meats or meat food products from cattle for sale or shipment in commerce, or of marketing meats or meat food products from cattle in an unmanufactured form acting as a wholesale broker, dealer, or distributor in commerce, except that—
+&emsp;The term "packer" means any person engaged in the business of buying cattle in commerce for purposes of slaughter, of manufacturing or preparing meats or meat food products from cattle for sale or shipment in commerce, or of marketing meats or meat food products from cattle in an unmanufactured form acting as a wholesale broker, dealer, or distributor in commerce, except that—
 
 &emsp;&emsp;(A) the term includes only a cattle processing plant that is federally inspected;
 
@@ -48,11 +48,11 @@ In this part:
 
 #### (6) Packer-owned cattle
 
-&emsp;The term “packer-owned cattle” means cattle that a packer owns for at least 14 days immediately before slaughter.
+&emsp;The term "packer-owned cattle" means cattle that a packer owns for at least 14 days immediately before slaughter.
 
 #### (7) Terms of trade
 
-&emsp;The term “terms of trade” includes, with respect to the purchase of cattle for slaughter—
+&emsp;The term "terms of trade" includes, with respect to the purchase of cattle for slaughter—
 
 &emsp;&emsp;(A) whether a packer provided any financing agreement or arrangement with regard to the cattle;
 
@@ -68,7 +68,7 @@ In this part:
 
 #### (8) Type of purchase
 
-&emsp;The term “type of purchase”, with respect to cattle, means—
+&emsp;The term "type of purchase", with respect to cattle, means—
 
 &emsp;&emsp;(A) a negotiated purchase;
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For a State to be eligible to receive an allotment under section 2852 or 2862 of this title, or to receive financial assistance under the Wagner-Peyser Act (29 U.S.C. 49 et seq.), the Governor of the State shall submit to the Secretary for consideration by the Secretary, a single State plan (referred to in this chapter as the “State plan”) that outlines a 5-year strategy for the statewide workforce investment system of the State and that meets the requirements of section 2821 of this title and this section.
+For a State to be eligible to receive an allotment under section 2852 or 2862 of this title, or to receive financial assistance under the Wagner-Peyser Act (29 U.S.C. 49 et seq.), the Governor of the State shall submit to the Secretary for consideration by the Secretary, a single State plan (referred to in this chapter as the "State plan") that outlines a 5-year strategy for the statewide workforce investment system of the State and that meets the requirements of section 2821 of this title and this section.
 
 #### (b) Contents
 
@@ -36,7 +36,7 @@ The State plan shall include—
 
 &emsp;&emsp;(ii) other activities authorized under this chapter;
 
-&emsp;&emsp;(iii) programs authorized under the Wagner-Peyser Act (29 U.S.C. 49 et seq.), title II of this Act \[20 U.S.C. 9201 et seq.\], title I of the Rehabilitation Act of 1973 (29 U.S.C. 720et seq.), part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), and section 6(d)(4) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(d)(4)), activities authorized under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.), and career and technical education activities at the postsecondary level authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.);
+&emsp;&emsp;(iii) programs authorized under the Wagner-Peyser Act (29 U.S.C. 49 et seq.), title II of this Act \[20 U.S.C. 9201 et seq.\], title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.), part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), and section 6(d)(4) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(d)(4)), activities authorized under title V of the Older Americans Act of 1965 (42 U.S.C. 3056 et seq.), and career and technical education activities at the postsecondary level authorized under the Carl D. Perkins Career and Technical Education Act of 2006 (20 U.S.C. 2301 et seq.);
 
 &emsp;&emsp;(iv) work programs authorized under section 6(o) of the Food and Nutrition Act of 2008 (7 U.S.C. 2015(o));
 
@@ -72,7 +72,7 @@ The State plan shall include—
 
 &emsp;(13) information specifying the actions that constitute a conflict of interest prohibited in the State for purposes of sections 2821(f) and 2832(g) of this title;
 
-&emsp;(14) with respect to the one-stop delivery systems described in section 2864(c) of this title (referred to individually in this chapter as a “one-stop delivery system”), a description of the strategy of the State for assisting local areas in development and implementation of fully operational one-stop delivery systems in the State;
+&emsp;(14) with respect to the one-stop delivery systems described in section 2864(c) of this title (referred to individually in this chapter as a "one-stop delivery system"), a description of the strategy of the State for assisting local areas in development and implementation of fully operational one-stop delivery systems in the State;
 
 &emsp;(15) a description of the appeals process referred to in section 2831(a)(5) of this title;
 
@@ -114,13 +114,13 @@ A State plan submitted to the Secretary under this section by a Governor shall b
 
 A State may submit modifications to a State plan in accordance with the requirements of this section and section 2821 of this title as necessary during the 5-year period covered by the plan.
 
-(Pub. L. 105–220, title I, §112, Aug. 7, 1998, 112 Stat. 948; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 109–270, §2(h)(4), Aug. 12, 2006, 120 Stat. 748; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(R), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(R), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
+(Pub. L. 105–220, title I, §112, Aug. 7, 1998, 112 Stat. 948; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411; Pub. L. 109–270, §2(h)(4), Aug. 12, 2006,120 Stat. 748; Pub. L. 110–234, title IV, §4002(b)(1)(B), (2)(R), May 22, 2008, 122 Stat. 1096, 1097; Pub. L. 110–246, §4(a), title IV, §4002(b)(1)(B), (2)(R), June 18, 2008, 122 Stat. 1664, 1857, 1858.)
 
 #### References in Text
 
 The Wagner-Peyser Act, referred to in subsecs. (a) and (b)(8)(A)(iii), is act June 6, 1933, ch. 49, 48 Stat. 113, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
-This chapter, referred to in subsecs. (a), (b)(8)(A)(i), (ii), (14), (16), and (c)(1), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsecs. (a), (b)(8)(A)(i), (ii), (14), (16), and (c)(1), was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 Title II of this Act, referred to in subsec. (b)(8)(A)(iii), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, known as the Adult Education and Family Literacy Act, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20 and Tables.
 
@@ -144,15 +144,15 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(8)(A)(iii), (iv). Pub. L. 110–246, §4002(b)(1)(B), (2)(R), substituted “Food and Nutrition Act of 2008” for “Food Stamp Act of 1977”.
+<b>2008</b>—Subsec. (b)(8)(A)(iii), (iv). Pub. L. 110–246, §4002(b)(1)(B), (2)(R), substituted "Food and Nutrition Act of 2008" for "Food Stamp Act of 1977".
 
-<b>2006</b>—Subsec. (b)(8)(A)(iii). Pub. L. 109–270 substituted “career and technical education activities at the postsecondary level” for “postsecondary vocational education activities” and “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
+<b>2006</b>—Subsec. (b)(8)(A)(iii). Pub. L. 109–270 substituted "career and technical education activities at the postsecondary level" for "postsecondary vocational education activities" and "Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Applied Technology Education Act".
 
-<b>1998</b>—Subsec. (c)(1). Pub. L. 105–277 substituted “; or” for “; and”.
+<b>1998</b>—Subsec. (c)(1). Pub. L. 105–277 substituted "; or" for "; and".
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set outas an Effective Date note under section 8701 of Title 7, Agriculture.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
 Amendment by section 4002(b)(1)(B), (2)(R) of Pub. L. 110–246 effective Oct. 1, 2008, see section 4407 of Pub. L. 110–246, set out as a note under section 1161 of Title 2, The Congress.
 

@@ -34,7 +34,7 @@ The Federal Trade Commission shall have procedural, investigative, and enforceme
 
 &emsp;(B) shall be considered to satisfy the requirements of section 2822(c) of this title only if such person complies with the requirements established pursuant to paragraph (1)(B).
 
-(3) The Federal Trade Commission may, by rule, prescribe procedures for determination of the automotive fuel rating of automotive fuel which varies from that prescribed in section 2821of this title. In prescribing such rule, the Commission—
+(3) The Federal Trade Commission may, by rule, prescribe procedures for determination of the automotive fuel rating of automotive fuel which varies from that prescribed in section 2821 of this title. In prescribing such rule, the Commission—
 
 &emsp;(A) shall consider—
 
@@ -66,13 +66,13 @@ The Federal Trade Commission Act, referred to in subsecs. (a) and (e), is act Se
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b)(1). Pub. L. 102–486, §1502(c), struck out “shall” after “Agency” in introductory provisions, inserted “may” before “conduct” in subpar. (A), inserted “shall” before “certify” in subpar. (B), and in subpar. (C) inserted “shall” before “notify” and struck out before period at end “discovered in the course of such field testing”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–486, §1502(c), struck out "shall" after "Agency" in introductory provisions, inserted "may" before "conduct" in subpar. (A), inserted "shall" before "certify" in subpar. (B), and in subpar. (C) inserted "shall" before "notify" and struck out before period at end "discovered in the course of such field testing".
 
-Pub. L. 102–486, §1501(c)(3)(A), (B), substituted “automotive fuel rating” for “octane rating” and “fuel” for “gasoline” wherever appearing.
+Pub. L. 102–486, §1501(c)(3)(A), (B), substituted "automotive fuel rating" for "octane rating" and "fuel" for "gasoline" wherever appearing.
 
-Subsec. (c). Pub. L. 102–486, §1501(c)(3), substituted “automotive fuel rating” for “octane rating” and “fuel” for “gasoline” wherever appearing, “section 2821” for “section 2821(1)” in par. (3), and “automotive fuel ratings” for “octane ratings” in par. (4).
+Subsec. (c). Pub. L. 102–486, §1501(c)(3), substituted "automotive fuel rating" for "octane rating" and "fuel" for "gasoline" wherever appearing, "section 2821" for "section 2821(1)" in par. (3), and "automotive fuel ratings" for "octane ratings" in par. (4).
 
-Subsec. (e). Pub. L. 102–586, §1502(b), struck out before end of second sentence “; except that for purposes of section 5(m)(1)(A) of such Act, the term ‘or knowledge fairly implied on the basis of objective circumstances’ shall not apply to any violation by any gasoline retailer of the requirements of section 2822(c) or (e) of this title”.
+Subsec. (e). Pub. L. 102–586, §1502(b), struck out before end of second sentence "; except that for purposes of section 5(m)(1)(A) of such Act, the term 'or knowledge fairly implied on the basis of objective circumstances' shall not apply to any violation by any gasoline retailer of the requirements of section 2822(c) or (e) of this title".
 
 #### Effective Date of 1992 Amendment
 

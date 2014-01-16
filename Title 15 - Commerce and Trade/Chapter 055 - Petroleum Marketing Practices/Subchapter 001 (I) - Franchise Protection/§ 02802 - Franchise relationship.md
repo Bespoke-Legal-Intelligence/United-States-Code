@@ -44,7 +44,7 @@ Except as provided in subsection (b) of this section and section 2803 of this ti
 
 &emsp;&emsp;(iii) within 7 days after the date on which the franchisee is provided a copy of such agreement, the franchisee has not posted by certified mail a written notice to the franchisor repudiating such agreement.
 
-&emsp;(E) In the case of any franchise entered into prior to June 19, 1978, and in the case of any franchise entered into or renewed on or after such date (the term of which is 3 years or longer, or with respect to which the franchiseewas offered a term of 3 years or longer), a determination made by the franchisor in good faith and in the normal course of business to withdraw from the marketing of motor fuel through retail outlets in the relevant geographic market area in which the marketing premises are located, if—
+&emsp;(E) In the case of any franchise entered into prior to June 19, 1978, and in the case of any franchise entered into or renewed on or after such date (the term of which is 3 years or longer, or with respect to which the franchisee was offered a term of 3 years or longer), a determination made by the franchisor in good faith and in the normal course of business to withdraw from the marketing of motor fuel through retail outlets in the relevant geographic market area in which the marketing premises are located, if—
 
 &emsp;&emsp;(i) such determination—
 
@@ -98,7 +98,7 @@ Except as provided in subsection (b) of this section and section 2803 of this ti
 
 #### (c) Definition
 
-As used in subsection (b)(2)(C) of this section, the term “an event which is relevant to the franchise relationship and as a result of which termination of the franchise or nonrenewal of the franchise relationship is reasonable” includes events such as—
+As used in subsection (b)(2)(C) of this section, the term "an event which is relevant to the franchise relationship and as a result of which termination of the franchise or nonrenewal of the franchise relationship is reasonable" includes events such as—
 
 &emsp;(1) fraud or criminal misconduct by the franchisee relevant to the operation of the marketing premises;
 
@@ -164,7 +164,7 @@ In the case of any termination of a franchise (entered into or renewed on or aft
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b)(3)(A)(ii). Pub. L. 103–371, §2, inserted “converting the leased marketing premises to operation by employees or agents of the franchisor for the benefit of the franchisor or otherwise” after “purpose of”.
+<b>1994</b>—Subsec. (b)(3)(A)(ii). Pub. L. 103–371, §2, inserted "converting the leased marketing premises to operation by employees or agents of the franchisor for the benefit of the franchisor or otherwise" after "purpose of".
 
 Subsec. (c)(4). Pub. L. 103–371, §3, redesignated portion of introductory language of par. (4) as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpars. (B) and (C).
 

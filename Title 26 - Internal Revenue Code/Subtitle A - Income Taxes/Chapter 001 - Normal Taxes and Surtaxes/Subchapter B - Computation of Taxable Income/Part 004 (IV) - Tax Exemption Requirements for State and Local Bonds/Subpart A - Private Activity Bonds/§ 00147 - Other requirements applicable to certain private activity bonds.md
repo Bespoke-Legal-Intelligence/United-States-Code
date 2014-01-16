@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) 2 or more persons if the relationship between such persons would result in a disallowance of losses under section 267 or 707(b),
 
-&emsp;&emsp;(B) 2 or more persons which are members of the same controlled group of corporations (as defined in section 1563(a), except that “more than 50 percent” shall be substituted for “at least 80 percent” each place it appears therein),
+&emsp;&emsp;(B) 2 or more persons which are members of the same controlled group of corporations (as defined in section 1563(a), except that "more than 50 percent" shall be substituted for "at least 80 percent" each place it appears therein),
 
 &emsp;&emsp;(C) a partnership and each of its partners (and their spouses and minor children), and
 
@@ -110,7 +110,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “first-time farmer” means any individual if such individual—
+&emsp;&emsp;&emsp;The term "first-time farmer" means any individual if such individual—
 
 &emsp;&emsp;&emsp;&emsp;(I) has not at any time had any direct or indirect ownership interest in substantial farmland in the operation of which such individual materially participated, and
 
@@ -126,11 +126,11 @@
 
 #### (D) Farm
 
-&emsp;&emsp;For purposes of this paragraph, the term “farm” has the meaning given such term by section 6420(c)(2).
+&emsp;&emsp;For purposes of this paragraph, the term "farm" has the meaning given such term by section 6420(c)(2).
 
 #### (E) Substantial farmland
 
-&emsp;&emsp;For purposes of this paragraph, the term “substantial farmland” means any parcel of land unless such parcel is smaller than 30 percent of the median size of a farm in the county in which such parcel is located.
+&emsp;&emsp;For purposes of this paragraph, the term "substantial farmland" means any parcel of land unless such parcel is smaller than 30 percent of the median size of a farm in the county in which such parcel is located.
 
 #### (F) Used equipment limitation
 
@@ -158,7 +158,7 @@
 
 &emsp;&emsp;&emsp;(i) such dollar amount, multiplied by
 
-&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting “calendar year 2007” for “calendar year 1992” in subparagraph (B) thereof.
+&emsp;&emsp;&emsp;(ii) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year, determined by substituting "calendar year 2007" for "calendar year 1992" in subparagraph (B) thereof.
 
 > &emsp;&emsp;If any amount as increased under the preceding sentence is not a multiple of $100, such amount shall be rounded to the nearest multiple of $100.
 
@@ -184,7 +184,7 @@
 
 &emsp;&emsp;(B) 15 percent of the portion of the cost of acquiring such building (and equipment) financed with the net proceeds of the issue.
 
-> &emsp;A rule similar to the rule of the preceding sentence shall apply in the case of structures other than a building except that subparagraph (B) shall be applied by substituting “100 percent” for “15 percent”.
+> &emsp;A rule similar to the rule of the preceding sentence shall apply in the case of structures other than a building except that subparagraph (B) shall be applied by substituting "100 percent" for "15 percent".
 
 #### (3) Rehabilitation expenditures
 
@@ -192,15 +192,15 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in this paragraph, the term “rehabilitation expenditures” means any amount properly chargeable to capital account which is incurred by the person acquiring the building for property (or additions or improvements to property) in connection with the rehabilitation of a building. In the case of an integrated operation contained in a building before its acquisition, such term includes rehabilitating existing equipment in such building or replacing it with equipment having substantially the same function. For purposes of this subparagraph, any amount incurred by a successor to the person acquiring the building or by the seller under a sales contract with such person shall be treated as incurred by such person.
+&emsp;&emsp;Except as provided in this paragraph, the term "rehabilitation expenditures" means any amount properly chargeable to capital account which is incurred by the person acquiring the building for property (or additions or improvements to property) in connection with the rehabilitation of a building. In the case of an integrated operation contained in a building before its acquisition, such term includes rehabilitating existing equipment in such building or replacing it with equipment having substantially the same function. For purposes of this subparagraph, any amount incurred by a successor to the person acquiring the building or by the seller under a sales contract with such person shall be treated as incurred by such person.
 
 #### (B) Certain expenditures not included
 
-&emsp;&emsp;The term “rehabilitation expenditures” does not include any expenditure described in section 47(c)(2)(B).
+&emsp;&emsp;The term "rehabilitation expenditures" does not include any expenditure described in section 47(c)(2)(B).
 
 #### (C) Period during which expenditures must be incurred
 
-&emsp;&emsp;The term “rehabilitation expenditures” shall not include any amount which is incurred after the date 2 years after the later of—
+&emsp;&emsp;The term "rehabilitation expenditures" shall not include any amount which is incurred after the date 2 years after the later of—
 
 &emsp;&emsp;&emsp;(i) the date on which the building was acquired, or
 
@@ -260,7 +260,7 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “applicable elected representative” means with respect to any governmental unit—
+&emsp;&emsp;&emsp;The term "applicable elected representative" means with respect to any governmental unit—
 
 &emsp;&emsp;&emsp;&emsp;(I) an elected legislative body of such unit, or
 
@@ -304,17 +304,17 @@ A private activity bond shall not be a qualified bond if issued as part of an is
 
 #### (2) Special rule for small mortgage revenue bond issues
 
-&emsp;In the case of an issue of qualified mortgage bonds or qualified veterans’ mortgage bonds, paragraph (1) shall be applied by substituting “3.5 percent” for “2 percent” if the proceeds of the issue do not exceed $20,000,000.
+&emsp;In the case of an issue of qualified mortgage bonds or qualified veterans' mortgage bonds, paragraph (1) shall be applied by substituting "3.5 percent" for "2 percent" if the proceeds of the issue do not exceed $20,000,000.
 
 #### (h) Certain rules not to apply to certain bonds
 
 #### (1) Mortgage revenue bonds and qualified student loan bonds
 
-&emsp;Subsections (a), (b), (c), and (d) shall not apply to any qualified mortgage bond, qualified veterans’ mortgage bond, or qualified student loan bond.
+&emsp;Subsections (a), (b), (c), and (d) shall not apply to any qualified mortgage bond, qualified veterans' mortgage bond, or qualified student loan bond.
 
 #### (2) Qualified 501(c)(3) bonds
 
-&emsp;Subsections (a), (c), and (d) shall not apply to any qualified 501(c)(3) bond and subsection (e) shall be applied as if it did not contain “health club facility” with respect to such a bond.
+&emsp;Subsections (a), (c), and (d) shall not apply to any qualified 501(c)(3) bond and subsection (e) shall be applied as if it did not contain "health club facility" with respect to such a bond.
 
 #### (3) Exempt facility bonds for qualified public-private schools
 
@@ -336,57 +336,57 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2012</b>—Subsec. (e). Pub. L. 112–95 inserted at end: “The preceding sentence shall not apply to any fixed-wing aircraft equipped for, and exclusively dedicated to providing, acute care emergency medical services (within the meaning of section 4261(g)(2)).”
+<b>2012</b>—Subsec. (e). Pub. L. 112–95 inserted at end: "The preceding sentence shall not apply to any fixed-wing aircraft equipped for, and exclusively dedicated to providing, acute care emergency medical services (within the meaning of section 4261(g)(2))."
 
-<b>2008</b>—Subsec. (c)(2)(A). Pub. L. 110–246, §15341(a), substituted “$450,000” for “$250,000”.
+<b>2008</b>—Subsec. (c)(2)(A). Pub. L. 110–246, §15341(a), substituted "$450,000" for "$250,000".
 
-Subsec. (c)(2)(C)(i)(II). Pub. L. 110–246, §15341(d), substituted “the amount in effect under subparagraph (A)” for “$250,000”.
+Subsec. (c)(2)(C)(i)(II). Pub. L. 110–246, §15341(d), substituted "the amount in effect under subparagraph (A)" for "$250,000".
 
-Subsec. (c)(2)(E). Pub. L. 110–246, §15341(c), substituted “unless such parcel is smaller than 30 percent of the median size of a farm in the county in which such parcel is located.” for “unless—
+Subsec. (c)(2)(E). Pub. L. 110–246, §15341(c), substituted "unless such parcel is smaller than 30 percent of the median size of a farm in the county in which such parcel is located." for "unless—
 
-&emsp;“(i) such parcel is smaller than 30 percent of the median size of a farm in the county in which such parcel is located, and
+&emsp;"(i) such parcel is smaller than 30 percent of the median size of a farm in the county in which such parcel is located, and
 
-&emsp;“(ii) the fair market value of the land does not at any time while held by the individual exceed $125,000.”
+&emsp;"(ii) the fair market value of the land does not at any time while held by the individual exceed $125,000."
 
 Subsec. (c)(2)(H). Pub. L. 110–246, §15341(b), added subpar. (H).
 
-<b>2001</b>—Subsec. (h). Pub. L. 107–16, §422(e), substituted “certain bonds” for “mortgage revenue bonds, qualified student loan bonds, and qualified 501(c)(3) bonds” in heading.
+<b>2001</b>—Subsec. (h). Pub. L. 107–16, §422(e), substituted "certain bonds" for "mortgage revenue bonds, qualified student loan bonds, and qualified 501(c)(3) bonds" in heading.
 
 Subsec. (h)(3). Pub. L. 107–16, §422(d), added par. (3).
 
-<b>1996</b>—Subsec. (c)(2)(E)(i). Pub. L. 104–188, §1117(b), substituted “30 percent” for “15 percent”.
+<b>1996</b>—Subsec. (c)(2)(E)(i). Pub. L. 104–188, §1117(b), substituted "30 percent" for "15 percent".
 
 Subsec. (c)(2)(G). Pub. L. 104–188, §1117(a), added subpar. (G).
 
-<b>1990</b>—Subsec. (d)(3)(B). Pub. L. 101–508 substituted “section 47(c)(2)(B)” for “section 48(g)(2)(B)”.
+<b>1990</b>—Subsec. (d)(3)(B). Pub. L. 101–508 substituted "section 47(c)(2)(B)" for "section 48(g)(2)(B)".
 
-<b>1989</b>—Subsec. (c)(3). Pub. L. 101–239 inserted a comma after “mass commuting facility” in introductory provisions and in subpar. (A).
+<b>1989</b>—Subsec. (c)(3). Pub. L. 101–239 inserted a comma after "mass commuting facility" in introductory provisions and in subpar. (A).
 
-<b>1988</b>—Subsec. (c)(3). Pub. L. 100–647, §6180(b)(4), inserted “high-speed intercity rail facility” after “mass commuting facility” in introductory text and in subpar. (A).
+<b>1988</b>—Subsec. (c)(3). Pub. L. 100–647, §6180(b)(4), inserted "high-speed intercity rail facility" after "mass commuting facility" in introductory text and in subpar. (A).
 
-Subsec. (e). Pub. L. 100–647, §1013(a)(11), struck out “treated as” after “shall not be”.
+Subsec. (e). Pub. L. 100–647, §1013(a)(11), struck out "treated as" after "shall not be".
 
-Subsec. (f)(2)(D). Pub. L. 100–647, §1013(a)(29), substituted “the average maturity date of the issue of which the refunding bond is a part is later than the average maturity date of the bonds to be refunded by such issue. For purposes of the preceding sentence, average maturity shall be determined in accordance with subsection (b)(2)(A)” for “the maturity date of such bond is later than the maturity date of the bond to be refunded”.
+Subsec. (f)(2)(D). Pub. L. 100–647, §1013(a)(29), substituted "the average maturity date of the issue of which the refunding bond is a part is later than the average maturity date of the bonds to be refunded by such issue. For purposes of the preceding sentence, average maturity shall be determined in accordance with subsection (b)(2)(A)" for "the maturity date of such bond is later than the maturity date of the bond to be refunded".
 
 Subsec. (f)(2)(E)(i). Pub. L. 100–647, §1013(a)(36), inserted sentence at end relating to treatment of an individual appointed to fill a vacancy in the office of an elected official.
 
-Subsec. (f)(3). Pub. L. 100–647, §6180(b)(5), inserted “or high-speed intercity rail facilities” after “airports” in heading and after “airport” in subpars. (A) and (B) and in last sentence.
+Subsec. (f)(3). Pub. L. 100–647, §6180(b)(5), inserted "or high-speed intercity rail facilities" after "airports" in heading and after "airport" in subpars. (A) and (B) and in last sentence.
 
 Subsec. (f)(4). Pub. L. 100–647, §1013(a)(12), added par. (4).
 
-Subsec. (g)(1). Pub. L. 100–647, §1013(a)(13)(A), substituted “proceeds” for “aggregate face amount”.
+Subsec. (g)(1). Pub. L. 100–647, §1013(a)(13)(A), substituted "proceeds" for "aggregate face amount".
 
-Subsec. (g)(2). Pub. L. 100–647, §1013(a)(13)(B), substituted “proceeds” for “aggregate authorized face amount” and “do” for “does”.
+Subsec. (g)(2). Pub. L. 100–647, §1013(a)(13)(B), substituted "proceeds" for "aggregate authorized face amount" and "do" for "does".
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–95, title XI, §1105(b), Feb. 14, 2012, 126 Stat. 152, provided that: “The amendment made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 14, 2012\].”
+Pub. L. 112–95, title XI, §1105(b), Feb. 14, 2012, 126 Stat. 152, provided that: "The amendment made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 14, 2012\]."
 
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, except as otherwise provided, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-Pub. L. 110–234, title XV, §15341(e), May 22, 2008, 122 Stat. 1517, and Pub. L. 110–246, §4(a), title XV, §15341(e), June 18, 2008, 122 Stat. 1664, 2279, provided that: “The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[June 18, 2008\].”
+Pub. L. 110–234, title XV, §15341(e), May 22, 2008, 122 Stat. 1517, and Pub. L. 110–246, §4(a), title XV, §15341(e), June 18, 2008, 122 Stat. 1664, 2279, provided that: "The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[June 18, 2008\]."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
@@ -396,7 +396,7 @@ Amendment by Pub. L. 107–16 applicable to bonds issued after Dec. 31, 2001, se
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–188, title I, §1117(c), Aug. 20, 1996, 110 Stat. 1764, provided that: “The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Aug. 20, 1996\].”
+Pub. L. 104–188, title I, §1117(c), Aug. 20, 1996, 110 Stat. 1764, provided that: "The amendments made by this section \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Aug. 20, 1996\]."
 
 #### Effective Date of 1990 Amendment
 
@@ -408,7 +408,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1013(a)(13)(C), Nov. 10, 1988, 102 Stat. 3539, provided that: “The amendments made by this paragraph \[amending this section\] shall apply to bonds issued after June 30, 1987.”
+Pub. L. 100–647, title I, §1013(a)(13)(C), Nov. 10, 1988, 102 Stat. 3539, provided that: "The amendments made by this paragraph \[amending this section\] shall apply to bonds issued after June 30, 1987."
 
 Amendment by section 1013(a)(11), (12), (29), (36) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 

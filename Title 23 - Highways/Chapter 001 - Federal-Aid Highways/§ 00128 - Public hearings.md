@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–178 substituted “State transportation department” for “State highway department” wherever appearing.
+<b>1998</b>—Pub. L. 105–178 substituted "State transportation department" for "State highway department" wherever appearing.
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–605, §135(a), provided for submission of a report by the State highway department involved indicating consideration given to economic, social, environmental, and other effects of the plan or highway location or design plus the various alternatives which were considered.
 

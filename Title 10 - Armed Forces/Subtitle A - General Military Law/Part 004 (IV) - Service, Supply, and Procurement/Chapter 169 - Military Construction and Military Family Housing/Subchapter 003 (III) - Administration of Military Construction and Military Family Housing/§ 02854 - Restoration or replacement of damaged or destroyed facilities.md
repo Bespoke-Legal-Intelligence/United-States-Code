@@ -8,9 +8,9 @@
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b). Pub. L. 108–136 inserted before period at end “or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title”.
+<b>2003</b>—Subsec. (b). Pub. L. 108–136 inserted before period at end "or, if earlier, the end of the seven-day period beginning on the date on which a copy of the notification is provided in an electronic medium pursuant to section 480 of this title".
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–190 struck out “(1)” after “carried out only” and “, or (2) after each such committee has approved the project, if the committees approve the project before the end of that period” before period at end.
+<b>1991</b>—Subsec. (b). Pub. L. 102–190 struck out "(1)" after "carried out only" and ", or (2) after each such committee has approved the project, if the committees approve the project before the end of that period" before period at end.
 
 #### Effective Date
 

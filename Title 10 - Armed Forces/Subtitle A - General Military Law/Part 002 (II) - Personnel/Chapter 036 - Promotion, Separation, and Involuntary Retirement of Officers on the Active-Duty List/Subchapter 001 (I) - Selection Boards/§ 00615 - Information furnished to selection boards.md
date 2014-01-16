@@ -1,10 +1,10 @@
 ### §615. Information furnished to selection boards
 
-(a)(1) The Secretary of Defense shall prescribe regulations governing information furnished to selection boards convened under section 611(a) of this title. Those regulations shall apply uniformly among the military departments. Any regulations prescribed by the Secretary of a military department to supplement those regulations may not take effect without the approval of the Secretary of Defense in writing.
+(a)(1) The Secretary of Defense shall prescribe regulations governing information furnished toselection boards convened under section 611(a) of this title. Those regulations shall apply uniformly among the military departments. Any regulations prescribed by the Secretary of a military department to supplement those regulations may not take effect without the approval of the Secretary of Defense in writing.
 
 (2) No information concerning a particular eligible officer may be furnished to a selection board except for the following:
 
-&emsp;(A) Information that is in the officer's official military personnel file and that is provided to the selection board in accordancewith the regulations prescribed by the Secretary of Defense pursuant to paragraph (1).
+&emsp;(A) Information that is in the officer's official military personnel file and that is provided to the selection board in accordance with the regulations prescribed by the Secretary of Defense pursuant to paragraph (1).
 
 &emsp;(B) Other information that is determined by the Secretary of the military department concerned, after review by that Secretary in accordance with standards and procedures set out in the regulations prescribed by the Secretary of Defense pursuant to paragraph (1), to be substantiated, relevant information that could reasonably and materially affect the deliberations of the selection board.
 
@@ -48,7 +48,7 @@
 
 (c) The Secretary of Defense, with the advice and assistance of the Chairman of the Joint Chiefs of Staff, shall furnish to the Secretaries of the military departments guidelines for the purpose of ensuring that each selection board convened under section 611(a) of this title gives appropriate consideration to the performance of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers.
 
-(d) Information or guidelines furnished to a selection board under subsection (b) may not be modified, withdrawn, or supplemented after the board submits the report to the Secretary of the military department concerned pursuant to section 617(a) of this title, except that, in the case of a report returned to a board pursuant to section 618(a)(2) of this title for further proceedings because of a determination by the Secretary of the military department concerned that the board acted contrary to law, regulation, or guidelines, the Secretary may modify, withdraw, or supplement such information or guidelines as part of a written explanation to the board as provided in that section.
+(d) Information or guidelines furnished to a selection board under subsection (b) may not be modified, withdrawn, or supplemented after the board submits the report to the Secretary of the military department concerned pursuant to section 617(a) of this title, except that, in the case of a report returned to a board pursuant to section 618(a)(2) of this title for further proceedings because of a determination by the Secretary of the military department concerned that the board acted contrary to law, regulation, orguidelines, the Secretary may modify, withdraw, or supplement such information or guidelines as part of a written explanation to the board as provided in that section.
 
 (e) The Secretary of each military department, under uniform regulations prescribed by the Secretary of Defense, shall include in guidelines furnished to a selection board convened under section 611(a) of this title that is considering officers in a health-professions competitive category for promotion to a grade below colonel or, in the case of the Navy, captain, a direction that the board give consideration to an officer's clinical proficiency and skill as a health professional to at least as great an extent as the board gives to the officer's administrative and management skills.
 
@@ -56,37 +56,37 @@
 
 #### Amendments
 
-<b>2011</b>—Subsecs. (b)(5), (c). Pub. L. 111–383 substituted “of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers” for “in joint duty assignments of officers who are serving, or have served, in such assignments”.
+<b>2011</b>—Subsecs. (b)(5), (c). Pub. L. 111–383 substituted "of officers who are serving on, or have served on, the Joint Staff or are joint qualified officers" for "in joint duty assignments of officers who are serving, or have served, in such assignments".
 
 <b>2006</b>—Subsec. (a)(3). Pub. L. 109–163, §506(a)(1)(B), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (a)(4). Pub. L. 109–163, §506(a)(2)(A), substituted “paragraphs (2) and (3)” for “paragraph (2)”.
+Subsec. (a)(4). Pub. L. 109–163, §506(a)(2)(A), substituted "paragraphs (2) and (3)" for "paragraph (2)".
 
 Pub. L. 109–163, §506(a)(1)(A), redesignated par. (3) as (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 109–163, §506(a)(2)(B), substituted “, (3), and (4)” for “and (3)”.
+Subsec. (a)(5). Pub. L. 109–163, §506(a)(2)(B), substituted ", (3), and (4)" for "and (3)".
 
 Pub. L. 109–163, §506(a)(1)(A), redesignated par. (4) as (5). Former par. (5) redesignated (6).
 
-Subsec. (a)(6). Pub. L. 109–163, §506(a)(2)(C)(i), inserted “, or in paragraph (3),” after “paragraph (2)” in introductory provisions.
+Subsec. (a)(6). Pub. L. 109–163, §506(a)(2)(C)(i), inserted ", or in paragraph (3)," after "paragraph (2)" in introductory provisions.
 
 Pub. L. 109–163, §506(a)(1)(A), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
-Subsec. (a)(6)(B). Pub. L. 109–163, §506(a)(2)(C)(ii), inserted “or (3), as applicable” before period at end.
+Subsec. (a)(6)(B). Pub. L. 109–163, §506(a)(2)(C)(ii), inserted "or (3), as applicable" before period at end.
 
 Subsec. (a)(7). Pub. L. 109–163, §506(a)(1)(A), redesignated par. (6) as (7).
 
-Subsec. (a)(7)(A). Pub. L. 109–163, §506(a)(2)(D), inserted “or (3)” after “paragraph (2)(B)” in introductory provisions.
+Subsec. (a)(7)(A). Pub. L. 109–163, §506(a)(2)(D), inserted "or (3)" after "paragraph (2)(B)" in introductory provisions.
 
-<b>1992</b>—Subsec. (b)(5). Pub. L. 102–484, §1052(7)(A), substituted “subsection (c)” for “subsection (b)”.
+<b>1992</b>—Subsec. (b)(5). Pub. L. 102–484, §1052(7)(A), substituted "subsection (c)" for "subsection (b)".
 
-Subsec. (d). Pub. L. 102–484, §1052(7)(B), substituted “subsection (b)” for “subsection (a)”.
+Subsec. (d). Pub. L. 102–484, §1052(7)(B), substituted "subsection (b)" for "subsection (a)".
 
 <b>1991</b>—Pub. L. 102–190 added subsec. (a) and redesignated former subsecs. (a) to (d) as (b) to (e), respectively.
 
 <b>1989</b>—Subsec. (d). Pub. L. 101–189 added subsec. (d).
 
-<b>1988</b>—Subsec. (a)(4). Pub. L. 100–456, §501(a)(1), added cl. (4) and struck out former cl. (4) which read as follows: “information relating to the needs of the armed force concerned for officers having particular skills;”.
+<b>1988</b>—Subsec. (a)(4). Pub. L. 100–456, §501(a)(1), added cl. (4) and struck out former cl. (4) which read as follows: "information relating to the needs of the armed force concerned for officers having particular skills;".
 
 Subsec. (c). Pub. L. 100–456, §501(a)(2), added subsec. (c).
 
@@ -94,15 +94,15 @@ Subsec. (c). Pub. L. 100–456, §501(a)(2), added subsec. (c).
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–163, div. A, title V, §506(c), Jan. 6, 2006, 119 Stat. 3228, provided that: “The amendments made by this section \[amending this section and section 14107 of this title\] shall take effect on October 1, 2006, and shall apply with respect to promotion selection boards convened on or after that date.”
+Pub. L. 109–163, div. A, title V, §506(c), Jan. 6, 2006, 119 Stat. 3228, provided that: "The amendments made by this section \[amending this section and section 14107 of this title\] shall take effect on October 1, 2006, and shall apply with respect to promotion selection boards convened on or after that date."
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–190, div. A, title V, §504(e), Dec. 5, 1991, 105 Stat. 1358, provided that: “The amendments made by this section \[amending this section and sections 614, 616, 618, and 619 of this title\] shall apply to selection boards convened under section 611(a) of title 10, United States Code, after the end of the 60-day period beginning on the date of the enactment of this Act \[Dec. 5, 1991\].”
+Pub. L. 102–190, div. A, title V, §504(e), Dec. 5, 1991, 105 Stat. 1358, provided that: "The amendments made by this section \[amending this section and sections 614, 616, 618, and 619 of this title\] shall apply to selection boards convened under section 611(a) of title 10, United States Code, after the end of the 60-day period beginning on the date of the enactment of this Act \[Dec. 5, 1991\]."
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–456, div. A, title V, §501(e), Sept. 29, 1988, 102 Stat. 1966, provided that: “The amendments made by this section \[amending this section and sections 616 to 618 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Sept. 29, 1988\] and shall apply with respect to selection boards convened under section 611(a) of title 10, United States Code, on or after that effective date.”
+Pub. L. 100–456, div. A, title V, §501(e), Sept. 29, 1988, 102 Stat. 1966, provided that: "The amendments made by this section \[amending this section and sections 616 to 618 of this title\] shall take effect 60 days after the date of the enactment of this Act \[Sept. 29, 1988\] and shall apply with respect to selection boards convened under section 611(a) of title 10, United States Code, on or after that effective date."
 
 #### Effective Date of 1986 Amendment
 

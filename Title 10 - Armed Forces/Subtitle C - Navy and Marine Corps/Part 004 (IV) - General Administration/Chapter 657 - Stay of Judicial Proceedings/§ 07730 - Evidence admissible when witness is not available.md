@@ -30,5 +30,5 @@ Historical and Revision Notes
 
 July 3, 1944, ch. 399, §5, 58 Stat. 725.
 
-The words “naval”, “board of investigation”, and “Coast Guard investigation” are omitted as surplusage.
+The words "naval", "board of investigation", and "Coast Guard investigation" are omitted as surplusage.
 

@@ -16,7 +16,7 @@ The Commission, in carrying out its responsibilities under this subchapter, may�
 
 #### Amendments
 
-<b>1984</b>—Par. (5). Pub. L. 98–364 inserted “; except that no fewer than 11 employees must be employed under paragraph (1) at any time” at end.
+<b>1984</b>—Par. (5). Pub. L. 98–364 inserted "; except that no fewer than 11 employees must be employed under paragraph (1) at any time" at end.
 
-<b>1981</b>—Par. (3). Pub. L. 97–58 substituted “contracts or agreements with, or provide such grants to, other organizations” for “contracts or agreements with other organizations”.
+<b>1981</b>—Par. (3). Pub. L. 97–58 substituted "contracts or agreements with, or provide such grants to, other organizations" for "contracts or agreements with other organizations".
 

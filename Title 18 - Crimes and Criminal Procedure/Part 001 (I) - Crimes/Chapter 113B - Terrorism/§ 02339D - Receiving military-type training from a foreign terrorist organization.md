@@ -24,13 +24,13 @@ Extraterritorial Jurisdiction.—There is extraterritorial Federal jurisdiction 
 
 Definitions.—As used in this section—
 
-&emsp;(1) the term “military-type training” includes training in means or methods that can cause death or serious bodily injury, destroy or damage property, or disrupt services to critical infrastructure, or training on the use, storage, production, or assembly of any explosive, firearm or other weapon, including any weapon of mass destruction (as defined in section 2232a(c)(2) <sup>2</sup>);
+&emsp;(1) the term "military-type training" includes training in means or methods that can cause death or serious bodily injury, destroy or damage property, or disrupt services to critical infrastructure, or training on the use, storage, production, or assembly of any explosive, firearm or other weapon, including any weapon of mass destruction (as defined in section 2232a(c)(2) <sup>2</sup>);
 
-&emsp;(2) the term “serious bodily injury” has the meaning given that term in section 1365(h)(3);
+&emsp;(2) the term "serious bodily injury" has the meaning given that term in section 1365(h)(3);
 
-&emsp;(3) the term “critical infrastructure” means systems and assets vital to national defense, national security, economic security, public health or safety including both regional and national infrastructure. Critical infrastructure may be publicly or privately owned; examples of critical infrastructure include gas and oil production, storage, or delivery systems, water supply systems, telecommunications networks, electrical power generation or delivery systems, financing and banking systems, emergency services (including medical, police, fire, and rescue services), and transportation systems and services (including highways, mass transit, airlines, and airports); and
+&emsp;(3) the term "critical infrastructure" means systems and assets vital to national defense, national security, economic security, public health or safety including both regional and national infrastructure. Critical infrastructure may be publicly or privately owned; examples of critical infrastructure include gas and oil production, storage, or delivery systems, water supply systems, telecommunications networks, electrical power generation or delivery systems, financing and banking systems, emergency services (including medical, police, fire, and rescue services), and transportation systems and services (including highways, mass transit, airlines, and airports); and
 
-&emsp;(4) the term “foreign terrorist organization” means an organization designated as a terrorist organization under section 219(a)(1) of the Immigration and Nationality Act.
+&emsp;(4) the term "foreign terrorist organization" means an organization designated as a terrorist organization under section 219(a)(1) of the Immigration and Nationality Act.
 
 (Added Pub. L. 108–458, title VI, §6602, Dec. 17, 2004, 118 Stat. 3761.)
 
@@ -40,7 +40,7 @@ Sections 101, 212, and 219 of the Immigration and Nationality Act, referred to i
 
 Section 140(d)(2) of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989, referred to in subsec. (a), is classified to section 2656f(d)(2) of Title 22, Foreign Relations and Intercourse.
 
-<i><sup>1</sup></i><i> So in original. The word “section” probably should appear after “in”.</i>
+<i><sup>1</sup></i><i> So in original. The word "section" probably should appear after "in".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be section “2332a(c)(2)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be section "2332a(c)(2)".</i>
 

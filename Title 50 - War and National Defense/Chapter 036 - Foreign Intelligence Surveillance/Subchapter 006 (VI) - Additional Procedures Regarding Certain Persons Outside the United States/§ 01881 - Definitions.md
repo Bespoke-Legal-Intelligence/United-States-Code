@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-The terms “agent of a foreign power”, “Attorney General”, “contents”, “electronic surveillance”, “foreign intelligence information”, “foreign power”, “person”, “United States”, and “United States person” have the meanings given such terms in section 1801 of this title, except as specifically provided in this subchapter.
+The terms "agent of a foreign power", "Attorney General", "contents", "electronic surveillance", "foreign intelligence information", "foreign power", "person", "United States", and "United States person" have the meanings given such terms in section 1801 of this title, except as specifically provided in this subchapter.
 
 #### (b) Additional definitions
 
 #### (1) Congressional intelligence committees
 
-&emsp;The term “congressional intelligence committees” means—
+&emsp;The term "congressional intelligence committees" means—
 
 &emsp;&emsp;(A) the Select Committee on Intelligence of the Senate; and
 
@@ -16,15 +16,15 @@ The terms “agent of a foreign power”, “Attorney General”, “contents”
 
 #### (2) Foreign Intelligence Surveillance Court; Court
 
-&emsp;The terms “Foreign Intelligence Surveillance Court” and “Court” mean the court established under section 1803(a) of this title.
+&emsp;The terms "Foreign Intelligence Surveillance Court" and "Court" mean the court established under section 1803(a) of this title.
 
 #### (3) Foreign Intelligence Surveillance Court of Review; Court of Review
 
-&emsp;The terms “Foreign Intelligence Surveillance Court of Review” and “Court of Review” mean the court established under section 1803(b) of this title.
+&emsp;The terms "Foreign Intelligence Surveillance Court of Review" and "Court of Review" mean the court established under section 1803(b) of this title.
 
 #### (4) Electronic communication service provider
 
-&emsp;The term “electronic communication service provider” means—
+&emsp;The term "electronic communication service provider" means—
 
 &emsp;&emsp;(A) a telecommunications carrier, as that term is defined in section 153 of title 47;
 
@@ -38,7 +38,7 @@ The terms “agent of a foreign power”, “Attorney General”, “contents”
 
 #### (5) Intelligence community
 
-&emsp;The term “intelligence community” has the meaning given the term in section 401a(4) of this title.
+&emsp;The term "intelligence community" has the meaning given the term in section 3003(4) of this title.
 
 (Pub. L. 95–511, title VII, §701, as added Pub. L. 110–261, title I, §101(a)(2), July 10, 2008, 122 Stat. 2437.)
 

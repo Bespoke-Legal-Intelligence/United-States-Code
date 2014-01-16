@@ -6,15 +6,15 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Commercial purposes.—The term “commercial purposes” means the transportation of persons or property for compensation or hire, but does not include the operation of an aircraft by the armed forces for reimbursement when that reimbursement is required by any Federal statute, regulation, or directive, in effect on November 1, 1999, or by one government on behalf of another government under a cost reimbursement agreement if the government on whose behalf the operation is conducted certifies to the Administrator of the Federal Aviation Administration that the operation is necessary to respond to a significant and imminent threat to life or property (including natural resources) and that no service by a private operator is reasonably available to meet the threat.
+Commercial purposes.—The term "commercial purposes" means the transportation of persons or property for compensation or hire, but does not include the operation of an aircraft by the armed forces for reimbursement when that reimbursement is required by any Federal statute, regulation, or directive, in effect on November 1, 1999, or by one government on behalf of another government under a cost reimbursement agreement if the government on whose behalf the operation is conducted certifies to the Administrator of the Federal Aviation Administration that the operation is necessary to respond to a significant and imminent threat to life or property (including natural resources) and that no service by a private operator is reasonably available to meet the threat.
 
 &emsp;(2)
 
-Governmental function.—The term “governmental function” means an activity undertaken by a government, such as national defense, intelligence missions, firefighting, search and rescue, law enforcement (including transport of prisoners, detainees, and illegal aliens), aeronautical research, or biological or geological resource management.
+Governmental function.—The term "governmental function" means an activity undertaken by a government, such as national defense, intelligence missions, firefighting, search and rescue, law enforcement (including transport of prisoners, detainees, and illegal aliens), aeronautical research, or biological or geological resource management.
 
 &emsp;(3)
 
-Qualified non-crewmember.—The term “qualified non-crewmember” means an individual, other than a member of the crew, aboard an aircraft—
+Qualified non-crewmember.—The term "qualified non-crewmember" means an individual, other than a member of the crew, aboard an aircraft—
 
 &emsp;&emsp;(A) operated by the armed forces or an intelligence agency of the United States Government; or
 
@@ -22,7 +22,7 @@ Qualified non-crewmember.—The term “qualified non-crewmember” means an ind
 
 &emsp;(4)
 
-Armed forces.—The term “armed forces” has the meaning given such term by section 101 of title 10.
+Armed forces.—The term "armed forces" has the meaning given such term by section 101 of title 10.
 
 (b)
 
@@ -64,11 +64,11 @@ Search and Rescue Purposes.—An aircraft described in section 40102(a)(41)(D) t
 
 <b>2012</b>—Subsec. (d). Pub. L. 112–141 added subsec. (d).
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–181, §1078(c)(1), substituted “section 40102(a)(41)” for “section 40102(a)(37)”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–181, §1078(c)(1), substituted "section 40102(a)(41)" for "section 40102(a)(37)".
 
-Subsec. (c)(1). Pub. L. 110–181, §1078(c)(2), substituted “section 40102(a)(41)(E)” for “section 40102(a)(37)(E)” in introductory provisions.
+Subsec. (c)(1). Pub. L. 110–181, §1078(c)(2), substituted "section 40102(a)(41)(E)" for "section 40102(a)(37)(E)" in introductory provisions.
 
-Subsec. (c)(1)(C). Pub. L. 110–181, §1078(b), inserted “or other commercial air service” after “transportation”.
+Subsec. (c)(1)(C). Pub. L. 110–181, §1078(b), inserted "or other commercial air service" after "transportation".
 
 #### Effective Date of 2012 Amendment
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Mar. 9, 1920, ch. 95, §11, 41 Stat. 528; Pub. L. 97–31, §12(25)(D), Aug. 6, 1981, 95 Stat. 155.
 
-The words “or in connection with” and “with respect to which such cause of action arises” are omitted as unnecessary.
+The words "or in connection with" and "with respect to which such cause of action arises" are omitted as unnecessary.
 

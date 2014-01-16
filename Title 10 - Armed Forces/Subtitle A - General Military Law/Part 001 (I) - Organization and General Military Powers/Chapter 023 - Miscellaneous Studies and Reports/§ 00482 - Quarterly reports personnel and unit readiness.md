@@ -2,7 +2,7 @@
 
 (a)
 
-Quarterly Reports Required.—Not later than 45 days after the end of each calendar-year quarter, the Secretary of Defense shall submit to Congress a report regarding military readiness. The report for a quarter shall contain the information required by subsections (b), (d), (e), and (f).
+Quarterly Reports Required.—Not later than 45 days after the end of each calendar-year quarter, the Secretary of Defense shall submit to Congress a report regarding military readiness. Each report shall contain the information required by subsections (b), (d), (f), (g), (h), (i), (j), and (k), and the reports for the second and fourth quarters of a calendar year shall also contain the information required by subsection (e).
 
 (b)
 
@@ -36,9 +36,9 @@ Comprehensive Readiness Indicators for Active Components.—Each report shall al
 
 Personnel strength.—
 
-&emsp;&emsp;(A) Personnel status, including the extent to which members of the armed forces are serving in positions outside of their military occupational specialty, serving in grades other than the grades for which they are qualified, or both.
+&emsp;&emsp;(A) Personnel status, including an assessment of the manning of units (authorized versus assigned numbers of personnel) for units not scheduled for deployment and the timing of the arrival of personnel into units preparing for deployments.
 
-&emsp;&emsp;(B) Historical data and projected trends in personnel strength and status.
+&emsp;&emsp;(B) Historical data and projected trends in unit personnel strength and status.
 
 &emsp;(2)
 
@@ -46,19 +46,13 @@ Personnel turbulence.—
 
 &emsp;&emsp;(A) Recruit quality.
 
-&emsp;&emsp;(B) Borrowed manpower.
+&emsp;&emsp;(B) Personnel assigned to a unit but not trained for the level of assigned responsibility or mission.
 
-&emsp;&emsp;(C) Personnel stability.
+&emsp;&emsp;(C) Fitness for deployment.
+
+&emsp;&emsp;(D) Recruiting and retention status.
 
 &emsp;(3)
-
-Other personnel matters.—
-
-&emsp;&emsp;(A) Personnel morale.
-
-&emsp;&emsp;(B) Recruiting status.
-
-&emsp;(4)
 
 Training.—
 
@@ -68,9 +62,13 @@ Training.—
 
 &emsp;&emsp;(C) Training funding.
 
-&emsp;&emsp;(D) Training commitments and deployments.
+&emsp;&emsp;(D) Mission rehearsals and deployments.
 
-&emsp;(5)
+(e)
+
+Logistics Indicators.—The reports for the second and fourth quarters of a calendar year shall also include information regarding the active components of the armed forces (and an evaluation of such information) with respect to each of the following logistics indicators:
+
+&emsp;(1)
 
 Logistics—equipment fill.—
 
@@ -82,15 +80,15 @@ Logistics—equipment fill.—
 
 &emsp;&emsp;(D) Age of equipment.
 
-&emsp;&emsp;(E) Condition of nonpacing items.
-
-&emsp;(6)
+&emsp;(2)
 
 Logistics—equipment maintenance.—
 
-&emsp;&emsp;(A) Maintenance backlog.
+&emsp;&emsp;(A) Depot maintenance backlog.
 
-&emsp;(7)
+&emsp;&emsp;(B) Equipment not available due to a lack of supplies or parts.
+
+&emsp;(3)
 
 Logistics—supply.—
 
@@ -98,7 +96,7 @@ Logistics—supply.—
 
 &emsp;&emsp;(B) Status of prepositioned equipment.
 
-(e)
+(f)
 
 Unit Readiness Indicators.—Each report shall also include information regarding the readiness of each active component unit of the armed forces at the battalion, squadron, or an equivalent level (or a higher level) that received a readiness rating of C–3 (or below) for any month of the calendar-year quarter covered by the report. With respect to each such unit, the report shall separately provide the following information:
 
@@ -110,33 +108,135 @@ Unit Readiness Indicators.—Each report shall also include information regardin
 
 &emsp;(4) The reasons why the unit received a readiness rating of C–3 (or below).
 
-(f)
+(g)
 
-Readiness of National Guard to Perform Civil Support Missions.—(1) Each report shall also include an assessment of the readiness of the National Guard to perform tasks required to support the National Response Plan for support to civil authorities.
+Readiness of National Guard to Perform Civil Support Missions.—(1) Each report shall also include an assessment of the readiness of the National Guard to perform tasks required tosupport the National Response Plan for support to civil authorities.
 
 (2) Any information in an assessment under this subsection that is relevant to the National Guard of a particular State shall also be made available to the Governor of that State.
 
 (3) The Secretary shall ensure that each State Governor has an opportunity to provide to the Secretary an independent evaluation of that State's National Guard, which the Secretary shall include with each assessment submitted under this subsection.
 
-(g)
+(h)
+
+Combatant Command Assigned Mission Assessments.—(1) Each report shall also include an assessment by each commander of a geographic or functional combatant command of the ability of the command to successfully execute each of the assigned missions of the command. Each such assessment for a combatant command shall also include a list of the mission essential tasks for each assigned mission of the command and an assessment of the ability of the command to successfully complete each task within prescribed timeframes.
+
+(2) For purposes of this subsection, the term "assigned mission" means any contingency response program plan, theater campaign plan, or named operation that is approved and assigned by the Joint Chiefs of Staff.
+
+(i)
+
+Risk Assessment of Dependence on Contractor Support.—Each report shall also include an assessment by the Chairman of the Joint Chiefs of Staff of the level of risk incurred by using contract support in contingency operations as required under Department of Defense Instruction 1100.22, "Policies and Procedures for Determining Workforce Mix".
+
+(j)
+
+Combat Support Agencies Assessment.—(1) Each report shall also include an assessment by the Secretary of Defense of the military readiness of the combat support agencies, including, for each such agency—
+
+&emsp;(A) a determination with respect to the responsiveness and readiness of the agency to support operating forces in the event of a war or threat to national security, including—
+
+&emsp;&emsp;(i) a list of mission essential tasks and an assessment of the ability of the agency to successfully perform those tasks;
+
+&emsp;&emsp;(ii) an assessment of how the ability of the agency to accomplish the tasks referred to in subparagraph (A) affects the ability of the military departments and the unified and geographic combatant commands to execute operations and contingency plans by number;
+
+&emsp;&emsp;(iii) any readiness deficiencies and actions recommended to address such deficiencies; and
+
+&emsp;&emsp;(iv) key indicators and other relevant information related to any deficiency or other problem identified;
+
+&emsp;(B) any recommendations that the Secretary considers appropriate.
+
+(2) In this subsection, the term "combat support agency" means any of the following Defense Agencies:
+
+&emsp;(A) The Defense Information Systems Agency.
+
+&emsp;(B) The Defense Intelligence Agency.
+
+&emsp;(C) The Defense Logistics Agency.
+
+&emsp;(D) The National Geospatial-Intelligence Agency (but only with respect to combat support functions that the agencies perform for the Department of Defense).
+
+&emsp;(E) The Defense Contract Management Agency.
+
+&emsp;(F) The Defense Threat Reduction Agency.
+
+&emsp;(G) The National Reconnaissance Office.
+
+&emsp;(H) The National Security Agency (but only with respect to combat support functions that the agencies perform for the Department of Defense) and Central Security Service.
+
+&emsp;(I) Any other Defense Agency designated as a combat support agency by the Secretary of Defense.
+
+(k)
+
+Major Exercise Assessments.—(1) Each report shall also include an after-action assessment of each major exercise by the commander of the geographic or functional combatant command concerned or the chief of the military service concerned, as appropriate, that includes—
+
+&emsp;(A) a brief description of the exercise;
+
+&emsp;(B) planned training objectives for the exercise;
+
+&emsp;(C) a full summary of cost associated with the exercise, including in-kind and direct contributions to allies and partners; and
+
+&emsp;(D) an executive summary of the lessons learned and training objectives met by conducting the exercise.
+
+(2) In this subsection, the term "major exercise" means a named major training event, an integrated or joint exercise, or a unilateral major exercise.
+
+(l)
 
 Classification of Reports.—A report under this section shall be submitted in unclassified form. To the extent the Secretary of Defense determines necessary, the report may also be submitted in classified form.
 
-(Added Pub. L. 104–106, div. A, title III, §361(a)(1), Feb. 10, 1996, 110 Stat. 272, §452; renumbered §482, Pub. L. 104–201, div. A, title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2687; amended Pub. L. 105–85, div. A, title III, §322(a)(1), Nov. 18, 1997, 111 Stat. 1673; Pub. L. 106–65, div. A, title III, §361(d)(3), (e), Oct. 5, 1999, 113 Stat. 575; Pub. L. 110–181, div. A, title III, §351(b), Jan. 28, 2008, 122 Stat. 70.)
+(Added Pub. L. 104–106, div. A, title III, §361(a)(1), Feb. 10, 1996, 110 Stat. 272, §452; renumbered §482, Pub. L. 104–201, div. A, title XI, §1121(a), Sept. 23, 1996, 110 Stat. 2687; amended Pub. L. 105–85, div. A, title III, §322(a)(1), Nov. 18, 1997, 111 Stat. 1673; Pub. L. 106–65, div. A, title III, §361(d)(3), (e), Oct. 5, 1999, 113 Stat. 575; Pub. L. 110–181, div. A, title III, §351(b), Jan. 28, 2008, 122 Stat. 70; Pub. L. 113–66, div. A, title III, §331(a), Dec. 26, 2013, 127 Stat. 737.)
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181, §351(b)(1), substituted “(e), and (f)” for “and (e)”.
+<b>2013</b>—Subsec. (a). Pub. L. 113–66, §331(a)(1), substituted "Each report" for "The report for a quarter" and "(f), (g), (h), (i), (j), and (k), and the reports for the second and fourth quarters of a calendar year shall also contain the information required by subsection (e)" for "(e), and (f)".
+
+Subsec. (d)(1)(A). Pub. L. 113–66, §331(a)(2)(A)(i), substituted ", including an assessment of the manning of units (authorized versus assigned numbers of personnel) for units not scheduled for deployment and the timing of the arrival of personnel into units preparing for deployments." for ", including the extent to which members of the armed forces are serving in positions outside of their military occupational specialty, serving in grades other than the grades for which they are qualified, or both."
+
+Subsec. (d)(1)(B). Pub. L. 113–66, §331(a)(2)(A)(ii), inserted "unit" before "personnel strength".
+
+Subsec. (d)(2). Pub. L. 113–66, §331(a)(2)(B), amended par. (2) generally. Prior to amendment, text read as follows:
+
+"(A) Recruit quality.
+
+"(B) Borrowed manpower.
+
+"(C) Personnel stability."
+
+Subsec. (d)(3), (4). Pub. L. 113–66, §331(a)(2)(C), (D), redesignated par. (4) as (3), substituted "Mission rehearsals" for "Training commitments" in subpar. (D), and struck out former par. (3). Prior to amendment, text of par. (3) read as follows:
+
+"(A) Personnel morale.
+
+"(B) Recruiting status."
+
+Subsec. (d)(5) to (7). Pub. L. 113–66, §331(a)(5)(A), redesignated pars. (5) to (7) of subsec. (d) as pars. (1) to (3), respectively, of subsec. (e).
+
+Subsec. (e). Pub. L. 113–66, §331(a)(4), added subsec. (e). Former subsec. (e) redesignated (f).
+
+Subsec. (e)(1). Pub. L. 113–66, §331(a)(5)(A), redesignated par. (5) of subsec. (d) as par. (1) of subsec. (e).
+
+Subsec. (e)(1)(E). Pub. L. 113–66, §331(a)(5)(B), struck out subpar. (E) which read as follows: "Condition of nonpacing items."
+
+Subsec. (e)(2). Pub. L. 113–66, §331(a)(5)(A), redesignated par. (6) of subsec. (d) as par. (2) of subsec. (e).
+
+Subsec. (e)(2)(A). Pub. L. 113–66, §331(a)(5)(C)(i), substituted "Depot maintenance" for "Maintenance".
+
+Subsec. (e)(2)(B). Pub. L. 113–66, §331(a)(5)(C)(ii), added subpar. (B).
+
+Subsec. (e)(3). Pub. L. 113–66, §331(a)(5)(A), redesignated par. (7) of subsec. (d) as par. (3) of subsec. (e).
+
+Subsecs. (f), (g). Pub. L. 113–66, §331(a)(3), redesignated subsecs. (e) and (f) as (f) and (g), respectively. Former subsec. (g) redesignated (l).
+
+Subsecs. (h) to (k). Pub. L. 113–66, §331(a)(6), added subsecs. (h) to (k).
+
+Subsec. (l). Pub. L. 113–66, §331(a)(3), redesignated subsec. (g) as (l).
+
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §351(b)(1), substituted "(e), and (f)" for "and (e)".
 
 Subsecs. (f), (g). Pub. L. 110–181, §351(b)(2), (3), added subsec. (f) and redesignated former subsec. (f) as (g).
 
 <b>1999</b>—Pub. L. 106–65, §361(d)(3), repealed Pub. L. 105–261, §373(d)(2). See 1998 Amendment note below.
 
-Subsec. (a). Pub. L. 106–65, §361(e), substituted “45 days” for “30 days”.
+Subsec. (a). Pub. L. 106–65, §361(e), substituted "45 days" for "30 days".
 
 <b>1998</b>—Pub. L. 105–261, §373(d)(2), which directed the repeal of this section effective June 1, 2001, was repealed by Pub. L. 106–65, §361(d)(3).
 
-<b>1997</b>—Pub. L. 105–85 substituted “Quarterly reports: personnel and unit readiness” for “Quarterly readiness reports” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (c) relating to requirement for submission of quarterly readiness reports, matters to be included in reports, and form of reports.
+<b>1997</b>—Pub. L. 105–85 substituted "Quarterly reports: personnel and unit readiness" for "Quarterly readiness reports" in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (c) relating to requirement for submission of quarterly readiness reports, matters to be included in reports, and form of reports.
 
 <b>1996</b>—Pub. L. 104–201 renumbered section 452 of this title as this section.
 
@@ -146,11 +246,11 @@ Pub. L. 105–261, div. A, title III, §373(d)(2), Oct. 17, 1998, 112 Stat. 1992
 
 #### Effective Date
 
-Pub. L. 104–106, div. A, title III, §361(b), Feb. 10, 1996, 110 Stat. 273, provided that: “Section 452 \[now 482\] of title 10, United States Code, as added by subsection (a), shall take effect with the calendar-year quarter during which this Act is enacted \[enacted Feb. 10, 1996\].”
+Pub. L. 104–106, div. A, title III, §361(b), Feb. 10, 1996, 110 Stat. 273, provided that: "Section 452 \[now 482\] of title 10, United States Code, as added by subsection (a), shall take effect with the calendar-year quarter during which this Act is enacted \[enacted Feb. 10, 1996\]."
 
 #### Quarterly Reports on Personnel and Unit Readiness
 
-Pub. L. 110–181, div. A, title III, §351(c)(2), Jan. 28, 2008, 122 Stat. 71, provided that: “The amendment made by subsection (b) \[amending this section\] shall apply with respect to the quarterly report required under section 482 of title 10, United States Code, for the second quarter of fiscal year 2009 and each subsequent report required under that section.”
+Pub. L. 110–181, div. A, title III, §351(c)(2), Jan. 28, 2008, 122 Stat. 71, provided that: "The amendment made by subsection (b) \[amending this section\] shall apply with respect to the quarterly report required under section 482 of title 10, United States Code, for the second quarter of fiscal year 2009 and each subsequent report required under that section."
 
 #### Quarterly Readiness Report Requirement
 

@@ -18,7 +18,7 @@
 
 &emsp;(D) changes in trade agreements (including the incorporation therein of actions taken for import relief and compensation provided therefor);
 
-&emsp;(E) the extension or withdrawal of nondiscriminatory treatment by the UnitedStates with respect to the products of foreign countries;
+&emsp;(E) the extension or withdrawal of nondiscriminatory treatment by the United States with respect to the products of foreign countries;
 
 &emsp;(F) the extension, modification, withdrawal, suspension, or limitation of preferential treatment to exports of developing countries;
 
@@ -46,7 +46,7 @@
 
 (C) Before submitting the national trade policy agenda for any year, the President shall seek advice from the appropriate advisory committees established under section 2155 of this title and shall consult with the appropriate committees of the Congress.
 
-(D) The United States Trade Representative (hereafter referred to in this section as the “Trade Representative”) and other appropriate officials of the United States Government shall consult periodically with the appropriate committees of the Congress regarding the annual objectives and priorities set forth in each national trade policy agenda with respect to—
+(D) The United States Trade Representative (hereafter referred to in this section as the "Trade Representative") and other appropriate officials of the United States Government shall consult periodically with the appropriate committees of the Congress regarding the annual objectives and priorities set forth in each national trade policy agenda with respect to—
 
 &emsp;(i) the status and results of the actions that have been undertaken to achieve the objectives and priorities; and
 
@@ -54,7 +54,7 @@
 
 #### (b) Annual trade projection report
 
-(1) In order for the Congress to be informed of the impact of foreign trade barriers and macroeconomic factors on the balance of trade of the United States, the Trade Representative and the Secretary of the Treasury shall jointly prepare and submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter referred to in this subsection as the “Committees”) on or before March 1 of each year a report which consists of—
+(1) In order for the Congress to be informed of the impact of foreign trade barriers and macroeconomic factors on the balance of trade of the United States, the Trade Representative and the Secretary of the Treasury shall jointly prepare and submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter referred to in this subsection as the "Committees") on or before March 1 of each year a report which consists of—
 
 &emsp;(A) a review and analysis of—
 
@@ -96,11 +96,259 @@ The United States International Trade Commission shall submit to the Congress, a
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1)(A) and (b), was in the original “this Act”, meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1)(A) and (b), was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 #### Amendments
 
 <b>1988</b>—Pub. L. 100–418 amended section generally, completely revising and expanding provisions covering reports, changing the structure of the section from one consisting of subsecs. (a) and (b) to one consisting of subsecs. (a) to (c).
+
+#### Trade Deficit Review Commission
+
+Pub. L. 105–277, div. A, §127, Oct. 21, 1998, 112 Stat. 2681–547, as amended by Pub. L. 106–57, title III, §311, Sept. 29, 1999, 113 Stat. 427; Pub. L. 106–246, div. B, title II, §2501, July 13, 2000, 114 Stat. 556; Pub. L. 107–107, div. A, title X, §1048(i)(10), Dec. 28, 2001, 115 Stat. 1229, provided that:
+
+"(a)
+
+Short Title.—This section may be cited as the 'Trade Deficit Review Commission Act'.
+
+"(b)
+
+Findings.—Congress makes the following findings:
+
+&emsp;"(1) The United States continues to run substantial merchandise trade and current account deficits.
+
+&emsp;"(2) Economic forecasts anticipate continued growth in such deficits in the next few years.
+
+&emsp;"(3) The positive net international asset position that the United States built up over many years was eliminated in the 1980s. The United States today has become the world's largest debtor nation.
+
+&emsp;"(4) The United States merchandise trade deficit is characterized by large bilateral trade imbalances with a handful of countries.
+
+&emsp;"(5) The United States has one of the most open borders and economies in the world. The United States faces significant tariff and nontariff trade barriers with its trading partners. The United States does not benefit from fully reciprocal market access.
+
+&emsp;"(6) The United States is once again at a critical juncture in trade policy development. The nature of the United States trade deficit and its causes and consequences must be analyzed and documented.
+
+"(c)
+
+Establishment of Commission.—
+
+&emsp;"(1)
+
+Establishment.—There is established a commission to be known as the Trade Deficit Review Commission (hereafter in this section referred to as the 'Commission').
+
+&emsp;"(2)
+
+Purpose.—The purpose of the Commission is to study the nature, causes, and consequences of the United States merchandise trade and current account deficits.
+
+&emsp;"(3)
+
+Membership of commission.—
+
+&emsp;&emsp;"(A)
+
+Composition.—The Commission shall be composed of 12 members as follows:
+
+&emsp;&emsp;&emsp;"(i) Three persons shall be appointed by the President pro tempore of the Senate upon the recommendation of the Majority Leader of the Senate, after consultation with the Chairman of the Committee on Finance.
+
+&emsp;&emsp;&emsp;"(ii) Three persons shall be appointed by the President pro tempore of the Senate upon the recommendation of the Minority Leader of the Senate, after consultation with the ranking minority member of the Committee on Finance.
+
+&emsp;&emsp;&emsp;"(iii) Three persons shall be appointed by the Speaker of the House of Representatives, after consultation with the Chairman of the Committee on Ways and Means.
+
+&emsp;&emsp;&emsp;"(iv) Three persons shall be appointed by the Minority Leader of the House of Representatives, after consultation with the ranking minority member of the Committee on Ways and Mean.
+
+&emsp;&emsp;"(B)
+
+Qualifications of members.—
+
+&emsp;&emsp;&emsp;"(i)
+
+Appointments.—Persons who are appointed under subparagraph (A) shall be persons who—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) have expertise in economics, international trade, manufacturing, labor, environment, business, or have other pertinent qualifications or experience; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) are not officers or employees of the United States.
+
+&emsp;&emsp;&emsp;"(ii)
+
+Other considerations.—In appointing Commission members, every effort shall be made to ensure that the members—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) are representative of a broad cross-section of economic and trade perspectives within the United States; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) provide fresh insights to analyzing the causes and consequences of United States merchandise trade and current account deficits.
+
+&emsp;"(4)
+
+Period of appointment; vacancies.—
+
+&emsp;&emsp;"(A)
+
+In general.—Members shall be appointed not later than 60 days after the date of enactment of this Act \[Oct. 21, 1998\] and the appointment shall be for the life of the Commission.
+
+&emsp;&emsp;"(B)
+
+Vacancies.—Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
+
+&emsp;"(5)
+
+Initial meeting.—Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold its first meeting.
+
+&emsp;"(6)
+
+Meetings.—The Commission shall meet at the call of the Chairperson.
+
+&emsp;"(7)
+
+Chairperson and vice chairperson.—The members of the Commission shall elect a chairperson and vice chairperson from among the members of the Commission.
+
+&emsp;"(8)
+
+Quorum.—A majority of the members of the Commission shall constitute a quorum for the transaction of business.
+
+&emsp;"(9)
+
+Voting.—Each member of the Commission shall be entitled to 1 vote, which shall be equal to the vote of every other member of the Commission.
+
+"(d)
+
+Duties of the Commission.—
+
+&emsp;"(1)
+
+In general.—The Commission shall be responsible for examining the nature, causes, and consequences of, and the accuracy of available data on, the United States merchandise trade and current account deficits.
+
+&emsp;"(2)
+
+Issues to be addressed.—The Commission shall examine and report to the President, the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and other appropriate committees of Congress on the following:
+
+&emsp;&emsp;"(A) The relationship of the merchandise trade and current account balances to the overall well-being of the United States economy, and to wages and employment in various sectors of the United States economy.
+
+&emsp;&emsp;"(B) The impact that United States monetary and fiscal policies may have on United States merchandise trade and current account deficits.
+
+&emsp;&emsp;"(C) The extent to which the coordination, allocation, and accountability of trade responsibilitiesamong Federal agencies may contribute to the trade and current account deficits.
+
+&emsp;&emsp;"(D) The causes and consequences of the merchandise trade and current account deficits and specific bilateral trade deficits, including—
+
+&emsp;&emsp;&emsp;"(i) identification and quantification of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) the macroeconomic factors and bilateral trade barriers that may contribute to the United States merchandise trade and current account deficits;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) any impact of the merchandise trade and current account deficits on the domestic economy, industrial base, manufacturing capacity, technology, number and quality of jobs, productivity, wages, and the United States standard of living;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) any impact of the merchandise trade and current account deficits on the defense production and innovation capabilities of the United States; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(IV) trade deficits within individual industrial, manufacturing, and production sectors, and any relationship between such deficits and the increasing volume of intra-industry and intra-company transactions;
+
+&emsp;&emsp;&emsp;"(ii) a review of the adequacy and accuracy of the current collection and reporting of import and export data, and the identification and development of additional data bases and economic measurements that may be needed to properly quantify the merchandise trade and current account balances, and any impact the merchandise trade and current account balances may have on the United States economy; and
+
+&emsp;&emsp;&emsp;"(iii) the extent to which there is reciprocal market access substantially equivalent to that afforded by the United States in each country with which the United States has a persistent and substantial bilateral trade deficit, and the extent to which such deficits have become structural.
+
+&emsp;&emsp;"(E) Any relationship of United States merchandise trade and current account deficits to both comparative and competitive trade advantages within the global economy, including—
+
+&emsp;&emsp;&emsp;"(i) a systematic analysis of the United States trade patterns with different trading partners and to what extent the trade patterns are based on comparative and competitive trade advantages;
+
+&emsp;&emsp;&emsp;"(ii) the extent to which the increased mobility of capital and technology has changed both comparative and competitive trade advantages;
+
+&emsp;&emsp;&emsp;"(iii) any impact that labor, environmental, or health and safety standards may have on comparative and competitive trade advantages;
+
+&emsp;&emsp;&emsp;"(iv) the effect that offset and technology transfer agreements have on the long-term competitiveness of the United States manufacturing sectors; and
+
+&emsp;&emsp;&emsp;"(v) any effect that international trade, labor, environmental, or other agreements may have on United States competitiveness.
+
+&emsp;&emsp;"(F) The extent to which differences in the growth rates of the United States and its trading partners may impact on United States merchandise trade and current account deficits.
+
+&emsp;&emsp;"(G) The impact that currency exchange rate fluctuations and any manipulation of exchange rates may have on United States merchandise trade and current account deficits.
+
+&emsp;&emsp;"(H) The flow of investments both into and out of the United States, including—
+
+&emsp;&emsp;&emsp;"(i) any consequences for the United States economy of the current status of the United States as a debtor nation;
+
+&emsp;&emsp;&emsp;"(ii) any relationship between such investment flows and the United States merchandise trade and current account deficits and living standards of United States workers;
+
+&emsp;&emsp;&emsp;"(iii) any impact such investment flows may have on United States labor, community, environmental, and health and safety standards, and how such investment flows influence the location of manufacturing facilities; and
+
+&emsp;&emsp;&emsp;"(iv) the effect of barriers to United States foreign direct investment in developed and developing nations, particularly nations with which the United States has a merchandise trade and current account deficit.
+
+"(e)
+
+Final Report.—
+
+&emsp;"(1)
+
+In general.—Not later than 15 months after the date of the initial meeting of the Commission, the Commission shall submit to the President and Congress a final report which contains—
+
+&emsp;&emsp;"(A) the findings and conclusions of the Commission described in subsection (d); and
+
+&emsp;&emsp;"(B) recommendations for addressing the problems identified as part of the Commission's analysis.
+
+&emsp;"(2)
+
+Separate views.—Any member of the Commission may submit additional findings and recommendations as part of the final report.
+
+"(f)
+
+Powers of Commission.—
+
+&emsp;"(1)
+
+Hearings.—The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission may find advisable to fulfill the requirements of this section. The Commission shall hold at least 1 or more hearings in Washington, D.C., and 4 in different regions of the United States.
+
+&emsp;"(2)
+
+Information from federal agencies.—The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this section. Upon request of the Chairperson of the Commission, the head of such department or agency shall furnish such information to the Commission.
+
+&emsp;"(3)
+
+Postal services.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
+
+"(g)
+
+Commission Personnel Matters.—
+
+&emsp;"(1)
+
+Compensation of members.—Each member of the Commission shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which such member is engaged in the performance of the duties of the Commission.
+
+&emsp;"(2)
+
+Travel expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
+
+&emsp;"(3)
+
+Staff.—
+
+&emsp;&emsp;"(A)
+
+In general.—The Chairperson of the Commission may, without regard to the civil service laws and regulations, appoint and terminate an executive director and such other additional personnel as may be necessary to enable the Commission to perform its duties. The employment of an executive director shall be subject to confirmation by the Commission.
+
+&emsp;&emsp;"(B)
+
+Compensation.—The Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+
+&emsp;"(4)
+
+Detail of government employees.—Any Federal Government employee may be detailed to the Commission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
+
+&emsp;"(5)
+
+Procurement of temporary and intermittent services.—The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
+
+&emsp;"(6)
+
+Applicability of certain pay authorities.—An individual who is a member of the Commission and is an annuitant or otherwise covered by section 8344 or 8468 of title 5, United States Code, by reason of membership on the Commission is not subject to the provisions of section 8344 or 8468 (whichever is applicable) with respect to such membership.
+
+"(h)
+
+Support Services.—The Administrator of the General Services Administration shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request.
+
+"(i)
+
+Appropriations.—There are appropriated $2,000,000 to the Commission to carry out the provisions of this section. Amounts appropriated pursuant to this subsection shall remain available until the date which is 90 days after the date on which the Commission submits the final report described in subsection (e).
+
+"(j)
+
+Federal Advisory Committee Act.—The provisions of the Federal Advisory Committee Act (Public Law 92–463; 5 U.S.C. App.) shall not apply to the Commission.
+
+"(k)
+
+Termination.—The Commission shall terminate 90 days after the date on which the Commission submits the final report under subsection (e)."
 
 #### Delegation of Functions
 
@@ -113,252 +361,4 @@ By the authority vested in me as President by the Constitution and the laws of t
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Trade Deficit Review Commission
-
-Pub. L. 105–277, div. A, §127, Oct. 21, 1998, 112 Stat. 2681–547, as amended by Pub. L. 106–57, title III, §311, Sept. 29, 1999, 113 Stat. 427; Pub. L. 106–246, div. B, title II, §2501, July 13, 2000, 114 Stat. 556; Pub. L. 107–107, div. A, title X, §1048(i)(10), Dec. 28, 2001, 115 Stat. 1229, provided that:
-
-“(a)
-
-Short Title.—This section may be cited as the ‘Trade Deficit Review Commission Act’.
-
-“(b)
-
-Findings.—Congress makes the following findings:
-
-&emsp;“(1) The United States continues to run substantial merchandise trade and current account deficits.
-
-&emsp;“(2) Economic forecasts anticipate continued growth in such deficits in the next few years.
-
-&emsp;“(3) The positive net international asset position that the United States built up over many years was eliminated in the 1980s. The United States today has become the world's largest debtor nation.
-
-&emsp;“(4) The United States merchandise trade deficit is characterized by large bilateral trade imbalances with a handful of countries.
-
-&emsp;“(5) The United States has one of the most open borders and economies in the world. The United States faces significant tariff and nontariff trade barriers with its trading partners. The United States does not benefit from fully reciprocal market access.
-
-&emsp;“(6) The United States is once again at a critical juncture in trade policy development. The nature of the United States trade deficit and its causes and consequences must be analyzed and documented.
-
-“(c)
-
-Establishment of Commission.—
-
-&emsp;“(1)
-
-Establishment.—There is established a commission to be known as the Trade Deficit Review Commission (hereafter in this section referred to as the ‘Commission’).
-
-&emsp;“(2)
-
-Purpose.—The purpose of the Commission is to study the nature, causes, and consequences of the United States merchandise trade and current account deficits.
-
-&emsp;“(3)
-
-Membership of commission.—
-
-&emsp;&emsp;“(A)
-
-Composition.—The Commission shall be composed of 12 members as follows:
-
-&emsp;&emsp;&emsp;“(i) Three persons shall be appointed by the President pro tempore of the Senate upon the recommendation of the Majority Leader of the Senate, after consultation with the Chairman of the Committee on Finance.
-
-&emsp;&emsp;&emsp;“(ii) Three persons shall be appointed by the President pro tempore of the Senate upon the recommendation of the Minority Leader of the Senate, after consultation with the ranking minority member of the Committee on Finance.
-
-&emsp;&emsp;&emsp;“(iii) Three persons shall be appointed by the Speaker of the House of Representatives, after consultation with the Chairman of the Committee on Ways and Means.
-
-&emsp;&emsp;&emsp;“(iv) Three persons shall be appointed by the Minority Leader of the House of Representatives, after consultation with the ranking minority member of the Committee on Ways and Mean.
-
-&emsp;&emsp;“(B)
-
-Qualifications of members.—
-
-&emsp;&emsp;&emsp;“(i)
-
-Appointments.—Persons who are appointed under subparagraph (A) shall be persons who—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) have expertise in economics, international trade, manufacturing, labor, environment, business, or have other pertinent qualifications or experience; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) are not officers or employees of the United States.
-
-&emsp;&emsp;&emsp;“(ii)
-
-Other considerations.—In appointing Commission members, every effort shall be made to ensure that the members—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) are representative of a broad cross-section of economic and trade perspectives within the United States; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) provide fresh insights to analyzing the causes and consequences of United States merchandise trade and current account deficits.
-
-&emsp;“(4)
-
-Period of appointment; vacancies.—
-
-&emsp;&emsp;“(A)
-
-In general.—Members shall be appointed not later than 60 days after the date of enactment of this Act \[Oct. 21, 1998\] and the appointment shall be for the life of the Commission.
-
-&emsp;&emsp;“(B)
-
-Vacancies.—Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner as the original appointment.
-
-&emsp;“(5)
-
-Initial meeting.—Not later than 30 days after the date on which all members of the Commission have been appointed, the Commission shall hold its first meeting.
-
-&emsp;“(6)
-
-Meetings.—The Commission shall meet at the call of the Chairperson.
-
-&emsp;“(7)
-
-Chairperson and vice chairperson.—The members of the Commission shall elect a chairperson and vice chairperson from among the members of the Commission.
-
-&emsp;“(8)
-
-Quorum.—A majority of the members of the Commission shall constitute a quorum for the transaction of business.
-
-&emsp;“(9)
-
-Voting.—Each member of the Commission shall be entitled to 1 vote, which shall be equal to the vote of every other member of the Commission.
-
-“(d)
-
-Duties of the Commission.—
-
-&emsp;“(1)
-
-In general.—The Commission shall be responsible for examining the nature, causes, and consequences of, and the accuracy of available data on, the United States merchandise trade and current account deficits.
-
-&emsp;“(2)
-
-Issues to be addressed.—The Commission shall examine and report to the President, the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and other appropriate committees of Congress on the following:
-
-&emsp;&emsp;“(A) The relationship of the merchandise trade and current account balances to the overall well-being of the United States economy, and to wages and employment in various sectors of the United States economy.
-
-&emsp;&emsp;“(B) The impact that United States monetary and fiscal policies may have on United States merchandise trade and current account deficits.
-
-&emsp;&emsp;“(C) The extent to which the coordination, allocation, and accountability of trade responsibilities among Federal agencies may contribute to the trade and current account deficits.
-
-&emsp;&emsp;“(D) The causes and consequences of the merchandise trade and current account deficits and specific bilateral trade deficits, including—
-
-&emsp;&emsp;&emsp;“(i) identification and quantification of—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the macroeconomic factors and bilateral trade barriers that may contribute to the United States merchandise trade and current account deficits;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) any impact of the merchandise trade and current account deficits on the domestic economy, industrial base, manufacturing capacity, technology, number and quality of jobs, productivity, wages, and the United States standard of living;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) any impact of the merchandise trade and current account deficits on the defense production and innovation capabilities of the United States; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) trade deficits within individual industrial, manufacturing, and production sectors, and any relationship between such deficits and the increasing volume of intra-industry and intra-company transactions;
-
-&emsp;&emsp;&emsp;“(ii) a review of the adequacy and accuracy of the current collection and reporting of import and export data, and the identification and development of additional data bases and economic measurements that may be needed to properly quantify the merchandise trade and current account balances, and any impact the merchandise trade and current account balances may have on the United States economy; and
-
-&emsp;&emsp;&emsp;“(iii) the extent to which there is reciprocal market access substantially equivalent to that afforded by the United States in each country with which the United States has a persistent and substantial bilateral trade deficit, and the extent to which such deficits have become structural.
-
-&emsp;&emsp;“(E) Any relationship of United States merchandise trade and current account deficits to both comparative and competitive trade advantages within the global economy, including—
-
-&emsp;&emsp;&emsp;“(i) a systematic analysis of the United States trade patterns with different trading partners and to what extent the trade patterns are based on comparative and competitive trade advantages;
-
-&emsp;&emsp;&emsp;“(ii) the extent to which the increased mobility of capital and technology has changed both comparative and competitive trade advantages;
-
-&emsp;&emsp;&emsp;“(iii) any impact that labor, environmental, or health and safety standards may have on comparative and competitive trade advantages;
-
-&emsp;&emsp;&emsp;“(iv) the effect that offset and technology transfer agreements have on the long-term competitiveness of the United States manufacturing sectors; and
-
-&emsp;&emsp;&emsp;“(v) any effect that international trade, labor, environmental, or other agreements may have on United States competitiveness.
-
-&emsp;&emsp;“(F) The extent to which differences in the growth rates of the United States and its trading partners may impact on United States merchandise trade and current account deficits.
-
-&emsp;&emsp;“(G) The impact that currency exchange rate fluctuations and any manipulation of exchange rates may have on United States merchandise trade and current account deficits.
-
-&emsp;&emsp;“(H) The flow of investments both into and out of the United States, including—
-
-&emsp;&emsp;&emsp;“(i) any consequences for the United States economy of the current status of the United States as a debtor nation;
-
-&emsp;&emsp;&emsp;“(ii) any relationship between such investment flows and the United States merchandise trade and current account deficits and living standards of United States workers;
-
-&emsp;&emsp;&emsp;“(iii) any impact such investment flows may have on United States labor, community, environmental, and health and safety standards, and how such investment flows influence the location of manufacturing facilities; and
-
-&emsp;&emsp;&emsp;“(iv) the effect of barriers to United States foreign direct investment in developed and developing nations, particularly nations with which the United States has a merchandise trade and current account deficit.
-
-“(e)
-
-Final Report.—
-
-&emsp;“(1)
-
-In general.—Not later than 15 months after the date of the initial meeting of the Commission, the Commission shall submit to the President and Congress a final report which contains—
-
-&emsp;&emsp;“(A) the findings and conclusions of the Commission described in subsection (d); and
-
-&emsp;&emsp;“(B) recommendations for addressing the problems identified as part of the Commission's analysis.
-
-&emsp;“(2)
-
-Separate views.—Any member of the Commission may submit additional findings and recommendations as part of the final report.
-
-“(f)
-
-Powers of Commission.—
-
-&emsp;“(1)
-
-Hearings.—The Commission may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Commission may find advisable to fulfill the requirements of this section. The Commission shall hold at least 1 or more hearings in Washington, D.C., and 4 in different regions of the United States.
-
-&emsp;“(2)
-
-Information from federal agencies.—The Commission may secure directly from any Federal department or agency such information as the Commission considers necessary to carry out the provisions of this section. Upon request of the Chairperson of the Commission, the head of such department or agency shall furnish such information to the Commission.
-
-&emsp;“(3)
-
-Postal services.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
-
-“(g)
-
-Commission Personnel Matters.—
-
-&emsp;“(1)
-
-Compensation of members.—Each member of the Commission shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which such member is engaged in the performance of the duties of the Commission.
-
-&emsp;“(2)
-
-Travel expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
-
-&emsp;“(3)
-
-Staff.—
-
-&emsp;&emsp;“(A)
-
-In general.—The Chairperson of the Commission may, without regard to the civil service laws and regulations, appoint and terminate an executive director and such other additional personnel as may be necessary to enable the Commission to perform its duties. The employment of an executive director shall be subject to confirmation by the Commission.
-
-&emsp;&emsp;“(B)
-
-Compensation.—The Chairperson of the Commission may fix the compensation of the executive director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the executive director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
-
-&emsp;“(4)
-
-Detail of government employees.—Any Federal Government employee may be detailed to theCommission without reimbursement, and such detail shall be without interruption or loss of civil service status or privilege.
-
-&emsp;“(5)
-
-Procurement of temporary and intermittent services.—The Chairperson of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of such title.
-
-&emsp;“(6)
-
-Applicability of certain pay authorities.—An individual who is a member of the Commission and is an annuitant or otherwise covered by section 8344 or 8468 of title 5, United States Code, by reason of membership on the Commission is not subject to the provisions of section 8344 or 8468 (whichever is applicable) with respect to such membership.
-
-“(h)
-
-Support Services.—The Administrator of the General Services Administration shall provide to the Commission on a reimbursable basis such administrative support services as the Commission may request.
-
-“(i)
-
-Appropriations.—There are appropriated $2,000,000 to the Commission to carry out the provisions of this section. Amounts appropriated pursuant to this subsection shall remain available until the date which is 90 days after the date on which the Commission submits the final report described in subsection (e).
-
-“(j)
-
-Federal Advisory Committee Act.—The provisions of the Federal Advisory Committee Act (Public Law 92–463; 5 U.S.C. App.) shall not apply to the Commission.
-
-“(k)
-
-Termination.—The Commission shall terminate 90 days after the date on which the Commission submits the final report under subsection (e).”
 

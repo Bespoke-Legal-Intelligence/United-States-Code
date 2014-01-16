@@ -42,7 +42,7 @@ Nov. 18, 1997, Pub. L. 105–85, title XV, §§1506, 1507, 1508(g) (related to d
 
 &nbsp;
 
-In subsections (a) and (b), the words “Except as provided in section 5808(g) of this title” and “and in conformity with the laws of the District of Columbia” are omitted as unnecessary.
+In subsections (a) and (b), the words "Except as provided in section 5808(g) of this title" and "and in conformity with the laws of the District of Columbia" are omitted as unnecessary.
 
-In subsection (c), the words “The requirements for serving as a director or officer” are substituted for “in determining the requirements for serving on the board of directors or as an officer of the association” for consistency in the revised title and to eliminate unnecessary words. The word “disability” is substituted for “handicap” for consistency in the revised title.
+In subsection (c), the words "The requirements for serving as a director or officer" are substituted for "in determining the requirements for serving on the board of directors or as an officer of the association" for consistency in the revised title and to eliminate unnecessary words. The word "disability" is substituted for "handicap" for consistency in the revised title.
 

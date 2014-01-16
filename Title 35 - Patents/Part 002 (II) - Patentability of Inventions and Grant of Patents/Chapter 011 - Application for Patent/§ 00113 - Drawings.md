@@ -14,7 +14,7 @@ The requirement for signature in the corresponding section of existing statute i
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner".
 
 <b>1975</b>—Pub. L. 94–131 substituted provisions respecting drawings requiring necessary-for-understanding drawings and submission of drawings within prescribed time period and limiting use of drawings submitted after filing date of application for prior provision requiring the applicant to furnish a drawing when the nature of the case admitted it.
 

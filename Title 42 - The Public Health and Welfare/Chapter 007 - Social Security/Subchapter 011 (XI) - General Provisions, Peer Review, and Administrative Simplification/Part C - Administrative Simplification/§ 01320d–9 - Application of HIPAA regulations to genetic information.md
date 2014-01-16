@@ -14,19 +14,19 @@ For purposes of this section:
 
 #### (1) Genetic information; genetic test; family member
 
-&emsp;The terms “genetic information”, “genetic test”, and “family member” have the meanings given such terms in section 300gg–91 of this title, as amended by the Genetic Information Nondiscrimination Act of 2007.<sup>1</sup>
+&emsp;The terms "genetic information", "genetic test", and "family member" have the meanings given such terms in section 300gg–91 of this title, as amended by the Genetic Information Nondiscrimination Act of 2007.<sup>1</sup>
 
 #### (2) Group health plan; health insurance coverage; medicare supplemental policy
 
-&emsp;The terms “group health plan” and “health insurance coverage” have the meanings given such terms under section 300gg–91 of this title, and the term “medicare supplemental policy” has the meaning given such term in section 1395ss(g) of this title.
+&emsp;The terms "group health plan" and "health insurance coverage" have the meanings given such terms under section 300gg–91 of this title, and the term "medicare supplemental policy" has the meaning given such term in section 1395ss(g) of this title.
 
 #### (3) HIPAA privacy regulation
 
-&emsp;The term “HIPAA privacy regulation” means the regulations promulgated by the Secretary under this part and section 264 of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).
+&emsp;The term "HIPAA privacy regulation" means the regulations promulgated by the Secretary under this part and section 264 of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note).
 
 #### (4) Underwriting purposes
 
-&emsp;The term “underwriting purposes” means, with respect to a group health plan, health insurance coverage, or a medicare supplemental policy—
+&emsp;The term "underwriting purposes" means, with respect to a group health plan, health insurance coverage, or a medicare supplemental policy—
 
 &emsp;&emsp;(A) rules for, or determination of, eligibility (including enrollment and continuedeligibility) for, or determination of, benefits under the plan, coverage, or policy;
 
@@ -54,11 +54,11 @@ Section 264 of the Health Insurance Portability and Accountability Act of 1996, 
 
 #### Effective Date
 
-Pub. L. 110–233, title I, §105(b)(2), May 21, 2008, 122 Stat. 905, provided that: “The amendment made by subsection (a) \[enacting this section\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[May 21, 2008\].”
+Pub. L. 110–233, title I, §105(b)(2), May 21, 2008, 122 Stat. 905, provided that: "The amendment made by subsection (a) \[enacting this section\] shall take effect on the date that is 1 year after the date of the enactment of this Act \[May 21, 2008\]."
 
 #### Regulations
 
-Pub. L. 110–233, title I, §105(b)(1), May 21, 2008, 122 Stat. 905, provided that: “Not later than 12 months after the date of the enactment of this Act \[May 21, 2008\], the Secretary of Health and Human Services shall issue final regulations to carry out the revision required by section 1180(a) of the Social Security Act \[42 U.S.C. 1320d–9(a)\], as added by subsection (a). The Secretary has the sole authority to promulgate such regulations, but shall promulgate such regulations in consultation with the Secretaries of Labor and the Treasury.”
+Pub. L. 110–233, title I, §105(b)(1), May 21, 2008, 122 Stat. 905, provided that: "Not later than 12 months after the date of the enactment of this Act \[May 21, 2008\], the Secretary of Health and Human Services shall issue final regulations to carry out the revision required by section 1180(a) of the Social Security Act \[42 U.S.C. 1320d–9(a)\], as added by subsection (a). The Secretary has the sole authority to promulgate such regulations, but shall promulgate such regulations in consultation with the Secretaries of Labor and the Treasury."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

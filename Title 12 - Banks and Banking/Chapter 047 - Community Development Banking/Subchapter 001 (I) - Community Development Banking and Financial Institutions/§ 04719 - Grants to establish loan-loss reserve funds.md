@@ -36,9 +36,9 @@ The purposes of this section are—
 
 For purposes of this section—
 
-&emsp;(1) the term “consumer reporting agency that compiles and maintains files on consumers on a nationwide basis” has the same meaning given such term in section 1681a(p) of title 15; and
+&emsp;(1) the term "consumer reporting agency that compiles and maintains files on consumers on a nationwide basis" has the same meaning given such term in section 1681a(p) of title 15; and
 
-&emsp;(2) the term “small dollar loan program” means a loan program wherein a community development financial institution or any partnership between or among such institutions offers loans to consumers that—
+&emsp;(2) the term "small dollar loan program" means a loan program wherein a community development financial institution or any partnership between or among such institutions offers loans to consumers that—
 
 &emsp;&emsp;(A) are made in amounts not exceeding $2,500;
 

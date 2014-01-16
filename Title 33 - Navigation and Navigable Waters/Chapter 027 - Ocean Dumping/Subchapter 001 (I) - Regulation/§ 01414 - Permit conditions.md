@@ -10,7 +10,7 @@ The Administrator or the Secretary, as the case may be, may prescribe such proce
 
 #### (c) General permits
 
-Consistent with the requirements of sections 1412 and 1413 of this title, but in lieu of a requirement for specific permits in such case, theAdministrator or the Secretary, as the case may be, may issue general permits for the transportation for dumping, or dumping, or both, of specified materials or classes of materials for which he may issue permits, which he determines will have a minimal adverse environmental impact.
+Consistent with the requirements of sections 1412 and 1413 of this title, but in lieu of a requirement for specific permits in such case, the Administrator or the Secretary, as the case may be, may issue general permits for the transportation for dumping, or dumping, or both, of specified materials or classes of materials for which he may issue permits, which he determines will have a minimal adverse environmental impact.
 
 #### (d) Review
 
@@ -22,7 +22,7 @@ The Administrator or the Secretary, as the case may be, shall require an applica
 
 #### (f) Public information
 
-Information received by the Administrator or the Secretary, as the case may be, as a part of any application or in connection with any permit granted under this subchapter shall be available to the public as a matter of public record, at every stage of the proceeding. The final determination of the Administrator or the Secretary, as the case may be, shall be likewise available.
+Information received by the Administrator or the Secretary, as the case may be, as a part of any application or in connection with any permit granted under this subchapter shall beavailable to the public as a matter of public record, at every stage of the proceeding. The final determination of the Administrator or the Secretary, as the case may be, shall be likewise available.
 
 #### (g) Display of issued permits
 
@@ -86,7 +86,7 @@ Notwithstanding any provision of this subchapter to the contrary, during the two
 
 &emsp;(2) the days on which either House is not in session because of an adjournment of more than three days to a day certain are excluded in the computation of the 90 day calendar period.
 
-(D) For the purposes of this subsection, the term “resolution” means a joint resolution, the resolving clause of which is as follows: “That the House of Representatives and the Senate approve and authorize the Administrator of the Environmental Protection Agency to grant a permit to \_\_\_\_\_\_\_\_\_\_ under the Marine Protection, Research, and Sanctuaries Act of 1972 to dispose of radioactive materials in the ocean as recommended by the Administrator to the Congress on \_\_\_\_\_\_\_\_\_\_, 19\_\_.”; the first blank space therein to be filled with the appropriate applicant to dispose of nuclear material and the second blank therein to be filled with the date on which the Administrator submits the recommendation to the House of Representatives and the Senate.
+(D) For the purposes of this subsection, the term "resolution" means a joint resolution, the resolving clause of which is as follows: "That the House of Representatives and the Senate approve and authorize the Administrator of the Environmental Protection Agency to grant a permit to \_\_\_\_\_\_\_\_\_\_ under the Marine Protection, Research, and Sanctuaries Act of 1972 to dispose of radioactive materials in the ocean as recommended by the Administrator to the Congress on \_\_\_\_\_\_\_\_\_\_, 19\_\_."; the first blank space therein to be filled with the appropriate applicant to dispose of nuclear material and the second blank therein to be filled with the date on which the Administrator submits the recommendation to the House of Representatives and the Senate.
 
 (Pub. L. 92–532, title I, §104, Oct. 23, 1972, 86 Stat. 1056; Pub. L. 97–424, title IV, §424(a), Jan. 6, 1983, 96 Stat. 2165; Pub. L. 100–17, title I, §133(c)(1), Apr. 2, 1987, 101 Stat. 172; Pub. L. 102–580, title V, §507, Oct. 31, 1992, 106 Stat. 4869.)
 
@@ -96,13 +96,13 @@ This Act and the Marine Protection, Research, and Sanctuaries Act of 1972, refer
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–580, §507(b), inserted at end “Permits issued under this subchapter shall be issued for a period of not to exceed 7 years.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–580, §507(b), inserted at end "Permits issued under this subchapter shall be issued for a period of not to exceed 7 years."
 
-Pub. L. 102–580, §507(a), amended cl. (4) generally. Prior to amendment, cl. (4) read as follows: “the length of time for which the permits are valid and their expiration date;”.
+Pub. L. 102–580, §507(a), amended cl. (4) generally. Prior to amendment, cl. (4) read as follows: "the length of time for which the permits are valid and their expiration date;".
 
-Subsec. (d). Pub. L. 102–580, §507(c), inserted “, based upon monitoring data from the dump site and surrounding area,” after “where he finds”.
+Subsec. (d). Pub. L. 102–580, §507(c), inserted ", based upon monitoring data from the dump site and surrounding area," after "where he finds".
 
-<b>1987</b>—Subsec. (i)(4)(D). Pub. L. 100–17 inserted “to \_\_\_\_\_\_\_\_\_\_” after “grant a permit”.
+<b>1987</b>—Subsec. (i)(4)(D). Pub. L. 100–17 inserted "to \_\_\_\_\_\_\_\_\_\_" after "grant a permit".
 
 <b>1983</b>—Subsecs. (h), (i). Pub. L. 97–424 added subsecs. (h) and (i).
 

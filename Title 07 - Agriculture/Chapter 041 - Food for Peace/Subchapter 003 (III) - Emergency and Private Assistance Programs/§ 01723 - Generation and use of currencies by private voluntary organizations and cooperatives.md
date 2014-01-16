@@ -22,49 +22,49 @@ Proceeds generated from any partial or full sale or barter of commodities by a p
 
 &emsp;(3) be invested, and any interest earned on such investment may be used, for the purposes for which the assistance was provided to that organization, without further appropriation by Congress.
 
-(July 10, 1954, ch. 469, title II, §203, 68 Stat. 458; May 28, 1956, ch. 327, title II, §208(c), 70 Stat. 201; Pub. L. 85–128, §1(3), Aug. 13, 1957, 71 Stat. 345; Pub. L. 86–341, title I, §3, Sept. 21, 1959, 73 Stat. 606; Pub. L. 86–472, ch. VI, §601(b), May 14, 1960, 74 Stat. 140; Pub. L. 87–128, title II, §202(1), Aug. 8, 1961, 75 Stat. 307; Pub. L. 88–638, §1(13), (14), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1535; Pub. L. 95–88, title II, §209, Aug. 3, 1977, 91 Stat. 548; Pub. L. 98–473, title III, §305, Oct. 12, 1984, 98 Stat. 2195; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3638; Pub. L. 104–127, title II, §208, Apr. 4, 1996, 110 Stat. 954; Pub. L. 107–171, title III, §3003, May 13, 2002, 116 Stat. 281; Pub. L. 110–246, title III, §3009, June 18, 2008, 122 Stat. 1824.)
+(July 10, 1954, ch. 469, title II, §203, 68 Stat. 458; May 28, 1956, ch. 327, title II, §208(c), 70 Stat. 201; Pub. L. 85–128, §1(3), Aug. 13, 1957, 71 Stat. 345; Pub. L. 86–341, title I, §3, Sept. 21, 1959, 73 Stat. 606; Pub. L. 86–472, ch. VI, §601(b), May 14, 1960, 74 Stat. 140; Pub. L. 87–128, title II, §202(1), Aug. 8, 1961, 75 Stat. 307; Pub. L. 88–638, §1(13), (14), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, §2(C),Nov. 11, 1966, 80 Stat. 1535; Pub. L. 95–88, title II, §209, Aug. 3, 1977, 91 Stat. 548; Pub. L. 98–473, title III, §305, Oct. 12, 1984, 98 Stat. 2195; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3638; Pub. L. 104–127, title II, §208, Apr. 4, 1996, 110 Stat. 954; Pub. L. 107–171, title III, §3003, May 13, 2002, 116 Stat. 281; Pub. L. 110–246, title III, §3009, June 18, 2008, 122 Stat. 1824.)
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–246 inserted “in” before “1 or more recipient countries”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–246 inserted "in" before "1 or more recipient countries".
 
-<b>2002</b>—Pub. L. 107–171, §3003(1), struck out “foreign” before “currencies” in section catchline.
+<b>2002</b>—Pub. L. 107–171, §3003(1), struck out "foreign" before "currencies" in section catchline.
 
-Subsec. (a). Pub. L. 107–171, §3003(2), substituted “1 or more recipient countries, or 1 or more countries” for “the recipient country, or in a country”.
+Subsec. (a). Pub. L. 107–171, §3003(2), substituted "1 or more recipient countries, or 1 or more countries" for "the recipient country, or in a country".
 
-Subsec. (b). Pub. L. 107–171, §3003(3), substituted “1 or more recipient countries, or in 1 or more countries” for “in recipient countries, or in countries” and struck out “foreign currency” before “proceeds”.
+Subsec. (b). Pub. L. 107–171, §3003(3), substituted "1 or more recipient countries, or in 1 or more countries" for "in recipient countries, or in countries" and struck out "foreign currency" before "proceeds".
 
-Subsec. (c). Pub. L. 107–171, §3003(4), struck out “foreign currency” before “proceeds” and substituted “1 or more recipient countries, or in 1 or more countries” for “the recipient country, or in a country”.
+Subsec. (c). Pub. L. 107–171, §3003(4), struck out "foreign currency" before "proceeds" and substituted "1 or more recipient countries, or in 1 or more countries" for "the recipient country, or in a country".
 
-Subsec. (d). Pub. L. 107–171, §3003(5)(A), substituted “Proceeds” for “Foreign currencies” in introductory provisions.
+Subsec. (d). Pub. L. 107–171, §3003(5)(A), substituted "Proceeds" for "Foreign currencies" in introductory provisions.
 
-Subsec. (d)(2). Pub. L. 107–171, §3003(5)(B), substituted “income-generating” for “income generating” and “1 or more recipient countries or within 1 or more countries” for “the recipient country or within a country”.
+Subsec. (d)(2). Pub. L. 107–171, §3003(5)(B), substituted "income-generating" for "income generating" and "1 or more recipient countries or within 1 or more countries" for "the recipient country or within a country".
 
-Subsec. (d)(3). Pub. L. 107–171, §3003(5)(C), inserted comma after “invested” and after “investment may be used”.
+Subsec. (d)(3). Pub. L. 107–171, §3003(5)(C), inserted comma after "invested" and after "investment may be used".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–127, §208(1), inserted “, or in a country in the same region,” after “in the recipient country”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §208(1), inserted ", or in a country in the same region," after "in the recipient country".
 
-Subsec. (b). Pub. L. 104–127, §208(2), inserted “or in countries in the same region,” after “in recipient countries,” and substituted “15 percent” for “10 percent”.
+Subsec. (b). Pub. L. 104–127, §208(2), inserted "or in countries in the same region," after "in recipient countries," and substituted "15 percent" for "10 percent".
 
-Subsec. (c). Pub. L. 104–127, §208(3), inserted “or in a country in the same region,” after “recipient country,”.
+Subsec. (c). Pub. L. 104–127, §208(3), inserted "or in a country in the same region," after "recipient country,".
 
-Subsec. (d)(2). Pub. L. 104–127, §208(4), inserted “or within a country in the same region” after “recipient country”.
+Subsec. (d)(2). Pub. L. 104–127, §208(4), inserted "or within a country in the same region" after "recipient country".
 
 <b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions relating to the payment of costs and charges by the Commodity Credit Corporation for packaging, enrichment, preservation, processing, transportation, handling, and other incidental charges relating to commodities.
 
-<b>1984</b>—Pub. L. 98–473 inserted following cl. (4): “in the case of commodities for urgent and extraordinary relief requirements, including pre-positioned commodities, transportation costs from designated points of entry or ports of entry abroad to storage and distribution sites and associated storage and distribution costs;”.
+<b>1984</b>—Pub. L. 98–473 inserted following cl. (4): "in the case of commodities for urgent and extraordinary relief requirements, including pre-positioned commodities, transportation costs from designated points of entry or ports of entry abroad to storage and distribution sites and associated storage and distribution costs;".
 
-<b>1977</b>—Pub. L. 95–88 substituted “transportation from United States ports to designated points of entry abroad in the case (1) of landlocked countries, (2) where ports cannot be used effectively because of natural or other disturbances, (3) where carriers to a specific country are unavailable, or (4) where a substantial savings in costs or time can be effected by the utilization of points of entry other than ports” for “, or, in the case of landlocked countries, transportation from United States ports to designated points of entry abroad”.
+<b>1977</b>—Pub. L. 95–88 substituted "transportation from United States ports to designated points of entry abroad in the case (1) of landlocked countries, (2) where ports cannot be used effectively because of natural or other disturbances, (3) where carriers to a specific country are unavailable, or (4) where a substantial savings in costs or time can be effected by the utilization of points of entry other than ports" for ", or, in the case of landlocked countries, transportation from United States ports to designated points of entry abroad".
 
-<b>1966</b>—Pub. L. 89–808 reenacted, with linguistic changes, existing provisions for payment of costs and charges, included costs of acquisition, packaging, enrichment, preservation, fortification, processing, handling, other incidents, struck out provisions for authorization of appropriations for reimbursement of CCC, limitation on amount, and use of funds for purchase of foreign currencies, now covered by section 1724 of this title, and deleted other provisions for use of agencies,organizations, and facilities in making transfers, now covered by section 1722 of this title, and provision for transfer of funds from the CCC to such other Federal agency designated by the President for payment of ocean freight costs or for purchase of foreign currencies under this subchapter.
+<b>1966</b>—Pub. L. 89–808 reenacted, with linguistic changes, existing provisions for payment of costs and charges, included costs of acquisition, packaging, enrichment, preservation, fortification, processing, handling, other incidents, struck out provisions for authorization of appropriations for reimbursement of CCC, limitation on amount, and use of funds for purchase of foreign currencies, now covered by section 1724 of this title, and deleted other provisions for use of agencies, organizations, and facilities in making transfers, now covered by section 1722 of this title, and provision for transfer of funds from the CCC to such other Federal agency designated by the President for payment of ocean freight costs or for purchase of foreign currencies under this subchapter.
 
-<b>1964</b>—Pub. L. 88–638 substituted “1965”; for “1961”, “1966” for “1964”, and “$400,000,000” for “$300,000,000”, inserted “or donated under said section 1431, or section 1431b or 1697 of this title”, provisions authorizing use of funds available under subchapter III, not exceeding $7,500,000 annually, to purchase foreign currencies accruing under subchapter II in order to meet costs designed to assure that commodities available under subchapters I or III are used to carry out more effectively the purposes for which such commodities are made available or to promote activities to alleviate the causes of the need for such assistance, provided that such funds are used to supplement, not substitute for, funds normally available for such purposes from other non-United States Government sources, and “or for the purchase of foreign currencies” after “ocean freight costs”.
+<b>1964</b>—Pub. L. 88–638 substituted "1965"; for "1961", "1966" for "1964", and "$400,000,000" for "$300,000,000", inserted "or donated under said section 1431, or section 1431b or 1697 of this title", provisions authorizing use of funds available under subchapter III, not exceeding $7,500,000 annually, to purchase foreign currencies accruing under subchapter II in order to meet costs designed to assure that commodities available under subchapters I or III are used to carry out more effectively the purposes for which such commodities are made available or to promote activities to alleviate the causes of the need for such assistance, provided that such funds are used to supplement, not substitute for, funds normally available for such purposes from other non-United States Government sources, and "or for the purchase of foreign currencies" after "ocean freight costs".
 
 <b>1961</b>—Pub. L. 87–128 substituted authorization provision for period beginning January 1, 1961, and ending December 31, 1964, for authorization provision beginning January 1, 1960, and ending December 31, 1961, and made the annual limitation applicable to the amount programed rather than to the amount spent.
 
 <b>1960</b>—Pub. L. 86–472 authorized payment for transportation from United States ports to designated points of entry abroad in the case of landlocked countries, and permitted the payment of charges for general average contributions arising out of the ocean transport of transferred commodities.
 
-<b>1959</b>—Pub. L. 86–341 amended first sentence generally. Prior to amendment, first sentence read as follows: “Not more than $800,000,000 (including the Corporation's investment in such commodities) shall be expended for all such transfers and for other costs authorized by this subchapter.”
+<b>1959</b>—Pub. L. 86–341 amended first sentence generally. Prior to amendment, first sentence read as follows: "Not more than $800,000,000 (including the Corporation's investment in such commodities) shall be expended for all such transfers and for other costs authorized by this subchapter."
 
 <b>1957</b>—Pub. L. 85–128 increased limitation on expenditures from $500,000,000 to $800,000,000.
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 89–808 effective Jan. 1, 1967, see section 5 of Pub. L. 8
 
 #### Effective Date of 1964 Amendment
 
-Pub. L. 88–638, §1(13), Oct. 8, 1964, 78 Stat. 1037, provided that the substitutions of “1965” for “1961”, “1966” for “1964”, and “$400,000,000” for “$300,000,000” are not effective until Jan. 1, 1965.
+Pub. L. 88–638, §1(13), Oct. 8, 1964, 78 Stat. 1037, provided that the substitutions of "1965" for "1961", "1966" for "1964", and "$400,000,000" for "$300,000,000" are not effective until Jan. 1, 1965.
 
 #### Effective Date of 1959 Amendment
 

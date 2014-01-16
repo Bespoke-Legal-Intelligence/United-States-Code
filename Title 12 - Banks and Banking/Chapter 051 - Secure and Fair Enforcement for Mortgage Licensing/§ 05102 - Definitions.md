@@ -4,21 +4,21 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (1) Bureau
 
-&emsp;The term “Bureau” means the Bureau of Consumer Financial Protection.
+&emsp;The term "Bureau" means the Bureau of Consumer Financial Protection.
 
 #### (2) Federal banking agency
 
-&emsp;The term “Federal banking agency” means the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, the National Credit Union Administration, and the Federal Deposit Insurance Corporation.
+&emsp;The term "Federal banking agency" means the Board of Governors of the Federal Reserve System, the Office of the Comptroller of the Currency, the National Credit Union Administration, and the Federal Deposit Insurance Corporation.
 
 #### (3) Depository institution
 
-&emsp;The term “depository institution” has the same meaning as in section 1813 of this title, and includes any credit union.
+&emsp;The term "depository institution" has the same meaning as in section 1813 of this title, and includes any credit union.
 
 #### (4) Loan originator
 
 #### (A) In general
 
-&emsp;&emsp;The term “loan originator”—
+&emsp;&emsp;The term "loan originator"—
 
 &emsp;&emsp;&emsp;(i) means an individual who—
 
@@ -34,15 +34,15 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (B) Other definitions relating to loan originator
 
-&emsp;&emsp;For purposes of this subsection, an individual “assists a consumer in obtaining or applying to obtain a residential mortgage loan” by, among other things, advising on loan terms (including rates, fees, other costs), preparing loan packages, or collecting information on behalf of the consumer with regard to a residential mortgage loan.
+&emsp;&emsp;For purposes of this subsection, an individual "assists a consumer in obtaining or applying to obtain a residential mortgage loan" by, among other things, advising on loan terms (including rates, fees, other costs), preparing loan packages, or collecting information on behalf of the consumer with regard to a residential mortgage loan.
 
 #### (C) Administrative or clerical tasks
 
-&emsp;&emsp;The term “administrative or clerical tasks” means the receipt, collection, and distribution of information common for the processing or underwriting of a loan in the mortgage industry and communication with a consumer to obtain information necessary for the processing or underwriting of a residential mortgage loan.
+&emsp;&emsp;The term "administrative or clerical tasks" means the receipt, collection, and distribution of information common for the processing or underwriting of a loan in the mortgage industry and communication with a consumer to obtain information necessary for the processing or underwriting of a residential mortgage loan.
 
 #### (D) Real estate brokerage activity defined
 
-&emsp;&emsp;The term “real estate brokerage activity” means any activity that involves offering or providing real estate brokerage services to the public, including—
+&emsp;&emsp;The term "real estate brokerage activity" means any activity that involves offering or providing real estate brokerage services to the public, including—
 
 &emsp;&emsp;&emsp;(i) acting as a real estate agent or real estate broker for a buyer, seller, lessor, or lessee of real property;
 
@@ -58,7 +58,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (A) In general
 
-&emsp;&emsp;The term “loan processor or underwriter” means an individual who performs clerical or support duties at the direction of and subject to the supervision and instruction of—
+&emsp;&emsp;The term "loan processor or underwriter" means an individual who performs clerical or support duties at the direction of and subject to the supervision and instruction of—
 
 &emsp;&emsp;&emsp;(i) a State-licensed loan originator; or
 
@@ -66,7 +66,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (B) Clerical or support duties
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “clerical or support duties” may include—
+&emsp;&emsp;For purposes of subparagraph (A), the term "clerical or support duties" may include—
 
 &emsp;&emsp;&emsp;(i) the receipt, collection, distribution, and analysis of information common for the processing or underwriting of a residential mortgage loan; and
 
@@ -74,15 +74,15 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (6) Nationwide mortgage licensing system and registry
 
-&emsp;The term “Nationwide Mortgage Licensing System and Registry” means a mortgage licensing system developed and maintained by the Conference of State Bank Supervisors and the American Association of Residential Mortgage Regulators for the State licensing and registration of State-licensed loan originators and the registration of registered loan originators or any system established by the Director under section 5108 of this title.
+&emsp;The term "Nationwide Mortgage Licensing System and Registry" means a mortgage licensing system developed and maintained by the Conference of State Bank Supervisors and the American Association of Residential Mortgage Regulators for the State licensing and registration of State-licensed loan originators and the registration of registered loan originators or any system established by the Director under section 5108 of this title.
 
 #### (7) Nontraditional mortgage product
 
-&emsp;The term “nontraditional mortgage product” means any mortgage product other than a 30-year fixed rate mortgage.
+&emsp;The term "nontraditional mortgage product" means any mortgage product other than a 30-year fixed rate mortgage.
 
 #### (8) Registered loan originator
 
-&emsp;The term “registered loan originator” means any individual who—
+&emsp;The term "registered loan originator" means any individual who—
 
 &emsp;&emsp;(A) meets the definition of loan originator and is an employee of—
 
@@ -100,19 +100,19 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (9) Residential mortgage loan
 
-&emsp;The term “residential mortgage loan” means any loan primarily for personal, family, or household use that is secured by a mortgage, deed of trust, or other equivalent consensual security interest on a dwelling (as defined in section 1602(v) <sup>1</sup> of title 15) or residential real estate upon which is constructed or intended to be constructed a dwelling (as so defined).
+&emsp;The term "residential mortgage loan" means any loan primarily for personal, family, or household use that is secured by a mortgage, deed of trust, or other equivalent consensual security interest on a dwelling (as defined in section 1602(v) <sup>1</sup> of title 15) or residential real estate upon which is constructed or intended to be constructed a dwelling (as so defined).
 
 #### (10) Director
 
-&emsp;The term “Director” means the Director of the Bureau of Consumer Financial Protection.
+&emsp;The term "Director" means the Director of the Bureau of Consumer Financial Protection.
 
 #### (11) State
 
-&emsp;The term “State” means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
+&emsp;The term "State" means any State of the United States, the District of Columbia, any territory of the United States, Puerto Rico, Guam, American Samoa, the Trust Territory of the Pacific Islands, the Virgin Islands, and the Northern Mariana Islands.
 
 #### (12) State-licensed loan originator
 
-&emsp;The term “State-licensed loan originator” means any individual who—
+&emsp;The term "State-licensed loan originator" means any individual who—
 
 &emsp;&emsp;(A) is a loan originator;
 
@@ -134,7 +134,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (A) In general
 
-&emsp;&emsp;The term “unique identifier” means a number or other identifier that—
+&emsp;&emsp;The term "unique identifier" means a number or other identifier that—
 
 &emsp;&emsp;&emsp;(i) permanently identifies a loan originator;
 
@@ -156,17 +156,17 @@ Section 1602(v) of title 15, referred to in par. (9), was redesignated section 1
 
 <b>2010</b>—Pub. L. 111–203, §1100(4)(A), redesignated pars. (2) to (12) as (3) to (13), respectively.
 
-Par. (1). Pub. L. 111–203, §1100(4)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The term ‘Federal banking agencies’ means the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the National Credit Union Administration, and the Federal Deposit Insurance Corporation.”
+Par. (1). Pub. L. 111–203, §1100(4)(B), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The term 'Federal banking agencies' means the Board of Governors of the Federal Reserve System, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the National Credit Union Administration, and the Federal Deposit Insurance Corporation."
 
 Par. (2). Pub. L. 111–203, §1100(4)(B), added par. (2). Former par. (2) redesignated (3).
 
-Par. (5). Pub. L. 111–203, §1100(3), substituted “Director” for “Secretary”.
+Par. (5). Pub. L. 111–203, §1100(3), substituted "Director" for "Secretary".
 
-Par. (10). Pub. L. 111–203, §1100(4)(C), added par. (10) and struck out former par. (10). Prior to amendment, text read as follows: “The term ‘Secretary’ means the Secretary of Housing and Urban Development.”
+Par. (10). Pub. L. 111–203, §1100(4)(C), added par. (10) and struck out former par. (10). Prior to amendment, text read as follows: "The term 'Secretary' means the Secretary of Housing and Urban Development."
 
-Par. (11)(C). Pub. L. 111–203, §1100(3), substituted “Director” for “Secretary”.
+Par. (11)(C). Pub. L. 111–203, §1100(3), substituted "Director" for "Secretary".
 
-Par. (12)(A)(ii). Pub. L. 111–203, §1100(2), substituted “Bureau” for “Federal banking agencies”.
+Par. (12)(A)(ii). Pub. L. 111–203, §1100(2), substituted "Bureau" for "Federal banking agencies".
 
 #### Effective Date of 2010 Amendment
 

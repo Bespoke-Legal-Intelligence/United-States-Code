@@ -44,7 +44,7 @@ The National Fishing Enhancement Act of 1984, referred to in subsec. (b)(1), is 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b)(1). Pub. L. 111–84 substituted “1802(14)))” for “1802(14))”.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–84 substituted "1802(14)))" for "1802(14))".
 
-<b>2006</b>—Subsec. (b)(1). Pub. L. 109–364 substituted “3(14)” for “2(14)”.
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–364 substituted "3(14)" for "2(14)".
 

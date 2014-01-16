@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Transportation shall arrange for the employment of the Department of Transportation's vessels in steamship lines on such trade routes, exclusively serving the foreign trade of the United States, as the Secretary determines are essential for the development and maintenance of the commerce of the United States and the national defense. However, the Secretary shall first determine that those routes are not being adequately served by existing steamship lines privately owned and operated by citizens of theUnited States and documented under the laws of the United States.
+In General.—The Secretary of Transportation shall arrange for the employment of the Department of Transportation's vessels in steamship lines on such trade routes, exclusively serving the foreign trade of the United States, as the Secretary determines are essential for the development and maintenance of the commerce of the United States and the national defense. However, the Secretary shall first determine that those routes are not being adequately served by existing steamship lines privately owned and operated by citizens of the United States and documented under the laws of the United States.
 
 (b)
 
@@ -34,7 +34,7 @@ June 29, 1936, ch. 858, title VII, §705 (1st, 2d sentences), 49 Stat. 2009; Pub
 
 46 App.:1195 (2d sentence).
 
-In subsection (a), the words “As soon as practicable after June 29, 1936, and continuing thereafter” are omitted as obsolete. The words “However, the Secretary shall first determine that those routes are not being adequately served” are substituted for “<i>Provided</i>, That such needs are not being adequately served” for clarity and because provisos are disfavored in modern drafting.
+In subsection (a), the words "As soon as practicable after June 29, 1936, and continuing thereafter" are omitted as obsolete. The words "However, the Secretary shall first determine that those routes are not being adequately served" are substituted for "<i>Provided</i>, That such needs are not being adequately served" for clarity and because provisos are disfavored in modern drafting.
 
-In subsection (b)(1), the words “in the manner provided in section 7 of the Merchant Marine Act, 1920 \[46 App. U.S.C. 866\], and in strict accordance with the provisions of section 5 of said Act” are omitted because section 5 of that Act was repealed in 1988, and section 7 is being repealed as obsolete by this bill without being restated.
+In subsection (b)(1), the words "in the manner provided in section 7 of the Merchant Marine Act, 1920 \[46 App. U.S.C. 866\], and in strict accordance with the provisions of section 5 of said Act" are omitted because section 5 of that Act was repealed in 1988, and section 7 is being repealed as obsolete by this bill without being restated.
 

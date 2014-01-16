@@ -10,7 +10,7 @@ Establishment.—An Armed Services Board of Contract Appeals may be established 
 
 &emsp;(2)
 
-Appointment of members and compensation.—Members of the Armed Services Board shall be selected and appointed in the same manner as administrative law judges appointed pursuant to section 3105 of title 5, with an additional requirement that members must have had at least 5 years of experience in public contract law. The Secretary of Defense shall designate the chairman and vice chairman of the Armed Services Board from among the appointed members. Compensation for the chairman, vice chairman, and other members shall be determined under section 5372a of title 5.
+Appointment of members and compensation.—Members of the Armed Services Board shall be selected and appointed in the samemanner as administrative law judges appointed pursuant to section 3105 of title 5, with an additional requirement that members must have had at least 5 years of experience in public contract law. The Secretary of Defense shall designate the chairman and vice chairman of the Armed Services Board from among the appointed members. Compensation for the chairman, vice chairman, and other members shall be determined under section 5372a of title 5.
 
 (b)
 
@@ -110,7 +110,7 @@ Relief.—In exercising this jurisdiction, an agency board may grant any relief 
 
 (f)
 
-Subpoena, Discovery, and Deposition.—A member of an agency board of contract appeals may administer oaths to witnesses, authorize depositions and discovery proceedings, and require by subpoena the attendance of witnesses, and production of books and papers, for the taking of testimony or evidence by deposition or in the hearing of an appeal by the agency board. In case of contumacy or refusal to obey a subpoena by a person who resides, is found, or transacts business within the jurisdiction of a United States district court, the court, upon application of the agency board through the Attorney General, or upon application by the board of contract appeals of the Tennessee Valley Authority, shall have jurisdiction to issue the person an order requiring the person to appear before the agency board or a member of the agency board, to produce evidence or to give testimony, or both. Any failure of the person to obey the order of the court may be punished by the court as contempt of court.
+Subpoena, Discovery, and Deposition.—A member of an agency board of contract appeals may administer oaths to witnesses, authorizedepositions and discovery proceedings, and require by subpoena the attendance of witnesses, and production of books and papers, for the taking of testimony or evidence by deposition or in the hearing of an appeal by the agency board. In case of contumacy or refusal to obey a subpoena by a person who resides, is found, or transacts business within the jurisdiction of a United States district court, the court, upon application of the agency board through the Attorney General, or upon application by the board of contract appeals of the Tennessee Valley Authority, shall have jurisdiction to issue the person an order requiring the person to appear before the agency board or a member of the agency board, to produce evidence or to give testimony, or both. Any failure of the person to obey the order of the court may be punished by the court as contempt of court.
 
 (g)
 
@@ -126,7 +126,7 @@ Decisions.—An agency board shall—
 
 #### Amendments Not Shown in Text
 
-<i>Subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section were derived from sections 438 and 607(d), respectively, of former Title 41, Public Contracts. Sections 438 and 607(d) were amended by Pub. L. 111–383, div. A, title X, §1075(o), Jan. 7, 2011, 124 Stat. 4378, and Pub. L. 111–259, title IV, §422, Oct. 7, 2010, 124 Stat. 2727, respectively, prior to being repealed and reenacted as subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For applicability of those amendments to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 438 of former Title 41 was amended in subsec. (c)(1) by striking “(41 U.S.C. 607(b))” and inserting “(41 U.S.C. 607(d))” and in subsec. (c)(2)(A) by inserting “of 1978” after “Contract Disputes Act”. Section 607(d) of former Title 41 was amended by adding at the end “Notwithstanding any other provision of this section and any other provision of law, an appeal from a decision of a contracting officer of the Central Intelligence Agency relative to a contract made by that Agency may be filed with whichever of the Armed Services Board of Contract Appeals or the Civilian Board of Contract Appeals is specified by such contracting officer as the Board to which such an appeal may be made and such</i><i>Board shall have jurisdiction to decide that appeal.”</i>
+<i>Subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section were derived from sections 438 and 607(d), respectively, of former Title 41, Public Contracts. Sections 438 and 607(d) were amended by Pub. L. 111–383, div. A, title X, §1075(o), Jan. 7, 2011, 124 Stat. 4378, and Pub. L. 111–259, title IV, §422, Oct. 7, 2010, 124 Stat. 2727, respectively, prior to being repealed and reenacted as subsecs. (b) and (e)(1)(A), (B), (D) and (2) of this section by Pub. L. 111–350, §§3, 7(b), Jan. 4, 2011, 124 Stat. 3677, 3855. For applicability of those amendments to this section, see section 6(a) of Pub. L. 111–350, set out as a Transitional and Savings Provisions note preceding section 101 of this title. Section 438 of former Title 41 was amended in subsec. (c)(1) by striking "(41 U.S.C. 607(b))" and inserting "(41 U.S.C. 607(d))" and in subsec. (c)(2)(A) by inserting "of 1978" after "Contract Disputes Act". Section 607(d) of former Title 41 was amended by adding at the end "Notwithstanding any other provision of this section and any other provision of law, an appeal from a decision of a contracting officer of the Central Intelligence Agency relative to a contract made by that Agency may be filed with whichever of the Armed Services Board of Contract Appeals or the Civilian Board of Contract Appeals is specified by such contracting officer as the Board to which such an appeal may be made and such Board shall have jurisdiction to decide that appeal."</i>
 
 Historical and Revision Notes
 
@@ -192,11 +192,11 @@ Pub. L. 95–563, §11, Nov. 1, 1978, 92 Stat. 2388.
 
 Pub. L. 95–563, §8(e), Nov. 1, 1978, 92 Stat. 2386.
 
-In subsection (a)(2), the words “administrative law judges” are substituted for “hearing examiners” because of section 3 of Public Law 95–251 (5 U.S.C. 3105 note). The words “Full-time members of agency boards serving as such on the effective date of this chapter shall be considered qualified” are omitted as obsolete.
+In subsection (a)(2), the words "administrative law judges" are substituted for "hearing examiners" because of section 3 of Public Law 95–251 (5 U.S.C. 3105 note). The words "Full-time members of agency boards serving as such on the effective date of this chapter shall be considered qualified" are omitted as obsolete.
 
 In subsection (b), the text of 41 U.S.C. 438 (b)(1)(C) is omitted as obsolete.
 
-In subsection (e)(1)(B) and (C), the words “Postal Regulatory Commission” are substituted for “Postal Rate Commission” because of section 604(f) of the Postal Accountability and Enhancement Act (Public Law 109–435, 120 Stat. 3242, 39 U.S.C. 404 note).
+In subsection (e)(1)(B) and (C), the words "Postal Regulatory Commission" are substituted for "Postal Rate Commission" because of section 604(f) of the Postal Accountability and Enhancement Act (Public Law 109–435, 120 Stat. 3242, 39 U.S.C. 404 note).
 
 #### References in Text
 

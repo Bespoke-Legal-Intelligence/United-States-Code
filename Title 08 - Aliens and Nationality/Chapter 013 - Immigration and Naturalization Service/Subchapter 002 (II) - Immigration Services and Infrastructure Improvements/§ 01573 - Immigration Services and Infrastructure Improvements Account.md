@@ -6,7 +6,7 @@ The Attorney General shall take such measures as may be necessary to—
 
 &emsp;(1) reduce the backlog in the processing of immigration benefit applications, with the objective of the total elimination of the backlog 1 year after November 25, 2002;
 
-&emsp;(2) make such other improvements in the processing of immigration benefit applications as may be necessary to ensure that a backlog does not develop after such date; and
+&emsp;(2) make such other improvements in the processing of immigration benefit applicationsas may be necessary to ensure that a backlog does not develop after such date; and
 
 &emsp;(3) make such improvements in infrastructure as may be necessary to effectively provide immigration services.
 

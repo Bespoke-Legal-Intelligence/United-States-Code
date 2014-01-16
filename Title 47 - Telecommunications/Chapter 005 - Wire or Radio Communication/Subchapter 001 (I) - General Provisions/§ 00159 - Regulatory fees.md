@@ -312,7 +312,7 @@ The Commission shall develop accounting systems necessary to making the adjustme
 
 <b>1994</b>—Subsec. (f). Pub. L. 103–414, §303(a)(5), designated second sentence of par. (1) as par. (2) and inserted par. (2) heading.
 
-Subsec. (g). Pub. L. 103–414, §303(a)(6), inserted “95” after “(47 C.F.R. Part” in item pertaining to Interactive Video Data Service under Private Radio Bureau in Schedule of Regulatory Fees.
+Subsec. (g). Pub. L. 103–414, §303(a)(6), inserted "95" after "(47 C.F.R. Part" in item pertaining to Interactive Video Data Service under Private Radio Bureau in Schedule of Regulatory Fees.
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–121 designated existing provisions as par. (1), inserted heading, and added par. (2).
 

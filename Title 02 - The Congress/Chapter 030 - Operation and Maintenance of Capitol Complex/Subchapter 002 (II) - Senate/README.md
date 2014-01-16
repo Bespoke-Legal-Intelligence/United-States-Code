@@ -10,3 +10,4 @@
 - [&sect; 02023 - Control, care, and supervision of Senate Office Building](%C2%A7%2002023%20-%20Control%2C%20care%2C%20and%20supervision%20of%20Senate%20Office%20Building.md)
 - [&sect; 02024 - Assignment of space in Senate Office Building](%C2%A7%2002024%20-%20Assignment%20of%20space%20in%20Senate%20Office%20Building.md)
 - [&sect; 02025 - Senate Garage](%C2%A7%2002025%20-%20Senate%20Garage.md)
+- [&sect; 02026 - Senate Staff Health and Fitness Facility Revolving Fund](%C2%A7%2002026%20-%20Senate%20Staff%20Health%20and%20Fitness%20Facility%20Revolving%20Fund.md)

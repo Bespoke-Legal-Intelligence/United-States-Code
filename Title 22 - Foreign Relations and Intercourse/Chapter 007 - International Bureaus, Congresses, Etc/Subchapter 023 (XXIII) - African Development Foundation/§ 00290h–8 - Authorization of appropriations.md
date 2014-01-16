@@ -6,9 +6,9 @@ There are authorized to be appropriated to carry out this subchapter, in additio
 
 #### Amendments
 
-<b>1985</b>—Pub. L. 99–83 amended section generally. Prior to amendment, section read as follows: “Of the funds appropriated to carry out part I of the Foreign Assistance Act of 1961, other than funds appropriated for the Economic Support Fund, not less than $2,000,000 for the fiscal year 1982 and up to $2,000,000 for the fiscal year 1983 shall be used to carry out this subchapter.”
+<b>1985</b>—Pub. L. 99–83 amended section generally. Prior to amendment, section read as follows: "Of the funds appropriated to carry out part I of the Foreign Assistance Act of 1961, other than funds appropriated for the Economic Support Fund, not less than $2,000,000 for the fiscal year 1982 and up to $2,000,000 for the fiscal year 1983 shall be used to carry out this subchapter."
 
-<b>1981</b>—Pub. L. 97–113 struck out “for the fiscal year 1981” after “Of the funds appropriated” and substituted “not less than $2,000,000 for the fiscal year 1982 and up to $2,000,000 for the fiscal year 1983” for “$2,000,000”.
+<b>1981</b>—Pub. L. 97–113 struck out "for the fiscal year 1981" after "Of the funds appropriated" and substituted "not less than $2,000,000 for the fiscal year 1982 and up to $2,000,000 for the fiscal year 1983" for "$2,000,000".
 
 #### Effective Date of 1985 Amendment
 

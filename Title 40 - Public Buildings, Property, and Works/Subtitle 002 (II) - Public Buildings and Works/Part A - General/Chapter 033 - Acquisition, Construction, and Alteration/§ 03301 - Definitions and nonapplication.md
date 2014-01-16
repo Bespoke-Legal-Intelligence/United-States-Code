@@ -6,7 +6,7 @@ Definitions.—In this chapter—
 
 &emsp;(1)
 
-Alter.—The term “alter” includes—
+Alter.—The term "alter" includes—
 
 &emsp;&emsp;(A) preliminary planning, engineering, architectural, legal, fiscal, and economic investigations and studies, surveys, designs, plans, working drawings, specifications, procedures, and other similar actions necessary for the alteration of a public building; and
 
@@ -14,11 +14,11 @@ Alter.—The term “alter” includes—
 
 &emsp;(2)
 
-Construct.—The term “construct” includes preliminary planning, engineering, architectural, legal, fiscal, and economic investigations and studies, surveys, designs, plans, working drawings, specifications, procedures, and other similar actions necessary for the construction of a public building.
+Construct.—The term "construct" includes preliminary planning, engineering, architectural, legal, fiscal, and economic investigations and studies, surveys, designs, plans, working drawings, specifications, procedures, and other similar actions necessary for the construction of a public building.
 
 &emsp;(3)
 
-Executive agency.—The term “executive agency” means an executive department or independent establishment in the executive branch of the Federal Government, including—
+Executive agency.—The term "executive agency" means an executive department or independent establishment in the executive branch of the Federal Government, including—
 
 &emsp;&emsp;(A) any wholly owned Government corporation;
 
@@ -34,11 +34,11 @@ Executive agency.—The term “executive agency” means an executive departmen
 
 &emsp;(4)
 
-Federal agency.—The term “federal agency” means an executive agency or an establishment in the legislative or judicial branch of the Government (except the Senate, the House of Representatives, and the Architect of the Capitol and any activities under the direction of the Architect).
+Federal agency.—The term "federal agency" means an executive agency or an establishment in the legislative or judicial branch of the Government (except the Senate, the House of Representatives, and the Architect of the Capitol and any activities under the direction of the Architect).
 
 &emsp;(5)
 
-Public building.—The term “public building”—
+Public building.—The term "public building"—
 
 &emsp;&emsp;(A) means a building, whether for single or multitenant occupancy, and its grounds, approaches, and appurtenances, which is generally suitable for use as office or storage space or both by one or more federal agencies or mixed-ownership Government corporations;
 
@@ -90,7 +90,7 @@ Public building.—The term “public building”—
 
 &emsp;(6)
 
-United states.—The term “United States” includes the States of the United States, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
+United states.—The term "United States" includes the States of the United States, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
 
 (b)
 
@@ -154,7 +154,7 @@ Pub. L. 94–541, title I, §105(1), (2), Oct. 18, 1976, 90 Stat. 2507.
 
 Pub. L. 86–249, §14, Sept. 9, 1959, 73 Stat. 483.
 
-In subsection (a), the text of 40:612(2) and 612a(1) is omitted because the complete name of the Administrator of General Services is used the first time the term appears in a section. In clause (5)(A), the words “mixed-ownership Government corporation” are substituted for “mixed ownership corporation” for consistency with 31:9101. In clause (5)(B) and (C), the words “from time to time hereafter” are omitted as unnecessary. In clause (6), the words “territories and” are added for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the text of 40:612(2) and 612a(1) is omitted because the complete name of the Administrator of General Services is used the first time the term appears in a section. In clause (5)(A), the words "mixed-ownership Government corporation" are substituted for "mixed ownership corporation" for consistency with 31:9101. In clause (5)(B) and (C), the words "from time to time hereafter" are omitted as unnecessary. In clause (6), the words "territories and" are added for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (b), the text of 40:613(1)–(3) is omitted as obsolete. The reference is to section 241(g) of the Immigration and Nationality Act rather than to section 242(c) to reflect the amendment of sections 241 and 242 by sections 305(a)(3) and 306(a)(2) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (Public Law 104–208, div. C, 110 Stat. 3009–598, 3009–607).
 

@@ -12,5 +12,5 @@ The Hawaiian Homes Commission Act, 1920, referred to in text, is act July 9, 192
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–204 inserted at end “The Secretary may waive this section in connection with the use of funds made available under this subchapter on lands set aside under the Hawaiian Homes Commission Act, 1920 (42 Stat. 108).”
+<b>1996</b>—Pub. L. 104–204 inserted at end "The Secretary may waive this section in connection with the use of funds made available under this subchapter on lands set aside under the Hawaiian Homes Commission Act, 1920 (42 Stat. 108)."
 

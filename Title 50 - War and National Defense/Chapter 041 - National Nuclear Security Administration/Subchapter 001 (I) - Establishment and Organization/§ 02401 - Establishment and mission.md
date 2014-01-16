@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established within the Department of Energy a separately organized agency to be known as the National Nuclear Security Administration (in this chapter referred to as the “Administration”).
+There is established within the Department of Energy a separately organized agency to be known as the National Nuclear Security Administration (in this chapter referred to as the "Administration").
 
 #### (b) Mission
 
@@ -20,107 +20,117 @@ The mission of the Administration shall be the following:
 
 &emsp;(6) To support United States leadership in science and technology.
 
-#### (c) Operations and activities to be carried out consistent with certain principles
+#### (c) Operations and activities to be carried out consistently with certain principles
 
-In carrying out the mission of the Administration, the Administrator shall ensure that all operations and activities of the Administration are consistent with the principles of protecting the environment and safeguarding the safety and health of the public and of the workforce of the Administration.
+In carrying out the mission of the Administration, the Administrator shall ensure that all operations and activities of the Administration are consistent with the principles of—
 
-(Pub. L. 106–65, div. C, title XXXII, §3211, Oct. 5, 1999, 113 Stat. 957.)
+&emsp;(1) protecting the environment;
+
+&emsp;(2) safeguarding the safety and health of the public and of the workforce of the Administration; and
+
+&emsp;(3) ensuring the security of the nuclear weapons, nuclear material, and classified information in the custody of the Administration.
+
+(Pub. L. 106–65, div. C, title XXXII, §3211, Oct. 5, 1999, 113 Stat. 957; Pub. L. 113–66, div. C, title XXXI, §3111, Dec. 26, 2013, 127 Stat. 1049.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (a), was in the original "this title", meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out below and Tables.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (c). Pub. L. 113–66 amended subsec. (c) generally. Prior to amendment, text read as follows: "In carrying out the mission of the Administration, the Administrator shall ensure that all operations and activities of the Administration are consistent with the principles of protecting the environment and safeguarding the safety and health of the public and of the workforce of the Administration."
 
 #### Effective Date
 
 Pub. L. 106–65, div. C, title XXXII, §3299, Oct. 5, 1999, 113 Stat. 971, provided that:
 
-“(a)
+"(a)
 
 In General.—Except as provided in subsection (b), the provisions of this title \[see Short Title note below\] shall take effect on March 1, 2000.
 
-“(b)
+"(b)
 
 Exceptions.—(1) Sections 3202, 3204, 3251, 3295, and 3297 \[enacting section 2451 and former section 2483 of this title and sections 7144a to 7144c of Title 42, The Public Health and Welfare, amending section 7132 of Title 42, and enacting provisions set out as a note below\] shall take effect on the date of the enactment of this Act \[Oct. 5, 1999\].
 
-“(2) Sections 3234 and 3235 \[enacting sections 2424 and 2425 of this title\] shall take effect on the date of the enactment of this Act. During the period beginning on the date of the enactment of this Act and ending on the effective date of this title, the Secretary of Energy shall carry out those sections and any reference in those sections to the Administrator and the Administration shall be treated as references to the Secretary and the Department of Energy, respectively.”
+"(2) Sections 3234 and 3235 \[enacting sections 2424 and 2425 of this title\] shall take effect on the date of the enactment of this Act. During the period beginning on the date of the enactment of this Act and ending on the effective date of this title, the Secretary of Energy shall carry out those sections and any reference in those sections to the Administrator and the Administration shall be treated as references to the Secretary and the Department of Energy, respectively."
 
 #### Short Title
 
-Pub. L. 106–65, div. C, title XXXII, §3201, Oct. 5, 1999, 113 Stat. 953, provided that: “This title \[enacting this chapter and sections 7144 to 7144c of Title 42, The Public Health and Welfare, amending sections 5314, 5315, 5595, and 8905a of Title 5, Government Organization and Employees, and sections 7132, 7133, and 7158 of Title 42, repealing sections 2122a, 7143, and 7271b of Title 42, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 435 of this title\] may be cited as the ‘National Nuclear Security Administration Act’.”
+Pub. L. 106–65, div. C, title XXXII, §3201, Oct. 5, 1999, 113 Stat. 953, provided that: "This title \[enacting thischapter and sections 7144 to 7144c of Title 42, The Public Health and Welfare, amending sections 5314, 5315, 5595, and 8905a of Title 5, Government Organization and Employees, and sections 7132, 7133, and 7158 of Title 42, repealing sections 2122a, 7143, and 7271b of Title 42, enacting provisions set out as notes under this section, and amending provisions set out as a note under section 435 of this title\] may be cited as the 'National Nuclear Security Administration Act'."
 
 #### Preparation of Infrastructure Plan for the Nuclear Weapons Complex
 
 Pub. L. 107–107, div. B, title XXX, §3008, Dec. 28, 2001, 115 Stat. 1352, provided that:
 
-“(a)
+"(a)
 
 Infrastructure Plan for Nuclear Weapons Complex.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Preparation and submission.—Not later than the date on which the budget for the Department of Energy for fiscal year 2004 is submitted to Congress, the Secretary of Energy shall submit to Congress an infrastructure plan for the nuclear weapons complex adequate to support the nuclear weapons stockpile, the naval reactors program, and nonproliferation and national security activities.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Special considerations.—In preparing the infrastructure plan, the Secretary shall take into consideration the following:
 
-&emsp;&emsp;“(A) The Department of Defense Nuclear Posture Review required pursuant to section 1041 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–262 \[former 10 U.S.C. 118 note\]).
+&emsp;&emsp;"(A) The Department of Defense Nuclear Posture Review required pursuant to section 1041 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 (as enacted into law by Public Law 106–398; 114 Stat. 1654A–262 \[former 10 U.S.C. 118 note\]).
 
-&emsp;&emsp;“(B) Any efficiencies and security benefits of consolidation of facilities of the nuclear weapons complex.
+&emsp;&emsp;"(B) Any efficiencies and security benefits of consolidation of facilities of the nuclear weapons complex.
 
-&emsp;&emsp;“(C) The necessity to have a residual production capability.
+&emsp;&emsp;"(C) The necessity to have a residual production capability.
 
-“(b)
+"(b)
 
 Recommendations Regarding Realignments and Closures.—On the basis of the infrastructure plan prepared under subsection (a), the Secretary shall make such recommendations regarding the need to close or realign facilities of the nuclear weapons complex as the Secretary considers appropriate, including the Secretary's recommendations on whether to establish a process by which a round of closures and realignments would be carried out and any additional legislative authority necessary to implement the recommendations. The Secretary shall submit the recommendations as part of the infrastructure plan under subsection (a).
 
-“(c)
+"(c)
 
 Definitions.—In this section:
 
-&emsp;“(1) The terms ‘Secretary’ and ‘Secretary of Energy’ mean the Secretary of Energy, acting after consideration of the recommendations of the Administrator for Nuclear Security.
+&emsp;"(1) The terms 'Secretary' and 'Secretary of Energy' mean the Secretary of Energy, acting after consideration of the recommendations of the Administrator for Nuclear Security.
 
-&emsp;“(2) The term ‘nuclear weapons complex’ means the national security laboratories and nuclear weapons production facilities (as such terms are defined in section 3281 of the National Nuclear Security Administration Act (50 U.S.C. 2471)) and the facilities of the Naval Nuclear Propulsion Program provided for under the Naval Nuclear Propulsion Executive Order (as such term is defined in section 3216 of such Act (50 U.S.C. 2406)).”
+&emsp;"(2) The term 'nuclear weapons complex' means the national security laboratories and nuclear weapons production facilities (as such terms are defined in section 3281 of the National Nuclear Security Administration Act (50 U.S.C. 2471)) and the facilities of the Naval Nuclear Propulsion Program provided for under the Naval Nuclear Propulsion Executive Order (as such term is defined in section 3216 of such Act (50 U.S.C. 2406))."
 
 #### Study and Report Related to Improving Mission Effectiveness, Partnerships, and Technology Transfer at National Security Laboratories and Nuclear Weapons Production Facilities
 
 Pub. L. 106–398, §1 \[div. C, title XXXI, §3163\], Oct. 30, 2000, 114 Stat. 1654, 1654A–473, provided that:
 
-“(a)
+"(a)
 
 Study and Report Required.—The Secretary of Energy shall direct the Secretary of Energy Advisory Board to study and to submit to the Secretary not later than one year after the date of the enactment of this Act \[Oct. 30, 2000\] a report regarding the following topics:
 
-&emsp;“(1) The advantages and disadvantages of providing the Administrator for Nuclear Security with authority, notwithstanding the limitations otherwise imposed by the Federal Acquisition Regulation, to enter into transactions with public agencies, private organizations, or individuals on terms the Administrator considers appropriate to the furtherance of basic, applied, and advanced research functions. The Advisory Board shall consider, in its assessment of this authority, the management history of the Department of Energy and the effect of this authority on the National Nuclear Security Administration's use of contractors to operate the national security laboratories.
+&emsp;"(1) The advantages and disadvantages of providing the Administrator for Nuclear Security with authority, notwithstanding the limitations otherwise imposed by the Federal Acquisition Regulation, to enter into transactions with public agencies, private organizations, or individuals on terms the Administrator considers appropriate to the furtherance of basic, applied, and advanced research functions. The Advisory Board shall consider, in its assessment of this authority, the management history of the Department of Energy and the effect of this authority on the National Nuclear Security Administration's use of contractors to operate the national security laboratories.
 
-&emsp;“(2) The advantages and disadvantages of establishing and implementing policies and procedures to facilitate the transfer of scientific, technical, and professional personnel among national security laboratories and nuclear weapons production facilities.
+&emsp;"(2) The advantages and disadvantages of establishing and implementing policies and procedures to facilitate the transfer of scientific, technical, and professional personnel among national security laboratories and nuclear weapons production facilities.
 
-&emsp;“(3) The advantages and disadvantages of making changes in—
+&emsp;"(3) The advantages and disadvantages of making changes in—
 
-&emsp;&emsp;“(A) the indemnification requirements for patents or other intellectual property licensed from a national security laboratory or nuclear weapons production facility;
+&emsp;&emsp;"(A) the indemnification requirements for patents or other intellectual property licensed from a national security laboratory or nuclear weapons production facility;
 
-&emsp;&emsp;“(B) the royalty and fee schedules and types of compensation that may be used for patents or other intellectual property licensed to a small business concern from a national security laboratory or nuclear weapons production facility;
+&emsp;&emsp;"(B) the royalty and fee schedules and types of compensation that may be used for patents or other intellectual property licensed to a small business concern from a national security laboratory or nuclear weapons production facility;
 
-&emsp;&emsp;“(C) the licensing procedures and requirements for patents and other intellectual property;
+&emsp;&emsp;"(C) the licensing procedures and requirements for patents and other intellectual property;
 
-&emsp;&emsp;“(D) the rights given to a small business concern that has licensed a patent or other intellectual property from a national security laboratory or nuclear weapons production facility to bring suit against third parties infringing such intellectual property;
+&emsp;&emsp;"(D) the rights given to a small business concern that has licensed a patent or other intellectual property from a national security laboratory or nuclear weapons production facility to bring suit against third parties infringing such intellectual property;
 
-&emsp;&emsp;“(E) the advance funding requirements for a small business concern funding a project at a national security laboratory or nuclear weapons production facility through a funds-in agreement;
+&emsp;&emsp;"(E) the advance funding requirements for a small business concern funding a project at a national security laboratory or nuclear weapons production facility through a funds-in agreement;
 
-&emsp;&emsp;“(F) the intellectual property rights allocated to a business when it is funding a project at a national security laboratory or nuclear weapons production facility through a funds-in agreement; and
+&emsp;&emsp;"(F) the intellectual property rights allocated to a business when it is funding a project at a national security laboratory or nuclear weapons production facility through a funds-in agreement; and
 
-&emsp;&emsp;“(G) policies on royalty payments to inventors employed by a contractor operating a national security laboratory or nuclear weapons production facility, including those for inventions made under a funds-in agreement.
+&emsp;&emsp;"(G) policies on royalty payments to inventors employed by a contractor operating a national security laboratory or nuclear weapons production facility, including those for inventions made under a funds-in agreement.
 
-“(b)
+"(b)
 
-Definition of Funds-In Agreement.—For the purposes of this section, the term ‘funds-in agreement’ means a contract between the Department and a non-Federal organization under which that organization pays the Department to provide a service or material not otherwise available in the domestic private sector.
+Definition of Funds-In Agreement.—For the purposes of this section, the term 'funds-in agreement' means a contract between the Department and a non-Federal organization under which that organization pays the Department to provide a service or material not otherwise available in the domestic private sector.
 
-“(c)
+"(c)
 
-Submission to Congress.—Not later than one month after receiving the report under subsection (a), the Secretary shall submit to Congress that report, along with the Secretary's recommendations for action and proposals for legislation to implement the recommendations.”
+Submission to Congress.—Not later than one month after receiving the report under subsection (a), the Secretary shall submit to Congress that report, along with the Secretary's recommendations for action and proposals for legislation to implement the recommendations."
 
 #### Definitions for Purposes of Pub. L. 106–398
 
-Pub. L. 106–398, §1 \[div. C, title XXXI, §3165\], Oct. 30, 2000, 114 Stat. 1654, 1654A–475, provided that: “For purposes of this subtitle \[subtitle E (§§3161–3165) of title XXXI of div. C of H.R. 5408, as enacted by section 1 of Pub. L. 106–398, enacting provisions set out as notes under this section and section 2402 of this title\], the terms ‘national security laboratory’ and ‘nuclear weapons production facility’ have the meanings given such terms in section 3281 of the National Nuclear Security Administration Act (title XXXII of Public Law 106–65; 113 Stat. 968; 50 U.S.C. 2471).”
+Pub. L. 106–398, §1 \[div. C, title XXXI, §3165\], Oct. 30, 2000, 114 Stat. 1654, 1654A–475, provided that: "For purposes of this subtitle \[subtitle E (§§3161–3165) of title XXXI of div. C of H.R. 5408, as enacted by section 1 of Pub. L. 106–398, enacting provisions set out as notes under this section and section 2402 of this title\], the terms 'national security laboratory' and 'nuclear weapons production facility' have the meanings given such terms in section 3281 of the National Nuclear Security Administration Act (title XXXII of Public Law 106–65; 113 Stat. 968; 50 U.S.C. 2471)."
 
 #### Report Containing Implementation Plan of Secretary of Energy
 
@@ -128,5 +138,5 @@ Pub. L. 106–65, div. C, title XXXII, §3297, Oct. 5, 1999, 113 Stat. 971, whic
 
 #### Classification in United States Code
 
-Pub. L. 106–65, div. C, title XXXII, §3298, Oct. 5, 1999, 113 Stat. 971, provided that: “Subtitles A through F of this title \[§§3211–3281, enacting this chapter and amending sections 5595 and 8905a of Title 5, Government Organization and Employees\] (other than provisions of those subtitles amending existing provisions of law) shall be classified to the United States Code as a new chapter of title 50, United States Code.”
+Pub. L. 106–65, div. C, title XXXII, §3298, Oct. 5, 1999, 113 Stat. 971, provided that: "Subtitles A through F of this title \[§§3211–3281, enacting this chapter and amending sections 5595 and 8905a of Title 5, Government Organization and Employees\] (other than provisions of those subtitles amending existing provisions of law) shall be classified to the United States Code as a new chapter of title 50, United States Code."
 

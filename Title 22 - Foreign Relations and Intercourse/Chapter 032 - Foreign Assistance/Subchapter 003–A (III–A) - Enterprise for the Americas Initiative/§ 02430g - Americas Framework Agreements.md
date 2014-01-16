@@ -96,5 +96,5 @@ A prior section 708 of Pub. L. 87–195, pt. IV, Sept. 4, 1961, 75 Stat. 464, am
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c)(3)(D). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (c)(3)(D). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 

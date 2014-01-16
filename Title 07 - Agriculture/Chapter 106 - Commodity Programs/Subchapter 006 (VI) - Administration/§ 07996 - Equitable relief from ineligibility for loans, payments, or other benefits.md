@@ -6,13 +6,13 @@ In this section:
 
 #### (1) Agricultural commodity
 
-&emsp;The term “agricultural commodity” means any agricultural commodity, food, feed, fiber, or livestock that is subject to a covered program.
+&emsp;The term "agricultural commodity" means any agricultural commodity, food, feed, fiber, or livestock that is subject to a covered program.
 
 #### (2) Covered program
 
 #### (A) In general
 
-&emsp;&emsp;The term “covered program” means—
+&emsp;&emsp;The term "covered program" means—
 
 &emsp;&emsp;&emsp;(i) a program administered by the Secretary under which price or income support, or production or market loss assistance, is provided to producers of agricultural commodities; and
 
@@ -20,7 +20,7 @@ In this section:
 
 #### (B) Exclusions
 
-&emsp;&emsp;The term “covered program” does not include—
+&emsp;&emsp;The term "covered program" does not include—
 
 &emsp;&emsp;&emsp;(i) an agricultural credit program carried out under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.); or
 
@@ -28,15 +28,15 @@ In this section:
 
 #### (3) Participant
 
-&emsp;The term “participant” means a participant in a covered program.
+&emsp;The term "participant" means a participant in a covered program.
 
 #### (4) State Conservationist
 
-&emsp;The term “State Conservationist” means the State Conservationist with respect to a program administered by the Natural Resources Conservation Service.
+&emsp;The term "State Conservationist" means the State Conservationist with respect to a program administered by the Natural Resources Conservation Service.
 
 #### (5) State Director
 
-&emsp;The term “State Director” means the State Executive Director of the Farm Service Agency with respect to a program administered by the Farm Service Agency.
+&emsp;The term "State Director" means the State Executive Director of the Farm Service Agency with respect to a program administered by the Farm Service Agency.
 
 #### (b) Equitable relief
 

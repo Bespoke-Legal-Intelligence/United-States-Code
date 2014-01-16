@@ -38,7 +38,7 @@ As part of the Program, the Department of Defense, through the Defense Advanced 
 
 #### (e) Information services
 
-The Director shall assist the President in coordinating the activities of appropriate agencies and departments to promote the development ofinformation services that could be provided over the Network. These services may include the provision of directories of the users and services on computer networks, data bases of unclassified Federal scientific data, training of users of data bases and computer networks, access to commercial information services for users of the Network, and technology to support computer-based collaboration that allows researchers and educators around the Nation to share information and instrumentation.
+The Director shall assist the President in coordinating the activities of appropriate agencies and departments to promote the development of information services that could be provided over the Network. These services may include the provision of directories of the users and services on computer networks, data bases of unclassified Federal scientific data, training of users of data bases and computer networks, access to commercial information services for users of the Network, and technology to support computer-based collaboration that allows researchers and educators around the Nation to share information and instrumentation.
 
 #### (f) Use of grant funds
 

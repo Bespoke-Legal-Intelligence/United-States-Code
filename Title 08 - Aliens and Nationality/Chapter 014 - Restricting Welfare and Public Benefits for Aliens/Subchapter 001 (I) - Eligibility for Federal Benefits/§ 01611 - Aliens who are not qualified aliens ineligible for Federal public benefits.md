@@ -86,7 +86,7 @@ Pub. L. 105–33, title IV, §4723, Aug. 5, 1997, 111 Stat. 515, provided that:
 
 “(a)
 
-Total Amount Available for Allotment.—There are available for allotments under this section for each of the 4 consecutive fiscal years (beginning with fiscal year 1998) $25,000,000 for payments to certain States under this section.
+Total Amount Available for Allotment.—There are available for allotments under this sectionfor each of the 4 consecutive fiscal years (beginning with fiscal year 1998) $25,000,000 for payments to certain States under this section.
 
 “(b)
 
@@ -102,7 +102,7 @@ Determination.—For purposes of paragraph (1), the number of undocumented alien
 
 “(c)
 
-Use of Funds.—From the allotments made under subsection (b), the Secretary shall pay to each Stateamounts the State demonstrates were paid by the State (or by a political subdivision of the State) for emergency health services furnished to undocumented aliens.
+Use of Funds.—From the allotments made under subsection (b), the Secretary shall pay to each State amounts the State demonstrates were paid by the State (or by a political subdivision of the State) for emergency health services furnished to undocumented aliens.
 
 “(d)
 

@@ -14,7 +14,7 @@ Except as provided in section 3812 of this title, and notwithstanding any other 
 
 &emsp;&emsp;(D) a loan made, insured, or guaranteed under the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.) or any other provision of law administered by the Consolidated Farm Service Agency, if the Secretary determines that the proceeds of such loan will be used for a purpose that will contribute to excessive erosion of highly erodible land;
 
-&emsp;(2) a payment made under section 4 or 5 of the Commodity Credit Corporation Charter Act (15 U.S.C. 714b or 714c) during such crop year for the storage of an agricultural commodity acquired by the Commodity Credit Corporation; or
+&emsp;(2) a payment made under section 4 or 5 of the Commodity Credit Corporation Charter Act (15 U.S.C. 714b or 714c) during such cropyear for the storage of an agricultural commodity acquired by the Commodity Credit Corporation; or
 
 &emsp;(3) during the crop year—
 
@@ -44,37 +44,37 @@ The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(D
 
 <b>2002</b>—Pub. L. 107–171 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-<b>1996</b>—Pub. L. 104–127, §311(1), struck out “following December 23, 1985,” before “any person who” in introductory provisions.
+<b>1996</b>—Pub. L. 104–127, §311(1), struck out "following December 23, 1985," before "any person who" in introductory provisions.
 
-Par. (1)(A). Pub. L. 104–127, §311(2)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: “any type of price support or payment made available under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or any other Act;”.
+Par. (1)(A). Pub. L. 104–127, §311(2)(A), added subpar. (A) and struck out former subpar. (A) which read as follows: "any type of price support or payment made available under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or any other Act;".
 
-Par. (1)(C). Pub. L. 104–127, §311(2)(B), (E), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “crop insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.);”.
+Par. (1)(C). Pub. L. 104–127, §311(2)(B), (E), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: "crop insurance under the Federal Crop Insurance Act (7 U.S.C. 1501 et seq.);".
 
 Par. (1)(D). Pub. L. 104–127, §311(2)(E), redesignated subpar. (E) as (D). Former subpar. (D) redesignated (C).
 
-Pub. L. 104–127, §311(2)(C), struck out before semicolon “made under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), under section 132 of the Disaster Assistance Act of 1989 (7 U.S.C. 1421 note), or under any similar provision enacted subsequent to August 14, 1989”.
+Pub. L. 104–127, §311(2)(C), struck out before semicolon "made under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), under section 132 of the Disaster Assistance Act of 1989 (7 U.S.C. 1421 note), or under any similar provision enacted subsequent to August 14, 1989".
 
-Par. (1)(E). Pub. L. 104–127, §311(2)(D), (E), substituted “Consolidated Farm Service Agency” for “FarmersHome Administration” and redesignated subpar. (E) as (D).
+Par. (1)(E). Pub. L. 104–127, §311(2)(D), (E), substituted "Consolidated Farm Service Agency" for "Farmers Home Administration" and redesignated subpar. (E) as (D).
 
-Par. (3). Pub. L. 104–127, §311(3), added par. (3) and struck out former par. (3) which read as follows: “during such crop year—
+Par. (3). Pub. L. 104–127, §311(3), added par. (3) and struck out former par. (3) which read as follows: "during such crop year—
 
-&emsp;“(A) a payment made under section 590h, section 590l or section 590p(b) of this title;
+&emsp;"(A) a payment made under section 590h, section 590l or section 590p(b) of this title;
 
-&emsp;“(B) a payment made under section 2201 or section 2202 of this title;
+&emsp;"(B) a payment made under section 2201 or section 2202 of this title;
 
-&emsp;“(C) a payment under any contract entered into pursuant to section 3831 of this title;
+&emsp;"(C) a payment under any contract entered into pursuant to section 3831 of this title;
 
-&emsp;“(D) a payment under part II of subchapter IV of this chapter;
+&emsp;"(D) a payment under part II of subchapter IV of this chapter;
 
-&emsp;“(E) a payment under part III of subchapter IV of this chapter; or
+&emsp;"(E) a payment under part III of subchapter IV of this chapter; or
 
-&emsp;“(F) a payment, loan or other assistance under section 1003 or section 1006a of this title.”
+&emsp;"(F) a payment, loan or other assistance under section 1003 or section 1006a of this title."
 
-<b>1991</b>—Par. (1)(D). Pub. L. 102–237, §204(1)(A), substituted “(7 U.S.C. 1421 note)” for “(16 U.S.C. 1421 note)”.
+<b>1991</b>—Par. (1)(D). Pub. L. 102–237, §204(1)(A), substituted "(7 U.S.C. 1421 note)" for "(16 U.S.C. 1421 note)".
 
 Par. (3)(D), (E). Pub. L. 102–237, §204(1)(B), (C), made technical amendments to references to part II of subchapter IV of this chapter and part III of subchapter IV of this chapter, in subpars. (D) and (E), respectively, to clarify references in corresponding provisions of original Act.
 
-<b>1990</b>—Pub. L. 101–624, §1411(1), inserted “, or designates land on which highly erodible land is predominate to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary” after “is predominate” in first sentence.
+<b>1990</b>—Pub. L. 101–624, §1411(1), inserted ", or designates land on which highly erodible land is predominate to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary" after "is predominate" in first sentence.
 
 Par. (1)(D). Pub. L. 101–624, §1411(2), inserted reference to section 132 of the Disaster Assistance Act of 1989 and similar provisions enacted after Aug. 14, 1989.
 
@@ -88,21 +88,21 @@ Pub. L. 104–127, title III, §311, Apr. 4, 1996, 110 Stat. 982, provided that 
 
 Pub. L. 104–127, title III, §317, Apr. 4, 1996, 110 Stat. 986, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of Agriculture shall conduct a pilot project to review, and modify as appropriate, the use of wind erosion factors under the highly erodible conservation requirements of subtitle B of title XII of the Food Security Act of 1985 (16 U.S.C. 3811 et seq.).
 
-“(b)
+"(b)
 
 Selection of Counties and Producers.—The pilot project shall be conducted for producers in those counties that—
 
-&emsp;“(1) have approximately 100 percent of their cropland determined to be highly erodible under title XII of the Act \[16 U.S.C. 3801 et seq.\];
+&emsp;"(1) have approximately 100 percent of their cropland determined to be highly erodible under title XII of the Act \[16 U.S.C. 3801 et seq.\];
 
-&emsp;“(2) have a reasonable likelihood that the use of wind erosion factors under title XII of the Act have resulted in an inequitable application of the highly erodible land requirements of title XII of the Act; and
+&emsp;"(2) have a reasonable likelihood that the use of wind erosion factors under title XII of the Act have resulted in an inequitable application of the highly erodible land requirements of title XII of the Act; and
 
-&emsp;“(3) if the use of the land classification system under section 1201(a)(9)(A) of the Act \[16 U.S.C. 3801(a)(9)(A)\] (as redesignated by section 301(a)(1)) may result in a more accurate delineation of the cropland.
+&emsp;"(3) if the use of the land classification system under section 1201(a)(9)(A) of the Act \[16 U.S.C. 3801(a)(9)(A)\] (as redesignated by section 301(a)(1)) may result in a more accurate delineation of the cropland.
 
-“(c)
+"(c)
 
-Errors in Delineation.—If the Secretary determines that a significant error has occurred in delineating cropland under the pilot project, the Secretary shall, at the request of the owners or operators of the cropland, conduct a new delineation of the cropland using the most accurate available delineation process, as determined by the Secretary.”
+Errors in Delineation.—If the Secretary determines that a significant error has occurred in delineating cropland under the pilot project, the Secretary shall, at the request of the owners or operators of the cropland, conduct a new delineation of the cropland using the most accurate available delineation process, as determined by the Secretary."
 

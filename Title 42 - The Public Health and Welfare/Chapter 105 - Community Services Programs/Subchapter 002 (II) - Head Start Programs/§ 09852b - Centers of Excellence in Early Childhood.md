@@ -2,7 +2,7 @@
 
 #### (a) Definition
 
-In this section, the term “center of excellence” means a Center of Excellence in Early Childhood designated under subsection (b).
+In this section, the term "center of excellence" means a Center of Excellence in Early Childhood designated under subsection (b).
 
 #### (b) Designation and bonus grants
 
@@ -62,7 +62,7 @@ The Secretary shall, subject to the availability of funds under this section, es
 
 #### (3) Priority
 
-&emsp;In making bonus grant determinations under this section, the Secretary shall give priority to agencies that, through their applications, demonstrate that their programs are of exceptional quality and would serve as exemplary models for programs in the same geographic region. The Secretary may also consider the populations served by the applicants, such as agencies that serve large proportions of families of limited English proficient children orother underserved populations, and may make bonus grants to agencies that do an exceptional job meeting the needs of children in such populations.
+&emsp;In making bonus grant determinations under this section, the Secretary shall give priority to agencies that, through their applications, demonstrate that their programs are of exceptional quality and would serve as exemplary models for programs in the same geographic region. The Secretary may also consider the populations served by the applicants, such as agencies that serve large proportions of families of limited English proficient children or other underserved populations, and may make bonus grants to agencies that do an exceptional job meeting the needs of children in such populations.
 
 #### (4) Term of designation
 
@@ -98,9 +98,9 @@ A center of excellence that receives a bonus grant under subsection (b)—
 
 &emsp;&emsp;(C) to further coordinate early childhood education and development programs and services and social services available in the community served by the center for at-risk children (birth through age 8), their families, and pregnant women;
 
-&emsp;&emsp;(D) to provide professional development for Head Start teachers and staff, including joint training for Head Start teachers and staff, child care providers, public and private preschool and elementary school teachers, and other providers of early childhood education and development programs;
+&emsp;&emsp;(D) to provide professional development for Head Start teachers and staff, including joint training for Head Start teachers andstaff, child care providers, public and private preschool and elementary school teachers, and other providers of early childhood education and development programs;
 
-&emsp;&emsp;(E) to provide effective transitions between Head Start programs and elementary schools and to facilitate ongoing communication between Head Start and elementary school teachers concerning children receiving Head Start services to improve the teachers’ ability to work effectively with low-income, at-risk children and their families;
+&emsp;&emsp;(E) to provide effective transitions between Head Start programs and elementary schools and to facilitate ongoing communication between Head Start and elementary school teachers concerning children receiving Head Start services to improve the teachers' ability to work effectively with low-income, at-risk children and their families;
 
 &emsp;&emsp;(F) to develop or maintain partnerships with institutions of higher education and nonprofit organizations, including community-based organizations, that recruit, train, place, and support college students to serve as mentors and reading partners to preschool children in Head Start programs; and
 

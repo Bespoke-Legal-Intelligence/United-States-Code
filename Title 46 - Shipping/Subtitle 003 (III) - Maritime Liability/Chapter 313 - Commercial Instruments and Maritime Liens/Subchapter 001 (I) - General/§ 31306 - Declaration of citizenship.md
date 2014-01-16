@@ -30,11 +30,11 @@ Section 31306(d) provides for a criminal penalty for a violation of this section
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–281 struck out “of Transportation” after “provided by the Secretary”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–281 struck out "of Transportation" after "provided by the Secretary".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–304 substituted “section 56102 or 56103 of this title” for “section 9 or 37 of the Shipping Act, 1916 (46 App. U.S.C. 808, 835)”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–304 substituted "section 56102 or 56103 of this title" for "section 9 or 37 of the Shipping Act, 1916 (46 App. U.S.C. 808, 835)".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–225, §303(1)(A), substituted “Except as provided by the Secretary of Transportation, when” for “When” and “Secretary for filing” for “Secretary of Transportation for filing”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–225, §303(1)(A), substituted "Except as provided by the Secretary of Transportation, when" for "When" and "Secretary for filing" for "Secretary of Transportation for filing".
 
-Subsec. (c). Pub. L. 101–225, §303(1)(B), substituted “Except as provided by the Secretary, an” for “An”.
+Subsec. (c). Pub. L. 101–225, §303(1)(B), substituted "Except as provided by the Secretary, an" for "An".
 

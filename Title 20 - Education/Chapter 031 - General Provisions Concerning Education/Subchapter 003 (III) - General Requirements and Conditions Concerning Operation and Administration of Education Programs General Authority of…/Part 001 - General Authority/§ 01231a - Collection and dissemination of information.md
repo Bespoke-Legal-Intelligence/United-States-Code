@@ -20,9 +20,9 @@ Another prior section 431 of Pub. L. 90–247 was renumbered section 441, and wa
 
 <b>1994</b>—Pub. L. 103–382, §242, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to duty to collect and disseminate information about applicable programs and to submit an annual report to Congress and authorizing use of contract to carry out this section.
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–482 substituted “June 30” for “March 31”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–482 substituted "June 30" for "March 31".
 
-<b>1972</b>—Subsec. (a)(4). Pub. L. 92–318, §301(b)(2)(B), substituted “(as set forth in section 1221c(a) of this title)” for “(as set forth in section 1 of this title)”.
+<b>1972</b>—Subsec. (a)(4). Pub. L. 92–318, §301(b)(2)(B), substituted "(as set forth in section 1221c(a) of this title)" for "(as set forth in section 1 of this title)".
 
 #### Effective Date of 1976 Amendment
 

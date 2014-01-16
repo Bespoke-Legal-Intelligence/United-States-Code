@@ -100,11 +100,11 @@ For purposes of this section and section 881—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “original issue discount obligation” means any bond or other evidence of indebtedness having original issue discount (within the meaning of section 1273).
+&emsp;&emsp;Except as provided in subparagraph (B), the term "original issue discount obligation" means any bond or other evidence of indebtedness having original issue discount (within the meaning of section 1273).
 
 #### (B) Exceptions
 
-&emsp;&emsp;The term “original issue discount obligation” shall not include—
+&emsp;&emsp;The term "original issue discount obligation" shall not include—
 
 #### (i) Certain short-term obligations
 
@@ -134,7 +134,7 @@ For purposes of this section and section 881—
 
 #### (2) Portfolio interest
 
-&emsp;For purposes of this subsection, the term “portfolio interest” means any interest (including original issue discount) which—
+&emsp;For purposes of this subsection, the term "portfolio interest" means any interest (including original issue discount) which—
 
 &emsp;&emsp;(A) would be subject to tax under subsection (a) but for this subsection, and
 
@@ -154,11 +154,11 @@ For purposes of this section and section 881—
 
 #### (A) In general
 
-&emsp;&emsp;The term “portfolio interest” shall not include any interest described in paragraph (2) which is received by a 10-percent shareholder.
+&emsp;&emsp;The term "portfolio interest" shall not include any interest described in paragraph (2) which is received by a 10-percent shareholder.
 
 #### (B) 10-Percent shareholder
 
-&emsp;&emsp;The term “10-percent shareholder” means—
+&emsp;&emsp;The term "10-percent shareholder" means—
 
 &emsp;&emsp;&emsp;(i) in the case of an obligation issued by a corporation, any person who owns 10 percent or more of the total combined voting power of all classes of stock of such corporation entitled to vote, or
 
@@ -186,7 +186,7 @@ For purposes of this section and section 881—
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this paragraph, the term “portfolio interest” shall not include—
+&emsp;&emsp;Except as otherwise provided in this paragraph, the term "portfolio interest" shall not include—
 
 &emsp;&emsp;&emsp;(i) any interest if the amount of such interest is determined by reference to—
 
@@ -202,7 +202,7 @@ For purposes of this section and section 881—
 
 #### (B) Related person
 
-&emsp;&emsp;The term “related person” means any person who is related to the debtor within the meaning of section 267(b) or 707(b)(1), or who is a party to any arrangement undertaken for a purpose of avoiding the application of this paragraph.
+&emsp;&emsp;The term "related person" means any person who is related to the debtor within the meaning of section 267(b) or 707(b)(1), or who is a party to any arrangement undertaken for a purpose of avoiding the application of this paragraph.
 
 #### (C) Exceptions
 
@@ -240,7 +240,7 @@ For purposes of this section and section 881—
 
 &emsp;&emsp;(A) the beneficial owner of such obligation, or
 
-&emsp;&emsp;(B) a securities clearing organization, a bank, or other financial institution that holds customers’ securities in the ordinary course of its trade or business.
+&emsp;&emsp;(B) a securities clearing organization, a bank, or other financial institution that holds customers' securities in the ordinary course of its trade or business.
 
 > &emsp;The preceding sentence shall not apply to any statement with respect to payment of interest on any obligation by any person if, at least one month before such payment, the Secretary has published a determination that any statement from such person (or any class including such person) does not meet the requirements of this paragraph.
 
@@ -260,7 +260,7 @@ For purposes of this section and section 881—
 
 #### (7) Registered form
 
-&emsp;For purposes of this subsection, the term “registered form” has the same meaning given such term by section 163(f).
+&emsp;For purposes of this subsection, the term "registered form" has the same meaning given such term by section 163(f).
 
 #### (i) Tax not to apply to certain interest and dividends
 
@@ -280,13 +280,13 @@ For purposes of this section and section 881—
 
 &emsp;&emsp;&emsp;(ii) any interest paid by an existing 80/20 company.
 
-&emsp;&emsp;(C) Income derived by a foreign central bank of issue from bankers’ acceptances.
+&emsp;&emsp;(C) Income derived by a foreign central bank of issue from bankers' acceptances.
 
 &emsp;&emsp;(D) Dividends paid by a foreign corporation which are treated under section 861(a)(2)(B) as income from sources within the United States.
 
 #### (3) Deposits
 
-&emsp;For purposes of paragraph (2), the term “deposits” means amounts which are—
+&emsp;For purposes of paragraph (2), the term "deposits" means amounts which are—
 
 &emsp;&emsp;(A) deposits with persons carrying on the banking business,
 
@@ -342,7 +342,7 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 #### (II) Special rule for noncalendar year taxpayers
 
-&emsp;&emsp;&emsp;&emsp;In the case of any taxable year which does not begin and end in the same calendar year, if the post-December reported amount equals or exceeds the excess reported amount for such taxable year, subclause (I) shall be applied by substituting “post-December reported amount” for “aggregate reported amount” and no excess reported amount shall be allocated to any dividend paid on or before December 31 of such taxable year.
+&emsp;&emsp;&emsp;&emsp;In the case of any taxable year which does not begin and end in the same calendar year, if the post-December reported amount equals or exceeds the excess reported amount for such taxable year, subclause (I) shall be applied by substituting "post-December reported amount" for "aggregate reported amount" and no excess reported amount shall be allocated to any dividend paid on or before December 31 of such taxable year.
 
 #### (iv) Definitions
 
@@ -350,31 +350,31 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 #### (I) Reported interest related dividend amount
 
-&emsp;&emsp;&emsp;&emsp;The term “reported interest related dividend amount” means the amount reported to its shareholders under clause (i) as an interest related dividend.
+&emsp;&emsp;&emsp;&emsp;The term "reported interest related dividend amount" means the amount reported to its shareholders under clause (i) as an interest related dividend.
 
 #### (II) Excess reported amount
 
-&emsp;&emsp;&emsp;&emsp;The term “excess reported amount” means the excess of the aggregate reported amount over the qualified net interest income of the company for the taxable year.
+&emsp;&emsp;&emsp;&emsp;The term "excess reported amount" means the excess of the aggregate reported amount over the qualified net interest income of the company for the taxable year.
 
 #### (III) Aggregate reported amount
 
-&emsp;&emsp;&emsp;&emsp;The term “aggregate reported amount” means the aggregate amount of dividends reported by the company under clause (i) as interest related dividends for the taxable year (including interest related dividends paid after the close of the taxable year described in section 855).
+&emsp;&emsp;&emsp;&emsp;The term "aggregate reported amount" means the aggregate amount of dividends reported by the company under clause (i) as interest related dividends for the taxable year (including interest related dividends paid after the close of the taxable year described in section 855).
 
 #### (IV) Post-December reported amount
 
-&emsp;&emsp;&emsp;&emsp;The term “post-December reported amount” means the aggregate reported amount determined by taking into account only dividends paid after December 31 of the taxable year.
+&emsp;&emsp;&emsp;&emsp;The term "post-December reported amount" means the aggregate reported amount determined by taking into account only dividends paid after December 31 of the taxable year.
 
 #### (v) Termination
 
-&emsp;&emsp;&emsp;The term “interest related dividend” shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2013.
+&emsp;&emsp;&emsp;The term "interest related dividend" shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2013.
 
 #### (D) Qualified net interest income
 
-&emsp;&emsp;For purposes of subparagraph (C), the term “qualified net interest income” means the qualified interest income of the regulated investment company reduced by the deductions properly allocable to such income.
+&emsp;&emsp;For purposes of subparagraph (C), the term "qualified net interest income" means the qualified interest income of the regulated investment company reduced by the deductions properly allocable to such income.
 
 #### (E) Qualified interest income
 
-&emsp;&emsp;For purposes of subparagraph (D), the term “qualified interest income” means the sum of the following amounts derived by the regulated investment company from sources within the United States:
+&emsp;&emsp;For purposes of subparagraph (D), the term "qualified interest income" means the sum of the following amounts derived by the regulated investment company from sources within the United States:
 
 &emsp;&emsp;&emsp;(i) Any amount includible in gross income as original issue discount (within the meaning of section 1273) on an obligation payable 183 days or less from the date of original issue (without regard to the period held by the company).
 
@@ -390,7 +390,7 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 #### (F) 10-percent shareholder
 
-&emsp;&emsp;For purposes of this paragraph, the term “10-percent shareholder” has the meaning given such term by subsection (h)(3)(B).
+&emsp;&emsp;For purposes of this paragraph, the term "10-percent shareholder" has the meaning given such term by subsection (h)(3)(B).
 
 #### (2) Short-term capital gain dividends
 
@@ -408,11 +408,11 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “short-term capital gain dividend” means any dividend, or part thereof, which is reported by the company as a short-term capital gain dividend in written statements furnished to its shareholders.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term "short-term capital gain dividend" means any dividend, or part thereof, which is reported by the company as a short-term capital gain dividend in written statements furnished to its shareholders.
 
 #### (ii) Excess reported amounts
 
-&emsp;&emsp;&emsp;If the aggregate reported amount with respect to the company for any taxable year exceeds the qualified short-term gain of the company for such taxable year, the term “short-term capital gain dividend” means the excess of—
+&emsp;&emsp;&emsp;If the aggregate reported amount with respect to the company for any taxable year exceeds the qualified short-term gain of the company for such taxable year, the term "short-term capital gain dividend" means the excess of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the reported short-term capital gain dividend amount, over
 
@@ -426,7 +426,7 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 #### (II) Special rule for noncalendar year taxpayers
 
-&emsp;&emsp;&emsp;&emsp;In the case of any taxable year which does not begin and end in the same calendar year, if the post-December reported amount equals or exceeds the excess reported amount for such taxable year, subclause (I) shall be applied by substituting “post-December reported amount” for “aggregate reported amount” and no excess reported amount shall be allocated to any dividend paid on or before December 31 of such taxable year.
+&emsp;&emsp;&emsp;&emsp;In the case of any taxable year which does not begin and end in the same calendar year, if the post-December reported amount equals or exceeds the excess reported amount for such taxable year, subclause (I) shall be applied by substituting "post-December reported amount" for "aggregate reported amount" and no excess reported amount shall be allocated to any dividend paid on or before December 31 of such taxable year.
 
 #### (iv) Definitions
 
@@ -434,27 +434,27 @@ No tax shall be imposed under paragraph (1)(A) of subsection (a) on the proceeds
 
 #### (I) Reported short-term capital gain dividend amount
 
-&emsp;&emsp;&emsp;&emsp;The term “reported short-term capital gain dividend amount” means the amount reported to its shareholders under clause (i) as a short-term capital gain dividend.
+&emsp;&emsp;&emsp;&emsp;The term "reported short-term capital gain dividend amount" means the amount reported to its shareholders under clause (i) as a short-term capital gain dividend.
 
 #### (II) Excess reported amount
 
-&emsp;&emsp;&emsp;&emsp;The term “excess reported amount” means the excess of the aggregate reported amount over the qualified short-term gain of the company for the taxable year.
+&emsp;&emsp;&emsp;&emsp;The term "excess reported amount" means the excess of the aggregate reported amount over the qualified short-term gain of the company for the taxable year.
 
 #### (III) Aggregate reported amount
 
-&emsp;&emsp;&emsp;&emsp;The term “aggregate reported amount” means the aggregate amount of dividends reported by the company under clause (i) as short-term capital gain dividends for the taxable year (including short-term capital gain dividends paid after the close of the taxable year described in section 855).
+&emsp;&emsp;&emsp;&emsp;The term "aggregate reported amount" means the aggregate amount of dividends reported by the company under clause (i) as short-term capital gain dividends for the taxable year (including short-term capital gain dividends paid after the close of the taxable year described in section 855).
 
 #### (IV) Post-December reported amount
 
-&emsp;&emsp;&emsp;&emsp;The term “post-December reported amount” means the aggregate reported amount determined by taking into account only dividends paid after December 31 of the taxable year.
+&emsp;&emsp;&emsp;&emsp;The term "post-December reported amount" means the aggregate reported amount determined by taking into account only dividends paid after December 31 of the taxable year.
 
 #### (v) Termination
 
-&emsp;&emsp;&emsp;The term “short-term capital gain dividend” shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2013.
+&emsp;&emsp;&emsp;The term "short-term capital gain dividend" shall not include any dividend with respect to any taxable year of the company beginning after December 31, 2013.
 
 #### (D) Qualified short-term gain
 
-&emsp;&emsp;For purposes of subparagraph (C), the term “qualified short-term gain” means the excess of the net short-term capital gain of the regulated investment company for the taxable year over the net long-term capital loss (if any) of such company for such taxable year. For purposes of this subparagraph, the net short-term capital gain of the regulated investment company shall be computed by treating any short-term capital gain dividend includible in gross income with respect to stock of another regulated investment company as a short-term capital gain.
+&emsp;&emsp;For purposes of subparagraph (C), the term "qualified short-term gain" means the excess of the net short-term capital gain of the regulated investment company for the taxable year over the net long-term capital loss (if any) of such company for such taxable year. For purposes of this subparagraph, the net short-term capital gain of the regulated investment company shall be computed by treating any short-term capital gain dividend includible in gross income with respect to stock of another regulated investment company as a short-term capital gain.
 
 #### (E) Certain distributions
 
@@ -472,7 +472,7 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 #### (A) In general
 
-&emsp;&emsp;The term “existing 80/20 company” means any corporation if—
+&emsp;&emsp;The term "existing 80/20 company" means any corporation if—
 
 &emsp;&emsp;&emsp;(i) such corporation met the 80-percent foreign business requirements of section 861(c)(1) (as in effect before the date of the enactment of this subsection) for such corporation's last taxable year beginning before January 1, 2011,
 
@@ -488,7 +488,7 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 #### (ii) Active foreign business income
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “active foreign business income” means gross income which—
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "active foreign business income" means gross income which—
 
 &emsp;&emsp;&emsp;&emsp;(I) is derived from sources outside the United States (as determined under this subchapter), and
 
@@ -496,7 +496,7 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 #### (iii) Testing period
 
-&emsp;&emsp;&emsp;For purposes of this subsection, the term “testing period” means the 3-year period ending with the close of the taxable year of the corporation preceding the payment (or such part of such period as may be applicable). If the corporation has no gross income for such 3-year period (or part thereof), the testing period shall be the taxable year in which the payment is made.
+&emsp;&emsp;&emsp;For purposes of this subsection, the term "testing period" means the 3-year period ending with the close of the taxable year of the corporation preceding the payment (or such part of such period as may be applicable). If the corporation has no gross income for such 3-year period (or part thereof), the testing period shall be the taxable year in which the payment is made.
 
 #### (iv) Transition rule
 
@@ -514,7 +514,7 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 #### (2) Active foreign business percentage
 
-&emsp;Except as provided in paragraph (1)(B)(iv), the term “active foreign business percentage” means, with respect to any existing 80/20 company, the percentage which—
+&emsp;Except as provided in paragraph (1)(B)(iv), the term "active foreign business percentage" means, with respect to any existing 80/20 company, the percentage which—
 
 &emsp;&emsp;(A) the active foreign business income of such company for the testing period, is of
 
@@ -530,7 +530,7 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 #### (B) Subsidiaries
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “subsidiary” means any corporation in which the corporation referred to in subparagraph (A) owns (directly or indirectly) stock meeting the requirements of section 1504(a)(2) (determined by substituting “50 percent” for “80 percent” each place it appears and without regard to section 1504(b)(3)).
+&emsp;&emsp;For purposes of subparagraph (A), the term "subsidiary" means any corporation in which the corporation referred to in subparagraph (A) owns (directly or indirectly) stock meeting the requirements of section 1504(a)(2) (determined by substituting "50 percent" for "80 percent" each place it appears and without regard to section 1504(b)(3)).
 
 #### (4) Regulations
 
@@ -544,7 +544,7 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 #### (2) Dividend equivalent
 
-&emsp;For purposes of this subsection, the term “dividend equivalent” means—
+&emsp;For purposes of this subsection, the term "dividend equivalent" means—
 
 &emsp;&emsp;(A) any substitute dividend made pursuant to a securities lending or a sale-repurchase transaction that (directly or indirectly) is contingent upon, or determined by reference to, the payment of a dividend from sources within the United States,
 
@@ -554,7 +554,7 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 #### (3) Specified notional principal contract
 
-&emsp;For purposes of this subsection, the term “specified notional principal contract” means—
+&emsp;For purposes of this subsection, the term "specified notional principal contract" means—
 
 &emsp;&emsp;(A) any notional principal contract if—
 
@@ -576,19 +576,19 @@ For purposes of this subsection and subsection (i)(2)(B)—
 
 #### (A) Long party
 
-&emsp;&emsp;The term “long party” means, with respect to any underlying security of any notional principal contract, any party to the contract which is entitled to receive any payment pursuant to such contract which is contingent upon, or determined by reference to, the payment of a dividend from sources within the United States with respect to such underlying security.
+&emsp;&emsp;The term "long party" means, with respect to any underlying security of any notional principal contract, any party to the contract which is entitled to receive any payment pursuant to such contract which is contingent upon, or determined by reference to, the payment of a dividend from sources within the United States with respect to such underlying security.
 
 #### (B) Short party
 
-&emsp;&emsp;The term “short party” means, with respect to any underlying security of any notional principal contract, any party to the contract which is not a long party with respect to such underlying security.
+&emsp;&emsp;The term "short party" means, with respect to any underlying security of any notional principal contract, any party to the contract which is not a long party with respect to such underlying security.
 
 #### (C) Underlying security
 
-&emsp;&emsp;The term “underlying security” means, with respect to any notional principal contract, the security with respect to which the dividend referred to in paragraph (2)(B) is paid. For purposes of this paragraph, any index or fixed basket of securities shall be treated as a single security.
+&emsp;&emsp;The term "underlying security" means, with respect to any notional principal contract, the security with respect to which the dividend referred to in paragraph (2)(B) is paid. For purposes of this paragraph, any index or fixed basket of securities shall be treated as a single security.
 
 #### (5) Payments determined on gross basis
 
-&emsp;For purposes of this subsection, the term “payment” includes any gross amount which is used in computing any net amount which is transferred to or from the taxpayer.
+&emsp;For purposes of this subsection, the term "payment" includes any gross amount which is used in computing any net amount which is transferred to or from the taxpayer.
 
 #### (6) Prevention of over-withholding
 
@@ -630,33 +630,33 @@ The date of the enactment of this subsection, referred to in subsec. (m)(3)(B), 
 
 #### Amendments
 
-<b>2013</b>—Subsec. (k)(1)(C)(v), (2)(C)(v). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”.
+<b>2013</b>—Subsec. (k)(1)(C)(v), (2)(C)(v). Pub. L. 112–240 substituted "December 31, 2013" for "December 31, 2011".
 
 <b>2010</b>—Subsec. (h)(2). Pub. L. 111–147, §502(b)(1), amended par. (2) generally. Prior to amendment, par. (2) defined portfolio interest to also include interest on certain obligations not in registered form.
 
-Subsec. (h)(3)(A). Pub. L. 111–147, §502(b)(2)(A), struck out “subparagraph (A) or (B) of” before “paragraph (2)”.
+Subsec. (h)(3)(A). Pub. L. 111–147, §502(b)(2)(A), struck out "subparagraph (A) or (B) of" before "paragraph (2)".
 
-Subsec. (i)(2)(B). Pub. L. 111–226, §217(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “A percentage of any dividend paid by a domestic corporation meeting the 80-percent foreign business requirements of section 861(c)(1) equal to the percentage determined for purposes of section 861(c)(2)(A).”
+Subsec. (i)(2)(B). Pub. L. 111–226, §217(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "A percentage of any dividend paid by a domestic corporation meeting the 80-percent foreign business requirements of section 861(c)(1) equal to the percentage determined for purposes of section 861(c)(2)(A)."
 
-Subsec. (k)(1)(A). Pub. L. 111–325, §302(b)(2), inserted “which meets the requirements of section 852(a) for the taxable year with respect to which the dividend is paid” before period at end.
+Subsec. (k)(1)(A). Pub. L. 111–325, §302(b)(2), inserted "which meets the requirements of section 852(a) for the taxable year with respect to which the dividend is paid" before period at end.
 
-Subsec. (k)(1)(C). Pub. L. 111–325, §301(f)(1), substituted introductory provisions, cls. (i) to (iv), and cl. (v) heading and “The term ‘interest related dividend’ shall not include any dividend with respect to” for “For purposes of this paragraph, the term ‘interest-related dividend’ means any dividend (or part thereof) which is designated by the regulated investment company as an interest-related dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year. If the aggregate amount so designated with respect to a taxable year of the company (including amounts so designated with respect to dividends paid after the close of the taxable year described in section 855) is greater than the qualified net interest income of the company for such taxable year, the portion of each distribution which shall be an interest-related dividend shall be only that portion of the amounts so designated which such qualified net interest income bears to the aggregate amount so designated. Such term shall not include any dividend with respect to”.
+Subsec. (k)(1)(C). Pub. L. 111–325, §301(f)(1), substituted introductory provisions, cls. (i) to (iv), and cl. (v) heading and "The term 'interest related dividend' shall not include any dividend with respect to" for "For purposes of this paragraph, the term 'interest-related dividend' means any dividend (or part thereof) which is designated by the regulated investment company as an interest-related dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year. If the aggregate amount so designated with respect to a taxable year of the company (including amounts so designated with respect to dividends paid after the close of the taxable year described in section 855) is greater than the qualified net interest income of the company for such taxable year, the portion of each distribution which shall be an interest-related dividend shall be only that portion of the amounts so designated which such qualified net interest income bears to the aggregate amount so designated. Such term shall not include any dividend with respect to".
 
-Pub. L. 111–312, §748(a), substituted “December 31, 2011” for “December 31, 2009”.
+Pub. L. 111–312, §748(a), substituted "December 31, 2011" for "December 31, 2009".
 
-Subsec. (k)(2)(A). Pub. L. 111–325, §302(b)(2), inserted “which meets the requirements of section 852(a) for the taxable year with respect to which the dividend is paid” before period at end.
+Subsec. (k)(2)(A). Pub. L. 111–325, §302(b)(2), inserted "which meets the requirements of section 852(a) for the taxable year with respect to which the dividend is paid" before period at end.
 
-Subsec. (k)(2)(C). Pub. L. 111–325, §301(f)(2), substituted introductory provisions, cls. (i) to (iv), and cl. (v) heading and “The term ‘short-term capital gain dividend’ shall not include any dividend with respect to” for “For purposes of this paragraph, the term ‘short-term capital gain dividend’ means any dividend (or part thereof) which is designated by the regulated investment company as a short-term capital gain dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year. If the aggregate amount so designated with respect to a taxable year of the company (including amounts so designated with respect to dividends paid after the close of the taxable year described in section 855) is greater than the qualified short-term gain of the company for such taxable year, the portion of each distribution which shall be a short-term capital gain dividend shall be only that portion of the amounts so designated which such qualified short-term gain bears to the aggregate amount so designated. Such term shall not include any dividend with respect to”.
+Subsec. (k)(2)(C). Pub. L. 111–325, §301(f)(2), substituted introductory provisions, cls. (i) to (iv), and cl. (v) heading and "The term 'short-term capital gain dividend' shall not include any dividend with respect to" for "For purposes of this paragraph, the term 'short-term capital gain dividend' means any dividend (or part thereof) which is designated by the regulated investment company as a short-term capital gain dividend in a written notice mailed to its shareholders not later than 60 days after the close of its taxable year. If the aggregate amount so designated with respect to a taxable year of the company (including amounts so designated with respect to dividends paid after the close of the taxable year described in section 855) is greater than the qualified short-term gain of the company for such taxable year, the portion of each distribution which shall be a short-term capital gain dividend shall be only that portion of the amounts so designated which such qualified short-term gain bears to the aggregate amount so designated. Such term shall not include any dividend with respect to".
 
-Pub. L. 111–312, §748(a), substituted “December 31, 2011” for “December 31, 2009”.
+Pub. L. 111–312, §748(a), substituted "December 31, 2011" for "December 31, 2009".
 
-Subsec. (k)(2)(D). Pub. L. 111–325, §308(b)(3), substituted “For purposes of this subparagraph, the net short-term capital gain of the regulated investment company shall be computed by treating any short-term capital gain dividend includible in gross income with respect to stock of another regulated investment company as a short-term capital gain.” for “For purposes of this subparagraph—
+Subsec. (k)(2)(D). Pub. L. 111–325, §308(b)(3), substituted "For purposes of this subparagraph, the net short-term capital gain of the regulated investment company shall be computed by treating any short-term capital gain dividend includible in gross income with respect to stock of another regulated investment company as a short-term capital gain." for "For purposes of this subparagraph—
 
-&emsp;“(i) the net short-term capital gain of the regulated investment company shall be computed by treating any short-term capital gain dividend includible in gross income with respect to stock of another regulated investment company as a short-term capital gain, and
+&emsp;"(i) the net short-term capital gain of the regulated investment company shall be computed by treating any short-term capital gain dividend includible in gross income with respect to stock of another regulated investment company as a short-term capital gain, and
 
-&emsp;“(ii) the excess of the net short-term capital gain for a taxable year over the net long-term capital lossfor a taxable year (to which an election under section 4982(e)(4) does not apply) shall be determined without regard to any net capital loss or net short-term capital loss attributable to transactions after October 31 of such year, and any such net capital loss or net short-term capital loss shall be treated as arising on the 1st day of the next taxable year.
+&emsp;"(ii) the excess of the net short-term capital gain for a taxable year over the net long-term capital lossfor a taxable year (to which an election under section 4982(e)(4) does not apply) shall be determined without regard to any net capital loss or net short-term capital loss attributable to transactions after October 31 of such year, and any such net capital loss or net short-term capital loss shall be treated as arising on the 1st day of the next taxable year.
 
-> To the extent provided in regulations, clause (ii) shall apply also for purposes of computing the taxable income of the regulated investment company.”
+> To the extent provided in regulations, clause (ii) shall apply also for purposes of computing the taxable income of the regulated investment company."
 
 Subsec. (l). Pub. L. 111–226, §217(b)(2), added subsec. (l). Former subsec. (l) redesignated (m).
 
@@ -668,7 +668,7 @@ Pub. L. 111–147, §541(a), redesignated subsec. (l) as (m).
 
 Subsec. (n). Pub. L. 111–226, §217(b)(2), redesignated subsec. (m) as (n).
 
-<b>2008</b>—Subsec. (k)(1)(C), (2)(C). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
+<b>2008</b>—Subsec. (k)(1)(C), (2)(C). Pub. L. 110–343 substituted "December 31, 2009" for "December 31, 2007".
 
 <b>2006</b>—Subsec. (k)(2)(E). Pub. L. 109–222 added subpar. (E).
 
@@ -676,63 +676,63 @@ Subsec. (n). Pub. L. 111–226, §217(b)(2), redesignated subsec. (m) as (n).
 
 Subsecs. (k), (l). Pub. L. 108–357, §411(a)(1), added subsec. (k) and redesignated former subsec. (k) as (l).
 
-<b>2000</b>—Subsec. (f)(2)(B). Pub. L. 106–554 inserted opening parenthesis before “19 U.S.C.”.
+<b>2000</b>—Subsec. (f)(2)(B). Pub. L. 106–554 inserted opening parenthesis before "19 U.S.C.".
 
-<b>1999</b>—Subsec. (h)(4)(C)(iv). Pub. L. 106–170 substituted “to manage” for “to reduce”.
+<b>1999</b>—Subsec. (h)(4)(C)(iv). Pub. L. 106–170 substituted "to manage" for "to reduce".
 
-<b>1998</b>—Subsec. (f)(2)(B). Pub. L. 105–206 substituted “19 U.S.C. 2461 et seq.)” for “(19 U.S.C. 2462)”.
+<b>1998</b>—Subsec. (f)(2)(B). Pub. L. 105–206 substituted "19 U.S.C. 2461 et seq.)" for "(19 U.S.C. 2462)".
 
-<b>1996</b>—Subsec. (b)(1). Pub. L. 104–188, §1401(b)(10), substituted “section 1 or 55” for “section 1, 55, or 402(d)(1)”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–188, §1401(b)(10), substituted "section 1 or 55" for "section 1, 55, or 402(d)(1)".
 
-Subsec. (f)(2)(B). Pub. L. 104–188, §1954(b)(1), substituted “under title V” for “within the meaning of section 502”.
+Subsec. (f)(2)(B). Pub. L. 104–188, §1954(b)(1), substituted "under title V" for "within the meaning of section 502".
 
-<b>1994</b>—Subsec. (a)(3)(A). Pub. L. 103–465 substituted “85 percent” for “one-half”.
+<b>1994</b>—Subsec. (a)(3)(A). Pub. L. 103–465 substituted "85 percent" for "one-half".
 
-Subsec. (c). Pub. L. 103–296 substituted “(J), (M), or (Q)” for “(J), or (M)” in two places.
+Subsec. (c). Pub. L. 103–296 substituted "(J), (M), or (Q)" for "(J), or (M)" in two places.
 
-<b>1993</b>—Subsec. (a)(2). Pub. L. 103–66, §13113(d)(5), inserted “such gains and losses shall be determined without regard to section 1202 and” after “except that” in second sentence.
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–66, §13113(d)(5), inserted "such gains and losses shall be determined without regard to section 1202 and" after "except that" in second sentence.
 
-Subsec. (h)(2)(B)(ii). Pub. L. 103–66, §13237(c)(1), substituted “paragraph (5)” for “paragraph (4)”.
+Subsec. (h)(2)(B)(ii). Pub. L. 103–66, §13237(c)(1), substituted "paragraph (5)" for "paragraph (4)".
 
 Subsec. (h)(4) to (7). Pub. L. 103–66, §13237(a)(1), added par. (4) and redesignated former pars. (4) to (6) as (5) to (7), respectively.
 
-<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–318, §521(b)(28), struck out “402(a)(2), 403(a)(2), or” before “631(b)”.
+<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–318, §521(b)(28), struck out "402(a)(2), 403(a)(2), or" before "631(b)".
 
-Subsec. (b)(1). Pub. L. 102–318, §521(b)(29), substituted “402(d)(1)” for “402(e)(1)”.
+Subsec. (b)(1). Pub. L. 102–318, §521(b)(29), substituted "402(d)(1)" for "402(e)(1)".
 
-Subsec. (k)(1). Pub. L. 102–318, §521(b)(30), substituted “402(e)(2)” for “402(a)(4)”.
+Subsec. (k)(1). Pub. L. 102–318, §521(b)(30), substituted "402(e)(2)" for "402(a)(4)".
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–647, §1001(d)(2)(B), substituted “the second sentence of section 1441(b)” for “section 1441(b)(1) or (2)”, and “(F), (J), or (M)” for “(F) or (J)” in two places.
+<b>1988</b>—Subsec. (c). Pub. L. 100–647, §1001(d)(2)(B), substituted "the second sentence of section 1441(b)" for "section 1441(b)(1) or (2)", and "(F), (J), or (M)" for "(F) or (J)" in two places.
 
 Subsecs. (j), (k). Pub. L. 100–647, §6134(a)(1), added subsec. (j) and redesignated former subsec. (j) as (k).
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1810(d)(3)(A), substituted “subsection (h)” for “subsection (i)” in introductory provisions.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–514, §1810(d)(3)(A), substituted "subsection (h)" for "subsection (i)" in introductory provisions.
 
-Subsec. (a)(1)(C). Pub. L. 99–514, §1810(e)(2)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “in the case of—
+Subsec. (a)(1)(C). Pub. L. 99–514, §1810(e)(2)(A), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "in the case of—
 
-&emsp;“(i) a sale or exchange of an original issue discount obligation, the amount of any gain not in excess of the original issue discount accruing while such obligation was held by the nonresident alien individual (to the extent such discount was not theretofore taken into account under clause (ii)), and
+&emsp;"(i) a sale or exchange of an original issue discount obligation, the amount of any gain not in excess of the original issue discount accruing while such obligation was held by the nonresident alien individual (to the extent such discount was not theretofore taken into account under clause (ii)), and
 
-&emsp;“(ii) the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this clause only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by subparagraph (A) thereon), and”.
+&emsp;"(ii) the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this clause only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by subparagraph (A) thereon), and".
 
-Subsec. (a)(1)(D). Pub. L. 99–514, §1211(b)(4), struck out “or from payments which are treated as being so contingent under subsection (e),” after “sold or exchanged,”.
+Subsec. (a)(1)(D). Pub. L. 99–514, §1211(b)(4), struck out "or from payments which are treated as being so contingent under subsection (e)," after "sold or exchanged,".
 
-Subsec. (a)(2). Pub. L. 99–514, §301(b)(9), struck out “such gains and losses shall be determined without regard to section 1202 (relating to deduction for capital gains) and” after “United States, except that”.
+Subsec. (a)(2). Pub. L. 99–514, §301(b)(9), struck out "such gains and losses shall be determined without regard to section 1202 (relating to deduction for capital gains) and" after "United States, except that".
 
-Subsec. (a)(3). Pub. L. 99–272 inserted at end “For treatment of certain citizens of possessions of the United States, see section 932(c).”
+Subsec. (a)(3). Pub. L. 99–272 inserted at end "For treatment of certain citizens of possessions of the United States, see section 932(c)."
 
 Subsec. (e). Pub. L. 99–514, §1211(b)(5), struck out subsec. (e) which related to gains from sale or exchange of certain intangible property, par. (1) treating payments as contingent on use, etc., and par. (2) containing source rule.
 
-Subsec. (h)(2). Pub. L. 99–514, §1810(d)(1)(A), (3)(B), inserted “which would be subject to tax under subsection (a) but for this subsection and” in introductory provisions and substituted “receives a statement” for “has received a statement” in subpar. (B)(ii).
+Subsec. (h)(2). Pub. L. 99–514, §1810(d)(1)(A), (3)(B), inserted "which would be subject to tax under subsection (a) but for this subsection and" in introductory provisions and substituted "receives a statement" for "has received a statement" in subpar. (B)(ii).
 
 Subsec. (h)(3)(C)(ii), (iii). Pub. L. 99–514, §1810(d)(2), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
 Subsecs. (i), (j). Pub. L. 99–514, §1214(c)(1), added subsec. (i) and redesignated former subsec. (i) as (j).
 
-<b>1984</b>—Subsec. (a)(1). Pub. L. 98–369, §127(a)(2), substituted “Except as provided in subsection (i), there” for “There”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–369, §127(a)(2), substituted "Except as provided in subsection (i), there" for "There".
 
-Subsec. (a)(1)(A). Pub. L. 98–369, §42(a)(9), substituted “section 1273” for “section 1232(b)”.
+Subsec. (a)(1)(A). Pub. L. 98–369, §42(a)(9), substituted "section 1273" for "section 1232(b)".
 
-Subsec. (a)(1)(C). Pub. L. 98–369, §128(a)(1), amended subpar. (C) generally, substituting in cl. (i), “a sale or exchange of an original issue discount obligation, the amount of any gain not in excess of the original issue discount accruing while such obligation was held by the nonresident alien individual (to the extent such discount was not theretofore taken into account under clause (ii)), and” for “bonds or other evidences of indebtedness issued after September 28, 1965, and before April 1, 1972, amounts which under section 1232(a)(2)(B) are considered as ordinary income, and, in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact the obligations were issued after May 27, 1969,”, substituting in cl. (ii), “the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this clause only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by subparagraph (A) thereon), and” for “bonds or other evidences of indebtedness issued after March 31, 1972, and payable more than 6 months from the date of original issue (without regard to the period held by the taxpayer), amounts which under section 1232(a)(2)(B) would be considered as ordinary income but for the fact such obligations were issued after May 27, 1969, and”, and striking out cl. (iii) which required that in the case of the payment of interest on an obligation described in cl. (ii), an amount equal to the original issue discount, but not in excess of such interest less the tax imposed by subpar. (A) thereon, accrued on such obligation since the last payment of interest thereon, be included for purpose of the 30 percent tax.
+Subsec. (a)(1)(C). Pub. L. 98–369, §128(a)(1), amended subpar. (C) generally, substituting in cl. (i), "a sale or exchange of an original issue discount obligation, the amount of any gain not in excess of the original issue discount accruing while such obligation was held by the nonresident alien individual (to the extent such discount was not theretofore taken into account under clause (ii)), and" for "bonds or other evidences of indebtedness issued after September 28, 1965, and before April 1, 1972, amounts which under section 1232(a)(2)(B) are considered as ordinary income, and, in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact the obligations were issued after May 27, 1969,", substituting in cl. (ii), "the payment of interest on an original issue discount obligation, an amount equal to the original issue discount accrued on such obligation since the last payment of interest thereon (except that such original issue discount shall be taken into account under this clause only to the extent that the tax thereon does not exceed the interest payment less the tax imposed by subparagraph (A) thereon), and" for "bonds or other evidences of indebtedness issued after March 31, 1972, and payable more than 6 months from the date of original issue (without regard to the period held by the taxpayer), amounts which under section 1232(a)(2)(B) would be considered as ordinary income but for the fact such obligations were issued after May 27, 1969, and", and striking out cl. (iii) which required that in the case of the payment of interest on an obligation described in cl. (ii), an amount equal to the original issue discount, but not in excess of such interest less the tax imposed by subpar. (A) thereon, accrued on such obligation since the last payment of interest thereon, be included for purpose of the 30 percent tax.
 
 Subsec. (g). Pub. L. 98–369, §128(a)(2), added subsec. (g). Former subsec. (g), relating to cross references, redesignated (h).
 
@@ -746,29 +746,29 @@ Subsec. (i). Pub. L. 98–369, §127(a)(1), redesignated subsec. (h), relating t
 
 <b>1983</b>—Subsec. (a)(3). Pub. L. 98–21, §121(c)(1), added par. (3).
 
-Subsec. (a)(3)(A). Pub. L. 98–21, §335(b)(2)(B), inserted “(notwithstanding section 207 of the Social Security Act)” after “income”.
+Subsec. (a)(3)(A). Pub. L. 98–21, §335(b)(2)(B), inserted "(notwithstanding section 207 of the Social Security Act)" after "income".
 
-<b>1981</b>—Subsec. (g)(6). Pub. L. 97–34 substituted “6015(j)” for “6015(i)”.
+<b>1981</b>—Subsec. (g)(6). Pub. L. 97–34 substituted "6015(j)" for "6015(i)".
 
-<b>1980</b>—Subsec. (b)(1). Pub. L. 96–222 substituted “55” for “section 55”.
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–222 substituted "55" for "section 55".
 
-Subsec. (f). Pub. L. 96–605 designated existing provision as par. (1), inserted heading “In general” and redesignated par. (1) as subpar. (A), cls. (A) and (B) of subpar. (A) as so redesignated as cls. (i) and (ii), and par. (2) as subpar. (B), and added par. (2).
+Subsec. (f). Pub. L. 96–605 designated existing provision as par. (1), inserted heading "In general" and redesignated par. (1) as subpar. (A), cls. (A) and (B) of subpar. (A) as so redesignated as cls. (i) and (ii), and par. (2) as subpar. (B), and added par. (2).
 
 Subsec. (g)(8). Pub. L. 96–499 added par. (8).
 
-<b>1978</b>—Subsec. (b)(1). Pub. L. 95–600, §§401(b)(3), 421(e)(4), substituted “section 1, section 55, or 402(e)(1)” for “section 1, 402(e)(1), or 1201(b)”.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–600, §§401(b)(3), 421(e)(4), substituted "section 1, section 55, or 402(e)(1)" for "section 1, 402(e)(1), or 1201(b)".
 
-<b>1976</b>—Subsec. (a)(1)(C)(i), (ii). Pub. L. 94–455, §1901(b)(3)(I), substituted “ordinary income” for “gain from the sale or exchange of property which is not a capital asset”.
+<b>1976</b>—Subsec. (a)(1)(C)(i), (ii). Pub. L. 94–455, §1901(b)(3)(I), substituted "ordinary income" for "gain from the sale or exchange of property which is not a capital asset".
 
-Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”, each time appearing.
+Subsec. (d). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary", each time appearing.
 
 Subsec. (g)(7). Pub. L. 94–455, §1012(a)(2), added par. (7).
 
 <b>1974</b>—Subsec. (b)(1). Pub. L. 93–406 inserted reference to section 402(e)(1).
 
-<b>1971</b>—Subsec. (a)(1)(A). Pub. L. 92–178, §313(a), inserted “(other than original issue discount as defined in section 1232(b))” after “interest”.
+<b>1971</b>—Subsec. (a)(1)(A). Pub. L. 92–178, §313(a), inserted "(other than original issue discount as defined in section 1232(b))" after "interest".
 
-Subsec. (a)(1)(C). Pub. L. 92–178, §313(b), designated existing provisions as cl. (i), inserted “and before April 1, 1972,” after “September 28, 1965,”, substituted “section 1232(a)(2)(B)” for “section 1232”, and inserted “, in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact the obligations were issued after May 27, 1969,”, and added cls. (ii) and (iii).
+Subsec. (a)(1)(C). Pub. L. 92–178, §313(b), designated existing provisions as cl. (i), inserted "and before April 1, 1972," after "September 28, 1965,", substituted "section 1232(a)(2)(B)" for "section 1232", and inserted ", in the case of corporate obligations issued after May 27, 1969, and before April 1, 1972, amounts which would be so considered but for the fact the obligations were issued after May 27, 1969,", and added cls. (ii) and (iii).
 
 <b>1966</b>—Subsecs. (a), (b). Pub. L. 89–809 consolidated the substance of former subsecs. (a) to (c) and, as part of the consolidation, revised the overall income tax treatment of nonresident alien individuals by substituting provisions dividing their income for tax purposes into two basic groups according to whether or not the income is effectively connected with a United States trade or business for provisions calling for different tax treatment based upon whether or not they are, or are not, engaged in a trade or business in the United States, with a further breakdown of those not engaged in trade or business in the United States as to whether their income is over or under $21,200.
 
@@ -778,21 +778,21 @@ Subsecs. (d) to (f). Pub. L. 89–809 added subsecs. (d) to (f) and redesignated
 
 Subsec. (g). Pub. L. 89–809 redesignated former subsec. (e) as (g), added pars. (2) and (4) to (6), and redesignated former pars. (1) and (2) as (3) and (1), respectively.
 
-<b>1964</b>—Subsec. (a). Pub. L. 88–272, §113(b)(2), substituted “30 percent tax” for “and gross income of not more than $15,400” in heading.
+<b>1964</b>—Subsec. (a). Pub. L. 88–272, §113(b)(2), substituted "30 percent tax" for "and gross income of not more than $15,400" in heading.
 
-Subsec. (b). Pub. L. 88–272, §§113(b)(1), (3), 201(d)(12), substituted “$19,000 in the case of a taxable year beginning in 1964 or more than $21,200 in the case of a taxable year beginning after 1964” for “$15,400”, “the credit under section 35” for “the sum of the credits under sections 34 and 35” in text, and “Regular tax” for “and gross income of more than $15,400” in heading.
+Subsec. (b). Pub. L. 88–272, §§113(b)(1), (3), 201(d)(12), substituted "$19,000 in the case of a taxable year beginning in 1964 or more than $21,200 in the case of a taxable year beginning after 1964" for "$15,400", "the credit under section 35" for "the sum of the credits under sections 34 and 35" in text, and "Regular tax" for "and gross income of more than $15,400" in heading.
 
 <b>1961</b>—Subsecs. (d), (e). Pub. L. 87–256 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>1960</b>—Subsec. (d). Pub. L. 86–437 substituted “Cross references” for “Doubling of tax” in heading, and inserted cross reference to section 402(a)(4).
+<b>1960</b>—Subsec. (d). Pub. L. 86–437 substituted "Cross references" for "Doubling of tax" in heading, and inserted cross reference to section 402(a)(4).
 
-<b>1958</b>—Subsec. (a)(1). Pub. L. 85–866, §40(a), inserted “section 403(a)(2),” after “section 402(a)(2),”.
+<b>1958</b>—Subsec. (a)(1). Pub. L. 85–866, §40(a), inserted "section 403(a)(2)," after "section 402(a)(2),".
 
 Subsec. (b). Pub. L. 85–866, §41(a), inserted last par. covering former provisions of par. (3), which was struck out by the amendment, and containing new provisions with references to credits under section 34 and 35 and exclusion under section 116 of this title.
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–240, title III, §320(b), Jan. 2, 2013, 126 Stat. 2332, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2011.”
+Pub. L. 112–240, title III, §320(b), Jan. 2, 2013, 126 Stat. 2332, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2011."
 
 #### Effective Date of 2010 Amendment
 
@@ -802,17 +802,17 @@ Amendment by section 302(b)(2) of Pub. L. 111–325 applicable to taxable years 
 
 Amendment by section 308(b)(3) of Pub. L. 111–325 applicable to taxable years beginning after Dec. 22, 2010, see section 308(c) of Pub. L. 111–325, set out as a note under section 852 of this title.
 
-Pub. L. 111–312, title VII, §748(b), Dec. 17, 2010, 124 Stat. 3320, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
+Pub. L. 111–312, title VII, §748(b), Dec. 17, 2010, 124 Stat. 3320, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009."
 
 Amendment by Pub. L. 111–226 applicable to taxable years beginning after Dec. 31, 2010, with certain exceptions, see section 217(d) of Pub. L. 111–226, set out as a note under section 861 of this title.
 
 Amendment by section 502(b)(1), (2)(A) of Pub. L. 111–147 applicable to obligations issued after the date which is 2 years after Mar. 18, 2010, see section 502(f) of Pub. L. 111–147, set out as a note under section 149 of this title.
 
-Pub. L. 111–147, title V, §541(b), Mar. 18, 2010, 124 Stat. 117, provided that: “The amendments made by this section \[amending this section\] shall apply to payments made on or after the date that is 180 days after the date of the enactment of this Act \[Mar. 18, 2010\].”
+Pub. L. 111–147, title V, §541(b), Mar. 18, 2010, 124 Stat. 117, provided that: "The amendments made by this section \[amending this section\] shall apply to payments made on or after the date that is 180 days after the date of the enactment of this Act \[Mar. 18, 2010\]."
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. C, title II, §206(c), Oct. 3, 2008, 122 Stat. 3865, provided that: “The amendments made by this section \[amending this section\] shall apply to dividends with respect to taxable years of regulated investment companies beginning after December 31, 2007.”
+Pub. L. 110–343, div. C, title II, §206(c), Oct. 3, 2008, 122 Stat. 3865, provided that: "The amendments made by this section \[amending this section\] shall apply to dividends with respect to taxable years of regulated investment companies beginning after December 31, 2007."
 
 #### Effective Date of 2006 Amendment
 
@@ -820,21 +820,21 @@ Amendment by Pub. L. 109–222 applicable to taxable years of qualified investme
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title IV, §409(b), Oct. 22, 2004, 118 Stat. 1500, provided that: “The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 2004.”
+Pub. L. 108–357, title IV, §409(b), Oct. 22, 2004, 118 Stat. 1500, provided that: "The amendment made by this section \[amending this section\] shall apply to payments made after December 31, 2004."
 
 Pub. L. 108–357, title IV, §411(d), Oct. 22, 2004, 118 Stat. 1505, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 881, 897, 1441, 1442, and 2105 of this title\] shall apply to dividends with respect to taxable years of regulated investment companies beginning after December 31, 2004.
 
-“(2)
+"(2)
 
 Estate tax treatment.—The amendment made by subsection (b) \[amending section 2105 of this title\] shall apply to estates of decedents dying after December 31, 2004.
 
-“(3)
+"(3)
 
-Certain other provisions.—The amendments made by subsection (c) \[amending section 897 of this title\] (other than paragraph (1) thereof) shall take effect after December 31, 2004.”
+Certain other provisions.—The amendments made by subsection (c) \[amending section 897 of this title\] (other than paragraph (1) thereof) shall take effect after December 31, 2004."
 
 #### Effective Date of 1999 Amendment
 
@@ -848,15 +848,15 @@ Amendment by section 1954(b)(1) of Pub. L. 104–188 applicable to articles ente
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–465, title VII, §733(b), Dec. 8, 1994, 108 Stat. 5006, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to benefits paid after December 31, 1994, in taxable years ending after such date.”
+Pub. L. 103–465, title VII, §733(b), Dec. 8, 1994, 108 Stat. 5006, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to benefits paid after December 31, 1994, in taxable years ending after such date."
 
-Pub. L. 103–296, title III, §320(c), Aug. 15, 1994, 108 Stat. 1535, provided that: “The amendments made by this subsection \[probably means this section, which amended this section, sections 872, 1441, 3121, 3231, 3306, and 7701 of this title, and section 410 of Title 42, The Public Health and Welfare\] shall take effect with the calendar quarter following the date of the enactment of this Act \[Aug. 15, 1994\].”
+Pub. L. 103–296, title III, §320(c), Aug. 15, 1994, 108 Stat. 1535, provided that: "The amendments made by this subsection \[probably means this section, which amended this section, sections 872, 1441, 3121, 3231, 3306, and 7701 of this title, and section 410 of Title 42, The Public Health and Welfare\] shall take effect with the calendar quarter following the date of the enactment of this Act \[Aug. 15, 1994\]."
 
 #### Effective Date of 1993 Amendment
 
 Amendment by section 13113(d)(5) of Pub. L. 103–66 applicable to stock issued after Aug. 10, 1993, see section 13113(e) of Pub. L. 103–66, set out as a note under section 53 of this title.
 
-Pub. L. 103–66, title XIII, §13237(d), Aug. 10, 1993, 107 Stat. 508, provided that: “The amendments made by this section \[amending this section and sections 881, 1441, 1442, and 2105 of this title\] shall apply to interest received after December 31, 1993; except that the amendments made by subsection (b) \[amending section 2105 of this title\] shall apply to the estates of decedents dying after December 31, 1993.”
+Pub. L. 103–66, title XIII, §13237(d), Aug. 10, 1993, 107 Stat. 508, provided that: "The amendments made by this section \[amending this section and sections 881, 1441, 1442, and 2105 of this title\] shall apply to interest received after December 31, 1993; except that the amendments made by subsection (b) \[amending section 2105 of this title\] shall apply to the estates of decedents dying after December 31, 1993."
 
 #### Effective Date of 1992 Amendment
 
@@ -866,7 +866,7 @@ Amendment by Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, 
 
 Amendment by section 1001(d)(2)(B) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title VI, §6134(b), Nov. 10, 1988, 102 Stat. 3721, provided that: “The amendments made by subsection (a) \[amending this section and section 1441 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6134(b), Nov. 10, 1988, 102 Stat. 3721, provided that: "The amendments made by subsection (a) \[amending this section and section 1441 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 #### Effective Date of 1986 Amendment
 
@@ -878,7 +878,7 @@ Amendment by section 1214(c)(1) of Pub. L. 99–514 applicable to payments made 
 
 Amendment by section 1810(d)(1)(A), (2), (3)(A), (B), (e)(2)(A) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Pub. L. 99–272, title XII, §12103(c), Apr. 7, 1986, 100 Stat. 285, provided that: “The amendments made by this section \[amending this section and section 932 of this title\] shall apply to benefits received after December 31, 1983, in taxable years ending after such date.”
+Pub. L. 99–272, title XII, §12103(c), Apr. 7, 1986, 100 Stat. 285, provided that: "The amendments made by this section \[amending this section and section 932 of this title\] shall apply to benefits received after December 31, 1983, in taxable years ending after such date."
 
 #### Effective Date of 1984 Amendment
 
@@ -886,45 +886,45 @@ Amendment by section 42(a)(9) of Pub. L. 98–369 applicable to taxable years en
 
 Pub. L. 98–369, div. A, title I, §127(g), July 18, 1984, 98 Stat. 652, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, §6128(a), Nov. 10, 1988, 102 Stat. 3716, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and sections 163, 864, 881, 1441, 1442, and 2105 of this title\] shall apply to interest received after the date of the enactment of this Act \[July 18, 1984\] with respect to obligations issued after such date, in taxable years ending after such date.
 
-“(2)
+"(2)
 
 Subsection (d).—The amendment made by subsection (d) \[amending section 2105 of this title\] shall apply to obligations issued after the date of the enactment of this Act \[July 18, 1984\] with respect to the estates of decedents dying after such date.
 
-“(3)
+"(3)
 
 Special rule for certain united states affiliate obligations.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—For purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], payments of interest on a United States affiliate obligation to an applicable CFC in existence on or before June 22, 1984, shall be treated as payments to a resident of the country in which the applicable CFC is incorporated.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Exception.—Subparagraph (A) shall not apply to any applicable CFC which did not meet requirements which are based on the principles set forth in Revenue Rulings 69–501, 69–377, 70–645, and 73–110 as such principles are applied in Revenue Ruling 86–6, except that the maximum debt-to-equity ratio described in such Revenue Rulings shall be increased from 5-to-1 to 25-to-1.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Definitions.—
 
-&emsp;&emsp;“(i) The term ‘applicable CFC’ has the meaning given such term by section 121(b)(2)(D) of this Act \[set out as a note under section 904 of this title\], except that such section shall be applied by substituting ‘the date of interest payment’ for ‘March 31, 1984,’ in clause (i) thereof.
+&emsp;&emsp;"(i) The term 'applicable CFC' has the meaning given such term by section 121(b)(2)(D) of this Act \[set out as a note under section 904 of this title\], except that such section shall be applied by substituting 'the date of interest payment' for 'March 31, 1984,' in clause (i) thereof.
 
-&emsp;&emsp;“(ii) The term ‘United States affiliate obligation’ means an obligation described in section 121(b)(2)(F) of this Act \[set out as a note under section 904 of this title\] which was issued before June 22, 1984.”
+&emsp;&emsp;"(ii) The term 'United States affiliate obligation' means an obligation described in section 121(b)(2)(F) of this Act \[set out as a note under section 904 of this title\] which was issued before June 22, 1984."
 
-\[Pub. L. 100–647, title VI, §6128(b), Nov. 10, 1988, 102 Stat. 3716, provided that: “The amendment made by subsection (a) \[amending section 127(g) of Pub. L. 98–369, set out above\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 10, 1988\].”\]
+\[Pub. L. 100–647, title VI, §6128(b), Nov. 10, 1988, 102 Stat. 3716, provided that: "The amendment made by subsection (a) \[amending section 127(g) of Pub. L. 98–369, set out above\] shall apply to taxable years ending after the date of the enactment of this Act \[Nov. 10, 1988\]."\]
 
 Pub. L. 98–369, div. A, title I, §128(d), July 18, 1984, 98 Stat. 655, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 163 and 881 of this title\] shall apply to payments made on or after the 60th day after the date of the enactment of this Act \[July 18, 1984\] with respect to obligations issued after March 31, 1972.
 
-“(2)
+"(2)
 
-Subsection (c).—The amendment made by subsection (c) \[amending section 163 of this title\] shall apply to obligations issued after June 9, 1984.”
+Subsection (c).—The amendment made by subsection (c) \[amending section 163 of this title\] shall apply to obligations issued after June 9, 1984."
 
 Amendment by section 412(b)(1) of Pub. L. 98–369 applicable with respect to taxable years beginning after Dec. 31, 1984, see section 414(a)(1) of Pub. L. 98–369, set out as a note under section 6654 of this title.
 
@@ -934,11 +934,11 @@ Amendment by section 121(c)(1) of Pub. L. 98–21 applicable to benefits receive
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–34, title VII, §725(d), Aug. 13, 1981, 95 Stat. 346, provided that: “The amendments made by this section \[amending this section and sections 6015, 6153, 6654, and 7701 of this title\] shall apply to estimated tax for taxable years beginning after December 31, 1980.”
+Pub. L. 97–34, title VII, §725(d), Aug. 13, 1981, 95 Stat. 346, provided that: "The amendments made by this section \[amending this section and sections 6015, 6153, 6654, and 7701 of this title\] shall apply to estimated tax for taxable years beginning after December 31, 1980."
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–605, title II, §227(b), Dec. 28, 1980, 94 Stat. 3530, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts received after July 1, 1979.”
+Pub. L. 96–605, title II, §227(b), Dec. 28, 1980, 94 Stat. 3530, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to amounts received after July 1, 1979."
 
 Amendment by Pub. L. 96–499 applicable to dispositions after June 18, 1980, see section 1125(a) of Pub. L. 96–499, set out as an Effective Date note under section 897 of this title.
 
@@ -962,19 +962,19 @@ Amendment by Pub. L. 93–406 applicable only with respect to distributions or p
 
 #### Effective Date of 1971 Amendment
 
-Pub. L. 92–178, title III, §313(f), Dec. 10, 1971, 85 Stat. 528, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments to section 871 and 881 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made by this section shall apply with respect to taxable years beginning after December 31, 1966. The amendments to sections 1441 and 1442 of such Code made by this section shall apply with respect to payments occurring on or after April 1, 1972.”
+Pub. L. 92–178, title III, §313(f), Dec. 10, 1971, 85 Stat. 528, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments to section 871 and 881 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] made by this section shall apply with respect to taxable years beginning after December 31, 1966. The amendments to sections 1441 and 1442 of such Code made by this section shall apply with respect to payments occurring on or after April 1, 1972."
 
 #### Effective Date of 1966 Amendment
 
 Pub. L. 89–809, title I, §103(n), Nov. 13, 1966, 80 Stat. 1555, provided that:
 
-“(1) The amendments made by this section (other than the amendments made by subsections (h), (i), and (k)) \[amending this section and sections 1, 116, 154, 872 to 874, 875, 932, 6015, and 7701 of this title, redesignating section 877 as 878, enacting section 877 of this title, and repealing section 1493 of this title\] shall apply with respect to taxable years beginning after December 31, 1966.
+"(1) The amendments made by this section (other than the amendments made by subsections (h), (i), and (k)) \[amending this section and sections 1, 116, 154, 872 to 874, 875, 932, 6015, and 7701 of this title, redesignating section 877 as 878, enacting section 877 of this title, and repealing section 1493 of this title\] shall apply with respect to taxable years beginning after December 31, 1966.
 
-“(2) The amendments made by subsection (h) \[amending section 1441 of this title\] shall apply with respect to payments made in taxable years of recipients beginning after December 31, 1966.
+"(2) The amendments made by subsection (h) \[amending section 1441 of this title\] shall apply with respect to payments made in taxable years of recipients beginning after December 31, 1966.
 
-“(3) The amendments made by subsection (i) \[amending section 1461 of this title\] shall apply with respect to payments occurring after December 31, 1966.
+"(3) The amendments made by subsection (i) \[amending section 1461 of this title\] shall apply with respect to payments occurring after December 31, 1966.
 
-“(4) The amendments made by subsection (k) \[amending section 3401 of this title\] shall apply with respect to remuneration paid after December 31, 1966.”
+"(4) The amendments made by subsection (k) \[amending section 3401 of this title\] shall apply with respect to remuneration paid after December 31, 1966."
 
 #### Effective Date of 1964 Amendment
 
@@ -992,9 +992,9 @@ Amendment by Pub. L. 86–437 applicable only with respect to taxable years begi
 
 #### Effective Date of 1958 Amendment
 
-Pub. L. 85–866, title I, §40(c), Sept. 2, 1958, 72 Stat. 1639, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to taxable years ending after the date of the enactment of this Act \[Sept. 2, 1958\]. The amendments made by subsection (b) \[amending section 1441 of this title\] shall take effect on the day following the date of the enactment of this Act \[Sept. 2, 1958\].”
+Pub. L. 85–866, title I, §40(c), Sept. 2, 1958, 72 Stat. 1639, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only with respect to taxable years ending after the date of the enactment of this Act \[Sept. 2, 1958\]. The amendments made by subsection (b) \[amending section 1441 of this title\] shall take effect on the day following the date of the enactment of this Act \[Sept. 2, 1958\]."
 
-Pub. L. 85–866, title I, §41(c), Sept. 2, 1958, 72 Stat. 1639, provided that: “The amendments made by this section \[amending this section and section 35 of this title\] shall apply only with respect to taxable years beginning after December 31, 1957.”
+Pub. L. 85–866, title I, §41(c), Sept. 2, 1958, 72 Stat. 1639, provided that: "The amendments made by this section \[amending this section and section 35 of this title\] shall apply only with respect to taxable years beginning after December 31, 1957."
 
 #### Applicability of Certain Amendments by Pub. L. 99–514 in Relation to Treaty Obligations of United States
 

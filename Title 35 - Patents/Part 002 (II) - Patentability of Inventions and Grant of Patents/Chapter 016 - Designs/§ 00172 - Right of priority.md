@@ -12,15 +12,15 @@ This provision is taken from R.S. 4887 (see section 119) and made a separate sec
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29, §20(j), struck out “of this title” after “119” and after “119(e)”.
+<b>2011</b>—Pub. L. 112–29, §20(j), struck out "of this title" after "119" and after "119(e)".
 
-Pub. L. 112–29, §3(g)(1), struck out “and the time specified in section 102(d)” before “shall be six months”.
+Pub. L. 112–29, §3(g)(1), struck out "and the time specified in section 102(d)" before "shall be six months".
 
-<b>1994</b>—Pub. L. 103–465 substituted “subsections (a) through (d) of section 119” for “section 119” and inserted at end “The right of priority provided for by section 119(e) of this title shall not apply to designs.”
+<b>1994</b>—Pub. L. 103–465 substituted "subsections (a) through (d) of section 119" for "section 119" and inserted at end "The right of priority provided for by section 119(e) of this title shall not apply to designs."
 
 #### Effective Date of 2011 Amendment
 
-Amendment by section 3(g)(1) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, seesection 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
+Amendment by section 3(g)(1) of Pub. L. 112–29 effective upon the expiration of the 18-month period beginning on Sept. 16, 2011, and applicable to certain applications for patent and any patents issuing thereon, see section 3(n) of Pub. L. 112–29, set out as an Effective Date of 2011 Amendment; Savings Provisions note under section 100 of this title.
 
 Amendment by section 20(j) of Pub. L. 112–29 effective upon the expiration of the 1-year period beginning on Sept. 16, 2011, and applicable to proceedings commenced on or after that effective date, see section 20(l) of Pub. L. 112–29, set out as a note under section 2 of this title.
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 13, 1998, Pub. L. 105–231, §4, 112 Stat. 1531.
 
-The words “each State in which it is incorporated” are substituted for “the State of Texas” for consistency in the revised title. The words “in furtherance of its corporate purposes” are omitted as unnecessary.
+The words "each State in which it is incorporated" are substituted for "the State of Texas" for consistency in the revised title. The words "in furtherance of its corporate purposes" are omitted as unnecessary.
 

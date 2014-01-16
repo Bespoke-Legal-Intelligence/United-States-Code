@@ -28,9 +28,9 @@ Section 3 of Pub. L. 107–172, which directed that section 417D (this section) 
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(3). Pub. L. 109–482, §103(b)(17)(A), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there is authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each subsequent fiscal year. Such authorizations of appropriations are in addition to other authorizations of appropriations that are available for such purpose.”
+<b>2007</b>—Subsec. (a)(3). Pub. L. 109–482, §103(b)(17)(A), struck out heading and text of par. (3). Text read as follows: "For the purpose of carrying out this subsection, there is authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each subsequent fiscal year. Such authorizations of appropriations are in addition to other authorizations of appropriations that are available for such purpose."
 
-Subsec. (b)(3). Pub. L. 109–482, §103(b)(17)(B), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there is authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each subsequent fiscal year. Such authorizations of appropriations are in addition to other authorizations of appropriations that are available for such purpose.”
+Subsec. (b)(3). Pub. L. 109–482, §103(b)(17)(B), struck out heading and text of par. (3). Text read as follows: "For the purpose of carrying out this subsection, there is authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each subsequent fiscal year. Such authorizations of appropriations are in addition to other authorizations of appropriations that are available for such purpose."
 
 #### Effective Date of 2007 Amendment
 
@@ -38,15 +38,15 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 #### Congressional Findings
 
-Pub. L. 107–172, §2, May 14, 2002, 116 Stat. 541, provided that: “Congress finds that:
+Pub. L. 107–172, §2, May 14, 2002, 116 Stat. 541, provided that: "Congress finds that:
 
-&emsp;“(1) An estimated 109,500 people in the United States will be diagnosed with leukemia, lymphoma, and multiple myeloma in 2001.
+&emsp;"(1) An estimated 109,500 people in the United States will be diagnosed with leukemia, lymphoma, and multiple myeloma in 2001.
 
-&emsp;“(2) New cases of the blood cancers described in paragraph (1) account for 8.6 percent of new cancer cases.
+&emsp;"(2) New cases of the blood cancers described in paragraph (1) account for 8.6 percent of new cancer cases.
 
-&emsp;“(3) Those devastating blood cancers will cause the deaths of an estimated 60,300 persons in the United States in 2001. Every 9 minutes, a person in the United States dies from leukemia, lymphoma, or multiple myeloma.
+&emsp;"(3) Those devastating blood cancers will cause the deaths of an estimated 60,300 persons in the United States in 2001. Every 9 minutes, a person in the United States dies from leukemia, lymphoma, or multiple myeloma.
 
-&emsp;“(4) While less than 5 percent of Federal funds for cancer research are spent on those blood cancers, those blood cancers cause 11 percent of all cancer deaths in the United States.
+&emsp;"(4) While less than 5 percent of Federal funds for cancer research are spent on those blood cancers, those blood cancers cause 11 percent of all cancer deaths in the United States.
 
-&emsp;“(5) Increased Federal support of research into leukemia, lymphoma, and multiple myeloma has resulted and will continue to result in significant advances in the treatment, and ultimately the cure, of those blood cancers as well as other cancers.”
+&emsp;"(5) Increased Federal support of research into leukemia, lymphoma, and multiple myeloma has resulted and will continue to result in significant advances in the treatment, and ultimately the cure, of those blood cancers as well as other cancers."
 

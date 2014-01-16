@@ -20,7 +20,7 @@ Consistent with the State plan, the local board for a local area, with the agree
 
 &emsp;&emsp;&emsp;(i) make available to participants, through a one-stop delivery system, the services described in section 2864(d)(2) of this title that are applicable to such program or activities; and
 
-&emsp;&emsp;&emsp;(ii) participate in the operation of such system consistent with the terms of the memorandum described in subsection (c) of this section, and with the requirements of the Federal law in which the program or activities are authorized.
+&emsp;&emsp;&emsp;(ii) participate in the operation of such system consistent with the terms of the memorandum described in subsection (c) of this section, and with the requirements ofthe Federal law in which the program or activities are authorized.
 
 #### (B) Programs and activities
 
@@ -154,13 +154,13 @@ If a one-stop delivery system has been established in a local area prior to Augu
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1)(B)(i) and (c)(2)(B), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsecs. (b)(1)(B)(i) and (c)(2)(B), was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 The Wagner-Peyser Act, referred to in subsecs. (b)(1)(B)(ii) and (d)(2)(B)(ii), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 49 of this title and Tables.
 
 Title II, referred to in subsec. (b)(1)(B)(iii), is title II of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 1059, as amended, known as the Adult Education and Family Literacy Act, which is classified principally to subchapter I (§9201 et seq.) of chapter 73 of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20 and Tables.
 
-The Rehabilitation Act of 1973, referred to in subsecs. (b)(1)(B)(iv) and (f), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§741) of subchapter I of chapter 16 of this title. For complete classification ofthis Act to the Code, see Short Title note set out under section 701 of this title and Tables.
+The Rehabilitation Act of 1973, referred to in subsecs. (b)(1)(B)(iv) and (f), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended, which is classified generally to chapter 16 (§701 et seq.) of this title. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of this title. Part C of title I of the Act is classified generally to part C (§741) of subchapter I of chapter 16 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 701 of this title and Tables.
 
 The Older Americans Act of 1965, referred to in subsec. (b)(1)(B)(vi), is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended. Title V of the Act, known as the Older American Community Service Employment Act, is classified generally to subchapter IX (§3056 et seq.) of chapter 35 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of Title 42 and Tables.
 
@@ -184,9 +184,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (b)(2)(B)(ii), (iii). Pub. L. 110–246, §4002(b)(1)(B), (2)(R), made technical amendment to references in original act which appear in text as references to section 2015 of title 7.
 
-<b>2006</b>—Subsec. (b)(1)(B)(vii). Pub. L. 109–270 substituted “career and technical education activities at the postsecondary level” for “postsecondary vocational education activities” and “Carl D. Perkins Career and Technical Education Act of 2006” for “Carl D. Perkins Vocational and Applied Technology Education Act”.
+<b>2006</b>—Subsec. (b)(1)(B)(vii). Pub. L. 109–270 substituted "career and technical education activities at the postsecondary level" for "postsecondary vocational education activities" and "Carl D. Perkins Career and Technical Education Act of 2006" for "Carl D. Perkins Vocational and Applied Technology Education Act".
 
-<b>1998</b>—Subsec. (b)(1)(B)(iv). Pub. L. 105–332, §5(a)(1), inserted “(other than part C of title I of such Act and subject to subsection (f) of this section)” before semicolon.
+<b>1998</b>—Subsec. (b)(1)(B)(iv). Pub. L. 105–332, §5(a)(1), inserted "(other than part C of title I of such Act and subject to subsection (f) of this section)" before semicolon.
 
 Subsec. (f). Pub. L. 105–332, §5(a)(2), added subsec. (f).
 

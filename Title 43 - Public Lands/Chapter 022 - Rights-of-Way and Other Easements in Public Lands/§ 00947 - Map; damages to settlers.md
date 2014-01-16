@@ -6,7 +6,7 @@ Any canal or ditch company desiring to secure the benefits of sections 946 to 94
 
 #### Repeal of Section
 
-<i>Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on</i><i>and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
+<i>Section repealed by Pub. L. 94–579, title VII, §706(a), Oct. 21, 1976, 90 Stat. 2793, effective on and after Oct. 21, 1976, insofar as applicable to the issuance of rights-of-way over, upon, under, and through the public lands and lands in the National Forest System.</i>
 
 #### Savings Provision
 
@@ -16,5 +16,5 @@ Repeal by Pub. L. 94–579 insofar as applicable to the issuance of rights-of-wa
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
-“Officer, as the Secretary of the Interior may designate” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land office to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under section 1 of this title.
+"Officer, as the Secretary of the Interior may designate" substituted for "register" on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred functions of register of district land office to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under section 1 of this title.
 

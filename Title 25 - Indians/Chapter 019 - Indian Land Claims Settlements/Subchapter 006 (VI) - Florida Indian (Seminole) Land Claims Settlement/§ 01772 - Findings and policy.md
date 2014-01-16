@@ -2,7 +2,7 @@
 
 Congress finds and declares that—
 
-&emsp;(1) there is pending before the United States District Court for the southern district of Florida a lawsuit by the Seminole Tribe which involves certain lands within the State and there are also claims by the tribe to other areas of Florida by virtue of an 1839 Executive order of the President and by right of non-extinguishment of aboriginal possession which has been asserted but not filed in court;
+&emsp;(1) there is pending before the United States District Court for the southern district of Florida a lawsuit by the Seminole Tribe whichinvolves certain lands within the State and there are also claims by the tribe to other areas of Florida by virtue of an 1839 Executive order of the President and by right of non-extinguishment of aboriginal possession which has been asserted but not filed in court;
 
 &emsp;(2) the pendency of this lawsuit and these claims may result in economic hardships for residents of the State by clouding the titles to lands in the State, including lands not now involved in the lawsuit;
 
@@ -24,9 +24,9 @@ Congress finds and declares that—
 
 #### Effective Date
 
-Pub. L. 100–228, §10, Dec. 31, 1987, 101 Stat. 1561, provided that: “This Act \[enacting this subchapter\] shall take effect upon the date of its enactment \[Dec. 31, 1987\].”
+Pub. L. 100–228, §10, Dec. 31, 1987, 101 Stat. 1561, provided that: "This Act \[enacting this subchapter\] shall take effect upon the date of its enactment \[Dec. 31, 1987\]."
 
 #### Short Title
 
-Pub. L. 100–228, §1, Dec. 31, 1987, 101 Stat. 1556, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Seminole Indian Land Claims Settlement Act of 1987’.”
+Pub. L. 100–228, §1, Dec. 31, 1987, 101 Stat. 1556, provided that: "This Act \[enacting this subchapter\] may be cited as the 'Seminole Indian Land Claims Settlement Act of 1987'."
 

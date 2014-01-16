@@ -70,11 +70,11 @@
 
 #### (A) Child
 
-&emsp;&emsp;The term “child” means a person under the age of 18.
+&emsp;&emsp;The term "child" means a person under the age of 18.
 
 #### (B) Supplemental nutrition assistance program
 
-&emsp;&emsp;The term “supplemental nutrition assistance program” means the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.).
+&emsp;&emsp;The term "supplemental nutrition assistance program" means the supplemental nutrition assistance program established under the Food and Nutrition Act of 2008 (7 U.S.C. 2011 et seq.).
 
 #### (2) Purpose
 

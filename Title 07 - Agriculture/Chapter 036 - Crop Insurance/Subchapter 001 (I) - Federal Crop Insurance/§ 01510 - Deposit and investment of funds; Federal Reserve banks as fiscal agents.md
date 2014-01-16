@@ -10,7 +10,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §12033(c)(2)(B), substituted “this subchapter” for “this chapter”.
+<b>2008</b>—Pub. L. 110–246, §12033(c)(2)(B), substituted "this subchapter" for "this chapter".
 
 #### Effective Date of 2008 Amendment
 
@@ -18,7 +18,7 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Transfer of Functions
 
-Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R. 7877, 60 Stat. 1100. See note set out under section 1503 of this title.
+Administration of program of Federal Crop Insurance Corporation transferred to Secretary of Agriculture by 1946 Reorg. Plan No. 3, §501, eff. July 16, 1946, 11 F.R.7877, 60 Stat. 1100. See note set out under section 1503 of this title.
 
 Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Conservation and Adjustment Administration, see note set out under section 1503 of this title.
 

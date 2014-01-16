@@ -46,7 +46,7 @@
 | [690e.](%C2%A7%2000690e%20-%20Enforcement%20of%20laws%20and%20regulations%3B%20warrants%20and%20processes%3B%20jurisdiction%20of%20courts%3B%20forfeiture%20of%20property%20captured%2C%20injured%2C%20killed%20or%E2%80%A6.md) | Enforcement of laws and regulations; warrants and processes; jurisdiction of courts; forfeiture of property captured, injured, killed or removed. |
 | [690f.](%C2%A7%2000690f%20-%20Expenditures%20by%20Secretary%20of%20the%20Interior%20for%20construction%2C%20maintenance%2C%20etc.%2C%20of%20Bear%20River%20Refuge%3B%20employment%20of%20necessary%20means%20to%E2%80%A6.md) | Expenditures by Secretary of the Interior for construction, maintenance, etc., of Bear River Refuge; employment of necessary means to execute functions imposed on him. |
 | [690g.](%C2%A7%2000690g%20-%20Violation%20of%20laws%20and%20regulations%3B%20penalties.md) | Violation of laws and regulations; penalties. |
-| [690h.](%C2%A7%2000690h%20-%20%E2%80%9CPerson%E2%80%9D%20defined.md) | “Person” defined. |
+| [690h.](%C2%A7%2000690h%20-%20Person%20defined.md) | "Person" defined. |
 | [690i.](%C2%A7%2000690i%20-%20Omitted.md) | Omitted. |
 | [691\.](%C2%A7%2000691%20-%20Cheyenne%20Bottoms%20Migratory%20Bird%20Refuge%3B%20location%3B%20acquisition%20of%20land.md) | Cheyenne Bottoms Migratory Bird Refuge; location; acquisition of land. |
 | [691a.](%C2%A7%2000691a%20-%20Establishment%20of%20Cheyenne%20Bottoms%20Migratory%20Bird%20Refuge%3B%20purpose.md) | Establishment of Cheyenne Bottoms Migratory Bird Refuge; purpose. |
@@ -184,7 +184,7 @@
 - [&sect; 00690e - Enforcement of laws and regulations; warrants and processes; jurisdiction of courts; forfeiture of property captured, injured, killed or&#8230;](%C2%A7%2000690e%20-%20Enforcement%20of%20laws%20and%20regulations%3B%20warrants%20and%20processes%3B%20jurisdiction%20of%20courts%3B%20forfeiture%20of%20property%20captured%2C%20injured%2C%20killed%20or%E2%80%A6.md)
 - [&sect; 00690f - Expenditures by Secretary of the Interior for construction, maintenance, etc., of Bear River Refuge; employment of necessary means to&#8230;](%C2%A7%2000690f%20-%20Expenditures%20by%20Secretary%20of%20the%20Interior%20for%20construction%2C%20maintenance%2C%20etc.%2C%20of%20Bear%20River%20Refuge%3B%20employment%20of%20necessary%20means%20to%E2%80%A6.md)
 - [&sect; 00690g - Violation of laws and regulations; penalties](%C2%A7%2000690g%20-%20Violation%20of%20laws%20and%20regulations%3B%20penalties.md)
-- [&sect; 00690h - &#8220;Person&#8221; defined](%C2%A7%2000690h%20-%20%E2%80%9CPerson%E2%80%9D%20defined.md)
+- [&sect; 00690h - Person defined](%C2%A7%2000690h%20-%20Person%20defined.md)
 - [&sect; 00690i - Omitted](%C2%A7%2000690i%20-%20Omitted.md)
 - [&sect; 00691 - Cheyenne Bottoms Migratory Bird Refuge; location; acquisition of land](%C2%A7%2000691%20-%20Cheyenne%20Bottoms%20Migratory%20Bird%20Refuge%3B%20location%3B%20acquisition%20of%20land.md)
 - [&sect; 00691a - Establishment of Cheyenne Bottoms Migratory Bird Refuge; purpose](%C2%A7%2000691a%20-%20Establishment%20of%20Cheyenne%20Bottoms%20Migratory%20Bird%20Refuge%3B%20purpose.md)

@@ -36,7 +36,7 @@ Section 3309 provides for the issuance of a certificate of inspection that attes
 
 <b>2010</b>—Subsec. (d). Pub. L. 111–281 added subsec. (d).
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–324 struck out “(but not more than 60 days)” after “30 days” in introductory provisions.
+<b>1996</b>—Subsec. (c). Pub. L. 104–324 struck out "(but not more than 60 days)" after "30 days" in introductory provisions.
 
 <b>1984</b>—Subsec. (c). Pub. L. 98–498 added subsec. (c).
 

@@ -12,5 +12,5 @@ To be sold or labeled as an organically produced agricultural product under this
 
 #### Amendments
 
-<b>1991</b>—Par. (2). Pub. L. 102–237 substituted “; and” for period at end.
+<b>1991</b>—Par. (2). Pub. L. 102–237 substituted "; and" for period at end.
 

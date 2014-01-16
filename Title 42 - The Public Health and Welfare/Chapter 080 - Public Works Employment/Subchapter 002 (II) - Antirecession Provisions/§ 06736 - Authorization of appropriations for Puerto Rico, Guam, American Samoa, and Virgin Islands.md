@@ -12,9 +12,9 @@ There is hereby authorized to be appropriated for each of the five succeeding ca
 
 (3) For purposes of this section—
 
-&emsp;(A) The term “territory” means Puerto Rico, Guam, American Samoa, and the Virgin Islands.
+&emsp;(A) The term "territory" means Puerto Rico, Guam, American Samoa, and the Virgin Islands.
 
-&emsp;(B) The term “territorial population” means the most recent population for each territory as determined by the Bureau of Census.
+&emsp;(B) The term "territorial population" means the most recent population for each territory as determined by the Bureau of Census.
 
 &emsp;(C) The provisions of sections 6723(c)(4), 6724, 6725, 6726,<sup>1</sup> 6727, 6728, 6729, 6730, 6731, 6732, and 6733 <sup>1</sup> of this title shall apply to the funds authorized under this section.
 

@@ -44,7 +44,7 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 
 &emsp;(C) If all proposals submitted to the Secretary either fail to meet the minimum requirements or are rejected by the Secretary, the Secretary shall establish new minimum contract requirements and re-initiate the competitive selection process pursuant to this section.
 
-&emsp;(D) The Secretary may not execute a concessions contract which materially amends ordoes not incorporate the proposed terms and conditions of the concessions contract as set forth in the applicable prospectus. If proposed material amendments or changes are considered appropriate by the Secretary, the Secretary shall resolicit offers for the concessions contract incorporating such material amendments or changes.
+&emsp;(D) The Secretary may not execute a concessions contract which materially amends or does not incorporate the proposed terms and conditions of the concessions contract as set forth in the applicable prospectus. If proposed material amendments or changes are considered appropriate by the Secretary, the Secretary shall resolicit offers for the concessions contract incorporating such material amendments or changes.
 
 #### (5) Selection of the best proposal
 
@@ -70,9 +70,9 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 
 &emsp;(A) Except as provided in subparagraph (B), the Secretary shall not grant a concessioner a preferential right to renew a concessions contract, or any other form of preference to a concessions contract.
 
-&emsp;(B) The Secretary shall grant a preferential right of renewal to an existing concessioner with respect to proposed renewals of the categories of concessions contracts described by paragraph (8), subject to the requirements of that paragraph.
+&emsp;(B) The Secretary shall grant a preferential right of renewal to an existing concessionerwith respect to proposed renewals of the categories of concessions contracts described by paragraph (8), subject to the requirements of that paragraph.
 
-&emsp;(C) As used in this subchapter, the term “preferential right of renewal” means that the Secretary, subject to a determination by the Secretary that the facilities or services authorized by a prior contract continue to be necessary and appropriate within the meaning of section 5951 of this title, shall allow a concessioner qualifying for a preferential right of renewal the opportunity to match the terms and conditions of any competing proposal which the Secretary determines to be the best proposal for a proposed new concessions contract which authorizes the continuation of the facilities and services provided by the concessioner under its prior contract.
+&emsp;(C) As used in this subchapter, the term "preferential right of renewal" means that the Secretary, subject to a determination by the Secretary that the facilities or services authorized by a prior contract continue to be necessary and appropriate within the meaning of section 5951 of this title, shall allow a concessioner qualifying for a preferential right of renewal the opportunity to match the terms and conditions of any competing proposal which the Secretary determines to be the best proposal for a proposed new concessions contract which authorizes the continuation of the facilities and services provided by the concessioner under its prior contract.
 
 &emsp;(D) A concessioner which successfully exercises a preferential right of renewal in accordance with the requirements of this subchapter shall be entitled to award of the proposed new concessions contract to which such preference applies.
 
@@ -84,7 +84,7 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 
 &emsp;&emsp;(ii) Subject to subparagraph (C), concessions contracts with anticipated annual gross receipts under $500,000.
 
-&emsp;(B) For the purposes of this subchapter, an “outfitting and guide concessions contract” means a concessions contract which solely authorizes the provision of specialized backcountry outdoor recreation guide services which require the employment of specially trained and experienced guides to accompany park visitors in the backcountry so as to provide a safe and enjoyable experience for visitors who otherwise may not have the skills and equipment to engage in such activity. Outfitting and guide concessioners, where otherwise qualified, include concessioners which provide guided river running, hunting, fishing, horseback, camping, and mountaineering experiences. An outfitting and guide concessioner is entitled to a preferential right of renewal under this subchapter only if—
+&emsp;(B) For the purposes of this subchapter, an "outfitting and guide concessions contract" means a concessions contract which solely authorizes the provision of specialized backcountry outdoor recreation guide services which require the employment of specially trained and experienced guides to accompany park visitors in the backcountry so as to provide a safe and enjoyable experience for visitors who otherwise may not have the skills and equipment to engage in such activity. Outfitting and guide concessioners, where otherwise qualified, include concessioners which provide guided river running, hunting, fishing, horseback, camping, and mountaineering experiences. An outfitting and guide concessioner is entitled to a preferential right of renewal under this subchapter only if—
 
 &emsp;&emsp;(i) the contract with the outfitting and guide concessioner does not grant the concessioner any interest, including any leasehold surrender interest or possessory interest, in capital improvements on lands owned by the United States within a unit of the National Park System, other than a capital improvement constructed by a concessioner pursuant to the terms of a concessions contract prior to November 13, 1998, or constructed or owned by a concessioner or his or her predecessor before the subject land was incorporated into the National Park System;
 
@@ -118,11 +118,11 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this title”, meaning title IV of Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3503, which is classified principally to this subchapter. For complete classification of title IV to the Code, see Short Title note set out under section 5901 of this title and Tables.
+This subchapter, referred to in text, was in the original "this title", meaning title IV of Pub. L. 105–391, Nov. 13, 1998, 112 Stat. 3503, which is classified principally to this subchapter. For complete classification of title IV to the Code, see Short Title note set out under section 5901 of this title and Tables.
 
 #### Change of Name
 
 Committee on Resources of House of Representatives changed to Committee on Natural Resources of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “concessions contract”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "concessions contract".</i>
 

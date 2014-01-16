@@ -28,7 +28,7 @@ Consideration.—Subject to subsection (b)(4), the Secretary may transfer person
 
 (d)
 
-Preference for Certain Transfers.—In considering applications for the transfer of personal property under this section, the Secretary shall give a preference to those applications indicating that the transferred property will be used in the counter-drug or counter-terrorism activities of the recipient agency.
+Preference for Certain Transfers.—In considering applications for the transfer of personal property under this section, the Secretary shall give a preference to those applications indicating that the transferred property will beused in the counter-drug or counter-terrorism activities of the recipient agency.
 
 (Added Pub. L. 104–201, div. A, title X, §1033(a)(1), Sept. 23, 1996, 110 Stat. 2639.)
 

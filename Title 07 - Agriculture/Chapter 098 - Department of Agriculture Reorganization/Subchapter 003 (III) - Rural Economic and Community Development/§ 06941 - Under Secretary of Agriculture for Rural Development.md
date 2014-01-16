@@ -38,5 +38,5 @@ Section is comprised of section 231 of Pub. L. 103–354. Subsec. (f) of section
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–127 struck out “Economic and Community” after “Under Secretary of Agriculture for Rural”, wherever appearing in section catchline and subsecs. (a) to (c).
+<b>1996</b>—Pub. L. 104–127 struck out "Economic and Community" after "Under Secretary of Agriculture for Rural", wherever appearing in section catchline and subsecs. (a) to (c).
 

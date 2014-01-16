@@ -12,7 +12,7 @@ Authority.—The Secretary of Defense may provide assistive technology, assistiv
 
 (b)
 
-Definitions.—In this section, the terms “assistive technology”, “assistive technology device”, “assistive technology service”, and “disability” have the meanings given those terms in section 3 of the Assistive Technology Act of 1998 (29 U.S.C. 3002).
+Definitions.—In this section, the terms "assistive technology", "assistive technology device", "assistive technology service", and "disability" have the meanings given those terms in section 3 of the Assistive Technology Act of 1998 (29 U.S.C. 3002).
 
 (Added Pub. L. 106–398, §1 \[\[div. A\], title XI, §1102(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–311.)
 

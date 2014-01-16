@@ -32,7 +32,7 @@ The Bureau shall by regulation exempt from the requirements of sections 1691 and
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (f), (g). Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Subsecs. (f), (g). Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
 
 <b>1976</b>—Subsec. (e). Pub. L. 94–239, §5(1), substituted provisions requiring an election of remedies in legal actions involving the recovery of monetary damages, for provisions specifying a general election of remedies.
 

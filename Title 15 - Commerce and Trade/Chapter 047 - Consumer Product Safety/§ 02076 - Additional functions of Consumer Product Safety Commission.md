@@ -46,7 +46,7 @@ No person shall be subject to civil liability to any person (other than the Comm
 
 #### (e) Performance and technical data
 
-The Commission may by rule require any manufacturer of consumer products to provide to the Commission such performance and technical data related to performance and safety as may be required to carry out the purposes of this chapter, and to give such notification of such performance and technical data at the timeof original purchase to prospective purchasers and to the first purchaser of such product for purposes other than resale, as it determines necessary to carry out the purposes of this chapter.
+The Commission may by rule require any manufacturer of consumer products to provide to the Commission such performance and technical data related to performance and safety as may be required to carry out the purposes of this chapter, and to give such notification of such performance and technical data at the time of original purchase to prospective purchasers and to the first purchaser of such product for purposes other than resale, as it determines necessary to carry out the purposes of this chapter.
 
 #### (f) Purchase of consumer products by Commission
 
@@ -116,7 +116,7 @@ Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act o
 
 #### (k) Budget estimates and requests; legislative recommendations; testimony; comments on legislation
 
-(1) Whenever the Commission submits any budget estimate or request to the President or the Office of Management and Budget, it shall concurrently transmit a copy of that estimate or request to the Congress.
+(1) Whenever the Commission submits any budget estimate or request to the President orthe Office of Management and Budget, it shall concurrently transmit a copy of that estimate or request to the Congress.
 
 (2) Whenever the Commission submits any legislative recommendations, or testimony, or comments on legislation to the President or the Office of Management and Budget, it shall concurrently transmit a copy thereof to the Congress. No officer or agency of the United States shall have any authority to require the Commission to submit its legislative recommendations, or testimony, or comments on legislation, to any officer or agency of the United States for approval, comments, or review, prior to the submission of such recommendations, testimony, or comments to the Congress.
 
@@ -128,29 +128,29 @@ Section 3003 of the Federal Reports Elimination and Sunset Act of 1995, referred
 
 #### Codification
 
-In subsec. (b)(6), “section 1342 of title 31” substituted for “section 3679 of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (b)(6), "section 1342 of title 31" substituted for "section 3679 of the Revised Statutes (31 U.S.C. 665(b))" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-“Section 8141 of title 40” substituted in subsec. (b)(8) for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Section 8141 of title 40" substituted in subsec. (b)(8) for "the Act of March 3, 1877 (40 U.S.C. 34)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(3). Pub. L. 112–28, §8(1), inserted “and physical” after “documentary”.
+<b>2011</b>—Subsec. (b)(3). Pub. L. 112–28, §8(1), inserted "and physical" after "documentary".
 
 Subsec. (b)(9). Pub. L. 112–28, §8(2), (3), added par. (9). Former par. (9) redesignated (10).
 
-Subsec. (b)(10). Pub. L. 112–28, §8(3), (4), redesignated par. (9) as (10) and inserted “(except as provided in paragraph (9))” after “paragraph (3)”.
+Subsec. (b)(10). Pub. L. 112–28, §8(3), (4), redesignated par. (9) as (10) and inserted "(except as provided in paragraph (9))" after "paragraph (3)".
 
-<b>2008</b>—Subsec. (j). Pub. L. 110–314, §209(a)(1), substituted “Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note), the Commission” for “The Commission” in introductory provisions.
+<b>2008</b>—Subsec. (j). Pub. L. 110–314, §209(a)(1), substituted "Notwithstanding section 3003 of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note), the Commission" for "The Commission" in introductory provisions.
 
 Subsec. (j)(5) to (13). Pub. L. 110–314, §209(a)(2), added pars. (5) and (6) and redesignated former pars. (5) to (11) as (7) to (13), respectively.
 
-<b>1981</b>—Subsec. (b). Pub. L. 97–35, §1208, substituted in par. (1) “may prescribe to carry out a specific regulatory or enforcement function of the Commission” for “may prescribe” and in provision following par. (9) inserted requirement that an order issued under par. (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the commission, and that such an order shall be designed to place the least burden on the person subject to the order as is practicable, taking into account the purposes for which the order was issued.
+<b>1981</b>—Subsec. (b). Pub. L. 97–35, §1208, substituted in par. (1) "may prescribe to carry out a specific regulatory or enforcement function of the Commission" for "may prescribe" and in provision following par. (9) inserted requirement that an order issued under par. (1) shall contain a complete statement of the reason the Commission requires the report or answers specified in the order to carry out a specific regulatory or enforcement function of the commission, and that such an order shall be designed to place the least burden on the person subject to the order as is practicable, taking into account the purposes for which the order was issued.
 
 Subsec. (j)(10), (11). Pub. L. 97–35, §1209(c), added par. (10) and redesignated former par. (10) as (11).
 
 Subsec. (l). Pub. L. 97–35, §1207(b), struck out subsec. (l) which provided for reports to the House of Representatives and the Senate of proposed consumer product safety rules and regulations.
 
-Subsec. (m). Pub. L. 97–35, §1211(d), struck out subsec. (m) which defined “rule”, provided for a study of all the rules in effect on Nov. 10, 1978, and required a report be made to Congress recommending deletion of particular rules or parts of particular rules and initiation of particular rulemaking proceedings.
+Subsec. (m). Pub. L. 97–35, §1211(d), struck out subsec. (m) which defined "rule", provided for a study of all the rules in effect on Nov. 10, 1978, and required a report be made to Congress recommending deletion of particular rules or parts of particular rules and initiation of particular rulemaking proceedings.
 
 <b>1978</b>—Subsec. (m). Pub. L. 95–631 added subsec. (m).
 
@@ -158,15 +158,15 @@ Subsec. (m). Pub. L. 97–35, §1211(d), struck out subsec. (m) which defined �
 
 Subsec. (b)(8), (9). Pub. L. 94–284, §8(b), added par. (8) and redesignated former par. (8) as par (9).
 
-Subsec. (c). Pub. L. 94–284, §11(d), substituted “(subject to subsection (b)(7) of this section)” for “with the concurrence of the Attorney General”.
+Subsec. (c). Pub. L. 94–284, §11(d), substituted "(subject to subsection (b)(7) of this section)" for "with the concurrence of the Attorney General".
 
-Subsec. (j). Pub. L. 94–273 substituted “at the beginning of each regular session of Congress” for “on or before October 1 of each year”.
+Subsec. (j). Pub. L. 94–273 substituted "at the beginning of each regular session of Congress" for "on or before October 1 of each year".
 
 Subsec. (l). Pub. L. 94–284, §14, added subsec. (l).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–314, title II, §209(b), Aug. 14, 2008, 122 Stat. 3047, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to reports submitted for fiscal year 2009 and thereafter.”
+Pub. L. 110–314, title II, §209(b), Aug. 14, 2008, 122 Stat. 3047, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to reports submitted for fiscal year 2009 and thereafter."
 
 #### Effective Date of 1981 Amendment
 
@@ -174,7 +174,7 @@ Amendment by section 1207(b) of Pub. L. 97–35 applicable with respect to consu
 
 #### Submission of Copy of Certain Documents to Congress
 
-Pub. L. 110–314, title II, §203(a), Aug. 14, 2008, 122 Stat. 3040, provided that: “Notwithstanding any rule, regulation, or order to the contrary, the \[Consumer Product Safety\] Commission shall comply with the requirements of section 27(k) of the Consumer Product Safety Act (15 U.S.C. 2076(k)) with respect to budget recommendations, legislative recommendations, testimony, and comments on legislation submitted by the Commission to the President or the Office of Management and Budget after the date of enactment of this Act \[Aug. 14, 2008\].”
+Pub. L. 110–314, title II, §203(a), Aug. 14, 2008, 122 Stat. 3040, provided that: "Notwithstanding any rule, regulation, or order to the contrary, the \[Consumer Product Safety\] Commission shall comply with the requirements of section 27(k) of the Consumer Product Safety Act (15 U.S.C. 2076(k)) with respect to budget recommendations, legislative recommendations, testimony, and comments on legislation submitted by the Commission to the President or the Office of Management and Budget after the date of enactment of this Act \[Aug. 14, 2008\]."
 
 #### User Fee Study
 

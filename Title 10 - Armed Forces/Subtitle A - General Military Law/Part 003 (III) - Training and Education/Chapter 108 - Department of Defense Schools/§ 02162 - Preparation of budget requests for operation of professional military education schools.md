@@ -40,49 +40,49 @@ Professional Military Education Schools.—This section applies to each of the f
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(2). Pub. L. 107–314 substituted “December 28, 2001,” for “the date of the enactment of this paragraph”.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–314 substituted "December 28, 2001," for "the date of the enactment of this paragraph".
 
 <b>2001</b>—Subsec. (b)(2), (3). Pub. L. 107–107 added par. (2) and redesignated former par. (2) as (3).
 
 <b>1997</b>—Subsec. (d). Pub. L. 105–85 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
-“(d)
+"(d)
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘professional military education school’ means—
+&emsp;"(1) The term 'professional military education school' means—
 
-&emsp;&emsp;“(A) the National Defense University;
+&emsp;&emsp;"(A) the National Defense University;
 
-&emsp;&emsp;“(B) the Army War College;
+&emsp;&emsp;"(B) the Army War College;
 
-&emsp;&emsp;“(C) the College of Naval Warfare;
+&emsp;&emsp;"(C) the College of Naval Warfare;
 
-&emsp;&emsp;“(D) the Air War College;
+&emsp;&emsp;"(D) the Air War College;
 
-&emsp;&emsp;“(E) the United States Army Command and General Staff College;
+&emsp;&emsp;"(E) the United States Army Command and General Staff College;
 
-&emsp;&emsp;“(F) the College of Naval Command and Staff;
+&emsp;&emsp;"(F) the College of Naval Command and Staff;
 
-&emsp;&emsp;“(G) the Air Command and Staff College; or
+&emsp;&emsp;"(G) the Air Command and Staff College; or
 
-&emsp;&emsp;“(H) the Marine Corps Command and Staff College.
+&emsp;&emsp;"(H) the Marine Corps Command and Staff College.
 
-&emsp;“(2) The term ‘National Defense University’ means the National War College, the Armed Forces Staff College, and the Industrial College of the Armed Forces.”
+&emsp;"(2) The term 'National Defense University' means the National War College, the Armed Forces Staff College, and the Industrial College of the Armed Forces."
 
 #### Effective Date
 
-Pub. L. 101–510, div. A, title IX, §911(b)\[(c)\], Nov. 5, 1990, 104 Stat. 1626, provided that: “Section 2162 of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 1991.”
+Pub. L. 101–510, div. A, title IX, §911(b)\[(c)\], Nov. 5, 1990, 104 Stat. 1626, provided that: "Section 2162 of title 10, United States Code, as added by subsection (a), shall apply with respect to fiscal years after fiscal year 1991."
 
 #### Executive Agent for Funding Professional Development Education
 
 Pub. L. 107–107, div. A, title V, §527(a), Dec. 28, 2001, 115 Stat. 1101, provided that:
 
-“(1) Effective beginning with fiscal year 2003, the Secretary of Defense shall be the executive agent for funding professional development education operations of all components of the National Defense University, including the Joint Forces Staff College. The Secretary may not delegate the Secretary's functions and responsibilities under the preceding sentence to the Secretary of a military department.
+"(1) Effective beginning with fiscal year 2003, the Secretary of Defense shall be the executive agent for funding professional development education operations of all components of the National Defense University, including the Joint Forces Staff College. The Secretary may not delegate the Secretary's functions and responsibilities under the preceding sentence to the Secretary of a military department.
 
-“(2) Nothing in this subsection affects policies in effect on the date of the enactment of this Act \[Dec. 28, 2001\] with respect to—
+"(2) Nothing in this subsection affects policies in effect on the date of the enactment of this Act \[Dec. 28, 2001\] with respect to—
 
-&emsp;“(A) the reporting of the President of the National Defense University to the Chairman of the Joint Chiefs of Staff; or
+&emsp;"(A) the reporting of the President of the National Defense University to the Chairman of the Joint Chiefs of Staff; or
 
-&emsp;“(B) provision of logistical and base operations support for components of the National Defense University by the military departments.”
+&emsp;"(B) provision of logistical and base operations support for components of the National Defense University by the military departments."
 

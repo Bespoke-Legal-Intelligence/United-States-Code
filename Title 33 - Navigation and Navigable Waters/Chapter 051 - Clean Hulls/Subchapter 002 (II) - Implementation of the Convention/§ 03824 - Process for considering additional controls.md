@@ -8,7 +8,7 @@ The Administrator may—
 
 &emsp;(2) evaluate any risks of adverse effects on nontarget organisms or human health presented by a given antifouling system such that the amendment of annex 1 of the Convention may be warranted;
 
-&emsp;(3) undertake an assessment of relevant environmental, technical, and economic considerations necessary to evaluate any proposalsfor new or additional controls of antifouling systems under the Convention, including benefits in the United States and elsewhere associated with the production and use in the United States and elsewhere, of the subject antifouling system; and
+&emsp;(3) undertake an assessment of relevant environmental, technical, and economic considerations necessary to evaluate any proposals for new or additional controls of antifouling systems under the Convention, including benefits in the United States and elsewhere associated with the production and use in the United States and elsewhere, of the subject antifouling system; and
 
 &emsp;(4) develop recommendations based on that assessment.
 
@@ -20,7 +20,7 @@ The Administrator may—
 
 #### (2) Report by technical group
 
-&emsp;The Administrator shall promptly make any report by the technical group described in the Convention available to the public through the docket established pursuant to subsection (b) and announce the availability of that report in the Federal Register. The Administrator shall provide an opportunity for public comment on the report for a period of not less than 30 days from the time the availability of the report is announced in the Federal Register.
+&emsp;The Administrator shall promptly make any report by the technical group described in theConvention available to the public through the docket established pursuant to subsection (b) and announce the availability of that report in the Federal Register. The Administrator shall provide an opportunity for public comment on the report for a period of not less than 30 days from the time the availability of the report is announced in the Federal Register.
 
 #### (3) Consideration of comments
 

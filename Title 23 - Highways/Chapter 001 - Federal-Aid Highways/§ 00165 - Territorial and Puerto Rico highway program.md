@@ -64,7 +64,7 @@ Territorial Highway Program.—
 
 &emsp;(1)
 
-Territory defined.—In this subsection, the term “territory” means any of the following territories of the United States:
+Territory defined.—In this subsection, the term "territory" means any of the following territories of the United States:
 
 &emsp;&emsp;(A) American Samoa.
 

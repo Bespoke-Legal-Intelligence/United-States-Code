@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Jewish War Veterans, U.S.A., National Memorial, Incorporated (in this chapter, the “corporation”), is a federally chartered corporation.
+Federal Charter.—Jewish War Veterans, U.S.A., National Memorial, Incorporated (in this chapter, the "corporation"), is a federally chartered corporation.
 
 (b)
 

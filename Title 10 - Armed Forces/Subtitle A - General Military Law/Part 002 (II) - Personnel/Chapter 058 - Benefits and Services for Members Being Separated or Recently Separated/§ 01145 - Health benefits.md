@@ -20,7 +20,7 @@ Transitional Health Care.—(1) For the time period described in paragraph (4), 
 
 &emsp;(E) A member who receives a sole survivorship discharge (as defined in section 1174(i) of this title).
 
-&emsp;(F) A member who is separated from active duty who agrees to become a member of theSelected Reserve of the Ready Reserve of a reserve component.
+&emsp;(F) A member who is separated from active duty who agrees to become a member of the Selected Reserve of the Ready Reserve of a reserve component.
 
 (3) In the case of a member described in paragraph (2)(B), the dental care to which the member is entitled under this subsection shall be the dental care to which a member of the uniformed services on active duty for more than 30 days is entitled under section 1074 of this title.
 
@@ -78,7 +78,7 @@ Health Care For Certain Separated Members Not Otherwise Eligible.—(1) Consiste
 
 (d)
 
-Definition.—In this section, the term “conversion health policy” means a health insurance policy with a private insurer, developed through negotiations between the Secretary of Defense and a private insurer, that is available for purchase by or for the use of a person who is no longer a member of the armed forces or a covered beneficiary.
+Definition.—In this section, the term "conversion health policy" means a health insurance policy with a private insurer, developed through negotiations between the Secretary of Defense and a private insurer, that is available for purchase by or for the use of a person who is no longer a member of the armed forces or a covered beneficiary.
 
 (e)
 
@@ -88,33 +88,33 @@ Coast Guard.—The Secretary of Homeland Security shall implement this section f
 
 #### Amendments
 
-<b>2013</b>—Subsec. (e). Pub. L. 112–239 inserted “when the Coast Guard is not operating as a service in the Navy” before period at end.
+<b>2013</b>—Subsec. (e). Pub. L. 112–239 inserted "when the Coast Guard is not operating as a service in the Navy" before period at end.
 
-<b>2011</b>—Subsec. (a)(4). Pub. L. 112–81 inserted at end “For purposes of the preceding sentence, in the case of a member on active duty as described in subparagraph (B), (C), or (D) of paragraph (2) who, without a break in service, is extended on active duty for any reason, the 180-day period shall begin on the date on which the member is separated from such extended active duty.”
+<b>2011</b>—Subsec. (a)(4). Pub. L. 112–81 inserted at end "For purposes of the preceding sentence, in the case of a member on active duty as described in subparagraph (B), (C), or (D) of paragraph (2) who, without a break in service, is extended on active duty for any reason, the 180-day period shall begin on the date on which the member is separated from such extended active duty."
 
-<b>2009</b>—Subsec. (a)(1). Pub. L. 111–84, §703(1)(A), substituted “paragraph (4)” for “paragraph (3)” in introductory provisions.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–84, §703(1)(A), substituted "paragraph (4)" for "paragraph (3)" in introductory provisions.
 
-Subsec. (a)(1)(A). Pub. L. 111–84, §703(1)(B), inserted “except as provided in paragraph (3),” before “medical and dental care”.
+Subsec. (a)(1)(A). Pub. L. 111–84, §703(1)(B), inserted "except as provided in paragraph (3)," before "medical and dental care".
 
-Subsec. (a)(3) to (7). Pub. L. 111–84, §703(2)–(5), added par. (3), redesignated former pars. (3) to (6) as (4) to (7), respectively, in par. (4) substituted “paragraph (7)” for “paragraph (6)”, and in par. (6)(A) substituted “paragraph (5)” for “paragraph (4)”.
+Subsec. (a)(3) to (7). Pub. L. 111–84, §703(2)–(5), added par. (3), redesignated former pars. (3) to (6) as (4) to (7), respectively, in par. (4) substituted "paragraph (7)" for "paragraph (6)", and in par. (6)(A) substituted "paragraph (5)" for "paragraph (4)".
 
 <b>2008</b>—Subsec. (a)(2)(E). Pub. L. 110–317 added subpar. (E).
 
 Subsec. (a)(2)(F). Pub. L. 110–417 added subpar. (F).
 
-Subsec. (a)(3). Pub. L. 110–181, §1637(1), substituted “Except as provided in paragraph (6), transitional health care” for “Transitional health care”.
+Subsec. (a)(3). Pub. L. 110–181, §1637(1), substituted "Except as provided in paragraph (6), transitional health care" for "Transitional health care".
 
 Subsec. (a)(6). Pub. L. 110–181, §1637(2), added par. (6).
 
 <b>2006</b>—Subsec. (a)(5). Pub. L. 109–163 added par. (5).
 
-<b>2004</b>—Subsec. (a)(1). Pub. L. 108–375, §706(a)(3), struck out “applicable” before “time period” in introductory provisions.
+<b>2004</b>—Subsec. (a)(1). Pub. L. 108–375, §706(a)(3), struck out "applicable" before "time period" in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 108–375, §706(a)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Transitional health care shall be available under subsection (a) for a specified time period beginning on the date on which the member is separated as follows:
+Subsec. (a)(3). Pub. L. 108–375, §706(a)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Transitional health care shall be available under subsection (a) for a specified time period beginning on the date on which the member is separated as follows:
 
-&emsp;“(A) For members separated with less than six years of active service, 60 days.
+&emsp;"(A) For members separated with less than six years of active service, 60 days.
 
-&emsp;“(B) For members separated with six or more years of active service, 120 days.”
+&emsp;"(B) For members separated with six or more years of active service, 120 days."
 
 Subsec. (a)(4). Pub. L. 108–375, §706(b), added par. (4).
 
@@ -122,43 +122,43 @@ Subsec. (a)(4). Pub. L. 108–375, §706(b), added par. (4).
 
 Subsec. (e). Pub. L. 107–314, §706(b), amended Pub. L. 107–107, §736(b)(2). See 2001 Amendment note below.
 
-Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107, §736(a)(1), as amended by Pub. L. 107–314, §706(a), in introductory provisions, substituted “paragraph (3), a member of the armed forces who is separated from active duty as described in paragraph (2) (and the dependents of the member)” for “paragraph (2), a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 1990, and ending on December 31, 2001 (and the dependents of the member),”.
+<b>2001</b>—Subsec. (a)(1). Pub. L. 107–107, §736(a)(1), as amended by Pub. L. 107–314, §706(a), in introductory provisions, substituted "paragraph (3), a member of the armed forces who is separated from active duty as described in paragraph (2) (and the dependents of the member)" for "paragraph (2), a member of the armed forces who is involuntarily separated from active duty during the period beginning on October 1, 1990, and ending on December 31, 2001 (and the dependents of the member),".
 
 Subsec. (a)(2). Pub. L. 107–107, §736(a)(3), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (a)(3). Pub. L. 107–107, §736(a)(2), (4), redesignated par. (2) as (3) and struck out “involuntarily” before “separated” wherever appearing.
+Subsec. (a)(3). Pub. L. 107–107, §736(a)(2), (4), redesignated par. (2) as (3) and struck out "involuntarily" before "separated" wherever appearing.
 
-Subsec. (c)(1). Pub. L. 107–107, §736(b)(1), struck out “during the period beginning on October 1, 1990, and ending on December 31, 2001” after “armed forces”.
+Subsec. (c)(1). Pub. L. 107–107, §736(b)(1), struck out "during the period beginning on October 1, 1990, and ending on December 31, 2001" after "armed forces".
 
-Subsec. (e). Pub. L. 107–107, §736(b)(2), as amended by Pub. L. 107–314, §706(b), substituted “the members of the Coast Guard and their dependents” for “the Coast Guard” in second sentence and struck out first sentence which read as follows: “The provisions of this section shall apply to members of the Coast Guard (and their dependents) involuntarily separated from active duty during the period beginning on October 1, 1994, and ending on December 31, 2001.”
+Subsec. (e). Pub. L. 107–107, §736(b)(2), as amended by Pub. L. 107–314, §706(b), substituted "the members of the Coast Guard and their dependents" for "the Coast Guard" in second sentence and struck out first sentence which read as follows: "The provisions of this section shall apply to members of the Coast Guard (and their dependents) involuntarily separated from active duty during the period beginning on October 1, 1994, and ending on December 31, 2001."
 
-<b>2000</b>—Subsecs. (a)(1), (c)(1), (e). Pub. L. 106–398 substituted “December 31, 2001” for “September 30, 2001”.
+<b>2000</b>—Subsecs. (a)(1), (c)(1), (e). Pub. L. 106–398 substituted "December 31, 2001" for "September 30, 2001".
 
-<b>1998</b>—Subsecs. (a)(1), (c)(1). Pub. L. 105–261, §561(h)(1), substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
+<b>1998</b>—Subsecs. (a)(1), (c)(1). Pub. L. 105–261, §561(h)(1), substituted "during the period beginning on October 1, 1990, and ending on September 30, 2001" for "during the nine-year period beginning on October 1, 1990".
 
-Subsec. (e). Pub. L. 105–261, §561(h)(2), substituted “during the period beginning on October 1, 1994, and ending on September 30, 2001” for “during the five-year period beginning on October 1, 1994”.
+Subsec. (e). Pub. L. 105–261, §561(h)(2), substituted "during the period beginning on October 1, 1994, and ending on September 30, 2001" for "during the five-year period beginning on October 1, 1994".
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–337 added subsec. (e).
 
-<b>1993</b>—Subsecs. (a)(1), (c)(1). Pub. L. 103–160 substituted “nine-year period” for “five-year period”.
+<b>1993</b>—Subsecs. (a)(1), (c)(1). Pub. L. 103–160 substituted "nine-year period" for "five-year period".
 
-<b>1992</b>—Subsec. (b)(1). Pub. L. 102–484, §4407(a)(1), inserted at end “A conversion health policy offered under this paragraph shall provide coverage for not less than an 18-month period.”
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–484, §4407(a)(1), inserted at end "A conversion health policy offered under this paragraph shall provide coverage for not less than an 18-month period."
 
-Subsec. (b)(2)(A). Pub. L. 102–484, §4407(a)(2), substituted “18-month period” for “one-year period”.
+Subsec. (b)(2)(A). Pub. L. 102–484, §4407(a)(2), substituted "18-month period" for "one-year period".
 
 Subsec. (b)(4) to (6). Pub. L. 102–484, §4407(a)(3), added pars. (4) to (6).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–417, \[div. A\], title VII, §734(b), Oct. 14, 2008, 122 Stat. 4513, provided that: “Subparagraph (F) of section 1145(a)(2) of title 10, United States Code, as added by subsection (a), shall apply with respect to members of the Armed Forces separated from active duty after the date of the enactment of this Act \[Oct. 14, 2008\].”
+Pub. L. 110–417, \[div. A\], title VII, §734(b), Oct. 14, 2008, 122 Stat. 4513, provided that: "Subparagraph (F) of section 1145(a)(2) of title 10, United States Code, as added by subsection (a), shall apply with respect to members of the Armed Forces separated from active duty after the date of the enactment of this Act \[Oct. 14, 2008\]."
 
 Amendment by Pub. L. 110–317 applicable with respect to any sole survivorship discharge granted after Aug. 29, 2008, see section 10 of Pub. L. 110–317, set out as a note under section 2108 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–314, div. A, title VII, §706(c), Dec. 2, 2002, 116 Stat. 2585, provided that: “The amendments made by this section \[amending this section\] shall take effect as of December 28, 2001, and as if included in the National Defense Authorization Act for Fiscal Year 2002 \[Pub. L. 107–107\] as enacted.”
+Pub. L. 107–314, div. A, title VII, §706(c), Dec. 2, 2002, 116 Stat. 2585, provided that: "The amendments made by this section \[amending this section\] shall take effect as of December 28, 2001, and as if included in the National Defense Authorization Act for Fiscal Year 2002 \[Pub. L. 107–107\] as enacted."
 
 Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of this title.
 
@@ -166,21 +166,85 @@ Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Gu
 
 Amendment by Pub. L. 103–337 applicable only to members of the Coast Guard who are separated after Sept. 30, 1994, see section 542(e) of Pub. L. 103–337, set out as a note under section 1141 of this title.
 
-#### Application of Amendments by Pub. L. 102–484 to Existing Contracts
+#### Mental Health Care Treatment Through Telemedicine
 
-For provisions relating to the application of the amendments by section 4407 of Pub. L. 102–484 to conversion health policies provided under subsec. (b) of this section and in effect on Oct. 23, 1992, see section 4407(c) of Pub. L. 102–484, set out as a note under section 1086a of this title.
+Pub. L. 113–66, div. A, title VII, §702, Dec. 26, 2013, 127 Stat. 790, provided that:
 
-#### Transitional Provision
+"(a)
 
-Pub. L. 102–484, div. D, title XLIV, §4408(b), Oct. 23, 1992, 106 Stat. 2712, provided that: “The Secretary of Defense shall provide a period for the enrollment for health benefits coverage under this section \[enacting section 1078a of this title and provisions set out as notes under this section and section 1086a of this title\] by members and former members of the Armed Services for whom the availability of transitional health care under section 1145(a) of title 10, United States Code, expires before the October 1, 1994, implementation date of section 1078a of such title, as added by subsection (a).”
+Provision of Mental Health Care Via Telemedicine.—
 
-#### Termination of Applicability of Other Conversion Health Policies
+&emsp;"(1)
 
-For provisions prohibiting purchase of, and allowing cancellation of, conversion health policies under subsec. (b) of this section on or after Oct. 1, 1994, see section 4408(c) of Pub. L. 102–484, set out as a note under section 1086a of this title.
+In general.—In carrying out the Transitional Assistance Management Program, the Secretary of Defense may extend the coverage of such program for covered individuals for an additional 180 days for mental health care provided through telemedicine.
+
+&emsp;"(2)
+
+Report.—If the Secretary extends coverage under paragraph (1), by not later than one year after the date of carrying out such extension, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report that includes the following:
+
+&emsp;&emsp;"(A) The rate at which individuals are using the extended coverage provided pursuant to paragraph (1).
+
+&emsp;&emsp;"(B) A description of the mental health care provided pursuant to such subsection.
+
+&emsp;&emsp;"(C) An analysis of how the Secretary and the Secretary of Veterans Affairs coordinate the continuation of care with respect to veterans who are no longer eligible for the Transitional Assistance Management Program.
+
+&emsp;&emsp;"(D) Any other factors the Secretary of Defense determines necessary with respect to extending coverage of the Transitional Assistance Management Program.
+
+&emsp;"(3)
+
+Termination.—The authority of the Secretary to carry out subsection (a) shall terminate on December 31, 2018.
+
+"(b)
+
+Report on Use of Telemedicine.—
+
+&emsp;"(1)
+
+In general.—Not later than 270 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary shall submit to the congressional defense committees a report on the use of telemedicine to improve the diagnosis and treatment of post-traumatic stress disorder, traumatic brain injuries, and mental health conditions.
+
+&emsp;"(2)
+
+Elements.—The report under paragraph (1) shall address the following:
+
+&emsp;&emsp;"(A) The current status, as of the date of the report, of telemedicine initiatives within the Department of Defense to diagnose and treat post-traumatic stress disorder, traumatic brain injuries, and mental health conditions.
+
+&emsp;&emsp;"(B) Plans for integrating telemedicine into the military health care system, including in health care delivery, records management, medical education, public health, and private sector partnerships.
+
+&emsp;&emsp;"(C) The status of the integration of the telemedicine initiatives of the Department with thetelemedicine initiatives of the Department of Veterans Affairs.
+
+&emsp;&emsp;"(D) A description and assessment of challenges to the use of telemedicine as a means of in-home treatment, outreach in rural areas, and in settings that provide group treatment or therapy in connection with treatment of post-traumatic stress disorder, traumatic brain injuries, and mental health conditions, and a description and assessment of efforts to address such challenges.
+
+&emsp;&emsp;"(E) A description of privacy issues related to the use of telemedicine for the treatment of post-traumatic stress disorder, traumatic brain injuries, and mental health conditions, and recommendations for mechanisms to remedy any privacy concerns relating to such use of telemedicine.
+
+&emsp;&emsp;"(F) A description of professional licensing issues with respect to licensed medical providers who provide treatment using telemedicine.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'covered individual' means an individual who—
+
+&emsp;&emsp;"(A) during the initial 180-day period of being enrolled in the Transitional Assistance Management Program, received any mental health care; or
+
+&emsp;&emsp;"(B) during the one-year period preceding separation or discharge from the Armed Forces, received any mental health care.
+
+&emsp;"(2) The term 'telemedicine' means the use by a health care provider of telecommunications to assist in the diagnosis or treatment of a patient's medical condition."
 
 #### Temporary Extension of Transitional Health Care Benefits
 
 Pub. L. 108–136, div. A, title VII, §704, Nov. 24, 2003, 117 Stat. 1527, which provided during the period beginning on Nov. 24, 2003, and ending on Dec. 31, 2004, for the extension of transitional health care benefits to 180 days for members separated from active duty, was repealed by Pub. L. 108–375, div. A, title VII, §706(a)(2)(A), Oct. 28, 2004, 118 Stat. 1983.
 
 Pub. L. 108–106, title I, §1117, Nov. 6, 2003, 117 Stat. 1218, which provided during the period beginning on Nov. 6, 2003, and ending on Sept. 30, 2004, for the extension of transitional health care benefits to 180 days for members separated from active duty, was repealed by Pub. L. 108–375, div. A, title VII, §706(a)(2)(B), Oct. 28, 2004, 118 Stat. 1983.
+
+#### Application of Amendments by Pub. L. 102–484 to Existing Contracts
+
+For provisions relating to the application of the amendments by section 4407 of Pub. L. 102–484 to conversion health policies provided under subsec. (b) of this section and in effect on Oct. 23, 1992, see section 4407(c) of Pub. L. 102–484, set out as a note under section 1086a of this title.
+
+#### Transitional Provision
+
+Pub. L. 102–484, div. D, title XLIV, §4408(b), Oct. 23, 1992, 106 Stat. 2712, provided that: "The Secretary of Defense shall provide a period for the enrollment for health benefits coverage under this section \[enacting section 1078a of this title and provisions set out as notes under this section and section 1086a of this title\] by members and former members of the Armed Services for whom the availability of transitional health care under section 1145(a) of title 10, United States Code, expires before the October 1, 1994, implementation date of section 1078a of such title, as added by subsection (a)."
+
+#### Termination of Applicability of Other Conversion Health Policies
+
+For provisions prohibiting purchase of, and allowing cancellation of, conversion health policies under subsec. (b) of this section on or after Oct. 1, 1994, see section 4408(c) of Pub. L. 102–484, set out as a note under section 1086a of this title.
 

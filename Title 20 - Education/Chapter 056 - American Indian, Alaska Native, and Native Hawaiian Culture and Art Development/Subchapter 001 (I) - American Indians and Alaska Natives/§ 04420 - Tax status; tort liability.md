@@ -16,5 +16,5 @@ The Institute and the franchise, capital, reserves, income, and property of the 
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–446 inserted “; tort liability” in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
+<b>1988</b>—Pub. L. 100–446 inserted "; tort liability" in section catchline, designated existing provisions as subsec. (a) and inserted heading, and added subsec. (b).
 

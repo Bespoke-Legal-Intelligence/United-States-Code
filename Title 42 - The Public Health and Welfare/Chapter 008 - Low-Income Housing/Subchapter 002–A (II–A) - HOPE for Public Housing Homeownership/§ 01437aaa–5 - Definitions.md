@@ -2,7 +2,7 @@
 
 For purposes of this subchapter:
 
-&emsp;(1) The term “applicant” means the following entities that may represent the tenants of the project:
+&emsp;(1) The term "applicant" means the following entities that may represent the tenants of the project:
 
 &emsp;&emsp;(A) A public housing agency.
 
@@ -16,7 +16,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(F) A public body, including an agency or instrumentality thereof.
 
-&emsp;(2) The term “eligible family” means—
+&emsp;(2) The term "eligible family" means—
 
 &emsp;&emsp;(A) a family or individual who is a tenant in the public housing project on the date the Secretary approves an implementation grant;
 
@@ -24,11 +24,11 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(C) a family or individual who is assisted under a housing program administered by the Secretary or the Secretary of Agriculture (not including any non-low income families assisted under any mortgage insurance program administered by either Secretary).
 
-&emsp;(3) The term “homeownership program” means a program for homeownership meeting the requirements under this subchapter.
+&emsp;(3) The term "homeownership program" means a program for homeownership meeting the requirements under this subchapter.
 
-&emsp;(4) The term “recipient” means an applicant approved to receive a grant under this subchapter or such other entity specified in the approved application that will assume the obligations of the recipient under this subchapter.
+&emsp;(4) The term "recipient" means an applicant approved to receive a grant under this subchapter or such other entity specified in the approved application that will assume the obligations of the recipient under this subchapter.
 
-&emsp;(5) The term “resident council” means any incorporated nonprofit organization or association that—
+&emsp;(5) The term "resident council" means any incorporated nonprofit organization or association that—
 
 &emsp;&emsp;(A) is representative of the tenants of the housing;
 
@@ -40,9 +40,9 @@ For purposes of this subchapter:
 
 #### Amendments
 
-<b>1996</b>—Par. (1)(A). Pub. L. 104–330, §501(c)(2)(A), struck out “(including an Indian housing authority)” after “agency”.
+<b>1996</b>—Par. (1)(A). Pub. L. 104–330, §501(c)(2)(A), struck out "(including an Indian housing authority)" after "agency".
 
-Par. (2)(A). Pub. L. 104–330, §501(c)(2)(B), struck out “or Indian” after “public”.
+Par. (2)(A). Pub. L. 104–330, §501(c)(2)(B), struck out "or Indian" after "public".
 
 #### Effective Date of 1996 Amendment
 

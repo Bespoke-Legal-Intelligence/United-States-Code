@@ -16,7 +16,7 @@ Section was formerly set out as a note under section 2121 of Title 42, The Publi
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–239, §3133(b)(2), substituted “Stockpile stewardship criteria” for “Report on stockpile stewardship criteria” in section catchline.
+<b>2013</b>—Pub. L. 112–239, §3133(b)(2), substituted "Stockpile stewardship criteria" for "Report on stockpile stewardship criteria" in section catchline.
 
 Subsecs. (c), (d). Pub. L. 112–239, §3133(b)(1), struck out subsecs. (c) and (d), which related, respectively, to report and definitions.
 
@@ -24,5 +24,5 @@ Subsecs. (c), (d). Pub. L. 112–239, §3133(b)(1), struck out subsecs. (c) and 
 
 Subsec. (d). Pub. L. 111–84, §3112(b), added subsec. (d).
 
-<b>1999</b>—Subsec. (c). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security” before “of the House of Representatives”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–65 substituted "Committee on Armed Services" for "Committee on National Security" before "of the House of Representatives".
 

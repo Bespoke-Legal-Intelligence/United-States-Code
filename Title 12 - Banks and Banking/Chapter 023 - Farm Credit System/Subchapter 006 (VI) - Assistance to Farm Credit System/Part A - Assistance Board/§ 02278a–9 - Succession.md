@@ -30,7 +30,7 @@ To the extent that, on the extinguishing of liabilities assumed by the Assistanc
 
 &emsp;&emsp;(B) on the date the Financial Assistance Corporation is chartered, the accounts payable of each contributing bank under such agreements for the calendar quarter ending on September 30, 1986, shall, by operation of law and without any further action by such contributing bank, any other bank, or any court, become and be converted into accounts payable of the Financial Assistance Corporation to each receiving bank under such agreement for such calendar quarter in the same amounts as previously carried on the books of each such receiving bank; and
 
-&emsp;&emsp;(C) on the date the Financial Assistance Corporation is chartered, the accounts receivable of each receiving bank under such agreements for the calendar quarter ending September 30, 1986, shall, by operation of law and without any further action by such receiving bank or any other bank, or any court, become and be converted into accounts receivable to such receiving bank from the Financial Assistance Corporation, in the same amount as previously carried on the books of such receiving bank and such receivables shall, for all financial reporting purposes, be accounted for as an asset on the books of such receiving bank in accordance with generally accepted accounting practices.
+&emsp;&emsp;(C) on the date the Financial Assistance Corporation is chartered, the accounts receivable of each receiving bank under such agreements for the calendar quarter ending September 30, 1986, shall, by operation of law and without any further action by such receiving bank or any other bank, or any court, become and be converted into accounts receivable to such receiving bankfrom the Financial Assistance Corporation, in the same amount as previously carried on the books of such receiving bank and such receivables shall, for all financial reporting purposes, be accounted for as an asset on the books of such receiving bank in accordance with generally accepted accounting practices.
 
 #### (2) Payments to receiving banks
 
@@ -72,7 +72,7 @@ To the extent that, on the extinguishing of liabilities assumed by the Assistanc
 
 #### (iv) Obligations of other banks
 
-&emsp;&emsp;&emsp;The obligations of other banks shall not be reduced in anticipation of any recoveries under this subparagraph from banks leaving the System or in liquidation, but the Financial Assistance Corporation shall apply the recoveries, when received, and all earnings on the recoveries, to reduce the other banks’ payment obligations, or, to the extent the recoveries are received after the other banks have met their entire payment obligation, shall refund the recoveries, when received, to the other banks in proportion to the other banks’ payments.
+&emsp;&emsp;&emsp;The obligations of other banks shall not be reduced in anticipation of any recoveries under this subparagraph from banks leaving the System or in liquidation, but the Financial Assistance Corporation shall apply the recoveries, when received, and all earnings on the recoveries, to reduce the other banks' payment obligations, or, to the extent the recoveries are received after the other banks have met their entire payment obligation, shall refund the recoveries, when received, to the other banks in proportion to the other banks' payments.
 
 #### (D) Annual payments
 
@@ -86,11 +86,11 @@ To the extent that, on the extinguishing of liabilities assumed by the Assistanc
 
 #### (iii) Investment; availability
 
-&emsp;&emsp;&emsp;The funds received by the Financial Assistance Corporation pursuant to the agreements shall be invested in eligible investments as defined in section 2278b–5(a)(1) of this title. The funds and the earnings on the funds shall be available only for the payment of the principal of the bonds issued by the Financial Assistance Corporation under this subsection.
+&emsp;&emsp;&emsp;The funds received by the Financial Assistance Corporation pursuant to theagreements shall be invested in eligible investments as defined in section 2278b–5(a)(1) of this title. The funds and the earnings on the funds shall be available only for the payment of the principal of the bonds issued by the Financial Assistance Corporation under this subsection.
 
 #### (E) Financial reporting
 
-&emsp;&emsp;Until each obligation issued in accordance with this subsection reaches maturity, forall financial reporting purposes, such obligation shall be considered to be the sole obligation of the Financial Assistance Corporation and shall not be considered a liability of any System bank, nor shall the obligation to make future annuity payments to the Financial Assistance Corporation under subparagraph (D) be considered a liability of any System bank.
+&emsp;&emsp;Until each obligation issued in accordance with this subsection reaches maturity, for all financial reporting purposes, such obligation shall be considered to be the sole obligation of the Financial Assistance Corporation and shall not be considered a liability of any System bank, nor shall the obligation to make future annuity payments to the Financial Assistance Corporation under subparagraph (D) be considered a liability of any System bank.
 
 #### (4) Funds not considered financial assistance
 
@@ -112,21 +112,21 @@ The Agricultural Credit Act of 1987, referred to in subsec. (e)(5), is Pub. L. 1
 
 <b>1992</b>—Subsec. (e)(3)(C). Pub. L. 102–552, §301(1), added subpar. (C) and struck out former subpar. (C) which read as follows:
 
-“(C)
+"(C)
 
 Payment of principal.—After the end of the 15-year period beginning on the date of the issuance of any obligation issued to carry out this subsection, the banks operating under this chapter shall pay to the Financial Assistance Corporation, on demand, an amount equal to the outstanding principal of such obligation. Each bank shall pay a proportion of such principal equal to—
 
-&emsp;“(i) the average accruing loan volume of the bank for the preceding 15 years; divided by
+&emsp;"(i) the average accruing loan volume of the bank for the preceding 15 years; divided by
 
-&emsp;“(ii) the average accruing loan volume of all banks of the System for the same period.”
+&emsp;"(ii) the average accruing loan volume of all banks of the System for the same period."
 
 Subsec. (e)(3)(D). Pub. L. 102–552, §301(2), (3), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-Subsec. (e)(3)(E). Pub. L. 102–552, §301(2), (4), redesignated subpar. (D) as (E) and inserted before period at end “, nor shall the obligation to make future annuity payments to the Financial Assistance Corporation under subparagraph (D) be considered a liability of any System bank”.
+Subsec. (e)(3)(E). Pub. L. 102–552, §301(2), (4), redesignated subpar. (D) as (E) and inserted before period at end ", nor shall the obligation to make future annuity payments to the Financial Assistance Corporation under subparagraph (D) be considered a liability of any System bank".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–399, §201(k), inserted in heading “Assets and”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–399, §201(k), inserted in heading "Assets and".
 
-Subsec. (e)(5). Pub. L. 100–399, §201(l), inserted “activation of” after “instruments,” and struck out closing quotation mark and following period, which for purposes of codification had been previously struck out requiring no change in text.
+Subsec. (e)(5). Pub. L. 100–399, §201(l), inserted "activation of" after "instruments," and struck out closing quotation mark and following period, which for purposes of codification had been previously struck out requiring no change in text.
 
 #### Effective Date of 1988 Amendment
 

@@ -134,9 +134,9 @@ Nothing contained in this section shall be construed to authorize or permit any 
 
 The provisions of title XVIII of the Food and Agriculture Act of 1977 (7 U.S.C. 2281 et seq.) shall not apply to any advisory committee established under subsection (c) of this section.
 
-#### (m) “Non-Federal government” defined
+#### (m) "Non-Federal government" defined
 
-As used in this section, the term “non-Federal government” means—
+As used in this section, the term "non-Federal government" means—
 
 &emsp;(1) any State, territory, or possession of the United States, or the District of Columbia, or any political subdivision thereof; or
 
@@ -156,59 +156,59 @@ The Food and Agriculture Act of 1977, referred to in subsec. (l), is Pub. L. 95�
 
 #### Amendments
 
-<b>2006</b>—Subsec. (f)(2)(B). Pub. L. 109–280 substituted “its establishment” for “their establishment”.
+<b>2006</b>—Subsec. (f)(2)(B). Pub. L. 109–280 substituted "its establishment" for "their establishment".
 
-<b>2004</b>—Subsec. (b)(1). Pub. L. 108–429, §2004(i)(2), substituted “4 years or until the committee is scheduled to expire” for “2 years”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–429, §2004(i)(2), substituted "4 years or until the committee is scheduled to expire" for "2 years".
 
-Subsec. (f)(2). Pub. L. 108–429, §2004(i)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “to all other advisory committees which may be established under subsection (c) of this section; except that the meetings of advisory committees established under subsections (b) and (c) of this section shall be exempt from the requirements of subsections (a) and (b) of sections 10 and 11 of the Federal Advisory Committee Act (relating to open meetings, public notice, public participation, and public availability of documents), whenever and to the extent it is determined by the President or his designee that such meetings will be concerned with matters the disclosure of which would seriously compromise the development by the United States Government of trade policy, priorities, negotiating objectives or bargaining positions with respect to matters referred to in subsection (a) of this section, and that meetings may be called of such special task forces, plenary meetings of chairmen, or other such groups made up of members of the committees established under subsections (b) and (c) of this section.”
+Subsec. (f)(2). Pub. L. 108–429, §2004(i)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "to all other advisory committees which may be established under subsection (c) of this section; except that the meetings of advisory committees established under subsections (b) and (c) of this section shall be exempt from the requirements of subsections (a) and (b) of sections 10 and 11 of the Federal Advisory Committee Act (relating to open meetings, public notice, public participation, and public availability of documents), whenever and to the extent it is determined by the President or his designee that such meetings will be concerned with matters the disclosure of which would seriously compromise the development by the United States Government of trade policy, priorities, negotiating objectives or bargaining positions with respect to matters referred to in subsection (a) of this section, and that meetings may be called of such special task forces, plenary meetings of chairmen, or other such groups made up of members of the committees established under subsections (b) and (c) of this section."
 
-<b>2002</b>—Subsec. (a)(1)(A). Pub. L. 107–210, §2110(a)(5)(A), substituted “section 3803 of this title” for “section 2902 of this title”.
+<b>2002</b>—Subsec. (a)(1)(A). Pub. L. 107–210, §2110(a)(5)(A), substituted "section 3803 of this title" for "section 2902 of this title".
 
-Subsec. (e)(1). Pub. L. 107–210, §2110(a)(5)(B), substituted “section 3803 of this title” for “section 2902 of this title” in two places and “section 3805(a)(1)(A) of this title” for “section 2903(a)(1)(A) of this title”.
+Subsec. (e)(1). Pub. L. 107–210, §2110(a)(5)(B), substituted "section 3803 of this title" for "section 2902 of this title" in two places and "section 3805(a)(1)(A) of this title" for "section 2903(a)(1)(A) of this title".
 
-Subsec. (e)(2). Pub. L. 107–210, §2110(a)(5)(C), substituted “section 3802 of this title” for “section 2901 of this title”.
+Subsec. (e)(2). Pub. L. 107–210, §2110(a)(5)(C), substituted "section 3802 of this title" for "section 2901 of this title".
 
-<b>1994</b>—Subsec. (a)(1)(B). Pub. L. 103–465, §127(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the operation of any trade agreement once entered into; and”.
+<b>1994</b>—Subsec. (a)(1)(B). Pub. L. 103–465, §127(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "the operation of any trade agreement once entered into; and".
 
-Subsec. (b)(1). Pub. L. 103–465, §128, inserted “nongovernmental environmental and conservation organizations,” after “retailers,”.
+Subsec. (b)(1). Pub. L. 103–465, §128, inserted "nongovernmental environmental and conservation organizations," after "retailers,".
 
-<b>1988</b>—Pub. L. 100–418 amended section generally, substituting present provisions for provisions which, in the following subsections, had related to: subsec. (a), information and advice on trade agreements and other matters; subsec. (b), Advisory Committee for Trade Negotiations; subsec. (c), general policy, sectoral, functional, or policy advisory committees; subsec. (d), policy advice, technical advice and information, and other advice; subsec. (e), meeting of advisory committees at conclusion of negotiations for trade agreements; subsec. (f), Federal Advisory Committee Act; subsec. (g), trade secrets and confidential commercial, financial, or other information; subsec. (h), staff, information, personnel, and administrative services and assistance to advisory committees; subsec. (i), consultation with advisory committees; adoption of procedures; nonacceptance of committee advice or recommendations; subsec. (j), private or non-Federal government organizations or groups; subsec. (k), direct participation in negotiations by private individuals not authorized; information, consultation, participation of committee members and appropriate parties in international meetings; restrictions; subsec. (l), advisory committees established by Department of Agriculture; and subsec. (m), definition of “non-Federal government”.
+<b>1988</b>—Pub. L. 100–418 amended section generally, substituting present provisions for provisions which, in the following subsections, had related to: subsec. (a), information and advice on trade agreements and other matters; subsec. (b), Advisory Committee for Trade Negotiations; subsec. (c), general policy, sectoral, functional, or policy advisory committees; subsec. (d), policy advice, technical advice and information, and other advice; subsec. (e), meeting of advisory committees at conclusion of negotiations for trade agreements; subsec. (f), Federal Advisory Committee Act; subsec. (g), trade secrets and confidential commercial, financial, or other information; subsec. (h), staff, information, personnel, and administrative services and assistance to advisory committees; subsec. (i), consultation with advisory committees; adoption of procedures; nonacceptance of committee advice or recommendations; subsec. (j), private or non-Federal government organizations or groups; subsec. (k), direct participation in negotiations by private individuals not authorized; information, consultation, participation of committee members and appropriate parties in international meetings; restrictions; subsec. (l), advisory committees established by Department of Agriculture; and subsec. (m), definition of "non-Federal government".
 
 <b>1986</b>—Subsecs. (m), (n). Pub. L. 99–514 redesignated subsec. (n) as (m).
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–573, §306(c)(2)(B)(i), inserted “and the non-Federal governmental sector” after “private sector”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–573, §306(c)(2)(B)(i), inserted "and the non-Federal governmental sector" after "private sector".
 
 Subsec. (c)(3). Pub. L. 98–573, §306(c)(2)(B)(ii), added par. (3).
 
-Subsec. (g)(1)(A), (B). Pub. L. 98–573, §306(c)(2)(B)(iii), inserted “or non-Federal government” after “private”.
+Subsec. (g)(1)(A), (B). Pub. L. 98–573, §306(c)(2)(B)(iii), inserted "or non-Federal government" after "private".
 
-Subsec. (j). Pub. L. 98–573, §306(c)(2)(B)(iii), (iv), inserted “or non-Federal government” after “private” and “government,” before “labor, industry”.
+Subsec. (j). Pub. L. 98–573, §306(c)(2)(B)(iii), (iv), inserted "or non-Federal government" after "private" and "government," before "labor, industry".
 
 Subsec. (n). Pub. L. 98–573, §306(c)(2)(B)(v), added subsec. (n).
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–39, §1103(1), (2), struck out “, in accordance with the provisions of this section,” after “President” and required the seeking of information and advice respecting operation of a trade agreement once entered into and respecting other matters arising in connection with the administration of trade policy of the United States.
+<b>1979</b>—Subsec. (a). Pub. L. 96–39, §1103(1), (2), struck out ", in accordance with the provisions of this section," after "President" and required the seeking of information and advice respecting operation of a trade agreement once entered into and respecting other matters arising in connection with the administration of trade policy of the United States.
 
-Subsec. (b)(1). Pub. L. 96–39, §1103(3), substituted “matters referred to in subsection (a) of this section” for “any trade agreement referred to in section 2111 or 2112 of this title”.
+Subsec. (b)(1). Pub. L. 96–39, §1103(3), substituted "matters referred to in subsection (a) of this section" for "any trade agreement referred to in section 2111 or 2112 of this title".
 
 Subsec. (b)(2). Pub. L. 96–39, §1103(4), substituted requirement that the members elect the Chairman of the Committee from among its membership for provision designating the Special Representative as Chairman and struck out provision for termination of the Committee upon submission of its report to Congress as soon as practical after the end of the period which ends 5 years after Jan. 3, 1975.
 
-Subsec. (c)(1). Pub. L. 96–39, §1103(5), inserted a comma after “initiative”, included references to “services”, and substituted “general policy advice on matters referred to in subsection (a) of this section” for “general policy advice on any trade agreement referred to in section 2111 or 2112 of this title”, “Special Representative for Trade Negotiations” for “President acting through the Special Representative for Trade Negotiations” and “or Agriculture” for “and Agriculture”.
+Subsec. (c)(1). Pub. L. 96–39, §1103(5), inserted a comma after "initiative", included references to "services", and substituted "general policy advice on matters referred to in subsection (a) of this section" for "general policy advice on any trade agreement referred to in section 2111 or 2112 of this title", "Special Representative for Trade Negotiations" for "President acting through the Special Representative for Trade Negotiations" and "or Agriculture" for "and Agriculture".
 
-Subsec. (c)(2). Pub. L. 96–39, §1103(6)–(9), substituted “The President shall establish such sectoral or functional advisory committees as may be appropriate” for “The President shall, on his own initiative or at the request of organizations in a particular sector, establish such industry, labor, or agricultural sector advisory committees as he determines to be necessary for any trade negotiations referred to in section 2111 or 2112 of this title” and “Such committees shall, insofar as is practicable, be representative of all industry, labor, agricultural, or service interests (including small business interests) in the sector or functional areas concerned” for “Such committees shall, so far as practicable, be representative of all industry, labor, or agricultural interests including small business interests in the sector concerned” and “the Special Representative for Trade Negotiations” for “the President, acting through the Special Representative for Trade Negotiations”, struck out “product sector” before “advisory committees”, and inserted “, in the case of each sectoral committee,” before “the product lines”.
+Subsec. (c)(2). Pub. L. 96–39, §1103(6)–(9), substituted "The President shall establish such sectoral or functional advisory committees as may be appropriate" for "The President shall, on his own initiative or at the request of organizations in a particular sector, establish such industry, labor, or agricultural sector advisory committees as he determines to be necessary for any trade negotiations referred to in section 2111 or 2112 of this title" and "Such committees shall, insofar as is practicable, be representative of all industry, labor, agricultural, or service interests (including small business interests) in the sector or functional areas concerned" for "Such committees shall, so far as practicable, be representative of all industry, labor, or agricultural interests including small business interests in the sector concerned" and "the Special Representative for Trade Negotiations" for "the President, acting through the Special Representative for Trade Negotiations", struck out "product sector" before "advisory committees", and inserted ", in the case of each sectoral committee," before "the product lines".
 
-Subsec. (d). Pub. L. 96–39, §1103(10), required committee meetings to be also summoned at joint instance of Secretary of Agriculture, Commerce, or Labor, as appropriate, previously required to be called before and during trade negotiations, struck out item (1) through (3) designation for “policy advice”, “technical advice” and “advice on other factors”, struck out “on negotiations” and “on negotiations on particular products both domestic and foreign” after “policy advice” and “technical advice and information” and substituted “factors relevant to the matters referred to in subsection (a) of this section” for “factors relevant to positions of the United States in trade negotiations.”
+Subsec. (d). Pub. L. 96–39, §1103(10), required committee meetings to be also summoned at joint instance of Secretary of Agriculture, Commerce, or Labor, as appropriate, previously required to be called before and during trade negotiations, struck out item (1) through (3) designation for "policy advice", "technical advice" and "advice on other factors", struck out "on negotiations" and "on negotiations on particular products both domestic and foreign" after "policy advice" and "technical advice and information" and substituted "factors relevant to the matters referred to in subsection (a) of this section" for "factors relevant to positions of the United States in trade negotiations."
 
-Subsec. (e). Pub. L. 96–39, §1103(11)–(14), redesignated par. (1) as entire provision, and in provision as so redesignated, substituted “each sector or functional advisory committee, if the sector or area” for “each sector advisory committee, if the sector”, “appropriate sector or functional area” for “appropriate sector”, and “within the sector or within the functional area” for “within the sector”, and struck out par. (2) which required a report to Congress by the Advisory Committee for Trade Negotiations by each policy advisory committee, and, each sector advisory committee as soon as practicable at end of the period ending 5 years after Jan. 3, 1975, including advisory opinions of the respective committees as to how the trade agreements serve the economic interests of United States and how provision is made for equity and reciprocity within the sector.
+Subsec. (e). Pub. L. 96–39, §1103(11)–(14), redesignated par. (1) as entire provision, and in provision as so redesignated, substituted "each sector or functional advisory committee, if the sector or area" for "each sector advisory committee, if the sector", "appropriate sector or functional area" for "appropriate sector", and "within the sector or within the functional area" for "within the sector", and struck out par. (2) which required a report to Congress by the Advisory Committee for Trade Negotiations by each policy advisory committee, and, each sector advisory committee as soon as practicable at end of the period ending 5 years after Jan. 3, 1975, including advisory opinions of the respective committees as to how the trade agreements serve the economic interests of United States and how provision is made for equity and reciprocity within the sector.
 
-Subsec. (f)(2). Pub. L. 96–39, §1103(15)(A), (B), substituted “committees” for “groups” and “with respect to matters referred to in subsection (a) of this section” for “on the negotiation of any trade agreement”.
+Subsec. (f)(2). Pub. L. 96–39, §1103(15)(A), (B), substituted "committees" for "groups" and "with respect to matters referred to in subsection (a) of this section" for "on the negotiation of any trade agreement".
 
-Subsec. (g). Pub. L. 96–39, §1103(16), (17)(A), (B), substituted in par. (1)(A) “matters referred to in subsection (a) of this section” for “a trade agreement referred to in section 2111 or 2112 of this title”, in par. (1)(B) “matters referred to in subsection (a) of this section” for “trade negotiations”, and in par. (2) “matters referred to in subsection (a) of this title” for “proposed trade agreements”.
+Subsec. (g). Pub. L. 96–39, §1103(16), (17)(A), (B), substituted in par. (1)(A) "matters referred to in subsection (a) of this section" for "a trade agreement referred to in section 2111 or 2112 of this title", in par. (1)(B) "matters referred to in subsection (a) of this section" for "trade negotiations", and in par. (2) "matters referred to in subsection (a) of this title" for "proposed trade agreements".
 
-Subsec. (i). Pub. L. 96–39, §1103(18)(A)–(C), struck out in provision before cl. (1) “, both during preparation for negotiations and actual negotiations” after “basis” and in cl. (1) “arising in preparation for or in the course of such negotiations” after “developments” and substituted in cl. (2) “with respect to matters referred to in subsection (a) of this section” for “to the negotiations”.
+Subsec. (i). Pub. L. 96–39, §1103(18)(A)–(C), struck out in provision before cl. (1) ", both during preparation for negotiations and actual negotiations" after "basis" and in cl. (1) "arising in preparation for or in the course of such negotiations" after "developments" and substituted in cl. (2) "with respect to matters referred to in subsection (a) of this section" for "to the negotiations".
 
-Subsec. (j). Pub. L. 96–39, §1103(19), substituted “matters referred to in subsection (a) of this section” for “trade agreement referred to in section 2111 or 2112 of this title”.
+Subsec. (j). Pub. L. 96–39, §1103(19), substituted "matters referred to in subsection (a) of this section" for "trade agreement referred to in section 2111 or 2112 of this title".
 
-Subsec. (k). Pub. L. 96–39, §1103(19), (20), substituted “matters referred to in subsection (a) of this section” for “trade agreement referred to in section 2111 or 2112 of this title” and provided for information to and consultations with committee members and appropriate parties and participation in international meetings without becoming spokesmen or negotiators for the United States.
+Subsec. (k). Pub. L. 96–39, §1103(19), (20), substituted "matters referred to in subsection (a) of this section" for "trade agreement referred to in section 2111 or 2112 of this title" and provided for information to and consultations with committee members and appropriate parties and participation in international meetings without becoming spokesmen or negotiators for the United States.
 
 Subsec. (l). Pub. L. 96–39, §1103(21), added subsec. (l).
 
@@ -218,7 +218,7 @@ Amendment by Pub. L. 109–280 applicable with respect to goods entered, or with
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–429, title II, §2004(i)(3), Dec. 3, 2004, 118 Stat. 2595, provided that: “The amendments made by this subsection \[amending this section\] shall take effect on February 1, 2006.”
+Pub. L. 108–429, title II, §2004(i)(3), Dec. 3, 2004, 118 Stat. 2595, provided that: "The amendments made by this subsection \[amending this section\] shall take effect on February 1, 2006."
 
 #### Effective Date of 1994 Amendment
 
@@ -240,9 +240,9 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 Ex. Ord. No. 12905, Mar. 25, 1994, 59 F.R. 14733, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and section 135(c)(1) of the Trade Act of 1974, as amended (19 U.S.C. 2155(c)(1)) (“Act”), it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and section 135(c)(1) of the Trade Act of 1974, as amended (19 U.S.C. 2155(c)(1)) ("Act"), it is hereby ordered as follows:
 
-Section 1. <i>Establishment</i>. There is established in the Office of the United States Trade Representative (“Trade Representative”\[)\] the “Trade and Environment Policy Advisory Committee” (“Committee”).
+Section 1. <i>Establishment</i>. There is established in the Office of the United States Trade Representative ("Trade Representative"\[)\] the "Trade and Environment Policy Advisory Committee" ("Committee").
 
 Sec. 2. <i>Membership</i>. (a) The Committee shall consist of not more than 35 members, including, but not limited to, representatives from environmental interest groups, industry (including the environmental technology and environmental services industries), agriculture, services, non-Federal government, and consumer interests. The Committee should be broadly representative of the key sectors and groups of the economy with an interest in trade and environmental policy issues.
 
@@ -290,7 +290,9 @@ Term of Trade and Environment Policy Advisory Committee extended until Sept. 30,
 
 Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2011, by Ex. Ord. No. 13511, Sept. 29, 2009, 74 F.R. 50909, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
-Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2013, by Ex. Ord. No. 13585, Sept. 30, 2011, 76 F.R. 62281, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+
+Term of Trade and Environment Policy Advisory Committee extended until Sept. 30, 2015, by Ex. Ord. No. 13652, Sept. 30, 2013, 78 F.R. 61817, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

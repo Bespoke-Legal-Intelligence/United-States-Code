@@ -38,5 +38,5 @@ May 31, 1939, ch. 161 (last sentence), 53 Stat. 796.
 
 #### Amendments
 
-<b>2008</b>—Par. (3). Pub. L. 110–181 struck out “for aircraft of a foreign military or air attaché” after “services”.
+<b>2008</b>—Par. (3). Pub. L. 110–181 struck out "for aircraft of a foreign military or air attaché" after "services".
 

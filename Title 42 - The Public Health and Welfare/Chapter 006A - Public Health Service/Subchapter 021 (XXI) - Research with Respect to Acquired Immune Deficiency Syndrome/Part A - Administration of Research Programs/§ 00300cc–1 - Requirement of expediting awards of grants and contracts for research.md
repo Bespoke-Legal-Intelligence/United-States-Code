@@ -58,67 +58,67 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 Pub. L. 106–345, title V, §502, Oct. 20, 2000, 114 Stat. 1353, provided that:
 
-“(a)
+"(a)
 
 Expansion, Intensification, and Coordination of Research and Other Activities.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—The Director of NIH shall expand, intensify, and coordinate research and other activities of the National Institutes of Health with respect to the development of reliable and affordable tests for HIV disease that can rapidly be administered and whose results can rapidly be obtained (in this section referred to as ‘rapid HIV test’).
+In general.—The Director of NIH shall expand, intensify, and coordinate research and other activities of the National Institutes of Health with respect to the development of reliable and affordable tests for HIV disease that can rapidly be administered and whose results can rapidly be obtained (in this section referred to as 'rapid HIV test').
 
-&emsp;“(2)
+&emsp;"(2)
 
 Report to congress.—The Director of NIH shall periodically submit to the appropriate committees of Congress a report describing the research and other activities conducted or supported under paragraph (1).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Authorization of appropriations.—For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 2001 through 2005.
 
-“(b)
+"(b)
 
 Premarket Review of Rapid HIV Tests.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than 90 days after the date of the enactment of this Act \[Oct. 20, 2000\], the Secretary, in consultation with the Director of the Centers for Disease Control and Prevention and the Commissioner of Food and Drugs, shall submit to the appropriate committees of the Congress a report describing the progress made towards, and barriers to, the premarket review and commercial distribution of rapid HIV tests. The report shall—
 
-&emsp;&emsp;“(A) assess the public health need for and public health benefits of rapid HIV tests, including the minimization of false positive results through the availability of multiple rapid HIV tests;
+&emsp;&emsp;"(A) assess the public health need for and public health benefits of rapid HIV tests, including the minimization of false positive results through the availability of multiple rapid HIV tests;
 
-&emsp;&emsp;“(B) make recommendations regarding the need for the expedited review of rapid HIV test applications submitted to the Center for Biologics Evaluation and Research and, if such recommendations are favorable, specify criteria and procedures for such expedited review; and
+&emsp;&emsp;"(B) make recommendations regarding the need for the expedited review of rapid HIV test applications submitted to the Center for Biologics Evaluation and Research and, if such recommendations are favorable, specify criteria and procedures for such expedited review; and
 
-&emsp;&emsp;“(C) specify whether the barriers to the premarket review of rapid HIV tests include the unnecessary application of requirements—
+&emsp;&emsp;"(C) specify whether the barriers to the premarket review of rapid HIV tests include the unnecessary application of requirements—
 
-&emsp;&emsp;&emsp;“(i) necessary to ensure the efficacy of devices for donor screening to rapid HIV tests intended for use in other screening situations; or
+&emsp;&emsp;&emsp;"(i) necessary to ensure the efficacy of devices for donor screening to rapid HIV tests intended for use in other screening situations; or
 
-&emsp;&emsp;&emsp;“(ii) for identifying antibodies to HIV subtypes of rare incidence in the United States to rapid HIV tests intended for use in screening situations other than donor screening.
+&emsp;&emsp;&emsp;"(ii) for identifying antibodies to HIV subtypes of rare incidence in the United States to rapid HIV tests intended for use in screening situations other than donor screening.
 
-“(c)
+"(c)
 
-Guidelines of Centers for Disease Control and Prevention.—Promptly after commercial distribution of a rapid HIV test begins, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall establish or update guidelines that include recommendations for States, hospitals, and other appropriate entities regarding the ready availability of such tests for administration to pregnant women who are in labor or in the late stage of pregnancy and whose HIV status is not known to the attending obstetrician.”
+Guidelines of Centers for Disease Control and Prevention.—Promptly after commercial distribution of a rapid HIV test begins, the Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall establish or update guidelines that include recommendations for States, hospitals, and other appropriate entities regarding the ready availability of such tests for administration to pregnant women who are in labor or in the late stage of pregnancy and whose HIV status is not known to the attending obstetrician."
 
 #### Limitation on Expenditures for AIDS and HIV Activities
 
-Pub. L. 104–146, §11, May 20, 1996, 110 Stat. 1373, provided that: “Notwithstanding any other provision oflaw, the total amounts of Federal funds expended in any fiscal year for AIDS and HIV activities may not exceed the total amounts expended in such fiscal year for activities related to cancer.”
+Pub. L. 104–146, §11, May 20, 1996, 110 Stat. 1373, provided that: "Notwithstanding any other provision of law, the total amounts of Federal funds expended in any fiscal year for AIDS and HIV activities may not exceed the total amounts expended in such fiscal year for activities related to cancer."
 
 #### Vaccines for Human Immunodeficiency Virus
 
 Pub. L. 103–43, title XIX, §1901(b), June 10, 1993, 107 Stat. 200, provided that:
 
-“(1)
+"(1)
 
 In general.—The Secretary of Health and Human Services, acting through the National Institutes of Health, shall develop a plan for the appropriate inclusion of HIV-infected women, including pregnant women, HIV-infected infants, and HIV-infected children in studies conducted by or through the National Institutes of Health concerning the safety and efficacy of HIV vaccines for the treatment and prevention of HIV infection. Such plan shall ensure the full participation of other Federal agencies currently conducting HIV vaccine studies and require that such studies conform fully to the requirements of part 46 of title 45, Code of Federal Regulations.
 
-“(2)
+"(2)
 
 Report.—Not later than 180 days after the date of the enactment of this Act \[June 10, 1993\], the Secretary of Health and Human Services shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Labor and Human Resources \[now Committee on Health, Education, Labor, and Pensions\] of the Senate, a report concerning the plan developed under paragraph (1).
 
-“(3)
+"(3)
 
 Implementation.—Not later than 12 months after the date of the enactment of this Act, the Secretary of Health and Human Services shall implement the plan developed under paragraph (1), including measures for the full participation of other Federal agencies currently conducting HIV vaccine studies.
 
-“(4)
+"(4)
 
-Authorization of appropriations.—For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 1996.”
+Authorization of appropriations.—For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 1996."
 
 #### Ex. Ord. No. 12963. Presidential Advisory Council on HIV/AIDS
 
@@ -126,7 +126,7 @@ Ex. Ord. No. 12963, June 14, 1995, 60 F.R. 31905, as amended by Ex. Ord. No. 130
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the Secretary of Health and Human Services to exercise her discretion as follows:
 
-Section 1. <i>Establishment</i>. (a) The Secretary of Health and Human Services (the “Secretary”) shall establish an HIV/AIDS Advisory Council (the “Advisory Council” or the “Council”), to be known as the Presidential Advisory Council on HIV/AIDS. The Advisory Council shall be composed of not more than 35 members to be appointed or designated by the Secretary. The Advisory Council shall comply with the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
+Section 1. <i>Establishment</i>. (a) The Secretary of Health and Human Services (the "Secretary") shall establish an HIV/AIDS Advisory Council (the "Advisory Council" or the "Council"), to be known as the Presidential Advisory Council on HIV/AIDS. The Advisory Council shall be composed of not more than 35 members to be appointed or designated by the Secretary. The Advisory Council shall comply with the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
 
 (b) The Secretary shall designate a Chairperson from among the members of the Advisory Council.
 
@@ -143,6 +143,80 @@ Sec. 4. <i>General Provisions</i>. (a) Notwithstanding the provisions of any oth
 (b) This order is intended only to improve the internal management of the executive branch, and it is not intended to create any right, benefit, or trust responsibility, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies, it officers, or any person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13649. Accelerating Improvements in HIV Prevention and Care in the United States Through the HIV Care Continuum Initiative
+
+Ex. Ord. No. 13649, July 15, 2013, 78 F.R. 43057, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to further strengthen the capacity of the Federal Government to effectively respond to the ongoing domestic HIV epidemic, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. Addressing the domestic HIV epidemic is a priority of my Administration. In 2010, the White House released the first comprehensive National HIV/AIDS Strategy (Strategy), setting quantitative goals for reducing new HIV infections, improving health outcomes for people living with HIV, and reducing HIV-related health disparities. The Strategy will continue to serve as the blueprint for our national response to the domestic epidemic. It has increased coordination, collaboration, and accountability across executive departments and agencies (agencies) with regard to addressing the epidemic. It has also focused our Nation's collective efforts on increasing the use of evidence-based approaches to prevention and care among populations and in regions where HIV is most concentrated.
+
+Since the release of the Strategy, additional scientific discoveries have greatly enhanced our understanding of how to prevent and treat HIV. Accordingly, further Federal action is appropriate in response to these new developments. For example, a breakthrough research trial supported by the National Institutes of Health showed that initiating HIV treatment when the immune system was relatively healthy reduced HIV transmission by 96 percent. In addition, evidence suggests that early treatment may reduce HIV-related complications. These findings highlight the importance of prompt HIV diagnosis, and because of recent advances in HIV testing technology, HIV can be detected sooner and more rapidly than ever before.
+
+Based on these and other data, recommendations for HIV testing and treatment have changed. The U.S. Preventive Services Task Force now recommends that clinicians screen all individuals ages 15 to 65 years for HIV, and the Department of Health and Human Services Guidelines for Use of Antiretroviral Agents now recommends offering treatment to all adolescents and adults diagnosed with HIV.
+
+Furthermore, ongoing implementation of the Affordable Care Act provides a historic opportunity for Americans to access affordable, quality health care. The Act is expanding access to recommended preventive services with no out-of-pocket costs, including HIV testing, and, beginning in 2014, insurance companies will not be able to deny coverage based on pre-existing conditions, including HIV. Starting October 1, 2013, Americans can select the coverage that best suits them through the new Health Insurance Marketplace, and coverage will begin January 1, 2014.
+
+Despite progress in combating HIV, important work remains. Since the publication of the Strategy, data released by the Centers for Disease Control and Prevention show that there are significant gaps along the HIV care continuum—the sequential stages of care from being diagnosed to receiving optimal treatment. Nearly one-fifth of the estimated 1.1 million people living with HIV in the United States are undiagnosed; one-third are not linked to medical care; nearly two-thirds are not engaged in ongoing care; and only one-quarter have the virus effectively controlled, which is necessary to maintain long-term health and reduce risk of transmission to others.
+
+In light of these data, we must further clarify and focus our national efforts to prevent and treat HIV infection. It is the policy of my Administration that agencies implementing the Strategy prioritize addressing the continuum of HIV care, including by accelerating efforts to increase HIV testing, services, and treatment along the continuum. This acceleration will enable us to meet the goals of the Strategy and move closer to an AIDS-free generation.
+
+Sec. 2. <i>Establishment of the HIV Care Continuum Initiative</i>. There is established the HIV Care Continuum Initiative (Initiative), to be overseen by the Director of the Office of National AIDS Policy. The Initiative will mobilize and coordinate Federal efforts in response to recent advances regarding how to prevent and treat HIV infection. The Initiative will support further integration of HIV prevention and care efforts; promote expansion of successful HIV testing and service delivery models; encourage innovative approaches to addressing barriers to accessing testing and treatment; and ensure that Federal resources are appropriately focused on implementing evidence-based interventions that improve outcomes along the HIV care continuum.
+
+Sec. 3. <i>Establishment of the HIV Care Continuum Working Group</i>. There is established the HIV Care Continuum Working Group (Working Group) to support the Initiative. The Working Group shall coordinate Federal efforts to improve outcomes nationally across the HIV care continuum.
+
+(a) <i>Membership</i>. The Working Group shall be co-chaired by the Director of the Office of National AIDS Policy and the Secretary of Health and Human Services or designee (Co-Chairs). In addition to the Co-Chairs, the Working Group shall consist of representatives from:
+
+(i) the Department of Justice;
+
+(ii) the Department of Labor;
+
+(iii) the Department of Health and Human Services;
+
+(iv) the Department of Housing and Urban Development;
+
+(v) the Department of Veterans Affairs;
+
+(vi) the Office of Management and Budget; and
+
+(vii) other agencies and offices, as designated by the Co-Chairs.
+
+(b) <i>Consultation</i>. The Working Group shall consult with the Presidential Advisory Council on HIV/AIDS, as appropriate.
+
+(c) <i>Functions</i>. As part of the Initiative, the Working Group shall:
+
+(i) request and review information from agencies describing efforts to improve testing, care, and treatment outcomes, and determine if there is appropriate emphasis on addressing the HIV care continuum in relation to other work concerning the domestic epidemic;
+
+(ii) review research on improving outcomes along the HIV care continuum;
+
+(iii) obtain input from Federal grantees, affected communities, and other stakeholders to inform strategies to improve outcomes along the HIV care continuum;
+
+(iv) identify potential impediments to improving outcomes along the HIV care continuum, including for populations at greatest risk for HIV infection, based on the efforts undertaken pursuant to paragraphs (i), (ii), and (iii) of this subsection;
+
+(v) identify opportunities to address issues identified pursuant to paragraph (iv) of this subsection, and thereby improve outcomes along the HIV care continuum;
+
+(vi) recommend ways to integrate efforts to improve outcomes along the HIV care continuum with other evidence-based strategies to combat HIV; and
+
+(vii) specify how to better align and coordinate Federal efforts, both within and across agencies, to improve outcomes along the HIV care continuum.
+
+(d) <i>Reporting.</i>
+
+(i) Within 180 days of the date of this order, the Working Group shall provide recommendations to the President on actions that agencies can take to improve outcomes along the HIV care continuum.
+
+(ii) Thereafter, the Director of the Office of National AIDS Policy shall include, as part of the annual report to the President pursuant to section 1(b) of my memorandum of July 13, 2010 (Implementation of the National HIV/AIDS Strategy), a report prepared by the Working Group on Government-wide progress in implementing this order. This report shall include a quantification of progress made in improving outcomes along the HIV care continuum.
+
+Sec. 4. <i>General Provisions</i>. (a) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Implementation of the National HIV/AIDS Strategy
 
@@ -258,7 +332,7 @@ Sec. 2. <i>Mission and Functions of the Working Group</i>. (a) The Working Group
 
 (i) increasing government and public awareness of the need to address the intersection of HIV/AIDS, violence against women and girls, and gender-related health disparities, including sexual and reproductive health and access to health care;
 
-(ii) sharing best practices, including demonstration projects and international work by agencies, as well as successful gender-specific strategies aimed at addressing risks that influence women's and girls’ vulnerability to HIV infection and violence;
+(ii) sharing best practices, including demonstration projects and international work by agencies, as well as successful gender-specific strategies aimed at addressing risks that influence women's and girls' vulnerability to HIV infection and violence;
 
 (iii) integrating sexual and reproductive health services, gender-based violence services, and HIV/AIDS services, where research demonstrates that doing so will result in improved and sustained health outcomes;
 

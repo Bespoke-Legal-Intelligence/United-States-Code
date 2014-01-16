@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “excludable portion” means that portion (or all) of a payment made to any person under any program described in subsection (a) which—
+&emsp;The term "excludable portion" means that portion (or all) of a payment made to any person under any program described in subsection (a) which—
 
 &emsp;&emsp;(A) is determined by the Secretary of Agriculture to be made primarily for the purpose of conserving soil and water resources, protecting or restoring the environment, improving forests, or providing a habitat for wildlife, and
 
@@ -38,7 +38,7 @@ For purposes of this section—
 
 #### (2) Payments not chargeable to capital account
 
-&emsp;The term “excludable portion” does not include that portion of any payment which is properly associated with an amount which is allowable as a deduction for the taxable year in which such amount is paid or incurred.
+&emsp;The term "excludable portion" does not include that portion of any payment which is properly associated with an amount which is allowable as a deduction for the taxable year in which such amount is paid or incurred.
 
 #### (c) Election for section not to apply
 
@@ -78,7 +78,7 @@ A prior section 126 was renumbered section 140 of this title.
 
 #### Amendments
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–222, §105(a)(7)(C), (E), inserted in par. (9) “or his delegate” after “Secretary of the Treasury” and substituted in par. (10) “Any program of a State, possession of the United States, a political subdivision of any of the foregoing, or the District of Columbia” for “Any State program”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–222, §105(a)(7)(C), (E), inserted in par. (9) "or his delegate" after "Secretary of the Treasury" and substituted in par. (10) "Any program of a State, possession of the United States, a political subdivision of any of the foregoing, or the District of Columbia" for "Any State program".
 
 Subsec. (b). Pub. L. 96–222, §105(a)(7)(A), inserted provisions relating to payments not chargeable to capital account.
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 96–222 effective, except as otherwise provided, as if it 
 
 #### Effective Date
 
-Pub. L. 95–600, title V, §543(d), Nov. 6, 1978, 92 Stat. 2890, provided that: “The amendments made by this section \[enacting this section and section 1255 of this title\] shall apply with respect to grants made under the programs after September 30, 1979.”
+Pub. L. 95–600, title V, §543(d), Nov. 6, 1978, 92 Stat. 2890, provided that: "The amendments made by this section \[enacting this section and section 1255 of this title\] shall apply with respect to grants made under the programs after September 30, 1979."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

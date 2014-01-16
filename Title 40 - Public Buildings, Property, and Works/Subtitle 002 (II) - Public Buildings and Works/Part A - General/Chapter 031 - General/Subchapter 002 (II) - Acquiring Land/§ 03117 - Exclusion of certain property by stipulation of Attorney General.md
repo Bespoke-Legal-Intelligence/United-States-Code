@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Oct. 21, 1942, ch. 618, 56 Stat. 797.
 
-The words “that may have been, or may be” are omitted as unnecessary.
+The words "that may have been, or may be" are omitted as unnecessary.
 

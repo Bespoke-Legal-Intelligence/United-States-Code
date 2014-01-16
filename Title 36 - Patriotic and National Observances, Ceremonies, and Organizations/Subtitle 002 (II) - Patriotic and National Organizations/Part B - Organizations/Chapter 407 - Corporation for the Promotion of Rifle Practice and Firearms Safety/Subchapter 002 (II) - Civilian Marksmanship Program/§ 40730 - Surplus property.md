@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Feb. 10, 1996, Pub. L. 104–106, title XVI, §1612(c), 110 Stat. 517.
 
-The word “supplies” is omitted as included in “property”.
+The word "supplies" is omitted as included in "property".
 

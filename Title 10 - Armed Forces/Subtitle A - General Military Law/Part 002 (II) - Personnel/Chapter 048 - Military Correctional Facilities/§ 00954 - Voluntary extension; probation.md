@@ -6,5 +6,5 @@ The Secretary concerned may provide for persons who were subject to his authorit
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–85 substituted “his authority” for “this authority”.
+<b>1997</b>—Pub. L. 105–85 substituted "his authority" for "this authority".
 

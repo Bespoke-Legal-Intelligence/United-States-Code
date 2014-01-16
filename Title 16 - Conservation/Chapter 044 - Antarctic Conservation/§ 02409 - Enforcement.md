@@ -40,7 +40,7 @@ All provisions of law relating to the seizure, forfeiture, and condemnation of a
 
 #### (f) Regulations
 
-The Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of the Interior, and the Secretary of the department in which the Coast Guard is operating may prescribe such regulations as may be appropriate to enforce the provisions of this chapter and of any regulation prescribed or permit issued under this chapter, and charge reasonable fees for the expenses of the United States incurred in carrying out inspections and in transferring, boarding, handling, or storing native mammals, native birds, native plants, animals and plants not indigenous to Antarctica, and other evidentiary items seized or forfeited under this chapter.
+The Director, the Secretary of the Treasury, the Secretary of Commerce, the Secretary of theInterior, and the Secretary of the department in which the Coast Guard is operating may prescribe such regulations as may be appropriate to enforce the provisions of this chapter and of any regulation prescribed or permit issued under this chapter, and charge reasonable fees for the expenses of the United States incurred in carrying out inspections and in transferring, boarding, handling, or storing native mammals, native birds, native plants, animals and plants not indigenous to Antarctica, and other evidentiary items seized or forfeited under this chapter.
 
 (Pub. L. 95–541, §10, Oct. 28, 1978, 92 Stat. 2055.)
 
@@ -50,5 +50,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of the".</i>
 

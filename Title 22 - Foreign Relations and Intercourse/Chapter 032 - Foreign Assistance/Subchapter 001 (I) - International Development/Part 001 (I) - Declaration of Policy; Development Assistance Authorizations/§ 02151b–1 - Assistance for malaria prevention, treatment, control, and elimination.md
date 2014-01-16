@@ -32,33 +32,33 @@ Section was enacted as part of the Assistance for International Malaria Control 
 
 #### Findings
 
-Pub. L. 106–570, title I, §102, Dec. 27, 2000, 114 Stat. 3039, provided that: “Congress makes the following findings:
+Pub. L. 106–570, title I, §102, Dec. 27, 2000, 114 Stat. 3039, provided that: "Congress makes the following findings:
 
-&emsp;“(1) The World Health Organization estimates that there are 300,000,000 to 500,000,000 cases of malaria each year.
+&emsp;"(1) The World Health Organization estimates that there are 300,000,000 to 500,000,000 cases of malaria each year.
 
-&emsp;“(2) According to the World Health Organization, more than 1,000,000 persons are estimated to die due to malaria each year.
+&emsp;"(2) According to the World Health Organization, more than 1,000,000 persons are estimated to die due to malaria each year.
 
-&emsp;“(3) According to the National Institutes of Health, about 40 percent of the world's population is at risk of becoming infected.
+&emsp;"(3) According to the National Institutes of Health, about 40 percent of the world's population is at risk of becoming infected.
 
-&emsp;“(4) About half of those who die each year from malaria are children under 9 years of age.
+&emsp;"(4) About half of those who die each year from malaria are children under 9 years of age.
 
-&emsp;“(5) Malaria kills one child each 30 seconds.
+&emsp;"(5) Malaria kills one child each 30 seconds.
 
-&emsp;“(6) Although malaria is a public health problem in more than 90 countries, more than 90 percent of all malaria cases are in sub-Saharan Africa.
+&emsp;"(6) Although malaria is a public health problem in more than 90 countries, more than 90 percent of all malaria cases are in sub-Saharan Africa.
 
-&emsp;“(7) In addition to Africa, large areas of Central and South America, Haiti and the Dominican Republic, the Indian subcontinent, Southeast Asia, and the Middle East are high risk malaria areas.
+&emsp;"(7) In addition to Africa, large areas of Central and South America, Haiti and the Dominican Republic, the Indian subcontinent, Southeast Asia, and the Middle East are high risk malaria areas.
 
-&emsp;“(8) These high risk areas represent many of the world's poorest nations.
+&emsp;"(8) These high risk areas represent many of the world's poorest nations.
 
-&emsp;“(9) Malaria is particularly dangerous during pregnancy. The disease causes severe anemia and is a major factor contributing to maternal deaths in malaria endemic regions.
+&emsp;"(9) Malaria is particularly dangerous during pregnancy. The disease causes severe anemia and is a major factor contributing to maternal deaths in malaria endemic regions.
 
-&emsp;“(10) ‘Airport malaria’, the importing of malaria by international aircraft and other conveyances, is becoming more common, and the United Kingdom reported 2,364 cases of malaria in 1997, all of them imported by travelers.
+&emsp;"(10) 'Airport malaria', the importing of malaria by international aircraft and other conveyances, is becoming more common, and the United Kingdom reported 2,364 cases of malaria in 1997, all of them imported by travelers.
 
-&emsp;“(11) In the United States, of the 1,400 cases of malaria reported to the Centers for Disease Control and Prevention in 1998, the vast majority were imported.
+&emsp;"(11) In the United States, of the 1,400 cases of malaria reported to the Centers for Disease Control and Prevention in 1998, the vast majority were imported.
 
-&emsp;“(12) Between 1970 and 1997, the malaria infection rate in the United States increased by about 40 percent.
+&emsp;"(12) Between 1970 and 1997, the malaria infection rate in the United States increased by about 40 percent.
 
-&emsp;“(13) Malaria is caused by a single-cell parasite that is spread to humans by mosquitoes.
+&emsp;"(13) Malaria is caused by a single-cell parasite that is spread to humans by mosquitoes.
 
-&emsp;“(14) No vaccine is available and treatment is hampered by development of drug-resistant parasites and insecticide-resistant mosquitoes.”
+&emsp;"(14) No vaccine is available and treatment is hampered by development of drug-resistant parasites and insecticide-resistant mosquitoes."
 

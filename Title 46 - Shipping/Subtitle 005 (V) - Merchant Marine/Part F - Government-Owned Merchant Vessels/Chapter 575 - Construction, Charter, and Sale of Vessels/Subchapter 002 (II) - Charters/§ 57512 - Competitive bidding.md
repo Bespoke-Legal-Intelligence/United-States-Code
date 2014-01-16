@@ -50,7 +50,7 @@ June 29, 1936, ch. 858, title VII, §706(a), (b) (1st sentence related to announ
 
 June 29, 1936, ch. 858, title VII, §703(c) (related to chartering), 49 Stat. 2008; Pub. L. 97–31, §12(105), Aug. 6, 1981, 95 Stat. 163.
 
-Subsection (b)(4) is substituted for “announce in his advertisements for bids that the Secretary of Transportation reserves the right to, reject any and all bids submitted” in 46 App. U.S.C. 1196(b) to improve the organization.
+Subsection (b)(4) is substituted for "announce in his advertisements for bids that the Secretary of Transportation reserves the right to, reject any and all bids submitted" in 46 App. U.S.C. 1196(b) to improve the organization.
 
-In subsection (c), the words “Bids required under this section” are substituted for “All bids required by the Secretary of Transportation . . . and for the chartering of the Secretary's vessels hereinafter provided for” to eliminate unnecessary words. The word “hour” is omitted as covered by “time”.
+In subsection (c), the words "Bids required under this section" are substituted for "All bids required by the Secretary of Transportation . . . and for the chartering of the Secretary's vessels hereinafter provided for" to eliminate unnecessary words. The word "hour" is omitted as covered by "time".
 

@@ -2,7 +2,7 @@
 
 (a) When the economy of the Army so requires, the Secretary of the Army shall establish military headquarters in places where suitable buildings are owned by the United States.
 
-(b) No money appropriated for the support of the Army may be spent for post gardens or Army exchanges. However, this does not prevent Army exchanges from using public buildings or public transportation that, in the opinion of the office or officer designated by the Secretary, are not needed for other purposes.
+(b) No money appropriated for the support of the Army may be spent for post gardens orArmy exchanges. However, this does not prevent Army exchanges from using public buildings or public transportation that, in the opinion of the office or officer designated by the Secretary, are not needed for other purposes.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 270; Pub. L. 99–661, div. B, title VII, §2721, Nov. 14, 1986, 100 Stat. 4042.)
 
@@ -28,15 +28,15 @@ June 23, 1879, ch. 35, §8, 21 Stat. 35.
 
 10:1335.
 
-Aug. 1, 1914, ch. 223 (2d par. under “Quartermaster Corps”), 38 Stat. 629.
+Aug. 1, 1914, ch. 223 (2d par. under "Quartermaster Corps"), 38 Stat. 629.
 
 &nbsp;
 
-July 16, 1892, ch. 195 (last proviso under “Quartermaster's Department”), 27 Stat. 178; June 28, 1950, ch. 383, §402(c), 64 Stat. 227.
+July 16, 1892, ch. 195 (last proviso under "Quartermaster's Department"), 27 Stat. 178; June 28, 1950, ch. 383, §402(c), 64 Stat. 227.
 
-In subsection (a), the words “United States” are substituted for the word “Government”.
+In subsection (a), the words "United States" are substituted for the word "Government".
 
-In subsection (b), the words “suitable space” are substituted for the words “proper and suitable room or rooms”. The words “there is a” are substituted for the words “have been established”.
+In subsection (b), the words "suitable space" are substituted for the words "proper and suitable room or rooms". The words "there is a" are substituted for the words "have been established".
 
 #### Amendments
 

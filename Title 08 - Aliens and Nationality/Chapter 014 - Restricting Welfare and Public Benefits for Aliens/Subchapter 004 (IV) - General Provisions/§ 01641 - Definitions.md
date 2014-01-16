@@ -110,7 +110,7 @@ Pub. L. 110–457, title II, §211(b), Dec. 23, 2008, 122 Stat. 5063, provided t
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 5302(c)(3) of Pub. L. 105–33 effective, except as otherwise provided, as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5308 of Pub. L. 105–33, set out as a note under section 1612 of this title.
+Amendment by section 5302(c)(3) of Pub. L. 105–33 effective, except as otherwise provided, as if included inthe enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5308 of Pub. L. 105–33, set out as a note under section 1612 of this title.
 
 Amendment by sections 5562, 5571(a)–(c), 5581(b)(6), (7) of Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
 

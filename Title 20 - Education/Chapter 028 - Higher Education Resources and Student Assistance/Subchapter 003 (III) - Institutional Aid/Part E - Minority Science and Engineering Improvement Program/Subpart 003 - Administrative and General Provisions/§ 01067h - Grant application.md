@@ -20,7 +20,7 @@ Section was formerly classified to section 1135d–1 of this title prior to renu
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–244, §301(c)(10), substituted “section 1067g” for “section 1135d” in introductory provisions and “section 1067a(b)” for “section 1135b(b)” in par. (1).
+<b>1998</b>—Subsec. (a). Pub. L. 105–244, §301(c)(10), substituted "section 1067g" for "section 1135d" in introductory provisions and "section 1067a(b)" for "section 1135b(b)" in par. (1).
 
 #### Effective Date of 1998 Amendment
 

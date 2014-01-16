@@ -1,8 +1,8 @@
 ### §1307. National Oceanic and Atmospheric Administration: nautical products, sale and distribution
 
-(a)(1) All nautical products created or published by the National Oceanic and Atmospheric Administration shall be sold at such prices as the Secretary of Commerce shall establish annually, in accordance with the provisions of this subsection. The Secretary shall publish annually the prices at which nautical products are sold to the public.
+(a)(1) All nautical products created or published by the National Oceanic and AtmosphericAdministration shall be sold at such prices as the Secretary of Commerce shall establish annually, in accordance with the provisions of this subsection. The Secretary shall publish annually the prices at which nautical products are sold to the public.
 
-(2)(A) Subject to subparagraph (B) of this paragraph, the prices of nautical products may be increased over a period of not less than three years after the date of enactment of this sectionso as to recover all costs attributable to data base management, compilation, printing, and distribution of such products. The prices of such products may be maintained to recover all such costs thereafter.
+(2)(A) Subject to subparagraph (B) of this paragraph, the prices of nautical products may be increased over a period of not less than three years after the date of enactment of this section so as to recover all costs attributable to data base management, compilation, printing, and distribution of such products. The prices of such products may be maintained to recover all such costs thereafter.
 
 (B) The Secretary, after consultation with the Secretary of Transportation, shall adjust the prices of nautical products in such manner as is necessary to avoid any adverse impact on marine safety attributable to the prices specified in subparagraph (A) of this paragraph.
 
@@ -20,7 +20,7 @@
 
 (d) The fees provided for in this section are for the purpose of reimbursing the United States Government for the costs of creating, publishing or distributing nautical products of the National Oceanic and Atmospheric Administration. The collection of fees authorized by this section shall not alter or expand any duty or liability of the United States under existing law for the performance of functions for which fees are collected, nor shall the collection of fees constitute an express or implied undertaking by the United States to perform any activity in a certain manner.
 
-(e) For purposes of this section, the term “nautical products” includes all nautical charts, tide and tidal current tables, tidal current charts, coast pilots, water level products, and associated data bases which are created or published by the National Oceanic and Atmospheric Administration.
+(e) For purposes of this section, the term "nautical products" includes all nautical charts, tide and tidal current tables, tidal current charts, coast pilots, water level products, and associated data bases which are created or published by the National Oceanic and Atmospheric Administration.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1266; Pub. L. 99–272, title VI, §6011(a), Apr. 7, 1986, 100 Stat. 121; Pub. L. 105–362, title II, §201(a), Nov. 10, 1998, 112 Stat. 3282; Pub. L. 106–181, title VI, §606(a)–(c), Apr. 5, 2000, 114 Stat. 154.)
 
@@ -36,27 +36,27 @@ The date of enactment of this section, referred to in subsec. (a)(2)(A), probabl
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–181, §606(a)(1), struck out “and aeronautical” after “nautical” in section catchline.
+<b>2000</b>—Pub. L. 106–181, §606(a)(1), struck out "and aeronautical" after "nautical" in section catchline.
 
-Subsec. (a)(1), (2)(A). Pub. L. 106–181, §606(a)(2), struck out “and aeronautical” after “nautical” wherever appearing.
+Subsec. (a)(1), (2)(A). Pub. L. 106–181, §606(a)(2), struck out "and aeronautical" after "nautical" wherever appearing.
 
-Subsec. (a)(2)(B). Pub. L. 106–181, §606(a)(2), (b), struck out “or aeronautical” after “nautical” and “aviation and” after “impact on”.
+Subsec. (a)(2)(B). Pub. L. 106–181, §606(a)(2), (b), struck out "or aeronautical" after "nautical" and "aviation and" after "impact on".
 
-Subsec. (a)(3), (4). Pub. L. 106–181, §606(a)(2), struck out “or aeronautical” after “nautical”.
+Subsec. (a)(3), (4). Pub. L. 106–181, §606(a)(2), struck out "or aeronautical" after "nautical".
 
-Subsec. (b). Pub. L. 106–181, §606(a)(2), struck out “or aeronautical” after “nautical”.
+Subsec. (b). Pub. L. 106–181, §606(a)(2), struck out "or aeronautical" after "nautical".
 
-Subsec. (c). Pub. L. 106–181, §606(a)(2), struck out “and aeronautical” after “nautical” in introductory provisions.
+Subsec. (c). Pub. L. 106–181, §606(a)(2), struck out "and aeronautical" after "nautical" in introductory provisions.
 
-Subsec. (d). Pub. L. 106–181, §606(c), struck out “aeronautical and” after “publishing or distributing”.
+Subsec. (d). Pub. L. 106–181, §606(c), struck out "aeronautical and" after "publishing or distributing".
 
-Subsec. (e). Pub. L. 106–181, §606(a)(2), struck out “and aeronautical” after “nautical” in two places.
+Subsec. (e). Pub. L. 106–181, §606(a)(2), struck out "and aeronautical" after "nautical" in two places.
 
-<b>1998</b>—Subsec. (a)(2)(A). Pub. L. 105–362 struck out at end “At the end of such period and every three years thereafter, the Secretary, after consultation with the Secretary of Transportation, shall report to the Congress on the effect of imposing or maintaining such increased prices, including any impact on aviation and marine safety.”
+<b>1998</b>—Subsec. (a)(2)(A). Pub. L. 105–362 struck out at end "At the end of such period and every three years thereafter, the Secretary, after consultation with the Secretary of Transportation, shall report to the Congress on the effect of imposing or maintaining such increased prices, including any impact on aviation and marine safety."
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–272 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The charts published by the Environmental Science Service Administration shall be sold at cost of paper and printing as nearly as practicable. The price to the public shall include all expenses incurred in actual reproduction of the charts after the original cartography, such as photography, opaquing, platemaking, press time and bindery operations; the full postage rates, according to the rates for postal services used; and any additional cost factors considered appropriate by the Secretary such as overhead and administrative expenses allocable to the production of the charts and related reference materials. The costs of basic surveys and geodetic work done may not be included in the price of the charts and reference materials. The Secretary of Commerce shall publish the prices at which charts and reference materials are sold to the public at least once each calendar year.”
+<b>1986</b>—Subsec. (a). Pub. L. 99–272 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "The charts published by the Environmental Science Service Administration shall be sold at cost of paper and printing as nearly as practicable. The price to the public shall include all expenses incurred in actual reproduction of the charts after the original cartography, such as photography, opaquing, platemaking, press time and bindery operations; the full postage rates, according to the rates for postal services used; and any additional cost factors considered appropriate by the Secretary such as overhead and administrative expenses allocable to the production of the charts and related reference materials. The costs of basic surveys and geodetic work done may not be included in the price of the charts and reference materials. The Secretary of Commerce shall publish the prices at which charts and reference materials are sold to the public at least once each calendar year."
 
-Subsec. (b). Pub. L. 99–272 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There may not be free distribution of charts except to the departments and officers of the United States requiring them for public use; and a number of copies of each sheet, not to exceed three hundred, to be presented to such foreign governments, libraries, and scientific associations, and institutions of learning as the Secretary of Commerce directs; but on the order of Senators and Representatives not to exceed one hundred copies to each may be distributed through the Environmental Science Service Administration.”
+Subsec. (b). Pub. L. 99–272 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "There may not be free distribution of charts except to the departments and officers of the United States requiring them for public use; and a number of copies of each sheet, not to exceed three hundred, to be presented to such foreign governments, libraries, and scientific associations, and institutions of learning as the Secretary of Commerce directs; but on the order of Senators and Representatives not to exceed one hundred copies to each may be distributed through the Environmental Science Service Administration."
 
 Subsecs. (c) to (e). Pub. L. 99–272 added subsecs. (c) to (e).
 
@@ -66,15 +66,15 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Transfer of Functions
 
-Functions of Secretary and other officers of Department of Commerce under this section that relate to theOffice of Aeronautical Charting and Cartography to provide aeronautical charts and related products and services for safe and efficient navigation of air commerce transferred to Administrator of Federal Aviation Administration effective Oct. 1, 2000, see section 44721(c)(3) of Title 49, Transportation.
+Functions of Secretary and other officers of Department of Commerce under this section that relate to the Office of Aeronautical Charting and Cartography to provide aeronautical charts and related products and services for safe and efficient navigation of air commerce transferred to Administrator of Federal Aviation Administration effective Oct. 1, 2000, see section 44721(c)(3) of Title 49, Transportation.
 
 #### Sale of Aeronautical Charts: Disposition of Receipts Resulting From Price Increase
 
-Pub. L. 103–317, title II, Aug. 26, 1994, 108 Stat. 1741, provided in part: “That hereafter all receipts received from the sale of aeronautical charts that result from an increase in the price of individual charts above the level in effect for such charts on September 30, 1993, shall be deposited in this account \[
+Pub. L. 103–317, title II, Aug. 26, 1994, 108 Stat. 1741, provided in part: "That hereafter all receipts received from the sale of aeronautical charts that result from an increase in the price of individual charts above the level in effect for such charts on September 30, 1993, shall be deposited in this account \[
 
 National Oceanic and Atmospheric Administration and
 
-operations, research, and facilities\] as an offsetting collection and shall be available for obligation.”
+operations, research, and facilities\] as an offsetting collection and shall be available for obligation."
 
 Similar provisions were contained in the following prior appropriation act:
 
@@ -82,5 +82,5 @@ Pub. L. 103–121, title II, Oct. 27, 1993, 107 Stat. 1170.
 
 #### Price Freeze on Charts and Other Products of NOAA
 
-Pub. L. 102–567, title IV, §405, Oct. 29, 1992, 106 Stat. 4292, provided that: “Notwithstanding section 1307 of title 44, United States Code, the price of nautical charts or other nautical products produced or published by the National Oceanic and Atmospheric Administration and sold after the date of the enactment of this Act \[Oct. 29, 1992\] shall not exceed the price of that type of chart or product on the date of enactment of this Act adjusted for inflation. This section shall not apply after September 30, 1994.”
+Pub. L. 102–567, title IV, §405, Oct. 29, 1992, 106 Stat. 4292, provided that: "Notwithstanding section 1307 of title 44, United States Code, the price of nautical charts or other nautical products produced or published by the National Oceanic and Atmospheric Administration and sold after the date of the enactment of this Act \[Oct. 29, 1992\] shall not exceed the price of that type of chart or product on the date of enactment of this Act adjusted for inflation. This section shall not apply after September 30, 1994."
 

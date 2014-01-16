@@ -20,13 +20,13 @@ Section was enacted as part of the DNA Analysis Backlog Elimination Act of 2000,
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–405, §309, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A person who knowingly—
+<b>2004</b>—Subsec. (c). Pub. L. 108–405, §309, reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "A person who knowingly—
 
-&emsp;“(1) discloses a sample or result described in subsection (a) of this section in any manner to any person not authorized to receive it; or
+&emsp;"(1) discloses a sample or result described in subsection (a) of this section in any manner to any person not authorized to receive it; or
 
-&emsp;“(2) obtains, without authorization, a sample or result described in subsection (a) of this section,
+&emsp;"(2) obtains, without authorization, a sample or result described in subsection (a) of this section,
 
-> shall be fined not more than $250,000, or imprisoned for a period of not more than one year, or both.”
+> shall be fined not more than $250,000, or imprisoned for a period of not more than one year, or both."
 
-Pub. L. 108–405, §203(e)(2), substituted “$250,000, or imprisoned for a period of not more than one year, or both” for “$100,000” in concluding provisions.
+Pub. L. 108–405, §203(e)(2), substituted "$250,000, or imprisoned for a period of not more than one year, or both" for "$100,000" in concluding provisions.
 

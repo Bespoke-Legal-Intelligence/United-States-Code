@@ -2,9 +2,9 @@
 
 As used in this subchapter—
 
-&emsp;(1) “Reserve officer” means a commissioned officer in the Reserve, except an officer excluded by section 721 of this title or a commissioned warrant officer; and
+&emsp;(1) "Reserve officer" means a commissioned officer in the Reserve, except an officer excluded by section 721 of this title or a commissioned warrant officer; and
 
-&emsp;(2) “discharged” means released from an appointment as a Reserve officer.
+&emsp;(2) "discharged" means released from an appointment as a Reserve officer.
 
 (Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1007.)
 

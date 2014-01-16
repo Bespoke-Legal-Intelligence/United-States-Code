@@ -2,7 +2,7 @@
 
 #### (a) Matching grants
 
-Within 60 days after the Secretary certifies the State as a qualifying State under section 5101(b) of this title, the Secretary shall providefinancial assistance to the State, in accordance with subsection (b) of this section, for the operation and administration of the mediation program.
+Within 60 days after the Secretary certifies the State as a qualifying State under section5101(b) of this title, the Secretary shall provide financial assistance to the State, in accordance with subsection (b) of this section, for the operation and administration of the mediation program.
 
 #### (b) Amount of grant
 
@@ -32,7 +32,7 @@ Within 60 days after the Secretary certifies the State as a qualifying State und
 
 &emsp;&emsp;(D) office supplies;
 
-&emsp;&emsp;(E) administrative costs, such as workers’ compensation, liability insurance, the employer's share of Social Security, and necessary travel;
+&emsp;&emsp;(E) administrative costs, such as workers' compensation, liability insurance, the employer's share of Social Security, and necessary travel;
 
 &emsp;&emsp;(F) education and training;
 
@@ -54,9 +54,9 @@ If the Secretary determines that a State has not complied with subsection (c) of
 
 <b>2000</b>—Subsec. (c). Pub. L. 106–472 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-<b>1994</b>—Subsecs. (a), (b)(1), (c). Pub. L. 103–354 struck out “agricultural loan” before “mediation program”.
+<b>1994</b>—Subsecs. (a), (b)(1), (c). Pub. L. 103–354 struck out "agricultural loan" before "mediation program".
 
-<b>1992</b>—Subsec. (b)(1). Pub. L. 102–554, §22(1), substituted “70” for “50”.
+<b>1992</b>—Subsec. (b)(1). Pub. L. 102–554, §22(1), substituted "70" for "50".
 
-Subsec. (c). Pub. L. 102–554, §22(2), inserted before period at end “with respect to which the amount was paid”.
+Subsec. (c). Pub. L. 102–554, §22(2), inserted before period at end "with respect to which the amount was paid".
 

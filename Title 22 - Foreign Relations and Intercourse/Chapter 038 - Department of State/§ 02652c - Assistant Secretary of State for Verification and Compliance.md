@@ -76,33 +76,33 @@ The Secretary of State shall designate one of the Assistant Secretaries of State
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Definitions
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1102\], Nov. 29, 1999, 113 Stat. 1536, 1501A–485, provided that: “In this title \[see Short Title of 1999 Amendment note set out under section 2551 of this title\]:
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1102\], Nov. 29, 1999, 113 Stat. 1536, 1501A–485, provided that: "In this title \[see Short Title of 1999 Amendment note set out under section 2551 of this title\]:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Appropriate committees of congress.—The term ‘appropriate committees of Congress’ means the Committee on International Relations \[now Committee on Foreign Affairs\] and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate.
+Appropriate committees of congress.—The term 'appropriate committees of Congress' means the Committee on International Relations \[now Committee on Foreign Affairs\] and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Assistant secretary.—The term ‘Assistant Secretary’ means the position of Assistant Secretary of State for Verification and Compliance designated under section 1112 \[22 U.S.C. 2652c\].
+Assistant secretary.—The term 'Assistant Secretary' means the position of Assistant Secretary of State for Verification and Compliance designated under section 1112 \[22 U.S.C. 2652c\].
 
-&emsp;“(3)
+&emsp;"(3)
 
-Executive agency.—The term ‘Executive agency’ has the meaning given the term in section 105 of title 5, United States Code.
+Executive agency.—The term 'Executive agency' has the meaning given the term in section 105 of title 5, United States Code.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Intelligence community.—The term ‘intelligence community’ has the meaning given the term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).
+Intelligence community.—The term 'intelligence community' has the meaning given the term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)) \[now 50 U.S.C. 3003(4)\].
 
-&emsp;“(5) START
+&emsp;"(5) START
 
-treaty or treaty.—The term ‘START Treaty’ or ‘Treaty’ means the Treaty With the Union of Soviet Socialist Republics on the Reduction and Limitation of Strategic Offensive Arms, including all agreed statements, annexes, protocols, and memoranda, signed at Moscow on July 31, 1991.
+treaty or treaty.—The term 'START Treaty' or 'Treaty' means the Treaty With the Union of Soviet Socialist Republics on the Reduction and Limitation of Strategic Offensive Arms, including all agreed statements, annexes, protocols, and memoranda, signed at Moscow on July 31, 1991.
 
-&emsp;“(6) START
+&emsp;"(6) START
 
-ii treaty.—The term ‘START II Treaty’ means the Treaty Between the United States of America and the Russian Federation on Further Reduction and Limitation of Strategic Offensive Arms, and related protocols and memorandum of understanding, signed at Moscow on January 3, 1993.”
+ii treaty.—The term 'START II Treaty' means the Treaty Between the United States of America and the Russian Federation on Further Reduction and Limitation of Strategic Offensive Arms, and related protocols and memorandum of understanding, signed at Moscow on January 3, 1993."
 

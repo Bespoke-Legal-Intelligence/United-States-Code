@@ -1,0 +1,26 @@
+### §8132. Declaration of purpose
+
+The purpose of this subchapter is to assist the several States to construct State home facilities (or to acquire facilities to be used as State home facilities) for furnishing domiciliary or nursing home care to veterans, and to expand, remodel,or alter existing buildings for furnishing domiciliary, nursing home, adult day health, or hospital care to veterans in State homes.
+
+(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 501, §5032; amended Pub. L. 94–581, title II, §206(b), Oct. 21, 1976, 90 Stat. 2859; Pub. L. 95–62, §3(3), July 5, 1977, 91 Stat. 262; Pub. L. 98–528, title I, §105(1), Oct. 19, 1984, 98 Stat. 2689; renumbered §8132, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 104–262, title III, §342(b)(2), Oct. 9, 1996, 110 Stat. 3206.)
+
+#### Amendments
+
+<b>1996</b>—Pub. L. 104–262 inserted "adult day health," before "or hospital care".
+
+<b>1991</b>—Pub. L. 102–40 renumbered section 5032 of this title as this section.
+
+<b>1984</b>—Pub. L. 98–528 inserted "(or to acquire facilities to be used as State home facilities) after "State home facilities".
+
+<b>1977</b>—Pub. L. 95–62 inserted references to the construction of State home facilities for furnishing of domiciliary care and to the expansion, remodeling, and alteration of existing buildings for furnishing domiciliary, nursing home, or hospital care to veterans in State homes.
+
+<b>1976</b>—Pub. L. 94–581 substituted "veterans" for "war veterans".
+
+#### Effective Date of 1977 Amendment
+
+Amendment by Pub. L. 95–62 effective Oct. 1, 1977, with provision for the continuing force and effect of the terms and conditions of grants made prior to Oct. 1, 1977, under former section 644 of this title and with additional provision for the modification of the terms and conditions of both grants made under former section 644 of this title prior to Oct. 1, 1977, and of grants made under this subchapter prior to Oct. 1, 1977, see section 5 of Pub. L. 95–62, set out as a note under section 8131 of this title.
+
+#### Effective Date of 1976 Amendment
+
+Amendment by Pub. L. 94–581 effective Oct. 21, 1976, see section 211 of Pub. L. 94–581, set out as a note under section 111 of this title.
+

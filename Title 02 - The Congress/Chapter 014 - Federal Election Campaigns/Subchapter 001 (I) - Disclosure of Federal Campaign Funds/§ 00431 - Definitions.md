@@ -48,7 +48,7 @@ When used in this Act:
 
 &emsp;(iii) the sale of any food or beverage by a vendor for use in any candidate's campaign or for use by or on behalf of any political committee of a political party at a charge less than the normal comparable charge, if such charge is at least equal to the cost of such food or beverage to the vendor, to the extent that the cumulative value of such activity by such vendor on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
-&emsp;(iv) any unreimbursed payment for travel expenses made by any individual on behalf ofany candidate or any political committee of a political party, to the extent that the cumulative value of such activity by such individual on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
+&emsp;(iv) any unreimbursed payment for travel expenses made by any individual on behalf of any candidate or any political committee of a political party, to the extent that the cumulative value of such activity by such individual on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
 &emsp;(v) the payment by a State or local committee of a political party of the costs of preparation, display, or mailing or other distribution incurred by such committee with respect to a printed slate card or sample ballot, or other printed listing, of 3 or more candidates for any public office for which an election is held in the State in which such committee is organized, except that this clause shall not apply to any cost incurred by such committee with respect to a display of any such listing made on broadcasting stations, or in newspapers, magazines, or similar types of general public political advertising;
 
@@ -78,7 +78,7 @@ When used in this Act:
 
 &emsp;&emsp;(3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or particular candidates;
 
-&emsp;(x) the payment by a candidate, for nomination or election to any public office (including State or local office), or authorized committee of a candidate, of the costs of campaign materials which include information on or referenced to any other candidate and which are used in connection with volunteer activities (including pins, bumper stickers, handbills, brochures, posters, and yard signs, but not including the use of broadcasting, newspapers, magazines, billboards, direct mail, or similar types of general public communication or political advertising): <i>Provided</i>, That such payments are made from contributions subject to the limitations and prohibitions of this Act;
+&emsp;(x) the payment by a candidate, for nomination or election to any public office (including State or local office), or authorized committee of a candidate, of the costs of campaign materials which include information on or referenced to any other candidate and which are used in connection with volunteer activities\(including pins, bumper stickers, handbills, brochures, posters, and yard signs, but not including the use of broadcasting, newspapers, magazines, billboards, direct mail, or similar types of general public communication or political advertising): <i>Provided</i>, That such payments are made from contributions subject to the limitations and prohibitions of this Act;
 
 &emsp;(xi) the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: <i>Provided</i>, That—
 
@@ -92,7 +92,7 @@ When used in this Act:
 
 &emsp;(xiii) any honorarium (within the meaning of section 441i of this title); and
 
-&emsp;(xiv) any loan of money derived from an advance on a candidate's brokerage account, credit card, home equity line of credit, or other line of credit available to the candidate, if such loan is made in accordance with applicable law and under commercially reasonable terms and if the person making such loan makes loans derived from an advance on the candidate's brokerage account, credit card,home equity line of credit, or other line of credit in the normal course of the person's business.
+&emsp;(xiv) any loan of money derived from an advance on a candidate's brokerage account, credit card, home equity line of credit, or other line of credit available to the candidate, if such loan is made in accordance with applicable law and under commercially reasonable terms and if the person making such loan makes loans derived from an advance on the candidate's brokerage account, credit card, home equity line of credit, or other line of credit in the normal course of the person's business.
 
 (9)(A) The term “expenditure” includes—
 
@@ -376,7 +376,7 @@ In general.—Except as provided in paragraph (2), the Federal Election Commissi
 
 &emsp;“(2)
 
-Soft money of political parties.—Not later than 90 days after the date of enactment of this Act, the Federal Election Commission shall promulgate regulations to carry out title I of this Act \[enacting section 441i of this title and amending this section and sections 434, 441a, and 453 of this title\] and the amendments made by such title.”
+Soft money of political parties.—Not later than 90 days after the date of enactment of this Act, the Federal Election Commission shall promulgate regulations to carry out title I of this Act \[enacting section 441i of this title and amending this sectionand sections 434, 441a, and 453 of this title\] and the amendments made by such title.”
 
 #### Effective Date of 2000 Amendment
 
@@ -398,7 +398,7 @@ Pub. L. 93–443, title IV, §410, Oct. 15, 1974, 88 Stat. 1304, provided that:
 
 “(b) Section 104 \[set out as a note under section 591 of Title 18\] and the amendment made by section 301 \[amending section 453 of this title\] shall become effective on the date of the enactment of this Act \[Oct. 15, 1974\].
 
-“(c)(1) The amendments made by sections 403(a), 404, 405, 406, 408, and 409 \[enacting sections 9031 to 9042,amending sections 276, 9002, 9003, 9004, 9005, 9006, 9007, 9008, 9009, 9010, 9011, and 9012, and repealing section 9021 of Title 26\] shall apply with respect to taxable years beginning after December 31, 1974.
+“(c)(1) The amendments made by sections 403(a), 404, 405, 406, 408, and 409 \[enacting sections 9031 to 9042, amending sections 276, 9002, 9003, 9004, 9005, 9006, 9007, 9008, 9009, 9010, 9011, and 9012, and repealing section 9021 of Title 26\] shall apply with respect to taxable years beginning after December 31, 1974.
 
 “(2) The amendment made by section 407 \[amending section 6012 of Title 26\] shall apply with respect to taxable years beginning after December 31, 1971.”
 

@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;If a mortgagee approved under the <sup>1</sup> chapter, a lender holding a contract of insurance under subchapter I of this chapter, or a principal, officer, or employee of such mortgagee or lender, or other person or entity participating in either an insured mortgage or subchapter I loan transaction under this chapter or providing assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents and dealers, knowingly and materially violates any applicable provision of subsection (b) of this section, the Secretary may impose a civil money penalty on the mortgagee or lender, or such other person or entity, in accordance with this section. The penalty under this paragraph shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions. The penalty shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions.
+&emsp;If a mortgagee approved under the <sup>1</sup> chapter, a lender holding a contract of insurance under subchapter I of this chapter, or a principal, officer, or employee of such mortgagee or lender, or other person or entity participating in either an insured mortgage or subchapter Iloan transaction under this chapter or providing assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents and dealers, knowingly and materially violates any applicable provision of subsection (b) of this section, the Secretary may impose a civil money penalty on the mortgagee or lender, or such other person or entity, in accordance with this section. The penalty under this paragraph shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions. The penalty shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions.
 
 #### (2) Amount of penalty
 
@@ -52,13 +52,13 @@
 
 &emsp;&emsp;(K) Violation of section 1708(d) of this title.
 
-&emsp;&emsp;(L) Use of “Federal Housing Administration”, “Department of Housing and Urban Development”, “Government National Mortgage Association”, “Ginnie Mae”, the acronyms “HUD”, “FHA”, or “GNMA”, or any official seal or logo of the Department of Housing and Urban Development, except as authorized by the Secretary.
+&emsp;&emsp;(L) Use of "Federal Housing Administration", "Department of Housing and Urban Development", "Government National Mortgage Association", "Ginnie Mae", the acronyms "HUD", "FHA", or "GNMA", or any official seal or logo of the Department of Housing and Urban Development, except as authorized by the Secretary.
 
 #### (2) Additional violations
 
 &emsp;The Secretary may impose a civil money penalty under subsection (a) of this section for any knowing and material violation by a principal, officer, or employee of a mortgagee or lender, or other participants in either an insured mortgage or subchapter I loan transaction under this chapter or provision of assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents, and dealers for—
 
-&emsp;&emsp;(A) submission to the Secretary of information that was false, in connection with any mortgage insured under this chapter, or any loan that is covered by a contract of insurance under subchapter I of this chapter;
+&emsp;&emsp;(A) submission to the Secretary of information that was false, in connection withany mortgage insured under this chapter, or any loan that is covered by a contract of insurance under subchapter I of this chapter;
 
 &emsp;&emsp;(B) falsely certifying to the Secretary or submitting to the Secretary a false certification by another person or entity;
 
@@ -68,7 +68,7 @@
 
 #### (3) Prohibition against misleading use of Federal entity designation
 
-&emsp;The Secretary may impose a civil money penalty, as adjusted from time to time, under subsection (a) for any use of “Federal Housing Administration”, “Department of Housing and Urban Development”, “Government National Mortgage Association”, “Ginnie Mae”, the acronyms “HUD”, “FHA”, or “GNMA”, or any official seal or logo of the Department of Housing and Urban Development, by any person, party, company, firm, partnership, or business, including sellers of real estate, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents, and dealers, except as authorized by the Secretary.
+&emsp;The Secretary may impose a civil money penalty, as adjusted from time to time, under subsection (a) for any use of "Federal Housing Administration", "Department of Housing and Urban Development", "Government National Mortgage Association", "Ginnie Mae", the acronyms "HUD", "FHA", or "GNMA", or any official seal or logo of the Department of Housing and Urban Development, by any person, party, company, firm, partnership, or business, including sellers of real estate, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents, and dealers, except as authorized by the Secretary.
 
 #### (c) Agency procedures
 
@@ -114,13 +114,13 @@
 
 #### (e) Action to collect penalty
 
-If any mortgagee or lender or such other person or entity fails to comply with the Secretary's determination or order imposing a civil money penalty under subsection (a) of this section, after the determination or order is no longer subject to review as provided by subsections (c)(1) and (d) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the mortgagee or lender or such other person or entity and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
+If any mortgagee or lender or such other person or entity fails to comply with the Secretary's determination or order imposing a civil money penalty under subsection (a) of this section, after the determination or order is no longer subject to review as provided by subsections (c)(1) and (d) of this section, the Secretary may request the Attorney General of the United States to bring an action in an appropriate United States district court to obtain a monetary judgment against the mortgagee orlender or such other person or entity and such other relief as may be available. The monetary judgment may, in the court's discretion, include the attorneys fees and other expenses incurred by the United States in connection with the action. In an action under this subsection, the validity and appropriateness of the Secretary's determination or order imposing the penalty shall not be subject to review.
 
 #### (f) Settlement by Secretary
 
 The Secretary may compromise, modify, or remit any civil money penalty which may be, or has been, imposed under this section.
 
-#### (g) “Knowingly” defined
+#### (g) "Knowingly" defined
 
 For purposes of this section, a person acts knowingly when a person has actual knowledge of acts or should have known of the acts.
 
@@ -136,19 +136,19 @@ Notwithstanding any other provision of law, all civil money penalties collected 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b)(1). Pub. L. 111–22, §203(f)(1)(A)(i), inserted “or any of its owners, officers, or directors” after “mortgagee or lender” in introductory provisions.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–22, §203(f)(1)(A)(i), inserted "or any of its owners, officers, or directors" after "mortgagee or lender" in introductory provisions.
 
-Subsec. (b)(1)(H). Pub. L. 111–22, §203(f)(1)(A)(ii), substituted “subchapter I or II of this chapter, or any implementing regulation, handbook, or mortgagee letter that is issued under this chapter.” for “subchapter I, II, or IX–A (as such subchapter existed immediately before December 15, 1989) of this chapter or any implementing regulation or handbook that is issued under this chapter.”
+Subsec. (b)(1)(H). Pub. L. 111–22, §203(f)(1)(A)(ii), substituted "subchapter I or II of this chapter, or any implementing regulation, handbook, or mortgagee letter that is issued under this chapter." for "subchapter I, II, or IX–A (as such subchapter existed immediately before December 15, 1989) of this chapter or any implementing regulation or handbook that is issued under this chapter."
 
 Subsec. (b)(1)(K), (L). Pub. L. 111–22, §203(f)(1)(A)(iii), added subpars. (K) and (L).
 
 Subsec. (b)(2)(D). Pub. L. 111–22, §203(f)(1)(B), added subpar. (D).
 
-Subsec. (b)(3). Pub. L. 111–22, §203(f)(1)(C), amended par. (3) generally. Prior to amendment, text read as follows: “Before taking action to impose a civil money penalty for a violation under paragraph (1)(D) or (F), or paragraph (2)(A), (B), or (C), the Secretary shall inform the Attorney General of the United States.”
+Subsec. (b)(3). Pub. L. 111–22, §203(f)(1)(C), amended par. (3) generally. Prior to amendment, text read as follows: "Before taking action to impose a civil money penalty for a violation under paragraph (1)(D) or (F), or paragraph (2)(A), (B), or (C), the Secretary shall inform the Attorney General of the United States."
 
-Subsec. (g). Pub. L. 111–22, §203(f)(2), substituted “For purposes of this section, a person acts knowingly when a person has actual knowledge of acts or should have known of the acts.” for “The term ‘knowingly’ means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section.”
+Subsec. (g). Pub. L. 111–22, §203(f)(2), substituted "For purposes of this section, a person acts knowingly when a person has actual knowledge of acts or should have known of the acts." for "The term 'knowingly' means having actual knowledge of or acting with deliberate ignorance of or reckless disregard for the prohibitions under this section."
 
-<b>2006</b>—Subsec. (b)(1)(B)(ii). Pub. L. 109–173 substituted “Deposit Insurance Fund” for “Bank Insurance Fund for banks and through the Savings Association Insurance Fund for savings associations”.
+<b>2006</b>—Subsec. (b)(1)(B)(ii). Pub. L. 109–173 substituted "Deposit Insurance Fund" for "Bank Insurance Fund for banks and through the Savings Association Insurance Fund for savings associations".
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(13)(B). See 1996 Amendment note below.
 
@@ -156,31 +156,31 @@ Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(13)(B). See 1996 Amendme
 
 <b>1998</b>—Subsec. (a)(2). Pub. L. 105–276, §601(g), inserted second paragraph.
 
-Subsec. (b)(1)(I). Pub. L. 105–276, §601(h), which directed the addition of subpar. (I) after subpar. “(h)”, was executed by adding subpar. (I) after subpar. (H), to reflect the probable intent of Congress.
+Subsec. (b)(1)(I). Pub. L. 105–276, §601(h), which directed the addition of subpar. (I) after subpar. "(h)", was executed by adding subpar. (I) after subpar. (H), to reflect the probable intent of Congress.
 
-<b>1997</b>—Pub. L. 105–65, §553(a), amended section catchline generally, substituting “mortgagees, lenders, and other participants in FHA programs” for “mortgagees and lenders”.
+<b>1997</b>—Pub. L. 105–65, §553(a), amended section catchline generally, substituting "mortgagees, lenders, and other participants in FHA programs" for "mortgagees and lenders".
 
-Subsec. (a)(1). Pub. L. 105–65, §553(b)(1), substituted “If a mortgagee approved under the chapter, a lender holding a contract of insurance under subchapter I of this chapter, or a principal, officer, or employee of such mortgagee or lender, or other person or entity participating in either an insured mortgage or subchapter I loan transaction under this chapter or providing assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents and dealers, knowingly and materially violates any applicable provision of subsection (b) of this section, the Secretary may impose a civil money penalty on the mortgagee or lender, or such other person or entity, in accordance with this section. The penalty under this paragraph shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions.” for “Whenever a mortgagee approved under this chapter, or a lender holding a contract of insurance under subchapter I of this chapter, knowingly and materially violates any of the provisions of subsection (b) of this section, the Secretary may impose a civil money penalty on the mortgagee or lender in accordance with the provisions of this section.”
+Subsec. (a)(1). Pub. L. 105–65, §553(b)(1), substituted "If a mortgagee approved under the chapter, a lender holding a contract of insurance under subchapter I of this chapter, or a principal, officer, or employee of such mortgagee or lender, or other person or entity participating in either an insured mortgage or subchapter I loan transaction under this chapter or providing assistance to the borrower in connection with any such loan, including sellers of the real estate involved, borrowers, closing agents, title companies, real estate agents, mortgage brokers, appraisers, loan correspondents and dealers, knowingly and materially violates any applicable provision of subsection (b) of this section, the Secretary may impose a civil money penalty on the mortgagee or lender, or such other person or entity, in accordance with this section. The penalty under this paragraph shall be in addition to any other available civil remedy or any available criminal penalty, and may be imposed whether or not the Secretary imposes other administrative sanctions." for "Whenever a mortgagee approved under this chapter, or a lender holding a contract of insurance under subchapter I of this chapter, knowingly and materially violates any of the provisions of subsection (b) of this section, the Secretary may impose a civil money penalty on the mortgagee or lender in accordance with the provisions of this section."
 
-Subsec. (a)(2). Pub. L. 105–65, §553(b)(2), inserted “or such other person or entity” after “lender” in first sentence and substituted “the provisions of subsection (b)(1)” for “provision of subsection (b)(1)” in second sentence.
+Subsec. (a)(2). Pub. L. 105–65, §553(b)(2), inserted "or such other person or entity" after "lender" in first sentence and substituted "the provisions of subsection (b)(1)" for "provision of subsection (b)(1)" in second sentence.
 
 Subsec. (b)(2). Pub. L. 105–65, §553(c)(1), (2), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (b)(3). Pub. L. 105–65, §553(c)(1), (3), redesignated par. (2) as (3) and substituted “or (F), or paragraph (2)(A), (B), or (C)” for “or paragraph (1)(F)”.
+Subsec. (b)(3). Pub. L. 105–65, §553(c)(1), (3), redesignated par. (2) as (3) and substituted "or (F), or paragraph (2)(A), (B), or (C)" for "or paragraph (1)(F)".
 
-Subsec. (c)(1)(B). Pub. L. 105–65, §553(d)(1), inserted “or such other person or entity” after “lender”.
+Subsec. (c)(1)(B). Pub. L. 105–65, §553(d)(1), inserted "or such other person or entity" after "lender".
 
-Subsec. (d)(1). Pub. L. 105–65, §553(d)(2), inserted “or such other person or entity” after “lender” and substituted “parts 24 and 25” for “part 25”.
+Subsec. (d)(1). Pub. L. 105–65, §553(d)(2), inserted "or such other person or entity" after "lender" and substituted "parts 24 and 25" for "part 25".
 
-Subsec. (e). Pub. L. 105–65, §553(d)(3), inserted “or such other person or entity” after “lender” in two places.
+Subsec. (e). Pub. L. 105–65, §553(d)(3), inserted "or such other person or entity" after "lender" in two places.
 
-<b>1996</b>—Subsec. (b)(1)(B)(ii). Pub. L. 104–208, §2704(d)(13)(B), which directed the amendment of section 526(b)(1)(B)(ii) of the National Housing Act by substituting “Deposit Insurance Fund” for “Bank Insurance Fund for banks and through the Savings Association Insurance Fund for savings associations” and which substitution was probably intended by Congress to be made in subsec. (b)(1)(B)(ii) of this section, section 536 of the National Housing Act, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsec. (b)(1)(B)(ii). Pub. L. 104–208, §2704(d)(13)(B), which directed the amendment of section 526(b)(1)(B)(ii) of the National Housing Act by substituting "Deposit Insurance Fund" for "Bank Insurance Fund for banks and through the Savings Association Insurance Fund for savings associations" and which substitution was probably intended by Congress to be made in subsec. (b)(1)(B)(ii) of this section, section 536 of the National Housing Act, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
 #### Effective Date of 2006 Amendment
 
 Amendment by Pub. L. 109–173 effective Mar. 31, 2006, see section 9(j) of Pub. L. 109–173, set out as a note under section 24 of this title.
 
-Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006, see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
+Amendment by Pub. L. 109–171 effective no later than the first day of the first calendar quarter that begins after the end of the 90-day period beginning Feb. 8, 2006,see section 2102(c) of Pub. L. 109–171, set out as a Merger of BIF and SAIF note under section 1821 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -188,25 +188,25 @@ Amendment by Pub. L. 104–208 effective Jan. 1, 1999, if no insured depository 
 
 #### Effective Date
 
-Pub. L. 101–235, title I, §107(b), Dec. 15, 1989, 103 Stat. 2003, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to—
+Pub. L. 101–235, title I, §107(b), Dec. 15, 1989, 103 Stat. 2003, provided that: "The amendment made by subsection (a) \[enacting this section\] shall apply only with respect to—
 
-&emsp;“(1) violations referred to in the amendment that occur on or after the effective date of this section \[Dec. 15, 1989\]; and
+&emsp;"(1) violations referred to in the amendment that occur on or after the effective date of this section \[Dec. 15, 1989\]; and
 
-&emsp;“(2) in the case of a continuing violation (as determined by the Secretary of Housing and Urban Development), any portion of a violation referred to in the amendment that occurs on or after such date.”
+&emsp;"(2) in the case of a continuing violation (as determined by the Secretary of Housing and Urban Development), any portion of a violation referred to in the amendment that occurs on or after such date."
 
 #### Regulations
 
 Pub. L. 105–65, title V, §541, Oct. 27, 1997, 111 Stat. 1412, provided that:
 
-“(a)
+"(a)
 
 Issuance of Necessary Regulations.—Notwithstanding section 7(o) of the Department of Housing and Urban Development Act \[42 U.S.C. 3535(o)\] or part 10 of title 24, Code of Federal Regulations (as in existence on the date of enactment of this Act \[Oct. 27, 1997\]), the Secretary shall issue such regulations as the Secretary determines to be necessary to implement this subtitle \[subtitle C (§§541–564) of title V of Pub. L. 105–65, enacting section 1437z–1 of Title 42, The Public Health and Welfare, amending this section, sections 1708, 1715z–4a, 1715z–19, and 1735f–15 of this title, section 1516 of Title 18, Crimes and Criminal Procedure, section 6103 of Title 26, Internal Revenue Code, and sections 503 and 1437z of Title 42, and enacting provisions set out as notes under section 1735f–15 of this title and sections 503 and 1437z–1 of Title 42\] and the amendments made by this subtitle in accordance with section 552 or 553 of title 5, United States Code, as determined by the Secretary.
 
-“(b)
+"(b)
 
-Use of Existing Regulations.—In implementing any provision of this subtitle, the Secretary may, in the discretion of the Secretary, provide for the use of existing regulations to the extent appropriate, without rulemaking.”
+Use of Existing Regulations.—In implementing any provision of this subtitle, the Secretary may, in the discretion of the Secretary, provide for the use of existing regulations to the extent appropriate, without rulemaking."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "this".</i>
 
-<i><sup>2</sup></i><i> So in original. The word “a” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "a" probably should not appear.</i>
 

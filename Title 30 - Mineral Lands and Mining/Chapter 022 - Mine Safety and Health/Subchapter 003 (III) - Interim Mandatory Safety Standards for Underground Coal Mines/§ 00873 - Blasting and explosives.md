@@ -18,7 +18,7 @@ Explosives or detonators carried anywhere underground in a coal mine by any pers
 
 #### (e) Transportation of explosives or detonators in underground mines
 
-Explosives or detonators shall be transported in special closed containers (1) in cars moved bymeans of a locomotive or rope, (2) on belts, (3) in shuttle cars, or (4) in equipment designed especially to transport such explosives or detonators.
+Explosives or detonators shall be transported in special closed containers (1) in cars moved by means of a locomotive or rope, (2) on belts, (3) in shuttle cars, or (4) in equipment designed especially to transport such explosives or detonators.
 
 #### (f) Storage of explosives and detonators in working sections of underground mines; containers; locations
 

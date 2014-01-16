@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Domestic violence
 
-&emsp;The term “domestic violence” has the meaning given that term in section 3796gg–2 of title 42.
+&emsp;The term "domestic violence" has the meaning given that term in section 3796gg–2 of title 42.
 
 #### (2) Expert
 
-&emsp;The term “expert” means—
+&emsp;The term "expert" means—
 
 &emsp;&emsp;(A) an expert on domestic violence, sexual assault, and child abuse from the educational, legal, youth, mental health, substance abuse, or victim advocacy field; and
 
@@ -20,7 +20,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “witness domestic violence” means to witness—
+&emsp;&emsp;The term "witness domestic violence" means to witness—
 
 &emsp;&emsp;&emsp;(i) an act of domestic violence that constitutes actual or attempted physical assault; or
 
@@ -28,7 +28,7 @@ In this section:
 
 #### (B) Witness
 
-&emsp;&emsp;In subparagraph (A), the term “witness” means—
+&emsp;&emsp;In subparagraph (A), the term "witness" means—
 
 &emsp;&emsp;&emsp;(i) to directly observe an act, threat, or action described in subparagraph (A), or the aftermath of that act, threat, or action; or
 
@@ -38,7 +38,7 @@ In this section:
 
 #### (1) Authority
 
-&emsp;The Secretary is authorized to award grants to local educational agencies that work withexperts to enable the elementary schools and secondary schools served by the local educational agency—
+&emsp;The Secretary is authorized to award grants to local educational agencies that work with experts to enable the elementary schools and secondary schools served by the local educational agency—
 
 &emsp;&emsp;(A) to provide training to school administrators, faculty, and staff, with respect to issues concerning children who experience domestic violence in dating relationships or who witness domestic violence, and the impact of the violence on the children;
 
@@ -64,9 +64,9 @@ In this section:
 
 Funds made available to carry out this subpart may be used for one or more of the following purposes:
 
-&emsp;(1) To provide training for elementary school and secondary school administrators, faculty, and staff that addresses issues concerning elementary school and secondary school students who experience domestic violence in dating relationships or who witness domestic violence, and the impact of such violence on those students.
+&emsp;(1) To provide training for elementary school and secondary school administrators, faculty, and staff that addresses issues concerning elementary school and secondary school students who experience domestic violence in dating relationships or who witness domestic violence,and the impact of such violence on those students.
 
-&emsp;(2) To provide education programs for elementary school and secondary school students that are developmentally appropriate for the students’ grade levels and are designed to meet any unique cultural and language needs of the particular student populations.
+&emsp;(2) To provide education programs for elementary school and secondary school students that are developmentally appropriate for the students' grade levels and are designed to meet any unique cultural and language needs of the particular student populations.
 
 &emsp;(3) To develop and implement elementary school and secondary school system policies regarding—
 

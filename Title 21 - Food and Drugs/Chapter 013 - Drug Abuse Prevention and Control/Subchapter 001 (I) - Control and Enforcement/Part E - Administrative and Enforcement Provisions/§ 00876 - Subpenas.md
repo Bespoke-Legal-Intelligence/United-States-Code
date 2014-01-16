@@ -16,7 +16,7 @@ In the case of contumacy by or refusal to obey a subpena issued to any person, t
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–690 inserted “listed chemicals, tableting machines, or encapsulating machines,” after “with respect to controlled substances,”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690 inserted "listed chemicals, tableting machines, or encapsulating machines," after "with respect to controlled substances,".
 
 #### Effective Date of 1988 Amendment
 

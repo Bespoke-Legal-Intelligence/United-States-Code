@@ -22,9 +22,9 @@ All areas in such State designated pursuant to section 7407(d) of this title as 
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–549, §108(m), inserted at end “The extent of the areas designated as Class I under this section shall conform to any changes in the boundaries of such areas which have occurred subsequent to August 7, 1977, or which may occur subsequent to November 15, 1990.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–549, §108(m), inserted at end "The extent of the areas designated as Class I under this section shall conform to any changes in the boundaries of such areas which have occurred subsequent to August 7, 1977, or which may occur subsequent to November 15, 1990."
 
-Subsec. (b). Pub. L. 101–549, §110(2), substituted “designated pursuant to section 7407(d) of this title as attainment or unclassifiable” for “identified pursuant to section 7407(d)(1)(D) or (E) of this title”.
+Subsec. (b). Pub. L. 101–549, §110(2), substituted "designated pursuant to section 7407(d) of this title as attainment or unclassifiable" for "identified pursuant to section 7407(d)(1)(D) or (E) of this title".
 
-<b>1977</b>—Subsec. (a)(4). Pub. L. 95–190 inserted a comma after “size”.
+<b>1977</b>—Subsec. (a)(4). Pub. L. 95–190 inserted a comma after "size".
 

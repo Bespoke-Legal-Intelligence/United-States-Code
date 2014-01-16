@@ -10,7 +10,7 @@ Payments under any contracts or grants pursuant to this subchapter may be made i
 
 #### (c) Revision or amendment
 
-Notwithstanding any provision of law to the contrary, the Secretary may, at the request or consent of an urban Indian organization, revise or amend any contract entered into by the Secretary with such organization under this subchapter as necessary to carry out the purposes of this subchapter.
+Notwithstanding any provision of law to the contrary, the Secretary may, at the request orconsent of an urban Indian organization, revise or amend any contract entered into by the Secretary with such organization under this subchapter as necessary to carry out the purposes of this subchapter.
 
 #### (d) Existing Government facilities
 
@@ -32,7 +32,7 @@ Section 1603(f) of this title, referred to in subsec. (f), was redesignated sect
 
 #### Codification
 
-“Sections 3131 and 3133 of title 40” substituted in subsec. (a) for “the Act of August 24, 1935 (40 U.S.C. 270a, et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Sections 3131 and 3133 of title 40" substituted in subsec. (a) for "the Act of August 24, 1935 (40 U.S.C. 270a, et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 
@@ -40,13 +40,13 @@ A prior section 1656, Pub. L. 94–437, title V, §506, Sept. 30, 1976, 90 Stat.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–573, §501(b)(4)(D), inserted “and grant” in section catchline.
+<b>1992</b>—Pub. L. 102–573, §501(b)(4)(D), inserted "and grant" in section catchline.
 
-Subsec. (b). Pub. L. 102–573, §501(b)(4)(A), inserted “or grants” after “any contracts”.
+Subsec. (b). Pub. L. 102–573, §501(b)(4)(A), inserted "or grants" after "any contracts".
 
-Subsec. (d). Pub. L. 102–573, §501(b)(4)(B), inserted “or grant” after “contract” in two places.
+Subsec. (d). Pub. L. 102–573, §501(b)(4)(B), inserted "or grant" after "contract" in two places.
 
-Subsec. (e). Pub. L. 102–573, §501(b)(4)(C), inserted “, or grants to,” after “Contracts with” and “or grants” after “such contracts”.
+Subsec. (e). Pub. L. 102–573, §501(b)(4)(C), inserted ", or grants to," after "Contracts with" and "or grants" after "such contracts".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

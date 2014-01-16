@@ -26,7 +26,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 &emsp;(7) Under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], by the Federal Trade Commission for any other financial institution or other person that is not subject to the jurisdiction of any agency or authority under paragraphs (1) through (6) of this subsection.
 
-&emsp;(8) Under subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561 et seq.\], by the Bureau of Consumer Financial Protection, in the case of any financial institution and other covered person or service provider that is subject to the jurisdiction of theBureau and any person subject to this subchapter, but not with respect to the standards under section 6801 of this title.
+&emsp;(8) Under subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561 et seq.\], by the Bureau of Consumer Financial Protection, in the case of any financial institution and other covered person or service provider that is subject to the jurisdiction of the Bureau and any person subject to this subchapter, but not with respect to the standards under section 6801 of this title.
 
 #### (b) Enforcement of section 6801
 
@@ -52,6 +52,8 @@ The terms used in subsection (a)(1) of this section that are not defined in this
 
 The Consumer Financial Protection Act of 2010, referred to in subsec. (a), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955. Subtitles B (§§1021–1029A) and E (§§1051–1058) of the Act are classified generally to parts B (§5511 et seq.) and E (§5561 et seq.), respectively, of subchapter V of chapter 53 of Title 12, Banks and Banking. For complete classification of subtitles B and E to the Code, see Tables.
 
+This subchapter, referred to in subsecs. (a), (c), and (d), was in the original "this subtitle", meaning subtitle A (§§501–510) of title V of Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1436, which is classified principally to this subchapter. For complete classification of subtitle A to the Code, see Tables.
+
 Section 25 of the Federal Reserve Act, referred to in subsec. (a)(1)(B), is classified to subchapter I (§601 et seq.) of chapter 6 of Title 12, Banks and Banking. Section 25A of the Federal Reserve Act is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12.
 
 The Federal Credit Union Act, referred to in subsec. (a)(2), is act June 26, 1934, ch. 750, 48 Stat. 1216, which is classified generally to chapter 14 (§1751 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see section 1751 of Title 12 and Tables.
@@ -66,21 +68,21 @@ The Federal Trade Commission Act, referred to in subsec. (a)(7), is act Sept. 26
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1093(4)(A), substituted “Subject to subtitle B of the Consumer Financial Protection Act of 2010, this subchapter and the regulations prescribed thereunder shall be enforced by the Bureau of Consumer Financial Protection, the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:” for “This subchapter and the regulations prescribed thereunder shall be enforced by the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1093(4)(A), substituted "Subject to subtitle B of the Consumer Financial Protection Act of 2010, this subchapter and the regulations prescribed thereunder shall be enforced by the Bureau of Consumer Financial Protection, the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:" for "This subchapter and the regulations prescribed thereunder shall be enforced by the Federal functional regulators, the State insurance authorities, and the Federal Trade Commission with respect to financial institutions and other persons subject to their jurisdiction under applicable law, as follows:".
 
-Subsec. (a)(1). Pub. L. 111–203, §1093(4)(B)(i), inserted “by the appropriate Federal banking agency, as defined in section 1813(q) of title 12,” before “in the case of—”.
+Subsec. (a)(1). Pub. L. 111–203, §1093(4)(B)(i), inserted "by the appropriate Federal banking agency, as defined in section 1813(q) of title 12," before "in the case of—".
 
-Subsec. (a)(1)(A). Pub. L. 111–203, §1093(4)(B)(ii), struck out “, by the Office of the Comptroller of the Currency” before semicolon at end.
+Subsec. (a)(1)(A). Pub. L. 111–203, §1093(4)(B)(ii), struck out ", by the Office of the Comptroller of the Currency" before semicolon at end.
 
-Subsec. (a)(1)(B). Pub. L. 111–203, §1093(4)(B)(iii), struck out “, by the Board of Governors of the Federal Reserve System” before semicolon at end.
+Subsec. (a)(1)(B). Pub. L. 111–203, §1093(4)(B)(iii), struck out ", by the Board of Governors of the Federal Reserve System" before semicolon at end.
 
-Subsec. (a)(1)(C). Pub. L. 111–203, §1093(4)(B)(iv), struck out “, by the Board of Directors of the Federal Deposit Insurance Corporation” before “; and”.
+Subsec. (a)(1)(C). Pub. L. 111–203, §1093(4)(B)(iv), struck out ", by the Board of Directors of the Federal Deposit Insurance Corporation" before "; and".
 
-Subsec. (a)(1)(D). Pub. L. 111–203, §1093(4)(B)(v), struck out “, by the Director of the Office of Thrift Supervision” before period at end.
+Subsec. (a)(1)(D). Pub. L. 111–203, §1093(4)(B)(v), struck out ", by the Director of the Office of Thrift Supervision" before period at end.
 
 Subsec. (a)(8). Pub. L. 111–203, §1093(4)(C), added par. (8).
 
-Subsec. (b)(1). Pub. L. 111–203, §1093(5), inserted “, other than the Bureau of Consumer Financial Protection,” before “shall implement the standards”.
+Subsec. (b)(1). Pub. L. 111–203, §1093(5), inserted ", other than the Bureau of Consumer Financial Protection," before "shall implement the standards".
 
 #### Effective Date of 2010 Amendment
 

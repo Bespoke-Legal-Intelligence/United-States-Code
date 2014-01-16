@@ -16,9 +16,9 @@ Section 4619 of this title, referred to in subsec. (b), was repealed by Pub. L. 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–289, §1154(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “The Director may request the Attorney General of the United States to bring an action in the United States District Court for the District of Columbia for the enforcement of any effective notice or order issued under this subchapter or subchapter II of this chapter or may, under the direction and control of the Attorney General, bring such an action. Such court shall have jurisdiction and power to order and require compliance herewith.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–289, §1154(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "The Director may request the Attorney General of the United States to bring an action in the United States District Court for the District of Columbia for the enforcement of any effective notice or order issued under this subchapter or subchapter II of this chapter or may, under the direction and control of the Attorney General, bring such an action. Such court shall have jurisdiction and power to order and require compliance herewith."
 
-Subsec. (b). Pub. L. 110–289, §1154(2), substituted “4513b, 4636, or 4636a of this title” for “or 4636 of this title”.
+Subsec. (b). Pub. L. 110–289, §1154(2), substituted "4513b, 4636, or 4636a of this title" for "or 4636 of this title".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

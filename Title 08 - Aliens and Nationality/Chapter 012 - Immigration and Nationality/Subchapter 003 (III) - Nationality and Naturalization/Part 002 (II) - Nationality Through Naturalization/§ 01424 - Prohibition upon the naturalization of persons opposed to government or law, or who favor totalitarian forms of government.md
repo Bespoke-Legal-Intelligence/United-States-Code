@@ -4,7 +4,7 @@
 
 &emsp;(1) who advocates or teaches, or who is a member of or affiliated with any organization that advocates or teaches, opposition to all organized government; or
 
-&emsp;(2) who is a member of or affiliated with (A) the Communist Party of the United States; (B) any other totalitarian party of the United States; (C) the Communist Political Association; (D) the Communist or other totalitarian party of any State of the United States, of any foreign state, or of any political or geographical subdivision of any foreign state; (E) any section, subsidiary, branch, affiliate, or subdivision of any such association or party; or (F) the direct predecessors or successors ofany such association or party, regardless of what name such group or organization may have used, may now bear, or may hereafter adopt, unless such alien establishes that he did not have knowledge or reason to believe at the time he became a member of or affiliated with such an organization (and did not thereafter and prior to the date upon which such organization was so registered or so required to be registered have such knowledge or reason to believe) that such organization was a Communist-front organization; or
+&emsp;(2) who is a member of or affiliated with (A) the Communist Party of the United States; (B) any other totalitarian party of the United States; (C) the Communist Political Association; (D) the Communist or other totalitarian party of any State of the United States, of any foreign state, or of any political or geographical subdivision of any foreign state; (E) any section, subsidiary, branch, affiliate, or subdivision of any such association or party; or (F) the direct predecessors or successors of any such association or party, regardless of what name such group or organization may have used, may now bear, or may hereafter adopt, unless such alien establishes that he did not have knowledge or reason to believe at the time he became a member of or affiliated with such an organization (and did not thereafter and prior to the date upon which such organization was so registered or so required to be registered have such knowledge or reason to believe) that such organization was a Communist-front organization; or
 
 &emsp;(3) who, although not within any of the other provisions of this section, advocates the economic, international, and governmental doctrines of world communism or the establishment in the United States of a totalitarian dictatorship, or who is a member of or affiliated with any organization that advocates the economic, international, and governmental doctrines of world communism or the establishment in the United States of a totalitarian dictatorship, either through its own utterances or through any written or printed publications issued or published by or with the permission or consent of or under authority of such organization or paid for by the funds of such organization; or
 
@@ -34,7 +34,7 @@
 
 #### References in Text
 
-Section 405(b) of this Act, referred to in subsec. (a), is section 405(b) of act June 27, 1952, ch. 477, title IV, 66Stat. 280, which is set out as a Savings Clause note under section 1101 of this title.
+Section 405(b) of this Act, referred to in subsec. (a), is section 405(b) of act June 27, 1952, ch. 477, title IV, 66 Stat. 280, which is set out as a Savings Clause note under section 1101 of this title.
 
 This chapter, referred to in subsec. (b), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
@@ -54,7 +54,7 @@ This chapter, referred to in subsec. (b), was in the original, “this Act”, m
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Effective Date of 1994 Amendment
 

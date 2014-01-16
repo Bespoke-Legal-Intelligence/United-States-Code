@@ -160,7 +160,7 @@ Definitions.—In this paragraph, the following definitions shall apply:
 
 &emsp;&emsp;&emsp;(i)
 
-Eligible area.—The term “eligible area” means an area that is—
+Eligible area.—The term "eligible area" means an area that is—
 
 &emsp;&emsp;&emsp;&emsp;(I) designated as a nonattainment area for ozone or carbon monoxide under section 107(d) of the Clean Air Act (42 U.S.C. 7407(d)); or
 
@@ -168,7 +168,7 @@ Eligible area.—The term “eligible area” means an area that is—
 
 &emsp;&emsp;&emsp;(ii)
 
-Eligible project.—The term “eligible project” means a project or program of projects in an eligible area for—
+Eligible project.—The term "eligible project" means a project or program of projects in an eligible area for—
 
 &emsp;&emsp;&emsp;&emsp;(I) acquiring or leasing low or no emission vehicles;
 
@@ -180,15 +180,15 @@ Eligible project.—The term “eligible project” means a project or program o
 
 &emsp;&emsp;&emsp;(iii)
 
-Direct carbon emissions.—The term “direct carbon emissions” means the quantity of direct greenhouse gas emissions from a vehicle, as determined by the Administrator of the Environmental Protection Agency.
+Direct carbon emissions.—The term "direct carbon emissions" means the quantity of direct greenhouse gas emissions from a vehicle, as determined by the Administrator of the Environmental Protection Agency.
 
 &emsp;&emsp;&emsp;(iv)
 
-Low or no emission bus.—The term “low or no emission bus” means a bus that is a low or no emission vehicle.
+Low or no emission bus.—The term "low or no emission bus" means a bus that is a low or no emission vehicle.
 
 &emsp;&emsp;&emsp;(v)
 
-Low or no emission vehicle.—The term “low or no emission vehicle” means—
+Low or no emission vehicle.—The term "low or no emission vehicle" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) a passenger vehicle used to provide public transportation that the Administrator of the Environmental Protection Agency has certified sufficiently reduces energy consumption or reduces harmful emissions, including direct carbon emissions, when compared to a comparable standard vehicle; or
 
@@ -196,7 +196,7 @@ Low or no emission vehicle.—The term “low or no emission vehicle” means—
 
 &emsp;&emsp;&emsp;(vi)
 
-Recipient.—The term “recipient” means—
+Recipient.—The term "recipient" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) for an eligible area that is an urbanized area with a population of fewer than 200,000 individuals, as determined by the Bureau of the Census, the State in which the eligible area is located; and
 
@@ -204,7 +204,7 @@ Recipient.—The term “recipient” means—
 
 &emsp;&emsp;&emsp;(vii)
 
-Zero emission bus.—The term “zero emission bus” means a low or no emission bus that produces no carbon or particulate matter.
+Zero emission bus.—The term "zero emission bus" means a low or no emission bus that produces no carbon or particulate matter.
 
 &emsp;&emsp;(B)
 
@@ -338,43 +338,43 @@ July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §4(c) (1st sentence); added Nov. 
 
 49 App.:1607b (2d–last sentences).
 
-In subsections (a) and (b)(1), the words “(or the Secretary of Housing and Urban Development when required by section 5334(i) of this title)” are added for clarity.
+In subsections (a) and (b)(1), the words "(or the Secretary of Housing and Urban Development when required by section 5334(i) of this title)" are added for clarity.
 
-In subsection (a), the word “working” is omitted as surplus. The words “departments, agencies, and instrumentalities of the United States Government” are substituted for “other Federal departments and agencies” for consistency in the revised title and with other titles of the United States Code. The words “all phases of”, “(including the development, testing, and demonstration of new facilities, equipment, techniques, and methods)”, “In carrying out the provisions of this section”, “or data as he deems”, “public or private”, and “contained . . . section 1701d–3 of title 12 or . . . other provision of” are omitted as surplus.
+In subsection (a), the word "working" is omitted as surplus. The words "departments, agencies, and instrumentalities of the United States Government" are substituted for "other Federal departments and agencies" for consistency in the revised title and with other titles of the United States Code. The words "all phases of", "(including the development, testing, and demonstration of new facilities, equipment, techniques, and methods)", "In carrying out the provisions of this section", "or data as he deems", "public or private", and "contained . . . section 1701d–3 of title 12 or . . . other provision of" are omitted as surplus.
 
-In subsection (b)(1), before clause (A), the words “public and private”, “assist in establishing or carrying on comprehensive research in the problems of transportation in urban areas. Such grants shall be used to”, and “and qualified” are omitted as surplus. In clause (A), the words “or both” are omitted as surplus.
+In subsection (b)(1), before clause (A), the words "public and private", "assist in establishing or carrying on comprehensive research in the problems of transportation in urban areas. Such grants shall be used to", and "and qualified" are omitted as surplus. In clause (A), the words "or both" are omitted as surplus.
 
-In subsection (b)(3), the word “appropriate” is added for clarity.
+In subsection (b)(3), the word "appropriate" is added for clarity.
 
-In subsection (c)(1), the words “and agencies thereof” are omitted as surplus.
+In subsection (c)(1), the words "and agencies thereof" are omitted as surplus.
 
-In subsection (c)(3), before clause (A), the words “public or private training” and “the sum of” are omitted as surplus. In clause (B), the words “in connection with the fellowship” are omitted as surplus.
+In subsection (c)(3), before clause (A), the words "public or private training" and "the sum of" are omitted as surplus. In clause (B), the words "in connection with the fellowship" are omitted as surplus.
 
 #### Amendments
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section related to research, development, demonstration, and deployment projects and consisted of subsecs. (a) to (c).
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–244 substituted “Public Transportation” for “Mass Transportation” in heading.
+<b>2008</b>—Subsec. (c). Pub. L. 110–244 substituted "Public Transportation" for "Mass Transportation" in heading.
 
-<b>2005</b>—Pub. L. 109–59, §3014(e)(1), substituted “deployment” for “training” in section catchline.
+<b>2005</b>—Pub. L. 109–59, §3014(e)(1), substituted "deployment" for "training" in section catchline.
 
-Subsec. (a). Pub. L. 109–59, §3014(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Transportation (or the Secretary of Housing and Urban Development when required by section 5334(i) of this title) may undertake, or make grants or contracts (including agreements with departments, agencies, and instrumentalities of the United States Government) for, research, development, and demonstration projects related to urban mass transportation that the Secretary decides will help reduce urban transportation needs, improve mass transportation service, or help mass transportation service meet the total urban transportation needs at a minimum cost. The Secretary may request and receive appropriate information from any source. This subsection does not limit the authority of the Secretary under another law.”
+Subsec. (a). Pub. L. 109–59, §3014(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary of Transportation (or the Secretary of Housing and Urban Development when required by section 5334(i) of this title) may undertake, or make grants or contracts (including agreements with departments, agencies, and instrumentalities of the United States Government) for, research, development, and demonstration projects related to urban mass transportation that the Secretary decides will help reduce urban transportation needs, improve mass transportation service, or help mass transportation service meet the total urban transportation needs at a minimum cost. The Secretary may request and receive appropriate information from any source. This subsection does not limit the authority of the Secretary under another law."
 
 Subsec. (b). Pub. L. 109–59, §3014(b), redesignated subsec. (d) as (b) and struck out former subsec. (b) which related to grants to nonprofit institutions of higher learning for research, investigations, and training.
 
 Subsec. (c). Pub. L. 109–59, §3014(b), redesignated subsec. (e) as (c) and struck out former subsec. (c) which related to grants to States, local governmental authorities, and operators of mass transportation systems for training fellowships and grants to State and local governmental authorities for projects that would use innovative techniques and methods in managing and providing mass transportation.
 
-Subsec. (c)(2). Pub. L. 109–59, §3014(c), substituted “public or private” for “public and private”.
+Subsec. (c)(2). Pub. L. 109–59, §3014(c), substituted "public or private" for "public and private".
 
-Subsec. (c)(3). Pub. L. 109–59, §3014(d), struck out “shall be accounted for separately within the Mass Transit Account of the Highway Trust Fund and” after “Such revenues”.
+Subsec. (c)(3). Pub. L. 109–59, §3014(d), struck out "shall be accounted for separately within the Mass Transit Account of the Highway Trust Fund and" after "Such revenues".
 
 Subsec. (d). Pub. L. 109–59, §3014(b), redesignated subsec. (d) as (b).
 
-Subsec. (d)(1)(A), (2). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
+Subsec. (d)(1)(A), (2). Pub. L. 109–59, §3002(b)(4), substituted "public transportation" for "mass transportation" wherever appearing.
 
 Subsec. (e). Pub. L. 109–59, §3014(b), redesignated subsec. (e) as (c).
 
-Subsec. (e)(1). Pub. L. 109–59, §3002(b)(4), substituted “public transportation” for “mass transportation” wherever appearing.
+Subsec. (e)(1). Pub. L. 109–59, §3002(b)(4), substituted "public transportation" for "mass transportation" wherever appearing.
 
 <b>1998</b>—Subsecs. (d), (e). Pub. L. 105–178 added subsecs. (d) and (e).
 

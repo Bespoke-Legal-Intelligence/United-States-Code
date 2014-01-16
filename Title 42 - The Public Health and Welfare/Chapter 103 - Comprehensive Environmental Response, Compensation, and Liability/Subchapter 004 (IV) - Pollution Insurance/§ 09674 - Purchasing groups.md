@@ -44,5 +44,5 @@ A State may require that a person acting, or offering to act, as an agent or bro
 
 (Pub. L. 96–510, title IV, §404, as added Pub. L. 99–499, title II, §210(a), formerly §210, Oct. 17, 1986, 100 Stat. 1718; renumbered §210(a), Pub. L. 99–563, §11(c)(1), Oct. 27, 1986, 100 Stat. 3177.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “discriminates”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "discriminates".</i>
 

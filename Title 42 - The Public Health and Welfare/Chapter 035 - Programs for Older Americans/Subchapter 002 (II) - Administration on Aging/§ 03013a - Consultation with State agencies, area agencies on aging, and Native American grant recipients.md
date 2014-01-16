@@ -6,5 +6,5 @@ The Assistant Secretary shall consult and coordinate with State agencies, area a
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner”.
+<b>1993</b>—Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner".
 

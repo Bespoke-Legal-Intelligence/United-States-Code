@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “State” shall mean each of the 50 States of the United States.
+Definition.—In this section, the term "State" shall mean each of the 50 States of the United States.
 
 (b)
 

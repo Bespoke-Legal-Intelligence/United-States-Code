@@ -32,5 +32,5 @@ Nov. 18, 1997, Pub. L. 105–85, title XV, §§1508(e), 1514 (related to duty to
 
 &nbsp;
 
-In subsection (a), the words “organized and” are omitted as unnecessary.
+In subsection (a), the words "organized and" are omitted as unnecessary.
 

@@ -34,7 +34,7 @@ If the decision of the Secretary under subsection (d) of this section is in favo
 
 #### (f) Powers of Secretary
 
-(1) For purposes of any proceeding conducted pursuant to this section, the Secretary shallhave the power to administer oaths and subpena the attendance or testimony of witnesses and the production of books, records, and other evidence relative or pertinent to the issues being presented for determination.
+(1) For purposes of any proceeding conducted pursuant to this section, the Secretary shall have the power to administer oaths and subpena the attendance or testimony of witnesses and the production of books, records, and other evidence relative or pertinent to the issues being presented for determination.
 
 (2) In any proceeding conducted pursuant to this section with respect to a claim for damages resulting from activities on any area of the Outer Continental Shelf, the Secretary shall consider evidence of obstructions in such area which have been identified pursuant to the survey conducted under section 1847 <sup>1</sup> of this title.
 
@@ -52,7 +52,7 @@ Any proceeding conducted with respect to an initial determination on a claim und
 
 (2) Upon payment of a claim by the Secretary pursuant to this subsection, the Secretary shall acquire by subrogation all rights of the claimant against any person found to be responsible for the damages with respect to which such claim was made. Any moneys recovered by the Secretary through subrogation shall be deposited into the Fund.
 
-(3) Any person who denies responsibility for damages with respect to which a claim is made and who is subquently <sup>2</sup> found to be responsible for such damages, and any commercial fisherman who files a claim for damages and who is subsequently found to be responsible for such damages, shall pay the costs of the proceedings under this section with respect to such claim.
+(3) Any person who denies responsibility for damages with respect to which a claim is madeand who is subquently <sup>2</sup> found to be responsible for such damages, and any commercial fisherman who files a claim for damages and who is subsequently found to be responsible for such damages, shall pay the costs of the proceedings under this section with respect to such claim.
 
 #### (i) Judicial review
 
@@ -66,27 +66,27 @@ Section 1847 of this title, referred to in subsec. (f)(2), was repealed by Pub. 
 
 #### Amendments
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–498 substituted “under subsection (d)(1) of this section” for “, except that no such claim may be filed more than 60 days after the date of discovery of the damages with respect to which such claim is made”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–498 substituted "under subsection (d)(1) of this section" for ", except that no such claim may be filed more than 60 days after the date of discovery of the damages with respect to which such claim is made".
 
-Subsec. (d)(1). Pub. L. 98–498 inserted “time,” before “form”.
+Subsec. (d)(1). Pub. L. 98–498 inserted "time," before "form".
 
-<b>1982</b>—Subsec. (b). Pub. L. 97–212, §5(1), struck out pars. (1) and (2) designations, and substituted “shall take such further action regarding the claim that is required under subsection (d) of this section” for “refer such matter to a hearing examiner appointed under section 3105 of title 5”.
+<b>1982</b>—Subsec. (b). Pub. L. 97–212, §5(1), struck out pars. (1) and (2) designations, and substituted "shall take such further action regarding the claim that is required under subsection (d) of this section" for "refer such matter to a hearing examiner appointed under section 3105 of title 5".
 
-Subsec. (c). Pub. L. 97–212, §5(2), substituted “proceeding” for “hearing”.
+Subsec. (c). Pub. L. 97–212, §5(2), substituted "proceeding" for "hearing".
 
 Subsec. (d). Pub. L. 97–212, §5(3), substituted provisions relating to the filing of claims with the Secretary of the Interior in order to be eligible for compensation under this subchapter, the time for such filing, the time in which the Secretary must make his initial determination with respect to the claim, and the submission of evidence by the petitioner when reviewing an initial determination by the Secretary, for provisions relating to the time in which a hearing examiner has to render a decision.
 
 Subsec. (e). Pub. L. 97–212, §5(4), substituted provisions that if the decision of the Secretary is in favor of the commercial fisherman filing the claim, the Secretary shall award to such claimant reasonable attorney's fees and claim preparation fees incurred by claimant in pursuing such claim for provisions that upon a decision in favor of the claimant fisherman, the hearing examiner include in the award reasonable attorney's fees incurred by the claimant in pursuing such claim.
 
-Subsec. (f). Pub. L. 97–212, §5(5), substituted “the Secretary” for “hearing examiner” and “proceeding” for “hearing” wherever appearing. The amendment which directed the substitution of “the Secretary” for “hearing examiner” was executed by substituting “the Secretary” for “the hearing examiner”, as the probable intent of Congress, to avoid repeating the article “the” before “Secretary” in two places.
+Subsec. (f). Pub. L. 97–212, §5(5), substituted "the Secretary" for "hearing examiner" and "proceeding" for "hearing" wherever appearing. The amendment which directed the substitution of "the Secretary" for "hearing examiner" was executed by substituting "the Secretary" for "the hearing examiner", as the probable intent of Congress, to avoid repeating the article "the" before "Secretary" in two places.
 
-Subsec. (g). Pub. L. 97–212, §5(6), substituted “Any proceeding conducted with respect to an initial determination on a claim under subsection (d)(3)(A) of this section shall be conducted within such United States judicial district as may be mutually agreeable to the claimant and the Secretary or, if no agreement can be reached, within the United States judicial district in which the home port of the claimant is located” for “A hearing conducted under this section shall be conducted within the United States judicial district within which the matter giving rise to the claim occurred, or, if such matter occurred within two or more districts, in any of the affected districts, or, if such matter occurred outside of any district, in the nearest district”.
+Subsec. (g). Pub. L. 97–212, §5(6), substituted "Any proceeding conducted with respect to an initial determination on a claim under subsection (d)(3)(A) of this section shall be conducted within such United States judicial district as may be mutually agreeable to the claimant and the Secretary or, if no agreement can be reached, within the United States judicial district in which the home port of the claimant is located" for "A hearing conducted under this section shall be conducted within the United States judicial district within which the matter giving rise to the claim occurred, or, if such matter occurred within two or more districts, in any of the affected districts, or, if such matter occurred outside of any district, in the nearest district".
 
 Subsec. (h)(1). Pub. L. 97–212, §5(7)(A), substituted provisions that the amount awarded in an initial determination by the Secretary under subsec. (d) be immediately disbursed by the Secretary if the claimant states in writing that he will not petition for review of the initial determination and he enters into an agreement with the Secretary to repay to the Secretary all or any part of the award that is not sustained upon later judicial review for provisions that upon a decision of the hearing examiner and in absence of judicial review, any amount to be paid would be certified to the Secretary who would promptly disburse the award and that such decision of the hearing examiner was not reviewable by the Secretary.
 
 Subsec. (h)(2). Pub. L. 97–212, §5(7)(B), inserted provision that any moneys recovered by the Secretary through subrogation shall be deposited into the Fund.
 
-Subsec. (i). Pub. L. 97–212, §5(8), substituted “Any claimant or other person who suffers a legal wrong or who is adversely affected or aggrieved by a final determination of the Secretary under subsection (d) of this section, may, no later than 30 days after such determination is made, seek judicial review of the determination in the United States district court for such United States judicial district as may be mutually agreeable to the parties concerned or, if no agreement can be reached, in the United States district court for the United States judicial district in which is located the home port of the claimant” for “Any person who suffers legal wrong or who is adversely affected or aggrieved by the decision of a hearing examiner under this section may, no later than 60 days after such decision is made, seek judicial review of such decision in the United States court of appeals for the circuit in which the damage occurred, or if such damage occurred outside of any circuit, in the United States court of appeals for the nearest circuit”.
+Subsec. (i). Pub. L. 97–212, §5(8), substituted "Any claimant or other person who suffers a legal wrong or who is adversely affected or aggrieved by a final determination of the Secretary under subsection (d) of this section, may, no later than 30 days after such determination is made, seek judicial review of the determination in the United States district court for such United States judicial district as may be mutually agreeable to the parties concerned or, if no agreement can be reached, in the United States district court for the United States judicial district in which is located the home port of the claimant" for "Any person who suffers legal wrong or who is adversely affected or aggrieved by the decision of a hearing examiner under this section may, no later than 60 days after such decision is made, seek judicial review of such decision in the United States court of appeals for the circuit in which the damage occurred, or if such damage occurred outside of any circuit, in the United States court of appeals for the nearest circuit".
 
 #### Effective Date of 1982 Amendment
 
@@ -98,5 +98,5 @@ Authority to owners or operators of fishing vessels and commercial fishermen fai
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “subsequently”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "subsequently".</i>
 

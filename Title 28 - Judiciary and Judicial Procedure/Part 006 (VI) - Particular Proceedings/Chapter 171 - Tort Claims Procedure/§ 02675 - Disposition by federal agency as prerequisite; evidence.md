@@ -32,7 +32,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 Subsec. (b). Pub. L. 89–506, §2(b), struck out provisions under which a claimant could, upon 15 days written notice, withdraw a claim from the agency and institute an action thereon.
 
-<b>1949</b>—Subsec. (b). Act May 24, 1949, substituted “section” for “subsection”.
+<b>1949</b>—Subsec. (b). Act May 24, 1949, substituted "section" for "subsection".
 
 #### Effective Date of 1966 Amendment
 

@@ -13,7 +13,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should be “153”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "153".</i>
 
 
 ---

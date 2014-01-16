@@ -26,9 +26,9 @@ Technology Risk Assessment Requirement.—(1) If the Secretary of Defense is act
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–314 substituted “$10,000,000” for “$100,000”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–314 substituted "$10,000,000" for "$100,000".
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–35, §201(d)(5), substituted “respectively, that” for “respectively, which”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–35, §201(d)(5), substituted "respectively, that" for "respectively, which".
 
-Subsec. (d). Pub. L. 103–35, §201(h)(2), struck out subsec. (d) which read as follows: “In this section, the term ‘defense critical technology’ has the meaning provided that term by section 2491(8) of this title.”
+Subsec. (d). Pub. L. 103–35, §201(h)(2), struck out subsec. (d) which read as follows: "In this section, the term 'defense critical technology' has the meaning provided that term by section 2491(8) of this title."
 

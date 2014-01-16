@@ -36,7 +36,7 @@ From the sum appropriated under section 9204 of this title for a fiscal year, th
 
 #### (d) Qualifying adult
 
-For the purpose of subsection (c)(2) of this section, the term “qualifying adult” means an adult who—
+For the purpose of subsection (c)(2) of this section, the term "qualifying adult" means an adult who—
 
 &emsp;(1) is at least 16 years of age;
 
@@ -50,7 +50,7 @@ For the purpose of subsection (c)(2) of this section, the term “qualifying adu
 
 #### (1) In general
 
-&emsp;From amounts made available under subsection (c) of this section for the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, the Secretary shall award grants to Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau to carry out activities described in this part in accordance with the provisions of this part that the Secretary determines are not inconsistent with this subsection.
+&emsp;From amounts made available under subsection (c) of this section for the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau, theSecretary shall award grants to Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, or the Republic of Palau to carry out activities described in this part in accordance with the provisions of this part that the Secretary determines are not inconsistent with this subsection.
 
 #### (2) Award basis
 
@@ -90,5 +90,5 @@ Section 313 of the Adult Education Act (as such Act was in effect on the day bef
 
 #### Amendments
 
-<b>1998</b>—Subsec. (d)(1). Pub. L. 105–277 struck out “, but less than 61 years of age” after “16 years of age”.
+<b>1998</b>—Subsec. (d)(1). Pub. L. 105–277 struck out ", but less than 61 years of age" after "16 years of age".
 

@@ -30,9 +30,9 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 #### (ii) Controlled group
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “controlled group” means any controlled group of corporations (as defined in section 1563(a)); except that—
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "controlled group" means any controlled group of corporations (as defined in section 1563(a)); except that—
 
-&emsp;&emsp;&emsp;&emsp;(I) “more than 50 percent” shall be substituted for “at least 80 percent” each place it appears in section 1563(a), and
+&emsp;&emsp;&emsp;&emsp;(I) "more than 50 percent" shall be substituted for "at least 80 percent" each place it appears in section 1563(a), and
 
 &emsp;&emsp;&emsp;&emsp;(II) subsections (a)(4) and (b)(2)(D) of section 1563 shall not apply.
 
@@ -46,7 +46,7 @@ Taxes computed as provided in section 11 shall be imposed for each taxable year 
 
 #### (c) Insurance company defined
 
-For purposes of this section, the term “insurance company” has the meaning given to such term by section 816(a)).<sup>1</sup>
+For purposes of this section, the term "insurance company" has the meaning given to such term by section 816(a)).<sup>1</sup>
 
 #### (d) Cross references
 
@@ -60,25 +60,25 @@ For purposes of this section, the term “insurance company” has the meaning g
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(2)(A)(i). Pub. L. 108–218, §206(d), struck out “exceed $350,000 but” after “taxable year”.
+<b>2004</b>—Subsec. (b)(2)(A)(i). Pub. L. 108–218, §206(d), struck out "exceed $350,000 but" after "taxable year".
 
 Subsecs. (c), (d). Pub. L. 108–218, §206(c), added subsec. (c) and redesignated former subsec. (c) as (d).
 
-<b>1988</b>—Subsec. (b)(2)(A). Pub. L. 100–647, §1010(f)(1), inserted at end “The election under clause (ii) shall apply to the taxable year for which made and for all subsequent taxable years for which the requirements of clause (i) are met. Such an election, once made, may be revoked only with the consent of the Secretary.”
+<b>1988</b>—Subsec. (b)(2)(A). Pub. L. 100–647, §1010(f)(1), inserted at end "The election under clause (ii) shall apply to the taxable year for which made and for all subsequent taxable years for which the requirements of clause (i) are met. Such an election, once made, may be revoked only with the consent of the Secretary."
 
 Subsec. (b)(3). Pub. L. 100–647, §1010(f)(9), added par. (3).
 
 <b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions imposing taxes on insurance companies other than life insurance companies, with an alternative tax on certain small companies, for provisions imposing taxes on insurance companies (other than life or mutual), mutual marine insurance companies, and certain mutual fire or flood insurance companies, with an election for multiple line companies to be taxed on total income.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1901(a)(107), substituted “on the taxable income” for “or the taxable income”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1901(a)(107), substituted "on the taxable income" for "or the taxable income".
 
-Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1966</b>—Subsec. (b). Pub. L. 89–809, §104(i)(6)(A), redesignated subsec. (c) as (b). Former subsec. (b), which excepted foreign insurance companies other than life or mutual insurance companies, foreign mutual marine insurance companies, and foreign mutual fire insurance companies not carrying on an insurance business within the United States and provided that they would be taxable as other foreign corporations, was struck out.
 
 Subsecs. (c), (d). Pub. L. 89–809, §104(i)(6)(B), redesignated subsec. (d) as (c) and added item (2). Former subsec. (c) redesignated (b).
 
-<b>1962</b>—Pub. L. 87–834, §8(g)(4)(B), substituted “and certain mutual fire or flood insurance companies” for “and mutual fire insurance companies issuing perpetual policies” in section catchline.
+<b>1962</b>—Pub. L. 87–834, §8(g)(4)(B), substituted "and certain mutual fire or flood insurance companies" for "and mutual fire insurance companies issuing perpetual policies" in section catchline.
 
 Subsec. (a). Pub. L. 87–834, §8(e)(1), included flood insurance companies, and substituted provisions authorizing imposition of the tax on those companies whose principal business is the issuance of policies for which the premium deposits are the same, regardless of the length of the term for which the policies are written, if the unabsorbed portion of such premium deposits not required for losses, expenses, or establishment of reserves is returned or credited to the policyholder on cancellation or expiration of the policy for provisions which authorized imposition of tax on those companies which issued policies for which the sole premium charged is a single deposit which (except for such deduction of underwriting costs as may be provided) is refundable on cancellation or expiration of the policy.
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title X, §1024(e), Oct. 22, 1986, 100 Stat. 2409, provided that: “The amendments made by this section \[amending this section and sections 501, 832, 834, 835, 841, 842, 844, 891, 1201, 1504, and 1563 of this title, redesignating former sections 822 and 826 of this title as sections 834 and 835 of this title, respectively, and repealing sections 821, 823, 824, and 825 of this title\] (and the provisions of subsection (d) \[set out below\]) shall apply to taxable years beginning after December 31, 1986.”
+Pub. L. 99–514, title X, §1024(e), Oct. 22, 1986, 100 Stat. 2409, provided that: "The amendments made by this section \[amending this section and sections 501, 832, 834, 835, 841, 842, 844, 891, 1201, 1504, and 1563 of this title, redesignating former sections 822 and 826 of this title as sections 834 and 835 of this title, respectively, and repealing sections 821, 823, 824, and 825 of this title\] (and the provisions of subsection (d) \[set out below\]) shall apply to taxable years beginning after December 31, 1986."
 
 #### Effective Date of 1976 Amendment
 
@@ -112,19 +112,19 @@ Amendment by Pub. L. 87–834 applicable with respect to taxable years beginning
 
 Pub. L. 99–514, title X, §1024(d), Oct. 22, 1986, 100 Stat. 2408, as amended by Pub. L. 100–647, title I, §1010(f)(8), Nov. 10, 1988, 102 Stat. 3454, provided that:
 
-“(1)
+"(1)
 
 Treatment of amounts in protection against loss account.—In the case of any insurance company which had a protection against loss account for its last taxable year beginning before January 1, 1987, there shall be included in the gross income of such company for any taxable year beginning after December 31, 1986, the amount which would have been included in gross income for such taxable year under section 824 of the Internal Revenue Code of 1954 \[now 1986\] (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]). For purposes of the preceding sentence, no addition to such account shall be made for any taxable year beginning after December 31, 1986. In the case of a company taxable under section 831(b) of the Internal Revenue Code of 1986 (as amended by subsection (a)), any amount included in gross income under this paragraph shall be treated as gross investment income.
 
-“(2)
+"(2)
 
 Transitional rule for unused loss carryover under section 825.—Any unused loss carryover under section 825 of the Internal Revenue Code of 1954 (as in effect on the day before the date of the enactment of this Act \[Oct. 22, 1986\]) which—
 
-&emsp;“(A) is from a taxable year beginning before January 1, 1987, and
+&emsp;"(A) is from a taxable year beginning before January 1, 1987, and
 
-&emsp;“(B) could have been carried under such section to a taxable year beginning after December 31, 1986, but for the repeal made by subsection (a)(1) \[repealing sections 821 and 823 to 825 of this title\],
+&emsp;"(B) could have been carried under such section to a taxable year beginning after December 31, 1986, but for the repeal made by subsection (a)(1) \[repealing sections 821 and 823 to 825 of this title\],
 
-> shall be included in the net operating loss deduction under section 832(c)(10) of such Code without regard to the limitations of section 844(b) of such Code.”
+> shall be included in the net operating loss deduction under section 832(c)(10) of such Code without regard to the limitations of section 844(b) of such Code."
 
 <i><sup>1</sup></i><i> So in original. Second closing parenthesis probably should not appear.</i>
 

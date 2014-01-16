@@ -32,7 +32,7 @@ Loan Limits.—The maximum amount of loan principal guaranteed during a fiscal y
 
 (d)
 
-Goals and Standards.—The Secretary shall prescribe regulations setting forth goals for the use of the loan guarantees provided under this section and standards for evaluating whether those goals are met by each entity receiving such loan guarantees.
+Goals and Standards.—The Secretary shall prescribe regulations setting forth goalsfor the use of the loan guarantees provided under this section and standards for evaluating whether those goals are met by each entity receiving such loan guarantees.
 
 (e)
 

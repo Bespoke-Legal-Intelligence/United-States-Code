@@ -42,7 +42,7 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, §1614(a), (d), 110 Stat. 517, 518.
 
 &nbsp;
 
-In subsection (a), the words “repair parts, and other supplies” are substituted for “targets, and other supplies and appliances” for consistency in the revised title.
+In subsection (a), the words "repair parts, and other supplies" are substituted for "targets, and other supplies and appliances" for consistency in the revised title.
 
-In subsection (b) the words “shall ensure” are substituted for “shall be responsible for ensuring” to eliminate unnecessary words.
+In subsection (b) the words "shall ensure" are substituted for "shall be responsible for ensuring" to eliminate unnecessary words.
 

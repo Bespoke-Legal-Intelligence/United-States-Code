@@ -30,11 +30,11 @@ For purposes of this section—
 
 #### (1) Missing participant
 
-&emsp;The term “missing participant” means a participant or beneficiary under a terminating plan whom the plan administrator cannot locate after a diligent search.
+&emsp;The term "missing participant" means a participant or beneficiary under a terminating plan whom the plan administrator cannot locate after a diligent search.
 
 #### (2) Designated benefit
 
-&emsp;The term “designated benefit” means the single sum benefit the participant would receive—
+&emsp;The term "designated benefit" means the single sum benefit the participant would receive—
 
 &emsp;&emsp;(A) under the plan's assumptions, in the case of a distribution that can be made without participant or spousal consent under section 1055(g) of this title;
 
@@ -98,7 +98,7 @@ The corporation shall prescribe such regulations as are necessary to carry out t
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d)(4)(A)(ii), (iii). Pub. L. 110–458 added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: “which is not a plan described in paragraphs (2) through (11) of section 1321(b) of this title, and”.
+<b>2008</b>—Subsec. (d)(4)(A)(ii), (iii). Pub. L. 110–458 added cls. (ii) and (iii) and struck out former cl. (ii) which read as follows: "which is not a plan described in paragraphs (2) through (11) of section 1321(b) of this title, and".
 
 <b>2006</b>—Subsecs. (c) to (e). Pub. L. 109–280 added subsecs. (c) and (d) and redesignated former subsec. (c) as (e).
 

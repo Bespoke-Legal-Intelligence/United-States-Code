@@ -14,5 +14,5 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 <b>1984</b>—Pub. L. 98–557 substituted reference to members for reference to officers and enlisted men.
 
-<b>1981</b>—Pub. L. 97–31 substituted “Maritime Administrator” for “United States Maritime Commission”.
+<b>1981</b>—Pub. L. 97–31 substituted "Maritime Administrator" for "United States Maritime Commission".
 

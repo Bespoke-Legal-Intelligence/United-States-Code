@@ -32,7 +32,7 @@ Report to Congress.—Not later than 2 years after the date of enactment of this
 
 (e)
 
-Definitions.—In this section, the terms “part 135” and “part 135 certificate holder” have the meanings given such terms in section 44730.
+Definitions.—In this section, the terms "part 135" and "part 135 certificate holder" have the meanings given such terms in section 44730.
 
 (Added Pub. L. 112–95, title III, §306(a), Feb. 14, 2012, 126 Stat. 60.)
 

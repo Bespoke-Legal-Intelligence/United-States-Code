@@ -10,15 +10,15 @@ Effectiveness of Adjustment.—An adjustment under this section shall have the f
 
 (c)
 
-Equal Percentage Increase for All Members.—(1) An adjustment made under this section in a year shall provide all eligible members with an increase in the monthly basic pay that is the percentage (rounded to the nearest one-tenth of one percent) by which the ECI for the base quarter of the year before the preceding year exceeds the ECI for the base quarter of the second year before the preceding calendar year (if at all).
+Equal Percentage Increase for All Members.—(1) An adjustment made under this section in a year shall provide all eligible members with an increase in the monthly basic pay that is the percentage (rounded to the nearest one-tenth of one percent) by which the ECI for the base quarter of the year before the preceding year exceeds the ECI for the base quarter of thesecond year before the preceding calendar year (if at all).
 
 (2) Notwithstanding paragraph (1), but subject to subsection (d), the percentage of the adjustment taking effect under this section during each of fiscal years 2004, 2005, and 2006, shall be one-half of one percentage point higher than the percentage that would otherwise be applicable under such paragraph.
 
 (3) In this subsection:
 
-&emsp;(A) The term “ECI” means the Employment Cost Index (wages and salaries, private industry workers) published quarterly by the Bureau of Labor Statistics.
+&emsp;(A) The term "ECI" means the Employment Cost Index (wages and salaries, private industry workers) published quarterly by the Bureau of Labor Statistics.
 
-&emsp;(B) The term “base quarter” for any year is the three-month period ending on September 30 of such year.
+&emsp;(B) The term "base quarter" for any year is the three-month period ending on September 30 of such year.
 
 (d)
 
@@ -46,23 +46,23 @@ Presidential Determination of Need for Alternative Pay Adjustment.—(1) If, bec
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–136, §602(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Whenever the General Schedule of compensation for Federal classified employees, as contained in section 5332 of title 5, is adjusted upward as provided in section 5303 of such title, the President shall immediately make an upward adjustment in the monthly basic pay authorized members of the uniformed services by section 203(a) of this title.”
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §602(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "Whenever the General Schedule of compensation for Federal classified employees, as contained in section 5332 of title 5, is adjusted upward as provided in section 5303 of such title, the President shall immediately make an upward adjustment in the monthly basic pay authorized members of the uniformed services by section 203(a) of this title."
 
-Subsec. (b). Pub. L. 108–136, §602(b), substituted “shall have the force and effect of law.” for “shall—
+Subsec. (b). Pub. L. 108–136, §602(b), substituted "shall have the force and effect of law." for "shall—
 
-&emsp;“(1) have the force and effect of law; and
+&emsp;"(1) have the force and effect of law; and
 
-&emsp;“(2) carry the same effective date as that applying to the compensation adjustments provided General Schedule employees.”
+&emsp;"(2) carry the same effective date as that applying to the compensation adjustments provided General Schedule employees."
 
 Subsec. (c). Pub. L. 108–136, §602(c)(1), (3), added subsec. (c) and struck out former subsec. (c) which related to equal percentage increase for all members.
 
 Subsec. (d). Pub. L. 108–136, §602(c)(1), (2), redesignated subsec. (f) as (d) and struck out former subsec. (d) which related to allocation of increase among pay grades and years-of-service.
 
-Subsec. (e). Pub. L. 108–136, §602(c)(1), (4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “Whenever the President plans to exercise the authority of the President under subsection (d) with respect to any anticipated increase in the monthly basic pay of members of the uniformed services, the President shall advise Congress, at the earliest practicable time prior to the effective date of such increase, regarding the proposed allocation of such increase.”
+Subsec. (e). Pub. L. 108–136, §602(c)(1), (4), added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: "Whenever the President plans to exercise the authority of the President under subsection (d) with respect to any anticipated increase in the monthly basic pay of members of the uniformed services, the President shall advise Congress, at the earliest practicable time prior to the effective date of such increase, regarding the proposed allocation of such increase."
 
 Subsec. (f). Pub. L. 108–136, §602(c)(2), redesignated subsec. (f) as (d).
 
-Subsec. (g). Pub. L. 108–136, §602(c)(1), struck out heading and text of subsec. (g). Text read as follows: “The allocations of increases made under this section shall be assessed in conjunction with the quadrennial review of military compensation required by section 1008(b) of this title.”
+Subsec. (g). Pub. L. 108–136, §602(c)(1), struck out heading and text of subsec. (g). Text read as follows: "The allocations of increases made under this section shall be assessed in conjunction with the quadrennial review of military compensation required by section 1008(b) of this title."
 
 <b>1999</b>—Subsec. (c). Pub. L. 106–65 designated existing provisions as par. (1) and added par. (2).
 
@@ -70,35 +70,35 @@ Subsec. (g). Pub. L. 108–136, §602(c)(1), struck out heading and text of subs
 
 Subsecs. (f), (g). Pub. L. 105–85, §605, added subsec. (f) and redesignated former subsec. (f) as (g).
 
-<b>1996</b>—Subsec. (f). Pub. L. 104–106 struck out “, and a full report shall be made to the Congress summarizing the objectives and results of those allocations” after “of this title”.
+<b>1996</b>—Subsec. (f). Pub. L. 104–106 struck out ", and a full report shall be made to the Congress summarizing the objectives and results of those allocations" after "of this title".
 
-<b>1991</b>—Subsecs. (b)(3), (c) to (e). Pub. L. 102–25 struck out “of this section” and “of this subsection” wherever appearing.
+<b>1991</b>—Subsecs. (b)(3), (c) to (e). Pub. L. 102–25 struck out "of this section" and "of this subsection" wherever appearing.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513, §516(24)(A), struck out “, United States Code,” after “5”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513, §516(24)(A), struck out ", United States Code," after "5".
 
 Subsec. (b)(2). Pub. L. 96–513, §516(24)(B), struck out reference to section 8 of the Act of Dec. 16, 1967 (Pub. L. 90–207).
 
-Subsec. (b)(3). Pub. L. 96–513, §803(1), substituted “subsections (c) and (d) of this section” for “subsection (c)”.
+Subsec. (b)(3). Pub. L. 96–513, §803(1), substituted "subsections (c) and (d) of this section" for "subsection (c)".
 
-Subsec. (c). Pub. L. 96–342, §803(2), (3), redesignated existing provision as par. (1), inserted “of this section” after “subsection (b)(3)” in two places and after “subsection (a)”, substituted “75 percent” for “75 per centum”, redesignated subsec. (d) as par. (2), substituted “under paragraph (1) of this subsection” for “under subsection (c)” in two places, inserted “of this section” after “subsection (a)”, “subsection (c)”, and “subsection (b)(3)”, respectively, and “of this title” after “section 403(b) or (c)” in two places.
+Subsec. (c). Pub. L. 96–342, §803(2), (3), redesignated existing provision as par. (1), inserted "of this section" after "subsection (b)(3)" in two places and after "subsection (a)", substituted "75 percent" for "75 per centum", redesignated subsec. (d) as par. (2), substituted "under paragraph (1) of this subsection" for "under subsection (c)" in two places, inserted "of this section" after "subsection (a)", "subsection (c)", and "subsection (b)(3)", respectively, and "of this title" after "section 403(b) or (c)" in two places.
 
 Subsec. (d). Pub. L. 96–342, §803(3), (4), added subsec. (d) and redesignated former subsec. (d) as (c)(2).
 
-Subsec. (e). Pub. L. 96–342, §803(5), inserted “or (d) of this section” after “subsection (c)” and struck out “among the different elements of compensation” after “allocation of such increase”.
+Subsec. (e). Pub. L. 96–342, §803(5), inserted "or (d) of this section" after "subsection (c)" and struck out "among the different elements of compensation" after "allocation of such increase".
 
-Subsec. (f). Pub. L. 96–342, §803(6), struck out “among the three elements of compensation” after “under this section” and inserted “of this title” after “section 1008(b)”.
+Subsec. (f). Pub. L. 96–342, §803(6), struck out "among the three elements of compensation" after "under this section" and inserted "of this title" after "section 1008(b)".
 
-<b>1976</b>—Subsec. (b)(3). Pub. L. 94–361, §303(a), inserted introductory phrase “subject to subsection (c),”.
+<b>1976</b>—Subsec. (b)(3). Pub. L. 94–361, §303(a), inserted introductory phrase "subject to subsection (c),".
 
 Subsecs. (c) to (f). Pub. L. 94–361, §303(b), added subsecs. (c) to (f).
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–65, div. A, title VI, §602(b), Oct. 5, 1999, 113 Stat. 649, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2000.”
+Pub. L. 106–65, div. A, title VI, §602(b), Oct. 5, 1999, 113 Stat. 649, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on October 1, 2000."
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title VI, §604(b), Nov. 18, 1997, 111 Stat. 1784, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 1998.”
+Pub. L. 105–85, div. A, title VI, §604(b), Nov. 18, 1997, 111 Stat. 1784, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect on January 1, 1998."
 
 #### Effective Date of 1980 Amendment
 
@@ -106,21 +106,21 @@ Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of 
 
 #### Effective Date
 
-Pub. L. 93–419, §9, Sept. 19, 1974, 88 Stat. 1153, provided that: “This Act \[enacting this section, amending sections 101, 203, 402, and 403 of this title, and enacting provisions set out as notes under this section\] is effective upon enactment \[Sept. 19, 1974\].”
+Pub. L. 93–419, §9, Sept. 19, 1974, 88 Stat. 1153, provided that: "This Act \[enacting this section, amending sections 101, 203, 402, and 403 of this title, and enacting provisions set out as notes under this section\] is effective upon enactment \[Sept. 19, 1974\]."
 
 #### Increase in Basic Pay for Fiscal Year 2013
 
 Pub. L. 112–239, div. A, title VI, §601, Jan. 2, 2013, 126 Stat. 1773, provided that:
 
-“(a)
+"(a)
 
 Waiver of Section 1009
 
 Adjustment.—The adjustment to become effective during fiscal year 2013 required by section 1009 of title 37, United States Code, in the rates of monthly basic pay authorized members of the uniformed services shall not be made.
 
-“(b)
+"(b)
 
-Increase in Basic Pay.—Effective on January 1, 2013, the rates of monthly basic pay for members of the uniformed services are increased by 1.7 percent.”
+Increase in Basic Pay.—Effective on January 1, 2013, the rates of monthly basic pay for members of the uniformed services are increased by 1.7 percent."
 
 Provisions relating to adjustment of compensation for members of the uniformed services for prior fiscal years were contained in the following acts:
 

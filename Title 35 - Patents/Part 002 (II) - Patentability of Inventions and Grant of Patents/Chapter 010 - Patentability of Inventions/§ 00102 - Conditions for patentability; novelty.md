@@ -52,13 +52,13 @@ Patents and Published Applications Effective as Prior Art.—For purposes of det
 
 #### Amendment of Subsection (d)(2)
 
-<i>Pub. L. 112–211, title I, §§102(2), 103, Dec. 18, 2012, 126 Stat. 1531, 1532, provided that, effective on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, with certain exceptions, subsection (d)(2) of this section is amended by substituting “to claim a right of priority under section 119, 365(a), 365(b), 386(a), or 386(b), or to claim the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c)” for “to claim a right of priority under section 119, 365(a), or 365(b), or to claim the benefit of an earlier filing date under section 120, 121, or 365(c)”. See 2012 Amendment note below.</i>
+<i>Pub. L. 112–211, title I, §§102(2), 103, Dec. 18, 2012, 126 Stat. 1531, 1532, provided that, effec</i><i>tive on the later of the date that is 1 year after Dec. 18, 2012, or the date that the Geneva Act of the Hague Agreement Concerning the International Registration of Industrial Designs enters into force with respect to the United States, and applicable only to certain applications filed on and after that effective date and patents issuing thereon, with certain exceptions, subsection (d)(2) of this section is amended by substituting "to claim a right of priority under section 119, 365(a), 365(b), 386(a), or 386(b), or to claim the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c)" for "to claim a right of priority under section 119, 365(a), or 365(b), or to claim the benefit of an earlier filing date under section 120, 121, or 365(c)". See 2012 Amendment note below.</i>
 
 #### Historical and Revision Notes
 
 Paragraphs (a), (b), and (c) are based on Title 35, U.S.C., 1946 ed., §31 (R.S. 4886, amended (1) Mar. 3, 1897, ch. 391, §1, 29 Stat. 692, (2) May 23, 1930, ch. 312, §1, 46 Stat. 376, (3) Aug. 5, 1939, ch. 450, §1, 53 Stat. 1212).
 
-No change is made in these paragraphs other than that due to division into lettered paragraphs. The interpretation by the courts of paragraph (a) as being more restricted than the actual language would suggest (for example, “known” has been held to mean “publicly known”) is recognized but no change in the language is made at this time. Paragraph (a) together with section 104 contains the substance of Title 35, U.S.C., 1946 ed., §72 (R.S. 4923).
+No change is made in these paragraphs other than that due to division into lettered paragraphs. The interpretation by the courts of paragraph (a) as being more restricted than the actual language would suggest (for example, "known" has been held to mean "publicly known") is recognized but no change in the language is made at this time. Paragraph (a) together with section 104 contains the substance of Title 35, U.S.C., 1946 ed., §72 (R.S. 4923).
 
 Paragraph (d) is based on Title 35, U.S.C., 1946 ed., §32, first paragraph (R.S. 4887 (first paragraph), amended (1) Mar. 3, 1897, ch. 391, §3, 29 Stat. 692, 693, (2) Mar. 3, 1903, ch. 1019, §1, 32 Stat. 1225, 1226, (3) June 19, 1936, ch. 594, 49 Stat. 1529).
 
@@ -74,23 +74,23 @@ Language relating specifically to designs is omitted for inclusion in subsequent
 
 #### Amendments
 
-<b>2012</b>—Subsec. (d)(2). Pub. L. 112–211 substituted “to claim a right of priority under section 119, 365(a), 365(b), 386(a), or 386(b), or to claim the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c)” for “to claim a right of priority under section 119, 365(a), or 365(b), or to claim the benefit of an earlier filing date under section 120, 121, or 365(c)”.
+<b>2012</b>—Subsec. (d)(2). Pub. L. 112–211 substituted "to claim a right of priority under section 119, 365(a), 365(b), 386(a), or 386(b), or to claim the benefit of an earlier filing date under section 120, 121, 365(c), or 386(c)" for "to claim a right of priority under section 119, 365(a), or 365(b), or to claim the benefit of an earlier filing date under section 120, 121, or 365(c)".
 
 <b>2011</b>—Pub. L. 112–29 amended section generally. Prior to amendment, section related to conditions for patentability; novelty and loss of right to patent.
 
-<b>2002</b>—Subsec. (e). Pub. L. 107–273, amended Pub. L. 106–113, §1000(a)(9) \[title IV, §4505\]. See 1999 Amendment note below. Prior to being amended by Pub. L. 107–273, Pub. L. 106–113, §1000(a)(9) \[title IV, §4505\], had amended subsec. (e) to read as follows: “The invention was described in—
+<b>2002</b>—Subsec. (e). Pub. L. 107–273, amended Pub. L. 106–113, §1000(a)(9) \[title IV, §4505\]. See 1999 Amendment note below. Prior to being amended by Pub. L. 107–273, Pub. L. 106–113, §1000(a)(9) \[title IV, §4505\], had amended subsec. (e) to read as follows: "The invention was described in—
 
-&emsp;“(1) an application for patent, published under section 122(b), by another filed in the United States before the invention by the applicant for patent, except that an international application filed under the treaty defined in section 351(a) shall have the effect under this subsection of a national application published under section 122(b) only if the international application designating the United States was published under Article 21(2)(a) of such treaty in the English language; or
+&emsp;"(1) an application for patent, published under section 122(b), by another filed in the United States before the invention by the applicant for patent, except that an international application filed under the treaty defined in section 351(a) shall have the effect under this subsection of a national application published under section 122(b) only if the international application designating the United States was published under Article 21(2)(a) of such treaty in the English language; or
 
-&emsp;“(2) a patent granted on an application for patent by another filed in the United States before the invention by the applicant for patent, except that a patent shall not be deemed filed in the United States for the purposes of this subsection based on the filing of an international application filed under the treaty defined in section 351(a); or”.
+&emsp;"(2) a patent granted on an application for patent by another filed in the United States before the invention by the applicant for patent, except that a patent shall not be deemed filed in the United States for the purposes of this subsection based on the filing of an international application filed under the treaty defined in section 351(a); or".
 
-<b>1999</b>—Subsec. (e). Pub. L. 106–113, §1000(a)(9) \[title IV, §4505\], as amended by Pub. L. 107–273, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “the invention was described in a patent granted on an application for patent by another filed in the United States before the invention thereof by the applicant for patent, or on an international application by another who has fulfilled the requirements of paragraphs (1), (2), and (4) of section 371(c) of this title before the invention thereof by the applicant for patent, or”.
+<b>1999</b>—Subsec. (e). Pub. L. 106–113, §1000(a)(9) \[title IV, §4505\], as amended by Pub. L. 107–273, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: "the invention was described in a patent granted on an application for patent by another filed in the United States before the invention thereof by the applicant for patent, or on an international application by another who has fulfilled the requirements of paragraphs (1), (2), and (4) of section 371(c) of this title before the invention thereof by the applicant for patent, or".
 
-Subsec. (g). Pub. L. 106–113, §1000(a)(9) \[title IV, §4806\], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “before the applicant's invention thereof the invention was made in this country by another who had not abandoned, suppressed, or concealed it. In determining priority of invention there shall be considered not only the respective dates of conception and reduction to practice of the invention, but also the reasonable diligence of one who was first to conceive and last to reduce to practice, from a time prior to conception by the other.”
+Subsec. (g). Pub. L. 106–113, §1000(a)(9) \[title IV, §4806\], amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "before the applicant's invention thereof the invention was made in this country by another who had not abandoned, suppressed, or concealed it. In determining priority of invention there shall be considered not only the respective dates of conception and reduction to practice of the invention, but also the reasonable diligence of one who was first to conceive and last to reduce to practice, from a time prior to conception by the other."
 
 <b>1975</b>—Par. (e). Pub. L. 94–131 inserted provision for nonentitlement to a patent where the invention was described in a patent granted on an international application by another who has fulfilled the requirements of pars. (1), (2), and (4) of section 371(c) of this title before the invention thereof by the applicant for patent.
 
-<b>1972</b>—Subsec. (d). Pub. L. 92–358 inserted reference to inventions that were the subject of an inventors’ certificate.
+<b>1972</b>—Subsec. (d). Pub. L. 92–358 inserted reference to inventions that were the subject of an inventors' certificate.
 
 #### Effective Date of 2012 Amendment
 
@@ -110,7 +110,7 @@ Amendment by Pub. L. 94–131 effective Jan. 24, 1978, and applicable on and aft
 
 #### Effective Date of 1972 Amendment
 
-Pub. L. 92–358, §3(b), July 28, 1972, 86 Stat. 502, provided that: “Section 2 of this Act \[amending this section\] shall take effect six months from the date when Articles 1 to 12 of the Paris Convention of March 20, 1883, for the Protection of Industrial Property, as revised at Stockholm, July 14, 1967, come into force with respect to the United States \[Aug. 25, 1973\] and shall apply to applications thereafter filed in the United States.”
+Pub. L. 92–358, §3(b), July 28, 1972, 86 Stat. 502, provided that: "Section 2 of this Act \[amending this section\] shall take effect six months from the date when Articles 1 to 12 of the Paris Convention of March 20, 1883, for the Protection of Industrial Property, as revised at Stockholm, July 14, 1967, come into force with respect to the United States \[Aug. 25, 1973\] and shall apply to applications thereafter filed in the United States."
 
 #### Savings Provisions
 
@@ -118,35 +118,35 @@ Provisions of former subsec. (g) of this section, as in effect on the day before
 
 #### Continuity of Intent Under the CREATE Act
 
-Pub. L. 112–29, §3(b)(2), Sept. 16, 2011, 125 Stat. 287, provided that: “The enactment of section 102(c) of title 35, United States Code, under paragraph (1) of this subsection is done with the same intent to promote joint research activities that was expressed, including in the legislative history, through the enactment of the Cooperative Research and Technology Enhancement Act of 2004 (Public Law 108–453; the ‘CREATE Act’) \[see Short Title of 2004 Amendment note set out under section 1 of this title\], the amendments of which are stricken by subsection (c) of this section \[amending section 103 of this title\]. The United States Patent and Trademark Office shall administer section 102(c) of title 35, United States Code, in a manner consistent with the legislative history of the CREATE Act that was relevant to its administration by the United States Patent and Trademark Office.”
+Pub. L. 112–29, §3(b)(2), Sept. 16, 2011, 125 Stat. 287, provided that: "The enactment of section 102(c) of title 35, United States Code, under paragraph (1) of this subsection is done with the same intent to promote joint research activities that was expressed, including in the legislative history, through the enactment of the Cooperative Research and Technology Enhancement Act of 2004 (Public Law 108–453; the 'CREATE Act') \[see Short Title of 2004 Amendment note set out under section 1 of this title\], the amendments of which are stricken by subsection (c) of this section \[amending section 103 of this title\]. The United States Patent and Trademark Office shall administer section 102(c) of title 35, United States Code, in a manner consistent with the legislative history of the CREATE Act that was relevant to its administration by the United States Patent and Trademark Office."
 
 #### Tax Strategies Deemed Within the Prior Art
 
 Pub. L. 112–29, §14, Sept. 16, 2011, 125 Stat. 327, provided that:
 
-“(a)
+"(a)
 
 In General.—For purposes of evaluating an invention under section 102 or 103 of title 35, United States Code, any strategy for reducing, avoiding, or deferring tax liability, whether known or unknown at the time of the invention or application for patent, shall be deemed insufficient to differentiate a claimed invention from the prior art.
 
-“(b)
+"(b)
 
-Definition.—For purposes of this section, the term ‘tax liability’ refers to any liability for a tax under any Federal, State, or local law, or the law of any foreign jurisdiction, including any statute, rule, regulation, or ordinance that levies, imposes, or assesses such tax liability.
+Definition.—For purposes of this section, the term 'tax liability' refers to any liability for a tax under any Federal, State, or local law, or the law of any foreign jurisdiction, including any statute, rule, regulation, or ordinance that levies, imposes, or assesses such tax liability.
 
-“(c)
+"(c)
 
 Exclusions.—This section does not apply to that part of an invention that—
 
-&emsp;“(1) is a method, apparatus, technology, computer program product, or system, that is used solely for preparing a tax or information return or other tax filing, including one that records, transmits, transfers, or organizes data related to such filing; or
+&emsp;"(1) is a method, apparatus, technology, computer program product, or system, that is used solely for preparing a tax or information return or other tax filing, including one that records, transmits, transfers, or organizes data related to such filing; or
 
-&emsp;“(2) is a method, apparatus, technology, computer program product, or system used solely for financial management, to the extent that it is severable from any tax strategy or does not limit the use of any tax strategy by any taxpayer or tax advisor.
+&emsp;"(2) is a method, apparatus, technology, computer program product, or system used solely for financial management, to the extent that it is severable from any tax strategy or does not limit the use of any tax strategy by any taxpayer or tax advisor.
 
-“(d)
+"(d)
 
 Rule of Construction.—Nothing in this section shall be construed to imply that other business methods are patentable or that other business method patents are valid.
 
-“(e)
+"(e)
 
-Effective Date; Applicability.—This section shall take effect on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent application that is pending on, or filed on or after, that date, and to any patent that is issued on or after that date.”
+Effective Date; Applicability.—This section shall take effect on the date of the enactment of this Act \[Sept. 16, 2011\] and shall apply to any patent application that is pending on, or filed on or after, that date, and to any patent that is issued on or after that date."
 
 #### Emergency Relief From Postal Situation Affecting Patent Cases
 

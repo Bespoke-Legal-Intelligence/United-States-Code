@@ -6,7 +6,7 @@ Not later than December 31 of each year, the Secretary of State shall publish an
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277, §1223(16), substituted “Secretary of State” for “Director” in first sentence.
+<b>1998</b>—Pub. L. 105–277, §1223(16), substituted "Secretary of State" for "Director" in first sentence.
 
 #### Effective Date of 1998 Amendment
 

@@ -20,5 +20,5 @@ Another prior section 5123, act Aug. 16, 1954, ch. 736, 68A Stat. 621, related t
 
 <b>2005</b>—Pub. L. 109–59 renumbered section 5146 of this title as this section and transferred section to this subpart so as to appear after section 5122.
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 

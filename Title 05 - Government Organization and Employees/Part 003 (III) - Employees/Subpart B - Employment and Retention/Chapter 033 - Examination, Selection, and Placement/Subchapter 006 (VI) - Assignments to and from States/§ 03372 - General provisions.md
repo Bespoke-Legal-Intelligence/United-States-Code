@@ -30,7 +30,7 @@
 
 &emsp;(2) an assignment of an employee of an other organization or an institution of higher education to a Federal agency, and an employee so assigned, shall be treated in the same way as an assignment of an employee of a State or local government to a Federal agency, and an employee so assigned, is treated under the provisions of this subchapter governing an assignment of an employee of a State or local government to a Federal agency.
 
-(Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1921; amended Pub. L. 93–638, title I, §104(k), (l), as added Pub. L. 100–472, title II, §203(f), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 95–454, title VI, §603(b), (c), Oct. 13, 1978, 92 Stat. 1190; Pub. L. 98–146, title II, Nov. 4, 1983, 97 Stat. 946; Pub. L. 103–89, §3(b)(1)(A), Sept. 30, 1993, 107 Stat. 981; Pub. L. 103–337, div. A, title X, §1068(b), Oct. 5, 1994, 108 Stat. 2852.)
+(Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1921; amended Pub. L. 93–638, title I, §104(k), (l), as added Pub. L. 100–472, title II, §203(f), Oct. 5, 1988, 102 Stat. 2290; Pub. L. 95–454, title VI, §603(b), (c), Oct. 13, 1978, 92 Stat. 1190;Pub. L. 98–146, title II, Nov. 4, 1983, 97 Stat. 946; Pub. L. 103–89, §3(b)(1)(A), Sept. 30, 1993, 107 Stat. 981; Pub. L. 103–337, div. A, title X, §1068(b), Oct. 5, 1994, 108 Stat. 2852.)
 
 #### Amendments
 

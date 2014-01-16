@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) shall provide, as may be necessary, for the benefit of such children in such schools—
 
-&emsp;&emsp;&emsp;(i) secular, neutral, and nonideological services, materials, and equipment, including the participation of the teachers ofsuch children (and other educational personnel serving such children) in training programs; and
+&emsp;&emsp;&emsp;(i) secular, neutral, and nonideological services, materials, and equipment, including the participation of the teachers of such children (and other educational personnel serving such children) in training programs; and
 
 &emsp;&emsp;&emsp;(ii) the repair, minor remodeling, or construction of public facilities (consistent with subsection (c) of this section); or
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority to lease
 
-Notwithstanding any other provision of law, any trust or restricted Indian lands, whether tribally or individually owned, may be leased by the Indian owners, subject to the approval of the affected Indian tribe and the Secretary of the Interior, for housing development and residential purposes.
+Notwithstanding any other provision of law, any trust or restricted Indian lands, whethertribally or individually owned, may be leased by the Indian owners, subject to the approval of the affected Indian tribe and the Secretary of the Interior, for housing development and residential purposes.
 
 #### (b) Term
 
@@ -28,5 +28,5 @@ Section 705, referred to in subsec. (d), is section 705 of Pub. L. 104–330, wh
 
 #### Effective Date
 
-Pub. L. 104–330, title VII, §705, Oct. 26, 1996, 110 Stat. 4052, provided that: “This title \[enacting this subchapter and amending sections 1715z–13a and 1721 of Title 12, Banks and Banking, and sections 11902 to 11905 of Title 42, The Public Health and Welfare\] and the amendments made by this title (but not including theamendments made by section 704 \[amending sections 11902 to 11905 of Title 42\]) shall take effect on the date of the enactment of this Act \[Oct. 26, 1996\].”
+Pub. L. 104–330, title VII, §705, Oct. 26, 1996, 110 Stat. 4052, provided that: "This title \[enacting this subchapter and amending sections 1715z–13a and 1721 of Title 12, Banks and Banking, and sections 11902 to 11905 of Title 42, The Public Health and Welfare\] and the amendments made by this title (but not including the amendments made by section 704 \[amending sections 11902 to 11905 of Title 42\]) shall take effect on the date of the enactment of this Act \[Oct. 26, 1996\]."
 

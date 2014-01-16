@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Assisted living service
 
-&emsp;The term “assisted living service” means any service provided by an assisted living facility (as defined in section 1715w(b) of title 12), except that such an assisted living facility—
+&emsp;The term "assisted living service" means any service provided by an assisted living facility (as defined in section 1715w(b) of title 12), except that such an assisted living facility—
 
 &emsp;&emsp;(A) shall not be required to obtain a license; but
 
@@ -14,11 +14,11 @@ In this section:
 
 #### (2) Home- and community-based service
 
-&emsp;The term “home- and community-based service” means 1 or more of the services specified in paragraphs (1) through (9) of section 1396t(a) of title 42 (whether provided by the Service or by an Indian tribe or tribal organization pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)) that are or will be provided in accordance with applicable standards.
+&emsp;The term "home- and community-based service" means 1 or more of the services specified in paragraphs (1) through (9) of section 1396t(a) of title 42 (whether provided by the Service or by an Indian tribe or tribal organization pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.)) that are or will be provided in accordance with applicable standards.
 
 #### (3) Hospice care
 
-&emsp;The term “hospice care” means—
+&emsp;The term "hospice care" means—
 
 &emsp;&emsp;(A) the items and services specified in subparagraphs (A) through (H) of section 1395x(dd)(1) of title 42; and
 
@@ -26,7 +26,7 @@ In this section:
 
 #### (4) Long-term care services
 
-&emsp;The term “long-term care services” has the meaning given the term “qualified long-term care services” in section 7702B(c) of title 26.
+&emsp;The term "long-term care services" has the meaning given the term "qualified long-term care services" in section 7702B(c) of title 26.
 
 #### (b) Funding authorized
 
@@ -60,7 +60,7 @@ The Secretary, acting through the Service, Indian tribes, and tribal organizatio
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (a)(2), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
-This chapter, referred to in subsecs. (b) and (d), was in the original “this Act”, meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
+This chapter, referred to in subsecs. (b) and (d), was in the original "this Act", meaning Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, known as the Indian Health Care Improvement Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
 #### Codification
 
@@ -68,7 +68,7 @@ Amendment by Pub. L. 111–148 is based on section 124(a)(1) of title I of S. 17
 
 #### Prior Provisions
 
-A prior section 1621d, Pub. L. 94–437, title II, §205, as added Pub. L. 100–713, title II, §203(c), Nov. 23, 1988, 102 Stat. 4807, related to Native Hawaiian health promotion and disease prevention, prior to repeal by Pub.L. 100–579, §14, formerly §10, Oct. 31, 1988, 102 Stat. 2923; Pub. L. 100–690, title II, §2310, Nov. 18, 1988, 102 Stat. 4229; renumbered §14, Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948. See section 11701 et seq. of Title 42, The Public Health and Welfare.
+A prior section 1621d, Pub. L. 94–437, title II, §205, as added Pub. L. 100–713, title II, §203(c), Nov. 23, 1988, 102 Stat. 4807, related to Native Hawaiian health promotion and disease prevention, prior to repeal by Pub. L. 100–579, §14, formerly §10, Oct. 31, 1988, 102 Stat. 2923; Pub. L. 100–690, title II, §2310, Nov. 18, 1988, 102 Stat. 4229; renumbered §14, Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948. See section 11701 et seq. of Title 42, The Public Health and Welfare.
 
 #### Amendments
 

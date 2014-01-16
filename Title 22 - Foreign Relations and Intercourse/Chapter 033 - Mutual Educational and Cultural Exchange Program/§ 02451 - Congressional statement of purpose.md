@@ -6,113 +6,113 @@ The purpose of this chapter is to enable the Government of the United States to 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 
-Pub. L. 87–256, §1, Sept. 21, 1961, 75 Stat. 527, provided: “That this Act \[enacting this chapter, amending sections 1101, 1182 and 1258 of Title 8, Aliens and Nationality, sections 117, 871, 872, 1441, 3121, 3306, 3401 and 3402 of Title 26, Internal Revenue Code, and section 410 of Title 42, The Public Health and Welfare, repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468 and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and section 1641(b)(2) of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under this section and under sections 117, 1441, 3121 and 3401 of Title 26\] may be cited as the ‘Mutual Educational and Cultural Exchange Act of 1961’.”
+Pub. L. 87–256, §1, Sept. 21, 1961, 75 Stat. 527, provided: "That this Act \[enacting this chapter, amending sections 1101, 1182 and 1258 of Title 8, Aliens and Nationality, sections 117, 871, 872, 1441, 3121, 3306, 3401 and 3402 of Title 26, Internal Revenue Code, and section 410 of Title 42, The Public Health and Welfare, repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468 and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and section 1641(b)(2) of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under this section and under sections 117, 1441, 3121 and 3401 of Title 26\] may be cited as the 'Mutual Educational and Cultural Exchange Act of 1961'."
 
-Pub. L. 87–256 is also popularly known as the “Fulbright-Hays Act”.
+Pub. L. 87–256 is also popularly known as the "Fulbright-Hays Act".
 
 #### Transfer of Functions
 
-Functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof under this chapter transferred to Director of International Communication Agency by Reorg. Plan No. 2 of 1977, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified byPresident, except (A) for such functions as are vested by sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by sections 2454(b), 2455(d)(2), (f), and 2456(d), (f) of this title, to extent that such functions were assigned to Secretary of Health, Education, and Welfare \[now Secretary of Education\] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to extent that any such function therein is vested in President or Secretary of State. International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. References to United States Information Agency or International Communication Agency deemed to refer to Department of State, see section 6551 of this title.
+Functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof under this chapter transferred to Director of International Communication Agency by Reorg. Plan No. 2 of 1977, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, except (A) for such functions as are vested by sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by sections 2454(b), 2455(d)(2), (f), and 2456(d), (f) of this title, to extent that such functions were assigned to Secretary of Health, Education, and Welfare \[now Secretary of Education\] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to extent that any such function therein is vested in President or Secretary of State. International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. References to United States Information Agency or International Communication Agency deemed to refer to Department of State, see section 6551 of this title.
 
 #### Expansion of United States Scholarship and Exchange Programs in the Islamic World
 
 Pub. L. 108–458, title VII, §7112, Dec. 17, 2004, 118 Stat. 3796, provided that:
 
-“(a)
+"(a)
 
 Findings.—Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress makes the following findings:
 
-&emsp;“(1) Exchange, scholarship, and library programs are effective ways for the United States Government to promote internationally the values and ideals of the United States.
+&emsp;"(1) Exchange, scholarship, and library programs are effective ways for the United States Government to promote internationally the values and ideals of the United States.
 
-&emsp;“(2) Exchange, scholarship, and library programs can expose young people from other countries to United States values and offer them knowledge and hope.
+&emsp;"(2) Exchange, scholarship, and library programs can expose young people from other countries to United States values and offer them knowledge and hope.
 
-“(b)
+"(b)
 
 Declaration of Policy.—Consistent with the report of the National Commission on Terrorist Attacks Upon the United States, Congress declares that—
 
-&emsp;“(1) the United States should commit to a long-term and sustainable investment in promoting engagement with people of all levels of society in countries with predominantly Muslim populations, particularly with youth and those who influence youth;
+&emsp;"(1) the United States should commit to a long-term and sustainable investment in promoting engagement with people of all levels of society in countries with predominantly Muslim populations, particularly with youth and those who influence youth;
 
-&emsp;“(2) such an investment should make use of the talents and resources in the private sector and should include programs to increase the number of people who can be exposed to the United States and its fundamental ideas and values in order to dispel misconceptions; and
+&emsp;"(2) such an investment should make use of the talents and resources in the private sector and should include programs to increase the number of people who can be exposed to the United States and its fundamental ideas and values in order to dispel misconceptions; and
 
-&emsp;“(3) such programs should include youth exchange programs, young ambassadors programs, international visitor programs, academic and cultural exchange programs, American Corner programs, library programs, journalist exchange programs, sister city programs, and other programs related to people-to-people diplomacy.
+&emsp;"(3) such programs should include youth exchange programs, young ambassadors programs, international visitor programs, academic and cultural exchange programs, American Corner programs, library programs, journalist exchange programs, sister city programs, and other programs related to people-to-people diplomacy.
 
-“(c)
+"(c)
 
 Sense of Congress.—It is the sense of Congress that the United States should significantly increase its investment in the people-to-people programs described in subsection (b).
 
-“(d)
+"(d)
 
 Authority To Expand Educational and Cultural Exchanges.—The President is authorized to substantially expand the exchange, scholarship, and library programs of the United States, especially such programs that benefit people in the Muslim world.
 
-“(e)
+"(e)
 
-Availability of Funds.—Of the amounts authorized to be appropriated in each of the fiscal years 2005 and 2006 for educational and cultural exchange programs, there shall be available to the Secretary of State such sums as may be necessary to carry out programs under this section, unless otherwise authorized by Congress.”
+Availability of Funds.—Of the amounts authorized to be appropriated in each of the fiscal years 2005 and 2006 for educational and cultural exchange programs, there shall be available to the Secretary of State such sums as may be necessary to carry out programs under this section, unless otherwise authorized by Congress."
 
 #### Advisory Committee on Cultural Diplomacy
 
 Pub. L. 107–228, div. A, title II, §224, Sept. 30, 2002, 116 Stat. 1368, provided that:
 
-“(a)
+"(a)
 
-Establishment.—There is established an Advisory Committee on Cultural Diplomacy (in this section referred to as the ‘Advisory Committee’), which shall be composed of nine members, as follows:
+Establishment.—There is established an Advisory Committee on Cultural Diplomacy (in this section referred to as the 'Advisory Committee'), which shall be composed of nine members, as follows:
 
-&emsp;“(1) The Under Secretary of State for Public Diplomacy, who shall serve as Chair.
+&emsp;"(1) The Under Secretary of State for Public Diplomacy, who shall serve as Chair.
 
-&emsp;“(2) The Assistant Secretary of State for Educational and Cultural Affairs.
+&emsp;"(2) The Assistant Secretary of State for Educational and Cultural Affairs.
 
-&emsp;“(3) Seven members appointed pursuant to subsection (c).
+&emsp;"(3) Seven members appointed pursuant to subsection (c).
 
-“(b)
+"(b)
 
 Duties.—The Advisory Committee shall advise the Secretary on programs and policies to advance the use of cultural diplomacy in United States foreign policy. The Advisory Committee shall, in particular, provide advice to the Secretary on—
 
-&emsp;“(1) increasing the presentation abroad of the finest of the creative, visual, and performing arts of the United States; and
+&emsp;"(1) increasing the presentation abroad of the finest of the creative, visual, and performing arts of the United States; and
 
-&emsp;“(2) strategies for increasing public-private partnerships to sponsor cultural exchange programs that promote the national interests of the United States.
+&emsp;"(2) strategies for increasing public-private partnerships to sponsor cultural exchange programs that promote the national interests of the United States.
 
-“(c)
+"(c)
 
 Appointments.—The members of the Advisory Committee shall be appointed by the Secretary, not more than four of whom shall be from the same political party, from among distinguished Americans with a demonstrated record of achievement in the creative, visual, and performing arts, or international affairs. No officer or employee of the United States shall be appointed to the Advisory Committee.
 
-“(d)
+"(d)
 
 Vacancies.—A vacancy in the membership of the Advisory Committee shall be filled in the same manner as provided under this subsection to make the original appointment.
 
-“(e)
+"(e)
 
 Meetings.—A majority of the members of the Advisory Committee shall constitute a quorum. The Advisory Committee shall meet at least twice each year or as frequently as may be necessary to carry out its duties.
 
-“(f)
+"(f)
 
 Administrative Support.—The Secretary is authorized to provide the Advisory Committee with necessary administrative support from among the staff of the Bureau of Educational and Cultural Affairs of the Department.
 
-“(g)
+"(g)
 
 Compensation.—Members of the Advisory Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services of the Advisory Committee.
 
-“(h)
+"(h)
 
 Exemption From Federal Advisory Committee Act.—The Federal Advisory Committee Act \[5 U.S.C. App.\] shall not apply to the Advisory Committee to the extent that the provisions of this section are inconsistent with that Act.
 
-“(i)
+"(i)
 
 Authorization of Appropriations.—There are authorized to be appropriated to the Department such sums as may be necessary to carry out this section.
 
-“(j)
+"(j)
 
-Termination.—The Advisory Committee shall terminate September 30, 2005.”
+Termination.—The Advisory Committee shall terminate September 30, 2005."
 
-\[For definitions of “Secretary” and “Department” as used in section 224 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+\[For definitions of "Secretary" and "Department" as used in section 224 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
 #### Continuation of Certain Executive Orders, Agreements, Determinations, Regulations, Contracts, Appointments, and Other Actions
 
-Pub. L. 87–256, §111(b), Sept. 21, 1961, 75 Stat. 538, provided that: “All Executive orders, agreements, determinations, regulations, contracts, appointments, and other actions issued, concluded, or taken under authority of any provisions of law repealed by subsection (a) of this section \[repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and section 1641(b)(2) of Title 50, Appendix, War and National Defense\] shall continue in full force and effect, and shall be applicable to the appropriate provisions of this Act \[this chapter\] until modified or superseded by appropriate authority.”
+Pub. L. 87–256, §111(b), Sept. 21, 1961, 75 Stat. 538, provided that: "All Executive orders, agreements, determinations, regulations, contracts, appointments, and other actions issued, concluded, or taken under authority of any provisions of law repealed by subsection (a) of this section \[repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and section 1641(b)(2) of Title 50, Appendix, War and National Defense\] shall continue in full force and effect, and shall be applicable to the appropriate provisions of this Act \[this chapter\] until modified or superseded by appropriate authority."
 
 #### References in Other Laws to Repealed Provisions
 
-Pub. L. 87–256, §111(c), Sept. 21, 1961, 75 Stat. 538, provided that: “Any reference in any other Act to the provisions of law listed in subsection (a) \[repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and section 1641(b)(2) of Title 50, Appendix, War and National Defense\] shall hereafter be considered to be references to the appropriate provisions of this Act \[this chapter\].”
+Pub. L. 87–256, §111(c), Sept. 21, 1961, 75 Stat. 538, provided that: "Any reference in any other Act to the provisions of law listed in subsection (a) \[repealing sections 1431(2), 1434, 1439, 1440, 1446, 1448, 1466 to 1468, and 1991 to 2001 of this title, sections 222 to 224 of Title 20, Education, and section 1641(b)(2) of Title 50, Appendix, War and National Defense\] shall hereafter be considered to be references to the appropriate provisions of this Act \[this chapter\]."
 

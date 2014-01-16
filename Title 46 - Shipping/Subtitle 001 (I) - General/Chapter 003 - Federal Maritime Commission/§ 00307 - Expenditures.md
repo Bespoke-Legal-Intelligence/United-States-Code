@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 June 29, 1936, ch. 858, title II, §201(d) (related to Commission), 49 Stat. 1986; Pub. L. 97–31, §12(58)(B), Aug. 6, 1981, 95 Stat. 158.
 
-The words “by this chapter”, “after June 29, 1936”, and “further” are omitted as unnecessary.
+The words "by this chapter", "after June 29, 1936", and "further" are omitted as unnecessary.
 

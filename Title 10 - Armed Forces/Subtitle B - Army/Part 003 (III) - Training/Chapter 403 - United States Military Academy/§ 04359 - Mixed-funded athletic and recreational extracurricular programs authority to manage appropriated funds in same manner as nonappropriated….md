@@ -6,7 +6,7 @@ Authority.—In the case of an Academy mixed-funded athletic or recreational ext
 
 (b)
 
-Covered Programs.—In this section, the term “Academy mixed-funded athletic or recreational extracurricular program” means anathletic or recreational extracurricular program of the Academy to which each of the following applies:
+Covered Programs.—In this section, the term "Academy mixed-funded athletic or recreational extracurricular program" means an athletic or recreational extracurricular program of the Academy to which each of the following applies:
 
 &emsp;(1) The program is not considered a morale, welfare, or recreation program.
 
@@ -20,5 +20,5 @@ Covered Programs.—In this section, the term “Academy mixed-funded athletic o
 
 #### Effective Date
 
-Pub. L. 108–375, div. A, title V, §544(d), Oct. 28, 2004, 118 Stat. 1907, provided that: “Sections 4359, 6978, and 9359 of title 10, United States Code, shall apply only with respect to funds appropriated for fiscal years after fiscal year 2004.”
+Pub. L. 108–375, div. A, title V, §544(d), Oct. 28, 2004, 118 Stat. 1907, provided that: "Sections 4359, 6978, and 9359 of title 10, United States Code, shall apply only with respect to funds appropriated for fiscal years after fiscal year 2004."
 

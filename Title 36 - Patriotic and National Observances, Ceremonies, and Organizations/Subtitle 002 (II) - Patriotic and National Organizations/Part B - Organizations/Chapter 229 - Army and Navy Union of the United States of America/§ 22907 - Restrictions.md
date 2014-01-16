@@ -62,9 +62,9 @@ Nov. 6, 1986, Pub. L. 99–604, §8(a)–(e), 100 Stat. 3447.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (b), the words “as such” are substituted for “acting as such officer or director” for consistency in the revised title.
+In subsection (b), the words "as such" are substituted for "acting as such officer or director" for consistency in the revised title.
 
-In subsection (c), the words “inure to the benefit of” are substituted for “shall insure \[sic\] to”, and the words “charter granted by this chapter” are substituted for “this charter”, for clarity and consistency in the revised title.
+In subsection (c), the words "inure to the benefit of" are substituted for "shall insure \[sic\] to", and the words "charter granted by this chapter" are substituted for "this charter", for clarity and consistency in the revised title.
 

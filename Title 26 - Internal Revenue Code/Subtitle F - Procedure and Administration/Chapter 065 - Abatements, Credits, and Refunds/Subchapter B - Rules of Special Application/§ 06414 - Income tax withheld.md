@@ -6,7 +6,7 @@ In the case of an overpayment of tax imposed by chapter 24, or by chapter 3 or 4
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–147 inserted “or 4” after “chapter 3”.
+<b>2010</b>—Pub. L. 111–147 inserted "or 4" after "chapter 3".
 
 #### Effective Date of 2010 Amendment
 

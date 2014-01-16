@@ -6,9 +6,9 @@ This subchapter does not give the Comptroller General exclusive jurisdiction ove
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–320, which directed the amendment of this section by striking “a court of the United States or” in first sentence, was executed by striking “a district court of the United States or” after “to file an action in” in first sentence to reflect the probable intent of Congress.
+<b>1996</b>—Pub. L. 104–320, which directed the amendment of this section by striking "a court of the United States or" in first sentence, was executed by striking "a district court of the United States or" after "to file an action in" in first sentence to reflect the probable intent of Congress.
 
-<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
 #### Effective Date of 1996 Amendment
 
@@ -24,5 +24,5 @@ Section applicable with respect to any protest filed after Jan. 14, 1985, see se
 
 #### Nonexclusivity of GAO Remedies
 
-Pub. L. 104–320, §12(f), Oct. 19, 1996, 110 Stat. 3876, provided that: “In the event that the bid protest jurisdiction of the district courts of the United States is terminated pursuant to subsection (d) \[set out as a Sunset Provision note under section 1491 of Title 28, Judiciary and Judicial Procedure\], then section 3556 of title 31, United States Code, shall be amended by striking ‘a court of the United States or’ in the first sentence.” \[Bid protest jurisdiction of the district courts of the United States terminated on Jan. 1, 2001, pursuant to section 12(d) of Pub. L. 104–320.\]
+Pub. L. 104–320, §12(f), Oct. 19, 1996, 110 Stat. 3876, provided that: "In the event that the bid protest jurisdiction of the district courts of the United States is terminated pursuant to subsection (d) \[set out as a Sunset Provision note under section 1491 of Title 28, Judiciary and Judicial Procedure\], then section 3556 of title 31, United States Code, shall be amended by striking 'a court of the United States or' in the first sentence." \[Bid protest jurisdiction of the district courts of the United States terminated on Jan. 1, 2001, pursuant to section 12(d) of Pub. L. 104–320.\]
 

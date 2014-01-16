@@ -4,9 +4,9 @@
 
 The Secretary of Agriculture may make grants to public agencies or private organizations with tax exempt status under section 501(c)(3) of title 26, that have experience in providing emergency services to low-income migrant and seasonal farmworkers where the Secretary determines that a local, State or national emergency or disaster has caused low-income migrant or seasonal farmworkers to lose income, to be unable to work, or to stay home or return home in anticipation of work shortages. Emergency services to be provided with assistance received under this section may include such types of assistance as the Secretary of Agriculture determines to be necessary and appropriate.
 
-#### (b) “Low-income migrant or seasonal farmworker” defined
+#### (b) "Low-income migrant or seasonal farmworker" defined
 
-For the purposes of this section, the term “low-income migrant or seasonal farmworker” means an individual—
+For the purposes of this section, the term "low-income migrant or seasonal farmworker" means an individual—
 
 &emsp;(1) who has, during any consecutive 12 month period within the preceding 24 month period, performed farm work for wages;
 
@@ -26,5 +26,5 @@ Section was enacted as part of the Food, Agriculture, Conservation, and Trade Ac
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–171 struck out “, not to exceed $20,000,000 annually,” after “Secretary of Agriculture may make grants”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171 struck out ", not to exceed $20,000,000 annually," after "Secretary of Agriculture may make grants".
 

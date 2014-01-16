@@ -6,9 +6,9 @@ The Secretary may agree to modifications of agreements made under this part, and
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148 substituted “this part” for “this subpart” in two places.
+<b>2010</b>—Pub. L. 111–148 substituted "this part" for "this subpart" in two places.
 
-<b>1975</b>—Pub. L. 94–63, §941(h)(1), (4)(C), substituted “subpart” for “part” in two places and struck out “or loans” after “agreements”.
+<b>1975</b>—Pub. L. 94–63, §941(h)(1), (4)(C), substituted "subpart" for "part" in two places and struck out "or loans" after "agreements".
 
 #### Effective Date of 1975 Amendment
 

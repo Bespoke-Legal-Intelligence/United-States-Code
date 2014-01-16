@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 4, 1955, ch. 546, §5(a), 69 Stat. 487.
 
-The words “a place decided” are substituted for “Pittsburgh, Pennsylvania, or in such other place as may later be determined”, and the word “various” is omitted, to eliminate unnecessary words.
+The words "a place decided" are substituted for "Pittsburgh, Pennsylvania, or in such other place as may later be determined", and the word "various" is omitted, to eliminate unnecessary words.
 

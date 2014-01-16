@@ -54,7 +54,7 @@ The Secretary may make guarantees for the following gasification projects:
 
 &emsp;&emsp;&emsp;(iv) on which construction commences not later than the date that is 3 years after the date of the issuance of the guarantee;
 
-&emsp;&emsp;(B) a project to produce energy from coal (of not more than 13,000 Btu/lb and mined inthe western United States) using appropriate advanced integrated gasification combined cycle technology that minimizes and offers the potential to sequester carbon dioxide emissions and that—
+&emsp;&emsp;(B) a project to produce energy from coal (of not more than 13,000 Btu/lb and mined in the western United States) using appropriate advanced integrated gasification combined cycle technology that minimizes and offers the potential to sequester carbon dioxide emissions and that—
 
 &emsp;&emsp;&emsp;(i) may include repowering of existing facilities;
 
@@ -112,9 +112,9 @@ A project that receives tax credits for clean coal technology shall not be disqu
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(8). Pub. L. 110–140 added par. (8) and struck out former par. (8) which read as follows: “Production facilities for fuel efficient vehicles, including hybrid and advanced diesel vehicles.”
+<b>2007</b>—Subsec. (b)(8). Pub. L. 110–140 added par. (8) and struck out former par. (8) which read as follows: "Production facilities for fuel efficient vehicles, including hybrid and advanced diesel vehicles."
 
-<b>2006</b>—Subsec. (c)(4). Pub. L. 109–168 substituted “Department of Energy's Clean Coal Power Initiative for Fischer-Tropsch” for “clean coal power initiative under part A of subchapter IV for”.
+<b>2006</b>—Subsec. (c)(4). Pub. L. 109–168 substituted "Department of Energy's Clean Coal Power Initiative for Fischer-Tropsch" for "clean coal power initiative under part A of subchapter IV for".
 
 #### Effective Date of 2007 Amendment
 

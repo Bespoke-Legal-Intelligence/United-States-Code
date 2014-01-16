@@ -16,7 +16,7 @@ The Director shall, in consultation with the Board—
 
 #### (c) Requirements regarding financial operations; noncompliance with requirements
 
-(1) The Director shall, in consultation with the Board, ensure that appropriate procedures for fiscal control and fund accounting are established for the financial operations of the Congressional Award Program, and that such operations are administered by personnel with expertise in accounting and financial management. Such personnel may be retained under contract. In carrying out this paragraph, the Director shall ensure that the liabilities of the Board do not in any fiscal year exceed the assets of the Board.
+(1) The Director shall, in consultation with the Board, ensure that appropriate procedures forfiscal control and fund accounting are established for the financial operations of the Congressional Award Program, and that such operations are administered by personnel with expertise in accounting and financial management. Such personnel may be retained under contract. In carrying out this paragraph, the Director shall ensure that the liabilities of the Board do not in any fiscal year exceed the assets of the Board.
 
 (2)(A) The Comptroller General of the United States shall determine for each fiscal year whether the Director has substantially complied with paragraph (1). The findings made by the Comptroller General under the preceding sentence shall be included in the reports submitted under section 807(b) of this title.
 
@@ -26,7 +26,7 @@ The Director shall, in consultation with the Board—
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(1). Pub. L. 111–200, §2(c)(1), which directed substitution of “in any fiscal year” for “, in anycalendar year,” in third sentence, was executed by making the substitution for “, for any calendar year,” to reflect the probable intent of Congress.
+<b>2010</b>—Subsec. (c)(1). Pub. L. 111–200, §2(c)(1), which directed substitution of “in any fiscal year” for “, in any calendar year,” in third sentence, was executed by making the substitution for “, for any calendar year,” to reflect the probable intent of Congress.
 
 Subsec. (c)(2). Pub. L. 111–200, §2(c)(2), added par. (2) and struck out former par. (2) which read as follows:
 

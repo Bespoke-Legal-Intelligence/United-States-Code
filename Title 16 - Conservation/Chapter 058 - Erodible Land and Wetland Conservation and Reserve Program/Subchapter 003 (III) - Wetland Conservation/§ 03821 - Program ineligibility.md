@@ -10,7 +10,7 @@ Except as provided in this subchapter and notwithstanding any other provision of
 
 #### (b) Ineligibility for certain loans and payments
 
-If a person is determined to have committed a violation under subsection (a) of this section during a crop year, the Secretary shall determine which of, and the amount of, the following loans and payments for which the person shall be ineligible:
+If a person is determined to have committed a violation under subsection (a) of this section during a crop year, the Secretary shall determine which of, and the amount of, the followingloans and payments for which the person shall be ineligible:
 
 &emsp;(1) Contract payments under a production flexibility contract, marketing assistance loans, and any type of price support or payment made available under the Agricultural Market Transition Act \[7 U.S.C. 7201 et seq.\], the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), or any other Act.
 
@@ -44,7 +44,7 @@ The Secretary shall have, and shall not delegate to any private person or entity
 
 The Agricultural Market Transition Act, referred to in subsec. (b)(1), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§7201 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 7201 of Title 7 and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in subsec. (b)(1), is act June 29, 1948, ch. 704,62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (b)(1), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(2), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
@@ -58,7 +58,7 @@ Subsec. (a). Pub. L. 104–127, §321(a)(2), added subsec. (a) and struck out fo
 
 Subsec. (b). Pub. L. 104–127, §321(a)(2), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 104–127, §321(b)(1), inserted heading and substituted “beginning after November 28, 1990,” for “subsequent to November 28, 1990,” and “subsection (b)” for “subsections (a)(1) through (3)”.
+Subsec. (c). Pub. L. 104–127, §321(b)(1), inserted heading and substituted "beginning after November 28, 1990," for "subsequent to November 28, 1990," and "subsection (b)" for "subsections (a)(1) through (3)".
 
 Pub. L. 104–127, §321(a)(1), redesignated subsec. (b) as (c).
 
@@ -66,7 +66,7 @@ Subsec. (d). Pub. L. 104–127, §321(b)(2), added subsec. (d).
 
 <b>1992</b>—Subsec. (a)(1)(D). Pub. L. 102–552 made technical correction to directory language of Pub. L. 102–237. See 1991 Amendment note below.
 
-<b>1991</b>—Subsec. (a)(1)(D). Pub. L. 102–237, as amended by Pub. L. 102–552, substituted “(7 U.S.C. 1421 note)” for “(16 U.S.C. 1421 note)”.
+<b>1991</b>—Subsec. (a)(1)(D). Pub. L. 102–237, as amended by Pub. L. 102–552, substituted "(7 U.S.C. 1421 note)" for "(16 U.S.C. 1421 note)".
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–624, §1421(b)(1), designated existing provisions as subsec. (a).
 
@@ -78,5 +78,5 @@ Subsec. (b). Pub. L. 101–624, §1421(b)(6), added subsec. (b).
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–127, title III, §326, Apr. 4, 1996, 110 Stat. 992, provided that: “This subtitle \[subtitle C (§§321–326) of title III of Pub. L. 104–127, enacting section 3823 of this title, amending this section and section 3822 of this title, and repealing former section 3823 of this title\] and the amendments made by this subtitle shall become effective 90 days after the date of enactment of this Act \[Apr. 4, 1996\].”
+Pub. L. 104–127, title III, §326, Apr. 4, 1996, 110 Stat. 992, provided that: "This subtitle \[subtitle C (§§321–326) of title III of Pub. L. 104–127, enacting section 3823 of this title, amending this section and section 3822 of this title, and repealing former section 3823 of this title\] and the amendments made by this subtitle shall become effective 90 days after the date of enactment of this Act \[Apr. 4, 1996\]."
 

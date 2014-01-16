@@ -4,7 +4,7 @@
 
 #### (1) Development
 
-&emsp;Not later than 2 years after October 24, 1992, the Secretary, through the Centers for Disease Control, shall develop a model program for the certification of embryo laboratories (referred to in this section as a “certification program”) to be carried out by the States.
+&emsp;Not later than 2 years after October 24, 1992, the Secretary, through the Centers for Disease Control, shall develop a model program for the certification of embryo laboratories (referred to in this section as a "certification program") to be carried out by the States.
 
 #### (2) Consultation
 
@@ -158,11 +158,11 @@ Centers for Disease Control changed to Centers for Disease Control and Preventio
 
 Section effective upon expiration of 2 years after Oct. 24, 1992, see section 9 of Pub. L. 102–493, set out as a note under section 263a–1 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “reproducible”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "reproducible".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be subsection “(f)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be subsection "(f)".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “deficiencies,”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "deficiencies,".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be subsection “(g)(2)”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be subsection "(g)(2)".</i>
 

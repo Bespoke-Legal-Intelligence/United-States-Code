@@ -8,17 +8,17 @@ The Secretary shall provide grants and related assistance to Alaska Native-servi
 
 For the purpose of this section—
 
-&emsp;(1) the term “Alaska Native” has the meaning given the term in section 7546 of this title;
+&emsp;(1) the term "Alaska Native" has the meaning given the term in section 7546 of this title;
 
-&emsp;(2) the term “Alaska Native-serving institution” means an institution of higher education that—
+&emsp;(2) the term "Alaska Native-serving institution" means an institution of higher education that—
 
 &emsp;&emsp;(A) is an eligible institution under section 1058(b) of this title; and
 
 &emsp;&emsp;(B) at the time of application, has an enrollment of undergraduate students that is at least 20 percent Alaska Native students;
 
-&emsp;(3) the term “Native Hawaiian” has the meaning given the term in section 7517 of this title; and
+&emsp;(3) the term "Native Hawaiian" has the meaning given the term in section 7517 of this title; and
 
-&emsp;(4) the term “Native Hawaiian-serving institution” means an institution of higher education which—
+&emsp;(4) the term "Native Hawaiian-serving institution" means an institution of higher education which—
 
 &emsp;&emsp;(A) is an eligible institution under section 1058(b) of this title; and
 
@@ -28,7 +28,7 @@ For the purpose of this section—
 
 #### (1) Types of activities authorized
 
-&emsp;Grants awarded under this section shall be used by Alaska Native-serving institutions and Native Hawaiian-serving institutions to assist such institutions to plan, develop, undertake, and carry out activities to improve and expand such institutions’ capacity to serve Alaska Natives or Native Hawaiians.
+&emsp;Grants awarded under this section shall be used by Alaska Native-serving institutions and Native Hawaiian-serving institutions to assist such institutions to plan, develop, undertake, and carry out activities to improve and expand such institutions' capacity to serve Alaska Natives or Native Hawaiians.
 
 #### (2) Examples of authorized activities
 
@@ -50,7 +50,7 @@ For the purpose of this section—
 
 &emsp;&emsp;(H) academic tutoring and counseling programs and student support services; and
 
-&emsp;&emsp;(I) education or counseling services designed to improve the financial literacy and economic literacy of students or the students’ families.
+&emsp;&emsp;(I) education or counseling services designed to improve the financial literacy and economic literacy of students or the students' families.
 
 #### (d) Application process
 
@@ -86,15 +86,15 @@ For the purpose of this section—
 
 <b>2008</b>—Subsec. (c)(2)(I). Pub. L. 110–315 added subpar. (I).
 
-<b>2002</b>—Subsec. (b)(1). Pub. L. 107–110, §702(a)(1), substituted “section 7546” for “section 7938”.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–110, §702(a)(1), substituted "section 7546" for "section 7938".
 
-Subsec. (b)(3). Pub. L. 107–110, §702(a)(2), substituted “section 7517” for “section 7912”.
+Subsec. (b)(3). Pub. L. 107–110, §702(a)(2), substituted "section 7517" for "section 7912".
 
-<b>2000</b>—Subsec. (d)(2). Pub. L. 106–211, §1(a), inserted after first sentence “The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section.”
+<b>2000</b>—Subsec. (d)(2). Pub. L. 106–211, §1(a), inserted after first sentence "The Secretary shall, to the extent possible, prescribe a simplified and streamlined format for such applications that takes into account the limited number of institutions that are eligible for assistance under this section."
 
 Subsec. (d)(3). Pub. L. 106–211, §1(b)(2), added par. (3).
 
-Subsec. (e). Pub. L. 106–211, §1(b)(2), struck out heading and text of subsec. (e). Text read as follows: “For the purposes of this section, no Alaska Native-serving institution or Native Hawaiian-serving institution which is eligible for and receives funds under this section may concurrently receive other funds under this part or part B of this subchapter.”
+Subsec. (e). Pub. L. 106–211, §1(b)(2), struck out heading and text of subsec. (e). Text read as follows: "For the purposes of this section, no Alaska Native-serving institution or Native Hawaiian-serving institution which is eligible for and receives funds under this section may concurrently receive other funds under this part or part B of this subchapter."
 
 #### Effective Date of 2002 Amendment
 

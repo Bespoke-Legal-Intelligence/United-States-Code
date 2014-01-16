@@ -56,15 +56,15 @@ Relationship to Arms Export Control Act.—Nothing in this section shall be cons
 
 Definitions.—In this section:
 
-&emsp;(1) The term “advance incremental funding”, with respect to a sale of articles or services, means a series of partial payments for the articles or services that includes—
+&emsp;(1) The term "advance incremental funding", with respect to a sale of articles or services, means a series of partial payments for the articles or services that includes—
 
 &emsp;&emsp;(A) one or more partial payments before the commencement of work or the incurring of costs in connection with the manufacture of the articles or the performance of the services, as the case may be; and
 
 &emsp;&emsp;(B) subsequent progress payments that result in full payment being completed as the required work is being completed.
 
-&emsp;(2) The term “not available”, with respect to an article or service proposed to be sold under this section, means that the article or service is unavailable from a commercial source in the required quantity and quality or within the time required.
+&emsp;(2) The term "not available", with respect to an article or service proposed to be sold under this section, means that the article or service is unavailable from a commercial source in the required quantity and quality or within the time required.
 
-&emsp;(3) The term “variable costs”, with respect to sales of articles or services, means the costs that are expected to fluctuate directly with the volume of sales and—
+&emsp;(3) The term "variable costs", with respect to sales of articles or services, means the costs that are expected to fluctuate directly with the volume of sales and—
 
 &emsp;&emsp;(A) in the case of articles, the volume of production necessary to satisfy the sales orders; or
 
@@ -74,7 +74,7 @@ Definitions.—In this section:
 
 #### Amendments
 
-<b>2001</b>—Subsec. (c)(1)(B). Pub. L. 107–107, §343(a)(1), substituted “as provided in paragraph (3)” for “in any case of willful misconduct or gross negligence”.
+<b>2001</b>—Subsec. (c)(1)(B). Pub. L. 107–107, §343(a)(1), substituted "as provided in paragraph (3)" for "in any case of willful misconduct or gross negligence".
 
 Subsec. (c)(3). Pub. L. 107–107, §343(a)(2), added par. (3).
 
@@ -86,5 +86,5 @@ Subsec. (g)(2), (3). Pub. L. 106–65, §331(b), added par. (2) and redesignated
 
 #### Effective Date
 
-Pub. L. 103–337, div. A, title III, §339(b), Oct. 5, 1994, 108 Stat. 2720, provided that: “Section 2553 \[now 2563\] of title 10, United States Code, as added by subsection (a), shall take effect on April 1, 1995.”
+Pub. L. 103–337, div. A, title III, §339(b), Oct. 5, 1994, 108 Stat. 2720, provided that: "Section 2553 \[now 2563\] of title 10, United States Code, as added by subsection (a), shall take effect on April 1, 1995."
 

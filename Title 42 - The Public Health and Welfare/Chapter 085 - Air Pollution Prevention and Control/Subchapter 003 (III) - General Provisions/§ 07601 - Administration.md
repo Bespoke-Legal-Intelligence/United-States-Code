@@ -42,7 +42,7 @@ Payments under grants made under this chapter may be made in installments, and i
 
 (5) Until such time as the Administrator promulgates regulations pursuant to this subsection, the Administrator may continue to provide financial assistance to eligible Indian tribes under section 7405 of this title.
 
-(July 14, 1955, ch. 360, title III, §301, formerly §8, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 400, renumbered Pub. L. 89–272, title I, §101(4), Oct. 20, 1965, 79 Stat. 992; amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 504; Pub. L. 91–604, §§3(b)(2), 15(c)(2), Dec. 31, 1970, 84 Stat. 1677, 1713;Pub. L. 95–95, title III, §305(e), Aug. 7, 1977, 91 Stat. 776; Pub. L. 101–549, title I, §§107(d), 108(i), Nov. 15, 1990, 104 Stat. 2464, 2467.)
+(July 14, 1955, ch. 360, title III, §301, formerly §8, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 400, renumbered Pub. L. 89–272, title I, §101(4), Oct. 20, 1965, 79 Stat. 992; amended Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 504; Pub. L. 91–604, §§3(b)(2), 15(c)(2), Dec. 31, 1970, 84 Stat. 1677, 1713; Pub. L. 95–95, title III, §305(e), Aug. 7, 1977, 91 Stat. 776; Pub. L. 101–549, title I, §§107(d), 108(i), Nov. 15, 1990, 104 Stat. 2464, 2467.)
 
 #### Codification
 
@@ -50,17 +50,17 @@ Section was formerly classified to section 1857g of this title.
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a)(1). Pub. L. 101–549, §108(i), inserted “subject to section 7607(d) of this title” after “regulations”.
+<b>1990</b>—Subsec. (a)(1). Pub. L. 101–549, §108(i), inserted "subject to section 7607(d) of this title" after "regulations".
 
 Subsec. (d). Pub. L. 101–549, §107(d), added subsec. (d).
 
 <b>1977</b>—Subsec. (a). Pub. L. 95–95 designated existing provisions as par. (1) and added par. (2).
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary” and “Environmental Protection Agency” for “Department of Health, Education, and Welfare”.
+<b>1970</b>—Subsec. (a). Pub. L. 91–604, §15(c)(2), substituted "Administrator" for "Secretary" and "Environmental Protection Agency" for "Department of Health, Education, and Welfare".
 
-Subsec. (b). Pub. L. 91–604, §3(b)(2), substituted “Environmental Protection Agency” for “Public Health Service” and struck out provisions covering the payment of salaries and allowances.
+Subsec. (b). Pub. L. 91–604, §3(b)(2), substituted "Environmental Protection Agency" for "Public Health Service" and struck out provisions covering the payment of salaries and allowances.
 
-Subsec. (c). Pub. L. 91–604, §15(c)(2), substituted “Administrator” for “Secretary”.
+Subsec. (c). Pub. L. 91–604, §15(c)(2), substituted "Administrator" for "Secretary".
 
 <b>1967</b>—Pub. L. 90–148 reenacted section without change.
 
@@ -76,59 +76,59 @@ All rules, regulations, orders, determinations, contracts, certifications, autho
 
 Pub. L. 101–549, title X, Nov. 15, 1990, 104 Stat. 2708, provided that:
 
-#### “SEC. 1001. DISADVANTAGED BUSINESS CONCERNS.
+#### "SEC. 1001. DISADVANTAGED BUSINESS CONCERNS.
 
-“(a)
+"(a)
 
 In General.—In providing for any research relating to the requirements of the amendments made by the Clean Air Act Amendments of 1990 \[Pub. L. 101–549, see Tables for classification\] which uses funds of the Environmental Protection Agency, the Administrator of the Environmental Protection Agency shall, to the extent practicable, require that not less than 10 percent of total Federal funding for such research will be made available to disadvantaged business concerns.
 
-“(b)
+"(b)
 
 Definition.—
 
-&emsp;“(1)(A) For purposes of subsection (a), the term ‘disadvantaged business concern’ means a concern—
+&emsp;"(1)(A) For purposes of subsection (a), the term 'disadvantaged business concern' means a concern—
 
-&emsp;&emsp;“(i) which is at least 51 percent owned by one or more socially and economically disadvantaged individuals or, in the case of a publicly traded company, at least 51 percent of the stock of which is owned by one or more socially and economically disadvantaged individuals; and
+&emsp;&emsp;"(i) which is at least 51 percent owned by one or more socially and economically disadvantaged individuals or, in the case of a publicly traded company, at least 51 percent of the stock of which is owned by one or more socially and economically disadvantaged individuals; and
 
-&emsp;&emsp;“(ii) the management and daily business operations of which are controlled by such individuals.
+&emsp;&emsp;"(ii) the management and daily business operations of which are controlled by such individuals.
 
-&emsp;“(B)(i) A for-profit business concern is presumed to be a disadvantaged business concern for purposes of subsection (a) if it is at least 51 percent owned by, or in the case of a concern which is a publicly traded company at least 51 percent of the stock of the company is owned by, one or more individuals who are members of the following groups:
+&emsp;"(B)(i) A for-profit business concern is presumed to be a disadvantaged business concern for purposes of subsection (a) if it is at least 51 percent owned by, orin the case of a concern which is a publicly traded company at least 51 percent of the stock of the company is owned by, one or more individuals who are members of the following groups:
 
-&emsp;&emsp;“(I) Black Americans.
+&emsp;&emsp;"(I) Black Americans.
 
-&emsp;&emsp;“(II) Hispanic Americans.
+&emsp;&emsp;"(II) Hispanic Americans.
 
-&emsp;&emsp;“(III) Native Americans.
+&emsp;&emsp;"(III) Native Americans.
 
-&emsp;&emsp;“(IV) Asian Americans.
+&emsp;&emsp;"(IV) Asian Americans.
 
-&emsp;&emsp;“(V) Women.
+&emsp;&emsp;"(V) Women.
 
-&emsp;&emsp;“(VI) Disabled Americans.
+&emsp;&emsp;"(VI) Disabled Americans.
 
-&emsp;“(ii) The presumption established by clause (i) may be rebutted with respect to a particular business concern if it is reasonably established that the individual or individuals referred to in that clause with respect to that business concern are not experiencing impediments to establishing or developing such concern as a result of the individual's identification as a member of a group specified in that clause.
+&emsp;"(ii) The presumption established by clause (i) may be rebutted with respect to a particular business concern if it is reasonably established that the individual or individuals referred to in that clause with respect to that business concern are not experiencing impediments to establishing or developing such concern as a result of the individual's identification as a member of a group specified in that clause.
 
-&emsp;“(C) The following institutions are presumed to be disadvantaged business concerns for purposes of subsection (a):
+&emsp;"(C) The following institutions are presumed to be disadvantaged business concerns for purposes of subsection (a):
 
-&emsp;&emsp;“(i) Historically black colleges and universities, and colleges and universities having a student body in which 40 percent of the students are Hispanic.
+&emsp;&emsp;"(i) Historically black colleges and universities, and colleges and universities having a student body in which 40 percent of the students are Hispanic.
 
-&emsp;&emsp;“(ii) Minority institutions (as that term is defined by the Secretary of Education pursuant to the General Education Provision Act (20 U.S.C. 1221 et seq.)).
+&emsp;&emsp;"(ii) Minority institutions (as that term is defined by the Secretary of Education pursuant to the General Education Provision Act (20 U.S.C. 1221 et seq.)).
 
-&emsp;&emsp;“(iii) Private and voluntary organizations controlled by individuals who are socially and economically disadvantaged.
+&emsp;&emsp;"(iii) Private and voluntary organizations controlled by individuals who are socially and economically disadvantaged.
 
-&emsp;“(D) A joint venture may be considered to be a disadvantaged business concern under subsection (a), notwithstanding the size of such joint venture, if—
+&emsp;"(D) A joint venture may be considered to be a disadvantaged business concern under subsection (a), notwithstanding the size of such joint venture, if—
 
-&emsp;&emsp;“(i) a party to the joint venture is a disadvantaged business concern; and
+&emsp;&emsp;"(i) a party to the joint venture is a disadvantaged business concern; and
 
-&emsp;&emsp;“(ii) that party owns at least 51 percent of the joint venture.
+&emsp;&emsp;"(ii) that party owns at least 51 percent of the joint venture.
 
 > &emsp;A person who is not an economically disadvantaged individual or a disadvantaged business concern, as a party to a joint venture, may not be a party to more than 2 awarded contracts in a fiscal year solely by reason of this subparagraph.
 
-&emsp;“(E) Nothing in this paragraph shall prohibit any member of a racial or ethnic group that is not listed in subparagraph (B)(i) from establishing that they have been impeded in establishing or developing a business concern as a result of racial or ethnic discrimination.
+&emsp;"(E) Nothing in this paragraph shall prohibit any member of a racial or ethnic group that is not listed in subparagraph (B)(i) from establishing that they have been impeded in establishing or developing a business concern as a result of racial or ethnic discrimination.
 
-“
+"
 
 Sec. 1002.
 
-Use of Quotas Prohibited.—Nothing in this title shall permit or require the use of quotas or a requirement that has the effect of a quota in determining eligibility under section 1001.”
+Use of Quotas Prohibited.—Nothing in this title shall permit or require the use of quotas or a requirement that has the effect of a quota in determining eligibility under section 1001."
 

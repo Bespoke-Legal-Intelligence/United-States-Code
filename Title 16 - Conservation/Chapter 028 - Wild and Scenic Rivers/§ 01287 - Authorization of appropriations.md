@@ -34,7 +34,7 @@ There are hereby authorized to be appropriated, including such sums as have here
 
 > struck out subsec. (a) designation and subsec. (b) which provided for expiration of authority to make authorized appropriations on Sept. 30, 1979.
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–273 substituted “September” for “June”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–273 substituted "September" for "June".
 
 <b>1974</b>—Pub. L. 93–279 added subsecs. (a) and (b). Former unlettered provisions authorizing appropriation of amounts up to $17,000,000 for the acquisition of lands and interests in land were struck out.
 

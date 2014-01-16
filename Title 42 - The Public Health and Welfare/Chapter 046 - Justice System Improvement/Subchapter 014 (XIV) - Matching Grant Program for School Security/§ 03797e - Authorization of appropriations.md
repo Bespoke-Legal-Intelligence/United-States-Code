@@ -6,5 +6,5 @@ There are authorized to be appropriated to carry out this subchapter $30,000,000
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–162 substituted “2009” for “2003”.
+<b>2006</b>—Pub. L. 109–162 substituted "2009" for "2003".
 

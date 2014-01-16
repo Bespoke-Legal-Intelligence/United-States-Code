@@ -6,5 +6,5 @@ When sufficient evidence is presented to the Secretary by interested persons, or
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–624 substituted “interested persons” for “potato producers” in first sentence and “by any interested person, including the Secretary” for “by potato producers or by any other interested person or persons, including the Secretary” in second sentence.
+<b>1990</b>—Pub. L. 101–624 substituted "interested persons" for "potato producers" in first sentence and "by any interested person, including the Secretary" for "by potato producers or by any other interested person or persons, including the Secretary" in second sentence.
 

@@ -48,7 +48,7 @@ Historical and Revision Notes
 
 40:1203(a).
 
-Pub. L. 100–480, §§3(b)(2)(D) (words after “provisions of this chapter”), 4(a), (b), (d), Oct. 7, 1988, 102 Stat. 2330, 2331.
+Pub. L. 100–480, §§3(b)(2)(D) (words after "provisions of this chapter"), 4(a), (b), (d), Oct. 7, 1988, 102 Stat. 2330, 2331.
 
 6504(b)(1)– (3)
 
@@ -56,7 +56,7 @@ Pub. L. 100–480, §§3(b)(2)(D) (words after “provisions of this chapter”)
 
 6504(b)(4)
 
-40:1202(b)(2)(D) (words after “provisions of this Act”).
+40:1202(b)(2)(D) (words after "provisions of this Act").
 
 6504(c)
 
@@ -64,5 +64,5 @@ Pub. L. 100–480, §§3(b)(2)(D) (words after “provisions of this chapter”)
 
 Subsection (a) is substituted for 40:1203(a) to eliminate obsolete words.
 
-In subsection (b)(2), the words “in the District of Columbia” are added for clarity.
+In subsection (b)(2), the words "in the District of Columbia" are added for clarity.
 

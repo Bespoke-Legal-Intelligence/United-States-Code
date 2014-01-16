@@ -2,11 +2,11 @@
 
 #### (a) Qualified business unit
 
-For purposes of this subpart, the term “qualified business unit” means any separate and clearly identified unit of a trade or business of a taxpayer which maintains separate books and records.
+For purposes of this subpart, the term "qualified business unit" means any separate and clearly identified unit of a trade or business of a taxpayer which maintains separate books and records.
 
 #### (b) Appropriate exchange rate
 
-Except as provided in regulations, for purposes of this subpart, the term “appropriate exchange rate” means—
+Except as provided in regulations, for purposes of this subpart, the term "appropriate exchange rate" means—
 
 &emsp;(1) in the case of an actual distribution of earnings and profits, the spot rate on the date such distribution is included in income,
 
@@ -42,17 +42,17 @@ The enactment of this subpart, referred to in subsec. (c)(1), probably means the
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(3). Pub. L. 108–357 struck out “, 551(a),” after “section 951(a)(1)(A)”.
+<b>2004</b>—Subsec. (b)(3). Pub. L. 108–357 struck out ", 551(a)," after "section 951(a)(1)(A)".
 
-<b>1997</b>—Subsec. (b)(3), (4). Pub. L. 105–34, §1102(b)(3), struck out “weighted” before “average exchange rate”.
+<b>1997</b>—Subsec. (b)(3), (4). Pub. L. 105–34, §1102(b)(3), struck out "weighted" before "average exchange rate".
 
 Subsec. (c)(6). Pub. L. 105–34, §1102(b)(2), added par. (6).
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–188 substituted “section 951(a)(1)(B)” for “subparagraph (B) or (C) of section 951(a)(1)” in closing provisions.
+<b>1996</b>—Subsec. (b). Pub. L. 104–188 substituted "section 951(a)(1)(B)" for "subparagraph (B) or (C) of section 951(a)(1)" in closing provisions.
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–66 substituted “subparagraph (B) or (C) of section 951(a)(1)” for “section 951(a)(1)(B)” in last sentence.
+<b>1993</b>—Subsec. (b). Pub. L. 103–66 substituted "subparagraph (B) or (C) of section 951(a)(1)" for "section 951(a)(1)(B)" in last sentence.
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–647 substituted in par. (3) “section 951(a)(1)(A)” for “section 951(a)” and inserted at end “For purposes of the preceding sentence, any amount included in income under section 951(a)(1)(B) shall be treated as an actual distribution made on the last day of the taxable year for which such amount was so included.”
+<b>1988</b>—Subsec. (b). Pub. L. 100–647 substituted in par. (3) "section 951(a)(1)(A)" for "section 951(a)" and inserted at end "For purposes of the preceding sentence, any amount included in income under section 951(a)(1)(B) shall be treated as an actual distribution made on the last day of the taxable year for which such amount was so included."
 
 #### Effective Date of 2004 Amendment
 

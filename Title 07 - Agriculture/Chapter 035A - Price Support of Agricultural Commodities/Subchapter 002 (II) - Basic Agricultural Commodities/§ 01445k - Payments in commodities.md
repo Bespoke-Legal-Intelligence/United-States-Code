@@ -22,7 +22,7 @@ The Secretary may make in-kind payments—
 
 #### (c) Commodity certificates
 
-The Secretary shall pay interest on the cash redemption of a commodity certificate issued by the Secretary to a producer who holds the certificate for at least 150 days. This subsectionshall not apply with respect to commodity certificates issued in connection with the export enhancement program or the marketing promotion program established under the Agricultural Trade Act of 1978.
+The Secretary shall pay interest on the cash redemption of a commodity certificate issued by the Secretary to a producer who holds the certificate for at least 150 days. This subsection shall not apply with respect to commodity certificates issued in connection with the export enhancement program or the marketing promotion program established under the Agricultural Trade Act of 1978.
 
 (Oct. 31, 1949, ch. 792, title I, §115, formerly §107E, as added Pub. L. 99–198, title X, §1005, Dec. 23, 1985, 99 Stat. 1448; renumbered §115 and amended Pub. L. 101–624, title XI, §§1122(a), 1161(a)(1), Nov. 28, 1990, 104 Stat. 3503, 3520.)
 
@@ -52,15 +52,15 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 Pub. L. 101–624, title XI, §1122(b), Nov. 28, 1990, 104 Stat. 3503, provided that:
 
-“(1)
+"(1)
 
 In general.—A subsequent holder of a commodity certificate issued by the Commodity Credit Corporation shall be allowed to exchange the expired commodity certificate under the same rules that apply to an original holder of the certificate.
 
-“(2)
+"(2)
 
 Application and redemption limitations.—This subsection shall only apply during the 180-day period beginning on the date of enactment of this Act \[Nov. 28, 1990\]. No person may redeem more than $1,000 worth of certificates under this subsection.
 
-“(3)
+"(3)
 
-Redemption limitations.—In no event shall a person receive a payment from the Commodity Credit Corporation for a certificate that is redeemed under this subsection in an amount greater than the price paid for the certificate by the person. No expired certificate shall be exchanged under this section if the owner purchased the certificate after January 1, 1990.”
+Redemption limitations.—In no event shall a person receive a payment from the Commodity Credit Corporation for a certificate that is redeemed under this subsection in an amount greater than the price paid for the certificate by the person. No expired certificate shall be exchanged under this section if the owner purchased the certificate after January 1, 1990."
 

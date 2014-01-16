@@ -8,9 +8,9 @@ The persons charged with the management of the seal fisheries in Alaska, and the
 
 R.S. §§1973, 1975 derived from act Mar. 5, 1872, ch. 31, §1, 17 Stat. 35.
 
-R.S. §1973 read as follows: “The Secretary of the Treasury is authorized to appoint one agent and three assistant agents, who shall be charged with the management of the seal fisheries in Alaska, and the performance of such other duties as may be assigned to them by the Secretary of the Treasury.”
+R.S. §1973 read as follows: "The Secretary of the Treasury is authorized to appoint one agent and three assistant agents, who shall be charged with the management of the seal fisheries in Alaska, and the performance of such other duties as may be assigned to them by the Secretary of the Treasury."
 
-R.S. §1975 read as follows: “Such agents shall never be interested, directly or indirectly, in any lease of the right to take seals, nor in any proceeds or profits thereof, either as owner, agent, partner, or otherwise.”
+R.S. §1975 read as follows: "Such agents shall never be interested, directly or indirectly, in any lease of the right to take seals, nor in any proceeds or profits thereof, either as owner, agent, partner, or otherwise."
 
 Act. Feb. 14, 1903, transferred jurisdiction, supervision and control over the fur seal, salmon and other fisheries of Alaska from Department of the Treasury to Department of Commerce and Labor.
 
@@ -26,5 +26,5 @@ Reorg. Plan No. III of 1940, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232
 
 #### Responsibility for Matters Relating to Seals
 
-Bureau of Commercial Fisheries within the Fish and Wildlife Service as responsible for matters relating to commercial fisheries and to seals, see section 742b of this title.
+Bureau of Commercial Fisheries within the Fish and Wildlife Service as responsible for matters relating tocommercial fisheries and to seals, see section 742b of this title.
 

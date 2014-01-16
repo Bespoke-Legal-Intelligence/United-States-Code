@@ -54,7 +54,7 @@
 
 #### (d) Channel positioning
 
-No satellite carrier shall be required to provide the signal of a local television broadcast station to subscribers in that station's local market on any particular channel number or to provide the signals in any particular order, except that the satellite carrier shall retransmit the signal of the local television broadcast stations to subscribers in the stations’ local market on contiguous channels and provide access to such station's signals at a nondiscriminatory price and in a nondiscriminatory manner on any navigational device, on-screen program guide, or menu.
+No satellite carrier shall be required to provide the signal of a local television broadcast station to subscribers in that station's local market on any particular channel number or to provide the signals in any particular order, except that the satellite carrier shall retransmit the signal of the local television broadcast stations to subscribers in the stations' local market on contiguous channels and provide access to such station's signals at a nondiscriminatory price and in a nondiscriminatory manner on any navigational device, on-screen program guide, or menu.
 
 #### (e) Compensation for carriage
 
@@ -146,11 +146,11 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 &emsp;For purposes of this subsection, other than paragraph (9)—
 
-&emsp;&emsp;(A) the term “personally identifiable information” does not include any record of aggregate data which does not identify particular persons;
+&emsp;&emsp;(A) the term "personally identifiable information" does not include any record of aggregate data which does not identify particular persons;
 
-&emsp;&emsp;(B) the term “other service” includes any wire or radio communications service provided using any of the facilities of a satellite carrier that are used in the provision of satellite service; and
+&emsp;&emsp;(B) the term "other service" includes any wire or radio communications service provided using any of the facilities of a satellite carrier that are used in the provision of satellite service; and
 
-&emsp;&emsp;(C) the term “satellite carrier” includes, in addition to persons within the definition of satellite carrier, any person who—
+&emsp;&emsp;(C) the term "satellite carrier" includes, in addition to persons within the definition of satellite carrier, any person who—
 
 &emsp;&emsp;&emsp;(i) is owned or controlled by, or under common ownership or control with, a satellite carrier; and
 
@@ -212,7 +212,7 @@ A satellite carrier shall not accept or request monetary payment or other valuab
 
 &emsp;&emsp;(B) punitive damages; and
 
-&emsp;&emsp;(C) reasonable attorneys’ fees and other litigation costs reasonably incurred.
+&emsp;&emsp;(C) reasonable attorneys' fees and other litigation costs reasonably incurred.
 
 > &emsp;The remedy provided by this subsection shall be in addition to any other lawful remedy available to a satellite subscriber.
 
@@ -238,11 +238,11 @@ As used in this section:
 
 #### (1) Distributor
 
-&emsp;The term “distributor” means an entity which contracts to distribute secondary transmissions from a satellite carrier and, either as a single channel or in a package with other programming, provides the secondary transmission either directly to individual subscribers or indirectly through other program distribution entities.
+&emsp;The term "distributor" means an entity which contracts to distribute secondary transmissions from a satellite carrier and, either as a single channel or in a package with other programming, provides the secondary transmission either directly to individual subscribers or indirectly through other program distribution entities.
 
 #### (2) Eligible satellite carrier
 
-&emsp;The term “eligible satellite carrier” means any satellite carrier that is not a party to a carriage contract that—
+&emsp;The term "eligible satellite carrier" means any satellite carrier that is not a party to a carriage contract that—
 
 &emsp;&emsp;(A) governs carriage of at least 30 qualified noncommercial educational television stations; and
 
@@ -250,19 +250,19 @@ As used in this section:
 
 #### (3) Local receive facility
 
-&emsp;The term “local receive facility” means the reception point in each local market which a satellite carrier designates for delivery of the signal of the station for purposes of retransmission.
+&emsp;The term "local receive facility" means the reception point in each local market which a satellite carrier designates for delivery of the signal of the station for purposes of retransmission.
 
 #### (4) Local market
 
-&emsp;The term “local market” has the meaning given that term under section 122(j) of title 17.
+&emsp;The term "local market" has the meaning given that term under section 122(j) of title 17.
 
 #### (5) Low power television station
 
-&emsp;The term “low power television station” means a low power television station as defined under section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004. For purposes of this paragraph, the term “low power television station” includes a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations.
+&emsp;The term "low power television station" means a low power television station as defined under section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004. For purposes of this paragraph, the term "low power television station" includes a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations.
 
 #### (6) Qualified noncommercial educational television station
 
-&emsp;The term “qualified noncommercial educational television station” means any full-power television broadcast station that—
+&emsp;The term "qualified noncommercial educational television station" means any full-power television broadcast station that—
 
 &emsp;&emsp;(A) under the rules and regulations of the Commission in effect on March 29, 1990, is licensed by the Commission as a noncommercial educational broadcast station and is owned and operated by a public agency, nonprofit foundation, nonprofit corporation, or nonprofit association; and
 
@@ -270,25 +270,25 @@ As used in this section:
 
 #### (7) Satellite carrier
 
-&emsp;The term “satellite carrier” has the meaning given such term under section 119(d) of title 17.
+&emsp;The term "satellite carrier" has the meaning given such term under section 119(d) of title 17.
 
 #### (8) Secondary transmission
 
-&emsp;The term “secondary transmission” has the meaning given such term in section 119(d) of title 17.
+&emsp;The term "secondary transmission" has the meaning given such term in section 119(d) of title 17.
 
 #### (9) Subscriber
 
-&emsp;The term “subscriber” has the meaning given that term under section 122(j) of title 17.
+&emsp;The term "subscriber" has the meaning given that term under section 122(j) of title 17.
 
 #### (10) Television broadcast station
 
-&emsp;The term “television broadcast station” has the meaning given such term in section 325(b)(7) of this title.
+&emsp;The term "television broadcast station" has the meaning given such term in section 325(b)(7) of this title.
 
 (June 19, 1934, ch. 652, title III, §338, as added Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1008(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–531; amended Pub. L. 108–447, div. J, title IX \[title II, §§203, 205, 206(a), 210\], Dec. 8, 2004, 118 Stat. 3414, 3424, 3425, 3429; Pub. L. 111–175, title II, §§204(a), 207, May 27, 2010, 124 Stat. 1246, 1253.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(2), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (a)(2), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 Section 119(a)(14) of title 17, referred to in subsec. (a)(3), was redesignated as section 119(a)(13) of title 17 by Pub. L. 111–175, title I, §102(h)(1)(B), May 27, 2010, 124 Stat. 1224. However, provision relating to signals of low power television station was section 119(a)(15) of title 17, which was repealed by section 102(h)(1)(C) of Pub. L. 111–175.
 
@@ -298,7 +298,7 @@ For the effective date of this subsection, referred to in subsec. (i)(1), as 60 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(3). Pub. L. 111–175, §204(a)(1), struck out par. (3) relating to effective date. Text read as follows: “No satellite carrier shall be required to carry local television broadcast stations under paragraph (1) until January 1, 2002.”
+<b>2010</b>—Subsec. (a)(3). Pub. L. 111–175, §204(a)(1), struck out par. (3) relating to effective date. Text read as follows: "No satellite carrier shall be required to carry local television broadcast stations under paragraph (1) until January 1, 2002."
 
 Subsec. (a)(5). Pub. L. 111–175, §207(a), added par. (5).
 
@@ -320,7 +320,7 @@ Subsec. (k)(10). Pub. L. 111–175, §207(b)(3), redesignated par. (9) as (10).
 
 Subsec. (a)(4). Pub. L. 108–447, §210, added par. (4).
 
-Subsec. (c)(1). Pub. L. 108–447, §203(b)(2), substituted “subsection (a)(1)” for “subsection (a)”.
+Subsec. (c)(1). Pub. L. 108–447, §203(b)(2), substituted "subsection (a)(1)" for "subsection (a)".
 
 Subsecs. (g), (h). Pub. L. 108–447, §§203(a)(2), 205, added subsecs. (g) and (h). Former subsecs. (g) and (h) redesignated (j) and (k), respectively.
 
@@ -338,129 +338,129 @@ Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pu
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–447, div. J, title IX \[title II, §206(b)\], Dec. 8, 2004, 118 Stat. 3428, provided that: “Section 338(i) of the Communications Act of 1934 (47 U.S.C. 338(i)) as amended by subsection (a) of this section shall be effective 60 days after the date of enactment of this Act \[Dec. 8, 2004\].”
+Pub. L. 108–447, div. J, title IX \[title II, §206(b)\], Dec. 8, 2004, 118 Stat. 3428, provided that: "Section 338(i) of the Communications Act of 1934 (47 U.S.C. 338(i)) as amended by subsection (a) of this section shall be effective 60 days after the date of enactment of this Act \[Dec. 8, 2004\]."
 
 #### Application Pending Completion of Rulemakings
 
 Pub. L. 111–175, title II, §205, May 27, 2010, 124 Stat. 1250, provided that:
 
-“(a)
+"(a)
 
 In General.—During the period beginning on the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights\] and ending on thedate on which the Federal Communications Commission adopts rules pursuant to the amendments to the Communications Act of 1934 made by section 203 and section 204 of this title \[amending this section and sections 339 and 340 of this title\], the Federal Communications Commission shall follow its rules and regulations promulgated pursuant to sections 338, 339, and 340 of the Communications Act of 1934 \[47 U.S.C. 338 to 340\] as in effect on the day before the date of the enactment of this Act.
 
-“(b)
+"(b)
 
 Translator Stations and Low Power Television Stations.—Notwithstanding subsection (a), for purposes of determining whether a subscriber within the local market served by a translator station or a low power television station affiliated with a television network is eligible to receive distant signals under section 339 of the Communications Act of 1934, the rules and regulations of the Federal Communications Commission for determining such subscriber's eligibility as in effect on the day before the date of the enactment of this Act shall apply until the date on which the translator station or low power television station is licensed to broadcast a digital signal.
 
-“(c)
+"(c)
 
 Definitions.—As used in this subtitle \[title II of Pub. L. 111–175 does not contain subtitles\]:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Local market; low power television station; satellite carrier; subscriber; television broadcast station.—The terms ‘local market’, ‘low power television station’, ‘satellite carrier’, ‘subscriber’, and ‘television broadcast station’ have the meanings given such terms in section 338(k) of the Communications Act of 1934 \[47 U.S.C. 338(k)\].
+Local market; low power television station; satellite carrier; subscriber; television broadcast station.—The terms 'local market', 'low power television station', 'satellite carrier', 'subscriber', and 'television broadcast station' have the meanings given such terms in section 338(k) of the Communications Act of 1934 \[47 U.S.C. 338(k)\].
 
-&emsp;“(2)
+&emsp;"(2)
 
-Network station; television network.—The terms ‘network station’ and ‘television network’ have the meanings given such terms in section 339(d) of such Act \[47 U.S.C. 339(d)\].”
+Network station; television network.—The terms 'network station' and 'television network' have the meanings given such terms in section 339(d) of such Act \[47 U.S.C. 339(d)\]."
 
 #### Reports
 
 Pub. L. 111–175, title III, §§301, 305, May 27, 2010, 124 Stat. 1255, 1256, provided that:
 
-#### “SEC. 301. DEFINITION.
+#### "SEC. 301. DEFINITION.
 
-“In this title \[enacting provisions set out as notes under section 111 of Title 17, Copyrights\], the term ‘appropriate Congressional committees’ means the Committees on the Judiciary and on Commerce, Science, and Transportation of the Senate and the Committees on the Judiciary and on Energy and Commerce of the House of Representatives.
+"In this title \[enacting provisions set out as notes under section 111 of Title 17, Copyrights\], the term 'appropriate Congressional committees' means the Committees on the Judiciary and on Commerce, Science, and Transportation of the Senate and the Committees on the Judiciary and on Energy and Commerce of the House of Representatives.
 
-#### “SEC. 305. LOCAL NETWORK CHANNEL BROADCAST REPORTS.
+#### "SEC. 305. LOCAL NETWORK CHANNEL BROADCAST REPORTS.
 
-“(a)
+"(a)
 
 Requirement.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—On the 270th day after the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights\], and on each succeeding anniversary of such 270th day, each satellite carrier shall submit an annual report to the Federal Communications Commission setting forth—
 
-&emsp;&emsp;“(A) each local market in which it—
+&emsp;&emsp;"(A) each local market in which it—
 
-&emsp;&emsp;&emsp;“(i) retransmits signals of 1 or more television broadcast stations with a community of license in that market;
+&emsp;&emsp;&emsp;"(i) retransmits signals of 1 or more television broadcast stations with a community of license in that market;
 
-&emsp;&emsp;&emsp;“(ii) has commenced providing such signals in the preceding 1-year period; and
+&emsp;&emsp;&emsp;"(ii) has commenced providing such signals in the preceding 1-year period; and
 
-&emsp;&emsp;&emsp;“(iii) has ceased to provide such signals in the preceding 1-year period; and
+&emsp;&emsp;&emsp;"(iii) has ceased to provide such signals in the preceding 1-year period; and
 
-&emsp;&emsp;“(B) detailed information regarding the use and potential use of satellite capacity for the retransmission of local signals in each local market.
+&emsp;&emsp;"(B) detailed information regarding the use and potential use of satellite capacity for the retransmission of local signals in each local market.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Termination.—The requirement under paragraph (1) shall cease after each satellite carrier has submitted 5 reports under such paragraph.
 
-“(b) FCC
+"(b) FCC
 
 Study; Report.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Study.—If no satellite carrier files a request for a certification under section 342 of the Communications Act of 1934 \[47 U.S.C. 342\] (as added by section 206 of this title) within 270 days after the date of the enactment of this Act, the Federal Communications Commission shall initiate a study of—
 
-&emsp;&emsp;“(A) incentives that would induce a satellite carrier to provide the signals of 1 or more television broadcast stations licensed to provide signals in local markets in which the satellite carrier does not provide such signals; and
+&emsp;&emsp;"(A) incentives that would induce a satellite carrier to provide the signals of 1 or more television broadcast stations licensed to provide signals in local markets in which the satellite carrier does not provide such signals; and
 
-&emsp;&emsp;“(B) the economic and satellite capacity conditions affecting delivery of local signals by satellite carriers to these markets.
+&emsp;&emsp;"(B) the economic and satellite capacity conditions affecting delivery of local signals by satellite carriers to these markets.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Report.—Within 1 year after the date of the initiation of the study under paragraph (1), the Federal Communications Commission shall submit a report to the appropriate Congressional committees containing its findings, conclusions, and recommendations.
 
-“(c)
+"(c)
 
 Definitions.—In this section—
 
-&emsp;“(1) the terms ‘local market’ and ‘satellite carrier’ have the meaning given such terms in section 339(d) of the Communications Act of 1934 (47 U.S.C. 339(d)); and
+&emsp;"(1) the terms 'local market' and 'satellite carrier' have the meaning given such terms in section 339(d) of the Communications Act of 1934 (47 U.S.C. 339(d)); and
 
-&emsp;“(2) the term ‘television broadcast station’ has the meaning given such term in section 325(b)(7) of such Act (47 U.S.C. 325(b)(7)).”
+&emsp;"(2) the term 'television broadcast station' has the meaning given such term in section 325(b)(7) of such Act (47 U.S.C. 325(b)(7))."
 
 #### Rural Local Television Signals
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title II\], Nov. 29, 1999, 113 Stat. 1536, 1501A–544, provided that:
 
-#### “SEC. 2001. SHORT TITLE.
+#### "SEC. 2001. SHORT TITLE.
 
-“This title may be cited as the ‘Rural Local Broadcast Signal Act’.
+"This title may be cited as the 'Rural Local Broadcast Signal Act'.
 
-#### “SEC. 2002. LOCAL TELEVISION SERVICE IN UNSERVED AND UNDERSERVED MARKETS.
+#### "SEC. 2002. LOCAL TELEVISION SERVICE IN UNSERVED AND UNDERSERVED MARKETS.
 
-“(a)
+"(a)
 
-In General.—Not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\], the Federal Communications Commission (‘the Commission’) shall take all actions necessary to make a determination regarding licenses or other authorizations for facilities that will utilize, for delivering local broadcast television station signals to satellite television subscribers in unserved and underserved local television markets, spectrum otherwise allocated to commercial use.
+In General.—Not later than 1 year after the date of the enactment of this Act \[Nov. 29, 1999\], the Federal Communications Commission ('the Commission') shall take all actions necessary to make a determination regarding licenses or other authorizations for facilities that will utilize, for delivering local broadcast television station signals to satellite television subscribers in unserved and underserved local television markets, spectrum otherwise allocated to commercial use.
 
-“(b)
+"(b)
 
 Rules.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Form of business.—To the extent not inconsistent with the Communications Act of 1934 \[47 U.S.C. 151 et seq.\] and the Commission's rules, the Commission shall permit applicants under subsection (a) to engage in partnerships, joint ventures, and similar operating arrangements for the purpose of carrying out subsection (a).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Harmful interference.—The Commission shall ensure that no facility licensed or authorized under subsection (a) causes harmful interference to the primary users of that spectrum or to public safety spectrum use.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Limitation on commission.—Except as provided in paragraphs (1) and (2), the Commission may not restrict any entity granted a license or other authorization under subsection (a) from using any reasonable compression, reformatting, or other technology.
 
-“(c)
+"(c)
 
 Report.—Not later than January 1, 2001, the Commission shall report to the Agriculture, Appropriations, and the Judiciary Committees of the Senate and the House of Representatives, the Senate Committee on Commerce, Science, and Transportation, and the House of Representatives Committee on Commerce \[now Committee on Energy and Commerce\], on the extent to which licenses and other authorizations under subsection (a) have facilitated the delivery of local signals to satellite television subscribers in unserved and underserved local television markets. The report shall include—
 
-&emsp;“(1) an analysis of the extent to which local signals are being provided by direct-to-home satellite television providers and by other multichannel video program distributors;
+&emsp;"(1) an analysis of the extent to which local signals are being provided by direct-to-home satellite television providers and by other multichannel video program distributors;
 
-&emsp;“(2) an enumeration of the technical, economic, and other impediments each type of multichannel video programming distributor has encountered; and
+&emsp;"(2) an enumeration of the technical, economic, and other impediments each type of multichannel video programming distributor has encountered; and
 
-&emsp;“(3) recommendations for specific measures to facilitate the provision of local signals to subscribers in unserved and underserved markets by direct-to-home satellite television providers and by other distributors of multichannel video programming service.”
+&emsp;"(3) recommendations for specific measures to facilitate the provision of local signals to subscribers in unserved and underserved markets by direct-to-home satellite television providers and by other distributors of multichannel video programming service."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “to”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "to".</i>
 

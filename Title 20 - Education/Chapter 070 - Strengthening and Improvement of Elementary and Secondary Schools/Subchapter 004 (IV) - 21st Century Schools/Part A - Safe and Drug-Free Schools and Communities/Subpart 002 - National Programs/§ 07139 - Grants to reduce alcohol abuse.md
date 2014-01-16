@@ -20,7 +20,7 @@ To be eligible to receive a grant under subsection (a) of this section, a local 
 
 #### (c) Streamlining of process for low-income and rural LEAs
 
-The Secretary, in consultation with the Administrator of the Substance Abuse and Mental Health Services Administration, shall develop procedures to make the application process for grants under this section more user-friendly, particularly for low-income and rural local educational agencies.
+The Secretary, in consultation with the Administrator of the Substance Abuse and MentalHealth Services Administration, shall develop procedures to make the application process for grants under this section more user-friendly, particularly for low-income and rural local educational agencies.
 
 #### (d) Reservations
 

@@ -34,7 +34,7 @@ The provisions of subsection (c) of this section are enacted—
 
 #### (e) Committee reports
 
-A report filed pursuant to subsection (c)(2) of this section shall not be receivable in any courtof law to the extent such report is in compliance with such subsection.
+A report filed pursuant to subsection (c)(2) of this section shall not be receivable in any court of law to the extent such report is in compliance with such subsection.
 
 #### (f) Omitted
 

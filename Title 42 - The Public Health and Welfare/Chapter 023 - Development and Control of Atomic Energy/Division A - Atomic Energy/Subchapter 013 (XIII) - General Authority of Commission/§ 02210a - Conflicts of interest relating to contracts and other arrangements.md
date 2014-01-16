@@ -12,7 +12,7 @@ The Commission shall, by rule, require any person proposing to enter into a cont
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Nuclear Regulatory Commission shall not enter into any such contract agreement or arrangement unless it finds, after evaluating all information provided under subsection (a) of this section and any other information otherwise available to the Commission that—
+&emsp;Except as provided in paragraph (2), the Nuclear Regulatory Commission shall not enterinto any such contract agreement or arrangement unless it finds, after evaluating all information provided under subsection (a) of this section and any other information otherwise available to the Commission that—
 
 &emsp;&emsp;(A) it is unlikely that a conflict of interest would exist, or
 
@@ -32,7 +32,11 @@ The Commission shall publish rules for the implementation of this section, in ac
 
 (Aug. 1, 1946, ch. 724, title I, §170A, as added Pub. L. 95–601, §8(a), Nov. 6, 1978, 92 Stat. 2950; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944; amended Pub. L. 109–58, title VI, §639, Aug. 8, 2005, 119 Stat. 794.)
 
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, known as the Atomic Energy Act of 1954, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+
 #### Amendments
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–58 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, in introductory provisions substituted “Except as provided in paragraph (2), the Nuclear Regulatory Commission” for “The Commission”, redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, and added par. (2).
+<b>2005</b>—Subsec. (b). Pub. L. 109–58 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, in introductory provisions substituted "Except as provided in paragraph (2), the Nuclear Regulatory Commission" for "The Commission", redesignated former pars. (1) and (2) as subpars. (A) and (B) of par. (1), respectively, and added par. (2).
 

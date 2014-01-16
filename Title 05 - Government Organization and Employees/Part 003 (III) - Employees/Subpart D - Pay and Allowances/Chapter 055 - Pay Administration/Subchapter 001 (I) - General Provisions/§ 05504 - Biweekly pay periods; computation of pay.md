@@ -34,7 +34,7 @@
 
 (2) The Office of Personnel Management shall provide guidelines by regulation for exemptions to be made by the heads of agencies under subsection (c)(3). Such guidelines shall provide for such exemptions only under exceptional circumstances.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 475; Pub. L. 90–83, §1(21), Sept. 11, 1967, 81 Stat. 199; Pub. L. 95–454, title IV, §408(a)(1), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1173, 1224; Pub. L. 96–54, §2(a)(29), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–70, title III, §3302(e)(2), Sept. 27, 1979, 93 Stat. 498; Pub. L. 99–272, title XV, §15203(a), Apr. 7, 1986, 100 Stat. 334; Pub. L. 108–136, div. A, title XI, §1124, Nov. 24, 2003, 117 Stat. 1637.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 475; Pub. L. 90–83, §1(21), Sept. 11, 1967, 81 Stat. 199; Pub. L. 95–454, title IV, §408(a)(1), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1173, 1224; Pub. L. 96–54, §2(a)(29), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–70, title III, §3302(e)(2), Sept. 27, 1979, 93 Stat. 498;Pub. L. 99–272, title XV, §15203(a), Apr. 7, 1986, 100 Stat. 334; Pub. L. 108–136, div. A, title XI, §1124, Nov. 24, 2003, 117 Stat. 1637.)
 
 Historical and Revision Notes<br>1966
 

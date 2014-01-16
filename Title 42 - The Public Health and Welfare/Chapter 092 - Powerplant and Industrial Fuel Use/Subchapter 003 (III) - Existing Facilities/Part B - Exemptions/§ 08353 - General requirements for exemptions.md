@@ -18,11 +18,11 @@ Except in the case of an exemption under section 8352(b), (f), or (i) of this ti
 
 #### Amendments
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–42, §1(c)(13), struck out “or installation” after “powerplant” in introductory provisions.
+<b>1987</b>—Subsec. (a). Pub. L. 100–42, §1(c)(13), struck out "or installation" after "powerplant" in introductory provisions.
 
-Pub. L. 100–42, §1(c)(10), which directed the substitution of “or (i)” for “(i), or (j)” was executed by making the substitution for “(i) or (j)” to reflect the probable intent of Congress.
+Pub. L. 100–42, §1(c)(10), which directed the substitution of "or (i)" for "(i), or (j)" was executed by making the substitution for "(i) or (j)" to reflect the probable intent of Congress.
 
 #### Exemption for Certain Electric Powerplants as Effective Prior to 180 Days After November 9, 1978
 
-For effectiveness of exemption for certain electric powerplants as prior to 180 days after Nov. 9, 1978, see section 902(a) of Pub. L. 95–620, set out as a note under section 8301 of this title.
+For effectiveness of exemption for certain electric powerplants as prior to 180 days after Nov. 9, 1978, seesection 902(a) of Pub. L. 95–620, set out as a note under section 8301 of this title.
 

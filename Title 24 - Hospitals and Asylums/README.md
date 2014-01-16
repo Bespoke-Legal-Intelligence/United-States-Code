@@ -4,7 +4,7 @@
 | Chap. |  | Sec. |
 | :--- | :---: | ---: |
 | [<b>1.</b>](Chapter%20001%20-%20Navy%20Hospitals%2C%20Army%20and%20Navy%20Hospital%2C%20and%20Hospital%20Relief%20for%20Seamen%20and%20Others/README.md) | <b>Navy Hospitals, Army and Navy Hospital, and Hospital Relief for Seamen and Others</b> | <b>1</b> |
-| [<b>2.</b>](Chapter%20002%20-%20Soldiers%E2%80%99%20and%20Airmen%27s%20Home/README.md) | <b>Soldiers’ and Airmen's Home \[Repealed\]</b> | <b>41</b> |
+| [<b>2.</b>](Chapter%20002%20-%20Soldiers%27%20and%20Airmen%27s%20Home/README.md) | <b>Soldiers' and Airmen's Home \[Repealed\]</b> | <b>41</b> |
 | [<b>3.</b>](Chapter%20003%20-%20National%20Home%20for%20Disabled%20Volunteer%20Soldiers/README.md) | <b>National Home for Disabled Volunteer Soldiers</b> | <b>71</b> |
 | [<b>4.</b>](Chapter%20004%20-%20Saint%20Elizabeths%20Hospital/README.md) | <b>Saint Elizabeths Hospital</b> | <b>161</b> |
 | [<b>5.</b>](Chapter%20005%20-%20Columbia%20Institution%20for%20the%20Deaf/README.md) | <b>Columbia Institution for the Deaf \[Omitted\]</b> | <b>231</b> |
@@ -23,7 +23,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [Chapter 001 - Navy Hospitals, Army and Navy Hospital, and Hospital Relief for Seamen and Others](Chapter%20001%20-%20Navy%20Hospitals%2C%20Army%20and%20Navy%20Hospital%2C%20and%20Hospital%20Relief%20for%20Seamen%20and%20Others/README.md)
-- [Chapter 002 - Soldiers&#8217; and Airmen's Home](Chapter%20002%20-%20Soldiers%E2%80%99%20and%20Airmen%27s%20Home/README.md)
+- [Chapter 002 - Soldiers' and Airmen's Home](Chapter%20002%20-%20Soldiers%27%20and%20Airmen%27s%20Home/README.md)
 - [Chapter 003 - National Home for Disabled Volunteer Soldiers](Chapter%20003%20-%20National%20Home%20for%20Disabled%20Volunteer%20Soldiers/README.md)
 - [Chapter 004 - Saint Elizabeths Hospital](Chapter%20004%20-%20Saint%20Elizabeths%20Hospital/README.md)
 - [Chapter 005 - Columbia Institution for the Deaf](Chapter%20005%20-%20Columbia%20Institution%20for%20the%20Deaf/README.md)

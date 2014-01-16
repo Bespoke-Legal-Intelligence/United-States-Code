@@ -6,7 +6,7 @@ Whoever, except by lawful authority, makes or engraves any plate, stone, or othe
 
 Whoever, with intent to defraud, makes, executes, acquires, scans, captures, records, receives, transmits, reproduces, sells, or has in such person's control, custody, or possession, an analog, digital, or electronic image of any bond, certificate, obligation, or other security of any foreign government, or of any treasury note, bill, or promise to pay, lawfully issued by such foreign government and intended to circulate as money; or
 
-Whoever, except by lawful authority, prints, photographs, or makes, executes, or sells any engraving, photograph, print, or impression in the likeness of any genuine note, bond, obligation, or other security, or any part thereof, of any foreign government, bank, or corporation; or
+Whoever, except by lawful authority, prints, photographs, or makes, executes, or sells any engraving, photograph, print, or impression in the likeness of any genuine note, bond, obligation, or other security, or any part thereof, ofany foreign government, bank, or corporation; or
 
 Whoever brings into the United States any counterfeit plate, stone, or other thing, engraving, photograph, print, or other impressions of the notes, bonds, obligations, or other securities of any foreign government, bank, or corporation—
 
@@ -24,7 +24,7 @@ Changes in phraseology were made.
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–56 substituted “, stones, or analog, digital, or electronic images” for “or stones” in section catchline and “25 years” for “five years” in last par. and inserted after second par. “Whoever, with intent to defraud, makes, executes, acquires, scans, captures, records, receives, transmits, reproduces, sells, or has in such person's control, custody, or possession, an analog, digital, or electronic image of any bond, certificate, obligation, or other security of any foreign government, or of any treasury note, bill, or promise to pay, lawfully issued by such foreign government and intended to circulate as money; or”.
+<b>2001</b>—Pub. L. 107–56 substituted ", stones, or analog, digital, or electronic images" for "or stones" in section catchline and "25 years" for "five years" in last par. and inserted after second par. "Whoever, with intent to defraud, makes, executes, acquires, scans, captures, records, receives, transmits, reproduces, sells, or has in such person's control, custody, or possession, an analog, digital, or electronic image of any bond, certificate, obligation, or other security of any foreign government, or of any treasury note, bill, or promise to pay, lawfully issued by such foreign government and intended to circulate as money; or".
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000" in last par.
 

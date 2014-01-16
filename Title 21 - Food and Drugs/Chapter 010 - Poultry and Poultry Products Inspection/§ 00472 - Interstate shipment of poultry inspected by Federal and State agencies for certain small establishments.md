@@ -4,15 +4,15 @@
 
 #### (1) Appropriate State agency
 
-&emsp;The term “appropriate State agency” means a State agency described in section 454(a)(1) of this title.
+&emsp;The term "appropriate State agency" means a State agency described in section 454(a)(1) of this title.
 
 #### (2) Designated personnel
 
-&emsp;The term “designated personnel” means inspection personnel of a State agency that have undergone all necessary inspection training and certification to assist the Secretary in the administration and enforcement of this chapter, including rules and regulations issued under this chapter.
+&emsp;The term "designated personnel" means inspection personnel of a State agency that have undergone all necessary inspection training and certification to assist the Secretary in the administration and enforcement of this chapter, including rules and regulations issued under this chapter.
 
 #### (3) Eligible establishment
 
-&emsp;The term “eligible establishment” means an establishment that is in compliance with—
+&emsp;The term "eligible establishment" means an establishment that is in compliance with—
 
 &emsp;&emsp;(A) the State inspection program of the State in which the establishment is located; and
 
@@ -20,7 +20,7 @@
 
 #### (4) Poultry item
 
-&emsp;The term “poultry item” means—
+&emsp;The term "poultry item" means—
 
 &emsp;&emsp;(A) a portion of poultry; and
 
@@ -28,7 +28,7 @@
 
 #### (5) Selected establishment
 
-&emsp;The term “selected establishment” means an eligible establishment that is selected by the Secretary, in coordination with the appropriate State agency of the State in which the eligible establishment is located, under subsection (b) to ship poultry items in interstate commerce.
+&emsp;The term "selected establishment" means an eligible establishment that is selected by the Secretary, in coordination with the appropriate State agency of the State in which the eligible establishment is located, under subsection (b) to ship poultry items in interstate commerce.
 
 #### (b) Authority of Secretary to allow shipments
 
@@ -156,7 +156,7 @@ Nothing in this section limits the jurisdiction of the Secretary with respect to
 
 #### (2) Requirement
 
-&emsp;Not later than 18 months after the date of the enactment of this section, the Secretary shall promulgate final regulations in accordance with paragraph (1).
+&emsp;Not later than 18 months after the date of the enactment of this section, the Secretaryshall promulgate final regulations in accordance with paragraph (1).
 
 (Pub. L. 85–172, §31, as added Pub. L. 110–234, title XI, §11015(b), May 22, 2008, 122 Stat. 1365, and Pub. L. 110–246, §4(a), title XI, §11015(b), June 18, 2008, 122 Stat. 1664, 2127.)
 

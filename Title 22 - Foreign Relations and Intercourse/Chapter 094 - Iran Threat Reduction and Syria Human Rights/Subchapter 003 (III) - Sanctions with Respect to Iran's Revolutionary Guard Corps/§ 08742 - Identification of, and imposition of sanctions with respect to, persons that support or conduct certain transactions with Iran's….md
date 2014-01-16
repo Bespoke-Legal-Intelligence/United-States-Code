@@ -26,7 +26,7 @@
 
 #### (3) Barter transactions
 
-&emsp;For purposes of paragraph (1), the term “transaction” includes a barter transaction.
+&emsp;For purposes of paragraph (1), the term "transaction" includes a barter transaction.
 
 #### (b) Imposition of sanctions
 
@@ -58,7 +58,7 @@ The President may terminate a sanction imposed with respect to a foreign person 
 
 &emsp;&emsp;&emsp;(i) identifies the foreign person with respect to which the waiver applies;
 
-&emsp;&emsp;&emsp;(ii) describes the activity that would otherwise subject the foreign person to theimposition of sanctions under subsection (b); and
+&emsp;&emsp;&emsp;(ii) describes the activity that would otherwise subject the foreign person to the imposition of sanctions under subsection (b); and
 
 &emsp;&emsp;&emsp;(iii) sets forth the reasons for the determination.
 

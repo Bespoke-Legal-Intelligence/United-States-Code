@@ -44,7 +44,7 @@ The President shall promulgate, and may from time to time amend, regulations for
 
 #### (1) In general
 
-&emsp;The President shall establish a loan program under the Fund to provide interim assistanceto fishermen and aquaculture producer claimants during the claims procedure.
+&emsp;The President shall establish a loan program under the Fund to provide interim assistance to fishermen and aquaculture producer claimants during the claims procedure.
 
 #### (2) Eligibility for loan
 
@@ -80,7 +80,7 @@ This Act, referred to in subsec. (e), is Pub. L. 101–380, Aug. 18, 1990, 104 S
 
 <b>2004</b>—Subsec. (f). Pub. L. 108–293 added subsec.(f).
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–324 substituted “section, including a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled,” for “section”.
+<b>1996</b>—Subsec. (d). Pub. L. 104–324 substituted "section, including a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled," for "section".
 
 #### Delegation of Functions
 

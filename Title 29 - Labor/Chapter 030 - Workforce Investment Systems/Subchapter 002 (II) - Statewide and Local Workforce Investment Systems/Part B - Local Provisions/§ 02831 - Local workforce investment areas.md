@@ -56,7 +56,7 @@
 
 #### (D) Performed successfully
 
-&emsp;&emsp;In this paragraph, the term “performed successfully” means that the area involved met or exceeded the performance standards for activities administered in the area that—
+&emsp;&emsp;In this paragraph, the term "performed successfully" means that the area involved met or exceeded the performance standards for activities administered in the area that—
 
 &emsp;&emsp;&emsp;(i) are established by the Secretary for each year and modified by the adjustment methodology of the State (used to account for differences in economic conditions, participant characteristics, and combination of services provided from the combination assumed for purposes of the established standards of the Secretary); and
 
@@ -72,7 +72,7 @@
 
 #### (E) Sustained the fiscal integrity
 
-&emsp;&emsp;In this paragraph, the term “sustained the fiscal integrity”, used with respect to funds used by a service delivery area or local area, means that the Secretary has not made a final determination during any of the last 3 years for which data are available, prior to the date of the designation request involved, that either the grant recipient or the administrative entity of the area misexpended the funds due to willful disregard of the requirements of the Act involved, gross negligence, or failure to observe accepted standards of administration.
+&emsp;&emsp;In this paragraph, the term "sustained the fiscal integrity", used with respect to funds used by a service delivery area or local area, means that the Secretary has not made a final determination during any of the last 3 years for which data are available, prior to the date of the designation request involved, that either the grant recipient or the administrative entity of the area misexpended the funds due to willful disregard of the requirements of the Act involved, gross negligence, or failure to observe accepted standards of administration.
 
 #### (4) Designation on recommendation of State board
 
@@ -80,7 +80,7 @@
 
 #### (5) Appeals
 
-&emsp;A unit of general local government (including a combination of such units) or grant recipient that requests but is not granted designation of an area as a local area under paragraph (2) or (3) may submit an appeal to the State board under an appeal process established in the State plan. If the appeal does not result in such a designation, the Secretary, after receiving a request for review from the unit or grant recipient and on determining that the unit or grant recipient was not accorded procedural rights under the appeal process established in the State plan or that the area meets the requirements of paragraph (2) or (3), as appropriate, may require that the area be designated as a local area under such paragraph.
+&emsp;A unit of general local government (including a combination of such units) or grant recipient that requests but is not granted designation of an area as a local area under paragraph (2) or (3) may submit an appeal to the State board under an appeal process established in the State plan. If the appeal does not result in such a designation, the Secretary,after receiving a request for review from the unit or grant recipient and on determining that the unit or grant recipient was not accorded procedural rights under the appeal process established in the State plan or that the area meets the requirements of paragraph (2) or (3), as appropriate, may require that the area be designated as a local area under such paragraph.
 
 #### (b) Small States
 
@@ -110,11 +110,11 @@ The Governor of any State that was a single State service delivery area under th
 
 #### (A) Designated region
 
-&emsp;&emsp;The term “designated region” means a combination of local areas that are partly or completely in a single labor market area, economic development region, or other appropriate contiguous subarea of a State, that is designated by the State, except as provided in paragraph (4).
+&emsp;&emsp;The term "designated region" means a combination of local areas that are partly or completely in a single labor market area, economic development region, or other appropriate contiguous subarea of a State, that is designated by the State, except as provided in paragraph (4).
 
 #### (B) Local board for a designated region
 
-&emsp;&emsp;The term “local board for a designated region” means a local board for a local area in a designated region.
+&emsp;&emsp;The term "local board for a designated region" means a local board for a local area in a designated region.
 
 (Pub. L. 105–220, title I, §116, Aug. 7, 1998, 112 Stat. 951; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(3)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
 
@@ -122,9 +122,9 @@ The Governor of any State that was a single State service delivery area under th
 
 The Job Training Partnership Act, referred to in subsecs. (a)(2)(B), (C), (3) and (b), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was classified generally to chapter 19 (§1501 et seq.) of this title, prior to repeal by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059. Part A of title II and title III of the Act were classified generally to part A (§1601 et seq.) of subchapter II and subchapter III (§1651 et seq.), respectively, of chapter 19 of this title, prior to repeal by Pub. L. 105–220. Section 101 of the Act was classified to section 1511 of this title, prior to repeal by Pub. L. 105–220. For complete classification of this Act to the Code, see Tables.
 
-This chapter, referred to in subsec. (b), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (b), was in the original "this title" meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(3)(D)(ii)(I)(aa). Pub. L. 105–277 substituted “; and” for “; or”.
+<b>1998</b>—Subsec. (a)(3)(D)(ii)(I)(aa). Pub. L. 105–277 substituted "; and" for "; or".
 

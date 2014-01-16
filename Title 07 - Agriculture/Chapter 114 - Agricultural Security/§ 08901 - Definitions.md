@@ -4,11 +4,11 @@ In this chapter:
 
 #### (1) Agent
 
-&emsp;The term “agent” means a nuclear, biological, chemical, or radiological substance that causes agricultural disease or the adulteration of products regulated by the Secretary of Agriculture under any provision of law.
+&emsp;The term "agent" means a nuclear, biological, chemical, or radiological substance that causes agricultural disease or the adulteration of products regulated by the Secretary of Agriculture under any provision of law.
 
 #### (2) Agricultural biosecurity
 
-&emsp;The term “agricultural biosecurity” means protection from an agent that poses a threat to—
+&emsp;The term "agricultural biosecurity" means protection from an agent that poses a threat to—
 
 &emsp;&emsp;(A) plant or animal health;
 
@@ -18,7 +18,7 @@ In this chapter:
 
 #### (3) Agricultural countermeasure
 
-&emsp;The term “agricultural countermeasure”—
+&emsp;The term "agricultural countermeasure"—
 
 &emsp;&emsp;(A) means a product, practice, or technology that is intended to enhance or maintain the agricultural biosecurity of the United States; and
 
@@ -26,15 +26,15 @@ In this chapter:
 
 #### (4) Agricultural disease
 
-&emsp;The term “agricultural disease” has the meaning given the term by the Secretary.
+&emsp;The term "agricultural disease" has the meaning given the term by the Secretary.
 
 #### (5) Agricultural disease emergency
 
-&emsp;The term “agricultural disease emergency” means an incident of agricultural disease that requires prompt action to prevent significant damage to people, plants, or animals.
+&emsp;The term "agricultural disease emergency" means an incident of agricultural disease that requires prompt action to prevent significant damage to people, plants, or animals.
 
 #### (6) Agroterrorist act
 
-&emsp;The term “agroterrorist act” means an act that—
+&emsp;The term "agroterrorist act" means an act that—
 
 &emsp;&emsp;(A) causes or attempts to cause—
 
@@ -50,15 +50,15 @@ In this chapter:
 
 #### (7) Animal
 
-&emsp;The term “animal” has the meaning given the term in section 8302 of this title.
+&emsp;The term "animal" has the meaning given the term in section 8302 of this title.
 
 #### (8) Department
 
-&emsp;The term “Department” means the Department of Agriculture.
+&emsp;The term "Department" means the Department of Agriculture.
 
 #### (9) Development
 
-&emsp;The term “development” means—
+&emsp;The term "development" means—
 
 &emsp;&emsp;(A) research leading to the identification of products or technologies intended for use as agricultural countermeasures to protect animal health;
 
@@ -74,11 +74,11 @@ In this chapter:
 
 #### (10) Plant
 
-&emsp;The term “plant” has the meaning given the term in section 7702 of this title.
+&emsp;The term "plant" has the meaning given the term in section 7702 of this title.
 
 #### (11) Qualified agricultural countermeasure
 
-&emsp;The term “qualified agricultural countermeasure” means an agricultural countermeasure that the Secretary, in consultation with the Secretary of Homeland Security, determines to be a priority in order to address an agricultural biosecurity threat.
+&emsp;The term "qualified agricultural countermeasure" means an agricultural countermeasure that the Secretary, in consultation with the Secretary of Homeland Security, determines to be a priority in order to address an agricultural biosecurity threat.
 
 (Pub. L. 110–234, title XIV, §14102, May 22, 2008, 122 Stat. 1453; Pub. L. 110–246, §4(a), title XIV, §14102, June 18, 2008, 122 Stat. 1664, 2215.)
 
@@ -92,11 +92,11 @@ Enactment of this chapter and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Short Title
 
-Pub. L. 110–234, title XIV, §14101, May 22, 2008, 122 Stat. 1453, and Pub. L. 110–246, §4(a), title XIV, §14101, June 18, 2008, 122 Stat. 1664, 2215, provided that: “This subtitle \[subtitle B (§§14101–14122) of title XIV of Pub. L. 110–246, enacting this chapter\] may be cited as the ‘Agricultural Security Improvement Act of 2008’.”
+Pub. L. 110–234, title XIV, §14101, May 22, 2008, 122 Stat. 1453, and Pub. L. 110–246, §4(a), title XIV, §14101, June 18, 2008, 122 Stat. 1664, 2215, provided that: "This subtitle \[subtitle B (§§14101–14122) of title XIV of Pub. L. 110–246, enacting this chapter\] may be cited as the 'Agricultural Security Improvement Act of 2008'."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 
-#### Definition of “Secretary”
+#### Definition of "Secretary"
 
-“Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
+"Secretary" as meaning the Secretary of Agriculture, see section 8701 of this title.
 

@@ -18,7 +18,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Examiner.—The term “examiner” means any person—
+Examiner.—The term "examiner" means any person—
 
 &emsp;&emsp;(A) appointed by a Federal financial institution regulatory agency or pursuant to the laws of any State to examine a financial institution; or
 
@@ -26,7 +26,7 @@ Examiner.—The term “examiner” means any person—
 
 &emsp;(2)
 
-Federal financial institution regulatory agency.—The term “Federal financial institution regulatory agency” means—
+Federal financial institution regulatory agency.—The term "Federal financial institution regulatory agency" means—
 
 &emsp;&emsp;(A) the Office of the Comptroller of the Currency;
 
@@ -44,13 +44,13 @@ Federal financial institution regulatory agency.—The term “Federal financial
 
 &emsp;(3)
 
-Financial institution.—The term “financial institution” does not include a credit union, a Federal Reserve Bank, a Federal home loan bank, or a depository institution holding company.
+Financial institution.—The term "financial institution" does not include a credit union, a Federal Reserve Bank, a Federal home loan bank, or a depository institution holding company.
 
 &emsp;(4)
 
-Loan.—The term “loan” does not include any credit card account established under an open end consumer credit plan or a loan secured by residential real property that is the principal residence of the examiner, if—
+Loan.—The term "loan" does not include any credit card account established under an open end consumer credit plan or a loan secured by residential real property that is the principal residence of the examiner, if—
 
-&emsp;&emsp;(A) the applicant satisfies any financial requirements for the credit card account or residential real property loan that are generally applicable to all applicants for the same type of credit card account or residential real property loan;
+&emsp;&emsp;(A) the applicant satisfies any financial requirements for the credit card account orresidential real property loan that are generally applicable to all applicants for the same type of credit card account or residential real property loan;
 
 &emsp;&emsp;(B) the terms and conditions applicable with respect to such account or residential real property loan, and any credit extended to the examiner under such account or residential real property loan, are no more favorable generally to the examiner than the terms and conditions that are generally applicable to credit card accounts or residential real property loans offered by the same financial institution to other borrowers cardholders <sup>1</sup> in comparable circumstances under open end consumer credit plans or for residential real property loans; and
 
@@ -66,9 +66,9 @@ Another prior section 212, act June 25, 1948, ch. 645, 62 Stat. 693, related to 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(2)(C) to (H). Pub. L. 111–203 redesignated subpars. (D) to (H) as (C) to (G), respectively, and struck out former subpar. (C) which read as follows: “the Office of Thrift Supervision;”.
+<b>2010</b>—Subsec. (c)(2)(C) to (H). Pub. L. 111–203 redesignated subpars. (D) to (H) as (C) to (G), respectively, and struck out former subpar. (C) which read as follows: "the Office of Thrift Supervision;".
 
-<b>2008</b>—Subsec. (c)(2)(E). Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
+<b>2008</b>—Subsec. (c)(2)(E). Pub. L. 110–289 substituted "Federal Housing Finance Agency" for "Federal Housing Finance Board".
 
 #### Effective Date of 2010 Amendment
 

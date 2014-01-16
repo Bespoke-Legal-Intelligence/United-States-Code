@@ -16,9 +16,9 @@ Section 2633 is restated, without substantive change, to conform to the style ad
 
 #### Amendments
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–258 substituted “section 1301(a) of title 31” for “section 3678 of the Revised Statutes (31 U.S.C. 628)”.
+<b>1982</b>—Subsec. (a). Pub. L. 97–258 substituted "section 1301(a) of title 31" for "section 3678 of the Revised Statutes (31 U.S.C. 628)".
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted “section 3678 of the Revised Statutes (31 U.S.C. 628)” for “section 628 of title 31”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–513 substituted "section 3678 of the Revised Statutes (31 U.S.C. 628)" for "section 628 of title 31".
 
 <b>1962</b>—Pub. L. 87–651 amended section generally without substantive change to conform to the style adopted for the revision of this title.
 

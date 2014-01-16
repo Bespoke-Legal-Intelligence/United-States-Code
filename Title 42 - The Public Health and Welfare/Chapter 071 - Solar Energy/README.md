@@ -16,7 +16,7 @@
 | [5510\.](Subchapter%20001%20%28I%29%20-%20Heating%20and%20Cooling/%C2%A7%2005510%20-%20Dissemination%20of%20information%20to%20promote%20practical%20use%20of%20solar%20heating%20and%20cooling%20technologies.md) | Dissemination of information to promote practical use of solar heating and cooling technologies. |
 | [5511\.](Subchapter%20001%20%28I%29%20-%20Heating%20and%20Cooling/%C2%A7%2005511%20-%20Federally%20assisted%20or%20federally%20constructed%20housing.md) | Federally assisted or federally constructed housing. |
 | [5511a.](Subchapter%20001%20%28I%29%20-%20Heating%20and%20Cooling/%C2%A7%2005511a%20-%20Solar%20Assistance%20Financing%20Entity.md) | Solar Assistance Financing Entity. |
-| [5512\.](Subchapter%20001%20%28I%29%20-%20Heating%20and%20Cooling/%C2%A7%2005512%20-%20Small%20business%20concerns%E2%80%99%20opportunities%20to%20participate%20in%20programs.md) | Small business concerns’ opportunities to participate in programs. |
+| [5512\.](Subchapter%20001%20%28I%29%20-%20Heating%20and%20Cooling/%C2%A7%2005512%20-%20Small%20business%20concerns%27%20opportunities%20to%20participate%20in%20programs.md) | Small business concerns' opportunities to participate in programs. |
 | [5513\.](Subchapter%20001%20%28I%29%20-%20Heating%20and%20Cooling/%C2%A7%2005513%20-%20Priorities%20and%20criteria%20of%20demonstration%20programs.md) | Priorities and criteria of demonstration programs. |
 | [5514\.](Subchapter%20001%20%28I%29%20-%20Heating%20and%20Cooling/%C2%A7%2005514%20-%20Regulations.md) | Regulations. |
 | [5515\.](Subchapter%20001%20%28I%29%20-%20Heating%20and%20Cooling/%C2%A7%2005515%20-%20Use%20of%20publicly%20assisted%20housing%20by%20Secretary%20in%20demonstrations.md) | Use of publicly assisted housing by Secretary in demonstrations. |

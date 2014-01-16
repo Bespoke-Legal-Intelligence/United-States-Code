@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §503, 63 Stat. 827.
 
-The words “or which hereafter may be” are omitted as surplusage. The words “a person designated by him to investigate the matter” are substituted for the words “such person as he may designate for the purpose”.
+The words "or which hereafter may be" are omitted as surplusage. The words "a person designated by him to investigate the matter" are substituted for the words "such person as he may designate for the purpose".
 
 #### References in Text
 

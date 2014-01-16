@@ -26,13 +26,13 @@ Each State technical committee shall provide public notice of, and permit public
 
 #### (2) Local working groups
 
-&emsp;For purposes of the Federal Advisory Committee Act (5 U.S.C. App.), any local working group established under this subchapter shall be considered to be a subcommittee of the applicable State technical committee.
+&emsp;For purposes of the Federal Advisory Committee Act (5 U.S.C. App.), any local workinggroup established under this subchapter shall be considered to be a subcommittee of the applicable State technical committee.
 
 (Pub. L. 99–198, title XII, §1262, as added Pub. L. 101–624, title XIV, §1446, Nov. 28, 1990, 104 Stat. 3604; amended Pub. L. 103–354, title II, §246(f)(3), Oct. 13, 1994, 108 Stat. 3225; Pub. L. 104–127, title III, §342(b), Apr. 4, 1996, 110 Stat. 1009; Pub. L. 110–234, title II, §2711, May 22, 2008, 122 Stat. 1084; Pub. L. 110–246, §4(a), title II, §2711, June 18, 2008, 122 Stat. 1664, 1812.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (c), was in the original “this title”, meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
+This chapter, referred to in subsecs. (a) to (c), was in the original "this title", meaning title XII of Pub. L. 99–198, which enacted this chapter and former section 2005a of this title and amended sections 590g, 2004, 2005, 2006, and 2009 of this title, sections 4207 and 4209 of Title 7, Agriculture, and provisions set out as a note under section 1981 of Title 7.
 
 The Federal Advisory Committee Act, referred to in subsec. (d), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -42,13 +42,13 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §2711, which directed the general amendment of section 1262 of the “Farm Security Act of 1985”, was executed by making the amendment to this section, which is section 1262 of the Food Security Act of 1985, to reflect the probable intent of Congress. Prior to amendment, section consisted of subsecs. (a) to (d) which related to general responsibilities of committees established under section 3861 of this title, wetland and wildlife habitat protection guidelines, provision of assistance and recommendations with respect to enumerated technical aspects, authority of committees, and FACA requirements.
+<b>2008</b>—Pub. L. 110–246, §2711, which directed the general amendment of section 1262 of the "Farm Security Act of 1985", was executed by making the amendment to this section, which is section 1262 of the Food Security Act of 1985, to reflect the probable intent of Congress. Prior to amendment, section consisted of subsecs. (a) to (d) which related to general responsibilities of committees established under section 3861 of this title, wetland and wildlife habitat protection guidelines, provision of assistance and recommendations with respect to enumerated technical aspects, authority of committees, and FACA requirements.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–127, §342(b)(1), inserted at end “Each State technical committee shall provide public notice of, and permit public attendance at meetings considering, issues of concern related to carrying out this chapter.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §342(b)(1), inserted at end "Each State technical committee shall provide public notice of, and permit public attendance at meetings considering, issues of concern related to carrying out this chapter."
 
-Subsec. (b)(1). Pub. L. 104–127, §342(b)(2), inserted at end “Each State technical committee shall establish criteria and guidelines for evaluating petitions by agricultural producers regarding new conservation practices and systems not already described in field office technical guides.”
+Subsec. (b)(1). Pub. L. 104–127, §342(b)(2), inserted at end "Each State technical committee shall establish criteria and guidelines for evaluating petitions by agricultural producers regarding new conservation practices and systems not already described in field office technical guides."
 
-Subsec. (c)(7) to (9). Pub. L. 104–127, §342(b)(3), struck out “and” at end of par. (7), added par. (8), and redesignated former par. (8) as (9).
+Subsec. (c)(7) to (9). Pub. L. 104–127, §342(b)(3), struck out "and" at end of par. (7), added par. (8), and redesignated former par. (8) as (9).
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–354 added subsec. (e).
 
@@ -58,5 +58,5 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Public Notice and Comment for Revisions to Certain State Technical Guides
 
-Pub. L. 104–127, title III, §343, Apr. 4, 1996, 110 Stat. 1009, provided that: “After the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall provide for public notice and comment under section 553 of title 5, United States Code, with regard to any future revisions to those provisions of the Natural Resources Conservation Service State technical guides that are used to carry out subtitles A, B, and C of titleXII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq. \[3811 et seq., 3821 et seq.\]).”
+Pub. L. 104–127, title III, §343, Apr. 4, 1996, 110 Stat. 1009, provided that: "After the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall provide for public notice and comment under section 553 of title 5, United States Code, with regard to any future revisions to those provisions of the Natural Resources Conservation Service State technical guides that are used to carry out subtitles A, B, and C of title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq. \[3811 et seq., 3821 et seq.\])."
 

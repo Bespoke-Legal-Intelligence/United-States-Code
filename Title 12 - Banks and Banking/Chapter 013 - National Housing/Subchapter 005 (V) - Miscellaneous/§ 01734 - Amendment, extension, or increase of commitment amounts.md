@@ -6,7 +6,7 @@ At any time prior to final endorsement for insurance, the Secretary, in his disc
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–479 struck out “; mortgage conditions” after “amounts” in section catchline.
+<b>1984</b>—Pub. L. 98–479 struck out "; mortgage conditions" after "amounts" in section catchline.
 
-<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner”.
+<b>1967</b>—Pub. L. 90–19 substituted "Secretary" for "Commissioner".
 

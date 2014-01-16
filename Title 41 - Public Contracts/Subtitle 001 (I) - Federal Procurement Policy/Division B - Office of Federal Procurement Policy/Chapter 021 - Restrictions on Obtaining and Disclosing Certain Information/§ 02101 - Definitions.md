@@ -4,11 +4,11 @@ In this chapter:
 
 &emsp;(1)
 
-Contracting officer.—The term “contracting officer” means an individual who, by appointment in accordance with applicable regulations, has the authority to enter into a Federal agency procurement contract on behalf of the Government and to make determinations and findings with respect to the contract.
+Contracting officer.—The term "contracting officer" means an individual who, by appointment in accordance with applicable regulations, has the authority to enter into a Federal agency procurement contract on behalf of the Government and to make determinations and findings with respect to the contract.
 
 &emsp;(2)
 
-Contractor bid or proposal information.—The term “contractor bid or proposal information” means any of the following information submitted to a Federal agency as part of, or in connection with, a bid or proposal to enter into a Federal agency procurement contract, if that information previously has not been made available to the public or disclosed publicly:
+Contractor bid or proposal information.—The term "contractor bid or proposal information" means any of the following information submitted to a Federal agency as part of, or in connection with, a bid or proposal to enter into a Federal agency procurement contract, if that information previously has not been made available to the public or disclosed publicly:
 
 &emsp;&emsp;(A) Cost or pricing data (as defined in section 2306a(h) of title 10 with respect to procurements subject to that section and section 3501(a) of this title with respect to procurements subject to that section).
 
@@ -16,19 +16,19 @@ Contractor bid or proposal information.—The term “contractor bid or proposal
 
 &emsp;&emsp;(C) Proprietary information about manufacturing processes, operations, or techniques marked by the contractor in accordance with applicable law or regulation.
 
-&emsp;&emsp;(D) Information marked by the contractor as “contractor bid or proposal information”, in accordance with applicable law or regulation.
+&emsp;&emsp;(D) Information marked by the contractor as "contractor bid or proposal information", in accordance with applicable law or regulation.
 
 &emsp;(3)
 
-Federal agency.—The term “Federal agency” has the meaning given that term in section 102 of title 40.
+Federal agency.—The term "Federal agency" has the meaning given that term in section 102 of title 40.
 
 &emsp;(4)
 
-Federal agency procurement.—The term “Federal agency procurement” means the acquisition (by using competitive procedures and awarding a contract) of goods or services (including construction) from non-Federal sources by a Federal agency using appropriated funds.
+Federal agency procurement.—The term "Federal agency procurement" means the acquisition (by using competitive procedures and awarding a contract) of goods or services (including construction) from non-Federal sources by a Federal agency using appropriated funds.
 
 &emsp;(5)
 
-Official.—The term “official” means—
+Official.—The term "official" means—
 
 &emsp;&emsp;(A) an officer, as defined in section 2104 of title 5;
 
@@ -38,11 +38,11 @@ Official.—The term “official” means—
 
 &emsp;(6)
 
-Protest.—The term “protest” means a written objection by an interested party to the award or proposed award of a Federal agency procurement contract, pursuant to subchapter V of chapter 35 of title 31.
+Protest.—The term "protest" means a written objection by an interested party to the award or proposed award of a Federal agency procurement contract, pursuant to subchapter V of chapter 35 of title 31.
 
 &emsp;(7)
 
-Source selection information.—The term “source selection information” means any of the following information prepared for use by a Federal agency to evaluate a bid or proposal to enter into a Federal agency procurement contract, if that information previously has not been made available to the public or disclosed publicly:
+Source selection information.—The term "source selection information" means any of the following information prepared for use by a Federal agency to evaluate a bid or proposal to enter into a Federal agency procurement contract, if that information previously has not been made available to the public or disclosed publicly:
 
 &emsp;&emsp;(A) Bid prices submitted in response to a Federal agency solicitation for sealed bids, or lists of those bid prices before public bid opening.
 
@@ -62,7 +62,7 @@ Source selection information.—The term “source selection information” mean
 
 &emsp;&emsp;(I) Reports and evaluations of source selection panels, boards, or advisory councils.
 
-&emsp;&emsp;(J) Other information marked as “source selection information” based on a case-by-case determination by the head of the agency, the head's designee, or the contracting officer that its disclosure would jeopardize the integrity or successful completion of the Federal agency procurement to which the information relates.
+&emsp;&emsp;(J) Other information marked as "source selection information" based on a case-by-case determination by the head of the agency, the head's designee, or the contracting officer that its disclosure would jeopardize the integrity or successful completion of the Federal agency procurement to which the information relates.
 
 (Pub. L. 111–350, §3, Jan. 4, 2011, 124 Stat. 3727.)
 

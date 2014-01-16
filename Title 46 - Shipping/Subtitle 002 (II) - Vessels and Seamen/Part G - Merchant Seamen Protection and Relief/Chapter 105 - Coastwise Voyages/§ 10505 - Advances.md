@@ -34,9 +34,9 @@ Section 10505 prohibits any person from paying a seaman on a coastwise voyage ad
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a)(2). Pub. L. 103–206, §414(1), substituted “$5,000” for “$100”.
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–206, §414(1), substituted "$5,000" for "$100".
 
-Subsec. (b). Pub. L. 103–206, §414(2), substituted “$5,000” for “$500”.
+Subsec. (b). Pub. L. 103–206, §414(2), substituted "$5,000" for "$500".
 
-<b>1986</b>—Subsec. (d). Pub. L. 99–640 struck out last sentence which read as follows: “However, this section applies to a vessel taking oysters.”
+<b>1986</b>—Subsec. (d). Pub. L. 99–640 struck out last sentence which read as follows: "However, this section applies to a vessel taking oysters."
 

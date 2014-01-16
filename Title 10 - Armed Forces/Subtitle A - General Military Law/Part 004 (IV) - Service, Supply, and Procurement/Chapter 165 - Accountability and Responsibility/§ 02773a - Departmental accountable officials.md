@@ -2,7 +2,7 @@
 
 (a)
 
-Designation by Secretary of Defense.—The Secretary of Defense may designate any civilian employee of the Department of Defense or member of the armed forces under the Secretary's jurisdiction who is described in subsection (b) as an employee or member who, in addition to any other potential accountability, may be held accountable through personal monetary liability for an illegal, improper, or incorrect payment made by the Department of Defense described in subsection (c). Any such designation shall be in writing. Any employee or member who is so designated may be referred to as a “departmental accountable official”.
+Designation by Secretary of Defense.—The Secretary of Defense may designate any civilian employee of the Department of Defense or member of the armed forces under the Secretary's jurisdiction who is described in subsection (b) as an employee or member who, in addition to any other potential accountability, may be held accountable through personal monetary liability for an illegal, improper, or incorrect payment made by the Department of Defense described in subsection (c). Any such designation shall be in writing. Any employee or member who is so designated may be referred to as a "departmental accountable official".
 
 (b)
 
@@ -26,11 +26,11 @@ Pecuniary Liability.—(1) The Secretary of Defense may subject a departmental a
 
 (d)
 
-Certifying Official Defined.—In this section, the term “certifying official” means an employee who has the responsibilities specified in section 3528(a) of title 31.
+Certifying Official Defined.—In this section, the term "certifying official" means an employee who has the responsibilities specified in section 3528(a) of title 31.
 
 (Added Pub. L. 107–314, div. A, title X, §1005(a), Dec. 2, 2002, 116 Stat. 2631; amended Pub. L. 109–163, div. A, title X, §1056(c)(8), Jan. 6, 2006, 119 Stat. 3440.)
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163 inserted “by” after “incorrect payment made”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 inserted "by" after "incorrect payment made".
 

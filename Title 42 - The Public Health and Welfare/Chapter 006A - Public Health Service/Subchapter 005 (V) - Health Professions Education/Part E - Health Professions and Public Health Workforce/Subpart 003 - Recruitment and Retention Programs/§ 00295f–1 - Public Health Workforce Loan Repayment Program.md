@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish the Public Health Workforce Loan Repayment Program (referred to in this section as the “Program”) to assure an adequate supply of public health professionals to eliminate critical public health workforce shortages in Federal, State, local, and tribal public health agencies.
+The Secretary shall establish the Public Health Workforce Loan Repayment Program (referred to in this section as the "Program") to assure an adequate supply of public health professionals to eliminate critical public health workforce shortages in Federal, State, local, and tribal public health agencies.
 
 #### (b) Eligibility
 
@@ -20,15 +20,15 @@ To be eligible to participate in the Program, an individual shall—
 
 &emsp;(B) execute a written contract as required in subsection (c); and
 
-&emsp;(4) not have received, for the same service, a reduction of loan obligations under section1087e(m), 1078–10, 1078–11, 1078–12, or 1087j of title 20.
+&emsp;(4) not have received, for the same service, a reduction of loan obligations under section 1087e(m), 1078–10, 1078–11, 1078–12, or 1087j of title 20.
 
 #### (c) Contract
 
-The written contract (referred to in this section as the “written contract”) between the Secretary and an individual shall contain—
+The written contract (referred to in this section as the "written contract") between the Secretary and an individual shall contain—
 
 &emsp;(1) an agreement on the part of the Secretary that the Secretary will repay on behalf of the individual loans incurred by the individual in the pursuit of the relevant degree or certificate in accordance with the terms of the contract;
 
-&emsp;(2) an agreement on the part of the individual that the individual will serve in the full-time employment of a Federal, State, local, or tribal public health agency or a related fellowship program in a position related to the course of study or program for which the contract was awarded for a period of time (referred to in this section as the “period of obligated service”) equal to the greater of—
+&emsp;(2) an agreement on the part of the individual that the individual will serve in the full-time employment of a Federal, State, local, or tribal public health agency or a related fellowship program in a position related to the course of study or program for which the contract was awarded for a period of time (referred to in this section as the "period of obligated service") equal to the greater of—
 
 &emsp;&emsp;(A) 3 years; or
 
@@ -66,7 +66,7 @@ An individual who fails to comply with the contract entered into under subsectio
 
 #### (g) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $195,000,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2015.
+There is authorized to be appropriated to carry out this section $195,000,000 for fiscal year2010, and such sums as may be necessary for each of fiscal years 2011 through 2015.
 
 (July 1, 1944, ch. 373, title VII, §776, as added Pub. L. 111–148, title V, §5204, Mar. 23, 2010, 124 Stat. 609.)
 

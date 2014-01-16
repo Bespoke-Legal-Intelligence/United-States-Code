@@ -10,9 +10,9 @@ Act Feb. 20, 1905, ch. 592, §22, 33 Stat. 729.
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–113 substituted “Director” for “Commissioner”.
+<b>1999</b>—Pub. L. 106–113 substituted "Director" for "Commissioner".
 
-<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+<b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
 #### Effective Date of 1999 Amendment
 

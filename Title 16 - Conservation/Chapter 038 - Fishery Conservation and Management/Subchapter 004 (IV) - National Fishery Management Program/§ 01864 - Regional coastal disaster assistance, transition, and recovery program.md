@@ -44,7 +44,7 @@ Within 2 months after a catastrophic regional fishery disaster the Secretary sha
 
 #### (d) Catastrophic regional fishery disaster defined
 
-In this section the term “catastrophic regional fishery disaster” means a natural disaster, including a hurricane or tsunami, or a regulatory closure (including regulatory closures resulting from judicial action) to protect human health or the marine environment, that—
+In this section the term "catastrophic regional fishery disaster" means a natural disaster, including a hurricane or tsunami, or a regulatory closure (including regulatory closures resulting from judicial action) to protect human health or the marine environment, that—
 
 &emsp;(1) results in economic losses to coastal or fishing communities;
 
@@ -58,37 +58,37 @@ In this section the term “catastrophic regional fishery disaster” means a na
 
 Pub. L. 109–479, title I, §115, Jan. 12, 2007, 120 Stat. 3604, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of Commerce shall establish an assistance program for the Gulf of Mexico commercial and recreational fishing industry.
 
-“(b)
+"(b)
 
 Allocation of Funds.—Under the program, the Secretary shall allocate funds appropriated to carry out the program among the States of Alabama, Louisiana, Florida, Mississippi, and Texas in proportion to the percentage of the fishery (including crawfish) catch landed by each State before August 29, 2005, except that the amount allocated to Florida shall be based exclusively on the proportion of such catch landed by the Florida Gulf Coast fishery.
 
-“(c)
+"(c)
 
 Use of Funds.—Of the amounts made available to each State under the program—
 
-&emsp;“(1) 2 percent shall be retained by the State to be used for the distribution of additional payments to fishermen with a demonstrated record of compliance with turtle excluder and bycatch reduction device regulations; and
+&emsp;"(1) 2 percent shall be retained by the State to be used for the distribution of additional payments to fishermen with a demonstrated record of compliance with turtle excluder and bycatch reduction device regulations; and
 
-&emsp;“(2) the remainder of the amounts shall be used for—
+&emsp;"(2) the remainder of the amounts shall be used for—
 
-&emsp;&emsp;“(A) personal assistance, with priority given to food, energy needs, housing assistance, transportation fuel, and other urgent needs;
+&emsp;&emsp;"(A) personal assistance, with priority given to food, energy needs, housing assistance, transportation fuel, and other urgent needs;
 
-&emsp;&emsp;“(B) assistance for small businesses, including fishermen, fish processors, and related businesses serving the fishing industry;
+&emsp;&emsp;"(B) assistance for small businesses, including fishermen, fish processors, and related businesses serving the fishing industry;
 
-&emsp;&emsp;“(C) domestic product marketing and seafood promotion;
+&emsp;&emsp;"(C) domestic product marketing and seafood promotion;
 
-&emsp;&emsp;“(D) State seafood testing programs;
+&emsp;&emsp;"(D) State seafood testing programs;
 
-&emsp;&emsp;“(E) the development of limited entry programs for the fishery;
+&emsp;&emsp;"(E) the development of limited entry programs for the fishery;
 
-&emsp;&emsp;“(F) funding or other incentives to ensure widespread and proper use of turtle excluder devices and bycatch reduction devices in the fishery; and
+&emsp;&emsp;"(F) funding or other incentives to ensure widespread and proper use of turtle excluder devices and bycatch reduction devices in the fishery; and
 
-&emsp;&emsp;“(G) voluntary capacity reduction programs for shrimp fisheries under limited access programs.
+&emsp;&emsp;"(G) voluntary capacity reduction programs for shrimp fisheries under limited access programs.
 
-“(d)
+"(d)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Secretary of Commerce $17,500,000 for each of fiscal years 2007 through 2012 to carry out this section.”
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary of Commerce $17,500,000 for each of fiscal years 2007 through 2012 to carry out this section."
 

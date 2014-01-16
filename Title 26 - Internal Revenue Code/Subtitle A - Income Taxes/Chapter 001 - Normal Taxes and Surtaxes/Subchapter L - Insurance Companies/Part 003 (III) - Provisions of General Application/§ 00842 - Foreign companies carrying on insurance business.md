@@ -30,11 +30,11 @@ If a foreign company carrying on an insurance business within the United States 
 
 #### (i) Companies taxable under part I
 
-&emsp;&emsp;&emsp;In the case of a company taxable under part I, the term “total insurance liabilities” means the sum of the total reserves (as defined in section 816(c)) plus (to the extent not included in total reserves) the items referred to in paragraphs (3), (4), (5), and (6) of section 807(c).
+&emsp;&emsp;&emsp;In the case of a company taxable under part I, the term "total insurance liabilities" means the sum of the total reserves (as defined in section 816(c)) plus (to the extent not included in total reserves) the items referred to in paragraphs (3), (4), (5), and (6) of section 807(c).
 
 #### (ii) Companies taxable under part II
 
-&emsp;&emsp;&emsp;In the case of a company taxable under part II, the term “total insurance liabilities” means the sum of unearned premiums and unpaid losses.
+&emsp;&emsp;&emsp;In the case of a company taxable under part II, the term "total insurance liabilities" means the sum of unearned premiums and unpaid losses.
 
 #### (C) Domestic asset/liability percentage
 
@@ -60,7 +60,7 @@ If a foreign company carrying on an insurance business within the United States 
 
 #### (B) Worldwide current investment yield
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “worldwide current investment yield” means the percentage obtained by dividing—
+&emsp;&emsp;For purposes of subparagraph (A), the term "worldwide current investment yield" means the percentage obtained by dividing—
 
 &emsp;&emsp;&emsp;(i) the net investment income of the company from all sources, by
 
@@ -72,7 +72,7 @@ If a foreign company carrying on an insurance business within the United States 
 
 #### (5) Net investment income
 
-&emsp;For purposes of this subsection, the term “net investment income” means—
+&emsp;For purposes of this subsection, the term "net investment income" means—
 
 &emsp;&emsp;(A) gross investment income (within the meaning of section 834(b)), reduced by
 
@@ -118,21 +118,21 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c)(3), (4). Pub. L. 108–218 redesignated par. (4) as (3) and struck out heading and text of former par. (3). Text read as follows: “For purposes of section 809, the equity base of any foreign mutual life insurance company as of the close of any taxable year shall be increased by the excess of—
+<b>2004</b>—Subsec. (c)(3), (4). Pub. L. 108–218 redesignated par. (4) as (3) and struck out heading and text of former par. (3). Text read as follows: "For purposes of section 809, the equity base of any foreign mutual life insurance company as of the close of any taxable year shall be increased by the excess of—
 
-&emsp;“(A) the required United States assets of the company (determined under subsection (b)(2)), over
+&emsp;"(A) the required United States assets of the company (determined under subsection (b)(2)), over
 
-&emsp;“(B) the mean of the assets held in the United States during the taxable year.”
+&emsp;"(B) the mean of the assets held in the United States during the taxable year."
 
-<b>1989</b>—Subsec. (c)(4). Pub. L. 101–239 substituted “yields” for “yeilds” in heading.
+<b>1989</b>—Subsec. (c)(4). Pub. L. 101–239 substituted "yields" for "yeilds" in heading.
 
-<b>1988</b>—Subsec. (b)(3)(B). Pub. L. 100–647, §2004(q)(2)(A), struck out “held for the production of such income” after “same companies”.
+<b>1988</b>—Subsec. (b)(3)(B). Pub. L. 100–647, §2004(q)(2)(A), struck out "held for the production of such income" after "same companies".
 
-Subsec. (b)(4)(B)(ii). Pub. L. 100–647, §2004(q)(2)(B), struck out “held for the production of investment income” after “United States)”.
+Subsec. (b)(4)(B)(ii). Pub. L. 100–647, §2004(q)(2)(B), struck out "held for the production of investment income" after "United States)".
 
 Subsec. (d)(4). Pub. L. 100–647, §2004(q)(3), added par. (4).
 
-<b>1987</b>—Pub. L. 100–203 substituted “companies” for “corporations” in section catchline and amended text generally. Prior to amendment, text read as follows: “If a foreign corporation carrying on an insurance business within the United States would qualify under part I or II of this subchapter for the taxable year if (without regard to income not effectively connected with the conduct of any trade or business within the United States) it were a domestic corporation, such corporation shall be taxable under such part on its income effectively connected with its conduct of any trade or business within the United States. With respect to the remainder of its income, which is from sources within the United States, such a foreign corporation shall be taxable as provided in section 881.”
+<b>1987</b>—Pub. L. 100–203 substituted "companies" for "corporations" in section catchline and amended text generally. Prior to amendment, text read as follows: "If a foreign corporation carrying on an insurance business within the United States would qualify under part I or II of this subchapter for the taxable year if (without regard to income not effectively connected with the conduct of any trade or business within the United States) it were a domestic corporation, such corporation shall be taxable under such part on its income effectively connected with its conduct of any trade or business within the United States. With respect to the remainder of its income, which is from sources within the United States, such a foreign corporation shall be taxable as provided in section 881."
 
 <b>1986</b>—Pub. L. 99–514 struck out reference to part III of this subchapter.
 

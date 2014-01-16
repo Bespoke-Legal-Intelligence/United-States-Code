@@ -4,11 +4,11 @@ For purposes of this subpart:
 
 #### (1) Eligible area
 
-&emsp;The term “eligible area” means a metropolitan area meeting the requirements of section 300ff–11 of this title that are applicable to the area.
+&emsp;The term "eligible area" means a metropolitan area meeting the requirements of section 300ff–11 of this title that are applicable to the area.
 
 #### (2) Metropolitan area
 
-&emsp;The term “metropolitan area” means an area that is referred to in the HIV/AIDS Surveillance Report of the Centers for Disease Control and Prevention as a metropolitan area, and that has a population of 50,000 or more individuals.
+&emsp;The term "metropolitan area" means an area that is referred to in the HIV/AIDS Surveillance Report of the Centers for Disease Control and Prevention as a metropolitan area, and that has a population of 50,000 or more individuals.
 
 (July 1, 1944, ch. 373, title XXVI, §2607, as added Pub. L. 101–381, title I, §101(3), Aug. 18, 1990, 104 Stat. 585; amended Pub. L. 101–557, title IV, §401(b)(1), Nov. 15, 1990, 104 Stat. 2771; Pub. L. 102–531, title III, §312(d)(28), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 104–146, §3(a)(3), May 20, 1996, 110 Stat. 1347; Pub. L. 109–415, title I, §§101(c), 107(b), title VII, §703, Dec. 19, 2006, 120 Stat. 2768, 2783, 2820; Pub. L. 111–87, §2(a)(1), (3)(A), Oct. 30, 2009, 123 Stat. 2885.)
 
@@ -18,19 +18,19 @@ A prior section 2607 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and EffectiveDate of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
-Pub. L. 109–415, §107(b), substituted “this subpart” for “this part” in introductory provisions.
+Pub. L. 109–415, §107(b), substituted "this subpart" for "this part" in introductory provisions.
 
-Par. (2). Pub. L. 109–415, §101(c), substituted “area that is referred” for “area referred” and inserted “, and that has a population of 50,000 or more individuals” before period at end.
+Par. (2). Pub. L. 109–415, §101(c), substituted "area that is referred" for "area referred" and inserted ", and that has a population of 50,000 or more individuals" before period at end.
 
-<b>1996</b>—Par. (1). Pub. L. 104–146 substituted “The term ‘eligible area’ means a metropolitan area meeting the requirements of section 300ff–11 of this title that are applicable to the area.” for “The term ‘eligible area’ means a metropolitan area described in section 300ff–11(a) of this title.”
+<b>1996</b>—Par. (1). Pub. L. 104–146 substituted "The term 'eligible area' means a metropolitan area meeting the requirements of section 300ff–11 of this title that are applicable to the area." for "The term 'eligible area' means a metropolitan area described in section 300ff–11(a) of this title."
 
-<b>1992</b>—Par. (2). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Par. (2). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
-<b>1990</b>—Par. (1). Pub. L. 101–557 substituted “300ff–11(a)” for “300ff–11(a)(1)”.
+<b>1990</b>—Par. (1). Pub. L. 101–557 substituted "300ff–11(a)" for "300ff–11(a)(1)".
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

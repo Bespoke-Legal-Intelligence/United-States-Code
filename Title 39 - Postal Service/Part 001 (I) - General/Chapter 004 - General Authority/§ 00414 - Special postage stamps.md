@@ -20,7 +20,7 @@
 
 > Payments under this paragraph to an agency shall be made under such arrangements as the Postal Service shall by mutual agreement with such agency establish in order to carry out the purposes of this section, except that, under those arrangements, payments to such agency shall be made at least twice a year.
 
-(2) For purposes of this section, the term “amounts becoming available for breast cancer research pursuant to this section” means—
+(2) For purposes of this section, the term "amounts becoming available for breast cancer research pursuant to this section" means—
 
 &emsp;(A) the total amounts received by the Postal Service that it would not have received but for the enactment of this section, reduced by
 
@@ -54,39 +54,39 @@ The date of the enactment of this section, referred to in subsec. (e), is the da
 
 #### Amendments
 
-<b>2011</b>—Subsec. (h). Pub. L. 112–80 substituted “2015” for “2011”.
+<b>2011</b>—Subsec. (h). Pub. L. 112–80 substituted "2015" for "2011".
 
-<b>2007</b>—Subsec. (h). Pub. L. 110–150 substituted “2011” for “2007”.
+<b>2007</b>—Subsec. (h). Pub. L. 110–150 substituted "2011" for "2007".
 
-<b>2005</b>—Subsec. (h). Pub. L. 109–100 substituted “2007” for “2005”.
+<b>2005</b>—Subsec. (h). Pub. L. 109–100 substituted "2007" for "2005".
 
-<b>2004</b>—Subsec. (h). Pub. L. 108–199 substituted “2005” for “2003”.
+<b>2004</b>—Subsec. (h). Pub. L. 108–199 substituted "2005" for "2003".
 
-<b>2001</b>—Subsec. (b). Pub. L. 107–67, §650(c), substituted “of not less than 15 percent” for “of not to exceed 25 percent” in par. (1) and inserted at end of concluding provisions “The special rate of postage of an individual stamp under this section shall be an amount that is evenly divisible by 5.”
+<b>2001</b>—Subsec. (b). Pub. L. 107–67, §650(c), substituted "of not less than 15 percent" for "of not to exceed 25 percent" in par. (1) and inserted at end of concluding provisions "The special rate of postage of an individual stamp under this section shall be an amount that is evenly divisible by 5."
 
-Subsec. (g), (h). Pub. L. 107–67, §650(b)(1), added subsecs. (g) and (h) and struck out former subsec. (g) which read as follows: “This section shall cease to be effective after July 29, 2002, or the end of the 2-year period beginning on the date of the enactment of the Semipostal Authorization Act, whichever is later.”
+Subsec. (g), (h). Pub. L. 107–67, §650(b)(1), added subsecs. (g) and (h) and struck out former subsec. (g) which read as follows: "This section shall cease to be effective after July 29, 2002, or the end of the 2-year period beginning on the date of the enactment of the Semipostal Authorization Act, whichever is later."
 
-<b>2000</b>—Subsec. (g). Pub. L. 106–253 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “This section shall cease to be effective at the end of the 2-year period beginning on the date on which special postage stamps under this section are first made available to the public.”
+<b>2000</b>—Subsec. (g). Pub. L. 106–253 amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "This section shall cease to be effective at the end of the 2-year period beginning on the date on which special postage stamps under this section are first made available to the public."
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–67, title VI, §650(b)(2), Nov. 12, 2001, 115 Stat. 557, provided that: “The amendment made by this subsection \[amending this section\] shall take effect on the earlier of—
+Pub. L. 107–67, title VI, §650(b)(2), Nov. 12, 2001, 115 Stat. 557, provided that: "The amendment made by this subsection \[amending this section\] shall take effect on the earlier of—
 
-&emsp;“(A) the date of enactment of this Act \[Nov. 12, 2001\]; or
+&emsp;"(A) the date of enactment of this Act \[Nov. 12, 2001\]; or
 
-&emsp;“(B) July 29, 2002.”
+&emsp;"(B) July 29, 2002."
 
 #### Reporting Requirements
 
-Pub. L. 110–150, §2, Dec. 21, 2007, 121 Stat. 1820, provided that: “The National Institutes of Health and the Department of Defense shall each submit to Congress and the Government Accountability Office an annual report concerning the use of any amounts that it received under section 414(c) of title 39, United States Code, including a description of any significant advances or accomplishments, during the year covered by the report, that were funded, in whole or in part, with such amounts.”
+Pub. L. 110–150, §2, Dec. 21, 2007, 121 Stat. 1820, provided that: "The National Institutes of Health and the Department of Defense shall each submit to Congress and the Government Accountability Office an annual report concerning the use of any amounts that it received under section 414(c) of title 39, United States Code, including a description of any significant advances or accomplishments, during the year covered by the report, that were funded, in whole or in part, with such amounts."
 
 #### Report by Comptroller General of United States
 
-Pub. L. 106–253, §3(b), July 28, 2000, 114 Stat. 637, provided that: “No later than 3 months and no earlier than 6 months before the date as of which section 414 of title 39, United States Code (as amended by this section) is scheduled to expire, the Comptroller General of the United States shall submit to the Congress a report on the operation of such section. Such report shall be in addition to the report required by section 2(b) of Public Law 105–41 \[set out below\], and shall address at least the same matters as were required to be included in that earlier report.”
+Pub. L. 106–253, §3(b), July 28, 2000, 114 Stat. 637, provided that: "No later than 3 months and no earlier than 6 months before the date as of which section 414 of title 39, United States Code (as amended by this section) is scheduled to expire, the Comptroller General of the United States shall submit to the Congress a report on the operation of such section. Such report shall be in addition to the report required by section 2(b) of Public Law 105–41 \[set out below\], and shall address at least the same matters as were required to be included in that earlier report."
 
-Pub. L. 105–41, §2(b), Aug. 13, 1997, 111 Stat. 1120, provided that: “No later than 3 months (but no earlier than 6 months) before the end of the 2-year period referred to in section 414(g) of title 39, United States Code (as amended by subsection (a)), the Comptroller General of the United States shall submit to the Congress a report on the operation of such section. Such report shall include—
+Pub. L. 105–41, §2(b), Aug. 13, 1997, 111 Stat. 1120, provided that: "No later than 3 months (but no earlier than 6 months) before the end of the 2-year period referred to in section 414(g) of title 39, United States Code (as amended by subsection (a)), the Comptroller General of the United States shall submit to the Congress a report on the operation of such section. Such report shall include—
 
-&emsp;“(1) an evaluation of the effectiveness and the appropriateness of the authority provided by such section as a means of fund-raising; and
+&emsp;"(1) an evaluation of the effectiveness and the appropriateness of the authority provided by such section as a means of fund-raising; and
 
-&emsp;“(2) a description of the monetary and other resources required of the Postal Service in carrying out such section.”
+&emsp;"(2) a description of the monetary and other resources required of the Postal Service in carrying out such section."
 

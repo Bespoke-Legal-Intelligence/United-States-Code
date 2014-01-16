@@ -4,7 +4,7 @@ As used in this chapter:
 
 #### (1) Contact lens fitting
 
-&emsp;The term “contact lens fitting” means the process that begins after the initial eye examination and ends when a successful fit has been achieved or, in the case of a renewal prescription, ends when the prescriber determines that no change in prescription is required, and such term may include—
+&emsp;The term "contact lens fitting" means the process that begins after the initial eye examination and ends when a successful fit has been achieved or, in the case of a renewal prescription, ends when the prescriber determines that no change in prescription is required, and such term may include—
 
 &emsp;&emsp;(A) an examination to determine lens specifications;
 
@@ -14,11 +14,11 @@ As used in this chapter:
 
 #### (2) Prescriber
 
-&emsp;The term “prescriber” means, with respect to contact lens prescriptions, an ophthalmologist, optometrist, or other person permitted under State law to issue prescriptions for contact lenses in compliance with any applicable requirements established by the Food and Drug Administration.
+&emsp;The term "prescriber" means, with respect to contact lens prescriptions, an ophthalmologist, optometrist, or other person permitted under State law to issue prescriptions for contact lenses in compliance with any applicable requirements established by the Food and Drug Administration.
 
 #### (3) Contact lens prescription
 
-&emsp;The term “contact lens prescription” means a prescription, issued in accordance with State and Federal law, that contains sufficient information for the complete and accurate filling of a prescription, including the following:
+&emsp;The term "contact lens prescription" means a prescription, issued in accordance with State and Federal law, that contains sufficient information for the complete and accurate filling of a prescription, including the following:
 
 &emsp;&emsp;(A) Name of the patient.
 

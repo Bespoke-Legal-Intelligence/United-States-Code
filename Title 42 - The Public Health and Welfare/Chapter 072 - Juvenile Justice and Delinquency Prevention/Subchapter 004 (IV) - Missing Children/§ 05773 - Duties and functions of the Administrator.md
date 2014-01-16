@@ -10,9 +10,11 @@ The Administrator shall—
 
 &emsp;(3) provide for the furnishing of information derived from the national toll-free telephone line, established under subsection (b)(1) of this section, to appropriate entities;
 
-&emsp;(4) provide adequate staff and agency resources which are necessary to properly carry out the responsibilities pursuant to this subchapter; and
+&emsp;(4) coordinate with the United States Interagency Council on Homelessness to ensure that homeless services professionals are aware of educational resources and assistance provided by the Center regarding child sexual exploitation;
 
-&emsp;(5) not later than 180 days after the end of each fiscal year, submit a report to the President, Speaker of the House of Representatives, and the President pro tempore of the Senate—
+&emsp;(5) provide adequate staff and agency resources which are necessary to properly carry out the responsibilities pursuant to this subchapter; and
+
+&emsp;(6) not later than 180 days after the end of each fiscal year, submit a report to the President, Speaker of the House of Representatives, the Committee on Education and the Workforce of the House of Representatives, the President pro tempore of the Senate, and the Committee on the Judiciary of the Senate—
 
 &emsp;&emsp;(A) containing a comprehensive plan for facilitating cooperation and coordination in the succeeding fiscal year among all agencies and organizations with responsibilities related to missing children;
 
@@ -50,7 +52,7 @@ The Administrator shall—
 
 &emsp;&emsp;(B) operate the official national resource center and information clearinghouse for missing and exploited children;
 
-&emsp;&emsp;(C) provide to State and local governments, and public and private nonprofit agencies, and individuals, information regarding—
+&emsp;&emsp;(C) provide to State and local governments, public and private nonprofit agencies, State and local educational agencies, and individuals, information regarding—
 
 &emsp;&emsp;&emsp;(i) free or low-cost legal, restaurant, lodging, and transportation services that are available for the benefit of missing and exploited children and their families; and
 
@@ -110,31 +112,51 @@ The Administrator shall—
 
 &emsp;&emsp;(Q) work with law enforcement, Internet service providers, electronic payment service providers, and others on methods to reduce the distribution on the Internet of images and videos of sexually exploited children;
 
-&emsp;&emsp;(R) operate a child victim identification program in order to assist the efforts of law enforcement agencies in identifying victims of child pornography and other sexual crimes; and
+&emsp;&emsp;(R) operate a child victim identification program in order to assist the efforts of law enforcement agencies in identifying victims of child pornography and other sexual crimes;
 
 &emsp;&emsp;(S) develop and disseminate programs and information to the general public, schools, public officials, youth-serving organizations, and nonprofit organizations, directly or through grants or contracts with public agencies and public and private nonprofit organizations, on—
 
 &emsp;&emsp;&emsp;(i) the prevention of child abduction and sexual exploitation; and
 
-&emsp;&emsp;&emsp;(ii) internet safety.
+&emsp;&emsp;&emsp;(ii) internet safety;
 
-#### (2) Authorization of appropriations
+&emsp;&emsp;(T) provide technical assistance and training to State and local law enforcement agencies and statewide clearinghouses to coordinate with State and local educational agencies in identifying and recovering missing children;
 
-&emsp;There is authorized to be appropriated to the Administrator to carry out this subsection, $40,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal years 2009 through 2013.
+&emsp;&emsp;(U) assist the efforts of law enforcement agencies in coordinating with child welfare agencies to respond to foster children missing from the State welfare system; and
+
+&emsp;&emsp;(V) provide technical assistance to law enforcement agencies and first responders in identifying, locating, and recovering victims of, and children at risk for, child sex trafficking.
+
+#### (2) Limitation
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding any other provision of law, no Federal funds may be used to pay the compensation of an individual employed by the Center if such compensation, as determined at the beginning of each grant year, exceeds 110 percent of the maximum annual salary payable to a member of the Federal Government's Senior Executive Service (SES) for that year. The Center may compensate an employee at a higher rate provided the amount in excess of this limitation is paid with non-Federal funds.
+
+#### (B) Definition of compensation
+
+&emsp;&emsp;For the purpose of this paragraph, the term "compensation"—
+
+&emsp;&emsp;&emsp;(i) includes salary, bonuses, periodic payments, severance pay, the value of a compensatory or paid leave benefit not excluded by clause (ii), and the fair market value of any employee perquisite or benefit not excluded by clause (ii); and
+
+&emsp;&emsp;&emsp;(ii) excludes any Center expenditure for health, medical, or life insurance, or disability or retirement pay, including pensions benefits.
 
 #### (c) National incidence studies
 
 The Administrator, either by making grants to or entering into contracts with public agencies or nonprofit private agencies, shall—
 
-&emsp;(1) periodically conduct national incidence studies to determine for a given year the actual number of children reported missing each year, the number of children who are victims of abduction by strangers, the number of children who are the victims of parental kidnapings, and the number of children who are recovered each year; and
+&emsp;(1) triennially conduct national incidence studies to determine for a given year the actual number of children reported missing each year, the number of children who are victims of abduction by strangers, the number of children who are the victims of parental kidnappings, and the number of children who are recovered each year; and
 
-&emsp;(2) provide to State and local governments, public and private nonprofit agencies, and individuals information to facilitate the lawful use of school records and birth certificates to identify and locate missing children.
+&emsp;(2) provide to State and local governments, public and private nonprofit agencies, and individuals information to facilitate the lawful use of school records and birth certificates, in compliance with the Family Educational Rights and Privacy Act of 1974 (20 U.S.C. 1232g) <sup>2</sup> to identify and locate missing children.
 
 #### (d) Independent status of other Federal agencies
 
 Nothing contained in this subchapter shall be construed to grant to the Administrator any law enforcement responsibility or supervisory authority over any other Federal agency.
 
-(Pub. L. 93–415, title IV, §404, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, §7285, Nov. 18, 1988, 102 Stat. 4459; Pub. L. 101–204, title X, §1004(2), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(c), Oct. 12, 1999, 113 Stat. 1034; Pub. L. 107–273, div. C, title II, §12221(b)(2), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 108–21, title III, §§321(b), 323, Apr. 30, 2003, 117 Stat. 664, 665; Pub. L. 108–96, title II, §202(a), Oct. 10, 2003, 117 Stat. 1172; Pub. L. 110–240, §3, June 3, 2008, 122 Stat. 1561.)
+(Pub. L. 93–415, title IV, §404, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, §7285, Nov. 18, 1988, 102 Stat. 4459; Pub. L. 101–204, title X, §1004(2), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(c), Oct. 12, 1999, 113 Stat. 1034; Pub. L. 107–273, div. C, title II, §12221(b)(2), Nov. 2, 2002, 116 Stat. 1894; Pub. L. 108–21, title III, §§321(b), 323, Apr. 30, 2003, 117 Stat. 664, 665; Pub. L. 108–96, title II, §202(a), Oct. 10, 2003, 117 Stat. 1172; Pub. L. 110–240, §3, June 3, 2008, 122 Stat. 1561; Pub. L. 113–38, §2(b), Sept. 30, 2013, 127 Stat. 527.)
+
+#### References in Text
+
+The Family Educational Rights and Privacy Act of 1974, referred to in subsec. (c)(2), is section 513 of Pub. L. 93–380, title V, Aug. 21, 1974, 88 Stat. 571, which enacted section 1232g of Title 20, Education, and provisions set out as notes under sections 1221 and 1232g of Title 20. For complete classification of this Act to the Code, see Short Title of 1974 Amendment note set out under section 1221 of Title 20 and Tables.
 
 #### Prior Provisions
 
@@ -142,45 +164,63 @@ A prior section 404 of Pub. L. 93–415 amended section 3882 of this title, and 
 
 #### Amendments
 
+<b>2013</b>—Subsec. (a)(4). Pub. L. 113–38, §2(b)(1)(C), added par. (4). Former par. (4) redesignated (5).
+
+Subsec. (a)(5). Pub. L. 113–38, §2(b)(1)(B), redesignated par. (4) as (5). Former par. (5) redesignated (6).
+
+Pub. L. 113–38, §2(b)(1)(A), in introductory provisions, substituted "Representatives, the Committee on Education and the Workforce of the House of Representatives," for "Representatives, and" and inserted ", and the Committee on the Judiciary of the Senate" after "Senate".
+
+Subsec. (a)(6). Pub. L. 113–38, §2(b)(1)(B), redesignated par. (5) as (6).
+
+Subsec. (b)(1)(C). Pub. L. 113–38, §2(b)(2)(A)(i), in introductory provisions, struck out "and" after "governments," and inserted "State and local educational agencies," after "nonprofit agencies,".
+
+Subsec. (b)(1)(T) to (V). Pub. L. 113–38, §2(b)(2)(A)(ii)–(iv), added subpars. (T) to (V).
+
+Subsec. (b)(2). Pub. L. 113–38, §2(b)(2)(B), amended par. (2) generally. Prior to amendment, text read as follows: "There is authorized to be appropriated to the Administrator to carry out this subsection, $40,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal years 2009 through 2013."
+
+Subsec. (c)(1). Pub. L. 113–38, §2(b)(3), substituted "triennially" for "periodically" and "kidnappings" for "kidnapings".
+
+Subsec. (c)(2). Pub. L. 113–38, §2(b)(4), inserted ", in compliance with the Family Educational Rights and Privacy Act of 1974 (20 U.S.C. 1232g)" after "birth certificates".
+
 <b>2008</b>—Subsec. (b)(1). Pub. L. 110–240, §3(1), amended par. (1) generally. Prior to amendment, par. (1) consisted of subpars. (A) to (H) relating to annual grants to Center.
 
-Subsec. (b)(2). Pub. L. 110–240, §3(2), substituted “$40,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal years 2009 through 2013” for “$20,000,000 for each of the fiscal years 2004 through 2008”.
+Subsec. (b)(2). Pub. L. 110–240, §3(2), substituted "$40,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal years 2009 through 2013" for "$20,000,000 for each of the fiscal years 2004 through 2008".
 
 <b>2003</b>—Subsec. (b)(1)(H). Pub. L. 108–21, §323, added subpar. (H).
 
-Subsec. (b)(2). Pub. L. 108–96 substituted “2008” for “2005”.
+Subsec. (b)(2). Pub. L. 108–96 substituted "2008" for "2005".
 
-Pub. L. 108–21, §321(b), substituted “$20,000,000 for each of the fiscal years 2004 through 2005” for “$10,000,000 for each of fiscal years 2000, 2001, 2002, and 2003”.
+Pub. L. 108–21, §321(b), substituted "$20,000,000 for each of the fiscal years 2004 through 2005" for "$10,000,000 for each of fiscal years 2000, 2001, 2002, and 2003".
 
-<b>2002</b>—Subsec. (a)(5)(E). Pub. L. 107–273 substituted “section 5714–11” for “section 5712a”.
+<b>2002</b>—Subsec. (a)(5)(E). Pub. L. 107–273 substituted "section 5714–11" for "section 5712a".
 
 <b>1999</b>—Subsecs. (b) to (d). Pub. L. 106–71 added subsecs. (b) and (c), redesignated former subsec. (c) as (d), and struck out former subsec. (b) which related to the establishment of toll-free telephone line and national resource center and clearinghouse, conduct of national incidence studies, and use of school records and birth certificates.
 
 <b>1989</b>—Subsec. (a)(5)(C). Pub. L. 101–204, §1004(2)(A), substituted semicolon for comma at end.
 
-Subsec. (b)(2)(A). Pub. L. 101–204, §1004(2)(B), inserted “to” before “provide to State”.
+Subsec. (b)(2)(A). Pub. L. 101–204, §1004(2)(B), inserted "to" before "provide to State".
 
-<b>1988</b>—Subsec. (a)(3). Pub. L. 100–690, §7285(a)(1), struck out “law enforcement” before “entities”.
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–690, §7285(a)(1), struck out "law enforcement" before "entities".
 
-Subsec. (a)(4). Pub. L. 100–690, §7285(a)(2), inserted “and” at end.
+Subsec. (a)(4). Pub. L. 100–690, §7285(a)(2), inserted "and" at end.
 
-Subsec. (a)(5). Pub. L. 100–690, §7285(a)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “analyze, compile, publish, and disseminate an annual summary of recently completed research, research being conducted, and Federal, State, and local demonstration projects relating to missing children with particular emphasis on—
+Subsec. (a)(5). Pub. L. 100–690, §7285(a)(3), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "analyze, compile, publish, and disseminate an annual summary of recently completed research, research being conducted, and Federal, State, and local demonstration projects relating to missing children with particular emphasis on—
 
-&emsp;“(A) effective models of local, State, and Federal coordination and cooperation in locating missing children;
+&emsp;"(A) effective models of local, State, and Federal coordination and cooperation in locating missing children;
 
-&emsp;“(B) effective programs designed to promote community awareness of the problem of missing children;
+&emsp;"(B) effective programs designed to promote community awareness of the problem of missing children;
 
-&emsp;“(C) effective programs to prevent the abduction and sexual exploitation of children (including parent, child, and community education); and
+&emsp;"(C) effective programs to prevent the abduction and sexual exploitation of children (including parent, child, and community education); and
 
-&emsp;“(D) effective program models which provide treatment, counseling, or other aid to parents of missing children or to children who have been the victims of abduction or sexual exploitation; and”.
+&emsp;"(D) effective program models which provide treatment, counseling, or other aid to parents of missingchildren or to children who have been the victims of abduction or sexual exploitation; and".
 
-Subsec. (a)(6). Pub. L. 100–690, §7285(a)(4), struck out par. (6), which read as follows: “prepare, in conjunction with and with the final approval of the Advisory Board on Missing Children, an annual comprehensive plan for facilitating cooperation and coordination among all agencies and organizations with responsibilities related to missing children.”
+Subsec. (a)(6). Pub. L. 100–690, §7285(a)(4), struck out par. (6), which read as follows: "prepare, in conjunction with and with the final approval of the Advisory Board on Missing Children, an annual comprehensive plan for facilitating cooperation and coordination among all agencies and organizations with responsibilities related to missing children."
 
-Subsec. (b)(1). Pub. L. 100–690, §7285(b)(1), designated existing provisions as subpar. (A), inserted “24-hour” after “national” and “and” at end, and added subpar. (B).
+Subsec. (b)(1). Pub. L. 100–690, §7285(b)(1), designated existing provisions as subpar. (A), inserted "24-hour" after "national" and "and" at end, and added subpar. (B).
 
-Subsec. (b)(2)(A). Pub. L. 100–690, §7285(b)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “to provide technical assistance to local and State governments, public and private nonprofit agencies, and individuals in locating and recovering missing children;”.
+Subsec. (b)(2)(A). Pub. L. 100–690, §7285(b)(2)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "to provide technical assistance to local and State governments, public and private nonprofit agencies, and individuals in locating and recovering missing children;".
 
-Subsec. (b)(2)(D). Pub. L. 100–690, §7285(b)(2)(B), inserted “and training” after “assistance” and “and in locating and recovering missing children” before semicolon.
+Subsec. (b)(2)(D). Pub. L. 100–690, §7285(b)(2)(B), inserted "and training" after "assistance" and "and in locating and recovering missing children" before semicolon.
 
 Subsec. (b)(4). Pub. L. 100–690, §7285(b)(3), (4), added par. (4).
 
@@ -190,11 +230,13 @@ Amendment by Pub. L. 107–273 effective on the first day of the first fiscal ye
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required by subsec. (a)(5) of this section with respect to fiscal year 1988 to be submitted not later than Aug. 1, 1989, notwithstanding the 180-day period provided in subsec. (a)(5) of this section, see section 7296(a), (b)(3) of Pub. L. 100–690, as amended, set out as a note under section 5601 of this title.
+Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required by subsec. (a)(6) of this section with respect to fiscal year 1988 to be submitted not later than Aug. 1, 1989, notwithstanding the 180-day period provided in subsec. (a)(6) of this section, see section 7296(a), (b)(3) of Pub. L. 100–690, as amended, set out as a note under section 5601 of this title.
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions in subsec. (a)(5) of this section relating to submittal of annual report to the Speaker of the House of Representatives and the President pro tempore of the Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 2nd item on page 122 of House Document No. 103–7.
+For termination, effective May 15, 2000, of provisions in subsec. (a)(6) of this section relating to submittal of annual report to the Speaker of the House of Representatives and the President pro tempore of the Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 2nd item on page 122 of House Document No. 103–7.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “case.”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "case."</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

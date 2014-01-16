@@ -6,7 +6,7 @@ Subject to regulations of the President—
 
 &emsp;(1) commissioned officers, chief warrant officers, warrant officers, cadets, and enlisted personnel of the Regular Coast Guard on active duty, including those on shore duty and those on detached duty; and Regular, and temporary members of the United States Coast Guard Reserve when on active duty;
 
-&emsp;(2) commissioned officers, ships’ officers, and members of the crews of vessels of the National Oceanic and Atmospheric Administration on active duty, including those on shore duty and those on detached duty; and
+&emsp;(2) commissioned officers, ships' officers, and members of the crews of vessels of the National Oceanic and Atmospheric Administration on active duty, including those on shore duty and those on detached duty; and
 
 &emsp;(3) commissioned officers of the Regular or Reserve Corps of the Public Health Service on active duty;
 
@@ -26,7 +26,7 @@ Subject to regulations of the President—
 
 The Service shall provide all services referred to in subsection (a) of this section required by the Coast Guard or National Oceanic and Atmospheric Administration and shall perform all duties prescribed by statute in connection with the examinations to determine physical or mental condition for purposes of appointment, enlistment, and reenlistment, promotion and retirement, and officers of the Service assigned to duty on Coast Guard or National Oceanic and Atmospheric Administration vessels may extend aid to the crews of American vessels engaged in deep-sea fishing.
 
-(July 1, 1944, ch. 373, title III, §326, 58 Stat. 697; June 7, 1956, ch. 374, §306(3), 70 Stat. 254; Pub. L. 86–415, §5(d), Apr. 8, 1960, 74 Stat. 34; Pub. L. 88–71, §2, July 19, 1963, 77 Stat. 83; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 99–117, §5, Oct. 7, 1985, 99 Stat. 492.)
+(July 1, 1944, ch. 373, title III, §326, 58 Stat. 697; June 7, 1956, ch. 374, §306(3), 70 Stat. 254; Pub. L.86–415, §5(d), Apr. 8, 1960, 74 Stat. 34; Pub. L. 88–71, §2, July 19, 1963, 77 Stat. 83; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 99–117, §5, Oct. 7, 1985, 99 Stat. 492.)
 
 #### Amendments
 
@@ -34,11 +34,11 @@ The Service shall provide all services referred to in subsection (a) of this sec
 
 <b>1963</b>—Subsec. (b). Pub. L. 88–71, §2(a), repealed subsec. (b) which provided for treatment of dependents of personnel. See section 253a(b) of this title.
 
-Subsec. (c). Pub. L. 88–71, §2(b), inserted “or Coast and Geodetic Survey” after “Coast Guard” in two places.
+Subsec. (c). Pub. L. 88–71, §2(b), inserted "or Coast and Geodetic Survey" after "Coast Guard" in two places.
 
 <b>1960</b>—Subsec. (a). Pub. L. 86–415 struck out provisions which authorized medical, surgical, and dental care and hospitalization for retired personnel of Coast Guard, Coast and Geodetic Survey, and Public Health Service.
 
-<b>1956</b>—Subsec. (b). Act June 7, 1956, repealed subsec. (b) except insofar as it related to dependent members of families of ships’ officers and members of crews of vessels of Coast and Geodetic Survey.
+<b>1956</b>—Subsec. (b). Act June 7, 1956, repealed subsec. (b) except insofar as it related to dependent members of families of ships' officers and members of crews of vessels of Coast and Geodetic Survey.
 
 #### Change of Name
 

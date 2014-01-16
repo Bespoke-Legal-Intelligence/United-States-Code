@@ -32,21 +32,21 @@ The principal negotiating objective of the United States in the extended negotia
 
 &emsp;For purposes of paragraph (1)—
 
-&emsp;&emsp;(A) the term “civil aircraft” means those products to which the Agreement on Trade in Civil Aircraft applies,
+&emsp;&emsp;(A) the term "civil aircraft" means those products to which the Agreement on Trade in Civil Aircraft applies,
 
-&emsp;&emsp;(B) the term “large civil aircraft” has the meaning given that term in Annex II to the US–EC bilateral agreement,
+&emsp;&emsp;(B) the term "large civil aircraft" has the meaning given that term in Annex II to the US–EC bilateral agreement,
 
-&emsp;&emsp;(C) the term “indirect support” means indirect government support as defined in Annex II to the US–EC bilateral agreement,
+&emsp;&emsp;(C) the term "indirect support" means indirect government support as defined in Annex II to the US–EC bilateral agreement,
 
-&emsp;&emsp;(D) the term “Agreement on Trade in Civil Aircraft” means the Agreement on Trade in Civil Aircraft approved by the Congress under section 2503 of this title, and
+&emsp;&emsp;(D) the term "Agreement on Trade in Civil Aircraft" means the Agreement on Trade in Civil Aircraft approved by the Congress under section 2503 of this title, and
 
-&emsp;&emsp;(E) the term “US–EC bilateral agreement” means the Agreement Concerning the Application of the GATT Agreement on Trade in Civil Aircraft Between the European Economic Community and the Government of the United States of America on trade in large civil aircraft, entered into on July 17, 1992.
+&emsp;&emsp;(E) the term "US–EC bilateral agreement" means the Agreement Concerning the Application of the GATT Agreement on Trade in Civil Aircraft Between the European Economic Community and the Government of the United States of America on trade in large civil aircraft, entered into on July 17, 1992.
 
 (Pub. L. 103–465, title I, §135, Dec. 8, 1994, 108 Stat. 4840; Pub. L. 105–206, title V, §5003(b)(5), July 22, 1998, 112 Stat. 790.)
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(2). Pub. L. 105–206 substituted “normal trade relations” for “most-favored-nation”.
+<b>1998</b>—Subsec. (a)(2). Pub. L. 105–206 substituted "normal trade relations" for "most-favored-nation".
 
 #### Effective Date
 

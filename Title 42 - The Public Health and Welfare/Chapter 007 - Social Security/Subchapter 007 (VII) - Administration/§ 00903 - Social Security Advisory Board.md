@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Board
 
-There shall be established a Social Security Advisory Board (in this section referred to as the “Board”).
+There shall be established a Social Security Advisory Board (in this section referred to as the "Board").
 
 #### (b) Functions of Board
 
@@ -60,7 +60,7 @@ Each member of the Board shall serve for a term of 6 years, except that—
 
 &emsp;&emsp;&emsp;(ii) 6 years.
 
-&emsp;&emsp;(C) The terms of service of members initially appointed by the Speaker of the Houseof Representatives shall expire as designated by the Speaker of the House of Representatives at the time of nomination, 1 each at the end of—
+&emsp;&emsp;(C) The terms of service of members initially appointed by the Speaker of the House of Representatives shall expire as designated by the Speaker of the House of Representatives at the time of nomination, 1 each at the end of—
 
 &emsp;&emsp;&emsp;(i) 4 years; and
 
@@ -72,7 +72,7 @@ A member of the Board shall be designated by the President to serve as Chairman 
 
 #### (f) Compensation, expenses, and per diem
 
-A member of the Board shall, for each day (including traveltime) during which the member is attending meetings or conferences of the Board or otherwise engaged in the business of the Board, be compensated at the daily rate of basic pay for level IV of the Executive Schedule. While serving on business of the Board away from their homes or regular places of business, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government employed intermittently.
+A member of the Board shall, for each day (including traveltime) during which the member is attending meetings or conferences of the Board or otherwise engaged in the business of the Board, be compensated at the daily rate of basic pay for level IV of the Executive Schedule. While serving on business of the Board awayfrom their homes or regular places of business, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government employed intermittently.
 
 #### (g) Meetings
 
@@ -94,7 +94,7 @@ There are authorized to be appropriated, out of the Federal Disability Insurance
 
 (Aug. 14, 1935, ch. 531, title VII, §703, 49 Stat. 636; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; Pub. L. 98–369, div. B, title VI, §2663(l)(1), July 18, 1984, 98 Stat. 1171; Pub. L. 103–296, title I, §103, Aug. 15, 1994, 108 Stat. 1467; Pub. L. 104–121, title I, §108, Mar. 29, 1996, 110 Stat. 857; Pub. L. 105–33, title V, §5526, Aug. 5, 1997, 111 Stat. 625; Pub. L. 106–169, title II, §251(b)(4), Dec. 14, 1999, 113 Stat. 1855; Pub. L. 108–203, title IV, §417(a), Mar. 2, 2004, 118 Stat. 530.)
 
-#### References In Text
+#### References in Text
 
 Level IV of the Executive Schedule, referred to in subsec. (f), is set out under section 5315 of Title 5, Government Organization and Employees.
 
@@ -104,61 +104,61 @@ The provisions of title 5 relating to the competitive service, referred to in su
 
 #### Amendments
 
-<b>2004</b>—Subsec. (f). Pub. L. 108–203 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Members of the Board shall serve without compensation, except that, while serving on business of the Board away from their homes or regular places of business, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government employed intermittently.”
+<b>2004</b>—Subsec. (f). Pub. L. 108–203 amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "Members of the Board shall serve without compensation, except that, while serving on business of the Board away from their homes or regular places of business, members may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government employed intermittently."
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–169 substituted “subchapter II of this chapter, the program of special benefits for certain World War II veterans under subchapter VIII of this chapter,” for “subchapter II of this chapter” in introductory provisions.
+<b>1999</b>—Subsec. (b). Pub. L. 106–169 substituted "subchapter II of this chapter, the program of special benefits for certain World War II veterans under subchapter VIII of this chapter," for "subchapter II of this chapter" in introductory provisions.
 
-<b>1997</b>—Subsec. (i). Pub. L. 105–33 struck out “, and three professional staff members one of whom shall be appointed from among individuals approved by the members of the Board who are not members of the political party represented by the majority of the Board,” after “Staff Director” and “clerical” after “provide adequate”.
+<b>1997</b>—Subsec. (i). Pub. L. 105–33 struck out ", and three professional staff members one of whom shall be appointed from among individuals approved by the members of the Board who are not members of the political party represented by the majority of the Board," after "Staff Director" and "clerical" after "provide adequate".
 
-<b>1996</b>—Subsec. (i). Pub. L. 104–121 inserted “, and three professional staff members one of whom shall be appointed from among individuals approved by the members of the Board who are not members of the political party represented by the majority of the Board,” after “Staff Director”.
+<b>1996</b>—Subsec. (i). Pub. L. 104–121 inserted ", and three professional staff members one of whom shall be appointed from among individuals approved by the members of the Board who are not members of the political party represented by the majority of the Board," after "Staff Director".
 
-<b>1994</b>—Pub. L. 103–296 amended section generally. Prior to amendment, section read as follows: “The Secretary is authorized to appoint and fix the compensation of such officers and employees, and to make such expenditures, as may be necessary for carrying out his functions under this chapter. Appointments of attorneys and experts may be made without regard to the civil-service laws.”
+<b>1994</b>—Pub. L. 103–296 amended section generally. Prior to amendment, section read as follows: "The Secretary is authorized to appoint and fix the compensation of such officers and employees, and to make such expenditures, as may be necessary for carrying out his functions under this chapter. Appointments of attorneys and experts may be made without regard to the civil-service laws."
 
-<b>1984</b>—Pub. L. 98–369 substituted “Secretary” for “Administrator”.
+<b>1984</b>—Pub. L. 98–369 substituted "Secretary" for "Administrator".
 
-<b>1950</b>—Act Aug. 28, 1950, substituted “Administrator” for “Board” and “his” for “its”.
+<b>1950</b>—Act Aug. 28, 1950, substituted "Administrator" for "Board" and "his" for "its".
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–203, title IV, §417(b), Mar. 2, 2004, 118 Stat. 531, provided that: “The amendment made by this section \[amending this section\] shall be effective as of January 1, 2003.”
+Pub. L. 108–203, title IV, §417(b), Mar. 2, 2004, 118 Stat. 531, provided that: "The amendment made by this section \[amending this section\] shall be effective as of January 1, 2003."
 
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–33, title V, §5528, Aug. 5, 1997, 111 Stat. 625, provided that:
 
-“(a)
+"(a)
 
 In General.—Except as provided in this section, the amendments made by this chapter \[chapter 2 (§§5521–5528) of subtitle F of title V of Pub. L. 105–33, amending this section, sections 1310, 1382, 1382c, 1382d, and 1383 of this title, and provisions set out as a note under section 1382 of this title and repealing provisions set out as notes under sections 425 and 1382 of this title\] shall take effect as if included in the enactment of title II of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996 (Public Law 104–193; 110 Stat. 2185).
 
-“(b)
+"(b)
 
 Section 5524
 
 Amendments.—The amendments made by section 5524 of this Act \[amending section 1310 of this title\] shall take effect as if included in the enactment of the Social Security Independence and Program Improvements Act of 1994 (Public Law 103–296; 108 Stat. 1464).
 
-“(c)
+"(c)
 
 Section 5525
 
 Amendments.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The amendments made by subsections (a) and (b) of section 5525 of this Act \[amending provisions set out as a note under section 1382 of this title\] shall take effect as if included in the enactment of section 105 of the Contract with America Advancement Act of 1996 (Public Law 104–121; 110 Stat. 852 et seq.).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Repeals.—The repeals made by section 5525(c) \[repealing provisions set out as notes under sections 425 and 1382 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\].
 
-“(d)
+"(d)
 
 Section 5526
 
 Amendments.—The amendments made by section 5526 of this Act \[amending this section\] shall take effect as if included in the enactment of section 108 of the Contract with America Advancement Act of 1996 (Public Law 104–121; 110 Stat. 857).
 
-“(e)
+"(e)
 
-Section 5227.—Section 5227 \[probably means section 5527 of this Act which is set out as a note under section 909 of this title\] shall take effect on the date of the enactment of this Act.”
+Section 5227.—Section 5227 \[probably means section 5527 of this Act which is set out as a note undersection 909 of this title\] shall take effect on the date of the enactment of this Act."
 
 #### Effective Date of 1984 Amendment
 

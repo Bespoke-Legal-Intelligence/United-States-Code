@@ -2,7 +2,7 @@
 
 #### (a) Definition of endowment fund
 
-In this section, the term “endowment fund” means the Hispanic-Serving Agricultural Colleges and Universities Fund established under subsection (b).
+In this section, the term "endowment fund" means the Hispanic-Serving Agricultural Colleges and Universities Fund established under subsection (b).
 
 #### (b) Endowment
 
@@ -70,7 +70,7 @@ In this section, the term “endowment fund” means the Hispanic-Serving Agricu
 
 #### (A) In general
 
-&emsp;&emsp;Amounts authorized to be appropriated under this subsection shall be used in the same manner as is prescribed for colleges under the Act of August 30, 1890 (commonly known as the “Second Morrill Act”) (7 U.S.C. 321 et seq.).
+&emsp;&emsp;Amounts authorized to be appropriated under this subsection shall be used in the same manner as is prescribed for colleges under the Act of August 30, 1890 (commonly known as the "Second Morrill Act") (7 U.S.C. 321 et seq.).
 
 #### (B) Relationship to other law
 

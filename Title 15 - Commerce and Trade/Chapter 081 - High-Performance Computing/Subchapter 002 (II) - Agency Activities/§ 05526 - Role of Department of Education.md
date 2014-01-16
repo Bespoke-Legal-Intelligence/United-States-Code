@@ -6,7 +6,7 @@ As part of the Program described in subchapter I of this chapter, the Secretary 
 
 #### (b) Authorization of appropriations
 
-From sums otherwise authorized to be appropriated, there are authorized to be appropriated to the Department of Education for the purposes of this section $1,500,000 for fiscal year 1992; $1,700,000 for fiscal year 1993; $1,900,000 for fiscal year 1994; $2,100,000 for fiscal year 1995; and $2,300,000 for fiscal year 1996.
+From sums otherwise authorized to be appropriated, there are authorized to be appropriatedto the Department of Education for the purposes of this section $1,500,000 for fiscal year 1992; $1,700,000 for fiscal year 1993; $1,900,000 for fiscal year 1994; $2,100,000 for fiscal year 1995; and $2,300,000 for fiscal year 1996.
 
 (Pub. L. 102–194, title II, §206, Dec. 9, 1991, 105 Stat. 1602.)
 

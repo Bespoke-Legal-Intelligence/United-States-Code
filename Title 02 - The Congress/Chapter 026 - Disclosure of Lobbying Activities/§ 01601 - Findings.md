@@ -36,5 +36,5 @@ Pub. L. 104–65, §1, Dec. 19, 1995, 109 Stat. 691, provided that: “This Act 
 
 #### Construction of 2007 Amendment
 
-Pub. L. 110–81, title VII, §703, Sept. 14, 2007, 121 Stat. 776, provided that: “Nothing in this Act \[see Tables for classification\] or the amendments made by this Act shall be construed to prohibit any expressive conduct protected from legal prohibition by, or any activities protected by the free speech, free exercise, or free association clauses of, the First Amendment to the Constitution.”
+Pub. L. 110–81, title VII, §703, Sept. 14, 2007, 121 Stat. 776, provided that: “Nothing in this Act \[see Tables for classification\] or the amendments made by this Act shall be construed to prohibit any expressive conduct protected from legal prohibition by, or any activitiesprotected by the free speech, free exercise, or free association clauses of, the First Amendment to the Constitution.”
 

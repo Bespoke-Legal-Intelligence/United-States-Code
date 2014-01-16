@@ -32,7 +32,7 @@ The Administrative Procedure Act of June 11, 1946, referred to in subsec. (e), w
 
 <b>1998</b>—Subsecs. (b) to (e). Pub. L. 105–304, §401(b)(1), added subsec. (b) and redesignated former subsecs. (b) to (d) as (c) to (e), respectively. Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 105–304 redesignated subsec. (e) as (f) and substituted “III” for “IV” and “5314” for “5315” in first sentence.
+Subsec. (f). Pub. L. 105–304 redesignated subsec. (e) as (f) and substituted "III" for "IV" and "5314" for "5315" in first sentence.
 
 <b>1990</b>—Subsec. (e). Pub. L. 101–319 added subsec. (e).
 
@@ -40,13 +40,13 @@ Subsec. (f). Pub. L. 105–304 redesignated subsec. (e) as (f) and substituted �
 
 Pub. L. 101–319, §5, July 3, 1990, 104 Stat. 291, provided that:
 
-“(a)
+"(a)
 
 Effective Date.—The amendments made by this Act \[amending this section and section 802 of this title and sections 5315 and 5316 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 101 of this title\] shall take effect on the date of the enactment of this Act \[July 3, 1990\].
 
-“(b)
+"(b)
 
-Budget Act.—Any new spending authority (within the meaning of section 401 of the Congressional Budget Act of 1974 \[2 U.S.C. 651\]) which is provided under this Act shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriations Acts.”
+Budget Act.—Any new spending authority (within the meaning of section 401 of the Congressional Budget Act of 1974 \[2 U.S.C. 651\]) which is provided under this Act shall be effective for any fiscal year only to the extent or in such amounts as are provided in appropriations Acts."
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

@@ -46,7 +46,7 @@ In this section:
 
 #### (5) Coordination
 
-&emsp;The Director shall ensure that the activities of HSARPA are coordinated with those of other relevant research agencies, and may run projects jointly with other agencies.
+&emsp;The Director shall ensure that the activities of HSARPA are coordinated with those ofother relevant research agencies, and may run projects jointly with other agencies.
 
 #### (6) Personnel
 

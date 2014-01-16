@@ -6,11 +6,11 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Base closure law.—The term “base closure law” has the meaning given that term in section 101(a)(17) of title 10.
+Base closure law.—The term "base closure law" has the meaning given that term in section 101(a)(17) of title 10.
 
 &emsp;(2)
 
-State.—The term “State” includes the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and the Northern Mariana Islands.
+State.—The term "State" includes the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and the Northern Mariana Islands.
 
 (b)
 
@@ -48,7 +48,7 @@ Deed of Conveyance.—The deed of conveyance of any surplus real and related per
 
 (f)
 
-Enforcement and Revision of Instruments Transferring Property Under This Section.—The Secretary of Transportation shall determine and enforce compliance with the terms, conditions, reservations, and restrictions contained in an instrument by which a transfer or conveyance under this section is made. The Secretary shall reform, correct, or amend the instrument if necessary to correct the instrument or to conform the transfer to the requirements of law. The Secretary shall grant a release from any term, condition, reservation or restriction contained in the instrument, and shall convey, quitclaim, or release to the grantee any right or interest reserved to the Government by the instrument, if the Secretary determines that the property no longer serves the purpose for which it was transferred or that a release, conveyance, or quitclaim deed will not prevent accomplishment of that purpose. The release, conveyance, or quitclaim deed may be made subject to terms and conditions that theSecretary considers necessary to protect or advance the interests of the Government.
+Enforcement and Revision of Instruments Transferring Property Under This Section.—The Secretary of Transportation shall determine and enforce compliance with the terms, conditions, reservations, and restrictions contained in an instrument by which a transfer or conveyance under this section is made. The Secretary shall reform, correct, or amend the instrument if necessary to correct the instrument or to conform the transfer to the requirements of law. The Secretary shall grant a release from any term, condition, reservation or restriction contained in the instrument, and shall convey, quitclaim, or release to the grantee any right or interest reserved to the Government by the instrument, if the Secretary determines that the property no longer serves the purpose for which it was transferred or that a release, conveyance, or quitclaim deed will not prevent accomplishment of that purpose. The release, conveyance, or quitclaim deed may be made subject to terms and conditions that the Secretary considers necessary to protect or advance the interests of the Government.
 
 (Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1100; Pub. L. 109–163, div. A, title X, §1056(a)(5)(A), Jan. 6, 2006, 119 Stat. 3439; Pub. L. 109–284, §6(4), Sept. 27, 2006, 120 Stat. 1212.)
 
@@ -68,21 +68,21 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title II, §203(q), as added Pub. L. 103–160, div. B, title XXIX, §2927(2), Nov. 30, 1993, 107 Stat. 1933.
 
-In subsection (a), the words “Trust Territory of the Pacific Islands” are omitted and the words “the Federated States of Micronesia, the Marshall Islands, Palau” are added because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
+In subsection (a), the words "Trust Territory of the Pacific Islands" are omitted and the words "the Federated States of Micronesia, the Marshall Islands, Palau" are added because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–163 substituted “has the meaning given that term in section 101(a)(17) of title 10.” for “means the following:
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–163 substituted "has the meaning given that term in section 101(a)(17) of title 10." for "means the following:
 
-&emsp;“(A) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
+&emsp;"(A) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
 
-&emsp;“(B) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
+&emsp;"(B) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
 
-&emsp;“(C) Section 2687 of title 10.”
+&emsp;"(C) Section 2687 of title 10."
 
-Subsec. (c). Pub. L. 109–284 substituted “
+Subsec. (c). Pub. L. 109–284 substituted "
 
-Transportation.—” for “
+Transportation.—" for "
 
-Transportation.” in heading.
+Transportation." in heading.
 

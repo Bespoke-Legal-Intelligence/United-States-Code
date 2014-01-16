@@ -50,7 +50,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 &emsp;&emsp;(A) establishes priorities for the allocation of funds within the State based on—
 
-&emsp;&emsp;&emsp;(i) size and demographics of the population of individuals with HIV/AIDS (as determined under paragraph (2)) and theneeds of such population (as determined under paragraph (3));
+&emsp;&emsp;&emsp;(i) size and demographics of the population of individuals with HIV/AIDS (as determined under paragraph (2)) and the needs of such population (as determined under paragraph (3));
 
 &emsp;&emsp;&emsp;(ii) availability of other governmental and non-governmental resources, including the State medicaid plan under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\] and the State Children's Health Insurance Program under title XXI of such Act \[42 U.S.C. 1397aa et seq.\] to cover health care costs of eligible individuals and families with HIV/AIDS;
 
@@ -178,7 +178,7 @@ The application submitted under subsection (a) of this section shall contain—
 
 #### (A) In general
 
-&emsp;&emsp;Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, and any portion of any service subsidized by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
+&emsp;&emsp;Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, and any portion of any service subsidized by the Federal Government, maynot be included in determining the amount of such non-Federal contributions.
 
 #### (B) Inclusion of certain amounts
 
@@ -220,9 +220,9 @@ Subsec. (b)(8). Pub. L. 111–87, §9, added par. (8).
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept, 30, 2009.
 
-Pub. L. 109–415, §204(a), substituted “section 300ff–21 of this title” for “this part” wherever appearing in subsecs. (a), (b), (c)(2), and (d).
+Pub. L. 109–415, §204(a), substituted "section 300ff–21 of this title" for "this part" wherever appearing in subsecs. (a), (b), (c)(2), and (d).
 
-Subsec. (b). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease” wherever appearing.
+Subsec. (b). Pub. L. 109–415, §702(3), substituted "HIV/AIDS" for "HIV disease" wherever appearing.
 
 Subsec. (b)(4). Pub. L. 109–415, §204(c)(1)(B), added par. (4). Former par. (4) redesignated (5).
 
@@ -230,37 +230,37 @@ Subsec. (b)(5). Pub. L. 109–415, §204(c)(1)(A), redesignated par. (4) as (5).
 
 Subsec. (b)(5)(G). Pub. L. 109–415, §204(c)(1)(C), added subpar. (G).
 
-Subsec. (b)(6). Pub. L. 109–415, §204(c)(2), inserted “members of a Federally recognized Indian tribe as represented in the State,” before “representatives of grantees”.
+Subsec. (b)(6). Pub. L. 109–415, §204(c)(2), inserted "members of a Federally recognized Indian tribe as represented in the State," before "representatives of grantees".
 
 Pub. L. 109–415, §204(c)(1)(A), redesignated par. (5) as (6). Former par. (6) redesignated (7).
 
 Subsec. (b)(7). Pub. L. 109–415, §204(c)(1)(A), redesignated par. (6) as (7).
 
-Subsec. (b)(7)(A). Pub. L. 109–415, §204(c)(1)(D), substituted “paragraph (6)” for “paragraph (5)” and “paragraph (5)” for “paragraph (4)”.
+Subsec. (b)(7)(A). Pub. L. 109–415, §204(c)(1)(D), substituted "paragraph (6)" for "paragraph (5)" and "paragraph (5)" for "paragraph (4)".
 
-Subsec. (b)(7)(F)(ii). Pub. L. 109–415, §204(c)(3), inserted “(except for a program administered by or providing the services of the Indian Health Service)” before semicolon.
+Subsec. (b)(7)(F)(ii). Pub. L. 109–415, §204(c)(3), inserted "(except for a program administered by or providing the services of the Indian Health Service)" before semicolon.
 
-Subsec. (d)(3)(A), (C). Pub. L. 109–415, §204(d), substituted “HIV/AIDS” for “acquired immune deficiency syndrome”.
+Subsec. (d)(3)(A), (C). Pub. L. 109–415, §204(d), substituted "HIV/AIDS" for "acquired immune deficiency syndrome".
 
 <b>2000</b>—Subsec. (b)(2), (3). Pub. L. 106–345, §205(a)(2), added pars. (2) and (3). Former pars. (2) and (3) redesignated (4) and (5), respectively.
 
-Subsec. (b)(4). Pub. L. 106–345, §205(a)(3)(A), (B), in introductory provisions substituted “comprehensive plan that describes the organization” for “comprehensive plan for the organization” and “, and that—” for “, including—”.
+Subsec. (b)(4). Pub. L. 106–345, §205(a)(3)(A), (B), in introductory provisions substituted "comprehensive plan that describes the organization" for "comprehensive plan for the organization" and ", and that—" for ", including—".
 
 Pub. L. 106–345, §205(a)(1), redesignated par. (2) as (4). Former par. (4) redesignated (6).
 
-Subsec. (b)(4)(A) to (C). Pub. L. 106–345, §205(a)(3)(D), which directed the amendment of par. (4) by adding subpars. (A) to (C) “before subparagraph (C)”, was executed by adding them before subpar. (D), to reflect the probable intent of Congress. Former subpars. (A) to (C) redesignated (D) to (F), respectively.
+Subsec. (b)(4)(A) to (C). Pub. L. 106–345, §205(a)(3)(D), which directed the amendment of par. (4) by adding subpars. (A) to (C) "before subparagraph (C)", was executed by adding them before subpar. (D), to reflect the probable intent of Congress. Former subpars. (A) to (C) redesignated (D) to (F), respectively.
 
-Subsec. (b)(4)(D). Pub. L. 106–345, §205(a)(3)(C), (E), redesignated subpar. (A) as (D) and inserted “describes” before “the services and activities”.
+Subsec. (b)(4)(D). Pub. L. 106–345, §205(a)(3)(C), (E), redesignated subpar. (A) as (D) and inserted "describes" before "the services and activities".
 
-Subsec. (b)(4)(E). Pub. L. 106–345, §205(a)(3)(C), (F), redesignated subpar. (B) as (E) and inserted “provides” before “a description”.
+Subsec. (b)(4)(E). Pub. L. 106–345, §205(a)(3)(C), (F), redesignated subpar. (B) as (E) and inserted "provides" before "a description".
 
-Subsec. (b)(4)(F). Pub. L. 106–345, §205(a)(3)(C), (G), redesignated subpar. (C) as (F) and inserted “provides” before “a description”.
+Subsec. (b)(4)(F). Pub. L. 106–345, §205(a)(3)(C), (G), redesignated subpar. (C) as (F) and inserted "provides" before "a description".
 
-Subsec. (b)(5). Pub. L. 106–345, §205(a)(1), (b)(1), redesignated par. (3) as (5) and substituted “HIV disease” for “HIV”.
+Subsec. (b)(5). Pub. L. 106–345, §205(a)(1), (b)(1), redesignated par. (3) as (5) and substituted "HIV disease" for "HIV".
 
 Subsec. (b)(6). Pub. L. 106–345, §205(a)(1), redesignated par. (4) as (6).
 
-Subsec. (b)(6)(A). Pub. L. 106–345, §205(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the public health agency that is administering the grant for the State will conduct public hearings concerning the proposed use and distribution of the assistance to be received under this part;”.
+Subsec. (b)(6)(A). Pub. L. 106–345, §205(b)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the public health agency that is administering the grant for the State will conduct public hearings concerning the proposed use and distribution of the assistance to be received under this part;".
 
 Subsec. (b)(6)(G). Pub. L. 106–345, §205(c), added subpar. (G).
 
@@ -270,9 +270,9 @@ Subsec. (b)(3). Pub. L. 104–146, §3(c)(4)(C), added par. (3). Former par. (3)
 
 Subsec. (b)(4). Pub. L. 104–146, §3(c)(4)(B), redesignated par. (3) as (4).
 
-Subsec. (b)(4)(B)(iv). Pub. L. 104–146, §12(c)(3), which directed amendment of par. (3)(B)(iv) by inserting “section” before “300ff–25”, was executed by making the amendment in par. (4)(B)(iv) to reflect the probable intent of Congress and the redesignation of par. (3) as (4) by Pub. L. 104–146, §3(c)(4)(B). See above.
+Subsec. (b)(4)(B)(iv). Pub. L. 104–146, §12(c)(3), which directed amendment of par. (3)(B)(iv) by inserting "section" before "300ff–25", was executed by making the amendment in par. (4)(B)(iv) to reflect the probable intent of Congress and the redesignation of par. (3) as (4) by Pub. L. 104–146, §3(c)(4)(B). See above.
 
-<b>1992</b>—Subsec. (d)(3)(A). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (d)(3)(A). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
 #### Effective Date of 2009 Amendment; Revival of Section
 
@@ -284,9 +284,9 @@ Amendment by Pub. L. 104–146 effective Oct. 1, 1996, see section 13 of Pub. L.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 
-<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "and" probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "sections".</i>
 
 <i><sup>4</sup></i><i> See References in Text note below.</i>
 

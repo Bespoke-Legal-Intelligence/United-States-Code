@@ -6,11 +6,11 @@ In this section:
 
 #### (1) Merchantable timber
 
-&emsp;The term “merchantable timber” means timber on private nonindustrial forest land on which the average tree has a trunk diameter of at least 6 inches measured at a point no less than 4.5 feet above the ground.
+&emsp;The term "merchantable timber" means timber on private nonindustrial forest land on which the average tree has a trunk diameter of at least 6 inches measured at a point no less than 4.5 feet above the ground.
 
 #### (2) Private nonindustrial forest land
 
-&emsp;The term “private nonindustrial forest land” includes State school trust land.
+&emsp;The term "private nonindustrial forest land" includes State school trust land.
 
 #### (b) Program
 
@@ -94,7 +94,7 @@ The Secretary shall carry out an emergency pilot program in States that the Secr
 
 &emsp;&emsp;&emsp;(ii) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804), relating to notices of proposed rulemaking and public participation in rulemaking; and
 
-&emsp;&emsp;&emsp;(iii) chapter 35 of title 44 (commonly known as the “Paperwork Reduction Act”).
+&emsp;&emsp;&emsp;(iii) chapter 35 of title 44 (commonly known as the "Paperwork Reduction Act").
 
 #### (C) Congressional review of agency rulemaking
 
@@ -108,7 +108,7 @@ Section 3843 of this title, referred to in subsec. (c)(3)(A), was amended genera
 
 #### Codification
 
-December 30, 2005, referred to in subsec. (c)(9)(A), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 109–148, which enacted subsec. (k) of section 3831 of this title (now this section), to reflect the probable intent of Congress.
+December 30, 2005, referred to in subsec. (c)(9)(A), was in the original "the date of enactment of this Act", which was translated as meaning the date of enactment of Pub. L. 109–148, which enacted subsec. (k) of section 3831 of this title (now this section), to reflect the probable intent of Congress.
 
 Pub. L. 110–234 and Pub. L. 110–246 both renumbered section 1231(k) of Pub. L. 99–198 as section 1231A of Pub. L. 99–198 and made identical amendments to such section. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246.
 
@@ -116,7 +116,7 @@ Section 3831(k) of this title, which was transferred and redesignated as this se
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §2106(b), transferred section 3831(k) of this title to this section, substituted “this section” for “this subsection” wherever appearing, redesignated pars. (1) to (3) as subsecs. (a) to (c), respectively, in subsec. (a) redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, in subsec. (c) redesignated subpars. (A) to (I) as pars. (1) to (9), respectively, in par. (1) substituted “paragraph (2)” for “subparagraph (B)” and “paragraph (7)” for “subparagraph (G)”, in pars. (3) and (4) redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, in par. (3)(B) substituted “section 3831(d) of this title” for “subsection (d) of this section”, in par. (5) redesignated cls. (i) to (v) as subpars. (A) to (E), respectively, in subpar. (A) redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively, in subpar. (B) substituted “subparagraph (A)(i)” for “clause (i)(I)”, in subpar. (C) substituted “subparagraph (A)(ii)” for “clause (i)(II)”, in par. (9) redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and in subpar. (B) redesignated subcls. (I) to (III) as cls. (i) to (iii), respectively. See Codification note above.
+<b>2008</b>—Pub. L. 110–246, §2106(b), transferred section 3831(k) of this title to this section, substituted "this section" for "this subsection" wherever appearing, redesignated pars. (1) to (3) as subsecs. (a) to (c), respectively, in subsec. (a) redesignated subpars. (A) and (B) as pars. (1) and (2), respectively, in subsec. (c) redesignated subpars. (A) to (I) as pars. (1) to (9), respectively, in par. (1) substituted "paragraph (2)" for "subparagraph (B)" and "paragraph (7)" for "subparagraph (G)", in pars. (3) and (4) redesignated cls. (i) and (ii) as subpars. (A) and (B), respectively, in par. (3)(B) substituted "section 3831(d) of this title" for "subsection (d) of this section", in par. (5) redesignated cls. (i) to (v) as subpars. (A) to (E), respectively, in subpar. (A) redesignated subcls. (I) and (II) as cls. (i) and (ii), respectively, in subpar. (B) substituted "subparagraph (A)(i)" for "clause (i)(I)", in subpar. (C) substituted "subparagraph (A)(ii)" for "clause (i)(II)", in par. (9) redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively, and in subpar. (B) redesignated subcls. (I) to (III) as cls. (i) to (iii), respectively. See Codification note above.
 
 #### Effective Date of 2008 Amendment
 

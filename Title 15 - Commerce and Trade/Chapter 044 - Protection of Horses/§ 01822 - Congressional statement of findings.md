@@ -4,7 +4,7 @@ The Congress finds and declares that—
 
 &emsp;(1) the soring of horses is cruel and inhumane;
 
-&emsp;(2) horses shown or exhibited which are sore, where such soreness improves the performanceof such horse, compete unfairly with horses which are not sore;
+&emsp;(2) horses shown or exhibited which are sore, where such soreness improves the performance of such horse, compete unfairly with horses which are not sore;
 
 &emsp;(3) the movement, showing, exhibition, or sale of sore horses in intrastate commerce adversely affects and burdens interstate and foreign commerce;
 

@@ -2,21 +2,21 @@
 
 As used in this Act, unless the context otherwise indicates, the term—
 
-&emsp;(1) “Association” means the United States Railway Association;
+&emsp;(1) "Association" means the United States Railway Association;
 
-&emsp;(2) “Commission” means the Interstate Commerce Commission;
+&emsp;(2) "Commission" means the Interstate Commerce Commission;
 
-&emsp;(3) “Corporation” means the Consolidated Rail Corporation;
+&emsp;(3) "Corporation" means the Consolidated Rail Corporation;
 
-&emsp;(4) “final system plan” means the final system plan and any additions thereto adopted by the Association pursuant to the Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.);
+&emsp;(4) "final system plan" means the final system plan and any additions thereto adopted by the Association pursuant to the Regional Rail Reorganization Act of 1973 (45 U.S.C. 701 et seq.);
 
-&emsp;(5) “includes” and variants thereof should be read as if the phrase “but is not limited to” were also set forth;
+&emsp;(5) "includes" and variants thereof should be read as if the phrase "but is not limited to" were also set forth;
 
-&emsp;(6) “Office” means the Rail Services Planning Office of the Commission;
+&emsp;(6) "Office" means the Rail Services Planning Office of the Commission;
 
-&emsp;(7) “railroad” has the meaning given that term in section 20102 of title 49; and
+&emsp;(7) "railroad" has the meaning given that term in section 20102 of title 49; and
 
-&emsp;(8) “Secretary” means the Secretary of Transportation or his designated representative.
+&emsp;(8) "Secretary" means the Secretary of Transportation or his designated representative.
 
 (Pub. L. 94–210, title I, §102, Feb. 5, 1976, 90 Stat. 33; Pub. L. 97–468, title VI, §615(b)(2), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 104–88, title III, §330(1), Dec. 29, 1995, 109 Stat. 953; Pub. L. 109–59, title IX, §9003(a), Aug. 10, 2005, 119 Stat. 1921.)
 
@@ -28,11 +28,11 @@ The Regional Rail Reorganization Act of 1973, referred to in par. (4), is Pub. L
 
 #### Amendments
 
-<b>2005</b>—Par. (7). Pub. L. 109–59 amended par. (7) generally. Prior to amendment, par. (7) read as follows: “ ‘railroad’ means a rail carrier subject to part A of subtitle IV of title 49, and includes the National Railroad Passenger Corporation; and”.
+<b>2005</b>—Par. (7). Pub. L. 109–59 amended par. (7) generally. Prior to amendment, par. (7) read as follows: " 'railroad' means a rail carrier subject to part A of subtitle IV of title 49, and includes the National Railroad Passenger Corporation; and".
 
-<b>1995</b>—Par. (7). Pub. L. 104–88 substituted “rail carrier subject to part A of subtitle IV of title 49” for “common carrier by railroad or express, as defined in section 1(3) of the Interstate Commerce Act (49 U.S.C. 1(3))”.
+<b>1995</b>—Par. (7). Pub. L. 104–88 substituted "rail carrier subject to part A of subtitle IV of title 49" for "common carrier by railroad or express, as defined in section 1(3) of the Interstate Commerce Act (49 U.S.C. 1(3))".
 
-<b>1983</b>—Par. (7). Pub. L. 97–468 struck out “and the Alaska Railroad” before the semicolon at end.
+<b>1983</b>—Par. (7). Pub. L. 97–468 struck out "and the Alaska Railroad" before the semicolon at end.
 
 #### Effective Date of 1995 Amendment
 

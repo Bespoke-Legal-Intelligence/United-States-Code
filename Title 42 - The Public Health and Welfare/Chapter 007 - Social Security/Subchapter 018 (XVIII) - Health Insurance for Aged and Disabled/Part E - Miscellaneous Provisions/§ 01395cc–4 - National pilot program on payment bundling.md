@@ -12,7 +12,7 @@
 
 #### (A) Applicable beneficiary
 
-&emsp;&emsp;The term “applicable beneficiary” means an individual who—
+&emsp;&emsp;The term "applicable beneficiary" means an individual who—
 
 &emsp;&emsp;&emsp;(i) is entitled to, or enrolled for, benefits under part A and enrolled for benefits under part B of such subchapter, but not enrolled under part C or a PACE program under section 1395eee of this title; and
 
@@ -20,7 +20,7 @@
 
 #### (B) Applicable condition
 
-&emsp;&emsp;The term “applicable condition” means 1 or more of 10 conditions selected by the Secretary. In selecting conditions under the preceding sentence, the Secretary shall take into consideration the following factors:
+&emsp;&emsp;The term "applicable condition" means 1 or more of 10 conditions selected by the Secretary. In selecting conditions under the preceding sentence, the Secretary shall take into consideration the following factors:
 
 &emsp;&emsp;&emsp;(i) Whether the conditions selected include a mix of chronic and acute conditions.
 
@@ -40,11 +40,11 @@
 
 #### (C) Applicable services
 
-&emsp;&emsp;The term “applicable services” means the following:
+&emsp;&emsp;The term "applicable services" means the following:
 
 &emsp;&emsp;&emsp;(i) Acute care inpatient services.
 
-&emsp;&emsp;&emsp;(ii) Physicians’ services delivered in and outside of an acute care hospital setting.
+&emsp;&emsp;&emsp;(ii) Physicians' services delivered in and outside of an acute care hospital setting.
 
 &emsp;&emsp;&emsp;(iii) Outpatient hospital services, including emergency department services.
 
@@ -56,7 +56,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), the term “episode of care” means, with respect to an applicable condition and an applicable beneficiary, the period that includes—
+&emsp;&emsp;&emsp;Subject to clause (ii), the term "episode of care" means, with respect to an applicable condition and an applicable beneficiary, the period that includes—
 
 &emsp;&emsp;&emsp;&emsp;(I) the 3 days prior to the admission of the applicable beneficiary to a hospital for the applicable condition;
 
@@ -68,25 +68,25 @@
 
 &emsp;&emsp;&emsp;The Secretary, as appropriate, may establish a period (other than the period described in clause (i)) for an episode of care under the pilot program.
 
-#### (E) Physicians’ services
+#### (E) Physicians' services
 
-&emsp;&emsp;The term “physicians’ services” has the meaning given such term in section 1395x(q) of this title.
+&emsp;&emsp;The term "physicians' services" has the meaning given such term in section 1395x(q) of this title.
 
 #### (F) Pilot program
 
-&emsp;&emsp;The term “pilot program” means the pilot program under this section.
+&emsp;&emsp;The term "pilot program" means the pilot program under this section.
 
 #### (G) Provider of services
 
-&emsp;&emsp;The term “provider of services” has the meaning given such term in section 1395x(u) of this title.
+&emsp;&emsp;The term "provider of services" has the meaning given such term in section 1395x(u) of this title.
 
 #### (H) Readmission
 
-&emsp;&emsp;The term “readmission” has the meaning given such term in section 1395ww(q)(5)(E) of this title.
+&emsp;&emsp;The term "readmission" has the meaning given such term in section 1395ww(q)(5)(E) of this title.
 
 #### (I) Supplier
 
-&emsp;&emsp;The term “supplier” has the meaning given such term in section 1395x(d) of this title.
+&emsp;&emsp;The term "supplier" has the meaning given such term in section 1395x(d) of this title.
 
 #### (3) Deadline for implementation
 
@@ -180,7 +180,7 @@
 
 #### (D) Payment for post-acute care services after the episode of care
 
-&emsp;&emsp;The Secretary shall establish procedures, in the case where an applicable beneficiary requires continued post-acute care services after the last day of the episode of care, under which payment for such services shall be made.
+&emsp;&emsp;The Secretary shall establish procedures, in the case where an applicable beneficiaryrequires continued post-acute care services after the last day of the episode of care, under which payment for such services shall be made.
 
 #### (4) Quality measures
 
@@ -238,7 +238,7 @@ The Secretary may waive such provisions of this subchapter and subchapter XI as 
 
 #### (A) Interim report
 
-&emsp;&emsp;Not later than 2 years after the implementation of the pilot program, the Secretaryshall submit to Congress a report on the initial results of the independent evaluation conducted under paragraph (1).
+&emsp;&emsp;Not later than 2 years after the implementation of the pilot program, the Secretary shall submit to Congress a report on the initial results of the independent evaluation conducted under paragraph (1).
 
 #### (B) Final report
 
@@ -264,7 +264,7 @@ The Secretary shall consult with representatives of small rural hospitals, inclu
 
 #### (3) Continuing care hospital defined
 
-&emsp;In this subsection, the term “continuing care hospital” means an entity that has demonstrated the ability to meet patient care and patient safety standards and that provides under common management the medical and rehabilitation services provided in inpatient rehabilitation hospitals and units (as defined in section 1395ww(d)(1)(B)(ii) of this title), long term care hospitals (as defined in section 1395ww(d)(1)(B)(iv)(I) of this title), and skilled nursing facilities (as defined in section 1395i–3(a) of this title) that are located in a hospital described in section 1395ww(d) of this title.
+&emsp;In this subsection, the term "continuing care hospital" means an entity that has demonstrated the ability to meet patient care and patient safety standards and that provides under common management the medical and rehabilitation services provided in inpatient rehabilitation hospitals and units (as defined in section 1395ww(d)(1)(B)(ii) of this title), long term care hospitals (as defined in section 1395ww(d)(1)(B)(iv)(I) of this title), and skilled nursing facilities (as defined in section 1395i–3(a) of this title) that are located in a hospital described in section 1395ww(d) of this title.
 
 #### (h) Administration
 
@@ -284,11 +284,11 @@ Another section 1866D of act Aug. 14, 1935, was renumbered section 1866E and is 
 
 <b>2010</b>—Pub. L. 111–148, §10308(b)(1), made technical correction to directory language of Pub. L. 111–148, §3023, which enacted this section.
 
-Subsec. (a)(2)(B). Pub. L. 111–148, §10308(a)(1), substituted “10 conditions” for “8 conditions”.
+Subsec. (a)(2)(B). Pub. L. 111–148, §10308(a)(1), substituted "10 conditions" for "8 conditions".
 
-Subsec. (c)(1)(B). Pub. L. 111–148, §10308(a)(2), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: “The Secretary may extend the duration of the pilot program for providers of services and suppliers participating in the pilot program as of the day before the end of the 5-year period described in subparagraph (A), for a period determined appropriate by the Secretary, if the Secretary determines that such extension will result in improving or not reducing the quality of patient care and reducing spending under this subchapter.”
+Subsec. (c)(1)(B). Pub. L. 111–148, §10308(a)(2), added subpar. (B) and struck out former subpar. (B). Prior to amendment, text read as follows: "The Secretary may extend the duration of the pilot program for providers of services and suppliers participating in the pilot program as of the day before the end of the 5-year period described in subparagraph (A), for a period determined appropriate by the Secretary, if the Secretary determines that such extension will result in improving or not reducing the quality of patient care and reducing spending under this subchapter."
 
-Subsec. (g). Pub. L. 111–148, §10308(a)(3), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “Not later than January 1, 2016, the Secretary shall submit a plan for the implementation of an expansion of the pilot program if the Secretary determines that such expansion will result in improving or not reducing the quality of patient care and reducing spending under this subchapter.”
+Subsec. (g). Pub. L. 111–148, §10308(a)(3), added subsec. (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "Not later than January 1, 2016, the Secretary shall submit a plan for the implementation of an expansion of the pilot program if the Secretary determines that such expansion will result in improving or not reducing the quality of patient care and reducing spending under this subchapter."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 

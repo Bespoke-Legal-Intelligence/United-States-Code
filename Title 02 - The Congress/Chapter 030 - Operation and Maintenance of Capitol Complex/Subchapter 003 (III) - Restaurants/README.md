@@ -16,3 +16,4 @@
 - [&sect; 02049 - Loans for Senate Restaurants](%C2%A7%2002049%20-%20Loans%20for%20Senate%20Restaurants.md)
 - [&sect; 02050 - Transfer of appropriations for management personnel and miscellaneous restaurant expenses to special deposit account](%C2%A7%2002050%20-%20Transfer%20of%20appropriations%20for%20management%20personnel%20and%20miscellaneous%20restaurant%20expenses%20to%20special%20deposit%20account.md)
 - [&sect; 02051 - Continued benefits for certain Senate Restaurants employees](%C2%A7%2002051%20-%20Continued%20benefits%20for%20certain%20Senate%20Restaurants%20employees.md)
+- [&sect; 02052 - Senate restaurant deficit fund; deposit of proceeds from surcharge on orders](%C2%A7%2002052%20-%20Senate%20restaurant%20deficit%20fund%3B%20deposit%20of%20proceeds%20from%20surcharge%20on%20orders.md)

@@ -20,7 +20,7 @@ Language as to order of trial was omitted and incorporated in section 3435 of th
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–294 substituted “$1,000” for “$100”.
+<b>1996</b>—Pub. L. 104–294 substituted "$1,000" for "$100".
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in two places.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000" in two places.
 

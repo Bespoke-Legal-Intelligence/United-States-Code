@@ -44,7 +44,7 @@ Decisions By Secretary.—The final regulations, policy statements, or guideline
 
 &emsp;(4) If the Secretary, upon the expiration of 120 days after the filing of the complaint, has not issued a final order, the decision of the administrative law judge shall be deemed to be the final order of the Secretary.
 
-&emsp;(5) Any party to the dispute may seek review of a final order of the Secretary under this subsection in the Circuit Court of Appeals for the District of Columbia Circuit or the court of appeals in the circuit where the airport which gives rise to the written complaint is located.
+&emsp;(5) Any party to the dispute may seek review of a final order of the Secretary under thissubsection in the Circuit Court of Appeals for the District of Columbia Circuit or the court of appeals in the circuit where the airport which gives rise to the written complaint is located.
 
 &emsp;(6) Any findings of fact in a final order of the Secretary under this subsection, if supported by substantial evidence, shall be conclusive if challenged in a court pursuant to this subsection. No objection to such a final order shall be considered by the court unless objection was urged before an administrative law judge or the Secretary at a proceeding under this subsection or, if not so urged, unless there were reasonable grounds for failure to do so.
 
@@ -96,7 +96,7 @@ Effect On Existing Agreements.—Nothing in this section shall adversely affect�
 
 (g)
 
-Definition.—In this section, the term “fee” means any rate, rental charge, landing fee, or other service charge for the use of airport facilities.
+Definition.—In this section, the term "fee" means any rate, rental charge, landing fee, or other service charge for the use of airport facilities.
 
 (Added Pub. L. 103–305, title I, §113(a)(2), Aug. 23, 1994, 108 Stat. 1577; amended Pub. L. 104–264, title I, §149(d), Oct. 9, 1996, 110 Stat. 3227; Pub. L. 104–287, §5(85), Oct. 11, 1996, 110 Stat. 3397; Pub. L. 112–95, title I, §148(a), Feb. 14, 2012, 126 Stat. 31.)
 
@@ -116,35 +116,35 @@ A prior section 47129 was renumbered section 47131 of this title.
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–95, §148(a)(1), substituted “Resolution of disputes concerning airport fees” for “Resolution of airport-air carrier disputes concerning airport fees” in section catchline.
+<b>2012</b>—Pub. L. 112–95, §148(a)(1), substituted "Resolution of disputes concerning airport fees" for "Resolution of airport-air carrier disputes concerning airport fees" in section catchline.
 
-Subsec. (a)(1). Pub. L. 112–95, §148(a)(6), (7), substituted “air carriers or foreign air carriers” for “air carriers” and “(as those terms are defined in section 40102)” for “(as defined in section 40102 of this title)” in introductory provisions.
+Subsec. (a)(1). Pub. L. 112–95, §148(a)(6), (7), substituted "air carriers or foreign air carriers" for "air carriers" and "(as those terms are defined in section 40102)" for "(as defined in section 40102 of this title)" in introductory provisions.
 
-Subsec. (a)(1)(B). Pub. L. 112–95, §148(a)(4), substituted “air carrier or foreign air carrier” for “air carrier”.
+Subsec. (a)(1)(B). Pub. L. 112–95, §148(a)(4), substituted "air carrier or foreign air carrier" for "air carrier".
 
-Subsec. (c)(1). Pub. L. 112–95, §148(a)(4), substituted “air carrier or foreign air carrier” for “air carrier”.
+Subsec. (c)(1). Pub. L. 112–95, §148(a)(4), substituted "air carrier or foreign air carrier" for "air carrier".
 
-Subsec. (d). Pub. L. 112–95, §148(a)(2), inserted “and Foreign Air Carrier” after “Carrier” in heading.
+Subsec. (d). Pub. L. 112–95, §148(a)(2), inserted "and Foreign Air Carrier" after "Carrier" in heading.
 
-Subsec. (d)(1)(A) to (C). Pub. L. 112–95, §148(a)(4), substituted “air carrier or foreign air carrier” for “air carrier” wherever appearing.
+Subsec. (d)(1)(A) to (C). Pub. L. 112–95, §148(a)(4), substituted "air carrier or foreign air carrier" for "air carrier" wherever appearing.
 
-Subsec. (d)(2). Pub. L. 112–95, §148(a)(3)–(5), inserted “and foreign air carrier” after “carrier” in heading and, in text, substituted “air carrier's or foreign air carrier's” for “air carrier's” in two places and “air carrier or foreign air carrier” for “air carrier”.
+Subsec. (d)(2). Pub. L. 112–95, §148(a)(3)–(5), inserted "and foreign air carrier" after "carrier" in heading and, in text, substituted "air carrier's or foreign air carrier's" for "air carrier's" in two places and "air carrier or foreign air carrier" for "air carrier".
 
-Subsec. (e)(1). Pub. L. 112–95, §148(a)(6), substituted “air carriers or foreign air carriers” for “air carriers”.
+Subsec. (e)(1). Pub. L. 112–95, §148(a)(6), substituted "air carriers or foreign air carriers" for "air carriers".
 
-Subsec. (f)(1). Pub. L. 112–95, §148(a)(4), substituted “air carrier or foreign air carrier” for “air carrier”.
+Subsec. (f)(1). Pub. L. 112–95, §148(a)(4), substituted "air carrier or foreign air carrier" for "air carrier".
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–287, §5(85)(A), substituted “of this title” for “of this subtitle” in introductory provisions.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–287, §5(85)(A), substituted "of this title" for "of this subtitle" in introductory provisions.
 
 Subsec. (a)(4). Pub. L. 104–264 added par. (4).
 
-Subsecs. (b), (e)(2). Pub. L. 104–287, §5(85)(B), substituted “August 23, 1994” for “the date of the enactment of this section”.
+Subsecs. (b), (e)(2). Pub. L. 104–287, §5(85)(B), substituted "August 23, 1994" for "the date of the enactment of this section".
 
-Subsec. (e)(3). Pub. L. 104–287, §5(85)(C), substituted “August 23, 1994” for “such date of enactment”.
+Subsec. (e)(3). Pub. L. 104–287, §5(85)(C), substituted "August 23, 1994" for "such date of enactment".
 
-Subsec. (f)(2). Pub. L. 104–287, §5(85)(B), substituted “August 23, 1994” for “the date of the enactment of this section”.
+Subsec. (f)(2). Pub. L. 104–287, §5(85)(B), substituted "August 23, 1994" for "the date of the enactment of this section".
 
 #### Effective Date of 1996 Amendment
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construedas affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 

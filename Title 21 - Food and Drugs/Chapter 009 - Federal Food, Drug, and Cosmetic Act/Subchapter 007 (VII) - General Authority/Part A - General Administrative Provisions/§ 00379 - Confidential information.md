@@ -8,7 +8,7 @@ The Secretary may provide any information which is exempt from disclosure pursua
 
 #### (1) In general
 
-&emsp;The Secretary shall not be required to disclose under section 552 of title 5 (commonly referred to as the “Freedom of Information Act”), or any other provision of law, any information relating to drugs obtained from a foreign government agency, if—
+&emsp;The Secretary shall not be required to disclose under section 552 of title 5 (commonly referred to as the "Freedom of Information Act"), or any other provision of law, any information relating to drugs obtained from a foreign government agency, if—
 
 &emsp;&emsp;(A) the information concerns the inspection of a facility, is part of an investigation, alerts the United States to the potential need for an investigation, or concerns a drug that has a reasonable probability of causing serious adverse health consequences or death to humans or animals;
 
@@ -18,7 +18,7 @@ The Secretary may provide any information which is exempt from disclosure pursua
 
 #### (2) Time limitations
 
-&emsp;The written agreement described in paragraph (1)(C) shall specify the time period for which paragraph (1) shall apply to the voluntarily disclosed information. Paragraph (1) shall not apply with respect to such information after the date specified in such agreement, but all other applicable legal protections, including the provisions of section 552 of title 5 and section 247d–7e(e)(1) of title 42, as applicable, shall continue to apply to such information. If no date is specified in the written agreement, paragraph (1) shall not apply with respect to such information for a period of more than 36 months.
+&emsp;The written agreement described in paragraph (1)(C) shall specify the time period forwhich paragraph (1) shall apply to the voluntarily disclosed information. Paragraph (1) shall not apply with respect to such information after the date specified in such agreement, but all other applicable legal protections, including the provisions of section 552 of title 5 and section 247d–7e(e)(1) of title 42, as applicable, shall continue to apply to such information. If no date is specified in the written agreement, paragraph (1) shall not apply with respect to such information for a period of more than 36 months.
 
 #### (3) Disclosures not affected
 
@@ -54,7 +54,7 @@ The Secretary may enter into written agreements to provide information reference
 
 #### (4) Effect of subsection
 
-&emsp;Nothing in this subsection affects the ability of the Secretary to enter into any writtenagreement authorized by other provisions of law to share confidential information.
+&emsp;Nothing in this subsection affects the ability of the Secretary to enter into any written agreement authorized by other provisions of law to share confidential information.
 
 (June 25, 1938, ch. 675, §708, as added Pub. L. 94–295, §8, May 28, 1976, 90 Stat. 582; amended Pub. L. 112–144, title VII, §710, July 9, 2012, 126 Stat. 1070.)
 

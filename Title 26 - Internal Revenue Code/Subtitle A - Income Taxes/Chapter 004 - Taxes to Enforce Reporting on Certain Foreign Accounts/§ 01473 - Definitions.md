@@ -8,7 +8,7 @@ For purposes of this chapter—
 
 #### (A) In general
 
-&emsp;&emsp;The term “withholdable payment” means—
+&emsp;&emsp;The term "withholdable payment" means—
 
 &emsp;&emsp;&emsp;(i) any payment of interest (including any original issue discount), dividends, rents, salaries, wages, premiums, annuities, compensations, remunerations, emoluments, and other fixed or determinable annual or periodical gains, profits, and income, if such payment is from sources within the United States, and
 
@@ -26,7 +26,7 @@ For purposes of this chapter—
 
 #### (A) In general
 
-&emsp;&emsp;The term “substantial United States owner” means—
+&emsp;&emsp;The term "substantial United States owner" means—
 
 &emsp;&emsp;&emsp;(i) with respect to any corporation, any specified United States person which owns, directly or indirectly, more than 10 percent of the stock of such corporation (by vote or value),
 
@@ -40,11 +40,11 @@ For purposes of this chapter—
 
 #### (B) Special rule for investment vehicles
 
-&emsp;&emsp;In the case of any financial institution described in section 1471(d)(5)(C), clauses (i), (ii), and (iii) of subparagraph (A) shall be applied by substituting “0 percent” for “10 percent”.
+&emsp;&emsp;In the case of any financial institution described in section 1471(d)(5)(C), clauses (i), (ii), and (iii) of subparagraph (A) shall be applied by substituting "0 percent" for "10 percent".
 
 #### (3) Specified United States person
 
-&emsp;Except as otherwise provided by the Secretary, the term “specified United States person” means any United States person other than—
+&emsp;Except as otherwise provided by the Secretary, the term "specified United States person" means any United States person other than—
 
 &emsp;&emsp;(A) any corporation the stock of which is regularly traded on an established securities market,
 
@@ -72,11 +72,11 @@ For purposes of this chapter—
 
 #### (4) Withholding agent
 
-&emsp;The term “withholding agent” means all persons, in whatever capacity acting, having the control, receipt, custody, disposal, or payment of any withholdable payment.
+&emsp;The term "withholding agent" means all persons, in whatever capacity acting, having the control, receipt, custody, disposal, or payment of any withholdable payment.
 
 #### (5) Foreign entity
 
-&emsp;The term “foreign entity” means any entity which is not a United States person.
+&emsp;The term "foreign entity" means any entity which is not a United States person.
 
 (Added Pub. L. 111–147, title V, §501(a), Mar. 18, 2010, 124 Stat. 103.)
 

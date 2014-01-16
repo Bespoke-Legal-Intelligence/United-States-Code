@@ -4,15 +4,15 @@
 
 (b) In this section—
 
-&emsp;(1) the term “capture”, with respect to an image, means to videotape, photograph, film, record by any means, or broadcast;
+&emsp;(1) the term "capture", with respect to an image, means to videotape, photograph, film, record by any means, or broadcast;
 
-&emsp;(2) the term “broadcast” means to electronically transmit a visual image with the intent that it be viewed by a person or persons;
+&emsp;(2) the term "broadcast" means to electronically transmit a visual image with the intent that it be viewed by a person or persons;
 
-&emsp;(3) the term “a private area of the individual” means the naked or undergarment clad genitals, pubic area, buttocks, or female breast of that individual;
+&emsp;(3) the term "a private area of the individual" means the naked or undergarment clad genitals, pubic area, buttocks, or female breast of that individual;
 
-&emsp;(4) the term “female breast” means any portion of the female breast below the top of the areola; and
+&emsp;(4) the term "female breast" means any portion of the female breast below the top of the areola; and
 
-&emsp;(5) the term “under circumstances in which that individual has a reasonable expectation of privacy” means—
+&emsp;(5) the term "under circumstances in which that individual has a reasonable expectation of privacy" means—
 
 &emsp;&emsp;(A) circumstances in which a reasonable person would believe that he or she could disrobe in privacy, without being concerned that an image of a private area of the individual was being captured; or
 
@@ -24,5 +24,5 @@
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–495, §1, Dec. 23, 2004, 118 Stat. 3999, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Video Voyeurism Prevention Act of 2004’.”
+Pub. L. 108–495, §1, Dec. 23, 2004, 118 Stat. 3999, provided that: "This Act \[enacting this chapter\] may be cited as the 'Video Voyeurism Prevention Act of 2004'."
 

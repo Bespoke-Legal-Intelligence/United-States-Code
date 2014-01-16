@@ -6,7 +6,7 @@ A patent for any land claimed and located for valuable deposits may be obtained 
 
 #### References in Text
 
-Sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title and section 661 of title 43, referred to in text, were in the original “this chapter”, meaning chapter 6 of title 32 of the Revised Statutes, consisting of R.S. §§2318 to 2352.
+Sections 21, 22 to 24, 26 to 28, 29, 30, 33 to 48, 50 to 52, 71 to 76 of this title and section 661 of title 43, referred to in text, were in the original "this chapter", meaning chapter 6 of title 32 of the Revised Statutes, consisting of R.S. §§2318 to 2352.
 
 #### Codification
 
@@ -14,11 +14,11 @@ R.S. §2325 derived from act May 10, 1872, ch. 152, §6, 17 Stat. 92.
 
 #### Amendments
 
-<b>1925</b>—Act Mar. 3, 1925, affected words, in first sentence of text, now reading “United States supervisor of surveys,” and words, in next to last sentence of text, now reading “register of the proper land office.” Those words formerly read “United States surveyor general” and “register and receiver of the proper land office,” respectively. This act abolished the office of surveyor general, and transferred to and consolidated with the Field Surveying Service, under the jurisdiction of the U.S. Supervisor of Surveys, the administration, equipment, etc., of such office, and consolidated the offices and functions of the register and receiver.
+<b>1925</b>—Act Mar. 3, 1925, affected words, in first sentence of text, now reading "United States supervisor ofsurveys," and words, in next to last sentence of text, now reading "register of the proper land office." Those words formerly read "United States surveyor general" and "register and receiver of the proper land office," respectively. This act abolished the office of surveyor general, and transferred to and consolidated with the Field Surveying Service, under the jurisdiction of the U.S. Supervisor of Surveys, the administration, equipment, etc., of such office, and consolidated the offices and functions of the register and receiver.
 
 #### Transfer of Functions
 
-Director of the Bureau of Land Management substituted for United States Supervisor of Surveys wherever appearing. In the establishment of The Bureau of Land Management by Reorg. Plan No. 3 of 1946, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees, the office of Supervisor of Surveys was abolished and the functions and powers were transferred to the Secretary of the Interior, to be performed by such officers or agencies of the Department as might be designated by the Secretary. Under that authority, the functions and powers formerly exercised by the Supervisor of Surveys were delegated to the Chief Cadastral Engineer, subject to the supervision of theDirector of the Bureau of Land Management. In the general reorganization and realignment of functions of the Bureau, the office of the Chief Cadastral Engineer was abolished, and the functions of that office have been delegated to the Director of the Bureau of Land Management. See 43 C.F.R. §9180.0–3(a)(1).
+Director of the Bureau of Land Management substituted for United States Supervisor of Surveys wherever appearing. In the establishment of The Bureau of Land Management by Reorg. Plan No. 3 of 1946, §403, eff. July 16, 1946, 11 F.R. 7876, 60 Stat. 1100, set out in the Appendix to Title 5, Government Organization and Employees, the office of Supervisor of Surveys was abolished and the functions and powers were transferred to the Secretary of the Interior, to be performed by such officers or agencies of the Department as might be designated by the Secretary. Under that authority, the functions and powers formerly exercised by the Supervisor of Surveys were delegated to the Chief Cadastral Engineer, subject to the supervision of the Director of the Bureau of Land Management. In the general reorganization and realignment of functions of the Bureau, the office of the Chief Cadastral Engineer was abolished, and the functions of that office have been delegated to the Director of the Bureau of Land Management. See 43 C.F.R. §9180.0–3(a)(1).
 
 Office of register of district land office abolished and all functions of register transferred to Secretary of the Interior, or to officers and agencies of Department of the Interior as Secretary may designate, by Reorg. Plan No. 3 of 1946, §403, set out in the Appendix to Title 5.
 

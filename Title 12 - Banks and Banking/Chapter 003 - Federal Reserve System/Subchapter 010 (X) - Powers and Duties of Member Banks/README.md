@@ -13,7 +13,7 @@
 - [&sect; 00371c - Banking affiliates](%C2%A7%2000371c%20-%20Banking%20affiliates.md)
 - [&sect; 00371c&#8211;1 - Restrictions on transactions with affiliates](%C2%A7%2000371c%E2%80%931%20-%20Restrictions%20on%20transactions%20with%20affiliates.md)
 - [&sect; 00371d - Investment in bank premises or stock of corporation holding premises](%C2%A7%2000371d%20-%20Investment%20in%20bank%20premises%20or%20stock%20of%20corporation%20holding%20premises.md)
-- [&sect; 00372 - Bankers&#8217; acceptances](%C2%A7%2000372%20-%20Bankers%E2%80%99%20acceptances.md)
+- [&sect; 00372 - Bankers' acceptances](%C2%A7%2000372%20-%20Bankers%27%20acceptances.md)
 - [&sect; 00373 - Acceptance of drafts or bills drawn by banks in foreign countries or dependencies of United States for purpose of dollar exchange](%C2%A7%2000373%20-%20Acceptance%20of%20drafts%20or%20bills%20drawn%20by%20banks%20in%20foreign%20countries%20or%20dependencies%20of%20United%20States%20for%20purpose%20of%20dollar%20exchange.md)
 - [&sect; 00374 - Acting as agent for nonmember bank in getting discounts from reserve bank](%C2%A7%2000374%20-%20Acting%20as%20agent%20for%20nonmember%20bank%20in%20getting%20discounts%20from%20reserve%20bank.md)
 - [&sect; 00374a - Acting as agent for nonbanking borrower in making loans on securities to dealers in stocks, bonds, etc.; penalties](%C2%A7%2000374a%20-%20Acting%20as%20agent%20for%20nonbanking%20borrower%20in%20making%20loans%20on%20securities%20to%20dealers%20in%20stocks%2C%20bonds%2C%20etc.%3B%20penalties.md)

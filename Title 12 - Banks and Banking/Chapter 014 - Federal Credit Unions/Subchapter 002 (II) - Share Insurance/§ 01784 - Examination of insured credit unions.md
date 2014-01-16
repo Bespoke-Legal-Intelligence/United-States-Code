@@ -10,7 +10,7 @@ In connection with examinations of insured credit unions, or with other types of
 
 #### (c) Court orders enforcing subpenas; immunity
 
-In cases of refusal to obey a subpena issued to, or contumacy by, any person, the Board may invoke the aid of any court of the United States within the jurisdiction of which such hearing, examination, or investigation is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, records, or other papers. Such court may issue an order requiring such person to appear before the Board, or before a person designated by it, there to produce records, if so ordered, or to give testimony touching the matter in question. Anyfailure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or carries on business or wherever he may be found. No person shall be excused from attending and testifying or from producing books, records, or other papers in obedience to a subpena issued under the authority of this subchapter on the ground that the testimony or evidence, documentary or otherwise, required of him may tend to incriminate him or subject him to penalty or forfeiture, but no individual shall be prosecuted or subject to any penalty or forfeiture for or on account of any transaction, matter, or thing concerning which he is compelled to testify or produce evidence, documentary or otherwise, after having claimed his privilege against self-incrimination, except that such individual so testifying shall not be exempt from prosecution and punishment for perjury committed in so testifying.
+In cases of refusal to obey a subpena issued to, or contumacy by, any person, the Board may invoke the aid of any court of the United States within the jurisdiction of which such hearing, examination, or investigation is carried on, or where such person resides or carries on business, in requiring the attendance and testimony of witnesses and the production of books, records, or other papers. Such court may issue an order requiring such person to appear before the Board, or before a person designated by it, there to produce records, if so ordered, or to give testimony touching the matter in question. Any failure to obey such order of the court may be punished by such court as a contempt thereof. All process in any such case may be served in the judicial district whereof such person is an inhabitant or carries on business or wherever he may be found. No person shall be excused from attending and testifying or from producing books, records, or other papers in obedience to a subpena issued under the authority of this subchapter on the ground that the testimony or evidence, documentary or otherwise, required of him may tend to incriminate him or subject him to penalty or forfeiture, but no individual shall be prosecuted or subject to any penalty or forfeiture for or on account of any transaction, matter, or thing concerning which he is compelled to testify or produce evidence, documentary or otherwise, after having claimed his privilege against self-incrimination, except that such individual so testifying shall not be exempt from prosecution and punishment for perjury committed in so testifying.
 
 #### (d) Administration acceptance of State board reports; reports of Board furnished to State board
 
@@ -42,23 +42,23 @@ The Board shall—
 
 #### (g) Sharing information with Federal reserve banks
 
-The Board shall, for the purpose of facilitating insured credit unions’ access to liquidity, make available to the Federal reserve banks (subject to appropriate assurances of confidentiality) information relevant to making advances to such credit unions, including the Board's reports of examination.
+The Board shall, for the purpose of facilitating insured credit unions' access to liquidity, make available to the Federal reserve banks (subject to appropriate assurances of confidentiality) information relevant to making advances to such credit unions, including the Board's reports of examination.
 
 (June 26, 1934, ch. 750, title II, §204, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 1001; amended Pub. L. 95–630, title V, §502(b), Nov. 10, 1978, 92 Stat. 3681; Pub. L. 101–73, title IX, §915(a), Aug. 9, 1989, 103 Stat. 486; Pub. L. 103–325, title V, §529(b), Sept. 23, 1994, 108 Stat. 2266; Pub. L. 105–219, title III, §303, Aug. 7, 1998, 112 Stat. 934; Pub. L. 109–351, title VII, §726(13), Oct. 13, 2006, 120 Stat. 2002.)
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–351 substituted “such other powers” for “such others powers”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–351 substituted "such other powers" for "such others powers".
 
 <b>1998</b>—Subsecs. (f), (g). Pub. L. 105–219 added subsecs. (f) and (g).
 
 <b>1994</b>—Subsec. (e). Pub. L. 103–325 added subsec. (e).
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–73, §915(a)(1), inserted “or with other types of investigations to determine compliance with applicable law and regulations,” after “insured credit unions,”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–73, §915(a)(1), inserted "or with other types of investigations to determine compliance with applicable law and regulations," after "insured credit unions,".
 
-Pub. L. 101–73, §915(a)(2), which directed the insertion of “and to exercise such others powers as are set forth in section 1786(p) of this title” after “subpena duces tecum”, was executed by making the insertion after “subpenas duces tecum”, as the probable intent of Congress.
+Pub. L. 101–73, §915(a)(2), which directed the insertion of "and to exercise such others powers as are set forth in section 1786(p) of this title" after "subpena duces tecum", was executed by making the insertion after "subpenas duces tecum", as the probable intent of Congress.
 
-<b>1978</b>—Pub. L. 95–630 substituted “Board” for “Administrator” wherever appearing, and “it” and “its” for “him” and “his”, respectively, where appropriate.
+<b>1978</b>—Pub. L. 95–630 substituted "Board" for "Administrator" wherever appearing, and "it" and "its" for "him" and "his", respectively, where appropriate.
 
 #### Effective Date of 1978 Amendment
 

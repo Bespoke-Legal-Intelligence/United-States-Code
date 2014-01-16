@@ -30,7 +30,7 @@ In General.—Except as provided in subsection (d) of this section, a railroad c
 
 &emsp;&emsp;&emsp;(ii) such a schedule is provided for by a pilot program authorized by a collective bargaining agreement; or
 
-&emsp;&emsp;&emsp;(iii) such a schedule is provided for by a pilot program under section 21108 of this chapter related to employees’ work and rest cycles.
+&emsp;&emsp;&emsp;(iii) such a schedule is provided for by a pilot program under section 21108 of this chapter related to employees' work and rest cycles.
 
 > The Secretary may waive paragraph (4), consistent with the procedural requirements of section 20103, if a collective bargaining agreement provides a different arrangement and such an arrangement is in the public interest and consistent with railroad safety.
 
@@ -112,7 +112,7 @@ Emergencies.—A train employee on the crew of a wreck or relief train may be al
 
 (e)
 
-Communication During Time Off Duty.—During a train employee's minimum off-duty period of 10 consecutive hours, as provided under subsection (a) or during an interim period of at least 4 consecutive hours available for rest under subsection (b)(7) or during additional off-duty hours under subsection (c)(4), a railroad carrier, and its officers and agents, shall not communicate with the train employee by telephone, by pager, or in any other manner that could reasonably be expected to disrupt the employee's rest. Nothing in this subsection shall prohibit communication necessary to notify an employee of an emergency situation, as defined by the Secretary. The Secretary may waive the requirements of this paragraph for commuter or intercity passenger railroads if the Secretary determines that such a waiver will not reduce safety and is necessary to maintain such railroads’ efficient operations and on-time performance of its trains.
+Communication During Time Off Duty.—During a train employee's minimum off-duty period of 10 consecutive hours, as provided under subsection (a) or during an interim period of at least 4 consecutive hours available for rest under subsection (b)(7) or during additional off-duty hours under subsection (c)(4), a railroad carrier, and its officers and agents, shall not communicate with the train employee by telephone, by pager, or in any other manner that could reasonably be expected to disrupt the employee's rest. Nothing in this subsection shall prohibit communication necessary to notify an employee of an emergency situation, as defined by the Secretary. The Secretary may waive the requirements of this paragraph for commuter or intercity passenger railroads if the Secretary determines that such a waiver will not reduce safety and is necessary to maintain such railroads' efficient operations and on-time performance of its trains.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 888; Pub. L. 110–432, div. A, title I, §108(b), Oct. 16, 2008, 122 Stat. 4860.)
 
@@ -154,11 +154,11 @@ Mar. 4, 1907, ch. 2939, 34 Stat. 1415, §1(b)(4) (last sentence); added Nov. 2, 
 
 Mar. 4, 1907, ch. 2939, §2(c), 34 Stat. 1416; Dec. 26, 1969, Pub. L. 91–169, §1, 83 Stat. 464; restated July 8, 1976, Pub. L. 94–348, §4(b), 90 Stat. 818.
 
-In subsection (a), before clause (1), the words “Except as provided in subsection (c) of this section” are added to alert the reader to the exception restated in subsection (c). The words “train employee” are substituted for “employee” because of the definition of “train employee” in section 21101 of the revised title. In clause (2), the words “12 consecutive hours” are substituted for “continuously . . . fourteen hours” and “except that, effective upon the expiration of the two-year period beginning on the effective date of this paragraph, such fourteen-hour duty period shall be reduced to twelve hours” because the 2-year period has ended.
+In subsection (a), before clause (1), the words "Except as provided in subsection (c) of this section" are added to alert the reader to the exception restated in subsection (c). The words "train employee" are substituted for "employee" because of the definition of "train employee" in section 21101 of the revised title. In clause (2), the words "12 consecutive hours" are substituted for "continuously . . . fourteen hours" and "except that, effective upon the expiration of the two-year period beginning on the effective date of this paragraph, such fourteen-hour duty period shall be reduced to twelve hours" because the 2-year period has ended.
 
-In subsection (b), the words before paragraph (1) are added as related to 45:61(b)(3) and (4) (last sentence) and substituted for “In determining, for the purposes of subsection (a), the number of hours an employee is on duty” in 45:62(b) for clarity. In paragraphs (2) and (3), the word “actually” is omitted as surplus. In paragraph (4), the words “neither time on duty nor time off duty” are substituted for “time off duty” for clarity and consistency with the source provisions restated in 21104(b)(3) and (4) of the revised title. In paragraph (7), before clause (A), the words “between designated terminals” are omitted as surplus. The text of 45:61(b)(3)(E) is omitted as surplus because of the restatement.
+In subsection (b), the words before paragraph (1) are added as related to 45:61(b)(3) and (4) (last sentence) and substituted for "In determining, for the purposes of subsection (a), the number of hours an employee is on duty" in 45:62(b) for clarity. In paragraphs (2) and (3), the word "actually" is omitted as surplus. In paragraph (4), the words "neither time on duty nor time off duty" are substituted for "time off duty" for clarity and consistency with the source provisions restated in 21104(b)(3) and (4) of the revised title. In paragraph (7), before clause (A), the words "between designated terminals" are omitted as surplus. The text of 45:61(b)(3)(E) is omitted as surplus because of the restatement.
 
-In subsection (c), the words “A train employee on” are added for consistency in this section. The word “actual” is omitted as surplus.
+In subsection (c), the words "A train employee on" are added for consistency in this section. The word "actual" is omitted as surplus.
 
 #### References in Text
 
@@ -166,11 +166,11 @@ The date of enactment of the Rail Safety Improvement Act of 2008, referred to in
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–432, §108(b)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Except as provided in subsection (c) of this section, a railroad carrier and its officers and agents may not require or allow a train employee to remain or go on duty—
+<b>2008</b>—Subsec. (a). Pub. L. 110–432, §108(b)(1), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "Except as provided in subsection (c) of this section, a railroad carrier and its officers and agents may not require or allow a train employee to remain or go on duty—
 
-&emsp;“(1) unless that employee has had at least 8 consecutive hours off duty during the prior 24 hours; or
+&emsp;"(1) unless that employee has had at least 8 consecutive hours off duty during the prior 24 hours; or
 
-&emsp;“(2) after that employee has been on duty for 12 consecutive hours, until that employee has had at least 10 consecutive hours off duty.”
+&emsp;"(2) after that employee has been on duty for 12 consecutive hours, until that employee has had at least 10 consecutive hours off duty."
 
 Subsecs. (c), (d). Pub. L. 110–432, §108(b)(2), added subsec. (c) and redesignated former subsec. (c) as (d).
 

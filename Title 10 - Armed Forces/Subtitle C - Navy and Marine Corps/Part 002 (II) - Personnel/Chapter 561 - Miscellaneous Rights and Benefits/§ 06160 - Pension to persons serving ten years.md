@@ -10,13 +10,13 @@
 
 #### Amendments
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–510 substituted “Secretary of Veterans Affairs” for “Veterans’ Administration”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–510 substituted "Secretary of Veterans Affairs" for "Veterans' Administration".
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–189 substituted “Secretary of Veterans Affairs” for “Administrator of Veterans’ Affairs”.
+<b>1989</b>—Subsec. (b). Pub. L. 101–189 substituted "Secretary of Veterans Affairs" for "Administrator of Veterans' Affairs".
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted “enlisted member” for “enlisted man”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted "enlisted member" for "enlisted man".
 
-<b>1958</b>—Pub. L. 85–857 limited naval pensions granted before July 14, 1943 to not more than one-fourth of any pension or compensation which the person is entitled to receive under laws administered by the Veterans’ Administration.
+<b>1958</b>—Pub. L. 85–857 limited naval pensions granted before July 14, 1943 to not more than one-fourth of any pension or compensation which the person is entitled to receive under laws administered by the Veterans' Administration.
 
 #### Effective Date of 1958 Amendment
 

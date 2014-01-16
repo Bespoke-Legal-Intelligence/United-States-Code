@@ -46,7 +46,7 @@
 
 |  |  |
 | :--- | ---: |
-| [77bb.](Subchapter%20002%20%28II%29%20-%20Foreign%20Securities/%C2%A7%2000077bb%20-%20%E2%80%9CCorporation%20of%20Foreign%20Security%20Holders%E2%80%9D%3B%20creation%3B%20principal%20office%3B%20branch%20offices.md) | “Corporation of Foreign Security Holders”; creation; principal office; branch offices. |
+| [77bb.](Subchapter%20002%20%28II%29%20-%20Foreign%20Securities/%C2%A7%2000077bb%20-%20Corporation%20of%20Foreign%20Security%20Holders%3B%20creation%3B%20principal%20office%3B%20branch%20offices.md) | "Corporation of Foreign Security Holders"; creation; principal office; branch offices. |
 | [77cc.](Subchapter%20002%20%28II%29%20-%20Foreign%20Securities/%C2%A7%2000077cc%20-%20Directors%20of%20Corporation%3B%20appointment%2C%20term%20of%20office%2C%20and%20removal.md) | Directors of Corporation; appointment, term of office, and removal. |
 | [77dd.](Subchapter%20002%20%28II%29%20-%20Foreign%20Securities/%C2%A7%2000077dd%20-%20Powers%20and%20duties%20of%20Corporation%2C%20generally.md) | Powers and duties of Corporation, generally. |
 | [77ee.](Subchapter%20002%20%28II%29%20-%20Foreign%20Securities/%C2%A7%2000077ee%20-%20Directors%20of%20Corporation%2C%20powers%20and%20duties%20generally.md) | Directors of Corporation, powers and duties generally. |
@@ -76,7 +76,7 @@
 | [77iii.](Subchapter%20003%20%28III%29%20-%20Trust%20Indentures/%C2%A7%2000077iii%20-%20Effective%20time%20of%20qualification.md) | Effective time of qualification. |
 | [77jjj.](Subchapter%20003%20%28III%29%20-%20Trust%20Indentures/%C2%A7%2000077jjj%20-%20Eligibility%20and%20disqualification%20of%20trustee.md) | Eligibility and disqualification of trustee. |
 | [77kkk.](Subchapter%20003%20%28III%29%20-%20Trust%20Indentures/%C2%A7%2000077kkk%20-%20Preferential%20collection%20of%20claims%20against%20obligor.md) | Preferential collection of claims against obligor. |
-| 77<i>lll.</i> | Bondholders’ lists. |
+| 77<i>lll.</i> | Bondholders' lists. |
 | [77mmm.](Subchapter%20003%20%28III%29%20-%20Trust%20Indentures/%C2%A7%2000077mmm%20-%20Reports%20by%20indenture%20trustee.md) | Reports by indenture trustee. |
 | [77nnn.](Subchapter%20003%20%28III%29%20-%20Trust%20Indentures/%C2%A7%2000077nnn%20-%20Reports%20by%20obligor%3B%20evidence%20of%20compliance%20with%20indenture%20provisions.md) | Reports by obligor; evidence of compliance with indenture provisions. |
 | 77<i>ooo.</i> | Duties and responsibility of the trustee. |

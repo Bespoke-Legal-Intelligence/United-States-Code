@@ -18,7 +18,7 @@
 
 (b) The Office of Personnel Management may authorize the head of an agency to pay a bonus under this section to an individual only if—
 
-&emsp;(1) the position to which such individual is appointed (as described in paragraph (2)(A)) orto which such individual moves or must relocate (as described in paragraph (2)(B)) is likely to be difficult to fill in the absence of such a bonus; and
+&emsp;(1) the position to which such individual is appointed (as described in paragraph (2)(A)) or to which such individual moves or must relocate (as described in paragraph (2)(B)) is likely to be difficult to fill in the absence of such a bonus; and
 
 &emsp;(2) the individual—
 
@@ -52,7 +52,7 @@
 
 (d)(1) Except as provided in subsection (e), a bonus under this section shall not exceed 25 percent of the annual rate of basic pay of the employee at the beginning of the service period multiplied by the number of years (including a fractional part of a year, as determined under regulations of the Office) in the required service period of the employee involved.
 
-(2) A bonus under this section may be paid as an initial lump sum, in installments, as a final lump sum upon the completion of the full period of service required by the agreement, or in a combination of these forms of payment.
+(2) A bonus under this section may be paid as an initial lump sum, in installments, as a finallump sum upon the completion of the full period of service required by the agreement, or in a combination of these forms of payment.
 
 (3) A bonus under this section is not part of the basic pay of an employee for any purpose.
 
@@ -71,6 +71,10 @@
 (g) The Office may prescribe regulations to carry out this section, including regulations relating to the repayment of a bonus under this section in appropriate circumstances when the agreed-upon service period has not been completed.
 
 (Added Pub. L. 108–411, title I, §101(a)(1), Oct. 30, 2004, 118 Stat. 2305.)
+
+#### References in Text
+
+The General Schedule, referred to in subsec. (a)(1)(A), is set out under section 5332 of this title.
 
 #### Prior Provisions
 

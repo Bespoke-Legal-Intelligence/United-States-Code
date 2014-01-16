@@ -2,7 +2,7 @@
 
 #### (a) Definition of modular component health care facility
 
-In this section, the term “modular component health care facility” means a health care facility that is constructed—
+In this section, the term "modular component health care facility" means a health care facility that is constructed—
 
 &emsp;(1) off-site using prefabricated component units for subsequent transport to the destination location; and
 
@@ -36,7 +36,7 @@ The Secretary, acting through the Service, shall establish a demonstration progr
 
 #### (3) Effect of selection
 
-&emsp;A modular component health care facility project selected for participation in the demonstration program shall not be eligible for entry on the facilities construction priorities list entitled “IHS Health Care Facilities FY 2011 Planned Construction Budget” and dated May 7, 2009 (or any successor list).
+&emsp;A modular component health care facility project selected for participation in the demonstration program shall not be eligible for entry on the facilities construction priorities list entitled "IHS Health Care Facilities FY 2011 Planned Construction Budget" and dated May 7, 2009 (or any successor list).
 
 #### (d) Eligibility
 
@@ -72,5 +72,5 @@ Section 312 of Pub. L. 94–437 is based on section 146 of title I of S. 1790, O
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “provision of a health care facility”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "provision of a health care facility".</i>
 

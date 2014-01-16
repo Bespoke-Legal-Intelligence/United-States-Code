@@ -12,7 +12,7 @@ The Commission may also cause to be disseminated information regarding hazardous
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–314, §204(b)(4)(B), substituted “Commission” for “Secretary”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–314, §204(b)(4)(B), substituted "Commission" for "Secretary".
 
-Subsec. (b). Pub. L. 110–314, §204(b)(4)(B), (C), substituted “Commission” for “Department” after “investigations of the” and for “Secretary” wherever appearing.
+Subsec. (b). Pub. L. 110–314, §204(b)(4)(B), (C), substituted "Commission" for "Department" after "investigations of the" and for "Secretary" wherever appearing.
 

@@ -2,7 +2,7 @@
 
 #### (a) Community supported living arrangements services
 
-In this subchapter, the term “community supported living arrangements services” means one or more of the following services meeting the requirements of subsection (h) of this section provided in a State eligible to provide services under this section (as defined in subsection (d) of this section) to assist a developmentally disabled individual (as defined in subsection (b) of this section) in activities of daily living necessary to permit such individual to live in the individual's own home, apartment, family home, or rental unit furnished in a community supported living arrangement setting:
+In this subchapter, the term "community supported living arrangements services" means one or more of the following services meeting the requirements of subsection (h) of this section provided in a State eligible to provide services under this section (as defined in subsection (d) of this section) to assist a developmentally disabled individual (as defined in subsection (b) of this section) in activities of daily living necessary to permit such individual to live in the individual's own home, apartment, family home, or rental unit furnished in a community supported living arrangement setting:
 
 &emsp;(1) Personal assistance.
 
@@ -18,9 +18,9 @@ In this subchapter, the term “community supported living arrangements services
 
 &emsp;(7) Support services necessary to aid an individual to participate in community activities.
 
-#### (b) “Developmentally disabled individual” defined
+#### (b) "Developmentally disabled individual" defined
 
-In this subchapter the term,<sup>1</sup> “developmentally disabled individual” means an individual who as defined by the Secretary is described within the term “mental retardation and related conditions” as defined in regulations as in effect on July 1, 1990, and who is residing with the individual's family or legal guardian in such individual's own home in which no more than 3 other recipients of services under this section are residing and without regard to whether or not such individual is at risk of institutionalization (as defined by the Secretary).
+In this subchapter the term,<sup>1</sup> "developmentally disabled individual" means an individual who as defined by the Secretary is described within the term "mental retardation and related conditions" as defined in regulations as in effect on July 1, 1990, and who is residing with the individual's family or legal guardian in such individual's own home in which no more than 3 other recipients of services under this section are residing and without regard to whether or not such individual is at risk of institutionalization (as defined by the Secretary).
 
 #### (c) Criteria for selection of participating States
 
@@ -28,9 +28,9 @@ The Secretary shall develop criteria to review the applications of States submit
 
 #### (d) Quality assurance
 
-A State selected by the Secretary to provide services under this section shall in order to continue to receive Federal financial participation for providing services under this section be required to establish and maintain a quality assurance program, that provides that—
+A State selected by the Secretary to provide services under this section shall in order to continue to receive Federal financial participationfor providing services under this section be required to establish and maintain a quality assurance program, that provides that—
 
-&emsp;(1) the State will certify and survey providers of services under this section (such surveysto be unannounced and average at least 1 a year);
+&emsp;(1) the State will certify and survey providers of services under this section (such surveys to be unannounced and average at least 1 a year);
 
 &emsp;(2) the State will adopt standards for survey and certification that include—
 
@@ -116,19 +116,19 @@ Pub. L. 101–508, title IV, §4712(b)(1), Nov. 5, 1990, 104 Stat. 1388–187, w
 
 #### Amendments
 
-<b>2000</b>—Subsec. (d)(7). Pub. L. 106–402 substituted “State Council on Developmental Disabilities established under section 125 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 and the protection and advocacy system established under subtitle C of that Act” for “State Planning Council established under section 6024 of this title, and the Protection and Advocacy System established under section 6042 of this title”.
+<b>2000</b>—Subsec. (d)(7). Pub. L. 106–402 substituted "State Council on Developmental Disabilities established under section 125 of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 and the protection and advocacy system established under subtitle C of that Act" for "State Planning Council established under section 6024 of this title, and the Protection and Advocacy System established under section 6042 of this title".
 
 #### Effective Date
 
 Pub. L. 101–508, title IV, §4712(c), Nov. 5, 1990, 104 Stat. 1388–190, provided that:
 
-“(1)
+"(1)
 
-In general.—The amendments made by this section \[enacting this section and amending section 1396d of this title\] shall apply to community supported living arrangements services furnished on or after the later of July 1, 1991, or 30 days after the publication of regulations setting forth interim requirements under subsection (h) \[probably means subsec. (h) of this section\] without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
+In general.—The amendments made by this section \[enacting this section and amending section 1396d of this title\] shall apply to community supported living arrangements services furnished on or after the later of July 1, 1991, or 30 days after the publication of regulations setting forth interim requirements under subsection (h) \[probably means 42 U.S.C. 1396u(h)\] without regard to whether or not final regulations to carry out such amendments have been promulgated by such date.
 
-“(2)
+"(2)
 
-Application process.—The Secretary of Health and Human Services shall provide that the applications required to be submitted by States under this section shall be received and approved prior to the effective date specified in paragraph (1).”
+Application process.—The Secretary of Health and Human Services shall provide that the applications required to be submitted by States under this section shall be received and approved prior to the effective date specified in paragraph (1)."
 
-<i><sup>1</sup></i><i> So in original. The comma probably should precede “the term”.</i>
+<i><sup>1</sup></i><i> So in original. The comma probably should precede "the term".</i>
 

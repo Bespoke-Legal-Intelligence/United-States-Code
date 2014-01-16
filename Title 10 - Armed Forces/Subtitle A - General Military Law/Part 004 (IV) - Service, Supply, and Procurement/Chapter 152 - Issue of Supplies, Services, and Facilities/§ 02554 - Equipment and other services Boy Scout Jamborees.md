@@ -2,7 +2,7 @@
 
 (a) The Secretary of Defense is hereby authorized, under such regulations as he may prescribe, to lend to the Boy Scouts of America, for the use and accommodation of Scouts, Scouters, and officials who attend any national or world Boy Scout Jamboree, such cots, blankets, commissary equipment, flags, refrigerators, and other equipment and without reimbursement, furnish services and expendable medical supplies, as may be necessary or useful to the extent that items are in stock and items or services are available.
 
-(b) Such equipment is authorized to be delivered at such time prior to the holding of any national or world Boy Scout Jamboree, and to be returned at such time after the close of any suchjamboree, as may be agreed upon by the Secretary of Defense and the Boy Scouts of America. No expense shall be incurred by the United States Government for the delivery, return, rehabilitation, or replacement of such equipment.
+(b) Such equipment is authorized to be delivered at such time prior to the holding of any national or world Boy Scout Jamboree, and to be returned at such time after the close of any such jamboree, as may be agreed upon by the Secretary of Defense and the Boy Scouts of America. No expense shall be incurred by the United States Government for the delivery, return, rehabilitation, or replacement of such equipment.
 
 (c) The Secretary of Defense, before delivering such property, shall take from the Boy Scouts of America, good and sufficient bond for the safe return of such property in good order and condition, and the whole without expense to the United States.
 
@@ -24,7 +24,7 @@
 
 &emsp;(B) submits to Congress a report containing such determination in a timely manner, and before the waiver takes effect.
 
-(Added Pub. L. 92–249, Mar. 10, 1972, 86 Stat. 62, §2544; amended Pub. L. 104–106, div. A, title III, §376, Feb. 10, 1996, 110 Stat. 283; renumbered §2554, Pub. L. 106–398, §1 \[\[div. A\], title X, §1033(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260l; Pub. L. 107–107, div. A, title IX, §931(a), Dec. 28, 2001, 115 Stat. 1200; Pub. L. 109–148, div. A, title VIII, §8126(c)(2), Dec. 30, 2005, 119 Stat. 2729; Pub. L. 109–163, div. A, title X, §1058(c), Jan. 6, 2006, 119 Stat. 3443.)
+(Added Pub. L. 92–249, Mar. 10, 1972, 86 Stat. 62, §2544; amended Pub. L. 104–106, div. A, title III, §376, Feb. 10, 1996, 110 Stat. 283; renumbered §2554, Pub. L. 106–398, §1 \[\[div. A\], title X,§1033(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–260l; Pub. L. 107–107, div. A, title IX, §931(a), Dec. 28, 2001, 115 Stat. 1200; Pub. L. 109–148, div. A, title VIII, §8126(c)(2), Dec. 30, 2005, 119 Stat. 2729; Pub. L. 109–163, div. A, title X, §1058(c), Jan. 6, 2006, 119 Stat. 3443.)
 
 #### Codification
 
@@ -40,17 +40,17 @@ A prior section 2554 was renumbered section 2564 of this title.
 
 <b>2005</b>—Subsec. (i). Pub. L. 109–148 added subsec. (i) which read as follows:
 
-“(i)(1) The Secretary of Defense shall provide at least the same level of support under this section for a national or world Boy Scout Jamboree as was provided under this section for the preceding national or world Boy Scout Jamboree.
+"(i)(1) The Secretary of Defense shall provide at least the same level of support under this section for a national or world Boy Scout Jamboree as was provided under this section for the preceding national or world Boy Scout Jamboree.
 
-“(2) The Secretary of Defense may waive paragraph (1), if the Secretary—
+"(2) The Secretary of Defense may waive paragraph (1), if the Secretary—
 
-&emsp;“(A) determines that providing the support subject to paragraph (1) would be detrimental to the national security of the United States; and
+&emsp;"(A) determines that providing the support subject to paragraph (1) would be detrimental to the national security of the United States; and
 
-&emsp;“(B) reports such a determination to the Congress in a timely manner, and before such support is not provided.”
+&emsp;"(B) reports such a determination to the Congress in a timely manner, and before such support is not provided."
 
 See Codification note above.
 
-<b>2001</b>—Subsec. (d). Pub. L. 107–107 substituted “Air Mobility Command” for “Military Airlift Command”.
+<b>2001</b>—Subsec. (d). Pub. L. 107–107 substituted "Air Mobility Command" for "Military Airlift Command".
 
 <b>2000</b>—Pub. L. 106–398 renumbered section 2544 of this title as this section.
 
@@ -58,7 +58,7 @@ See Codification note above.
 
 #### Reconciliation of Duplicate Enactments
 
-Pub. L. 109–364, div. A, title X, §1071(f)(1), Oct. 17, 2006, 120 Stat. 2402, as amended by Pub. L. 110–181, div. A, title X, §1063(c)(10), Jan. 28, 2008, 122 Stat. 323, provided that: “In executing to section 2554 of title 10, United States Code, the amendments made by section 8126(c)(2) of Public Law 109–148 \[adding subsec. (i) to this section\] (119 Stat. 2729) and section 1058(c) of Public Law 109–163 \[adding subsec. (i) to this section\] (119 Stat. 3443), such amendments shall be executed so as to appear only once in the law as amended.”
+Pub. L. 109–364, div. A, title X, §1071(f)(1), Oct. 17, 2006, 120 Stat. 2402, as amended by Pub. L. 110–181, div. A, title X, §1063(c)(10), Jan. 28, 2008, 122 Stat. 323, provided that: "In executing to section 2554 of title 10, United States Code, the amendments made by section 8126(c)(2) of Public Law 109–148 \[adding subsec. (i) to this section\] (119 Stat. 2729) and section 1058(c) of Public Law 109–163 \[adding subsec. (i) to this section\] (119 Stat. 3443), such amendments shall be executed so as to appear only once in the law as amended."
 
 #### Support for Scout Jamborees
 

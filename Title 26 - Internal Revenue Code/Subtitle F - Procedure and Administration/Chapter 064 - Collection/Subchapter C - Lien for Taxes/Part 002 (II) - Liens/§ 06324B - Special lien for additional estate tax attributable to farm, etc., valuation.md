@@ -20,7 +20,7 @@ The lien imposed by this section shall arise at the time an election is filed un
 
 #### (2) Qualified real property
 
-&emsp;For purposes of this section, the term “qualified real property” includes qualified replacement property (within the meaning of section 2032A(h)(3)(B)) and qualified exchange property (within the meaning of section 2032A(i)(3)).
+&emsp;For purposes of this section, the term "qualified real property" includes qualified replacement property (within the meaning of section 2032A(h)(3)(B)) and qualified exchange property (within the meaning of section 2032A(i)(3)).
 
 #### (d) Substitution of security for lien
 
@@ -30,11 +30,11 @@ To the extent provided in regulations prescribed by the Secretary, the furnishin
 
 #### Amendments
 
-<b>1981</b>—Subsec. (c)(2). Pub. L. 97–34 defined “qualified real property” to include qualified exchange property (within the meaning of section 2032A(i)(3)).
+<b>1981</b>—Subsec. (c)(2). Pub. L. 97–34 defined "qualified real property" to include qualified exchange property (within the meaning of section 2032A(i)(3)).
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–222 designated existing provisions as par. (1), substituted “The rule” for “The rules”, and added par. (2).
+<b>1980</b>—Subsec. (c). Pub. L. 96–222 designated existing provisions as par. (1), substituted "The rule" for "The rules", and added par. (2).
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–600 substituted “qualified real property” for “qualified farm real property”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–600 substituted "qualified real property" for "qualified farm real property".
 
 #### Effective Date of 1981 Amendment
 

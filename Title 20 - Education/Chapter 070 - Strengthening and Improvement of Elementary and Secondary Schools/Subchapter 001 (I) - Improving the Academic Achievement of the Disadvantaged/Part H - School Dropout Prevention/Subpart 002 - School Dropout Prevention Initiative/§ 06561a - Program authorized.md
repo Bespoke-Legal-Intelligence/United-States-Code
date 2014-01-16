@@ -90,7 +90,7 @@
 
 #### (3) Duration
 
-&emsp;A subgrant under this subpart shall be awarded for a period of 3 years, and may be continued for a period of 2 additional years if the State educational agency determines, based on the annual reports described in section 6561i(a) of this title, that significantprogress has been made in lowering the annual school dropout rate for secondary schools participating in the program assisted under this subpart.
+&emsp;A subgrant under this subpart shall be awarded for a period of 3 years, and may be continued for a period of 2 additional years if the State educational agency determines, based on the annual reports described in section 6561i(a) of this title, that significant progress has been made in lowering the annual school dropout rate for secondary schools participating in the program assisted under this subpart.
 
 (Pub. L. 89–10, title I, §1822, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1612.)
 

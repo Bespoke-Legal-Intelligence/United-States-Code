@@ -4,5 +4,5 @@ Members of the Council shall serve full time and the Chairman of the Council sha
 
 (Pub. L. 91–190, title II, §206, Jan. 1, 1970, 83 Stat. 856.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 

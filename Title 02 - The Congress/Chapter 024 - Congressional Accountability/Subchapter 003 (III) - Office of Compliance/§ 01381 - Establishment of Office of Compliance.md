@@ -76,7 +76,7 @@ The Chair shall be appointed from members of the Board jointly by the Speaker of
 
 #### (A) Rate of compensation for each day
 
-&emsp;&emsp;Each member of the Board shall be compensated, for each day (including travel time) during which such member is engaged in the performance of the duties of the Board, at a rate equal to the daily equivalent of the lesser of—
+&emsp;&emsp;Each member of the Board shall be compensated, for each day (including travel time) during which such member is engagedin the performance of the duties of the Board, at a rate equal to the daily equivalent of the lesser of—
 
 &emsp;&emsp;&emsp;(i) the highest annual rate of compensation of any officer of the Senate; or
 

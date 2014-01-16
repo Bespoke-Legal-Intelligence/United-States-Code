@@ -28,5 +28,5 @@ The Secretary may identify other significant sites of the colonial and Revolutio
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–333 designated existing provisions as par. (1) and added par. (2).
 
-<b>1978</b>—Subsec. (a)(4), (5). Pub. L. 95–625 struck out par. “(4) Dorchester Heights; and” and redesignated par. (5) as (4).
+<b>1978</b>—Subsec. (a)(4), (5). Pub. L. 95–625 struck out par. "(4) Dorchester Heights; and" and redesignated par. (5) as (4).
 

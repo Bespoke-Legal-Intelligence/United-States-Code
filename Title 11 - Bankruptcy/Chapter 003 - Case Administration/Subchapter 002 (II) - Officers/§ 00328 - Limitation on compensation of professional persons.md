@@ -24,9 +24,9 @@ Subsection (c) permits the court to deny compensation for services and reimburse
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–8 inserted “on a fixed or percentage fee basis,” after “hourly basis,”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–8 inserted "on a fixed or percentage fee basis," after "hourly basis,".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–353 substituted “not capable of being anticipated” for “unanticipatable”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353 substituted "not capable of being anticipated" for "unanticipatable".
 
 #### Effective Date of 2005 Amendment
 

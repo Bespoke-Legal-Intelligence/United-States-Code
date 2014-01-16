@@ -4,19 +4,19 @@ In this subchapter:
 
 #### (1) Conservation Area
 
-&emsp;The term “Conservation Area” means the Sloan Canyon National Conservation Area established by section 460qqq–2(a) of this title.
+&emsp;The term "Conservation Area" means the Sloan Canyon National Conservation Area established by section 460qqq–2(a) of this title.
 
 #### (2) Federal parcel
 
-&emsp;The term “Federal parcel” means the parcel of Federal land consisting of approximately500 acres that is identified as Tract A on the map entitled “Southern Nevada Public Land Management Act” and dated October 1, 2002.
+&emsp;The term "Federal parcel" means the parcel of Federal land consisting of approximately 500 acres that is identified as Tract A on the map entitled "Southern Nevada Public Land Management Act" and dated October 1, 2002.
 
 #### (3) Management plan
 
-&emsp;The term “management plan” means the management plan for the Conservation Area developed under section 460qqq–3(b) of this title.
+&emsp;The term "management plan" means the management plan for the Conservation Area developed under section 460qqq–3(b) of this title.
 
 #### (4) Map
 
-&emsp;The term “map” means the map entitled “Southern Nevada Public Land Management Act” and dated October 1, 2002.
+&emsp;The term "map" means the map entitled "Southern Nevada Public Land Management Act" and dated October 1, 2002.
 
 (Pub. L. 107–282, title VI, §603, Nov. 6, 2002, 116 Stat. 2009.)
 
@@ -24,25 +24,25 @@ In this subchapter:
 
 Pub. L. 107–282, §3, Nov. 6, 2002, 116 Stat. 1995, provided that:
 
-“In this Act \[see Short Title note set out under section 460qqq of this title\]:
+"In this Act \[see Short Title note set out under section 460qqq of this title\]:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Agreement.—The term ‘Agreement’ means the Agreement entitled ‘Interim Cooperative Management Agreement Between the United States of the Interior Bureau of Land Management and Clark County’, dated November 4, 1992.
+Agreement.—The term 'Agreement' means the Agreement entitled 'Interim Cooperative Management Agreement Between the United States of the Interior Bureau of Land Management and Clark County', dated November 4, 1992.
 
-&emsp;“(2)
+&emsp;"(2)
 
-County.—The term ‘County’ means Clark County, Nevada.
+County.—The term 'County' means Clark County, Nevada.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Secretary.—The term ‘Secretary’ means—
+Secretary.—The term 'Secretary' means—
 
-&emsp;&emsp;“(A) the Secretary of Agriculture with respect to land in the National Forest System; or
+&emsp;&emsp;"(A) the Secretary of Agriculture with respect to land in the National Forest System; or
 
-&emsp;&emsp;“(B) the Secretary of the Interior, with respect to other Federal land.
+&emsp;&emsp;"(B) the Secretary of the Interior, with respect to other Federal land.
 
-&emsp;“(4)
+&emsp;"(4)
 
-State.—The term ‘State’ means the State of Nevada.”
+State.—The term 'State' means the State of Nevada."
 

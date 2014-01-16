@@ -38,7 +38,7 @@
 
 &emsp;Such reimbursements shall—
 
-&emsp;&emsp;(A) be credited to the appropriation account “Salaries and Expenses, Government Accountability Office” current when the payment is received; and
+&emsp;&emsp;(A) be credited to the appropriation account "Salaries and Expenses, Government Accountability Office" current when the payment is received; and
 
 &emsp;&emsp;(B) remain available until expended.
 
@@ -50,9 +50,9 @@ Section was enacted as part of the Investor Protection and Securities Reform Act
 
 #### Effective Date
 
-Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, setout as a note under section 5301 of Title 12, Banks and Banking.
+Section effective 1 day after July 21, 2010, except as otherwise provided, see section 4 of Pub. L. 111–203, set out as a note under section 5301 of Title 12, Banks and Banking.
 
 #### Definition
 
-For definition of “Commission” as used in this section, see section 5301 of Title 12, Banks and Banking.
+For definition of "Commission" as used in this section, see section 5301 of Title 12, Banks and Banking.
 

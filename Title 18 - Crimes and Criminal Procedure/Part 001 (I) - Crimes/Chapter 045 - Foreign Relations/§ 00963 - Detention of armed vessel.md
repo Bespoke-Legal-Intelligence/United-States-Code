@@ -1,6 +1,6 @@
 ### §963. Detention of armed vessel
 
-(a) During a war in which the United States is a neutral nation, the President, or any person authorized by him, may detain any armed vessel owned wholly or in part by citizens of the United States, or any vessel, domestic or foreign (other than one which has entered the ports of the United States as a public vessel), which is manifestly built for warlike purposes or has been converted or adapted from a private vessel to one suitable for warlike use, until the owner or master, or person having charge of such vessel, shall furnish proof satisfactory to the President, or to the person duly authorized by him, that the vessel will not be employed to cruise against or commit or attempt to commit hostilities upon the subjects, citizens, or property of any foreign prince or state, or of any colony, district, or people with which the United States is at peace, and that the said vessel will not be sold or delivered to any belligerent nation, or to an agent, officer, or citizen of such nation, by them or any of them, within the jurisdiction of the United States, or upon the high seas.
+(a) During a war in which the United States is a neutral nation, the President, or any person authorized by him, may detain any armed vessel owned wholly or in part by citizens of the United States, or any vessel, domestic or foreign (other than one which has entered the ports of the United States as a public vessel), which is manifestly built for warlike purposes or has been converted or adapted from a private vessel to one suitable for warlike use, until the owner or master, or person having charge of such vessel, shall furnish proof satisfactory to the President, or to the person duly authorized by him,that the vessel will not be employed to cruise against or commit or attempt to commit hostilities upon the subjects, citizens, or property of any foreign prince or state, or of any colony, district, or people with which the United States is at peace, and that the said vessel will not be sold or delivered to any belligerent nation, or to an agent, officer, or citizen of such nation, by them or any of them, within the jurisdiction of the United States, or upon the high seas.
 
 (b) Whoever, in violation of this section takes, or attempts to take, or authorizes the taking of any such vessel, out of port or from the United States, shall be fined under this title or imprisoned not more than ten years, or both.
 
@@ -14,7 +14,7 @@ Based on title 18, U.S.C., 1940 ed., §§32, 36 (June 15, 1917, ch. 30, title V,
 
 Section consolidates said sections of title 18, U.S.C., 1940 ed.
 
-Words “within the United States” were substituted for “within the jurisdiction” etc., in view of the definition of United States in section 5 of this title.
+Words "within the United States" were substituted for "within the jurisdiction" etc., in view of the definition of United States in section 5 of this title.
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -24,7 +24,7 @@ Changes in phraseology were also made.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $10,000”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322 substituted "fined under this title" for "fined not more than $10,000".
 
 #### Delegation of Functions
 

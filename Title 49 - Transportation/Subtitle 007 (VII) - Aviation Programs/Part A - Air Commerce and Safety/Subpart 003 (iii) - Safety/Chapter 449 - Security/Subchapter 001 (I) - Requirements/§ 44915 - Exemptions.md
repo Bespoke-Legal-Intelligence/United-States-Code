@@ -26,13 +26,13 @@ Historical and Revision Notes
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §317; added July 12, 1976, Pub. L. 94–353, §17(a), 90 Stat. 882.
 
-In clause (1), the word “issued” is substituted for “granted” for consistency in this part. The words “by the Civil Aeronautics Board” are omitted as surplus.
+In clause (1), the word "issued" is substituted for "granted" for consistency in this part. The words "by the Civil Aeronautics Board" are omitted as surplus.
 
 Clause (3) is substituted for 49 App.:1358 (words after 3d comma) for consistency in the revised title.
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–71 substituted “Under Secretary of Transportation for Security” for “Administrator of theFederal Aviation Administration” in introductory provisions.
+<b>2001</b>—Pub. L. 107–71 substituted "Under Secretary of Transportation for Security" for "Administrator of the Federal Aviation Administration" in introductory provisions.
 
 #### Transfer of Functions
 

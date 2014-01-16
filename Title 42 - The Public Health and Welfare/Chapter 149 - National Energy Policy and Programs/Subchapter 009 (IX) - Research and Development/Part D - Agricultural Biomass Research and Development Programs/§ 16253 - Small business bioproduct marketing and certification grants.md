@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Using amounts made available under subsection (g), the Secretary of Agriculture (referred to in this section as the “Secretary”) shall make available on a competitive basis grants to eligible entities described in subsection (b) for the biobased product marketing and certification purposes described in subsection (c).
+Using amounts made available under subsection (g), the Secretary of Agriculture (referred to in this section as the "Secretary") shall make available on a competitive basis grants to eligible entities described in subsection (b) for the biobased product marketing and certification purposes described in subsection (c).
 
 #### (b) Eligible entities
 
@@ -38,7 +38,7 @@ A grant made under this section shall be used—
 
 #### (2) Expenditure
 
-&emsp;Matching funds shall be expended in advance of grant funding, so that for every dollar ofgrant that is advanced, an equal amount of matching funds shall have been funded prior to submitting the request for reimbursement.
+&emsp;Matching funds shall be expended in advance of grant funding, so that for every dollar of grant that is advanced, an equal amount of matching funds shall have been funded prior to submitting the request for reimbursement.
 
 #### (e) Amount
 

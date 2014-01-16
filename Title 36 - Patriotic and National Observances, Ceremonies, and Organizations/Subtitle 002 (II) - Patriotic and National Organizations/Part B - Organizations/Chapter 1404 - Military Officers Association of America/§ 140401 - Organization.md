@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Military Officers Association of America (in this chapter, the “corporation”), a nonprofit organization that meets the requirements for a veterans service organization under section 501(c)(19) of the Internal Revenue Code of 1986 and is organized under the laws of the Commonwealth of Virginia, is a federally chartered corporation.
+Federal Charter.—Military Officers Association of America (in this chapter, the "corporation"), a nonprofit organization that meets the requirements for a veterans service organization under section 501(c)(19) of the Internal Revenue Code of 1986 and is organized under the laws of the Commonwealth of Virginia, is a federally chartered corporation.
 
 (b)
 

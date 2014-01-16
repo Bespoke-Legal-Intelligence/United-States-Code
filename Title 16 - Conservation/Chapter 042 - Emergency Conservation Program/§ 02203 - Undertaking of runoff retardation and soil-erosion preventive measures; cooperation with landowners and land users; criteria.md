@@ -6,25 +6,25 @@ The Secretary of Agriculture is authorized to undertake emergency measures, incl
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–127 inserted “, including the purchase of floodplain easements,” after “emergency measures”.
+<b>1996</b>—Pub. L. 104–127 inserted ", including the purchase of floodplain easements," after "emergency measures".
 
 #### Disaster Assistance for Watershed Protection Activities
 
 Pub. L. 100–387, title IV, §402, as added Pub. L. 101–82, title V, §503, Aug. 14, 1989, 103 Stat. 586, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of Agriculture may provide disaster relief assistance in accordance with this section to repair damage caused by storms occurring in 1988 or 1989 to watersheds located in any county in any State, to the extent that funds authorized by this section remain available.
 
-“(b)
+"(b)
 
 Form of Assistance.—The assistance authorized by this section—
 
-&emsp;“(1) includes both financial and technical assistance; and
+&emsp;"(1) includes both financial and technical assistance; and
 
-&emsp;“(2) shall be provided in a manner consistent with similar assistance authorized under section 403 of the Agricultural Credit Act of 1978 (16 U.S.C. 2203).
+&emsp;"(2) shall be provided in a manner consistent with similar assistance authorized under section 403 of the Agricultural Credit Act of 1978 (16 U.S.C. 2203).
 
-“(c)
+"(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $25,000,000 for fiscal year 1990.”
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $25,000,000 for fiscal year 1990."
 

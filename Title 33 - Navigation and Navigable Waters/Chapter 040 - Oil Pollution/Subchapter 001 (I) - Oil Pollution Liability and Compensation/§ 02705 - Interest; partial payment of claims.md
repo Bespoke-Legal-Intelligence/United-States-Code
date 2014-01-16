@@ -8,7 +8,7 @@ The responsible party or the responsible party's guarantor is liable to a claima
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the period for which interest shall be paid is the period beginning on the 30th day following the date on which the claim is presented to the responsible party or guarantor and ending on the date on which the claim is paid.
+&emsp;Except as provided in paragraph (2), the period for which interest shall be paid is the period beginning on the 30th day following thedate on which the claim is presented to the responsible party or guarantor and ending on the date on which the claim is paid.
 
 #### (2) Exclusion of period due to offer by guarantor
 
@@ -40,7 +40,7 @@ This Act, referred to in subsec. (a), is Pub. L. 101–380, Aug. 18, 1990, 104 S
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–324, §1142(a)(1), inserted “; partial payment of claims” after “Interest” in section catchline.
+<b>1996</b>—Pub. L. 104–324, §1142(a)(1), inserted "; partial payment of claims" after "Interest" in section catchline.
 
-Subsec. (a). Pub. L. 104–324, §1142(a)(2), inserted at end “The responsible party shall establish a procedure for the payment or settlement of claims for interim, short-term damages. Payment or settlement of a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled shall not preclude recovery by the claimant for damages not reflected in the paid or settled partial claim.”
+Subsec. (a). Pub. L. 104–324, §1142(a)(2), inserted at end "The responsible party shall establish a procedure for the payment or settlement of claims for interim, short-term damages. Payment or settlement of a claim for interim, short-term damages representing less than the full amount of damages to which the claimant ultimately may be entitled shall not preclude recovery by the claimant for damages not reflected in the paid or settled partial claim."
 

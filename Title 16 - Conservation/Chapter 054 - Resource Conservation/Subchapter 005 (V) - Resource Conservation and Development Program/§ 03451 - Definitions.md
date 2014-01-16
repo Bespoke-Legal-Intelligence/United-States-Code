@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Area plan
 
-&emsp;The term “area plan” means a resource conservation and use plan developed through a locally led planning process by a council for a designated area of 1 or more States, or of land under the jurisdiction of an Indian tribe, that includes 1 or more of the following elements:
+&emsp;The term "area plan" means a resource conservation and use plan developed through a locally led planning process by a council for a designated area of 1 or more States, or of land under the jurisdiction of an Indian tribe, that includes 1 or more of the following elements:
 
 &emsp;&emsp;(A) A land conservation element, the purpose of which is to control erosion and sedimentation.
 
@@ -50,11 +50,11 @@ In this subchapter:
 
 #### (2) Board
 
-&emsp;The term “Board” means the Resource Conservation and Development Policy Advisory Board established under section 3456(a) of this title.
+&emsp;The term "Board" means the Resource Conservation and Development Policy Advisory Board established under section 3456(a) of this title.
 
 #### (3) Council
 
-&emsp;The term “council” means a nonprofit entity (including an affiliate of the entity) operating in a State that is—
+&emsp;The term "council" means a nonprofit entity (including an affiliate of the entity) operating in a State that is—
 
 &emsp;&emsp;(A) established by volunteers or representatives of States, local units of government, Indian tribes, or local nonprofit organizations to carry out an area plan in a designated area; and
 
@@ -62,19 +62,19 @@ In this subchapter:
 
 #### (4) Designated area
 
-&emsp;The term “designated area” means a geographic area designated by the Secretary to receive technical assistance and financial assistance under this subchapter.
+&emsp;The term "designated area" means a geographic area designated by the Secretary to receive technical assistance and financial assistance under this subchapter.
 
 #### (5) Financial assistance
 
-&emsp;The term “financial assistance” means a grant or loan provided by the Secretary (or the Secretary and other Federal agencies) to, or a cooperative agreement entered into by the Secretary (or the Secretary and other Federal agencies) with, a council, or association of councils, to carry out an area plan in a designated area, including assistance provided for planning, analysis, feasibility studies, training, education, and other activities necessary to carry out the area plan.
+&emsp;The term "financial assistance" means a grant or loan provided by the Secretary (orthe Secretary and other Federal agencies) to, or a cooperative agreement entered into by the Secretary (or the Secretary and other Federal agencies) with, a council, or association of councils, to carry out an area plan in a designated area, including assistance provided for planning, analysis, feasibility studies, training, education, and other activities necessary to carry out the area plan.
 
 #### (6) Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning given the term in section 450b of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 450b of title 25.
 
 #### (7) Local unit of government
 
-&emsp;The term “local unit of government” means—
+&emsp;The term "local unit of government" means—
 
 &emsp;&emsp;(A) any county, city, town, township, parish, village, or other general-purpose subdivision of a State; and
 
@@ -82,11 +82,11 @@ In this subchapter:
 
 #### (8) Locally led planning process
 
-&emsp;The term “planning process” means actions taken by a locally led council to develop and carry out an effective area plan in a designated area, including development of the area plan, goals, purposes, policies, implementation activities, evaluations and reviews, and the opportunity for public participation in the actions.
+&emsp;The term "planning process" means actions taken by a locally led council to develop and carry out an effective area plan in a designated area, including development of the area plan, goals, purposes, policies, implementation activities, evaluations and reviews, and the opportunity for public participation in the actions.
 
 #### (9) Nonprofit organization
 
-&emsp;The term “nonprofit organization” means any organization that is—
+&emsp;The term "nonprofit organization" means any organization that is—
 
 &emsp;&emsp;(A) described in section 501(c) of title 26; and
 
@@ -94,15 +94,15 @@ In this subchapter:
 
 #### (10) Project
 
-&emsp;The term “project” means a project that is carried out by a council to achieve any of the elements of an area plan.
+&emsp;The term "project" means a project that is carried out by a council to achieve any of the elements of an area plan.
 
 #### (11) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture.
+&emsp;The term "Secretary" means the Secretary of Agriculture.
 
 #### (12) State
 
-&emsp;The term “State” means—
+&emsp;The term "State" means—
 
 &emsp;&emsp;(A) any State;
 
@@ -112,7 +112,7 @@ In this subchapter:
 
 #### (13) Technical assistance
 
-&emsp;The term “technical assistance” means any service provided by the Secretary or agent of the Secretary, including—
+&emsp;The term "technical assistance" means any service provided by the Secretary or agent of the Secretary, including—
 
 &emsp;&emsp;(A) inventorying, evaluating, planning, designing, supervising, laying out, and inspecting projects;
 
@@ -134,15 +134,15 @@ A prior section 3451, Pub. L. 97–98, title XV, §1528, Dec. 22, 1981, 95 Stat.
 
 #### Amendments
 
-<b>2008</b>—Par. (1). Pub. L. 110–246, §2805(a)(1), substituted “locally led planning process” for “planning process” in introductory provisions.
+<b>2008</b>—Par. (1). Pub. L. 110–246, §2805(a)(1), substituted "locally led planning process" for "planning process" in introductory provisions.
 
-Pars. (8), (9). Pub. L. 110–246, §2805(a)(2), (3), redesignated pars. (9) and (8) as (8) and (9), respectively, and, in par. (8), substituted “Locally led planning process” for “Planning process” in heading and “locally led council” for “council” in text.
+Pars. (8), (9). Pub. L. 110–246, §2805(a)(2), (3), redesignated pars. (9) and (8) as (8) and (9), respectively, and, in par. (8), substituted "Locally led planning process" for "Planning process" in heading and "locally led council" for "council" in text.
 
 Par. (13)(C), (D). Pub. L. 110–246, §2805(b), added subpars. (C) and (D) and struck out former subpars. (C) and (D) which read as follows:
 
-“(C) providing assistance for the long-term implementation of area plans; and
+"(C) providing assistance for the long-term implementation of area plans; and
 
-“(D) providing services of an agency of the Department of Agriculture to assist councils in developing and carrying out area plans.”
+"(D) providing services of an agency of the Department of Agriculture to assist councils in developing and carrying out area plans."
 
 #### Effective Date of 2008 Amendment
 

@@ -52,9 +52,9 @@ Sept. 7, 1962, Pub. L. 87–650, §§10, 11, 13, 76 Stat. 504, 505.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (c), the words “inure to the benefit of” are substituted for “inure to” for consistency in the revised title.
+In subsection (c), the words "inure to the benefit of" are substituted for "inure to" for consistency in the revised title.
 
-In subsection (d), the words “or advance” are added in 2 places for consistency in the subsection. In the first sentence, the words “or member” are added for consistency in the subsection.
+In subsection (d), the words "or advance" are added in 2 places for consistency in the subsection. In the first sentence, the words "or member" are added for consistency in the subsection.
 

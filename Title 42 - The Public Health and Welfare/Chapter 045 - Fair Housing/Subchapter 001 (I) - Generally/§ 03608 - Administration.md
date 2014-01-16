@@ -40,7 +40,7 @@ The Secretary of Housing and Urban Development shall—
 
 &emsp;(5) administer the programs and activities relating to housing and urban development in a manner affirmatively to further the policies of this subchapter; and
 
-&emsp;(6) annually report to the Congress, and make available to the public, data on the race, color, religion, sex, national origin, age, handicap, and family characteristics of persons and households who are applicants for, participants in, or beneficiaries or potential beneficiaries of, programs administered by the Department to the extent such characteristics are within the coverage of the provisions of law and Executive orders referred to in subsection (f) of this section which apply to such programs (and in order to develop the data to be included and made available to the public under this subsection, the Secretary shall, without regard to any other provision of law, collect such information relating to those characteristics as the Secretary determines to be necessary or appropriate).
+&emsp;(6) annually report to the Congress, and make available to the public, data on the race,color, religion, sex, national origin, age, handicap, and family characteristics of persons and households who are applicants for, participants in, or beneficiaries or potential beneficiaries of, programs administered by the Department to the extent such characteristics are within the coverage of the provisions of law and Executive orders referred to in subsection (f) of this section which apply to such programs (and in order to develop the data to be included and made available to the public under this subsection, the Secretary shall, without regard to any other provision of law, collect such information relating to those characteristics as the Secretary determines to be necessary or appropriate).
 
 #### (f) Provisions of law applicable to Department programs
 
@@ -102,7 +102,7 @@ The second sentence of subsec. (b) of this section has been omitted as it amende
 
 #### Amendments
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–430, §7(a), inserted “(including any Federal agency having regulatory or supervisory authority over financial institutions)” after “urban development”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–430, §7(a), inserted "(including any Federal agency having regulatory or supervisory authority over financial institutions)" after "urban development".
 
 Subsec. (e)(2). Pub. L. 100–430, §7(b)(1)(A), inserted provisions relating to annual report to Congress.
 
@@ -110,9 +110,9 @@ Subsec. (e)(6). Pub. L. 100–430, §7(b)(1)(B)–(D), added par. (6).
 
 Subsec. (f). Pub. L. 100–430, §7(b)(2), added subsec. (f).
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
+<b>1978</b>—Subsec. (c). Pub. L. 95–251 substituted "administrative law judges" for "hearing examiners".
 
-Pub. L. 95–454 substituted “5372” for “5362”.
+Pub. L. 95–454 substituted "5372" for "5362".
 
 #### Effective Date of 1988 Amendment
 
@@ -126,13 +126,13 @@ Amendment by Pub. L. 95–454 effective on first day of first applicable pay per
 
 Pub. L. 105–276, title V, §589, Oct. 21, 1998, 112 Stat. 2651, provided that:
 
-“(a)
+"(a)
 
 Establishment of Policy.—Not later than 60 days after the date of the enactment of this Act \[Oct. 21, 1998\], the Secretary of Housing and Urban Development shall publish a notice in the Federal Register for effect that takes effect upon publication and provides that the specific and unmodified standards provided in the March 20, 1991, Memorandum from the General Counsel of the Department of Housing and Urban Development to all Regional Counsel shall be the policy of the Department of Housing and Urban Development with respect to complaints of discrimination under the Fair Housing Act (42 U.S.C. 3601 et seq.) on the basis of familial status which involve an occupancy standard established by a housing provider.
 
-“(b)
+"(b)
 
-Prohibition of National Standard.—The Secretary of Housing and Urban Development shall not directly or indirectly establish a national occupancy standard.”
+Prohibition of National Standard.—The Secretary of Housing and Urban Development shall not directly or indirectly establish a national occupancy standard."
 
 #### Executive Order No. 12259
 
@@ -142,13 +142,13 @@ Ex. Ord. No. 12259, Dec. 31, 1980, 46 F.R. 1253, which related to leadership and
 
 Ex. Ord. No. 12892, Jan. 17, 1994, 59 F.R. 2939, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in accordance with the Fair Housing Act, as amended (42 U.S.C. 3601 <i>et seq</i>.) (“Act”), in order to affirmatively further fair housing in all Federal programs and activities relating to housing and urban development throughout the United States, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in accordance with the Fair Housing Act, as amended (42 U.S.C. 3601 <i>et seq</i>.) ("Act"), in order to affirmatively further fair housing in all Federal programs and activities relating to housing and urban development throughout the United States, it is hereby ordered as follows:
 
 Section 1. <i>Administration of Programs and Activities Relating to Housing and Urban Development.</i>
 
 1–101. Section 808(d) of the Act, as amended \[42 U.S.C. 3608(d)\], provides that all executive departments and agencies shall administer their programs and activities relating to housing and urban development (including any Federal agency having regulatory or supervisory authority over financial institutions) in a manner affirmatively to further the purposes of the Act and shall cooperate with the Secretary of Housing and Urban Development to further such purposes.
 
-1–102. As used in this order, the phrase “programs and activities” shall include programs and activities operated, administered, or undertaken by the Federal Government; grants; loans; contracts; insurance; guarantees; and Federal supervision or exercise of regulatory responsibility (including regulatory or supervisory authority over financial institutions).
+1–102. As used in this order, the phrase "programs and activities" shall include programs and activities operated, administered, or undertaken by the Federal Government; grants; loans; contracts; insurance; guarantees; and Federal supervision or exercise of regulatory responsibility (including regulatory or supervisory authority over financial institutions).
 
 Sec. 2. <i>Responsibilities of Executive Agencies.</i>
 
@@ -162,7 +162,7 @@ Sec. 2. <i>Responsibilities of Executive Agencies.</i>
 
 Sec. 3. <i>President's Fair Housing Council.</i>
 
-3–301. There is hereby established an advisory council entitled the “President's Fair Housing Council” (“Council”). The Council shall be chaired by the Secretary of Housing and Urban Development and shall consist of the Secretary of Health and Human Services, the Secretary of Transportation, the Secretary of Education, the Secretary of Labor, the Secretary of Defense, the Secretary of Agriculture, the Secretary of Veterans Affairs, the Secretary of the Treasury, the Attorney General, the Secretary of the Interior, the Chair of the Federal Reserve, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Chair of the Federal Deposit Insurance Corporation, and such other officials of executive departments and agencies as the President may, from time to time, designate.
+3–301. There is hereby established an advisory council entitled the "President's Fair Housing Council" ("Council"). The Council shall be chaired by the Secretary of Housing and Urban Development and shall consist of the Secretary of Health and Human Services, the Secretary of Transportation, the Secretary of Education, the Secretary of Labor, the Secretary of Defense, the Secretary of Agriculture, the Secretary of Veterans Affairs, the Secretary of the Treasury, the Attorney General, the Secretary of the Interior, the Chair of the Federal Reserve, the Comptroller of the Currency, the Director of the Office of Thrift Supervision, the Chair of the Federal Deposit Insurance Corporation, and such other officials of executive departments and agencies as the President may, from time to time, designate.
 
 3–302. The President's Fair Housing Council shall review the design and delivery of Federal programs and activities to ensure that they support a coordinated strategy to affirmatively further fair housing. The Council shall propose revisions to existing programs or activities, develop pilot programs and activities, and propose new programs and activities to achieve its goals.
 
@@ -232,9 +232,9 @@ Sec. 6. <i>General Provisions.</i>
 
 6–604. (a) Part IV and sections 501 and 503 of Executive Order No. 11063 \[42 U.S.C. 1982 note\] are revoked. The activities and functions of the President's Committee on Equal Opportunity in Housing described in that Executive order shall be performed by the Secretary of Housing and Urban Development.
 
-(b) Sections 101 and 502(a) of Executive Order No. 11063 are revised to apply to discrimination because of “race, color, religion (creed), sex, disability, familial status or national origin.” All executive agencies shall revise regulations, guidelines, and procedures issued pursuant to Part II of Executive Order No. 11063 to reflect this amendment to coverage.
+(b) Sections 101 and 502(a) of Executive Order No. 11063 are revised to apply to discrimination because of "race, color, religion (creed), sex, disability, familial status or national origin." All executive agencies shall revise regulations, guidelines, and procedures issued pursuant to Part II of Executive Order No. 11063 to reflect this amendment to coverage.
 
-(c) Section 102 of Executive Order No. 11063 is revised by deleting the term “Housing and Home Finance Agency” and inserting in lieu thereof the term “Department of Housing and Urban Development.”
+(c) Section 102 of Executive Order No. 11063 is revised by deleting the term "Housing and Home Finance Agency" and inserting in lieu thereof the term "Department of Housing and Urban Development."
 
 6–605. Nothing in this order shall affect any requirement imposed under the Equal Credit Opportunity Act (15 U.S.C. 1691 <i>et seq</i>.), the Home Mortgage Disclosure Act (12 U.S.C. 2801 <i>et seq</i>.) or the Community Reinvestment Act (12 U.S.C. 2901 <i>et seq</i>.).
 
@@ -258,7 +258,7 @@ On April 11, 1968, one week after the assassination of the great civil rights le
 
 Americans of every income level, seeking to live where they choose, feel the weight of discrimination because of the color of their skin, their race, their religion, their gender, their country of origin, or because they are disabled or have children.
 
-An increasing body of evidence indicates that barriers to fair housing are pervasive. Forty percent of all families move every 5 years. This statistic is significant given the results of a recent study, commissioned by the Department of Housing and Urban Development (HUD), which found that more than half of the African Americans and Latinos seeking to rent or buy a home are treated differently than whites with the same qualifications. Moreover, based upon Home MortgageDisclosure Act \[12 U.S.C. 2801 et seq.\] data, the number of minority persons who are rejected when attempting to obtain loans to purchase homes is two to three times higher than it is for nonminorities in almost every metropolitan area of this country.
+An increasing body of evidence indicates that barriers to fair housing are pervasive. Forty percent of all families move every 5 years. This statistic is significant given the results of a recent study, commissioned by the Department of Housing and Urban Development (HUD), which found that more than half of the African Americans and Latinos seeking to rent or buy a home are treated differently than whites with the same qualifications. Moreover, based upon Home Mortgage Disclosure Act \[12 U.S.C. 2801 et seq.\] data, the number of minority persons who are rejected when attempting to obtain loans to purchase homes is two to three times higher than it is for nonminorities in almost every metropolitan area of this country.
 
 Racial and ethnic segregation, both in the private housing market and in public and assisted housing, has been well documented. Despite legislation (the Fair Housing Act) and Executive action (Executive Order No. 11063 \[42 U.S.C. 1982 note\]), the divisive impact of housing segregation persists in metropolitan areas all across this country. Too many lower income and minority Americans face barriers to housing outside of central cities. Segregation in housing and schools deprives too many of our children and youth of an opportunity to enter the marketplace or work on an equal footing. For too many families, our cities are no longer the launching pads for economic self-sufficiency and upward mobility that they have been for countless immigrants and minorities since the country's birth. And many Americans who are better off abandon the cities.
 
@@ -266,11 +266,11 @@ The resulting decline in the very heart of too many of our metropolitan areas th
 
 We can do better. We can start by making sure that our own Federal policies and programs across all of our agencies support the fair housing and equal opportunity goals to which all Americans are committed. If all of our executive agencies affirmatively further fair housing in the design of their policies and administration of their programs relating to housing and urban development, a truly nondiscriminatory housing market will be closer to achievement.
 
-By an Executive Order \[Ex. Ord. No. 12892, set out above\] (“the Order”) I am issuing today and this memorandum, I am addressing those needs. The Secretary of Housing and Urban Development and, where appropriate, the Attorney General—the officials with the primary responsibility for the enforcement of Federal fair housing laws—will take the lead in developing and coordinating measures to carry out the purposes of this Order.
+By an Executive Order \[Ex. Ord. No. 12892, set out above\] ("the Order") I am issuing today and this memorandum, I am addressing those needs. The Secretary of Housing and Urban Development and, where appropriate, the Attorney General—the officials with the primary responsibility for the enforcement of Federal fair housing laws—will take the lead in developing and coordinating measures to carry out the purposes of this Order.
 
 Through this Order, I am first expanding Executive Order No. 11063 to provide protection against discrimination in programs of Federal insurance or guaranty to persons who are disabled and to families with children.
 
-Second, I am revoking the old Executive Order No. 12259 entitled “Leadership and Coordination of Fair Housing in Federal Programs.” The new Executive order reflects the expanded authority of the Secretary of Housing and Urban Development and I am directing him to take stronger measures to provide leadership and coordination in affirmatively furthering fair housing in Federal programs.
+Second, I am revoking the old Executive Order No. 12259 entitled "Leadership and Coordination of Fair Housing in Federal Programs." The new Executive order reflects the expanded authority of the Secretary of Housing and Urban Development and I am directing him to take stronger measures to provide leadership and coordination in affirmatively furthering fair housing in Federal programs.
 
 Third, I ask the heads of departments and agencies, including the Federal banking agencies, to cooperate with the Secretary of Housing and Urban Development in identifying ways to structure agency programs and activities to affirmatively further fair housing and to promptly negotiate memoranda of understanding with him to accomplish that goal.
 
@@ -284,7 +284,7 @@ The President's Fair Housing Council shall review the design and delivery of Fed
 
 I direct the Secretary of Housing and Urban Development and the President's Fair Housing Council to develop a pilot program to be implemented in selected metropolitan areas. This initiative will promote fair housing choice by helping inner-city families to move to suburban neighborhoods and by making the central city more attractive to those who have left it. I direct the members of the Council to undertake a demonstration program that will reinvent the way assisted housing is offered to applicants, will break down jurisdictional barriers in housing opportunities, and will promote the use of subsidies that diminish residential segregation, and will combine these initiatives with refined educational incentives aimed at improving the effectiveness of inner-city schools. I am directing that transportation alternatives be considered along with targeted social service and job training programs as part of the support necessary to create a one-stop, metropolitan area-wide fair housing opportunity pilot program that will effectively offer Federally assisted housing, Federally insured housing, and private market housing within a metropolitan area to all residents of the area. The pilot program should call upon realtors, mortgage lenders, housing providers, and local governments, among others, to assist in expanding housing choices.
 
-To address the findings of recent studies, I hereby direct the Secretary of Housing and Urban Development and the Attorney General and, where appropriate, the heads of the Federal banking agencies to exercise national leadership to end discrimination in mortgage lending, the secondary mortgage market, and property insurance practices. The Secretary is directed to issue regulations to define discriminatory practices in these areas and the Secretary and the Attorney General are directed to aggressively enforce the laws prohibiting these practices.
+To address the findings of recent studies, I hereby direct the Secretary of Housing and Urban Development and the Attorney General and, where appropriate, the heads of the Federal banking agencies to exercise national leadership to end discrimination in mortgage lending, the secondary mortgage market, and property insurance practices. The Secretary is directed to issue regulations to define discriminatory practices in these areas and the Secretary and the Attorney General aredirected to aggressively enforce the laws prohibiting these practices.
 
 In each of these areas, I direct the Secretary of Housing and Urban Development to take the lead with the other Federal agencies in working to gain the voluntary cooperation, participation, and expertise of all of those in private industry, the States and localities who can assist in achieving the Nation's fair housing goals.
 

@@ -12,11 +12,11 @@
 
 &emsp;(5) a description of any work that remains to be done in carrying out the study and the time necessary for and estimated cost of completing such work.
 
-(b) Each study included in a list under subsection (a) of this section is not authorized on and after the 90th day following the submissionto Congress of such list if no funds have been appropriated for such study after the list is submitted and before such 90th day.
+(b) Each study included in a list under subsection (a) of this section is not authorized on and after the 90th day following the submission to Congress of such list if no funds have been appropriated for such study after the list is submitted and before such 90th day.
 
 (Pub. L. 99–662, title VII, §710, Nov. 17, 1986, 100 Stat. 4160; Pub. L. 106–109, §8(b), Nov. 24, 1999, 113 Stat. 1495.)
 
 #### Amendments
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–109, in first sentence, substituted “Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), not” for “Not”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–109, in first sentence, substituted "Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), not" for "Not".
 

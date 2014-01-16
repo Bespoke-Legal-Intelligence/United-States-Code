@@ -16,7 +16,7 @@ If an order of confirmation was procured by fraud, then the court may revoke the
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–353 inserted “if and only” after “revoke such order”.
+<b>1984</b>—Pub. L. 98–353 inserted "if and only" after "revoke such order".
 
 #### Effective Date of 1984 Amendment
 

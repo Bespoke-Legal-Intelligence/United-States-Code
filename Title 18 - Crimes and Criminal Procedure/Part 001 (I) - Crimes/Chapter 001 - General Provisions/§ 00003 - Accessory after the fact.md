@@ -14,19 +14,19 @@ The first paragraph is new. It is based upon authority of <i>Skelly v. United St
 
 > one who knowing a felony to have been committed by another, receives, relieves, comforts, or assists the felon in order to hinder the felon's apprehension, trial, or punishment—
 
-> and cited Jones’ Blackstone, books 3 and 4, page 2204; <i>U.S. v. Hartwell</i> (Fed. Cas. No. 15,318); <i>Albritton v. State</i> (32 Fla. 358, 13 So. 955); <i>State v. Davis</i> (14 R. I. 281); <i>Schleeter v. Commonwealth</i> (218 Ky. 72, 290 S. W. 1075). (See also <i>State v. Potter</i>, 1942, 221 N. C. 153, 19 S. E. 2d 257; <i>Hunter v. State</i>, 1935, 128 Tex. Cr. R. 191, 79 S. W. 2d 855; <i>State v. Wells</i>, 1940, 195 La. 754, 197 So. 419.)
+> and cited Jones' Blackstone, books 3 and 4, page 2204; <i>U.S. v. Hartwell</i> (Fed. Cas. No. 15,318); <i>Albritton v. State</i> (32 Fla. 358, 13 So. 955); <i>State v. Davis</i> (14 R. I. 281); <i>Schleeter v. Commonwealth</i> (218 Ky. 72, 290 S. W. 1075). (See also <i>State v. Potter</i>, 1942, 221 N. C. 153, 19 S. E. 2d 257; <i>Hunter v. State</i>, 1935, 128 Tex. Cr. R. 191, 79 S. W. 2d 855; <i>State v. Wells</i>, 1940, 195 La. 754, 197 So. 419.)
 
 The second paragraph is from section 551 of title 18, U.S.C., 1940 ed. Here only slight changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322, §330016(2)(A), inserted “(notwithstanding section 3571)” before “fined not more than one-half” in second par.
+<b>1994</b>—Pub. L. 103–322, §330016(2)(A), inserted "(notwithstanding section 3571)" before "fined not more than one-half" in second par.
 
 Pub. L. 103–322, §330011(h), amended directory language of Pub. L. 101–647, §3502. See 1990 Amendment note below.
 
-<b>1990</b>—Pub. L. 101–647, as amended by Pub. L. 103–322, §330011(h), substituted “15 years” for “ten years” in second par.
+<b>1990</b>—Pub. L. 101–647, as amended by Pub. L. 103–322, §330011(h), substituted "15 years" for "ten years" in second par.
 
-<b>1986</b>—Pub. L. 99–646 inserted “life imprisonment or” in second par.
+<b>1986</b>—Pub. L. 99–646 inserted "life imprisonment or" in second par.
 
 #### Effective Date of 1994 Amendment
 

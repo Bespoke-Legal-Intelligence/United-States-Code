@@ -6,7 +6,7 @@ All banks admitted to membership under authority of this section shall be requir
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning act Dec. 23, 1913, ch. 6, 38 Stat. 251, known as the Federal Reserve Act. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 #### Codification
 
@@ -14,13 +14,13 @@ Section is comprised of the sixth par. of section 9 of act Dec. 23, 1913, as ame
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–325 struck out before period at end “and shall be published by the reporting banks in such manner and in accordance with such regulations as the said Board may prescribe”.
+<b>1994</b>—Pub. L. 103–325 struck out before period at end "and shall be published by the reporting banks in such manner and in accordance with such regulations as the said Board may prescribe".
 
 <b>1989</b>—Pub. L. 101–73 substituted provisions for different and increasing levels of penalties, assessment and collection of penalties, and agency hearings for provision that failure to make such reports within ten days after the date they were called for would subject the offending bank to a penalty of $100 a day for each day that it failed to transmit such report, such penalty to have been collected by the Federal Reserve bank by suit or otherwise.
 
 <b>1959</b>—Pub. L. 86–230 required State member banks to comply with section 60(b) of this title and inserted provisions requiring a reference to the Comptroller of the Currency to be deemed a reference to the Board of Governors of the Federal Reserve System.
 
-<b>1954</b>—Act Sept. 3, 1954, substituted “sections 334, 656, and 1005 of title 18” for “section 592 of this title”, and “Board of Governors of the Federal Reserve System” for “Federal Reserve Board”.
+<b>1954</b>—Act Sept. 3, 1954, substituted "sections 334, 656, and 1005 of title 18" for "section 592 of this title", and "Board of Governors of the Federal Reserve System" for "Federal Reserve Board".
 
 <b>1935</b>—Act Aug. 23, 1935 inserted last sentence of section.
 

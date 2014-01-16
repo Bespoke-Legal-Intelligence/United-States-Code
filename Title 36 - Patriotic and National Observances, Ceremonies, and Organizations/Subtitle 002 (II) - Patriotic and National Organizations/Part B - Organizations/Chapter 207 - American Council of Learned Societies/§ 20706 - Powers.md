@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 June 1, 1982, Pub. L. 97–192, §2, 96 Stat. 109.
 
-The words “(hereinafter referred to as the ‘corporation’)” and “and subject to the laws of such State or States” are omitted as unnecessary.
+The words "(hereinafter referred to as the 'corporation')" and "and subject to the laws of such State or States" are omitted as unnecessary.
 

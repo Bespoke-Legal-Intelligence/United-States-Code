@@ -52,9 +52,9 @@ Judicial proceedings under this subchapter shall be concluded as expeditiously a
 
 <b>2010</b>—Subsecs. (a)(3), (4)(A)(ii), (e). Pub. L. 111–259 made technical amendment to directory language of Pub. L. 108–458. See 2004 Amendment note below.
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–261 inserted “(except when sitting en banc)” after “except that no judge”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–261 inserted "(except when sitting en banc)" after "except that no judge".
 
-<b>2004</b>—Subsecs. (a)(3), (4)(A)(ii), (e). Pub. L. 108–458, as amended by Pub. L. 111–259, substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2004</b>—Subsecs. (a)(3), (4)(A)(ii), (e). Pub. L. 108–458, as amended by Pub. L. 111–259, substituted "Director of National Intelligence" for "Director of Central Intelligence".
 
 #### Effective Date of 2008 Amendment
 
@@ -62,15 +62,15 @@ Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in se
 
 #### Effective Date of 2004 Amendment
 
-For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 
 #### Ex. Ord. No. 12949. Foreign Intelligence Physical Searches
 
 Ex. Ord. No. 12949, Feb. 9, 1995, 60 F.R. 8169, as amended by Ex. Ord. No. 13383, §2, July 15, 2005, 70 F.R. 41933; Ex. Ord. No. 13475, §2, Oct. 7, 2008, 73 F.R. 60095, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States, including sections 302 and 303 of the Foreign Intelligence Surveillance Act of 1978 (“Act”) (50 U.S.C. 1801, <i>et seq</i>.), as amended by Public Law 103–359 \[50 U.S.C. 1822, 1823\], and in order to provide for the authorization of physical searches for foreign intelligence purposes as set forth in the Act, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States, including sections 302 and 303 of the Foreign Intelligence Surveillance Act of 1978 ("Act") (50 U.S.C. 1801, <i>et seq</i>.), as amended by Public Law 103–359 \[50 U.S.C. 1822, 1823\], and in order to provide for the authorization of physical searches for foreign intelligence purposes as set forth in the Act, it is hereby ordered as follows:
 
 Section 1. Pursuant to section 302(a)(1) of the Act, the Attorney General is authorized to approve physical searches, without a court order, to acquire foreign intelligence information for periods of up to one year, if the Attorney General makes the certifications required by that section.
 
@@ -96,7 +96,7 @@ Sec. 3. Pursuant to section 303(a)(6) of the Act, the following officials, each 
 
 &emsp;(i) Deputy Director of the Federal Bureau of Investigation.
 
-> None of the above officials, nor anyone officially acting in that capacity, may exercise the authority to makethe above certifications, unless that official has been appointed by the President, by and with the advice and consent of the Senate. The requirement of the preceding sentence that the named official must be appointed by the President with the advice and consent of the Senate does not apply to the Deputy Director of the Federal Bureau of Investigation.
+> None of the above officials, nor anyone officially acting in that capacity, may exercise the authority to make the above certifications, unless that official has been appointed by the President, by and with the advice and consent of the Senate. The requirement of the preceding sentence that the named official must be appointed by the President with the advice and consent of the Senate does not apply to the Deputy Director of the Federal Bureau of Investigation.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraphs (A) through (D)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subparagraphs (A) through (D)".</i>
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;As soon as practicable after July 29, 2010, the Secretary shall establish, under the laws of the District of Columbia and in accordance with this part, a foundation, to be known as the “Indian Law Enforcement Foundation”.
+&emsp;As soon as practicable after July 29, 2010, the Secretary shall establish, under the laws of the District of Columbia and in accordance with this part, a foundation, to be known as the "Indian Law Enforcement Foundation".
 
 #### (2) Funding determinations
 
@@ -38,7 +38,7 @@ The Foundation shall—
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a committee, to be known as the “Committee for the Establishment of the Indian Law Enforcement Foundation”, to assist the Secretary in establishing the Foundation.
+&emsp;The Secretary shall establish a committee, to be known as the "Committee for the Establishment of the Indian Law Enforcement Foundation", to assist the Secretary in establishing the Foundation.
 
 #### (2) Duties
 
@@ -80,7 +80,7 @@ The Foundation shall—
 
 &emsp;&emsp;&emsp;The initial voting members of the Board—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall be appointed by the Committee not later than 180 days after the date on which the Foundation is established; and
+&emsp;&emsp;&emsp;&emsp;(I) shall be appointed by the Committee not later than 180 days after the dateon which the Foundation is established; and
 
 &emsp;&emsp;&emsp;&emsp;(II) shall serve for staggered terms.
 

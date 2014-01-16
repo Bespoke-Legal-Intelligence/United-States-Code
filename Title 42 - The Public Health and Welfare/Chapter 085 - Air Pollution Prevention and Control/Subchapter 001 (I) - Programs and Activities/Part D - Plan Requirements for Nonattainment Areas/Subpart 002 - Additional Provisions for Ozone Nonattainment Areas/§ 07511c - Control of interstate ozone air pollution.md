@@ -22,7 +22,7 @@ A single transport region for ozone (within the meaning of section 7506a(a) of t
 
 #### (2) Notice and review
 
-&emsp;Whenever the Administrator receives recommendations prepared by a commission pursuant to paragraph (1) (the date of receipt of which shall hereinafter in this section be referred to as the “receipt date”), the Administrator shall—
+&emsp;Whenever the Administrator receives recommendations prepared by a commission pursuant to paragraph (1) (the date of receipt of which shall hereinafter in this section be referred to as the "receipt date"), the Administrator shall—
 
 &emsp;&emsp;(A) immediately publish in the Federal Register a notice stating that the recommendations are available and provide an opportunity for public hearing within 90 days beginning on the receipt date; and
 
@@ -52,5 +52,5 @@ For purposes of this section, not later than 6 months after November 15, 1990, t
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "this".</i>
 

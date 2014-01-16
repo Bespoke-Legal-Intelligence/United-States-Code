@@ -2,11 +2,11 @@
 
 The district courts, together with the United States District Court for the District of the Canal Zone, the District Court of the Virgin Islands, and the District Court of Guam shall have jurisdiction, for cause shown, to restrain violations of section 215 of this title, including in the case of violations of section 215(a)(2) of this title the restraint of any withholding of payment of minimum wages or overtime compensation found by the court to be due to employees under this chapter (except sums which employees are barred from recovering, at the time of the commencement of the action to restrain the violations, by virtue of the provisions of section 255 of this title).
 
-(June 25, 1938, ch. 676, §17, 52 Stat. 1069; Oct. 26, 1949, ch. 736, §15, 63 Stat. 919; Pub. L. 85–231, §1(3), Aug. 30, 1957, 71 Stat. 514; Pub. L. 86–624, §21(c), July 12, 1960, 74 Stat. 417; Pub. L. 87–30, §12(b), May 5, 1961, 75 Stat. 74.)
+(June 25, 1938, ch. 676, §17, 52 Stat. 1069; Oct. 26, 1949, ch. 736, §15, 63 Stat. 919; Pub. L. 85–231, §1(3), Aug. 30, 1957, 71 Stat. 514; Pub. L. 86–624,§21(c), July 12, 1960, 74 Stat. 417; Pub. L. 87–30, §12(b), May 5, 1961, 75 Stat. 74.)
 
 #### Amendments
 
-<b>1961</b>—Pub. L. 87–30 substituted “, including in the case of violations of section 215(a)(2) of this title the restraint of any withholding of payment of minimum wages or overtime compensation found by the court to be due to employees under this chapter (except sums which employees are barred from recovering, at the time of the commencement of the action to restrain the violations, by virtue of the provisions of section 255 of this title” for “: <i>Provided</i>, That no court shall have jurisdiction, in any action brought by the Administrator to restrain such violations, to order the payment to employees of unpaid minimum wages or unpaid overtime compensation or an additional equal amount as liquidated damages in such action”.
+<b>1961</b>—Pub. L. 87–30 substituted ", including in the case of violations of section 215(a)(2) of this title the restraint of any withholding of payment of minimum wages or overtime compensation found by the court to be due to employees under this chapter (except sums which employees are barred from recovering, at the time of the commencement of the action to restrain the violations, by virtue of the provisions of section 255 of this title" for ": <i>Provided</i>, That no court shall have jurisdiction, in any action brought by the Administrator to restrain such violations, to order the payment to employees of unpaid minimum wages or unpaid overtime compensation or an additional equal amount as liquidated damages in such action".
 
 <b>1960</b>—Pub. L. 86–624 struck out reference to the District Court for Territory of Alaska.
 
@@ -28,7 +28,7 @@ Amendment by act Oct. 26, 1949, effective ninety days after Oct. 26, 1949, see s
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Transfer of Functions
 

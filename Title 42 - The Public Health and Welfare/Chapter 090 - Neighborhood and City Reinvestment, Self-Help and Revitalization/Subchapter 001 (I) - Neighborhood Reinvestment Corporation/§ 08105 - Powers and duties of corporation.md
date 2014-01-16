@@ -10,7 +10,7 @@
 
 (4) The corporation shall continue the work of the Urban Reinvestment Task Force in supporting Neighborhood Housing Services of America, a nonprofit corporation established to provide services to local neighborhood housing services programs, with support which may include technical assistance and grants to expand its national loan purchase pool and may contract with it for services which it can perform more efficiently or effectively than the corporation.
 
-(5) The corporation shall, in making and providing the foregoing grants and technical and other assistance, determine the reporting and management restrictions or requirements with which the recipients of such grants or other assistance must comply. In making such determinations, the corporation shall assure that recipients of grants and other assistance make available to the corporation such information as may be necessary to determine compliance with applicable Federal laws.
+(5) The corporation shall, in making and providing the foregoing grants and technical and other assistance, determine the reporting and management restrictions or requirements with which the recipients of such grants or other assistance must comply. In making such determinations, the corporation shall assure that recipients of grants and other assistance makeavailable to the corporation such information as may be necessary to determine compliance with applicable Federal laws.
 
 #### (b) General administrative powers
 
@@ -58,11 +58,11 @@ To carry out the foregoing purposes and engage in the foregoing activities, the 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(3). Pub. L. 111–203 substituted “Federal Housing Finance Agency” for “Federal Home Loan Bank Board”.
+<b>2010</b>—Subsec. (c)(3). Pub. L. 111–203 substituted "Federal Housing Finance Agency" for "Federal Home Loan Bank Board".
 
-<b>1982</b>—Subsec. (c)(3). Pub. L. 97–320 inserted “funds,” after “provide”.
+<b>1982</b>—Subsec. (c)(3). Pub. L. 97–320 inserted "funds," after "provide".
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–399 substituted “monitoring” for “supervising”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–399 substituted "monitoring" for "supervising".
 
 #### Effective Date of 2010 Amendment
 

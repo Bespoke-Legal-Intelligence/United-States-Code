@@ -28,7 +28,7 @@
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§227a, 230, and section 1142 of title 26, U.S.C., 1940 ed., Internal Revenue Code (Mar. 3, 1891, ch. 517, §11, 26 Stat. 829; Mar. 3, 1911, ch. 231, §129, 36 Stat. 1134; Feb. 13, 1925, ch. 229, §8(c), 43 Stat. 940; Feb. 28, 1927, ch. 228, 44 Stat. 1261; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; Feb. 10, 1939, ch. 2, §1142, 53 Stat. 165; Oct. 21, 1942, ch. 619, title V, §504(a), (c), 56 Stat. 957).
+Based on title 28, U.S.C., 1940 ed., §§227a, 230, and section 1142 of title 26, U.S.C., 1940 ed., Internal Revenue Code (Mar. 3, 1891, ch. 517, §11, 26 Stat. 829; Mar. 3, 1911, ch. 231, §129, 36 Stat. 1134; Feb. 13, 1925, ch. 229, §8(c), 43Stat. 940; Feb. 28, 1927, ch. 228, 44 Stat. 1261; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54; Feb. 10, 1939, ch. 2, §1142, 53 Stat. 165; Oct. 21, 1942, ch. 619, title V, §504(a), (c), 56 Stat. 957).
 
 Section consolidates sections 227a and 230 of title 28, U.S.C., 1940 ed., with section 1142 of title 26, U.S.C., 1940 ed., Internal Revenue Code. Other provisions of such section 227a are incorporated in section 1292 of this title.
 
@@ -36,13 +36,13 @@ Section 227a of title 28, U.S.C., 1940 ed., provided a time limit of 30 days for
 
 Section 1142 of title 26, U.S.C., 1940 ed., provided for 3 months within which to petition for appeal from a decision of The Tax Court. The second paragraph of the revised section reduces this to 60 days for reasons explained above. Other provisions of said section 1142 making a distinction between decisions before and after June 6, 1932, were omitted as executed.
 
-Words “in an action, suit, or proceeding of a civil nature” were added in view of Rule 37 of the Federal Rules of Criminal Procedure prescribing a different limitation for criminal appeals.
+Words "in an action, suit, or proceeding of a civil nature" were added in view of Rule 37 of the Federal Rules of Criminal Procedure prescribing a different limitation for criminal appeals.
 
-Words “notice of appeal is filed” were substituted for provisions of sections 230 of title 28, U.S.C., 1940 ed., and 1142 of title 26, U.S.C., 1940 ed., for petition and allowance of appeal in order to eliminate the useless paper work involved in a pro forma application for appeal and perfunctory allowance of the same. The effect of the section is to require appeals to the courts of appeals in all cases to be taken by filing notice of appeal. See Rule 73(b) of Federal Rules of Civil Procedure.
+Words "notice of appeal is filed" were substituted for provisions of sections 230 of title 28, U.S.C., 1940 ed., and 1142 of title 26, U.S.C., 1940 ed., for petition and allowance of appeal in order to eliminate the useless paper work involved in a pro forma application for appeal and perfunctory allowance of the same. The effect of the section is to require appeals to the courts of appeals in all cases to be taken by filing notice of appeal. See Rule 73(b) of Federal Rules of Civil Procedure.
 
-The case of <i>Mosier v. Federal Reserve Bank of New York</i>, C.C.A. 1942, 132 F.2d 710, holds that the Federal Rules of Civil Procedure changing the method of “taking” an appeal, do not affect the time limitation prescribed by section 230 of title 28, U.S.C., 1940 ed.
+The case of <i>Mosier v. Federal Reserve Bank of New York</i>, C.C.A. 1942, 132 F.2d 710, holds that the Federal Rules of Civil Procedure changing the method of "taking" an appeal, do not affect the time limitation prescribed by section 230 of title 28, U.S.C., 1940 ed.
 
-Word “order” was added, in two places, after “judgment” so as to make the section cover all appeals of which the courts of appeals have jurisdiction, as set forth in section 1291 et seq. of this title.
+Word "order" was added, in two places, after "judgment" so as to make the section cover all appeals of which the courts of appeals have jurisdiction, as set forth in section 1291 et seq. of this title.
 
 The last paragraph was added in conformity with section 48 of title 11, U.S.C., 1940 ed., Bankruptcy, and other sections of that title regulating appellate procedure in bankruptcy matters.
 
@@ -54,33 +54,33 @@ Changes were made in phraseology.
 
 #### Senate Revision Amendment
 
-By Senate amendment, all provisions relating to the Tax Court were eliminated. Therefore, section 1142 oftitle 26, U.S.C., Internal Revenue Code, was not one of the sources of this section as finally enacted. However, no change in the text of this section was necessary. See 80th Congress Senate Report No. 1559.
+By Senate amendment, all provisions relating to the Tax Court were eliminated. Therefore, section 1142 of title 26, U.S.C., Internal Revenue Code, was not one of the sources of this section as finally enacted. However, no change in the text of this section was necessary. See 80th Congress Senate Report No. 1559.
 
 #### 1949 Act
 
 This amendment to section 2107 of title 28, U.S.C., restores the former 15-day limitation of time within which to appeal from an interlocutory order in admiralty.
 
-This amendment eliminates as surplusage the words “in any such action, suit or proceeding,” from the fourth paragraph of section 2107 of title 28, U.S.C., and corrects a typographical error in the same paragraph.
+This amendment eliminates as surplusage the words "in any such action, suit or proceeding," from the fourth paragraph of section 2107 of title 28, U.S.C., and corrects a typographical error in the same paragraph.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b). Pub. L. 112–62 added subsec. (b) and struck out former subsec. (b) which read as follows: “In any such action, suit or proceeding in which the United States or an officer or agency thereof is a party, the time as to all parties shall be sixty days from such entry.”
+<b>2011</b>—Subsec. (b). Pub. L. 112–62 added subsec. (b) and struck out former subsec. (b) which read as follows: "In any such action, suit or proceeding in which the United States or an officer or agency thereof is a party, the time as to all parties shall be sixty days from such entry."
 
-<b>2009</b>—Subsec. (c). Pub. L. 111–16 substituted “within 14 days” for “within 7 days” in concluding provisions.
+<b>2009</b>—Subsec. (c). Pub. L. 111–16 substituted "within 14 days" for "within 7 days" in concluding provisions.
 
 <b>1991</b>—Pub. L. 102–198 designated first and second pars. as subsecs. (a) and (b), respectively, added subsec. (c), designated fifth par. as subsec. (d), and struck out third and fourth pars. which read as follows:
 
-“In any action, suit or proceeding in admiralty, the notice of appeal shall be filed within ninety days after the entry of the order, judgment or decree appealed from, if it is a final decision, and within fifteen days after its entry if it is an interlocutory decree.
+"In any action, suit or proceeding in admiralty, the notice of appeal shall be filed within ninety days after the entry of the order, judgment or decree appealed from, if it is a final decision, and within fifteen days after its entry if it is an interlocutory decree.
 
-“The district court may extend the time for appeal not exceeding thirty days from the expiration of the original time herein prescribed, upon a showing of excusable neglect based on failure of a party to learn of the entry of the judgment, order or decree.”
+"The district court may extend the time for appeal not exceeding thirty days from the expiration of the original time herein prescribed, upon a showing of excusable neglect based on failure of a party to learn of the entry of the judgment, order or decree."
 
-<b>1978</b>—Pub. L. 95–598 directed the amendment of section by inserting “or the bankruptcy court” after “district court” and by striking out the final par., which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+<b>1978</b>—Pub. L. 95–598 directed the amendment of section by inserting "or the bankruptcy court" after "district court" and by striking out the final par., which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-<b>1949</b>—Act May 24, 1949, restored, in third par., the 15-day limitation of time within which to appeal from an interlocutory order in admiralty, and in fourth par., substituted “The district court may” for “The district court, in any such action, suit, or proceeding, may” and corrected spelling of “excusable”.
+<b>1949</b>—Act May 24, 1949, restored, in third par., the 15-day limitation of time within which to appeal from an interlocutory order in admiralty, and in fourth par., substituted "The district court may" for "The district court, in any such action, suit, or proceeding, may" and corrected spelling of "excusable".
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–62, §4, Nov. 29, 2011, 125 Stat. 757, provided that: “The amendment made by this Act \[amending this section\] shall take effect on December 1, 2011.”
+Pub. L. 112–62, §4, Nov. 29, 2011, 125 Stat. 757, provided that: "The amendment made by this Act \[amending this section\] shall take effect on December 1, 2011."
 
 #### Effective Date of 2009 Amendment
 
@@ -88,27 +88,27 @@ Amendment by Pub. L. 111–16 effective Dec. 1, 2009, see section 7 of Pub. L. 1
 
 #### Findings
 
-Pub. L. 112–62, §2, Nov. 29, 2011, 125 Stat. 756, provided that: “Congress finds that—
+Pub. L. 112–62, §2, Nov. 29, 2011, 125 Stat. 756, provided that: "Congress finds that—
 
-&emsp;“(1) section 2107 of title 28, United States Code, and rule 4 of the Federal Rules of Appellate Procedure provide that the time to appeal for most civil actions is 30 days, but that the appeal time for all parties is 60 days when the parties in the civil action include the United States, a United States officer, or a United States agency;
+&emsp;"(1) section 2107 of title 28, United States Code, and rule 4 of the Federal Rules of Appellate Procedure provide that the time to appeal for most civil actions is 30 days, but that the appeal time for all parties is 60 days when the parties in the civil action include the United States, a United States officer, or a United States agency;
 
-&emsp;“(2) the 60-day period should apply if one of the parties is—
+&emsp;"(2) the 60-day period should apply if one of the parties is—
 
-&emsp;&emsp;“(A) the United States;
+&emsp;&emsp;"(A) the United States;
 
-&emsp;&emsp;“(B) a United States agency;
+&emsp;&emsp;"(B) a United States agency;
 
-&emsp;&emsp;“(C) a United States officer or employee sued in an official capacity; or
+&emsp;&emsp;"(C) a United States officer or employee sued in an official capacity; or
 
-&emsp;&emsp;“(D) a current or former United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the United States;
+&emsp;&emsp;"(D) a current or former United States officer or employee sued in an individual capacity for an act or omission occurring in connection with duties performed on behalf of the United States;
 
-&emsp;“(3) section 2107 of title 28, United States Code, and rule 4 of the Federal Rules of Appellate Procedure (as amended to take effect on December 1, 2011, in accordance with section 2074 of that title) should uniformly apply the 60-day period to those civil actions relating to a Federal officer or employee sued in an individual capacity for an act or omission occurring in connection with Federal duties;
+&emsp;"(3) section 2107 of title 28, United States Code, and rule 4 of the Federal Rules of Appellate Procedure (as amended to take effect on December 1, 2011, in accordance with section 2074 of that title) should uniformly apply the 60-day period to those civil actions relating to a Federal officer or employee sued in an individual capacity for an act or omission occurring in connection with Federal duties;
 
-&emsp;“(4) the civil actions to which the 60-day periods should apply include all civil actions in which a legal officer of the United States represents the relevant officer or employee when the judgment or order is entered or in which the United States files the appeal for that officer or employee; and
+&emsp;"(4) the civil actions to which the 60-day periods should apply include all civil actions in which a legal officer of the United States represents the relevant officer or employee when the judgment or order is entered or in which the United States files the appeal for that officer or employee; and
 
-&emsp;“(5) the application of the 60-day period in section 2107 of title 28, United States Code, and rule 4 of the Federal Rules of Appellate Procedure—
+&emsp;"(5) the application of the 60-day period in section 2107 of title 28, United States Code, and rule 4 of the Federal Rules of Appellate Procedure—
 
-&emsp;&emsp;“(A) is not limited to civil actions in which representation of the United States is provided by the Department of Justice; and
+&emsp;&emsp;"(A) is not limited to civil actions in which representation of the United States is provided by the Department of Justice; and
 
-&emsp;&emsp;“(B) includes all civil actions in which the representation of the United States is provided by a Federal legal officer acting in an official capacity, such as civil actions in which a Member, officer, or employee of the Senate or the House of Representatives is represented by the Office of Senate Legal Counsel or the Office of General Counsel of the House of Representatives.”
+&emsp;&emsp;"(B) includes all civil actions in which the representation of the United States is provided by a Federal legal officer acting in an official capacity, such as civil actions in which a Member, officer, or employee of the Senate or the House of Representatives is represented by the Office of Senate Legal Counsel or the Office of General Counsel of the House of Representatives."
 

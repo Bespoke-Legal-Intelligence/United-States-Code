@@ -8,7 +8,7 @@
 
 (ii) The Secretary shall not enter into any contract under clause (i) with the government of any of the several States to exercise enforcement authority under this chapter on Indian country without the express written consent of the Indian tribe involved.
 
-(2)(A) In addition to the authority established in paragraph (1), the Secretary, pursuant to amemorandum of understanding between the Secretary and the head of another Federal department or agency, is authorized to conduct examinations and investigations for the purposes of this chapter through the officers and employees of such other department or agency, subject to subparagraph (B). Such a memorandum shall include provisions to ensure adequate training of such officers and employees to conduct the examinations and investigations. The memorandum of understanding shall contain provisions regarding reimbursement. Such provisions may, at the sole discretion of the head of the other department or agency, require reimbursement, in whole or in part, from the Secretary for the examinations or investigations performed under this section by the officers or employees of the other department or agency.
+(2)(A) In addition to the authority established in paragraph (1), the Secretary, pursuant to a memorandum of understanding between the Secretary and the head of another Federal department or agency, is authorized to conduct examinations and investigations for the purposes of this chapter through the officers and employees of such other department or agency, subject to subparagraph (B). Such a memorandum shall include provisions to ensure adequate training of such officers and employees to conduct the examinations and investigations. The memorandum of understanding shall contain provisions regarding reimbursement. Such provisions may, at the sole discretion of the head of the other department or agency, require reimbursement, in whole or in part, from the Secretary for the examinations or investigations performed under this section by the officers or employees of the other department or agency.
 
 (B) A memorandum of understanding under subparagraph (A) between the Secretary and another Federal department or agency is effective only in the case of examinations or inspections at facilities or other locations that are jointly regulated by the Secretary and such department or agency.
 
@@ -22,7 +22,7 @@
 
 (3) In the case of food packed in the Commonwealth of Puerto Rico or a Territory the Secretary shall attempt to make inspection of such food at the first point of entry within the United States when, in his opinion and with due regard to the enforcement of all the provisions of this chapter, the facilities at his disposal will permit of such inspection.
 
-(4) For the purposes of this subsection, the term “United States” means the States and the District of Columbia.
+(4) For the purposes of this subsection, the term "United States" means the States and the District of Columbia.
 
 #### (b) Availability to owner of part of analysis samples
 
@@ -56,19 +56,19 @@ Any officer or employee of the Department designated by the Secretary to conduct
 
 <b>2009</b>—Subsec. (a)(1). Pub. L. 111–31 designated existing provisions as subpar. (A) and added subpar. (B).
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–188 inserted “(1)” before “The Secretary is authorized to conduct”, added par. (2), inserted “(3)” before “In the case of food packed”, and substituted “(4) For the purposes of this subsection,” for “For the purposes of this subsection”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–188 inserted "(1)" before "The Secretary is authorized to conduct", added par. (2), inserted "(3)" before "In the case of food packed", and substituted "(4) For the purposes of this subsection," for "For the purposes of this subsection".
 
-<b>1999</b>—Subsec. (d). Pub. L. 106–113, in first sentence, substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents” and “Director” for “Commissioner”.
+<b>1999</b>—Subsec. (d). Pub. L. 106–113, in first sentence, substituted "Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office" for "Commissioner of Patents" and "Director" for "Commissioner".
 
-<b>1993</b>—Subsec. (c). Pub. L. 103–80 struck out “of Agriculture” after “Department”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–80 struck out "of Agriculture" after "Department".
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–300, which directed the amendment of subsec. (c) by striking out “of Health, Education, and Welfare”, could not be executed because such words did not appear in the original statutory text. See 1993 Amendment note above and Transfer of Functions note below.
+<b>1992</b>—Subsec. (c). Pub. L. 102–300, which directed the amendment of subsec. (c) by striking out "of Health, Education, and Welfare", could not be executed because such words did not appear in the original statutory text. See 1993 Amendment note above and Transfer of Functions note below.
 
 <b>1970</b>—Subsec. (e). Pub. L. 91–513 struck out reference to depressant or stimulant drugs.
 
 <b>1965</b>—Subsec. (e). Pub. L. 89–74 added subsec. (e).
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–781, §307(b), inserted “the Commonwealth of Puerto Rico or” before “a Territory the Secretary”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–781, §307(b), inserted "the Commonwealth of Puerto Rico or" before "a Territory the Secretary".
 
 Subsec. (d). Pub. L. 87–781, §308, added subsec. (d).
 

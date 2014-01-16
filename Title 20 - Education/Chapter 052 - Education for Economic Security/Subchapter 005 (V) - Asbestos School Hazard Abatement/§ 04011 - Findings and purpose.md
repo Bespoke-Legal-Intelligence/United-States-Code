@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(2) medical evidence has suggested that children may be particularly vulnerable to environmentally induced cancers;
 
-&emsp;(3) medical science has not established any minimum level of exposure to asbestos fiberswhich is considered to be safe to individuals exposed to the fibers;
+&emsp;(3) medical science has not established any minimum level of exposure to asbestos fibers which is considered to be safe to individuals exposed to the fibers;
 
 &emsp;(4) substantial amounts of asbestos, particularly in sprayed form, have been used in school buildings, especially during the period 1946 through 1972;
 
@@ -16,7 +16,7 @@ The Congress finds that—
 
 &emsp;(6) the presence in school buildings of friable or easily damaged asbestos creates an unwarranted hazard to the health of the school children and school employees who are exposed to such materials;
 
-&emsp;(7) the Department of Health and Human Services and the Environmental Protection Agency, as well as several States, have attempted to publicize the potential hazards to school children and employees from exposure to asbestos fibers, but there is no systematic program for remedying hazardous conditions in schools;
+&emsp;(7) the Department of Health and Human Services and the Environmental Protection Agency, as well as several States, have attempted to publicize the potential hazards toschool children and employees from exposure to asbestos fibers, but there is no systematic program for remedying hazardous conditions in schools;
 
 &emsp;(8) because there is no Federal health standard regulating the concentration of asbestos fibers in noncommercial workplace environments such as schools, school employees and students may be exposed to hazardous concentrations of asbestos fibers in the school buildings which they use each day;
 
@@ -46,41 +46,41 @@ Subsecs. (a), (b). Pub. L. 101–637, §14(b)(1), (2), inserted headings.
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–637, §1, Nov. 28, 1990, 104 Stat. 4589, provided that: “This Act \[enacting section 2656 of Title 15, Commerce and Trade, amending this section, sections 4012 to 4022 of this title, and sections 2643, 2646, and 2647 of Title 15, enacting provisions set out as notes under this section and sections 2646 and 2656 of Title 15, and amending provisions set out as a note under this section\] may be cited as the ‘Asbestos School Hazard Abatement Reauthorization Act of 1990’.”
+Pub. L. 101–637, §1, Nov. 28, 1990, 104 Stat. 4589, provided that: "This Act \[enacting section 2656 of Title 15, Commerce and Trade, amending this section, sections 4012 to 4022 of this title, and sections 2643, 2646, and 2647 of Title 15, enacting provisions set out as notes under this section and sections 2646 and 2656 of Title 15, and amending provisions set out as a note under this section\] may be cited as the 'Asbestos School Hazard Abatement Reauthorization Act of 1990'."
 
 #### Short Title
 
-SPub. L. 98–377, title V, §501, Aug. 11, 1984, 98 Stat. 1287, as amended by Pub. L. 101–637, §14(a)(1), Nov. 28, 1990, 104 Stat. 4594, provided that: “This title \[enacting this subchapter\] may be cited as the ‘Asbestos School Hazard Abatement Act of 1984’.”
+SPub. L. 98–377, title V, §501, Aug. 11, 1984, 98 Stat. 1287, as amended by Pub. L. 101–637, §14(a)(1), Nov. 28, 1990, 104 Stat. 4594, provided that: "This title \[enacting this subchapter\] may be cited as the 'Asbestos School Hazard Abatement Act of 1984'."
 
 #### Findings and Purposes
 
 Pub. L. 101–637, §2, Nov. 28, 1990, 104 Stat. 4589, provided that:
 
-“(a)
+"(a)
 
 Findings.—Congress finds the following:
 
-&emsp;“(1) The Environmental Protection Agency has estimated that more than forty-four thousand school buildings contain friable asbestos, exposing more than fifteen million school children and one million five hundred thousand school employees to unwarranted health hazards.
+&emsp;"(1) The Environmental Protection Agency has estimated that more than forty-four thousand school buildings contain friable asbestos, exposing more than fifteen million school children and one million five hundred thousand school employees to unwarranted health hazards.
 
-&emsp;“(2) All elementary and secondary schools are required by the Asbestos Hazard Emergency Response Act \[of 1986, see Short Title of 1986 Amendment note set out under section 2601 of Title 15, Commerce and Trade\] to inspect for asbestos, develop an asbestos management plan, and implement such plan.
+&emsp;"(2) All elementary and secondary schools are required by the Asbestos Hazard Emergency Response Act \[of 1986, see Short Title of 1986 Amendment note set out under section 2601 of Title 15, Commerce and Trade\] to inspect for asbestos, develop an asbestos management plan, and implement such plan.
 
-&emsp;“(3) The Environmental Protection Agency has estimated it will cost local education agencies more than $3,000,000,000 to comply with the Asbestos Hazard Emergency Response Act.
+&emsp;"(3) The Environmental Protection Agency has estimated it will cost local education agencies more than $3,000,000,000 to comply with the Asbestos Hazard Emergency Response Act.
 
-&emsp;“(4) Without a continuing program of information assistance, technical and scientific assistance, training, and financial support, many local educational agencies will be unable to carry out sufficient response actions to prevent the release of asbestos fibers into the air.
+&emsp;"(4) Without a continuing program of information assistance, technical and scientific assistance, training, and financial support, many local educational agencies will be unable to carry out sufficient response actions to prevent the release of asbestos fibers into the air.
 
-&emsp;“(5) Without the provisions of sufficient financial support, the cost to local educational agencies of implementing asbestos response actions may have an adverse impact in their educational mission.
+&emsp;"(5) Without the provisions of sufficient financial support, the cost to local educational agencies of implementing asbestos response actions may have an adverse impact in their educational mission.
 
-&emsp;“(6) The effective regulation of interstate commerce for the protection of human health and the environment requires the continuation of programs to mitigate hazards of asbestos fibers and materials emitting such fibers.
+&emsp;"(6) The effective regulation of interstate commerce for the protection of human health and the environment requires the continuation of programs to mitigate hazards of asbestos fibers and materials emitting such fibers.
 
-“(b)
+"(b)
 
 Purposes.—The purposes of this Act \[see Short Title of 1990 Amendment note above\] are the following:
 
-&emsp;“(1) To direct the Environmental Protection Agency to maintain a program to assist local schools in carrying out their responsibilities under the Asbestos Hazard Emergency Response Act.
+&emsp;"(1) To direct the Environmental Protection Agency to maintain a program to assist local schools in carrying out their responsibilities under the Asbestos Hazard Emergency Response Act.
 
-&emsp;“(2) To provide continuing scientific and technical assistance to State and local agencies to enable them to identify and abate asbestos health hazards.
+&emsp;"(2) To provide continuing scientific and technical assistance to State and local agencies to enable them to identify and abate asbestos health hazards.
 
-&emsp;“(3) To provide financial assistance to State and local agencies for training of persons involved with inspections and abatement of asbestos, for conducting necessary reinspections of school buildings, and for the actual abatement of asbestos threats to the health and safety of school children or employees.
+&emsp;"(3) To provide financial assistance to State and local agencies for training of persons involved with inspections and abatement of asbestos, for conducting necessary reinspections of school buildings, and for the actual abatement of asbestos threats to the health and safety of school children or employees.
 
-&emsp;“(4) To assure that no employee of a local educational agency suffers any disciplinary action as a result of calling attention to potential asbestos hazards which may exist in schools.”
+&emsp;"(4) To assure that no employee of a local educational agency suffers any disciplinary action as a result of calling attention to potential asbestos hazards which may exist in schools."
 

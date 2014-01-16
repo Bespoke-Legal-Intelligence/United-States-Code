@@ -2,17 +2,11 @@
 
 In this part:
 
-&emsp;(1) The term “DOE national security authorization” means an authorization of appropriations for activities of the Department of Energy in carrying out programs necessary for national security.
+&emsp;(1) The term "DOE national security authorization" means an authorization of appropriations for activities of the Department of Energy in carrying out programs necessary for national security.
 
-&emsp;(2) The term “congressional defense committees” means—
+&emsp;(2) The term "minor construction threshold" means $10,000,000.
 
-&emsp;&emsp;(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
-
-&emsp;&emsp;(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
-
-&emsp;(3) The term “minor construction threshold” means $10,000,000.
-
-(Pub. L. 107–314, div. D, title XLVII, §4701, formerly div. C, title XXXVI, §3620, Dec. 2, 2002, 116 Stat. 2756; renumbered div. D, title XLVII, §4701, by Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 111–84, div. C, title XXXI, §3118(a), (b), Oct. 28, 2009, 123 Stat. 2709; Pub. L. 111–383, div. C, title XXXI, §3121(a), Jan. 7, 2011, 124 Stat. 4514.)
+(Pub. L. 107–314, div. D, title XLVII, §4701, formerly div. C, title XXXVI, §3620, Dec. 2, 2002, 116 Stat. 2756; renumbered div. D, title XLVII, §4701, by Pub. L. 108–136, div. C, title XXXI, §3141(j)(2)(A)–(C), Nov. 24, 2003, 117 Stat. 1781; Pub. L. 111–84, div. C, title XXXI, §3118(a), (b),Oct. 28, 2009, 123 Stat. 2709; Pub. L. 111–383, div. C, title XXXI, §3121(a), Jan. 7, 2011, 124 Stat. 4514; Pub. L. 113–66, div. C, title XXXI, §3146(a)(2)(I), Dec. 26, 2013, 127 Stat. 1073.)
 
 #### Codification
 
@@ -20,11 +14,13 @@ Section was formerly classified to section 7386 of Title 42, The Public Health a
 
 #### Amendments
 
-<b>2011</b>—Par. (3). Pub. L. 111–383 substituted “$10,000,000” for “$5,000,000”.
+<b>2013</b>—Pars. (2), (3). Pub. L. 113–66 redesignated par. (3) as (2) and struck out former par. (2) which defined "congressional defense committees".
 
-<b>2009</b>—Par. (3). Pub. L. 111–84, §3118(b), substituted “$5,000,000” for “$10,000,000”.
+<b>2011</b>—Par. (3). Pub. L. 111–383 substituted "$10,000,000" for "$5,000,000".
 
-Pub. L. 111–84, §3118(a), substituted “$10,000,000” for “$5,000,000”.
+<b>2009</b>—Par. (3). Pub. L. 111–84, §3118(b), substituted "$5,000,000" for "$10,000,000".
+
+Pub. L. 111–84, §3118(a), substituted "$10,000,000" for "$5,000,000".
 
 #### Effective Date of 2009 Amendment
 

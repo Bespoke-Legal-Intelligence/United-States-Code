@@ -22,7 +22,7 @@ Federal Government Performance Plans.—In carrying out the provisions of sectio
 
 (b)
 
-Agency Performance Plans.—Not later than the first Monday in February of each year, the head of each agency shall make available on a public website of the agency, and notify the President and the Congress of its availability, aperformance plan covering each program activity set forth in the budget of such agency. Such plan shall—
+Agency Performance Plans.—Not later than the first Monday in February of each year, the head of each agency shall make available on a public website of the agency, and notify the President and the Congress of its availability, a performance plan covering each program activity set forth in the budget of such agency. Such plan shall—
 
 &emsp;(1) establish performance goals to define the level of performance to be achieved during the year in which the plan is submitted and the next fiscal year;
 
@@ -112,29 +112,29 @@ Chief Human Capital Officers.—With respect to each agency with a Chief Human C
 
 Definitions.—For purposes of this section and sections 1116 through 1125, and sections 9703 <sup>1</sup> and 9704, the term—
 
-&emsp;(1) “agency” has the same meaning as such term is defined under section 306(f) of title 5;
+&emsp;(1) "agency" has the same meaning as such term is defined under section 306(f) of title 5;
 
-&emsp;(2) “crosscutting” means across organizational (such as agency) boundaries;
+&emsp;(2) "crosscutting" means across organizational (such as agency) boundaries;
 
-&emsp;(3) “customer service measure” means an assessment of service delivery to a customer, client, citizen, or other recipient, which can include an assessment of quality, timeliness, and satisfaction among other factors;
+&emsp;(3) "customer service measure" means an assessment of service delivery to a customer, client, citizen, or other recipient, which can include an assessment of quality, timeliness, and satisfaction among other factors;
 
-&emsp;(4) “efficiency measure” means a ratio of a program activity's inputs (such as costs or hours worked by employees) to its outputs (amount of products or services delivered) or outcomes (the desired results of a program);
+&emsp;(4) "efficiency measure" means a ratio of a program activity's inputs (such as costs or hours worked by employees) to its outputs (amount of products or services delivered) or outcomes (the desired results of a program);
 
-&emsp;(5) “major management challenge” means programs or management functions, within or across agencies, that have greater vulnerability to waste, fraud, abuse, and mismanagement (such as issues identified by the Government Accountability Office as high risk or issues identified by an Inspector General) where a failure to perform well could seriously affect the ability of an agency or the Government to achieve its mission or goals;
+&emsp;(5) "major management challenge" means programs or management functions, within or across agencies, that have greater vulnerability to waste, fraud, abuse, and mismanagement (such as issues identified by the Government Accountability Office as high risk or issues identified by an Inspector General) where a failure to perform well could seriously affect the ability of an agency or the Government to achieve its mission or goals;
 
-&emsp;(6) “milestone” means a scheduled event signifying the completion of a major deliverable or a set of related deliverables or a phase of work;
+&emsp;(6) "milestone" means a scheduled event signifying the completion of a major deliverable or a set of related deliverables or a phase of work;
 
-&emsp;(7) “outcome measure” means an assessment of the results of a program activity compared to its intended purpose;
+&emsp;(7) "outcome measure" means an assessment of the results of a program activity compared to its intended purpose;
 
-&emsp;(8) “output measure” means the tabulation, calculation, or recording of activity or effort that can be expressed in a quantitative or qualitative manner;
+&emsp;(8) "output measure" means the tabulation, calculation, or recording of activity or effort that can be expressed in a quantitative or qualitative manner;
 
-&emsp;(9) “performance goal” means a target level of performance expressed as a tangible, measurable objective, against which actual achievement can be compared, including a goal expressed as a quantitative standard, value, or rate;
+&emsp;(9) "performance goal" means a target level of performance expressed as a tangible, measurable objective, against which actual achievement can be compared, including a goal expressed as a quantitative standard, value, or rate;
 
-&emsp;(10) “performance indicator” means a particular value or characteristic used to measure output or outcome;
+&emsp;(10) "performance indicator" means a particular value or characteristic used to measure output or outcome;
 
-&emsp;(11) “program activity” means a specific activity or project as listed in the program and financing schedules of the annual budget of the United States Government; and
+&emsp;(11) "program activity" means a specific activity or project as listed in the program and financing schedules of the annual budget of the United States Government; and
 
-&emsp;(12) “program evaluation” means an assessment, through objective measurement and systematic analysis, of the manner and extent to which Federal programs achieve intended objectives.
+&emsp;(12) "program evaluation" means an assessment, through objective measurement and systematic analysis, of the manner and extent to which Federal programs achieve intended objectives.
 
 (Added Pub. L. 111–352, §3, Jan. 4, 2011, 124 Stat. 3867.)
 
@@ -150,133 +150,133 @@ A prior section 1115, added Pub. L. 103–62, §4(b), Aug. 3, 1993, 107 Stat. 28
 
 Pub. L. 111–352, §10, Jan. 4, 2011, 124 Stat. 3880, provided that:
 
-“(a)
+"(a)
 
 Searchable, Machine-readable Plans and Reports.—For fiscal year 2012 and each fiscal year thereafter, each agency required to produce strategic plans, performance plans, and performance updates in accordance with the amendments made by this Act \[see Short Title of 2011 Amendment note set out under section 1101 of this title\] shall—
 
-&emsp;“(1) not incur expenses for the printing of strategic plans, performance plans, and performance reports for release external to the agency, except when providing such documents to the Congress;
+&emsp;"(1) not incur expenses for the printing of strategic plans, performance plans, and performance reports for release external to the agency, except when providing such documents to the Congress;
 
-&emsp;“(2) produce such plans and reports in searchable, machine-readable formats; and
+&emsp;"(2) produce such plans and reports in searchable, machine-readable formats; and
 
-&emsp;“(3) make such plans and reports available on the website described under section 1122 of title 31, United States Code.
+&emsp;"(3) make such plans and reports available on the website described under section 1122 of title 31, United States Code.
 
-“(b)
+"(b)
 
 Web-based Performance Planning and Reporting.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than June 1, 2012, the Director of the Office of Management and Budget shall issue guidance to agencies to provide concise and timely performance information for publication on the website described under section 1122 of title 31, United States Code, including, at a minimum, all requirements of sections 1115 and 1116 of title 31, United States Code, except for section 1115(e).
 
-&emsp;“(2)
+&emsp;"(2)
 
 High-priority goals.—For agencies required to develop agency priority goals under section 1120(b) of title 31, United States Code, the performance information required under this section shall be merged with the existing information required under section 1122 of title 31, United States Code.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Considerations.—In developing guidance under this subsection, the Director of the Office of Management and Budget shall take into consideration the experiences of agencies in making consolidated performance planning and reporting information available on the website as required under section 1122 of title 31, United States Code.”
+Considerations.—In developing guidance under this subsection, the Director of the Office of Management and Budget shall take into consideration the experiences of agencies in making consolidated performance planning and reporting information available on the website as required under section 1122 of title 31, United States Code."
 
 #### Implementation of Pub. L. 111–352
 
 Pub. L. 111–352, §14, Jan. 4, 2011, 124 Stat. 3883, provided that:
 
-“(a)
+"(a)
 
 Interim Planning and Reporting.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-In general.—The Director of the Office of Management and Budget shall coordinate with agencies to develop interim Federal Government priority goals and submit interim Federal Government performance plans consistent with the requirements of this Act \[see Short Title of 2011 Amendment note set out under section 1101 of this title\] beginning with the submission of the fiscal year 2013 Budget of the United States Government.
+In general.—The Director of the Office of Management and Budget shall coordinate with agenciesto develop interim Federal Government priority goals and submit interim Federal Government performance plans consistent with the requirements of this Act \[see Short Title of 2011 Amendment note set out under section 1101 of this title\] beginning with the submission of the fiscal year 2013 Budget of the United States Government.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Requirements.—Each agency shall—
 
-&emsp;&emsp;“(A) not later than February 6, 2012, make adjustments to its strategic plan to make the plan consistent with the requirements of this Act;
+&emsp;&emsp;"(A) not later than February 6, 2012, make adjustments to its strategic plan to make the plan consistent with the requirements of this Act;
 
-&emsp;&emsp;“(B) prepare and submit performance plans consistent with the requirements of this Act, including the identification of agency priority goals, beginning with the performance plan for fiscal year 2013; and
+&emsp;&emsp;"(B) prepare and submit performance plans consistent with the requirements of this Act, including the identification of agency priority goals, beginning with the performance plan for fiscal year 2013; and
 
-&emsp;&emsp;“(C) make performance reporting updates consistent with the requirements of this Act beginning in fiscal year 2012.
+&emsp;&emsp;"(C) make performance reporting updates consistent with the requirements of this Act beginning in fiscal year 2012.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Quarterly reviews.—The quarterly priority progress reviews required under this Act shall begin—
 
-&emsp;&emsp;“(A) with the first full quarter beginning on or after the date of enactment of this Act \[Jan. 4, 2011\] for agencies based on the agency priority goals contained in the Analytical Perspectives volume of the Fiscal Year 2011 Budget of the United States Government; and
+&emsp;&emsp;"(A) with the first full quarter beginning on or after the date of enactment of this Act \[Jan. 4, 2011\] for agencies based on the agency priority goals contained in the Analytical Perspectives volume of the Fiscal Year 2011 Budget of the United States Government; and
 
-&emsp;&emsp;“(B) with the quarter ending June 30, 2012 for the interim Federal Government priority goals.
+&emsp;&emsp;"(B) with the quarter ending June 30, 2012 for the interim Federal Government priority goals.
 
-“(b)
+"(b)
 
-Guidance.—The Director of the Office of Management and Budget shall prepare guidance for agencies in carrying out the interim planning and reporting activities required under subsection (a), in addition to other guidance as required for implementation of this Act.”
+Guidance.—The Director of the Office of Management and Budget shall prepare guidance for agencies in carrying out the interim planning and reporting activities required under subsection (a), in addition to other guidance as required for implementation of this Act."
 
 #### Congressional Oversight and Legislation
 
 Pub. L. 111–352, §15, Jan. 4, 2011, 124 Stat. 3883, provided that:
 
-“(a)
+"(a)
 
 In General.—Nothing in this Act \[see Short Title of 2011 Amendment note set out under section 1101 of this title\] shall be construed as limiting the ability of Congress to establish, amend, suspend, or annul a goal of the Federal Government or an agency.
 
-“(b)
+"(b)
 
 GAO Reviews.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Interim planning and reporting evaluation.—Not later than June 30, 2013, the Comptroller General shall submit a report to Congress that includes—
 
-&emsp;&emsp;“(A) an evaluation of the implementation of the interim planning and reporting activities conducted under section 14 of this Act \[set out as a note above\]; and
+&emsp;&emsp;"(A) an evaluation of the implementation of the interim planning and reporting activities conducted under section 14 of this Act \[set out as a note above\]; and
 
-&emsp;&emsp;“(B) any recommendations for improving implementation of this Act as determined appropriate.
+&emsp;&emsp;"(B) any recommendations for improving implementation of this Act as determined appropriate.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Implementation evaluations.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—The Comptroller General shall evaluate the implementation of this Act subsequent to the interim planning and reporting activities evaluated in the report submitted to Congress under paragraph (1).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Agency implementation.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 Evaluations.—The Comptroller General shall evaluate how implementation of this Act is affecting performance management at the agencies described in section 901(b) of title 31, United States Code, including whether performance management is being used by those agencies to improve the efficiency and effectiveness of agency programs.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Reports.—The Comptroller General shall submit to Congress—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) an initial report on the evaluation under clause (i), not later than September 30, 2015; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) an initial report on the evaluation under clause (i), not later than September 30, 2015; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) a subsequent report on the evaluation under clause (i), not later than September 30, 2017.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) a subsequent report on the evaluation under clause (i), not later than September 30, 2017.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Federal government planning and reporting implementation.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 Evaluations.—The Comptroller General shall evaluate the implementation of the Federal Government priority goals, Federal Government performance plans and related reporting required by this Act.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Reports.—The Comptroller General shall submit to Congress—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) an initial report on the evaluation under clause (i), not later than September 30, 2015; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) an initial report on the evaluation under clause (i), not later than September 30, 2015; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) subsequent reports on the evaluation under clause (i), not later than September 30, 2017 and every 4 years thereafter.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) subsequent reports on the evaluation under clause (i), not later than September 30, 2017 and every 4 years thereafter.
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
-Recommendations.—The Comptroller General shall include in the reports required by subparagraphs (B) and (C) any recommendations for improving implementation of this Act and for streamlining the planning and reporting requirements of the Government Performance and Results Act of 1993 \[Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285; see Short Title of 1993 Amendment note set out under section 1101 of this title\].”
+Recommendations.—The Comptroller General shall include in the reports required by subparagraphs (B) and (C) any recommendations for improving implementation of this Act and for streamlining the planning and reporting requirements of the Government Performance and Results Act of 1993 \[Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285; see Short Title of 1993 Amendment note set out under section 1101 of this title\]."
 
 #### Strategic Planning and Performance Measurement Training
 
-Pub. L. 103–62, §9, Aug. 3, 1993, 107 Stat. 295, provided that: “The Office of Personnel Management shall, in consultation with the Director of the Office of Management and Budget and the Comptroller General of the United States, develop a strategic planning and performance measurement training component for its management training program and otherwise provide managers with an orientation on the development and use of strategic planning and program performance measurement.”
+Pub. L. 103–62, §9, Aug. 3, 1993, 107 Stat. 295, provided that: "The Office of Personnel Management shall, in consultation with the Director of the Office of Management and Budget and the Comptroller General of the United States, develop a strategic planning and performance measurement training component for its management training program and otherwise provide managers with an orientation on the development and use of strategic planning and program performance measurement."
 
 #### Ex. Ord. No. 13450. Improving Government Program Performance
 
@@ -288,13 +288,13 @@ Section 1. <i>Policy</i>. It is the policy of the Federal Government to spend ta
 
 Sec. 2. <i>Definitions</i>. As used in this order:
 
-(a) “agency” means:
+(a) "agency" means:
 
 (i) an executive agency as defined in section 105 of title 5, United States Code, other than the Government Accountability Office; and
 
 (ii) the United States Postal Service and the Postal Regulatory Commission;
 
-(b) “agency Performance Improvement Officer” means an employee of an agency who is a member of the Senior Executive Service or equivalent service, and who is designated by the head of the agency to carry out the duties set forth in section 5 of this order.
+(b) "agency Performance Improvement Officer" means an employee of an agency who is a member of the Senior Executive Service or equivalent service, and who is designated by the head of the agency to carry out the duties set forth in section 5 of this order.
 
 Sec. 3. <i>Duties of Heads of Agencies</i>. To assist in implementing the policy set forth in section 1 of this order, the head of each agency shall, with respect to each program administered in whole or in part by the agency:
 
@@ -412,7 +412,7 @@ Sec. 7. <i>General Provisions</i>. (a) Nothing in this order shall be construed 
 
 (b) This order shall be implemented consistent with applicable law (including laws and executive orders relating to the protection of information from disclosure) and subject to the availability of appropriations.
 
-(c) In implementing this order, the Director of National Intelligence shall perform the functions assigned to the Director of National Intelligence by the National Security Act of 1947, as amended (50 U.S.C. 401 <i>et seq</i>.), consistent with section 1018 of the Intelligence Reform and Terrorism Prevention Act (Public Law 108–458), and other applicable laws.
+(c) In implementing this order, the Director of National Intelligence shall perform the functions assigned to the Director of National Intelligence by the National Security Act of 1947, as amended (\[former\] 50 U.S.C. 401 <i>et seq</i>.) \[now 50 U.S.C. 3001 et seq.\], consistent with section 1018 of the Intelligence Reform and Terrorism Prevention Act (Public Law 108–458), and other applicable laws.
 
 (d) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, by any party against the United States, its agencies, or entities, its officers, employees, or agents, or any other person.
 

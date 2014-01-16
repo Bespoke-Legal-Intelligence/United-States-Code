@@ -2,13 +2,13 @@
 
 #### (a) General oversight responsibility
 
-The Commission shall have oversight and enforcement authority over the Board, as provided in this Act. The provisions of section 78q(a)(1) of this title, and of section 78q(b)(1) of this title shall apply to the Board as fully as if the Board were a “registered securities association” for purposes of those sections 78q(a)(1) and 78q(b)(1).
+The Commission shall have oversight and enforcement authority over the Board, as provided in this Act. The provisions of section 78q(a)(1) of this title, and of section 78q(b)(1) of this title shall apply to the Board as fully as if the Board were a "registered securities association" for purposes of those sections 78q(a)(1) and 78q(b)(1).
 
 #### (b) Rules of the Board
 
 #### (1) Definition
 
-&emsp;In this section, the term “proposed rule” means any proposed rule of the Board, and any modification of any such rule.
+&emsp;In this section, the term "proposed rule" means any proposed rule of the Board, and any modification of any such rule.
 
 #### (2) Prior approval required
 
@@ -20,21 +20,21 @@ The Commission shall have oversight and enforcement authority over the Board, as
 
 #### (4) Proposed rule procedures
 
-&emsp;The provisions of paragraphs (1) through (3) of section 78s(b) of this title shall govern the proposed rules of the Board, as fully as if the Board were a “registered securities association” for purposes of that section 78s(b), except that, for purposes of this paragraph—
+&emsp;The provisions of paragraphs (1) through (3) of section 78s(b) of this title shall govern the proposed rules of the Board, as fully as if the Board were a "registered securities association" for purposes of that section 78s(b), except that, for purposes of this paragraph—
 
-&emsp;&emsp;(A) the phrase “consistent with the requirements of this chapter and the rules and regulations thereunder applicable to such organization” in section 78s(b)(2) of this title shall be deemed to read “consistent with the requirements of title I of the Sarbanes-Oxley Act of 2002, and the rules and regulations issued thereunder applicable to such organization, or as necessary or appropriate in the public interest or for the protection of investors”; and
+&emsp;&emsp;(A) the phrase "consistent with the requirements of this chapter and the rules and regulations thereunder applicable to such organization" in section 78s(b)(2) of this title shall be deemed to read "consistent with the requirements of title I of the Sarbanes-Oxley Act of 2002, and the rules and regulations issued thereunder applicable to such organization, or as necessary or appropriate in the public interest or for the protection of investors"; and
 
-&emsp;&emsp;(B) the phrase “otherwise in furtherance of the purposes of this chapter” in section 78s(b)(3)(C) of this title shall be deemed to read “otherwise in furtherance of the purposes of title I of the Sarbanes-Oxley Act of 2002”.
+&emsp;&emsp;(B) the phrase "otherwise in furtherance of the purposes of this chapter" in section 78s(b)(3)(C) of this title shall be deemed to read "otherwise in furtherance of the purposes of title I of the Sarbanes-Oxley Act of 2002".
 
 #### (5) Commission authority to amend rules of the Board
 
-&emsp;The provisions of section 78s(c) of this title shall govern the abrogation, deletion, or addition to portions of the rules of the Board by the Commission as fully as if the Board were a “registered securities association” for purposes of that section 78s(c), except that the phrase “to conform its rules to the requirements of this chapter and the rules and regulations thereunder applicable to such organization, or otherwise in furtherance of the purposes of this chapter” in section 78s(c) of this title shall, for purposes of this paragraph, be deemed to read “to assure the fair administration of the Public Company Accounting Oversight Board, conform the rules promulgated by that Board to the requirements of title I of the Sarbanes-Oxley Act of 2002, or otherwise further the purposes of that Act, the securities laws, and the rules and regulations thereunder applicable to that Board”.
+&emsp;The provisions of section 78s(c) of this title shall govern the abrogation, deletion, or addition to portions of the rules of the Board by the Commission as fully as if the Board were a "registered securities association" for purposes of that section 78s(c), except that the phrase "to conform its rules to the requirements of this chapter and the rules and regulations thereunder applicable to such organization, or otherwise in furtherance of the purposes of this chapter" in section 78s(c) of this title shall, for purposes of this paragraph, be deemed to read "to assure the fair administration of the Public Company Accounting Oversight Board, conform the rules promulgated by that Board to the requirements of title I of the Sarbanes-Oxley Act of 2002, or otherwise further the purposes of that Act, the securities laws, and the rules and regulations thereunder applicable to that Board".
 
 #### (c) Commission review of disciplinary action taken by the Board
 
 #### (1) Notice of sanction
 
-&emsp;The Board shall promptly file notice with the Commission of any final sanction on any registered public accounting firm or on any associated person thereof, in such form and containing such information as the Commission, by rule, may prescribe.
+&emsp;The Board shall promptly file notice with the Commission of any final sanction on anyregistered public accounting firm or on any associated person thereof, in such form and containing such information as the Commission, by rule, may prescribe.
 
 #### (2) Review of sanctions
 
@@ -42,9 +42,9 @@ The Commission shall have oversight and enforcement authority over the Board, as
 
 &emsp;&emsp;(A) section 7215(e) of this title (rather than that section 78s(d)(2)) shall govern the extent to which application for, or institution by the Commission on its own motion of, review of any disciplinary action of the Board operates as a stay of such action;
 
-&emsp;&emsp;(B) references in that section 78s(e)(1) to “members” of such an organization shall be deemed to be references to registered public accounting firms;
+&emsp;&emsp;(B) references in that section 78s(e)(1) to "members" of such an organization shall be deemed to be references to registered public accounting firms;
 
-&emsp;&emsp;(C) the phrase “consistent with the purposes of this chapter” in that section 78s(e)(1) shall be deemed to read “consistent with the purposes of this chapter and title I of the Sarbanes-Oxley Act of 2002”;
+&emsp;&emsp;(C) the phrase "consistent with the purposes of this chapter" in that section 78s(e)(1) shall be deemed to read "consistent with the purposes of this chapter and title I of the Sarbanes-Oxley Act of 2002";
 
 &emsp;&emsp;(D) references to rules of the Municipal Securities Rulemaking Board in that section 78s(e)(1) shall not apply; and
 
@@ -56,7 +56,7 @@ The Commission shall have oversight and enforcement authority over the Board, as
 
 &emsp;&emsp;(A) is not necessary or appropriate in furtherance of this Act or the securities laws; or
 
-&emsp;&emsp;(B) is excessive, oppressive, inadequate, or otherwise not appropriate to the finding orthe basis on which the sanction was imposed.
+&emsp;&emsp;(B) is excessive, oppressive, inadequate, or otherwise not appropriate to the finding or the basis on which the sanction was imposed.
 
 #### (d) Censure of the Board; other sanctions
 
@@ -94,7 +94,7 @@ For information regarding constitutionality of certain provisions of section 107
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(3). Pub. L. 111–203 substituted “any person who is, or at the time of the alleged misconduct was, a member” for “any member” in introductory provisions.
+<b>2010</b>—Subsec. (d)(3). Pub. L. 111–203 substituted "any person who is, or at the time of the alleged misconduct was, a member" for "any member" in introductory provisions.
 
 #### Effective Date of 2010 Amendment
 

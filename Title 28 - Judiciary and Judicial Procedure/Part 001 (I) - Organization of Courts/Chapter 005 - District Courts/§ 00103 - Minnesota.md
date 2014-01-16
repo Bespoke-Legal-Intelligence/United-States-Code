@@ -40,5 +40,5 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>2008</b>—Par. (6). Pub. L. 110–406 inserted “and Bemidji” after “Fergus Falls”.
+<b>2008</b>—Par. (6). Pub. L. 110–406 inserted "and Bemidji" after "Fergus Falls".
 

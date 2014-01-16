@@ -42,9 +42,9 @@ Every manufacturer of new automobiles distributed in commerce shall, prior to th
 
 #### Amendments
 
-<b>2012</b>—Subsec. (g)(2). Pub. L. 112–141 inserted “safety rating categories that may include” after “refers to”.
+<b>2012</b>—Subsec. (g)(2). Pub. L. 112–141 inserted "safety rating categories that may include" after "refers to".
 
-<b>2005</b>—Subsec. (f)(3). Pub. L. 109–59, §10307(a)(2), inserted “and” at end.
+<b>2005</b>—Subsec. (f)(3). Pub. L. 109–59, §10307(a)(2), inserted "and" at end.
 
 Subsecs. (g), (h). Pub. L. 109–59, §10307(a)(1), (3), (4), added subsecs. (g) and (h).
 
@@ -54,7 +54,7 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Regulations
 
-Pub. L. 109–59, title X, §10307(b), Aug. 10, 2005, 119 Stat. 1942, provided that: “The Secretary of Transportation shall issue regulations to ensure that the labeling requirements under subsections (g) and (h) of section 3 of the Automobile Information Disclosure Act \[15 U.S.C. 1232(g), (h)\], as added by subsection (a), are implemented by September 1, 2007.”
+Pub. L. 109–59, title X, §10307(b), Aug. 10, 2005, 119 Stat. 1942, provided that: "The Secretary of Transportation shall issue regulations to ensure that the labeling requirements under subsections (g) and (h) of section 3 of the Automobile Information Disclosure Act \[15 U.S.C. 1232(g), (h)\], as added by subsection (a), are implemented by September 1, 2007."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “http://www.safercar.gov;”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "http://www.safercar.gov;".</i>
 

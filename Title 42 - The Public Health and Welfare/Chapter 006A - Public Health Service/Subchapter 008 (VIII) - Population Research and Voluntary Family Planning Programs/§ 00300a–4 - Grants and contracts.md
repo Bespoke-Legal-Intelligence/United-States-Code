@@ -2,13 +2,13 @@
 
 #### (a) Promulgation of regulations governing execution; amount of grants
 
-Grants and contracts made under this subchapter shall be made in accordance with such regulations as the Secretary may promulgate. The amount of any grant under any section of this subchapter shall be determined by the Secretary; except that no grant under any such section for any program or project for a fiscal year beginning after June 30, 1975, may be made for less than 90 per centum of its costs (as determined under regulations of the Secretary) unless the grant is to be made for a program or project for which a grant was made (under the same section) for the fiscal year ending June 30, 1975, for less than 90 per centum of its costs (as so determined), in which case a grant under such section for that program or project for a fiscal year beginning after that date may be made for a percentage which shall not be less than the percentage of its costs for which the fiscal year 1975 grant was made.
+Grants and contracts made under this subchapter shall be made in accordance with such regulations as the Secretary may promulgate.The amount of any grant under any section of this subchapter shall be determined by the Secretary; except that no grant under any such section for any program or project for a fiscal year beginning after June 30, 1975, may be made for less than 90 per centum of its costs (as determined under regulations of the Secretary) unless the grant is to be made for a program or project for which a grant was made (under the same section) for the fiscal year ending June 30, 1975, for less than 90 per centum of its costs (as so determined), in which case a grant under such section for that program or project for a fiscal year beginning after that date may be made for a percentage which shall not be less than the percentage of its costs for which the fiscal year 1975 grant was made.
 
 #### (b) Payment of grants
 
 Grants under this subchapter shall be payable in such installments and subject to such conditions as the Secretary may determine to be appropriate to assure that such grants will be effectively utilized for the purposes for which made.
 
-#### (c) Prerequisites; “low-income family” defined
+#### (c) Prerequisites; "low-income family" defined
 
 A grant may be made or contract entered into under section 300 or 300a of this title for a family planning service project or program only upon assurances satisfactory to the Secretary that—
 
@@ -16,7 +16,7 @@ A grant may be made or contract entered into under section 300 or 300a of this t
 
 &emsp;(2) no charge will be made in such project or program for services provided to any person from a low-income family except to the extent that payment will be made by a third party (including a government agency) which is authorized or is under legal obligation to pay such charge.
 
-> For purposes of this subsection, the term “low-income family” shall be defined by the Secretary in accordance with such criteria as he may prescribe so as to insure that economic status shall not be a deterrent to participation in the programs assisted under this subchapter.
+> For purposes of this subsection, the term "low-income family" shall be defined by the Secretary in accordance with such criteria as he may prescribe so as to insure that economic status shall not be a deterrent to participation in the programs assisted under this subchapter.
 
 #### (d) Suitability of informational or educational materials
 
@@ -32,7 +32,7 @@ A grant may be made or contract entered into under section 300 or 300a of this t
 
 <b>1975</b>—Subsec. (a). Pub. L. 94–63, §204(c), inserted provisions relating to amount of grants authorized pursuant to sections of this subchapter.
 
-Subsec. (c). Pub. L. 94–63, §204(d), inserted provision relating to economic status as part of the criteria to be included within definition of “low-income family”.
+Subsec. (c). Pub. L. 94–63, §204(d), inserted provision relating to economic status as part of the criteria to be included within definition of "low-income family".
 
 #### Effective Date of 1975 Amendment
 

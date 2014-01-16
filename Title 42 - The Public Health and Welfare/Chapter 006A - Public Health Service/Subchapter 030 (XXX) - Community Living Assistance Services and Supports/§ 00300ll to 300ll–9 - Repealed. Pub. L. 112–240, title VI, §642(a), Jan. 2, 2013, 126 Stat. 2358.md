@@ -8,7 +8,7 @@ Section 300ll–2, act July 1, 1944, ch. 373, title XXXII, §3203, as added and 
 
 Section 300ll–3, act July 1, 1944, ch. 373, title XXXII, §3204, as added and amended Pub. L. 111–148, title VIII, §8002(a)(1), title X, §10801(a)(2), Mar. 23, 2010, 124 Stat. 834, 1015, related to enrollment and disenrollment requirements.
 
-Section 300ll–4, act July 1, 1944, ch. 373, title XXXII, §3205, as added Pub. L. 111–148, title VIII, §8002(a)(1),Mar. 23, 2010, 124 Stat. 836, related to benefits and determination of eligibility.
+Section 300ll–4, act July 1, 1944, ch. 373, title XXXII, §3205, as added Pub. L. 111–148, title VIII, §8002(a)(1), Mar. 23, 2010, 124 Stat. 836, related to benefits and determination of eligibility.
 
 Section 300ll–5, act July 1, 1944, ch. 373, title XXXII, §3206, as added Pub. L. 111–148, title VIII, §8002(a)(1), Mar. 23, 2010, 124 Stat. 842, related to the CLASS Independence Fund.
 

@@ -50,7 +50,7 @@
 | [1731\.](%C2%A7%2001731%20-%20Vehicles%20falsely%20labeled%20as%20carriers.md) | Vehicles falsely labeled as carriers. |
 | [1732\.](%C2%A7%2001732%20-%20Approval%20of%20bond%20or%20sureties%20by%20postmaster.md) | Approval of bond or sureties by postmaster. |
 | [1733\.](%C2%A7%2001733%20-%20Mailing%20periodical%20publications%20without%20prepayment%20of%20postage.md) | Mailing periodical publications without prepayment of postage. |
-| [1734\.](%C2%A7%2001734%20-%20Editorials%20and%20other%20matter%20as%20%E2%80%9Cadvertisements%E2%80%9D.md) | Editorials and other matter as “advertisements”. |
+| [1734\.](%C2%A7%2001734%20-%20Editorials%20and%20other%20matter%20as%20advertisements.md) | Editorials and other matter as "advertisements". |
 | [1735\.](%C2%A7%2001735%20-%20Sexually%20oriented%20advertisements.md) | Sexually oriented advertisements. |
 | [1736\.](%C2%A7%2001736%20-%20Restrictive%20use%20of%20information.md) | Restrictive use of information. |
 | [1737\.](%C2%A7%2001737%20-%20Manufacturer%20of%20sexually%20related%20mail%20matter.md) | Manufacturer of sexually related mail matter. |
@@ -62,23 +62,23 @@
 
 <b>2010</b>—Pub. L. 111–154, §3(b), Mar. 31, 2010, 124 Stat. 1109, added item 1716E.
 
-<b>2000</b>—Pub. L. 106–578, §4, Dec. 28, 2000, 114 Stat. 3076, struck out item 1738 “Mailing private identification documents without a disclaimer”.
+<b>2000</b>—Pub. L. 106–578, §4, Dec. 28, 2000, 114 Stat. 3076, struck out item 1738 "Mailing private identification documents without a disclaimer".
 
 <b>1994</b>—Pub. L. 103–322, title XXXII, §320108(b)(2), Sept. 13, 1994, 108 Stat. 2113, added item 1716D.
 
-<b>1990</b>—Pub. L. 101–647, title XII, §1210(b), (c), title XXXV, §3552(b), Nov. 29, 1990, 104 Stat. 4832, 4926, struck out item 1714 “Foreign divorce information as nonmailable”, struck out “; opening letters” after “nonmailable” in item 1717, and struck out item 1718 “Libelous matter on wrappers or envelopes”.
+<b>1990</b>—Pub. L. 101–647, title XII, §1210(b), (c), title XXXV, §3552(b), Nov. 29, 1990, 104 Stat. 4832, 4926, struck out item 1714 "Foreign divorce information as nonmailable", struck out "; opening letters" after "nonmailable" in item 1717, and struck out item 1718 "Libelous matter on wrappers or envelopes".
 
-<b>1988</b>—Pub. L. 100–690, title VII, §7090(d), Nov. 18, 1988, 102 Stat. 4410, inserted “locksmithing devices and” before “motor” in item 1716A.
+<b>1988</b>—Pub. L. 100–690, title VII, §7090(d), Nov. 18, 1988, 102 Stat. 4410, inserted "locksmithing devices and" before "motor" in item 1716A.
 
 Pub. L. 100–574, §§1(b)(2), 2(b), Oct. 31, 1988, 102 Stat. 2893, added items 1716B and 1716C.
 
 <b>1982</b>—Pub. L. 97–398, §4(b), Dec. 31, 1982, 96 Stat. 2011, added item 1738.
 
-<b>1970</b>—Pub. L. 91–375, §6(j)(19)(B), (36)(B), (37)(B), Aug. 12, 1970, 84 Stat. 778, 780, 781, substituted “officer” for “postmaster” in item 1709 and “Mailing periodical publications without prepayment of postage” for “Affidavits relating to second class mail” in item 1733, and added items 1735 to 1737.
+<b>1970</b>—Pub. L. 91–375, §6(j)(19)(B), (36)(B), (37)(B), Aug. 12, 1970, 84 Stat. 778, 780, 781, substituted "officer" for "postmaster" in item 1709 and "Mailing periodical publications without prepayment of postage" for "Affidavits relating to second class mail" in item 1733, and added items 1735 to 1737.
 
 <b>1968</b>—Pub. L. 90–560, §2(2), Oct. 12, 1968, 82 Stat. 997, added item 1716A.
 
-Pub. L. 90–384, §1(b), July 5, 1968, 82 Stat. 292, struck out item 1727 “Postage accounting”.
+Pub. L. 90–384, §1(b), July 5, 1968, 82 Stat. 292, struck out item 1727 "Postage accounting".
 
 <b>1960</b>—Pub. L. 86–682, §8, Sept. 2, 1960, 74 Stat. 706, added items 1733 and 1734.
 
@@ -135,7 +135,7 @@ Pub. L. 90–384, §1(b), July 5, 1968, 82 Stat. 292, struck out item 1727 “Po
 - [&sect; 01731 - Vehicles falsely labeled as carriers](%C2%A7%2001731%20-%20Vehicles%20falsely%20labeled%20as%20carriers.md)
 - [&sect; 01732 - Approval of bond or sureties by postmaster](%C2%A7%2001732%20-%20Approval%20of%20bond%20or%20sureties%20by%20postmaster.md)
 - [&sect; 01733 - Mailing periodical publications without prepayment of postage](%C2%A7%2001733%20-%20Mailing%20periodical%20publications%20without%20prepayment%20of%20postage.md)
-- [&sect; 01734 - Editorials and other matter as &#8220;advertisements&#8221;](%C2%A7%2001734%20-%20Editorials%20and%20other%20matter%20as%20%E2%80%9Cadvertisements%E2%80%9D.md)
+- [&sect; 01734 - Editorials and other matter as advertisements](%C2%A7%2001734%20-%20Editorials%20and%20other%20matter%20as%20advertisements.md)
 - [&sect; 01735 - Sexually oriented advertisements](%C2%A7%2001735%20-%20Sexually%20oriented%20advertisements.md)
 - [&sect; 01736 - Restrictive use of information](%C2%A7%2001736%20-%20Restrictive%20use%20of%20information.md)
 - [&sect; 01737 - Manufacturer of sexually related mail matter](%C2%A7%2001737%20-%20Manufacturer%20of%20sexually%20related%20mail%20matter.md)

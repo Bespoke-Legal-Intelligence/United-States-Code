@@ -62,5 +62,5 @@ June 29, 1936, ch. 858, title XIII, §1303(b)(5)–(7), as added Pub. L. 96–45
 
 46 App.:1295b(b) (5)(C), (6)(D), (7)(C).
 
-The word “appoint” is substituted for “designate” and “permit” for consistency in the chapter.
+The word "appoint" is substituted for "designate" and "permit" for consistency in the chapter.
 

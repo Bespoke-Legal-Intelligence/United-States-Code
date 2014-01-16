@@ -18,9 +18,9 @@
 
 Subsec. (c). Pub. L. 112–81, §631(e)(17), added subsec. (c).
 
-<b>1998</b>—Pub. L. 105–261, §633(b)(1), substituted “rest and recuperative leave from certain stations” for “leave from certain stations” in section catchline.
+<b>1998</b>—Pub. L. 105–261, §633(b)(1), substituted "rest and recuperative leave from certain stations" for "leave from certain stations" in section catchline.
 
-Subsec. (b). Pub. L. 105–261, §633(a), added subsec. (b) and struck out former subsec. (b) which read as follows: “The transportation authorized by this section is limited to transportation of the member, and of each dependent of the member, for one round-trip during any tour of at least 24, but less than 36, consecutive months or two round-trips during any tour of at least 36 consecutive months.”
+Subsec. (b). Pub. L. 105–261, §633(a), added subsec. (b) and struck out former subsec. (b) which read as follows: "The transportation authorized by this section is limited to transportation of the member, and of each dependent of the member, for one round-trip during any tour of at least 24, but less than 36, consecutive months or two round-trips during any tour of at least 36 consecutive months."
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–26 substituted “round-trip” for “roundtrip” and “round-trips” for “roundtrips”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–26 substituted "round-trip" for "roundtrip" and "round-trips" for "roundtrips".
 

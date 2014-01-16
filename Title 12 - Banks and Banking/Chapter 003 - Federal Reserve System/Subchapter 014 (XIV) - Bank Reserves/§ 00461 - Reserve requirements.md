@@ -8,7 +8,7 @@ The Board is authorized for the purposes of this section <sup>1</sup> to define
 
 (1) The following definitions and rules apply to this subsection, subsection (c) of this section, and sections 248–1, 248a, 342, 360, and 412 of this title:
 
-&emsp;(A) The term “depository institution” means—
+&emsp;(A) The term "depository institution" means—
 
 &emsp;&emsp;(i) any insured bank as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\] or any bank which is eligible to make application to become an insured bank under section 5 of such Act \[12 U.S.C. 1815\];
 
@@ -16,7 +16,7 @@ The Board is authorized for the purposes of this section <sup>1</sup> to define
 
 &emsp;&emsp;(iii) any savings bank as defined in section 3 of the Federal Deposit Insurance Act or any bank which is eligible to make application to become an insured bank under section 5 of such Act;
 
-&emsp;&emsp;(iv) any insured credit union as defined in section 1752 of this title or any credit union which is eligible to make application to become an insured credit union pursuant to section 1781 of this title;
+&emsp;&emsp;(iv) any insured credit union as defined in section 1752 of this title or any credit unionwhich is eligible to make application to become an insured credit union pursuant to section 1781 of this title;
 
 &emsp;&emsp;(v) any member as defined in section 1422 of this title;
 
@@ -24,13 +24,13 @@ The Board is authorized for the purposes of this section <sup>1</sup> to define
 
 &emsp;&emsp;(vii) for the purpose of sections 248–1, 342 to 347, 347c, 347d, and 372 of this title, any association or entity which is wholly owned by or which consists only of institutions referred to in clauses (i) through (vi).
 
-&emsp;(B) The term “bank” means any insured or noninsured bank, as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\], other than a mutual savings bank or a savings bank as defined in such section.
+&emsp;(B) The term "bank" means any insured or noninsured bank, as defined in section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\], other than a mutual savings bank or a savings bank as defined in such section.
 
-&emsp;(C) The term “transaction account” means a deposit or account on which the depositor or account holder is permitted to make withdrawals by negotiable or transferable instrument, payment orders of withdrawal, telephone transfers, or other similar items for the purpose of making payments or transfers to third persons or others. Such term includes demand deposits, negotiable order of withdrawal accounts, savings deposits subject to automatic transfers, and share draft accounts.
+&emsp;(C) The term "transaction account" means a deposit or account on which the depositor or account holder is permitted to make withdrawals by negotiable or transferable instrument, payment orders of withdrawal, telephone transfers, or other similar items for the purpose of making payments or transfers to third persons or others. Such term includes demand deposits, negotiable order of withdrawal accounts, savings deposits subject to automatic transfers, and share draft accounts.
 
-&emsp;(D) The term “nonpersonal time deposits” means a transferable time deposit or account or a time deposit or account representing funds deposited to the credit of, or in which any beneficial interest is held by, a depositor who is not a natural person.
+&emsp;(D) The term "nonpersonal time deposits" means a transferable time deposit or account or a time deposit or account representing funds deposited to the credit of, or in which any beneficial interest is held by, a depositor who is not a natural person.
 
-&emsp;(E) The term “reservable liabilities” means transaction accounts, nonpersonal time deposits, and all net balances, loans, assets, and obligations which are, or may be, subject to reserve requirements under paragraph (5).
+&emsp;(E) The term "reservable liabilities" means transaction accounts, nonpersonal time deposits, and all net balances, loans, assets, and obligations which are, or may be, subject to reserve requirements under paragraph (5).
 
 &emsp;(F) In order to prevent evasions of the reserve requirements imposed by this subsection, after consultation with the Board of Directors of the Federal Deposit Insurance Corporation, the Comptroller of the Currency, and the National Credit Union Administration Board, the Board of Governors of the Federal Reserve System is authorized to determine, by regulation or order, that an account or deposit is a transaction account if such account or deposit may be used to provide funds directly or indirectly for the purpose of making payments or transfers to third persons or others.
 
@@ -46,13 +46,13 @@ The Board is authorized for the purposes of this section <sup>1</sup> to define
 
 (D) Any reserve requirement imposed under this subsection shall be uniformly applied to all transaction accounts at all depository institutions. Reserve requirements imposed under this subsection shall be uniformly applied to nonpersonal time deposits at all depository institutions, except that such requirements may vary by the maturity of such deposits.
 
-(3) Upon a finding by at least 5 members of the Board that extraordinary circumstances require such action, the Board, after consultation with the appropriate committees of the Congress, may impose, with respect to any liability of depository institutions, reserve requirements outside the limitations as to ratios and as to typesof liabilities otherwise prescribed by paragraph (2) for a period not exceeding 180 days, and for further periods not exceeding 180 days each by affirmative action by at least 5 members of the Board in each instance. The Board shall promptly transmit to the Congress a report of any exercise of its authority under this paragraph and the reasons for such exercise of authority.
+(3) Upon a finding by at least 5 members of the Board that extraordinary circumstances require such action, the Board, after consultation with the appropriate committees of the Congress, may impose, with respect to any liability of depository institutions, reserve requirements outside the limitations as to ratios and as to types of liabilities otherwise prescribed by paragraph (2) for a period not exceeding 180 days, and for further periods not exceeding 180 days each by affirmative action by at least 5 members of the Board in each instance. The Board shall promptly transmit to the Congress a report of any exercise of its authority under this paragraph and the reasons for such exercise of authority.
 
 (4)(A) The Board may, upon the affirmative vote of not less than 5 members, impose a supplemental reserve requirement on every depository institution of not more than 4 per centum of its total transaction accounts. Such supplemental reserve requirement may be imposed only if—
 
 &emsp;(i) the sole purpose of such requirement is to increase the amount of reserves maintained to a level essential for the conduct of monetary policy;
 
-&emsp;(ii) such requirement is not imposed for the purpose of reducing the cost burdens resulting from the imposition of the reserve requirements pursuant to paragraph (2);
+&emsp;(ii) such requirement is not imposed for the purpose of reducing the cost burdens resultingfrom the imposition of the reserve requirements pursuant to paragraph (2);
 
 &emsp;(iii) such requirement is not imposed for the purpose of increasing the amount of balances needed for clearing purposes; and
 
@@ -78,7 +78,7 @@ The Board is authorized for the purposes of this section <sup>1</sup> to define
 
 (8)(A) Any depository institution required to maintain reserves under this subsection which was engaged in business on July 1, 1979, but was not a member of the Federal Reserve System on or after that date, shall maintain reserves against its deposits during the first twelve-month period following the effective date of this paragraph in amounts equal to one-eighth of those otherwise required by this subsection, during the second such twelve-month period in amounts equal to one-fourth of those otherwise required, during the third such twelve-month period in amounts equal to three-eighths of those otherwise required, during the fourth twelve-month period in amounts equal to one-half of those otherwise required, and during the fifth twelve-month period in amounts equal to five-eighths of those otherwise required, during the sixth twelve-month period in amounts equal to three-fourths of those otherwise required, and during the seventh twelve-month period in amounts equal to seven-eighths of those otherwise required. This subparagraph does not apply to any category of deposits or accounts which are first authorized pursuant to Federal law in any State after April 1, 1980.
 
-(B) With respect to any bank which was a member of the Federal Reserve System during the entire period beginning on July 1, 1979, and ending on the effective date of the Monetary Control Act of 1980, the amount of required reserves imposed pursuant to this subsection on and after the effective date of such Act that exceeds the amount of reserves which would have been required of such bank if the reserve ratios in effect during the reserve computation period immediately preceding such effective date wereapplied may, at the discretion of the Board and in accordance with such rules and regulations as it may adopt, be reduced by 75 per centum during the first year which begins after such effective date, 50 per centum during the second year, and 25 per centum during the third year.
+(B) With respect to any bank which was a member of the Federal Reserve System during the entire period beginning on July 1, 1979, and ending on the effective date of the Monetary Control Act of 1980, the amount of required reserves imposed pursuant to this subsection on and after the effective date of such Act that exceeds the amount of reserves which would have been required of such bank if the reserve ratios in effect during the reserve computation period immediately preceding such effective date were applied may, at the discretion of the Board and in accordance with such rules and regulations as it may adopt, be reduced by 75 per centum during the first year which begins after such effective date, 50 per centum during the second year, and 25 per centum during the third year.
 
 (C)(i) With respect to any bank which is a member of the Federal Reserve System on the effective date of the Monetary Control Act of 1980, the amount of reserves which would have been required of such bank if the reserve ratios in effect during the reserve computation period immediately preceding such effective date were applied that exceeds the amount of required reserves imposed pursuant to this subsection shall, in accordance with such rules and regulations as the Board may adopt, be reduced by 25 per centum during the first year which begins after such effective date, 50 per centum during the second year, and 75 per centum during the third year.
 
@@ -130,7 +130,7 @@ Regulations relating to payments and distributions.—The Board may prescribe re
 
 &emsp;(C)
 
-Depository institutions defined.—For purposes of this paragraph, the term “depository institution”, in addition to the institutions described in paragraph (1)(A), includes any trust company, corporation organized under section 25A \[12 U.S.C. 611 et seq.\] or having an agreement with the Board under section 25 \[12 U.S.C. 601 et seq.\], or any branch or agency of a foreign bank (as defined in section 3101 of this title).
+Depository institutions defined.—For purposes of this paragraph, the term "depository institution", in addition to the institutions described in paragraph (1)(A), includes any trust company, corporation organized under section 25A \[12 U.S.C. 611 et seq.\] or having an agreement with the Board under section 25 \[12 U.S.C. 601 et seq.\], or any branch or agency of a foreign bank (as defined in section 3101 of this title).
 
 #### (c) Promulgation of rules and regulations respecting maintenance of balances
 
@@ -148,7 +148,7 @@ Depository institutions defined.—For purposes of this paragraph, the term “d
 
 This section, referred to in subsec. (a), means section 19 of act Dec. 23, 1913, which is classified to sections 142, 371b, 371b–1, 374, 374a, 461, 463 to 466, 505, and 506 of this title.
 
-The Federal Deposit Insurance Act, referred to in subsec. (b)(1)(A)(vi), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For completeclassification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
+The Federal Deposit Insurance Act, referred to in subsec. (b)(1)(A)(vi), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of this title and Tables.
 
 Section 25 of this Act and section 25, referred to in subsec. (b)(6), (12)(C), mean section 25 of act Dec. 23, 1913, ch. 6, which is classified to subchapter I (§601 et seq.) of chapter 6 of this title.
 
@@ -164,29 +164,29 @@ Section is comprised of subsecs. (a) to (c), formerly first six pars., of sectio
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(1)(F), (4)(B). Pub. L. 111–203 substituted “Comptroller of the Currency” for “Director of the Office of Thrift Supervision”.
+<b>2010</b>—Subsec. (b)(1)(F), (4)(B). Pub. L. 111–203 substituted "Comptroller of the Currency" for "Director of the Office of Thrift Supervision".
 
-<b>2006</b>—Subsec. (b)(2)(A). Pub. L. 109–351, §202, substituted “a ratio of not greater than 3 percent (and which may be zero)” for “the ratio of 3 per centum” in cl. (i) and “(and which may be zero),” for “and not less than 8 per centum,” in cl. (ii).
+<b>2006</b>—Subsec. (b)(2)(A). Pub. L. 109–351, §202, substituted "a ratio of not greater than 3 percent (and which may be zero)" for "the ratio of 3 per centum" in cl. (i) and "(and which may be zero)," for "and not less than 8 per centum," in cl. (ii).
 
-Subsec. (b)(4)(C) to (E). Pub. L. 109–351, §201(b)(1), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: “The supplemental reserve authorized under subparagraph (A) shall be maintained by the Federal Reserve banks in an Earnings Participation Account. Except as provided in subsection (c)(1)(A)(ii) of this section, such Earnings Participation Account shall receive earnings to be paid by the Federal Reserve banks during each calendar quarter at a rate not more than the rate earned on the securities portfolio of the Federal Reserve System during the previous calendar quarter. The Board may prescribe rules and regulations concerning the payment of earnings on Earnings Participation Accounts by Federal Reserve banks under this paragraph.”
+Subsec. (b)(4)(C) to (E). Pub. L. 109–351, §201(b)(1), redesignated subpars. (D) and (E) as (C) and (D), respectively, and struck out former subpar. (C) which read as follows: "The supplemental reserve authorized under subparagraph (A) shall be maintained by the Federal Reserve banks in an Earnings Participation Account. Except as provided in subsection (c)(1)(A)(ii) of this section, such Earnings Participation Account shall receive earnings to be paid by the Federal Reserve banks during each calendar quarter at a rate not more than the rate earned on the securities portfolio of the Federal Reserve System during the previous calendar quarter. The Board may prescribe rules and regulations concerning the payment of earnings on Earnings Participation Accounts by Federal Reserve banks under this paragraph."
 
 Subsec. (b)(12). Pub. L. 109–351, §201(a), added par. (12).
 
-Subsec. (c)(1)(A). Pub. L. 109–351, §201(b)(2), substituted “subsection (b)” for “subsection (b)(4)(C)”.
+Subsec. (c)(1)(A). Pub. L. 109–351, §201(b)(2), substituted "subsection (b)" for "subsection (b)(4)(C)".
 
-Subsec. (c)(1)(B). Pub. L. 109–351, §603, struck out “which is not a member bank” after “balances maintained by a depository institution”.
+Subsec. (c)(1)(B). Pub. L. 109–351, §603, struck out "which is not a member bank" after "balances maintained by a depository institution".
 
-<b>1989</b>—Subsec. (b)(1)(A)(vi). Pub. L. 101–73, §744(i)(2), amended cl. (vi) generally. Prior to amendment, cl. (vi) read as follows: “any insured institution as defined in section 1724 of this title or any institution which is eligible to make application to become an insured institution under section 1726 of this title; and”.
+<b>1989</b>—Subsec. (b)(1)(A)(vi). Pub. L. 101–73, §744(i)(2), amended cl. (vi) generally. Prior to amendment, cl. (vi) read as follows: "any insured institution as defined in section 1724 of this title or any institution which is eligible to make application to become an insured institution under section 1726 of this title; and".
 
-Subsec. (b)(1)(F), (4)(B). Pub. L. 101–73, §744(i)(3), substituted “Director of the Office of Thrift Supervision” for “Federal Home Loan Bank Board”.
+Subsec. (b)(1)(F), (4)(B). Pub. L. 101–73, §744(i)(3), substituted "Director of the Office of Thrift Supervision" for "Federal Home Loan Bank Board".
 
 <b>1982</b>—Subsec. (b)(1)(E), (F). Pub. L. 97–320, §411(c), added subpar. (E) and redesignated former subpar. (E) as (F).
 
-Subsec. (b)(4)(A)(iv). Pub. L. 97–320, §411(b), inserted “except as provided in paragraph (11)”.
+Subsec. (b)(4)(A)(iv). Pub. L. 97–320, §411(b), inserted "except as provided in paragraph (11)".
 
 Subsec. (b)(8)(D)(i). Pub. L. 97–320, §708(1), substituted provisions relating to reserve requirements for banks which withdraw from the Federal Reserve System for provision that any bank which was a member bank on July 1, 1979, and which withdrew from membership in the Federal Reserve System during the period beginning on July 1, 1979, and ending on the day before March 31, 1980, would maintain reserves beginning on March 31, 1980, in an amount equal to the amount of reserves it would have been required to maintain if it had been a member bank on March 31, 1980, and that after March 31, 1980, any such bank was directed to maintain reserves in the same amounts as member banks were required to maintain under this subsection, pursuant to subparagraphs (B) and (C)(i).
 
-Subsec. (b)(8)(D)(ii). Pub. L. 97–320, §708(2), struck out “on or” after “Reserve System”.
+Subsec. (b)(8)(D)(ii). Pub. L. 97–320, §708(2), struck out "on or" after "Reserve System".
 
 Subsec. (b)(11). Pub. L. 97–320, §411(a), added par. (11).
 
@@ -196,13 +196,13 @@ Subsec. (b)(11). Pub. L. 97–320, §411(a), added par. (11).
 
 Subsec. (c). Pub. L. 96–221, §104(a), substituted provisions relating to the promulgation of rules and regulations respecting maintenance of balances, for provisions relating to form of reserves held by member banks.
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–501 substituted “and, regardless of the use of the proceeds, shall be deemed a deposit” for “shall be deemed a deposit”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–501 substituted "and, regardless of the use of the proceeds, shall be deemed a deposit" for "shall be deemed a deposit".
 
 <b>1969</b>—Subsec. (a). Pub. L. 91–151, §4(a), authorized Board to determine type of obligations that would be deemed deposits.
 
 Subsec. (b). Pub. L. 91–151, §5, authorized Board to prescribe ratio of indebtedness of member banks to foreign banks, up to a maximum of 22 percent.
 
-<b>1966</b>—Pub. L. 89–597 designated first par. provisions of section 19 of act Dec. 23, 1913, as subsec. (a), substituted a general provision authorizing Board to define terms used in sections 142, 371a, 371b, 374, 374a, and 463 to 466 of this title for former provisions defining terms “demand deposits”, “gross demand deposits”, “deposits payable on demand”, “time deposits”, “savings deposits”, and “trust funds”, struck out inclusion of “savings deposits” in term “time deposits” in regard to reserve requirements of member banks, and added subsecs. (b) and (c) to such section 19, superseding second through sixth pars., which authorized Board to fix reserve requirements against time deposits between the limits of 3 and 10 percent, in lieu of prior limits of 3 and 6 percent, and struck out provision for modification of reserve requirements to prevent injurious credit to expansion or contraction.
+<b>1966</b>—Pub. L. 89–597 designated first par. provisions of section 19 of act Dec. 23, 1913, as subsec. (a), substituted a general provision authorizing Board to define terms used in sections 142, 371a, 371b, 374, 374a, and 463 to 466 of this title for former provisions defining terms "demand deposits", "gross demand deposits", "deposits payable on demand", "time deposits", "savings deposits", and "trust funds", struck out inclusion of "savings deposits" in term "time deposits" in regard to reserve requirements of member banks, and added subsecs. (b) and (c) to such section 19, superseding second through sixth pars., which authorized Board to fix reserve requirements against time deposits between the limits of 3 and 10 percent, in lieu of prior limits of 3 and 6 percent, and struck out provision for modification of reserve requirements to prevent injurious credit to expansion or contraction.
 
 <b>1935</b>—Act Aug. 23, 1935, abrogated statutory construction of demand deposits.
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 111–203 effective on the transfer date, see section 351 o
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–351, title II, §203, Oct. 13, 2006, 120 Stat. 1969, as amended by Pub. L. 110–343, div. A, title I, §128, Oct. 3, 2008, 122 Stat. 3796, provided that: “The amendments made by this title \[amending this section\] shall take effect October 1, 2008.”
+Pub. L. 109–351, title II, §203, Oct. 13, 2006, 120 Stat. 1969, as amended by Pub. L. 110–343, div. A, title I, §128, Oct. 3, 2008, 122 Stat. 3796, provided that: "The amendments made by this title \[amending this section\] shall take effect October 1, 2008."
 
 #### Effective Date of 1980 Amendment
 
@@ -220,11 +220,11 @@ Amendment by Pub. L. 96–221 effective on first day of sixth month which begins
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–501, title I, §101(b), Oct. 29, 1974, 88 Stat. 1557, provided that: “The amendment made by subsection (a) \[amending this section\] shall not apply to any bank holding company which has filed prior to the date of enactment of this Act \[Oct. 29, 1974\], an irrevocable declaration with the Board of Governors of the Federal Reserve System to divest itself of all of its banks under section 4 of the Bank Holding Company Act \[12 U.S.C. 1843\], or to any debt obligation which is an exempted security under section 3(a)(3) of the Securities Act of 1933 \[15 U.S.C. 77c(a)(3)\].”
+Pub. L. 93–501, title I, §101(b), Oct. 29, 1974, 88 Stat. 1557, provided that: "The amendment made by subsection (a) \[amending this section\] shall not apply to any bank holding company which has filed prior to the date of enactment of this Act \[Oct. 29, 1974\], an irrevocable declaration with the Board of Governors of the Federal Reserve System to divest itself of all of its banks under section 4 of the Bank Holding Company Act \[12 U.S.C. 1843\], or to any debt obligation which is an exempted security under section 3(a)(3) of the Securities Act of 1933 \[15 U.S.C. 77c(a)(3)\]."
 
 #### Effective and Termination Dates of 1966 Amendment
 
-Pub. L. 89–597, §7, Sept. 21, 1966, 80 Stat. 825, as amended by Pub. L. 90–87, Sept. 21, 1967, 81 Stat. 226; Pub. L. 90–505, §1, Sept. 21, 1968, 82 Stat. 856; Pub. L. 91–71, Sept. 22, 1969, 83 Stat. 115; Pub. L. 91–151, title I, §1, Dec. 23, 1969, 83 Stat. 371; Pub. L. 92–8, §1, Mar. 31, 1971, 85 Stat. 13; Pub. L. 92–15, §1, May 18, 1971, 85 Stat. 38; Pub. L. 93–63, July 6, 1973, 87 Stat. 147; Pub. L. 93–100, §1, Aug. 16, 1973, 87 Stat. 342; Pub. L. 93–495, title I, §107, Oct. 28, 1974, 88 Stat. 1505; Pub. L. 94–200, title I, §101, Dec. 31, 1975, 89 Stat. 1124; Pub. L. 95–22, title I, §101, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–188, title I, §101, Nov. 16, 1977, 91 Stat. 1387; Pub. L. 95–630, title XVI, §1601, Nov. 10, 1978, 92 Stat. 3713, which provided effective and termination dates for 1966 amendments by Pub. L. 89–597 (affecting sections 371b, 1425b, and 1828(g) of this title), was repealed by Pub. L. 96–221, title II, §207(a), Mar. 31, 1980, 94 Stat. 144.
+Pub. L. 89–597, §7, Sept. 21, 1966, 80 Stat. 825, as amended by Pub. L. 90–87, Sept. 21, 1967, 81 Stat. 226;Pub. L. 90–505, §1, Sept. 21, 1968, 82 Stat. 856; Pub. L. 91–71, Sept. 22, 1969, 83 Stat. 115; Pub. L. 91–151, title I, §1, Dec. 23, 1969, 83 Stat. 371; Pub. L. 92–8, §1, Mar. 31, 1971, 85 Stat. 13; Pub. L. 92–15, §1, May 18, 1971, 85 Stat. 38; Pub. L. 93–63, July 6, 1973, 87 Stat. 147; Pub. L. 93–100, §1, Aug. 16, 1973, 87 Stat. 342; Pub. L. 93–495, title I, §107, Oct. 28, 1974, 88 Stat. 1505; Pub. L. 94–200, title I, §101, Dec. 31, 1975, 89 Stat. 1124; Pub. L. 95–22, title I, §101, Apr. 19, 1977, 91 Stat. 49; Pub. L. 95–188, title I, §101, Nov. 16, 1977, 91 Stat. 1387; Pub. L. 95–630, title XVI, §1601, Nov. 10, 1978, 92 Stat. 3713, which provided effective and termination dates for 1966 amendments by Pub. L. 89–597 (affecting sections 371b, 1425b, and 1828(g) of this title), was repealed by Pub. L. 96–221, title II, §207(a), Mar. 31, 1980, 94 Stat. 144.
 
 #### Elimination or Reduction of Interest Rate Differential Between Savings Banks and Savings and Loan, Building and Loan, or Homestead Associations
 
@@ -232,13 +232,13 @@ Pub. L. 94–200, title I, §102, Dec. 31, 1975, 89 Stat. 1124, as amended by Pu
 
 #### Interest Rates: Controls
 
-Pub. L. 89–597, §1, Sept. 21, 1966, 80 Stat. 823, provided that: “The Secretary of the Treasury, the Board of Governors of the Federal Reserve System, the Board of Directors of the Federal Deposit Insurance Corporation, and the Federal Home Loan Bank Board, in implementation of their respective powers under existing law and this Act \[enacting section 1425b of this title, amending this section, sections 355, 371b, and 1828 of this title, and section 771 of former Title 31, Money and Finance, repealing section 462a–1 of this title and enacting provisions set out as notes under this section\], shall take action to bring about the reduction of interest rates to the maximum extent feasible in the light of prevailing money market and general economic conditions.”
+Pub. L. 89–597, §1, Sept. 21, 1966, 80 Stat. 823, provided that: "The Secretary of the Treasury, the Board of Governors of the Federal Reserve System, the Board of Directors of the Federal Deposit Insurance Corporation, and the Federal Home Loan Bank Board, in implementation of their respective powers under existing law and this Act \[enacting section 1425b of this title, amending this section, sections 355, 371b, and 1828 of this title, and section 771 of former Title 31, Money and Finance, repealing section 462a–1 of this title and enacting provisions set out as notes under this section\], shall take action to bring about the reduction of interest rates to the maximum extent feasible in the light of prevailing money market and general economic conditions."
 
 Effective and termination dates of control of interest rates provisions, see Effective and Termination Dates of 1966 Amendment note above.
 
 #### Outstanding Rate Regulations
 
-Pub. L. 89–597, §5, Sept. 21, 1966, 80 Stat. 825, provided that: “Any regulation prescribed by the Board of Governors of the Federal Reserve System or the Board of Directors of the Federal Deposit Insurance Corporation with respect to the payment of deposits and interest thereon by member banks or insured nonmember banks which is in effect when this Act is enacted \[Sept. 21, 1966\] shall continue in effect unless and until it is modified or rescinded after consultation with the Board of Directors or the Board of Governors, as the case may be, and the Federal Home Loan Bank Board.”
+Pub. L. 89–597, §5, Sept. 21, 1966, 80 Stat. 825, provided that: "Any regulation prescribed by the Board of Governors of the Federal Reserve System or the Board of Directors of the Federal Deposit Insurance Corporation with respect to the payment of deposits and interest thereon by member banks or insured nonmember banks which is in effect when this Act is enacted \[Sept. 21, 1966\] shall continue in effect unless and until it is modified or rescinded after consultation with the Board of Directors or the Board of Governors, as the case may be, and the Federal Home Loan Bank Board."
 
 Effective and termination dates of existing rate regulations, see Effective and Termination Dates of 1966 Amendment note under this section.
 

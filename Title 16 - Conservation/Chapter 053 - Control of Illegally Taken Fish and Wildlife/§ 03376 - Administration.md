@@ -14,11 +14,11 @@ Beginning in fiscal year 1983, to the extent and in the amounts provided in adva
 
 The Secretary of Agriculture and the Secretary of the Interior, after consultation with the appropriate agencies, shall jointly promulgate regulations to define the terms used in section 3371(f)(2)(A) of this title for the purposes of enforcement under this chapter.
 
-(Pub. L. 97–79, §7, Nov. 16, 1981, 95 Stat. 1078; Pub. L. 110–234, title VIII, §8204(e), May 22, 2008, 122 Stat. 1294; Pub. L. 110–246, §4(a), title VIII, §8204(e), June 18, 2008, 122 Stat. 1664, 2056.)
+(Pub. L. 97–79, §7, Nov. 16, 1981, 95 Stat. 1078; Pub. L. 110–234, title VIII, §8204(e), May 22, 2008,122 Stat. 1294; Pub. L. 110–246, §4(a), title VIII, §8204(e), June 18, 2008, 122 Stat. 1664, 2056.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (c), was in the original “this Act”, meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
+This chapter, referred to in subsecs. (b) and (c), was in the original "this Act", meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
 
 #### Codification
 
@@ -26,7 +26,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §8204(e)(1), substituted “sections 3372(f), 3373, and 3374” for “section 3373 and section 3374”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §8204(e)(1), substituted "sections 3372(f), 3373, and 3374" for "section 3373 and section 3374".
 
 Subsec. (c). Pub. L. 110–246, §8204(e)(2), added subsec. (c).
 

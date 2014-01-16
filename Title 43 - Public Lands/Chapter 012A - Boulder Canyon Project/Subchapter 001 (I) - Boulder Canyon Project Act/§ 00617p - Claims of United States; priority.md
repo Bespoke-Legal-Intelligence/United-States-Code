@@ -6,7 +6,7 @@ Except as provided in title 11, claims of the United States arising out of any c
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–598 inserted introductory phrase “Except as provided in title 11”.
+<b>1978</b>—Pub. L. 95–598 inserted introductory phrase "Except as provided in title 11".
 
 #### Effective Date of 1978 Amendment
 

@@ -50,23 +50,23 @@ Section 1421, referred to in subsec. (a)(2)(F), means section 1421 of Pub. L. 11
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §10102(b)(1), which directed insertion of “, or small business in,” after “residents of any”, was executed by making the insertion after “resident of” to reflect the probable intent of Congress.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §10102(b)(1), which directed insertion of ", or small business in," after "residents of any", was executed by making the insertion after "resident of" to reflect the probable intent of Congress.
 
 Subsec. (a)(2). Pub. L. 111–148, §10102(b)(2), added par. (2) and struck out former par. (2). Prior to amendment, text read as follows:
 
-“An Internet website established under paragraph (1) shall, to the extent practicable, provide ways for residents of any State to receive information on at least the following coverage options:
+"An Internet website established under paragraph (1) shall, to the extent practicable, provide ways for residents of any State to receive information on at least the following coverage options:
 
-&emsp;“(A) Health insurance coverage offered by health insurance issuers, other than coverage that provides reimbursement only for the treatment or mitigation of—
+&emsp;"(A) Health insurance coverage offered by health insurance issuers, other than coverage that provides reimbursement only for the treatment or mitigation of—
 
-&emsp;&emsp;“(i) a single disease or condition; or
+&emsp;&emsp;"(i) a single disease or condition; or
 
-&emsp;&emsp;“(ii) an unreasonably limited set of diseases or conditions (as determined by the Secretary);
+&emsp;&emsp;"(ii) an unreasonably limited set of diseases or conditions (as determined by the Secretary);
 
-&emsp;“(B) Medicaid coverage under title XIX of the Social Security Act.
+&emsp;"(B) Medicaid coverage under title XIX of the Social Security Act.
 
-&emsp;“(C) Coverage under title XXI of the Social Security Act.
+&emsp;"(C) Coverage under title XXI of the Social Security Act.
 
-&emsp;“(D) A State health benefits high risk pool, to the extent that such high risk pool is offered in such State; and
+&emsp;"(D) A State health benefits high risk pool, to the extent that such high risk pool is offered in such State; and
 
-&emsp;“(E) Coverage under a high risk pool under section 18001 of this title.”
+&emsp;"(E) Coverage under a high risk pool under section 18001 of this title."
 

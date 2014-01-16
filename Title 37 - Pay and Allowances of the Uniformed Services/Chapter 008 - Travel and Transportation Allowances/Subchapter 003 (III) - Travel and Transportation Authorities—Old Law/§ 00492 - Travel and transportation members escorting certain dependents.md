@@ -14,9 +14,9 @@
 
 Subsec. (c). Pub. L. 112–81, §631(e)(30), added subsec. (c).
 
-<b>2001</b>—Subsec. (b). Pub. L. 107–107 substituted “Air Mobility Command” for “Military Airlift Command”.
+<b>2001</b>—Subsec. (b). Pub. L. 107–107 substituted "Air Mobility Command" for "Military Airlift Command".
 
 #### Effective Date
 
-Pub. L. 99–661, div. A, title VI, §615(b), Nov. 14, 1986, 100 Stat. 3880, provided that: “Section 431 \[now 492\] of title 37, United States Code, as added by subsection (a), shall apply with respect to travel performed after September 30, 1986.”
+Pub. L. 99–661, div. A, title VI, §615(b), Nov. 14, 1986, 100 Stat. 3880, provided that: "Section 431 \[now 492\] of title 37, United States Code, as added by subsection (a), shall apply with respect to travel performed after September 30, 1986."
 

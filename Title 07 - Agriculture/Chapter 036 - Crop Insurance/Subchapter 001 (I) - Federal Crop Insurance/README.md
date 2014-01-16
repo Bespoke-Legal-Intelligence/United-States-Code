@@ -25,7 +25,7 @@
 - [&sect; 01515 - Program compliance and integrity](%C2%A7%2001515%20-%20Program%20compliance%20and%20integrity.md)
 - [&sect; 01516 - Funding](%C2%A7%2001516%20-%20Funding.md)
 - [&sect; 01517 - Separability](%C2%A7%2001517%20-%20Separability.md)
-- [&sect; 01518 - &#8220;Agricultural commodity&#8221; defined](%C2%A7%2001518%20-%20%E2%80%9CAgricultural%20commodity%E2%80%9D%20defined.md)
+- [&sect; 01518 - Agricultural commodity defined](%C2%A7%2001518%20-%20Agricultural%20commodity%20defined.md)
 - [&sect; 01519 - Repealed. Pub. L. 104&#8211;127, title I, &sect;196(j), Apr. 4, 1996, 110 Stat. 950](%C2%A7%2001519%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20I%2C%20%C2%A7196%28j%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%20950.md)
 - [&sect; 01520 - Producer eligibility](%C2%A7%2001520%20-%20Producer%20eligibility.md)
 - [&sect; 01521 - Ineligibility for catastrophic risk and noninsured assistance payments](%C2%A7%2001521%20-%20Ineligibility%20for%20catastrophic%20risk%20and%20noninsured%20assistance%20payments.md)

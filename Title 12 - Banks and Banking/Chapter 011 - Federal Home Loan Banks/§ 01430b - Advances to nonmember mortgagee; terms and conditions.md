@@ -20,9 +20,9 @@ The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–289 substituted “the Director” for “the Board”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–289 substituted "the Director" for "the Board".
 
 <b>1992</b>—Pub. L. 102–550 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-<b>1989</b>—Pub. L. 101–73 substituted “Board” for “Federal Home Loan Bank Board”.
+<b>1989</b>—Pub. L. 101–73 substituted "Board" for "Federal Home Loan Bank Board".
 

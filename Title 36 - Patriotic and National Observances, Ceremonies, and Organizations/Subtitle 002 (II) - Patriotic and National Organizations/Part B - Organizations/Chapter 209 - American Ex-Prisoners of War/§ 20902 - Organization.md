@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—American Ex-Prisoners of War (in this chapter, the “corporation”), a nonprofit corporation incorporated in the State of Washington, is a federally chartered corporation.
+Federal Charter.—American Ex-Prisoners of War (in this chapter, the "corporation"), a nonprofit corporation incorporated in the State of Washington, is a federally chartered corporation.
 
 (b)
 

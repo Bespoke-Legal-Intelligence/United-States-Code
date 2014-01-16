@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this part, the term “qualified small issue bond” means any bond issued as part of an issue the aggregate authorized face amount of which is $1,000,000 or less and 95 percent or more of the net proceeds of which are to be used—
+&emsp;For purposes of this part, the term "qualified small issue bond" means any bond issued as part of an issue the aggregate authorized face amount of which is $1,000,000 or less and 95 percent or more of the net proceeds of which are to be used—
 
 &emsp;&emsp;(A) for the acquisition, construction, reconstruction, or improvement of land or property of a character subject to the allowance for depreciation, or
 
@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(A) the relationship between such persons would result in a disallowance of losses under section 267 or 707(b), or
 
-&emsp;&emsp;(B) such persons are members of the same controlled group of corporations (as defined in section 1563(a), except that “more than 50 percent” shall be substituted for “at least 80 percent” each place it appears therein).
+&emsp;&emsp;(B) such persons are members of the same controlled group of corporations (as defined in section 1563(a), except that "more than 50 percent" shall be substituted for "at least 80 percent" each place it appears therein).
 
 #### (4) $10,000,000 limit in certain cases
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;At the election of the issuer with respect to any issue, this subsection shall be applied—
 
-&emsp;&emsp;&emsp;(i) by substituting “$10,000,000” for “$1,000,000” in paragraph (1), and
+&emsp;&emsp;&emsp;(i) by substituting "$10,000,000" for "$1,000,000" in paragraph (1), and
 
 &emsp;&emsp;&emsp;(ii) in determining the aggregate face amount of such issue, by taking into account not only the amount described in paragraph (2), but also the aggregate amount of capital expenditures with respect to facilities described in subparagraph (B) paid or incurred during the 6-year period beginning 3 years before the date of such issue and ending 3 years after such date (and financed otherwise than out of the proceeds of outstanding tax-exempt issues to which paragraph (1) (or the corresponding provision of prior law) applied), as if the aggregate amount of such capital expenditures constituted the face amount of a prior outstanding issue described in paragraph (2).
 
@@ -154,7 +154,7 @@
 
 #### (D) Test-period beneficiary
 
-&emsp;&emsp;For purposes of this paragraph, except as provided in regulations, the term “test-period beneficiary” means any person who is an owner or a principal user of facilities being financed by the issue at any time during the 3-year period beginning on the later of—
+&emsp;&emsp;For purposes of this paragraph, except as provided in regulations, the term "test-period beneficiary" means any person who is an owner or a principal user of facilities being financed by the issue at any time during the 3-year period beginning on the later of—
 
 &emsp;&emsp;&emsp;(i) the date such facilities were placed in service, or
 
@@ -172,7 +172,7 @@
 
 #### (B) Depreciable farm property
 
-&emsp;&emsp;For purposes of this paragraph, the term “depreciable farm property” means property of a character subject to the allowance for depreciation which is to be used in a trade or business of farming.
+&emsp;&emsp;For purposes of this paragraph, the term "depreciable farm property" means property of a character subject to the allowance for depreciation which is to be used in a trade or business of farming.
 
 #### (C) Prior issues taken into account
 
@@ -210,7 +210,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “manufacturing facility” means any facility which is used in the manufacturing or production of tangible personal property (including the processing resulting in a change in the condition of such property). A rule similar to the rule of section 142(b)(2) shall apply for purposes of the preceding sentence.
+&emsp;&emsp;&emsp;The term "manufacturing facility" means any facility which is used in the manufacturing or production of tangible personal property (including the processing resulting in a change in the condition of such property). A rule similar to the rule of section 142(b)(2) shall apply for purposes of the preceding sentence.
 
 #### (ii) Certain facilities included
 
@@ -234,7 +234,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;The term “qualified student loan bond” means any bond issued as part of an issue the applicable percentage or more of the net proceeds of which are to be used directly or indirectly to make or finance student loans under—
+&emsp;The term "qualified student loan bond" means any bond issued as part of an issue the applicable percentage or more of the net proceeds of which are to be used directly or indirectly to make or finance student loans under—
 
 &emsp;&emsp;(A) a program of general application to which the Higher Education Act of 1965 applies if—
 
@@ -260,7 +260,7 @@ For purposes of this part—
 
 #### (2) Applicable percentage
 
-&emsp;For purposes of paragraph (1), the term “applicable percentage” means—
+&emsp;For purposes of paragraph (1), the term "applicable percentage" means—
 
 &emsp;&emsp;(A) 90 percent in the case of the program described in paragraph (1)(A), and
 
@@ -284,7 +284,7 @@ For purposes of this part—
 
 #### (1) In general
 
-&emsp;The term “qualified redevelopment bond” means any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used for 1 or more redevelopment purposes in any designated blighted area.
+&emsp;The term "qualified redevelopment bond" means any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used for 1 or more redevelopment purposes in any designated blighted area.
 
 #### (2) Additional requirements
 
@@ -318,7 +318,7 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;The term “redevelopment purposes” means, with respect to any designated blighted area—
+&emsp;&emsp;The term "redevelopment purposes" means, with respect to any designated blighted area—
 
 &emsp;&emsp;&emsp;(i) the acquisition (by a governmental unit having the power to exercise eminent domain) of real property located in such area,
 
@@ -330,7 +330,7 @@ For purposes of this part—
 
 #### (B) New construction not permitted
 
-&emsp;&emsp;The term “redevelopment purposes” does not include the construction (other than the rehabilitation) of any property or the enlargement of an existing building.
+&emsp;&emsp;The term "redevelopment purposes" does not include the construction (other than the rehabilitation) of any property or the enlargement of an existing building.
 
 #### (4) Designated blighted area
 
@@ -338,11 +338,11 @@ For purposes of this part—
 
 #### (A) In general
 
-&emsp;&emsp;The term “designated blighted area” means any blighted area designated by the governing body of a local general purpose governmental unit in the jurisdiction of which such area is located.
+&emsp;&emsp;The term "designated blighted area" means any blighted area designated by the governing body of a local general purpose governmental unit in the jurisdiction of which such area is located.
 
 #### (B) Blighted area
 
-&emsp;&emsp;The term “blighted area” means any area which the governing body described in subparagraph (A) determines to be a blighted area on the basis of the substantial presence of factors such as excessive vacant land on which structures were previously located, abandoned or vacant buildings, substandard structures, vacancies, and delinquencies in payment of real property taxes.
+&emsp;&emsp;The term "blighted area" means any area which the governing body described in subparagraph (A) determines to be a blighted area on the basis of the substantial presence of factors such as excessive vacant land on which structures were previously located, abandoned or vacant buildings, substandard structures, vacancies, and delinquencies in payment of real property taxes.
 
 #### (C) Designated areas may not exceed 20 percent of total assessed value of real property in government's jurisdiction
 
@@ -352,7 +352,7 @@ For purposes of this part—
 
 #### (ii) Designation percentage
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “designation percentage” means, with respect to any area, the percentage (determined at the time such area is designated) which the assessed value of real property located in such area is of the total assessed value of all real property located within the jurisdiction of the governmental unit which designated such area.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "designation percentage" means, with respect to any area, the percentage (determined at the time such area is designated) which the assessed value of real property located in such area is of the total assessed value of all real property located within the jurisdiction of the governmental unit which designated such area.
 
 #### (iii) Exception where bonds not outstanding
 
@@ -366,7 +366,7 @@ For purposes of this part—
 
 #### (ii) 10-acre minimum in certain cases
 
-&emsp;&emsp;&emsp;Clause (i) shall be applied by substituting “10 acres” for “100 acres” if not more than 25 percent of the financed area is to be provided (pursuant to the issue and all other such issues) to 1 person. For purposes of the preceding sentence, all related persons (as defined in subsection (a)(3)) shall be treated as 1 person. For purposes of this clause, an area provided to a developer on a short-term interim basis shall not be treated as provided to such developer.
+&emsp;&emsp;&emsp;Clause (i) shall be applied by substituting "10 acres" for "100 acres" if not more than 25 percent of the financed area is to be provided (pursuant to the issue and all other such issues) to 1 person. For purposes of the preceding sentence, all related persons (as defined in subsection (a)(3)) shall be treated as 1 person. For purposes of this clause, an area provided to a developer on a short-term interim basis shall not be treated as provided to such developer.
 
 #### (5) No additional charge requirements
 
@@ -376,7 +376,7 @@ For purposes of this part—
 
 &emsp;&emsp;(B) the assessment method or rate of real property taxes with respect to property located in the financed area does not differ from the assessment method or rate of real property taxes with respect to comparable property located outside such area.
 
-> &emsp;For purposes of the preceding sentence, the term “comparable property” means property which is of the same type as the property to which it is being compared and which is located within the jurisdiction of the designating governmental unit.
+> &emsp;For purposes of the preceding sentence, the term "comparable property" means property which is of the same type as the property to which it is being compared and which is located within the jurisdiction of the designating governmental unit.
 
 #### (6) Use of proceeds requirements
 
@@ -388,7 +388,7 @@ For purposes of this part—
 
 #### (7) Financed area
 
-&emsp;For purposes of this subsection, the term “financed area” means, with respect to any issue, the portion of the designated blighted area with respect to which the proceeds of such issue are to be used.
+&emsp;For purposes of this subsection, the term "financed area" means, with respect to any issue, the portion of the designated blighted area with respect to which the proceeds of such issue are to be used.
 
 #### (8) Restriction on acquisition of land not to apply
 
@@ -414,59 +414,59 @@ A prior section 144, acts Aug. 16, 1954, ch. 736, 68A Stat. 41; Feb. 26, 1964, P
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(12)(C). Pub. L. 111–5 substituted dash for comma after “For purposes of this paragraph”, designated remainder of first sentence and second sentence of existing provisions as cl. (i) and inserted heading, substituted “The term” for “the term”, added cls. (ii) and (iii), and struck out former last sentence which read as follows: “For purposes of the 1st sentence of this subparagraph, the term ‘manufacturing facility’ includes facilities which are directly related and ancillary to a manufacturing facility (determined without regard to this sentence) if—
+<b>2009</b>—Subsec. (a)(12)(C). Pub. L. 111–5 substituted dash for comma after "For purposes of this paragraph", designated remainder of first sentence and second sentence of existing provisions as cl. (i) and inserted heading, substituted "The term" for "the term", added cls. (ii) and (iii), and struck out former last sentence which read as follows: "For purposes of the 1st sentence of this subparagraph, the term 'manufacturing facility' includes facilities which are directly related and ancillary to a manufacturing facility (determined without regard to this sentence) if—
 
-&emsp;“(i) such facilities are located on the same site as the manufacturing facility, and
+&emsp;"(i) such facilities are located on the same site as the manufacturing facility, and
 
-&emsp;“(ii) not more than 25 percent of the net proceeds of the issue are used to provide such facilities.”
+&emsp;"(ii) not more than 25 percent of the net proceeds of the issue are used to provide such facilities."
 
-<b>2006</b>—Subsec. (a)(4)(F), (G). Pub. L. 109–222 substituted “December 31, 2006” for “September 30, 2009”.
+<b>2006</b>—Subsec. (a)(4)(F), (G). Pub. L. 109–222 substituted "December 31, 2006" for "September 30, 2009".
 
-<b>2004</b>—Subsec. (a)(4)(F). Pub. L. 108–357, §340(b), inserted at end “This subparagraph shall not apply to bonds issued after September 30, 2009.”
+<b>2004</b>—Subsec. (a)(4)(F). Pub. L. 108–357, §340(b), inserted at end "This subparagraph shall not apply to bonds issued after September 30, 2009."
 
 Subsec. (a)(4)(G). Pub. L. 108–357, §340(a), added subpar. (G).
 
-<b>1993</b>—Subsec. (a)(12)(B). Pub. L. 103–66 amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “In the case of any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide—
+<b>1993</b>—Subsec. (a)(12)(B). Pub. L. 103–66 amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: "In the case of any bond issued as part of an issue 95 percent or more of the net proceeds of which are to be used to provide—
 
-&emsp;“(i) any manufacturing facility, or
+&emsp;"(i) any manufacturing facility, or
 
-&emsp;“(ii) any land or property in accordance with section 147(c)(2),
+&emsp;"(ii) any land or property in accordance with section 147(c)(2),
 
-> subparagraph (A) shall be applied by substituting ‘June 30, 1992’ for ‘December 31, 1986’.”
+> subparagraph (A) shall be applied by substituting 'June 30, 1992' for 'December 31, 1986'."
 
-<b>1991</b>—Subsec. (a)(12)(B). Pub. L. 102–227 substituted “June 30, 1992” for “December 31, 1991”.
+<b>1991</b>—Subsec. (a)(12)(B). Pub. L. 102–227 substituted "June 30, 1992" for "December 31, 1991".
 
-<b>1990</b>—Subsec. (a)(12)(B). Pub. L. 101–508 substituted “December 31, 1991” for “September 30, 1990”.
+<b>1990</b>—Subsec. (a)(12)(B). Pub. L. 101–508 substituted "December 31, 1991" for "September 30, 1990".
 
-<b>1989</b>—Subsec. (a)(12)(B). Pub. L. 101–239 substituted “by substituting ‘September 30, 1990’ for ‘December 31, 1986’ ” for “by substituting ‘1989’ for ‘1986’ ”.
+<b>1989</b>—Subsec. (a)(12)(B). Pub. L. 101–239 substituted "by substituting 'September 30, 1990' for 'December 31, 1986' " for "by substituting '1989' for '1986' ".
 
 <b>1988</b>—Subsec. (a)(12)(A). Pub. L. 100–647, §1013(a)(4)(B)(ii), inserted sentence at end that for purposes of cl. (ii)(I), average maturity be determined in accordance with section 147(b)(2)(A).
 
-Subsec. (a)(12)(A)(ii). Pub. L. 100–647, §1013(a)(4)(A), inserted “(or series of bonds)” before “issued to refund” in introductory text.
+Subsec. (a)(12)(A)(ii). Pub. L. 100–647, §1013(a)(4)(A), inserted "(or series of bonds)" before "issued to refund" in introductory text.
 
-Subsec. (a)(12)(A)(ii)(I). Pub. L. 100–647, §1013(a)(4)(B)(i), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the refunding bond has a maturity date not later than the maturity date of the refunded bond,”.
+Subsec. (a)(12)(A)(ii)(I). Pub. L. 100–647, §1013(a)(4)(B)(i), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: "the refunding bond has a maturity date not later than the maturity date of the refunded bond,".
 
 Subsec. (a)(12)(A)(ii)(III), (IV). Pub. L. 100–647, §1013(a)(4)(C), redesignated subcl. (IV) as (III) and struck out former subcl. (III) which provided that this subsection apply when the interest rate on the refunding bond is lower than the interest rate on the refunded bond.
 
-Subsec. (a)(12)(C). Pub. L. 100–647, §6176(a), inserted sentence at end defining “manufacturing facility”.
+Subsec. (a)(12)(C). Pub. L. 100–647, §6176(a), inserted sentence at end defining "manufacturing facility".
 
-Subsec. (b)(1). Pub. L. 100–647, §1013(a)(5), in subpar. (B) struck out “to which part B of title IV of the Higher Education Act of 1965 (relating to guaranteed student loans) does not apply” after “by the State”, substituted “of the Higher Education Act of 1965” for “of such Act”, amended last sentence generally, and inserted a new flush sentence at end of par. (1). Prior to amendment, last sentence of subpar. (B) read as follows: “A bond issued as part of an issue shall be treated as a qualified student loan bond only if no bond which is part of such issue meets the private business tests of paragraphs (1) and (2) of section 141(b).”
+Subsec. (b)(1). Pub. L. 100–647, §1013(a)(5), in subpar. (B) struck out "to which part B of title IV of the Higher Education Act of 1965 (relating to guaranteed student loans) does not apply" after "by the State", substituted "of the Higher Education Act of 1965" for "of such Act", amended last sentence generally, and inserted a new flush sentence at end of par. (1). Prior to amendment, last sentence of subpar. (B) read as follows: "A bond issued as part of an issue shall be treated as a qualified student loan bond only if no bond which is part of such issue meets the private business tests of paragraphs (1) and (2) of section 141(b)."
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–5, div. B, title I, §1301(b), Feb. 17, 2009, 123 Stat. 345, provided that: “The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 17, 2009\].”
+Pub. L. 111–5, div. B, title I, §1301(b), Feb. 17, 2009, 123 Stat. 345, provided that: "The amendments made by this section \[amending this section\] shall apply to obligations issued after the date of the enactment of this Act \[Feb. 17, 2009\]."
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–66, title XIII, §13122(b), Aug. 10, 1993, 107 Stat. 433, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after June 30, 1992.”
+Pub. L. 103–66, title XIII, §13122(b), Aug. 10, 1993, 107 Stat. 433, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after June 30, 1992."
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–227, title I, §109(b), Dec. 11, 1991, 105 Stat. 1688, provided that: “The amendment made by this section \[amending this section\] shall apply to bonds issued after December 31, 1991.”
+Pub. L. 102–227, title I, §109(b), Dec. 11, 1991, 105 Stat. 1688, provided that: "The amendment made by this section \[amending this section\] shall apply to bonds issued after December 31, 1991."
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title XI, §11409(b), Nov. 5, 1990, 104 Stat. 1388–478, provided that: “The amendment made by this section \[amending this section\] shall apply to bonds issued after September 30, 1990.”
+Pub. L. 101–508, title XI, §11409(b), Nov. 5, 1990, 104 Stat. 1388–478, provided that: "The amendment made by this section \[amending this section\] shall apply to bonds issued after September 30, 1990."
 
 #### Effective Date of 1988 Amendment
 
@@ -474,27 +474,27 @@ Amendment by section 1013(a)(4)(A), (B)(i), (ii), (C), (5) of Pub. L. 100–647 
 
 Pub. L. 100–647, title VI, §6176(b), Nov. 10, 1988, 102 Stat. 3726, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendment made by subsection (a) \[amending this section\] shall apply to bonds issued after the date of the enactment of this Act \[Nov. 10, 1988\].
 
-“(2)
+"(2)
 
 Refundings.—The amendment made by subsection (a) shall not apply to any bond issued to refund (or which is part of a series of bonds issued to refund) a bond issued on or before the date of the enactment of this Act if—
 
-&emsp;“(A) the average maturity date of the issue of which the refunding bond is a part is not later than the average maturity date of the bonds to be refunded by such issue, and
+&emsp;"(A) the average maturity date of the issue of which the refunding bond is a part is not later than the average maturity date of the bonds to be refunded by such issue, and
 
-&emsp;“(B) the amount of the refunding bond does not exceed the outstanding amount of the refunded bond.
+&emsp;"(B) the amount of the refunding bond does not exceed the outstanding amount of the refunded bond.
 
-> For purposes of subparagraph (A), average maturity shall be determined in accordance with section 147(b) of the 1986 Code.”
+> For purposes of subparagraph (A), average maturity shall be determined in accordance with section 147(b) of the 1986 Code."
 
 #### Application of Subsection (a)(12)(A)(ii)(I) to Refunding Bonds Issued Before July 1, 1987
 
-Pub. L. 100–647, title I, §1013(a)(4)(B)(iii), Nov. 10, 1988, 102 Stat. 3538, provided that: “A refunding bond issued before July 1, 1987, shall be treated as meeting the requirement of subclause (I) of section 144(a)(12)(A)(ii) of the 1986 Code if such bond met the requirement of such subclause as in effect before the amendments made by this subparagraph \[amending this section\].”
+Pub. L. 100–647, title I, §1013(a)(4)(B)(iii), Nov. 10, 1988, 102 Stat. 3538, provided that: "A refunding bond issued before July 1, 1987, shall be treated as meeting the requirement of subclause (I) of section 144(a)(12)(A)(ii) of the 1986 Code if such bond met the requirement of such subclause as in effect before the amendments made by this subparagraph \[amending this section\]."
 
 #### Termination Date for Exemption for Certain Small Issues Under Section 103(b)(6)
 
-Pub. L. 100–647, title I, §1013(c)(12)(B), Nov. 10, 1988, 102 Stat. 3547, provided that: “The date applicable under section 144(a)(12)(B) of the 1986 Code shall be treated as contained in section 103(b)(6)(N)(iii) of the Internal Revenue Code of 1954, as in effect on the day before the date of the enactment of the Reform Act \[Oct. 22, 1986\], for purposes of any bond issued to refund a bond to which such section 103(b)(6)(N)(iii) applies.”
+Pub. L. 100–647, title I, §1013(c)(12)(B), Nov. 10, 1988, 102 Stat. 3547, provided that: "The date applicable under section 144(a)(12)(B) of the 1986 Code shall be treated as contained in section 103(b)(6)(N)(iii) of the Internal Revenue Code of 1954, as in effect on the day before the date of the enactment of the Reform Act \[Oct. 22, 1986\], for purposes of any bond issued to refund a bond to which such section 103(b)(6)(N)(iii) applies."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

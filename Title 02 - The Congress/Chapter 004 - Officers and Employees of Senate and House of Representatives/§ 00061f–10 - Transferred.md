@@ -1,0 +1,6 @@
+### §61f–10. Transferred
+
+#### Codification
+
+Section 61f–10 was editorially reclassified as section 6502 of this title.
+

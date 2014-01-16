@@ -44,7 +44,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 19
 
 49 App.:1551(b)(1)(E).
 
-In subsection (a), before clause (1), the words “individual or joint” are omitted as surplus. The words “charged or received” are substituted for “demanded, charged, collected, or received” to eliminate unnecessary words. The words “unreasonably discriminatory” are substituted for “unjustly discriminatory, or unduly preferential, or unduly prejudicial” for consistency in the revised title and to eliminate unnecessary words. See the revision notes following 49:10101. In clause (2), the words “carrying out” are substituted for “enforcing” for clarity.
+In subsection (a), before clause (1), the words "individual or joint" are omitted as surplus. The words"charged or received" are substituted for "demanded, charged, collected, or received" to eliminate unnecessary words. The words "unreasonably discriminatory" are substituted for "unjustly discriminatory, or unduly preferential, or unduly prejudicial" for consistency in the revised title and to eliminate unnecessary words. See the revision notes following 49:10101. In clause (2), the words "carrying out" are substituted for "enforcing" for clarity.
 
-In subsection (b), the words “opportunity for a” are added for consistency in the revised title and with other titles of the United States Code.
+In subsection (b), the words "opportunity for a" are added for consistency in the revised title and with other titles of the United States Code.
 

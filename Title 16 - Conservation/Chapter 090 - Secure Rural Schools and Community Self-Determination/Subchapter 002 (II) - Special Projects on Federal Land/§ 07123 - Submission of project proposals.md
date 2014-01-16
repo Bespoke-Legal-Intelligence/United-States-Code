@@ -4,7 +4,7 @@
 
 #### (1) Projects funded using project funds
 
-&emsp;Not later than September 30 for fiscal year 2008 (or as soon thereafter as the Secretary concerned determines is practicable), and each September 30 thereafter for each succeeding fiscal year through fiscal year 2012, each resource advisory committee shall submit to the Secretary concerned a description of any projects that the resource advisory committee proposes the Secretary undertake using any project funds reserved by eligible counties in the area in which the resource advisory committee has geographic jurisdiction.
+&emsp;Not later than September 30 for fiscal year 2008 (or as soon thereafter as the Secretary concerned determines is practicable), and each September 30 thereafter for each succeeding fiscal year through fiscal year 2013, each resource advisory committee shall submit to the Secretary concerned a description of any projects that the resource advisory committee proposes the Secretary undertake using any project funds reserved by eligible counties in the area in which the resource advisory committee has geographic jurisdiction.
 
 #### (2) Projects funded using other funds
 
@@ -46,7 +46,7 @@ In submitting proposed projects to the Secretary concerned under subsection (a),
 
 Projects proposed under subsection (a) shall be consistent with section 7101 of this title.
 
-(Pub. L. 106–393, title II, §203, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3901; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), July 6, 2012, 126 Stat. 905.)
+(Pub. L. 106–393, title II, §203, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3901; amended Pub. L. 112–141, div. F, title I, §100101(a)(2), July 6, 2012, 126 Stat. 905; Pub. L. 113–40, §10(a)(2)(A), Oct. 2, 2013, 127 Stat. 545.)
 
 #### Prior Provisions
 
@@ -54,7 +54,9 @@ A prior section 203 of Pub. L. 106–393 was set out in a note under section 500
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141 substituted “2012” for “2011”.
+<b>2013</b>—Subsec. (a)(1). Pub. L. 113–40 substituted "2013" for "2012".
+
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141 substituted "2012" for "2011".
 
 <i><sup>1</sup></i><i> So in original.</i>
 

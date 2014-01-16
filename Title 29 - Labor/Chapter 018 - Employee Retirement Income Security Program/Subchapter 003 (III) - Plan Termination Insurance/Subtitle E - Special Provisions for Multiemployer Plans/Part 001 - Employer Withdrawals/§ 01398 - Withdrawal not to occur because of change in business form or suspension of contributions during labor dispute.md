@@ -22,7 +22,7 @@ Notwithstanding any other provision of this part, an employer shall not be consi
 
 Pub. L. 101–239, §7862(b)(1)(C), added Pub. L. 99–514, §1879(u)(4), see 1986 Amendment note below.
 
-<b>1986</b>—Par. (1)(A). Pub. L. 99–514, §1879(u)(4), as added by Pub. L. 101–239, §7862(b)(1)(C), substituted “section 1369(b) of this title” for “section 1362(d) of this title”.
+<b>1986</b>—Par. (1)(A). Pub. L. 99–514, §1879(u)(4), as added by Pub. L. 101–239, §7862(b)(1)(C), substituted "section 1369(b) of this title" for "section 1362(d) of this title".
 
 #### Effective Date of 1989 Amendment
 

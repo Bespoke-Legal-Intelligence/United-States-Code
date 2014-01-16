@@ -6,7 +6,7 @@ Except as otherwise provided in subsection (b), each person shall include in gro
 
 &emsp;(1) the amount of any patronage dividend which is paid in money, a qualified written notice of allocation, or other property (except a nonqualified written notice of allocation), and which is received by him during the taxable year from an organization described in section 1381(a),
 
-&emsp;(2) any amount, described in section 1382 (c)(2)(A) (relating to certain nonpatronage distributions by tax-exempt farmers’ cooperatives), which is paid in money, a qualified written notice of allocation, or other property (except a nonqualified written notice of allocation), and which is received by him during the taxable year from an organization described in section 1381(a)(1), and
+&emsp;(2) any amount, described in section 1382 (c)(2)(A) (relating to certain nonpatronage distributions by tax-exempt farmers' cooperatives), which is paid in money, a qualified written notice of allocation, or other property (except a nonqualified written notice of allocation), and which is received by him during the taxable year from an organization described in section 1381(a)(1), and
 
 &emsp;(3) the amount of any per-unit retain allocation which is paid in qualified per-unit retain certificates and which is received by him during the taxable year from an organization described in section 1381(a).
 
@@ -46,13 +46,13 @@ Under regulations prescribed by the Secretary, the amount of any patronage divid
 
 #### Amendments
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Subsec. (c)(2)(C). Pub. L. 94–455, §1901(b)(3)(I), substituted “ordinary income” for “gain from the sale or exchange of property which is not a capital asset”.
+Subsec. (c)(2)(C). Pub. L. 94–455, §1901(b)(3)(I), substituted "ordinary income" for "gain from the sale or exchange of property which is not a capital asset".
 
 <b>1966</b>—Subsec. (a)(3). Pub. L. 89–809, §211(b)(1), added par. (3).
 
-Subsec. (c). Pub. L. 89–809, §211(b)(2)–(4), inserted “and certain nonqualified per-unit retain certificates” in heading, inserted provisions to par. (1) for the application of the subsection to any nonqualified per-unit retain certificates which were paid as per-unit retain allocations, and inserted references to per-unit retain certificates in par. (2).
+Subsec. (c). Pub. L. 89–809, §211(b)(2)–(4), inserted "and certain nonqualified per-unit retain certificates" in heading, inserted provisions to par. (1) for the application of the subsection to any nonqualified per-unit retain certificates which were paid as per-unit retain allocations, and inserted references to per-unit retain certificates in par. (2).
 
 #### Effective Date of 1976 Amendment
 

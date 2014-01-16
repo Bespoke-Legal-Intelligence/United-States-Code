@@ -2,7 +2,7 @@
 
 #### (a) Establishment; purpose
 
-(1) To carry out sections 1862a to 1862d of this title, the Director shall establish and carry out a new Academic Research Facilities Modernization Program (hereafter in sections 1862a to 1862d of this title referred to as the “Program”), under which awards are made to institutions of higher education, independent nonprofit research institutions, and research museums, and consortia thereof, for the repair, renovation, or, in exceptional cases, replacement of obsolete science and engineering facilities primarily devoted to research.
+(1) To carry out sections 1862a to 1862d of this title, the Director shall establish and carry out a new Academic Research Facilities Modernization Program (hereafter in sections 1862a to 1862d of this title referred to as the "Program"), under which awards are made to institutions of higher education, independent nonprofit research institutions, and research museums, and consortia thereof, for the repair, renovation, or, in exceptional cases, replacement of obsolete science and engineering facilities primarily devoted to research.
 
 (2) Such awards shall, consistent with the functions of the Foundation set forth in section 1862 of this title and through established Foundation selection procedures, serve to—
 
@@ -14,7 +14,7 @@
 
 #### (b) Improvement projects; maximum amounts
 
-(1) The Program shall be carried out through projects which involve the repair, renovation, or, in exceptional cases, replacement of specific science and engineering facilities devoted primarily to research at eligible institutions, or consortia thereof, and for which funds are awarded in response to specific proposals submitted by such eligible institutions or consortia in accordance with procedures prescribed by the Director pursuant to section 1862c of this title.
+(1) The Program shall be carried out through projects which involve the repair, renovation,or, in exceptional cases, replacement of specific science and engineering facilities devoted primarily to research at eligible institutions, or consortia thereof, and for which funds are awarded in response to specific proposals submitted by such eligible institutions or consortia in accordance with procedures prescribed by the Director pursuant to section 1862c of this title.
 
 (2) Awards made under the Program shall not exceed $7,000,000 to any institution or consortium over any period of 5 years for the repair, renovation, or, in exceptional cases, replacement of academic research facilities.
 

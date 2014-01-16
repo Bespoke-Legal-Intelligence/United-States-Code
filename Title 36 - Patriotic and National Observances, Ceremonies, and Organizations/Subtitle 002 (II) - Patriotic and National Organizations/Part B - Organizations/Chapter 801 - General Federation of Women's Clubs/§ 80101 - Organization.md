@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—General Federation of Women's Clubs (in this chapter, the “corporation”) is a body corporate and politic of the District of Columbia.
+Federal Charter.—General Federation of Women's Clubs (in this chapter, the "corporation") is a body corporate and politic of the District of Columbia.
 
 (b)
 

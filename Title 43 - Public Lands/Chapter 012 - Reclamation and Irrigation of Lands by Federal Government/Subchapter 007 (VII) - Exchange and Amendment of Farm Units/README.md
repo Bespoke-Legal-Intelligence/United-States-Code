@@ -14,6 +14,6 @@
 - [&sect; 00451f - Exchanges subject to mortgage contracts](%C2%A7%2000451f%20-%20Exchanges%20subject%20to%20mortgage%20contracts.md)
 - [&sect; 00451g - Preferences; veterans; timely applicants](%C2%A7%2000451g%20-%20Preferences%3B%20veterans%3B%20timely%20applicants.md)
 - [&sect; 00451h - Establishment of farm units; size; contiguous or noncontiguous](%C2%A7%2000451h%20-%20Establishment%20of%20farm%20units%3B%20size%3B%20contiguous%20or%20noncontiguous.md)
-- [&sect; 00451i - &#8220;Federal irrigation project&#8221; defined](%C2%A7%2000451i%20-%20%E2%80%9CFederal%20irrigation%20project%E2%80%9D%20defined.md)
+- [&sect; 00451i - Federal irrigation project defined](%C2%A7%2000451i%20-%20Federal%20irrigation%20project%20defined.md)
 - [&sect; 00451j - Rules and regulations](%C2%A7%2000451j%20-%20Rules%20and%20regulations.md)
 - [&sect; 00451k - Availability of appropriations; expenses as nonreimbursable](%C2%A7%2000451k%20-%20Availability%20of%20appropriations%3B%20expenses%20as%20nonreimbursable.md)

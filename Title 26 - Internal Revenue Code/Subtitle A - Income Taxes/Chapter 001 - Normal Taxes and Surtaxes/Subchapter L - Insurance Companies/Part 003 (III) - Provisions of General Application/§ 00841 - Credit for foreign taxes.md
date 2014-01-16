@@ -1,6 +1,6 @@
 ### §841. Credit for foreign taxes
 
-The taxes imposed by foreign countries or possessions of the United States shall be allowed as a credit against the tax of a domestic insurance company subject to the tax imposed by section 801 or 831, to the extent provided in the case of a domestic corporation in section 901 (relating to foreign tax credit). For purposes of the preceding sentence (and for purposes of applying section 906 with respect to a foreign corporation subject to tax under this subchapter), the term “taxable income” as used in section 904 means—
+The taxes imposed by foreign countries or possessions of the United States shall be allowed as a credit against the tax of a domestic insurance company subject to the tax imposed by section 801 or 831, to the extent provided in the case of a domestic corporation in section 901 (relating to foreign tax credit). For purposes of the preceding sentence (and for purposes of applying section 906 with respect to a foreign corporation subject to tax under this subchapter), the term "taxable income" as used in section 904 means—
 
 &emsp;(1) in the case of the tax imposed by section 801, the life insurance company taxable income (as defined in section 801(b)), and
 
@@ -10,15 +10,15 @@ The taxes imposed by foreign countries or possessions of the United States shall
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–514 substituted “section 801 or 831” for “section 801, 821, or 831” in introductory provisions, redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “in the case of the tax imposed by section 821(a), the mutual insurance company taxable income (as defined in section 821(b)); and in the case of the tax imposed by section 821(c), the taxable investment income (as defined in section 822(a)), and”.
+<b>1986</b>—Pub. L. 99–514 substituted "section 801 or 831" for "section 801, 821, or 831" in introductory provisions, redesignated par. (3) as (2), and struck out former par. (2) which read as follows: "in the case of the tax imposed by section 821(a), the mutual insurance company taxable income (as defined in section 821(b)); and in the case of the tax imposed by section 821(c), the taxable investment income (as defined in section 822(a)), and".
 
-<b>1984</b>—Pub. L. 98–369 substituted “section 801” for “section 802”, wherever appearing, and “section 801(b)” for “section 802(b)”.
+<b>1984</b>—Pub. L. 98–369 substituted "section 801" for "section 802", wherever appearing, and "section 801(b)" for "section 802(b)".
 
-<b>1966</b>—Pub. L. 89–809 substituted “For purposes of the preceding sentence (and for purposes of applying section 906 with respect to a foreign corporation subject to tax under this subchapter), the term ‘taxable income’ as used in section 904” for “For purposes of the preceding sentence, the term ‘taxable income’ as used in section 904”.
+<b>1966</b>—Pub. L. 89–809 substituted "For purposes of the preceding sentence (and for purposes of applying section 906 with respect to a foreign corporation subject to tax under this subchapter), the term 'taxable income' as used in section 904" for "For purposes of the preceding sentence, the term 'taxable income' as used in section 904".
 
 <b>1962</b>—Pub. L. 87–834 added par. (2) and redesignated former par. (2) as (3).
 
-<b>1959</b>—Pub. L. 86–69 struck out reference to section 811 of this title in first sentence, and substituted “section 802, the life insurance company taxable income (as defined in section 802(b)), and” for “section 802 or 811, the net investment income (as defined in section 803(c))” in par. (1).
+<b>1959</b>—Pub. L. 86–69 struck out reference to section 811 of this title in first sentence, and substituted "section 802, the life insurance company taxable income (as defined in section 802(b)), and" for "section 802 or 811, the net investment income (as defined in section 803(c))" in par. (1).
 
 <b>1956</b>—Act Mar. 13, 1956, inserted references to section 811.
 

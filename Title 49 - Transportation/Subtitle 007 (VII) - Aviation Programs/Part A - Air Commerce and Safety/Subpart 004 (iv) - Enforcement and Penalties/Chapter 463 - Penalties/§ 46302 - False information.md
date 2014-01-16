@@ -40,13 +40,13 @@ Aug. 23, 1958, Pub. L. 85–726, §901(a)(2) (related to §901(c)), 72 Stat. 784
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(E); added Oct. 4, 1984, Pub. L. 98–443, §3(e), 98 Stat. 1704.
 
-In subsection (a), the words “gives, or causes to be given” are substituted for “imparts or conveys or causes to be imparted or conveyed” to eliminate unnecessary words. The words “attempt or”, “a crime”, and “which shall be recoverable in a civil action brought in the name of the United States” are omitted as surplus.
+In subsection (a), the words "gives, or causes to be given" are substituted for "imparts or conveys or causes to be imparted or conveyed" to eliminate unnecessary words. The words "attempt or", "a crime", and "which shall be recoverable in a civil action brought in the name of the United States" are omitted as surplus.
 
-In subsection (b)(1), the words “imposed under” are substituted for “provided for in” for consistency.
+In subsection (b)(1), the words "imposed under" are substituted for "provided for in" for consistency.
 
-In subsection (b)(2), the words “imposed or compromised” are substituted for “The amount of such penalty when finally determined or fixed by order of the Board, or the amount agreed upon in compromise” to eliminate unnecessary words.
+In subsection (b)(2), the words "imposed or compromised" are substituted for "The amount of such penalty when finally determined or fixed by order of the Board, or the amount agreed upon in compromise" to eliminate unnecessary words.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(1). Pub. L. 108–458 substituted “Secretary of Homeland Security and, for a violation relating to section 46504, the Secretary of Transportation,” for “Secretary of Transportation”.
+<b>2004</b>—Subsec. (b)(1). Pub. L. 108–458 substituted "Secretary of Homeland Security and, for a violation relating to section 46504, the Secretary of Transportation," for "Secretary of Transportation".
 

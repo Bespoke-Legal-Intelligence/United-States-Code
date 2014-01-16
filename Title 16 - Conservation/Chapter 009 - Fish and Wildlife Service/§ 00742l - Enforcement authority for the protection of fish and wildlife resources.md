@@ -30,7 +30,7 @@ Notwithstanding any other provision of law, the Secretary of the Interior and th
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), notwithstanding any other provision of law, all fish, wildlife, plants, or any other items abandoned or forfeited to the United States under any laws administered by the Secretary of the Interior or the Secretary of Commerce relating to fish, wildlife, or plants, shall be disposed of by either Secretary in such a manner as he deems appropriate (including, but not limited to, loan, gift, sale, or destruction).
+&emsp;Subject to paragraph (2), notwithstanding any other provision of law, all fish, wildlife, plants, or any other items abandoned or forfeited to the United States under any laws administered by the Secretary of the Interior or the Secretary of Commerce relating to fish, wildlife, or plants, shall be disposed of by either Secretary in such a manner as he deemsappropriate (including, but not limited to, loan, gift, sale, or destruction).
 
 #### (2) Prohibition on sale of certain items
 
@@ -84,7 +84,7 @@ Section is comprised of subsecs. (a) to (d) and (k) of section 3 of Pub. L. 95�
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–328 designated existing provisions as par. (1) and inserted heading, substituted“Subject to paragraph (2), notwithstanding” for “Notwithstanding”, and added pars. (2) and (3).
+<b>1998</b>—Subsec. (c). Pub. L. 105–328 designated existing provisions as par. (1) and inserted heading, substituted "Subject to paragraph (2), notwithstanding" for "Notwithstanding", and added pars. (2) and (3).
 
 <b>1982</b>—Subsec. (k). Pub. L. 97–396 added subsec. (k).
 
@@ -92,27 +92,27 @@ Section is comprised of subsecs. (a) to (d) and (k) of section 3 of Pub. L. 95�
 
 Pub. L. 105–328, §2, Oct. 30, 1998, 112 Stat. 3057, provided that:
 
-“(a)
+"(a)
 
 Findings.—Congress finds that—
 
-&emsp;“(1) the United States Fish and Wildlife Service (referred to in this Act \[amending this section and enacting provisions set out as a note under section 742a of this title\] as the ‘Service’)—
+&emsp;"(1) the United States Fish and Wildlife Service (referred to in this Act \[amending this section and enacting provisions set out as a note under section 742a of this title\] as the 'Service')—
 
-&emsp;&emsp;“(A) is responsible for storage and disposal of items derived from fish, wildlife, and plants, including eagles and eagle parts, and other items that have become the property of the United States through abandonment or forfeiture under applicable laws relating to fish, wildlife, or plants;
+&emsp;&emsp;"(A) is responsible for storage and disposal of items derived from fish, wildlife, and plants, including eagles and eagle parts, and other items that have become the property of the United States through abandonment or forfeiture under applicable laws relating to fish, wildlife, or plants;
 
-&emsp;&emsp;“(B) distributes many of those items for educational and scientific uses and for religious purposes of Native Americans; and
+&emsp;&emsp;"(B) distributes many of those items for educational and scientific uses and for religious purposes of Native Americans; and
 
-&emsp;&emsp;“(C) unless otherwise prohibited by law, may dispose of some of those items by sale, except items derived from endangered or threatened species, marine mammals, and migratory birds;
+&emsp;&emsp;"(C) unless otherwise prohibited by law, may dispose of some of those items by sale, except items derived from endangered or threatened species, marine mammals, and migratory birds;
 
-&emsp;“(2) under law in effect on the date of enactment of this Act \[Oct. 30, 1998\], the revenue from sale of abandoned items is not available to the Service, although approximately 90 percent of the items in possession of the Service have been abandoned; and
+&emsp;"(2) under law in effect on the date of enactment of this Act \[Oct. 30, 1998\], the revenue from sale of abandoned items is not available to the Service, although approximately 90 percent of the items in possession of the Service have been abandoned; and
 
-&emsp;“(3) making revenue from the sale of abandoned items available to the Service will enable the Service—
+&emsp;"(3) making revenue from the sale of abandoned items available to the Service will enable the Service—
 
-&emsp;&emsp;“(A) to cover costs incurred in shipping, storing, and disposing of items derived from fish, wildlife, and plants; and
+&emsp;&emsp;"(A) to cover costs incurred in shipping, storing, and disposing of items derived from fish, wildlife, and plants; and
 
-&emsp;&emsp;“(B) to make more extensive distributions of those items for educational, scientific, and Native American religious purposes.
+&emsp;&emsp;"(B) to make more extensive distributions of those items for educational, scientific, and Native American religious purposes.
 
-“(b)
+"(b)
 
-Purposes.—The purposes of this Act are to make proceeds from sales of abandoned items derived from fish, wildlife, and plants available to the Service and to authorize the use of those proceeds to cover costs incurred in shipping, storing, and disposing of those items.”
+Purposes.—The purposes of this Act are to make proceeds from sales of abandoned items derived from fish, wildlife, and plants available to the Service and to authorize the use of those proceeds to cover costs incurred in shipping, storing, and disposing of those items."
 

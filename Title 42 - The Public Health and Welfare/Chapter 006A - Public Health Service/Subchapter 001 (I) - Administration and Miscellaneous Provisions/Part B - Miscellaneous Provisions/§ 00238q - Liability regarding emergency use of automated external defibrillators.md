@@ -4,7 +4,7 @@
 
 Except as provided in subsection (b) of this section, any person who uses or attempts to use an automated external defibrillator device on a victim of a perceived medical emergency is immune from civil liability for any harm resulting from the use or attempted use of such device; and in addition, any person who acquired the device is immune from such liability, if the harm was not due to the failure of such acquirer of the device—
 
-&emsp;(1) to notify local emergency response personnel or other appropriate entities of themost recent placement of the device within a reasonable period of time after the device was placed;
+&emsp;(1) to notify local emergency response personnel or other appropriate entities of the most recent placement of the device within a reasonable period of time after the device was placed;
 
 &emsp;(2) to properly maintain and test the device; or
 
@@ -34,7 +34,7 @@ Immunity under subsection (a) of this section does not apply to a person if—
 
 &emsp;&emsp;(A) This section does not establish any cause of action, or require that an automated external defibrillator device be placed at any building or other location.
 
-&emsp;&emsp;(B) With respect to a class of persons for which this section provides immunity from civil liability, this section supersedes the law of a State only to the extent that the State has no statute or regulations that provide persons in such class with immunity for civil liability arising from the use by such persons of automated external defibrillator devices in emergency situations (within the meaning of the State law or regulation involved).
+&emsp;&emsp;(B) With respect to a class of persons for which this section provides immunity from civil liability, this section supersedes thelaw of a State only to the extent that the State has no statute or regulations that provide persons in such class with immunity for civil liability arising from the use by such persons of automated external defibrillator devices in emergency situations (within the meaning of the State law or regulation involved).
 
 &emsp;&emsp;(C) This section does not waive any protection from liability for Federal officers or employees under—
 
@@ -60,13 +60,13 @@ In any civil action arising under State law, the courts of the State involved ha
 
 #### (1) Perceived medical emergency
 
-&emsp;For purposes of this section, the term “perceived medical emergency” means circumstances in which the behavior of an individual leads a reasonable person to believe that the individual is experiencing a life-threatening medical condition that requires an immediate medical response regarding the heart or other cardiopulmonary functioning of the individual.
+&emsp;For purposes of this section, the term "perceived medical emergency" means circumstances in which the behavior of an individual leads a reasonable person to believe that the individual is experiencing a life-threatening medical condition that requires an immediate medical response regarding the heart or other cardiopulmonary functioning of the individual.
 
 #### (2) Other definitions
 
 &emsp;For purposes of this section:
 
-&emsp;&emsp;(A) The term “automated external defibrillator device” means a defibrillator device that—
+&emsp;&emsp;(A) The term "automated external defibrillator device" means a defibrillator device that—
 
 &emsp;&emsp;&emsp;(i) is commercially distributed in accordance with the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\];
 
@@ -76,11 +76,11 @@ In any civil action arising under State law, the courts of the State involved ha
 
 &emsp;&emsp;&emsp;(iv) in the case of a defibrillator device that may be operated in either an automated or a manual mode, is set to operate in the automated mode.
 
-&emsp;&emsp;(B)(i) The term “harm” includes physical, nonphysical, economic, and noneconomic losses.
+&emsp;&emsp;(B)(i) The term "harm" includes physical, nonphysical, economic, and noneconomic losses.
 
-&emsp;&emsp;(ii) The term “economic loss” means any pecuniary loss resulting from harm (including the loss of earnings or other benefits related to employment, medical expense loss, replacement services loss, loss due to death, burial costs, and loss of business or employment opportunities) to the extent recovery for such loss is allowed under applicable State law.
+&emsp;&emsp;(ii) The term "economic loss" means any pecuniary loss resulting from harm (including the loss of earnings or other benefits related to employment, medical expense loss, replacement services loss, loss due to death, burial costs, and loss of business or employment opportunities) to the extent recovery for such loss is allowed under applicable State law.
 
-&emsp;&emsp;(iii) The term “noneconomic losses” means losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium (other than loss of domestic service), hedonic damages, injury to reputation and all other nonpecuniary losses of any kind or nature.
+&emsp;&emsp;(iii) The term "noneconomic losses" means losses for physical and emotional pain, suffering, inconvenience, physical impairment, mental anguish, disfigurement, loss of enjoyment of life, loss of society and companionship, loss of consortium (other than loss of domestic service), hedonic damages, injury to reputation and all other nonpecuniary losses of any kind or nature.
 
 (July 1, 1944, ch. 373, title II, §248, as added Pub. L. 106–505, title IV, §404, Nov. 13, 2000, 114 Stat. 2338.)
 

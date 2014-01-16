@@ -6,7 +6,7 @@
 
 &emsp;(2) insure the coordination and comparability of the energy information in possession of the Office and other Federal agencies.
 
-(b) The Director shall establish and maintain the professional and analytic capability toevaluate independently the adequacy and comprehensiveness of the energy information in possession of the Office and other agencies of the Federal Government in relation to the purposes of this chapter and for the performance of the analyses described in section 790a of this title. Such analytic capability shall include—
+(b) The Director shall establish and maintain the professional and analytic capability to evaluate independently the adequacy and comprehensiveness of the energy information in possession of the Office and other agencies of the Federal Government in relation to the purposes of this chapter and for the performance of the analyses described in section 790a of this title. Such analytic capability shall include—
 
 &emsp;(1) expertise in economics, finance, and accounting;
 
@@ -14,7 +14,7 @@
 
 &emsp;(3) the development and evaluation of energy flow and accounting models describing the production, distribution, and consumption of energy by the various sectors of the economy and lines of commerce in the energy industry;
 
-&emsp;(4) the development and evaluation of alternative forecasting models describing the short- and long-term relationships between energy supply and consumption and appropriate variables; and
+&emsp;(4) the development and evaluation of alternative forecasting models describing theshort- and long-term relationships between energy supply and consumption and appropriate variables; and
 
 &emsp;(5) such other capabilities as the Director deems necessary to achieve the purposes of this chapter.
 

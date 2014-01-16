@@ -52,7 +52,7 @@ The Secretary shall make grants to the Navajo, Hopi, Northern Cheyenne, and Crow
 
 #### (B) References to State
 
-&emsp;&emsp;For purposes of this subsection and the implementation and administration of a tribal program under subchapter V, any reference to a “State” in this chapter shall be considered to be a reference to a “tribe”.
+&emsp;&emsp;For purposes of this subsection and the implementation and administration of a tribal program under subchapter V, any reference to a "State" in this chapter shall be considered to be a reference to a "tribe".
 
 #### (2) Conflicts of interest
 
@@ -62,7 +62,7 @@ The Secretary shall make grants to the Navajo, Hopi, Northern Cheyenne, and Crow
 
 #### (B) Employees of tribal regulatory authority
 
-&emsp;&emsp;Any employee of a tribal regulatory authority shall not be eligible for a per capita distribution of any proceeds from coal mining operations conducted on Indian reservation lands under this chapter.
+&emsp;&emsp;Any employee of a tribal regulatory authority shall not be eligible for a per capitadistribution of any proceeds from coal mining operations conducted on Indian reservation lands under this chapter.
 
 #### (3) Sovereign immunity
 
@@ -112,11 +112,11 @@ The Secretary shall make grants to the Navajo, Hopi, Northern Cheyenne, and Crow
 
 #### Amendments
 
-<b>2006</b>—Subsec. (i). Pub. L. 109–432, §209(b), struck out “, except that nothing in this subsection may be construed as providing such tribes with the authorities set forth under section 1253 of this title” after “Indian lands” in introductory provisions.
+<b>2006</b>—Subsec. (i). Pub. L. 109–432, §209(b), struck out ", except that nothing in this subsection may be construed as providing such tribes with the authorities set forth under section 1253 of this title" after "Indian lands" in introductory provisions.
 
 Subsec. (j). Pub. L. 109–432, §209(a), added subsec. (j).
 
 <b>1992</b>—Subsec. (i). Pub. L. 102–486 added subsec. (i).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “lands”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "lands".</i>
 

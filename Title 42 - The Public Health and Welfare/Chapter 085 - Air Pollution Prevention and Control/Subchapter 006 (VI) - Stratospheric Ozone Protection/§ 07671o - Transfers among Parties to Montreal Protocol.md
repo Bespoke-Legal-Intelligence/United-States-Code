@@ -4,7 +4,7 @@
 
 Consistent with the Montreal Protocol, the United States may engage in transfers with other Parties to the Protocol under the following conditions:
 
-&emsp;(1) The United States may transfer production allowances to another Party if, at the time of such transfer, the Administrator establishes revised production limits for the United States such that the aggregate national United States production permitted under the revised production limits equals the lesser of (A) the maximum production level permitted for the substance or substances concerned in the transfer year under the Protocol minus the production allowances transferred, (B) the maximum production level permitted for the substance or substances concerned in the transfer year under applicable domestic law minus the production allowances transferred, or (C) the average of the actual national production level of the substance or substances concerned for the 3 years prior to the transfer minus the production allowances transferred.
+&emsp;(1) The United States may transfer production allowances to another Party if, at the time of such transfer, the Administrator establishes revised production limits for the United States such that the aggregate national United States production permitted under the revised production limits equals thelesser of (A) the maximum production level permitted for the substance or substances concerned in the transfer year under the Protocol minus the production allowances transferred, (B) the maximum production level permitted for the substance or substances concerned in the transfer year under applicable domestic law minus the production allowances transferred, or (C) the average of the actual national production level of the substance or substances concerned for the 3 years prior to the transfer minus the production allowances transferred.
 
 &emsp;(2) The United States may acquire production allowances from another Party if, at the time of such transfer, the Administrator finds that the other Party has revised its domestic production limits in the same manner as provided with respect to transfers by the United States in this subsection.
 
@@ -16,9 +16,9 @@ The Administrator is authorized to reduce the production limits established unde
 
 The Administrator shall promulgate, within 2 years after November 15, 1990, regulations to implement this section.
 
-#### (d) “Applicable domestic law” defined
+#### (d) "Applicable domestic law" defined
 
-In the case of the United States, the term “applicable domestic law” means this chapter.
+In the case of the United States, the term "applicable domestic law" means this chapter.
 
 (July 14, 1955, ch. 360, title VI, §616, as added Pub. L. 101–549, title VI, §602(a), Nov. 15, 1990, 104 Stat. 2669.)
 

@@ -36,7 +36,7 @@ Update of Registration.—The Secretary shall require a freight forwarder to upd
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §32916(a)(1), substituted “determines that the person—” for “finds that the person is fit”, added par. (1), inserted par. (2) designation and “is fit” before “, willing”, and, in par. (2), struck out “and the Board” after “Secretary”.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §32916(a)(1), substituted "determines that the person—" for "finds that the person is fit", added par. (1), inserted par. (2) designation and "is fit" before ", willing", and, in par. (2), struck out "and the Board" after "Secretary".
 
 Subsec. (b). Pub. L. 112–141, §32916(a)(3), added subsec. (b). Former subsec. (b) redesignated (d).
 
@@ -44,7 +44,7 @@ Subsec. (c). Pub. L. 112–141, §32916(a)(3), added subsec. (c). Former subsec.
 
 Pub. L. 112–141, §32107(b), added subsec. (c).
 
-Subsec. (d). Pub. L. 112–141, §32916(a)(4), amended subsec. (d) generally. Prior to amendment, text read as follows: “The freight forwarder may provide transportation as the carrier itself only if the freight forwarder also has registered to provide transportation as a carrier under this chapter.”
+Subsec. (d). Pub. L. 112–141, §32916(a)(4), amended subsec. (d) generally. Prior to amendment, text read as follows: "The freight forwarder may provide transportation as the carrier itself only if the freight forwarder also has registered to provide transportation as a carrier under this chapter."
 
 Pub. L. 112–141, §32916(a)(2), redesignated subsec. (b) as (d).
 
@@ -52,15 +52,15 @@ Subsec. (e). Pub. L. 112–141, §32916(a)(2), redesignated subsec. (c) as (e).
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–244 amended subsec. (a) generally. Prior to amendment, text read as follows:
 
-“(1)
+"(1)
 
 Household goods.—The Secretary shall register a person to provide service subject to jurisdiction under subchapter III of chapter 135 as a freight forwarder of household goods if the Secretary finds that the person is fit, willing, and able to provide the service and to comply with this part and applicable regulations of the Secretary and the Board.
 
-“(2)
+"(2)
 
-Others.—The Secretary may register a person to provide service subject to jurisdiction under subchapter III of chapter 135 as a freight forwarder (other than a freight forwarder of household goods) if the Secretary finds that such registration is needed for the protection of shippers and that the person is fit, willing, and able to provide the service and to comply with this part and applicable regulations of the Secretary and Board.”
+Others.—The Secretary may register a person to provide service subject to jurisdiction under subchapter III of chapter 135 as a freight forwarder (other than a freight forwarder of household goods) if the Secretary finds that such registration is needed for the protection of shippers and that the person is fit, willing, and able to provide the service and to comply with this part and applicable regulations of the Secretary and Board."
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–59 designated existing provisions as par. (1) and inserted heading, inserted “ofhousehold goods” after “freight forwarder”, and added par. (2).
+<b>2005</b>—Subsec. (a). Pub. L. 109–59 designated existing provisions as par. (1) and inserted heading, inserted "of household goods" after "freight forwarder", and added par. (2).
 
 #### Effective Date of 2012 Amendment
 
@@ -68,15 +68,15 @@ Amendment by Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. 
 
 #### Financial Responsibility Requirements
 
-Pub. L. 112–141, div. C, title II, §32104, July 6, 2012, 126 Stat. 780, provided that: “Not later than 6 months after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], and every 4 years thereafter, the Secretary shall—
+Pub. L. 112–141, div. C, title II, §32104, July 6, 2012, 126 Stat. 780, provided that: "Not later than 6 months after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], and every 4 years thereafter, the Secretary shall—
 
-&emsp;“(1) issue a report on the appropriateness of—
+&emsp;"(1) issue a report on the appropriateness of—
 
-&emsp;&emsp;“(A) the current minimum financial responsibility requirements under sections 31138 and 31139 of title 49, United States Code; and
+&emsp;&emsp;"(A) the current minimum financial responsibility requirements under sections 31138 and 31139 of title 49, United States Code; and
 
-&emsp;&emsp;“(B) the current bond and insurance requirements under sections 13904(f), 13903, and 13906 of title 49, United States Code; and
+&emsp;&emsp;"(B) the current bond and insurance requirements under sections 13904(f), 13903, and 13906 of title 49, United States Code; and
 
-&emsp;“(2) submit the report issued under paragraph (1) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.”
+&emsp;"(2) submit the report issued under paragraph (1) to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives."
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

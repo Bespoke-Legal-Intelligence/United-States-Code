@@ -54,7 +54,7 @@
 | 346, 347. | Repealed. |
 | [347a.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000347a%20-%20Disadvantaged%20agricultural%20areas.md) | Disadvantaged agricultural areas. |
 | [348\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000348%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
-| [349\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000349%20-%20%E2%80%9CState%E2%80%9D%20defined.md) | “State” defined. |
+| [349\.](Subchapter%20004%20%28IV%29%20-%20Agricultural%20Extension%20Work%20Appropriation/%C2%A7%2000349%20-%20State%20defined.md) | "State" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -14,49 +14,49 @@ The purposes of this subchapter and subchapter II of this chapter are—
 
 <b>2002</b>—Pub. L. 107–273 amended heading and text generally. Prior to text, section read as follows:
 
-“(a) It is the purpose of this chapter—
+"(a) It is the purpose of this chapter—
 
-&emsp;“(1) to provide for the thorough and ongoing evaluation of all federally assisted juvenile justice and delinquency prevention programs;
+&emsp;"(1) to provide for the thorough and ongoing evaluation of all federally assisted juvenile justice and delinquency prevention programs;
 
-&emsp;“(2) to provide technical assistance to public and private nonprofit juvenile justice and delinquency prevention programs;
+&emsp;"(2) to provide technical assistance to public and private nonprofit juvenile justice and delinquency prevention programs;
 
-&emsp;“(3) to establish training programs for persons, including professionals, paraprofessionals, and volunteers, who work with delinquents or potential delinquents or whose work or activities relate to juvenile delinquency programs;
+&emsp;"(3) to establish training programs for persons, including professionals, paraprofessionals, and volunteers, who work with delinquents or potential delinquents or whose work or activities relate to juvenile delinquency programs;
 
-&emsp;“(4) to establish a centralized research effort on the problems of juvenile delinquency, including the dissemination of the findings of such research and all data related to juvenile delinquency;
+&emsp;"(4) to establish a centralized research effort on the problems of juvenile delinquency, including the dissemination of the findings of such research and all data related to juvenile delinquency;
 
-&emsp;“(5) to develop and encourage the implementation of national standards for the administration of juvenile justice, including recommendations for administrative, budgetary, and legislative action at the Federal, State, and local level to facilitate the adoption of such standards;
+&emsp;"(5) to develop and encourage the implementation of national standards for the administration of juvenile justice, including recommendations for administrative, budgetary, and legislative action at the Federal, State, and local level to facilitate the adoption of such standards;
 
-&emsp;“(6) to assist States and local communities with resources to develop and implement programs to keep students in elementary and secondary schools and to prevent unwarranted and arbitrary suspensions and expulsions;
+&emsp;"(6) to assist States and local communities with resources to develop and implement programs to keep students in elementary and secondary schools and to prevent unwarranted and arbitrary suspensions and expulsions;
 
-&emsp;“(7) to establish a Federal assistance program to deal with the problems of runaway and homeless youth;
+&emsp;"(7) to establish a Federal assistance program to deal with the problems of runaway and homeless youth;
 
-&emsp;“(8) to strengthen families in which juvenile delinquency has been a problem;
+&emsp;"(8) to strengthen families in which juvenile delinquency has been a problem;
 
-&emsp;“(9) to assist State and local governments in removing juveniles from jails and lockups for adults;
+&emsp;"(9) to assist State and local governments in removing juveniles from jails and lockups for adults;
 
-&emsp;“(10) to assist State and local governments in improving the administration of justice and services for juveniles who enter the system; and
+&emsp;"(10) to assist State and local governments in improving the administration of justice and services for juveniles who enter the system; and
 
-&emsp;“(11) to assist States and local communities to prevent youth from entering the justice system to begin with.
+&emsp;"(11) to assist States and local communities to prevent youth from entering the justice system to begin with.
 
-“(b) It is therefore the further declared policy of Congress to provide the necessary resources, leadership, and coordination (1) to develop and implement effective methods of preventing and reducing juvenile delinquency, including methods with a special focus on preserving and strengthening families so that juveniles may be retained in their homes; (2) to develop and conduct effective programs to prevent delinquency, to divert juveniles from the traditional juvenile justice system and to provide critically needed alternatives to institutionalization; (3) to improve the quality of juvenile justice in the United States; (4) to increase the capacity of State and local governments and public and private agencies to conduct effective juvenile justice and delinquency prevention and rehabilitation programs and to provide research, evaluation, and training services in the field of juvenile delinquency prevention; (5) to encourage parental involvement in treatment and alternative disposition programs; and (6) to provide for coordination of services between State, local, and community-based agencies and to promote interagency cooperation in providing such services.”
+"(b) It is therefore the further declared policy of Congress to provide the necessary resources, leadership, and coordination (1) to develop and implement effective methods of preventing and reducing juvenile delinquency, including methods with a special focus on preserving and strengthening families so that juveniles may be retained in their homes; (2) to develop and conduct effective programs to prevent delinquency, to divert juveniles from the traditional juvenile justice system and to provide critically needed alternatives to institutionalization; (3) to improve the quality of juvenile justice in the United States; (4) to increase the capacity of State and local governments and public and private agencies to conduct effective juvenile justice and delinquency prevention and rehabilitation programs and to provide research, evaluation, and training services in the field of juvenile delinquency prevention; (5) to encourage parental involvement in treatment and alternative disposition programs; and (6) to provide for coordination of services between State, local, and community-based agencies and to promote interagency cooperation in providing such services."
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–586, §1(b)(1)(A), substituted “justice and delinquency prevention” for “delinquency”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–586, §1(b)(1)(A), substituted "justice and delinquency prevention" for "delinquency".
 
-Subsec. (a)(2). Pub. L. 102–586, §1(b)(1)(B), substituted “nonprofit juvenile justice and delinquency prevention programs” for “agencies, institutions, and individuals in developing and implementing juvenile delinquency programs”.
+Subsec. (a)(2). Pub. L. 102–586, §1(b)(1)(B), substituted "nonprofit juvenile justice and delinquency prevention programs" for "agencies, institutions, and individuals in developing and implementing juvenile delinquency programs".
 
 Subsec. (a)(8), (9). Pub. L. 102–586, §1(b)(1)(C)–(E), added par. (8) and redesignated former par. (8) as (9).
 
 Subsec. (a)(10), (11). Pub. L. 102–586, §1(b)(1)(F), (G), added pars. (10) and (11).
 
-Subsec. (b)(1). Pub. L. 102–586, §1(b)(2)(A), substituted “preserving and strengthening families” for “maintaining and strengthening the family unit”.
+Subsec. (b)(1). Pub. L. 102–586, §1(b)(2)(A), substituted "preserving and strengthening families" for "maintaining and strengthening the family unit".
 
 Subsec. (b)(5), (6). Pub. L. 102–586, §1(b)(2)(B), (C), added cls. (5) and (6).
 
-<b>1984</b>—Subsec. (a)(1). Pub. L. 98–473, §612(1), substituted “ongoing” for “prompt”.
+<b>1984</b>—Subsec. (a)(1). Pub. L. 98–473, §612(1), substituted "ongoing" for "prompt".
 
-Subsec. (a)(4). Pub. L. 98–473, §612(2), substituted “the dissemination of” for “an information clearinghouse to disseminate”.
+Subsec. (a)(4). Pub. L. 98–473, §612(2), substituted "the dissemination of" for "an information clearinghouse to disseminate".
 
-Subsec. (a)(7). Pub. L. 98–473, §612(3), inserted “and homeless”.
+Subsec. (a)(7). Pub. L. 98–473, §612(3), inserted "and homeless".
 
 <b>1980</b>—Subsec. (a)(8). Pub. L. 96–509, §4(a), added par. (8).
 

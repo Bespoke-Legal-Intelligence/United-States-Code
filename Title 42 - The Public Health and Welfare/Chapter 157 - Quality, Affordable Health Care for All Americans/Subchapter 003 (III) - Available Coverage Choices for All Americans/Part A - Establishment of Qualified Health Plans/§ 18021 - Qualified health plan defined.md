@@ -6,7 +6,7 @@ In this title: <sup>1</sup>
 
 #### (1) In general
 
-&emsp;The term “qualified health plan” means a health plan that—
+&emsp;The term "qualified health plan" means a health plan that—
 
 &emsp;&emsp;(A) has in effect a certification (which may include a seal or other indication of approval) that such plan meets the criteria for certification described in section 18031(c) of this title issued or recognized by each Exchange through which such plan is offered;
 
@@ -28,7 +28,7 @@ In this title: <sup>1</sup>
 
 #### (3) Treatment of qualified direct primary care medical home plans
 
-&emsp;The Secretary of Health and Human Services shall permit a qualified health plan to provide coverage through a qualified direct primary care medical home plan that meets criteria established by the Secretary, so long as the qualified health plan meets all requirements that are otherwise applicable and the services covered by the medical home plan are coordinated with the entity offering the qualified health plan.
+&emsp;The Secretary of Health and Human Services shall permit a qualified health plan to provide coverage through a qualified directprimary care medical home plan that meets criteria established by the Secretary, so long as the qualified health plan meets all requirements that are otherwise applicable and the services covered by the medical home plan are coordinated with the entity offering the qualified health plan.
 
 #### (4) Variation based on rating area
 
@@ -42,19 +42,19 @@ In this title: <sup>1</sup>
 
 #### (A) In general
 
-&emsp;&emsp;The term “health plan” means health insurance coverage and a group health plan.
+&emsp;&emsp;The term "health plan" means health insurance coverage and a group health plan.
 
 #### (B) Exception for self-insured plans and MEWAs
 
-&emsp;&emsp;Except to the extent specifically provided by this title,<sup>1</sup> the term “health plan” shall not include a group health plan or multiple employer welfare arrangement to the extent the plan or arrangement is not subject to State insurance regulation under section 1144 of title 29.
+&emsp;&emsp;Except to the extent specifically provided by this title,<sup>1</sup> the term "health plan" shall not include a group health plan or multiple employer welfare arrangement to the extent the plan or arrangement is not subject to State insurance regulation under section 1144 of title 29.
 
 #### (2) Health insurance coverage and issuer
 
-&emsp;The terms “health insurance coverage” and “health insurance issuer” have the meanings given such terms by section 300gg–91(b) of this title.
+&emsp;The terms "health insurance coverage" and "health insurance issuer" have the meanings given such terms by section 300gg–91(b) of this title.
 
 #### (3) Group health plan
 
-&emsp;The term “group health plan” has the meaning given such term by section 300gg–91(a) of this title.
+&emsp;The term "group health plan" has the meaning given such term by section 300gg–91(a) of this title.
 
 (Pub. L. 111–148, title I, §1301, title X, §10104(a), Mar. 23, 2010, 124 Stat. 162, 896.)
 
@@ -64,7 +64,7 @@ This title, where footnoted in text, is title I of Pub. L. 111–148, Mar. 23, 2
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(2) to (4). Pub. L. 111–148, §10104(a), added pars. (2) to (4) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: “Any reference in this title to a qualified health plan shall be deemed to include a qualified health plan offered through the CO-OP program under section 18042 of this title or a community health insurance option under section 18043 of this title, unless specifically provided for otherwise.”
+<b>2010</b>—Subsec. (a)(2) to (4). Pub. L. 111–148, §10104(a), added pars. (2) to (4) and struck out former par. (2). Prior to amendment, text of par. (2) read as follows: "Any reference in this title to a qualified health plan shall be deemed to include a qualified health plan offered through the CO-OP program under section 18042 of this title or a community health insurance option under section 18043 of this title, unless specifically provided for otherwise."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

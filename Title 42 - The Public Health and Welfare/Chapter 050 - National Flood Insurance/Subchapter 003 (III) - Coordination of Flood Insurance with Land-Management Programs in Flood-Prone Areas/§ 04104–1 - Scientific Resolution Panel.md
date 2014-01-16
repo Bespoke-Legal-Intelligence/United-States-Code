@@ -26,7 +26,7 @@
 
 #### (3) Definition
 
-&emsp;For purposes of paragraph (1)(B), an “unsatisfactory ruling” means that a community—
+&emsp;For purposes of paragraph (1)(B), an "unsatisfactory ruling" means that a community—
 
 &emsp;&emsp;(A) received a revised Flood Insurance Rate Map from the Federal Emergency Management Agency, via a Letter of Final Determination, after September 30, 2008, and prior to July 6, 2012;
 

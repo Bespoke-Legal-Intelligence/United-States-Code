@@ -12,7 +12,7 @@ Any oath or affirmation required or authorized under any internal revenue law or
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
-Subsec. (b). Pub. L. 94–455, §1906(c)(2), struck out “Territory” after “any State”.
+Subsec. (b). Pub. L. 94–455, §1906(c)(2), struck out "Territory" after "any State".
 

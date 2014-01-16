@@ -20,9 +20,9 @@ Upon the establishment of the appellate court provided for in section 1424–1(a
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–378, §1(c)(1), inserted “which is known as the Supreme Court of Guam,” after “appellate court authorized by section 1424–1(a) of this title,”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–378, §1(c)(1), inserted "which is known as the Supreme Court of Guam," after "appellate court authorized by section 1424–1(a) of this title,".
 
-Subsec. (d). Pub. L. 108–378, §1(c)(2), inserted “, which is known as the Supreme Court of Guam,” after “appellate court provided for in section 1424–1(a) of this title” and substituted “taken to such appellate court” for “taken to the appellate court”.
+Subsec. (d). Pub. L. 108–378, §1(c)(2), inserted ", which is known as the Supreme Court of Guam," after "appellate court provided for in section 1424–1(a) of this title" and substituted "taken to such appellate court" for "taken to the appellate court".
 
 #### Effective Date
 

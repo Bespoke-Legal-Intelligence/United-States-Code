@@ -4,5 +4,5 @@ Section, Pub. L. 89–329, title IV, §428I, as added Pub. L. 102–325, title I
 
 #### Effective Date of Repeal
 
-Repeal effective Oct. 1, 2007, except that section as in effect on the day before Sept. 27, 2005, shall apply to eligible lenders that received a designation under subsec. (a) of this section prior to Oct. 1, 2007, for the remainder of the year for which the designation was made, see section 302(c) of Pub. L. 110–84, set out as an Effective Date of 2007 Amendment note under section 1078 of this title.
+Repeal effective Oct. 1, 2007, except that section as in effect on the day before Sept. 27, 2005, shall apply to eligible lenders that received a designation under subsec. (a) of this section prior to Oct. 1, 2007, for the remainder of the year for which the designation was made, see section 302(c) of Pub. L. 110–84, set out as an EffectiveDate of 2007 Amendment note under section 1078 of this title.
 

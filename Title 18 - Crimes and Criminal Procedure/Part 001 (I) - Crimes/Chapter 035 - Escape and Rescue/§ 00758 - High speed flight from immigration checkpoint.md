@@ -10,11 +10,11 @@ For abolition of Immigration and Naturalization Service, transfer of functions, 
 
 #### Congressional Findings
 
-Pub. L. 104–208, div. C, title I, §108(a), Sept. 30, 1996, 110 Stat. 3009–557, provided that: “The Congress finds as follows:
+Pub. L. 104–208, div. C, title I, §108(a), Sept. 30, 1996, 110 Stat. 3009–557, provided that: "The Congress finds as follows:
 
-&emsp;“(1) Immigration checkpoints are an important component of the national strategy to prevent illegal immigration.
+&emsp;"(1) Immigration checkpoints are an important component of the national strategy to prevent illegal immigration.
 
-&emsp;“(2) Individuals fleeing immigration checkpoints and leading law enforcement officials on high speed vehicle chases endanger law enforcement officers, innocent bystanders, and the fleeing individuals themselves.
+&emsp;"(2) Individuals fleeing immigration checkpoints and leading law enforcement officials on high speed vehicle chases endanger law enforcement officers, innocent bystanders, and the fleeing individuals themselves.
 
-&emsp;“(3) The pursuit of suspects fleeing immigration checkpoints is complicated by overlapping jurisdiction among Federal, State, and local law enforcement officers.”
+&emsp;"(3) The pursuit of suspects fleeing immigration checkpoints is complicated by overlapping jurisdiction among Federal, State, and local law enforcement officers."
 

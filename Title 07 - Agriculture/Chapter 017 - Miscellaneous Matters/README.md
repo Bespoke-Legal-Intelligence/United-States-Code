@@ -15,7 +15,7 @@
 | [415d.](%C2%A7%2000415d%20-%20Rules%20and%20regulations%20for%20wool%20standards%3B%20deposit%20of%20receipts%20in%20the%20Treasury.md) | Rules and regulations for wool standards; deposit of receipts in the Treasury. |
 | [415e.](%C2%A7%2000415e%20-%20Farm%20or%20food%20products%3B%20sale%20of%20samples%2C%20practical%20forms%2C%20etc.md) | Farm or food products; sale of samples, practical forms, etc. |
 | [416\.](%C2%A7%2000416%20-%20Letting%20contract%20for%20packeting%2C%20etc.%2C%20of%20seeds%2C%20etc.%2C%20for%20distribution.md) | Letting contract for packeting, etc., of seeds, etc., for distribution. |
-| [417\.](%C2%A7%2000417%20-%20Distribution%20of%20farmers%E2%80%99%20bulletins.md) | Distribution of farmers’ bulletins. |
+| [417\.](%C2%A7%2000417%20-%20Distribution%20of%20farmers%27%20bulletins.md) | Distribution of farmers' bulletins. |
 | [418\.](%C2%A7%2000418%20-%20Annual%20report%20on%20work%20of%20agricultural%20experiment%20stations%20and%20of%20college%20extension%20work%3B%20publication%20and%20distribution.md) | Annual report on work of agricultural experiment stations and of college extension work; publication and distribution. |
 | [419\.](%C2%A7%2000419%20-%20Repealed.%20Oct.%2031%2C%201951%2C%20ch.%20654%2C%20%C2%A71%2812%29%2C%2065%20Stat.%20701.md) | Repealed. |
 | [420\.](%C2%A7%2000420%20-%20Power%20to%20administer%20oaths%2C%20examine%20witnesses%2C%20or%20require%20production%20of%20books%2C%20etc.md) | Power to administer oaths, examine witnesses, or require production of books, etc. |
@@ -99,7 +99,7 @@
 - [&sect; 00415d - Rules and regulations for wool standards; deposit of receipts in the Treasury](%C2%A7%2000415d%20-%20Rules%20and%20regulations%20for%20wool%20standards%3B%20deposit%20of%20receipts%20in%20the%20Treasury.md)
 - [&sect; 00415e - Farm or food products; sale of samples, practical forms, etc](%C2%A7%2000415e%20-%20Farm%20or%20food%20products%3B%20sale%20of%20samples%2C%20practical%20forms%2C%20etc.md)
 - [&sect; 00416 - Letting contract for packeting, etc., of seeds, etc., for distribution](%C2%A7%2000416%20-%20Letting%20contract%20for%20packeting%2C%20etc.%2C%20of%20seeds%2C%20etc.%2C%20for%20distribution.md)
-- [&sect; 00417 - Distribution of farmers&#8217; bulletins](%C2%A7%2000417%20-%20Distribution%20of%20farmers%E2%80%99%20bulletins.md)
+- [&sect; 00417 - Distribution of farmers' bulletins](%C2%A7%2000417%20-%20Distribution%20of%20farmers%27%20bulletins.md)
 - [&sect; 00418 - Annual report on work of agricultural experiment stations and of college extension work; publication and distribution](%C2%A7%2000418%20-%20Annual%20report%20on%20work%20of%20agricultural%20experiment%20stations%20and%20of%20college%20extension%20work%3B%20publication%20and%20distribution.md)
 - [&sect; 00419 - Repealed. Oct. 31, 1951, ch. 654, &sect;1(12), 65 Stat. 701](%C2%A7%2000419%20-%20Repealed.%20Oct.%2031%2C%201951%2C%20ch.%20654%2C%20%C2%A71%2812%29%2C%2065%20Stat.%20701.md)
 - [&sect; 00420 - Power to administer oaths, examine witnesses, or require production of books, etc](%C2%A7%2000420%20-%20Power%20to%20administer%20oaths%2C%20examine%20witnesses%2C%20or%20require%20production%20of%20books%2C%20etc.md)

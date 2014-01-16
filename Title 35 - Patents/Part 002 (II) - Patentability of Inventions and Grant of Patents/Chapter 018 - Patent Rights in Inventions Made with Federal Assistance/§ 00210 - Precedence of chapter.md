@@ -54,11 +54,11 @@
 
 (e) The provisions of the Stevenson-Wydler Technology Innovation Act of 1980 shall take precedence over the provisions of this chapter to the extent that they permit or require a disposition of rights in subject inventions which is inconsistent with this chapter.
 
-(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3026; amended Pub. L. 98–620, title V, §501(13), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 99–502, §9(c), Oct. 20, 1986, 100 Stat. 1796; Pub. L. 103–272, §5(j), July 5, 1994, 108 Stat. 1375; Pub. L. 104–113, §7, Mar. 7, 1996, 110 Stat. 779; Pub. L. 105–393, title II, §220(c)(2), Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–273, div. C, title III, §13206(a)(16),Nov. 2, 2002, 116 Stat. 1905; Pub. L. 109–58, title X, §1009(a)(2), Aug. 8, 2005, 119 Stat. 934; Pub. L. 111–314, §4(c), Dec. 18, 2010, 124 Stat. 3440; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
+(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3026; amended Pub. L. 98–620, title V, §501(13), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 99–502, §9(c), Oct. 20, 1986, 100 Stat. 1796; Pub. L. 103–272, §5(j), July 5, 1994, 108 Stat. 1375; Pub. L. 104–113, §7, Mar. 7, 1996, 110 Stat. 779; Pub. L. 105–393, title II, §220(c)(2), Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–273, div. C, title III, §13206(a)(16), Nov. 2, 2002, 116 Stat. 1905; Pub. L. 109–58, title X, §1009(a)(2), Aug. 8, 2005, 119 Stat. 934; Pub. L. 111–314, §4(c), Dec. 18, 2010, 124 Stat. 3440; Pub. L. 112–29, §20(j), Sept. 16, 2011, 125 Stat. 335.)
 
 #### References in Text
 
-The Act and this Act, referred to in subsec. (a), is Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015, which enacted sections 200 to 211 and 301 to 307 of this title, amended sections 41, 42, and 154 of this title, section 1113 of Title 15, Commerce and Trade, sections 101 and 117 of Title 17, Copyrights, and sections 2186 and 5908 and former section 2457 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections 13 and 41 of this title. For complete classification of this Act to the Code, see Tables.
+The Act and this Act, referred to in subsec. (a), is Pub. L. 96–517, Dec. 12, 1980, 94 Stat. 3015, which enacted sections 200 to 211 and 301 to 307 of this title, amended sections 41, 42, and 154 of this title, section 1113 of Title 15, Commerce and Trade, sections 101 and 117 of Title 17, Copyrights, and sections 2186 and 5908 and former section 2457 of Title 42, The Public Health and Welfare, and enacted provisions set out as notes under sections13 and 41 of this title. For complete classification of this Act to the Code, see Tables.
 
 Section 30168 of title 49, referred to in subsec. (a)(4), was repealed by Pub. L. 112–141, div. C, title I, §31204(b)(2)(B), July 6, 2012, 126 Stat. 760.
 
@@ -76,31 +76,31 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (
 
 #### Amendments
 
-<b>2011</b>—Subsec. (c). Pub. L. 112–29 struck out “of this title” after “203”.
+<b>2011</b>—Subsec. (c). Pub. L. 112–29 struck out "of this title" after "203".
 
-<b>2010</b>—Subsec. (a)(7). Pub. L. 111–314 substituted “section 20135 of title 51” for “section 305 of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2457)”.
+<b>2010</b>—Subsec. (a)(7). Pub. L. 111–314 substituted "section 20135 of title 51" for "section 305 of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2457)".
 
-<b>2005</b>—Subsec. (a)(8). Pub. L. 109–58 substituted “Coal Research and Development Act of 1960” for “Coal Research Development Act of 1960”.
+<b>2005</b>—Subsec. (a)(8). Pub. L. 109–58 substituted "Coal Research and Development Act of 1960" for "Coal Research Development Act of 1960".
 
-<b>2002</b>—Subsec. (a)(11). Pub. L. 107–273, §13206(a)(16)(A)(i), substituted “5908” for “5901”.
+<b>2002</b>—Subsec. (a)(11). Pub. L. 107–273, §13206(a)(16)(A)(i), substituted "5908" for "5901".
 
-Subsec. (a)(20). Pub. L. 107–273, §13206(a)(16)(A)(ii), substituted “178j” for “178(j)”.
+Subsec. (a)(20). Pub. L. 107–273, §13206(a)(16)(A)(ii), substituted "178j" for "178(j)".
 
-Subsec. (c). Pub. L. 107–273, §13206(a)(16)(B), substituted “section 202(c)(4)” for “paragraph 202(c)(4)” and struck out second period after “title”.
+Subsec. (c). Pub. L. 107–273, §13206(a)(16)(B), substituted "section 202(c)(4)" for "paragraph 202(c)(4)" and struck out second period after "title".
 
-<b>1998</b>—Subsec. (a)(11) to (22). Pub. L. 105–393 redesignated pars. (12) to (22) as (11) to (21), respectively, and struck out former par. (11) which read as follows: “subsection (e) of section 302 of the Appalachian Regional Development Act of 1965 (40 U.S.C. App. 302(e); 79 Stat. 5);”.
+<b>1998</b>—Subsec. (a)(11) to (22). Pub. L. 105–393 redesignated pars. (12) to (22) as (11) to (21), respectively, and struck out former par. (11) which read as follows: "subsection (e) of section 302 of the Appalachian Regional Development Act of 1965 (40 U.S.C. App. 302(e); 79 Stat. 5);".
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–113 struck out “, as amended by the Federal Technology Transfer Act of 1986,” after “1980”.
+<b>1996</b>—Subsec. (e). Pub. L. 104–113 struck out ", as amended by the Federal Technology Transfer Act of 1986," after "1980".
 
-<b>1994</b>—Subsec. (a)(4). Pub. L. 103–272 substituted “section 30168(e) of title 49” for “section 106(c) of the National Traffic and Motor Vehicle Safety Act of 1966 (15 U.S.C. 1395(c); 80 Stat. 721)”.
+<b>1994</b>—Subsec. (a)(4). Pub. L. 103–272 substituted "section 30168(e) of title 49" for "section 106(c) of the National Traffic and Motor Vehicle Safety Act of 1966 (15 U.S.C. 1395(c); 80 Stat. 721)".
 
 <b>1986</b>—Subsec. (e). Pub. L. 99–502 added subsec. (e).
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–620 substituted “February 18, 1983” for “August 23, 1971 (36 Fed. Reg. 16887)” and inserted provision that all funding agreements, including those with other than small business firms and nonprofit organizations, shall include the requirements established in paragraph 202(c)(4) and section 203 of this title.
+<b>1984</b>—Subsec. (c). Pub. L. 98–620 substituted "February 18, 1983" for "August 23, 1971 (36 Fed. Reg. 16887)" and inserted provision that all funding agreements, including those with other than small business firms and nonprofit organizations, shall include the requirements established in paragraph 202(c)(4) and section 203 of this title.
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Effective Date of 2011 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Office
 
-There is established in the Department an Office of Counternarcotics Enforcement, whichshall be headed by a Director appointed by the President.
+There is established in the Department an Office of Counternarcotics Enforcement, which shall be headed by a Director appointed by the President.
 
 #### (b) Assignment of personnel
 

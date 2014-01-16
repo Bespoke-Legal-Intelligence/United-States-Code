@@ -16,7 +16,7 @@ Contracts Required To Be Authorized by Law.—A contract may be entered into und
 
 (c)
 
-Term of Contract.—In this section, the term “long-term lease” means a lease, bareboat charter, or conditional sale agreement with respect to a vessel the term of which (including any option period) is for a period of 20 years or more.
+Term of Contract.—In this section, the term "long-term lease" means a lease, bareboat charter, or conditional sale agreement with respect to a vessel the term of which (including any option period) is for a period of 20 years or more.
 
 (d)
 
@@ -68,7 +68,7 @@ Source of Funds for Termination Liability.—If a contract entered into under th
 
 #### Effective Date
 
-Pub. L. 106–65, div. A, title X, §1014(c), Oct. 5, 1999, 113 Stat. 742, provided that: “Section 7233 of title 10, UnitedStates Code, as added by subsection (a), shall take effect on October 1, 1999.”
+Pub. L. 106–65, div. A, title X, §1014(c), Oct. 5, 1999, 113 Stat. 742, provided that: "Section 7233 of title 10, UnitedStates Code, as added by subsection (a), shall take effect on October 1, 1999."
 
 <i><sup>1</sup></i><i> So in original. No section 7232 has been enacted.</i>
 

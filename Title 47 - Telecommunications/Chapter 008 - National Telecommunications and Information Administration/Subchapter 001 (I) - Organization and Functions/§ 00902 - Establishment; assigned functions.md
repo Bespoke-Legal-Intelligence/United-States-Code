@@ -122,107 +122,107 @@ Executive Order 11556, referred to in subsec. (b)(2)(S), which was formerly set 
 
 #### Pilot Program for Digital and Wireless Networks for Online Educational Programs of Study
 
-Pub. L. 110–161, div. B, title V, §536, Dec. 26, 2007, 121 Stat. 1932, as amended by Pub. L. 110–315, title IX, §941(k)(2)(N), Aug. 14, 2008, 122 Stat. 3468, provided that: “This section may be cited as the ‘ED 1.0 Act’.
+Pub. L. 110–161, div. B, title V, §536, Dec. 26, 2007, 121 Stat. 1932, as amended by Pub. L. 110–315, title IX, §941(k)(2)(N), Aug. 14, 2008, 122 Stat. 3468, provided that: "This section may be cited as the 'ED 1.0 Act'.
 
-&emsp;“(a) In this section:
+&emsp;"(a) In this section:
 
-&emsp;&emsp;“(1) The term ‘Administrator’ means the Administrator of the National Telecommunications and Information Administration.
+&emsp;&emsp;"(1) The term 'Administrator' means the Administrator of the National Telecommunications and Information Administration.
 
-&emsp;&emsp;“(2) The term ‘eligible educational institution’ means an institution that is—
+&emsp;&emsp;"(2) The term 'eligible educational institution' means an institution that is—
 
-&emsp;&emsp;&emsp;“(A) a historically Black college or university;
+&emsp;&emsp;&emsp;"(A) a historically Black college or university;
 
-&emsp;&emsp;&emsp;“(B) a Hispanic-serving institution as that term is defined in section 502(a)(5) of the Higher Education Act of 1965 (20 U.S.C. 1101a(a)(5));
+&emsp;&emsp;&emsp;"(B) a Hispanic-serving institution as that term is defined in section 502(a)(5) of the Higher Education Act of 1965 (20 U.S.C. 1101a(a)(5));
 
-&emsp;&emsp;&emsp;“(C) a tribally controlled college or university as that term is defined in section 2(a)(4) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a)(4));
+&emsp;&emsp;&emsp;"(C) a tribally controlled college or university as that term is defined in section 2(a)(4) of the Tribally Controlled Colleges and Universities Assistance Act of 1978 (25 U.S.C. 1801(a)(4));
 
-&emsp;&emsp;&emsp;“(D) an Alaska Native-serving institution as that term is defined in section 317(b)(2) of the Higher Education Act of 1965 (20 U.S.C. 1059d(b)(2)); or
+&emsp;&emsp;&emsp;"(D) an Alaska Native-serving institution as that term is defined in section 317(b)(2) of the Higher Education Act of 1965 (20 U.S.C. 1059d(b)(2)); or
 
-&emsp;&emsp;&emsp;“(E) a Native Hawaiian-serving institution as that term is defined in section 317(b)(4) of the Higher Education Act of 1965 (20 U.S.C. 1059d(b)(4)).
+&emsp;&emsp;&emsp;"(E) a Native Hawaiian-serving institution as that term is defined in section 317(b)(4) of the Higher Education Act of 1965 (20 U.S.C. 1059d(b)(4)).
 
-&emsp;&emsp;“(3) The term ‘historically Black college or university’ means a part B institution as that term is defined in section 322(2) of the Higher Education Act of 1965 (20 U.S.C. 1061(2)).
+&emsp;&emsp;"(3) The term 'historically Black college or university' means a part B institution as that term is defined in section 322(2) of the Higher Education Act of 1965 (20 U.S.C. 1061(2)).
 
-&emsp;“(b)(1)(A) There is established within the National Telecommunications and Information Administration a pilot program under which the Administrator shall award 9 grants to eligible educational institutions to enable the eligible educational institutions to develop digital and wireless networks for online educational programs of study within the eligible educational institutions. The Administrator shall award not less than 1 grant to each type of eligible educational institution, enumerated under subsection (a)(2).
+&emsp;"(b)(1)(A) There is established within the National Telecommunications and Information Administration a pilot program under which the Administrator shall award 9 grants to eligible educational institutions to enable the eligible educational institutions to develop digital and wireless networks for online educational programs of study within the eligible educational institutions. The Administrator shall award not less than 1 grant to each type of eligible educational institution, enumerated under subsection (a)(2).
 
-&emsp;“(B)(i) The Administrator shall award a total of 9 grants under this subsection.
+&emsp;"(B)(i) The Administrator shall award a total of 9 grants under this subsection.
 
-&emsp;“(ii) The Administrator shall make grant payments under this subsection in the amount of $500,000.
+&emsp;"(ii) The Administrator shall make grant payments under this subsection in the amount of $500,000.
 
-&emsp;“(2)(A) In awarding grants under this subsection the Administrator shall give priority to an eligible educational institution that, according to the most recent data available (including data available from the Bureau of the Census), serves a county, or other appropriate political subdivision where no counties exist—
+&emsp;"(2)(A) In awarding grants under this subsection the Administrator shall give priority to an eligible educational institution that, according to the most recent data available (including data available from the Bureau of the Census), serves a county, or other appropriate political subdivision where no counties exist—
 
-&emsp;&emsp;“(i) in which 50 percent of the residents of the county, or other appropriate political subdivision where no counties exist, are members of a racial or ethnic minority;
+&emsp;&emsp;"(i) in which 50 percent of the residents of the county, or other appropriate political subdivision where no counties exist, are members of a racial or ethnic minority;
 
-&emsp;&emsp;“(ii) in which less than 18 percent of the residents of the county, or other appropriate political subdivision where no counties exist, have obtained a baccalaureate degree or a higher education;
+&emsp;&emsp;"(ii) in which less than 18 percent of the residents of the county, or other appropriate political subdivision where no counties exist, have obtained a baccalaureate degree or a higher education;
 
-&emsp;&emsp;“(iii) that has an unemployment rate of 7 percent or greater;
+&emsp;&emsp;"(iii) that has an unemployment rate of 7 percent or greater;
 
-&emsp;&emsp;“(iv) in which 20 percent or more of the residents of the county, or other appropriate political subdivision where no counties exist, live in poverty;
+&emsp;&emsp;"(iv) in which 20 percent or more of the residents of the county, or other appropriate political subdivision where no counties exist, live in poverty;
 
-&emsp;&emsp;“(v) that has a negative population growth rate; or
+&emsp;&emsp;"(v) that has a negative population growth rate; or
 
-&emsp;&emsp;“(vi) that has a family income of not more than $32,000.
+&emsp;&emsp;"(vi) that has a family income of not more than $32,000.
 
-&emsp;“(B) In awarding grants under this subsection the Administrator shall give the highest priority to an eligible educational institution that meets the greatest number of requirements described in clauses (i) through (vi) of subparagraph (A).
+&emsp;"(B) In awarding grants under this subsection the Administrator shall give the highest priority to an eligible educational institution that meets the greatest number of requirements described in clauses (i) through (vi) of subparagraph (A).
 
-&emsp;“(3) An eligible educational institution receiving a grant under this subsection may use the grant funds—
+&emsp;"(3) An eligible educational institution receiving a grant under this subsection may use the grant funds—
 
-&emsp;&emsp;“(A) to acquire equipment, instrumentation, networking capability, hardware, software, digital network technology, wireless technology, or wireless infrastructure;
+&emsp;&emsp;"(A) to acquire equipment, instrumentation, networking capability, hardware, software, digital network technology, wireless technology, or wireless infrastructure;
 
-&emsp;&emsp;“(B) to develop and provide educational services, including faculty development; or
+&emsp;&emsp;"(B) to develop and provide educational services, including faculty development; or
 
-&emsp;&emsp;“(C) to develop strategic plans for information technology investments.
+&emsp;&emsp;"(C) to develop strategic plans for information technology investments.
 
-&emsp;“(4) The Administrator shall not require an eligible educational institution to provide matching funds for a grant awarded under this subsection.
+&emsp;"(4) The Administrator shall not require an eligible educational institution to provide matching funds for a grant awarded under this subsection.
 
-&emsp;“(5)(A) The Administrator shall consult with the Committee on Appropriations and the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives, on a quarterly basis regarding the pilot program assisted under this subsection.
+&emsp;"(5)(A) The Administrator shall consult with the Committee on Appropriations and the Committee onCommerce, Science, and Transportation of the Senate and the Committee on Appropriations and the Committee on Energy and Commerce of the House of Representatives, on a quarterly basis regarding the pilot program assisted under this subsection.
 
-&emsp;“(B) Not later than 1 year after the date of enactment of this section \[Dec. 26, 2007\], the Administratorshall submit to the committees described in subparagraph (A) a report evaluating the progress of the pilot program assisted under this subsection.
+&emsp;"(B) Not later than 1 year after the date of enactment of this section \[Dec. 26, 2007\], the Administrator shall submit to the committees described in subparagraph (A) a report evaluating the progress of the pilot program assisted under this subsection.
 
-&emsp;“(c) There are authorized to be appropriated to carry out this section $4,500,000 for each of fiscal years 2008 and 2009.
+&emsp;"(c) There are authorized to be appropriated to carry out this section $4,500,000 for each of fiscal years 2008 and 2009.
 
-&emsp;“(d) The Administrator shall carry out this section only with amounts appropriated in advance specifically to carry out this section.”
+&emsp;"(d) The Administrator shall carry out this section only with amounts appropriated in advance specifically to carry out this section."
 
 #### Study of Technology Protection Measures
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XVII, §1703\], Dec. 21, 2000, 114 Stat. 2763, 2763A–336, provided that:
 
-“(a)
+"(a)
 
 In General.—Not later than 18 months after the date of the enactment of this Act \[Dec. 21, 2000\], the National Telecommunications and Information Administration shall initiate a notice and comment proceeding for purposes of—
 
-&emsp;“(1) evaluating whether or not currently available technology protection measures, including commercial Internet blocking and filtering software, adequately addresses the needs of educational institutions;
+&emsp;"(1) evaluating whether or not currently available technology protection measures, including commercial Internet blocking and filtering software, adequately addresses the needs of educational institutions;
 
-&emsp;“(2) making recommendations on how to foster the development of measures that meet such needs; and
+&emsp;"(2) making recommendations on how to foster the development of measures that meet such needs; and
 
-&emsp;“(3) evaluating the development and effectiveness of local Internet safety policies that are currently in operation after community input.
+&emsp;"(3) evaluating the development and effectiveness of local Internet safety policies that are currently in operation after community input.
 
-“(b)
+"(b)
 
 Definitions.—In this section:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Technology protection measure.—The term ‘technology protection measure’ means a specific technology that blocks or filters Internet access to visual depictions that are—
+Technology protection measure.—The term 'technology protection measure' means a specific technology that blocks or filters Internet access to visual depictions that are—
 
-&emsp;&emsp;“(A) obscene, as that term is defined in section 1460 of title 18, United States Code;
+&emsp;&emsp;"(A) obscene, as that term is defined in section 1460 of title 18, United States Code;
 
-&emsp;&emsp;“(B) child pornography, as that term is defined in section 2256 of title 18, United States Code; or
+&emsp;&emsp;"(B) child pornography, as that term is defined in section 2256 of title 18, United States Code; or
 
-&emsp;&emsp;“(C) harmful to minors.
+&emsp;&emsp;"(C) harmful to minors.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Harmful to minors.—The term ‘harmful to minors’ means any picture, image, graphic image file, or other visual depiction that—
+Harmful to minors.—The term 'harmful to minors' means any picture, image, graphic image file, or other visual depiction that—
 
-&emsp;&emsp;“(A) taken as a whole and with respect to minors, appeals to a prurient interest in nudity, sex, or excretion;
+&emsp;&emsp;"(A) taken as a whole and with respect to minors, appeals to a prurient interest in nudity, sex, or excretion;
 
-&emsp;&emsp;“(B) depicts, describes, or represents, in a patently offensive way with respect to what is suitable for minors, an actual or simulated sexual act or sexual contact, actual or simulated normal or perverted sexual acts, or a lewd exhibition of the genitals; and
+&emsp;&emsp;"(B) depicts, describes, or represents, in a patently offensive way with respect to what is suitable for minors, an actual or simulated sexual act or sexual contact, actual or simulated normal or perverted sexual acts, or a lewd exhibition of the genitals; and
 
-&emsp;&emsp;“(C) taken as a whole, lacks serious literary, artistic, political, or scientific value as to minors.
+&emsp;&emsp;"(C) taken as a whole, lacks serious literary, artistic, political, or scientific value as to minors.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Sexual act; sexual contact.—The terms ‘sexual act’ and ‘sexual contact’ have the meanings given such terms in section 2246 of title 18, United States Code.”
+Sexual act; sexual contact.—The terms 'sexual act' and 'sexual contact' have the meanings given such terms in section 2246 of title 18, United States Code."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

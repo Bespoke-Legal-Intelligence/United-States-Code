@@ -28,9 +28,9 @@ This amends 49:47532 to correct an erroneous cross-reference.
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–95 inserted “or 47534” after “47528–47531”.
+<b>2012</b>—Pub. L. 112–95 inserted "or 47534" after "47528–47531".
 
-<b>1994</b>—Pub. L. 103–429 inserted “any of” before “sections”.
+<b>1994</b>—Pub. L. 103–429 inserted "any of" before "sections".
 
 #### Effective Date of 1994 Amendment
 

@@ -48,7 +48,7 @@ In this chapter:
 
 #### (5) Intelligence community
 
-&emsp;The term “intelligence community” has the meaning given that term in section 401a(4) of title 50.
+&emsp;The term “intelligence community” has the meaning given that term in section 3003(4) of title 50.
 
 #### (6) President
 
@@ -76,7 +76,7 @@ The Uniting and Strengthening America by Providing Appropriate Tools Required to
 
 Committee on International Relations of House of Representatives changed to Committee on Foreign Affairs of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Effective Date of 2002 Amendment
 
@@ -104,7 +104,7 @@ Pub. L. 109–367, §2, Oct. 26, 2006, 120 Stat. 2638, provided that:
 
 In General.—Not later than 18 months after the date of the enactment of this Act \[Oct. 26, 2006\], the Secretary of Homeland Security shall take all actions the Secretary determines necessary and appropriate to achieve and maintain operational control over the entire international land and maritime borders of the United States, to include the following—
 
-&emsp;“(1) systematic surveillance of the international land and maritime borders of the United States through more effective use of personnel and technology, such as unmanned aerial vehicles, ground-based sensors, satellites, radar coverage, and cameras; and
+&emsp;“(1) systematic surveillance of the international land and maritime borders of the United Statesthrough more effective use of personnel and technology, such as unmanned aerial vehicles, ground-based sensors, satellites, radar coverage, and cameras; and
 
 &emsp;“(2) physical infrastructure enhancements to prevent unlawful entry by aliens into the United States and facilitate access to the international land and maritime borders by United States Customs and Border Protection, such as additional checkpoints, all weather access roads, and vehicle barriers.
 

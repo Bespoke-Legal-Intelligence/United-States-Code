@@ -76,7 +76,7 @@ Aug. 29, 1916, ch. 415, §§10–12, 26, 39 Stat. 540, 542.
 
 49 App.:106.
 
-In subsection (a), before clause (1), the word “title” is substituted for “right of property” for consistency in this chapter.
+In subsection (a), before clause (1), the word "title" is substituted for "right of property" for consistency in this chapter.
 
-In subsection (c), the words “negotiable bill of lading” are substituted for “order bill . . . the negotiation of which would transfer the right to the possession of the goods” in 49 App.:91 for consistency in this chapter.
+In subsection (c), the words "negotiable bill of lading" are substituted for "order bill . . . the negotiation of which would transfer the right to the possession of the goods" in 49 App.:91 for consistency in this chapter.
 

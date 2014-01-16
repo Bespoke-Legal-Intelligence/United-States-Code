@@ -1,6 +1,6 @@
 ### §§1941 to 1950. Repealed. Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379
 
-Section 1941, Pub. L. 92–513, title II, §201, Oct. 20, 1972, 86 Stat. 956; Pub. L. 94–364, title II, §201, July 14, 1976,90 Stat. 981, related to consumer information study to be conducted by Secretary. See section 32302 of Title 49, Transportation.
+Section 1941, Pub. L. 92–513, title II, §201, Oct. 20, 1972, 86 Stat. 956; Pub. L. 94–364, title II, §201, July 14, 1976, 90 Stat. 981, related to consumer information study to be conducted by Secretary. See section 32302 of Title 49, Transportation.
 
 Section 1942, Pub. L. 92–513, title II, §202, Oct. 20, 1972, 86 Stat. 956, related to appointment and compensation of personnel by Secretary to carry out this subchapter. See section 32306 of Title 49.
 

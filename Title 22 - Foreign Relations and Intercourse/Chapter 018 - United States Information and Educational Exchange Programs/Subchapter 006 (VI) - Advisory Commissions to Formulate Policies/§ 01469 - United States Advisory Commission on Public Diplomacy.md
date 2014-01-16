@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-(1) There is established an advisory commission to be known as the United States Advisory Commission on Public Diplomacy (referred to in this section as the “Commission”).
+(1) There is established an advisory commission to be known as the United States Advisory Commission on Public Diplomacy (referred to in this section as the "Commission").
 
 (2) The Commission shall consist of seven members appointed by the President, by and with the advice and consent of the Senate. The members of the Commission shall represent the public interest and shall be selected from a cross section of educational, communications, cultural, scientific, technical, public service, labor, business, and professional backgrounds. Not more than four members shall be from any one political party.
 
@@ -22,7 +22,7 @@ The Commission shall have a staff director who shall be appointed by the chairpe
 
 #### (c) Duties and responsibilities
 
-The Commission shall appraise United States Government activities intended to understand, inform, and influence foreign publics. The activities described in this subsection shall be referred to in this section as “public diplomacy activities”.
+The Commission shall appraise United States Government activities intended to understand, inform, and influence foreign publics. The activities described in this subsection shall be referred to in this section as "public diplomacy activities".
 
 #### (d) Reports
 
@@ -30,7 +30,7 @@ The Commission shall appraise United States Government activities intended to un
 
 #### (A) In general
 
-&emsp;&emsp;Not less frequently than annually, the Commission shall submit a comprehensivereport on public diplomacy and international broadcasting activities to Congress, the President, and the Secretary of State. This report shall include—
+&emsp;&emsp;Not less frequently than annually, the Commission shall submit a comprehensive report on public diplomacy and international broadcasting activities to Congress, the President, and the Secretary of State. This report shall include—
 
 &emsp;&emsp;&emsp;(i) a detailed list of all public diplomacy activities funded by the United States Government;
 
@@ -54,9 +54,9 @@ The Commission shall appraise United States Government activities intended to un
 
 #### (B) Effectiveness assessment
 
-&emsp;&emsp;In evaluating the public diplomacy and international broadcasting activities described in subparagraph (A), the Commission shall conduct an assessment that considers the public diplomacy target impact, the achieved impact, and the cost of public diplomacy activities and international broadcasting. The assessment shall include, if practicable, an appropriate metric such as “cost-per-audience” or “cost-per-student” for each activity. Upon the completion of the assessment, the Commission shall assign a rating of—
+&emsp;&emsp;In evaluating the public diplomacy and international broadcasting activities described in subparagraph (A), the Commission shall conduct an assessment that considers the public diplomacy target impact, the achieved impact, and the cost of public diplomacy activities and international broadcasting. The assessment shall include, if practicable, an appropriate metric such as "cost-per-audience" or "cost-per-student" for each activity. Upon the completion of the assessment, the Commission shall assign a rating of—
 
-&emsp;&emsp;&emsp;(i) “effective” for activities that—
+&emsp;&emsp;&emsp;(i) "effective" for activities that—
 
 &emsp;&emsp;&emsp;&emsp;(I) set appropriate goals and achieve all or most of the desired results;
 
@@ -64,7 +64,7 @@ The Commission shall appraise United States Government activities intended to un
 
 &emsp;&emsp;&emsp;&emsp;(III) are cost efficient;
 
-&emsp;&emsp;&emsp;(ii) “moderately effective” for activities that—
+&emsp;&emsp;&emsp;(ii) "moderately effective" for activities that—
 
 &emsp;&emsp;&emsp;&emsp;(I) set appropriate goals and achieve some desired results;
 
@@ -72,7 +72,7 @@ The Commission shall appraise United States Government activities intended to un
 
 &emsp;&emsp;&emsp;&emsp;(III) need to improve their cost efficiency, including reducing overhead;
 
-&emsp;&emsp;&emsp;(iii) “ineffective” for activities that—
+&emsp;&emsp;&emsp;(iii) "ineffective" for activities that—
 
 &emsp;&emsp;&emsp;&emsp;(I) lack appropriate goals or fail to achieve stated goals or desired results;
 
@@ -80,7 +80,7 @@ The Commission shall appraise United States Government activities intended to un
 
 &emsp;&emsp;&emsp;&emsp;(III) are not cost efficient, such as through insufficient use of available resources to achieve stated goals or desired results, or have excessive overhead; and
 
-&emsp;&emsp;&emsp;(iv) “results not demonstrated” for activities that—
+&emsp;&emsp;&emsp;(iv) "results not demonstrated" for activities that—
 
 &emsp;&emsp;&emsp;&emsp;(I) do not have acceptable performance public diplomacy metrics for measuring results; or
 
@@ -104,11 +104,11 @@ The Commission shall appraise United States Government activities intended to un
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §1280(a), inserted “(referred to in this section as the ‘Commission’)” before period at end.
+<b>2013</b>—Subsec. (a)(1). Pub. L. 112–239, §1280(a), inserted "(referred to in this section as the 'Commission')" before period at end.
 
 Subsec. (c). Pub. L. 112–239, §1280(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) described the Commission's duties and responsibilities, including formulation and appraisal of policies and programs and submission of reports.
 
-Subsec. (d). Pub. L. 112–239, §1280(c), amended subsec. (d) generally. Prior to amendment, text read as follows: “The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO.”
+Subsec. (d). Pub. L. 112–239, §1280(c), amended subsec. (d) generally. Prior to amendment, text read as follows: "The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO."
 
 <b>2001</b>—Pub. L. 107–77 reenacted this section. See Reenactment and Repeal of Certain Provisions of Law note below.
 
@@ -118,7 +118,7 @@ Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a), (c)(1)\], amended 
 
 <b>1998</b>—Pub. L. 105–277, §1334(b), which directed the repeal of this section, was omitted in the general amendment of Pub. L. 105–277, §1334, by Pub. L. 106–113, §1000(a)(7) \[div. A, title IV, §404(a)\]. See 1999 Amendment note above.
 
-<b>1990</b>—Pub. L. 101–246 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to redesignation of United States Advisory Commission on International Communication, Cultural and Educational Affairs as United States Advisory Commission on Public Diplomacy, appointment ofmembers, appointment of staff director and staff personnel, date of section entering into force as being Jan. 20, 1989, and repeal of prohibition limiting membership of individuals from same political party.
+<b>1990</b>—Pub. L. 101–246 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to redesignation of United States Advisory Commission on International Communication, Cultural and Educational Affairs as United States Advisory Commission on Public Diplomacy, appointment of members, appointment of staff director and staff personnel, date of section entering into force as being Jan. 20, 1989, and repeal of prohibition limiting membership of individuals from same political party.
 
 <b>1987</b>—Pub. L. 100–204 amended section generally, revising and restating as subsecs. (a) to (d) provisions of former subsecs. (a) and (b).
 
@@ -134,25 +134,25 @@ United States Information Agency (other than Broadcasting Board of Governors and
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that:
 
-“(1)
+"(1)
 
 Reenactment.—The provisions of law repealed by section 1334 \[22 U.S.C. 6553\] of the Foreign Affairs Reform and Restructuring Act of 1998 \[repealing this section and section 8 of Reorganization Plan No. 2 of 1977, set out under section 1461 of this title and in the Appendix to Title 5, Government Organization and Employees\], as in effect before the date of the enactment of this Act \[Nov. 29, 1999\], are hereby reenacted into law.
 
-“(2)
+"(2)
 
-Repeal.—Effective September 30, 2001, section 604 of the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1469) and section 8 of the Reorganization Plan Numbered 2 of 1977 are repealed.”
+Repeal.—Effective September 30, 2001, section 604 of the United States Information and Educational Exchange Act of 1948 (22 U.S.C. 1469) and section 8 of the Reorganization Plan Numbered 2 of 1977 are repealed."
 
 \[Pub. L. 107–77, title IV, §407(c), Nov. 28, 2001, 115 Stat. 790, reenacted into law the provisions that were repealed by section 1000(a)(7) \[div. A, title IV, §404(c)(2)\] of div. B of Pub. L. 106–113, set out above.\]
 
 #### Continuity of Advisory Commission
 
-Pub. L. 107–77, title IV, §407(d), Nov. 28, 2001, 115 Stat. 790, provided that: “Notwithstanding any other provision of law, any period of discontinuity of the United States Advisory Commission on Public Diplomacy shall not affect the appointment or terms of service of members of the commission.”
+Pub. L. 107–77, title IV, §407(d), Nov. 28, 2001, 115 Stat. 790, provided that: "Notwithstanding any other provision of law, any period of discontinuity of the United States Advisory Commission on Public Diplomacy shall not affect the appointment or terms of service of members of the commission."
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “Notwithstanding any other provision of law, any period of discontinuity of the United States Advisory Commission on Public Diplomacy shall not affect the appointment or terms of service of members of the commission.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: "Notwithstanding any other provision of law, any period of discontinuity of the United States Advisory Commission on Public Diplomacy shall not affect the appointment or terms of service of members of the commission."
 
 #### Reduction in Staff and Budget
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: “Notwithstanding section 604(b) of the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1469(b)\], effective on the date of the enactment of this Act \[Nov. 29, 1999\], the United States Advisory Commission on Public Diplomacy shall have not more than 2 individuals who are compensated staff, and not more than 50 percent of the resources allocated in fiscal year 1999.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–447, provided that: "Notwithstanding section 604(b) of the United States Information and Educational Exchange Act of 1948 \[22 U.S.C. 1469(b)\], effective on the date of the enactment of this Act \[Nov. 29, 1999\], the United States Advisory Commission on Public Diplomacy shall have not more than 2 individuals who are compensated staff, and not more than 50 percent of the resources allocated in fiscal year 1999."
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

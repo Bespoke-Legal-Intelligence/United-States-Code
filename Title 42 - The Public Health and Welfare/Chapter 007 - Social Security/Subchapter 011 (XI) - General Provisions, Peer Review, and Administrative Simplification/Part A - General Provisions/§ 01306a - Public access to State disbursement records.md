@@ -16,11 +16,11 @@ Section was enacted as part of act Oct. 20, 1951, popularly known as the Revenue
 
 #### Amendments
 
-<b>1962</b>—Pub. L. 87–543 substituted “XIV, or XVI (other than section 1383(a)(3) thereof)” for “or XIV”.
+<b>1962</b>—Pub. L. 87–543 substituted "XIV, or XVI (other than section 1383(a)(3) thereof)" for "or XIV".
 
-<b>1960</b>—Pub. L. 86–778 inserted “(other than section 303(a)(3) thereof)” after “pursuant to subchapter I”.
+<b>1960</b>—Pub. L. 86–778 inserted "(other than section 303(a)(3) thereof)" after "pursuant to subchapter I".
 
 #### Effective Date of 1960 Amendment
 
-Pub. L. 86–778, title VI, §603(b), Sept. 13, 1960, 74 Stat. 992, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1960.”
+Pub. L. 86–778, title VI, §603(b), Sept. 13, 1960, 74 Stat. 992, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1960."
 

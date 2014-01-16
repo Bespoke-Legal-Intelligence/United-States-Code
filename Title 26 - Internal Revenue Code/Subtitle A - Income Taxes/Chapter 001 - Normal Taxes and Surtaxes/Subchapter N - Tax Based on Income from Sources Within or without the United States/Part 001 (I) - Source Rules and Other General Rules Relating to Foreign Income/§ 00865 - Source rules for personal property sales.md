@@ -16,7 +16,7 @@ In the case of income derived from the sale of inventory property—
 
 &emsp;(2) such income shall be sourced under the rules of sections 861(a)(6), 862(a)(6), and 863.
 
-> Notwithstanding the preceding sentence, any income from the sale of any unprocessed timber which is a softwood and was cut from an area in the United States shall be sourced in the United States and the rules of sections 862(a)(6) and 863(b) shall not apply to any such income. For purposes of the preceding sentence, the term “unprocessed timber” means any log, cant, or similar form of timber.
+> Notwithstanding the preceding sentence, any income from the sale of any unprocessed timber which is a softwood and was cut from an area in the United States shall be sourced in the United States and the rules of sections 862(a)(6) and 863(b) shall not apply to any such income. For purposes of the preceding sentence, the term "unprocessed timber" means any log, cant, or similar form of timber.
 
 #### (c) Exception for depreciable personal property
 
@@ -38,7 +38,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (A) In general
 
-&emsp;&emsp;The term “United States depreciation adjustments” means the portion of the depreciation adjustments to the adjusted basis of the property which are attributable to the depreciation deductions allowable in computing taxable income from sources in the United States.
+&emsp;&emsp;The term "United States depreciation adjustments" means the portion of the depreciation adjustments to the adjusted basis of the property which are attributable to the depreciation deductions allowable in computing taxable income from sources in the United States.
 
 #### (B) Special rule for certain property
 
@@ -56,15 +56,15 @@ In the case of income derived from the sale of inventory property—
 
 #### (A) Depreciable personal property
 
-&emsp;&emsp;The term “depreciable personal property” means any personal property if the adjusted basis of such property includes depreciation adjustments.
+&emsp;&emsp;The term "depreciable personal property" means any personal property if the adjusted basis of such property includes depreciation adjustments.
 
 #### (B) Depreciation adjustments
 
-&emsp;&emsp;The term “depreciation adjustments” means adjustments reflected in the adjusted basis of any property on account of depreciation deductions (whether allowed with respect to such property or other property and whether allowed to the taxpayer or to any other person).
+&emsp;&emsp;The term "depreciation adjustments" means adjustments reflected in the adjusted basis of any property on account of depreciation deductions (whether allowed with respect to such property or other property and whether allowed to the taxpayer or to any other person).
 
 #### (C) Depreciation deductions
 
-&emsp;&emsp;The term “depreciation deductions” means any deductions for depreciation or amortization or any other deduction allowable under any provision of this chapter which treats an otherwise capital expenditure as a deductible expense.
+&emsp;&emsp;The term "depreciation deductions" means any deductions for depreciation or amortization or any other deduction allowable under any provision of this chapter which treats an otherwise capital expenditure as a deductible expense.
 
 #### (d) Exception for intangibles
 
@@ -78,7 +78,7 @@ In the case of income derived from the sale of inventory property—
 
 #### (2) Intangible
 
-&emsp;For purposes of paragraph (1), the term “intangible” means any patent, copyright, secret process or formula, goodwill, trademark, trade brand, franchise, or other like property.
+&emsp;For purposes of paragraph (1), the term "intangible" means any patent, copyright, secret process or formula, goodwill, trademark, trade brand, franchise, or other like property.
 
 #### (3) Special rule in the case of goodwill
 
@@ -142,7 +142,7 @@ For purposes of this section—
 
 #### (A) United States resident
 
-&emsp;&emsp;The term “United States resident” means—
+&emsp;&emsp;The term "United States resident" means—
 
 &emsp;&emsp;&emsp;(i) any individual who—
 
@@ -154,7 +154,7 @@ For purposes of this section—
 
 #### (B) Nonresident
 
-&emsp;&emsp;The term “nonresident” means any person other than a United States resident.
+&emsp;&emsp;The term "nonresident" means any person other than a United States resident.
 
 #### (2) Special rules for United States citizens and resident aliens
 
@@ -208,11 +208,11 @@ For purposes of this section—
 
 #### (1) Inventory property
 
-&emsp;The term “inventory property” means personal property described in paragraph (1) of section 1221(a).
+&emsp;The term "inventory property" means personal property described in paragraph (1) of section 1221(a).
 
 #### (2) Sale includes exchange
 
-&emsp;The term “sale” includes an exchange or any other disposition.
+&emsp;The term "sale" includes an exchange or any other disposition.
 
 #### (3) Treatment of possessions
 
@@ -220,7 +220,7 @@ For purposes of this section—
 
 #### (4) Affiliate
 
-&emsp;The term “affiliate” means a member of the same affiliated group (within the meaning of section 1504(a) without regard to section 1504(b)).
+&emsp;The term "affiliate" means a member of the same affiliated group (within the meaning of section 1504(a) without regard to section 1504(b)).
 
 #### (5) Treatment of partnerships
 
@@ -246,39 +246,39 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-<b>1999</b>—Subsec. (i)(1). Pub. L. 106–170 substituted “section 1221(a)” for “section 1221”.
+<b>1999</b>—Subsec. (i)(1). Pub. L. 106–170 substituted "section 1221(a)" for "section 1221".
 
-<b>1996</b>—Subsec. (b)(2). Pub. L. 104–188 substituted “863” for “863(b)”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–188 substituted "863" for "863(b)".
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–66 inserted at end “Notwithstanding the preceding sentence, any income from the sale of any unprocessed timber which is a softwood and was cut from an area in the United States shall be sourced in the United States and the rules of sections 862(a)(6) and 863(b) shall not apply to any such income. For purposes of the preceding sentence, the term ‘unprocessed timber’ means any log, cant, or similar form of timber.”
+<b>1993</b>—Subsec. (b). Pub. L. 103–66 inserted at end "Notwithstanding the preceding sentence, any income from the sale of any unprocessed timber which is a softwood and was cut from an area in the United States shall be sourced in the United States and the rules of sections 862(a)(6) and 863(b) shall not apply to any such income. For purposes of the preceding sentence, the term 'unprocessed timber' means any log, cant, or similar form of timber."
 
-<b>1990</b>—Subsec. (c)(3)(B). Pub. L. 101–508 substituted “section 168(g)(4)” for “section 48(a)(2)(B)”.
+<b>1990</b>—Subsec. (c)(3)(B). Pub. L. 101–508 substituted "section 168(g)(4)" for "section 48(a)(2)(B)".
 
-<b>1988</b>—Subsec. (d)(2). Pub. L. 100–647, §1012(d)(12), inserted “franchise,” after “trade brand,”.
+<b>1988</b>—Subsec. (d)(2). Pub. L. 100–647, §1012(d)(12), inserted "franchise," after "trade brand,".
 
 Subsec. (d)(4). Pub. L. 100–647, §1012(d)(1), added par. (4).
 
-Subsec. (e)(1)(A). Pub. L. 100–647, §1012(d)(2), (9), substituted “(d)(1)(B) or (3)” for “(d)” and “in a foreign country” for first reference to “outside the United States”.
+Subsec. (e)(1)(A). Pub. L. 100–647, §1012(d)(2), (9), substituted "(d)(1)(B) or (3)" for "(d)" and "in a foreign country" for first reference to "outside the United States".
 
-Subsec. (e)(2)(B). Pub. L. 100–647, §1012(d)(5), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “Subparagraph (A) shall not apply to—
+Subsec. (e)(2)(B). Pub. L. 100–647, §1012(d)(5), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "Subparagraph (A) shall not apply to—
 
-&emsp;“(i) any sale of inventory property which is sold for use, disposition, or consumption outside the United States if an office or other fixed place of business of the taxpayer outside the United States materially participated in the sale, or
+&emsp;"(i) any sale of inventory property which is sold for use, disposition, or consumption outside the United States if an office or other fixed place of business of the taxpayer outside the United States materially participated in the sale, or
 
-&emsp;“(ii) any amount included in gross income under section 951(a)(1)(A).”
+&emsp;"(ii) any amount included in gross income under section 951(a)(1)(A)."
 
-Subsec. (f). Pub. L. 100–647, §1012(d)(4), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “If—
+Subsec. (f). Pub. L. 100–647, §1012(d)(4), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "If—
 
-&emsp;“(1) a United States resident sells stock in an affiliate which is a foreign corporation,
+&emsp;"(1) a United States resident sells stock in an affiliate which is a foreign corporation,
 
-&emsp;“(2) such affiliate is engaged in the active conduct of a trade or business, and
+&emsp;"(2) such affiliate is engaged in the active conduct of a trade or business, and
 
-&emsp;“(3) such sale occurs in the foreign country in which the affiliate derived more than 50 percent of its gross income for the 3-year period ending with the close of the affiliate's taxable year immediately preceding the year during which such sale occurred,
+&emsp;"(3) such sale occurs in the foreign country in which the affiliate derived more than 50 percent of its gross income for the 3-year period ending with the close of the affiliate's taxable year immediately preceding the year during which such sale occurred,
 
-> any gain from such sale shall be sourced outside the United States.”
+> any gain from such sale shall be sourced outside the United States."
 
-Subsec. (g)(1)(A)(i). Pub. L. 100–647, §1012(d)(11), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “any individual who has a tax home (as defined in section 911(d)(3)) in the United States, and”.
+Subsec. (g)(1)(A)(i). Pub. L. 100–647, §1012(d)(11), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "any individual who has a tax home (as defined in section 911(d)(3)) in the United States, and".
 
-Subsec. (g)(1)(A)(ii). Pub. L. 100–647, §1012(d)(3)(A), struck out “partnership,” after “corporation,”.
+Subsec. (g)(1)(A)(ii). Pub. L. 100–647, §1012(d)(3)(A), struck out "partnership," after "corporation,".
 
 Subsec. (g)(3). Pub. L. 100–647, §1012(d)(6)(A), added par. (3).
 
@@ -304,11 +304,11 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–188, title I, §1704(f)(4)(B), Aug. 20, 1996, 110 Stat. 1880, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 1211 of the Tax Reform Act of 1986 \[Pub. L. 99–514\].”
+Pub. L. 104–188, title I, §1704(f)(4)(B), Aug. 20, 1996, 110 Stat. 1880, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 1211 of the Tax Reform Act of 1986 \[Pub. L. 99–514\]."
 
 #### Effective Date of 1993 Amendment
 
-Pub. L. 103–66, title XIII, §13239(e), Aug. 10, 1993, 107 Stat. 509, provided that: “The amendments made by this section \[amending this section and sections 927, 954, and 993 of this title\] shall apply to sales, exchanges, or other dispositions after the date of the enactment of this Act \[Aug. 10, 1993\].”
+Pub. L. 103–66, title XIII, §13239(e), Aug. 10, 1993, 107 Stat. 509, provided that: "The amendments made by this section \[amending this section and sections 927, 954, and 993 of this title\] shall apply to sales, exchanges, or other dispositions after the date of the enactment of this Act \[Aug. 10, 1993\]."
 
 #### Effective Date of 1990 Amendment
 
@@ -324,13 +324,13 @@ Amendment by section 1012(d)(1)–(4), (6), (8), (9), (11), (12) of Pub. L. 100�
 
 Pub. L. 99–514, title XII, §1211(c), Oct. 22, 1986, 100 Stat. 2536, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section, amending sections 861 to 864, 871, 881, and 904 of this title, and enacting provisions set out below\] shall apply to taxable years beginning after December 31, 1986.
 
-“(2)
+"(2)
 
-Special rule for foreign persons.—In the case of any foreign person other than any controlled foreign corporations (within the meaning of section 957(a) of the Internal Revenue Code of 1954 \[now 1986\]), the amendments made by this section shall apply to transactions entered into after March 18, 1986.”
+Special rule for foreign persons.—In the case of any foreign person other than any controlled foreign corporations (within the meaning of section 957(a) of the Internal Revenue Code of 1954 \[now 1986\]), the amendments made by this section shall apply to transactions entered into after March 18, 1986."
 
 #### Savings Provision
 

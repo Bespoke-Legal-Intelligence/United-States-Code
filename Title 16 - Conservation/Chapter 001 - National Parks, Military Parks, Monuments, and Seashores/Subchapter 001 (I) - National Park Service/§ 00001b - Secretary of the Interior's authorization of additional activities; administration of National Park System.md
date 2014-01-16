@@ -38,5 +38,5 @@ In order to facilitate the administration of the National Park System, the Secre
 
 #### Amendments
 
-<b>1970</b>—Pub. L. 91–383 struck out “and miscellaneous areas administered in connection therewith” after “National Park System” and “and miscellaneous areas” after “aforesaid system” in introductory text and “National Park System” in pars. (1), (2), (4) to (7), and (8) where first appearing.
+<b>1970</b>—Pub. L. 91–383 struck out "and miscellaneous areas administered in connection therewith" after "National Park System" and "and miscellaneous areas" after "aforesaid system" in introductory text and "National Park System" in pars. (1), (2), (4) to (7), and (8) where first appearing.
 

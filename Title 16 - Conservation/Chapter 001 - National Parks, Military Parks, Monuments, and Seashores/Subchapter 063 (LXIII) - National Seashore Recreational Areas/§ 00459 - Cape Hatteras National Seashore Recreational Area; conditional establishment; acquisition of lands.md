@@ -6,5 +6,5 @@ When title to all the lands, except those within the limits of established villa
 
 #### Change of Name
 
-Words “national seashore recreational area” substituted in text for “national seashore” pursuant to act June 29, 1940.
+Words "national seashore recreational area" substituted in text for "national seashore" pursuant to act June 29, 1940.
 

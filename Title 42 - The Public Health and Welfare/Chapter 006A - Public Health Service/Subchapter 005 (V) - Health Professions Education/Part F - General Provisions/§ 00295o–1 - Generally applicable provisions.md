@@ -86,5 +86,5 @@ A prior section 799 of act July 1, 1944, was renumbered section 799B by Pub. L. 
 
 Another prior section 799 of act July 1, 1944, was classified to section 295i of this title prior to the general amendment of this subchapter by Pub. L. 102–408.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

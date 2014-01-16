@@ -8,7 +8,7 @@ General Prohibitions.—Whoever, in a circumstance described in subsection (c), 
 
 &emsp;(2) places any biological agent or toxin, destructive substance, or destructive device in, upon, or near railroad on-track equipment or a mass transportation vehicle with intent to endanger the safety of any person, or with a reckless disregard for the safety of human life;
 
-&emsp;(3) places or releases a hazardous material or a biological agent or toxin on or near any property described in subparagraph (A) or (B) of paragraph (4), with intent to endanger the safety of any person, or with reckless disregard for the safety of human life;
+&emsp;(3) places or releases a hazardous material or a biological agent or toxin on or near anyproperty described in subparagraph (A) or (B) of paragraph (4), with intent to endanger the safety of any person, or with reckless disregard for the safety of human life;
 
 &emsp;(4) sets fire to, undermines, makes unworkable, unusable, or hazardous to work on or use, or places any biological agent or toxin, destructive substance, or destructive device in, upon, or near any—
 
@@ -58,43 +58,43 @@ Circumstances Required for Offense.—A circumstance referred to in subsection (
 
 Definitions.—In this section—
 
-&emsp;(1) the term “biological agent” has the meaning given to that term in section 178(1);
+&emsp;(1) the term "biological agent" has the meaning given to that term in section 178(1);
 
-&emsp;(2) the term “dangerous weapon” means a weapon, device, instrument, material, or substance, animate or inanimate, that is used for, or is readily capable of, causing death or serious bodily injury, including a pocket knife with a blade of less than 2½ inches in length and a box cutter;
+&emsp;(2) the term "dangerous weapon" means a weapon, device, instrument, material, or substance, animate or inanimate, that is used for, or is readily capable of, causing death or serious bodily injury, including a pocket knife with a blade of less than 2½ inches in length and a box cutter;
 
-&emsp;(3) the term “destructive device” has the meaning given to that term in section 921(a)(4);
+&emsp;(3) the term "destructive device" has the meaning given to that term in section 921(a)(4);
 
-&emsp;(4) the term “destructive substance” means an explosive substance, flammable material, infernal machine, or other chemical, mechanical, or radioactive device or material, or matter of a combustible, contaminative, corrosive, or explosive nature, except that the term “radioactive device” does not include any radioactive device or material used solely for medical, industrial, research, or other peaceful purposes;
+&emsp;(4) the term "destructive substance" means an explosive substance, flammable material, infernal machine, or other chemical, mechanical, or radioactive device or material, or matter of a combustible, contaminative, corrosive, or explosive nature, except that the term "radioactive device" does not include any radioactive device or material used solely for medical, industrial, research, or other peaceful purposes;
 
-&emsp;(5) the term “hazardous material” has the meaning given to that term in chapter 51 of title 49;
+&emsp;(5) the term "hazardous material" has the meaning given to that term in chapter 51 of title 49;
 
-&emsp;(6) the term “high-level radioactive waste” has the meaning given to that term in section 2(12) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(12));
+&emsp;(6) the term "high-level radioactive waste" has the meaning given to that term in section2(12) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(12));
 
-&emsp;(7) the term “mass transportation” has the meaning given to that term in section 5302(a)(7) <sup>2</sup> of title 49, except that the term includes intercity bus transportation <sup>3</sup> school bus, charter, and sightseeing transportation and passenger vessel as that term is defined in section 2101(22) of title 46, United States Code;
+&emsp;(7) the term "mass transportation" has the meaning given to that term in section 5302(a)(7) <sup>2</sup> of title 49, except that the term includes intercity bus transportation <sup>3</sup> school bus, charter, and sightseeing transportation and passenger vessel as that term is defined in section 2101(22) of title 46, United States Code;
 
-&emsp;(8) the term “on-track equipment” means a carriage or other contrivance that runs on rails or electromagnetic guideways;
+&emsp;(8) the term "on-track equipment" means a carriage or other contrivance that runs on rails or electromagnetic guideways;
 
-&emsp;(9) the term “railroad on-track equipment” means a train, locomotive, tender, motor unit, freight or passenger car, or other on-track equipment used, operated, or employed by a railroad carrier;
+&emsp;(9) the term "railroad on-track equipment" means a train, locomotive, tender, motor unit, freight or passenger car, or other on-track equipment used, operated, or employed by a railroad carrier;
 
-&emsp;(10) the term “railroad” has the meaning given to that term in chapter 201 of title 49;
+&emsp;(10) the term "railroad" has the meaning given to that term in chapter 201 of title 49;
 
-&emsp;(11) the term “railroad carrier” has the meaning given to that term in chapter 201 of title 49;
+&emsp;(11) the term "railroad carrier" has the meaning given to that term in chapter 201 of title 49;
 
-&emsp;(12) the term “serious bodily injury” has the meaning given to that term in section 1365;
+&emsp;(12) the term "serious bodily injury" has the meaning given to that term in section 1365;
 
-&emsp;(13) the term “spent nuclear fuel” has the meaning given to that term in section 2(23) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(23));
+&emsp;(13) the term "spent nuclear fuel" has the meaning given to that term in section 2(23) of the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101(23));
 
-&emsp;(14) the term “State” has the meaning given to that term in section 2266;
+&emsp;(14) the term "State" has the meaning given to that term in section 2266;
 
-&emsp;(15) the term “toxin” has the meaning given to that term in section 178(2); and
+&emsp;(15) the term "toxin" has the meaning given to that term in section 178(2); and
 
-&emsp;(16) the term “vehicle” means any carriage or other contrivance used, or capable of being used, as a means of transportation on land, on water, or through the air.
+&emsp;(16) the term "vehicle" means any carriage or other contrivance used, or capable of being used, as a means of transportation on land, on water, or through the air.
 
 (Added Pub. L. 109–177, title I, §110(a), Mar. 9, 2006, 120 Stat. 205; amended Pub. L. 110–53, title XV, §1539, Aug. 3, 2007, 121 Stat. 468.)
 
 #### References in Text
 
-Section 5302 of title 49, referred to in subsec. (d)(7), was amended generally by Pub. L. 112–141, div. B, §20004, July 6, 2012, 126 Stat. 623, and, as so amended, no longer defines the term “mass transportation”.
+Section 5302 of title 49, referred to in subsec. (d)(7), was amended generally by Pub. L. 112–141, div. B, §20004, July 6, 2012, 126 Stat. 623, and, as so amended, no longer defines the term "mass transportation".
 
 #### Prior Provisions
 
@@ -102,7 +102,7 @@ A prior section 1992, acts June 25, 1948, ch. 645, 62 Stat. 794; Pub. L. 103–3
 
 #### Amendments
 
-<b>2007</b>—Subsec. (d)(7). Pub. L. 110–53 inserted “intercity bus transportation” after “includes”.
+<b>2007</b>—Subsec. (d)(7). Pub. L. 110–53 inserted "intercity bus transportation" after "includes".
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

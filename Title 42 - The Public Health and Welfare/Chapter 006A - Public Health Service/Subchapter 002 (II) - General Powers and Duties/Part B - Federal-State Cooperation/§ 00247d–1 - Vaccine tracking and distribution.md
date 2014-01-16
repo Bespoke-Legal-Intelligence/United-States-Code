@@ -18,13 +18,13 @@ The Secretary, in order to maintain the confidentiality of relevant information 
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section, such sums for each of fiscal years 2007 through 2011.
+There are authorized to be appropriated to carry out this section, $30,800,000 for each of fiscal years 2014 through 2018.
 
 #### (f) Report to Congress
 
 As part of the National Health Security Strategy described in section 300hh–1 of this title, the Secretary shall provide an update on the implementation of subsections (a) through (d).
 
-(July 1, 1944, ch. 373, title III, §319A, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2316; amended Pub. L. 107–188, title I, §111(1), June 12, 2002, 116 Stat. 611; Pub. L. 109–417, title II, §204(a), Dec. 19, 2006, 120 Stat. 2850.)
+(July 1, 1944, ch. 373, title III, §319A, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2316; amended Pub. L. 107–188, title I, §111(1), June 12, 2002, 116 Stat. 611; Pub. L. 109–417, title II, §204(a), Dec. 19, 2006, 120 Stat. 2850; Pub. L. 113–5, title II, §202(b), Mar. 13, 2013, 127 Stat. 175.)
 
 #### References in Text
 
@@ -32,7 +32,9 @@ Section 264(c) of the Health Insurance Portability and Accountability Act of 199
 
 #### Amendments
 
+<b>2013</b>—Subsec. (e). Pub. L. 113–5 substituted "$30,800,000 for each of fiscal years 2014 through 2018" for "such sums for each of fiscal years 2007 through 2011".
+
 <b>2006</b>—Pub. L. 109–417 amended section catchline and text generally, substituting provisions relating to vaccine tracking and distribution for provisions relating to establishment of capacities to combat threats to public health.
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–188 substituted “five years” for “10 years”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–188 substituted "five years" for "10 years".
 

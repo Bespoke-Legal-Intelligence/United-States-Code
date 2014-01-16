@@ -18,7 +18,7 @@ Any person who procures or causes to be prepared an investigative consumer repor
 
 #### (c) Limitation on liability upon showing of reasonable procedures for compliance with provisions
 
-No person may be held liable for any violation of subsection (a) or (b) of this section if he showsby a preponderance of the evidence that at the time of the violation he maintained reasonable procedures to assure compliance with subsection (a) or (b) of this section.
+No person may be held liable for any violation of subsection (a) or (b) of this section if he shows by a preponderance of the evidence that at the time of the violation he maintained reasonable procedures to assure compliance with subsection (a) or (b) of this section.
 
 #### (d) Prohibitions
 
@@ -28,7 +28,7 @@ No person may be held liable for any violation of subsection (a) or (b) of this 
 
 #### (2) Inquiries
 
-&emsp;A consumer reporting agency shall not make an inquiry for the purpose of preparing an investigative consumer report on a consumer for employment purposes if the making of the inquiry by an employer or prospective employer of the consumer would violate any applicable Federal or State equal employment opportunity law or regulation.
+&emsp;A consumer reporting agency shall not make an inquiry for the purpose of preparing an investigative consumer report on a consumer for employment purposes if the making of the inquiry by an employer or prospective employer of the consumer would violate any applicableFederal or State equal employment opportunity law or regulation.
 
 #### (3) Certain public record information
 
@@ -46,11 +46,11 @@ No person may be held liable for any violation of subsection (a) or (b) of this 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1)(B). Pub. L. 104–208, §§2408(d)(2), 2414(1), inserted “and the written summary of the rights of the consumer prepared pursuant to section 1681g(c) of this title” before the semicolon and substituted “and” for “or” at end.
+<b>1996</b>—Subsec. (a)(1)(B). Pub. L. 104–208, §§2408(d)(2), 2414(1), inserted "and the written summary of the rights of the consumer prepared pursuant to section 1681g(c) of this title" before the semicolon and substituted "and" for "or" at end.
 
-Subsec. (a)(2). Pub. L. 104–208, §2414(2), added par. (2) and struck out former par. (2) which read as follows: “the report is to be used for employment purposes for which the consumer has not specifically applied.”
+Subsec. (a)(2). Pub. L. 104–208, §2414(2), added par. (2) and struck out former par. (2) which read as follows: "the report is to be used for employment purposes for which the consumer has not specifically applied."
 
-Subsec. (b). Pub. L. 104–208, §2414(3), substituted “, make a complete” for “, shall make a complete”.
+Subsec. (b). Pub. L. 104–208, §2414(3), substituted ", make a complete" for ", shall make a complete".
 
 Subsec. (d). Pub. L. 104–208, §2414(4), added subsec. (d).
 

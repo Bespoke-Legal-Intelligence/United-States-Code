@@ -26,9 +26,9 @@
 
 &emsp;&emsp;(B) the lower of the farm program payment yield or the actual yield on a field, as determined by the Secretary, that is similar to the field from which the corn or grain sorghum was obtained.
 
-#### (3) “High moisture state” defined
+#### (3) "High moisture state" defined
 
-&emsp;In this subsection, the term “high moisture state” means corn or grain sorghum having a moisture content in excess of Commodity Credit Corporation standards for marketing assistance loans made by the Secretary under section 7231 of this title.
+&emsp;In this subsection, the term "high moisture state" means corn or grain sorghum having a moisture content in excess of Commodity Credit Corporation standards for marketing assistance loans made by the Secretary under section 7231 of this title.
 
 #### (b) Recourse loans available for seed cotton
 
@@ -66,7 +66,7 @@ Repayment of a recourse loan made under this section shall be at the loan rate e
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277, §101(a) \[title XI, §1126(1)\], inserted “and other fibers” after “seed cotton” in section catchline.
+<b>1998</b>—Pub. L. 105–277, §101(a) \[title XI, §1126(1)\], inserted "and other fibers" after "seed cotton" in section catchline.
 
 Subsecs. (c), (d). Pub. L. 105–277, §101(a) \[title XI, §1126(2), (3)\], added subsec. (c) and redesignated former subsec. (c) as (d).
 

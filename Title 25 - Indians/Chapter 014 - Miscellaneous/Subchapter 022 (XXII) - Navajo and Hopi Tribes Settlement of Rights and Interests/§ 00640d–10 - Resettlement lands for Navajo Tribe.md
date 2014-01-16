@@ -18,7 +18,7 @@ A border of any parcel of land so transferred or acquired shall be within eighte
 
 #### (c) Selection of lands to be transferred or acquired; time period; consultation; restriction of New Mexico lands
 
-Lands to be so transferred or acquired shall, for a period of three years after July 8, 1980, be selected by the Navajo Tribe after consultation with the Commissioner: <i>Provided</i>, That, at the end of such period, the Commissioner shall have the authority to select such lands after consultation with the Navajo Tribe: <i>Provided further</i>, That not to exceed thirty-five thousand acres of lands so transferred or acquired shall be selected within the State of New Mexico.
+Lands to be so transferred or acquired shall, for a period of three years after July 8, 1980, beselected by the Navajo Tribe after consultation with the Commissioner: <i>Provided</i>, That, at the end of such period, the Commissioner shall have the authority to select such lands after consultation with the Navajo Tribe: <i>Provided further</i>, That not to exceed thirty-five thousand acres of lands so transferred or acquired shall be selected within the State of New Mexico.
 
 #### (d) Progress and status of land transfer program; reports to Congressional committees
 
@@ -62,15 +62,15 @@ Subsection (a)(2) of this section, referred to in subsec. (f)(1), (3), means the
 
 #### Codification
 
-In subsec. (e), “chapter 69 of title 31” substituted for “the Act of October 20, 1976 (90 Stat. 2662; 31 U.S.C. 1601 et seq.)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (e), "chapter 69 of title 31" substituted for "the Act of October 20, 1976 (90 Stat. 2662; 31 U.S.C. 1601 et seq.)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-<b>1988</b>—Subsecs. (c), (d), (f)(2). Pub. L. 100–666, §4(b), substituted “Commissioner” for “Commission” wherever appearing.
+<b>1988</b>—Subsecs. (c), (d), (f)(2). Pub. L. 100–666, §4(b), substituted "Commissioner" for "Commission" wherever appearing.
 
-Subsec. (h). Pub. L. 100–666, §§4(b), 8, substituted “by the Commissioner” for “by the Commission” and “December 22, 1974: <i>Provided</i>, That the sole authority for final planning decisions regarding the development of lands acquired pursuant to this subchapter shall rest with the Commissioner until such time as the Commissioner has discharged his statutory responsibility under this subchapter” for “July 8, 1980, who are awaiting relocation under this subchapter”.
+Subsec. (h). Pub. L. 100–666, §§4(b), 8, substituted "by the Commissioner" for "by the Commission" and "December 22, 1974: <i>Provided</i>, That the sole authority for final planning decisions regarding the development of lands acquired pursuant to this subchapter shall rest with the Commissioner until such time as the Commissioner has discharged his statutory responsibility under this subchapter" for "July 8, 1980, who are awaiting relocation under this subchapter".
 
-Subsec. (i). Pub. L. 100–666, §4(b), substituted “Commissioner” for “Commission” in two places.
+Subsec. (i). Pub. L. 100–666, §4(b), substituted "Commissioner" for "Commission" in two places.
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–603, §106(2), inserted provisions relating to transfer without cost to the Navajo Tribe with title taken by the United States in trust for the benefit of the Navajo Tribe as part of the Navajo Reservation of all rights, title, and interests of the United States in the lands described in par. (1), subject to existing leaseholds.
 
@@ -78,7 +78,7 @@ Subsec. (a)(1). Pub. L. 98–603, §106(1), struck out provisions requiring tran
 
 Subsec. (a)(2). Pub. L. 98–603, §106(3), added the par. (2) relating to interests in lands acquired in New Mexico.
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–305 substituted provision authorizing the Secretary to transfer not more than 250,000 acres of land under the jurisdiction of the Bureau of Land Management to the Navajo Tribe, at no cost to the Navajo Tribe, and in order to facilitate this transfer, exchange Bureau of Land Management land, at equal valuation, for State and private land, and to accept title to not more than 150,000 acres of private lands acquired by the Navajo Tribe, with title to both the transferred and privately acquired lands to be held by the United States in trust for the benefit of the Navajo Tribe for provision authorizing the Secretary totransfer not more than 250,000 acres of land under the jurisdiction of the Bureau of Land Management to the Navajo Tribe providing the Navajo Tribe pay the fair market value of the land transferred and providing that title to the transferred land be held by the United States for the benefit of the Navajo Tribe.
+<b>1980</b>—Subsec. (a). Pub. L. 96–305 substituted provision authorizing the Secretary to transfer not more than 250,000 acres of land under the jurisdiction of the Bureau of Land Management to the Navajo Tribe, at no cost to the Navajo Tribe, and in order to facilitate this transfer, exchange Bureau of Land Management land, at equal valuation, for State and private land, and to accept title to not more than 150,000 acres of private lands acquired by the Navajo Tribe, with title to both the transferred and privately acquired lands to be held by the United States in trust for the benefit of the Navajo Tribe for provision authorizing the Secretary to transfer not more than 250,000 acres of land under the jurisdiction of the Bureau of Land Management to the Navajo Tribe providing the Navajo Tribe pay the fair market value of the land transferred and providing that title to the transferred land be held by the United States for the benefit of the Navajo Tribe.
 
 Subsec. (b). Pub. L. 96–305 substituted provision requiring a border of any parcel of land transferred or acquired to be within 18 miles of the present boundary of the Navajo Reservation and providing that, with the exception of the lands unavailable for transfer, any Bureau of Land Management lands within Arizona and New Mexico be available for exchange for lands within 18 miles of the present boundary of the reservation for provision authorizing the United States to take in trust for the benefit of the Navajo Tribe any private lands acquired by the Navajo Tribe which are contiguous or adjacent to the Navajo Reservation and restricting the total acreage of lands transferred or acquired to not more than 250,000 acres.
 
@@ -90,13 +90,13 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 
 Select Committee on Indian Affairs of the Senate redesignated Committee on Indian Affairs of the Senate by section 25 of Senate Resolution No. 71, Feb. 25, 1993, One Hundred Third Congress.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “States”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "States".</i>
 
 <i><sup>2</sup></i><i> So in original. Two pars. designated (2) have been enacted.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “paragraph (1)”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "paragraph (1)".</i>
 
 <i><sup>4</sup></i><i> See References in Text note below.</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be “Commissioner's”.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be "Commissioner's".</i>
 

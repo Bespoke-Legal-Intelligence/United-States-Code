@@ -26,5 +26,5 @@ The Secretary may amend any order issued under this section. The provisions of t
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–185 inserted “, except that an amendment to an order shall not require a referendum to become effective” before period at end.
+<b>1998</b>—Subsec. (c). Pub. L. 105–185 inserted ", except that an amendment to an order shall not require a referendum to become effective" before period at end.
 

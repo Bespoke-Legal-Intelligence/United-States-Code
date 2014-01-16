@@ -6,7 +6,7 @@ Each operator of a coal mine shall take reasonable measures to locate oil and ga
 
 #### (b) Boreholes in advance of work face; distance in advance of work face; distance between boreholes
 
-Whenever any working place approaches within fifty feet of abandoned areas in the mine asshown by surveys made and certified by a registered engineer or surveyor, or within two hundred feet of any other abandoned areas of the mine which cannot be inspected and which may contain dangerous accumulations of water or gas, or within two hundred feet of any workings of an adjacent mine, a borehole or boreholes shall be drilled to a distance of at least twenty feet in advance of the working face of such working place and shall be continually maintained to a distance of at least ten feet in advance of the advancing working face. When there is more than one borehole, they shall be drilled sufficiently close to each other to insure that the advancing working face will not accidentally hole through into abandoned areas or adjacent mines. Boreholes shall also be drilled not more than eight feet apart in the rib of such working place to a distance of at least twenty feet and at an angle of forty-five degrees. Such rib holes shall be drilled in one or both ribs of such working place as may be necessary for adequate protection of miners in such place.
+Whenever any working place approaches within fifty feet of abandoned areas in the mine as shown by surveys made and certified by a registered engineer or surveyor, or within two hundred feet of any other abandoned areas of the mine which cannot be inspected and which may contain dangerous accumulations of water or gas, or within two hundred feet of any workings of an adjacent mine, a borehole or boreholes shall be drilled to a distance of at least twenty feet in advance of the working face of such working place and shall be continually maintained to a distance of at least ten feet in advance of the advancing working face. When there is more than one borehole, they shall be drilled sufficiently close to each other to insure that the advancing working face will not accidentally hole through into abandoned areas or adjacent mines. Boreholes shall also be drilled not more than eight feet apart in the rib of such working place to a distance of at least twenty feet and at an angle of forty-five degrees. Such rib holes shall be drilled in one or both ribs of such working place as may be necessary for adequate protection of miners in such place.
 
 #### (c) Prohibition against smoking; implementation programs
 
@@ -90,11 +90,11 @@ Within one year after the operative date of this subchapter, the Secretary shall
 
 #### References in Text
 
-For the operative date of this subchapter, referred to in subsecs. (e), (f)(4), (g), (h), (k), (m), (r), and (t), seesection 509 of Pub. L. 91–173, set out as an Effective Date note under section 801 of this title.
+For the operative date of this subchapter, referred to in subsecs. (e), (f)(4), (g), (h), (k), (m), (r), and (t), see section 509 of Pub. L. 91–173, set out as an Effective Date note under section 801 of this title.
 
-This chapter, referred to in subsec. (i), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsec. (i), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (m) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (m) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 

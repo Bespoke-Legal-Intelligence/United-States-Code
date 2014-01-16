@@ -144,7 +144,7 @@ Provisions Regarding National Level Bargaining.—
 
 &emsp;&emsp;(C) to the extent agreed by the parties or directed through an independent dispute resolution process agreed upon by the parties, supersede conflicting provisions of all other collective bargaining agreements of the labor organization, including collective bargaining agreements negotiated with an exclusive representative at the level of recognition; and
 
-&emsp;&emsp;(D) except as agreed by the parties or directed through an independent dispute resolution process agreed upon by the parties, not be subject to further negotiations forany purpose, including bargaining at the level of recognition.
+&emsp;&emsp;(D) except as agreed by the parties or directed through an independent dispute resolution process agreed upon by the parties, not be subject to further negotiations for any purpose, including bargaining at the level of recognition.
 
 &emsp;(3) Any independent dispute resolution process agreed to by the parties for the purposes of paragraph (2) shall have the authority to address all issues on which the parties are unable to reach agreement.
 
@@ -176,7 +176,7 @@ Provisions Related to Separation and Retirement Incentives.—
 
 &emsp;(5)(A) Separation pay shall be paid in a lump sum or in installments and shall be equal to the lesser of—
 
-&emsp;&emsp;(i) an amount equal to the amount the employee would be entitled to receive under section 5595(c), if the employee were entitled to payment under such section; or
+&emsp;&emsp;(i) an amount equal to the amount the employee would be entitled to receive undersection 5595(c), if the employee were entitled to payment under such section; or
 
 &emsp;&emsp;(ii) $25,000.
 
@@ -300,7 +300,7 @@ Pub. L. 111–383, div. A, title XI, §1101(d), Jan. 7, 2011, 124 Stat. 4382, pr
 
 #### References to Pub. L. 111–383
 
-Pub. L. 111–383, §1(b), Jan. 7, 2011, 124 Stat. 4137, provided that: “Any reference in this or any other Act to the ‘National Defense Authorization Act for Fiscal Year 2011’ shall be deemed to refer to the ‘Ike Skelton National Defense Authorization Act for Fiscal Year 2011’.”
+Pub. L. 111–383, §1(b), Jan. 7, 2011, 124 Stat. 4137, provided that: “Any reference in this or any other Act tothe ‘National Defense Authorization Act for Fiscal Year 2011’ shall be deemed to refer to the ‘Ike Skelton National Defense Authorization Act for Fiscal Year 2011’.”
 
 #### Reports on Performance Management System and Appointment Procedures
 

@@ -8,7 +8,7 @@ Whoever, in aid of any foreign government, knowingly and willfully possesses or 
 
 Based on title 18, U.S.C., 1940 ed. §98 (June 15, 1917, ch. 30, title XI, §22, 40 Stat. 230; Mar. 28, 1940, ch. 72, §8, 54 Stat. 80).
 
-Definition of “foreign government” was omitted and is incorporated in section 11 of this title.
+Definition of "foreign government" was omitted and is incorporated in section 11 of this title.
 
 Mandatory punishment provision was rephrased in the alternative.
 
@@ -16,5 +16,5 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".
 

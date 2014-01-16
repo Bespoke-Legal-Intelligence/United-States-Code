@@ -22,9 +22,9 @@ The purposes of this chapter are—
 
 &emsp;&emsp;&emsp;(i) the National Fire Plan;
 
-&emsp;&emsp;&emsp;(ii) the report entitled “Protecting People and Sustaining Resources in Fire-Adapted Ecosystems-A Cohesive Strategy” (65 Fed. Reg. 67480); and
+&emsp;&emsp;&emsp;(ii) the report entitled "Protecting People and Sustaining Resources in Fire-Adapted Ecosystems-A Cohesive Strategy" (65 Fed. Reg. 67480); and
 
-&emsp;&emsp;&emsp;(iii) the report entitled “10-Year Comprehensive Strategy: A Collaborative Approach for Reducing Wildland Fire Risks to Communities and the Environment” of the Western Governors’ Association;
+&emsp;&emsp;&emsp;(iii) the report entitled "10-Year Comprehensive Strategy: A Collaborative Approach for Reducing Wildland Fire Risks to Communities and the Environment" of the Western Governors' Association;
 
 &emsp;(6) to provide technical assistance to collaborative efforts by affected entities to develop, implement, and monitor adaptive ecosystem management restoration treatments that are ecologically sound, economically viable, and socially responsible; and
 

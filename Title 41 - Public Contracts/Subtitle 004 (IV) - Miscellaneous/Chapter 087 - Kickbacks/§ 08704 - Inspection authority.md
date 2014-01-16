@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—To ascertain whether there has been a violation of section 8702 of this title with respect to a prime contract, the Comptroller General and the inspector general of the contracting agency, or a representative of the contracting agency designated by the head of the agency if the agency does not have an inspector general, shall have access to and may inspect the facilities and audit the books and records, including electronic data or records, of a prime contractor or subcontractor under a prime contract awarded by the agency.
+In General.—To ascertain whether there has been a violation of section 8702 of this title with respect to a prime contract, the Comptroller General and the inspector general of the contracting agency, or a representative of the contracting agency designated by the head of the agency if the agency does not have an inspector general, shall have access to and may inspectthe facilities and audit the books and records, including electronic data or records, of a prime contractor or subcontractor under a prime contract awarded by the agency.
 
 (b)
 
@@ -26,5 +26,5 @@ Historical and Revision Notes
 
 Mar. 8, 1946, ch. 80, §8, 60 Stat. 37; Pub. L. 86–695, Sept. 2, 1960, 74 Stat. 740; Pub. L. 99–634, §2(a), Nov. 7, 1986, 100 Stat. 3525; Pub. L. 103–355, title VIII, §8301(c)(2), Oct. 13, 1994, 108 Stat. 3397.
 
-In subsection (a), the words “Comptroller General” are substituted for “General Accounting Office” because of 31:702.
+In subsection (a), the words "Comptroller General" are substituted for "General Accounting Office" because of 31:702.
 

@@ -2,7 +2,7 @@
 
 #### (a) Negotiations to exchange
 
-Upon request of the California State Lands Commission (hereinafter in this section referred to as the “Commission”), the Secretary shall enter into negotiations for an agreement to exchange Federal lands or interests therein on the list referred to in subsection (b)(2) of this section for California State School lands or interests therein which are located within the boundaries of one or more of the wilderness areas or park system units designated by this Act (hereinafter in this section referred to as “State School lands.”). The Secretary shall negotiate in good faith to reach a land exchange agreement consistent with the requirements of section 206 of the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1716\].
+Upon request of the California State Lands Commission (hereinafter in this section referred to as the "Commission"), the Secretary shall enter into negotiations for an agreement to exchange Federal lands or interests therein on the list referred to in subsection (b)(2) of this section for California State School lands or interests therein which are located within the boundaries of one or more of the wilderness areas or park system units designated by this Act (hereinafter in this section referred to as "State School lands."). The Secretary shall negotiate in good faith to reach a land exchange agreement consistent with the requirements of section 206 of the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1716\].
 
 #### (b) Preparation of list
 
@@ -16,7 +16,7 @@ Within six months after October 31, 1994, the Secretary shall send to the Commis
 
 &emsp;&emsp;(B) Federal claims in California managed by the Bureau of Reclamation that the Secretary determines are not needed for any Bureau of Reclamation project; and
 
-&emsp;&emsp;(C) any public lands in California that the Secretary, pursuant to the Federal LandPolicy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\], has determined to be suitable for disposal through exchange.
+&emsp;&emsp;(C) any public lands in California that the Secretary, pursuant to the Federal Land Policy and Management Act of 1976 \[43 U.S.C. 1701 et seq.\], has determined to be suitable for disposal through exchange.
 
 &emsp;(3) Any other Federal land, or interest therein, within the State of California, which is or becomes surplus to the needs of the Federal Government. The Secretary may exclude, in the Secretary's discretion, lands located within, or contiguous to, the exterior boundaries of lands held in trust for a federally recognized Indian tribe located in the State of California.
 
@@ -52,5 +52,5 @@ The Federal Land Policy and Management Act of 1976, referred to in subsec. (b)(2
 
 The Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (d), is Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2623, as amended. Title II of the Act is set out as a note under section 2687 of Title 10, Armed Forces. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 2687 of Title 10 and Tables.
 
-The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (d), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which amended section 2687 of Title 10 and enacted provisions set out as a note under section 2687 of Title 10.
+The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (d), is part A of title XXIX of div. B of Pub. L. 101–510, Nov. 5, 1990, 104 Stat. 1808, as amended, which amended section 2687 of Title 10 andenacted provisions set out as a note under section 2687 of Title 10.
 

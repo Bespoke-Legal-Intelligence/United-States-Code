@@ -28,7 +28,7 @@ From funds appropriated under subsection (g), the Secretary, in consultation wit
 
 In order for a State to receive a grant under this section, the eligible agency and the Governor of the State shall jointly designate an entity in the State—
 
-&emsp;(1) to provide support for career guidance and academic counseling programs designed topromote improved career and education decision making by students (and parents, as appropriate) regarding education (including postsecondary education) and training options and preparations for high skill, high wage, or high demand occupations and non-traditional fields;
+&emsp;(1) to provide support for career guidance and academic counseling programs designed to promote improved career and education decision making by students (and parents, as appropriate) regarding education (including postsecondary education) and training options and preparations for high skill, high wage, or high demand occupations and non-traditional fields;
 
 &emsp;(2) to make available to students, parents, teachers, administrators, faculty, and career guidance and academic counselors, and to improve accessibility with respect to, information and planning resources that relate academic and career and technical educational preparation to career goals and expectations;
 

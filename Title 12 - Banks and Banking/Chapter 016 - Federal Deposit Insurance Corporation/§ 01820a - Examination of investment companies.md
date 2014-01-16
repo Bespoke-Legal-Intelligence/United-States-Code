@@ -18,31 +18,31 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Bank holding company
 
-&emsp;The term “bank holding company” has the meaning given the term in section 1841 of this title.
+&emsp;The term "bank holding company" has the meaning given the term in section 1841 of this title.
 
 #### (2) Commission
 
-&emsp;The term “Commission” means the Securities and Exchange Commission.
+&emsp;The term "Commission" means the Securities and Exchange Commission.
 
 #### (3) Corporation
 
-&emsp;The term “Corporation” means the Federal Deposit Insurance Corporation.
+&emsp;The term "Corporation" means the Federal Deposit Insurance Corporation.
 
 #### (4) Federal banking agency
 
-&emsp;The term “Federal banking agency” has the meaning given the term in section 1813(z) of this title.
+&emsp;The term "Federal banking agency" has the meaning given the term in section 1813(z) of this title.
 
 #### (5) Insured depository institution
 
-&emsp;The term “insured depository institution” has the meaning given the term in section 1813(c) of this title.
+&emsp;The term "insured depository institution" has the meaning given the term in section 1813(c) of this title.
 
 #### (6) Registered investment company
 
-&emsp;The term “registered investment company” means an investment company that is registered with the Commission under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\].
+&emsp;The term "registered investment company" means an investment company that is registered with the Commission under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\].
 
 #### (7) Savings and loan holding company
 
-&emsp;The term “savings and loan holding company” has the meaning given the term in section 1467a(a)(1)(D) of this title.
+&emsp;The term "savings and loan holding company" has the meaning given the term in section 1467a(a)(1)(D) of this title.
 
 (Pub. L. 106–102, title I, §115, Nov. 12, 1999, 113 Stat. 1371.)
 

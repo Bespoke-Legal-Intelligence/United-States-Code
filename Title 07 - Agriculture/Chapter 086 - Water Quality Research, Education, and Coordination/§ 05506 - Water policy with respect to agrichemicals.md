@@ -34,15 +34,15 @@ Section was not enacted as part of the Agriculture and Water Policy Coordination
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–246, §7511(c)(14), substituted “the National Institute of Food and Agriculture, in conjunction with the system of State agricultural experiment stations and State and county cooperative extension services; the Economic Research Service;” for “the Cooperative State Research Service in conjunction with the system of State agricultural experiment stations; the Economic Research Service; the Extension Service, in conjunction with State and county cooperative extension services;”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–246, §7511(c)(14), substituted "the National Institute of Food and Agriculture, in conjunction with the system of State agricultural experiment stations and State and county cooperative extension services; the Economic Research Service;" for "the Cooperative State Research Service in conjunction with the system of State agricultural experiment stations; the Economic Research Service; the Extension Service, in conjunction with State and county cooperative extension services;".
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–127 struck out “and section 3125c of this title” before “does not alter”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–127 struck out "and section 3125c of this title" before "does not alter".
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–237, §201(g)(1), inserted “Agricultural” before “Environmental Quality” and substituted “section 5402 of this title” for “section 1612 of this Act”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–237, §201(g)(1), inserted "Agricultural" before "Environmental Quality" and substituted "section 5402 of this title" for "section 1612 of this Act".
 
-Subsec. (b). Pub. L. 102–237, §201(g)(2), substituted “Effect” for “Affect” in heading and inserted reference to section 3125c of this title.
+Subsec. (b). Pub. L. 102–237, §201(g)(2), substituted "Effect" for "Affect" in heading and inserted reference to section 3125c of this title.
 
-Subsec. (c). Pub. L. 102–237, §201(g)(3), inserted “and” after “Animal”.
+Subsec. (c). Pub. L. 102–237, §201(g)(3), inserted "and" after "Animal".
 
 #### Effective Date of 2008 Amendment
 

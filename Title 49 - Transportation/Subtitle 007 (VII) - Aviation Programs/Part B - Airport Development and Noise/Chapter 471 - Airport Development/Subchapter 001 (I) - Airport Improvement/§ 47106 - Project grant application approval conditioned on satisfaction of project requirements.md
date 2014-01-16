@@ -52,7 +52,7 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 (2) The Secretary may approve an application under this subchapter for an airport development project that does not involve the location of an airport or runway, or a major runway extension, at an existing airport without requiring an environmental impact statement related to noise for the project if—
 
-&emsp;(A) completing the project would allow operations at the airport involving aircraft complying with the noise standards prescribed for “stage 3” aircraft in section 36.1 of title 14, Code of Federal Regulations, to replace existing operations involving aircraft that do not comply with those standards; and
+&emsp;(A) completing the project would allow operations at the airport involving aircraft complying with the noise standards prescribed for "stage 3" aircraft in section 36.1 of title 14, Code of Federal Regulations, to replace existing operations involving aircraft that do not comply with those standards; and
 
 &emsp;(B) the project meets the other requirements under this subchapter.
 
@@ -104,7 +104,7 @@ Special rule for fiscal year 2002.—This subsection does not apply to any passe
 
 &emsp;(4)
 
-Covered airport defined.—In this subsection, the term “covered airport” means a commercial service airport—
+Covered airport defined.—In this subsection, the term "covered airport" means a commercial service airport—
 
 &emsp;&emsp;(A) that has more than .25 percent of the total number of passenger boardings each year at all such airports; and
 
@@ -182,75 +182,75 @@ May 21, 1970, Pub. L. 91–258, 84 Stat. 219, §31; added Feb. 18, 1980, Pub. L.
 
 Sept. 3, 1982, Pub. L. 97–248, 96 Stat. 324, §519(b) (related to application); added Dec. 30, 1987, Pub. L. 100–223, §112(2), 101 Stat. 1504.
 
-In subsection (a)(1), the word “reasonably” is omitted as surplus.
+In subsection (a)(1), the word "reasonably" is omitted as surplus.
 
-In subsection (a)(2), the words “carrying out” are substituted for “accomplishment of the purposes of” for consistency in the revised title.
+In subsection (a)(2), the words "carrying out" are substituted for "accomplishment of the purposes of" for consistency in the revised title.
 
-In subsection (a)(3), the words “that portion of” are omitted as surplus.
+In subsection (a)(3), the words "that portion of" are omitted as surplus.
 
-In subsection (a)(5), the words “which submitted the project grant application” and “legal” are omitted as surplus.
+In subsection (a)(5), the words "which submitted the project grant application" and "legal" are omitted as surplus.
 
-In subsection (b), before clause (1), the words “for an airport” are added for clarity. In clause (1), the words “or an agency thereof” are omitted surplus. In clause (3), the words “that the Secretary . . . decides is necessary” are substituted for “when it is determined by the Secretary that any such item is required” to eliminate unnecessary words.
+In subsection (b), before clause (1), the words "for an airport" are added for clarity. In clause (1), the words "or an agency thereof" are omitted surplus. In clause (3), the words "that the Secretary . . . decides is necessary" are substituted for "when it is determined by the Secretary that any such item is required" to eliminate unnecessary words.
 
-In subsection (c)(1)(B), before subclause (i), the words “chief executive officer” are substituted for “Governor” because this chapter applies to the District of Columbia which does not have a Governor. The words “except that the Administrator of the Environmental Protection Agency shall make the certification instead of the chief executive officer if” are substituted for “In any case where . . . certification shall be obtained from such Administrator” for clarity. Subclause (i) is substituted for “such standards have not been approved” for clarity.
+In subsection (c)(1)(B), before subclause (i), the words "chief executive officer" are substituted for "Governor" because this chapter applies to the District of Columbia which does not have a Governor. The words "except that the Administrator of the Environmental Protection Agency shall make the certification instead of the chief executive officer if" are substituted for "In any case where . . . certification shall be obtained from such Administrator" for clarity. Subclause (i) is substituted for "such standards have not been approved" for clarity.
 
-In subsection (c)(2), before clause (A), the words “Notwithstanding any other provision of law” are omitted as surplus. The words “that does not involve the location of an airport or runway, or a major runway extension” are substituted for “(other than an airport development project in which paragraph (7)(A) applies)” for clarity. The words “the preparation of” are omitted as surplus. In clause (B), the words “statutory and administrative” are omitted as surplus.
+In subsection (c)(2), before clause (A), the words "Notwithstanding any other provision of law" are omitted as surplus. The words "that does not involve the location of an airport or runway, or a major runway extension" are substituted for "(other than an airport development project in which paragraph (7)(A) applies)" for clarity. The words "the preparation of" are omitted as surplus. In clause (B), the words "statutory and administrative" are omitted as surplus.
 
-In subsection (c)(4)(A), the words “to the Secretary” are added for clarity.
+In subsection (c)(4)(A), the words "to the Secretary" are added for clarity.
 
-In subsection (c)(5), the words “full and” are omitted as surplus. The words “in writing” are omitted as surplus because of the requirement that the decision be a matter of public record.
+In subsection (c)(5), the words "full and" are omitted as surplus. The words "in writing" are omitted as surplus because of the requirement that the decision be a matter of public record.
 
-In subsection (d)(1), the words “(as defined by section 1711(8) of this Appendix, as in effect on February 18, 1980)” are omitted because of the definition of “air carrier airport” in section 47102 of the revised title.
+In subsection (d)(1), the words "(as defined by section 1711(8) of this Appendix, as in effect on February 18, 1980)" are omitted because of the definition of "air carrier airport" in section 47102 of the revised title.
 
-In subsection (d)(2), the words “Notwithstanding any other provision of the Airport and Airway Improvement Act of 1982 \[49 App. U.S.C. 2201 et seq.\]” and “single” are omitted as surplus.
+In subsection (d)(2), the words "Notwithstanding any other provision of the Airport and Airway Improvement Act of 1982 \[49 App. U.S.C. 2201 et seq.\]" and "single" are omitted as surplus.
 
-In subsection (e)(1) and (2), the word “sponsor” is substituted for “applicant” for consistency.
+In subsection (e)(1) and (2), the word "sponsor" is substituted for "applicant" for consistency.
 
-In subsection (e)(1), before clause (A), the words “under this subchapter” are added for consistency in this section. The word “other” is omitted as surplus.
+In subsection (e)(1), before clause (A), the words "under this subchapter" are added for consistency in this section. The word "other" is omitted as surplus.
 
-In subsection (e)(2)(A), the word “mutual” is omitted as surplus.
+In subsection (e)(2)(A), the word "mutual" is omitted as surplus.
 
-In subsection (e)(3), the words “adversely affected” are substituted for “aggrieved” for consistency in the revised title and with other titles of the United States Code. The words “the date on which” are omitted as surplus.
+In subsection (e)(3), the words "adversely affected" are substituted for "aggrieved" for consistency in the revised title and with other titles of the United States Code. The words "the date on which" are omitted as surplus.
 
 #### Amendments
 
 <b>2012</b>—Subsec. (a)(6). Pub. L. 112–95, §133, added par. (6).
 
-Subsec. (f)(1). Pub. L. 112–95, §111(c)(2)(A)(i), substituted “charge” for “fee”.
+Subsec. (f)(1). Pub. L. 112–95, §111(c)(2)(A)(i), substituted "charge" for "fee".
 
-Subsec. (f)(2). Pub. L. 112–95, §134, struck out “patterns of air service,” after “gate-use requirements,” and “, and airfare levels (as compiled by the Department of Transportation) compared to other large airports” after “common facilities” and inserted “and” after “ground-side capacity,”.
+Subsec. (f)(2). Pub. L. 112–95, §134, struck out "patterns of air service," after "gate-use requirements," and ", and airfare levels (as compiled by the Department of Transportation) compared to other large airports" after "common facilities" and inserted "and" after "ground-side capacity,".
 
-<b>2003</b>—Subsec. (c)(1)(A)(iii). Pub. L. 108–176, §305(1), inserted “and” after semicolon at end.
+<b>2003</b>—Subsec. (c)(1)(A)(iii). Pub. L. 108–176, §305(1), inserted "and" after semicolon at end.
 
 Pub. L. 108–176, §187, added cl. (iii).
 
-Subsec. (c)(1)(B), (C). Pub. L. 108–176, §305(2), (3), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “only if the chief executive officer of the State in which the project will be located certifies in writing to the Secretary that there is reasonable assurance that the project will be located, designed, constructed, and operated in compliance with applicable air and water quality standards, except that the Administrator of the Environmental Protection Agency shall make the certification instead of the chief executive officer if—
+Subsec. (c)(1)(B), (C). Pub. L. 108–176, §305(2), (3), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "only if the chief executive officer of the State in which the project will be located certifies in writing to the Secretary that there is reasonable assurance that the project will be located, designed, constructed, and operated in compliance with applicable air and water quality standards, except that the Administrator of the Environmental Protection Agency shall make the certification instead of the chief executive officer if—
 
-&emsp;“(i) the State has not approved any applicable State or local standards; and
+&emsp;"(i) the State has not approved any applicable State or local standards; and
 
-&emsp;“(ii) the Administrator has prescribed applicable standards; and”.
+&emsp;"(ii) the Administrator has prescribed applicable standards; and".
 
-Subsec. (c)(2)(A). Pub. L. 108–176, §305(4), substituted “stage 3” for “stage 2”.
+Subsec. (c)(2)(A). Pub. L. 108–176, §305(4), substituted "stage 3" for "stage 2".
 
-Subsec. (c)(4), (5). Pub. L. 108–176, §305(5)–(7), redesignated par. (5) as (4), substituted “paragraph (1)(B)” for “paragraph (1)(C)”, and struck out former par. (4) which read as follows:
+Subsec. (c)(4), (5). Pub. L. 108–176, §305(5)–(7), redesignated par. (5) as (4), substituted "paragraph (1)(B)" for "paragraph (1)(C)", and struck out former par. (4) which read as follows:
 
-“(4)(A) Notice of certification or of refusal to certify under paragraph (1)(B) of this subsection shall be provided to the Secretary not later than 60 days after the Secretary receives the application.
+"(4)(A) Notice of certification or of refusal to certify under paragraph (1)(B) of this subsection shall be provided to the Secretary not later than 60 days after the Secretary receives the application.
 
-“(B) The Secretary shall condition approval of the application on compliance with the applicable standards during construction and operation.”
+"(B) The Secretary shall condition approval of the application on compliance with the applicable standards during construction and operation."
 
 <b>2002</b>—Subsec. (g). Pub. L. 107–296 added subsec. (g).
 
-<b>2001</b>—Subsec. (f)(3), (4). Pub. L. 107–71, which directed the amendment of section 47106(f) by adding par. (3) and redesignating former par. (3) as (4), without specifyingthe Code title to be amended, was executed by making the amendments to this section, to reflect the probable intent of Congress.
+<b>2001</b>—Subsec. (f)(3), (4). Pub. L. 107–71, which directed the amendment of section 47106(f) by adding par. (3) and redesignating former par. (3) as (4), without specifying the Code title to be amended, was executed by making the amendments to this section, to reflect the probable intent of Congress.
 
 <b>2000</b>—Subsec. (f). Pub. L. 106–181 added subsec. (f).
 
 <b>1994</b>—Subsecs. (d), (e). Pub. L. 103–305 added subsec. (e), redesignated former subsec. (e) as (d), and struck out former subsec. (d) which read as follows:
 
-“(d)
+"(d)
 
-General Aviation Airport Project Grant Application Approval.—(1) In this subsection, ‘general aviation airport’ means a public airport that is not an air carrier airport.
+General Aviation Airport Project Grant Application Approval.—(1) In this subsection, 'general aviation airport' means a public airport that is not an air carrier airport.
 
-“(2) The Secretary may approve an application under this subchapter for an airport development project included in a project grant application involving the construction or extension of a runway at a general aviation airport located on both sides of a boundary line separating 2 counties within a State only if, before the application is submitted to the Secretary, the project is approved by the governing body of each village incorporated under the laws of the State and located entirely within 5 miles of the nearest boundary of the airport.”
+"(2) The Secretary may approve an application under this subchapter for an airport development project included in a project grant application involving the construction or extension of a runway at a general aviation airport located on both sides of a boundary line separating 2 counties within a State only if, before the application is submitted to the Secretary, the project is approved by the governing body of each village incorporated under the laws of the State and located entirely within 5 miles of the nearest boundary of the airport."
 
 #### Effective Date of 2003 Amendment
 
@@ -268,39 +268,39 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Pub. L. 106–181, title III, §310, Apr. 5, 2000, 114 Stat. 128, provided that:
 
-“(a)
+"(a)
 
 Study.—The Secretary \[of Transportation\] shall conduct a study of Federal environmental requirements related to the planning and approval of airport improvement projects.
 
-“(b)
+"(b)
 
 Contents.—In conducting the study, the Secretary, at a minimum, shall assess—
 
-&emsp;“(1) the current level of coordination among Federal and State agencies in conducting environmental reviews in the planning and approval of airport improvement projects;
+&emsp;"(1) the current level of coordination among Federal and State agencies in conducting environmental reviews in the planning and approval of airport improvement projects;
 
-&emsp;“(2) the role of public involvement in the planning and approval of airport improvement projects;
+&emsp;"(2) the role of public involvement in the planning and approval of airport improvement projects;
 
-&emsp;“(3) the staffing and other resources associated with conducting such environmental reviews; and
+&emsp;"(3) the staffing and other resources associated with conducting such environmental reviews; and
 
-&emsp;“(4) the time line for conducting such environmental reviews.
+&emsp;"(4) the time line for conducting such environmental reviews.
 
-“(c)
+"(c)
 
 Consultation.—The Secretary shall conduct the study in consultation with the Administrator \[of the Federal Aviation Administration\], the heads of other appropriate Federal departments and agencies, airport sponsors, the heads of State aviation agencies, representatives of the design and construction industry, representatives of employee organizations, and representatives of public interest groups.
 
-“(d)
+"(d)
 
-Report.—Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study, together with recommendations for streamlining, if appropriate, the environmental review process in the planning and approval of airport improvement projects.”
+Report.—Not later than 1 year after the date of the enactment of this Act \[Apr. 5, 2000\], the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on the results of the study, together with recommendations for streamlining, if appropriate, the environmental review process in the planning and approval of airport improvement projects."
 
 #### Grants for Engineered Materials Arresting Systems
 
-Pub. L. 106–181, title V, §514(c), Apr. 5, 2000, 114 Stat. 144, provided that: “In making grants under section 47104 of title 49, United States Code, for engineered materials arresting systems, the Secretary \[of Transportation\] shall require the sponsor to demonstrate that the effects of jet blasts have been adequately considered.”
+Pub. L. 106–181, title V, §514(c), Apr. 5, 2000, 114 Stat. 144, provided that: "In making grants under section 47104 of title 49, United States Code, for engineered materials arresting systems, the Secretary \[of Transportation\] shall require the sponsor to demonstrate that the effects of jet blasts have been adequately considered."
 
 #### Grants for Runway Rehabilitation
 
-Pub. L. 106–181, title V, §514(d), Apr. 5, 2000, 114 Stat. 144, provided that: “In any case in which an airport's runways are constrained by physical conditions, the Secretary \[of Transportation\] shall consider alternative means for ensuring runway safety (other than a safety overrun area) when prescribing conditions for grants for runway rehabilitation.”
+Pub. L. 106–181, title V, §514(d), Apr. 5, 2000, 114 Stat. 144, provided that: "In any case in which an airport's runways are constrained by physical conditions, the Secretary \[of Transportation\] shall consider alternative means for ensuring runway safety (other than a safety overrun area) when prescribing conditions for grants for runway rehabilitation."
 
 #### Compliance With Requirements
 
-Pub. L. 106–181, title VII, §737, Apr. 5, 2000, 114 Stat. 172, provided that: “Notwithstanding any other provision of law, in order to avoid unnecessary duplication of expense and effort, the Secretary \[of Transportation\] may authorize the use, in whole or in part, of a completed environmental assessment or environmental impact study for new construction projects on the air operations area of an airport, if the completed assessment or study was for a project at the airport that is substantially similar in nature to the new project. Any such authorized use shall meet all requirements of Federal law for the completion of such an assessment or study.”
+Pub. L. 106–181, title VII, §737, Apr. 5, 2000, 114 Stat. 172, provided that: "Notwithstanding any other provision of law, in order to avoid unnecessary duplication of expense and effort, the Secretary \[of Transportation\] may authorize the use, in whole or in part, of a completed environmental assessment or environmental impact study for new construction projects on the air operations area of an airport, if the completed assessment or study was for a project at the airport that is substantially similar in nature to the new project. Any such authorized use shall meet all requirements of Federal law for the completion of such an assessment or study."
 

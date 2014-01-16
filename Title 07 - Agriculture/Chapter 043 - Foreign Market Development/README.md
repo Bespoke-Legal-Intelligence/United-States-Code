@@ -39,7 +39,7 @@
 | [1766c.](Subchapter%20003%20%28III%29%20-%20Representation%20Allowances%2C%20Regulations%2C%20General%20Provisions%2C%20and%20Authorization%20for%20Appropriations/%C2%A7%2001766c%20-%20Allowances%20and%20benefits.md) | Allowances and benefits. |
 | [1767\.](Subchapter%20003%20%28III%29%20-%20Representation%20Allowances%2C%20Regulations%2C%20General%20Provisions%2C%20and%20Authorization%20for%20Appropriations/%C2%A7%2001767%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [1768\.](Subchapter%20003%20%28III%29%20-%20Representation%20Allowances%2C%20Regulations%2C%20General%20Provisions%2C%20and%20Authorization%20for%20Appropriations/%C2%A7%2001768%20-%20Foreign%20Operations%20Administration%20unaffected.md) | Foreign Operations Administration unaffected. |
-| [1769\.](Subchapter%20003%20%28III%29%20-%20Representation%20Allowances%2C%20Regulations%2C%20General%20Provisions%2C%20and%20Authorization%20for%20Appropriations/%C2%A7%2001769%20-%20%E2%80%9CAgricultural%20commodity%E2%80%9D%20defined.md) | “Agricultural commodity” defined. |
+| [1769\.](Subchapter%20003%20%28III%29%20-%20Representation%20Allowances%2C%20Regulations%2C%20General%20Provisions%2C%20and%20Authorization%20for%20Appropriations/%C2%A7%2001769%20-%20Agricultural%20commodity%20defined.md) | "Agricultural commodity" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

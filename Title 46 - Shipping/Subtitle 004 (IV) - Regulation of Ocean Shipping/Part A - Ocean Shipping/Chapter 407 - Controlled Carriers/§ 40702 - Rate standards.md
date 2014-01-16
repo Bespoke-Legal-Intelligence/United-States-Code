@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “constructive costs” means the costs of another carrier, other than a controlled carrier, operating similar vessels and equipment in the same or a similar trade.
+Definition.—In this section, the term "constructive costs" means the costs of another carrier, other than a controlled carrier, operating similar vessels and equipment in the same or a similar trade.
 
 (b)
 

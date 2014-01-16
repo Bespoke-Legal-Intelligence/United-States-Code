@@ -12,7 +12,7 @@ Except as otherwise provided in this section, neither the Secretary nor any othe
 
 #### (b) Permissible disclosure
 
-A disclosure otherwise prohibited by subsection (a) may be made in connection with the administration or civil or criminal enforcement of any tax imposed by this title. However, any document or information so disclosed may not be—
+A disclosure otherwise prohibited by subsection (a) may be made in connection with theadministration or civil or criminal enforcement of any tax imposed by this title. However, any document or information so disclosed may not be—
 
 &emsp;(1) divulged or made known in any manner whatever by any officer or employee of the United States to any person except in connection with the administration or civil or criminal enforcement of this title, nor
 
@@ -38,9 +38,9 @@ Section 6103(f) shall apply with respect to any return, payment, or registration
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
-Subsec. (d). Pub. L. 94–455, §1202(h)(6), substituted “6103(f)” for “6103(d)”.
+Subsec. (d). Pub. L. 94–455, §1202(h)(6), substituted "6103(f)" for "6103(d)".
 
 #### Effective Date of 1976 Amendment
 

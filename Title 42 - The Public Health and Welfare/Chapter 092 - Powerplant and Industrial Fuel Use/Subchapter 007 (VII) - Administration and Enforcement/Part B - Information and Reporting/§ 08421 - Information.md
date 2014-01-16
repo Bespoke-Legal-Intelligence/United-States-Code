@@ -22,13 +22,13 @@ In the case of responsibilities expressly given by this chapter to the President
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (b), was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (b), was in the original "this Act", meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, known as the Powerplant and Industrial Fuel Use Act of 1978, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 #### Amendments
 
-<b>1995</b>—Subsec. (c)(2). Pub. L. 104–66 struck out par. (2) which read as follows: “The Secretary shall include ineach annual report to the Congress under section 8482 of this title a summary of information received by the Secretary under this subsection.”
+<b>1995</b>—Subsec. (c)(2). Pub. L. 104–66 struck out par. (2) which read as follows: "The Secretary shall include in each annual report to the Congress under section 8482 of this title a summary of information received by the Secretary under this subsection."
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–42 struck out “or major fuel-burning installation” after “powerplant”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–42 struck out "or major fuel-burning installation" after "powerplant".
 
 <b>1981</b>—Subsec. (c). Pub. L. 97–35 added subsec. (c).
 

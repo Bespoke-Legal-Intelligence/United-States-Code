@@ -6,7 +6,7 @@ The terms and conditions of electronic fund transfers involving a consumer's acc
 
 &emsp;(1) the consumer's liability for unauthorized electronic fund transfers and, at the financial institution's option, notice of the advisability of prompt reporting of any loss, theft, or unauthorized use of a card, code, or other means of access;
 
-&emsp;(2) the telephone number and address of the person or office to be notified in the event the consumer believes than <sup>1</sup> an unauthorized electronic fund transfer has been or may be effected;
+&emsp;(2) the telephone number and address of the person or office to be notified in the event theconsumer believes than <sup>1</sup> an unauthorized electronic fund transfer has been or may be effected;
 
 &emsp;(3) the type and nature of electronic fund transfers which the consumer may initiate, including any limitations on the frequency or dollar amount of such transfers, except that the details of such limitations need not be disclosed if their confidentiality is necessary to maintain the security of an electronic fund transfer system, as determined by the Bureau;
 
@@ -48,7 +48,7 @@ For effective date of this subchapter, referred to in subsec. (c), see section 9
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (a), (b). Pub. L. 111–203 substituted “Bureau” for “Board” wherever appearing.
+<b>2010</b>—Subsecs. (a), (b). Pub. L. 111–203 substituted "Bureau" for "Board" wherever appearing.
 
 <b>1999</b>—Subsec. (a)(10). Pub. L. 106–102 added par. (10).
 
@@ -56,5 +56,5 @@ For effective date of this subchapter, referred to in subsec. (c), see section 9
 
 Amendment by Pub. L. 111–203 effective on the designated transfer date, see section 1100H of Pub. L. 111–203, set out as a note under section 552a of Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “that”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "that".</i>
 

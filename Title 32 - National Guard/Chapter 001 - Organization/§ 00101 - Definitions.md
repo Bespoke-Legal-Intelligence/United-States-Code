@@ -2,13 +2,13 @@
 
 In addition to the definitions in sections 1–5 of title 1, the following definitions apply in this title:
 
-&emsp;(1) For purposes of other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, the term “Territory” includes Guam and the Virgin Islands.
+&emsp;(1) For purposes of other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, the term "Territory" includes Guam and the Virgin Islands.
 
-&emsp;(2) “Armed forces” means the Army, Navy, Air Force, Marine Corps, and Coast Guard.
+&emsp;(2) "Armed forces" means the Army, Navy, Air Force, Marine Corps, and Coast Guard.
 
-&emsp;(3) “National Guard” means the Army National Guard and the Air National Guard.
+&emsp;(3) "National Guard" means the Army National Guard and the Air National Guard.
 
-&emsp;(4) “Army National Guard” means that part of the organized militia of the several States and Territories, Puerto Rico, and the District of Columbia, active and inactive, that—
+&emsp;(4) "Army National Guard" means that part of the organized militia of the several States and Territories, Puerto Rico, and the District of Columbia, active and inactive, that—
 
 &emsp;&emsp;(A) is a land force;
 
@@ -18,9 +18,9 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 &emsp;&emsp;(D) is federally recognized.
 
-&emsp;(5) “Army National Guard of the United States” means the reserve component of the Army all of whose members are members of the Army National Guard.
+&emsp;(5) "Army National Guard of the United States" means the reserve component of the Army all of whose members are members of the Army National Guard.
 
-&emsp;(6) “Air National Guard” means that part of the organized militia of the several States and Territories, Puerto Rico, and the District of Columbia, active and inactive, that—
+&emsp;(6) "Air National Guard" means that part of the organized militia of the several States and Territories, Puerto Rico, and the District of Columbia, active and inactive, that—
 
 &emsp;&emsp;(A) is an air force;
 
@@ -30,31 +30,31 @@ In addition to the definitions in sections 1–5 of title 1, the following defin
 
 &emsp;&emsp;(D) is federally recognized.
 
-&emsp;(7) “Air National Guard of the United States” means the reserve component of the Air Force all of whose members are members of the Air National Guard.
+&emsp;(7) "Air National Guard of the United States" means the reserve component of the Air Force all of whose members are members of the Air National Guard.
 
-&emsp;(8) “Officer” means commissioned or warrant officer.
+&emsp;(8) "Officer" means commissioned or warrant officer.
 
-&emsp;(9) “Enlisted member” means a person enlisted in, or inducted, called, or conscripted into, an armed force in an enlisted grade.
+&emsp;(9) "Enlisted member" means a person enlisted in, or inducted, called, or conscripted into, an armed force in an enlisted grade.
 
-&emsp;(10) “Grade” means a step or degree, in a graduated scale of office or military rank, that is established and designated as a grade by law or regulation.
+&emsp;(10) "Grade" means a step or degree, in a graduated scale of office or military rank, that is established and designated as a grade by law or regulation.
 
-&emsp;(11) “Rank” means the order of precedence among members of the armed forces.
+&emsp;(11) "Rank" means the order of precedence among members of the armed forces.
 
-&emsp;(12) “Active duty” means full-time duty in the active military service of the United States. It includes such Federal duty as full-time training duty, annual training duty, and attendance, while in the active military service, at a school designated as a service school by law or by the Secretary of the military department concerned. It does not include full-time National Guard duty.
+&emsp;(12) "Active duty" means full-time duty in the active military service of the United States. It includes such Federal duty as full-time training duty, annual training duty, and attendance, while in the active military service, at a school designated as a service school by law or by the Secretary of the military department concerned. It does not include full-time National Guard duty.
 
-&emsp;(13) “Supplies” includes material, equipment, and stores of all kinds.
+&emsp;(13) "Supplies" includes material, equipment, and stores of all kinds.
 
-&emsp;(14) “Shall” is used in an imperative sense.
+&emsp;(14) "Shall" is used in an imperative sense.
 
-&emsp;(15) “May” is used in a permissive sense. The words “no person may \* \* \*” mean that no person is required, authorized, or permitted to do the act prescribed.
+&emsp;(15) "May" is used in a permissive sense. The words "no person may \* \* \*" mean that no person is required, authorized, or permitted to do the act prescribed.
 
-&emsp;(16) “Includes” means “includes but is not limited to”.
+&emsp;(16) "Includes" means "includes but is not limited to".
 
-&emsp;(17) “Pay” includes basic pay, special pay, incentive pay, retired pay, and equivalent pay, but does not include allowances.
+&emsp;(17) "Pay" includes basic pay, special pay, incentive pay, retired pay, and equivalent pay, but does not include allowances.
 
-&emsp;(18) “Spouse” means husband or wife, as the case may be.
+&emsp;(18) "Spouse" means husband or wife, as the case may be.
 
-&emsp;(19) “Full-time National Guard duty” means training or other duty, other than inactive duty, performed by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member's status as a member of the National Guard of a State or territory, the Commonwealth of Puerto Rico, or the District of Columbia under section 316, 502, 503, 504, or 505 of this title for which the member is entitled to pay from the United States or for which the member has waived pay from the United States.
+&emsp;(19) "Full-time National Guard duty" means training or other duty, other than inactive duty, performed by a member of the Army National Guard of the United States or the Air National Guard of the United States in the member's status as a member of the National Guard of a State or territory, the Commonwealth of Puerto Rico, or the District of Columbia under section 316, 502, 503, 504, or 505 of this title for which the member is entitled to pay from the United States or for which the member has waived pay from the United States.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 596; Pub. L. 85–861, §2(1), Sept. 2, 1958, 72 Stat. 1542; Pub. L. 86–70, §27, June 25, 1959, 73 Stat. 148; Pub. L. 86–624, §22, July 12, 1960, 74 Stat. 417; Pub. L. 92–492, §2(a), Oct. 13, 1972, 86 Stat. 810; Pub. L. 96–513, title V, §507(a), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 96–600, §3(a), Dec. 24, 1980, 94 Stat. 3493; Pub. L. 98–525, title IV, §414(b)(1), Oct. 19, 1984, 98 Stat. 2519; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 109–163, div. A, title X, §1057(b)(1), Jan. 6, 2006, 119 Stat. 3441.)
 
@@ -158,21 +158,21 @@ Sept. 19, 1951, ch. 407, §305 (less last 16 words), 65 Stat. 330.
 
 The definitions in clauses (2) and (9)–(17) reflect the adoption of terminology which, though undefined in the source statutes restated in this title, represent the closest practicable approximation of the ways in which the terms defined have been most commonly used. Where established uses conflict, a choice has been made.
 
-In clause (1), the definition of “Territory” in 32:4c is executed throughout this revised title by specific reference, where applicable, to the Territories, Puerto Rico, and the Canal Zone.
+In clause (1), the definition of "Territory" in 32:4c is executed throughout this revised title by specific reference, where applicable, to the Territories, Puerto Rico, and the Canal Zone.
 
-In clause (2), a definition of “National Guard” is inserted for clarity.
+In clause (2), a definition of "National Guard" is inserted for clarity.
 
-In clause (3)(A), the words “a land force” are substituted for 32:2. The National Defense Act of 1916, §117 (last 66 words), 39 Stat. 212, is not contained in 32:2. It is also omitted from the revised section as repealed by the act of February 28, 1925, ch. 374, §3, 43 Stat. 1081.
+In clause (3)(A), the words "a land force" are substituted for 32:2. The National Defense Act of 1916, §117 (last 66 words), 39 Stat. 212, is not contained in 32:2. It is also omitted from the revised section as repealed by the act of February 28, 1925, ch. 374, §3, 43 Stat. 1081.
 
-In clauses (3) and (4), the word “Army” is inserted to distinguish the organizations defined from their Air Force counterparts.
+In clauses (3) and (4), the word "Army" is inserted to distinguish the organizations defined from their Air Force counterparts.
 
-In clauses (3) and (5), the words “unless the context or subject matter otherwise requires—” and “as provided in this title”, in 32:4b, are omitted as surplusage.
+In clauses (3) and (5), the words "unless the context or subject matter otherwise requires—" and "as provided in this title", in 32:4b, are omitted as surplusage.
 
-In clauses (3)(B) and (5)(B), the words “has its officers appointed” are substituted for the word “officered”, in 32:4b.
+In clauses (3)(B) and (5)(B), the words "has its officers appointed" are substituted for the word "officered", in 32:4b.
 
 In clauses (4) and (6), only that much of the description of the composition of the Army National Guard of the United States and the Air National Guard of the United States is used as is necessary to distinguish these reserve components, respectively, from the other reserve components.
 
-In clause (5)(A), the words “an air force” are substituted for the words “for which Federal responsibility has been vested in the Secretary of the Air Force or the Department of the Air Force pursuant to law”, in 10:1835, and for 32:2 (less applicability to Army National Guard), to make the definition of “Air National Guard” parallel with the definition of “Army National Guard”, and to make explicit the intent of Congress in creating the Air National Guard, that the organized militia henceforth should consist of three mutually exhaustive classes comprising the Army, Air, and Naval militia.
+In clause (5)(A), the words "an air force" are substituted for the words "for which Federal responsibility has been vested in the Secretary of the Air Force or the Department of the Air Force pursuant to law", in 10:1835, and for 32:2 (less applicability to Army National Guard), to make the definition of "Air National Guard" parallel with the definition of "Army National Guard", and to make explicit the intent of Congress in creating the Air National Guard, that the organized militia henceforth should consist of three mutually exhaustive classes comprising the Army, Air, and Naval militia.
 
 In clause (8), words showing how enlisted members became such are inserted to make clear that enlistment is not the only method of becoming a member in an enlisted grade.
 
@@ -198,25 +198,25 @@ Act
 
 \[No source\].
 
-In clause (2), the term “armed forces” is defined for legislative convenience and is defined the same as that term is defined in section 101(4) of title 10, United States Code.
+In clause (2), the term "armed forces" is defined for legislative convenience and is defined the same as that term is defined in section 101(4) of title 10, United States Code.
 
 The definition in clause (18) reflects the adoption of terminology which, though undefined in the source statutes restated in this title, represents the closest practicable approximation of the ways in which the term has been commonly used.
 
 #### Amendments
 
-<b>2006</b>—Cl. (1). Pub. L. 109–163 amended cl. (1) generally. Prior to amendment, cl. (1) read as follows: “ ‘Territory’ means any Territory organized after this title is enacted, so long as it remains a Territory. However, for purposes of this title and other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, ‘Territory’ includes Guam and the Virgin Islands.”
+<b>2006</b>—Cl. (1). Pub. L. 109–163 amended cl. (1) generally. Prior to amendment, cl. (1) read as follows: " 'Territory' means any Territory organized after this title is enacted, so long as it remains a Territory. However, for purposes of this title and other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, 'Territory' includes Guam and the Virgin Islands."
 
-<b>1988</b>—Cls. (4), (6). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Cls. (4), (6). Pub. L. 100–456 struck out "the Canal Zone," after "Puerto Rico,".
 
-<b>1984</b>—Cl. (12). Pub. L. 98–525, §414(b)(1)(A), inserted at end “It does not include full-time National Guard duty.”
+<b>1984</b>—Cl. (12). Pub. L. 98–525, §414(b)(1)(A), inserted at end "It does not include full-time National Guard duty."
 
 Cl. (19). Pub. L. 98–525, §414(b)(1)(B), added cl. (19).
 
 <b>1980</b>—Cl. (1). Pub. L. 96–600 inserted reference to Guam.
 
-Cl. (12). Pub. L. 96–513 struck out “duty on the active list,” after “Federal duty as”.
+Cl. (12). Pub. L. 96–513 struck out "duty on the active list," after "Federal duty as".
 
-<b>1972</b>—Cl. (1). Pub. L. 92–492 inserted provision including within term “Territory” for purposes of this title and other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, the Virgin Islands.
+<b>1972</b>—Cl. (1). Pub. L. 92–492 inserted provision including within term "Territory" for purposes of this title and other laws relating to the militia, the National Guard, the Army National Guard of the United States, and the Air National Guard of the United States, the Virgin Islands.
 
 <b>1960</b>—Cl. (1). Pub. L. 86–624 struck out reference to Hawaii.
 
@@ -236,39 +236,39 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 Pub. L. 112–241, §1, Jan. 10, 2013, 126 Stat. 2372, provided that:
 
-“(a)
+"(a)
 
 Findings.—Congress makes the following findings:
 
-&emsp;“(1) In 1629, Captain John Endicott organized the first militia in the Massachusetts Bay Colony in Salem.
+&emsp;"(1) In 1629, Captain John Endicott organized the first militia in the Massachusetts Bay Colony in Salem.
 
-&emsp;“(2) The colonists had adopted the English militia system, which required all males between the ages of 16 and 60 to possess arms and participate in the defense of the community.
+&emsp;"(2) The colonists had adopted the English militia system, which required all males between the ages of 16 and 60 to possess arms and participate in the defense of the community.
 
-&emsp;“(3) In 1636, the Massachusetts General Court ordered the organization of three militia regiments, designated as the North, South, and East regiments.
+&emsp;"(3) In 1636, the Massachusetts General Court ordered the organization of three militia regiments, designated as the North, South, and East regiments.
 
-&emsp;“(4) These regiments drilled once a week and provided guard details each evening to sound the alarm in case of attack.
+&emsp;"(4) These regiments drilled once a week and provided guard details each evening to sound the alarm in case of attack.
 
-&emsp;“(5) The East Regiment, the predecessor of the 101st Engineer Battalion, assembled as a regiment for the first time in 1637 on the Salem Common, marking the beginning of the Massachusetts National Guard and the National Guard of the United States.
+&emsp;"(5) The East Regiment, the predecessor of the 101st Engineer Battalion, assembled as a regiment for the first time in 1637 on the Salem Common, marking the beginning of the Massachusetts National Guard and the National Guard of the United States.
 
-&emsp;“(6) Since 1785, Salem's own Second Corps of Cadets (101st and 102nd Field Artillery) has celebrated the anniversary of that first muster.
+&emsp;"(6) Since 1785, Salem's own Second Corps of Cadets (101st and 102nd Field Artillery) has celebrated the anniversary of that first muster.
 
-&emsp;“(7) As the policy contained in section 102 of title 32, United States Code, clearly expresses, the National Guard continues its historic mission of providing units for the first line defense of the United States and current missions throughout the world.
+&emsp;"(7) As the policy contained in section 102 of title 32, United States Code, clearly expresses, the National Guard continues its historic mission of providing units for the first line defense of the United States and current missions throughout the world.
 
-&emsp;“(8) The designation of the City of Salem, Massachusetts, as the Birthplace of the National Guard of the United States will contribute positively to tourism and economic development in the city, create jobs, and instill pride in both the local and State communities.
+&emsp;"(8) The designation of the City of Salem, Massachusetts, as the Birthplace of the National Guard of the United States will contribute positively to tourism and economic development in the city, create jobs, and instill pride in both the local and State communities.
 
-“(b)
+"(b)
 
 Designation of Salem, Massachusetts, as National Guard Birthplace.—In light of the findings made in subsection (a), the City of Salem, Massachusetts, is hereby designated as the Birthplace of the National Guard of the United States.
 
-“(c)
+"(c)
 
 Responsibilities.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Military ceremonial support.—The Chief of the National Guard Bureau, in conjunction with the Secretary of the Army, the Secretary of the Air Force, the Council of Governors, and the Adjutant General of the State of Massachusetts, shall provide military ceremonial support at the dedication of any monument, plaque, or other form of official recognition placed in Salem, Massachusetts, celebrating the designation of Salem, Massachusetts, as the Birthplace of the National Guard of the United States.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Funding source.—Federal funds may not be used to design, procure, prepare, install, or maintain any monument, plaque, or other form of official recognition placed in Salem, Massachusetts, celebrating the designation of Salem, Massachusetts, as the Birthplace of the National Guard of the United States, but the Adjutant General of the State of Massachusetts may accept and expend contributions of non-Federal funds for this purpose.”
+Funding source.—Federal funds may not be used to design, procure, prepare, install, or maintain any monument, plaque, or other form of official recognition placed in Salem, Massachusetts, celebrating the designation of Salem, Massachusetts, as the Birthplace of the National Guard of the United States, but the Adjutant General of the State of Massachusetts may accept and expend contributions of non-Federal funds for this purpose."
 

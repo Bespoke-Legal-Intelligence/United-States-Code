@@ -4,13 +4,13 @@
 
 (1) For each fiscal year through fiscal year 2017, the Secretary shall pay to each eligible institution such sums as may be necessary to pay to each eligible student (defined in accordance with section 1091 of this title) for each academic year during which that student is in attendance at an institution of higher education, as an undergraduate, a Federal Pell Grant in the amount for which that student is eligible, as determined pursuant to subsection (b) of this section. Not less than 85 percent of such sums shall be advanced to eligible institutions prior to the start of each payment period and shall be based upon an amount requested by the institution as needed to pay eligible students until such time as the Secretary determines and publishes in the Federal Register with an opportunity for comment, an alternative payment system that provides payments to institutions in an accurate and timely manner, except that this sentence shall not be construed to limit the authority of the Secretary to place an institution on a reimbursement system of payment.
 
-(2) Nothing in this section shall be interpreted to prohibit the Secretary from paying directly to students, in advance of the beginning of the academic term, an amount for which they are eligible, in cases where the eligible institution elects not to participate in the disbursement system required by paragraph (1).
+(2) Nothing in this section shall be interpreted to prohibit the Secretary from paying directlyto students, in advance of the beginning of the academic term, an amount for which they are eligible, in cases where the eligible institution elects not to participate in the disbursement system required by paragraph (1).
 
-(3) Grants made under this subpart shall be known as “Federal Pell Grants”.
+(3) Grants made under this subpart shall be known as "Federal Pell Grants".
 
 #### (b) Purpose and amount of grants
 
-(1) The purpose of this subpart is to provide a Federal Pell Grant that in combination withreasonable family and student contribution and supplemented by the programs authorized under subparts 3 and 4 of this part, will meet at least 75 percent of a student's cost of attendance (as defined in section 1087ll of this title), unless the institution determines that a greater amount of assistance would better serve the purposes of this section.
+(1) The purpose of this subpart is to provide a Federal Pell Grant that in combination with reasonable family and student contribution and supplemented by the programs authorized under subparts 3 and 4 of this part, will meet at least 75 percent of a student's cost of attendance (as defined in section 1087ll of this title), unless the institution determines that a greater amount of assistance would better serve the purposes of this section.
 
 (2)(A) The amount of the Federal Pell Grant for a student eligible under this part shall be—
 
@@ -84,11 +84,11 @@ Adjustment amounts.—
 
 &emsp;&emsp;(i)
 
-Award year 2013–2014.—For award year 2013–2014, the amount determined under this subparagraph for purposes of subparagraph (B)(iii) shall be equal to—
+Award year 2013–2014.—For award year 2013–2014, the amount determined under thissubparagraph for purposes of subparagraph (B)(iii) shall be equal to—
 
 &emsp;&emsp;&emsp;(I) $5,550 or the total maximum Federal Pell Grant for the preceding award year (as determined under clause (iv)(II)), whichever is greater, increased by a percentage equal to the annual adjustment percentage for award year 2013–2014, reduced by
 
-&emsp;&emsp;&emsp;(II) $4,860 or the maximum Federal Pell Grant for which a student was eligible forthe preceding award year, as specified in the last enacted appropriation Act applicable to that year, whichever is greater; and
+&emsp;&emsp;&emsp;(II) $4,860 or the maximum Federal Pell Grant for which a student was eligible for the preceding award year, as specified in the last enacted appropriation Act applicable to that year, whichever is greater; and
 
 &emsp;&emsp;&emsp;(III) rounded to the nearest $5.
 
@@ -110,9 +110,9 @@ Subsequent award years.—For award year 2018–2019 and each subsequent award y
 
 Definitions.—For purposes of this subparagraph—
 
-&emsp;&emsp;&emsp;(I) the term “annual adjustment percentage” as applied to an award year, is equal to the estimated percentage change in the Consumer Price Index (as determined by the Secretary, using the definition in section 1087rr(f) of this title) for the most recent calendar year ending prior to the beginning of that award year; and
+&emsp;&emsp;&emsp;(I) the term "annual adjustment percentage" as applied to an award year, is equal to the estimated percentage change in the Consumer Price Index (as determined by the Secretary, using the definition in section 1087rr(f) of this title) for the most recent calendar year ending prior to the beginning of that award year; and
 
-&emsp;&emsp;&emsp;(II) the term “total maximum Federal Pell Grant” as applied to a preceding award year, is equal to the sum of—
+&emsp;&emsp;&emsp;(II) the term "total maximum Federal Pell Grant" as applied to a preceding award year, is equal to the sum of—
 
 &emsp;&emsp;&emsp;&emsp;(aa) the maximum Federal Pell Grant for which a student is eligible during an award year, as specified in the last enacted appropriation Act applicable to that preceding award year; and
 
@@ -152,7 +152,7 @@ Availability of funds.—The amounts made available by subparagraph (A) for any 
 
 (1) The Secretary shall from time to time set dates by which students shall file applications for Federal Pell Grants under this subpart.
 
-(2) Each student desiring a Federal Pell Grant for any year shall file an application thereforcontaining such information and assurances as the Secretary may deem necessary to enable the Secretary to carry out the functions and responsibilities of this subpart.
+(2) Each student desiring a Federal Pell Grant for any year shall file an application therefor containing such information and assurances as the Secretary may deem necessary to enable the Secretary to carry out the functions and responsibilities of this subpart.
 
 #### (e) Distribution of grants to students
 
@@ -196,13 +196,13 @@ Any institution of higher education which enters into an agreement with the Secr
 
 #### (2) Sanctions subject to appeal opportunity
 
-&emsp;No institution may be subject to the terms of this subsection unless the institution has had the opportunity to appeal the institution's default rate determination under regulations issued by the Secretary for the loan program authorized under part B or C of this subchapter, as applicable. This subsection shall not apply to an institution that was not participating in the loan program authorized under part B or C of this subchapter on October 7, 1998, unless the institution subsequently participates in the loan programs.
+&emsp;No institution may be subject to the terms of this subsection unless the institution hashad the opportunity to appeal the institution's default rate determination under regulations issued by the Secretary for the loan program authorized under part B or C of this subchapter, as applicable. This subsection shall not apply to an institution that was not participating in the loan program authorized under part B or C of this subchapter on October 7, 1998, unless the institution subsequently participates in the loan programs.
 
-(Pub. L. 89–329, title IV, §401, formerly §411, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1309; amended Pub. L. 100–50, §3(a),June 3, 1987, 101 Stat. 337; renumbered §401 and amended Pub. L. 102–325, title IV, §§401(a)–(h), 402(a)(3), July 23, 1992, 106 Stat. 479–482; Pub. L. 103–208, §2(b)(1)–(5), (k)(1), Dec. 20, 1993, 107 Stat. 2458, 2485; Pub. L. 103–322, title II, §20411(a), Sept. 13, 1994, 108 Stat. 1828; Pub. L. 105–244, title IV, §401(a)–(f), (g)(3), (4), Oct. 7, 1998, 112 Stat. 1650–1652; Pub. L. 110–84, title I, §§101(a), 102, Sept. 27, 2007, 121 Stat. 784; Pub. L. 110–315, title I, §103(b)(3), title IV, §401(a)(1), (b), (c)(1), Aug. 14, 2008, 122 Stat. 3088, 3188, 3189; Pub. L. 111–5, div. A, title VIII, §806, Feb. 17, 2009, 123 Stat. 190; Pub. L. 111–39, title IV, §401(a)(2), (3), July 1, 2009, 123 Stat. 1938; Pub. L. 111–152, title II, §2101(a), (b)(1), Mar. 30, 2010, 124 Stat. 1071, 1073; Pub. L. 112–10, div. B, title VIII, §1860(a), Apr. 15, 2011, 125 Stat. 169; Pub. L. 112–25, title V, §501, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–74, div. F, title III, §309(a), (f), Dec. 23, 2011, 125 Stat. 1100, 1103.)
+(Pub. L. 89–329, title IV, §401, formerly §411, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1309; amended Pub. L. 100–50, §3(a), June 3, 1987, 101 Stat. 337; renumbered §401 and amended Pub. L. 102–325, title IV, §§401(a)–(h), 402(a)(3), July 23, 1992, 106 Stat. 479–482; Pub. L. 103–208, §2(b)(1)–(5), (k)(1), Dec. 20, 1993, 107 Stat. 2458, 2485; Pub. L. 103–322, title II, §20411(a), Sept. 13, 1994, 108 Stat. 1828; Pub. L. 105–244, title IV, §401(a)–(f), (g)(3), (4), Oct. 7, 1998, 112 Stat. 1650–1652; Pub. L. 110–84, title I, §§101(a), 102, Sept. 27, 2007, 121 Stat. 784; Pub. L. 110–315, title I, §103(b)(3), title IV, §401(a)(1), (b), (c)(1), Aug. 14, 2008, 122 Stat. 3088, 3188, 3189; Pub. L. 111–5, div. A, title VIII, §806, Feb. 17, 2009, 123 Stat. 190; Pub. L. 111–39, title IV, §401(a)(2), (3), July 1, 2009, 123 Stat. 1938; Pub. L. 111–152, title II, §2101(a), (b)(1), Mar. 30, 2010, 124 Stat. 1071, 1073; Pub. L. 112–10, div. B, title VIII, §1860(a), Apr. 15, 2011, 125 Stat. 169; Pub. L. 112–25, title V, §501, Aug. 2, 2011, 125 Stat. 266; Pub. L. 112–74, div. F, title III, §309(a), (f), Dec. 23, 2011, 125 Stat. 1100, 1103.)
 
 #### Codification
 
-In subsec. (i), “chapter 81 of title 41” substituted for “subtitle D of title V of Public Law 100–690” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (i), "chapter 81 of title 41" substituted for "subtitle D of title V of Public Law 100–690" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Prior Provisions
 
@@ -214,21 +214,21 @@ Another prior section 401 of Pub. L. 89–329, title IV, as added and amended Pu
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(2)(A)(ii). Pub. L. 112–10, §1860(a)(1), substituted “paragraph (7)(B)” for “paragraph (8)(B)”.
+<b>2011</b>—Subsec. (b)(2)(A)(ii). Pub. L. 112–10, §1860(a)(1), substituted "paragraph (7)(B)" for "paragraph (8)(B)".
 
-Subsec. (b)(4). Pub. L. 112–74, §309(a)(1), substituted period at end for “, except that a student who is eligible for a Federal Pell Grant in an amount that is equal to or greater than five percent of such Federal Pell Grant amount but less than ten percent of such Federal Pell Grant amount shall be awarded a Federal Pell grant in the amount of ten percent of such Federal Pell Grant amount.”
+Subsec. (b)(4). Pub. L. 112–74, §309(a)(1), substituted period at end for ", except that a student who is eligible for a Federal Pell Grant in an amount that is equal to or greater than five percent of such Federal Pell Grant amount but less than ten percent of such Federal Pell Grant amount shall be awarded a Federal Pell grant in the amount of ten percent of such Federal Pell Grant amount."
 
 Subsec. (b)(5). Pub. L. 112–10, §1860(a)(4), redesignated par. (6) as (5).
 
 Pub. L. 112–10, §1860(a)(2), struck out par. (5) which read as follows:
 
-“(A) The Secretary shall award a student not more than two Federal Pell Grants during a single award year to permit such student to accelerate the student's progress toward a degree or certificate if the student is enrolled—
+"(A) The Secretary shall award a student not more than two Federal Pell Grants during a single award year to permit such student to accelerate the student's progress toward a degree or certificate if the student is enrolled—
 
-&emsp;“(i) on at least a half-time basis for a period of more than one academic year, or more than two semesters or an equivalent period of time, during a single award year; and
+&emsp;"(i) on at least a half-time basis for a period of more than one academic year, or more than two semesters or an equivalent period of time, during a single award year; and
 
-&emsp;“(ii) in a program of instruction at an institution of higher education for which the institution awards an associate or baccalaureate degree or a certificate.
+&emsp;"(ii) in a program of instruction at an institution of higher education for which the institution awards an associate or baccalaureate degree or a certificate.
 
-“(B) In the case of a student receiving more than one Federal Pell Grant in a single award year under subparagraph (A), the total amount of Federal Pell Grants awarded to such student for the award year may exceed the maximum basic grant level specified in the appropriate appropriations Act for such award year.”
+"(B) In the case of a student receiving more than one Federal Pell Grant in a single award year under subparagraph (A), the total amount of Federal Pell Grants awarded to such student for the award year may exceed the maximum basic grant level specified in the appropriate appropriations Act for such award year."
 
 Subsec. (b)(6). Pub. L. 112–10, §1860(a)(4), redesignated par. (7) as (6). Former par. (6) redesignated (5).
 
@@ -236,43 +236,43 @@ Subsec. (b)(7). Pub. L. 112–10, §1860(a)(4), redesignated par. (8) as (7). Fo
 
 Subsec. (b)(7)(A)(iv). Pub. L. 112–74, §309(f), amended cl. (iv) generally. Prior to amendment, cl. (iv) authorized appropriations for fiscal years 2011 to 2021 and succeeding fiscal years.
 
-Subsec. (b)(7)(A)(iv)(II). Pub. L. 112–25, §501(1), substituted “$13,183,000,000” for “$3,183,000,000”.
+Subsec. (b)(7)(A)(iv)(II). Pub. L. 112–25, §501(1), substituted "$13,183,000,000" for "$3,183,000,000".
 
-Subsec. (b)(7)(A)(iv)(III). Pub. L. 112–25, §501(2), substituted “$7,000,000,000” for “$0”.
+Subsec. (b)(7)(A)(iv)(III). Pub. L. 112–25, §501(2), substituted "$7,000,000,000" for "$0".
 
 Subsec. (b)(8). Pub. L. 112–10, §1860(a)(4), redesignated par. (8) as (7).
 
-Subsec. (b)(8)(A)(iv). Pub. L. 112–10, §1860(a)(3)(A), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: “to carry out this section, $13,500,000,000 for fiscal year 2011.”
+Subsec. (b)(8)(A)(iv). Pub. L. 112–10, §1860(a)(3)(A), amended cl. (iv) generally. Prior to amendment, cl. (iv) read as follows: "to carry out this section, $13,500,000,000 for fiscal year 2011."
 
-Subsec. (b)(8)(C)(i)(I), (ii)(I). Pub. L. 112–10, §1860(a)(3)(B), substituted “clause (iv)(II)” for “clause (v)(II)”.
+Subsec. (b)(8)(C)(i)(I), (ii)(I). Pub. L. 112–10, §1860(a)(3)(B), substituted "clause (iv)(II)" for "clause (v)(II)".
 
-Subsec. (c)(5). Pub. L. 112–74, §309(a)(2), substituted “12” for “18” in two places and struck out at end “The provisions of this paragraph shall apply only to a student who receives a Federal Pell Grant for the first time on or after July 1, 2008.”
+Subsec. (c)(5). Pub. L. 112–74, §309(a)(2), substituted "12" for "18" in two places and struck out at end "The provisions of this paragraph shall apply only to a student who receives a Federal Pell Grant for the first time on or after July 1, 2008."
 
 <b>2010</b>—Subsec. (b)(2)(A). Pub. L. 111–152, §2101(a)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) established grant amounts for academic years 2009–2010 to 2014–2015.
 
-Subsec. (b)(4). Pub. L. 111–152, §2101(b)(1)(A), substituted “maximum amount of a Federal Pell Grant award determined under paragraph (2)(A)” for “maximum basic grant level specified in the appropriate appropriation Act” and substituted “such Federal Pell Grant amount” for “such level” wherever appearing.
+Subsec. (b)(4). Pub. L. 111–152, §2101(b)(1)(A), substituted "maximum amount of a Federal Pell Grant award determined under paragraph (2)(A)" for "maximum basic grant level specified in the appropriate appropriation Act" and substituted "such Federal Pell Grant amount" for "such level" wherever appearing.
 
-Subsec. (b)(6). Pub. L. 111–152, §2101(b)(1)(B), substituted “the maximum amount of a Federal Pell Grant award determined under paragraph (2)(A), for which a student is eligible during such award year” for “the grant level specified in the appropriate Appropriation Act for this subpart for such year”.
+Subsec. (b)(6). Pub. L. 111–152, §2101(b)(1)(B), substituted "the maximum amount of a Federal Pell Grant award determined under paragraph (2)(A), for which a student is eligible during such award year" for "the grant level specified in the appropriate Appropriation Act for this subpart for such year".
 
-Subsec. (b)(8)(A). Pub. L. 111–152, §2101(a)(2)(A)(i), struck out “, to carry out subparagraph (B) of this paragraph” after “are appropriated” in introductory provisions.
+Subsec. (b)(8)(A). Pub. L. 111–152, §2101(a)(2)(A)(i), struck out ", to carry out subparagraph (B) of this paragraph" after "are appropriated" in introductory provisions.
 
 Subsec. (b)(8)(A)(iii) to (x). Pub. L. 111–152, §2101(a)(2)(A)(ii), added cls. (iii) and (iv) and struck out former cls. (iii) to (x), which appropriated additional funds for fiscal years 2010 to 2017.
 
-Subsec. (b)(8)(B). Pub. L. 111–152, §2101(a)(2)(B)(i), substituted “clauses (i) through (iii) of subparagraph (A)” for “subparagraph (A)” in introductory provisions.
+Subsec. (b)(8)(B). Pub. L. 111–152, §2101(a)(2)(B)(i), substituted "clauses (i) through (iii) of subparagraph (A)" for "subparagraph (A)" in introductory provisions.
 
-Subsec. (b)(8)(B)(ii). Pub. L. 111–152, §2101(a)(2)(B)(ii), substituted “, 2011–2012, and 2012–2013” for “and 2011–2012”.
+Subsec. (b)(8)(B)(ii). Pub. L. 111–152, §2101(a)(2)(B)(ii), substituted ", 2011–2012, and 2012–2013" for "and 2011–2012".
 
-Subsec. (b)(8)(B)(iii). Pub. L. 111–152, §2101(a)(2)(B)(iii), added cl. (iii) and struck out former cl. (iii) which read as follows: “$1,090 for award year 2012–2013.”
+Subsec. (b)(8)(B)(iii). Pub. L. 111–152, §2101(a)(2)(B)(iii), added cl. (iii) and struck out former cl. (iii) which read as follows: "$1,090 for award year 2012–2013."
 
-Subsec. (b)(8)(C). Pub. L. 111–152, §2101(a)(2)(C), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: “The Secretary shall only award an increased amount of a Federal Pell Grant under this section for any award year pursuant to the provisions of this paragraph to students who qualify for a Federal Pell Grant award under the maximum grant award enacted in the annual appropriation Act for such award year without regard to the provisions of this paragraph.”
+Subsec. (b)(8)(C). Pub. L. 111–152, §2101(a)(2)(C), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: "The Secretary shall only award an increased amount of a Federal Pell Grant under this section for any award year pursuant to the provisions of this paragraph to students who qualify for a Federal Pell Grant award under the maximum grant award enacted in the annual appropriation Act for such award year without regard to the provisions of this paragraph."
 
-<b>2009</b>—Subsec. (a)(1). Pub. L. 111–39, §401(a)(2)(A), substituted “manner,” for “manner,,”.
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–39, §401(a)(2)(A), substituted "manner," for "manner,,".
 
 Subsec. (b)(1). Pub. L. 111–39, §401(a)(2)(B), made technical amendment to reference in original act which appears in text as reference to this section.
 
-Subsec. (b)(8)(A)(ii), (iii). Pub. L. 111–5, which directed amendment of par. (9)(A) by substituting “$2,733,000,000” for “$2,090,000,000” in cl. (ii) and “$3,861,000,000” for “$3,030,000,000” in cl. (iii), was executed by making the substitutions in par. (8)(A) to reflect the probable intent of Congress.
+Subsec. (b)(8)(A)(ii), (iii). Pub. L. 111–5, which directed amendment of par. (9)(A) by substituting "$2,733,000,000" for "$2,090,000,000" in cl. (ii) and "$3,861,000,000" for "$3,030,000,000" in cl. (iii), was executed by making the substitutions in par. (8)(A) to reflect the probable intent of Congress.
 
-Subsec. (b)(8)(A)(vi), (viii). Pub. L. 111–39, §401(a)(2)(C), which directed amendment of par. (9)(A) by substituting “$258,000,000” for “$105,000,000” in cl. (vi) and “$4,452,000,000” for “$4,400,000,000” in cl. (viii) effective Aug. 14, 2008, was executed by making the substitutions in par. (8)(A). Subsec. (b)(8) would have been subsec. (b)(9) on Aug. 14, 2008, but for the probable intent execution of the amendment by Pub. L. 110–84, §101(a)(2). See 2007 Amendment note below.
+Subsec. (b)(8)(A)(vi), (viii). Pub. L. 111–39, §401(a)(2)(C), which directed amendment of par. (9)(A) by substituting "$258,000,000" for "$105,000,000" in cl. (vi) and "$4,452,000,000" for "$4,400,000,000" in cl. (viii) effective Aug. 14, 2008, was executed by making the substitutions in par. (8)(A). Subsec. (b)(8) would have been subsec. (b)(9) on Aug. 14, 2008, but for the probable intent execution of the amendment by Pub. L. 110–84, §101(a)(2). See 2007 Amendment note below.
 
 Subsec. (f)(4). Pub. L. 111–39, §401(a)(3), struck out par. (4) which attributed expected family contribution of zero to certain eligible students whose parent or guardian died as a result of performing military service in Iraq or Afghanistan after Sept. 11, 2001. See section 1070h of this title.
 
@@ -280,37 +280,37 @@ Subsec. (f)(4). Pub. L. 111–39, §401(a)(3), struck out par. (4) which attribu
 
 Subsec. (b)(2)(A). Pub. L. 110–315, §401(a)(1)(A), amended subpar. (A) generally, substituting Pell Grant amounts for academic years 2009 to 2015 for amounts for academic years 1999 to 2004.
 
-Subsec. (b)(4). Pub. L. 110–315, §401(a)(1)(C), substituted “ten percent of the maximum basic grant level specified in the appropriate appropriation Act for such academic year, except that a student who is eligible for a Federal Pell Grant in an amount that is equal to or greater than five percent of such level but less than ten percent of such level shall be awarded a Federal Pell grant in the amount of ten percent of such level” for “$400, except that a student who is eligible for a Federal Pell Grant that is equal to or greater than $200 but less than $400 shall be awarded a Federal Pell Grant of $400”.
+Subsec. (b)(4). Pub. L. 110–315, §401(a)(1)(C), substituted "ten percent of the maximum basic grant level specified in the appropriate appropriation Act for such academic year, except that a student who is eligible for a Federal Pell Grant in an amount that is equal to or greater than five percent of such level but less than ten percent of such level shall be awarded a Federal Pell grant in the amount of ten percent of such level" for "$400, except that a student who is eligible for a Federal Pell Grant that is equal to or greater than $200 but less than $400 shall be awarded a Federal Pell Grant of $400".
 
-Subsec. (b)(5). Pub. L. 110–315, §401(a)(1)(D), added par. (5) and struck out former par. (5) which read: “The Secretary may allow, on a case-by-case basis, a student to receive 2 Pell grants during a single award year, if—
+Subsec. (b)(5). Pub. L. 110–315, §401(a)(1)(D), added par. (5) and struck out former par. (5) which read: "The Secretary may allow, on a case-by-case basis, a student to receive 2 Pell grants during a single award year, if—
 
-&emsp;“(i) the student is enrolled full-time in an associate or baccalaureate degree program of study that is 2 years or longer at an eligible institution that is computed in credit hours; and
+&emsp;"(i) the student is enrolled full-time in an associate or baccalaureate degree program of study that is 2 years or longer at an eligible institution that is computed in credit hours; and
 
-&emsp;“(ii) the student completes course work toward completion of an associate or baccalaureate degree that exceeds the requirements for a full academic year as defined by the institution.
+&emsp;"(ii) the student completes course work toward completion of an associate or baccalaureate degree that exceeds the requirements for a full academic year as defined by the institution.
 
-“(B) The Secretary shall promulgate regulations implementing this paragraph.”
+"(B) The Secretary shall promulgate regulations implementing this paragraph."
 
-Subsec. (b)(7). Pub. L. 110–315, §401(a)(1)(E), inserted before period at end “or who is subject to an involuntary civil commitment upon completion of a period of incarceration for a forcible or nonforcible sexual offense (as determined in accordance with the Federal Bureau of Investigation's Uniform Crime Reporting Program)”.
+Subsec. (b)(7). Pub. L. 110–315, §401(a)(1)(E), inserted before period at end "or who is subject to an involuntary civil commitment upon completion of a period of incarceration for a forcible or nonforcible sexual offense (as determined in accordance with the Federal Bureau of Investigation's Uniform Crime Reporting Program)".
 
 Subsec. (b)(8)(D). Pub. L. 110–315, §401(a)(1)(F)(i), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows:
 
-“(D)
+"(D)
 
-Formula otherwise unaffected.—Except as provided in subparagraphs (B) and (C), nothing in this paragraph shall be construed to alter the requirements of this section, or authorize the imposition of additional requirements, for the determination and allocation of Federal Pell Grants under this section.”
+Formula otherwise unaffected.—Except as provided in subparagraphs (B) and (C), nothing in this paragraph shall be construed to alter the requirements of this section, or authorize the imposition of additional requirements, for the determination and allocation of Federal Pell Grants under this section."
 
 Subsec. (b)(8)(F). Pub. L. 110–315, §401(a)(1)(F)(ii), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows:
 
-“(F)
+"(F)
 
-Use of fiscal year funds for award years.—The amounts made available by subparagraph (A) for any fiscal year shall be available and remain available for use under subparagraph (B) for the award year that begins in such fiscal year.”
+Use of fiscal year funds for award years.—The amounts made available by subparagraph (A) for any fiscal year shall be available and remain available for use under subparagraph (B) for the award year that begins in such fiscal year."
 
 Subsec. (c)(5). Pub. L. 110–315, §401(b), added par. (5).
 
-Subsec. (f)(3). Pub. L. 110–315, §103(b)(3), substituted “to the Committee on Appropriations of the Senate, the Committee on Appropriations of the House of Representatives, and the authorizing committees” for “to the Committee on Appropriations and the Committee on Labor and Human Resources of the Senate and the Committee on Appropriations and the Committee on Education and the Workforce of the House of Representatives”.
+Subsec. (f)(3). Pub. L. 110–315, §103(b)(3), substituted "to the Committee on Appropriations of the Senate, the Committee on Appropriations of the House of Representatives, and the authorizing committees" for "to the Committee on Appropriations and the Committee on Labor and Human Resources of the Senate and the Committee on Appropriations and the Committee on Education and the Workforce of the House of Representatives".
 
 Subsec. (f)(4). Pub. L. 110–315, §401(c)(1), added par. (4).
 
-<b>2007</b>—Subsec. (a)(1). Pub. L. 110–84, §102(a), substituted “fiscal year 2017” for “fiscal year 2004”.
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–84, §102(a), substituted "fiscal year 2017" for "fiscal year 2004".
 
 Subsec. (b)(3) to (7). Pub. L. 110–84, §101(a), redesignated pars. (4) to (8) as (3) to (7), respectively, and struck out former par. (3) which related to the amount of a student's basic grant for any academic year for which an appropriation Act provided a maximum basic grant of more than $2,700.
 
@@ -318,157 +318,157 @@ Subsec. (b)(8). Pub. L. 110–84, §101(a)(2), which directed redesignation of p
 
 Subsec. (b)(9). Pub. L. 110–84, §102(b), added par. (9).
 
-<b>1998</b>—Pub. L. 105–244, §401(g)(3)(A), substituted “Federal Pell” for “Basic educational opportunity” in section catchline.
+<b>1998</b>—Pub. L. 105–244, §401(g)(3)(A), substituted "Federal Pell" for "Basic educational opportunity" in section catchline.
 
-Subsec. (a)(1). Pub. L. 105–244, §401(g)(3)(C), substituted “Federal Pell Grant” for “basic grant”.
+Subsec. (a)(1). Pub. L. 105–244, §401(g)(3)(C), substituted "Federal Pell Grant" for "basic grant".
 
-Pub. L. 105–244, §401(a), substituted “For each fiscal year through fiscal year 2004, the Secretary shall” for “The Secretary shall, during the period beginning July 1, 1972, and ending September 30, 1998,” and inserted “until such time as the Secretary determines and publishes in the Federal Register with an opportunity for comment, an alternative payment system that provides payments to institutions in an accurate and timely manner,” after “pay eligible students”.
+Pub. L. 105–244, §401(a), substituted "For each fiscal year through fiscal year 2004, the Secretary shall" for "The Secretary shall, during the period beginning July 1, 1972, and ending September 30, 1998," and inserted "until such time as the Secretary determines and publishes in the Federal Register with an opportunity for comment, an alternative payment system that provides payments to institutions in an accurate and timely manner," after "pay eligible students".
 
-Subsec. (a)(3). Pub. L. 105–244, §401(g)(3)(B), substituted “Grants made” for “Basic grants made”.
+Subsec. (a)(3). Pub. L. 105–244, §401(g)(3)(B), substituted "Grants made" for "Basic grants made".
 
-Subsec. (b)(1). Pub. L. 105–244, §401(g)(3)(C), substituted “Federal Pell Grant” for “basic grant”.
+Subsec. (b)(1). Pub. L. 105–244, §401(g)(3)(C), substituted "Federal Pell Grant" for "basic grant".
 
-Subsec. (b)(2)(A). Pub. L. 105–244, §401(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “The amount of the basic grant for a student eligible under this part shall be—
+Subsec. (b)(2)(A). Pub. L. 105–244, §401(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "The amount of the basic grant for a student eligible under this part shall be—
 
-&emsp;“(i) $3,700 for academic year 1993–1994,
+&emsp;"(i) $3,700 for academic year 1993–1994,
 
-&emsp;“(ii) $3,900 for academic year 1994–1995,
+&emsp;"(ii) $3,900 for academic year 1994–1995,
 
-&emsp;“(iii) $4,100 for academic year 1995–1996,
+&emsp;"(iii) $4,100 for academic year 1995–1996,
 
-&emsp;“(iv) $4,300 for academic year 1996–1997, and
+&emsp;"(iv) $4,300 for academic year 1996–1997, and
 
-&emsp;“(v) $4,500 for academic year 1997–1998,
+&emsp;"(v) $4,500 for academic year 1997–1998,
 
-> less an amount equal to the amount determined to be the expected family contribution with respect to that student for that year.”
+> less an amount equal to the amount determined to be the expected family contribution with respect to that student for that year."
 
-Subsec. (b)(2)(B). Pub. L. 105–244, §401(g)(3)(C), substituted “Federal Pell Grant” for “basic grant”.
+Subsec. (b)(2)(B). Pub. L. 105–244, §401(g)(3)(C), substituted "Federal Pell Grant" for "basic grant".
 
 Subsec. (b)(3). Pub. L. 105–244, §401(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows:
 
-“(3)(A) For any academic year for which an appropriation Act provides a maximum basic grant in an amount in excess of $2,400, the amount of a student's basic grant shall equal $2,400 plus—
+"(3)(A) For any academic year for which an appropriation Act provides a maximum basic grant in an amount in excess of $2,400, the amount of a student's basic grant shall equal $2,400 plus—
 
-&emsp;“(i) one-half of the amount by which such maximum basic grant exceeds $2,400; plus
+&emsp;"(i) one-half of the amount by which such maximum basic grant exceeds $2,400; plus
 
-&emsp;“(ii) the lesser of—
+&emsp;"(ii) the lesser of—
 
-&emsp;&emsp;“(I) the remaining one-half of such excess; or
+&emsp;&emsp;"(I) the remaining one-half of such excess; or
 
-&emsp;&emsp;“(II) the sum of the student's tuition and the student's allowance determined under subparagraph (B), if applicable.
+&emsp;&emsp;"(II) the sum of the student's tuition and the student's allowance determined under subparagraph (B), if applicable.
 
-“(B) For purposes of subparagraph (A)(ii)(II), a student's allowance is $750 if the student has dependent care expenses (as defined in section 1087ll(8) of this title) or disability related expenses (as defined in section 1087ll(9) of this title).”
+"(B) For purposes of subparagraph (A)(ii)(II), a student's allowance is $750 if the student has dependent care expenses (as defined in section 1087ll(8) of this title) or disability related expenses (as defined in section 1087ll(9) of this title)."
 
-Subsec. (b)(4), (5). Pub. L. 105–244, §401(g)(3)(C), substituted “Federal Pell Grant” for “basic grant” wherever appearing.
+Subsec. (b)(4), (5). Pub. L. 105–244, §401(g)(3)(C), substituted "Federal Pell Grant" for "basic grant" wherever appearing.
 
 Subsec. (b)(6). Pub. L. 105–244, §401(d), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, and added subpar. (B).
 
-Subsec. (b)(7), (8). Pub. L. 105–244, §401(g)(3)(C), substituted “Federal Pell Grant” for “basic grant” wherever appearing.
+Subsec. (b)(7), (8). Pub. L. 105–244, §401(g)(3)(C), substituted "Federal Pell Grant" for "basic grant" wherever appearing.
 
-Subsec. (c)(1). Pub. L. 105–244, §401(g)(3)(D), substituted “Federal Pell Grants” for “basic grants”.
+Subsec. (c)(1). Pub. L. 105–244, §401(g)(3)(D), substituted "Federal Pell Grants" for "basic grants".
 
-Subsec. (c)(4). Pub. L. 105–244, §401(g)(3)(C), substituted “Federal Pell Grant” for “basic grant” in introductory provisions.
+Subsec. (c)(4). Pub. L. 105–244, §401(g)(3)(C), substituted "Federal Pell Grant" for "basic grant" in introductory provisions.
 
 Pub. L. 105–244, §401(e), added par. (4).
 
-Subsec. (d)(1). Pub. L. 105–244, §401(g)(3)(D), substituted “Federal Pell Grants” for “basic grants”.
+Subsec. (d)(1). Pub. L. 105–244, §401(g)(3)(D), substituted "Federal Pell Grants" for "basic grants".
 
-Subsecs. (d)(2), (f)(1). Pub. L. 105–244, §401(g)(3)(C), substituted “Federal Pell Grant” for “basic grant”.
+Subsecs. (d)(2), (f)(1). Pub. L. 105–244, §401(g)(3)(C), substituted "Federal Pell Grant" for "basic grant".
 
-Subsec. (f)(3). Pub. L. 105–244, §401(g)(4), substituted “Education and the Workforce” for “Education and Labor”.
+Subsec. (f)(3). Pub. L. 105–244, §401(g)(4), substituted "Education and the Workforce" for "Education and Labor".
 
 Subsec. (j). Pub. L. 105–244, §401(f), added subsec. (j).
 
 <b>1994</b>—Subsec. (b)(8). Pub. L. 103–322 amended par. (8) generally. Prior to amendment, par. (8) read as follows:
 
-“(8)(A) No basic grant shall be awarded to an incarcerated student under this subpart that exceeds the sum of the amount of tuition and fees normally assessed by the institution of higher education for the course of study such student is pursuing plus an allowance (determined in accordance with regulations issued by the Secretary) for books and supplies associated with such course of study, except that no basic grant shall be awarded to any incarcerated student serving under sentence of death or any life sentence without eligibility for parole or release.
+"(8)(A) No basic grant shall be awarded to an incarcerated student under this subpart that exceeds the sum of the amount of tuition and fees normally assessed by the institution of higher education for the course of study such student is pursuing plus an allowance (determined in accordance with regulations issued by the Secretary) for books and supplies associated with such course of study, except that no basic grant shall be awarded to any incarcerated student serving under sentence of death or any life sentence without eligibility for parole or release.
 
-“(B) Basic grants under this subpart shall only be awarded to incarcerated individuals in a State if such grants are used to supplement and not supplant the level of postsecondary education assistance provided by such State to incarcerated individuals in fiscal year 1988.”
+"(B) Basic grants under this subpart shall only be awarded to incarcerated individuals in a State if such grants are used to supplement and not supplant the level of postsecondary education assistance provided by such State to incarcerated individuals in fiscal year 1988."
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–208, §2(b)(1), inserted before period at end of second sentence “, except that this sentence shall not be construed to limit the authority of the Secretary to place an institution on a reimbursement system of payment”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–208, §2(b)(1), inserted before period at end of second sentence ", except that this sentence shall not be construed to limit the authority of the Secretary to place an institution on a reimbursement system of payment".
 
 Subsec. (b)(2)(B). Pub. L. 103–208, §2(k)(1), amended directory language of Pub. L. 102–325, §401(d)(2)(A). See 1992 Amendment note below.
 
-Subsec. (b)(6). Pub. L. 103–208, §2(b)(2)–(4), substituted “single award year” for “single 12-month period” in introductory provisions, “an associate or baccalaureate” for “a baccalaureate” in subpar. (A), and “an associate or baccalaureate” for “a bachelor's” in subpar. (B).
+Subsec. (b)(6). Pub. L. 103–208, §2(b)(2)–(4), substituted "single award year" for "single 12-month period" in introductory provisions, "an associate or baccalaureate" for "a baccalaureate" in subpar. (A), and "an associate or baccalaureate" for "a bachelor's" in subpar. (B).
 
-Subsec. (i). Pub. L. 103–208, §2(b)(5), substituted “subtitle D of title V” for “part D of title V”.
+Subsec. (i). Pub. L. 103–208, §2(b)(5), substituted "subtitle D of title V" for "part D of title V".
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–325, §401(a), substituted “September 30, 1998” for “September 30, 1992” and “subsection (b) of this section” for “paragraph (2)”.
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–325, §401(a), substituted "September 30, 1998" for "September 30, 1992" and "subsection (b) of this section" for "paragraph (2)".
 
-Subsec. (a)(3). Pub. L. 102–325, §401(b), substituted “Federal Pell Grants” for “Pell Grants”.
+Subsec. (a)(3). Pub. L. 102–325, §401(b), substituted "Federal Pell Grants" for "Pell Grants".
 
-Subsec. (b)(1). Pub. L. 102–325, §401(c), struck out “(A) as determined under paragraph (2), will meet 60 percent of a student's cost of attendance (as defined in section 1070a–6 of this title); and (B)” after “basic grant that” and substituted “family and student” for “parental or independent student”, “subparts 3 and 4” for “subparts 2 and 3”, and “will meet at least 75 percent” for “will meet 75 percent”.
+Subsec. (b)(1). Pub. L. 102–325, §401(c), struck out "(A) as determined under paragraph (2), will meet 60 percent of a student's cost of attendance (as defined in section 1070a–6 of this title); and (B)" after "basic grant that" and substituted "family and student" for "parental or independent student", "subparts 3 and 4" for "subparts 2 and 3", and "will meet at least 75 percent" for "will meet 75 percent".
 
 Subsec. (b)(2)(A)(i) to (v). Pub. L. 102–325, §401(d)(1), added cls. (i) to (v) and struck out former cls. (i) to (v) which read as follows:
 
-“(i) $2,300 for academic year 1987–1988,
+"(i) $2,300 for academic year 1987–1988,
 
-“(ii) $2,500 for academic year 1988–1989,
+"(ii) $2,500 for academic year 1988–1989,
 
-“(iii) $2,700 for academic year 1989–1990,
+"(iii) $2,700 for academic year 1989–1990,
 
-“(iv) $2,900 for academic year 1990–1991, and
+"(iv) $2,900 for academic year 1990–1991, and
 
-“(v) $3,100 for academic year 1991–1992,”.
+"(v) $3,100 for academic year 1991–1992,".
 
-Subsec. (b)(2)(B). Pub. L. 102–325, §401(d)(2)(A), as amended by Pub. L. 103–208, §2(k)(1), inserted “(including a student who attends an institution of higher education on less than a half-time basis)” in first sentence after “full-time basis” the first time appearing.
+Subsec. (b)(2)(B). Pub. L. 102–325, §401(d)(2)(A), as amended by Pub. L. 103–208, §2(k)(1), inserted "(including a student who attends an institution of higher education on less than a half-time basis)" in first sentence after "full-time basis" the first time appearing.
 
-Pub. L. 102–325, §401(d)(2)(B), inserted “, computed in accordance with this subpart” before period at end of first sentence.
+Pub. L. 102–325, §401(d)(2)(B), inserted ", computed in accordance with this subpart" before period at end of first sentence.
 
-Subsec. (b)(3). Pub. L. 102–325, §401(d)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The amount of a basic grant to which a student is entitled under this subpart for any academic year shall not exceed 60 percent of the cost of attendance (as defined in section 1070a–6 of this title) at the institution at which the student is in attendance for that year.”
+Subsec. (b)(3). Pub. L. 102–325, §401(d)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The amount of a basic grant to which a student is entitled under this subpart for any academic year shall not exceed 60 percent of the cost of attendance (as defined in section 1070a–6 of this title) at the institution at which the student is in attendance for that year."
 
-Subsec. (b)(4). Pub. L. 102–325, §401(d)(4), substituted “section 1087ll” for “section 1070a–6”.
+Subsec. (b)(4). Pub. L. 102–325, §401(d)(4), substituted "section 1087ll" for "section 1070a–6".
 
-Subsec. (b)(5). Pub. L. 102–325, §401(d)(5), substituted “$400, except that a student who is eligible for a basic grant that is equal to or greater than $200 but less than $400 shall be awarded a basic grant of $400” for “$200”.
+Subsec. (b)(5). Pub. L. 102–325, §401(d)(5), substituted "$400, except that a student who is eligible for a basic grant that is equal to or greater than $200 but less than $400 shall be awarded a basic grant of $400" for "$200".
 
 Subsec. (b)(6) to (8). Pub. L. 102–325, §401(d)(6), added pars. (6) to (8) and struck out former pars. (6) and (7) which limited or prohibited basic grants from funds appropriated for fiscal years prior to 1992 to students attending on a less than half-time basis.
 
-Subsec. (c)(1). Pub. L. 102–325, §401(e)(1), substituted “any period during which the student is enrolled in a noncredit or remedial course of study as defined in paragraph (2) shall not be counted for the purpose of this paragraph.” for “—
+Subsec. (c)(1). Pub. L. 102–325, §401(e)(1), substituted "any period during which the student is enrolled in a noncredit or remedial course of study as defined in paragraph (2) shall not be counted for the purpose of this paragraph." for "—
 
-&emsp;“(A) such period may not exceed the full-time equivalent of—
+&emsp;"(A) such period may not exceed the full-time equivalent of—
 
-&emsp;&emsp;“(i) 5 academic years in the case of an undergraduate degree or certificate program normally requiring 4 years or less;
+&emsp;&emsp;"(i) 5 academic years in the case of an undergraduate degree or certificate program normally requiring 4 years or less;
 
-&emsp;&emsp;“(ii) 6 academic years in the case of an undergraduate degree or certificate program normally requiring more than 4 years;
+&emsp;&emsp;"(ii) 6 academic years in the case of an undergraduate degree or certificate program normally requiring more than 4 years;
 
-&emsp;“(B) any period during which the student is enrolled in a noncredit or remedial course of study as defined in paragraph (2) shall not be counted for the purpose of subparagraph (A); and
+&emsp;"(B) any period during which the student is enrolled in a noncredit or remedial course of study as defined in paragraph (2) shall not be counted for the purpose of subparagraph (A); and
 
-&emsp;“(C) an institution of higher education at which the student is in attendance may waive subparagraph (A) for undue hardship based on—
+&emsp;"(C) an institution of higher education at which the student is in attendance may waive subparagraph (A) for undue hardship based on—
 
-&emsp;&emsp;“(i) the death of a relative of the student;
+&emsp;&emsp;"(i) the death of a relative of the student;
 
-&emsp;&emsp;“(ii) the personal injury or illness of the student; or
+&emsp;&emsp;"(ii) the personal injury or illness of the student; or
 
-&emsp;&emsp;“(iii) special circumstances as determined by the institution.”
+&emsp;&emsp;"(iii) special circumstances as determined by the institution."
 
-Subsec. (c)(2). Pub. L. 102–325, §401(e)(2), inserted at end “Nothing in this section shall exclude from eligibility programs of study abroad that are approved for credit by the home institution at which the student is enrolled.”
+Subsec. (c)(2). Pub. L. 102–325, §401(e)(2), inserted at end "Nothing in this section shall exclude from eligibility programs of study abroad that are approved for credit by the home institution at which the student is enrolled."
 
-Subsec. (f)(1). Pub. L. 102–325, §401(f)(1), substituted “, as a part of its regular output document, the expected family contribution” for “an estimate of the eligibility index” in introductory provisions and “expected family contribution” for “eligibility index” in subpars. (A), (B), and (D).
+Subsec. (f)(1). Pub. L. 102–325, §401(f)(1), substituted ", as a part of its regular output document, the expected family contribution" for "an estimate of the eligibility index" in introductory provisions and "expected family contribution" for "eligibility index" in subpars. (A), (B), and (D).
 
-Subsec. (f)(3). Pub. L. 102–325, §401(f)(2), substituted “expected family contribution” for “eligibility index”.
+Subsec. (f)(3). Pub. L. 102–325, §401(f)(2), substituted "expected family contribution" for "eligibility index".
 
-Subsec. (g). Pub. L. 102–325, §401(g), struck out “Adjustments for” before “insufficient appropriations” in heading and amended text generally. Prior to amendment, text read as follows:
+Subsec. (g). Pub. L. 102–325, §401(g), struck out "Adjustments for" before "insufficient appropriations" in heading and amended text generally. Prior to amendment, text read as follows:
 
-“(1) If, for any fiscal year, the funds appropriated for payments under this subpart are insufficient to satisfy fully all entitlements, as calculated under subsection (b) of this section, the amount paid with respect to each entitlement shall be—
+"(1) If, for any fiscal year, the funds appropriated for payments under this subpart are insufficient to satisfy fully all entitlements, as calculated under subsection (b) of this section, the amount paid with respect to each entitlement shall be—
 
-&emsp;“(A) the full amount for any student whose expected family contribution is $200 or less, or
+&emsp;"(A) the full amount for any student whose expected family contribution is $200 or less, or
 
-&emsp;“(B) a percentage of that entitlement, as determined in accordance with a schedule of reductions established by the Secretary for this purpose, for any student whose expected family contribution is more than $200.
+&emsp;"(B) a percentage of that entitlement, as determined in accordance with a schedule of reductions established by the Secretary for this purpose, for any student whose expected family contribution is more than $200.
 
-“(2) Any schedule established by the Secretary for the purpose of paragraph (1)(B) of this subsection shallcontain a single linear reduction formula in which the percentage reduction increases uniformly as the entitlement decreases, and shall provide that if an entitlement is reduced to less than $100, no payment shall be made.”
+"(2) Any schedule established by the Secretary for the purpose of paragraph (1)(B) of this subsection shall contain a single linear reduction formula in which the percentage reduction increases uniformly as the entitlement decreases, and shall provide that if an entitlement is reduced to less than $100, no payment shall be made."
 
-Subsec. (i). Pub. L. 102–325, §401(h), substituted “Treatment of institutions and students under other laws” for “Noncontractor status of institutions” in heading and inserted at end of text “Recipients of Pell Grants shall not be considered to be individual grantees for purposes of part D of title V of Public Law 100–690.”
+Subsec. (i). Pub. L. 102–325, §401(h), substituted "Treatment of institutions and students under other laws" for "Noncontractor status of institutions" in heading and inserted at end of text "Recipients of Pell Grants shall not be considered to be individual grantees for purposes of part D of title V of Public Law 100–690."
 
-<b>1987</b>—Subsec. (g)(2). Pub. L. 100–50 substituted “paragraph (1)(B)” for “paragraph (1)”.
+<b>1987</b>—Subsec. (g)(2). Pub. L. 100–50 substituted "paragraph (1)(B)" for "paragraph (1)".
 
 #### Effective Date of 2011 Amendment
 
 Amendment by section 309(a) of Pub. L. 112–74 effective July 1, 2012, see section 309(g) of Pub. L. 112–74, set out as a note under section 1001 of this title.
 
-Pub. L. 112–10, div. B, title VIII, §1860(b), Apr. 15, 2011, 125 Stat. 170, provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall be effective with respect to the 2011–2012 award year and succeeding award years.”
+Pub. L. 112–10, div. B, title VIII, §1860(b), Apr. 15, 2011, 125 Stat. 170, provided that: "The amendment made by subsection (a)(2) \[amending this section\] shall be effective with respect to the 2011–2012 award year and succeeding award years."
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–152, title II, §2101(c), Mar. 30, 2010, 124 Stat. 1073, provided that: “The amendments made by subsections (a) and (b) \[amending this section and sections 1070a–14, 1085, 1090, 1092f, and 1161y of this title\] shall take effect on July 1, 2010.”
+Pub. L. 111–152, title II, §2101(c), Mar. 30, 2010, 124 Stat. 1073, provided that: "The amendments made by subsections (a) and (b) \[amending this section and sections 1070a–14, 1085, 1090, 1092f, and 1161y of this title\] shall take effect on July 1, 2010."
 
 #### Effective Date of 2009 Amendment
 
@@ -478,21 +478,21 @@ Amendment by Pub. L. 111–39 effective as if enacted on the date of enactment o
 
 Pub. L. 110–315, title IV, §401(a)(2), Aug. 14, 2008, 122 Stat. 3189, provided that:
 
-“(A)
+"(A)
 
 In general.—Except as provided in subparagraph (B), the amendments made by paragraph (1) \[amending this section\] shall take effect on July 1, 2009.
 
-“(B)
+"(B)
 
-Special rule.—The amendments made by subparagraph (F) of paragraph (1) \[amending this section\] shall take effect on the date of enactment of this Act \[Aug 14, 2008\].”
+Special rule.—The amendments made by subparagraph (F) of paragraph (1) \[amending this section\] shall take effect on the date of enactment of this Act \[Aug 14, 2008\]."
 
-Pub. L. 110–315, title IV, §401(c)(2), Aug. 14, 2008, 122 Stat. 3190, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on July 1, 2009.”
+Pub. L. 110–315, title IV, §401(c)(2), Aug. 14, 2008, 122 Stat. 3190, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on July 1, 2009."
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–84, §1(c), Sept. 27, 2007, 121 Stat. 784, provided that: “Except as otherwise expressly provided, the amendments made by this Act \[enacting subpart 9 of this part and sections 1098e, 1098f, 1099d, 1099e, and 1141 of this title, amending this section and sections 1070a–13, 1077a, 1078, 1078–3, 1085, 1087–1, 1087e, 1087h, 1087dd, 1087ff, 1087oo to 1087tt, and 1087vv of this title, repealing section 1078–9 of this title, and amending provisions set out as a note under section 1078 of this title\] shall be effective on October 1, 2007.”
+Pub. L. 110–84, §1(c), Sept. 27, 2007, 121 Stat. 784, provided that: "Except as otherwise expressly provided, the amendments made by this Act \[enacting subpart 9 of this part and sections 1098e, 1098f, 1099d, 1099e, and 1141 of this title, amending this section and sections 1070a–13, 1077a, 1078, 1078–3, 1085, 1087–1, 1087e, 1087h, 1087dd, 1087ff, 1087oo to 1087tt, and 1087vv of this title, repealing section 1078–9 of this title, and amending provisions set out as a note under section 1078 of this title\] shall be effective on October 1, 2007."
 
-Pub. L. 110–84, title I, §101(b), Sept. 27, 2007, 121 Stat. 784, provided that: “The amendments made by subsection (a) \[amending this section\] shall be effective with respect to determinations of Federal Pell Grant amounts for award years beginning on or after July 1, 2007.”
+Pub. L. 110–84, title I, §101(b), Sept. 27, 2007, 121 Stat. 784, provided that: "The amendments made by subsection (a) \[amending this section\] shall be effective with respect to determinations of Federal Pell Grant amounts for award years beginning on or after July 1, 2007."
 
 #### Effective Date of 1998 Amendment
 
@@ -500,7 +500,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–322, title II, §20411(b), Sept. 13, 1994, 108 Stat. 1828, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to periods of enrollment beginning on or after the date of enactment of this Act \[Sept. 13, 1994\].”
+Pub. L. 103–322, title II, §20411(b), Sept. 13, 1994, 108 Stat. 1828, provided that: "The amendment made by this section \[amending this section\] shall apply with respect to periods of enrollment beginning on or after the date of enactment of this Act \[Sept. 13, 1994\]."
 
 #### Effective Date of 1993 Amendment
 
@@ -508,13 +508,13 @@ Amendment by section 2(b)(1), (3)–(5), (k)(1) of Pub. L. 103–208 effective a
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–325, title IV, §410, July 23, 1992, 106 Stat. 510, provided that: “The changes made in part A of title IV of the Act \[20 U.S.C. 1070 et seq.\] by the amendments made by this part \[part A (§§401–410) of title IV of Pub. L. 102–325, see Tables for classification\] shall take effect on the date of enactment of this Act \[July 23, 1992\], except—
+Pub. L. 102–325, title IV, §410, July 23, 1992, 106 Stat. 510, provided that: "The changes made in part A of title IV of the Act \[20 U.S.C. 1070 et seq.\] by the amendments made by this part \[part A (§§401–410) of title IV of Pub. L. 102–325, see Tables for classification\] shall take effect on the date of enactment of this Act \[July 23, 1992\], except—
 
-&emsp;“(1) as otherwise provided in such part A;
+&emsp;"(1) as otherwise provided in such part A;
 
-&emsp;“(2) that the changes made in section 411 \[this section\], relating to Pell Grants, shall apply to the awarding of Pell Grants for periods of enrollment beginning on or after July 1, 1993; and
+&emsp;"(2) that the changes made in section 411 \[this section\], relating to Pell Grants, shall apply to the awarding of Pell Grants for periods of enrollment beginning on or after July 1, 1993; and
 
-&emsp;“(3) that the changes in section 413C(a)(2) \[20 U.S.C. 1070b–2(a)(2)\], relating to the Federal share for the supplemental educational opportunity grant program, shall apply to funds provided for such program for the award years beginning on or after July 1, 1993.”
+&emsp;"(3) that the changes in section 413C(a)(2) \[20 U.S.C. 1070b–2(a)(2)\], relating to the Federal share for the supplemental educational opportunity grant program, shall apply to funds provided for such program for the award years beginning on or after July 1, 1993."
 
 #### Effective Date of 1987 Amendment
 
@@ -526,13 +526,13 @@ Section effective Oct. 17, 1986, except as otherwise provided, see section 2 of 
 
 Pub. L. 99–498, title IV, §401(b)(3), (4), Oct. 17, 1986, 100 Stat. 1353, provided that:
 
-“(3) Section 411(c) of the Act \[20 U.S.C. 1070a(c)\] as amended by this section shall apply only to individuals who receive a Pell Grant for the first time for a period of enrollment beginning on or after July 1, 1987.
+"(3) Section 411(c) of the Act \[20 U.S.C. 1070a(c)\] as amended by this section shall apply only to individuals who receive a Pell Grant for the first time for a period of enrollment beginning on or after July 1, 1987.
 
-“(4) Section 411(f) of the Act \[20 U.S.C. 1070a(f)\] as amended by this section shall apply to the awarding of Pell Grants for periods of enrollment beginning on or after July 1, 1987.”
+"(4) Section 411(f) of the Act \[20 U.S.C. 1070a(f)\] as amended by this section shall apply to the awarding of Pell Grants for periods of enrollment beginning on or after July 1, 1987."
 
 #### Study of Pell Grant Eligibility for Less Than Half-Time Students
 
-Pub. L. 99–498, title XIII, §1306, Oct. 17, 1986, 100 Stat. 1582, directed Secretary to conduct a study and report to Congress not later than Sept. 30, 1988, on the number of less than half-time students who would be eligible for Pell grants by reason of having an expected family contribution of $0 and of $0–$200 for the appropriate academic years, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
+Pub. L. 99–498, title XIII, §1306, Oct. 17, 1986, 100 Stat. 1582, directed Secretary to conduct a study and report to Congress not later than Sept. 30, 1988, on the numberof less than half-time students who would be eligible for Pell grants by reason of having an expected family contribution of $0 and of $0–$200 for the appropriate academic years, prior to repeal by Pub. L. 105–332, §6(a), Oct. 31, 1998, 112 Stat. 3127.
 
 #### Maximum Pell Grants
 

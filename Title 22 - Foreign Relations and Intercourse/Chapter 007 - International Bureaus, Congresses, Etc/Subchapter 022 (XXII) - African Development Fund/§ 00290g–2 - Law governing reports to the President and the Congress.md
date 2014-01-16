@@ -6,5 +6,5 @@ The provisions of section 286b of this title, shall apply with respect to the Fu
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–240 struck out at end “Reports with respect to the Fund under paragraphs (5) and (6) of section 286b(b) of this title, shall be included in the first report made thereunder after the United States accepts participation in the Fund.”
+<b>1989</b>—Pub. L. 101–240 struck out at end "Reports with respect to the Fund under paragraphs (5) and (6) of section 286b(b) of this title, shall be included in the first report made thereunder after the United States accepts participation in the Fund."
 

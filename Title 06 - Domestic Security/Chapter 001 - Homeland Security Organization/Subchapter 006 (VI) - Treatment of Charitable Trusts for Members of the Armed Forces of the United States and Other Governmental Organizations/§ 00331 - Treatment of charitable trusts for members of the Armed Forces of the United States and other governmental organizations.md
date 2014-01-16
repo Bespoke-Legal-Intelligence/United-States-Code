@@ -36,7 +36,7 @@ The requirements described in this subsection are as follows:
 
 &emsp;&emsp;(A) members of the Armed Forces of the United States;
 
-&emsp;&emsp;(B) personnel, including contractors, of elements of the intelligence community, as defined in section 401a(4) of title 50;
+&emsp;&emsp;(B) personnel, including contractors, of elements of the intelligence community, as defined in section 3003(4) of title 50;
 
 &emsp;&emsp;(C) employees of the Federal Bureau of Investigation; and
 
@@ -68,7 +68,7 @@ Each Johnny Micheal Spann Patriot Trust shall refrain from conducting the activi
 
 #### (e) Notification of Trust beneficiaries
 
-Notwithstanding any other provision of law, and in a manner consistent with the protection of intelligence sources and methods and sensitive law enforcement information, and other sensitive national security information, the Secretary of Defense, the Director of the Federal Bureau of Investigation, or the Director of Central Intelligence, or their designees, as applicable, may forward information received from anexecutor, administrator, or other legal representative of the estate of a decedent described in subparagraph (A), (B), (C), or (D) of subsection (c)(1) of this section, to a Johnny Micheal Spann Patriot Trust on how to contact individuals eligible for a distribution under subsection (c)(1) of this section for the purpose of providing assistance from such Trust: <i>Provided</i>, That, neither forwarding nor failing to forward any information under this subsection shall create any cause of action against any Federal department, agency, officer, agent, or employee.
+Notwithstanding any other provision of law, and in a manner consistent with the protection of intelligence sources and methods and sensitive law enforcement information, and other sensitive national security information, the Secretary of Defense, the Director of the Federal Bureau of Investigation, or the Director of Central Intelligence, or their designees, as applicable, may forward information received from an executor, administrator, or other legal representative of the estate of a decedent described in subparagraph (A), (B), (C), or (D) of subsection (c)(1) of this section, to a Johnny Micheal Spann Patriot Trust on how to contact individuals eligible for a distribution under subsection (c)(1) of this section for the purpose of providing assistance from such Trust: <i>Provided</i>, That, neither forwarding nor failing to forward any information under this subsection shall create any cause of action against any Federal department, agency, officer, agent, or employee.
 
 #### (f) Regulations
 
@@ -82,5 +82,5 @@ The Authorization for Use of Military Force, referred to in subsec. (c)(1), is P
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 

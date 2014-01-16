@@ -10,7 +10,7 @@ Considerations in Making and Implementing MOUs and Related Agreements.—In the 
 
 (b)
 
-Inter-Agency Review of Effects on United States Industry.—Whenever the Secretary of Commerce has reason to believe that an existing or proposed memorandum of understanding or related agreement has, or threatensto have, a significant adverse effect on the international competitive position of United States industry, the Secretary may request an inter-agency review of the memorandum of understanding or related agreement. If, as a result of the review, the Secretary determines that the commercial interests of the United States are not being served or would not be served by adhering to the terms of such existing memorandum or related agreement or agreeing to such proposed memorandum or related agreement, as the case may be, the Secretary shall recommend to the President the renegotiation of the existing memorandum or related agreement or any modification to the proposed memorandum of understanding or related agreement that he considers necessary to ensure an appropriate balance of interests.
+Inter-Agency Review of Effects on United States Industry.—Whenever the Secretary of Commerce has reason to believe that an existing or proposed memorandum of understanding or related agreement has, or threatens to have, a significant adverse effect on the international competitive position of United States industry, the Secretary may request an inter-agency review of the memorandum of understanding or related agreement. If, as a result of the review, the Secretary determines that the commercial interests of the United States are not being served or would not be served by adhering to the terms of such existing memorandum or related agreement or agreeing to such proposed memorandum or related agreement, as the case may be, the Secretary shall recommend to the President the renegotiation of the existing memorandum or related agreement or any modification to the proposed memorandum of understanding or related agreement that he considers necessary to ensure an appropriate balance of interests.
 
 (c)
 
@@ -22,47 +22,47 @@ Limitation on Entering into MOUs and Related Agreements.—A memorandum of under
 
 <b>1992</b>—Pub. L. 102–484, §4202(a), renumbered section 2504 of this title as this section.
 
-Subsec. (a)(1). Pub. L. 102–484, §4271(c), substituted “defense technology and industrial base” for “defense industrial base”.
+Subsec. (a)(1). Pub. L. 102–484, §4271(c), substituted "defense technology and industrial base" for "defense industrial base".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–510 inserted “or to the reciprocal procurement of defense items,” after “defense equipment,” in introductory provisions.
+<b>1990</b>—Subsec. (a). Pub. L. 101–510 inserted "or to the reciprocal procurement of defense items," after "defense equipment," in introductory provisions.
 
-<b>1989</b>—Pub. L. 101–189 inserted “and related agreements” after “understanding” in section catchline and amended text generally. Prior to amendment, text read as follows: “In the negotiation and renegotiation of each memorandum of understanding between the Secretary of Defense, acting on behalf of the United States, and one or more foreign countries (or any instrumentality of a foreign country) relating to research, development, or production of defense equipment, the Secretary of Defense shall—
+<b>1989</b>—Pub. L. 101–189 inserted "and related agreements" after "understanding" in section catchline and amended text generally. Prior to amendment, text read as follows: "In the negotiation and renegotiation of each memorandum of understanding between the Secretary of Defense, acting on behalf of the United States, and one or more foreign countries (or any instrumentality of a foreign country) relating to research, development, or production of defense equipment, the Secretary of Defense shall—
 
-&emsp;“(1) consider the effect of such proposed memorandum of understanding on the defense industrial base of the United States; and
+&emsp;"(1) consider the effect of such proposed memorandum of understanding on the defense industrial base of the United States; and
 
-&emsp;“(2) regularly solicit and consider information or recommendations from the Secretary of Commerce with respect to the effect on the United States industrial base of such memorandum of understanding.”
+&emsp;"(2) regularly solicit and consider information or recommendations from the Secretary of Commerce with respect to the effect on the United States industrial base of such memorandum of understanding."
 
 #### Defense Trade Reciprocity
 
 Pub. L. 108–375, div. A, title VIII, §831, Oct. 28, 2004, 118 Stat. 2017, provided that:
 
-“(a)
+"(a)
 
 Policy.—It is the policy of Congress that procurement regulations used in the conduct of trade in defense articles and defense services should be based on the principle of fair trade and reciprocity consistent with United States national security, including the need to ensure comprehensive manufacturing capability in the United States defense industrial base.
 
-“(b)
+"(b)
 
-Requirement.—The Secretary of Defense shall make every effort to ensure that the policies and practices of the Department of Defense reflect the goal of establishing an equitable trading relationship between the United States and its foreign defense trade partners, including ensuring that United States firms and United States employment in the defense sector are not disadvantaged by unilateral procurement practices by foreign governments, such as the imposition of offset agreements in a manner that undermines the United States defense industrial base. In pursuing this goal, the Secretary shall—
+Requirement.—The Secretary of Defense shall make every effort to ensure that the policies and practices of the Department of Defense reflect the goal of establishing an equitable trading relationship between the United States and its foreign defense trade partners, including ensuring that United States firms and United States employment in the defense sector are not disadvantaged by unilateral procurement practices by foreign governments, such as the imposition of offset agreements in a manner that undermines the UnitedStates defense industrial base. In pursuing this goal, the Secretary shall—
 
-&emsp;“(1) develop a comprehensive defense acquisition trade policy that provides the necessary guidance and incentives for the elimination of any adverse effects of offset agreements in defense trade; and
+&emsp;"(1) develop a comprehensive defense acquisition trade policy that provides the necessary guidance and incentives for the elimination of any adverse effects of offset agreements in defense trade; and
 
-&emsp;“(2) review and make necessary modifications to existing acquisition policies and strategies, and review and seek to make necessary modifications to existing memoranda of understanding, cooperative project agreements, or related agreements with foreign defense trade partners, to reflect this goal.
+&emsp;"(2) review and make necessary modifications to existing acquisition policies and strategies, and review and seek to make necessary modifications to existing memoranda of understanding, cooperative project agreements, or related agreements with foreign defense trade partners, to reflect this goal.
 
-“(c)
+"(c)
 
 Regulations.—The Secretary shall prescribe regulations to implement this section in the Department of Defense supplement to the Federal Acquisition Regulation.
 
-“(d)
+"(d)
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘foreign defense trade partner’ means a foreign country with respect to which there is—
+&emsp;"(1) The term 'foreign defense trade partner' means a foreign country with respect to which there is—
 
-&emsp;&emsp;“(A) a memorandum of understanding or related agreement described in section 2531(a) of title 10, United States Code; or
+&emsp;&emsp;"(A) a memorandum of understanding or related agreement described in section 2531(a) of title 10, United States Code; or
 
-&emsp;&emsp;“(B) a cooperative project agreement described in section 27 of the Arms Export Control Act (22 U.S.C. 2767).
+&emsp;&emsp;"(B) a cooperative project agreement described in section 27 of the Arms Export Control Act (22 U.S.C. 2767).
 
-&emsp;“(2) The term ‘offset agreement’ has the meaning provided that term by section 36(e) of the Arms Export Control Act (22 U.S.C. 2776(e)).
+&emsp;"(2) The term 'offset agreement' has the meaning provided that term by section 36(e) of the Arms Export Control Act (22 U.S.C. 2776(e)).
 
-&emsp;“(3) The terms ‘defense article’ and ‘defense service’ have the meanings provided those terms by section 47(7) of the Arms Export Control Act (22 U.S.C. 2794(7)).”
+&emsp;"(3) The terms 'defense article' and 'defense service' have the meanings provided those terms by section 47(7) of the Arms Export Control Act (22 U.S.C. 2794(7))."
 

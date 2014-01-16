@@ -66,23 +66,23 @@ For transfer of functions, personnel, assets, and liabilities of the Transportat
 
 Pub. L. 108–458, title IV, §4016, Dec. 17, 2004, 118 Stat. 3720, provided that:
 
-“(a)
+"(a)
 
 Federal Air Marshal Anonymity.—The Director of the Federal Air Marshal Service of the Department of Homeland Security shall continue operational initiatives to protect the anonymity of Federal air marshals.
 
-“(b)
+"(b)
 
 Authorization of Additional Appropriations.—There is authorized to be appropriated to the Secretary of Homeland Security for the use of the Bureau of Immigration and Customs Enforcement, in addition to any amounts otherwise authorized by law, for the deployment of Federal air marshals under section 44917 of title 49, United States Code, $83,000,000 for the 3 fiscal-year period beginning with fiscal year 2005. Such sums shall remain available until expended.
 
-“(c)
+"(c)
 
 Federal Law Enforcement Counterterrorism Training.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Availability of information.—The Assistant Secretary for Immigration and Customs Enforcement and the Director of Federal Air Marshal Service of the Department of Homeland Security, shall make available, as practicable, appropriate information on in-flight counterterrorism and weapons handling procedures and tactics training to Federal law enforcement officers who fly while in possession of a firearm.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Identification of fraudulent documents.—The Assistant Secretary for Immigration and Customs Enforcement and the Director of Federal Air Marshal Service of the Department of Homeland Security, in coordination with the Assistant Secretary of Homeland Security (Transportation Security Administration), shall ensure that Transportation Security Administration screeners and Federal air marshals receive training in identifying fraudulent identification documents, including fraudulent or expired visas and passports. Such training shall also be made available to other Federal law enforcement agencies and local law enforcement agencies located in a State that borders Canada or Mexico.”
+Identification of fraudulent documents.—The Assistant Secretary for Immigration and Customs Enforcement and the Director of Federal Air Marshal Service of the Department of Homeland Security, in coordination with the Assistant Secretary of Homeland Security (Transportation Security Administration), shall ensure that Transportation Security Administration screeners and Federal air marshals receive training in identifying fraudulent identification documents, including fraudulent or expired visas and passports. Such training shall also be made available to other Federal law enforcement agencies and local law enforcement agencies located in a State that borders Canada or Mexico."
 

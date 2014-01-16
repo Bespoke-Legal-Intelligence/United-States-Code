@@ -16,7 +16,7 @@ The following shall be subject to forfeiture to the United States and no propert
 
 &emsp;(6) All moneys, negotiable instruments, securities, or other things of value furnished or intended to be furnished by any person in exchange for a controlled substance or listed chemical in violation of this subchapter, all proceeds traceable to such an exchange, and all moneys, negotiable instruments, and securities used or intended to be used to facilitate any violation of this subchapter.
 
-&emsp;(7) All real property, including any right, title, and interest (including any leasehold interest) in the whole of any lot or tract of land and any appurtenances or improvements, which is used, or intended to be used, in any manner or part, to commit, or to facilitate the commission of, a violation of this subchapter punishable by more than one year's imprisonment.
+&emsp;(7) All real property, including any right, title, and interest (including any leasehold interest) in the whole of any lot or tract of land and any appurtenances or improvements, which is used, or intended to be used, in any manner or part, to commit, or to facilitate thecommission of, a violation of this subchapter punishable by more than one year's imprisonment.
 
 &emsp;(8) All controlled substances which have been possessed in violation of this subchapter.
 
@@ -76,7 +76,7 @@ The provisions of law relating to the seizure, summary and judicial forfeiture, 
 
 (3) The Attorney General shall assure that any property transferred to a State or local law enforcement agency under paragraph (1)(A)—
 
-&emsp;(A) has a value that bears a reasonable relationship to the degree of direct participation of the State or local agency in the law enforcement effort resulting in the forfeiture, taking into account the total value of all property forfeited and the total law enforcement effort with respect to the violation of law on which the forfeiture is based; and
+&emsp;(A) has a value that bears a reasonable relationship to the degree of direct participation of the State or local agency in the law enforcement effort resulting in the forfeiture, taking into account the total value of allproperty forfeited and the total law enforcement effort with respect to the violation of law on which the forfeiture is based; and
 
 &emsp;(B) will serve to encourage further cooperation between the recipient State or local agency and Federal law enforcement agencies.
 
@@ -112,7 +112,7 @@ The provisions of section 981(g) of title 18 regarding the stay of a civil forfe
 
 #### (j) Venue
 
-In addition to the venue provided for in section 1395 of title 28 or any other provision of law, in the case of property of a defendant charged with a violation that is the basis for forfeitureof the property under this section, a proceeding for forfeiture under this section may be brought in the judicial district in which the defendant owning such property is found or in the judicial district in which the criminal prosecution is brought.
+In addition to the venue provided for in section 1395 of title 28 or any other provision of law, in the case of property of a defendant charged with a violation that is the basis for forfeiture of the property under this section, a proceeding for forfeiture under this section may be brought in the judicial district in which the defendant owning such property is found or in the judicial district in which the criminal prosecution is brought.
 
 #### (l) <sup>1</sup> Agreement between Attorney General and Postal Service for performance of functions
 
@@ -122,37 +122,37 @@ The functions of the Attorney General under this section shall be carried out by
 
 #### References in Text
 
-Subchapter II of this chapter, referred to in subsec. (a)(9), was in the original “title III”, meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
+Subchapter II of this chapter, referred to in subsec. (a)(9), was in the original "title III", meaning title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285. Part A of title III comprises subchapter II of this chapter. For classification of Part B, consisting of sections 1101 to 1105 of title III, see Tables.
 
 Schedules I and II, referred to in subsecs. (f) and (g), are set out in section 812(c) of this title.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a)(10). Pub. L. 107–273 substituted “section 863 of this title” for “section 1822 of the Mail Order Drug Paraphernalia Control Act”.
+<b>2002</b>—Subsec. (a)(10). Pub. L. 107–273 substituted "section 863 of this title" for "section 1822 of the Mail Order Drug Paraphernalia Control Act".
 
-<b>2000</b>—Subsec. (a)(4). Pub. L. 106–185, §2(c)(2), struck out before period at end “, except that—
+<b>2000</b>—Subsec. (a)(4). Pub. L. 106–185, §2(c)(2), struck out before period at end ", except that—
 
-&emsp;“(A) no conveyance used by any person as a common carrier in the transaction of business as a common carrier shall be forfeited under the provisions of this section unless it shall appear that the owner or other person in charge of such conveyance was a consenting party or privy to a violation of this subchapter or subchapter II of this chapter;
+&emsp;"(A) no conveyance used by any person as a common carrier in the transaction of business as a common carrier shall be forfeited under the provisions of this section unless it shall appear that the owner or other person in charge of such conveyance was a consenting party or privy to a violation of this subchapter or subchapter II of this chapter;
 
-&emsp;“(B) no conveyance shall be forfeited under the provisions of this section by reason of any act or omission established by the owner thereof to have been committed or omitted by any person other than such owner while such conveyance was unlawfully in the possession of a person other than the owner in violation of the criminal laws of the United States, or of any State; and
+&emsp;"(B) no conveyance shall be forfeited under the provisions of this section by reason of any act or omission established by the owner thereof to have been committed or omitted by any person other than such owner while such conveyance was unlawfully in the possession of a person other than the owner in violation of the criminal laws of the United States, or of any State; and
 
-&emsp;“(C) no conveyance shall be forfeited under this paragraph to the extent of an interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge, consent, or willful blindness of the owner”.
+&emsp;"(C) no conveyance shall be forfeited under this paragraph to the extent of an interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge, consent, or willful blindness of the owner".
 
-Subsec. (a)(6). Pub. L. 106–185, §2(c)(2), struck out before period at end “, except that no property shall be forfeited under this paragraph, to the extent of the interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner”.
+Subsec. (a)(6). Pub. L. 106–185, §2(c)(2), struck out before period at end ", except that no property shall be forfeited under this paragraph, to the extent of the interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner".
 
-Subsec. (a)(7). Pub. L. 106–185, §2(c)(2), struck out before period at end “, except that no property shall be forfeited under this paragraph, to the extent of an interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner”.
+Subsec. (a)(7). Pub. L. 106–185, §2(c)(2), struck out before period at end ", except that no property shall be forfeited under this paragraph, to the extent of an interest of an owner, by reason of any act or omission established by that owner to have been committed or omitted without the knowledge or consent of that owner".
 
 Subsec. (b). Pub. L. 106–185, §5(b), inserted heading and amended text of subsec. (b) generally. Prior to amendment, subsec. (b) authorized the Attorney General to seize property under this subchapter upon process issued pursuant to the Supplemental Rules for Certain Admirality and Maritime claims and to seize it without process in certain described circumstances.
 
-Subsec. (i). Pub. L. 106–185, §8(b), inserted heading and amended text of subsec. (i) generally. Prior to amendment, text read as follows: “The filing of an indictment or information alleging a violation of this subchapter or subchapter II of this chapter, or a violation of State or local law that could have been charged under this subchapter or subchapter II of this chapter, which is also related to a civil forfeiture proceeding under this section shall, upon motion of the United States and for good cause shown, stay the civil forfeiture proceeding.”
+Subsec. (i). Pub. L. 106–185, §8(b), inserted heading and amended text of subsec. (i) generally. Prior to amendment, text read as follows: "The filing of an indictment or information alleging a violation of this subchapter or subchapter II of this chapter, or a violation of State or local law that could have been charged under this subchapter or subchapter II of this chapter, which is also related to a civil forfeiture proceeding under this section shall, upon motion of the United States and for good cause shown, stay the civil forfeiture proceeding."
 
-<b>1996</b>—Subsec. (a)(2), (6). Pub. L. 104–237, §201(b)(1), inserted “or listed chemical” after “controlled substance”.
+<b>1996</b>—Subsec. (a)(2), (6). Pub. L. 104–237, §201(b)(1), inserted "or listed chemical" after "controlled substance".
 
-Subsec. (a)(9). Pub. L. 104–237, §201(b)(2), substituted “possessed, distributed, dispensed, acquired, or intended to be distributed, dispensed, acquired,” for “possessed, distributed, or intended to be distributed,” and struck out “a felony provision of” after “in violation of”.
+Subsec. (a)(9). Pub. L. 104–237, §201(b)(2), substituted "possessed, distributed, dispensed, acquired, or intended to be distributed, dispensed, acquired," for "possessed, distributed, or intended to be distributed," and struck out "a felony provision of" after "in violation of".
 
-<b>1994</b>—Subsec. (e)(1)(E)(iii). Pub. L. 103–447 substituted “section 2291j(b) of title 22” for “section 2291(h) of title 22”.
+<b>1994</b>—Subsec. (e)(1)(E)(iii). Pub. L. 103–447 substituted "section 2291j(b) of title 22" for "section 2291(h) of title 22".
 
-<b>1991</b>—Subsec. (e)(1)(B). Pub. L. 102–239, §2(1), substituted “except as provided in paragraph (4), sell” for “sell”.
+<b>1991</b>—Subsec. (e)(1)(B). Pub. L. 102–239, §2(1), substituted "except as provided in paragraph (4), sell" for "sell".
 
 Subsec. (e)(4). Pub. L. 102–239, §2(2), added par. (4).
 
@@ -160,21 +160,21 @@ Subsec. (e)(4). Pub. L. 102–239, §2(2), added par. (4).
 
 Subsec. (a)(11). Pub. L. 101–647, §2008, added par. (11).
 
-Subsec. (e)(1)(B). Pub. L. 101–647, §2003, inserted “, by public sale or any other commercially feasible means,” after “sell”.
+Subsec. (e)(1)(B). Pub. L. 101–647, §2003, inserted ", by public sale or any other commercially feasible means," after "sell".
 
-Subsec. (f). Pub. L. 101–647, §2004, inserted “; all dangerous, toxic, or hazardous raw materials or products subject to forfeiture under subsection (a)(2) of this section; and any equipment or container subject to forfeiture under subsection (a)(2) or (3) of this section which cannot be separated safely from such raw materials or products” after “this subchapter” in pars. (1) and (2).
+Subsec. (f). Pub. L. 101–647, §2004, inserted "; all dangerous, toxic, or hazardous raw materials or products subject to forfeiture under subsection (a)(2) of this section; and any equipment or container subject to forfeiture under subsection (a)(2) or (3) of this section which cannot be separated safely from such raw materials or products" after "this subchapter" in pars. (1) and (2).
 
-<b>1989</b>—Subsec. (e)(3)(B). Pub. L. 101–189 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “is not so transferred to circumvent any requirement of State law that prohibits forfeiture or limits use or disposition of property forfeited to State or local agencies.”
+<b>1989</b>—Subsec. (e)(3)(B). Pub. L. 101–189 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "is not so transferred to circumvent any requirement of State law that prohibits forfeiture or limits use or disposition of property forfeited to State or local agencies."
 
 <b>1988</b>—Subsec. (a)(3). Pub. L. 100–690, §6059(b), inserted reference to par. (9).
 
 Subsec. (a)(4). Pub. L. 100–690, §§6059(b), 6075, inserted in introductory provisions reference to par. (9) and added subpar. (C).
 
-Subsec. (a)(7). Pub. L. 100–690, §5105, inserted “(including any leasehold interest)” after “interest”.
+Subsec. (a)(7). Pub. L. 100–690, §5105, inserted "(including any leasehold interest)" after "interest".
 
 Subsec. (a)(9). Pub. L. 100–690, §6059(a), added par. (9).
 
-Subsec. (e)(1)(A). Pub. L. 100–690, §6077(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “retain the property for official use or transfer the custody or ownership of any forfeited property to any Federal, State, or local agency pursuant to section 1616a of title 19;”.
+Subsec. (e)(1)(A). Pub. L. 100–690, §6077(b), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "retain the property for official use or transfer the custody or ownership of any forfeited property to any Federal, State, or local agency pursuant to section 1616a of title 19;".
 
 Subsec. (e)(1)(E). Pub. L. 100–690, §6074, added subpar. (E).
 
@@ -184,33 +184,33 @@ Subsec. (e)(3). Pub. L. 100–690, §6077(a), added par. (3).
 
 Subsec. (l). Pub. L. 100–690, §6253(a), added subsec. (l).
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–570, §1865(1)–(3), and Pub. L. 99–646, §74(1)–(3), in making identical amendments in introductory provision and par. (4), struck out “or criminal” after “subject to civil” and inserted paragraph permitting the Government to request issuance of a warrant authorizing seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure.
+<b>1986</b>—Subsec. (b). Pub. L. 99–570, §1865(1)–(3), and Pub. L. 99–646, §74(1)–(3), in making identical amendments in introductory provision and par. (4), struck out "or criminal" after "subject to civil" and inserted paragraph permitting the Government to request issuance of a warrant authorizing seizure of property subject to forfeiture under this section in the same manner as provided for a search warrant under the Federal Rules of Criminal Procedure.
 
-Subsec. (e). Pub. L. 99–570, §1992, designated existing provisions as par. (1) and former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2) in lieu of former concluding provisions which read as follows: “The Attorney General shall ensure the equitable transfer pursuant to paragraph (1) of any forfeited property to the appropriate State or local law enforcement agency so as to reflect generally the contribution of any such agency participating directly in any of the acts which led to the seizure or forfeiture of such property. A decision by the Attorney General pursuant to paragraph (1) shall not be subject to review. The proceeds from any sale under paragraph (2) and any moneys forfeited under this subchapter shall be used to pay all proper expenses of the proceedings for forfeiture and sale including expenses of seizure, maintenance of custody, advertising, and court costs. The Attorney General shall forward to the Treasurer of the United States for deposit in accordance with section 524(c) of title 28 any amounts of such moneys and proceeds remaining after payment of such expenses.”
+Subsec. (e). Pub. L. 99–570, §1992, designated existing provisions as par. (1) and former pars. (1) to (4) as subpars. (A) to (D), respectively, and added par. (2) in lieu of former concluding provisions which read as follows: "The Attorney General shall ensure the equitable transfer pursuant to paragraph (1) of any forfeited property to the appropriate State or local law enforcement agency so as to reflect generally the contribution of any such agency participating directly in any of the acts which led to the seizure or forfeiture of such property. A decision by the Attorney General pursuant to paragraph (1) shall not be subject to review. The proceeds from any sale under paragraph (2) and any moneys forfeited under this subchapter shall be used to pay all proper expenses of the proceedings for forfeiture and sale including expenses of seizure, maintenance of custody, advertising, and court costs. The Attorney General shall forward to the Treasurer of the United States for deposit in accordance with section 524(c) of title 28 any amounts of such moneys and proceeds remaining after payment of such expenses."
 
-Subsec. (f). Pub. L. 99–570, §1006(c), which directed the amendment of section 511 of the “Comprehensive Drug Abuse Prevention Act of 1978” was executed to this section which is section 511 of the Comprehensive Drug Abuse Prevention Act of 1970, as the probable intent of Congress, by designating existing provisions as par. (1), inserting “or II” in two places, and adding par. (2).
+Subsec. (f). Pub. L. 99–570, §1006(c), which directed the amendment of section 511 of the "Comprehensive Drug Abuse Prevention Act of 1978" was executed to this section which is section 511 of the Comprehensive Drug Abuse Prevention Act of 1970, as the probable intent of Congress, by designating existing provisions as par. (1), inserting "or II" in two places, and adding par. (2).
 
-Subsec. (i). Pub. L. 99–570, §1865(b) and Pub. L. 99–646, §74(b), made identical amendments, inserting “, or a violation of State or local law that could have been charged under this subchapter or subchapter II of this chapter,”.
+Subsec. (i). Pub. L. 99–570, §1865(b) and Pub. L. 99–646, §74(b), made identical amendments, inserting ", or a violation of State or local law that could have been charged under this subchapter or subchapter II of this chapter,".
 
 <b>1984</b>—Subsec. (a)(7). Pub. L. 98–473, §306(a), added par. (7).
 
 Subsec. (a)(8). Pub. L. 98–473, §518, added par. (8).
 
-Subsec. (b). Pub. L. 98–473, §306(b)(1), inserted “civil or criminal” after “property subject to”.
+Subsec. (b). Pub. L. 98–473, §306(b)(1), inserted "civil or criminal" after "property subject to".
 
-Subsec. (b)(4). Pub. L. 98–473, §306(b)(2), substituted “is subject to civil or criminal forfeiture under” for “has been used or is intended to be used in violation of”.
+Subsec. (b)(4). Pub. L. 98–473, §306(b)(2), substituted "is subject to civil or criminal forfeiture under" for "has been used or is intended to be used in violation of".
 
-Subsec. (c). Pub. L. 98–473, §306(c)(1), in provisions preceding par. (1), inserted “any of” after “seized under”.
+Subsec. (c). Pub. L. 98–473, §306(c)(1), in provisions preceding par. (1), inserted "any of" after "seized under".
 
-Subsec. (c)(3). Pub. L. 98–473, §306(c)(2), inserted “, if practicable,” after “remove it”.
+Subsec. (c)(3). Pub. L. 98–473, §306(c)(2), inserted ", if practicable," after "remove it".
 
-Subsec. (d). Pub. L. 98–473, §306(d), inserted “any of” after “incurred, under”.
+Subsec. (d). Pub. L. 98–473, §306(d), inserted "any of" after "incurred, under".
 
-Subsec. (e). Pub. L. 98–473, §§306(e), 309, inserted “civilly or criminally” after “Whenever property is” and in provisions preceding par. (1), inserted provisions relating to transfer of custody or ownership of forfeited property in par. (1), substituted “and dispose of it” for “and remove it for disposition” in par. (3), and, in provisions following par. (4), inserted sentence requiring the Attorney General to ensure equitable transfer of any forfeited property, and substituted “accordance with section 524(c) of title 28” for “the general fund of the United States Treasury”.
+Subsec. (e). Pub. L. 98–473, §§306(e), 309, inserted "civilly or criminally" after "Whenever property is" and in provisions preceding par. (1), inserted provisions relating to transfer of custody or ownership of forfeited property in par. (1), substituted "and dispose of it" for "and remove it for disposition" in par. (3), and, in provisions following par. (4), inserted sentence requiring the Attorney General to ensure equitable transfer of any forfeited property, and substituted "accordance with section 524(c) of title 28" for "the general fund of the United States Treasury".
 
 Subsecs. (h) to (j). Pub. L. 98–473, §306(f), added subsecs. (h) to (j).
 
-<b>1979</b>—Subsec. (d). Pub. L. 96–132 substituted “The provisions” for “All provisions” and struck out “and the award of compensation to informers in respect of such forfeitures” after “compromise of claims”.
+<b>1979</b>—Subsec. (d). Pub. L. 96–132 substituted "The provisions" for "All provisions" and struck out "and the award of compensation to informers in respect of such forfeitures" after "compromise of claims".
 
 <b>1978</b>—Subsec. (a)(6). Pub. L. 95–633, §301(1), added par. (6).
 
@@ -222,13 +222,13 @@ Amendment by Pub. L. 106–185 applicable to any forfeiture proceeding commenced
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–189, div. A, title XII, §1215(b), Nov. 29, 1989, 103 Stat. 1569, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as of October 1, 1989.”
+Pub. L. 101–189, div. A, title XII, §1215(b), Nov. 29, 1989, 103 Stat. 1569, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as of October 1, 1989."
 
 #### Effective Date of 1988 Amendment
 
 Amendment by section 6059 of Pub. L. 100–690 effective 120 days after Nov. 18, 1988, see section 6061 of Pub. L. 100–690, set out as a note under section 802 of this title.
 
-Pub. L. 100–690, title VI, §6077(c), Nov. 18, 1988, 102 Stat. 4325, as amended by Pub. L. 101–162, title II, §208, Nov. 21, 1989, 103 Stat. 1005, provided that: “Section 551(e)(3)(B) of the Controlled Substances Act \[probably means section 511(e)(3)(B) of the Controlled Substances Act, 21 U.S.C. 881(e)(3)(B)\], as enacted by subsection (a), shall apply with respect to fiscal years beginning after September 30, 1991.”
+Pub. L. 100–690, title VI, §6077(c), Nov. 18, 1988, 102 Stat. 4325, as amended by Pub. L. 101–162, title II, §208, Nov. 21, 1989, 103 Stat. 1005, provided that: "Section 551(e)(3)(B) of the Controlled Substances Act \[probably means section 511(e)(3)(B) of the Controlled Substances Act, 21 U.S.C. 881(e)(3)(B)\], as enacted by subsection (a), shall apply with respect to fiscal years beginning after September 30, 1991."
 
 #### Transfer of Functions
 
@@ -236,45 +236,45 @@ Bureau of Narcotics and Dangerous Drugs, including office of Director thereof, i
 
 #### Constructive Seizure Procedures
 
-Pub. L. 101–225, title II, §210, Dec. 12, 1989, 103 Stat. 1913, provided that: “Not later than 6 months after the date of enactment of this Act \[Dec. 12, 1989\], the Secretary of Transportation and the Secretary of the Treasury, in order to avoid the devastating economic effects on innocent owners of seizures of their vessels, shall develop a procedure for constructive seizure of vessels of the United States engaged in commercial service as defined in section 2101 of title 46, United States Code, that are suspected of being used for committing violations of law involving personal use quantities of controlled substances.”
+Pub. L. 101–225, title II, §210, Dec. 12, 1989, 103 Stat. 1913, provided that: "Not later than 6 months after the date of enactment of this Act \[Dec. 12, 1989\], the Secretary of Transportation and the Secretary of the Treasury, in order to avoid the devastating economic effects on innocent owners of seizures of their vessels, shall develop a procedure for constructive seizure of vessels of the United States engaged in commercial service as defined in section 2101 of title 46, United States Code, that are suspected of being used for committing violations of law involving personal use quantities of controlled substances."
 
 #### Regulations for Expedited Administrative Forfeiture Procedures
 
 Pub. L. 100–690, title VI, §6079, Nov. 18, 1988, 102 Stat. 4325, provided that:
 
-“(a)
+"(a)
 
-In General.—Not later than 90 days after the date of enactment of this Act \[Nov. 18, 1988\], the Attorney General and the Secretary of the Treasury shall consult, and after providing a 30-day public comment period, shall prescribe regulations for expedited administrative procedures for seizures under section 511(a)(4), (6), and (7) of the Controlled Substances Act (21 U.S.C.881(a)(4), (6), and (7)); section 596 of the Tariff Act of 1930 (19 U.S.C. 1595a(a)); and section 2 of the Act of August 9, 1939 (53 Stat. 1291; 49 U.S.C. App. 782 \[now 49 U.S.C. 80303\]) for violations involving the possession of personal use quantities of a controlled substance.
+In General.—Not later than 90 days after the date of enactment of this Act \[Nov. 18, 1988\], the Attorney General and the Secretary of the Treasury shall consult, and after providing a 30-day public comment period, shall prescribe regulations for expedited administrative procedures for seizures under section 511(a)(4), (6), and (7) of the Controlled Substances Act (21 U.S.C. 881(a)(4), (6), and (7)); section 596 of the Tariff Act of 1930 (19 U.S.C. 1595a(a)); and section 2 of the Act of August 9, 1939 (53 Stat. 1291; 49 U.S.C. App. 782 \[now 49 U.S.C. 80303\]) for violations involving the possession of personal use quantities of a controlled substance.
 
-“(b)
+"(b)
 
 Specifications.—The regulations prescribed pursuant to subsection (a) shall—
 
-&emsp;“(1) minimize the adverse impact caused by prolonged detention, and
+&emsp;"(1) minimize the adverse impact caused by prolonged detention, and
 
-&emsp;“(2) provide for a final administrative determination of the case within 21 days of seizure, or provide a procedure by which the defendant can obtain release of the property pending a final determination of the case. Such regulations shall provide that the appropriate agency official rendering a final determination shall immediately return the property if the following conditions are established:
+&emsp;"(2) provide for a final administrative determination of the case within 21 days of seizure, or provide a procedure by which the defendant can obtain release of the property pending a final determination of the case. Such regulations shall provide that the appropriate agency official rendering a final determination shall immediately return the property if the following conditions are established:
 
-&emsp;&emsp;“(A) the owner or interested party did not know of or consent to the violation;
+&emsp;&emsp;"(A) the owner or interested party did not know of or consent to the violation;
 
-&emsp;&emsp;“(B) the owner establishes a valid, good faith interest in the seized property as owner or otherwise; and
+&emsp;&emsp;"(B) the owner establishes a valid, good faith interest in the seized property as owner or otherwise; and
 
-&emsp;&emsp;“(C)(1) the owner establishes that the owner at no time had any knowledge or reason to believe that the property in which the owner claims an interest was being or would be used in a violation of the law; and
+&emsp;&emsp;"(C)(1) the owner establishes that the owner at no time had any knowledge or reason to believe that the property in which the owner claims an interest was being or would be used in a violation of the law; and
 
-&emsp;&emsp;“(2) if the owner at any time had, or should have had, knowledge or reason to believe that the property in which the owner claims an interest was being or would be used in a violation of the law, that the owner did what reasonably could be expected to prevent the violation.
+&emsp;&emsp;"(2) if the owner at any time had, or should have had, knowledge or reason to believe that the property in which the owner claims an interest was being or would be used in a violation of the law, that the owner did what reasonably could be expected to prevent the violation.
 
 > An owner shall not have the seized property returned under this subsection if the owner had not acted in a normal and customary manner to ascertain how the property would be used.
 
-“(c)
+"(c)
 
 Notice.—At the time of seizure or upon issuance of a summons to appear under subsection (d), the officer making the seizure shall furnish to any person in possession of the conveyance a written notice specifying the procedures under this section. At the earliest practicable opportunity after determining ownership of the seized conveyance, the head of the department or agency that seizes the conveyance shall furnish a written notice to the owner and other interested parties (including lienholders) of the legal and factual basis of the seizure.
 
-“(d)
+"(d)
 
 Summons in Lieu of Seizure of Commercial Fishing Industry Vessels.—Not later than 90 days after the enactment of this Act \[Nov. 18, 1988\], the Attorney General, the Secretary of the Treasury, and the Secretary of Transportation shall prescribe joint regulations, after a public comment period of at least 30 days, providing for issuance of a summons to appear in lieu of seizure of a commercial fishing industry vessel as defined in section 2101(11a), (11b), and (11c) of title 46, United States Code, for violations involving the possession of personal use quantities of a controlled substance. These regulations shall apply when the violation is committed on a commercial fishing industry vessel that is proceeding to or from a fishing area or intermediate port of call, or is actively engaged in fishing operations. The authority provided under this section shall not affect existing authority to arrest an individual for drug-related offenses or to release that individual into the custody of the vessel's master. Upon answering a summons to appear, the procedures set forth in subsections (a), (b), and (c) of this section shall apply. The jurisdiction of the district court for any forfeiture incurred shall not be affected by the use of a summons under this section.
 
-“(e)
+"(e)
 
-Personal Use Quantities of a Controlled Substance.—For the purposes of this section, personal use quantities of a controlled substance shall not include sweepings or other evidence of non-personal use amounts.”
+Personal Use Quantities of a Controlled Substance.—For the purposes of this section, personal use quantities of a controlled substance shall not include sweepings or other evidence of non-personal use amounts."
 
 <i><sup>1</sup></i><i> So in original. No subsec. (k) has been enacted.</i>
 

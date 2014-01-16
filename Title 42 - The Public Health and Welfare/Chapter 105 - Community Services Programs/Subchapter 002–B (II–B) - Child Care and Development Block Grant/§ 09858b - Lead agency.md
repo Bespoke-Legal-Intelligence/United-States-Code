@@ -2,7 +2,7 @@
 
 #### (a) Designation
 
-The chief executive officer of a State desiring to receive a grant under this subchapter shall designate, in an application submitted to the Secretary under section 9858c of this title, an appropriate State agency that complies with the requirements of subsection (b) of this section to act as the lead agency.
+The chief executive officer of a State desiring to receive a grant under this subchapter shalldesignate, in an application submitted to the Secretary under section 9858c of this title, an appropriate State agency that complies with the requirements of subsection (b) of this section to act as the lead agency.
 
 #### (b) Duties
 
@@ -26,11 +26,11 @@ The chief executive officer of a State desiring to receive a grant under this su
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–193, §604(1)(A), substituted “governmental or nongovernmental agencies” for “State agencies”.
+<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–193, §604(1)(A), substituted "governmental or nongovernmental agencies" for "State agencies".
 
-Subsec. (b)(1)(C). Pub. L. 104–193, §604(1)(B), inserted “with sufficient time and Statewide distribution of the notice of such hearing,” after “hearing in the State”.
+Subsec. (b)(1)(C). Pub. L. 104–193, §604(1)(B), inserted "with sufficient time and Statewide distribution of the notice of such hearing," after "hearing in the State".
 
-Subsec. (b)(2). Pub. L. 104–193, §604(2), struck out at end “Such consultations may include consideration of local child care needs and resources, the effectiveness of existing child care and early childhood development services, and the methods by which funds made available under this subchapter can be used to effectively address local shortages.”
+Subsec. (b)(2). Pub. L. 104–193, §604(2), struck out at end "Such consultations may include consideration of local child care needs and resources, the effectiveness of existing child care and early childhood development services, and the methods by which funds made available under this subchapter can be used to effectively address local shortages."
 
 <b>1992</b>—Pub. L. 102–401 and Pub. L. 102–586 made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 

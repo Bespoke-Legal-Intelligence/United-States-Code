@@ -24,7 +24,7 @@ Each department, agency, and instrumentality of the United States shall add to t
 
 #### (c) Federal Agency Hazardous Waste Compliance Docket
 
-The Administrator shall establish a special Federal Agency Hazardous Waste Compliance Docket (hereinafter in this section referred to as the “docket”) which shall contain each of the following:
+The Administrator shall establish a special Federal Agency Hazardous Waste Compliance Docket (hereinafter in this section referred to as the "docket") which shall contain each of the following:
 
 &emsp;(1) All information submitted under section 3016 of the Solid Waste Disposal Act \[42 U.S.C. 6937\] and subsection (b) of this section regarding any Federal facility and notice of each subsequent action taken under this chapter with respect to the facility.
 
@@ -52,7 +52,7 @@ The Administrator shall establish a special Federal Agency Hazardous Waste Compl
 
 #### (B) Response under other law
 
-&emsp;&emsp;It shall be an appropriate factor to be taken into consideration for the purposes of section 9605(a)(8)(A) of this title that the head of the department, agency, or instrumentality that owns or operates a facilityhas arranged with the Administrator or appropriate State authorities to respond appropriately, under authority of a law other than this chapter, to a release or threatened release of a hazardous substance.
+&emsp;&emsp;It shall be an appropriate factor to be taken into consideration for the purposes of section 9605(a)(8)(A) of this title that the head of the department, agency, or instrumentality that owns or operates a facility has arranged with the Administrator or appropriate State authorities to respond appropriately, under authority of a law other than this chapter, to a release or threatened release of a hazardous substance.
 
 #### (3) Completion
 
@@ -178,7 +178,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 #### (iii) Warranty
 
-&emsp;&emsp;&emsp;When all response action necessary to protect human health and the environment with respect to any substance remaining on the property on the date of transfer has been taken, the United States shall execute and deliver to the transferee an appropriate document containing a warranty that all such response action has been taken, and the making of the warranty shall be considered to satisfy the requirement of subparagraph (A)(ii)(I).
+&emsp;&emsp;&emsp;When all response action necessary to protect human health and the environment with respect to any substance remaining on the property on the date of transfer has been taken, the United Statesshall execute and deliver to the transferee an appropriate document containing a warranty that all such response action has been taken, and the making of the warranty shall be considered to satisfy the requirement of subparagraph (A)(ii)(I).
 
 #### (iv) Federal responsibility
 
@@ -202,7 +202,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 &emsp;&emsp;(vii) Interviews with current or former employees involved in operations on the real property.
 
-> &emsp;Such identification shall also be based on sampling, if appropriate under the circumstances.The results of the identification shall be provided immediately to the Administrator and State and local government officials and made available to the public.
+> &emsp;Such identification shall also be based on sampling, if appropriate under the circumstances. The results of the identification shall be provided immediately to the Administrator and State and local government officials and made available to the public.
 
 &emsp;(B) The identification required under subparagraph (A) is not complete until concurrence in the results of the identification is obtained, in the case of real property that is part of a facility on the National Priorities List, from the Administrator, or, in the case of real property that is not part of a facility on the National Priorities List, from the appropriate State official. In the case of a concurrence which is required from a State official, the concurrence is deemed to be obtained if, within 90 days after receiving a request for the concurrence, the State official has not acted (by either concurring or declining to concur) on the request for concurrence.
 
@@ -218,7 +218,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 &emsp;&emsp;(i) a covenant warranting that any response action or corrective action found to be necessary after the date of such sale or transfer shall be conducted by the United States; and
 
-&emsp;&emsp;(ii) a clause granting the United States access to the property in any case in which a response action or corrective action is found to be necessary after such date at such property, or such access is necessary to carry out a response action or corrective action on adjoining property.
+&emsp;&emsp;(ii) a clause granting the United States access to the property in any case in which aresponse action or corrective action is found to be necessary after such date at such property, or such access is necessary to carry out a response action or corrective action on adjoining property.
 
 &emsp;(E)(i) This paragraph applies to—
 
@@ -226,7 +226,7 @@ Except for authorities which are delegated by the Administrator to an officer or
 
 &emsp;&emsp;(II) real property that is or has been used as a military installation and on which the United States plans to close or realign military operations pursuant to a base closure law.
 
-&emsp;(ii) For purposes of this paragraph, the term “base closure law” includes the following:
+&emsp;(ii) For purposes of this paragraph, the term "base closure law" includes the following:
 
 &emsp;&emsp;(I) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
 
@@ -254,43 +254,43 @@ Nothing in this section shall affect or impair the obligation of any department,
 
 #### (2) Classified information
 
-&emsp;Notwithstanding any other provision of law, all requirements of the Atomic Energy Act \[42 U.S.C. 2011 et seq.\] and all Executive orders concerning the handling of restricted data and national security information, including “need to know” requirements, shall be applicable to any grant of access to classified information under the provisions of this chapter or under title III of the Superfund Amendments and Reauthorization Act of 1986 \[42 U.S.C. 11001 et seq.\].
+&emsp;Notwithstanding any other provision of law, all requirements of the Atomic Energy Act \[42 U.S.C. 2011 et seq.\] and all Executive orders concerning the handling of restricted data and national security information, including "need to know" requirements, shall be applicable to any grant of access to classified information under the provisions of this chapter or under title III of the Superfund Amendments and Reauthorization Act of 1986 \[42 U.S.C. 11001 et seq.\].
 
 (Pub. L. 96–510, title I, §120, as added Pub. L. 99–499, title I, §120(a), Oct. 17, 1986, 100 Stat. 1666; amended Pub. L. 102–426, §§3–5, Oct. 19, 1992, 106 Stat. 2175–2177; Pub. L. 104–106, div. B, title XXVIII, §2834, Feb. 10, 1996, 110 Stat. 559; Pub. L. 104–201, div. A, title III, §§330, 331, 334, Sept. 23, 1996, 110 Stat. 2484, 2486.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) to (3), (c)(1), (d)(2)(B), and (j)(2), was in the original “this Act”, meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) to (3), (c)(1), (d)(2)(B), and (j)(2), was in the original "this Act", meaning Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, known as the Comprehensive Environmental Response, Compensation, and Liability Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 Section 2904(b) of such base closure law, referred to in subsec. (h)(4)(C)(iii), means section 2904(b) of Pub. L. 101–510, which is set out as a note under section 2687 of Title 10, Armed Forces.
 
-The Solid Waste Disposal Act, referred to in subsec. (i), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
+The Solid Waste Disposal Act, referred to in subsec. (i), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997,as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 Title III of the Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (j), is title III of Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1728, known as the Emergency Planning and Community Right-To-Know Act of 1986, which is classified generally to chapter 116 (§11001 et seq.) of this title. For complete classification of title III to the Code, see Short Title note set out under section 11001 of this title and Tables.
 
-The Atomic Energy Act, referred to in subsec. (j)(2), probably means the Atomic Energy Act of 1954, act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act, referred to in subsec. (j)(2), probably means the Atomic Energy Act of 1954, act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(4). Pub. L. 104–201, §334(b), inserted “or facilities that are the subject of a deferral under subsection (h)(3)(C) of this section” after “United States”.
+<b>1996</b>—Subsec. (a)(4). Pub. L. 104–201, §334(b), inserted "or facilities that are the subject of a deferral under subsection (h)(3)(C) of this section" after "United States".
 
-Subsec. (d). Pub. L. 104–201, §330(2)–(4), designated existing provisions as par. (1), inserted par. heading, substituted “The Administrator” for “Not later than 18 months after October 17, 1986, the Administrator”, realigned margins of par. (1) and subpars. (A) and (B), and substituted pars. (2) and (3) for “Such criteria shall be applied in the same manner as the criteria are applied to facilities which are owned or operated by other persons. Evaluation and listing under this subsection shall be completed not later than 30 months after October 17, 1986. Upon the receipt of a petition from the Governor of any State, the Administrator shall make such an evaluation of any facility included in the docket.”
+Subsec. (d). Pub. L. 104–201, §330(2)–(4), designated existing provisions as par. (1), inserted par. heading, substituted "The Administrator" for "Not later than 18 months after October 17, 1986, the Administrator", realigned margins of par. (1) and subpars. (A) and (B), and substituted pars. (2) and (3) for "Such criteria shall be applied in the same manner as the criteria are applied to facilities which are owned or operated by other persons. Evaluation and listing under this subsection shall be completed not later than 30 months after October 17, 1986. Upon the receipt of a petition from the Governor of any State, the Administrator shall make such an evaluation of any facility included in the docket."
 
 Pub. L. 104–201, §330(1), redesignated pars. (1) and (2) as subpars. (A) and (B), respectively.
 
 Subsec. (h)(3). Pub. L. 104–201, §334(a)(8), added subpar. (C).
 
-Pub. L. 104–201, §334(a)(6), (7), designated existing provisions as subpar. (B), inserted heading, substituted “For purposes of subparagraphs (A)(ii)(I) and (C)(iii)” for “For purposes of subparagraph (B)(i)”, and substituted “subparagraph (A)(ii)” for “subparagraph (B)” in three places.
+Pub. L. 104–201, §334(a)(6), (7), designated existing provisions as subpar. (B), inserted heading, substituted "For purposes of subparagraphs (A)(ii)(I) and (C)(iii)" for "For purposes of subparagraph (B)(i)", and substituted "subparagraph (A)(ii)" for "subparagraph (B)" in three places.
 
 Pub. L. 104–201, §334(a)(1)–(5), designated first sentence as subpar. (A), inserted heading, redesignated former subpar. (A) and cls. (i) to (iii) of that subpar. as cl. (i) of subpar. (A) and subcls. (I) to (III) of that cl., respectively, redesignated former subpar. (B) and cls. (i) and (ii) of that subpar. as cl. (ii) of subpar. (A) and subcls. (I) and (II) of that cl., respectively, redesignated former subpar. (C) as cl. (iii) of subpar. (A), and realigned margins of such cls. and subcls.
 
-Pub. L. 104–106, §2834(2), which directed that par. (3) be amended in the matter following subpar. (C) by adding at the end, flush to the paragraph margin, the following, was executed by inserting the following provision at the end of the concluding provisions “The requirements of subparagraph (B) shall not apply in any case in which the person or entity to whom the real property is transferred is a potentially responsible party with respect to such property. The requirements of subparagraph (B) shall not apply in any case in which the transfer of the property occurs or has occurred by means of a lease, without regard to whether the lessee has agreed to purchase the property or whether the duration of the lease is longer than 55 years. In the case of a lease entered into after September 30, 1995, with respect to real property located at an installation approved for closure or realignment under a base closure law, the agency leasing the property, in consultation with the Administrator, shall determine before leasing the property that the property is suitable for lease, that the uses contemplated for the lease are consistent with protection of human health and theenvironment, and that there are adequate assurances that the United States will take all remedial action referred to in subparagraph (B) that has not been taken on the date of the lease.”
+Pub. L. 104–106, §2834(2), which directed that par. (3) be amended in the matter following subpar. (C) by adding at the end, flush to the paragraph margin, the following, was executed by inserting the following provision at the end of the concluding provisions "The requirements of subparagraph (B) shall not apply in any case in which the person or entity to whom the real property is transferred is a potentially responsible party with respect to such property. The requirements of subparagraph (B) shall not apply in any case in which the transfer of the property occurs or has occurred by means of a lease, without regard to whether the lessee has agreed to purchase the property or whether the duration of the lease is longer than 55 years. In the case of a lease entered into after September 30, 1995, with respect to real property located at an installation approved for closure or realignment under a base closure law, the agency leasing the property, in consultation with the Administrator, shall determine before leasing the property that the property is suitable for lease, that the uses contemplated for the lease are consistent with protection of human health and the environment, and that there are adequate assurances that the United States will take all remedial action referred to in subparagraph (B) that has not been taken on the date of the lease."
 
-Pub. L. 104–106, §2834(1), struck out first sentence of concluding provisions which read as follows: “The requirements of subparagraph (B) shall not apply in any case in which the person or entity to whom the property is transferred is a potentially responsible party with respect to such real property.”
+Pub. L. 104–106, §2834(1), struck out first sentence of concluding provisions which read as follows: "The requirements of subparagraph (B) shall not apply in any case in which the person or entity to whom the property is transferred is a potentially responsible party with respect to such real property."
 
-Subsec. (h)(4)(A). Pub. L. 104–201, §331, substituted “known to have been released” for “stored for one year or more, known to have been released,”.
+Subsec. (h)(4)(A). Pub. L. 104–201, §331, substituted "known to have been released" for "stored for one year or more, known to have been released,".
 
-<b>1992</b>—Subsec. (h)(3). Pub. L. 102–426, §4(a), inserted at end “For purposes of subparagraph (B)(i), all remedial action described in such subparagraph has been taken if the construction and installation of an approved remedial design has been completed, and the remedy has been demonstrated to the Administrator to be operating properly and successfully. The carrying out of long-term pumping and treating, or operation and maintenance, after the remedy has been demonstrated to the Administrator to be operating properly and successfully does not preclude the transfer of the property.”
+<b>1992</b>—Subsec. (h)(3). Pub. L. 102–426, §4(a), inserted at end "For purposes of subparagraph (B)(i), all remedial action described in such subparagraph has been taken if the construction and installation of an approved remedial design has been completed, and the remedy has been demonstrated to the Administrator to be operating properly and successfully. The carrying out of long-term pumping and treating, or operation and maintenance, after the remedy has been demonstrated to the Administrator to be operating properly and successfully does not preclude the transfer of the property."
 
 Subsec. (h)(3)(C). Pub. L. 102–426, §4(b), added subpar. (C).
 
@@ -304,35 +304,35 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Identification of Uncontaminated Property at Installations To Be Closed
 
-Pub. L. 103–160, div. B, title XXIX, §2910, Nov. 30, 1993, 107 Stat. 1924, provided that: “The identification by the Secretary of Defense required under section 120(h)(4)(A) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)(4)(A)), and the concurrence required under section 120(h)(4)(B) of such Act, shall be made not later than the earlier of—
+Pub. L. 103–160, div. B, title XXIX, §2910, Nov. 30, 1993, 107 Stat. 1924, provided that: "The identification by the Secretary of Defense required under section 120(h)(4)(A) of the Comprehensive Environmental Response, Compensation, and Liability Act of 1980 (42 U.S.C. 9620(h)(4)(A)), and the concurrence required under section 120(h)(4)(B) of such Act, shall be made not later than the earlier of—
 
-&emsp;“(1) the date that is 9 months after the date of the submittal, if any, to the transition coordinator for the installation concerned of a specific use proposed for all or a portion of the real property of the installation; or
+&emsp;"(1) the date that is 9 months after the date of the submittal, if any, to the transition coordinator for the installation concerned of a specific use proposed for all or a portion of the real property of the installation; or
 
-&emsp;“(2) the date specified in section 120(h)(4)(C)(iii) of such Act.”
+&emsp;"(2) the date specified in section 120(h)(4)(C)(iii) of such Act."
 
 #### Congressional Findings
 
-Pub. L. 102–426, §2, Oct. 19, 1992, 106 Stat. 2174, provided that: “The Congress finds the following:
+Pub. L. 102–426, §2, Oct. 19, 1992, 106 Stat. 2174, provided that: "The Congress finds the following:
 
-&emsp;“(1) The closure of certain Federal facilities is having adverse effects on the economies of local communities by eliminating jobs associated with such facilities, and delay in remediation of environmental contamination of real property at such facilities is preventing transfer and private development of such property.
+&emsp;"(1) The closure of certain Federal facilities is having adverse effects on the economies of local communities by eliminating jobs associated with such facilities, and delay in remediation of environmental contamination of real property at such facilities is preventing transfer and private development of such property.
 
-&emsp;“(2) Each department, agency, or instrumentality of the United States, in cooperation with local communities, should expeditiously identify real property that offers the greatest opportunity for reuse and redevelopment on each facility under the jurisdiction of the department, agency, or instrumentality where operations are terminating.
+&emsp;"(2) Each department, agency, or instrumentality of the United States, in cooperation with local communities, should expeditiously identify real property that offers the greatest opportunity for reuse and redevelopment on each facility under the jurisdiction of the department, agency, or instrumentality where operations are terminating.
 
-&emsp;“(3) Remedial actions, including remedial investigations and feasibility studies, and corrective actions at such Federal facilities should be expedited in a manner to facilitate environmental protection and the sale or transfer of such excess real property for the purpose of mitigating adverse economic effects on the surrounding community.
+&emsp;"(3) Remedial actions, including remedial investigations and feasibility studies, and corrective actions at such Federal facilities should be expedited in a manner to facilitate environmental protection andthe sale or transfer of such excess real property for the purpose of mitigating adverse economic effects on the surrounding community.
 
-&emsp;“(4) Each department, agency, or instrumentality of the United States, in accordance with applicable law, should make available without delay such excess real property.
+&emsp;"(4) Each department, agency, or instrumentality of the United States, in accordance with applicable law, should make available without delay such excess real property.
 
-&emsp;“(5) In the case of any real property owned by the United States and transferred to another person, the United States Government should remain responsible for conducting any remedial action or corrective action necessary to protect human health and the environment with respect to any hazardous substance or petroleum product or its derivatives, including aviation fuel and motor oil, that was present on such real property at the time of transfer.”
+&emsp;"(5) In the case of any real property owned by the United States and transferred to another person, the United States Government should remain responsible for conducting any remedial action or corrective action necessary to protect human health and the environment with respect to any hazardous substance or petroleum product or its derivatives, including aviation fuel and motor oil, that was present on such real property at the time of transfer."
 
 #### Applicability
 
-Pub. L. 99–499, title I, §120(b), Oct. 17, 1986, 100 Stat. 1671, provided that: “Section 120 of CERCLA \[42 U.S.C. 9620\] shall not apply to any response action or remedial action for which a plan is under development by the Department of Energy on the date of enactment of this Act \[Oct. 17, 1986\] with respect to facilities—
+Pub. L. 99–499, title I, §120(b), Oct. 17, 1986, 100 Stat. 1671, provided that: "Section 120 of CERCLA \[42 U.S.C. 9620\] shall not apply to any response action or remedial action for which a plan is under development by the Department of Energy on the date of enactment of this Act \[Oct. 17, 1986\] with respect to facilities—
 
-&emsp;“(1) owned or operated by the United States and subject to the jurisdiction of such Department;
+&emsp;"(1) owned or operated by the United States and subject to the jurisdiction of such Department;
 
-&emsp;“(2) located in St. Charles and St. Louis counties, Missouri, or the city of St. Louis, Missouri, and
+&emsp;"(2) located in St. Charles and St. Louis counties, Missouri, or the city of St. Louis, Missouri, and
 
-&emsp;“(3) published in the National Priorities List.
+&emsp;"(3) published in the National Priorities List.
 
-> In preparing such plans, the Secretary of Energy shall consult with the Administrator of the Environmental Protection Agency.”
+> In preparing such plans, the Secretary of Energy shall consult with the Administrator of the Environmental Protection Agency."
 

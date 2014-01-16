@@ -54,21 +54,21 @@ Section was enacted as part of the Water Resources Development Act of 1996, and 
 
 <b>2007</b>—Subsec. (a). Pub. L. 110–114, §2020(1), added subsec. (a) and struck out former subsec. (a), which read as follows:
 
-“(a)
+"(a)
 
 General authority.—The Secretary may carry out an aquatic ecosystem restoration and protection project if the Secretary determines that the project—
 
-&emsp;“(1) will improve the quality of the environment and is in the public interest; and
+&emsp;"(1) will improve the quality of the environment and is in the public interest; and
 
-&emsp;“(2) is cost-effective.”
+&emsp;"(2) is cost-effective."
 
-Subsec. (e). Pub. L. 110–114, §2020(2), substituted “$50,000,000” for “$25,000,000”.
+Subsec. (e). Pub. L. 110–114, §2020(2), substituted "$50,000,000" for "$25,000,000".
 
 <b>1999</b>—Subsec. (b). Pub. L. 106–53, §210(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
 Subsec. (c). Pub. L. 106–53, §210(2), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 104–303, set out as a note under section 2201 of this title.
 

@@ -32,5 +32,5 @@ Pub. L. 96–350, §3(f), Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–570, title
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–407 inserted “or 70508” after “70503” in introductory provisions.
+<b>2008</b>—Subsec. (b). Pub. L. 110–407 inserted "or 70508" after "70503" in introductory provisions.
 

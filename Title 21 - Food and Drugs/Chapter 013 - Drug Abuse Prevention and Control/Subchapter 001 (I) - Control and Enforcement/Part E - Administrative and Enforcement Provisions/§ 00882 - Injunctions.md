@@ -26,7 +26,7 @@ In case of an alleged violation of an injunction or restraining order issued und
 
 &emsp;(A) Prior to filing a complaint under paragraph (1), the State shall serve a copy of the complaint upon the Attorney General and upon the United States Attorney for the judicial district in which the complaint is to be filed. In any case where such prior service is not feasible, the State shall serve the complaint on the Attorney General and the appropriate United States Attorney on the same day that the State's complaint is filed in Federal district court of the United States. Such proceedings shall be independent of, and not in lieu of, criminal prosecutions or any other proceedings under this subchapter or any other laws of the United States.
 
-&emsp;(B) Upon receiving notice respecting a civil action pursuant to this section, the UnitedStates shall have the right to intervene in such action and, upon so intervening, to be heard on all matters arising therein, and to file petitions for appeal.
+&emsp;(B) Upon receiving notice respecting a civil action pursuant to this section, the United States shall have the right to intervene in such action and, upon so intervening, to be heard on all matters arising therein, and to file petitions for appeal.
 
 &emsp;(C) Service of a State's complaint on the United States as required in this paragraph shall be made in accord with the requirements of rule 4(i)(1) of the Federal Rule <sup>1</sup> of Civil Procedure.
 
@@ -58,9 +58,9 @@ In case of an alleged violation of an injunction or restraining order issued und
 
 The Federal Rules of Civil Procedure, referred to in subsecs. (a), (b), and (c)(2)(C), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-This subchapter, referred to in subsecs. (a) and (c)(2)(A), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+This subchapter, referred to in subsecs. (a) and (c)(2)(A), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
-This chapter, referred to in subsec. (c)(3), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsec. (c)(3), was in the original "this Act", meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(6)(B), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
@@ -72,5 +72,5 @@ The Indian Self-Determination and Education Assistance Act, referred to in subse
 
 Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as otherwise provided, see section 3(j) of Pub. L. 110–425, set out as a note under section 802 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Rules”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Rules".</i>
 

@@ -19,7 +19,7 @@
 - [&sect; 00406 - Representation of claimants before Commissioner](%C2%A7%2000406%20-%20Representation%20of%20claimants%20before%20Commissioner.md)
 - [&sect; 00407 - Assignment of benefits](%C2%A7%2000407%20-%20Assignment%20of%20benefits.md)
 - [&sect; 00408 - Penalties](%C2%A7%2000408%20-%20Penalties.md)
-- [&sect; 00409 - &#8220;Wages&#8221; defined](%C2%A7%2000409%20-%20%E2%80%9CWages%E2%80%9D%20defined.md)
+- [&sect; 00409 - Wages defined](%C2%A7%2000409%20-%20Wages%20defined.md)
 - [&sect; 00410 - Definitions relating to employment](%C2%A7%2000410%20-%20Definitions%20relating%20to%20employment.md)
 - [&sect; 00410a - Transferred](%C2%A7%2000410a%20-%20Transferred.md)
 - [&sect; 00411 - Definitions relating to self-employment](%C2%A7%2000411%20-%20Definitions%20relating%20to%20self-employment.md)

@@ -14,7 +14,7 @@ The amounts appropriated to carry out this section shall be reserved from the to
 
 #### (d) Report to Congress
 
-Not later than May 15, 1999, the Attorney General shall submit a report to the Congress which contains the recommendation of the Attorney General concerning the extension of the program under this section.
+Not later than May 15, 1999, the Attorney General shall submit a report to the Congress whichcontains the recommendation of the Attorney General concerning the extension of the program under this section.
 
 (Pub. L. 103–322, title II, §20110, as added Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(a)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.)
 

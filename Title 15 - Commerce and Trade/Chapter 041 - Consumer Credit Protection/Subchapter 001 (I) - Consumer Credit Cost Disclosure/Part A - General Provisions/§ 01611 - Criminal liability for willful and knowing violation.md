@@ -14,7 +14,7 @@ Whoever willfully and knowingly
 
 #### Amendments
 
-<b>2010</b>—Par. (2). Pub. L. 111–203 substituted “Bureau” for “Board”.
+<b>2010</b>—Par. (2). Pub. L. 111–203 substituted "Bureau" for "Board".
 
 #### Effective Date of 2010 Amendment
 

@@ -98,7 +98,7 @@ Amount of Burial Allowance; Relationship to Other Provisions.—A burial allowan
 
 Report.—Not later than 180 days after the date of the enactment of this Act \[Jan. 3, 2012\], the Director of the Office of Personnel Management, in consultation with the Director of National Intelligence, the Secretary of Labor, and the Secretary of Defense, shall submit to Congress a report on the feasibility of implementing legislation to provide for burial allowances at a level which adequately addresses the cost of burial expenses and provides for equitable treatment when an officer or employee of a Federal agency or department dies as the result of an injury sustained in the performance of duty.”
 
-\[For definition of “intelligence community” as used in section 310 of Pub. L. 112–87, set out above, see section 2 of Pub. L. 112–87, set out as a note under section 401a of Title 50, War and National Defense.\]
+\[For definition of “intelligence community” as used in section 310 of Pub. L. 112–87, set out above, see section 2 of Pub. L. 112–87, set out as a note under section 3003 of Title 50, War and National Defense.\]
 
 #### Availability of Department of the Interior and Related Agencies Appropriations To Reimburse Representatives of Employees Killed in Line of Duty
 

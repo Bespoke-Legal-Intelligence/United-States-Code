@@ -44,7 +44,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 &emsp;&emsp;(iv) restrictions on the conversion of contingent interests or fees into non-contingent interests or fees and restrictions on the receipt of a non-contingent equity interest in exchange for fees for services which have not yet been provided.
 
-&emsp;(B) As used in this paragraph, the term “dissenting limited partner” means a person who, on the date on which soliciting material is mailed to investors, is a holder of a beneficial interest in a limited partnership that is the subject of a limited partnership rollup transaction, and who casts a vote against the transaction and complies with procedures established by the exchange, except that for purposes of an exchange or tender offer, such person shall file an objection in writing under the rules of the exchange during the period during which the offer is outstanding.
+&emsp;(B) As used in this paragraph, the term "dissenting limited partner" means a person who, on the date on which soliciting material is mailed to investors, is a holder of a beneficial interest in a limited partnership that is the subject of a limited partnership rollup transaction, and who casts a vote against the transaction and complies with procedures established by the exchange, except that for purposes of an exchange or tender offer, such person shall file an objection in writing under the rules of the exchange during the period during which the offer is outstanding.
 
 &emsp;(10)(A) The rules of the exchange prohibit any member that is not the beneficial owner of a security registered under section 78l of this title from granting a proxy to vote the security in connection with a shareholder vote described in subparagraph (B), unless the beneficial owner of the security has instructed the member to vote the proxy in accordance with the voting instructions of the beneficial owner.
 
@@ -88,7 +88,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 &emsp;(B) permit a national securities exchange, by rule, to impose a schedule or fix rates of commissions, allowances, discounts, or other fees to be charged by its members for effecting transactions on such exchange after November 1, 1976, if the Commission finds that such schedule or fixed rates of commissions, allowances, discounts, or other fees (i) are reasonable in relation to the costs of providing the service for which such fees are charged (and the Commission publishes the standards employed in adjudging reasonableness) and (ii) do not impose any burden on competition not necessary or appropriate in furtherance of the purposes of this chapter, taking into consideration the competitive effects of permitting such schedule or fixed rates weighed against the competitive effects of other lawful actions which the Commission is authorized to take under this chapter.
 
-(2) Notwithstanding the provisions of section 78s(c) of this title, the Commission, by rule, may abrogate any exchange rule which imposes a schedule or fixes rates of commissions, allowances, discounts, or other fees, if the Commission determines that such schedule or fixed rates are no longer reasonable, in the public interest, or necessary to accomplish the purposes of this chapter.
+(2) Notwithstanding the provisions of section 78s(c) of this title, the Commission, by rule, may abrogate any exchange rule which imposes aschedule or fixes rates of commissions, allowances, discounts, or other fees, if the Commission determines that such schedule or fixed rates are no longer reasonable, in the public interest, or necessary to accomplish the purposes of this chapter.
 
 (3)(A) Before approving or disapproving any proposed rule change submitted by a national securities exchange which would impose a schedule or fix rates of commissions, allowances, discounts, or other fees to be charged by its members for effecting transactions on such exchange, the Commission shall afford interested persons (i) an opportunity for oral presentation of data, views, and arguments and (ii) with respect to any such rule concerning transactions effected after November 1, 1976, if the Commission determines there are disputed issues of material fact, to present such rebuttal submissions and to conduct (or have conducted under subparagraph (B) of this paragraph) such cross-examination as the Commission determines to be appropriate and required for full disclosure and proper resolution of such disputed issues of material fact.
 
@@ -218,7 +218,7 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 &emsp;&emsp;(A) except as otherwise provided in a rule, regulation, or order issued pursuant to paragraph (4), require that any security underlying the security future, including each component security of a narrow-based security index, be registered pursuant to section 78l of this title;
 
-&emsp;&emsp;(B) require that if the security futures product is not cash settled, the market onwhich the security futures product is traded have arrangements in place with a registered clearing agency for the payment and delivery of the securities underlying the security futures product;
+&emsp;&emsp;(B) require that if the security futures product is not cash settled, the market on which the security futures product is traded have arrangements in place with a registered clearing agency for the payment and delivery of the securities underlying the security futures product;
 
 &emsp;&emsp;(C) be no less restrictive than comparable listing standards for options traded on a national securities exchange or national securities association registered pursuant to section 78o–3(a) of this title;
 
@@ -262,7 +262,7 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 #### (6) Deferral of options on security futures trading
 
-&emsp;No person shall offer to enter into, enter into, or confirm the execution of any put, call, straddle, option, or privilege on a security future, except that, after 3 years after December21, 2000, the Commission and the Commodity Futures Trading Commission may by order jointly determine to permit trading of puts, calls, straddles, options, or privileges on any security future authorized to be traded under the provisions of this chapter and the Commodity Exchange Act \[7 U.S.C. 1 et seq.\].
+&emsp;No person shall offer to enter into, enter into, or confirm the execution of any put, call, straddle, option, or privilege on a security future, except that, after 3 years after December 21, 2000, the Commission and the Commodity Futures Trading Commission may by order jointly determine to permit trading of puts, calls, straddles, options, or privileges on any security future authorized to be traded under the provisions of this chapter and the Commodity Exchange Act \[7 U.S.C. 1 et seq.\].
 
 #### (7) Deferral of linked and coordinated clearing
 
@@ -274,7 +274,7 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 &emsp;(B) The Commission and the Commodity Futures Trading Commission shall jointly publish in the Federal Register a notice of the compliance date no later than 165 days before the compliance date.
 
-&emsp;(C) For purposes of this paragraph, the term “compliance date” means the later of—
+&emsp;(C) For purposes of this paragraph, the term "compliance date" means the later of—
 
 &emsp;&emsp;(i) 180 days after the end of the first full calendar month period in which the average aggregate comparable share volume for all security futures products based on single equity securities traded on all national securities exchanges, any national securities associations registered pursuant to section 78o–3(a) of this title, and all other persons equals or exceeds 10 percent of the average aggregate comparable share volume of options on single equity securities traded on all national securities exchanges and any national securities associations registered pursuant to section 78o–3(a) of this title; or
 
@@ -310,9 +310,9 @@ It shall be unlawful for any person to effect a transaction in a security-based 
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) to (e), (g)(4)(A), (h)(3)(G), (7)(C)(ii), and (i), was in the original “this title”. This chapter, referred to in subsec. (h)(6), was in the original “this Act”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (b) to (e), (g)(4)(A), (h)(3)(G), (7)(C)(ii), and (i), was in the original "this title". This chapter, referred to in subsec. (h)(6), was in the original "this Act". See References in Text note set out under section 78a of this title.
 
-The Investment Company Act of 1940, referred to in subsec. (b)(10)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapterI (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
+The Investment Company Act of 1940, referred to in subsec. (b)(10)(B), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
 The Commodity Exchange Act, referred to in subsecs. (g)(1)(A) and (h)(6), is act Sept. 21, 1922, ch. 369, 42 Stat. 998, which is classified generally to chapter 1 (§1 et seq.) of Title 7, Agriculture. Section 1a(2) of Title 7 was redesignated section 1a(6) by Pub. L. 111–203, title VII, §721(a)(1), July 21, 2010, 124 Stat. 1658. For complete classification of this Act to the Code, see section 1 of Title 7 and Tables.
 
@@ -324,11 +324,11 @@ Subsection (k) of section 78q of this title, referred to in subsec. (g)(4)(A)(iv
 
 Subsec. (b)(10). Pub. L. 111–203, §957(2), added par. (10).
 
-Subsec. (g)(1)(A). Pub. L. 111–203, §734(b)(2), substituted “that has been designated” for “that—(i) has been designated” and “and” for “or” at end and struck out cl. (ii) which read as follows: “is registered as a derivative transaction execution facility under section 5a of the Commodity Exchange Act and such registration is not suspended by the Commodity Futures Trading Commission; and”.
+Subsec. (g)(1)(A). Pub. L. 111–203, §734(b)(2), substituted "that has been designated" for "that—(i) has been designated" and "and" for "or" at end and struck out cl. (ii) which read as follows: "is registered as a derivative transaction execution facility under section 5a of the Commodity Exchange Act and such registration is not suspended by the Commodity Futures Trading Commission; and".
 
-Subsec. (g)(5)(B)(i)(I). Pub. L. 111–203, §721(e)(8)(A), substituted “section 1a(18)(B)(ii)” for “section 1a(12)(B)(ii)”.
+Subsec. (g)(5)(B)(i)(I). Pub. L. 111–203, §721(e)(8)(A), substituted "section 1a(18)(B)(ii)" for "section 1a(12)(B)(ii)".
 
-Subsec. (g)(5)(B)(i)(II). Pub. L. 111–203, §721(e)(8)(B), substituted “section 1a(18)” for “section 1a(12)”.
+Subsec. (g)(5)(B)(i)(II). Pub. L. 111–203, §721(e)(8)(B), substituted "section 1a(18)" for "section 1a(12)".
 
 Subsec. (l). Pub. L. 111–203, §763(e), added subsec. (l).
 
@@ -344,15 +344,15 @@ Subsec. (k). Pub. L. 106–554, §1(a)(5) \[title II, §206(l)\], added subsec. 
 
 <b>1993</b>—Subsec. (b)(9). Pub. L. 103–202 added par. (9).
 
-<b>1987</b>—Subsec. (c)(2). Pub. L. 100–181, §309, substituted “protection of investors shall” for “protection shall”.
+<b>1987</b>—Subsec. (c)(2). Pub. L. 100–181, §309, substituted "protection of investors shall" for "protection shall".
 
-Subsec. (c)(3)(A). Pub. L. 100–181, §310, substituted “associated” for “association”.
+Subsec. (c)(3)(A). Pub. L. 100–181, §310, substituted "associated" for "association".
 
-Subsec. (c)(4). Pub. L. 100–181, §311, substituted “may limit (A)” for “may (A) limit”.
+Subsec. (c)(4). Pub. L. 100–181, §311, substituted "may limit (A)" for "may (A) limit".
 
-Subsec. (e)(1). Pub. L. 100–181, §312(1), substituted “paragraph (3) of this subsection” for “paragraph (4) of this section”.
+Subsec. (e)(1). Pub. L. 100–181, §312(1), substituted "paragraph (3) of this subsection" for "paragraph (4) of this section".
 
-Subsec. (e)(3), (4). Pub. L. 100–181, §312(2), (3), redesignated par. (4) as (3) and, in subpar. (E), substituted “fixing” for “fixes” in introductory provisions, “subparagraph (A) of this paragraph” for “paragraph (4)(A) of this subsection” in cl. (1), and “subparagraph (B) of this paragraph” for “paragraph (4)(B) of this subsection” in cl. (2), and struck out former par. (3) which read as follows: “Until December 31, 1976, the Commission, on a regular basis, shall file with the Speaker of the House and the President of the Senate information concerning the effect on the public interest, protection of investors, and maintenance of fair and orderly markets of the absence of any schedule or fixed rates of commissions, allowances, discounts, or other fees to be charged by members of any national securities exchange for effecting transactions on such exchange.”
+Subsec. (e)(3), (4). Pub. L. 100–181, §312(2), (3), redesignated par. (4) as (3) and, in subpar. (E), substituted "fixing" for "fixes" in introductory provisions, "subparagraph (A) of this paragraph" for "paragraph (4)(A) of this subsection" in cl. (1), and "subparagraph (B) of this paragraph" for "paragraph (4)(B) of this subsection" in cl. (2), and struck out former par. (3) which read as follows: "Until December 31, 1976, the Commission, on a regular basis, shall file with the Speaker of the House and the President of the Senate information concerning the effect on the public interest, protection of investors, and maintenance of fair and orderly markets of the absence of any schedule or fixed rates of commissions, allowances, discounts, or other fees to be charged by members of any national securities exchange for effecting transactions on such exchange."
 
 <b>1975</b>—Pub. L. 94–29 restructured the entire section and, in addition, authorized the Commission to require an exchange to file such documents and information as it deems necessary or appropriate in the public interest or for the protection of investors and to prescribe the form and substance of an exchange's application for registration, expanded to eight the number of explicit statutory requirements that must be satisfied before an exchange may be registered as a national securities exchange, set forth the authority of a national securities exchange to admit or deny persons membership or association with members, prescribed exchange procedures for instituting disciplinary actions, denying membership, and summarily suspending members or persons associated with members, specified the authority of national securities exchanges to impose schedules or fix rates of commissions, allowances, discounts, or other fees to be charged by its members for transacting business on the exchange, and empowered the Commission to regulate any broker or dealer who effects transactions on an exchange on a regular basis but who is not a member of that exchange and any person who effects transactions on an exchange without the services of another person acting as broker.
 
@@ -368,25 +368,25 @@ Amendment by section 763(e) of Pub. L. 111–203 effective on the later of 360 d
 
 Pub. L. 103–202, title III, §304, Dec. 17, 1993, 107 Stat. 2367, provided that:
 
-“(a)
+"(a)
 
 Effective Date.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The amendments made by section 303 \[amending this section and section 78o–3 of this title\] shall become effective 12 months after the date of enactment of this Act \[Dec. 17, 1993\].
 
-&emsp;“(2)
+&emsp;"(2)
 
 Rulemaking authority.—Notwithstanding paragraph (1), the authority of the Securities and Exchange Commission, a registered securities association, and a national securities exchange to commence rulemaking proceedings for the purpose of issuing rules pursuant to the amendments made by section 303 is effective on the date of enactment of this Act.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Review of filings prior to effective date.—Prior to the effective date of regulations promulgated pursuant to this title \[amending this section and sections 78n and 78o–3 of this title and enacting provisions set out as notes under sections 78a and 78n of this title\], the Securities and Exchange Commission shall continue to review and declare effective registration statements and amendments thereto relating to limited partnership rollup transactions in accordance with applicable regulations then in effect.
 
-“(b)
+"(b)
 
-Effect on Existing Authority.—The amendments made by this title \[amending this section and sections 78n and 78o–3 of this title\] shall not limit the authority of the Securities and Exchange Commission, a registered securities association, or a national securities exchange under any provision of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or preclude the Commission or such association or exchange from imposing, under any other such provision, a remedy or procedure required to be imposed under such amendments.”
+Effect on Existing Authority.—The amendments made by this title \[amending this section and sections 78n and 78o–3 of this title\] shall not limit the authority of the Securities and Exchange Commission, a registered securities association, or a national securities exchange under any provision of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or preclude the Commission or such association or exchange fromimposing, under any other such provision, a remedy or procedure required to be imposed under such amendments."
 
 #### Effective Date of 1975 Amendment
 
@@ -398,7 +398,7 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Changes in Organization and Rules of National Securities Exchanges and Registered Securities Associations
 
-Pub. L. 94–29, §31(b), June 4, 1975, 89 Stat. 170, provided that: “If it appears to the Commission at any time within one year of the effective date of any amendment made by this Act \[see Short Title of 1975 Amendment note under section 78a of this title\] to the Securities Exchange Act of 1934 that the organization or rules of any national securities exchange or registered securities association registered with the Commission on the date of enactment of this Act \[June 4, 1975\] do not comply with such Act as amended, the Commission shall so notify such exchange or association in writing, specifying the respects in which the exchange or association is not in compliance with such Act. On and after the one hundred eightieth day following the date of receipt of such notice by a national securities exchange or registered securities association, the Commission, without regard to the provisions of section 19(h) of the Securities Exchange Act of 1934 \[section 78s(h) of this title\], as amended by this Act, is authorized by order, to suspend the registration of any such exchange or association or impose limitations on the activities, functions, and operations of any such exchange or association, if the Commission finds, after notice and opportunity for hearing, that the organization or rules of such exchange or association do not comply with such Act. Any such suspension or limitation shall continue in effect until the Commission, by order, declares that such exchange or association is in compliance with such requirements.”
+Pub. L. 94–29, §31(b), June 4, 1975, 89 Stat. 170, provided that: "If it appears to the Commission at any time within one year of the effective date of any amendment made by this Act \[see Short Title of 1975 Amendment note under section 78a of this title\] to the Securities Exchange Act of 1934 that the organization or rules of any national securities exchange or registered securities association registered with the Commission on the date of enactment of this Act \[June 4, 1975\] do not comply with such Act as amended, the Commission shall so notify such exchange or association in writing, specifying the respects in which the exchange or association is not in compliance with such Act. On and after the one hundred eightieth day following the date of receipt of such notice by a national securities exchange or registered securities association, the Commission, without regard to the provisions of section 19(h) of the Securities Exchange Act of 1934 \[section 78s(h) of this title\], as amended by this Act, is authorized by order, to suspend the registration of any such exchange or association or impose limitations on the activities, functions, and operations of any such exchange or association, if the Commission finds, after notice and opportunity for hearing, that the organization or rules of such exchange or association do not comply with such Act. Any such suspension or limitation shall continue in effect until the Commission, by order, declares that such exchange or association is in compliance with such requirements."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

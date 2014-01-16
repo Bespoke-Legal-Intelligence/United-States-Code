@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Feb. 14, 1927, ch. 134, 44 Stat. 1096.
 
-The word “person” is substituted for the words “former members of the naval service”.
+The word "person" is substituted for the words "former members of the naval service".
 

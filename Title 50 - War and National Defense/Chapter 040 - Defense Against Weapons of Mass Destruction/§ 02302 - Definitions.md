@@ -2,7 +2,7 @@
 
 In this chapter:
 
-&emsp;(1) The term “weapon of mass destruction” means any weapon or device that is intended, or has the capability, to cause death or serious bodily injury to a significant number of people through the release, dissemination, or impact of—
+&emsp;(1) The term "weapon of mass destruction" means any weapon or device that is intended, or has the capability, to cause death or serious bodily injury to a significant number of people through the release, dissemination, or impact of—
 
 &emsp;&emsp;(A) toxic or poisonous chemicals or their precursors;
 
@@ -10,13 +10,13 @@ In this chapter:
 
 &emsp;&emsp;(C) radiation or radioactivity.
 
-&emsp;(2) The term “independent states of the former Soviet Union” has the meaning given that term in section 5801 of title 22.
+&emsp;(2) The term "independent states of the former Soviet Union" has the meaning given that term in section 5801 of title 22.
 
-&emsp;(3) The term “highly enriched uranium” means uranium enriched to 20 percent or more in the isotope U–235.
+&emsp;(3) The term "highly enriched uranium" means uranium enriched to 20 percent or more in the isotope U–235.
 
 (Pub. L. 104–201, div. A, title XIV, §1403, Sept. 23, 1996, 110 Stat. 2717.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title XIV of div. A of Pub. L. 104–201, Sept. 23, 1996, 110 Stat. 2714, which is classified principally to this chapter. For complete classification of title XIV to the Code, see Short Title note set out under section 2301 of this title and Tables.
+This chapter, referred to in text, was in the original "this title", meaning title XIV of div. A of Pub. L. 104–201, Sept. 23, 1996, 110 Stat. 2714, which is classified principally to this chapter. For complete classification of title XIV to the Code, see Short Title note set out under section 2301 of this title and Tables.
 

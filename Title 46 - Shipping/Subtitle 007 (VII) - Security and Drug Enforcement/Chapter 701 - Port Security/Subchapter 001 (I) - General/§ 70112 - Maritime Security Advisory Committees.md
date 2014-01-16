@@ -106,11 +106,11 @@ The Federal Advisory Committee Act, referred to in subsecs. (d)(2) and (g)(1), i
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(5). Pub. L. 111–281, §810(1), amended par. (5) generally. Prior to amendment par. (5) read as follows: “The membership of an Area Maritime Security Advisory Committee shall include representatives of the port industry, terminal operators, port labor organizations, and other users of the port areas.”
+<b>2010</b>—Subsec. (b)(5). Pub. L. 111–281, §810(1), amended par. (5) generally. Prior to amendment par. (5) read as follows: "The membership of an Area Maritime Security Advisory Committee shall include representatives of the port industry, terminal operators, port labor organizations, and other users of the port areas."
 
-Subsec. (g)(1)(A). Pub. L. 111–281, §810(2)(A), substituted “2020;” for “2008;”.
+Subsec. (g)(1)(A). Pub. L. 111–281, §810(2)(A), substituted "2020;" for "2008;".
 
-Subsec. (g)(2). Pub. L. 111–281, §810(2)(B), substituted “2018” for “2006”.
+Subsec. (g)(2). Pub. L. 111–281, §810(2)(B), substituted "2018" for "2006".
 
 <b>2006</b>—Subsec. (b)(5). Pub. L. 109–241 realigned margins.
 

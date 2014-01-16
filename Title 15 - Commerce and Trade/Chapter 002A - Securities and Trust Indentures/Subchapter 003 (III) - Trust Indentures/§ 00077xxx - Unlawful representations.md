@@ -6,7 +6,7 @@ It shall be unlawful for any person in offering, selling or issuing any security
 
 #### Amendments
 
-<b>1954</b>—Act Aug. 10, 1954, substituted “offering, selling, or issuing” for “issuing or selling”.
+<b>1954</b>—Act Aug. 10, 1954, substituted "offering, selling, or issuing" for "issuing or selling".
 
 #### Effective Date of 1954 Amendment
 

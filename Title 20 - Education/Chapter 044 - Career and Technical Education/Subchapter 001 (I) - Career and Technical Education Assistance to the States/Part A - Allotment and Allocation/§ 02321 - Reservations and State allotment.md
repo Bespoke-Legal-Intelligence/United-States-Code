@@ -94,13 +94,13 @@
 
 #### (i) Additional funds
 
-&emsp;&emsp;&emsp;The term “additional funds” means the amount by which—
+&emsp;&emsp;&emsp;The term "additional funds" means the amount by which—
 
 &emsp;&emsp;&emsp;&emsp;(I) the sum appropriated under section 2307 of this title and not reserved under paragraph (1) for a fiscal year; exceeds
 
 &emsp;&emsp;&emsp;&emsp;(II) the sum of—
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount allotted under paragraph (2) for fiscal year 2006 (as such paragraph (2) was in effect on the day before August 12, 2006);
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the amount allotted under paragraph (2) for fiscal year 2006 (as suchparagraph (2) was in effect on the day before August 12, 2006);
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the amount reserved under paragraph (1)(C) for fiscal year 2006 (as such paragraph (1)(C) was so in effect); and
 
@@ -108,7 +108,7 @@
 
 #### (ii) Qualifying State
 
-&emsp;&emsp;&emsp;The term “qualifying State” means a State (except the United States Virgin Islands) that, for the fiscal year for which a determination under this paragraph is made, would receive, under the allotment formula under paragraph (2) (without the application of this paragraph and paragraphs (3) and (5)), an amount that would be less than the amount the State would receive under subparagraph (A) for such fiscal year.
+&emsp;&emsp;&emsp;The term "qualifying State" means a State (except the United States Virgin Islands) that, for the fiscal year for which a determination under this paragraph is made, would receive, under the allotment formula under paragraph (2) (without the application of this paragraph and paragraphs (3) and (5)), an amount that would be less than the amount the State would receive under subparagraph (A) for such fiscal year.
 
 #### (5) Hold harmless
 
@@ -122,7 +122,7 @@
 
 #### (b) Reallotment
 
-If the Secretary determines that any amount of any State's allotment under subsection (a) for any fiscal year will not be required for such fiscal year for carrying out the activities for which such amount has been allotted, the Secretary shall make such amount available for reallotment. Any such reallotment among other States shall occur on such dates during the same year as the Secretary shall fix, and shall be made on the basis of criteria established by regulation. No funds may be reallotted for any use otherthan the use for which the funds were appropriated. Any amount reallotted to a State under this subsection for any fiscal year shall remain available for obligation during the succeeding fiscal year and shall be deemed to be part of the State's allotment for the year in which the amount is obligated.
+If the Secretary determines that any amount of any State's allotment under subsection (a) for any fiscal year will not be required for such fiscal year for carrying out the activities for which such amount has been allotted, the Secretary shall make such amount available for reallotment. Any such reallotment among other States shall occur on such dates during the same year as the Secretary shall fix, and shall be made on the basis of criteria established by regulation. No funds may be reallotted for any use other than the use for which the funds were appropriated. Any amount reallotted to a State under this subsection for any fiscal year shall remain available for obligation during the succeeding fiscal year and shall be deemed to be part of the State's allotment for the year in which the amount is obligated.
 
 #### (c) Allotment ratio
 
@@ -144,7 +144,7 @@ If the Secretary determines that any amount of any State's allotment under subse
 
 #### (3) Definition of per capita income
 
-&emsp;For the purpose of this section, the term “per capita income” means, with respect to a fiscal year, the total personal income in the calendar year ending in such year, divided by the population of the area concerned in such year.
+&emsp;For the purpose of this section, the term "per capita income" means, with respect to a fiscal year, the total personal income in the calendar year ending in such year, divided by the population of the area concerned in such year.
 
 #### (4) Population determination
 
@@ -152,7 +152,7 @@ If the Secretary determines that any amount of any State's allotment under subse
 
 #### (d) Definition of State
 
-For the purpose of this section, the term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the United States Virgin Islands.
+For the purpose of this section, the term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the United States Virgin Islands.
 
 (Pub. L. 88–210, title I, §111, as added Pub. L. 109–270, §1(b), Aug. 12, 2006, 120 Stat. 691.)
 

@@ -2,39 +2,39 @@
 
 For the purposes of this chapter—
 
-&emsp;(1) The term “Secretary” mean <sup>1</sup> the Secretary of Labor.
+&emsp;(1) The term "Secretary" mean <sup>1</sup> the Secretary of Labor.
 
-&emsp;(2) The term “Commission” means the Occupational Safety and Health Review Commission established under this chapter.
+&emsp;(2) The term "Commission" means the Occupational Safety and Health Review Commission established under this chapter.
 
-&emsp;(3) The term “commerce” means trade, traffic, commerce, transportation, or communication among the several States, or between a State and any place outside thereof, or within the District of Columbia, or a possession of the United States (other than the Trust Territory of the Pacific Islands), or between points in the same State but through a point outside thereof.
+&emsp;(3) The term "commerce" means trade, traffic, commerce, transportation, or communication among the several States, or between a State and any place outside thereof, or within the District of Columbia, or a possession of the United States (other than the Trust Territory of the Pacific Islands), or between points in the same State but through a point outside thereof.
 
-&emsp;(4) The term “person” means one or more individuals, partnerships, associations, corporations, business trusts, legal representatives, or any organized group of persons.
+&emsp;(4) The term "person" means one or more individuals, partnerships, associations, corporations, business trusts, legal representatives, or any organized group of persons.
 
-&emsp;(5) The term “employer” means a person engaged in a business affecting commerce who has employees, but does not include the United States (not including the United States Postal Service) or any State or political subdivision of a State.
+&emsp;(5) The term "employer" means a person engaged in a business affecting commerce who has employees, but does not include the United States (not including the United States Postal Service) or any State or political subdivision of a State.
 
-&emsp;(6) The term “employee” means an employee of an employer who is employed in a business of his employer which affects commerce.
+&emsp;(6) The term "employee" means an employee of an employer who is employed in a business of his employer which affects commerce.
 
-&emsp;(7) The term “State” includes a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Trust Territory of the Pacific Islands.
+&emsp;(7) The term "State" includes a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, American Samoa, Guam, and the Trust Territory of the Pacific Islands.
 
-&emsp;(8) The term “occupational safety and health standard” means a standard which requires conditions, or the adoption or use of one or more practices, means, methods, operations, or processes, reasonably necessary or appropriate to provide safe or healthful employment and places of employment.
+&emsp;(8) The term "occupational safety and health standard" means a standard which requires conditions, or the adoption or use of one or more practices, means, methods, operations, or processes, reasonably necessary or appropriate to provide safe or healthful employment and places of employment.
 
-&emsp;(9) The term “national consensus standard” means any occupational safety and health standard or modification thereof which (1),<sup>2</sup> has been adopted and promulgated by a nationally recognized standards-producing organization under procedures whereby it can be determined by the Secretary that persons interested and affected by the scope or provisions of the standard have reached substantial agreement on its adoption, (2) was formulated in a manner which afforded an opportunity for diverse views to be considered and (3) has been designated as such a standard by the Secretary, after consultation with other appropriate Federal agencies.
+&emsp;(9) The term "national consensus standard" means any occupational safety and health standard or modification thereof which (1),<sup>2</sup> has been adopted and promulgated by a nationally recognized standards-producing organization under procedures whereby it can be determined by the Secretary that persons interested and affected by the scope or provisions of the standard have reached substantial agreement on its adoption, (2) was formulated in a manner which afforded an opportunity for diverse views to be considered and (3) has been designated as such a standard by the Secretary, after consultation with other appropriate Federal agencies.
 
-&emsp;(10) The term “established Federal standard” means any operative occupational safety and health standard established by any agency of the United States and presently in effect, or contained in any Act of Congress in force on December 29, 1970.
+&emsp;(10) The term "established Federal standard" means any operative occupational safety and health standard established by any agency of the United States and presently in effect, or contained in any Act of Congress in force on December 29, 1970.
 
-&emsp;(11) The term “Committee” means the National Advisory Committee on Occupational Safety and Health established under this chapter.
+&emsp;(11) The term "Committee" means the National Advisory Committee on Occupational Safety and Health established under this chapter.
 
-&emsp;(12) The term “Director” means the Director of the National Institute for Occupational Safety and Health.
+&emsp;(12) The term "Director" means the Director of the National Institute for Occupational Safety and Health.
 
-&emsp;(13) The term “Institute” means the National Institute for Occupational Safety and Health established under this chapter.
+&emsp;(13) The term "Institute" means the National Institute for Occupational Safety and Health established under this chapter.
 
-&emsp;(14) The term “Workmen's Compensation Commission” means the National Commission on State Workmen's Compensation Laws established under this chapter.
+&emsp;(14) The term "Workmen's Compensation Commission" means the National Commission on State Workmen's Compensation Laws established under this chapter.
 
 (Pub. L. 91–596, §3, Dec. 29, 1970, 84 Stat. 1591; Pub. L. 105–241, §2(a), Sept. 28, 1998, 112 Stat. 1572.)
 
 #### Amendments
 
-<b>1998</b>—Par. (5). Pub. L. 105–241 inserted “(not including the United States Postal Service)” after “the United States”.
+<b>1998</b>—Par. (5). Pub. L. 105–241 inserted "(not including the United States Postal Service)" after "the United States".
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -44,7 +44,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 Advisory committees in existence on January 5, 1973, to terminate not later than the expiration of the 2-year period following January 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee establishedby the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “means”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "means".</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
 

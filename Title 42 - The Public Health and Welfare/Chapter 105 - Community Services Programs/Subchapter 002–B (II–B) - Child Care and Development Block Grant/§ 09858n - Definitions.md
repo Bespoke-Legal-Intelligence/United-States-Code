@@ -4,17 +4,17 @@ As used in this subchapter:
 
 #### (1) Caregiver
 
-&emsp;The term “caregiver” means an individual who provides a service directly to an eligible child on a person-to-person basis.
+&emsp;The term "caregiver" means an individual who provides a service directly to an eligible child on a person-to-person basis.
 
 #### (2) Child care certificate
 
-&emsp;The term “child care certificate” means a certificate (that may be a check or other disbursement) that is issued by a State or local government under this subchapter directly to a parent who may use such certificate only as payment for child care services or as a deposit for child care services if such a deposit is required of other children being cared for by the provider. Nothing in this subchapter shall preclude the use of such certificates for sectarian child care services if freely chosen by the parent. For purposes of this subchapter, child care certificates shall not be considered to be grants or contracts.
+&emsp;The term "child care certificate" means a certificate (that may be a check or other disbursement) that is issued by a State or local government under this subchapter directly to a parent who may use such certificate only as payment for child care services or as a deposit for child care services if such a deposit is required of other children being cared for by the provider. Nothing in this subchapter shall preclude the use of such certificates for sectarian child care services if freely chosen by the parent. For purposes of this subchapter, child care certificates shall not be considered to be grants or contracts.
 
 #### (3) Repealed. Pub. L. 104–193, title VI, §614(2), Aug. 22, 1996, 110 Stat. 2287
 
 #### (4) Eligible child
 
-&emsp;The term “eligible child” means an individual—
+&emsp;The term "eligible child" means an individual—
 
 &emsp;&emsp;(A) who is less than 13 years of age;
 
@@ -28,7 +28,7 @@ As used in this subchapter:
 
 #### (5) Eligible child care provider
 
-&emsp;The term “eligible child care provider” means—
+&emsp;The term "eligible child care provider" means—
 
 &emsp;&emsp;(A) a center-based child care provider, a group home child care provider, a family child care provider, or other provider of child care services for compensation that—
 
@@ -42,43 +42,43 @@ As used in this subchapter:
 
 #### (6) Family child care provider
 
-&emsp;The term “family child care provider” means one individual who provides child care services for fewer than 24 hours per day, as the sole caregiver, and in a private residence.
+&emsp;The term "family child care provider" means one individual who provides child care services for fewer than 24 hours per day, as the sole caregiver, and in a private residence.
 
 #### (7) Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning given it in section 450b(e) of title 25.
+&emsp;The term "Indian tribe" has the meaning given it in section 450b(e) of title 25.
 
 #### (8) Lead agency
 
-&emsp;The term “lead agency” means the agency designated under section 9858(a) <sup>1</sup> of this title.
+&emsp;The term "lead agency" means the agency designated under section 9858(a) <sup>1</sup> of this title.
 
 #### (9) Parent
 
-&emsp;The term “parent” includes a legal guardian or other person standing in loco parentis.
+&emsp;The term "parent" includes a legal guardian or other person standing in loco parentis.
 
 #### (10) Repealed. Pub. L. 104–193, title VI, §614(5), Aug. 22, 1996, 110 Stat. 2287
 
 #### (11) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Health and Human Services unless the context specifies otherwise.
+&emsp;The term "Secretary" means the Secretary of Health and Human Services unless the context specifies otherwise.
 
 #### (12) Sliding fee scale
 
-&emsp;The term “sliding fee scale” means a system of cost sharing by a family based on income and size of the family.
+&emsp;The term "sliding fee scale" means a system of cost sharing by a family based on income and size of the family.
 
 #### (13) State
 
-&emsp;The term “State” means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "State" means any of the several States, the District of Columbia, the Virgin Islands of the United States, the Commonwealth of Puerto Rico, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (14) Tribal organization
 
 #### (A) In general
 
-&emsp;&emsp;The term “tribal organization” has the meaning given it in section 450b(l) of title 25.
+&emsp;&emsp;The term "tribal organization" has the meaning given it in section 450b(l) of title 25.
 
 #### (B) Other organizations
 
-&emsp;&emsp;Such term includes a Native Hawaiian Organization, as defined in section 4909(4) <sup>1</sup> of title 20 and a private nonprofit organization established for the purpose of serving youth who are Indians or Native Hawaiians.
+&emsp;&emsp;Such term includes a Native Hawaiian Organization, as defined in section 4909(4) <sup>1</sup> oftitle 20 and a private nonprofit organization established for the purpose of serving youth who are Indians or Native Hawaiians.
 
 (Pub. L. 97–35, title VI, §658P, as added Pub. L. 101–508, title V, §5082(2), Nov. 5, 1990, 104 Stat. 1388–248; amended Pub. L. 102–401, §3, Oct. 7, 1992, 106 Stat. 1959; Pub. L. 102–586, §8(c), Nov. 4, 1992, 106 Stat. 5036; Pub. L. 103–171, §8, Dec. 2, 1993, 107 Stat. 1994; Pub. L. 104–193, title VI, §614, Aug. 22, 1996, 110 Stat. 2287; Pub. L. 105–33, title V, §5602(5), Aug. 5, 1997, 111 Stat. 646.)
 
@@ -90,19 +90,19 @@ Section 4909 of title 20, referred to in par. (14)(B), was repealed by Pub. L. 1
 
 #### Amendments
 
-<b>1997</b>—Par. (13). Pub. L. 105–33 substituted “and” for “or” after “American Samoa,”.
+<b>1997</b>—Par. (13). Pub. L. 105–33 substituted "and" for "or" after "American Samoa,".
 
-<b>1996</b>—Par. (2). Pub. L. 104–193, §614(1), in first sentence, inserted “or as a deposit for child care services if such a deposit is required of other children being cared for by the provider” after “payment for child care services”.
+<b>1996</b>—Par. (2). Pub. L. 104–193, §614(1), in first sentence, inserted "or as a deposit for child care services if such a deposit is required of other children being cared for by the provider" after "payment for child care services".
 
-Par. (3). Pub. L. 104–193, §614(2), struck out heading and text of par. (3). Text read as follows: “The term ‘elementary school’ means a day or residential school that provides elementary education, as determined under State law.”
+Par. (3). Pub. L. 104–193, §614(2), struck out heading and text of par. (3). Text read as follows: "The term 'elementary school' means a day or residential school that provides elementary education, as determined under State law."
 
-Par. (4)(B). Pub. L. 104–193, §614(3), substituted “85 percent” for “75 percent”.
+Par. (4)(B). Pub. L. 104–193, §614(3), substituted "85 percent" for "75 percent".
 
-Par. (5)(B). Pub. L. 104–193, §614(4), inserted “great grandchild, sibling (if such provider lives in a separate residence),” after “grandchild,”, struck out “is registered and” after “such provider”, and substituted “any applicable requirements” for “any State requirements”.
+Par. (5)(B). Pub. L. 104–193, §614(4), inserted "great grandchild, sibling (if such provider lives in a separate residence)," after "grandchild,", struck out "is registered and" after "such provider", and substituted "any applicable requirements" for "any State requirements".
 
-Par. (10). Pub. L. 104–193, §614(5), struck out heading and text of par. (10). Text read as follows: “The term ‘secondary school’ means a day or residential school which provides secondary education, as determined under State law.”
+Par. (10). Pub. L. 104–193, §614(5), struck out heading and text of par. (10). Text read as follows: "The term 'secondary school' means a day or residential school which provides secondary education, as determined under State law."
 
-Par. (13). Pub. L. 104–193, §614(6), inserted “or” after “Samoa,” and struck out “, and the Trust Territory of the Pacific Islands” after “Northern Mariana Islands”.
+Par. (13). Pub. L. 104–193, §614(6), inserted "or" after "Samoa," and struck out ", and the Trust Territory of the Pacific Islands" after "Northern Mariana Islands".
 
 Par. (14). Pub. L. 104–193, §614(7), designated existing text as subpar. (A), inserted heading, and added subpar. (B).
 
@@ -110,13 +110,13 @@ Par. (14). Pub. L. 104–193, §614(7), designated existing text as subpar. (A),
 
 <b>1992</b>—Pub. L. 102–401, §3(a), and Pub. L. 102–586, §8(c)(1), made identical technical corrections to directory language of Pub. L. 101–508, §5082(2), which added this section.
 
-Par. (7). Pub. L. 102–586, §8(c)(2)(A), as amended by Pub. L. 103–171, which directed the amendment of par. (7) by substituting “section 450b(e) of title 25” for “section 450b(b) of title 25”, could not be executed because the words “section 450b(b) of title 25” did not appear subsequent to execution of the amendment by Pub. L. 102–401, §3(b)(1). See below.
+Par. (7). Pub. L. 102–586, §8(c)(2)(A), as amended by Pub. L. 103–171, which directed the amendment of par. (7) by substituting "section 450b(e) of title 25" for "section 450b(b) of title 25", could not be executed because the words "section 450b(b) of title 25" did not appear subsequent to execution of the amendment by Pub. L. 102–401, §3(b)(1). See below.
 
-Pub. L. 102–401, §3(b)(1), substituted “section 450b(e) of title 25” for “section 450b(b) of title 25”.
+Pub. L. 102–401, §3(b)(1), substituted "section 450b(e) of title 25" for "section 450b(b) of title 25".
 
-Par. (14). Pub. L. 102–586, §8(c)(2)(B), as amended by Pub. L. 103–171, which directed the amendment of par. (14) by substituting “section 450b(l) of title 25” for “section 450b(c) of title 25”, could not be executed because the words “section 450b(c) of title 25” did not appear subsequent to execution of the amendment by Pub. L. 102–401, §3(b)(2). See below.
+Par. (14). Pub. L. 102–586, §8(c)(2)(B), as amended by Pub. L. 103–171, which directed the amendment of par. (14) by substituting "section 450b(l) of title 25" for "section 450b(c) of title 25", could not be executed because the words "section 450b(c) of title 25" did not appear subsequent to execution of the amendment by Pub. L. 102–401, §3(b)(2). See below.
 
-Pub. L. 102–401, §3(b)(2), substituted “section 450b(l) of title 25” for “section 450b(c) of title 25”.
+Pub. L. 102–401, §3(b)(2), substituted "section 450b(l) of title 25" for "section 450b(c) of title 25".
 
 #### Effective Date of 1997 Amendment
 

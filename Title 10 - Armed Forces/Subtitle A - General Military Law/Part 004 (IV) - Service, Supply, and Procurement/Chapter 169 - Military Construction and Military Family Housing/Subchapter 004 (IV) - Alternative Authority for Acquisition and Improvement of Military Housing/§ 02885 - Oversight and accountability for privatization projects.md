@@ -8,7 +8,7 @@ Oversight and Accountability Measures.—Each Secretary concerned shall prescrib
 
 &emsp;(2) The installation asset manager, and, as applicable, the resident construction manager, privatization asset manager, bondholder representative, project owner, developer, general contractor, and construction consultant for the project shall conduct meetings to ensure that the construction or renovation of the units meets performance and schedule requirements and that appropriate operating and ground lease agreements are in place and adhered to.
 
-&emsp;(3) If a project is 90 days or more behind schedule or otherwise appears to be substantially failing to adhere to the obligations or milestones under the contract, the assistant secretary for installations and environment of the respective military department shall submit a notice of deficiency to the Deputy Under Secretary of Defense (Installations and Environment), the Secretary concerned, the managing member, and the trustee for the project.
+&emsp;(3) In the case of a project for new construction, if the project is 90 days or more behind schedule or otherwise appears to be substantially failing to adhere to the obligations or milestones under the contract, the assistant secretary for installations and environment of the respective military department shall submit a notice of deficiency to the Deputy Under Secretary of Defense (Installations and Environment), the Secretary concerned, the managing member, and the trustee for the project.
 
 &emsp;(4)(A) Not later than 15 days after the submittal of a notice of deficiency under paragraph (3), the Secretary concerned or designated representative shall submit to the project owner, developer, or general contractor responsible for the project a summary of deficiencies related to the project.
 
@@ -42,15 +42,17 @@ Financial Integrity and Accountability Measures.—(1) The regulations required 
 
 (2) If the debt service coverage for a military housing privatization project falls below 1.0 or the occupancy rates for the housing units of the project are below 75 percent for more than one year, the Secretary concerned shall require the development of a plan to address the financial risk of the project.
 
-(Added Pub. L. 110–417, div. B, title XXVIII, §2805(a)(1), Oct. 14, 2008, 122 Stat. 4721; amended Pub. L. 112–239, div. B, title XXVIII, §2803(a), Jan. 2, 2013, 126 Stat. 2147.)
+(Added Pub. L. 110–417, div. B, title XXVIII, §2805(a)(1), Oct. 14, 2008, 122 Stat. 4721; amended Pub. L. 112–239, div. B, title XXVIII, §2803(a), Jan. 2, 2013, 126 Stat. 2147; Pub. L. 113–66, div. A, title X, §1084(a)(3), Dec. 26, 2013, 127 Stat. 871.)
 
 #### Prior Provisions
 
-A prior section 2885, added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 551; amended Pub. L. 105–85, div. A, title X, §1073(a)(61), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–415; Pub. L. 107–107, div. B, title XXVIII, §2805, Dec. 28, 2001, 115 Stat. 1306, related to expiration of authority to enter into a contract under this subchapter, prior to repeal by Pub. L. 108–375, div. B, title XXVIII, §2805(b)(1), Oct. 28, 2004, 118 Stat. 2122.
+A prior section 2885, added Pub. L. 104–106, div. B, title XXVIII, §2801(a)(1), Feb. 10, 1996, 110 Stat. 551;amended Pub. L. 105–85, div. A, title X, §1073(a)(61), Nov. 18, 1997, 111 Stat. 1903; Pub. L. 106–398, §1 \[div. B, title XXVIII, §2806\], Oct. 30, 2000, 114 Stat. 1654, 1654A–415; Pub. L. 107–107, div. B, title XXVIII, §2805, Dec. 28, 2001, 115 Stat. 1306, related to expiration of authority to enter into a contract under this subchapter, prior to repeal by Pub. L. 108–375, div. B, title XXVIII, §2805(b)(1), Oct. 28, 2004, 118 Stat. 2122.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 112–239, §2803(a)(2), in introductory provisions, inserted “during the course of the construction or renovation of the housing units” before period at end of first sentence.
+<b>2013</b>—Subsec. (a). Pub. L. 112–239, §2803(a)(2), in introductory provisions, inserted "during the course of the construction or renovation of the housing units" before period at end of first sentence.
+
+Subsec. (a)(3). Pub. L. 113–66 substituted "In the case of a project for new construction, if the project" for "If a project".
 
 Subsec. (f). Pub. L. 112–239, §2803(a)(1), added subsec. (f).
 

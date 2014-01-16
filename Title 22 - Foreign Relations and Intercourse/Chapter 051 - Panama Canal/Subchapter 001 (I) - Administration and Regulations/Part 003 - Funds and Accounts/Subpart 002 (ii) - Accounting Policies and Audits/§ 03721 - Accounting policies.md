@@ -12,5 +12,5 @@ The Commission may issue regulations establishing the basis of accounting for th
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted “chapter 91 of title 31” for “the Accounting and Auditing Act of 1950 (31 U.S.C. 65 et seq.)”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted "chapter 91 of title 31" for "the Accounting and Auditing Act of 1950 (31 U.S.C. 65 et seq.)".
 

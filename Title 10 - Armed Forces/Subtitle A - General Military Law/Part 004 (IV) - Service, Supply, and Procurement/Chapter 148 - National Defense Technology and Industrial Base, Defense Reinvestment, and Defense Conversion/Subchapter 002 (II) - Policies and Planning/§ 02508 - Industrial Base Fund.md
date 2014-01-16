@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—The Secretary of Defense shall establish an Industrial Base Fund (in this section referred to as the “Fund”).
+Establishment.—The Secretary of Defense shall establish an Industrial Base Fund (in this section referred to as the "Fund").
 
 (b)
 

@@ -16,13 +16,13 @@ If the Secretary determines, after consultation with the Director of NIH, the Co
 
 #### Codification
 
-In par. (2), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In par. (2), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-<b>2007</b>—Pub. L. 109–482 struck out subsec. (a) designation before “If the Secretary” and subsec. (b) which read as follows: “Not later than 90 days after the end of a fiscal year, the Secretary shall report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate on actions taken under subsection (a) of this section in such fiscal year.”
+<b>2007</b>—Pub. L. 109–482 struck out subsec. (a) designation before "If the Secretary" and subsec. (b) which read as follows: "Not later than 90 days after the end of a fiscal year, the Secretary shall report to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate on actions taken under subsection (a) of this section in such fiscal year."
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
 #### Effective Date of 2007 Amendment
 

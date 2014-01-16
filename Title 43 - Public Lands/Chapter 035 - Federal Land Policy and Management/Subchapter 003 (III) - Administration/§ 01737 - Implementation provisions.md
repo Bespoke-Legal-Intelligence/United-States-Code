@@ -42,9 +42,9 @@ Effective with fiscal years beginning after September 30, 1984, there are author
 
 #### Amendments
 
-<b>1990</b>—Subsec. (f). Pub. L. 101–286 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “Volunteers shall not be deemed employees of the United States except for the purposes of the tort claims provisions of title 28 and subchapter 1 of chapter 81 of title 5, relating to compensation for work injuries.”
+<b>1990</b>—Subsec. (f). Pub. L. 101–286 amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: "Volunteers shall not be deemed employees of the United States except for the purposes of the tort claims provisions of title 28 and subchapter 1 of chapter 81 of title 5, relating to compensation for work injuries."
 
 <b>1984</b>—Subsecs. (d) to (g). Pub. L. 98–540 added subsecs. (d) to (g).
 
-<i><sup>1</sup></i><i> So in original. Probably should be subchapter “I”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be subchapter "I".</i>
 

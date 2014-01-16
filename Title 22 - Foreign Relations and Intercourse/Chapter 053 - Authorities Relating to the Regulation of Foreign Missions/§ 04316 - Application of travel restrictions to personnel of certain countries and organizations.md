@@ -26,11 +26,11 @@ The Secretary, after consultation with the Director of Central Intelligence and 
 
 For purposes of this section—
 
-&emsp;(1) the term “generally applicable restrictions” means any limitations on the radius within which unrestricted travel is permitted and obtaining travel services through the auspices of the Office of Foreign Missions for travel elsewhere, and does not include any restrictions which unconditionally prohibit the members of missions of the Soviet Union in the United States from traveling to designated areas of the United States and which are applied as a result of particular factors in relations between the United States and the Soviet Union.<sup>1</sup>
+&emsp;(1) the term "generally applicable restrictions" means any limitations on the radius within which unrestricted travel is permitted and obtaining travel services through the auspices of the Office of Foreign Missions for travel elsewhere, and does not include any restrictions which unconditionally prohibit the members of missions of the Soviet Union in the United States from traveling to designated areas of the United States and which are applied as a result of particular factors in relations between the United States and the Soviet Union.<sup>1</sup>
 
-&emsp;(2) the term “international organization” means an organization described in section 4309(b)(1) of this title; and
+&emsp;(2) the term "international organization" means an organization described in section 4309(b)(1) of this title; and
 
-&emsp;(3) the term “personnel” includes—
+&emsp;(3) the term "personnel" includes—
 
 &emsp;&emsp;(A) officers, employees, and any other staff member, and
 
@@ -40,19 +40,19 @@ For purposes of this section—
 
 #### Amendments
 
-<b>1994</b>—Subsec. (d). Pub. L. 103–236 struck out heading and text of subsec. (d). Text read as follows: “The Secretary shall transmit to the Select Committee on Intelligence and the Committee on Foreign Relations of the Senate, and to the Permanent Select Committee on Intelligence and the Committee on Foreign Affairs of the House of Representatives, not later than six months after December 22, 1987, and not later than every six months thereafter, a report on the actions taken by the Secretary in carrying out this section during the previous six months.”
+<b>1994</b>—Subsec. (d). Pub. L. 103–236 struck out heading and text of subsec. (d). Text read as follows: "The Secretary shall transmit to the Select Committee on Intelligence and the Committee on Foreign Relations of the Senate, and to the Permanent Select Committee on Intelligence and the Committee on Foreign Affairs of the House of Representatives, not later than six months after December 22, 1987, and not later than every six months thereafter, a report on the actions taken by the Secretary in carrying out this section during the previous six months."
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Effective Date
 
-Pub. L. 100–204, title I, §162(b), Dec. 22, 1987, 101 Stat. 1358, provided that: “Subsection (a) of the section enacted by this section \[this section\] shall take effect 90 days after the date of enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–204, title I, §162(b), Dec. 22, 1987, 101 Stat. 1358, provided that: "Subsection (a) of the section enacted by this section \[this section\] shall take effect 90 days after the date of enactment of this Act \[Dec. 22, 1987\]."
 
 #### Authority of Secretary of State
 
-Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretaryof State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
+Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of this title and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of this title.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

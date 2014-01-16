@@ -14,7 +14,7 @@ In the case of any teacher who—
 
 #### Codification
 
-“Section 5533 of title 5” substituted in text for “section 301 of the Dual Compensation Act” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+"Section 5533 of title 5" substituted in text for "section 301 of the Dual Compensation Act" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 Section was formerly classified to section 2358(b) of Title 5 period to the general revision and enactment of Title 5 by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 

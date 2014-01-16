@@ -24,7 +24,7 @@ Intelligence Activities Exemption.—
 
 &emsp;(1)
 
-Activities that may be exempt.—Intelligence activities as defined in section 3.4(e) of Executive Order No. 12333 or a comparabledefinitional section in any successor order may be exempt from the regulations required by subsection (a).
+Activities that may be exempt.—Intelligence activities as defined in section 3.4(e) of Executive Order No. 12333 or a comparable definitional section in any successor order may be exempt from the regulations required by subsection (a).
 
 &emsp;(2)
 
@@ -66,13 +66,13 @@ Pub. L. 100–463, title VIII, §8141, Oct. 1, 1988, 102 Stat. 2270–47.
 
 In this section, the text of 41:405b(c) is omitted as obsolete.
 
-In subsection (a), before paragraph (1), the words “The Administrator shall prescribe under this division Government-wide regulations” are substituted for “Not later than 90 days after October 1, 1988, the Administrator of the Office of Federal Procurement Policy shall issue a policy, and not later than 180 days thereafter Government-wide regulations shall be issued under the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)” to eliminate obsolete words.
+In subsection (a), before paragraph (1), the words "The Administrator shall prescribe under this division Government-wide regulations" are substituted for "Not later than 90 days after October 1, 1988, the Administrator of the Office of Federal Procurement Policy shall issue a policy, and not later than 180 days thereafter Government-wide regulations shall be issued under the Office of Federal Procurement Policy Act (41 U.S.C. 401 et seq.)" to eliminate obsolete words.
 
-In subsection (b), before paragraph (1), the words “the following types of consulting services” are omitted as unnecessary.
+In subsection (b), before paragraph (1), the words "the following types of consulting services" are omitted as unnecessary.
 
-In subsection (c)(2), the words “Director of National Intelligence” are substituted for “Director of Central Intelligence” because of section 1081(a) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458, 50 U.S.C. 401 note). The words “each January 1” are substituted for “no later than January 1, 1990, and annually thereafter to eliminate obsolete and unnecessary words. The words “exempted under paragraph (1)” are substituted for “exempted from the regulations required by subsection (a) of this section in accordance with the provisions of this subsection” to eliminate unnecessary words.
+In subsection (c)(2), the words "Director of National Intelligence" are substituted for "Director of Central Intelligence" because of section 1081(a) of the Intelligence Reform and Terrorism Prevention Act of 2004 (Public Law 108–458, 50 U.S.C. 401 note). The words "each January 1" are substituted for "no later than January 1, 1990, and annually thereafter to eliminate obsolete and unnecessary words. The words "exempted under paragraph (1)" are substituted for "exempted from the regulations required by subsection (a) of this section in accordance with the provisions of this subsection" to eliminate unnecessary words.
 
 #### References in Text
 
-Executive Order 12333, referred to in subsec. (c)(1), is set out as a note under section 401 of Title 50, War and National Defense.
+Executive Order 12333, referred to in subsec. (c)(1), is set out as a note under section 3001 of Title 50, War and National Defense.
 

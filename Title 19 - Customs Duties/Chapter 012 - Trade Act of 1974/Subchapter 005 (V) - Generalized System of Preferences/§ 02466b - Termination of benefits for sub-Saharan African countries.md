@@ -6,5 +6,5 @@ In the case of a beneficiary sub-Saharan African country, as defined in section 
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–274 substituted “2015” for “2008”.
+<b>2004</b>—Pub. L. 108–274 substituted "2015" for "2008".
 

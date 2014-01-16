@@ -10,17 +10,17 @@ Each day's broadcasting shall constitute a separate offense.
 
 Based on section 316 of title 47, U.S.C., 1940 ed., Telegraphs, Telephones, and Radiotelegraphs (June 19, 1934, ch. 652, §316, 48 Stat. 1088).
 
-Words “upon conviction thereof” were deleted as surplusage since punishment can be imposed only after a conviction.
+Words "upon conviction thereof" were deleted as surplusage since punishment can be imposed only after a conviction.
 
 Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000".
 
-<b>1988</b>—Pub. L. 100–625 inserted “or television” after “radio” in first sentence.
+<b>1988</b>—Pub. L. 100–625 inserted "or television" after "radio" in first sentence.
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–625, §5, Nov. 7, 1988, 102 Stat. 3206, provided that: “The amendments made by this Act \[amending this section and section 1307 of this title and section 3005 of Title 39, Postal Service\] shall take effect 18 months after the date of the enactment of this Act \[Nov. 7, 1988\].”
+Pub. L. 100–625, §5, Nov. 7, 1988, 102 Stat. 3206, provided that: "The amendments made by this Act \[amending this section and section 1307 of this title and section 3005 of Title 39, Postal Service\] shall take effect 18 months after the date of the enactment of this Act \[Nov. 7, 1988\]."
 

@@ -2,7 +2,7 @@
 
 #### (a) Taxable transportation; in general
 
-For purposes of this part, except as provided in subsection (b), the term “taxable transportation” means—
+For purposes of this part, except as provided in subsection (b), the term "taxable transportation" means—
 
 &emsp;(1) transportation by air which begins in the United States or in the 225–mile zone and ends in the United States or in the 225–mile zone; and
 
@@ -10,7 +10,7 @@ For purposes of this part, except as provided in subsection (b), the term “tax
 
 #### (b) Exclusion of certain travel
 
-For purposes of this part, the term “taxable transportation” does not include that portion of any transportation by air which meets all 4 of the following requirements:
+For purposes of this part, the term "taxable transportation" does not include that portion of any transportation by air which meets all 4 of the following requirements:
 
 &emsp;(1) such portion is outside the United States;
 
@@ -26,7 +26,7 @@ For purposes of this part, the term “taxable transportation” does not includ
 
 &emsp;&emsp;(B) ends at either (i) the point where the route of the transportation enters the United States, or (ii) a port or station in the 225-mile zone; and
 
-&emsp;(4) a direct line from the point (or the port or station) specified in paragraph (3)(A), to thepoint (or the port or station) specified in paragraph (3)(B), passes through or over a point which is not within 225 miles of the United States.
+&emsp;(4) a direct line from the point (or the port or station) specified in paragraph (3)(A), to the point (or the port or station) specified in paragraph (3)(B), passes through or over a point which is not within 225 miles of the United States.
 
 #### (c) Definitions
 
@@ -34,15 +34,15 @@ For purposes of this section—
 
 #### (1) Continental United States
 
-&emsp;The term “continental United States” means the District of Columbia and the States other than Alaska and Hawaii.
+&emsp;The term "continental United States" means the District of Columbia and the States other than Alaska and Hawaii.
 
 #### (2) 225-mile zone
 
-&emsp;The term “225-mile zone” means that portion of Canada and Mexico which is not more than 225 miles from the nearest point in the continental United States.
+&emsp;The term "225-mile zone" means that portion of Canada and Mexico which is not more than 225 miles from the nearest point in the continental United States.
 
 #### (3) Uninterrupted international air transportation
 
-&emsp;The term “uninterrupted international air transportation” means any transportation by air which is not transportation described in subsection (a)(1) and in which—
+&emsp;The term "uninterrupted international air transportation" means any transportation by air which is not transportation described in subsection (a)(1) and in which—
 
 &emsp;&emsp;(A) the scheduled interval between (i) the beginning or end of the portion of such transportation which is directly or indirectly from one port or station in the United States to another port or station in the United States and (ii) the end or beginning of the other portion of such transportation is not more than 12 hours, and
 
@@ -52,7 +52,7 @@ For purposes of this section—
 
 #### (d) Transportation
 
-For purposes of this part, the term “transportation” includes layover or waiting time and movement of the aircraft in deadhead service.
+For purposes of this part, the term "transportation" includes layover or waiting time and movement of the aircraft in deadhead service.
 
 #### (e) Authority to waive 225-mile zone provisions
 
@@ -62,7 +62,7 @@ For purposes of this part, the term “transportation” includes layover or wai
 
 &emsp;&emsp;(A) the Secretary shall publish a notice of such determination in the Federal Register, and
 
-&emsp;&emsp;(B) effective with respect to transportation beginning after the date specified in such notice, to the extent provided in the agreement, the term “225-mile zone” shall not include part or all of the country with respect to which such determination is made.
+&emsp;&emsp;(B) effective with respect to transportation beginning after the date specified in such notice, to the extent provided in the agreement, the term "225-mile zone" shall not include part or all of the country with respect to which such determination is made.
 
 #### (2) Termination of waiver
 
@@ -74,7 +74,7 @@ For purposes of this part, the term “transportation” includes layover or wai
 
 #### (3) Qualified agreement
 
-&emsp;For purposes of this subsection, the term “qualified agreement” means an agreement between the United States and Canada or Mexico (as the case may be)—
+&emsp;For purposes of this subsection, the term "qualified agreement" means an agreement between the United States and Canada or Mexico (as the case may be)—
 
 &emsp;&emsp;(A) setting forth that portion of such country which is not to be treated as within the 225-mile zone, and
 
@@ -92,31 +92,31 @@ A prior section 4262 was renumbered 4263 of this title and later repealed.
 
 #### Amendments
 
-<b>1982</b>—Subsec. (c)(3). Pub. L. 97–248, §281A(a)(1), substituted “12 hours” for “6 hours” wherever appearing.
+<b>1982</b>—Subsec. (c)(3). Pub. L. 97–248, §281A(a)(1), substituted "12 hours" for "6 hours" wherever appearing.
 
 Subsec. (e). Pub. L. 97–248, §281A(a)(2), added subsec. (e).
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–258, §203(b)(1)–(3), substituted “part” for “subchapter” in introductory text, “transportation by air” for “transportation” in par. (1), and “in the case of transportation by air” for “in the case of transportation” in par. (2), respectively.
+<b>1970</b>—Subsec. (a). Pub. L. 91–258, §203(b)(1)–(3), substituted "part" for "subchapter" in introductory text, "transportation by air" for "transportation" in par. (1), and "in the case of transportation by air" for "in the case of transportation" in par. (2), respectively.
 
-Subsec. (b). Pub. L. 91–258, §203(b)(1), (4), substituted “part” for “subchapter” and “transportation by air which” for “transportation which”, in introductory text, respectively.
+Subsec. (b). Pub. L. 91–258, §203(b)(1), (4), substituted "part" for "subchapter" and "transportation by air which" for "transportation which", in introductory text, respectively.
 
 Subsec. (d). Pub. L. 91–258, §203(b)(5), added subsec. (d).
 
 <b>1965</b>—Subsec. (c)(4). Pub. L. 89–44 inserted sentence relating to personnel of the Armed Forces traveling in uniform at their own expense following subpar. (B).
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–508 substituted in introductory phrase “subchapter” for “part” and inserted inpar. (2) “, but only if such portion is not a part of uninterrupted international air transportation (within the meaning of subsection (c)(3))”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–508 substituted in introductory phrase "subchapter" for "part" and inserted in par. (2) ", but only if such portion is not a part of uninterrupted international air transportation (within the meaning of subsection (c)(3))".
 
-Subsec. (b). Pub. L. 87–508 substituted in introductory phrase “subchapter” for “part”.
+Subsec. (b). Pub. L. 87–508 substituted in introductory phrase "subchapter" for "part".
 
 Subsec. (c)(3). Pub. L. 87–508 added par. (3).
 
-<b>1960</b>—Subsec. (c)(1). Pub. L. 86–624 inserted “and Hawaii” after “Alaska”.
+<b>1960</b>—Subsec. (c)(1). Pub. L. 86–624 inserted "and Hawaii" after "Alaska".
 
-<b>1959</b>—Subsec. (c)(1). Pub. L. 86–70 substituted “the District of Columbia and the States other than Alaska” for “the existing 48 States and the District of Columbia”.
+<b>1959</b>—Subsec. (c)(1). Pub. L. 86–70 substituted "the District of Columbia and the States other than Alaska" for "the existing 48 States and the District of Columbia".
 
 #### Effective Date of 1982 Amendment
 
-Pub. L. 97–248, title II, §281A(a)(3), Sept. 3, 1982, 96 Stat. 567, provided that: “The amendments made by this subsection \[amending this section\] shall apply to transportation beginning after August 31, 1982.”
+Pub. L. 97–248, title II, §281A(a)(3), Sept. 3, 1982, 96 Stat. 567, provided that: "The amendments made by this subsection \[amending this section\] shall apply to transportation beginning after August 31, 1982."
 
 #### Effective Date of 1970 Amendment
 
@@ -124,7 +124,7 @@ Amendment by Pub. L. 91–258 applicable to transportation beginning after June 
 
 #### Effective Date of 1965 Amendment
 
-Pub. L. 89–44, title VIII, §803(b), June 21, 1965, 79 Stat. 160, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to amounts paid for transportation beginning on or after July 1, 1965.”
+Pub. L. 89–44, title VIII, §803(b), June 21, 1965, 79 Stat. 160, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to amounts paid for transportation beginning on or after July 1, 1965."
 
 #### Effective Date of 1962 Amendment
 

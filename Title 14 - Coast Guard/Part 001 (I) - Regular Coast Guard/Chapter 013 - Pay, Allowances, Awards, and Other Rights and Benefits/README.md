@@ -67,11 +67,11 @@ Chapter 13 of this title deals with pay, allowances, awards, and other rights an
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–281, title II, §§203(b), 224(d), Oct. 15, 2010, 124 Stat. 2910, 2922, added items 491a, 492a, 492b, and 518 and struck out former item 492a “Distinguished flying cross”.
+<b>2010</b>—Pub. L. 111–281, title II, §§203(b), 224(d), Oct. 15, 2010, 124 Stat. 2910, 2922, added items 491a, 492a, 492b, and 518 and struck out former item 492a "Distinguished flying cross".
 
 <b>2004</b>—Pub. L. 108–293, title II, §§210(b), 218(b), Aug. 9, 2004, 118 Stat. 1036, 1039, added items 472 and 517.
 
-<b>2002</b>—Pub. L. 107–295, title III, §312(b), Nov. 25, 2002, 116 Stat. 2102, added item 511 and struck out former item 511 “Compensatory absence of military personnel at isolated aids to navigation.”
+<b>2002</b>—Pub. L. 107–295, title III, §312(b), Nov. 25, 2002, 116 Stat. 2102, added item 511 and struck out former item 511 "Compensatory absence of military personnel at isolated aids to navigation."
 
 Pub. L. 107–248, title VIII, §8143(c)(4)(B), Oct. 23, 2002, 116 Stat. 1571, added item 505.
 
@@ -85,15 +85,15 @@ Pub. L. 107–248, title VIII, §8143(c)(4)(B), Oct. 23, 2002, 116 Stat. 1571, a
 
 <b>1988</b>—Pub. L. 100–448, §13(b), Sept. 28, 1988, 102 Stat. 1844, added item 513.
 
-<b>1984</b>—Pub. L. 98–557, §§15(a)(4)(D)(ii), 25(a)(3), Oct. 30, 1984, 98 Stat. 2866, 2872, struck out item 462a and substituted “members” for “officers, enlisted men,” in item 487.
+<b>1984</b>—Pub. L. 98–557, §§15(a)(4)(D)(ii), 25(a)(3), Oct. 30, 1984, 98 Stat. 2866, 2872, struck out item 462a and substituted "members" for "officers, enlisted men," in item 487.
 
 <b>1982</b>—Pub. L. 97–295, §2(15)(B), Oct. 12, 1982, 96 Stat. 1302, struck out item 473.
 
 <b>1980</b>—Pub. L. 96–376, §7(b), Oct. 3, 1980, 94 Stat. 1510, added item 512.
 
-<b>1970</b>—Pub. L. 91–278, §1(12), June 12, 1970, 84 Stat. 306, substituted “Leasing and hiring of quarters; rental of inadequate housing” for “Hiring of quarters for personnel” as item 475.
+<b>1970</b>—Pub. L. 91–278, §1(12), June 12, 1970, 84 Stat. 306, substituted "Leasing and hiring of quarters; rental of inadequate housing" for "Hiring of quarters for personnel" as item 475.
 
-<b>1968</b>—Pub. L. 90–377, §7, July 5, 1968, 82 Stat. 288, substituted “Persons discharged as result of court-martial; allowances to” for “Prisoners; allowances to; transportation” in item 509.
+<b>1968</b>—Pub. L. 90–377, §7, July 5, 1968, 82 Stat. 288, substituted "Persons discharged as result of court-martial; allowances to" for "Prisoners; allowances to; transportation" in item 509.
 
 <b>1966</b>—Pub. L. 89–718, §73(c)(2), Nov. 2, 1966, 80 Stat. 1124, struck out reference to pay and allowances and to pay of officers indebted to the United States and inserted reference to discharge in item 461.
 
@@ -103,19 +103,19 @@ Pub. L. 89–444, §1(26), June 9, 1966, 80 Stat. 197, struck out items 462, 464
 
 <b>1962</b>—Pub. L. 87–651, title III, §308, Sept. 7, 1962, 76 Stat. 527, struck out item 471a.
 
-Pub. L. 87–649, §7(c), Sept. 7, 1962, 76 Stat. 495, struck out “active duty pay and” before “retired pay” in item 462a.
+Pub. L. 87–649, §7(c), Sept. 7, 1962, 76 Stat. 495, struck out "active duty pay and" before "retired pay" in item 462a.
 
 Pub. L. 87–526, §1(2), (4), July 10, 1962, 76 Stat. 141, provided for remission of indebtedness of enlisted members in item 461 and struck out item 495 providing for additional pay for holders of medals.
 
 <b>1956</b>—Act Aug. 10, 1956, ch. 1041, §§10(b), 11(b), 12(b), 14(b), 70A Stat. 624, added items 462a, 471a, 492a, and 510.
 
-Act Aug. 1, 1956, ch. 837, title V, §502(8)(B), 70 Stat. 886, struck out item 489 “Death gratuity”.
+Act Aug. 1, 1956, ch. 837, title V, §502(8)(B), 70 Stat. 886, struck out item 489 "Death gratuity".
 
 <b>1955</b>—Act Aug. 9, 1955, ch. 650, §3, 69 Stat. 577, added item 511.
 
-<b>1954</b>—Act Sept. 3, 1954, ch. 1263, §33(a), 68 Stat. 1238, inserted “; pay of officers indebted to United States” in item 461.
+<b>1954</b>—Act Sept. 3, 1954, ch. 1263, §33(a), 68 Stat. 1238, inserted "; pay of officers indebted to United States" in item 461.
 
-<b>1952</b>—Act July 10, 1952, ch. 631, §1, 66 Stat. 539, substituted “payment of expenses incident to apprehension and delivery” for “arrest by civil authority” in item 508.
+<b>1952</b>—Act July 10, 1952, ch. 631, §1, 66 Stat. 539, substituted "payment of expenses incident to apprehension and delivery" for "arrest by civil authority" in item 508.
 
 <b>1950</b>—Act Aug. 3, 1950, ch. 536, §25, 64 Stat. 407, struck out items 463 and 472.
 

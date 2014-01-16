@@ -2,7 +2,7 @@
 
 #### (a) Career appointees or candidates; chiefs of mission
 
-Except as provided in subsection (d) of this section, the following members of the Service (hereinafter in this part referred to as “participants”) shall be entitled to the benefits of the System:
+Except as provided in subsection (d) of this section, the following members of the Service (hereinafter in this part referred to as "participants") shall be entitled to the benefits of the System:
 
 &emsp;(1) Every member who is serving under a career appointment or as a career candidate under section 3946 of this title—
 
@@ -22,7 +22,7 @@ Any otherwise eligible member of the Service who is appointed to a position in t
 
 #### (c) Binational Center Grantees
 
-In addition to the individuals who are participants in the System under subsection (a) of this section, any individual who was appointed as a Binational Center Grantee and who completed at least 5 years of satisfactory service as such a grantee or under any other appointment under the Foreign Service Act of 1946 may become a participant in the System, and shall receive credit for such service if an appropriate special contribution is made to the Fund in accordance with section 4045(d) or (f) of this title.
+In addition to the individuals who are participants in the System under subsection (a) of this section, any individual who was appointed as a Binational Center Grantee and who completedat least 5 years of satisfactory service as such a grantee or under any other appointment under the Foreign Service Act of 1946 may become a participant in the System, and shall receive credit for such service if an appropriate special contribution is made to the Fund in accordance with section 4045(d) or (f) of this title.
 
 #### (d) Exclusion
 
@@ -36,7 +36,7 @@ The Foreign Service Act of 1946, referred to in subsec. (c), is act Aug. 13, 194
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–335, §§402(a)(2), 414(1), substituted “Except as provided in subsection (d) of this section, the” for “The” and “part” for “subchapter” in provisions preceding par. (1).
+<b>1986</b>—Subsec. (a). Pub. L. 99–335, §§402(a)(2), 414(1), substituted "Except as provided in subsection (d) of this section, the" for "The" and "part" for "subchapter" in provisions preceding par. (1).
 
 Subsec. (d). Pub. L. 99–335, §414(2), added subsec. (d).
 

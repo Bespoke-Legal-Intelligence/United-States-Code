@@ -18,7 +18,7 @@ Each eligible recipient desiring a grant under this section shall submit an appl
 
 &emsp;(3) describe the high-quality research, laboratory, or internship experiences, integrated with coursework, that will be provided under the program;
 
-&emsp;(4) describe how members of groups that are underrepresented in the teaching of science, technology, engineering, mathematics, or critical foreign languages will be encouraged to participate in the program;
+&emsp;(4) describe how members of groups that are underrepresented in the teaching of science,technology, engineering, mathematics, or critical foreign languages will be encouraged to participate in the program;
 
 &emsp;(5) describe how program participants will be encouraged to teach in schools determined by the partnership to be most in need, and the assistance in finding employment in such schools that will be provided;
 
@@ -54,7 +54,7 @@ Priority shall be given to applications whose primary focus is on placing partic
 
 &emsp;&emsp;&emsp;(i) are integrated with coursework; and
 
-&emsp;&emsp;&emsp;(ii) lead to the participants’ ability to demonstrate effective teaching skills;
+&emsp;&emsp;&emsp;(ii) lead to the participants' ability to demonstrate effective teaching skills;
 
 &emsp;&emsp;(C) if implementing a program in which program participants are prepared to teach science, technology, engineering, mathematics, or critical foreign language courses, include strategies for improving student literacy;
 
@@ -116,7 +116,7 @@ Any activity under this section shall be carried out in compliance with section 
 
 #### (h) Induction program defined
 
-In this section, the term “induction program” means a formalized program for new teachers during not less than the teachers’ first 2 years of teaching that is designed to provide support for, and improve the professional performance and advance the retention in the teaching field of, beginning teachers. Such program shall promote effective teaching skills and shall include the following components:
+In this section, the term "induction program" means a formalized program for new teachers during not less than the teachers' first 2 years of teaching that is designed to provide support for, and improve the professional performance and advance the retention in the teaching field of, beginning teachers. Such program shall promote effective teaching skills and shall include the following components:
 
 &emsp;(1) High-quality teacher mentoring.
 

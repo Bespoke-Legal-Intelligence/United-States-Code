@@ -22,11 +22,11 @@ Provisions similar to those in this section were contained in section 3013 of th
 
 <b>2008</b>—Subsec. (b)(4). Pub. L. 110–181 added par. (4).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–456, §702(d), substituted “four” for “three”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–456, §702(d), substituted "four" for "three".
 
 Subsec. (b)(3). Pub. L. 100–456, §702(c)\[(1)\], added par. (3).
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–456, div. A, title VII, §702(e)(2), Sept. 29, 1988, 102 Stat. 1996, provided that: “The amendments made by subsections (c) and (d) \[enacting section 8022 of this title and amending this section\] shall take effect on July 1, 1989, except that such amendments shall take effect on such earlier date, but not before January 21, 1989, as may be prescribed by the President in advance by Executive order.”
+Pub. L. 100–456, div. A, title VII, §702(e)(2), Sept. 29, 1988, 102 Stat. 1996, provided that: "The amendments made by subsections (c) and (d) \[enacting section 8022 of this title and amending this section\] shall take effect on July 1, 1989, except that such amendments shall take effect on such earlier date, but not before January 21, 1989, as may be prescribed by the President in advance by Executive order."
 

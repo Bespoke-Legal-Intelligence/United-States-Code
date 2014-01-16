@@ -24,7 +24,7 @@ Congress finds that—
 
 &emsp;&emsp;(A) have the authority to prevent or minimize adverse uses of these historic resources; and
 
-&emsp;&emsp;(B) can play a significant role in the protection of the historic resources related to the Civil War battles fought in the area in and around the city of Corinth.
+&emsp;&emsp;(B) can play a significant role in the protection of the historic resources related tothe Civil War battles fought in the area in and around the city of Corinth.
 
 #### (b) Purposes
 
@@ -60,5 +60,5 @@ The purposes of sections 430f–6 to 430f–12 of this title are—
 
 #### Short Title
 
-Pub. L. 106–271, §1, Sept. 22, 2000, 114 Stat. 792, provided that: “This Act \[enacting this section and sections 430f–7 to 430f–12 of this title\] may be cited as the ‘Corinth Battlefield Preservation Act of 2000’.”
+Pub. L. 106–271, §1, Sept. 22, 2000, 114 Stat. 792, provided that: "This Act \[enacting this section and sections 430f–7 to 430f–12 of this title\] may be cited as the 'Corinth Battlefield Preservation Act of 2000'."
 

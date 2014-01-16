@@ -1,20 +1,20 @@
 ### §1428. Surrender of canceled naturalization certificate
 
-Whoever, having in his possession or control a certificate of naturalization or citizenship or a copy thereof which has been canceled as provided by law, fails to surrender the same after at least sixty days’ notice by the appropriate court or the Commissioner or Deputy Commissioner of Immigration, shall be fined under this title or imprisoned not more than five years, or both.
+Whoever, having in his possession or control a certificate of naturalization or citizenship or a copy thereof which has been canceled as provided by law, fails to surrender the same after at least sixty days' notice by the appropriate court or the Commissioner or Deputy Commissioner of Immigration, shall be fined under this title or imprisoned not more than five years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 767; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Historical and Revision Notes
 
-Based on subsections (a) par. (31), (b), (d) of section 746 of title 8, U.S.C., 1940 ed., Aliens and Nationality (Oct. 14, 1940, ch. 876, §346(a) par. (31), (b), (d), 54 Stat. 1167).
+Based on subsections (a) par. (31), (b), (d) of section 746 of title 8, U.S.C., 1940 ed., Aliens and Nationality\(Oct. 14, 1940, ch. 876, §346(a) par. (31), (b), (d), 54 Stat. 1167).
 
-Subsection (b) of said section 746 of title 8 is the authority for inserting “or a copy thereof” after “citizenship.”
+Subsection (b) of said section 746 of title 8 is the authority for inserting "or a copy thereof" after "citizenship."
 
 Changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
 
 #### Transfer of Functions
 
@@ -22,5 +22,5 @@ Functions of all other officers of Department of Justice and functions of all ag
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 
-For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of Title 8, Aliens and Nationality.
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 

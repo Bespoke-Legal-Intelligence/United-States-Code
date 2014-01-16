@@ -12,9 +12,9 @@ The Administrator is authorized to undertake and carry out such studies and inve
 
 &emsp;&emsp;&emsp;(i) the applicable operating costs and allowances set forth in the schedules prescribed under section 4018 of this title and reflected in such rates,
 
-&emsp;&emsp;&emsp;(ii) any administrative expenses (or portion of such expenses) of carrying out the flood insurance program which, in his discretion, should properly be reflected in such rates,
+&emsp;&emsp;&emsp;(ii) any administrative expenses (or portion of such expenses) of carrying out theflood insurance program which, in his discretion, should properly be reflected in such rates,
 
-&emsp;&emsp;&emsp;(iii) any remaining administrative expenses incurred in carrying out the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title) not included under clause (ii), which shall be recovered by a fee charged to policyholders and such fee shall not be subject to any agents’ commissions, company expense allowances, or State or local premium taxes, and
+&emsp;&emsp;&emsp;(iii) any remaining administrative expenses incurred in carrying out the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title) not included under clause (ii), which shall be recovered by a fee charged to policyholders and such fee shall not be subject to any agents' commissions, company expense allowances, or State or local premium taxes, and
 
 &emsp;&emsp;&emsp;(iv) all costs, as prescribed by principles and standards of practice in ratemaking adopted by the American Academy of Actuaries and the Casualty Actuarial Society, including—
 
@@ -26,7 +26,7 @@ The Administrator is authorized to undertake and carry out such studies and inve
 
 > &emsp;would be required in order to make such insurance available on an actuarial basis for any types and classes of properties for which insurance coverage is available under section 4012(a) of this title (or is recommended to the Congress under section 4012(b) of this title);
 
-&emsp;(2) the rates, if less than the rates estimated under paragraph (1), which would be reasonable, would encourage prospective insureds to purchase flood insurance, and would be consistent with the purposes of this chapter, and which, together with a fee charged to policyholders that shall not be not subject to any agents’ commission, company expenses allowances, or State or local premium taxes, shall include any administrative expenses incurred in carrying out the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title), except that the Administrator shall not estimate rates under this paragraph for—
+&emsp;(2) the rates, if less than the rates estimated under paragraph (1), which would be reasonable, would encourage prospective insureds to purchase flood insurance, and would be consistent with the purposes of this chapter, and which, together with a fee charged to policyholders that shall not be not subject to any agents' commission, company expenses allowances, or State or local premium taxes, shall include any administrative expenses incurred in carrying out the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title), except that the Administrator shall not estimate rates under this paragraph for—
 
 &emsp;&emsp;(A) any residential property which is not the primary residence of an individual;
 
@@ -62,7 +62,7 @@ Notwithstanding any other provision of law, any community that has made adequate
 
 #### (f) Availability of flood insurance in communities restoring disaccredited flood protection systems; criteria; rates
 
-Notwithstanding any other provision of law, this subsection shall only apply in a community which has been determined by the Administrator of the Federal Emergency Management Agency to be in the process of restoring flood protection afforded by a flood protection system that had been previously accredited on a Flood Insurance Rate Map as providing 100-year frequency flood protection but no longer does so. Except as provided in this subsection, in such a community, flood insurance shall be made available to those properties impacted by the disaccreditation of the flood protection system at premium rates that do not exceed those which would be applicable to any property located in an area of special flood hazard, the construction of which was started prior to the effective date of the initial Flood Insurance Rate Map published by the Administrator for the community in which such property is located. A revised Flood Insurance Rate Map shall be prepared for the community to delineate as Zone AR the areas of special flood hazard that result from the disaccreditation of the flood protection system. A community will be considered to be in the process of restoration if—
+Notwithstanding any other provision of law, this subsection shall only apply in a communitywhich has been determined by the Administrator of the Federal Emergency Management Agency to be in the process of restoring flood protection afforded by a flood protection system that had been previously accredited on a Flood Insurance Rate Map as providing 100-year frequency flood protection but no longer does so. Except as provided in this subsection, in such a community, flood insurance shall be made available to those properties impacted by the disaccreditation of the flood protection system at premium rates that do not exceed those which would be applicable to any property located in an area of special flood hazard, the construction of which was started prior to the effective date of the initial Flood Insurance Rate Map published by the Administrator for the community in which such property is located. A revised Flood Insurance Rate Map shall be prepared for the community to delineate as Zone AR the areas of special flood hazard that result from the disaccreditation of the flood protection system. A community will be considered to be in the process of restoration if—
 
 &emsp;(1) the flood protection system has been deemed restorable by a Federal agency in consultation with the local project sponsor;
 
@@ -96,7 +96,7 @@ The Administrator shall not provide flood insurance to prospective insureds at r
 
 #### (h) Definition
 
-In this section, the term “severe repetitive loss property” has the following meaning:
+In this section, the term "severe repetitive loss property" has the following meaning:
 
 #### (1) Single-family properties
 
@@ -112,25 +112,25 @@ In this section, the term “severe repetitive loss property” has the followin
 
 #### (2) Multifamily properties
 
-&emsp;In the case of a property consisting of 5 or more residences, such term shall have such meaning as the Director  <sup>1</sup> shall by regulation provide.
+&emsp;In the case of a property consisting of 5 or more residences, such term shall have such meaning as the Director <sup>1</sup> shall by regulation provide.
 
 (Pub. L. 90–448, title XIII, §1307, Aug. 1, 1968, 82 Stat. 576; Pub. L. 93–234, title I, §109, Dec. 31, 1973, 87 Stat. 980; Pub. L. 93–383, title VIII, §816(b), Aug. 22, 1974, 88 Stat. 739; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 101–508, title II, §2302(e)(1), Nov. 5, 1990, 104 Stat. 1388–24; Pub. L. 102–550, title IX, §928, Oct. 28, 1992, 106 Stat. 3886; Pub. L. 112–123, §2(a), May 31, 2012, 126 Stat. 365; Pub. L. 112–141, div. F, title II, §§100205(a)(1), (b), 100238(b)(1), July 6, 2012, 126 Stat. 917, 918, 958.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(2), (d), (e), and (h)(1)(A), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsecs. (a)(2), (d), (e), and (h)(1)(A), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in introductory provisions.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" in introductory provisions.
 
 Subsec. (a)(1)(B)(iv). Pub. L. 112–141, §100205(b), added cl. (iv).
 
-Subsec. (a)(2). Pub. L. 112–141, §100205(a)(1)(A), substituted “for—” for “for any residential property which is not the primary residence of an individual; and” and added subpars. (A) to (E).
+Subsec. (a)(2). Pub. L. 112–141, §100205(a)(1)(A), substituted "for—" for "for any residential property which is not the primary residence of an individual; and" and added subpars. (A) to (E).
 
-Pub. L. 112–123 inserted “, except that the Administrator shall not estimate rates under this paragraph for any residential property which is not the primary residence of an individual” before “; and”.
+Pub. L. 112–123 inserted ", except that the Administrator shall not estimate rates under this paragraph for any residential property which is not the primary residence of an individual" before "; and".
 
-Subsecs. (b), (c), (e), (f). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” wherever appearing.
+Subsecs. (b), (c), (e), (f). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" wherever appearing.
 
 Subsecs. (g), (h). Pub. L. 112–141, §100205(a)(1)(B), added subsecs. (g) and (h).
 
@@ -138,9 +138,9 @@ Subsecs. (g), (h). Pub. L. 112–141, §100205(a)(1)(B), added subsecs. (g) and 
 
 <b>1990</b>—Subsec. (a)(1)(B)(iii). Pub. L. 101–508, §2302(e)(1)(A)–(C), added cl. (iii).
 
-Subsec. (a)(2). Pub. L. 101–508, §2302(e)(1)(D), inserted before semicolon “, and which, together with a fee charged to policyholders that shall not be not subject to any agents’ commission, company expenses allowances, or State or local premium taxes, shall include any administrative expenses incurred in carrying out the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title)”.
+Subsec. (a)(2). Pub. L. 101–508, §2302(e)(1)(D), inserted before semicolon ", and which, together with a fee charged to policyholders that shall not be not subject to any agents' commission, company expenses allowances, or State or local premium taxes, shall include any administrative expenses incurred in carrying out the flood insurance and floodplain management programs (including the costs of mapping activities under section 4101 of this title)".
 
-<b>1983</b>—Subsecs. (a) to (c), (e). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Subsecs. (a) to (c), (e). Pub. L. 98–181 substituted "Director" for "Secretary" wherever appearing.
 
 <b>1974</b>—Subsec. (e). Pub. L. 93–383 added subsec. (e).
 
@@ -148,7 +148,7 @@ Subsec. (a)(2). Pub. L. 101–508, §2302(e)(1)(D), inserted before semicolon �
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–141, div. F, title II, §100205(a)(2), July 6, 2012, 126 Stat. 918, provided that: “The amendments made by paragraph (1) \[amending this section\] shall become effective 90 days after the date of enactment of this Act \[July 6, 2012\].”
+Pub. L. 112–141, div. F, title II, §100205(a)(2), July 6, 2012, 126 Stat. 918, provided that: "The amendments made by paragraph (1) \[amending this section\] shall become effective 90 days after the date of enactment of this Act \[July 6, 2012\]."
 
 #### Transfer of Functions
 
@@ -160,123 +160,123 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Pub. L. 112–141, div. F, title II, §100230, July 6, 2012, 126 Stat. 946, provided that:
 
-“(a)
+"(a)
 
 Eligibility for Flood Insurance Coverage.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Notwithstanding any other provision of law (including section 1307(e) of the National Flood Insurance Act of 1968 (42 U.S.C. 4014(e))), a person residing in a community that the Administrator determines has made adequate progress on the reconstruction or improvement of a flood protection system that will afford flood protection for a 100-year floodplain (without regard to the level of Federal funding of or participation in the construction, reconstruction, or improvement), shall be eligible for flood insurance coverage under the National Flood Insurance Program—
 
-&emsp;&emsp;“(A) if the person resides in a community that is a participant in the National Flood Insurance Program; and
+&emsp;&emsp;"(A) if the person resides in a community that is a participant in the National Flood Insurance Program; and
 
-&emsp;&emsp;“(B) at a risk premium rate that does not exceed the risk premium rate that would be chargeable if the flood protection system had been completed.
+&emsp;&emsp;"(B) at a risk premium rate that does not exceed the risk premium rate that would be chargeable if the flood protection system had been completed.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Adequate progress.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Reconstruction or improvement.—For purposes of paragraph (1), the Administrator shall determine that a community has made adequate progress on the reconstruction or improvement of a flood protection system if—
 
-&emsp;&emsp;&emsp;“(i) 100 percent of the project cost has been authorized;
+&emsp;&emsp;&emsp;"(i) 100 percent of the project cost has been authorized;
 
-&emsp;&emsp;&emsp;“(ii) not less than 60 percent of the project cost has been secured or appropriated;
+&emsp;&emsp;&emsp;"(ii) not less than 60 percent of the project cost has been secured or appropriated;
 
-&emsp;&emsp;&emsp;“(iii) not less than 50 percent of the flood protection system has been assessed as being without deficiencies; and
+&emsp;&emsp;&emsp;"(iii) not less than 50 percent of the flood protection system has been assessed as being without deficiencies; and
 
-&emsp;&emsp;&emsp;“(iv) the reconstruction or improvement has a project schedule that does not exceed 5 years, beginning on the date on which the reconstruction or construction of the improvement commences.
+&emsp;&emsp;&emsp;"(iv) the reconstruction or improvement has a project schedule that does not exceed 5 years, beginning on the date on which the reconstruction or construction of the improvement commences.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Considerations.—In determining whether a flood protection system has been assessed as being without deficiencies, the Administrator shall consider the requirements under section 65.10 of chapter 44, Code of Federal Regulations, or any successor thereto.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Date of commencement.—For purposes of subparagraph (A)(iv) of this paragraph and subsection (b)(2)(B), the date of commencement of the reconstruction or improvement of a flood protection system that is undergoing reconstruction or improvement on the date of enactment of this Act \[July 6, 2012\] shall be deemed to be the date on which the owner of the flood protection system submits a request under paragraph (3).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Request for determination.—The owner of a flood protection system that is undergoing reconstruction or improvement on the date of enactment of this Act \[July 6, 2012\] may submit to the Administrator a request for a determination under paragraph (2) that the community in which the flood protection system is located has made adequate progress on the reconstruction or improvement of the flood protection system.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Rule of construction.—Nothing in this subsection shall be construed to prohibit the Administrator from making a determination under paragraph (2) for any community in which a flood protection system is not undergoing reconstruction or improvement on the date of enactment of this Act.
 
-“(b)
+"(b)
 
 Termination of Eligibility.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Adequate continuing progress.—The Administrator shall issue rules to establish a method of determining whether a community has made adequate continuing progress on the reconstruction or improvement of a flood protection system that includes—
 
-&emsp;&emsp;“(A) a requirement that the Administrator shall—
+&emsp;&emsp;"(A) a requirement that the Administrator shall—
 
-&emsp;&emsp;&emsp;“(i) consult with the owner of the flood protection system—
+&emsp;&emsp;&emsp;"(i) consult with the owner of the flood protection system—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) 6 months after the date of a determination under subsection (a);
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) 6 months after the date of a determination under subsection (a);
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) 18 months after the date of a determination under subsection (a); and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) 18 months after the date of a determination under subsection (a); and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) 36 months after the date of a determination under subsection (a); and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) 36 months after the date of a determination under subsection (a); and
 
-&emsp;&emsp;&emsp;“(ii) after each consultation under clause (i), determine whether the reconstruction or improvement is reasonably likely to be completed in accordance with the project schedule described in subsection (a)(2)(A)(iv); and
+&emsp;&emsp;&emsp;"(ii) after each consultation under clause (i), determine whether the reconstruction or improvement is reasonably likely to be completed in accordance with the project schedule described in subsection (a)(2)(A)(iv); and
 
-&emsp;&emsp;“(B) a requirement that, if the Administrator makes a determination under subparagraph (A)(ii) that reconstruction or improvement is not reasonably likely to be completed in accordance with the project schedule, the Administrator shall—
+&emsp;&emsp;"(B) a requirement that, if the Administrator makes a determination under subparagraph (A)(ii) that reconstruction or improvement is not reasonably likely to be completed in accordance with the project schedule, the Administrator shall—
 
-&emsp;&emsp;&emsp;“(i) not later than 30 days after the date of the determination, notify the owner of the flood protection system of the determination and provide the rationale and evidence for the determination; and
+&emsp;&emsp;&emsp;"(i) not later than 30 days after the date of the determination, notify the owner of the flood protection system of the determination and provide the rationale and evidence for the determination; and
 
-&emsp;&emsp;&emsp;“(ii) provide the owner of the flood protection system the opportunity to appeal the determination.
+&emsp;&emsp;&emsp;"(ii) provide the owner of the flood protection system the opportunity to appeal the determination.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Termination.—The Administrator shall terminate the eligibility for flood insurance coverage under subsection (a) for persons residing in a community with respect to which the Administrator made a determination under subsection (a) if—
 
-&emsp;&emsp;“(A) the Administrator determines that the community has not made adequate continuing progress; or
+&emsp;&emsp;"(A) the Administrator determines that the community has not made adequate continuing progress; or
 
-&emsp;&emsp;“(B) on the date that is 5 years after the date on which the reconstruction or construction of the improvement commences, the project has not been completed.
+&emsp;&emsp;"(B) on the date that is 5 years after the date on which the reconstruction or construction of the improvement commences, the project has not been completed.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Waiver.—A person whose eligibility would otherwise be terminated under paragraph (2)(B) shall continue to be eligible to purchase flood insurance coverage described in subsection (a) if the Administrator determines—
 
-&emsp;&emsp;“(A) the community has made adequate continuing progress on the reconstruction or improvement of a flood protection system; and
+&emsp;&emsp;"(A) the community has made adequate continuing progress on the reconstruction or improvement of a flood protection system; and
 
-&emsp;&emsp;“(B) there is a reasonable expectation that the reconstruction or improvement of the flood protection system will be completed not later than 1 year after the date of the determination under this paragraph.
+&emsp;&emsp;"(B) there is a reasonable expectation that the reconstruction or improvement of the flood protection system will be completed not later than 1 year after the date of the determination under this paragraph.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Risk premium rate.—If the Administrator terminates the eligibility of persons residing in a community to purchase flood insurance coverage described in subsection (a), the Administrator shall establish an appropriate risk premium rate for flood insurance coverage under the National Flood Insurance Program for persons residing in the community that purchased flood insurance coverage before the date on which the termination of eligibility takes effect, taking into consideration the then-current state of the flood protection system.
 
-“(c)
+"(c)
 
 Additional Authority.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Additional authority.—Notwithstanding subsection (a), in exceptional and exigent circumstances, the Administrator may, in the Administrator's sole discretion, determine that a person residing in a community, which is a participant in the National Flood Insurance Program, that has begun reconstruction or improvement of a flood protection system that will afford flood protection for a 100-year floodplain (without regard to the level of Federal funding of or participation in the reconstruction or improvement) shall be eligible for flood insurance coverage under the National Flood Insurance Program at a risk premium rate that does not exceed the risk premium rate that would be chargeable if the flood protection system had been completed, provided—
 
-&emsp;&emsp;“(A) the community makes a written request for the determination setting forth the exceptional and exigent circumstances, including why the community cannot meet the criteria for adequate progress set forth in under \[sic\] subsection (a)(2)(A) and why immediate relief is necessary;
+&emsp;&emsp;"(A) the community makes a written request for the determination setting forth the exceptional and exigent circumstances, including why the community cannot meet the criteria for adequate progress set forth in under \[sic\] subsection (a)(2)(A) and why immediate relief is necessary;
 
-&emsp;&emsp;“(B) the Administrator submits a written report setting forth findings of the exceptional and exigent circumstances on which the Administrator based an affirmative determination to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives not later than 15 days before making the determination; and
+&emsp;&emsp;"(B) the Administrator submits a written report setting forth findings of the exceptional and exigent circumstances on which the Administrator based an affirmative determination to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Financial Services of the House of Representatives not later than 15 days before making the determination; and
 
-&emsp;&emsp;“(C) the eligibility for flood insurance coverage at a risk premium rate determined under this subsection terminates no later than 1 year after the date on which the Administrator makes the determination.
+&emsp;&emsp;"(C) the eligibility for flood insurance coverage at a risk premium rate determined under this subsection terminates no later than 1 year after the date on which the Administrator makes the determination.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Limitation.—Upon termination of eligibility under paragraph (1)(C), a community may submit another request pursuant to paragraph (1)(A). The Administrator may make no more than two determinations under paragraph (1) with respect to persons residing within any single requesting community.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Termination.—The authority provided under paragraphs (1) and (2) shall terminate two years after the enactment of this Act \[July 6, 2012\].”
+Termination.—The authority provided under paragraphs (1) and (2) shall terminate two years after the enactment of this Act \[July 6, 2012\]."
 
 \[For definitions of terms used in section 100230 of Pub. L. 112–141, set out above, see section 4004 of this title.\]
 
 #### Fees
 
-Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 517, provided in part: “That beginning in fiscal year 2003 and thereafter, fees authorized in 42 U.S.C. 4014(a)(1)(B)(iii) shall be collected only if provided in advance in appropriations acts.”
+Pub. L. 108–7, div. K, title III, Feb. 20, 2003, 117 Stat. 517, provided in part: "That beginning in fiscal year 2003 and thereafter, fees authorized in 42 U.S.C. 4014(a)(1)(B)(iii) shall be collected only if provided in advance in appropriations acts."
 
 #### Study of Economic Effects of Charging Actuarially Based Premium Rates for Pre-FIRM Structures
 
@@ -286,5 +286,5 @@ Pub. L. 103–325, title V, §578, Sept. 23, 1994, 108 Stat. 2284, required the 
 
 Pub. L. 101–137, §5, Nov. 3, 1989, 103 Stat. 825, directed Director of Federal Emergency Management Agency to conduct a study to determine the impact of relative sea level rise on the flood insurance rate maps, such study also to project the economic losses associated with estimated sea level rise and aggregate such data for the United States as a whole and by region, with Director to report results of study to Congress not later than one year after Nov. 3, 1989.
 
-<i><sup>1</sup></i><i> So in original. Probably means “Administrator”.</i>
+<i><sup>1</sup></i><i> So in original. Probably means "Administrator".</i>
 

@@ -18,11 +18,11 @@ In this section:
 
 #### (1) Eligible entity
 
-&emsp;The term “eligible entity” means an individual, entity, Indian tribe, or unit of State or local government, including a corporation, farm cooperative, farmer cooperative organization, association of agricultural producers, National Laboratory, institution of higher education, rural electric cooperative, public power entity, or consortium of any of those entities.
+&emsp;The term "eligible entity" means an individual, entity, Indian tribe, or unit of State or local government, including a corporation, farm cooperative, farmer cooperative organization, association of agricultural producers, National Laboratory, institution of higher education, rural electric cooperative, public power entity, or consortium of any of those entities.
 
 #### (2) Eligible technology
 
-&emsp;The term “eligible technology” means, as determined by the Secretary—
+&emsp;The term "eligible technology" means, as determined by the Secretary—
 
 &emsp;&emsp;(A) a technology that is being adopted in a viable commercial-scale operation of a biorefinery that produces an advanced biofuel; and
 
@@ -194,7 +194,7 @@ A prior section 8103, Pub. L. 107–171, title IX, §9003, May 13, 2002, 116 Sta
 
 #### Amendments
 
-<b>2013</b>—Subsec. (h)(2). Pub. L. 112–240 substituted “2013” for “2012”.
+<b>2013</b>—Subsec. (h)(2). Pub. L. 112–240 substituted "2013" for "2012".
 
 #### Effective Date of 2013 Amendment
 

@@ -98,13 +98,13 @@ Duties.—The Director shall—
 
 &emsp;&emsp;&emsp;(vii) build and disseminate the transportation layer of the National Spatial Data Infrastructure developed under Executive Order 12906 (59 Fed. Reg. 17671) (or a successor Executive Order), including by coordinating the development of transportation geospatial data standards, compiling intermodal geospatial data, and collecting geospatial data that is not being collected by other entities;
 
-&emsp;&emsp;&emsp;(viii) issue guidelines for the collection of information by the Department that theDirector determines necessary to develop transportation statistics and carry out modeling, economic assessment, and program assessment activities to ensure that such information is accurate, reliable, relevant, uniform, and in a form that permits systematic analysis by the Department;
+&emsp;&emsp;&emsp;(viii) issue guidelines for the collection of information by the Department that the Director determines necessary to develop transportation statistics and carry out modeling, economic assessment, and program assessment activities to ensure that such information is accurate, reliable, relevant, uniform, and in a form that permits systematic analysis by the Department;
 
 &emsp;&emsp;&emsp;(ix) review and report to the Secretary on the sources and reliability of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the statistics proposed by the heads of the operating administrations of the Department to measure outputs and outcomes as required by the Government Performance and Results Act of 1993 (Public Law 103–62; 107 Stat. 285); and
 
-&emsp;&emsp;&emsp;&emsp;(II) at the request of the Secretary, any other data collected or statistical information published by the heads of the operating administrations of the Department; and
+&emsp;&emsp;&emsp;&emsp;(II) at the request of the Secretary, any other data collected or statistical information published by the heads ofthe operating administrations of the Department; and
 
 &emsp;&emsp;&emsp;(x) ensure that the statistics published under this section are readily accessible to the public, consistent with applicable security constraints and confidentiality interests.
 
@@ -126,7 +126,7 @@ Section effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out a
 
 #### Office of Airline Information
 
-Pub. L. 106–181, title I, §103(b), Apr. 5, 2000, 114 Stat. 67, provided that: “There is authorized to be appropriated from the Airport and Airway Trust Fund to the Secretary \[of Transportation\] $4,000,000 for fiscal years beginning after September 30, 2000, to fund the activities of the Office of Airline Information in the Bureau of Transportation Statistics of the Department of Transportation.”
+Pub. L. 106–181, title I, §103(b), Apr. 5, 2000, 114 Stat. 67, provided that: "There is authorized to be appropriated from the Airport and Airway Trust Fund to the Secretary \[of Transportation\] $4,000,000 for fiscal years beginning after September 30, 2000, to fund the activities of the Office of Airline Information in the Bureau of Transportation Statistics of the Department of Transportation."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section 6309;”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section 6309;".</i>
 

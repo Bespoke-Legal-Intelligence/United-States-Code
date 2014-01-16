@@ -66,7 +66,7 @@ R.S. §3503.
 
 31:275.
 
-R.S. §3509; Aug. 23, 1912, ch. 350, §1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384.
+R.S. §3509; Aug. 23, 1912, ch. 350, §1(last par. words before 7th comma under heading "Assay Office at Salt Lake City, Utah"), 37 Stat. 384.
 
 &nbsp;
 
@@ -78,19 +78,19 @@ R.S. §3516.
 
 31:342.
 
-June 4, 1897, ch. 2, §1(1st par. under heading “Recoinage, Reissue, and Transportation of Minor Coins”), 30 Stat. 27.
+June 4, 1897, ch. 2, §1(1st par. under heading "Recoinage, Reissue, and Transportation of Minor Coins"), 30 Stat. 27.
 
 &nbsp;
 
 31:345.
 
-R.S. §3532; Aug. 23, 1912, ch. 350, §1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384.
+R.S. §3532; Aug. 23, 1912, ch. 350, §1(last par. words before 7th comma under heading "Assay Office at Salt Lake City, Utah"), 37 Stat. 384.
 
 &nbsp;
 
 31:353.
 
-R.S. §3540; Aug. 23, 1912, ch. 350, §1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384.
+R.S. §3540; Aug. 23, 1912, ch. 350, §1(last par. words before 7th comma under heading "Assay Office at Salt Lake City, Utah"), 37 Stat. 384.
 
 &nbsp;
 
@@ -102,7 +102,7 @@ July 23, 1965, Pub. L. 89–81, §101(a), 79 Stat. 254; restated Dec. 31, 1970, 
 
 31:368.
 
-R.S. §3551; Aug. 23, 1912, ch. 350, §1(last par. words before 7th comma under heading “Assay Office at Salt Lake City, Utah”), 37 Stat. 384.
+R.S. §3551; Aug. 23, 1912, ch. 350, §1(last par. words before 7th comma under heading "Assay Office at Salt Lake City, Utah"), 37 Stat. 384.
 
 5111(a)(3)
 
@@ -132,33 +132,33 @@ July 23, 1965, Pub. L. 89–81, §§103(a), 105, 106, 79 Stat. 255.
 
 31:395, 396.
 
-In subsection (a)(1), the words “coins described in” are substituted for “coins of the denominations set forth in” in 31:391(a) because of the restatement. The text of 31:253, 272, and 345(1st sentence) is omitted as superseded by the source provisions restated in section 321(c) of the revised title. The text of 31:275, 322, 342, 345(last sentence), and 353 is omitted as unnecessary because of the restatement.
+In subsection (a)(1), the words "coins described in" are substituted for "coins of the denominations set forth in" in 31:391(a) because of the restatement. The text of 31:253, 272, and 345(1st sentence) is omitted as superseded by the source provisions restated in section 321(c) of the revised title. The text of 31:275, 322, 342, 345(last sentence), and 353 is omitted as unnecessary because of the restatement.
 
-In subsection (a)(2), the words “Secretary of the Treasury” are substituted for “engraver” and “superintendent of coining department of the mint at Philadelphia” because of the source provisions restated in section 321(c) of the revised title. The words “under such regulations as the superintendent, with the approval of the Director of the Mint, may prescribe” are omitted as unnecessary because of section 321(b) of the revised title. The words “national medal dies” are substituted for “Dies of a national character” for clarity. The words “or the machinery or apparatus thereof be used for that purpose” are omitted as unnecessary because of the restatement.
+In subsection (a)(2), the words "Secretary of the Treasury" are substituted for "engraver" and "superintendent of coining department of the mint at Philadelphia" because of the source provisions restated in section 321(c) of the revised title. The words "under such regulations as the superintendent, with the approval of the Director of the Mint, may prescribe" are omitted as unnecessary because of section 321(b) of the revised title. The words "national medal dies" are substituted for "Dies of a national character" for clarity. The words "or the machinery or apparatus thereof be used for that purpose" are omitted as unnecessary because of the restatement.
 
-In subsection (a)(3), the words “numismatic items” are retained and used throughout the revised title to apply to medals, proof coins, uncirculated coins, numismatic accessories, and other numismatic items to eliminate unnecessary words and for consistency. The words “In connection with the operations of the Bureau of the Mint” are omitted as unnecessary because of the restatement. The text of 31:324h(last sentence) is omitted as unnecessary because of the source provisions restated in section 5132(a) of the revised title.
+In subsection (a)(3), the words "numismatic items" are retained and used throughout the revised title to apply to medals, proof coins, uncirculated coins, numismatic accessories, and other numismatic items to eliminate unnecessary words and for consistency. The words "In connection with the operations of the Bureau of the Mint" are omitted as unnecessary because of the restatement. The text of 31:324h(last sentence) is omitted as unnecessary because of the source provisions restated in section 5132(a) of the revised title.
 
-In subsection (a)(4), the words “may mint” are substituted for “It shall be lawful for coinage to be executed” in 31:367, and the words “regular minting operations” are substituted for “required coinage of the United States”, for consistency in the revised section. The words “at the mints of the United States” and “according to the legally prescribed standards and devices of such country” are omitted as unnecessary because of the restatement. The words “The Secretary of the Treasury . . . shall prescribe a charge” are substituted for “the charge . . . to be fixed by the Director of the Mint, with the approval of the Secretary of the Treasury” because of the source provisions restated in section 321(c) of the revised title. The words “minting the foreign coins” are substituted for “the same”, for clarity. The words “under such regulations as the Secretary of the Treasury may prescribe” are omitted as unnecessary because of section 321(b) of the revised title.
+In subsection (a)(4), the words "may mint" are substituted for "It shall be lawful for coinage to be executed" in 31:367, and the words "regular minting operations" are substituted for "required coinage of the United States", for consistency in the revised section. The words "at the mints of the United States" and "according to the legally prescribed standards and devices of such country" are omitted as unnecessary because of the restatement. The words "The Secretary of the Treasury . . . shall prescribe a charge" are substituted for "the charge . . . to be fixed by the Director of the Mint, with the approval of the Secretary of the Treasury" because of the source provisions restated in section 321(c) of the revised title. The words "minting the foreign coins" are substituted for "the same", for clarity. The words "under such regulations as the Secretary of the Treasury may prescribe" are omitted as unnecessary because of section 321(b) of the revised title.
 
-In subsection (b), the first sentence is added for clarity and because of the restatement. The words “amount by which the nominal value of the coins minted from the metal exceeds the cost of the metal” are substituted for “gain arising from the coinage of metals purchased out of such fund into coin of a nominal value exceeding the cost of such metals” to eliminate unnecessary words. The words “The Secretary shall deposit in the Treasury as miscellaneous receipts excess amounts in the coinage profit fund” are substituted for “such sums as shall from time to time be transferred therefrom to the general fund of the Treasury” for clarity and for consistency in the revised title.
+In subsection (b), the first sentence is added for clarity and because of the restatement. The words "amount by which the nominal value of the coins minted from the metal exceeds the cost of the metal" are substituted for "gain arising from the coinage of metals purchased out of such fund into coin of a nominal value exceeding the cost of such metals" to eliminate unnecessary words. The words "The Secretary shall deposit in the Treasury as miscellaneous receipts excess amounts in the coinage profit fund" are substituted for "such sums as shall from time to time be transferred therefrom to the general fund of the Treasury" for clarity and for consistency in the revised title.
 
-In subsection (c), the words “metallic strip” are omitted as being included in “materials”, and the word “terms” is omitted as being included in “conditions”.
+In subsection (c), the words "metallic strip" are omitted as being included in "materials", and the word "terms" is omitted as being included in "conditions".
 
-In subsection (d)(1), the words “prohibit or limit” are substituted for “prohibit, curtail, or regulate” because of the restatement and to eliminate unnecessary words. The words “prohibition or limitation” are substituted for “such action” because of the restatement. The words “under such rules and regulations as he may prescribe” are omitted as unnecessary because of section 321(b) of the revised title.
+In subsection (d)(1), the words "prohibit or limit" are substituted for "prohibit, curtail, or regulate" because of the restatement and to eliminate unnecessary words. The words "prohibition or limitation" are substituted for "such action" because of the restatement. The words "under such rules and regulations as he may prescribe" are omitted as unnecessary because of section 321(b) of the revised title.
 
-In subsection (d)(2), the word “person” is substituted for “Whoever” for consistency in the revised title.
+In subsection (d)(2), the word "person" is substituted for "Whoever" for consistency in the revised title.
 
-In subsection (d)(3), the words “and his delegates” are omitted as unnecessary because of the power of the Secretary to delegate under section 321(b) of the revised title. The word “remedies” is substituted for “judicial and other remedies available to the United States” to eliminate unnecessary words. The words “of property subject to forfeiture pursuant to subsection (a) of this section” and “for the enforcement of forfeitures of property subject to forfeiture under any provision of title 26” are omitted as unnecessary because of the restatement.
+In subsection (d)(3), the words "and his delegates" are omitted as unnecessary because of the power of the Secretary to delegate under section 321(b) of the revised title. The word "remedies" is substituted for "judicial and other remedies available to the United States" to eliminate unnecessary words. The words "of property subject to forfeiture pursuant to subsection (a) of this section" and "for the enforcement of forfeitures of property subject to forfeiture under any provision of title 26" are omitted as unnecessary because of the restatement.
 
 #### References in Text
 
-The Internal Revenue Code of 1954, referred to in subsec. (d)(3), was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, and is classified generally to Title 26, Internal Revenue Code.
+The Internal Revenue Code of 1954, referred to in subsec. (d)(3), was redesignated the Internal Revenue Codeof 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, and is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–390 inserted “, including the cost of coin bags and pallets” after “distributing the coins” in fourth sentence.
+<b>1992</b>—Subsec. (b). Pub. L. 102–390 inserted ", including the cost of coin bags and pallets" after "distributing the coins" in fourth sentence.
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–274 inserted heading and amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Secretary may make contracts on conditions the Secretary decides are appropriate and in the public interest to acquire equipment, manufacturing facilities, patents, patent rights, technical knowledge and assistance, and materials necessary to produce rapidly an adequate supply of coins referred to in section 5112(a)(1)–(4) of this title.”
+<b>1988</b>—Subsec. (c). Pub. L. 100–274 inserted heading and amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "The Secretary may make contracts on conditions the Secretary decides are appropriate and in the public interest to acquire equipment, manufacturing facilities, patents, patent rights, technical knowledge and assistance, and materials necessary to produce rapidly an adequate supply of coins referred to in section 5112(a)(1)–(4) of this title."
 
 #### Termination of Coinage Profit Fund and Coinage Metal Fund
 
@@ -167,6 +167,10 @@ All assets and liabilities of Coinage Profit Fund and Coinage Metal Fund transfe
 #### Commemorative Medals
 
 Provisions authorizing commemorative medals were contained in the following acts:
+
+Pub. L. 113–16, July 12, 2013, 127 Stat. 477, recognizing the First Special Service Force.
+
+Pub. L. 113–11, May 24, 2013, 127 Stat. 446, recognizing Addie Mae Collins, Denise McNair, Carole Robertson, and Cynthia Wesley.
 
 Pub. L. 112–148, July 26, 2012, 126 Stat. 1140, recognizing Raoul Wallenberg.
 
@@ -182,7 +186,7 @@ Pub. L. 111–221, Aug. 6, 2010, 124 Stat. 2376, recognizing the 10th anniversar
 
 Pub. L. 111–65, Sept. 30, 2009, 123 Stat. 2003, recognizing Arnold Palmer.
 
-Pub. L. 111–44, Aug. 7, 2009, 123 Stat. 1966, recognizing Neil A. Armstrong, Edwin E. “Buzz” Aldrin, Jr., Michael Collins, and John Herschel Glenn, Jr.
+Pub. L. 111–44, Aug. 7, 2009, 123 Stat. 1966, recognizing Neil A. Armstrong, Edwin E. "Buzz" Aldrin, Jr., Michael Collins, and John Herschel Glenn, Jr.
 
 Pub. L. 111–40, July 1, 2009, 123 Stat. 1958, recognizing the Women Airforce Service Pilots (WASP).
 
@@ -232,7 +236,7 @@ Pub. L. 106–153, Dec. 9, 1999, 113 Stat. 1733, recognizing Father Theodore M. 
 
 Pub. L. 106–26, May 4, 1999, 113 Stat. 50, recognizing Rosa Parks.
 
-Pub. L. 105–277, div. C, title I, §139(a), Oct. 21, 1998, 112 Stat. 2681–597, recognizing the individuals commonly referred to as the “Little Rock Nine”.
+Pub. L. 105–277, div. C, title I, §139(a), Oct. 21, 1998, 112 Stat. 2681–597, recognizing the individuals commonly referred to as the "Little Rock Nine".
 
 Pub. L. 105–277, div. C, title I, §139(b), Oct. 21, 1998, 112 Stat. 2681–598, recognizing Gerald R. and Betty Ford.
 

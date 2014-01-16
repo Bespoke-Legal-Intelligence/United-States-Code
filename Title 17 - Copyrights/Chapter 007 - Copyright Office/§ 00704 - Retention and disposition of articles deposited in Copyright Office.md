@@ -14,9 +14,9 @@
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e). Pub. L. 111–295 substituted “section 708(a)” for “section 708(a)(10)”.
+<b>2010</b>—Subsec. (e). Pub. L. 111–295 substituted "section 708(a)" for "section 708(a)(10)".
 
-<b>1990</b>—Subsec. (e). Pub. L. 101–318 substituted “708(a)(10)” for “708(a)(11)”.
+<b>1990</b>—Subsec. (e). Pub. L. 101–318 substituted "708(a)(10)" for "708(a)(11)".
 
 #### Effective Date of 1990 Amendment
 

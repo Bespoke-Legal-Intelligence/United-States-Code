@@ -20,9 +20,9 @@
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–237, §106(1), inserted “, or of a standards development activity engaged in by a standards development organization” after “joint venture” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–237, §106(1), inserted ", or of a standards development activity engaged in by a standards development organization" after "joint venture" in introductory provisions.
 
 Subsec. (c). Pub. L. 108–237, §106(2), added subsec. (c).
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–42 substituted “joint venture” for “joint research and development venture” in introductory provisions.
+<b>1993</b>—Subsec. (a). Pub. L. 103–42 substituted "joint venture" for "joint research and development venture" in introductory provisions.
 

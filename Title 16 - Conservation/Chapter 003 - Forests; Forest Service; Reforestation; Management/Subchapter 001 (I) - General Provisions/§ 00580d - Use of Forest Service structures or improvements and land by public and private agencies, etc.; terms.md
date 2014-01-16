@@ -6,253 +6,253 @@ The Secretary of Agriculture, under such regulations as he may prescribe and at 
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277, which directed the substitution of “renovate, recondition, improve, and maintain” for “recondition and maintain,”, was executed by making the substitution for language which did not include a comma after “maintain” to reflect the probable intent of Congress.
+<b>1998</b>—Pub. L. 105–277, which directed the substitution of "renovate, recondition, improve, and maintain" for "recondition and maintain,", was executed by making the substitution for language which did not include a comma after "maintain" to reflect the probable intent of Congress.
 
 #### Forest Service Facility Realignment and Enhancement
 
 Pub. L. 109–54, title V, Aug. 2, 2005, 119 Stat. 559, as amended by Pub. L. 111–8, div. E, title IV, §422, Mar. 11, 2009, 123 Stat. 748; Pub. L. 112–74, div. E, title IV, §421, Dec. 23, 2011, 125 Stat. 1045, provided that:
 
-#### “SEC. 501. SHORT TITLE.
+#### "SEC. 501. SHORT TITLE.
 
-“This title may be cited as the ‘Forest Service Facility Realignment and Enhancement Act of 2005’.
+"This title may be cited as the 'Forest Service Facility Realignment and Enhancement Act of 2005'.
 
-#### “SEC. 502. DEFINITIONS.
+#### "SEC. 502. DEFINITIONS.
 
-“In this title:
+"In this title:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Administrative site.—The term ‘administrative site’ means—
+Administrative site.—The term 'administrative site' means—
 
-&emsp;&emsp;“(A) any facility or improvement, including curtilage, that was acquired or is used specifically for purposes of administration of the National Forest System;
+&emsp;&emsp;"(A) any facility or improvement, including curtilage, that was acquired or is used specifically for purposes of administration of the National Forest System;
 
-&emsp;&emsp;“(B) any Federal land associated with a facility or improvement described in subparagraph (A) that was acquired or is used specifically for purposes of administration of Forest Service activities and underlies or abuts the facility or improvement; or
+&emsp;&emsp;"(B) any Federal land associated with a facility or improvement described in subparagraph (A) that was acquired or is used specifically for purposes of administration of Forest Service activities and underlies or abuts the facility or improvement; or
 
-&emsp;&emsp;“(C) not more than 10 isolated, undeveloped parcels per fiscal year of not more than 40 acres each that were acquired or used for purposes of administration of Forest Service activities, but are not being so utilized, such as vacant lots outside of the proclaimed boundary of a unit of the National Forest System.
+&emsp;&emsp;"(C) not more than 10 isolated, undeveloped parcels per fiscal year of not more than 40 acres each that were acquired or used for purposes of administration of Forest Service activities, but are not being so utilized, such as vacant lots outside of the proclaimed boundary of a unit of the National Forest System.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Facility or improvement.—The term ‘facility or improvement’ includes—
+Facility or improvement.—The term 'facility or improvement' includes—
 
-&emsp;&emsp;“(A) a forest headquarters;
+&emsp;&emsp;"(A) a forest headquarters;
 
-&emsp;&emsp;“(B) a ranger station;
+&emsp;&emsp;"(B) a ranger station;
 
-&emsp;&emsp;“(C) a research station or laboratory;
+&emsp;&emsp;"(C) a research station or laboratory;
 
-&emsp;&emsp;“(D) a dwelling;
+&emsp;&emsp;"(D) a dwelling;
 
-&emsp;&emsp;“(E) a warehouse;
+&emsp;&emsp;"(E) a warehouse;
 
-&emsp;&emsp;“(F) a scaling station;
+&emsp;&emsp;"(F) a scaling station;
 
-&emsp;&emsp;“(G) a fire-retardant mixing station;
+&emsp;&emsp;"(G) a fire-retardant mixing station;
 
-&emsp;&emsp;“(H) a fire-lookout station;
+&emsp;&emsp;"(H) a fire-lookout station;
 
-&emsp;&emsp;“(I) a guard station;
+&emsp;&emsp;"(I) a guard station;
 
-&emsp;&emsp;“(J) a storage facility;
+&emsp;&emsp;"(J) a storage facility;
 
-&emsp;&emsp;“(K) a telecommunication facility; and
+&emsp;&emsp;"(K) a telecommunication facility; and
 
-&emsp;&emsp;“(L) other administrative installations for conducting Forest Service activities.
+&emsp;&emsp;"(L) other administrative installations for conducting Forest Service activities.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Market analysis.—The term ‘market analysis’ means the identification and study of the real estate market for a particular economic good or service.
+Market analysis.—The term 'market analysis' means the identification and study of the real estate market for a particular economic good or service.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Secretary.—The term ‘Secretary’ means the Secretary of Agriculture.
+Secretary.—The term 'Secretary' means the Secretary of Agriculture.
 
-#### “SEC. 503. AUTHORIZATION FOR CONVEYANCE OF FOREST SERVICE ADMINISTRATIVE SITES.
+#### "SEC. 503. AUTHORIZATION FOR CONVEYANCE OF FOREST SERVICE ADMINISTRATIVE SITES.
 
-“(a)
+"(a)
 
 Conveyances Authorized.—In the manner provided by this title, the Secretary may convey an administrative site, or an interest in an administrative site, that is under the jurisdiction of the Secretary.
 
-“(b)
+"(b)
 
 Means of Conveyance.—The conveyance of an administrative site under this title may be made—
 
-&emsp;“(1) by sale;
+&emsp;"(1) by sale;
 
-&emsp;“(2) by lease;
+&emsp;"(2) by lease;
 
-&emsp;“(3) by exchange;
+&emsp;"(3) by exchange;
 
-&emsp;“(4) by a combination of sale and exchange; or
+&emsp;"(4) by a combination of sale and exchange; or
 
-&emsp;“(5) by such other means as the Secretary considers appropriate.
+&emsp;"(5) by such other means as the Secretary considers appropriate.
 
-“(c)
+"(c)
 
 Size of Conveyance.—An administrative site or compound of administrative sites disposed of in a single conveyance under this title may not exceed 40 acres.
 
-“(d)
+"(d)
 
 Certain Lands Excluded.—The following Federal land may not be conveyed under this title:
 
-&emsp;“(1) Any land within a unit of the National Forest System that is exclusively designated for natural area or recreational purposes.
+&emsp;"(1) Any land within a unit of the National Forest System that is exclusively designated for natural area or recreational purposes.
 
-&emsp;“(2) Any land included within the National Wilderness Preservation System, the Wild and Scenic River System, or a National Monument.
+&emsp;"(2) Any land included within the National Wilderness Preservation System, the Wild and Scenic River System, or a National Monument.
 
-&emsp;“(3) Any land that the Secretary determines—
+&emsp;"(3) Any land that the Secretary determines—
 
-&emsp;&emsp;“(A) is needed for resource management purposes or to provide access to other land or water;
+&emsp;&emsp;"(A) is needed for resource management purposes or to provide access to other land or water;
 
-&emsp;&emsp;“(B) is surrounded by National Forest System land or other publicly owned land, if conveyance would not be in the public interest due to the creation of a non-Federal inholding that would preclude the efficient management of the surrounding land; or
+&emsp;&emsp;"(B) is surrounded by National Forest System land or other publicly owned land, if conveyance would not be in the public interest due to the creation of a non-Federal inholding that would preclude the efficient management of the surrounding land; or
 
-&emsp;&emsp;“(C) would be in the public interest to retain.
+&emsp;&emsp;"(C) would be in the public interest to retain.
 
-“(e)
+"(e)
 
 Congressional Notifications.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Notice of anticipated use of authority.—As part of the annual budget justification documents provided to the Committee on Appropriations of the House of Representatives and the Committee on Appropriations of the Senate, the Secretary shall include—
 
-&emsp;&emsp;“(A) a list of the anticipated conveyances to be made, including the anticipated revenue that may be obtained, using the authority provided by this title or other conveyance authorities available to the Secretary;
+&emsp;&emsp;"(A) a list of the anticipated conveyances to be made, including the anticipated revenue that may be obtained, using the authority provided by this title or other conveyance authorities available to the Secretary;
 
-&emsp;&emsp;“(B) a discussion of the intended purposes of any new revenue obtained using this authority or other conveyance authorities available to the Secretary, and a list of any individual projects that exceed $500,000; and
+&emsp;&emsp;"(B) a discussion of the intended purposes of any new revenue obtained using this authority or other conveyance authorities available to the Secretary, and a list of any individual projects that exceed $500,000; and
 
-&emsp;&emsp;“(C) a presentation of accomplishments of previous years using this authority or other conveyance authorities available to the Secretary.
+&emsp;&emsp;"(C) a presentation of accomplishments of previous years using this authority or other conveyance authorities available to the Secretary.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Notice of changes to conveyance list.—If the Secretary proposes to convey an administrative site under this title or using other conveyance authorities available to the Secretary and the administrative site is not included on a list provided under paragraph (1)(A), the Secretary shall submit to the congressional committees specified in paragraph (3) written notice of the proposed conveyance, including the anticipated revenue that may be obtained from the conveyance.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Notice of use of authority.—At least once a year, the Secretary shall submit to the Committee on Agriculture, the Committee on Appropriations, and the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry, the Committee on Appropriations, and the Committee on Energy and Natural Resources of the Senate a report containing a description of all conveyances of National Forest System land made by the Secretary under this title or other conveyance authorities during the period covered by the report.
 
-“(f)
+"(f)
 
 Duration of Authority.—The authority of the Secretary to initiate the conveyance of an administrative site under this title expires on September 30, 2016.
 
-“(g)
+"(g)
 
 Repeal of Pilot Conveyance Authority.—Effective September 30, 2006, section 329 of the Department of the Interior and Related Agencies Appropriations Act, 2002 (16 U.S.C. 580d note; Public Law 107–63), is repealed. Notwithstanding the repeal of such section, the Secretary may complete the conveyance under such section of any administrative site whose conveyance was initiated under such section before that date.
 
-#### “SEC. 504. CONVEYANCE REQUIREMENTS.
+#### "SEC. 504. CONVEYANCE REQUIREMENTS.
 
-“(a)
+"(a)
 
 Configuration of Administrative Sites.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Configuration.—To facilitate the conveyance of an administrative site under this title, the Secretary may configure the administrative site—
 
-&emsp;&emsp;“(A) to maximize the marketability of the administrative site; and
+&emsp;&emsp;"(A) to maximize the marketability of the administrative site; and
 
-&emsp;&emsp;“(B) to achieve management objectives.
+&emsp;&emsp;"(B) to achieve management objectives.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Separate treatment of facility or improvement.—A facility or improvement on an administrative site to be conveyed under this title may be severed from the land and disposed of in a separate conveyance.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Terms, conditions, and reservations.—The conveyance of an administrative site under this title shall be subject to such terms, conditions, and reservations as the Secretary determines to be necessary to protect the public interest\[.\]
 
-“(b)
+"(b)
 
 Consideration.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Consideration required.—A person or entity acquiring an administrative site under this title shall provide to the Secretary consideration in an amount that is at least equal to the market value of the administrative site.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Form of consideration.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Sale.—Consideration for an administrative site conveyed by sale under this title shall be paid in cash on conveyance of the administrative site.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Exchange.—If the administrative site is conveyed by exchange, the consideration shall be provided in the form of a conveyance to the Secretary of land or improvements that are equal in market value to the conveyed administrative site. If the market values are not equal, the market values may be equalized by—
 
-&emsp;&emsp;&emsp;“(i) the Secretary making a cash payment to the person or entity acquiring the administrative site; or
+&emsp;&emsp;&emsp;"(i) the Secretary making a cash payment to the person or entity acquiring the administrative site; or
 
-&emsp;&emsp;&emsp;“(ii) the person or entity acquiring the administrative site making a cash equalization payment to the Secretary.
+&emsp;&emsp;&emsp;"(ii) the person or entity acquiring the administrative site making a cash equalization payment to the Secretary.
 
-“(c)
+"(c)
 
 Determination of Market Value.—The Secretary shall determine the market value of an administrative site to be conveyed under this title or of non-Federal land or improvements to be provided as consideration in exchange for an administrative site—
 
-&emsp;“(1) by conducting an appraisal that is performed in accordance with—
+&emsp;"(1) by conducting an appraisal that is performed in accordance with—
 
-&emsp;&emsp;“(A) the Uniform Appraisal Standards for Federal Land Acquisitions, established in accordance with the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.); and
+&emsp;&emsp;"(A) the Uniform Appraisal Standards for Federal Land Acquisitions, established in accordance with the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.); and
 
-&emsp;&emsp;“(B) the Uniform Standards of Professional Appraisal Practice; or
+&emsp;&emsp;"(B) the Uniform Standards of Professional Appraisal Practice; or
 
-&emsp;“(2) by competitive sale.
+&emsp;"(2) by competitive sale.
 
-“(d)
+"(d)
 
 Relation to Other Laws.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Federal property disposal.—Chapter 5 of subtitle I of title 40, United States Code, shall not apply to the conveyance of an administrative site under this title.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Land exchanges.—Section 206 of the Federal Land Policy and Management Act \[of 1976\] (43 U.S.C. 1716) shall not apply to the conveyance of an administrative site under this title carried out by means of an exchange or combination of sale and exchange.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Lead-based paint and asbestos abatement.—Notwithstanding any provision of law relating to the mitigation or abatement of lead-based paint or asbestos-containing building materials, the Secretary is not required to mitigate or abate lead-based paint or asbestos-containing building materials with respect to an administrative site to be conveyed under this title. However, if the administrative site has lead-based paint or asbestos-containing building materials, the Secretary shall—
 
-&emsp;&emsp;“(A) provide notice to the person or entity acquiring the administrative site of the presence of the lead-based paint or asbestos-containing building material; and
+&emsp;&emsp;"(A) provide notice to the person or entity acquiring the administrative site of the presence of the lead-based paint or asbestos-containing building material; and
 
-&emsp;&emsp;“(B) obtain written assurance from the person or entity acquiring the administrative site that the person or entity will comply with applicable Federal, State, and local laws relating to the management of the lead-based paint and asbestos-containing building materials.
+&emsp;&emsp;"(B) obtain written assurance from the person or entity acquiring the administrative site that the person or entity will comply with applicable Federal, State, and local laws relating to the management of the lead-based paint and asbestos-containing building materials.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Environmental review.—The National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.) shall apply to the conveyance of administrative sites under this title, except that, in any environmental review or analysis required under such Act for the conveyance of an administrative site under this title, the Secretary is only required to—
 
-&emsp;&emsp;“(A) analyze the most reasonably foreseeable use of the administrative site, as determined through a market analysis;
+&emsp;&emsp;"(A) analyze the most reasonably foreseeable use of the administrative site, as determined through a market analysis;
 
-&emsp;&emsp;“(B) determine whether to include terms, conditions, and reservations under subsection (a)(3); and
+&emsp;&emsp;"(B) determine whether to include terms, conditions, and reservations under subsection (a)(3); and
 
-&emsp;&emsp;“(C) evaluate the alternative of not conveying the administrative site, consistent with the National Environmental Policy Act of 1969.
+&emsp;&emsp;"(C) evaluate the alternative of not conveying the administrative site, consistent with the National Environmental Policy Act of 1969.
 
-“(e)
+"(e)
 
 Rejection of Offers.—The Secretary shall reject any offer made for the acquisition of an administrative site under this title if the Secretary determines that the offer is—
 
-&emsp;“(1) not adequate to cover the market value of the administrative site; or
+&emsp;"(1) not adequate to cover the market value of the administrative site; or
 
-&emsp;“(2) not otherwise in the public interest.
+&emsp;"(2) not otherwise in the public interest.
 
-“(f)
+"(f)
 
 Consultation and Public Notice.—As appropriate, the Secretary is encouraged to work with the Administrator of the General Services Administration with respect to the conveyance of administrative sites under this title. Before making an administrative site available for conveyance under this title, the Secretary shall consult with local governmental officials of the community in which the administrative site is located and provide public notice of the proposed conveyance.
 
-#### “SEC. 505. DISPOSITION OF PROCEEDS RECEIVED FROM ADMINISTRATIVE SITE CONVEYANCES.
+#### "SEC. 505. DISPOSITION OF PROCEEDS RECEIVED FROM ADMINISTRATIVE SITE CONVEYANCES.
 
-“(a)
+"(a)
 
 Deposit.—The Secretary shall deposit in the fund established under Public Law 90–171 (commonly known as the Sisk Act; 16 U.S.C. 484a) all of the proceeds from the conveyance of an administrative site under this title.
 
-“(b)
+"(b)
 
 Use.—Amounts deposited under paragraph (1) shall be available to the Secretary, until expended and without further appropriation, to pay any necessary and incidental costs incurred by the Secretary in connection with—
 
-&emsp;“(1) the acquisition, improvement, maintenance, reconstruction, or construction of a facility or improvement for the National Forest System; and
+&emsp;"(1) the acquisition, improvement, maintenance, reconstruction, or construction of a facility or improvement for the National Forest System; and
 
-&emsp;“(2) the conveyance of administrative sites under this title, including costs described in subsection (c).
+&emsp;"(2) the conveyance of administrative sites under this title, including costs described in subsection (c).
 
-“(c)
+"(c)
 
-Brokerage Services.—The Secretary may use the proceeds from the conveyance of an administrative site under this title to pay reasonable commissions or fees for brokerage services obtained in connection with the conveyance if the Secretary determines that the services are in the public interest. The Secretary shall provide public notice of any brokerage services contract entered into in connection with a conveyance under this title.”
+Brokerage Services.—The Secretary may use the proceeds from the conveyance of an administrative site under this title to pay reasonable commissions or fees for brokerage services obtained in connection with the conveyance if the Secretary determines that the services are in the public interest. The Secretary shall provide public notice of any brokerage services contract entered into in connection with a conveyance under this title."
 
 #### Conveyance of Excess Forest Service Structures
 

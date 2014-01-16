@@ -24,9 +24,9 @@
 
 <b>2010</b>—Pub. L. 111–281, title II, §210(c), Oct. 15, 2010, 124 Stat. 2914, added item 7115.
 
-<b>1990</b>—Pub. L. 101–380, title IV, §4102(e)(2), Aug. 18, 1990, 104 Stat. 510, substituted “Review of criminal records” for “Renewal of licenses” in item 7109.
+<b>1990</b>—Pub. L. 101–380, title IV, §4102(e)(2), Aug. 18, 1990, 104 Stat. 510, substituted "Review of criminal records" for "Renewal of licenses" in item 7109.
 
-<b>1984</b>—Pub. L. 98–364, title IV, §402(8)(A), July 17, 1984, 98 Stat. 447, substituted “Oral examinations for licenses” for “Licenses for fishing vessels not subject to inspection” in item 7111.
+<b>1984</b>—Pub. L. 98–364, title IV, §402(8)(A), July 17, 1984, 98 Stat. 447, substituted "Oral examinations for licenses" for "Licenses for fishing vessels not subject to inspection" in item 7111.
 
 
 ---

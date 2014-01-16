@@ -20,11 +20,11 @@ Not later than January 31 of each year, the Director General of the Foreign Serv
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–228 substituted “January 31” for “March 31” in introductory provisions and “fiscal year” for “calendar year” in par. (1).
+<b>2002</b>—Subsec. (c). Pub. L. 107–228 substituted "January 31" for "March 31" in introductory provisions and "fiscal year" for "calendar year" in par. (1).
 
 <b>1999</b>—Subsec. (c). Pub. L. 106–113 added subsec. (c).
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–236 substituted “institution” for “Institute”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–236 substituted "institution" for "Institute".
 
 #### Change of Name
 

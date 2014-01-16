@@ -24,7 +24,7 @@ Beginning with fiscal year 2013 and ending after fiscal year 2017, not later tha
 
 #### (2) Additional information
 
-&emsp;As part of the performance report described in paragraph (1), the Secretary shall include an explanation of how the Food and Drug Administration is managing the biological product review program to ensure that the user fees collected under subpart 2 <sup>1</sup> are not used toreview an application under section 262(k) of title 42.
+&emsp;As part of the performance report described in paragraph (1), the Secretary shall include an explanation of how the Food and Drug Administration is managing the biological product review program to ensure that the user fees collected under subpart 2 <sup>1</sup> are not used to review an application under section 262(k) of title 42.
 
 (June 25, 1938, ch. 675, §715, as added and amended Pub. L. 112–144, title III, §308, title IV, §408, July 9, 2012, 126 Stat. 1025, 1039.)
 

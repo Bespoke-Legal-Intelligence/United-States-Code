@@ -48,5 +48,5 @@ Jan. 3, 1975, Pub. L. 93–633, §110(b), 88 Stat. 2161; restated Nov. 16, 1990,
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–59 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “A person knowingly violating section 5104(b) of this title or willfully violating this chapter or a regulation prescribed or order issued under this chapter shall be fined under title 18, imprisoned for not more than 5 years, or both.”
+<b>2005</b>—Pub. L. 109–59 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: "A person knowingly violating section 5104(b) of this title or willfully violating this chapter or a regulation prescribed or order issued under this chapter shall be fined under title 18, imprisoned for not more than 5 years, or both."
 

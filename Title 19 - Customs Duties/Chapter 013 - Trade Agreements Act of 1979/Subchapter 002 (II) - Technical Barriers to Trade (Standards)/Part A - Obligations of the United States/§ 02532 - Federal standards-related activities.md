@@ -62,9 +62,9 @@ Section 2571(6)(A) of this title, referred to in par. (2)(B)(ii), was amended ge
 
 #### Amendments
 
-<b>1996</b>—Par. (4). Pub. L. 104–295 inserted comma after “system, if any”.
+<b>1996</b>—Par. (4). Pub. L. 104–295 inserted comma after "system, if any".
 
-<b>1994</b>—Par. (4). Pub. L. 103–465 substituted “Access” for “Certification access” in heading, and, in text, substituted “conformity assessment procedure” for “certification system” and “an assessment of conformity and the mark of the system, if any” for “certification under that system”.
+<b>1994</b>—Par. (4). Pub. L. 103–465 substituted "Access" for "Certification access" in heading, and, in text, substituted "conformity assessment procedure" for "certification system" and "an assessment of conformity and the mark of the system, if any" for "certification under that system".
 
 #### Effective Date of 1994 Amendment
 

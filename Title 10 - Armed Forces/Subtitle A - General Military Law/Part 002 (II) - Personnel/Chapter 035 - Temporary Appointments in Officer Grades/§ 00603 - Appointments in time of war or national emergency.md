@@ -22,23 +22,23 @@
 
 &emsp;(3) The date the person appointed is released from active duty.
 
-(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2850; amended Pub. L. 101–189, div. A,title VI, §653(a)(2), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–190, div. A, title XI, §1113(b), (d)(1)(A), Dec. 5, 1991, 105 Stat. 1502.)
+(Added Pub. L. 96–513, title I, §105, Dec. 12, 1980, 94 Stat. 2850; amended Pub. L. 101–189, div. A, title VI, §653(a)(2), Nov. 29, 1989, 103 Stat. 1462; Pub. L. 102–190, div. A, title XI, §1113(b), (d)(1)(A), Dec. 5, 1991, 105 Stat. 1502.)
 
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–190, §1113(d)(1)(A), substituted “Appointments in time of war or national emergency” for “Commissioned officer grades: time of war or national emergency” in section catchline.
+<b>1991</b>—Pub. L. 102–190, §1113(d)(1)(A), substituted "Appointments in time of war or national emergency" for "Commissioned officer grades: time of war or national emergency" in section catchline.
 
-Subsec. (a). Pub. L. 102–190, §1113(b), struck out “commissioned” before “officer grade in the Army” and “in warrant officer grades or” before “in grades above major general” and inserted before period at end “, except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned”.
+Subsec. (a). Pub. L. 102–190, §1113(b), struck out "commissioned" before "officer grade in the Army" and "in warrant officer grades or" before "in grades above major general" and inserted before period at end ", except that an appointment in the grade warrant officer, W–1, shall be made by warrant by the Secretary concerned".
 
-<b>1989</b>—Subsec. (f). Pub. L. 101–189 substituted “terminates on the earliest of the following:” for “terminates—” in introductory provisions, and made numerous amendments to style and punctuation. Prior to amendment, subsec. (f) read as follows: “Unless sooner terminated, an appointment under this section terminates—
+<b>1989</b>—Subsec. (f). Pub. L. 101–189 substituted "terminates on the earliest of the following:" for "terminates—" in introductory provisions, and made numerous amendments to style and punctuation. Prior to amendment, subsec. (f) read as follows: "Unless sooner terminated, an appointment under this section terminates—
 
-&emsp;“(1) on the second anniversary of the appointment;
+&emsp;"(1) on the second anniversary of the appointment;
 
-&emsp;“(2) at the end of the six-month period beginning on the last day of the war or national emergency during which the appointment was made; or
+&emsp;"(2) at the end of the six-month period beginning on the last day of the war or national emergency during which the appointment was made; or
 
-&emsp;“(3) on the date the person appointed is released from active duty;
+&emsp;"(3) on the date the person appointed is released from active duty;
 
-> whichever is earliest.”
+> whichever is earliest."
 
 #### Effective Date of 1991 Amendment
 

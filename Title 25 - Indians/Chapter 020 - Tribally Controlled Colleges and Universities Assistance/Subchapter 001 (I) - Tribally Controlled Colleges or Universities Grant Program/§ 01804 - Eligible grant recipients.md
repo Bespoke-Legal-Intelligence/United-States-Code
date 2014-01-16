@@ -18,7 +18,7 @@ To be eligible for assistance under this subchapter, a tribally controlled colle
 
 <b>2008</b>—Par. (4). Pub. L. 110–315 added par. (4).
 
-<b>1998</b>—Pub. L. 105–244 substituted “college or university” for “community college” in introductory provisions.
+<b>1998</b>—Pub. L. 105–244 substituted "college or university" for "community college" in introductory provisions.
 
 #### Effective Date of 1998 Amendment
 

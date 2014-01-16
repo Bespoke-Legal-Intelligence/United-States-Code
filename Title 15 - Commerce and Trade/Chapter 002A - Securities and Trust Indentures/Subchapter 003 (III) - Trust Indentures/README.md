@@ -16,7 +16,7 @@
 - [&sect; 00077iii - Effective time of qualification](%C2%A7%2000077iii%20-%20Effective%20time%20of%20qualification.md)
 - [&sect; 00077jjj - Eligibility and disqualification of trustee](%C2%A7%2000077jjj%20-%20Eligibility%20and%20disqualification%20of%20trustee.md)
 - [&sect; 00077kkk - Preferential collection of claims against obligor](%C2%A7%2000077kkk%20-%20Preferential%20collection%20of%20claims%20against%20obligor.md)
-- [&sect; 00077lll - Bondholders&#8217; lists](%C2%A7%2000077lll%20-%20Bondholders%E2%80%99%20lists.md)
+- [&sect; 00077lll - Bondholders' lists](%C2%A7%2000077lll%20-%20Bondholders%27%20lists.md)
 - [&sect; 00077mmm - Reports by indenture trustee](%C2%A7%2000077mmm%20-%20Reports%20by%20indenture%20trustee.md)
 - [&sect; 00077nnn - Reports by obligor; evidence of compliance with indenture provisions](%C2%A7%2000077nnn%20-%20Reports%20by%20obligor%3B%20evidence%20of%20compliance%20with%20indenture%20provisions.md)
 - [&sect; 00077ooo - Duties and responsibility of the trustee](%C2%A7%2000077ooo%20-%20Duties%20and%20responsibility%20of%20the%20trustee.md)

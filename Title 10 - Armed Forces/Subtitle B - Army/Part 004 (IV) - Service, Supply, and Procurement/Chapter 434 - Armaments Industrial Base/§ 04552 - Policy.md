@@ -24,5 +24,5 @@ It is the policy of the United States—
 
 #### Amendments
 
-<b>2006</b>—Pars. (1), (8). Pub. L. 109–163 inserted “, storage, maintenance, renovation, and demilitarization” after “manufacturing”.
+<b>2006</b>—Pars. (1), (8). Pub. L. 109–163 inserted ", storage, maintenance, renovation, and demilitarization" after "manufacturing".
 

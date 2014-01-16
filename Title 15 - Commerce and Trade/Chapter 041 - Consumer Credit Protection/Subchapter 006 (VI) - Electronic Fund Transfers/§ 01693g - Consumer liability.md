@@ -32,7 +32,7 @@ Except as provided in this section, a consumer incurs no liability from an unaut
 
 Section 1602(e) of this title, referred to in subsec. (c), was redesignated section 1602(f) of this title by Pub. L. 111–203, title X, §1100A(1)(A), July 21, 2010, 124 Stat. 2107.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “means”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "means".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

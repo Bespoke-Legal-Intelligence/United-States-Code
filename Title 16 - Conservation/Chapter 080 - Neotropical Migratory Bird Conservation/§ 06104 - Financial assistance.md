@@ -74,15 +74,15 @@ Each recipient of assistance for a project under this chapter shall submit to th
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c)(2). Pub. L. 109–363, §302(d), inserted “Canada,” after “United States,”.
+<b>2006</b>—Subsec. (c)(2). Pub. L. 109–363, §302(d), inserted "Canada," after "United States,".
 
 Subsec. (e)(2)(B). Pub. L. 109–363, §302(e), amended subpar. (B) generally. Prior to amendment, text read as follows:
 
-“(i)
+"(i)
 
 Projects in the united states.—The non-Federal share required to be paid for a project carried out in the United States shall be paid in cash.
 
-“(ii)
+"(ii)
 
-Projects in foreign countries.—The non-Federal share required to be paid for a project carried out in a foreign country may be paid in cash or in kind.”
+Projects in foreign countries.—The non-Federal share required to be paid for a project carried out in a foreign country may be paid in cash or in kind."
 

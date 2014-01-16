@@ -14,11 +14,11 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, subject to this subsection, make payments to the Secretary of the Interior to be distributed to tribes, tribal organizations (as defined under section 450b of title 25), or consortia of the above entities for the coordination of assistance in the provision of early intervention services by the States to infants and toddlers with disabilities and their families on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payment for any fiscal year shall be 1.25 percent of the aggregate of the amount available to all States under this subchapter for such fiscal year.
+&emsp;The Secretary shall, subject to this subsection, make payments to the Secretary of the Interior to be distributed to tribes, tribalorganizations (as defined under section 450b of title 25), or consortia of the above entities for the coordination of assistance in the provision of early intervention services by the States to infants and toddlers with disabilities and their families on reservations served by elementary schools and secondary schools for Indian children operated or funded by the Department of the Interior. The amount of such payment for any fiscal year shall be 1.25 percent of the aggregate of the amount available to all States under this subchapter for such fiscal year.
 
 #### (2) Allocation
 
-&emsp;For each fiscal year, the Secretary of the Interior shall distribute the entire payment received under paragraph (1) by providing to each tribe, tribal organization, or consortium an amount based on the number of infants andtoddlers residing on the reservation, as determined annually, divided by the total of such children served by all tribes, tribal organizations, or consortia.
+&emsp;For each fiscal year, the Secretary of the Interior shall distribute the entire payment received under paragraph (1) by providing to each tribe, tribal organization, or consortium an amount based on the number of infants and toddlers residing on the reservation, as determined annually, divided by the total of such children served by all tribes, tribal organizations, or consortia.
 
 #### (3) Information
 
@@ -64,9 +64,9 @@
 
 &emsp;In this subsection—
 
-&emsp;&emsp;(A) the terms “infants” and “toddlers” mean children under 3 years of age; and
+&emsp;&emsp;(A) the terms "infants" and "toddlers" mean children under 3 years of age; and
 
-&emsp;&emsp;(B) the term “State” means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;&emsp;(B) the term "State" means each of the 50 States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 #### (d) Reallotment of funds
 
@@ -82,7 +82,7 @@ If a State elects not to receive its allotment under subsection (c), the Secreta
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraphs (2) and (3) of subsection (c), the Secretary shall provide a grant to each State under paragraph (1) in an amount that bears the same ratio to the amount reserved under such paragraph as the number of infants and toddlers in the State bears to the number of infants and toddlers in all States receiving grants under such paragraph.
+&emsp;&emsp;Notwithstanding paragraphs (2) and (3) of subsection (c), the Secretary shall provide agrant to each State under paragraph (1) in an amount that bears the same ratio to the amount reserved under such paragraph as the number of infants and toddlers in the State bears to the number of infants and toddlers in all States receiving grants under such paragraph.
 
 #### (B) Maximum amount
 

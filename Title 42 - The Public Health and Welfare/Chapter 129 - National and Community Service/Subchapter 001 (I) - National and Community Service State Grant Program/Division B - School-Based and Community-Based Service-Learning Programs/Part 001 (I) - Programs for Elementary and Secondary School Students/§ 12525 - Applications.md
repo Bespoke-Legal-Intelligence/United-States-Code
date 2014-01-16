@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(A) qualified organization, Indian tribe, territory, local educational agency, for-profit business, private elementary school or secondary school, or institution of higher education that desires to receive financial assistance under this subpart <sup>1</sup> from a State, territory, or Indian tribe for an activity described in section 12523(a)(1) of this title;
 
-&emsp;&emsp;(B) partnership described in section 12523(a)(2) of this title that desires to receive such assistance from a State, territory, orIndian tribe for an activity described in section 12523(a)(2) of this title;
+&emsp;&emsp;(B) partnership described in section 12523(a)(2) of this title that desires to receive such assistance from a State, territory, or Indian tribe for an activity described in section 12523(a)(2) of this title;
 
 &emsp;&emsp;(C) entity described in section 12523(a)(3) of this title that desires to receive such assistance from a State, territory, or Indian tribe for an activity described in such section;
 
@@ -64,7 +64,7 @@ Another prior section 12525, Pub. L. 101–610, title I, §115, Nov. 16, 1990, 1
 
 A prior section 113 of Pub. L. 101–610 was classified to section 12523 of this title prior to repeal by Pub. L. 103–82.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this part”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "this part".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

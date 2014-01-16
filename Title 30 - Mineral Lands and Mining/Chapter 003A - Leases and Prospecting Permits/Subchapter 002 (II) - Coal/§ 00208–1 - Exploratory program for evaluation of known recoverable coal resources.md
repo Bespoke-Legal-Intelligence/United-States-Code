@@ -2,7 +2,7 @@
 
 #### (a) Authorization; purpose
 
-The Secretary is authorized and directed to conduct a comprehensive exploratory program designed to obtain sufficient data and information to evaluate the extent, location, and potential for developing the known recoverable coal resources within the coal lands subject to this chapter. This program shall be designed to obtain the resource information necessary for determining whether commercial quantities ofcoal are present and the geographical extent of the coal fields and for estimating the amount of such coal which is recoverable by deep mining operations and the amount of such coal which is recoverable by surface mining operations in order to provide a basis for—
+The Secretary is authorized and directed to conduct a comprehensive exploratory program designed to obtain sufficient data and information to evaluate the extent, location, and potential for developing the known recoverable coal resources within the coal lands subject to this chapter. This program shall be designed to obtain the resource information necessary for determining whether commercial quantities of coal are present and the geographical extent of the coal fields and for estimating the amount of such coal which is recoverable by deep mining operations and the amount of such coal which is recoverable by surface mining operations in order to provide a basis for—
 
 &emsp;(1) developing a comprehensive land use plan pursuant to section 2;
 
@@ -36,7 +36,7 @@ The Secretary is directed to prepare, publish, and keep current a series of deta
 
 #### (g) Implementation plan for coal lands exploration program; development and transmittal to Congress; contents
 
-Within six months after the date of enactment of this Act, the Secretary shall develop and transmit to Congress an implementation plan for the coal lands exploration program authorized by this section, including procedures for making the data and information available to the public pursuant to subsection (d) of this section, and maps and reports pursuant to subsection (f) of this section. The implementation plan shall include a projected schedule of exploratory activities and identification of the regions and areas which will be explored under the coal lands exploration program during the first five years following the enactment of this section. In addition, the implementation plan shall include estimates of the appropriations and staffing required to implement the coal lands exploration program.
+Within six months after the date of enactment of this Act, the Secretary shall develop andtransmit to Congress an implementation plan for the coal lands exploration program authorized by this section, including procedures for making the data and information available to the public pursuant to subsection (d) of this section, and maps and reports pursuant to subsection (f) of this section. The implementation plan shall include a projected schedule of exploratory activities and identification of the regions and areas which will be explored under the coal lands exploration program during the first five years following the enactment of this section. In addition, the implementation plan shall include estimates of the appropriations and staffing required to implement the coal lands exploration program.
 
 #### (h) Stratigraphic drilling; scope; statement of results
 
@@ -46,7 +46,7 @@ The stratigraphic drilling authorized in subsection (b) of this section shall be
 
 #### References in Text
 
-Section 2, referred to in subsec. (a)(1), means section 2 of act Feb. 25, 1920, as amended, and is comprised ofsubsecs. (a) to (d). Subsecs. (a) and (b) of section 2 are classified to section 201 of this title, subsec. (c) of section 2 is classified to section 202 of this title, and subsec. (d) of section 2, as added by section 5(b) of Pub. L. 94–377, is classified to section 202a of this title.
+Section 2, referred to in subsec. (a)(1), means section 2 of act Feb. 25, 1920, as amended, and is comprised of subsecs. (a) to (d). Subsecs. (a) and (b) of section 2 are classified to section 201 of this title, subsec. (c) of section 2 is classified to section 202 of this title, and subsec. (d) of section 2, as added by section 5(b) of Pub. L. 94–377, is classified to section 202a of this title.
 
 The date of enactment of this Act, referred to in subsecs. (f) and (g), probably means the date of enactment of Pub. L. 94–377, which was approved Aug. 4, 1976.
 

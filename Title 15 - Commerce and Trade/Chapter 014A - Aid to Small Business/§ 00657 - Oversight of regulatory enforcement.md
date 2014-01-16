@@ -4,9 +4,9 @@
 
 For purposes of this section, the term—
 
-&emsp;(1) “Board” means a Regional Small Business Regulatory Fairness Board established under subsection (c) of this section; and
+&emsp;(1) "Board" means a Regional Small Business Regulatory Fairness Board established under subsection (c) of this section; and
 
-&emsp;(2) “Ombudsman” means the Small Business and Agriculture Regulatory Enforcement Ombudsman designated under subsection (b) of this section.
+&emsp;(2) "Ombudsman" means the Small Business and Agriculture Regulatory Enforcement Ombudsman designated under subsection (b) of this section.
 
 #### (b) SBA Enforcement Ombudsman
 

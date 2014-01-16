@@ -2,7 +2,7 @@
 
 (a)
 
-Definitions.—In this section, the terms “sailing school instructor”, “sailing school student”, and “sailing school vessel” have the meaning given those terms in section 2101 of this title.
+Definitions.—In this section, the terms "sailing school instructor", "sailing school student", and "sailing school vessel" have the meaning given those terms in section 2101 of this title.
 
 (b)
 
@@ -56,7 +56,7 @@ Pub. L. 97–322, title II, §206, Oct. 15, 1982, 96 Stat. 1590; Pub. L. 98–55
 
 46 App.:446a.
 
-In subsection (b)(1), the words “parts B, F, and G of subtitle II of this title” are substituted for “the provisions of titles 52 and 53 of the Revised Statutes of the United States and any Act amendatory thereof or supplementary thereto” because the relevant provisions of titles 52 and 53 of the Revised Statutes were previously codified in parts B, F, and G of subtitle II of title 46.
+In subsection (b)(1), the words "parts B, F, and G of subtitle II of this title" are substituted for "the provisions of titles 52 and 53 of the Revised Statutes of the United States and any Act amendatory thereof or supplementary thereto" because the relevant provisions of titles 52 and 53 of the Revised Statutes were previously codified in parts B, F, and G of subtitle II of title 46.
 
 In subsection (c), references to 46 App. U.S.C. 291 and 883 are omitted for consistency with section 50503 of the revised title.
 

@@ -10,7 +10,7 @@ The ITACG shall consist of—
 
 &emsp;(1) an ITACG Advisory Council to set policy and develop processes for the integration, analysis, and dissemination of federally-coordinated information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information; and
 
-&emsp;(2) an ITACG Detail comprised of State, local, and tribal homeland security and law enforcement officers and intelligence analysts detailed to work in the National Counterterrorism Center with Federal intelligence analysts for the purpose of integrating, analyzing, and assisting in the dissemination of federally-coordinated information within the scope of the information sharing environment,including homeland security information, terrorism information, and weapons of mass destruction information, through appropriate channels identified by the ITACG Advisory Council.
+&emsp;(2) an ITACG Detail comprised of State, local, and tribal homeland security and law enforcement officers and intelligence analysts detailed to work in the National Counterterrorism Center with Federal intelligence analysts for the purpose of integrating, analyzing, and assisting in the dissemination of federally-coordinated information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, through appropriate channels identified by the ITACG Advisory Council.
 
 #### (c) Responsibilities of program manager
 
@@ -102,11 +102,11 @@ The Secretary, in consultation with the Director of National Intelligence, the A
 
 #### (2) Management
 
-&emsp;Pursuant to section 404o(f)(E) <sup>1</sup> of title 50, the Director of the National Counterterrorism Center, acting through the senior intelligence official from the Department of Homeland Security detailed pursuant to subsection (d)(6), shall ensure that—
+&emsp;Pursuant to section 3056(f)(E) <sup>1</sup> of title 50, the Director of the National Counterterrorism Center, acting through the senior intelligence official from the Department of Homeland Security detailed pursuant to subsection (d)(6), shall ensure that—
 
 &emsp;&emsp;(A) the products derived from information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, prepared by the National Counterterrorism Center and the ITACG Detail for distribution to State, local, and tribal homeland security and law enforcement agencies reflect the requirements of such agencies and are produced consistently with the policies, processes, procedures, standards, and guidelines established by the ITACG Advisory Council;
 
-&emsp;&emsp;(B) in consultation with the ITACG Advisory Council and consistent with sections 403–1(f)(1)(B)(iii) and 404o(f)(E) <sup>1</sup> of title 50, all products described in subparagraph (A) are disseminated through existing channels of the Department and the Department of Justice and other appropriate channels to State, local, and tribal government officials and other entities;
+&emsp;&emsp;(B) in consultation with the ITACG Advisory Council and consistent with sections 3024(f)(1)(B)(iii) and 3056(f)(E) <sup>1</sup> of title 50, all products described in subparagraph (A) are disseminated through existing channels of the Department and the Department of Justice and other appropriate channels to State, local, and tribal government officials and other entities;
 
 &emsp;&emsp;(C) all detailees under subsection (d)(5) have appropriate access to all relevant information within the scope of the information sharing environment, including homeland security information, terrorism information, and weapons of mass destruction information, available at the National Counterterrorism Center in order to accomplish the objectives under that paragraph;
 
@@ -138,5 +138,5 @@ Subsec. (d)(5)(E), (F). Pub. L. 111–258, §5(b)(2)(A), added subpar. (E) and r
 
 Subsec. (d)(8), (9). Pub. L. 111–258, §5(b)(2)(B)–(D), added pars. (8) and (9).
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “404o(f)(1)(E)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section “3056(f)(1)(E)”.</i>
 

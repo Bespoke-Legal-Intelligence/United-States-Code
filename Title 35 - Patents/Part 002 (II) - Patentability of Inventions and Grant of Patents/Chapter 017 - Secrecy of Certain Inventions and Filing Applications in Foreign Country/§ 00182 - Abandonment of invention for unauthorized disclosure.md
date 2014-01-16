@@ -12,9 +12,9 @@ Language is changed.
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29 struck out “of this title” after “181”.
+<b>2011</b>—Pub. L. 112–29 struck out "of this title" after "181".
 
-<b>1999</b>—Pub. L. 106–113 substituted “Commissioner of Patents” for “Commissioner” wherever appearing.
+<b>1999</b>—Pub. L. 106–113 substituted "Commissioner of Patents" for "Commissioner" wherever appearing.
 
 #### Effective Date of 2011 Amendment
 

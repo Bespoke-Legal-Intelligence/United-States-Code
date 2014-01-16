@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “program” means a fishing capacity reduction program established under section 312 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1861a).
+Definition.—In this section, the term "program" means a fishing capacity reduction program established under section 312 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1861a).
 
 (b)
 
@@ -86,5 +86,5 @@ This section was derived from section 1111 of act June 29, 1936, as added by Pub
 
 <b>2008</b>—Pub. L. 110–181 repealed Pub. L. 109–163, §3507(a)(1)(H), (d). See 2006 Amendment note below and Codification note above.
 
-<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(H), which directed the amendment of section 1279f of the former Appendix to this title from which this section was derived by substituting “Secretary or Administrator” for “Secretary” wherever appearing, was repealed by Pub. L. 110–181, §3522(b). See Historical and Revision notes above.
+<b>2006</b>—Pub. L. 109–163, §3507(a)(1)(H), which directed the amendment of section 1279f of the former Appendix to this title from which this section was derived by substituting "Secretary or Administrator" for "Secretary" wherever appearing, was repealed by Pub. L. 110–181, §3522(b). See Historical and Revision notes above.
 

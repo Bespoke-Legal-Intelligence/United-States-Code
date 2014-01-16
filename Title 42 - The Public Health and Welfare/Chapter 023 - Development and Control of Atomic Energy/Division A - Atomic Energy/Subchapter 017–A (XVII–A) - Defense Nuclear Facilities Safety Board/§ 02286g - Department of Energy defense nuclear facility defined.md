@@ -1,0 +1,34 @@
+### §2286g. "Department of Energy defense nuclear facility" defined
+
+As used in this subchapter, the term "Department of Energy defense nuclear facility" means any of the following:
+
+&emsp;(1) A production facility or utilization facility (as defined in section 2014 of this title) that is under the control or jurisdiction of the Secretary of Energy and that is operated for national security purposes, but the term does not include—
+
+&emsp;&emsp;(A) any facility or activity covered by Executive Order No. 12344, dated February 1, 1982, pertaining to the Naval nuclear propulsion program;
+
+&emsp;&emsp;(B) any facility or activity involved with the transportation of nuclear explosives or nuclear material;
+
+&emsp;&emsp;(C) any facility that does not conduct atomic energy defense activities; or
+
+&emsp;&emsp;(D) any facility owned by the United States Enrichment Corporation.
+
+&emsp;(2) A nuclear waste storage facility under the control or jurisdiction of the Secretary of Energy, but the term does not include a facility developed pursuant to the Nuclear Waste Policy Act of 1982 (42 U.S.C. 10101 et seq.) and licensed by the Nuclear Regulatory Commission.
+
+(Aug. 1, 1946, ch. 724, title I, §318, as added Pub. L. 100–456, div. A, title XIV, §1441(a)(1), Sept. 29, 1988, 102 Stat. 2083; amended Pub. L. 102–190, div. C, title XXXII, §3202(b)(1), Dec. 5, 1991, 105 Stat. 1582; renumbered title I and amended Pub. L. 102–486, title IX, §902(a)(7), (8), Oct. 24, 1992, 106 Stat. 2944.)
+
+#### References in Text
+
+Executive Order No. 12344, referred to in par. (1)(A), is set out as a note under section 2511 of Title 50, War and National Defense.
+
+The Nuclear Waste Policy Act of 1982, referred to in par. (2), is Pub. L. 97–425, Jan. 7, 1983, 96 Stat. 2201, as amended, which is classified generally to chapter 108 (§10101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10101 of this title and Tables.
+
+#### Amendments
+
+<b>1992</b>—Par. (1)(D). Pub. L. 102–486, §902(a)(7), added subpar. (D).
+
+<b>1991</b>—Par. (1)(B). Pub. L. 102–190 struck out "with the assembly or testing of nuclear explosives or" after "involved".
+
+#### References to United States Enrichment Corporation
+
+References to the United States Enrichment Corporation deemed, as of the privatization date (July 28, 1998), to be references to the private corporation, see section 3116(e) of Pub. L. 104–134, set out as a note under former section 2297 of this title.
+

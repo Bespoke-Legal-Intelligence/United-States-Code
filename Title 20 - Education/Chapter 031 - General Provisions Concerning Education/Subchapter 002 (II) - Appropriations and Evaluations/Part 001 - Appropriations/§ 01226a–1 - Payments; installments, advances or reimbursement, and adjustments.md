@@ -16,5 +16,5 @@ Another prior section 423 of Pub. L. 90–247 was renumbered section 439, and is
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–382, §261(a), substituted “Secretary” for “Commissioner”.
+<b>1994</b>—Pub. L. 103–382, §261(a), substituted "Secretary" for "Commissioner".
 

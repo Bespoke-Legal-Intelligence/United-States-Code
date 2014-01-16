@@ -10,13 +10,13 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “excess parachute payment” means an amount equal to the excess of any parachute payment over the portion of the base amount allocated to such payment.
+&emsp;The term "excess parachute payment" means an amount equal to the excess of any parachute payment over the portion of the base amount allocated to such payment.
 
 #### (2) Parachute payment defined
 
 #### (A) In general
 
-&emsp;&emsp;The term “parachute payment” means any payment in the nature of compensation to (or for the benefit of) a disqualified individual if—
+&emsp;&emsp;The term "parachute payment" means any payment in the nature of compensation to (or for the benefit of) a disqualified individual if—
 
 &emsp;&emsp;&emsp;(i) such payment is contingent on a change—
 
@@ -30,7 +30,7 @@ For purposes of this section—
 
 #### (B) Agreements
 
-&emsp;&emsp;The term “parachute payment” shall also include any payment in the nature of compensation to (or for the benefit of) a disqualified individual if such payment is made pursuant to an agreement which violates any generally enforced securities laws or regulations. In any proceeding involving the issue of whether any payment made to a disqualified individual is a parachute payment on account of a violation of any generally enforced securities laws or regulations, the burden of proof with respect to establishing the occurrence of a violation of such a law or regulation shall be upon the Secretary.
+&emsp;&emsp;The term "parachute payment" shall also include any payment in the nature of compensation to (or for the benefit of) a disqualified individual if such payment is made pursuant to an agreement which violates any generally enforced securities laws or regulations. In any proceeding involving the issue of whether any payment made to a disqualified individual is a parachute payment on account of a violation of any generally enforced securities laws or regulations, the burden of proof with respect to establishing the occurrence of a violation of such a law or regulation shall be upon the Secretary.
 
 #### (C) Treatment of certain agreements entered into within 1 year before change of ownership
 
@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “base amount” means the individual's annualized includible compensation for the base period.
+&emsp;&emsp;The term "base amount" means the individual's annualized includible compensation for the base period.
 
 #### (B) Allocation
 
@@ -70,7 +70,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding paragraph (2), the term “parachute payment” does not include—
+&emsp;&emsp;Notwithstanding paragraph (2), the term "parachute payment" does not include—
 
 &emsp;&emsp;&emsp;(i) any payment to a disqualified individual with respect to a corporation which (immediately before the change described in paragraph (2)(A)(i)) was a small business corporation (as defined in section 1361(b) but without regard to paragraph (1)(C) thereof), and
 
@@ -94,7 +94,7 @@ For purposes of this section—
 
 #### (6) Exemption for payments under qualified plans
 
-&emsp;Notwithstanding paragraph (2), the term “parachute payment” shall not include any payment to or from—
+&emsp;Notwithstanding paragraph (2), the term "parachute payment" shall not include any payment to or from—
 
 &emsp;&emsp;(A) a plan described in section 401(a) which includes a trust exempt from tax under section 501(a),
 
@@ -106,13 +106,13 @@ For purposes of this section—
 
 #### (c) Disqualified individuals
 
-For purposes of this section, the term “disqualified individual” means any individual who is—
+For purposes of this section, the term "disqualified individual" means any individual who is—
 
 &emsp;(1) an employee, independent contractor, or other person specified in regulations by the Secretary who performs personal services for any corporation, and
 
 &emsp;(2) is an officer, shareholder, or highly-compensated individual.
 
-> For purposes of this section, a personal service corporation (or similar entity) shall be treated as an individual. For purposes of paragraph (2), the term “highly-compensated individual” only includes an individual who is (or would be if the individual were an employee) a member of the group consisting of the highest paid 1 percent of the employees of the corporation or, if less, the highest paid 250 employees of the corporation.
+> For purposes of this section, a personal service corporation (or similar entity) shall be treated as an individual. For purposes of paragraph (2), the term "highly-compensated individual" only includes an individual who is (or would be if the individual were an employee) a member of the group consisting of the highest paid 1 percent of the employees of the corporation or, if less, the highest paid 250 employees of the corporation.
 
 #### (d) Other definitions and special rules
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 #### (1) Annualized includible compensation for base period
 
-&emsp;The term “annualized includible compensation for the base period” means the average annual compensation which—
+&emsp;The term "annualized includible compensation for the base period" means the average annual compensation which—
 
 &emsp;&emsp;(A) was payable by the corporation with respect to which the change in ownership or control described in paragraph (2)(A) of subsection (b) occurs, and
 
@@ -128,7 +128,7 @@ For purposes of this section—
 
 #### (2) Base period
 
-&emsp;The term “base period” means the period consisting of the most recent 5 taxable years ending before the date on which the change in ownership or control described in paragraph (2)(A) of subsection (b) occurs (or such portion of such period during which the disqualified individual performed personal services for the corporation).
+&emsp;The term "base period" means the period consisting of the most recent 5 taxable years ending before the date on which the change in ownership or control described in paragraph (2)(A) of subsection (b) occurs (or such portion of such period during which the disqualified individual performed personal services for the corporation).
 
 #### (3) Property transfers
 
@@ -170,7 +170,7 @@ For purposes of this section—
 
 #### (B) Applicable severance from employment
 
-&emsp;&emsp;The term “applicable severance from employment” means any severance from employment of a covered executive—
+&emsp;&emsp;The term "applicable severance from employment" means any severance from employment of a covered executive—
 
 &emsp;&emsp;&emsp;(i) by reason of an involuntary termination of the executive by the employer, or
 
@@ -208,31 +208,31 @@ The Emergency Economic Stabilization Act of 2008, referred to in subsec. (e)(1),
 
 <b>1996</b>—Subsec. (b)(6)(D). Pub. L. 104–188 added subpar. (D).
 
-<b>1988</b>—Subsec. (b)(5)(A). Pub. L. 100–647, §1018(d)(6), substituted “section 1361(b) but without regard to paragraph (1)(C) thereof)” for “section 1361(b))” in cl. (i) and inserted at end “Stock described in section 1504(a)(4) shall not be taken into account under clause (ii)(I) if the payment does not adversely affect the shareholder's redemption and liquidation rights.”
+<b>1988</b>—Subsec. (b)(5)(A). Pub. L. 100–647, §1018(d)(6), substituted "section 1361(b) but without regard to paragraph (1)(C) thereof)" for "section 1361(b))" in cl. (i) and inserted at end "Stock described in section 1504(a)(4) shall not be taken into account under clause (ii)(I) if the payment does not adversely affect the shareholder's redemption and liquidation rights."
 
-Subsec. (b)(5)(B). Pub. L. 100–647, §1018(d)(7), inserted at end “The regulations prescribed under subsection (e) shall include regulations providing for the application of this subparagraph in the case of shareholders which are not individuals (including the treatment of nonvoting interests in an entity which is a shareholder) and where an entity holds a de minimis amount of stock in the corporation.”
+Subsec. (b)(5)(B). Pub. L. 100–647, §1018(d)(7), inserted at end "The regulations prescribed under subsection (e) shall include regulations providing for the application of this subparagraph in the case of shareholders which are not individuals (including the treatment of nonvoting interests in an entity which is a shareholder) and where an entity holds a de minimis amount of stock in the corporation."
 
-Subsec. (d)(5). Pub. L. 100–647, §1018(d)(8), substituted “officer of any member” for “officer or any member”.
+Subsec. (d)(5). Pub. L. 100–647, §1018(d)(8), substituted "officer of any member" for "officer or any member".
 
-<b>1986</b>—Subsec. (b)(2)(A). Pub. L. 99–514, §1804(j)(6), inserted “For purposes of clause (ii), payments not treated as parachute payments under paragraph (4)(A), (5), or (6) shall not be taken into account.”
+<b>1986</b>—Subsec. (b)(2)(A). Pub. L. 99–514, §1804(j)(6), inserted "For purposes of clause (ii), payments not treated as parachute payments under paragraph (4)(A), (5), or (6) shall not be taken into account."
 
-Subsec. (b)(2)(B). Pub. L. 99–514, §1804(j)(7), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘parachute payment’ shall also include any payment in the nature of compensation to (or for the benefit of) a disqualified individual if such payment is pursuant to an agreement which violates any securities laws or regulations.”
+Subsec. (b)(2)(B). Pub. L. 99–514, §1804(j)(7), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "The term 'parachute payment' shall also include any payment in the nature of compensation to (or for the benefit of) a disqualified individual if such payment is pursuant to an agreement which violates any securities laws or regulations."
 
-Subsec. (b)(4). Pub. L. 99–514, §1804(j)(2), substituted “Treatment of amounts which taxpayer establishes as reasonable compensation” for “Excess parachute payments reduced to extent taxpayer establishes reasonable compensation” in heading and amended text generally. Prior to amendment, text read as follows: “In the case of any parachute payment described in paragraph (2)(A), the amount of any excess parachute payment shall be reduced by the portion of such payment which the taxpayer establishes by clear and convincing evidence is reasonable compensation for personal services actually rendered. For purposes of the preceding sentence, reasonable compensation shall be first offset against the base amount.”
+Subsec. (b)(4). Pub. L. 99–514, §1804(j)(2), substituted "Treatment of amounts which taxpayer establishes as reasonable compensation" for "Excess parachute payments reduced to extent taxpayer establishes reasonable compensation" in heading and amended text generally. Prior to amendment, text read as follows: "In the case of any parachute payment described in paragraph (2)(A), the amount of any excess parachute payment shall be reduced by the portion of such payment which the taxpayer establishes by clear and convincing evidence is reasonable compensation for personal services actually rendered. For purposes of the preceding sentence, reasonable compensation shall be first offset against the base amount."
 
 Subsec. (b)(5). Pub. L. 99–514, §1804(j)(1), added par. (5).
 
 Subsec. (b)(6). Pub. L. 99–514, §1804(j)(3), added par. (6).
 
-Subsec. (c). Pub. L. 99–514, §1804(j)(5), inserted provision defining “highly-compensated individual”.
+Subsec. (c). Pub. L. 99–514, §1804(j)(5), inserted provision defining "highly-compensated individual".
 
-Subsec. (d)(2). Pub. L. 99–514, §1804(j)(8), substituted “performed personal services for the corporation” for “was an employee of the corporation”.
+Subsec. (d)(2). Pub. L. 99–514, §1804(j)(8), substituted "performed personal services for the corporation" for "was an employee of the corporation".
 
 Subsec. (d)(5). Pub. L. 99–514, §1804(j)(4), added par. (5).
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. A, title III, §302(c)(2), Oct. 3, 2008, 122 Stat. 3806, provided that: “The amendments made by subsection (b) \[amending this section\] shall apply to payments with respect to severances occurring during the period during which the authorities under section 101(a) of this Act \[enacting section 5211(a) of Title 12, Banks and Banking, and amending section 5315 of Title 5, Government Organization and Employees, and section 301 of Title 31, Money and Finance\] are in effect (determined under section 120 of this Act \[12 U.S.C. 5230\]).”
+Pub. L. 110–343, div. A, title III, §302(c)(2), Oct. 3, 2008, 122 Stat. 3806, provided that: "The amendments made by subsection (b) \[amending this section\] shall apply to payments with respect to severances occurring during the period during which the authorities under section 101(a) of this Act \[enacting section 5211(a) of Title 12, Banks and Banking, and amending section 5315 of Title 5, Government Organization and Employees, and section 301 of Title 31, Money and Finance\] are in effect (determined under section 120 of this Act \[12 U.S.C. 5230\])."
 
 #### Effective Date of 1996 Amendment
 
@@ -254,13 +254,13 @@ Amendment by Pub. L. 99–121 applicable to sales and exchanges after June 30, 1
 
 Pub. L. 98–369, div. A, title I, §67(e), July 18, 1984, 98 Stat. 587, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[enacting this section and section 4999 of this title and amending sections 275 and 3121 of this title\] shall apply to payments under agreements entered into or renewed after June 14, 1984, in taxable years ending after such date.
 
-“(2)
+"(2)
 
-Special rule for contract amendments.—Any contract entered into before June 15, 1984, which is amended after June 14, 1984, in any significant relevant aspect shall be treated as a contract entered into after June 14, 1984.”
+Special rule for contract amendments.—Any contract entered into before June 15, 1984, which is amended after June 14, 1984, in any significant relevant aspect shall be treated as a contract entered into after June 14, 1984."
 
 #### Plan Amendments Not Required Until January 1, 1998
 

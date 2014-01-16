@@ -10,7 +10,7 @@
 
 (B) A grant under subparagraph (A) may only be made to—
 
-&emsp;(i) a State or political subdivision of a State, including any city, town, county, borough,hospital district authority, or public or quasi-public corporation, for any medical facility owned or operated by the State or political subdivision; and
+&emsp;(i) a State or political subdivision of a State, including any city, town, county, borough, hospital district authority, or public or quasi-public corporation, for any medical facility owned or operated by the State or political subdivision; and
 
 &emsp;(ii) a nonprofit private entity for any medical facility owned or operated by the entity but only if the Secretary determines—
 
@@ -26,7 +26,7 @@
 
 (1) The Secretary may make grants to public and nonprofit private entities for projects for (A) construction or modernization of outpatient medical facilities which are located apart from hospitals and which will provide services for medically underserved populations, and (B) conversion of existing facilities into outpatient medical facilities or facilities for long-term care to provide services for such populations.
 
-(2) The amount of any grant under paragraph (1) may not exceed 80 per centum of the cost of the project for which the grant is made unless the project is located in an area determined by the Secretary to be an urban or rural poverty area, in which case the grant may cover up to 100 per centum of such costs.
+(2) The amount of any grant under paragraph (1) may not exceed 80 per centum of the cost of the project for which the grant is made unless the project is located in an area determined bythe Secretary to be an urban or rural poverty area, in which case the grant may cover up to 100 per centum of such costs.
 
 (3) There are authorized to be appropriated for grants under paragraph (1) $15,000,000 for the fiscal year ending September 30, 1981, and $15,000,000 for the fiscal year ending September 30, 1982.
 
@@ -38,7 +38,7 @@ A prior section 1610 of act July 1, 1944, ch. 373, title XVI, as added Jan. 4, 1
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–79, §201(c), incorporated existing provisions in par. (1); inserted in subpar. (A) in cls. (i) and (ii) the phrases “in medical facilities” and “by medical facilities”; substituted in subpar. (B)(i) “for any medical facility owned or operated by the State or political subdivision” for “for a project described in the preceding sentence for any medical facility owned or operated by it”; added cl. (a)(1)(B)(ii); redesignated former subsec. (c) as par. (2); and added par. (3).
+<b>1979</b>—Subsec. (a). Pub. L. 96–79, §201(c), incorporated existing provisions in par. (1); inserted in subpar. (A) in cls. (i) and (ii) the phrases "in medical facilities" and "by medical facilities"; substituted in subpar. (B)(i) "for any medical facility owned or operated by the State or political subdivision" for "for a project described in the preceding sentence for any medical facility owned or operated by it"; added cl. (a)(1)(B)(ii); redesignated former subsec. (c) as par. (2); and added par. (3).
 
 Subsec. (b). Pub. L. 96–79, §201(c), inserted provisions respecting projects for medically underserved populations and struck out provisions respecting criteria for approval of applications under former section 300o–3 of this title.
 

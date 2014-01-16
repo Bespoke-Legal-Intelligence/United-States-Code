@@ -14,7 +14,7 @@ The following items shall not be included in gross income and shall be exempt fr
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–514 inserted “, or any credit,” in pars. (1) and (2).
+<b>1986</b>—Pub. L. 99–514 inserted ", or any credit," in pars. (1) and (2).
 
 #### Effective Date of 1986 Amendment
 

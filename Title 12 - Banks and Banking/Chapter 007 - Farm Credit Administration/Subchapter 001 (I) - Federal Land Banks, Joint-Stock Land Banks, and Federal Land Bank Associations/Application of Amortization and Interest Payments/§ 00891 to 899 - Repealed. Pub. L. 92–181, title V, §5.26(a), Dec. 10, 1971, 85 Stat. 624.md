@@ -16,5 +16,5 @@ Section 897, acts July 17, 1916, ch. 245, title I, §22, 39 Stat. 378; Mar. 4, 1
 
 Section 898, act July 17, 1916, ch. 245, title I, §22, 39 Stat. 378, covered deposit of trust funds with registrars as substituted collateral security.
 
-Section 899, act July 17, 1916, ch. 245, title I, §22, 39 Stat. 378, covered notice to registrars of dispositions ofprincipal payments on mortgages held as collateral and transfer to registrar on demand.
+Section 899, act July 17, 1916, ch. 245, title I, §22, 39 Stat. 378, covered notice to registrars of dispositions of principal payments on mortgages held as collateral and transfer to registrar on demand.
 

@@ -46,7 +46,7 @@ The Secretary shall use the expertise and resources of the Agricultural Research
 
 #### References in Text
 
-For definition of “this chapter”, referred to in subsec. (a), see note set out under section 3102 of this title.
+For definition of "this chapter", referred to in subsec. (a), see note set out under section 3102 of this title.
 
 #### Codification
 
@@ -56,29 +56,29 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7136, substituted “2012” for “2007”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7136, substituted "2012" for "2007".
 
-Subsec. (d). Pub. L. 110–246, §7511(c)(13), substituted “the National Institute of Food and Agriculture” for “the Cooperative State Research Service, the Extension Service”.
+Subsec. (d). Pub. L. 110–246, §7511(c)(13), substituted "the National Institute of Food and Agriculture" for "the Cooperative State Research Service, the Extension Service".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171 substituted "2007" for "2002".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–185, §301(a)(14), substituted “2002” for “1997”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–185, §301(a)(14), substituted "2002" for "1997".
 
 Subsec. (c)(3). Pub. L. 105–185, §606(a), made technical amendment to directory language of Pub. L. 104–127, §819(b)(5). See 1996 Amendment note below.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–127, §819(a), (b)(1), substituted “1997” for “1995” and struck out “and pilot” after “research”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127, §819(a), (b)(1), substituted "1997" for "1995" and struck out "and pilot" after "research".
 
-Subsec. (c)(2)(B). Pub. L. 104–127, §819(b)(2), struck out “at pilot sites in areas adversely affected by declining demand for crops grown in the area” after “alternative crops”.
+Subsec. (c)(2)(B). Pub. L. 104–127, §819(b)(2), struck out "at pilot sites in areas adversely affected by declining demand for crops grown in the area" after "alternative crops".
 
-Subsec. (c)(2)(C). Pub. L. 104–127, §819(b)(3), struck out “from pilot sites” after “research”.
+Subsec. (c)(2)(C). Pub. L. 104–127, §819(b)(3), struck out "from pilot sites" after "research".
 
-Subsec. (c)(2)(D). Pub. L. 104–127, §819(b)(4), struck out “near such pilot sites” after “facilities” and “pilot” after “successful”.
+Subsec. (c)(2)(D). Pub. L. 104–127, §819(b)(4), struck out "near such pilot sites" after "facilities" and "pilot" after "successful".
 
-Subsec. (c)(3). Pub. L. 104–127, §819(b)(5), as amended by Pub. L. 105–185, §606(a), struck out “pilot” before “program” in introductory provisions.
+Subsec. (c)(3). Pub. L. 104–127, §819(b)(5), as amended by Pub. L. 105–185, §606(a), struck out "pilot" before "program" in introductory provisions.
 
 Subsec. (c)(3)(E), (F). Pub. L. 104–127, §819(c), added subpars. (E) and (F).
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted “1995” for “1990”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted "1995" for "1990".
 
 #### Effective Date of 2008 Amendment
 

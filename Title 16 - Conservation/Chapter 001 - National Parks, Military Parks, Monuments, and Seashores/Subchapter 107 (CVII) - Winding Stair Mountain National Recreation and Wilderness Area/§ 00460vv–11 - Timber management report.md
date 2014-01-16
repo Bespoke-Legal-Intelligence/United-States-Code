@@ -6,5 +6,5 @@ The Secretary of Agriculture shall submit to the Committee on Natural Resources 
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+<b>1994</b>—Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 

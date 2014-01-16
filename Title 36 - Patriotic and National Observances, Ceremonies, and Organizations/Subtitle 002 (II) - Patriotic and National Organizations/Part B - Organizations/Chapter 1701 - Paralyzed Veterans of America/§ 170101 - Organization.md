@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Paralyzed Veterans of America (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—Paralyzed Veterans of America (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 
@@ -40,5 +40,5 @@ Aug. 11, 1971, Pub. L. 92–93, §§1, 2, 4 (related to perpetual succession), 8
 
 Subsection (a) is substituted for the source provisions for consistency in the revised title and to eliminate executed and unnecessary language.
 
-Subsection (b) is substituted for “shall have perpetual succession” for consistency in the revised title.
+Subsection (b) is substituted for "shall have perpetual succession" for consistency in the revised title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Definition of multistate and local development district or organization
 
-In this section, the term “multistate and local development district or organization” means an entity—
+In this section, the term "multistate and local development district or organization" means an entity—
 
 &emsp;(1) that—
 
@@ -70,7 +70,7 @@ Northern Great Plains Inc., a nonprofit corporation incorporated in the State of
 
 &emsp;(4) may carry out other activities on its own behalf or on behalf of other entities.
 
-(Pub. L. 87–128, title III, §383F, formerly §383E, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 382; renumbered §383F and amended Pub. L. 110–234, title VI, §6026(c)(1)(A), (f), May 22, 2008, 122 Stat. 1178, 1180, and Pub. L.110–246, §4(a), title VI, §6026(c)(1)(A), (f), June 18, 2008, 122 Stat. 1664, 1940, 1941.)
+(Pub. L. 87–128, title III, §383F, formerly §383E, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 382; renumbered §383F and amended Pub. L. 110–234, title VI, §6026(c)(1)(A), (f), May 22, 2008, 122 Stat. 1178, 1180, and Pub. L. 110–246, §4(a), title VI, §6026(c)(1)(A), (f), June 18, 2008, 122 Stat. 1664, 1940, 1941.)
 
 #### Codification
 
@@ -82,7 +82,7 @@ A prior section 383F of Pub. L. 87–128, title III, was renumbered section 383G
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §6026(f)(1), substituted “Multistate and local” for “Local” in section catchline.
+<b>2008</b>—Pub. L. 110–246, §6026(f)(1), substituted "Multistate and local" for "Local" in section catchline.
 
 Subsecs. (a) to (c). Pub. L. 110–246, §6026(f)(2), added subsecs. (a) to (c) and struck out former subsecs. (a) to (c) which related to definition of local development district, grants to local development districts, and duties of local development districts, respectively.
 

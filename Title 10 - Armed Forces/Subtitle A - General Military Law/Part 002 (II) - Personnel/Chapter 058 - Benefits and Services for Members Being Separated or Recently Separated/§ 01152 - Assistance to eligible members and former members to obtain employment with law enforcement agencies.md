@@ -28,7 +28,7 @@ Grants To Facilitate Employment.—(1) The Secretary of Defense, and the Secreta
 
 (e)
 
-Administrative Expenses.—Ten percent of the amount, if any, appropriated for a fiscal year to carry out the program established pursuant to subsection (a) may be used to administer the program.
+Administrative Expenses.—Ten percent of the amount, if any, appropriated for a fiscalyear to carry out the program established pursuant to subsection (a) may be used to administer the program.
 
 (f)
 
@@ -46,17 +46,17 @@ Authority To Expand Placement To Include Firefighters.—(1) The Secretary may e
 
 #### Amendments
 
-<b>2002</b>—Subsecs. (a), (d)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsecs. (a), (d)(1). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
-<b>1997</b>—Subsec. (g). Pub. L. 105–85 inserted “(1)” before “The Secretary may”.
+<b>1997</b>—Subsec. (g). Pub. L. 105–85 inserted "(1)" before "The Secretary may".
 
-<b>1996</b>—Subsec. (g). Pub. L. 104–201, in heading, substituted “Authority To Expand Placement To Include Firefighters” for “Conditional Expansion of Placement to Include Firefighters”, in par. (1), substituted “The Secretary may” for “(1) Subject to paragraph (2), the Secretary may”, and in par. (2), struck out “The Secretary may implement the expansion authorized by this subsection only if the Secretary certifies to Congress not later than April 3, 1994, that such expansion will facilitate personnel transition programs of the Department of Defense.” after “(2)” and inserted “authorized by this subsection” after “The expansion”.
+<b>1996</b>—Subsec. (g). Pub. L. 104–201, in heading, substituted "Authority To Expand Placement To Include Firefighters" for "Conditional Expansion of Placement to Include Firefighters", in par. (1), substituted "The Secretary may" for "(1) Subject to paragraph (2), the Secretary may", and in par. (2), struck out "The Secretary may implement the expansion authorized by this subsection only if the Secretary certifies to Congress not later than April 3, 1994, that such expansion will facilitate personnel transition programs of the Department of Defense." after "(2)" and inserted "authorized by this subsection" after "The expansion".
 
-Subsec. (g)(2). Pub. L. 104–106 substituted “not later than April 3, 1994,” for “not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995”.
+Subsec. (g)(2). Pub. L. 104–106 substituted "not later than April 3, 1994," for "not later than 180 days after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1995".
 
-<b>1994</b>—Pub. L. 103–337, §543(d), inserted “, and the Secretary of Transportation with respect to the Coast Guard,” after “Secretary of Defense” in subsecs. (a) and (d).
+<b>1994</b>—Pub. L. 103–337, §543(d), inserted ", and the Secretary of Transportation with respect to the Coast Guard," after "Secretary of Defense" in subsecs. (a) and (d).
 
-Pub. L. 103–337, §1132(a)(1), substituted “eligible members and former members” for “separated members” in section catchline and amended text generally, substituting subsecs. (a) to (g) for former subsecs. (a) to (f).
+Pub. L. 103–337, §1132(a)(1), substituted "eligible members and former members" for "separated members" in section catchline and amended text generally, substituting subsecs. (a) to (g) for former subsecs. (a) to (f).
 
 #### Effective Date of 2002 Amendment
 

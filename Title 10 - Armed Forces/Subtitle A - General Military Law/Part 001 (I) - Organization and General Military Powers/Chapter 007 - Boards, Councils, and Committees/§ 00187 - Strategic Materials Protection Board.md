@@ -28,7 +28,7 @@ Duties.—In addition to other matters assigned to it by the Secretary of Defens
 
 &emsp;(4) recommend such other strategies to the Secretary as the Board considers appropriate to strengthen the industrial base with respect to materials critical to national security; and
 
-&emsp;(5) publish not less frequently than once every two years in the Federal Register recommendations regarding materials critical to national security, including a list of specialty metals, if any, recommended for addition to, or removal from, the definition of “specialty metal” for purposes of section 2533b of this title.
+&emsp;(5) publish not less frequently than once every two years in the Federal Register recommendations regarding materials critical to national security, including a list of specialty metals, if any, recommended for addition to, or removal from, the definition of "specialty metal" for purposes of section 2533b of this title.
 
 (c)
 
@@ -44,27 +44,27 @@ Reports.—(1) Subject to paragraph (2), after each meeting of the Board, the Bo
 
 Definitions.—In this section:
 
-&emsp;(1) The term “materials critical to national security” means materials—
+&emsp;(1) The term "materials critical to national security" means materials—
 
 &emsp;&emsp;(A) upon which the production or sustainment of military equipment is dependent; and
 
 &emsp;&emsp;(B) the supply of which could be restricted by actions or events outside the control of the Government of the United States.
 
-&emsp;(2) The term “military equipment” means equipment used directly by the armed forces to carry out military operations.
+&emsp;(2) The term "military equipment" means equipment used directly by the armed forces to carry out military operations.
 
-&emsp;(3) The term “secure supply”, with respect to a material, means the availability of a source or sources for the material, including the full supply chain for the material and components containing the material.
+&emsp;(3) The term "secure supply", with respect to a material, means the availability of a source or sources for the material, including the full supply chain for the material and components containing the material.
 
-(Added Pub. L. 109–364, div. A, title VIII, §843(a), Oct. 17, 2006, 120 Stat. 2338; amended Pub. L. 111–383, div. A, title VIII, §829, Jan. 7, 2011, 124Stat. 4272; Pub. L. 112–239, div. A, title IX, §901(c), Jan. 2, 2013, 126 Stat. 1864.)
+(Added Pub. L. 109–364, div. A, title VIII, §843(a), Oct. 17, 2006, 120 Stat. 2338; amended Pub. L. 111–383, div. A, title VIII, §829, Jan. 7, 2011, 124 Stat. 4272; Pub. L. 112–239, div. A, title IX, §901(c), Jan. 2, 2013, 126 Stat. 1864.)
 
 #### Amendments
 
 <b>2013</b>—Subsec. (a)(2). Pub. L. 112–239, §901(c)(1), amended par. (2) generally. Prior to amendment, par. (2) related to composition of the Strategic Materials Protection Board.
 
-Subsec. (b)(3), (4). Pub. L. 112–239, §901(c)(2), substituted “Secretary” for “President”.
+Subsec. (b)(3), (4). Pub. L. 112–239, §901(c)(2), substituted "Secretary" for "President".
 
-Subsec. (c). Pub. L. 112–239, §901(c)(3), substituted “Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy” for “Secretary of Defense”.
+Subsec. (c). Pub. L. 112–239, §901(c)(3), substituted "Deputy Assistant Secretary of Defense for Manufacturing and Industrial Base Policy" for "Secretary of Defense".
 
-Subsec. (d). Pub. L. 112–239, §901(c)(4), amended subsec. (d) generally. Prior to amendment, text read as follows: “After each meeting of the Board, the Board shall prepare and submit to Congress a report containing the results of the meeting and such recommendations as the Board determines appropriate.”
+Subsec. (d). Pub. L. 112–239, §901(c)(4), amended subsec. (d) generally. Prior to amendment, text read as follows: "After each meeting of the Board, the Board shall prepare and submit to Congress a report containing the results of the meeting and such recommendations as the Board determines appropriate."
 
 <b>2011</b>—Subsec. (b). Pub. L. 111–383, §829(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to duties of the Strategic Materials Protection Board.
 
@@ -72,5 +72,5 @@ Subsec. (e). Pub. L. 111–383, §829(a), added subsec. (e).
 
 #### First Meeting of Board
 
-Pub. L. 109–364, div. A, title VIII, §843(c), Oct. 17, 2006, 120 Stat. 2339, provided that: “The first meeting of the Strategic Materials Protection Board, established by section 187 of title 10, United States Code (as added by subsection (a)) shall be not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2006\].”
+Pub. L. 109–364, div. A, title VIII, §843(c), Oct. 17, 2006, 120 Stat. 2339, provided that: "The first meeting of theStrategic Materials Protection Board, established by section 187 of title 10, United States Code (as added by subsection (a)) shall be not later than 180 days after the date of the enactment of this Act \[Oct. 17, 2006\]."
 

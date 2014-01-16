@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the extent of amounts made available in appropriations Acts, a grantmade for purposes of this paragraph to an eligible area shall be made in an amount equal to the product of—
+&emsp;&emsp;Subject to the extent of amounts made available in appropriations Acts, a grant made for purposes of this paragraph to an eligible area shall be made in an amount equal to the product of—
 
 &emsp;&emsp;&emsp;(i) an amount equal to the amount available for distribution under paragraph (2) for the fiscal year involved; and
 
@@ -24,7 +24,7 @@
 
 #### (B) Distribution factor
 
-&emsp;&emsp;For purposes of subparagraph (A)(ii), the term “distribution factor” means an amount equal to the living cases of HIV/AIDS (reported to and confirmed by the Director of the Centers for Disease Control and Prevention) in the eligible area involved, as determined under subparagraph (C).
+&emsp;&emsp;For purposes of subparagraph (A)(ii), the term "distribution factor" means an amount equal to the living cases of HIV/AIDS (reported to and confirmed by the Director of the Centers for Disease Control and Prevention) in the eligible area involved, as determined under subparagraph (C).
 
 #### (C) Living cases of HIV/AIDS
 
@@ -62,7 +62,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;With respect to an eligible area that is under a reporting system for living non-AIDS cases of HIV that is not names-based (referred to in this subparagraph as “code-based reporting”), the Secretary shall, for purposes of this subparagraph, modify the number of such cases reported for the eligible area in order to adjust for duplicative reporting in and among systems that use code-based reporting.
+&emsp;&emsp;&emsp;&emsp;With respect to an eligible area that is under a reporting system for living non-AIDS cases of HIV that is not names-based (referred to in this subparagraph as "code-based reporting"), the Secretary shall, for purposes of this subparagraph, modify the number of such cases reported for the eligible area in order to adjust for duplicative reporting in and among systems that use code-based reporting.
 
 #### (II) Adjustment rate
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) fiscal year 2007 was the first year in which the count of living non-AIDS cases of HIV in such area, for purposes of this section, was based on a names-based reporting system; and
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the amount of funding that such area received under this part for fiscalyear 2007 was less than 70 percent of the amount of funding (exclusive of funds that were identified as being for purposes of the Minority AIDS Initiative) that such area received under such part for fiscal year 2006.
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the amount of funding that such area received under this part for fiscal year 2007 was less than 70 percent of the amount of funding (exclusive of funds that were identified as being for purposes of the Minority AIDS Initiative) that such area received under such part for fiscal year 2006.
 
 #### (vii) Multiple political jurisdictions
 
@@ -120,7 +120,7 @@
 
 &emsp;&emsp;&emsp;For each of the fiscal years 2007 through 2012, if code-based reporting (within the meaning of subparagraph (C)(vi)) applies in an eligible area or any portion thereof as of the beginning of the fiscal year involved, then notwithstanding any other provision of this paragraph, the amount of the grant pursuant to this paragraph for such area for such fiscal year may not—
 
-&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2007, exceed by more than 5 percent the amount of the grant for the area that would have been made pursuant to this paragraph and paragraph (4) for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) had been applied by substituting “662/3 percent” for “50 percent”; and
+&emsp;&emsp;&emsp;&emsp;(I) for fiscal year 2007, exceed by more than 5 percent the amount of the grant for the area that would have been made pursuant to this paragraph and paragraph (4) for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) had been applied by substituting "662/3 percent" for "50 percent"; and
 
 &emsp;&emsp;&emsp;&emsp;(II) for each of the fiscal years 2008 through 2012, exceed by more than 5 percent the amount of the grant pursuant to this paragraph and paragraph (4) for the area for the preceding fiscal year.
 
@@ -158,7 +158,7 @@
 
 #### (1) In general
 
-&emsp;Subject to subsection (a)(4)(B)(i) and section 300ff–20(d) of this title, the Secretary shall disburse the remainder of amounts not disbursed under subsection (a)(2) of this section for such fiscal year for the purpose of making grants under section 300ff–11(a) of this title to eligible areas whose application under section 300ff–15(b) of this title—
+&emsp;Subject to subsection (a)(4)(B)(i) and section 300ff–20(d) of this title, the Secretary shall disburse the remainder of amounts not disbursed under subsection (a)(2) of this section for such fiscal year for the purpose of making grants under section 300ff–11(a) of this title to eligibleareas whose application under section 300ff–15(b) of this title—
 
 &emsp;&emsp;(A) contains a report concerning the dissemination of emergency relief funds under subsection (a) of this section and the plan for utilization of such funds;
 
@@ -244,7 +244,7 @@
 
 #### (1) Obligation by end of grant year
 
-&emsp;Effective for fiscal year 2007 and subsequent fiscal years, funds from a grant award made pursuant to subsection (a) or (b) for a fiscal year are available for obligation by the eligible area involved through the end of the one-year period beginning on the date in such fiscal year on which funds from the award first become available to the area (referred to in this subsection as the “grant year for the award”), except as provided in paragraph (3)(A).
+&emsp;Effective for fiscal year 2007 and subsequent fiscal years, funds from a grant award made pursuant to subsection (a) or (b) for a fiscal year are available for obligation by the eligible area involved through the end of the one-year period beginning on the date in such fiscal year on which funds from the award first become available to the area (referred to in this subsection as the "grant year for the award"), except as provided in paragraph (3)(A).
 
 #### (2) Supplemental grants; cancellation of unobligated balance of grant award
 
@@ -268,9 +268,9 @@
 
 &emsp;&emsp;With respect to a waiver under subparagraph (A) that is approved for a balance that is unobligated as of the end of a grant year for an award:
 
-&emsp;&emsp;&emsp;(i) The unobligated funds are available for expenditure by the eligible area involved for the one-year period beginning upon the expiration of the grant year (referred to in this subsection as the “carryover year”).
+&emsp;&emsp;&emsp;(i) The unobligated funds are available for expenditure by the eligible area involved for the one-year period beginning upon the expiration of the grant year (referred to in this subsection as the "carryover year").
 
-&emsp;&emsp;&emsp;(ii) If the funds are not expended by the end of the carryover year, the Secretary shall cancel that unexpended balance of the award, and shall require the eligiblearea to return any amounts from such balance that have been disbursed to the area.
+&emsp;&emsp;&emsp;(ii) If the funds are not expended by the end of the carryover year, the Secretary shall cancel that unexpended balance of the award, and shall require the eligible area to return any amounts from such balance that have been disbursed to the area.
 
 #### (C) Use of cancelled balances
 
@@ -328,75 +328,75 @@ A prior section 2603 of act July 1, 1944, was successively renumbered by subsequ
 
 <b>2009</b>—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009; Revival of Section note below.
 
-Subsec. (a)(3)(C)(ii). Pub. L. 111–87, §3(a)(1)(A)(i), substituted “2012” for “2009” in introductory provisions.
+Subsec. (a)(3)(C)(ii). Pub. L. 111–87, §3(a)(1)(A)(i), substituted "2012" for "2009" in introductory provisions.
 
-Subsec. (a)(3)(C)(ii)(II). Pub. L. 111–87, §3(a)(1)(A)(ii), substituted “or a subsequent fiscal year through fiscal year 2012” for “or 2009”.
+Subsec. (a)(3)(C)(ii)(II). Pub. L. 111–87, §3(a)(1)(A)(ii), substituted "or a subsequent fiscal year through fiscal year 2012" for "or 2009".
 
-Subsec. (a)(3)(C)(iv). Pub. L. 111–87, §3(a)(1)(B), substituted “2012” for “2010”.
+Subsec. (a)(3)(C)(iv). Pub. L. 111–87, §3(a)(1)(B), substituted "2012" for "2010".
 
-Subsec. (a)(3)(C)(v). Pub. L. 111–87, §3(a)(1)(C), inserted “or a subsequent fiscal year” after “2009”.
+Subsec. (a)(3)(C)(v). Pub. L. 111–87, §3(a)(1)(C), inserted "or a subsequent fiscal year" after "2009".
 
-Subsec. (a)(3)(C)(vi)(II). Pub. L. 111–87, §3(a)(1)(D), inserted “for fiscal years before fiscal year 2012 (and 6 percent for fiscal year 2012)” after “5 percent”.
+Subsec. (a)(3)(C)(vi)(II). Pub. L. 111–87, §3(a)(1)(D), inserted "for fiscal years before fiscal year 2012 (and 6 percent for fiscal year 2012)" after "5 percent".
 
 Subsec. (a)(3)(C)(vi)(III). Pub. L. 111–87, §7(a)(1), added subcl. (III).
 
-Subsec. (a)(3)(C)(ix)(II). Pub. L. 111–87, §3(a)(1)(E), substituted “2013” for “2010” and “2012” for “2009”.
+Subsec. (a)(3)(C)(ix)(II). Pub. L. 111–87, §3(a)(1)(E), substituted "2013" for "2010" and "2012" for "2009".
 
 Subsec. (a)(3)(C)(xi). Pub. L. 111–87, §3(a)(1)(F), added cl. (xi).
 
-Subsec. (a)(3)(D)(i). Pub. L. 111–87, §3(a)(2)(A)(i), substituted “2012” for “2009” in introductory provisions.
+Subsec. (a)(3)(D)(i). Pub. L. 111–87, §3(a)(2)(A)(i), substituted "2012" for "2009" in introductory provisions.
 
-Subsec. (a)(3)(D)(i)(II). Pub. L. 111–87, §3(a)(2)(A)(ii), substituted “through 2012” for “and 2009”.
+Subsec. (a)(3)(D)(i)(II). Pub. L. 111–87, §3(a)(2)(A)(ii), substituted "through 2012" for "and 2009".
 
-Subsec. (a)(3)(D)(ii). Pub. L. 111–87, §3(a)(2)(B), substituted “2012” for “2009”.
+Subsec. (a)(3)(D)(ii). Pub. L. 111–87, §3(a)(2)(B), substituted "2012" for "2009".
 
-Subsec. (a)(4)(A). Pub. L. 111–87, §5(a)(1), (2), substituted “2009” for “2006” and “2010 through 2013” for “2007 through 2009” in introductory provisions, added cls. (i) to (iii), and struck out former cls. (i) and (ii) which read as follows:
+Subsec. (a)(4)(A). Pub. L. 111–87, §5(a)(1), (2), substituted "2009" for "2006" and "2010 through 2013" for "2007 through 2009" in introductory provisions, added cls. (i) to (iii), and struck out former cls. (i) and (ii) which read as follows:
 
-“(i) For fiscal year 2007, an amount equal to 95 percent of the amount of the grant that would have been made pursuant to paragraph (3) and this paragraph for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) had been applied by substituting ‘662/3 percent’ for ‘50 percent’.
+"(i) For fiscal year 2007, an amount equal to 95 percent of the amount of the grant that would have been made pursuant to paragraph (3) and this paragraph for fiscal year 2006 (as such paragraphs were in effect for such fiscal year) if paragraph (2) (as so in effect) had been applied by substituting '662/3 percent' for '50 percent'.
 
-“(ii) For each of the fiscal years 2008 and 2009, an amount equal to 100 percent of the amount of the grant made pursuant to paragraph (3) and this paragraph for fiscal year 2007.”
+"(ii) For each of the fiscal years 2008 and 2009, an amount equal to 100 percent of the amount of the grant made pursuant to paragraph (3) and this paragraph for fiscal year 2007."
 
-Subsec. (a)(4)(C). Pub. L. 111–87, §5(a)(3), substituted “2013” for “2009”.
+Subsec. (a)(4)(C). Pub. L. 111–87, §5(a)(3), substituted "2013" for "2009".
 
-Subsec. (b)(1)(H). Pub. L. 111–87, §8(a)(1), (b)(2)(C), substituted “5 percent” for “2 percent” and “canceled, offset under subsection (c)(4),” for “canceled”.
+Subsec. (b)(1)(H). Pub. L. 111–87, §8(a)(1), (b)(2)(C), substituted "5 percent" for "2 percent" and "canceled, offset under subsection (c)(4)," for "canceled".
 
 Subsec. (b)(1)(I). Pub. L. 111–87, §6(b)(1), added subpar. (I).
 
-Subsec. (b)(2)(A). Pub. L. 111–87, §6(b)(2), substituted “one-third, and demonstrated success in identifying individuals with HIV/AIDS who do not know their HIV status and making them aware of such status counting one-third. In making such determination, the Secretary shall consider—” for “one-third.” and added cls. (i) to (iii).
+Subsec. (b)(2)(A). Pub. L. 111–87, §6(b)(2), substituted "one-third, and demonstrated success in identifying individuals with HIV/AIDS who do not know their HIV status and making them aware of such status counting one-third. In making such determination, the Secretary shall consider—" for "one-third." and added cls. (i) to (iii).
 
 Subsec. (b)(2)(D). Pub. L. 111–87, §7(a)(2), added subpar. (D).
 
-Subsec. (c)(3)(D)(i). Pub. L. 111–87, §8(b)(1)(A), substituted “5 percent” for “2 percent” in concluding provisions.
+Subsec. (c)(3)(D)(i). Pub. L. 111–87, §8(b)(1)(A), substituted "5 percent" for "2 percent" in concluding provisions.
 
-Subsec. (c)(3)(D)(i)(I). Pub. L. 111–87, §8(c)(1), inserted “(less any amount of such balance that is the subject of a waiver of cancellation under subparagraph (A))” after “unobligated balance”.
+Subsec. (c)(3)(D)(i)(I). Pub. L. 111–87, §8(c)(1), inserted "(less any amount of such balance that is the subject of a waiver of cancellation under subparagraph (A))" after "unobligated balance".
 
 Subsec. (c)(4). Pub. L. 111–87, §8(b)(2)(A), added par. (4).
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
-Subsec. (a)(2). Pub. L. 109–415, §107(b), substituted “this subpart” for “this part”.
+Subsec. (a)(2). Pub. L. 109–415, §107(b), substituted "this subpart" for "this part".
 
-Pub. L. 109–415, §102(a), substituted “662/3 percent of the amount made available under section 300ff–20(b) of this title for carrying out this subpart” for “50 percent of the amount appropriated under section 300ff–77 of this title” and “paragraphs (3) and (4)” for “paragraph (3)” in first sentence and struck out last sentence which read as follows: “The Secretary shall reserve an additional percentage of the amount appropriated under section 300ff–77 of this title for a fiscal year for grants under this part to make grants to eligible areas under section 300ff–11(a) of this title in accordance with paragraph (4).”
+Pub. L. 109–415, §102(a), substituted "662/3 percent of the amount made available under section 300ff–20(b) of this title for carrying out this subpart" for "50 percent of the amount appropriated under section 300ff–77 of this title" and "paragraphs (3) and (4)" for "paragraph (3)" in first sentence and struck out last sentence which read as follows: "The Secretary shall reserve an additional percentage of the amount appropriated under section 300ff–77 of this title for a fiscal year for grants under this part to make grants to eligible areas under section 300ff–11(a) of this title in accordance with paragraph (4)."
 
 Subsec. (a)(3)(A). Pub. L. 109–415, §102(d)(1), inserted concluding provisions.
 
-Subsec. (a)(3)(B). Pub. L. 109–415, §102(b)(1), which directed the substitution of “living cases of HIV/AIDS (reported to and confirmed by the Director of the Centers for Disease Control and Prevention)” for “estimated living cases of acquired immune deficiency syndrome”, was executed by making the substitution for “estimated number of living cases of acquired immune deficiency syndrome”, to reflect the probable intent of Congress.
+Subsec. (a)(3)(B). Pub. L. 109–415, §102(b)(1), which directed the substitution of "living cases of HIV/AIDS (reported to and confirmed by the Director of the Centers for Disease Control and Prevention)" for "estimated living cases of acquired immune deficiency syndrome", was executed by making the substitution for "estimated number of living cases of acquired immune deficiency syndrome", to reflect the probable intent of Congress.
 
 Subsec. (a)(3)(C) to (E). Pub. L. 109–415, §102(b)(2), (c), added subpars. (C) and (D) and struck out former subpars. (C) to (E) which related to estimate of living cases, determination of Secretary regarding data on HIV cases, and unexpended funds, respectively.
 
 Subsec. (a)(4). Pub. L. 109–415, §102(d)(2), reenacted heading without change and amended text generally, substituting provisions relating to increases in grant for each of the fiscal years 2007 through 2009 for provisions relating to increases in grant for the first through fifth or subsequent fiscal years in a protection period.
 
-Subsec. (b)(1). Pub. L. 109–415, §103(1)(A), in introductory provisions, substituted “Subject to subsection (a)(4)(B)(i) and section 300ff–20(d) of this title, the Secretary shall” for “Not later than 150 days after the date on which appropriations are made under section 300ff–77 of this title for a fiscal year, the Secretary shall”.
+Subsec. (b)(1). Pub. L. 109–415, §103(1)(A), in introductory provisions, substituted "Subject to subsection (a)(4)(B)(i) and section 300ff–20(d) of this title, the Secretary shall" for "Not later than 150 days after the date on which appropriations are made under section 300ff–77 of this title for a fiscal year, the Secretary shall".
 
-Subsec. (b)(1)(B). Pub. L. 109–415, §103(1)(B), substituted “demonstrates the need in such area, on an objective and quantified basis,” for “demonstrates the severe need in such area”.
+Subsec. (b)(1)(B). Pub. L. 109–415, §103(1)(B), substituted "demonstrates the need in such area, on an objective and quantified basis," for "demonstrates the severe need in such area".
 
-Subsec. (b)(1)(E). Pub. L. 109–415, §702(3), substituted “HIV/AIDS” for “HIV disease”.
+Subsec. (b)(1)(E). Pub. L. 109–415, §702(3), substituted "HIV/AIDS" for "HIV disease".
 
-Subsec. (b)(1)(F). Pub. L. 109–415, §103(1)(C), added subpar. (F) and struck out former subpar. (F) which read as follows: “demonstrates the inclusiveness of the planning council membership, with particular emphasis on affected communities and individuals with HIV disease; and”.
+Subsec. (b)(1)(F). Pub. L. 109–415, §103(1)(C), added subpar. (F) and struck out former subpar. (F) which read as follows: "demonstrates the inclusiveness of the planning council membership, with particular emphasis on affected communities and individuals with HIV disease; and".
 
 Subsec. (b)(1)(H). Pub. L. 109–415, §103(1)(D), (E), added subpar. (H).
 
-Subsec. (b)(2)(A). Pub. L. 109–415, §103(2)(A), substituted “demonstrated need” for “severe need”.
+Subsec. (b)(2)(A). Pub. L. 109–415, §103(2)(A), substituted "demonstrated need" for "severe need".
 
 Subsec. (b)(2)(B). Pub. L. 109–415, §103(2)(B), added subpar. (B) and struck out former subpar. (B) which related to severe need.
 
@@ -404,123 +404,123 @@ Subsec. (b)(2)(C), (D). Pub. L. 109–415, §103(2)(C), added subpar. (C) and st
 
 Subsec. (c). Pub. L. 109–415, §104(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 109–415, §107(b), substituted “this subpart” for “this part”.
+Subsec. (d). Pub. L. 109–415, §107(b), substituted "this subpart" for "this part".
 
 Pub. L. 109–415, §104(1), redesignated subsec. (c) as (d).
 
 Subsec. (e). Pub. L. 109–415, §104(3), added subsec. (e).
 
-<b>2000</b>—Subsec. (a)(2). Pub. L. 106–345, §111(a), substituted “for a fiscal year” for “for each of the fiscal years 1996 through 2000” in first sentence.
+<b>2000</b>—Subsec. (a)(2). Pub. L. 106–345, §111(a), substituted "for a fiscal year" for "for each of the fiscal years 1996 through 2000" in first sentence.
 
-Subsec. (a)(3)(C)(i). Pub. L. 106–345, §111(b)(1)(A), inserted before semicolon “, except that (subject to subparagraph (D)), for grants made pursuant to this paragraph for fiscal year 2005 and subsequent fiscal years, the cases counted for each 12-month period beginning on or after July 1, 2004, shall be cases of HIV disease (as reported to and confirmed by such Director) rather than cases of acquired immune deficiency syndrome”.
+Subsec. (a)(3)(C)(i). Pub. L. 106–345, §111(b)(1)(A), inserted before semicolon ", except that (subject to subparagraph (D)), for grants made pursuant to this paragraph for fiscal year 2005 and subsequent fiscal years, the cases counted for each 12-month period beginning on or after July 1, 2004, shall be cases of HIV disease (as reported to and confirmed by such Director) rather than cases of acquired immune deficiency syndrome".
 
-Subsec. (a)(3)(C). Pub. L. 106–345, §111(b)(1)(B), in concluding provisions, inserted before period at end of first sentence “, and shall be reported to the congressional committees of jurisdiction” and inserted at end “Updates shall as applicable take into account the counting of cases of HIV disease pursuant to clause (i).”
+Subsec. (a)(3)(C). Pub. L. 106–345, §111(b)(1)(B), in concluding provisions, inserted before period at end of first sentence ", and shall be reported to the congressional committees of jurisdiction" and inserted at end "Updates shall as applicable take into account the counting of cases of HIV disease pursuant to clause (i)."
 
 Subsec. (a)(3)(D), (E). Pub. L. 106–345, §111(b)(2), added subpar. (D) and redesignated former subpar. (D) as (E).
 
-Subsec. (a)(4). Pub. L. 106–345, §111(c), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: “With respect to an eligible area under section 300ff–11(a) of this title, the Secretary shall increase the amount of a grant under paragraph (2) for a fiscal year to ensure that such eligible area receives not less than—
+Subsec. (a)(4). Pub. L. 106–345, §111(c), amended heading and text of par. (4) generally. Prior to amendment, text read as follows: "With respect to an eligible area under section 300ff–11(a) of this title, the Secretary shall increase the amount of a grant under paragraph (2) for a fiscal year to ensure that such eligible area receives not less than—
 
-&emsp;“(A) with respect to fiscal year 1996, 100 percent;
+&emsp;"(A) with respect to fiscal year 1996, 100 percent;
 
-&emsp;“(B) with respect to fiscal year 1997, 99 percent;
+&emsp;"(B) with respect to fiscal year 1997, 99 percent;
 
-&emsp;“(C) with respect to fiscal year 1998, 98 percent;
+&emsp;"(C) with respect to fiscal year 1998, 98 percent;
 
-&emsp;“(D) with respect to fiscal year 1999, 96.5 percent; and
+&emsp;"(D) with respect to fiscal year 1999, 96.5 percent; and
 
-&emsp;“(E) with respect to fiscal year 2000, 95 percent;
+&emsp;"(E) with respect to fiscal year 2000, 95 percent;
 
-> of the amount allocated for fiscal year 1995 to such entity under this subsection.”
+> of the amount allocated for fiscal year 1995 to such entity under this subsection."
 
-Subsec. (b)(1)(E). Pub. L. 106–345, §112(b), inserted “youth,” after “children,”.
+Subsec. (b)(1)(E). Pub. L. 106–345, §112(b), inserted "youth," after "children,".
 
-Subsec. (b)(2). Pub. L. 106–345, §112(a)(1), substituted “Amount of grant” for “Definition” in heading.
+Subsec. (b)(2). Pub. L. 106–345, §112(a)(1), substituted "Amount of grant" for "Definition" in heading.
 
 Subsec. (b)(2)(A). Pub. L. 106–345, §112(a)(3), added subpar. (A). Former subpar. (A) redesignated (B).
 
 Subsec. (b)(2)(B). Pub. L. 106–345, §112(a)(2), (4), redesignated subpar. (A) as (B) and added cls. (iv) to (vi). Former subpar. (B) redesignated (C).
 
-Subsec. (b)(2)(C). Pub. L. 106–345, §112(a)(5)(C), inserted after second sentence “Such a mechanism shall be modified to reflect the findings of the study under section 501(b) of the Ryan White CARE Act Amendments of 2000 (relating to the relationship between epidemiological measures and health care for certain individuals with HIV disease).”
+Subsec. (b)(2)(C). Pub. L. 106–345, §112(a)(5)(C), inserted after second sentence "Such a mechanism shall be modified to reflect the findings of the study under section 501(b) of the Ryan White CARE Act Amendments of 2000 (relating to the relationship between epidemiological measures and health care for certain individuals with HIV disease)."
 
-Pub. L. 106–345, §112(a)(5)(B), in second sentence, substituted “18 months after October 20, 2000” for “2 years after May 20, 1996”.
+Pub. L. 106–345, §112(a)(5)(B), in second sentence, substituted "18 months after October 20, 2000" for "2 years after May 20, 1996".
 
-Pub. L. 106–345, §112(a)(5)(A), substituted “subparagraph (B)” for “subparagraph (A)” in two places.
+Pub. L. 106–345, §112(a)(5)(A), substituted "subparagraph (B)" for "subparagraph (A)" in two places.
 
 Pub. L. 106–345, §112(a)(2), redesignated subpar. (B) as (C). Former subpar. (C) redesignated (D).
 
-Subsec. (b)(2)(D). Pub. L. 106–345, §112(a)(2), (6), redesignated subpar. (C) as (D) and substituted “subparagraph (C)” for “subparagraph (B)”.
+Subsec. (b)(2)(D). Pub. L. 106–345, §112(a)(2), (6), redesignated subpar. (C) as (D) and substituted "subparagraph (C)" for "subparagraph (B)".
 
-Subsec. (b)(4). Pub. L. 106–345, §112(c)(1), (2), redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: “The amount of each grant made for purposes of this subsection shall be determined by the Secretary based on the application submitted by the eligible area under section 300ff–15(b) of this title.”
+Subsec. (b)(4). Pub. L. 106–345, §112(c)(1), (2), redesignated par. (5) as (4) and struck out heading and text of former par. (4). Text read as follows: "The amount of each grant made for purposes of this subsection shall be determined by the Secretary based on the application submitted by the eligible area under section 300ff–15(b) of this title."
 
-Subsec. (b)(4)(B). Pub. L. 106–345, §112(c)(3), substituted “an expedited grant” for “an expedited grants”.
+Subsec. (b)(4)(B). Pub. L. 106–345, §112(c)(3), substituted "an expedited grant" for "an expedited grants".
 
 Subsec. (b)(5). Pub. L. 106–345, §112(c)(2), redesignated par. (5) as (4).
 
-Subsec. (c). Pub. L. 106–345, §102(d), substituted “section 300ff–12(b)(4)(C) of this title” for “section 300ff–12(b)(3)(A) of this title”.
+Subsec. (c). Pub. L. 106–345, §102(d), substituted "section 300ff–12(b)(4)(C) of this title" for "section 300ff–12(b)(3)(A) of this title".
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–146, §6(c)(1)(A), substituted “section 300ff–77” for “section 300ff–18”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–146, §6(c)(1)(A), substituted "section 300ff–77" for "section 300ff–18".
 
-Pub. L. 104–146, §3(b)(3)(A), inserted “, in accordance with paragraph (3)” after “section 300ff–11(a) of this title” and “The Secretary shall reserve an additional percentage of the amount appropriated under section 300ff–77 of this title for a fiscal year for grants under this part to make grants to eligible areas under section 300ff–11(a) of this title in accordance with paragraph (4).” at end.
+Pub. L. 104–146, §3(b)(3)(A), inserted ", in accordance with paragraph (3)" after "section 300ff–11(a) of this title" and "The Secretary shall reserve an additional percentage of the amount appropriated under section 300ff–77 of this title for a fiscal year for grants under this part to make grants to eligible areas under section 300ff–11(a) of this title in accordance with paragraph (4)." at end.
 
-Pub. L. 104–146, §3(b)(2)(A), substituted “Not later than 60 days after an appropriation becomes available to carry out this part for each of the fiscal years 1996 through 2000, the Secretary shall” for “Not later than—
+Pub. L. 104–146, §3(b)(2)(A), substituted "Not later than 60 days after an appropriation becomes available to carry out this part for each of the fiscal years 1996 through 2000, the Secretary shall" for "Not later than—
 
-&emsp;“(A) 90 days after an appropriation becomes available to carry out this part for fiscal year 1991; and
+&emsp;"(A) 90 days after an appropriation becomes available to carry out this part for fiscal year 1991; and
 
-&emsp;“(B) 60 days after an appropriation becomes available to carry out this part for each of fiscal years 1992 through 1995;
+&emsp;"(B) 60 days after an appropriation becomes available to carry out this part for each of fiscal years 1992 through 1995;
 
-> the Secretary shall”.
+> the Secretary shall".
 
 Subsec. (a)(3). Pub. L. 104–146, §4, amended par. (3) generally, revising and restating provisions of former subpars. (A) to (C) relating to amount of grants under par. (3) as subpars. (A) to (D).
 
 Subsec. (a)(4). Pub. L. 104–146, §3(b)(3)(B), added par. (4).
 
-Subsec. (b)(1). Pub. L. 104–146, §6(c)(1)(B), substituted “section 300ff–77” for “section 300ff–18” in introductory provisions.
+Subsec. (b)(1). Pub. L. 104–146, §6(c)(1)(B), substituted "section 300ff–77" for "section 300ff–18" in introductory provisions.
 
 Subsec. (b)(1)(F), (G). Pub. L. 104–146, §3(b)(2)(B)(i), added subpars. (F) and (G).
 
 Subsec. (b)(2) to (4). Pub. L. 104–146, §3(b)(2)(B)(ii), (iii), added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively. Former par. (4) redesignated (5).
 
-Subsec. (b)(4)(B). Pub. L. 104–146, §12(c)(2), which directed substitution of “an expedited grant” for “an expedited grants” in par. (4)(B), could not be executed because the words “an expedited grants” did not appear in par. (4)(B) subsequent to redesignation of par. (4) as (5) by Pub. L. 104–146, §3(b)(2)(B)(ii). See above.
+Subsec. (b)(4)(B). Pub. L. 104–146, §12(c)(2), which directed substitution of "an expedited grant" for "an expedited grants" in par. (4)(B), could not be executed because the words "an expedited grants" did not appear in par. (4)(B) subsequent to redesignation of par. (4) as (5) by Pub. L. 104–146, §3(b)(2)(B)(ii). See above.
 
 Subsec. (b)(5). Pub. L. 104–146, §3(b)(2)(B)(ii), redesignated par. (4) as (5).
 
 Subsec. (c). Pub. L. 104–146, §3(b)(3)(C), added subsec. (c).
 
-<b>1992</b>—Subsec. (a)(3)(B)(i). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (a)(3)(B)(i). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
 <b>1990</b>—Subsec. (a)(3). Pub. L. 101–502 amended par. (3) generally. Prior to amendment, par. (3) read as follows:
 
-“(A)
+"(A)
 
 In general.—Subject to the extent of amounts made available in appropriations Acts, a grant made for purposes of this paragraph for an eligible area shall be made in an amount equal to the sum of—
 
-&emsp;“(i) an amount determined in accordance with subparagraph (B); and
+&emsp;"(i) an amount determined in accordance with subparagraph (B); and
 
-&emsp;“(ii) an amount determined in accordance with subparagraph (C).
+&emsp;"(ii) an amount determined in accordance with subparagraph (C).
 
-“(B)
+"(B)
 
 Amount relating to cumulative number of cases.—The amount referred to in clause (i) of subparagraph (A) is an amount equal to the product of—
 
-&emsp;“(i) an amount equal to 75 percent of the amounts available for distribution under paragraph (2) for the fiscal year involved; and
+&emsp;"(i) an amount equal to 75 percent of the amounts available for distribution under paragraph (2) for the fiscal year involved; and
 
-&emsp;“(ii) a percentage equal to the quotient of—
+&emsp;"(ii) a percentage equal to the quotient of—
 
-&emsp;&emsp;“(I) the cumulative number of cases of acquired immune deficiency syndrome in the eligible area involved, as indicated by the number of such cases reported to and confirmed by the Director of the Centers for Disease Control on the applicable date described in section 300ff–11(a) of this title; divided by
+&emsp;&emsp;"(I) the cumulative number of cases of acquired immune deficiency syndrome in the eligible area involved, as indicated by the number of such cases reported to and confirmed by the Director of the Centers for Disease Control on the applicable date described in section 300ff–11(a) of this title; divided by
 
-&emsp;&emsp;“(II) the sum of the cumulative number of such cases in all eligible areas for which an application for a grant under paragraph (1) has been approved.
+&emsp;&emsp;"(II) the sum of the cumulative number of such cases in all eligible areas for which an application for a grant under paragraph (1) has been approved.
 
-“(C)
+"(C)
 
 Amount relating to per capita incidence of cases.—The amount referred to in clause (ii) of subparagraph (A) is an amount equal to the product of—
 
-&emsp;“(i) an amount equal to 25 percent of the amounts available for distribution under paragraph (2) for the fiscal year involved; and
+&emsp;"(i) an amount equal to 25 percent of the amounts available for distribution under paragraph (2) for the fiscal year involved; and
 
-&emsp;“(ii) a percentage developed by the Secretary through consideration of the ratio of—
+&emsp;"(ii) a percentage developed by the Secretary through consideration of the ratio of—
 
-&emsp;&emsp;“(I) the per capita incidence of cumulative cases of acquired immune deficiency syndrome in the eligible area involved (computed on the basis of the most recently available data on the population of the area); to
+&emsp;&emsp;"(I) the per capita incidence of cumulative cases of acquired immune deficiency syndrome in the eligible area involved (computed on the basis of the most recently available data on the population of the area); to
 
-&emsp;&emsp;“(II) the per capita incidence of such cumulative cases in all eligible areas for which an applicationfor a grant under paragraph (1) has been approved (computed on the basis of the most recently available data on the population of such areas).”
+&emsp;&emsp;"(II) the per capita incidence of such cumulative cases in all eligible areas for which an application for a grant under paragraph (1) has been approved (computed on the basis of the most recently available data on the population of such areas)."
 
 #### Effective Date of 2009 Amendment; Revival of Section
 

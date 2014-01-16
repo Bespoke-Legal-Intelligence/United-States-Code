@@ -32,7 +32,7 @@ Section 1132a–6, Pub. L. 89–329, title VII, §707, as added Pub. L. 92–318
 
 Section 1132a–7, Pub. L. 89–329, title VII, §708, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 293, related to the disapproval of State plans and to judicial review.
 
-A prior section 1132b, Pub. L. 89–329, title VII, §711, as added Pub. L. 102–325, title VII, §703, July 23, 1992, 106 Stat. 738, provided that former part A of this subchapter could be cited as the “Higher Education Facilities Act of 1992”, prior to the general amendment of this subchapter by Pub. L. 105–244.
+A prior section 1132b, Pub. L. 89–329, title VII, §711, as added Pub. L. 102–325, title VII, §703, July 23, 1992, 106 Stat. 738, provided that former part A of this subchapter could be cited as the "Higher Education Facilities Act of 1992", prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 Another prior section 1132b, Pub. L. 89–329, title VII, §711, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1522, related to State plans for construction, reconstruction, and renovation of undergraduate academic facilities, prior to the general amendment of part A of this subchapter by Pub. L. 102–325.
 
@@ -52,7 +52,7 @@ A prior section 1132b–2, Pub. L. 89–329, title VII, §713, as added Pub. L. 
 
 Another prior section 1132b–2, Pub. L. 89–329, title VII, §713, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1522, related to allotment of funds, prior to the general amendment of part A of this subchapter by Pub. L. 102–325.
 
-Another prior section 1132b–2, Pub. L. 89–329, title VII, §713, as added Pub. L. 96–374, title VII, §701, Oct. 3, 1980, 94 Stat. 1473, related to allotment of appropriations among States, prior to the general amendment of this subchapter by Pub. L. 99–498.
+Another prior section 1132b–2, Pub. L. 89–329, title VII, §713, as added Pub. L. 96–374, title VII, §701, Oct. 3,1980, 94 Stat. 1473, related to allotment of appropriations among States, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
 Prior sections 1132b–3 to 1132b–5 were omitted in the general amendment of this subchapter by Pub. L. 105–244.
 
@@ -68,7 +68,7 @@ Another prior section 1132c, Pub. L. 89–329, title VII, §721, as added Pub. L
 
 Another prior section 1132c, Pub. L. 89–329, title VII, §721, as added Pub. L. 96–374, title VII, §701, Oct. 3, 1980, 94 Stat. 1475, authorized grants to graduate institutions of higher education, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-Another prior section 1132c, Pub. L. 89–329, title VII, §741, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 295; amended Pub. L. 94–482, title I,§§161(c), 162(a)(3), Oct. 12, 1976, 90 Stat. 2156; Pub. L. 96–49, §8(c)(1), Aug. 13, 1979, 93 Stat. 353, set out grant of authority and authorization of appropriations for program of loans for construction, reconstruction, and renovation of academic facilities, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1132c, Pub. L. 89–329, title VII, §741, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 295; amended Pub. L. 94–482, title I, §§161(c), 162(a)(3), Oct. 12, 1976, 90 Stat. 2156; Pub. L. 96–49, §8(c)(1), Aug. 13, 1979, 93 Stat. 353, set out grant of authority and authorization of appropriations for program of loans for construction, reconstruction, and renovation of academic facilities, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 1132c–1, Pub. L. 89–329, title VII, §722, as added Pub. L. 102–325, title VII, §704, July 23, 1992, 106 Stat. 742, which defined terms, was renumbered section 342 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(3), (4), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1066a of this title.
 
@@ -102,7 +102,7 @@ Another prior section 1132d, Pub. L. 89–329, title VII, §731, as added Pub. L
 
 Another prior section 1132d, Pub. L. 89–329, title VII, §761, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 299, authorized appropriations for the program of assistance to major disaster areas, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
-A prior section 1132d–1, Pub. L. 89–329, title VII, §732, as added Pub. L. 102–325, title VII, §705, July 23, 1992, 106 Stat. 748, contained general provisions relating to functions, powers, and duties of the Secretary under former part C of this subchapter, prior to the general amendment of this subchapter by Pub. L. 105–244.
+A prior section 1132d–1, Pub. L. 89–329, title VII, §732, as added Pub. L. 102–325, title VII, §705, July 23, 1992, 106 Stat. 748, contained general provisions relating to functions, powers, and duties of the Secretary under formerpart C of this subchapter, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
 Another prior section 1132d–1, Pub. L. 89–329, title VII, §732, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1526; amended Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837, set out general provisions for loan program, prior to the general amendment of part C of this subchapter by Pub. L. 102–325.
 
@@ -116,7 +116,7 @@ Another prior section 1132d–2, Pub. L. 89–329, title VII, §733, as added Pu
 
 Another prior section 1132d–2, Pub. L. 89–329, title VII, §733, as added Pub. L. 96–374, title VII, §701, Oct. 3, 1980, 94 Stat. 1476, related to revolving loan and insurance fund, prior to the general amendment of this subchapter by Pub. L. 99–498.
 
-Another prior section 1132d–2, Pub. L. 89–329, title VII, §763, as added Pub. L. 92–318, title I, §161(a), June23, 1972, 86 Stat. 300, related to grants for the purchase of equipment and supplies, prior to the general amendment of this subchapter by Pub. L. 96–374.
+Another prior section 1132d–2, Pub. L. 89–329, title VII, §763, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 300, related to grants for the purchase of equipment and supplies, prior to the general amendment of this subchapter by Pub. L. 96–374.
 
 A prior section 1132d–3, Pub. L. 89–329, title VII, §734, as added Pub. L. 102–325, title VII, §705, July 23, 1992, 106 Stat. 751; amended Pub. L. 103–208, §2(j)(20), Dec. 20, 1993, 107 Stat. 2481, defined terms, prior to the general amendment of this subchapter by Pub. L. 105–244.
 
@@ -132,7 +132,7 @@ Another prior section 1132d–4, Pub. L. 89–329, title VII, §765, as added Pu
 
 Prior sections 1132d–5 and 1132d–11 were omitted in the general amendment of this subchapter by Pub. L. 96–374.
 
-Section 1132d–5, Pub. L. 89–329, title VII, §766, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 300, defined “major disaster” and “public institution of higher education”.
+Section 1132d–5, Pub. L. 89–329, title VII, §766, as added Pub. L. 92–318, title I, §161(a), June 23, 1972, 86 Stat. 300, defined "major disaster" and "public institution of higher education".
 
 Section 1132d–11, Pub. L. 89–329, title VII, §771, as added Pub. L. 94–482, title I, §162(i), Oct. 12, 1976, 90 Stat. 2157; amended Pub. L. 95–43, §1(a)(43), June 15, 1977, 91 Stat. 217, provided for a program of grants or loans for reconstruction or renovation of academic facilities.
 
@@ -148,7 +148,7 @@ Another prior section 1132e–1, Pub. L. 89–329, title VII, §782, as added Pu
 
 Prior sections 1132f to 1132f–9 were repealed by Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §603(d)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–293.
 
-Section 1132f, Pub. L. 89–329, title VII, §751, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1528, related to congressional declaration of purpose of this part to authorize participation of United States Government and Student Loan Marketing Association in private, for profit corporation known as College Construction Loan Insurance Association, and defined “education facilities purpose”.
+Section 1132f, Pub. L. 89–329, title VII, §751, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1528, related to congressional declaration of purpose of this part to authorize participation of United States Government and Student Loan Marketing Association in private, for profit corporation known as College Construction Loan Insurance Association, and defined "education facilities purpose".
 
 Section 1132f–1, Pub. L. 89–329, title VII, §752, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1529; amended Pub. L. 102–325, title VII, §707(b), July 23, 1992, 106 Stat. 753, related to criteria used by Corporation for providing guarantees and insurance on obligations issued for education facilities purposes.
 
@@ -180,7 +180,7 @@ Section 1132g–2, Pub. L. 89–329, title VII, §763, as added Pub. L. 99–498
 
 Section 1132g–3, Pub. L. 89–329, title VII, §764, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1537; amended Pub. L. 100–50, §19(5), June 3, 1987, 101 Stat. 360, defined terms used in sections 1132g to 1132g–3 of this title.
 
-Section 1132h, Pub. L. 89–329, title VII, §771, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat.1539, provided for financial assistance to Eastern Michigan University in Ypsilanti, Michigan, for renovation and restoration of Welch Hall.
+Section 1132h, Pub. L. 89–329, title VII, §771, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1539, provided for financial assistance to Eastern Michigan University in Ypsilanti, Michigan, for renovation and restoration of Welch Hall.
 
 Section 1132h–1, Pub. L. 89–329, title VII, §772, as added Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1539, provided for financial assistance to Rochester Institute of Technology in Rochester, New York, for Federal share of construction and related costs of Academic Health Education Center facility.
 

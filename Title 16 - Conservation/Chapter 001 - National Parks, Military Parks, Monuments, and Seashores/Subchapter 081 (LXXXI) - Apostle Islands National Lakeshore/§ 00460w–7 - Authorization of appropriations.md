@@ -8,5 +8,5 @@ There are authorized to be appropriated not more than $5,250,000 for the acquisi
 
 <b>1986</b>—Pub. L. 99–497 inserted provision authorizing additional sums to be appropriated as necessary for acquisition of lands described in section 460w(b) of this title.
 
-<b>1974</b>—Pub. L. 93–477 substituted “$5,250,000” for “$4,250,000”.
+<b>1974</b>—Pub. L. 93–477 substituted "$5,250,000" for "$4,250,000".
 

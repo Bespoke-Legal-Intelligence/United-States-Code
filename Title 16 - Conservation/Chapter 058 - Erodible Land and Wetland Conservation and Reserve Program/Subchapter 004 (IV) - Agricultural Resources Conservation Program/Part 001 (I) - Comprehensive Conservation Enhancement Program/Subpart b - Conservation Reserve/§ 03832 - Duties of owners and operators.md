@@ -36,7 +36,7 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;&emsp;(B) to refund to the United States all rental payments and cost sharing payments received by the owner or operator, or accept such payment adjustments or make such refunds as the Secretary considers appropriate and consistent with the objectives of this subpart;
 
-> &emsp;unless the transferee of the land agrees with the Secretary to assume all obligations of the contract, except that no refund of rental payments and cost sharing payments shall be required if the land is purchased by or for the United States Fish and Wildlife Service, or the transferee and the Secretary agree to modifications to the contract, in a case in whichthe modifications are consistent with the objectives of the program, as determined by the Secretary;
+> &emsp;unless the transferee of the land agrees with the Secretary to assume all obligations of the contract, except that no refund of rental payments and cost sharing payments shall be required if the land is purchased by or for the United States Fish and Wildlife Service, or the transferee and the Secretary agree to modifications to the contract, in a case in which the modifications are consistent with the objectives of the program, as determined by the Secretary;
 
 &emsp;(8) not to conduct any harvesting or grazing, nor otherwise make commercial use of the forage, on land that is subject to the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except that the Secretary may permit, consistent with the conservation of soil, water quality, and wildlife habitat (including habitat during nesting seasons for birds in the area)—
 
@@ -68,7 +68,7 @@ Under the terms of a contract entered into under this subpart, during the term o
 
 &emsp;&emsp;&emsp;(iii) the purposes of the conservation reserve program under this subpart;
 
-&emsp;(9) not to conduct any planting of trees on land that is subject to the contract unless the contract specifies that the harvesting and commercial sale of trees such as Christmas trees are prohibited, nor otherwise make commercial use of trees on land that is subject to the contract unless it is expressly permitted in the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except that no contract shall prohibit activities consistent with customary forestry practice, such as pruning, thinning, or stand improvement of trees, on land converted to forestry use;
+&emsp;(9) not to conduct any planting of trees on land that is subject to the contract unless the contract specifies that the harvesting and commercial sale of trees such as Christmas trees are prohibited, nor otherwise make commercial use of trees on land that is subject to the contract unless it is expressly permitted in the contract, nor adopt any similar practice specified in the contract by the Secretary as a practice that would tend to defeat the purposes of the contract, except that no contractshall prohibit activities consistent with customary forestry practice, such as pruning, thinning, or stand improvement of trees, on land converted to forestry use;
 
 &emsp;(10) not to adopt any practice specified by the Secretary in the contract as a practice that would tend to defeat the purposes of this subpart; and
 
@@ -128,7 +128,7 @@ Subsec. (a)(9) to (11). Pub. L. 110–246, §2107(1), redesignated pars. (8) to 
 
 Subsec. (d). Pub. L. 110–246, §2108(b), added subsec. (d).
 
-<b>2003</b>—Subsec. (a)(7)(A)(iii). Pub. L. 108–7 inserted before semicolon “, except that this clause shall not apply to the 2002 calendar year, and the Secretary shall repay the owner or operator (in a manner determined by the Secretary) for any reduction in rental payments made to the owner or operator as the result of the application of this clause to the 2002 calendar year”.
+<b>2003</b>—Subsec. (a)(7)(A)(iii). Pub. L. 108–7 inserted before semicolon ", except that this clause shall not apply to the 2002 calendar year, and the Secretary shall repay the owner or operator (in a manner determined by the Secretary) for any reduction in rental payments made to the owner or operator as the result of the application of this clause to the 2002 calendar year".
 
 #### Effective Date of 2008 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Steps to be taken prior to or concurrently with construction
 
-(1) In the case of any water resources project which is authorized to be constructed by the Secretary before, on, or after November 17, 1986, construction of which has not commenced as of November 17, 1986, and which necessitates the mitigation of fish and wildlife losses, including the acquisition of lands or interests in lands to mitigate losses to fish and wildlife, as a result of such project, such mitigation, including acquisition of the lands or interests—
+(1) In the case of any water resources project which is authorized to be constructed by the Secretary before, on, or after November 17, 1986, construction of which has not commenced as of November 17, 1986, and which necessitates the mitigation of fish and wildlife losses, includingthe acquisition of lands or interests in lands to mitigate losses to fish and wildlife, as a result of such project, such mitigation, including acquisition of the lands or interests—
 
 &emsp;(A) shall be undertaken or acquired before any construction of the project (other than such acquisition) commences, or
 
@@ -58,7 +58,7 @@ Costs incurred after November 17, 1986, including lands, easements, rights-of-wa
 
 &emsp;&emsp;&emsp;&emsp;(I) the types and amount of restoration activities to be conducted;
 
-&emsp;&emsp;&emsp;&emsp;(II) the physical action to be undertaken to achieve the mitigation objectives within the watershed in which such losses occur and, in any case in which the mitigation will occur outside the watershed, a detailed explanation for undertaking the mitigation outside the watershed; and
+&emsp;&emsp;&emsp;&emsp;(II) the physical action to be undertaken to achieve the mitigation objectives within the watershed in which such losses occur and, in any case in which the mitigation will occur outside the watershed, a detailed explanation forundertaking the mitigation outside the watershed; and
 
 &emsp;&emsp;&emsp;&emsp;(III) the functions and values that will result from the mitigation plan; and
 
@@ -104,7 +104,7 @@ In those cases when the Secretary, as part of any report to Congress, recommends
 
 #### (f) National benefits from enhancement measures for Atchafalaya Floodway System and Mississippi Delta Region projects
 
-Fish and wildlife enhancement measures carried out as part of the project for AtchafalayaFloodway System, Louisiana, authorized by Public Law 99–88, and the project for Mississippi Delta Region, Louisiana, authorized by the Flood Control Act of 1965, shall be considered to provide benefits that are national for purposes of this section.
+Fish and wildlife enhancement measures carried out as part of the project for Atchafalaya Floodway System, Louisiana, authorized by Public Law 99–88, and the project for Mississippi Delta Region, Louisiana, authorized by the Flood Control Act of 1965, shall be considered to provide benefits that are national for purposes of this section.
 
 #### (g) Fish and Wildlife Coordination Act supplementation
 
@@ -124,41 +124,41 @@ The Fish and Wildlife Coordination Act referred to in subsec. (g), is act Mar. 1
 
 #### Amendments
 
-<b>2007</b>—Subsec. (d)(1). Pub. L. 110–114, §2036(a)(1), (2), substituted “to Congress in any report, and shall not select a project alternative in any report,” for “to the Congress” and inserted “, and other habitat types are mitigated to not less than in-kind conditions” after “mitigated in-kind”.
+<b>2007</b>—Subsec. (d)(1). Pub. L. 110–114, §2036(a)(1), (2), substituted "to Congress in any report, and shall notselect a project alternative in any report," for "to the Congress" and inserted ", and other habitat types are mitigated to not less than in-kind conditions" after "mitigated in-kind".
 
 Subsec. (d)(3) to (5). Pub. L. 110–114, §2036(a)(3), added pars. (3) to (5).
 
-<b>2000</b>—Subsec. (d). Pub. L. 106–541 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, realigned margins, substituted “November 17, 1986” for “the date of enactment of this Act”, redesignated former cls. (1) and (2) as (A) and (B), respectively, and added par. (2).
+<b>2000</b>—Subsec. (d). Pub. L. 106–541 inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, realigned margins, substituted "November 17, 1986" for "the date of enactment of this Act", redesignated former cls. (1) and (2) as (A) and (B), respectively, and added par. (2).
 
-<b>1999</b>—Subsec. (e). Pub. L. 106–53 inserted after second sentence “Not more than 80 percent of the non-Federal share of such first costs may be satisfied through in-kind contributions, including facilities, supplies, and services that are necessary to carry out the enhancement project.”
+<b>1999</b>—Subsec. (e). Pub. L. 106–53 inserted after second sentence "Not more than 80 percent of the non-Federal share of such first costs may be satisfied through in-kind contributions, including facilities, supplies, and services that are necessary to carry out the enhancement project."
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–580 inserted “, including lands, easements, rights-of-way, and relocations,” before “for implementation and operation”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–580 inserted ", including lands, easements, rights-of-way, and relocations," before "for implementation and operation".
 
 #### Concurrent Mitigation
 
 Pub. L. 106–541, title II, §224(b), Dec. 11, 2000, 114 Stat. 2598, provided that:
 
-“(1)
+"(1)
 
 Investigation.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The Comptroller General shall conduct an investigation of the effectiveness of the concurrent mitigation requirements of section 906 of the Water Resources Development Act of 1986 (33 U.S.C. 2283). In carrying out the investigation, the Comptroller General shall determine—
 
-&emsp;&emsp;“(i) whether or not there are instances in which less than 50 percent of required mitigation is completed before initiation of project construction and the number of such instances; and
+&emsp;&emsp;"(i) whether or not there are instances in which less than 50 percent of required mitigation is completed before initiation of project construction and the number of such instances; and
 
-&emsp;&emsp;“(ii) the extent to which mitigation projects restore natural hydrologic conditions, restore native vegetation, and otherwise support native fish and wildlife species.
+&emsp;&emsp;"(ii) the extent to which mitigation projects restore natural hydrologic conditions, restore native vegetation, and otherwise support native fish and wildlife species.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Special rule.—In carrying out subparagraph (A)(ii), the Comptroller General shall—
 
-&emsp;&emsp;“(i) establish a panel of independent scientists, comprised of individuals with expertise and experience in applicable scientific disciplines, to assist the Comptroller General; and
+&emsp;&emsp;"(i) establish a panel of independent scientists, comprised of individuals with expertise and experience in applicable scientific disciplines, to assist the Comptroller General; and
 
-&emsp;&emsp;“(ii) assess methods used by the Corps of Engineers to monitor and evaluate mitigation projects, and compare Corps of Engineers mitigation project design, construction, monitoring, and evaluation practices with those used in other publicly and privately financed mitigation projects.
+&emsp;&emsp;"(ii) assess methods used by the Corps of Engineers to monitor and evaluate mitigation projects, and compare Corps of Engineers mitigation project design, construction, monitoring, and evaluation practices with those used in other publicly and privately financed mitigation projects.
 
-“(2)
+"(2)
 
-Report.—Not later than 1 year after the date of enactment of this Act \[Dec. 11, 2000\], the Comptroller General shall transmit to Congress a report on the results of the investigation.”
+Report.—Not later than 1 year after the date of enactment of this Act \[Dec. 11, 2000\], the Comptroller General shall transmit to Congress a report on the results of the investigation."
 

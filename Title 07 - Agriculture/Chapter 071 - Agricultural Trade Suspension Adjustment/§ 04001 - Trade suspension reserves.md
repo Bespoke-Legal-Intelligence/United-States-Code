@@ -26,7 +26,7 @@ Within thirty days after the export of any agricultural commodity to a country o
 
 (2)
 
-Applicability of certain provisions.—Subsections (c), (d), (e), and (f)(2) of section 1736f–1 of this title shall apply to commodities in any reserve established under paragraph (1), except that the references to “eligible commodities” in the subsections shall be deemed to be references to “agricultural commodities”.
+Applicability of certain provisions.—Subsections (c), (d), (e), and (f)(2) of section 1736f–1 of this title shall apply to commodities in any reserve established under paragraph (1), except that the references to "eligible commodities" in the subsections shall be deemed to be references to "agricultural commodities".
 
 (3) Any determination by the President or the Secretary of Agriculture under this section shall be final.
 
@@ -58,11 +58,11 @@ Section 1445e of this title, referred to in subsec. (c)(2), was amended generall
 
 <b>1998</b>—Subsec. (d)(2). Pub. L. 105–385 made technical amendment to reference in original act which appears in text as reference to section 1736f–1 of this title.
 
-<b>1996</b>—Subsec. (d)(2). Pub. L. 104–127 added par. (2) and struck out former par. (2) which read as follows: “The provisions of subsections (c), (d), (e), (f), and (g)(2) of section 1736f–1 of this title shall apply to commodities in any reserve established under paragraph (1) of thissubsection, and (except for the last sentence of subsection (c) of section 1736f–1 of this title) the references to ‘wheat’ in such subsections of section 1736f–1 of this title shall be deemed to be references to ‘agricultural commodities’.”
+<b>1996</b>—Subsec. (d)(2). Pub. L. 104–127 added par. (2) and struck out former par. (2) which read as follows: "The provisions of subsections (c), (d), (e), (f), and (g)(2) of section 1736f–1 of this title shall apply to commodities in any reserve established under paragraph (1) of thissubsection, and (except for the last sentence of subsection (c) of section 1736f–1 of this title) the references to 'wheat' in such subsections of section 1736f–1 of this title shall be deemed to be references to 'agricultural commodities'."
 
-<b>1981</b>—Subsec. (c)(2)(A). Pub. L. 97–98, §1004(1), substituted “third sentence” for “second sentence”.
+<b>1981</b>—Subsec. (c)(2)(A). Pub. L. 97–98, §1004(1), substituted "third sentence" for "second sentence".
 
-Subsec. (c)(2)(B)(i). Pub. L. 97–98, §1004(2), substituted “110 per centum” for “105 per centum”, “Secretary may encourage repayment” for “Secretary may call for repayment”, and “clause (5) of the third sentence” for “clause (6) of the second sentence”.
+Subsec. (c)(2)(B)(i). Pub. L. 97–98, §1004(2), substituted "110 per centum" for "105 per centum", "Secretary may encourage repayment" for "Secretary may call for repayment", and "clause (5) of the third sentence" for "clause (6) of the second sentence".
 
 #### Effective Date of 1981 Amendment
 
@@ -70,13 +70,13 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 #### Effective Date
 
-Pub. L. 96–494, title II, §213, Dec. 3, 1980, 94 Stat. 2578, provided that: “Except as otherwise provided herein, this title \[enacting this chapter and section 1445h of this title, amending sections 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e and 1445h of this title, and section 714c of Title 15, Commerce and Trade\] shall become effective October 1, 1980, or the date of enactment \[Dec. 3, 1980\], whichever is later.”
+Pub. L. 96–494, title II, §213, Dec. 3, 1980, 94 Stat. 2578, provided that: "Except as otherwise provided herein, this title \[enacting this chapter and section 1445h of this title, amending sections 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e and 1445h of this title, and section 714c of Title 15, Commerce and Trade\] shall become effective October 1, 1980, or the date of enactment \[Dec. 3, 1980\], whichever is later."
 
 #### Short Title
 
-Pub. L. 96–494, §1, Dec. 3, 1980, 94 Stat. 2570, provided: “That this Act \[enacting this chapter and sections 1445h and 1736f–1 of this title, amending sections 608c, 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e, 1445h, and 1736f–1 of this title, and section 714c of Title 15, Commerce and Trade\] may be cited as the ‘Agricultural Act of 1980’.”
+Pub. L. 96–494, §1, Dec. 3, 1980, 94 Stat. 2570, provided: "That this Act \[enacting this chapter and sections 1445h and 1736f–1 of this title, amending sections 608c, 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e, 1445h, and 1736f–1 of this title, and section 714c of Title 15, Commerce and Trade\] may be cited as the 'Agricultural Act of 1980'."
 
-Pub. L. 96–494, title II, §201, Dec. 3, 1980, 94 Stat. 2570, provided that: “This title \[enacting this chapter and section 1445h of this title, amending sections 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e and 1445h of this title, and section 714c of Title 15, Commerce and Trade\] may be cited as the ‘Agricultural Trade Suspension Adjustment Act of 1980’.”
+Pub. L. 96–494, title II, §201, Dec. 3, 1980, 94 Stat. 2570, provided that: "This title \[enacting this chapter and section 1445h of this title, amending sections 1444c, 1445b, 1445e, and 1446 of this title, and enacting provisions set out as notes under this section, sections 1445e and 1445h of this title, and section 714c of Title 15, Commerce and Trade\] may be cited as the 'Agricultural Trade Suspension Adjustment Act of 1980'."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

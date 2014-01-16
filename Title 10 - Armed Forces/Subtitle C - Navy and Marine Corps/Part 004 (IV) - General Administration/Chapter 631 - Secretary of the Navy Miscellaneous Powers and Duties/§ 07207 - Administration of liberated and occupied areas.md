@@ -26,5 +26,5 @@ Aug. 2, 1946, ch. 756, §38 (as applicable to administration of liberated and oc
 
 Aug. 2, 1946, ch. 756, §39, 60 Stat. 858.
 
-In subsection (b) the words “except the authority to prescribe regulations” are omitted, since 5 U.S.C. 421f contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
+In subsection (b) the words "except the authority to prescribe regulations" are omitted, since 5 U.S.C. 421f contains no authority for the Secretary of the Navy to prescribe regulations for the administration of that section.
 

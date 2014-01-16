@@ -164,5 +164,5 @@ The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referr
 
 #### Amendments
 
-<b>2011</b>—Subsec. (g). Pub. L. 112–32 substituted “2014” for “2011”.
+<b>2011</b>—Subsec. (g). Pub. L. 112–32 substituted "2014" for "2011".
 

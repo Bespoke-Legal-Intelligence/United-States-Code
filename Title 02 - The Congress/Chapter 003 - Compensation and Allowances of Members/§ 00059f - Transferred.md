@@ -1,0 +1,6 @@
+### §59f. Transferred
+
+#### Codification
+
+Section 59f was editorially reclassified as section 504 of this title.
+

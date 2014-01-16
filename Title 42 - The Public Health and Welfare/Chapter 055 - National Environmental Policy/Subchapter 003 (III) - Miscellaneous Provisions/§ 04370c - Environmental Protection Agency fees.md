@@ -20,7 +20,7 @@ Fees and charges assessed pursuant to this section shall be in such amounts as m
 
 &emsp;(B) for services and activities in programs within the jurisdiction of the House Committee on Energy and Commerce and administered by the Environmental Protection Agency through the Administrator, shall be limited to such sums collected as of November 5, 1990, pursuant to sections 2625(b) and 2665(e)(2) <sup>2</sup> of title 15, and such sums specifically authorized by the Clean Air Act Amendments of 1990.
 
-(2) Any remaining amounts required to be collected under this section shall be collected fromservices and programs administered by the Environmental Protection Agency other than those specified in subparagraphs (A) and (B) of paragraph (1).
+(2) Any remaining amounts required to be collected under this section shall be collected from services and programs administered by the Environmental Protection Agency other than those specified in subparagraphs (A) and (B) of paragraph (1).
 
 #### (d) Rule of construction
 
@@ -42,7 +42,7 @@ The Clean Air Act Amendments of 1990, referred to in subsec. (c)(1)(B), means Pu
 
 #### Codification
 
-In subsec. (d), “section 9701 of title 31” was in the original “the Independent Office Appropriations Act (31 U.S.C. 9701)” and substitution was made as if it read for “title V of the Independent Offices Appropriation Act of 1952” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (d), "section 9701 of title 31" was in the original "the Independent Office Appropriations Act (31 U.S.C. 9701)" and substitution was made as if it read for "title V of the Independent Offices Appropriation Act of 1952" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, and not as part of the National Environmental Policy Act of 1969 which comprises this chapter.
 
@@ -50,7 +50,7 @@ Section was enacted as part of the Omnibus Budget Reconciliation Act of 1990, an
 
 Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “to”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "to".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

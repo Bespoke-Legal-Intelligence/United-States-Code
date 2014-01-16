@@ -14,11 +14,11 @@
 
 #### References in Text
 
-For “the effective date of this subchapter” and “such effective date”, referred to in subsecs. (a) and (b), as 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
+For "the effective date of this subchapter" and "such effective date", referred to in subsecs. (a) and (b), as 60 days after Oct. 30, 1984, except where otherwise expressly provided, see section 9(a) of Pub. L. 98–549, set out as an Effective Date note under section 521 of this title.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–104 substituted “section 153” for “section 153(v)”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–104 substituted "section 153" for "section 153(v)".
 
 #### Effective Date
 

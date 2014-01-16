@@ -24,7 +24,7 @@ Section was formerly classified to section 170t of Title 5 prior to the general 
 
 #### Amendments
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–475 incorporated existing provisions into par. (1) preceding subpar. (A), and par. 3(B), added pars. (1)(A), (B), (2), and (3)(A), and substituted “enacted before October 26, 1974, no money appropriated to the Department of State under any law shall be available for obligation or expenditure with respect to any fiscal year commencing on or after July 1, 1972” of “, no appropriation shall be made to the Department of State under any law for any fiscal year commencing on or after July 1, 1972, unless previously authorized by legislation hereafter enacted by the Congress.”, in par. (1) preceding subpar. (A), and “section” for “subsection” in par. (3).
+<b>1974</b>—Subsec. (a). Pub. L. 93–475 incorporated existing provisions into par. (1) preceding subpar. (A), and par. 3(B), added pars. (1)(A), (B), (2), and (3)(A), and substituted "enacted before October 26, 1974, no money appropriated to the Department of State under any law shall be available for obligation or expenditure with respect to any fiscal year commencing on or after July 1, 1972" of ", no appropriation shall be made to the Department of State under any law for any fiscal year commencing on or after July 1, 1972, unless previously authorized by legislation hereafter enacted by the Congress.", in par. (1) preceding subpar. (A), and "section" for "subsection" in par. (3).
 
 <b>1972</b>—Subsec. (a). Pub. L. 92–352 inserted provisions that this subsection shall not apply to, or affect in any manner, permanent appropriations, trust funds, and other similar accounts administered by the Department as authorized by law.
 
@@ -36,23 +36,23 @@ Pub. L. 101–513, title V, §581, Nov. 5, 1990, 104 Stat. 2046, directed that t
 
 #### Report on Expenditures Made From Appropriation for Emergencies in Diplomatic and Consular Service
 
-Pub. L. 100–204, title I, §124, Dec. 22, 1987, 101 Stat. 1341, as amended by Pub. L. 102–138, title I, §114, Oct. 28, 1991, 105 Stat. 655, provided that: “The Secretary of State shall provide to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives within 30 days after the end of each quarter of the fiscal year a complete report, including amount, payee, and purpose, of all expenditures made from the appropriation for ‘Emergencies in the Diplomatic and Consular Service’ for that quarter. Items included in each such report concerning representation, official travel, and gifts shall be submitted in unclassified form.”
+Pub. L. 100–204, title I, §124, Dec. 22, 1987, 101 Stat. 1341, as amended by Pub. L. 102–138, title I, §114, Oct. 28, 1991, 105 Stat. 655, provided that: "The Secretary of State shall provide to the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives within 30 days after the end of each quarter of the fiscal year a complete report, including amount, payee, and purpose, of all expenditures made from the appropriation for 'Emergencies in the Diplomatic and Consular Service' for that quarter. Items included in each such report concerning representation, official travel, and gifts shall be submitted in unclassified form."
 
 #### Information-Sharing Arrangement Between Department of State and Congressional Committees
 
-Pub. L. 95–426, title I, §122, Oct. 7, 1978, 92 Stat. 970, as amended by Pub. L. 97–241, title V, §505(a)(2), (b)(1), Aug. 24, 1982, 96 Stat. 299, provided that: “The Congress finds that—
+Pub. L. 95–426, title I, §122, Oct. 7, 1978, 92 Stat. 970, as amended by Pub. L. 97–241, title V, §505(a)(2), (b)(1), Aug. 24, 1982, 96 Stat. 299, provided that: "The Congress finds that—
 
-&emsp;“(1) international political, economic, and other studies prepared systematically by analysts of the Department of State as needed background information for executive branch policymakers could be similarly valuable to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate in fulfilling their responsibilities; and
+&emsp;"(1) international political, economic, and other studies prepared systematically by analysts of the Department of State as needed background information for executive branch policymakers could be similarly valuable to the Committee on International Relations \[now Committee on Foreign Affairs\] of the House of Representatives and the Committee on Foreign Relations of the Senate in fulfilling their responsibilities; and
 
-&emsp;“(2) a formal information-sharing arrangement between the Department of State and such congressional committees could therefore serve the national interest, provided that controls on dissemination are established which insure that neither the process of analysis nor necessary confidentiality is jeopardized.”
+&emsp;"(2) a formal information-sharing arrangement between the Department of State and such congressional committees could therefore serve the national interest, provided that controls on dissemination are established which insure that neither the process of analysis nor necessary confidentiality is jeopardized."
 
 #### Congressional Purpose Respecting Laws Relating to Department of State and United States Information Agency; Foreign Relations; and Authorization of Appropriations
 
-Pub. L. 92–226, title IV, §407(a), Feb. 7, 1972, 86 Stat. 35, provided that: “It is the purpose of this section \[amending sections 1476, 2680, and 2684 of this title\] to enable the Congress generally, and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives in particular, to carry out the purposes and intent of the Legislative Reorganization Act of 1946 and 1970 \[see Short Title notes set out under section 72a of Title 2, The Congress\], with respect to—
+Pub. L. 92–226, title IV, §407(a), Feb. 7, 1972, 86 Stat. 35, provided that: "It is the purpose of this section \[amending sections 1476, 2680, and 2684 of this title\] to enable the Congress generally, and the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives in particular, to carry out the purposes and intent of the Legislative Reorganization Act of 1946 and 1970 \[see Short Title notes set out under section 4301 of Title 2, The Congress\], with respect to—
 
-&emsp;“(1) the analysis, appraisal, and evaluation of the application, administration, and execution of the laws relating to the Department of State and the United States Information Agency and of matters relating to the foreign relations of the United States; and
+&emsp;"(1) the analysis, appraisal, and evaluation of the application, administration, and execution of the laws relating to the Department of State and the United States Information Agency and of matters relating to the foreign relations of the United States; and
 
-&emsp;“(2) providing periodic authorizations of appropriations for that Department and Agency.”
+&emsp;"(2) providing periodic authorizations of appropriations for that Department and Agency."
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of this title.\]
 

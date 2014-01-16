@@ -42,23 +42,23 @@ Exception.—Except as provided in subsection (c) of this section, this chapter 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–281, §610(a)(1), substituted “
+<b>2010</b>—Subsec. (a). Pub. L. 111–281, §610(a)(1), substituted "
 
-Foreign Voyages and Foreign Vessels.—” for “
+Foreign Voyages and Foreign Vessels.—" for "
 
-Mandatory Application.—” in heading.
+Mandatory Application.—" in heading.
 
-Subsecs. (b) to (d). Pub. L. 111–281, §610(a)(2)–(4), added subsec. (b), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and, in introductory provisions of subsec. (d), substituted “subsection (c)” for “subsection (b)”.
+Subsecs. (b) to (d). Pub. L. 111–281, §610(a)(2)–(4), added subsec. (b), redesignated former subsecs. (b) and (c) as (c) and (d), respectively, and, in introductory provisions of subsec. (d), substituted "subsection (c)" for "subsection (b)".
 
-Subsec. (d)(4). Pub. L. 111–281, §610(a)(5), inserted “that is not described in subsection (b) of this section” after “connecting waters”.
+Subsec. (d)(4). Pub. L. 111–281, §610(a)(5), inserted "that is not described in subsection (b) of this section" after "connecting waters".
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–293 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “This chapter applies to the following vessels engaged on a foreign voyage:
+<b>2004</b>—Subsec. (a). Pub. L. 108–293 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "This chapter applies to the following vessels engaged on a foreign voyage:
 
-&emsp;“(1) Beginning July 1, 1998—
+&emsp;"(1) Beginning July 1, 1998—
 
-&emsp;&emsp;“(A) a vessel transporting more than 12 passengers described in section 2101(21)(A) of this title; and
+&emsp;&emsp;"(A) a vessel transporting more than 12 passengers described in section 2101(21)(A) of this title; and
 
-&emsp;&emsp;“(B) a tanker, bulk freight vessel, or high-speed freight vessel, of at least 500 gross tons.
+&emsp;&emsp;"(B) a tanker, bulk freight vessel, or high-speed freight vessel, of at least 500 gross tons.
 
-&emsp;“(2) Beginning July 1, 2002, a freight vessel and a self-propelled mobile offshore drilling unit of at least 500 gross tons.”
+&emsp;"(2) Beginning July 1, 2002, a freight vessel and a self-propelled mobile offshore drilling unit of at least 500 gross tons."
 

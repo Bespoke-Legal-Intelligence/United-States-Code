@@ -6,7 +6,7 @@ A taxpayer may make a cash deposit with the Secretary which may be used by the S
 
 #### (b) No interest imposed
 
-To the extent that such deposit is used by the Secretary to pay tax, for purposes of section 6601\(relating to interest on underpayments), the tax shall be treated as paid when the deposit is made.
+To the extent that such deposit is used by the Secretary to pay tax, for purposes of section 6601 (relating to interest on underpayments), the tax shall be treated as paid when the deposit is made.
 
 #### (c) Return of deposit
 
@@ -22,7 +22,7 @@ Except in a case where the Secretary determines that collection of tax is in jeo
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, the term “disputable tax” means the amount of tax specified at the time of the deposit as the taxpayer's reasonable estimate of the maximum amount of any tax attributable to disputable items.
+&emsp;&emsp;For purposes of this section, the term "disputable tax" means the amount of tax specified at the time of the deposit as the taxpayer's reasonable estimate of the maximum amount of any tax attributable to disputable items.
 
 #### (B) Safe harbor based on 30-day letter
 
@@ -34,7 +34,7 @@ Except in a case where the Secretary determines that collection of tax is in jeo
 
 #### (A) Disputable item
 
-&emsp;&emsp;The term “disputable item” means any item of income, gain, loss, deduction, or credit if the taxpayer—
+&emsp;&emsp;The term "disputable item" means any item of income, gain, loss, deduction, or credit if the taxpayer—
 
 &emsp;&emsp;&emsp;(i) has a reasonable basis for its treatment of such item, and
 
@@ -42,7 +42,7 @@ Except in a case where the Secretary determines that collection of tax is in jeo
 
 #### (B) 30-day letter
 
-&emsp;&emsp;The term “30-day letter” means the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals.
+&emsp;&emsp;The term "30-day letter" means the first letter of proposed deficiency which allows the taxpayer an opportunity for administrative review in the Internal Revenue Service Office of Appeals.
 
 #### (4) Rate of interest
 
@@ -64,11 +64,11 @@ Except in a case where the Secretary determines that collection of tax is in jeo
 
 Pub. L. 108–357, title VIII, §842(c), Oct. 22, 2004, 118 Stat. 1599, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[enacting this section\] shall apply to deposits made after the date of the enactment of this Act \[Oct. 22, 2004\].
 
-“(2)
+"(2)
 
-Coordination with deposits made under revenue procedure 84–58.—In the case of an amount held by the Secretary of the Treasury or his delegate on the date of the enactment of this Act as a deposit in the nature of a cash bond deposit pursuant to Revenue Procedure 84–58, the date that the taxpayer identifies such amount as a deposit made pursuant to section 6603 of the Internal Revenue Code (as added by this Act) shall be treated as the date such amount is deposited for purposes of such section 6603.”
+Coordination with deposits made under revenue procedure 84–58.—In the case of an amount held by the Secretary of the Treasury or his delegate on the date of the enactment of this Act as a deposit in the nature of a cash bond deposit pursuant to Revenue Procedure 84–58, the date that the taxpayer identifies such amount as a deposit made pursuant to section 6603 of the Internal Revenue Code (as added by this Act) shall be treated as the date such amount is deposited for purposes of such section 6603."
 

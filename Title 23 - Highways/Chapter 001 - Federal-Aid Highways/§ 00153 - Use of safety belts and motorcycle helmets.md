@@ -4,9 +4,9 @@
 
 Authority To Make Grants.—The Secretary may make grants to a State in a fiscal year in accordance with this section if the State has in effect in such fiscal year—
 
-&emsp;(1) a law which makes unlawful throughout the State the operation of a motorcycle if any individual on the motorcycle is not wearing a motorcycle helmet; and
+&emsp;(1) a law which makes unlawful throughout the State the operation of a motorcycle if anyindividual on the motorcycle is not wearing a motorcycle helmet; and
 
-&emsp;(2) a law which makes unlawful throughout the State the operation of a passenger vehicle whenever an individual in a front seat of the vehicle (other than a child who is secured in a child restraint system) does not have a safetybelt properly fastened about the individual's body.
+&emsp;(2) a law which makes unlawful throughout the State the operation of a passenger vehicle whenever an individual in a front seat of the vehicle (other than a child who is secured in a child restraint system) does not have a safety belt properly fastened about the individual's body.
 
 (b)
 
@@ -108,19 +108,19 @@ Definitions.—For the purposes of this section, the following definitions apply
 
 &emsp;(1)
 
-Motorcycle.—The term “motorcycle” means a motor vehicle which is designed to travel on not more than 3 wheels in contact with the surface.
+Motorcycle.—The term "motorcycle" means a motor vehicle which is designed to travel on not more than 3 wheels in contact with the surface.
 
 &emsp;(2)
 
-Motor vehicle.—The term “motor vehicle” has the meaning such term has under section 154 <sup>1</sup> of this title.
+Motor vehicle.—The term "motor vehicle" has the meaning such term has under section 154 <sup>1</sup> of this title.
 
 &emsp;(3)
 
-Passenger vehicle.—The term “passenger vehicle” means a motor vehicle which is designed for transporting 10 individuals or less, including the driver, except that such term does not include a vehicle which is constructed on a truck chassis, a motorcycle, a trailer, or any motor vehicle which is not required on the date of the enactment of this section under a Federal motor vehicle safety standard to be equipped with a belt system.
+Passenger vehicle.—The term "passenger vehicle" means a motor vehicle which is designed for transporting 10 individuals or less, including the driver, except that such term does not include a vehicle which is constructed on a truck chassis, a motorcycle, a trailer, or any motor vehicle which is not required on the date of the enactment of this section under a Federal motor vehicle safety standard to be equipped with a belt system.
 
 &emsp;(4)
 
-Safety belt.—The term “safety belt” means—
+Safety belt.—The term "safety belt" means—
 
 &emsp;&emsp;(A) with respect to open-body passenger vehicles, including convertibles, an occupant restraint system consisting of a lap belt or a lap belt and a detachable shoulder belt; and
 
@@ -144,7 +144,7 @@ The date of the enactment of this section, referred to in subsecs. (c) and (i)(3
 
 Section 104 of this title, referred to in subsec. (h)(1), was amended generally by Pub. L. 112–141, div. A, title I, §1105(a), July 6, 2012, 126 Stat. 427.
 
-Section 154 of this title, referred to in subsec. (i)(2), was repealed by Pub. L. 104–59, title II, §205(d)(1)(B), Nov. 28, 1995, 109 Stat. 577. A new section 154, containing a similar definition of “motor vehicle”, was enacted by Pub. L. 105–178, title I, §1405(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 843.
+Section 154 of this title, referred to in subsec. (i)(2), was repealed by Pub. L. 104–59, title II, §205(d)(1)(B), Nov. 28, 1995, 109 Stat. 577. A new section 154, containing a similar definition of "motor vehicle", was enacted by Pub. L. 105–178, title I, §1405(a), as added Pub. L. 105–206, title IX, §9005(a), July 22, 1998, 112 Stat. 843.
 
 #### Prior Provisions
 
@@ -152,13 +152,13 @@ A prior section 153, added Pub. L. 93–87, title II, §210(a), Aug. 13, 1973, 8
 
 #### Amendments
 
-<b>2012</b>—Subsec. (h)(1), (2). Pub. L. 112–141 redesignated par. (2) as (1), substituted “
+<b>2012</b>—Subsec. (h)(1), (2). Pub. L. 112–141 redesignated par. (2) as (1), substituted "
 
-Prior to fiscal year 2012” for “
+Prior to fiscal year 2012" for "
 
-Thereafter” in par. heading, inserted “and before October 1, 2011,” after “September 30, 1994,” in text, added par. (2), and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: “If, at any time in fiscal year 1994, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer 1½ percent of the funds apportioned to the State for fiscal year 1995 under each of subsections (b)(1), (b)(2), and (b)(3) of section 104 of this title to the apportionment of the State under section 402 of this title.”
+Thereafter" in par. heading, inserted "and before October 1, 2011," after "September 30, 1994," in text, added par. (2), and struck out former par. (1). Prior to amendment, text of par. (1) read as follows: "If, at any time in fiscal year 1994, a State does not have in effect a law described in subsection (a)(2), the Secretary shall transfer 1½ percent of the funds apportioned to the State for fiscal year 1995 under each of subsections (b)(1), (b)(2), and (b)(3) of section 104 of this title to the apportionment of the State under section 402 of this title."
 
-<b>1995</b>—Subsec. (h)(1), (2). Pub. L. 104–59 struck out “a law described in subsection (a)(1) and” after “have in effect”.
+<b>1995</b>—Subsec. (h)(1), (2). Pub. L. 104–59 struck out "a law described in subsection (a)(1) and" after "have in effect".
 
 #### Effective Date of 2012 Amendment
 
@@ -176,17 +176,17 @@ Section effective Dec. 18, 1991, and applicable to funds authorized to be approp
 
 Pub. L. 102–240, title I, §1031(b), Dec. 18, 1991, 105 Stat. 1973, provided that:
 
-“(1)
+"(1)
 
 In general.—The Secretary shall conduct a study or studies to determine the benefits of safety belt use and motorcycle helmet use for individuals involved in motor vehicle crashes and motorcycle crashes, collecting and analyzing data from regional trauma systems regarding differences in the following: the severity of injuries; acute, rehabilitative and long-term medical costs, including the sources of reimbursement and the extent to which these sources cover actual costs; government, employer, and other costs; and mortality and morbidity outcomes. The study shall cover a representative period after January 1, 1990.
 
-“(2)
+"(2)
 
 Report.—The Secretary shall make public a proposed report on the results of the study or studies conducted under this subsection, provide a period of 90 days for public comment on such report, consider such comments, and transmit to Congress a report on the results of such study or studies, together with a summary of such comments, not later than 40 months after the funds for such study are made available by the Secretary.
 
-“(3)
+"(3)
 
-Funding.—Of the amounts authorized to be appropriated for fiscal year 1992 or 1993 (or both) to carryout section 153 of title 23, United States Code, the Secretary shall make available $5,000,000 in the aggregate in such fiscal years to carry out this subsection. Such funds shall remain available until expended.”
+Funding.—Of the amounts authorized to be appropriated for fiscal year 1992 or 1993 (or both) to carry out section 153 of title 23, United States Code, the Secretary shall make available $5,000,000 in the aggregate in such fiscal years to carry out this subsection. Such funds shall remain available until expended."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

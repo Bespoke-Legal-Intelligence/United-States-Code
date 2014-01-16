@@ -18,17 +18,17 @@ It is declared to be the policy of Congress—
 
 <b>1970</b>—Subsec. (3). Pub. L. 91–292 inserted authority to establish and maintain the production research, marketing research, and development projects provided in section 608c(6)(I) of this title.
 
-<b>1965</b>—Subsec. (3). Pub. L. 89–330 inserted “such container and pack requirements provided in section 608c(6)(H) of this title”.
+<b>1965</b>—Subsec. (3). Pub. L. 89–330 inserted "such container and pack requirements provided in section 608c(6)(H) of this title".
 
 <b>1961</b>—Subsec. (5). Pub. L. 87–128 added subsec. (5).
 
 <b>1954</b>—Subsec. (4). Act Aug. 28, 1954, added subsec. (4).
 
-<b>1948</b>—Subsec. (1). Act July 3, 1948, made definition of “parity” conform to definition stated in section 1301(a)(1) of this title.
+<b>1948</b>—Subsec. (1). Act July 3, 1948, made definition of "parity" conform to definition stated in section 1301(a)(1) of this title.
 
 <b>1947</b>—Subsec. (3). Act Aug. 1, 1947, added subsec. (3).
 
-<b>1937</b>—Act June 3, 1937, inserted “orderly marketing conditions for agricultural commodities in interstate commerce as will establish” before “as the prices to farmers”.
+<b>1937</b>—Act June 3, 1937, inserted "orderly marketing conditions for agricultural commodities in interstate commerce as will establish" before "as the prices to farmers".
 
 <b>1935</b>—Subsec. (1). Act Aug. 24, 1935, ch. 641, §1, amended first sentence and act Aug. 24, 1935, ch. 641, §62, amended second and third sentences.
 

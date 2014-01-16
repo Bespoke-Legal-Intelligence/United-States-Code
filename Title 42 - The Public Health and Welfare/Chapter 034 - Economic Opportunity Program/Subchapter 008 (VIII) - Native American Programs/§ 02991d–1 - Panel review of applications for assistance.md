@@ -46,15 +46,15 @@ Another prior section 806 of Pub. L. 88–452, title VIII, as added Pub. L. 89�
 
 #### Amendments
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted “Committee on Indian Affairs” for “Select Committee on Indian Affairs”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–437 substituted "Committee on Indian Affairs" for "Select Committee on Indian Affairs".
 
-<b>1993</b>—Subsec. (a)(2). Pub. L. 103–171 substituted “Alaska” for “Alaskan”.
+<b>1993</b>—Subsec. (a)(2). Pub. L. 103–171 substituted "Alaska" for "Alaskan".
 
-<b>1992</b>—Pub. L. 102–375, §822(6), substituted “Commissioner” for “Secretary” wherever appearing.
+<b>1992</b>—Pub. L. 102–375, §822(6), substituted "Commissioner" for "Secretary" wherever appearing.
 
-Subsec. (a)(2). Pub. L. 102–375, §822(21), which directed the substitution of “Alaska Native” for “Alaskan Native”, could not be executed because the words “Alaskan Native” did not appear.
+Subsec. (a)(2). Pub. L. 102–375, §822(21), which directed the substitution of "Alaska Native" for "Alaskan Native", could not be executed because the words "Alaskan Native" did not appear.
 
-<b>1987</b>—Subsec. (a)(2). Pub. L. 100–175, §504(b)(2), which directed that par. (2) be amended by inserting “other Native American Pacific Islanders (including American Samoan Natives),” after “Hawaiian Natives,” was executed by making the insertion after “Native Hawaiians,” to reflect the probable intent of Congress.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–175, §504(b)(2), which directed that par. (2) be amended by inserting "other Native American Pacific Islanders (including American Samoan Natives)," after "Hawaiian Natives," was executed by making the insertion after "Native Hawaiians," to reflect the probable intent of Congress.
 
 #### Change of Name
 

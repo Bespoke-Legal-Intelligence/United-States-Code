@@ -2,7 +2,7 @@
 
 #### (a) Sense of Congress
 
-It is the sense of Congress that the United States should facilitate the unhindered dissemination of information in North Korea by increasing its support for radio broadcasting to North Korea, and that the Broadcasting Board of Governors should increase broadcasts toNorth Korea from current levels, with a goal of providing 12-hour-per-day broadcasting to North Korea, including broadcasts by Radio Free Asia and Voice of America.
+It is the sense of Congress that the United States should facilitate the unhindered dissemination of information in North Korea by increasing its support for radio broadcasting to North Korea, and that the Broadcasting Board of Governors should increase broadcasts to North Korea from current levels, with a goal of providing 12-hour-per-day broadcasting to North Korea, including broadcasts by Radio Free Asia and Voice of America.
 
 #### (b) Report
 

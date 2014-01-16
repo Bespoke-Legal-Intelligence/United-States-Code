@@ -2,7 +2,7 @@
 
 #### (a) Use of grants
 
-Any amounts received from grants under this section may only be used to carry out a programto provide (or contract to provide) assistance to eligible persons who are homeless or in need of housing assistance to prevent homelessness, which may include the following activities:
+Any amounts received from grants under this section may only be used to carry out a program to provide (or contract to provide) assistance to eligible persons who are homeless or in need of housing assistance to prevent homelessness, which may include the following activities:
 
 #### (1) Short-term supported housing
 
@@ -84,27 +84,27 @@ Any amounts received from grants under this section may only be used to carry ou
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–550, §606(j)(11)(C)(i), substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” in introductory provisions.
+<b>1992</b>—Subsec. (a). Pub. L. 102–550, §606(j)(11)(C)(i), substituted "eligible persons" for "individuals with acquired immunodeficiency syndrome or related diseases" in introductory provisions.
 
-Subsec. (a)(3). Pub. L. 102–550, §606(g)(1)(A), (j)(5), substituted “to eligible persons assisted under” for “to individuals assisted under” and inserted before period at end “(except that health services under this paragraph may only be provided to individuals with acquired immunodeficiency syndrome or related diseases), and providing technical assistance to eligible persons to provide assistance in gaining access to benefits and services for homeless individuals provided by the Federal Government and State and local governments”.
+Subsec. (a)(3). Pub. L. 102–550, §606(g)(1)(A), (j)(5), substituted "to eligible persons assisted under" for "to individuals assisted under" and inserted before period at end "(except that health services under this paragraph may only be provided to individuals with acquired immunodeficiency syndrome or related diseases), and providing technical assistance to eligible persons to provide assistance in gaining access to benefits and services for homeless individuals provided by the Federal Government and State and local governments".
 
 Subsec. (a)(4), (5). Pub. L. 102–550, §606(g)(1)(B), (C), added pars. (4) and (5) and struck out former pars. (4) and (5) which read as follows:
 
-“(4)
+"(4)
 
 Maintenance and administration.—Providing for maintenance, administration, security, operation, insurance, utilities, furnishings, equipment, supplies, and other incidental costs relating to any short-term supported housing provided under the demonstration program under this section.
 
-“(5)
+"(5)
 
-Technical assistance.—Providing technical assistance to such individuals to provide assistance in gaining access to benefits and services for homeless individuals provided by the Federal Government and State and local governments.”
+Technical assistance.—Providing technical assistance to such individuals to provide assistance in gaining access to benefits and services for homeless individuals provided by the Federal Government and State and local governments."
 
-Subsec. (b)(1)(A). Pub. L. 102–550, §606(j)(11)(C)(ii), substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” in introductory provisions.
+Subsec. (b)(1)(A). Pub. L. 102–550, §606(j)(11)(C)(ii), substituted "eligible persons" for "individuals with acquired immunodeficiency syndrome or related diseases" in introductory provisions.
 
-Subsec. (b)(2)(B). Pub. L. 102–550, §606(g)(2)(A)(i), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “
+Subsec. (b)(2)(B). Pub. L. 102–550, §606(g)(2)(A)(i), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "
 
-Location.—A facility for short-term supported housing assisted with amounts from a grant under this section may not be located in or contiguous to any other facility for emergency or short-term housing that is not limited to use by individuals with acquired immunodeficiency syndrome or related diseases.”
+Location.—A facility for short-term supported housing assisted with amounts from a grant under this section may not be located in or contiguous to any other facility for emergency or short-term housing that is not limited to use by individuals with acquired immunodeficiency syndrome or related diseases."
 
-Subsec. (b)(2)(C). Pub. L. 102–550, §606(g)(2)(A)(ii), (iii), substituted “limitation under subparagraph (A)” for “limitations under subparagraphs (A) and (B)” and redesignated subpar. (C) as (B).
+Subsec. (b)(2)(C). Pub. L. 102–550, §606(g)(2)(A)(ii), (iii), substituted "limitation under subparagraph (A)" for "limitations under subparagraphs (A) and (B)" and redesignated subpar. (C) as (B).
 
 Subsec. (b)(3)(C). Pub. L. 102–550, §606(g)(2)(B), added subpar. (C).
 

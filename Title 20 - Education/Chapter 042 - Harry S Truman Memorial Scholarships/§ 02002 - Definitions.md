@@ -2,23 +2,23 @@
 
 As used in this chapter, the term—
 
-&emsp;(1) “Board” means the Board of Trustees of the Harry S Truman Scholarship Foundation;
+&emsp;(1) "Board" means the Board of Trustees of the Harry S Truman Scholarship Foundation;
 
-&emsp;(2) “Foundation” means the Harry S Truman Scholarship Foundation;
+&emsp;(2) "Foundation" means the Harry S Truman Scholarship Foundation;
 
-&emsp;(3) “fund” means the Harry S Truman Memorial Scholarship Fund;
+&emsp;(3) "fund" means the Harry S Truman Memorial Scholarship Fund;
 
-&emsp;(4) “institution of higher education” means any such institution as defined by section 1001 of this title;
+&emsp;(4) "institution of higher education" means any such institution as defined by section 1001 of this title;
 
-&emsp;(5) “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and, considered as a single entity, Guam, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands; and
+&emsp;(5) "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, and, considered as a single entity, Guam, the Virgin Islands, American Samoa, and the Trust Territory of the Pacific Islands; and
 
-&emsp;(6) “Secretary” means the Secretary of the Treasury.
+&emsp;(6) "Secretary" means the Secretary of the Treasury.
 
 (Pub. L. 93–642, §3, Jan. 4, 1975, 88 Stat. 2276; Pub. L. 105–244, title I, §102(a)(6)(D), Oct. 7, 1998, 112 Stat. 1618.)
 
 #### Amendments
 
-<b>1998</b>—Par. (4). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
+<b>1998</b>—Par. (4). Pub. L. 105–244 substituted "section 1001" for "section 1141(a)".
 
 #### Effective Date of 1998 Amendment
 

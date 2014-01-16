@@ -80,7 +80,7 @@ In general.—Not later than 30 days after receiving an Inspector General report
 
 &emsp;&emsp;(B) Order the contractor or grantee to reinstate the person to the position that the person held before the reprisal, together with compensatory damages (including back pay), employment benefits, and other terms and conditions of employment that would apply to the person in that position if the reprisal had not been taken.
 
-&emsp;&emsp;(C) Order the contractor or grantee to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys’ fees and expert witnesses’ fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the executive agency.
+&emsp;&emsp;(C) Order the contractor or grantee to pay the complainant an amount equal to the aggregate amount of all costs and expenses (including attorneys' fees and expert witnesses' fees) that were reasonably incurred by the complainant for, or in connection with, bringing the complaint regarding the reprisal, as determined by the head of the executive agency.
 
 &emsp;(2)
 
@@ -96,7 +96,7 @@ Enforcement of orders.—Whenever a person fails to comply with an order issued 
 
 &emsp;(5)
 
-Judicial review.—Any person adversely affected or aggrieved by an order issued under paragraph (1) may obtain review of the order's conformance with this subsection, and any regulations issued to carry out this section, in the United States court of appeals for a circuit in which the reprisal is alleged in the order to have occurred. No petition seeking such review may be filed more than 60 days after issuance of the order by the head of the executive agency. Review shall conform to chapter 7 of title 5. Filing such an appeal shall not act to stay the enforcement of the order of the head of an executive agency, unless a stay is specifically entered by the court.
+Judicial review.—Any person adversely affected or aggrieved by an order issued under paragraph (1) may obtain review of the order'sconformance with this subsection, and any regulations issued to carry out this section, in the United States court of appeals for a circuit in which the reprisal is alleged in the order to have occurred. No petition seeking such review may be filed more than 60 days after issuance of the order by the head of the executive agency. Review shall conform to chapter 7 of title 5. Filing such an appeal shall not act to stay the enforcement of the order of the head of an executive agency, unless a stay is specifically entered by the court.
 
 &emsp;(6)
 
@@ -128,9 +128,9 @@ Exceptions.—(1) This section shall not apply to any element of the intelligenc
 
 Definitions.—In this section:
 
-&emsp;(1) The term “abuse of authority” means an arbitrary and capricious exercise of authority that is inconsistent with the mission of the executive agency concerned or the successful performance of a contract or grant of such agency.
+&emsp;(1) The term "abuse of authority" means an arbitrary and capricious exercise of authority that is inconsistent with the mission of the executive agency concerned or the successful performance of a contract or grant of such agency.
 
-&emsp;(2) The term “Inspector General” means an Inspector General appointed under the Inspector General Act of 1978 and any Inspector General that receives funding from, or has oversight over contracts or grants awarded for or on behalf of, the executive agency concerned.
+&emsp;(2) The term "Inspector General" means an Inspector General appointed under the Inspector General Act of 1978 and any Inspector General that receives funding from, or has oversight over contracts or grants awarded for or on behalf of, the executive agency concerned.
 
 (h)
 
@@ -138,9 +138,9 @@ Construction.—Nothing in this section, or the amendments made by this section,
 
 (i)
 
-Duration of Section.—This section shall be in effect for the four-year period beginning on the date of the enactment of this section.<sup>2</sup>
+Duration of Section.—This section shall be in effect for the four-year period beginning on the date of that is 180 days after the date the enactment of this section.<sup>2</sup>
 
-(Added Pub. L. 112–239, div. A, title VIII, §828(a)(1), Jan. 2, 2013, 126 Stat. 1837.)
+(Added Pub. L. 112–239, div. A, title VIII, §828(a)(1), Jan. 2, 2013, 126 Stat. 1837; amended Pub. L. 113–66, div. A, title X, §1091(e), Dec. 26, 2013, 127 Stat. 876.)
 
 #### References in Text
 
@@ -148,29 +148,33 @@ The Inspector General Act of 1978, referred to in subsec. (g)(2), is Pub. L. 95�
 
 The date of the enactment of this section, referred to in subsec. (i), is the date of the enactment of Pub. L. 112–239, which was approved Jan. 2, 2013.
 
+#### Amendments
+
+<b>2013</b>—Subsec. (i). Pub. L. 113–66 inserted "that is 180 days after the date" before "the enactment".
+
 #### Effective Date of 2013 Amendment
 
 Pub. L. 112–239, div. A, title VIII, §828(b), Jan. 2, 2013, 126 Stat. 1840, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by subsection (a) \[enacting this section\] shall take effect on the date that is 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], and shall, during the period section 4712 of title 41, United States Code, as added by such subsection, is in effect, apply to—
 
-&emsp;“(A) all contracts and grants awarded on or after such date;
+&emsp;"(A) all contracts and grants awarded on or after such date;
 
-&emsp;“(B) all task orders entered on or after such date pursuant to contracts awarded before, on, or after such date; and
+&emsp;"(B) all task orders entered on or after such date pursuant to contracts awarded before, on, or after such date; and
 
-&emsp;“(C) all contracts awarded before such date that are modified to include a contract clause providing for the applicability of such amendments.
+&emsp;"(C) all contracts awarded before such date that are modified to include a contract clause providing for the applicability of such amendments.
 
-“(2)
+"(2)
 
 Revision of federal acquisition regulation.—Not later than 180 days after the date of the enactment of this Act, the Federal Acquisition Regulation shall be revised to implement the requirements arising under the amendments made by this section \[enacting this section and amending sections 4310 and 4705 of this title\].
 
-“(3)
+"(3)
 
-Inclusion of contract clause in contracts awarded before effective date.—At the time of any major modification to a contract that was awarded before the date that is 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the head of the contracting agency shall make best efforts to include in the contract a contract clause providing for the applicability of the amendments made by this section to the contract.”
+Inclusion of contract clause in contracts awarded before effective date.—At the time of any major modification to a contract that was awarded before the date that is 180 days after the date of the enactment of this Act \[Jan. 2, 2013\], the head of the contracting agency shall make best efforts to include in the contract a contract clause providing for the applicability of the amendments made by this section to the contract."
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Compare to Effective Date of 2013 Amendment note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "date that is 180 days after the date of the enactment of this section."</i>
 

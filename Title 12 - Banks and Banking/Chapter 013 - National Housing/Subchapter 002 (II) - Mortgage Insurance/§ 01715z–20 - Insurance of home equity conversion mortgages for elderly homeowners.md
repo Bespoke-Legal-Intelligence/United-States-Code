@@ -12,15 +12,15 @@ The purpose of this section is to authorize the Secretary to carry out a program
 
 For purposes of this section:
 
-&emsp;(1) The terms “elderly homeowner” and “homeowner” mean any homeowner who is, or whose spouse is, at least 62 years of age or such higher age as the Secretary may prescribe.
+&emsp;(1) The terms "elderly homeowner" and "homeowner" mean any homeowner who is, or whose spouse is, at least 62 years of age or such higher age as the Secretary may prescribe.
 
-&emsp;(2) The terms “mortgagee”, “mortgagor”, “real estate,” <sup>1</sup> and “State” have the meanings given such terms in section 1707 of this title.
+&emsp;(2) The terms "mortgagee", "mortgagor", "real estate," <sup>1</sup> and "State" have the meanings given such terms in section 1707 of this title.
 
-&emsp;(3) The term “home equity conversion mortgage” means a first mortgage which provides for future payments to the homeowner based on accumulated equity and which a housing creditor (as defined in section 3802(2) of this title) is authorized to make (A) under any law of the United States (other than section 3803 of this title) or applicable agency regulations thereunder; (B) in accordance with section 3803 of this title, notwithstanding any State constitution, law, or regulation; or (C) under any State constitution, law, or regulation.
+&emsp;(3) The term "home equity conversion mortgage" means a first mortgage which provides for future payments to the homeowner based on accumulated equity and which a housing creditor (as defined in section 3802(2) of this title) is authorized to make (A) under any law of the United States (other than section 3803 of this title) or applicable agency regulations thereunder; (B) in accordance with section 3803 of this title, notwithstanding any State constitution, law, or regulation; or (C) under any State constitution, law, or regulation.
 
 &emsp;(4)
 
-Mortgage.—The term “mortgage” means a first mortgage or first lien on real estate, in fee simple, a first or subordinate mortgage or lien on all stock allocated to a dwelling unit in a residential cooperative housing corporation, or a first mortgage or first lien on a leasehold—
+Mortgage.—The term "mortgage" means a first mortgage or first lien on real estate, in fee simple, a first or subordinate mortgage or lien on all stock allocated to a dwelling unit in a residential cooperative housing corporation, or a first mortgage or first lien on a leasehold—
 
 &emsp;&emsp;(A) under a lease for not less than 99 years that is renewable; or
 
@@ -28,7 +28,7 @@ Mortgage.—The term “mortgage” means a first mortgage or first lien on real
 
 &emsp;(5)
 
-First mortgage.—The term “first mortgage” means such classes of first liens as are commonly given to secure advances on, or the unpaid purchase price of, real estate or a first or subordinate lien on all stock allocated to a dwelling unit in a residential cooperative housing corporation, under the laws of the State in which the real estate or dwelling unit is located, together with the credit instruments, if any, secured thereby.
+First mortgage.—The term "first mortgage" means such classes of first liens as arecommonly given to secure advances on, or the unpaid purchase price of, real estate or a first or subordinate lien on all stock allocated to a dwelling unit in a residential cooperative housing corporation, under the laws of the State in which the real estate or dwelling unit is located, together with the credit instruments, if any, secured thereby.
 
 #### (c) Insurance authority
 
@@ -102,7 +102,7 @@ The Secretary shall require each mortgagee of a mortgage insured under this sect
 
 &emsp;(1) at the time of the loan application, a written list of the names and addresses of third-party information sources who are approved by the Secretary as responsible and able to provide the information required by subsection (f) of this section;
 
-&emsp;(2) at least 10 days prior to loan closing, a statement informing the homeowner that the liability of the homeowner under the mortgage is limited and explaining the homeowner's rights, obligations, and remedies with respect to temporary absences from the home, late payments, and payment default by the lender, all conditions requiring satisfaction of the loan obligation, and any other information that the Secretary may require;
+&emsp;(2) at least 10 days prior to loan closing, a statement informing the homeowner that the liability of the homeowner under the mortgage is limited and explaining the homeowner's rights, obligations, and remedies with respect to temporary absences from the home, late payments, and payment default by thelender, all conditions requiring satisfaction of the loan obligation, and any other information that the Secretary may require;
 
 &emsp;(3) on an annual basis (but not later than January 31 of each year), a statement summarizing the total principal amount paid to the homeowner under the loan secured by the mortgage, the total amount of deferred interest added to the principal, and the outstanding loan balance at the end of the preceding year; and
 
@@ -136,9 +136,11 @@ The aggregate number of mortgages insured under this section may not exceed 275,
 
 The Secretary may—
 
-&emsp;(1) enter into such contracts and agreements with Federal, State, and local agencies, public and private entities, and such other persons as the Secretary determines to be necessary or desirable to carry out the purposes of this section; and
+&emsp;(1) enter into such contracts and agreements with Federal, State, and local agencies, public and private entities, and such other persons as the Secretary determines to be necessary or desirable to carry out the purposes of this section;
 
-&emsp;(2) make such investigations and studies of data, and publish and distribute such reports, as the Secretary determines to be appropriate.
+&emsp;(2) make such investigations and studies of data, and publish and distribute such reports, as the Secretary determines to be appropriate; and
+
+&emsp;(3) establish, by notice or mortgagee letter, any additional or alternative requirements that the Secretary, in the Secretary's discretion, determines are necessary to improve the fiscal safety and soundness of the program authorized by this section, which requirements shall take effect upon issuance.
 
 #### (i) Protection of homeowner and lender
 
@@ -148,7 +150,7 @@ The Secretary may—
 
 &emsp;(B) to obtain repayment of disbursements provided under subparagraph (A) from any source; and
 
-&emsp;(C) to provide any mortgagee under this section with funds not to exceed the limitations in subsection (g) of this section to which the mortgagee is entitled under the terms of theinsured mortgage or ancillary contracts authorized in this section.
+&emsp;(C) to provide any mortgagee under this section with funds not to exceed the limitations in subsection (g) of this section to which the mortgagee is entitled under the terms of the insured mortgage or ancillary contracts authorized in this section.
 
 (2) Actions under paragraph (1) may include—
 
@@ -164,7 +166,7 @@ The Secretary may—
 
 #### (j) Safeguard to prevent displacement of homeowner
 
-The Secretary may not insure a home equity conversion mortgage under this section unless such mortgage provides that the homeowner's obligation to satisfy the loan obligation is deferred until the homeowner's death, the sale of the home, or the occurrence of other events specified in regulations of the Secretary. For purposes of this subsection, the term “homeowner” includes the spouse of a homeowner. Section 1647(b) of title 15 and any implementing regulations issued by the Board of Governors of the Federal Reserve System shall not apply to a mortgage insured under this section.
+The Secretary may not insure a home equity conversion mortgage under this section unlesssuch mortgage provides that the homeowner's obligation to satisfy the loan obligation is deferred until the homeowner's death, the sale of the home, or the occurrence of other events specified in regulations of the Secretary. For purposes of this subsection, the term "homeowner" includes the spouse of a homeowner. Section 1647(b) of title 15 and any implementing regulations issued by the Board of Governors of the Federal Reserve System shall not apply to a mortgage insured under this section.
 
 #### (k) Insurance authority for refinancings
 
@@ -264,27 +266,29 @@ The Secretary shall establish limits on the origination fee that may be charged 
 
 &emsp;(6) be subject to a maximum origination fee of $6,000, except that such maximum limit shall be adjusted in accordance with the annual percentage increase in the Consumer Price Index of the Bureau of Labor Statistics of the Department of Labor in increments of $500 only when the percentage increase in such index, when applied to the maximum origination fee, produces dollar increases that exceed $500.
 
-(June 27, 1934, ch. 847, title II, §255, as added Pub. L. 100–242, title IV, §417(a), Feb. 5, 1988, 101 Stat. 1908; amended Pub. L. 100–628, title X, §1066, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–508, title II, §2106, Nov. 5, 1990, 104 Stat. 1388–20; Pub. L. 101–625, title III, §334(b)–(d), Nov. 28, 1990, 104 Stat. 4141, 4142; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592; Pub. L. 102–550, title V, §§503(c)(2), 520, Oct. 28, 1992, 106 Stat. 3779, 3793; Pub. L. 104–99, title IV, §406, Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–120, §6, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–276, title V, §593(a)–(e)(1), Oct. 21, 1998, 112 Stat. 2654, 2655; Pub. L. 106–569, title II, §201(a)(1), (b), (c)(1), Dec. 27, 2000, 114 Stat. 2948, 2950; Pub. L. 109–13, div. A, title VI, §6074, May 11, 2005, 119 Stat. 300; Pub. L. 109–289, div. B, §131, Sept. 29, 2006, 120 Stat. 1316; Pub. L. 110–289, div. B, title I, §§2118(b)(2), 2122(a)–(c), July 30, 2008, 122 Stat. 2835–2838; Pub. L. 111–22, div. A, title II, §206, May 20, 2009, 123 Stat. 1654.)
+(June 27, 1934, ch. 847, title II, §255, as added Pub. L. 100–242, title IV, §417(a), Feb. 5, 1988, 101 Stat. 1908; amended Pub. L. 100–628, title X, §1066, Nov. 7, 1988, 102 Stat. 3275; Pub. L. 101–508, title II, §2106, Nov. 5, 1990, 104 Stat. 1388–20; Pub. L. 101–625, title III, §334(b)–(d), Nov. 28, 1990, 104 Stat. 4141, 4142; Pub. L. 102–389, title II, Oct. 6, 1992, 106 Stat. 1592; Pub. L. 102–550, title V, §§503(c)(2), 520, Oct. 28, 1992, 106 Stat. 3779, 3793; Pub. L. 104–99, title IV, §406, Jan. 26, 1996, 110 Stat. 45; Pub. L. 104–120, §6, Mar. 28, 1996, 110 Stat. 835; Pub. L. 105–276, title V, §593(a)–(e)(1), Oct. 21, 1998, 112 Stat. 2654, 2655; Pub. L. 106–569, title II, §201(a)(1), (b), (c)(1), Dec. 27, 2000, 114 Stat. 2948, 2950; Pub. L. 109–13, div. A, title VI, §6074, May 11, 2005, 119 Stat. 300; Pub. L. 109–289, div. B, §131, Sept. 29, 2006, 120 Stat. 1316; Pub. L. 110–289, div. B, title I, §§2118(b)(2), 2122(a)–(c), July 30, 2008, 122 Stat. 2835–2838; Pub. L. 111–22, div. A, title II, §206, May 20, 2009, 123 Stat. 1654; Pub. L. 113–29, §2, Aug. 9, 2013, 127 Stat. 509.)
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b)(4)(B). Pub. L. 111–22 added subpar. (B) and struck out former subpar. (B), which read as follows: “under a lease having a period of not less than 10 years to run beyond the maturity date of the mortgage.”
+<b>2013</b>—Subsec. (h)(3). Pub. L. 113–29 added par. (3).
 
-<b>2008</b>—Subsec. (b)(2). Pub. L. 110–289, §2122(a)(1), inserted “ ‘real estate,’ ” after “ ‘mortgagor’, ”.
+<b>2009</b>—Subsec. (b)(4)(B). Pub. L. 111–22 added subpar. (B) and struck out former subpar. (B), which read as follows: "under a lease having a period of not less than 10 years to run beyond the maturity date of the mortgage."
 
-Subsec. (b)(4). Pub. L. 110–289, §2122(b)(1), in introductory provisions, inserted “a first or subordinate mortgage or lien” before “on all stock”, “unit” before “in a residential”, and “a first mortgage or first lien” before “on a leasehold”.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–289, §2122(a)(1), inserted " 'real estate,' " after " 'mortgagor', ".
 
-Subsec. (b)(5). Pub. L. 110–289, §2122(b)(2), inserted “a first or subordinate lien on” before “all stock”.
+Subsec. (b)(4). Pub. L. 110–289, §2122(b)(1), in introductory provisions, inserted "a first or subordinate mortgage or lien" before "on all stock", "unit" before "in a residential", and "a first mortgage or first lien" before "on a leasehold".
 
-Subsec. (d)(1). Pub. L. 110–289, §2122(a)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “have been made to a mortgagee approved by the Secretary as responsible and able to service the mortgage properly;”.
+Subsec. (b)(5). Pub. L. 110–289, §2122(b)(2), inserted "a first or subordinate lien on" before "all stock".
 
-Subsec. (d)(2)(B). Pub. L. 110–289, §2122(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “has received adequate counseling by a third party (other than the lender) as provided in subsection (f) of this section;”.
+Subsec. (d)(1). Pub. L. 110–289, §2122(a)(2), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "have been made to a mortgagee approved by the Secretary as responsible and able to service the mortgage properly;".
 
-Subsec. (f). Pub. L. 110–289, §2122(a)(4), substituted “Counseling services and information for mortgagors” for “Information services for mortgagors” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “The Secretary shall provide or cause to be provided by entities other than the lender the information required in subsection (d)(2)(B) of this section. Such information shall be discussed with the mortgagor and shall include—”.
+Subsec. (d)(2)(B). Pub. L. 110–289, §2122(a)(3), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "has received adequate counseling by a third party (other than the lender) as provided in subsection (f) of this section;".
 
-Subsec. (g). Pub. L. 110–289, §2122(a)(5), substituted “limitation established under section 1454(a)(2) of this title for a 1-family residence” for “established under section 1709(b)(2) of this title for 1-family residences in the area in which the dwelling subject to the mortgage under this section is located”.
+Subsec. (f). Pub. L. 110–289, §2122(a)(4), substituted "Counseling services and information for mortgagors" for "Information services for mortgagors" in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: "The Secretary shall provide or cause to be provided by entities other than the lender the information required in subsection (d)(2)(B) of this section. Such information shall be discussed with the mortgagor and shall include—".
 
-Subsec. (i)(2)(A). Pub. L. 110–289, §2118(b)(2), substituted “Mutual Mortgage Insurance Fund” for “General Insurance Fund”.
+Subsec. (g). Pub. L. 110–289, §2122(a)(5), substituted "limitation established under section 1454(a)(2) of this title for a 1-family residence" for "established under section 1709(b)(2) of this title for 1-family residences in the area in which the dwelling subject to the mortgage under this section is located".
+
+Subsec. (i)(2)(A). Pub. L. 110–289, §2118(b)(2), substituted "Mutual Mortgage Insurance Fund" for "General Insurance Fund".
 
 Subsec. (l). Pub. L. 110–289, §2122(a)(8), amended subsec. (l) generally. Prior to amendment, subsec. (l) related to funding for counseling and consumer education and outreach.
 
@@ -294,25 +298,25 @@ Subsecs. (m) to (p). Pub. L. 110–289, §2122(a)(9), added subsecs. (m) to (p).
 
 Subsec. (r). Pub. L. 110–289, §2122(c), added subsec. (r).
 
-<b>2006</b>—Subsec. (g). Pub. L. 109–289 substituted “275,000” for “250,000”.
+<b>2006</b>—Subsec. (g). Pub. L. 109–289 substituted "275,000" for "250,000".
 
-<b>2005</b>—Subsec. (g). Pub. L. 109–13 substituted “250,000” for “150,000”.
+<b>2005</b>—Subsec. (g). Pub. L. 109–13 substituted "250,000" for "150,000".
 
-<b>2000</b>—Subsec. (b)(2). Pub. L. 106–569, §201(b)(1), struck out “ ‘mortgage’,” before “ ‘mortgagee’,”.
+<b>2000</b>—Subsec. (b)(2). Pub. L. 106–569, §201(b)(1), struck out " 'mortgage'," before " 'mortgagee',".
 
 Subsec. (b)(4), (5). Pub. L. 106–569, §201(b)(2), added pars. (4) and (5).
 
 Subsecs. (k) to (m). Pub. L. 106–569, §201(a)(1), (c)(1), added subsecs. (k) and (l) and redesignated former subsec. (k) as (m).
 
-<b>1998</b>—Pub. L. 105–276, §593(d)(1), struck out “Demonstration program of” before “Insurance” in section catchline.
+<b>1998</b>—Pub. L. 105–276, §593(d)(1), struck out "Demonstration program of" before "Insurance" in section catchline.
 
-Subsec. (a). Pub. L. 105–276, §593(d)(2), (3), struck out “demonstration” before “program” in introductory provisions, inserted “and” at end of par. (1), substituted a period for “; and” at end of par. (2), and struck out par. (3) which read as follows: “to require the evaluation of data to determine—
+Subsec. (a). Pub. L. 105–276, §593(d)(2), (3), struck out "demonstration" before "program" in introductory provisions, inserted "and" at end of par. (1), substituted a period for "; and" at end of par. (2), and struck out par. (3) which read as follows: "to require the evaluation of data to determine—
 
-&emsp;“(A) the extent of the need and demand among elderly homeowners for insured and uninsured home equity conversion mortgages;
+&emsp;"(A) the extent of the need and demand among elderly homeowners for insured and uninsured home equity conversion mortgages;
 
-&emsp;“(B) the types of home equity conversion mortgages that best serve the needs and interests of elderly homeowners, the Federal Government, and lenders; and
+&emsp;"(B) the types of home equity conversion mortgages that best serve the needs and interests of elderly homeowners, the Federal Government, and lenders; and
 
-&emsp;“(C) the appropriate scope and nature of participation by the Secretary in connection with home equity conversion mortgages for elderly homeowners.”
+&emsp;"(C) the appropriate scope and nature of participation by the Secretary in connection with home equity conversion mortgages for elderly homeowners."
 
 Subsec. (d)(2)(C), (D). Pub. L. 105–276, §593(e)(1)(A), added subpar. (C) and redesignated former subpar. (C) as (D).
 
@@ -320,9 +324,9 @@ Subsec. (d)(11). Pub. L. 105–276, §593(e)(1)(B)–(D), added par. (11).
 
 Subsec. (f). Pub. L. 105–276, §593(b), inserted concluding provisions.
 
-Subsec. (g). Pub. L. 105–276, §593(a), substituted “The aggregate number of mortgages insured under this section may not exceed 150,000.” for “No mortgage may be insured under this section after September 30, 2000, except pursuant to a commitment to insure issued on or before such date. The total number of mortgages insured under this section may not exceed 50,000.”
+Subsec. (g). Pub. L. 105–276, §593(a), substituted "The aggregate number of mortgages insured under this section may not exceed 150,000." for "No mortgage may be insured under this section after September 30, 2000, except pursuant to a commitment to insure issued on or before such date. The total number of mortgages insured under this section may not exceed 50,000."
 
-Subsec. (i)(1). Pub. L. 105–276, §593(d)(2), struck out “demonstration” before “program” in introductory provisions.
+Subsec. (i)(1). Pub. L. 105–276, §593(d)(2), struck out "demonstration" before "program" in introductory provisions.
 
 Subsec. (k). Pub. L. 105–276, §593(d)(4), (5), redesignated subsec. (l) as (k) and struck out heading and text of former subsec. (k), which had required interim report not later than Sept. 30, 1989, on design and implementation of demonstration program of insurance of home equity conversion mortgages for elderly homeowners, preliminary evaluation of program incorporating comments and recommendations not later than Mar. 30, 1992, and updated report and evaluation biennially thereafter, including analysis of repayment of home equity conversion mortgages during report period.
 
@@ -330,37 +334,37 @@ Subsec. (l). Pub. L. 105–276, §593(d)(5), redesignated subsec. (l) as (k).
 
 Pub. L. 105–276, §593(c), added subsec. (l).
 
-<b>1996</b>—Subsec. (d)(3). Pub. L. 104–120, §6(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “be secured by a dwelling that is designed principally for a 1-family residence and is occupied by the mortgagor;”.
+<b>1996</b>—Subsec. (d)(3). Pub. L. 104–120, §6(c), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "be secured by a dwelling that is designed principally for a 1-family residence and is occupied by the mortgagor;".
 
-Subsec. (g). Pub. L. 104–120, §6(a), (b), substituted “2000” for “1996” and “50,000” for “30,000”.
+Subsec. (g). Pub. L. 104–120, §6(a), (b), substituted "2000" for "1996" and "50,000" for "30,000".
 
-Pub. L. 104–99 substituted “1996” for “1995” and “30,000” for “25,000”.
+Pub. L. 104–99 substituted "1996" for "1995" and "30,000" for "25,000".
 
-<b>1992</b>—Subsec. (g). Pub. L. 102–389 and Pub. L. 102–550, §503(c)(2), amended subsec. (g) identically, substituting “for 1-family residences in the area in which the dwelling subject to the mortgage under this section is located” for “for a 1-family residence”.
+<b>1992</b>—Subsec. (g). Pub. L. 102–389 and Pub. L. 102–550, §503(c)(2), amended subsec. (g) identically, substituting "for 1-family residences in the area in which the dwelling subject to the mortgage under this section is located" for "for a 1-family residence".
 
-Subsec. (j). Pub. L. 102–550, §520, inserted at end “Section 1647(b) of title 15 and any implementing regulations issued by the Board of Governors of the Federal Reserve System shall not apply to a mortgage insured under this section.”
+Subsec. (j). Pub. L. 102–550, §520, inserted at end "Section 1647(b) of title 15 and any implementing regulations issued by the Board of Governors of the Federal Reserve System shall not apply to a mortgage insured under this section."
 
-<b>1990</b>—Subsec. (d)(7)(A). Pub. L. 101–625, §334(c), added subpar. (A) and struck out former subpar. (A) which read as follows: “the foreclosure sale; or”.
+<b>1990</b>—Subsec. (d)(7)(A). Pub. L. 101–625, §334(c), added subpar. (A) and struck out former subpar. (A) which read as follows: "the foreclosure sale; or".
 
 Subsec. (d)(9), (10). Pub. L. 101–625, §334(b), added pars. (9) and (10).
 
-Subsec. (e)(2). Pub. L. 101–625, §334(d)(1), substituted “statement informing the homeowner that the liability of the homeowner under the mortgage is limited and” for “statement” and struck out “and” at end.
+Subsec. (e)(2). Pub. L. 101–625, §334(d)(1), substituted "statement informing the homeowner that the liability of the homeowner under the mortgage is limited and" for "statement" and struck out "and" at end.
 
 Subsec. (e)(4). Pub. L. 101–625, §334(d)(2), (3), added par. (4).
 
-Subsec. (g). Pub. L. 101–508, §2106, substituted “September 30, 1995” for “September 30, 1991” and “may not exceed 25,000” for “may not exceed 2,500”.
+Subsec. (g). Pub. L. 101–508, §2106, substituted "September 30, 1995" for "September 30, 1991" and "may not exceed 25,000" for "may not exceed 2,500".
 
 <b>1988</b>—Subsec. (b)(3). Pub. L. 100–628, §1066(a), made technical amendment to reference to section 3802(2) of this title to correct reference to corresponding provision of original act.
 
-Subsec. (d)(3). Pub. L. 100–628, §1066(b), struck out “and that has a value not to exceed the maximum dollar amount established by the Secretary under section 1709(b)(2) of this title for a 1-family residence” after “by the mortgagor”.
+Subsec. (d)(3). Pub. L. 100–628, §1066(b), struck out "and that has a value not to exceed the maximum dollar amount established by the Secretary under section 1709(b)(2) of this title for a 1-family residence" after "by the mortgagor".
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–569, title II, §201(c)(2), Dec. 27, 2000, 114 Stat. 2951, provided that: “The provisions of section 255(l) of the National Housing Act \[former 12 U.S.C. 1715z–20(l)\] (as added by paragraph (1) of this subsection) shall apply only to mortgages closed on or after April 1, 2001.”
+Pub. L. 106–569, title II, §201(c)(2), Dec. 27, 2000, 114 Stat. 2951, provided that: "The provisions of section 255(l) of the National Housing Act \[former 12 U.S.C. 1715z–20(l)\] (as added by paragraph (1) of this subsection) shall apply only to mortgages closed on or after April 1, 2001."
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–276, title V, §593(f), Oct. 21, 1998, 112 Stat. 2655, provided that: “This section \[amending this section and enacting provisions set out as a note below\] shall take effect on, and the amendments made by this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–276, title V, §593(f), Oct. 21, 1998, 112 Stat. 2655, provided that: "This section \[amending this section and enacting provisions set out as a note below\] shall take effect on, and the amendments made by this section are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\]."
 
 #### Effective Date of 1996 Amendment
 
@@ -368,7 +372,7 @@ Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 
 
 #### Regulations
 
-Pub. L. 106–569, title II, §201(a)(2), Dec. 27, 2000, 114 Stat. 2949, provided that: “The Secretary shall issueany final regulations necessary to implement the amendments made by paragraph (1) of this subsection \[amending this section\], which shall take effect not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 27, 2000\]. The regulations shall be issued after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section).”
+Pub. L. 106–569, title II, §201(a)(2), Dec. 27, 2000, 114 Stat. 2949, provided that: "The Secretary shall issue any final regulations necessary to implement the amendments made by paragraph (1) of this subsection \[amending this section\], which shall take effect not later than the expiration of the 180-day period beginning on the date of the enactment of this Act \[Dec. 27, 2000\]. The regulations shall be issued after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section)."
 
 Pub. L. 100–242, title IV, §417(b), Feb. 5, 1988, 101 Stat. 1912, directed Secretary of Housing and Urban Development, not later than 6 months after Feb. 5, 1988, to consult with lenders, insurers, and organizations and individuals with expertise in home equity conversion in developing proposed regulations implementing this section and not later than 9 months after Feb. 5, 1988, to issue proposed regulations implementing this section.
 
@@ -376,13 +380,13 @@ Pub. L. 100–242, title IV, §417(b), Feb. 5, 1988, 101 Stat. 1912, directed Se
 
 Pub. L. 105–276, title V, §593(e)(2), Oct. 21, 1998, 112 Stat. 2655, provided that:
 
-“(A)
+"(A)
 
-Notice.—The Secretary of Housing and Urban Development shall, by interim notice, implement the amendments made by paragraph (1) \[amending this section\] in an expeditious manner, as determined by the Secretary. Such notice shall not be effective after the date of the effectiveness of the final regulations issued under subparagraph (B) of this paragraph.
+Notice.—The Secretary of Housing and Urban Development shall, by interim notice, implement theamendments made by paragraph (1) \[amending this section\] in an expeditious manner, as determined by the Secretary. Such notice shall not be effective after the date of the effectiveness of the final regulations issued under subparagraph (B) of this paragraph.
 
-“(B)
+"(B)
 
-Regulations.—The Secretary shall, not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 21, 1998\], issue final regulations to implement the amendments made by paragraph (1). Such regulations shall be issued only after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2) and (b)(3)(B) of such section).”
+Regulations.—The Secretary shall, not later than the expiration of the 90-day period beginning on the date of the enactment of this Act \[Oct. 21, 1998\], issue final regulations to implement the amendments made by paragraph (1). Such regulations shall be issued only after notice and opportunity for public comment pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2) and (b)(3)(B) of such section)."
 
 <i><sup>1</sup></i><i> So in original. The comma probably should follow the closed quotes.</i>
 

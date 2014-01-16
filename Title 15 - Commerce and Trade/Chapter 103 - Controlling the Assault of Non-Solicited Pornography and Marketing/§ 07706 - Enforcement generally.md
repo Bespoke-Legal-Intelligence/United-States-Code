@@ -2,7 +2,7 @@
 
 #### (a) Violation is unfair or deceptive act or practice
 
-Except as provided in subsection (b), this chapter shall be enforced by the Commission asif the violation of this chapter were an unfair or deceptive act or practice proscribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
+Except as provided in subsection (b), this chapter shall be enforced by the Commission as if the violation of this chapter were an unfair or deceptive act or practice proscribed under section 18(a)(1)(B) of the Federal Trade Commission Act (15 U.S.C. 57a(a)(1)(B)).
 
 #### (b) Enforcement by certain other agencies
 
@@ -52,7 +52,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (1) Civil action
 
-&emsp;In any case in which the attorney general of a State, or an official or agency of a State, has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by any person who violates paragraph (1) or (2) of section 7704(a), who violates section 7704(d), or who engages in a pattern or practice that violates paragraph (3), (4), or (5) of section 7704(a), of this title,the attorney general, official, or agency of the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction—
+&emsp;In any case in which the attorney general of a State, or an official or agency of a State, has reason to believe that an interest of the residents of that State has been or is threatened or adversely affected by any person who violates paragraph (1) or (2) of section 7704(a), who violates section 7704(d), or who engages in a pattern or practice that violates paragraph (3), (4), or (5) of section 7704(a), of this title, the attorney general, official, or agency of the State, as parens patriae, may bring a civil action on behalf of the residents of the State in a district court of the United States of appropriate jurisdiction—
 
 &emsp;&emsp;(A) to enjoin further violation of section 7704 of this title by the defendant; or
 
@@ -144,7 +144,7 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (1) Action authorized
 
-&emsp;A provider of Internet access service adversely affected by a violation of section 7704(a)(1), (b), or (d) of this title, or a pattern or practice that violates paragraph (2), (3), (4), or (5) of section 7704(a) of this title, may bring a civil action in any district court of the United States with jurisdiction over the defendant—
+&emsp;A provider of Internet access service adversely affected by a violation of section7704(a)(1), (b), or (d) of this title, or a pattern or practice that violates paragraph (2), (3), (4), or (5) of section 7704(a) of this title, may bring a civil action in any district court of the United States with jurisdiction over the defendant—
 
 &emsp;&emsp;(A) to enjoin further violation by the defendant; or
 
@@ -154,9 +154,9 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 &emsp;&emsp;&emsp;(ii) the amount determined under paragraph (3).
 
-#### (2) Special definition of “procure”
+#### (2) Special definition of "procure"
 
-&emsp;In any action brought under paragraph (1), this chapter shall be applied as if the definition of the term “procure” in section 7702(12) of this title contained, after “behalf” the words “with actual knowledge, or by consciously avoiding knowing, whether such person is engaging, or will engage, in a pattern or practice that violates this chapter”.
+&emsp;In any action brought under paragraph (1), this chapter shall be applied as if the definition of the term "procure" in section 7702(12) of this title contained, after "behalf" the words "with actual knowledge, or by consciously avoiding knowing, whether such person is engaging, or will engage, in a pattern or practice that violates this chapter".
 
 #### (3) Statutory damages
 
@@ -190,13 +190,13 @@ Notwithstanding any other provision of this chapter, in any proceeding or action
 
 #### (4) Attorney fees
 
-&emsp;In any action brought pursuant to paragraph (1), the court may, in its discretion, require an undertaking for the payment of the costs of such action, and assess reasonable costs, including reasonable attorneys’ fees, against any party.
+&emsp;In any action brought pursuant to paragraph (1), the court may, in its discretion, require an undertaking for the payment of the costs of such action, and assess reasonable costs, including reasonable attorneys' fees, against any party.
 
 (Pub. L. 108–187, §7, Dec. 16, 2003, 117 Stat. 2711.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 108–187, Dec. 16, 2003, 117 Stat. 2699, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
 Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (b)(1)(B), are classified to subchapters I (§601 et seq.) and II (§611 et seq.), respectively, of chapter 6 of Title 12, Banks and Banking.
 

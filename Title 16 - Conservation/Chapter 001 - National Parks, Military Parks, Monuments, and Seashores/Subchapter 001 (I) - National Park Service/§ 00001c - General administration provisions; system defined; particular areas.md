@@ -1,8 +1,8 @@
 ### §1c. General administration provisions; system defined; particular areas
 
-#### (a) “National park system” defined
+#### (a) "National park system" defined
 
-The “national park system” shall include any area of land and water now or hereafter administered by the Secretary of the Interior through the National Park Service for park, monument, historic, parkway, recreational, or other purposes.
+The "national park system" shall include any area of land and water now or hereafter administered by the Secretary of the Interior through the National Park Service for park, monument, historic, parkway, recreational, or other purposes.
 
 #### (b) Specific provisions applicable to area; uniform application of sections 1b to 1d and other provisions of this title to all areas when not in conflict with specific provisions; references in other provisions to national parks, monuments, recreation areas, historic monuments, or parkways not a limitation of such other provisions to those areas
 
@@ -26,7 +26,7 @@ Act of July 15, 1968 (82 Stat. 355), referred to in subsec. (b), is Pub. L. 90�
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–383, in redefining the national park system, substituted provision for inclusion of any area of land and water now or hereafter administered by the Secretary of the Interior through the National Park Service for park, monument, historic, parkway, recreational, or other purposes for prior provision defining such system to mean all federally owned or controlled lands administered under direction of Secretary of the Interior under sections 1, 2, 3, and 4 of this title and grouped in the following descriptive categories: (1) National parks, (2) national monuments, (3) national historic parks, (4) national memorials, (5) national parkways, and (6) national capital parks.
 
-Subsec. (b). Pub. L. 91–383 substituted provisions making specific provisions applicable to an area of the national park system, for uniform application of authorities, and prohibiting construction of references in other provisions to national parks, monuments, recreation areas, historic monuments or parkways as limitation of such other provisions to those areas, for prior definition of “miscellaneous areas” as including lands under administrative jurisdiction of another Federal agency, or privately owned lands, and over which National Park Service, under direction of Secretary of the Interior, exercises supervision for recreational, historical, or other related purposes, and lands under care and custody of such Service other than those herein described.
+Subsec. (b). Pub. L. 91–383 substituted provisions making specific provisions applicable to an area of the national park system, for uniform application of authorities, and prohibiting construction of references in other provisions to national parks, monuments, recreation areas, historic monuments or parkways as limitation of such other provisions to those areas, for prior definition of "miscellaneous areas" as including lands under administrative jurisdiction of another Federal agency, or privately owned lands, and over which National Park Service, under direction of Secretary of the Interior, exercises supervision for recreational, historical, or other related purposes, and lands under care and custody of such Service other than those herein described.
 
-<i><sup>1</sup></i><i> So in original. Statutes at Large citation probably should be “79 Stat. 969”. See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original. Statutes at Large citation probably should be "79 Stat. 969". See References in Text note below.</i>
 

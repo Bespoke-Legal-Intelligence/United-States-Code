@@ -62,17 +62,17 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–278, §5(1), in first sentence, inserted “and unassociated funerary objects, sacred objects, and objects of cultural patrimony under section 80q–9a of this title” before period.
+<b>1996</b>—Subsec. (a). Pub. L. 104–278, §5(1), in first sentence, inserted "and unassociated funerary objects, sacred objects, and objects of cultural patrimony under section 80q–9a of this title" before period.
 
-Subsec. (b). Pub. L. 104–278, §5(2)(A), substituted “7 members” for “five members” in introductory provisions.
+Subsec. (b). Pub. L. 104–278, §5(2)(A), substituted "7 members" for "five members" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 104–278, §5(2)(B), substituted “4 members” for “three members” and struck out “and” at end.
+Subsec. (b)(1). Pub. L. 104–278, §5(2)(B), substituted "4 members" for "three members" and struck out "and" at end.
 
 Subsec. (b)(2), (3). Pub. L. 104–278, §5(2)(C), (D), added par. (2) and redesignated former par. (2) as (3).
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “shall so”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "shall so".</i>
 

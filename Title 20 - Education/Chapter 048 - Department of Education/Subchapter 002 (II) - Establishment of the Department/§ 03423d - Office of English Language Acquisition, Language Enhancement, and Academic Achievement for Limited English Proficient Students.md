@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There shall be, in the Department, an Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students throughwhich the Secretary shall carry out functions relating to bilingual education.
+There shall be, in the Department, an Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students through which the Secretary shall carry out functions relating to bilingual education.
 
 #### (b) Director
 
@@ -26,11 +26,11 @@ Another section 216 of Pub. L. 96–88 was renumbered section 218 and is classif
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–110, §1072(c)(2)(B), substituted “Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students” for “Office of Bilingual Education and Minority Languages Affairs” in section catchline.
+<b>2002</b>—Pub. L. 107–110, §1072(c)(2)(B), substituted "Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students" for "Office of Bilingual Education and Minority Languages Affairs" in section catchline.
 
-Subsec. (a). Pub. L. 107–110, §1072(b), substituted “Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students” for “Office of Bilingual Education and Minority Languages Affairs”.
+Subsec. (a). Pub. L. 107–110, §1072(b), substituted "Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students" for "Office of Bilingual Education and Minority Languages Affairs".
 
-Subsec. (b)(1). Pub. L. 107–110, §1072(d), substituted “Director of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students” for ‘Director of Bilingual Education and Minority Languages Affairs”.
+Subsec. (b)(1). Pub. L. 107–110, §1072(d), substituted "Director of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students" for 'Director of Bilingual Education and Minority Languages Affairs".
 
 #### Effective Date of 2002 Amendment
 

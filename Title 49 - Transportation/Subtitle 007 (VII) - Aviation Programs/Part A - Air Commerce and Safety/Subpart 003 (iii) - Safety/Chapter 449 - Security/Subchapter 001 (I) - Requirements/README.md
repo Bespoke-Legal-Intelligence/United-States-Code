@@ -31,3 +31,4 @@
 - [&sect; 44924 - Repair station security](%C2%A7%2044924%20-%20Repair%20station%20security.md)
 - [&sect; 44925 - Deployment and use of detection equipment at airport screening checkpoints](%C2%A7%2044925%20-%20Deployment%20and%20use%20of%20detection%20equipment%20at%20airport%20screening%20checkpoints.md)
 - [&sect; 44926 - Appeal and redress process for passengers wrongly delayed or prohibited from boarding a flight](%C2%A7%2044926%20-%20Appeal%20and%20redress%20process%20for%20passengers%20wrongly%20delayed%20or%20prohibited%20from%20boarding%20a%20flight.md)
+- [&sect; 44927 - Expedited screening for severely injured or disabled members of the Armed Forces and severely injured or disabled veterans](%C2%A7%2044927%20-%20Expedited%20screening%20for%20severely%20injured%20or%20disabled%20members%20of%20the%20Armed%20Forces%20and%20severely%20injured%20or%20disabled%20veterans.md)

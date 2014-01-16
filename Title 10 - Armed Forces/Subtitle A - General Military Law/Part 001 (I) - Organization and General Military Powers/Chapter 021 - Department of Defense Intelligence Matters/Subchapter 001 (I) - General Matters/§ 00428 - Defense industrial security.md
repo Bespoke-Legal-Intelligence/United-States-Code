@@ -22,7 +22,7 @@ Dedication of Resources.—The Secretary shall ensure that sufficient resources 
 
 (f)
 
-Biennial Report.—The Secretary shall report biennially to the congressional defense committees on expenditures and activities ofthe Department of Defense in carrying out the requirements of this section. The Secretary shall submit the report at or about the same time that the President's budget is submitted pursuant to section 1105(a) of title 31 in odd numbered years. The report shall be in an unclassified form (with a classified annex if necessary) and shall cover the activities of the Department of Defense in the preceding two fiscal years, including the following:
+Biennial Report.—The Secretary shall report biennially to the congressional defense committees on expenditures and activities of the Department of Defense in carrying out the requirements of this section. The Secretary shall submit the report at or about the same time that the President's budget is submitted pursuant to section 1105(a) of title 31 in odd numbered years. The report shall be in an unclassified form (with a classified annex if necessary) and shall cover the activities of the Department of Defense in the preceding two fiscal years, including the following:
 
 &emsp;(1) The workforce responsible for carrying out the requirements of this section, including the number and experience of such workforce; training in the performance of industrial security functions; performance metrics; and resulting assessment of overall quality.
 
@@ -40,11 +40,11 @@ Biennial Report.—The Secretary shall report biennially to the congressional de
 
 #### References in Text
 
-Executive Order 12829, referred to in subsec. (b), is set out as a note under section 435 of Title 50, War and National Defense.
+Executive Order 12829, referred to in subsec. (b), is set out as a note under section 3161 of Title 50, War and National Defense.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (f). Pub. L. 111–383 struck out “, United States Code,” after “title 31”.
+<b>2011</b>—Subsec. (f). Pub. L. 111–383 struck out ", United States Code," after "title 31".
 
 <b>2009</b>—Pub. L. 111–84 renumbered section 438 of this title as this section.
 
@@ -52,27 +52,27 @@ Executive Order 12829, referred to in subsec. (b), is set out as a note under se
 
 Pub. L. 111–383, div. A, title VIII, §845, Jan. 7, 2011, 124 Stat. 4285, provided that:
 
-“(a)
+"(a)
 
 Requirement.—The Secretary of Defense shall develop a plan to ensure that covered entities employ and maintain policies and procedures that meet requirements under the national industrial security program. In developing the plan, the Secretary shall consider whether or not covered entities, or any category of covered entities, should be required to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures.
 
-“(b)
+"(b)
 
 Covered Entity.—A covered entity under this section is an entity—
 
-&emsp;“(1) to which the Department of Defense has granted a facility clearance; and
+&emsp;"(1) to which the Department of Defense has granted a facility clearance; and
 
-&emsp;“(2) that is not subject to foreign ownership control or influence mitigation measures.
+&emsp;"(2) that is not subject to foreign ownership control or influence mitigation measures.
 
-“(c)
+"(c)
 
 Guidance.—The Secretary of Defense shall issue guidance, including appropriate compliance mechanisms, to implement the requirement in subsection (a). To the extent determined appropriate by the Secretary, the guidance shall require covered entities, or any category of covered entities, to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures.
 
-“(d)
+"(d)
 
-Report.—Not later than 270 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the plan developed pursuant to subsection (a) and the guidance issued pursuant to subsection (c). The report shall specifically address the rationale for the Secretary's decision on whether or not to require covered entities, or any category of covered entities, to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures.”
+Report.—Not later than 270 days after the date of the enactment of this Act \[Jan. 7, 2011\], the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a report on the plan developed pursuant to subsection (a) and the guidance issued pursuant to subsection (c). The report shall specifically address the rationale for the Secretary's decision on whether or not to require covered entities, or any category of covered entities, to establish government security committees similar to those required for companies that are subject to foreign ownership control or influence mitigation measures."
 
 #### Submission of First Biennial Report
 
-Pub. L. 110–417, \[div. A\], title VIII, §845(b), Oct. 14, 2008, 122 Stat. 4542, provided that: “Notwithstanding the deadline in subsection (f) of section 438 \[now 428\] of title 10, United States Code, as added by this section, the first biennial report submitted after the date of the enactment of this Act \[Oct. 14, 2008\] pursuant to such subsection shall be submitted not later than September 1, 2009, and shall address the period from the date of the enactment of this Act to the issuance of such report.”
+Pub. L. 110–417, \[div. A\], title VIII, §845(b), Oct. 14, 2008, 122 Stat. 4542, provided that: "Notwithstandingthe deadline in subsection (f) of section 438 \[now 428\] of title 10, United States Code, as added by this section, the first biennial report submitted after the date of the enactment of this Act \[Oct. 14, 2008\] pursuant to such subsection shall be submitted not later than September 1, 2009, and shall address the period from the date of the enactment of this Act to the issuance of such report."
 

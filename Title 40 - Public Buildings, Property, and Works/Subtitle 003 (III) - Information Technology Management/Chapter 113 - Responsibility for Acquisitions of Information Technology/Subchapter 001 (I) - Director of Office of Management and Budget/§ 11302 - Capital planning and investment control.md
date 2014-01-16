@@ -72,41 +72,41 @@ Pub. L. 104–106, div. E, title LI, §5112, Feb. 10, 1996, 110 Stat. 680.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–458, §8401(1), inserted “security,” after “use,”.
+<b>2004</b>—Subsec. (b). Pub. L. 108–458, §8401(1), inserted "security," after "use,".
 
-Subsec. (c)(1). Pub. L. 108–458, §8401(2), inserted “, including information security risks,” after “evaluating the risks” and “costs, benefits, and risks”.
+Subsec. (c)(1). Pub. L. 108–458, §8401(2), inserted ", including information security risks," after "evaluating the risks" and "costs, benefits, and risks".
 
 #### Appropriate Use of Requirements Regarding Experience and Education of Contractor Personnel in the Procurement of Information Technology Services
 
 Pub. L. 106–398, §1 \[\[div. A\], title VIII, §813\], Oct. 30, 2000, 114 Stat. 1654, 1654A–214, provided that:
 
-“(a)
+"(a)
 
 Amendment of the Federal Acquisition Regulation.—Not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\], the Federal Acquisition Regulation issued in accordance with sections 6 and 25 of the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 405 and 421) \[see 41 U.S.C. 1121, 1303\] shall be amended to address the use, in the procurement of information technology services, of requirements regarding the experience and education of contractor personnel.
 
-“(b)
+"(b)
 
 Content of Amendment.—The amendment issued pursuant to subsection (a) shall, at a minimum, provide that solicitations for the procurement of information technology services shall not set forth any minimum experience or educational requirement for proposed contractor personnel in order for a bidder to be eligible for award of a contract unless—
 
-&emsp;“(1) the contracting officer first determines that the needs of the executive agency cannot be met without any such requirement; or
+&emsp;"(1) the contracting officer first determines that the needs of the executive agency cannot be met without any such requirement; or
 
-&emsp;“(2) the needs of the executive agency require the use of a type of contract other than a performance-based contract.
+&emsp;"(2) the needs of the executive agency require the use of a type of contract other than a performance-based contract.
 
-“(c)
+"(c)
 
 GAO Report.—Not later than one year after the date on which the regulations required by subsection (a) are published in the Federal Register, the Comptroller General shall submit to Congress an evaluation of—
 
-&emsp;“(1) executive agency compliance with the regulations; and
+&emsp;"(1) executive agency compliance with the regulations; and
 
-&emsp;“(2) conformance of the regulations with existing law, together with any recommendations that the Comptroller General considers appropriate.
+&emsp;"(2) conformance of the regulations with existing law, together with any recommendations that the Comptroller General considers appropriate.
 
-“(d)
+"(d)
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘executive agency’ has the meaning given that term in section 4(1) of the Office of Federal Procurement Policy Act (former 41 U.S.C. 403(1)) \[now 41 U.S.C. 133\].
+&emsp;"(1) The term 'executive agency' has the meaning given that term in section 4(1) of the Office of Federal Procurement Policy Act (former 41 U.S.C. 403(1)) \[now 41 U.S.C. 133\].
 
-&emsp;“(2) The term ‘information technology’ has the meaning given that term in section 5002(3) of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401(3)) \[now 40 U.S.C. 11101(6)\].
+&emsp;"(2) The term 'information technology' has the meaning given that term in section 5002(3) of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401(3)) \[now 40 U.S.C. 11101(6)\].
 
-&emsp;“(3) The term ‘performance-based’, with respect to a contract, means that the contract includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes.”
+&emsp;"(3) The term 'performance-based', with respect to a contract, means that the contract includes the use of performance work statements that set forth contract requirements in clear, specific, and objective terms with measurable outcomes."
 

@@ -86,7 +86,7 @@ States may, at the Governor's discretion, use funds from grants under this secti
 
 #### (j) Authorization
 
-(1) There is authorized to be appropriated for grant assistance under this section an amount not to exceed $10,000,000 for each of fiscal years 1989, 1990, and 1991.
+(1) There is authorized to be appropriated for grant assistance under this section an amountnot to exceed $10,000,000 for each of fiscal years 1989, 1990, and 1991.
 
 (2) There is authorized to be appropriated for the purpose of administering the grant program under this section such sums as may be necessary for each of such fiscal years.
 
@@ -100,5 +100,5 @@ States may, at the Governor's discretion, use funds from grants under this secti
 
 #### Federal Share of Cost
 
-Pub. L. 109–54, title II, Aug. 2, 2005, 119 Stat. 531, provided in part that: “Beginning in fiscal year 2006 and thereafter, and notwithstanding section 306 of the Toxic Substances Control Act \[15 U.S.C. 2666\], the Federal share of the cost of radon program activities implemented with Federal assistance under section 306 shall not exceed 60 percent in the third and subsequent grant years.”
+Pub. L. 109–54, title II, Aug. 2, 2005, 119 Stat. 531, provided in part that: "Beginning in fiscal year 2006 and thereafter, and notwithstanding section 306 of the Toxic Substances Control Act \[15 U.S.C. 2666\], the Federal share of the cost of radon program activities implemented with Federal assistance under section 306 shall not exceed 60 percent in the third and subsequent grant years."
 

@@ -30,7 +30,7 @@ In any action under subsection (a), if the court finds on the basis of clear and
 
 #### (c) Definitions
 
-For purposes of this section, the terms “section 501(c)(3) organization” and “political expenditures” have the respective meanings given to such terms by section 4955.
+For purposes of this section, the terms "section 501(c)(3) organization" and "political expenditures" have the respective meanings given to such terms by section 4955.
 
 (Added Pub. L. 100–203, title X, §10713(a)(1), Dec. 22, 1987, 101 Stat. 1330–468.)
 

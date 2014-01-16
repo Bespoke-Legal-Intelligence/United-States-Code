@@ -4,7 +4,7 @@
 
 #### (1) Requirement
 
-&emsp;The packaging of any toy or game intended for use by children who are at least 3 years old but not older than 6 years (or such other upper age limit as the Commission may determine, which may not be less than 5 years old), any descriptive material which accompanies such toy or game, and, in the case of bulk sales ofsuch toy or game when unpackaged, any bin, container for retail display, or vending machine from which the unpackaged toy or game is dispensed shall bear or contain the cautionary statement described in paragraph (2) if the toy or game—
+&emsp;The packaging of any toy or game intended for use by children who are at least 3 years old but not older than 6 years (or such other upper age limit as the Commission may determine, which may not be less than 5 years old), any descriptive material which accompanies such toy or game, and, in the case of bulk sales of such toy or game when unpackaged, any bin, container for retail display, or vending machine from which the unpackaged toy or game is dispensed shall bear or contain the cautionary statement described in paragraph (2) if the toy or game—
 
 &emsp;&emsp;(A) is manufactured for sale, offered for sale, or distributed in commerce in the United States, and
 
@@ -94,9 +94,9 @@
 
 &emsp;&emsp;In this subsection:
 
-&emsp;&emsp;&emsp;(i) The terms “manufacturer”, “distributor”, and “private labeler” have the meaning given those terms in section 2052 of this title.
+&emsp;&emsp;&emsp;(i) The terms "manufacturer", "distributor", and "private labeler" have the meaning given those terms in section 2052 of this title.
 
-&emsp;&emsp;&emsp;(ii) The term “retailer” has the meaning given that term in section 2052 of this title, but does not include an individual whose selling activity is intermittent and does not constitute a trade or business.
+&emsp;&emsp;&emsp;(ii) The term "retailer" has the meaning given that term in section 2052 of this title, but does not include an individual whose selling activity is intermittent and does not constitute a trade or business.
 
 #### (2) Effective date
 
@@ -140,7 +140,7 @@
 
 [Image not captured: t151278g.gif]
 
-&emsp;(ii) In the case of a product to which subsection (b)(2)(A) of this section applies, thestatement specified by this subparagraph is as follows:
+&emsp;(ii) In the case of a product to which subsection (b)(2)(A) of this section applies, the statement specified by this subparagraph is as follows:
 
 [Image not captured: t151278h.gif]
 
@@ -160,23 +160,23 @@ The Paperwork Reduction Act of 1980, referred to in subsec. (c)(3), is Pub. L. 9
 
 #### Effective Date
 
-Pub. L. 103–267, title I, §101(d), June 16, 1994, 108 Stat. 725, provided that: “Subsections (a) and (b) \[enacting this section and provisions set out as a note under section 1261 of this title\] shall take effect January 1, 1995, and section 24 of the Federal Hazardous Substances Act \[this section\] shall apply only to products entered into commerce on or after January 1, 1995.”
+Pub. L. 103–267, title I, §101(d), June 16, 1994, 108 Stat. 725, provided that: "Subsections (a) and (b) \[enacting this section and provisions set out as a note under section 1261 of this title\] shall take effect January 1, 1995, and section 24 of the Federal Hazardous Substances Act \[this section\] shall apply only to products entered into commerce on or after January 1, 1995."
 
 #### Regulations
 
-Pub. L. 103–267, title I, §101(c), June 16, 1994, 108 Stat. 725, provided that: “The Consumer Product Safety Commission (hereinafter referred to as the ‘Commission’) shall promulgate regulations, under section 553 of title 5, United States Code, for the implementation of this section \[enacting this section and provisions set out as notes under this section and section 1261 of this title\] and section 24 of the Federal Hazardous Substances Act \[this section\] by July 1, 1994, or the date that is 6 months after the date of enactment of this Act \[June 16, 1994\], whichever occurs first. Subsections (f) through (i) of section 3 of the Federal Hazardous Substances Act (15 U.S.C. 1262) shall not apply with respect to the issuance of regulations under this subsection.”
+Pub. L. 103–267, title I, §101(c), June 16, 1994, 108 Stat. 725, provided that: "The Consumer Product Safety Commission (hereinafter referred to as the 'Commission') shall promulgate regulations, under section 553 of title 5, United States Code, for the implementation of this section \[enacting this section and provisions set out as notes under this section and section 1261 of this title\] and section 24 of the Federal Hazardous Substances Act \[this section\] by July 1, 1994, or the date that is 6 months after the date of enactment of this Act \[June 16, 1994\], whichever occurs first. Subsections (f) through (i) of section 3 of the Federal Hazardous Substances Act (15 U.S.C. 1262) shall not apply with respect to the issuance of regulations under this subsection."
 
 #### Preemption
 
 Pub. L. 103–267, title I, §101(e), June 16, 1994, 108 Stat. 725, provided that:
 
-“(1)
+"(1)
 
 In general.—Subject to paragraph (2), a State or political subdivision of a State may not establish or enforce a requirement relating to cautionary labeling of small parts hazards or choking hazards in any toy, game, marble, small ball, or balloon intended or suitable for use by children unless such requirement is identical to a requirement established by amendments made by this section to the Federal Hazardous Substances Act \[enacting this section\] or by regulations promulgated by the Commission.
 
-“(2)
+"(2)
 
-Exception.—A State or political subdivision of a State may, until January 1, 1995, enforce a requirement described in paragraph (1) if such requirement was in effect on October 2, 1993.”
+Exception.—A State or political subdivision of a State may, until January 1, 1995, enforce a requirement described in paragraph (1) if such requirement was in effect on October 2, 1993."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "this section".</i>
 

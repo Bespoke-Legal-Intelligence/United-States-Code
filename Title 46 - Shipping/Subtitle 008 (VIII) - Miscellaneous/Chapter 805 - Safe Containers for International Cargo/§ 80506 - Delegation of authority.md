@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of the department in which the Coast Guard is operating maydelegate to any person, including a public or private agency or nonprofit organization, authority to grant initial approval for containers and designs and to attach safety approval plates.
+In General.—The Secretary of the department in which the Coast Guard is operating may delegate to any person, including a public or private agency or nonprofit organization, authority to grant initial approval for containers and designs and to attach safety approval plates.
 
 (b)
 
@@ -60,9 +60,9 @@ Pub. L. 95–208, §4(c)(2), (d), Dec. 13, 1977, 91 Stat. 1477.
 
 Subsections (a) and (f) are substituted for 46 App. U.S.C. 1503(c)(2) and (d) (1st sentence) to improve the organization of the section.
 
-In subsection (b)(1), the words “person to whom authority is to be delegated” are substituted for “person, public or private agency, or nonprofit organization as a recipient of delegated functions under such subsection” to eliminate unnecessary words.
+In subsection (b)(1), the words "person to whom authority is to be delegated" are substituted for "person, public or private agency, or nonprofit organization as a recipient of delegated functions under such subsection" to eliminate unnecessary words.
 
-Subsection (b)(2) is substituted for “the manner in which such recipient shall carry out such delegated functions, including the records such recipient must keep, and a detailed description of the exact functions such recipient may exercise” to eliminate unnecessary words.
+Subsection (b)(2) is substituted for "the manner in which such recipient shall carry out such delegated functions, including the records such recipient must keep, and a detailed description of the exact functions such recipient may exercise" to eliminate unnecessary words.
 
 Subsections (c)–(e) are substituted for 46 App. U.S.C. 1503(d) (last par.) to improve the organization of the section and to eliminate unnecessary words.
 

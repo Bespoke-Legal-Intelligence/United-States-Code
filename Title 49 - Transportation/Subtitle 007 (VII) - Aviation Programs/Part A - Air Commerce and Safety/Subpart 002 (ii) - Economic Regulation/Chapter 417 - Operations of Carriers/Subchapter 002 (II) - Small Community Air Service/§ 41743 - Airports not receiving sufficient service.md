@@ -44,7 +44,7 @@ Priorities.—The Secretary shall give priority to communities or consortia of c
 
 &emsp;&emsp;(B) the community or consortium will provide a portion of the cost of the activity to be assisted under the program from local sources other than airport revenues;
 
-&emsp;&emsp;(C) the community or consortium has established, or will establish, a public-privatepartnership to facilitate air carrier service to the public;
+&emsp;&emsp;(C) the community or consortium has established, or will establish, a public-private partnership to facilitate air carrier service to the public;
 
 &emsp;&emsp;(D) the assistance will provide material benefits to a broad segment of the travelling public, including business, educational institutions, and other enterprises, whose access to the national air transportation system is limited;
 
@@ -60,7 +60,7 @@ Types of Assistance.—The Secretary may use amounts made available under this s
 
 &emsp;(2) to provide assistance to an underserved airport to obtain service to and from the underserved airport; and
 
-&emsp;(3) to provide assistance to an underserved airport to implement such other measures as the Secretary, in consultation with such airport, considers appropriate to improve air service both in terms of the cost of such service to consumers and the availability of such service, including improving air service through marketing and promotion of air service and enhanced utilization of airport facilities.
+&emsp;(3) to provide assistance to an underserved airport to implement such other measures as the Secretary, in consultation with such airport, considers appropriate to improve air service both in terms of the cost of such service to consumers and the availability of suchservice, including improving air service through marketing and promotion of air service and enhanced utilization of airport facilities.
 
 (e)
 
@@ -104,35 +104,35 @@ Air Service Development Zone.—The Secretary shall designate an airport in the 
 
 Subsec. (e)(2). Pub. L. 112–95, §429(b), amended par. (2) generally. Prior to amendment, par. (2) provided for authorization of appropriations for fiscal years 2001 through 2011 and for the portion of fiscal year 2012 ending before Feb. 18, 2012.
 
-Pub. L. 112–91 substituted “and $2,295,082 for the portion of fiscal year 2012 ending before February 18, 2012,” for “and $2,016,393 for the portion of fiscal year 2012 ending before February 1, 2012,”.
+Pub. L. 112–91 substituted "and $2,295,082 for the portion of fiscal year 2012 ending before February 18, 2012," for "and $2,016,393 for the portion of fiscal year 2012 ending before February 1, 2012,".
 
-<b>2011</b>—Subsec. (e)(2). Pub. L. 112–30 substituted “$35,000,000 for each of fiscal years 2004 through 2011, and $2,016,393 for the portion of fiscal year 2012 ending before February 1, 2012,” for “and $35,000,000 for each of fiscal years 2004 through 2011”.
+<b>2011</b>—Subsec. (e)(2). Pub. L. 112–30 substituted "$35,000,000 for each of fiscal years 2004 through 2011, and $2,016,393 for the portion of fiscal year 2012 ending before February 1, 2012," for "and $35,000,000 for each of fiscal years 2004 through 2011".
 
-<b>2010</b>—Subsec. (e)(2). Pub. L. 111–249 substituted “2011” for “2010”.
+<b>2010</b>—Subsec. (e)(2). Pub. L. 111–249 substituted "2011" for "2010".
 
-<b>2009</b>—Subsec. (e)(2). Pub. L. 111–69 substituted “2010” for “2009”.
+<b>2009</b>—Subsec. (e)(2). Pub. L. 111–69 substituted "2010" for "2009".
 
-<b>2008</b>—Subsec. (e)(2). Pub. L. 110–330 substituted “2009” for “2008”.
+<b>2008</b>—Subsec. (e)(2). Pub. L. 110–330 substituted "2009" for "2008".
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–176, §412(1), (2), struck out “
+<b>2003</b>—Subsec. (a). Pub. L. 108–176, §412(1), (2), struck out "
 
-Pilot” before “
+Pilot" before "
 
-Program” in heading and “pilot” before “program” in text.
+Program" in heading and "pilot" before "program" in text.
 
-Subsec. (c)(1). Pub. L. 108–176, §225(b)(3)(A), struck out “(as that term is defined in section 41731(a)(5))” after “small hub airport” in introductory provisions.
+Subsec. (c)(1). Pub. L. 108–176, §225(b)(3)(A), struck out "(as that term is defined in section 41731(a)(5))" after "small hub airport" in introductory provisions.
 
-Subsec. (c)(3). Pub. L. 108–176, §412(3)(A), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “No more than four communities or consortia of communities, or a combination thereof, may be located in the same State.”
+Subsec. (c)(3). Pub. L. 108–176, §412(3)(A), added par. (3) and struck out heading and text of former par. (3). Text read as follows: "No more than four communities or consortia of communities, or a combination thereof, may be located in the same State."
 
-Subsec. (c)(4). Pub. L. 108–176, §412(3)(B), inserted at end “No community, consortia of communities, nor combination thereof may participate in the program in support of the same project more than once, but any community, consortia of communities, or combination thereof may apply, subsequent to such participation, to participate in the program in support of a different project.”
+Subsec. (c)(4). Pub. L. 108–176, §412(3)(B), inserted at end "No community, consortia of communities, nor combination thereof may participate in the program in support of the same project more than once, but any community, consortia of communities, or combination thereof may apply, subsequent to such participation, to participate in the program in support of a different project."
 
-Pub. L. 108–11 inserted before period at end “in each year for which funds are appropriated for the program”.
+Pub. L. 108–11 inserted before period at end "in each year for which funds are appropriated for the program".
 
 Subsec. (c)(5)(E). Pub. L. 108–176, §412(3)(C), added subpar. (E).
 
-Subsec. (e)(2). Pub. L. 108–176, §412(4), substituted “fiscal year 2001,” for “fiscal year 2001 and” and inserted “, and $35,000,000 for each of fiscal years 2004 through 2008” after “2003”.
+Subsec. (e)(2). Pub. L. 108–176, §412(4), substituted "fiscal year 2001," for "fiscal year 2001 and" and inserted ", and $35,000,000 for each of fiscal years 2004 through 2008" after "2003".
 
-Subsec. (f). Pub. L. 108–176, §§225(b)(3)(B), 412(5), struck out “pilot” after “Under the” and “(as defined in section 41731(a)(3))” after “large hub airports”.
+Subsec. (f). Pub. L. 108–176, §§225(b)(3)(B), 412(5), struck out "pilot" after "Under the" and "(as defined in section 41731(a)(3))" after "large hub airports".
 
 #### Effective Date of 2010 Amendment
 

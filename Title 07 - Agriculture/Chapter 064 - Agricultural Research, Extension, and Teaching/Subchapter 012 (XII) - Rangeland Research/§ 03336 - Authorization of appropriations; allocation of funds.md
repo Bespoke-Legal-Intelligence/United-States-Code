@@ -12,19 +12,19 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7141, substituted “2012” for “2007”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §7141, substituted "2012" for "2007".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171 substituted "2007" for "2002".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–185, §301(a)(16), substituted “2002” for “1997”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–185, §301(a)(16), substituted "2002" for "1997".
 
-Subsec. (b). Pub. L. 105–185, §606(e), which directed that the second sentence of subsec. (b) be amended by striking out the last sentence, was executed by striking out “The Secretary shall, whenever possible, consult with the Board in developing plans for the use of these funds.”, which is both the second and last sentence of subsec. (b), to reflect the probable intent of Congress.
+Subsec. (b). Pub. L. 105–185, §606(e), which directed that the second sentence of subsec. (b) be amended by striking out the last sentence, was executed by striking out "The Secretary shall, whenever possible, consult with the Board in developing plans for the use of these funds.", which is both the second and last sentence of subsec. (b), to reflect the probable intent of Congress.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–127 substituted “1997” for “1995”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–127 substituted "1997" for "1995".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted “for each of the fiscal years 1991 through 1995” for “annually for the period beginning October 1, 1981, and ending September 30, 1990”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–624 substituted "for each of the fiscal years 1991 through 1995" for "annually for the period beginning October 1, 1981, and ending September 30, 1990".
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–198 substituted “1990” for “1985, and thereafter such sums as may after the date of enactment of this subchapter be authorized by law for any subsequent fiscal year”.
+<b>1985</b>—Subsec. (a). Pub. L. 99–198 substituted "1990" for "1985, and thereafter such sums as may after the date of enactment of this subchapter be authorized by law for any subsequent fiscal year".
 
 #### Effective Date of 2008 Amendment
 

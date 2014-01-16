@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the heads of the appropriate agencies of the Public Health Service, shall carry out a national program for theeducation of health professionals and the public with respect to the drug diethylstilbestrol (commonly known as DES). To the extent appropriate, such national program shall use methodologies developed through the education demonstration program carried out under section 283a–3 <sup>1</sup> of this title. In developing and carrying out the national program, the Secretary shall consult closely with representatives of nonprofit private entities that represent individuals who have been exposed to DES and that have expertise in community-based information campaigns for the public and for health care providers. The implementation of the national program shall begin during fiscal year 1999.
+The Secretary, acting through the heads of the appropriate agencies of the Public Health Service, shall carry out a national program for the education of health professionals and the public with respect to the drug diethylstilbestrol (commonly known as DES). To the extent appropriate, such national program shall use methodologies developed through the education demonstration program carried out under section 283a–3 <sup>1</sup> of this title. In developing and carrying out the national program, the Secretary shall consult closely with representatives of nonprofit private entities that represent individuals who have been exposed to DES and that have expertise in community-based information campaigns for the public and for health care providers. The implementation of the national program shall begin during fiscal year 1999.
 
 #### (b) Authorization of appropriations
 
@@ -12,7 +12,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### References in Text
 
-Section 283a–3 of this title, referred to in subsec. (a), was in the original “section 403C”, and was translated as meaning section 403D of act July 1, 1944, ch. 373, as renumbered section 403C by section 104(a)(1) of Pub. L. 109–482 and then section 403D by section 1104(4) of Pub. L. 110–85. Another section 403C of act July 1, 1944, ch. 373, as added by section 104(a)(3) of Pub. L. 109–482, is classified to section 283a–2 of this title.
+Section 283a–3 of this title, referred to in subsec. (a), was in the original "section 403C", and was translated as meaning section 403D of act July 1, 1944, ch. 373, as renumbered section 403C by section 104(a)(1) of Pub. L. 109–482 and then section 403D by section 1104(4) of Pub. L. 110–85. Another section 403C of act July 1, 1944, ch. 373, as added by section 104(a)(3) of Pub. L. 109–482, is classified to section 283a–2 of this title.
 
 #### Prior Provisions
 
@@ -20,7 +20,7 @@ A prior section 300u–9, act July 1, 1944, ch. 373, title XVII, §1710, as adde
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 109–482 substituted “section 283a–3” for “section 283a”.
+<b>2007</b>—Subsec. (a). Pub. L. 109–482 substituted "section 283a–3" for "section 283a".
 
 #### Effective Date of 2007 Amendment
 

@@ -38,7 +38,7 @@
 
 &emsp;(e) the period of time during which such interception is authorized, including a statement as to whether or not the interception shall automatically terminate when the described communication has been first obtained.
 
-> An order authorizing the interception of a wire, oral, or electronic communication under this chapter shall, upon request of the applicant, direct that a provider of wire or electronic communication service, landlord, custodian or other person shall furnish the applicant forthwith all information, facilities, and technical assistance necessary to accomplish the interception unobtrusively and with a minimum of interference with the services that such service provider, landlord, custodian, or person is according the person whose communications are to be intercepted. Any provider of wire or electronic communication service, landlord, custodian or other person furnishing such facilities or technical assistance shall be compensated therefor by the applicant for reasonable expenses incurred in providing such facilities or assistance. Pursuant to section 2522 of this chapter, an order may alsobe issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act.
+> An order authorizing the interception of a wire, oral, or electronic communication under this chapter shall, upon request of the applicant, direct that a provider of wire or electronic communication service, landlord, custodian or other person shall furnish the applicant forthwith all information, facilities, and technical assistance necessary to accomplish the interception unobtrusively and with a minimum of interference with the services that such service provider, landlord, custodian, or person is according the person whose communications are to be intercepted. Any provider of wire or electronic communication service, landlord, custodian or other person furnishing such facilities or technical assistance shall be compensated therefor by the applicant for reasonable expenses incurred in providing such facilities or assistance. Pursuant to section 2522 of this chapter, an order may also be issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act.
 
 (5) No order entered under this section may authorize or approve the interception of any wire, oral, or electronic communication for any period longer than is necessary to achieve the objective of the authorization, nor in any event longer than thirty days. Such thirty-day period begins on the earlier of the day on which the investigative or law enforcement officer first begins to conduct an interception under the order or ten days after the order is entered. Extensions of an order may be granted, but only upon application for an extension made in accordance with subsection (1) of this section and the court making the findings required by subsection (3) of this section. The period of extension shall be no longer than the authorizing judge deems necessary to achieve the purposes for which it was granted and in no event for longer than thirty days. Every order and extension thereof shall contain a provision that the authorization to intercept shall be executed as soon as practicable, shall be conducted in such a way as to minimize the interception of communications not otherwise subject to interception under this chapter, and must terminate upon attainment of the authorized objective, or in any event in thirty days. In the event the intercepted communication is in a code or foreign language, and an expert in that foreign language or code is not reasonably available during the interception period, minimization may be accomplished as soon as practicable after such interception. An interception under this chapter may be conducted in whole or in part by Government personnel, or by an individual operating under a contract with the Government, acting under the supervision of an investigative or law enforcement officer authorized to conduct the interception.
 
@@ -110,7 +110,7 @@
 
 &emsp;&emsp;(iii) the judge finds that such showing has been adequately made; and
 
-&emsp;&emsp;(iv) the order authorizing or approving the interception is limited to interception only for such time as it is reasonable to presume that the person identified in the application is or was reasonably proximate to the instrument through which such communication will be or was transmitted.
+&emsp;&emsp;(iv) the order authorizing or approving the interception is limited to interception onlyfor such time as it is reasonable to presume that the person identified in the application is or was reasonably proximate to the instrument through which such communication will be or was transmitted.
 
 (12) An interception of a communication under an order with respect to which the requirements of subsections (1)(b)(ii) and (3)(d) of this section do not apply by reason of subsection (11)(a) shall not begin until the place where the communication is to be intercepted is ascertained by the person implementing the interception order. A provider of wire or electronic communications service that has received an order as provided for in subsection (11)(b) may move the court to modify or quash the order on the ground that its assistance with respect to the interception cannot be performed in a timely or reasonable fashion. The court, upon notice to the government, shall decide such a motion expeditiously.
 
@@ -122,49 +122,49 @@ The Communications Assistance for Law Enforcement Act, referred to in par. (4), 
 
 #### Amendments
 
-<b>1998</b>—Par. (11)(b)(ii). Pub. L. 105–272, §604(a)(1), substituted “that there is probable cause to believe that the person's actions could have the effect of thwarting interception from a specified facility;” for “of a purpose, on the part of that person, to thwart interception by changing facilities; and”.
+<b>1998</b>—Par. (11)(b)(ii). Pub. L. 105–272, §604(a)(1), substituted "that there is probable cause to believe that the person's actions could have the effect of thwarting interception from a specified facility;" for "of a purpose, on the part of that person, to thwart interception by changing facilities; and".
 
-Par. (11)(b)(iii). Pub. L. 105–272, §604(a)(2), substituted “such showing has been adequately made; and” for “such purpose has been adequately shown.”
+Par. (11)(b)(iii). Pub. L. 105–272, §604(a)(2), substituted "such showing has been adequately made; and" for "such purpose has been adequately shown."
 
 Par. (11)(b)(iv). Pub. L. 105–272, §604(a)(3), added cl. (iv).
 
-Par. (12). Pub. L. 105–272, §604(b), substituted “by reason of subsection (11)(a)” for “by reason of subsection (11)”, struck out “the facilities from which, or” after “shall not begin until”, and struck out comma after “the place where”.
+Par. (12). Pub. L. 105–272, §604(b), substituted "by reason of subsection (11)(a)" for "by reason of subsection (11)", struck out "the facilities from which, or" after "shall not begin until", and struck out comma after "the place where".
 
-<b>1994</b>—Par. (4). Pub. L. 103–414 inserted at end of concluding provisions “Pursuant to section 2522 of this chapter, an order may also be issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act.”
+<b>1994</b>—Par. (4). Pub. L. 103–414 inserted at end of concluding provisions "Pursuant to section 2522 of this chapter, an order may also be issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act."
 
-<b>1986</b>—Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
+<b>1986</b>—Pub. L. 99–508, §101(c)(1)(A), substituted "wire, oral, or electronic" for "wire or oral" in section catchline.
 
-Par. (1). Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in introductory provisions.
+Par. (1). Pub. L. 99–508, §101(c)(1)(A), substituted "wire, oral, or electronic" for "wire or oral" in introductory provisions.
 
-Par. (1)(b)(ii). Pub. L. 99–508, §106(d)(1), inserted “except as provided in subsection (11),”.
+Par. (1)(b)(ii). Pub. L. 99–508, §106(d)(1), inserted "except as provided in subsection (11),".
 
-Par. (1)(e). Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
+Par. (1)(e). Pub. L. 99–508, §101(c)(1)(A), substituted "wire, oral, or electronic" for "wire or oral".
 
-Par. (3). Pub. L. 99–508, §§101(c)(1)(A), 106(a), in introductory provisions, substituted “wire, oral, or electronic” for “wire or oral” and inserted “(and outside that jurisdiction but within the United States in the case of a mobile interception device authorized by a Federal court within such jurisdiction)”.
+Par. (3). Pub. L. 99–508, §§101(c)(1)(A), 106(a), in introductory provisions, substituted "wire, oral, or electronic" for "wire or oral" and inserted "(and outside that jurisdiction but within the United States in the case of a mobile interception device authorized by a Federal court within such jurisdiction)".
 
-Par. (3)(d). Pub. L. 99–508, §§101(c)(1)(A), 106(d)(2), inserted “except as provided in subsection (11),” and substituted “wire, oral, or electronic” for “wire or oral”.
+Par. (3)(d). Pub. L. 99–508, §§101(c)(1)(A), 106(d)(2), inserted "except as provided in subsection (11)," and substituted "wire, oral, or electronic" for "wire or oral".
 
-Par. (4). Pub. L. 99–508, §§101(c)(1)(A), (8), 106(b), substituted “wire, oral, or electronic” for “wire or oral” wherever appearing and, in closing provisions, substituted “provider of wire or electronic communication service” for “communication common carrier” wherever appearing, “such service provider” for “such carrier”, and “for reasonable expenses incurred in providing such facilities or assistance” for “at the prevailing rates”.
+Par. (4). Pub. L. 99–508, §§101(c)(1)(A), (8), 106(b), substituted "wire, oral, or electronic" for "wire or oral" wherever appearing and, in closing provisions, substituted "provider of wire or electronic communication service" for "communication common carrier" wherever appearing, "such service provider" for "such carrier", and "for reasonable expenses incurred in providing such facilities or assistance" for "at the prevailing rates".
 
-Par. (5). Pub. L. 99–508, §§101(c)(1)(A), 106(c), substituted “wire, oral, or electronic” for “wire or oral” and inserted provisions which related to beginning of thirty-day period, minimization where intercepted communication is in code or foreign language and expert in that code or foreign language is not immediately available, and conduct of interception by Government personnel or by individual operating under Government contract, acting under supervision of investigative or law enforcement officer authorized to conduct interception.
+Par. (5). Pub. L. 99–508, §§101(c)(1)(A), 106(c), substituted "wire, oral, or electronic" for "wire or oral" and inserted provisions which related to beginning of thirty-day period, minimization where intercepted communication is in code or foreign language and expert in that code or foreign language is not immediately available, and conduct of interception by Government personnel or by individual operating under Government contract, acting under supervision of investigative or law enforcement officer authorized to conduct interception.
 
-Pars. (7), (8)(a), (d)(3), (9). Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” wherever appearing.
+Pars. (7), (8)(a), (d)(3), (9). Pub. L. 99–508, §101(c)(1)(A), substituted "wire, oral, or electronic" for "wire or oral" wherever appearing.
 
 Par. (10)(c). Pub. L. 99–508, §101(e), added subpar. (c).
 
 Pars. (11), (12). Pub. L. 99–508, §106(d)(3), added pars. (11) and (12).
 
-<b>1984</b>—Par. (7). Pub. L. 98–473, §1203(a), inserted “, the Deputy Attorney General, the Associate Attorney General,” after “Attorney General” in provisions preceding subpar. (a).
+<b>1984</b>—Par. (7). Pub. L. 98–473, §1203(a), inserted ", the Deputy Attorney General, the Associate Attorney General," after "Attorney General" in provisions preceding subpar. (a).
 
 Par. (7)(a). Pub. L. 98–473, §1203(b), amended subpar. (a) generally, adding cl. (i) and designated existing provisions as cls. (ii) and (iii).
 
-<b>1978</b>—Par. (1). Pub. L. 95–511, §201(d), inserted “under this chapter” after “communication”.
+<b>1978</b>—Par. (1). Pub. L. 95–511, §201(d), inserted "under this chapter" after "communication".
 
-Par. (4). Pub. L. 95–511, §201(e), inserted “under this chapter” after “wire or oral communication” wherever appearing.
+Par. (4). Pub. L. 95–511, §201(e), inserted "under this chapter" after "wire or oral communication" wherever appearing.
 
-Par. (9). Pub. L. 95–511, §201(e), substituted “any wire or oral communication intercepted pursuant to this chapter” for “any intercepted wire or oral communication”.
+Par. (9). Pub. L. 95–511, §201(e), substituted "any wire or oral communication intercepted pursuant to this chapter" for "any intercepted wire or oral communication".
 
-Par. (10). Pub. L. 95–511, §201(g), substituted “any wire or oral communication intercepted pursuant to this chapter,” for “any intercepted wire or oral communication,”.
+Par. (10). Pub. L. 95–511, §201(g), substituted "any wire or oral communication intercepted pursuant to this chapter," for "any intercepted wire or oral communication,".
 
 <b>1970</b>—Par. (4). Pub. L. 91–358 inserted the provision that, upon the request of the applicant, an order authorizing the interception of a wire or oral communication direct that a communication common carrier, landlord, custodian, or other person furnish the applicant with all information, facilities, and technical assistance necessary to accomplish the interception unobtrusively and with a minimum of interference with the services provided.
 

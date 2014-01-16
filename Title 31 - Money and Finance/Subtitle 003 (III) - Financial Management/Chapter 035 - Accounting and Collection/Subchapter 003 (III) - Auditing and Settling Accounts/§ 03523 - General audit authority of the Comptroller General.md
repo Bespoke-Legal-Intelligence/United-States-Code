@@ -1,6 +1,6 @@
 ### §3523. General audit authority of the Comptroller General
 
-(a) Except as specifically provided by law, the Comptroller General shall audit the financial transactions of each agency. In deciding on auditing procedures and the extent to which records are to be inspected, the Comptroller General shall consider generally accepted auditing principles, including the effectiveness of accounting organizations and systems, internal audit and control, and related administrative practices of each agency.
+(a) Except as specifically provided by law, the Comptroller General shall audit the financialtransactions of each agency. In deciding on auditing procedures and the extent to which records are to be inspected, the Comptroller General shall consider generally accepted auditing principles, including the effectiveness of accounting organizations and systems, internal audit and control, and related administrative practices of each agency.
 
 (b) The Comptroller General shall audit the Architect of the Capitol at times the Comptroller General considers appropriate. Section 716 of this title applies to the Architect in conducting the audit. The Comptroller General shall report the results of the audit to Congress. Each report shall be printed as a Senate document.
 
@@ -36,17 +36,17 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, §117(c); added Aug. 20, 1964, Pub. L. 88
 
 Sept. 12, 1950, ch. 946, §117(b), 64 Stat. 837; Aug 20, 1964, Pub. L. 88–454, §105(a)(last par.), 78 Stat. 551.
 
-In the section, the words “Comptroller General” are substituted for “General Accounting Office” for consistency.
+In the section, the words "Comptroller General" are substituted for "General Accounting Office" for consistency.
 
-In subsection (a), the words “otherwise” and “including but not limited to the accounts of accountable officers” are omitted as surplus. The words “in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States” are omitted as unnecessary because of section 711 of the revised title. The words “to be followed” are omitted as surplus. The words “to which records are to be inspected” are substituted for “of examination of vouchers and other documents” for consistency in the revised title and with other titles of the United States Code.
+In subsection (a), the words "otherwise" and "including but not limited to the accounts of accountable officers" are omitted as surplus. The words "in accordance with such principles and procedures and under such rules and regulations as may be prescribed by the Comptroller General of the United States" are omitted as unnecessary because of section 711 of the revised title. The words "to be followed" are omitted as surplus. The words "to which records are to be inspected" are substituted for "of examination of vouchers and other documents" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b), the first sentence is substituted for 31:67(c)(1st sentence), and the word “Congress” is substituted for “the President of the Senate and the Speaker of the House of Representatives”, for consistency and to eliminate unnecessary words.
+In subsection (b), the first sentence is substituted for 31:67(c)(1st sentence), and the word "Congress" is substituted for "the President of the Senate and the Speaker of the House of Representatives", for consistency and to eliminate unnecessary words.
 
-In subsection (c), the words “the head of” are added for consistency.
+In subsection (c), the words "the head of" are added for consistency.
 
-In subsection (c)(1), the words “or places”, “accounts and other”, and “contracts, vouchers, and other” are omitted as surplus. The word “record” is substituted for “documents” for consistency in the revised title and with other titles of the Code. The words “under existing law” are omitted as surplus.
+In subsection (c)(1), the words "or places", "accounts and other", and "contracts, vouchers, and other" are omitted as surplus. The word "record" is substituted for "documents" for consistency in the revised title and with other titles of the Code. The words "under existing law" are omitted as surplus.
 
-In subsection (c)(2), the words “<i>Provided</i>, That” are omitted because of the restatement. The words “the accounts and records of” are omitted as surplus.
+In subsection (c)(2), the words "<i>Provided</i>, That" are omitted because of the restatement. The words "the accounts and records of" are omitted as surplus.
 
 #### Payment for Audits
 

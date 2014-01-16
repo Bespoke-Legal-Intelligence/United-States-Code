@@ -10,7 +10,7 @@ The Secretary shall develop a model electronic complaint form to be used for rep
 
 #### (c) Annual reports by the Secretary
 
-The Secretary shall submit to Congress annual reports on the system. Such reports shall include an analysis of the number and types of complaints reported in the system, geographic variations in such complaints, the timeliness of agency or plan responses to such complaints, and the resolution of such complaints.
+The Secretary shall submit to Congress annual reports on the system. Such reports shallinclude an analysis of the number and types of complaints reported in the system, geographic variations in such complaints, the timeliness of agency or plan responses to such complaints, and the resolution of such complaints.
 
 #### (d) Definitions
 
@@ -18,19 +18,19 @@ In this section:
 
 #### (1) MA–PD plan
 
-&emsp;The term “MA–PD plan” has the meaning given such term in section 1395w–151(a)(9) of this title.
+&emsp;The term "MA–PD plan" has the meaning given such term in section 1395w–151(a)(9) of this title.
 
 #### (2) Prescription drug plan
 
-&emsp;The term “prescription drug plan” has the meaning given such term in section 1395w–151(a)(14) of this title.
+&emsp;The term "prescription drug plan" has the meaning given such term in section 1395w–151(a)(14) of this title.
 
 #### (3) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Health and Human Services.
+&emsp;The term "Secretary" means the Secretary of Health and Human Services.
 
 #### (4) System
 
-&emsp;The term “system” means the plan complaint system developed and maintained under subsection (a).
+&emsp;The term "system" means the plan complaint system developed and maintained under subsection (a).
 
 (Pub. L. 111–148, title III, §3311, Mar. 23, 2010, 124 Stat. 475.)
 

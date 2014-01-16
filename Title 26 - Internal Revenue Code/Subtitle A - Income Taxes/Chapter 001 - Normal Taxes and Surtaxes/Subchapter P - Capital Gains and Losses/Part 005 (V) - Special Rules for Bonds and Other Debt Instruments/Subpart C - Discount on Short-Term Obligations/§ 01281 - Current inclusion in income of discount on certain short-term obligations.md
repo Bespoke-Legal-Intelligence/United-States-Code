@@ -38,7 +38,7 @@ In the case of any short-term obligation to which this section applies, for purp
 
 #### (B) Required accrual period
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “required accrual period” means the period—
+&emsp;&emsp;For purposes of subparagraph (A), the term "required accrual period" means the period—
 
 &emsp;&emsp;&emsp;(i) which begins with the first taxable year for which the ownership test of subparagraph (C) is met with respect to the pass-thru entity (or a predecessor), and
 
@@ -50,7 +50,7 @@ In the case of any short-term obligation to which this section applies, for purp
 
 #### (D) Pass-thru entity
 
-&emsp;&emsp;The term “pass-thru entity” means any partnership, S corporation, trust, or other pass-thru entity.
+&emsp;&emsp;The term "pass-thru entity" means any partnership, S corporation, trust, or other pass-thru entity.
 
 #### (c) Cross reference
 

@@ -12,5 +12,5 @@ Punishment provision for mandatory fine and imprisonment was rephrased in the al
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $2,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $2,000".
 

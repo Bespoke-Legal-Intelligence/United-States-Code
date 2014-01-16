@@ -21,7 +21,7 @@
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–473, title II, §§218(c), 1405(b), Oct. 12, 1984, 98 Stat. 2027, 2175, added item 3013 and substituted “Repealed” for “Orders respecting persons in custody” in item 3012.
+<b>1984</b>—Pub. L. 98–473, title II, §§218(c), 1405(b), Oct. 12, 1984, 98 Stat. 2027, 2175, added item 3013 and substituted "Repealed" for "Orders respecting persons in custody" in item 3012.
 
 <b>1964</b>—Pub. L. 88–455, §4, Aug. 20, 1964, 78 Stat. 554, added item 3006A.
 

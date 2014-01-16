@@ -56,7 +56,7 @@ The Secretary shall investigate and study the feasibility of utilizing the capab
 
 #### (5) Definition of ecological success
 
-&emsp;In this subsection, the term “ecological success” means—
+&emsp;In this subsection, the term "ecological success" means—
 
 &emsp;&emsp;(A) achieving a tenfold increase in native oyster biomass by the year 2010, from a 1994 baseline; and
 
@@ -64,7 +64,7 @@ The Secretary shall investigate and study the feasibility of utilizing the capab
 
 > In carrying out paragraph (4),<sup>1</sup> the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs.
 
-(Pub. L. 99–662, title VII, §704, Nov. 17, 1986, 100 Stat. 4157; Pub. L. 104–303, title V, §505, Oct. 12, 1996, 110 Stat. 3757; Pub. L. 106–541, title III, §342, Dec. 11, 2000, 114 Stat. 2612; Pub. L. 107–66, title I, §113, Nov. 12, 2001, 115 Stat. 496; Pub. L. 109–103, title I, §126, Nov. 19, 2005, 119 Stat. 2259; Pub. L. 110–114, title V, §5021, Nov. 8, 2007, 121 Stat. 1202.)
+(Pub. L. 99–662, title VII, §704, Nov. 17, 1986, 100 Stat. 4157; Pub. L. 104–303, title V, §505, Oct. 12, 1996, 110 Stat. 3757; Pub. L. 106–541, title III, §342, Dec. 11, 2000, 114 Stat. 2612; Pub. L. 107–66, title I, §113, Nov. 12, 2001, 115 Stat. 496; Pub. L. 109–103, title I, §126, Nov. 19, 2005, 119 Stat. 2259;Pub. L. 110–114, title V, §5021, Nov. 8, 2007, 121 Stat. 1202.)
 
 #### References in Text
 
@@ -72,25 +72,25 @@ Paragraph (4), referred to in concluding provisions of subsec. (b), meaning subs
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(1). Pub. L. 110–114, §5021(2), substituted “$50,000,000” for “$30,000,000” in second sentence and designated last sentence as par. (2).
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–114, §5021(2), substituted "$50,000,000" for "$30,000,000" in second sentence and designated last sentence as par. (2).
 
 Subsec. (b)(2). Pub. L. 110–114, §5021(2)(B), designated last sentence of par. (1) as (2) and inserted heading. Former par. (2) redesignated (4).
 
-Subsec. (b)(2)(D). Pub. L. 110–114, §5021(3), added subpar. (D) and struck out former subpar. (D) which read as follows: “the construction of reefs and related clean shell substrate for fish habitat, including manmade 3-dimensional oyster reefs, in the Chesapeake Bay and its tributaries in Maryland and Virginia if the reefs are preserved as permanent sanctuaries by the non-Federal interests, consistent with the recommendations of the scientific consensus document on Chesapeake Bay oyster restoration dated June 1999.”
+Subsec. (b)(2)(D). Pub. L. 110–114, §5021(3), added subpar. (D) and struck out former subpar. (D) which read as follows: "the construction of reefs and related clean shell substrate for fish habitat, including manmade 3-dimensional oyster reefs, in the Chesapeake Bay and its tributaries in Maryland and Virginia if the reefs are preserved as permanent sanctuaries by the non-Federal interests, consistent with the recommendations of the scientific consensus document on Chesapeake Bay oyster restoration dated June 1999."
 
 Subsec. (b)(3), (4). Pub. L. 110–114, §5021(1), (3), added par. (3) and redesignated par. (2) as (4).
 
 Subsec. (b)(5). Pub. L. 110–114, §5021(4), which directed addition of par. (5) at end of subsec. (b), was executed by adding par. (5) after par. (4) to reflect the probable intent of Congress.
 
-<b>2005</b>—Subsec. (b)(1). Pub. L. 109–103 substituted “$30,000,000” for “$20,000,000” in introductory provisions.
+<b>2005</b>—Subsec. (b)(1). Pub. L. 109–103 substituted "$30,000,000" for "$20,000,000" in introductory provisions.
 
-<b>2001</b>—Subsec. (b). Pub. L. 107–66 inserted subsec. heading, designated introductory provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and substituted par. (2) for first sentence of concluding provisions which read “The non-Federal share of the cost of any project under this section shall be 25 percent.”
+<b>2001</b>—Subsec. (b). Pub. L. 107–66 inserted subsec. heading, designated introductory provisions as par. (1), inserted par. (1) heading, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and substituted par. (2) for first sentence of concluding provisions which read "The non-Federal share of the cost of any project under this section shall be 25 percent."
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–541, §342(1), (3), substituted “$20,000,000” for “$7,000,000” in second sentence of introductory provisions and inserted at end of concluding provisions “In carrying out paragraph (4), the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs.”
+<b>2000</b>—Subsec. (b). Pub. L. 106–541, §342(1), (3), substituted "$20,000,000" for "$7,000,000" in second sentence of introductory provisions and inserted at end of concluding provisions "In carrying out paragraph (4), the Chief of Engineers may solicit participation by and the services of commercial watermen in the construction of the reefs."
 
-Subsec. (b)(4). Pub. L. 106–541, §342(2), added par. (4) and struck out former par. (4) which read as follows: “the construction of a reef for fish habitat in the Chesapeake Bay in Maryland and Virginia.”
+Subsec. (b)(4). Pub. L. 106–541, §342(2), added par. (4) and struck out former par. (4) which read as follows: "the construction of a reef for fish habitat in the Chesapeake Bay in Maryland and Virginia."
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–303 substituted “$7,000,000” for “$5,000,000” in introductory provisions and inserted “and Virginia” after “Maryland” in par. (4).
+<b>1996</b>—Subsec. (b). Pub. L. 104–303 substituted "$7,000,000" for "$5,000,000" in introductory provisions and inserted "and Virginia" after "Maryland" in par. (4).
 
 #### Termination of Reporting Requirements
 

@@ -44,7 +44,7 @@ The Attorney General at any time may revoke a bond or parole authorized under su
 
 &emsp;(A) to make available, daily (on a 24-hour basis), to Federal, State, and local authorities the investigative resources of the Service to determine whether individuals arrested by such authorities for aggravated felonies are aliens;
 
-&emsp;(B) to designate and train officers and employees of the Service to serve as a liaison to Federal, State, and local law enforcement and correctional agencies and courts with respect to the arrest, conviction, and release of any alien charged with an aggravated felony; and
+&emsp;(B) to designate and train officers and employees of the Service to serve as a liaison to Federal, State, and local law enforcement andcorrectional agencies and courts with respect to the arrest, conviction, and release of any alien charged with an aggravated felony; and
 
 &emsp;(C) which uses computer resources to maintain a current record of aliens who have been convicted of an aggravated felony, and indicates those who have been removed.
 
@@ -120,7 +120,7 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 
 #### Effective Date of 1990 Amendment
 
-Amendment by section 603(a)(12) of Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+Amendment by section 603(a)(12) of Pub. L. 101–649 applicable to individuals entering United States on orafter June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

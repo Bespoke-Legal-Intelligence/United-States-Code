@@ -40,5 +40,5 @@ The Secretary shall be reimbursed from any assessments collected by the Board fo
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(2). Pub. L. 104–127 substituted “fluid milk processors voting in the referendum;” for “all processors;”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–127 substituted "fluid milk processors voting in the referendum;" for "all processors;".
 

@@ -18,7 +18,7 @@ Not later than June 30 of each year, the Bank shall submit to the appropriate co
 
 #### (4) Purpose of all Bank transactions
 
-&emsp;A description of all Bank transactions which shall be classified according to their principal purpose, such as to correct a market failure or to provide matching support.
+&emsp;A description of all Bank transactions which shall be classified according to their principalpurpose, such as to correct a market failure or to provide matching support.
 
 #### (5) Efforts of Bank to promote export of goods and services related to renewable energy sources
 
@@ -50,11 +50,11 @@ Not later than June 30 of each year, the Bank shall submit to the appropriate co
 
 #### (b) Inclusion of additional comments
 
-The report required by subsection (a) shall include such additional comments as any memberof the Board of Directors may submit to the Board for inclusion in the report.
+The report required by subsection (a) shall include such additional comments as any member of the Board of Directors may submit to the Board for inclusion in the report.
 
 #### (c) Appropriate congressional committees
 
-The term “appropriate congressional committees” means the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
+The term "appropriate congressional committees" means the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate.
 
 (July 31, 1945, ch. 341, §8A, as added Pub. L. 109–438, §13(a), Dec. 20, 2006, 120 Stat. 3277.)
 

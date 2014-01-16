@@ -8,7 +8,7 @@ The Commission shall have authority from time to time to make, amend, and rescin
 
 #### (1) In general
 
-&emsp;In carrying out its authority under subsection (a) of this section and under section 13(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m(b)\], the Commission may recognize, as “generally accepted” for purposes of the securities laws, any accounting principles established by a standard setting body—
+&emsp;In carrying out its authority under subsection (a) of this section and under section 13(b) of the Securities Exchange Act of 1934 \[15 U.S.C. 78m(b)\], the Commission may recognize, as "generally accepted" for purposes of the securities laws, any accounting principles established by a standard setting body—
 
 &emsp;&emsp;(A) that—
 
@@ -30,11 +30,11 @@ The Commission shall have authority from time to time to make, amend, and rescin
 
 #### (c) Production of evidence
 
-For the purpose of all investigations which, in the opinion of the Commission, are necessary and proper for the enforcement of this subchapter, any member of the Commission or any officer or officers designated by it are empowered to administer oaths and affirmations, subpena witnesses, take evidence, and require the production of any books, papers, or other documents which the Commission deems relevant or material to the inquiry. Such attendance of witnesses and the production of such documentary evidence may be required from any place in the United States or any Territory at any designated place of hearing.
+For the purpose of all investigations which, in the opinion of the Commission, are necessaryand proper for the enforcement of this subchapter, any member of the Commission or any officer or officers designated by it are empowered to administer oaths and affirmations, subpena witnesses, take evidence, and require the production of any books, papers, or other documents which the Commission deems relevant or material to the inquiry. Such attendance of witnesses and the production of such documentary evidence may be required from any place in the United States or any Territory at any designated place of hearing.
 
 #### (d) Federal and State cooperation
 
-(1) The Commission is authorized to cooperate with any association composed of duly constituted representatives of State governments whose primary assignment is the regulation of the securities business within those States, and which, in the judgment of the Commission,could assist in effectuating greater uniformity in Federal-State securities matters. The Commission shall, at its discretion, cooperate, coordinate, and share information with such an association for the purposes of carrying out the policies and projects set forth in paragraphs (2) and (3).
+(1) The Commission is authorized to cooperate with any association composed of duly constituted representatives of State governments whose primary assignment is the regulation of the securities business within those States, and which, in the judgment of the Commission, could assist in effectuating greater uniformity in Federal-State securities matters. The Commission shall, at its discretion, cooperate, coordinate, and share information with such an association for the purposes of carrying out the policies and projects set forth in paragraphs (2) and (3).
 
 (2) It is the declared policy of this subsection that there should be greater Federal and State cooperation in securities matters, including—
 
@@ -64,7 +64,7 @@ For the purpose of all investigations which, in the opinion of the Commission, a
 
 &emsp;(B) any forum, agency, or organization, or group referred to in section 80c–1 of this title, while such forum, agency, organization, or group is carrying out activities in furtherance of the provisions of such section 80c–1.
 
-> As used in this paragraph, the terms “association”, “conference”, “meeting”, “forum”, “agency”, “organization”, and “group” include any committee, subgroup, or representative of such entities.
+> As used in this paragraph, the terms "association", "conference", "meeting", "forum", "agency", "organization", and "group" include any committee, subgroup, or representative of such entities.
 
 #### (e) Evaluation of rules or programs
 
@@ -86,7 +86,7 @@ For purposes of the Paperwork Reduction Act (44 U.S.C. 3501 et seq.), any action
 
 &emsp;The Commission may, subject to the limitations imposed by section 15B of the Securities Exchange Act of 1934 (15 U.S.C. 78o–4), require a national securities association registered under the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\] to establish—
 
-&emsp;&emsp;(A) a reasonable annual accounting support fee to adequately fund the annual budget of the Governmental Accounting Standards Board (referred to in this subsection as the “GASB”); and
+&emsp;&emsp;(A) a reasonable annual accounting support fee to adequately fund the annual budget of the Governmental Accounting Standards Board (referred to in this subsection as the "GASB"); and
 
 &emsp;&emsp;(B) rules and procedures, in consultation with the principal organizations representing State governors, legislators, local elected officials, and State and local finance officers, to provide for the equitable allocation, assessment, and collection of the accounting support fee established under subparagraph (A) from the members of the association, and the remittance of all such accounting support fees to the Financial Accounting Foundation.
 
@@ -96,7 +96,7 @@ For purposes of the Paperwork Reduction Act (44 U.S.C. 3501 et seq.), any action
 
 #### (3) Use of funds
 
-&emsp;Any fees or funds collected under this subsection shall be used to support the efforts of the GASB to establish standards of financial accounting and reporting recognized as generally accepted accounting principles applicableto State and local governments of the United States.
+&emsp;Any fees or funds collected under this subsection shall be used to support the efforts of the GASB to establish standards of financial accounting and reporting recognized as generally accepted accounting principles applicable to State and local governments of the United States.
 
 #### (4) Limitation on fee
 
@@ -130,7 +130,7 @@ The Securities Exchange Act of 1934, referred to in subsec. (g)(1), is act June 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(6)(A). Pub. L. 111–203, §985(a)(3), which directed substitution of “in paragraph (1) or (3)” for “in paragraph (1) of (3)”, could not be executed because the phrase “in paragraph (1) of (3)” did not appear.
+<b>2010</b>—Subsec. (d)(6)(A). Pub. L. 111–203, §985(a)(3), which directed substitution of "in paragraph (1) or (3)" for "in paragraph (1) of (3)", could not be executed because the phrase "in paragraph (1) of (3)" did not appear.
 
 Subsecs. (e), (f). Pub. L. 111–203, §912, added subsecs. (e) and (f).
 
@@ -144,7 +144,7 @@ Subsec. (g). Pub. L. 111–203, §978(a), added subsec. (g).
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–210 struck out provisions relating to rules and regulations applicable to any common carrier subject to the provisions of section 20 of title 49.
 
-<b>1934</b>—Subsec. (a). Act June 6, 1934, inserted “technical” in first sentence and inserted last sentence.
+<b>1934</b>—Subsec. (a). Act June 6, 1934, inserted "technical" in first sentence and inserted last sentence.
 
 #### Effective Date of 2010 Amendment
 

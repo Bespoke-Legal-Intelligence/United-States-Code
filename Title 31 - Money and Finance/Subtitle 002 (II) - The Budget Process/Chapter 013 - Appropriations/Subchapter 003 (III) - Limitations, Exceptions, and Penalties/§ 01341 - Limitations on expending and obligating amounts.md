@@ -36,7 +36,7 @@ R.S. §3679(a), (d)(2)(last sentence related to spending and obligations); Mar. 
 
 Aug. 23, 1912, ch. 350, §6(words after semicolon), 37 Stat. 414.
 
-In subsection (b), the words “another amount available for obligation” are substituted for “any other fund” for consistency in the revised title.
+In subsection (b), the words "another amount available for obligation" are substituted for "any other fund" for consistency in the revised title.
 
 #### References in Text
 

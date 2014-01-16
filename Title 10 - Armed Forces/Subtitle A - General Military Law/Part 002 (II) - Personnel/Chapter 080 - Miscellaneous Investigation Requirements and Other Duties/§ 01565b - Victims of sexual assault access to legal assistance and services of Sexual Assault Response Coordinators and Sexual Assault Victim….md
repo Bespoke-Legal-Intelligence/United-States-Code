@@ -4,7 +4,7 @@
 
 Availability of Legal Assistance and Victim Advocate Services.—(1) A member of the armed forces, or a dependent of a member, who is the victim of a sexual assault may be provided the following:
 
-&emsp;(A) Legal assistance provided by military or civilian legal assistance counsel pursuant to section 1044 of this title.
+&emsp;(A) Legal assistance provided by military or civilian legal assistance counsel pursuant to sections 1044 and 1044e of this title.
 
 &emsp;(B) Assistance provided by a Sexual Assault Response Coordinator.
 
@@ -26,9 +26,13 @@ Restricted Reporting.—(1) Under regulations prescribed by the Secretary of Def
 
 &emsp;(C) Healthcare personnel specifically identified in the regulations required by paragraph (1).
 
-(Added Pub. L. 112–81, div. A, title V, §581(b)(1), Dec. 31, 2011, 125 Stat. 1431.)
+(Added Pub. L. 112–81, div. A, title V, §581(b)(1), Dec. 31, 2011, 125 Stat. 1431; amended Pub. L. 113–66, div. A, title XVII, §1716(a)(3)(C), Dec. 26, 2013, 127 Stat. 969.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (a)(1)(A). Pub. L. 113–66 substituted "sections 1044 and 1044e" for "section 1044".
 
 #### Legal Assistance for Victims of Sexual Assault
 
-Pub. L. 112–81, div. A, title V, §581(a), Dec. 31, 2011, 125 Stat. 1430, provided that: “Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretaries of the military departments shall prescribe regulations on the provision of legal assistance to victims of sexual assault. Such regulations shall require that legal assistance be provided by military or civilian legal assistance counsel pursuant to section 1044 of title 10, United States Code.”
+Pub. L. 112–81, div. A, title V, §581(a), Dec. 31, 2011, 125 Stat. 1430, provided that: "Not later than 180 days after the date of the enactment of this Act \[Dec. 31, 2011\], the Secretaries of the military departments shall prescribe regulations on the provision of legal assistance to victims of sexual assault. Such regulations shall require that legal assistance be provided by military or civilian legal assistance counsel pursuant to section 1044 of title 10, United States Code."
 

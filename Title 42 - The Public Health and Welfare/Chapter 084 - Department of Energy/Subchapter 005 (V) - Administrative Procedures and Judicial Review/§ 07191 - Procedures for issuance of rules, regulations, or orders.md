@@ -10,7 +10,7 @@
 
 (1) If the Secretary determines, on his own initiative or in response to any showing made pursuant to paragraph (2) (with respect to a proposed rule, regulation, or order described in subsection (a) of this section) that no substantial issue of fact or law exists and that such rule, regulation, or order is unlikely to have a substantial impact on the Nation's economy or large numbers of individuals or businesses, such proposed rule, regulation, or order may be promulgated in accordance with section 553 of title 5. If the Secretary determines that a substantial issue of fact or law exists or that such rule, regulation, or order is likely to have a substantial impact on the Nation's economy or large numbers of individuals or businesses, an opportunity for oral presentation of views, data, and arguments shall be provided.
 
-(2) Any person, who would be adversely affected by the implementation of any proposed rule, regulation, or order who desires an opportunity for oral presentation of views, data, and arguments, may submit material supporting the existence of such substantial issues or such impact.
+(2) Any person, who would be adversely affected by the implementation of any proposed rule, regulation, or order who desires an opportunity for oral presentation of views, data, andarguments, may submit material supporting the existence of such substantial issues or such impact.
 
 (3) A transcript shall be kept of any oral presentation with respect to a rule, regulation, or order described in subsection (a) of this section.
 
@@ -32,9 +32,9 @@ The requirements of subsection (b) of this section may be waived where strict co
 
 (2) For the purposes of this subsection—
 
-&emsp;(A) the term “unit of local government” means a county, municipality, town, township, village, or other unit of general government below the State level; and
+&emsp;(A) the term "unit of local government" means a county, municipality, town, township, village, or other unit of general government below the State level; and
 
-&emsp;(B) the term “geographic area within a State” means a special purpose district or other region recognized for governmental purposes within such State which is not a unit of local government.
+&emsp;(B) the term "geographic area within a State" means a special purpose district or other region recognized for governmental purposes within such State which is not a unit of local government.
 
 (3) Nothing in this subsection shall be construed as requiring a hearing or an oral presentation of views where none is required by this section or other provision of law.
 
@@ -46,21 +46,21 @@ Where authorized by any law vested, transferred, or delegated pursuant to this c
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (e), was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) and (e), was in the original "this Act", meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
 #### Amendments
 
 <b>1997</b>—Subsec. (b). Pub. L. 105–28, §2(a)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
 
-“(1) In addition to the requirements of subsection (a) of this section, notice of any proposed rule, regulation, or order described in subsection (a) of this section shall be given by publication of such proposed rule, regulation, or order in the Federal Register. Such publication shall be accompanied by a statement of the research, analysis, and other available information in support of, the need for, and the probable effect of, any such proposed rule, regulation, or order. Other effective means of publicity shall be utilized as may be reasonably calculated to notify concerned or affected persons of the nature and probable effect of any such proposed rule, regulation, or order. In each case, a minimum of thirty days following such publication shall be provided for an opportunity to comment prior to promulgation of any such rule, regulation, or order.
+"(1) In addition to the requirements of subsection (a) of this section, notice of any proposed rule, regulation, or order described in subsection (a) of this section shall be given by publication of such proposed rule, regulation, or order in the Federal Register. Such publication shall be accompanied by a statement of the research, analysis, and other available information in support of, the need for, and the probable effect of, any such proposed rule, regulation, or order. Other effective means of publicity shall be utilized as may be reasonably calculated to notify concerned or affected persons of the nature and probable effect of any such proposed rule, regulation, or order. In each case, a minimum of thirty days following such publication shall be provided for an opportunity to comment prior to promulgation of any such rule, regulation, or order.
 
-“(2) Public notice of all rules, regulations, or orders described in subsection (a) of this section which are promulgated by officers of a State or local government agency pursuant to a delegation under this chapter shall be provided by publication of such proposed rules, regulations, or orders in at least two newspapers of statewide circulation. If such publication is not practicable, notice of any such rule, regulation, or order shall be given by such other means as the officer promulgating such rule, regulation, or order determines will reasonably assure wide public notice.
+"(2) Public notice of all rules, regulations, or orders described in subsection (a) of this section which are promulgated by officers of a State or local government agency pursuant to a delegation under this chapter shall be provided by publication of such proposed rules, regulations, or orders in at least two newspapers of statewide circulation. If such publication is not practicable, notice of any such rule, regulation, or order shall be given by such other means as the officer promulgating such rule, regulation, or order determines will reasonably assure wide public notice.
 
-“(3) For the purposes of this subchapter, the exception from the requirements of section 553 of title 5 provided by subsection (a)(2) of such section with respect to public property, loans, grants, or contracts shall not be available.”
+"(3) For the purposes of this subchapter, the exception from the requirements of section 553 of title 5 provided by subsection (a)(2) of such section with respect to public property, loans, grants, or contracts shall not be available."
 
-Subsec. (c). Pub. L. 105–28, §2(a)(2), (3), redesignated subsec. (e) as (c) and substituted “subsection (b)” for “subsections (b), (c), and (d)”. Former subsec. (c) redesignated (b).
+Subsec. (c). Pub. L. 105–28, §2(a)(2), (3), redesignated subsec. (e) as (c) and substituted "subsection (b)" for "subsections (b), (c), and (d)". Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 105–28, §2(a)(1), (2), redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: “Following the notice and comment period, including any oral presentation required by this subsection, the Secretary may promulgate a rule if the rule is accompanied by an explanation responding to the major comments, criticisms, and alternatives offered during the comment period.”
+Subsec. (d). Pub. L. 105–28, §2(a)(1), (2), redesignated subsec. (f) as (d) and struck out former subsec. (d) which read as follows: "Following the notice and comment period, including any oral presentation required by this subsection, the Secretary may promulgate a rule if the rule is accompanied by an explanation responding to the major comments, criticisms, and alternatives offered during the comment period."
 
 Subsecs. (e) to (g). Pub. L. 105–28, §2(a)(2), redesignated subsecs. (e) to (g) as (c) to (e), respectively.
 

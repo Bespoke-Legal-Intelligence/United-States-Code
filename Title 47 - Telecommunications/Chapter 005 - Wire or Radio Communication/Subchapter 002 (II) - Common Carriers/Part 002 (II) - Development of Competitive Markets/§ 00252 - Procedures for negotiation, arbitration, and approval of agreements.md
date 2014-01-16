@@ -84,7 +84,7 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 &emsp;&emsp;&emsp;(i) to preclude arrangements that afford the mutual recovery of costs through the offsetting of reciprocal obligations, including arrangements that waive mutual recovery (such as bill-and-keep arrangements); or
 
-&emsp;&emsp;&emsp;(ii) to authorize the Commission or any State commission to engage in any rate regulation proceeding to establish with particularity the additional costs of transporting or terminating calls, or to require carriers to maintain records with respect to the additional costs of such calls.
+&emsp;&emsp;&emsp;(ii) to authorize the Commission or any State commission to engage in any rateregulation proceeding to establish with particularity the additional costs of transporting or terminating calls, or to require carriers to maintain records with respect to the additional costs of such calls.
 
 #### (3) Wholesale prices for telecommunications services
 
@@ -94,7 +94,7 @@ In resolving by arbitration under subsection (b) of this section any open issues
 
 #### (1) Approval required
 
-&emsp;Any interconnection agreement adopted by negotiation or arbitration shall be submittedfor approval to the State commission. A State commission to which an agreement is submitted shall approve or reject the agreement, with written findings as to any deficiencies.
+&emsp;Any interconnection agreement adopted by negotiation or arbitration shall be submitted for approval to the State commission. A State commission to which an agreement is submitted shall approve or reject the agreement, with written findings as to any deficiencies.
 
 #### (2) Grounds for rejection
 
@@ -162,13 +162,13 @@ A State commission shall make a copy of each agreement approved under subsection
 
 A local exchange carrier shall make available any interconnection, service, or network element provided under an agreement approved under this section to which it is a party to any other requesting telecommunications carrier upon the same terms and conditions as those provided in the agreement.
 
-#### (j) “Incumbent local exchange carrier” defined
+#### (j) "Incumbent local exchange carrier" defined
 
-For purposes of this section, the term “incumbent local exchange carrier” has the meaning provided in section 251(h) of this title.
+For purposes of this section, the term "incumbent local exchange carrier" has the meaning provided in section 251(h) of this title.
 
 (June 19, 1934, ch. 652, title II, §252, as added Pub. L. 104–104, title I, §101(a), Feb. 8, 1996, 110 Stat. 66.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (g), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (g), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 

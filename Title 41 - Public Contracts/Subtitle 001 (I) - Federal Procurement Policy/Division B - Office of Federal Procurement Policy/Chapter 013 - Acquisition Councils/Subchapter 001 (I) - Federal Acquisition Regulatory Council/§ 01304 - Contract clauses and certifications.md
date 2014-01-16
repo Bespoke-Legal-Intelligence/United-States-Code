@@ -30,7 +30,7 @@ Executive agency procurement regulation.—
 
 &emsp;&emsp;(A)
 
-Definition.—In subparagraph (B), the term “head of the executive agency” with respect to a military department means the Secretary of Defense.
+Definition.—In subparagraph (B), the term "head of the executive agency" with respect to a military department means the Secretary of Defense.
 
 &emsp;&emsp;(B)
 
@@ -70,19 +70,19 @@ Pub. L. 93–400, §29, as added Pub. L. 103–355, title I, §1093, Oct. 13, 19
 
 Pub. L. 104–106, div. D, title XLIII, §4301(b)(1), Feb. 10, 1996, 110 Stat. 656, provided that:
 
-“(A) Not later than 210 days after the date of the enactment of this Act \[Feb. 10, 1996\], the Administrator for Federal Procurement Policy shall issue for public comment a proposal to amend the Federal Acquisition Regulation to remove from the Federal Acquisition Regulation certification requirements for contractors and offerors that are not specifically imposed by statute. The Administrator may omit such a certification requirement from the proposal only if—
+"(A) Not later than 210 days after the date of the enactment of this Act \[Feb. 10, 1996\], the Administrator for Federal Procurement Policy shall issue for public comment a proposal to amend the Federal Acquisition Regulation to remove from the Federal Acquisition Regulation certification requirements for contractors and offerors that are not specifically imposed by statute. The Administrator may omit such a certification requirement from the proposal only if—
 
-&emsp;“(i) the Federal Acquisition Regulatory Council provides the Administrator with a written justification for the requirement and a determination that there is no less burdensome means for administering and enforcing the particular regulation that contains the certification requirement; and
+&emsp;"(i) the Federal Acquisition Regulatory Council provides the Administrator with a written justification for the requirement and a determination that there is no less burdensome means for administering and enforcing the particular regulation that contains the certification requirement; and
 
-&emsp;“(ii) the Administrator approves in writing the retention of the certification requirement.
+&emsp;"(ii) the Administrator approves in writing the retention of the certification requirement.
 
-“(B)(i) Not later than 210 days after the date of the enactment of this Act, the head of each executive agency that has agency procurement regulations containing one or more certification requirements for contractors and offerors that are not specifically imposed by statute shall issue for public comment a proposal to amend the regulations to remove the certification requirements. The head of the executive agency may omit such a certification requirement from the proposal only if—
+"(B)(i) Not later than 210 days after the date of the enactment of this Act, the head of each executive agency that has agency procurement regulations containing one or more certification requirements for contractors and offerors that are not specifically imposed by statute shall issue for public comment a proposal to amend the regulations to remove the certification requirements. The head of the executive agency may omit such a certification requirement from the proposal only if—
 
-&emsp;“(I) the senior procurement executive for the executive agency provides the head of the executive agency with a written justification for the requirement and a determination that there is no less burdensome means for administering and enforcing the particular regulation that contains the certification requirement; and
+&emsp;"(I) the senior procurement executive for the executive agency provides the head of the executive agency with a written justification for the requirement and a determination that there is no less burdensome means for administering and enforcing the particular regulation that contains the certification requirement; and
 
-&emsp;“(II) the head of the executive agency approves in writing the retention of such certification requirement.
+&emsp;"(II) the head of the executive agency approves in writing the retention of such certification requirement.
 
-“(ii) For purposes of clause (i), the term ‘head of the executive agency’ with respect to a military department means the Secretary of Defense.”
+"(ii) For purposes of clause (i), the term 'head of the executive agency' with respect to a military department means the Secretary of Defense."
 
 #### Addressing Tax Delinquency by Government Contractors
 
@@ -94,11 +94,11 @@ The Federal Government pays more than half a trillion dollars a year to contract
 
 Too often, Federal contracting officials do not have the most basic information they need to make informed judgments about whether a company trying to win a Federal contract is delinquent in paying its taxes. We need to give our contracting officials the tools they need to protect taxpayer dollars.
 
-Accordingly, I hereby direct the Commissioner of Internal Revenue (Commissioner) to direct a review of certifications of non-delinquency in taxes that companies bidding for Federal contracts are required to submit pursuant to a 2008 amendment to the Federal Acquisition Regulation. I further direct that the Commissioner report to me within 90 days on the overall accuracy of contractors’ certifications.
+Accordingly, I hereby direct the Commissioner of Internal Revenue (Commissioner) to direct a review of certifications of non-delinquency in taxes that companies bidding for Federal contracts are required to submit pursuant to a 2008 amendment to the Federal Acquisition Regulation. I further direct that the Commissioner report to me within 90 days on the overall accuracy of contractors' certifications.
 
-I also direct the Director of the Office of Management and Budget, working with the Secretary of the Treasury and other agency heads, to evaluate practices of contracting officers and debarring officials in response to contractors’ certifications of serious tax delinquencies and to provide me, within 90 days, recommendations on process improvements to ensure these contractors are not awarded new contracts, including a plan to make contractor certifications available in a Government-wide database, as is already being done with other information on contractors.
+I also direct the Director of the Office of Management and Budget, working with the Secretary of the Treasury and other agency heads, to evaluate practices of contracting officers and debarring officials in response to contractors' certifications of serious tax delinquencies and to provide me, within 90 days, recommendations on process improvements to ensure these contractors are not awarded new contracts, including a plan to make contractor certifications available in a Government-wide database, as is already being done with other information on contractors.
 
-Executive departments and agencies shall carry out the provisions of this memorandum to the extent permitted by law. This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+Executive departments and agencies shall carry out the provisions of this memorandum to the extent permitted by law. This memorandum is not intended to,and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
 
 The Director of the Office of Management and Budget is hereby authorized and directed to publish this memorandum in the Federal Register.
 

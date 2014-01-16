@@ -76,7 +76,7 @@ Participation Requirements.—An eligible place for which compensation or assist
 
 (f)
 
-Subsequent Participation.—A unit of local government participating in the program under this subsection (a) in a fiscal year shall not be prohibited from participating in the basic essential air service program under this subchapter in a subsequent fiscal year if such unit is otherwise eligible to participate in such program.
+Subsequent Participation.—A unit of local government participating in the program under this subsection (a) in a fiscal year shall not beprohibited from participating in the basic essential air service program under this subchapter in a subsequent fiscal year if such unit is otherwise eligible to participate in such program.
 
 (g)
 

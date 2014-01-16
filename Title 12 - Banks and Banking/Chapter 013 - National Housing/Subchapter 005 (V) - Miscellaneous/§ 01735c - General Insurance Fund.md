@@ -18,7 +18,7 @@ The general expenses of the operations of the Department of Housing and Urban De
 
 #### (c) Deposit or investment of moneys; purchase of debentures
 
-Moneys in the General Insurance Fund not needed for the current operations of the Department of Housing and Urban Development with respect to mortgages and loans which are the obligation of the General Insurance Fund shall be deposited with the Treasurer of the United States to the credit of such Fund, or invested in bonds or other obligations of, or in bonds or other obligations guaranteed as to principal and interest by, the United States or any agency of the United States: <i>Provided</i>, That such moneys shall to the maximum extent feasible be invested in such bonds or other obligations the proceeds of which will be used to directly support the residential mortgage market. The Secretary may, with the approval of the Secretary of the Treasury, purchase in the open market debentures issued as obligations of the General Insurance Fund or issued prior to August 10, 1965, under other provisions of this chapter, except debentures issued under the Mutual Mortgage Insurance Fund. Such purchases shall be made at a price which will provide an investment yield of not less than the yield obtainable from other investments authorized by this section. Debentures so purchased shall be canceled and not reissued.
+Moneys in the General Insurance Fund not needed for the current operations of the Department of Housing and Urban Development with respect to mortgages and loans which are the obligation of the General Insurance Fund shall be deposited with the Treasurer of the UnitedStates to the credit of such Fund, or invested in bonds or other obligations of, or in bonds or other obligations guaranteed as to principal and interest by, the United States or any agency of the United States: <i>Provided</i>, That such moneys shall to the maximum extent feasible be invested in such bonds or other obligations the proceeds of which will be used to directly support the residential mortgage market. The Secretary may, with the approval of the Secretary of the Treasury, purchase in the open market debentures issued as obligations of the General Insurance Fund or issued prior to August 10, 1965, under other provisions of this chapter, except debentures issued under the Mutual Mortgage Insurance Fund. Such purchases shall be made at a price which will provide an investment yield of not less than the yield obtainable from other investments authorized by this section. Debentures so purchased shall be canceled and not reissued.
 
 #### (d) Credits and charges to Fund
 
@@ -40,27 +40,27 @@ Section 1715z–2 of this title, referred to in subsec. (e), was repealed by Pub
 
 #### Amendments
 
-<b>2008</b>—Subsec. (e). Pub. L. 110–289 substituted “1709 of this title, except as determined by the Secretary” for “1709(b) (except as provided in section 1709(v)), (h), and (i) of this title”.
+<b>2008</b>—Subsec. (e). Pub. L. 110–289 substituted "1709 of this title, except as determined by the Secretary" for "1709(b) (except as provided in section 1709(v)), (h), and (i) of this title".
 
-<b>1994</b>—Subsec. (f). Pub. L. 103–233, §105(b), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “There are authorized to be appropriated such sums as may be necessary to cover losses sustained by the General Insurance Fund.”
+<b>1994</b>—Subsec. (f). Pub. L. 103–233, §105(b), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: "There are authorized to be appropriated such sums as may be necessary to cover losses sustained by the General Insurance Fund."
 
 Subsec. (g). Pub. L. 103–233, §105(b)(2), redesignated subsec. (g) as (f).
 
 Pub. L. 103–233, §103(g)(2), added subsec. (g).
 
-<b>1992</b>—Subsec. (e). Pub. L. 102–550 inserted “(except as provided in section 1709(v))” after “1709(b)”.
+<b>1992</b>—Subsec. (e). Pub. L. 102–550 inserted "(except as provided in section 1709(v))" after "1709(b)".
 
-<b>1983</b>—Subsec. (f). Pub. L. 98–181 inserted “such sums as may be necessary” after “appropriated”, and struck out “not to exceed $1,738,000,000, which amount shall be increased by $126,673,000 on October 1, 1981” after “Insurance Fund”.
+<b>1983</b>—Subsec. (f). Pub. L. 98–181 inserted "such sums as may be necessary" after "appropriated", and struck out "not to exceed $1,738,000,000, which amount shall be increased by $126,673,000 on October 1, 1981" after "Insurance Fund".
 
 <b>1981</b>—Subsec. (f). Pub. L. 97–35 inserted provision increasing authorization on Oct. 1, 1981.
 
-<b>1980</b>—Subsec. (f). Pub. L. 96–399 substituted “$1,738,000,000” for “$1,341,000,000, which amount shall be increased by $165,000,000 on October 1, 1978, which shall be increased by not to exceed $93,000,000 on October 1, 1979”.
+<b>1980</b>—Subsec. (f). Pub. L. 96–399 substituted "$1,738,000,000" for "$1,341,000,000, which amount shall be increased by $165,000,000 on October 1, 1978, which shall be increased by not to exceed $93,000,000 on October 1, 1979".
 
 <b>1979</b>—Subsec. (f). Pub. L. 96–153 provided for an increase of $93,000,000 on October 1, 1979.
 
-<b>1978</b>—Subsec. (f). Pub. L. 95–557 inserted “which amount shall be increased by $165,000,000 on October 1, 1978”.
+<b>1978</b>—Subsec. (f). Pub. L. 95–557 inserted "which amount shall be increased by $165,000,000 on October 1, 1978".
 
-<b>1977</b>—Subsec. (f). Pub. L. 95–24 substituted “$1,341,000,000” for “$500,000,000”.
+<b>1977</b>—Subsec. (f). Pub. L. 95–24 substituted "$1,341,000,000" for "$500,000,000".
 
 <b>1976</b>—Subsec. (f). Pub. L. 94–375 added subsec. (f).
 
@@ -68,7 +68,7 @@ Pub. L. 103–233, §103(g)(2), added subsec. (g).
 
 <b>1968</b>—Subsec. (e). Pub. L. 90–448 prohibited use of Fund for carrying out provisions of sections 1715n(e), 1715x(a)(2), 1715z, 1715z–1 and 1715z–2 of this title.
 
-<b>1967</b>—Pub. L. 90–19 substituted “Department of Housing and Urban Development” for “Federal Housing Administration” wherever appearing in subsecs. (b) and (c) of this section and “Secretary” for “Commissioner” in subsecs. (a), (c), and (d) of this section, respectively.
+<b>1967</b>—Pub. L. 90–19 substituted "Department of Housing and Urban Development" for "Federal Housing Administration" wherever appearing in subsecs. (b) and (c) of this section and "Secretary" for "Commissioner" in subsecs. (a), (c), and (d) of this section, respectively.
 
 #### Effective Date of 1981 Amendment
 

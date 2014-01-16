@@ -14,7 +14,7 @@ Assessment Process.—The Secretary of Defense shall ensure that technology and 
 
 &emsp;(3) identify technological and industrial capabilities and processes for which there is potential for the national industrial and technology base not to be able to support the achievement of national security objectives; and
 
-&emsp;(4) consider the effects of the termination of major defense acquisition programs (as theterm is defined in section 2430 of this title) or major automated information system programs (as defined in section 2445a of this title) in the previous fiscal year on the sectors and capabilities in the assessment.
+&emsp;(4) consider the effects of the termination of major defense acquisition programs (as the term is defined in section 2430 of this title) or major automated information system programs (as defined in section 2445a of this title) in the previous fiscal year on the sectors and capabilities in the assessment.
 
 (c)
 
@@ -48,17 +48,17 @@ A prior section 2505 was renumbered section 2532 of this title.
 
 <b>2013</b>—Subsecs. (d), (e). Pub. L. 112–239 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>2011</b>—Subsec. (b)(4). Pub. L. 111–383 inserted “or major automated information system programs (as defined in section 2445a of this title)” after “section 2430 of this title)”.
+<b>2011</b>—Subsec. (b)(4). Pub. L. 111–383 inserted "or major automated information system programs (as defined in section 2445a of this title)" after "section 2430 of this title)".
 
 <b>2009</b>—Subsec. (b)(4). Pub. L. 111–23 added par. (4).
 
 <b>1996</b>—Pub. L. 104–201 reenacted section catchline without change and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d) providing for National Defense Technology and Industrial Base Council to prepare, at least annually through fiscal year 1997 and biennially thereafter, a comprehensive assessment of capability of the national technology and industrial base to attain national security objectives.
 
-<b>1993</b>—Pub. L. 103–35 substituted “capability” for “capabilty” in section catchline.
+<b>1993</b>—Pub. L. 103–35 substituted "capability" for "capabilty" in section catchline.
 
 #### Study of Beryllium Industrial Base
 
-Pub. L. 108–136, div. A, title VIII, §824, Nov. 24, 2003, 117 Stat. 1547, required the Secretary of Defense to conduct a study of the adequacy of the industrial base of the United States to meet defense requirements of the United States for beryllium and to submit a report on the results of the study to Congress not later than Mar. 31, 2005.
+Pub. L. 108–136, div. A, title VIII, §824, Nov. 24, 2003, 117 Stat. 1547, required the Secretary of Defense to conduct a study of the adequacy of the industrial base of the United States to meet defense requirements of theUnited States for beryllium and to submit a report on the results of the study to Congress not later than Mar. 31, 2005.
 
 #### Implementing Regulations Concerning National Technology and Industrial Base Periodic Assessment
 

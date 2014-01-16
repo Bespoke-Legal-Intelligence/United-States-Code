@@ -6,19 +6,19 @@ In this section:
 
 #### (1) Agency with rural responsibilities
 
-&emsp;The term “agency with rural responsibilities” means any executive agency (as defined in section 105 of title 5) that implements a Federal law, or administers a program, targeted at or having a significant impact on rural areas.
+&emsp;The term "agency with rural responsibilities" means any executive agency (as defined in section 105 of title 5) that implements a Federal law, or administers a program, targeted at or having a significant impact on rural areas.
 
 #### (2) Coordinating Committee
 
-&emsp;The term “Coordinating Committee” means the National Rural Development Coordinating Committee established by subsection (c) of this section.
+&emsp;The term "Coordinating Committee" means the National Rural Development Coordinating Committee established by subsection (c) of this section.
 
 #### (3) Partnership
 
-&emsp;The term “Partnership” means the National Rural Development Partnership continued by subsection (b) of this section.
+&emsp;The term "Partnership" means the National Rural Development Partnership continued by subsection (b) of this section.
 
 #### (4) State rural development council
 
-&emsp;The term “State rural development council” means a State rural development council that meets the requirements of subsection (d) of this section.
+&emsp;The term "State rural development council" means a State rural development council that meets the requirements of subsection (d) of this section.
 
 #### (b) Partnership
 
@@ -132,7 +132,7 @@ In this section:
 
 &emsp;A State rural development council shall—
 
-&emsp;&emsp;(A) facilitate collaboration among Federal, State, local, and tribal governments and the private and nonprofit sectors in the planning and implementation of programs and policies that have an impact on rural areas of the State;
+&emsp;&emsp;(A) facilitate collaboration among Federal, State, local, and tribal governments and the private and nonprofit sectors in the planning and implementation of programsand policies that have an impact on rural areas of the State;
 
 &emsp;&emsp;(B) monitor, report, and comment on policies and programs that address, or fail to address, the needs of the rural areas of the State;
 
@@ -170,7 +170,7 @@ In this section:
 
 #### (3) Intermediaries
 
-&emsp;The Secretary may enter into a contract with a qualified intermediary under which the intermediary shall be responsible for providing administrative and technical assistance to aState rural development council, including administering the financial assistance available to the State rural development council.
+&emsp;The Secretary may enter into a contract with a qualified intermediary under which the intermediary shall be responsible for providing administrative and technical assistance to a State rural development council, including administering the financial assistance available to the State rural development council.
 
 #### (f) Matching requirements for State rural development councils
 
@@ -224,9 +224,9 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (g)(1). Pub. L. 110–246, §6019(1), substituted “2008 through 2012” for “2003 through 2007”.
+<b>2008</b>—Subsec. (g)(1). Pub. L. 110–246, §6019(1), substituted "2008 through 2012" for "2003 through 2007".
 
-Subsec. (h). Pub. L. 110–246, §6019(2), substituted “September 30, 2012” for “the date that is 5 years after May 13, 2002”.
+Subsec. (h). Pub. L. 110–246, §6019(2), substituted "September 30, 2012" for "the date that is 5 years after May 13, 2002".
 
 #### Effective Date of 2008 Amendment
 

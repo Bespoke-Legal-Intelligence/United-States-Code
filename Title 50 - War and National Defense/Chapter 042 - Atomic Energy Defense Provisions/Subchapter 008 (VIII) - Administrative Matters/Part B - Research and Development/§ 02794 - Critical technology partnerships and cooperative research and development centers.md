@@ -6,7 +6,7 @@ For the purpose of facilitating the transfer of technology, the Secretary of Ene
 
 #### (b) Cooperative research and development centers
 
-(1) Subject to the availability of appropriations provided for such purpose, the Administrator for Nuclear Security shall establish a cooperative research and development center described in paragraph (2) at each national security laboratory.
+(1) Subject to the availability of appropriations provided for such purpose, the Administrator shall establish a cooperative research and development center described in paragraph (2) at each national security laboratory.
 
 (2) A cooperative research and development center described in this paragraph is a center to foster collaborative scientific research, technology development, and the appropriate transfer of research and technology to users in addition to the national security laboratories.
 
@@ -20,25 +20,17 @@ For the purpose of facilitating the transfer of technology, the Secretary of Ene
 
 In this section:
 
-&emsp;(1) The term “dual-use critical technology” means a technology—
+&emsp;(1) The term "dual-use critical technology" means a technology—
 
 &emsp;&emsp;(A) that is critical to atomic energy defense activities, as determined by the Secretary of Energy;
 
 &emsp;&emsp;(B) that has military applications and nonmilitary applications; and
 
-&emsp;&emsp;(C) that either—
+&emsp;&emsp;(C) that is a defense critical technology (as defined in section 2500 of title 10).
 
-&emsp;&emsp;&emsp;(i)(I) appears on the list of national critical technologies contained in a biennial report on national critical technologies submitted to Congress by the President pursuant to section 6683(d) <sup>1</sup> of title 42; and
+&emsp;(2) The term "cooperative research and development agreement" has the meaning given that term by section 3710a(d) of title 15.
 
-&emsp;&emsp;&emsp;(II) has not been expressly deleted from such list by such a report subsequently submitted to Congress by the President; or
-
-&emsp;&emsp;&emsp;(ii)(I) appears on the list of critical technologies contained in an annual defense critical technologies plan submitted to Congress by the Secretary of Defense pursuant to section 2506 <sup>1</sup> of title 10; and
-
-&emsp;&emsp;&emsp;(II) has not been expressly deleted from such list by such a plan subsequently submitted to Congress by the Secretary.
-
-&emsp;(2) The term “cooperative research and development agreement” has the meaning given that term by section 3710a(d) of title 15.
-
-&emsp;(3) The term “other entities” means—
+&emsp;(3) The term "other entities" means—
 
 &emsp;&emsp;(A) firms, or a consortium of firms, that are eligible to participate in a partnership or other arrangement with a laboratory of the Department of Energy, as determined in accordance with applicable law and regulations; or
 
@@ -48,19 +40,15 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) Departments and agencies of the Federal Government other than the Department of Energy.
 
-&emsp;&emsp;&emsp;(iii) Agencies of State Governments.
+&emsp;&emsp;&emsp;(iii) Agencies of State governments.
 
 &emsp;&emsp;&emsp;(iv) Any other persons or entities that may be eligible and appropriate, as determined in accordance with applicable laws and regulations.
 
-&emsp;(4) The term “atomic energy defense activities” does not include activities covered by Executive Order No. 12344, dated February 1, 1982, pertaining to the Naval nuclear propulsion program.
+&emsp;(4) The term "atomic energy defense activities" does not include activities covered by Executive Order No. 12344, dated February 1, 1982, pertaining to the Naval nuclear propulsion program.
 
-(Pub. L. 107–314, div. D, title XLVIII, §4813, formerly Pub. L. 102–190, div. C, title XXXI, §3136, Dec. 5, 1991, 105 Stat. 1577; Pub. L. 103–35, title II, §203(b)(3), May 31, 1993, 107 Stat. 102; renumbered Pub. L. 107–314, div. D, title XLVIII, §4813, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(8), Nov. 24, 2003, 117 Stat. 1785; Pub. L. 111–383, div. C, title XXXI, §3115(a), Jan. 7, 2011, 124 Stat. 4511; Pub. L. 112–239, div. C, title XXXI, §3131(x), Jan. 2, 2013, 126 Stat. 2184.)
+(Pub. L. 107–314, div. D, title XLVIII, §4813, formerly Pub. L. 102–190, div. C, title XXXI, §3136, Dec. 5, 1991, 105 Stat. 1577; Pub. L. 103–35, title II, §203(b)(3), May 31, 1993, 107 Stat. 102; renumbered Pub. L. 107–314, div. D, title XLVIII, §4813, by Pub. L. 108–136, div. C, title XXXI, §3141(k)(8), Nov. 24, 2003, 117 Stat. 1785; Pub. L. 111–383, div. C, title XXXI, §3115(a), Jan. 7, 2011, 124 Stat. 4511; Pub. L. 112–239, div. C, title XXXI, §3131(x), Jan. 2, 2013, 126 Stat. 2184; Pub. L. 113–66, div. C, title XXXI, §3146(i)(5), Dec. 26, 2013, 127 Stat. 1082.)
 
 #### References in Text
-
-Section 6683 of title 42, referred to in subsec. (c)(1)(C)(i)(I), was omitted from the Code.
-
-Section 2506 of title 10, referred to in subsec. (c)(1)(C)(ii)(I), was amended generally by Pub. L. 104–201, div. A, title VIII, §829(d), Sept. 23, 1996, 110 Stat. 2613, and, as so amended, no longer relates to submission of a plan to Congress.
 
 Executive Order No. 12344, dated February 1, 1982, referred to in subsec. (c)(4), is set out as a note under section 2511 of this title.
 
@@ -70,59 +58,71 @@ Section was formerly classified to section 2123 of Title 42, The Public Health a
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c)(5). Pub. L. 112–239 struck out par. (5) which read as follows: “The term ‘national security laboratory’ has the meaning given that term in section 2471 of this title.”
+<b>2013</b>—Subsec. (b)(1). Pub. L. 113–66, §3146(i)(5)(A), struck out "for Nuclear Security" after "Administrator".
 
-<b>2011</b>—Pub. L. 111–383, §3115(a)(3), inserted “and cooperative research and development centers” after “partnerships” in section catchline.
+Subsec. (c)(1)(C). Pub. L. 113–66, §3146(i)(5)(B)(i), added subpar. (C) and struck out former subpar. (C). Prior to amendment, text read as follows: "that either—
+
+&emsp;"(i)(I) appears on the list of national critical technologies contained in a biennial report on national critical technologies submitted to Congress by the President pursuant to section 6683(d) of title 42; and
+
+&emsp;"(II) has not been expressly deleted from such list by such a report subsequently submitted to Congress by the President; or
+
+&emsp;"(ii)(I) appears on the list of critical technologies contained in an annual defense critical technologies plan submitted to Congress by the Secretary of Defense pursuant to section 2506 of title 10; and
+
+&emsp;"(II) has not been expressly deleted from such list by such a plan subsequently submitted to Congress by the Secretary."
+
+Subsec. (c)(3)(B)(iii). Pub. L. 113–66, §3146(i)(5)(B)(ii), substituted "governments" for "Governments".
+
+Subsec. (c)(5). Pub. L. 112–239 struck out par. (5) which read as follows: "The term 'national security laboratory' has the meaning given that term in section 2471 of this title."
+
+<b>2011</b>—Pub. L. 111–383, §3115(a)(3), inserted "and cooperative research and development centers" after "partnerships" in section catchline.
 
 Subsecs. (b), (c). Pub. L. 111–383, §3115(a)(1), added subsec. (b) and redesignated former subsec. (b) as (c).
 
 Subsec. (c)(5). Pub. L. 111–383, §3115(a)(2), added par. (5).
 
-<b>1993</b>—Subsec. (b)(1)(C)(ii)(I). Pub. L. 103–35 substituted “section 2506 of title 10” for “section 2522 of title 10”.
+<b>1993</b>—Subsec. (b)(1)(C)(ii)(I). Pub. L. 103–35 substituted "section 2506 of title 10" for "section 2522 of title 10".
 
 #### Pilot Program on Technology Commercialization
 
 Pub. L. 112–239, div. C, title XXXI, §3165, Jan. 2, 2013, 126 Stat. 2207, provided that:
 
-“(a)
+"(a)
 
-Pilot Program.—The Secretary of Energy, in consultation with the Technology Transfer Coordinatorappointed under section 1001(a) of the Energy Policy Act of 2005 (42 U.S.C. 16391(a)), may carry out a pilot program at a national security laboratory for the purpose of accelerating technology transfer from such laboratories to the marketplace with respect to technologies that directly advance the mission of the National Nuclear Security Administration.
+Pilot Program.—The Secretary of Energy, in consultation with the Technology Transfer Coordinator appointed under section 1001(a) of the Energy Policy Act of 2005 (42 U.S.C. 16391(a)), may carry out a pilot program at a national security laboratory for the purpose of accelerating technology transfer from such laboratories to the marketplace with respect to technologies that directly advance the mission of the National Nuclear Security Administration.
 
-“(b)
+"(b)
 
 Termination.—The authority to carry out the pilot program under subsection (a) shall terminate on the date that is two years after the date of the enactment of this Act \[Jan. 2, 2013\].
 
-“(c)
+"(c)
 
 Reports.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees a report on the pilot program under subsection (a).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Elements.—The report under paragraph (1) shall include the following:
 
-&emsp;&emsp;“(A) An identification of opportunities for accelerating technology transfer from national security laboratories to the marketplace.
+&emsp;&emsp;"(A) An identification of opportunities for accelerating technology transfer from national security laboratories to the marketplace.
 
-&emsp;&emsp;“(B) If the Secretary chooses to carry out the pilot program under subsection (a), a description of the plan to carry out such program.
+&emsp;&emsp;"(B) If the Secretary chooses to carry out the pilot program under subsection (a), a description of the plan to carry out such program.
 
-&emsp;&emsp;“(C) If the Secretary chooses not to carry out the pilot program under subsection (a), a description of why the program will not be carried out.
+&emsp;&emsp;"(C) If the Secretary chooses not to carry out the pilot program under subsection (a), a description of why the program will not be carried out.
 
-“(d)
+"(d)
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘appropriate congressional committees’ means the following:
+&emsp;"(1) The term 'appropriate congressional committees' means the following:
 
-&emsp;&emsp;“(A) The Committees on Armed Services of the Senate and House of Representatives.
+&emsp;&emsp;"(A) The Committees on Armed Services of the Senate and House of Representatives.
 
-&emsp;&emsp;“(B) The Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
+&emsp;&emsp;"(B) The Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives.
 
-&emsp;&emsp;“(C) The Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives.
+&emsp;&emsp;"(C) The Committee on Energy and Natural Resources of the Senate and the Committee on Energy and Commerce of the House of Representatives.
 
-&emsp;“(2) The term ‘national security laboratory’ has the meaning given that term in section 3281 of the National Nuclear Security Administration Act (50 U.S.C. 2471).”
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+&emsp;"(2) The term 'national security laboratory' has the meaning given that term in section 3281 of the National Nuclear Security Administration Act (50 U.S.C. 2471)."
 

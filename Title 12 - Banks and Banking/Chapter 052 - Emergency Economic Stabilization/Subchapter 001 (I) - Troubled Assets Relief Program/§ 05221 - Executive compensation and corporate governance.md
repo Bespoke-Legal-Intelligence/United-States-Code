@@ -6,19 +6,19 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Senior executive officer
 
-&emsp;The term “senior executive officer” means an individual who is 1 of the top 5 most highly paid executives of a public company, whose compensation is required to be disclosed pursuant to the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], and any regulations issued thereunder, and non-public company counterparts.
+&emsp;The term "senior executive officer" means an individual who is 1 of the top 5 most highly paid executives of a public company, whose compensation is required to be disclosed pursuant to the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], and any regulations issued thereunder, and non-public company counterparts.
 
 #### (2) Golden parachute payment
 
-&emsp;The term “golden parachute payment” means any payment to a senior executive officer for departure from a company for any reason, except for payments for services performed or benefits accrued.
+&emsp;The term "golden parachute payment" means any payment to a senior executive officer for departure from a company for any reason, except for payments for services performed or benefits accrued.
 
 #### (3) TARP recipient
 
-&emsp;The term “TARP recipient” means any entity that has received or will receive financial assistance under the financial assistance provided under the TARP.
+&emsp;The term "TARP recipient" means any entity that has received or will receive financial assistance under the financial assistance provided under the TARP.
 
 #### (4) Commission
 
-&emsp;The term “Commission” means the Securities and Exchange Commission.
+&emsp;The term "Commission" means the Securities and Exchange Commission.
 
 #### (5) Period in which obligation is outstanding; rule of construction
 
@@ -148,7 +148,7 @@ The Securities Exchange Act of 1934, referred to in subsecs. (a)(1) and (c)(3), 
 
 <b>2009</b>—Pub. L. 111–5 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (d) relating to applicability of requirements, direct purchases of troubled assets, auction purchases of troubled assets, and sunset of provisions, respectively.
 
-Subsec. (g). Pub. L. 111–22 substituted “, at the market price, may liquidate warrants associated with such assistance” for “shall liquidate warrants associated with such assistance at the current market price”.
+Subsec. (g). Pub. L. 111–22 substituted ", at the market price, may liquidate warrants associated with such assistance" for "shall liquidate warrants associated with such assistance at the current market price".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “are”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "are".</i>
 

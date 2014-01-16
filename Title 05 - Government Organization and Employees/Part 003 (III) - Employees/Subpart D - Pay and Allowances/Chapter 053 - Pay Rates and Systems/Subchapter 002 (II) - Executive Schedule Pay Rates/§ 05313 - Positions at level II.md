@@ -226,9 +226,9 @@ Any reference to the Administrator of the Federal Emergency Management Agency in
 
 #### Effective Date of 2004 Amendment
 
-For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of Title 50, War and National Defense.
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of Title 50, War and National Defense.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of Title 50, War and National Defense.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out as an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of Title 50, War and National Defense.
 
 #### Effective Date of 2002 Amendment
 
@@ -310,7 +310,7 @@ Office of Director of Office of Science and Technology abolished and functions v
 
 #### Bonus Eligibility of Under Secretary of Transportation for Security
 
-Pub. L. 107–71, title I, §101(c)(2), Nov. 19, 2001, 115 Stat. 602, provided that: “In addition to the annual rate of pay authorized by section 5313 of title 5, United States Code, the Under Secretary may receive a bonus for any calendar year not to exceed 30 percent of the annual rate of pay, based on the Secretary's evaluation of the Under Secretary's performance.”
+Pub. L. 107–71, title I, §101(c)(2), Nov. 19, 2001, 115 Stat. 602, provided that: “In addition to the annual rate of pay authorized by section 5313 of title 5, United States Code, the Under Secretary may receive a bonus for any calendar year not to exceed 30 percent of theannual rate of pay, based on the Secretary's evaluation of the Under Secretary's performance.”
 
 #### Pay Increase; Effective Date
 

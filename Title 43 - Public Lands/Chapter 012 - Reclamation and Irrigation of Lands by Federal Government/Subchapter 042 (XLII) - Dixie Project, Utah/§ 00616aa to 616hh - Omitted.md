@@ -16,7 +16,7 @@ Section 616ee, Pub. L. 88–565, §5, Sept. 2, 1964, 78 Stat. 848, related to in
 
 Section 616ff, Pub. L. 88–565, §6, Sept. 2, 1964, 78 Stat. 849, related to construction, operation, and maintenance of recreational facilities in connection with this project.
 
-Section 616gg, Pub. L. 88–565, §7, Sept. 2, 1964, 78 Stat. 849, provided that use of water diverted for this project from Colorado river system be subject to Colorado River compact, Boulder Canyon Project Act (43 U.S.C. 617 et seq.), and Mexican Water Treaty (Treaty Series 994).
+Section 616gg, Pub. L. 88–565, §7, Sept. 2, 1964, 78 Stat. 849, provided that use of water diverted for this project from Colorado river system be subject to ColoradoRiver compact, Boulder Canyon Project Act (43 U.S.C. 617 et seq.), and Mexican Water Treaty (Treaty Series 994).
 
 Section 616hh, Pub. L. 88–565, §8, Sept. 2, 1964, 78 Stat. 849; Pub. L. 90–537, title III, §307, Sept. 30, 1968, 82 Stat. 893, authorized appropriations for this project.
 

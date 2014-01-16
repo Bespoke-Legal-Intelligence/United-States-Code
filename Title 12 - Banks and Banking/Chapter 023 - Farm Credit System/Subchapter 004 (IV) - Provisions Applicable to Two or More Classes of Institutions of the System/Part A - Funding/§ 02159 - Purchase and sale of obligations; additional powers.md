@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–233 substituted “December 31, 1992” for “December 31, 1988” in two places.
+<b>1988</b>—Subsec. (b). Pub. L. 100–233 substituted "December 31, 1992" for "December 31, 1988" in two places.
 
 <b>1986</b>—Pub. L. 99–509 designated existing provisions as subsec. (a) and added subsec. (b).
 

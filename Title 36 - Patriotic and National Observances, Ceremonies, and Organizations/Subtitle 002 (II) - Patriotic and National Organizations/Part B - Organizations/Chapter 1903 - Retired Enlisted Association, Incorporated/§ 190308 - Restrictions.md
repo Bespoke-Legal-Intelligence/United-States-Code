@@ -52,9 +52,9 @@ Oct. 23, 1992, Pub. L. 102–484, title XVIII, §1829, 106 Stat. 2585.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsection (b), the words “This subsection does not” are substituted for “Nothing in this subsection shall be construed to” for consistency in the revised title.
+In subsection (b), the words "This subsection does not" are substituted for "Nothing in this subsection shall be construed to" for consistency in the revised title.
 
-In subsection (d), the words “by virtue of this chapter” are omitted as unnecessary.
+In subsection (d), the words "by virtue of this chapter" are omitted as unnecessary.
 

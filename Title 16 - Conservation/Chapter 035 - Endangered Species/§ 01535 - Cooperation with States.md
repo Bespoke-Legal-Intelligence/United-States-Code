@@ -42,7 +42,7 @@ The Secretary may enter into agreements with any State for the administration an
 
 &emsp;(i) the requirements set forth in subparagraphs (C) and (D) of this paragraph are complied with, and
 
-&emsp;(ii) plans are included under which immediate attention will be given to those resident species of plants which are determined by the Secretary or the State agency to be endangered or threatened and which the Secretary and the State agency agree are most urgently in need of conservation programs; except that a cooperative agreement entered into with a State whose program is deemed adequate and active pursuant to clause (i) and this clause shall not affect the applicability of prohibitions set forth in or authorized pursuant tosection 1533(d) or section 1538(a)(1) of this title with respect to the taking of any resident endangered or threatened species.
+&emsp;(ii) plans are included under which immediate attention will be given to those resident species of plants which are determined by the Secretary or the State agency to be endangered or threatened and which the Secretary and the State agency agree are most urgently in need of conservation programs; except that a cooperative agreement entered into with a State whose program is deemed adequate and active pursuant to clause (i) and this clause shall not affect the applicability of prohibitions set forth in or authorized pursuant to section 1533(d) or section 1538(a)(1) of this title with respect to the taking of any resident endangered or threatened species.
 
 #### (d) Allocation of funds
 
@@ -82,7 +82,7 @@ Any State law or regulation which applies with respect to the importation or exp
 
 #### (g) Transition
 
-(1) For purposes of this subsection, the term “establishment period” means, with respect to any State, the period beginning on December 28, 1973, and ending on whichever of the following dates first occurs: (A) the date of the close of the 120-day period following the adjournment of the first regular session of the legislature of such State which commences after December 28, 1973, or (B) the date of the close of the 15-month period following December 28, 1973.
+(1) For purposes of this subsection, the term "establishment period" means, with respect to any State, the period beginning on December 28, 1973, and ending on whichever of the following dates first occurs: (A) the date of the close of the 120-day period following the adjournment of the first regular session of the legislature of such State which commences after December 28, 1973, or (B) the date of the close of the 15-month period following December 28, 1973.
 
 (2) The prohibitions set forth in or authorized pursuant to sections 1533(d) and 1538(a)(1)(B) of this title shall not apply with respect to the taking of any resident endangered species or threatened species (other than species listed in Appendix I to the Convention or otherwise specifically covered by any other treaty or Federal law) within any State—
 
@@ -92,7 +92,7 @@ Any State law or regulation which applies with respect to the importation or exp
 
 &emsp;&emsp;(i) the Secretary applies such prohibition to such species at the request of the State, or
 
-&emsp;&emsp;(ii) the Secretary applies such prohibition after he finds, and publishes his finding, thatan emergency exists posing a significant risk to the well-being of such species and that the prohibition must be applied to protect such species. The Secretary's finding and publication may be made without regard to the public hearing or comment provisions of section 553 of title 5 or any other provision of this chapter; but such prohibition shall expire 90 days after the date of its imposition unless the Secretary further extends such prohibition by publishing notice and a statement of justification of such extension.
+&emsp;&emsp;(ii) the Secretary applies such prohibition after he finds, and publishes his finding, that an emergency exists posing a significant risk to the well-being of such species and that the prohibition must be applied to protect such species. The Secretary's finding and publication may be made without regard to the public hearing or comment provisions of section 553 of title 5 or any other provision of this chapter; but such prohibition shall expire 90 days after the date of its imposition unless the Secretary further extends such prohibition by publishing notice and a statement of justification of such extension.
 
 #### (h) Regulations
 
@@ -108,35 +108,37 @@ The Secretary is authorized to promulgate such regulations as may be appropriate
 
 #### References in Text
 
+This chapter, referred to in text, was in the original "this Act" or "This Act", meaning Pub. L. 93–205, Dec. 28, 1973, 81 Stat. 884, known as the Endangered Species Act of 1973, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1531 of this title and Tables.
+
 The Sport Fishing Restoration Account established under section 1016 of the Act of July 18, 1984, referred to in subsec. (i)(1), probably means the Sport Fish Restoration Account established by section 9504(a)(2)(A) of Title 26, Internal Revenue Code, which section was enacted by section 1016(a) of Pub. L. 98–369, div. A, title X, July 18, 1984, 98 Stat. 1019.
 
 #### Amendments
 
-<b>1988</b>—Subsec. (d)(1). Pub. L. 100–478, §1005(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary is authorized to provide financial assistance to any State, through its respective State agency, which has entered into a cooperative agreement pursuant to subsection (c) of this section to assist in development of programs for the conservation of endangered and threatened species. The Secretary shall make an allocation of appropriated funds to such States based on consideration of—
+<b>1988</b>—Subsec. (d)(1). Pub. L. 100–478, §1005(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "The Secretary is authorized to provide financial assistance to any State, through its respective State agency, which has entered into a cooperative agreement pursuant to subsection (c) of this section to assist in development of programs for the conservation of endangered and threatened species. The Secretary shall make an allocation of appropriated funds to such States based on consideration of—
 
-&emsp;“(A) the international commitments of the United States to protect endangered species or threatened species;
+&emsp;"(A) the international commitments of the United States to protect endangered species or threatened species;
 
-&emsp;“(B) the readiness of a State to proceed with a conservation program consistent with the objectives and purposes of this chapter;
+&emsp;"(B) the readiness of a State to proceed with a conservation program consistent with the objectives and purposes of this chapter;
 
-&emsp;“(C) the number of endangered species and threatened species within a State;
+&emsp;"(C) the number of endangered species and threatened species within a State;
 
-&emsp;“(D) the potential for restoring endangered species and threatened species within a State; and
+&emsp;"(D) the potential for restoring endangered species and threatened species within a State; and
 
-&emsp;“(E) the relative urgency to initiate a program to restore and protect an endangered species or threatened species in terms of survival of the species.
+&emsp;"(E) the relative urgency to initiate a program to restore and protect an endangered species or threatened species in terms of survival of the species.
 
-> So much of any appropriated funds allocated for obligation to any State for any fiscal year as remains unobligated at the close thereof is authorized to be made available to that State until the close of the succeeding fiscal year. Any amount allocated to any State which is unobligated at the end of the period during which it is available for expenditure is authorized to be made available for expenditure by the Secretary in conducting programs under this section.”
+> So much of any appropriated funds allocated for obligation to any State for any fiscal year as remains unobligated at the close thereof is authorized to be made available to that State until the close of the succeeding fiscal year. Any amount allocated to any State which is unobligated at the end of the period during which it is available for expenditure is authorized to be made available for expenditure by the Secretary in conducting programs under this section."
 
 Subsec. (i). Pub. L. 100–478, §1005(b), added subsec. (i).
 
-<b>1982</b>—Subsec. (d)(2)(i). Pub. L. 97–304, §3(1), substituted “75 percent” for “662/3 per centum”.
+<b>1982</b>—Subsec. (d)(2)(i). Pub. L. 97–304, §3(1), substituted "75 percent" for "662/3 per centum".
 
-Subsec. (d)(2)(ii). Pub. L. 97–304, §3(2), substituted “90 percent” for “75 per centum”.
+Subsec. (d)(2)(ii). Pub. L. 97–304, §3(2), substituted "90 percent" for "75 per centum".
 
 Subsec. (i). Pub. L. 97–304, §8(b), struck out subsec. (i) which authorized appropriations to carry out this section of $10,000,000 through the period ending Sept. 30, 1977, $12,000,000 for the period Oct. 1, 1977, through Sept. 30, 1980, and $12,000,000 for the period Oct. 1, 1980, through Sept. 30, 1982. See section 1542(b) of this title.
 
-<b>1980</b>—Subsec. (i). Pub. L. 96–246 in par. (2) substituted “$12,000,000” for “$16,000,000” and “1980” for “1981”, and added par. (3).
+<b>1980</b>—Subsec. (i). Pub. L. 96–246 in par. (2) substituted "$12,000,000" for "$16,000,000" and "1980" for "1981", and added par. (3).
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–632 designated existing provision as par. (1), and in par. (1) as so designated, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and subpars. (A) and (B) of subpar. (E), as so redesignated, as cls. (i) and (ii), respectively, substituted “paragraph” for “subsection” in provision preceding subpar. (A), as so redesignated, “endangered or threatened species of fish or wildlife” for “endangered species or threatened species” in subpar. (D), as so redesignated, “subparagraphs (C), (D), and (E) of this paragraph” for “paragraphs (3), (4), and (5) of this subsection” in cl. (i) of subpar. (E), as so redesignated, “clause (i) and this clause” for “subparagraph (A) and this subparagraph” in cl. (ii) of subpar. (E), as so redesignated, and added par. (2).
+<b>1978</b>—Subsec. (c). Pub. L. 95–632 designated existing provision as par. (1), and in par. (1) as so designated, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and subpars. (A) and (B) of subpar. (E), as so redesignated, as cls. (i) and (ii), respectively, substituted "paragraph" for "subsection" in provision preceding subpar. (A), as so redesignated, "endangered or threatened species of fish or wildlife" for "endangered species or threatened species" in subpar. (D), as so redesignated, "subparagraphs (C), (D), and (E) of this paragraph" for "paragraphs (3), (4), and (5) of this subsection" in cl. (i) of subpar. (E), as so redesignated, "clause (i) and this clause" for "subparagraph (A) and this subparagraph" in cl. (ii) of subpar. (E), as so redesignated, and added par. (2).
 
 <b>1977</b>—Subsec. (c). Pub. L. 95–212, §1(1), inserted provisions that States in which the State fish and wildlife agencies do not possess the broad authority to conserve all resident species of fish and wildlife which the Secretary determines to be threatened or endangered may nevertheless qualify for cooperative agreement funds if they satisfy all other requirements and have plans to devote immediate attention to those species most urgently in need of conservation programs.
 
@@ -144,5 +146,5 @@ Subsec. (i). Pub. L. 95–212, §1(2), substituted provisions authorizing approp
 
 #### Cooperative Agreements With States Unaffected by 1981 Amendment of Marine Mammal Protection Act
 
-Nothing in the amendment of section 1379 of this title by section 4(a) of Pub. L. 97–58 to be construed as affecting in any manner any cooperative agreement entered into by a State under subsec. (c) of this section before, on, or after Oct. 9, 1981, see section 4(b) of Pub. L. 97–58, set out as a note under section 1379 of this title.
+Nothing in the amendment of section 1379 of this title by section 4(a) of Pub. L. 97–58 to be construed as affecting in any manner any cooperative agreement entered into by a State under subsec. (c) of this sectionbefore, on, or after Oct. 9, 1981, see section 4(b) of Pub. L. 97–58, set out as a note under section 1379 of this title.
 

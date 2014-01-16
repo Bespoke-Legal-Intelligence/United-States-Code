@@ -6,7 +6,7 @@
 
 (c) Except in time of war, any officer of a staff corps who has served as a chief of bureau for a full term is exempt from sea duty.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 285; Pub. L. 86–174, §2(2), Aug. 18, 1959, 73 Stat. 396; Pub. L. 87–649, §14c(15), Sept. 7, 1962, 76 Stat. 501; Pub. L.89–288, §3, Oct. 22, 1965, 79 Stat. 1050; Pub. L. 89–718, §35(2)–(4), Nov. 2, 1966, 80 Stat. 1120; Pub. L. 96–513, title V, §503(9), Dec. 12, 1980, 94 Stat. 2911; Pub. L. 103–337, div. A, title V, §504(b)(3), (5), Oct. 5, 1994, 108 Stat. 2751.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 285; Pub. L. 86–174, §2(2), Aug. 18, 1959, 73 Stat. 396; Pub. L. 87–649, §14c(15), Sept. 7, 1962, 76 Stat. 501; Pub. L. 89–288, §3, Oct. 22, 1965, 79 Stat. 1050; Pub. L. 89–718, §35(2)–(4), Nov. 2, 1966, 80 Stat. 1120; Pub. L. 96–513, title V, §503(9), Dec. 12, 1980, 94 Stat. 2911; Pub. L. 103–337, div. A, title V, §504(b)(3), (5), Oct. 5, 1994, 108 Stat. 2751.)
 
 Historical and Revision Notes
 
@@ -56,21 +56,21 @@ In subsection (a), the language that incorporates the rank, pay, and allowances 
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–337, §504(b)(5), struck out “and Judge Advocate General” after “Chiefs” in section catchline.
+<b>1994</b>—Pub. L. 103–337, §504(b)(5), struck out "and Judge Advocate General" after "Chiefs" in section catchline.
 
-Subsec. (a). Pub. L. 103–337, §504(b)(3)(A), struck out “or the Judge Advocate General” after “chief of bureau” and struck out at end “Unless appointed to a higher grade under another provision of law, an officer of the Marine Corps, while serving as Judge Advocate General, has the rank of major general.”
+Subsec. (a). Pub. L. 103–337, §504(b)(3)(A), struck out "or the Judge Advocate General" after "chief of bureau" and struck out at end "Unless appointed to a higher grade under another provision of law, an officer of the Marine Corps, while serving as Judge Advocate General, has the rank of major general."
 
-Subsec. (b). Pub. L. 103–337, §504(b)(3)(B), struck out “or the Judge Advocate General” after “chief of bureau” in two places and “or major general, as appropriate” after “grade of rear admiral”.
+Subsec. (b). Pub. L. 103–337, §504(b)(3)(B), struck out "or the Judge Advocate General" after "chief of bureau" in two places and "or major general, as appropriate" after "grade of rear admiral".
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–513 struck out second sentence relating to retired pay of an officer retired in the grade of rear admiral, and inserted “or active-duty list” after “active list” in third sentence.
+<b>1980</b>—Subsec. (b). Pub. L. 96–513 struck out second sentence relating to retired pay of an officer retired in the grade of rear admiral, and inserted "or active-duty list" after "active list" in third sentence.
 
-<b>1966</b>—Pub. L. 89–718 inserted reference to the Judge Advocate General in section catchline, substituted “Judge Advocate General” for “Chief of the Bureau of Naval Weapons”, inserted “or the Judge Advocate General” after “chief of bureau” in subsec. (a), and “or the Judge Advocate General” after “chief of bureau” in subsec. (b).
+<b>1966</b>—Pub. L. 89–718 inserted reference to the Judge Advocate General in section catchline, substituted "Judge Advocate General" for "Chief of the Bureau of Naval Weapons", inserted "or the Judge Advocate General" after "chief of bureau" in subsec. (a), and "or the Judge Advocate General" after "chief of bureau" in subsec. (b).
 
 <b>1965</b>—Subsec. (b). Pub. L. 89–288 permitted an officer who is serving or has served in the grade of vice admiral under section 5137(a) of this title, upon retirement, to be appointed by the President, by and with the advice and consent of the Senate, to the highest grade held by him while on the active list and with the retired pay based on that grade.
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–649 repealed provisions which prescribed the pay and allowances of a chief of bureau and of the Chief of the Bureau of Naval Weapons, in the Marine Corps. See section 202 of Title 37, Pay and Allowances of the Uniformed Services.
 
-<b>1959</b>—Pub. L. 86–174 substituted “Bureau of Naval Weapons” for “Bureau of Aeronautics”.
+<b>1959</b>—Pub. L. 86–174 substituted "Bureau of Naval Weapons" for "Bureau of Aeronautics".
 
 #### Effective Date of 1980 Amendment
 

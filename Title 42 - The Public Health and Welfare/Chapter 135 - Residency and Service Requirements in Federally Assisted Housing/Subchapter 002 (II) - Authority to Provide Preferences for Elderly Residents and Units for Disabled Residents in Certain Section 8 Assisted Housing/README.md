@@ -13,5 +13,5 @@
 - [&sect; 13616 - Prohibition of evictions](%C2%A7%2013616%20-%20Prohibition%20of%20evictions.md)
 - [&sect; 13617 - Treatment of covered section 8 housing not subject to elderly preference](%C2%A7%2013617%20-%20Treatment%20of%20covered%20section%208%20housing%20not%20subject%20to%20elderly%20preference.md)
 - [&sect; 13618 - Treatment of other federally assisted housing](%C2%A7%2013618%20-%20Treatment%20of%20other%20federally%20assisted%20housing.md)
-- [&sect; 13619 - &#8220;Covered section 8 housing&#8221; defined](%C2%A7%2013619%20-%20%E2%80%9CCovered%20section%208%20housing%E2%80%9D%20defined.md)
+- [&sect; 13619 - Covered section 8 housing defined](%C2%A7%2013619%20-%20Covered%20section%208%20housing%20defined.md)
 - [&sect; 13620 - Study](%C2%A7%2013620%20-%20Study.md)

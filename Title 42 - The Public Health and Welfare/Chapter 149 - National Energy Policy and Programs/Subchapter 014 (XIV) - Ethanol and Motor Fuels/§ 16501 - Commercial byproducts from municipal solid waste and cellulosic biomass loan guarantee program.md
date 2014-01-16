@@ -2,7 +2,7 @@
 
 #### (a) Definition of municipal solid waste
 
-In this section, the term “municipal solid waste” has the meaning given the term “solid waste” in section 6903 of this title.
+In this section, the term "municipal solid waste" has the meaning given the term "solid waste" in section 6903 of this title.
 
 #### (b) Establishment of program
 
@@ -12,7 +12,7 @@ The Secretary shall establish a program to provide guarantees of loans by privat
 
 The Secretary may provide a loan guarantee under subsection (b) to an applicant if—
 
-&emsp;(1) without a loan guarantee, credit is not available to the applicant under reasonable terms or conditions sufficient to finance theconstruction of a facility described in subsection (b);
+&emsp;(1) without a loan guarantee, credit is not available to the applicant under reasonable terms or conditions sufficient to finance the construction of a facility described in subsection (b);
 
 &emsp;(2) the prospective earning power of the applicant and the character and value of the security pledged provide a reasonable assurance of repayment of the loan to be guaranteed in accordance with the terms of the loan; and
 

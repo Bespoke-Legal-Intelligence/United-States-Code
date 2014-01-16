@@ -124,7 +124,7 @@ $1,000.
 
 #### (iii) Testing period
 
-&emsp;&emsp;&emsp;The term “testing period” means the period beginning with the last month of the taxable year referred to in subparagraph (A) and ending on the last day of the 12th month following such month.
+&emsp;&emsp;&emsp;The term "testing period" means the period beginning with the last month of the taxable year referred to in subparagraph (A) and ending on the last day of the 12th month following such month.
 
 #### (c) Definitions and special rules
 
@@ -134,7 +134,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “eligible individual” means, with respect to any month, any individual if—
+&emsp;&emsp;The term "eligible individual" means, with respect to any month, any individual if—
 
 &emsp;&emsp;&emsp;(i) such individual is covered under a high deductible health plan as of the 1st day of such month, and
 
@@ -162,7 +162,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “high deductible health plan” means a health plan—
+&emsp;&emsp;The term "high deductible health plan" means a health plan—
 
 &emsp;&emsp;&emsp;(i) which has an annual deductible which is not less than—
 
@@ -198,11 +198,11 @@ For purposes of this section—
 
 #### (3) Permitted insurance
 
-&emsp;The term “permitted insurance” means—
+&emsp;The term "permitted insurance" means—
 
 &emsp;&emsp;(A) insurance if substantially all of the coverage provided under such insurance relates to—
 
-&emsp;&emsp;&emsp;(i) liabilities incurred under workers’ compensation laws,
+&emsp;&emsp;&emsp;(i) liabilities incurred under workers' compensation laws,
 
 &emsp;&emsp;&emsp;(ii) tort liabilities,
 
@@ -216,11 +216,11 @@ For purposes of this section—
 
 #### (4) Family coverage
 
-&emsp;The term “family coverage” means any coverage other than self-only coverage.
+&emsp;The term "family coverage" means any coverage other than self-only coverage.
 
 #### (5) Archer MSA
 
-&emsp;The term “Archer MSA” has the meaning given such term in section 220(d).
+&emsp;The term "Archer MSA" has the meaning given such term in section 220(d).
 
 #### (d) Health savings account
 
@@ -228,7 +228,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “health savings account” means a trust created or organized in the United States as a health savings account exclusively for the purpose of paying the qualified medical expenses of the account beneficiary, but only if the written governing instrument creating the trust meets the following requirements:
+&emsp;The term "health savings account" means a trust created or organized in the United States as a health savings account exclusively for the purpose of paying the qualified medical expenses of the account beneficiary, but only if the written governing instrument creating the trust meets the following requirements:
 
 &emsp;&emsp;(A) Except in the case of a rollover contribution described in subsection (f)(5) or section 220(f)(5), no contribution will be accepted—
 
@@ -252,7 +252,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified medical expenses” means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d) <sup>1</sup> for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
+&emsp;&emsp;The term "qualified medical expenses" means, with respect to an account beneficiary, amounts paid by such beneficiary for medical care (as defined in section 213(d) <sup>1</sup> for such individual, the spouse of such individual, and any dependent (as defined in section 152, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof) of such individual, but only to the extent such amounts are not compensated for by insurance or otherwise. Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.
 
 #### (B) Health insurance may not be purchased from account
 
@@ -272,7 +272,7 @@ For purposes of this section—
 
 #### (3) Account beneficiary
 
-&emsp;The term “account beneficiary” means the individual on whose behalf the health savings account was established.
+&emsp;The term "account beneficiary" means the individual on whose behalf the health savings account was established.
 
 #### (4) Certain rules to apply
 
@@ -322,7 +322,7 @@ For purposes of this section—
 
 #### (B) Excess contribution
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “excess contribution” means any contribution (other than a rollover contribution described in paragraph (5) or section 220(f)(5)) which is neither excludable from gross income under section 106(d) nor deductible under this section.
+&emsp;&emsp;For purposes of subparagraph (A), the term "excess contribution" means any contribution (other than a rollover contribution described in paragraph (5) or section 220(f)(5)) which is neither excludable from gross income under section 106(d) nor deductible under this section.
 
 #### (4) Additional tax on distributions not used for qualified medical expenses
 
@@ -352,7 +352,7 @@ For purposes of this section—
 
 #### (6) Coordination with medical expense deduction
 
-&emsp;For purposes of determining the amount of the deduction under section 213, any paymentor distribution out of a health savings account for qualified medical expenses shall not be treated as an expense paid for medical care.
+&emsp;For purposes of determining the amount of the deduction under section 213, any payment or distribution out of a health savings account for qualified medical expenses shall not be treated as an expense paid for medical care.
 
 #### (7) Transfer of account incident to divorce
 
@@ -392,13 +392,13 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such dollar amount, multiplied by
 
-&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins determined by substituting for “calendar year 1992” in subparagraph (B) thereof—
+&emsp;&emsp;(B) the cost-of-living adjustment determined under section 1(f)(3) for the calendar year in which such taxable year begins determined by substituting for "calendar year 1992" in subparagraph (B) thereof—
 
-&emsp;&emsp;&emsp;(i) except as provided in clause (ii), “calendar year 1997”, and
+&emsp;&emsp;&emsp;(i) except as provided in clause (ii), "calendar year 1997", and
 
-&emsp;&emsp;&emsp;(ii) in the case of each dollar amount in subsection (c)(2)(A), “calendar year 2003”.
+&emsp;&emsp;&emsp;(ii) in the case of each dollar amount in subsection (c)(2)(A), "calendar year 2003".
 
-> &emsp;In the case of adjustments made for any taxable year beginning after 2007, section 1(f)(4) shall be applied for purposes of this paragraph by substituting “March 31” for “August 31”, and the Secretary shall publish the adjusted amounts under subsections (b)(2) and (c)(2)(A) for taxable years beginning in any calendar year no later than June 1 of the preceding calendar year.
+> &emsp;In the case of adjustments made for any taxable year beginning after 2007, section 1(f)(4) shall be applied for purposes of this paragraph by substituting "March 31" for "August 31", and the Secretary shall publish the adjusted amounts under subsections (b)(2) and (c)(2)(A) for taxable years beginning in any calendar year no later than June 1 of the preceding calendar year.
 
 #### (2) Rounding
 
@@ -430,21 +430,21 @@ A prior section 223 was renumbered section 224 of this title.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(2)(A). Pub. L. 111–148, §9003(a), inserted at end “Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin.”
+<b>2010</b>—Subsec. (d)(2)(A). Pub. L. 111–148, §9003(a), inserted at end "Such term shall include an amount paid for medicine or a drug only if such medicine or drug is a prescribed drug (determined without regard to whether such drug is available without a prescription) or is insulin."
 
-Subsec. (f)(4)(A). Pub. L. 111–148, §9004(a), substituted “20 percent” for “10 percent”.
+Subsec. (f)(4)(A). Pub. L. 111–148, §9004(a), substituted "20 percent" for "10 percent".
 
-<b>2006</b>—Subsec. (b)(2)(A). Pub. L. 109–432, §303(a)(1), substituted “$2,250.” for “the lesser of—
+<b>2006</b>—Subsec. (b)(2)(A). Pub. L. 109–432, §303(a)(1), substituted "$2,250." for "the lesser of—
 
-&emsp;“(i) the annual deductible under such coverage, or
+&emsp;"(i) the annual deductible under such coverage, or
 
-&emsp;“(ii) $2,250, or”.
+&emsp;"(ii) $2,250, or".
 
-Subsec. (b)(2)(B). Pub. L. 109–432, §303(a)(2), substituted “$4,500.” for “the lesser of—
+Subsec. (b)(2)(B). Pub. L. 109–432, §303(a)(2), substituted "$4,500." for "the lesser of—
 
-&emsp;“(i) the annual deductible under such coverage, or
+&emsp;"(i) the annual deductible under such coverage, or
 
-&emsp;“(ii) $4,500.”
+&emsp;"(ii) $4,500."
 
 Subsec. (b)(4)(C). Pub. L. 109–432, §307(b), added subpar. (C).
 
@@ -452,11 +452,11 @@ Subsec. (b)(8). Pub. L. 109–432, §305(a), added par. (8).
 
 Subsec. (c)(1)(B)(iii). Pub. L. 109–432, §302(b), added cl. (iii).
 
-Subsec. (d)(1)(A)(ii)(I). Pub. L. 109–432, §303(b), substituted “subsection (b)(2)(B)” for “subsection (b)(2)(B)(ii)”.
+Subsec. (d)(1)(A)(ii)(I). Pub. L. 109–432, §303(b), substituted "subsection (b)(2)(B)" for "subsection (b)(2)(B)(ii)".
 
 Subsec. (g)(1). Pub. L. 109–432, §304, inserted concluding provisions.
 
-<b>2005</b>—Subsec. (d)(2)(A). Pub. L. 109–135 inserted “, determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof” after “section 152”.
+<b>2005</b>—Subsec. (d)(2)(A). Pub. L. 109–135 inserted ", determined without regard to subsections (b)(1), (b)(2), and (d)(1)(B) thereof" after "section 152".
 
 #### Effective Date of 2010 Amendment
 
@@ -466,13 +466,13 @@ Amendment by section 9004(a) of Pub. L. 111–148 applicable to distributions ma
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title III, §302(c)(2), Dec. 20, 2006, 120 Stat. 2949, provided that: “The amendment made by subsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 20, 2006\].”
+Pub. L. 109–432, div. A, title III, §302(c)(2), Dec. 20, 2006, 120 Stat. 2949, provided that: "The amendment made by subsection (b) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 20, 2006\]."
 
-Pub. L. 109–432, div. A, title III, §303(c), Dec. 20, 2006, 120 Stat. 2950, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
+Pub. L. 109–432, div. A, title III, §303(c), Dec. 20, 2006, 120 Stat. 2950, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006."
 
-Pub. L. 109–432, div. A, title III, §305(b), Dec. 20, 2006, 120 Stat. 2951, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006.”
+Pub. L. 109–432, div. A, title III, §305(b), Dec. 20, 2006, 120 Stat. 2951, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2006."
 
-Pub. L. 109–432, div. A, title III, §307(c), Dec. 20, 2006, 120 Stat. 2953, provided that: “The amendments made by this section \[amending this section and section 408 of this title\] shall apply to taxable years beginning after December 31, 2006.”
+Pub. L. 109–432, div. A, title III, §307(c), Dec. 20, 2006, 120 Stat. 2953, provided that: "The amendments made by this section \[amending this section and section 408 of this title\] shall apply to taxable years beginning after December 31, 2006."
 
 #### Effective Date of 2005 Amendment
 
@@ -485,6 +485,8 @@ Section applicable to taxable years beginning after Dec. 31, 2003, see section 1
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2014</b>—Revenue Procedure 2013–25.
 
 <b>2013</b>—Revenue Procedure 2012–26.
 

@@ -78,7 +78,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (2)(A), the “base year State medicaid per capita expenditures for covered part D drugs for full-benefit dual eligible individuals” for a State is equal to the weighted average (as weighted under subparagraph (C)) of—
+&emsp;&emsp;For purposes of paragraph (2)(A), the "base year State medicaid per capita expenditures for covered part D drugs for full-benefit dual eligible individuals" for a State is equal to the weighted average (as weighted under subparagraph (C)) of—
 
 &emsp;&emsp;&emsp;(i) the gross per capita medicaid expenditures for prescription drugs for 2003, determined under subparagraph (B); and
 
@@ -154,7 +154,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this section, the term “full-benefit dual eligible individual” means for a State for a month an individual who—
+&emsp;&emsp;For purposes of this section, the term "full-benefit dual eligible individual" means for a State for a month an individual who—
 
 &emsp;&emsp;&emsp;(i) has coverage for the month for covered part D drugs under a prescription drug plan under part D of subchapter XVIII of this chapter, or under an MA–PD plan under part C of such subchapter; and
 
@@ -168,7 +168,7 @@ The amounts expended by a State in carrying out subsection (a) of this section a
 
 #### (1) Medicare as primary payor
 
-&emsp;In the case of a part D eligible individual (as defined in section 1395w–101(a)(3)(A) of this title) who is described in subsection (c)(6)(A)(ii) of this section, notwithstanding any other provision of this subchapter, medical assistance is not available under this subchapter for such drugs (or for any cost-sharing respecting such drugs), and the rules under this subchapter relating to the provision of medical assistance for such drugs shall not apply. The provision of benefits with respect to such drugs shall not be considered as the provision of care or services under the plan under this subchapter. No payment may be made under section 1396b(a) of this title for prescribed drugs for which medical assistance is not available pursuant to this paragraph.
+&emsp;In the case of a part D eligible individual (as defined in section 1395w–101(a)(3)(A) of this title) who is described in subsection (c)(6)(A)(ii) of this section, notwithstanding any other provision of this subchapter, medical assistance is not available under this subchapter for such drugs (or for any cost-sharing respecting such drugs), and the rules under this subchapter relating to the provision of medical assistance for such drugs shall not apply. The provision of benefits with respect to such drugs shall not be considered as the provision of care or services under the planunder this subchapter. No payment may be made under section 1396b(a) of this title for prescribed drugs for which medical assistance is not available pursuant to this paragraph.
 
 #### (2) Coverage of certain excludable drugs
 
@@ -238,13 +238,13 @@ A prior section 1935 of act Aug. 14, 1935, was renumbered section 1939 and is cl
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–275 amended heading to include reference to medicare cost-sharing and added par. (4).
 
-<b>2005</b>—Subsec. (c)(3)(B)(ii)(II). Pub. L. 109–91 inserted “, including drugs described in subparagraph (K) of section 1396r–8(d)(2) of this title” after “section 1395w–102(e) of this title”.
+<b>2005</b>—Subsec. (c)(3)(B)(ii)(II). Pub. L. 109–91 inserted ", including drugs described in subparagraph (K) of section 1396r–8(d)(2) of this title" after "section 1395w–102(e) of this title".
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–173, §103(d)(1)(A), inserted “subject to subsection (e) of this section” after “section 1396b(a) of this title” in introductory provisions.
+<b>2003</b>—Subsec. (a). Pub. L. 108–173, §103(d)(1)(A), inserted "subject to subsection (e) of this section" after "section 1396b(a) of this title" in introductory provisions.
 
 Subsec. (c). Pub. L. 108–173, §103(b), added subsec. (c).
 
-Subsec. (c)(1)(C). Pub. L. 108–173, §103(d)(1)(B), which directed the amendment of subsec. (c)(1) by inserting “subject to subsection (e) of this section” after “section 1396b(a)(1) of this title”, was executed by making the insertion after “section 1396b(a) of this title” in subpar. (C) to reflect the probable intent of Congress.
+Subsec. (c)(1)(C). Pub. L. 108–173, §103(d)(1)(B), which directed the amendment of subsec. (c)(1) by inserting "subject to subsection (e) of this section" after "section 1396b(a)(1) of this title", was executed by making the insertion after "section 1396b(a) of this title" in subpar. (C) to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 108–173, §103(c), added subsec. (d).
 

@@ -62,13 +62,13 @@ Historical and Revision Notes
 
 202(h)
 
-10:5064(b) (the words, “pay, allowances,”).
+10:5064(b) (the words, "pay, allowances,").
 
 \[None.\]
 
 &nbsp;
 
-10:5111(b) (the words “pay, allowances, and”).
+10:5111(b) (the words "pay, allowances, and").
 
 \[None.\]
 
@@ -80,7 +80,7 @@ Historical and Revision Notes
 
 &nbsp;
 
-10:5138(b) (the words “pay, allowances, and”).
+10:5138(b) (the words "pay, allowances, and").
 
 \[None.\]
 
@@ -98,13 +98,13 @@ Historical and Revision Notes
 
 &nbsp;
 
-10:5148(b) (the words “pay, allowances,”).
+10:5148(b) (the words "pay, allowances,").
 
 \[None.\]
 
 &nbsp;
 
-10:5150(c) (the words, “pay, allowances,”).
+10:5150(c) (the words, "pay, allowances,").
 
 \[None.\]
 
@@ -144,23 +144,23 @@ Historical and Revision Notes
 
 \[None.\]
 
-In subsections (a)–(j), the words “and allowances” are omitted as surplusage, since, under chapter 7 of this revised title, entitlement to allowances is based upon entitlement to basic pay.
+In subsections (a)–(j), the words "and allowances" are omitted as surplusage, since, under chapter 7 of this revised title, entitlement to allowances is based upon entitlement to basic pay.
 
-In subsection (f), the words “provided by law”, “this or any other”, and “for any reason” are omitted as surplusage.
+In subsection (f), the words "provided by law", "this or any other", and "for any reason" are omitted as surplusage.
 
-In subsection (g), the words “Judge Advocate General of the Navy” are inserted to reflect section 5148 of title 10.
+In subsection (g), the words "Judge Advocate General of the Navy" are inserted to reflect section 5148 of title 10.
 
 In subsection (i), the last 12 words of section 5145(c) of title 10 are omitted as covered by section 5134 of title 10.
 
 #### Amendments
 
-<b>1985</b>—Pub. L. 99–145 substituted “Pay grades: retired Coast Guard rear admirals (lower half)” for “Pay grade:retired Coast Guard commodores” in section catchline, and substituted “rear admiral (lower half)” for “commodore” in text.
+<b>1985</b>—Pub. L. 99–145 substituted "Pay grades: retired Coast Guard rear admirals (lower half)" for "Pay grade:retired Coast Guard commodores" in section catchline, and substituted "rear admiral (lower half)" for "commodore" in text.
 
-<b>1984</b>—Pub. L. 98–557 substituted “Pay grade: retired Coast Guard commodores” for “Pay grades: commodores, retired list” in section catchline.
+<b>1984</b>—Pub. L. 98–557 substituted "Pay grade: retired Coast Guard commodores" for "Pay grades: commodores, retired list" in section catchline.
 
 <b>1983</b>—Pub. L. 97–417 substituted provision relating to the entitlement of retired list Coast Guard commodores to the basic pay of a retired rear admiral after two years emergency or wartime duty, for former subsecs. (a) and (b), which, respectively, related to the entitlement of retired Coast Guard rear admirals (otherwise entitled to the basic pay of retired list rear admirals) to the basic pay of an upper half rear admiral after two years emergency or wartime active duty, and provided that the number of active list Coast Guard rear admirals entitled to upper half pay be half the difference between the number of active list officers above captain and the number of officers serving above rear admiral, an odd number result to be placed in the upper half, and no officer entitled to rear admiral pay to have it reduced solely because of a reduction in the number of rear admirals.
 
-<b>1980</b>—Pub. L. 96–513, §401(b), substituted “(upper half) of the Coast Guard” for “of upper half; officers holding certain positions in the Navy” in section catchline.
+<b>1980</b>—Pub. L. 96–513, §401(b), substituted "(upper half) of the Coast Guard" for "of upper half; officers holding certain positions in the Navy" in section catchline.
 
 Subsec. (a). Pub. L. 96–513, §401(a)(1), (2), redesignated subsec. (e) as (a) and struck out applicability to the Navy. Former subsec. (a), relating to entitlement of an officer not restricted in the performance of his duties in the Navy, was struck out.
 
@@ -188,11 +188,11 @@ Pub. L. 96–342 substituted provisions respecting pay when initially appointed 
 
 Subsec. (l). Pub. L. 96–513, §401(a)(4), struck out subsec. (l) which related to entitlement of an officer of the Navy or Marine Corps serving as Assistant Judge Advocate General of the Navy.
 
-<b>1972</b>—Subsec. (f). Pub. L. 92–451 struck out “Except for those whose basic pay is otherwise specifically authorized by law,” and substituted “in grades above captain, less the number of officers serving in grades above rear admiral”, for “in that grade” in first sentence.
+<b>1972</b>—Subsec. (f). Pub. L. 92–451 struck out "Except for those whose basic pay is otherwise specifically authorized by law," and substituted "in grades above captain, less the number of officers serving in grades above rear admiral", for "in that grade" in first sentence.
 
 <b>1968</b>—Subsec. (l). Pub. L. 90–623 redesignated as subsec. (l) the subsection relating to basic pay of the Assistant Judge Advocate General of the Navy, formerly designated as subsec. (k).
 
-<b>1967</b>—Subsec. (g). Pub. L. 90–179, §7(1), inserted “or as Deputy Judge Advocate General of the Navy,”.
+<b>1967</b>—Subsec. (g). Pub. L. 90–179, §7(1), inserted "or as Deputy Judge Advocate General of the Navy,".
 
 Subsecs. (h)(7), (8). Pub. L. 90–179, §7(2)(B), (C), added par. (7) and renumbered former par. (7) as par. (8).
 
@@ -210,7 +210,7 @@ Subsec. (h). Pub. L. 89–718, §50(2), struck out par. (2) relating to Chief of
 
 Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to prescribe regulations under the amendment by Pub. L. 96–513 effective on Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
-Pub. L. 96–342, title X, §1004(b), Sept. 8, 1980, 94 Stat. 1120, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to basic pay payable for periods beginning on or after the date of the enactment of this Act \[Sept 8, 1980\].”
+Pub. L. 96–342, title X, §1004(b), Sept. 8, 1980, 94 Stat. 1120, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to basic pay payable for periods beginning on or after the date of the enactment of this Act \[Sept 8, 1980\]."
 
 #### Effective Date of 1972 Amendment
 

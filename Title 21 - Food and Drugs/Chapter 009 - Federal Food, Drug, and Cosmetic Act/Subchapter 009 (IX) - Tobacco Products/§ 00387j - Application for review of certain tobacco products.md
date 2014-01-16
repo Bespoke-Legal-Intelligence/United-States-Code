@@ -4,7 +4,7 @@
 
 #### (1) New tobacco product defined
 
-&emsp;For purposes of this section the term “new tobacco product” means—
+&emsp;For purposes of this section the term "new tobacco product" means—
 
 &emsp;&emsp;(A) any tobacco product (including those products in test markets) that was not commercially marketed in the United States as of February 15, 2007; or
 
@@ -38,7 +38,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In this section and section 387e(j) of this title, the term “substantially equivalent” or “substantial equivalence” means, with respect to the tobacco product being compared to the predicate tobacco product, that the Secretary by order has found that the tobacco product—
+&emsp;&emsp;In this section and section 387e(j) of this title, the term "substantially equivalent" or "substantial equivalence" means, with respect to the tobacco product being compared to the predicate tobacco product, that the Secretary by order has found that the tobacco product—
 
 &emsp;&emsp;&emsp;(i) has the same characteristics as the predicate tobacco product; or
 
@@ -46,7 +46,7 @@
 
 #### (B) Characteristics
 
-&emsp;&emsp;In subparagraph (A), the term “characteristics” means the materials, ingredients, design, composition, heating source, or other features of a tobacco product.
+&emsp;&emsp;In subparagraph (A), the term "characteristics" means the materials, ingredients, design, composition, heating source, or other features of a tobacco product.
 
 #### (C) Limitation
 
@@ -146,7 +146,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, upon obtaining, where appropriate, advice on scientific matters from the Tobacco Products Scientific Advisory Committee, and after due notice and opportunity for informal hearing for a tobacco product for which an order was issued under subsection (c)(1)(A)(i), issue an order withdrawing the order if the Secretary finds—
+&emsp;The Secretary shall, upon obtaining, where appropriate, advice on scientific matters fromthe Tobacco Products Scientific Advisory Committee, and after due notice and opportunity for informal hearing for a tobacco product for which an order was issued under subsection (c)(1)(A)(i), issue an order withdrawing the order if the Secretary finds—
 
 &emsp;&emsp;(A) that the continued marketing of such tobacco product no longer is appropriate for the protection of the public health;
 

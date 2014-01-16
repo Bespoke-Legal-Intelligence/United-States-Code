@@ -16,7 +16,7 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 #### (1) In general
 
-&emsp;Any person who purchases or is otherwise assigned a mortgage referred to in section 1602(aa) <sup>1</sup> of this title shall be subject to all claims and defenses with respect to that mortgage that the consumer could assert against the creditor of the mortgage, unless the purchaser or assignee demonstrates, by a preponderance of the evidence, that a reasonable person exercising ordinary due diligence, could not determine, based on the documentation required by this subchapter, the itemization of the amount financed, and other disclosure of disbursements that the mortgage was a mortgage referred to in section 1602(aa) <sup>1</sup> of this title. The preceding sentence does not affect rights of a consumer under subsection (a), (b),or (c) of this section or any other provision of this subchapter.
+&emsp;Any person who purchases or is otherwise assigned a mortgage referred to in section 1602(aa) <sup>1</sup> of this title shall be subject to all claims and defenses with respect to that mortgage that the consumer could assert against the creditor of the mortgage, unless the purchaser or assignee demonstrates, by a preponderance of the evidence, that a reasonable person exercising ordinary due diligence, could not determine, based on the documentation required by this subchapter, the itemization of the amount financed, and other disclosure of disbursements that the mortgage was a mortgage referred to in section 1602(aa) <sup>1</sup> of this title. The preceding sentence does not affect rights of a consumer under subsection (a), (b), or (c) of this section or any other provision of this subchapter.
 
 #### (2) Limitation on damages
 
@@ -66,9 +66,9 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 &emsp;A servicer of a consumer obligation arising from a consumer credit transaction shall not be treated as the owner of the obligation for purposes of this section on the basis of an assignment of the obligation from the creditor or another assignee to the servicer solely for the administrative convenience of the servicer in servicing the obligation. Upon written request by the obligor, the servicer shall provide the obligor, to the best knowledge of the servicer, with the name, address, and telephone number of the owner of the obligation or the master servicer of the obligation.
 
-#### (3) “Servicer” defined
+#### (3) "Servicer" defined
 
-&emsp;For purposes of this subsection, the term “servicer” has the same meaning as in section 2605(i)(2) of title 12.
+&emsp;For purposes of this subsection, the term "servicer" has the same meaning as in section 2605(i)(2) of title 12.
 
 #### (4) Applicability
 
@@ -92,7 +92,7 @@ Any consumer who has the right to rescind a transaction under section 1635 of th
 
 #### (2) Definition
 
-&emsp;As used in this subsection, the term “mortgage loan” means any consumer credit transaction that is secured by the principal dwelling of a consumer.
+&emsp;As used in this subsection, the term "mortgage loan" means any consumer credit transaction that is secured by the principal dwelling of a consumer.
 
 (Pub. L. 90–321, title I, §131, May 29, 1968, 82 Stat. 157; Pub. L. 96–221, title VI, §616(a), Mar. 31, 1980, 94 Stat. 182; Pub. L. 103–325, title I, §153(c), Sept. 23, 1994, 108 Stat. 2195; Pub. L. 104–29, §7, Sept. 30, 1995, 109 Stat. 274; Pub. L. 111–22, div. A, title IV, §404(a), May 20, 2009, 123 Stat. 1658; Pub. L. 111–203, title X, §1100A(2), July 21, 2010, 124 Stat. 2107.)
 
@@ -102,7 +102,7 @@ Section 1602(aa) of this title, referred to in subsec. (d)(1), (4), was redesign
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(4). Pub. L. 111–203 substituted “Bureau” for “Board”.
+<b>2010</b>—Subsec. (d)(4). Pub. L. 111–203 substituted "Bureau" for "Board".
 
 <b>2009</b>—Subsec. (g). Pub. L. 111–22 added subsec. (g).
 
@@ -112,7 +112,7 @@ Subsec. (f). Pub. L. 104–29, §7(b), added subsec. (f).
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–325 added subsec. (d).
 
-<b>1980</b>—Pub. L. 96–221 added subsecs. (a) and (c), designated existing provisions as subsec. (b), substituted “excepted as provided in subsection (a) of this section”for “unless the violation is apparent on the face of the statement”, and struck out exception for actions under section 1640(d) of this title.
+<b>1980</b>—Pub. L. 96–221 added subsecs. (a) and (c), designated existing provisions as subsec. (b), substituted "excepted as provided in subsection (a) of this section" for "unless the violation is apparent on the face of the statement", and struck out exception for actions under section 1640(d) of this title.
 
 #### Effective Date of 2010 Amendment
 

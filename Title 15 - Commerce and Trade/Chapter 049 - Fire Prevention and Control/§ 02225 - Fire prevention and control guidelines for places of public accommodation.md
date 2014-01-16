@@ -22,21 +22,21 @@ The provisions of this section shall not be construed to limit the power of any 
 
 For purposes of this section, the following definitions shall apply:
 
-&emsp;(1) The term “smoke detector” means an alarm that is designed to respond to the presence of visible or invisible particles of combustion.
+&emsp;(1) The term "smoke detector" means an alarm that is designed to respond to the presence of visible or invisible particles of combustion.
 
-&emsp;(2) The term “automatic sprinkler system” means an electronically supervised, integrated system of piping to which sprinklers are attached in a systematic pattern, and which, when activated by heat from a fire, will protect human lives by discharging water over the fire area, and by providing appropriate warning signals (to the extent such signals are required by Federal, State, or local laws or regulations) through the building's fire alarm system.
+&emsp;(2) The term "automatic sprinkler system" means an electronically supervised, integrated system of piping to which sprinklers are attached in a systematic pattern, and which, when activated by heat from a fire, will protect human lives by discharging water over the fire area, and by providing appropriate warning signals (to the extent such signals are required by Federal, State, or local laws or regulations) through the building's fire alarm system.
 
-&emsp;(3) The term “governmental authority having jurisdiction” means the Federal, State, local, or other governmental entity with statutory or regulatory authority for the approval of fire safety systems, equipment, installations, or procedures within a specified locality.
+&emsp;(3) The term "governmental authority having jurisdiction" means the Federal, State, local, or other governmental entity with statutory or regulatory authority for the approval of fire safety systems, equipment, installations, or procedures within a specified locality.
 
 (Pub. L. 93–498, §29, as added Pub. L. 101–391, §3(a), Sept. 25, 1990, 104 Stat. 748; amended Pub. L. 102–522, title I, §105, Oct. 26, 1992, 106 Stat. 3411; Pub. L. 105–108, §3(1)–(3), Nov. 20, 1997, 111 Stat. 2264.)
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–108, §3(1), inserted “or any successor standard to that standard” after “Association Standard 74”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–108, §3(1), inserted "or any successor standard to that standard" after "Association Standard 74".
 
-Subsec. (a)(2). Pub. L. 105–108, §3(2), inserted “, or any successor standard to that standard” before “, whichever is appropriate,”.
+Subsec. (a)(2). Pub. L. 105–108, §3(2), inserted ", or any successor standard to that standard" before ", whichever is appropriate,".
 
-Subsec. (b)(2). Pub. L. 105–108, §3(3), inserted “, or any successor standard to that standard” after “Association Standard 13 or 13–R”.
+Subsec. (b)(2). Pub. L. 105–108, §3(3), inserted ", or any successor standard to that standard" after "Association Standard 13 or 13–R".
 
 <b>1992</b>—Subsecs. (b) to (d). Pub. L. 102–522, §105(a), added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 

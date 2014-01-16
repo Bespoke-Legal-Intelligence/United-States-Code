@@ -8,7 +8,7 @@ The Secretary, the Secretary of the Department in which the Coast Guard is opera
 
 It shall be the duty of any holder of a lease or permit under this subchapter to—
 
-&emsp;(1) maintain all places of employment within the lease area or within the area covered by such permit in compliance with occupational safety and health standards and, in addition, free from recognized hazards to employees ofthe lease holder or permit holder or of any contractor or subcontractor operating within such lease area or within the area covered by such permit on the outer Continental Shelf;
+&emsp;(1) maintain all places of employment within the lease area or within the area covered by such permit in compliance with occupational safety and health standards and, in addition, free from recognized hazards to employees of the lease holder or permit holder or of any contractor or subcontractor operating within such lease area or within the area covered by such permit on the outer Continental Shelf;
 
 &emsp;(2) maintain all operations within such lease area or within the area covered by such permit in compliance with regulations intended to protect persons, property, and the environment on the outer Continental Shelf; and
 
@@ -40,7 +40,7 @@ In any investigation conducted pursuant to this section, the Secretary or the Se
 
 #### Amendments
 
-<b>1998</b>—Subsec. (g). Pub. L. 105–362 struck out subsec. (g) which read as follows: “The Secretary shall, after consultation with the Secretary of the Department in which the Coast Guard is operating, include in his annual report to the Congress required by section 1343 of this title the number of violations of safety regulations reported or alleged, any investigations undertaken, the results of such investigations, and any administrative or judicial action taken as a result of such investigations, and the results of the diving studies conducted under section 1347(e) of this title.”
+<b>1998</b>—Subsec. (g). Pub. L. 105–362 struck out subsec. (g) which read as follows: "The Secretary shall, after consultation with the Secretary of the Department in which the Coast Guard is operating, include in his annual report to the Congress required by section 1343 of this title the number of violations of safety regulations reported or alleged, any investigations undertaken, the results of such investigations, and any administrative or judicial action taken as a result of such investigations, and the results of the diving studies conducted under section 1347(e) of this title."
 
 #### Transfer of Functions
 

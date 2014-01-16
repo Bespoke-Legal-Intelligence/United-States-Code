@@ -88,53 +88,53 @@ Subsec. (e). Pub. L. 109–221, §401(b)(5), designated existing provisions as p
 
 Pub. L. 109–221, §401(b)(3), redesignated subsec. (f) as (e). Former subsec. (e) redesignated (d).
 
-Subsec. (f). Pub. L. 109–221, §401(b)(6), substituted “subsection (h)” for “subsection (i)” in introductory provisions and struck out “, and issuance of acknowledgments,” after “agent functions” in par. (2)(B).
+Subsec. (f). Pub. L. 109–221, §401(b)(6), substituted "subsection (h)" for "subsection (i)" in introductory provisions and struck out ", and issuance of acknowledgments," after "agent functions" in par. (2)(B).
 
 Pub. L. 109–221, §401(b)(3), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
 Subsec. (g) to (i). Pub. L. 109–221, §401(b)(3), redesignated subsecs. (h) and (i) as (g) and (h), respectively. Former subsec. (g) redesignated (f).
 
-<b>2002</b>—Pub. L. 107–331 designated existing provisions as subsec. (a), inserted heading and substituted “Any loan guaranteed or insured” for “Any loan guaranteed”, and added subsecs. (b) to (i).
+<b>2002</b>—Pub. L. 107–331 designated existing provisions as subsec. (a), inserted heading and substituted "Any loan guaranteed or insured" for "Any loan guaranteed", and added subsecs. (b) to (i).
 
-<b>1988</b>—Pub. L. 100–442 amended section generally. Prior to amendment, section read as follows: “Any loan guaranteed hereunder, including the security given therefor, may be sold or assigned by the lender to any financial institution subject to examination and supervision by an agency of the United States or of any State or the District of Columbia.”
+<b>1988</b>—Pub. L. 100–442 amended section generally. Prior to amendment, section read as follows: "Any loan guaranteed hereunder, including the security given therefor, may be sold or assigned by the lender to any financial institution subject to examination and supervision by an agency of the United States or of any State or the District of Columbia."
 
 #### Findings and Purpose
 
 Pub. L. 107–331, title I, §102, Dec. 13, 2002, 116 Stat. 2835, provided that:
 
-“(a)
+"(a)
 
 Findings.—Congress finds that—
 
-&emsp;“(1) the Indian Financing Act of 1974 (25 U.S.C. 1451 et seq.) was intended to provide Native American borrowers with access to commercial sources of capital that otherwise would not be available through the guarantee or insurance of loans by the Secretary of the Interior;
+&emsp;"(1) the Indian Financing Act of 1974 (25 U.S.C. 1451 et seq.) was intended to provide Native American borrowers with access to commercial sources of capital that otherwise would not be available through the guarantee or insurance of loans by the Secretary of the Interior;
 
-&emsp;“(2) although the Secretary of the Interior has made loan guarantees and insurance available, use of those guarantees and that insurance by lenders to benefit Native American business borrowers has been limited;
+&emsp;"(2) although the Secretary of the Interior has made loan guarantees and insurance available, use of those guarantees and that insurance by lenders to benefit Native American business borrowers has been limited;
 
-&emsp;“(3) twenty-seven years after the date of enactment of the Indian Financing Act of 1974 (25 U.S.C. 1451 et seq.) \[Pub. L. 93–262, which was approved Apr. 12, 1974\], the promotion and development of Native American-owned business remains an essential foundation for growth of economic and social stability of Native Americans;
+&emsp;"(3) twenty-seven years after the date of enactment of the Indian Financing Act of 1974 (25 U.S.C. 1451 et seq.) \[Pub. L. 93–262, which was approved Apr. 12, 1974\], the promotion and development of Native American-owned business remains an essential foundation for growth of economic and social stability of Native Americans;
 
-&emsp;“(4) use by commercial lenders of the available loan insurance and guarantees may be limited by liquidity and other capital market-driven concerns; and
+&emsp;"(4) use by commercial lenders of the available loan insurance and guarantees may be limited by liquidity and other capital market-driven concerns; and
 
-&emsp;“(5) it is in the best interest of the insured and guaranteed loan program of the Department of the Interior—
+&emsp;"(5) it is in the best interest of the insured and guaranteed loan program of the Department of the Interior—
 
-&emsp;&emsp;“(A) to encourage the orderly development and expansion of a secondary market for loans guaranteed or insured by the Secretary of the Interior; and
+&emsp;&emsp;"(A) to encourage the orderly development and expansion of a secondary market for loans guaranteed or insured by the Secretary of the Interior; and
 
-&emsp;&emsp;“(B) to expand the number of lenders originating loans under the Indian Financing Act of 1974 (25 U.S.C. 1451 et seq.).
+&emsp;&emsp;"(B) to expand the number of lenders originating loans under the Indian Financing Act of 1974 (25 U.S.C. 1451 et seq.).
 
-“(b)
+"(b)
 
 Purpose.—The purpose of this Act \[see Short Title of 2002 Amendment note set out under section 1451 of this title\] is to reform and clarify the Indian Financing Act of 1974 (25 U.S.C. 1451 et seq.) in order to—
 
-&emsp;“(1) stimulate the use by lenders of secondary market investors for loans guaranteed or insured under a program administered by the Secretary of the Interior;
+&emsp;"(1) stimulate the use by lenders of secondary market investors for loans guaranteed or insured under a program administered by the Secretary of the Interior;
 
-&emsp;“(2) preserve the authority of the Secretary to administer the program and regulate lenders;
+&emsp;"(2) preserve the authority of the Secretary to administer the program and regulate lenders;
 
-&emsp;“(3) clarify that a good faith investor in loans insured or guaranteed by the Secretary will receive appropriate payments;
+&emsp;"(3) clarify that a good faith investor in loans insured or guaranteed by the Secretary will receive appropriate payments;
 
-&emsp;“(4) provide for the appointment by the Secretary of a qualified fiscal transfer agent to establish and administer a system for the orderly transfer of those loans; and
+&emsp;"(4) provide for the appointment by the Secretary of a qualified fiscal transfer agent to establish and administer a system for the orderly transfer of those loans; and
 
-&emsp;“(5)(A) authorize the Secretary to promulgate regulations to encourage and expand a secondary market program for loans guaranteed or insured by the Secretary; and
+&emsp;"(5)(A) authorize the Secretary to promulgate regulations to encourage and expand a secondary market program for loans guaranteed or insured by the Secretary; and
 
-&emsp;“(B) allow the pooling of those loans as the secondary market develops.”
+&emsp;"(B) allow the pooling of those loans as the secondary market develops."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

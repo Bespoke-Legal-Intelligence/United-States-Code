@@ -4,7 +4,7 @@
 
 #### (1) Composition
 
-&emsp;The Board of Directors of the Financial Assistance Corporation (hereinafter referred to in this part as the “Board of Directors”) shall consist of the Board of Directors of the Federal Farm Credit Banks Funding Corporation.
+&emsp;The Board of Directors of the Financial Assistance Corporation (hereinafter referred to in this part as the "Board of Directors") shall consist of the Board of Directors of the Federal Farm Credit Banks Funding Corporation.
 
 #### (2) Chairman
 
@@ -12,7 +12,7 @@
 
 #### (3) Compensation
 
-&emsp;The members of the Board of Directors shall receive compensation for the time devoted to meetings and other activities of the Board and reasonable allowances for necessary expenses of travel, lodging, and subsistence incurred in attending meetings and other activities of the Board of Directors in amounts not exceeding levels set by the Farm Credit Administration Board.
+&emsp;The members of the Board of Directors shall receive compensation for the time devoted to meetings and other activities of the Board andreasonable allowances for necessary expenses of travel, lodging, and subsistence incurred in attending meetings and other activities of the Board of Directors in amounts not exceeding levels set by the Farm Credit Administration Board.
 
 #### (b) Rules and records
 
@@ -30,7 +30,7 @@ A chief executive officer of the Financial Assistance Corporation shall be selec
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–399 substituted “part” for “chapter”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–399 substituted "part" for "chapter".
 
 #### Effective Date of 1988 Amendment
 

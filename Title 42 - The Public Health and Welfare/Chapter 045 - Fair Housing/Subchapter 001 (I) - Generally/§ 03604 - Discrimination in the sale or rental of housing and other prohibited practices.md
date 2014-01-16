@@ -50,7 +50,7 @@ As made applicable by section 3603 of this title and except as exempted by secti
 
 &emsp;&emsp;&emsp;(IV) usable kitchens and bathrooms such that an individual in a wheelchair can maneuver about the space.
 
-(4) Compliance with the appropriate requirements of the American National Standard for buildings and facilities providing accessibility and usability for physically handicapped people (commonly cited as “ANSI A117.1”) suffices to satisfy the requirements of paragraph (3)(C)(iii).
+(4) Compliance with the appropriate requirements of the American National Standard for buildings and facilities providing accessibility and usability for physically handicapped people (commonly cited as "ANSI A117.1") suffices to satisfy the requirements of paragraph (3)(C)(iii).
 
 (5)(A) If a State or unit of general local government has incorporated into its laws the requirements set forth in paragraph (3)(C), compliance with such laws shall be deemed to satisfy the requirements of that paragraph.
 
@@ -58,13 +58,13 @@ As made applicable by section 3603 of this title and except as exempted by secti
 
 (C) The Secretary shall encourage, but may not require, States and units of local government to include in their existing procedures for the review and approval of newly constructed covered multifamily dwellings, determinations as to whether the design and construction of such dwellings are consistent with paragraph (3)(C), and shall provide technical assistance to States and units of local government and other persons to implement the requirements of paragraph (3)(C).
 
-(D) Nothing in this subchapter shall be construed to require the Secretary to review or approve the plans, designs or construction of all covered multifamily dwellings, to determinewhether the design and construction of such dwellings are consistent with the requirements of paragraph 3(C).
+(D) Nothing in this subchapter shall be construed to require the Secretary to review or approve the plans, designs or construction of all covered multifamily dwellings, to determine whether the design and construction of such dwellings are consistent with the requirements of paragraph 3(C).
 
 (6)(A) Nothing in paragraph (5) shall be construed to affect the authority and responsibility of the Secretary or a State or local public agency certified pursuant to section 3610(f)(3) of this title to receive and process complaints or otherwise engage in enforcement activities under this subchapter.
 
 (B) Determinations by a State or a unit of general local government under paragraphs (5)(A) and (B) shall not be conclusive in enforcement proceedings under this subchapter.
 
-(7) As used in this subsection, the term “covered multifamily dwellings” means—
+(7) As used in this subsection, the term "covered multifamily dwellings" means—
 
 &emsp;(A) buildings consisting of 4 or more units if such buildings have one or more elevators; and
 
@@ -78,17 +78,17 @@ As made applicable by section 3603 of this title and except as exempted by secti
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–430, §6(e), inserted “and other prohibited practices” in section catchline.
+<b>1988</b>—Pub. L. 100–430, §6(e), inserted "and other prohibited practices" in section catchline.
 
-Subsecs. (a), (b). Pub. L. 100–430, §6(b)(2), inserted “familial status,” after “sex,”.
+Subsecs. (a), (b). Pub. L. 100–430, §6(b)(2), inserted "familial status," after "sex,".
 
-Subsecs. (c) to (e). Pub. L. 100–430, §6(b)(1), inserted “handicap, familial status,” after “sex,”.
+Subsecs. (c) to (e). Pub. L. 100–430, §6(b)(1), inserted "handicap, familial status," after "sex,".
 
 Subsec. (f). Pub. L. 100–430, §6(a), added subsec. (f).
 
-Subsec. (f)(3)(A). Pub. L. 100–430, §15, which directed the substitution of “except that, in the case of a rental, the landlord may where it is reasonable to do so condition permission for a modification on the renter agreeing to restore the interior of the premises to the condition that existed before the modification, reasonable wear and tear excepted.” for the period at the end of subpar. (A) was executed by making the substitution for a semicolon as the probable intent of Congress because subpar. (A) ended with a semicolon, not a period.
+Subsec. (f)(3)(A). Pub. L. 100–430, §15, which directed the substitution of "except that, in the case of a rental, the landlord may where it is reasonable to do so condition permission for a modification on the renter agreeing to restore the interior of the premises to the condition that existed before the modification, reasonable wear and tear excepted." for the period at the end of subpar. (A) was executed by making the substitution for a semicolon as the probable intent of Congress because subpar. (A) ended with a semicolon, not a period.
 
-<b>1974</b>—Pub. L. 93–383 inserted “, sex” after “religion” wherever appearing in cls. (a) to (e).
+<b>1974</b>—Pub. L. 93–383 inserted ", sex" after "religion" wherever appearing in cls. (a) to (e).
 
 #### Effective Date of 1988 Amendment
 

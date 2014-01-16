@@ -16,7 +16,7 @@ Preemption.—A State authority that has submitted a current certification under
 
 Consultation.—(1) When continuity of gas service is affected by prescribing a standard or waiving compliance with standards under this chapter, the Secretary of Transportation shall consult with and advise the Federal Energy Regulatory Commission or a State authority having jurisdiction over the affected gas pipeline facility before prescribing the standard or waiving compliance. The Secretary shall delay the effective date of the standard or waiver until the Commission or State authority has a reasonable opportunity to grant an authorization it considers necessary.
 
-(2) In a proceeding under section 3 or 7 of the Natural Gas Act (15 U.S.C. 717b or 717f), each applicant for authority to import natural gas or to establish, construct, operate, or extend a gas pipeline facility subject to an applicable safety standard shall certify that it will design, install, inspect, test, construct, operate, replace, and maintain a gas pipeline facility under those standards and plans for inspection and maintenance under section 60108 of this title. The certification is binding on the Secretary of Energy and the Commission except when an appropriate enforcement agency has given timely written notice to the Commission that the applicant has violated a standard prescribed under this chapter.
+(2) In a proceeding under section 3 or 7 of the Natural Gas Act (15 U.S.C. 717b or 717f), each applicant for authority to import natural gas or to establish, construct, operate, or extend a gas pipeline facility subject to an applicable safety standard shall certify that it will design, install, inspect, test, construct, operate, replace, and maintain a gas pipeline facility under those standards and plans for inspection and maintenance under section 60108 of this title. The certification is binding on the Secretary of Energy and the Commission except when an appropriate enforcement agency has given timely writtennotice to the Commission that the applicant has violated a standard prescribed under this chapter.
 
 (e)
 
@@ -84,13 +84,13 @@ Aug. 12, 1968, Pub. L. 90–481, §2(4) (33d–last words), 82 Stat. 720.
 
 Subsection (a) is substituted for 49 App.:1672(c) (last sentence) and 2002(g) (last sentence) to eliminate unnecessary words. The text of 49 App.:1672(c) (1st sentence) and 2002(g) (1st sentence) is omitted as unnecessary because 5:ch. 5, subch. II applies unless otherwise stated.
 
-In subsection (c), the words “prescribed under this chapter” are added for clarity. The words “after the Federal minimum standards become effective” in 49 App.:1672(a) (last sentence) are omitted as obsolete.
+In subsection (c), the words "prescribed under this chapter" are added for clarity. The words "after the Federal minimum standards become effective" in 49 App.:1672(a) (last sentence) are omitted as obsolete.
 
-In subsection (d)(1), the words “waiving compliance” are substituted for “action upon application for waiver” and “acting on the waiver application” to eliminate unnecessary words. The words “the provisions of” are omitted as surplus. The word “authority” is substituted for “commission” for consistency in the revised title and with other titles of the Code.
+In subsection (d)(1), the words "waiving compliance" are substituted for "action upon application for waiver" and "acting on the waiver application" to eliminate unnecessary words. The words "the provisions of" are omitted as surplus. The word "authority" is substituted for "commission" for consistency in the revised title and with other titles of the Code.
 
-In subsection (d)(2), the words “and conclusive” are omitted as being included in “binding”. The words “Secretary of Energy” are substituted for “Department of Energy” because of 42:7231.
+In subsection (d)(2), the words "and conclusive" are omitted as being included in "binding". The words "Secretary of Energy" are substituted for "Department of Energy" because of 42:7231.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–355 inserted at end “Notwithstanding the preceding sentence, a State authority may enforce a requirement of a one-call notification program of the State if the program meets the requirements for one-call notification programs under this chapter or chapter 61.”
+<b>2002</b>—Subsec. (c). Pub. L. 107–355 inserted at end "Notwithstanding the preceding sentence, a State authority may enforce a requirement of a one-call notification program of the State if the program meets the requirements for one-call notification programs under this chapter or chapter 61."
 

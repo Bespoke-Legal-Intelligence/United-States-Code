@@ -14,7 +14,7 @@ A special provision on the subject matter of this section for the northern, nort
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–66 in section catchline substituted “during overtime hours” for “at night”, and in text substituted “during overtime hours” for “at night” and inserted “aircraft,” before “vessel”.
+<b>1993</b>—Pub. L. 103–66 in section catchline substituted "during overtime hours" for "at night", and in text substituted "during overtime hours" for "at night" and inserted "aircraft," before "vessel".
 
 <b>1970</b>—Pub. L. 91–271 substituted reference to appropriate customs officer for reference to collector.
 

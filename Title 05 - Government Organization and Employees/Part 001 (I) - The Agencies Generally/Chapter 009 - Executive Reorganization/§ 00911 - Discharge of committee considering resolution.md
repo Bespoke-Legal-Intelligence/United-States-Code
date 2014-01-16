@@ -2,7 +2,7 @@
 
 If the committee to which is referred a resolution introduced pursuant to subsection (a) of section 910 (or, in the absence of such a resolution, the first resolution introduced with respect to the same reorganization plan) has not reported such resolution or identical resolution at the end of 75 calendar days of continuous session of Congress after its introduction, such committee shall be deemed to be discharged from further consideration of such resolution and such resolution shall be placed on the appropriate calendar of the House involved.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 397; Pub. L. 92–179, §5, Dec. 10, 1971, 85 Stat. 576; Pub. L. 95–17, §2, Apr. 6, 1977, 91 Stat. 34; Pub. L. 98–614, §3(b)(4), Nov. 8, 1984, 98 Stat. 3192.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 397; Pub. L. 92–179, §5, Dec. 10, 1971, 85 Stat. 576; Pub. L.95–17, §2, Apr. 6, 1977, 91 Stat. 34; Pub. L. 98–614, §3(b)(4), Nov. 8, 1984, 98 Stat. 3192.)
 
 Historical and Revision Notes
 

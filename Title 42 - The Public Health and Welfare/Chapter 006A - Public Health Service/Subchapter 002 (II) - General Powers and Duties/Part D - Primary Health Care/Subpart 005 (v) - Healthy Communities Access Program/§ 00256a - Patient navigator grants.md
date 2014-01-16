@@ -8,7 +8,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 The Secretary shall require each recipient of a grant under this section to use the grant to recruit, assign, train, and employ patient navigators who have direct knowledge of the communities they serve to facilitate the care of individuals, including by performing each of the following duties:
 
-&emsp;(1) Acting as contacts, including by assisting in the coordination of health care services and provider referrals, for individuals who areseeking prevention or early detection services for, or who following a screening or early detection service are found to have a symptom, abnormal finding, or diagnosis of, cancer or other chronic disease.
+&emsp;(1) Acting as contacts, including by assisting in the coordination of health care services and provider referrals, for individuals who are seeking prevention or early detection services for, or who following a screening or early detection service are found to have a symptom, abnormal finding, or diagnosis of, cancer or other chronic disease.
 
 &emsp;(2) Facilitating the involvement of community organizations in assisting individuals who are at risk for or who have cancer or other chronic diseases to receive better access to high-quality health care services (such as by creating partnerships with patient advocacy groups, charities, health care centers, community hospice centers, other health care providers, or other organizations in the targeted community).
 
@@ -104,11 +104,11 @@ This section shall not be construed to authorize funding for the delivery of hea
 
 In this section:
 
-&emsp;(1) The term “eligible entity” means a public or nonprofit private health center (including a Federally qualified health center (as that term is defined in section 1395x(aa)(4) of this title)), a health facility operated by or pursuant to a contract with the Indian Health Service, a hospital, a cancer center, a rural health clinic, an academic health center, or a nonprofit entity that enters into a partnership or coordinates referrals with such a center, clinic, facility, or hospital to provide patient navigator services.
+&emsp;(1) The term "eligible entity" means a public or nonprofit private health center (including a Federally qualified health center (as that term is defined in section 1395x(aa)(4) of this title)), a health facility operated by or pursuant to a contract with the Indian Health Service, a hospital, a cancer center, a rural health clinic, an academic health center, or a nonprofit entity that enters into a partnership or coordinates referrals with such a center, clinic, facility, or hospital to provide patient navigator services.
 
-&emsp;(2) The term “health disparity population” means a population that, as determined by the Secretary, has a significant disparity in the overall rate of disease incidence, prevalence, morbidity, mortality, or survival rates as compared to the health status of the general population.
+&emsp;(2) The term "health disparity population" means a population that, as determined by the Secretary, has a significant disparity in the overall rate of disease incidence, prevalence, morbidity, mortality, or survival rates as compared to the health status of the general population.
 
-&emsp;(3) The term “patient navigator” means an individual who has completed a training program approved by the Secretary to perform the duties listed in subsection (b) of this section.
+&emsp;(3) The term "patient navigator" means an individual who has completed a training program approved by the Secretary to perform the duties listed in subsection (b) of this section.
 
 #### (m) Authorization of appropriations
 
@@ -130,15 +130,15 @@ Another prior section 256a, act July 1, 1944, ch. 373, title III, §340A, as add
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d)(3). Pub. L. 111–148, §3510(1), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “In carrying out this section, the Secretary—
+<b>2010</b>—Subsec. (d)(3). Pub. L. 111–148, §3510(1), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "In carrying out this section, the Secretary—
 
-&emsp;“(A) shall ensure that the total period of a grant does not exceed 4 years; and
+&emsp;"(A) shall ensure that the total period of a grant does not exceed 4 years; and
 
-&emsp;“(B) may not authorize any grant period ending after September 30, 2010.”
+&emsp;"(B) may not authorize any grant period ending after September 30, 2010."
 
 Subsec. (e)(3). Pub. L. 111–148, §3510(2), added par. (3).
 
-Subsec. (m)(1). Pub. L. 111–148, §3510(3)(A), substituted “$3,500,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2015” for “and $3,500,000 for fiscal year 2010”.
+Subsec. (m)(1). Pub. L. 111–148, §3510(3)(A), substituted "$3,500,000 for fiscal year 2010, and such sums as may be necessary for each of fiscal years 2011 through 2015" for "and $3,500,000 for fiscal year 2010".
 
-Subsec. (m)(2). Pub. L. 111–148, §3510(3)(B), substituted “2015” for “2010”.
+Subsec. (m)(2). Pub. L. 111–148, §3510(3)(B), substituted "2015" for "2010".
 

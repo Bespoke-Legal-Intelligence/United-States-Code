@@ -14,7 +14,7 @@ Prior provisions for appraisement of property seized under the customs laws, or 
 
 <b>1984</b>—Pub. L. 98–573 and Pub. L. 98–473 inserted reference to aircraft.
 
-<b>1970</b>—Pub. L. 91–271 substituted “appropriate customs officer shall” for “collector shall require the appraiser to”.
+<b>1970</b>—Pub. L. 91–271 substituted "appropriate customs officer shall" for "collector shall require the appraiser to".
 
 #### Effective Date of 1984 Amendment
 

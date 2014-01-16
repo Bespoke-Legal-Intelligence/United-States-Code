@@ -1,6 +1,6 @@
 ### §103. United States
 
-In this title, “United States”, when used in a geographic sense, means the States of the United States and the District of Columbia.
+In this title, "United States", when used in a geographic sense, means the States of the United States and the District of Columbia.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 877.)
 
@@ -16,5 +16,5 @@ Historical and Revision Notes
 
 (no source).
 
-The section is included to avoid the necessity for defining “United States” each time it is used in the revised title.
+The section is included to avoid the necessity for defining "United States" each time it is used in the revised title.
 

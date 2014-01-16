@@ -80,7 +80,7 @@ For purposes of this section:
 
 #### (1) Exclude
 
-&emsp;The term “exclude” from participation means—
+&emsp;The term "exclude" from participation means—
 
 &emsp;&emsp;(A) in connection with a representative, to prohibit from engaging in representation of an applicant for, or recipient of, benefits, as a representative payee under section 405(j) or section 1383(a)(2)(A)(ii) of this title, or otherwise as a representative, in any hearing or other proceeding relating to entitlement to benefits; and
 
@@ -88,11 +88,11 @@ For purposes of this section:
 
 #### (2) Social security program
 
-&emsp;The term “social security programs” means the program providing for monthly insurance benefits under subchapter II of this chapter, and the program providing for monthly supplemental security income benefits to individuals under subchapter XVI of this chapter (including State supplementary payments made by the Commissioner pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66).
+&emsp;The term "social security programs" means the program providing for monthly insurance benefits under subchapter II of this chapter, and the program providing for monthly supplemental security income benefits to individuals under subchapter XVI of this chapter (including State supplementary payments made by the Commissioner pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66).
 
 #### (3) Convicted
 
-&emsp;An individual is considered to have been “convicted” of a violation—
+&emsp;An individual is considered to have been "convicted" of a violation—
 
 &emsp;&emsp;(A) when a judgment of conviction has been entered against the individual by a Federal, State, or local court, except if the judgment of conviction has been set aside or expunged;
 
@@ -110,9 +110,9 @@ Section 212(b) of Public Law 93–66, referred to in subsec. (j)(2), is section 
 
 #### Prior Provisions
 
-A prior section 1320b–6, act Aug. 14, 1935, ch. 531, title XI, §1136, as added Pub. L. 98–369, div. B, title VI, §2630, July 18, 1984, 98 Stat. 1137; amended Pub. L. 99–514, title XVIII, §1883(c)(2), Oct. 22, 1986, 100 Stat. 2918, related to pilot projects to demonstrate use of integrated service delivery systems for human services programs, prior torepeal by Pub. L. 104–193, title I, §§108(q)(7), 116, Aug. 22, 1996, 110 Stat. 2168, 2181, effective July 1, 1997, with certain transition rules.
+A prior section 1320b–6, act Aug. 14, 1935, ch. 531, title XI, §1136, as added Pub. L. 98–369, div. B, title VI, §2630, July 18, 1984, 98 Stat. 1137; amended Pub. L. 99–514, title XVIII, §1883(c)(2), Oct. 22, 1986, 100 Stat. 2918, related to pilot projects to demonstrate use of integrated service delivery systems for human services programs, prior to repeal by Pub. L. 104–193, title I, §§108(q)(7), 116, Aug. 22, 1996, 110 Stat. 2168, 2181, effective July 1, 1997, with certain transition rules.
 
 #### Effective Date
 
-Pub. L. 106–169, title II, §208(b), Dec. 14, 1999, 113 Stat. 1842, provided that: “The amendment made by this section \[enacting this section\] shall apply with respect to convictions of violations described in paragraphs (1) and (2) of section 1136(a) of the Social Security Act \[subsec. (a) of this section\] and determinations described in paragraph (3) of such section occurring on or after the date of the enactment of this Act \[Dec. 14, 1999\].”
+Pub. L. 106–169, title II, §208(b), Dec. 14, 1999, 113 Stat. 1842, provided that: "The amendment made by this section \[enacting this section\] shall apply with respect to convictions of violations described in paragraphs (1) and (2) of section 1136(a) of the Social Security Act \[42 U.S.C. 1320b–6(a)\] and determinations described in paragraph (3) of such section occurring on or after the date of the enactment of this Act \[Dec. 14, 1999\]."
 

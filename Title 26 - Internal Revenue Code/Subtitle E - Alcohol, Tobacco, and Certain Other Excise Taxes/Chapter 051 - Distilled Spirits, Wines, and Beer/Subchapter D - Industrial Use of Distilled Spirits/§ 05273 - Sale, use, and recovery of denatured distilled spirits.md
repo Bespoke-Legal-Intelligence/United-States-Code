@@ -28,9 +28,9 @@ No person shall withdraw or sell denatured distilled spirits, or sell any articl
 
 &emsp;&emsp;<b>(2) For applicability of all provisions of law relating to distilled spirits that are not denatured, including those requiring payment of tax, to denatured distilled spirits or articles produced, withdrawn, sold, transported, or used in violation of law or regulations, see section 5001(a)(6).</b><b><sup>1</sup></b>
 
-&emsp;&emsp;<b>(3) For definition of “articles”, see section 5002(a)(14).</b>
+&emsp;&emsp;<b>(3) For definition of "articles", see section 5002(a)(14).</b>
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1372; amended Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(39), July 26, 1979, 93 Stat. 286.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1372; amended Pub. L. 94–455, title XIX,§1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 96–39, title VIII, §807(a)(39), July 26, 1979, 93 Stat. 286.)
 
 #### References in Text
 
@@ -56,9 +56,9 @@ The prior sections, act Aug. 16, 1954, ch. 736, are set out in 68A Stat. 655, 65
 
 #### Amendments
 
-<b>1979</b>—Subsec. (e)(3). Pub. L. 96–39 substituted “section 5002(a)(14)” for “section 5002(a)(11)”.
+<b>1979</b>—Subsec. (e)(3). Pub. L. 96–39 substituted "section 5002(a)(14)" for "section 5002(a)(11)".
 
-<b>1976</b>—Subsecs. (a), (c). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (c). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date of 1979 Amendment
 

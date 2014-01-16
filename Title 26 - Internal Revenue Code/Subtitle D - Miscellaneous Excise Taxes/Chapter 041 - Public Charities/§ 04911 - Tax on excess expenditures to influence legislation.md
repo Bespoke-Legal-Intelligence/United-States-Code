@@ -12,7 +12,7 @@
 
 #### (b) Excess lobbying expenditures
 
-For purposes of this section, the term “excess lobbying expenditures” means, for a taxable year, the greater of—
+For purposes of this section, the term "excess lobbying expenditures" means, for a taxable year, the greater of—
 
 &emsp;(1) the amount by which the lobbying expenditures made by the organization during the taxable year exceed the lobbying nontaxable amount for such organization for such taxable year, or
 
@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (1) Lobbying expenditures
 
-&emsp;The term “lobbying expenditures” means expenditures for the purpose of influencing legislation (as defined in subsection (d)).
+&emsp;The term "lobbying expenditures" means expenditures for the purpose of influencing legislation (as defined in subsection (d)).
 
 #### (2) Lobbying nontaxable amount
 
@@ -41,7 +41,7 @@ For purposes of this section—
 
 #### (3) Grass roots expenditures
 
-&emsp;The term “grass roots expenditures” means expenditures for the purpose of influencing legislation (as defined in subsection (d) without regard to paragraph (1)(B) thereof).
+&emsp;The term "grass roots expenditures" means expenditures for the purpose of influencing legislation (as defined in subsection (d) without regard to paragraph (1)(B) thereof).
 
 #### (4) Grass roots nontaxable amount
 
@@ -51,7 +51,7 @@ For purposes of this section—
 
 #### (1) General rule
 
-&emsp;Except as otherwise provided in paragraph (2), for purposes of this section, the term “influencing legislation” means—
+&emsp;Except as otherwise provided in paragraph (2), for purposes of this section, the term "influencing legislation" means—
 
 &emsp;&emsp;(A) any attempt to influence any legislation through an attempt to affect the opinions of the general public or any segment thereof, and
 
@@ -59,7 +59,7 @@ For purposes of this section—
 
 #### (2) Exceptions
 
-&emsp;For purposes of this section, the term “influencing legislation”, with respect to an organization, does not include—
+&emsp;For purposes of this section, the term "influencing legislation", with respect to an organization, does not include—
 
 &emsp;&emsp;(A) making available the results of nonpartisan analysis, study, or research;
 
@@ -89,11 +89,11 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “exempt purpose expenditures” means, with respect to any organization for any taxable year, the total of the amounts paid or incurred by such organization to accomplish purposes described in section 170(c)(2)(B) (relating to religious, charitable, educational, etc., purposes).
+&emsp;&emsp;The term "exempt purpose expenditures" means, with respect to any organization for any taxable year, the total of the amounts paid or incurred by such organization to accomplish purposes described in section 170(c)(2)(B) (relating to religious, charitable, educational, etc., purposes).
 
 #### (B) Certain amounts included
 
-&emsp;&emsp;The term “exempt purpose expenditures” includes—
+&emsp;&emsp;The term "exempt purpose expenditures" includes—
 
 &emsp;&emsp;&emsp;(i) administrative expenses paid or incurred for purposes described in section 170(c)(2)(B), and
 
@@ -101,7 +101,7 @@ For purposes of this section—
 
 #### (C) Certain amounts excluded
 
-&emsp;&emsp;The term “exempt purpose expenditures” does not include amounts paid or incurred to or for—
+&emsp;&emsp;The term "exempt purpose expenditures" does not include amounts paid or incurred to or for—
 
 &emsp;&emsp;&emsp;(i) a separate fundraising unit of such organization, or
 
@@ -109,11 +109,11 @@ For purposes of this section—
 
 #### (2) Legislation
 
-&emsp;The term “legislation” includes action with respect to Acts, bills, resolutions, or similar items by the Congress, any State legislature, any local council, or similar governing body, or by the public in a referendum, initiative, constitutional amendment, or similar procedure.
+&emsp;The term "legislation" includes action with respect to Acts, bills, resolutions, or similar items by the Congress, any State legislature, any local council, or similar governing body, or by the public in a referendum, initiative, constitutional amendment, or similar procedure.
 
 #### (3) Action
 
-&emsp;The term “action” is limited to the introduction, amendment, enactment, defeat, or repeal of Acts, bills, resolutions, or similar items.
+&emsp;The term "action" is limited to the introduction, amendment, enactment, defeat, or repeal of Acts, bills, resolutions, or similar items.
 
 #### (4) Depreciation, etc., treated as expenditures
 
@@ -155,13 +155,13 @@ For purposes of this section—
 
 &emsp;&emsp;(A) in the case of any organization whose decisions bind one or more members of such affiliated group, directly or indirectly, the determination as to whether such organization has paid or incurred excess lobbying expenditures and the determination as to whether such organization has exceeded the expenditure limits of section 501(h)(1) shall be made as though such organization has paid or incurred those amounts paid or incurred by such members of such affiliated group to influence legislation with respect to Acts, bills, resolutions, or similar items by the Congress, and
 
-&emsp;&emsp;(B) in the case of any organization to which subparagraph (A) does not apply, butwhich is a member of such affiliated group, the determination as to whether such organization has paid or incurred excess lobbying expenditures and the determination as to whether such organization has exceeded the expenditure limits of section 501(h)(1) shall be made as though such organization is not a member of such affiliated group.
+&emsp;&emsp;(B) in the case of any organization to which subparagraph (A) does not apply, but which is a member of such affiliated group, the determination as to whether such organization has paid or incurred excess lobbying expenditures and the determination as to whether such organization has exceeded the expenditure limits of section 501(h)(1) shall be made as though such organization is not a member of such affiliated group.
 
 (Added Pub. L. 94–455, title XIII, §1307(b), Oct. 4, 1976, 90 Stat. 1723; amended Pub. L. 95–600, title VII, §703(g)(1), Nov. 6, 1978, 92 Stat. 2940.)
 
 #### Amendments
 
-<b>1978</b>—Subsec. (c)(2). Pub. L. 95–600 substituted “exempt purpose expenditures” for “proposed expenditures” in heading of table.
+<b>1978</b>—Subsec. (c)(2). Pub. L. 95–600 substituted "exempt purpose expenditures" for "proposed expenditures" in heading of table.
 
 #### Effective Date of 1978 Amendment
 

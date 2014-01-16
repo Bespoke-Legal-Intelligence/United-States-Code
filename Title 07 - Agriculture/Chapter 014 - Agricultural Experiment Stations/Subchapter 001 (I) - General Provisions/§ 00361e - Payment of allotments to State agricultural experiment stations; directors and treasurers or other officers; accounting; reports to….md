@@ -10,9 +10,9 @@ Section was formerly classified to section 368a of this title. See sections 361c
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–185, §203(c)(3), substituted “Multistate Research Fund, State Agricultural Experiment Stations” for “regional research fund authorized by section 361c(c)(3) of this title” in first sentence.
+<b>1998</b>—Pub. L. 105–185, §203(c)(3), substituted "Multistate Research Fund, State Agricultural Experiment Stations" for "regional research fund authorized by section 361c(c)(3) of this title" in first sentence.
 
-<b>1976</b>—Pub. L. 94–273 substituted “October” for “July” and “December” for “September”.
+<b>1976</b>—Pub. L. 94–273 substituted "October" for "July" and "December" for "September".
 
 <b>1955</b>—Act Aug. 11, 1955, amended section generally to provide for quarterly payment of allotments, to require annual report of allotments and disbursements, and to provide for replacement of funds diminished, lost, or misapplied. For provisions which authorized appropriations for investigations and experiments, see sections 361c and 361d of this title.
 

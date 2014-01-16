@@ -40,7 +40,7 @@ Comptroller General Review.—(1) The Comptroller General shall review each repo
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239 substituted “The” for “By not later than 120 days after the date on which a report is submitted under subsection (a), the” and “each report submitted under subsection (a)” for “the report”.
+<b>2013</b>—Subsec. (b)(1). Pub. L. 112–239 substituted "The" for "By not later than 120 days after the date on which a report is submitted under subsection (a), the" and "each report submitted under subsection (a)" for "the report".
 
 <b>2011</b>—Subsec. (a)(7) to (12). Pub. L. 112–81 added pars. (7) to (12).
 

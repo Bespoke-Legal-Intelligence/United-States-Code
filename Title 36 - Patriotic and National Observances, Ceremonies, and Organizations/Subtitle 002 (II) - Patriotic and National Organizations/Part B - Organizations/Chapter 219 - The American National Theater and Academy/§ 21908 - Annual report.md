@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 July 5, 1935, ch. 373, §8, 49 Stat. 459; Aug. 30, 1964, Pub. L. 88–504, §4(4), 78 Stat. 636.
 
-The word “submit” is substituted for “make and transmit”, and the word “activities” is substituted for “proceedings”, for consistency in the revised title. The word “full” is omitted as included in “complete”.
+The word "submit" is substituted for "make and transmit", and the word "activities" is substituted for "proceedings", for consistency in the revised title. The word "full" is omitted as included in "complete".
 

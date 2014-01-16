@@ -16,13 +16,13 @@ Unobligated balances of funds made available for fiscal year 2001, 2002, or 2003
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in par. (1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32\(§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in par. (1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
 
-<b>2008</b>—Par. (1). Pub. L. 110–293, §302(f)(1), substituted “a total of $4,000,000,000 for the 5-year period beginning on October 1, 2008.” for “such sums as may be necessary for each of the fiscal years 2004 through 2008”.
+<b>2008</b>—Par. (1). Pub. L. 110–293, §302(f)(1), substituted "a total of $4,000,000,000 for the 5-year period beginning on October 1, 2008." for "such sums as may be necessary for each of the fiscal years 2004 through 2008".
 
-Par. (3). Pub. L. 110–293, §302(f)(2), substituted “fiscal years 2009 through 2013.” for “fiscal years 2004 through 2008”.
+Par. (3). Pub. L. 110–293, §302(f)(2), substituted "fiscal years 2009 through 2013." for "fiscal years 2004 through 2008".
 
 <i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
 

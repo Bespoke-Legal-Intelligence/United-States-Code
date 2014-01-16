@@ -6,7 +6,7 @@ No assistance shall be furnished under this chapter or the Arms Export Control A
 
 #### (b) Exception
 
-The prohibition in subsection (a) shall not apply if the Secretary determines and reports to the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations that the government of such country is taking effective steps to bring the responsible members of the security forces unit to justice.
+The prohibition in subsection (a) shall not apply if the Secretary determines and reports tothe Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committees on Appropriations that the government of such country is taking effective steps to bring the responsible members of the security forces unit to justice.
 
 #### (c) Duty to inform
 
@@ -34,15 +34,15 @@ The Secretary shall establish, and periodically update, procedures to—
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, known as the Foreign Assistance Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 The Arms Export Control Act, referred to in subsec. (a), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–74, §7034(k)(2), substituted “information” for “evidence” and “a gross violation” for “gross violations”.
+<b>2011</b>—Subsec. (a). Pub. L. 112–74, §7034(k)(2), substituted "information" for "evidence" and "a gross violation" for "gross violations".
 
-Subsec. (b). Pub. L. 112–74, §7034(k)(3), substituted “steps” for “measures”.
+Subsec. (b). Pub. L. 112–74, §7034(k)(3), substituted "steps" for "measures".
 
 Subsec. (d). Pub. L. 112–74, §7034(k)(4), added subsec. (d).
 

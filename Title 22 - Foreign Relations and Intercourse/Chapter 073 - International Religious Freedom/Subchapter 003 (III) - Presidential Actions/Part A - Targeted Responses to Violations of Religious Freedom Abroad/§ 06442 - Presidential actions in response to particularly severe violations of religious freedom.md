@@ -24,7 +24,7 @@
 
 #### (B) Basis of review
 
-&emsp;&emsp;Each review conducted under subparagraph (A) shall be based upon information contained in the latest Country Reports on Human Rights Practices, the Annual Report, and on any other evidence available and shall take into account any findings or recommendations by the Commission with respect to the foreign country.
+&emsp;&emsp;Each review conducted under subparagraph (A) shall be based upon information contained in the latest Country Reports on Human Rights Practices, the Annual Report,and on any other evidence available and shall take into account any findings or recommendations by the Commission with respect to the foreign country.
 
 #### (C) Implementation
 
@@ -96,21 +96,21 @@
 
 #### (d) Statutory construction
 
-A determination under this chapter, or any amendment made by this chapter, that a foreign country has engaged in or tolerated particularly severe violations of religious freedom shall not be construed to require the termination of assistance or other activities with respect to that country under any other provision of law, including section 2151n or 2304 of this title.
+A determination under this chapter, or any amendment made by this chapter, that a foreigncountry has engaged in or tolerated particularly severe violations of religious freedom shall not be construed to require the termination of assistance or other activities with respect to that country under any other provision of law, including section 2151n or 2304 of this title.
 
 (Pub. L. 105–292, title IV, §402, Oct. 27, 1998, 112 Stat. 2802; Pub. L. 106–55, §2(a), Aug. 17, 1999, 113 Stat. 405.)
 
 #### References in Text
 
-This subchapter, referred to in subsec. (c)(2)(A), was in the original “this title”, meaning title IV of Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2800, which is classified principally to this subchapter. For complete classification of title IV to the Code, see Tables.
+This subchapter, referred to in subsec. (c)(2)(A), was in the original "this title", meaning title IV of Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2800, which is classified principally to this subchapter. For complete classification of title IV to the Code, see Tables.
 
-This chapter, referred to in subsecs. (c)(4) and (d), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
+This chapter, referred to in subsecs. (c)(4) and (d), was in the original "this Act", meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, known as the International Religious Freedom Act of 1998, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
 
 #### Amendments
 
-<b>1999</b>—Subsec. (c)(1). Pub. L. 106–55, §2(a)(1), substituted “(4), and (5)” for “and (4)” in introductory provisions.
+<b>1999</b>—Subsec. (c)(1). Pub. L. 106–55, §2(a)(1), substituted "(4), and (5)" for "and (4)" in introductory provisions.
 
-Subsec. (c)(4). Pub. L. 106–55, §2(a)(2)(A), inserted “under this chapter” after “Exception for ongoing Presidential action” in heading.
+Subsec. (c)(4). Pub. L. 106–55, §2(a)(2)(A), inserted "under this chapter" after "Exception for ongoing Presidential action" in heading.
 
-Subsec. (c)(4)(B) to (D), (5). Pub. L. 106–55, §2(a)(2)(B)–(D), inserted “and” at end of subpar. (B), substituted period for “; and” at end of subpar. (C), redesignated subpar. (D) as par. (5), inserted par. heading, and substituted “At the time” for “at the time”.
+Subsec. (c)(4)(B) to (D), (5). Pub. L. 106–55, §2(a)(2)(B)–(D), inserted "and" at end of subpar. (B), substituted period for "; and" at end of subpar. (C), redesignated subpar. (D) as par. (5), inserted par. heading, and substituted "At the time" for "at the time".
 

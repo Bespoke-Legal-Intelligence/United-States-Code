@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 45 days after October 29, 2002, the Administrator shall establish a program under which the Administrator shall make a payment to each State eligible under subsection (b) of this section in which a precinct within that State used a punch card voting system or a lever voting system to administer the regularly scheduled general election for Federal office held in November 2000 (in this section referred to as a “qualifying precinct”).
+&emsp;Not later than 45 days after October 29, 2002, the Administrator shall establish a program under which the Administrator shall make a payment to each State eligible under subsection (b) of this section in which a precinct within that State used a punch card voting system or a lever voting system to administer the regularly scheduled general election for Federal office held in November 2000 (in this section referred to as a "qualifying precinct").
 
 #### (2) Use of funds
 
@@ -48,7 +48,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2) and section 15303(b) of this title, the amount of payment made to a State under the program under this section shall be equal to the product of—
+&emsp;Subject to paragraph (2) and section 15303(b) of this title, the amount of payment made toa State under the program under this section shall be equal to the product of—
 
 &emsp;&emsp;(A) the number of the qualifying precincts within the State; and
 
@@ -66,7 +66,7 @@
 
 #### (2) Noncompliant precinct percentage defined
 
-&emsp;In this subsection, the term “noncompliant precinct percentage” means, with respect to a State, the amount (expressed as a percentage) equal to the quotient of—
+&emsp;In this subsection, the term "noncompliant precinct percentage" means, with respect to a State, the amount (expressed as a percentage) equal to the quotient of—
 
 &emsp;&emsp;(A) the number of qualifying precincts within the State for which the State failed to meet the applicable deadline; and
 
@@ -74,7 +74,7 @@
 
 #### (e) Punch card voting system defined
 
-For purposes of this section, a “punch card voting system” includes any of the following voting systems:
+For purposes of this section, a "punch card voting system" includes any of the following voting systems:
 
 &emsp;(1) C.E.S.
 
@@ -94,15 +94,15 @@ For purposes of this section, a “punch card voting system” includes any of t
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(3)(B). Pub. L. 111–8 substituted “November 1, 2010” for “March 1, 2008”.
+<b>2009</b>—Subsec. (a)(3)(B). Pub. L. 111–8 substituted "November 1, 2010" for "March 1, 2008".
 
-<b>2007</b>—Subsec. (a)(3)(B). Pub. L. 110–28 substituted “March 1, 2008” for “January 1, 2006”.
+<b>2007</b>—Subsec. (a)(3)(B). Pub. L. 110–28 substituted "March 1, 2008" for "January 1, 2006".
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–8, div. D, title VI, §625(b), Mar. 11, 2009, 123 Stat. 678, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Help America Vote Act of 2002 \[Pub. L. 107–252\].”
+Pub. L. 111–8, div. D, title VI, §625(b), Mar. 11, 2009, 123 Stat. 678, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Help America Vote Act of 2002 \[Pub. L. 107–252\]."
 
 #### Effective Date of 2007 Amendment
 
-Pub. L. 110–28, title VI, §6301(b), May 25, 2007, 121 Stat. 171, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect asif included in the enactment of the Help America Vote Act of 2002 \[Pub. L. 107–252\].”
+Pub. L. 110–28, title VI, §6301(b), May 25, 2007, 121 Stat. 171, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of the Help America Vote Act of 2002 \[Pub. L. 107–252\]."
 

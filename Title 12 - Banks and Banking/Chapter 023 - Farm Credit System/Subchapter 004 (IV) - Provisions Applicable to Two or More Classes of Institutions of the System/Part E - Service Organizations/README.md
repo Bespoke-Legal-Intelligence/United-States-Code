@@ -13,4 +13,4 @@ Part E—Service Organizations
 - [&sect; 02212 - Powers of Farm Credit Administration](%C2%A7%2002212%20-%20Powers%20of%20Farm%20Credit%20Administration.md)
 - [&sect; 02213 - Regulation and examination](%C2%A7%2002213%20-%20Regulation%20and%20examination.md)
 - [&sect; 02214 - State laws](%C2%A7%2002214%20-%20State%20laws.md)
-- [&sect; 02214a - &#8220;Bank&#8221; defined](%C2%A7%2002214a%20-%20%E2%80%9CBank%E2%80%9D%20defined.md)
+- [&sect; 02214a - Bank defined](%C2%A7%2002214a%20-%20Bank%20defined.md)

@@ -12,7 +12,7 @@ Public Interest.—It is in the public interest for the United States Government
 
 (b)
 
-Archiving Practices.—The Secretary of the Interior, in consultation with the Landsat Program Management, shall provide for long-term storage, maintenance, and upgrading of a basic, global, land remote sensing data set (hereafter in this section referred to as the “basic data set”) and shall follow reasonable archival practices to ensure proper storage and preservation of the basic data set and timely access for parties requesting data.
+Archiving Practices.—The Secretary of the Interior, in consultation with the Landsat Program Management, shall provide for long-term storage, maintenance, and upgrading of a basic, global, land remote sensing data set (hereafter in this section referred to as the "basic data set") and shall follow reasonable archival practices to ensure proper storage and preservation of the basic data set and timely access for parties requesting data.
 
 (c)
 
@@ -54,9 +54,9 @@ Historical and Revision Notes
 
 Pub. L. 102–555, title V, §502, Oct. 28, 1992, 106 Stat. 4176.
 
-In subsection (b), the words “hereafter in this section” are substituted for “hereinafter” for clarity.
+In subsection (b), the words "hereafter in this section" are substituted for "hereinafter" for clarity.
 
-In subsection (c), in the matter before paragraph (1), the words “of the Interior” are substituted for “of Interior” to correct an error in the law.
+In subsection (c), in the matter before paragraph (1), the words "of the Interior" are substituted for "of Interior" to correct an error in the law.
 
-In subsection (c)(1), the date “October 28, 1992” is substituted for “the date of enactment of this Act” to reflect the date of enactment of the Land Remote Sensing Policy Act of 1992 (Public Law 102–555, 106 Stat. 4163).
+In subsection (c)(1), the date "October 28, 1992" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the Land Remote Sensing Policy Act of 1992 (Public Law 102–555, 106 Stat. 4163).
 

@@ -36,15 +36,17 @@ Contents.—The capital of the fund consists of—
 
 &emsp;(1) amounts appropriated to the fund;
 
-&emsp;(2) the reasonable value of stocks of supplies, equipment, and other assets and inventories on order that the Administrator transfers to the fund, less the related liabilities and unpaid obligations; and
+&emsp;(2) the reasonable value of stocks of supplies, equipment, and other assets and inventories on order that the Administrator transfers to the fund, less the related liabilities and unpaid obligations;
 
-&emsp;(3) payments received for loss or damage to property of the fund.
+&emsp;(3) payments received for loss or damage to property of the fund; and
+
+&emsp;(4) refunds or rebates received on an on-going basis from a credit card services provider under the National Aeronautics and Space Administration's credit card programs.
 
 (d)
 
 Reimbursement.—The fund shall be reimbursed, in advance, for supplies and services at rates that will approximate the expenses of operation, such as the accrual of annual leave, depreciation of plant, property, and equipment, and overhead.
 
-(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3357.)
+(Pub. L. 111–314, §3, Dec. 18, 2010, 124 Stat. 3357; Pub. L. 113–6, div. B, title III, Mar. 26, 2013, 127 Stat. 264.)
 
 Historical and Revision Notes
 
@@ -60,5 +62,9 @@ Historical and Revision Notes
 
 42 U.S.C. 2459i.
 
-Pub. L. 108–7, div. K, title III, (last par. under heading “Administrative Provisions”, at 117 Stat. 520), Feb. 20, 2003, 117 Stat. 520.
+Pub. L. 108–7, div. K, title III, (last par. under heading "Administrative Provisions", at 117 Stat. 520), Feb. 20, 2003, 117 Stat. 520.
+
+#### Amendments
+
+<b>2013</b>—Subsec. (c)(4). Pub. L. 113–6 added par. (4).
 

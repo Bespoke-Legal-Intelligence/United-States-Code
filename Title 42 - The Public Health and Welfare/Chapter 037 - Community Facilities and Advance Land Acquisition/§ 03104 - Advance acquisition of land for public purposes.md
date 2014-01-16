@@ -20,13 +20,13 @@ No land acquired with assistance under this section shall, without approval of t
 
 Notwithstanding any other provision of law, no project for which land is acquired with assistance under this section shall, solely as a result of such advance acquisition, be considered ineligible for the purpose of any other Federal loan or grant program, and the amount of the purchase price paid for the land by the recipient of a grant under this section may be considered an eligible cost for the purpose of such other Federal loan or grant program.
 
-(Pub. L. 89–117, title VII, §704, Aug. 10, 1965, 79 Stat. 491; Pub. L. 90–19, §22(b), May 25, 1967, 81Stat. 26; Pub. L. 90–448, title VI, §603(b), Aug. 1, 1968, 82 Stat. 533; Pub. L. 96–470, title I, §107(c), Oct. 19, 1980, 94 Stat. 2238.)
+(Pub. L. 89–117, title VII, §704, Aug. 10, 1965, 79 Stat. 491; Pub. L. 90–19, §22(b), May 25, 1967, 81 Stat. 26; Pub. L. 90–448, title VI, §603(b), Aug. 1, 1968, 82 Stat. 533; Pub. L. 96–470, title I, §107(c), Oct. 19, 1980, 94 Stat. 2238.)
 
 #### Amendments
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–470 substituted “unless the Secretary determines that due to unusual circumstances a longer period of time is necessary and in the public interest” for “unless the Secretary (1) determines that due to unusual circumstances a longer period of time is necessary and in the public interest, and (2) reports such determination promptly to the Committees on Banking and Currency of the Senate and House of Representatives”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–470 substituted "unless the Secretary determines that due to unusual circumstances a longer period of time is necessary and in the public interest" for "unless the Secretary (1) determines that due to unusual circumstances a longer period of time is necessary and in the public interest, and (2) reports such determination promptly to the Committees on Banking and Currency of the Senate and House of Representatives".
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–448 substituted “to be utilized in the future for public purposes” for “to be utilized in connection with the future construction of public works or facilities”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–448 substituted "to be utilized in the future for public purposes" for "to be utilized in connection with the future construction of public works or facilities".
 
 Subsec. (b). Pub. L. 90–448 changed the period from not more than the lesser of (1) five years from the date such loan was made or such financial obligation was incurred, or (2) the period of time between the date such loan was made or such financial obligation was incurred and the date construction is begun on the public work or facility, to not more than the lesser of (1) five years from the date of acquisition of such land, or (2) the period of time between the date on which the land was acquired and the date its use began for the purpose for which it was acquired, and inserted proviso requiring the amount of the grant, where all or any portion of the cost of land is not financed through borrowings, to be computed on the basis of the aggregate amount of reasonable interest charges that the Secretary determines would have been required.
 
@@ -36,5 +36,5 @@ Subsec. (d). Pub. L. 90–448 inserted provisions prohibiting diversion of land 
 
 Subsec. (e). Pub. L. 90–448 added subsec. (e).
 
-<b>1967</b>—Subsecs. (a), (c), (d). Pub. L. 90–19 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1967</b>—Subsecs. (a), (c), (d). Pub. L. 90–19 substituted "Secretary" for "Administrator" wherever appearing.
 

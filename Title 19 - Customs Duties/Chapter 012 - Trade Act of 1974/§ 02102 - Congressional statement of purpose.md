@@ -18,27 +18,27 @@ The purposes of this chapter are, through trade agreements affording mutual bene
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 #### Statement of Purposes of 1984 Amendment
 
-Pub. L. 98–573, title III, §302, Oct. 30, 1984, 98 Stat. 3000, provided that: “The purposes of this title \[see Short Title of 1984 Amendment note set out under section 2101 of this title\] are—
+Pub. L. 98–573, title III, §302, Oct. 30, 1984, 98 Stat. 3000, provided that: "The purposes of this title \[see Short Title of 1984 Amendment note set out under section 2101 of this title\] are—
 
-&emsp;“(1) to foster the economic growth of, and full employment in, the United States by expanding competitive United States exports through the achievement of commercial opportunities in foreign markets substantially equivalent to those accorded by the United States;
+&emsp;"(1) to foster the economic growth of, and full employment in, the United States by expanding competitive United States exports through the achievement of commercial opportunities in foreign markets substantially equivalent to those accorded by the United States;
 
-&emsp;“(2) to improve the ability of the President—
+&emsp;"(2) to improve the ability of the President—
 
-&emsp;&emsp;“(A) to identify and to analyze barriers to (and restrictions on) United States trade and investment, and
+&emsp;&emsp;"(A) to identify and to analyze barriers to (and restrictions on) United States trade and investment, and
 
-&emsp;&emsp;“(B) to achieve the elimination of such barriers and restrictions;
+&emsp;&emsp;"(B) to achieve the elimination of such barriers and restrictions;
 
-&emsp;“(3) to encourage the expansion of—
+&emsp;"(3) to encourage the expansion of—
 
-&emsp;&emsp;“(A) international trade in services through the negotiation of agreements (both bilateral and multilateral) which reduce or eliminate barriers to international trade in services, and
+&emsp;&emsp;"(A) international trade in services through the negotiation of agreements (both bilateral and multilateral) which reduce or eliminate barriers to international trade in services, and
 
-&emsp;&emsp;“(B) United States service industries in foreign commerce; and
+&emsp;&emsp;"(B) United States service industries in foreign commerce; and
 
-&emsp;“(4) to enhance the free flow of foreign direct investment through the negotiation of agreements (both bilateral and multilateral) which reduce or eliminate the trade distortive effects of certain investment-related measures.”
+&emsp;"(4) to enhance the free flow of foreign direct investment through the negotiation of agreements (both bilateral and multilateral) which reduce or eliminate the trade distortive effects of certain investment-related measures."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

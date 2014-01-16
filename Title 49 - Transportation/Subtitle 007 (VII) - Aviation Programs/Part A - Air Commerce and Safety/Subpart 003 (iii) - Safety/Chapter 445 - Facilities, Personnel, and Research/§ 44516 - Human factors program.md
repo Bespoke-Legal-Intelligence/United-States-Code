@@ -8,7 +8,7 @@ Human Factors Training.—
 
 Air traffic controllers.—The Administrator of the Federal Aviation Administration shall—
 
-&emsp;&emsp;(A) address the problems and concerns raised by the National Research Council in its report “The Future of Air Traffic Control” on air traffic control automation; and
+&emsp;&emsp;(A) address the problems and concerns raised by the National Research Council in its report "The Future of Air Traffic Control" on air traffic control automation; and
 
 &emsp;&emsp;(B) respond to the recommendations made by the National Research Council.
 
@@ -34,7 +34,7 @@ Report.—Not later than 1 year after the date of the enactment of this section,
 
 (d)
 
-Advanced Qualification Program Defined.—In this section, the term “advanced qualification program” means an alternative method for qualifying, training, certifying, and ensuring the competency of flight crews and other commercial aviation operations personnel subject to the training and evaluation requirements of parts 121 and 135 of title 14, Code of Federal Regulations.
+Advanced Qualification Program Defined.—In this section, the term "advanced qualification program" means an alternative method for qualifying, training, certifying, and ensuring the competency of flight crews and other commercial aviation operations personnel subject to the training and evaluation requirements of parts 121 and 135 of title 14, Code of Federal Regulations.
 
 (Added Pub. L. 106–181, title VII, §713(a), Apr. 5, 2000, 114 Stat. 160.)
 

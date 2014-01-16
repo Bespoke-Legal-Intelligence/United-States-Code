@@ -4,15 +4,15 @@ In this subchapter:
 
 #### (1) Authority
 
-&emsp;The term “Authority” means the Delta Regional Authority established by section 2009aa–1 of this title.
+&emsp;The term "Authority" means the Delta Regional Authority established by section 2009aa–1 of this title.
 
 #### (2) Region
 
-&emsp;The term “region” means the Lower Mississippi (as defined in section 4 of the Delta Development Act (42 U.S.C. 3121 note; Public Law 100–460)).
+&emsp;The term "region" means the Lower Mississippi (as defined in section 4 of the Delta Development Act (42 U.S.C. 3121 note; Public Law 100–460)).
 
 #### (3) Federal grant program
 
-&emsp;The term “Federal grant program” means a Federal grant program to provide assistance in—
+&emsp;The term "Federal grant program" means a Federal grant program to provide assistance in—
 
 &emsp;&emsp;(A) acquiring or developing land;
 
@@ -38,43 +38,43 @@ The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Cong
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title V, §502\], Dec. 21, 2000, 114 Stat. 2763, 2763A–268, provided that:
 
-“(a)
+"(a)
 
 Findings.—Congress finds that—
 
-&emsp;“(1) the lower Mississippi River region (referred to in this title \[enacting this subchapter and amending provisions classified as a note under section 3121 of Title 42, The Public Health and Welfare\] as the ‘region’), though rich in natural and human resources, lags behind the rest of the United States in economic growth and prosperity;
+&emsp;"(1) the lower Mississippi River region (referred to in this title \[enacting this subchapter and amending provisions classified as a note under section 3121 of Title 42, The Public Health and Welfare\] as the 'region'), though rich in natural and human resources, lags behind the rest of the United States in economic growth and prosperity;
 
-&emsp;“(2) the region suffers from a greater proportion of measurable poverty and unemployment than any other region of the United States;
+&emsp;"(2) the region suffers from a greater proportion of measurable poverty and unemployment than any other region of the United States;
 
-&emsp;“(3) the greatest hope for economic growth and revitalization in the region lies in the development of transportation infrastructure, creation of jobs, expansion of businesses, and development of entrepreneurial local economies;
+&emsp;"(3) the greatest hope for economic growth and revitalization in the region lies in the development of transportation infrastructure, creation of jobs, expansion of businesses, and development of entrepreneurial local economies;
 
-&emsp;“(4) the economic progress of the region requires an adequate transportation and physical infrastructure, a skilled and trained workforce, and greater opportunities for enterprise development and entrepreneurship;
+&emsp;"(4) the economic progress of the region requires an adequate transportation and physical infrastructure, a skilled and trained workforce, and greater opportunities for enterprise development and entrepreneurship;
 
-&emsp;“(5) a concerted and coordinated effort among Federal, State, and local agencies, the private sector, and nonprofit groups is needed if the region is to achieve its full potential for economic development;
+&emsp;"(5) a concerted and coordinated effort among Federal, State, and local agencies, the private sector, and nonprofit groups is needed if the region is to achieve its full potential for economic development;
 
-&emsp;“(6) economic development planning on a regional or multicounty basis offers the best prospect for achieving the maximum benefit from public and private investments; and
+&emsp;"(6) economic development planning on a regional or multicounty basis offers the best prospect for achieving the maximum benefit from public and private investments; and
 
-&emsp;“(7) improving the economy of the region requires a special emphasis on areas of the region that are most economically distressed.
+&emsp;"(7) improving the economy of the region requires a special emphasis on areas of the region that are most economically distressed.
 
-“(b)
+"(b)
 
 Purposes.—The purposes of this title are—
 
-&emsp;“(1) to promote and encourage the economic development of the region—
+&emsp;"(1) to promote and encourage the economic development of the region—
 
-&emsp;&emsp;“(A) to ensure that the communities and people in the region have the opportunity for economic development; and
+&emsp;&emsp;"(A) to ensure that the communities and people in the region have the opportunity for economic development; and
 
-&emsp;&emsp;“(B) to ensure that the economy of the region reaches economic parity with that of the rest of the United States;
+&emsp;&emsp;"(B) to ensure that the economy of the region reaches economic parity with that of the rest of the United States;
 
-&emsp;“(2) to establish a formal framework for joint Federal-State collaboration in meeting and focusing national attention on the economic development needs of the region;
+&emsp;"(2) to establish a formal framework for joint Federal-State collaboration in meeting and focusing national attention on the economic development needs of the region;
 
-&emsp;“(3) to assist the region in obtaining the transportation and basic infrastructure, skills training, and opportunities for economic development that are essential for strong local economies;
+&emsp;"(3) to assist the region in obtaining the transportation and basic infrastructure, skills training, and opportunities for economic development that are essential for strong local economies;
 
-&emsp;“(4) to foster coordination among all levels of government, the private sector, and nonprofit groups in crafting common regional strategies that will lead to broader economic growth;
+&emsp;"(4) to foster coordination among all levels of government, the private sector, and nonprofit groups in crafting common regional strategies that will lead to broader economic growth;
 
-&emsp;“(5) to strengthen efforts that emphasize regional approaches to economic development and planning;
+&emsp;"(5) to strengthen efforts that emphasize regional approaches to economic development and planning;
 
-&emsp;“(6) to encourage the participation of interested citizens, public officials, agencies, and others in developing and implementing local and regional plans for broad-based economic and community development; and
+&emsp;"(6) to encourage the participation of interested citizens, public officials, agencies, and others in developing and implementing local and regional plans for broad-based economic and community development; and
 
-&emsp;“(7) to focus special attention on areas of the region that suffer from the greatest economic distress.”
+&emsp;"(7) to focus special attention on areas of the region that suffer from the greatest economic distress."
 

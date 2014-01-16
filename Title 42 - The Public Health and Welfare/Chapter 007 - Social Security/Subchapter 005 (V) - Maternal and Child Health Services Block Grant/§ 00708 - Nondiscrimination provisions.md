@@ -38,7 +38,7 @@ Provisions similar to those comprising former section 708 were contained in sect
 
 #### Amendments
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–239 substituted “702(c) of this title” for “702(b) of this title” in introductory provisions.
+<b>1989</b>—Subsec. (b). Pub. L. 101–239 substituted "702(c) of this title" for "702(b) of this title" in introductory provisions.
 
 #### Effective Date of 1989 Amendment
 

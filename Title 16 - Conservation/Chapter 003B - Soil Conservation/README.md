@@ -7,7 +7,7 @@
 | [590c.](%C2%A7%2000590c%20-%20Conditions%20under%20which%20benefits%20of%20law%20extended%20to%20nongovernment%20controlled%20lands.md) | Conditions under which benefits of law extended to nongovernment controlled lands. |
 | [590d.](%C2%A7%2000590d%20-%20Cooperation%20of%20governmental%20agencies%3B%20officers%20and%20employees%2C%20appointment%20and%20compensation%3B%20expenditures%20for%20personal%20services%20and%E2%80%A6.md) | Cooperation of governmental agencies; officers and employees, appointment and compensation; expenditures for personal services and supplies. |
 | 590e to 590e–2. Repealed or Omitted. |  |
-| [590f.](%C2%A7%2000590f%20-%20Authorization%20of%20appropriation.md) | Authorization of appropriation. |
+| [590f.](%C2%A7%2000590f%20-%20Authorization%20of%20appropriations%20and%20conservation%20technical%20assistance%20funds.md) | Authorization of appropriations and conservation technical assistance funds. |
 | [590g.](%C2%A7%2000590g%20-%20Additional%20policies%20and%20purposes%20of%20chapter.md) | Additional policies and purposes of chapter. |
 | 590g–1, 590g–2. Omitted. |  |
 | [590h.](%C2%A7%2000590h%20-%20Payments%20and%20grants%20of%20aid.md) | Payments and grants of aid. |
@@ -22,7 +22,7 @@
 | 590<i>o.</i> | Authorization of appropriations; distribution of appropriated funds. |
 | [590p.](%C2%A7%2000590p%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20III%2C%20%C2%A7336%28b%29%281%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201006.md) | Repealed. |
 | 590p–1. | Limitation on wetlands drainage assistance to aid wildlife preservation; termination of limitation; redetermination of need for assistance upon change of ownership of lands. |
-| [590q.](%C2%A7%2000590q%20-%20Coverage%3B%20%E2%80%9CState%E2%80%9D%20defined%3B%20short%20title.md) | Coverage; “State” defined; short title. |
+| [590q.](%C2%A7%2000590q%20-%20Coverage%3B%20State%20defined%3B%20short%20title.md) | Coverage; "State" defined; short title. |
 | 590q–1. | Sale and distribution of supplies, materials, and equipment to other Government agencies; reimbursement. |
 | 590q–2. | Voluntary relinquishment of allotments. |
 | 590q–3. | Critical lands resource conservation program in Great Plains area. |
@@ -40,7 +40,7 @@
 - [&sect; 00590d - Cooperation of governmental agencies; officers and employees, appointment and compensation; expenditures for personal services and&#8230;](%C2%A7%2000590d%20-%20Cooperation%20of%20governmental%20agencies%3B%20officers%20and%20employees%2C%20appointment%20and%20compensation%3B%20expenditures%20for%20personal%20services%20and%E2%80%A6.md)
 - [&sect; 00590e - Repealed. Pub. L. 103&#8211;354, title II, &sect;246(f)(1), Oct. 13, 1994, 108 Stat. 3225](%C2%A7%2000590e%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93354%2C%20title%20II%2C%20%C2%A7246%28f%29%281%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203225.md)
 - [&sect; 00590e&#8211;1, 590e&#8211;2 - Omitted](%C2%A7%2000590e%E2%80%931%2C%20590e%E2%80%932%20-%20Omitted.md)
-- [&sect; 00590f - Authorization of appropriation](%C2%A7%2000590f%20-%20Authorization%20of%20appropriation.md)
+- [&sect; 00590f - Authorization of appropriations and conservation technical assistance funds](%C2%A7%2000590f%20-%20Authorization%20of%20appropriations%20and%20conservation%20technical%20assistance%20funds.md)
 - [&sect; 00590g - Additional policies and purposes of chapter](%C2%A7%2000590g%20-%20Additional%20policies%20and%20purposes%20of%20chapter.md)
 - [&sect; 00590g&#8211;1, 590g&#8211;2 - Omitted](%C2%A7%2000590g%E2%80%931%2C%20590g%E2%80%932%20-%20Omitted.md)
 - [&sect; 00590h - Payments and grants of aid](%C2%A7%2000590h%20-%20Payments%20and%20grants%20of%20aid.md)
@@ -58,7 +58,7 @@
 - [&sect; 00590o - Authorization of appropriations; distribution of appropriated funds](%C2%A7%2000590o%20-%20Authorization%20of%20appropriations%3B%20distribution%20of%20appropriated%20funds.md)
 - [&sect; 00590p - Repealed. Pub. L. 104&#8211;127, title III, &sect;336(b)(1), Apr. 4, 1996, 110 Stat. 1006](%C2%A7%2000590p%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20III%2C%20%C2%A7336%28b%29%281%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201006.md)
 - [&sect; 00590p&#8211;1 - Limitation on wetlands drainage assistance to aid wildlife preservation; termination of limitation; redetermination of need for&#8230;](%C2%A7%2000590p%E2%80%931%20-%20Limitation%20on%20wetlands%20drainage%20assistance%20to%20aid%20wildlife%20preservation%3B%20termination%20of%20limitation%3B%20redetermination%20of%20need%20for%E2%80%A6.md)
-- [&sect; 00590q - Coverage; &#8220;State&#8221; defined; short title](%C2%A7%2000590q%20-%20Coverage%3B%20%E2%80%9CState%E2%80%9D%20defined%3B%20short%20title.md)
+- [&sect; 00590q - Coverage; State defined; short title](%C2%A7%2000590q%20-%20Coverage%3B%20State%20defined%3B%20short%20title.md)
 - [&sect; 00590q&#8211;1 - Sale and distribution of supplies, materials, and equipment to other Government agencies; reimbursement](%C2%A7%2000590q%E2%80%931%20-%20Sale%20and%20distribution%20of%20supplies%2C%20materials%2C%20and%20equipment%20to%20other%20Government%20agencies%3B%20reimbursement.md)
 - [&sect; 00590q&#8211;2 - Voluntary relinquishment of allotments](%C2%A7%2000590q%E2%80%932%20-%20Voluntary%20relinquishment%20of%20allotments.md)
 - [&sect; 00590q&#8211;3 - Critical lands resource conservation program in Great Plains area](%C2%A7%2000590q%E2%80%933%20-%20Critical%20lands%20resource%20conservation%20program%20in%20Great%20Plains%20area.md)

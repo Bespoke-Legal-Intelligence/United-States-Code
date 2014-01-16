@@ -6,7 +6,7 @@ Office of Terrorism and Financial Intelligence.—
 
 &emsp;(1)
 
-Establishment.—There is established within the Department of the Treasury the Office of Terrorism and Financial Intelligence (in this section referred to as “OTFI”), which shall be the successor to any such office in existence on the date of enactment of this section.
+Establishment.—There is established within the Department of the Treasury the Office of Terrorism and Financial Intelligence (in this section referred to as "OTFI"), which shall be the successor to any such office in existence on the date of enactment of this section.
 
 &emsp;(2)
 
@@ -66,11 +66,11 @@ Other offices within otfi.—Notwithstanding any other provision of law, the fol
 
 &emsp;&emsp;(B) The Office of the Assistant Secretary for Terrorist Financing, which shall report directly to the Undersecretary for Terrorism and Financial Crimes.
 
-&emsp;&emsp;(C) The Office of Foreign Assets Control (in this section referred to as the “OFAC”), which shall report directly to the Undersecretary for Terrorism and Financial Crimes.
+&emsp;&emsp;(C) The Office of Foreign Assets Control (in this section referred to as the "OFAC"), which shall report directly to the Undersecretary for Terrorism and Financial Crimes.
 
 &emsp;&emsp;(D) The Executive Office for Asset Forfeiture, which shall report to the Undersecretary for Terrorism and Financial Crimes.
 
-&emsp;&emsp;(E) The Office of Intelligence and Analysis (in this section referred to as the “OIA”), which shall report to the Assistant Secretary for Intelligence and Analysis.
+&emsp;&emsp;(E) The Office of Intelligence and Analysis (in this section referred to as the "OIA"), which shall report to the Assistant Secretary for Intelligence and Analysis.
 
 &emsp;&emsp;(F) The Office of Terrorist Financing, which shall report to the Assistant Secretary for Terrorist Financing.
 
@@ -80,7 +80,7 @@ FinCEN.—
 
 &emsp;&emsp;(A)
 
-Reporting to undersecretary.—The Financial Crimes Enforcement Network (in this section referred to as “FinCEN”), a bureau of the Department of the Treasury, shall report to the Undersecretary for Terrorism and Financial Crimes. The Undersecretary for Terrorism and Financial Crimes may not redelegate its reporting authority over FinCEN.
+Reporting to undersecretary.—The Financial Crimes Enforcement Network (in this section referred to as "FinCEN"), a bureau of the Department of the Treasury, shall report to the Undersecretary for Terrorism and Financial Crimes. The Undersecretary for Terrorism and Financial Crimes may not redelegate its reporting authority over FinCEN.
 
 &emsp;&emsp;(B)
 
@@ -134,7 +134,7 @@ Use of Existing Resources.—The Secretary may employ personnel, facilities, and
 
 (f)
 
-References.—References in this section to the “Secretary”, “Undersecretary”, “Deputy Secretary”, “Deputy Assistant Secretary”, “Office”, “Assistant Secretary”, and “Department” are references to positions and offices of the Department of the Treasury, unless otherwise specified.
+References.—References in this section to the "Secretary", "Undersecretary", "Deputy Secretary", "Deputy Assistant Secretary", "Office", "Assistant Secretary", and "Department" are references to positions and offices of the Department of the Treasury, unless otherwise specified.
 
 (Added Pub. L. 108–447, div. H, title II, §222(a), Dec. 8, 2004, 118 Stat. 3242, §313; renumbered §312, Pub. L. 111–203, title V, §502(a)(2), July 21, 2010, 124 Stat. 1580.)
 
@@ -144,7 +144,7 @@ The date of enactment of this section, referred to in subsecs. (a)(1) and (e), i
 
 For the Bank Secrecy Act, referred to in subsec. (a)(4)(A), see Short Title note set out under section 1951 of Title 12, Banks and Banking, and Tables.
 
-Section 105 of the Intelligence Authorization Act for Fiscal Year 2004, referred to in subsec. (b)(4)(A), is section 105 of Pub. L. 108–177, title I, Dec. 13, 2003, 117 Stat.2603, which enacted section 311 of this title. For complete classification of section 105 to the Code, see Tables.
+Section 105 of the Intelligence Authorization Act for Fiscal Year 2004, referred to in subsec. (b)(4)(A), is section 105 of Pub. L. 108–177, title I, Dec. 13, 2003, 117 Stat. 2603, which enacted section 311 of this title. For complete classification of section 105 to the Code, see Tables.
 
 Section 9703 of title 31, referred to in subsec. (d), probably means the section 9703 of this title added by section 638(b)(1) of Pub. L. 102–393.
 
@@ -158,7 +158,7 @@ A prior section 312 was renumbered section 315 of this title.
 
 #### Change of Name
 
-Reference to Community Management Staff deemed to be a reference to the staff of the Office of the Director of National Intelligence, see section 1081(c) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to Community Management Staff deemed to be a reference to the staff of the Office of the Director of National Intelligence, see section 1081(c) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Effective Date of 2010 Amendment
 

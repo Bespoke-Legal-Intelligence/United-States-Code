@@ -12,7 +12,7 @@ Lands located within the boundaries of a conservation system unit which are owne
 
 &emsp;(B) a Native Corporation or Native Group which has Natives as a majority of its stockholders;
 
-&emsp;(C) the actual occupant of a tract, title to the surface estate of which was on, before, or after December 2, 1980, conveyed to such occupant pursuant to section 1613(c)(1) and (h)(5) of title 43, unless the Secretary determines that the tract is no longer occupied for the purpose described in section 1613(c)(1) or (h)(5) of title 43 for which the tract was conveyed and that activities on the tract are or will be detrimental to the purposes of the unit in which the tract is located; or
+&emsp;(C) the actual occupant of a tract, title to the surface estate of which was on, before, or after December 2, 1980, conveyed to such occupant pursuant to section 1613(c)(1) and (h)(5) of title 43, unless the Secretary determines that the tract is no longer occupied for the purpose described in section 1613(c)(1) or (h)(5) of title 43 for which the tract was conveyed and thatactivities on the tract are or will be detrimental to the purposes of the unit in which the tract is located; or
 
 &emsp;(D) a spouse or lineal descendant of the actual occupant of a tract described in subparagraph (C), unless the Secretary determines that activities on the tract are or will be detrimental to the purposes of the unit in which the tract is located—
 
@@ -30,11 +30,11 @@ No improved property shall be acquired under subsection (a) of this section with
 
 The owner of an improved property on the date of its acquisition, as a condition of such acquisition, may retain for himself, his heirs and assigns, a right of use and occupancy of the improved property for noncommercial residential or recreational purposes, as the case may be, for a definite term of not more than twenty-five years, or in lieu thereof, for a term ending at the death of the owner or the death of his spouse, whichever is later. The owner shall elect the term to be reserved. Unless the property is wholly or partially donated, the Secretary shall pay to the owner the fair market value of the owner's interest in the property on the date of its acquisition, less the fair market value on that date of the right retained by the owner. A right retained by the owner pursuant to this section shall be subject to termination by the Secretary upon his determination that such right is being exercised in a manner inconsistent with the purposes of this Act, and it shall terminate by operation of law upon notification by the Secretary to the holder of the right of such determination and tendering to him the amount equal to the fair market value of that portion which remains unexpired.
 
-#### (f) “Improved property” defined
+#### (f) "Improved property" defined
 
-For the purposes of this section, the term “improved property” means—
+For the purposes of this section, the term "improved property" means—
 
-&emsp;(1) a detached single family dwelling, the construction of which was begun before January 1, 1980 (hereinafter referred to as the “dwelling”), together with the land on which the dwelling is situated to the extent that such land—
+&emsp;(1) a detached single family dwelling, the construction of which was begun before January 1, 1980 (hereinafter referred to as the "dwelling"), together with the land on which the dwelling is situated to the extent that such land—
 
 &emsp;&emsp;(A) is in the same ownership as the dwelling or is Federal land on which entry was legal and proper, and
 
@@ -42,7 +42,7 @@ For the purposes of this section, the term “improved property” means—
 
 &emsp;(2) property developed for noncommercial recreational uses, together with any structures accessory thereto which were so used on or before January 1, 1980, to the extent that entry onto such property was legal and proper.
 
-> In determining when and to what extent a property is to be considered an “improved property”, the Secretary shall take into consideration the manner of use of such buildings and lands prior to January 1, 1980, and shall designate such lands as are reasonably necessary for the continued enjoyment of the property in the same manner and to the same extent as existed before such date.
+> In determining when and to what extent a property is to be considered an "improved property", the Secretary shall take into consideration the manner of use of such buildings and lands prior to January 1, 1980, and shall designate such lands as are reasonably necessary for the continued enjoyment of the property in the same manner and to the same extent as existed before such date.
 
 #### (g) Consideration of hardship
 
@@ -56,7 +56,7 @@ The Secretary shall give prompt and careful consideration to any offer made by t
 
 #### (i) Donation or exchange
 
-(1) The Secretary is authorized to acquire by donation or exchange, lands (A) which are contiguous to any conservation system unit established or expanded by this Act, and (B) which are owned or validly selected by the State of Alaska.
+(1) The Secretary is authorized to acquire by donation or exchange, lands (A) which are contiguous to any conservation system unit established or expanded by this Act, and (B) whichare owned or validly selected by the State of Alaska.
 
 (2) Any such lands so acquired shall become a part of such conservation system unit.
 

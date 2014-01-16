@@ -40,7 +40,7 @@ A drug or device—
 
 &emsp;&emsp;(II) the manufacture, preproduction design validation, packing, storage, and installation of a device are adequate to assure that the device will be safe and effective.
 
-&emsp;(iii) Statutory or regulatory requirements for the reporting of adverse reactions to drugs and devices and procedures to withdraw approval and remove drugs and devices found not to be safe or effective.
+&emsp;(iii) Statutory or regulatory requirements for the reporting of adverse reactions to drugsand devices and procedures to withdraw approval and remove drugs and devices found not to be safe or effective.
 
 &emsp;(iv) Statutory or regulatory requirements that the labeling and promotion of drugs and devices must be in accordance with the approval of the drug or device.
 
@@ -142,13 +142,13 @@ A drug or device may not be exported under this section—
 
 The exporter of a drug or device exported under subsection (b)(1) of this section shall provide a simple notification to the Secretary identifying the drug or device when the exporter first begins to export such drug or device to any country listed in clause (i) or (ii) of subsection (b)(1)(A) of this section. When an exporter of a drug or device first begins to export a drug or device to a country which is not listed in clause (i) or (ii) of subsection (b)(1)A) <sup>1</sup> of this section, the exporter shall provide a simple notification to the Secretary identifying the drug or device and the country to which such drug or device is being exported. Any exporter of a drug or device shall maintain records of all drugs or devices exported and the countries to which they were exported.
 
-#### (h) References to Secretary and term “drug”
+#### (h) References to Secretary and term "drug"
 
 For purposes of this section—
 
 &emsp;(1) a reference to the Secretary shall in the case of a biological product which is required to be licensed under the Act of March 4, 1913 \[21 U.S.C. 151 et seq.\] (37 Stat. 832–833) (commonly known as the Virus-Serum Toxin Act) be considered to be a reference to the Secretary of Agriculture, and
 
-&emsp;(2) the term “drug” includes drugs for human use as well as biologicals under section 262 of title 42 or the Act of March 4, 1913 (37 Stat. 832–833) (commonly known as the Virus-Serum Toxin Act).
+&emsp;(2) the term "drug" includes drugs for human use as well as biologicals under section 262 of title 42 or the Act of March 4, 1913 (37 Stat. 832–833) (commonly known as the Virus-Serum Toxin Act).
 
 #### (i) Exportation
 
@@ -158,7 +158,7 @@ Insulin and antibiotic drugs may be exported without regard to the requirements 
 
 #### References in Text
 
-Act of March 4, 1913 (known as the Virus-Serum Toxin Act), referred to in subsecs. (a)(1)(A)(ii), (C), (2)(C) and (h), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 151 of this title and Tables.
+Act of March 4, 1913 (known as the Virus-Serum Toxin Act), referred to in subsecs. (a)(1)(A)(ii), (C), (2)(C) and (h), is the eighth paragraph under the heading "Bureau of Animal Industry" of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see ShortTitle note set out under section 151 of this title and Tables.
 
 #### Amendments
 
@@ -166,7 +166,7 @@ Act of March 4, 1913 (known as the Virus-Serum Toxin Act), referred to in subsec
 
 <b>1996</b>—Pub. L. 104–134 reenacted section catchline without change and amended text generally. Prior to amendment, text related to exports of certain unapproved products, including provisions relating to drugs intended for human or animal use which required approval or licensing, conditions for export, active pursuit of drug approval or licensing, application for export, contents, approval or disapproval, list of eligible countries for export, and criteria for list change, report to Secretary by holder of approved application, events requiring report, and annual report to Secretary on pursuit of approval of drug, export of drug under approved application prohibited under certain conditions, determination by Secretary of noncompliance, failure of active pursuit of drug approval, imminent hazard of drug to public health, or exportation of drug to noneligible country, notices, hearings, and prohibition on exportation of drug under certain circumstances, drugs used in prevention or treatment of tropical disease, and reference to Secretary and holder of application.
 
-Subsec. (f)(5). Pub. L. 104–180 substituted “if the labeling of the drug or device is not” for “if the drug or device is not labeled”.
+Subsec. (f)(5). Pub. L. 104–180 substituted "if the labeling of the drug or device is not" for "if the drug or device is not labeled".
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(b)(1)(A)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be subsection "(b)(1)(A)".</i>
 

@@ -8,7 +8,7 @@ In furtherance of the purposes of this chapter, the President may—
 
 &emsp;(2) assign volunteers in special cases to temporary duty with international organizations and agencies when the Secretary of State determines that such assignment would serve the purposes of this chapter;
 
-&emsp;(3) assign volunteers to duty or otherwise make them available to any entity referred to in paragraph (1), in order to assist such organizations and agencies in providing development or other relief assistance to displaced persons and refugees in any country, if the government of the country agrees to such assignment;
+&emsp;(3) assign volunteers to duty or otherwise make them available to any entity referred toin paragraph (1), in order to assist such organizations and agencies in providing development or other relief assistance to displaced persons and refugees in any country, if the government of the country agrees to such assignment;
 
 &emsp;(4) accept in the name of the Peace Corps and employ or transfer in furtherance of the purposes of this chapter (A) voluntary services notwithstanding the provisions of section 1342 of title 31, and (B) any money or property (real, personal or mixed, tangible or intangible) received by gift, devise, bequest, or otherwise; and
 
@@ -44,7 +44,7 @@ The President may provide hospitalization and medical treatment to Foreign Servi
 
 #### (i) Procurement of legal services
 
-The Director of the Peace Corps shall have the same authority as is available to the Secretary of State under section 2698(a) of this title. For purposes of this subsection, the reference in such section 2698(a) of this title to a principal officer of the Foreign Service shall be deemed to be a reference to a Peace Corps representative and the reference in such section to a member of the Foreign Service shall be deemed to be a reference to a person employed, appointed, or assigned under this chapter.
+The Director of the Peace Corps shall have the same authority as is available to the Secretaryof State under section 2698(a) of this title. For purposes of this subsection, the reference in such section 2698(a) of this title to a principal officer of the Foreign Service shall be deemed to be a reference to a Peace Corps representative and the reference in such section to a member of the Foreign Service shall be deemed to be a reference to a person employed, appointed, or assigned under this chapter.
 
 #### (j) Malpractice protection
 
@@ -54,7 +54,7 @@ The provisions of section 2702 of this title shall apply to volunteers and perso
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–293, Sept. 22, 1961, 75 Stat. 612, as amended, known as the Peace Corps Act. For complete classification of this Act to the Code, see Short Title note set out under section 2501 of this title and Tables.
 
 The Foreign Service Act of 1980, referred to in subsec. (a)(5), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
@@ -62,17 +62,17 @@ The Renegotiation Act of 1951, as amended, referred to in subsec. (d), is act Ma
 
 #### Codification
 
-In subsec. (d), “sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41” substituted for “section 3709 of the Revised Statutes of the United States, as amended, section 302 of the Federal Property and Administrative Services Act of 1949,” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (d), "sections 3101(a) and (c), 3104, 3106, 3301(b)(2), and 6101 of title 41" substituted for "section 3709 of the Revised Statutes of the United States, as amended, section 302 of the Federal Property and Administrative Services Act of 1949," on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(5). Pub. L. 112–57 substituted “the purposes of any law administered by the Office of Personnel Management (except that the President may determine the applicability to such individuals of provisions of the Foreign Service Act of 1980 (22 U.S.C. 3901 et seq.))” for “any purpose”.
+<b>2011</b>—Subsec. (a)(5). Pub. L. 112–57 substituted "the purposes of any law administered by the Office of Personnel Management (except that the President may determine the applicability to such individuals of provisions of the Foreign Service Act of 1980 (22 U.S.C. 3901 et seq.))" for "any purpose".
 
-<b>1999</b>—Subsec. (a)(4). Pub. L. 106–30 substituted “section 1342 of title 31” for “31 U.S.C. 665(b)”.
+<b>1999</b>—Subsec. (a)(4). Pub. L. 106–30 substituted "section 1342 of title 31" for "31 U.S.C. 665(b)".
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–236, §602(a), which directed amendment of subsec. (c) by substituting “five years” for “thirty six months”, was executed by making the substitution for “thirty-six months” to reflect the probable intent of Congress.
+<b>1994</b>—Subsec. (c). Pub. L. 103–236, §602(a), which directed amendment of subsec. (c) by substituting "five years" for "thirty six months", was executed by making the substitution for "thirty-six months" to reflect the probable intent of Congress.
 
-Subsec. (j). Pub. L. 103–236, §602(b), inserted before period at end of first sentence “, and to individuals employed under personal services contracts to furnish medical services abroad pursuant to subsection (a)(5) of this section.”
+Subsec. (j). Pub. L. 103–236, §602(b), inserted before period at end of first sentence ", and to individuals employed under personal services contracts to furnish medical services abroad pursuant to subsection (a)(5) of this section."
 
 <b>1981</b>—Subsecs. (i), (j). Pub. L. 97–113 added subsecs. (i) and (j).
 
@@ -80,21 +80,21 @@ Subsec. (j). Pub. L. 103–236, §602(b), inserted before period at end of first
 
 Subsec. (a)(3) to (5). Pub. L. 95–331, §5(c), added par. (3) and redesignated former pars. (3) and (4) as (4) and (5), respectively.
 
-Subsec. (b). Pub. L. 95–331, §5(a)(2), substituted “$20,000” for “$10,000”.
+Subsec. (b). Pub. L. 95–331, §5(a)(2), substituted "$20,000" for "$10,000".
 
 Subsec. (h). Pub. L. 95–331, §5(a)(3), added subsec. (h).
 
 <b>1973</b>—Subsec. (d). Pub. L. 93–49 excepted from waiver of Federal laws the application of sections 5 and 252 of title 41.
 
-<b>1966</b>—Subsec. (a)(3). Pub. L. 89–572 inserted “or transfer” after “and employ” and struck out “, and transfer such money or property to the government or other entities of the country or area with which the volunteers are serving, when such transfers would further the general purposes of the chapter”.
+<b>1966</b>—Subsec. (a)(3). Pub. L. 89–572 inserted "or transfer" after "and employ" and struck out ", and transfer such money or property to the government or other entities of the country or area with which the volunteers are serving, when such transfers would further the general purposes of the chapter".
 
-<b>1965</b>—Subsec. (a)(3). Pub. L. 89–134 inserted “money or” after “and transfer such”.
+<b>1965</b>—Subsec. (a)(3). Pub. L. 89–134 inserted "money or" after "and transfer such".
 
 <b>1963</b>—Subsec. (a)(3). Pub. L. 88–200 inserted provision for transfer of property.
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–331, §5(b), Aug. 2, 1978, 92 Stat. 415, provided that: “The amendment made by paragraph (2) of subsection (a) \[amending this section\] shall apply to claims made after the date of the enactment of this Act \[Aug. 2, 1978\].”
+Pub. L. 95–331, §5(b), Aug. 2, 1978, 92 Stat. 415, provided that: "The amendment made by paragraph (2) of subsection (a) \[amending this section\] shall apply to claims made after the date of the enactment of this Act \[Aug. 2, 1978\]."
 
 #### Delegation of Functions; Allocation of Funds
 
@@ -102,11 +102,11 @@ Funds available to President under this chapter allocated to and functions of Pr
 
 #### Prohibition Against Use of Funds Appropriated After February 15, 1981, and Before December 29, 1981, for Legal Services or Malpractice Protection
 
-Pub. L. 97–113, title VI, §604(c), Dec. 29, 1981, 95 Stat. 1543, provided: “To the extent that the authorities provided by the amendments made by subsection (a) \[enacting subsecs. (i) and (j) of this section\] are authorities which are not applicable with respect to the Peace Corps immediately before the enactment of this Act \[Dec. 29, 1981\] and which require the expenditure of funds, those authorities may not be exercised using any funds appropriated after February 15, 1981, and before the date of the enactment of this Act.”
+Pub. L. 97–113, title VI, §604(c), Dec. 29, 1981, 95 Stat. 1543, provided: "To the extent that the authorities provided by the amendments made by subsection (a) \[enacting subsecs. (i) and (j) of this section\] are authorities which are not applicable with respect to the Peace Corps immediately before the enactment of this Act \[Dec. 29, 1981\] and which require the expenditure of funds, those authorities may not be exercised using any funds appropriated after February 15, 1981, and before the date of the enactment of this Act."
 
 #### Waiver of Certain Laws by President Under Subsec. (d)
 
-For determination under subsec. (d) of this section that it is in the furtherance of the purposes of this chapter and that the functions under this chapter may be performed without regard to the applicable laws specified in section 1 and 2 of Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of this title, with certain limitations see section 1–402 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29203, set out as a note under section 2501 of this title.
+For determination under subsec. (d) of this section that it is in the furtherance of the purposes of this chapter and that the functions under this chapter maybe performed without regard to the applicable laws specified in section 1 and 2 of Ex. Ord. No. 11223, May 12, 1965, 30 F.R. 6635, set out as a note under section 2393 of this title, with certain limitations see section 1–402 of Ex. Ord. No. 12137, May 16, 1979, 44 F.R. 29203, set out as a note under section 2501 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -17,7 +17,7 @@
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–508, title XI, §11801(b)(14), Nov. 5, 1990, 104 Stat. 1388–522, struck out item for subchapter E “Collection of State individual income taxes”.
+<b>1990</b>—Pub. L. 101–508, title XI, §11801(b)(14), Nov. 5, 1990, 104 Stat. 1388–522, struck out item for subchapter E "Collection of State individual income taxes".
 
 <b>1972</b>—Pub. L. 92–512, title II, §202(b), Oct. 20, 1972, 86 Stat. 944, added item for subchapter E.
 

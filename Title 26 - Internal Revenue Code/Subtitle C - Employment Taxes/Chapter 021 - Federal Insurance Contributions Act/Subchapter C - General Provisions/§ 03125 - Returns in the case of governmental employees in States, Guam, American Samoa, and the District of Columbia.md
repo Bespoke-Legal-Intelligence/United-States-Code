@@ -24,33 +24,33 @@ A prior section 3125 was renumbered section 3128 of this title.
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–66 which directed the amendment of this section by substituting “contribution and benefit base limitation” for “applicable contribution base limitation” without specifying where the substitution was to be made, was executed by making the substitution in subsecs. (a) to (d) to reflect the probable intent of Congress.
+<b>1993</b>—Pub. L. 103–66 which directed the amendment of this section by substituting "contribution and benefit base limitation" for "applicable contribution base limitation" without specifying where the substitution was to be made, was executed by making the substitution in subsecs. (a) to (d) to reflect the probable intent of Congress.
 
-<b>1990</b>—Pub. L. 101–508 substituted “applicable contribution base limitation” for “contribution and benefit base limitation” in subsecs. (a) to (d).
+<b>1990</b>—Pub. L. 101–508 substituted "applicable contribution base limitation" for "contribution and benefit base limitation" in subsecs. (a) to (d).
 
-<b>1986</b>—Pub. L. 99–272 inserted “States” in section catchline, added subsec. (a), and redesignated former subsecs. (a) to (c) as (b) to (d), respectively.
+<b>1986</b>—Pub. L. 99–272 inserted "States" in section catchline, added subsec. (a), and redesignated former subsecs. (a) to (c) as (b) to (d), respectively.
 
-<b>1976</b>—Subsec. (c). Pub. L. 94–455 substituted “Mayor of the District of Columbia or such agents as he may designate” for “Commissioners of the District of Columbia or such agents as they may designate”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–455 substituted "Mayor of the District of Columbia or such agents as he may designate" for "Commissioners of the District of Columbia or such agents as they may designate".
 
-<b>1973</b>—Pub. L. 93–233, §5(b)(4), effective with respect to remuneration paid after 1973, substituted “$13,200” for “$12,600” wherever appearing.
+<b>1973</b>—Pub. L. 93–233, §5(b)(4), effective with respect to remuneration paid after 1973, substituted "$13,200" for "$12,600" wherever appearing.
 
-Pub. L. 93–233, §5(d), applicable only with respect to remuneration paid after, and taxable years beginning after, 1973 (as provided in section 5(e) of Pub. L. 93–233, set out as a note under section 409 of Title 42), amended section 203(b)(4)(C) of Pub. L. 92–336 (set out as 1973 Amendment note hereunder) substituting “$13,200” for “$12,600”.
+Pub. L. 93–233, §5(d), applicable only with respect to remuneration paid after, and taxable years beginning after, 1973 (as provided in section 5(e) of Pub. L. 93–233, set out as a note under section 409 of Title 42), amended section 203(b)(4)(C) of Pub. L. 92–336 (set out as 1973 Amendment note hereunder) substituting "$13,200" for "$12,600".
 
-Pub. L. 93–66, §203(b)(4), effective with respect to remuneration paid after 1973, substituted “$12,600” for “$12,000” wherever appearing.
+Pub. L. 93–66, §203(b)(4), effective with respect to remuneration paid after 1973, substituted "$12,600" for "$12,000" wherever appearing.
 
-Pub. L. 93–66, §203(d), applicable only with respect to remuneration paid after, and taxable years beginning after, 1973 (as provided in section 203(e) of Pub. L. 93–66, set out as a note under section 409 of Title 42), amended section 203(b)(4)(C) of Pub. L. 92–336 (set out as 1972 Amendment note hereunder) substituting “$12,600” for “$12,000”.
+Pub. L. 93–66, §203(d), applicable only with respect to remuneration paid after, and taxable years beginning after, 1973 (as provided in section 203(e) of Pub. L. 93–66, set out as a note under section 409 of Title 42), amended section 203(b)(4)(C) of Pub. L. 92–336 (set out as 1972 Amendment note hereunder) substituting "$12,600" for "$12,000".
 
-<b>1972</b>—Pub. L. 92–336, §203(b)(4)(A), substituted “$10,800” for “$9,000” wherever appearing.
+<b>1972</b>—Pub. L. 92–336, §203(b)(4)(A), substituted "$10,800" for "$9,000" wherever appearing.
 
-Pub. L. 92–336, §203(b)(4)(B), effective with respect to remuneration paid after 1973, substituted “$12,000” for “$10,800” wherever appearing.
+Pub. L. 92–336, §203(b)(4)(B), effective with respect to remuneration paid after 1973, substituted "$12,000" for "$10,800" wherever appearing.
 
-Pub. L. 92–336, §203(b)(4)(C), effective with respect to remuneration paid after 1974, substituted “contribution and benefit base” for “$12,000”.
+Pub. L. 92–336, §203(b)(4)(C), effective with respect to remuneration paid after 1974, substituted "contribution and benefit base" for "$12,000".
 
-<b>1971</b>—Pub. L. 92–5 substituted “$9,000” for “$7,800” wherever appearing.
+<b>1971</b>—Pub. L. 92–5 substituted "$9,000" for "$7,800" wherever appearing.
 
-<b>1968</b>—Pub. L. 90–248 substituted “$7,800” for “$6,600” wherever appearing.
+<b>1968</b>—Pub. L. 90–248 substituted "$7,800" for "$6,600" wherever appearing.
 
-<b>1965</b>—Subsecs. (a), (b). Pub. L. 89–97, §320(b)(4), substituted “$6,600” for “$4,800”.
+<b>1965</b>—Subsecs. (a), (b). Pub. L. 89–97, §320(b)(4), substituted "$6,600" for "$4,800".
 
 Subsec. (c). Pub. L. 89–97, §317(c)(1), added subsec. (c) and inserted reference to District of Columbia in section catchline.
 

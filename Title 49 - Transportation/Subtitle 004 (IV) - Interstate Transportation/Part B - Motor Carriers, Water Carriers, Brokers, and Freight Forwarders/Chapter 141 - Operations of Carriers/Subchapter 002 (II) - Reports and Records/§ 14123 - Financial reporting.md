@@ -38,7 +38,7 @@ From public release.—
 
 &emsp;&emsp;(A)
 
-In general.—The Secretary shall allow, upon request, a filer of a report under subsection (a) that is not a publicly held corporation or that is not subject to financial reporting requirements of the Securities and Exchange Commission, an exemption from the public release of such report.
+In general.—The Secretary shall allow, upon request, a filer of a report undersubsection (a) that is not a publicly held corporation or that is not subject to financial reporting requirements of the Securities and Exchange Commission, an exemption from the public release of such report.
 
 &emsp;&emsp;(B)
 
@@ -74,5 +74,5 @@ Provisions similar to those in this section were contained in section 11145 of t
 
 #### Amendments
 
-<b>1997</b>—Subsec. (c)(2)(B). Pub. L. 105–102 inserted “in” before “no event”.
+<b>1997</b>—Subsec. (c)(2)(B). Pub. L. 105–102 inserted "in" before "no event".
 

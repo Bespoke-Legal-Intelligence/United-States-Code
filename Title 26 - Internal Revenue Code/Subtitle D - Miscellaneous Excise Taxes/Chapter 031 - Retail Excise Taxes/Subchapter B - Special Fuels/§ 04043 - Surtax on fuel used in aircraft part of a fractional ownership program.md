@@ -18,7 +18,7 @@ For purposes of this section—
 
 #### (1) Fractional program aircraft
 
-&emsp;The term “fractional program aircraft” means, with respect to any fractional ownership aircraft program, any aircraft which—
+&emsp;The term "fractional program aircraft" means, with respect to any fractional ownership aircraft program, any aircraft which—
 
 &emsp;&emsp;(A) is listed as a fractional program aircraft in the management specifications issued to the manager of such program by the Federal Aviation Administration under subpart K of part 91 of title 14, Code of Federal Regulations, and
 
@@ -26,7 +26,7 @@ For purposes of this section—
 
 #### (2) Fractional ownership aircraft program
 
-&emsp;The term “fractional ownership aircraft program” means a program under which—
+&emsp;The term "fractional ownership aircraft program" means a program under which—
 
 &emsp;&emsp;(A) a single fractional ownership program manager provides fractional ownership program management services on behalf of the fractional owners,
 
@@ -46,11 +46,11 @@ For purposes of this section—
 
 #### (A) Qualified fractional owner
 
-&emsp;&emsp;The term “qualified fractional owner” means any fractional owner which has a minimum fractional ownership interest in at least one fractional program aircraft.
+&emsp;&emsp;The term "qualified fractional owner" means any fractional owner which has a minimum fractional ownership interest in at least one fractional program aircraft.
 
 #### (B) Minimum fractional ownership interest
 
-&emsp;&emsp;The term “minimum fractional ownership interest” means, with respect to each type of aircraft—
+&emsp;&emsp;The term "minimum fractional ownership interest" means, with respect to each type of aircraft—
 
 &emsp;&emsp;&emsp;(i) a fractional ownership interest equal to or greater than 1/16 of at least 1 subsonic, fixed wing, or powered lift aircraft, or
 
@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### (C) Fractional ownership interest
 
-&emsp;&emsp;The term “fractional ownership interest” means—
+&emsp;&emsp;The term "fractional ownership interest" means—
 
 &emsp;&emsp;&emsp;(i) the ownership of an interest in a fractional program aircraft,
 
@@ -68,11 +68,11 @@ For purposes of this section—
 
 #### (D) Fractional owner
 
-&emsp;&emsp;The term “fractional owner” means any person owning any interest (including the entire interest) in a fractional program aircraft.
+&emsp;&emsp;The term "fractional owner" means any person owning any interest (including the entire interest) in a fractional program aircraft.
 
 #### (4) Dry-lease aircraft exchange
 
-&emsp;The term “dry-lease aircraft exchange” means an agreement, documented by the written program agreements, under which the fractional program aircraft are available, on an as needed basis without crew, to each fractional owner.
+&emsp;The term "dry-lease aircraft exchange" means an agreement, documented by the written program agreements, under which the fractional program aircraft are available, on an as needed basis without crew, to each fractional owner.
 
 #### (5) Special rule relating to use of fractional program aircraft for flight demonstration, maintenance, or training
 
@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (6) Special rule relating to deadhead service
 
-&emsp;A fractional program aircraft shall not be considered to be used on account of a qualifiedfractional owner when it is used in deadhead service and a person other than a qualified fractional owner is separately charged for such service.
+&emsp;A fractional program aircraft shall not be considered to be used on account of a qualified fractional owner when it is used in deadhead service and a person other than a qualified fractional owner is separately charged for such service.
 
 #### (d) Termination
 
@@ -90,5 +90,5 @@ This section shall not apply to liquids used as a fuel in an aircraft after Sept
 
 #### Effective Date
 
-Pub. L. 112–95, title XI, §1103(d)(1), Feb. 14, 2012, 126 Stat. 151, provided that: “The amendments made by subsection (a) \[enacting this section and amending sections 4082 and 9502 of this title\] shall apply to fuel used after March 31, 2012.”
+Pub. L. 112–95, title XI, §1103(d)(1), Feb. 14, 2012, 126 Stat. 151, provided that: "The amendments made by subsection (a) \[enacting this section and amending sections 4082 and 9502 of this title\] shall apply to fuel used after March 31, 2012."
 

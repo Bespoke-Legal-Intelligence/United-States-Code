@@ -6,5 +6,5 @@ The Secretary shall undertake with the appropriate officials of nations in the W
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–308 substituted “Western Hemisphere” for “western hemisphere”.
+<b>2002</b>—Pub. L. 107–308 substituted "Western Hemisphere" for "western hemisphere".
 

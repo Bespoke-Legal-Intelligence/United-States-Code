@@ -20,15 +20,15 @@ It is the purpose of this chapter to assist the Nation and the States in augment
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 98–242, Mar. 22, 1984, 98 Stat. 97, known as the Water Resources Research Act of 1984. For complete classification of this Act to the Code, see Short Title note set out under section 10301 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 98–242, Mar. 22, 1984, 98 Stat. 97, known as the Water Resources Research Act of 1984. For complete classification of this Act to the Code, see Short Title note set out under section 10301 of this title and Tables.
 
 #### Amendments
 
-<b>1996</b>—Par. (5). Pub. L. 104–147, §2(1), struck out “to” before “promote” and “and” after “program;”.
+<b>1996</b>—Par. (5). Pub. L. 104–147, §2(1), struck out "to" before "promote" and "and" after "program;".
 
-Par. (6). Pub. L. 104–147, §2(2), substituted “; and” for period at end.
+Par. (6). Pub. L. 104–147, §2(2), substituted "; and" for period at end.
 
 Par. (7). Pub. L. 104–147, §2(3), added par. (7).
 
-<b>1990</b>—Par. (5). Pub. L. 101–397 substituted “to promote more effective coordination of” for “coordinate more effectively”.
+<b>1990</b>—Par. (5). Pub. L. 101–397 substituted "to promote more effective coordination of" for "coordinate more effectively".
 

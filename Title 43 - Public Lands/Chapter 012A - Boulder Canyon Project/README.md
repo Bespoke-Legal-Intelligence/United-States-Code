@@ -5,7 +5,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [617\.](Subchapter%20001%20%28I%29%20-%20Boulder%20Canyon%20Project%20Act/%C2%A7%2000617%20-%20Colorado%20River%20Basin%3B%20protection%20and%20development%3B%20dam%2C%20reservoir%2C%20and%20incidental%20works%3B%20water%2C%20water%20power%2C%20and%20electrical%20energy%3B%20eminent%E2%80%A6.md) | Colorado River Basin; protection and development; dam, reservoir, and incidental works; water, water power, and electrical energy; eminent domain. |
-| [617a.](Subchapter%20001%20%28I%29%20-%20Boulder%20Canyon%20Project%20Act/%C2%A7%2000617a%20-%20%E2%80%9CColorado%20River%20Dam%20Fund%E2%80%9D.md) | “Colorado River Dam Fund”. |
+| [617a.](Subchapter%20001%20%28I%29%20-%20Boulder%20Canyon%20Project%20Act/%C2%A7%2000617a%20-%20Colorado%20River%20Dam%20Fund.md) | "Colorado River Dam Fund". |
 | [617b.](Subchapter%20001%20%28I%29%20-%20Boulder%20Canyon%20Project%20Act/%C2%A7%2000617b%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [617c.](Subchapter%20001%20%28I%29%20-%20Boulder%20Canyon%20Project%20Act/%C2%A7%2000617c%20-%20Condition%20precedent%20to%20taking%20effect%20of%20provisions.md) | Condition precedent to taking effect of provisions. |
 | [617d.](Subchapter%20001%20%28I%29%20-%20Boulder%20Canyon%20Project%20Act/%C2%A7%2000617d%20-%20Contracts%20for%20storage%20and%20use%20of%20waters%20for%20irrigation%20and%20domestic%20purposes%3B%20generation%20and%20sale%20of%20electrical%20energy.md) | Contracts for storage and use of waters for irrigation and domestic purposes; generation and sale of electrical energy. |
@@ -48,7 +48,7 @@
 | [618j.](Subchapter%20002%20%28II%29%20-%20Boulder%20Canyon%20Project%20Adjustment%20Act/%C2%A7%2000618j%20-%20Effect%20of%20refusal%20to%20modify%20existing%20contracts.md) | Effect of refusal to modify existing contracts. |
 | [618k.](Subchapter%20002%20%28II%29%20-%20Boulder%20Canyon%20Project%20Adjustment%20Act/%C2%A7%2000618k%20-%20Definitions.md) | Definitions. |
 | 618<i>l.</i> | Repealed. |
-| [618m.](Subchapter%20002%20%28II%29%20-%20Boulder%20Canyon%20Project%20Adjustment%20Act/%C2%A7%2000618m%20-%20Effect%20on%20existing%20laws%20and%20States%E2%80%99%20rights.md) | Effect on existing laws and States’ rights. |
+| [618m.](Subchapter%20002%20%28II%29%20-%20Boulder%20Canyon%20Project%20Adjustment%20Act/%C2%A7%2000618m%20-%20Effect%20on%20existing%20laws%20and%20States%27%20rights.md) | Effect on existing laws and States' rights. |
 | [618n.](Subchapter%20002%20%28II%29%20-%20Boulder%20Canyon%20Project%20Adjustment%20Act/%C2%A7%2000618n%20-%20Wages%20of%20employees.md) | Wages of employees. |
 | 618<i>o.</i> | Short title. |
 | [618p.](Subchapter%20002%20%28II%29%20-%20Boulder%20Canyon%20Project%20Adjustment%20Act/%C2%A7%2000618p%20-%20Omitted.md) | Omitted. |
@@ -69,11 +69,11 @@
 
 Act May 28, 1954, ch. 241, 68 Stat. 143, provided that:
 
-“For the purposes of effecting economies and increased efficiency in the construction, operation, and maintenance thereof and of accounting for the return of reimbursable costs, the Secretary of the Interior is authorized and directed to consolidate and administer as a single project to be known as the Parker-Davis project, Arizona-California-Nevada, the projects known as the Parker Dam power project, Arizona-California, and the Davis Dam project, Arizona-Nevada: <i>Provided</i>, That nothing in this Act shall be construed to alter or affect in any way the Boulder Canyon Project Act (45 Stat. 1057) \[subchapter I of this chapter\], the Boulder Canyon Project Adjustment Act (54 Stat. 774) \[subchapter II of this chapter\], or the treaty between the United States of America and the United Mexican States, signed at Washington on February 3, 1944, relating to the utilization of the waters of the Colorado and Tijuana Rivers and of the Rio Grande from Fort Quitman, Texas, to the Gulf of Mexico: <i>Provided further</i>, That nothing in this Act shall be construed to alter or affect in any way any right or obligation of the United States or any other party under contracts heretofore entered into by the United States.
+"For the purposes of effecting economies and increased efficiency in the construction, operation, and maintenance thereof and of accounting for the return of reimbursable costs, the Secretary of the Interior is authorized and directed to consolidate and administer as a single project to be known as the Parker-Davis project, Arizona-California-Nevada, the projects known as the Parker Dam power project, Arizona-California, and the Davis Dam project, Arizona-Nevada: <i>Provided</i>, That nothing in this Act shall be construed to alter or affect in any way the Boulder Canyon Project Act (45 Stat. 1057) \[subchapter I of this chapter\], the Boulder Canyon Project Adjustment Act (54 Stat. 774) \[subchapter II of this chapter\], or the treaty between the United States of America and the United Mexican States, signed at Washington on February 3, 1944, relating to the utilization of the waters of the Colorado and Tijuana Rivers and of the Rio Grande from Fort Quitman, Texas, to the Gulf of Mexico: <i>Provided further</i>, That nothing in this Act shall be construed to alter or affect in any way any right or obligation of the United States or any other party under contracts heretofore entered into by the United States.
 
-“
+"
 
-Sec. 2. Funds heretofore appropriated for the Parker Dam power project, Arizona-California, and the Davis Dam project, Arizona-Nevada, shall be consolidated and shall be and remain available for the purposes for which they were appropriated.”
+Sec. 2. Funds heretofore appropriated for the Parker Dam power project, Arizona-California, and the Davis Dam project, Arizona-Nevada, shall be consolidated and shall be and remain available for the purposes for which they were appropriated."
 
 
 ---

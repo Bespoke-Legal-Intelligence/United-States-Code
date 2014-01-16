@@ -16,7 +16,7 @@ The full faith and credit of the United States is pledged to pay all amounts tha
 
 #### (1) In general
 
-&emsp;Under this section, the Administrator may guarantee the debentures issued by a New Markets Venture Capital company only to be <sup>1</sup> extent that the total face amount of outstanding guaranteed debentures of such company does not exceed 150 percent of the private capital of the company, as determined by the Administrator.
+&emsp;Under this section, the Administrator may guarantee the debentures issued by a New Markets Venture Capital company only to be <sup>1</sup>extent that the total face amount of outstanding guaranteed debentures of such company does not exceed 150 percent of the private capital of the company, as determined by the Administrator.
 
 #### (2) Treatment of certain Federal funds
 
@@ -26,7 +26,7 @@ The full faith and credit of the United States is pledged to pay all amounts tha
 
 #### (1) Definition
 
-&emsp;In this subsection, the term “covered New Markets Venture Capital company” means a New Markets Venture Capital company—
+&emsp;In this subsection, the term "covered New Markets Venture Capital company" means a New Markets Venture Capital company—
 
 &emsp;&emsp;(A) granted final approval by the Administrator under section 689c(e) of this title on or after March 1, 2002; and
 
@@ -34,7 +34,7 @@ The full faith and credit of the United States is pledged to pay all amounts tha
 
 #### (2) Limitation
 
-&emsp;Except to the extent approved by the Administrator, a covered New Markets VentureCapital company may not acquire or issue commitments for securities under this subchapter for any single enterprise in an aggregate amount equal to more than 10 percent of the sum of—
+&emsp;Except to the extent approved by the Administrator, a covered New Markets Venture Capital company may not acquire or issue commitments for securities under this subchapter for any single enterprise in an aggregate amount equal to more than 10 percent of the sum of—
 
 &emsp;&emsp;(A) the regulatory capital of the covered New Markets Venture Capital company; and
 
@@ -46,5 +46,5 @@ The full faith and credit of the United States is pledged to pay all amounts tha
 
 <b>2010</b>—Subsec. (e). Pub. L. 111–240 added subsec. (e).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “the”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "the".</i>
 

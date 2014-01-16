@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established a committee to be known as the “Committee on Levee Safety”.
+There is established a committee to be known as the "Committee on Levee Safety".
 
 #### (b) Membership
 
@@ -74,9 +74,9 @@ The Federal Advisory Committee Act, referred to in subsec. (g), is Pub. L. 92–
 
 #### Amendments
 
-<b>2008</b>—Subsec. (f). Pub. L. 110–274 substituted “Subject to the availability of appropriations,” for “To the extent amounts are made available in advance in appropriations Acts,”.
+<b>2008</b>—Subsec. (f). Pub. L. 110–274 substituted "Subject to the availability of appropriations," for "To the extent amounts are made available in advance in appropriations Acts,".
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 110–114, set out as a note under section 2201 of this title.
 

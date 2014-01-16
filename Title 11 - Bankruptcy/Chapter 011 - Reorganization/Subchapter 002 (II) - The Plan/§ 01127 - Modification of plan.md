@@ -50,13 +50,13 @@ Subsection (d) simplifies modification procedure by deeming any creditor or equi
 
 #### Amendments
 
-<b>2010</b>—Subsec. (f)(1). Pub. L. 111–327 substituted “subsection (e)” for “subsection (a)”.
+<b>2010</b>—Subsec. (f)(1). Pub. L. 111–327 substituted "subsection (e)" for "subsection (a)".
 
 <b>2005</b>—Subsecs. (e), (f). Pub. L. 109–8 added subsecs. (e) and (f).
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–353, §511(a), inserted “of a plan” after “After the proponent”, and “of such plan” after “modification”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–353, §511(a), inserted "of a plan" after "After the proponent", and "of such plan" after "modification".
 
-Subsec. (b). Pub. L. 98–353, §511(b), substituted “circumstances warrant such modification and the court, after notice and a hearing, confirms such plan as modified, under section 1129 of this title” for “the court, after notice and a hearing, confirms such plan, as modified, under section 1129 of this title, and circumstances warrant such modification”.
+Subsec. (b). Pub. L. 98–353, §511(b), substituted "circumstances warrant such modification and the court, after notice and a hearing, confirms such plan as modified, under section 1129 of this title" for "the court, after notice and a hearing, confirms such plan, as modified, under section 1129 of this title, and circumstances warrant such modification".
 
 #### Effective Date of 2005 Amendment
 

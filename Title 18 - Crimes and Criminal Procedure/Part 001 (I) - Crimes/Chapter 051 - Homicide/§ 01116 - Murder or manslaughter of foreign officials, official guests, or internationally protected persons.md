@@ -4,27 +4,27 @@
 
 (b) For the purposes of this section:
 
-&emsp;(1) “Family” includes (a) a spouse, parent, brother or sister, child, or person to whom the foreign official or internationally protected person stands in loco parentis, or (b) any other person living in his household and related to the foreign official or internationally protected person by blood or marriage.
+&emsp;(1) "Family" includes (a) a spouse, parent, brother or sister, child, or person to whom the foreign official or internationally protected person stands in loco parentis, or (b) any other person living in his household and related to the foreign official or internationally protected person by blood or marriage.
 
-&emsp;(2) “Foreign government” means the government of a foreign country, irrespective of recognition by the United States.
+&emsp;(2) "Foreign government" means the government of a foreign country, irrespective of recognition by the United States.
 
-&emsp;(3) “Foreign official” means—
+&emsp;(3) "Foreign official" means—
 
 &emsp;&emsp;(A) a Chief of State or the political equivalent, President, Vice President, Prime Minister, Ambassador, Foreign Minister, or other officer of Cabinet rank or above of a foreign government or the chief executive officer of an international organization, or any person who has previously served in such capacity, and any member of his family, while in the United States; and
 
 &emsp;&emsp;(B) any person of a foreign nationality who is duly notified to the United States as an officer or employee of a foreign government or international organization, and who is in the United States on official business, and any member of his family whose presence in the United States is in connection with the presence of such officer or employee.
 
-&emsp;(4) “Internationally protected person” means—
+&emsp;(4) "Internationally protected person" means—
 
 &emsp;&emsp;(A) a Chief of State or the political equivalent, head of government, or Foreign Minister whenever such person is in a country other than his own and any member of his family accompanying him; or
 
 &emsp;&emsp;(B) any other representative, officer, employee, or agent of the United States Government, a foreign government, or international organization who at the time and place concerned is entitled pursuant to international law to special protection against attack upon his person, freedom, or dignity, and any member of his family then forming part of his household.
 
-&emsp;(5) “International organization” means a public international organization designated as such pursuant to section 1 of the International Organizations Immunities Act (22 U.S.C. 288) or a public organization created pursuant to treaty or other agreement under international law as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of international affairs.
+&emsp;(5) "International organization" means a public international organization designated as such pursuant to section 1 of the International Organizations Immunities Act (22 U.S.C. 288) or a public organization created pursuant to treaty or other agreement under international law as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of international affairs.
 
-&emsp;(6) “Official guest” means a citizen or national of a foreign country present in the United States as an official guest of the Government of the United States pursuant to designation as such by the Secretary of State.
+&emsp;(6) "Official guest" means a citizen or national of a foreign country present in the United States as an official guest of the Government of the United States pursuant to designation as such by the Secretary of State.
 
-&emsp;(7) “National of the United States” has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
+&emsp;(7) "National of the United States" has the meaning prescribed in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)).
 
 (c) If the victim of an offense under subsection (a) is an internationally protected person outside the United States, the United States may exercise jurisdiction over the offense if (1) the victim is a representative, officer, employee, or agent of the United States, (2) an offender is a national of the United States, or (3) an offender is afterwards found in the United States. As used in this subsection, the United States includes all areas under the jurisdiction of the United States including any of the places within the provisions of sections 5 and 7 of this title and section 46501(2) of title 49.
 
@@ -34,17 +34,17 @@
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–294 struck out “, except that” at end.
+<b>1996</b>—Subsec. (a). Pub. L. 104–294 struck out ", except that" at end.
 
 Subsec. (b)(7). Pub. L. 104–132, §721(c)(1), added par. (7).
 
-Subsec. (c). Pub. L. 104–132, §721(c)(2), inserted first sentence and struck out former first sentence which read as follows: “If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender.”
+Subsec. (c). Pub. L. 104–132, §721(c)(2), inserted first sentence and struck out former first sentence which read as follows: "If the victim of an offense under subsection (a) is an internationally protected person, the United States may exercise jurisdiction over the offense if the alleged offender is present within the United States, irrespective of the place where the offense was committed or the nationality of the victim or the alleged offender."
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330006, which directed the striking of “, and any such person who is found guilty of attempted murder shall be imprisoned for not more than twenty years” before period at end, was executed by striking text which did not include “, and”, to reflect the probable intent of Congress and the prior amendment by Pub. L. 103–322, §60003(a)(5). See below.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322, §330006, which directed the striking of ", and any such person who is found guilty of attempted murder shall be imprisoned for not more than twenty years" before period at end, was executed by striking text which did not include ", and", to reflect the probable intent of Congress and the prior amendment by Pub. L. 103–322, §60003(a)(5). See below.
 
-Pub. L. 103–322, §60003(a)(5), struck out “any such person who is found guilty of murder in the first degree shall be sentenced to imprisonment for life, and” after “title, except that”.
+Pub. L. 103–322, §60003(a)(5), struck out "any such person who is found guilty of murder in the first degree shall be sentenced to imprisonment for life, and" after "title, except that".
 
-Subsec. (c). Pub. L. 103–272 substituted “section 46501(2) of title 49” for “section 101(38) of the Federal Aviation Act of 1958, as amended (49 U.S.C. 1301(38))”.
+Subsec. (c). Pub. L. 103–272 substituted "section 46501(2) of title 49" for "section 101(38) of the Federal Aviation Act of 1958, as amended (49 U.S.C. 1301(38))".
 
 <b>1982</b>—Subsec. (b)(5). Pub. L. 97–351 inserted provision relating to a public organization created pursuant to treaty or other agreement under international law as an instrument through or by which two or more foreign governments engage in some aspect of their conduct of foreign affairs.
 
@@ -52,13 +52,13 @@ Subsec. (c). Pub. L. 103–272 substituted “section 46501(2) of title 49” fo
 
 <b>1977</b>—Subsec. (c). Pub. L. 95–163 substituted reference to section 101(35) of the Federal Aviation Act of 1958 for reference to section 101(34) of such Act.
 
-<b>1976</b>—Catchline. Pub. L. 94–467 substituted “official guests, or internationally protected persons” for “or official guests”.
+<b>1976</b>—Catchline. Pub. L. 94–467 substituted "official guests, or internationally protected persons" for "or official guests".
 
 Subsec. (a). Pub. L. 94–467 inserted reference to internationally protected persons, section 1113 of this title, and the punishment for a person convicted of attempted murder.
 
-Subsec. (b). Pub. L. 94–467 designated existing provision, relating to definition of “foreign official” as par. (3)(A), (B), and added pars. (1), (2), (4), (5) and (6).
+Subsec. (b). Pub. L. 94–467 designated existing provision, relating to definition of "foreign official" as par. (3)(A), (B), and added pars. (1), (2), (4), (5) and (6).
 
-Subsec. (c). Pub. L. 94–467 substituted provision permitting the United States to exercise jurisdiction over an offense if the victim is an internationally protected person and the alleged offender is present within the United States for provision which defined “foreign government”, “international organization”, “family”, and “official guest”.
+Subsec. (c). Pub. L. 94–467 substituted provision permitting the United States to exercise jurisdiction over an offense if the victim is an internationally protected person and the alleged offender is present within the United States for provision which defined "foreign government", "international organization", "family", and "official guest".
 
 Subsec. (d). Pub. L. 94–467 added subsec. (d).
 

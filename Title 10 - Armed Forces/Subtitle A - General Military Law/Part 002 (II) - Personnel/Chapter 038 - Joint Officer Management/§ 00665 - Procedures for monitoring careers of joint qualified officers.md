@@ -2,7 +2,7 @@
 
 (a)
 
-Procedures.—(1) The Secretary of Defense, with the advice of the Chairman of the JointChiefs of Staff, shall establish procedures for overseeing the careers of—
+Procedures.—(1) The Secretary of Defense, with the advice of the Chairman of the Joint Chiefs of Staff, shall establish procedures for overseeing the careers of—
 
 &emsp;(A) officers designated as a joint qualified officer; and
 
@@ -22,7 +22,7 @@ Function of Joint Staff.—The Secretary shall take such action as necessary to 
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–417 in section catchline substituted “joint qualified officers” for “joint officers” and in subsecs. (a)(1)(A) and (b)(1) substituted “designated as a joint qualified officer” for “with the joint specialty”.
+<b>2008</b>—Pub. L. 110–417 in section catchline substituted "joint qualified officers" for "joint officers" and in subsecs. (a)(1)(A) and (b)(1) substituted "designated as a joint qualified officer" for "with the joint specialty".
 
 #### Transition to Joint Officer Personnel Policy
 

@@ -38,7 +38,7 @@ Apr. 24, 1972, Pub. L. 92–278, 86 Stat. 124.
 
 &nbsp;
 
-In subsection (b)(1), the word “appropriate” is omitted as unnecessary.
+In subsection (b)(1), the word "appropriate" is omitted as unnecessary.
 
-In subsection (b)(2), the words “State and local governments” are substituted for “the governments of the States and communities” for consistency in the revised title and with other titles of the United States Code.
+In subsection (b)(2), the words "State and local governments" are substituted for "the governments of the States and communities" for consistency in the revised title and with other titles of the United States Code.
 

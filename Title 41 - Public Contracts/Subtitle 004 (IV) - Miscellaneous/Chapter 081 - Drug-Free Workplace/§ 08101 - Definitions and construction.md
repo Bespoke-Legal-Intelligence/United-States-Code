@@ -6,23 +6,23 @@ Definitions.—In this chapter:
 
 &emsp;(1)
 
-Contractor.—The term “contractor” means the department, division, or other unit of a person responsible for the performance under the contract.
+Contractor.—The term "contractor" means the department, division, or other unit of a person responsible for the performance under the contract.
 
 &emsp;(2)
 
-Controlled substance.—The term “controlled substance” means a controlled substance in schedules I through V of section 202 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 812).
+Controlled substance.—The term "controlled substance" means a controlled substance in schedules I through V of section 202 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 812).
 
 &emsp;(3)
 
-Conviction.—The term “conviction” means a finding of guilt (including a plea of nolo contendere), an imposition of sentence, or both, by a judicial body charged with the responsibility to determine violations of Federal or State criminal drug statutes.
+Conviction.—The term "conviction" means a finding of guilt (including a plea of nolo contendere), an imposition of sentence, or both, by a judicial body charged with the responsibility to determine violations of Federal or State criminal drug statutes.
 
 &emsp;(4)
 
-Criminal drug statute.—The term “criminal drug statute” means a criminal statute involving manufacture, distribution, dispensation, use, or possession of a controlled substance.
+Criminal drug statute.—The term "criminal drug statute" means a criminal statute involving manufacture, distribution, dispensation, use, or possession of a controlled substance.
 
 &emsp;(5)
 
-Drug-free workplace.—The term “drug-free workplace” means a site of an entity—
+Drug-free workplace.—The term "drug-free workplace" means a site of an entity—
 
 &emsp;&emsp;(A) for the performance of work done in connection with a specific contract or grant described in section 8102 or 8103 of this title; and
 
@@ -30,15 +30,15 @@ Drug-free workplace.—The term “drug-free workplace” means a site of an ent
 
 &emsp;(6)
 
-Employee.—The term “employee” means the employee of a contractor or grantee directly engaged in the performance of work pursuant to the contract or grant described in section 8102 or 8103 of this title.
+Employee.—The term "employee" means the employee of a contractor or grantee directly engaged in the performance of work pursuant to the contract or grant described in section 8102 or 8103 of this title.
 
 &emsp;(7)
 
-Federal agency.—The term “Federal agency” means an agency as defined in section 552(f) of title 5.
+Federal agency.—The term "Federal agency" means an agency as defined in section 552(f) of title 5.
 
 &emsp;(8)
 
-Grantee.—The term “grantee” means the department, division, or other unit of a person responsible for the performance under the grant.
+Grantee.—The term "grantee" means the department, division, or other unit of a person responsible for the performance under the grant.
 
 (b)
 

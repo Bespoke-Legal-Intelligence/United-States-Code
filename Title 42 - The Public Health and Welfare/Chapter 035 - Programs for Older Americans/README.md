@@ -145,7 +145,7 @@
 | :--- | ---: |
 | [3032\.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032%20-%20Program%20authorized.md) | Program authorized. |
 | [3032a.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032a%20-%20Career%20preparation%20for%20the%20field%20of%20aging.md) | Career preparation for the field of aging. |
-| [3032b.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032b%20-%20Older%20individuals%E2%80%99%20protection%20from%20violence%20projects.md) | Older individuals’ protection from violence projects. |
+| [3032b.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032b%20-%20Older%20individuals%27%20protection%20from%20violence%20projects.md) | Older individuals' protection from violence projects. |
 | [3032c.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032c%20-%20Health%20care%20service%20demonstration%20projects%20in%20rural%20areas.md) | Health care service demonstration projects in rural areas. |
 | [3032d.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032d%20-%20Computer%20training.md) | Computer training. |
 | [3032e.](Subchapter%20004%20%28IV%29%20-%20Activities%20for%20Health%2C%20Independence%2C%20and%20Longevity/Part%20A%20-%20Grant%20Programs/%C2%A7%2003032e%20-%20Technical%20assistance%20and%20innovation%20to%20improve%20transportation%20for%20older%20individuals.md) | Technical assistance and innovation to improve transportation for older individuals. |
@@ -264,7 +264,7 @@
 | [3057i.](Subchapter%20010%20%28X%29%20-%20Grants%20for%20Native%20Americans/Part%20B%20-%20Native%20Hawaiian%20Program/%C2%A7%2003057i%20-%20Grants%20authorized.md) | Grants authorized. |
 | [3057j.](Subchapter%20010%20%28X%29%20-%20Grants%20for%20Native%20Americans/Part%20B%20-%20Native%20Hawaiian%20Program/%C2%A7%2003057j%20-%20Application.md) | Application. |
 | 3057j–1. | Distribution of funds among organizations. |
-| [3057k.](Subchapter%20010%20%28X%29%20-%20Grants%20for%20Native%20Americans/Part%20B%20-%20Native%20Hawaiian%20Program/%C2%A7%2003057k%20-%20%E2%80%9CNative%20Hawaiian%E2%80%9D%20defined.md) | “Native Hawaiian” defined. |
+| [3057k.](Subchapter%20010%20%28X%29%20-%20Grants%20for%20Native%20Americans/Part%20B%20-%20Native%20Hawaiian%20Program/%C2%A7%2003057k%20-%20Native%20Hawaiian%20defined.md) | "Native Hawaiian" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

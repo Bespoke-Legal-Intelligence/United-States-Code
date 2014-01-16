@@ -38,7 +38,7 @@ To the extent that the implementation of the authority provided to the Secretary
 
 #### (1) Related transfers
 
-&emsp;Subject to paragraph (2), as part of the transfer or delegation of a function of the Department made or authorized by this chapter, the Secretary may transfer within the Department—
+&emsp;Subject to paragraph (2), as part of the transfer or delegation of a function of the Department made or authorized by this chapter,the Secretary may transfer within the Department—
 
 &emsp;&emsp;(A) any of the records, property, or personnel affected by the transfer or delegation of the function; and
 
@@ -62,7 +62,7 @@ Notwithstanding any other provision of law, a person shall exhaust all administr
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(2), (c), and (d)(1), was in the original “this title”, meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under section 6901 of this title and Tables.
+This chapter, referred to in subsecs. (b)(2), (c), and (d)(1), was in the original "this title", meaning title II of Pub. L. 103–354, Oct. 13, 1994, 108 Stat. 3209, known as the Department of Agriculture Reorganization Act of 1994. For complete classification of title II to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
 #### Codification
 
@@ -70,7 +70,7 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2)(A). Pub. L. 110–246, §7511(c)(27), substituted “6971(f),” for “6971(d),”.
+<b>2008</b>—Subsec. (a)(2)(A). Pub. L. 110–246, §7511(c)(27), substituted "6971(f)," for "6971(d),".
 
 #### Effective Date of 2008 Amendment
 

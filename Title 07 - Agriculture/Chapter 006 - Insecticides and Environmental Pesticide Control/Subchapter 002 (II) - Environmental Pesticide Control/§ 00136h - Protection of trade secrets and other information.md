@@ -58,13 +58,13 @@ A prior section 10 of act June 25, 1947, was classified to section 135h of this 
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–237, §1006(b)(3)(J), substituted “the applicant's” for “his”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–237, §1006(b)(3)(J), substituted "the applicant's" for "his".
 
-Subsec. (b). Pub. L. 102–237, §1006(b)(2), substituted “the Administrator's” for “his”.
+Subsec. (b). Pub. L. 102–237, §1006(b)(2), substituted "the Administrator's" for "his".
 
-Subsec. (c). Pub. L. 102–237, §1006(b)(1), substituted “the Administrator” for “he” before “shall notify”.
+Subsec. (c). Pub. L. 102–237, §1006(b)(1), substituted "the Administrator" for "he" before "shall notify".
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–532 in par. (1), substituted “public. The use” for “public: <i>Provided</i>, That the use” and “title. This paragraph” for “title: <i>Provided further</i>, That this paragraph”, and in par. (3), “notice. Where” for “notice: <i>Provided</i>, That where”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–532 in par. (1), substituted "public. The use" for "public: <i>Provided</i>, That the use" and "title. This paragraph" for "title: <i>Provided further</i>, That this paragraph", and in par. (3), "notice. Where" for "notice: <i>Provided</i>, That where".
 
 <b>1984</b>—Subsec. (d)(3). Pub. L. 98–620 struck out provisions requiring the court to give expedited consideration to actions involving injunctions or limitations of proposed disclosure.
 

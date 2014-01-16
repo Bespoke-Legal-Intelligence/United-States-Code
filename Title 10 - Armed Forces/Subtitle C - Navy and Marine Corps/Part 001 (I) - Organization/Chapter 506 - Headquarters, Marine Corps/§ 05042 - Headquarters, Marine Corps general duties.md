@@ -1,6 +1,6 @@
 ### §5042. Headquarters, Marine Corps: general duties
 
-(a) The Headquarters, Marine Corps, shall furnish professional assistance to the Secretary,the Under Secretary, and the Assistant Secretaries of the Navy and to the Commandant of the Marine Corps.
+(a) The Headquarters, Marine Corps, shall furnish professional assistance to the Secretary, the Under Secretary, and the Assistant Secretaries of the Navy and to the Commandant of the Marine Corps.
 
 (b) Under the authority, direction, and control of the Secretary of the Navy, the Headquarters, Marine Corps, shall—
 

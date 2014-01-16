@@ -2,7 +2,7 @@
 
 (a)
 
-Examinations.—An applicant who is dissatisfied with the final decision in an appeal to the Patent Trial and Appeal Board under section 134(a) may appeal the Board's decision to the United States Court of Appeals for the Federal Circuit. By filing such an appeal, the applicant waives his or her right to proceed under section 145.
+Examinations.—An applicant who is dissatisfied with the final decision in an appeal to thePatent Trial and Appeal Board under section 134(a) may appeal the Board's decision to the United States Court of Appeals for the Federal Circuit. By filing such an appeal, the applicant waives his or her right to proceed under section 145.
 
 (b)
 
@@ -30,27 +30,27 @@ Changes in language are made.
 
 <b>2002</b>—Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
 
-Pub. L. 107–273, §13106(c), inserted “, or a third-party requester in an inter partes reexamination proceeding, who is” after “patent owner” in third sentence.
+Pub. L. 107–273, §13106(c), inserted ", or a third-party requester in an inter partes reexamination proceeding, who is" after "patent owner" in third sentence.
 
-<b>1999</b>—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “Director” for “Commissioner”.
+<b>1999</b>—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted "Director" for "Commissioner".
 
-Pub. L. 106–113, §1000(a)(9) \[title IV, §4605(c)\], inserted after second sentence “A patent owner in any reexamination proceeding dissatisfied with the final decision in an appeal to the Board of Patent Appeals and Interferences under section 134 may appeal the decision only to the United States Court of Appeals for the Federal Circuit.”
+Pub. L. 106–113, §1000(a)(9) \[title IV, §4605(c)\], inserted after second sentence "A patent owner in any reexamination proceeding dissatisfied with the final decision in an appeal to the Board of Patent Appeals and Interferences under section 134 may appeal the decision only to the United States Court of Appeals for the Federal Circuit."
 
-<b>1984</b>—Pub. L. 98–622, §203(a)(1)(A), substituted “in an appeal to the Board of Patent Appeals and Interferences under section 134 of this title may appeal the decision” for “of the Board of Patent Appeals may appeal” in first sentence.
+<b>1984</b>—Pub. L. 98–622, §203(a)(1)(A), substituted "in an appeal to the Board of Patent Appeals and Interferences under section 134 of this title may appeal the decision" for "of the Board of Patent Appeals may appeal" in first sentence.
 
-Pub. L. 98–622, §203(a)(1)(B), substituted “. By filing such an appeal the applicant waives his or her right” for “, thereby waiving his right” in first sentence.
+Pub. L. 98–622, §203(a)(1)(B), substituted ". By filing such an appeal the applicant waives his or her right" for ", thereby waiving his right" in first sentence.
 
-Pub. L. 98–622, §203(a)(2)(A), substituted “Board of Patent Appeals and Interferences on the interference may appeal the decision” for “board of patent interferences on the question of priority of appeal” in second sentence.
+Pub. L. 98–622, §203(a)(2)(A), substituted "Board of Patent Appeals and Interferences on the interference may appeal the decision" for "board of patent interferences on the question of priority of appeal" in second sentence.
 
-Pub. L. 98–622, §203(a)(2)(B), substituted “In accordance with” for “according to” in second sentence.
+Pub. L. 98–622, §203(a)(2)(B), substituted "In accordance with" for "according to" in second sentence.
 
-Pub. L. 98–622, §203(a)(2)(C), substituted “the party” for “he” in second sentence.
+Pub. L. 98–622, §203(a)(2)(C), substituted "the party" for "he" in second sentence.
 
 Pub. L. 98–622, §203(a)(3), reenacted last sentence with minor changes in wording.
 
-<b>1982</b>—Pub. L. 97–164, §163(b)(2), substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals” in section catchline.
+<b>1982</b>—Pub. L. 97–164, §163(b)(2), substituted "Court of Appeals for the Federal Circuit" for "Court of Customs and Patent Appeals" in section catchline.
 
-Pub. L. 97–164, §163(a)(7), substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals” in two places.
+Pub. L. 97–164, §163(a)(7), substituted "Court of Appeals for the Federal Circuit" for "Court of Customs and Patent Appeals" in two places.
 
 #### Effective Date of 2011 Amendment
 

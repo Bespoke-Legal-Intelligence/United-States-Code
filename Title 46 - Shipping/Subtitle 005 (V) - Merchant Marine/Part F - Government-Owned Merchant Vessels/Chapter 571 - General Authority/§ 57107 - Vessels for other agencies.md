@@ -26,5 +26,5 @@ Historical and Revision Notes
 
 Feb. 6, 1941, ch. 5, §4, 55 Stat. 6; Pub. L. 97–31, §12(74), Aug. 6, 1981, 95 Stat. 160.
 
-In subsection (b), the words “heretofore or hereafter”, “diminish or otherwise”, and “and, to the amount of such obligation or expenditure, diminish” are omitted as unnecessary.
+In subsection (b), the words "heretofore or hereafter", "diminish or otherwise", and "and, to the amount of such obligation or expenditure, diminish" are omitted as unnecessary.
 

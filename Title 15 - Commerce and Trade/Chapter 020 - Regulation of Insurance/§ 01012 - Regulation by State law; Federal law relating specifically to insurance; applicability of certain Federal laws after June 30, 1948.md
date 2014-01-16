@@ -20,5 +20,5 @@ Act of September 26, 1914, known as the Federal Trade Commission Act, as amended
 
 #### Amendments
 
-<b>1947</b>—Act July 25, 1947, substituted “June 30, 1948” for “January 1, 1948”.
+<b>1947</b>—Act July 25, 1947, substituted "June 30, 1948" for "January 1, 1948".
 

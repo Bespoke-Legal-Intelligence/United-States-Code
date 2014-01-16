@@ -30,7 +30,7 @@ Subsec. (b)(2), (3). Pub. L. 101–508, §11801(c)(22)(E)(ii), substituted perio
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–514 added par. (1) and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
-<b>1976</b>—Subsec. (a)(3), (5). Pub. L. 94–455 substituted “Chapter 37” for “Subchapter A of chapter 37” in par. (5) and redesignated par. (5) as (3).
+<b>1976</b>—Subsec. (a)(3), (5). Pub. L. 94–455 substituted "Chapter 37" for "Subchapter A of chapter 37" in par. (5) and redesignated par. (5) as (3).
 
 <b>1970</b>—Subsec. (a)(3), (4). Pub. L. 91–513 struck out pars. (3) and (4) relating to taxes in respect of narcotic drugs and taxes in respect of marihuana, respectively, and making references to parts I and III of subchapter A of chapter 39 and to parts II and III of subchapter A of chapter 39, respectively.
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 85–859 effective Sept. 3, 1958, see section 210(a)(1) of 
 
 #### Savings Provision
 
-For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items ofincome, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 45K of this title.
 
 Prosecutions for any violation of law occurring, and civil seizures or forfeitures and injunctive proceedings commenced, prior to the effective date of amendment of this section by section 1102 of Pub. L. 91–513 not to be affected or abated by reason thereof, see section 1103 of Pub. L. 91–513, set out as a note under sections 171 to 174 of Title 21, Food and Drugs.
 

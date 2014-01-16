@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 6 months after October 24, 1992, the Secretary of Housing and Urban Development (hereafter referred to as the “Secretary”) shall establish an energy efficient mortgage pilot program in 5 States, to promote the purchase of existing energy efficient residential buildings and the installation of cost-effective improvements in existing residential buildings.
+&emsp;Not later than 6 months after October 24, 1992, the Secretary of Housing and Urban Development (hereafter referred to as the "Secretary") shall establish an energy efficient mortgage pilot program in 5 States, to promote the purchase of existing energy efficient residential buildings and the installation of cost-effective improvements in existing residential buildings.
 
 #### (2) Pilot program
 
@@ -52,7 +52,7 @@
 
 #### (5) Training program
 
-&emsp;Not later than 9 months after October 24, 1992, the Secretary, in consultation with the Secretary of Energy, shall establish and implement a program for training personnel atrelevant lending agencies, real estate companies, and other appropriate organizations regarding the benefits of energy efficient mortgages and the operation of the pilot program under this subsection.
+&emsp;Not later than 9 months after October 24, 1992, the Secretary, in consultation with the Secretary of Energy, shall establish and implement a program for training personnel at relevant lending agencies, real estate companies, and other appropriate organizations regarding the benefits of energy efficient mortgages and the operation of the pilot program under this subsection.
 
 #### (6) Report
 
@@ -66,13 +66,13 @@ Not later than the expiration of the 2-year period beginning on the date of the 
 
 For purposes of this section:
 
-&emsp;(1) The term “base loan” means any mortgage loan for a residential building eligible for insurance under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] or title 38 that does not include the cost of cost-effective energy improvements.
+&emsp;(1) The term "base loan" means any mortgage loan for a residential building eligible for insurance under title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] or title 38 that does not include the cost of cost-effective energy improvements.
 
-&emsp;(2) The term “cost-effective” means, with respect to energy efficiency improvements to a residential building, improvements that result in the total present value cost of the improvements (including any maintenance and repair expenses) being less than the total present value of the energy saved over the useful life of the improvement, when 100 percent of the cost of improvements is added to the base loan. For purposes of this paragraph, savings and cost-effectiveness shall be determined pursuant to a home energy rating report sufficient for purposes of the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation, or by other technically accurate methods.
+&emsp;(2) The term "cost-effective" means, with respect to energy efficiency improvements to a residential building, improvements that result in the total present value cost of the improvements (including any maintenance and repair expenses) being less than the total present value of the energy saved over the useful life of the improvement, when 100 percent of the cost of improvements is added to the base loan. For purposes of this paragraph, savings and cost-effectiveness shall be determined pursuant to a home energy rating report sufficient for purposes of the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation, or by other technically accurate methods.
 
-&emsp;(3) The term “energy efficient mortgage” means a mortgage on a residential building that recognizes the energy savings of a home that has cost-effective energy saving construction or improvements (including solar water heaters, solar-assisted air conditioners and ventilators, super-insulation, and insulating glass and film) and that has the effect of not disqualifying a borrower who, but for the expenditures on energy saving construction or improvements, would otherwise have qualified for a base loan.
+&emsp;(3) The term "energy efficient mortgage" means a mortgage on a residential building that recognizes the energy savings of a home that has cost-effective energy saving construction or improvements (including solar water heaters, solar-assisted air conditioners and ventilators, super-insulation, and insulating glass and film) and that has the effect of not disqualifying a borrower who, but for the expenditures on energy saving construction or improvements, would otherwise have qualified for a base loan.
 
-&emsp;(4) The term “residential building” means any attached or unattached single family residence.
+&emsp;(4) The term "residential building" means any attached or unattached single family residence.
 
 #### (d) Rule of construction
 
@@ -100,11 +100,11 @@ Section was formerly classified as a note under section 12712 of Title 42, The P
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2)(C). Pub. L. 110–289, §2123(1), amended subpar. (C) generally. Prior to amendment, text read as follows: “The cost of cost-effective energy efficiency improvements shall not exceed the greater of—
+<b>2008</b>—Subsec. (a)(2)(C). Pub. L. 110–289, §2123(1), amended subpar. (C) generally. Prior to amendment, text read as follows: "The cost of cost-effective energy efficiency improvements shall not exceed the greater of—
 
-&emsp;“(i) 5 percent of the property value (not to exceed $8,000); or
+&emsp;"(i) 5 percent of the property value (not to exceed $8,000); or
 
-&emsp;“(ii) $4,000.”
+&emsp;"(ii) $4,000."
 
 Subsec. (a)(2)(D). Pub. L. 110–289, §2123(2), added subpar. (D).
 

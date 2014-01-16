@@ -18,7 +18,7 @@ Amendment by Pub. L. 98–497 effective Apr. 1, 1985, see section 301 of Pub. L.
 
 #### Publishing Pub. L. 107–206 in Statutes at Large
 
-Pub. L. 107–206, title III, §3002(h), Aug. 2, 2002, 116 Stat. 924, provided that: “In publishing the Act in slipform and in the United States Statutes at Large pursuant to section 112, of title 1, United States Code, the Archivist of the United States shall include after the date of approval at the end an appendix setting forth the text of the bill referred to in subsection (a) \[set out as a Short Title of 2002 Amendment note under section 101 of Title 39, Postal Service\].”
+Pub. L. 107–206, title III, §3002(h), Aug. 2, 2002, 116 Stat. 924, provided that: “In publishing the Act in slip form and in the United States Statutes at Large pursuant to section 112, of title 1, United States Code, the Archivist of the United States shall include after the date of approval at the end an appendix setting forth the text of the bill referred to in subsection (a) \[set out as a Short Title of 2002 Amendment note under section 101 of Title 39, Postal Service\].”
 
 #### Publication of Certain Laws of 106th Congress
 

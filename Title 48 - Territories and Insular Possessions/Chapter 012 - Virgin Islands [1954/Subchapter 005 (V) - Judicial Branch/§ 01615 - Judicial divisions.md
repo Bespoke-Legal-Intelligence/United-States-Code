@@ -10,7 +10,7 @@ The Virgin Islands consists of two judicial divisions; the Division of Saint Cro
 
 <b>1984</b>—Pub. L. 98–454 amended section generally, inserting provisions setting forth places for the holding of court of each judicial division and striking out provisions relating to the applicability of procedural rules and prosecutions by information and indictment, which are now covered under section 1614 of this title, and repealed section 336 of Pub. L. 95–598 which had amended this section.
 
-<b>1978</b>—Pub. L. 95–598 substituted “section 2075 of title 28 in cases under title 11” for “section 53 of title 11 in bankruptcy cases”.
+<b>1978</b>—Pub. L. 95–598 substituted "section 2075 of title 28 in cases under title 11" for "section 53 of title 11 in bankruptcy cases".
 
 #### Effective Date of 1984 Amendment
 

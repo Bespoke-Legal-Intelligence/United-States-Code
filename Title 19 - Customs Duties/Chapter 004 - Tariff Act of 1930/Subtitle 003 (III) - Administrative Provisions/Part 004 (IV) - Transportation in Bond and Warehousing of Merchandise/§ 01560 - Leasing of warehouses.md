@@ -14,7 +14,7 @@ A prior provision that no officer of the customs should have any personal owners
 
 #### Amendments
 
-<b>1970</b>—Pub. L. 91–271 substituted “officer of the customs” for “collector or other officer of the customs”.
+<b>1970</b>—Pub. L. 91–271 substituted "officer of the customs" for "collector or other officer of the customs".
 
 #### Effective Date of 1970 Amendment
 

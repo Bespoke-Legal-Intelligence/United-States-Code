@@ -70,17 +70,17 @@ Wild free-roaming horses and burros or their remains shall lose their status as 
 
 #### References in Text
 
-Section 1902 of title 43, referred to in subsec. (b)(2), was in the original “section 2 of the Public Range Lands Improvement Act of 1978” (classified to 43 U.S.C. 1901) and was changed to reflect the probable intent of Congress.
+Section 1902 of title 43, referred to in subsec. (b)(2), was in the original "section 2 of the Public Range Lands Improvement Act of 1978" (classified to 43 U.S.C. 1901) and was changed to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (d)(5). Pub. L. 108–447, §142(a)(1), substituted “this section” for “this section; <i>Provided</i>, That no wild free-roaming horse or burro or its remains may be sold or transferred for consideration for processing into commercial products”.
+<b>2004</b>—Subsec. (d)(5). Pub. L. 108–447, §142(a)(1), substituted "this section" for "this section; <i>Provided</i>, That no wild free-roaming horse or burro or its remains may be sold or transferred for consideration for processing into commercial products".
 
 Subsec. (e). Pub. L. 108–447, §142(a)(2), added subsec. (e).
 
 <b>1978</b>—Subsec. (b). Pub. L. 95–514 substituted provisions for: maintaining current inventory of wild free-roaming horses and burros; listing the purpose of the inventory and determinations to be made in consultation with persons of scientific expertise and special knowledge; immediate removal of excess animals from the range on the basis of information from various sources so as to achieve appropriate management levels; order and priority of removal; and research study  to  be  reported  to  Congress  for  prior  authorization of humane destruction of old, sick, or lame animals and capture and removal of additional excess animals for private maintenance under humane conditions and care, now incorporated in subsec. (b)(2)(A) and (B).
 
-Subsec. (c). Pub. L. 95–514 substituted provision for grant of title to limited number of excess animals adopted for requisite period for prior authorization of humane destruction of wild free-roaming horses and burros as an act of mercy or to prevent overpopulation only when necessary to preserve and maintain the habitat in a suitable condition for continued use.
+Subsec. (c). Pub. L. 95–514 substituted provision for grant of title to limited number of excess animals adopted for requisite period for prior authorization of humane destruction of wild free-roaming horses and burros as an act of mercy or to prevent overpopulationonly when necessary to preserve and maintain the habitat in a suitable condition for continued use.
 
 Subsec. (d). Pub. L. 95–514 substituted provisions relating to circumstances and conditions operating to take wild free-roaming horses and burros or their remains from the purview of this chapter for prior declaration that nothing in the chapter shall preclude the customary disposal of the remains of a deceased wild free-roaming horse or burro, including those in the authorized possession of private parties, and prohibition of sale for any consideration, directly or indirectly, of the remains, or any part thereof, now incorporated in cl. (5).
 
@@ -88,5 +88,5 @@ Subsec. (d). Pub. L. 95–514 substituted provisions relating to circumstances a
 
 Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(c)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be subsection "(c)".</i>
 

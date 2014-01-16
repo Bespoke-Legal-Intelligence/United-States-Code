@@ -20,15 +20,15 @@ The Small Business Act, referred to in subsec. (b)(1)(B), is Pub. L. 85–536, �
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136 substituted “$300,000” for “$85,000”.
+<b>2003</b>—Subsec. (b)(2). Pub. L. 108–136 substituted "$300,000" for "$85,000".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted “chapter 11 of title 40” for “title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.)”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–217 substituted "chapter 11 of title 40" for "title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.)".
 
 <b>1984</b>—Pub. L. 98–407 designated existing provisions as subsec. (a) and added subsec. (b).
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–407, title VIII, §808(b), Aug. 28, 1984, 98 Stat. 1522, provided that: “Subsection (b) of section 2855 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts awarded after September 30, 1984, except that the authority of the Secretary of Defense under paragraph (2) of that subsection shall apply only with respect to contracts awarded after September 30, 1985.”
+Pub. L. 98–407, title VIII, §808(b), Aug. 28, 1984, 98 Stat. 1522, provided that: "Subsection (b) of section 2855 of title 10, United States Code, as added by subsection (a), shall apply with respect to contracts awarded after September 30, 1984, except that the authority of the Secretary of Defense under paragraph (2) of that subsection shall apply only with respect to contracts awarded after September 30, 1985."
 
 #### Effective Date
 

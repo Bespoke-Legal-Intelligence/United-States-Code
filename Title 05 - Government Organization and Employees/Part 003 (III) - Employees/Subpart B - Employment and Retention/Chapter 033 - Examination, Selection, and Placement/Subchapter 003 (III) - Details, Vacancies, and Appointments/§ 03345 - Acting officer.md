@@ -6,7 +6,7 @@
 
 &emsp;(2) notwithstanding paragraph (1), the President (and only the President) may direct a person who serves in an office for which appointment is required to be made by the President, by and with the advice and consent of the Senate, to perform the functions and duties of the vacant office temporarily in an acting capacity subject to the time limitations of section 3346; or
 
-&emsp;(3) notwithstanding paragraph (1), the President (and only the President) may direct anofficer or employee of such Executive agency to perform the functions and duties of the vacant office temporarily in an acting capacity, subject to the time limitations of section 3346, if—
+&emsp;(3) notwithstanding paragraph (1), the President (and only the President) may direct an officer or employee of such Executive agency to perform the functions and duties of the vacant office temporarily in an acting capacity, subject to the time limitations of section 3346, if—
 
 &emsp;&emsp;(A) during the 365-day period preceding the date of death, resignation, or beginning of inability to serve of the applicable officer, the officer or employee served in a position in such agency for not less than 90 days; and
 
@@ -94,7 +94,7 @@ Sec. 3. <i>Orders of Succession Requiring Presidential Action.</i>
 
 (a) Each agency for which presidential action is required to establish an order of succession shall draft a proposed order of succession if no such order exists and, not later than 30 days from the date of this order, send such proposed draft order to the Counsel to the President for review and comment.
 
-(b) Each agency described in subsection 3(a) of this order shall send any proposed updates or revisions tothe agency's order of succession to the Counsel to the President for review and comment.
+(b) Each agency described in subsection 3(a) of this order shall send any proposed updates or revisions to the agency's order of succession to the Counsel to the President for review and comment.
 
 (c) Upon completion of the requirements set forth by subsections (a) or (b) of this section with respect to a proposed order, the agency shall submit the proposed order to the Office of Management and Budget in accordance with Executive Order 11030, as amended.
 
@@ -234,7 +234,11 @@ Memorandum of President of the United States, Feb. 9, 2007, 72 F.R. 7343.
 
 #### Federal Emergency Management Agency
 
-Memorandum of President of the United States, Nov. 26, 2002, 67 F.R. 79513, terminated upon the transfer of the authorities, functions, personnel, and assets of the Federal Emergency Management Agency to the Department of Homeland Security.
+Memorandum of President of the United States, Nov. 26, 2002, 67 F.R. 79513, terminated upon the transfer of the authorities, functions, personnel, and assets of theFederal Emergency Management Agency to the Department of Homeland Security.
+
+#### General Services Administration
+
+Memorandum of President of the United States, Sept. 20, 2013, 78 F.R. 59161.
 
 #### Millennium Challenge Corporation
 
@@ -268,7 +272,9 @@ Memorandum of President of the United States, Aug. 5, 2009, 74 F.R. 39871.
 
 #### Office of the Director of National Intelligence
 
-Memorandum of President of the United States, Mar. 8, 2011, 76 F.R. 13499.
+Memorandum of President of the United States, Sept. 20, 2013, 78 F.R. 59159.
+
+Memorandum of President of the United States, Mar. 8, 2011, 76 F.R. 13499, revoked by Memorandum of President of the United States, §4, Sept. 20, 2013, 78 F.R. 59159.
 
 Memorandum of President of the United States, Oct. 3, 2008, 73 F.R. 58869, revoked by Memorandum of President of the United States, §5, Mar. 8, 2011, 76 F.R. 13499.
 
@@ -286,7 +292,9 @@ Memorandum of President of the United States, Jan. 16, 2009, 74 F.R. 4101, revok
 
 #### Pension Benefit Guaranty Corporation
 
-Memorandum of President of the United States, Dec. 9, 2008, 73 F.R. 75533.
+Memorandum of President of the United States, Feb. 1, 2013, 78 F.R. 8953.
+
+Memorandum of President of the United States, Dec. 9, 2008, 73 F.R. 75533, superseded by Memorandum of President of the United States, §3, Feb. 1, 2013, 78 F.R. 8953.
 
 #### Social Security Administration
 

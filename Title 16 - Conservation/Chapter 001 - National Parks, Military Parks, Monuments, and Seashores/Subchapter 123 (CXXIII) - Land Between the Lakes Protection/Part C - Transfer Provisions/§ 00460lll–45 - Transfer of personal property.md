@@ -26,7 +26,7 @@ Pursuant to such procedures as may be prescribed in the memorandum of agreement 
 
 #### (c) Facilitation of transfer
 
-The Tennessee Valley Authority shall, to the maximum extent practicable, use current personnel to facilitate the transfer of necessary property and facilities to the Secretary, including replacement of signs and insignia, repainting of vehicles, printing of public information, and training of new personnel. Funding for these costs shall be derived from funding described in section 460lll–49 of this title.
+The Tennessee Valley Authority shall, to the maximum extent practicable, use current personnel to facilitate the transfer of necessary property and facilities to the Secretary, including replacement of signs and insignia, repainting of vehicles, printing of public information, and training of new personnel. Funding for thesecosts shall be derived from funding described in section 460lll–49 of this title.
 
 #### (d) Surplus property
 
@@ -46,5 +46,5 @@ The Tennessee Valley Authority shall, to the maximum extent practicable, use cur
 
 #### Codification
 
-In subsec. (d)(1)(B), “chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (d)(1)(B), "chapters 1 to 11 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 

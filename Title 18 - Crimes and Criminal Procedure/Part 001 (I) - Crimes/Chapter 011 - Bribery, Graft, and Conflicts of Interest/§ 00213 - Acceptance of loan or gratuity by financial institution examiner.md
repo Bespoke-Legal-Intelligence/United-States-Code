@@ -12,7 +12,7 @@ In General.—Whoever, being an examiner or assistant examiner, accepts a loan o
 
 (b)
 
-Definitions.—In this section, the terms “examiner”, “Federal financial institution regulatory agency”, “financial institution”, and “loan” have the same meanings as in section 212.
+Definitions.—In this section, the terms "examiner", "Federal financial institution regulatory agency", "financial institution", and "loan" have the same meanings as in section 212.
 
 (Added Pub. L. 108–198, §2(a), Dec. 19, 2003, 117 Stat. 2900.)
 

@@ -15,7 +15,7 @@
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–273, div. C, title III, §13206(a)(10), Nov. 2, 2002, 116 Stat. 1904, substituted “to” for “of” in item 183.
+<b>2002</b>—Pub. L. 107–273, div. C, title III, §13206(a)(10), Nov. 2, 2002, 116 Stat. 1904, substituted "to" for "of" in item 183.
 
 
 ---

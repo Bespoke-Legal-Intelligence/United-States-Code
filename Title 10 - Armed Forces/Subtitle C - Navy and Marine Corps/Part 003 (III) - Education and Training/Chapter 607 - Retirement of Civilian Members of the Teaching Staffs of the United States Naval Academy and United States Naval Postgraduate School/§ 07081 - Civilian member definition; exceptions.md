@@ -1,6 +1,6 @@
 ### §7081. Civilian member: definition; exceptions
 
-(a) In this chapter, the term “civilian member” means a civilian member of the teachingstaff of the United States Naval Academy or the United States Naval Postgraduate School. It includes the Provost and Academic Dean of the Postgraduate School, senior professors, professors, associate professors, assistant professors, chief instructors, assistant chief instructors, and instructors.
+(a) In this chapter, the term "civilian member" means a civilian member of the teachingstaff of the United States Naval Academy or the United States Naval Postgraduate School. It includes the Provost and Academic Dean of the Postgraduate School, senior professors, professors, associate professors, assistant professors, chief instructors, assistant chief instructors, and instructors.
 
 (b) This chapter does not apply to any civilian member who was employed at the Naval Academy or the Postgraduate School on January 16, 1936, and who did not elect to participate in the benefits provided by the Act of January 16, 1936, ch. 3 (49 Stat. 1092).
 
@@ -74,9 +74,9 @@ Act of January 16, 1936, ch. 3 (49 Stat. 1092), referred to in subsec. (b), was 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–375 substituted “Provost and Academic Dean” for “Academic Dean”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375 substituted "Provost and Academic Dean" for "Academic Dean".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–189 inserted “, the term” after “In this chapter”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189 inserted ", the term" after "In this chapter".
 
 <b>1958</b>—Subsec. (c). Pub. L. 85–861 added subsec. (c).
 

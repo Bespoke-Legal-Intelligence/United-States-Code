@@ -40,7 +40,7 @@ June 29, 1936, ch. 858, title XI, §1103(a), as added June 23, 1938, ch. 600, §
 
 June 29, 1936, ch. 858, title XI, §1112, as added Pub. L. 104–297, title III, §303(a), Oct. 11, 1996, 110 Stat. 3616.
 
-In subsection (a), the words “on terms the Secretary may prescribe” are added based on language in 46 App. U.S.C. 1274(a) (before cl. (1)). The words “the unpaid balance of” are omitted as unnecessary.
+In subsection (a), the words "on terms the Secretary may prescribe" are added based on language in 46 App. U.S.C. 1274(a) (before cl. (1)). The words "the unpaid balance of" are omitted as unnecessary.
 
 #### Codification
 
@@ -50,7 +50,7 @@ Subsec. (b) of this section was derived from section 1112 of act June 29, 1936, 
 
 <b>2008</b>—Pub. L. 110–181, §3522(b), repealed Pub. L. 109–163, §3507(a)(1)(C), (d). See 2006 Amendment note below and Codification note above.
 
-Subsec. (a). Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(C), into this section by inserting “or Administrator” after “Secretary” in two places. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (a). Pub. L. 110–181, §3522(a)(10)(B), incorporated the substance of the amendment by Pub. L. 109–163, §3507(a)(1)(C), into this section by inserting "or Administrator" after "Secretary" in two places. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 <b>2006</b>—Pub. L. 109–163, §3507(a)(1)(C), which directed the amendment of section 1273(a) of the former Appendix to this title from which subsec. (a) of this section was derived, was repealed by Pub. L. 110–181, §3522(b). See 2008 Amendment note for subsec. (a) and Historical and Revision notes above.
 

@@ -14,25 +14,25 @@ Based on title 28, U.S.C., 1940 ed., §§449, 450 (Mar. 3, 1911, ch. 231, §§30
 
 Section consolidates parts of sections 449 and 450 of title 28, U.S.C., 1940 ed.
 
-Said section 450 contained definitions of “courts” and “continental United States,” and directions that sections 444–450 of title 28, U.S.C., 1940 ed., relating to the administration of United States courts, should apply to the courts of appeals, the United States Court of Appeals for the District of Columbia and to the several enumerated district courts of the United States, including those in the Territories and Possessions as well as the Court of Claims, Court of Customs and Patent Appeals, and Customs Court. It also provided that the Chief Justice and associate justices of the Court of Appeals for the District of Columbia should have the powers of the senior judge and circuit judges, respectively, of a circuit court of appeals.
+Said section 450 contained definitions of "courts" and "continental United States," and directions that sections 444–450 of title 28, U.S.C., 1940 ed., relating to the administration of United States courts, should apply to the courts of appeals, the United States Court of Appeals for the District of Columbia and to the several enumerated district courts of the United States, including those in the Territories and Possessions as well as the Court of Claims, Court of Customs and Patent Appeals, and Customs Court. It also provided that the Chief Justice and associate justices of the Court of Appeals for the District of Columbia should have the powers of the senior judge and circuit judges, respectively, of a circuit court of appeals.
 
-The revised section omits, as surplusage, the definition of “continental United States.” Other provisions of section 450 of title 28, U.S.C., 1940 ed., referred to were omitted as unnecessary in view of section 604 of this title which provides for the powers and duties of the Director of the Administrative Office of the United States Courts. Remaining provisions of said section 450 are incorporated in said section 604 and section 610 of this title.
+The revised section omits, as surplusage, the definition of "continental United States." Other provisions of section 450 of title 28, U.S.C., 1940 ed., referred to were omitted as unnecessary in view of section 604 of this title which provides for the powers and duties of the Director of the Administrative Office of the United States Courts. Remaining provisions of said section 450 are incorporated in said section 604 and section 610 of this title.
 
 The provision as to travel and subsistence which was contained in said section 449 of title 28, U.S.C., 1940 ed., is incorporated in section 456 of this title.
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–406 inserted “magistrate,” after “district,” in first par.
+<b>2008</b>—Pub. L. 110–406 inserted "magistrate," after "district," in first par.
 
-<b>1996</b>—Pub. L. 104–134, §101\[(a)\] \[title III, §305(1)\], in first par. substituted “may” for “shall” before “summon biennially”, “preside at such”, and “also be summoned”.
+<b>1996</b>—Pub. L. 104–134, §101\[(a)\] \[title III, §305(1)\], in first par. substituted "may" for "shall" before "summon biennially", "preside at such", and "also be summoned".
 
-Pub. L. 104–134, §101\[(a)\] \[title III, §305(2)\], in second par. substituted “may” for “shall” before “attend” and struck out “, and unless excused by the chief judge, shall remain throughout the conference” before period at end.
+Pub. L. 104–134, §101\[(a)\] \[title III, §305(2)\], in second par. substituted "may" for "shall" before "attend" and struck out ", and unless excused by the chief judge, shall remain throughout the conference" before period at end.
 
-<b>1990</b>—Pub. L. 101–650 substituted “biennially, and may summon annually,” for “annually”, struck out “the United States District Court for the District of the Canal Zone,” after “The judges of”, and substituted “the District Court of the Virgin Islands, and the District Court of the Northern Mariana Islands shall also be summoned biennially, and may be summoned annually,” for “and the District Court of the Virgin Islands shall also be summoned annually”.
+<b>1990</b>—Pub. L. 101–650 substituted "biennially, and may summon annually," for "annually", struck out "the United States District Court for the District of the Canal Zone," after "The judges of", and substituted "the District Court of the Virgin Islands, and the District Court of the Northern Mariana Islands shall also be summoned biennially, and may be summoned annually," for "and the District Court of the Virgin Islands shall also be summoned annually".
 
 <b>1978</b>—Pub. L. 95–598 inserted reference to bankruptcy judges.
 
-<b>1958</b>—Pub. L. 85–508 struck out provisions which required judge of District Court for Territory of Alaska to be summoned annually to the conference of his circuit. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+<b>1958</b>—Pub. L. 85–508 struck out provisions which required judge of District Court for Territory of Alaskato be summoned annually to the conference of his circuit. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
 <b>1951</b>—Act Oct. 31, 1951, inserted reference to judge of District Court of Guam in first par.
 
@@ -48,5 +48,5 @@ Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska int
 
 #### Termination of United States District Court for the District of the Canal Zone
 
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+For termination of the United States District Court for the District of the Canal Zone at end of the "transition period", being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 

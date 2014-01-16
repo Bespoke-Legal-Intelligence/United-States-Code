@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary is authorized to provide education and organizational support assistance, inconjunction with other assistance made available under this part—
+The Secretary is authorized to provide education and organizational support assistance, in conjunction with other assistance made available under this part—
 
 &emsp;(1) to facilitate the education of low-income homeowners and tenants;
 
@@ -40,7 +40,7 @@ Assistance under this section may be used only for the following eligible activi
 
 #### (7) Facilitating women in homebuilding professions
 
-&emsp;Technical assistance may be made available to businesses, unions, and organizations involved in construction and rehabilitation of housing in low- and moderate-income areas to assist women residing in the area to obtain jobs involving such activities, which may include facilitating access by such women to, and providing, apprenticeship and other training programs regarding nontraditional skills, recruiting women to participate in such programs, providing continuing support for women at job sites, counseling and educating businesses regarding suitable work environments for women, providing information to such women regarding opportunities for establishing small housing construction and rehabilitation businesses, and providing materials and tools for training such women (in an amount not exceeding 10 percent of any assistance provided under this paragraph). The Secretary shall give priority under this paragraph to providing technical assistance for organizations rehabilitating single family or multifamily housing owned or controlled by the Secretary pursuant to title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] and which have women members in occupations in which women constitute 25 percent or less of the total number of workers in the occupation (in this section referred to as “nontraditional occupations”).
+&emsp;Technical assistance may be made available to businesses, unions, and organizations involved in construction and rehabilitation of housing in low- and moderate-income areas to assist women residing in the area to obtain jobs involving such activities, which may include facilitating access by such women to, and providing, apprenticeship and other training programs regarding nontraditional skills, recruiting women to participate in such programs, providing continuing support for women at job sites, counseling and educating businesses regarding suitable work environments for women, providing information to such women regarding opportunities for establishing small housing construction and rehabilitation businesses, and providing materials and tools for training such women (in an amount not exceeding 10 percent of any assistance provided under this paragraph). The Secretary shall give priority under this paragraph to providing technical assistance for organizations rehabilitating single family or multifamily housing owned or controlled by the Secretary pursuant to title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] and which have women members in occupations in which women constitute 25 percent or less of the total number of workers in the occupation (in this section referred to as "nontraditional occupations").
 
 #### (c) Delivery of assistance
 
@@ -52,7 +52,7 @@ The Secretary shall provide this assistance only through contract—
 
 &emsp;&emsp;(B) has demonstrated experience in providing a range of assistance (such as financing, technical assistance, construction and property management assistance, capacity building and training) to community housing development organizations or similar organizations that engage in community revitalization;
 
-&emsp;&emsp;(C) has demonstrated the ability to provide technical assistance and training for community-based developers of affordable housing;
+&emsp;&emsp;(C) has demonstrated the ability to provide technical assistance and training forcommunity-based developers of affordable housing;
 
 &emsp;&emsp;(D) has described the uses to which such assistance will be put and the intended beneficiaries of the assistance; and
 
@@ -74,9 +74,9 @@ Contracts under this section with any one contractor for a fiscal year may not�
 
 Not less than 25 percent of the funds made available for this section in an appropriations Act in any fiscal year shall be made available for eligible contractors that have worked primarily in one State. The Secretary shall provide assistance under this section, to the extent applications are submitted and approved, to contractors in each of the geographic regions having a regional office of the Department of Housing and Urban Development.
 
-#### (f) “Community land trust” defined
+#### (f) "Community land trust" defined
 
-For purposes of this section, the term “community land trust” means a community housing development organization (except that the requirements under subparagraphs (C) and (D) of section 12704(6) of this title shall not apply for purposes of this subsection)—
+For purposes of this section, the term "community land trust" means a community housing development organization (except that the requirements under subparagraphs (C) and (D) of section 12704(6) of this title shall not apply for purposes of this subsection)—
 
 &emsp;(1) that is not sponsored by a for-profit organization;
 
@@ -108,11 +108,11 @@ Section 4 of the Job Training Partnership Act, referred to in subsec. (c)(1)(E),
 
 #### Amendments
 
-<b>2009</b>—Subsec. (d)(1). Pub. L. 111–8, §229(1), substituted “40” for “20”.
+<b>2009</b>—Subsec. (d)(1). Pub. L. 111–8, §229(1), substituted "40" for "20".
 
-Subsec. (e). Pub. L. 111–8, §229(2), substituted “25” for “40”.
+Subsec. (e). Pub. L. 111–8, §229(2), substituted "25" for "40".
 
-<b>1992</b>—Subsec. (a)(2). Pub. L. 102–550, §213(a)(1), inserted “, including community land trusts,” after “organizations”.
+<b>1992</b>—Subsec. (a)(2). Pub. L. 102–550, §213(a)(1), inserted ", including community land trusts," after "organizations".
 
 Subsec. (a)(3). Pub. L. 102–550, §213(b)(1), added par. (3).
 
@@ -122,11 +122,11 @@ Subsec. (b)(7). Pub. L. 102–550, §213(b)(2), added par. (7).
 
 Subsec. (c)(1)(E). Pub. L. 102–550, §213(b)(3), added subpar. (E).
 
-Subsec. (e). Pub. L. 102–550, §213(b)(4), inserted at end “The Secretary shall provide assistance under this section, to the extent applications are submitted and approved, to contractors in each of the geographic regions having a regional office of the Department of Housing and Urban Development.”
+Subsec. (e). Pub. L. 102–550, §213(b)(4), inserted at end "The Secretary shall provide assistance under this section, to the extent applications are submitted and approved, to contractors in each of the geographic regions having a regional office of the Department of Housing and Urban Development."
 
 Subsec. (f). Pub. L. 102–550, §213(a)(3), added subsec. (f).
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
+Amendment by Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of thischapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
 

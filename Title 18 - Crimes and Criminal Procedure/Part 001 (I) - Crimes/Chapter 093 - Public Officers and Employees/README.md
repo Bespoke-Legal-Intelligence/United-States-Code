@@ -21,9 +21,9 @@
 | [1917\.](%C2%A7%2001917%20-%20Interference%20with%20civil%20service%20examinations.md) | Interference with civil service examinations. |
 | [1918\.](%C2%A7%2001918%20-%20Disloyalty%20and%20asserting%20the%20right%20to%20strike%20against%20the%20Government.md) | Disloyalty and asserting the right to strike against the Government. |
 | [1919\.](%C2%A7%2001919%20-%20False%20statement%20to%20obtain%20unemployment%20compensation%20for%20Federal%20service.md) | False statement to obtain unemployment compensation for Federal service. |
-| [1920\.](%C2%A7%2001920%20-%20False%20statement%20or%20fraud%20to%20obtain%20Federal%20employees%E2%80%99%20compensation.md) | False statement or fraud to obtain Federal employees’ compensation. |
-| [1921\.](%C2%A7%2001921%20-%20Receiving%20Federal%20employees%E2%80%99%20compensation%20after%20marriage.md) | Receiving Federal employees’ compensation after marriage. |
-| [1922\.](%C2%A7%2001922%20-%20False%20or%20withheld%20report%20concerning%20Federal%20employees%E2%80%99%20compensation.md) | False or withheld report concerning Federal employees’ compensation. |
+| [1920\.](%C2%A7%2001920%20-%20False%20statement%20or%20fraud%20to%20obtain%20Federal%20employees%27%20compensation.md) | False statement or fraud to obtain Federal employees' compensation. |
+| [1921\.](%C2%A7%2001921%20-%20Receiving%20Federal%20employees%27%20compensation%20after%20marriage.md) | Receiving Federal employees' compensation after marriage. |
+| [1922\.](%C2%A7%2001922%20-%20False%20or%20withheld%20report%20concerning%20Federal%20employees%27%20compensation.md) | False or withheld report concerning Federal employees' compensation. |
 | [1923\.](%C2%A7%2001923%20-%20Fraudulent%20receipt%20of%20payments%20of%20missing%20persons.md) | Fraudulent receipt of payments of missing persons. |
 | [1924\.](%C2%A7%2001924%20-%20Unauthorized%20removal%20and%20retention%20of%20classified%20documents%20or%20material.md) | Unauthorized removal and retention of classified documents or material. |
 
@@ -31,15 +31,15 @@
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–294, title VI, §604(b)(44), Oct. 11, 1996, 110 Stat. 3509, substituted “employees’ ” for “employee's” in item 1920.
+<b>1996</b>—Pub. L. 104–294, title VI, §604(b)(44), Oct. 11, 1996, 110 Stat. 3509, substituted "employees' " for "employee's" in item 1920.
 
 <b>1994</b>—Pub. L. 103–359, title VIII, §808(b), Oct. 14, 1994, 108 Stat. 3454, added item 1924.
 
-Pub. L. 103–333, title I, §101(b)(2), Sept. 30, 1994, 108 Stat. 2548, substituted “or fraud to obtain Federal employee's compensation” for “to obtain Federal employees’ compensation” in item 1920.
+Pub. L. 103–333, title I, §101(b)(2), Sept. 30, 1994, 108 Stat. 2548, substituted "or fraud to obtain Federal employee's compensation" for "to obtain Federal employees' compensation" in item 1920.
 
-Pub. L. 103–322, title XXXIII, §330004(11), Sept. 13, 1994, 108 Stat. 2141, struck out items 1904 “Disclosure ofinformation or speculation in securities affecting Reconstruction Finance Corporation” and 1908 “Disclosure of information by National Agricultural Credit Corporation examiner”.
+Pub. L. 103–322, title XXXIII, §330004(11), Sept. 13, 1994, 108 Stat. 2141, struck out items 1904 "Disclosure of information or speculation in securities affecting Reconstruction Finance Corporation" and 1908 "Disclosure of information by National Agricultural Credit Corporation examiner".
 
-<b>1990</b>—Pub. L. 101–647, title XXXV, §3556, Nov. 29, 1990, 104 Stat. 4927, substituted “from a bank examination report” for “by bank examiner” in item 1906 and struck out item 1914 “Salary of Government officials and employees payable only by United States”.
+<b>1990</b>—Pub. L. 101–647, title XXXV, §3556, Nov. 29, 1990, 104 Stat. 4927, substituted "from a bank examination report" for "by bank examiner" in item 1906 and struck out item 1914 "Salary of Government officials and employees payable only by United States".
 
 <b>1966</b>—Pub. L. 89–554, §3(c), Sept. 6, 1966, 80 Stat. 608, added items 1916 to 1923.
 
@@ -67,8 +67,8 @@ Pub. L. 103–322, title XXXIII, §330004(11), Sept. 13, 1994, 108 Stat. 2141, s
 - [&sect; 01917 - Interference with civil service examinations](%C2%A7%2001917%20-%20Interference%20with%20civil%20service%20examinations.md)
 - [&sect; 01918 - Disloyalty and asserting the right to strike against the Government](%C2%A7%2001918%20-%20Disloyalty%20and%20asserting%20the%20right%20to%20strike%20against%20the%20Government.md)
 - [&sect; 01919 - False statement to obtain unemployment compensation for Federal service](%C2%A7%2001919%20-%20False%20statement%20to%20obtain%20unemployment%20compensation%20for%20Federal%20service.md)
-- [&sect; 01920 - False statement or fraud to obtain Federal employees&#8217; compensation](%C2%A7%2001920%20-%20False%20statement%20or%20fraud%20to%20obtain%20Federal%20employees%E2%80%99%20compensation.md)
-- [&sect; 01921 - Receiving Federal employees&#8217; compensation after marriage](%C2%A7%2001921%20-%20Receiving%20Federal%20employees%E2%80%99%20compensation%20after%20marriage.md)
-- [&sect; 01922 - False or withheld report concerning Federal employees&#8217; compensation](%C2%A7%2001922%20-%20False%20or%20withheld%20report%20concerning%20Federal%20employees%E2%80%99%20compensation.md)
+- [&sect; 01920 - False statement or fraud to obtain Federal employees' compensation](%C2%A7%2001920%20-%20False%20statement%20or%20fraud%20to%20obtain%20Federal%20employees%27%20compensation.md)
+- [&sect; 01921 - Receiving Federal employees' compensation after marriage](%C2%A7%2001921%20-%20Receiving%20Federal%20employees%27%20compensation%20after%20marriage.md)
+- [&sect; 01922 - False or withheld report concerning Federal employees' compensation](%C2%A7%2001922%20-%20False%20or%20withheld%20report%20concerning%20Federal%20employees%27%20compensation.md)
 - [&sect; 01923 - Fraudulent receipt of payments of missing persons](%C2%A7%2001923%20-%20Fraudulent%20receipt%20of%20payments%20of%20missing%20persons.md)
 - [&sect; 01924 - Unauthorized removal and retention of classified documents or material](%C2%A7%2001924%20-%20Unauthorized%20removal%20and%20retention%20of%20classified%20documents%20or%20material.md)

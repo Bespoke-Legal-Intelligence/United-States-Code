@@ -2,7 +2,7 @@
 
 #### (a) Definition of service in the uniformed services
 
-In this section, the term “service in the uniformed services” means service (whether voluntary or involuntary) on active duty in the Armed Forces, including such service by a member of the National Guard or Reserve, for a period of more than 30 days under a call or order to active duty of more than 30 days.
+In this section, the term "service in the uniformed services" means service (whether voluntary or involuntary) on active duty in the Armed Forces, including such service by a member of the National Guard or Reserve, for a period of more than 30 days under a call or order to active duty of more than 30 days.
 
 #### (b) Discrimination against students who serve in the uniformed services prohibited
 
@@ -40,7 +40,7 @@ A person who is a member of, applies to be a member of, performs, has performed,
 
 &emsp;&emsp;(A) that is required, beyond five years, to complete an initial period of obligated service;
 
-&emsp;&emsp;(B) during which such student was unable to obtain orders releasing such student from a period of service in the uniformed servicesbefore the expiration of such five-year period and such inability was through no fault of such student; or
+&emsp;&emsp;(B) during which such student was unable to obtain orders releasing such student from a period of service in the uniformed services before the expiration of such five-year period and such inability was through no fault of such student; or
 
 &emsp;&emsp;(C) performed by a member of the Armed Forces (including the National Guard and Reserves) who is—
 
@@ -84,7 +84,7 @@ A person who is a member of, applies to be a member of, performs, has performed,
 
 #### (6) No change in academic status
 
-&emsp;A student who is readmitted to an institution of higher education under this section shall be readmitted with the same academic status as such student had when such student last attended the institution of higher education.
+&emsp;A student who is readmitted to an institution of higher education under this section shall be readmitted with the same academic status as such student had when such studentlast attended the institution of higher education.
 
 #### (d) Exception from readmission eligibility
 

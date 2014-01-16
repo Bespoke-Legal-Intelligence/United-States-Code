@@ -12,21 +12,21 @@
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(2) and (b), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsecs. (a)(2) and (b), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in introductory provisions.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 112–141, §100232(d)(1), inserted “, including as reinsurance of coverage provided by the flood insurance program” before “, on such terms”.
+Subsec. (a)(2). Pub. L. 112–141, §100232(d)(1), inserted ", including as reinsurance of coverage provided by the flood insurance program" before ", on such terms".
 
-Subsec. (b). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director”.
+Subsec. (b). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director".
 
-<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary" wherever appearing.
 
 #### Transfer of Functions
 
-For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the FederalEmergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
+For transfer of all functions, personnel, assets, components, authorities, grant programs, and liabilities of the Federal Emergency Management Agency, including the functions of the Under Secretary for Federal Emergency Management relating thereto, to the Federal Emergency Management Agency, see section 315(a)(1) of Title 6, Domestic Security.
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

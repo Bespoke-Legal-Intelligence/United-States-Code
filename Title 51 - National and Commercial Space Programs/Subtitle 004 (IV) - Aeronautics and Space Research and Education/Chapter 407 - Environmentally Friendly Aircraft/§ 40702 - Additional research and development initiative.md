@@ -28,5 +28,5 @@ Historical and Revision Notes
 
 Pub. L. 110–422, title III, §302, Oct. 15, 2008, 122 Stat. 4786.
 
-In paragraphs (1) and (2), the date “October 15, 2008” is substituted for “the date of enactment of this Act” to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2008 (Public Law 110–422, 122 Stat. 4779).
+In paragraphs (1) and (2), the date "October 15, 2008" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2008 (Public Law 110–422, 122 Stat. 4779).
 

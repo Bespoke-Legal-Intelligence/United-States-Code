@@ -6,31 +6,31 @@ In this section:
 
 #### (1) Director; Office
 
-&emsp;The terms “Director” and “Office” mean the Director and Office specified in subsection (c) of this section.
+&emsp;The terms "Director" and "Office" mean the Director and Office specified in subsection (c) of this section.
 
 #### (2) Federally qualified health center and rural health clinic
 
-&emsp;The term “Federally qualified health center” and “rural health clinic” have the meanings given the terms in section 1395x(aa) of this title.
+&emsp;The term "Federally qualified health center" and "rural health clinic" have the meanings given the terms in section 1395x(aa) of this title.
 
 #### (3) Frontier community
 
-&emsp;The term “frontier community” shall have the meaning given the term in regulations issued under subsection (r) of this section.
+&emsp;The term "frontier community" shall have the meaning given the term in regulations issued under subsection (r) of this section.
 
 #### (4) Medically underserved area
 
-&emsp;The term “medically underserved area” has the meaning given the term “medically underserved community” in section 295p(6) of this title.
+&emsp;The term "medically underserved area" has the meaning given the term "medically underserved community" in section 295p(6) of this title.
 
 #### (5) Medically underserved population
 
-&emsp;The term “medically underserved population” has the meaning given the term in section 254b(b)(3) of this title.
+&emsp;The term "medically underserved population" has the meaning given the term in section 254b(b)(3) of this title.
 
 #### (6) Telehealth services
 
-&emsp;The term “telehealth services” means services provided through telehealth technologies.
+&emsp;The term "telehealth services" means services provided through telehealth technologies.
 
 #### (7) Telehealth technologies
 
-&emsp;The term “telehealth technologies” means technologies relating to the use of electronic information, and telecommunications technologies, to support and promote, at a distance, health care, patient and professional health-related education, health administration, and public health.
+&emsp;The term "telehealth technologies" means technologies relating to the use of electronic information, and telecommunications technologies, to support and promote, at a distance, health care, patient and professional health-related education, health administration, and public health.
 
 #### (b) Programs
 
@@ -44,7 +44,7 @@ The Secretary shall establish, under section 241 of this title, telehealth netwo
 
 #### (2) Duties
 
-&emsp;The telehealth network and telehealth resource centers grant programs establishedunder section 241 of this title shall be administered by the Director, in consultation with the State offices of rural health, State offices concerning primary care, or other appropriate State government entities.
+&emsp;The telehealth network and telehealth resource centers grant programs established under section 241 of this title shall be administered by the Director, in consultation with the State offices of rural health, State offices concerning primary care, or other appropriate State government entities.
 
 #### (d) Grants
 
@@ -152,7 +152,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 #### (B) Services
 
-&emsp;&emsp;The eligible entity proposes to use Federal funds made available through such a grant to develop plans for, or to establish, telehealth networks that provide mental health, public health, long-term care, home care, preventive, or case management services.
+&emsp;&emsp;The eligible entity proposes to use Federal funds made available through such a grant to develop plans for, or to establish, telehealth networks that provide mental health, public health, long-term care, home care, preventive, case management services, or prenatal care for high-risk pregnancies.
 
 #### (C) Coordination
 
@@ -174,7 +174,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 #### (E) Connectivity
 
-&emsp;&emsp;The eligible entity proposes a project that promotes local connectivity within areas, communities, or populations to be served through the project.
+&emsp;&emsp;The eligible entity proposes a project that promotes local connectivity within areas,communities, or populations to be served through the project.
 
 #### (F) Integration
 
@@ -236,7 +236,7 @@ The Secretary shall establish the terms and conditions of each grant program des
 
 &emsp;&emsp;(E)(i) providing for transmission of medical data, and maintenance of equipment; and
 
-&emsp;&emsp;(ii) providing for compensation (including travel expenses) of specialists, and referringhealth care providers, who are providing telehealth services through the telehealth network, if no third party payment is available for the telehealth services delivered through the telehealth network;
+&emsp;&emsp;(ii) providing for compensation (including travel expenses) of specialists, and referring health care providers, who are providing telehealth services through the telehealth network, if no third party payment is available for the telehealth services delivered through the telehealth network;
 
 &emsp;&emsp;(F) developing projects to use telehealth technology to facilitate collaboration between health care providers;
 
@@ -308,23 +308,25 @@ Not later than September 30, 2005, the Secretary shall prepare and submit to the
 
 #### (r) Regulations
 
-The Secretary shall issue regulations specifying, for purposes of this section, a definition of the term “frontier area”. The definition shall be based on factors that include population density, travel distance in miles to the nearest medical facility, travel time in minutes to the nearest medical facility, and such other factors as the Secretary determines to be appropriate. The Secretary shall develop the definition in consultation with the Director of the Bureau of the Census and the Administrator of the Economic Research Service of the Department of Agriculture.
+The Secretary shall issue regulations specifying, for purposes of this section, a definition of the term "frontier area". The definition shall be based on factors that include population density, travel distance in miles to the nearest medical facility, travel time in minutes to the nearest medical facility, and such other factors as the Secretary determines to be appropriate. The Secretary shall develop the definition in consultation with the Director of the Bureau of the Census and the Administrator of the Economic Research Service of the Department of Agriculture.
 
 #### (s) Authorization of appropriations
 
 There are authorized to be appropriated to carry out this section—
 
-&emsp;(1) for grants under subsection (d)(1) of this section, $40,000,000 for fiscal year 2002, andsuch sums as may be necessary for each of fiscal years 2003 through 2006; and
+&emsp;(1) for grants under subsection (d)(1) of this section, $40,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006; and
 
 &emsp;(2) for grants under subsection (d)(2) of this section, $20,000,000 for fiscal year 2002, and such sums as may be necessary for each of fiscal years 2003 through 2006.
 
-(July 1, 1944, ch. 373, title III, §330I, as added Pub. L. 107–251, title II, §212, Oct. 26, 2002, 116 Stat. 1632; amended Pub. L. 108–163, §2(c), Dec. 6, 2003, 117 Stat. 2021.)
+(July 1, 1944, ch. 373, title III, §330I, as added Pub. L. 107–251, title II, §212, Oct. 26, 2002, 116 Stat. 1632; amended Pub. L. 108–163, §2(c), Dec. 6, 2003, 117 Stat. 2021; Pub. L. 113–55, title I, §103(a), Nov. 27, 2013, 127 Stat. 642.)
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(4). Pub. L. 108–163, §2(c)(1), substituted “section 295p(6)” for “section 295p”.
+<b>2013</b>—Subsec. (i)(1)(B). Pub. L. 113–55 substituted "case management services, or prenatal care for high-risk pregnancies" for "or case management services".
 
-Subsec. (c)(1). Pub. L. 108–163, §2(c)(2), substituted “Health Resources and Services Administration” for “Health and Resources and Services Administration”.
+<b>2003</b>—Subsec. (a)(4). Pub. L. 108–163, §2(c)(1), substituted "section 295p(6)" for "section 295p".
+
+Subsec. (c)(1). Pub. L. 108–163, §2(c)(2), substituted "Health Resources and Services Administration" for "Health and Resources and Services Administration".
 
 #### Effective Date of 2003 Amendment
 

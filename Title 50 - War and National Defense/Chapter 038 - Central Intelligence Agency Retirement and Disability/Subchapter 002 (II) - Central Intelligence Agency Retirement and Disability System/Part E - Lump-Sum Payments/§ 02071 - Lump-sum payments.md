@@ -92,11 +92,11 @@ An annuity accrued and unpaid on the termination, except by death, of the annuit
 
 #### Prior Provisions
 
-A prior section 241 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1049; Pub. L. 94–522, title II, §209, Oct. 17, 1976, 90 Stat. 2471; Ex. Ord. No. 12443, §5, Sept. 27, 1983,48 F.R. 44752; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to disposition of contributions and interest in excess of benefits received and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
+A prior section 241 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1049; Pub. L. 94–522, title II, §209, Oct. 17, 1976, 90 Stat. 2471; Ex. Ord. No. 12443, §5, Sept. 27, 1983, 48 F.R. 44752; Pub. L. 99–335, title V, §501(2), June 6, 1986, 100 Stat. 622, related to disposition of contributions and interest in excess of benefits received and was set out as a note under section 403 of this title prior to the general amendment of Pub. L. 88–643 by section 802 of Pub. L. 102–496.
 
 #### Amendments
 
-<b>1993</b>—Subsec. (c). Pub. L. 103–178, §202(a)(11)(A), substituted “A lump-sum payment authorized by subsection (d) or (e) of this section 2121(d) of this title and a payment of any accrued and unpaid annuity authorized by subsection (f) of this section” for “A lump-sum benefit that would have been payable to a participant, former participant, or annuitant, or to a survivor annuitant, authorized by subsection (d) or (e) of this section or by section 2054(b) or 2121(d) of this title”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–178, §202(a)(11)(A), substituted "A lump-sum payment authorized by subsection (d) or (e) of this section 2121(d) of this title and a payment of any accrued and unpaid annuity authorized by subsection (f) of this section" for "A lump-sum benefit that would have been payable to a participant, former participant, or annuitant, or to a survivor annuitant, authorized by subsection (d) or (e) of this section or by section 2054(b) or 2121(d) of this title".
 
 Subsecs. (f), (g). Pub. L. 103–178, §202(a)(11)(B), added subsec. (f) and redesignated former subsec. (f) as (g).
 
@@ -104,5 +104,5 @@ Subsecs. (f), (g). Pub. L. 103–178, §202(a)(11)(B), added subsec. (f) and red
 
 Amendment by Pub. L. 103–178 effective Feb. 1, 1993, see section 202(b) of Pub. L. 103–178, set out as a note under section 2001 of this title.
 
-<i><sup>1</sup></i><i> So in original. The words “of this section 2121(d)” probably should be “of this section or by section 2121(d)”.</i>
+<i><sup>1</sup></i><i> So in original. The words "of this section 2121(d)" probably should be "of this section or by section 2121(d)".</i>
 

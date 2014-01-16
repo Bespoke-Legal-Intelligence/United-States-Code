@@ -158,7 +158,7 @@ Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1635 of Pub. 
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L.96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
 #### Transfer of Functions
 
@@ -170,7 +170,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Ex. Ord. No. 12171. Exclusions From Coverage of Program
 
-Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997; Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, §5(b), June 27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, §3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§2–6, Nov. 26, 2008, 73 F.R. 73991, 73992, provided:
+Ex. Ord. No. 12171, Nov. 19, 1979, 44 F.R. 66565, as amended by Ex. Ord. No. 12338, Jan. 11, 1982, 47 F.R. 1369; Ex. Ord. No. 12410, Mar. 28, 1983, 48 F.R. 13143; Ex. Ord. No. 12559, May 20, 1986, 51 F.R. 18761; Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852; Ex. Ord. No. 12666, Jan. 12, 1989, 54 F.R. 1921; Ex. Ord. No. 12671, Mar. 14, 1989, 54 F.R. 11157; Ex. Ord. No. 12681, July 6, 1989, 54 F.R. 28997;Ex. Ord. No. 12693, Sept. 29, 1989, 54 F.R. 40629; Ex. Ord. No. 13039, Mar. 11, 1997, 62 F.R. 12529; Ex. Ord. No. 13252, Jan. 7, 2002, 67 F.R. 1601; Ex. Ord. No. 13381, §5(b), June 27, 2005, 70 F.R. 37955; Ex. Ord. No. 13467, §3(d), June 30, 2008, 73 F.R. 38107; Ex. Ord. No. 13480, §§2–6, Nov. 26, 2008, 73 F.R. 73991, 73992, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
@@ -454,7 +454,7 @@ Section 1. <i>Suspensions</i>. With regard to United States citizen employees of
 
 (b) The provisions of 5 U.S.C. 7102(2), 7114(a)(1), 7114(a)(4), 7116(a)(5), and 7117(c) are suspended with respect to any matter proposed for bargaining which would substantially impair the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation;
 
-(c) The provisions of 5 U.S.C. 7116(a)(7) and 7117(b) are suspended with regard to any regulation governing theimplementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nations; and
+(c) The provisions of 5 U.S.C. 7116(a)(7) and 7117(b) are suspended with regard to any regulation governing the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nations; and
 
 (d) The provisions of 5 U.S.C. 7121(b)(3)(C) are suspended with respect to any grievance involving the implementation by the United States Forces of any treaty or agreement, including any minutes or understandings thereto, between the United States and the Government of the host nation.
 
@@ -466,7 +466,7 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12632, Mar. 23, 1988, 53 F.R. 9852, provided:
 
-By virtue of the authority vested in me as President by the Constitution and laws of the United States of America, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
+By virtue of the authority vested in me as President by the Constitution and laws of the United States ofAmerica, including Section 7103(b) of Title 5 of the United States Code, and in order to exempt certain agencies or subdivisions thereof from coverage of the Federal Labor-Management Relations Program, it is hereby ordered as follows:
 
 Section 1. <i>Determinations</i>. The agencies or subdivisions thereof set forth in Section 3 of this Order are hereby determined to have as a primary function intelligence, counterintelligence, investigative, or national security work. It is also hereby determined that Chapter 71 of Title 5 of the United States Code cannot be applied to these agencies or subdivisions in a manner consistent with national security requirements and considerations. These agencies or subdivisions thereof are hereby excluded from coverage under Chapter 71 of Title 5 of the United States Code.
 

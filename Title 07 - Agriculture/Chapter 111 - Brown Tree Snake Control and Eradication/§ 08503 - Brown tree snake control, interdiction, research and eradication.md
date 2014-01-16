@@ -14,7 +14,7 @@ Brown tree snake control, interdiction, research, and eradication efforts author
 
 &emsp;(3) Expansion of efforts to protect and restore native wildlife in Guam or elsewhere in the United States damaged by the brown tree snake.
 
-&emsp;(4) Establishment and sustained funding for an Animal Plant and Health Inspection Service, Wildlife Services, Operations ProgramState Office located in Hawaii dedicated to vertebrate pest management in Hawaii and United States Pacific territories and possessions. Concurrently, the Animal Plant and Health Inspection Service, Wildlife Services Operations Program shall establish and sustain funding for a District Office in Guam dedicated to brown tree snake control and managed by the Hawaii State Office.
+&emsp;(4) Establishment and sustained funding for an Animal Plant and Health Inspection Service, Wildlife Services, Operations Program State Office located in Hawaii dedicated to vertebrate pest management in Hawaii and United States Pacific territories and possessions. Concurrently, the Animal Plant and Health Inspection Service, Wildlife Services Operations Program shall establish and sustain funding for a District Office in Guam dedicated to brown tree snake control and managed by the Hawaii State Office.
 
 &emsp;(5) Continuation, expansion, and provision of sustained research funding related to the brown tree snake, including research conducted at institutions located in areas affected by the brown tree snake.
 
@@ -52,21 +52,21 @@ There is authorized to be appropriated to the Secretary of Agriculture and the S
 
 #### Control and Eradication of Brown Tree Snakes
 
-Pub. L. 110–417, \[div. A\], title III, §316, Oct. 14, 2008, 122 Stat. 4410, provided that: “The Secretary of Defense shall establish a comprehensive program to control and, to the extent practicable, eradicate the brown tree snake population from military facilities in Guam and to ensure that military activities, including the transport of civilian and military personnel and equipment to and from Guam, do not contribute to the spread of brown tree snakes.”
+Pub. L. 110–417, \[div. A\], title III, §316, Oct. 14, 2008, 122 Stat. 4410, provided that: "The Secretary of Defense shall establish a comprehensive program to control and, to the extent practicable, eradicate the brown tree snake population from military facilities in Guam and to ensure that military activities, including the transport of civilian and military personnel and equipment to and from Guam, do not contribute to the spread of brown tree snakes."
 
 Pub. L. 102–237, title X, §1013(a)–(c), Dec. 13, 1991, 105 Stat. 1901, as amended by Pub. L. 105–277, div. A, §101(a) \[title VII, §743\], Oct. 21, 1998, 112 Stat. 2681, 2681–31, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of Agriculture shall take such action as may be necessary to prevent the inadvertent introduction of brown tree snakes into other areas of the United States from Guam.
 
-“(b)
+"(b)
 
 Introduction Into Hawaii.—The Secretary shall initiate a program to prevent the introduction of the brown tree snake into Hawaii from Guam. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventative processes or devices at aircraft and vessel loading facilities on Guam, Hawaii, or intermediate sites serving as transportation points that could result in the introduction of brown tree snakes into Hawaii.
 
-“(c)
+"(c)
 
-Authority.—The Secretary shall use the authority provided under the Federal Plant Pest Act (7 U.S.C. 150aa et seq.) to carry out subsections (a) and (b).”
+Authority.—The Secretary shall use the authority provided under the Federal Plant Pest Act (7 U.S.C. 150aa et seq.) to carry out subsections (a) and (b)."
 
-Pub. L. 102–190, div. A, title III, §348, Dec. 5, 1991, 105 Stat. 1348, provided that: “The Secretary of Defense shall take such action as may be necessary to prevent the inadvertent introduction of brown tree snakes from Guam to Hawaii in aircraft and vessels transporting personnel or cargo for the Department of Defense. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventive processes or devices at aircraft and vessel loading facilities in Guam or Hawaii or at intermediate transit points for personnel or cargo transported between Guam and Hawaii.”
+Pub. L. 102–190, div. A, title III, §348, Dec. 5, 1991, 105 Stat. 1348, provided that: "The Secretary of Defense shall take such action as may be necessary to prevent the inadvertent introduction of brown tree snakes from Guam to Hawaii in aircraft and vessels transporting personnel or cargo for the Department of Defense. In carrying out this section, the Secretary shall consider the use of sniffer or tracking dogs, snake traps, and other preventive processes or devices at aircraft and vessel loading facilities in Guam or Hawaii or at intermediate transit points for personnel or cargo transported between Guam and Hawaii."
 

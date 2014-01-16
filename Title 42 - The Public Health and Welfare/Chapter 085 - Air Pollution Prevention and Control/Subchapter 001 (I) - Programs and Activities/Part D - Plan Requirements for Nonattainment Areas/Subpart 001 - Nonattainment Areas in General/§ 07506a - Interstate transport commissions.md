@@ -8,7 +8,7 @@ Whenever, on the Administrator's own motion or by petition from the Governor of 
 
 &emsp;(2) remove any State or portion of a State from the region whenever the Administrator has reason to believe that the control of emissions in that State or portion of the State pursuant to this section will not significantly contribute to the attainment of the standard in any area in the region.
 
-> The Administrator shall approve or disapprove any such petition or recommendation within 18months of its receipt. The Administrator shall establish appropriate proceedings for public participation regarding such petitions and motions, including notice and comment.
+> The Administrator shall approve or disapprove any such petition or recommendation within 18 months of its receipt. The Administrator shall establish appropriate proceedings for public participation regarding such petitions and motions, including notice and comment.
 
 #### (b) Transport commissions
 

@@ -36,19 +36,19 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §§83, 84, 39 Stat. 203, 204.
 
-In subsection (a), the word “supplies” is substituted for the detailed description of stores, material, andequipment, since under section 101(12) of this title, “supplies” includes stores, material, and equipment. The words “may buy or manufacture” are substituted for the words “is authorized to procure \* \* \* by purchase or manufacture”. The words “within the limits of available appropriations made by Congress” and “from time to time” are omitted as surplusage.
+In subsection (a), the word "supplies" is substituted for the detailed description of stores, material, and equipment, since under section 101(12) of this title, "supplies" includes stores, material, and equipment. The words "may buy or manufacture" are substituted for the words "is authorized to procure \* \* \* by purchase or manufacture". The words "within the limits ofavailable appropriations made by Congress" and "from time to time" are omitted as surplusage.
 
-In subsection (b), the words “the Secretary concerned is satisfied” are substituted for the words “it shall be shown to the satisfaction of the Secretary of the Army”. The words “buy any article issued by the Army or the Air Force” are substituted for the words “purchase, from the Department of the Army, of any article issued by any of the supply departments of the Army”.
+In subsection (b), the words "the Secretary concerned is satisfied" are substituted for the words "it shall be shown to the satisfaction of the Secretary of the Army". The words "buy any article issued by the Army or the Air Force" are substituted for the words "purchase, from the Department of the Army, of any article issued by any of the supply departments of the Army".
 
-In subsection (c), the words “the issue of” are substituted for the words “whenever \* \* \* shall have been issued \* \* \* shall be furnished”. The words “shall be without charge” are substituted for the words “without charging the cost or value thereof or any expense connected therewith”. The words “provided for the support” are omitted as surplusage.
+In subsection (c), the words "the issue of" are substituted for the words "whenever \* \* \* shall have been issued \* \* \* shall be furnished". The words "shall be without charge" are substituted for the words "without charging the cost or value thereof or any expense connected therewith". The words "provided for the support" are omitted as surplusage.
 
-In subsection (d), the words “No property may be issued to \* \* \* unless that jurisdiction” are substituted for the words <i>“Provided</i>, That as a condition precedent to the issue of any property as provided for by this title” and “desiring such issue”.
+In subsection (d), the words "No property may be issued to \* \* \* unless that jurisdiction" are substituted for the words <i>"Provided</i>, That as a condition precedent to the issue of any property as provided for by this title" and "desiring such issue".
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory or Puerto Rico”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted "State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands" for "State or Territory or Puerto Rico".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–456, §1234(b)(4), substituted “Territory or Puerto Rico” for “Territory, Puerto Rico, or the Canal Zone,”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–456, §1234(b)(4), substituted "Territory or Puerto Rico" for "Territory, Puerto Rico, or the Canal Zone,".
 
-Subsecs. (b) to (d). Pub. L. 100–456, §1234(b)(1), struck out “the Canal Zone,” after “Puerto Rico,”.
+Subsecs. (b) to (d). Pub. L. 100–456, §1234(b)(1), struck out "the Canal Zone," after "Puerto Rico,".
 

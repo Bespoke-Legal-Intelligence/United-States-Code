@@ -8,19 +8,19 @@
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–355 substituted “2008 through 2012” for “2002 through 2006”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–355 substituted "2008 through 2012" for "2002 through 2006".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–251 struck out par. (1) designation before “For the purpose”, substituted “2002 through 2006” for “1991 through 2000”, and struck out par. (2) which read as follows: “In the case of individuals who serve in the Corps other than pursuant to obligated service under the Scholarship or Loan Repayment Program, the Secretary each fiscal year shall, to the extent practicable, make assignments under section 254f of this title of such individuals who are certified nurse midwives, certified nurse practitioners, or physician assistants.”
+<b>2002</b>—Subsec. (a). Pub. L. 107–251 struck out par. (1) designation before "For the purpose", substituted "2002 through 2006" for "1991 through 2000", and struck out par. (2) which read as follows: "In the case of individuals who serve in the Corps other than pursuant to obligated service under the Scholarship or Loan Repayment Program, the Secretary each fiscal year shall, to the extent practicable, make assignments under section 254f of this title of such individuals who are certified nurse midwives, certified nurse practitioners, or physician assistants."
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–597 added subsec. (a) and struck out former subsec. (a) which read as follows: “To carry out this subpart, there are authorized to be appropriated $65,000,000 for fiscal year 1988, $65,000,000 for fiscal year 1989, and $65,000,000 for fiscal year 1990.”
+<b>1990</b>—Subsec. (a). Pub. L. 101–597 added subsec. (a) and struck out former subsec. (a) which read as follows: "To carry out this subpart, there are authorized to be appropriated $65,000,000 for fiscal year 1988, $65,000,000 for fiscal year 1989, and $65,000,000 for fiscal year 1990."
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–177 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “To carry out the purposes of this subpart, there are authorized to be appropriated $47,000,000 for the fiscal year ending September 30, 1978; $64,000,000 for the fiscal year ending September 30, 1979; $82,000,000 for the fiscal year ending September 30, 1980; $110,000,000 for the fiscal year ending September 30, 1982; $120,000,000 for the fiscal year ending September 30, 1983; and $130,000,000 for the fiscal year ending September 30, 1984.”
+<b>1987</b>—Subsec. (a). Pub. L. 100–177 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "To carry out the purposes of this subpart, there are authorized to be appropriated $47,000,000 for the fiscal year ending September 30, 1978; $64,000,000 for the fiscal year ending September 30, 1979; $82,000,000 for the fiscal year ending September 30, 1980; $110,000,000 for the fiscal year ending September 30, 1982; $120,000,000 for the fiscal year ending September 30, 1983; and $130,000,000 for the fiscal year ending September 30, 1984."
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35, §2708(a), inserted provisions authorizing appropriations for fiscal years ending Sept. 30, 1982, 1983, and 1984.
 
 Subsec. (b). Pub. L. 97–35, §2708(b), substituted reference to sections 254d to 254h, 254i, and 254j of this title for reference to this subpart.
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–76 substituted “$82,000,000” for “$70,000,000”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–76 substituted "$82,000,000" for "$70,000,000".
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–626 substituted “$64,000,000” for “$57,000,000” as amount authorized to be appropriated for fiscal year ending Sept. 30, 1979.
+<b>1978</b>—Subsec. (a). Pub. L. 95–626 substituted "$64,000,000" for "$57,000,000" as amount authorized to be appropriated for fiscal year ending Sept. 30, 1979.
 

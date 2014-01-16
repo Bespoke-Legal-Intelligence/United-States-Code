@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Board has jurisdiction over transportation by pipeline, or by pipeline and railroad or water, when transporting a commodity other than water, gas, or oil. Jurisdiction under this subsection applies only to transportation in the United States between a place in—
+In General.—The Board has jurisdiction over transportation by pipeline, or by pipelineand railroad or water, when transporting a commodity other than water, gas, or oil. Jurisdiction under this subsection applies only to transportation in the United States between a place in—
 
 &emsp;(1) a State and a place in another State;
 

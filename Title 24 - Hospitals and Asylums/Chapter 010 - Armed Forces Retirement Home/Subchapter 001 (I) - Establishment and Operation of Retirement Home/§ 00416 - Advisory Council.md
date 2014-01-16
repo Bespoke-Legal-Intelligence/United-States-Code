@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Retirement Home shall have an Advisory Council, to be known as the “Armed Forces Retirement Home Advisory Council”. The Advisory Council shall serve the interests of both facilities of the Retirement Home.
+The Retirement Home shall have an Advisory Council, to be known as the "Armed Forces Retirement Home Advisory Council". The Advisory Council shall serve the interests of both facilities of the Retirement Home.
 
 #### (b) Duties
 
@@ -34,7 +34,7 @@ The Retirement Home shall have an Advisory Council, to be known as the “Armed 
 
 &emsp;(E) The Chairpersons of the Resident Advisory Committees.
 
-&emsp;(F) One enlisted representative of the Services’ Retiree Advisory Council.
+&emsp;(F) One enlisted representative of the Services' Retiree Advisory Council.
 
 &emsp;(G) The senior noncommissioned officer of one of the Armed Forces.
 

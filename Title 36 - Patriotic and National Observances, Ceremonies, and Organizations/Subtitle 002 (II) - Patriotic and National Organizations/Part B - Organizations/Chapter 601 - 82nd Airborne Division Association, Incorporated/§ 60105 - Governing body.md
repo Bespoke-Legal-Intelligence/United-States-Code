@@ -42,5 +42,5 @@ Nov. 5, 1990, Pub. L. 101–510, title XVI, §§1605(b) (related to discriminati
 
 &nbsp;
 
-In subsections (a) and (b), the words “and shall be in conformity with the laws of the State or States in which it is incorporated” are omitted as unnecessary.
+In subsections (a) and (b), the words "and shall be in conformity with the laws of the State or States in which it is incorporated" are omitted as unnecessary.
 

@@ -2,13 +2,13 @@
 
 As used in this chapter—
 
-&emsp;(a) “Commission” means the United States Sentencing Commission;
+&emsp;(a) "Commission" means the United States Sentencing Commission;
 
-&emsp;(b) “Commissioner” means a member of the United States Sentencing Commission;
+&emsp;(b) "Commissioner" means a member of the United States Sentencing Commission;
 
-&emsp;(c) “guidelines” means the guidelines promulgated by the Commission pursuant to section 994(a) of this title; and
+&emsp;(c) "guidelines" means the guidelines promulgated by the Commission pursuant to section 994(a) of this title; and
 
-&emsp;(d) “rules and regulations” means rules and regulations promulgated by the Commission pursuant to section 995 of this title.
+&emsp;(d) "rules and regulations" means rules and regulations promulgated by the Commission pursuant to section 995 of this title.
 
 (Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2026.)
 

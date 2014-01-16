@@ -10,5 +10,5 @@ Section was not enacted as part of act Feb. 25, 1920, ch. 85, 41 Stat. 437, know
 
 #### Amendments
 
-<b>1932</b>—Act July 16, 1932, substituted “States of Louisiana and New Mexico” for “State of Louisiana”.
+<b>1932</b>—Act July 16, 1932, substituted "States of Louisiana and New Mexico" for "State of Louisiana".
 

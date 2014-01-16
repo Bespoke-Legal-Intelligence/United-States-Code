@@ -12,7 +12,7 @@ The Secretary is authorized, subject to the availability of appropriations, to m
 
 &emsp;(4) Technical assistance and training to Federal, tribal and community officials and business managers and planners deemed necessary by the institution to enable full implementation of, and benefits to be derived from, the program developed under paragraph (1).
 
-&emsp;(5) Clearinghouse activities encouraging the coordination of, and providing a point for the coordination of, all vocational activities (andacademically related training) serving all students of the Indian tribe involved in the grant.
+&emsp;(5) Clearinghouse activities encouraging the coordination of, and providing a point for the coordination of, all vocational activities (and academically related training) serving all students of the Indian tribe involved in the grant.
 
 &emsp;(6) The evaluation of such grants and their effect on the needs developed under paragraph (1) and tribal economic self-sufficiency.
 
@@ -30,11 +30,11 @@ Institutions which receive funds under other subchapters of this chapter or the 
 
 The Navajo Community College Act, referred to in subsecs. (a) and (c), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 640a of this title and Tables.
 
-This subchapter, referred to at the end of subsec. (c), was in the original “this part” and was translated as reading “this title” to reflect the probable intent of Congress because title IV of Pub. L. 95–471, which comprises this subchapter, does not contain parts.
+This subchapter, referred to at the end of subsec. (c), was in the original "this part" and was translated as reading "this title" to reflect the probable intent of Congress because title IV of Pub. L. 95–471, which comprises this subchapter, does not contain parts.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–244 substituted “colleges or universities” for “community colleges” in introductory provisions.
+<b>1998</b>—Subsec. (a). Pub. L. 105–244 substituted "colleges or universities" for "community colleges" in introductory provisions.
 
 #### Effective Date of 1998 Amendment
 
@@ -46,7 +46,7 @@ Subchapter effective July 1, 1991, see section 702(a) of Pub. L. 101–392, set 
 
 #### Short Title
 
-For short title of title IV of Pub. L. 95–471, which enacted this subchapter, as the “Tribal Economic Development and Technology Related Education Assistance Act of 1990”, see section 401 of Pub. L. 95–471, set out as a Short Title note under section 1801 of this title.
+For short title of title IV of Pub. L. 95–471, which enacted this subchapter, as the "Tribal Economic Development and Technology Related Education Assistance Act of 1990", see section 401 of Pub. L. 95–471, set out as a Short Title note under section 1801 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

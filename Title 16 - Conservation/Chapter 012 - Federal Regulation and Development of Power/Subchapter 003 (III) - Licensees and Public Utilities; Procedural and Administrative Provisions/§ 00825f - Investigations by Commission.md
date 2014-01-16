@@ -28,7 +28,7 @@ Witnesses whose depositions are taken as authorized in this chapter, and the per
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–58 inserted “, electric utility, transmitting utility, or other entity” after “person” in two places and inserted “, or in obtaining information about the sale of electric energy at wholesale in interstate commerce and the transmission of electric energy in interstate commerce” before period at end of first sentence.
+<b>2005</b>—Subsec. (a). Pub. L. 109–58 inserted ", electric utility, transmitting utility, or other entity" after "person" in two places and inserted ", or in obtaining information about the sale of electric energy at wholesale in interstate commerce and the transmission of electric energy in interstate commerce" before period at end of first sentence.
 
 <b>1970</b>—Subsec. (g). Pub. L. 91–452 struck out subsec. (g) which related to the immunity from prosecution of any individual compelled to testify or produce evidence, documentary or otherwise, after claiming his privilege against self-incrimination.
 

@@ -30,11 +30,11 @@ Historical and Revision Notes
 
 Aug. 18, 1949, ch. 479, §8, 63 Stat. 617.
 
-In subsection (a), the words “fined under title 18” are substituted for “fined not more than $100” for consistency with chapter 227 of title 18.
+In subsection (a), the words "fined under title 18" are substituted for "fined not more than $100" for consistency with chapter 227 of title 18.
 
-In subsection (b), the words “Superior Court of the District of Columbia” are substituted for “Municipal Court for the District of Columbia” \[subsequently changed to “District of Columbia Court of General Sessions” because of sections 1 and 7 of the Act of July 8, 1963 (Public Law 88–60, 77 Stat. 77, 78)\] because of section 155(a) of the District of Columbia Court Reorganization Act of 1970 (Public Law 91–358, 85 Stat. 570).
+In subsection (b), the words "Superior Court of the District of Columbia" are substituted for "Municipal Court for the District of Columbia" \[subsequently changed to "District of Columbia Court of General Sessions" because of sections 1 and 7 of the Act of July 8, 1963 (Public Law 88–60, 77 Stat. 77, 78)\] because of section 155(a) of the District of Columbia Court Reorganization Act of 1970 (Public Law 91–358, 85 Stat. 570).
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–356 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Prosecution for a violation described in subsection (a) shall be in the Superior Court of the District of Columbia, on information by the United States Attorney or an Assistant United States Attorney.”
+<b>2004</b>—Subsec. (b). Pub. L. 108–356 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "Prosecution for a violation described in subsection (a) shall be in the Superior Court of the District of Columbia, on information by the United States Attorney or an Assistant United States Attorney."
 

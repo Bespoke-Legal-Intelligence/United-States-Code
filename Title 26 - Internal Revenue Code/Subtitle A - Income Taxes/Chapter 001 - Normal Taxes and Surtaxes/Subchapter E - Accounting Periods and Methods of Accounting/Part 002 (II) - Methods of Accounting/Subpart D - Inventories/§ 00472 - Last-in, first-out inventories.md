@@ -48,9 +48,9 @@ The Secretary shall prescribe regulations permitting the use of suitable publish
 
 #### (2) Group of financially related corporations
 
-&emsp;For purposes of paragraph (1), the term “group of financially related corporations” means—
+&emsp;For purposes of paragraph (1), the term "group of financially related corporations" means—
 
-&emsp;&emsp;(A) any affiliated group as defined in section 1504 determined by substituting “50 percent” for “80 percent” each place it appears in section 1504(a) and without regard to section 1504(b), and
+&emsp;&emsp;(A) any affiliated group as defined in section 1504 determined by substituting "50 percent" for "80 percent" each place it appears in section 1504(a) and without regard to section 1504(b), and
 
 &emsp;&emsp;(B) any other group of corporations which consolidate or combine for purposes of financial statements.
 
@@ -60,21 +60,21 @@ The Secretary shall prescribe regulations permitting the use of suitable publish
 
 <b>1984</b>—Subsec. (g). Pub. L. 98–369 added subsec. (g).
 
-<b>1981</b>—Subsec. (d). Pub. L. 97–34, §236(a), substituted “3-year averaging for increases in inventory value” for “Preceding closing inventory” in heading, substituted first sentence reading “The beginning inventory for the first taxable year for which the method described in subsection (b) is used shall be valued at cost.” for “In determining income for the taxable year preceding the taxable year for which the method described in subsection (b) is first used, the closing inventory of such preceding year of the goods specified in the application referred to in subsection (a) shall be at cost.” and inserted “Any change in the inventory amount resulting from the application of the preceding sentence shall be taken into account ratably in each of the 3 taxable years beginning with the first taxable year for which the method described in subsection (b) is first used.”
+<b>1981</b>—Subsec. (d). Pub. L. 97–34, §236(a), substituted "3-year averaging for increases in inventory value" for "Preceding closing inventory" in heading, substituted first sentence reading "The beginning inventory for the first taxable year for which the method described in subsection (b) is used shall be valued at cost." for "In determining income for the taxable year preceding the taxable year for which the method described in subsection (b) is first used, the closing inventory of such preceding year of the goods specified in the application referred to in subsection (a) shall be at cost." and inserted "Any change in the inventory amount resulting from the application of the preceding sentence shall be taken into account ratably in each of the 3 taxable years beginning with the first taxable year for which the method described in subsection (b) is first used."
 
 Subsec. (f). Pub. L. 97–34, §235, added subsec. (f).
 
-<b>1976</b>—Subsecs. (a), (c), (e). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (a), (c), (e). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary" wherever appearing.
 
 Subsec. (f). Pub. L. 94–455, §1901(b)(36)(A), struck out subsec. (f) which provided for a cross reference relating to involuntary liquidation and replacement of LIFO inventories.
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §95(b), July 18, 1984, 98 Stat. 616, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title I, §95(b), July 18, 1984, 98 Stat. 616, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after the date of the enactment of this Act \[July 18, 1984\]."
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–34, title II, §236(b), Aug. 13, 1981, 95 Stat. 252, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1981.”
+Pub. L. 97–34, title II, §236(b), Aug. 13, 1981, 95 Stat. 252, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1981."
 
 #### Effective Date of 1976 Amendment
 

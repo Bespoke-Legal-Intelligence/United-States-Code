@@ -10,11 +10,11 @@ A prior section 10 of Pub. L. 97–348 was classified to section 3509 of this ti
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–226 substituted “2006 through 2010” for “2001, 2002, 2003, 2004, and 2005”.
+<b>2006</b>—Pub. L. 109–226 substituted "2006 through 2010" for "2001, 2002, 2003, 2004, and 2005".
 
-<b>2000</b>—Pub. L. 106–514 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to the Secretary for carrying out this chapter $2,000,000 for each of fiscal years 1995 to 1998.”
+<b>2000</b>—Pub. L. 106–514 amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated to the Secretary for carrying out this chapter $2,000,000 for each of fiscal years 1995 to 1998."
 
-<b>1994</b>—Pub. L. 103–461 amended section generally. Prior to amendment, section read as follows: “There is authorized to be appropriated to the Secretary for carrying out this chapter not more than $1,000,000 for each of the fiscal years 1990, 1991, 1992, and 1993.”
+<b>1994</b>—Pub. L. 103–461 amended section generally. Prior to amendment, section read as follows: "There is authorized to be appropriated to the Secretary for carrying out this chapter not more than $1,000,000 for each of the fiscal years 1990, 1991, 1992, and 1993."
 
-<b>1990</b>—Pub. L. 101–591 amended section generally. Prior to amendment, section read as follows: “There is authorized to be appropriated to the Department of the Interior $1,000,000 for the period beginning October 1, 1982, and ending September 30, 1985, for purposes of carrying out sections 3503 and 3509 of this title.”
+<b>1990</b>—Pub. L. 101–591 amended section generally. Prior to amendment, section read as follows: "There is authorized to be appropriated to the Department of the Interior $1,000,000 for the period beginning October 1, 1982, and ending September 30, 1985, for purposes of carrying out sections 3503 and 3509 of this title."
 

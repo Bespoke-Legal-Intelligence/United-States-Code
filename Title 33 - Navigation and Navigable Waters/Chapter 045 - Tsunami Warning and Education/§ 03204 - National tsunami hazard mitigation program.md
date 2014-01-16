@@ -6,7 +6,7 @@ The Administrator, through the National Weather Service and in consultation with
 
 #### (b) Coordinating committee
 
-In conducting the program under this section, the Administrator shall establish a coordinatingcommittee comprising representatives of Federal, State, local, and tribal government officials. The Administrator may establish subcommittees to address region-specific issues. The committee shall—
+In conducting the program under this section, the Administrator shall establish a coordinating committee comprising representatives of Federal, State, local, and tribal government officials. The Administrator may establish subcommittees to address region-specific issues. The committee shall—
 
 &emsp;(1) recommend how funds appropriated for carrying out the program under this section will be allocated;
 

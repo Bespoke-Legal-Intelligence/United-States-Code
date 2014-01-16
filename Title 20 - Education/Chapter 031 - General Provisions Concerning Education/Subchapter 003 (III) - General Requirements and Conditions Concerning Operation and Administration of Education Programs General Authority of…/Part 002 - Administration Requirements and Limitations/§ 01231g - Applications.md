@@ -30,9 +30,9 @@ Another prior section 436 of Pub. L. 90–247 was renumbered section 446, and wa
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–382, §246(2), substituted “Secretary” for “Commissioner” wherever appearing.
+<b>1994</b>—Pub. L. 103–382, §246(2), substituted "Secretary" for "Commissioner" wherever appearing.
 
-Subsec. (a). Pub. L. 103–382, §246(1), substituted “for more than one fiscal year” for “for three fiscal years”.
+Subsec. (a). Pub. L. 103–382, §246(1), substituted "for more than one fiscal year" for "for three fiscal years".
 
 #### Effective Date
 

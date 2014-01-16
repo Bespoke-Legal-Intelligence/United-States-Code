@@ -42,31 +42,31 @@ There are authorized to be appropriated to the Office of National Drug Control P
 
 #### (2) Designated agency
 
-&emsp;The agency delegated to carry out this program under section 1531(d) of this title mayuse up to 5 percent of the funds allocated for grants under this subchapter for administrative costs associated with carrying out the program.
+&emsp;The agency delegated to carry out this program under section 1531(d) of this title may use up to 5 percent of the funds allocated for grants under this subchapter for administrative costs associated with carrying out the program.
 
 (Pub. L. 100–690, title I, §1024, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 226; amended Pub. L. 107–82, §1(b), (c), Dec. 14, 2001, 115 Stat. 817; Pub. L. 109–469, title VIII, §801, Dec. 29, 2006, 120 Stat. 3535.)
 
 #### Codification
 
-Pub. L. 109–469, §801, which directed amendment of section 1024 of the “Drug-Free Communities Act of 1997”, was executed to this section, which is section 1024 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. See 2006 Amendment notes below.
+Pub. L. 109–469, §801, which directed amendment of section 1024 of the "Drug-Free Communities Act of 1997", was executed to this section, which is section 1024 of the National Narcotics Leadership Act of 1988, to reflect the probable intent of Congress. See 2006 Amendment notes below.
 
 #### Amendments
 
 <b>2006</b>—Subsec. (a)(11) to (15). Pub. L. 109–469, §801(a), added pars. (11) to (15). See Codification note above.
 
-Subsec. (b). Pub. L. 109–469, §801(b), amended subsec. (b) generally. See Codification note above. Prior to amendment, text read as follows: “Not more than the following percentages of the amounts authorized under subsection (a) of this section may be used to pay administrative costs:
+Subsec. (b). Pub. L. 109–469, §801(b), amended subsec. (b) generally. See Codification note above. Prior to amendment, text read as follows: "Not more than the following percentages of the amounts authorized under subsection (a) of this section may be used to pay administrative costs:
 
-&emsp;“(1) 10 percent for fiscal year 1998.
+&emsp;"(1) 10 percent for fiscal year 1998.
 
-&emsp;“(2) 6 percent for fiscal year 1999.
+&emsp;"(2) 6 percent for fiscal year 1999.
 
-&emsp;“(3) 4 percent for fiscal year 2000.
+&emsp;"(3) 4 percent for fiscal year 2000.
 
-&emsp;“(4) 3 percent for fiscal year 2001.
+&emsp;"(4) 3 percent for fiscal year 2001.
 
-&emsp;“(5) 6 percent for each of fiscal years 2002 through 2007.”
+&emsp;"(5) 6 percent for each of fiscal years 2002 through 2007."
 
-<b>2001</b>—Subsec. (a)(5) to (10). Pub. L. 107–82, §1(b), added pars. (5) to (10) and struck out former par. (5) which read as follows: “$43,500,000 for fiscal year 2002.”
+<b>2001</b>—Subsec. (a)(5) to (10). Pub. L. 107–82, §1(b), added pars. (5) to (10) and struck out former par. (5) which read as follows: "$43,500,000 for fiscal year 2002."
 
-Subsec. (b)(5). Pub. L. 107–82, §1(c), added par. (5) and struck out former par. (5) which read as follows: “3 percent for fiscal year 2002.”
+Subsec. (b)(5). Pub. L. 107–82, §1(c), added par. (5) and struck out former par. (5) which read as follows: "3 percent for fiscal year 2002."
 

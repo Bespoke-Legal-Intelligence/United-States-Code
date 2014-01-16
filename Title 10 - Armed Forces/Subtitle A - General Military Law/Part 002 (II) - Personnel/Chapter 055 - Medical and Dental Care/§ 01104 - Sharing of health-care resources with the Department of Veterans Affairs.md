@@ -20,17 +20,17 @@ Provision of Services During War or National Emergency.—Members of the armed f
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–314 substituted “shall” for “may”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–314 substituted "shall" for "may".
 
-<b>1993</b>—Subsecs. (a) to (c). Pub. L. 103–35, §201(c)(1)(A), substituted “section 8111 of title 38” for “section 8011 of title 38”.
+<b>1993</b>—Subsecs. (a) to (c). Pub. L. 103–35, §201(c)(1)(A), substituted "section 8111 of title 38" for "section 8011 of title 38".
 
-Subsec. (d). Pub. L. 103–35, §201(c)(1)(B), substituted “section 8111A of title 38” for “section 8011A of title 38”.
+Subsec. (d). Pub. L. 103–35, §201(c)(1)(B), substituted "section 8111A of title 38" for "section 8011A of title 38".
 
-<b>1992</b>—Subsecs. (a) to (c). Pub. L. 102–484, §1052(14)(A), substituted “section 8011 of title 38” for “section 5011 of title 38”.
+<b>1992</b>—Subsecs. (a) to (c). Pub. L. 102–484, §1052(14)(A), substituted "section 8011 of title 38" for "section 5011 of title 38".
 
-Subsec. (d). Pub. L. 102–484, §1052(14)(B), substituted “section 8011A of title 38” for “section 5011A of title 38”.
+Subsec. (d). Pub. L. 102–484, §1052(14)(B), substituted "section 8011A of title 38" for "section 5011A of title 38".
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–314 effective Oct. 1, 2003, see section 721(c) of Pub. L. 107–314, set out as a note under section 8111 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 107–314 effective Oct. 1, 2003, see section 721(c) of Pub. L. 107–314, set out as a note under section 8111 of Title 38, Veterans' Benefits.
 

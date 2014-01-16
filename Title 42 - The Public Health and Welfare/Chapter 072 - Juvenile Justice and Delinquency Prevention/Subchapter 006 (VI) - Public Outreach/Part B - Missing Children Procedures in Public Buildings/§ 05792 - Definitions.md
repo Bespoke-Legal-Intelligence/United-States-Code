@@ -4,15 +4,15 @@ In this part, the following definitions apply:
 
 #### (1) Child
 
-&emsp;The term “child” means an individual who is 17 years of age or younger.
+&emsp;The term "child" means an individual who is 17 years of age or younger.
 
 #### (2) Code Adam alert
 
-&emsp;The term “Code Adam alert” means a set of procedures used in public buildings to alert employees and other users of the building that a child is missing.
+&emsp;The term "Code Adam alert" means a set of procedures used in public buildings to alert employees and other users of the building that a child is missing.
 
 #### (3) Designated authority
 
-&emsp;The term “designated authority” means—
+&emsp;The term "designated authority" means—
 
 &emsp;&emsp;(A) with respect to a public building owned or leased for use by an Executive agency—
 
@@ -30,15 +30,15 @@ In this part, the following definitions apply:
 
 #### (4) Executive agency
 
-&emsp;The term “Executive agency” has the same meaning such term has under section 105 of title 5.
+&emsp;The term "Executive agency" has the same meaning such term has under section 105 of title 5.
 
 #### (5) Federal agency
 
-&emsp;The term “Federal agency” means any Executive agency or any establishment in the legislative or judicial branches of the Government.
+&emsp;The term "Federal agency" means any Executive agency or any establishment in the legislative or judicial branches of the Government.
 
 #### (6) Public building
 
-&emsp;The term “public building” means any building (or portion thereof) owned or leased for use by a Federal agency.
+&emsp;The term "public building" means any building (or portion thereof) owned or leased for use by a Federal agency.
 
 (Pub. L. 108–21, title III, §362, Apr. 30, 2003, 117 Stat. 665.)
 
@@ -48,5 +48,5 @@ Section was enacted as part of the Code Adam Act of 2003 and also as part of the
 
 #### Short Title
 
-For short title of subtitle D of title III of Pub. L. 108–21, which enacted this part, as the “Code Adam Act of 2003”, see section 361 of Pub. L. 108–21, set out as a note under section 5601 of this title.
+For short title of subtitle D of title III of Pub. L. 108–21, which enacted this part, as the "Code Adam Act of 2003", see section 361 of Pub. L. 108–21, set out as a note under section 5601 of this title.
 

@@ -34,19 +34,19 @@ All payments received by the Secretary of the Treasury under subsection (b) shal
 
 #### Amendments
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted “Secretary of the Treasury” for “Secretary”.
+<b>1976</b>—Subsec. (b). Pub. L. 94–455 substituted "Secretary of the Treasury" for "Secretary".
 
-Subsec. (b)(3). Pub. L. 94–283 substituted “9006(c)” for “9006(d)”.
+Subsec. (b)(3). Pub. L. 94–283 substituted "9006(c)" for "9006(d)".
 
-Subsec. (d). Pub. L. 94–455 substituted “Secretary of the Treasury” for “Secretary”.
+Subsec. (d). Pub. L. 94–455 substituted "Secretary of the Treasury" for "Secretary".
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–443, §404(c)(9), substituted “Commission” for “Comptroller General”.
+<b>1974</b>—Subsec. (a). Pub. L. 93–443, §404(c)(9), substituted "Commission" for "Comptroller General".
 
-Subsec. (b). Pub. L. 93–443, §404(c)(10), substituted “Commission” and “it” for “Comptroller General” and “he”, respectively, wherever appearing.
+Subsec. (b). Pub. L. 93–443, §404(c)(10), substituted "Commission" and "it" for "Comptroller General" and "he", respectively, wherever appearing.
 
-Subsec. (c). Pub. L. 93–443, §404(c)(11), substituted “Commission” for “Comptroller General”.
+Subsec. (c). Pub. L. 93–443, §404(c)(11), substituted "Commission" for "Comptroller General".
 
-<b>1973</b>—Subsec. (b)(3). Pub. L. 93–53 substituted section “9006(d)” for “9006(c)”.
+<b>1973</b>—Subsec. (b)(3). Pub. L. 93–53 substituted section "9006(d)" for "9006(c)".
 
 #### Effective Date of 1974 Amendment
 

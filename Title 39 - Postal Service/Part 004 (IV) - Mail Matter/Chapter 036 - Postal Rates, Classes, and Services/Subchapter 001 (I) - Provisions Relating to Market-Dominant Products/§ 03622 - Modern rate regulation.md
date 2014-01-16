@@ -110,7 +110,7 @@ Use of unused rate authority.—
 
 &emsp;&emsp;&emsp;(i)
 
-Definition.—In this subparagraph, the term “unused rate adjustment authority” means the difference between—
+Definition.—In this subparagraph, the term "unused rate adjustment authority" means the difference between—
 
 &emsp;&emsp;&emsp;&emsp;(I) the maximum amount of a rate adjustment that the Postal Service is authorized to make in any year subject to the annual limitation under paragraph (1); and
 
@@ -142,7 +142,7 @@ Workshare Discounts.—
 
 &emsp;(1)
 
-Definition.—In this subsection, the term “workshare discount” refers to rate discounts provided to mailers for the presorting, prebarcoding, handling, or transportation of mail, as further defined by the Postal Regulatory Commission under subsection (a).
+Definition.—In this subsection, the term "workshare discount" refers to rate discounts provided to mailers for the presorting, prebarcoding, handling, or transportation of mail, as further defined by the Postal Regulatory Commission under subsection (a).
 
 &emsp;(2)
 

@@ -34,7 +34,7 @@
 
 #### (B) Special rule for small health plans
 
-&emsp;&emsp;In the case of a small health plan, paragraph (1) shall be applied by substituting “36 months” for “24 months”. For purposes of this subsection, the Secretary shall determine the plans that qualify as small health plans.
+&emsp;&emsp;In the case of a small health plan, paragraph (1) shall be applied by substituting "36 months" for "24 months". For purposes of this subsection, the Secretary shall determine the plans that qualify as small health plans.
 
 #### (2) Compliance with modified standards
 
@@ -54,159 +54,159 @@
 
 Pub. L. 107–105, §2, Dec. 27, 2001, 115 Stat. 1003, provided that:
 
-“(a)
+"(a)
 
 In General.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Extension.—Subject to paragraph (2), notwithstanding section 1175(b)(1)(A) of the Social Security Act (42 U.S.C. 1320d–4(b)(1)(A)) and section 162.900 of title 45, Code of Federal Regulations, a health care provider, health plan (other than a small health plan), or a health care clearinghouse shall not be considered to be in noncompliance with the applicable requirements of subparts I through R of part 162 of title 45, Code of Federal Regulations, before October 16, 2003.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Condition.—Paragraph (1) shall apply to a person described in such paragraph only if, before October 16, 2002, the person submits to the Secretary of Health and Human Services a plan of how the person will come into compliance with the requirements described in such paragraph not later than October 16, 2003. Such plan shall be a summary of the following:
 
-&emsp;&emsp;“(A) An analysis reflecting the extent to which, and the reasons why, the person is not in compliance.
+&emsp;&emsp;"(A) An analysis reflecting the extent to which, and the reasons why, the person is not in compliance.
 
-&emsp;&emsp;“(B) A budget, schedule, work plan, and implementation strategy for achieving compliance.
+&emsp;&emsp;"(B) A budget, schedule, work plan, and implementation strategy for achieving compliance.
 
-&emsp;&emsp;“(C) Whether the person plans to use or might use a contractor or other vendor to assist the person in achieving compliance.
+&emsp;&emsp;"(C) Whether the person plans to use or might use a contractor or other vendor to assist the person in achieving compliance.
 
-&emsp;&emsp;“(D) A timeframe for testing that begins not later than April 16, 2003.
+&emsp;&emsp;"(D) A timeframe for testing that begins not later than April 16, 2003.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Electronic submission.—Plans described in paragraph (2) may be submitted electronically.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Model form.—Not later than March 31, 2002, the Secretary of Health and Human Services shall promulgate a model form that persons may use in drafting a plan described in paragraph (2). The promulgation of such form shall be made without regard to chapter 35 of title 44, United States Code (commonly known as the ‘Paperwork Reduction Act’).
+Model form.—Not later than March 31, 2002, the Secretary of Health and Human Services shall promulgate a model form that persons may use in drafting a plan described in paragraph (2). The promulgation of such form shall be made without regard to chapter 35 of title 44, United States Code (commonly known as the 'Paperwork Reduction Act').
 
-&emsp;“(5)
+&emsp;"(5)
 
 Analysis of plans; reports on solutions.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Analysis of plans.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 Furnishing of plans.—Subject to subparagraph (D), the Secretary of Health and Human Services shall furnish the National Committee on Vital and Health Statistics with a sample of the plans submitted under paragraph (2) for analysis by such Committee.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Analysis.—The National Committee on Vital and Health Statistics shall analyze the sample of the plans furnished under clause (i).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Reports on solutions.—The National Committee on Vital and Health Statistics shall regularly publish, and widely disseminate to the public, reports containing effective solutions to compliance problems identified in the plans analyzed under subparagraph (A). Such reports shall not relate specifically to any one plan but shall be written for the purpose of assisting the maximum number of persons to come into compliance by addressing the most common or challenging problems encountered by persons submitting such plans.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Consultation.—In carrying out this paragraph, the National Committee on Vital and Health Statistics shall consult with each organization—
 
-&emsp;&emsp;&emsp;“(i) described in section 1172(c)(3)(B) of the Social Security Act (42 U.S.C. 1320d–1(c)(3)(B)); or
+&emsp;&emsp;&emsp;"(i) described in section 1172(c)(3)(B) of the Social Security Act (42 U.S.C. 1320d–1(c)(3)(B)); or
 
-&emsp;&emsp;&emsp;“(ii) designated by the Secretary of Health and Human Services under section 162.910(a) of title 45, Code of Federal Regulations.
+&emsp;&emsp;&emsp;"(ii) designated by the Secretary of Health and Human Services under section 162.910(a) of title 45, Code of Federal Regulations.
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
 Protection of confidential information.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—The Secretary of Health and Human Services shall ensure that any material provided under subparagraph (A) to the National Committee on Vital and Health Statistics or any organization described in subparagraph (C) is redacted so as to prevent the disclosure of any—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) trade secrets;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) trade secrets;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) commercial or financial information that is privileged or confidential; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) commercial or financial information that is privileged or confidential; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) other information the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(III) other information the disclosure of which would constitute a clearly unwarranted invasion of personal privacy.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
-Construction.—Nothing in clause (i) shall be construed to affect the application of section 552 of title 5, United States Code (commonly known as the ‘Freedom of Information Act’), including the exceptions from disclosure provided under subsection (b) of such section.
+Construction.—Nothing in clause (i) shall be construed to affect the application of section 552 of title 5, United States Code (commonly known as the 'Freedom of Information Act'), including the exceptions from disclosure provided under subsection (b) of such section.
 
-&emsp;“(6)
+&emsp;"(6)
 
 Enforcement through exclusion from participation in medicare.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—In the case of a person described in paragraph (1) who fails to submit a plan in accordance with paragraph (2), and who is not in compliance with the applicable requirements of subparts I through R of part 162 of title 45, Code of Federal Regulations, on or after October 16, 2002, the person may be excluded at the discretion of the Secretary of Health and Human Services from participation (including under part C or as a contractor under sections 1816, 1842, and 1893) \[42 U.S.C. 1395h, 1395u, 1395ddd\] in title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Procedure.—The provisions of section 1128A of the Social Security Act (42 U.S.C. 1320a–7a) (other than the first and second sentences of subsection (a) and subsection (b)) shall apply to an exclusion under this paragraph in the same manner as such provisions apply with respect to an exclusion or proceeding under section 1128A(a) of such Act.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Construction.—The availability of an exclusion under this paragraph shall not be construed to affect the imposition of penalties under section 1176 of the Social Security Act (42 U.S.C. 1320d–5).
 
-&emsp;&emsp;“(D)
+&emsp;&emsp;"(D)
 
 Nonapplicability to complying persons.—The exclusion under subparagraph (A) shall not apply to a person who—
 
-&emsp;&emsp;&emsp;“(i) submits a plan in accordance with paragraph (2); or
+&emsp;&emsp;&emsp;"(i) submits a plan in accordance with paragraph (2); or
 
-&emsp;&emsp;&emsp;“(ii) who is in compliance with the applicable requirements of subparts I through R of part 162 of title 45, Code of Federal Regulations, on or before October 16, 2002.
+&emsp;&emsp;&emsp;"(ii) who is in compliance with the applicable requirements of subparts I through R of part 162 of title 45, Code of Federal Regulations, on or before October 16, 2002.
 
-“(b)
+"(b)
 
 Special Rules.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Rules of construction.—Nothing in this section shall be construed—
 
-&emsp;&emsp;“(A) as modifying the October 16, 2003, deadline for a small health plan to comply with the requirements of subparts I through R of part 162 of title 45, Code of Federal Regulations; or
+&emsp;&emsp;"(A) as modifying the October 16, 2003, deadline for a small health plan to comply with the requirements of subparts I through R of part 162 of title 45, Code of Federal Regulations; or
 
-&emsp;&emsp;“(B) as modifying—
+&emsp;&emsp;"(B) as modifying—
 
-&emsp;&emsp;&emsp;“(i) the April 14, 2003, deadline for a health care provider, a health plan (other than a small health plan), or a health care clearinghouse to comply with the requirements of subpart E of part 164 of title 45, Code of Federal Regulations; or
+&emsp;&emsp;&emsp;"(i) the April 14, 2003, deadline for a health care provider, a health plan (other than a small health plan), or a health care clearinghouse to comply with the requirements of subpart E of part 164 of title 45, Code of Federal Regulations; or
 
-&emsp;&emsp;&emsp;“(ii) the April 14, 2004, deadline for a small health plan to comply with the requirements of such subpart.
+&emsp;&emsp;&emsp;"(ii) the April 14, 2004, deadline for a small health plan to comply with the requirements of such subpart.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Applicability of privacy standards before compliance deadline for information transaction standards.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—Notwithstanding any other provision of law, during the period that begins on April 14, 2003, and ends on October 16, 2003, a health care provider or, subject to subparagraph (B), a health care clearinghouse, that transmits any health information in electronic form in connection with a transaction described in subparagraph (C) shall comply with the requirements of subpart E of part 164 of title 45, Code of Federal Regulations, without regard to whether the transmission meets the standards required by part 162 of such title.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Application to health care clearinghouses.—For purposes of this paragraph, during the period described in subparagraph (A), an entity that processes or facilitates the processing of information in connection with a transaction described in subparagraph (C) and that otherwise would be treated as a health care clearinghouse shall be treated as a health care clearinghouse without regard to whether the processing or facilitation produces (or is required to produce) standard data elements or a standard transaction as required by part 162 of title 45, Code of Federal Regulations.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Transactions described.—The transactions described in this subparagraph are the following:
 
-&emsp;&emsp;&emsp;“(i) A health care claims or equivalent encounter information transaction.
+&emsp;&emsp;&emsp;"(i) A health care claims or equivalent encounter information transaction.
 
-&emsp;&emsp;&emsp;“(ii) A health care payment and remittance advice transaction.
+&emsp;&emsp;&emsp;"(ii) A health care payment and remittance advice transaction.
 
-&emsp;&emsp;&emsp;“(iii) A coordination of benefits transaction.
+&emsp;&emsp;&emsp;"(iii) A coordination of benefits transaction.
 
-&emsp;&emsp;&emsp;“(iv) A health care claim status transaction.
+&emsp;&emsp;&emsp;"(iv) A health care claim status transaction.
 
-&emsp;&emsp;&emsp;“(v) An enrollment and disenrollment in a health plan transaction.
+&emsp;&emsp;&emsp;"(v) An enrollment and disenrollment in a health plan transaction.
 
-&emsp;&emsp;&emsp;“(vi) An eligibility for a health plan transaction.
+&emsp;&emsp;&emsp;"(vi) An eligibility for a health plan transaction.
 
-&emsp;&emsp;&emsp;“(vii) A health plan premium payments transaction.
+&emsp;&emsp;&emsp;"(vii) A health plan premium payments transaction.
 
-&emsp;&emsp;&emsp;“(viii) A referral certification and authorization transaction.
+&emsp;&emsp;&emsp;"(viii) A referral certification and authorization transaction.
 
-“(c)
+"(c)
 
 Definitions.—In this section—
 
-&emsp;“(1) the terms ‘health care provider’, ‘health plan’, and ‘health care clearinghouse’ have the meaning given those terms in section 1171 of the Social Security Act (42 U.S.C. 1320d) and section 160.103 of title 45, Code of Federal Regulations;
+&emsp;"(1) the terms 'health care provider', 'health plan', and 'health care clearinghouse' have the meaning given those terms in section 1171 of the Social Security Act (42 U.S.C. 1320d) and section 160.103 of title 45, Code of Federal Regulations;
 
-&emsp;“(2) the terms ‘small health plan’ and ‘transaction’ have the meaning given those terms in section 160.103 of title 45, Code of Federal Regulations; and
+&emsp;"(2) the terms 'small health plan' and 'transaction' have the meaning given those terms in section 160.103 of title 45, Code of Federal Regulations; and
 
-&emsp;“(3) the terms ‘health care claims or equivalent encounter information transaction’, ‘health care payment and remittance advice transaction’, ‘coordination of benefits transaction’, ‘health care claim status transaction’, ‘enrollment and disenrollment in a health plan transaction’, ‘eligibility for a health plan transaction’, ‘health plan premium paymentstransaction’, and ‘referral certification and authorization transaction’ have the meanings given those terms in sections 162.1101, 162.1601, 162.1801, 162.1401, 162.1501, 162.1201, 162.1701, and 162.1301 of title 45, Code of Federal Regulations, respectively.”
+&emsp;"(3) the terms 'health care claims or equivalent encounter information transaction', 'health care payment and remittance advice transaction', 'coordination of benefits transaction', 'health care claim status transaction', 'enrollment and disenrollment in a health plan transaction', 'eligibility for a health plan transaction', 'health plan premium paymentstransaction', and 'referral certification and authorization transaction' have the meanings given those terms in sections 162.1101, 162.1601, 162.1801, 162.1401, 162.1501, 162.1201, 162.1701, and 162.1301 of title 45, Code of Federal Regulations, respectively."
 

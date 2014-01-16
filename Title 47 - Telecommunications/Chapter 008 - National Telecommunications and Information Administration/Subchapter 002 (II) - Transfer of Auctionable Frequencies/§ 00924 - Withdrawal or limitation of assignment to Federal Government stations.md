@@ -54,7 +54,7 @@ The President shall—
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–33, §3002(d)(2)(A), substituted “subsection (a), (d)(1), or (f)” for “subsection (a) or (d)(1)”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–33, §3002(d)(2)(A), substituted "subsection (a), (d)(1), or (f)" for "subsection (a) or (d)(1)".
 
-Subsec. (a)(2). Pub. L. 105–33, §3002(d)(2)(B), substituted “any such 6-month period” for “either such 6-month period”.
+Subsec. (a)(2). Pub. L. 105–33, §3002(d)(2)(B), substituted "any such 6-month period" for "either such 6-month period".
 

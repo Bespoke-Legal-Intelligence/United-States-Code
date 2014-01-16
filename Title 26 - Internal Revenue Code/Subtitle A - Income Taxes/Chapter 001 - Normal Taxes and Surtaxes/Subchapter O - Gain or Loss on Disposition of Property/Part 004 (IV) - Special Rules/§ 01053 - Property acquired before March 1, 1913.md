@@ -6,7 +6,7 @@ In the case of property acquired before March 1, 1913, if the basis otherwise de
 
 #### Amendments
 
-<b>1958</b>—Pub. L. 85–866 substituted “subtitle” for “part”.
+<b>1958</b>—Pub. L. 85–866 substituted "subtitle" for "part".
 
 #### Effective Date of 1958 Amendment
 

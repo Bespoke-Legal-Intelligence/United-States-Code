@@ -24,5 +24,5 @@ This section is substituted for the source provisions for consistency in the rev
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–9 inserted “, or another place as determined by the board of directors” after “District of Columbia”.
+<b>2005</b>—Pub. L. 109–9 inserted ", or another place as determined by the board of directors" after "District of Columbia".
 

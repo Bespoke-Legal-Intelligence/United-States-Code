@@ -2,43 +2,43 @@
 
 As used in this chapter the term—
 
-&emsp;(a) “double criminality” means that at the time of transfer of an offender the offense for which he has been sentenced is still an offense in the transferring country and is also an offense in the receiving country. With regard to a country which has a federal form of government, an act shall be deemed to be an offense in that country if it is an offense under the federal laws or the laws of any state or province thereof;
+&emsp;(a) "double criminality" means that at the time of transfer of an offender the offense for which he has been sentenced is still an offense in the transferring country and is also an offense in the receiving country. With regard to a country which has a federal form of government, an act shall be deemed to be an offense in that country if it is an offense under the federal laws or the laws of any state or province thereof;
 
-&emsp;(b) “imprisonment” means a penalty imposed by a court under which the individual is confined to an institution;
+&emsp;(b) "imprisonment" means a penalty imposed by a court under which the individual is confined to an institution;
 
-&emsp;(c) “juvenile” means—
+&emsp;(c) "juvenile" means—
 
 &emsp;&emsp;(1) a person who is under eighteen years of age; or
 
 &emsp;&emsp;(2) for the purpose of proceedings and disposition under chapter 403 of this title because of an act of juvenile delinquency, a person who is under twenty-one years of age;
 
-&emsp;(d) “juvenile delinquency” means—
+&emsp;(d) "juvenile delinquency" means—
 
 &emsp;&emsp;(1) a violation of the laws of the United States or a State thereof or of a foreign country committed by a juvenile which would have been a crime if committed by an adult; or
 
 &emsp;&emsp;(2) noncriminal acts committed by a juvenile for which supervision or treatment by juvenile authorities of the United States, a State thereof, or of the foreign country concerned is authorized;
 
-&emsp;(e) “offender” means a person who has been convicted of an offense or who has been adjudged to have committed an act of juvenile delinquency;
+&emsp;(e) "offender" means a person who has been convicted of an offense or who has been adjudged to have committed an act of juvenile delinquency;
 
-&emsp;(f) “parole” means any form of release of an offender from imprisonment to the community by a releasing authority prior to the expiration of his sentence, subject to conditions imposed by the releasing authority and to its supervision, including a term of supervised release pursuant to section 3583;
+&emsp;(f) "parole" means any form of release of an offender from imprisonment to the community by a releasing authority prior to the expiration of his sentence, subject to conditions imposed by the releasing authority and to its supervision, including a term of supervised release pursuant to section 3583;
 
-&emsp;(g) “probation” means any form of a sentence under which the offender is permitted to remain at liberty under supervision and subject to conditions for the breach of which a penalty of imprisonment may be ordered executed;
+&emsp;(g) "probation" means any form of a sentence under which the offender is permitted to remain at liberty under supervision and subject to conditions for the breach of which a penalty of imprisonment may be ordered executed;
 
-&emsp;(h) “sentence” means not only the penalty imposed but also the judgment of conviction in a criminal case or a judgment of acquittal in the same proceeding, or the adjudication of delinquency in a juvenile delinquency proceeding or dismissal of allegations of delinquency in the same proceedings;
+&emsp;(h) "sentence" means not only the penalty imposed but also the judgment of convictionin a criminal case or a judgment of acquittal in the same proceeding, or the adjudication of delinquency in a juvenile delinquency proceeding or dismissal of allegations of delinquency in the same proceedings;
 
-&emsp;(i) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States;
+&emsp;(i) "State" means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States;
 
-&emsp;(j) “transfer” means a transfer of an individual for the purpose of the execution in one country of a sentence imposed by the courts of another country; and
+&emsp;(j) "transfer" means a transfer of an individual for the purpose of the execution in one country of a sentence imposed by the courts of another country; and
 
-&emsp;(k) “treaty” means a treaty under which an offender sentenced in the courts of one country may be transferred to the country of which he is a citizen or national for the purpose of serving the sentence.
+&emsp;(k) "treaty" means a treaty under which an offender sentenced in the courts of one country may be transferred to the country of which he is a citizen or national for the purpose of serving the sentence.
 
 (Added Pub. L. 95–144, §1, Oct. 28, 1977, 91 Stat. 1213; amended Pub. L. 98–473, title II, §223(m)(1), Oct. 12, 1984, 98 Stat. 2029.)
 
 #### Amendments
 
-<b>1984</b>—Subsec. (f). Pub. L. 98–473 inserted “including a term of supervised release pursuant to section 3583” after “supervision”.
+<b>1984</b>—Subsec. (f). Pub. L. 98–473 inserted "including a term of supervised release pursuant to section 3583" after "supervision".
 
-Subsec. (g). Pub. L. 98–473 substituted “under which” for “to a penalty of imprisonment the execution ofwhich is suspended” and “a” for “the suspended” before “penalty”.
+Subsec. (g). Pub. L. 98–473 substituted "under which" for "to a penalty of imprisonment the execution of which is suspended" and "a" for "the suspended" before "penalty".
 
 #### Effective Date of 1984 Amendment
 

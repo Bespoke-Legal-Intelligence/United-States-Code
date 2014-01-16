@@ -4,13 +4,13 @@
 
 (b) Such arbitration shall be advisory in nature, and any award, decision, or recommendation which may be made shall become final only upon the approval of the Administrator.
 
-(Pub. L. 90–448, title XIII, §1347, Aug. 1, 1968, 82 Stat. 586; Pub. L. 98–181, title I \[title IV,§451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §100238(b)(1), July 6, 2012, 126 Stat. 958.)
+(Pub. L. 90–448, title XIII, §1347, Aug. 1, 1968, 82 Stat. 586; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §100238(b)(1), July 6, 2012, 126 Stat. 958.)
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 substituted “Administrator” for “Director” in subsecs. (a) and (b).
+<b>2012</b>—Pub. L. 112–141 substituted "Administrator" for "Director" in subsecs. (a) and (b).
 
-<b>1983</b>—Pub. L. 98–181 substituted “Director” for “Secretary” in subsecs. (a) and (b).
+<b>1983</b>—Pub. L. 98–181 substituted "Director" for "Secretary" in subsecs. (a) and (b).
 
 #### Transfer of Functions
 

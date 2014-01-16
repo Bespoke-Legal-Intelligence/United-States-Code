@@ -14,7 +14,7 @@ Not later than 45 days after October 15, 2009, the Secretary of State shall subm
 
 &emsp;(5) A description of the steps taken, or to be taken, to ensure assistance provided under this chapter is not awarded to individuals or entities affiliated with terrorist organizations.
 
-&emsp;(6) A projection of the levels of assistance to be provided to Pakistan under this chapter, broken down into the following categories as described in the annual “Report on the Criteria and Methodology for Determining the Eligibility of Candidate Countries for Millennium Challenge Account Assistance”:
+&emsp;(6) A projection of the levels of assistance to be provided to Pakistan under this chapter, broken down into the following categories as described in the annual "Report on the Criteria and Methodology for Determining the Eligibility of Candidate Countries for Millennium Challenge Account Assistance":
 
 &emsp;&emsp;(A) Civil liberties.
 
@@ -32,7 +32,7 @@ Not later than 45 days after October 15, 2009, the Secretary of State shall subm
 
 &emsp;&emsp;(H) Public expenditure on health.
 
-&emsp;&emsp;(I) Girls’ primary education completion rate.
+&emsp;&emsp;(I) Girls' primary education completion rate.
 
 &emsp;&emsp;(J) Public expenditure on primary education.
 
@@ -74,7 +74,7 @@ Not later than 45 days after October 15, 2009, the Secretary of State shall subm
 
 #### (C) Appropriate congressional committees defined
 
-&emsp;&emsp;In this paragraph, the term “appropriate congressional committees” means—
+&emsp;&emsp;In this paragraph, the term "appropriate congressional committees" means—
 
 &emsp;&emsp;&emsp;(i) the Committee on Appropriations, the Committee on Armed Services, the Committee on Foreign Affairs, and the Permanent Select Committee on Intelligence of the House of Representatives; and
 

@@ -6,9 +6,9 @@ For the purpose of providing the assistance required under section 1541 of this 
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–82 substituted “the Corporation for National and Community Service” for “ACTION Agency”.
+<b>1993</b>—Pub. L. 103–82 substituted "the Corporation for National and Community Service" for "ACTION Agency".
 
-<b>1973</b>—Pub. L. 93–113 substituted “ACTION Agency” for “ACTION”.
+<b>1973</b>—Pub. L. 93–113 substituted "ACTION Agency" for "ACTION".
 
 #### Effective Date of 1993 Amendment
 

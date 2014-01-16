@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) World War II veteran
 
-&emsp;The term “World War II veteran” means a person who—
+&emsp;The term "World War II veteran" means a person who—
 
 &emsp;&emsp;(A) served during World War II—
 
@@ -20,27 +20,27 @@ In this subchapter:
 
 #### (2) World War II
 
-&emsp;The term “World War II” means the period beginning on September 16, 1940, and ending on July 24, 1947.
+&emsp;The term "World War II" means the period beginning on September 16, 1940, and ending on July 24, 1947.
 
 #### (3) Supplemental security income benefit under subchapter XVI
 
-&emsp;The term “supplemental security income benefit under subchapter XVI”, except as otherwise provided, includes State supplementary payments which are paid by the Commissioner of Social Security pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66.
+&emsp;The term "supplemental security income benefit under subchapter XVI", except as otherwise provided, includes State supplementary payments which are paid by the Commissioner of Social Security pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66.
 
 #### (4) Federal benefit rate under subchapter XVI
 
-&emsp;The term “Federal benefit rate under subchapter XVI of this chapter” means, with respect to any month, the amount of the supplemental security income cash benefit (not including any State supplementary payment which is paid by the Commissioner of Social Security pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66) payable under subchapter XVI of this chapter for the month to an eligible individual with no income.
+&emsp;The term "Federal benefit rate under subchapter XVI of this chapter" means, with respect to any month, the amount of the supplemental security income cash benefit (not including any State supplementary payment which is paid by the Commissioner of Social Security pursuant to an agreement under section 1382e(a) of this title or section 212(b) of Public Law 93–66) payable under subchapter XVI of this chapter for the month to an eligible individual with no income.
 
 #### (5) United States
 
-&emsp;The term “United States” means, notwithstanding section 1301(a)(1) of this title, onlythe 50 States, the District of Columbia, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term "United States" means, notwithstanding section 1301(a)(1) of this title, only the 50 States, the District of Columbia, and the Commonwealth of the Northern Mariana Islands.
 
 #### (6) Benefit income
 
-&emsp;The term “benefit income” means any recurring payment received by a qualified individual as an annuity, pension, retirement, or disability benefit (including any veterans’ compensation or pension, workmen's compensation payment, old-age, survivors, or disability insurance benefit, railroad retirement annuity or pension, and unemployment insurance benefit), but only if a similar payment was received by the individual from the same (or a related) source during the 12-month period preceding the month in which the individual files an application for benefits under this subchapter.
+&emsp;The term "benefit income" means any recurring payment received by a qualified individual as an annuity, pension, retirement, or disability benefit (including any veterans' compensation or pension, workmen's compensation payment, old-age, survivors, or disability insurance benefit, railroad retirement annuity or pension, and unemployment insurance benefit), but only if a similar payment was received by the individual from the same (or a related) source during the 12-month period preceding the month in which the individual files an application for benefits under this subchapter.
 
 (Aug. 14, 1935, ch. 531, title VIII, §812, as added Pub. L. 106–169, title II, §251(a), Dec. 14, 1999, 113 Stat. 1853.)
 
 #### References in Text
 
-Section 212(b) of Public Law 93–66, referred to in pars. (3) and (4), is section 212(b) of Pub. L. 93–66, title II, July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
+Section 212(b) of Public Law 93–66, referred to in pars. (3) and (4), is section 212(b) of Pub. L. 93–66, title II,July 9, 1973, 87 Stat. 155, as amended, which is set out as a note under section 1382 of this title.
 

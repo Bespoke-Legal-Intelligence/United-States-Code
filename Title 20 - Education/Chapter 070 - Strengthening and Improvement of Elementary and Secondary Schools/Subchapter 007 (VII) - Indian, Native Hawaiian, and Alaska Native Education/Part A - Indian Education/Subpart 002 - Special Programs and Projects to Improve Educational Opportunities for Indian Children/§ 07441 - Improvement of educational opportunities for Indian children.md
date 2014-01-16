@@ -16,7 +16,7 @@
 
 #### (b) Eligible entities
 
-In this section, the term “eligible entity” means a State educational agency, local educational agency, Indian tribe, Indian organization, federally supported elementary school or secondary school for Indian students, Indian institution (including an Indian institution of higher education), or a consortium of such entities.
+In this section, the term "eligible entity" means a State educational agency, local educational agency, Indian tribe, Indian organization, federally supported elementary school or secondary school for Indian students, Indian institution (including an Indian institution of higher education), or a consortium of such entities.
 
 #### (c) Grants authorized
 
@@ -68,7 +68,7 @@ In this section, the term “eligible entity” means a State educational agency
 
 #### (C) Progress
 
-&emsp;&emsp;The Secretary shall make a grant payment for a grant described in this paragraph to an eligible entity after the initial year of themultiyear grant only if the Secretary determines that the eligible entity has made substantial progress in carrying out the activities assisted under the grant in accordance with the application submitted under paragraph (3) and any subsequent modifications to such application.
+&emsp;&emsp;The Secretary shall make a grant payment for a grant described in this paragraph to an eligible entity after the initial year of the multiyear grant only if the Secretary determines that the eligible entity has made substantial progress in carrying out the activities assisted under the grant in accordance with the application submitted under paragraph (3) and any subsequent modifications to such application.
 
 #### (2) Dissemination grants
 

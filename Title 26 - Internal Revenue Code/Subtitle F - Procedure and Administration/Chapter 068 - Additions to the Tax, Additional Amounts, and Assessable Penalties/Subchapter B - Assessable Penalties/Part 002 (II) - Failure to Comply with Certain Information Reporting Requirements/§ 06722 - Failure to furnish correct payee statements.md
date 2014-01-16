@@ -60,11 +60,11 @@
 
 &emsp;If any person meets the gross receipts test of paragraph (2) with respect to any calendar year, with respect to failures during such calendar year—
 
-&emsp;&emsp;(A) subsection (a)(1) shall be applied by substituting “$500,000” for “$1,500,000”,
+&emsp;&emsp;(A) subsection (a)(1) shall be applied by substituting "$500,000" for "$1,500,000",
 
-&emsp;&emsp;(B) subsection (b)(1)(B) shall be applied by substituting “$75,000” for “$250,000”, and
+&emsp;&emsp;(B) subsection (b)(1)(B) shall be applied by substituting "$75,000" for "$250,000", and
 
-&emsp;&emsp;(C) subsection (b)(2)(B) shall be applied by substituting “$200,000” for “$500,000”.
+&emsp;&emsp;(C) subsection (b)(2)(B) shall be applied by substituting "$200,000" for "$500,000".
 
 #### (2) Gross receipts test
 
@@ -92,7 +92,7 @@ If 1 or more failures to which subsection (a) applies are due to intentional dis
 
 #### (1) In general
 
-&emsp;For each fifth calendar year beginning after 2012, each of the dollar amounts under subsections (a), (b), (d)(1), and (e) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting “calendar year 2011” for “calendar year 1992” in subparagraph (B) thereof.
+&emsp;For each fifth calendar year beginning after 2012, each of the dollar amounts under subsections (a), (b), (d)(1), and (e) shall be increased by such dollar amount multiplied by the cost-of-living adjustment determined under section 1(f)(3) determined by substituting "calendar year 2011" for "calendar year 1992" in subparagraph (B) thereof.
 
 #### (2) Rounding
 
@@ -108,7 +108,7 @@ If 1 or more failures to which subsection (a) applies are due to intentional dis
 
 <b>2010</b>—Pub. L. 111–240 amended section generally. Prior to amendment, section related to: in subsec. (a), general rule for imposition of penalty for failure to furnish correct payee statements; in subsec. (b), failures subject to penalty; and, in subsec. (c), penalty in case of intentional disregard.
 
-<b>1989</b>—Pub. L. 101–239 substituted “correct” for “certain” in section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsec. (a) stating general rule and subsec. (b) relating to failure to notify partnership of exchange of partnership interest.
+<b>1989</b>—Pub. L. 101–239 substituted "correct" for "certain" in section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsec. (a) stating general rule and subsec. (b) relating to failure to notify partnership of exchange of partnership interest.
 
 #### Effective Date of 2010 Amendment
 

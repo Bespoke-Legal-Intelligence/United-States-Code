@@ -30,7 +30,7 @@ There is established an advisory council to be known as the National Advisory Co
 
 &emsp;The Secretary shall appoint to the Advisory Council 21 appropriately qualified individuals. At least 17 members of the Advisory Council shall be representatives of the public who are not officers or employees of the United States and at least 1 member who shall be a specialist in the rural aspects of 1 or more of the professions or fields described in subparagraphs (A) through (G). The Secretary shall ensure that the appointed members of the Council, as a group, are representative of professions and entities concerned with, or affected by, activities under this subchapter and under section 1320b–12 of this title. Of such members—
 
-&emsp;&emsp;(A) three shall be individuals distinguished in the conduct of research, demonstration projects, and evaluations with respect to health care;
+&emsp;&emsp;(A) three shall be individuals distinguished in the conduct of research, demonstrationprojects, and evaluations with respect to health care;
 
 &emsp;&emsp;(B) three shall be individuals distinguished in the fields of health care quality research or health care improvement;
 
@@ -110,5 +110,5 @@ Another prior section 299c, act July 1, 1944, ch. 373, title IX, §903, as added
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c)(3)(A). Pub. L. 108–173 substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
+<b>2003</b>—Subsec. (c)(3)(A). Pub. L. 108–173 substituted "Centers for Medicare \& Medicaid Services" for "Health Care Financing Administration".
 

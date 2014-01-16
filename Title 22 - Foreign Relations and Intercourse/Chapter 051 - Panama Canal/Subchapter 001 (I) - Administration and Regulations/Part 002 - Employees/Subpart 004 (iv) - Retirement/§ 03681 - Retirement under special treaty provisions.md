@@ -46,7 +46,7 @@ The amount paid to the Social Security System of the Republic of Panama with res
 
 #### Amendments
 
-<b>1997</b>—Subsec. (c)(2). Pub. L. 105–85 substituted “retroactively” for “retroactivity”.
+<b>1997</b>—Subsec. (c)(2). Pub. L. 105–85 substituted "retroactively" for "retroactivity".
 
 #### Delegation of Functions
 

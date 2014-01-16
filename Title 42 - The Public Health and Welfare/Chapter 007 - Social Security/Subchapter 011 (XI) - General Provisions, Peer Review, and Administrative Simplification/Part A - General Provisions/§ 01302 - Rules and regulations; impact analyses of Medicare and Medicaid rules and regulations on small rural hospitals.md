@@ -4,7 +4,7 @@
 
 (b)(1) Whenever the Secretary publishes a general notice of proposed rulemaking for any rule or regulation proposed under subchapter XVIII of this chapter, subchapter XIX of this chapter, or part B of this subchapter that may have a significant impact on the operations of a substantial number of small rural hospitals, the Secretary shall prepare and make available for public comment an initial regulatory impact analysis. Such analysis shall describe the impact of the proposed rule or regulation on such hospitals and shall set forth, with respect to small rural hospitals, the matters required under section 603 of title 5 to be set forth with respect to small entities. The initial regulatory impact analysis (or a summary) shall be published in the Federal Register at the time of the publication of general notice of proposed rulemaking for the rule or regulation.
 
-(2) Whenever the Secretary promulgates a final version of a rule or regulation with respect to which an initial regulatory impact analysis is required by paragraph (1), the Secretary shall prepare a final regulatory impact analysis with respect to the final version of such rule or regulation. Such analysis shall set forth, with respect to small rural hospitals, the matters required under section 604 of title 5 to be set forth with respect to small entities. The Secretary shall make copies of the final regulatory impact analysis available to the public and shall publish, in the Federal Register at the time of publication of the final version of the rule or regulation, a statement describing how a member of the public may obtain a copy of such analysis.
+(2) Whenever the Secretary promulgates a final version of a rule or regulation with respect to which an initial regulatory impact analysis isrequired by paragraph (1), the Secretary shall prepare a final regulatory impact analysis with respect to the final version of such rule or regulation. Such analysis shall set forth, with respect to small rural hospitals, the matters required under section 604 of title 5 to be set forth with respect to small entities. The Secretary shall make copies of the final regulatory impact analysis available to the public and shall publish, in the Federal Register at the time of publication of the final version of the rule or regulation, a statement describing how a member of the public may obtain a copy of such analysis.
 
 (3) If a regulatory flexibility analysis is required by chapter 6 of title 5 for a rule or regulation to which this subsection applies, such analysis shall specifically address the impact of the rule or regulation on small rural hospitals.
 
@@ -14,13 +14,13 @@
 
 <b>1987</b>—Pub. L. 100–203 designated existing provision as subsec. (a) and added subsec. (b).
 
-<b>1984</b>—Pub. L. 98–369, §2663(l)(2), substituted “Secretary of Health, Education, and Welfare” for “Federal Security Administrator” immediately prior to the substitution of “Health and Human Services” for “Health, Education, and Welfare” by Pub. L. 98–369, §2663(j)(2)(D)(i).
+<b>1984</b>—Pub. L. 98–369, §2663(l)(2), substituted "Secretary of Health, Education, and Welfare" for "Federal Security Administrator" immediately prior to the substitution of "Health and Human Services" for "Health, Education, and Welfare" by Pub. L. 98–369, §2663(j)(2)(D)(i).
 
-<b>1950</b>—Act Aug. 28, 1950, substituted “Federal Security Administrator” for “Social Security Board”.
+<b>1950</b>—Act Aug. 28, 1950, substituted "Federal Security Administrator" for "Social Security Board".
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IV, §4402(b), Dec. 22, 1987, 101 Stat. 1330–226, provided that: “The amendments made by paragraph (1) \[probably means subsec. (a), amending this section\] shall apply to regulations proposed more than 30 days after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4402(b), Dec. 22, 1987, 101 Stat. 1330–226, provided that: "The amendments made by paragraph (1) \[probably means subsec. (a), amending this section\] shall apply to regulations proposed more than 30 days after the date of the enactment of this Act \[Dec. 22, 1987\]."
 
 #### Effective Date of 1984 Amendment
 
@@ -32,13 +32,13 @@ The provisions of this section were incorporated into sections 1429 and 1609 of 
 
 #### Abortion Services; Prohibition on Certain Policy Changes
 
-Pub. L. 100–517, §9, Oct. 24, 1988, 102 Stat. 2583, provided that: “With respect to abortion services, the Secretary of Health and Human Services shall not promulgate or issue any regulations, policy statements, or interpretations or develop any practices concerning the performance of medically necessary procedures if such regulations, policy statements, interpretations, or practices would be inconsistent with regulations, policy statements, interpretations, or practices in effect on the date of the enactment of this Act \[Oct. 24, 1988\].”
+Pub. L. 100–517, §9, Oct. 24, 1988, 102 Stat. 2583, provided that: "With respect to abortion services, the Secretary of Health and Human Services shall not promulgate or issue any regulations, policy statements, or interpretations or develop any practices concerning the performance of medically necessary procedures if such regulations, policy statements, interpretations, or practices would be inconsistent with regulations, policy statements, interpretations, or practices in effect on the date of the enactment of this Act \[Oct. 24, 1988\]."
 
 #### Notice on Social Security Checks
 
 Pub. L. 98–473, title II, §1212, Oct. 12, 1984, 98 Stat. 2165, provided that:
 
-“(a) The Secretary of the Treasury shall take such steps as may be necessary to provide that all checks issued for payment of benefits under title II of the Social Security Act \[subchapter II of this chapter\], and the envelopes in which such checks are mailed, contain a printed notice that the commission of forgery in conjunction with the cashing or attempted cashing of such checks constitutes a violation of Federal law. Such notice shall also state the maximum penalties for forgery under the applicable provisions of title 18 of the United States Code.
+"(a) The Secretary of the Treasury shall take such steps as may be necessary to provide that all checks issued for payment of benefits under title II of the Social Security Act \[42 U.S.C. 401 et seq.\], and the envelopes in which such checks are mailed, contain a printed notice that the commission of forgery in conjunction with the cashing or attempted cashing of such checks constitutes a violation of Federal law. Such notice shall also state the maximum penalties for forgery under the applicable provisions of title 18 of the United States Code.
 
-“(b) Subsection (a) shall apply with respect to checks issued for months after the ninth month after the date of the enactment of this Act \[Oct. 12, 1984\].”
+"(b) Subsection (a) shall apply with respect to checks issued for months after the ninth month after the date of the enactment of this Act \[Oct. 12, 1984\]."
 

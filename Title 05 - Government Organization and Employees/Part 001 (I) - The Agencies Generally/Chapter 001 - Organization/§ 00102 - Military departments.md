@@ -2,11 +2,11 @@
 
 The military departments are:
 
-&emsp;The Department of the Army.
+&emsp;&emsp;The Department of the Army.
 
-&emsp;The Department of the Navy.
+&emsp;&emsp;The Department of the Navy.
 
-&emsp;The Department of the Air Force.
+&emsp;&emsp;The Department of the Air Force.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 378.)
 

@@ -6,5 +6,5 @@ There are authorized to be appropriated to carry out this division $400,000,000 
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–315 substituted “$400,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years” for “$200,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years”.
+<b>2008</b>—Pub. L. 110–315 substituted "$400,000,000 for fiscal year 2009 and such sums as may be necessary for each of the five succeeding fiscal years" for "$200,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years".
 

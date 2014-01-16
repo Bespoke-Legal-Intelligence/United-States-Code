@@ -32,7 +32,7 @@ The Board shall conduct a review and assessment of the pilot program under this 
 
 #### Codification
 
-Section was enacted as part of the America COMPETES Act, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the America COMPETES Act, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Act, and not aspart of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Change of Name
 

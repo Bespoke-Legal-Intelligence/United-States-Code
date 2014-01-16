@@ -50,13 +50,14 @@
 | [1533\.](%C2%A7%2001533%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93358%2C%20title%20IV%2C%20%C2%A7407%28c%29%2C%20Jan.%204%2C%202011%2C%20124%20Stat.%204004.md) | Repealed. |
 | [1534\.](%C2%A7%2001534%20-%20Assessment%20of%20fees%20for%20access%20to%20environmental%20data.md) | Assessment of fees for access to environmental data. |
 | [1535\.](%C2%A7%2001535%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md) | Repealed. |
-| [1536\.](%C2%A7%2001536%20-%20Prohibition%20against%20fraudulent%20use%20of%20%E2%80%9CMade%20in%20America%E2%80%9D%20labels.md) | Prohibition against fraudulent use of “Made in America” labels. |
+| [1536\.](%C2%A7%2001536%20-%20Prohibition%20against%20fraudulent%20use%20of%20Made%20in%20America%20labels.md) | Prohibition against fraudulent use of "Made in America" labels. |
 | [1537\.](%C2%A7%2001537%20-%20Needs%20assessment%20for%20data%20management%2C%20archival%2C%20and%20distribution.md) | Needs assessment for data management, archival, and distribution. |
 | [1538\.](%C2%A7%2001538%20-%20Notice%20of%20reprogramming.md) | Notice of reprogramming. |
 | [1539\.](%C2%A7%2001539%20-%20Financial%20assistance.md) | Financial assistance. |
 | [1540\.](%C2%A7%2001540%20-%20Cooperative%20agreements.md) | Cooperative agreements. |
 | [1541\.](%C2%A7%2001541%20-%20Administrative%20Law%20Judges.md) | Administrative Law Judges. |
 | [1542\.](%C2%A7%2001542%20-%20Establishment%20of%20the%20Ernest%20F.%20Hollings%20Scholarship%20Program.md) | Establishment of the Ernest F. Hollings Scholarship Program. |
+| [1543\.](%C2%A7%2001543%20-%20Task%20force%20on%20job%20repatriation%20and%20manufacturing%20growth.md) | Task force on job repatriation and manufacturing growth. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -114,10 +115,11 @@
 - [&sect; 01533 - Repealed. Pub. L. 111&#8211;358, title IV, &sect;407(c), Jan. 4, 2011, 124 Stat. 4004](%C2%A7%2001533%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93358%2C%20title%20IV%2C%20%C2%A7407%28c%29%2C%20Jan.%204%2C%202011%2C%20124%20Stat.%204004.md)
 - [&sect; 01534 - Assessment of fees for access to environmental data](%C2%A7%2001534%20-%20Assessment%20of%20fees%20for%20access%20to%20environmental%20data.md)
 - [&sect; 01535 - Repealed. Pub. L. 111&#8211;314, &sect;6, Dec. 18, 2010, 124 Stat. 3444](%C2%A7%2001535%20-%20Repealed.%20Pub.%20L.%20111%E2%80%93314%2C%20%C2%A76%2C%20Dec.%2018%2C%202010%2C%20124%20Stat.%203444.md)
-- [&sect; 01536 - Prohibition against fraudulent use of &#8220;Made in America&#8221; labels](%C2%A7%2001536%20-%20Prohibition%20against%20fraudulent%20use%20of%20%E2%80%9CMade%20in%20America%E2%80%9D%20labels.md)
+- [&sect; 01536 - Prohibition against fraudulent use of Made in America labels](%C2%A7%2001536%20-%20Prohibition%20against%20fraudulent%20use%20of%20Made%20in%20America%20labels.md)
 - [&sect; 01537 - Needs assessment for data management, archival, and distribution](%C2%A7%2001537%20-%20Needs%20assessment%20for%20data%20management%2C%20archival%2C%20and%20distribution.md)
 - [&sect; 01538 - Notice of reprogramming](%C2%A7%2001538%20-%20Notice%20of%20reprogramming.md)
 - [&sect; 01539 - Financial assistance](%C2%A7%2001539%20-%20Financial%20assistance.md)
 - [&sect; 01540 - Cooperative agreements](%C2%A7%2001540%20-%20Cooperative%20agreements.md)
 - [&sect; 01541 - Administrative Law Judges](%C2%A7%2001541%20-%20Administrative%20Law%20Judges.md)
 - [&sect; 01542 - Establishment of the Ernest F. Hollings Scholarship Program](%C2%A7%2001542%20-%20Establishment%20of%20the%20Ernest%20F.%20Hollings%20Scholarship%20Program.md)
+- [&sect; 01543 - Task force on job repatriation and manufacturing growth](%C2%A7%2001543%20-%20Task%20force%20on%20job%20repatriation%20and%20manufacturing%20growth.md)

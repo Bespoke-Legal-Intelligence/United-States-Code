@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Feb. 20, 1896, ch. 23, §3 (last sentence), 29 Stat. 9.
 
-The words “at their discretion” are omitted as unnecessary.
+The words "at their discretion" are omitted as unnecessary.
 

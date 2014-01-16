@@ -2,7 +2,7 @@
 
 #### (a) Establishment and membership
 
-There is established a commission to be known as the National Afro-American History and Culture Commission (hereinafter in this chapter referred to as the “Commission”) which shall be composed of fifteen members, as specified in section 3702 of this title.
+There is established a commission to be known as the National Afro-American History and Culture Commission (hereinafter in this chapter referred to as the "Commission") which shall be composed of fifteen members, as specified in section 3702 of this title.
 
 #### (b) Duties
 
@@ -36,7 +36,7 @@ For the purpose of carrying out this chapter, the Commission may—
 
 &emsp;(1) acquire by gift, purchase with appropriated or donated funds (including funds from State or local sources), transfer from any Federal or State agency, exchange, or otherwise, suitable land (together with any buildings or other improvements thereon) and interest in land in the vicinity of Wilberforce, Ohio, for the location of the headquarters of the center;
 
-&emsp;(2) borrow or acquire by gift, purchase with appropriated or donated funds (including funds from State or local sources), or otherwise, any other real or personal property necessary for the establishment and operation of the center; and
+&emsp;(2) borrow or acquire by gift, purchase with appropriated or donated funds (including funds from State or local sources), or otherwise, any other real or personal property necessary forthe establishment and operation of the center; and
 
 &emsp;(3) sell, exchange, or otherwise dispose of any property acquired under this subsection and designate any proceeds from such disposal for the benefit of the center.
 
@@ -44,5 +44,5 @@ For the purpose of carrying out this chapter, the Commission may—
 
 #### Short Title
 
-Pub. L. 96–430, title II, §201, Oct. 10, 1980, 94 Stat. 1846, provided that: “This title \[enacting this chapter\] may be cited as the ‘National Center for the Study of Afro-American History and Culture Act’.”
+Pub. L. 96–430, title II, §201, Oct. 10, 1980, 94 Stat. 1846, provided that: "This title \[enacting this chapter\] may be cited as the 'National Center for the Study of Afro-American History and Culture Act'."
 

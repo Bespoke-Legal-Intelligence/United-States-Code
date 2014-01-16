@@ -8,9 +8,9 @@
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–333 struck out subsec. (b) which read as follows: “On December 31, 1979, and on the same date in each year that the recovery program is funded, the Secretary shall report to the Congress on the annual achievements of the innovation grant program, with emphasis on the nationwide implications of successful innovation projects.”
+<b>1996</b>—Subsec. (b). Pub. L. 104–333 struck out subsec. (b) which read as follows: "On December 31, 1979, and on the same date in each year that the recovery program is funded, the Secretary shall report to the Congress on the annual achievements of the innovation grant program, with emphasis on the nationwide implications of successful innovation projects."
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Interior, see section 2 of Pub. L. 95–625, set out as a note under section 2503 of this title.
 

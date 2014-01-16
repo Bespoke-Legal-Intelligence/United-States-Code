@@ -90,9 +90,9 @@ Any State program or activity to protect the integrity of the electoral process 
 
 #### (e) Procedure for voting following failure to return card
 
-(1) A registrant who has moved from an address in the area covered by a polling place to an address in the same area shall, notwithstanding failure to notify the registrar of the change of address prior to the date of an election, be permitted to vote at that polling place upon oral or written affirmation by the registrant of the change of address before an election official at that polling place.
+(1) A registrant who has moved from an address in the area covered by a polling place to anaddress in the same area shall, notwithstanding failure to notify the registrar of the change of address prior to the date of an election, be permitted to vote at that polling place upon oral or written affirmation by the registrant of the change of address before an election official at that polling place.
 
-(2)(A) A registrant who has moved from an address in the area covered by one polling place toan address in an area covered by a second polling place within the same registrar's jurisdiction and the same congressional district and who has failed to notify the registrar of the change of address prior to the date of an election, at the option of the registrant—
+(2)(A) A registrant who has moved from an address in the area covered by one polling place to an address in an area covered by a second polling place within the same registrar's jurisdiction and the same congressional district and who has failed to notify the registrar of the change of address prior to the date of an election, at the option of the registrant—
 
 &emsp;(i) shall be permitted to correct the voting records and vote at the registrant's former polling place, upon oral or written affirmation by the registrant of the new address before an election official at that polling place; or
 
@@ -138,9 +138,9 @@ In the case of a change of address, for voting purposes, of a registrant to anot
 
 (2) The records maintained pursuant to paragraph (1) shall include lists of the names and addresses of all persons to whom notices described in subsection (d)(2) of this section are sent, and information concerning whether or not each such person has responded to the notice as of the date that inspection of the records is made.
 
-#### (j) “Registrar's jurisdiction” defined
+#### (j) "Registrar's jurisdiction" defined
 
-For the purposes of this section, the term “registrar's jurisdiction” means—
+For the purposes of this section, the term "registrar's jurisdiction" means—
 
 &emsp;(1) an incorporated city, town, borough, or other form of municipality;
 
@@ -152,17 +152,17 @@ For the purposes of this section, the term “registrar's jurisdiction” means�
 
 #### References in Text
 
-The Voting Rights Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, as amended, which is classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of this title and Tables.
+The Voting Rights Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–110, Aug. 6, 1965, 79 Stat. 437, asamended, which is classified generally to subchapters I–A (§1973 et seq.), I–B (§1973aa et seq.), and I–C (§1973bb et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of this title and Tables.
 
 #### Codification
 
-Section is comprised of section 8 of Pub. L. 103–31. Subsec. (h) of section 8 of Pub. L. 103–31 enacted section3629 of Title 39, Postal Service, and amended sections 2401 and 3627 of Title 39.
+Section is comprised of section 8 of Pub. L. 103–31. Subsec. (h) of section 8 of Pub. L. 103–31 enacted section 3629 of Title 39, Postal Service, and amended sections 2401 and 3627 of Title 39.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(2). Pub. L. 107–252 inserted before period at end “, except that nothing in this paragraph may be construed to prohibit a State from using the procedures described in subsections (c) and (d) of this section to remove an individual from the official list of eligible voters if the individual—
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–252 inserted before period at end ", except that nothing in this paragraph may be construed to prohibit a State from using the procedures described in subsections (c) and (d) of this section to remove an individual from the official list of eligible voters if the individual—
 
-&emsp;“(A) has not either notified the applicable registrar (in person or in writing) or responded during the period described in subparagraph (B) to the notice sent by the applicable registrar; and then
+&emsp;"(A) has not either notified the applicable registrar (in person or in writing) or responded during the period described in subparagraph (B) to the notice sent by the applicable registrar; and then
 
-&emsp;“(B) has not voted or appeared to vote in 2 or more consecutive general elections for Federal office”.
+&emsp;"(B) has not voted or appeared to vote in 2 or more consecutive general elections for Federal office".
 

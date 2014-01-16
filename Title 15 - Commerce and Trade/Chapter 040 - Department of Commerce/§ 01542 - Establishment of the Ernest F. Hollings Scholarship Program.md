@@ -54,5 +54,3 @@ The Administrator shall require an individual receiving a scholarship under this
 
 (Pub. L. 108–447, div. B, title II, §214, Dec. 8, 2004, 118 Stat. 2884.)
 
-&nbsp;
-

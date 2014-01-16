@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 R.S. 1330.
 
-The words “under regulations prescribed by the Secretary of the Army” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
+The words "under regulations prescribed by the Secretary of the Army" are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions.
 

@@ -1,6 +1,6 @@
 ### §601. Membership roll; preparation; persons entitled to enrollment
 
-The Secretary of the Interior is authorized and directed, with the advice and consent of the Yakima Tribal Council, to prepare a roll showing the members of the Yakima Tribes living on August 9, 1946, which roll shall be kept current and shall constitute the official membership roll of the Yakima Tribes for all purposes. No person who is enrolled with any other tribe of Indians or who has received an allotment of land on anyother reservation shall be enrolled under the provisions of this subchapter. The following shall be placed on the roll:
+The Secretary of the Interior is authorized and directed, with the advice and consent of the Yakima Tribal Council, to prepare a roll showing the members of the Yakima Tribes living on August 9, 1946, which roll shall be kept current and shall constitute the official membership roll of the Yakima Tribes for all purposes. No person who is enrolled with any other tribe of Indians or who has received an allotment of land on any other reservation shall be enrolled under the provisions of this subchapter. The following shall be placed on the roll:
 
 (a) All living persons who received allotments on the Yakima Reservation, except by fraud.
 
@@ -16,11 +16,11 @@ The Secretary of the Interior is authorized and directed, with the advice and co
 
 Pub. L. 103–435, §17, Nov. 2, 1994, 108 Stat. 4573, provided that:
 
-“(a)
+"(a)
 
-Redesignation.—The Confederated Tribes and Bands of the Yakima Indian Nation shall be known and designated as the ‘Confederated Tribes and Bands of the Yakama Indian Nation’.
+Redesignation.—The Confederated Tribes and Bands of the Yakima Indian Nation shall be known and designated as the 'Confederated Tribes and Bands of the Yakama Indian Nation'.
 
-“(b)
+"(b)
 
-References.—Any reference in a law (including any regulation), map, document, paper, or other record of the United States to Confederated Tribes and Bands of the Yakima Indian Nation referred to in subsection (a) shall be deemed to be a reference to the ‘Confederated Tribes and Bands of the Yakama Indian Nation’.”
+References.—Any reference in a law (including any regulation), map, document, paper, or other record of the United States to Confederated Tribes and Bands of the Yakima Indian Nation referred to in subsection (a) shall be deemed to be a reference to the 'Confederated Tribes and Bands of the Yakama Indian Nation'."
 

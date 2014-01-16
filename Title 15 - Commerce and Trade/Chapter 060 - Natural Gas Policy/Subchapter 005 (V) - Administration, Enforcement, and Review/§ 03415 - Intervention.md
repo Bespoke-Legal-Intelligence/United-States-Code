@@ -4,7 +4,7 @@
 
 #### (1) Intervention as matter of right
 
-&emsp;The Secretary of Energy may intervene as a matter of right in any proceeding relating to the prorationing of, or other limitations upon, natural gas production which is conducted by any State agency having regulatory jurisdiction over the production of natural gas.
+&emsp;The Secretary of Energy may intervene as a matter of right in any proceeding relating to the prorationing of, or other limitations upon,natural gas production which is conducted by any State agency having regulatory jurisdiction over the production of natural gas.
 
 #### (2) Enforcement of right to intervene
 
@@ -22,9 +22,9 @@
 
 #### (2) Participation as amicus curiae
 
-&emsp;In addition to his authority to obtain review under paragraph (1), the Secretary may alsoparticipate an <sup>1</sup> amicus curiae in any judicial review of any proceeding described in subsection (a)(1) of this section.
+&emsp;In addition to his authority to obtain review under paragraph (1), the Secretary may also participate an <sup>1</sup> amicus curiae in any judicial review of any proceeding described in subsection (a)(1) of this section.
 
 (Pub. L. 95–621, title V, §505, Nov. 9, 1978, 92 Stat. 3403.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “as”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "as".</i>
 

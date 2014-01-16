@@ -20,7 +20,7 @@ Of the total amount appropriated during a given fiscal year to carry out this ch
 
 &emsp;(3) to carry out wetlands restoration projects in accordance with the priorities set forth in the restoration plan prepared under this chapter;
 
-&emsp;(4) to make grants not to exceed $2,500,000 annually or $10,000,000 in total, to assist theagency designated by the State in development of the Coastal Wetlands Conservation Plan pursuant to this chapter.
+&emsp;(4) to make grants not to exceed $2,500,000 annually or $10,000,000 in total, to assist the agency designated by the State in development of the Coastal Wetlands Conservation Plan pursuant to this chapter.
 
 #### (b) Coastal wetlands conservation grants
 
@@ -38,11 +38,11 @@ Of the total amount appropriated during a given fiscal year to carry out this ch
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–447, §114(a)(1), struck out “, not to exceed $70,000,000,” before “shall be available” in introductory provisions.
+<b>2004</b>—Subsec. (a). Pub. L. 108–447, §114(a)(1), struck out ", not to exceed $70,000,000," before "shall be available" in introductory provisions.
 
-Subsec. (b). Pub. L. 108–447, §114(a)(2), struck out “, not to exceed $15,000,000” before “shall be available” in introductory provisions.
+Subsec. (b). Pub. L. 108–447, §114(a)(2), struck out ", not to exceed $15,000,000" before "shall be available" in introductory provisions.
 
-Subsec. (c). Pub. L. 108–447, §114(a)(3), struck out “, not to exceed $15,000,000,” before “shall be available”.
+Subsec. (c). Pub. L. 108–447, §114(a)(3), struck out ", not to exceed $15,000,000," before "shall be available".
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–375 inserted “in coastal wetlands ecosystems” after “wetlands conservation projects”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–375 inserted "in coastal wetlands ecosystems" after "wetlands conservation projects".
 

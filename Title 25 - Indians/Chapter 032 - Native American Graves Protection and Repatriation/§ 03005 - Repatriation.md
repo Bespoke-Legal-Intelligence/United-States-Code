@@ -2,7 +2,7 @@
 
 #### (a) Repatriation of Native American human remains and objects possessed or controlled by Federal agencies and museums
 
-(1) If, pursuant to section 3003 of this title, the cultural affiliation of Native American human remains and associated funerary objects with a particular Indian tribe or Native Hawaiian organization is established, then the Federal agency or museum, upon the request of a known linealdescendant of the Native American or of the tribe or organization and pursuant to subsections (b) and (e) of this section, shall expeditiously return such remains and associated funerary objects.
+(1) If, pursuant to section 3003 of this title, the cultural affiliation of Native American human remains and associated funerary objects with a particular Indian tribe or Native Hawaiian organization is established, then the Federal agency or museum, upon the request of a known lineal descendant of the Native American or of the tribe or organization and pursuant to subsections (b) and (e) of this section, shall expeditiously return such remains and associated funerary objects.
 
 (2) If, pursuant to section 3004 of this title, the cultural affiliation with a particular Indian tribe or Native Hawaiian organization is shown with respect to unassociated funerary objects, sacred objects or objects of cultural patrimony, then the Federal agency or museum, upon the request of the Indian tribe or Native Hawaiian organization and pursuant to subsections (b), (c) and (e) of this section, shall expeditiously return such objects.
 
@@ -39,6 +39,10 @@ Where there are multiple requests for repatriation of any cultural item and, aft
 Any museum which repatriates any item in good faith pursuant to this chapter shall not be liable for claims by an aggrieved party or for claims of breach of fiduciary duty, public trust, or violations of state <sup>1</sup> law that are inconsistent with the provisions of this chapter.
 
 (Pub. L. 101–601, §7, Nov. 16, 1990, 104 Stat. 3054.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(3), (5)(C), (c), (e), and (f), was in the original "this Act", meaning Pub. L. 101–601, Nov. 16, 1990, 104 Stat. 3048, known as the Native American Graves Protection and Repatriation Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

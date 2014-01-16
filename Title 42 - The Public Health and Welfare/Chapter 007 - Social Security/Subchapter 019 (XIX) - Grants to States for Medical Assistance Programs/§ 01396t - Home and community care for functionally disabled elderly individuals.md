@@ -1,8 +1,8 @@
 ### §1396t. Home and community care for functionally disabled elderly individuals
 
-#### (a) “Home and community care” defined
+#### (a) "Home and community care" defined
 
-In this subchapter, the term “home and community care” means one or more of the following services furnished to an individual who has been determined, after an assessment under subsection (c) of this section, to be a functionally disabled elderly individual, furnished in accordance with an individual community care plan (established and periodically reviewed and revised by a qualified community care case manager under subsection (d) of this section):
+In this subchapter, the term "home and community care" means one or more of the following services furnished to an individual who has been determined, after an assessment under subsection (c) of this section, to be a functionally disabled elderly individual, furnished in accordance with an individual community care plan (established and periodically reviewed and revised by a qualified community care case manager under subsection (d) of this section):
 
 &emsp;(1) Homemaker/home health aide services.
 
@@ -22,11 +22,11 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;(9) Such other home and community-based services (other than room and board) as the Secretary may approve.
 
-#### (b) “Functionally disabled elderly individual” defined
+#### (b) "Functionally disabled elderly individual" defined
 
 #### (1) In general
 
-&emsp;In this subchapter, the term “functionally disabled elderly individual” means an individual who—
+&emsp;In this subchapter, the term "functionally disabled elderly individual" means an individual who—
 
 &emsp;&emsp;(A) is 65 years of age or older,
 
@@ -42,7 +42,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;&emsp;(ii) subsequently discontinues such waiver, individuals who were eligible for benefits under the waiver as of the date of its discontinuance and who would, but for income or resources, be eligible for medical assistance for home and community care under the plan shall, notwithstanding any other provision of this subchapter, be deemed a functionally disabled elderly individual for so long as the individual would have remained eligible for medical assistance under such waiver.
 
-&emsp;(B) In the case of a State which used a health insuring organization before January 1, 1986, and which, as of December 31, 1990, had in effect a waiver under section 1315 of this title that provides under the State plan under this subchapter for personal care services for functionally disabled individuals, the term “functionally disabled elderly individual” may include, at the option of the State, an individual who—
+&emsp;(B) In the case of a State which used a health insuring organization before January 1, 1986, and which, as of December 31, 1990, had in effect a waiver under section 1315 of this title that provides under the State plan under thissubchapter for personal care services for functionally disabled individuals, the term "functionally disabled elderly individual" may include, at the option of the State, an individual who—
 
 &emsp;&emsp;(i) is 65 years of age or older or is disabled (as determined under the supplemental security income program under subchapter XVI of this chapter);
 
@@ -58,7 +58,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (1) In general
 
-&emsp;In this section, an individual is “functionally disabled” if the individual—
+&emsp;In this section, an individual is "functionally disabled" if the individual—
 
 &emsp;&emsp;(A) is unable to perform without substantial assistance from another individual at least 2 of the following 3 activities of daily living: toileting, transferring, and eating; or
 
@@ -118,7 +118,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 &emsp;&emsp;&emsp;(ii) based on such assessment or review, determine whether the individual is (or continues to be) functionally disabled.
 
-> &emsp;&emsp;The results of such an assessment or review shall be used in establishing, reviewing, and revising the individual's ICCP under subsection (d)(1) of this section.
+> &emsp;&emsp;The results of such an assessment or review shall be used in establishing, reviewing, andrevising the individual's ICCP under subsection (d)(1) of this section.
 
 #### (G) Appeal procedures
 
@@ -126,9 +126,9 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (d) Individual community care plan (ICCP)
 
-#### (1) “Individual community care plan” defined
+#### (1) "Individual community care plan" defined
 
-&emsp;In this section, the terms “individual community care plan” and “ICCP” mean, with respect to a functionally disabled elderly individual, a written plan which—
+&emsp;In this section, the terms "individual community care plan" and "ICCP" mean, with respect to a functionally disabled elderly individual, a written plan which—
 
 &emsp;&emsp;(A) is established, and is periodically reviewed and revised, by a qualified case manager after a face-to-face interview with the individual or primary caregiver and based upon the most recent comprehensive functional assessment of such individual conducted under subsection (c)(2) of this section;
 
@@ -138,9 +138,9 @@ In this subchapter, the term “home and community care” means one or more of 
 
 > &emsp;An ICCP may also designate the specific providers (qualified to provide home and community care under the State plan) which will provide the home and community care described in subparagraph (B). Nothing in this section shall be construed as authorizing an ICCP or the State to restrict the specific persons or individuals (who are competent to provide home and community care under the State plan) who will provide the home and community care described in subparagraph (B).
 
-#### (2) “Qualified community care case manager” defined
+#### (2) "Qualified community care case manager" defined
 
-&emsp;In this section, the term “qualified community care case manager” means a nonprofit or public agency or organization which—
+&emsp;In this section, the term "qualified community care case manager" means a nonprofit or public agency or organization which—
 
 &emsp;&emsp;(A) has experience or has been trained in establishing, and in periodically reviewing and revising, individual community care plans and in the provision of case management services to the elderly;
 
@@ -192,7 +192,7 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (1) Requirements
 
-&emsp;Home and Community <sup>1</sup> care provided under this section must meet such requirements for individuals’ rights and quality as are published or developed by the Secretary under subsection (k) of this section. Such requirements shall include—
+&emsp;Home and Community <sup>1</sup> care provided under this section must meet such requirements for individuals' rights and quality as are published or developed by the Secretary under subsection (k) of this section. Such requirements shall include—
 
 &emsp;&emsp;(A) the requirement that individuals providing care are competent to provide such care; and
 
@@ -224,9 +224,9 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (g) Minimum requirements for small community care settings
 
-#### (1) “Small community care setting” defined
+#### (1) "Small community care setting" defined
 
-&emsp;In this section, the term “small community care setting” means—
+&emsp;In this section, the term "small community care setting" means—
 
 &emsp;&emsp;(A) a nonresidential setting that serves more than 2 and less than 8 individuals; or
 
@@ -250,9 +250,9 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (h) Minimum requirements for large community care settings
 
-#### (1) “Large community care setting” defined
+#### (1) "Large community care setting" defined
 
-&emsp;In this section, the term “large community care setting” means—
+&emsp;In this section, the term "large community care setting" means—
 
 &emsp;&emsp;(A) a nonresidential setting in which more than 8 individuals are served; or
 
@@ -372,11 +372,11 @@ In this subchapter, the term “home and community care” means one or more of 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each State shall establish by law (whether statute or regulation) at least the following remedy: A civil money penalty assessed and collected, with interest, for each day in which the provider is or was out of compliance with a requirement of this section. Funds collected by a State as a result of imposition of such a penalty (or as a result of the imposition by the State of a civil money penalty under subsection (i)(3)(A) of this section) may be applied to reimbursement of individuals for personal funds lost due to a failure of home or community care providers to meet the requirements of this section. The State also shall specify criteria, as to when and how this remedy is to be applied and the amounts of any penalties. Such criteria shall be designed so as to minimize the time between the identification of violations and final imposition of the penalties and shall provide for the imposition of incrementally more severe penalties for repeated or uncorrected deficiencies.
+&emsp;&emsp;&emsp;Each State shall establish by law (whether statute or regulation) at least the following remedy: A civil money penalty assessed and collected, with interest, for each day in which the provider is or was out of compliance with a requirement of this section. Funds collected by a State as a result of imposition of such a penalty (or as a result of the imposition by the State of a civil money penalty under subsection (i)(3)(A) of this section) may be applied to reimbursement of individuals for personal funds lost due to a failure of home or community care providers to meet the requirements of this section. The State also shall specify criteria, as to when and how this remedy is to be applied and the amounts of any penalties. Suchcriteria shall be designed so as to minimize the time between the identification of violations and final imposition of the penalties and shall provide for the imposition of incrementally more severe penalties for repeated or uncorrected deficiencies.
 
 #### (ii) Deadline and guidance
 
-&emsp;&emsp;&emsp;Each State which elects to provide home and community care under this section must establish the civil money penalty remedy described in clause (i) applicableto all providers of community care covered under this section. The Secretary shall provide, through regulations or otherwise by not later than July 1, 1990, guidance to States in establishing such remedy; but the failure of the Secretary to provide such guidance shall not relieve a State of the responsibility for establishing such remedy.
+&emsp;&emsp;&emsp;Each State which elects to provide home and community care under this section must establish the civil money penalty remedy described in clause (i) applicable to all providers of community care covered under this section. The Secretary shall provide, through regulations or otherwise by not later than July 1, 1990, guidance to States in establishing such remedy; but the failure of the Secretary to provide such guidance shall not relieve a State of the responsibility for establishing such remedy.
 
 #### (2) Secretarial authority
 
@@ -458,9 +458,9 @@ Pub. L. 101–508, title IV, §4711(b)(1), Nov. 5, 1990, 104 Stat. 1388–174, w
 
 <b>1999</b>—Subsec. (c)(2)(E)(i), (ii). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(v)(1)\], realigned margins.
 
-Subsec. (k)(1)(A)(i). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(v)(2)\], substituted “large community care settings),” for “large community care settings,”.
+Subsec. (k)(1)(A)(i). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(v)(2)\], substituted "large community care settings)," for "large community care settings,".
 
-Subsec. (l). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(v)(3)\], substituted “Statewideness” for “State wideness”.
+Subsec. (l). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(v)(3)\], substituted "Statewideness" for "State wideness".
 
 #### Effective Date
 

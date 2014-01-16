@@ -36,7 +36,7 @@ A grant may only be awarded to an entity under subsection (a) if an application 
 
 &emsp;(1) Information regarding how the expected expenditures of the grant are related to the planning process for localities funded under part A (including the planning process outlined in section 300ff–12 of this title) and for States funded under part B (including the planning process outlined in section 300ff–27(b) of this title).
 
-&emsp;(2) A specification of the expected expenditures and how those expenditures will improve overall patient outcomes, as outlined as part of the State plan (under section 300ff–27(b) of this title) or through additional outcome measures.
+&emsp;(2) A specification of the expected expenditures and how those expenditures will improve overall patient outcomes, as outlined as part of the State plan (under section 300ff–27(b) ofthis title) or through additional outcome measures.
 
 #### (e) Annual review of programs; evaluations
 
@@ -72,15 +72,15 @@ In this section:
 
 #### (1) Administrative expenses
 
-&emsp;The term “administrative expenses” means funds that are to be used by grantees for grant management and monitoring activities, including costs related to any staff or activity unrelated to services or indirect costs.
+&emsp;The term "administrative expenses" means funds that are to be used by grantees for grant management and monitoring activities, including costs related to any staff or activity unrelated to services or indirect costs.
 
 #### (2) Indirect costs
 
-&emsp;The term “indirect costs” means costs included in a Federally negotiated indirect rate.
+&emsp;The term "indirect costs" means costs included in a Federally negotiated indirect rate.
 
 #### (3) Services
 
-&emsp;The term “services” means—
+&emsp;The term "services" means—
 
 &emsp;&emsp;(A) services that are provided to clients to meet the goals and objectives of the program under this section, including the provision of professional, diagnostic, and therapeutic services by a primary care provider or a referral to and provision of specialty care; and
 
@@ -104,7 +104,7 @@ The Social Security Act, referred to in subsecs. (c)(1) and (i), is act Aug. 14,
 
 Prior sections 300ff–71 to 300ff–78 were omitted in the general amendment of this part by Pub. L. 109–415.
 
-Section 300ff–71, act July 1, 1944, ch. 373, title XXVI, §2671, as added Pub. L. 101–381, title IV, §401, Aug. 18,1990, 104 Stat. 617; amended Pub. L. 104–146, §3(e), May 20, 1996, 110 Stat. 1358; Pub. L. 106–345, title IV, §401, Oct. 20, 2000, 114 Stat. 1347, related to grants for coordinated services and access to research for women, infants, children, and youth.
+Section 300ff–71, act July 1, 1944, ch. 373, title XXVI, §2671, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 617; amended Pub. L. 104–146, §3(e), May 20, 1996, 110 Stat. 1358; Pub. L. 106–345, title IV, §401, Oct. 20, 2000, 114 Stat. 1347, related to grants for coordinated services and access to research for women, infants, children, and youth.
 
 Section 300ff–72, act July 1, 1944, ch. 373, title XXVI, §2672, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 618, contained provisions relating to blood banks.
 
@@ -112,7 +112,7 @@ Section 300ff–73, act July 1, 1944, ch. 373, title XXVI, §2673, as added Pub.
 
 Section 300ff–74, act July 1, 1944, ch. 373, title XXVI, §2674, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 620; amended Pub. L. 104–146, §3(f), May 20, 1996, 110 Stat. 1362; Pub. L. 106–345, title IV, §411, Oct. 20, 2000, 114 Stat. 1350, related to evaluations and reports.
 
-Section 300ff–75, act July 1, 1944, ch. 373, title XXVI, §2675, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 620; amended Pub. L. 102–531, title III, §312(d)(34), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 106–345, title IV, §§413, 414, Oct. 20, 2000, 114 Stat. 1350, 1351; Pub. L. 108–173, title IX, §900(e)(2)(G), Dec. 8, 2003, 117 Stat. 2372, related to coordination of Federal HIV programs. See section 300ff–81 of this title.
+Section 300ff–75, act July 1, 1944, ch. 373, title XXVI, §2675, as added Pub. L. 101–381, title IV, §401, Aug. 18, 1990, 104 Stat. 620; amended Pub. L. 102–531, title III, §312(d)(34), Oct. 27, 1992, 106 Stat. 3506; Pub. L. 106–345, title IV, §§413, 414, Oct. 20, 2000, 114 Stat. 1350, 1351; Pub. L. 108–173, title IX, §900(e)(2)(G), Dec. 8, 2003, 117 Stat.2372, related to coordination of Federal HIV programs. See section 300ff–81 of this title.
 
 Section 300ff–75a, act July 1, 1944, ch. 373, title XXVI, §2675A, as added Pub. L. 106–345, title IV, §415, Oct. 20, 2000, 114 Stat. 1351, related to audits. See section 300ff–82 of this title.
 
@@ -128,13 +128,13 @@ Section 300ff–78, act July 1, 1944, ch. 373, title XXVI, §2678, as added Pub.
 
 <b>2009</b>—Pub. L. 111–87, §2(a)(1), (3)(A), repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
-Subsec. (a). Pub. L. 111–87, §11(b), substituted “(directly or through contracts or memoranda of understanding)” for “(directly or through contracts)”.
+Subsec. (a). Pub. L. 111–87, §11(b), substituted "(directly or through contracts or memoranda of understanding)" for "(directly or through contracts)".
 
-Subsec. (g). Pub. L. 111–87, §11(a)(2), substituted “subsection (j)” for “subsection (i)”.
+Subsec. (g). Pub. L. 111–87, §11(a)(2), substituted "subsection (j)" for "subsection (i)".
 
 Subsec. (i). Pub. L. 111–87, §11(a)(3), added subsec. (i). Former subsec. (i) redesignated (j).
 
-Pub. L. 111–87, §2(e), inserted “, $75,390,000 for fiscal year 2010, $79,160,000 for fiscal year 2011, $83,117,000 for fiscal year 2012, and $87,273,000 for fiscal year 2013” before period at end.
+Pub. L. 111–87, §2(e), inserted ", $75,390,000 for fiscal year 2010, $79,160,000 for fiscal year 2011, $83,117,000 for fiscal year 2012, and $87,273,000 for fiscal year 2013" before period at end.
 
 Subsec. (j). Pub. L. 111–87, §11(a)(1), redesignated subsec. (i) as (j).
 

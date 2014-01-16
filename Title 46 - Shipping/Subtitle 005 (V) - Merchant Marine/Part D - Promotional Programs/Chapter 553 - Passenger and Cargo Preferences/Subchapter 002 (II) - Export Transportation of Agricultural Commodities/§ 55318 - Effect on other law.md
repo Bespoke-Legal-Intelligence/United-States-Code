@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Pub. L. 99–198, title XI, §1143, Dec. 23, 1985, 99 Stat. 1496.
 
-The words “section 1707a(b)(8) of title 7” are omitted because the provision referred to has been repealed.
+The words "section 1707a(b)(8) of title 7" are omitted because the provision referred to has been repealed.
 

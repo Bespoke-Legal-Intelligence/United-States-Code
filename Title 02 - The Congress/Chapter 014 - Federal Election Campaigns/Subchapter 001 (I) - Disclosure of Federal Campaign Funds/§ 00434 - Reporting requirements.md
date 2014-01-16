@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(i) monthly reports, which shall be filed no later than the 20th day after the last day of each month and shall be complete as of the last day of the month; or
 
-&emsp;&emsp;(ii) quarterly reports, which shall be filed no later than the 15th day after the last day of each calendar quarter and which shall be complete as of the last day of each calendar quarter.
+&emsp;&emsp;(ii) quarterly reports, which shall be filed no later than the 15th day after the last dayof each calendar quarter and which shall be complete as of the last day of each calendar quarter.
 
 (4) All political committees other than authorized committees of a candidate shall file either—
 
@@ -42,7 +42,7 @@
 
 &emsp;(iv) in any other calendar year, a report covering the period beginning January 1 and ending June 30, which shall be filed no later than July 31 and a report covering the period beginning July 1 and ending December 31, which shall be filed no later than January 31 of the following calendar year; or
 
-&emsp;(B) monthly reports in all calendar years which shall be filed no later than the 20th day after the last day of the month and shall be complete as of the last day of the month, except that, in lieu of filing the reports otherwise due in November and December of any year in which a regularly scheduled general election is held, a pre-general election report shall be filed in accordance with paragraph (2)(A)(i), a post-general election report shall be filed in accordance with paragraph\(2)(A)(ii), and a year end report shall be filed no later than January 31 of the following calendar year.
+&emsp;(B) monthly reports in all calendar years which shall be filed no later than the 20th day after the last day of the month and shall be complete as of the last day of the month, except that, in lieu of filing the reports otherwise due in November and December of any year in which a regularly scheduled general election is held, a pre-general election report shall be filed in accordance with paragraph (2)(A)(i), a post-general election report shall be filed in accordance with paragraph (2)(A)(ii), and a year end report shall be filed no later than January 31 of the following calendar year.
 
 > Notwithstanding the preceding sentence, a national committee of a political party shall file the reports required under subparagraph (B).
 
@@ -96,7 +96,7 @@ Contents.—A notification under clause (iii) or (iv) shall include—
 
 &emsp;&emsp;(II) the date and amount of each expenditure; and
 
-&emsp;&emsp;(III) the total amount of expenditures from personal funds that the candidate has made, or obligated to make, with respect to an election as of the date of the expenditure that is the subject of the notification.
+&emsp;&emsp;(III) the total amount of expenditures from personal funds that the candidate has made, or obligated to make, with respect to anelection as of the date of the expenditure that is the subject of the notification.
 
 (C)
 
@@ -112,7 +112,7 @@ Enforcement.—For provisions providing for the enforcement of the reporting req
 
 (8) The requirement for a political committee to file a quarterly report under paragraph (2)(A)(iii) or paragraph (4)(A)(i) shall be waived if such committee is required to file a pre-election report under paragraph (2)(A)(i), or paragraph (4)(A)(ii) during the period beginning on the 5th day after the close of the calendar quarter and ending on the 15th day after the close of the calendar quarter.
 
-(9) The Commission shall set filing dates for reports to be filed by principal campaign committees of candidates seeking election, or nomination for election, in special elections and political committees filing under paragraph (4)(A) which make contributions to or expenditures on behalf of a candidate or candidates in special elections. The Commission shall require no more than one pre-election report for each election and one post-election report for the election which fills the vacancy. The Commission may waive any reporting obligation of committees required to file for special elections if any report required by paragraph (2) or (4) is required to befiled within 10 days of a report required under this subsection. The Commission shall establish the reporting dates within 5 days of the setting of such election and shall publish such dates and notify the principal campaign committees of all candidates in such election of the reporting dates.
+(9) The Commission shall set filing dates for reports to be filed by principal campaign committees of candidates seeking election, or nomination for election, in special elections and political committees filing under paragraph (4)(A) which make contributions to or expenditures on behalf of a candidate or candidates in special elections. The Commission shall require no more than one pre-election report for each election and one post-election report for the election which fills the vacancy. The Commission may waive any reporting obligation of committees required to file for special elections if any report required by paragraph (2) or (4) is required to be filed within 10 days of a report required under this subsection. The Commission shall establish the reporting dates within 5 days of the setting of such election and shall publish such dates and notify the principal campaign committees of all candidates in such election of the reporting dates.
 
 (10) The treasurer of a committee supporting a candidate for the office of Vice President (other than the nominee of a political party) shall file reports in accordance with paragraph (3).
 
@@ -284,7 +284,7 @@ Each report under this section shall disclose—
 
 (2) The Commission shall make a document which is filed electronically with the Commission pursuant to this paragraph accessible to the public on the Internet not later than 24 hours after the document is received by the Commission.
 
-(3) In promulgating a regulation under this paragraph, the Commission shall provide methods (other than requiring a signature on the document being filed) for verifying the documents covered by the regulation. Any document verified under any of the methods shall be treated for all purposes (including penalties for perjury) in the same manner as a document verified by signature.
+(3) In promulgating a regulation under this paragraph, the Commission shall provide methods (other than requiring a signature on the document being filed) for verifying the documents covered by the regulation. Any document verified under any of the methods shall be treated for all purposes (including penalties for perjury)in the same manner as a document verified by signature.
 
 #### (e) Political committees
 
@@ -308,7 +308,7 @@ Each report under this section shall disclose—
 
 #### (4) Reporting periods
 
-&emsp;Reports required to be filed under this subsection shall be filed for the same time periodsrequired for political committees under subsection (a)(4)(B) of this section.
+&emsp;Reports required to be filed under this subsection shall be filed for the same time periods required for political committees under subsection (a)(4)(B) of this section.
 
 #### (f) Disclosure of electioneering communications
 
@@ -350,7 +350,7 @@ Each report under this section shall disclose—
 
 &emsp;&emsp;&emsp;(III) in the case of a communication which refers to a candidate for an office other than President or Vice President, is targeted to the relevant electorate.
 
-&emsp;&emsp;(ii) If clause (i) is held to be constitutionally insufficient by final judicial decision to support the regulation provided herein, then the term “electioneering communication” means any broadcast, cable, or satellite communication which promotes or supports a candidate for that office, or attacks or opposes a candidate for that office (regardless of whether the communication expressly advocates a vote for or against a candidate) and which also is suggestive of no plausible meaning other than an exhortation to vote for or against a specific candidate. Nothing in this subparagraph shall be construed to affect the interpretation or application of section 100.22(b) of title 11, Code of Federal Regulations.
+&emsp;&emsp;(ii) If clause (i) is held to be constitutionally insufficient by final judicial decision to support the regulation provided herein, then the term “electioneering communication” means any broadcast, cable, or satellite communication which promotes or supports a candidate for that office, or attacks or opposes a candidate for that office\(regardless of whether the communication expressly advocates a vote for or against a candidate) and which also is suggestive of no plausible meaning other than an exhortation to vote for or against a specific candidate. Nothing in this subparagraph shall be construed to affect the interpretation or application of section 100.22(b) of title 11, Code of Federal Regulations.
 
 #### (B) Exceptions
 
@@ -424,7 +424,7 @@ Each report under this section shall disclose—
 
 #### (4) Time of filing for expenditures aggregating $1,000
 
-&emsp;Notwithstanding subsection (a)(5) of this section, the time at which the statement under paragraph (1) is received by the Commission or any other recipient to whom the notification is required to be sent shall be considered the time of filing of the statement with the recipient.
+&emsp;Notwithstanding subsection (a)(5) of this section, the time at which the statement under paragraph (1) is received by the Commission or any other recipient to whom thenotification is required to be sent shall be considered the time of filing of the statement with the recipient.
 
 #### (h) Reports from Inaugural Committees
 
@@ -450,7 +450,7 @@ The Federal Election Commission shall make any report filed by an Inaugural Comm
 
 #### (A) In general
 
-&emsp;&emsp;In this subsection, the “applicable threshold” is $15,000, except that in determining whether the amount of bundled contributions provided to a committee by a person described in paragraph (7) exceeds the applicable threshold, there shall be excluded anycontribution made to the committee by the person or the person's spouse.
+&emsp;&emsp;In this subsection, the “applicable threshold” is $15,000, except that in determining whether the amount of bundled contributions provided to a committee by a person described in paragraph (7) exceeds the applicable threshold, there shall be excluded any contribution made to the committee by the person or the person's spouse.
 
 #### (B) Indexing
 
@@ -496,7 +496,7 @@ The Federal Election Commission shall make any report filed by an Inaugural Comm
 
 #### (A) Bundled contribution
 
-&emsp;&emsp;The term “bundled contribution” means, with respect to a committee described in paragraph (6) and a person described in paragraph (7), a contribution (subject to the applicable threshold) which is—
+&emsp;&emsp;The term “bundled contribution” means, with respect to a committee described inparagraph (6) and a person described in paragraph (7), a contribution (subject to the applicable threshold) which is—
 
 &emsp;&emsp;&emsp;(i) forwarded from the contributor or contributors to the committee by the person; or
 

@@ -4,13 +4,13 @@
 
 #### (A) In general
 
-&emsp;The Secretary of Health and Human Services (referred to in this section as the “Secretary”) shall carry out activities to update and improve the Pregnancy Risk Assessment Monitoring System (referred to in this section as “PRAMS”) as it relates to oral healthcare.
+&emsp;The Secretary of Health and Human Services (referred to in this section as the "Secretary") shall carry out activities to update and improve the Pregnancy Risk Assessment Monitoring System (referred to in this section as "PRAMS") as it relates to oral healthcare.
 
 #### (B) State reports and mandatory measurements
 
 #### (i) In general
 
-&emsp;&emsp;Not later than 5 years after March 23, 2010, and every 5 years thereafter, a State shallsubmit to the Secretary a report concerning activities conducted within the State under PRAMS.
+&emsp;&emsp;Not later than 5 years after March 23, 2010, and every 5 years thereafter, a State shall submit to the Secretary a report concerning activities conducted within the State under PRAMS.
 
 #### (ii) Measurements
 
@@ -22,7 +22,7 @@
 
 #### (2) National Health and Nutrition Examination Survey
 
-The Secretary shall develop oral healthcare components that shall include tooth-level surveillance for inclusion in the National Health and Nutrition Examination Survey. Such components shall be updated by the Secretary at least every 6 years. For purposes of this paragraph, the term “tooth-level surveillance” means a clinical examination where an examiner looks at each dental surface, on each tooth in the mouth and as expanded by the Division of Oral Health of the Centers for Disease Control and Prevention.
+The Secretary shall develop oral healthcare components that shall include tooth-level surveillance for inclusion in the National Health and Nutrition Examination Survey. Such components shall be updated by the Secretary at least every 6 years. For purposes of this paragraph, the term "tooth-level surveillance" means a clinical examination where an examiner looks at each dental surface, on each tooth in the mouth and as expanded by the Division of Oral Health of the Centers for Disease Control and Prevention.
 
 #### (3) Medical Expenditures Panel Survey
 

@@ -5,7 +5,7 @@ Part C—Residential Energy Efficiency Programs
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 08235 - &#8220;Residential building&#8221; defined](%C2%A7%2008235%20-%20%E2%80%9CResidential%20building%E2%80%9D%20defined.md)
+- [&sect; 08235 - Residential building defined](%C2%A7%2008235%20-%20Residential%20building%20defined.md)
 - [&sect; 08235a - Approval of plans for prototype residential energy efficiency programs and provision of financial assistance for such programs](%C2%A7%2008235a%20-%20Approval%20of%20plans%20for%20prototype%20residential%20energy%20efficiency%20programs%20and%20provision%20of%20financial%20assistance%20for%20such%20programs.md)
 - [&sect; 08235b - Applications for approval of plans for prototype residential energy efficiency programs](%C2%A7%2008235b%20-%20Applications%20for%20approval%20of%20plans%20for%20prototype%20residential%20energy%20efficiency%20programs.md)
 - [&sect; 08235c - Approval of applications for plans for prototype residential energy efficiency programs](%C2%A7%2008235c%20-%20Approval%20of%20applications%20for%20plans%20for%20prototype%20residential%20energy%20efficiency%20programs.md)

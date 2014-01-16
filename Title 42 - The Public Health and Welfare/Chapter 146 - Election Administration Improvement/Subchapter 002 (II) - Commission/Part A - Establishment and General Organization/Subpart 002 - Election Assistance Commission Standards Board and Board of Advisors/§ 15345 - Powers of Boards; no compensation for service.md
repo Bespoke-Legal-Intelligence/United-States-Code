@@ -26,7 +26,7 @@ The Standards Board and the Board of Advisors may use the United States mails in
 
 #### (d) Administrative support services
 
-Upon the request of the Executive Board (in the case of the Standards Board) or the Chair (inthe case of the Board of Advisors), the Administrator of the General Services Administration shall provide to the Board, on a reimbursable basis, the administrative support services that are necessary to enable the Board to carry out its duties under this subchapter.
+Upon the request of the Executive Board (in the case of the Standards Board) or the Chair (in the case of the Board of Advisors), the Administrator of the General Services Administration shall provide to the Board, on a reimbursable basis, the administrative support services that are necessary to enable the Board to carry out its duties under this subchapter.
 
 #### (e) No compensation for service
 
@@ -36,5 +36,5 @@ Members of the Standards Board and members of the Board of Advisors shall not re
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (b), was in the original “this Act”, meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) and (b), was in the original "this Act", meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
 

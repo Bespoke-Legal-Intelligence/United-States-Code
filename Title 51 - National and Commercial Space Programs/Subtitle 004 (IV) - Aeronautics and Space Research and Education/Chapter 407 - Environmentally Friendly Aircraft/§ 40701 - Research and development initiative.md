@@ -32,5 +32,5 @@ Historical and Revision Notes
 
 Pub. L. 109–155, title IV, §422(a), Dec. 30, 2005, 119 Stat. 2924.
 
-In paragraphs (2) and (3), the date “December 30, 2005” is substituted for “the date of enactment of this Act” to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2895).
+In paragraphs (2) and (3), the date "December 30, 2005" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2005 (Public Law 109–155, 119 Stat. 2895).
 

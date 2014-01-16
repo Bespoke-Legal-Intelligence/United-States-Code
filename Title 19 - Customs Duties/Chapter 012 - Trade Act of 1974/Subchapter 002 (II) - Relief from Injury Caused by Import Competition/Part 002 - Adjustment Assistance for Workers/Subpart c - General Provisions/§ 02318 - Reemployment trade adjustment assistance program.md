@@ -84,7 +84,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In the case of a worker described in paragraph (3)(B)(iii)(II), paragraph (2)(A) shall be applied by substituting the percentage described in subparagraph (B) for “50 percent”.
+&emsp;&emsp;In the case of a worker described in paragraph (3)(B)(iii)(II), paragraph (2)(A) shall be applied by substituting the percentage described in subparagraph (B) for "50 percent".
 
 #### (B) Percentage described
 
@@ -132,43 +132,43 @@ Another prior section 2318, Pub. L. 93–618, title II, §246, Jan. 3, 1975, 88 
 
 <b>2011</b>—Pub. L. 112–40, §§201(b), (c), 233, temporarily revived the provisions of this section, as in effect on Feb. 12, 2011. See Codification note above and 2009 and 2010 Amendment and Effective and Termination Dates of 2011 Revival notes below.
 
-Subsec. (a)(3)(B)(ii). Pub. L. 112–40, §§215(a)(1), 233, temporarily substituted “$50,000” for “$55,000”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+Subsec. (a)(3)(B)(ii). Pub. L. 112–40, §§215(a)(1), 233, temporarily substituted "$50,000" for "$55,000". See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
-Subsec. (a)(5)(A)(i), (B)(i). Pub. L. 112–40, §§215(a)(2), 233, temporarily substituted “$10,000” for “$12,000”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+Subsec. (a)(5)(A)(i), (B)(i). Pub. L. 112–40, §§215(a)(2), 233, temporarily substituted "$10,000" for "$12,000". See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
-Subsec. (b)(1). Pub. L. 112–40, §§215(b), 233, temporarily substituted “December 31, 2013” for “February 12, 2011”. See Codification note above and Effective and Termination Dates of 2011 Revival note below.
+Subsec. (b)(1). Pub. L. 112–40, §§215(b), 233, temporarily substituted "December 31, 2013" for "February 12, 2011". See Codification note above and Effective and Termination Dates of 2011 Revival note below.
 
-<b>2010</b>—Subsec. (b)(1). Pub. L. 111–344 substituted “February 12, 2011” for “December 31, 2010”. See Codification note above.
+<b>2010</b>—Subsec. (b)(1). Pub. L. 111–344 substituted "February 12, 2011" for "December 31, 2010". See Codification note above.
 
-<b>2009</b>—Pub. L. 111–5, §§1841(a)(1), 1893, temporarily substituted “Reemployment trade adjustment assistance program” for “Demonstration project for alternative trade adjustment assistance for older workers” in section catchline. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+<b>2009</b>—Pub. L. 111–5, §§1841(a)(1), 1893, temporarily substituted "Reemployment trade adjustment assistance program" for "Demonstration project for alternative trade adjustment assistance for older workers" in section catchline. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(1). Pub. L. 111–5, §§1841(a)(2)(A), 1893, temporarily substituted “The Secretary” for “Not later than 1 year after August 6, 2002, the Secretary” and “a reemployment trade adjustment assistance program” for “an alternative trade adjustment assistance program for older workers”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(1). Pub. L. 111–5, §§1841(a)(2)(A), 1893, temporarily substituted "The Secretary" for "Not later than 1 year after August 6, 2002, the Secretary" and "a reemployment trade adjustment assistance program" for "an alternative trade adjustment assistance program for older workers". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(2)(A). Pub. L. 111–5, §§1841(a)(2)(B)(i)(I), 1893, temporarily substituted “for the eligibility period under subparagraph (A) or (B) of paragraph (4) (as the case may be)” for “for a period not to exceed 2 years” in introductory provisions. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(2)(A). Pub. L. 111–5, §§1841(a)(2)(B)(i)(I), 1893, temporarily substituted "for the eligibility period under subparagraph (A) or (B) of paragraph (4) (as the case may be)" for "for a period not to exceed 2 years" in introductory provisions. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(2)(A)(i), (ii). Pub. L. 111–5, §§1841(a)(2)(B)(i)(II), 1893, temporarily added cls. (i) and (ii) and struck out former cls. (i) and (ii) which read as follows:
 
-“(i) the wages received by the worker from reemployment; and
+"(i) the wages received by the worker from reemployment; and
 
-“(ii) the wages received by the worker at the time of separation.”
+"(ii) the wages received by the worker at the time of separation."
 
 > See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (a)(2)(B). Pub. L. 111–5, §§1841(a)(2)(B)(ii), 1893, temporarily substituted “for the eligibility period under subparagraph (A) or (B) of paragraph (4) (as thecase may be)” for “for a period not to exceed 2 years” and struck out “, as added by section 201 of the Trade Act of 2002” before period. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (a)(2)(B). Pub. L. 111–5, §§1841(a)(2)(B)(ii), 1893, temporarily substituted "for the eligibility period under subparagraph (A) or (B) of paragraph (4) (as thecase may be)" for "for a period not to exceed 2 years" and struck out ", as added by section 201 of the Trade Act of 2002" before period. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(2)(C). Pub. L. 111–5, §§1841(a)(2)(B)(iii), 1893, temporarily added subpar. (C). See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
 Subsec. (a)(3) to (7). Pub. L. 111–5, §§1841(a)(2)(C), 1893, temporarily added pars. (3) to (7) and struck out former pars. (3) to (5) which related to eligibility, total amount of payments, and limitation on other benefits, respectively. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (b)(1). Pub. L. 111–5, §§1841(b), 1893, temporarily substituted “December 31, 2010.” for “the date that is 5 years after the date on which such program is implemented by the State.” See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (b)(1). Pub. L. 111–5, §§1841(b), 1893, temporarily substituted "December 31, 2010." for "the date that is 5 years after the date on which such program is implemented by the State." See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-Subsec. (b)(2). Pub. L. 111–5, §§1841(a)(3), 1893, temporarily substituted “subsection (a)(3)” for “subsection (a)(3)(B)”. See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
+Subsec. (b)(2). Pub. L. 111–5, §§1841(a)(3), 1893, temporarily substituted "subsection (a)(3)" for "subsection (a)(3)(B)". See Codification note above and Effective and Termination Dates of 2009 Amendment note below.
 
-<b>2004</b>—Subsec. (a)(3)(B)(iii). Pub. L. 108–429, §2004(a)(7)(A), struck out “and” after semicolon.
+<b>2004</b>—Subsec. (a)(3)(B)(iii). Pub. L. 108–429, §2004(a)(7)(A), struck out "and" after semicolon.
 
-Subsec. (a)(5). Pub. L. 108–429, §2004(a)(7)(B), substituted “paragraph (2)(B)” for “section 2298(a)(2)(B) of this title”.
+Subsec. (a)(5). Pub. L. 108–429, §2004(a)(7)(B), substituted "paragraph (2)(B)" for "section 2298(a)(2)(B) of this title".
 
-Subsec. (b)(2). Pub. L. 108–429, §2004(a)(7)(C), substituted “if” for “provided that”.
+Subsec. (b)(2). Pub. L. 108–429, §2004(a)(7)(C), substituted "if" for "provided that".
 
 #### Effective and Termination Dates of 2011 Revival
 

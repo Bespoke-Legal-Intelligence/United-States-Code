@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Absent uniformed services voter
 
-&emsp;The term “absent uniformed services voter” has the meaning given such term in section 107(1) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6(1)).
+&emsp;The term "absent uniformed services voter" has the meaning given such term in section 107(1) of the Uniformed and Overseas Citizens Absentee Voting Act (42 U.S.C. 1973ff–6(1)).
 
 #### (2) Overseas voter
 
-&emsp;The term “overseas voter” has the meaning given such term in section 107(5) of such Act \[42 U.S.C. 1973ff–6(5)\].
+&emsp;The term "overseas voter" has the meaning given such term in section 107(5) of such Act \[42 U.S.C. 1973ff–6(5)\].
 
 #### (3) Presidential designee
 
-&emsp;The term “Presidential designee” means the individual designated under section 101(a) of such Act \[42 U.S.C. 1973ff(a)\].
+&emsp;The term "Presidential designee" means the individual designated under section 101(a) of such Act \[42 U.S.C. 1973ff(a)\].
 
 #### (b) Establishment
 
@@ -28,7 +28,7 @@ In this section:
 
 &emsp;&emsp;(A) shall be at the discretion of the Presidential designee; and
 
-&emsp;&emsp;(B) shall not conflict with or substitute for existing laws, regulations, or procedures with respect to the participation of absent uniformed services voters and military voters in elections for Federal office.
+&emsp;&emsp;(B) shall not conflict with or substitute for existing laws, regulations, or procedureswith respect to the participation of absent uniformed services voters and military voters in elections for Federal office.
 
 #### (c) Considerations
 
@@ -74,7 +74,7 @@ The Presidential designee shall submit to Congress reports on the progress and o
 
 #### (3) Relevant committees of Congress defined
 
-&emsp;In this subsection, the term “relevant committees of Congress” means—
+&emsp;In this subsection, the term "relevant committees of Congress" means—
 
 &emsp;&emsp;(A) the Committees on Appropriations, Armed Services, and Rules and Administration of the Senate; and
 
@@ -96,9 +96,9 @@ Section was enacted as part of the Military and Overseas Voter Empowerment Act, 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(1). Pub. L. 111–383, §1075(d)(6)(A), substituted “section 107(1)” for “section 107(a)” and “1973ff–6(1)” for “1973ff et seq.”
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–383, §1075(d)(6)(A), substituted "section 107(1)" for "section 107(a)" and "1973ff–6(1)" for "1973ff et seq."
 
-Subsec. (e)(1). Pub. L. 111–383, §1075(d)(6)(B), substituted “1973ff note” for “1977ff note”.
+Subsec. (e)(1). Pub. L. 111–383, §1075(d)(6)(B), substituted "1973ff note" for "1977ff note".
 
 #### Effective Date of 2011 Amendment
 

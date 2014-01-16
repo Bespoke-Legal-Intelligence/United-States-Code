@@ -34,5 +34,5 @@ This section may not be construed as creating any private right of action.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (e)(1)(A). Pub. L. 103–325 substituted “the vendors” for “venders”.
+<b>1994</b>—Subsec. (e)(1)(A). Pub. L. 103–325 substituted "the vendors" for "venders".
 

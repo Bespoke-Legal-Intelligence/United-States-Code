@@ -82,11 +82,11 @@ A qualified individual enrolled in any qualified health plan may pay any applica
 
 #### (I) Member of Congress
 
-&emsp;&emsp;&emsp;&emsp;The term “Member of Congress” means any member of the House of Representatives or the Senate.
+&emsp;&emsp;&emsp;&emsp;The term "Member of Congress" means any member of the House of Representatives or the Senate.
 
 #### (II) Congressional staff
 
-&emsp;&emsp;&emsp;&emsp;The term “congressional staff” means all full-time and part-time employeesemployed by the official office of a Member of Congress, whether in Washington, DC or outside of Washington, DC.
+&emsp;&emsp;&emsp;&emsp;The term "congressional staff" means all full-time and part-time employees employed by the official office of a Member of Congress, whether in Washington, DC or outside of Washington, DC.
 
 #### (4) No penalty for transferring to minimum essential coverage outside Exchange
 
@@ -108,7 +108,7 @@ The Secretary shall establish procedures under which a State may allow agents or
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified individual” means, with respect to an Exchange, an individual who—
+&emsp;&emsp;The term "qualified individual" means, with respect to an Exchange, an individual who—
 
 &emsp;&emsp;&emsp;(i) is seeking to enroll in a qualified health plan in the individual market offered through the Exchange; and
 
@@ -124,7 +124,7 @@ The Secretary shall establish procedures under which a State may allow agents or
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified employer” means a small employer that elects to make all full-time employees of such employer eligible for 1 or more qualified health plans offered in the small group market through an Exchange that offers qualified health plans.
+&emsp;&emsp;The term "qualified employer" means a small employer that elects to make all full-time employees of such employer eligible for 1 or more qualified health plans offered in the small group market through an Exchange that offers qualified health plans.
 
 #### (B) Extension to large groups
 
@@ -134,7 +134,7 @@ The Secretary shall establish procedures under which a State may allow agents or
 
 #### (ii) Large employers eligible
 
-&emsp;&emsp;&emsp;If a State under clause (i) allows issuers to offer qualified health plans in the large group market through an Exchange, the term “qualified employer” shall include a large employer that elects to make all full-time employees of such employer eligible for 1 or more qualified health plans offered in the large group market through the Exchange.
+&emsp;&emsp;&emsp;If a State under clause (i) allows issuers to offer qualified health plans in the large group market through an Exchange, the term "qualified employer" shall include a large employer that elects to make all full-time employees of such employer eligible for 1 or more qualified health plans offered in the large group market through the Exchange.
 
 #### (3) Access limited to lawful residents
 
@@ -152,13 +152,13 @@ This Act, referred to in subsec. (d)(3)(D)(i), is Pub. L. 111–148, Mar. 23, 20
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §10104(i)(1), inserted “and for which such individual is eligible” before period at end.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §10104(i)(1), inserted "and for which such individual is eligible" before period at end.
 
-Subsec. (e). Pub. L. 111–148, §10104(i)(2)(B), struck out concluding provisions which read as follows: “Such procedures may include the establishment of rate schedules for broker commissions paid by health benefits plans offered through an exchange.”
+Subsec. (e). Pub. L. 111–148, §10104(i)(2)(B), struck out concluding provisions which read as follows: "Such procedures may include the establishment of rate schedules for broker commissions paid by health benefits plans offered through an exchange."
 
-Subsec. (e)(1). Pub. L. 111–148, §10104(i)(2)(A), inserted “and employers” after “enroll individuals”.
+Subsec. (e)(1). Pub. L. 111–148, §10104(i)(2)(A), inserted "and employers" after "enroll individuals".
 
-Subsec. (f)(1)(A)(ii). Pub. L. 111–148, §10104(i)(3), struck out “(except with respect to territorial agreements under this subsection)” before period at end.
+Subsec. (f)(1)(A)(ii). Pub. L. 111–148, §10104(i)(3), struck out "(except with respect to territorial agreements under this subsection)" before period at end.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -28,5 +28,5 @@ Historical and Revision Notes
 
 Dec. 30, 1963, Pub. L. 88–242, 77 Stat. 629.
 
-In clause (3), the words “consider including in such proclamation” and “press, radio, television, and other” are omitted as unnecessary.
+In clause (3), the words "consider including in such proclamation" and "press, radio, television, and other" are omitted as unnecessary.
 

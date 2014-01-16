@@ -16,17 +16,17 @@ The Secretary may guarantee or insure loans under subsection (a) to both for-pro
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–221, §401(a)(1), (2), (4), inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, substituted “the Secretary may—
+<b>2006</b>—Pub. L. 109–221, §401(a)(1), (2), (4), inserted section catchline, designated existing provisions as subsec. (a) and inserted heading, substituted "the Secretary may—
 
-&emsp;“(1) guarantee”
+&emsp;"(1) guarantee"
 
-> for “Secretary is authorized (a) to guarantee”, and added subsec. (b).
+> for "Secretary is authorized (a) to guarantee", and added subsec. (b).
 
-Pub. L. 109–221, §401(a)(3), which directed substitution of “members; or
+Pub. L. 109–221, §401(a)(3), which directed substitution of "members; or
 
-&emsp;“(2) insure”
+&emsp;"(2) insure"
 
-> for “members; and (b) in lieu of such guaranty, to insure”, was executed by making the substitution for “and (b) in lieu of such guaranty, to insure” to reflect the probable intent of Congress and the amendment by Pub. L. 98–449. See 1984 Amendment note below.
+> for "members; and (b) in lieu of such guaranty, to insure", was executed by making the substitution for "and (b) in lieu of such guaranty, to insure" to reflect the probable intent of Congress and the amendment by Pub. L. 98–449. See 1984 Amendment note below.
 
-<b>1984</b>—Pub. L. 98–449 struck out “who are not members of or eligible for membership in an organization which is making loans to its members” before “; and (b)”.
+<b>1984</b>—Pub. L. 98–449 struck out "who are not members of or eligible for membership in an organization which is making loans to its members" before "; and (b)".
 

@@ -90,7 +90,7 @@ A prior section 11 of Pub. L. 102–259 was renumbered section 13 and is classif
 
 <b>2009</b>—Subsec. (f). Pub. L. 111–90 added subsec. (f).
 
-<b>1998</b>—Pub. L. 105–277, §101(h) \[title V, §517(a)(1)\], inserted “or other entity” after “Federal agency” in section catchline.
+<b>1998</b>—Pub. L. 105–277, §101(h) \[title V, §517(a)(1)\], inserted "or other entity" after "Federal agency" in section catchline.
 
 Subsec. (e). Pub. L. 105–277, §101(h) \[title V, §517(a)(2)\], added subsec. (e).
 

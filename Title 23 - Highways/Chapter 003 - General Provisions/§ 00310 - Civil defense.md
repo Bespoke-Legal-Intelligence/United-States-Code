@@ -6,7 +6,7 @@ In order to assure that adequate consideration is given to civil defense aspects
 
 #### Amendments
 
-<b>1973</b>—Pub. L. 93–87 substituted “Secretary of Transportation” for “Secretary of Commerce”.
+<b>1973</b>—Pub. L. 93–87 substituted "Secretary of Transportation" for "Secretary of Commerce".
 
 #### Transfer of Functions
 

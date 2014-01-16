@@ -25,19 +25,19 @@ Subpart C—Taxable Year for Which Deductions Taken
 
 <b>2004</b>—Pub. L. 108–357, title VIII, §848(b), Oct. 22, 2004, 118 Stat. 1606, added item 470.
 
-<b>1987</b>—Pub. L. 100–203, title X, §10201(b)(7), Dec. 22, 1987, 101 Stat. 1330–387, struck out item 463 “Accrual of vacation pay”.
+<b>1987</b>—Pub. L. 100–203, title X, §10201(b)(7), Dec. 22, 1987, 101 Stat. 1330–387, struck out item 463 "Accrual of vacation pay".
 
-<b>1986</b>—Pub. L. 99–514, title IV, §404(b)(2), title V, §501(b), title VIII, §823(b)(2), title XVIII, §§1807(a)(7)(B), 1899A(71), Oct. 22, 1986, 100 Stat. 2224, 2241, 2374, 2815, 2963, substituted “for certain farming expenses” for “in case of farming syndicates” in item 464, struck out item 466 “Qualified discount coupons redeemed after close of taxable year”, inserted “the” before “use” in item 467, and added items 468B and 469.
+<b>1986</b>—Pub. L. 99–514, title IV, §404(b)(2), title V, §501(b), title VIII, §823(b)(2), title XVIII, §§1807(a)(7)(B), 1899A(71), Oct. 22, 1986, 100 Stat. 2224, 2241, 2374, 2815, 2963, substituted "for certain farming expenses" for "in case of farming syndicates" in item 464, struck out item 466 "Qualified discount coupons redeemed after close of taxable year", inserted "the" before "use" in item 467, and added items 468B and 469.
 
 <b>1984</b>—Pub. L. 98–369, div. A, title I, §§91(b)(2), (c)(2), 92(b), July 18, 1984, 98 Stat. 604, 606, 612, added items 467, 468, and 468A.
 
-<b>1978</b>—Pub. L. 95–600, title II, §201(c)(2), title III, §373(b), Nov. 6, 1978, 92 Stat. 2816, 2865, struck out “in case of certain activities” after “amount at risk” in item 465 and added item 466.
+<b>1978</b>—Pub. L. 95–600, title II, §201(c)(2), title III, §373(b), Nov. 6, 1978, 92 Stat. 2816, 2865, struck out "in case of certain activities" after "amount at risk" in item 465 and added item 466.
 
 <b>1976</b>—Pub. L. 94–455, title II, §§204(b), 207(a)(2), Oct. 4, 1976, 90 Stat. 1532, 1537, added items 464 and 465.
 
 <b>1975</b>—Pub. L. 93–625, §4(b), Jan. 3, 1975, 88 Stat. 2111, added item 463.
 
-<b>1955</b>—Act June 15, 1955, ch. 143, §2(3), 69 Stat. 135, struck out item 462 “Reserves for estimated expenses, etc.”
+<b>1955</b>—Act June 15, 1955, ch. 143, §2(3), 69 Stat. 135, struck out item 462 "Reserves for estimated expenses, etc."
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

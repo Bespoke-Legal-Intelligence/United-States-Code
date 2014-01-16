@@ -36,7 +36,7 @@ The Institute shall begin work pursuant to this section within 60 days of Decemb
 
 #### (d) Standards for interoperability in Federal jurisdiction
 
-At any time after the Institute's work has led to sufficient consensus in the Commission'sjudgment, the Commission shall institute a rulemaking proceeding to adopt such standards and protocols as may be necessary to insure smart-grid functionality and interoperability in interstate transmission of electric power, and regional and wholesale electricity markets.
+At any time after the Institute's work has led to sufficient consensus in the Commission's judgment, the Commission shall institute a rulemaking proceeding to adopt such standards and protocols as may be necessary to insure smart-grid functionality and interoperability in interstate transmission of electric power, and regional and wholesale electricity markets.
 
 #### (e) Authorization
 
@@ -46,9 +46,9 @@ There are authorized to be appropriated for the purposes of this section $5,000,
 
 #### Codification
 
-December 19, 2007, referred to in subsec. (c), was in the original “enactment” and was translated as meaning the date of enactment of Pub. L. 110–140, to reflect the probable intent of Congress.
+December 19, 2007, referred to in subsec. (c), was in the original "enactment" and was translated as meaning the date of enactment of Pub. L. 110–140, to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> So in original. Does not fit with subsec. (b) introductory provisions.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "section".</i>
 

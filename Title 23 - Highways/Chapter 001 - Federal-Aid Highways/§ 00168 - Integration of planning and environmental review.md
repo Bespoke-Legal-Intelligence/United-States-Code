@@ -6,11 +6,11 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Environmental review process.—The term “environmental review process” means the process for preparing for a project an environmental impact statement, environmental assessment, categorical exclusion, or other document prepared under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
+Environmental review process.—The term "environmental review process" means the process for preparing for a project an environmental impact statement, environmental assessment, categorical exclusion, or other document prepared under the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.).
 
 &emsp;(2)
 
-Planning product.—The term “planning product” means a detailed and timely decision, analysis, study, or other documented information that—
+Planning product.—The term "planning product" means a detailed and timely decision, analysis, study, or other documented information that—
 
 &emsp;&emsp;(A) is the result of an evaluation or decisionmaking process carried out during transportation planning, including a detailed corridor plan or a transportation plan developed under section 134 that fully analyzes impacts on mobility, adjacent communities, and the environment;
 
@@ -20,11 +20,11 @@ Planning product.—The term “planning product” means a detailed and timely 
 
 &emsp;(3)
 
-Project.—The term “project” has the meaning given the term in section 139(a).
+Project.—The term "project" has the meaning given the term in section 139(a).
 
 &emsp;(4)
 
-Project sponsor.—The term “project sponsor” has the meaning given the term in section 139(a).
+Project sponsor.—The term "project sponsor" has the meaning given the term in section 139(a).
 
 (b)
 
@@ -44,7 +44,7 @@ Partial adoption of planning products.—The Federal lead agency may adopt a pla
 
 &emsp;(4)
 
-Timing.—A determination under paragraph (1) with respect to the adoption of a planning product may be made at the time the lead agencies decide the appropriate scope of environmental review for the project but mayalso occur later in the environmental review process, as appropriate.
+Timing.—A determination under paragraph (1) with respect to the adoption of a planning product may be made at the time the lead agencies decide the appropriate scope of environmental review for the project but may also occur later in the environmental review process, as appropriate.
 
 (c)
 
@@ -114,7 +114,7 @@ Conditions.—Adoption and use of a planning product under this section is subje
 
 (e)
 
-Effect of Adoption.—Any planning product adopted by the Federal lead agency in accordance with this section may be incorporated directly into an environmental review process document or other environmental document and may be relied upon and used by other Federal agencies in carrying out reviews of the project.
+Effect of Adoption.—Any planning product adopted by the Federal lead agency in accordance with this section may be incorporated directly into an environmental review process document or other environmental document andmay be relied upon and used by other Federal agencies in carrying out reviews of the project.
 
 (f)
 

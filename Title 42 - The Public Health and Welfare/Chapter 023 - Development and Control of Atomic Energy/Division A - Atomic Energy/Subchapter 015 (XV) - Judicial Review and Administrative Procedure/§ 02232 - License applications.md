@@ -6,7 +6,7 @@ Each application for a license hereunder shall be in writing and shall specifica
 
 #### (b) Review of applications by Advisory Committee on Reactor Safeguards; report
 
-The Advisory Committee on Reactor Safeguards shall review each application under section 2133 or section 2134(b) of this title for a construction permit or an operating license for a facility, any application under section 2134(c) of this title for a construction permit or an operating license for a testing facility, any application under subsection (a) or (c) of section 2134 of this title specifically referred to it by the Commission, and any application for an amendment to a construction permit or an amendment to an operating license under section 2133 or 2134(a), (b), or (c) of this title specifically referred to it by the Commission, and shall submit a reportthereon which shall be made part of the record of the application and available to the public except to the extent that security classification prevents disclosure.
+The Advisory Committee on Reactor Safeguards shall review each application under section 2133 or section 2134(b) of this title for a construction permit or an operating license for a facility, any application under section 2134(c) of this title for a construction permit or an operating license for a testing facility, any application under subsection (a) or (c) of section 2134 of this title specifically referred to it by the Commission, and any application for an amendment to a construction permit or an amendment to an operating license under section 2133 or 2134(a), (b), or (c) of this title specifically referred to it by the Commission, and shall submit a report thereon which shall be made part of the record of the application and available to the public except to the extent that security classification prevents disclosure.
 
 #### (c) Commercial power; publication
 
@@ -26,7 +26,7 @@ The Commission, in issuing any license for a utilization or production facility 
 
 <b>1957</b>—Subsecs. (b) to (d). Pub. L. 85–256 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
-<b>1956</b>—Subsec. (a). Act Aug. 6, 1956, struck out “under oath or affirmation” from last sentence, and inserted two sentences at end requiring applications and statements in connection with sections 2133 and 2134 to be made under oath or affirmation and authorizing Commission to require any other applications or statements to be made under oath or affirmation.
+<b>1956</b>—Subsec. (a). Act Aug. 6, 1956, struck out "under oath or affirmation" from last sentence, and inserted two sentences at end requiring applications and statements in connection with sections 2133 and 2134 to be made under oath or affirmation and authorizing Commission to require any other applications or statements to be made under oath or affirmation.
 
 #### Termination of Advisory Committees
 

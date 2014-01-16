@@ -4,19 +4,19 @@ In this Act:
 
 #### (1) Local educational agency; State educational agency; outlying area
 
-&emsp;The terms “local educational agency”, “State educational agency”, and “outlying area” have the meanings given the terms in section 7801 of this title.
+&emsp;The terms "local educational agency", "State educational agency", and "outlying area" have the meanings given the terms in section 7801 of this title.
 
 #### (2) Eligible school attendance area; school attendance area
 
-&emsp;The terms “eligible school attendance area” and “school attendance area” have the meanings given the terms in section 6313(a)(2) of this title.
+&emsp;The terms "eligible school attendance area" and "school attendance area" have the meanings given the terms in section 6313(a)(2) of this title.
 
 #### (3) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Education.
+&emsp;The term "Secretary" means the Secretary of Education.
 
 #### (4) State
 
-&emsp;The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and each outlying area.
+&emsp;The term "State" means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, and each outlying area.
 
 (Pub. L. 106–25, §3, Apr. 29, 1999, 113 Stat. 42; Pub. L. 107–110, title X, §1076(o), Jan. 8, 2002, 115 Stat. 2092.)
 
@@ -30,7 +30,7 @@ Section was enacted as part of the Education Flexibility Partnership Act of 1999
 
 #### Amendments
 
-<b>2002</b>—Par. (1). Pub. L. 107–110 substituted “7801” for “8801”.
+<b>2002</b>—Par. (1). Pub. L. 107–110 substituted "7801" for "8801".
 
 #### Effective Date of 2002 Amendment
 
@@ -38,19 +38,19 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 #### Findings
 
-Pub. L. 106–25, §2, Apr. 29, 1999, 113 Stat. 41, provided that: “Congress makes the following findings:
+Pub. L. 106–25, §2, Apr. 29, 1999, 113 Stat. 41, provided that: "Congress makes the following findings:
 
-&emsp;“(1) States differ substantially in demographics, in school governance, and in school finance and funding. The administrative and funding mechanisms that help schools in one State improve may not prove successful in other States.
+&emsp;"(1) States differ substantially in demographics, in school governance, and in school finance and funding. The administrative and funding mechanisms that help schools in one State improve may not prove successful in other States.
 
-&emsp;“(2) Although the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] and other Federal education statutes afford flexibility to State educational agencies and local educational agencies in implementing Federal programs, certain requirements of Federal education statutes or regulations may impede local efforts to reform and improve education.
+&emsp;"(2) Although the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] and other Federal education statutes afford flexibility to State educational agencies and local educational agencies in implementing Federal programs, certain requirements of Federal education statutes or regulations may impede local efforts to reform and improve education.
 
-&emsp;“(3) By granting waivers of certain statutory and regulatory requirements, the Federal Government can remove impediments for local educational agencies in implementing educational reforms and raising the achievement levels of all children.
+&emsp;"(3) By granting waivers of certain statutory and regulatory requirements, the Federal Government can remove impediments for local educational agencies in implementing educational reforms and raising the achievement levels of all children.
 
-&emsp;“(4) State educational agencies are closer to local school systems, implement statewide educational reforms with both Federal and State funds, and are responsible for maintaining accountability for local activities consistent with State standards and assessment systems. Therefore, State educational agencies are often in the best position to align waivers of Federal and State requirements with State and local initiatives.
+&emsp;"(4) State educational agencies are closer to local school systems, implement statewide educational reforms with both Federal and State funds, and are responsible for maintaining accountability for local activities consistent with State standards and assessment systems. Therefore, State educational agencies are often in the best position to align waivers of Federal and State requirements with State and local initiatives.
 
-&emsp;“(5) The Education Flexibility Partnership Demonstration Act \[former 20 U.S.C. 5891(e)\] allows State educational agencies the flexibility to waive certain Federal requirements, along with related State requirements, but allows only 12 States to qualify for such waivers.
+&emsp;"(5) The Education Flexibility Partnership Demonstration Act \[former 20 U.S.C. 5891(e)\] allows State educational agencies the flexibility to waive certain Federal requirements, along with related State requirements, but allows only 12 States to qualify for such waivers.
 
-&emsp;“(6) Expansion of waiver authority will allow for the waiver of statutory and regulatory requirements that impede implementation of State and local educational improvement plans, or that unnecessarily burden program administration, while maintaining the intent and purposes of affected programs, such as the important focus on improving mathematics and science performance under title II of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6601 et seq.\] (Dwight D. Eisenhower Professional Development Program), and maintaining such fundamental requirements as those relating to civil rights, educational equity, and accountability.
+&emsp;"(6) Expansion of waiver authority will allow for the waiver of statutory and regulatory requirements that impede implementation of State and local educational improvement plans, or that unnecessarily burden program administration, while maintaining the intent and purposes of affected programs, such as the important focus on improving mathematics and science performance under title II of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6601 et seq.\] (Dwight D. Eisenhower Professional Development Program), and maintaining such fundamental requirements as those relating to civil rights, educational equity, and accountability.
 
-&emsp;“(7) To achieve the State goals for the education of children in the State, the focus must be on results in raising the achievement of all students, not process.”
+&emsp;"(7) To achieve the State goals for the education of children in the State, the focus must be on results in raising the achievement of all students, not process."
 

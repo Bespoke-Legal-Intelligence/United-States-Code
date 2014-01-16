@@ -64,7 +64,7 @@ A public transportation agency that receives a grant award under this subchapter
 
 #### (f) Long-term training requirement
 
-Any public transportation agency required to develop a security training program pursuant tothis section shall provide routine and ongoing training for employees covered under the program, regardless of whether the public transportation agency receives subsequent grant awards.
+Any public transportation agency required to develop a security training program pursuant to this section shall provide routine and ongoing training for employees covered under the program, regardless of whether the public transportation agency receives subsequent grant awards.
 
 #### (g) National Training Program
 

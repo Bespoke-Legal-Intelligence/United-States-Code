@@ -40,7 +40,7 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010 \[12 U.S.
 
 #### References in Text
 
-The Consumer Financial Protection Act of 2010, referred to in subsecs. (b)(1) and (d), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of this title and enacted, amended, and repealed numerous other sections and notes in the Code. Subtitle B of the Act is classified generally to part B (§5511 et seq.) of subchapter V of chapter 53 of this title. Subtitle E of the Act is classified generally to part E (§5561 et seq.) of subchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
+The Consumer Financial Protection Act of 2010, referred to in subsecs. (b)(1) and (d), is title X of Pub. L. 111–203, July 21, 2010, 124 Stat. 1955, which enacted subchapter V (§5481 et seq.) of chapter 53 of this title and enacted, amended, and repealed numerous other sections and notes in the Code. Subtitle B of the Act is classified generally to part B (§5511 et seq.) of subchapter V of chapter 53 of this title. Subtitle E of the Act is classified generally to part E (§5561 et seq.) ofsubchapter V of chapter 53 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
 Sections 25 and 25A of the Federal Reserve Act, referred to in subsec. (b)(1)(A)(ii), are classified to subchapters I (§601 et seq.) and II (§611 et seq.), respectively, of chapter 6 of this title.
 
@@ -50,23 +50,23 @@ The Federal Credit Union Act, referred to in subsec. (b)(1)(C), is act June 26, 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1094(1), substituted “Bureau” for “Board” in two places.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1094(1), substituted "Bureau" for "Board" in two places.
 
 Subsec. (b). Pub. L. 111–203, §1094(4)(A), added subsec. (b) and struck out former subsec. (b) which related to powers of certain other agencies.
 
 Subsec. (d). Pub. L. 111–203, §1094(4)(B), added subsec. (d).
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–242, §212(a)(2)(B), inserted at end “The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 1813(s) of this title shall have the meaning given to them in section 3101 of this title.”
+<b>1991</b>—Subsec. (b). Pub. L. 102–242, §212(a)(2)(B), inserted at end "The terms used in paragraph (1) that are not defined in this chapter or otherwise defined in section 1813(s) of this title shall have the meaning given to them in section 3101 of this title."
 
-Subsec. (b)(1). Pub. L. 102–242, §212(a)(2)(A), added par. (1) and struck out former par. (1) which read as follows: “section 1818 of this title, in the case of—
+Subsec. (b)(1). Pub. L. 102–242, §212(a)(2)(A), added par. (1) and struck out former par. (1) which read as follows: "section 1818 of this title, in the case of—
 
-&emsp;“(A) national banks, by the Comptroller of the Currency;
+&emsp;"(A) national banks, by the Comptroller of the Currency;
 
-&emsp;“(B) member banks of the Federal Reserve System, other than national banks, by the Board;
+&emsp;"(B) member banks of the Federal Reserve System, other than national banks, by the Board;
 
-&emsp;“(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and mutual savings banks as defined in section 1813(f) of this title and any other depository institution not referred to in this paragraph or paragraph (2) or (3) of this subsection, by the Board of Directors of the Federal Deposit Insurance Corporation;”.
+&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and mutual savings banks as defined in section 1813(f) of this title and any other depository institution not referred to in this paragraph or paragraph (2) or (3) of this subsection, by the Board of Directors of the Federal Deposit Insurance Corporation;".
 
-<b>1989</b>—Subsec. (b)(2). Pub. L. 101–73, §744(p)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “section 1464(d) of this title, section 1730 of this title, and sections 1426(i) and 1437 of this title, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation) in the case of any institution subject to any of those provisions; and”.
+<b>1989</b>—Subsec. (b)(2). Pub. L. 101–73, §744(p)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "section 1464(d) of this title, section 1730 of this title, and sections 1426(i) and 1437 of this title, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation) in the case of any institution subject to any of those provisions; and".
 
 Subsec. (b)(4). Pub. L. 101–73, §1211(g), added par. (4).
 

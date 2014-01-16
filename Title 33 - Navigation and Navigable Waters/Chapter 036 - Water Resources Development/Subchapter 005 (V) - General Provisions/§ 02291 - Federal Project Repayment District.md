@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–676 substituted “have the power to recover benefits through any cost-recovery approach that is consistent with State law and satisfies the applicable cost-recovery requirement under subsection (b) of this section” for “include the power to collect a portion of the transfer price from any transaction involving the sale, transfer, or change in beneficial ownership of lands and improvements within the district boundaries”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–676 substituted "have the power to recover benefits through any cost-recovery approach that is consistent with State law and satisfies the applicable cost-recovery requirement under subsection (b) of this section" for "include the power to collect a portion of the transfer price from any transaction involving the sale, transfer, or change in beneficial ownership of lands and improvements within the district boundaries".
 

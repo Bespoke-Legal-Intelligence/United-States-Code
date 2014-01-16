@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “relevant acquisition function” means an acquisition function closely associated with inherently governmental functions.
+Definition.—In this section, the term "relevant acquisition function" means an acquisition function closely associated with inherently governmental functions.
 
 (b)
 
@@ -16,7 +16,7 @@ Development and issuance of policy.—The Administrator shall develop and issue 
 
 Elements of policy.—The policy shall—
 
-&emsp;&emsp;(A) define “personal conflict of interest” as it relates to contractor employees performing relevant acquisition functions; and
+&emsp;&emsp;(A) define "personal conflict of interest" as it relates to contractor employees performing relevant acquisition functions; and
 
 &emsp;&emsp;(B) require each contractor whose employees perform relevant acquisition functions to—
 
@@ -90,37 +90,37 @@ no source.
 
 Pub. L. 110–417, \[div. A\], title VIII, §841(a), (c), Oct. 14, 2008, 122 Stat. 4537, 4539.
 
-In this section, the words “relevant acquisition functions” are substituted for “acquisition functions closely associated with inherently governmental functions” because of subsection (a).
+In this section, the words "relevant acquisition functions" are substituted for "acquisition functions closely associated with inherently governmental functions" because of subsection (a).
 
-In subsection (b), the words “Not later than 270 days after the date of the enactment of this Act” are omitted because of section 6(f) of the bill.
+In subsection (b), the words "Not later than 270 days after the date of the enactment of this Act" are omitted because of section 6(f) of the bill.
 
-In subsection (b)(4)(A), the words “Except as provided in subparagraph (B)” are omitted as unnecessary.
+In subsection (b)(4)(A), the words "Except as provided in subparagraph (B)" are omitted as unnecessary.
 
 #### Deadline for Issuance of Standard Policy
 
-Pub. L. 111–350, §6(f)(1), Jan. 4, 2011, 124 Stat. 3854, provided that: “The requirement in section 2303(b)(1) of title 41, United States Code, to issue a policy shall be done not later than 270 days after October 14, 2008.”
+Pub. L. 111–350, §6(f)(1), Jan. 4, 2011, 124 Stat. 3854, provided that: "The requirement in section 2303(b)(1) of title 41, United States Code, to issue a policy shall be done not later than 270 days after October 14, 2008."
 
 #### Review of Federal Acquisition Regulation Relating to Conflicts of Interest
 
 Pub. L. 110–417, \[div. A\], title VIII, §841(b), Oct. 14, 2008, 122 Stat. 4539, provided that:
 
-“(1)
+"(1)
 
 Review.—Not later than 12 months after the date of the enactment of this Act \[Oct. 14, 2008\], the Administrator for Federal Procurement Policy, in consultation with the Director of the Office of Government Ethics, shall review the Federal Acquisition Regulation to—
 
-&emsp;“(A) identify contracting methods, types and services that raise heightened concerns for potential personal and organizational conflicts of interest; and
+&emsp;"(A) identify contracting methods, types and services that raise heightened concerns for potential personal and organizational conflicts of interest; and
 
-&emsp;“(B) determine whether revisions to the Federal Acquisition Regulation are necessary to—
+&emsp;"(B) determine whether revisions to the Federal Acquisition Regulation are necessary to—
 
-&emsp;&emsp;“(i) address personal conflicts of interest by contractor employees with respect to functions other than those described in subsection (a) \[now 41 U.S.C. 2303(b)\]; or
+&emsp;&emsp;"(i) address personal conflicts of interest by contractor employees with respect to functions other than those described in subsection (a) \[now 41 U.S.C. 2303(b)\]; or
 
-&emsp;&emsp;“(ii) achieve sufficiently rigorous, comprehensive, and uniform government-wide policies to prevent and mitigate organizational conflicts of interest in Federal contracting.
+&emsp;&emsp;"(ii) achieve sufficiently rigorous, comprehensive, and uniform government-wide policies to prevent and mitigate organizational conflicts of interest in Federal contracting.
 
-“(2)
+"(2)
 
 Regulatory revisions.—If the Administrator determines pursuant to the review under paragraph (1)(B) that revisions to the Federal Acquisition Regulation are necessary, the Administrator shall work with the Federal Acquisition Regulatory Council to prescribe appropriate revisions to the regulations, including the development of appropriate contract clauses.
 
-“(3)
+"(3)
 
-Report.—Not later than March 1, 2010, the Administrator shall submit to the Committees on Armed Services of the Senate and House of Representatives, the Committee on Homeland Security and Governmental Affairs in the Senate, and the Committee on Oversight and Government Reform of the House of Representatives a report setting forth such findings and determinations under subparagraphs (A) and (B) of paragraph (1), together with an assessment of any revisions to the Federal Acquisition Regulation that may be necessary.”
+Report.—Not later than March 1, 2010, the Administrator shall submit to the Committees on Armed Services of the Senate and House of Representatives, the Committee on Homeland Security and Governmental Affairs in the Senate, and the Committee on Oversight and Government Reform of the House of Representatives a report setting forth such findings and determinations under subparagraphs (A) and (B) of paragraph (1), together with an assessment of any revisions to the Federal Acquisition Regulation that may be necessary."
 

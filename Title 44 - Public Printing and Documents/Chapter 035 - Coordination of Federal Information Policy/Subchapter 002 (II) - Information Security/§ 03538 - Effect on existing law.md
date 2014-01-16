@@ -8,5 +8,5 @@ Nothing in this subchapter, section 11331 of title 40, or section 20 of the Nati
 
 <i>This section not to apply while subchapter III of this chapter is in effect, see section 3549 of this title.</i>
 
-<i><sup>1</sup></i><i> So in original. Probably should be “National Institute of Standards”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "National Institute of Standards".</i>
 

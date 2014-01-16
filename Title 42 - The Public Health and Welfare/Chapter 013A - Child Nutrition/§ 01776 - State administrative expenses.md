@@ -44,7 +44,7 @@ Reallocation of funds.—
 
 &emsp;(i)
 
-Return to secretary.—For each fiscal year, any amounts appropriated that are notobligated or expended during the fiscal year and are not carried over for the succeeding fiscal year under subparagraph (A) shall be returned to the Secretary.
+Return to secretary.—For each fiscal year, any amounts appropriated that are not obligated or expended during the fiscal year and are not carried over for the succeeding fiscal year under subparagraph (A) shall be returned to the Secretary.
 
 &emsp;(ii)
 
@@ -284,7 +284,7 @@ Payments of funds under this section shall be made only to States that agree to 
 
 For the fiscal year beginning October 1, 1977, and each succeeding fiscal year ending before October 1, 2015, there are hereby authorized to be appropriated such sums as may be necessary for the purposes of this section.
 
-(Pub. L. 89–642, §7, Oct. 11, 1966, 80 Stat. 888; Pub. L. 90–302, §4, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §5, May 14, 1970, 84 Stat. 210; Pub. L. 95–166, §14, Nov. 10, 1977, 91 Stat. 1338; Pub. L. 95–627, §7(a), Nov. 10, 1978, 92 Stat. 3621; Pub. L. 96–499, title II, §201(b), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§814, 819(e), Aug. 13, 1981, 95 Stat. 531, 533; Pub. L. 99–500, title III, §§313, 332, Oct. 18, 1986, 100 Stat. 1783–360, 1783–363, and Pub. L. 99–591, title III, §§313, 332, Oct. 30, 1986, 100 Stat. 3341–363, 3341–367; Pub. L. 99–661, div. D, title I, §4103, title II, §4212, Nov. 14, 1986, 100 Stat. 4071, 4075; Pub. L. 101–147, title I, §122(a), Nov. 10, 1989, 103 Stat. 893; Pub. L. 102–512, title I, §103, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §117(a)(2)(B), title II, §202, Nov. 2, 1994, 108 Stat. 4717, 4737; Pub. L. 104–193, title VII, §724, Aug. 22, 1996, 110 Stat. 2302; Pub. L. 105–336, title II, §202, Oct. 31, 1998, 112 Stat. 3158; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 106–224, title II, §243(j), June 20, 2000, 114 Stat. 420; Pub. L. 108–265, title I, §126(c), title II, §202, June 30, 2004, 118 Stat. 765, 769; Pub. L. 111–296, title III, §306, title IV, §§421, 422, 441(b)(1), Dec. 13, 2010, 124 Stat. 3243, 3260, 3264.)
+(Pub. L. 89–642, §7, Oct. 11, 1966, 80 Stat. 888; Pub. L. 90–302, §4, May 8, 1968, 82 Stat. 119; Pub. L. 91–248, §5, May 14, 1970, 84 Stat. 210; Pub. L. 95–166, §14, Nov. 10, 1977, 91 Stat. 1338; Pub. L. 95–627, §7(a), Nov. 10, 1978, 92 Stat. 3621; Pub. L. 96–499, title II, §201(b), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§814, 819(e), Aug. 13, 1981, 95 Stat. 531, 533; Pub. L. 99–500, title III, §§313, 332, Oct. 18, 1986, 100 Stat. 1783–360, 1783–363, and Pub. L. 99–591, title III, §§313, 332, Oct. 30, 1986, 100 Stat. 3341–363, 3341–367; Pub. L. 99–661, div. D, title I, §4103, title II, §4212, Nov.14, 1986, 100 Stat. 4071, 4075; Pub. L. 101–147, title I, §122(a), Nov. 10, 1989, 103 Stat. 893; Pub. L. 102–512, title I, §103, Oct. 24, 1992, 106 Stat. 3363; Pub. L. 103–448, title I, §117(a)(2)(B), title II, §202, Nov. 2, 1994, 108 Stat. 4717, 4737; Pub. L. 104–193, title VII, §724, Aug. 22, 1996, 110 Stat. 2302; Pub. L. 105–336, title II, §202, Oct. 31, 1998, 112 Stat. 3158; Pub. L. 106–78, title VII, §752(b)(16), Oct. 22, 1999, 113 Stat. 1170; Pub. L. 106–224, title II, §243(j), June 20, 2000, 114 Stat. 420; Pub. L. 108–265, title I, §126(c), title II, §202, June 30, 2004, 118 Stat. 765, 769; Pub. L. 111–296, title III, §306, title IV, §§421, 422, 441(b)(1), Dec. 13, 2010, 124 Stat. 3243, 3260, 3264.)
 
 #### References in Text
 
@@ -298,19 +298,19 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–296, §441(b)(1), substituted “Each fiscal year” for “Except as provided in subparagraph (B), each fiscal year” in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: “In the case of each of fiscal years 2005 through 2007, the Secretary shall make available to each State for administrative costs not less than the initial allocation made to the State under this subsection for fiscal year 2004.”
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–296, §441(b)(1), substituted "Each fiscal year" for "Except as provided in subparagraph (B), each fiscal year" in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B). Prior to amendment, text of subpar. (B) read as follows: "In the case of each of fiscal years 2005 through 2007, the Secretary shall make available to each State for administrative costs not less than the initial allocation made to the State under this subsection for fiscal year 2004."
 
 Subsec. (g). Pub. L. 111–296, §306, added subsec. (g) and struck out former subsec. (g) which required each State to provide, at least annually, training in administrative practices, with emphasis on the requirements established by the Child Nutrition and WIC Reauthorization Act of 2004, and set out the Federal role and procedures for required participation.
 
-Subsec. (i)(4). Pub. L. 111–296, §421, substituted “2010 through 2015” for “2005 through 2009”.
+Subsec. (i)(4). Pub. L. 111–296, §421, substituted "2010 through 2015" for "2005 through 2009".
 
-Subsec. (j). Pub. L. 111–296, §422, substituted “October 1, 2015” for “October 1, 2009”.
+Subsec. (j). Pub. L. 111–296, §422, substituted "October 1, 2015" for "October 1, 2009".
 
 <b>2004</b>—Subsec. (a). Pub. L. 108–265, §202(a)(1), inserted heading.
 
-Subsec. (a)(1). Pub. L. 108–265, §202(a)(1), (2)(A), inserted par. heading, designated first and second sentences as subpars. (A) and (C), respectively, inserted subpar. (A) and (C) headings, in subpar. (A) substituted “Except as provided in subparagraph (B), each” for “Each”, added subpar. (B), and struck out at end “There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this section.”
+Subsec. (a)(1). Pub. L. 108–265, §202(a)(1), (2)(A), inserted par. heading, designated first and second sentences as subpars. (A) and (C), respectively, inserted subpar. (A) and (C) headings, in subpar. (A) substituted "Except as provided in subparagraph (B), each" for "Each", added subpar. (B), and struck out at end "There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this section."
 
-Subsec. (a)(2). Pub. L. 108–265, §202(a)(2)(B), inserted par. heading, designated existing provisions as subpars. (A) and (B)(i), inserted headings, in subpar. (A) substituted “Subject to subparagraph (B), the” for “The”, in subpar. (B)(i) substituted “this paragraph” for “this subsection” and “$200,000 (as adjusted under clause (ii)” for “$100,000”, and added subpar. (B)(ii).
+Subsec. (a)(2). Pub. L. 108–265, §202(a)(2)(B), inserted par. heading, designated existing provisions as subpars. (A) and (B)(i), inserted headings, in subpar. (A) substituted "Subject to subparagraph (B), the" for "The", in subpar. (B)(i) substituted "this paragraph" for "this subsection" and "$200,000 (as adjusted under clause (ii)" for "$100,000", and added subpar. (B)(ii).
 
 Subsec. (e). Pub. L. 108–265, §126(c)(1), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, struck out last sentence requiring a State, after submitting the initial plan, to submit to the Secretary for approval only a substantive change in the plan, and added pars. (2) and (3).
 
@@ -318,67 +318,67 @@ Subsecs. (g), (h). Pub. L. 108–265, §126(c)(3), added subsecs. (g) and (h). F
 
 Subsec. (i). Pub. L. 108–265, §202(b), added subsec. (i).
 
-Subsec. (j). Pub. L. 108–265, §202(c), substituted “2009” for “2003”.
+Subsec. (j). Pub. L. 108–265, §202(c), substituted "2009" for "2003".
 
 Pub. L. 108–265, §126(c)(2), redesignated subsec. (g) as (j).
 
-<b>2000</b>—Subsec. (a)(9)(A). Pub. L. 106–224 inserted “(including any requirement to provide sufficient training, technical assistance, and monitoring of the child and adult care food program under section 17 of that Act (42 U.S.C. 1766))” after “(42 U.S.C. 1751 et seq.)”.
+<b>2000</b>—Subsec. (a)(9)(A). Pub. L. 106–224 inserted "(including any requirement to provide sufficient training, technical assistance, and monitoring of the child and adult care food program under section 17 of that Act (42 U.S.C. 1766))" after "(42 U.S.C. 1751 et seq.)".
 
-<b>1999</b>—Subsecs. (a), (f). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act” wherever appearing.
+<b>1999</b>—Subsecs. (a), (f). Pub. L. 106–78 substituted "Richard B. Russell National School Lunch Act" for "National School Lunch Act" wherever appearing.
 
 <b>1998</b>—Subsec. (a)(5)(B). Pub. L. 105–336, §202(a), amended subpar. (B) generally, substituting present provisions for provisions which related to return of unexpended funds to Secretary and reallocation of such funds to provide annual grants to public entities and private nonprofit organizations participating in projects under former section 1766b of this title.
 
-Subsec. (a)(6). Pub. L. 105–336, §202(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Funds available to States under this subsection and under section 13(k)(1) of the National School Lunch Act shall be used for the costs of administration of the programs for which the allocations are made, except that States may transfer up to 10 percent of any of the amounts allocated among such programs.”
+Subsec. (a)(6). Pub. L. 105–336, §202(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "Funds available to States under this subsection and under section 13(k)(1) of the National School Lunch Act shall be used for the costs of administration of the programs for which the allocations are made, except that States may transfer up to 10 percent of any of the amounts allocated among such programs."
 
-Subsec. (g). Pub. L. 105–336, §202(c), substituted “2003” for “1998”.
+Subsec. (g). Pub. L. 105–336, §202(c), substituted "2003" for "1998".
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–193, §724(b), substituted “the initial fiscal year a plan” for “each year an annual plan” and inserted at end “After submitting the initial plan, a State shall be required to submit to the Secretary for approval only a substantive change in the plan.”
+<b>1996</b>—Subsec. (e). Pub. L. 104–193, §724(b), substituted "the initial fiscal year a plan" for "each year an annual plan" and inserted at end "After submitting the initial plan, a State shall be required to submit to the Secretary for approval only a substantive change in the plan."
 
-Pub. L. 104–193, §724(a), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “The State may use a portion of the funds available under this section to assist in the administration of the commodity distribution program.”
+Pub. L. 104–193, §724(a), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: "The State may use a portion of the funds available under this section to assist in the administration of the commodity distribution program."
 
 Subsecs. (f), (g). Pub. L. 104–193, §724(a)(2), redesignated subsecs. (g) and (i) as (f) and (g), respectively. Former subsec. (f) redesignated (e).
 
-Subsec. (h). Pub. L. 104–193, §724(a)(1), struck out subsec. (h) which read as follows: “The Secretary may not provide amounts under this section to a State for administrative costs incurred in any fiscal year unless the State agrees to participate in any study or survey of programs authorized under this chapter or the National School Lunch Act (42 U.S.C. 1751 et seq.) and conducted by the Secretary.”
+Subsec. (h). Pub. L. 104–193, §724(a)(1), struck out subsec. (h) which read as follows: "The Secretary may not provide amounts under this section to a State for administrative costs incurred in any fiscal year unless the State agrees to participate in any study or survey of programs authorized under this chapter or the National School Lunch Act (42 U.S.C. 1751 et seq.) and conducted by the Secretary."
 
 Subsec. (i). Pub. L. 104–193, §724(a)(2), redesignated subsec. (i) as (g).
 
-<b>1994</b>—Subsec. (a)(5)(B)(i)(I). Pub. L. 103–448, §117(a)(2)(B), substituted “projects under section 17B of the National School Lunch Act” for “projects under section 18(c) of the National School Lunch Act (42 U.S.C. 1769(c))” and substituted “fiscal year 1995 and each subsequent fiscal year” for “each of fiscal years 1993 and 1994” in two places.
+<b>1994</b>—Subsec. (a)(5)(B)(i)(I). Pub. L. 103–448, §117(a)(2)(B), substituted "projects under section 17B of the National School Lunch Act" for "projects under section 18(c) of the National School Lunch Act (42 U.S.C. 1769(c))" and substituted "fiscal year 1995 and each subsequent fiscal year" for "each of fiscal years 1993 and 1994" in two places.
 
 Subsec. (a)(9). Pub. L. 103–448, §202(a), added par. (9).
 
 Subsec. (h). Pub. L. 103–448, §202(c)(2), added subsec. (h). Former subsec. (h) redesignated (i).
 
-Pub. L. 103–448, §202(b), substituted “1998” for “1994”.
+Pub. L. 103–448, §202(b), substituted "1998" for "1994".
 
 Subsec. (i). Pub. L. 103–448, §202(c)(1), redesignated subsec. (h) as (i).
 
-<b>1992</b>—Subsec. (a)(5)(B)(i). Pub. L. 102–512, §103(1), substituted a colon for “, the Secretary shall—” in introductory provisions.
+<b>1992</b>—Subsec. (a)(5)(B)(i). Pub. L. 102–512, §103(1), substituted a colon for ", the Secretary shall—" in introductory provisions.
 
-Subsec. (a)(5)(B)(i)(I). Pub. L. 102–512, §103(2), added subcl. (I) and struck out former subcl. (I) which read as follows: “first allocate, for the purpose of providing grants on an annual basis to private nonprofit organizations participating in projects under section 18(f) of the National School Lunch Act, not less than $3,000,000 in the fiscal year 1992 and not less than $4,000,000 in each of the fiscal years 1993 and 1994; and”.
+Subsec. (a)(5)(B)(i)(I). Pub. L. 102–512, §103(2), added subcl. (I) and struck out former subcl. (I) which read as follows: "first allocate, for the purpose of providing grants on an annual basis to private nonprofit organizations participating in projects under section 18(f) of the National School Lunch Act, not less than $3,000,000in the fiscal year 1992 and not less than $4,000,000 in each of the fiscal years 1993 and 1994; and".
 
-Subsec. (a)(5)(B)(i)(II). Pub. L. 102–512, §103(3), substituted “After making the allocations under subclause (I), the Secretary shall allocate,” for “then allocate,”.
+Subsec. (a)(5)(B)(i)(II). Pub. L. 102–512, §103(3), substituted "After making the allocations under subclause (I), the Secretary shall allocate," for "then allocate,".
 
-<b>1989</b>—Subsec. (a)(3). Pub. L. 101–147, §122(a)(1)(A), inserted after first sentence “If an agency in the State other than the State educational agency administers such program, the State shall ensure that an amount equal to no less than the funds due the State under this paragraph is provided to such agency for costs incurred by such agency in administering the program, except as provided in paragraph (5).”
+<b>1989</b>—Subsec. (a)(3). Pub. L. 101–147, §122(a)(1)(A), inserted after first sentence "If an agency in the State other than the State educational agency administers such program, the State shall ensure that an amount equal to no less than the funds due the State under this paragraph is provided to such agency for costs incurred by such agency in administering the program, except as provided in paragraph (5)."
 
 Subsec. (a)(5) to (8). Pub. L. 101–147, §122(a)(1)(B)–(D), added pars. (5) and (8) and redesignated former pars. (5) and (6) as (6) and (7), respectively.
 
-Subsec. (g). Pub. L. 101–147, §122(a)(2), inserted before period at end “, and that agree to participate fully in any studies authorized by the Secretary”.
+Subsec. (g). Pub. L. 101–147, §122(a)(2), inserted before period at end ", and that agree to participate fully in any studies authorized by the Secretary".
 
-Subsec. (h). Pub. L. 101–147, §122(a)(3), substituted “For the fiscal year beginning October 1, 1977, and each succeeding fiscal year ending before October 1, 1994,” for “For the fiscal years beginning October 1, 1977, and ending September 30, 1989,”.
+Subsec. (h). Pub. L. 101–147, §122(a)(3), substituted "For the fiscal year beginning October 1, 1977, and each succeeding fiscal year ending before October 1, 1994," for "For the fiscal years beginning October 1, 1977, and ending September 30, 1989,".
 
-<b>1986</b>—Subsecs. (b) to (g). Pub. L. 99–500 and Pub. L. 99–591, §332, and Pub. L. 99–661, §4212, amended section identically, redesignating subsecs. (c) to (h) as (b) to (g), respectively, and striking out former subsec. (b) which read as follows: “The Secretary, in cooperation with the several States, shall develop State staffing standards for the administration by each State of sections 4, 11, and 17 of the National School Lunch Act \[42 U.S.C. 1753, 1759a, 1766\], and sections 1772 and 1773 of this title, that will ensure sufficient staff for the planning and administration of programs covered by State administrative expenses.”
+<b>1986</b>—Subsecs. (b) to (g). Pub. L. 99–500 and Pub. L. 99–591, §332, and Pub. L. 99–661, §4212, amended section identically, redesignating subsecs. (c) to (h) as (b) to (g), respectively, and striking out former subsec. (b) which read as follows: "The Secretary, in cooperation with the several States, shall develop State staffing standards for the administration by each State of sections 4, 11, and 17 of the National School Lunch Act \[42 U.S.C. 1753, 1759a, 1766\], and sections 1772 and 1773 of this title, that will ensure sufficient staff for the planning and administration of programs covered by State administrative expenses."
 
-Subsecs. (h), (i). Pub. L. 99–500 and Pub. L. 99–591, §§313, 332(2), and Pub. L. 99–661, §§4103, 4212(2), amended section identically, redesignating subsec. (i) as (h) and substituting “1989” for “1984”. Former subsec. (h) redesignated (g).
+Subsecs. (h), (i). Pub. L. 99–500 and Pub. L. 99–591, §§313, 332(2), and Pub. L. 99–661, §§4103, 4212(2), amended section identically, redesignating subsec. (i) as (h) and substituting "1989" for "1984". Former subsec. (h) redesignated (g).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–35, §§814(a), 819(e), in par. (1) struck out reference to section 1774 of this title, and in par. (2) substituted “1981” for “1978” and struck out reference to section 1774 of this title.
+<b>1981</b>—Subsec. (a). Pub. L. 97–35, §§814(a), 819(e), in par. (1) struck out reference to section 1774 of this title, and in par. (2) substituted "1981" for "1978" and struck out reference to section 1774 of this title.
 
 Subsec. (b). Pub. L. 97–35, §819(e), struck out reference to section 1774 of this title.
 
 Subsec. (e). Pub. L. 97–35, §814(b), substituted provisions relating to general availability of unobligated funds during fiscal years following the fiscal years for which such funds were made available for provisions relating to availability of unobligated funds for fiscal year 1979 and for the five succeeding fiscal years.
 
-<b>1980</b>—Subsec. (e). Pub. L. 96–499, §201(b)(1), substituted “and for the five succeeding fiscal years” for “and the succeeding fiscal year”.
+<b>1980</b>—Subsec. (e). Pub. L. 96–499, §201(b)(1), substituted "and for the five succeeding fiscal years" for "and the succeeding fiscal year".
 
-Subsec. (i). Pub. L. 96–499, §201(b)(2), substituted “September 30, 1984” for “September 30, 1980”.
+Subsec. (i). Pub. L. 96–499, §201(b)(2), substituted "September 30, 1984" for "September 30, 1980".
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–627 generally revised and restructured subsection and, among other changes, inserted formula for determining State allocations for administrative costs incurred under the program authorized by section 17 of the National School Lunch Act, authorized the State to transfer up to ten percent of any amounts allocated for administrative costs of the programs for which such funds were allocated, and authorized retention by the Secretary for the Secretary's use in administering certain programs, allocations for such programs, under this section and section 13(k)(1) of the National School Lunch Act.
 
@@ -410,7 +410,7 @@ Amendment by Pub. L. 102–512 effective Sept. 30, 1992, see section 104 of Pub.
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–147, title I, §122(b), Nov. 10, 1989, 103 Stat. 894, provided that: “The amendment made by subsection (a)(1)(A) \[amending this section\] shall be effective as of October 1, 1989.”
+Pub. L. 101–147, title I, §122(b), Nov. 10, 1989, 103 Stat. 894, provided that: "The amendment made by subsection (a)(1)(A) \[amending this section\] shall be effective as of October 1, 1989."
 
 #### Effective Date of 1981 Amendment
 

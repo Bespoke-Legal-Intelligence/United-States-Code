@@ -24,9 +24,9 @@ Subsection (a) of this section does not apply in the case of—
 
 As used in this section—
 
-&emsp;(1) the term “member business loan”—
+&emsp;(1) the term "member business loan"—
 
-&emsp;&emsp;(A) means any loan, line of credit, or letter of credit, the proceeds of which will be used for a commercial, corporate or other business investment property or venture, or agricultural purpose; and
+&emsp;&emsp;(A) means any loan, line of credit, or letter of credit, the proceeds of which will be usedfor a commercial, corporate or other business investment property or venture, or agricultural purpose; and
 
 &emsp;&emsp;(B) does not include an extension of credit—
 
@@ -40,7 +40,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(v) that is granted by a corporate credit union (as that term is defined by the Board) to another credit union.
 
-&emsp;(2) the term “net worth”—
+&emsp;(2) the term "net worth"—
 
 &emsp;&emsp;(A) with respect to any insured credit union, means the credit union's retained earnings balance, as determined under generally accepted accounting principles; and
 
@@ -50,7 +50,7 @@ As used in this section—
 
 &emsp;&emsp;&emsp;(ii) subordinate to all other claims against the credit union, including the claims of creditors, shareholders, and the Fund; and
 
-&emsp;(3) the term “associated member” means any member having a shared ownership, investment, or other pecuniary interest in a business or commercial endeavor with the borrower.
+&emsp;(3) the term "associated member" means any member having a shared ownership, investment, or other pecuniary interest in a business or commercial endeavor with the borrower.
 
 #### (d) Effect on existing loans
 
@@ -66,27 +66,27 @@ In implementing this section, the Board shall consult and seek to work cooperati
 
 Pub. L. 105–219, title II, §203(b), Aug. 7, 1998, 112 Stat. 922, provided that:
 
-“(1)
+"(1)
 
 Study.—The Secretary \[of the Treasury\] shall conduct a study of member business lending by insured credit unions, including—
 
-&emsp;“(A) an examination of member business lending over $500,000 and under $50,000, and a breakdown of the types and sizes of businesses that receive member business loans;
+&emsp;"(A) an examination of member business lending over $500,000 and under $50,000, and a breakdown of the types and sizes of businesses that receive member business loans;
 
-&emsp;“(B) a review of the effectiveness and enforcement of regulations applicable to insured credit union member business lending;
+&emsp;"(B) a review of the effectiveness and enforcement of regulations applicable to insured credit union member business lending;
 
-&emsp;“(C) whether member business lending by insured credit unions could affect the safety and soundness of insured credit unions or the National Credit Union Share Insurance Fund;
+&emsp;"(C) whether member business lending by insured credit unions could affect the safety and soundness of insured credit unions or the National Credit Union Share Insurance Fund;
 
-&emsp;“(D) the extent to which member business lending by insured credit unions helps to meet financial services needs of low- and moderate-income individuals within the field of membership of insured credit unions;
+&emsp;"(D) the extent to which member business lending by insured credit unions helps to meet financial services needs of low- and moderate-income individuals within the field of membership of insured credit unions;
 
-&emsp;“(E) whether insured credit unions that engage in member business lending have a competitive advantage over other insured depository institutions, and if any such advantage could affect the viability and profitability of such other insured depository institutions; and
+&emsp;"(E) whether insured credit unions that engage in member business lending have a competitive advantage over other insured depository institutions, and if any such advantage could affect the viability and profitability of such other insured depository institutions; and
 
-&emsp;“(F) the effect of enactment of this Act \[see Short Title of 1998 Amendment note set out under section 1751 of this title\] on the number of insured credit unions involved in member business lending and the overall amount of commercial lending.
+&emsp;"(F) the effect of enactment of this Act \[see Short Title of 1998 Amendment note set out under section 1751 of this title\] on the number of insured credit unions involved in member business lending and the overall amount of commercial lending.
 
-“(2)
+"(2)
 
 NCUA cooperation.—The National Credit Union Administration shall, upon request, provide such information as the Secretary may require to conduct the study required under paragraph (1).
 
-“(3)
+"(3)
 
-Report.—Not later than 12 months after the date of enactment of this Act \[Aug. 7, 1998\], the Secretary shall submit a report to the Congress on the results of the study conducted under paragraph (1).”
+Report.—Not later than 12 months after the date of enactment of this Act \[Aug. 7, 1998\], the Secretary shall submit a report to the Congress on the results of the study conducted under paragraph (1)."
 

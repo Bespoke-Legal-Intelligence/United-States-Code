@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 R.S. 218.
 
-The words “from time to time”, “collected”, and “at the seat of government” are omitted as surplusage.
+The words "from time to time", "collected", and "at the seat of government" are omitted as surplusage.
 

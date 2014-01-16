@@ -12,7 +12,7 @@
 
 > &emsp;the Administrator or the Governor of a State is authorized to act to protect human health or the environment.
 
-#### (2) Limitations on Governor's action
+#### (2) Limitations on Governor action
 
 &emsp;The Governor of a State shall notify the Administrator within a reasonable period of time before the Governor plans to take an emergency action under this subsection. After such notification, if the Administrator takes an emergency action with respect to the same hazard, the Governor may not carry out (or continue to carry out, if the action has been started) the emergency action.
 

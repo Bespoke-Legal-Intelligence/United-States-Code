@@ -24,7 +24,7 @@ Group-practice prepayment plans.—Group-practice prepayment plans which offer h
 
 &emsp;&emsp;(B)
 
-Individual-practice prepayment plans.—Individual-practice prepayment plans which offer health services in whole or substantial part on a prepaid basis, with professional services thereunder provided by individual physicians who agree, under certain conditions approved by the Office, to accept the payments provided by the plans as full payment for covered services given by them including, in addition to in-hospital services, general care given in their offices and the patients’ homes, out-of-hospital diagnostic procedures, and preventive care, and which plans are offered by organizations which have successfully operated similar plans before approval by the Office of the plan in which employees may enroll.
+Individual-practice prepayment plans.—Individual-practice prepaymentplans which offer health services in whole or substantial part on a prepaid basis, with professional services thereunder provided by individual physicians who agree, under certain conditions approved by the Office, to accept the payments provided by the plans as full payment for covered services given by them including, in addition to in-hospital services, general care given in their offices and the patients’ homes, out-of-hospital diagnostic procedures, and preventive care, and which plans are offered by organizations which have successfully operated similar plans before approval by the Office of the plan in which employees may enroll.
 
 &emsp;&emsp;(C)
 

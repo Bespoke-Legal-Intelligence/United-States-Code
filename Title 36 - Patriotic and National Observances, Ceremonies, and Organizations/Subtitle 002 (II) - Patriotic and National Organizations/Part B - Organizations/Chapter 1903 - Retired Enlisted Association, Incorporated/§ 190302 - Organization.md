@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Retired Enlisted Association, Incorporated (in this chapter, the “corporation”), a nonprofit corporation incorporated in Colorado, is a federally chartered corporation.
+Federal Charter.—Retired Enlisted Association, Incorporated (in this chapter, the "corporation"), a nonprofit corporation incorporated in Colorado, is a federally chartered corporation.
 
 (b)
 

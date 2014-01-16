@@ -6,7 +6,7 @@ For purposes of this title, except as provided in subsection (c), a publicly tra
 
 #### (b) Publicly traded partnership
 
-For purposes of this section, the term “publicly traded partnership” means any partnership if—
+For purposes of this section, the term "publicly traded partnership" means any partnership if—
 
 &emsp;(1) interests in such partnership are traded on an established securities market, or
 
@@ -16,7 +16,7 @@ For purposes of this section, the term “publicly traded partnership” means a
 
 #### (1) In general
 
-&emsp;Subsection (a) shall not apply to any publicly traded partnership for any taxable year if such partnership met the gross income requirements of paragraph (2) for such taxable year and each preceding taxable year beginning after December 31, 1987, during which the partnership (or any predecessor) was in existence. For purposes of the preceding sentence, a partnership shall not be treated as being in existence during any period before the 1st taxable year in which such partnership (or a predecessor) was a publicly traded partnership.
+&emsp;Subsection (a) shall not apply to any publicly traded partnership for any taxable year ifsuch partnership met the gross income requirements of paragraph (2) for such taxable year and each preceding taxable year beginning after December 31, 1987, during which the partnership (or any predecessor) was in existence. For purposes of the preceding sentence, a partnership shall not be treated as being in existence during any period before the 1st taxable year in which such partnership (or a predecessor) was a publicly traded partnership.
 
 #### (2) Gross income requirements
 
@@ -32,7 +32,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, the term “qualifying income” means—
+&emsp;Except as otherwise provided in this subsection, the term "qualifying income" means—
 
 &emsp;&emsp;(A) interest,
 
@@ -42,13 +42,13 @@ For purposes of this section—
 
 &emsp;&emsp;(D) gain from the sale or other disposition of real property (including property described in section 1221(a)(1)),
 
-&emsp;&emsp;(E) income and gains derived from the exploration, development, mining or production, processing, refining, transportation (including pipelines transporting gas, oil, or products thereof), or the marketing of anymineral or natural resource (including fertilizer, geothermal energy, and timber), industrial source carbon dioxide, or the transportation or storage of any fuel described in subsection (b), (c), (d), or (e) of section 6426, or any alcohol fuel defined in section 6426(b)(4)(A) or any biodiesel fuel as defined in section 40A(d)(1),
+&emsp;&emsp;(E) income and gains derived from the exploration, development, mining or production, processing, refining, transportation (including pipelines transporting gas, oil, or products thereof), or the marketing of any mineral or natural resource (including fertilizer, geothermal energy, and timber), industrial source carbon dioxide, or the transportation or storage of any fuel described in subsection (b), (c), (d), or (e) of section 6426, or any alcohol fuel defined in section 6426(b)(4)(A) or any biodiesel fuel as defined in section 40A(d)(1),
 
 &emsp;&emsp;(F) any gain from the sale or disposition of a capital asset (or property described in section 1231(b)) held for the production of income described in any of the foregoing subparagraphs of this paragraph, and
 
 &emsp;&emsp;(G) in the case of a partnership described in the second sentence of subsection (c)(3), income and gains from commodities (not described in section 1221(a)(1)) or futures, forwards, and options with respect to commodities.
 
-> &emsp;For purposes of subparagraph (E), the term “mineral or natural resource” means any product of a character with respect to which a deduction for depletion is allowable under section 611; except that such term shall not include any product described in subparagraph (A) or (B) of section 613(b)(7).
+> &emsp;For purposes of subparagraph (E), the term "mineral or natural resource" means any product of a character with respect to which a deduction for depletion is allowable under section 611; except that such term shall not include any product described in subparagraph (A) or (B) of section 613(b)(7).
 
 #### (2) Certain interest not qualified
 
@@ -56,11 +56,11 @@ For purposes of this section—
 
 &emsp;&emsp;(A) such interest is derived in the conduct of a financial or insurance business, or
 
-&emsp;&emsp;(B) such interest would be excluded from the term “interest” under section 856(f).
+&emsp;&emsp;(B) such interest would be excluded from the term "interest" under section 856(f).
 
 #### (3) Real property rent
 
-&emsp;The term “real property rent” means amounts which would qualify as rent from real property under section 856(d) if—
+&emsp;The term "real property rent" means amounts which would qualify as rent from real property under section 856(d) if—
 
 &emsp;&emsp;(A) such section were applied without regard to paragraph (2)(C) thereof (relating to independent contractor requirements), and
 
@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (4) Certain income qualifying under regulated investment company or real estate trust provisions
 
-&emsp;The term “qualifying income” also includes any income which would qualify under section 851(b)(2)(A) or 856(c)(2).
+&emsp;The term "qualifying income" also includes any income which would qualify under section 851(b)(2)(A) or 856(c)(2).
 
 #### (5) Special rule for determining gross income from certain real property sales
 
@@ -104,7 +104,7 @@ As of the 1st day that a partnership is treated as a corporation under this sect
 
 #### (2) Electing 1987 partnership
 
-&emsp;For purposes of this subsection, the term “electing 1987 partnership” means any publicly traded partnership if—
+&emsp;For purposes of this subsection, the term "electing 1987 partnership" means any publicly traded partnership if—
 
 &emsp;&emsp;(A) such partnership is an existing partnership (as defined in section 10211(c)(2) of the Revenue Reconciliation Act of 1987),
 
@@ -122,7 +122,7 @@ As of the 1st day that a partnership is treated as a corporation under this sect
 
 #### (B) Adjustments in the case of tiered partnerships
 
-&emsp;&emsp;For purposes of this paragraph, in the case of a partnership which is a partner in another partnership, the gross income referred to in subparagraph (A) shall include the partnership's distributive share of the grossincome of such other partnership from the active conduct of trades and businesses of such other partnership. A similar rule shall apply in the case of lower-tiered partnerships.
+&emsp;&emsp;For purposes of this paragraph, in the case of a partnership which is a partner in another partnership, the gross income referred to in subparagraph (A) shall include the partnership's distributive share of the gross income of such other partnership from the active conduct of trades and businesses of such other partnership. A similar rule shall apply in the case of lower-tiered partnerships.
 
 #### (C) Treatment of tax
 
@@ -140,31 +140,31 @@ Section 10211(c)(2) of the Revenue Reconciliation Act of 1987, referred to in su
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d)(1)(E). Pub. L. 110–343, §208(a), substituted “, industrial source carbon dioxide, or the transportation or storage of any fuel described in subsection (b), (c), (d), or (e) of section 6426, or any alcohol fuel defined in section 6426(b)(4)(A) or any biodiesel fuel as defined in section 40A(d)(1)” for “or industrial source carbon dioxide”.
+<b>2008</b>—Subsec. (d)(1)(E). Pub. L. 110–343, §208(a), substituted ", industrial source carbon dioxide, or the transportation or storage of any fuel described in subsection (b), (c), (d), or (e) of section 6426, or any alcohol fuel defined in section 6426(b)(4)(A) or any biodiesel fuel as defined in section 40A(d)(1)" for "or industrial source carbon dioxide".
 
-Pub. L. 110–343, §116(a), inserted “or industrial source carbon dioxide” before comma at end.
+Pub. L. 110–343, §116(a), inserted "or industrial source carbon dioxide" before comma at end.
 
-<b>2004</b>—Subsec. (d)(4). Pub. L. 108–357 substituted “section 851(b)(2)(A)” for “section 851(b)(2)”.
+<b>2004</b>—Subsec. (d)(4). Pub. L. 108–357 substituted "section 851(b)(2)(A)" for "section 851(b)(2)".
 
-<b>1999</b>—Subsecs. (c)(3), (d)(1)(D), (G), (5). Pub. L. 106–170 substituted “section 1221(a)(1)” for “section 1221(1)”.
+<b>1999</b>—Subsecs. (c)(3), (d)(1)(D), (G), (5). Pub. L. 106–170 substituted "section 1221(a)(1)" for "section 1221(1)".
 
-<b>1998</b>—Subsec. (g)(3)(C). Pub. L. 105–206 inserted at end “and shall be paid by the partnership. Section 6655 shall be applied to such partnership with respect to such tax in the same manner as if the partnership were a corporation, such tax were imposed by section 11, and references in such section to taxable income were references to the gross income referred to in subparagraph (A)”.
+<b>1998</b>—Subsec. (g)(3)(C). Pub. L. 105–206 inserted at end "and shall be paid by the partnership. Section 6655 shall be applied to such partnership with respect to such tax in the same manner as if the partnership were a corporation, such tax were imposed by section 11, and references in such section to taxable income were references to the gross income referred to in subparagraph (A)".
 
 <b>1997</b>—Subsec. (g). Pub. L. 105–34 added subsec. (g).
 
-<b>1988</b>—Subsec. (c)(1). Pub. L. 100–647, §2004(f)(3), inserted at end “For purposes of the preceding sentence, a partnership shall not be treated as being in existence during any period before the 1st taxable year in which such partnership (or a predecessor) was a publicly traded partnership.”
+<b>1988</b>—Subsec. (c)(1). Pub. L. 100–647, §2004(f)(3), inserted at end "For purposes of the preceding sentence, a partnership shall not be treated as being in existence during any period before the 1st taxable year in which such partnership (or a predecessor) was a publicly traded partnership."
 
-Subsec. (d)(1). Pub. L. 100–647, §2004(f)(4), inserted at end “For purposes of subparagraph (E), the term ‘mineral or natural resource’ means any product of a character with respect to which a deduction for depletion is allowable under section 611; except that such term shall not include any product described in subparagraph (A) or (B) of section 613(b)(7).”
+Subsec. (d)(1). Pub. L. 100–647, §2004(f)(4), inserted at end "For purposes of subparagraph (E), the term 'mineral or natural resource' means any product of a character with respect to which a deduction for depletion is allowable under section 611; except that such term shall not include any product described in subparagraph (A) or (B) of section 613(b)(7)."
 
-Subsec. (d)(3). Pub. L. 100–647, §2004(f)(5), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘real property rent’ means amounts which would qualify as rent from real property under section 856(d) if such section were applied without regard to paragraph (2)(C) thereof (relating to independent contractor requirements).”
+Subsec. (d)(3). Pub. L. 100–647, §2004(f)(5), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The term 'real property rent' means amounts which would qualify as rent from real property under section 856(d) if such section were applied without regard to paragraph (2)(C) thereof (relating to independent contractor requirements)."
 
-Subsec. (e)(4). Pub. L. 100–647, §2004(f)(1), inserted “or to pay such amounts” before “as may be required”.
+Subsec. (e)(4). Pub. L. 100–647, §2004(f)(1), inserted "or to pay such amounts" before "as may be required".
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. B, title I, §116(b), Oct. 3, 2008, 122 Stat. 3831, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date.”
+Pub. L. 110–343, div. B, title I, §116(b), Oct. 3, 2008, 122 Stat. 3831, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date."
 
-Pub. L. 110–343, div. B, title II, §208(b), Oct. 3, 2008, 122 Stat. 3840, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date.”
+Pub. L. 110–343, div. B, title II, §208(b), Oct. 3, 2008, 122 Stat. 3840, provided that: "The amendment made by this section \[amending this section\] shall take effect onthe date of the enactment of this Act \[Oct. 3, 2008\], in taxable years ending after such date."
 
 #### Effective Date of 2004 Amendment
 
@@ -176,11 +176,11 @@ Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or e
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title VI, §6009(b)(2), July 22, 1998, 112 Stat. 812, provided that: “The second sentence of section 7704(g)(3)(C) of the 1986 Code (as added by paragraph (1)) shall apply to taxable years beginning after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title VI, §6009(b)(2), July 22, 1998, 112 Stat. 812, provided that: "The second sentence of section 7704(g)(3)(C) of the 1986 Code (as added by paragraph (1)) shall apply to taxable years beginning after the date of the enactment of this Act \[July 22, 1998\]."
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title IX, §964(b), Aug. 5, 1997, 111 Stat. 893, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997.”
+Pub. L. 105–34, title IX, §964(b), Aug. 5, 1997, 111 Stat. 893, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1997."
 
 #### Effective Date of 1988 Amendment
 
@@ -190,37 +190,37 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 Pub. L. 100–203, title X, §10211(c), Dec. 22, 1987, 101 Stat. 1330–405, as amended by Pub. L. 100–647, title II, §2004(f)(2), Nov. 10, 1988, 102 Stat. 3602, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[enacting this section\] shall apply—
 
-&emsp;“(A) except as provided in subparagraph (B), to taxable years beginning after December 31, 1987, or
+&emsp;"(A) except as provided in subparagraph (B), to taxable years beginning after December 31, 1987, or
 
-&emsp;“(B) in the case of an existing partnership, to taxable years beginning after December 31, 1997.
+&emsp;"(B) in the case of an existing partnership, to taxable years beginning after December 31, 1997.
 
-“(2)
+"(2)
 
 Existing partnership.—For purposes of this subsection—
 
-&emsp;“(A)
+&emsp;"(A)
 
-In general.—The term ‘existing partnership’ means any partnership if—
+In general.—The term 'existing partnership' means any partnership if—
 
-&emsp;&emsp;“(i) such partnership was a publicly traded partnership on December 17, 1987,
+&emsp;&emsp;"(i) such partnership was a publicly traded partnership on December 17, 1987,
 
-&emsp;&emsp;“(ii) a registration statement indicating that such partnership was to be a publicly traded partnership was filed with the Securities and Exchange Commission with respect to such partnership on or before such date, or
+&emsp;&emsp;"(ii) a registration statement indicating that such partnership was to be a publicly traded partnership was filed with the Securities and Exchange Commission with respect to such partnership on or before such date, or
 
-&emsp;&emsp;“(iii) with respect to such partnership, an application was filed with a State regulatory commission on or before such date seeking permission to restructure a portion of a corporation as a publicly traded partnership.
+&emsp;&emsp;"(iii) with respect to such partnership, an application was filed with a State regulatory commission on or before such date seeking permission to restructure a portion of a corporation as a publicly traded partnership.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Special rule where substantial new line of business added after december 17, 1987.—A partnership which, but for this subparagraph, would be treated as an existing partnership shall cease to be treated as an existing partnership as of the 1st day after December 17, 1987, on which there has been an addition of a substantial new line of business with respect to such partnership.
 
-&emsp;“(C)
+&emsp;"(C)
 
-Coordination with passive-type income requirements.—In the case of an existing partnership, paragraph (1) of section 7704(c) of the Internal Revenue Code of 1986 (as added by this section) shall be applied by substituting for ‘December 31, 1987’ the earlier of—
+Coordination with passive-type income requirements.—In the case of an existing partnership, paragraph (1) of section 7704(c) of the Internal Revenue Code of 1986 (as added by this section) shall be applied by substituting for 'December 31, 1987' the earlier of—
 
-&emsp;&emsp;“(i) December 31, 1997, or
+&emsp;&emsp;"(i) December 31, 1997, or
 
-&emsp;&emsp;“(ii) the day (if any) as of which such partnership ceases to be treated as an existing partnership by reason of subparagraph (B).”
+&emsp;&emsp;"(ii) the day (if any) as of which such partnership ceases to be treated as an existing partnership by reason of subparagraph (B)."
 

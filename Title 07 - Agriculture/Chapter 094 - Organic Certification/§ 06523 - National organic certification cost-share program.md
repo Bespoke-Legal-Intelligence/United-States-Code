@@ -42,13 +42,13 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 112–240, §701(g)(3)(A), substituted “The Secretary of Agriculture (acting through the Agricultural Marketing Service) shall” for “Of funds of the Commodity Credit Corporation, the Secretary of Agriculture (acting through the Agricultural Marketing Service) shall use $22,000,000 for fiscal year 2008, to remain available until expended, to”.
+<b>2013</b>—Subsec. (a). Pub. L. 112–240, §701(g)(3)(A), substituted "The Secretary of Agriculture (acting through the Agricultural Marketing Service) shall" for "Of funds of the Commodity Credit Corporation, the Secretary of Agriculture (acting through the Agricultural Marketing Service) shall use $22,000,000 for fiscal year 2008, to remain available until expended, to".
 
 Subsec. (d). Pub. L. 112–240, §701(g)(3)(B), added subsec. (d).
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246, §10301(1), substituted “$22,000,000 for fiscal year 2008” for “$5,000,000 for fiscal year 2002”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246, §10301(1), substituted "$22,000,000 for fiscal year 2008" for "$5,000,000 for fiscal year 2002".
 
-Subsec. (b)(2). Pub. L. 110–246, §10301(2), substituted “$750” for “$500”.
+Subsec. (b)(2). Pub. L. 110–246, §10301(2), substituted "$750" for "$500".
 
 Subsec. (c). Pub. L. 110–246, §10301(3), added subsec. (c).
 

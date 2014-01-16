@@ -56,7 +56,7 @@ Pub. L. 105–303, title I, §101(a), Oct. 28, 1998, 112 Stat. 2845.
 
 Pub. L. 110–422, title IX, §902, Oct. 15, 2008, 122 Stat. 4805.
 
-In subsection (b)(1)(D), the date “October 15, 2008” is substituted for “the date of enactment of this Act” to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2008 (Public Law 110–422, 122 Stat. 4779).
+In subsection (b)(1)(D), the date "October 15, 2008" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2008 (Public Law 110–422, 122 Stat. 4779).
 
 #### References in Text
 

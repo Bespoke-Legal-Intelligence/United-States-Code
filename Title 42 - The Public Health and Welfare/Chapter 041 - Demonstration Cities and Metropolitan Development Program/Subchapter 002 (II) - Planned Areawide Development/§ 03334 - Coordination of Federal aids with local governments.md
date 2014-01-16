@@ -10,7 +10,7 @@ All applications made after June 30, 1967, for Federal loans or grants to assist
 
 #### (b) Comments and recommendations by areawide agency and local government
 
-(1) Except as provided in paragraph (2) of this subsection, each application shall be accompanied (A) by the comments and recommendations with respect to the project involved by the areawide agency and governing bodies of the units of general local government to which the application has been submitted for review, and (B) by a statement by the applicant that suchcomments and recommendations have been considered prior to formal submission of the application. Such comments shall include information concerning the extent to which the project is consistent with comprehensive planning developed or in the process of development for the metropolitan area or the unit of general local government, as the case may be, and the extent to which such project contributes to the fulfillment of such planning. The comments and recommendations and the statement referred to in this paragraph shall, except in the case referred to in paragraph (2) of this subsection, be reviewed by the agency of the Federal Government to which such application is submitted for the sole purpose of assisting it in determining whether the application is in accordance with the provisions of Federal law which govern the making of the loans or grants.
+(1) Except as provided in paragraph (2) of this subsection, each application shall be accompanied (A) by the comments and recommendations with respect to the project involved by the areawide agency and governing bodies of the units of general local government to which the application has been submitted for review, and (B) by a statement by the applicant that such comments and recommendations have been considered prior to formal submission of the application. Such comments shall include information concerning the extent to which the project is consistent with comprehensive planning developed or in the process of development for the metropolitan area or the unit of general local government, as the case may be, and the extent to which such project contributes to the fulfillment of such planning. The comments and recommendations and the statement referred to in this paragraph shall, except in the case referred to in paragraph (2) of this subsection, be reviewed by the agency of the Federal Government to which such application is submitted for the sole purpose of assisting it in determining whether the application is in accordance with the provisions of Federal law which govern the making of the loans or grants.
 
 (2) An application for a Federal loan or grant need not be accompanied by the comments and recommendations and the statements referred to in paragraph (1) of this subsection, if the applicant certifies that a plan or description of the project, meeting the requirements of such rules and regulations as may be prescribed under subsection (c) of this section, or such application, has lain before an appropriate areawide agency or instrumentality or unit of general local government for a period of sixty days without comments or recommendations thereon being made by such agency or instrumentality.
 
@@ -24,9 +24,9 @@ The Office of Management and Budget, or such other agency as may be designated b
 
 #### Amendments
 
-<b>1973</b>—Subsec. (a). Pub. L. 93–83 reenacted amendment by Pub. L. 90–351, inserting “law enforcement facilities,” after “transportation facilities,”.
+<b>1973</b>—Subsec. (a). Pub. L. 93–83 reenacted amendment by Pub. L. 90–351, inserting "law enforcement facilities," after "transportation facilities,".
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–351 inserted “law enforcement facilities,” after “transportation facilities,”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–351 inserted "law enforcement facilities," after "transportation facilities,".
 
 #### Transfer of Functions
 

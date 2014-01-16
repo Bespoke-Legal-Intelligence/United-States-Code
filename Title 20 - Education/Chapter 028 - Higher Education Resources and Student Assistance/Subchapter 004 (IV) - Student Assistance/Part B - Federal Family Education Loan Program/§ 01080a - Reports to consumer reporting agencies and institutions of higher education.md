@@ -24,7 +24,7 @@ Agreements entered into pursuant to this section shall contain such provisions a
 
 &emsp;(1) no information is disclosed by the Secretary or the guaranty agency, eligible lender, or subsequent holder unless its accuracy and completeness have been verified and the Secretary or the guaranty agency has determined that disclosure would accomplish the purpose of this section;
 
-&emsp;(2) as to any information so disclosed, such consumer reporting agencies will be promptly notified of, and will promptly record, any change submitted by the Secretary, the guaranty agency, eligible lender, or subsequentholder with respect to such information, or any objections by the borrower with respect to any such information, as required by section 611 of the Fair Credit Reporting Act (15 U.S.C. 1681i);
+&emsp;(2) as to any information so disclosed, such consumer reporting agencies will be promptly notified of, and will promptly record, any change submitted by the Secretary, the guaranty agency, eligible lender, or subsequent holder with respect to such information, or any objections by the borrower with respect to any such information, as required by section 611 of the Fair Credit Reporting Act (15 U.S.C. 1681i);
 
 &emsp;(3) no use will be made of any such information which would result in the use of collection practices with respect to such a borrower that are not fair and reasonable or that involve harassment, intimidation, false or misleading representations, or unnecessary communication concerning the existence of such loan or concerning any such information; and
 
@@ -60,27 +60,27 @@ A prior section 1080a, Pub. L. 89–329, title IV, §430A, as added Pub. L. 99�
 
 #### Amendments
 
-<b>2009</b>—Subsec. (f). Pub. L. 111–39, in introductory provisions, substituted “and (5)” for “and (6)” and “(a)(5)” for “(a)(6)”.
+<b>2009</b>—Subsec. (f). Pub. L. 111–39, in introductory provisions, substituted "and (5)" for "and (6)" and "(a)(5)" for "(a)(6)".
 
-<b>2008</b>—Pub. L. 110–315, §432(a)(1), substituted “consumer reporting agencies” for “credit bureaus” in section catchline.
+<b>2008</b>—Pub. L. 110–315, §432(a)(1), substituted "consumer reporting agencies" for "credit bureaus" in section catchline.
 
 Subsec. (a). Pub. L. 110–315, §432(a)(2)(B)–(D), added pars. (1) and (3) and redesignated former pars. (1), (2) and (3) as (2), (4) and (5), respectively.
 
-Pub. L. 110–315, §432(a)(2)(A), in introductory provisions, substituted “the Secretary and” for “the Secretary,” and “an agreement with each consumer reporting agency” for “agreements with credit bureau organizations” in first sentence, “such consumer reporting agencies” for “such organizations” in two places and “insurance) or by” for “insurance), by” in second sentence, and “Secretary or” for “Secretary,” and “consumer reporting agencies” for “organizations” in third sentence.
+Pub. L. 110–315, §432(a)(2)(A), in introductory provisions, substituted "the Secretary and" for "the Secretary," and "an agreement with each consumer reporting agency" for "agreements with credit bureau organizations" in first sentence, "such consumer reporting agencies" for "such organizations" in two places and "insurance) or by" for "insurance), by" in second sentence, and "Secretary or" for "Secretary," and "consumer reporting agencies" for "organizations" in third sentence.
 
-Subsec. (b). Pub. L. 110–315, §432(a)(3), substituted “consumer reporting agencies” for “organizations” and “subsection (a)(4)” for “subsection (a)(2)”.
+Subsec. (b). Pub. L. 110–315, §432(a)(3), substituted "consumer reporting agencies" for "organizations" and "subsection (a)(4)" for "subsection (a)(2)".
 
-Subsec. (c)(2). Pub. L. 110–315, §432(a)(4)(A), substituted “consumer reporting agencies” for “organizations”.
+Subsec. (c)(2). Pub. L. 110–315, §432(a)(4)(A), substituted "consumer reporting agencies" for "organizations".
 
-Subsec. (c)(4). Pub. L. 110–315, §432(a)(4)(B)(i), substituted “subsection (a)(4)” for “subsection (a)(2)”.
+Subsec. (c)(4). Pub. L. 110–315, §432(a)(4)(B)(i), substituted "subsection (a)(4)" for "subsection (a)(2)".
 
-Subsec. (c)(4)(A). Pub. L. 110–315, §432(a)(4)(B)(ii), substituted “consumer reporting agencies” for “credit bureau organizations”.
+Subsec. (c)(4)(A). Pub. L. 110–315, §432(a)(4)(B)(ii), substituted "consumer reporting agencies" for "credit bureau organizations".
 
-Subsec. (d). Pub. L. 110–315, §432(a)(5), substituted “consumer reporting agency” for “credit bureau organization”.
+Subsec. (d). Pub. L. 110–315, §432(a)(5), substituted "consumer reporting agency" for "credit bureau organization".
 
 <b>1993</b>—Subsec. (f)(1). Pub. L. 103–208 substituted a semicolon for the comma at end.
 
-<b>1992</b>—Subsec. (f). Pub. L. 102–325 struck out “or” at end of par. (1), added pars. (2) and (3), and struck out former par. (2) which read as follows: “with regard to an account on a loan on which the Secretary or the guaranty agency has paid a claim but not reported the account to a consumer reporting agency on or before October 1, 1985, 7 years from that date.”
+<b>1992</b>—Subsec. (f). Pub. L. 102–325 struck out "or" at end of par. (1), added pars. (2) and (3), and struck out former par. (2) which read as follows: "with regard to an account on a loan on which the Secretary or the guaranty agency has paid a claim but not reported the account to a consumer reporting agency on or before October 1, 1985, 7 years from that date."
 
 <b>1987</b>—Subsec. (e). Pub. L. 100–50 inserted sentence at end permitting an eligible institution to enter into arrangements with holders of delinquent loans made to borrowers for purpose of providing current information on borrower's location or employment or to assist holder in contacting and influencing borrower to avoid default.
 

@@ -12,7 +12,7 @@ The Secretary, utilizing the services of the Director of the National Institute 
 
 #### (b) Cooperation with scientific, technical, and professional societies and industry representatives in development of performance criteria and test procedures
 
-In the development of the performance criteria and test procedures required under sections 5503, 5504, and 5506 of this title, the Secretary shall work closely with the appropriate scientific, technical, and professional societiesand industry representatives to insure the best possible use of available expertise in this area.
+In the development of the performance criteria and test procedures required under sections 5503, 5504, and 5506 of this title, the Secretary shall work closely with the appropriate scientific, technical, and professional societies and industry representatives to insure the best possible use of available expertise in this area.
 
 #### (c) Continued liaison with building and related industries and scientific and technical communities
 
@@ -22,5 +22,5 @@ The Secretary shall also maintain continuing liaison with the building industry 
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–418 substituted "National Institute of Standards and Technology" for "National Bureau of Standards".
 

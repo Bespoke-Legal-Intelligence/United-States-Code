@@ -54,7 +54,7 @@
 
 #### (3) Eligible rollover distribution
 
-&emsp;For purposes of this subsection, the term “eligible rollover distribution” has the meaning given such term by section 402(f)(2)(A).
+&emsp;For purposes of this subsection, the term "eligible rollover distribution" has the meaning given such term by section 402(f)(2)(A).
 
 #### (d) Liability for withholding
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “designated distribution” means any distribution or payment from or under—
+&emsp;&emsp;Except as provided in subparagraph (B), the term "designated distribution" means any distribution or payment from or under—
 
 &emsp;&emsp;&emsp;(i) an employer deferred compensation plan,
 
@@ -102,13 +102,13 @@ For purposes of this section—
 
 #### (B) Exceptions
 
-&emsp;&emsp;The term “designated distribution” shall not include—
+&emsp;&emsp;The term "designated distribution" shall not include—
 
 &emsp;&emsp;&emsp;(i) any amount which is wages without regard to this section,
 
 &emsp;&emsp;&emsp;(ii) the portion of a distribution or payment which it is reasonable to believe is not includible in gross income, and
 
-&emsp;&emsp;&emsp;(iii) any amount which is subject to withholding under subchapter A of chapter 3 (relating to withholding of tax on nonresident aliens and foreign corporations) by the person paying such amount or which would be so subject but for a tax treaty, or
+&emsp;&emsp;&emsp;(iii) any amount which is subject to withholding under subchapter A of chapter3 (relating to withholding of tax on nonresident aliens and foreign corporations) by the person paying such amount or which would be so subject but for a tax treaty, or
 
 &emsp;&emsp;&emsp;(iv) any distribution described in section 404(k)(2).
 
@@ -116,29 +116,29 @@ For purposes of this section—
 
 #### (2) Periodic payment
 
-&emsp;The term “periodic payment” means a designated distribution which is an annuity or similar periodic payment.
+&emsp;The term "periodic payment" means a designated distribution which is an annuity or similar periodic payment.
 
 #### (3) Nonperiodic distribution
 
-&emsp;The term “nonperiodic distribution” means any designated distribution which is not a periodic payment.
+&emsp;The term "nonperiodic distribution" means any designated distribution which is not a periodic payment.
 
 #### \[(4) Repealed. Pub. L. 102–318, title V, §521(b)(38), July 3, 1992, 106 Stat. 312\]
 
 #### (5) Employer deferred compensation plan
 
-&emsp;The term “employer deferred compensation plan” means any pension, annuity, profit-sharing, or stock bonus plan or other plan deferring the receipt of compensation.
+&emsp;The term "employer deferred compensation plan" means any pension, annuity, profit-sharing, or stock bonus plan or other plan deferring the receipt of compensation.
 
 #### (6) Commercial annuity
 
-&emsp;The term “commercial annuity” means an annuity, endowment, or life insurance contract issued by an insurance company licensed to do business under the laws of any State.
+&emsp;The term "commercial annuity" means an annuity, endowment, or life insurance contract issued by an insurance company licensed to do business under the laws of any State.
 
 #### (7) Plan administrator
 
-&emsp;The term “plan administrator” has the meaning given such term by section 414(g).
+&emsp;The term "plan administrator" has the meaning given such term by section 414(g).
 
 #### (8) Maximum amount withheld
 
-&emsp;The maximum amount to be withheld under this section on any designated distribution shall not exceed the sum of the amount of money and the fair market value of other property (other than securities of the employer corporation) received in the distribution. No amount shall be required to be withheld under this section in the case of any designated distribution which consists only of securities of the employer corporation and cash (not in excess of $200) in lieu of financial shares. For purposes of this paragraph, the term “securities of the employer corporation” has the meaning given such term by section 402(e)(4)(E).
+&emsp;The maximum amount to be withheld under this section on any designated distribution shall not exceed the sum of the amount of money and the fair market value of other property (other than securities of the employer corporation) received in the distribution. No amount shall be required to be withheld under this section in the case of any designated distribution which consists only of securities of the employer corporation and cash (not in excess of $200) in lieu of financial shares. For purposes of this paragraph, the term "securities of the employer corporation" has the meaning given such term by section 402(e)(4)(E).
 
 #### (9) Separate arrangements to be treated separately
 
@@ -172,7 +172,7 @@ For purposes of this section—
 
 #### (11) Withholding includes deduction
 
-&emsp;The terms “withholding”, “withhold”, and “withheld” include “deducting”, “deduct”, and “deducted”.
+&emsp;The terms "withholding", "withhold", and "withheld" include "deducting", "deduct", and "deducted".
 
 #### (12) Failure to provide correct TIN
 
@@ -214,51 +214,51 @@ Section 301(d) of the Tax Reduction Act of 1975, referred to in subsec. (d)(2)(B
 
 #### Amendments
 
-<b>2001</b>—Subsec. (c)(3). Pub. L. 107–16, §641(a)(1)(D)(ii), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “For purposes of this subsection, the term ‘eligible rollover distribution’ has the meaning given such term by section 402(f)(2)(A) (or in the case of an annuity contract under section 403(b), a distribution from such contract described in section 402(f)(2)(A)).”
+<b>2001</b>—Subsec. (c)(3). Pub. L. 107–16, §641(a)(1)(D)(ii), reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: "For purposes of this subsection, the term 'eligible rollover distribution' has the meaning given such term by section 402(f)(2)(A) (or in the case of an annuity contract under section 403(b), a distribution from such contract described in section 402(f)(2)(A))."
 
 Subsec. (d)(2)(B)(iv). Pub. L. 107–16, §641(a)(1)(D)(iii), added cl. (iv).
 
-<b>2000</b>—Subsec. (e)(1)(B). Pub. L. 106–554 inserted “(other than a Roth IRA)” after “individual retirement plan” in concluding provisions.
+<b>2000</b>—Subsec. (e)(1)(B). Pub. L. 106–554 inserted "(other than a Roth IRA)" after "individual retirement plan" in concluding provisions.
 
-<b>1996</b>—Subsec. (e)(12). Pub. L. 104–188 substituted “(b)(2)” for “(b)(3)” in closing provisions.
+<b>1996</b>—Subsec. (e)(12). Pub. L. 104–188 substituted "(b)(2)" for "(b)(3)" in closing provisions.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–318, §521(b)(36), substituted “Periodic payments” for “Pensions, annuities, etc.” in heading.
+<b>1992</b>—Subsec. (a). Pub. L. 102–318, §521(b)(36), substituted "Periodic payments" for "Pensions, annuities, etc." in heading.
 
-Subsec. (a)(1). Pub. L. 102–318, §522(b)(2)(A), substituted “subsection (e)(2)” for “subsection (d)(2)”.
+Subsec. (a)(1). Pub. L. 102–318, §522(b)(2)(A), substituted "subsection (e)(2)" for "subsection (d)(2)".
 
-Subsec. (b)(1). Pub. L. 102–318, §§521(b)(37)(A), 522(b)(2)(B), substituted “subsection (e)(3)” for “subsection (d)(3)” and “an amount equal to 10 percent of such distribution” for “the amount determined under paragraph (2)”.
+Subsec. (b)(1). Pub. L. 102–318, §§521(b)(37)(A), 522(b)(2)(B), substituted "subsection (e)(3)" for "subsection (d)(3)" and "an amount equal to 10 percent of such distribution" for "the amount determined under paragraph (2)".
 
 Subsec. (b)(2), (3). Pub. L. 102–318, §521(b)(37)(B), redesignated par. (3) as (2) and struck out former par. (2) which related to amount of withholding.
 
 Subsec. (c). Pub. L. 102–318, §522(b)(1), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 102–318, §522(b)(1), (2)(C), redesignated subsec. (c) as (d) and substituted “subsection (e)(1)” for “subsection (d)(1)” in par. (1). Former subsec. (d) redesignated (e).
+Subsec. (d). Pub. L. 102–318, §522(b)(1), (2)(C), redesignated subsec. (c) as (d) and substituted "subsection (e)(1)" for "subsection (d)(1)" in par. (1). Former subsec. (d) redesignated (e).
 
-Pub. L. 102–318, §521(b)(40), substituted “(b)(2)” for “(b)(3)” in par. (13)(A).
+Pub. L. 102–318, §521(b)(40), substituted "(b)(2)" for "(b)(3)" in par. (13)(A).
 
-Pub. L. 102–318, §521(b)(39), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “The maximum amount to be withheld under this section on any designated distribution shall not exceed the sum ofthe amount of money and the fair market value of other property (other than employer securities of the employer corporation (within the meaning of section 402(a)(3))) received in the distribution. No amount shall be required to be withheld under this section in the case of any designated distribution which consists only of employer securities of the employer corporation (within the meaning of section 402(a)(3)) and cash (not in excess of $200) in lieu of fractional shares.”
+Pub. L. 102–318, §521(b)(39), amended par. (8) generally. Prior to amendment, par. (8) read as follows: "The maximum amount to be withheld under this section on any designated distribution shall not exceed the sum of the amount of money and the fair market value of other property (other than employer securities of the employer corporation (within the meaning of section 402(a)(3))) received in the distribution. No amount shall be required to be withheld under this section in the case of any designated distribution which consists only of employer securities of the employer corporation (within the meaning of section 402(a)(3)) and cash (not in excess of $200) in lieu of fractional shares."
 
-Pub. L. 102–318, §521(b)(38), struck out par. (4) which defined “qualified total distribution” and provided special rule for accumulated deductible employee contributions in determining qualified total distribution.
+Pub. L. 102–318, §521(b)(38), struck out par. (4) which defined "qualified total distribution" and provided special rule for accumulated deductible employee contributions in determining qualified total distribution.
 
 Subsecs. (e), (f). Pub. L. 102–318, §522(b)(1), redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 
-<b>1988</b>—Subsec. (d)(13). Pub. L. 100–647, §1012(bb)(2)(C), substituted “United States or its possessions” for “United States” in heading.
+<b>1988</b>—Subsec. (d)(13). Pub. L. 100–647, §1012(bb)(2)(C), substituted "United States or its possessions" for "United States" in heading.
 
-Subsec. (d)(13)(A). Pub. L. 100–647, §1012(bb)(2)(A), substituted “the United States and any possession of the United States” for “the United States”.
+Subsec. (d)(13)(A). Pub. L. 100–647, §1012(bb)(2)(A), substituted "the United States and any possession of the United States" for "the United States".
 
-Subsec. (d)(13)(B)(i). Pub. L. 100–647, §1012(bb)(2)(B), amended cl. (i) generally, substituting “or a resident alien of the United States” for “who is a bona fide resident of a foreign country”.
+Subsec. (d)(13)(B)(i). Pub. L. 100–647, §1012(bb)(2)(B), amended cl. (i) generally, substituting "or a resident alien of the United States" for "who is a bona fide resident of a foreign country".
 
-<b>1986</b>—Subsec. (d)(1)(B). Pub. L. 99–514, §1102(e)(1), inserted last sentence for “For purposes of clause (ii), any distribution or payment from or under an individual retirement plan shall be treated as includible in gross income.”
+<b>1986</b>—Subsec. (d)(1)(B). Pub. L. 99–514, §1102(e)(1), inserted last sentence for "For purposes of clause (ii), any distribution or payment from or under an individual retirement plan shall be treated as includible in gross income."
 
 Subsec. (d)(1)(B)(iii), (iv). Pub. L. 99–514, §1875(c)(10), reenacted cl. (iii) relating to amounts subject to withholding under subchapter A of chapter 3 as cl. (iii) and reenacted cl. (iii) relating to distribution described in section 404(k)(2) as cl. (iv).
 
 Subsec. (d)(13). Pub. L. 99–514, §1234(b)(1), added par. (13).
 
-<b>1984</b>—Subsec. (b)(2)(C). Pub. L. 98–369, §714(j)(1), substituted “nonperiodic distribution” for “distribution described in subparagraph (B)” and “subparagraph (A) or (B) (as the case may be) shall be applied by taking into account” for “the Secretary, in prescribing tables or procedures under paragraph (1), shall take into account”, designated phrase “which is made by reason of a participant's death” as cl. (i) and added cl. (ii).
+<b>1984</b>—Subsec. (b)(2)(C). Pub. L. 98–369, §714(j)(1), substituted "nonperiodic distribution" for "distribution described in subparagraph (B)" and "subparagraph (A) or (B) (as the case may be) shall be applied by taking into account" for "the Secretary, in prescribing tables or procedures under paragraph (1), shall take into account", designated phrase "which is made by reason of a participant's death" as cl. (i) and added cl. (ii).
 
 Subsec. (d)(1)(B)(iii). Pub. L. 98–369, §714(j)(4), added cl. (iii) relating to amounts subject to withholding under subchapter A of chapter 3.
 
-Pub. L. 98–369, §542(c), added cl. (iii) relating to distributions described in section 404(k)(2). Directory language that section (d)(1)(B) be amended by striking out “and” at end of cl. (i) and substituting “, or” for the period at end of cl. (ii) could not be executed in view of prior amendment by section 714(j)(4) of Pub. L. 98–369, which struck out “and” at end of cl. (i) and substituted “, and” for the period at end of cl. (ii).
+Pub. L. 98–369, §542(c), added cl. (iii) relating to distributions described in section 404(k)(2). Directory language that section (d)(1)(B) be amended by striking out "and" at end of cl. (i) and substituting ", or" for the period at end of cl. (ii) could not be executed in view of prior amendment by section 714(j)(4) of Pub. L. 98–369, which struck out "and" at end of cl. (i) and substituted ", and" for the period at end of cl. (ii).
 
 Subsec. (d)(8). Pub. L. 98–369, §714(j)(5), freed from withholding requirement any designated distribution which consists only of employer securities of the employer corporation (within the meaning of section 402(a)(3)) and cash (not in excess of $200) in lieu of fractional shares.
 
@@ -274,19 +274,19 @@ Amendment by Pub. L. 106–554 effective as if included in the provisions of the
 
 #### Effective Date of 1992 Amendment
 
-Amendment by section 521(b)(36)–(40) of Pub. L. 102–318 applicable to distributions after Dec. 31, 1992, see section 521(e) of Pub. L. 102–318, set out as a note under section 402 of this title.
+Amendment by section 521(b)(36)–(40) of Pub. L. 102–318 applicable to distributions after Dec. 31, 1992,see section 521(e) of Pub. L. 102–318, set out as a note under section 402 of this title.
 
 Amendment by section 522(b)(1)–(2)(C) of Pub. L. 102–318 applicable, except as otherwise provided, to distributions after Dec. 31, 1992, see section 522(d) of Pub. L. 102–318, set out as a note under section 401 of this title.
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title I, §1012(bb)(2)(D), Nov. 10, 1988, 102 Stat. 3534, provided that: “The amendments made by this paragraph \[amending this section\] shall apply to distributions made after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title I, §1012(bb)(2)(D), Nov. 10, 1988, 102 Stat. 3534, provided that: "The amendments made by this paragraph \[amending this section\] shall apply to distributions made after the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 #### Effective Date of 1986 Amendment
 
 Amendment by section 1102(e)(1) of Pub. L. 99–514 applicable to contributions and distributions for taxable years beginning after Dec. 31, 1986, see section 1102(g) of Pub. L. 99–514, set out as a note under section 219 of this title.
 
-Pub. L. 99–514, title XII, §1234(b)(2), Oct. 22, 1986, 100 Stat. 2566, provided that: “The amendment made by this subsection \[amending this section\] shall apply to payments after December 31, 1986.”
+Pub. L. 99–514, title XII, §1234(b)(2), Oct. 22, 1986, 100 Stat. 2566, provided that: "The amendment made by this subsection \[amending this section\] shall apply to payments after December 31, 1986."
 
 Amendment by section 1875(c)(10) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
@@ -302,31 +302,31 @@ Amendment by section 722(h)(4)(A) of Pub. L. 98–369 applicable to payments or 
 
 Pub. L. 97–248, title III, §334(e), Sept. 3, 1982, 96 Stat. 627, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 Amendment made by subsections (a)
 
 and (d).—Except as provided in paragraph (4), the amendment made by subsections (a) \[enacting this section\] and (d) \[amending section 3402 of this title\] shall apply to payments or other distributions made after December 31, 1982.
 
-“(2)
+"(2)
 
 Amendments made by subsection (b).—Except as provided in paragraph (4), the amendments made by subsection (b) \[amending section 6047 of this title\] shall take effect on January 1, 1983.
 
-“(3)
+"(3)
 
 Amendments made by subsection (c).—The amendments made by subsection (c) \[enacting section 6704 of this title\] shall take effect on January 1, 1985.
 
-“(4)
+"(4)
 
 Periodic payments beginning before january 1, 1983.—For purposes of section 3405(a) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the case of periodic payments beginning before January 1, 1983, the first periodic payment after December 31, 1982, shall be treated as the first such periodic payment.
 
-“(5)
+"(5)
 
 Delay in application.—The Secretary of the Treasury shall prescribe such regulations which delay (but not beyond June 30, 1983) the application of some or all of the amendments made by this section with respect to any payor until such time as such payor is able to comply without undue hardship with the requirements of such provisions.
 
-“(6)
+"(6)
 
-Waiver of penalty.—No penalty shall be assessed under section 6672 with respect to any failure to withhold as required by the amendments made by this section if such failure was before July 1, 1983, and if the person made a good faith effort to comply with such withholding requirements.”
+Waiver of penalty.—No penalty shall be assessed under section 6672 with respect to any failure to withhold as required by the amendments made by this section if such failure was before July 1, 1983, and if the person made a good faith effort to comply with such withholding requirements."
 
 #### Plan Amendments Not Required Until January 1, 1994
 

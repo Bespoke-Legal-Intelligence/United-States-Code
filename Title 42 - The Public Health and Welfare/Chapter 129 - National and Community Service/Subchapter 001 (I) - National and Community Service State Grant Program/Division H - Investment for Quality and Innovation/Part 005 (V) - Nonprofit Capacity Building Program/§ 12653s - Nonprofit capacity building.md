@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Intermediary nonprofit grantee
 
-&emsp;The term “intermediary nonprofit grantee” means an intermediary nonprofit organization that receives a grant under subsection (b).
+&emsp;The term "intermediary nonprofit grantee" means an intermediary nonprofit organization that receives a grant under subsection (b).
 
 #### (2) Intermediary nonprofit organization
 
-&emsp;The term “intermediary nonprofit organization” means an experienced and capable nonprofit entity with meaningful prior experience in providing organizational development assistance, or capacity building assistance, focused on small and midsize nonprofit organizations.
+&emsp;The term "intermediary nonprofit organization" means an experienced and capable nonprofit entity with meaningful prior experience in providing organizational development assistance, or capacity building assistance, focused on small and midsize nonprofit organizations.
 
 #### (3) Nonprofit
 
-&emsp;The term “nonprofit”, used with respect to an entity or organization, means—
+&emsp;The term "nonprofit", used with respect to an entity or organization, means—
 
 &emsp;&emsp;(A) an entity or organization described in section 501(c)(3) of title 26 and exempt from taxation under section 501(a) of such title; and
 
@@ -22,7 +22,7 @@ In this section:
 
 #### (4) State
 
-&emsp;The term “State” means each of the several States, and the District of Columbia.
+&emsp;The term "State" means each of the several States, and the District of Columbia.
 
 #### (b) Grants
 

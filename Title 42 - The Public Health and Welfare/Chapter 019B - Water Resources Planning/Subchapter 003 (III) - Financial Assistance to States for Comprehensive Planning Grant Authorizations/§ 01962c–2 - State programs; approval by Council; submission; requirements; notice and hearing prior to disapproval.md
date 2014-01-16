@@ -6,7 +6,7 @@ The Council shall approve any program for comprehensive water and related land r
 
 &emsp;(2) provides, where comprehensive statewide development planning is being carried on with or without assistance under section 701 of the Housing Act of 1954 <sup>1</sup> or under the Land and Water Conservation Fund Act of 1965 \[16 U.S.C. 460l–4 et seq.\], for full coordination between comprehensive water resources planning and other statewide planning programs and for assurances that such water resources planning will be in conformity with the general development policy in such State;
 
-&emsp;(3) designates a State agency (hereinafter referred to as the “State agency”) to administer the program;
+&emsp;(3) designates a State agency (hereinafter referred to as the "State agency") to administer the program;
 
 &emsp;(4) provides that the State agency will make such reports in such form and containing such information as the Council from time to time reasonably requires to carry out its functions under this subchapter;
 

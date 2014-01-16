@@ -8,7 +8,7 @@ To assist health care providers to adopt, implement, and effectively use certifi
 
 #### (1) In general
 
-&emsp;The Secretary shall create a Health Information Technology Research Center (in this section referred to as the “Center”) to provide technical assistance and develop or recognize best practices to support and accelerate efforts to adopt, implement, and effectively utilize health information technology that allows for the electronic exchange and use of information in compliance with standards, implementation specifications, and certification criteria adopted under section 300jj–14 of this title.
+&emsp;The Secretary shall create a Health Information Technology Research Center (in this section referred to as the "Center") to provide technical assistance and develop or recognize best practices to support and accelerate efforts to adopt, implement, and effectively utilize health information technology that allows for the electronic exchange and use of information in compliance with standards, implementation specifications, and certification criteria adopted under section 300jj–14 of this title.
 
 #### (2) Input
 
@@ -30,7 +30,7 @@ To assist health care providers to adopt, implement, and effectively use certifi
 
 &emsp;&emsp;(C) assemble, analyze, and widely disseminate evidence and experience related to the adoption, implementation, and effective use of health information technology that allows for the electronic exchange and use of information including through the regional centers described in subsection (c);
 
-&emsp;&emsp;(D) provide technical assistance for the establishment and evaluation of regional and local health information networks to facilitate the electronic exchange of information across health care settings and improve the quality of health care;
+&emsp;&emsp;(D) provide technical assistance for the establishment and evaluation of regional andlocal health information networks to facilitate the electronic exchange of information across health care settings and improve the quality of health care;
 
 &emsp;&emsp;(E) provide technical assistance for the development and dissemination of solutions to barriers to the exchange of electronic health information; and
 
@@ -40,7 +40,7 @@ To assist health care providers to adopt, implement, and effectively use certifi
 
 #### (1) In general
 
-&emsp;The Secretary shall provide assistance for the creation and support of regional centers (in this subsection referred to as “regional centers”) to provide technical assistance and disseminate best practices and other information learned from the Center to support and accelerate efforts to adopt, implement, and effectively utilize health information technology that allows for the electronic exchange and use of information in compliance with standards, implementation specifications, and certification criteria adopted under section 300jj–14 of this title. Activities conducted under this subsection shall be consistent with the strategic plan developed by the National Coordinator, (and, as available) under section 300jj–11 of this title.
+&emsp;The Secretary shall provide assistance for the creation and support of regional centers (in this subsection referred to as "regional centers") to provide technical assistance and disseminate best practices and other information learned from the Center to support and accelerate efforts to adopt, implement, and effectively utilize health information technology that allows for the electronic exchange and use of information in compliance with standards, implementation specifications, and certification criteria adopted under section 300jj–14 of this title. Activities conducted under this subsection shall be consistent with the strategic plan developed by the National Coordinator, (and, as available) under section 300jj–11 of this title.
 
 #### (2) Affiliation
 
@@ -108,7 +108,7 @@ To assist health care providers to adopt, implement, and effectively use certifi
 
 #### (9) Continuing support
 
-&emsp;After the second year of assistance under this subsection, a regional center may receive additional support under this subsection if it has received positive evaluations and a findingby the Secretary that continuation of Federal funding to the center was in the best interest of provision of health information technology extension services.
+&emsp;After the second year of assistance under this subsection, a regional center may receive additional support under this subsection if it has received positive evaluations and a finding by the Secretary that continuation of Federal funding to the center was in the best interest of provision of health information technology extension services.
 
 (July 1, 1944, ch. 373, title XXX, §3012, as added Pub. L. 111–5, div. A, title XIII, §13301, Feb. 17, 2009, 123 Stat. 247.)
 

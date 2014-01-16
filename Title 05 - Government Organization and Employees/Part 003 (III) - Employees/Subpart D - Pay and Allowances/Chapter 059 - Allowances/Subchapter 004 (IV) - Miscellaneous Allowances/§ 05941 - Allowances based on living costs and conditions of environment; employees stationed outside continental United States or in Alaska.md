@@ -122,7 +122,7 @@ Agencies Covered. Subject to the provisions of section 207 of the Act and of thi
 
 Sec. 105.
 
-Persons Eligible to Receive Foreign Post Differential. (a) In order that an employee be eligible to receive a foreign post differential under this Part, (1) he shall be a citizen or national of the United States, (2) his residence in the place to which the foreign post differential applies, at the time of receipt thereof, shall be fairly attributable to his employment by the United States, and (3) his residence at such place over an appropriate prior period of time must not be fairly attributable to reasons other than employment by the United States or by United States firms, interests, or organizations.
+Persons Eligible to Receive Foreign Post Differential. (a) In order that an employee be eligible to receive a foreign post differential under this Part, (1) he shall be a citizen or national of the United States, (2) his residence in the place to which the foreign post differential applies, at the time of receipt thereof, shallbe fairly attributable to his employment by the United States, and (3) his residence at such place over an appropriate prior period of time must not be fairly attributable to reasons other than employment by the United States or by United States firms, interests, or organizations.
 
 (b) Subject to the provisions of section 105(a) hereof, the classes of persons eligible to receive the foreign post differentials fixed pursuant to section 102 hereof shall include:
 
@@ -236,7 +236,7 @@ Temporary Regulations. During the period commencing with the date of this order 
 
 Sec. 601.
 
-Publication. This order, and the places designated, the rates fixed, and the regulations prescribedby the Secretary of State and the Office of Personnel Management pursuant to Parts I and II of this order, shall be published in the Federal Register.
+Publication. This order, and the places designated, the rates fixed, and the regulations prescribed by the Secretary of State and the Office of Personnel Management pursuant to Parts I and II of this order, shall be published in the Federal Register.
 
 #### Executive Order No. 12070
 

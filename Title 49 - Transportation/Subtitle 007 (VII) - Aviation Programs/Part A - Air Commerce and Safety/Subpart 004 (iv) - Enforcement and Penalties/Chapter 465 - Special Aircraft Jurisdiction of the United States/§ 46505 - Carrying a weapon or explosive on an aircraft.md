@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “loaded firearm” means a starter gun or a weapon designed or converted to expel a projectile through an explosive, that has a cartridge, a detonator, or powder in the chamber, magazine, cylinder, or clip.
+Definition.—In this section, "loaded firearm" means a starter gun or a weapon designed or converted to expel a projectile through an explosive, that has a cartridge, a detonator, or powder in the chamber, magazine, cylinder, or clip.
 
 (b)
 
@@ -12,7 +12,7 @@ General Criminal Penalty.—An individual shall be fined under title 18, impriso
 
 &emsp;(2) has placed, attempted to place, or attempted to have placed a loaded firearm on that aircraft in property not accessible to passengers in flight; or
 
-&emsp;(3) has on or about the individual, or has placed, attempted to place, or attempted to have placed on that aircraft, an explosive or incendiary device.
+&emsp;(3) has on or about the individual, or has placed, attempted to place, or attempted tohave placed on that aircraft, an explosive or incendiary device.
 
 (c)
 
@@ -68,31 +68,31 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §902(<i>l</i>)(2); added Sept. 5
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §902(<i>l</i>)(3); added Sept. 5, 1961, Pub. L. 87–197, §1, 75 Stat. 466; restated Aug. 5, 1974, Pub. L. 93–366, §203, 88 Stat. 418; Feb. 18, 1980, Pub. L. 96–193, §502(b), 94 Stat. 59.
 
-In subsection (a), the definition of “firearm” is merged with the definition of “loaded firearm” because the term “firearm” is only used in the defined term “loaded firearm”.
+In subsection (a), the definition of "firearm" is merged with the definition of "loaded firearm" because the term "firearm" is only used in the defined term "loaded firearm".
 
-In subsections (b) and (c), the words “fined under title 18” are substituted for “fined not more than $10,000” and “fined not more than $25,000” for consistency with title 18.
+In subsections (b) and (c), the words "fined under title 18" are substituted for "fined not more than $10,000" and "fined not more than $25,000" for consistency with title 18.
 
-In subsections (b)(1) and (d)(2), the words “deadly or” are omitted as surplus.
+In subsections (b)(1) and (d)(2), the words "deadly or" are omitted as surplus.
 
-In subsection (b)(2), the words “baggage or other” are omitted as surplus.
+In subsection (b)(2), the words "baggage or other" are omitted as surplus.
 
-In subsection (b)(3), the words “bomb or similar” are omitted as surplus.
+In subsection (b)(3), the words "bomb or similar" are omitted as surplus.
 
-In subsection (d)(1), the words “State or political subdivision of a State” are substituted for “municipal or State government” for consistency in the revised title and with other titles of the United States Code. The words “or required” are omitted as surplus.
+In subsection (d)(1), the words "State or political subdivision of a State" are substituted for "municipal or State government" for consistency in the revised title and with other titles of the United States Code. The words "or required" are omitted as surplus.
 
-In subsection (d)(3), the word “contained” is omitted as surplus.
+In subsection (d)(3), the word "contained" is omitted as surplus.
 
 #### Amendments
 
-<b>2001</b>—Subsec. (c). Pub. L. 107–56, §810(g), substituted “20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.” for “15 years, or both.”
+<b>2001</b>—Subsec. (c). Pub. L. 107–56, §810(g), substituted "20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life." for "15 years, or both."
 
-Subsec. (d)(2). Pub. L. 107–71, §140(d)(8), inserted “or the Under Secretary of Transportation for Security” after “Federal Aviation Administration”.
+Subsec. (d)(2). Pub. L. 107–71, §140(d)(8), inserted "or the Under Secretary of Transportation for Security" after "Federal Aviation Administration".
 
 Subsec. (e). Pub. L. 107–56, §811(j), added subsec. (e).
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–132, §705(b)(1), substituted “10 years” for “one year”.
+<b>1996</b>—Subsec. (b). Pub. L. 104–132, §705(b)(1), substituted "10 years" for "one year".
 
-Subsec. (c). Pub. L. 104–132, §705(b)(2), substituted “15 years” for “5 years”.
+Subsec. (c). Pub. L. 104–132, §705(b)(2), substituted "15 years" for "5 years".
 
 #### Transfer of Functions
 

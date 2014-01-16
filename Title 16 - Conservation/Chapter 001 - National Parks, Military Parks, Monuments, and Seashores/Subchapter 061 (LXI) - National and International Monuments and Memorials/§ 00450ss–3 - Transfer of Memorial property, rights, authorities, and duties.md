@@ -30,7 +30,7 @@ Not later than 30 days after the transfer under subsection (a) of this section i
 
 #### (d) Authority to enter into agreements
 
-The Secretary, acting through the National Park Service, is authorized to enter into 1 or more cooperative agreements with the Foundation for the National Park Service to provide interpretive services related to the Memorial and such other assistance as may be agreed upon between the Secretary and the Foundation. The costs of the services and other agreed assistance shall be paid by the Secretary.
+The Secretary, acting through the National Park Service, is authorized to enter into 1 ormore cooperative agreements with the Foundation for the National Park Service to provide interpretive services related to the Memorial and such other assistance as may be agreed upon between the Secretary and the Foundation. The costs of the services and other agreed assistance shall be paid by the Secretary.
 
 #### (e) General Services Administration authority
 
@@ -48,5 +48,5 @@ Nothing in sections 450ss to 450ss–7 of this title shall prohibit the use of S
 
 #### Authorization of Secretary To Reimburse Previous Costs Paid by Foundation or Trust
 
-Pub. L. 108–199, div. F, title V, §544(g), Jan. 23, 2004, 118 Stat. 348, provided that: “To the extent that fundsare made available for the Trust, the Secretary of the Interior shall reimburse the Oklahoma City National Memorial Foundation for funds obligated or expended by the Oklahoma City National Memorial Foundation or the Oklahoma City National Memorial Trust to the Secretary of the Interior for interpretive services, security, and other costs and services related to the Oklahoma City National Memorial before the date of the enactment of this Act \[Jan. 23, 2004\]. The Oklahoma City National Memorial Foundation may use such reimbursed funds for the operation, maintenance, and permanent endowment of the Oklahoma City National Memorial.”
+Pub. L. 108–199, div. F, title V, §544(g), Jan. 23, 2004, 118 Stat. 348, provided that: "To the extent that funds are made available for the Trust, the Secretary of the Interior shall reimburse the Oklahoma City National Memorial Foundation for funds obligated or expended by the Oklahoma City National Memorial Foundation or the Oklahoma City National Memorial Trust to the Secretary of the Interior for interpretive services, security, and other costs and services related to the Oklahoma City National Memorial before the date of the enactment of this Act \[Jan. 23, 2004\]. The Oklahoma City National Memorial Foundation may use such reimbursed funds for the operation, maintenance, and permanent endowment of the Oklahoma City National Memorial."
 

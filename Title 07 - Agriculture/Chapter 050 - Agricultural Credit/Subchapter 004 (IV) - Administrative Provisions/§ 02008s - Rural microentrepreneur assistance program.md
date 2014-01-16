@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning given the term in section 450b of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 450b of title 25.
 
 #### (2) Microentrepreneur
 
-&emsp;The term “microentrepreneur” means an owner and operator, or prospective owner and operator, of a rural microenterprise who is unable to obtain sufficient training, technical assistance, or credit other than under this section, as determined by the Secretary.
+&emsp;The term "microentrepreneur" means an owner and operator, or prospective owner and operator, of a rural microenterprise who is unable to obtain sufficient training, technical assistance, or credit other than under this section, as determined by the Secretary.
 
 #### (3) Microenterprise development organization
 
-&emsp;The term “microenterprise development organization” means an organization that—
+&emsp;The term "microenterprise development organization" means an organization that—
 
 &emsp;&emsp;(A) is—
 
@@ -36,15 +36,15 @@ In this section:
 
 #### (4) Microloan
 
-&emsp;The term “microloan” means a business loan of not more than $50,000 that is provided to a rural microenterprise.
+&emsp;The term "microloan" means a business loan of not more than $50,000 that is provided to a rural microenterprise.
 
 #### (5) Program
 
-&emsp;The term “program” means the rural microentrepreneur assistance program established under subsection (b).
+&emsp;The term "program" means the rural microentrepreneur assistance program established under subsection (b).
 
 #### (6) Rural microenterprise
 
-&emsp;The term “rural microenterprise” means—
+&emsp;The term "rural microenterprise" means—
 
 &emsp;&emsp;(A) a sole proprietorship located in a rural area; or
 
@@ -98,7 +98,7 @@ In this section:
 
 &emsp;&emsp;&emsp;The Secretary shall make grants to microenterprise development organizations to—
 
-&emsp;&emsp;&emsp;&emsp;(I) provide training, operational support, business planning, and market development assistance, and other relatedservices to rural microentrepreneurs; and
+&emsp;&emsp;&emsp;&emsp;(I) provide training, operational support, business planning, and market development assistance, and other related services to rural microentrepreneurs; and
 
 &emsp;&emsp;&emsp;&emsp;(II) carry out such other projects and activities as the Secretary determines appropriate to further the purposes of the program.
 

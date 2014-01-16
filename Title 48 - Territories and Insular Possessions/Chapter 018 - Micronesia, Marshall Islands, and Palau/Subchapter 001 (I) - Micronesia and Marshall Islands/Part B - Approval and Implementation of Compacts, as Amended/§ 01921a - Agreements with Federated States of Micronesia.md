@@ -32,7 +32,7 @@ The Comptroller General (and his duly authorized representatives) shall have the
 
 #### (4) Audits defined
 
-&emsp;As used in this subsection, the term “audits” includes financial, program, and management audits, including determining—
+&emsp;As used in this subsection, the term "audits" includes financial, program, and management audits, including determining—
 
 &emsp;&emsp;(A) whether the Government of the Federated States of Micronesia has met the requirements set forth in the U.S.-FSM Compact, or any related agreement entered into under the U.S.-FSM Compact, regarding the purposes for which such grants and other assistance are to be used; and
 
@@ -40,7 +40,7 @@ The Comptroller General (and his duly authorized representatives) shall have the
 
 #### (5) Cooperation by Federated States of Micronesia
 
-&emsp;The Government of the Federated States of Micronesia will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable theComptroller General to fully discharge his responsibilities under this joint resolution.
+&emsp;The Government of the Federated States of Micronesia will cooperate fully with the Comptroller General of the United States in the conduct of such audits as the Comptroller General determines necessary to enable the Comptroller General to fully discharge his responsibilities under this joint resolution.
 
 (Pub. L. 108–188, title I, §102, Dec. 17, 2003, 117 Stat. 2725.)
 

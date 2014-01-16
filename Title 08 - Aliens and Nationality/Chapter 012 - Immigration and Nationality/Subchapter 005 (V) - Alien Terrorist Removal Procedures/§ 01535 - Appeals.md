@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(C) the court shall review all questions of law de novo; and
 
-&emsp;&emsp;(D) a finding of fact shall be accorded deference by the reviewing court and shall not be set aside unless such finding was clearly erroneous, except that in the case of a review under paragraph (2) in which an alien lawfully admitted for permanent residence was denied a written summary of classified information under section 1534(c)(3) <sup>1</sup> of this title, the Court of Appeals shall review questions of fact de novo.
+&emsp;&emsp;(D) a finding of fact shall be accorded deference by the reviewing court and shall notbe set aside unless such finding was clearly erroneous, except that in the case of a review under paragraph (2) in which an alien lawfully admitted for permanent residence was denied a written summary of classified information under section 1534(c)(3) <sup>1</sup> of this title, the Court of Appeals shall review questions of fact de novo.
 
 #### (d) Certiorari
 

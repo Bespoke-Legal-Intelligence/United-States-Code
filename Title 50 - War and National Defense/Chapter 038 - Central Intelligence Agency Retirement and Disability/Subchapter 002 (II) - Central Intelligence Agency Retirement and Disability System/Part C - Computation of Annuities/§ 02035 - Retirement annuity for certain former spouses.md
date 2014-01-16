@@ -2,7 +2,7 @@
 
 #### (a) Retirement annuity
 
-An individual who was a former spouse of a participant, former participant, or retired participant on November 15, 1982, and any former spouse divorced after November 15, 1982, from aparticipant or former participant who retired before November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified under subsection (b) of this section, to an annuity—
+An individual who was a former spouse of a participant, former participant, or retired participant on November 15, 1982, and any former spouse divorced after November 15, 1982, from a participant or former participant who retired before November 15, 1982, shall be entitled, except to the extent such former spouse is disqualified under subsection (b) of this section, to an annuity—
 
 &emsp;(1) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the annuity of the participant; or
 
@@ -74,9 +74,9 @@ A prior section 225 of Pub. L. 88–643, as added Pub. L. 100–178, title IV, �
 
 #### Amendments
 
-<b>1993</b>—Subsec. (c)(3). Pub. L. 103–178, §202(a)(7)(A), substituted “any survivor annuity” for “any other annuity”.
+<b>1993</b>—Subsec. (c)(3). Pub. L. 103–178, §202(a)(7)(A), substituted "any survivor annuity" for "any other annuity".
 
-Subsec. (c)(4)(A). Pub. L. 103–178, §202(a)(7)(B), substituted “June 2, 1990” for “June 2, 1991”.
+Subsec. (c)(4)(A). Pub. L. 103–178, §202(a)(7)(B), substituted "June 2, 1990" for "June 2, 1991".
 
 #### Effective Date of 1993 Amendment
 

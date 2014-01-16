@@ -8,7 +8,7 @@ The President may enter into a cooperative project agreement with the North Atla
 
 As used in this section—
 
-&emsp;(1) the term “cooperative project”, in the case of an agreement with the North Atlantic Treaty Organization or with one or more member countries of that Organization, means a jointly managed arrangement, described in a written agreement among the parties, which is undertaken in order to further the objectives of standardization, rationalization, and interoperability of the armed forces of North Atlantic Treaty Organization member countries and which provides—
+&emsp;(1) the term "cooperative project", in the case of an agreement with the North Atlantic Treaty Organization or with one or more member countries of that Organization, means a jointly managed arrangement, described in a written agreement among the parties, which is undertaken in order to further the objectives of standardization, rationalization, and interoperability of the armed forces of North Atlantic Treaty Organization member countries and which provides—
 
 &emsp;&emsp;(A) for one or more of the other participants to share with the United States the costs of research on and development, testing, evaluation, or joint production (including follow-on support) of certain defense articles;
 
@@ -16,7 +16,7 @@ As used in this section—
 
 &emsp;&emsp;(C) for procurement by the United States of a defense article or defense service from another member country or for procurement by the United States of munitions from the North Atlantic Treaty Organization or a subsidiary of such organization;
 
-&emsp;(2) the term “cooperative project”, in the case of an agreement entered into under subsection (j) of this section, means a jointly managed arrangement, described in a written agreement among the parties, which is undertaken in order to enhance the ongoing multinational effort of the participants to improve the conventional defense capabilities of the participants and which provides—
+&emsp;(2) the term "cooperative project", in the case of an agreement entered into under subsection (j) of this section, means a jointly managed arrangement, described in a written agreement among the parties, which is undertaken in order to enhance the ongoing multinational effort of the participants to improve the conventional defense capabilities of the participants and which provides—
 
 &emsp;&emsp;(A) for one or more of the other participants to share with the United States the costs of research on and development, testing, evaluation, or joint production (including follow-on support) of certain defense articles;
 
@@ -24,7 +24,7 @@ As used in this section—
 
 &emsp;&emsp;(C) for procurement by the United States of a defense article or defense service from another participant to the agreement; and
 
-&emsp;(3) the term “other participant” means a participant in a cooperative project other than the United States.
+&emsp;(3) the term "other participant" means a participant in a cooperative project other than the United States.
 
 #### (c) Agreements for equitable share of costs; limiting nature of agreements
 
@@ -36,7 +36,7 @@ The President may enter into contracts or incur other obligations for a cooperat
 
 #### (e) Waiver of charges; administrative surcharges
 
-(1) For those cooperative projects entered into on or after the effective date <sup>1</sup> of the International Security and Development Cooperation Act of 1985, the President may reduce or waive the charge or charges which would otherwise be considered appropriate under section 2761(e) of this title in connection with sales under sections 2761 and 2762 of this title when such sales are made as part of such cooperative project, if the other participants agree to reduce or waive corresponding charges.
+(1) For those cooperative projects entered into on or after the effective date <sup>1</sup> of the International Security and Development Cooperation Act of 1985, the President may reduce or waivethe charge or charges which would otherwise be considered appropriate under section 2761(e) of this title in connection with sales under sections 2761 and 2762 of this title when such sales are made as part of such cooperative project, if the other participants agree to reduce or waive corresponding charges.
 
 (2) Notwithstanding provisions of section 2761(e)(1)(A) and section 2792(b) of this title, administrative surcharges shall not be increased on other sales made under this chapter in order to compensate for reductions or waivers of such surcharges under this section. Funds received pursuant to such other sales shall not be available to reimburse the costs incurred by the United States Government for which reduction or waiver is approved by the President under this section.
 
@@ -82,9 +82,9 @@ The authority under this section is in addition to the authority under sections 
 
 #### References in Text
 
-The effective date of the International Security and Development Cooperation Act of 1985 and the effective date of the amendment to this section made by the International Security and Development Cooperation Act of 1985, referred to in subsecs. (e)(1) and (i), respectively, is October 1, 1985, see section 1301 of Pub. L. 99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.
+The effective date of the International Security and Development Cooperation Act of 1985 and the effective date of the amendment to this section made by the International Security and Development Cooperation Act of 1985, referred to in subsecs. (e)(1) and (i), respectively, is October 1, 1985, see section 1301 of Pub. L.99–83, set out as an Effective Date of 1985 Amendment note under section 2151–1 of this title.
 
-This chapter, referred to in subsec. (e)(2), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsec. (e)(2), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The amendment made to this section made by the International Security and Development Cooperation Act of 1985, referred to in subsec. (i), means the general amendment of this section by section 115(a) of Pub. L. 99–83. See 1985 Amendment note below.
 
@@ -94,25 +94,25 @@ Subsec. (j)(2) of this section, which required the President to submit to certai
 
 #### Amendments
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–484 substituted “costs, administrative costs, and costs of claims” for “and administrative costs”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–484 substituted "costs, administrative costs, and costs of claims" for "and administrative costs".
 
-<b>1987</b>—Subsec. (b)(1)(C). Pub. L. 100–180 inserted “or for procurement by the United States of munitions from the North Atlantic Treaty Organization or a subsidiary of such organization” after “member country”.
+<b>1987</b>—Subsec. (b)(1)(C). Pub. L. 100–180 inserted "or for procurement by the United States of munitions from the North Atlantic Treaty Organization or a subsidiary of such organization" after "member country".
 
 <b>1986</b>—Pub. L. 99–661, §1342(e), repealed section 1102(a)(1) of Pub. L. 99–145 and the amendments made by that section, and provided that this section shall apply as if that section had never been enacted. See 1985 Amendments note below.
 
-Pub. L. 99–661, §1103(a)(2), substituted “Authority of President to enter into cooperative projects with friendly foreign countries” for “North Atlantic Treaty Organization cooperative projects” in section catchline.
+Pub. L. 99–661, §1103(a)(2), substituted "Authority of President to enter into cooperative projects with friendly foreign countries" for "North Atlantic Treaty Organization cooperative projects" in section catchline.
 
-Subsec. (b)(1). Pub. L. 99–661, §1103(a)(1)(A)(i), inserted “, in the case of an agreement with the North Atlantic Treaty Organization or with one or more member countries of that Organization,” in introductory provisions.
+Subsec. (b)(1). Pub. L. 99–661, §1103(a)(1)(A)(i), inserted ", in the case of an agreement with the North Atlantic Treaty Organization or with one or more member countries of that Organization," in introductory provisions.
 
 Subsec. (b)(2), (3). Pub. L. 99–661, §1103(a)(1)(A)(ii)–(iv), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (f)(3). Pub. L. 99–661, §1103(a)(1)(B), inserted “, including an estimate of the costs as a result of waivers of section 2761(e)(1)(A) and 2792(b) of this title,”.
+Subsec. (f)(3). Pub. L. 99–661, §1103(a)(1)(B), inserted ", including an estimate of the costs as a result of waivers of section 2761(e)(1)(A) and 2792(b) of this title,".
 
-Subsec. (g). Pub. L. 99–661, §1103(a)(1)(C), substituted “In the case of a cooperative project with a North Atlantic Treaty Organization country, section,” for “Section”.
+Subsec. (g). Pub. L. 99–661, §1103(a)(1)(C), substituted "In the case of a cooperative project with a North Atlantic Treaty Organization country, section," for "Section".
 
 Subsec. (j). Pub. L. 99–661, §1103(a)(1)(D), added subsec. (j).
 
-<b>1985</b>—Pub. L. 99–83 amended section generally, substituting in subsec. (a) provisions relating to authority of the President, for provisions defining “cooperative project”, substituting in subsec. (b) provisions defining “cooperative project” and “other participant”, for provisions relating to reduction or waiver of charges, sales not subject to compensatory increases in administrative surcharges, and contribution requirements, substituting in subsec. (c) provisions relating to agreements for equitable share of costs and limiting the nature of such agreements, for provisions relating to transmission of numbered certification of proposed agreement, contents of such certification, and statutory provisions applicable to sales, and adding subsecs. (d) to (i).
+<b>1985</b>—Pub. L. 99–83 amended section generally, substituting in subsec. (a) provisions relating to authority of the President, for provisions defining "cooperative project", substituting in subsec. (b) provisions defining "cooperative project" and "other participant", for provisions relating to reduction or waiver of charges, sales not subject to compensatory increases in administrative surcharges, and contribution requirements, substituting in subsec. (c) provisions relating to agreements for equitable share of costs and limiting the nature of such agreements, for provisions relating to transmission of numbered certification of proposed agreement, contents of such certification, and statutory provisions applicable to sales, and adding subsecs. (d) to (i).
 
 Pub. L. 99–145, §1102(a)(1), which enacted a general amendment of this section similar to that provided in Pub. L. 99–83 was repealed. See 1986 Amendments note above and former section 1105(a)(5) of Pub. L. 99–145 set out as a Repeals; Effective Date note under section 2752 of this title.
 
@@ -122,51 +122,51 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense, with Secretary of Defense required to consult with Secretary of State in implementing delegated functions, by section 1(f) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+For delegation of functions of the President under this section, with certain conditions, see section 1(f) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
 #### Assessment of Risk Associated With Development of Major Weapon Systems To Be Procured Under Cooperative Projects With Friendly Foreign Countries
 
 Pub. L. 112–81, div. A, title VIII, §836, Dec. 31, 2011, 125 Stat. 1508, provided that:
 
-“(a)
+"(a)
 
 Assessment of Risk Required.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than two days after the President transmits a certification to Congress pursuant to section 27(f) of the Arms Export Control Act (22 U.S.C. 2767(f)) regarding a proposed cooperative project agreement that is expected to result in the award of a Department of Defense contract for the engineering and manufacturing development of a major weapon system, the Secretary of Defense shall submit to the Chairmen of the Committees on Armed Services of the Senate and the House of Representatives a report setting forth a risk assessment of the proposed cooperative project.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Preparation.—The Secretary shall prepare each report required by paragraph (1) in consultation with the Under Secretary of Defense for Acquisition, Technology, and Logistics, the Assistant Secretary of Defense for Research and Engineering, and the Director of Cost Assessment and Program Evaluation of the Department of Defense.
 
-“(b)
+"(b)
 
 Elements.—The risk assessment on a cooperative project under subsection (a) shall include the following:
 
-&emsp;“(1) An assessment of the design, technical, manufacturing, and integration risks associated with developing and procuring the weapon system to be procured under the cooperative project.
+&emsp;"(1) An assessment of the design, technical, manufacturing, and integration risks associated with developing and procuring the weapon system to be procured under the cooperative project.
 
-&emsp;“(2) A statement identifying any termination liability that would be incurred under the development contract to be entered into under subsection (a)(1), and a statement of the extent to which such termination liability would not be fully funded by appropriations available or sought in the fiscal year in which the agreement for the cooperative project is signed on behalf of the United States.
+&emsp;"(2) A statement identifying any termination liability that would be incurred under the development contract to be entered into under subsection (a)(1), and a statement of the extent to which such termination liability would not be fully funded by appropriations available or sought in the fiscal year in which the agreement for the cooperative project is signed on behalf of the United States.
 
-&emsp;“(3) An assessment of the advisability of incurring any unfunded termination liability identified under paragraph (2) given the risks identified in the assessment under paragraph (1).
+&emsp;"(3) An assessment of the advisability of incurring any unfunded termination liability identified under paragraph (2) given the risks identified in the assessment under paragraph (1).
 
-&emsp;“(4) A listing of which, if any, requirements associated with the oversight and management of a major defense acquisition program (as prescribed under Department of Defense Instruction 5000.02 or related authorities) will be waived, or in any way modified, in carrying out the development contract to be entered into under \[subsection\] (a)(1), and a full explanation why such requirements need to be waived or modified.
+&emsp;"(4) A listing of which, if any, requirements associated with the oversight and management of a major defense acquisition program (as prescribed under Department of Defense Instruction 5000.02 or related authorities) will be waived, or in any way modified, in carrying out the development contract to be entered into under \[subsection\] (a)(1), and a full explanation why such requirements need to be waived or modified.
 
-“(c)
+"(c)
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘engineering and manufacturing development’ has the meaning given that term in Department of Defense Instruction 5000.02.
+&emsp;"(1) The term 'engineering and manufacturing development' has the meaning given that term in Department of Defense Instruction 5000.02.
 
-&emsp;“(2) The term ‘major weapon system’ has the meaning given that term in section 2379(f) of title 10, United States Code.”
+&emsp;"(2) The term 'major weapon system' has the meaning given that term in section 2379(f) of title 10, United States Code."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "sections".</i>
 
 <i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 
 <i><sup>4</sup></i><i> See References in Text note below.</i>
 
-<i><sup>5</sup></i><i> So in original. The word “made” probably should not appear.</i>
+<i><sup>5</sup></i><i> So in original. The word "made" probably should not appear.</i>
 

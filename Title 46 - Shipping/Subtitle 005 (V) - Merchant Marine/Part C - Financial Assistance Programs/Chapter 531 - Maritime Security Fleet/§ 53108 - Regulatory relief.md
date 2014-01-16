@@ -22,5 +22,5 @@ Telecommunications Equipment.—The telecommunications and other electronic equi
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–304 substituted “section 55305(a) of this title” for “section 901(b)(1) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b)(1))”.
+<b>2006</b>—Subsec. (b). Pub. L. 109–304 substituted "section 55305(a) of this title" for "section 901(b)(1) of the Merchant Marine Act, 1936 (46 U.S.C. App. 1241(b)(1))".
 

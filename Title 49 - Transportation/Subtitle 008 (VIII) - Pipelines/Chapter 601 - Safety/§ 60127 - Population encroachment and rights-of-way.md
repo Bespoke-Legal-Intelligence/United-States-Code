@@ -14,7 +14,7 @@ Purpose of Study.—The purpose of the study shall be to gather information on l
 
 &emsp;(3) to raise the awareness of the risks and hazards of encroachment on pipeline rights-of-way; and
 
-&emsp;(4) to address how to best preserve environmental resources in conjunction with maintaining pipeline rights-of-way, recognizing pipeline operators’ regulatory obligations to maintain rights-of-way and to protect public safety.
+&emsp;(4) to address how to best preserve environmental resources in conjunction with maintaining pipeline rights-of-way, recognizing pipeline operators' regulatory obligations to maintain rights-of-way and to protect public safety.
 
 (c)
 
@@ -54,21 +54,21 @@ The date of enactment of this subsection, referred to in subsec. (d)(1), is the 
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–355 substituted “Population encroachment and rights-of-way” for “Population encroachment” in section catchline and amended text generally. Prior to amendment, text read as follows:
+<b>2002</b>—Pub. L. 107–355 substituted "Population encroachment and rights-of-way" for "Population encroachment" in section catchline and amended text generally. Prior to amendment, text read as follows:
 
-“(a)
+"(a)
 
-Land Use Recommendations.—The Secretary of Transportation shall make available to an appropriate official of each State, as determined by the Secretary, the land use recommendations of the special report numbered 219 of the Transportation Research Board, entitled ‘Pipelines and Public Safety’.
+Land Use Recommendations.—The Secretary of Transportation shall make available to an appropriate official of each State, as determined by the Secretary, the land use recommendations of the special report numbered 219 of the Transportation Research Board, entitled 'Pipelines and Public Safety'.
 
-“(b)
+"(b)
 
 Evaluation.—The Secretary shall—
 
-&emsp;“(1) evaluate the recommendations in the report referred to in subsection (a);
+&emsp;"(1) evaluate the recommendations in the report referred to in subsection (a);
 
-&emsp;“(2) determine to what extent the recommendations are being implemented;
+&emsp;"(2) determine to what extent the recommendations are being implemented;
 
-&emsp;“(3) consider ways to improve the implementation of the recommendations; and
+&emsp;"(3) consider ways to improve the implementation of the recommendations; and
 
-&emsp;“(4) consider other initiatives to further improve awareness of local planning and zoning entities regarding issues involved with population encroachment in proximity to the rights-of-way of any interstate gas pipeline facility or interstate hazardous liquid pipeline facility.”
+&emsp;"(4) consider other initiatives to further improve awareness of local planning and zoning entities regarding issues involved with population encroachment in proximity to the rights-of-way of any interstate gas pipeline facility or interstate hazardous liquid pipeline facility."
 

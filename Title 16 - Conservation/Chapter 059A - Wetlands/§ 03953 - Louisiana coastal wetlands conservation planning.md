@@ -8,11 +8,11 @@
 
 #### (2) Terms of agreement
 
-&emsp;(A) Upon receiving notification pursuant to paragraph (1) of this subsection, the Secretary, the Director, and the Administrator shall promptly enter into an agreement (hereafter in this section referred to as the “agreement”) with the State under the terms set forth in subparagraph (B) of this paragraph.
+&emsp;(A) Upon receiving notification pursuant to paragraph (1) of this subsection, the Secretary, the Director, and the Administrator shall promptly enter into an agreement (hereafter in this section referred to as the "agreement") with the State under the terms set forth in subparagraph (B) of this paragraph.
 
 &emsp;(B) The agreement shall—
 
-&emsp;&emsp;(i) set forth a process by which the State agrees to develop, in accordance with this section, a coastal wetlands conservation plan (hereafter in this section referred to as the “conservation plan”);
+&emsp;&emsp;(i) set forth a process by which the State agrees to develop, in accordance with this section, a coastal wetlands conservation plan (hereafter in this section referred to as the "conservation plan");
 
 &emsp;&emsp;(ii) designate a single agency of the State to develop the conservation plan;
 
@@ -104,5 +104,5 @@ A conservation plan approved under this section shall be implemented as provided
 
 (Pub. L. 101–646, title III, §304, Nov. 29, 1990, 104 Stat. 4783.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 

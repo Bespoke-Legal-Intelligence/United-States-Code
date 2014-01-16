@@ -48,15 +48,15 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “defendant” includes a State or local government.
+&emsp;&emsp;&emsp;The term "defendant" includes a State or local government.
 
 #### (ii) State
 
-&emsp;&emsp;&emsp;The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;&emsp;&emsp;The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (iii) Local government
 
-&emsp;&emsp;&emsp;The term “local government” means—
+&emsp;&emsp;&emsp;The term "local government" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) any county, city, town, township, parish, village, or other general purpose political subdivision of a State; and
 
@@ -64,7 +64,7 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 
 #### (B) Y2K upset
 
-&emsp;&emsp;The term “Y2K upset”—
+&emsp;&emsp;The term "Y2K upset"—
 
 &emsp;&emsp;&emsp;(i) means an exceptional temporary noncompliance with applicable federally enforceable measurement, monitoring, or reporting requirements directly related to a Y2K failure that are beyond the reasonable control of the defendant charged with compliance; and
 
@@ -102,7 +102,7 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 
 #### (5) Length of Y2K upset
 
-&emsp;The maximum allowable length of the Y2K upset shall be not more than 15 days beginning on the date of the upset unless specific relief by the appropriate regulatory authority is granted.
+&emsp;The maximum allowable length of the Y2K upset shall be not more than 15 days beginningon the date of the upset unless specific relief by the appropriate regulatory authority is granted.
 
 #### (6) Fraudulent invocation of Y2K upset defense
 
@@ -146,11 +146,11 @@ Nothing in this chapter supersedes any provision of the Year 2000 Information an
 
 &emsp;In this subsection—
 
-&emsp;&emsp;(A) The term “consumer” means a natural person.
+&emsp;&emsp;(A) The term "consumer" means a natural person.
 
-&emsp;&emsp;(B) The term “residential mortgage” has the meaning given the term “federally related mortgage loan” under section 2602 of title 12.
+&emsp;&emsp;(B) The term "residential mortgage" has the meaning given the term "federally related mortgage loan" under section 2602 of title 12.
 
-&emsp;&emsp;(C) The term “servicer” means the person, including any successor, responsible for receiving any scheduled periodic payments from a consumer pursuant to the terms of a residential mortgage, including amounts for any escrow account, and for making the payments of principal and interest and such other payments with respect to the amounts received from the borrower as may be required pursuant to the terms of the mortgage. Such term includes the person, including any successor, who makes or holds a loan if such person also services the loan.
+&emsp;&emsp;(C) The term "servicer" means the person, including any successor, responsible for receiving any scheduled periodic payments from a consumer pursuant to the terms of a residential mortgage, including amounts for any escrow account, and for making the payments of principal and interest and such other payments with respect to the amounts received from the borrower as may be required pursuant to the terms of the mortgage. Such term includes the person, including any successor, who makes or holds a loan if such person also services the loan.
 
 #### (i) Applicability to securities litigation
 

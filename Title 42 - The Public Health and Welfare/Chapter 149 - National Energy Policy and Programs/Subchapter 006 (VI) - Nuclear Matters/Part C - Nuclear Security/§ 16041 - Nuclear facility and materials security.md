@@ -8,7 +8,7 @@
 
 #### (A) Regional offices
 
-&emsp;&emsp;Not later than 18 months after August 8, 2005, the Nuclear Regulatory Commission (referred to in this section as the “Commission”) shall assign a Federal security coordinator, under the employment of the Commission, to each region of the Commission.
+&emsp;&emsp;Not later than 18 months after August 8, 2005, the Nuclear Regulatory Commission (referred to in this section as the "Commission") shall assign a Federal security coordinator, under the employment of the Commission, to each region of the Commission.
 
 #### (B) Responsibilities
 
@@ -40,7 +40,7 @@ For any licensed nuclear power plants located where there is a permanent populat
 
 #### (ii) Inclusions
 
-&emsp;&emsp;&emsp;The regulations shall include a definition of the term “discrete source” for purposes of paragraphs (3) and (4) of section 2014(e) of this title.
+&emsp;&emsp;&emsp;The regulations shall include a definition of the term "discrete source" for purposes of paragraphs (3) and (4) of section 2014(e) of this title.
 
 #### (B) Cooperation
 
@@ -54,7 +54,7 @@ For any licensed nuclear power plants located where there is a permanent populat
 
 #### (i) Definition of byproduct material
 
-&emsp;&emsp;&emsp;In this paragraph, the term “byproduct material” has the meaning given the term in paragraphs (3) and (4) of section 2014(e) of this title.
+&emsp;&emsp;&emsp;In this paragraph, the term "byproduct material" has the meaning given the term in paragraphs (3) and (4) of section 2014(e) of this title.
 
 #### (ii) Preparation and publication
 
@@ -120,11 +120,11 @@ For any licensed nuclear power plants located where there is a permanent populat
 
 #### References in Text
 
-For references to “the amendments made by this section”, “an amendment made by this section”, and “the amendments made by subsection (c)(1)”, appearing in subsecs. (e)(4)(A)(i), (e)(5)(A), and (e)(5)(B)(i)(I), respectively, see Codification note below.
+For references to "the amendments made by this section", "an amendment made by this section", and "the amendments made by subsection (c)(1)", appearing in subsecs. (e)(4)(A)(i), (e)(5)(A), and (e)(5)(B)(i)(I), respectively, see Codification note below.
 
 #### Codification
 
 Section is comprised of section 651 of Pub. L. 109–58. Subsec. (a)(1), (2) of section 651 of Pub. L. 109–58 enacted sections 2210d and 2210e of this title, subsec. (c)(1) of section 651 of Pub. L. 109–58 amended section 2051 of this title, subsecs. (c)(2) to (5) and (d) of section 651 of Pub. L. 109–58 enacted sections 2210f to 2210h and 2015c of this title, and subsec. (e)(1) to (3) of section 651 of Pub. L. 109–58 amended sections 2014, 2021, 2021b, and 2111 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subparagraph (A),”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subparagraph (A),".</i>
 

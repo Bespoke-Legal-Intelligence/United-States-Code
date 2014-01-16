@@ -6,5 +6,5 @@ Whoever willfully shall violate, attempt to violate, or conspire to violate any 
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $5,000".
 

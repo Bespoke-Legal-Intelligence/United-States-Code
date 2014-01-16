@@ -30,7 +30,7 @@ Officers Not Allowed Service Credit for Time Lost.—In the case of an officer o
 
 (c)
 
-Waiver of Recoupment of Time Lost for Confinement.—The Secretary concerned shall waive liability for a period of confinement in connection with a trial under subsection (a)(3), or exclusion of a period of confinement in connection with a trial under subsection (b)(3), in a case upon the occurrence of any of the following events:
+Waiver of Recoupment of Time Lost for Confinement.—The Secretary concerned shallwaive liability for a period of confinement in connection with a trial under subsection (a)(3), or exclusion of a period of confinement in connection with a trial under subsection (b)(3), in a case upon the occurrence of any of the following events:
 
 &emsp;(1) For each charge—
 
@@ -66,17 +66,17 @@ July 24, 1956, ch. 692, §1, 70 Stat. 631.
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–375 added subsec. (c).
 
-<b>1997</b>—Subsec. (b). Pub. L. 105–85 substituted “February 10, 1996” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996” in introductory provisions.
+<b>1997</b>—Subsec. (b). Pub. L. 105–85 substituted "February 10, 1996" for "the date of the enactment of the National Defense Authorization Act for Fiscal Year 1996" in introductory provisions.
 
-<b>1996</b>—Pub. L. 104–106, §561(c)(1), substituted “Members: effect of time lost” for “Enlisted members: required to make up time lost” as section catchline.
+<b>1996</b>—Pub. L. 104–106, §561(c)(1), substituted "Members: effect of time lost" for "Enlisted members: required to make up time lost" as section catchline.
 
 Pub. L. 104–106, §561(a), designated existing provisions as subsec. (a), inserted heading, added par. (3), redesignated par. (5) as (4), struck out former pars. (3) and (4), and added subsec. (b). Prior to amendment, subsec. (a)(3) and (4) read as follows:
 
-“(3) is confined for more than one day while awaiting trial and disposition of his case, and whose conviction has become final;
+"(3) is confined for more than one day while awaiting trial and disposition of his case, and whose conviction has become final;
 
-“(4) is confined for more than one day under a sentence that has become final; or”.
+"(4) is confined for more than one day under a sentence that has become final; or".
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–106, div. A, title V, §561(e), Feb. 10, 1996, 110 Stat. 323, provided that: “The amendments made by this section \[enacting section 6328 of this title and amending this section and sections 1405, 3925, 3926, 8925, and 8926 of this title\] shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\] and shall apply to any period of time covered by section 972 of title 10, United States Code, that occurs after that date.”
+Pub. L. 104–106, div. A, title V, §561(e), Feb. 10, 1996, 110 Stat. 323, provided that: "The amendments made by this section \[enacting section 6328 of this title and amending this section and sections 1405, 3925, 3926, 8925, and 8926 of this title\] shall take effect on the date of the enactment of this Act \[Feb. 10, 1996\] and shall apply to any period of time covered by section 972 of title 10, United States Code, that occurs after that date."
 

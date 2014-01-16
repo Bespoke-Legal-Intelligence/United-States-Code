@@ -2,7 +2,7 @@
 
 #### (a) Office of Management Conference of the Long Island Sound Study
 
-The Administrator shall continue the Management Conference of the Long Island Sound Study (hereinafter referred to as the “Conference”) as established pursuant to section 1330 of this title, and shall establish an office (hereinafter referred to as the “Office”) to be located on or near Long Island Sound.
+The Administrator shall continue the Management Conference of the Long Island Sound Study (hereinafter referred to as the "Conference") as established pursuant to section 1330 of this title, and shall establish an office (hereinafter referred to as the "Office") to be located on or near Long Island Sound.
 
 #### (b) Administration and staffing of Office
 
@@ -84,519 +84,519 @@ The Marine Protection, Research, and Sanctuaries Act, referred to in subsec. (c)
 
 #### Amendments
 
-<b>2005</b>—Subsec. (f). Pub. L. 109–137 substituted “2010” for “2005” in pars. (1) and (2).
+<b>2005</b>—Subsec. (f). Pub. L. 109–137 substituted "2010" for "2005" in pars. (1) and (2).
 
-<b>2000</b>—Subsec. (c)(1). Pub. L. 106–457, §402, inserted before semicolon at end “, including efforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan”.
+<b>2000</b>—Subsec. (c)(1). Pub. L. 106–457, §402, inserted before semicolon at end ", including efforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan".
 
 Subsec. (e). Pub. L. 106–457, §403(2), added subsec. (e). Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 106–457, §§403(1), 404, redesignated subsec. (e) as (f) and substituted “2001 through 2005” for “1991 through 2001” in par. (1) and “not to exceed $40,000,000 for each of fiscal years 2001 through 2005” for “not to exceed $3,000,000 for each of the fiscal years 1991 through 2001” in par. (2).
+Subsec. (f). Pub. L. 106–457, §§403(1), 404, redesignated subsec. (e) as (f) and substituted "2001 through 2005" for "1991 through 2001" in par. (1) and "not to exceed $40,000,000 for each of fiscal years 2001 through 2005" for "not to exceed $3,000,000 for each of the fiscal years 1991 through 2001" in par. (2).
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–303 substituted “2001” for “1996” in pars. (1) and (2).
+<b>1996</b>—Subsec. (e). Pub. L. 104–303 substituted "2001" for "1996" in pars. (1) and (2).
 
 #### Long Island Sound Stewardship
 
 Pub. L. 109–359, Oct. 16, 2006, 120 Stat. 2049, provided that:
 
-#### “SECTION 1. SHORT TITLE.
+#### "SECTION 1. SHORT TITLE.
 
-“This Act may be cited as the ‘Long Island Sound Stewardship Act of 2006’.
+"This Act may be cited as the 'Long Island Sound Stewardship Act of 2006'.
 
-#### “SEC. 2. FINDINGS AND PURPOSE.
+#### "SEC. 2. FINDINGS AND PURPOSE.
 
-“(a)
+"(a)
 
 Findings.—Congress finds that—
 
-&emsp;“(1) Long Island Sound is a national treasure of great cultural, environmental, and ecological importance;
+&emsp;"(1) Long Island Sound is a national treasure of great cultural, environmental, and ecological importance;
 
-&emsp;“(2) 8,000,000 people live within the Long Island Sound watershed and 28,000,000 people (approximately 10 percent of the population of the United States) live within 50 miles of Long Island Sound;
+&emsp;"(2) 8,000,000 people live within the Long Island Sound watershed and 28,000,000 people (approximately 10 percent of the population of the United States) live within 50 miles of Long Island Sound;
 
-&emsp;“(3) activities that depend on the environmental health of Long Island Sound contribute more than $5,000,000,000 each year to the regional economy;
+&emsp;"(3) activities that depend on the environmental health of Long Island Sound contribute more than $5,000,000,000 each year to the regional economy;
 
-&emsp;“(4) the portion of the shoreline of Long Island Sound that is accessible to the general public (estimated at less than 20 percent of the total shoreline) is not adequate to serve the needs of the people living in the area;
+&emsp;"(4) the portion of the shoreline of Long Island Sound that is accessible to the general public (estimated at less than 20 percent of the total shoreline) is not adequate to serve the needs of the people living in the area;
 
-&emsp;“(5) existing shoreline facilities are in many cases overburdened and underfunded;
+&emsp;"(5) existing shoreline facilities are in many cases overburdened and underfunded;
 
-&emsp;“(6) large parcels of open space already in public ownership are strained by the effort to balance the demand for recreation with the needs of sensitive natural resources;
+&emsp;"(6) large parcels of open space already in public ownership are strained by the effort to balance the demand for recreation with the needs of sensitive natural resources;
 
-&emsp;“(7) approximately 1/3 of the tidal marshes of Long Island Sound have been filled, and much of the remaining marshes have been ditched, diked, or impounded, reducing the ecological value of the marshes; and
+&emsp;"(7) approximately 1/3 of the tidal marshes of Long Island Sound have been filled, and much of the remaining marshes have been ditched, diked, or impounded, reducing the ecological value of the marshes; and
 
-&emsp;“(8) much of the remaining exemplary natural landscape is vulnerable to further development.
+&emsp;"(8) much of the remaining exemplary natural landscape is vulnerable to further development.
 
-“(b)
+"(b)
 
 Purpose.—The purpose of this Act is to establish the Long Island Sound Stewardship Initiative to identify, protect, and enhance upland sites within the Long Island Sound ecosystem with significant ecological, educational, open space, public access, or recreational value through a bi-State network of sites best exemplifying these values.
 
-#### “SEC. 3. DEFINITIONS.
+#### "SEC. 3. DEFINITIONS.
 
-“In this Act, the following definitions apply:
+"In this Act, the following definitions apply:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Administrator.—The term ‘Administrator’ means the Administrator of the Environmental Protection Agency.
+Administrator.—The term 'Administrator' means the Administrator of the Environmental Protection Agency.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Advisory committee.—The term ‘Advisory Committee’ means the Long Island Sound Stewardship Advisory Committee established by section 8.
+Advisory committee.—The term 'Advisory Committee' means the Long Island Sound Stewardship Advisory Committee established by section 8.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Region.—The term ‘Region’ means the Long Island Sound Stewardship Initiative Region established by section 4(a).
+Region.—The term 'Region' means the Long Island Sound Stewardship Initiative Region established by section 4(a).
 
-&emsp;“(4)
+&emsp;"(4)
 
-State.—The term ‘State’ means each of the States of Connecticut and New York.
+State.—The term 'State' means each of the States of Connecticut and New York.
 
-&emsp;“(5)
+&emsp;"(5)
 
-Stewardship.—The term ‘stewardship’ means land acquisition, land conservation agreements, site planning, plan implementation, land and habitat management, public access improvements, site monitoring, and other activities designed to enhance and preserve natural resource-based recreation and ecological function of upland areas.
+Stewardship.—The term 'stewardship' means land acquisition, land conservation agreements, site planning, plan implementation, land and habitat management, public access improvements, site monitoring, and other activities designed to enhance and preserve natural resource-based recreation and ecological function of upland areas.
 
-&emsp;“(6)
+&emsp;"(6)
 
-Stewardship site.—The term ‘stewardship site’ means any area of State, local, or tribal government, or privately owned land within the Region that is designated by the Administrator under section 5(a).
+Stewardship site.—The term 'stewardship site' means any area of State, local, or tribal government, or privately owned land within the Region that is designated by the Administrator under section 5(a).
 
-&emsp;“(7)
+&emsp;"(7)
 
-Systematic site selection.—The term ‘systematic site selection’ means a process of selecting stewardship sites that—
+Systematic site selection.—The term 'systematic site selection' means a process of selecting stewardship sites that—
 
-&emsp;&emsp;“(A) has explicit goals, methods, and criteria;
+&emsp;&emsp;"(A) has explicit goals, methods, and criteria;
 
-&emsp;&emsp;“(B) produces feasible, repeatable, and defensible results;
+&emsp;&emsp;"(B) produces feasible, repeatable, and defensible results;
 
-&emsp;&emsp;“(C) provides for consideration of natural, physical, and biological patterns;
+&emsp;&emsp;"(C) provides for consideration of natural, physical, and biological patterns;
 
-&emsp;&emsp;“(D) addresses replication, connectivity, species viability, location, and public recreation values;
+&emsp;&emsp;"(D) addresses replication, connectivity, species viability, location, and public recreation values;
 
-&emsp;&emsp;“(E) uses geographic information systems technology and algorithms to integrate selection criteria; and
+&emsp;&emsp;"(E) uses geographic information systems technology and algorithms to integrate selection criteria; and
 
-&emsp;&emsp;“(F) will result in achieving the goals of stewardship site selection at the lowest cost.
+&emsp;&emsp;"(F) will result in achieving the goals of stewardship site selection at the lowest cost.
 
-&emsp;“(8)
+&emsp;"(8)
 
-Qualified applicants.—The term ‘qualified applicant’ means a non-Federal person that owns title to property located within the borders of the Region.
+Qualified applicants.—The term 'qualified applicant' means a non-Federal person that owns title to property located within the borders of the Region.
 
-&emsp;“(9)
+&emsp;"(9)
 
-Threat.—The term ‘threat’ means a threat that is likely to destroy or seriously degrade a conservation target or a recreation area.
+Threat.—The term 'threat' means a threat that is likely to destroy or seriously degrade a conservation target or a recreation area.
 
-#### “SEC. 4. LONG ISLAND SOUND STEWARDSHIP INITIATIVE REGION.
+#### "SEC. 4. LONG ISLAND SOUND STEWARDSHIP INITIATIVE REGION.
 
-“(a)
+"(a)
 
 Establishment.—There is established in the States of Connecticut and New York the Long Island Sound Stewardship Initiative Region.
 
-“(b)
+"(b)
 
 Boundaries.—The Region consists of the immediate coastal upland areas along—
 
-&emsp;“(1) Long Island Sound between mean high water and the inland boundary, as described on the map entitled ‘Long Island Sound Stewardship Region’ and dated April 21, 2004; and
+&emsp;"(1) Long Island Sound between mean high water and the inland boundary, as described on the map entitled 'Long Island Sound Stewardship Region' and dated April 21, 2004; and
 
-&emsp;“(2) the Peconic Estuary as described on the map entitled ‘Peconic Estuary Program Study Area Boundaries’ and included in the Comprehensive Conservation and Management Plan for the Peconic Estuary Program and dated November 15, 2001.
+&emsp;"(2) the Peconic Estuary as described on the map entitled 'Peconic Estuary Program Study Area Boundaries' and included in the Comprehensive Conservation and Management Plan for the Peconic Estuary Program and dated November 15, 2001.
 
-#### “SEC. 5. DESIGNATION OF STEWARDSHIP SITES.
+#### "SEC. 5. DESIGNATION OF STEWARDSHIP SITES.
 
-“(a)
+"(a)
 
 In General.—The Administrator may designate a stewardship site in accordance with this Act any area that contributes to accomplishing the purpose of this Act.
 
-“(b)
+"(b)
 
 Publication of List of Recommended Sites.—The Administrator shall—
 
-&emsp;“(1) publish in the Federal Register and make available in general circulation in the States of Connecticut and New York the list of sites recommended by the Advisory Committee; and
+&emsp;"(1) publish in the Federal Register and make available in general circulation in the States of Connecticut and New York the list of sites recommended by the Advisory Committee; and
 
-&emsp;“(2) provide a 90-day period for—
+&emsp;"(2) provide a 90-day period for—
 
-&emsp;&emsp;“(A) the submission of public comment on the list; and
+&emsp;&emsp;"(A) the submission of public comment on the list; and
 
-&emsp;&emsp;“(B) an opportunity for owners of such sites to decline designation of such sites as stewardship sites.
+&emsp;&emsp;"(B) an opportunity for owners of such sites to decline designation of such sites as stewardship sites.
 
-“(c)
+"(c)
 
 Opinion Regarding Owner's Responsibilities.—The Administrator may not designate an area as a stewardship site under this Act unless the Administrator provides to the owner of the area, and the owner acknowledges to the Administrator receipt of, a comprehensive opinion in plain English setting forth expressly the responsibility of the owner that arises from such designation.
 
-“(d)
+"(d)
 
 Designation of Stewardship Sites.—Not later than 150 days after receiving from the Advisory Committee its list of recommended sites, the Administrator—
 
-&emsp;“(1) shall review the recommendations of the Advisory Committee; and
+&emsp;"(1) shall review the recommendations of the Advisory Committee; and
 
-&emsp;“(2) may designate as a stewardship site any site included in the list.
+&emsp;"(2) may designate as a stewardship site any site included in the list.
 
-#### “SEC. 6. RECOMMENDATIONS BY ADVISORY COMMITTEE.
+#### "SEC. 6. RECOMMENDATIONS BY ADVISORY COMMITTEE.
 
-“(a)
+"(a)
 
 In General.—The Advisory Committee shall—
 
-&emsp;“(1) in accordance with this section, evaluate applications—
+&emsp;"(1) in accordance with this section, evaluate applications—
 
-&emsp;&emsp;“(A) for designation of areas as stewardship sites;
+&emsp;&emsp;"(A) for designation of areas as stewardship sites;
 
-&emsp;&emsp;“(B) to develop management plans to address threats to stewardship sites; and
+&emsp;&emsp;"(B) to develop management plans to address threats to stewardship sites; and
 
-&emsp;&emsp;“(C) to act on opportunities to protect and enhance stewardship sites;
+&emsp;&emsp;"(C) to act on opportunities to protect and enhance stewardship sites;
 
-&emsp;“(2) develop recommended guidelines, criteria, schedules, and due dates for the submission of applications and the evaluation by the Advisory Committee of information to recommend areas for designation as stewardship sites that fulfill terms of a multi-year management plan;
+&emsp;"(2) develop recommended guidelines, criteria, schedules, and due dates for the submission of applications and the evaluation by the Advisory Committee of information to recommend areas for designation as stewardship sites that fulfill terms of a multi-year management plan;
 
-&emsp;“(3) recommend to the Administrator a list of sites for designation as stewardship sites that further the purpose of this Act;
+&emsp;"(3) recommend to the Administrator a list of sites for designation as stewardship sites that further the purpose of this Act;
 
-&emsp;“(4) develop management plans to address threats to stewardship sites;
+&emsp;"(4) develop management plans to address threats to stewardship sites;
 
-&emsp;“(5) raise awareness of the values of and threats to stewardship sites;
+&emsp;"(5) raise awareness of the values of and threats to stewardship sites;
 
-&emsp;“(6) recommend that the Administrator award grants to qualified applicants; and
+&emsp;"(6) recommend that the Administrator award grants to qualified applicants; and
 
-&emsp;“(7) recommend to the Administrator ways to leverage additional resources for improved stewardship of the Region.
+&emsp;"(7) recommend to the Administrator ways to leverage additional resources for improved stewardship of the Region.
 
-“(b)
+"(b)
 
 Identification of Sites.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Any qualified applicant may submit an application to the Advisory Committee to have a site recommended to the Administrator for designation as a stewardship site.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Identification.—The Advisory Committee shall review each application submitted under this subsection to determine whether the site exhibits values that promote the purpose of this Act.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Natural resource-based recreation areas.—In reviewing an application for recommendation of a recreation area for designation as a stewardship site, the Advisory Committee may use a selection technique that includes consideration of—
 
-&emsp;&emsp;“(A) public access;
+&emsp;&emsp;"(A) public access;
 
-&emsp;&emsp;“(B) community support;
+&emsp;&emsp;"(B) community support;
 
-&emsp;&emsp;“(C) high population density;
+&emsp;&emsp;"(C) high population density;
 
-&emsp;&emsp;“(D) environmental justice (as defined in section 385.3 of title 33, Code of Federal Regulations (or successor regulations));
+&emsp;&emsp;"(D) environmental justice (as defined in section 385.3 of title 33, Code of Federal Regulations (or successor regulations));
 
-&emsp;&emsp;“(E) open spaces; and
+&emsp;&emsp;"(E) open spaces; and
 
-&emsp;&emsp;“(F) cultural, historic, and scenic characteristics.
+&emsp;&emsp;"(F) cultural, historic, and scenic characteristics.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Natural areas with ecological value.—In reviewing an application for recommendation of a natural area with ecological value for designation as a stewardship site, the Advisory Committee may use a selection technique that includes consideration of—
 
-&emsp;&emsp;“(A) measurable conservation targets for the Region; and
+&emsp;&emsp;"(A) measurable conservation targets for the Region; and
 
-&emsp;&emsp;“(B) prioritizing new sites using systematic site selection, which shall include consideration of—
+&emsp;&emsp;"(B) prioritizing new sites using systematic site selection, which shall include consideration of—
 
-&emsp;&emsp;&emsp;“(i) ecological uniqueness;
+&emsp;&emsp;&emsp;"(i) ecological uniqueness;
 
-&emsp;&emsp;&emsp;“(ii) species viability;
+&emsp;&emsp;&emsp;"(ii) species viability;
 
-&emsp;&emsp;&emsp;“(iii) habitat heterogeneity;
+&emsp;&emsp;&emsp;"(iii) habitat heterogeneity;
 
-&emsp;&emsp;&emsp;“(iv) size;
+&emsp;&emsp;&emsp;"(iv) size;
 
-&emsp;&emsp;&emsp;“(v) quality;
+&emsp;&emsp;&emsp;"(v) quality;
 
-&emsp;&emsp;&emsp;“(vi) open spaces;
+&emsp;&emsp;&emsp;"(vi) open spaces;
 
-&emsp;&emsp;&emsp;“(vii) land cover;
+&emsp;&emsp;&emsp;"(vii) land cover;
 
-&emsp;&emsp;&emsp;“(viii) scientific, research, or educational value; and
+&emsp;&emsp;&emsp;"(viii) scientific, research, or educational value; and
 
-&emsp;&emsp;&emsp;“(ix) threats.
+&emsp;&emsp;&emsp;"(ix) threats.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Deviation from process.—The Advisory Committee may accept an application to recommend a site other than as provided in this subsection, if the Advisory Committee—
 
-&emsp;&emsp;“(A) determines that the site makes significant ecological or recreational contributions to the Region; and
+&emsp;&emsp;"(A) determines that the site makes significant ecological or recreational contributions to the Region; and
 
-&emsp;&emsp;“(B) provides to the Administrator the reasons for deviating from the process otherwise described in this subsection.
+&emsp;&emsp;"(B) provides to the Administrator the reasons for deviating from the process otherwise described in this subsection.
 
-“(c)
+"(c)
 
 Submission of List of Recommended Sites.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—After completion of the site identification process set forth in subsection (b), the Advisory Committee shall submit to the Administrator its list of sites recommended for designation as stewardship sites.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Limitation.—The Advisory Committee shall not include a site in the list submitted under this subsection unless, prior to submission of the list, the owner of the site is—
 
-&emsp;&emsp;“(A) notified of the inclusion of the site in the list; and
+&emsp;&emsp;"(A) notified of the inclusion of the site in the list; and
 
-&emsp;&emsp;“(B) allowed to decline inclusion of the site in the list.
+&emsp;&emsp;"(B) allowed to decline inclusion of the site in the list.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Public comment.—In identifying sites for inclusion in the list, the Advisory Committee shall provide an opportunity for submission of, and consider, public comments.
 
-#### “SEC. 7. GRANTS AND ASSISTANCE.
+#### "SEC. 7. GRANTS AND ASSISTANCE.
 
-“(a)
+"(a)
 
 In General.—The Administrator may provide grants, subject to the availability of appropriations, and other assistance for projects to fulfill the purpose of this Act.
 
-“(b)
+"(b)
 
 Federal Share.—The Federal share of the cost of an activity carried out using any assistance or grant under this Act shall not exceed 60 percent of the total cost of the activity.
 
-#### “SEC. 8. LONG ISLAND SOUND STEWARDSHIP ADVISORY COMMITTEE.
+#### "SEC. 8. LONG ISLAND SOUND STEWARDSHIP ADVISORY COMMITTEE.
 
-“(a)
+"(a)
 
-Establishment.—There is established a committee to be known as the ‘Long Island Sound Stewardship Advisory Committee’.
+Establishment.—There is established a committee to be known as the 'Long Island Sound Stewardship Advisory Committee'.
 
-“(b)
+"(b)
 
 Membership.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Administrator may appoint the members of the Advisory Committee in accordance with this subsection and the guidance in section 320(c) of the Federal Water Pollution Control Act (33 U.S.C. 1330(c)), except that the Governor of each State may appoint 2 members of the Advisory Committee.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Additional members.—In addition to the other members appointed under this subsection, the Advisory Committee may include—
 
-&emsp;&emsp;“(A) a representative of the Regional Plan Association;
+&emsp;&emsp;"(A) a representative of the Regional Plan Association;
 
-&emsp;&emsp;“(B) a representative of marine trade organizations; and
+&emsp;&emsp;"(B) a representative of marine trade organizations; and
 
-&emsp;&emsp;“(C) a representative of private landowner interests.
+&emsp;&emsp;"(C) a representative of private landowner interests.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Consideration of interests.—In appointing members of the Advisory Committee, the Administrator shall consider—
 
-&emsp;&emsp;“(A) Federal, State, and local government interests and tribal interests;
+&emsp;&emsp;"(A) Federal, State, and local government interests and tribal interests;
 
-&emsp;&emsp;“(B) the interests of nongovernmental organizations;
+&emsp;&emsp;"(B) the interests of nongovernmental organizations;
 
-&emsp;&emsp;“(C) academic interests;
+&emsp;&emsp;"(C) academic interests;
 
-&emsp;&emsp;“(D) private interests including land, agriculture, and business interests; and
+&emsp;&emsp;"(D) private interests including land, agriculture, and business interests; and
 
-&emsp;&emsp;“(E) recreational and commercial fishing interests.
+&emsp;&emsp;"(E) recreational and commercial fishing interests.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Chairperson.—In addition to the other members appointed under this subsection, the Administrator may appoint as a member of the Advisory Committee an individual to serve as the Chairperson, who may be the Director of the Long Island Sound Office of the Environmental Protection Agency.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Completion of appointments.—The Administrator shall complete the appointment of all members of the Advisory Committee by not later than 180 days after the date of enactment of this Act \[Oct. 16, 2006\].
 
-&emsp;&emsp;“(A) \[sic\]
+&emsp;&emsp;"(A) \[sic\]
 
 Vacancies.—A vacancy on the Advisory Committee—
 
-&emsp;&emsp;&emsp;“(i) shall be filled not later than 90 days after the vacancy occurs;
+&emsp;&emsp;&emsp;"(i) shall be filled not later than 90 days after the vacancy occurs;
 
-&emsp;&emsp;&emsp;“(ii) shall not affect the powers of the Advisory Committee; and
+&emsp;&emsp;&emsp;"(ii) shall not affect the powers of the Advisory Committee; and
 
-&emsp;&emsp;&emsp;“(iii) shall be filled in the same manner as the original appointment was made.
+&emsp;&emsp;&emsp;"(iii) shall be filled in the same manner as the original appointment was made.
 
-“(c)
+"(c)
 
 Term.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—A member of the Advisory Committee shall be appointed for a term of 4 years.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Multiple terms.—An individual may be appointed as a member of the Advisory Committee for more than 1 term.
 
-“(d)
+"(d)
 
 Powers.—The Advisory Committee may hold such hearings, meet and act at such times and places, take such testimony, and receive such evidence as the Advisory Committee considers advisable to carry out this Act.
 
-“(e)
+"(e)
 
 Meetings.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Advisory Committee shall meet at the call of the Chairperson, but no fewer than 4 times each year.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Initial meeting.—Not later than 30 days after the date on which all members of the Advisory Committee have been appointed, the Chairperson shall call the initial meeting of the Advisory Committee.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Quorum.—A majority of the members of the Advisory Committee shall constitute a quorum, but a lesser number of members may hold hearings.
 
-“(f)
+"(f)
 
 Adaptive Management.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Advisory Committee shall use an adaptive management framework to identify the best policy initiatives and actions through—
 
-&emsp;&emsp;“(A) definition of strategic goals;
+&emsp;&emsp;"(A) definition of strategic goals;
 
-&emsp;&emsp;“(B) definition of policy options for methods to achieve strategic goals;
+&emsp;&emsp;"(B) definition of policy options for methods to achieve strategic goals;
 
-&emsp;&emsp;“(C) establishment of measures of success;
+&emsp;&emsp;"(C) establishment of measures of success;
 
-&emsp;&emsp;“(D) identification of uncertainties;
+&emsp;&emsp;"(D) identification of uncertainties;
 
-&emsp;&emsp;“(E) development of informative models of policy implementation;
+&emsp;&emsp;"(E) development of informative models of policy implementation;
 
-&emsp;&emsp;“(F) separation of the landscape into geographic units;
+&emsp;&emsp;"(F) separation of the landscape into geographic units;
 
-&emsp;&emsp;“(G) monitoring key responses at different spatial and temporal scales; and
+&emsp;&emsp;"(G) monitoring key responses at different spatial and temporal scales; and
 
-&emsp;&emsp;“(H) evaluation of outcomes and incorporation into management strategies.
+&emsp;&emsp;"(H) evaluation of outcomes and incorporation into management strategies.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Application of adaptive management framework.—The Advisory Committee shall apply the adaptive management framework to the process for making recommendations under subsections (b) through (f) of section 6 to the Administrator regarding sites that should be designated as stewardship sites.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Adaptive management.—The adaptive management framework required by this subsection shall consist of a scientific process—
 
-&emsp;&emsp;“(A) for—
+&emsp;&emsp;"(A) for—
 
-&emsp;&emsp;&emsp;“(i) developing predictive models;
+&emsp;&emsp;&emsp;"(i) developing predictive models;
 
-&emsp;&emsp;&emsp;“(ii) making management policy decisions based upon the model outputs;
+&emsp;&emsp;&emsp;"(ii) making management policy decisions based upon the model outputs;
 
-&emsp;&emsp;&emsp;“(iii) revising the management policies as data become available with which to evaluate the policies; and
+&emsp;&emsp;&emsp;"(iii) revising the management policies as data become available with which to evaluate the policies; and
 
-&emsp;&emsp;&emsp;“(iv) acknowledging uncertainty, complexity, and variance in the spatial and temporal aspects of natural systems; and
+&emsp;&emsp;&emsp;"(iv) acknowledging uncertainty, complexity, and variance in the spatial and temporal aspects of natural systems; and
 
-&emsp;&emsp;“(B) that requires that management be viewed as experimental.
+&emsp;&emsp;"(B) that requires that management be viewed as experimental.
 
-“(g)
+"(g)
 
 Termination of Advisory Committee.—The Advisory Committee shall terminate on December 31, 2011.
 
-#### “SEC. 9. REPORTS.
+#### "SEC. 9. REPORTS.
 
-“(a)
+"(a)
 
 Administrator.—The Administrator shall publish and make available to the public on the Internet and in paper form—
 
-&emsp;“(1) not later than 1 year after the date of enactment of this Act \[Oct. 16, 2006\], a report that—
+&emsp;"(1) not later than 1 year after the date of enactment of this Act \[Oct. 16, 2006\], a report that—
 
-&emsp;&emsp;“(A) assesses the role of this Act in protecting the Long Island Sound;
+&emsp;&emsp;"(A) assesses the role of this Act in protecting the Long Island Sound;
 
-&emsp;&emsp;“(B) establishes in coordination with the Advisory Committee guidelines, criteria, schedules, and due dates for evaluating information to designate stewardship sites;
+&emsp;&emsp;"(B) establishes in coordination with the Advisory Committee guidelines, criteria, schedules, and due dates for evaluating information to designate stewardship sites;
 
-&emsp;&emsp;“(C) includes information about any grants that are available for the purchase of land or property rights to protect stewardship sites; and
+&emsp;&emsp;"(C) includes information about any grants that are available for the purchase of land or property rights to protect stewardship sites; and
 
-&emsp;&emsp;“(D) accounts for funds received and expended during the previous fiscal year;
+&emsp;&emsp;"(D) accounts for funds received and expended during the previous fiscal year;
 
-&emsp;“(2) an update of such report, at least every other year; and
+&emsp;"(2) an update of such report, at least every other year; and
 
-&emsp;“(3) information on funding and any new stewardship sites more frequently than every other year.
+&emsp;"(3) information on funding and any new stewardship sites more frequently than every other year.
 
-“(b)
+"(b)
 
 Advisory Committee.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Report.—For each of fiscal years 2007 through 2011, the Advisory Committee shall submit to the Administrator and the decisionmaking body of the Long Island Sound Study Management Conference established under section 320 of the Federal Water Pollution Control Act (33 U.S.C. 1330), an annual report that contains—
 
-&emsp;&emsp;“(A) a detailed statement of the findings and conclusions of the Advisory Committee since the last report under this subsection;
+&emsp;&emsp;"(A) a detailed statement of the findings and conclusions of the Advisory Committee since the last report under this subsection;
 
-&emsp;&emsp;“(B) a description of all sites recommended by the Advisory Committee to the Administrator for designation as stewardship sites;
+&emsp;&emsp;"(B) a description of all sites recommended by the Advisory Committee to the Administrator for designation as stewardship sites;
 
-&emsp;&emsp;“(C) the recommendations of the Advisory Committee for such legislation and administrative actions as the Advisory Committee considers appropriate; and
+&emsp;&emsp;"(C) the recommendations of the Advisory Committee for such legislation and administrative actions as the Advisory Committee considers appropriate; and
 
-&emsp;&emsp;“(D) in accordance with paragraph (2), the recommendations of the Advisory Committee for the awarding of grants.
+&emsp;&emsp;"(D) in accordance with paragraph (2), the recommendations of the Advisory Committee for the awarding of grants.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Recommendation for grants.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—The Advisory Committee shall recommend that the Administrator award grants to qualified applicants to help to secure and improve the open space, public access, or ecological values of stewardship sites, through—
 
-&emsp;&emsp;&emsp;“(i) purchase of the property of a stewardship site;
+&emsp;&emsp;&emsp;"(i) purchase of the property of a stewardship site;
 
-&emsp;&emsp;&emsp;“(ii) purchase of relevant property rights to a stewardship site; or
+&emsp;&emsp;&emsp;"(ii) purchase of relevant property rights to a stewardship site; or
 
-&emsp;&emsp;&emsp;“(iii) entering into any other binding legal arrangement that ensures that the values of a stewardship site are sustained, including entering into an arrangement with a land manager or property owner to develop or implement a management plan that is necessary for the conservation of natural resources.
+&emsp;&emsp;&emsp;"(iii) entering into any other binding legal arrangement that ensures that the values of a stewardship site are sustained, including entering into an arrangement with a land manager or property owner to develop or implement a management plan that is necessary for the conservation of natural resources.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Equitable distribution of funds.—The Advisory Committee shall exert due diligence to ensure that its recommendations result in an equitable distribution of funds between the States.
 
-#### “SEC. 10. PRIVATE PROPERTY PROTECTION; NO REGULATORY AUTHORITY.
+#### "SEC. 10. PRIVATE PROPERTY PROTECTION; NO REGULATORY AUTHORITY.
 
-“(a)
+"(a)
 
 Access to Private Property.—Nothing in this Act—
 
-&emsp;“(1) requires any private property owner to allow public access (including Federal, State, or local government access) to the private property; or
+&emsp;"(1) requires any private property owner to allow public access (including Federal, State, or local government access) to the private property; or
 
-&emsp;“(2) modifies the application of any provision of Federal, State, or local law with regard to public access to or use of private property, except as entered into by voluntary agreement of the owner or custodian of the property.
+&emsp;"(2) modifies the application of any provision of Federal, State, or local law with regard to public access to or use of private property, except as entered into by voluntary agreement of the owner or custodian of the property.
 
-“(b)
+"(b)
 
 Liability.—Establishment of the Region does not create any liability, or have any effect on any liability under any other law, of any private property owner with respect to any person injured on the private property.
 
-“(c)
+"(c)
 
 Recognition of Authority to Control Land Use.—Nothing in this Act modifies the authority of Federal, State, or local governments to regulate land use.
 
-“(d)
+"(d)
 
 Participation of Private Property Owners Not Required.—Nothing in this Act requires the owner of any private property located within the boundaries of the Region to participate in any land conservation, financial or technical assistance, or other programs established under this Act.
 
-“(e)
+"(e)
 
 Purchase of Land or Interest in Land From Willing Sellers Only.—Funds appropriated to carry out this Act may be used to purchase land or interests in land only from willing sellers.
 
-“(f)
+"(f)
 
 Manner of Acquisition.—All acquisitions of land under this Act shall be made in a voluntary manner and shall not be the result of forced takings.
 
-“(g)
+"(g)
 
 Effect of Establishment.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The boundaries of the Region represent the area within which Federal funds appropriated for the purpose of this Act may be expended.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Regulatory authority.—The establishment of the Region and the boundaries of the Region do not provide any regulatory authority not in existence immediately before the enactment of this Act \[Oct. 16, 2006\] on land use in the Region by any management entity, except for such property rights as may be purchased from or donated by the owner of the property (including public lands donated by a State or local government).
 
-#### “SEC. 11. AUTHORIZATION OF APPROPRIATIONS.
+#### "SEC. 11. AUTHORIZATION OF APPROPRIATIONS.
 
-“(a)
+"(a)
 
 In General.—There is authorized to be appropriated to the Administrator $25,000,000 for each of fiscal years 2007 through 2011 to carry out this Act, including for—
 
-&emsp;“(1) acquisition of land and interests in land;
+&emsp;"(1) acquisition of land and interests in land;
 
-&emsp;“(2) development and implementation of site management plans;
+&emsp;"(2) development and implementation of site management plans;
 
-&emsp;“(3) site enhancements to reduce threats or promote stewardship; and
+&emsp;"(3) site enhancements to reduce threats or promote stewardship; and
 
-&emsp;“(4) administrative expenses of the Advisory Committee and the Administrator.
+&emsp;"(4) administrative expenses of the Advisory Committee and the Administrator.
 
-“(b)
+"(b)
 
 Use of Funds.—Amounts made available to the Administrator under this section each fiscal year shall be used by the Administrator after reviewing the recommendations included in the annual reports of the Advisory Committee under section 9.
 
-“(c)
+"(c)
 
 Authorization of Gifts, Devises, and Bequests for System.—In furtherance of the purpose of this Act, the Administrator may accept and use any gift, devise, or bequest of real or personal property, proceeds therefrom, or interests therein, to carry out this Act. Such acceptance may be subject to the terms of any restrictive or affirmative covenant, or condition of servitude, if such terms are considered by the Administrator to be in accordance with law and compatible with the purpose for which acceptance is sought.
 
-“(d)
+"(d)
 
-Limitation on Administrative Costs.—Of the amount available each fiscal year to carry out this Act, not more than 8 percent may be used for administrative costs.”
+Limitation on Administrative Costs.—Of the amount available each fiscal year to carry out this Act, not more than 8 percent may be used for administrative costs."
 

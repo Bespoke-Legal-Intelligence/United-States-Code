@@ -64,7 +64,7 @@ Withdrawal of Eligibility Designations.—After providing notice and an opportun
 
 (g)
 
-Ending, Suspending, and Reducing Air Transportation.—An air carrier providing air transportation for compensation under this section may end, suspend, or reduce that transportation below the level of transportation established by the Secretary under this section only after giving the Secretary, the affected community, and the State or local government or person paying compensation under this section at least 30 days’ notice before ending, suspending, or reducing the transportation.
+Ending, Suspending, and Reducing Air Transportation.—An air carrier providing air transportation for compensation under this section may end, suspend, or reduce that transportation below the level of transportation established by the Secretary under this section only after giving the Secretary, the affected community, and the State or local government or person paying compensation under this section at least 30 days' notice before ending, suspending, or reducing the transportation.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1149; Pub. L. 106–181, title II, §202, Apr. 5, 2000, 114 Stat. 91.)
 
@@ -112,15 +112,15 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §419(d); added Oct. 24, 1978, Pu
 
 49 App.:1389(d)(6).
 
-In subsection (a)(1), before clause (A), the words “that the Secretary provide compensation to an air carrier to provide air transportation” are substituted for “for compensated air transportation in accordance with this subsection” for clarity. In clause (B)(i), the word “transportation” is substituted for “proposed compensated air transportation” to eliminate unnecessary words.
+In subsection (a)(1), before clause (A), the words "that the Secretary provide compensation to an air carrier to provide air transportation" are substituted for "for compensated air transportation in accordance with this subsection" for clarity. In clause (B)(i), the word "transportation" is substituted for "proposed compensated air transportation" to eliminate unnecessary words.
 
-In subsections (c)–(g), the word “transportation” is substituted for “service” for consistency with the source provisions restated in subsections (a) and (b) of this section.
+In subsections (c)–(g), the word "transportation" is substituted for "service" for consistency with the source provisions restated in subsections (a) and (b) of this section.
 
-In subsections (c)(1) and (e), the words “appropriate State authority” are substituted for “State agency” for clarity and consistency with the source provisions restated in section 41734(a) of the revised title.
+In subsections (c)(1) and (e), the words "appropriate State authority" are substituted for "State agency" for clarity and consistency with the source provisions restated in section 41734(a) of the revised title.
 
 In subsection (d), the text of 49 App.:1389(d)(5) is omitted as unnecessary because of the restatement.
 
-In subsection (f), the word “prescribe” is substituted for “establish” for consistency in the revised title and with other titles of the United States Code.
+In subsection (f), the word "prescribe" is substituted for "establish" for consistency in the revised title and with other titles of the United States Code.
 
 #### References in Text
 

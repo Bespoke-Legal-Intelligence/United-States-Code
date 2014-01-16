@@ -4,7 +4,7 @@ Section 2971a, Pub. L. 88–452, title VI, §621, formerly §622, as added Pub. 
 
 Section 2971b, Pub. L. 88–452, title VI, §622, formerly §623, as added Pub. L. 92–424, §22, Sept. 19, 1972, 86 Stat. 696; renumbered §622, Pub. L. 95–568, §13(i), Nov. 2, 1978, 92 Stat. 2436, related to publication of guidelines in the Federal Register.
 
-Section 2971c, Pub. L. 88–452, title VI, §623, formerly §624, as added Pub. L. 92–424, §23, Sept. 19, 1972, 86 Stat.696; renumbered §623, Pub. L. 95–568, §13(i), Nov. 2, 1978, 92 Stat. 2436, set forth nondiscrimination provisions.
+Section 2971c, Pub. L. 88–452, title VI, §623, formerly §624, as added Pub. L. 92–424, §23, Sept. 19, 1972, 86 Stat. 696; renumbered §623, Pub. L. 95–568, §13(i), Nov. 2, 1978, 92 Stat. 2436, set forth nondiscrimination provisions.
 
 Section 2971d, Pub. L. 88–452, title VI, §624, formerly §625, as added Pub. L. 92–424, §24, Sept. 19, 1972, 86 Stat. 697; amended Pub. L. 93–644, §9(d), Jan. 4, 1975, 88 Stat. 2314; renumbered §624, Pub. L. 95–568, §13(i), Nov. 2, 1978, 92 Stat. 2436, related to applicability, etc., of the poverty line.
 

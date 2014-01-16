@@ -14,7 +14,7 @@
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–239, div. A, title V, §552(c)(2), Jan. 2, 2013, 126 Stat. 1741, struck out item 4651 “Arms, tentage, and equipment: educational institutions not maintaining units of R.O.T.C.”
+<b>2013</b>—Pub. L. 112–239, div. A, title V, §552(c)(2), Jan. 2, 2013, 126 Stat. 1741, struck out item 4651 "Arms, tentage, and equipment: educational institutions not maintaining units of R.O.T.C."
 
 <b>1984</b>—Pub. L. 98–525, title XV, §1538(a)(2), Oct. 19, 1984, 98 Stat. 2636, added item 4657.
 

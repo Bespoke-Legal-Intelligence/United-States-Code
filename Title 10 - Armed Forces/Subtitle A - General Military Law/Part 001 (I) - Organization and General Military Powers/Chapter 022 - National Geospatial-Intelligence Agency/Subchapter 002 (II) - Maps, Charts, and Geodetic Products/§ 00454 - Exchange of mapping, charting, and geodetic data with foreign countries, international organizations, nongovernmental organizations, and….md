@@ -12,13 +12,13 @@ Nongovernmental Organizations and Academic Institutions.—The Secretary may aut
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81, §923(b)(1), amended section catchline generally, substituting “Exchange of mapping, charting, and geodetic data with foreign countries, international organizations, nongovernmental organizations, and academic institutions” for “Exchange of mapping, charting, and geodetic data with foreign countries and international organizations”.
+<b>2011</b>—Pub. L. 112–81, §923(b)(1), amended section catchline generally, substituting "Exchange of mapping, charting, and geodetic data with foreign countries, international organizations, nongovernmental organizations, and academic institutions" for "Exchange of mapping, charting, and geodetic data with foreign countries and international organizations".
 
 Pub. L. 112–81, §923(a), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-<b>2003</b>—Pub. L. 108–136 substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency”.
+<b>2003</b>—Pub. L. 108–136 substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency".
 
-<b>1996</b>—Pub. L. 104–201 renumbered section 2795 of this title as this section and substituted “National Imagery and Mapping Agency” for “Defense Mapping Agency”.
+<b>1996</b>—Pub. L. 104–201 renumbered section 2795 of this title as this section and substituted "National Imagery and Mapping Agency" for "Defense Mapping Agency".
 
 #### Effective Date of 1996 Amendment
 

@@ -20,7 +20,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2) and notwithstanding any other provision of law, eachadult resident of a public housing project shall—
+&emsp;Except as provided in paragraph (2) and notwithstanding any other provision of law, each adult resident of a public housing project shall—
 
 &emsp;&emsp;(A) contribute 8 hours per month of community service (not including political activities) within the community in which that adult resides; or
 
@@ -92,7 +92,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 #### (1) Covered family
 
-&emsp;For purposes of this subsection, the term “covered family” means a family that (A) receives benefits for welfare or public assistance from a State or other public agency under a program for which the Federal, State, or local law relating to the program requires, as a condition of eligibility for assistance under the program, participation of a member of the family in an economic self-sufficiency program, and (B) resides in a public housing dwelling unit or is provided tenant-based assistance under section 1437f of this title.
+&emsp;For purposes of this subsection, the term "covered family" means a family that (A) receives benefits for welfare or public assistance from a State or other public agency under a program for which the Federal, State, or local law relating to the program requires, as a condition of eligibility for assistance under the program, participation of a member of the family in an economic self-sufficiency program, and (B) resides in a public housing dwelling unit or is provided tenant-based assistance under section 1437f of this title.
 
 #### (2) Decreases in income for failure to comply
 
@@ -106,7 +106,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 #### (3) Effect of fraud
 
-&emsp;Notwithstanding the provisions of section 1437a(a) of this title (relating to family rental contributions) or paragraph (4) or (5) of section 1437a(b) of this title (relating to definition of income and adjusted income), if the welfare or public assistance benefits of a covered family are reduced because of an act of fraud by a member of the family under the law or program, the amount required to be paid by the covered family as a monthly contribution toward rent may not be decreased, during the period of the reduction, as a result of any decrease in the income of the family (to the extent that the decrease in income is a result of the benefits reduction). This paragraph shall apply beginning on October 21, 1998.
+&emsp;Notwithstanding the provisions of section 1437a(a) of this title (relating to family rentalcontributions) or paragraph (4) or (5) of section 1437a(b) of this title (relating to definition of income and adjusted income), if the welfare or public assistance benefits of a covered family are reduced because of an act of fraud by a member of the family under the law or program, the amount required to be paid by the covered family as a monthly contribution toward rent may not be decreased, during the period of the reduction, as a result of any decrease in the income of the family (to the extent that the decrease in income is a result of the benefits reduction). This paragraph shall apply beginning on October 21, 1998.
 
 #### (4) Notice
 
@@ -144,7 +144,7 @@ Notwithstanding any other provision of this section, in determining the income o
 
 #### (g) Definition
 
-For purposes of this section, the term “economic self-sufficiency program” means any program designed to encourage, assist, train, or facilitate the economic independence of participants and their families or to provide work for participants, including programs for job training, employment counseling, work placement, basic skills training, education, workfare, financial or household management, apprenticeship, or other activities as the Secretary may provide.
+For purposes of this section, the term "economic self-sufficiency program" means any program designed to encourage, assist, train, or facilitate the economic independence of participants and their families or to provide work for participants, including programs for job training, employment counseling, work placement, basic skills training, education, workfare, financial or household management, apprenticeship, or other activities as the Secretary may provide.
 
 (Sept. 1, 1937, ch. 896, title I, §12, as added Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 667; amended Pub. L. 97–35, title III, §322(c), Aug. 13, 1981, 95 Stat. 402; Pub. L. 100–242, title I, §112(b)(5), Feb. 5, 1988, 101 Stat. 1824; renumbered title I, Pub. L. 100–358, §5, June 29, 1988, 102 Stat. 681; Pub. L. 101–625, title V, §572(2), title IX, §955(b), Nov. 28, 1990, 104 Stat. 4236, 4421; Pub. L. 105–276, title V, §512(a), Oct. 21, 1998, 112 Stat. 2539.)
 
@@ -156,7 +156,7 @@ Subsection (k), referred to in subsec. (c)(3)(C)(i)(II), probably means section 
 
 #### Codification
 
-In subsec. (a), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act (49 Stat. 1011)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (a), "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the Davis-Bacon Act (49 Stat. 1011)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 
@@ -164,15 +164,15 @@ A prior section 12 of act Sept. 1, 1937, ch. 896, 50 Stat. 894, as amended, auth
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–276, §512(a)(1), inserted “and community service requirement” after “Labor standards” in section catchline.
+<b>1998</b>—Pub. L. 105–276, §512(a)(1), inserted "and community service requirement" after "Labor standards" in section catchline.
 
 Subsecs. (c) to (g). Pub. L. 105–276, §512(a)(2), added subsecs. (c) to (g).
 
 <b>1990</b>—Pub. L. 101–625, §955(b), designated existing provisions as subsec. (a) and added subsec. (b).
 
-Pub. L. 101–625, §572(2), substituted “low-income housing” for “lower income housing”.
+Pub. L. 101–625, §572(2), substituted "low-income housing" for "lower income housing".
 
-<b>1988</b>—Pub. L. 100–242 struck out “annual” before “contributions”.
+<b>1988</b>—Pub. L. 100–242 struck out "annual" before "contributions".
 
 <b>1981</b>—Pub. L. 97–35 substituted reference to lower income for reference to low-income.
 
@@ -182,7 +182,7 @@ Amendment by title V of Pub. L. 105–276 effective and applicable beginning upo
 
 #### Effective Date of 1990 Amendment
 
-Section 955(d) of Pub. L. 101–625 provided that: “The amendments made by this section \[amending this section, section 5310 of this title, and section 1701q of Title 12, Banks and Banking\] shall apply to any volunteer services provided before, on, or after the date of the enactment of this Act \[Nov. 28, 1990\], except that such amendments may not be construed to require the repayment of any wages paid before the date of the enactment of this Act for services provided before such date.”
+Section 955(d) of Pub. L. 101–625 provided that: "The amendments made by this section \[amending this section, section 5310 of this title, and section 1701q of Title 12, Banks and Banking\] shall apply to any volunteer services provided before, on, or after the date of the enactment of this Act \[Nov. 28, 1990\], except that such amendments may not be construed to require the repayment of any wages paid before the date of the enactment of this Act for services provided before such date."
 
 #### Effective Date of 1981 Amendment
 

@@ -6,7 +6,7 @@ It is the intent of the Congress that the Secretary of State should seek prompt 
 
 #### (b) Money payments pursuant to authority from Federal Communications Commission
 
-Accordingly, the Board may make payments to the United States radio broadcasting station licensees upon their application for expenses which they have incurred before, on, or after October 4, 1983, in mitigating, pursuant to special temporary authority from the Federal Communications Commission, the effects of activities by the Government of Cuba which directly interfere with the transmission or reception of broadcasts by these licensees. Such expenses shall be limited to the costs of equipment replaced (less depreciation) and associated technical and engineering costs.
+Accordingly, the Board may make payments to the United States radio broadcasting stationlicensees upon their application for expenses which they have incurred before, on, or after October 4, 1983, in mitigating, pursuant to special temporary authority from the Federal Communications Commission, the effects of activities by the Government of Cuba which directly interfere with the transmission or reception of broadcasts by these licensees. Such expenses shall be limited to the costs of equipment replaced (less depreciation) and associated technical and engineering costs.
 
 #### (c) Regulations and procedures
 
@@ -14,7 +14,7 @@ The Federal Communications Commission shall issue such regulations and establish
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated to the Board, $5,000,000 for use in compensating United States radio broadcasting licensees pursuant to this section. Amounts appropriated under thissection are authorized to be available until expended.
+There are authorized to be appropriated to the Board, $5,000,000 for use in compensating United States radio broadcasting licensees pursuant to this section. Amounts appropriated under this section are authorized to be available until expended.
 
 #### (e) Four-year availability for appropriated funds
 
@@ -40,9 +40,9 @@ Section was enacted as part of the Radio Broadcasting to Cuba Act which comprise
 
 #### Amendments
 
-<b>1998</b>—Subsecs. (b), (d). Pub. L. 105–277 substituted “Board” for “Agency”.
+<b>1998</b>—Subsecs. (b), (d). Pub. L. 105–277 substituted "Board" for "Agency".
 
-<b>1984</b>—Subsec. (b). Pub. L. 98–411 substituted “replaced (less” for “(replaced less”.
+<b>1984</b>—Subsec. (b). Pub. L. 98–411 substituted "replaced (less" for "(replaced less".
 
 #### Effective Date of 1998 Amendment
 

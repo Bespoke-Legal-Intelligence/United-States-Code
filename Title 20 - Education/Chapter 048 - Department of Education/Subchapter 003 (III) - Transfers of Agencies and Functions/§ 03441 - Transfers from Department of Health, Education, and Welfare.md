@@ -58,7 +58,7 @@ There are transferred to the Secretary—
 
 There are transferred to the Department—
 
-&emsp;(1) all offices in the Office of the Assistant Secretary for Education or in the EducationDivision of the Department of Health, Education, and Welfare;
+&emsp;(1) all offices in the Office of the Assistant Secretary for Education or in the Education Division of the Department of Health, Education, and Welfare;
 
 &emsp;(2) all offices in the Department of Health, Education, and Welfare established under the provisions of law listed in subparagraphs (A) through (Q) of subsection (a)(2) of this section;
 
@@ -82,7 +82,7 @@ There are transferred to the Secretary all functions of the Secretary of Health,
 
 #### (d) Reservation of functions relating to Project Head Start
 
-Nothing in the provisions of this section or in the provisions of this chapter shall authorize the transfer of functions under part A of title V of the Economic Opportunity Act of 1964 \[42 U.S.C. 2928 et seq.\], relating to Project Head Start, from the Secretary of Health, Education, and Welfare to the Secretary.
+Nothing in the provisions of this section or in the provisions of this chapter shall authorizethe transfer of functions under part A of title V of the Economic Opportunity Act of 1964 \[42 U.S.C. 2928 et seq.\], relating to Project Head Start, from the Secretary of Health, Education, and Welfare to the Secretary.
 
 (Pub. L. 96–88, title III, §301, Oct. 17, 1979, 93 Stat. 677; Pub. L. 101–476, title IX, §901(a)(2), Oct. 30, 1990, 104 Stat. 1142; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(b)(2)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–313.)
 
@@ -114,7 +114,7 @@ The Career Education Incentive Act, referred to in subsec. (a)(2)(L), is Pub. L.
 
 The Model Secondary School for the Deaf Act, referred to in subsec. (a)(2)(N), is Pub. L. 89–694, Oct. 15, 1966, 80 Stat. 1027, which was classified to subchapter II (§693 et seq.) of chapter 20B of this title, and was repealed by Pub. L. 99–371, title IV, §410(c), Aug. 4, 1986, 100 Stat. 794. See section 4321 et seq. of this title.
 
-The Communications Act of 1934, referred to in subsec. (a)(2)(O), is act June 19, 1934, ch. 652, 48 Stat. 1064.Subpart A of part IV of title III of the Act (which is classified principally to subpart A (§390 et seq.) of part IV of subchapter III of chapter 5 of Title 47, Telecommunications) was amended by section 201 of Pub. L. 95–567, Nov. 2, 1978, 92 Stat. 2409, and, as so amended, the provisions relating to telecommunications demonstrations which had appeared in subpart A were restated in a new subpart B (§395 et seq.). Subpart B was subsequently redesignated subpart C by Pub. L. 101–437, title II, §203(a)(2), Oct. 17, 1990, 104 Stat. 998. For complete classification of the 1934 Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsec. (a)(2)(O), is act June 19, 1934, ch. 652, 48 Stat. 1064. Subpart A of part IV of title III of the Act (which is classified principally to subpart A (§390 et seq.) of part IV of subchapter III of chapter 5 of Title 47, Telecommunications) was amended by section 201 of Pub. L. 95–567, Nov. 2, 1978, 92 Stat. 2409, and, as so amended, the provisions relating to telecommunications demonstrations which had appeared in subpart A were restated in a new subpart B (§395 et seq.). Subpart B was subsequently redesignated subpart C by Pub. L. 101–437, title II, §203(a)(2), Oct. 17, 1990, 104 Stat. 998. For complete classification of the 1934 Act to the Code, see section 609 of Title 47 and Tables.
 
 The Alcohol and Drug Abuse Education Act, referred to in subsec. (a)(2)(Q), is Pub. L. 91–527, Dec. 3, 1970, 84 Stat. 1385, which was classified generally to chapter 14 (§1001 et seq.) of Title 21, Food and Drugs, prior to repeal by Pub. L. 97–35, title V, §587(a)(3), Aug. 13, 1981, 95 Stat. 480.
 
@@ -124,7 +124,7 @@ Act of June 20, 1936, referred to in subsec. (a)(4)(B), is act June 20, 1936, ch
 
 #### Codification
 
-“Section 550 of title 40” substituted in subsec. (a)(2)(P) for “section 203(k) of the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Section 550 of title 40" substituted in subsec. (a)(2)(P) for "section 203(k) of the Federal Property and Administrative Services Act of 1949" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -132,7 +132,7 @@ Act of June 20, 1936, referred to in subsec. (a)(4)(B), is act June 20, 1936, ch
 
 Subsec. (b)(4) to (7). Pub. L. 104–208, §101(e) \[title VII, §709(b)(2)(B)\], redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which transferred the offices, etc., of the Institute of Museum Services of the Department of Health, Education, and Welfare to the Department of Education.
 
-<b>1990</b>—Subsec. (a)(2)(H). Pub. L. 101–476 substituted “Individuals with Disabilities Education Act” for “Education of the Handicapped Act”.
+<b>1990</b>—Subsec. (a)(2)(H). Pub. L. 101–476 substituted "Individuals with Disabilities Education Act" for "Education of the Handicapped Act".
 
 #### Change of Name
 

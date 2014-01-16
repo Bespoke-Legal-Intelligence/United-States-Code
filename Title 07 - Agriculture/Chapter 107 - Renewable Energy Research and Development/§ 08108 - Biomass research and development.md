@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Biobased product
 
-&emsp;The term “biobased product” means—
+&emsp;The term "biobased product" means—
 
 &emsp;&emsp;(A) an industrial product (including chemicals, materials, and polymers) produced from biomass; or
 
@@ -14,11 +14,11 @@ In this section:
 
 #### (2) Demonstration
 
-&emsp;The term “demonstration” means demonstration of technology in a pilot plant or semi-works scale facility, including a plant or facility located on a farm.
+&emsp;The term "demonstration" means demonstration of technology in a pilot plant or semi-works scale facility, including a plant or facility located on a farm.
 
 #### (3) Initiative
 
-&emsp;The term “Initiative” means the Biomass Research and Development Initiative established under subsection (e).
+&emsp;The term "Initiative" means the Biomass Research and Development Initiative established under subsection (e).
 
 #### (b) Cooperation and coordination in biomass research and development
 
@@ -174,11 +174,11 @@ In this section:
 
 &emsp;&emsp;&emsp;(iii) to enhance the value of coproducts produced using the technologies and processes; and
 
-&emsp;&emsp;(C) a diversity of economically and environmentally sustainable domestic sources of renewable biomass for conversion to biofuels, bioenergy, and biobased products.
+&emsp;&emsp;(C) a diversity of economically and environmentally sustainable domestic sources ofrenewable biomass for conversion to biofuels, bioenergy, and biobased products.
 
 #### (3) Technical areas
 
-&emsp;The Secretary of Agriculture and the Secretary of Energy, in consultation with the Administrator of the Environmental Protection Agency and heads of other appropriate departments and agencies (referred to in this subsection as the “Secretaries”), shall direct the Initiative in the 3 following areas:
+&emsp;The Secretary of Agriculture and the Secretary of Energy, in consultation with the Administrator of the Environmental Protection Agency and heads of other appropriate departments and agencies (referred to in this subsection as the "Secretaries"), shall direct the Initiative in the 3 following areas:
 
 #### (A) Feedstocks development
 
@@ -272,7 +272,7 @@ In this section:
 
 #### (C) Technology and information transfer
 
-&emsp;&emsp;The Secretary of Agriculture and the Secretary of Energy shall ensure that applicable research results and technologies from the Initiative are—
+&emsp;&emsp;The Secretary of Agriculture and the Secretary of Energy shall ensure that applicableresearch results and technologies from the Initiative are—
 
 &emsp;&emsp;&emsp;(i) adapted, made available, and disseminated, as appropriate; and
 
@@ -334,7 +334,7 @@ A prior section 9008 of Pub. L. 107–171 amended title III of Pub. L. 106–224
 
 #### Amendments
 
-<b>2013</b>—Subsec. (h)(2). Pub. L. 112–240 substituted “2013” for “2012”.
+<b>2013</b>—Subsec. (h)(2). Pub. L. 112–240 substituted "2013" for "2012".
 
 #### Effective Date of 2013 Amendment
 

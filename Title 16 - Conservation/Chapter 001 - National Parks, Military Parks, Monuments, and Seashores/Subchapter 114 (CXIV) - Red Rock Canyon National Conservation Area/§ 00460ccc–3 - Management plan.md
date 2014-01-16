@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) No later than January 1, 1997, the Secretary shall develop and transmit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives, a general management plan for the conservation area, which shall describe the appropriate uses and development of the conservation area consistent with the purposes of this subchapter.
+(1) No later than January 1, 1997, the Secretary shall develop and transmit to the Committee on Energy and Natural Resources of the United States Senate and the Committee on Natural Resources of the United States House of Representatives, a general management plan forthe conservation area, which shall describe the appropriate uses and development of the conservation area consistent with the purposes of this subchapter.
 
 (2) The management plan described in paragraph (1) shall be developed with full public participation and shall include—
 
@@ -32,7 +32,7 @@ Section 5(a) of the National Forest and Public Lands of Nevada Enhancement Act o
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(1). Pub. L. 103–450 substituted “No later than January 1, 1997,” for “Within 3 full fiscal years following the fiscal year in which the date of enactment of this subchapter occurs,”.
+<b>1994</b>—Subsec. (a)(1). Pub. L. 103–450 substituted "No later than January 1, 1997," for "Within 3 full fiscal years following the fiscal year in which the date of enactment of this subchapter occurs,".
 
-Pub. L. 103–437 substituted “Natural Resources” for “Interior and Insular Affairs” after “Committee on”.
+Pub. L. 103–437 substituted "Natural Resources" for "Interior and Insular Affairs" after "Committee on".
 

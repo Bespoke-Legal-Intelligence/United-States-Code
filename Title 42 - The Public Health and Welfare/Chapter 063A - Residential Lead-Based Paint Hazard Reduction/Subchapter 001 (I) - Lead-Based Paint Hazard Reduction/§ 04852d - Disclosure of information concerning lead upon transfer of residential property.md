@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) disclose to the purchaser or lessee the presence of any known lead-based paint, or any known lead-based paint hazards, in such housing and provide to the purchaser or lessee any lead hazard evaluation report available to the seller or lessor; and
 
-&emsp;&emsp;(C) permit the purchaser a 10-day period (unless the parties mutually agree upon a different period of time) to conduct a risk assessment or inspection for the presence of lead-based paint hazards.
+&emsp;&emsp;(C) permit the purchaser a 10-day period (unless the parties mutually agree upon a different period of time) to conduct a riskassessment or inspection for the presence of lead-based paint hazards.
 
 #### (2) Contract for purchase and sale
 
@@ -26,7 +26,7 @@
 
 &emsp;The Lead Warning Statement shall contain the following text printed in large type on a separate sheet of paper attached to the contract:
 
-“Every purchaser of any interest in residential real property on which a residential dwelling was built prior to 1978 is notified that such property may present exposure to lead fromlead-based paint that may place young children at risk of developing lead poisoning. Lead poisoning in young children may produce permanent neurological damage, including learning disabilities, reduced intelligence quotient, behavioral problems, and impaired memory. Lead poisoning also poses a particular risk to pregnant women. The seller of any interest in residential real property is required to provide the buyer with any information on lead-based paint hazards from risk assessments or inspections in the seller's possession and notify the buyer of any known lead-based paint hazards. A risk assessment or inspection for possible lead-based paint hazards is recommended prior to purchase.”.
+"Every purchaser of any interest in residential real property on which a residential dwelling was built prior to 1978 is notified that such property may present exposure to lead from lead-based paint that may place young children at risk of developing lead poisoning. Lead poisoning in young children may produce permanent neurological damage, including learning disabilities, reduced intelligence quotient, behavioral problems, and impaired memory. Lead poisoning also poses a particular risk to pregnant women. The seller of any interest in residential real property is required to provide the buyer with any information on lead-based paint hazards from risk assessments or inspections in the seller's possession and notify the buyer of any known lead-based paint hazards. A risk assessment or inspection for possible lead-based paint hazards is recommended prior to purchase.".
 
 #### (4) Compliance assurance
 

@@ -2,7 +2,7 @@
 
 #### (a) Waiver provisions
 
-Any condition, stipulation, or provision binding any person to waive compliance with anyprovision of this chapter or of any rule or regulation thereunder, or of any rule of a self-regulatory organization, shall be void.
+Any condition, stipulation, or provision binding any person to waive compliance with any provision of this chapter or of any rule or regulation thereunder, or of any rule of a self-regulatory organization, shall be void.
 
 #### (b) Contract provisions in violation of chapter
 
@@ -16,13 +16,13 @@ Nothing in this chapter shall be construed (1) to affect the validity of any loa
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in text, was in the original "this title". See References in Text note set out under section 78a of this title.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §§927, 929T, amended subsec. (a) identically, substituting “a self-regulatory organization,” for “an exchange required thereby”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §§927, 929T, amended subsec. (a) identically, substituting "a self-regulatory organization," for "an exchange required thereby".
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–429 substituted in cl. (A) “paragraph (3)” for “paragraph (2) or (3)” and in cl. (B) “paragraph (1) or (2)” for “paragraph (1)”, and inserted at end “The Commission may, in a rule or regulation prescribed pursuant to such paragraph (2) of such section 78o(c) of this title, designate such rule or regulation, or portion thereof, as a rule or regulation, or portion thereof, a contract in violation of which shall not be void by reason of this subsection.”
+<b>1990</b>—Subsec. (b). Pub. L. 101–429 substituted in cl. (A) "paragraph (3)" for "paragraph (2) or (3)" and in cl. (B) "paragraph (1) or (2)" for "paragraph (1)", and inserted at end "The Commission may, in a rule or regulation prescribed pursuant to such paragraph (2) of such section 78o(c) of this title, designate such rule or regulation, or portion thereof, as a rule or regulation, or portion thereof, a contract in violation of which shall not be void by reason of this subsection."
 
 <b>1938</b>—Subsec. (b). Act June 25, 1938, inserted proviso.
 

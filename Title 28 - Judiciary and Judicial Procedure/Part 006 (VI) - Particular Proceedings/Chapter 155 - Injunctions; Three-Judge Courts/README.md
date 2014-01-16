@@ -11,7 +11,7 @@
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–381, §4, Aug. 12, 1976, 90 Stat. 1119, struck out item 2281 “Injunction against enforcement of State statute; three-judge court required”, item 2282 “Injunction against enforcement of Federal statute; three-judge court required”, and inserted “when required” after “district court” in item 2284.
+<b>1976</b>—Pub. L. 94–381, §4, Aug. 12, 1976, 90 Stat. 1119, struck out item 2281 "Injunction against enforcement of State statute; three-judge court required", item 2282 "Injunction against enforcement of Federal statute; three-judge court required", and inserted "when required" after "district court" in item 2284.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

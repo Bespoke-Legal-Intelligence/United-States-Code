@@ -4,7 +4,7 @@
 
 In fiscal year 1995 and each succeeding fiscal year—
 
-&emsp;(1) the Secretary of State shall provide funds for the operation of the Diplomatic Telecommunications Service (DTS) in a sufficient amount to sustain the current level of support services being provided by the DTS, and no portion of such amount may be reprogrammed or transferred for any other purpose;
+&emsp;(1) the Secretary of State shall provide funds for the operation of the Diplomatic Telecommunications Service (DTS) in a sufficient amount to sustain the current level of supportservices being provided by the DTS, and no portion of such amount may be reprogrammed or transferred for any other purpose;
 
 &emsp;(2) all funds for the operation and enhancement of the DTS shall be directly available for use by the Diplomatic Telecommunications Service Program Office (DTS–PO); and
 
@@ -70,7 +70,7 @@ Not later than January 15, 1995, the Secretary of State and the Director of the 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b)(3). Pub. L. 105–277 struck out “, the United States Information Agency,” after “Department of Commerce”.
+<b>1998</b>—Subsec. (b)(3). Pub. L. 105–277 struck out ", the United States Information Agency," after "Department of Commerce".
 
 #### Effective Date of 1998 Amendment
 

@@ -52,7 +52,7 @@
 
 #### (6) Definition
 
-&emsp;In this subsection, the term “special import quota” means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
+&emsp;In this subsection, the term "special import quota" means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
 
 #### (7) Limitation
 
@@ -62,7 +62,7 @@
 
 #### (1) In general
 
-&emsp;The President shall carry out an import quota program that provides that whenever the Secretary determines and announces that the average price of the base quality of uplandcotton, as determined by the Secretary, in the designated spot markets for a month exceeded 130 percent of the average price of such quality of cotton in the markets for the preceding 36 months, notwithstanding any other provision of law, there shall immediately be in effect a limited global import quota subject to the following conditions:
+&emsp;The President shall carry out an import quota program that provides that whenever the Secretary determines and announces that the average price of the base quality of upland cotton, as determined by the Secretary, in the designated spot markets for a month exceeded 130 percent of the average price of such quality of cotton in the markets for the preceding 36 months, notwithstanding any other provision of law, there shall immediately be in effect a limited global import quota subject to the following conditions:
 
 #### (A) Quantity
 
@@ -90,7 +90,7 @@
 
 #### (i) Supply
 
-&emsp;&emsp;&emsp;The term “supply” means, using the latest official data of the Bureau of the Census, the Department of Agriculture, and the Department of the Treasury—
+&emsp;&emsp;&emsp;The term "supply" means, using the latest official data of the Bureau of the Census, the Department of Agriculture, and the Department of the Treasury—
 
 &emsp;&emsp;&emsp;&emsp;(I) the carry-over of upland cotton at the beginning of the marketing year (adjusted to 480-pound bales) in which the quota is established;
 
@@ -100,7 +100,7 @@
 
 #### (ii) Demand
 
-&emsp;&emsp;&emsp;The term “demand” means—
+&emsp;&emsp;&emsp;The term "demand" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) the average seasonally adjusted annual rate of domestic mill consumption during the most recent 3 months for which data are available; and
 
@@ -112,7 +112,7 @@
 
 #### (iii) Limited global import quota
 
-&emsp;&emsp;&emsp;The term “limited global import quota” means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
+&emsp;&emsp;&emsp;The term "limited global import quota" means a quantity of imports that is not subject to the over-quota tariff rate of a tariff-rate quota.
 
 #### (E) Quota entry period
 
@@ -132,11 +132,11 @@ The Harmonized Tariff Schedule, referred to in subsecs. (b)(5)(D) and (c)(1)(C)(
 
 <b>2006</b>—Subsec. (a). Pub. L. 109–171, §1103(a)(1), struck out subsec. (a), which related to cotton user marketing certificates.
 
-Subsec. (b)(1)(B). Pub. L. 109–171, §1103(a)(2)(A), struck out “, adjusted for the value of any certificate issued under subsection (a) of this section,” after “C.I.F. Northern Europe”.
+Subsec. (b)(1)(B). Pub. L. 109–171, §1103(a)(2)(A), struck out ", adjusted for the value of any certificate issued under subsection (a) of this section," after "C.I.F. Northern Europe".
 
-Subsec. (b)(1)(C). Pub. L. 109–171, §1103(a)(2)(B), struck out “, for the value of any certificates issued under subsection (a) of this section” before period at end.
+Subsec. (b)(1)(C). Pub. L. 109–171, §1103(a)(2)(B), struck out ", for the value of any certificates issued under subsection (a) of this section" before period at end.
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–171, title I, §1103(b), Feb. 8, 2006, 120 Stat. 5, provided that: “The amendments made by this section \[amending this section\] take effect on August 1, 2006.”
+Pub. L. 109–171, title I, §1103(b), Feb. 8, 2006, 120 Stat. 5, provided that: "The amendments made by this section \[amending this section\] take effect on August 1, 2006."
 

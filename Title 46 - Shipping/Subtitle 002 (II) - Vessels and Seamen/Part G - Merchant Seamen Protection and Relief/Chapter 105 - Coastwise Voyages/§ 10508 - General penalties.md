@@ -20,5 +20,5 @@ Section 10508 provides for a fair wage to be paid to a seaman who was engaged wi
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–206 substituted “not more than $5,000” for “$20”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–206 substituted "not more than $5,000" for "$20".
 

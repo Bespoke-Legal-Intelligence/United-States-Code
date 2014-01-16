@@ -10,7 +10,7 @@ Subject to the provisions of this chapter—
 
 &emsp;(B) If the candidate of one or more political parties (not including a major party) for the office of President was a candidate for such office in the preceding presidential election and received 5 percent or more but less than 25 percent of the total number of popular votes received by all candidates for such office, such candidate and his running mate for the office of Vice President, upon compliance with the provisions of section 9003(a) and (c), shall be treated as eligible candidates entitled to payments under section 9006 in an amount computed as provided in subparagraph (A) by taking into account all the popular votes received by such candidate for the office of President in the preceding presidential election. If eligible candidates of a minor party are entitled to payments under this subparagraph, such entitlement shall be reduced by the amount of the entitlement allowed under subparagraph (A).
 
-&emsp;(3) The eligible candidates of a minor party or a new party in a presidential election whose candidate for President in such election receives, as such candidate, 5 percent or more of the total number of popular votes cast for the office of President in such election shall be entitled to payments under section 9006 equal in the aggregate to an amount which bears the same ratio to the amount allowed under paragraph (1) for a major party as the number of popular votes received by such candidate in such election bears to the average number of popular votes received in such election by the candidates for President of the major parties. In the case of eligible candidates entitled to payments under paragraph (2), the amount allowable under this paragraph shall be limited to the amount, if any, by which the entitlement under the preceding sentence exceeds the amount of the entitlement under paragraph (2).
+&emsp;(3) The eligible candidates of a minor party or a new party in a presidential election whose candidate for President in such election receives, as such candidate, 5 percent or more of the total number of popular votes cast for the office of President in such election shall be entitled to payments under section 9006 equal inthe aggregate to an amount which bears the same ratio to the amount allowed under paragraph (1) for a major party as the number of popular votes received by such candidate in such election bears to the average number of popular votes received in such election by the candidates for President of the major parties. In the case of eligible candidates entitled to payments under paragraph (2), the amount allowable under this paragraph shall be limited to the amount, if any, by which the entitlement under the preceding sentence exceeds the amount of the entitlement under paragraph (2).
 
 #### (b) Limitations
 
@@ -34,7 +34,7 @@ In order to be eligible to receive any payment under section 9006, the candidate
 
 #### (e) Definition of immediate family
 
-For purposes of subsection (d), the term “immediate family” means a candidate's spouse, and any child, parent, grandparent, brother, half-brother, sister, or half-sister of the candidate, and the spouses of such persons.
+For purposes of subsection (d), the term "immediate family" means a candidate's spouse, and any child, parent, grandparent, brother, half-brother, sister, or half-sister of the candidate, and the spouses of such persons.
 
 (Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 565; amended Pub. L. 93–443, title IV, §404(a), (b), Oct. 15, 1974, 88 Stat. 1291; Pub. L. 94–283, title III, §§301(a), 307(d), May 11, 1976, 90 Stat. 497, 501; Pub. L. 110–172, §11(a)(42)(B), Dec. 29, 2007, 121 Stat. 2488.)
 
@@ -44,21 +44,21 @@ Section 315(b)(1)(B) of the Federal Election Campaign Act of 1971, referred to i
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(1). Pub. L. 110–172 substituted “section 315(b)(1)(B)” for “section 320(b)(1)(B)”.
+<b>2007</b>—Subsec. (a)(1). Pub. L. 110–172 substituted "section 315(b)(1)(B)" for "section 320(b)(1)(B)".
 
-<b>1976</b>—Subsec. (a)(1). Pub. L. 94–283, §307(d), substituted “section 320(b)(1)(B) of the Federal Election Campaign Act of 1971” for “section 608(c)(1)(B) of title 18, United States Code”.
+<b>1976</b>—Subsec. (a)(1). Pub. L. 94–283, §307(d), substituted "section 320(b)(1)(B) of the Federal Election Campaign Act of 1971" for "section 608(c)(1)(B) of title 18, United States Code".
 
 Subsecs. (d), (e). Pub. L. 94–283, §301(a), added subsecs. (d) and (e).
 
 <b>1974</b>—Subsec. (a)(1). Pub. L. 93–443, §404(a), substituted provision which limited aggregate amount of payments to eligible candidates to an amount not exceeding the expenditure limitations applicable to such candidates under section 608(c)(1)(B) of title 18 for prior provision which determined the amount by multiplying 15 cents by the total number of residents within the United States who attained the age of 18, determined by the Bureau of the Census, as of the first day of June of the year preceding the year of the presidential election.
 
-Subsec. (a)(2)(A). Pub. L. 93–443, §404(b)(1), substituted “allowed” for “computed”.
+Subsec. (a)(2)(A). Pub. L. 93–443, §404(b)(1), substituted "allowed" for "computed".
 
-Subsec. (a)(3). Pub. L. 93–443, §404(b)(2), substituted “allowed” for “computed” in first sentence.
+Subsec. (a)(3). Pub. L. 93–443, §404(b)(2), substituted "allowed" for "computed" in first sentence.
 
 #### Effective Date of 1976 Amendment
 
-Pub. L. 94–283, title III, §301(b), May 11, 1976, 90 Stat. 498, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of applying section 9004(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by subsection (a), expenditures made by an individual after January 29, 1976, and before the date of the enactment of this Act \[May 11, 1976\] shall not be taken into account.”
+Pub. L. 94–283, title III, §301(b), May 11, 1976, 90 Stat. 498, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "For purposes of applying section 9004(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by subsection (a), expenditures made by an individual after January 29, 1976, and before the date of the enactment of this Act \[May 11, 1976\] shall not be taken into account."
 
 #### Effective Date of 1974 Amendment
 

@@ -4,7 +4,7 @@ In this subchapter:
 
 #### (1) Arts and sciences
 
-&emsp;The term “arts and sciences” means—
+&emsp;The term "arts and sciences" means—
 
 &emsp;&emsp;(A) when referring to an organizational unit of an institution of higher education, any academic unit that offers one or more academic majors in disciplines or content areas corresponding to the academic subject matter areas in which teachers provide instruction; and
 
@@ -12,23 +12,23 @@ In this subchapter:
 
 #### (2) Children from low-income families
 
-&emsp;The term “children from low-income families” means children described in section 6333(c)(1)(A) of this title.
+&emsp;The term "children from low-income families" means children described in section 6333(c)(1)(A) of this title.
 
 #### (3) Core academic subjects
 
-&emsp;The term “core academic subjects” has the meaning given the term in section 7801 of this title.
+&emsp;The term "core academic subjects" has the meaning given the term in section 7801 of this title.
 
 #### (4) Early childhood educator
 
-&emsp;The term “early childhood educator” means an individual with primary responsibility for the education of children in an early childhood education program.
+&emsp;The term "early childhood educator" means an individual with primary responsibility for the education of children in an early childhood education program.
 
 #### (5) Educational service agency
 
-&emsp;The term “educational service agency” has the meaning given the term in section 7801 of this title.
+&emsp;The term "educational service agency" has the meaning given the term in section 7801 of this title.
 
 #### (6) Eligible partnership
 
-&emsp;Except as otherwise provided in section 1034 of this title, the term “eligible partnership” means an entity that—
+&emsp;Except as otherwise provided in section 1034 of this title, the term "eligible partnership" means an entity that—
 
 &emsp;&emsp;(A) shall include—
 
@@ -74,19 +74,19 @@ In this subchapter:
 
 #### (7) Essential components of reading instruction
 
-&emsp;The term “essential components of reading instruction” has the meaning given the term in section 6368 of this title.
+&emsp;The term "essential components of reading instruction" has the meaning given the term in section 6368 of this title.
 
 #### (8) Exemplary teacher
 
-&emsp;The term “exemplary teacher” has the meaning given the term in section 7801 of this title.
+&emsp;The term "exemplary teacher" has the meaning given the term in section 7801 of this title.
 
 #### (9) High-need early childhood education program
 
-&emsp;The term “high-need early childhood education program” means an early childhood education program serving children from low-income families that is located within the geographic area served by a high-need local educational agency.
+&emsp;The term "high-need early childhood education program" means an early childhood education program serving children from low-income families that is located within the geographic area served by a high-need local educational agency.
 
 #### (10) High-need local educational agency
 
-&emsp;The term “high-need local educational agency” means a local educational agency—
+&emsp;The term "high-need local educational agency" means a local educational agency—
 
 &emsp;&emsp;(A)(i) for which not less than 20 percent of the children served by the agency are children from low-income families;
 
@@ -104,7 +104,7 @@ In this subchapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “high-need school” means a school that, based on the most recent data available, meets one or both of the following:
+&emsp;&emsp;The term "high-need school" means a school that, based on the most recent data available, meets one or both of the following:
 
 &emsp;&emsp;&emsp;(i) The school is in the highest quartile of schools in a ranking of all schools served by a local educational agency, ranked in descending order by percentage of students from low-income families enrolled in such schools, as determined by the local educational agency based on one of the following measures of poverty:
 
@@ -150,7 +150,7 @@ In this subchapter:
 
 #### (12) Highly competent
 
-&emsp;The term “highly competent”, when used with respect to an early childhood educator, means an educator—
+&emsp;The term "highly competent", when used with respect to an early childhood educator, means an educator—
 
 &emsp;&emsp;(A) with specialized education and training in development and education of young children from birth until entry into kindergarten;
 
@@ -164,11 +164,11 @@ In this subchapter:
 
 #### (13) Highly qualified
 
-&emsp;The term “highly qualified” has the meaning given such term in section 7801 of this title and, with respect to special education teachers, in section 1401 of this title.
+&emsp;The term "highly qualified" has the meaning given such term in section 7801 of this title and, with respect to special education teachers, in section 1401 of this title.
 
 #### (14) Induction program
 
-&emsp;The term “induction program” means a formalized program for new teachers during not less than the teachers’ first two years of teaching that is designed to provide support for, and improve the professional performance and advance the retention in the teaching field of, beginning teachers. Such program shall promote effective teaching skills and shall include the following components:
+&emsp;The term "induction program" means a formalized program for new teachers during not less than the teachers' first two years of teaching that is designed to provide support for, and improve the professional performance and advance the retention in the teaching field of, beginning teachers. Such program shall promote effective teaching skills and shall include the following components:
 
 &emsp;&emsp;(A) High-quality teacher mentoring.
 
@@ -194,15 +194,15 @@ In this subchapter:
 
 #### (15) Limited English proficient
 
-&emsp;The term “limited English proficient” has the meaning given the term in section 7801 of this title.
+&emsp;The term "limited English proficient" has the meaning given the term in section 7801 of this title.
 
 #### (16) Parent
 
-&emsp;The term “parent” has the meaning given the term in section 7801 of this title.
+&emsp;The term "parent" has the meaning given the term in section 7801 of this title.
 
 #### (17) Partner institution
 
-&emsp;The term “partner institution” means an institution of higher education, which may include a two-year institution of higher education offering a dual program with a four-year institution of higher education, participating in an eligible partnership that has a teacher preparation program—
+&emsp;The term "partner institution" means an institution of higher education, which may include a two-year institution of higher education offering a dual program with a four-year institution of higher education, participating in an eligible partnership that has a teacher preparation program—
 
 &emsp;&emsp;(A) whose graduates exhibit strong performance on State-determined qualifying assessments for new teachers through—
 
@@ -224,7 +224,7 @@ In this subchapter:
 
 #### (18) Principles of scientific research
 
-&emsp;The term “principles of scientific research” means principles of research that—
+&emsp;The term "principles of scientific research" means principles of research that—
 
 &emsp;&emsp;(A) apply rigorous, systematic, and objective methodology to obtain reliable and valid knowledge relevant to education activities and programs;
 
@@ -248,15 +248,15 @@ In this subchapter:
 
 #### (19) Professional development
 
-&emsp;The term “professional development” has the meaning given the term in section 7801 of this title.
+&emsp;The term "professional development" has the meaning given the term in section 7801 of this title.
 
 #### (20) Scientifically valid research
 
-&emsp;The term “scientifically valid research” includes applied research, basic research, and field-initiated research in which the rationale, design, and interpretation are soundly developed in accordance with principles of scientific research.
+&emsp;The term "scientifically valid research" includes applied research, basic research, and field-initiated research in which the rationale, design, and interpretation are soundly developed in accordance with principles of scientific research.
 
 #### (21) Teacher mentoring
 
-&emsp;The term “teacher mentoring” means the mentoring of new or prospective teachers through a program that—
+&emsp;The term "teacher mentoring" means the mentoring of new or prospective teachers through a program that—
 
 &emsp;&emsp;(A) includes clear criteria for the selection of teacher mentors who will provide role model relationships for mentees, which criteria shall be developed by the eligible partnership and based on measures of teacher effectiveness;
 
@@ -276,7 +276,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(iii) the development of teaching skills through the use of instructional and behavioral interventions; and
 
-&emsp;&emsp;&emsp;(iv) the improvement of the mentees’ capacity to measurably advance student learning; and
+&emsp;&emsp;&emsp;(iv) the improvement of the mentees' capacity to measurably advance student learning; and
 
 &emsp;&emsp;(G) includes—
 
@@ -286,7 +286,7 @@ In this subchapter:
 
 #### (22) Teaching residency program
 
-&emsp;The term “teaching residency program” means a school-based teacher preparation program in which a prospective teacher—
+&emsp;The term "teaching residency program" means a school-based teacher preparation program in which a prospective teacher—
 
 &emsp;&emsp;(A) for one academic year, teaches alongside a mentor teacher, who is the teacher of record;
 
@@ -302,7 +302,7 @@ In this subchapter:
 
 #### (23) Teaching skills
 
-&emsp;The term “teaching skills” means skills that enable a teacher to—
+&emsp;The term "teaching skills" means skills that enable a teacher to—
 
 &emsp;&emsp;(A) increase student learning, achievement, and the ability to apply knowledge;
 
@@ -316,7 +316,7 @@ In this subchapter:
 
 &emsp;&emsp;&emsp;(ii) are specific to academic subject matter; and
 
-&emsp;&emsp;&emsp;(iii) focus on the identification of students’ specific learning needs, particularly students with disabilities, students who are limited English proficient, students who are gifted and talented, and students with low literacy levels, and the tailoring of academic instruction to such needs;
+&emsp;&emsp;&emsp;(iii) focus on the identification of students' specific learning needs, particularly students with disabilities, students who are limited English proficient, students who are gifted and talented, and students with low literacy levels, and the tailoring of academic instruction to such needs;
 
 &emsp;&emsp;(E) conduct an ongoing assessment of student learning, which may include the use of formative assessments, performance-basedassessments, project-based assessments, or portfolio assessments, that measures higher-order thinking skills (including application, analysis, synthesis, and evaluation);
 
@@ -346,7 +346,7 @@ Another prior section 1021, Pub. L. 89–329, title II, §201, Nov. 8, 1965, 79 
 
 #### Amendments
 
-<b>2009</b>—Par. (22)(D). Pub. L. 111–39 added subpar. (D) and struck out former subpar (D) which read as follows: “prior to completion of the program, earns a master's degree, attains full State teacher certification or licensure, and becomes highly qualified.”
+<b>2009</b>—Par. (22)(D). Pub. L. 111–39 added subpar. (D) and struck out former subpar (D) which read as follows: "prior to completion of the program, earns a master's degree, attains full State teacher certification or licensure, and becomes highly qualified."
 
 #### Effective Date of 2009 Amendment
 

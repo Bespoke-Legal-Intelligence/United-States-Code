@@ -10,15 +10,15 @@ If a party seeking review under this chapter applies to the court for leave to a
 
 #### (c) Stay of agency action
 
-With respect to relief pending review of an action by either Administrator, no stay of an agency action may be granted unless the reviewing court determines that the party seeking such stay is (1) likely to prevail on the merits in the review proceeding and (2) will suffer irreparable harm pending such proceeding.
+With respect to relief pending review of an action by either Administrator, no stay of an agency action may be granted unless the reviewing court determines that the party seekingsuch stay is (1) likely to prevail on the merits in the review proceeding and (2) will suffer irreparable harm pending such proceeding.
 
 #### (d) Subpenas
 
-For the purpose of obtaining information to carry out this chapter, the Administrator of the Environmental Protection Agency may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and he may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. In cases of contumacy or refusal to obey a subpena served upon any person under this subsection, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiringsuch person to appear and give testimony before the Administrator, to appear and produce papers, books, and documents before the Administrator, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+For the purpose of obtaining information to carry out this chapter, the Administrator of the Environmental Protection Agency may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and he may administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid witnesses in the courts of the United States. In cases of contumacy or refusal to obey a subpena served upon any person under this subsection, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Administrator, to appear and produce papers, books, and documents before the Administrator, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 (Pub. L. 92–574, §16, Oct. 27, 1972, 86 Stat. 1247.)
 
 #### Codification
 
-In subsec. (a), “section 44715 of title 49” substituted for “section 611 of the Federal Aviation Act of 1958” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (a), "section 44715 of title 49" substituted for "section 611 of the Federal Aviation Act of 1958" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 

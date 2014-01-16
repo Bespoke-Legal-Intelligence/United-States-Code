@@ -28,7 +28,7 @@ In the case of an electing large partnership—
 
 #### (4) Credit recapture
 
-&emsp;For purposes of this subsection, the term “credit recapture” means any increase in tax under section 42(j) or 50(a).
+&emsp;For purposes of this subsection, the term "credit recapture" means any increase in tax under section 42(j) or 50(a).
 
 #### (c) Partnership not terminated by reason of change in ownership
 
@@ -64,7 +64,7 @@ In the case of an electing large partnership—
 
 #### Amendments
 
-<b>1998</b>—Subsec. (d)(2). Pub. L. 105–206 inserted “or 857(b)(3)(D)” before period at end.
+<b>1998</b>—Subsec. (d)(2). Pub. L. 105–206 inserted "or 857(b)(3)(D)" before period at end.
 
 #### Effective Date of 1998 Amendment
 

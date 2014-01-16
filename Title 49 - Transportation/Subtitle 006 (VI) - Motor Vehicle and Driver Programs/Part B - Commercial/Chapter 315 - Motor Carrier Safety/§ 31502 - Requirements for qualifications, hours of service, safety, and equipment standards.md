@@ -40,7 +40,7 @@ In general.—Notwithstanding any other provision of law, regulations issued und
 
 &emsp;&emsp;(B) physical testing, reporting, or recordkeeping, and
 
-&emsp;&emsp;(C) the installation of automatic recording devices associated with establishing themaximum driving and on-duty times referred to in subparagraph (A),
+&emsp;&emsp;(C) the installation of automatic recording devices associated with establishing the maximum driving and on-duty times referred to in subparagraph (A),
 
 > &emsp;shall not apply to any driver of a utility service vehicle during an emergency period of not more than 30 days declared by an elected State or local government official under paragraph (2) in the area covered by the declaration.
 
@@ -62,11 +62,11 @@ Definitions.—In this subsection, the following definitions apply:
 
 &emsp;&emsp;(A)
 
-Driver of a utility service vehicle.—The term “driver of a utility service vehicle” means any driver who is considered to be a driver of a utility service vehicle for purposes of section 345(a)(4) <sup>1</sup> of the National Highway System Designation Act of 1995 (49 U.S.C. 31136 note; 109 Stat. 613).
+Driver of a utility service vehicle.—The term "driver of a utility service vehicle" means any driver who is considered to be a driver of a utility service vehicle for purposes of section 345(a)(4) <sup>1</sup> of the National Highway System Designation Act of 1995 (49 U.S.C. 31136 note; 109 Stat. 613).
 
 &emsp;&emsp;(B)
 
-Utility service vehicle.—The term “utility service vehicle” has the meaning that term has under section 345(e)(6) <sup>1</sup> of the National Highway System Designation Act of 1995 (49 U.S.C. 31136 note; 109 Stat <sup>2</sup> 614–615).
+Utility service vehicle.—The term "utility service vehicle" has the meaning that term has under section 345(e)(6) <sup>1</sup> of the National Highway System Designation Act of 1995 (49 U.S.C. 31136 note; 109 Stat <sup>2</sup> 614–615).
 
 (Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2438, §3102; Pub. L. 98–554, title II, §206(h), Oct. 30, 1984, 98 Stat. 2835; renumbered §31502 and amended Pub. L. 103–272, §1(c), (e), July 5, 1994, 108 Stat. 745, 1029; Pub. L. 104–88, title III, §308(k)(3), Dec. 29, 1995, 109 Stat. 948; Pub. L. 105–178, title IV, §4012(a), June 9, 1998, 112 Stat. 408; Pub. L. 109–59, title IV, §4145(b), Aug. 10, 2005, 119 Stat. 1749.)
 
@@ -110,17 +110,17 @@ Feb. 4, 1887, ch. 104, 24 Stat. 379, §204(a)(3a) (1st sentence); added Aug. 3, 
 
 49:1655(e)(6)(C).
 
-Throughout the chapter, the words “Secretary of Transportation” are substituted for “Interstate Commerce Commission” because 49:1655(e)(6)(B)–(D) transferred the authority of the Interstate Commerce Commission under the provisions restated in this chapter to the Secretary of Transportation.
+Throughout the chapter, the words "Secretary of Transportation" are substituted for "Interstate Commerce Commission" because 49:1655(e)(6)(B)–(D) transferred the authority of the Interstate Commerce Commission under the provisions restated in this chapter to the Secretary of Transportation.
 
 Subsection (a) is included to maintain the jurisdictional scope of the source provisions from which subsections (b) and (c) of the revised section are taken. Subsections (b) and (c) are based on 49:304 which, as part of 49:ch. 8, is now restated as subchapter II of chapter 105 of the revised title. In addition, 49:303(a)(11) (last sentence) extended the jurisdictional scope of 49:304 as provided in subsection (a) of the revised section.
 
-In subsection (b), before clause (1), the words “and to that end” are omitted as surplus. The word “prescribe” is substituted for “establish” for consistency. The word “reasonable” is omitted as surplus.
+In subsection (b), before clause (1), the words "and to that end" are omitted as surplus. The word "prescribe" is substituted for "establish" for consistency. The word "reasonable" is omitted as surplus.
 
-In subsection (b)(1), the words “as provided in this chapter” are omitted as unnecessary because of the restatement. The term “motor carrier” is substituted for “common carriers by motor vehicle” and “contract carriers by motor vehicle” because they are inclusive.
+In subsection (b)(1), the words "as provided in this chapter" are omitted as unnecessary because of the restatement. The term "motor carrier" is substituted for "common carriers by motor vehicle" and "contract carriers by motor vehicle" because they are inclusive.
 
-In subsection (b)(2), the words “when needed” are substituted for “if need therefor is found” to eliminate unnecessary words.
+In subsection (b)(2), the words "when needed" are substituted for "if need therefor is found" to eliminate unnecessary words.
 
-In subsection (c), the word “prescribe” is substituted for “establish” for consistency. The word “reasonable” is omitted as surplus. The words “for a total distance of” are omitted as unnecessary because of the restatement. The words “at least” are substituted for “more than” for consistency. The word “line” is omitted as surplus. The words “possession of the United States” are added for consistency in the revised title. The words “a foreign country” and “the District of Columbia” are omitted as unnecessary because a carrier crossing the boundary of a foreign country or the District of Columbia into or from the United States would necessarily cross the boundary of a State and be covered by the provision related to a State.
+In subsection (c), the word "prescribe" is substituted for "establish" for consistency. The word "reasonable" is omitted as surplus. The words "for a total distance of" are omitted as unnecessary because of the restatement. The words "at least" are substituted for "more than" for consistency. The word "line" is omitted as surplus. The words "possession of the United States" are added for consistency in the revised title. The words "a foreign country" and "the District of Columbia" are omitted as unnecessary because a carrier crossing the boundary of a foreign country or the District of Columbia into or from the United States would necessarily cross the boundary of a State and be covered by the provision related to a State.
 
 #### References in Text
 
@@ -128,13 +128,13 @@ Section 345 of the National Highway System Designation Act of 1995, referred to 
 
 #### Amendments
 
-<b>2005</b>—Subsec. (e)(2). Pub. L. 109–59, §4145(b)(1), substituted “Field Administrator of the Federal Motor Carrier Safety Administration” for “Regional Director of the Federal Highway Administration”.
+<b>2005</b>—Subsec. (e)(2). Pub. L. 109–59, §4145(b)(1), substituted "Field Administrator of the Federal Motor Carrier Safety Administration" for "Regional Director of the Federal Highway Administration".
 
-Subsec. (e)(3). Pub. L. 109–59, §4145(b)(2), substituted “Field Administrator” for “Regional Director” in introductory provisions.
+Subsec. (e)(3). Pub. L. 109–59, §4145(b)(2), substituted "Field Administrator" for "Regional Director" in introductory provisions.
 
 <b>1998</b>—Subsec. (e). Pub. L. 105–178 added subsec. (e).
 
-<b>1995</b>—Subsec. (a)(1). Pub. L. 104–88 substituted “13501 and 13502” for “10521 and 10522”.
+<b>1995</b>—Subsec. (a)(1). Pub. L. 104–88 substituted "13501 and 13502" for "10521 and 10522".
 
 <b>1994</b>—Pub. L. 103–272 renumbered section 3102 of this title as this section and amended it generally, restating it without substantive change.
 
@@ -146,39 +146,39 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Savings Provision
 
-Pub. L. 100–690, title IX, §9102(c), Nov. 18, 1988, 102 Stat. 4529, provided that: “The amendment made by subsection (a) \[amending section 2505 of former Title 49, Transportation\] shall not be construed as having anyeffect on the enactment of subsection (d) of section 3102 \[now 31502\] of title 49, United States Code, which subsection (d) was added to such section by section 206(h) of the Motor Carrier Safety Act of 1984 \[Pub. L. 98–554\] on October 30, 1984.”
+Pub. L. 100–690, title IX, §9102(c), Nov. 18, 1988, 102 Stat. 4529, provided that: "The amendment made by subsection (a) \[amending section 2505 of former Title 49, Transportation\] shall not be construed as having any effect on the enactment of subsection (d) of section 3102 \[now 31502\] of title 49, United States Code, which subsection (d) was added to such section by section 206(h) of the Motor Carrier Safety Act of 1984 \[Pub. L. 98–554\] on October 30, 1984."
 
 #### Continued Application of Safety and Maintenance Requirements
 
 Pub. L. 105–178, title IV, §4012(b), June 9, 1998, 112 Stat. 409, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendment made by subsection (a) \[amending this section\] may not be construed—
 
-&emsp;“(A) to exempt any utility service vehicle from compliance with any applicable provision of law relating to vehicle mechanical safety, maintenance requirements, or inspections; or
+&emsp;"(A) to exempt any utility service vehicle from compliance with any applicable provision of law relating to vehicle mechanical safety, maintenance requirements, or inspections; or
 
-&emsp;“(B) to exempt any driver of a utility service vehicle from any applicable provision of law (including any regulation) established for the issuance, maintenance, or periodic renewal of a commercial driver's license for that driver.
+&emsp;"(B) to exempt any driver of a utility service vehicle from any applicable provision of law (including any regulation) established for the issuance, maintenance, or periodic renewal of a commercial driver's license for that driver.
 
-“(2)
+"(2)
 
 Definitions.—In this subsection, the following definitions apply:
 
-&emsp;“(A)
+&emsp;"(A)
 
-Commercial driver's license.—The term ‘commercial driver's license’ has the meaning that term has under section 31301 of title 49, United States Code.
+Commercial driver's license.—The term 'commercial driver's license' has the meaning that term has under section 31301 of title 49, United States Code.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Driver of a utility service vehicle.—The term ‘driver of a utility service vehicle’ has the meaning that term has under section 31502(e)(2) of such title \[probably should be section 31502(e)(4)(A) of such title\].
+Driver of a utility service vehicle.—The term 'driver of a utility service vehicle' has the meaning that term has under section 31502(e)(2) of such title \[probably should be section 31502(e)(4)(A) of such title\].
 
-&emsp;“(C)
+&emsp;"(C)
 
-Regulation.—The term ‘regulation’ has the meaning that term has under section 31132 of such title.
+Regulation.—The term 'regulation' has the meaning that term has under section 31132 of such title.
 
-&emsp;“(D)
+&emsp;"(D)
 
-Utility service vehicle.—The term ‘utility service vehicle’ has the meaning that term has under section 345(e)(6) of the National Highway System Designation Act of 1995 \[Pub. L. 104–59\] (49 U.S.C. 31136 note; 109 Stat. 614–615).”
+Utility service vehicle.—The term 'utility service vehicle' has the meaning that term has under section 345(e)(6) of the National Highway System Designation Act of 1995 \[Pub. L. 104–59\] (49 U.S.C. 31136 note; 109 Stat. 614–615)."
 
 #### Study of Adequacy of Parking Facilities
 

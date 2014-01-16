@@ -40,7 +40,7 @@ The Secretary may make grants or contracts under this section to help entities f
 
 #### (B) Training
 
-&emsp;&emsp;Not more than 10 percent of the individuals receiving training with funds made available to an applicant under subsection (a) of this section shall be trained as doctors of medicine or doctors of osteopathy.
+&emsp;&emsp;Not more than 10 percent of the individuals receiving training with funds madeavailable to an applicant under subsection (a) of this section shall be trained as doctors of medicine or doctors of osteopathy.
 
 #### (C) Limitation
 
@@ -56,7 +56,7 @@ Applications submitted for assistance under this section shall—
 
 #### (d) Definitions
 
-For the purposes of this section, the term “rural” means geographic areas that are located outside of standard metropolitan statistical areas.
+For the purposes of this section, the term "rural" means geographic areas that are located outside of standard metropolitan statistical areas.
 
 (July 1, 1944, ch. 373, title VII, §754, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3547.)
 

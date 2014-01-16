@@ -8,7 +8,7 @@ For the purpose of this subchapter—
 
 &emsp;&emsp;(A) a student nurse, medical or dental intern, resident-in-training, student dietitian, student physical therapist, and student occupational therapist, assigned or attached to a hospital, clinic, or medical or dental laboratory operated by an agency; and
 
-&emsp;&emsp;(B) any other student-employee, assigned or attached primarily for training purposes to a hospital, clinic, or medical or dental laboratory operated by an agency, who is designated by the head of the agency with the approval of the Office of Personnel Management.
+&emsp;&emsp;(B) any other student-employee, assigned or attached primarily for training purposesto a hospital, clinic, or medical or dental laboratory operated by an agency, who is designated by the head of the agency with the approval of the Office of Personnel Management.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 472; Pub. L. 95–454, title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1224.)
 

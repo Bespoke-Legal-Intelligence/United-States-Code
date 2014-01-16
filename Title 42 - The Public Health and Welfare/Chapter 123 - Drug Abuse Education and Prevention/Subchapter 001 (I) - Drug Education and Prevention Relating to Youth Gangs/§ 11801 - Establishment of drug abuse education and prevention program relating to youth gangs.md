@@ -28,9 +28,9 @@ The Secretary of Health and Human Services, through the Administration on Childr
 
 #### Amendments
 
-<b>1991</b>—Pub. L. 102–132 inserted “(including agencies described in paragraph (7)(A) acting jointly)” after “agencies” in introductory provisions.
+<b>1991</b>—Pub. L. 102–132 inserted "(including agencies described in paragraph (7)(A) acting jointly)" after "agencies" in introductory provisions.
 
 #### Effective Date of 1991 Amendment
 
-Pub. L. 102–132, §3, Oct. 18, 1991, 105 Stat. 631, provided that: “This Act \[enacting section 11806 of this title and amending this section and sections 11805 and 11823 of this title\] shall take effect on October 1, 1991.”
+Pub. L. 102–132, §3, Oct. 18, 1991, 105 Stat. 631, provided that: "This Act \[enacting section 11806 of this title and amending this section and sections 11805 and 11823 of this title\] shall take effect on October 1, 1991."
 

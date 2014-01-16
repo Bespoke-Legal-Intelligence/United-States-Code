@@ -18,5 +18,5 @@ The results of the review conducted pursuant to subsection (a) of this section s
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–211 inserted “, the Attorney General,” after “the Secretary of the Interior” in introductory provisions.
+<b>2010</b>—Subsec. (a). Pub. L. 111–211 inserted ", the Attorney General," after "the Secretary of the Interior" in introductory provisions.
 

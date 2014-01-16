@@ -12,7 +12,7 @@ Not later than five years after October 23, 1992, the Secretary shall submit a r
 
 #### Amendments
 
-<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–437 substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
+<b>1994</b>—Subsecs. (a), (b). Pub. L. 103–437 substituted "Committee on Indian" for "Select Committee on Indian" and "Natural Resources" for "Interior and Insular Affairs".
 
 #### Change of Name
 

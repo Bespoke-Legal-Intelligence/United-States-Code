@@ -30,7 +30,7 @@ A prior chapter 80, comprised of sections 1571 to 1577, relating to Exemplary Re
 
 <b>2008</b>—Pub. L. 110–417, \[div. A\], title V, §§561(b), 562(b), Oct. 14, 2008, 122 Stat. 4470, added items 1567 and 1567a.
 
-<b>2003</b>—Pub. L. 108–136, div. A, title X, §§1031(a)(11)(B), 1041(a)(2), Nov. 24, 2003, 117 Stat. 1597, 1608, struck out “and recommendation” after “review” in item 1563 and added item 1564a.
+<b>2003</b>—Pub. L. 108–136, div. A, title X, §§1031(a)(11)(B), 1041(a)(2), Nov. 24, 2003, 117 Stat. 1597, 1608, struck out "and recommendation" after "review" in item 1563 and added item 1564a.
 
 <b>2002</b>—Pub. L. 107–314, div. A, title X, §1063(b), Dec. 2, 2002, 116 Stat. 2653, added item 1565a.
 

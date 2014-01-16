@@ -44,7 +44,7 @@
 
 &emsp;(II) For new production, as defined in clause (iv)(II) of this subparagraph, no royalty shall be due on such production for one year following the start of such production.
 
-(iv) For purposes of this subparagraph, the term “new production” is—
+(iv) For purposes of this subparagraph, the term "new production" is—
 
 &emsp;(I) any production from a lease from which no royalties are due on production, other than test production, prior to November 28, 1995; or
 
@@ -52,7 +52,7 @@
 
 (v) During the production of volumes determined pursuant to clauses <sup>1</sup> (ii) or (iii) of this subparagraph, in any year during which the arithmetic average of the closing prices on the New York Mercantile Exchange for light sweet crude oil exceeds $28.00 per barrel, any production of oil will be subject to royalties at the lease stipulated royalty rate. Any production subject to this clause shall be counted toward the production volume determined pursuant to clause (ii) or (iii). Estimated royalty payments will be made if such average of the closing prices for the previous year exceeds $28.00. After the end of the calendar year, when the new average price can be calculated, lessees will pay any royalties due, with interest but without penalty, or can apply for a refund, with interest, of any overpayment.
 
-(vi) During the production of volumes determined pursuant to clause (ii) or (iii) of this subparagraph, in any year during which the arithmetic average of the closing prices on the New York Mercantile Exchange for natural gas exceeds $3.50 per million British thermal units, any production of natural gas will be subject to royalties at the lease stipulated royalty rate. Any production subject to this clause shall be counted toward the production volume determined pursuant to clauses <sup>1</sup> (ii) or (iii). Estimated royalty payments will be made if such average of the closing prices for the previous year exceeds $3.50. After the end of the calendar year, when the new average price can be calculated, lessees will pay any royalties due, with interest but without penalty, or can apply for a refund, with interest, of any overpayment.
+(vi) During the production of volumes determined pursuant to clause (ii) or (iii) of this subparagraph, in any year during which the arithmetic average of the closing prices on the New York Mercantile Exchange for natural gas exceeds $3.50 per million British thermal units,any production of natural gas will be subject to royalties at the lease stipulated royalty rate. Any production subject to this clause shall be counted toward the production volume determined pursuant to clauses <sup>1</sup> (ii) or (iii). Estimated royalty payments will be made if such average of the closing prices for the previous year exceeds $3.50. After the end of the calendar year, when the new average price can be calculated, lessees will pay any royalties due, with interest but without penalty, or can apply for a refund, with interest, of any overpayment.
 
 (vii) The prices referred to in clauses (v) and (vi) of this subparagraph shall be changed during any calendar year after 1994 by the percentage, if any, by which the implicit price deflator for the gross domestic product changed during the preceding calendar year.
 
@@ -84,7 +84,7 @@
 
 (B) The bidding systems authorized by paragraph (1) of this subsection, other than the system authorized by subparagraph (A), shall be applied to not less than 20 per centum and not more than 60 per centum of the total area offered for leasing each year during the five-year period beginning on September 18, 1978, unless the Secretary determines that the requirements set forth in this subparagraph are inconsistent with the purposes and policies of this subchapter.
 
-(6) At least ninety days prior to notice of any lease sale under subparagraph (D), (E), (F), or, if appropriate, (H) of paragraph (1), the Secretary shall by regulation establish rules to govern the calculation of net profits. In the event of any dispute between the United States and a lessee concerning the calculation of the net profits under the regulation issued pursuant to this paragraph, the burden of proof shall be on the lessee.
+(6) At least ninety days prior to notice of any lease sale under subparagraph (D), (E), (F), or, if appropriate, (H) of paragraph (1), the Secretary shall by regulation establish rules to govern thecalculation of net profits. In the event of any dispute between the United States and a lessee concerning the calculation of the net profits under the regulation issued pursuant to this paragraph, the burden of proof shall be on the lessee.
 
 (7) After an oil and gas lease is granted pursuant to any of the work commitment options of paragraph (1) of this subsection—
 
@@ -130,7 +130,7 @@ An oil and gas lease issued pursuant to this section shall—
 
 (2) The Attorney General may, in consultation with the Federal Trade Commission, conduct such antitrust review on the likely effects the issuance of such leases would have on competition as the Attorney General, after consultation with the Federal Trade Commission, deems appropriate and shall advise the Secretary with respect to such review. The Secretary shall provide such information as the Attorney General, after consultation with the Federal Trade Commission, may require in order to conduct any antitrust review pursuant to this paragraph and to make recommendations pursuant to paragraph (3) of this subsection.
 
-(3) The Attorney General, after consultation with the Federal Trade Commission, may make such recommendations to the Secretary, including the nonacceptance of any bid, as may be appropriate to prevent any situation inconsistent with the antitrust laws. If the Secretary determines, or if the Attorney General advises the Secretary, after consultation with the Federal Trade Commission and prior to the issuance of any lease, that such lease may create or maintain a situation inconsistent with the antitrust laws, the Secretary may—
+(3) The Attorney General, after consultation with the Federal Trade Commission, may makesuch recommendations to the Secretary, including the nonacceptance of any bid, as may be appropriate to prevent any situation inconsistent with the antitrust laws. If the Secretary determines, or if the Attorney General advises the Secretary, after consultation with the Federal Trade Commission and prior to the issuance of any lease, that such lease may create or maintain a situation inconsistent with the antitrust laws, the Secretary may—
 
 &emsp;(A) refuse (i) to accept an otherwise qualified bid for such lease, or (ii) to issue such lease, notwithstanding subsection (a) of this section; or
 
@@ -166,7 +166,7 @@ Nothing in this subchapter shall be deemed to convey to any person, association,
 
 > The provisions of the first sentence of subsection (c) and the provisions of subsections (e)–(h) of section 1352 of this title shall be applicable to the release by the Secretary of any information to any coastal State under this paragraph. In addition, the provisions of subsections (c) and (e)–(h) of section 1352 of this title shall apply in their entirety to the release by the Secretary to any coastal State of any information relating to Federal lands beyond three nautical miles of the seaward boundary of such coastal State.
 
-(2) Notwithstanding any other provision of this subchapter, the Secretary shall deposit into a separate account in the Treasury of the United States all bonuses, rents, and royalties, and other revenues (derived from any bidding system authorized under subsection (a)(1) of this section), excluding Federal income and windfall profits taxes, and derived from any lease issued after September 18, 1978 of any Federal tract which lies wholly (or, in the case of Alaska, partially until seven years from the date of settlement of any boundary dispute that is the subject of an agreement under section 1336 of this title entered into prior to January 1, 1986 or until April 15, 1993 with respect to any other tract)within three nautical miles of the seaward boundary of any coastal State, or, (except as provided above for Alaska) in the case where a Federal tract lies partially within three nautical miles of the seaward boundary, a percentage of bonuses, rents, royalties, and other revenues (derived from any bidding system authorized under subsection (a)(1) of this section), excluding Federal income and windfall profits taxes, and derived from any lease issued after September 18, 1978 of such tract equal to the percentage of surface acreage of the tract that lies within such three nautical miles. Except as provided in paragraph (5) of this subsection, not later than the last business day of the month following the month in which those revenues are deposited in the Treasury, the Secretary shall transmit to such coastal State 27 percent of those revenues, together with all accrued interest thereon. The remaining balance of such revenues shall be transmitted simultaneously to the miscellaneous receipts account of the Treasury of the United States.
+(2) Notwithstanding any other provision of this subchapter, the Secretary shall deposit into a separate account in the Treasury of the United States all bonuses, rents, and royalties, and other revenues (derived from any bidding system authorized under subsection (a)(1) of this section), excluding Federal income and windfall profits taxes, and derived from any lease issued after September 18, 1978 of any Federal tract which lies wholly (or, in the case of Alaska, partially until seven years from the date of settlement of any boundary dispute that is the subject of an agreement under section 1336 of this title entered into prior to January 1, 1986 or until April 15, 1993 with respect to any other tract) within three nautical miles of the seaward boundary of any coastal State, or, (except as provided above for Alaska) in the case where a Federal tract lies partially within three nautical miles of the seaward boundary, a percentage of bonuses, rents, royalties, and other revenues (derived from any bidding system authorized under subsection (a)(1) of this section), excluding Federal income and windfall profits taxes, and derived from any lease issued after September 18, 1978 of such tract equal to the percentage of surface acreage of the tract that lies within such three nautical miles. Except as provided in paragraph (5) of this subsection, not later than the last business day of the month following the month in which those revenues are deposited in the Treasury, the Secretary shall transmit to such coastal State 27 percent of those revenues, together with all accrued interest thereon. The remaining balance of such revenues shall be transmitted simultaneously to the miscellaneous receipts account of the Treasury of the United States.
 
 (3) Whenever the Secretary or the Governor of a coastal State determines that a common potentially hydrocarbon-bearing area may underlie the Federal and State boundary, the Secretary or the Governor shall notify the other party in writing of his determination and the Secretary shall provide to the Governor notice of the current and projected status of the tract or tracts containing the common potentially hydrocarbon-bearing area. If the Secretary has leased or intends to lease such tract or tracts, the Secretary and the Governor of the coastal State may enter into an agreement to divide the revenues from production of any common potentially hydrocarbon-bearing area, by unitization or other royalty sharing agreement, pursuant to existing law. If the Secretary and the Governor do not enter into an agreement, the Secretary may nevertheless proceed with the leasing of the tract or tracts. Any revenues received by the United States under such an agreement shall be subject to the requirements of paragraph (2).
 
@@ -184,7 +184,7 @@ Nothing in this subchapter shall be deemed to convey to any person, association,
 
 (B) This paragraph applies to all Federal oil and gas lease sales, under this subchapter, including joint lease sales, occurring after September 18, 1978.
 
-(6) This section shall be deemed to take effect on October 1, 1985, for purposes of determining the amounts to be deposited in the separate account and the States’ shares described in paragraph (2).
+(6) This section shall be deemed to take effect on October 1, 1985, for purposes of determining the amounts to be deposited in the separate account and the States' shares described in paragraph (2).
 
 (7) When the Secretary leases any tract which lies wholly or partially within three miles of the seaward boundary of two or more States, the revenues from such tract shall be distributed as otherwise provided by this section, except that the State's share of such revenues that would otherwise result under this section shall be divided equally among such States.
 
@@ -194,7 +194,7 @@ Nothing contained in this section shall be construed to alter, limit, or modify 
 
 #### (i) Sulphur leases; award to highest bidder; method of bidding
 
-In order to meet the urgent need for further exploration and development of the sulphur deposits in the submerged lands of the outer Continental Shelf, the Secretary is authorized to grant to the qualified persons offering the highest cash bonuses on a basis of competitive bidding sulphur leases on submerged lands of the outer Continental Shelf, which are not covered by leases which include sulphur and meet the requirements of section 1335(a) of this title, and which sulphur leases shall be offered for bid by sealed bids and granted on separate leases fromoil and gas leases, and for a separate consideration, and without priority or preference accorded to oil and gas lessees on the same area.
+In order to meet the urgent need for further exploration and development of the sulphur deposits in the submerged lands of the outer Continental Shelf, the Secretary is authorized to grant to the qualified persons offering the highest cash bonuses on a basis of competitive bidding sulphur leases on submerged lands of the outer Continental Shelf, which are not covered by leases which include sulphur and meet the requirements of section 1335(a) of this title, and which sulphur leases shall be offered for bid by sealed bids and granted on separate leases from oil and gas leases, and for a separate consideration, and without priority or preference accorded to oil and gas lessees on the same area.
 
 #### (j) Terms and provisions of sulphur leases
 
@@ -248,7 +248,7 @@ The Secretary may cancel any lease obtained by fraud or misrepresentation.
 
 #### (2) Payments and revenues
 
-&emsp;(A) The Secretary shall establish royalties, fees, rentals, bonuses, or other payments to ensure a fair return to the United States forany lease, easement, or right-of-way granted under this subsection.
+&emsp;(A) The Secretary shall establish royalties, fees, rentals, bonuses, or other payments to ensure a fair return to the United States for any lease, easement, or right-of-way granted under this subsection.
 
 &emsp;(B) The Secretary shall provide for the payment of 27 percent of the revenues received by the Federal Government as a result of payments under this section from projects that are located wholly or partially within the area extending three nautical miles seaward of State submerged lands. Payments shall be made based on a formula established by the Secretary by rulemaking no later than 180 days after August 8, 2005, that provides for equitable distribution, based on proximity to the project, among coastal states that have a coastline that is located within 15 miles of the geographic center of the project.
 
@@ -326,7 +326,7 @@ The Emergency Petroleum Allocation Act of 1973, referred to in subsec. (b)(7), i
 
 Section 8004(b)(1)(B) of the Outer Continental Shelf Lands Act Amendments of 1985, referred to in subsec. (g)(5)(A), is section 8004(b)(1)(B) of Pub. L. 99–272, which is set out as a note below.
 
-The Deepwater Port Act of 1974, referred to in subsec. (p)(1), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, asamended, which is classified principally to chapter 29 (§1501 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 33 and Tables.
+The Deepwater Port Act of 1974, referred to in subsec. (p)(1), is Pub. L. 93–627, Jan. 3, 1975, 88 Stat. 2126, as amended, which is classified principally to chapter 29 (§1501 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1501 of Title 33 and Tables.
 
 The Ocean Thermal Energy Conversion Act of 1980, referred to in subsec. (p)(1), is Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, as amended, which is classified principally to chapter 99 (§9101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of Title 42 and Tables.
 
@@ -334,19 +334,19 @@ Section 388(d) of the Energy Policy Act of 2005, referred to in subsec. (p)(3), 
 
 #### Codification
 
-In subsec. (a)(3)(C)(ii), “section 702 of title 5” substituted for “section 10(a) of the Administrative Procedures Act (5 U.S.C. 702)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (a)(3)(C)(ii), "section 702 of title 5" substituted for "section 10(a) of the Administrative Procedures Act (5 U.S.C. 702)" on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
-August 8, 2005, referred to in subsec. (p)(2)(B), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 109–58, which enacted subsec. (p) of this section, to reflect the probable intent of Congress.
+August 8, 2005, referred to in subsec. (p)(2)(B), was in the original "the date of enactment of this section", which was translated as meaning the date of enactment of Pub. L. 109–58, which enacted subsec. (p) of this section, to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–58, §388(c), substituted “Leases, easements, and rights-of-way on the outer Continental Shelf” for “Grant of leases by Secretary” in section catchline.
+<b>2005</b>—Pub. L. 109–58, §388(c), substituted "Leases, easements, and rights-of-way on the outer Continental Shelf" for "Grant of leases by Secretary" in section catchline.
 
-Subsec. (a)(3)(B). Pub. L. 109–58, §346, inserted “and in the Planning Areas offshore Alaska” after “West longitude” in introductory provisions.
+Subsec. (a)(3)(B). Pub. L. 109–58, §346, inserted "and in the Planning Areas offshore Alaska" after "West longitude" in introductory provisions.
 
 Subsec. (p). Pub. L. 109–58, §388(a), added subsec. (p).
 
-<b>1999</b>—Subsec. (k)(2)(B). Pub. L. 106–53 substituted “a Federal, State, or local government agency” for “an agency of the Federal Government”.
+<b>1999</b>—Subsec. (k)(2)(B). Pub. L. 106–53 substituted "a Federal, State, or local government agency" for "an agency of the Federal Government".
 
 <b>1998</b>—Subsec. (a)(9). Pub. L. 105–362 struck out par. (9) which related to report to Congress by Secretary of Energy on bidding options for oil and gas leases on outer Continental Shelf land.
 
@@ -356,29 +356,29 @@ Subsec. (a)(3). Pub. L. 104–58, §302, designated existing provisions as subpa
 
 <b>1994</b>—Subsec. (k). Pub. L. 103–426 designated existing provisions as par. (1) and added par. (2).
 
-<b>1987</b>—Subsec. (g)(5)(A). Pub. L. 100–202 substituted “an escrow account established pursuant to an agreement under section 1336 of this title” for “such account” in second sentence, added cl. (i), designated existing indented par. as cl. (ii), substituted “a boundary” for “any boundary”, “any additional moneys” for “all moneys”, and inserted “or credited to” before “the escrow account”.
+<b>1987</b>—Subsec. (g)(5)(A). Pub. L. 100–202 substituted "an escrow account established pursuant to an agreement under section 1336 of this title" for "such account" in second sentence, added cl. (i), designated existing indented par. as cl. (ii), substituted "a boundary" for "any boundary", "any additional moneys" for "all moneys", and inserted "or credited to" before "the escrow account".
 
-<b>1986</b>—Subsec. (g)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “At the time of soliciting nominations for the leasing of lands within three miles of the seaward boundary of any coastal State, the Secretary shall provide the Governor of such State—
+<b>1986</b>—Subsec. (g)(1). Pub. L. 99–272 amended par. (1) generally. Prior to amendment, par. (1) read as follows: "At the time of soliciting nominations for the leasing of lands within three miles of the seaward boundary of any coastal State, the Secretary shall provide the Governor of such State—
 
-&emsp;“(A) an identification and schedule of the areas and regions proposed to be offered for leasing;
+&emsp;"(A) an identification and schedule of the areas and regions proposed to be offered for leasing;
 
-&emsp;“(B) all information concerning the geographical, geological, and ecological characteristics of such regions;
+&emsp;"(B) all information concerning the geographical, geological, and ecological characteristics of such regions;
 
-&emsp;“(C) an estimate of the oil and gas reserves in the areas proposed for leasing; and
+&emsp;"(C) an estimate of the oil and gas reserves in the areas proposed for leasing; and
 
-&emsp;“(D) an identification of any field, geological structure, or trap located within three miles of the seaward boundary of such coastal State.”
+&emsp;"(D) an identification of any field, geological structure, or trap located within three miles of the seaward boundary of such coastal State."
 
-Subsec. (g)(2). Pub. L. 99–272 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “After receipt of nominations for any area of the outer Continental Shelf within three miles of the seaward boundary of any coastal State, the Secretary shall inform the Governor of such coastal State of any such area which the Secretary believes should be given further consideration for leasing. The Secretary, in consultation with the Governor of the coastal State, shall then, determine whether any such area may contain one or more oil or gas pools or fields underlying both the outer Continental Shelf and lands subject to the jurisdiction of such State. If, with respect to such area, the Secretary selects a tract or tracts which may contain one or more oil or gas pools or fields underlying both the outer Continental Shelf and lands subject to the jurisdiction of such State, the Secretary shall offer the Governor of such coastal State the opportunity to enter into an agreement concerning the disposition of revenues which may be generated by a Federal lease within such area in order to permit their fair and equitable division between the State and Federal Government.”
+Subsec. (g)(2). Pub. L. 99–272 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "After receipt of nominations for any area of the outer Continental Shelf within three miles of the seaward boundary of any coastal State, the Secretary shall inform the Governor of such coastal State of any such area which the Secretary believes should be given further consideration for leasing. The Secretary, in consultation with the Governor of the coastal State, shall then, determine whether any such area may contain one or more oil or gas pools or fields underlying both the outer Continental Shelf and lands subject to the jurisdiction of such State. If, with respect to such area, the Secretary selects a tract or tracts which may contain one or more oil or gas pools or fields underlying both the outer Continental Shelf and lands subject to the jurisdiction of such State, the Secretary shall offer the Governor of such coastal State the opportunity to enter into an agreement concerning the disposition of revenues which may be generated by a Federal lease within such area in order to permit their fair and equitable division between the State and Federal Government."
 
-Subsec. (g)(3). Pub. L. 99–272 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Within ninety days after the offer by the Secretary pursuant to paragraph (2) of this subsection, the Governor shall elect whether to enter into such agreement and shall notify the Secretary of his decision. If the Governor accepts the offer, the terms of any lease issued shall be consistent with the provisions of this subchapter, with applicable regulations, and, to the maximum extent practicable, with the applicable laws of the coastal State. If the Governor declines the offer, or if the parties cannot agree to terms concerning the disposition of revenues from such lease (by the time the Secretary determines to offer the area for lease), the Secretary may nevertheless proceed with the leasing of the area.”
+Subsec. (g)(3). Pub. L. 99–272 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Within ninety days after the offer by the Secretary pursuant to paragraph (2) of this subsection, the Governor shall elect whether to enter into such agreement and shall notify the Secretary of his decision. If the Governor accepts the offer, the terms of any lease issued shall be consistent with the provisions of this subchapter, with applicable regulations, and, to the maximum extent practicable, with the applicable laws of the coastal State. If the Governor declines the offer, or if the parties cannot agree to terms concerning the disposition of revenues from such lease (by the time the Secretary determines to offer the area for lease), the Secretary may nevertheless proceed with the leasing of the area."
 
-Subsec. (g)(4). Pub. L. 99–272 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “Notwithstanding any other provision of this subchapter, the Secretary shall deposit in a separate account in the Treasury of the United States all bonuses, royalties, and other revenues attributable to oil and gas pools underlying both the outer Continental Shelf and submerged lands subject to the jurisdiction of any coastal State until such time as the Secretary and the Governor of such coastal State agree on, or if the Secretary and the Governor of such coastal State cannot agree, as a district court of the United States determines, the fair and equitable disposition of such revenues and any interest which has accrued and the proper rate of payments to be deposited in the treasuries of the Federal Government and such coastal State.”
+Subsec. (g)(4). Pub. L. 99–272 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "Notwithstanding any other provision of this subchapter, the Secretary shall deposit in a separate account in the Treasury of the United States all bonuses, royalties, and other revenues attributable to oil and gas pools underlying both the outer Continental Shelf and submerged lands subject to the jurisdiction of any coastal State until such time as the Secretary and the Governor of such coastal State agree on, or if the Secretary and the Governor of such coastal State cannot agree, as a district court of the United States determines, the fair and equitable disposition of such revenues and any interest which has accrued and the proper rate of payments to be deposited in the treasuries of the Federal Government and such coastal State."
 
 Subsec. (g)(5) to (7). Pub. L. 99–272 added pars. (5) to (7).
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–372, §205(a), designated existing provisions as par. (1)(A) and (B), and in par. (1)(A) as so redesignated, struck out provisions which restricted authority of Secretary to grant oil and gas leases to situations involving the urgent need for further exploration and development of oil and gas deposits of the submerged lands of the outer Continental Shelf and inserted provisions permitting the promulgation of regulations for the deposit of cash bids in interest-bearing accounts until the Secretary announces his decision on whether to accept the bids with the earned interest paid either to the Treasury or to unsuccessful bidders, in par. (1)(B) as so redesignated, substituted provisions relating to variable royalty bids based on a per centum in amount or value of the production saved, removed, or sold, with either a fixed work commitment based on dollar amount covering exploration or a fixed cash bonus as determined by the Secretary or both for provisions relating to straight royalty bids at not less than 12½ per centum with a cash bonus fixed by the Secretary, and added pars. (1)(C) to (H) and pars. (2) to (9).
 
-Subsec. (b). Pub. L. 95–372, §205(a), redesignated cls. (1) to (4) as pars. (1), (2), (3), and (6) respectively, added pars. (4), (5), and (7), and in par. (1) as so redesignated, inserted provisions authorizing the Secretary to lease tracts larger than 5760 acres if a larger area is necessary to comprise a reasonable economic production unit and in par. (2) as so redesignated, inserted provision to allow up to a 10 year initial period if the longer period is necessary to encourage exploration and development in areas because of unusually deep water or other unusually adverse conditions, and in par. (3) as so redesignated, substituted “payment of amount or value as determined by one of the bidding systems set forth in subsection (a) of this section” for “payment of a royalty of not less than 12½ per centum, in the amount or value of the production saved, removed, or sold from the lease”.
+Subsec. (b). Pub. L. 95–372, §205(a), redesignated cls. (1) to (4) as pars. (1), (2), (3), and (6) respectively, added pars. (4), (5), and (7), and in par. (1) as so redesignated, inserted provisions authorizing the Secretary to lease tracts larger than 5760 acres if a larger area is necessary to comprise a reasonable economic production unit and in par. (2) as so redesignated, inserted provision to allow up to a 10 year initial period if the longer period is necessary to encourage exploration and development in areas because of unusually deep water or other unusually adverse conditions, and in par. (3) as so redesignated, substituted "payment of amount or value as determined by one of the bidding systems set forth in subsection (a) of this section" for "payment of a royalty of not less than 12½ per centum, in the amount or value of the production saved, removed, or sold from the lease".
 
 Subsecs. (c) to (h). Pub. L. 95–372, §205(b), added subsecs. (c) to (h). Former subsecs. (c) to (h) redesignated (i) to (n).
 
@@ -390,17 +390,17 @@ Subsecs. (k) to (o). Pub. L. 95–372, §205(b), redesignated former subsecs. (e
 
 #### Regulations
 
-Pub. L. 104–58, title III, §305, Nov. 28, 1995, 109 Stat. 566, provided that: “The Secretary shall promulgate such rules and regulations as are necessary to implement the provisions of this title \[amending this section and enacting provisions set out as notes under this section\] within 180 days after the enactment of this Act \[Nov. 28, 1995\].”
+Pub. L. 104–58, title III, §305, Nov. 28, 1995, 109 Stat. 566, provided that: "The Secretary shall promulgate such rules and regulations as are necessary to implement the provisions of this title \[amending this section and enacting provisions set out as notes under this section\] within 180 days after the enactment of this Act \[Nov. 28, 1995\]."
 
 #### Savings Provision
 
-Pub. L. 109–58, title III, §388(d), Aug. 8, 2005, 119 Stat. 747, provided that: “Nothing in the amendment made by subsection (a) \[amending this section\] requires the resubmittal of any document that was previously submitted or the reauthorization of any action that was previously authorized with respect to a project for which, before the date of enactment of this Act \[Aug. 8, 2005\]—
+Pub. L. 109–58, title III, §388(d), Aug. 8, 2005, 119 Stat. 747, provided that: "Nothing in the amendment madeby subsection (a) \[amending this section\] requires the resubmittal of any document that was previously submitted or the reauthorization of any action that was previously authorized with respect to a project for which, before the date of enactment of this Act \[Aug. 8, 2005\]—
 
-&emsp;“(1) an offshore test facility has been constructed; or
+&emsp;"(1) an offshore test facility has been constructed; or
 
-&emsp;“(2) a request for a proposal has been issued by a public authority.”
+&emsp;"(2) a request for a proposal has been issued by a public authority."
 
-Pub. L. 104–58, title III, §306, Nov. 28, 1995, 109 Stat. 566, provided that: “Nothing in this title \[amending this section and enacting provisions set out as notes under this section\] shall be construed to affect any offshore pre-leasing, leasing, or development moratorium, including any moratorium applicable to the Eastern Planning Area of the Gulf of Mexico located off the Gulf Coast of Florida.”
+Pub. L. 104–58, title III, §306, Nov. 28, 1995, 109 Stat. 566, provided that: "Nothing in this title \[amending this section and enacting provisions set out as notes under this section\] shall be construed to affect any offshore pre-leasing, leasing, or development moratorium, including any moratorium applicable to the Eastern Planning Area of the Gulf of Mexico located off the Gulf Coast of Florida."
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
@@ -416,65 +416,65 @@ Functions of Secretary of the Interior to promulgate regulations under this subc
 
 Pub. L. 109–58, title III, §388(b), Aug. 8, 2005, 119 Stat. 746, provided that:
 
-“(1)
+"(1)
 
 In general.—The Secretary of the Interior, in cooperation with the Secretary of Commerce, the Commandant of the Coast Guard, and the Secretary of Defense, shall establish an interagency comprehensive digital mapping initiative for the outer Continental Shelf to assist in decisionmaking relating to the siting of activities under subsection (p) of section 8 of the Outer Continental Shelf Lands Act (43 U.S.C. 1337) (as added by subsection (a)).
 
-“(2)
+"(2)
 
 Use of data.—The mapping initiative shall use, and develop procedures for accessing, data collected before the date on which the mapping initiative is established, to the maximum extent practicable.
 
-“(3)
+"(3)
 
 Inclusions.—Mapping carried out under the mapping initiative shall include an indication of the locations on the outer Continental Shelf of—
 
-&emsp;“(A) Federally-permitted activities;
+&emsp;"(A) Federally-permitted activities;
 
-&emsp;“(B) obstructions to navigation;
+&emsp;"(B) obstructions to navigation;
 
-&emsp;“(C) submerged cultural resources;
+&emsp;"(C) submerged cultural resources;
 
-&emsp;“(D) undersea cables;
+&emsp;"(D) undersea cables;
 
-&emsp;“(E) offshore aquaculture projects; and
+&emsp;"(E) offshore aquaculture projects; and
 
-&emsp;“(F) any area designated for the purpose of safety, national security, environmental protection, or conservation and management of living marine resources.”
+&emsp;"(F) any area designated for the purpose of safety, national security, environmental protection, or conservation and management of living marine resources."
 
 #### State Claims to Jurisdiction Over Submerged Lands
 
-Pub. L. 109–58, title III, §388(e), Aug. 8, 2005, 119 Stat. 747, provided that: “Nothing in this section \[amending this section and enacting provisions set out as notes under this section\] shall be construed to alter, limit, or modify any claim of any State to any jurisdiction over, or any right, title, or interest in, any submerged lands.”
+Pub. L. 109–58, title III, §388(e), Aug. 8, 2005, 119 Stat. 747, provided that: "Nothing in this section \[amending this section and enacting provisions set out as notes under this section\] shall be construed to alter, limit, or modify any claim of any State to any jurisdiction over, or any right, title, or interest in, any submerged lands."
 
 #### Reimbursement of Local Interests
 
-Pub. L. 106–53, title II, §215(b)(2), Aug. 17, 1999, 113 Stat. 293, provided that: “Any amounts paid by non-Federal interests for beach erosion control, hurricane protection, shore protection, or storm damage reduction projects as a result of an assessment under section 8(k) of the Outer Continental Shelf Lands Act (43 U.S.C. 1337(k)) shall be fully reimbursed.”
+Pub. L. 106–53, title II, §215(b)(2), Aug. 17, 1999, 113 Stat. 293, provided that: "Any amounts paid by non-Federal interests for beach erosion control, hurricane protection, shore protection, or storm damage reduction projects as a result of an assessment under section 8(k) of the Outer Continental Shelf Lands Act (43 U.S.C. 1337(k)) shall be fully reimbursed."
 
 #### Fees for Royalty Rate Relief Applications
 
-Pub. L. 104–134, title I, §101(c) \[title I\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–166; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: “That beginning in fiscal year 1996 and thereafter, fees for royalty rate relief applications shall be established (and revised as needed) in Notices to Lessees, and shall be credited to this account in the program areas performing the function, and remain available until expended for the costs of administering the royalty rate relief authorized by 43 U.S.C. 1337(a)(3)”.
+Pub. L. 104–134, title I, §101(c) \[title I\], Apr. 26, 1996, 110 Stat. 1321–156, 1321–166; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided in part: "That beginning in fiscal year 1996 and thereafter, fees for royalty rate relief applications shall be established (and revised as needed) in Notices to Lessees, and shall be credited to this account in the program areas performing the function, and remain available until expended for the costs of administering the royalty rate relief authorized by 43 U.S.C. 1337(a)(3)".
 
 #### Lease Sales
 
-Pub. L. 104–58, title III, §304, Nov. 28, 1995, 109 Stat. 565, provided that: “For all tracts located in water depths of 200 meters or greater in the Western and Central Planning Area of the Gulf of Mexico, includingthat portion of the Eastern Planning Area of the Gulf of Mexico encompassing whole lease blocks lying west of 87 degrees, 30 minutes West longitude, any lease sale within five years of the date of enactment of this title \[Nov. 28, 1995\], shall use the bidding system authorized in section 8(a)(1)(H) of the Outer Continental Shelf Lands Act, as amended by this title \[43 U.S.C. 1337(a)(1)(H)\], except that the suspension of royalties shall be set at a volume of not less than the following:
+Pub. L. 104–58, title III, §304, Nov. 28, 1995, 109 Stat. 565, provided that: "For all tracts located in water depths of 200 meters or greater in the Western and Central Planning Area of the Gulf of Mexico, including that portion of the Eastern Planning Area of the Gulf of Mexico encompassing whole lease blocks lying west of 87 degrees, 30 minutes West longitude, any lease sale within five years of the date of enactment of this title \[Nov. 28, 1995\], shall use the bidding system authorized in section 8(a)(1)(H) of the Outer Continental Shelf Lands Act, as amended by this title \[43 U.S.C. 1337(a)(1)(H)\], except that the suspension of royalties shall be set at a volume of not less than the following:
 
-&emsp;“(1) 17.5 million barrels of oil equivalent for leases in water depths of 200 to 400 meters;
+&emsp;"(1) 17.5 million barrels of oil equivalent for leases in water depths of 200 to 400 meters;
 
-&emsp;“(2) 52.5 million barrels of oil equivalent for leases in 400 to 800 meters of water; and
+&emsp;"(2) 52.5 million barrels of oil equivalent for leases in 400 to 800 meters of water; and
 
-&emsp;“(3) 87.5 million barrels of oil equivalent for leases in water depths greater than 800 meters.”
+&emsp;"(3) 87.5 million barrels of oil equivalent for leases in water depths greater than 800 meters."
 
 #### Distribution of Section 1337(g) Account
 
 Pub. L. 99–272, title VIII, §8004, Apr. 7, 1986, 100 Stat. 150, provided that:
 
-“(a) Prior to April 15, 1986, the Secretary shall distribute to the designated coastal States the sum of—
+"(a) Prior to April 15, 1986, the Secretary shall distribute to the designated coastal States the sum of—
 
-&emsp;“(1) the amounts due and payable to each such State under paragraph (2) of section 8(g) of the Outer Continental Shelf Lands Act, as amended by this title \[43 U.S.C. 1337(g)(2)\], for the period between October 1, 1985, and the date of such distribution, and
+&emsp;"(1) the amounts due and payable to each such State under paragraph (2) of section 8(g) of the Outer Continental Shelf Lands Act, as amended by this title \[43 U.S.C. 1337(g)(2)\], for the period between October 1, 1985, and the date of such distribution, and
 
-&emsp;“(2) the amounts due each such State under subsection (b)(1)(A) of this section for the period prior to October 1, 1985.
+&emsp;"(2) the amounts due each such State under subsection (b)(1)(A) of this section for the period prior to October 1, 1985.
 
-“(b)(1) As a fair and equitable disposition of all revenues (including interest thereon) derived from any lease of Federal lands wholly or partially within 3 miles of the seaward boundary of a coastal State prior to October 1, 1985, the Secretary shall distribute:
+"(b)(1) As a fair and equitable disposition of all revenues (including interest thereon) derived from any lease of Federal lands wholly or partially within 3 miles of the seaward boundary of a coastal State prior to October 1, 1985, the Secretary shall distribute:
 
-&emsp;“(A) from the funds which were deposited in the separate account in the Treasury of the United States under section 8(g)(4) of the Outer Continental Shelf Lands Act (43 U.S.C. 1337(g)(4)) which was in effect prior to the date of enactment of section 8003 of this title \[Apr. 7, 1986\] the following sums:
+&emsp;"(A) from the funds which were deposited in the separate account in the Treasury of the United States under section 8(g)(4) of the Outer Continental Shelf Lands Act (43 U.S.C. 1337(g)(4)) which was in effect prior to the date of enactment of section 8003 of this title \[Apr. 7, 1986\] the following sums:
 
 &nbsp;
 
@@ -512,7 +512,7 @@ Pub. L. 99–272, title VIII, §8004, Apr. 7, 1986, 100 Stat. 150, provided that
 
 > &emsp;as well as 27 percent of the royalties, derived from any lease of Federal lands, which have been deposited through September 30, 1985, in the separate account described in this paragraph and interest thereon accrued through September 30, 1985, and shall transmit any remaining amounts to the miscellaneous receipts account of the Treasury of the United States; and
 
-&emsp;“(B) from revenues derived from any lease of Federal lands under the Outer Continental Shelf Lands Act, as amended \[43 U.S.C. 1331 et seq.\], prior to April 15 of each of the fifteen fiscal years following the fiscal year in which this title is enacted, 3 percent of the following sums in each of the five fiscal years following the date of enactment of this Act \[Apr. 7, 1986\], 7 percent of such sums in each of the next five fiscal years, and 10 percent of such sums in each of the following five fiscal years:
+&emsp;"(B) from revenues derived from any lease of Federal lands under the Outer Continental Shelf Lands Act, as amended \[43 U.S.C. 1331 et seq.\], prior to April 15 of each of the fifteen fiscal years following the fiscal year in which this title is enacted, 3 percent of the following sums in each of the five fiscal years following the date of enactment of this Act \[Apr. 7, 1986\], 7 percent of such sums in each of the next five fiscal years, and 10 percent of such sums in each of the following five fiscal years:
 
 &nbsp;
 
@@ -544,11 +544,11 @@ Pub. L. 99–272, title VIII, §8004, Apr. 7, 1986, 100 Stat. 150, provided that
 
 &nbsp;&nbsp;&nbsp;&nbsp;2.
 
-“(2) The acceptance of any payment by a State under this section shall satisfy and release any and all claims of such State against the United States arising under, or related to, section 8(g) of the Outer Continental Shelf Lands Act \[43 U.S.C. 1337(g)\], as it was in effect prior to the date of enactment of this Act \[Apr. 7, 1986\] and shall vest in such State the right to receive payments as set forth in this section.
+"(2) The acceptance of any payment by a State under this section shall satisfy and release any and all claims of such State against the United States arising under, or related to, section 8(g) of the Outer Continental Shelf Lands Act \[43 U.S.C. 1337(g)\], as it was in effect prior to the date of enactment of this Act \[Apr. 7, 1986\] and shall vest in such State the right to receive payments as set forth in this section.
 
-“(c) Notwithstanding any other provision of this Act, the amounts due and payable to the State of Louisiana prior to October 1, 1986, under subtitle A of title VIII (Outer Continental Shelf and Related Programs) of this Act \[title VIII does not contain a subtitle A, see Short Title of 1986 Amendment note set out under section 1301 of this title\] shall remain in their separate accounts in the Treasury of the United States and continue to accrue interest until October 1, 1986, except that the $572,000,000 set forth in subsection 8004(b)(1)(A) of this section shall only accrue interest from April 15, 1986 to October 1, 1986, at which time the Secretary shall immediately distribute such sums with accrued interest to the State of Louisiana.”
+"(c) Notwithstanding any other provision of this Act, the amounts due and payable to the State of Louisiana prior to October 1, 1986, under subtitle A of title VIII (Outer Continental Shelf and Related Programs) of this Act \[title VIII does not contain a subtitle A, see Short Title of 1986 Amendment note set out under section 1301 of this title\] shall remain in their separate accounts in the Treasury of the United States and continue to accrue interest until October 1, 1986, except that the $572,000,000 set forth in subsection 8004(b)(1)(A) of this section shall only accrue interest from April 15, 1986 to October 1, 1986, at which time the Secretary shall immediately distribute such sums with accrued interest to the State of Louisiana."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “clause”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "clause".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

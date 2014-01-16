@@ -4,7 +4,7 @@
 
 (b) The program referred to in subsection (a) of this section shall include the use of metallurgical coal—
 
-&emsp;(1) as a boiler fuel for the purpose of generating steam to produce electricity, including blending metallurgical coal with other coals in order to enhance its efficient application as a boiler fuel;
+&emsp;(1) as a boiler fuel for the purpose of generating steam to produce electricity, includingblending metallurgical coal with other coals in order to enhance its efficient application as a boiler fuel;
 
 &emsp;(2) as an ingredient in the manufacturing of steel; and
 

@@ -2,7 +2,7 @@
 
 #### (a) Civil penalties
 
-(1) Any person who engages in conduct prohibited by any provision of this chapter (other than subsections (b), (d), and (f) of section 3372 of this title) and in the exercise of due care should know that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty, or regulation, and any person who knowingly violates subsection (d) or (f) of section 3372 of this title, may be assessed a civil penalty by the Secretary of not more than $10,000 for each such violation: <i>Provided</i>, That when the violation involves fish or wildlife or plants with a market value of less than $350, and involves only the transportation, acquisition, or receipt of fish or wildlife or plants taken or possessed in violation of any law, treaty, or regulation of the United States, any Indian tribal law, any foreign law, or any law or regulation of any State, the penalty assessed shall not exceed the maximum provided for violation of said law, treaty, or regulation, or $10,000, whichever is less.
+(1) Any person who engages in conduct prohibited by any provision of this chapter (other than subsections (b), (d), and (f) of section 3372 of this title) and in the exercise of due care should know that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty, or regulation, and any person who knowingly violates subsection (d) or (f) of section 3372 of this title, may be assessed a civil penalty by the Secretary of not more than $10,000 for each such violation: <i>Provided</i>, That when the violation involves fish or wildlife orplants with a market value of less than $350, and involves only the transportation, acquisition, or receipt of fish or wildlife or plants taken or possessed in violation of any law, treaty, or regulation of the United States, any Indian tribal law, any foreign law, or any law or regulation of any State, the penalty assessed shall not exceed the maximum provided for violation of said law, treaty, or regulation, or $10,000, whichever is less.
 
 (2) Any person who violates subsection (b) or (f) of section 3372 of this title, except as provided in paragraph (1), may be assessed a civil penalty by the Secretary of not more than $250.
 
@@ -20,7 +20,7 @@ Hearings held during proceedings for the assessment of civil penalties shall be 
 
 #### (c) Review of civil penalty
 
-Any person against whom a civil penalty is assessed under this section may obtain review thereof in the appropriate District Court of the United States by filing a complaint in such court within 30 days after the date of such orderand by simultaneously serving a copy of the complaint by certified mail on the Secretary, the Attorney General, and the appropriate United States attorney. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in section 2112 of title 28. If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order or after the appropriate court has entered final judgment in favor of the Secretary, the Secretary may request the Attorney General of the United States to institute a civil action in an appropriate district court of the United States to collect the penalty, and such court shall have jurisdiction to hear and decide any such action. In hearing such action, the court shall have authority to review the violation and the assessment of the civil penalty de novo.
+Any person against whom a civil penalty is assessed under this section may obtain review thereof in the appropriate District Court of the United States by filing a complaint in such court within 30 days after the date of such order and by simultaneously serving a copy of the complaint by certified mail on the Secretary, the Attorney General, and the appropriate United States attorney. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in section 2112 of title 28. If any person fails to pay an assessment of a civil penalty after it has become a final and unappealable order or after the appropriate court has entered final judgment in favor of the Secretary, the Secretary may request the Attorney General of the United States to institute a civil action in an appropriate district court of the United States to collect the penalty, and such court shall have jurisdiction to hear and decide any such action. In hearing such action, the court shall have authority to review the violation and the assessment of the civil penalty de novo.
 
 #### (d) Criminal penalties
 
@@ -52,13 +52,13 @@ The Secretary may also suspend, modify, or cancel any Federal hunting or fishing
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (3), (d)(1), (2), and (e), was in the original “this Act”, meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1), (3), (d)(1), (2), and (e), was in the original "this Act", meaning Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
 
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (e), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 #### Codification
 
-“Magnuson-Stevens Fishery Conservation and Management Act” substituted for “Fishery Conservation and Management Act of 1976” in subsec. (e), on authority of Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, which provided that all references to the Fishery Conservation and Management Act of 1976 be redesignated as references to the Magnuson Fishery Conservation and Management Act and Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that all references to the Magnuson Fishery Conservation and Management Act be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.
+"Magnuson-Stevens Fishery Conservation and Management Act" substituted for "Fishery Conservation and Management Act of 1976" in subsec. (e), on authority of Pub. L. 96–561, title II, §238(b), Dec. 22, 1980, 94 Stat. 3300, which provided that all references to the Fishery Conservation and Management Act of 1976 be redesignated as references to the Magnuson Fishery Conservation and Management Act and Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that all references to the Magnuson Fishery Conservation and Management Act be redesignated as references to the Magnuson-Stevens Fishery Conservation and Management Act.
 
 Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this section. The amendments by Pub. L. 110–234 were repealed by section 4(a) of Pub. L. 110–246.
 
@@ -66,23 +66,23 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §8204(f), made technical corrections to directory language of Pub. L. 100–653, §102(c). See 1988 Amendment note below.
 
-Pub. L. 110–246, §8204(c)(1), (2), substituted “subsections (b), (d), and (f) of section 3372” for “subsections (b) and (d) of section 3372” and “subsection (d) or (f) of section 3372” for “section 3372(d)”.
+Pub. L. 110–246, §8204(c)(1), (2), substituted "subsections (b), (d), and (f) of section 3372" for "subsections (b) and (d) of section 3372" and "subsection (d) or (f) of section 3372" for "section 3372(d)".
 
-Subsec. (a)(2). Pub. L. 110–246, §8204(c)(3), substituted “subsection (b) or (f) of section 3372 of this title, except as provided in paragraph (1),” for “subsection 3372(b)”.
+Subsec. (a)(2). Pub. L. 110–246, §8204(c)(3), substituted "subsection (b) or (f) of section 3372 of this title, except as provided in paragraph (1)," for "subsection 3372(b)".
 
 Subsec. (d)(1), (2). Pub. L. 110–246, §8204(f), made technical corrections to directory language of Pub. L. 100–653, §102(c). See 1988 Amendment note below.
 
-Pub. L. 110–246, §8204(c)(1), substituted “subsections (b), (d), and (f) of section 3372” for “subsections (b) and (d) of section 3372” in pars. (1)(A), (B), and (2).
+Pub. L. 110–246, §8204(c)(1), substituted "subsections (b), (d), and (f) of section 3372" for "subsections (b) and (d) of section 3372" in pars. (1)(A), (B), and (2).
 
-Subsec. (d)(3). Pub. L. 110–246, §8204(c)(2), substituted “subsection (d) or (f) of section 3372” for “section 3372(d)” in introductory provisions.
+Subsec. (d)(3). Pub. L. 110–246, §8204(c)(2), substituted "subsection (d) or (f) of section 3372" for "section 3372(d)" in introductory provisions.
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–653, §102(c), as amended by Pub. L. 110–246, §8204(f), substituted “(other than subsections (b) and (d) of section 3372 of this title)” for “(other than subsection 3372(b) of this title)”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–653, §102(c), as amended by Pub. L. 110–246, §8204(f), substituted "(other than subsections (b) and (d) of section 3372 of this title)" for "(other than subsection 3372(b) of this title)".
 
-Pub. L. 100–653, §102(a), inserted “and any person who knowingly violates section 3372(d) of this title,” after “any underlying law, treaty, or regulation,”.
+Pub. L. 100–653, §102(a), inserted "and any person who knowingly violates section 3372(d) of this title," after "any underlying law, treaty, or regulation,".
 
-Subsec. (c). Pub. L. 100–653, §103, amended first sentence generally. Prior to amendment, first sentence read as follows: “Any person against whom a civil penalty is assessed under this section may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within thirty days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary.”
+Subsec. (c). Pub. L. 100–653, §103, amended first sentence generally. Prior to amendment, first sentence read as follows: "Any person against whom a civil penalty is assessed under this section may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within thirty days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary."
 
-Subsec. (d)(1), (2). Pub. L. 100–653, §102(c), as amended by Pub. L. 110–246, §8204(f), substituted “(other than subsections (b) and (d) of section 3372 of this title)” for “(other than subsection 3372(b) of this title)” in pars. (1)(A), (B), and (2).
+Subsec. (d)(1), (2). Pub. L. 100–653, §102(c), as amended by Pub. L. 110–246, §8204(f), substituted "(other than subsections (b) and (d) of section 3372 of this title)" for "(other than subsection 3372(b) of this title)" in pars. (1)(A), (B), and (2).
 
 Subsec. (d)(3). Pub. L. 100–653, §102(b), added par. (3).
 

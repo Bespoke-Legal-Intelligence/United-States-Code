@@ -34,7 +34,7 @@ Program Executive Officers.—Before being assigned to a position as a program e
 
 (d)
 
-General and Flag Officers and Civilians in Equivalent Positions.—Before a general or flag officer, or a civilian serving in a position equivalent in grade to the grade of such an officer, may be assigned to a critical acquisition position, the person must have at least 10 years experience in an acquisition position, at least four years of which were performed while assigned to a critical acquisition position.
+General and Flag Officers and Civilians in Equivalent Positions.—Before a general orflag officer, or a civilian serving in a position equivalent in grade to the grade of such an officer, may be assigned to a critical acquisition position, the person must have at least 10 years experience in an acquisition position, at least four years of which were performed while assigned to a critical acquisition position.
 
 (e)
 
@@ -44,11 +44,11 @@ Senior Contracting Officials.—Before a person may be assigned to a critical ac
 
 #### Amendments
 
-<b>2001</b>—Subsec. (c)(1). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>2001</b>—Subsec. (c)(1). Pub. L. 107–107 substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
 
-<b>1993</b>—Subsec. (c)(1). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+<b>1993</b>—Subsec. (c)(1). Pub. L. 103–160 substituted "Under Secretary of Defense for Acquisition and Technology" for "Under Secretary of Defense for Acquisition".
 
-<b>1992</b>—Subsec. (b)(3). Pub. L. 102–484 struck out “or deputy program manager” after “program manager” in subpars. (A) and (B), struck out “and” at end of subpar. (A), substituted semicolon for period at end of subpar. (B), and added subpars. (C) and (D).
+<b>1992</b>—Subsec. (b)(3). Pub. L. 102–484 struck out "or deputy program manager" after "program manager" in subpars. (A) and (B), struck out "and" at end of subpar. (A), substituted semicolon for period at end of subpar. (B), and added subpars. (C) and (D).
 
 #### Fulfillment Standards for Mandatory Training
 

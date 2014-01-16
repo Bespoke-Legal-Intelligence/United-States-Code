@@ -2,7 +2,7 @@
 
 (a) All military property issued by the United States to the National Guard remains the property of the United States.
 
-(b) The Secretary of the Army shall prescribe regulations for accounting for property issuedby the United States to the Army National Guard and for the fixing of responsibility for that property. The Secretary of the Air Force shall prescribe regulations for accounting for property issued by the United States to the Air National Guard and for the fixing of responsibility for that property. So far as practicable, regulations prescribed under this section shall be uniform among the components of each service.
+(b) The Secretary of the Army shall prescribe regulations for accounting for property issued by the United States to the Army National Guard and for the fixing of responsibility for that property. The Secretary of the Air Force shall prescribe regulations for accounting for property issued by the United States to the Air National Guard and for the fixing of responsibility for that property. So far as practicable, regulations prescribed under this section shall be uniform among the components of each service.
 
 (c) Under regulations prescribed by the Secretary concerned under subsection (b), liability for the value of property issued by the United States to the National Guard that is lost, damaged, or destroyed may be charged (1) to a member of the Army National Guard or the Air National Guard when in similar circumstances a member of the Army or Air Force serving on active duty would be so charged, or (2) to a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands when the property is lost, damaged, or destroyed incident to duty directed pursuant to the laws of, and in support of the authorities of, such jurisdiction. Liability charged to a member of the Army National Guard or the Air National Guard shall be paid out of pay due to the member for duties performed as a member of the National Guard, unless the Secretary concerned shall for good cause remit or cancel that liability. Liability charged to a State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands shall be paid from its funds or from any other non-Federal funds.
 
@@ -74,19 +74,19 @@ June 3, 1916, ch. 134, §87; June 3, 1924, ch. 244, §1; restated Feb. 28, 1925,
 
 June 3, 1916, ch. 134, §110 (last proviso of 2d par.); restated Sept. 22, 1922, ch. 423, §6 (last proviso of 2d par.); restated Apr. 6, 1928, ch. 322 (last proviso), 45 Stat. 408.
 
-In subsection (a), the words “as herein provided” are omitted as surplusage.
+In subsection (a), the words "as herein provided" are omitted as surplusage.
 
-In subsections (b) and (f), the word “commissioned” is inserted, since 32:47 historically applied only to commissioned officers (see opinion of the Judge Advocate General of the Army (JAGA 1953/4078, 6 May 1953)).
+In subsections (b) and (f), the word "commissioned" is inserted, since 32:47 historically applied only to commissioned officers (see opinion of the Judge Advocate General of the Army (JAGA 1953/4078, 6 May 1953)).
 
-In subsection (b), the words “by use in service or from any other cause” and “surveying” are omitted as surplusage. The words “a survey of the circumstances thereof” are substituted for the word “it”.
+In subsection (b), the words "by use in service or from any other cause" and "surveying" are omitted as surplusage. The words "a survey of the circumstances thereof" are substituted for the word "it".
 
 In subsection (c), the first 12 words of the second sentence are substituted for 32:47 (38th through 77th words of 2d sentence). Clause (2) is substituted for 32:154 (last proviso of 2d par.).
 
 In subsection (d), the last sentence is substituted for 32:47 (words between semicolon and 1st colon of last sentence).
 
-In subsection (e), the words “charged against it under subsection (c)” are substituted for the words “changed against such State, Territory, or the District of Columbia by the Secretary of the Army after survey by a disinterested officer appointed as hereinbefore provided”. The words “may bar it from receiving” are substituted for the words “is authorized to debar such State, Territory, or the District of Columbia from further participation in any and all”.
+In subsection (e), the words "charged against it under subsection (c)" are substituted for the words "changed against such State, Territory, or the District of Columbia by the Secretary of the Army after survey by a disinterested officer appointed as hereinbefore provided". The words "may bar it from receiving" are substituted for the words "is authorized to debar such State, Territory, or the District of Columbia from further participation in any and all".
 
-In subsection (f), the words “Instead of the procedure prescribed by subsections (b)–(d)” are substituted for the words “and to constitute as to such property a discretional substitute for the examination, report, and disposition provided for elsewhere in this section”. Thewords “a finding of unserviceability because of that wear and tear” are substituted for the words “finding to that effect”.
+In subsection (f), the words "Instead of the procedure prescribed by subsections (b)–(d)" are substituted for the words "and to constitute as to such property a discretional substitute for the examination, report, and disposition provided for elsewhere in this section". The words "a finding of unserviceability because of that wear and tear" are substituted for the words "finding to that effect".
 
 #### 1958 Act
 
@@ -98,29 +98,29 @@ Section 4(b)(22) of the Permanent Appropriation Repeal Act, 1934, referred to in
 
 #### Amendments
 
-<b>2006</b>—Subsecs. (c), (d)(3), (e), (f)(1). Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands” for “State or Territory, Puerto Rico, or the District of Columbia” wherever appearing.
+<b>2006</b>—Subsecs. (c), (d)(3), (e), (f)(1). Pub. L. 109–163 substituted "State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, or the Virgin Islands" for "State or Territory, Puerto Rico, or the District of Columbia" wherever appearing.
 
-<b>1993</b>—Subsec. (f). Pub. L. 103–160 designated existing provisions as par. (1), substituted “subsections (b), (c), and (d)” for “subsections (b)–(d)”, struck out “of the Regular Army or the Regular Air Force, as the case may be,” after “commissioned officer”, and added par. (2).
+<b>1993</b>—Subsec. (f). Pub. L. 103–160 designated existing provisions as par. (1), substituted "subsections (b), (c), and (d)" for "subsections (b)–(d)", struck out "of the Regular Army or the Regular Air Force, as the case may be," after "commissioned officer", and added par. (2).
 
-<b>1988</b>—Subsecs. (c), (d)(3), (e), (f). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Subsecs. (c), (d)(3), (e), (f). Pub. L. 100–456 struck out "the Canal Zone," after "Puerto Rico,".
 
-<b>1982</b>—Subsec. (d). Pub. L. 97–258 struck out “(31 U.S.C. 725c(b)(22))” after “1934”.
+<b>1982</b>—Subsec. (d). Pub. L. 97–258 struck out "(31 U.S.C. 725c(b)(22))" after "1934".
 
-<b>1980</b>—Pub. L. 96–328, §1(b)(1), substituted “Accountability for property issued to the National Guard” for “Reports of survey” in section catchline.
+<b>1980</b>—Pub. L. 96–328, §1(b)(1), substituted "Accountability for property issued to the National Guard" for "Reports of survey" in section catchline.
 
 Subsec. (b). Pub. L. 96–328, §1(a), substituted provisions authorizing the Secretary of the Army, regarding the Army National Guard, and the Secretary of the Air Force, regarding the Air National Guard, to prescribe regulations for accounting for property issued by the United States to each service and for fixing responsibility for that property and requiring, as far as practicable, that the regulations prescribed be uniform among the components of each service for provisions authorizing, that if property issued to the National Guard is lost, damaged, or destroyed, or becomes unserviceable or unsuitable, a survey of the circumstances involved be conducted by a disinterested commissioned officer of the Regular Army, Army National Guard, Regular Air Force, or Air National Guard, as the case may be, and a report of the survey sent to the Secretary concerned or an officer designated by that Secretary to receive those reports.
 
 Subsec. (c). Pub. L. 96–328, §1(a), substituted provisions authorizing the Secretary concerned to charge liability for property lost, damaged, or destroyed to a member of the Army National Guard or Air National Guard when in similar circumstances a member of the Army or Air Force serving on active duty would be charged, to remit or cancel the liability of a member for good cause, and to charge a State or Territory, Puerto Rico, the Canal Zone, or the District of Columbia when such loss is incident to duty directed pursuant to the laws of, and in support of the authorities of, such jurisdiction for provisions authorizing the Secretary concerned to relieve a State or Territory, Puerto Rico, the Canal Zone, or the District of Columbia of liability for loss, damage, or destruction of property unless such loss occurred through negligence.
 
-Subsec. (d). Pub. L. 96–513 substituted “4(b)(22) of the Permanent Appropriation Repeal Act, 1934 (31 U.S.C. 725c(b)(22))” for “725c(b)(22) of title 31”.
+Subsec. (d). Pub. L. 96–513 substituted "4(b)(22) of the Permanent Appropriation Repeal Act, 1934 (31 U.S.C. 725c(b)(22))" for "725c(b)(22) of title 31".
 
-<b>1958</b>—Subsec. (c). Pub. L. 85–861 substituted “of further” for “or further”.
+<b>1958</b>—Subsec. (c). Pub. L. 85–861 substituted "of further" for "or further".
 
 #### Effective Date of 1980 Amendments
 
 Amendment by Pub. L. 96–513 effective Dec. 12, 1980, see section 701(b)(3) of Pub. L. 96–513, set out as a note under section 101 of Title 10, Armed Forces.
 
-Pub. L. 96–328, §2, Aug. 8, 1980, 94 Stat. 1028, provided that: “The amendment made by subsection (a) of the first section of this Act \[amending subsecs. (b) and (c) of this section\] shall apply to liability for property issued by the United States to the National Guard that is lost, damaged, or destroyed on or after October 1, 1980. Liability for such property that is lost, damaged, or destroyed before such date shall be governed by the provisions of section 710 of title 32, United States Code, as in effect on the day before the date of the enactment of this Act \[Aug. 8, 1980\].”
+Pub. L. 96–328, §2, Aug. 8, 1980, 94 Stat. 1028, provided that: "The amendment made by subsection (a) of the first section of this Act \[amending subsecs. (b) and (c) of this section\] shall apply to liability for property issued by the United States to the National Guard that is lost, damaged, or destroyed on or after October 1, 1980. Liability for such property that is lost, damaged, or destroyed before such date shall be governed by the provisions of section 710 of title 32, United States Code, as in effect on the day before the date of the enactment of this Act \[Aug. 8, 1980\]."
 
 #### Effective Date of 1958 Amendment
 

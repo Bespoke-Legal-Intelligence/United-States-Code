@@ -16,7 +16,7 @@ Procurements For or With Other Agencies.—Subject to subsection (a), to facilit
 
 (c)
 
-Approval of Terminations and Reductions of Joint Acquisition Programs.—(1) The Secretary of Defense shall prescribe regulations that prohibit each military department participating in a joint acquisition program approved by the Under Secretary of Defense for Acquisition, Technology, and Logistics from terminating or substantially reducing its participation in such program without the approval of the Under Secretary.
+Approval of Terminations and Reductions of Joint Acquisition Programs.—(1) The Secretary of Defense shall prescribe regulationsthat prohibit each military department participating in a joint acquisition program approved by the Under Secretary of Defense for Acquisition, Technology, and Logistics from terminating or substantially reducing its participation in such program without the approval of the Under Secretary.
 
 (2) The regulations shall include the following provisions:
 
@@ -42,7 +42,7 @@ Historical and Revision Notes
 
 Feb. 19, 1948, ch. 65, §7(a) (less 1st sentence), (b), 62 Stat. 24.
 
-The words “in his discretion and” and “including the making of such determinations and decisions” are omitted as surplusage. The words “except the power to make determinations and decisions” are substituted for the words “Except as provided in subsection (b) of this section” and “The power of the agency head to make the determinations or decisions specified in paragraphs (12)–(16) of section 151(c) of this title and in section 154(a) of this title shall not be delegable”.
+The words "in his discretion and" and "including the making of such determinations and decisions" are omitted as surplusage. The words "except the power to make determinations and decisions" are substituted for the words "Except as provided in subsection (b) of this section" and "The power of the agency head to make the determinations or decisions specified in paragraphs (12)–(16) of section 151(c) of this title and in section 154(a) of this title shall not be delegable".
 
 #### Prior Provisions
 
@@ -50,23 +50,23 @@ Provisions similar to those in this section were contained in section 2308 of th
 
 #### Amendments
 
-<b>2001</b>—Subsec. (c)(1), (2)(B). Pub. L. 107–107 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>2001</b>—Subsec. (c)(1), (2)(B). Pub. L. 107–107 substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
 
-<b>1994</b>—Pub. L. 103–355 substituted “Assignment and delegation of procurement functions and responsibilities” for “Delegation” as section catchline and amended text generally. Prior to amendment, text read as follows: “Except as provided in section 2304(d)(2) of this title, the head of an agency may delegate, subject to his direction, to any other officer or official of that agency, any power under this chapter.”
+<b>1994</b>—Pub. L. 103–355 substituted "Assignment and delegation of procurement functions and responsibilities" for "Delegation" as section catchline and amended text generally. Prior to amendment, text read as follows: "Except as provided in section 2304(d)(2) of this title, the head of an agency may delegate, subject to his direction, to any other officer or official of that agency, any power under this chapter."
 
-<b>1984</b>—Pub. L. 98–577 struck out “(a)” before “Except as provided in” and struck out subsec. (b) which relatedto delegation of authority by heads of procuring activities of agencies of certain functions.
+<b>1984</b>—Pub. L. 98–577 struck out "(a)" before "Except as provided in" and struck out subsec. (b) which related to delegation of authority by heads of procuring activities of agencies of certain functions.
 
 Pub. L. 98–525 designated existing provisions as subsec. (a) and added subsec. (b).
 
 Pub. L. 98–369 inserted provision relating to the exception provided in section 2304(d)(2) of this title and struck out provision that the power to make determinations and decisions under cls. (11)–(16) of section 2304(a) of this title could not be delegated, but that the power to make a determination or decision under section 2304(a)(11) of this title could be delegated to any other officer of official of that agency who was responsible for procurement, and only for contracts requiring the expenditure of not more than $5,000,000.
 
-<b>1981</b>—Pub. L. 97–86 struck out in first sentence cl. (1) designation and cl. (2) relating to authorizing of contracts in excess of three years under section 2306(g) of this title, and in second sentence substituted “$5,000,000” for “$100,000”.
+<b>1981</b>—Pub. L. 97–86 struck out in first sentence cl. (1) designation and cl. (2) relating to authorizing of contracts in excess of three years under section 2306(g) of this title, and in second sentence substituted "$5,000,000" for "$100,000".
 
-<b>1968</b>—Pub. L. 90–378 designated provisions after “the power to make determinations and decisions” as cl. (1) and added cl. (2).
+<b>1968</b>—Pub. L. 90–378 designated provisions after "the power to make determinations and decisions" as cl. (1) and added cl. (2).
 
-<b>1962</b>—Pub. L. 87–653 substituted “delegated to any other officer” for “delegated only to a chief officer” and “$100,000” for “$25,000”.
+<b>1962</b>—Pub. L. 87–653 substituted "delegated to any other officer" for "delegated only to a chief officer" and "$100,000" for "$25,000".
 
-<b>1958</b>—Pub. L. 85–800 struck out “, or section 2307(a)” after “of section 2304(a)” in first sentence.
+<b>1958</b>—Pub. L. 85–800 struck out ", or section 2307(a)" after "of section 2304(a)" in first sentence.
 
 #### Effective Date of 1994 Amendment
 

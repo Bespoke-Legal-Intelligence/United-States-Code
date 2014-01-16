@@ -24,7 +24,7 @@
 
 &emsp;On or after April 1 of each fiscal year—
 
-&emsp;&emsp;(A) the Secretary may take action to increase the supply of sugar in accordancewith sections 1359cc(b)(2) and 1359ee(b) of this title, including an increase in the tariff-rate quota for raw cane sugar to accommodate the reassignment to imports; and
+&emsp;&emsp;(A) the Secretary may take action to increase the supply of sugar in accordance with sections 1359cc(b)(2) and 1359ee(b) of this title, including an increase in the tariff-rate quota for raw cane sugar to accommodate the reassignment to imports; and
 
 &emsp;&emsp;(B) if there is still a shortage of sugar in the United States market, and marketing of domestic sugar has been maximized, the Secretary may increase the tariff-rate quota for raw cane sugar if the further increase will not threaten to result in the forfeiture of sugar pledged as collateral for a loan under section 7272 of this title.
 

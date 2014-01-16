@@ -8,7 +8,7 @@
 
 &emsp;(B) if not married to the participant throughout such creditable service, equal to that former spouse's pro rata share of 50 percent of such annuity.
 
-> For the purposes of this paragraph, the term “creditable service” means service which is creditable under part I or II of this subchapter.
+> For the purposes of this paragraph, the term "creditable service" means service which is creditable under part I or II of this subchapter.
 
 (2) A former spouse shall not be qualified for an annuity under this subsection if before the commencement of that annuity the former spouse remarries before becoming 60 years of age.
 
@@ -20,7 +20,7 @@
 
 (4) No spousal agreement or court order under section 4060(b)(1) of this title involving any participant may provide for an annuity or any combination of annuities under this subsection which exceeds the annuity of the participant, nor may any such court order relating to an annuity under this subsection be given effect if it is issued more than 24 months after the date the divorce or annulment involved becomes final.
 
-(5)(A) The annuity payable to any participant shall be reduced by the amount of an annuity under this subsection paid to any former spouse based upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits under subsection (b) of this section or section 4046(b)(3) of this title.
+(5)(A) The annuity payable to any participant shall be reduced by the amount of an annuityunder this subsection paid to any former spouse based upon the service of that participant. Such reduction shall be disregarded in calculating the survivor annuity for any spouse, former spouse, or other survivor under this part, and in calculating any reduction in the annuity of the participant to provide survivor benefits under subsection (b) of this section or section 4046(b)(3) of this title.
 
 (B) If any annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 3948 of this title, or reinstated or reappointed in the Service in the case of a recovered disability annuitant or if any annuitant is reemployed as provided for under section 4064 of this title, the salary of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the Fund.
 
@@ -40,11 +40,11 @@
 
 &emsp;(B) if not married to the participant throughout such creditable service, equal to that former spouse's pro rata share of 55 percent of the full amount of such annuity.
 
-> For the purposes of this paragraph, the term “creditable service” means service which is creditable under part I or II of this subchapter.
+> For the purposes of this paragraph, the term "creditable service" means service which is creditable under part I or II of this subchapter.
 
 (2) A former spouse shall not be qualified for an annuity under this subsection if before the commencement of that annuity the former spouse remarries before becoming 60 years of age.
 
-(3) An annuity payable from the Fund under this part to a surviving former spouse under this subsection shall commence on the day after the annuitant dies and shall terminate on the last day of the month before the former spouse'sdeath or remarriage before attaining age 60. If such a survivor annuity is terminated because of remarriage, it shall be restored at the same rate commencing on the date such remarriage is terminated if any lump sum paid upon termination of the annuity is returned to the Fund.
+(3) An annuity payable from the Fund under this part to a surviving former spouse under this subsection shall commence on the day after the annuitant dies and shall terminate on the last day of the month before the former spouse's death or remarriage before attaining age 60. If such a survivor annuity is terminated because of remarriage, it shall be restored at the same rate commencing on the date such remarriage is terminated if any lump sum paid upon termination of the annuity is returned to the Fund.
 
 (4)(A) The maximum survivor annuity or combination of survivor annuities under this section (and section 4046(b)(3) of this title) with respect to any participant or former participant may not exceed 55 percent of the full amount of the participant's annuity, as calculated under section 4046(a) of this title.
 
@@ -94,51 +94,51 @@
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–238, §217(a), which directed the amendment of par. (1) by inserting “if such former spouse was married to the participant for at least 10 years during service of the participant which is creditable under this subchapter with at least 5 of such years occurring while the participant was a member of the Foreign Service and” after “annuity”, was executed by inserting the new language after “annuity” in introductory provisions, as the probable intent of Congress.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–238, §217(a), which directed the amendment of par. (1) by inserting "if such former spouse was married to the participant for at least 10 years during service of the participant which is creditable under this subchapter with at least 5 of such years occurring while the participant was a member of the Foreign Service and" after "annuity", was executed by inserting the new language after "annuity" in introductory provisions, as the probable intent of Congress.
 
-Subsec. (a)(4). Pub. L. 100–238, §217(b), substituted “24” for “12”.
+Subsec. (a)(4). Pub. L. 100–238, §217(b), substituted "24" for "12".
 
-Subsec. (d). Pub. L. 100–238, §217(c)(2), struck out subsec. (d) which read as follows: “Section 4046(l) of this title shall not apply—
+Subsec. (d). Pub. L. 100–238, §217(c)(2), struck out subsec. (d) which read as follows: "Section 4046(l) of this title shall not apply—
 
-&emsp;“(1) to any annuity payable under subsection (a) or (b) of this section to any former spouse if the amount of that annuity varies by reason of a spousal agreement or court order under section 4060(b)(1) of this title, or an election under section 4046(b)(1)(B) of this title, from the amount which would be calculated under subsection (a)(1) or (b)(1) of this section, as the case may be, in the absence of such spousal agreement, court order, or election; and
+&emsp;"(1) to any annuity payable under subsection (a) or (b) of this section to any former spouse if the amount of that annuity varies by reason of a spousal agreement or court order under section 4060(b)(1) of this title, or an election under section 4046(b)(1)(B) of this title, from the amount which would be calculated under subsection (a)(1) or (b)(1) of this section, as the case may be, in the absence of such spousal agreement, court order, or election; and
 
-&emsp;“(2) to any annuity payable under subsection (c) of this section.”
+&emsp;"(2) to any annuity payable under subsection (c) of this section."
 
-<b>1986</b>—Subsec. (a)(1). Pub. L. 99–335, §404(b)(1), inserted provision defining “creditable service” as service creditable under part I or II of this subchapter.
+<b>1986</b>—Subsec. (a)(1). Pub. L. 99–335, §404(b)(1), inserted provision defining "creditable service" as service creditable under part I or II of this subchapter.
 
-Subsec. (a)(3), (5)(A), (6)(A). Pub. L. 99–335, §402(a)(2), substituted “part” for “subchapter”.
+Subsec. (a)(3), (5)(A), (6)(A). Pub. L. 99–335, §402(a)(2), substituted "part" for "subchapter".
 
-Subsec. (b)(1). Pub. L. 99–335, §404(b)(2), inserted provision defining “creditable service” as service creditable under part I or II of this subchapter.
+Subsec. (b)(1). Pub. L. 99–335, §404(b)(2), inserted provision defining "creditable service" as service creditable under part I or II of this subchapter.
 
-Subsec. (b)(3). Pub. L. 99–335, §402(a)(3), inserted “under this part” after “payable from the Fund”.
+Subsec. (b)(3). Pub. L. 99–335, §402(a)(3), inserted "under this part" after "payable from the Fund".
 
-Subsec. (c)(3)(D). Pub. L. 99–335, §402(a)(2), substituted “part” for “subchapter”.
+Subsec. (c)(3)(D). Pub. L. 99–335, §402(a)(2), substituted "part" for "subchapter".
 
-<b>1982</b>—Subsec. (a)(3). Pub. L. 97–241 substituted “or the first” for “on the first” in provision preceding subpar. (A).
+<b>1982</b>—Subsec. (a)(3). Pub. L. 97–241 substituted "or the first" for "on the first" in provision preceding subpar. (A).
 
 #### Effective Date of 1988 Amendment
 
 Pub. L. 100–238, title II, §261, Jan. 8, 1988, 101 Stat. 1776, provided that:
 
-“(a)
+"(a)
 
 In General.—Except as provided in subsection (b), this title and the amendments made by this title \[enacting sections 4069–1 to 4069c–1 of this title, amending this section and sections 4044 to 4046, 4048, 4049, 4051, 4055, 4066, 4071a, 4071c, and 4084 of this title, and enacting provisions set out as a note under section 4046 of this title\] shall take effect 90 days after the date of enactment of this title \[Jan. 8, 1988\].
 
-“(b)
+"(b)
 
 Exceptions.—
 
-&emsp;“(1) The amendments made by section 202 \[enacting section 4069–1 of this title\] shall apply to any individual who, on or after the date of enactment of this title \[Jan. 8, 1988\], is married to a participant or former participant.
+&emsp;"(1) The amendments made by section 202 \[enacting section 4069–1 of this title\] shall apply to any individual who, on or after the date of enactment of this title \[Jan. 8, 1988\], is married to a participant or former participant.
 
-&emsp;“(2) The amendment made by section 217(a) \[amending this section\] shall not apply with respect to the former spouse of a participant or former participant who is subject to subchapter I of chapter 8 of the Foreign Service Act of 1980 \[this part\] if, on the date of enactment of this title \[Jan. 8, 1988\], that former spouse—
+&emsp;"(2) The amendment made by section 217(a) \[amending this section\] shall not apply with respect to the former spouse of a participant or former participant who is subject to subchapter I of chapter 8 of the Foreign Service Act of 1980 \[this part\] if, on the date of enactment of this title \[Jan. 8, 1988\], that former spouse—
 
-&emsp;&emsp;“(A) was the spouse of that participant or former participant; or
+&emsp;&emsp;"(A) was the spouse of that participant or former participant; or
 
-&emsp;&emsp;“(B) is entitled to an annuity under section 814 of the Foreign Service Act of 1980 \[this section\] pursuant to the divorce or annulment of the marriage to that participant or former participant.
+&emsp;&emsp;"(B) is entitled to an annuity under section 814 of the Foreign Service Act of 1980 \[this section\] pursuant to the divorce or annulment of the marriage to that participant or former participant.
 
-“(c)
+"(c)
 
-Definitions.—For the purpose of this section, the terms ‘participant’ and ‘former participant’ have the same meaning as such terms in chapter 8 of the Foreign Service Act of 1980 \[this subchapter\].”
+Definitions.—For the purpose of this section, the terms 'participant' and 'former participant' have the same meaning as such terms in chapter 8 of the Foreign Service Act of 1980 \[this subchapter\]."
 
 #### Effective Date of 1986 Amendment
 

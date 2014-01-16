@@ -40,19 +40,19 @@ Historical and Revision Notes
 
 Dec. 7, 1945, ch. 559, 59 Stat. 603; July 31, 1947, ch. 420, §7, 61 Stat. 706.
 
-In subsection (a) the words “of science” are omitted as surplusage since the curriculum is in engineering and related fields.
+In subsection (a) the words "of science" are omitted as surplusage since the curriculum is in engineering and related fields.
 
-In subsection (b) the words “from time to time” are omitted as surplusage.
+In subsection (b) the words "from time to time" are omitted as surplusage.
 
 #### Amendments
 
 <b>2008</b>—Pub. L. 110–417 amended section generally. Prior to amendment, text read as follows:
 
-“(a) The President of the Naval Postgraduate School, under regulations prescribed by the Secretary of the Navy, may confer on any qualified graduate a bachelor's, master's, or doctor's degree in engineering or a related field.
+"(a) The President of the Naval Postgraduate School, under regulations prescribed by the Secretary of the Navy, may confer on any qualified graduate a bachelor's, master's, or doctor's degree in engineering or a related field.
 
-“(b) A degree may not be conferred under this section unless the curriculum leading to that degree is accredited by the appropriate professional authority.”
+"(b) A degree may not be conferred under this section unless the curriculum leading to that degree is accredited by the appropriate professional authority."
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–375 substituted “President” for “Superintendent”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375 substituted "President" for "Superintendent".
 
 <b>1992</b>—Pub. L. 102–484 renumbered section 7047 of this title as this section.
 

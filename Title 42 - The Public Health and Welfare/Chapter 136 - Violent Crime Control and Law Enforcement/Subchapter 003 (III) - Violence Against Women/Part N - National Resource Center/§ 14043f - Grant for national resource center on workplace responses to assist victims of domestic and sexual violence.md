@@ -36,11 +36,19 @@ The compliance or noncompliance of any employer or labor organization with any p
 
 #### (e) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2007 through 2011.
+There is authorized to be appropriated to carry out this section $1,000,000 for each of fiscal years 2014 through 2018.
 
 #### (f) Availability of grant funds
 
 Funds appropriated under this section shall remain available until expended.
 
-(Pub. L. 103–322, title IV, §41501, as added Pub. L. 109–162, title VII, §701, Jan. 5, 2006, 119 Stat. 3052.)
+(Pub. L. 103–322, title IV, §41501, as added Pub. L. 109–162, title VII, §701, Jan. 5, 2006, 119 Stat. 3052; amended Pub. L. 113–4, title VII, §701, Mar. 7, 2013, 127 Stat. 110.)
+
+#### Amendments
+
+<b>2013</b>—Subsec. (e). Pub. L. 113–4 substituted "fiscal years 2014 through 2018" for "fiscal years 2007 through 2011".
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
 

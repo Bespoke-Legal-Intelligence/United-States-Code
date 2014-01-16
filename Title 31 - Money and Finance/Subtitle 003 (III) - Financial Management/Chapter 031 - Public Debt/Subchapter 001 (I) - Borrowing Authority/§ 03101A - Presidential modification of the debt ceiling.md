@@ -10,7 +10,7 @@ billion.—
 
 &emsp;&emsp;(A)
 
-Certification.—If, not later than December 31, 2011, the President submits a written certification to Congress that the President has determined that the debt subject to limit is within $100,000,000,000 of the limit in section 3101(b) and that further borrowing is required to meet existing commitments, the Secretary of the Treasury may exercise authority to borrow an additional $900,000,000,000, subject to the enactment of a joint resolution of disapproval enacted pursuant to this section. Upon submission ofsuch certification, the limit on debt provided in section 3101(b) (referred to in this section as the “debt limit”) is increased by $400,000,000,000.
+Certification.—If, not later than December 31, 2011, the President submits a written certification to Congress that the President has determined that the debt subject to limit is within $100,000,000,000 of the limit in section 3101(b) and that further borrowing is required to meet existing commitments, the Secretary of the Treasury may exercise authority to borrow an additional $900,000,000,000, subject to the enactment of a joint resolution of disapproval enacted pursuant to this section. Upon submission of such certification, the limit on debt provided in section 3101(b) (referred to in this section as the "debt limit") is increased by $400,000,000,000.
 
 &emsp;&emsp;(B)
 
@@ -26,7 +26,7 @@ Certification.—If, after the debt limit is increased by $900,000,000,000 under
 
 &emsp;&emsp;&emsp;(i) $1,200,000,000,000, unless clause (ii) or (iii) applies;
 
-&emsp;&emsp;&emsp;(ii) $1,500,000,000,000 if the Archivist of the United States has submitted to the States for their ratification a proposed amendment to the Constitution of the United States pursuant to a joint resolution entitled “Joint resolution proposing a balanced budget amendment to the Constitution of the United States”; or
+&emsp;&emsp;&emsp;(ii) $1,500,000,000,000 if the Archivist of the United States has submitted to the States for their ratification a proposed amendment to the Constitution of the United States pursuant to a joint resolution entitled "Joint resolution proposing a balanced budget amendment to the Constitution of the United States"; or
 
 &emsp;&emsp;&emsp;(iii) if a joint committee bill to achieve an amount greater than $1,200,000,000,000 in deficit reduction as provided in section 401(b)(3)(B)(i)(II) of the Budget Control Act of 2011 is enacted, an amount equal to the amount of that deficit reduction, but not greater than $1,500,000,000,000, unless clause (ii) applies.
 
@@ -44,7 +44,7 @@ In general.—Except for the $400,000,000,000 increase in the debt limit provide
 
 &emsp;(2)
 
-Contents of joint resolution.—For the purpose of this section, the term “joint resolution” means only a joint resolution—
+Contents of joint resolution.—For the purpose of this section, the term "joint resolution" means only a joint resolution—
 
 &emsp;&emsp;(A)(i) for the certification described in subsection (a)(1), that is introduced on September 6, 7, 8, or 9, 2011 (or, if the Senate was not in session, the next calendar day on which the Senate is in session); and
 
@@ -52,9 +52,9 @@ Contents of joint resolution.—For the purpose of this section, the term “joi
 
 &emsp;&emsp;(B) which does not have a preamble;
 
-&emsp;&emsp;(C) the title of which is only as follows: “Joint resolution relating to the disapproval of the President's exercise of authority to increase the debt limit, as submitted under section 3101A of title 31, United States Code, on \_\_\_\_\_\_\_\_\_\_\_\_” (with the blank containing the date of such submission); and
+&emsp;&emsp;(C) the title of which is only as follows: "Joint resolution relating to the disapproval of the President's exercise of authority to increase the debt limit, as submitted under section 3101A of title 31, United States Code, on \_\_\_\_\_\_\_\_\_\_\_\_" (with the blank containing the date of such submission); and
 
-&emsp;&emsp;(D) the matter after the resolving clause of which is only as follows: “That Congress disapproves of the President's exercise of authority to increase the debt limit, as exercised pursuant to the certification under section 3101A(a) of title 31, United States Code.”.
+&emsp;&emsp;(D) the matter after the resolving clause of which is only as follows: "That Congress disapproves of the President's exercise of authority to increase the debt limit, as exercised pursuant to the certification under section 3101A(a) of title 31, United States Code.".
 
 (c)
 
@@ -74,7 +74,7 @@ Proceeding to consideration.—After each committee authorized to consider a joi
 
 &emsp;(4)
 
-Consideration.—The joint resolution shall be considered as read. All points of orderagainst the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the joint resolution to its passage without intervening motion except two hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
+Consideration.—The joint resolution shall be considered as read. All points of order against the joint resolution and against its consideration are waived. The previous question shall be considered as ordered on the jointresolution to its passage without intervening motion except two hours of debate equally divided and controlled by the proponent and an opponent. A motion to reconsider the vote on passage of the joint resolution shall not be in order.
 
 (d)
 
@@ -146,7 +146,7 @@ Veto override.—If within the appropriate calendar day period described in subs
 
 Sequestration.—(A) If within the 50-calendar day period described in subsection (b)(1), the President signs the joint resolution, the President allows the joint resolution to become law without his signature, or Congress overrides a veto of the joint resolution with respect to authority exercised pursuant to paragraph (1) of subsection (a), there shall be a sequestration to reduce spending by $400,000,000,000. OMB shall implement the sequestration forthwith.
 
-&emsp;(B) OMB shall implement each half of such sequestration in accordance with section 255, section 256, and subsections (c), (d), (e), and (f)of section 253 of the Balanced Budget and Emergency Deficit Control Act of 1985, and for the purpose of such implementation the term “excess deficit” means the amount specified in subparagraph (A).
+&emsp;(B) OMB shall implement each half of such sequestration in accordance with section 255, section 256, and subsections (c), (d), (e), and (f) of section 253 of the Balanced Budget and Emergency Deficit Control Act of 1985, and for the purpose of such implementation the term "excess deficit" means the amount specified in subparagraph (A).
 
 (g)
 

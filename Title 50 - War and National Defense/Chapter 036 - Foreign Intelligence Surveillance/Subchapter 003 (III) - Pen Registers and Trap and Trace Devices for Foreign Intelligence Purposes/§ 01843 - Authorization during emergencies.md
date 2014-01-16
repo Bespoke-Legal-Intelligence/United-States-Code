@@ -6,13 +6,13 @@ Notwithstanding any other provision of this subchapter, when the Attorney Genera
 
 &emsp;(1) a judge referred to in section 1842(b) of this title is informed by the Attorney General or his designee at the time of such authorization that the decision has been made to install and use the pen register or trap and trace device, as the case may be, on an emergency basis; and
 
-&emsp;(2) an application in accordance with section 1842 of this title is made to such judge as soon as practicable, but not more than 7 days, after the Attorney General authorizes the installation and use of the pen register or trap and trace device, as the case may be, under this section.
+&emsp;(2) an application in accordance with section 1842 of this title is made to such judge as soon as practicable, but not more than 7 days, after the Attorney General authorizes the installation and use of the pen register or trap andtrace device, as the case may be, under this section.
 
 #### (b) Determination of emergency and factual basis
 
 A determination under this subsection is a reasonable determination by the Attorney General that—
 
-&emsp;(1) an emergency requires the installation and use of a pen register or trap and trace device to obtain foreign intelligence information not concerning a United States person or information to protect against internationalterrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution before an order authorizing the installation and use of the pen register or trap and trace device, as the case may be, can with due diligence be obtained under section 1842 of this title; and
+&emsp;(1) an emergency requires the installation and use of a pen register or trap and trace device to obtain foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution before an order authorizing the installation and use of the pen register or trap and trace device, as the case may be, can with due diligence be obtained under section 1842 of this title; and
 
 &emsp;(2) the factual basis for issuance of an order under such section 1842 of this title to approve the installation and use of the pen register or trap and trace device, as the case may be, exists.
 
@@ -32,11 +32,11 @@ A determination under this subsection is a reasonable determination by the Attor
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (a)(2), (c)(1)(C). Pub. L. 110–261 substituted “7 days” for “48 hours”.
+<b>2008</b>—Subsecs. (a)(2), (c)(1)(C). Pub. L. 110–261 substituted "7 days" for "48 hours".
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–56, §214(b)(1), substituted “foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “foreign intelligence information or information concerning international terrorism” in introductory provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–56, §214(b)(1), substituted "foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution" for "foreign intelligence information or information concerning international terrorism" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 107–56, §214(b)(2), substituted “foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution” for “foreign intelligence information or information concerning international terrorism”.
+Subsec. (b)(1). Pub. L. 107–56, §214(b)(2), substituted "foreign intelligence information not concerning a United States person or information to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution" for "foreign intelligence information or information concerning international terrorism".
 
 #### Effective Date of 2008 Amendment
 

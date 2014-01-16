@@ -26,5 +26,5 @@ The authority provided under this section shall terminate 11 years after July 25
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d). Pub. L. 111–212 substituted “11 years” for “10 years”.
+<b>2010</b>—Subsec. (d). Pub. L. 111–212 substituted "11 years" for "10 years".
 

@@ -2,7 +2,7 @@
 
 #### (a) Reviewing, updating, and maintaining maps
 
-The Administrator, in coordination with the Technical Mapping Advisory Council establishedunder section 4101a of this title, shall establish an ongoing program under which the Administrator shall review, update, and maintain National Flood Insurance Program rate maps in accordance with this section.
+The Administrator, in coordination with the Technical Mapping Advisory Council established under section 4101a of this title, shall establish an ongoing program under which the Administrator shall review, update, and maintain National Flood Insurance Program rate maps in accordance with this section.
 
 #### (b) Mapping
 
@@ -124,7 +124,7 @@ The National Flood Insurance Act of 1968, referred to in subsecs. (b)(1)(C) and 
 
 #### Codification
 
-Section was enacted as part of the Biggert-Waters Flood Insurance Reform Act of 2012, and also as part of the Moving Ahead for Progress in the 21st Century Act, also known as the MAP–21, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
+Section was enacted as part of the Biggert-Waters Flood Insurance Reform Act of 2012, and also as part ofthe Moving Ahead for Progress in the 21st Century Act, also known as the MAP–21, and not as part of the National Flood Insurance Act of 1968 which comprises this chapter.
 
 #### Definitions
 

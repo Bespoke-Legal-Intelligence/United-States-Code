@@ -12,7 +12,7 @@ Section 6621 of the Internal Revenue Code of 1986, referred to in text, is class
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
 #### Effective Date
 

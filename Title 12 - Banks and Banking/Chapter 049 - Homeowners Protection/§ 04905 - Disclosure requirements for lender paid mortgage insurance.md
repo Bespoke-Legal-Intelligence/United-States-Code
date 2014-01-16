@@ -4,11 +4,11 @@
 
 For purposes of this section—
 
-&emsp;(1) the term “borrower paid mortgage insurance” means private mortgage insurance that is required in connection with a residential mortgage transaction, payments for which are made by the borrower;
+&emsp;(1) the term "borrower paid mortgage insurance" means private mortgage insurance that is required in connection with a residential mortgage transaction, payments for which are made by the borrower;
 
-&emsp;(2) the term “lender paid mortgage insurance” means private mortgage insurance that is required in connection with a residential mortgage transaction, payments for which are made by a person other than the borrower; and
+&emsp;(2) the term "lender paid mortgage insurance" means private mortgage insurance that is required in connection with a residential mortgage transaction, payments for which are made by a person other than the borrower; and
 
-&emsp;(3) the term “loan commitment” means a prospective mortgagee's written confirmation of its approval, including any applicable closing conditions, of the application of a prospective mortgagor for a residential mortgage loan.
+&emsp;(3) the term "loan commitment" means a prospective mortgagee's written confirmation of its approval, including any applicable closing conditions, of the application of a prospective mortgagor for a residential mortgage loan.
 
 #### (b) Exclusion
 
@@ -46,11 +46,11 @@ The Truth in Lending Act, referred to in subsec.(c)(1)(B)(ii), is title I of Pub
 
 #### Amendments
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–569, §403(c)(1)(A), struck out “a residential mortgage or” before “a residential mortgage transaction” in introductory provisions.
+<b>2000</b>—Subsec. (c). Pub. L. 106–569, §403(c)(1)(A), struck out "a residential mortgage or" before "a residential mortgage transaction" in introductory provisions.
 
-Subsec. (c)(1)(B)(ii). Pub. L. 106–569, §406(a), inserted “(under the meaning given such term in the regulations issued by the Board of Governors of the Federal Reserve System to carry out the Truth in Lending Act (15 U.S.C. 1601 et seq.))” after “refinanced”.
+Subsec. (c)(1)(B)(ii). Pub. L. 106–569, §406(a), inserted "(under the meaning given such term in the regulations issued by the Board of Governors of the Federal Reserve System to carry out the Truth in Lending Act (15 U.S.C. 1601 et seq.))" after "refinanced".
 
-Subsec. (c)(2). Pub. L. 106–569, §403(c)(1)(B), inserted “transaction” before period at end.
+Subsec. (c)(2). Pub. L. 106–569, §403(c)(1)(B), inserted "transaction" before period at end.
 
-Subsec. (d). Pub. L. 106–569, §403(c)(2), inserted “transaction” after “residential mortgage”.
+Subsec. (d). Pub. L. 106–569, §403(c)(2), inserted "transaction" after "residential mortgage".
 

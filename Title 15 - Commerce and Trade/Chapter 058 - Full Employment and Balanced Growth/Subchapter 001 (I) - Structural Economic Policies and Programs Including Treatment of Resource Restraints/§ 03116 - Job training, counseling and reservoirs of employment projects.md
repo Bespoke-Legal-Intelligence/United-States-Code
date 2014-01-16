@@ -36,11 +36,11 @@ In meeting the responsibilities under subsection (a) of this section, the Secret
 
 The Secretary, in carrying out the provisions of this section, shall establish regulations providing for—
 
-&emsp;(1) an initial determination of the job seeker's ability to be employed at certain types and duration of work, so that such individual may be appropriately referred to jobs, training, counseling, and other supportive services;
+&emsp;(1) an initial determination of the job seeker's ability to be employed at certain typesand duration of work, so that such individual may be appropriately referred to jobs, training, counseling, and other supportive services;
 
 &emsp;(2) compliance with the nondiscrimination provisions of this chapter in accordance with section 3151 of this title;
 
-&emsp;(3) appropriate eligibility criteria to determine the order of priority of access of any person to any new programs under subsection (c) of this section as may be authorized by law including but not necessarily limited to (A) household income, duration of unemployment (not less than five weeks), and the number of people economically dependent upon such person; and (B) denial of access to any person refusing to accept or hold a job except for good cause, as determined by the Secretary of Labor, including refusal to accept or hold ajob subject to reference under subsection (b) paragraph (2) of this section, in order to seek a reservoir project job under subsection (c) of this section; and
+&emsp;(3) appropriate eligibility criteria to determine the order of priority of access of any person to any new programs under subsection (c) of this section as may be authorized by law including but not necessarily limited to (A) household income, duration of unemployment (not less than five weeks), and the number of people economically dependent upon such person; and (B) denial of access to any person refusing to accept or hold a job except for good cause, as determined by the Secretary of Labor, including refusal to accept or hold a job subject to reference under subsection (b) paragraph (2) of this section, in order to seek a reservoir project job under subsection (c) of this section; and
 
 &emsp;(4) such administrative appeal procedures as may be appropriate to review the initial determination of the abilities of persons willing, able, and seeking to work under paragraph (1) of this subsection and the employment need and eligibility under paragraph (3) of this subsection.
 
@@ -48,7 +48,7 @@ The Secretary, in carrying out the provisions of this section, shall establish r
 
 #### References in Text
 
-For definition of “this chapter”, referred to in subsecs. (a) and (d)(2), see References in Text note set out under section 3102 of this title.
+For definition of "this chapter", referred to in subsecs. (a) and (d)(2), see References in Text note set out under section 3102 of this title.
 
 The Employment Act of 1946, referred to in subsecs. (a) and (c), is act Feb. 20, 1946, ch. 33, 60 Stat. 23, as amended, which is classified generally to chapter 21 (§1021 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1021 of this title and Tables.
 
@@ -58,15 +58,15 @@ The Workforce Investment Act of 1998, referred to in subsecs. (b) and (c)(1), is
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(10)(A)\], which directed the amendment of subsec. (b) by substituting “the Job Training Partnership Act and” for “CETA” in introductory provisions, could not be executed because “CETA” did not appear in introductory provisions subsequent to amendment by Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(i)(I)\]. See below.
+<b>1998</b>—Subsec. (b). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(10)(A)\], which directed the amendment of subsec. (b) by substituting "the Job Training Partnership Act and" for "CETA" in introductory provisions, could not be executed because "CETA" did not appear in introductory provisions subsequent to amendment by Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(i)(I)\]. See below.
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(i)(I)\], substituted “the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “CETA” in introductory provisions.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(i)(I)\], substituted "the Job Training Partnership Act and title I of the Workforce Investment Act of 1998" for "CETA" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(i)(II)\], struck out “(including use of section 110 of CETA when necessary)” before semicolon at end.
+Subsec. (b)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(i)(II)\], struck out "(including use of section 110 of CETA when necessary)" before semicolon at end.
 
-Subsec. (c)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(10)(B)\], struck out “activities carried out under the Job Training Partnership Act or” before “title I of the Workforce Investment Act of 1998”.
+Subsec. (c)(1). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(10)(B)\], struck out "activities carried out under the Job Training Partnership Act or" before "title I of the Workforce Investment Act of 1998".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(ii)\], substituted “activities carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “CETA”.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(12)(A)(ii)\], substituted "activities carried out under the Job Training Partnership Act or title I of the Workforce Investment Act of 1998" for "CETA".
 
 #### Effective Date of 1998 Amendment
 

@@ -24,7 +24,7 @@ Concurrently with the submission of the President's annual budget to the Congres
 
 &emsp;(2) the program elements, management structure, and activities, including any regional aspects and field responsibilities thereof;
 
-&emsp;(3) the program strategies and technology applications plans, including detailed mile-stone goals to be achieved during the next fiscal year for all major activities and projects;
+&emsp;(3) the program strategies and technology applications plans, including detailed mile- stone goals to be achieved during the next fiscal year for all major activities and projects;
 
 &emsp;(4) any significant economic, environmental, and societal effects which the program may have;
 

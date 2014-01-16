@@ -56,7 +56,7 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Confidential phone records information.—The term “confidential phone records information” means information that—
+Confidential phone records information.—The term "confidential phone records information" means information that—
 
 &emsp;&emsp;(A) relates to the quantity, technical configuration, type, destination, location, or amount of use of a service offered by a covered entity, subscribed to by any customer of that covered entity, and kept by or on behalf of that covered entity solely by virtue of the relationship between that covered entity and the customer;
 
@@ -66,19 +66,19 @@ Confidential phone records information.—The term “confidential phone records
 
 &emsp;(2)
 
-Covered entity.—The term “covered entity”—
+Covered entity.—The term "covered entity"—
 
-&emsp;&emsp;(A) has the same meaning given the term “telecommunications carrier” in section 3 of the Communications Act of 1934 (47 U.S.C. 153); and
+&emsp;&emsp;(A) has the same meaning given the term "telecommunications carrier" in section 3 of the Communications Act of 1934 (47 U.S.C. 153); and
 
 &emsp;&emsp;(B) includes any provider of IP-enabled voice service.
 
 &emsp;(3)
 
-Customer.—The term “customer” means, with respect to a covered entity, any individual, partnership, association, joint stock company, trust, or corporation, or authorized representative of such customer, to whom the covered entity provides a product or service.
+Customer.—The term "customer" means, with respect to a covered entity, any individual, partnership, association, joint stock company, trust, or corporation, or authorized representative of such customer, to whom the covered entity provides a product or service.
 
 &emsp;(4) IP-
 
-enabled voice service.—The term “IP-enabled voice service” means the provision of real-time voice communications offered to the public, or such class of users as to be effectively available to the public, transmitted through customer premises equipment using TCP/IP protocol, or a successor protocol, (whether part of a bundle of services or separately) with interconnection capability such that the service can originate traffic to, or terminate traffic from, the public switched telephone network, or a successor network.
+enabled voice service.—The term "IP-enabled voice service" means the provision of real-time voice communications offered to the public, or such class of users as to be effectively available to the public, transmitted through customer premises equipment using TCP/IP protocol, or a successor protocol, (whether part of a bundle of services or separately) with interconnection capability such that the service can originate traffic to, or terminate traffic from, the public switched telephone network, or a successor network.
 
 (Added Pub. L. 109–476, §3(a), Jan. 12, 2007, 120 Stat. 3569.)
 
@@ -88,21 +88,21 @@ Section 222(d) of the Communications Act of 1934, referred to in subsecs. (b)(2)
 
 #### Findings
 
-Pub. L. 109–476, §2, Jan. 12, 2007, 120 Stat. 3568, provided that: “Congress finds that—
+Pub. L. 109–476, §2, Jan. 12, 2007, 120 Stat. 3568, provided that: "Congress finds that—
 
-&emsp;“(1) telephone records can be of great use to criminals because the information contained in call logs may include a wealth of personal data;
+&emsp;"(1) telephone records can be of great use to criminals because the information contained in call logs may include a wealth of personal data;
 
-&emsp;“(2) call logs may reveal the names of telephone users’ doctors, public and private relationships, business associates, and more;
+&emsp;"(2) call logs may reveal the names of telephone users' doctors, public and private relationships, business associates, and more;
 
-&emsp;“(3) call logs are typically maintained for the exclusive use of phone companies, their authorized agents, and authorized consumers;
+&emsp;"(3) call logs are typically maintained for the exclusive use of phone companies, their authorized agents, and authorized consumers;
 
-&emsp;“(4) telephone records have been obtained without the knowledge or consent of consumers through the use of a number of fraudulent methods and devices that include—
+&emsp;"(4) telephone records have been obtained without the knowledge or consent of consumers through the use of a number of fraudulent methods and devices that include—
 
-&emsp;&emsp;“(A) telephone company employees selling data to unauthorized data brokers;
+&emsp;&emsp;"(A) telephone company employees selling data to unauthorized data brokers;
 
-&emsp;&emsp;“(B) ‘pretexting’, whereby a data broker or other person represents that they are an authorized consumer and convinces an agent of the telephone company to release the data; or
+&emsp;&emsp;"(B) 'pretexting', whereby a data broker or other person represents that they are an authorized consumer and convinces an agent of the telephone company to release the data; or
 
-&emsp;&emsp;“(C) gaining unauthorized Internet access to account data by improperly activating a consumer's account management features on a phone company's webpage or contracting with an Internet-based data broker who trafficks in such records; and
+&emsp;&emsp;"(C) gaining unauthorized Internet access to account data by improperly activating a consumer's account management features on a phone company's webpage or contracting with an Internet-based data broker who trafficks in such records; and
 
-&emsp;“(5) the unauthorized disclosure of telephone records not only assaults individual privacy but, in some instances, may further acts of domestic violence or stalking, compromise the personal safety of law enforcement officers, their families, victims of crime, witnesses, or confidential informants, and undermine the integrity of law enforcement investigations.”
+&emsp;"(5) the unauthorized disclosure of telephone records not only assaults individual privacy but, in some instances, may further acts of domestic violence or stalking, compromise the personal safety of law enforcement officers, their families, victims of crime, witnesses, or confidential informants, and undermine the integrity of law enforcement investigations."
 

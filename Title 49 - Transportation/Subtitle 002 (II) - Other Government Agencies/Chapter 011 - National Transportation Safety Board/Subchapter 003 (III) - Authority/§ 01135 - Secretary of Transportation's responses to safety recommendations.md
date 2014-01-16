@@ -64,7 +64,7 @@ Reporting Requirements.—
 
 &emsp;(1)
 
-Annual secretarial regulatory status reports.—On February 1 of each year, the Secretary shall submit a report to Congress and the Board containing the regulatory status of each recommendation made by the Board to the Secretary (or to an Administration within the Department of Transportation) that is on the Board's “most wanted list”. The Secretary shall continue to report on the regulatory status of each such recommendation in the report due on February 1 of subsequent years until final regulatory action is taken on that recommendation or the Secretary (or an Administration within the Department) determines and states in such a report that no action should be taken.
+Annual secretarial regulatory status reports.—On February 1 of each year, the Secretary shall submit a report to Congress and the Board containing the regulatory status of each recommendation made by the Board to the Secretary (or to an Administration within the Department of Transportation) that is on the Board's "most wanted list". The Secretary shall continue to report on the regulatory status of each such recommendation in the report due on February 1 of subsequent years until final regulatory action is taken on that recommendation or the Secretary (or an Administration within the Department) determines and states in such a report that no action should be taken.
 
 &emsp;(2)
 
@@ -102,19 +102,19 @@ Jan. 3, 1975, Pub. L. 93–633, §307(a), 88 Stat. 2172; Nov. 3, 1981, Pub. L. 9
 
 Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, §307(b); added Nov. 3, 1981, Pub. L. 97–74, §6, 95 Stat. 1066.
 
-In subsections (a) and (b), the words “carry out” are substituted for “initiate and conduct” for consistency in the revised title and with other titles of the United States Code.
+In subsections (a) and (b), the words "carry out" are substituted for "initiate and conduct" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a)(1), the word “complete” is substituted for “in full” for consistency in the revised title.
+In subsection (a)(1), the word "complete" is substituted for "in full" for consistency in the revised title.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–216, §202(a), as amended by Pub. L. 111–249, §6(1), inserted “to the Board” after “shall give” in introductory provisions.
+<b>2010</b>—Subsec. (a). Pub. L. 111–216, §202(a), as amended by Pub. L. 111–249, §6(1), inserted "to the Board" after "shall give" in introductory provisions.
 
 Subsecs. (d), (e). Pub. L. 111–216, §202(b), as amended by Pub. L. 111–249, §6(2), added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>2006</b>—Subsec. (d)(3). Pub. L. 109–443 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: “This subsection shall cease to be in effect after the report required to be filed on February 1, 2008, is filed.”
+<b>2006</b>—Subsec. (d)(3). Pub. L. 109–443 amended heading and text of par. (3) generally. Prior to amendment, text read as follows: "This subsection shall cease to be in effect after the report required to be filed on February 1, 2008, is filed."
 
-<b>2003</b>—Subsec. (d). Pub. L. 108–168 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Secretary shall submit to Congress on January 1 of each year a report containing each recommendation on transportation safety made by the Board to the Secretary during the prior year and a copy of the Secretary's response to each recommendation.”
+<b>2003</b>—Subsec. (d). Pub. L. 108–168 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "The Secretary shall submit to Congress on January 1 of each year a report containing each recommendation on transportation safety made by the Board to the Secretary during the prior year and a copy of the Secretary's response to each recommendation."
 
 #### Effective Date of 2010 Amendment
 
@@ -124,43 +124,43 @@ Pub. L. 111–249, §6, Sept. 30, 2010, 124 Stat. 2628, provided that the amendm
 
 Pub. L. 108–168, §9, Dec. 6, 2003, 117 Stat. 2035, provided that:
 
-“(a)
+"(a)
 
 Initial Report.—Within 1 year after the date of enactment of this Act \[Dec. 6, 2003\], the Secretary of Transportation shall submit a report to Congress and the National Transportation Safety Board containing the regulatory status of each open safety recommendation made by the Board to the Secretary concerning—
 
-&emsp;“(1) 15-passenger van safety;
+&emsp;"(1) 15-passenger van safety;
 
-&emsp;“(2) railroad grade crossing safety; and
+&emsp;"(2) railroad grade crossing safety; and
 
-&emsp;“(3) medical certifications for a commercial driver's license.
+&emsp;"(3) medical certifications for a commercial driver's license.
 
-“(b)
+"(b)
 
 Biennial Updates.—The Secretary shall continue to report on the regulatory status of each such recommendation (and any subsequent recommendation made by the Board to the Secretary concerning a matter described in paragraph (1), (2), or (3) of subsection (a)) at 2-year intervals until—
 
-&emsp;“(1) final regulatory action has been taken on the recommendation;
+&emsp;"(1) final regulatory action has been taken on the recommendation;
 
-&emsp;“(2) the Secretary determines, and states in the report, that no action should be taken on that recommendation; or
+&emsp;"(2) the Secretary determines, and states in the report, that no action should be taken on that recommendation; or
 
-&emsp;“(3) the report, if any, required to be submitted in 2008 is submitted.
+&emsp;"(3) the report, if any, required to be submitted in 2008 is submitted.
 
-“(c)
+"(c)
 
-Failure To Report.—If the Board has not received a report required to be submitted under subsection (a) or (b) within 30 days after the date on which that report is required to be submitted, the Board shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
+Failure To Report.—If the Board has not received a report required to be submitted under subsection (a) or (b) within 30 days after the date on which that report is required to be submitted, the Board shall notify the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate."
 
 #### NTSB Safety Recommendations
 
 Pub. L. 107–355, §19, Dec. 17, 2002, 116 Stat. 3009, as amended by Pub. L. 108–426, §2(c)(3), Nov. 30, 2004, 118 Stat. 2424, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of Transportation, the Administrator of Pipeline and Hazardous Materials Safety Administration, and the Director of the Office of Pipeline Safety shall fully comply with section 1135 of title 49, United States Code, to ensure timely responsiveness to National Transportation Safety Board recommendations about pipeline safety.
 
-“(b)
+"(b)
 
 Public Availability.—The Secretary, Administrator, or Director, respectively, shall make a copy of each recommendation on pipeline safety and response, as described in subsections (a) and (b) of section 1135, title 49, United States Code.
 
-“(c)
+"(c)
 
-Reports to Congress.—The Secretary, Administrator, or Director, respectively, shall submit to Congress by January 1 of each year a report containing each recommendation on pipeline safety made by the Board during the prior year and a copy of the response to each such recommendation.”
+Reports to Congress.—The Secretary, Administrator, or Director, respectively, shall submit to Congress by January 1 of each year a report containing each recommendation on pipeline safety made by the Board during the prior year and a copy of the response to each such recommendation."
 

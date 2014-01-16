@@ -26,13 +26,13 @@ Subsection (b) gives a foreign representative authority to appear in the bankrup
 
 <b>2005</b>—Subsec. (a)(2). Pub. L. 109–8 added par. (2) and struck out former par. (2) which read as follows:
 
-“(2)(A) there is pending a foreign proceeding; and
+"(2)(A) there is pending a foreign proceeding; and
 
-“(B) the factors specified in section 304(c) of this title warrant such dismissal or suspension.”
+"(B) the factors specified in section 304(c) of this title warrant such dismissal or suspension."
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–198 substituted “title 28” for “this title” in two places.
+<b>1991</b>—Subsec. (c). Pub. L. 102–198 substituted "title 28" for "this title" in two places.
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–650 inserted before period at end “by the court of appeals under section 158(d), 1291, or 1292 of this title or by the Supreme Court of the United States under section 1254 of this title”.
+<b>1990</b>—Subsec. (c). Pub. L. 101–650 inserted before period at end "by the court of appeals under section 158(d), 1291, or 1292 of this title or by the Supreme Court of the United States under section 1254 of this title".
 
 #### Effective Date of 2005 Amendment
 

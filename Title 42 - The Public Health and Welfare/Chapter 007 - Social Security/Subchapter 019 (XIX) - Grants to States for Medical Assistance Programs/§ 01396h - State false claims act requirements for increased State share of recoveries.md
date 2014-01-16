@@ -10,7 +10,7 @@ For purposes of subsection (a), the requirements of this subsection are that the
 
 &emsp;(1) The law establishes liability to the State for false or fraudulent claims described in section 3729 of title 31 with respect to any expenditure described in section 1396b(a) of this title.
 
-&emsp;(2) The law contains provisions that are at least as effective in rewarding and facilitating qui tam actions for false or fraudulent claims as those described in sections 3730 through 3732 of title 31.
+&emsp;(2) The law contains provisions that are at least as effective in rewarding and facilitatingqui tam actions for false or fraudulent claims as those described in sections 3730 through 3732 of title 31.
 
 &emsp;(3) The law contains a requirement for filing an action under seal for 60 days with review by the State Attorney General.
 
@@ -32,5 +32,5 @@ A prior section 1396h, act Aug. 14, 1935, ch. 531, title XIX, §1909, as added a
 
 #### Effective Date
 
-Pub. L. 109–171, title VI, §6031(b), Feb. 8, 2006, 120 Stat. 73, as amended by Pub. L. 109–432, div. B, title IV, §405(c)(2)(A)(iii), Dec. 20, 2006, 120 Stat. 3000, provided that: “Except as provided in section 6034(e) \[set out as an Effective Date of 2006 Amendment note under section 1396a of this title\], the amendments made by this section \[enacting this section\] take effect on January 1, 2007.”
+Pub. L. 109–171, title VI, §6031(b), Feb. 8, 2006, 120 Stat. 73, as amended by Pub. L. 109–432, div. B, title IV, §405(c)(2)(A)(iii), Dec. 20, 2006, 120 Stat. 3000, provided that: "Except as provided in section 6034(e) \[set out as an Effective Date of 2006 Amendment note under section 1396a of this title\], the amendments made by this section \[enacting this section\] take effect on January 1, 2007."
 

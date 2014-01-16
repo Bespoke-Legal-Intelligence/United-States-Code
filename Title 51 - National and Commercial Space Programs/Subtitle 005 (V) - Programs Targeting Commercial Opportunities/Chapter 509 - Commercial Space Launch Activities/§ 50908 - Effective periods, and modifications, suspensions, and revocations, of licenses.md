@@ -72,19 +72,19 @@ Oct. 30, 1984, Pub. L. 98–575, §§7 (last sentence), 10, 98 Stat. 3058, 3059.
 
 49 App.:2609(d).
 
-In subsection (a), the words “of time” and “in accordance with regulations issued under this chapter” are omitted as surplus.
+In subsection (a), the words "of time" and "in accordance with regulations issued under this chapter" are omitted as surplus.
 
-In subsection (b), the words “the requirements of” are omitted as surplus.
+In subsection (b), the words "the requirements of" are omitted as surplus.
 
-In subsection (e), the words “Whenever the Secretary takes any action” are omitted as surplus.
+In subsection (e), the words "Whenever the Secretary takes any action" are omitted as surplus.
 
 #### Amendments
 
 <b>2010</b>—Pub. L. 111–314, §4(d)(2), (3)(H), successively renumbered section 70107 of title 49 and section 70107 of this title as this section.
 
-Subsec. (b)(2). Pub. L. 111–314, §4(d)(5)(J), substituted “section 50905(c)” for “section 70105(c)”.
+Subsec. (b)(2). Pub. L. 111–314, §4(d)(5)(J), substituted "section 50905(c)" for "section 70105(c)".
 
-Subsec. (e). Pub. L. 111–314, §4(d)(5)(K), substituted “section 50912” for “section 70110”.
+Subsec. (e). Pub. L. 111–314, §4(d)(5)(K), substituted "section 50912" for "section 70110".
 
 <b>2004</b>—Subsec. (b). Pub. L. 108–492, §2(c)(18), designated existing text as par. (1) and added par. (2).
 

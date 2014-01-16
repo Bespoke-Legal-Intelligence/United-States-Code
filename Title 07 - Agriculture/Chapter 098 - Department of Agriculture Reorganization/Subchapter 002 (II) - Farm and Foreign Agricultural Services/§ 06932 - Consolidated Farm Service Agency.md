@@ -42,7 +42,7 @@ In carrying out the programs specified in subsection (b)(4) of this section, the
 
 #### (A) In general
 
-&emsp;&emsp;With respect to administrative appeals involving a technical determination made by the Natural Resources Conservation Service, the Consolidated Farm Service Agency, by rule with the concurrence of the Natural Resources Conservation Service, shall establish procedures for obtaining review by the Natural Resources Conservation Service of the technical determinations involved. Such rules shall ensure that technical criteria established by the Natural Resources Conservation Service shall be used by the Consolidated Farm Service Agency as the basis for any decisions regarding technical determinations. If no review is requested, the technical determination of the Natural Resources Conservation Service shall be the technical basis for any decision rendered by a county or area committee established under section 590h(b)(5) of title 16. If the committee requests a review by the Natural Resources Conservation Service of a wetlands determination of the Service, the Consolidated Farm Service Agency shall consult with other Federal agencies whenever required by law or under a memorandum of agreement in existence on October 13, 1994.
+&emsp;&emsp;With respect to administrative appeals involving a technical determination made by the Natural Resources Conservation Service, the Consolidated Farm Service Agency, byrule with the concurrence of the Natural Resources Conservation Service, shall establish procedures for obtaining review by the Natural Resources Conservation Service of the technical determinations involved. Such rules shall ensure that technical criteria established by the Natural Resources Conservation Service shall be used by the Consolidated Farm Service Agency as the basis for any decisions regarding technical determinations. If no review is requested, the technical determination of the Natural Resources Conservation Service shall be the technical basis for any decision rendered by a county or area committee established under section 590h(b)(5) of title 16. If the committee requests a review by the Natural Resources Conservation Service of a wetlands determination of the Service, the Consolidated Farm Service Agency shall consult with other Federal agencies whenever required by law or under a memorandum of agreement in existence on October 13, 1994.
 
 #### (B) Economic hardship
 
@@ -78,15 +78,15 @@ To the maximum extent practicable, the Secretary shall collocate county offices 
 
 For purposes of subsections (c) through (f) of this section:
 
-&emsp;(1) A reference to the “Consolidated Farm Service Agency” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Consolidated Farm Service Agency under this section.
+&emsp;(1) A reference to the "Consolidated Farm Service Agency" includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Consolidated Farm Service Agency under this section.
 
-&emsp;(2) A reference to the “Natural Resources Conservation Service” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under section 6962(b) of this title.
+&emsp;(2) A reference to the "Natural Resources Conservation Service" includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Natural Resources Conservation Service under section 6962(b) of this title.
 
 (Pub. L. 103–354, title II, §226, Oct. 13, 1994, 108 Stat. 3214; Pub. L. 104–127, title I, §194(c), title III, §§315(b), 336(a)(2)(C), Apr. 4, 1996, 110 Stat. 946, 985, 1005.)
 
 #### References in Text
 
-The Food Security Act of 1985, referred to in subsecs. (b)(4) and (d)(1), (3), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the “Sodbuster Law”, is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
+The Food Security Act of 1985, referred to in subsecs. (b)(4) and (d)(1), (3), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Title XII of the Act, popularly known as the "Sodbuster Law", is classified principally to chapter 58 (§3801 et seq.) of Title 16, Conservation. Subchapter B of chapter 1 of subtitle D of title XII of the Act is classified generally to subpart B (§3831 et seq.) of part I of subchapter IV of chapter 58 of Title 16. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 
 #### Codification
 
@@ -94,9 +94,9 @@ Section is comprised of section 226 of Pub. L. 103–354. Subsec. (h) of section
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(2). Pub. L. 104–127, §194(c), struck out par. (2) which read as follows: “General supervision of the Federal Crop Insurance Corporation.”
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–127, §194(c), struck out par. (2) which read as follows: "General supervision of the Federal Crop Insurance Corporation."
 
-Subsec. (b)(4). Pub. L. 104–127, §336(a)(2)(C), struck out before period at end “and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590g et seq.)”.
+Subsec. (b)(4). Pub. L. 104–127, §336(a)(2)(C), struck out before period at end "and the agricultural conservation program under the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590g et seq.)".
 
 Subsec. (d)(2). Pub. L. 104–127, §315(b), designated existing provisions as subpar. (A), inserted heading, and added subpar. (B).
 

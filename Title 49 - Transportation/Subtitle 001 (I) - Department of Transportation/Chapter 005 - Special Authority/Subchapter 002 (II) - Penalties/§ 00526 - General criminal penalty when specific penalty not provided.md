@@ -16,15 +16,15 @@ Historical and Revision Notes
 
 526
 
-49:304(a)(3) (last sentence) (related to “Sec. 322(a)”).
+49:304(a)(3) (last sentence) (related to "Sec. 322(a)").
 
-Feb. 4, 1887, ch. 104, 24 Stat. 379, §204(a)(3) (last sentence) (related to “Sec. 222(a)”); added Aug. 9, 1935, ch. 498, 49 Stat. 546.
+Feb. 4, 1887, ch. 104, 24 Stat. 379, §204(a)(3) (last sentence) (related to "Sec. 222(a)"); added Aug. 9, 1935, ch. 498, 49 Stat. 546.
 
 &nbsp;
 
-49:304(a)(3a) (last sentence) (related to “Sec. 322(a)”).
+49:304(a)(3a) (last sentence) (related to "Sec. 322(a)").
 
-Feb. 4, 1887, ch. 104, 24 Stat. 379, §204(a)(3a) (last sentence) (related to “Sec. 222(a)”); added Aug. 3, 1956, ch. 905, §2, 70 Stat. 958.
+Feb. 4, 1887, ch. 104, 24 Stat. 379, §204(a)(3a) (last sentence) (related to "Sec. 222(a)"); added Aug. 3, 1956, ch. 905, §2, 70 Stat. 958.
 
 &nbsp;
 
@@ -46,7 +46,7 @@ The reference to a certificate, permit, or licence is omitted as not applicable 
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–272 substituted “a provision of this chapter, subchapter III of chapter 311 (except sections 31138 and 31139), or section 31502 of this title, a person that knowingly and willfully violates any of those provisions or a regulation or order of the Secretary of Transportation under any of those provisions” for “this chapter, section 3102 of this title, or the Motor Carrier Safety Act of 1984, a person that knowingly and willfully violates a provision of this chapter or such section or Act, or a regulation or order of the Secretary of Transportation under this chapter or such section or Act”.
+<b>1994</b>—Pub. L. 103–272 substituted "a provision of this chapter, subchapter III of chapter 311 (except sections 31138 and 31139), or section 31502 of this title, a person that knowingly and willfully violates any of those provisions or a regulation or order of the Secretary of Transportation under any of those provisions" for "this chapter, section 3102 of this title, or the Motor Carrier Safety Act of 1984, a person that knowingly and willfully violates a provision of this chapter or such section or Act, or a regulation or order of the Secretary of Transportation under this chapter or such section or Act".
 
-<b>1984</b>—Pub. L. 98–554 inserted “, section 3102 of this title, or the Motor Carrier Safety Act of 1984” after “chapter” the first place it appears and inserted “or such section or Act” after “chapter” the second and third places it appears.
+<b>1984</b>—Pub. L. 98–554 inserted ", section 3102 of this title, or the Motor Carrier Safety Act of 1984" after "chapter" the first place it appears and inserted "or such section or Act" after "chapter" the second and third places it appears.
 

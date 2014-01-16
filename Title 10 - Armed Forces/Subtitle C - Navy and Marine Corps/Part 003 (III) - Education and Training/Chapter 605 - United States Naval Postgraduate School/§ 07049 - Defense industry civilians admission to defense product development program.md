@@ -42,41 +42,41 @@ Use of Funds.—Amounts received by the school for instruction of students enrol
 
 #### Amendments
 
-<b>2013</b>—Subsec. (a). Pub. L. 112–239 inserted “or professional continuing education certificate” after “master's degree” and “or an appropriate professional continuing education certificate, as applicable” before period at end.
+<b>2013</b>—Subsec. (a). Pub. L. 112–239 inserted "or professional continuing education certificate" after "master's degree" and "or an appropriate professional continuing education certificate, as applicable" before period at end.
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–417 substituted “125” for “25”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–417 substituted "125" for "25".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163 inserted “and systems engineering” after “curriculum related to defense product development” and substituted “25” for “10”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 inserted "and systems engineering" after "curriculum related to defense product development" and substituted "25" for "10".
 
-<b>2004</b>—Subsec. (e). Pub. L. 108–375 substituted “President” for “Superintendent”.
+<b>2004</b>—Subsec. (e). Pub. L. 108–375 substituted "President" for "Superintendent".
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–136 substituted “Determination” for “Certification” in heading and struck out “, and certifies to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives,” after “determines” in introductory provisions.
+<b>2003</b>—Subsec. (c). Pub. L. 108–136 substituted "Determination" for "Certification" in heading and struck out ", and certifies to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives," after "determines" in introductory provisions.
 
 #### Request for Increase in Number of Defense Industry Civilians Authorized for Admission
 
-Pub. L. 112–239, div. A, title V, §589(c), Jan. 2, 2013, 126 Stat. 1769, provided that: “If the Secretary of Defense determines that it is in the best interest of the Department of Defense to increase the maximum number of defense industry employees authorized to be enrolled in the Naval Defense Development Program or the Air Force Institute of Technology at any one time, as specified in sections 7049(a) and 9314a(a) of title 10, United States Code, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a request for such an increase, including draft legislation to effectuate the increase.”
+Pub. L. 112–239, div. A, title V, §589(c), Jan. 2, 2013, 126 Stat. 1769, provided that: "If the Secretary of Defense determines that it is in the best interest of the Department of Defense to increase the maximum number of defense industry employees authorized to be enrolled in the Naval Defense Development Program or the Air Force Institute of Technology at any one time, as specified in sections 7049(a) and 9314a(a) of title 10, United States Code, the Secretary shall submit to the Committees on Armed Services of the Senate and the House of Representatives a request for such an increase, including draft legislation to effectuate the increase."
 
 #### Program Evaluation and Report
 
 Pub. L. 106–398, §1 \[\[div. A\], title V, §535(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–113, provided that:
 
-“(1) Before the start of the fourth year of instruction, but no earlier than the start of the third year of instruction, of defense industry employees at the Naval Postgraduate School under section 7049 of title 10, United States Code, as added by subsection (a), the Secretary of the Navy shall conduct an evaluation of the admission of such students under that section. The evaluation shall include the following:
+"(1) Before the start of the fourth year of instruction, but no earlier than the start of the third year of instruction, of defense industry employees at the Naval Postgraduate School under section 7049 of title 10, United States Code, as added by subsection (a), the Secretary of the Navy shall conduct an evaluation of the admission of such students under that section. The evaluation shall include the following:
 
-&emsp;“(A) An assessment of whether the authority for instruction of nongovernment civilians at the school has resulted in a discernible benefit for the Government.
+&emsp;"(A) An assessment of whether the authority for instruction of nongovernment civilians at the school has resulted in a discernible benefit for the Government.
 
-&emsp;“(B) Determination of whether the receipt and disposition of funds received by the school as tuition for instruction of such civilians at the school have been properly identified in records of the school.
+&emsp;"(B) Determination of whether the receipt and disposition of funds received by the school as tuition for instruction of such civilians at the school have been properly identified in records of the school.
 
-&emsp;“(C) A summary of the disposition and uses made of those funds.
+&emsp;"(C) A summary of the disposition and uses made of those funds.
 
-&emsp;“(D) An assessment of whether instruction of such civilians at the school is in the best interests of the Government.
+&emsp;"(D) An assessment of whether instruction of such civilians at the school is in the best interests of the Government.
 
-“(2) Not later than 30 days after completing the evaluation referred to in paragraph (1), the Secretary of the Navy shall submit to the Secretary of Defense a report on the program under such section. The report shall include—
+"(2) Not later than 30 days after completing the evaluation referred to in paragraph (1), the Secretary of the Navy shall submit to the Secretary of Defense a report on the program under such section. The report shall include—
 
-&emsp;“(A) the results of the evaluation under paragraph (1);
+&emsp;"(A) the results of the evaluation under paragraph (1);
 
-&emsp;“(B) the Secretary's conclusions and recommendation with respect to continuing to allow nongovernment civilians to receive instruction at the Naval Postgraduate School as part of a program related to defense product development; and
+&emsp;"(B) the Secretary's conclusions and recommendation with respect to continuing to allow nongovernment civilians to receive instruction at the Naval Postgraduate School as part of a program related to defense product development; and
 
-&emsp;“(C) any proposals for legislative changes recommended by the Secretary.
+&emsp;"(C) any proposals for legislative changes recommended by the Secretary.
 
-“(3) Not later than 60 days after receiving the report of the Secretary of the Navy under paragraph (2), the Secretary of Defense shall submit the report, together with any comments that the Secretary considers appropriate, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives.”
+"(3) Not later than 60 days after receiving the report of the Secretary of the Navy under paragraph (2), the Secretary of Defense shall submit the report, together with any comments that the Secretary considers appropriate, to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives."
 

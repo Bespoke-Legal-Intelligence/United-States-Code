@@ -16,7 +16,7 @@ In order to provide for maximum efficiency in the administration of the flood in
 
 #### (b) Terms and conditions of contract
 
-Any contract with the pool or an insurance company or other private organization under this section may contain such terms and conditions as the Administrator finds necessary orappropriate for carrying out responsibilities under subsection (a) of this section, and may provide for payment of any costs which the Administrator determines are incidental to carrying out such responsibilities which are covered by the contract.
+Any contract with the pool or an insurance company or other private organization under this section may contain such terms and conditions as the Administrator finds necessary or appropriate for carrying out responsibilities under subsection (a) of this section, and may provide for payment of any costs which the Administrator determines are incidental to carrying out such responsibilities which are covered by the contract.
 
 #### (c) Competitive bidding
 
@@ -38,39 +38,39 @@ No contract may be entered into under this section unless the Administrator find
 
 Any contract entered into under this section shall be for a term of one year, and may be made automatically renewable from term to term in the absence of notice by either party of an intention to terminate at the end of the current term; except that the Administrator may terminate any such contract at any time (after reasonable notice to the pool, company, or organization involved) if he finds that the pool, company, or organization has failed substantially to carry out the contract, or is carrying out the contract in a manner inconsistent with the efficient and effective administration of the flood insurance program authorized under this chapter.
 
-(Pub. L. 90–448, title XIII, §1346, Aug. 1, 1968, 82 Stat. 585; Pub. L. 98–181, title I \[title IV, §451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §§100232(d)(4), 100238(b)(1), July 6, 2012, 126 Stat. 954, 958.)
+(Pub. L. 90–448, title XIII, §1346, Aug. 1, 1968, 82 Stat. 585; Pub. L. 98–181, title I \[title IV,§451(d)(1)\], Nov. 30, 1983, 97 Stat. 1229; Pub. L. 112–141, div. F, title II, §§100232(d)(4), 100238(b)(1), July 6, 2012, 126 Stat. 954, 958.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(5) and (f), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsecs. (a)(5) and (f), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Codification
 
-In subsec. (c), “section 6101 of title 41” substituted for “section 3709 of the Revised Statute (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (c), "section 6101 of title 41" substituted for "section 3709 of the Revised Statute (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” in introductory provisions.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" in introductory provisions.
 
-Pub. L. 112–141, §100232(d)(4)(A), inserted “securing reinsurance of insurance coverage provided by the program or for the purpose of” after “for the purpose of” in introductory provisions.
+Pub. L. 112–141, §100232(d)(4)(A), inserted "securing reinsurance of insurance coverage provided by the program or for the purpose of" after "for the purpose of" in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 112–141, §100232(d)(4)(B), substituted “Estimating” for “estimating” and period for semicolon at end.
+Subsec. (a)(1). Pub. L. 112–141, §100232(d)(4)(B), substituted "Estimating" for "estimating" and period for semicolon at end.
 
-Subsec. (a)(2). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director”.
+Subsec. (a)(2). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director".
 
-Pub. L. 112–141, §100232(d)(4)(C), substituted “Receiving” for “receiving” and period for semicolon at end.
+Pub. L. 112–141, §100232(d)(4)(C), substituted "Receiving" for "receiving" and period for semicolon at end.
 
-Subsec. (a)(3). Pub. L. 112–141, §100232(d)(4)(D)(ii), which directed substitution of period for “ ‘; and’ ” was executed by making the substitution for “; and” to reflect the probable intent of Congress.
+Subsec. (a)(3). Pub. L. 112–141, §100232(d)(4)(D)(ii), which directed substitution of period for " '; and' " was executed by making the substitution for "; and" to reflect the probable intent of Congress.
 
-Pub. L. 112–141, §100232(d)(4)(D)(i), substituted “Making” for “making”.
+Pub. L. 112–141, §100232(d)(4)(D)(i), substituted "Making" for "making".
 
 Subsec. (a)(4). Pub. L. 112–141, §100232(d)(4)(G), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 112–141, §100232(d)(4)(E), (F), redesignated par. (4) as (5) and substituted “Otherwise” for “otherwise”.
+Subsec. (a)(5). Pub. L. 112–141, §100232(d)(4)(E), (F), redesignated par. (4) as (5) and substituted "Otherwise" for "otherwise".
 
-Subsecs. (b), (d), (e)(1), (f). Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” wherever appearing.
+Subsecs. (b), (d), (e)(1), (f). Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" wherever appearing.
 
-<b>1983</b>—Subsecs. (a), (b), (d), (e)(1), (f). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+<b>1983</b>—Subsecs. (a), (b), (d), (e)(1), (f). Pub. L. 98–181 substituted "Director" for "Secretary" wherever appearing.
 
 #### Transfer of Functions
 

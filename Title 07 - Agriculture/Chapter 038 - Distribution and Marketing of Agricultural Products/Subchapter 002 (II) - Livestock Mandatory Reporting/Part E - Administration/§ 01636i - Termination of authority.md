@@ -6,5 +6,5 @@ The authority provided by this subchapter terminates on September 30, 2015.
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–239 substituted “September 30, 2015” for “September 30, 2010”.
+<b>2010</b>—Pub. L. 111–239 substituted "September 30, 2015" for "September 30, 2010".
 

@@ -44,7 +44,7 @@ In this section:
 
 #### (1) At-risk individual
 
-&emsp;The term “at-risk individual” means an individual who—
+&emsp;The term "at-risk individual" means an individual who—
 
 &emsp;&emsp;(A)(i) as demonstrated in such manner as the Secretary determines appropriate, has been present for an aggregate total of 6 months in the geographic area subject to an emergency declaration specified under paragraph (2), during a period ending—
 
@@ -58,15 +58,15 @@ In this section:
 
 #### (2) Emergency declaration
 
-&emsp;The term “emergency declaration” means a declaration of a public health emergency under section 9604(a) of this title.
+&emsp;The term "emergency declaration" means a declaration of a public health emergency under section 9604(a) of this title.
 
 #### (3) Environmental health condition
 
-&emsp;The term “environmental health condition” means—
+&emsp;The term "environmental health condition" means—
 
 &emsp;&emsp;(A) asbestosis, pleural thickening, or pleural plaques, as established by—
 
-&emsp;&emsp;&emsp;(i) interpretation by a “B Reader” qualified physician of a plain chest x-ray or interpretation of a computed tomographic radiograph of the chest by a qualified physician, as determined by the Secretary; or
+&emsp;&emsp;&emsp;(i) interpretation by a "B Reader" qualified physician of a plain chest x-ray or interpretation of a computed tomographic radiograph of the chest by a qualified physician, as determined by the Secretary; or
 
 &emsp;&emsp;&emsp;(ii) such other diagnostic standards as the Secretary specifies;
 
@@ -82,11 +82,11 @@ In this section:
 
 #### (4) Hazardous substance; pollutant; contaminant
 
-&emsp;The terms “hazardous substance”, “pollutant”, and “contaminant” have the meanings given those terms in section 9601 of this title.
+&emsp;The terms "hazardous substance", "pollutant", and "contaminant" have the meanings given those terms in section 9601 of this title.
 
 #### (5) Superfund site
 
-&emsp;The term “Superfund site” means a site included on the National Priorities List developed by the President in accordance with section 9605(a)(8)(B) of this title.
+&emsp;The term "Superfund site" means a site included on the National Priorities List developed by the President in accordance with section 9605(a)(8)(B) of this title.
 
 #### (d) Health coverage unaffected
 

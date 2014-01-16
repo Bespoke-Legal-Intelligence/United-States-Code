@@ -20,7 +20,7 @@ All functions and responsibilities placed in the Department of the Interior or a
 
 #### References in Text
 
-This Act, referred to in subsec. (d), is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fishand Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
+This Act, referred to in subsec. (d), is act Aug. 8, 1956, ch. 1036, 70 Stat. 1119, as amended, known as the Fish and Wildlife Act of 1956, which is classified generally to sections 742a to 742d and 742e to 742j–2 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 742a of this title and Tables.
 
 #### Amendments
 
@@ -36,11 +36,11 @@ Subsec. (f). Pub. L. 93–271, §1(3), struck out subsec. (f) which provided for
 
 <b>1962</b>—Subsec. (a). Pub. L. 87–793 struck out provisions which authorized the Commissioner to receive compensation at the same rate as that provided for grade GS–18.
 
-<b>1961</b>—Subsec. (a). Pub. L. 87–367 struck out “at Grades GS–17 each” after “by the Secretary”.
+<b>1961</b>—Subsec. (a). Pub. L. 87–367 struck out "at Grades GS–17 each" after "by the Secretary".
 
 #### Effective Date of 1974 Amendment
 
-Pub. L. 93–271, §3, Apr. 22, 1974, 88 Stat. 92, provided that: “The amendments made by this Act \[amending this section and section 5316 of Title 5, Government Organization and Employees\] shall take effect on July 1, 1974.”
+Pub. L. 93–271, §3, Apr. 22, 1974, 88 Stat. 92, provided that: "The amendments made by this Act \[amending this section and section 5316 of Title 5, Government Organization and Employees\] shall take effect on July 1, 1974."
 
 #### Effective Date of 1962 Amendment
 
@@ -52,5 +52,5 @@ Transfer of functions to Secretary of Commerce from Secretary of the Interior in
 
 #### Fees for Training by National Conservation Training Center
 
-Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–185, as amended by Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1547, provided in part: “That hereafter, pursuant to 31 U.S.C. 9701, the Secretary shall charge reasonable fees for the full costs of providing training by the National Conservation Training Center, to be credited to this account, notwithstanding 31 U.S.C. 3302, for the full costs of providing such training, to remain available until expended.”
+Pub. L. 104–208, div. A, title I, §101(d) \[title I\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–185, as amended by Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1547, provided in part: "That hereafter, pursuant to 31 U.S.C. 9701, the Secretary shall charge reasonable fees for the full costs of providing training by the National Conservation Training Center, to be credited to this account, notwithstanding 31 U.S.C. 3302, for the full costs of providing such training, to remain available until expended."
 

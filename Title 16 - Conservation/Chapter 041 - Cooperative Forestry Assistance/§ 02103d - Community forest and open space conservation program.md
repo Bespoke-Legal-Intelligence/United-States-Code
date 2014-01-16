@@ -6,19 +6,19 @@ In this section:
 
 #### (1) Eligible entity
 
-&emsp;The term “eligible entity” means a local governmental entity, Indian tribe, or nonprofit organization that owns or acquires a parcel under the program.
+&emsp;The term "eligible entity" means a local governmental entity, Indian tribe, or nonprofit organization that owns or acquires a parcel under the program.
 
 #### (2) Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning given the term in section 450b of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 450b of title 25.
 
 #### (3) Local governmental entity
 
-&emsp;The term “local governmental entity” includes any municipal government, county government, or other local government body with jurisdiction over local land use decisions.
+&emsp;The term "local governmental entity" includes any municipal government, county government, or other local government body with jurisdiction over local land use decisions.
 
 #### (4) Nonprofit organization
 
-&emsp;The term “nonprofit organization” means any organization that—
+&emsp;The term "nonprofit organization" means any organization that—
 
 &emsp;&emsp;(A) is described in section 170(h)(3) of title 26; and
 
@@ -26,15 +26,15 @@ In this section:
 
 #### (5) Program
 
-&emsp;The term “Program” means the community forest and open space conservation program established under subsection (b).
+&emsp;The term "Program" means the community forest and open space conservation program established under subsection (b).
 
 #### (6) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture, acting through the Chief of the Forest Service.
+&emsp;The term "Secretary" means the Secretary of Agriculture, acting through the Chief of the Forest Service.
 
 #### (b) Establishment
 
-The Secretary shall establish a program, to be known as the “community forest and open space conservation program”.
+The Secretary shall establish a program, to be known as the "community forest and open space conservation program".
 
 #### (c) Grant program
 
@@ -134,23 +134,23 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Findings
 
-Pub. L. 110–234, title VIII, §8003(a), May 22, 2008, 122 Stat. 1281, and Pub. L. 110–246, §4(a), title VIII, §8003(a), June 18, 2008, 122 Stat. 1664, 2043, provided that: “Congress finds that—
+Pub. L. 110–234, title VIII, §8003(a), May 22, 2008, 122 Stat. 1281, and Pub. L. 110–246, §4(a), title VIII, §8003(a), June 18, 2008, 122 Stat. 1664, 2043, provided that: "Congress finds that—
 
-&emsp;“(1) the Forest Service projects that, by calendar year 2030, approximately 44,000,000 acres of privately-owned forest land will be developed throughout the United States;
+&emsp;"(1) the Forest Service projects that, by calendar year 2030, approximately 44,000,000 acres of privately-owned forest land will be developed throughout the United States;
 
-&emsp;“(2) public access to parcels of privately-owned forest land for outdoor recreational activities, including hunting, fishing, and trapping, has declined and, as a result, participation in those activities has also declined in cases in which public access is not secured;
+&emsp;"(2) public access to parcels of privately-owned forest land for outdoor recreational activities, including hunting, fishing, and trapping, has declined and, as a result, participation in those activities has also declined in cases in which public access is not secured;
 
-&emsp;“(3) rising rates of obesity and other public health problems relating to the inactivity of the citizens of the United States have been shown to be ameliorated by improving public access to safe and attractive areas for outdoor recreation;
+&emsp;"(3) rising rates of obesity and other public health problems relating to the inactivity of the citizens of the United States have been shown to be ameliorated by improving public access to safe and attractive areas for outdoor recreation;
 
-&emsp;“(4) in rapidly-growing communities of all sizes throughout the United States, remaining parcels of forest land play an essential role in protecting public water supplies;
+&emsp;"(4) in rapidly-growing communities of all sizes throughout the United States, remaining parcels of forest land play an essential role in protecting public water supplies;
 
-&emsp;“(5) forest parcels owned by local governmental entities and nonprofit organizations are providing important demonstration sites for private landowners to learn forest management techniques;
+&emsp;"(5) forest parcels owned by local governmental entities and nonprofit organizations are providing important demonstration sites for private landowners to learn forest management techniques;
 
-&emsp;“(6) throughout the United States, communities of diverse types and sizes are deriving significant financial and community benefits from managing forest land owned by local governmental entities for timber and other forest products; and
+&emsp;"(6) throughout the United States, communities of diverse types and sizes are deriving significant financial and community benefits from managing forest land owned by local governmental entities for timber and other forest products; and
 
-&emsp;“(7) there is an urgent need for local governmental entities to be able to leverage financial resources inorder to purchase important parcels of privately-owned forest land as the parcels are offered for sale.”
+&emsp;"(7) there is an urgent need for local governmental entities to be able to leverage financial resources in order to purchase important parcels of privately-owned forest land as the parcels are offered for sale."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
-<i><sup>1</sup></i><i> So in original. Probably should be “lands,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "lands,".</i>
 

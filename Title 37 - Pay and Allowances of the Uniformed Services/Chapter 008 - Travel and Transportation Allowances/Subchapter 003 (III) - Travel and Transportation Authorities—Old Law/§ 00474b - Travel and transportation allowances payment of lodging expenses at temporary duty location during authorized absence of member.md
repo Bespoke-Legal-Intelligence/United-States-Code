@@ -2,7 +2,7 @@
 
 (a)
 
-Payment or Reimbursement Authorized.—The Secretary concerned may pay or reimburse a member of the armed forces assignedto temporary duty as described in subsection (b) for lodging expenses incurred by the member at the temporary duty location during an authorized absence of the member from the temporary duty location.
+Payment or Reimbursement Authorized.—The Secretary concerned may pay or reimburse a member of the armed forces assigned to temporary duty as described in subsection (b) for lodging expenses incurred by the member at the temporary duty location during an authorized absence of the member from the temporary duty location.
 
 (b)
 
@@ -24,7 +24,7 @@ Payment Limitation.—The amount paid or reimbursed under subsection (a) for a m
 
 (d)
 
-Authorized Absence Defined.—In this section, the term “authorized absence”, with respect to a member, means that the member is in an authorized leave status or that the absence of the member is otherwise authorized under regulations prescribed by the Secretary concerned.
+Authorized Absence Defined.—In this section, the term "authorized absence", with respect to a member, means that the member is in an authorized leave status or that the absence of the member is otherwise authorized under regulations prescribed by the Secretary concerned.
 
 (e)
 
@@ -38,19 +38,19 @@ Termination.—No payment or reimbursement may be provided under this section wi
 
 <b>2011</b>—Pub. L. 112–81, §631(d)(2), renumbered section 404b of this title as this section.
 
-Subsec. (b)(2). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474(a)(4)” for “404(a)(4)”.
+Subsec. (b)(2). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "474(a)(4)" for "404(a)(4)".
 
 Subsec. (e). Pub. L. 112–81, §631(e)(3), added subsec. (e).
 
-<b>2006</b>—Pub. L. 109–163, §651(b)(1), substituted “Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member” for “Travel and transportation allowances: lodging expenses at temporary duty location for members on authorized leave” in section catchline.
+<b>2006</b>—Pub. L. 109–163, §651(b)(1), substituted "Travel and transportation allowances: payment of lodging expenses at temporary duty location during authorized absence of member" for "Travel and transportation allowances: lodging expenses at temporary duty location for members on authorized leave" in section catchline.
 
-Subsec. (a). Pub. L. 109–163, §651(a)(1), substituted “during an authorized absence of the member from the temporary duty location” for “while the member is in an authorized leave status”.
+Subsec. (a). Pub. L. 109–163, §651(a)(1), substituted "during an authorized absence of the member from the temporary duty location" for "while the member is in an authorized leave status".
 
-Subsec. (b)(1). Pub. L. 109–163, §651(a)(2)(A), substituted “the authorized absence” for “taking the authorized leave”.
+Subsec. (b)(1). Pub. L. 109–163, §651(a)(2)(A), substituted "the authorized absence" for "taking the authorized leave".
 
-Subsec. (b)(3). Pub. L. 109–163, §651(a)(2)(B), substituted “before the end of the authorized absence” for “immediately after completing the authorized leave”.
+Subsec. (b)(3). Pub. L. 109–163, §651(a)(2)(B), substituted "before the end of the authorized absence" for "immediately after completing the authorized leave".
 
-Subsec. (c)(1). Pub. L. 109–163, §651(a)(3), substituted “during the authorized absence of the member” for “while the member was in an authorized leave status”.
+Subsec. (c)(1). Pub. L. 109–163, §651(a)(3), substituted "during the authorized absence of the member" for "while the member was in an authorized leave status".
 
 Subsec. (d). Pub. L. 109–163, §651(a)(4), added subsec. (d).
 

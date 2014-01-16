@@ -50,15 +50,15 @@
 
 #### (1) Reimbursements for investigations
 
-&emsp;The Inspector General of the Department of Health and Human Services is authorized toreceive and retain for current use reimbursement for the costs of conducting investigations and audits and for monitoring compliance plans when such costs are ordered by a court, voluntarily agreed to by the payor, or otherwise.
+&emsp;The Inspector General of the Department of Health and Human Services is authorized to receive and retain for current use reimbursement for the costs of conducting investigations and audits and for monitoring compliance plans when such costs are ordered by a court, voluntarily agreed to by the payor, or otherwise.
 
 #### (2) Crediting
 
-&emsp;Funds received by the Inspector General under paragraph (1) as reimbursement for costs of conducting investigations shall be deposited to the credit of the appropriation from which initially paid, or to appropriations for similar purposes currently available at the time of deposit, and shall remain available for obligation for 1 year from the date of the deposit of such funds.
+&emsp;Funds received by the Inspector General under paragraph (1) as reimbursement for costs of conducting investigations shall be deposited to the credit of the appropriation from which initially paid, or to appropriations forsimilar purposes currently available at the time of deposit, and shall remain available for obligation for 1 year from the date of the deposit of such funds.
 
-#### (c) “Health plan” defined
+#### (c) "Health plan" defined
 
-For purposes of this section, the term “health plan” means a plan or program that provides health benefits, whether directly, through insurance, or otherwise, and includes—
+For purposes of this section, the term "health plan" means a plan or program that provides health benefits, whether directly, through insurance, or otherwise, and includes—
 
 &emsp;(1) a policy of health insurance;
 
@@ -74,7 +74,7 @@ The Inspector General Act of 1978, referred to in subsec. (a)(4), (5), is Pub. L
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1)(C) to (E). Pub. L. 111–148 inserted “and” at end of subpar. (C), substituted period for “, and” at end of subpar. (D), and struck out subpar. (E) which read as follows: “to provide for the reporting and disclosure of certain final adverse actions against health care providers, suppliers, or practitioners pursuant to the data collection system established under section 1320a–7e of this title.”
+<b>2010</b>—Subsec. (a)(1)(C) to (E). Pub. L. 111–148 inserted "and" at end of subpar. (C), substituted period for ", and" at end of subpar. (D), and struck out subpar. (E) which read as follows: "to provide for the reporting and disclosure of certain final adverse actions against health care providers, suppliers, or practitioners pursuant to the data collection system established under section 1320a–7e of this title."
 
 #### Effective Date of 2010 Amendment
 

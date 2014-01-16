@@ -10,7 +10,7 @@ All advertised timber sales shall be designated on maps, and a prospectus shall 
 
 #### (c) Terms and conditions of contract
 
-The length and other terms of the contract shall be designed to promote orderly harvesting consistent with the principles set out in section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended \[16 U.S.C. 1604\]. Unless there is a finding by the Secretary of Agriculture that better utilization of the various forest resources (consistent with the provisions of the Multiple-Use Sustained-Yield Act of 1960 \[16 U.S.C. 528–531\]) will result, sales contracts shall be for a period not to exceed ten years: <i>Provided</i>, That such period may be adjusted at the discretion of the Secretary to provide additional time due to time delays caused by an act of an agent of the United States or by other circumstances beyond the control of the purchaser. The Secretary shall require the purchaser to file as soon as practicable after execution of a contract for any advertised sale with a term of two years or more, a plan of operation, which shall be subject to concurrence by the Secretary. The Secretary shall not extend any contract period with an original term of two years or more unless he finds (A) that the purchaser has diligently performed in accordancewith an approved plan of operation or (B) that the substantial overriding public interest justifies the extension.
+The length and other terms of the contract shall be designed to promote orderly harvesting consistent with the principles set out in section 6 of the Forest and Rangeland Renewable Resources Planning Act of 1974, as amended \[16 U.S.C. 1604\]. Unless there is a finding by the Secretary of Agriculture that better utilization of the various forest resources (consistent with the provisions of the Multiple-Use Sustained-Yield Act of 1960 \[16 U.S.C. 528–531\]) will result, sales contracts shall be for a period not to exceed ten years: <i>Provided</i>, That such period may be adjusted at the discretion of the Secretary to provide additional time due to time delays caused by an act of an agent of the United States or by other circumstances beyond the control of the purchaser. The Secretary shall require the purchaser to file as soon as practicable after execution of a contract for any advertised sale with a term of two years or more, a plan of operation, which shall be subject to concurrence by the Secretary. The Secretary shall not extend any contract period with an original term of two years or more unless he finds (A) that the purchaser has diligently performed in accordance with an approved plan of operation or (B) that the substantial overriding public interest justifies the extension.
 
 #### (d) Advertisement of sales; exceptions
 
@@ -18,7 +18,7 @@ The Secretary of Agriculture shall advertise all sales unless he determines that
 
 #### (e) Bidding methods; purposes; oral auction procedures; monitoring and enforcement for prevention of collusive practices
 
-(1) In the sale of trees, portions of trees, or forest products from National Forest System lands (hereinafter referred to in this subsection as “national forest materials”), the Secretary of Agriculture shall select the bidding method or methods which—
+(1) In the sale of trees, portions of trees, or forest products from National Forest System lands (hereinafter referred to in this subsection as "national forest materials"), the Secretary of Agriculture shall select the bidding method or methods which—
 
 &emsp;(A) insure open and fair competition;
 
@@ -28,7 +28,7 @@ The Secretary of Agriculture shall advertise all sales unless he determines that
 
 &emsp;(D) are consistent with the objectives of this Act and other Federal statutes.
 
-> The Secretary shall select or alter the bidding method or methods as he determines necessary to achieve the objectives stated in clauses (A), (B), (C), and (D) of this paragraph.
+> The Secretary shall select or alter the bidding method or methods as he determines necessaryto achieve the objectives stated in clauses (A), (B), (C), and (D) of this paragraph.
 
 (2) In those instances when the Secretary selects oral auction as the bidding method for the sale of any national forest materials, he shall require that all prospective purchasers submit written sealed qualifying bids. Only prospective purchasers whose written sealed qualifying bids are equal to or in excess of the appraised value of such national forest materials may participate in the oral bidding process.
 
@@ -54,7 +54,7 @@ The Secretary of Agriculture shall develop utilization standards, methods of mea
 
 #### (i) Purchaser credit for permanent road construction; right of election of small business concerns; estimated cost; date of completion; use of funds for construction; effective date
 
-(1) For sales of timber which include a provision for purchaser credit for construction of permanent roads with an estimated cost in excess of $20,000, the Secretary of Agriculture shall promulgate regulations requiring that the notice of sale afford timber purchasers qualifying as “small business concerns” under the Small Business Act, as amended \[15 U.S.C. 631 et seq.\], and the regulations issued thereunder, an estimate of the cost and the right, when submitting a bid, to elect that the Secretary build the proposed road.
+(1) For sales of timber which include a provision for purchaser credit for construction of permanent roads with an estimated cost in excess of $20,000, the Secretary of Agriculture shall promulgate regulations requiring that the notice of sale afford timber purchasers qualifying as "small business concerns" under the Small Business Act, as amended \[15 U.S.C. 631 et seq.\], and the regulations issued thereunder, an estimate of the cost and the right, when submitting a bid, to elect that the Secretary build the proposed road.
 
 (2) If the purchaser makes such an election, the price subsequently paid for the timber shall include all of the estimated cost of the road. In the notice of sale, the Secretary of Agriculture shall set a date when such road shall be completed which shall be applicable to either construction by the purchaser or the Secretary, depending on the election. To accomplish requested work, the Secretary is authorized to use from any receipts from the sale of timber a sum equal to the estimate for timber purchaser credits, and such additional sums as may be appropriated for the construction of roads, such funds to be available until expended, to construct a road that meets the standards specified in the notice of sale.
 
@@ -68,7 +68,7 @@ The Multiple-Use Sustained-Yield Act of 1960, referred to in subsecs. (a) and (c
 
 The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (a), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
-This Act, referred to in subsec. (e)(1)(D), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, known as the National Forest Management Act of 1976. For complete classification of this Act to the Code, see Short Title of 1976 Amendment note set out under section 1600 of this title and Tables.
+This Act, referred to in subsec. (e)(1)(D), is Pub. L. 94–588, Oct. 22, 1976, 90 Stat. 2949, as amended, known as the National Forest Management Act of 1976. For complete classification of this Act to the Code, see ShortTitle of 1976 Amendment note set out under section 1600 of this title and Tables.
 
 The Small Business Act, referred to in subsec. (i)(1), is Pub. L. 85–536, §2(1 et seq.), July 18, 1958, 72 Stat. 384, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
@@ -86,131 +86,131 @@ Amendment by Pub. L. 101–626 not applicable to certain long-term timber sale c
 
 Pub. L. 110–234, title VIII, §8401, May 22, 2008, 122 Stat. 1300, and Pub. L. 110–246, §4(a), title VIII, §8401, June 18, 2008, 122 Stat. 1664, 2061, provided that:
 
-“(a)
+"(a)
 
 Definitions.—In this section:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Authorized producer price index.—The term ‘authorized Producer Price Index’ includes—
+Authorized producer price index.—The term 'authorized Producer Price Index' includes—
 
-&emsp;&emsp;“(A) the softwood commodity index (code number WPU 0811);
+&emsp;&emsp;"(A) the softwood commodity index (code number WPU 0811);
 
-&emsp;&emsp;“(B) the hardwood commodity index (code number WPU 0812);
+&emsp;&emsp;"(B) the hardwood commodity index (code number WPU 0812);
 
-&emsp;&emsp;“(C) the wood chip index (code number PCU 3211133211135); and
+&emsp;&emsp;"(C) the wood chip index (code number PCU 3211133211135); and
 
-&emsp;&emsp;“(D) any other subsequent comparable index, as established by the Bureau of Labor Statistics of the Department of Labor and utilized by the Secretary of Agriculture.
+&emsp;&emsp;"(D) any other subsequent comparable index, as established by the Bureau of Labor Statistics of the Department of Labor and utilized by the Secretary of Agriculture.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Qualifying contract.—The term ‘qualifying contract’ means a contract for the sale of timber on National Forest System land—
+Qualifying contract.—The term 'qualifying contract' means a contract for the sale of timber on National Forest System land—
 
-&emsp;&emsp;“(A) that was awarded during the period beginning on July 1, 2004, and ending on December 31, 2006;
+&emsp;&emsp;"(A) that was awarded during the period beginning on July 1, 2004, and ending on December 31, 2006;
 
-&emsp;&emsp;“(B) for which there is unharvested volume remaining;
+&emsp;&emsp;"(B) for which there is unharvested volume remaining;
 
-&emsp;&emsp;“(C) for which, not later than 90 days after the date of enactment of this Act \[June 18, 2008\], the timber purchaser makes a written request to the Secretary for one or more of the options described in subsection (b);
+&emsp;&emsp;"(C) for which, not later than 90 days after the date of enactment of this Act \[June 18, 2008\], the timber purchaser makes a written request to the Secretary for one or more of the options described in subsection (b);
 
-&emsp;&emsp;“(D) that is not a salvage sale;
+&emsp;&emsp;"(D) that is not a salvage sale;
 
-&emsp;&emsp;“(E) for which the Secretary determines there is not an urgent need to harvest due to deteriorating timber conditions that developed after the award of the contract; and
+&emsp;&emsp;"(E) for which the Secretary determines there is not an urgent need to harvest due to deteriorating timber conditions that developed after the award of the contract; and
 
-&emsp;&emsp;“(F) that is not in breach or in default.
+&emsp;&emsp;"(F) that is not in breach or in default.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Secretary.—The term ‘Secretary’ means the Secretary of Agriculture, acting through the Chief of the Forest Service.
+Secretary.—The term 'Secretary' means the Secretary of Agriculture, acting through the Chief of the Forest Service.
 
-“(b)
+"(b)
 
 Options for Qualifying Contracts.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Cancellation or rate redetermination.—Notwithstanding any other provision of law, if the rate at which a qualifying contract would be advertised as of the date of enactment of this Act \[June 18, 2008\] is at least 50 percent less than the sum of the original bid rates for all of the species of timber that are the subject of the qualifying contract, the Secretary may, at the sole discretion of the Secretary—
 
-&emsp;&emsp;“(A) cancel the qualifying contract if the timber purchaser—
+&emsp;&emsp;"(A) cancel the qualifying contract if the timber purchaser—
 
-&emsp;&emsp;&emsp;“(i) pays 30 percent of the total value of the timber remaining in the qualifying contract based on bid rates;
+&emsp;&emsp;&emsp;"(i) pays 30 percent of the total value of the timber remaining in the qualifying contract based on bid rates;
 
-&emsp;&emsp;&emsp;“(ii) completes each contractual obligation (including the removal of downed timber, the completion of road work, and the completion of erosion control work) of the timber purchaser with respect to each unit on which harvest has begun to a logical stopping point, as determined by the Secretary after consultation with the timber purchaser; and
+&emsp;&emsp;&emsp;"(ii) completes each contractual obligation (including the removal of downed timber, the completion of road work, and the completion of erosion control work) of the timber purchaser with respect to each unit on which harvest has begun to a logical stopping point, as determined by the Secretary after consultation with the timber purchaser; and
 
-&emsp;&emsp;&emsp;“(iii) terminates its rights under the qualifying contract; or
+&emsp;&emsp;&emsp;"(iii) terminates its rights under the qualifying contract; or
 
-&emsp;&emsp;“(B) modify the qualifying contract to redetermine the current contract rate of the qualifying contract to equal the sum obtained by adding—
+&emsp;&emsp;"(B) modify the qualifying contract to redetermine the current contract rate of the qualifying contract to equal the sum obtained by adding—
 
-&emsp;&emsp;&emsp;“(i) 25 percent of the bid premium on the qualifying contract; and
+&emsp;&emsp;&emsp;"(i) 25 percent of the bid premium on the qualifying contract; and
 
-&emsp;&emsp;&emsp;“(ii) the rate at which the qualifying contract would be advertised as of the date of enactment of this Act \[June 18, 2008\].
+&emsp;&emsp;&emsp;"(ii) the rate at which the qualifying contract would be advertised as of the date of enactment of this Act \[June 18, 2008\].
 
-&emsp;“(2)
+&emsp;"(2)
 
 Substitution of index.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Substitution.—Notwithstanding any other provision of law, the Secretary may, at the sole discretion of the Secretary, substitute the Producer Price Index specified in the qualifying contract of a timber purchaser if the timber purchaser identifies—
 
-&emsp;&emsp;&emsp;“(i) the products the timber purchaser intends to produce from the timber harvested under the qualifying contract; and
+&emsp;&emsp;&emsp;"(i) the products the timber purchaser intends to produce from the timber harvested under the qualifying contract; and
 
-&emsp;&emsp;&emsp;“(ii) a substitute index from an authorized Producer Price Index that more accurately represents the predominant product identified in clause (i) for which there is an index.
+&emsp;&emsp;&emsp;"(ii) a substitute index from an authorized Producer Price Index that more accurately represents the predominant product identified in clause (i) for which there is an index.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Rate redetermination following substitution of index.—If the Secretary substitutes the Producer Price Index of a qualifying contract under subparagraph (A), the Secretary may, at the sole discretion of the Secretary, modify the qualifying contract to provide for—
 
-&emsp;&emsp;&emsp;“(i) an emergency rate redetermination under the terms of the contract; or
+&emsp;&emsp;&emsp;"(i) an emergency rate redetermination under the terms of the contract; or
 
-&emsp;&emsp;&emsp;“(ii) a rate redetermination under paragraph (1)(B).
+&emsp;&emsp;&emsp;"(ii) a rate redetermination under paragraph (1)(B).
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
 Limitation on market-related contract term addition; periodic payments.—Notwithstanding any other provision of law, if the Secretary substitutes the Producer Price Index of a qualifying contract under subparagraph (A), the Secretary may, at the sole discretion of the Secretary, modify the qualifying contract—
 
-&emsp;&emsp;&emsp;“(i) to adjust the term in accordance with the market-related contract term addition provision in the qualifying contract and section 223.52 of title 36, Code of Federal Regulations, as in effect on the date of the adjustment, but only if the drastic reduction criteria in such section are met for 2 or more consecutive calendar year quarters beginning with the calendar quarter in which the Secretary substitutes the Producer Price Index under subparagraph (A); and
+&emsp;&emsp;&emsp;"(i) to adjust the term in accordance with the market-related contract term addition provision in the qualifying contract and section 223.52 of title 36, Code of Federal Regulations, as in effect on the date of the adjustment, but only if the drastic reduction criteria in such section are met for 2 or more consecutive calendar year quarters beginning with the calendar quarter in which the Secretary substitutes the Producer Price Index under subparagraph (A); and
 
-&emsp;&emsp;&emsp;“(ii) to adjust the periodic payments required under the contract in accordance with applicable law and policies.
+&emsp;&emsp;&emsp;"(ii) to adjust the periodic payments required under the contract in accordance with applicable law and policies.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Contracts using hardwood lumber index.—With respect to a qualifying contract using the hardwood commodity index referred to in subsection (a)(1)(B) for which the Secretary does not substitute the Producer Price Index under paragraph (2), the Secretary may, at the sole discretion of the Secretary—
 
-&emsp;&emsp;“(A) extend the contract term for a 1-year period beginning on the current contract termination date; and
+&emsp;&emsp;"(A) extend the contract term for a 1-year period beginning on the current contract termination date; and
 
-&emsp;&emsp;“(B) adjust the periodic payments required under the contract in accordance with applicable law and policies.
+&emsp;&emsp;"(B) adjust the periodic payments required under the contract in accordance with applicable law and policies.
 
-“(c)
+"(c)
 
 Extension of Market-Related Contract Term Addition Time Limit for Certain Contracts.—Notwithstanding any other provision of law, upon the written request of a timber purchaser, the Secretary may, at the sole discretion of the Secretary, modify a timber sale contract (including a qualifying contract) awarded to the purchaser before January 1, 2007, to adjust the term of the contract in accordance with the market-related contract term addition provision in the contract and section 223.52 of title 36, Code of Federal Regulations, as in effect on the date of the modification, except that the Secretary may add no more than 4 years to the original contract length.
 
-“(d)
+"(d)
 
 Effect of Options.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 No surrender of claims.—Operation of this section shall not have the effect of surrendering any claim by the United States against any timber purchaser that arose—
 
-&emsp;&emsp;“(A) under a qualifying contract before the date on which the Secretary cancels the contract or redetermines the rate under subsection (b)(1), substitutes a Producer Price Index under subsection (b)(2), or modifies the contract under subsection (b)(3); or
+&emsp;&emsp;"(A) under a qualifying contract before the date on which the Secretary cancels the contract or redetermines the rate under subsection (b)(1), substitutes a Producer Price Index under subsection (b)(2), or modifies the contract under subsection (b)(3); or
 
-&emsp;&emsp;“(B) under a timber sale contract, including a qualifying contract, before the date on which the Secretary adjusts the contract term under subsection (c).
+&emsp;&emsp;"(B) under a timber sale contract, including a qualifying contract, before the date on which the Secretary adjusts the contract term under subsection (c).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Release of liability.—In the written request for any option provided under subsections (b) and (c), a timber purchaser shall release the United States from all liability, including further consideration or compensation, resulting from—
 
-&emsp;&emsp;“(A) the cancellation of a qualifying contract of the purchaser or rate redetermination under subsection (b)(1), the substitution of a Producer Price Index under subsection (b)(2), the modification of the contract under subsection (b)(3) or a determination by the Secretary not to provide the cancellation, redetermination, substitution, or modification; or
+&emsp;&emsp;"(A) the cancellation of a qualifying contract of the purchaser or rate redetermination under subsection (b)(1), the substitution of a Producer Price Index under subsection (b)(2), the modification of the contract under subsection (b)(3) or a determination by the Secretary not to provide the cancellation, redetermination, substitution, or modification; or
 
-&emsp;&emsp;“(B) the modification of the term of a timber sale contract (including a qualifying contract) of the purchaser under subsection (c) or a determination by the Secretary not to provide the modification.
+&emsp;&emsp;"(B) the modification of the term of a timber sale contract (including a qualifying contract) of the purchaser under subsection (c) or a determination by the Secretary not to provide the modification.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Limitation.—Subject to subsection (b)(1)(A), the cancellation of a qualifying contract by the Secretary under subsection (b)(1) shall release the timber purchaser from further obligation under the canceled contract.”
+Limitation.—Subject to subsection (b)(1)(A), the cancellation of a qualifying contract by the Secretary under subsection (b)(1) shall release the timber purchaser from further obligation under the canceled contract."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.\]
 
 #### Use of Receipts From Timber Sales for Road Construction
 
-Pub. L. 99–500, §101(h) \[title II\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–271, and Pub. L. 99–591, §101(h) \[title II\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–271, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture is hereafter authorized to use from any receipts from the sale of timber a sum equal to the cost of construction of roads under the purchaser election program as described and authorized in section 14(i) of the National Forest Management Act of 1976 \[16 U.S.C. 472a(i)\].”
+Pub. L. 99–500, §101(h) \[title II\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–271, and Pub. L. 99–591, §101(h) \[title II\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–271, provided that: "Notwithstanding any other provision of law, the Secretary of Agriculture is hereafter authorized to use from any receipts from the sale of timber a sum equal to the cost of construction of roads under the purchaser election program as described and authorized in section 14(i) of the National Forest Management Act of 1976 \[16 U.S.C. 472a(i)\]."
 

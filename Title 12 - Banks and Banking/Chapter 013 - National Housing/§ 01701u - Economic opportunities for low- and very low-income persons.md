@@ -52,7 +52,7 @@ It is the policy of the Congress and the purpose of this section to ensure that 
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall require that public and Indian housing agencies, and their contractors and subcontractors, make their best efforts, consistent with existing Federal, State, and local laws and regulations, to award contracts for work to be performed in connection with development assistance provided pursuant to section 1437c of title 42, operating assistance provided pursuant to section 1437g of title 42, and modernization grants provided pursuant to section 1437l of title 42,<sup>1</sup> to business concerns that provide economic opportunities for low- and very low-income persons.
+&emsp;&emsp;The Secretary shall require that public and Indian housing agencies, and their contractors and subcontractors, make their best efforts, consistent with existing Federal, State, and local laws and regulations, to award contracts for work to be performed in connection with development assistance provided pursuant to section 1437c of title 42, operating assistance provided pursuant to section 1437g of title 42, and modernizationgrants provided pursuant to section 1437l of title 42,<sup>1</sup> to business concerns that provide economic opportunities for low- and very low-income persons.
 
 #### (B) Priority
 
@@ -82,11 +82,11 @@ For the purposes of this section the following definitions shall apply:
 
 #### (1) Low- and very low-income persons
 
-&emsp;The terms “low-income persons” and “very low-income persons” have the same meanings given the terms “low-income families” and “very low-income families”, respectively, in section 1437a(b)(2) of title 42.
+&emsp;The terms "low-income persons" and "very low-income persons" have the same meanings given the terms "low-income families" and "very low-income families", respectively, in section 1437a(b)(2) of title 42.
 
 #### (2) Business concern that provides economic opportunities
 
-&emsp;The term “a business concern that provides economic opportunities” means a business concern that—
+&emsp;The term "a business concern that provides economic opportunities" means a business concern that—
 
 &emsp;&emsp;(A) provides economic opportunities for a class of persons that has a majority controlling interest in the business;
 
@@ -112,21 +112,21 @@ Section 1437l of title 42, referred to in subsecs. (c)(1)(A) and (d)(1)(A), was 
 
 Section was enacted as part of the Housing and Urban Development Act of 1968, and not as part of the National Housing Act which comprises this chapter.
 
-October 28, 1992, referred to in subsec. (g), was in the original “the date of enactment of the National Affordable Housing Act Amendments of 1992”, and was translated as meaning the date of enactment of the Housing and Community Development Act of 1992, Pub. L. 102–550, which amended this section generally, to reflect the probable intent of Congress.
+October 28, 1992, referred to in subsec. (g), was in the original "the date of enactment of the National Affordable Housing Act Amendments of 1992", and was translated as meaning the date of enactment of the Housing and Community Development Act of 1992, Pub. L. 102–550, which amended this section generally, to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>2006</b>—Subsecs. (c)(1)(B)(iii), (2)(B), (d)(1)(B)(iii), (2)(B). Pub. L. 109–281 substituted “YouthBuild programs receiving assistance under section 2918a of title 29” for “Youthbuild programs receiving assistance under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act”.
+<b>2006</b>—Subsecs. (c)(1)(B)(iii), (2)(B), (d)(1)(B)(iii), (2)(B). Pub. L. 109–281 substituted "YouthBuild programs receiving assistance under section 2918a of title 29" for "Youthbuild programs receiving assistance under subtitle D of title IV of the Cranston-Gonzalez National Affordable Housing Act".
 
-<b>1992</b>—Pub. L. 102–550 amended section generally. Prior to amendment, section read as follows: “In the administration by the Secretary of Housing and Urban Development of programs providing direct financial assistance, including community development block grants under title I of the Housing and Community Development Act of 1974, in aid of housing, urban planning, development, redevelopment, or renewal, public or community facilities, and new community development, the Secretary shall—
+<b>1992</b>—Pub. L. 102–550 amended section generally. Prior to amendment, section read as follows: "In the administration by the Secretary of Housing and Urban Development of programs providing direct financial assistance, including community development block grants under title I of the Housing and Community Development Act of 1974, in aid of housing, urban planning, development, redevelopment, or renewal, public or community facilities, and new community development, the Secretary shall—
 
-&emsp;“(1) require, in consultation with the Secretary of Labor, that to the greatest extent feasible opportunities for training and employment arising in connection with the planning and carrying out of any project assisted under any such program be given to lower income persons residing within the unit of local government or the metropolitan area (or nonmetropolitan county), as determined by the Secretary, in which the project is located; and
+&emsp;"(1) require, in consultation with the Secretary of Labor, that to the greatest extent feasible opportunities for training and employment arising in connection with the planning and carrying out of any project assisted under any such program be given to lower income persons residing within the unit of local government or the metropolitan area (or nonmetropolitan county), as determined by the Secretary, in which the project is located; and
 
-&emsp;“(2) require, in consultation with the Administrator of the Small Business Administration, that to the greatest extent feasible contracts for work to be performed in connection with any such project be awarded to business concerns, including but not limited to individuals or firms doing business in the field of planning, consulting, design, architecture, building construction, rehabilitation, maintenance or repair, which are located in or owned in substantial part by persons residing in the same metropolitan area (or nonmetropolitan county) as the project.”
+&emsp;"(2) require, in consultation with the Administrator of the Small Business Administration, that to the greatest extent feasible contracts for work to be performed in connection with any such project be awarded to business concerns, including but not limited to individuals or firms doing business in the field of planning, consulting, design, architecture, buildingconstruction, rehabilitation, maintenance or repair, which are located in or owned in substantial part by persons residing in the same metropolitan area (or nonmetropolitan county) as the project."
 
-<b>1980</b>—Par. (1). Pub. L. 96–399, §329(1), substituted “residing within the unit of local government or the metropolitan area (or nonmetropolitan county), as determined by the Secretary, in which the project is located” for “residing in the area of such project”.
+<b>1980</b>—Par. (1). Pub. L. 96–399, §329(1), substituted "residing within the unit of local government or the metropolitan area (or nonmetropolitan county), as determined by the Secretary, in which the project is located" for "residing in the area of such project".
 
-Par. (2). Pub. L. 96–399, §329(2), substituted “residing in the same metropolitan area (or nonmetropolitan county) as the project” for “residing in the area of such project”.
+Par. (2). Pub. L. 96–399, §329(2), substituted "residing in the same metropolitan area (or nonmetropolitan county) as the project" for "residing in the area of such project".
 
 <b>1974</b>—Pub. L. 93–383 inserted reference to community development block grants under title I of the Housing and Community Development Act of 1974.
 
@@ -134,63 +134,63 @@ Par. (2). Pub. L. 96–399, §329(2), substituted “residing in the same metrop
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–281, §2(f), Sept. 22, 2006, 120 Stat. 1182, provided that: “This section \[enacting section 2918a of Title 29, Labor, amending this section, section 4183 of Title 25, Indians, section 2939 of Title 29, and section 12870 of Title 42, The Public Health and Welfare, and repealing sections 12899 to 12899i of Title 42\] and the amendments made by this section take effect on the earlier of—
+Pub. L. 109–281, §2(f), Sept. 22, 2006, 120 Stat. 1182, provided that: "This section \[enacting section 2918a of Title 29, Labor, amending this section, section 4183 of Title 25, Indians, section 2939 of Title 29, and section 12870 of Title 42, The Public Health and Welfare, and repealing sections 12899 to 12899i of Title 42\] and the amendments made by this section take effect on the earlier of—
 
-&emsp;“(1) the date of enactment of this Act \[Sept. 22, 2006\]; and
+&emsp;"(1) the date of enactment of this Act \[Sept. 22, 2006\]; and
 
-&emsp;“(2) September 30, 2006.”
+&emsp;"(2) September 30, 2006."
 
 #### Effectiveness Study
 
 Pub. L. 102–550, title IX, §916, Oct. 28, 1992, 106 Stat. 3881, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of Housing and Urban Development shall submit to the Congress, not later than 1 year after the date of the enactment of this Act \[Oct. 28, 1992\], a report describing—
 
-&emsp;“(1) the Secretary's efforts to enforce section 3 of the Housing and Urban Development Act of 1968 \[12 U.S.C. 1701u\];
+&emsp;"(1) the Secretary's efforts to enforce section 3 of the Housing and Urban Development Act of 1968 \[12 U.S.C. 1701u\];
 
-&emsp;“(2) the barriers to full implementation of section 3 of the Housing and Urban Development Act of 1968;
+&emsp;"(2) the barriers to full implementation of section 3 of the Housing and Urban Development Act of 1968;
 
-&emsp;“(3) the anticipated costs and benefits of full implementation of section 3 of the Housing and Urban Development Act of 1968; and
+&emsp;"(3) the anticipated costs and benefits of full implementation of section 3 of the Housing and Urban Development Act of 1968; and
 
-&emsp;“(4) recommendations for legislative changes to enhance the effectiveness of section 3 of the Housing and Urban Development Act of 1968.
+&emsp;"(4) recommendations for legislative changes to enhance the effectiveness of section 3 of the Housing and Urban Development Act of 1968.
 
-“(b)
+"(b)
 
 Contents.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Enforcement.—The description under subsection (a)(1) of the Secretary's enforcement efforts shall include, at a minimum—
 
-&emsp;&emsp;“(A) a discussion of how responsibility for implementing section 3 of the Housing and Urban Development Act of 1968 \[12 U.S.C. 1701u\] is allocated within the Department of Housing and Urban Development;
+&emsp;&emsp;"(A) a discussion of how responsibility for implementing section 3 of the Housing and Urban Development Act of 1968 \[12 U.S.C. 1701u\] is allocated within the Department of Housing and Urban Development;
 
-&emsp;&emsp;“(B) a discussion of the status of existing regulations implementing such section 3;
+&emsp;&emsp;"(B) a discussion of the status of existing regulations implementing such section 3;
 
-&emsp;&emsp;“(C) a discussion of ongoing efforts to enforce current regulations;
+&emsp;&emsp;"(C) a discussion of ongoing efforts to enforce current regulations;
 
-&emsp;&emsp;“(D) a list of the programs under the responsibility of the Secretary with respect to which the Secretary is enforcing section 3; and
+&emsp;&emsp;"(D) a list of the programs under the responsibility of the Secretary with respect to which the Secretary is enforcing section 3; and
 
-&emsp;&emsp;“(E) a separate description of the activities carried out under section 3 with respect to each of these programs.
+&emsp;&emsp;"(E) a separate description of the activities carried out under section 3 with respect to each of these programs.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Impediments.—The discussion under subsection (a)(2) of the external impediments to effective enforcement of section 3 of the Housing and Urban Development Act of 1968 shall include, at a minimum, a discussion of—
 
-&emsp;&emsp;“(A) any lack of necessary training for targeted employees and technical assistance to targeted businesses;
+&emsp;&emsp;"(A) any lack of necessary training for targeted employees and technical assistance to targeted businesses;
 
-&emsp;&emsp;“(B) any barriers created by Federal, State, or local procurement regulations or other laws;
+&emsp;&emsp;"(B) any barriers created by Federal, State, or local procurement regulations or other laws;
 
-&emsp;&emsp;“(C) any difficulties in coordination with labor unions;
+&emsp;&emsp;"(C) any difficulties in coordination with labor unions;
 
-&emsp;&emsp;“(D) any difficulties in coordination with other implicated Federal agencies; and
+&emsp;&emsp;"(D) any difficulties in coordination with other implicated Federal agencies; and
 
-&emsp;&emsp;“(E) any lack of resources on the part of recipients of assistance who are responsible for carrying out section 3 of the Housing and Urban Development Act of 1968.
+&emsp;&emsp;"(E) any lack of resources on the part of recipients of assistance who are responsible for carrying out section 3 of the Housing and Urban Development Act of 1968.
 
-“(c)
+"(c)
 
-Consultation.—In preparing the report under this subsection, the Secretary shall consult with the Secretary of Labor, the Secretary of Commerce, theSecretary of Health and Human Services, the Administrator of the Small Business Administration, other appropriate Federal officials, and recipients of Federal housing and community development assistance who are responsible for executing section 3 of the Housing and Urban Development Act of 1968 \[12 U.S.C. 1701u\].”
+Consultation.—In preparing the report under this subsection, the Secretary shall consult with the Secretary of Labor, the Secretary of Commerce, the Secretary of Health and Human Services, the Administrator of the Small Business Administration, other appropriate Federal officials, and recipients of Federal housing and community development assistance who are responsible for executing section 3 of the Housing and Urban Development Act of 1968 \[12 U.S.C. 1701u\]."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

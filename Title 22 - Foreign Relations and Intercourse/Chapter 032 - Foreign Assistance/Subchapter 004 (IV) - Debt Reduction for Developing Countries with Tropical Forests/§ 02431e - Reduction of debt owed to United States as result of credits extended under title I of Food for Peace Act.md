@@ -32,7 +32,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Facility shall notify the Commodity Credit Corporation of an agreement entered into under paragraph (1) with an eligible country to exchange a new obligation for outstanding obligations.
+&emsp;&emsp;The Facility shall notify the Commodity Credit Corporation of an agreement entered into under paragraph (1) with an eligiblecountry to exchange a new obligation for outstanding obligations.
 
 #### (B) Additional requirement
 
@@ -56,7 +56,7 @@ The Food for Peace Act, referred to in subsec. (a)(1), is act July 10, 1954, ch.
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954” in section catchline and wherever appearing in subsecs. (a)(1) and (c).
+<b>2008</b>—Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954" in section catchline and wherever appearing in subsecs. (a)(1) and (c).
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–323 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
@@ -66,7 +66,7 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 #### Delegation of Functions
 
-For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.
+For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 For delegation of functions of President under subsec. (a) of this section, see section 1 of Ex. Ord. No. 13345, July 8, 2004, 69 F.R. 41901, set out as a note under section 1738 of Title 7, Agriculture.
 

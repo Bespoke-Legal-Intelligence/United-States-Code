@@ -18,7 +18,7 @@ Any displaced person eligible for payments under subsection (a) of this section 
 
 #### (c) Displacement from business or farm operation; election of payments; minimum and maximum amounts; eligibility
 
-Any displaced person eligible for payments under subsection (a) of this section who is displaced from the person's place of business or farm operation and who is eligible under criteriaestablished by the head of the lead agency may elect to accept the payment authorized by this subsection in lieu of the payment authorized by subsection (a) of this section. Such payment shall consist of a fixed payment in an amount to be determined according to criteria established by the head of the lead agency, except that such payment shall not be less than $1,000 nor more than $20,000. A person whose sole business at the displacement dwelling is the rental of such property to others shall not qualify for a payment under this subsection.
+Any displaced person eligible for payments under subsection (a) of this section who is displaced from the person's place of business or farm operation and who is eligible under criteria established by the head of the lead agency may elect to accept the payment authorized by this subsection in lieu of the payment authorized by subsection (a) of this section. Such payment shall consist of a fixed payment in an amount to be determined according to criteria established by the head of the lead agency, except that such payment shall not be less than $1,000 nor more than $20,000. A person whose sole business at the displacement dwelling is the rental of such property to others shall not qualify for a payment under this subsection.
 
 #### (d) Certain utility relocation expenses
 
@@ -34,7 +34,7 @@ Any displaced person eligible for payments under subsection (a) of this section 
 
 (2) For purposes of this subsection, the term—
 
-&emsp;(A) “extraordinary cost in connection with a relocation” means any cost incurred by the owner of a utility facility in connection with relocation of such facility which is determined by the head of the displacing agency, under such regulations as the head of the lead agency shall issue—
+&emsp;(A) "extraordinary cost in connection with a relocation" means any cost incurred by the owner of a utility facility in connection with relocation of such facility which is determined by the head of the displacing agency, under such regulations as the head of the lead agency shall issue—
 
 &emsp;&emsp;(i) to be a non-routine relocation expense;
 
@@ -42,7 +42,7 @@ Any displaced person eligible for payments under subsection (a) of this section 
 
 &emsp;&emsp;(iii) to meet such other requirements as the lead agency may prescribe in such regulations; and
 
-&emsp;(B) “utility facility” means—
+&emsp;(B) "utility facility" means—
 
 &emsp;&emsp;(i) any electric, gas, water, steam power, or materials transmission or distribution system;
 
@@ -58,27 +58,27 @@ Any displaced person eligible for payments under subsection (a) of this section 
 
 #### Amendment of Subsections (a)(4) and (c)
 
-<i>Pub. L. 112–141, div. A, title I, §1521(a), (g), July 6, 2012, 126 Stat. 577, 579, provided that, effective 2 years after the date of enactment of this Act, this section is amended as follows:</i>
+<i>Pub. L. 112–141, div. A, title I, §1521(a), (g), July 6, 2012, 126 Stat. 577, 579, provided that, effective 2 years after July 6, 2012, this section is amended as follows:</i>
 
-<i>(1) in subsection (a)(4), by striking “$10,000” and inserting “$25,000, as adjusted by regulation, in accordance with section 4633(d) of this title”; and</i>
+<i>(1) in subsection (a)(4), by striking "$10,000" and inserting "$25,000, as adjusted by regulation, in accordance with section 4633(d) of this title"; and</i>
 
-<i>(2) in the second sentence of subsection (c), by striking “$20,000” and inserting “$40,000, as adjusted by regulation, in accordance with section 4633(d) of this title”.</i>
+<i>(2) in the second sentence of subsection (c), by striking "$20,000" and inserting "$40,000, as adjusted by regulation, in accordance with section 4633(d) of this title".</i>
 
 <i>See 2012 Amendment notes below.</i>
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(4). Pub. L. 112–141, §1521(a)(1), substituted “$25,000, as adjusted by regulation, in accordance with section 4633(d) of this title” for “$10,000”.
+<b>2012</b>—Subsec. (a)(4). Pub. L. 112–141, §1521(a)(1), substituted "$25,000, as adjusted by regulation, in accordance with section 4633(d) of this title" for "$10,000".
 
-Subsec. (c). Pub. L. 112–141, §1521(a)(2), substituted “$40,000, as adjusted by regulation, in accordance with section 4633(d) of this title” for “$20,000” in second sentence.
+Subsec. (c). Pub. L. 112–141, §1521(a)(2), substituted "$40,000, as adjusted by regulation, in accordance with section 4633(d) of this title" for "$20,000" in second sentence.
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–17, §405(a)(1), inserted introductory provisions and struck out former introductory provisions which read as follows: “Whenever the acquisition of real property for a program or project undertaken by a Federal agency in any State will result in the displacement of any person on or after January 2, 1971, the head of such agency shall make a payment to any displaced person, upon proper application as approved by such agency head, for—”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–17, §405(a)(1), inserted introductory provisions and struck out former introductory provisions which read as follows: "Whenever the acquisition of real property for a program or project undertaken by a Federal agency in any State will result in the displacement of any person on or after January 2, 1971, the head of such agency shall make a payment to any displaced person, upon proper application as approved by such agency head, for—".
 
 Subsec. (a)(4). Pub. L. 100–17, §405(a)(2)–(4), added par. (4).
 
-Subsec. (b). Pub. L. 100–17, §405(b), substituted “an expense and dislocation allowance, which shall be determined according to a schedule established by the head of the lead agency” for “a moving expense allowance, determined according to a schedule established by the head of the Federal agency, not to exceed $300; and a dislocation allowance of $200”.
+Subsec. (b). Pub. L. 100–17, §405(b), substituted "an expense and dislocation allowance, which shall be determined according to a schedule established by the head of the lead agency" for "a moving expense allowance, determined according to a schedule established by the head of the Federal agency, not to exceed $300; and a dislocation allowance of $200".
 
-Subsec. (c). Pub. L. 100–17, §405(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Any displaced person eligible for payments under subsection (a) of this section who is displaced from his place of business or from his farm operation and who elects to accept the payment authorized by this subsection in lieu of the payment authorized by subsection (a) of this section, may receive a fixed payment in an amount equal to the average annual net earnings of the business or farm operation, except that such payment shall be not less than $2,500 nor more than $10,000. In the case of a business no payment shall be made under this subsection unless the head of the Federal agency is satisfied that the business (1) cannot be relocated without a substantial loss of its existing patronage, and (2) is not a part of a commercial enterprise having at least one other establishment not being acquired by the United States, which is engaged in the same or similar business. For purposes of this subsection, the term ‘average annual net earnings’ means one-half of any net earnings of the business or farm operation, before Federal, State, and local income taxes, during the two taxable years immediately preceding the taxable year in which such business or farm operation moves from the real property acquired for such project, or during such other period as the head of such agency determines to be more equitable for establishing such earnings, and includes any compensation paid by the business or farm operation to the owner, his spouse, or his dependents during such period.”
+Subsec. (c). Pub. L. 100–17, §405(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "Any displaced person eligible for payments under subsection (a) of this section who is displaced from his place of business or from his farm operation and who elects to accept the payment authorized bythis subsection in lieu of the payment authorized by subsection (a) of this section, may receive a fixed payment in an amount equal to the average annual net earnings of the business or farm operation, except that such payment shall be not less than $2,500 nor more than $10,000. In the case of a business no payment shall be made under this subsection unless the head of the Federal agency is satisfied that the business (1) cannot be relocated without a substantial loss of its existing patronage, and (2) is not a part of a commercial enterprise having at least one other establishment not being acquired by the United States, which is engaged in the same or similar business. For purposes of this subsection, the term 'average annual net earnings' means one-half of any net earnings of the business or farm operation, before Federal, State, and local income taxes, during the two taxable years immediately preceding the taxable year in which such business or farm operation moves from the real property acquired for such project, or during such other period as the head of such agency determines to be more equitable for establishing such earnings, and includes any compensation paid by the business or farm operation to the owner, his spouse, or his dependents during such period."
 
 Subsec. (d). Pub. L. 100–17, §405(d), added subsec. (d).
 

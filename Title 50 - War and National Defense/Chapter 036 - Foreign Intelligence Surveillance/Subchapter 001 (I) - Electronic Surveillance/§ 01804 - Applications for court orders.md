@@ -18,7 +18,7 @@ Each application for an order approving electronic surveillance under this subch
 
 &emsp;(5) a description of the nature of the information sought and the type of communications or activities to be subjected to the surveillance;
 
-&emsp;(6) a certification or certifications by the Assistant to the President for National Security Affairs, an executive branch official or officials designated by the President from among those executive officers employed in the area of national security or defense and appointed by the President with the advice and consent of the Senate, or the Deputy Director of the Federal Bureau of Investigation, if designated by the President as a certifying official—
+&emsp;(6) a certification or certifications by the Assistant to the President for National Security Affairs, an executive branch official or officials designated by the President from among those executive officers employed in the area of national security or defense andappointed by the President with the advice and consent of the Senate, or the Deputy Director of the Federal Bureau of Investigation, if designated by the President as a certifying official—
 
 &emsp;&emsp;(A) that the certifying official deems the information sought to be foreign intelligence information;
 
@@ -68,23 +68,23 @@ The judge may require the applicant to furnish such other information as may be 
 
 <b>2010</b>—Subsec. (e)(1)(A). Pub. L. 111–259 made technical amendment to directory language of Pub. L. 108–458, §1071(e). See 2004 Amendment note below.
 
-<b>2008</b>—Subsec. (a)(2) to (4). Pub. L. 110–261, §104(1)(A), (B), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: “the authority conferred on the Attorney General by the President of the United States and the approval of the Attorney General to make the application;”.
+<b>2008</b>—Subsec. (a)(2) to (4). Pub. L. 110–261, §104(1)(A), (B), redesignated pars. (3) to (5) as (2) to (4), respectively, and struck out former par. (2) which read as follows: "the authority conferred on the Attorney General by the President of the United States and the approval of the Attorney General to make the application;".
 
-Subsec. (a)(5). Pub. L. 110–261, §104(1)(B), (C), redesignated par. (6) as (5) and struck out “detailed” before “description”. Former par. (5) redesignated (4).
+Subsec. (a)(5). Pub. L. 110–261, §104(1)(B), (C), redesignated par. (6) as (5) and struck out "detailed" before "description". Former par. (5) redesignated (4).
 
-Subsec. (a)(6). Pub. L. 110–261, §104(1)(B), (D), redesignated par. (7) as (6) and substituted “Affairs,” for “Affairs or” and “Senate, or the Deputy Director of the Federal Bureau of Investigation, if designated by the President as a certifying official—” for “Senate—” in introductory provisions. Former par. (6) redesignated (5).
+Subsec. (a)(6). Pub. L. 110–261, §104(1)(B), (D), redesignated par. (7) as (6) and substituted "Affairs," for "Affairs or" and "Senate, or the Deputy Director of the Federal Bureau of Investigation, if designated by the President as a certifying official—" for "Senate—" in introductory provisions. Former par. (6) redesignated (5).
 
-Subsec. (a)(7). Pub. L. 110–261, §104(1)(B), (E), redesignated par. (8) as (7) and substituted “summary statement of” for “statement of”. Former par. (7) redesignated (6).
+Subsec. (a)(7). Pub. L. 110–261, §104(1)(B), (E), redesignated par. (8) as (7) and substituted "summary statement of" for "statement of". Former par. (7) redesignated (6).
 
-Subsec. (a)(8) to (11). Pub. L. 110–261, §104(1)(A), (B), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out par. (11) which read as follows: “whenever more than one electronic, mechanical or other surveillance device is to be used with respect to a particular proposed electronic surveillance, the coverage of the devices involved and what minimization procedures apply to information acquired by each device.” Former par. (8) redesignated (7).
+Subsec. (a)(8) to (11). Pub. L. 110–261, §104(1)(A), (B), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out par. (11) which read as follows: "whenever more than one electronic, mechanical or other surveillance device is to be used with respect to a particular proposed electronic surveillance, the coverage of the devices involved and what minimization procedures apply to information acquired by each device." Former par. (8) redesignated (7).
 
-Subsecs. (b) to (e). Pub. L. 110–261, §104(2)–(4), redesignated subsecs. (c) to (e) as (b) to (d), respectively, in subsec. (d)(1)(A) substituted “the Director of National Intelligence, or the Director of the Central Intelligence Agency” for “or the Director of National Intelligence”, and struck out former subsec. (b) which related to exclusion of certain information respecting foreign power targets.
+Subsecs. (b) to (e). Pub. L. 110–261, §104(2)–(4), redesignated subsecs. (c) to (e) as (b) to (d), respectively, in subsec. (d)(1)(A) substituted "the Director of National Intelligence, or the Director of the Central Intelligence Agency" for "or the Director of National Intelligence", and struck out former subsec. (b) which related to exclusion of certain information respecting foreign power targets.
 
-<b>2006</b>—Subsec. (a)(3). Pub. L. 109–177 inserted “specific” before “target”.
+<b>2006</b>—Subsec. (a)(3). Pub. L. 109–177 inserted "specific" before "target".
 
-<b>2004</b>—Subsec. (e)(1)(A). Pub. L. 108–458, §1071(e), as amended by Pub. L. 111–259, substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+<b>2004</b>—Subsec. (e)(1)(A). Pub. L. 108–458, §1071(e), as amended by Pub. L. 111–259, substituted "Director of National Intelligence" for "Director of Central Intelligence".
 
-<b>2001</b>—Subsec. (a)(7)(B). Pub. L. 107–56 substituted “a significant purpose” for “the purpose”.
+<b>2001</b>—Subsec. (a)(7)(B). Pub. L. 107–56 substituted "a significant purpose" for "the purpose".
 
 <b>2000</b>—Subsec. (e). Pub. L. 106–567 added subsec. (e).
 
@@ -94,9 +94,9 @@ Amendment by Pub. L. 110–261 effective July 10, 2008, except as provided in se
 
 #### Effective Date of 2004 Amendment
 
-For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 401 of this title.
+For Determination by President that amendment by Pub. L. 108–458 take effect on Apr. 21, 2005, see Memorandum of President of the United States, Apr. 21, 2005, 70 F.R. 23925, set out as a note under section 3001 of this title.
 
-Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 401 of this title.
+Amendment by Pub. L. 108–458 effective not later than six months after Dec. 17, 2004, except as otherwise expressly provided, see section 1097(a) of Pub. L. 108–458, set out in an Effective Date of 2004 Amendment; Transition Provisions note under section 3001 of this title.
 
 #### Designation of Certain Officials To Make Certifications
 

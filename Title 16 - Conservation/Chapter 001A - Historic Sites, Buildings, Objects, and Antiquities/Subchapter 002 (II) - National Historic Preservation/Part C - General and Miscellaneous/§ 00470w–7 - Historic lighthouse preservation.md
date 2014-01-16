@@ -22,7 +22,7 @@ In order to provide a national historic light station program, the Secretary sha
 
 #### (2) Application review
 
-&emsp;The Secretary shall review all applications for the conveyance of a historic light station, when the agency with administrative jurisdiction over the historic light station has determined the property to be “excess property” as that term is defined in section 102(3) of title 40, and forward to the Administrator a single approved application for the conveyance of the historic light station. When selecting an eligible entity, the Secretary shall consult with the State Historic Preservation Officer of the State in which the historic light station is located.
+&emsp;The Secretary shall review all applications for the conveyance of a historic light station, when the agency with administrative jurisdiction over the historic light station has determined the property to be "excess property" as that term is defined in section 102(3) of title40, and forward to the Administrator a single approved application for the conveyance of the historic light station. When selecting an eligible entity, the Secretary shall consult with the State Historic Preservation Officer of the State in which the historic light station is located.
 
 #### (3) Conveyance of historic light stations
 
@@ -60,7 +60,7 @@ In order to provide a national historic light station program, the Secretary sha
 
 #### (2) Maintenance of aid to navigation
 
-&emsp;Any eligible entity to which a historic light station is conveyed under this section shall not be required to maintain any Federal aid to navigation associated with a historic light station, except any private aids to navigation permitted under section 83 of title 14 to the eligible entity.
+&emsp;Any eligible entity to which a historic light station is conveyed under this section shall not be required to maintain any Federal aid tonavigation associated with a historic light station, except any private aids to navigation permitted under section 83 of title 14 to the eligible entity.
 
 #### (3) Reversion
 
@@ -112,15 +112,15 @@ For purposes of this section:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” shall mean the Administrator of General Services.
+&emsp;The term "Administrator" shall mean the Administrator of General Services.
 
 #### (2) Historic light station
 
-&emsp;The term “historic light station” includes the light tower, lighthouse, keepers dwelling, garages, storage sheds, oil house, fog signal building, boat house, barn, pumphouse, tramhouse support structures, piers, walkways, underlying and appurtenant land and related real property and improvements associated therewith; provided that the “historic light station” shall be included in or eligible for inclusion in the National Register of Historic Places.
+&emsp;The term "historic light station" includes the light tower, lighthouse, keepers dwelling, garages, storage sheds, oil house, fog signal building, boat house, barn, pumphouse, tramhouse support structures, piers, walkways, underlying and appurtenant land and related real property and improvements associated therewith; provided that the "historic light station" shall be included in or eligible for inclusion in the National Register of Historic Places.
 
 #### (3) Eligible entity
 
-&emsp;The term “eligible entity” shall mean:
+&emsp;The term "eligible entity" shall mean:
 
 &emsp;&emsp;(A) any department or agency of the Federal Government; or
 
@@ -132,11 +132,11 @@ For purposes of this section:
 
 #### (4) Federal aid to navigation
 
-&emsp;The term “Federal aid to navigation” shall mean any device, operated and maintained by the United States, external to a vessel or aircraft, intended to assist a navigator to determine position or safe course, or to warn of dangers or obstructions to navigation, and shall include, but not be limited to, a light, lens, lantern, antenna, sound signal, camera, sensor, electronic navigation equipment, power source, or other associated equipment.
+&emsp;The term "Federal aid to navigation" shall mean any device, operated and maintained by the United States, external to a vessel or aircraft, intended to assist a navigator to determine position or safe course, or to warn of dangers or obstructions to navigation, and shall include, but not be limited to, a light, lens, lantern, antenna, sound signal, camera, sensor, electronic navigation equipment, power source, or other associated equipment.
 
 #### (5) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior.
+&emsp;The term "Secretary" means the Secretary of the Interior.
 
 (Pub. L. 89–665, title III, §308, as added Pub. L. 106–355, §2, Oct. 24, 2000, 114 Stat. 1385; amended Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 108–293, title VI, §627, Aug. 9, 2004, 118 Stat. 1066.)
 
@@ -148,13 +148,13 @@ Section 416(d) of the Coast Guard Authorization Act of 1998, referred to in subs
 
 #### Codification
 
-In subsec. (b)(2), “section 102 of title 40” substituted for “the Federal Property Administrative Services Act of 1949 (40 U.S.C. 472(e))” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (b)(2), "section 102 of title 40" substituted for "the Federal Property Administrative Services Act of 1949 (40 U.S.C. 472(e))" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
 <b>2004</b>—Subsec. (c)(4). Pub. L. 108–293 added par. (4).
 
-<b>2000</b>—Subsec. (b)(3)(A). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
+<b>2000</b>—Subsec. (b)(3)(A). Pub. L. 106–400 substituted "McKinney-Vento Homeless Assistance Act" for "Stewart B. McKinney Homeless Assistance Act".
 
 #### Transfer of Functions
 

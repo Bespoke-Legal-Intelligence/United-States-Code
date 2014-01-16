@@ -72,7 +72,7 @@ The Federal Board shall do the following:
 
 #### (3) Voting and rules
 
-&emsp;A majority of Federal Board members shall constitute a quorum to conduct business, but the Federal Board may establish a lesser quorum for conducting hearings scheduled by the Federal Board. The Federal Board may establish by majority vote any other rules for the conduct of the business of the Federal Board, if such rules are not inconsistent with this subchapter or other applicable law.
+&emsp;A majority of Federal Board members shall constitute a quorum to conduct business, but the Federal Board may establish a lesser quorum for conducting hearings scheduled bythe Federal Board. The Federal Board may establish by majority vote any other rules for the conduct of the business of the Federal Board, if such rules are not inconsistent with this subchapter or other applicable law.
 
 #### (e) Powers
 

@@ -16,7 +16,7 @@
 
 #### (3) Hearing process
 
-&emsp;The eligible agency shall conduct public hearings in the State, after appropriate andsufficient notice, for the purpose of affording all segments of the public and interested organizations and groups (including charter school authorizers and organizers consistent with State law, employers, labor organizations, parents, students, and community organizations), an opportunity to present their views and make recommendations regarding the State plan. A summary of such recommendations and the eligible agency's response to such recommendations shall be included in the State plan.
+&emsp;The eligible agency shall conduct public hearings in the State, after appropriate and sufficient notice, for the purpose of affording all segments of the public and interested organizations and groups (including charter school authorizers and organizers consistent with State law, employers, labor organizations, parents, students, and community organizations), an opportunity to present their views and make recommendations regarding the State plan. A summary of such recommendations and the eligible agency's response to such recommendations shall be included in the State plan.
 
 #### (b) Plan development
 
@@ -194,7 +194,7 @@ The State plan shall include information that—
 
 #### (2) Plan submitted as part of 501 plan
 
-&emsp;The eligible agency may submit the plan required under this section as part of the plan submitted under section 501 of Public Law 105–220 \[20 U.S.C. 9271\], if the plan submitted pursuant to the requirement of this section meets the requirements of this chapter.
+&emsp;The eligible agency may submit the plan required under this section as part of the plansubmitted under section 501 of Public Law 105–220 \[20 U.S.C. 9271\], if the plan submitted pursuant to the requirement of this section meets the requirements of this chapter.
 
 #### (e) Plan approval
 

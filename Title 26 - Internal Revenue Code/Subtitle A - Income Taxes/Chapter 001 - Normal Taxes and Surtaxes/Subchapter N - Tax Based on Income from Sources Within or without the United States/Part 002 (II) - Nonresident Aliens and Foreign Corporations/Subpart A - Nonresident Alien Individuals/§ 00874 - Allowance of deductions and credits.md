@@ -16,19 +16,19 @@ Except as provided in section 906, a nonresident alien individual shall not be a
 
 #### Amendments
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted reference to section “33” for “32” and “34” for “39”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted reference to section "33" for "32" and "34" for "39".
 
-<b>1983</b>—Subsec. (a). Pub. L. 97–424 substituted “and special fuels” for “, special fuels, and lubricating oil”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–424 substituted "and special fuels" for ", special fuels, and lubricating oil".
 
-<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsecs. (a), (b). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–258 included provision against construction of subsec. (a) to deny credit provided by section 39 for certain uses of special fuels.
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–809, §103(d), struck out “of his total income received from all sources in the United States” after “true and accurate return”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–809, §103(d), struck out "of his total income received from all sources in the United States" after "true and accurate return".
 
-Subsec. (c). Pub. L. 89–809, §106(a)(3), substituted “Foreign tax credit” for “Foreign tax credit not allowed” in heading and inserted reference to an exception provided in section 906.
+Subsec. (c). Pub. L. 89–809, §106(a)(3), substituted "Foreign tax credit" for "Foreign tax credit not allowed" in heading and inserted reference to an exception provided in section 906.
 
-<b>1965</b>—Subsec. (a). Pub. L. 89–44 inserted “or the credit provided by section 39 for certain uses of gasoline and lubricating oil”.
+<b>1965</b>—Subsec. (a). Pub. L. 89–44 inserted "or the credit provided by section 39 for certain uses of gasoline and lubricating oil".
 
 #### Effective Date of 1984 Amendment
 
@@ -46,7 +46,7 @@ Amendment by Pub. L. 91–258 effective July 1, 1970, see section 211(a) of Pub.
 
 Amendment by section 103(d) of Pub. L. 89–809 applicable with respect to taxable years beginning after Dec. 31, 1966, see section 103(n)(1) of Pub. L. 89–809, set out as a note under section 871 of this title.
 
-Pub. L. 89–809, title I, §106(a)(6), Nov. 13, 1966, 80 Stat. 1569, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this subsection \[enacting section 906 of this title and amending this section and section 901 of this title\] shall apply with respect to taxable years beginning after Dec. 31, 1966. In applying section 904 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to section 906 of such Code, no amount may be carried from or to any taxable year beginning before Jan. 1, 1967, and no such year shall be taken into account.”
+Pub. L. 89–809, title I, §106(a)(6), Nov. 13, 1966, 80 Stat. 1569, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this subsection \[enacting section 906 of this title and amending this section and section 901 of this title\] shall apply with respect to taxable years beginning after Dec. 31, 1966. In applying section 904 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] with respect to section 906 of such Code, no amount may be carried from or to any taxable year beginning before Jan. 1, 1967, and no such year shall be taken into account."
 
 #### Effective Date of 1965 Amendment
 

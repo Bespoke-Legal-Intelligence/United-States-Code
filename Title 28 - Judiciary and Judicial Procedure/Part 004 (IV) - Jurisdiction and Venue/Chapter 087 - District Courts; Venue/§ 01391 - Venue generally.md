@@ -68,17 +68,17 @@ Based on title 28, U.S.C., 1940 ed., §§111, 112 (Mar. 3, 1911, ch. 231, §§50
 
 Section consolidates section 111 of title 28, U.S.C., 1940 ed., with part of section 112 of such title.
 
-The portion of section 112 of title 28, U.S.C., 1940 ed., relating to venue generally constitutes this section and the parts relating to arrest of the defendant, venue and process in stockholders’ actions constitute sections 1401, 1693, and 1695 of this title.
+The portion of section 112 of title 28, U.S.C., 1940 ed., relating to venue generally constitutes this section and the parts relating to arrest of the defendant, venue and process in stockholders' actions constitute sections 1401, 1693, and 1695 of this title.
 
 Provision in section 111 of title 28, U.S.C., 1940 ed., that a district court may proceed as to parties before it although one or more defendants do not reside in the district, and that its judgment shall be without prejudice to such absent defendants, was omitted as covered by rule 19(b) of the Federal Rules of Civil Procedure.
 
-Word “action” was substituted for “suit” in view of Rule 2 of the Federal Rules of Civil Procedure.
+Word "action" was substituted for "suit" in view of Rule 2 of the Federal Rules of Civil Procedure.
 
-Word “reside” was substituted for “whereof he is an inhabitant” for clarity inasmuch as “inhabitant” and “resident” are synonymous. (See <i>Ex parte Shaw</i>, 1892, 12 S.Ct. 935, 145 U.S. 444, 36 L.Ed. 768; <i>Standard Stoker Co., Inc. v. Lower</i>, D.C., 1931, 46 F.2d 678; <i>Edgewater Realty Co. v. Tennessee Coal, Iron \& Railroad Co</i>., D.C., 1943, 49 F.Supp. 807.)
+Word "reside" was substituted for "whereof he is an inhabitant" for clarity inasmuch as "inhabitant" and "resident" are synonymous. (See <i>Ex parte Shaw</i>, 1892, 12 S.Ct. 935, 145 U.S. 444, 36 L.Ed. 768; <i>Standard Stoker Co., Inc. v. Lower</i>, D.C., 1931, 46 F.2d 678; <i>Edgewater Realty Co. v. Tennessee Coal, Iron \& Railroad Co</i>., D.C., 1943, 49 F.Supp. 807.)
 
-Reference to “all plaintiffs” and “all defendants” were substituted for references to “the plaintiff” and “the defendant,” in view of many decisions holding that the singular terms were used in a collective sense. (See <i>Smith v. Lyon</i>, 1890, 10 S.Ct. 303, 133 U.S. 315, 33 L.Ed. 635; <i>Hooe v. Jamieson</i>, 1897, 17 S.Ct. 596, 166 U.S. 395, 41 L.Ed. 1049; and <i>Fetzer v. Livermore</i>, D.C., 1926, 15 F.2d 462.)
+Reference to "all plaintiffs" and "all defendants" were substituted for references to "the plaintiff" and "the defendant," in view of many decisions holding that the singular terms were used in a collective sense. (See <i>Smith v. Lyon</i>, 1890, 10 S.Ct. 303, 133 U.S. 315, 33 L.Ed. 635; <i>Hooe v. Jamieson</i>, 1897, 17 S.Ct. 596, 166 U.S. 395, 41 L.Ed. 1049; and <i>Fetzer v. Livermore</i>, D.C., 1926, 15 F.2d 462.)
 
-In subsection (c), references to defendants “found” within a district or voluntarily appearing were omitted. The use of the word “found” made section 111 of title 28, U.S.C., 1940 ed., ambiguous. The argument that an action could be brought in the district where one defendant resided and a nonresident defendant was “found,” was rejected in <i>Camp v. Gress</i>, 1919, 39 S.Ct. 478, 250 U.S. 308, 63 L.Ed. 997. However, this ambiguity will be obviated in the future by the omission of such reference.
+In subsection (c), references to defendants "found" within a district or voluntarily appearing were omitted. The use of the word "found" made section 111 of title 28, U.S.C., 1940 ed., ambiguous. The argument that an action could be brought in the district where one defendant resided and a nonresident defendant was "found," was rejected in <i>Camp v. Gress</i>, 1919, 39 S.Ct. 478, 250 U.S. 308, 63 L.Ed. 997. However, this ambiguity will be obviated in the future by the omission of such reference.
 
 Subsection (d) of this section is added to give statutory recognition to the weight of authority concerning a rule of venue as to which there has been a sharp conflict of decisions. (See <i>Sandusky Foundry \& Machine Co. v. DeLavand</i>, 1918, D.C.Ohio, 251 F. 631, 632, and cases cited. See also <i>Keating v. Pennsylvania Co</i>., 1917, D.C.Ohio, 245 F. 155 and cases cited.)
 
@@ -92,7 +92,7 @@ The Federal Rules of Civil Procedure, referred to in subsec. (e), are set out in
 
 <b>2011</b>—Subsecs. (a) to (d). Pub. L. 112–63, §202(1), added subsecs. (a) to (d) and struck out former subsecs. (a) to (d) which related to venue when jurisdiction is founded only on diversity of citizenship, when jurisdiction is not founded solely on diversity of citizenship, when a defendant is a corporation, and when an alien is sued, respectively.
 
-Subsec. (e). Pub. L. 112–63, §202(2), inserted subsec. heading, substituted “(A)”, “(B)”, and “(C)” for “(1)”, “(2)”, and “(3)”, respectively, in first par., designated first and second pars. as pars. (1) and (2), respectively, and inserted par. headings.
+Subsec. (e). Pub. L. 112–63, §202(2), inserted subsec. heading, substituted "(A)", "(B)", and "(C)" for "(1)", "(2)", and "(3)", respectively, in first par., designated first and second pars. as pars. (1) and (2), respectively, and inserted par. headings.
 
 Subsec. (f). Pub. L. 112–63, §202(3), inserted heading.
 
@@ -100,19 +100,19 @@ Subsec. (g). Pub. L. 112–63, §202(4), inserted heading.
 
 <b>2002</b>—Subsec. (g). Pub. L. 107–273 added subsec. (g).
 
-<b>1995</b>—Subsec. (a)(3). Pub. L. 104–34 substituted “any defendant is” for “the defendants are”.
+<b>1995</b>—Subsec. (a)(3). Pub. L. 104–34 substituted "any defendant is" for "the defendants are".
 
-<b>1992</b>—Subsec. (a)(3). Pub. L. 102–572 inserted before period at end “, if there is no district in which the action may otherwise be brought”.
+<b>1992</b>—Subsec. (a)(3). Pub. L. 102–572 inserted before period at end ", if there is no district in which the action may otherwise be brought".
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–198 substituted “in (1)” for “if (1)”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–198 substituted "in (1)" for "if (1)".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–650, §311(1), substituted cls. (1) to (3) for “the judicial district where all plaintiffs or all defendants reside, or in which the claim arose”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–650, §311(1), substituted cls. (1) to (3) for "the judicial district where all plaintiffs or all defendants reside, or in which the claim arose".
 
-Subsec. (b). Pub. L. 101–650, §311(2), substituted “may, except as otherwise provided by law, be brought only if” and cls. (1) to (3) for “may be brought only in the judicial district where all defendants reside, or in which the claim arose, except as otherwise provided by law”.
+Subsec. (b). Pub. L. 101–650, §311(2), substituted "may, except as otherwise provided by law, be brought onlyif" and cls. (1) to (3) for "may be brought only in the judicial district where all defendants reside, or in which the claim arose, except as otherwise provided by law".
 
-Subsec. (e). Pub. L. 101–650, §311(3), substituted “(2) a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (3)” for “or (2) the cause of action arose, or (3) any real property involved in the action is situated, or (4)”.
+Subsec. (e). Pub. L. 101–650, §311(3), substituted "(2) a substantial part of the events or omissions giving rise to the claim occurred, or a substantial part of property that is the subject of the action is situated, or (3)" for "or (2) the cause of action arose, or (3) any real property involved in the action is situated, or (4)".
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–702 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “A corporation may be sued in any judicial district in which it is incorporated or licensed to do business or is doing business, and such judicial district shall be regarded as the residence of such corporation for venue purposes.”
+<b>1988</b>—Subsec. (c). Pub. L. 100–702 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "A corporation may be sued in any judicial district in which it is incorporated or licensed to do business or is doing business, and such judicial district shall be regarded as the residence of such corporation for venue purposes."
 
 <b>1976</b>—Subsec. (e). Pub. L. 94–574 provided that, in actions against the United States, its agencies, or officers or employees in their official capacities, additional persons may be joined in accordance with the Federal Rules of Civil Procedure and with other venue requirements which would be applicable if the United States, its agencies, or one of its officers or employees were not a party.
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101(a) of Pu
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–702, title X, §1013(b), Nov. 19, 1988, 102 Stat. 4669, provided that: “The amendment made by this section \[amending this section\] takes effect 90 days after the date of enactment of this title \[Nov. 19, 1988\].”
+Pub. L. 100–702, title X, §1013(b), Nov. 19, 1988, 102 Stat. 4669, provided that: "The amendment made by this section \[amending this section\] takes effect 90 days after the date of enactment of this title \[Nov. 19, 1988\]."
 
 #### Effective Date of 1976 Amendment
 

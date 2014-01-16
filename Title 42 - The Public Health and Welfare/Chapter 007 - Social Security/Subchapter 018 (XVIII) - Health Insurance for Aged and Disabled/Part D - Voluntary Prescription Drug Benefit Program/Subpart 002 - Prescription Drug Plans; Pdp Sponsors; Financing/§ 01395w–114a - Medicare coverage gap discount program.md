@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary shall establish a Medicare coverage gap discount program (in this section referred to as the “program”) by not later than January 1, 2011. Under the program, the Secretary shall enter into agreements described in subsection (b) with manufacturers and provide for the performance of the duties described in subsection (c)(1). The Secretary shall establish a model agreement for use under the program by not later than 180 days after March 23, 2010, in consultation with manufacturers, and allow for comment on such model agreement.
+The Secretary shall establish a Medicare coverage gap discount program (in this section referred to as the "program") by not later than January 1, 2011. Under the program, the Secretary shall enter into agreements described in subsection (b) with manufacturers and provide for the performance of the duties described in subsection (c)(1). The Secretary shall establish a model agreement for use under the program by not later than 180 days after March 23, 2010, in consultation with manufacturers, and allow for comment on such model agreement.
 
 #### (b) Terms of agreement
 
@@ -20,7 +20,7 @@ The Secretary shall establish a Medicare coverage gap discount program (in this 
 
 #### (i) Special rule for 2011
 
-&emsp;&emsp;&emsp;In order for an agreement with a manufacturer to be in effect under this section with respect to the period beginning on January 1, 2011, and ending on December 31, 2011, the manufacturer shall enter into such agreement not later than not later than <sup>1</sup> 30 days after the date of the establishment of a model agreement under subsection (a).
+&emsp;&emsp;&emsp;In order for an agreement with a manufacturer to be in effect under this sectionwith respect to the period beginning on January 1, 2011, and ending on December 31, 2011, the manufacturer shall enter into such agreement not later than not later than <sup>1</sup> 30 days after the date of the establishment of a model agreement under subsection (a).
 
 #### (ii) 2012 and subsequent years
 
@@ -170,7 +170,7 @@ The Secretary shall establish a Medicare coverage gap discount program (in this 
 
 #### (f) Clarification regarding availability of other covered part D drugs
 
-Nothing in this section shall prevent an applicable beneficiary from purchasing a covered part D drug that is not an applicable drug (including a generic drug or a drug that is not on the formulary of the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in).
+Nothing in this section shall prevent an applicable beneficiary from purchasing a covered partD drug that is not an applicable drug (including a generic drug or a drug that is not on the formulary of the prescription drug plan or MA–PD plan that the applicable beneficiary is enrolled in).
 
 #### (g) Definitions
 
@@ -178,7 +178,7 @@ In this section:
 
 #### (1) Applicable beneficiary
 
-&emsp;The term “applicable beneficiary” means an individual who, on the date of dispensing a covered part D drug—
+&emsp;The term "applicable beneficiary" means an individual who, on the date of dispensing a covered part D drug—
 
 &emsp;&emsp;(A) is enrolled in a prescription drug plan or an MA–PD plan;
 
@@ -194,7 +194,7 @@ In this section:
 
 #### (2) Applicable drug
 
-&emsp;The term “applicable drug” means, with respect to an applicable beneficiary, a covered part D drug—
+&emsp;The term "applicable drug" means, with respect to an applicable beneficiary, a covered part D drug—
 
 &emsp;&emsp;(A) approved under a new drug application under section 355(b) of title 21 or, in the case of a biologic product, licensed under section 262 of this title (other than a product licensed under subsection (k) of such section 262); and
 
@@ -206,7 +206,7 @@ In this section:
 
 #### (3) Applicable number of calendar days
 
-&emsp;The term “applicable number of calendar days” means—
+&emsp;The term "applicable number of calendar days" means—
 
 &emsp;&emsp;(A) with respect to claims for reimbursement submitted electronically, 14 days; and
 
@@ -216,7 +216,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “discounted price” means 50 percent of the negotiated price of the applicable drug of a manufacturer.
+&emsp;&emsp;The term "discounted price" means 50 percent of the negotiated price of the applicable drug of a manufacturer.
 
 #### (B) Clarification
 
@@ -228,35 +228,35 @@ In this section:
 
 #### (5) Manufacturer
 
-&emsp;The term “manufacturer” means any entity which is engaged in the production, preparation, propagation, compounding, conversion, or processing of prescription drug products, either directly or indirectly by extraction from substances of natural origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis. Such term does not include a wholesale distributor of drugs or a retail pharmacy licensed under State law.
+&emsp;The term "manufacturer" means any entity which is engaged in the production, preparation, propagation, compounding, conversion, or processing of prescription drug products, either directly or indirectly by extraction from substances of natural origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis. Such term does not include a wholesale distributor of drugs or a retail pharmacy licensed under State law.
 
 #### (6) Negotiated price
 
-&emsp;The term “negotiated price” has the meaning given such term in section 423.100 of title 42, Code of Federal Regulations (as in effect on March 23, 2010), except that such negotiated price shall not include any dispensing fee for the applicable drug.
+&emsp;The term "negotiated price" has the meaning given such term in section 423.100 of title 42, Code of Federal Regulations (as in effect on March 23, 2010), except that such negotiated price shall not include any dispensing fee for the applicable drug.
 
 #### (7) Qualified retiree prescription drug plan
 
-&emsp;The term “qualified retiree prescription drug plan” has the meaning given such term in section 1395w–132(a)(2) of this title.
+&emsp;The term "qualified retiree prescription drug plan" has the meaning given such term in section 1395w–132(a)(2) of this title.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1860D–14A, as added Pub. L. 111–148, title III, §3301(b), Mar. 23, 2010, 124 Stat. 462; amended Pub. L. 111–152, title I, §1101(b)(2), Mar. 30, 2010, 124 Stat. 1037.)
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–152, §1101(b)(2)(A), substituted “January 1, 2011” for “July 1, 2010” and “180 days after March 23, 2010” for “April 1, 2010”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–152, §1101(b)(2)(A), substituted "January 1, 2011" for "July 1, 2010" and "180 days after March 23, 2010" for "April 1, 2010".
 
-Subsec. (b)(1)(C)(i). Pub. L. 111–152, §1101(b)(2)(B)(i), which directed the amendment of subpar. (C) by striking out “2010 and” in the heading, was executed by striking “2010 and” before “2011” in cl. (i) heading to reflect the probable intent of Congress.
+Subsec. (b)(1)(C)(i). Pub. L. 111–152, §1101(b)(2)(B)(i), which directed the amendment of subpar. (C) by striking out "2010 and" in the heading, was executed by striking "2010 and" before "2011" in cl. (i) heading to reflect the probable intent of Congress.
 
-Pub. L. 111–152, §1101(b)(2)(B)(ii), (iii), substituted “January 1, 2011” for “July 1, 2010” and “not later than 30 days after the date of the establishment of a model agreement under subsection (a)” for “May 1, 2010”.
+Pub. L. 111–152, §1101(b)(2)(B)(ii), (iii), substituted "January 1, 2011" for "July 1, 2010" and "not later than 30 days after the date of the establishment of a model agreement under subsection (a)" for "May 1, 2010".
 
-Subsec. (c)(1)(A)(iii). Pub. L. 111–152, §1101(b)(2)(C)(i), substituted “January 1, 2011, and ending on December 31, 2011” for “July 1, 2010, and ending on December 31, 2011”.
+Subsec. (c)(1)(A)(iii). Pub. L. 111–152, §1101(b)(2)(C)(i), substituted "January 1, 2011, and ending on December 31, 2011" for "July 1, 2010, and ending on December 31, 2011".
 
-Subsec. (c)(2). Pub. L. 111–152, §1101(b)(2)(C)(ii), substituted “2011” for “2010”.
+Subsec. (c)(2). Pub. L. 111–152, §1101(b)(2)(C)(ii), substituted "2011" for "2010".
 
-Subsec. (d)(2)(B). Pub. L. 111–152, §1101(b)(2)(D), substituted “January 1, 2011, and ending on December 31, 2011” for “July 1, 2010, and ending on December 31, 2010”.
+Subsec. (d)(2)(B). Pub. L. 111–152, §1101(b)(2)(D), substituted "January 1, 2011, and ending on December 31, 2011" for "July 1, 2010, and ending on December 31, 2010".
 
-Subsec. (g)(1). Pub. L. 111–152, §1101(b)(2)(E)(i), substituted “a covered part D drug” for “an applicable drug” in introductory provisions.
+Subsec. (g)(1). Pub. L. 111–152, §1101(b)(2)(E)(i), substituted "a covered part D drug" for "an applicable drug" in introductory provisions.
 
-Subsec. (g)(1)(C) to (E). Pub. L. 111–152, §1101(b)(2)(E)(ii)–(iv), inserted “and” at end of subpar. (C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: “is not subject to a reduction in premium subsidy under section 1395r(i) of this title; and”.
+Subsec. (g)(1)(C) to (E). Pub. L. 111–152, §1101(b)(2)(E)(ii)–(iv), inserted "and" at end of subpar.\(C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: "is not subject to a reduction in premium subsidy under section 1395r(i) of this title; and".
 
-<i><sup>1</sup></i><i> So in original. Second “not later than” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. Second "not later than" probably should not appear.</i>
 

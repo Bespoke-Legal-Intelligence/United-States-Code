@@ -20,5 +20,5 @@ The President is authorized to enter into agreements with the officers or agents
 
 #### Amendments
 
-<b>1994</b>—Subsec. (c). Pub. L. 103–337 substituted “section 5196(c) of this title” for “section 2281(c) of title 50, Appendix,”.
+<b>1994</b>—Subsec. (c). Pub. L. 103–337 substituted "section 5196(c) of this title" for "section 2281(c) of title 50, Appendix,".
 

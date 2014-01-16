@@ -34,7 +34,7 @@
 
 (c) The President, based on the recommendations of the Attorney General, may award ranks to members of the FBI–DEA Senior Executive Service in a manner consistent with the provisions of section 4507.
 
-(d) Notwithstanding any other provision of this section, the Attorney General may detail or assign any member of the FBI–DEA Senior Executive Service to serve in a position outside the Federal Bureau of Investigation or the Drug Enforcement Administration (as the case may be) in which the member's expertise and experience may be of benefit to the Federal Bureau of Investigation or the Drug Enforcement Administration (as the case may be) or another Government agency. Any such member shall not by reason of such detail or assignment lose any entitlement or status associated with membership in the FBI–DEA Senior Executive Service.
+(d) Notwithstanding any other provision of this section, the Attorney General may detail or assign any member of the FBI–DEA Senior Executive Service to serve in a position outside the Federal Bureau of Investigation or the Drug Enforcement Administration (as the case may be) in which the member's expertise and experience may be of benefit to the Federal Bureau of Investigation or the Drug Enforcement Administration (as the case may be) or another Government agency. Any such member shall not byreason of such detail or assignment lose any entitlement or status associated with membership in the FBI–DEA Senior Executive Service.
 
 (e) The Attorney General shall each year submit to Congress, at the time the budget is submitted by the President to the Congress for the next fiscal year, a report on the FBI–DEA Senior Executive Service. The report shall include, in the aggregate and by agency—
 
@@ -72,7 +72,7 @@ Provisions of this title governing appointments and other personnel actions in t
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–194, title V, §506(d), Nov. 30, 1989, 103 Stat. 1759, provided that: “The amendments made by this section \[enacting section 3393a of this title and amending this section, sections 3393, 3592 to 3594, 7701, 8336, 8339, 8414, and 8421 of this title, section 1601 of Title 10, Armed Forces, section 3945 of Title 22, Foreign Relations and Intercourse, and provisions set out as a note under section 402 of Title 50, War and National Defense\] shall take effect on January 1, 1991.”
+Pub. L. 101–194, title V, §506(d), Nov. 30, 1989, 103 Stat. 1759, provided that: “The amendments made by this section \[enacting section 3393a of this title and amending this section, sections 3393, 3592 to 3594, 7701, 8336, 8339, 8414, and 8421 of this title, section 1601 of Title 10, Armed Forces, section 3945 of Title 22, Foreign Relations and Intercourse, and section 3610 of Title 50, War and National Defense\] shall take effect on January 1, 1991.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

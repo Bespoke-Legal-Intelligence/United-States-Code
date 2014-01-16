@@ -6,9 +6,9 @@ The Board is authorized to accept gifts of money made unconditionally by will or
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–630 substituted “Board” for “Administrator” in two places, and “it may expend” for “he may expend”.
+<b>1978</b>—Pub. L. 95–630 substituted "Board" for "Administrator" in two places, and "it may expend" for "he may expend".
 
-<b>1970</b>—Pub. L. 91–206 substituted “Administrator” for “Director” and “Administration” for “Bureau” wherever appearing.
+<b>1970</b>—Pub. L. 91–206 substituted "Administrator" for "Director" and "Administration" for "Bureau" wherever appearing.
 
 #### Effective Date of 1978 Amendment
 

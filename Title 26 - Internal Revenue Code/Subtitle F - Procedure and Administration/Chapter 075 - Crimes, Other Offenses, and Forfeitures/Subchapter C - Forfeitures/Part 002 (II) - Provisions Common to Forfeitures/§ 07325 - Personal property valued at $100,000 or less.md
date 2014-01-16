@@ -22,17 +22,17 @@ In all cases of seizure of any goods, wares, or merchandise as being subject to 
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–514 substituted “$100,000” for “$2,500” in section catchline, introductory provisions, and par. (2), and substituted “$2,500” for “$250” in par. (3).
+<b>1986</b>—Pub. L. 99–514 substituted "$100,000" for "$2,500" in section catchline, introductory provisions, and par. (2), and substituted "$2,500" for "$250" in par. (3).
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
-<b>1958</b>—Pub. L. 85–866 struck out “district” before “attorney” in par. (3).
+<b>1958</b>—Pub. L. 85–866 struck out "district" before "attorney" in par. (3).
 
-Pub. L. 85–859 substituted “$2,500” for “$1,000” in section catchline, opening par., and par. (2), and inserted “, unless otherwise provided by law,” before “sell the articles” in par. (4).
+Pub. L. 85–859 substituted "$2,500" for "$1,000" in section catchline, opening par., and par. (2), and inserted ", unless otherwise provided by law," before "sell the articles" in par. (4).
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title XV, §1566(e), Oct. 22, 1986, 100 Stat. 2763, provided that: “The amendments made by this section \[amending this section and section 7103 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XV, §1566(e), Oct. 22, 1986, 100 Stat. 2763, provided that: "The amendments made by this section \[amending this section and section 7103 of this title\] shall take effect on the date of the enactment of this Act \[Oct. 22, 1986\]."
 
 #### Effective Date of 1958 Amendments
 

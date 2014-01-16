@@ -8,15 +8,15 @@ The owner or operator of a facility subject to the requirements of this section 
 
 #### (1) In general
 
-&emsp;(A) The requirements of this section shall apply to owners and operators of facilities that have 10 or more full-time employees and that are in Standard Industrial Classification Codes 20 through 39 (as in effect on July 1, 1985) and that manufactured, processed, orotherwise used a toxic chemical listed under subsection (c) of this section in excess of the quantity of that toxic chemical established under subsection (f) of this section during the calendar year for which a release form is required under this section.
+&emsp;(A) The requirements of this section shall apply to owners and operators of facilities that have 10 or more full-time employees and that are in Standard Industrial Classification Codes 20 through 39 (as in effect on July 1, 1985) and that manufactured, processed, or otherwise used a toxic chemical listed under subsection (c) of this section in excess of the quantity of that toxic chemical established under subsection (f) of this section during the calendar year for which a release form is required under this section.
 
 &emsp;(B) The Administrator may add or delete Standard Industrial Classification Codes for purposes of subparagraph (A), but only to the extent necessary to provide that each Standard Industrial Code to which this section applies is relevant to the purposes of this section.
 
 &emsp;(C) For purposes of this section—
 
-&emsp;&emsp;(i) The term “manufacture” means to produce, prepare, import, or compound a toxic chemical.
+&emsp;&emsp;(i) The term "manufacture" means to produce, prepare, import, or compound a toxic chemical.
 
-&emsp;&emsp;(ii) The term “process” means the preparation of a toxic chemical, after its manufacture, for distribution in commerce—
+&emsp;&emsp;(ii) The term "process" means the preparation of a toxic chemical, after its manufacture, for distribution in commerce—
 
 &emsp;&emsp;&emsp;(I) in the same form or physical state as, or in a different form or physical state from, that in which it was received by the person so preparing such chemical, or
 
@@ -28,7 +28,7 @@ The owner or operator of a facility subject to the requirements of this section 
 
 #### (c) Toxic chemicals covered
 
-The toxic chemicals subject to the requirements of this section are those chemicals on the list in Committee Print Number 99–169 of the Senate Committee on Environment and Public Works, titled “Toxic Chemicals Subject to Section 313 of the Emergency Planning and Community Right-To-Know Act of 1986” \[42 U.S.C. 11023\] (including any revised version of the list as may be made pursuant to subsection (d) or (e) of this section).
+The toxic chemicals subject to the requirements of this section are those chemicals on the list in Committee Print Number 99–169 of the Senate Committee on Environment and Public Works, titled "Toxic Chemicals Subject to Section 313 of the Emergency Planning and Community Right-To-Know Act of 1986" \[42 U.S.C. 11023\] (including any revised version of the list as may be made pursuant to subsection (d) or (e) of this section).
 
 #### (d) Revisions by Administrator
 
@@ -88,7 +88,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 #### (2) Governor petitions
 
-&emsp;A State Governor may petition the Administrator to add or delete a chemical from thelist described in subsection (c) of this section on the basis of the criteria in subparagraph (A), (B), or (C) of subsection (d)(2) of this section. In the case of such a petition from a State Governor to delete a chemical, the petition shall be treated in the same manner as a petition received under paragraph (1) to delete a chemical. In the case of such a petition from a State Governor to add a chemical, the chemical will be added to the list within 180 days after receipt of the petition, unless the Administrator—
+&emsp;A State Governor may petition the Administrator to add or delete a chemical from the list described in subsection (c) of this section on the basis of the criteria in subparagraph (A), (B), or (C) of subsection (d)(2) of this section. In the case of such a petition from a State Governor to delete a chemical, the petition shall be treated in the same manner as a petition received under paragraph (1) to delete a chemical. In the case of such a petition from a State Governor to add a chemical, the chemical will be added to the list within 180 days after receipt of the petition, unless the Administrator—
 
 &emsp;&emsp;(A) initiates a rulemaking to add the chemical to the list, in accordance with subsection (d)(2) of this section, or
 
@@ -112,7 +112,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 #### (2) Revisions
 
-&emsp;The Administrator may establish a threshold amount for a toxic chemical different from the amount established by paragraph (1). Such revised threshold shall obtain reporting on a substantial majority of total releases of the chemical at all facilities subject to the requirements of this section. The amounts established under this paragraph may, at the Administrator's discretion, be based on classes of chemicals or categories of facilities.
+&emsp;The Administrator may establish a threshold amount for a toxic chemical different fromthe amount established by paragraph (1). Such revised threshold shall obtain reporting on a substantial majority of total releases of the chemical at all facilities subject to the requirements of this section. The amounts established under this paragraph may, at the Administrator's discretion, be based on classes of chemicals or categories of facilities.
 
 #### (g) Form
 
@@ -242,7 +242,7 @@ Not later than June 30, 1991, the Comptroller General, in consultation with the 
 
 #### (4) Mass balance definition
 
-&emsp;For purposes of this subsection, the term “mass balance” means an accumulation of the annual quantities of chemicals transported to a facility, produced at a facility, consumed at a facility, used at a facility, accumulated at a facility, released from a facility, and transported from a facility as a waste or as a commercial product or byproduct or component of a commercial product or byproduct.
+&emsp;For purposes of this subsection, the term "mass balance" means an accumulation of the annual quantities of chemicals transported to a facility, produced at a facility, consumed ata facility, used at a facility, accumulated at a facility, released from a facility, and transported from a facility as a waste or as a commercial product or byproduct or component of a commercial product or byproduct.
 
 (Pub. L. 99–499, title III, §313, Oct. 17, 1986, 100 Stat. 1741.)
 
@@ -252,13 +252,13 @@ Memorandum of President of the United States, Aug. 8, 1995, 60 F.R. 41791, provi
 
 Memorandum for the Administrator of the Environmental Protection Agency and the Heads of Executive Departments and Agencies
 
-The Emergency Planning and Community Right-to-Know Act of 1986 (42 U.S.C. 11001–11050) (“EPCRA”) and the Pollution Prevention Act of 1990 (42 U.S.C. 13101–13109) provide an innovative approach to protecting public health and the environment by ensuring that communities are informed about the toxic chemicals being released into the air, land, and water by manufacturing facilities. I am committed to the effective implementation of this law, because Community Right-to-Know protections provide a basic informational tool to encourage informed community-based environmental decision making and provide a strong incentive for businesses to find their own ways of preventing pollution.
+The Emergency Planning and Community Right-to-Know Act of 1986 (42 U.S.C. 11001–11050) ("EPCRA") and the Pollution Prevention Act of 1990 (42 U.S.C. 13101–13109) provide an innovative approach to protecting public health and the environment by ensuring that communities are informed about the toxic chemicals being released into the air, land, and water by manufacturing facilities. I am committed to the effective implementation of this law, because Community Right-to-Know protections provide a basic informational tool to encourage informed community-based environmental decision making and provide a strong incentive for businesses to find their own ways of preventing pollution.
 
 The laws provide the Environmental Protection Agency with substantial authority to add to the Toxics Release Inventory under EPCRA: (1) new chemicals; (2) new classes of industrial facilities; and (3) additional types of information concerning toxic chemical use at facilities. Community Right-to-Know should be enhanced wherever possible as appropriate. EPA currently is engaged in an on-going process to address potential facility expansion and the collection of use information. I am committed to a full and open process on the policy issues posed by EPA's exercise of these authorities.
 
 So that consideration of these issues can be fully accomplished during this Administration, I am directing the Administrator of the Environmental Protection Agency, in consultation with the Office of Management and Budget and appropriate Federal agencies with applicable technical and functional expertise, as necessary, to take the following actions:
 
-(a) Continuation on an expedited basis of the public notice and comment rulemaking proceedings to consider whether, as appropriate and consistent with section 313(b) of EPCRA, 42 U.S.C. 11023(b), to add to the list of Standard Industrial Classification (“SIC”) Code designations of 20 through 39 (as in effect on July 1, 1985). For SIC Code designations, see “Standard Industrial Classification Manual” published by the Office of Management and Budget. EPA shall complete the rulemaking process on an accelerated schedule.
+(a) Continuation on an expedited basis of the public notice and comment rulemaking proceedings to consider whether, as appropriate and consistent with section 313(b) of EPCRA, 42 U.S.C. 11023(b), to add to the list of Standard Industrial Classification ("SIC") Code designations of 20 through 39 (as in effect on July 1, 1985). For SIC Code designations, see "Standard Industrial Classification Manual" published by the Office of Management and Budget. EPA shall complete the rulemaking process on an accelerated schedule.
 
 (b) Development and implementation of an expedited, open, and transparent process for consideration of reporting under EPCRA on information on the use of toxic chemicals at facilities, including information on mass balance, materials accounting, or other chemical use date \[data\], pursuant to section 313(b)(1)(A) of EPCRA, 42 U.S.C. 11023(b)(1)(A). EPA shall report on the progress of this effort by October 1, 1995, with a goal of obtaining sufficient information to be able to make informed judgments concerning implementation of any appropriate program.
 
@@ -270,5 +270,5 @@ The Director of the Office of Management and Budget is authorized and directed t
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Probably should be “calendar”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "calendar".</i>
 

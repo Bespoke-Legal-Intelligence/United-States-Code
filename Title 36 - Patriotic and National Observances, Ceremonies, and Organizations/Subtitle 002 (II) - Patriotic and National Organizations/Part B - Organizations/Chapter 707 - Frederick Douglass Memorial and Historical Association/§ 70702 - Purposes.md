@@ -20,9 +20,9 @@ Historical and Revision Notes
 
 70702
 
-36:4401 (words beginning with “for the following objects and purposes”).
+36:4401 (words beginning with "for the following objects and purposes").
 
-June 6, 1900, ch. 806, §1 (words beginning with “for the following objects and purposes”), 31 Stat. 662.
+June 6, 1900, ch. 806, §1 (words beginning with "for the following objects and purposes"), 31 Stat. 662.
 
-In clause (2), the words “that are donated to, or acquired by, the corporation” are substituted for “as may be donated to said association or acquired by purchase\[,\] bequest, or other lawful means” to eliminate unnecessary words.
+In clause (2), the words "that are donated to, or acquired by, the corporation" are substituted for "as may be donated to said association or acquired by purchase\[,\] bequest, or other lawful means" to eliminate unnecessary words.
 

@@ -31,7 +31,7 @@ A prior part I consisted of sections 5601 to 5650, prior to the general revision
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–369, div. A, title IV, §454(c)(11)(B), (12)(C), July 18, 1984, 98 Stat. 822, struck out “stamps,” in item 5604, and substituted “closed” for “stamped” in item 5613.
+<b>1984</b>—Pub. L. 98–369, div. A, title IV, §454(c)(11)(B), (12)(C), July 18, 1984, 98 Stat. 822, struck out "stamps," in item 5604, and substituted "closed" for "stamped" in item 5613.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

@@ -2,9 +2,9 @@
 
 For purposes of this chapter—
 
-&emsp;(1) The term “agreement” includes any amendment to, or extension of, any agreement under this chapter that enters into force with respect to the United States.
+&emsp;(1) The term "agreement" includes any amendment to, or extension of, any agreement under this chapter that enters into force with respect to the United States.
 
-&emsp;(2) The term “archaeological or ethnological material of the State Party” means—
+&emsp;(2) The term "archaeological or ethnological material of the State Party" means—
 
 &emsp;&emsp;(A) any object of archaeological interest;
 
@@ -28,15 +28,15 @@ For purposes of this chapter—
 
 &emsp;&emsp;&emsp;(II) important to the cultural heritage of a people because of its distinctive characteristics, comparative rarity, or its contribution to the knowledge of the origins, development, or history of that people.
 
-&emsp;(3) The term “Committee” means the Cultural Property Advisory Committee established under section 2605 of this title.
+&emsp;(3) The term "Committee" means the Cultural Property Advisory Committee established under section 2605 of this title.
 
-&emsp;(4) The term “consignee” means a consignee as defined in section 1483 <sup>1</sup> of this title.
+&emsp;(4) The term "consignee" means a consignee as defined in section 1483 <sup>1</sup> of this title.
 
-&emsp;(5) The term “Convention” means the Convention on the means of prohibiting and preventing the illicit import, export, and transfer of ownership of cultural property adopted by the General Conference of the United Nations Educational, Scientific, and Cultural Organization at its sixteenth session.
+&emsp;(5) The term "Convention" means the Convention on the means of prohibiting and preventing the illicit import, export, and transfer of ownership of cultural property adopted by the General Conference of the United Nations Educational, Scientific, and Cultural Organization at its sixteenth session.
 
-&emsp;(6) The term “cultural property” includes articles described in article 1(a) through (k) of the Convention whether or not any such article is specifically designated as such by any State Party for the purposes of such article.
+&emsp;(6) The term "cultural property" includes articles described in article 1(a) through (k) of the Convention whether or not any such article is specifically designated as such by any State Party for the purposes of such article.
 
-&emsp;(7) The term “designated archaeological or ethnological material” means any archaeological or ethnological material of the State Party which—
+&emsp;(7) The term "designated archaeological or ethnological material" means any archaeological or ethnological material of the State Party which—
 
 &emsp;&emsp;(A) is—
 
@@ -46,13 +46,13 @@ For purposes of this chapter—
 
 &emsp;&emsp;(B) is listed by regulation under section 2604 of this title.
 
-&emsp;(8) The term “Secretary” means the Secretary of the Treasury or his delegate.
+&emsp;(8) The term "Secretary" means the Secretary of the Treasury or his delegate.
 
-&emsp;(9) The term “State Party” means any nation which has ratified, accepted, or acceded to the Convention.
+&emsp;(9) The term "State Party" means any nation which has ratified, accepted, or acceded to the Convention.
 
-&emsp;(10) The term “United States” includes the several States, the District of Columbia, and any territory or area the foreign relations for which the United States is responsible.
+&emsp;(10) The term "United States" includes the several States, the District of Columbia, and any territory or area the foreign relations for which the United States is responsible.
 
-&emsp;(11) The term “United States citizen” means—
+&emsp;(11) The term "United States citizen" means—
 
 &emsp;&emsp;(A) any individual who is a citizen or national of the United States;
 
@@ -64,35 +64,35 @@ For purposes of this chapter—
 
 #### References in Text
 
-Section 1483 of this title, referred to in par. (4), was repealed by Pub. L. 97–446, title II, §201(c), Jan. 12, 1983, 96 Stat. 2349. Prior to repeal, section 1483 read: “For the purposes of this subtitle—
+Section 1483 of this title, referred to in par. (4), was repealed by Pub. L. 97–446, title II, §201(c), Jan. 12, 1983, 96 Stat. 2349. Prior to repeal, section 1483 read: "For the purposes of this subtitle—
 
-&emsp;“(1) All merchandise imported into the United States shall be held to be the property of the person to whom the same is consigned; and the holder of a bill of lading or the holder of an air waybill duly indorsed by the consignee therein named, or, in the case of a bill of lading if consigned to order, by the consignor, shall be deemed the consignee thereof; except that this section shall not limit in any way the rights of the consignor, as prescribed by article 12 of the Warsaw Convention (49 Stat. 3017). The underwriters of abandoned merchandise and the salvors of merchandise saved from a wreck at sea or on or along a coast of the United States may be regarded as the consignees.
+&emsp;"(1) All merchandise imported into the United States shall be held to be the property of the person to whom the same is consigned; and the holder of a bill of lading or the holder of an air waybill duly indorsed by the consignee therein named, or, in the case of a bill of lading if consigned to order, by the consignor, shall be deemed the consignee thereof; except that this section shall not limit in any way the rights of the consignor, as prescribed by article 12 of the Warsaw Convention (49 Stat. 3017). The underwriters of abandoned merchandise and the salvors of merchandise saved from a wreck at sea or on or along a coast of the United States may be regarded as the consignees.
 
-&emsp;“(2) A person making entry of merchandise under the provisions of subdivision (h) or (i) of section 1484 of this title (relating to entry on carrier's certificate and on duplicate bill of lading, respectively) shall be deemed the sole consignee thereof.”
+&emsp;"(2) A person making entry of merchandise under the provisions of subdivision (h) or (i) of section 1484 of this title (relating to entry on carrier's certificate and on duplicate bill of lading, respectively) shall be deemed the sole consignee thereof."
 
 #### Codification
 
-Section 2605 of this title, referred to in par. (3), was in original “section 206” and was translated as section2605 of this title, which is section 306 of Pub. L. 97–446, as the probable intent of Congress.
+Section 2605 of this title, referred to in par. (3), was in original "section 206" and was translated as section2605 of this title, which is section 306 of Pub. L. 97–446, as the probable intent of Congress.
 
 #### Effective Date
 
 Pub. L. 97–446, title III, §315, Jan. 12, 1983, 96 Stat. 2363, provided that:
 
-“(a)
+"(a)
 
 In General.—This title \[enacting this chapter\] shall take effect on the ninetieth day after the date of the enactment of this Act \[Jan. 12, 1983\] or on any date which the President shall prescribe and publish in the Federal Register, if such date is—
 
-&emsp;“(1) before such ninetieth day and after such date of enactment; and
+&emsp;"(1) before such ninetieth day and after such date of enactment; and
 
-&emsp;“(2) after the initial membership of the Committee is appointed.
+&emsp;"(2) after the initial membership of the Committee is appointed.
 
-“(b)
+"(b)
 
-Exception.—Notwithstanding subsection (a), the members of the Committee may be appointed in the manner provided for in section 306 \[2605 of this title\] at any time after the date of the enactment of this Act \[Jan. 12, 1983\].”
+Exception.—Notwithstanding subsection (a), the members of the Committee may be appointed in the manner provided for in section 306 \[2605 of this title\] at any time after the date of the enactment of this Act \[Jan. 12, 1983\]."
 
 #### Short Title
 
-Pub. L. 97–446, title III, §301, Jan. 12, 1983, 96 Stat. 2350, provided that: “This title \[enacting this chapter\] may be cited as the ‘Convention on Cultural Property Implementation Act’.”
+Pub. L. 97–446, title III, §301, Jan. 12, 1983, 96 Stat. 2350, provided that: "This title \[enacting this chapter\] may be cited as the 'Convention on Cultural Property Implementation Act'."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

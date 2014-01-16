@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established, within the Bureau of Diplomatic Security of the Department of State, the Visa and Passport Security Program (in this section referred to as the “Program”).
+There is established, within the Bureau of Diplomatic Security of the Department of State, the Visa and Passport Security Program (in this section referred to as the "Program").
 
 #### (b) Preparation of strategic plan
 
@@ -44,7 +44,7 @@ There is established, within the Bureau of Diplomatic Security of the Department
 
 #### (A) Analysis of methods
 
-&emsp;&emsp;Analyze, in coordination with other appropriate government agencies, methods used by terrorists to travel internationally, particularly the use of false or altered travel documents to illegally enter foreign countries and the United States, and consult with the Bureau of Consular Affairs and theSecretary of Homeland Security on recommended changes to the visa issuance process that could combat such methods, including the introduction of new technologies into such process.
+&emsp;&emsp;Analyze, in coordination with other appropriate government agencies, methods used by terrorists to travel internationally, particularly the use of false or altered travel documents to illegally enter foreign countries and the United States, and consult with the Bureau of Consular Affairs and the Secretary of Homeland Security on recommended changes to the visa issuance process that could combat such methods, including the introduction of new technologies into such process.
 
 #### (B) Identification of individuals and documents
 
@@ -70,7 +70,7 @@ Not later than 90 days after the date on which the strategy required under secti
 
 #### References in Text
 
-Section 7201, referred to in subsecs. (b)(1) and (d), is section 7201 of Pub. L. 108–458, which enacted section 1776 of Title 8, Aliens and Nationality, and provisions set out as notes under section 1776 of Title 8 and sections 403–1 and 404o of Title 50, War and National Defense. Provisions relating to the strategy mandated by section 7201 are set out as a note under section 404o of Title 50.
+Section 7201, referred to in subsecs. (b)(1) and (d), is section 7201 of Pub. L. 108–458, which enacted section 1776 of Title 8, Aliens and Nationality, and provisions set out as notes under section 1776 of Title 8 and sections 3024 and 3056 of Title 50, War and National Defense.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (b)(2)(B), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 8 of part II of the Act is classified generally to part VIII (§2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 

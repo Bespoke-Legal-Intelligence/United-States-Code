@@ -6,11 +6,11 @@ Subject to section 3779(b) of this title, the Commission shall promptly adjust a
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–261 substituted “Subject to section 3779(b) of this title, the Commission” for “The Commission” in first sentence and “by November 18, 1998” for “November 18, 1997”.
+<b>1998</b>—Pub. L. 105–261 substituted "Subject to section 3779(b) of this title, the Commission" for "The Commission" in first sentence and "by November 18, 1998" for "November 18, 1997".
 
-<b>1997</b>—Pub. L. 105–85 substituted “within one year after the date of the injury or November 18, 1997,” for “within 2 years after the date of the injury, or within 1 year after December 23, 1985,”.
+<b>1997</b>—Pub. L. 105–85 substituted "within one year after the date of the injury or November 18, 1997," for "within 2 years after the date of the injury, or within 1 year after December 23, 1985,".
 
-<b>1985</b>—Pub. L. 99–209 struck out provisions limiting the amount of the claim to $120,000, and inserted provision that no payment for damages on a claim may be madeunder this section unless the claim is filed with the Commission within 2 years after the date of the injury, or within 1 year after Dec. 23, 1985, whichever is later.
+<b>1985</b>—Pub. L. 99–209 struck out provisions limiting the amount of the claim to $120,000, and inserted provision that no payment for damages on a claim may be made under this section unless the claim is filed with the Commission within 2 years after the date of the injury, or within 1 year after Dec. 23, 1985, whichever is later.
 
 #### Effective Date of 1985 Amendment
 

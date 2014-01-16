@@ -36,7 +36,7 @@ For purposes of subsections (a) and (b)—
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “self-dealing” means any direct or indirect—
+&emsp;For purposes of this section, the term "self-dealing" means any direct or indirect—
 
 &emsp;&emsp;(A) sale or exchange, or leasing, of property between a private foundation and a disqualified person;
 
@@ -96,7 +96,7 @@ For purposes of this section—
 
 #### (1) Taxable period
 
-&emsp;The term “taxable period” means, with respect to any act of self-dealing, the period beginning with the date on which the act of self-dealing occurs and ending on the earliest of—
+&emsp;The term "taxable period" means, with respect to any act of self-dealing, the period beginning with the date on which the act of self-dealing occurs and ending on the earliest of—
 
 &emsp;&emsp;(A) the date of mailing a notice of deficiency with respect to the tax imposed by subsection (a)(1) under section 6212,
 
@@ -106,7 +106,7 @@ For purposes of this section—
 
 #### (2) Amount involved
 
-&emsp;The term “amount involved” means, with respect to any act of self-dealing, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value of the other property received; except that, in the case of services described in subsection (d)(2)(E), the amount involved shall be only the excess compensation. For purposes of the preceding sentence, the fair market value—
+&emsp;The term "amount involved" means, with respect to any act of self-dealing, the greater of the amount of money and the fair market value of the other property given or the amount of money and the fair market value of the other property received; except that, in the case of services described in subsection (d)(2)(E), the amount involved shall be only the excess compensation. For purposes of the preceding sentence, the fair market value—
 
 &emsp;&emsp;(A) in the case of the taxes imposed by subsection (a), shall be determined as of the date on which the act of self-dealing occurs; and
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 #### (3) Correction
 
-&emsp;The terms “correction” and “correct” mean, with respect to any act of self-dealing, undoing the transaction to the extent possible, but in any case placing the private foundation in a financial position not worse than that in which it would be if the disqualified person were dealing under the highest fiduciary standards.
+&emsp;The terms "correction" and "correct" mean, with respect to any act of self-dealing, undoing the transaction to the extent possible, but in any case placing the private foundation in a financial position not worse than that in which it would be if the disqualified person were dealing under the highest fiduciary standards.
 
 (Added Pub. L. 91–172, title I, §101(b), Dec. 30, 1969, 83 Stat. 499; amended Pub. L. 94–455, title XIX, §§1901(b)(8)(H), 1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1795, 1834; Pub. L. 96–596, §2(a)(1)(A), (B), (2)(A), (3)(A), Dec. 24, 1980, 94 Stat. 3469, 3471; Pub. L. 96–608, §5, Dec. 28, 1980, 94 Stat. 3553; Pub. L. 99–234, title I, §107(c), Jan. 2, 1986, 99 Stat. 1759; Pub. L. 99–514, title I, §122(a)(2)(A), title XVIII, §1812(b)(1), Oct. 22, 1986, 100 Stat. 2110, 2833; Pub. L. 100–647, title I, §1001(d)(1)(A), Nov. 10, 1988, 102 Stat. 3350; Pub. L. 109–280, title XII, §1212(a)(1), (2), Aug. 17, 2006, 120 Stat. 1074.)
 
@@ -128,37 +128,37 @@ Section 1212(a)(1), (2) of Pub. L. 109–280, which directed the amendment of se
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, §1212(a)(1)(A), substituted “10 percent” for “5 percent”. See Codification note above.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–280, §1212(a)(1)(A), substituted "10 percent" for "5 percent". See Codification note above.
 
-Subsec. (a)(2). Pub. L. 109–280, §1212(a)(1)(B), substituted “5 percent” for “2½ percent”. See Codification note above.
+Subsec. (a)(2). Pub. L. 109–280, §1212(a)(1)(B), substituted "5 percent" for "2½ percent". See Codification note above.
 
-Subsec. (c)(2). Pub. L. 109–280, §1212(a)(2), substituted “$20,000” for “$10,000” wherever appearing in heading and text. See Codification note above.
+Subsec. (c)(2). Pub. L. 109–280, §1212(a)(2), substituted "$20,000" for "$10,000" wherever appearing in heading and text. See Codification note above.
 
-<b>1988</b>—Subsec. (d)(2)(G)(ii). Pub. L. 100–647 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “scholarships and fellowship grants which are subject to the provisions of section 117(a) and are to be used for study at an educational organization described in section 170(b)(1)(A)(ii),”.
+<b>1988</b>—Subsec. (d)(2)(G)(ii). Pub. L. 100–647 amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "scholarships and fellowship grants which are subject to the provisions of section 117(a) and are to be used for study at an educational organization described in section 170(b)(1)(A)(ii),".
 
-<b>1986</b>—Subsec. (d)(2)(B). Pub. L. 99–514, §1812(b)(1), inserted “(determined without regard to section 7872)” after “without interest or other charge”.
+<b>1986</b>—Subsec. (d)(2)(B). Pub. L. 99–514, §1812(b)(1), inserted "(determined without regard to section 7872)" after "without interest or other charge".
 
-Subsec. (d)(2)(G)(i). Pub. L. 99–514, §122(a)(2)(A), inserted “(without regard to paragraph (3) thereof)” after “section 74(b)”.
+Subsec. (d)(2)(G)(i). Pub. L. 99–514, §122(a)(2)(A), inserted "(without regard to paragraph (3) thereof)" after "section 74(b)".
 
-Subsec. (d)(2)(G)(vii). Pub. L. 99–234 substituted “5702” for “5702(a)”.
+Subsec. (d)(2)(G)(vii). Pub. L. 99–234 substituted "5702" for "5702(a)".
 
-<b>1980</b>—Subsec. (b)(1). Pub. L. 96–596, §2(a)(1)(A), substituted “taxable period” for “correction period”.
+<b>1980</b>—Subsec. (b)(1). Pub. L. 96–596, §2(a)(1)(A), substituted "taxable period" for "correction period".
 
 Subsec. (d)(2)(H). Pub. L. 96–608 added subpar. (H).
 
 Subsec. (e)(1)(B), (C). Pub. L. 96–596, §2(a)(2)(A), added subpar. (B) and redesignated former subpar. (B) as (C).
 
-Subsec. (e)(2)(B). Pub. L. 96–596, §2(a)(1)(B), substituted “taxable period” for “correction period”.
+Subsec. (e)(2)(B). Pub. L. 96–596, §2(a)(1)(B), substituted "taxable period" for "correction period".
 
 Subsec. (e)(4). Pub. L. 96–596, §2(a)(3)(A), struck out par. (4) which defined correction period, with respect to any act of self-dealing, as the period beginning with the date on which the act of self-dealing occurs and ending 90 days after the date of mailing of a notice of deficiency with respect to the tax imposed by subsec. (b)(1) of this section under section 6212 of this title, extended by any period in which the deficiency cannot be assessed under section 6213(a) of this title and any other period which the Secretary determines is reasonable and necessary to bring about correction of the act of self-dealing.
 
-<b>1976</b>—Subsec. (d)(2)(G)(ii). Pub. L. 94–455, §1901(b)(8)(H), substituted “educational organization described in section 170(b)(1)(A)(ii)” for “educational institution described in section 151(e)(4)” after “study at an”.
+<b>1976</b>—Subsec. (d)(2)(G)(ii). Pub. L. 94–455, §1901(b)(8)(H), substituted "educational organization described in section 170(b)(1)(A)(ii)" for "educational institution described in section 151(e)(4)" after "study at an".
 
-Subsec. (e)(4). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (e)(4). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title XII, §1212(f), Aug. 17, 2006, 120 Stat. 1075, provided that: “The amendments made by this section \[amending this section and sections 4942 to 4945 and 4958 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 17, 2006\].”
+Pub. L. 109–280, title XII, §1212(f), Aug. 17, 2006, 120 Stat. 1075, provided that: "The amendments made by this section \[amending this section and sections 4942 to 4945 and 4958 of this title\] shall apply to taxable years beginning after the date of the enactment of this Act \[Aug. 17, 2006\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -182,27 +182,27 @@ Exceptions to applicability of section, see section 101(l)(2) of Pub. L. 91–17
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Tax on Self-Dealing Not To Apply to Certain Stock Purchases
 
 Pub. L. 98–369, div. A, title III, §312, July 18, 1984, 98 Stat. 786, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(a)
+"(a)
 
 General Rule.—Section 4941 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (relating to taxes on self-dealing) shall not apply to the purchase during 1978 of stock from a private foundation (and to any note issued in connection with such purchase) if—
 
-&emsp;“(1) consideration for such purchase equaled or exceeded the fair market value of such stock,
+&emsp;"(1) consideration for such purchase equaled or exceeded the fair market value of such stock,
 
-&emsp;“(2) the purchaser of such stock did not make any contribution to such foundation at any time during the 5-year period ending on the date of such purchase,
+&emsp;"(2) the purchaser of such stock did not make any contribution to such foundation at any time during the 5-year period ending on the date of such purchase,
 
-&emsp;“(3) the aggregate contributions to such foundation by the purchaser before such date were less than $10,000 and less than 2 percent of the total contributions received by the foundation as of such date, and
+&emsp;"(3) the aggregate contributions to such foundation by the purchaser before such date were less than $10,000 and less than 2 percent of the total contributions received by the foundation as of such date, and
 
-&emsp;“(4) such purchase was pursuant to the settlement of litigation involving the purchaser.
+&emsp;"(4) such purchase was pursuant to the settlement of litigation involving the purchaser.
 
-“(b)
+"(b)
 
-Statute of Limitations.—If credit or refund of any overpayment of tax resulting from subsection (a) is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act \[July 18, 1984\] by the operation of any law or rule of law, refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period.”
+Statute of Limitations.—If credit or refund of any overpayment of tax resulting from subsection (a) is prevented at any time before the close of the 1-year period beginning on the date of the enactment of this Act \[July 18, 1984\] by the operation of any law or rule of law, refund or credit of such overpayment may, nevertheless, be made or allowed if claim therefor is filed before the close of such 1-year period."
 
 #### Applicability to Determination of Status as Substantial Contributor for Purposes of Taxes on Self-Dealing of Contributions Made Prior to October 9, 1969
 

@@ -16,7 +16,7 @@ For purposes of this section:
 
 #### (1) Displaced homemaker
 
-&emsp;The term “displaced homemaker” means an individual who—
+&emsp;The term "displaced homemaker" means an individual who—
 
 &emsp;&emsp;(A) is an adult;
 
@@ -26,11 +26,11 @@ For purposes of this section:
 
 #### (2) First-time homebuyer
 
-&emsp;The term “first-time homebuyer” means an individual who has never, or has not during a specified period of time, had any present ownership interest in a principal residence.
+&emsp;The term "first-time homebuyer" means an individual who has never, or has not during a specified period of time, had any present ownership interest in a principal residence.
 
 #### (3) Single parent
 
-&emsp;The term “single parent” means an individual who—
+&emsp;The term "single parent" means an individual who—
 
 &emsp;&emsp;(A) is unmarried or legally separated from a spouse; and
 

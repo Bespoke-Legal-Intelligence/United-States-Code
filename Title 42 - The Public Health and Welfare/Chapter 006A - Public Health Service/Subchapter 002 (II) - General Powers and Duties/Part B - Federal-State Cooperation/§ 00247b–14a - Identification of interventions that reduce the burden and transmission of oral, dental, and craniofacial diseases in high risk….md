@@ -24,5 +24,5 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 Section was enacted as part of the Children's Health Act of 2000, and not as part of the Public Health Service Act which comprises this chapter.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "of".</i>
 

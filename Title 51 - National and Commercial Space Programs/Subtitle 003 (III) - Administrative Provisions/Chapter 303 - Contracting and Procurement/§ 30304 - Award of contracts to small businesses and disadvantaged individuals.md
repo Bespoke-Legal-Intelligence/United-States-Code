@@ -18,9 +18,9 @@ Historical and Revision Notes
 
 42 U.S.C. 2473b (1st par.).
 
-Pub. L. 101–144, title III, (1st par. under heading “Small and Disadvantaged Business”, at 103 Stat. 863), Nov. 9, 1989, 103 Stat. 863; Pub. L. 109–155, title VI, §611, Dec. 30, 2005, 119 Stat. 2932.
+Pub. L. 101–144, title III, (1st par. under heading "Small and Disadvantaged Business", at 103 Stat. 863), Nov. 9, 1989, 103 Stat. 863; Pub. L. 109–155, title VI, §611, Dec. 30, 2005, 119 Stat. 2932.
 
-The word “Alaska” is substituted for “Alaskan” in the phrase “Alaska Native-serving institutions (as defined in section 317(b)(2) of that Act (20 U.S.C. 1059d(b)(2)))” for consistency with the term defined in section 317(b)(2) of the Higher Education Act of 1965 (20 U.S.C. 1059d(b)(2)).
+The word "Alaska" is substituted for "Alaskan" in the phrase "Alaska Native-serving institutions (as defined in section 317(b)(2) of that Act (20 U.S.C. 1059d(b)(2)))" for consistency with the term defined in section 317(b)(2) of the Higher Education Act of 1965 (20 U.S.C. 1059d(b)(2)).
 
 #### References in Text
 

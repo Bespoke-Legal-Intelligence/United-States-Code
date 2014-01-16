@@ -16,9 +16,9 @@ A prior section 5368, act Aug. 16, 1954, ch. 736, 68A Stat. 666, consisted of pr
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 substituted “Gauging and marking” for “Gauging, marking, and stamping” in section catchline, substituted “Marking” for “Stamping” in heading for subsec. (b), and, in text of subsec. (b), substituted “marks and labels” for “marks, labels, and stamps” and struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 substituted "Gauging and marking" for "Gauging, marking, and stamping" in section catchline, substituted "Marking" for "Stamping" in heading for subsec. (b), and, in text of subsec. (b), substituted "marks and labels" for "marks, labels, and stamps" and struck out "or his delegate" after "Secretary" wherever appearing.
 
 #### Effective Date of 1976 Amendment
 
-Amendment by section 1905(a)(20) of Pub. L. 94–455 effective on first day of first month which begins morethan 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
+Amendment by section 1905(a)(20) of Pub. L. 94–455 effective on first day of first month which begins more than 90 days after Oct. 4, 1976, see section 1905(d) of Pub. L. 94–455, set out as a note under section 5005 of this title.
 

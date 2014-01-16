@@ -12,19 +12,19 @@ The Assistant Secretary shall carry out a program for making grants to States un
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–365, §313(1), substituted “projects that—” for “projects—” in introductory provisions.
+<b>2006</b>—Pub. L. 109–365, §313(1), substituted "projects that—" for "projects—" in introductory provisions.
 
-Par. (1). Pub. L. 109–365, §313(2), struck out “which,” before “5 or more days”.
+Par. (1). Pub. L. 109–365, §313(2), struck out "which," before "5 or more days".
 
-Par. (2). Pub. L. 109–365, §313(3), struck out “which” before “shall be provided”.
+Par. (2). Pub. L. 109–365, §313(3), struck out "which" before "shall be provided".
 
-Par. (3). Pub. L. 109–365, §313(4), added par. (3) and struck out former par. (3) which read as follows: “which may include nutrition education services and other appropriate nutrition services for older individuals.”
+Par. (3). Pub. L. 109–365, §313(4), added par. (3) and struck out former par. (3) which read as follows: "which may include nutrition education services and other appropriate nutrition services for older individuals."
 
-<b>2000</b>—Par. (2). Pub. L. 106–501 inserted “, including adult day care facilities and multigenerational meal sites” before semicolon.
+<b>2000</b>—Par. (2). Pub. L. 106–501 inserted ", including adult day care facilities and multigenerational meal sites" before semicolon.
 
-<b>1993</b>—Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” in introductory provisions and par. (1).
+<b>1993</b>—Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner" in introductory provisions and par. (1).
 
-<b>1992</b>—Par. (1). Pub. L. 102–375 inserted “(except in a rural area where such frequency is not feasible (as defined by the Commissioner by regulation) and a lesser frequency is approved by the State agency)” after “week” and struck out before semicolon at end “, each of which assures a minimum of one-third of the daily recommended dietary allowances as established by the Food and Nutrition Board of the National Academy of Sciences-National Research Council”.
+<b>1992</b>—Par. (1). Pub. L. 102–375 inserted "(except in a rural area where such frequency is not feasible (as defined by the Commissioner by regulation) and a lesser frequency is approved by the State agency)" after "week" and struck out before semicolon at end ", each of which assures a minimum of one-third of the daily recommended dietary allowances as established by the Food and Nutrition Board of the National Academy of Sciences-National Research Council".
 
 #### Effective Date
 

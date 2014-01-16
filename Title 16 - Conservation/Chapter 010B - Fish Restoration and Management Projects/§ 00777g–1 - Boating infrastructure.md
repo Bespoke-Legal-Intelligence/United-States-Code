@@ -30,15 +30,15 @@ Within 6 months after submitting a survey to the Secretary under section 777g(g)
 
 For purposes of this section, the term—
 
-&emsp;(1) “nontrailerable recreational vessel” means a recreational vessel 26 feet in length or longer—
+&emsp;(1) "nontrailerable recreational vessel" means a recreational vessel 26 feet in length or longer—
 
 &emsp;&emsp;(A) operated primarily for pleasure; or
 
 &emsp;&emsp;(B) leased, rented, or chartered to another for the latter's pleasure;
 
-&emsp;(2) “facilities for transient nontrailerable recreational vessels” includes mooring buoys, day-docks, navigational aids, seasonal slips, safe harbors, or similar structures located on navigable waters, that are available to the general public (as determined by the Secretary of the Interior) and designed for temporary use by nontrailerable recreational vessels; and
+&emsp;(2) "facilities for transient nontrailerable recreational vessels" includes mooring buoys, day-docks, navigational aids, seasonal slips, safe harbors, or similar structures located on navigable waters, that are available to the general public (as determined by the Secretary of the Interior) and designed for temporary use by nontrailerable recreational vessels; and
 
-&emsp;(3) “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
+&emsp;(3) "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands.
 
 (Pub. L. 105–178, title VII, §7404, June 9, 1998, 112 Stat. 486; Pub. L. 105–206, title IX, §9012(c), July 22, 1998, 112 Stat. 864; Pub. L. 109–59, title X, §10115, Aug. 10, 2005, 119 Stat. 1928.)
 
@@ -50,7 +50,7 @@ Section was enacted as part of the Sportfishing and Boating Safety Act of 1998, 
 
 #### Amendments
 
-<b>2005</b>—Subsec. (d)(1). Pub. L. 109–59 substituted “section 777c(a)(4) of this title” for “section 777c(b)(3)(B) of this title”.
+<b>2005</b>—Subsec. (d)(1). Pub. L. 109–59 substituted "section 777c(a)(4) of this title" for "section 777c(b)(3)(B) of this title".
 
 <b>1998</b>—Subsec. (b). Pub. L. 105–206, §9012(c), made a technical amendment to directory language of Pub. L. 105–178, §7404(b). See Codification note above.
 

@@ -14,7 +14,7 @@ The Food for Peace Act, as amended, referred to in subsec. (a), is act July 10, 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–246 substituted “Food for Peace Act” for “Agricultural Trade Development and Assistance Act of 1954”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–246 substituted "Food for Peace Act" for "Agricultural Trade Development and Assistance Act of 1954".
 
 <b>1974</b>—Subsec. (b). Pub. L. 93–559 repealed subsec. (b) which provided for Presidential reports to Congress respecting sales and guaranties to less developed countries.
 
@@ -24,5 +24,5 @@ Amendment by Pub. L. 110–246 effective May 22, 2008, see section 4(b) of Pub. 
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a) of this section delegated to Secretary of State by section 1(i) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+For delegation of functions of the President under subsec. (a) of this section, see section 1(i) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16130, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 

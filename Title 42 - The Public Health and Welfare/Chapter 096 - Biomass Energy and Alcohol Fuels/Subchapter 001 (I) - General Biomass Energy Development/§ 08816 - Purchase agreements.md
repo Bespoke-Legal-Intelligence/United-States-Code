@@ -54,5 +54,5 @@ If the Secretary concerned determines, in the discretion of the Secretary, that�
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (h)(2), was in the original “this title”, meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 8801 of this title and Tables.
+This chapter, referred to in subsecs. (b) and (h)(2), was in the original "this title", meaning title II of Pub. L. 96–294, June 30, 1980, 94 Stat. 683, known as the Biomass Energy and Alcohol Fuels Act of 1980, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 8801 of this title and Tables.
 

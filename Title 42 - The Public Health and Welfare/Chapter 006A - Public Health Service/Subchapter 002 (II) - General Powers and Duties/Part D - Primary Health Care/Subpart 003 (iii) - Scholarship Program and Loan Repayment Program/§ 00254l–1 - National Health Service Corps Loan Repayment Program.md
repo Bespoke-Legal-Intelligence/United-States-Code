@@ -94,7 +94,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;&emsp;(iii) in the case of an individual described in subsection (b)(1)(C) of this section, while enrolled in such course of study or training, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study or training); and
 
-&emsp;&emsp;&emsp;(iv) to serve for a time period (hereinafter in this subpart referred to as the “period of obligated service”) equal to 2 years or such longer period as the individual may agree to, as a provider of primary health services in a health professional shortage area (designated under section 254e of this title) to which such individual is assigned by the Secretary as a member of the Corps or released under section 254n of this title;
+&emsp;&emsp;&emsp;(iv) to serve for a time period (hereinafter in this subpart referred to as the "period of obligated service") equal to 2 years or such longer period as the individual may agree to, as a provider of primary health services in a health professional shortage area (designated under section 254e of this title) to which such individual is assigned by the Secretary as a member of the Corps or released under section 254n of this title;
 
 &emsp;(2) a provision permitting the Secretary to extend for such longer additional periods, as the individual may agree to, the period of obligated service agreed to by the individual under paragraph (1)(B)(iv), including extensions resulting in an aggregate period of obligated service in excess of 4 years;
 
@@ -108,7 +108,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 #### (1) In general
 
-&emsp;A loan repayment provided for an individual under a written contract under the Loan Repayment Program shall consist of payment, in accordance with paragraph (2), on behalf of the individual of the principal, interest, and related expenses on government and commercialloans received by the individual regarding the undergraduate or graduate education of the individual (or both), which loans were made for—
+&emsp;A loan repayment provided for an individual under a written contract under the Loan Repayment Program shall consist of payment, in accordance with paragraph (2), on behalf of the individual of the principal, interest, and related expenses on government and commercial loans received by the individual regarding the undergraduate or graduate education of the individual (or both), which loans were made for—
 
 &emsp;&emsp;(A) tuition expenses;
 
@@ -156,53 +156,53 @@ A prior section 338B of act July 1, 1944, was renumbered section 338C by section
 
 #### Amendments
 
-<b>2010</b>—Subsec. (g)(2)(A). Pub. L. 111–148 substituted “$50,000, plus, beginning with fiscal year 2012, an amount determined by the Secretary on an annual basis to reflect inflation,” for “$35,000” in introductory provisions.
+<b>2010</b>—Subsec. (g)(2)(A). Pub. L. 111–148 substituted "$50,000, plus, beginning with fiscal year 2012, an amount determined by the Secretary on an annual basis to reflect inflation," for "$35,000" in introductory provisions.
 
 <b>2003</b>—Subsec. (e). Pub. L. 108–163 made technical amendment.
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–251, §310(1)(A), inserted “behavioral and mental health professionals,” after “dentists,”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–251, §310(1)(A), inserted "behavioral and mental health professionals," after "dentists,".
 
-Subsec. (a)(2). Pub. L. 107–251, §310(1)(B), struck out “(including mental health professionals)” before period at end.
+Subsec. (a)(2). Pub. L. 107–251, §310(1)(B), struck out "(including mental health professionals)" before period at end.
 
-Subsec. (b)(1)(A). Pub. L. 107–251, §310(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “must have a degree in medicine, osteopathic medicine, dentistry, or other health profession, or be certified as a nurse midwife, nurse practioner, or physician assistant;”.
+Subsec. (b)(1)(A). Pub. L. 107–251, §310(2), added subpar. (A) and struck out former subpar. (A) which read as follows: "must have a degree in medicine, osteopathic medicine, dentistry, or other health profession, or be certified as a nurse midwife, nurse practioner, or physician assistant;".
 
 Subsec. (e)(1). Pub. L. 107–251, §310(3), struck out par. (1) designation and heading.
 
 Subsec. (i). Pub. L. 107–251, §310(4), struck out subsec. (i), which required an annual report to Congress about the Loan Repayment Program.
 
-<b>1998</b>—Subsec. (b)(1)(B). Pub. L. 105–392 substituted “behavioral and mental health, or other health profession” for “or other health profession”.
+<b>1998</b>—Subsec. (b)(1)(B). Pub. L. 105–392 substituted "behavioral and mental health, or other health profession" for "or other health profession".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–597, §202(a)(1), substituted “Corps Loan Repayment Program to assure, with respect to the provision of primary health services pursuant to section 254d(a)(2) of this title—” and pars. (1) and (2) for “Corps Loan Repayment Program (hereinafter in this subpart referred to as the ‘Loan Repayment Program’) in order to assure—
+<b>1990</b>—Subsec. (a). Pub. L. 101–597, §202(a)(1), substituted "Corps Loan Repayment Program to assure, with respect to the provision of primary health services pursuant to section 254d(a)(2) of this title—" and pars. (1) and (2) for "Corps Loan Repayment Program (hereinafter in this subpart referred to as the 'Loan Repayment Program') in order to assure—
 
-&emsp;“(1) an adequate supply of trained physicians, dentists, and nurses for the Corps; and
+&emsp;"(1) an adequate supply of trained physicians, dentists, and nurses for the Corps; and
 
-&emsp;“(2) if needed by the Corps, an adequate supply of podiatrists, optometrists, pharmacists, clinical psychologists, graduates of schools of veterinary medicine, graduates of schools of public health, graduates of programs in health administration, graduates of programs for the training of physician assistants, expanded function dental auxiliaries, and nurse practitioners (as defined in section 296m of this title), and other health professionals.”
+&emsp;"(2) if needed by the Corps, an adequate supply of podiatrists, optometrists, pharmacists, clinical psychologists, graduates of schools of veterinary medicine, graduates of schools of public health, graduates of programs in health administration, graduates of programs for the training of physician assistants, expanded function dental auxiliaries, and nurse practitioners (as defined in section 296m of this title), and other health professionals."
 
 Subsec. (b)(1). Pub. L. 101–597, §202(b)(1)(A), amended par. (1) generally. Prior to amendment, par. (1) read as follows:
 
-“(A) be enrolled—
+"(A) be enrolled—
 
-&emsp;“(i) as a full-time student—
+&emsp;"(i) as a full-time student—
 
-&emsp;&emsp;“(I) in an accredited (as determined by the Secretary) educational institution in a State; and
+&emsp;&emsp;"(I) in an accredited (as determined by the Secretary) educational institution in a State; and
 
-&emsp;&emsp;“(II) in the final year of a course of study or program, offered by such institution and approved by the Secretary, leading to a degree in medicine, osteopathic medicine, dentistry, or other health profession; or
+&emsp;&emsp;"(II) in the final year of a course of study or program, offered by such institution and approved by the Secretary, leading to a degree in medicine, osteopathic medicine, dentistry, or other health profession; or
 
-&emsp;“(ii) in an approved graduate training program in medicine, osteopathic medicine, dentistry, or other health profession; or
+&emsp;"(ii) in an approved graduate training program in medicine, osteopathic medicine, dentistry, or other health profession; or
 
-“(B) have—
+"(B) have—
 
-&emsp;“(i) a degree in medicine, osteopathic medicine, dentistry, or other health profession;
+&emsp;"(i) a degree in medicine, osteopathic medicine, dentistry, or other health profession;
 
-&emsp;“(ii) completed an approved graduate training program in medicine, osteopathic medicine, dentistry, or other health profession in a State, except that the Secretary may waive the completion requirement of this clause for good cause; and
+&emsp;"(ii) completed an approved graduate training program in medicine, osteopathic medicine, dentistry, or other health profession in a State, except that the Secretary may waive the completion requirement of this clause for good cause; and
 
-&emsp;“(iii) a license to practice medicine, osteopathic medicine, dentistry, or other health profession in a State;”.
+&emsp;"(iii) a license to practice medicine, osteopathic medicine, dentistry, or other health profession in a State;".
 
-Subsec. (b)(2) to (4). Pub. L. 101–597, §202(b)(2)(A), inserted “and” at end of par. (2), added par. (3), and struck out former pars. (3) and (4) which read as follows:
+Subsec. (b)(2) to (4). Pub. L. 101–597, §202(b)(2)(A), inserted "and" at end of par. (2), added par. (3), and struck out former pars. (3) and (4) which read as follows:
 
-“(3) submit an application to participate in the Loan Repayment Program; and
+"(3) submit an application to participate in the Loan Repayment Program; and
 
-“(4) sign and submit to the Secretary, at the time of the submission of such application, a written contract (described in subsection (f) of this section) to accept repayment of educational loans and to serve (in accordance with this subpart) for the applicable period of obligated service in a health manpower shortage area.”
+"(4) sign and submit to the Secretary, at the time of the submission of such application, a written contract (described in subsection (f) of this section) to accept repayment of educational loans and to serve (in accordance with this subpart) for the applicable period of obligated service in a health manpower shortage area."
 
 Subsec. (c)(4). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in subpars. (B) and (C).
 
@@ -210,49 +210,49 @@ Pub. L. 101–597, §202(c), added par. (4).
 
 Subsec. (d). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (2)(B).
 
-Pub. L. 101–597, §202(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “In determining which applications under the Loan Repayment Program to approve (and which contracts to accept), the Secretary shall give priority to applications made by—
+Pub. L. 101–597, §202(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "In determining which applications under the Loan Repayment Program to approve (and which contracts to accept), the Secretary shall give priority to applications made by—
 
-&emsp;“(1) individuals whose training is in a health profession or specialty determined by the Secretary to be needed by the Corps; and
+&emsp;"(1) individuals whose training is in a health profession or specialty determined by the Secretary to be needed by the Corps; and
 
-&emsp;“(2) individuals who are committed to service in medically underserved areas.”
+&emsp;"(2) individuals who are committed to service in medically underserved areas."
 
-Subsec. (e). Pub. L. 101–597, §202(b)(2)(B), substituted “only upon the Secretary and the individual entering into a written contract described in subsection (f) of this section.” for “only on the Secretary's approval of the individual's application submitted under subsection (b)(3) of this section and the Secretary's acceptance of the contract submitted by the individual under subsection (b)(4) of this section.” in par. (1) and struck out par. (2) which read as follows: “The Secretary shall provide written notice to an individual promptly on—
+Subsec. (e). Pub. L. 101–597, §202(b)(2)(B), substituted "only upon the Secretary and the individual entering into a written contract described in subsection (f) of this section." for "only on the Secretary's approval of the individual's application submitted under subsection (b)(3) of this section and the Secretary's acceptance of the contract submitted by the individual under subsection (b)(4) of this section." in par. (1) and struck out par. (2) which read as follows: "The Secretary shall provide written notice to an individual promptly on—
 
-&emsp;“(A) the Secretary's approving, under paragraph (1), of the individual's participation in the Loan Repayment Program; or
+&emsp;"(A) the Secretary's approving, under paragraph (1), of the individual's participation in the Loan Repayment Program; or
 
-&emsp;“(B) the Secretary's disapproving an individual's participation in such Program.”
+&emsp;"(B) the Secretary's disapproving an individual's participation in such Program."
 
-Subsec. (f)(1)(B)(ii), (iii). Pub. L. 101–597, §202(b)(1)(B), substituted “subsection (b)(1)(C)” for “subsection (b)(1)(A)”.
+Subsec. (f)(1)(B)(ii), (iii). Pub. L. 101–597, §202(b)(1)(B), substituted "subsection (b)(1)(C)" for "subsection (b)(1)(A)".
 
 Subsec. (f)(1)(B)(iv). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area.
 
-Pub. L. 101–597, §202(a)(2), inserted “as a provider of primary health services” before “in a health”.
+Pub. L. 101–597, §202(a)(2), inserted "as a provider of primary health services" before "in a health".
 
-Subsec. (f)(2). Pub. L. 101–597, §202(e), inserted before semicolon at end “, including extensions resulting in an aggregate period of obligated service in excess of 4 years”.
+Subsec. (f)(2). Pub. L. 101–597, §202(e), inserted before semicolon at end ", including extensions resulting in an aggregate period of obligated service in excess of 4 years".
 
-Subsec. (g)(1). Pub. L. 101–597, §202(f)(1), inserted “regarding the undergraduate or graduate education of the individual (or both), which loans were made” after “loans received by the individual”.
+Subsec. (g)(1). Pub. L. 101–597, §202(f)(1), inserted "regarding the undergraduate or graduate education of the individual (or both), which loans were made" after "loans received by the individual".
 
 Subsec. (g)(2)(A). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in cls. (ii) and (iii).
 
-Pub. L. 101–597, §202(f)(2)(A), substituted “For each year” for “Except as provided in subparagraph (B) and paragraph (3), for each year” and “$35,000” for “$20,000”, inserted at end “In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—”, and added immediately thereafter cls. (i) to (iii).
+Pub. L. 101–597, §202(f)(2)(A), substituted "For each year" for "Except as provided in subparagraph (B) and paragraph (3), for each year" and "$35,000" for "$20,000", inserted at end "In making a determination of the amount to pay for a year of such service by an individual, the Secretary shall consider the extent to which each such determination—", and added immediately thereafter cls. (i) to (iii).
 
-Subsec. (g)(2)(B), (C). Pub. L. 101–597, §202(f)(2)(B), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “For each year of obligated service that an individual contracts under subsection (f) of this section to serve in the Indian Health Service, or to serve in a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act (25 U.S.C. 450f et seq.), the Secretary may pay up to $25,000 on behalf of the individual for loans described in paragraph (1).”
+Subsec. (g)(2)(B), (C). Pub. L. 101–597, §202(f)(2)(B), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: "For each year of obligated service that an individual contracts under subsection (f) of this section to serve in the Indian Health Service, or to serve in a health program or facility operated by a tribe or tribal organization under the Indian Self-Determination Act (25 U.S.C. 450f et seq.), the Secretary may pay up to $25,000 on behalf of the individual for loans described in paragraph (1)."
 
-Subsec. (g)(3). Pub. L. 101–597, §202(g)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In addition to payments made under paragraph (2), in any case in which payments on behalf of an individual under the Loan Repayment Program result in an increase in Federal, State, or local income tax liability for such individual, the Secretary may, on the request of such individual, make payments to such individual in a reasonable amount, as determined by the Secretary, to reimburse such individual for all or part of the increased tax liability of the individual.”
+Subsec. (g)(3). Pub. L. 101–597, §202(g)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "In addition to payments made under paragraph (2), in any case in which payments on behalf of an individual under the Loan Repayment Program result in an increase in Federal, State, or local income tax liability for such individual, the Secretary may, on the request of such individual, make payments to such individual in a reasonable amount, as determined by the Secretary, to reimburse such individual for all or part of the increased tax liability of the individual."
 
 Subsec. (i). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in par. (8).
 
-Pub. L. 101–597, §202(h), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: “The Secretary shall, not later than March 1 of each year, submit to the Congress a report specifying—
+Pub. L. 101–597, §202(h), amended subsec. (i) generally. Prior to amendment, subsec. (i) read as follows: "The Secretary shall, not later than March 1 of each year, submit to the Congress a report specifying—
 
-&emsp;“(1) the number, and type of health profession training, of individuals receiving loan payments under the Loan Repayment Program;
+&emsp;"(1) the number, and type of health profession training, of individuals receiving loan payments under the Loan Repayment Program;
 
-&emsp;“(2) the educational institution at which such individuals are receiving their training;
+&emsp;"(2) the educational institution at which such individuals are receiving their training;
 
-&emsp;“(3) the number of applications filed under this section in the school year beginning in such year and in prior school years; and
+&emsp;"(3) the number of applications filed under this section in the school year beginning in such year and in prior school years; and
 
-&emsp;“(4) the amount of loan payments made in the year reported on.”
+&emsp;"(4) the amount of loan payments made in the year reported on."
 
-<b>1988</b>—Subsec. (b)(1). Pub. L. 100–607 substituted “osteopathic medicine” for “osteopathy” wherever appearing.
+<b>1988</b>—Subsec. (b)(1). Pub. L. 100–607 substituted "osteopathic medicine" for "osteopathy" wherever appearing.
 
 #### Effective Date of 2003 Amendment
 
@@ -260,9 +260,9 @@ Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–597, title II, §202(g)(2), Nov. 16, 1990, 104 Stat. 3026, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to contracts under section 338B of the Public Health Service Act \[this section\] (relating to service in the National Health Service Corps) that are entered into on or after the effective date of this Act \[Nov. 16, 1990\].”
+Pub. L. 101–597, title II, §202(g)(2), Nov. 16, 1990, 104 Stat. 3026, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply only with respect to contracts under section 338B of the Public Health Service Act \[42 U.S.C. 254l–1\] (relating to service in the National Health Service Corps) that are entered into on or after the effective date of this Act \[Nov. 16, 1990\]."
 
 #### Regulations
 
-Pub. L. 100–177, title II, §205, Dec. 1, 1987, 101 Stat. 1003, provided that: “Not later than 180 days after the effective date of the amendments made by this title \[Dec. 21, 1987\], the Secretary of Health and Human Services shall issue regulations for the loan repayment programs established by the amendments \[enacting this section and sections 254q and 254q–1 of this title, amending sections 242a, 254d, 254g, 254h–1, and 254o of this title, and repealing former section 254q of this title\].”
+Pub. L. 100–177, title II, §205, Dec. 1, 1987, 101 Stat. 1003, provided that: "Not later than 180 days after the effective date of the amendments made by this title \[Dec. 21, 1987\], the Secretary of Health and Human Services shall issue regulations for the loan repayment programs established by the amendments \[enacting this section and sections 254q and 254q–1 of this title, amending sections 242a, 254d, 254g, 254h–1, and 254o of this title, and repealing former section 254q of this title\]."
 

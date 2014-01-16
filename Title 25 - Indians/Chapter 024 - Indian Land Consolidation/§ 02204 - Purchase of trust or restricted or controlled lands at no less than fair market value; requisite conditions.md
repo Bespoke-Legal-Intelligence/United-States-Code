@@ -18,7 +18,7 @@
 
 #### (B) Interest owned by tribe
 
-&emsp;&emsp;Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under subparagraph (A) has been met.
+&emsp;&emsp;Interests owned by an Indian tribe in a tract may be included in the computation ofthe percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under subparagraph (A) has been met.
 
 #### (b) Conditions applicable to purchase
 
@@ -138,7 +138,7 @@ Subsection (a) of this section applies on the condition that—
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;After reviewing and considering comments or information timely submitted by any owner of an interest in the parcel in response to the notice required under subparagraph (F), the Secretary may, consistent with the provisions of this chapter for establishing fair market value—
+&emsp;&emsp;&emsp;After reviewing and considering comments or information timely submitted byany owner of an interest in the parcel in response to the notice required under subparagraph (F), the Secretary may, consistent with the provisions of this chapter for establishing fair market value—
 
 &emsp;&emsp;&emsp;&emsp;(I) order a new appraisal; or
 
@@ -254,7 +254,7 @@ Subsection (a) of this section applies on the condition that—
 
 &emsp;&emsp;&emsp;(i) commence a civil action in the United States district court for the district in which the parcel of land is located; and
 
-&emsp;&emsp;&emsp;(ii) request that the court issue an order for ejectment or any other appropriateremedy necessary for the partition of the land by sale.
+&emsp;&emsp;&emsp;(ii) request that the court issue an order for ejectment or any other appropriate remedy necessary for the partition of the land by sale.
 
 #### (B) Federal role
 
@@ -280,57 +280,57 @@ Subsection (a) of this section applies on the condition that—
 
 &emsp;The Secretary is authorized to adopt such regulations as may be necessary to implement the provisions of this subsection. Such regulations may include provisions for giving notice of sales to prospective purchasers eligible to submit bids at sales conducted under paragraph (2)(I).
 
-(Pub. L. 97–459, title II, §205, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, §1(2), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 106–462, title I, §103(2), Nov. 7, 2000, 114 Stat. 1993; Pub. L. 108–374, §§4, 6(a)(1), Oct. 27, 2004, 118 Stat. 1787, 1797; Pub. L. 109–157, §§2, 8(a)(1), Dec. 30, 2005, 119 Stat. 2949, 2952; Pub. L. 110–453, title II, §207(b), Dec. 2, 2008, 122 Stat. 5030.)
+(Pub. L. 97–459, title II, §205, Jan. 12, 1983, 96 Stat. 2517; Pub. L. 98–608, §1(2), Oct. 30, 1984, 98 Stat. 3171; Pub. L. 106–462, title I, §103(2), Nov. 7, 2000, 114 Stat. 1993; Pub. L. 108–374, §§4, 6(a)(1),Oct. 27, 2004, 118 Stat. 1787, 1797; Pub. L. 109–157, §§2, 8(a)(1), Dec. 30, 2005, 119 Stat. 2949, 2952; Pub. L. 110–453, title II, §207(b), Dec. 2, 2008, 122 Stat. 5030.)
 
 #### References in Text
 
 Section 8(a)(4) of the American Indian Probate Reform Act of 2004, referred to in subsec. (c)(2)(A), is section 8(a)(4) of Pub. L. 108–374, which is set out as a note under section 2201 of this title.
 
-This chapter, referred to in subsec. (c)(2)(B), (E), (G)(i), was in the original “this Act”, which was translated as reading “this title”, meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (c)(2)(B), (E), (G)(i), was in the original "this Act", which was translated as reading "this title", meaning title II of Pub. L. 97–459, to reflect the probable intent of Congress.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(2)(D)(i). Pub. L. 110–453 substituted “by the Secretary” for “by Secretary” in concluding provisions.
+<b>2008</b>—Subsec. (c)(2)(D)(i). Pub. L. 110–453 substituted "by the Secretary" for "by Secretary" in concluding provisions.
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–157, §2(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interests in any tract of trust or restricted land within that tribe's reservation or otherwise subject to that tribe's jurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.”
+<b>2005</b>—Subsec. (a). Pub. L. 109–157, §2(1), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: "Subject to subsection (b) of this section, any Indian tribe may purchase at no less than the fair market value part or all of the interests in any tract of trust or restricted land within that tribe's reservation or otherwise subject to that tribe's jurisdiction with the consent of the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of undivided interests equal to at least 50 percent of the undivided interest in such tract. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met."
 
 Subsec. (c). Pub. L. 109–157, §2(2), redesignated subsec. (d) as (c). Prior to amendment, no subsec. (c) had been enacted.
 
-Subsec. (c)(2)(G)(ii)(I). Pub. L. 109–157, §2(3)(A)(i), substituted “a value of the land that is equal to or greater than that of the earlier appraisal” for “a higher valuation of the land”.
+Subsec. (c)(2)(G)(ii)(I). Pub. L. 109–157, §2(3)(A)(i), substituted "a value of the land that is equal to or greater than that of the earlier appraisal" for "a higher valuation of the land".
 
-Subsec. (c)(2)(I)(iii)(III). Pub. L. 109–157, §2(3)(A)(ii)(I), inserted “(if any)” after “this section”.
+Subsec. (c)(2)(I)(iii)(III). Pub. L. 109–157, §2(3)(A)(ii)(I), inserted "(if any)" after "this section".
 
-Subsec. (c)(2)(I)(iii)(IV)(aa). Pub. L. 109–157, §2(3)(A)(ii)(II)(aa), substituted “more” for “less”.
+Subsec. (c)(2)(I)(iii)(IV)(aa). Pub. L. 109–157, §2(3)(A)(ii)(II)(aa), substituted "more" for "less".
 
-Subsec. (c)(2)(I)(iii)(IV)(bb). Pub. L. 109–157, §2(3)(A)(ii)(II)(bb), substituted “under paragraph (5)” for “to implement this section”.
+Subsec. (c)(2)(I)(iii)(IV)(bb). Pub. L. 109–157, §2(3)(A)(ii)(II)(bb), substituted "under paragraph (5)" for "to implement this section".
 
-Subsec. (c)(5). Pub. L. 109–157, §2(3)(B), in second sentence, substituted “may” for “shall”.
+Subsec. (c)(5). Pub. L. 109–157, §2(3)(B), in second sentence, substituted "may" for "shall".
 
 Subsec. (d). Pub. L. 109–157, §8(a)(1), amended directory language of Pub. L. 108–374, §4. See 2004 Amendment note below.
 
 Pub. L. 109–157, §2(2), redesignated subsec. (d) as (c).
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–374, §6(a)(1), in second sentence, substituted “undivided interests equal to at least 50 percent of the undivided interest” for “over 50 per centum of the undivided interests”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–374, §6(a)(1), in second sentence, substituted "undivided interests equal to at least 50 percent of the undivided interest" for "over 50 per centum of the undivided interests".
 
 Subsec. (d). Pub. L. 108–374, §4, as amended by Pub. L. 109–157, §8(a)(1), added subsec. (d).
 
-<b>2001</b>—Pub. L. 106–462, §103(2)(A)(iii), which directed substitution of subsec. (b) designation and heading and “Subsection (a) of this section applies on the condition that—” for “: <i>Provided</i>, That—”, was executed by making the substitution for “<i>Provided</i>, That—” to reflect the probable intent of Congress and the amendment by Pub. L. 106–462, §103(2)(A)(ii). See below.
+<b>2001</b>—Pub. L. 106–462, §103(2)(A)(iii), which directed substitution of subsec. (b) designation and heading and "Subsection (a) of this section applies on the condition that—" for ": <i>Provided</i>, That—", was executed by making the substitution for "<i>Provided</i>, That—" to reflect the probable intent of Congress and the amendment by Pub. L. 106–462, §103(2)(A)(ii). See below.
 
-Pub. L. 106–462, §103(2)(A)(i), (ii), substituted subsec. (a) designation and heading and “Subject to subsection (b) of this section, any Indian” for “Any Indian” and “. Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met.” for the colon before “<i>Provided</i>, That—”.
+Pub. L. 106–462, §103(2)(A)(i), (ii), substituted subsec. (a) designation and heading and "Subject to subsection (b) of this section, any Indian" for "Any Indian" and ". Interests owned by an Indian tribe in a tract may be included in the computation of the percentage of ownership of the undivided interests in that tract for purposes of determining whether the consent requirement under the preceding sentence has been met." for the colon before "<i>Provided</i>, That—".
 
-Subsec. (b)(2). Pub. L. 106–462, §103(2)(B)(ii), inserted “and” at end.
+Subsec. (b)(2). Pub. L. 106–462, §103(2)(B)(ii), inserted "and" at end.
 
-Pub. L. 106–462, §103(2)(B)(i), which directed substitution of “if” for “If,”, was executed by making the substitution for “if,” to reflect the probable intent of Congress.
+Pub. L. 106–462, §103(2)(B)(i), which directed substitution of "if" for "If,", was executed by making the substitution for "if," to reflect the probable intent of Congress.
 
-Subsec. (b)(3). Pub. L. 106–462, §103(2)(C), added par. (3) and struck out former par. (3) which read as follows: “all purchases and sales initiated under this section shall be subject to approval by the Secretary.”
+Subsec. (b)(3). Pub. L. 106–462, §103(2)(C), added par. (3) and struck out former par. (3) which read as follows: "all purchases and sales initiated under this section shall be subject to approval by the Secretary."
 
-<b>1984</b>—Pub. L. 98–608 amended section generally, substituting “the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of over 50 per centum of the undivided interests in such tract” for “of over 50 per centum of the owners or with the consent of the owners of over 50 per centum of undivided interests in such tract” before proviso.
+<b>1984</b>—Pub. L. 98–608 amended section generally, substituting "the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of over 50 per centum of the undivided interests in such tract" for "of over 50 per centum of the owners or with the consent of the owners of over 50 per centum of undivided interests in such tract" before proviso.
 
-Par. (1). Pub. L. 98–608 redesignated par. (2) as (1) and inserted “for at least three years preceding the tribal initiative,” before “may purchase such tract”. Former par. (1), which provided that no such tract shall be acquired by any Indian or tribe over the objections of three or less owners owning 50 per centum or more of the total interest in such tract, was struck out.
+Par. (1). Pub. L. 98–608 redesignated par. (2) as (1) and inserted "for at least three years preceding the tribal initiative," before "may purchase such tract". Former par. (1), which provided that no such tract shall be acquired by any Indian or tribe over the objections of three or less owners owning 50 per centum or more of the total interest in such tract, was struck out.
 
 Par. (2). Pub. L. 98–608 added par. (2). Former par. (2) redesignated (1).
 
-Pars. (3), (4). Pub. L. 98–608 redesignated par. (4) as (3), and in par. (3), as so redesignated, substituted “subject to approval” for “approved” and struck out former par. (3), which provided that “this section shall not apply to any tract of land owned by less than fifteen persons; and”.
+Pars. (3), (4). Pub. L. 98–608 redesignated par. (4) as (3), and in par. (3), as so redesignated, substituted "subject to approval" for "approved" and struck out former par. (3), which provided that "this section shall not apply to any tract of land owned by less than fifteen persons; and".
 
 #### Effective Date of 2005 Amendment
 
@@ -340,5 +340,5 @@ Amendment by Pub. L. 109–157 effective as if included in Pub. L. 108–374, se
 
 Invalidity of any provision of Pub. L. 108–374 not to affect validity of remaining provisions, except that each of subcls. (II), (III), or (IV) of subsection (c)(2)(I)(i) of this section deemed to be inseverable from the other two, such that invalidity of any one subcl. renders the other two without effect, see section 9 of Pub. L. 108–374, as amended, set out as a note under section 2201 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be paragraph “(2)(C),”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be paragraph "(2)(C),".</i>
 

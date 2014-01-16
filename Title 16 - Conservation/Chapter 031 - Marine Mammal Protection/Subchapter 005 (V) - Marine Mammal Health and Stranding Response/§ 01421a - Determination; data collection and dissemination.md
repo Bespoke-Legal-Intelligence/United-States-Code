@@ -28,17 +28,17 @@ The Secretary shall make information collected under this section available to s
 
 #### Implementation
 
-Pub. L. 102–587, title III, §3003(b), Nov. 4, 1992, 106 Stat. 5066, provided that: “The Secretary of Commerce shall—
+Pub. L. 102–587, title III, §3003(b), Nov. 4, 1992, 106 Stat. 5066, provided that: "The Secretary of Commerce shall—
 
-&emsp;“(1) in accordance with section 302(a) and (b) \[now 402(a), (b)\] of the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1421a(a), (b)\], as amended by this Act, and not later than 24 months after the date of enactment of this Act \[Nov. 4, 1992\]—
+&emsp;"(1) in accordance with section 302(a) and (b) \[now 402(a), (b)\] of the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1421a(a), (b)\], as amended by this Act, and not later than 24 months after the date of enactment of this Act \[Nov. 4, 1992\]—
 
-&emsp;&emsp;“(A) develop and implement objective criteria to determine at what point a marine mammal undergoing rehabilitation is returnable to the wild; and
+&emsp;&emsp;"(A) develop and implement objective criteria to determine at what point a marine mammal undergoing rehabilitation is returnable to the wild; and
 
-&emsp;&emsp;“(B) collect and make available information on marine mammal health and health trends; and
+&emsp;&emsp;"(B) collect and make available information on marine mammal health and health trends; and
 
-&emsp;“(2) in accordance with section 304(b) \[now 404(b)\] of the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1421c(b)\], as amended by this Act, issue a detailed contingency plan for responding to any unusual mortality event—
+&emsp;"(2) in accordance with section 304(b) \[now 404(b)\] of the Marine Mammal Protection Act of 1972 \[16 U.S.C. 1421c(b)\], as amended by this Act, issue a detailed contingency plan for responding to any unusual mortality event—
 
-&emsp;&emsp;“(A) in proposed form by not later than 18 months after the date of enactment of this Act; and
+&emsp;&emsp;"(A) in proposed form by not later than 18 months after the date of enactment of this Act; and
 
-&emsp;&emsp;“(B) in final form by not later than 24 months after the date of enactment of this Act.”
+&emsp;&emsp;"(B) in final form by not later than 24 months after the date of enactment of this Act."
 

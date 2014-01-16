@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 18, 1949, ch. 479, §4, 63 Stat. 617.
 
-The word “fountain” conforms to the original text as signed into law by the President. A typographical error was made in printing the source law in the Statutes-at-Large (63 Stat. 617) where the word appears as “foundation”.
+The word "fountain" conforms to the original text as signed into law by the President. A typographical error was made in printing the source law in the Statutes-at-Large (63 Stat. 617) where the word appears as "foundation".
 

@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish the Albert Einstein Distinguished Educator Fellowship Program (hereafter in this subchapter referred to as the “Program”) to provide 12 elementary or secondary school mathematics or science teachers with fellowships in each fiscal year in accordance with this subchapter.
+&emsp;The Secretary shall establish the Albert Einstein Distinguished Educator Fellowship Program (hereafter in this subchapter referred to as the "Program") to provide 12 elementary or secondary school mathematics or science teachers with fellowships in each fiscal year in accordance with this subchapter.
 
 #### (2) Order of priority
 

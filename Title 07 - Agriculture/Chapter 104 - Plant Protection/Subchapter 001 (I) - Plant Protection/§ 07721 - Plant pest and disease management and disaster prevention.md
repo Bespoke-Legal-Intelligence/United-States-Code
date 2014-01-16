@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Early plant pest detection and surveillance
 
-&emsp;The term “early plant pest detection and surveillance” means the full range of activities undertaken to find newly introduced plant pests, whether the plant pests are new to the United States or new to certain areas of the United States, before—
+&emsp;The term "early plant pest detection and surveillance" means the full range of activities undertaken to find newly introduced plant pests, whether the plant pests are new to the United States or new to certain areas of the United States, before—
 
 &emsp;&emsp;(A) the plant pests become established; or
 
@@ -14,11 +14,11 @@ In this section:
 
 #### (2) Specialty crop
 
-&emsp;The term “specialty crop” has the meaning given the term in section 3 of the Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 note; Public Law 108–465).
+&emsp;The term "specialty crop" has the meaning given the term in section 3 of the Specialty Crops Competitiveness Act of 2004 (7 U.S.C. 1621 note; Public Law 108–465).
 
 #### (3) State department of agriculture
 
-&emsp;The term “State department of agriculture” means an agency of a State that has a legal responsibility to perform early plant pest detection and surveillance activities.
+&emsp;The term "State department of agriculture" means an agency of a State that has a legal responsibility to perform early plant pest detection and surveillance activities.
 
 #### (b) Early plant pest detection and surveillance improvement program
 
@@ -42,7 +42,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;A State department of agriculture seeking to enter into a cooperative agreement under this subsection shall submit to the Secretary an application containing such information as the Secretary may require.
+&emsp;&emsp;A State department of agriculture seeking to enter into a cooperative agreement underthis subsection shall submit to the Secretary an application containing such information as the Secretary may require.
 
 #### (B) Notification
 
@@ -62,7 +62,7 @@ In this section:
 
 #### (B) Subagreements
 
-&emsp;&emsp;Nothing in this subsection prevents a State department of agriculture from usingfunds received under paragraph (4) to enter into subagreements with political subdivisions of the State that have legal responsibilities relating to agricultural plant pest and disease surveillance.
+&emsp;&emsp;Nothing in this subsection prevents a State department of agriculture from using funds received under paragraph (4) to enter into subagreements with political subdivisions of the State that have legal responsibilities relating to agricultural plant pest and disease surveillance.
 
 #### (C) Non-Federal share
 

@@ -8,7 +8,7 @@ Retention.—Notwithstanding any provision of chapter 1407 of this title and exc
 
 &emsp;(2) the Secretary of the Navy may, with the officer's consent, retain in an active status any reserve officer appointed in the Medical Corps, Dental Corps, Nurse Corps, or Chaplain Corps or appointed in the Medical Services Corps and designated to perform as a veterinarian, optometrist, podiatrist, allied health officer, or biomedical sciences officer; and
 
-&emsp;(3) the Secretary of the Air Force may, with the officer's consent, retain in an active status any reserve officer who is designated as a medical officer, dental officer, Air Force nurse, Medical Service Corps officer, biomedical sciences officer, or chaplain.
+&emsp;(3) the Secretary of the Air Force may, with the officer's consent, retain in an active statusany reserve officer who is designated as a medical officer, dental officer, Air Force nurse, Medical Service Corps officer, biomedical sciences officer, or chaplain.
 
 (b)
 
@@ -22,9 +22,9 @@ Provisions similar to those in this section were contained in sections 3855(a), 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–417 substituted “68 years” for “67 years”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–417 substituted "68 years" for "67 years".
 
-<b>2000</b>—Subsec. (a)(3). Pub. L. 106–398 substituted “Air Force nurse, Medical Service Corps officer, biomedical sciences officer, or chaplain.” for “veterinary officer, Air Force nurse, or chaplain or who is designated as a biomedical sciences officer and is qualified for service as a veterinarian, optometrist, or podiatrist.”
+<b>2000</b>—Subsec. (a)(3). Pub. L. 106–398 substituted "Air Force nurse, Medical Service Corps officer, biomedical sciences officer, or chaplain." for "veterinary officer, Air Force nurse, or chaplain or who is designated as a biomedical sciences officer and is qualified for service as a veterinarian, optometrist, or podiatrist."
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–65 struck out “(or, in the case of a reserve officer of the Army in the Chaplains or a reserve officer of the Air Force designated as a chaplain, 60 years of age)” after “67 years of age”.
+<b>1999</b>—Subsec. (b). Pub. L. 106–65 struck out "(or, in the case of a reserve officer of the Army in the Chaplains or a reserve officer of the Air Force designated as a chaplain, 60 years of age)" after "67 years of age".
 

@@ -20,7 +20,7 @@ Section was formerly classified to section 12543 of this title prior to renumber
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–82, §101(e)(1), (4)(A), substituted “Corporation” for “Commission” in two places and “section 12655 of this title” for “section 12542(b) of this title” and struck out before period at end “, including the information required under subsection (b) of this section”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–82, §101(e)(1), (4)(A), substituted "Corporation" for "Commission" in two places and "section 12655 of this title" for "section 12542(b) of this title" and struck out before period at end ", including the information required under subsection (b) of this section".
 
 Subsecs. (c), (d). Pub. L. 103–82, §101(e)(4)(B), struck out subsec. (c) which specified required contents of State applications and subsec. (d) which required State applicants to establish and implement programs to make grants to applicants within the State.
 

@@ -30,7 +30,7 @@ Hearing.—Upon filing of a petition with the Secretary by an agent who is the s
 
 &emsp;(5)
 
-Court review.—Any agent adversely affected or aggrieved by an order of the Secretary issued under this subsection may seek relief in the appropriate United States court of appeals as provided by and in the manner prescribed in chapter 158 of title 28, United States Code.
+Court review.—Any agent adversely affected or aggrieved by an order of the Secretary issued under this subsection may seek relief in the appropriate United States court of appeals as provided by and in the mannerprescribed in chapter 158 of title 28, United States Code.
 
 (d)
 
@@ -58,11 +58,11 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Household goods.—The term “household goods” has the meaning such term had under section 10102(11) of this title, as in effect on December 31, 1995.
+Household goods.—The term "household goods" has the meaning such term had under section 10102(11) of this title, as in effect on December 31, 1995.
 
 &emsp;(2)
 
-Transportation.—The term “transportation” means transportation that would be subject to the jurisdiction of the Interstate Commerce Commission under subchapter II of chapter 105 of this title, as in effect on December 31, 1995, if such subchapter were still in effect.
+Transportation.—The term "transportation" means transportation that would be subject to the jurisdiction of the Interstate Commerce Commission under subchapter II of chapter 105 of this title, as in effect on December 31, 1995, if such subchapter were still in effect.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 887; amended Pub. L. 104–287, §5(35), Oct. 11, 1996, 110 Stat. 3392.)
 
@@ -84,9 +84,9 @@ Provisions similar to those in this section were contained in section 10934 of t
 
 #### Amendments
 
-<b>1996</b>—Subsec. (e)(1). Pub. L. 104–287, §5(35)(A), substituted “December 31, 1995” for “the day before the effective date of this section”.
+<b>1996</b>—Subsec. (e)(1). Pub. L. 104–287, §5(35)(A), substituted "December 31, 1995" for "the day before the effective date of this section".
 
-Subsec. (e)(2). Pub. L. 104–287, §5(35)(B), substituted “December 31, 1995” for “the day before such effective date”.
+Subsec. (e)(2). Pub. L. 104–287, §5(35)(B), substituted "December 31, 1995" for "the day before such effective date".
 
 #### Abolition of Interstate Commerce Commission
 

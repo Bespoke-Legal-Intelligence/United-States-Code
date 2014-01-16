@@ -6,7 +6,7 @@
 
 &emsp;The Secretary, acting through the Director of the Agency for Healthcare Research and Quality, shall—
 
-&emsp;&emsp;(A) conduct and support research with respect to the outcomes, effectiveness, and appropriateness of health care services and procedures in order to identify the mannerin which diseases, disorders, and other health conditions can most effectively and appropriately be prevented, diagnosed, treated, and managed clinically; and
+&emsp;&emsp;(A) conduct and support research with respect to the outcomes, effectiveness, and appropriateness of health care services andprocedures in order to identify the manner in which diseases, disorders, and other health conditions can most effectively and appropriately be prevented, diagnosed, treated, and managed clinically; and
 
 &emsp;&emsp;(B) assure that the needs and priorities of the program under subchapter XVIII of this chapter are appropriately reflected in the development and periodic review and updating (through the process set forth in section 299b–2 <sup>1</sup> of this title) of treatment-specific or condition-specific practice guidelines for clinical treatments and conditions in forms appropriate for use in clinical practice, for use in educational programs, and for use in reviewing quality and appropriateness of medical care.
 
@@ -160,27 +160,27 @@ Another section 1142 of act Aug. 14, 1935, was renumbered section 1143 by Pub. L
 
 #### Amendments
 
-<b>2003</b>—Subsec. (b)(3). Pub. L. 108–173, §900(e)(1)(C), substituted “Centers for Medicare \& Medicaid Services” for “Health Care Financing Administration”.
+<b>2003</b>—Subsec. (b)(3). Pub. L. 108–173, §900(e)(1)(C), substituted "Centers for Medicare \& Medicaid Services" for "Health Care Financing Administration".
 
-<b>1999</b>—Subsec. (a)(1). Pub. L. 106–129 substituted “Director of the Agency for Healthcare Research and Quality” for “Administrator for Health Care Policy and Research” in introductory provisions.
+<b>1999</b>—Subsec. (a)(1). Pub. L. 106–129 substituted "Director of the Agency for Healthcare Research and Quality" for "Administrator for Health Care Policy and Research" in introductory provisions.
 
 #### AHCPR Study on Effect of Credentialing of Technologists and Sonographers on Quality of Ultrasound
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title II, §229(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–357, provided that:
 
-“(1)
+"(1)
 
-Study.—The Administrator for Health Care Policy and Research shall provide for a study that, with respect to the provision of ultrasound under the medicare and medicaid programs under titles XVIII and XIX of the Social Security Act \[subchapters XVIII and XIX of this chapter\], compares differences in quality between ultrasound furnished by individuals who are credentialed by private entities or organizations and ultrasound furnished by those who are not so credentialed. Such study shall examine and evaluate differences in error rates, resulting complications, and patient outcomes as a result of the differences in credentialing. In designing the study, the Administrator shall consult with organizations nationally recognized for their expertise in ultrasound.
+Study.—The Administrator for Health Care Policy and Research shall provide for a study that, with respect to the provision of ultrasound under the medicare and medicaid programs under titles XVIII and XIX of the Social Security Act \[42 U.S.C. 1395 et seq., 1396 et seq.\], compares differences in quality between ultrasound furnished by individuals who are credentialed by private entities or organizations and ultrasound furnished by those who are not so credentialed. Such study shall examine and evaluate differences in error rates, resulting complications, and patient outcomes as a result of the differences in credentialing. In designing the study, the Administrator shall consult with organizations nationally recognized for their expertise in ultrasound.
 
-“(2)
+"(2)
 
-Report.—Not later than two years after the date of the enactment of this Act \[Nov. 29, 1999\], the Administrator shall submit a report to Congress on the study conducted under paragraph (1).”
+Report.—Not later than two years after the date of the enactment of this Act \[Nov. 29, 1999\], the Administrator shall submit a report to Congress on the study conducted under paragraph (1)."
 
 #### Report on Linkage of Public and Private Research Related Data
 
-Pub. L. 101–239, title VI, §6103(b)(2), Dec. 19, 1989, 103 Stat. 2198, provided that: “Not later than 1 year after the date of the enactment of this Act \[Dec. 19, 1989\], the Secretary of Health and Human Services shall report to the Congress on the feasibility of linking research-related data described in section 1142(d) of the Social Security Act \[subsec. (d) of this section\] (as added by paragraph (1) of this subsection) with similar data collected or maintained by non-Federal entities and by Federal agencies other than the Department of Health and Human Services (including the Departments of Defense and Veterans Affairs and the Office of Personnel Management).”
+Pub. L. 101–239, title VI, §6103(b)(2), Dec. 19, 1989, 103 Stat. 2198, provided that: "Not later than 1 year after the date of the enactment of this Act \[Dec. 19, 1989\], the Secretary of Health and Human Services shall report to the Congress on the feasibility of linking research-related data described in section 1142(d) of the Social Security Act \[42 U.S.C. 1320b–12(d)\] (as added by paragraph (1) of this subsection) with similar data collected or maintained by non-Federal entities and by Federal agencies other than the Department of Health and Human Services (including the Departments of Defense and Veterans Affairs and the Office of Personnel Management)."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “subparagraph”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "subparagraph".</i>
 

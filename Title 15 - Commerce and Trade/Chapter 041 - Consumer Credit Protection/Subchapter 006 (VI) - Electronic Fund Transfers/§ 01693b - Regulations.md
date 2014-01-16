@@ -26,7 +26,7 @@
 
 #### (b) Issuance of model clauses
 
-The Bureau shall issue model clauses for optional use by financial institutions to facilitatecompliance with the disclosure requirements of section 1693c of this title and to aid consumers in understanding the rights and responsibilities of participants in electronic fund transfers by utilizing readily understandable language. Such model clauses shall be adopted after notice duly given in the Federal Register and opportunity for public comment in accordance with section 553 of title 5. With respect to the disclosures required by section 1693c(a)(3) and (4) of this title, the Bureau shall take account of variations in the services and charges under different electronic fund transfer systems and, as appropriate, shall issue alternative model clauses for disclosure of these differing account terms.
+The Bureau shall issue model clauses for optional use by financial institutions to facilitate compliance with the disclosure requirements of section 1693c of this title and to aid consumers in understanding the rights and responsibilities of participants in electronic fund transfers by utilizing readily understandable language. Such model clauses shall be adopted after notice duly given in the Federal Register and opportunity for public comment in accordance with section 553 of title 5. With respect to the disclosures required by section 1693c(a)(3) and (4) of this title, the Bureau shall take account of variations in the services and charges under different electronic fund transfer systems and, as appropriate, shall issue alternative model clauses for disclosure of these differing account terms.
 
 #### (c) Criteria; modification of requirements
 
@@ -40,9 +40,9 @@ Regulations prescribed hereunder may contain such classifications, differentiati
 
 #### (2) State and local government electronic benefit transfer systems
 
-#### (A) “Electronic benefit transfer system” defined
+#### (A) "Electronic benefit transfer system" defined
 
-&emsp;&emsp;In this paragraph, the term “electronic benefit transfer system”—
+&emsp;&emsp;In this paragraph, the term "electronic benefit transfer system"—
 
 &emsp;&emsp;&emsp;(i) means a system under which a government agency distributes needs-tested benefits by establishing accounts that may be accessed by recipients electronically, such as through automated teller machines or point-of-sale terminals; and
 
@@ -92,7 +92,7 @@ Regulations prescribed hereunder may contain such classifications, differentiati
 
 #### (i) Automated teller machine operator
 
-&emsp;&emsp;&emsp;The term “automated teller machine operator” means any person who—
+&emsp;&emsp;&emsp;The term "automated teller machine operator" means any person who—
 
 &emsp;&emsp;&emsp;&emsp;(I) operates an automated teller machine at which consumers initiate electronic fund transfers; and
 
@@ -100,11 +100,11 @@ Regulations prescribed hereunder may contain such classifications, differentiati
 
 #### (ii) Electronic fund transfer
 
-&emsp;&emsp;&emsp;The term “electronic fund transfer” includes a transaction that involves a balance inquiry initiated by a consumer in the same manner as an electronic fund transfer, whether or not the consumer initiates a transfer of funds in the course of the transaction.
+&emsp;&emsp;&emsp;The term "electronic fund transfer" includes a transaction that involves a balance inquiry initiated by a consumer in the same manner as an electronic fund transfer, whether or not the consumer initiates a transfer of funds in the course of the transaction.
 
 #### (iii) Host transfer services
 
-&emsp;&emsp;&emsp;The term “host transfer services” means any electronic fund transfer made by an automated teller machine operator in connection with a transaction initiated by a consumer at an automated teller machine operated by such operator.
+&emsp;&emsp;&emsp;The term "host transfer services" means any electronic fund transfer made by an automated teller machine operator in connection with a transaction initiated by a consumer at an automated teller machine operated by such operator.
 
 #### (e) Deference
 
@@ -118,27 +118,27 @@ No provision of this subchapter may be construed as altering, limiting, or other
 
 #### References in Text
 
-Section 1693o of this title, referred to in subsec. (a)(1), was in the original “section 917”, and was translated as meaning section 918 of Pub. L. 90–321 to reflect the probable intent of Congress and the renumbering of section 917 of Pub. L. 90–321 as section 918 by Pub. L. 111–24, title IV, §401, May 22, 2009, 123 Stat. 1751.
+Section 1693o of this title, referred to in subsec. (a)(1), was in the original "section 917", and was translated as meaning section 918 of Pub. L. 90–321 to reflect the probable intent of Congress and the renumbering of section 917 of Pub. L. 90–321 as section 918 by Pub. L. 111–24, title IV, §401, May 22, 2009, 123 Stat. 1751.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (d)(3)(B). Pub. L. 112–216, in subpar. heading, substituted “requirement” for “requirements” and, in text, substituted “The notice required under clauses (i) and (ii)” for
+<b>2012</b>—Subsec. (d)(3)(B). Pub. L. 112–216, in subpar. heading, substituted "requirement" for "requirements" and, in text, substituted "The notice required under clauses (i) and (ii)" for
 
-“(i)
+"(i)
 
 On the machine.—The notice required under clause (i) of subparagraph (A) with respect to any fee described in such subparagraph shall be posted in a prominent and conspicuous location on or at the automated teller machine at which the electronic fund transfer is initiated by the consumer.
 
-“(ii)
+"(ii)
 
-On the screen.—The notice required under clauses (i) and (ii)”
+On the screen.—The notice required under clauses (i) and (ii)"
 
-> and struck out “, except that during the period beginning on November 12, 1999, and ending on December 31, 2004, this clause shall not apply to any automated teller machine that lacks the technical capability to disclose the notice on the screen or to issue a paper notice after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction” after “completing the transaction”.
+> and struck out ", except that during the period beginning on November 12, 1999, and ending on December 31, 2004, this clause shall not apply to any automated teller machine that lacks the technical capability to disclose the notice on the screen or to issue a paper notice after the transaction is initiated and before the consumer is irrevocably committed to completing the transaction" after "completing the transaction".
 
-<b>2010</b>—Pub. L. 111–203, §1084(1), substituted “Bureau” for “Board” wherever appearing in subsecs. (b) to (d).
+<b>2010</b>—Pub. L. 111–203, §1084(1), substituted "Bureau" for "Board" wherever appearing in subsecs. (b) to (d).
 
-Subsec. (a). Pub. L. 111–203, §1084(3)(A), substituted “Prescription by the Bureau and the Board” for “Prescription by Board” in heading that had been supplied editorially and substituted initial pars. (1) and (2), relating to the Bureau's prescription of rules and authority of the Board, for first sentence of former introductory provisions which read as follows: “The Board shall prescribe regulations to carry out the purposes of this subchapter.” Second sentence of former introductory provisions was redesignated as concluding provisions of par. (2) to reflect the probable intent of Congress.
+Subsec. (a). Pub. L. 111–203, §1084(3)(A), substituted "Prescription by the Bureau and the Board" for "Prescription by Board" in heading that had been supplied editorially and substituted initial pars. (1) and (2), relating to the Bureau's prescription of rules and authority of the Board, for first sentence of former introductory provisions which read as follows: "The Board shall prescribe regulations to carry out the purposes of this subchapter." Second sentence of former introductory provisions was redesignated as concluding provisions of par. (2) to reflect the probable intent of Congress.
 
-Subsec. (c). Pub. L. 111–203, §1073(a)(2), inserted “or remittance transfers” after “electronic fund transfers”.
+Subsec. (c). Pub. L. 111–203, §1073(a)(2), inserted "or remittance transfers" after "electronic fund transfers".
 
 Subsec. (e). Pub. L. 111–203, §1084(3)(B), added subsec. (e).
 
@@ -146,35 +146,35 @@ Subsec. (e). Pub. L. 111–203, §1084(3)(B), added subsec. (e).
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–193, §907, which directed the amendment of subsec. (d), was not executed because of similar amendment by Pub. L. 104–193, §891. See below. Section 907 of Pub. L. 104–193 provided that subsec. (d) was to be amended by inserting subsec. (d) heading, by designating existing provisions as par. (1) and inserting heading, and by adding a new par. (2) reading as follows:
 
-“(2)
+"(2)
 
 State and local government electronic benefit transfer programs.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Exemption generally.—The disclosures, protections, responsibilities, and remedies established under this subchapter, and any regulation prescribed or order issued by the Board in accordance with this subchapter, shall not apply to any electronic benefit transfer program established under State or local law or administered by a State or local government.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Exception for direct deposit into recipient's account.—Subparagraph (A) shall not apply with respect to any electronic funds transfer under an electronic benefit transfer program for deposits directly into a consumer account held by the recipient of the benefit.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Rule of construction.—No provision of this paragraph may be construed as—
 
-&emsp;&emsp;“(i) affecting or altering the protections otherwise applicable with respect to benefits established by Federal, State, or local law; or
+&emsp;&emsp;"(i) affecting or altering the protections otherwise applicable with respect to benefits established by Federal, State, or local law; or
 
-&emsp;&emsp;“(ii) otherwise superseding the application of any State or local law.
+&emsp;&emsp;"(ii) otherwise superseding the application of any State or local law.
 
-&emsp;“(D)
+&emsp;"(D)
 
-Electronic benefit transfer program defined.—For purposes of this paragraph, the term ‘electronic benefit transfer program’—
+Electronic benefit transfer program defined.—For purposes of this paragraph, the term 'electronic benefit transfer program'—
 
-&emsp;&emsp;“(i) means a program under which a government agency distributes needs-tested benefits by establishing accounts to be accessed by recipients electronically, such as through automated teller machines, or point-of-sale terminals; and
+&emsp;&emsp;"(i) means a program under which a government agency distributes needs-tested benefits by establishing accounts to be accessed by recipients electronically, such as through automated teller machines, or point-of-sale terminals; and
 
-&emsp;&emsp;“(ii) does not include employment-related payments, including salaries and pension, retirement, or unemployment benefits established by Federal, State, or local governments.”
+&emsp;&emsp;"(ii) does not include employment-related payments, including salaries and pension, retirement, or unemployment benefits established by Federal, State, or local governments."
 
-Pub. L. 104–193, §891, designated existing provisions as par. (1), inserted subsec. heading and par. (2), and substituted “If” for “In the event that”.
+Pub. L. 104–193, §891, designated existing provisions as par. (1), inserted subsec. heading and par. (2), and substituted "If" for "In the event that".
 
 #### Effective Date of 2010 Amendment
 
@@ -186,5 +186,5 @@ Amendment by section 1084(1), (3) of Pub. L. 111–203 effective on the designat
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “of”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by "of".</i>
 

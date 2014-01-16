@@ -20,13 +20,13 @@ Feb. 8, 1889, ch. 116, 25 Stat. 657; Oct. 31, 1951, ch. 654, §2(27), 65 Stat. 7
 
 &nbsp;
 
-Mar. 3, 1899, ch. 423 (1st proviso under “Ordnance Department”), 30 Stat. 1073; May 26, 1900, ch. 586 (1st proviso under “Ordnance Department”), 31 Stat. 216; June 28, 1950, ch. 383, §402(e), 64 Stat. 273.
+Mar. 3, 1899, ch. 423 (1st proviso under "Ordnance Department"), 30 Stat. 1073; May 26, 1900, ch. 586 (1st proviso under "Ordnance Department"), 31 Stat. 216; June 28, 1950, ch. 383, §402(e), 64 Stat. 273.
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–217 substituted “section 121 of title 40” for “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)”.
+<b>2002</b>—Pub. L. 107–217 substituted "section 121 of title 40" for "section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)".
 
-<b>1980</b>—Pub. L. 96–513 substituted “section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)” for “section 486 of title 40”.
+<b>1980</b>—Pub. L. 96–513 substituted "section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486)" for "section 486 of title 40".
 
 #### Effective Date of 1980 Amendment
 

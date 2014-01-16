@@ -20,11 +20,11 @@ Any persons violating any provision of this section shall, upon conviction there
 
 #### References in Text
 
-For definition of “this chapter”, referred to in subsecs. (a) and (b), see note set out under section 1921 of this title.
+For definition of "this chapter", referred to in subsecs. (a) and (b), see note set out under section 1921 of this title.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–171 struck out “provided for in section 1982 of this title” after “former member of a county committee”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–171 struck out "provided for in section 1982 of this title" after "former member of a county committee".
 
 <b>1984</b>—Pub. L. 98–258 designated first, second, and third sentences of existing provisions as subsecs. (a), (c), and (d), respectively, and added subsec. (b).
 

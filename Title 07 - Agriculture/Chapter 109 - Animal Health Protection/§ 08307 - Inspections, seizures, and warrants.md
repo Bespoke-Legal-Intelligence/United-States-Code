@@ -34,7 +34,7 @@ The Secretary may stop and inspect, without a warrant, any person or means of co
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b) and (c), was in the original “this subtitle”, meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
+This chapter, referred to in subsecs. (b) and (c), was in the original "this subtitle", meaning subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to this chapter. For complete classification of subtitle E to the Code, see Short Title note set out under section 8301 of this title and Tables.
 
 #### Transfer of Functions
 
@@ -44,23 +44,23 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 
 Pub. L. 107–171, title X, §10811, May 13, 2002, 116 Stat. 531, provided that:
 
-“(a)
+"(a)
 
-Preclearance Inspections Required.—The Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, shall conduct preclearance quarantine inspectionsof persons, baggage, cargo, and any other articles destined for movement from the State of Hawaii to any of the following—
+Preclearance Inspections Required.—The Secretary of Agriculture, acting through the Administrator of the Animal and Plant Health Inspection Service, shall conduct preclearance quarantine inspections of persons, baggage, cargo, and any other articles destined for movement from the State of Hawaii to any of the following—
 
-&emsp;“(1) The continental United States.
+&emsp;"(1) The continental United States.
 
-&emsp;“(2) Guam.
+&emsp;"(2) Guam.
 
-&emsp;“(3) Puerto Rico.
+&emsp;"(3) Puerto Rico.
 
-&emsp;“(4) The United States Virgin Islands.
+&emsp;"(4) The United States Virgin Islands.
 
-“(b)
+"(b)
 
 Inspection Locations.—The preclearance quarantine inspections required by subsection (a) shall be conducted at all direct departure and interline airports in the State of Hawaii.
 
-“(c)
+"(c)
 
-Limitation.—The Secretary shall not implement this section unless appropriations for necessary expenses of the Animal and Plant Health Inspection Service for inspection, quarantine, and regulatory activities are increased by an amount not less than $3,000,000 in an Act making appropriations for fiscal year 2003.”
+Limitation.—The Secretary shall not implement this section unless appropriations for necessary expenses of the Animal and Plant Health Inspection Service for inspection, quarantine, and regulatory activities are increased by an amount not less than $3,000,000 in an Act making appropriations for fiscal year 2003."
 

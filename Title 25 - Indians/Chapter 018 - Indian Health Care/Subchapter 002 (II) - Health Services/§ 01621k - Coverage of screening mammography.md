@@ -14,5 +14,5 @@ Amendment by Pub. L. 111–148 is based on section 128 of title I of S. 1790, On
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–148 inserted “and other cancer screenings” before period at end.
+<b>2010</b>—Pub. L. 111–148 inserted "and other cancer screenings" before period at end.
 

@@ -28,7 +28,7 @@ Seriously Wounded, Ill, or Injured Former and Retired Enlisted Members.—(1) Th
 
 (3) A person may not be authorized under paragraph (1) to participate in a program of higher education after the end of the 10-year period beginning on the date of the person's separation from active duty.
 
-(4) The Secretary may not pay the tuition for participation in a program of higher education under subsection (a)(1) of a person participating in such program pursuant to an authorization under paragraph (1).
+(4) The Secretary may not pay the tuition for participation in a program of higher education under subsection (a)(1) of a person participatingin such program pursuant to an authorization under paragraph (1).
 
 (d)
 
@@ -36,47 +36,47 @@ Associate Degrees.—(1) Subject to paragraph (2), an academic degree at the lev
 
 (2) No degree may be conferred upon any person under this section unless the Secretary of Education determines that the standards for the award of academic degrees in agencies of the United States have been met.
 
-(Added Pub. L. 94–361, title VI, §602, July 14, 1976, 90 Stat. 928; amended Pub. L. 96–513, title V, §514(9), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 103–160, div. A, title XI, §1182(a)(12), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 104–106, div. A, title X,§1078(a), Feb. 10, 1996, 110 Stat. 451; Pub. L. 105–85, div. A, title V, §552(a), (b), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 108–375, div. A, title V, §556(b), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 112–81, div. A, title V, §555(a), (b), Dec. 31, 2011, 125 Stat. 1415.)
+(Added Pub. L. 94–361, title VI, §602, July 14, 1976, 90 Stat. 928; amended Pub. L. 96–513, title V, §514(9), Dec. 12, 1980, 94 Stat. 2935; Pub. L. 103–160, div. A, title XI, §1182(a)(12), Nov. 30, 1993, 107 Stat. 1772; Pub. L. 104–106, div. A, title X, §1078(a), Feb. 10, 1996, 110 Stat. 451; Pub. L. 105–85, div. A, title V, §552(a), (b), Nov. 18, 1997, 111 Stat. 1748; Pub. L. 108–375, div. A, title V, §556(b), Oct. 28, 2004, 118 Stat. 1915; Pub. L. 112–81, div. A, title V, §555(a), (b), Dec. 31, 2011, 125 Stat. 1415.)
 
 #### Amendments
 
 <b>2011</b>—Subsec. (c). Pub. L. 112–81, §555(a)(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
-Subsec. (d). Pub. L. 112–81, §555(a)(1), (b), redesignated subsec. (c) as (d) and substituted “person” for “enlisted member” in two places.
+Subsec. (d). Pub. L. 112–81, §555(a)(1), (b), redesignated subsec. (c) as (d) and substituted "person" for "enlisted member" in two places.
 
 <b>2004</b>—Subsec. (c). Pub. L. 108–375 amended heading and text generally. Prior to amendment, text read as follows:
 
-“(1) Subject to paragraph (2), the commander of the Air Education and Training Command of the Air Force may confer an academic degree at the level of associate upon any enlisted member who has completed the program prescribed by the Community College of the Air Force.
+"(1) Subject to paragraph (2), the commander of the Air Education and Training Command of the Air Force may confer an academic degree at the level of associate upon any enlisted member who has completed the program prescribed by the Community College of the Air Force.
 
-“(2) No degree may be conferred upon any enlisted member under this section unless (A) the Community College of the Air Force certifies to the commander of the Air Education and Training Command of the Air Force that such member has satisfied all the requirements prescribed for such degree, and (B) the Secretary of Education determines that the standards for the award of academic degrees in agencies of the United States have been met.”
+"(2) No degree may be conferred upon any enlisted member under this section unless (A) the Community College of the Air Force certifies to the commander of the Air Education and Training Command of the Air Force that such member has satisfied all the requirements prescribed for such degree, and (B) the Secretary of Education determines that the standards for the award of academic degrees in agencies of the United States have been met."
 
 <b>1997</b>—Subsec. (a). Pub. L. 105–85, §552(b)(1), inserted heading.
 
-Subsec. (a)(1). Pub. L. 105–85, §552(a)(1), substituted “enlisted members described in subsection (b)” for “enlisted members of the Air Force”.
+Subsec. (a)(1). Pub. L. 105–85, §552(a)(1), substituted "enlisted members described in subsection (b)" for "enlisted members of the Air Force".
 
 Subsec. (b). Pub. L. 105–85, §552(a)(4), added subsec. (b). Former subsec. (b) redesignated subsec. (c)(1).
 
-Subsec. (c). Pub. L. 105–85, §552(a)(2), (3), (b)(2), redesignated subsec. (b) as subsec. (c)(1), inserted subsec. heading, substituted “Subject to paragraph (2),” for “Subject to subsection (c),”, and redesignated former subsec. (c) as subsec. (c)(2) and pars. (1) and (2) of former subsec. (c) as subpars. (A) and (B), respectively, of subsec. (c)(2).
+Subsec. (c). Pub. L. 105–85, §552(a)(2), (3), (b)(2), redesignated subsec. (b) as subsec. (c)(1), inserted subsec. heading, substituted "Subject to paragraph (2)," for "Subject to subsection (c),", and redesignated former subsec. (c) as subsec. (c)(2) and pars. (1) and (2) of former subsec. (c) as subpars. (A) and (B), respectively, of subsec. (c)(2).
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–106 substituted “Air Force” for “armed forces”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–106 substituted "Air Force" for "armed forces".
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–160, §1182(a)(12)(A), substituted “Air Education and Training Command” for “Air Training Command”.
+<b>1993</b>—Subsec. (b). Pub. L. 103–160, §1182(a)(12)(A), substituted "Air Education and Training Command" for "Air Training Command".
 
-Subsec. (c). Pub. L. 103–160, §1182(a)(12)(B), substituted “Air Education and Training Command of the Air Force” for “Air Force Training Command”.
+Subsec. (c). Pub. L. 103–160, §1182(a)(12)(B), substituted "Air Education and Training Command of the Air Force" for "Air Force Training Command".
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted “Secretary of Education” for “Commissioner of Education of the Department of Health, Education, and Welfare”.
+<b>1980</b>—Subsec. (c). Pub. L. 96–513 substituted "Secretary of Education" for "Commissioner of Education of the Department of Health, Education, and Welfare".
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–81, div. A, title V, §555(c), Dec. 31, 2011, 125 Stat. 1416, provided that: “Subsection (c) of section 9315 of title 10, United States Code (as added by subsection (a)(2)), shall apply to persons covered by paragraph (1) of such subsection who are categorized by the Secretary concerned as seriously wounded, ill, or injured after September 11, 2001. With respect to any such person who is separated from active duty during the period beginning on September 12, 2001, and ending on the date of the enactment of this Act \[Dec. 31, 2011\], the 10-year period specified in paragraph (3) of such subsection shall be deemed to commence on the date of the enactment of this Act.”
+Pub. L. 112–81, div. A, title V, §555(c), Dec. 31, 2011, 125 Stat. 1416, provided that: "Subsection (c) of section 9315 of title 10, United States Code (as added by subsection (a)(2)), shall apply to persons covered by paragraph (1) of such subsection who are categorized by the Secretary concerned as seriously wounded, ill, or injured after September 11, 2001. With respect to any such person who is separated from active duty during the period beginning on September 12, 2001, and ending on the date of the enactment of this Act \[Dec. 31, 2011\], the 10-year period specified in paragraph (3) of such subsection shall be deemed to commence on the date of the enactment of this Act."
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–85, div. A, title V, §552(c), Nov. 18, 1997, 111 Stat. 1748, provided that: “Subsection (b) of section 9315 of such title, as added by subsection (a)(4), applies with respect to enrollments in the Community College of the Air Force after March 31, 1996.”
+Pub. L. 105–85, div. A, title V, §552(c), Nov. 18, 1997, 111 Stat. 1748, provided that: "Subsection (b) of section 9315 of such title, as added by subsection (a)(4), applies with respect to enrollments in the Community College of the Air Force after March 31, 1996."
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–106, div. A, title X, §1078(b), Feb. 10, 1996, 110 Stat. 451, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to enrollments in the Community College of the Air Force after March 31, 1996.”
+Pub. L. 104–106, div. A, title X, §1078(b), Feb. 10, 1996, 110 Stat. 451, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to enrollments in the Community College of the Air Force after March 31, 1996."
 
 #### Effective Date of 1980 Amendment
 

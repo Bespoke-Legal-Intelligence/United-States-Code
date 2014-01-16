@@ -20,15 +20,15 @@ Complaints, orders, and other processes of the Secretary under this section may 
 
 #### Amendments
 
-<b>2002</b>—Subsecs. (a) to (c). Pub. L. 107–171 substituted “packer or swine contractor” for “packer” wherever appearing.
+<b>2002</b>—Subsecs. (a) to (c). Pub. L. 107–171 substituted "packer or swine contractor" for "packer" wherever appearing.
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–410 inserted provisions dealing with authority of Secretary to assess a civil penalty for violations and, upon failure to pay, procedure for recovery of such penalty.
 
-<b>1958</b>—Subsec. (c). Pub. L. 85–791 struck out “a transcript of” after “until”.
+<b>1958</b>—Subsec. (c). Pub. L. 85–791 struck out "a transcript of" after "until".
 
 #### Change of Name
 
-Act June 25, 1948, as amended by act May 24, 1949, substituted “court of appeals” for “circuit court of appeals”.
+Act June 25, 1948, as amended by act May 24, 1949, substituted "court of appeals" for "circuit court of appeals".
 
 #### Transfer of Functions
 

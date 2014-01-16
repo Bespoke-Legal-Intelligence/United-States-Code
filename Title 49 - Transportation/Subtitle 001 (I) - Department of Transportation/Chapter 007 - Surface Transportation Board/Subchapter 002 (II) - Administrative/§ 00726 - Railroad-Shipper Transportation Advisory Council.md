@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment; Membership.—There is established the Railroad-Shipper Transportation Advisory Council (in this section referred to as the “Council”) to be composed of 19 members, of which 15 members shall be appointed by the Chairman of the Board, after recommendation from rail carriers and shippers, within 60 days after December 29, 1995. The members of the Council shall be appointed as follows:
+Establishment; Membership.—There is established the Railroad-Shipper Transportation Advisory Council (in this section referred to as the "Council") to be composed of 19 members, of which 15 members shall be appointed by the Chairman of the Board, after recommendation from rail carriers and shippers, within 60 days after December 29, 1995. The members of the Council shall be appointed as follows:
 
 &emsp;(1) The members of the Council shall be appointed from among citizens of the United States who are not regular full-time employees of the United States and shall be selectedfor appointment so as to provide as nearly as practicable a broad representation of the various segments of the railroad and rail shipper industries.
 
@@ -84,5 +84,5 @@ The Federal Advisory Committee Act, referred to in subsec. (a)(4), is Pub. L. 92
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–287 substituted “December 29, 1995” for “the date of enactment of the ICC Termination Act of 1995” in introductory provisions.
+<b>1996</b>—Subsec. (a). Pub. L. 104–287 substituted "December 29, 1995" for "the date of enactment of the ICC Termination Act of 1995" in introductory provisions.
 

@@ -50,9 +50,9 @@ July 8, 1937, ch. 444, §3 (1st sentence, 2d sentence words before 2d proviso), 
 
 40:723 (2d sentence words before 1st proviso).
 
-In subsection (c), the words “Notwithstanding any provision of law to the contrary” are omitted as unnecessary.
+In subsection (c), the words "Notwithstanding any provision of law to the contrary" are omitted as unnecessary.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(2)(A). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (b)(2)(A). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 

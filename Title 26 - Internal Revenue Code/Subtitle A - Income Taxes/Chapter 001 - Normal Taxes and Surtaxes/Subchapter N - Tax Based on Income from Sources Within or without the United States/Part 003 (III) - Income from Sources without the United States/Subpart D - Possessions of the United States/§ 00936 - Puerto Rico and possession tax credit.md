@@ -70,11 +70,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) the credit determined under paragraph (1) for such taxable year with respect to income referred to in subparagraph (A) thereof shall be the applicable percentage of the credit which would otherwise have been determined under such paragraph with respect to such income.
 
-&emsp;&emsp;&nbsp;Notwithstanding subclause (I), a possession corporation to which an election under this subparagraph applies shall be entitled to the benefits of subsection (i)(3)(B) for taxes allocable (on a pro rata basis) to taxable income the tax on which is not offset by reason of this subparagraph.
+&emsp;&emsp;&nbsp;Notwithstanding subclause (I), a possession corporation to which an electionunder this subparagraph applies shall be entitled to the benefits of subsection (i)(3)(B) for taxes allocable (on a pro rata basis) to taxable income the tax on which is not offset by reason of this subparagraph.
 
 #### (ii) Applicable percentage
 
-&emsp;&emsp;&emsp;The term “applicable percentage” means the percentage determined in accordance with the following table:
+&emsp;&emsp;&emsp;The term "applicable percentage" means the percentage determined in accordance with the following table:
 
 <b> In the case of taxable</b>
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;&nbsp;1995
 
-55  
+55&nbsp;&nbsp;
 
 &emsp;&emsp;&nbsp;1996
 
@@ -138,11 +138,11 @@ For purposes of this section—
 
 #### (1) Possession
 
-&emsp;The term “possession of the United States” includes the Commonwealth of Puerto Rico and the Virgin Islands.
+&emsp;The term "possession of the United States" includes the Commonwealth of Puerto Rico and the Virgin Islands.
 
 #### (2) Qualified possession source investment income
 
-&emsp;The term “qualified possession source investment income” means gross income which—
+&emsp;The term "qualified possession source investment income" means gross income which—
 
 &emsp;&emsp;(A) is from sources within a possession of the United States in which a trade or business is actively conducted, and
 
@@ -178,7 +178,7 @@ For purposes of this section—
 
 #### (B) Qualified Caribbean Basin country
 
-&emsp;&emsp;For purposes of this subsection, the term “qualified Caribbean Basin country” means any beneficiary country (within the meaningof section 212(a)(1)(A) of the Caribbean Basin Economic Recovery Act) which meets the requirements of clauses (i) and (ii) of section 274(h)(6)(A) and the Virgin Islands.
+&emsp;&emsp;For purposes of this subsection, the term "qualified Caribbean Basin country" means any beneficiary country (within the meaning of section 212(a)(1)(A) of the Caribbean Basin Economic Recovery Act) which meets the requirements of clauses (i) and (ii) of section 274(h)(6)(A) and the Virgin Islands.
 
 #### (C) Additional requirements
 
@@ -196,7 +196,7 @@ For purposes of this section—
 
 #### (ii) Qualified Caribbean Basin country investment
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “qualified Caribbean Basin country investment” means any investment if—
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "qualified Caribbean Basin country investment" means any investment if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the income from such investment is treated as qualified possession source investment income by reason of subparagraph (A), and
 
@@ -230,9 +230,9 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (g) Exception to accumulated earnings tax
 
-(1) For purposes of section 535, the term “accumulated taxable income” shall not include taxable income entitled to the credit under subsection (a).
+(1) For purposes of section 535, the term "accumulated taxable income" shall not include taxable income entitled to the credit under subsection (a).
 
-(2) For purposes of section 537, the term “reasonable needs of the business” includes assets which produce income eligible for the credit under subsection (a).
+(2) For purposes of section 537, the term "reasonable needs of the business" includes assets which produce income eligible for the credit under subsection (a).
 
 #### (h) Tax treatment of intangible property income
 
@@ -258,7 +258,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (B) Treatment of nonallocated intangible property income
 
-&emsp;&emsp;For purposes of this subtitle, intangible property income of a corporation electingthe application of this section which is not included in the gross income of a shareholder of such corporation by reason of subparagraph (A)—
+&emsp;&emsp;For purposes of this subtitle, intangible property income of a corporation electing the application of this section which is not included in the gross income of a shareholder of such corporation by reason of subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) shall be treated as income from sources within the United States, and
 
@@ -270,11 +270,11 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (A) In general
 
-&emsp;&emsp;The term “intangible property income” means the gross income of a corporation attributable to any intangible property other than intangible property which has been licensed to such corporation since prior to 1948 and is in use by such corporation on the date of the enactment of this subparagraph.
+&emsp;&emsp;The term "intangible property income" means the gross income of a corporation attributable to any intangible property other than intangible property which has been licensed to such corporation since prior to 1948 and is in use by such corporation on the date of the enactment of this subparagraph.
 
 #### (B) Intangible property
 
-&emsp;&emsp;The term “intangible property” means any—
+&emsp;&emsp;The term "intangible property" means any—
 
 &emsp;&emsp;&emsp;(i) patent, invention, formula, process, design, pattern, or know-how;
 
@@ -292,13 +292,13 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (C) Exclusion of reasonable profit
 
-&emsp;&emsp;The term “intangible property income” shall not include any portion of the income from the sale, exchange or other disposition of any product, or from the rendering of services, by a corporation electing the application of this section which is determined by the Secretary to be a reasonable profit on the direct and indirect costs incurred by such electing corporation which are attributable to such income.
+&emsp;&emsp;The term "intangible property income" shall not include any portion of the income from the sale, exchange or other disposition of any product, or from the rendering of services, by a corporation electing the application of this section which is determined by the Secretary to be a reasonable profit on the direct and indirect costs incurred by such electing corporation which are attributable to such income.
 
 #### (D) Related person
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A person (hereinafter referred to as the “related person”) is related to any person if—
+&emsp;&emsp;&emsp;A person (hereinafter referred to as the "related person") is related to any person if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the related person bears a relationship to such person specified in section 267(b) or section 707(b)(1), or
 
@@ -306,13 +306,13 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (ii) Special rule
 
-&emsp;&emsp;&emsp;For purposes of clause (i), section 267(b) and section 707(b)(1) shall be applied by substituting “10 percent” for “50 percent”.
+&emsp;&emsp;&emsp;For purposes of clause (i), section 267(b) and section 707(b)(1) shall be applied by substituting "10 percent" for "50 percent".
 
 #### (E) Controlled group of corporations
 
-&emsp;&emsp;The term “controlled group of corporations” has the meaning given to such term by section 1563(a), except that—
+&emsp;&emsp;The term "controlled group of corporations" has the meaning given to such term by section 1563(a), except that—
 
-&emsp;&emsp;&emsp;(i) “more than 10 percent” shall be substituted for “at least 80 percent” and “more than 50 percent” each place either appears in section 1563(a), and
+&emsp;&emsp;&emsp;(i) "more than 10 percent" shall be substituted for "at least 80 percent" and "more than 50 percent" each place either appears in section 1563(a), and
 
 &emsp;&emsp;&emsp;(ii) the determination shall be made without regard to subsections (a)(4), (b)(2), and (e)(3)(C) of section 1563.
 
@@ -358,7 +358,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (ii) Definition
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, an electing corporation has a “significant business presence” in a possession for a taxable year with respect to a product or type of service if:
+&emsp;&emsp;&emsp;For purposes of this subparagraph, an electing corporation has a "significant business presence" in a possession for a taxable year with respect to a product or type of service if:
 
 &emsp;&emsp;&emsp;&emsp;(I) the total production costs (other than direct material costs and other than interest excluded by regulations prescribed by the Secretary) incurred by the electing corporation in the possession in producing units of that product sold or otherwise disposed of during the taxable year by the affiliated group to persons who are not members of the affiliated group are not less than 25 percent of the difference between (a) the gross receipts from sales or other dispositions during the taxable year by the affiliated group to persons who are not members of the affiliated group of such units of the product produced, in whole or in part, by the electing corporation in the possession, and (b) the direct material costs of the purchase of materials for such units of that product by all members of the affiliated group from persons who are not members of the affiliated group; or
 
@@ -394,31 +394,31 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (I) Payment of cost sharing
 
-&emsp;&emsp;&emsp;&emsp;If an election of this method is in effect, the electing corporation must make a payment for its share of the cost (if any) of product area research which is paid or accrued by the affiliated group during that taxable year. Such share shall not be less than the same proportion of 110 percent of the cost of such product area research which the amount of “possession sales” bears to the amount of “total sales” of the affiliated group. The cost of product area research paid or accrued solely by the electing corporation in a taxable year (excluding amounts paid directly or indirectly to or on behalf of related persons and excluding amounts paid under any cost sharing agreements with related persons) will reduce (but not below zero) the amount of the electing corporation's cost sharing payment under this method for that year. In the case of intangible property described in subsection (h)(3)(B)(i) which the electing corporation is treated as owning under subclause (II), in no event shall the payment required under this subclause be less than the inclusion or payment which would be required under section 367(d)(2)(A)(ii) or section 482 if the electing corporation were a foreign corporation.
+&emsp;&emsp;&emsp;&emsp;If an election of this method is in effect, the electing corporation must make a payment for its share of the cost (if any) of product area research which is paid or accrued by the affiliated group during that taxable year. Such share shall not be less than the same proportion of 110 percent of the cost of such product area research which the amount of "possession sales" bears to the amount of "total sales" of the affiliated group. The cost of product area research paid or accrued solely by the electing corporation in a taxable year (excluding amounts paid directly or indirectly to or on behalf of related persons and excluding amounts paid under any cost sharing agreements with related persons) will reduce (but not below zero) the amount of the electing corporation's cost sharing payment under this method for that year. In the case of intangible property described in subsection (h)(3)(B)(i) which the electing corporation is treated as owning under subclause (II), in no event shall the payment required under this subclause be less than the inclusion or payment which would be required under section 367(d)(2)(A)(ii) or section 482 if the electing corporation were a foreign corporation.
 
 #### (a) Product area research
 
-&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of this section, the term “product area research” includes (notwithstanding any provision to the contrary) the research, development and experimental costs, losses, expenses and other related deductions—including amounts paid or accrued for the performance of research or similar activities by another person; qualified research expenses within the meaning of section 41(b); amounts paid or accrued for the use of, or the right to use, research or any of the items specified in subsection (h)(3)(B)(i); and a proper allowance for amounts incurred for the acquisition of any of the items specified in subsection (h)(3)(B)(i)—which are properly apportioned or allocated to the same product area as that in which the electing corporation conducts its activities, and a ratable part of any such costs, losses, expenses and other deductions which cannot definitely be allocated to a particular product area.
+&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of this section, the term "product area research" includes (notwithstanding any provision to the contrary) the research, development and experimental costs, losses, expenses and other related deductions—including amounts paid or accrued for the performance of research or similar activities by another person; qualified research expenses within the meaning of section 41(b); amounts paid or accrued for the use of, or the right to use, research or any of the items specified in subsection (h)(3)(B)(i); and a proper allowance for amounts incurred for the acquisition of any of the items specified in subsection (h)(3)(B)(i)—which are properly apportioned or allocated to the same product area as that in which the electing corporation conducts its activities, and a ratable part of any such costs, losses, expenses and other deductions which cannot definitely be allocated to a particular product area.
 
 #### (b) Affiliated group
 
-&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of this subsection, the term “affiliated group” shall mean the electing corporation and all other organizations, trades or businesses (whether or not incorporated, whether or not organized in the United States, and whether or not affiliated) owned or controlled directly or indirectly by the same interests, within the meaning of section 482.
+&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of this subsection, the term "affiliated group" shall mean the electing corporation and all other organizations, trades or businesses (whether or not incorporated, whether or not organized in the United States, and whether or not affiliated) owned or controlled directly or indirectly by the same interests, within the meaning of section 482.
 
 #### (c) Possession sales
 
-&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of this section, the term “possession sales” means the aggregate sales or other dispositions for the taxable year to persons who are not members of the affiliated group by members of the affiliated group of products produced, in whole or in part, by the electing corporation in the possession which are in the same product area as is used for determining the amount of product area research, and of services rendered, in whole or in part, in the possession in such product area to persons who are not members of the affiliated group.
+&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of this section, the term "possession sales" means the aggregate sales or other dispositions for the taxable year to persons who are not members of the affiliated group by members of the affiliated group of products produced, in whole or in part, by the electing corporation in the possession which are in the same product area as is used for determining the amount of product area research, and of services rendered, in whole or in part, in the possession in such product area to persons who are not members of the affiliated group.
 
 #### (d) Total sales
 
-&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of this section, the term “total sales” means the aggregate sales or other dispositions for the taxable year to persons who are not members of the affiliated group by members of the affiliated group of all products in the same product area as is used for determining the amount of product area research, and of services rendered in such product area to persons who are not members of the affiliated group.
+&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of this section, the term "total sales" means the aggregate sales or other dispositions for the taxable year to persons who are not members of the affiliated group by members of the affiliated group of all products in the same product area as is used for determining the amount of product area research, and of services rendered in such product area to persons who are not members of the affiliated group.
 
 #### (e) Product area
 
-&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of this section, the term “product area” shall be defined by reference to the three-digit classification of the Standard Industrial Classification code. The Secretary may provide for the aggregation of two or more three-digit classifications where appropriate, and for a classification system other than the Standard Industrial Classification code in appropriate cases.
+&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of this section, the term "product area" shall be defined by reference to the three-digit classification of the Standard Industrial Classification code. The Secretary mayprovide for the aggregation of two or more three-digit classifications where appropriate, and for a classification system other than the Standard Industrial Classification code in appropriate cases.
 
 #### (II) Effect of election
 
-&emsp;&emsp;&emsp;&emsp;For purposes of determining the amount of its gross income derived from the active conduct of a trade or business in a possession with respect to a product produced by, or type of service rendered by, the electing corporation for a taxable year, if an election of this method is in effect, the electing corporation shall betreated as the owner (for purposes of obtaining a return thereon) of intangible property described in subsection (h)(3)(B)(i) which is related to the units of the product produced, or type of service rendered, by the electing corporation. Such electing corporation shall not be treated as the owner (for purposes of obtaining a return thereon) of any intangible property described in subsection (h)(3)(B)(ii) through (v) (to the extent not described in subsection (h)(3)(B)(i)) or of any other nonmanufacturing intangible. Notwithstanding the preceding sentence, an electing corporation shall be treated as the owner (for purposes of obtaining a return thereon) of (a) intangible property which was developed solely by such corporation in a possession and is owned by such corporation, (b) intangible property described in subsection (h)(3)(B)(i) acquired by such corporation from a person who was not related to such corporation (or to any person related to such corporation) at the time of, or in connection with, such acquisition, and (c) any intangible property described in subsection (h)(3)(B)(ii) through (v) (to the extent not described in subsection (h)(3)(B)(i)) and other nonmanufacturing intangibles which relate to sales of units of products, or services rendered, to unrelated persons for ultimate consumption or use in the possession in which the electing corporation conducts its trade or business.
+&emsp;&emsp;&emsp;&emsp;For purposes of determining the amount of its gross income derived from the active conduct of a trade or business in a possession with respect to a product produced by, or type of service rendered by, the electing corporation for a taxable year, if an election of this method is in effect, the electing corporation shall be treated as the owner (for purposes of obtaining a return thereon) of intangible property described in subsection (h)(3)(B)(i) which is related to the units of the product produced, or type of service rendered, by the electing corporation. Such electing corporation shall not be treated as the owner (for purposes of obtaining a return thereon) of any intangible property described in subsection (h)(3)(B)(ii) through (v) (to the extent not described in subsection (h)(3)(B)(i)) or of any other nonmanufacturing intangible. Notwithstanding the preceding sentence, an electing corporation shall be treated as the owner (for purposes of obtaining a return thereon) of (a) intangible property which was developed solely by such corporation in a possession and is owned by such corporation, (b) intangible property described in subsection (h)(3)(B)(i) acquired by such corporation from a person who was not related to such corporation (or to any person related to such corporation) at the time of, or in connection with, such acquisition, and (c) any intangible property described in subsection (h)(3)(B)(ii) through (v) (to the extent not described in subsection (h)(3)(B)(i)) and other nonmanufacturing intangibles which relate to sales of units of products, or services rendered, to unrelated persons for ultimate consumption or use in the possession in which the electing corporation conducts its trade or business.
 
 #### (III) Payment provisions
 
@@ -442,7 +442,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (II) Computation of combined taxable income
 
-&emsp;&emsp;&emsp;&emsp;Combined taxable income shall be computed separately for each product produced or type of service rendered, in whole or in part, by the electing corporation in a possession. Combined taxable income shall be computed (notwithstanding any provision to the contrary) for each such product or type of service rendered by deducting from the gross income of the affiliated group (other than foreign affiliates) derived from covered sales of such product or type of service all expenses, losses, and other deductions properly apportioned or allocated to gross income from such sales or services, and a ratable part of all expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income, which are incurred by the affiliated group (other than foreign affiliates). Notwithstanding any other provision to the contrary, in computing the combined taxable income for each such product or type of service rendered, the research, development, and experimental costs, expenses and related deductions for the taxable year which would otherwise be apportioned or allocated to the gross income of the affiliated group (other than foreign affiliates) derived from covered sales of such product produced or type of service rendered, in whole or in part, by the electing corporation in a possession, shall not be less than the same proportion of the amount of the share of product area research determined under subparagraph (C)(i)(I) (without regard to the third and fourth sentences thereof, but substituting “120 percent” for “110 percent” in the second sentence thereof) in the product area which includes such product or type of service, that such gross income from the product or type of service bears to such gross income from all products and types of services, within such product area, produced or rendered, in whole or part, by the electing corporation in a possession.
+&emsp;&emsp;&emsp;&emsp;Combined taxable income shall be computed separately for each product produced or type of service rendered, in whole or in part, by the electing corporation in a possession. Combined taxable income shall be computed (notwithstanding any provision to the contrary) for each such product or type of service rendered by deducting from the gross income of the affiliated group (other than foreign affiliates) derived from covered sales of such product or type of service all expenses, losses, and other deductions properly apportioned or allocated to gross income from such sales or services, and a ratable part of all expenses, losses, or other deductions which cannot definitely be allocated to some item or class of gross income, which are incurred by the affiliated group (other than foreign affiliates). Notwithstanding any other provision to the contrary, in computing the combined taxable income for each such product or type of service rendered, the research, development, and experimental costs, expenses and related deductions for the taxable year which would otherwise be apportioned or allocated to the gross income of the affiliated group (other than foreign affiliates) derived from covered sales of such product produced or type of service rendered, in whole or in part, by the electing corporation in a possession, shall not be less than the same proportion of the amount of the share of product area research determined under subparagraph (C)(i)(I) (without regard to the third and fourth sentences thereof, but substituting "120 percent" for "110 percent" in the second sentence thereof) in the product area which includes such product or type of service, that such gross income from the product or type of service bears to such gross income from all products and types of services, within such product area, produced or rendered, in whole or part, by the electing corporation in a possession.
 
 #### (III) Division of combined taxable income
 
@@ -450,15 +450,15 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (IV) Covered sales
 
-&emsp;&emsp;&emsp;&emsp;For purposes of this paragraph, the term “covered sales” means sales by members of the affiliated group (other than foreign affiliates) to persons who are not members of the affiliated group or to foreign affiliates.
+&emsp;&emsp;&emsp;&emsp;For purposes of this paragraph, the term "covered sales" means sales by members of the affiliated group (other than foreign affiliates) to persons who are not members of the affiliated group or to foreign affiliates.
 
 #### (D) Unrelated person
 
-&emsp;&emsp;For purposes of this paragraph, the term “unrelated person” means any person other than a person related within the meaning of paragraph (3)(D) to the electing corporation.
+&emsp;&emsp;For purposes of this paragraph, the term "unrelated person" means any person other than a person related within the meaning of paragraph (3)(D) to the electing corporation.
 
 #### (E) Electing corporation
 
-&emsp;&emsp;For purposes of this subsection, the term “electing corporation” means a domestic corporation for which an election under this section is in effect.
+&emsp;&emsp;For purposes of this subsection, the term "electing corporation" means a domestic corporation for which an election under this section is in effect.
 
 #### (F) Time and manner of election; revocation
 
@@ -480,7 +480,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 &emsp;&emsp;&emsp;(I) Where more than one electing corporation in the affiliated group produces any product or renders any services in the same product area, all such electing corporations must elect to compute their taxable income under the same method under subparagraph (C).
 
-&emsp;&emsp;&emsp;(II) All electing corporations in the same affiliated group that produce any productsor render any services in the same product area may elect, subject to such terms and conditions as the Secretary may prescribe by regulations, to compute their taxable income from export sales under a different method from that used for all other sales and services. For this purpose, export sales means all sales by the electing corporation of products to foreign persons for use or consumption outside the United States and its possessions, provided such products are manufactured or produced in the possession within the meaning of subsection (d)(1)(A) of section 954, and further provided (except to the extent otherwise provided by regulations) the income derived by such foreign person on resale of such products (in the same state or in an altered state) is not included in foreign base company income for purposes of section 954(a).
+&emsp;&emsp;&emsp;(II) All electing corporations in the same affiliated group that produce any products or render any services in the same product area may elect, subject to such terms and conditions as the Secretary may prescribe by regulations, to compute their taxable income from export sales under a different method from that used for all other sales and services. For this purpose, export sales means all sales by the electing corporation of products to foreign persons for use or consumption outside the United States and its possessions, provided such products are manufactured or produced in the possession within the meaning of subsection (d)(1)(A) of section 954, and further provided (except to the extent otherwise provided by regulations) the income derived by such foreign person on resale of such products (in the same state or in an altered state) is not included in foreign base company income for purposes of section 954(a).
 
 &emsp;&emsp;&emsp;(III) All members of an affiliated group must consent to an election under this subsection at such time and in such manner as shall be prescribed by the Secretary by regulations.
 
@@ -514,7 +514,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified possession wages” means wages paid or incurred by the possession corporation during the taxable year in connection with the active conduct of a trade or business within a possession of the United States to any employee for services performed in such possession, but only if such services are performed while the principal place of employment of such employee is within such possession.
+&emsp;&emsp;The term "qualified possession wages" means wages paid or incurred by the possession corporation during the taxable year in connection with the active conduct of a trade or business within a possession of the United States to any employee for services performed in such possession, but only if such services are performed while the principal place of employment of such employee is within such possession.
 
 #### (B) Limitation on amount of wages taken into account
 
@@ -534,23 +534,23 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (C) Treatment of certain employees
 
-&emsp;&emsp;The term “qualified possession wages” shall not include any wages paid to employees who are assigned by the employer to perform services for another person, unless the principal trade or business of the employer is to make employees available for temporary periods to other persons in return for compensation. All possession corporations treated as 1 corporation under paragraph (5) shall be treated as 1 employer for purposes of the preceding sentence.
+&emsp;&emsp;The term "qualified possession wages" shall not include any wages paid to employees who are assigned by the employer to perform services for another person, unless the principal trade or business of the employer is to make employees available for temporary periods to other persons in return for compensation. All possession corporations treated as 1 corporation under paragraph (5) shall be treated as 1 employer for purposes of the preceding sentence.
 
 #### (D) Wages
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), the term “wages” has the meaning given to such term by subsection (b) of section 3306 (determined without regard to any dollar limitation contained in such section). For purposes of the preceding sentence, such subsection (b) shall be applied as if the term “United States” included all possessions of the United States.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the term "wages" has the meaning given to such term by subsection (b) of section 3306 (determined without regard to any dollar limitation contained in such section). For purposes of the preceding sentence, such subsection (b) shall be applied as if theterm "United States" included all possessions of the United States.
 
 #### (ii) Special rule for agricultural labor and railway labor
 
-&emsp;&emsp;&emsp;In any case to which subparagraph (A) or (B) of paragraph (1) of section 51(h) applies, the term “wages” has the meaning given to such term by section 51(h)(2).
+&emsp;&emsp;&emsp;In any case to which subparagraph (A) or (B) of paragraph (1) of section 51(h) applies, the term "wages" has the meaning given to such term by section 51(h)(2).
 
 #### (2) Allocable employee fringe benefit expenses
 
 #### (A) In general
 
-&emsp;&emsp;The allocable employee fringe benefit expenses of any possession corporation for anytaxable year is an amount which bears the same ratio to the amount determined under subparagraph (B) for such taxable year as—
+&emsp;&emsp;The allocable employee fringe benefit expenses of any possession corporation for any taxable year is an amount which bears the same ratio to the amount determined under subparagraph (B) for such taxable year as—
 
 &emsp;&emsp;&emsp;(i) the aggregate amount of the possession corporation's qualified possession wages for such taxable year, bears to
 
@@ -598,7 +598,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (C) Possession income taxes
 
-&emsp;&emsp;For purposes of this paragraph, the term “possession income taxes” means any taxes of a possession of the United States which are treated as not being income, war profits, or excess profits taxes paid or accrued to a possession of the United States by reason of subsection (c).
+&emsp;&emsp;For purposes of this paragraph, the term "possession income taxes" means any taxes of a possession of the United States which are treated as not being income, war profits, or excess profits taxes paid or accrued to a possession of the United States by reason of subsection (c).
 
 #### (4) Depreciation rules
 
@@ -606,25 +606,25 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (A) Depreciation allowances
 
-&emsp;&emsp;The term “depreciation allowances” means the depreciation deductions allowable under section 167 to the possession corporation.
+&emsp;&emsp;The term "depreciation allowances" means the depreciation deductions allowable under section 167 to the possession corporation.
 
 #### (B) Categories of property
 
 #### (i) Qualified tangible property
 
-&emsp;&emsp;&emsp;The term “qualified tangible property” means any tangible property used by the possession corporation in a possession of the United States in the active conduct of a trade or business within such possession.
+&emsp;&emsp;&emsp;The term "qualified tangible property" means any tangible property used by the possession corporation in a possession of the United States in the active conduct of a trade or business within such possession.
 
 #### (ii) Short-life qualified tangible property
 
-&emsp;&emsp;&emsp;The term “short-life qualified tangible property” means any qualified tangible property to which section 168 applies and which is 3-year property or 5-year property for purposes of such section.
+&emsp;&emsp;&emsp;The term "short-life qualified tangible property" means any qualified tangible property to which section 168 applies and which is 3-year property or 5-year property for purposes of such section.
 
 #### (iii) Medium-life qualified tangible property
 
-&emsp;&emsp;&emsp;The term “medium-life qualified tangible property” means any qualified tangible property to which section 168 applies and which is 7-year property or 10-year property for purposes of such section.
+&emsp;&emsp;&emsp;The term "medium-life qualified tangible property" means any qualified tangible property to which section 168 applies and which is 7-year property or 10-year property for purposes of such section.
 
 #### (iv) Long-life qualified tangible property
 
-&emsp;&emsp;&emsp;The term “long-life qualified tangible property” means any qualified tangible property to which section 168 applies and which is not described in clause (ii) or (iii).
+&emsp;&emsp;&emsp;The term "long-life qualified tangible property" means any qualified tangible property to which section 168 applies and which is not described in clause (ii) or (iii).
 
 #### (v) Transitional rule
 
@@ -634,7 +634,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (A) In general
 
-&emsp;&emsp;Any affiliated group may elect to treat all possession corporations which would bemembers of such group but for section 1504(b)(3) or (4) as 1 corporation for purposes of this section. The credit determined under this section with respect to such 1 corporation shall be allocated among such possession corporations in such manner as the Secretary may prescribe.
+&emsp;&emsp;Any affiliated group may elect to treat all possession corporations which would be members of such group but for section 1504(b)(3) or (4) as 1 corporation for purposes of this section. The credit determined under this section with respect to such 1 corporation shall be allocated among such possession corporations in such manner as the Secretary may prescribe.
 
 #### (B) Election
 
@@ -642,7 +642,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (6) Possession corporation
 
-&emsp;The term “possession corporation” means a domestic corporation for which the election provided in subsection (a) is in effect.
+&emsp;The term "possession corporation" means a domestic corporation for which the election provided in subsection (a) is in effect.
 
 #### (j) Termination
 
@@ -698,7 +698,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (A) In general
 
-&emsp;&emsp;The term “adjusted base period income” means the average of the inflation-adjusted possession incomes of the corporation for each base period year.
+&emsp;&emsp;The term "adjusted base period income" means the average of the inflation-adjusted possession incomes of the corporation for each base period year.
 
 #### (B) Inflation-adjusted possession income
 
@@ -738,7 +738,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (A) In general
 
-&emsp;&emsp;The term “base period year” means each of 3 taxable years which are among the 5most recent taxable years of the corporation ending before October 14, 1995, determined by disregarding—
+&emsp;&emsp;The term "base period year" means each of 3 taxable years which are among the 5 most recent taxable years of the corporation ending before October 14, 1995, determined by disregarding—
 
 &emsp;&emsp;&emsp;(i) one taxable year for which the corporation had the largest inflation-adjusted possession income, and
 
@@ -748,25 +748,25 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If a corporation does not have significant possession income for each of the most recent 5 taxable years ending before October 14, 1995, then, in lieu of applying subparagraph (A), the term “base period year” means only those taxable years (of such 5 taxable years) for which the corporation has significant possession income; except that, if such corporation has significant possession income for 4 of such 5 taxable years, the rule of subparagraph (A)(ii) shall apply.
+&emsp;&emsp;&emsp;If a corporation does not have significant possession income for each of the most recent 5 taxable years ending before October 14, 1995, then, in lieu of applying subparagraph (A), the term "base period year" means only those taxable years (of such 5 taxable years) for which the corporation has significant possession income; except that, if such corporation has significant possession income for 4 of such 5 taxable years, the rule of subparagraph (A)(ii) shall apply.
 
 #### (ii) Special rule
 
 &emsp;&emsp;&emsp;If there is no year (of such 5 taxable years) for which a corporation has significant possession income—
 
-&emsp;&emsp;&emsp;&emsp;(I) the term “base period year” means the first taxable year ending on or after October 14, 1995, but
+&emsp;&emsp;&emsp;&emsp;(I) the term "base period year" means the first taxable year ending on or after October 14, 1995, but
 
 &emsp;&emsp;&emsp;&emsp;(II) the amount of possession income for such year which is taken into account under paragraph (4) shall be the amount which would be determined if such year were a short taxable year ending on September 30, 1995.
 
 #### (iii) Significant possession income
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “significant possession income” means possession income which exceeds 2 percent of the possession income of the taxpayer for the taxable year (of the period of 6 taxable years ending with the first taxable year ending on or after October 14, 1995) having the greatest possession income.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "significant possession income" means possession income which exceeds 2 percent of the possession income of the taxpayer for the taxable year (of the period of 6 taxable years ending with the first taxable year ending on or after October 14, 1995) having the greatest possession income.
 
 #### (C) Election to use one base period year
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;At the election of the taxpayer, the term “base period year” means—
+&emsp;&emsp;&emsp;At the election of the taxpayer, the term "base period year" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) only the last taxable year of the corporation ending in calendar year 1992, or
 
@@ -786,7 +786,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (6) Possession income
 
-&emsp;For purposes of this subsection, the term “possession income” means, with respect to any possession, the income referred to in subsection (a)(1)(A) determined with respect to that possession. In no event shall possession income be treated as being less than zero.
+&emsp;For purposes of this subsection, the term "possession income" means, with respect to any possession, the income referred to in subsection (a)(1)(A) determined with respect to that possession. In no event shall possession income be treated as being less than zero.
 
 #### (7) Short years
 
@@ -800,7 +800,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (B) Applicable possession
 
-&emsp;&emsp;For purposes of this paragraph, the term “applicable possession” means Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;&emsp;For purposes of this paragraph, the term "applicable possession" means Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (9) Existing credit claimant
 
@@ -808,7 +808,7 @@ No credit shall be allowed under this section to a corporation for any taxable y
 
 #### (A) In general
 
-&emsp;&emsp;The term “existing credit claimant” means a corporation—
+&emsp;&emsp;The term "existing credit claimant" means a corporation—
 
 &emsp;&emsp;&emsp;(i)(I) which was actively conducting a trade or business in a possession on October 13, 1995, and
 
@@ -854,17 +854,17 @@ Section 230 of the Social Security Act, referred to in subsec. (i)(1)(B)(i), is 
 
 #### Amendments
 
-<b>2007</b>—Subsec. (f)(2)(B). Pub. L. 110–172 struck out “FSC or” before “former FSC”.
+<b>2007</b>—Subsec. (f)(2)(B). Pub. L. 110–172 struck out "FSC or" before "former FSC".
 
-<b>2004</b>—Subsec. (a)(2)(A). Pub. L. 108–357 substituted “subsections (f) and (g) of section 904” for “section 904(f)”.
+<b>2004</b>—Subsec. (a)(2)(A). Pub. L. 108–357 substituted "subsections (f) and (g) of section 904" for "section 904(f)".
 
-<b>1996</b>—Subsec. (a)(4)(A)(ii)(I). Pub. L. 104–188, §1704(t)(80), which directed that subcl. (I) be amended by substituting “depreciation” for “deprecation”, could not be executed, because the word “deprecation” did not appear in text.
+<b>1996</b>—Subsec. (a)(4)(A)(ii)(I). Pub. L. 104–188, §1704(t)(80), which directed that subcl. (I) be amended by substituting "depreciation" for "deprecation", could not be executed, because the word "deprecation" did not appear in text.
 
-Subsec. (b). Pub. L. 104–188, §1704(t)(37), substituted “subparagraphs (D)(ii)” for “subparagraphs (D)(ii)(I)”.
+Subsec. (b). Pub. L. 104–188, §1704(t)(37), substituted "subparagraphs (D)(ii)" for "subparagraphs (D)(ii)(I)".
 
 Subsec. (j). Pub. L. 104–188, §1601(a), added subsec. (j).
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–66, §13227(a)(1), substituted “Except as otherwise provided in this section” for “Except as provided in paragraph (3)”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–66, §13227(a)(1), substituted "Except as otherwise provided in this section" for "Except as provided in paragraph (3)".
 
 Subsec. (a)(4). Pub. L. 103–66, §13227(a)(2), added par. (4).
 
@@ -872,27 +872,27 @@ Subsec. (i). Pub. L. 103–66, §13227(b), added subsec. (i).
 
 <b>1990</b>—Subsec. (d)(4)(D). Pub. L. 101–382 added subpar. (D).
 
-Subsec. (e)(1). Pub. L. 101–508 substituted “subsection (a)(2)” for “subsection (a)(1)” wherever appearing.
+Subsec. (e)(1). Pub. L. 101–508 substituted "subsection (a)(2)" for "subsection (a)(1)" wherever appearing.
 
-<b>1988</b>—Subsec. (d)(3)(B). Pub. L. 100–647, §1012(j), inserted “(as in effect on the day before the date of the enactment of the Tax Reform Act of 1986)” after “section 957(c)”.
+<b>1988</b>—Subsec. (d)(3)(B). Pub. L. 100–647, §1012(j), inserted "(as in effect on the day before the date of the enactment of the Tax Reform Act of 1986)" after "section 957(c)".
 
-Subsec. (d)(4)(A)(ii). Pub. L. 100–647, §1012(n)(5)(A), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “in accordance with a specific authorization granted by the Government Development Bank for Puerto Rico pursuant to regulations issued by the Secretary of the Treasury of Puerto Rico.”
+Subsec. (d)(4)(A)(ii). Pub. L. 100–647, §1012(n)(5)(A), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: "in accordance with a specific authorization granted by the Government Development Bank for Puerto Rico pursuant to regulations issued by the Secretary of the Treasury of Puerto Rico."
 
-Subsec. (d)(4)(B). Pub. L. 100–647, §6132(a), inserted “and the Virgin Islands” after “274(h)(6)(A)”.
+Subsec. (d)(4)(B). Pub. L. 100–647, §6132(a), inserted "and the Virgin Islands" after "274(h)(6)(A)".
 
-Subsec. (d)(4)(C)(i), (ii). Pub. L. 100–647, §1012(n)(5)(B), substituted “Commissioner of Financial Institutions of Puerto Rico” for “Secretary of the Treasury of Puerto Rico”.
+Subsec. (d)(4)(C)(i), (ii). Pub. L. 100–647, §1012(n)(5)(B), substituted "Commissioner of Financial Institutions of Puerto Rico" for "Secretary of the Treasury of Puerto Rico".
 
 Subsec. (h)(5)(C)(i)(I). Pub. L. 100–647, §1012(n)(4), amended directory language of Pub. L. 99–514, §1231(a)(1), see 1986 Amendment note below.
 
-Subsec. (h)(5)(C)(i)(IV)(c). Pub. L. 100–647, §1002(h)(3), substituted “section 41” and “section 41(f)” for “section 30” and “section 30(f)”, respectively.
+Subsec. (h)(5)(C)(i)(IV)(c). Pub. L. 100–647, §1002(h)(3), substituted "section 41" and "section 41(f)" for "section 30" and "section 30(f)", respectively.
 
 Subsec. (h)(7), (8). Pub. L. 100–647, §1012(h)(2)(B), added par. (7) and redesignated former par. (7) as (8).
 
-<b>1986</b>—Subsec. (a)(2)(B). Pub. L. 99–514, §1231(d)(1), substituted “75 percent” for “65 percent”.
+<b>1986</b>—Subsec. (a)(2)(B). Pub. L. 99–514, §1231(d)(1), substituted "75 percent" for "65 percent".
 
-Subsec. (a)(2)(C). Pub. L. 99–514, §1231(d)(2), struck out subpar. (C), transitional rule, which read as follows: “In applying subparagraph (B) with respect to taxable years beginning after December 31, 1982, and before January 1, 1985, the following percentage shall be substituted for ‘65 percent’:
+Subsec. (a)(2)(C). Pub. L. 99–514, §1231(d)(2), struck out subpar. (C), transitional rule, which read as follows: "In applying subparagraph (B) with respect to taxable years beginning after December 31, 1982, and before January 1, 1985, the following percentage shall be substituted for '65 percent':
 
-<b>“For taxable years beginning</b>
+<b>"For taxable years beginning</b>
 
 &nbsp;
 
@@ -906,53 +906,53 @@ Subsec. (a)(2)(C). Pub. L. 99–514, §1231(d)(2), struck out subpar. (C), trans
 
 &emsp;&emsp;1984
 
-60\.”
+60\."
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Subsec. (a)(3). Pub. L. 99–499 in par. (3), as amended by Pub. L. 99–514, added subpar. (A) and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
 
-Pub. L. 99–514, §701(e)(4)(I), struck out subpar. (A) which read “section 56 (relating to corporate minimum tax),”, and redesignated subpars. (B), (C), and (E) as (A), (B), and (C), respectively.
+Pub. L. 99–514, §701(e)(4)(I), struck out subpar. (A) which read "section 56 (relating to corporate minimum tax),", and redesignated subpars. (B), (C), and (E) as (A), (B), and (C), respectively.
 
-Subsec. (b). Pub. L. 99–514, §1231(b), inserted at end “This subsection shall not apply to any amount described in subsection (a)(1)(A)(i) received from a person who is not a related person (within the meaning of subsection (h)(3) but without regard to subparagraphs (D)(ii)(I) and (E)(i) thereof) with respect to the domestic corporation.”
+Subsec. (b). Pub. L. 99–514, §1231(b), inserted at end "This subsection shall not apply to any amount described in subsection (a)(1)(A)(i) received from a person who is not a related person (within the meaning of subsection (h)(3) but without regard to subparagraphs (D)(ii)(I) and (E)(i) thereof) with respect to the domestic corporation."
 
-Subsec. (d)(1). Pub. L. 99–514, §1275(a)(1), substituted “and the Virgin Islands” for “, but does not include the Virgin Islands of the United States”.
+Subsec. (d)(1). Pub. L. 99–514, §1275(a)(1), substituted "and the Virgin Islands" for ", but does not include the Virgin Islands of the United States".
 
 Subsec. (d)(4). Pub. L. 99–514, §1231(c), added par. (4).
 
-Subsec. (h)(3)(D)(ii). Pub. L. 99–514, §1812(c)(4)(C), amended cl. (ii) generally. Prior to amendment, cl. (ii), special rules, read as follows: “For purposes of clause (i)—
+Subsec. (h)(3)(D)(ii). Pub. L. 99–514, §1812(c)(4)(C), amended cl. (ii) generally. Prior to amendment, cl. (ii), special rules, read as follows: "For purposes of clause (i)—
 
-&emsp;“(I) section 267(b) and section 707(b)(1) shall be applied by substituting ‘10 percent’ for ‘50 percent’, and
+&emsp;"(I) section 267(b) and section 707(b)(1) shall be applied by substituting '10 percent' for '50 percent', and
 
-&emsp;“(II) section 267(b)(3) shall be applied without regard to whether a person was a personal holding company or a foreign personal holding company.”
+&emsp;"(II) section 267(b)(3) shall be applied without regard to whether a person was a personal holding company or a foreign personal holding company."
 
-Subsec. (h)(5)(C)(i)(I). Pub. L. 99–514, §1231(a)(1), as amended by Pub. L. 100–647, §1012(n)(4), in introductory provisions, substituted “the same proportion of 110 percent of the cost” for “the same proportion of the cost”, and inserted at end of material relating to payment of cost sharing “In the case of intangible property described in subsection (h)(3)(B)(i) which the electing corporation is treated as owning under subclause (II), in no event shall the payment required under this subclause be less than the inclusion or payment which would be required under section 367(d)(2)(A)(ii) or section 482 if the electing corporation were a foreign corporation.”
+Subsec. (h)(5)(C)(i)(I). Pub. L. 99–514, §1231(a)(1), as amended by Pub. L. 100–647, §1012(n)(4), in introductory provisions, substituted "the same proportion of 110 percent of the cost" for "the same proportion of the cost", and inserted at end of material relating to payment of cost sharing "In the case of intangible property described in subsection (h)(3)(B)(i) which the electing corporation is treated as owning under subclause (II), in no event shall the payment required under this subclause be less than the inclusion or payment which would be required under section 367(d)(2)(A)(ii) or section 482 if the electing corporation were a foreign corporation."
 
-Subsec. (h)(5)(C)(i)(I)(a). Pub. L. 99–514, §231(d)(3)(G), substituted “section 41(b)” for “section 30(b)”.
+Subsec. (h)(5)(C)(i)(I)(a). Pub. L. 99–514, §231(d)(3)(G), substituted "section 41(b)" for "section 30(b)".
 
-Subsec. (h)(5)(C)(ii)(II). Pub. L. 99–514, §1231(f), substituted “all products and types of services, within such product area, produced or rendered” for “all products produced and types of service rendered”.
+Subsec. (h)(5)(C)(ii)(II). Pub. L. 99–514, §1231(f), substituted "all products and types of services, within such product area, produced or rendered" for "all products produced and types of service rendered".
 
-Pub. L. 99–514, §1231(a)(2), substituted “the third and fourth sentences thereof, but substituting ‘120 percent’ for ‘110 percent’ in the second sentence thereof)” for “the third sentence thereof)”.
+Pub. L. 99–514, §1231(a)(2), substituted "the third and fourth sentences thereof, but substituting '120 percent' for '110 percent' in the second sentence thereof)" for "the third sentence thereof)".
 
-<b>1984</b>—Subsec. (a)(2)(C). Pub. L. 98–369, §712(g), substituted in table heading “The percentage is” for “The percentage tax is”.
+<b>1984</b>—Subsec. (a)(2)(C). Pub. L. 98–369, §712(g), substituted in table heading "The percentage is" for "The percentage tax is".
 
-Subsec. (f). Pub. L. 98–369, §801(d)(11), amended subsec. (f) generally, substituting in heading “Limitation on credit for DISC's and FSC's” for “DISC or former DISC corporation ineligible for credit”, and in text striking out reference to section 992(a) and inserting provision disallowing a credit to a corporation for a taxable year in which it owns at any time stock in a FSC or former FSC.
+Subsec. (f). Pub. L. 98–369, §801(d)(11), amended subsec. (f) generally, substituting in heading "Limitation on credit for DISC's and FSC's" for "DISC or former DISC corporation ineligible for credit", and in text striking out reference to section 992(a) and inserting provision disallowing a credit to a corporation for a taxable year in which it owns at any time stock in a FSC or former FSC.
 
-Subsec. (h)(5)(C)(i)(I)(a). Pub. L. 98–369, §474(r)(22)(A), substituted “section 30(b)” for “section 44F(b)”.
+Subsec. (h)(5)(C)(i)(I)(a). Pub. L. 98–369, §474(r)(22)(A), substituted "section 30(b)" for "section 44F(b)".
 
-Subsec. (h)(5)(C)(i)(IV)(c). Pub. L. 98–369, §474(r)(22)(B), substituted “section 30” for “section 44F” and “section 30(f)” for “section 44F(f)”.
+Subsec. (h)(5)(C)(i)(IV)(c). Pub. L. 98–369, §474(r)(22)(B), substituted "section 30" for "section 44F" and "section 30(f)" for "section 44F(f)".
 
-<b>1982</b>—Subsec. (a)(2)(B). Pub. L. 97–248, §213(a)(1)(A), substituted “65 percent” for “50 percent”.
+<b>1982</b>—Subsec. (a)(2)(B). Pub. L. 97–248, §213(a)(1)(A), substituted "65 percent" for "50 percent".
 
 Subsec. (a)(2)(C). Pub. L. 97–248, §213(a)(1)(B), added subpar. (C).
 
-Subsec. (a)(3)(A). Pub. L. 97–248, §201(d)(8)(B), formerly §201(c)(8)(B), substituted “(relating to corporate minimum tax)” for “(relating to minimum tax)”.
+Subsec. (a)(3)(A). Pub. L. 97–248, §201(d)(8)(B), formerly §201(c)(8)(B), substituted "(relating to corporate minimum tax)" for "(relating to minimum tax)".
 
 Subsec. (h). Pub. L. 97–248, §213(a)(2), added subsec. (h).
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–600, §701(u)(11)(A), reworked provisions of par. (1) into introductory text, substituting reference to par. (3) for reference to par. (2), and subpars. (A) and (B), inserted introductory text of par. (2), redesignated former subpars. (A) and (B) of par. (1) as subpars. (A) and (B) of par. (2), and redesignated former par. (2) as (3).
 
-Subsec. (d). Pub. L. 95–600, §701(u)(11)(B), substituted in heading “Definitions and special rules” for “Definitions” and added par. (3).
+Subsec. (d). Pub. L. 95–600, §701(u)(11)(B), substituted in heading "Definitions and special rules" for "Definitions" and added par. (3).
 
 <b>1976</b>—Subsec. (a)(2)(D). Pub. L. 94–455, §1901(b)(37)(B), struck out subpar. (D) relating to war loss recoveries.
 
@@ -970,13 +970,13 @@ Amendment by Pub. L. 103–66 applicable to taxable years beginning after Dec. 3
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–382, title II, §227(b), Aug. 20, 1990, 104 Stat. 661, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to calendar years after 1989.”
+Pub. L. 101–382, title II, §227(b), Aug. 20, 1990, 104 Stat. 661, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to calendar years after 1989."
 
 #### Effective Date of 1988 Amendment
 
 Amendment by sections 1002(h)(3) and 1012(h)(2)(B), (j), (n)(4), (5) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
-Pub. L. 100–647, title VI, §6132(b), Nov. 10, 1988, 102 Stat. 3721, provided that: “The amendment made by this section \[amending this section\] shall apply to investments made after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6132(b), Nov. 10, 1988, 102 Stat. 3721, provided that: "The amendment made by this section \[amending this section\] shall apply to investments made after the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 #### Effective Date of 1986 Amendments
 
@@ -986,65 +986,65 @@ Amendment by section 701(e)(4)(I) of Pub. L. 99–514 applicable to taxable year
 
 Pub. L. 99–514, title XII, §1231(g), Oct. 22, 1986, 100 Stat. 2563, as amended by Pub. L. 100–647, title I, §1012(n)(1)–(3), Nov. 10, 1988, 102 Stat. 3514, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section and sections 367 and 482 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
-“(2)
+"(2)
 
 Special rule for transfer of intangibles.—
 
-&emsp;“(A)
+&emsp;"(A)
 
-In general.—The amendments made by subsection (e) \[amending sections 367 and 482 of this title\] shall apply to taxable years beginning after December 31, 1986, but only with respect to transfers after November 16, 1985, or licenses granted after such date (or before such date with respect to property not in existence or owned by the taxpayer on such date). In the case of any transfer (or license) which is not to a foreign person, the preceding sentence shall be applied by substituting ‘August 16, 1986’ for ‘November 16, 1985’.
+In general.—The amendments made by subsection (e) \[amending sections 367 and 482 of this title\] shall apply to taxable years beginning after December 31, 1986, but only with respect to transfers after November 16, 1985, or licenses granted after such date (or before such date with respect to property not in existence or owned by the taxpayer on such date). In the case of any transfer (or license) which is not to a foreign person, the preceding sentence shall be applied by substituting 'August 16, 1986' for 'November 16, 1985'.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Special rule for section 936.—For purposes of section 936(h)(5)(C) of the Internal Revenue Code of 1986 the amendments made by subsection (e) shall apply to taxable years beginning after December 31, 1986, without regard to when the transfer (or license), if any, was made.
 
-“(3)
+"(3)
 
 Subsection (f).—The amendment made by subsection (f) \[amending this section\] shall apply to taxable years beginning after December 31, 1982.
 
-“(4)
+"(4)
 
 Transitional rule.—In the case of a corporation—
 
-&emsp;“(A) with respect to which an election under section 936 of the Internal Revenue Code of 1986 (relating to possessions tax credit) is in effect,
+&emsp;"(A) with respect to which an election under section 936 of the Internal Revenue Code of 1986 (relating to possessions tax credit) is in effect,
 
-&emsp;“(B) which produced an end-product form in Puerto Rico on or before September 3, 1982,
+&emsp;"(B) which produced an end-product form in Puerto Rico on or before September 3, 1982,
 
-&emsp;“(C) which began manufacturing a component of such product in Puerto Rico in its taxable year beginning in 1983, and
+&emsp;"(C) which began manufacturing a component of such product in Puerto Rico in its taxable year beginning in 1983, and
 
-&emsp;“(D) with respect to which a Puerto Rican tax exemption was granted on June 27, 1983,
+&emsp;"(D) with respect to which a Puerto Rican tax exemption was granted on June 27, 1983,
 
 > such corporation shall treat such component as a separate product for such taxable year for purposes of determining whether such corporation had a significant business presence in Puerto Rico with respect to such product and its income with respect to such product.
 
-“(5)
+"(5)
 
 Transitional rule for increase in gross income test.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—If—
 
-&emsp;&emsp;“(i) a corporation fails to meet the requirements of subparagraph (B) of section 936(a)(2) of the Internal Revenue Code of 1986 (as amended by subsection (d)(1)) for any taxable year beginning in 1987 or 1988,
+&emsp;&emsp;"(i) a corporation fails to meet the requirements of subparagraph (B) of section 936(a)(2) of the Internal Revenue Code of 1986 (as amended by subsection (d)(1)) for any taxable year beginning in 1987 or 1988,
 
-&emsp;&emsp;“(ii) such corporation would have met the requirements of such subparagraph (B) if such subparagraph had been applied without regard to the amendment made by subsection (d)(1), and
+&emsp;&emsp;"(ii) such corporation would have met the requirements of such subparagraph (B) if such subparagraph had been applied without regard to the amendment made by subsection (d)(1), and
 
-&emsp;&emsp;“(iii) 75 percent or more of the gross income of such corporation for such taxable year (or, in the case of a taxable year beginning in 1988, for the period consisting of such taxable year and the preceding taxable year) was derived from the active conduct of a trade or business within a possession of the United States, such corporation shall nevertheless be treated as meeting the requirements of such subparagraph (B) for such taxable year if it elects to reduce the amount of the qualified possession source investment income for the taxable year by the amount of the shortfall determined under subparagraph (B) of this paragraph.
+&emsp;&emsp;"(iii) 75 percent or more of the gross income of such corporation for such taxable year (or, in the case of a taxable year beginning in 1988, for the period consisting of such taxable year and the preceding taxable year) was derived from the active conduct of a trade or business within a possession of the United States, such corporation shall nevertheless be treated as meeting the requirements of such subparagraph (B) for such taxable year if it elects to reduce the amount of the qualified possession source investment income for the taxable year by the amount of the shortfall determined under subparagraph (B) of this paragraph.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Determination of shortfall.—The shortfall determined under this subparagraph for any taxable year is an amount equal to the excess of—
 
-&emsp;&emsp;“(i) 75 percent of the gross income of the corporation for the 3-year period (or part thereof) referred to in section 936(a)(2)(A) of such Code, over
+&emsp;&emsp;"(i) 75 percent of the gross income of the corporation for the 3-year period (or part thereof) referred to in section 936(a)(2)(A) of such Code, over
 
-&emsp;&emsp;“(ii) the amount of the gross income of such corporation for such period (or part thereof) which was derived from the active conduct of a trade or business within a possession of the United States.
+&emsp;&emsp;"(ii) the amount of the gross income of such corporation for such period (or part thereof) which was derived from the active conduct of a trade or business within a possession of the United States.
 
-&emsp;“(C)
+&emsp;"(C)
 
-Special rule.—Any income attributable to the investment of the amount not treated as qualified possession source investment income under subparagraph (A) shall not be treated as qualified possession source investment income for any taxable year.”
+Special rule.—Any income attributable to the investment of the amount not treated as qualified possession source investment income under subparagraph (A) shall not be treated as qualified possession source investment income for any taxable year."
 
 Amendment by section 1275(a)(1) of Pub. L. 99–514 applicable to taxable years beginning after Dec. 31, 1986, with certain exceptions and qualifications, see section 1277 of Pub. L. 99–514, set out as a note under section 931 of this title.
 
@@ -1066,21 +1066,21 @@ Amendment by section 201(d)(8)(B) of Pub. L. 97–248 applicable to taxable year
 
 Pub. L. 97–248, title II, §213(e), Sept. 3, 1982, 96 Stat. 466, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraphs (2) and (3), the amendments made by this section \[amending this section and sections 246, 367, and 934 of this title\] shall apply to taxable years beginning after December 31, 1982.
 
-“(2)
+"(2)
 
 Certain sales made after july 1, 1982.—Paragraph (6) of section 936(h) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], and so much of section 934 to which such paragraph applies by reason of section 934(e)(4) of such Code, shall apply to taxable years ending after July 1, 1982.
 
-“(3)
+"(3)
 
-Certain transfers of intangibles made after august 14, 1982.—Subsection (d) \[amending section 367 of this title\] shall apply to taxable years ending after August 14, 1982.”
+Certain transfers of intangibles made after august 14, 1982.—Subsection (d) \[amending section 367 of this title\] shall apply to taxable years ending after August 14, 1982."
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title VII, §701(u)(11)(C), Nov. 6, 1978, 92 Stat. 2918, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this paragraph \[amending this section\] shall apply as if included in section 936 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] at the time of its addition by section 1051(b) of the Tax Reform Act of 1976 \[Oct. 4, 1976\].”
+Pub. L. 95–600, title VII, §701(u)(11)(C), Nov. 6, 1978, 92 Stat. 2918, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendments made by this paragraph \[amending this section\] shall apply as if included in section 936 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] at the time of its addition by section 1051(b) of the Tax Reform Act of 1976 \[Oct. 4, 1976\]."
 
 #### Effective Date of 1976 Amendment
 
@@ -1096,11 +1096,11 @@ For applicability of amendment by section 701(e)(4)(I) of Pub. L. 99–514 notwi
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1800–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of this title.
 
 #### Report on Possessions Corporations
 
-Pub. L. 98–369, div. A, title IV, §441(a), July 18, 1984, 98 Stat. 815, as amended by Pub. L. 99–514, §2, Oct. 22,1986, 100 Stat. 2095; Pub. L. 100–647, title VI, §6252(b)(1), Nov. 10, 1988, 102 Stat. 3752, which directed Secretary of the Treasury to submit a report to Congress each fourth calendar year on the operation and effect of sections 936 and 934(b) of this title, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 142 of House Document No. 103–7.
+Pub. L. 98–369, div. A, title IV, §441(a), July 18, 1984, 98 Stat. 815, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–647, title VI, §6252(b)(1), Nov. 10, 1988, 102 Stat. 3752, which directed Secretary of the Treasury to submit a report to Congress each fourth calendar year on the operation and effect of sections 936 and 934(b) of this title, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 142 of House Document No. 103–7.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “corporation's”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "corporation's".</i>
 

@@ -151,7 +151,7 @@
 
 |  |  |
 | :--- | ---: |
-| [391\.](Subchapter%20002%20%28II%29%20-%20Reclamation%20Fund%20Generally/%C2%A7%2000391%20-%20Establishment%20of%20%E2%80%9Creclamation%20fund%E2%80%9D.md) | Establishment of “reclamation fund”. |
+| [391\.](Subchapter%20002%20%28II%29%20-%20Reclamation%20Fund%20Generally/%C2%A7%2000391%20-%20Establishment%20of%20reclamation%20fund.md) | Establishment of "reclamation fund". |
 | [391a.](Subchapter%20002%20%28II%29%20-%20Reclamation%20Fund%20Generally/%C2%A7%2000391a%20-%20Advances%20to%20reclamation%20fund.md) | Advances to reclamation fund. |
 | 391a–1. | Increase in reclamation fund; reimbursement of advances from Treasury. |
 | [391b.](Subchapter%20002%20%28II%29%20-%20Reclamation%20Fund%20Generally/%C2%A7%2000391b%20-%20Omitted.md) | Omitted. |
@@ -198,7 +198,7 @@
 | [420\.](Subchapter%20003%20%28III%29%20-%20Institution%20and%20Construction%20of%20Projects/%C2%A7%2000420%20-%20Use%20of%20earth%2C%20timber%2C%20etc.%2C%20from%20other%20public%20lands.md) | Use of earth, timber, etc., from other public lands. |
 | [421\.](Subchapter%20003%20%28III%29%20-%20Institution%20and%20Construction%20of%20Projects/%C2%A7%2000421%20-%20Acquisition%20of%20lands%20for%20irrigation%20project%3B%20eminent%20domain.md) | Acquisition of lands for irrigation project; eminent domain. |
 | [421a.](Subchapter%20003%20%28III%29%20-%20Institution%20and%20Construction%20of%20Projects/%C2%A7%2000421a%20-%20Construction%20of%20distribution%20and%20drainage%20systems%20by%20irrigation%20districts%20or%20public%20agencies.md) | Construction of distribution and drainage systems by irrigation districts or public agencies. |
-| [421b.](Subchapter%20003%20%28III%29%20-%20Institution%20and%20Construction%20of%20Projects/%C2%A7%2000421b%20-%20Loans%20for%20construction%20of%20distribution%20and%20drainage%20systems%3B%20repayment%20contract%3B%20time%20period%20for%20repayment%20of%20loan%3B%20%E2%80%9Cirrigation%E2%80%A6.md) | Loans for construction of distribution and drainage systems; repayment contract; time period for repayment of loan; “irrigation district or other public agency” defined. |
+| [421b.](Subchapter%20003%20%28III%29%20-%20Institution%20and%20Construction%20of%20Projects/%C2%A7%2000421b%20-%20Loans%20for%20construction%20of%20distribution%20and%20drainage%20systems%3B%20repayment%20contract%3B%20time%20period%20for%20repayment%20of%20loan%3B%20irrigation%20district%E2%80%A6.md) | Loans for construction of distribution and drainage systems; repayment contract; time period for repayment of loan; "irrigation district or other public agency" defined. |
 | [421c.](Subchapter%20003%20%28III%29%20-%20Institution%20and%20Construction%20of%20Projects/%C2%A7%2000421c%20-%20Conditions%20of%20loan%20for%20distribution%20and%20drainage%20systems%3B%20reconveyance%20by%20Secretary%20of%20lands%2C%20interests%20in%20lands%2C%20and%20distribution%20works%E2%80%A6.md) | Conditions of loan for distribution and drainage systems; reconveyance by Secretary of lands, interests in lands, and distribution works heretofore conveyed to the United States; conditions of reconveyance; rights of way. |
 | [421d.](Subchapter%20003%20%28III%29%20-%20Institution%20and%20Construction%20of%20Projects/%C2%A7%2000421d%20-%20Effect%20on%20existing%20laws.md) | Effect on existing laws. |
 | [421e.](Subchapter%20003%20%28III%29%20-%20Institution%20and%20Construction%20of%20Projects/%C2%A7%2000421e%20-%20Municipal%20and%20industrial%20water%20supply%20delivery%20and%20distribution%3B%20allocation%20of%20loan%20funds%3B%20loan%20repayment%20contract%20requirements%3B%20rate%20of%E2%80%A6.md) | Municipal and industrial water supply delivery and distribution; allocation of loan funds; loan repayment contract requirements; rate of interest. |
@@ -293,7 +293,7 @@
 | [451f.](Subchapter%20007%20%28VII%29%20-%20Exchange%20and%20Amendment%20of%20Farm%20Units/%C2%A7%2000451f%20-%20Exchanges%20subject%20to%20mortgage%20contracts.md) | Exchanges subject to mortgage contracts. |
 | [451g.](Subchapter%20007%20%28VII%29%20-%20Exchange%20and%20Amendment%20of%20Farm%20Units/%C2%A7%2000451g%20-%20Preferences%3B%20veterans%3B%20timely%20applicants.md) | Preferences; veterans; timely applicants. |
 | [451h.](Subchapter%20007%20%28VII%29%20-%20Exchange%20and%20Amendment%20of%20Farm%20Units/%C2%A7%2000451h%20-%20Establishment%20of%20farm%20units%3B%20size%3B%20contiguous%20or%20noncontiguous.md) | Establishment of farm units; size; contiguous or noncontiguous. |
-| [451i.](Subchapter%20007%20%28VII%29%20-%20Exchange%20and%20Amendment%20of%20Farm%20Units/%C2%A7%2000451i%20-%20%E2%80%9CFederal%20irrigation%20project%E2%80%9D%20defined.md) | “Federal irrigation project” defined. |
+| [451i.](Subchapter%20007%20%28VII%29%20-%20Exchange%20and%20Amendment%20of%20Farm%20Units/%C2%A7%2000451i%20-%20Federal%20irrigation%20project%20defined.md) | "Federal irrigation project" defined. |
 | [451j.](Subchapter%20007%20%28VII%29%20-%20Exchange%20and%20Amendment%20of%20Farm%20Units/%C2%A7%2000451j%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [451k.](Subchapter%20007%20%28VII%29%20-%20Exchange%20and%20Amendment%20of%20Farm%20Units/%C2%A7%2000451k%20-%20Availability%20of%20appropriations%3B%20expenses%20as%20nonreimbursable.md) | Availability of appropriations; expenses as nonreimbursable. |
 
@@ -354,7 +354,7 @@
 | [485h.](Subchapter%20010%20%28X%29%20-%20Payment%20of%20Construction%20Charges/%C2%A7%2000485h%20-%20New%20projects%3B%20sale%20of%20water%20and%20electric%20power%3B%20lease%20of%20power%20privileges.md) | New projects; sale of water and electric power; lease of power privileges. |
 | 485h–1. | Administration of repayment contracts and long-term contracts to furnish water; renewal and conversion; credit for payments; right to available water supply; rates; construction component. |
 | 485h–2. | Amendments to existing contracts. |
-| 485h–3. | “Long-term contract” defined. |
+| 485h–3. | "Long-term contract" defined. |
 | 485h–4. | Application of State laws. |
 | 485h–5. | Supplement to Federal reclamation laws. |
 | 485h–6. | Repayment contracts; amendment for provision, addition or modification of irrigation blocks. |
@@ -384,7 +384,7 @@
 | [500\.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000500%20-%20Duty%20of%20association%20or%20district%20to%20take%20over%20management.md) | Duty of association or district to take over management. |
 | [501\.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000501%20-%20Disposition%20of%20profits%20of%20project%20taken%20over%20by%20water%20users.md) | Disposition of profits of project taken over by water users. |
 | [502\.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000502%20-%20Emergency%20fund%20to%20assure%20continuous%20operation%20of%20projects%20and%20project%20facilities%20governed%20by%20Federal%20reclamation%20law.md) | Emergency fund to assure continuous operation of projects and project facilities governed by Federal reclamation law. |
-| [503\.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000503%20-%20%E2%80%9CUnusual%20or%20emergency%20conditions%E2%80%9D%20defined.md) | “Unusual or emergency conditions” defined. |
+| [503\.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000503%20-%20Unusual%20or%20emergency%20conditions%20defined.md) | "Unusual or emergency conditions" defined. |
 | [504\.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000504%20-%20Rehabilitation%20and%20betterment%20of%20Federal%20reclamation%20projects%2C%20including%20small%20reclamation%20projects%3B%20return%20of%20costs%3B%20interest%E2%80%A6.md) | Rehabilitation and betterment of Federal reclamation projects, including small reclamation projects; return of costs; interest; definitions; performance of work. |
 | [505\.](Subchapter%20011%20%28XI%29%20-%20Maintenance%20and%20Operation%20of%20Works%20Generally/%C2%A7%2000505%20-%20Drainage%20facilities%20and%20minor%20construction%20in%20irrigation%20works%3B%20contracts%20with%20repayment%20organizations%3B%20limitation%20on%20costs%3B%20submission%20of%E2%80%A6.md) | Drainage facilities and minor construction in irrigation works; contracts with repayment organizations; limitation on costs; submission of contract to Congress. |
 
@@ -496,7 +496,7 @@
 | [597\.](Subchapter%20017%20%28XVII%29%20-%20Legislation%20Applicable%20to%20Particular%20Projects%20Generally/%C2%A7%2000597%20-%20Riverton%20project%2C%20Wyoming.md) | Riverton project, Wyoming. |
 | [597a.](Subchapter%20017%20%28XVII%29%20-%20Legislation%20Applicable%20to%20Particular%20Projects%20Generally/%C2%A7%2000597a%20-%20Easements%20for%20Bull%20Lake%20Dam%20and%20Reservoir.md) | Easements for Bull Lake Dam and Reservoir. |
 | [597b.](Subchapter%20017%20%28XVII%29%20-%20Legislation%20Applicable%20to%20Particular%20Projects%20Generally/%C2%A7%2000597b%20-%20Compensation%20for%20easements.md) | Compensation for easements. |
-| [597c.](Subchapter%20017%20%28XVII%29%20-%20Legislation%20Applicable%20to%20Particular%20Projects%20Generally/%C2%A7%2000597c%20-%20Reservation%20of%20Indians%E2%80%99%20right%20to%20use%20lands.md) | Reservation of Indians’ right to use lands. |
+| [597c.](Subchapter%20017%20%28XVII%29%20-%20Legislation%20Applicable%20to%20Particular%20Projects%20Generally/%C2%A7%2000597c%20-%20Reservation%20of%20Indians%27%20right%20to%20use%20lands.md) | Reservation of Indians' right to use lands. |
 | [597d.](Subchapter%20017%20%28XVII%29%20-%20Legislation%20Applicable%20to%20Particular%20Projects%20Generally/%C2%A7%2000597d%20-%20Regulations.md) | Regulations. |
 | [598\.](Subchapter%20017%20%28XVII%29%20-%20Legislation%20Applicable%20to%20Particular%20Projects%20Generally/%C2%A7%2000598%20-%20Salt%20River%20project%2C%20Arizona%3B%20sale%20of%20water%20power.md) | Salt River project, Arizona; sale of water power. |
 | [599\.](Subchapter%20017%20%28XVII%29%20-%20Legislation%20Applicable%20to%20Particular%20Projects%20Generally/%C2%A7%2000599%20-%20Omitted.md) | Omitted. |

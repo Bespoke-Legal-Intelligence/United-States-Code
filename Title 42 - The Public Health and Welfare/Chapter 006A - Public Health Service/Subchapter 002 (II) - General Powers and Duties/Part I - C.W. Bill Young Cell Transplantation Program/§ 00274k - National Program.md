@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall by one or more contracts establish and maintain a C.W. Bill Young Cell Transplantation Program (referred to in this section as the “Program”), successor to the National Bone Marrow Donor Registry, that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow and cord blood, and that meets the requirements of this section. The Secretary may award a separate contract to perform each of the major functions of the Program described in paragraphs (1) and (2) of subsection (d) of this section if deemed necessary by the Secretary to operate an effective and efficient system that is in the best interest of patients. The Secretary shall conduct a separate competition for the initial establishment of the cord blood functions of the Program. The Program shall be under the general supervision of the Secretary. The Secretary shall establish an Advisory Council to advise, assist, consult with, and make recommendations to the Secretary on matters related to the activities carried out by the Program. The members of the Advisory Council shall be appointed in accordance with the following:
+The Secretary, acting through the Administrator of the Health Resources and Services Administration, shall by one or more contracts establish and maintain a C.W. Bill Young Cell Transplantation Program (referred to in this section as the "Program"), successor to the National Bone Marrow Donor Registry, that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow and cord blood, and that meets the requirements of this section. The Secretary may award a separate contract to perform each of the major functions of the Program described in paragraphs (1) and (2) of subsection (d) of this section if deemed necessary by the Secretary to operate an effective and efficient system that is in the best interest of patients. The Secretary shall conduct a separate competition for the initial establishment of the cord blood functions of the Program. The Program shall be under the general supervision of the Secretary. The Secretary shall establish an Advisory Council to advise, assist, consult with, and make recommendations to the Secretary on matters related to the activities carried out by the Program. The members of the Advisory Council shall be appointed in accordance with the following:
 
 &emsp;(1) Each member of the Advisory Council shall serve for a term of 2 years, and each such member may serve as many as 3 consecutive 2-year terms, except that—
 
@@ -54,7 +54,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 &emsp;&emsp;(C) carry out a program for the recruitment of bone marrow donors in accordance with subsection (e) of this section, including with respect to increasing the representation of racial and ethnic minority groups (including persons of mixed ancestry) in the enrollment of the Program;
 
-&emsp;&emsp;(D) maintain and expand medical contingency response capabilities, in coordination with Federal programs, to prepare for and respond effectively to biological, chemical, or radiological attacks, and other publichealth emergencies that can damage marrow, so that the capability of supporting patients with marrow damage from disease can be used to support casualties with marrow damage;
+&emsp;&emsp;(D) maintain and expand medical contingency response capabilities, in coordination with Federal programs, to prepare for and respond effectively to biological, chemical, or radiological attacks, and other public health emergencies that can damage marrow, so that the capability of supporting patients with marrow damage from disease can be used to support casualties with marrow damage;
 
 &emsp;&emsp;(E) carry out informational and educational activities in accordance with subsection (e) of this section;
 
@@ -84,7 +84,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 &emsp;&emsp;&emsp;(iv) support and expand new and existing studies and demonstration and outreach projects for the purpose of increasing cord blood unit donation and collection from a genetically diverse population and expanding the number of cord blood unit collection sites partnering with cord blood banks receiving a contract under the National Cord Blood Inventory program under section 2 of the Stem Cell Therapeutic and Research Act of 2005, including such studies and projects that focus on—
 
-&emsp;&emsp;&emsp;&emsp;(I) remote collection of cord blood units, consistent with the requirements under the Program and the National Cord Blood Inventory program goal described in section 2(a) of the Stem Cell Therapeutic and Research Act of 2005; and
+&emsp;&emsp;&emsp;&emsp;(I) remote collection of cord blood units, consistent with the requirements under the Program and the National Cord Blood Inventory program goal described in section 2(a) of the Stem CellTherapeutic and Research Act of 2005; and
 
 &emsp;&emsp;&emsp;&emsp;(II) exploring novel approaches or incentives to encourage innovative technological advances that could be used to collect cord blood units, consistent with the requirements under the Program and such National Cord Blood Inventory program goal;
 
@@ -98,11 +98,11 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 #### (B) Efforts to increase collection of high quality cord blood units
 
-&emsp;&emsp;In carrying out subparagraph (A)(iv), not later than 1 year after October 8, 2010, and annually thereafter, the Secretary shall set an annual goal of increasing collections of high quality cord blood units, consistent with the inventory goal described in section 2(a) of the Stem Cell Therapeutic and Research Act of 2005 (referred to in this subparagraph as the “inventory goal”), and shall identify at least one project under subparagraph (A)(iv) to replicate and expand nationwide, as appropriate. If the Secretary cannot identify a project as described in the preceding sentence, the Secretary shall submit a plan, not later than 180 days after the date on which the Secretary was required to identify such a project, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives for expanding remote collection of high quality cord blood units, consistent with the requirements under the National Cord Blood Inventory program under section 2 of the Stem Cell Therapeutic and Research Act of 2005 and the inventory goal. Each such plan shall be made available to the public.
+&emsp;&emsp;In carrying out subparagraph (A)(iv), not later than 1 year after October 8, 2010, and annually thereafter, the Secretary shall set an annual goal of increasing collections of high quality cord blood units, consistent with the inventory goal described in section 2(a) of the Stem Cell Therapeutic and Research Act of 2005 (referred to in this subparagraph as the "inventory goal"), and shall identify at least one project under subparagraph (A)(iv) to replicate and expand nationwide, as appropriate. If the Secretary cannot identify a project as described in the preceding sentence, the Secretary shall submit a plan, not later than 180 days after the date on which the Secretary was required to identify such a project, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Energy and Commerce of the House of Representatives for expanding remote collection of high quality cord blood units, consistent with the requirements under the National Cord Blood Inventory program under section 2 of the Stem Cell Therapeutic and Research Act of 2005 and the inventory goal. Each such plan shall be made available to the public.
 
 #### (C) Definition
 
-&emsp;&emsp;In this paragraph, the term “remote collection” means the collection of cord blood units at locations that do not have written contracts with cord blood banks for collection support.
+&emsp;&emsp;In this paragraph, the term "remote collection" means the collection of cord blood units at locations that do not have written contracts with cord blood banks for collection support.
 
 #### (3) Single point of access; standard data
 
@@ -116,7 +116,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 #### (4) Definition
 
-&emsp;The term “qualified cord blood bank” means a cord blood bank that—
+&emsp;The term "qualified cord blood bank" means a cord blood bank that—
 
 &emsp;&emsp;(A) has obtained all applicable Federal and State licenses, certifications, registrations (including pursuant to the regulations of the Food and Drug Administration), and other authorizations required to operate and maintain a cord blood bank;
 
@@ -136,7 +136,7 @@ The Secretary shall, through a public process, examine issues of informed consen
 
 &emsp;The Program shall carry out activities for the recruitment of bone marrow donors. Such recruitment program shall identify populations that are underrepresented among potential donors enrolled with the Program. In the case of populations that are identified under the preceding sentence:
 
-&emsp;&emsp;(A) The Program shall give priority to carrying out activities under this part to increase representation for such populations in order to enable a member of such a population, to the extent practicable, to have a probability of finding a suitable unrelated donor that is comparable to the probability that an individual who is not a member of an underrepresented population would have.
+&emsp;&emsp;(A) The Program shall give priority to carrying out activities under this part to increase representation for such populations in order to enable a member of such a population, to the extent practicable, to have a probability of finding a suitable unrelateddonor that is comparable to the probability that an individual who is not a member of an underrepresented population would have.
 
 &emsp;&emsp;(B) The Program shall consider racial and ethnic minority groups (including persons of mixed ancestry) to be populations that have been identified for purposes of this paragraph, and shall carry out subparagraph (A) with respect to such populations.
 
@@ -222,7 +222,7 @@ The Secretary shall enforce, for participating entities, including the Program, 
 
 #### (1) In general
 
-&emsp;The Secretary shall establish and maintain, through a contract or other means determined appropriate by the Secretary, an office of patient advocacy (in this subsection referred to as the “Office”).
+&emsp;The Secretary shall establish and maintain, through a contract or other means determined appropriate by the Secretary, an office of patient advocacy (in this subsection referred to as the "Office").
 
 #### (2) General functions
 
@@ -278,7 +278,7 @@ The Secretary shall establish and provide information to the public on procedure
 
 #### (j) Consultation
 
-In developing policies affecting the Program, the Secretary shall consult with the Advisory Council, the Department of Defense Marrow Donor Recruitment and Research Program operated by the Department of the Navy, and the board of directors of each entity awarded a contract under this section.
+In developing policies affecting the Program, the Secretary shall consult with the AdvisoryCouncil, the Department of Defense Marrow Donor Recruitment and Research Program operated by the Department of the Navy, and the board of directors of each entity awarded a contract under this section.
 
 #### (k) Contracts
 
@@ -316,197 +316,197 @@ Section 2 of the Stem Cell Therapeutic and Research Act of 2005, referred to in 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(6). Pub. L. 111–264, §2(b)(1), added par. (6) and struck out former par. (6) which read as follows: “The Secretary, acting through the Advisory Council, shall submit to the Congress—
+<b>2010</b>—Subsec. (a)(6). Pub. L. 111–264, §2(b)(1), added par. (6) and struck out former par. (6) which read as follows: "The Secretary, acting through the Advisory Council, shall submit to the Congress—
 
-&emsp;“(A) an annual report on the activities carried out under this section; and
+&emsp;"(A) an annual report on the activities carried out under this section; and
 
-&emsp;“(B) not later than 6 months after December 20, 2005, a report of recommendations on the scientific factors necessary to define a cord blood unit as a high-quality unit.”
+&emsp;"(B) not later than 6 months after December 20, 2005, a report of recommendations on the scientific factors necessary to define a cord blood unit as a high-quality unit."
 
 Subsec. (d)(2). Pub. L. 111–264, §2(b)(2)(A), designated existing provisions as subpar. (A), inserted heading, redesignated former subpars. (A) to (H) as cls. (i) to (viii), respectively, of subpar. (A), added cl. (iv) and struck out former cl. (iv) which related to studies and demonstration and outreach projects for the purpose of increasing cord blood donation, and added subpars. (B) and (C).
 
-Subsec. (d)(3)(A). Pub. L. 111–264, §2(b)(2)(B), substituted “(2)(A)(i)” for “(2)(A)”.
+Subsec. (d)(3)(A). Pub. L. 111–264, §2(b)(2)(B), substituted "(2)(A)(i)" for "(2)(A)".
 
-Subsec. (f)(5)(A). Pub. L. 111–264, §2(b)(3), added subpar. (A) and struck out former subpar. (A) which read as follows: “require the establishment of a system of strict confidentiality of records relating to the identity, address, HLA type, and managing marrow donor center for marrow donors and potential marrow donors; and”.
+Subsec. (f)(5)(A). Pub. L. 111–264, §2(b)(3), added subpar. (A) and struck out former subpar. (A) which read as follows: "require the establishment of a system of strict confidentiality of records relating to the identity, address, HLA type, and managing marrow donor center for marrow donors and potential marrow donors; and".
 
 <b>2005</b>—Pub. L. 109–129 amended section generally, substituting provisions relating to the C.W. Bill Young Cell Transplantation Program for provisions relating to the National Bone Marrow Donor Registry.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–196, §2(a), substituted “(referred to in this part as the ‘Registry’) that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow, and that meets” for “(referred to in this part as the ‘Registry’) that meets” and substituted “under the direction of a board of directors meeting the following requirements:” and pars. (1) to (4) for “under the direction of a board of directors that shall include representatives of marrow donor centers, marrow transplant centers, persons with expertise in the social science, and the general public.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–196, §2(a), substituted "(referred to in this part as the 'Registry') that has the purpose of increasing the number of transplants for recipients suitably matched to biologically unrelated donors of bone marrow, and that meets" for "(referred to in this part as the 'Registry') that meets" and substituted "under the direction of a board of directors meeting the following requirements:" and pars. (1) to (4) for "under the direction of a board of directors that shall include representatives of marrow donor centers, marrow transplant centers, persons with expertise in the social science, and the general public."
 
 Subsec. (b)(2) to (8). Pub. L. 105–196, §2(b)(1), added pars. (2) to (7), redesignated former par. (7) as (8), and struck out former pars. (2) to (6) which read as follows:
 
-“(2) establish a system for patient advocacy, separate from mechanisms for donor advocacy, that directly assists patients, their families, and their physicians in the search for an unrelated marrow donor;
+"(2) establish a system for patient advocacy, separate from mechanisms for donor advocacy, that directly assists patients, their families, and their physicians in the search for an unrelated marrow donor;
 
-“(3) increase the representation of individuals from racial and ethnic minority groups in the pool of potential donors for the Registry in order to enable an individual in a minority group, to the extent practicable, to have a comparable chance of finding a suitable unrelated donor as would an individual not in a minority group;
+"(3) increase the representation of individuals from racial and ethnic minority groups in the pool of potential donors for the Registry in order to enable an individual in a minority group, to the extent practicable, to have a comparable chance of finding a suitable unrelated donor as would an individual not in a minority group;
 
-“(4) provide information to physicians, other health care professionals, and the public regarding bone marrow transplantation;
+"(4) provide information to physicians, other health care professionals, and the public regarding bone marrow transplantation;
 
-“(5) recruit potential bone marrow donors;
+"(5) recruit potential bone marrow donors;
 
-“(6) collect, analyze, and publish data concerning bone marrow donation and transplantation; and”.
+"(6) collect, analyze, and publish data concerning bone marrow donation and transplantation; and".
 
 Subsecs. (c), (d). Pub. L. 105–196, §2(c), (d), added subsecs. (c) and (d). Former subsecs. (c) and (d) redesignated (e) and (f), respectively.
 
 Subsec. (e). Pub. L. 105–196, §2(c), redesignated subsec. (c) as (e). Former subsec. (e) redesignated (g).
 
-Subsec. (e)(4). Pub. L. 105–196, §2(e), added par. (4) and struck out former par. (4) which read as follows: “standards that require the provision of information to patients, their families, and their physicians at the start of the search process concerning—
+Subsec. (e)(4). Pub. L. 105–196, §2(e), added par. (4) and struck out former par. (4) which read as follows: "standards that require the provision of information to patients, their families, and their physicians at the start of the search process concerning—
 
-&emsp;“(A) the resources available through the Registry;
+&emsp;"(A) the resources available through the Registry;
 
-&emsp;“(B) all other marrow donor registries meeting the standards described in this paragraph; and
+&emsp;"(B) all other marrow donor registries meeting the standards described in this paragraph; and
 
-&emsp;“(C) in the case of the Registry—
+&emsp;"(C) in the case of the Registry—
 
-&emsp;&emsp;“(i) the comparative costs of all charges by marrow transplant centers incurred by patients prior to transplantation; and
+&emsp;&emsp;"(i) the comparative costs of all charges by marrow transplant centers incurred by patients prior to transplantation; and
 
-&emsp;&emsp;“(ii) the success rates of individual marrow transplant centers;”.
+&emsp;&emsp;"(ii) the success rates of individual marrow transplant centers;".
 
-Subsec. (f). Pub. L. 105–196, §2(c), (g)(1), redesignated subsec. (d) as (f) and substituted “subsection (e)” for “subsection (c)”. Former subsec. (f) redesignated (h).
+Subsec. (f). Pub. L. 105–196, §2(c), (g)(1), redesignated subsec. (d) as (f) and substituted "subsection (e)" for "subsection (c)". Former subsec. (f) redesignated (h).
 
 Subsecs. (g) to (i). Pub. L. 105–196, §2(c), redesignated subsecs. (e) to (g) as (g) to (i), respectively. Former subsecs. (h) and (i) redesignated (j) and (k), respectively.
 
-Subsec. (j). Pub. L. 105–196, §2(c), redesignated subsec. (h) as (j) and struck out heading and text of former subsec. (j). Text read as follows: “There are authorized to be appropriated to carry out this section $15,000,000 for fiscal year 1991 and such sums as may be necessary for each of fiscal years 1992 and 1993.”
+Subsec. (j). Pub. L. 105–196, §2(c), redesignated subsec. (h) as (j) and struck out heading and text of former subsec. (j). Text read as follows: "There are authorized to be appropriated to carry out this section $15,000,000 for fiscal year 1991 and such sums as may be necessary for each of fiscal years 1992 and 1993."
 
-Subsec. (k). Pub. L. 105–196, §2(c), (g)(2), redesignated subsec. (i) as (k) and substituted “subsection (e)(5)(A)” for “subsection (c)(5)(A)” and “subsection (e)(5)(B)” for “subsection (c)(5)(B)”.
+Subsec. (k). Pub. L. 105–196, §2(c), (g)(2), redesignated subsec. (i) as (k) and substituted "subsection (e)(5)(A)" for "subsection (c)(5)(A)" and "subsection (e)(5)(B)" for "subsection (c)(5)(B)".
 
 Subsec. (l). Pub. L. 105–196, §2(f), added subsec. (l).
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–196, §7, July 16, 1998, 112 Stat. 637, provided that: “This Act \[see Short Title of 1998 Amendment note set out under section 201 of this title\] takes effect October 1, 1998, or upon the date of the enactment of this Act \[July 16, 1998\], whichever occurs later.”
+Pub. L. 105–196, §7, July 16, 1998, 112 Stat. 637, provided that: "This Act \[see Short Title of 1998 Amendment note set out under section 201 of this title\] takes effect October 1, 1998, or upon the date of the enactment of this Act \[July 16, 1998\], whichever occurs later."
 
 #### Savings Provision
 
 Pub. L. 101–616, title I, §102, Nov. 16, 1990, 104 Stat. 3282, provided that:
 
-“(a)
+"(a)
 
-In General.—This title \[enacting this section and section 274l of this title and amending section 274a of this title\], and the amendments made by this title, shall not affect any legal document, including any order, regulation, grant, or contract, in effect on the date of enactment of this Act \[Nov. 16, 1990\], or any administrative proceeding or lawsuit pending on the date, that relates to the bone marrow registry established under section 373(b) of the Public Health Service Act \[section 274a(b) of this title\] (as it existed before the amendment made by section 101(b) of this Act).
+In General.—This title \[enacting this section and section 274l of this title and amending section 274a of this title\], and the amendments made by this title, shall not affect any legal document, including any order, regulation, grant, or contract, in effect on the date of enactment of this Act \[Nov. 16, 1990\], or any administrative proceeding or lawsuit pending on the date, that relates to the bone marrow registry established under section 373(b) of the Public Health Service Act \[42 U.S.C. 274a(b)\] (as it existed before the amendment made by section 101(b) of this Act).
 
-“(b)
+"(b)
 
 Continued Effect.—A legal document described in subsection (a) or an order issued in a lawsuit described in subsection (a) shall continue in effect until modified, terminated, or revoked.
 
-“(c)
+"(c)
 
-Proceedings.—In any administrative proceeding or lawsuit described in subsection (a), parties shall take appeals, and officials shall hold proceedings and render judgments, in the same manner and with the same effect as if this title had not been enacted.”
+Proceedings.—In any administrative proceeding or lawsuit described in subsection (a), parties shall take appeals, and officials shall hold proceedings and render judgments, in the same manner and with the same effect as if this title had not been enacted."
 
 #### Cord Blood Inventory
 
 Pub. L. 109–129, §2, Dec. 20, 2005, 119 Stat. 2550, as amended by Pub. L. 111–264, §2(a), Oct. 8, 2010, 124 Stat. 2789, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of Health and Human Services shall enter into one-time contracts with qualified cord blood banks to assist in the collection and maintenance of the inventory goal of at least 150,000 new units of high-quality cord blood to be made available for transplantation through the C.W. Bill Young Cell Transplantation Program and to carry out the requirements of subsection (b).
 
-“(b)
+"(b)
 
 Requirements.—The Secretary shall require each recipient of a contract under this section—
 
-&emsp;“(1) to acquire, tissue-type, test, cryopreserve, and store donated units of cord blood acquired with the informed consent of the donor, as determined by the Secretary pursuant to section 379(c) of the Public Health Service Act \[subsec. (c) of this section\], in a manner that complies with applicable Federal and State regulations;
+&emsp;"(1) to acquire, tissue-type, test, cryopreserve, and store donated units of cord blood acquired with the informed consent of the donor, as determined by the Secretary pursuant to section 379(c) of the Public Health Service Act \[42 U.S.C. 274k(c)\], in a manner that complies with applicable Federal and State regulations;
 
-&emsp;“(2) to encourage donation from a genetically diverse population;
+&emsp;"(2) to encourage donation from a genetically diverse population;
 
-&emsp;“(3) to make cord blood units that are collected pursuant to this section or otherwise and meet all applicable Federal standards available to transplant centers for transplantation;
+&emsp;"(3) to make cord blood units that are collected pursuant to this section or otherwise and meet all applicable Federal standards available to transplant centers for transplantation;
 
-&emsp;“(4) to make cord blood units that are collected, but not appropriate for clinical use, available for peer-reviewed research;
+&emsp;"(4) to make cord blood units that are collected, but not appropriate for clinical use, available for peer-reviewed research;
 
-&emsp;“(5) to make data available, as required by the Secretary and consistent with section 379(d)(3) of the Public Health Service Act (42 U.S.C. 274k(d)(3)), as amended by this Act, in a standardized electronic format, as determined by the Secretary, for the C.W. Bill Young Cell Transplantation Program; and
+&emsp;"(5) to make data available, as required by the Secretary and consistent with section 379(d)(3) of the Public Health Service Act (42 U.S.C. 274k(d)(3)), as amended by this Act, in a standardized electronic format, as determined by the Secretary, for the C.W. Bill Young Cell Transplantation Program; and
 
-&emsp;“(6) to submit data in a standardized electronic format for inclusion in the stem cell therapeutic outcomes database maintained under section 379A of the Public Health Service Act \[section 274l of this title\], as amended by this Act.
+&emsp;"(6) to submit data in a standardized electronic format for inclusion in the stem cell therapeutic outcomes database maintained under section 379A of the Public Health Service Act \[42 U.S.C. 274l\], as amended by this Act.
 
-“(c)
+"(c)
 
 Related Cord Blood Donors.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary shall establish a 3-year demonstration project under which qualified cord blood banks receiving a contract under this section may use a portion of the funding under such contract for the collection and storage of cord blood units for a family where a first-degree relative has been diagnosed with a condition that will benefit from transplantation (including selected blood disorders, malignancies, metabolic storage disorders, hemoglobinopathies, and congenital immunodeficiencies) at no cost to such family. Qualified cord blood banks collecting cord blood units under this paragraph shall comply with the requirements of paragraphs (1), (2), (3), and (5) of subsection (b).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Availability.—Qualified cord blood banks that are operating a program under paragraph (1) shall provide assurances that the cord blood units in such banks will be available for directed transplantation until such time that the cord blood unit is released for transplantation for a first-degree relative.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Inventory.—Cord blood units collected through the program under this section shall not be counted toward the inventory goal under the C.W. Bill Young Cell Transplantation Program.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Report.—Not later than 90 days after the date on which the project under paragraph (1) is terminated by the Secretary, the Secretary shall submit to Congress a report on the outcomes of the project that shall include the recommendations of the Secretary with respect to the continuation of such project.
 
-“(d)
+"(d)
 
 Application.—To seek to enter into a contract under this section, a qualified cord blood bank shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may reasonably require. At a minimum, an application for a contract under this section shall include a requirement that the applicant—
 
-&emsp;“(1) will participate in the C.W. Bill Young Cell Transplantation Program for a period of at least 10 years beginning on the last date on which the recipient of a contract under this section receives Federal funds under this section;
+&emsp;"(1) will participate in the C.W. Bill Young Cell Transplantation Program for a period of at least 10 years beginning on the last date on which the recipient of a contract under this section receives Federal funds under this section;
 
-&emsp;“(2) will make cord blood units collected pursuant to this section available through the C.W. Bill Young Cell Transplantation Program in perpetuity or for such time as determined viable by the Secretary;
+&emsp;"(2) will make cord blood units collected pursuant to this section available through the C.W. Bill Young Cell Transplantation Program in perpetuity or for such time as determined viable by the Secretary;
 
-&emsp;“(3) will provide a plan to increase cord blood unit collections at collection sites that exist at the time of application, assist with the establishment of new collection sites, or contract with new collection sites;
+&emsp;"(3) will provide a plan to increase cord blood unit collections at collection sites that exist at the time of application, assist with the establishment of new collection sites, or contract with new collection sites;
 
-&emsp;“(4) will annually provide to the Secretary a plan for, and demonstrate, ongoing measurable progress toward achieving self-sufficiency of cord blood unit collection and banking operations; and
+&emsp;"(4) will annually provide to the Secretary a plan for, and demonstrate, ongoing measurable progress toward achieving self-sufficiency of cord blood unit collection and banking operations; and
 
-&emsp;“(5) if the Secretary determines through an assessment, or through petition by the applicant, that a cord blood bank is no longer operational or does not meet the requirements of section 379(d)(4) of the Public Health Service Act \[subsec. (d)(4) of this section\] (as added by this Act) and as a result may not distribute the units, transfer the units collected pursuant to this section to another qualified cord blood bank approved by the Secretary to ensure continued availability of cord blood units.
+&emsp;"(5) if the Secretary determines through an assessment, or through petition by the applicant, that a cord blood bank is no longer operational or does not meet the requirements of section 379(d)(4) of the Public Health Service Act \[42 U.S.C. 274k(d)(4)\] (as added by this Act) and as a result may not distribute the units, transfer the units collected pursuant to this section to another qualified cord blood bank approved by the Secretary to ensure continued availability of cord blood units.
 
-“(e)
+"(e)
 
 Duration of Contracts.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Except as provided in paragraph (2), the term of each contract entered into by the Secretary under this section shall be for a period of at least 10 years beginning on the last date on which the recipient of a contract under this section receives Federal funds under this section. The Secretary shall ensure that no Federal funds shall be obligated under any such contract after the date that is 5 years after the date on which the contract is entered into, except as provided in paragraphs (2) and (3).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Extensions.—The Secretary may extend the period of funding under a contract under this section to exceed a period of 5 years if—
 
-&emsp;&emsp;“(A) the Secretary finds that the inventory goal described in subsection (a) has not yet been met;
+&emsp;&emsp;"(A) the Secretary finds that the inventory goal described in subsection (a) has not yet been met;
 
-&emsp;&emsp;“(B) the Secretary does not receive an application for a contract under this section meeting the requirements under subsection (d) from any qualified cord blood bank that has not previously entered into a contract under this section; or
+&emsp;&emsp;"(B) the Secretary does not receive an application for a contract under this section meeting the requirements under subsection (d) from any qualified cord blood bank that has not previously entered into a contract under this section; or
 
-&emsp;&emsp;“(C) the Secretary determines that the outstanding inventory need cannot be met by the qualified cord blood banks under contract under this section.
+&emsp;&emsp;"(C) the Secretary determines that the outstanding inventory need cannot be met by the qualified cord blood banks under contract under this section.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Extension eligibility.—A qualified cord blood bank shall be eligible for a 5-year extension of a contract awarded under this section, as described in paragraph (2), provided that the qualified cord blood bank—
 
-&emsp;&emsp;“(A) demonstrates a superior ability to satisfy the requirements described in subsection (b) and achieves the overall goals for which the contract was awarded;
+&emsp;&emsp;"(A) demonstrates a superior ability to satisfy the requirements described in subsection (b) and achieves the overall goals for which the contract was awarded;
 
-&emsp;&emsp;“(B) provides a plan for how the qualified cord blood bank will increase cord blood unit collections at collection sites that exist at the time of consideration for such extension of a contract, assist with the establishment of new collection sites, or contract with new collection sites; and
+&emsp;&emsp;"(B) provides a plan for how the qualified cord blood bank will increase cord blood unit collections at collection sites that exist at the time of consideration for such extension of a contract, assist with the establishment of new collection sites, or contract with new collection sites; and
 
-&emsp;&emsp;“(C) annually provides to the Secretary a plan for, and demonstrates, ongoing measurable progress toward achieving self-sufficiency of cord blood unit collection and banking operations.
+&emsp;&emsp;"(C) annually provides to the Secretary a plan for, and demonstrates, ongoing measurable progress toward achieving self-sufficiency of cord blood unit collection and banking operations.
 
-“(f)
+"(f)
 
 Regulations.—The Secretary may promulgate regulations to carry out this section.
 
-“(g)
+"(g)
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘C.W. Bill Young Cell Transplantation Program’ means the C.W. Bill Young Cell Transplantation Program under section 379 of the Public Health Service Act \[this section\], as amended by this Act.
+&emsp;"(1) The term 'C.W. Bill Young Cell Transplantation Program' means the C.W. Bill Young Cell Transplantation Program under section 379 of the Public Health Service Act \[42 U.S.C. 274k\], as amended by this Act.
 
-&emsp;“(2) The term ‘cord blood donor’ means a mother who has delivered a baby and consents to donate the neonatal blood remaining in the placenta and umbilical cord after separation from the newborn baby.
+&emsp;"(2) The term 'cord blood donor' means a mother who has delivered a baby and consents to donate the neonatal blood remaining in the placenta and umbilical cord after separation from the newborn baby.
 
-&emsp;“(3) The term ‘cord blood unit’ means the neonatal blood collected from the placenta and umbilical cord of a single newborn baby.
+&emsp;"(3) The term 'cord blood unit' means the neonatal blood collected from the placenta and umbilical cord of a single newborn baby.
 
-&emsp;“(4) The term ‘first-degree relative’ means a sibling who is one meiosis away from a particular individual in a family.
+&emsp;"(4) The term 'first-degree relative' means a sibling who is one meiosis away from a particular individual in a family.
 
-&emsp;“(5) The term ‘qualified cord blood bank’ has the meaning given to that term in section 379(d)(4) of the Public Health Service Act \[subsec. (d)(4) of this section\], as amended by this Act.
+&emsp;"(5) The term 'qualified cord blood bank' has the meaning given to that term in section 379(d)(4) of the Public Health Service Act \[42 U.S.C. 274k(d)(4)\], as amended by this Act.
 
-&emsp;“(6) The term ‘Secretary’ means the Secretary of Health and Human Services.
+&emsp;"(6) The term 'Secretary' means the Secretary of Health and Human Services.
 
-“(h)
+"(h)
 
 Authorization of Appropriations.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Authorization of appropriations.—There are authorized to be appropriated to the Secretary to carry out the program under this section $23,000,000 for each of fiscal years 2011 through 2014 and $20,000,000 for fiscal year 2015.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Limitation.—Not to exceed 5 percent of the amount appropriated under this section for each of fiscal years 2011 through 2015 may be used to carry out the demonstration project under subsection (c).”
+Limitation.—Not to exceed 5 percent of the amount appropriated under this section for each of fiscal years 2011 through 2015 may be used to carry out the demonstration project under subsection (c)."
 
 #### Report of Inspector General; Plan Regarding Relationship Between Registry and Donor Centers
 

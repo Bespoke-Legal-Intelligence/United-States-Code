@@ -42,7 +42,7 @@ Pursuant to a contract under subsection (d) of this section, the Secretary shall
 
 #### (2) Terms
 
-&emsp;A contract under this subsection shall contain provisions establishing the rights and responsibilities of the manager with respect to the specified housing and the Secretary and shall be consistent with the requirements of this chapter applicable to public housing projects.
+&emsp;A contract under this subsection shall contain provisions establishing the rights and responsibilities of the manager with respect to the specified housing and the Secretary andshall be consistent with the requirements of this chapter applicable to public housing projects.
 
 #### (e) Compliance with public housing agency plan
 
@@ -62,7 +62,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Eligible management entity
 
-&emsp;The term “eligible management entity” means, with respect to any public housing project, any of the following entities:
+&emsp;The term "eligible management entity" means, with respect to any public housing project, any of the following entities:
 
 #### (A) Nonprofit organization
 
@@ -88,15 +88,15 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Manager
 
-&emsp;The term “manager” means any eligible management entity that has entered into a contract under this section with the Secretary for the management of specified housing.
+&emsp;The term "manager" means any eligible management entity that has entered into a contract under this section with the Secretary for the management of specified housing.
 
 #### (3) Nonprofit
 
-&emsp;The term “nonprofit” means, with respect to an organization, association, corporation, or other entity, that no part of the net earnings of the entity inures to the benefit of any member, founder, contributor, or individual.
+&emsp;The term "nonprofit" means, with respect to an organization, association, corporation, or other entity, that no part of the net earnings of the entity inures to the benefit of any member, founder, contributor, or individual.
 
 #### (4) Private nonprofit organization
 
-&emsp;The term “private nonprofit organization” means any private organization (including a State or locally chartered organization) that—
+&emsp;The term "private nonprofit organization" means any private organization (including a State or locally chartered organization) that—
 
 &emsp;&emsp;(A) is incorporated under State or local law;
 
@@ -108,11 +108,11 @@ For purposes of this section, the following definitions shall apply:
 
 #### (5) Public nonprofit organization
 
-&emsp;The term “public nonprofit organization” means any public entity that is nonprofit in character.
+&emsp;The term "public nonprofit organization" means any public entity that is nonprofit in character.
 
 #### (6) Specified housing
 
-&emsp;The term “specified housing” means a public housing project or projects, or a portion of a project or projects, for which the transfer of management is requested under this section. The term includes one or more contiguous buildings and an area of contiguous row houses, but in the case of a single building, the building shall be sufficiently separable from the remainder of the project of which it is part to make transfer of the management of the building feasible for purposes of this section.
+&emsp;The term "specified housing" means a public housing project or projects, or a portion of a project or projects, for which the transfer of management is requested under this section. The term includes one or more contiguous buildings and an area of contiguous row houses, but in the case of a single building, the building shall be sufficiently separable from the remainder of the project of which it is part to make transfer of the management of the building feasible for purposes of this section.
 
 (Sept. 1, 1937, ch. 896, title I, §25, as added Pub. L. 105–276, title V, §534, Oct. 21, 1998, 112 Stat. 2579.)
 

@@ -30,7 +30,7 @@ Factors To Be Considered in Imposing a Sentence.—The court shall impose a sent
 
 &emsp;(5) any pertinent policy statement—
 
-&emsp;&emsp;(A) issued by the Sentencing Commission pursuant to section 994(a)(2) of title 28, United States Code, subject to any amendments made to such policy statement by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under section 994(p) of title 28); and
+&emsp;&emsp;(A) issued by the Sentencing Commission pursuant to section 994(a)(2) of title 28,United States Code, subject to any amendments made to such policy statement by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under section 994(p) of title 28); and
 
 &emsp;&emsp;(B) that, except as provided in section 3742(g), is in effect on the date the defendant is sentenced.<sup>1</sup>
 
@@ -44,7 +44,7 @@ Application of Guidelines in Imposing a Sentence.—
 
 &emsp;(1)
 
-In general.—Except as provided in paragraph (2), the court shall impose a sentence of the kind, and within the range, referred to in subsection (a)(4) unless the court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence different from that described. In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission. In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than apetty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission.
+In general.—Except as provided in paragraph (2), the court shall impose a sentence of the kind, and within the range, referred to in subsection (a)(4) unless the court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result in a sentence different from that described. In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission. In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission.
 
 &emsp;(2)
 
@@ -76,7 +76,7 @@ Statement of Reasons for Imposing a Sentence.—The court, at the time of senten
 
 &emsp;(2) is not of the kind, or is outside the range, described in subsection (a)(4), the specific reason for the imposition of a sentence different from that described, which reasons must also be stated with specificity in a statement of reasons form issued under section 994(w)(1)(B) of title 28, except to the extent that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32. In the event that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32 the court shall state that such statements were so received and that it relied upon the content of such statements.
 
-> If the court does not order restitution, or orders only partial restitution, the court shall include in the statement the reason therefor. The court shall provide a transcription or other appropriate public record of the court's statement of reasons, together with the order of judgment and commitment, to the Probation System and to the Sentencing Commission,,<sup>3</sup> and, if the sentence includes a term of imprisonment, to the Bureau of Prisons.
+> If the court does not order restitution, or orders only partial restitution, the court shall include in the statement the reason therefor. The court shall provide a transcription or other appropriate public record of the court's statement of reasons, together with the order of judgmentand commitment, to the Probation System and to the Sentencing Commission,,<sup>3</sup> and, if the sentence includes a term of imprisonment, to the Bureau of Prisons.
 
 (d)
 
@@ -92,7 +92,7 @@ Presentence Procedure for an Order of Notice.—Prior to imposing an order of no
 
 (e)
 
-Limited Authority To Impose a Sentence Below a Statutory Minimum.—Upon motion of the Government, the court shall have the authority to impose a sentence below a level established by statute as a minimum sentence so as to reflect a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense. Such sentence shall be imposed in accordance with the guidelines and policy statements issued by theSentencing Commission pursuant to section 994 of title 28, United States Code.
+Limited Authority To Impose a Sentence Below a Statutory Minimum.—Upon motion of the Government, the court shall have the authority to impose a sentence below a level established by statute as a minimum sentence so as to reflect a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense. Such sentence shall be imposed in accordance with the guidelines and policy statements issued by the Sentencing Commission pursuant to section 994 of title 28, United States Code.
 
 (f)
 
@@ -122,55 +122,55 @@ For information regarding constitutionality of certain provisions of this sectio
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(2). Pub. L. 111–174 substituted “a statement of reasons form issued under section 994(w)(1)(B) of title 28” for “the written order of judgment and commitment”.
+<b>2010</b>—Subsec. (c)(2). Pub. L. 111–174 substituted "a statement of reasons form issued under section 994(w)(1)(B) of title 28" for "the written order of judgment and commitment".
 
-<b>2003</b>—Subsec. (a)(4)(A). Pub. L. 108–21, §401(j)(5)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines issued by the Sentencing Commission pursuant to section 994(a)(1) of title 28, United States Code, and that are in effect on the date the defendant is sentenced; or”.
+<b>2003</b>—Subsec. (a)(4)(A). Pub. L. 108–21, §401(j)(5)(A), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines issued by the Sentencing Commission pursuant to section 994(a)(1) of title 28, United States Code, and that are in effect on the date the defendant is sentenced; or".
 
-Subsec. (a)(4)(B). Pub. L. 108–21, §401(j)(5)(B), inserted before semicolon at end “, taking into account any amendments made to such guidelines or policy statements by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under section 994(p) of title 28)”.
+Subsec. (a)(4)(B). Pub. L. 108–21, §401(j)(5)(B), inserted before semicolon at end ", taking into account any amendments made to such guidelines or policy statements by act of Congress (regardless of whether such amendments have yet to be incorporated by the Sentencing Commission into amendments issued under section 994(p) of title 28)".
 
-Subsec. (a)(5). Pub. L. 108–21, §401(j)(5)(C), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “any pertinent policy statement issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(2) that is in effect on the date the defendant is sentenced;”.
+Subsec. (a)(5). Pub. L. 108–21, §401(j)(5)(C), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "any pertinent policy statement issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(2) that is in effect on the date the defendant is sentenced;".
 
-Subsec. (b). Pub. L. 108–21, §401(a), designated existing provisions as par. (1), inserted par. heading, substituted “Except as provided in paragraph (2), the court” for “The court”, and added par. (2) and concluding provisions.
+Subsec. (b). Pub. L. 108–21, §401(a), designated existing provisions as par. (1), inserted par. heading, substituted "Except as provided in paragraph (2), the court" for "The court", and added par. (2) and concluding provisions.
 
-Subsec. (c). Pub. L. 108–21, §401(c)(2), (3), in concluding provisions, inserted “, together with the order of judgment and commitment,” after “the court's statement of reasons” and “and to the Sentencing Commission,” after “to the Probation System”.
+Subsec. (c). Pub. L. 108–21, §401(c)(2), (3), in concluding provisions, inserted ", together with the order of judgment and commitment," after "the court's statement of reasons" and "and to the Sentencing Commission," after "to the Probation System".
 
-Subsec. (c)(2). Pub. L. 108–21, §401(c)(1), substituted “described, which reasons must also be stated with specificity in the written order of judgment and commitment, except to the extent that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32. In the event that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32 the court shall state that such statements were so received and that it relied upon the content of such statements” for “described”.
+Subsec. (c)(2). Pub. L. 108–21, §401(c)(1), substituted "described, which reasons must also be stated with specificity in the written order of judgment and commitment, except to the extent that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32. In the event that the court relies upon statements received in camera in accordance with Federal Rule of Criminal Procedure 32 the court shall state that such statements were so received and that it relied upon the content of such statements" for "described".
 
-<b>2002</b>—Subsec. (e). Pub. L. 107–273 inserted “a” before “minimum sentence”.
+<b>2002</b>—Subsec. (e). Pub. L. 107–273 inserted "a" before "minimum sentence".
 
 <b>1996</b>—Subsec. (f). Pub. L. 104–294, §601(h), amended directory language of Pub. L. 103–322, §80001(a). See 1994 Amendment note below.
 
-Pub. L. 104–294, §601(b)(5), in introductory provisions, substituted “section 1010 or 1013 of the Controlled Substances Import and Export Act (21 U.S.C. 960, 963)” for “section 1010 or 1013 of the Controlled Substances Import and Export Act (21 U.S.C. 961, 963)”.
+Pub. L. 104–294, §601(b)(5), in introductory provisions, substituted "section 1010 or 1013 of the Controlled Substances Import and Export Act (21 U.S.C. 960, 963)" for "section 1010 or 1013 of the Controlled Substances Import and Export Act (21 U.S.C. 961, 963)".
 
-Subsec. (f)(4). Pub. L. 104–294, §601(b)(6), substituted “section 408 of the Controlled Substances Act” for “21 U.S.C. 848”.
+Subsec. (f)(4). Pub. L. 104–294, §601(b)(6), substituted "section 408 of the Controlled Substances Act" for "21 U.S.C. 848".
 
-<b>1994</b>—Subsec. (a)(4). Pub. L. 103–322, §280001, amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the kinds of sentence and the sentencing range established for the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines that are issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1) and that are in effect on the date the defendant is sentenced;”.
+<b>1994</b>—Subsec. (a)(4). Pub. L. 103–322, §280001, amended par. (4) generally. Prior to amendment, par. (4) read as follows: "the kinds of sentence and the sentencing range established for the applicable category of offense committed by the applicable category of defendant as set forth in the guidelines that are issued by the Sentencing Commission pursuant to 28 U.S.C. 994(a)(1) and that are in effect on the date the defendant is sentenced;".
 
 Subsec. (f). Pub. L. 103–322, §80001(a), as amended by Pub. L. 104–294, §601(h), added subsec. (f).
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–690 inserted “or other appropriate public record” after “transcription” in second sentence and struck out “clerk of the” before “court” in last sentence.
+<b>1988</b>—Subsec. (c). Pub. L. 100–690 inserted "or other appropriate public record" after "transcription" in second sentence and struck out "clerk of the" before "court" in last sentence.
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–182, §3(1), (2), substituted “court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result” for “court finds that an aggravating or mitigating circumstance exists that was not adequately taken into consideration by the Sentencing Commission in formulating the guidelines and that should result”.
+<b>1987</b>—Subsec. (b). Pub. L. 100–182, §3(1), (2), substituted "court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result" for "court finds that an aggravating or mitigating circumstance exists that was not adequately taken into consideration by the Sentencing Commission in formulating the guidelines and that should result".
 
-Pub. L. 100–182, §3(3), inserted after first sentence “In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission.”
+Pub. L. 100–182, §3(3), inserted after first sentence "In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission."
 
-Pub. L. 100–182, §16(a), substituted “In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission.” for “In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, the applicable policy statements of the Sentencing Commission, and the purposes of sentencing set forth in subsection (a)(2).”
+Pub. L. 100–182, §16(a), substituted "In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the purposes set forth in subsection (a)(2). In the absence of an applicable sentencing guideline in the case of an offense other than a petty offense, the court shall also have due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, and to the applicable policy statements of the Sentencing Commission." for "In the absence of an applicable sentencing guideline, the court shall impose an appropriate sentence, having due regard for the relationship of the sentence imposed to sentences prescribed by guidelines applicable to similar offenses and offenders, the applicable policy statements of the Sentencing Commission, and the purposes of sentencing set forth in subsection (a)(2)."
 
-Subsec. (c)(1). Pub. L. 100–182, §17, inserted “and that range exceeds 24 months,”.
+Subsec. (c)(1). Pub. L. 100–182, §17, inserted "and that range exceeds 24 months,".
 
 <b>1986</b>—Subsec. (a)(7). Pub. L. 99–646, §81(a), added par. (7).
 
 Subsec. (b). Pub. L. 99–646, §9(a), inserted provision relating to sentencing in the absence of applicable guidelines.
 
-Subsec. (c). Pub. L. 99–646, §8(a), substituted “If the court does not order restitution, or orders only partial restitution” for “If the sentence does not include an order of restitution”.
+Subsec. (c). Pub. L. 99–646, §8(a), substituted "If the court does not order restitution, or orders only partial restitution" for "If the sentence does not include an order of restitution".
 
-Subsec. (d). Pub. L. 99–646, §80(a), struck out “or restitution” after “notice” in heading, and struck out “or an order of restitution pursuant to section 3556,” after “section 3555,” in introductory text.
+Subsec. (d). Pub. L. 99–646, §80(a), struck out "or restitution" after "notice" in heading, and struck out "or an order of restitution pursuant to section 3556," after "section 3555," in introductory text.
 
 Subsec. (e). Pub. L. 99–570 added subsec. (e).
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–322, title VIII, §80001(c), Sept. 13, 1994, 108 Stat. 1986, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to all sentences imposed on or after the 10th day beginning after the date of enactment of this Act \[Sept. 13, 1994\].”
+Pub. L. 103–322, title VIII, §80001(c), Sept. 13, 1994, 108 Stat. 1986, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to all sentences imposed on or after the 10th day beginning after the date of enactment of this Act \[Sept. 13, 1994\]."
 
 #### Effective Date of 1987 Amendment
 
@@ -178,15 +178,15 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 
 #### Effective Date of 1986 Amendments
 
-Pub. L. 99–646, §8(c), Nov. 10, 1986, 100 Stat. 3593, provided that: “The amendments made by this section \[amending this section and section 3663 of this title\] shall take effect on the date of the taking effect of section 3553 of title 18, United States Code \[Nov. 1, 1987\].”
+Pub. L. 99–646, §8(c), Nov. 10, 1986, 100 Stat. 3593, provided that: "The amendments made by this section \[amending this section and section 3663 of this title\] shall take effect on the date of the taking effect of section 3553 of title 18, United States Code \[Nov. 1, 1987\]."
 
-Pub. L. 99–646, §9(b), Nov. 10, 1986, 100 Stat. 3593, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 3553 of title 18, United States Code \[Nov. 1, 1987\].”
+Pub. L. 99–646, §9(b), Nov. 10, 1986, 100 Stat. 3593, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 3553 of title 18, United States Code \[Nov. 1, 1987\]."
 
-Pub. L. 99–646, §80(b), Nov. 10, 1986, 100 Stat. 3619, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform Act of 1984 \[section 212(a)(2) of Pub. L. 98–473, effective Nov. 1, 1987\].”
+Pub. L. 99–646, §80(b), Nov. 10, 1986, 100 Stat. 3619, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform Act of 1984 \[section 212(a)(2) of Pub. L. 98–473, effective Nov. 1, 1987\]."
 
-Pub. L. 99–646, §81(b), Nov. 10, 1986, 100 Stat. 3619, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform Act of 1984 \[section 212(a)(2) of Pub. L. 98–473, effective Nov. 1, 1987\].”
+Pub. L. 99–646, §81(b), Nov. 10, 1986, 100 Stat. 3619, provided that: "The amendments made by this section \[amending this section\] shall take effect on the date of the taking effect of section 212(a)(2) of the Sentencing Reform Act of 1984 \[section 212(a)(2) of Pub. L. 98–473, effective Nov. 1, 1987\]."
 
-Pub. L. 99–570, title I, §1007(b), Oct. 27, 1986, 100 Stat. 3207–7, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of section 3553 of title 18, United States Code \[Nov. 1, 1987\].”
+Pub. L. 99–570, title I, §1007(b), Oct. 27, 1986, 100 Stat. 3207–7, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of the taking effect of section 3553 of title 18, United States Code \[Nov. 1, 1987\]."
 
 #### Effective Date
 
@@ -196,61 +196,61 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 Pub. L. 108–21, title IV, §401(l), Apr. 30, 2003, 117 Stat. 674, provided that:
 
-“(1)
+"(1)
 
-Defined term.—For purposes of this section \[amending this section, section 3742 of this title, and section 994 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as a note under section 991 of Title 28, and enacting provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28\], the term ‘report described in paragraph (3)’ means a report, submitted by the Attorney General, which states in detail the policies and procedures that the Department of Justice has adopted subsequent to the enactment of this Act \[Apr. 30, 2003\]—
+Defined term.—For purposes of this section \[amending this section, section 3742 of this title, and section 994 of Title 28, Judiciary and Judicial Procedure, enacting provisions set out as a note under section 991 of Title 28, and enacting provisions listed in a table relating to sentencing guidelines set out under section 994 of Title 28\], the term 'report described in paragraph (3)' means a report, submitted by the Attorney General, which states in detail the policies and procedures that the Department of Justice has adopted subsequent to the enactment of this Act \[Apr. 30, 2003\]—
 
-&emsp;“(A) to ensure that Department of Justice attorneys oppose sentencing adjustments, including downward departures, that are not supported by the facts and the law;
+&emsp;"(A) to ensure that Department of Justice attorneys oppose sentencing adjustments, including downward departures, that are not supported by the facts and the law;
 
-&emsp;“(B) to ensure that Department of Justice attorneys in such cases make a sufficient record so as to permit the possibility of an appeal;
+&emsp;"(B) to ensure that Department of Justice attorneys in such cases make a sufficient record so as to permit the possibility of an appeal;
 
-&emsp;“(C) to delineate objective criteria, specified by the Attorney General, as to which such cases may warrant consideration of an appeal, either because of the nature or magnitude of the sentencing error, its prevalence in the district, or its prevalence with respect to a particular judge;
+&emsp;"(C) to delineate objective criteria, specified by the Attorney General, as to which such cases may warrant consideration of an appeal, either because of the nature or magnitude of the sentencing error, its prevalence in the district, or its prevalence with respect to a particular judge;
 
-&emsp;“(D) to ensure that Department of Justice attorneys promptly notify the designated Department of Justice component in Washington concerning such adverse sentencing decisions; and
+&emsp;"(D) to ensure that Department of Justice attorneys promptly notify the designated Department of Justice component in Washington concerning such adverse sentencing decisions; and
 
-&emsp;“(E) to ensure the vigorous pursuit of appropriate and meritorious appeals of such adverse decisions.
+&emsp;"(E) to ensure the vigorous pursuit of appropriate and meritorious appeals of such adverse decisions.
 
-“(2)
+"(2)
 
 Report required.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Not later than 15 days after a district court's grant of a downward departure in any case, other than a case involving a downward departure for substantial assistance to authorities pursuant to section 5K1.1 of the United States Sentencing Guidelines, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and the Senate containing the information described under subparagraph (B).
 
-&emsp;“(B)
+&emsp;"(B)
 
 Contents.—The report submitted pursuant to subparagraph (A) shall set forth—
 
-&emsp;&emsp;“(i) the case;
+&emsp;&emsp;"(i) the case;
 
-&emsp;&emsp;“(ii) the facts involved;
+&emsp;&emsp;"(ii) the facts involved;
 
-&emsp;&emsp;“(iii) the identity of the district court judge;
+&emsp;&emsp;"(iii) the identity of the district court judge;
 
-&emsp;&emsp;“(iv) the district court's stated reasons, whether or not the court provided the United States with advance notice of its intention to depart; and
+&emsp;&emsp;"(iv) the district court's stated reasons, whether or not the court provided the United States with advance notice of its intention to depart; and
 
-&emsp;&emsp;“(v) the position of the parties with respect to the downward departure, whether or not the United States has filed, or intends to file, a motion for reconsideration.
+&emsp;&emsp;"(v) the position of the parties with respect to the downward departure, whether or not the United States has filed, or intends to file, a motion for reconsideration.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Appeal of the departure.—Not later than 5 days after a decision by the Solicitor General regarding the authorization of an appeal of the departure, the Attorney General shall submit a report to the Committees on the Judiciary of the House of Representatives and the Senate that describes the decision of the Solicitor General and the basis for such decision.
 
-“(3)
+"(3)
 
-Effective date.—Paragraph (2) shall take effect on the day that is 91 days after the date of enactment of this Act \[Apr. 30, 2003\], except that such paragraph shall not take effect if not more than 90 days after the date of enactment of this Act the Attorney General has submitted to the Judiciary Committees of the House of Representatives and the Senate the report described in paragraph (3).”
+Effective date.—Paragraph (2) shall take effect on the day that is 91 days after the date of enactment of this Act \[Apr. 30, 2003\], except that such paragraph shall not take effect if not more than 90 days after the date of enactment of this Act the Attorney General has submitted to the Judiciary Committees of the House of Representatives and the Senate the report described in paragraph (3)."
 
 #### Authority To Lower a Sentence Below Statutory Minimum for Old Offenses
 
-Pub. L. 100–182, §24, Dec. 7, 1987, 101 Stat. 1271, provided that: “Notwithstanding section 235 of the Comprehensive Crime Control Act of 1984 \[section 235 of Pub. L. 98–473, set out as a note under section 3551 of this title\]—
+Pub. L. 100–182, §24, Dec. 7, 1987, 101 Stat. 1271, provided that: "Notwithstanding section 235 of the Comprehensive Crime Control Act of 1984 \[section 235 of Pub. L. 98–473, set out as a note under section 3551 of this title\]—
 
-&emsp;“(1) section 3553(e) of title 18, United States Code;
+&emsp;"(1) section 3553(e) of title 18, United States Code;
 
-&emsp;“(2) rule 35(b) of the Federal Rules of Criminal Procedure as amended by section 215(b) of such Act \[set out in the Appendix to this title\]; and
+&emsp;"(2) rule 35(b) of the Federal Rules of Criminal Procedure as amended by section 215(b) of such Act \[set out in the Appendix to this title\]; and
 
-&emsp;“(3) rule 35(b) as in effect before the taking effect of the initial set of guidelines promulgated by the United States Sentencing Commission pursuant to chapter 58 of title 28, United States Code,
+&emsp;"(3) rule 35(b) as in effect before the taking effect of the initial set of guidelines promulgated by the United States Sentencing Commission pursuant to chapter 58 of title 28, United States Code,
 
-> shall apply in the case of an offense committed before the taking effect of such guidelines.”
+> shall apply in the case of an offense committed before the taking effect of such guidelines."
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

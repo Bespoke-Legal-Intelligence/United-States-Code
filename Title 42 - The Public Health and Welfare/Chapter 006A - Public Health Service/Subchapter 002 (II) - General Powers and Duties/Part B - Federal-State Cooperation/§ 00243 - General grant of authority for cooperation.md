@@ -14,23 +14,23 @@ The Secretary shall encourage cooperative activities between the States with res
 
 (2) The Secretary may, at the request of the appropriate State or local authority, extend temporary (not in excess of six months) assistance to States or localities in meeting health emergencies of such a nature as to warrant Federal assistance. The Secretary may require such reimbursement of the United States for assistance provided under this paragraph as he may determine to be reasonable under the circumstances. Any reimbursement so paid shall be credited to the applicable appropriation for the Service for the year in which such reimbursement is received.
 
-(July 1, 1944, ch. 373, title III, §311, 58 Stat. 693; Pub. L. 89–749, §5, Nov. 3, 1966, 80 Stat. 1190; Pub. L. 90–174, §4, Dec. 5, 1967, 81 Stat. 536; Pub. L. 91–515, title II, §282, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 94–317, title II, §202(b), (c), June 23, 1976,90 Stat. 703; Pub. L. 97–35, title IX, §902(c), Aug. 13, 1981, 95 Stat. 559; Pub. L. 97–414, §8(d), Jan. 4, 1983, 96 Stat. 2060; Pub. L. 99–117, §11(a), Oct. 7, 1985, 99 Stat. 494.)
+(July 1, 1944, ch. 373, title III, §311, 58 Stat. 693; Pub. L. 89–749, §5, Nov. 3, 1966, 80 Stat. 1190; Pub. L. 90–174, §4, Dec. 5, 1967, 81 Stat. 536; Pub. L. 91–515, title II, §282, Oct. 30, 1970, 84 Stat. 1308; Pub. L. 94–317, title II, §202(b), (c), June 23, 1976, 90 Stat. 703; Pub. L. 97–35, title IX, §902(c), Aug. 13, 1981, 95 Stat. 559; Pub. L. 97–414, §8(d), Jan. 4, 1983, 96 Stat. 2060; Pub. L. 99–117, §11(a), Oct. 7, 1985, 99 Stat. 494.)
 
 #### Amendments
 
-<b>1985</b>—Subsec. (c)(1). Pub. L. 99–117 struck out “referred to in section 247b(f) of this title” after “epidemics of any disease or condition”, “involving or resulting from disasters or any such disease” after “health emergencies or problems” in first sentence, and struck out “resulting from disasters or any disease or condition referred to in section 247b(f) of this title” after “(including epidemics and health emergencies)” in second sentence.
+<b>1985</b>—Subsec. (c)(1). Pub. L. 99–117 struck out "referred to in section 247b(f) of this title" after "epidemics of any disease or condition", "involving or resulting from disasters or any such disease" after "health emergencies or problems" in first sentence, and struck out "resulting from disasters or any disease or condition referred to in section 247b(f) of this title" after "(including epidemics and health emergencies)" in second sentence.
 
-<b>1983</b>—Subsec. (c)(2). Pub. L. 97–414 substituted “six months” for “forty-five days” after “not in excess of”.
+<b>1983</b>—Subsec. (c)(2). Pub. L. 97–414 substituted "six months" for "forty-five days" after "not in excess of".
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–35, §902(c)(1), inserted applicability to other public health matters, and struck out reference to section 246 of this title.
 
-Subsec. (b). Pub. L. 97–35, §902(c)(2), substituted “public health activities” for “the purposes of section 246 of this title”.
+Subsec. (b). Pub. L. 97–35, §902(c)(2), substituted "public health activities" for "the purposes of section 246 of this title".
 
 <b>1976</b>—Subsec. (b). Pub. L. 94–317, §202(c), inserted provision authorizing Secretary to charge only private entities reasonable fees for training of their personnel.
 
 Subsec. (c). Pub. L. 94–317, §202(b), made changes in phraseology and restructured provisions into pars. (1) and (2) and, in par. (1), as so restructured, inserted provisions authorizing Secretary to develop a plan utilizing Public Health Service personnel, equipment, medical supplies and other resources to control epidemics of any disease referred to in section 247b of this title.
 
-<b>1970</b>—Subsecs. (a), (b). Pub. L. 91–515 substituted “Secretary” for “Surgeon General” wherever appearing.
+<b>1970</b>—Subsecs. (a), (b). Pub. L. 91–515 substituted "Secretary" for "Surgeon General" wherever appearing.
 
 <b>1967</b>—Subsec. (c). Pub. L. 90–174 added subsec. (c).
 
@@ -48,9 +48,9 @@ Pub. L. 89–749, §5(b), Nov. 3, 1966, 80 Stat. 1190, provided that the amendme
 
 #### Food Allergens in the Food Code
 
-Pub. L. 108–282, title II, §209, Aug. 2, 2004, 118 Stat. 910, provided that: “The Secretary of Health and Human Services shall, in the Conference for Food Protection, as part of its efforts to encourage cooperative activities between the States under section 311 of the Public Health Service Act (42 U.S.C. 243), pursue revision of the Food Code to provide guidelines for preparing allergen-free foods in food establishments, including in restaurants, grocery store delicatessens and bakeries, and elementary and secondary school cafeterias. The Secretary shall consider guidelines and recommendations developed by public and private entities for public and private food establishments for preparing allergen-free foods in pursuing this revision.”
+Pub. L. 108–282, title II, §209, Aug. 2, 2004, 118 Stat. 910, provided that: "The Secretary of Health and Human Services shall, in the Conference for Food Protection, as part of its efforts to encourage cooperative activities between the States under section 311 of the Public Health Service Act (42 U.S.C. 243), pursue revision of the Food Code to provide guidelines for preparing allergen-free foods in food establishments, including in restaurants, grocery store delicatessens and bakeries, and elementary and secondary school cafeterias. The Secretary shall consider guidelines and recommendations developed by public and private entities for public and private food establishments for preparing allergen-free foods in pursuing this revision."
 
 #### Training of Private Persons Subject to Reimbursement or Advances to Appropriations
 
-Pub. L. 103–333, title II, Sept. 30, 1994, 108 Stat. 2550, provided in part: “That for fiscal year 1995 and subsequent fiscal years training of private persons shall be made subject to reimbursement or advances to this appropriation for not in excess of the full cost of such training”.
+Pub. L. 103–333, title II, Sept. 30, 1994, 108 Stat. 2550, provided in part: "That for fiscal year 1995 and subsequent fiscal years training of private persons shall be made subject to reimbursement or advances to this appropriation for not in excess of the full cost of such training".
 

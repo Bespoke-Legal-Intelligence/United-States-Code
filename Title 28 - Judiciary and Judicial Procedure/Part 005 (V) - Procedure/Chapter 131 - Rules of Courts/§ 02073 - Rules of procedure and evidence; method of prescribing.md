@@ -22,9 +22,9 @@ A prior section 2073, acts June 25, 1948, ch. 646, 62 Stat. 961; May 24, 1949, c
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(2). Pub. L. 103–394, §104(e)(1), substituted “sections 2072 and 2075” for “section 2072”.
+<b>1994</b>—Subsec. (a)(2). Pub. L. 103–394, §104(e)(1), substituted "sections 2072 and 2075" for "section 2072".
 
-Subsecs. (d), (e). Pub. L. 103–394, §104(e)(2), inserted “or 2075” after “2072”.
+Subsecs. (d), (e). Pub. L. 103–394, §104(e)(2), inserted "or 2075" after "2072".
 
 #### Effective Date of 1994 Amendment
 
@@ -38,51 +38,51 @@ Section effective Dec. 1, 1988, see section 407 of Pub. L. 100–702, set out as
 
 Pub. L. 109–8, title IV, §419, Apr. 20, 2005, 119 Stat. 109, provided that:
 
-“(a)
+"(a)
 
 In General.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Disclosure.—The Judicial Conference of the United States, in accordance with section 2075 of title 28 of the United States Code and after consideration of the views of the Director of the Executive Office for United States Trustees, shall propose amended Federal Rules of Bankruptcy Procedure and in accordance with rule 9009 of the Federal Rules of Bankruptcy Procedure \[11 U.S.C. App.\] shall prescribe official bankruptcy forms directing debtors under chapter 11 of title 11 of United States Code, to disclose the information described in paragraph (2) by filing and serving periodic financial and other reports designed to provide such information.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Information.—The information referred to in paragraph (1) is the value, operations, and profitability of any closely held corporation, partnership, or of any other entity in which the debtor holds a substantial or controlling interest.
 
-“(b)
+"(b)
 
-Purpose.—The purpose of the rules and reports under subsection (a) shall be to assist parties in interest taking steps to ensure that the debtor's interest in any entity referred to in subsection (a)(2) is used for the payment of allowed claims against debtor.”
+Purpose.—The purpose of the rules and reports under subsection (a) shall be to assist parties in interest taking steps to ensure that the debtor's interest in any entity referred to in subsection (a)(2) is used for the payment of allowed claims against debtor."
 
 #### Standard Form Disclosure Statement and Plan
 
-Pub. L. 109–8, title IV, §433, Apr. 20, 2005, 119 Stat. 110, provided that: “Within a reasonable period of time after the date of enactment of this Act \[Apr. 20, 2005\], the Judicial Conference of the United States shall prescribe in accordance with rule 9009 of the Federal Rules of Bankruptcy Procedure \[11 U.S.C. App.\] official standard form disclosure statements and plans of reorganization for small business debtors (as defined in section 101 of title 11, United States Code, as amended by this Act), designed to achieve a practical balance between—
+Pub. L. 109–8, title IV, §433, Apr. 20, 2005, 119 Stat. 110, provided that: "Within a reasonable period of time after the date of enactment of this Act \[Apr. 20, 2005\], the Judicial Conference of the United States shall prescribe in accordance with rule 9009 of the Federal Rules of Bankruptcy Procedure \[11 U.S.C. App.\] official standard form disclosure statements and plans of reorganization for small business debtors (as defined in section 101 of title 11, United States Code, as amended by this Act), designed to achieve a practical balance between—
 
-&emsp;“(1) the reasonable needs of the courts, the United States trustee, creditors, and other parties in interest for reasonably complete information; and
+&emsp;"(1) the reasonable needs of the courts, the United States trustee, creditors, and other parties in interest for reasonably complete information; and
 
-&emsp;“(2) economy and simplicity for debtors.”
+&emsp;"(2) economy and simplicity for debtors."
 
 #### Uniform Reporting Rules and Forms for Small Business Cases
 
 Pub. L. 109–8, title IV, §435, Apr. 20, 2005, 119 Stat. 111, provided that:
 
-“(a)
+"(a)
 
 Proposal of Rules and Forms.—The Judicial Conference of the United States shall propose in accordance with section 2073 of title 28 of the United States Code amended Federal Rules of Bankruptcy Procedure, and shall prescribe in accordance with rule 9009 of the Federal Rules of Bankruptcy Procedure \[11 U.S.C. App.\] official bankruptcy forms, directing small business debtors to file periodic financial and other reports containing information, including information relating to—
 
-&emsp;“(1) the debtor's profitability;
+&emsp;"(1) the debtor's profitability;
 
-&emsp;“(2) the debtor's cash receipts and disbursements; and
+&emsp;"(2) the debtor's cash receipts and disbursements; and
 
-&emsp;“(3) whether the debtor is timely filing tax returns and paying taxes and other administrative expenses when due.
+&emsp;"(3) whether the debtor is timely filing tax returns and paying taxes and other administrative expenses when due.
 
-“(b)
+"(b)
 
 Purpose.—The rules and forms proposed under subsection (a) shall be designed to achieve a practical balance among—
 
-&emsp;“(1) the reasonable needs of the bankruptcy court, the United States trustee, creditors, and other parties in interest for reasonably complete information;
+&emsp;"(1) the reasonable needs of the bankruptcy court, the United States trustee, creditors, and other parties in interest for reasonably complete information;
 
-&emsp;“(2) a small business debtor's interest that required reports be easy and inexpensive to complete; and
+&emsp;"(2) a small business debtor's interest that required reports be easy and inexpensive to complete; and
 
-&emsp;“(3) the interest of all parties that the required reports help such debtor to understand such debtor's financial condition and plan the \[sic\] such debtor's future.”
+&emsp;"(3) the interest of all parties that the required reports help such debtor to understand such debtor's financial condition and plan the \[sic\] such debtor's future."
 

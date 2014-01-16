@@ -220,7 +220,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;&emsp;&emsp;(iii) two years, in the case of a major change described in clause (i) or (ii) of subparagraph (D),
 
-> &emsp;&emsp;before the date of implementation of the change, the President has prepared and transmitted to the Committee on the Judiciary of the House of Representatives and to the Committee on the Judiciary of the Senate a written report setting forth the proposed change. If the President proposes to make any change regarding social security account number cards, the President shall transmit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate a written report setting forth the proposed change. The President promptly shall cause to have printed in the Federal Register thesubstance of any major change (described in subparagraph (D)) proposed and reported to Congress.
+> &emsp;&emsp;before the date of implementation of the change, the President has prepared and transmitted to the Committee on the Judiciary of the House of Representatives and to the Committee on the Judiciary of the Senate a written report setting forth the proposed change. If the President proposes to make any change regarding social security account number cards, the President shall transmit to the Committee on Ways and Means of the House of Representatives and to the Committee on Finance of the Senate a written report setting forth the proposed change. The President promptly shall cause to have printed in the Federal Register the substance of any major change (described in subparagraph (D)) proposed and reported to Congress.
 
 #### (B) Contents of report
 
@@ -230,7 +230,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (i) Hearings and review
 
-&emsp;&emsp;&emsp;The Committees on the Judiciary of the House of Representatives and of the Senate shall cause to have printed in the Congressional Record the substance of any major change described in subparagraph (D), shall hold hearings respecting the feasibility and desirability of implementing such a change, and, within the two year period before implementation, shall report to their respective Houses findings on whether or not such a change should be implemented.
+&emsp;&emsp;&emsp;The Committees on the Judiciary of the House of Representatives and of the Senate shall cause to have printed in the Congressional Record the substance of any major change described in subparagraph (D), shall hold hearings respecting the feasibility and desirability of implementing such a change, and, within the two year period before implementation, shall reportto their respective Houses findings on whether or not such a change should be implemented.
 
 #### (ii) Congressional action
 
@@ -294,7 +294,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (B) Conduct of hearing
 
-&emsp;&emsp;Any hearing so requested shall be conducted before an administrative law judge.The hearing shall be conducted in accordance with the requirements of section 554 of title 5. The hearing shall be held at the nearest practicable place to the place where the person or entity resides or of the place where the alleged violation occurred. If no hearing is so requested, the Attorney General's imposition of the order shall constitute a final and unappealable order.
+&emsp;&emsp;Any hearing so requested shall be conducted before an administrative law judge. The hearing shall be conducted in accordance with the requirements of section 554 of title 5. The hearing shall be held at the nearest practicable place to the place where the person or entity resides or of the place where the alleged violation occurred. If no hearing is so requested, the Attorney General's imposition of the order shall constitute a final and unappealable order.
 
 #### (C) Issuance of orders
 
@@ -348,7 +348,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (2) Enjoining of pattern or practice violations
 
-&emsp;Whenever the Attorney General has reasonable cause to believe that a person or entity is engaged in a pattern or practice of employment, recruitment, or referral in violation ofparagraph (1)(A) or (2) of subsection (a) of this section, the Attorney General may bring a civil action in the appropriate district court of the United States requesting such relief, including a permanent or temporary injunction, restraining order, or other order against the person or entity, as the Attorney General deems necessary.
+&emsp;Whenever the Attorney General has reasonable cause to believe that a person or entity is engaged in a pattern or practice of employment, recruitment, or referral in violation of paragraph (1)(A) or (2) of subsection (a) of this section, the Attorney General may bring a civil action in the appropriate district court of the United States requesting such relief, including a permanent or temporary injunction, restraining order, or other order against the person or entity, as the Attorney General deems necessary.
 
 #### (g) Prohibition of indemnity bonds
 
@@ -738,7 +738,7 @@ Limitation of requirement to examine documentation.—If the Secretary of Homela
 
 &emsp;&emsp;&emsp;“(ii) the individual is claiming the identity of another person,
 
-&nbsp;&nbsp;if a person or entity could fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a document specified in either subparagraph (B) or (D) of such section, the Secretary of Homeland Security may provide that, for purposes of such requirement, only such a document need be examined. In such case, any reference in section 274A(b)(1)(A) to a verification that an individual is not an unauthorized alien shall be deemed to be a verification of the individual's identity.
+&nbsp;&nbsp;if a person or entity could fulfill the requirement to examine documentation contained in subparagraph (A) of section 274A(b)(1) by examining a documentspecified in either subparagraph (B) or (D) of such section, the Secretary of Homeland Security may provide that, for purposes of such requirement, only such a document need be examined. In such case, any reference in section 274A(b)(1)(A) to a verification that an individual is not an unauthorized alien shall be deemed to be a verification of the individual's identity.
 
 &emsp;“(3)
 
@@ -900,7 +900,7 @@ Design and Operation of System.—The confirmation system shall be designed and 
 
 &emsp;&emsp;“(B) the use of the system prior to an offer of employment; or
 
-&emsp;&emsp;“(C) the exclusion of certain individuals from consideration for employment as a result of a perceived likelihood that additional verification willbe required, beyond what is required for most job applicants.
+&emsp;&emsp;“(C) the exclusion of certain individuals from consideration for employment as a result of a perceived likelihood that additional verification will be required, beyond what is required for most job applicants.
 
 “(e)
 
@@ -976,7 +976,7 @@ Report Required.—The Attorney General shall report to the Committees on the Ju
 
 #### Interim Regulations
 
-Pub. L. 99–603, title I, §101(a)(2), Nov. 6, 1986, 100 Stat. 3372, provided that: “The Attorney General shall, not later than the first day of the seventh month beginning after the date of the enactment of this Act \[Nov. 6, 1986\], first issue, on an interim or other basis, such regulations as may be necessary in order to implement this section \[enacting this section, amending sections1802, 1813, 1816, and 1851 of Title 29, Labor, and enacting provisions set out as notes under this section, section 1802 of Title 29, and section 405 of Title 42, The Public Health and Welfare\].”
+Pub. L. 99–603, title I, §101(a)(2), Nov. 6, 1986, 100 Stat. 3372, provided that: “The Attorney General shall, not later than the first day of the seventh month beginning after the date of the enactment of this Act \[Nov. 6, 1986\], first issue, on an interim or other basis, such regulations as may be necessary in order to implement this section \[enacting this section, amending sections 1802, 1813, 1816, and 1851 of Title 29, Labor, and enacting provisions set out as notes under this section, section 1802 of Title 29, and section 405 of Title 42, The Public Health and Welfare\].”
 
 #### Grandfather Provision for Current Employees
 
@@ -990,7 +990,7 @@ Pub. L. 99–603, title I, §101(a)(3), Nov. 6, 1986, 100 Stat. 3372, provided t
 
 Pub. L. 99–603, title I, §101(d), Nov. 6, 1986, 100 Stat. 3373, provided that:
 
-“(1) The Attorney General, in consultation with the Secretary of Labor and the Secretary of Health and Human Services, shall conduct a study for use by the Department of Justice in determining employment eligibility of aliens in the United States. Such study shall concentrate on those data bases that are currently available to the Federal Government which through the use of a telephone and computation capability could be used to verify instantly the employment eligibility status of job applicants who are aliens.
+“(1) The Attorney General, in consultation with the Secretary of Labor and the Secretary of Health andHuman Services, shall conduct a study for use by the Department of Justice in determining employment eligibility of aliens in the United States. Such study shall concentrate on those data bases that are currently available to the Federal Government which through the use of a telephone and computation capability could be used to verify instantly the employment eligibility status of job applicants who are aliens.
 
 “(2) Such study shall be conducted in conjunction with any existing Federal program which is designed for the purpose of providing information on the resident or employment status of aliens for employers. The study shall include an analysis of costs and benefits which shows the differences in costs and efficiency of having the Federal Government or a contractor perform this service. Such comparisons should include reference to such technical capabilities as processing techniques and time, verification techniques and time, back up safeguards, and audit trail performance.
 
@@ -1032,13 +1032,13 @@ Ex. Ord. No. 12989, Feb. 13, 1996, 61 F.R. 6091, as amended by Ex. Ord. No. 1328
 
 This order is designed to promote economy and efficiency in Federal Government procurement. Stability and dependability are important elements of economy and efficiency. A contractor whose workforce is less stable will be less likely to produce goods and services economically and efficiently than a contractor whose workforce is more stable. It is the policy of the executive branch to enforce fully the immigration laws of the United States, including the detection and removal of illegal aliens and the imposition of legal sanctions against employers that hire illegal aliens. Because of the worksite enforcement policy of the United States and the underlying obligation of the executive branch to enforce the immigration laws, contractors that employ illegal aliens cannot rely on the continuing availability and service of those illegal workers, and such contractors inevitably will have a less stable and less dependable workforce than contractors that do not employ such persons. Where a contractor assigns illegal aliens to work on Federal contracts, the enforcement of Federal immigration laws imposes a direct risk of disruption, delay, and increased expense in Federal contracting. Such contractors are less dependable procurement sources, even if they do not knowingly hire or knowingly continue to employ unauthorized workers.
 
-Contractors that adopt rigorous employment eligibility confirmation policies are much less likely to face immigration enforcement actions, because they are less likely to employ unauthorized workers, and they are therefore generally more efficient and dependable procurement sources than contractors that do not employ the best available measures to verify the work eligibility of their workforce. It is the policy of the executive branch to use an electronic employment verification system because, among other reasons, it provides the best available means to confirm the identity and work eligibility of all employees that join the Federalworkforce. Private employers that choose to contract with the Federal Government should meet the same standard.
+Contractors that adopt rigorous employment eligibility confirmation policies are much less likely to face immigration enforcement actions, because they are less likely to employ unauthorized workers, and they are therefore generally more efficient and dependable procurement sources than contractors that do not employ the best available measures to verify the work eligibility of their workforce. It is the policy of the executive branch to use an electronic employment verification system because, among other reasons, it provides the best available means to confirm the identity and work eligibility of all employees that join the Federal workforce. Private employers that choose to contract with the Federal Government should meet the same standard.
 
 I find, therefore, that adherence to the general policy of contracting only with providers that do not knowingly employ unauthorized alien workers and that have agreed to utilize an electronic employment verification system designated by the Secretary of Homeland Security to confirm the employment eligibility of their workforce will promote economy and efficiency in Federal procurement.
 
 NOW, THEREFORE, to ensure the economical and efficient administration and completion of Federal Government contracts, and by the authority vested in me as President by the Constitution and the laws of the United States of America, including subsection 121(a) of title 40 and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
-Section 1. (a) It is the policy of the executive branch in procuring goods and services that, to ensure the economical and efficient administration and completion of Federal Government contracts, contracting agencies should not contract with employers that have not complied with section 274A(a)(1)(A) and 274A(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1324a(a)(1)(A), 1324a(a)(2)) (the “INA employment provisions”) prohibiting the unlawful employment of aliens.
+Section 1. (a) It is the policy of the executive branch in procuring goods and services that, to ensure the economical and efficient administration and completion of Federal Government contracts, contracting agencies should not contract with employers that have not complied with section 274A(a)(1)(A) and 274A(a)(2) of the Immigration and Nationality Act (8 U.S.C.1324a(a)(1)(A), 1324a(a)(2)) (the “INA employment provisions”) prohibiting the unlawful employment of aliens.
 
 (b) It is the policy of the executive branch in procuring goods and services that, to ensure the economical and efficient administration and completion of Federal Government contracts, contracting agencies may not enter into contracts with employers that do not use the best available means to confirm the work authorization of their workforce.
 

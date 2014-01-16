@@ -8,7 +8,7 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original, “this Act”, meaning act June 27, 1952, ch. 477,66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original, “this Act”, meaning act June 27, 1952, ch. 477, 66 Stat. 163, known as the Immigration and Nationality Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 #### Amendments
 
@@ -16,7 +16,7 @@ This chapter, referred to in subsec. (a), was in the original, “this Act”, m
 
 Pub. L. 104–208, §308(e)(1)(H), substituted “removal” for “deportation”.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–416 struck out first three sentences which read as follows: “If, at any time within five years after the status of a person has been adjusted under the provisions of section 1254 of this title or under section 19(c) of the Immigration Act of February 5, 1917, to that of an alien lawfully admitted for permanent residence, it shall appear to the satisfaction of the Attorney General that the person was not in fact eligible for such adjustment of status, the Attorney General shall submit to the Congress a complete and detailed statement of the facts and pertinent provisions of law in the case. Such reports shall be submitted on the first and fifteenth day of each calendar month in which Congress is in session. If during the session of the Congress at which a case is reported, or prior to the close of the session of the Congress next following the session at which a case is reported, the Congress passes a concurrent resolution withdrawing suspension of deportation, the person shall thereupon be subject to all provisions of this chapter to the same extent as if the adjustment of status had not been made.”
+<b>1994</b>—Subsec. (a). Pub. L. 103–416 struck out first three sentences which read as follows: “If, at any time within five years after the status of a person has been adjusted under the provisions of section 1254 of this title or under section 19(c) of the Immigration Act of February 5, 1917, to that of an alien lawfully admitted for permanent residence, it shall appear to the satisfaction of the Attorney General that the person was not in fact eligible for such adjustment of status, the Attorney General shall submit to the Congress a complete and detailed statement of the facts and pertinent provisions of law in the case. Such reports shall be submitted on the first and fifteenth day of each calendar month in which Congress is in session. If during the session of the Congress at which a case is reported, or prior to the close of the session of the Congress next following the session at which a case is reported, the Congress passes a concurrent resolution withdrawing suspension of deportation, the person shall thereuponbe subject to all provisions of this chapter to the same extent as if the adjustment of status had not been made.”
 
 #### Effective Date of 1996 Amendment
 

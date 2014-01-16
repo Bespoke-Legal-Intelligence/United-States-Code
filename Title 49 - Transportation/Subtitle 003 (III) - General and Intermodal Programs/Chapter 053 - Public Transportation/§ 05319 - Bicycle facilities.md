@@ -20,17 +20,17 @@ Historical and Revision Notes
 
 July 9, 1964, Pub. L. 88–365, 78 Stat. 302, §25; added Apr. 2, 1987, Pub. L. 100–17, §326, 101 Stat. 237.
 
-The words “For purposes of this chapter” and “racks or other” are omitted as surplus. The word “grant” is substituted for “share” for consistency in this chapter.
+The words "For purposes of this chapter" and "racks or other" are omitted as surplus. The word "grant" is substituted for "share" for consistency in this chapter.
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 substituted “sections 5307(d), 5309(l), and 5311(g)” for “sections 5307(e), 5309(h), and 5311(g) of this title” and “made by the” for “of the United States”.
+<b>2012</b>—Pub. L. 112–141 substituted "sections 5307(d), 5309(l), and 5311(g)" for "sections 5307(e), 5309(h), and 5311(g) of this title" and "made by the" for "of the United States".
 
-<b>2008</b>—Pub. L. 110–244 substituted “section 5307(d)(1)(K)” for “section 5307(k)”.
+<b>2008</b>—Pub. L. 110–244 substituted "section 5307(d)(1)(K)" for "section 5307(k)".
 
-<b>2005</b>—Pub. L. 109–59 substituted “public transportation” for “mass transportation” wherever appearing.
+<b>2005</b>—Pub. L. 109–59 substituted "public transportation" for "mass transportation" wherever appearing.
 
-<b>1998</b>—Pub. L. 105–178 substituted “made eligible by this section is for 90 percent of the cost of the project, except that, if the grant or any portion of the grant is made with funds required to be expended under section 5307(k) and the project involves providing bicycle access to mass transportation, that grant or portion of that grant shall be at a Federal share of 95 percent” for “under this section is for 90 percent of the cost of the project”.
+<b>1998</b>—Pub. L. 105–178 substituted "made eligible by this section is for 90 percent of the cost of the project, except that, if the grant or any portion of the grant is made with funds required to be expended under section 5307(k) and the project involves providing bicycle access to mass transportation, that grant or portion of that grant shall be at a Federal share of 95 percent" for "under this section is for 90 percent of the cost of the project".
 
 #### Effective Date of 2012 Amendment
 

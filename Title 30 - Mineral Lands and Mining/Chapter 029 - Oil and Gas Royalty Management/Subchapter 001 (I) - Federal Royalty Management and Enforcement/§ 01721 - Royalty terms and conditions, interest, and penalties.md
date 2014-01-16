@@ -32,11 +32,11 @@ Interest shall be allowed and paid or credited on any overpayment, with such int
 
 #### (i) Limitation on interest
 
-Upon a determination by the Secretary that an excessive overpayment (based upon all obligations of a lessee or its designee for a given reporting month) was made for the sole purpose of receiving interest, interest shall not be paid on the excessive amount of such overpayment. For purposes of this chapter, an “excessive overpayment” shall be the amount that any overpayment a lessee or its designee pays for a given reporting month (excluding payments for demands for obligations determined to be due as a result of judicial or administrative proceedings or agreed to be paid pursuant to settlement agreements) for the aggregate of all of its Federal leases exceeds 10 percent of the total royalties paid that month for those leases.
+Upon a determination by the Secretary that an excessive overpayment (based upon all obligations of a lessee or its designee for a given reporting month) was made for the sole purpose of receiving interest, interest shall not be paid on the excessive amount of such overpayment. For purposes of this chapter, an "excessive overpayment" shall be the amount that any overpayment a lessee or its designee pays for a given reporting month (excluding payments for demands for obligations determined to be due as a result of judicial or administrative proceedings or agreed to be paid pursuant to settlement agreements) for the aggregate of all of its Federal leases exceeds 10 percent of the total royalties paid that month for those leases.
 
 #### (j) Estimated payment
 
-A lessee or its designee may make a payment for the approximate amount of royalties (hereinafter in this subsection “estimated payment”) that would otherwise be due for such lease by the date royalties are due for that lease. When an estimated payment is made, actual royalties are payable at the end of the month following the month in which the estimated payment is made. If the estimated payment was less than the amount of actual royalties due, interest is owed on the underpaid amount. If the estimated payment exceeds the actual royalties due, interest is owed on the overpayment. If the lessee or its designee makes a payment for such actual royalties, the lessee or its designee may apply the estimated payment to future royalties. Any estimated payment may be adjusted, recouped, or reinstated at any time by the lessee or its designee.
+A lessee or its designee may make a payment for the approximate amount of royalties (hereinafter in this subsection "estimated payment") that would otherwise be due for such lease by the date royalties are due for that lease. When an estimated payment is made, actual royalties are payable at the end of the month following the month in which the estimated payment is made. If the estimated payment was less than the amount of actual royalties due, interest is owed on the underpaid amount. If the estimated payment exceeds the actual royalties due, interest is owed on the overpayment. If the lessee or its designee makes a payment for such actual royalties, the lessee or its designee may apply the estimated payment to future royalties. Any estimated payment may be adjusted, recouped, or reinstated at any time by the lessee or its designee.
 
 #### (k) Volume allocation of oil and gas production
 
@@ -52,7 +52,7 @@ A lessee or its designee may make a payment for the approximate amount of royalt
 
 (3) For any unit or communitization agreement if all lessees contractually agree to an alternative method of royalty reporting and payment, the lessees may submit such alternative method to the Secretary or the delegated State for approval and make payments in accordance with such approved alternative method so long as such alternative method does not reduce the amount of the royalty obligation.
 
-(4) The Secretary or the delegated State shall grant an exception from the reporting and payment requirements for marginal properties by allowing for any calendar year or portion thereof royalties to be paid each month based on the volume of production sold. Interest shall not accrue on the difference for the entire calendar year or portion thereof between the amount of oil and gas actually sold and the share of production allocated to the lease until the beginning of the month following such calendar year or portion thereof. Any additional royalties due or overpaid royalties and associated interest shall be paid, refunded, or credited within six months after the end of each calendar year in which royalties are paid based on volumes of production sold. For the purpose of this subsection, the term “marginal property” means a lease that produces on average the combined equivalent of less than 15 barrels of oil per well per day or 90 thousand cubic feet of gas per well per day, or a combination thereof, determined by dividing the average daily production of crude oil and natural gas from producing wells on such lease by the number of such wells, unless the Secretary, together with the State concerned, determines that a different production is more appropriate.
+(4) The Secretary or the delegated State shall grant an exception from the reporting and payment requirements for marginal properties by allowing for any calendar year or portion thereof royalties to be paid each month based on the volume of production sold. Interest shall not accrue on the difference for the entire calendar year or portion thereof between the amount ofoil and gas actually sold and the share of production allocated to the lease until the beginning of the month following such calendar year or portion thereof. Any additional royalties due or overpaid royalties and associated interest shall be paid, refunded, or credited within six months after the end of each calendar year in which royalties are paid based on volumes of production sold. For the purpose of this subsection, the term "marginal property" means a lease that produces on average the combined equivalent of less than 15 barrels of oil per well per day or 90 thousand cubic feet of gas per well per day, or a combination thereof, determined by dividing the average daily production of crude oil and natural gas from producing wells on such lease by the number of such wells, unless the Secretary, together with the State concerned, determines that a different production is more appropriate.
 
 (5) Not later than two years after August 13, 1996, the Secretary shall issue any appropriate demand for all outstanding royalty payment disputes regarding who is required to report and pay royalties on production from units and communitization agreements outstanding on August 13, 1996, and collect royalty amounts owed on such production.
 
@@ -60,7 +60,23 @@ A lessee or its designee may make a payment for the approximate amount of royalt
 
 The Secretary shall issue all determinations of allocations of production for units and communitization agreements within 120 days of a request for determination. If the Secretary fails to issue a determination within such 120-day period, the Secretary shall waive interest due on obligations subject to the determination until the end of the month following the month in which the determination is made.
 
-(Pub. L. 97–451, title I, §111, Jan. 12, 1983, 96 Stat. 2455; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–185, §6(a)–(e), (h)(1), Aug. 13, 1996, 110 Stat. 1712–1715; Pub. L. 104–200, §1(3)–(6), Sept. 22, 1996, 110 Stat. 2421.)
+(Pub. L. 97–451, title I, §111, Jan. 12, 1983, 96 Stat. 2455; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–185, §6(a)–(e), (h)(1), Aug. 13, 1996, 110 Stat. 1712–1715; Pub. L. 104–200, §1(3)–(6), Sept. 22, 1996, 110 Stat. 2421; Pub. L. 113–67, div. A, title III, §305(a), Dec. 26, 2013, 127 Stat. 1183.)
+
+#### Amendment of Subsection (i)
+
+<i>Pub. L. 113–67, div. A, title III, §305, Dec. 26, 2013, 127 Stat. 1183, provided that, effective July 1, 2014, subsection (i) is amended by striking "(i) Upon" and all that follows through "For purposes" and inserting the following:</i>
+
+#### <i>"(i) Limitation on interest</i>
+
+#### <i>"(1) In general</i>
+
+&emsp;<i>"Interest shall not be paid on any excessive overpayment.</i>
+
+#### <i>"(2) Excessive overpayment defined</i>
+
+&emsp;<i>"For purposes".</i>
+
+<i>See 2013 Amendment note below.</i>
 
 #### References in Text
 
@@ -76,25 +92,31 @@ Section is comprised of section 111 of Pub. L. 97–451. Subsec. (g) of section 
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–185, §6(h)(1), substituted “Royalty terms and conditions, interest, and penalties” for“Royalty interest, penalties and payments” in section catchline.
+<b>2013</b>—Subsec. (i). Pub. L. 113–67 inserted subsec. heading; designated first sentence as par. (1), inserted heading, and substituted "Interest shall not be paid on any excessive overpayment." for "Upon a determination by the Secretary that an excessive overpayment (based upon all obligations of a lessee or its designee for a given reporting month) was made for the sole purpose of receiving interest, interest shall not be paid on the excessive amount of such overpayment."; and designated second sentence as par. (2) and inserted heading.
+
+<b>1996</b>—Pub. L. 104–185, §6(h)(1), substituted "Royalty terms and conditions, interest, and penalties" for "Royalty interest, penalties and payments" in section catchline.
 
 Subsec. (h). Pub. L. 104–185, §6(a), added subsec. (h).
 
-Subsec. (i). Pub. L. 104–200, §1(3), inserted “not” after “receiving interest, interest shall”.
+Subsec. (i). Pub. L. 104–200, §1(3), inserted "not" after "receiving interest, interest shall".
 
 Pub. L. 104–185, §6(b), added subsec. (i).
 
-Subsec. (j). Pub. L. 104–200, §1(4), (5), substituted “date royalties are due” for “rate royalties are due”, “interest is owed on the underpaid amount” for “interest is owned on the underpaid amount”, and “interest is owed on the overpayment” for “interest is owned on the overpayment”.
+Subsec. (j). Pub. L. 104–200, §1(4), (5), substituted "date royalties are due" for "rate royalties are due", "interest is owed on the underpaid amount" for "interest is owned on the underpaid amount", and "interest is owed on the overpayment" for "interest is owned on the overpayment".
 
 Pub. L. 104–185, §6(c), added subsec. (j).
 
 Subsec. (k). Pub. L. 104–185, §6(d), added subsec. (k).
 
-Subsec. (k)(4). Pub. L. 104–200, §1(6), substituted “additional royalties due” for “additional royalties dues”.
+Subsec. (k)(4). Pub. L. 104–200, §1(6), substituted "additional royalties due" for "additional royalties dues".
 
 Subsec. (l). Pub. L. 104–185, §6(e), added subsec. (l).
 
-<b>1986</b>—Subsecs. (a), (b), (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsecs. (a), (b), (d). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
+
+#### Effective Date of 2013 Amendment
+
+Pub. L. 113–67, div. A, title III, §305(b), Dec. 26, 2013, 127 Stat. 1183, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on July 1, 2014."
 
 #### Effective Date of 1996 Amendment
 
@@ -106,5 +128,5 @@ Amendment by Pub. L. 104–185 not applicable to any privately owned minerals or
 
 #### Payment of Interest Charges From Current Receipts
 
-Pub. L. 108–447, div. E, title I, Dec. 8, 2004, 118 Stat. 3053, as amended by Pub. L. 110–161, div. F, title I, Dec. 26, 2007, 121 Stat. 2109, provided in part: “That in fiscal year 2005 and thereafter, notwithstanding 30 U.S.C. 191(a) and 43 U.S.C. 1338, the Secretary shall pay amounts owed to States and Indian accounts under the provisions of 30 U.S.C. 1721(b) and (d) from amounts received as current receipts from bonuses, royalties, interest collected from lessees and designees, and rentals of the public lands and the outer continental shelf under provisions of the Mineral Leasing Act (30 U.S.C. 181 et seq.), and the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.), which are not payable to a State or the Reclamation Fund.”
+Pub. L. 108–447, div. E, title I, Dec. 8, 2004, 118 Stat. 3053, as amended by Pub. L. 110–161, div. F, title I, Dec.26, 2007, 121 Stat. 2109, provided in part: "That in fiscal year 2005 and thereafter, notwithstanding 30 U.S.C. 191(a) and 43 U.S.C. 1338, the Secretary shall pay amounts owed to States and Indian accounts under the provisions of 30 U.S.C. 1721(b) and (d) from amounts received as current receipts from bonuses, royalties, interest collected from lessees and designees, and rentals of the public lands and the outer continental shelf under provisions of the Mineral Leasing Act (30 U.S.C. 181 et seq.), and the Outer Continental Shelf Lands Act (43 U.S.C. 1331 et seq.), which are not payable to a State or the Reclamation Fund."
 

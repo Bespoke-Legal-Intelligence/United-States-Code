@@ -14,7 +14,7 @@ Limitation.—To the extent that another Federal law specifies procedures for re
 
 (c)
 
-Amounts Owing Other Than Debts.—This chapter shall not apply with respect to an amount owing that is not a debt or to a claim for an amount owing that is not a debt.
+Amounts Owing Other Than Debts.—This chapter shall not apply with respect to anamount owing that is not a debt or to a claim for an amount owing that is not a debt.
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4933.)
 
@@ -22,21 +22,21 @@ Amounts Owing Other Than Debts.—This chapter shall not apply with respect to a
 
 Section 3631 of title XXXVI of Pub. L. 101–647 provided that:
 
-“(a) Except as provided in subsection (b), this Act \[probably should be “title”, meaning title XXXVI of Pub. L. 101–647, which enacted this chapter and section 2044 of this title, amended sections 550, 1962, 1963, and 2410 of this title, section 523 of Title 11, Bankruptcy, and sections 3142 and 3552 of Title 18, Crimes and Criminal Procedure, and enacted provisions set out as a note under section 1 of this title\] and the amendments made by this Act \[title\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 29, 1990\].
+"(a) Except as provided in subsection (b), this Act \[probably should be "title", meaning title XXXVI of Pub. L. 101–647, which enacted this chapter and section 2044 of this title, amended sections 550, 1962, 1963, and 2410 of this title, section 523 of Title 11, Bankruptcy, and sections 3142 and 3552 of Title 18, Crimes and Criminal Procedure, and enacted provisions set out as a note under section 1 of this title\] and the amendments made by this Act \[title\] shall take effect 180 days after the date of the enactment of this Act \[Nov. 29, 1990\].
 
-“(b)(1) The amendments made by title I of this Act \[probably should be “subtitle A of this title”, meaning subtitle A (§§3611, 3302 \[3612\]) of title XXXVI of Pub. L. 101–647, which enacted this chapter\] shall apply with respect to actions pending on the effective date of this Act \[probably should be title XXXVI of Pub. L. 101–647\] in any court on—
+"(b)(1) The amendments made by title I of this Act \[probably should be "subtitle A of this title", meaning subtitle A (§§3611, 3302 \[3612\]) of title XXXVI of Pub. L. 101–647, which enacted this chapter\] shall apply with respect to actions pending on the effective date of this Act \[probably should be title XXXVI of Pub. L. 101–647\] in any court on—
 
-&emsp;“(A) a claim for a debt; or
+&emsp;"(A) a claim for a debt; or
 
-&emsp;“(B) a judgment for a debt.
+&emsp;"(B) a judgment for a debt.
 
-“(2) All notices, writs, orders, and judgments in effect in such actions shall continue in effect until superseded or modified in an action under chapter 176 of title 28 of the United States Code, as added by title I of this Act \[subtitle A of this title\].
+"(2) All notices, writs, orders, and judgments in effect in such actions shall continue in effect until superseded or modified in an action under chapter 176 of title 28 of the United States Code, as added by title I of this Act \[subtitle A of this title\].
 
-“(3) For purposes of this subsection—
+"(3) For purposes of this subsection—
 
-&emsp;“(A) the term ‘court’ means a Federal, State, or local court, and
+&emsp;"(A) the term 'court' means a Federal, State, or local court, and
 
-&emsp;“(B) the term ‘debt’ has the meaning given such term in section and \[sic\] 3002(3) of such chapter.”
+&emsp;"(B) the term 'debt' has the meaning given such term in section and \[sic\] 3002(3) of such chapter."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "this".</i>
 

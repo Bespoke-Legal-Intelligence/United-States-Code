@@ -6,7 +6,7 @@ The Secretary of Defense shall prescribe regulations requiring consideration of 
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–239 inserted “, in accordance with the strategy required by section 2501 of this title,” after “base”.
+<b>2013</b>—Pub. L. 112–239 inserted ", in accordance with the strategy required by section 2501 of this title," after "base".
 
-<b>2006</b>—Pub. L. 109–364 substituted “industrial base plans” for “Industrial Base Plans” in section catchline.
+<b>2006</b>—Pub. L. 109–364 substituted "industrial base plans" for "Industrial Base Plans" in section catchline.
 

@@ -22,7 +22,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 <b>1985</b>—Pub. L. 99–198 amended section generally, substituting provisions relating to enforcement for provisions relating to referendum and cattle producer approval of orders, reimbursement of expenses by Secretary, procedural requirements, and bonding requirements.
 
-<b>1978</b>—Pub. L. 95–334 substituted “a majority” for “not less than two-thirds”.
+<b>1978</b>—Pub. L. 95–334 substituted "a majority" for "not less than two-thirds".
 
 #### Effective Date of 1985 Amendment
 

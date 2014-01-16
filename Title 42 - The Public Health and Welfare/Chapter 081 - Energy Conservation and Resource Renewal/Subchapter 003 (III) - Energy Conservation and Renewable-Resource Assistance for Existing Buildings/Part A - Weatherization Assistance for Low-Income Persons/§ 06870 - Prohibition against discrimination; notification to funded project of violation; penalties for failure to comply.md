@@ -1,6 +1,6 @@
 ### §6870. Prohibition against discrimination; notification to funded project of violation; penalties for failure to comply
 
-(a) No person in the United States shall, on the ground of race, color, national origin, or sex, or on the ground of any other factor specified in any Federal law prohibiting discrimination, be excluded from participation in, be denied thebenefits of, or be subjected to discrimination under any program, project, or activity supported in whole or in part with financial assistance under this part.
+(a) No person in the United States shall, on the ground of race, color, national origin, or sex, or on the ground of any other factor specified in any Federal law prohibiting discrimination, be excluded from participation in, be denied the benefits of, or be subjected to discrimination under any program, project, or activity supported in whole or in part with financial assistance under this part.
 
 (b) Whenever the Secretary determines that a recipient of financial assistance under this part has failed to comply with subsection (a) of this section or any applicable regulation, he shall notify the recipient thereof in order to secure compliance. If, within a reasonable period of time thereafter, such recipient fails to comply, the Secretary shall—
 
@@ -18,5 +18,5 @@ The Civil Rights Act of 1964, referred to in subsec. (b)(2), is Pub. L. 88–352
 
 #### Amendments
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–294 substituted “Secretary” for “Administrator” wherever appearing.
+<b>1980</b>—Subsec. (b). Pub. L. 96–294 substituted "Secretary" for "Administrator" wherever appearing.
 

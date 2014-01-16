@@ -36,7 +36,7 @@
 
 #### (2) Waiver regarding certain secondary agreements
 
-&emsp;(A) In the case of a provider making an agreement pursuant to paragraph (1)(B) regarding the provision of services, the requirement established in such paragraph regardinga participation agreement shall be waived by the Secretary if the provider does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits plan.
+&emsp;(A) In the case of a provider making an agreement pursuant to paragraph (1)(B) regarding the provision of services, the requirement established in such paragraph regarding a participation agreement shall be waived by the Secretary if the provider does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits plan.
 
 &emsp;(B) A determination by the Secretary of whether a provider referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regard to whether the provider accepts voluntary donations regarding the provision of services to the public.
 
@@ -92,7 +92,7 @@ The Secretary, at the request of a recipient of a grant under subsection (a) of 
 
 &emsp;(1) the fair market value of any supplies or equipment furnished the grant recipient; and
 
-&emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee ofthe Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee;
+&emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee;
 
 > when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) of this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
 
@@ -130,7 +130,7 @@ The Secretary and the Comptroller General of the United States, or any of their 
 
 #### (k) Indian tribes
 
-For purposes of this section, the term “political subdivision” includes Indian tribes.
+For purposes of this section, the term "political subdivision" includes Indian tribes.
 
 #### (l) Funding
 
@@ -158,25 +158,25 @@ The Social Security Act, referred to in subsecs. (b)(1) and (d)(5), is act Aug. 
 
 #### Prior Provisions
 
-A prior section 247b–1, Pub. L. 95–626, title IV, §401, Nov. 10, 1978, 92 Stat. 3590; S. Res. 30, Mar. 7, 1979; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; H. Res. 549, Mar. 25, 1980, related to demonstration and evaluation of optimal methods for organizing and delivering comprehensive preventive health services to defined populations, prior to repeal by Pub. L. 97–35, titleIX, §902(a), (h), Aug. 13, 1981, 95 Stat. 559, 561, eff. Oct. 1, 1981.
+A prior section 247b–1, Pub. L. 95–626, title IV, §401, Nov. 10, 1978, 92 Stat. 3590; S. Res. 30, Mar. 7, 1979; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; H. Res. 549, Mar. 25, 1980, related to demonstration and evaluation of optimal methods for organizing and delivering comprehensive preventive health services to defined populations, prior to repeal by Pub. L. 97–35, title IX, §902(a), (h), Aug. 13, 1981, 95 Stat. 559, 561, eff. Oct. 1, 1981.
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(2). Pub. L. 108–163 substituted “254b” for “254c, 254b(h)” before “, or”.
+<b>2003</b>—Subsec. (a)(2). Pub. L. 108–163 substituted "254b" for "254c, 254b(h)" before ", or".
 
-<b>2002</b>—Subsec. (a)(2). Pub. L. 107–251 substituted “254b(h)” for “256”.
+<b>2002</b>—Subsec. (a)(2). Pub. L. 107–251 substituted "254b(h)" for "256".
 
 <b>2000</b>—Subsec. (d)(7), (8). Pub. L. 106–310, §2501(a)(1), added par. (7) and redesignated former par. (7) as (8).
 
-Subsec. (j)(2)(F), (G). Pub. L. 106–310, §2501(a)(2), added subpar. (F), redesignated former subpar. (F) as (G), and substituted “(F)” for “(E)”.
+Subsec. (j)(2)(F), (G). Pub. L. 106–310, §2501(a)(2), added subpar. (F), redesignated former subpar. (F) as (G), and substituted "(F)" for "(E)".
 
-Subsec. (l)(1). Pub. L. 106–310, §2504, substituted “1994 through 2005” for “1994 through 2002”.
+Subsec. (l)(1). Pub. L. 106–310, §2504, substituted "1994 through 2005" for "1994 through 2002".
 
 Subsec. (m). Pub. L. 106–310, §2501(b), added subsec. (m).
 
-<b>1998</b>—Subsec. (l)(1). Pub. L. 105–392 substituted “2002” for “1998”.
+<b>1998</b>—Subsec. (l)(1). Pub. L. 105–392 substituted "2002" for "1998".
 
-<b>1993</b>—Subsec. (l)(1). Pub. L. 103–183 substituted “through 1998” for “through 1997”.
+<b>1993</b>—Subsec. (l)(1). Pub. L. 103–183 substituted "through 1998" for "through 1997".
 
 <b>1992</b>—Pub. L. 102–531 amended section generally, substituting present provisions for provisions relating to grants to States for lead poisoning prevention, grant applications, conditions for approval, method and amount of payment, reduction of amount, recordkeeping and audits, inclusion of Indian tribes as grant recipients, and authorization of appropriations.
 
@@ -188,29 +188,29 @@ Amendment by Pub. L. 108–163 deemed to have taken effect immediately after the
 
 Pub. L. 106–310, div. A, title XXV, §2501(c), Oct. 17, 2000, 114 Stat. 1161, provided that:
 
-“(1)
+"(1)
 
 In general.—The Director of the Centers for Disease Control and Prevention shall—
 
-&emsp;“(A) assist with the improvement of data linkages between State and local health departments and between State health departments and the Centers for Disease Control and Prevention;
+&emsp;"(A) assist with the improvement of data linkages between State and local health departments and between State health departments and the Centers for Disease Control and Prevention;
 
-&emsp;“(B) assist States with the development of flexible, comprehensive State-based data management systems for the surveillance of children with lead poisoning that have the capacity to contribute to a national data set;
+&emsp;"(B) assist States with the development of flexible, comprehensive State-based data management systems for the surveillance of children with lead poisoning that have the capacity to contribute to a national data set;
 
-&emsp;“(C) assist with the improvement of the ability of State-based data management systems and federally-funded means-tested public benefit programs (including the special supplemental food program for women, infants and children (WIC) under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786) and the early head start program under section 645A of the Head Start Act (42 U.S.C. 9840a(h)) to respond to ad hoc inquiries and generate progress reports regarding the lead blood level screening of children enrolled in those programs;
+&emsp;"(C) assist with the improvement of the ability of State-based data management systems and federally-funded means-tested public benefit programs (including the special supplemental food program for women, infants and children (WIC) under section 17 of the Child Nutrition Act of 1966 (42 U.S.C. 1786) and the early head start program under section 645A of the Head Start Act (42 U.S.C. 9840a(h)) to respond to ad hoc inquiries and generate progress reports regarding the lead blood level screening of children enrolled in those programs;
 
-&emsp;“(D) assist States with the establishment of a capacity for assessing how many children enrolled in the Medicaid, WIC, early head start, and other federally-funded means-tested public benefit programs are being screened for lead poisoning at age-appropriate intervals;
+&emsp;"(D) assist States with the establishment of a capacity for assessing how many children enrolled in the Medicaid, WIC, early head start, and other federally-funded means-tested public benefit programs are being screened for lead poisoning at age-appropriate intervals;
 
-&emsp;“(E) use data obtained as result of activities under this section to formulate or revise existing lead blood screening and case management policies; and
+&emsp;"(E) use data obtained as result of activities under this section to formulate or revise existing lead blood screening and case management policies; and
 
-&emsp;“(F) establish performance measures for evaluating State and local implementation of the requirements and improvements described in subparagraphs (A) through (E).
+&emsp;"(F) establish performance measures for evaluating State and local implementation of the requirements and improvements described in subparagraphs (A) through (E).
 
-“(2)
+"(2)
 
 Authorization of appropriations.—There are authorized to be appropriated to carry out this subsection such sums as may be necessary for each \[sic\] the fiscal years 2001 through 2005.
 
-“(3)
+"(3)
 
-Effective date.—This subsection takes effect on the date of the enactment of this Act \[Oct. 17, 2000\].”
+Effective date.—This subsection takes effect on the date of the enactment of this Act \[Oct. 17, 2000\]."
 
 <i><sup>1</sup></i><i> See References in Text notes below.</i>
 

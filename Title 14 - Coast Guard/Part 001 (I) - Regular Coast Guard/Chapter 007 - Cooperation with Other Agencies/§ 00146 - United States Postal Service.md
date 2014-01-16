@@ -10,7 +10,7 @@ This section provides generally for what has been the practice between the Coast
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–640 substituted “United States Postal Service” for “Postmaster General”.
+<b>1986</b>—Pub. L. 99–640 substituted "United States Postal Service" for "Postmaster General".
 
-<b>1976</b>—Pub. L. 94–546 substituted “United States Postal Service” for “Post Office Department” in section catchline.
+<b>1976</b>—Pub. L. 94–546 substituted "United States Postal Service" for "Post Office Department" in section catchline.
 

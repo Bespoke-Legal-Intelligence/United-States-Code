@@ -8,11 +8,11 @@
 
 (3) Such liquidating agent shall have power and authority, subject to the control and supervision of the Board and under such rules and regulations as the Board may prescribe, (A) to receive and take possession of the books, records, assets, and property of every description of the Federal credit union in liquidation, to sell, enforce collection of, and liquidate all such assets and property, to compound all bad or doubtful debts, and to sue in his own name or in the name of the Federal credit union in liquidation, and defend such actions as may be brought against him as liquidating agent or against the Federal credit union; (B) to receive, examine, and pass upon all claims against the Federal credit union in liquidation, including claims of members on member accounts; (C) to make distribution and payment to creditors and members as their interests may appear; and (D) to execute such documents and papers and to do such other acts and things which he may deem necessary or desirable to discharge his duties hereunder.
 
-(4) Subject to the control and supervision of the Board and under such rules and regulations as the Board may prescribe, the liquidating agent of a Federal credit union in involuntary liquidation shall (A) cause notice to be given to creditors and members to present their claims and make legal proof thereof, which notice shall be published once a week in each of three successive weeks in a newspaper of general circulation in each county in which the Federal credit union in liquidation maintained an office or branch for the transaction of business on the date it ceased unrestricted operations; except that whenever the aggregate book value of the assets and property of a Federal credit union in involuntary liquidation is less than $1,000, unless the Board shall find that its books and records do not contain a true and accurate record of its liabilities he shall declare such Federal credit union in liquidation to be a “no publication” liquidation, and publication of notice to creditors and members shall not be required in such case; (B) from time to time make a ratable dividend on all such claims as may have been proved to his satisfaction or adjudicated in a court of competent jurisdiction and, after the assets of such organization have been liquidated, make further dividends on all claims previously proved or adjudicated, and he may accept in lieu of a formal proof of claim on behalf of any creditor or member the statement of any amount due to such creditor or member as shown on the books and records of the credit union; but all claims not filed before payment of the final dividend shall be barred and claims rejected or disallowed by the liquidating agent shall be likewise barred unless suit be instituted thereon within three months after notice of rejection or disallowance; and (C) in a “no publication” liquidation, determine from all sources available to him, and within the limits of available funds of the Federal credit union, the amounts due to creditors and members, and after sixty days shall have elapsed from the date of his appointment distribute the funds of the Federal credit union to creditors and members ratably and as their interests may appear.
+(4) Subject to the control and supervision of the Board and under such rules and regulations as the Board may prescribe, the liquidating agent of a Federal credit union in involuntary liquidation shall (A) cause notice to be given to creditors and members to present their claims and make legal proof thereof, which notice shall be published once a week in each of three successive weeks in a newspaper of general circulation in each county in which the Federal credit union in liquidation maintained an office or branch for the transaction of business on the date it ceased unrestricted operations; except that whenever the aggregate book value of the assets and property of a Federal credit union in involuntary liquidation is less than $1,000, unless the Board shall find that its books and records do not contain a true and accurate record of its liabilities he shall declare such Federal credit union in liquidation to be a "no publication" liquidation, and publication of notice to creditors and members shall not be required in such case; (B) from time to time make a ratable dividend on all such claims as may have been proved to his satisfaction or adjudicated in a court of competent jurisdiction and, after the assets of such organization have been liquidated, make further dividends on all claims previously proved or adjudicated, and he may accept in lieu of a formal proof of claim on behalf of any creditor or member the statement of any amount due to such creditor or member as shown on the books and records of the credit union; but all claims not filed before payment of the final dividend shall be barred and claims rejected or disallowed by the liquidating agent shall be likewise barred unless suit be instituted thereon within three months after notice of rejection or disallowance; and (C) in a "no publication" liquidation, determine from all sources available to him, and within the limits of available funds of the Federal credit union, the amounts due to creditors and members, and after sixty days shall have elapsed from the date of his appointment distribute the funds of the Federal credit union to creditors and members ratably and as their interests may appear.
 
-(5) Upon certification by the liquidating agent in the case of an involuntary liquidation, and upon such proof as shall be satisfactory to the Board in the case of a voluntary liquidation, that distribution has been made and that liquidation has been completed, as provided herein, the Board shall cancel the charter of such Federal credit union; but the corporate existence of the Federal credit union shall continue for a period of three years from the date of such cancellation of its charter, during which period theliquidating agent, or his duly appointed successor, or such persons as the Board shall designate, may act on behalf of the Federal credit union for the purpose of paying, satisfying, and discharging any existing liabilities or obligations, collecting and distributing its assets, and doing all other acts required to adjust and wind up its business and affairs, and it may sue and be sued in its corporate name.
+(5) Upon certification by the liquidating agent in the case of an involuntary liquidation, and upon such proof as shall be satisfactory to the Board in the case of a voluntary liquidation, that distribution has been made and that liquidation has been completed, as provided herein, the Board shall cancel the charter of such Federal credit union; but the corporate existence of the Federal credit union shall continue for a period of three years from the date of such cancellation of its charter, during which period the liquidating agent, or his duly appointed successor, or such persons as the Board shall designate, may act on behalf of the Federal credit union for the purpose of paying, satisfying, and discharging any existing liabilities or obligations, collecting and distributing its assets, and doing all other acts required to adjust and wind up its business and affairs, and it may sue and be sued in its corporate name.
 
-(c) After the expiration of five years from the date of cancellation of the charter of a Federal credit union the Board may, in its discretion, destroy any or all books and records of such Federal credit union in its possession or under its control.
+(c) After the expiration of five years from the date of cancellation of the charter of a Federal credit union the Board may, in its discretion, destroy any or all books and records of suchFederal credit union in its possession or under its control.
 
 (d) The Board is authorized and empowered to execute any and all functions and perform any and all duties vested in it hereby, through such persons as it shall designate or employ; and it may delegate to any person or persons, including any institution operating under the general supervision of the Administration, the performance and discharge of any authority, power, or function vested in it by this chapter.
 
@@ -44,7 +44,7 @@ Staff.—
 
 &emsp;(1)
 
-Appointment and compensation.—The Board shall fix the compensation and number of, and appoint and direct, employees of the Board. Rates of basic pay for employees of the Board may be set and adjusted by the Board without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5.
+Appointment and compensation.—The Board shall fix the compensation and number of, and appoint and direct, employees of the Board. Rates of basic pay for employees of theBoard may be set and adjusted by the Board without regard to the provisions of chapter 51 or subchapter III of chapter 53 of title 5.
 
 &emsp;(2)
 
@@ -62,29 +62,29 @@ The Economic Opportunity Act of 1964, referred to in subsec. (f)(2)(B), is Pub. 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (h). Pub. L. 109–351 substituted “chapter 93 of title 31” for “the Act approved July 30, 1947 (6 U.S.C., secs. 6–13)”.
+<b>2006</b>—Subsec. (h). Pub. L. 109–351 substituted "chapter 93 of title 31" for "the Act approved July 30, 1947 (6 U.S.C., secs. 6–13)".
 
-<b>1994</b>—Subsec. (k). Pub. L. 103–325 struck out subsec. (k) which read as follows: “Notwithstanding any other provision of law, the Board may exercise the authority granted it by the Community Development Credit Union Revolving Loan Fund Transfer Act (Public Law 99–609, sec. 1, Nov. 6, 1986, 100 Stat. 3475) subject only to the rules and regulations prescribed by the Board.”
+<b>1994</b>—Subsec. (k). Pub. L. 103–325 struck out subsec. (k) which read as follows: "Notwithstanding any other provision of law, the Board may exercise the authority granted it by the Community Development Credit Union Revolving Loan Fund Transfer Act (Public Law 99–609, sec. 1, Nov. 6, 1986, 100 Stat. 3475) subject only to the rules and regulations prescribed by the Board."
 
 <b>1989</b>—Subsec. (j). Pub. L. 101–73 added subsec. (j).
 
 Subsec. (k). Pub. L. 101–144 added subsec. (k).
 
-<b>1987</b>—Subsec. (i)(2). Pub. L. 100–86 inserted “acquire and dispose of, by lease or purchase, real or personal property, without regard to the provisions of any other law applicable to executive or independent agencies of the United States,” after “reimbursement,” and “, in accordance with the rules and regulations or policies established by the Board not inconsistent with this chapter” after “this chapter”.
+<b>1987</b>—Subsec. (i)(2). Pub. L. 100–86 inserted "acquire and dispose of, by lease or purchase, real or personal property, without regard to the provisions of any other law applicable to executive or independent agencies of the United States," after "reimbursement," and ", in accordance with the rules and regulations or policies established by the Board not inconsistent with this chapter" after "this chapter".
 
 <b>1982</b>—Subsec. (a). Pub. L. 97–320 inserted provisions relating to the special authority of the Board over a central credit union, and such a union's general prerogatives and liabilities.
 
-<b>1978</b>—Pub. L. 95–630 substituted “Board” for “Administrator” wherever appearing; and “it”, “them”, and “its” for “he”, “him”, and “his”, respectively, where appropriate.
+<b>1978</b>—Pub. L. 95–630 substituted "Board" for "Administrator" wherever appearing; and "it", "them", and "its" for "he", "him", and "his", respectively, where appropriate.
 
-<b>1977</b>—Subsec. (b)(3)(B). Pub. L. 95–22 substituted “member accounts” for “shares”.
+<b>1977</b>—Subsec. (b)(3)(B). Pub. L. 95–22 substituted "member accounts" for "shares".
 
-<b>1970</b>—Subsecs. (a) to (h). Pub. L. 91–206, §2(1), (3), substituted “Administrator” for “Director” and “Administration” for “Bureau” wherever appearing.
+<b>1970</b>—Subsecs. (a) to (h). Pub. L. 91–206, §2(1), (3), substituted "Administrator" for "Director" and "Administration" for "Bureau" wherever appearing.
 
 Subsec. (i). Pub. L. 91–206, §4, added subsec. (i).
 
 <b>1968</b>—Subsec. (f). Pub. L. 90–375 redesignated existing provisions as par. (1) and added par. (2).
 
-<b>1959</b>—Pub. L. 86–354 made capitalization, punctuation and phraseological changes throughout text; redesignated, in subsec. (b)(3), cls. (i) to (iv) as (A) to (D) and corrected in cl. (A) the final “cerdit” to read “credit”; redesignated, in subsec. (b)(4), cls. (i) to (iii) as cls. (A) to (C); and redesignated the second subsec. (b) and subsecs. (c) to (g) as (c) to (h), respectively.
+<b>1959</b>—Pub. L. 86–354 made capitalization, punctuation and phraseological changes throughout text; redesignated, in subsec. (b)(3), cls. (i) to (iv) as (A) to (D) and corrected in cl. (A) the final "cerdit" to read "credit"; redesignated, in subsec. (b)(4), cls. (i) to (iii) as cls. (A) to (C); and redesignated the second subsec. (b) and subsecs. (c) to (g) as (c) to (h), respectively.
 
 <b>1954</b>—Subsec. (f). Act June 30, 1954, added subsec. (f).
 
@@ -100,5 +100,5 @@ Amendment by Pub. L. 95–630 effective on expiration of 120 days after Nov. 10,
 
 #### Effective Date of 1968 Amendment
 
-Pub. L. 90–375, §2(b), July 5, 1968, 82 Stat. 285, provided that: “The amendments made by subsection (a) \[amending this section\] shall become effective July 1, 1968.”
+Pub. L. 90–375, §2(b), July 5, 1968, 82 Stat. 285, provided that: "The amendments made by subsection (a) \[amending this section\] shall become effective July 1, 1968."
 

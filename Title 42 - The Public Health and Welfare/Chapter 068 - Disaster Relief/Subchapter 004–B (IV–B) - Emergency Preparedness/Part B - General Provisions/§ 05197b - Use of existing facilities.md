@@ -16,7 +16,7 @@ Provisions similar to those in this section were contained in section 2257 of Ti
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–351 substituted “Administrator” for “Director” in introductory provisions and in par. (3).
+<b>2011</b>—Pub. L. 111–351 substituted "Administrator" for "Director" in introductory provisions and in par. (3).
 
 #### Transfer of Functions
 

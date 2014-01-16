@@ -4,7 +4,7 @@
 
 #### (1) Availability of remedies and procedures
 
-&emsp;The remedies and procedures set forth in section 2000a–3(a) of this title are the remedies and procedures this subchapter provides to any person who is being subjected to discrimination on the basis of disability in violation of this subchapter or who has reasonable grounds for believing that such person is about to be subjected to discrimination in violation of section 12183 of this title. Nothing in this section shall require a person with a disability to engage in a futile gesture if such person has actual notice that a person or organization covered by this subchapter does not intend to comply with its provisions.
+&emsp;The remedies and procedures set forth in section 2000a–3(a) of this title are the remedies and procedures this subchapter provides to any person who is being subjected to discrimination on the basis of disability in violation ofthis subchapter or who has reasonable grounds for believing that such person is about to be subjected to discrimination in violation of section 12183 of this title. Nothing in this section shall require a person with a disability to engage in a futile gesture if such person has actual notice that a person or organization covered by this subchapter does not intend to comply with its provisions.
 
 #### (2) Injunctive relief
 
@@ -60,7 +60,7 @@
 
 #### (4) Punitive damages
 
-&emsp;For purposes of subsection (b)(2)(B) of this section, the term “monetary damages” and “such other relief” does not include punitive damages.
+&emsp;For purposes of subsection (b)(2)(B) of this section, the term "monetary damages" and "such other relief" does not include punitive damages.
 
 #### (5) Judicial consideration
 
@@ -70,7 +70,7 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(1)(A)(ii), (5), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+This chapter, referred to in subsec. (b)(1)(A)(ii), (5), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### Effective Date
 
@@ -80,5 +80,5 @@ Section effective 18 months after July 26, 1990, see section 310(a) of Pub. L. 1
 
 For provisions directing that, except for any civil action brought for a violation of section 12183 of this title, no civil action shall be brought for any act or omission described in section 12182 of this title which occurs (1) during the first six months after the effective date of this subchapter, against businesses that employ 25 or fewer employees and have gross receipts of $1,000,000 or less, and (2) during the first year after the effective date, against businesses that employ 10 or fewer employees and have gross receipts of $500,000 or less, see section 310(b) of Pub. L. 101–336, set out as an Effective Date note under section 12181 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “section” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "section" probably should not appear.</i>
 

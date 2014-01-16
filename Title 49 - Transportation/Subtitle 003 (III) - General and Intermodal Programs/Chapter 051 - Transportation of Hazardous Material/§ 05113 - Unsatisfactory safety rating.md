@@ -34,17 +34,17 @@ Jan. 3, 1975, Pub. L. 93–633, 88 Stat. 2156, §117; added Nov. 3, 1990, Pub. L
 
 Nov. 3, 1990, Pub. L. 101–500, §15(b)(2), 104 Stat. 1219.
 
-In subsections (a) and (c), the words “individuals” is substituted for “passengers, including the driver” for clarity and consistency.
+In subsections (a) and (c), the words "individuals" is substituted for "passengers, including the driver" for clarity and consistency.
 
-In subsection (a), before clause (1), the words “Effective January 1, 1991” are omitted as obsolete. The words “to take such action as may be necessary ” are omitted as surplus.
+In subsection (a), before clause (1), the words "Effective January 1, 1991" are omitted as obsolete. The words "to take such action as may be necessary " are omitted as surplus.
 
-In subsection (b), the words “from the Secretary” and “conditions and other” are omitted as surplus.
+In subsection (b), the words "from the Secretary" and "conditions and other" are omitted as surplus.
 
-In subsection (d), the words “Not later than 1 year after the date of enactment of this Act” are omitted as obsolete.
+In subsection (d), the words "Not later than 1 year after the date of enactment of this Act" are omitted as obsolete.
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–59 amended text generally. Prior to amendment, text read as follows: “See section 31144.”
+<b>2005</b>—Pub. L. 109–59 amended text generally. Prior to amendment, text read as follows: "See section 31144."
 
-<b>1998</b>—Pub. L. 105–178 substituted “See section 31144.” for subsecs. (a) to (d) which related to unsatisfactory safety ratings.
+<b>1998</b>—Pub. L. 105–178 substituted "See section 31144." for subsecs. (a) to (d) which related to unsatisfactory safety ratings.
 

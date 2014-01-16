@@ -6,7 +6,7 @@ The Administrator of FEMA, acting through the Administrator, is authorized to ta
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–239 substituted “Administrator of FEMA” for “Director”.
+<b>2013</b>—Pub. L. 112–239 substituted "Administrator of FEMA" for "Director".
 
 #### Transfer of Functions
 

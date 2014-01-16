@@ -24,7 +24,7 @@
 
 #### (4) Feasibility report defined
 
-&emsp;In this subsection, the term “feasibility report” means each feasibility report, and any associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project. The term includes a project implementation report prepared under title VI of the Water Resources Development Act of 2000 (114 Stat. 2680–2694), a general reevaluation report, and a limited reevaluation report.
+&emsp;In this subsection, the term "feasibility report" means each feasibility report, and any associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project. The term includes a project implementation report prepared under title VI of the Water Resources Development Act of 2000 (114 Stat. 2680–2694), a general reevaluation report, and a limited reevaluation report.
 
 #### (b) Reconnaissance studies
 
@@ -68,7 +68,7 @@ The Water Resources Development Act of 2000, referred to in subsec. (a)(4), is P
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–114, §2043(b)(1), designated first sentence of existing provisions as par. (1) and inserted subsec. (a) and par. (1) headings, substituted “the Secretary that results in recommendations concerning a project or the operation of a project and that requires specific authorization by Congress in law or otherwise, the Secretary shall perform a reconnaissance study and” for “the Secretary, the Secretary shall” in par. (1), designated second and third sentences of existing provisions as par. (2) and inserted heading, substituted “A feasibility report” for “Such feasibility report” and “The feasibility report” in par. (2), added pars. (3) and (4), and struck out last sentence of existing provisions which read as follows: “This subsection shall not apply to (1) any study with respect to which a report has been submitted to Congress before November 17, 1986, (2) any study for a project, which project is authorized for construction by this Act and is not subject to section 903(b), (3) any study for a project which is authorized under any of the following sections: section 205 of the Flood Control Act of 1948 (33 U.S.C. 701s), section 2 of the Flood Control Act of August 28, 1946 (33 U.S.C. 701r), section 107 of the River and Harbor Act of 1960 (33 U.S.C. 577), section 3 of the Act entitled ‘An Act authorizing Federal participation in the cost of protecting the shores of publicly owned property’, approved August 13, 1946 (33 U.S.C. 426g), and section 111 of the River and Harbor Act of 1968 (33 U.S.C. 426i), and (4) general studies not intended to lead to recommendation of a specific water resources project.”
+<b>2007</b>—Subsec. (a). Pub. L. 110–114, §2043(b)(1), designated first sentence of existing provisions as par. (1) and inserted subsec. (a) and par. (1) headings, substituted "the Secretary that results in recommendations concerning a project or the operation of a project and that requires specific authorization by Congress in law or otherwise, the Secretary shall perform a reconnaissance study and" for "the Secretary, the Secretary shall" in par. (1), designated second and third sentences of existing provisions as par. (2) and inserted heading, substituted "A feasibility report" for "Such feasibility report" and "The feasibility report" in par. (2), added pars. (3) and (4), and struck out last sentence of existing provisions which read as follows: "This subsection shall not apply to (1) any study with respect to which a report has been submitted to Congress before November 17, 1986, (2) any study for a project, which project is authorized for construction by this Act and is not subject to section 903(b), (3) any study for a project which is authorized under any of the following sections: section 205 of the Flood Control Act of 1948 (33 U.S.C. 701s), section 2 of the Flood Control Act of August 28, 1946 (33 U.S.C. 701r), section 107 of the River and Harbor Act of 1960 (33 U.S.C. 577), section 3 of the Act entitled 'An Act authorizing Federal participation in the cost of protecting the shores of publicly owned property', approved August 13, 1946 (33 U.S.C. 426g), and section 111 of the River and Harbor Act of 1968 (33 U.S.C. 426i), and (4) general studies not intended to lead to recommendation of a specific water resources project."
 
 Subsec. (b). Pub. L. 110–114, §2043(b)(2)(A), inserted heading.
 
@@ -80,85 +80,85 @@ Subsecs. (c) to (f). Pub. L. 110–114, §2043(b)(2)(B)–(E), added subsec. (c)
 
 Pub. L. 106–541, title II, §216, Dec. 11, 2000, 114 Stat. 2595, provided that:
 
-“(a)
+"(a)
 
 Definitions.—In this section, the following definitions apply:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Academy.—The term ‘Academy’ means the National Academy of Sciences.
+Academy.—The term 'Academy' means the National Academy of Sciences.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Method.—The term ‘method’ means a method, model, assumption, or other pertinent planning tool used in conducting an economic or environmental analysis of a water resources project, including the formulation of a feasibility report.
+Method.—The term 'method' means a method, model, assumption, or other pertinent planning tool used in conducting an economic or environmental analysis of a water resources project, including the formulation of a feasibility report.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Feasibility report.—The term ‘feasibility report’ means each feasibility report, and each associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project.
+Feasibility report.—The term 'feasibility report' means each feasibility report, and each associated environmental impact statement and mitigation plan, prepared by the Corps of Engineers for a water resources project.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Water resources project.—The term ‘water resources project’ means a project for navigation, a project for flood control, a project for hurricane and storm damage reduction, a project for emergency streambank and shore protection, a project for ecosystem restoration and protection, and a water resources project of any other type carried out by the Corps of Engineers.
+Water resources project.—The term 'water resources project' means a project for navigation, a project for flood control, a project for hurricane and storm damage reduction, a project for emergency streambank and shore protection, a project for ecosystem restoration and protection, and a water resources project of any other type carried out by the Corps of Engineers.
 
-“(b)
+"(b)
 
 Independent Peer Review of Projects.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than 90 days after the date of enactment of this Act \[Dec. 11, 2000\], the Secretary \[of the Army\] shall contract with the Academy to study, and make recommendations relating to, the independent peer review of feasibility reports.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Study elements.—In carrying out a contract under paragraph (1), the Academy shall study the practicality and efficacy of the independent peer review of the feasibility reports, including—
 
-&emsp;&emsp;“(A) the cost, time requirements, and other considerations relating to the implementation of independent peer review; and
+&emsp;&emsp;"(A) the cost, time requirements, and other considerations relating to the implementation of independent peer review; and
 
-&emsp;&emsp;“(B) objective criteria that may be used to determine the most effective application of independent peer review to feasibility reports for each type of water resources project.
+&emsp;&emsp;"(B) objective criteria that may be used to determine the most effective application of independent peer review to feasibility reports for each type of water resources project.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Academy report.—Not later than 1 year after the date of a contract under paragraph (1), the Academy shall submit to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Environment and Public Works of the Senate a report that includes—
 
-&emsp;&emsp;“(A) the results of the study conducted under paragraphs (1) and (2); and
+&emsp;&emsp;"(A) the results of the study conducted under paragraphs (1) and (2); and
 
-&emsp;&emsp;“(B) in light of the results of the study, specific recommendations, if any, on a program for implementing independent peer review of feasibility reports.
+&emsp;&emsp;"(B) in light of the results of the study, specific recommendations, if any, on a program for implementing independent peer review of feasibility reports.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Authorization of appropriations.—There is authorized to be appropriated to carry out this subsection $1,000,000, to remain available until expended.
 
-“(c)
+"(c)
 
 Independent Peer Review of Methods for Project Analysis.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than 90 days after the date of enactment of this Act \[Dec. 11, 2000\], the Secretary \[of the Army\] shall contract with the Academy to conduct a study that includes—
 
-&emsp;&emsp;“(A) a review of state-of-the-art methods;
+&emsp;&emsp;"(A) a review of state-of-the-art methods;
 
-&emsp;&emsp;“(B) a review of the methods currently used by the Secretary;
+&emsp;&emsp;"(B) a review of the methods currently used by the Secretary;
 
-&emsp;&emsp;“(C) a review of a sample of instances in which the Secretary has applied the methods identified under subparagraph (B) in the analysis of each type of water resources project; and
+&emsp;&emsp;"(C) a review of a sample of instances in which the Secretary has applied the methods identified under subparagraph (B) in the analysis of each type of water resources project; and
 
-&emsp;&emsp;“(D) a comparative evaluation of the basis and validity of state-of-the-art methods identified under subparagraph (A) and the methods identified under subparagraphs (B) and (C).
+&emsp;&emsp;"(D) a comparative evaluation of the basis and validity of state-of-the-art methods identified under subparagraph (A) and the methods identified under subparagraphs (B) and (C).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Academy report.—Not later than 1 year after the date of a contract under paragraph (1), the Academy shall transmit to the Secretary, the Committee on Transportation and Infrastructure of the House of Representatives, and the Committee on Environment and Public Works of the Senate a report that includes—
 
-&emsp;&emsp;“(A) the results of the study conducted under paragraph (1); and
+&emsp;&emsp;"(A) the results of the study conducted under paragraph (1); and
 
-&emsp;&emsp;“(B) in light of the results of the study, specific recommendations for modifying any of the methods currently used by the Secretary for conducting economic and environmental analyses of water resources projects.
+&emsp;&emsp;"(B) in light of the results of the study, specific recommendations for modifying any of the methods currently used by the Secretary for conducting economic and environmental analyses of water resources projects.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Authorization of appropriations.—There is authorized to be appropriated to carry out this subsection $2,000,000. Such sums shall remain available until expended.”
+Authorization of appropriations.—There is authorized to be appropriated to carry out this subsection $2,000,000. Such sums shall remain available until expended."
 
 #### Engineering Consulting Services
 
-Pub. L. 106–541, title II, §219, Dec. 11, 2000, 114 Stat. 2596, provided that: “In conducting a feasibility study for a water resources project, the Secretary \[of the Army\], to the maximum extent practicable, should not employ a person for engineering and consulting services if the same person is also employed by the non-Federal interest for such services unless there is only 1 qualified and responsive bidder for such services.”
+Pub. L. 106–541, title II, §219, Dec. 11, 2000, 114 Stat. 2596, provided that: "In conducting a feasibility study for a water resources project, the Secretary \[of the Army\], to the maximum extent practicable, should not employ a person for engineering and consulting services if the same person is also employed by the non-Federal interest for such services unless there is only 1 qualified and responsive bidder for such services."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

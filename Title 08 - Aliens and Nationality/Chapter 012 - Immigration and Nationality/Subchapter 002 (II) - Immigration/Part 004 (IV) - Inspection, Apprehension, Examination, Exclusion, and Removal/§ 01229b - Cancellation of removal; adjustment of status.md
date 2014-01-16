@@ -28,7 +28,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 #### (A) Authority
 
-&emsp;&emsp;The Attorney General may cancel removal of, and adjust to the status of an alien lawfully admitted for permanent residence, an alien who is inadmissible or deportable from the United States if the alien demonstrates that—
+&emsp;&emsp;The Attorney General may cancel removal of, and adjust to the status of an alien lawfully admitted for permanent residence, analien who is inadmissible or deportable from the United States if the alien demonstrates that—
 
 &emsp;&emsp;&emsp;(i)(I) the alien has been battered or subjected to extreme cruelty by a spouse or parent who is or was a United States citizen (or is the parent of a child of a United States citizen and the child has been battered or subjected to extreme cruelty by such citizen parent);
 
@@ -90,7 +90,7 @@ The Attorney General may cancel removal in the case of an alien who is inadmissi
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of an alien granted continued presence who is 21 years of age or older, the spouse or child of the alien; or
 
-&emsp;&emsp;&emsp;(ii) is a parent or sibling of the alien who the requesting law enforcement official, inconsultation with the Secretary of Homeland Security, as appropriate, determines to be in present danger of retaliation as a result of the alien's escape from the severe form of trafficking or cooperation with law enforcement, irrespective of age.
+&emsp;&emsp;&emsp;(ii) is a parent or sibling of the alien who the requesting law enforcement official, in consultation with the Secretary of Homeland Security, as appropriate, determines to be in present danger of retaliation as a result of the alien's escape from the severe form of trafficking or cooperation with law enforcement, irrespective of age.
 
 #### (B) Duration of parole
 
@@ -144,7 +144,7 @@ The provisions of subsections (a) and (b)(1) of this section shall not apply to 
 
 #### (1) Termination of continuous period
 
-&emsp;For purposes of this section, any period of continuous residence or continuous physical presence in the United States shall be deemed to end (A) except in the case of an alien who applies for cancellation of removal under subsection (b)(2) of this section, when the alien is served a notice to appear under section 1229(a) of this title, or (B) when the alien has committed an offense referred to in section 1182(a)(2) of this title that renders the alien inadmissible to the United States under section 1182(a)(2) of this title or removable from the United States under section 1227(a)(2) or 1227(a)(4) of this title, whichever is earliest.
+&emsp;For purposes of this section, any period of continuous residence or continuous physicalpresence in the United States shall be deemed to end (A) except in the case of an alien who applies for cancellation of removal under subsection (b)(2) of this section, when the alien is served a notice to appear under section 1229(a) of this title, or (B) when the alien has committed an offense referred to in section 1182(a)(2) of this title that renders the alien inadmissible to the United States under section 1182(a)(2) of this title or removable from the United States under section 1227(a)(2) or 1227(a)(4) of this title, whichever is earliest.
 
 #### (2) Treatment of certain breaks in presence
 
@@ -162,7 +162,7 @@ The provisions of subsections (a) and (b)(1) of this section shall not apply to 
 
 #### (1) Aggregate limitation
 
-&emsp;Subject to paragraphs (2) and (3), the Attorney General may not cancel the removal and adjust the status under this section, nor suspend the deportation and adjust the status under section 1254(a) of this title (as in effectbefore September 30, 1996), of a total of more than 4,000 aliens in any fiscal year. The previous sentence shall apply regardless of when an alien applied for such cancellation and adjustment, or such suspension and adjustment, and whether such an alien had previously applied for suspension of deportation under such section 1254(a) of this title. The numerical limitation under this paragraph shall apply to the aggregate number of decisions in any fiscal year to cancel the removal (and adjust the status) of an alien, or suspend the deportation (and adjust the status) of an alien, under this section or such section 1254(a) of this title.
+&emsp;Subject to paragraphs (2) and (3), the Attorney General may not cancel the removal and adjust the status under this section, nor suspend the deportation and adjust the status under section 1254(a) of this title (as in effect before September 30, 1996), of a total of more than 4,000 aliens in any fiscal year. The previous sentence shall apply regardless of when an alien applied for such cancellation and adjustment, or such suspension and adjustment, and whether such an alien had previously applied for suspension of deportation under such section 1254(a) of this title. The numerical limitation under this paragraph shall apply to the aggregate number of decisions in any fiscal year to cancel the removal (and adjust the status) of an alien, or suspend the deportation (and adjust the status) of an alien, under this section or such section 1254(a) of this title.
 
 #### (2) Fiscal year 1997
 
@@ -206,7 +206,7 @@ Subsec. (b)(5). Pub. L. 109–162, §813(c)(1)(C), added par. (5).
 
 <b>2000</b>—Subsec. (b)(1)(C). Pub. L. 106–386, §1505(b)(2), inserted before semicolon “(except in a case described in section 1227(a)(7) of this title where the Attorney General exercises discretion to grant a waiver)”.
 
-Subsec. (b)(2). Pub. L. 106–386, §1504(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “(2) The Attorney General may cancel removal of, and adjust to the status of an alien lawfully admitted for permanent residence, an alien who is inadmissible or deportable from the United States if the alien demonstrates that—
+Subsec. (b)(2). Pub. L. 106–386, §1504(a), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “(2) The Attorney General may cancel removal of, and adjust to the status of an alienlawfully admitted for permanent residence, an alien who is inadmissible or deportable from the United States if the alien demonstrates that—
 
 &emsp;“(A) the alien has been battered or subjected to extreme cruelty in the United States by a spouse or parent who is a United States citizen or lawful permanent resident (or is the parent of a child of a United States citizen or lawful permanent resident and the child has been battered or subjected to extreme cruelty in the United States by such citizen or permanent resident parent);
 

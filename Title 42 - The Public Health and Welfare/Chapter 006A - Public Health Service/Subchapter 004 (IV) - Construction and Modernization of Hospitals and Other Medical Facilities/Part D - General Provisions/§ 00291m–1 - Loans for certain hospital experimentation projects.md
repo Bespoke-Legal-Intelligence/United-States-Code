@@ -16,7 +16,7 @@ Each such loan shall bear interest at the rate of 2½ per centum per annum on th
 
 There are hereby authorized to be appropriated $3,500,000 to carry out the provisions of this section.
 
-(July 1, 1944, ch. 373, title VI, §643A, formerly §623A, as added Pub. L. 90–174, §11, Dec. 5, 1967, 81 Stat. 541, and renumbered §643A, Pub. L. 91–296, title II, §201, June 30, 1970, 84 Stat. 344.)
+(July 1, 1944, ch. 373, title VI, §643A, formerly §623A, as added Pub. L. 90–174, §11, Dec. 5, 1967,81 Stat. 541, and renumbered §643A, Pub. L. 91–296, title II, §201, June 30, 1970, 84 Stat. 344.)
 
 #### References in Text
 

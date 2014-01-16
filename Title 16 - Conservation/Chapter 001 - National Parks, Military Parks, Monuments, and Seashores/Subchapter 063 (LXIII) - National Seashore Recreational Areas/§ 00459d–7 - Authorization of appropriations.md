@@ -10,5 +10,5 @@ Section 101(13) of Pub. L. 94–578, cited as a credit to this section, as amend
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–578 substituted “$5,350,000” for “$5,000,000”.
+<b>1976</b>—Pub. L. 94–578 substituted "$5,350,000" for "$5,000,000".
 

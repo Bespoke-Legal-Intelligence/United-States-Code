@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Manufacture, preparation, compounding, or processing
 
-&emsp;The term “manufacture, preparation, compounding, or processing” shall include repackaging or otherwise changing the container, wrapper, or labeling of any tobacco product package in furtherance of the distribution of the tobacco product from the original place of manufacture to the person who makes final delivery or sale to the ultimate consumer or user.
+&emsp;The term "manufacture, preparation, compounding, or processing" shall include repackaging or otherwise changing the container, wrapper, or labeling of any tobacco product package in furtherance of the distribution of the tobacco product from the original place of manufacture to the person who makes final delivery or sale to the ultimate consumer or user.
 
 #### (2) Name
 
-&emsp;The term “name” shall include in the case of a partnership the name of each partner and, in the case of a corporation, the name of each corporate officer and director, and the State of incorporation.
+&emsp;The term "name" shall include in the case of a partnership the name of each partner and, in the case of a corporation, the name of each corporate officer and director, and the State of incorporation.
 
 #### (b) Registration by owners and operators
 
-On or before December 31 of each year, every person who owns or operates any establishment in any State engaged in the manufacture, preparation, compounding, or processing of a tobacco product or tobacco products shall register with the Secretary the name, places of business, and all such establishments of that person. If enactment of the Family Smoking Prevention and Tobacco Control Act occurs in the second half of the calendar year, the Secretary shall designate a date no later than 6 months into the subsequent calendar year by which registration pursuant to this subsection shall occur.
+On or before December 31 of each year, every person who owns or operates any establishment in any State engaged in the manufacture, preparation, compounding, or processing of a tobacco product or tobacco products shall register with the Secretary the name, places of business, and all such establishments of that person. If enactment of the Family Smoking Prevention and Tobacco Control Act occurs in the second half of the calendar year, the Secretary shall designatea date no later than 6 months into the subsequent calendar year by which registration pursuant to this subsection shall occur.
 
 #### (c) Registration by new owners and operators
 
@@ -76,7 +76,7 @@ Any establishment within any foreign country engaged in the manufacture, prepara
 
 &emsp;&emsp;(A) the basis for such person's determination that—
 
-&emsp;&emsp;&emsp;(i) the tobacco product is substantially equivalent, within the meaning of section 387j of this title, to a tobacco product commercially marketed (other than for test marketing) in the United States as of February 15, 2007, or to a tobacco product that the Secretary has previously determined, pursuant to subsection (a)(3) of section 387j of this title, is substantially equivalentand that is in compliance with the requirements of this chapter; or
+&emsp;&emsp;&emsp;(i) the tobacco product is substantially equivalent, within the meaning of section 387j of this title, to a tobacco product commercially marketed (other than for test marketing) in the United States as of February 15, 2007, or to a tobacco product that the Secretary has previously determined, pursuant to subsection (a)(3) of section 387j of this title, is substantially equivalent and that is in compliance with the requirements of this chapter; or
 
 &emsp;&emsp;&emsp;(ii) the tobacco product is modified within the meaning of paragraph (3), the modifications are to a product that is commercially marketed and in compliance with the requirements of this chapter, and all of the modifications are covered by exemptions granted by the Secretary pursuant to paragraph (3); and
 

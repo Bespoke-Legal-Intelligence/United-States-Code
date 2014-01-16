@@ -32,7 +32,7 @@
 
 (b)(1) The Commission, in the guidelines promulgated pursuant to subsection (a)(1), shall, for each category of offense involving each category of defendant, establish a sentencing range that is consistent with all pertinent provisions of title 18, United States Code.
 
-(2) If a sentence specified by the guidelines includes a term of imprisonment, the maximum ofthe range established for such a term shall not exceed the minimum of that range by more than the greater of 25 percent or 6 months, except that, if the minimum term of the range is 30 years or more, the maximum may be life imprisonment.
+(2) If a sentence specified by the guidelines includes a term of imprisonment, the maximum of the range established for such a term shall not exceed the minimum of that range by more than the greater of 25 percent or 6 months, except that, if the minimum term of the range is 30 years or more, the maximum may be life imprisonment.
 
 (c) The Commission, in establishing categories of offenses for use in the guidelines and policy statements governing the imposition of sentences of probation, a fine, or imprisonment, governing the imposition of other authorized sanctions, governing the size of a fine or the length of a term of probation, imprisonment, or supervised release, and governing the conditions of probation, supervised release, or imprisonment, shall consider whether the following matters, among others, have any relevance to the nature, extent, place of service, or other incidents <sup>2</sup> of an appropriate sentence, and shall take them into account only to the extent that they do have relevance—
 
@@ -126,7 +126,7 @@
 
 (n) The Commission shall assure that the guidelines reflect the general appropriateness of imposing a lower sentence than would otherwise be imposed, including a sentence that is lower than that established by statute as a minimum sentence, to take into account a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense.
 
-(o) The Commission periodically shall review and revise, in consideration of comments and data coming to its attention, the guidelines promulgated pursuant to the provisions of this section. In fulfilling its duties and in exercising its powers, the Commission shall consult with authorities on, and individual and institutional representatives of, various aspects of the Federal criminal justice system. The United States Probation System, the Bureau of Prisons, the Judicial Conference of the United States, the Criminal Division of the United States Department of Justice, and a representative of the Federal Public Defenders shall submit to the Commission any observations, comments, or questions pertinent to the work of the Commission whenever they believe such communication would be useful, and shall, at least annually, submit to the Commission a written report commenting on the operation of the Commission's guidelines, suggesting changes in the guidelines that appear to be warranted, and otherwise assessing the Commission's work.
+(o) The Commission periodically shall review and revise, in consideration of comments and data coming to its attention, the guidelines promulgated pursuant to the provisions of this section. In fulfilling its duties and in exercising its powers, the Commission shall consult with authorities on, and individual and institutional representatives of, various aspects of the Federal criminal justice system. The United States Probation System, the Bureau of Prisons, the Judicial Conference of the United States, the Criminal Division of the United States Department of Justice, and a representative of the Federal Public Defenders shall submit to the Commission any observations, comments, or questions pertinent to the work of the Commissionwhenever they believe such communication would be useful, and shall, at least annually, submit to the Commission a written report commenting on the operation of the Commission's guidelines, suggesting changes in the guidelines that appear to be warranted, and otherwise assessing the Commission's work.
 
 (p) The Commission, at or after the beginning of a regular session of Congress, but not later than the first day of May, may promulgate under subsection (a) of this section and submit to Congress amendments to the guidelines and modifications to previously submitted amendments that have not taken effect, including modifications to the effective dates of such amendments. Such an amendment or modification shall be accompanied by a statement of the reasons therefor and shall take effect on a date specified by the Commission, which shall be no earlier than 180 days after being so submitted and no later than the first day of November of the calendar year in which the amendment or modification is submitted, except to the extent that the effective date is revised or the amendment is otherwise modified or disapproved by Act of Congress.
 
@@ -138,7 +138,7 @@
 
 &emsp;(3) use of existing Federal facilities, such as those currently within military jurisdiction.
 
-(r) The Commission, not later than two years after the initial set of sentencing guidelines promulgated under subsection (a) goes into effect, and thereafter whenever it finds it advisable,shall recommend to the Congress that it raise or lower the grades, or otherwise modify the maximum penalties, of those offenses for which such an adjustment appears appropriate.
+(r) The Commission, not later than two years after the initial set of sentencing guidelines promulgated under subsection (a) goes into effect, and thereafter whenever it finds it advisable, shall recommend to the Congress that it raise or lower the grades, or otherwise modify the maximum penalties, of those offenses for which such an adjustment appears appropriate.
 
 (s) The Commission shall give due consideration to any petition filed by a defendant requesting modification of the guidelines utilized in the sentencing of such defendant, on the basis of changed circumstances unrelated to the defendant, including changes in—
 
@@ -190,61 +190,61 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (a)(2)(E), are s
 
 #### Amendments
 
-<b>2006</b>—Subsec. (h)(1)(B), (2)(B). Pub. L. 109–304 substituted “chapter 705 of title 46” for “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)”.
+<b>2006</b>—Subsec. (h)(1)(B), (2)(B). Pub. L. 109–304 substituted "chapter 705 of title 46" for "the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)".
 
-Subsec. (w)(1). Pub. L. 109–177, §735(1)(A), (C), inserted “, in a format approved and required by the Commission,” after “submits to the Commission” in introductory provisions and inserted concluding provisions.
+Subsec. (w)(1). Pub. L. 109–177, §735(1)(A), (C), inserted ", in a format approved and required by the Commission," after "submits to the Commission" in introductory provisions and inserted concluding provisions.
 
-Subsec. (w)(1)(B). Pub. L. 109–177, §735(1)(B), inserted “written” before “statement of reasons for the sentence imposed” and “and which shall be stated on the written statement of reasons form issued by the Judicial Conference and approved by the United States Sentencing Commission” after “applicable guideline range”.
+Subsec. (w)(1)(B). Pub. L. 109–177, §735(1)(B), inserted "written" before "statement of reasons for the sentence imposed" and "and which shall be stated on the written statement of reasons form issued by the Judicial Conference and approved by the United States Sentencing Commission" after "applicable guideline range".
 
-Subsec. (w)(4). Pub. L. 109–177, §735(2), substituted “itself may assemble or maintain in electronic form as a result of the” for “may assemble or maintain in electronic form that include any”.
+Subsec. (w)(4). Pub. L. 109–177, §735(2), substituted "itself may assemble or maintain in electronic form as a result of the" for "may assemble or maintain in electronic form that include any".
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–21, §401(k), substituted “consistent with all pertinent provisions of any Federal statute” for “consistent with all pertinent provisions of this title and title 18, United States Code,”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–21, §401(k), substituted "consistent with all pertinent provisions of any Federal statute" for "consistent with all pertinent provisions of this title and title 18, United States Code,".
 
-Subsec. (w). Pub. L. 108–21, §401(h), amended subsec. (w) generally. Prior to amendment, subsec. (w) read as follows: “The appropriate judge or officer shall submit to the Commission in connection with each sentence imposed (other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline) a written report of the sentence, the offense for which it is imposed, the age, race, and sex of the offender, information regarding factors made relevant by the guidelines, and such other information as the Commission finds appropriate. The Commission shall submit to Congress at least annually an analysis of these reports and any recommendations for legislation that the Commission concludes is warranted by that analysis.”
+Subsec. (w). Pub. L. 108–21, §401(h), amended subsec. (w) generally. Prior to amendment, subsec. (w) read as follows: "The appropriate judge or officer shall submit to the Commission in connection with each sentence imposed (other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline) a written report of the sentence, the offense for which it is imposed, the age, race, and sex of the offender, information regarding factors made relevant by the guidelines, and such other information as the Commission finds appropriate. The Commission shall submit to Congress at least annually an analysis of these reports and any recommendations for legislation that the Commission concludes is warranted by that analysis."
 
-<b>1994</b>—Subsec. (h)(1)(B), (2)(B). Pub. L. 103–322, §330003(f)(1), substituted “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)” for “section 1 of the Act of September 15, 1980 (21 U.S.C. 955a)”.
+<b>1994</b>—Subsec. (h)(1)(B), (2)(B). Pub. L. 103–322, §330003(f)(1), substituted "the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)" for "section 1 of the Act of September 15, 1980 (21 U.S.C. 955a)".
 
-Subsec. (i)(2). Pub. L. 103–322, §280005(c)(4), substituted “the defendant” for “he” and “the defendant's” for “his”.
+Subsec. (i)(2). Pub. L. 103–322, §280005(c)(4), substituted "the defendant" for "he" and "the defendant's" for "his".
 
 Subsec. (y). Pub. L. 103–322, §20403(b), added subsec. (y).
 
 <b>1988</b>—Subsec. (a)(1)(E). Pub. L. 100–690, §7103(b), added subpar. (E).
 
-Subsec. (n). Pub. L. 100–690, §7083, substituted “as a minimum sentence” for “as minimum sentence”.
+Subsec. (n). Pub. L. 100–690, §7083, substituted "as a minimum sentence" for "as minimum sentence".
 
-Subsec. (p). Pub. L. 100–690, §7109, amended subsec. (p) generally. Prior to amendment, subsec. (p) read as follows: “The Commission, at or after the beginning of a regular session of Congress but not later than the first day of May, shall report to the Congress any amendments of the guidelines promulgated pursuant to subsection (a)(1), and a report of the reasons therefor, and the amended guidelines shall take effect one hundred and eighty days after the Commission reports them, except to the extent the effective date is enlarged or the guidelines are disapproved or modified by Act of Congress.”
+Subsec. (p). Pub. L. 100–690, §7109, amended subsec. (p) generally. Prior to amendment, subsec. (p) read as follows: "The Commission, at or after the beginning of a regular session of Congress but not later than the first day of May, shall report to the Congress any amendments of the guidelines promulgated pursuant to subsection (a)(1), and a report of the reasons therefor, and the amended guidelines shall take effect one hundred and eighty days after the Commission reports them, except to the extent the effective date is enlarged or the guidelines are disapproved or modified by Act of Congress."
 
-<b>1987</b>—Subsec. (r). Pub. L. 100–182, §23(a), substituted “two years” for “one year”.
+<b>1987</b>—Subsec. (r). Pub. L. 100–182, §23(a), substituted "two years" for "one year".
 
-Subsec. (s). Pub. L. 100–182, §23(b), struck out at end: “Within one hundred and eighty days of the filing of such petition the Commission shall provide written notice to the defendant whether or not it has approved the petition. If the petition is disapproved the written notice shall contain the reasons for such disapproval. The Commission shall submit to the Congress at least annually an analysis of such written notices.”
+Subsec. (s). Pub. L. 100–182, §23(b), struck out at end: "Within one hundred and eighty days of the filing of such petition the Commission shall provide written notice to the defendant whether or not it has approved the petition. If the petition is disapproved the written notice shall contain the reasons for such disapproval. The Commission shall submit to the Congress at least annually an analysis of such written notices."
 
-Subsec. (w). Pub. L. 100–182, §16(b), inserted “(other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline)” after “each sentence imposed”.
+Subsec. (w). Pub. L. 100–182, §16(b), inserted "(other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline)" after "each sentence imposed".
 
-<b>1986</b>—Subsec. (a)(2)(C). Pub. L. 99–363, §2(1)(B), amended subpar. (C) generally, inserting “3564,” after “3563(c),”.
+<b>1986</b>—Subsec. (a)(2)(C). Pub. L. 99–363, §2(1)(B), amended subpar. (C) generally, inserting "3564," after "3563(c),".
 
 Subsec. (a)(2)(D) to (F). Pub. L. 99–363, §2(1)(A), (C), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
-Subsec. (a)(3). Pub. L. 99–570, §1006(b), inserted “and revocation of supervised release” after “supervised release”.
+Subsec. (a)(3). Pub. L. 99–570, §1006(b), inserted "and revocation of supervised release" after "supervised release".
 
-Pub. L. 99–363, §2(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “guidelines or general policy statements regarding the appropriate use of the probation revocation provisions set forth in section 3565 of title 18, and the provisions for modification of the term or conditions of probation or supervised release set forth in sections 3563(c), 3564(d), and 3583(e) of title 18.”
+Pub. L. 99–363, §2(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "guidelines or general policy statements regarding the appropriate use of the probation revocation provisions set forth in section 3565 of title 18, and the provisions for modification of the term or conditions of probation or supervised release set forth in sections 3563(c), 3564(d), and 3583(e) of title 18."
 
-Subsec. (b). Pub. L. 99–363, §2(3), designated existing provisions as pars. (1) and (2), and in par. (2) substituted “the greater of 25 percent or 6 months, except that, if the maximum term of the range is 30 years or more, the maximum may be life imprisonment” for “25 per centum”.
+Subsec. (b). Pub. L. 99–363, §2(3), designated existing provisions as pars. (1) and (2), and in par. (2) substituted "the greater of 25 percent or 6 months, except that, if the maximum term of the range is 30 years or more, the maximum may be life imprisonment" for "25 per centum".
 
-Subsec. (b)(2). Pub. L. 99–646, §56, substituted “that, if the minimum” for “that, if the maximum”.
+Subsec. (b)(2). Pub. L. 99–646, §56, substituted "that, if the minimum" for "that, if the maximum".
 
-Subsec. (h). Pub. L. 99–646, §6(b)(1), (2), substituted “guidelines specify” for “guidelines will specify” and struck out “by section 3581(b) of title 18, United States Code,” after “term authorized” in introductory text.
+Subsec. (h). Pub. L. 99–646, §6(b)(1), (2), substituted "guidelines specify" for "guidelines will specify" and struck out "by section 3581(b) of title 18, United States Code," after "term authorized" in introductory text.
 
-Subsec. (i). Pub. L. 99–646, §6(b)(2), substituted “guidelines specify” for “guidelines will specify”.
+Subsec. (i). Pub. L. 99–646, §6(b)(2), substituted "guidelines specify" for "guidelines will specify".
 
 Subsecs. (n) to (t). Pub. L. 99–570, §1008(1), (2), added subsec. (n) and redesignated former subsecs. (n) to (t) as (o) to (u), respectively.
 
-Subsec. (u). Pub. L. 99–646, §6(b)(3), which directed that subsec. (t) be amended by inserting “in what circumstances and” after “specify” and striking out “that are outside the applicable guideline ranges” after “terms of imprisonment”, was executed to subsec. (u) to reflect the probable intent of Congress and the intervening redesignation of subsec. (t) as (u) by Pub. L. 99–570.
+Subsec. (u). Pub. L. 99–646, §6(b)(3), which directed that subsec. (t) be amended by inserting "in what circumstances and" after "specify" and striking out "that are outside the applicable guideline ranges" after "terms of imprisonment", was executed to subsec. (u) to reflect the probable intent of Congress and the intervening redesignation of subsec. (t) as (u) by Pub. L. 99–570.
 
 Pub. L. 99–570, §1008(2), redesignated subsec. (t) as (u).
 
 Subsecs. (v) to (x). Pub. L. 99–570, §1008(2), redesignated former subsecs. (u) to (w) as (v) to (x), respectively.
 
-<b>1985</b>—Subsec. (q). Pub. L. 99–217 substituted “not later than one year after the initial set of sentencing guidelines promulgated under subsection (a) goes into effect” for “within three years of the date of enactment of the Sentencing Reform Act of 1983”.
+<b>1985</b>—Subsec. (q). Pub. L. 99–217 substituted "not later than one year after the initial set of sentencing guidelines promulgated under subsection (a) goes into effect" for "within three years of the date of enactment of the Sentencing Reform Act of 1983".
 
 #### Effective Date of 1987 Amendment
 
@@ -278,7 +278,7 @@ Pub. L. 110–425, §3(k)(2), Oct. 15, 2008, 122 Stat. 4833.—Offenses involvin
 
 Pub. L. 110–407, title I, §103, Oct. 13, 2008, 122 Stat. 4298.—Operating or embarking in a submersible or semi-submersible vessel without nationality.
 
-Pub. L. 110–384, Oct. 10, 2008, 122 Stat. 4094.—Desecration or theft of veterans’ grave markers.
+Pub. L. 110–384, Oct. 10, 2008, 122 Stat. 4094.—Desecration or theft of veterans' grave markers.
 
 Pub. L. 110–326, title II, §209, Sept. 26, 2008, 122 Stat. 3564.—Identity theft, computer fraud, illegal wiretapping, and unlawful access to stored information.
 
@@ -404,7 +404,7 @@ Pub. L. 103–322, title IV, §40503(c), Sept. 13, 1994, 108 Stat. 1947.—Inten
 
 Pub. L. 103–322, title VIII, §80001(b), Sept. 13, 1994, 108 Stat. 1986.—Importing, exporting, possessing, manufacturing, and distributing a controlled substance.
 
-Pub. L. 103–322, title IX, §90102, Sept. 13, 1994, 108 Stat. 1987.—Drug-dealing in “drug-free” zones.
+Pub. L. 103–322, title IX, §90102, Sept. 13, 1994, 108 Stat. 1987.—Drug-dealing in "drug-free" zones.
 
 Pub. L. 103–322, title IX, §90103(b), Sept. 13, 1994, 108 Stat. 1987.—Use or distribution of illegal drugs in the Federal prisons.
 
@@ -456,21 +456,21 @@ Pub. L. 104–38, Oct. 30, 1995, 109 Stat. 334, disapproved of certain amendment
 
 Section 21 of Pub. L. 100–182 provided that:
 
-“(a)
+"(a)
 
 In General.—In the case of—
 
-&emsp;“(1) an invalidated sentencing guideline;
+&emsp;"(1) an invalidated sentencing guideline;
 
-&emsp;“(2) the creation of a new offense or amendment of an existing offense; or
+&emsp;"(2) the creation of a new offense or amendment of an existing offense; or
 
-&emsp;“(3) any other reason relating to the application of a previously established sentencing guideline, and determined by the United States Sentencing Commission to be urgent and compelling;
+&emsp;"(3) any other reason relating to the application of a previously established sentencing guideline, and determined by the United States Sentencing Commission to be urgent and compelling;
 
-> the Commission, by affirmative vote of at least four members of the Commission, and pursuant to its rules and regulations and consistent with all pertinent provisions of title 28 and title 18, United States Code, shall promulgate and distribute to all courts of the United States and to the United States Probation System a temporary guideline or amendment to an existing guideline, to remain in effect until and during the pendency of the next report to Congress under section 994(p) of title 28, United States Code.
+> the Commission, by affirmative vote of at least four members of the Commission, and pursuant to its rules and regulations and consistent with all pertinent provisions of title 28 and title 18, United States Code, shall promulgate and distribute to all courts of the United States and to the United States Probation System a temporary guideline or amendment to an existing guideline, to remain in effect until and during thependency of the next report to Congress under section 994(p) of title 28, United States Code.
 
-“(b)
+"(b)
 
-Expiration of Authority.—The authority of the Commission under paragraphs (1) and (2) of subsection (a) shall expire on November 1, 1989. The authority of the Commission to promulgate and distribute guidelines under paragraph (3) of subsection (a) shall expire on May 1, 1988.”
+Expiration of Authority.—The authority of the Commission under paragraphs (1) and (2) of subsection (a) shall expire on November 1, 1989. The authority of the Commission to promulgate and distribute guidelines under paragraph (3) of subsection (a) shall expire on May 1, 1988."
 
 #### Submission to Congress of Initial Sentencing Guidelines
 
@@ -486,5 +486,5 @@ Pub. L. 98–473, title II, §236, Oct. 12, 1984, 98 Stat. 2033, provided that, 
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “incidence”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "incidence".</i>
 

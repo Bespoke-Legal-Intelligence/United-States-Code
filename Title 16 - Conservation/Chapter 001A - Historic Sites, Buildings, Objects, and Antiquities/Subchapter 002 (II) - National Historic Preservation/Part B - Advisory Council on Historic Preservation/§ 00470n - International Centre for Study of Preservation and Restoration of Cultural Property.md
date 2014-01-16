@@ -6,7 +6,7 @@ The participation of the United States as a member in the International Centre f
 
 #### (b) Official delegation
 
-The Council shall recommend to the Secretary of State, after consultation with the Smithsonian Institution and other public and private organizations concerned with the technical problems of preservation, the members of the official delegation which will participate in the activities of the Centre on behalf of the United States. The Secretary of State shall appoint themembers of the official delegation from the persons recommended to him by the Council.
+The Council shall recommend to the Secretary of State, after consultation with the Smithsonian Institution and other public and private organizations concerned with the technical problems of preservation, the members of the official delegation which will participate in the activities of the Centre on behalf of the United States. The Secretary of State shall appoint the members of the official delegation from the persons recommended to him by the Council.
 
 #### (c) Authorization of appropriations and payments
 
@@ -18,9 +18,9 @@ For the purposes of this section there is authorized to be appropriated an amoun
 
 <b>2000</b>—Subsec. (c). Pub. L. 106–208, made technical correction to directory language of Pub. L. 96–199. See 1980 Amendment note below.
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–199, as amended by Pub. L. 106–208, substituted “there is authorized to be appropriated an amount equal to the assessment for United States membership in the Centre for fiscal years 1979, 1980, 1981, and 1982” for “there are authorized to be appropriated not more than $175,000 per year for fiscal years 1977, 1978, and 1979” in the existing provisions and inserted provision that the authorization for the payment of assessments should begin in fiscal year 1981 but should include earlier costs.
+<b>1980</b>—Subsec. (c). Pub. L. 96–199, as amended by Pub. L. 106–208, substituted "there is authorized to be appropriated an amount equal to the assessment for United States membership in the Centre for fiscal years 1979, 1980, 1981, and 1982" for "there are authorized to be appropriated not more than $175,000 per year for fiscal years 1977, 1978, and 1979" in the existing provisions and inserted provision that the authorization for the payment of assessments should begin in fiscal year 1981 but should include earlier costs.
 
-<b>1976</b>—Subsec. (c). Pub. L. 94–422 substituted provisions authorizing appropriations of not more than $175,000 per year for fiscal years 1977, 1978, and 1979 for provisions authorizing appropriations of not more than $100,000 in fiscal year 1974, $100,000 in fiscal year 1975, and $125,000 in fiscal year 1976 and struck out “effective January 1, 1974,” after “<i>Provided</i>, That”.
+<b>1976</b>—Subsec. (c). Pub. L. 94–422 substituted provisions authorizing appropriations of not more than $175,000 per year for fiscal years 1977, 1978, and 1979 for provisions authorizing appropriations of not more than $100,000 in fiscal year 1974, $100,000 in fiscal year 1975, and $125,000 in fiscal year 1976 and struck out "effective January 1, 1974," after "<i>Provided</i>, That".
 
 <b>1973</b>—Subsec. (c). Pub. L. 93–54 added subsec. (c) and repealed former subsec. (c) authorizing appropriation of $100,000 annually for fiscal years 1971 through 1973.
 

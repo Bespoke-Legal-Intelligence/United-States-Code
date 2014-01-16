@@ -54,7 +54,7 @@ Requirements.—The training program shall provide validated training that—
 
 &emsp;(8) addresses security requirements under facility security plans;
 
-&emsp;(9) addresses requirements under the International Code for the Security of Ships and Port Facilities to address shore leave for mariners and access to visitors, representatives of seafarers’ welfare organizations, and labor organizations; and
+&emsp;(9) addresses requirements under the International Code for the Security of Ships and Port Facilities to address shore leave for mariners and access to visitors, representatives of seafarers' welfare organizations, and labor organizations; and
 
 &emsp;(10) such other subject matters as may be prescribed by the Secretary.
 

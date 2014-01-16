@@ -16,7 +16,7 @@
 
 #### (b) Definition of eligible partnership
 
-In this section, the term “eligible partnership” means a partnership that—
+In this section, the term "eligible partnership" means a partnership that—
 
 &emsp;(1) shall include—
 

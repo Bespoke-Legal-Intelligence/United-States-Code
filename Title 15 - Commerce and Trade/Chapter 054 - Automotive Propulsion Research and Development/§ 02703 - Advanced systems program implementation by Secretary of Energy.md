@@ -2,7 +2,7 @@
 
 #### (a) Establishment and conduct of program
 
-The Secretary of Energy shall establish, within the Department of Energy, a program to insure the development of advanced automobile propulsion systems within 5 years after February 25, 1978, or within the shortest practicable time, consistent with appropriate research and development technique. In conducting such program, the Secretary of Energy shall—
+The Secretary of Energy shall establish, within the Department of Energy, a program to insure the development of advanced automobile propulsion systems within 5 years after February 25, 1978, or within the shortest practicable time, consistent with appropriate research anddevelopment technique. In conducting such program, the Secretary of Energy shall—
 
 &emsp;(1) establish and conduct new projects and accelerate existing projects which may contribute to the development of advanced automobile propulsion systems;
 
@@ -54,5 +54,5 @@ This Act, referred to in subsec. (f), is Pub. L. 95–238, Feb. 25, 1978, 92 Sta
 
 #### Amendments
 
-<b>1994</b>—Subsec. (f)(3). Pub. L. 103–437 substituted “Committee on Science, Space, and Technology” for “Committee on Science and Technology”.
+<b>1994</b>—Subsec. (f)(3). Pub. L. 103–437 substituted "Committee on Science, Space, and Technology" for "Committee on Science and Technology".
 

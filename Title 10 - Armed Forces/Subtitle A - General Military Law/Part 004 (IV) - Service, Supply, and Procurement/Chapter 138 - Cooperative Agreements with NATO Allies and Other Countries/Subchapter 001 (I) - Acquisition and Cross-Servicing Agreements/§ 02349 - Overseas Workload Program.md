@@ -18,7 +18,7 @@ Exceptions.—The Secretary of a military department may restrict the geographic
 
 (d)
 
-Definition.—In this section, the term “major non-NATO ally” has the meaning given that term in section 2350a(i)(2) of this title.
+Definition.—In this section, the term "major non-NATO ally" has the meaning given that term in section 2350a(i)(2) of this title.
 
 (Added Pub. L. 103–160, div. A, title XIV, §1431(a)(1), Nov. 30, 1993, 107 Stat. 1832; amended Pub. L. 108–375, div. A, title X, §1084(d)(18), Oct. 28, 2004, 118 Stat. 2062.)
 
@@ -38,5 +38,5 @@ Pub. L. 100–180, div. A, title X, §1021, Dec. 4, 1987, 101 Stat. 1143.
 
 #### Amendments
 
-<b>2004</b>—Subsec. (d). Pub. L. 108–375 substituted “section 2350a(i)(2)” for “section 2350a(i)(3)”.
+<b>2004</b>—Subsec. (d). Pub. L. 108–375 substituted "section 2350a(i)(2)" for "section 2350a(i)(3)".
 

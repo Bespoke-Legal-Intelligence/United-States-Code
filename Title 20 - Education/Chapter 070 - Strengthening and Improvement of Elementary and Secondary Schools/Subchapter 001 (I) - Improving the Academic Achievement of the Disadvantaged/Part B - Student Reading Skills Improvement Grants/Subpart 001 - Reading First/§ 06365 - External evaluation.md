@@ -28,7 +28,7 @@ The evaluation under subsection (a) of this section shall include the following:
 
 &emsp;(8) A measurement of how well students preparing to enter the teaching profession are prepared to teach the essential components of reading instruction.
 
-&emsp;(9) An analysis of changes in students’ interest in reading and time spent reading outside of school.
+&emsp;(9) An analysis of changes in students' interest in reading and time spent reading outside of school.
 
 &emsp;(10) Any other analysis or measurement pertinent to this subpart that is determined to be appropriate by the Secretary.
 

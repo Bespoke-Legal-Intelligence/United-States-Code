@@ -6,7 +6,7 @@ For purposes of this subchapter only:
 
 #### (1) Hazard
 
-&emsp;The term “hazard” means an emergency or disaster resulting from—
+&emsp;The term "hazard" means an emergency or disaster resulting from—
 
 &emsp;&emsp;(A) a natural disaster; or
 
@@ -14,11 +14,11 @@ For purposes of this subchapter only:
 
 #### (2) Natural disaster
 
-&emsp;The term “natural disaster” means any hurricane, tornado, storm, flood, high water, wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, or other catastrophe in any part of the United States which causes, or which may cause, substantial damage or injury to civilian property or persons.
+&emsp;The term "natural disaster" means any hurricane, tornado, storm, flood, high water,wind-driven water, tidal wave, tsunami, earthquake, volcanic eruption, landslide, mudslide, snowstorm, drought, fire, or other catastrophe in any part of the United States which causes, or which may cause, substantial damage or injury to civilian property or persons.
 
 #### (3) Emergency preparedness
 
-&emsp;The term “emergency preparedness” means all those activities and measures designed or undertaken to prepare for or minimize the effects of a hazard upon the civilian population, to deal with the immediate emergency conditions which would be created by the hazard, and to effectuate emergency repairs to, or the emergency restoration of, vital utilities and facilities destroyed or damaged by the hazard. Such term includes the following:
+&emsp;The term "emergency preparedness" means all those activities and measures designed or undertaken to prepare for or minimize the effects of a hazard upon the civilian population, to deal with the immediate emergency conditions which would be created by the hazard, and to effectuate emergency repairs to, or the emergency restoration of, vital utilities and facilities destroyed or damaged by the hazard. Such term includes the following:
 
 &emsp;&emsp;(A) Measures to be undertaken in preparation for anticipated hazards (including the establishment of appropriate organizations, operational plans, and supporting agreements, the recruitment and training of personnel, the conduct of research, the procurement and stockpiling of necessary materials and supplies, the provision of suitable warning systems, the construction or preparation of shelters, shelter areas, and control centers, and, when appropriate, the non-military evacuation of the civilian population).
 
@@ -28,35 +28,35 @@ For purposes of this subchapter only:
 
 #### (4) Organizational equipment
 
-&emsp;The term “organizational equipment” means equipment determined by the Administrator to be necessary to an emergency preparedness organization, as distinguished from personal equipment, and of such a type or nature as to require it to be financed in whole or in part by the Federal Government. Such term does not include those items which the local community normally uses in combating local disasters, except when required in unusual quantities dictated by the requirements of the emergency preparedness plans.
+&emsp;The term "organizational equipment" means equipment determined by the Administrator to be necessary to an emergency preparedness organization, as distinguished from personal equipment, and of such a type or nature as to require it to be financed in whole or in part by the Federal Government. Such term does not include those items which the local community normally uses in combating local disasters, except when required in unusual quantities dictated by the requirements of the emergency preparedness plans.
 
 #### (5) Materials
 
-&emsp;The term “materials” includes raw materials, supplies, medicines, equipment, component parts and technical information and processes necessary for emergency preparedness.
+&emsp;The term "materials" includes raw materials, supplies, medicines, equipment, component parts and technical information and processes necessary for emergency preparedness.
 
 #### (6) Facilities
 
-&emsp;The term “facilities”, except as otherwise provided in this subchapter, includes buildings, shelters, utilities, and land.
+&emsp;The term "facilities", except as otherwise provided in this subchapter, includes buildings, shelters, utilities, and land.
 
 #### (7) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Federal Emergency Management Agency.
+&emsp;The term "Administrator" means the Administrator of the Federal Emergency Management Agency.
 
 #### (8) Neighboring countries
 
-&emsp;The term “neighboring countries” includes Canada and Mexico.
+&emsp;The term "neighboring countries" includes Canada and Mexico.
 
 #### (9) United States and States
 
-&emsp;The terms “United States” and “States” includes <sup>1</sup> the several States, the District of Columbia, and territories and possessions of the United States.
+&emsp;The terms "United States" and "States" includes <sup>1</sup> the several States, the District of Columbia, and territories and possessions of the United States.
 
 #### (10) State
 
-&emsp;The term “State” includes interstate emergency preparedness authorities established under section 5196(h) of this title.
+&emsp;The term "State" includes interstate emergency preparedness authorities established under section 5196(h) of this title.
 
 #### (b) Cross reference
 
-The terms “national defense” and “defense”, as used in the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.), includes <sup>1</sup> emergency preparedness activities conducted pursuant to this subchapter.
+The terms "national defense" and "defense", as used in the Defense Production Act of 1950 (50 U.S.C. App. 2061 et seq.), includes <sup>1</sup> emergency preparedness activities conducted pursuant to this subchapter.
 
 (Pub. L. 93–288, title VI, §602, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3101; amended Pub. L. 111–351, §3(c), Jan. 4, 2011, 124 Stat. 3864.)
 
@@ -70,9 +70,9 @@ Provisions similar to those in this section were contained in sections 2252 and 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(4). Pub. L. 111–351, §3(c)(2), substituted “Administrator” for “Director”.
+<b>2011</b>—Subsec. (a)(4). Pub. L. 111–351, §3(c)(2), substituted "Administrator" for "Director".
 
-Subsec. (a)(7). Pub. L. 111–351, §3(c)(1), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: “The term ‘Director’ means the Director of the Federal Emergency Management Agency.”
+Subsec. (a)(7). Pub. L. 111–351, §3(c)(1), added par. (7) and struck out former par. (7). Prior to amendment, text read as follows: "The term 'Director' means the Director of the Federal Emergency Management Agency."
 
 #### Transfer of Functions
 
@@ -80,5 +80,5 @@ For transfer of all functions, personnel, assets, components, authorities, grant
 
 For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see former section 313(1) and sections 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “include”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "include".</i>
 

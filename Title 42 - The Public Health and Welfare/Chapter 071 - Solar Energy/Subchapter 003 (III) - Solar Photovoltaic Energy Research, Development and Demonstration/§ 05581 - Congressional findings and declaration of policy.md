@@ -8,7 +8,7 @@
 
 &emsp;(3) the early demonstration of the feasibility of using solar photovoltaic energy systems for the generation of electricity could help to relieve the demand on existing fuel and energy supplies;
 
-&emsp;(4) the national security and economic well-being of the United States is endangered by its dependence on imported energy supplies which are subject to resource limitations, artificial pricing mechanisms which do not accurately reflect supply and demand relationships, and supply interruptions;
+&emsp;(4) the national security and economic well-being of the United States is endangered by its dependence on imported energy supplies which are subject to resource limitations, artificial pricing mechanisms which do not accuratelyreflect supply and demand relationships, and supply interruptions;
 
 &emsp;(5) the early development and widespread utilization of photovoltaic energy systems could significantly expand the domestic energy resource base of the United States, thereby lessening its dependence on foreign supplies;
 
@@ -56,5 +56,5 @@
 
 #### Short Title
 
-For short title of this subchapter as the “Solar Photovoltaic Energy Research, Development, and Demonstration Act of 1978”, see section 1 of Pub. L. 95–590, set out as a note under section 5501 of this title.
+For short title of this subchapter as the "Solar Photovoltaic Energy Research, Development, and Demonstration Act of 1978", see section 1 of Pub. L. 95–590, set out as a note under section 5501 of this title.
 

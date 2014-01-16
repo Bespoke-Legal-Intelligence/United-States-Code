@@ -72,5 +72,5 @@ A prior section 10408, Pub. L. 98–457, title III, §309, Oct. 9, 1984, 98 Stat
 
 A prior section 308 of Pub. L. 98–457 was classified to section 10407 of this title prior to the general amendment of this chapter by Pub. L. 111–320.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “are”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "are".</i>
 

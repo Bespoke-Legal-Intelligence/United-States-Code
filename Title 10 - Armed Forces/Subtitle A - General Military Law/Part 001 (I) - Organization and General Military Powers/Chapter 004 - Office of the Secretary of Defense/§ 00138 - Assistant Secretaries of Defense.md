@@ -32,7 +32,7 @@
 
 (d) The Assistant Secretaries take precedence in the Department of Defense after the Secretary of Defense, the Deputy Secretary of Defense, the Secretaries of the military departments, the Under Secretaries of Defense, the Deputy Chief Management Officer of the Department of Defense, the officials serving in positions specified in section 131(b)(4) of this title, and the Principal Deputy Under Secretaries of Defense. The Assistant Secretaries take precedence among themselves in the order prescribed by the Secretary of Defense.
 
-(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §136; amended Pub. L. 90–168, §2(1), (2), Dec. 1, 1967, 81 Stat. 521; Pub. L. 91–121, title IV, §404(a), Nov. 19, 1969, 83 Stat. 207; Pub. L. 92–215, §1, Dec. 22, 1971, 85 Stat. 777; Pub. L. 92–596, §4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §3(a), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 96–107, title VIII, §820(a), Nov. 9, 1979, 93 Stat. 819; Pub. L. 98–94, title XII, §1212(a), Sept. 24, 1983, 97 Stat. 686; Pub. L. 99–433, title I, §§106, 110(d)(9), Oct. 1, 1986, 100 Stat. 997, 1003; Pub. L. 99–500, §101(c) \[title IX, §9115(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(a), Nov. 14, 1986, 100 Stat. 3983; Pub. L. 100–180, div. A, title XII, §1211(a)(1), Dec. 4, 1987, 101 Stat. 1154; Pub. L. 100–453, title VII, §702,Sept. 29, 1988, 102 Stat. 1912; Pub. L. 100–456, div. A, title VII, §701, Sept. 29, 1988, 102 Stat. 1992; renumbered §138 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1), (c), 903(c)(1), 905, Nov. 30, 1993, 107 Stat. 1726, 1727, 1729; Pub. L. 103–337, div. A, title IX, §§901(a), 903(b)(2), Oct. 5, 1994, 108 Stat. 2822, 2823; Pub. L. 104–106, div. A, title IX, §§902(a), 903(b), (e)(2), Feb. 10, 1996, 110 Stat. 401, 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 105–261, div. A, title IX, §§901(a), 902, Oct. 17, 1998, 112 Stat. 2091; Pub. L. 106–398, §1 \[\[div. A\], title IX, §901\], Oct. 30, 2000, 114 Stat. 1654, 1654A–223; Pub. L. 107–107, div. A, title IX, §901(c)(1), Dec. 28, 2001, 115 Stat. 1194; Pub. L. 107–314, div. A, title IX, §902(a), (c), (d), Dec. 2, 2002, 116 Stat. 2620, 2621; Pub. L. 109–364, div. A, title IX, §901(a), Oct. 17, 2006, 120 Stat. 2350; Pub. L. 111–84, div. A, title IX, §906(b)(2), Oct. 28, 2009, 123 Stat. 2426; Pub. L. 111–383, div. A, title IX, §901(b)(4), Jan. 7, 2011, 124 Stat. 4319; Pub. L. 112–81, div. A, title III, §314(a), Dec. 31, 2011, 125 Stat. 1357; Pub. L. 112–166, §2(c)(1)(A), Aug. 10, 2012, 126 Stat. 1283; Pub. L. 112–239, div. A, title X, §1076(f)(3), Jan. 2, 2013, 126 Stat. 1952.)
+(Added Pub. L. 87–651, title II, §202, Sept. 7, 1962, 76 Stat. 518, §136; amended Pub. L. 90–168, §2(1), (2), Dec. 1, 1967, 81 Stat. 521; Pub. L. 91–121, title IV, §404(a), Nov. 19, 1969, 83 Stat. 207; Pub. L. 92–215, §1, Dec. 22, 1971, 85 Stat. 777; Pub. L. 92–596, §4(2), Oct. 27, 1972, 86 Stat. 1318; Pub. L. 95–140, §3(a), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 96–107, title VIII, §820(a), Nov. 9, 1979, 93 Stat. 819; Pub. L. 98–94, title XII, §1212(a), Sept. 24, 1983, 97 Stat. 686; Pub. L. 99–433, title I, §§106, 110(d)(9), Oct. 1, 1986, 100 Stat. 997, 1003; Pub. L. 99–500, §101(c) \[title IX, §9115(a)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–122, and Pub. L. 99–591, §101(c) \[title IX, §9115(a)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–122; Pub. L. 99–661, div. A, title XIII, §1311(a), Nov. 14, 1986, 100 Stat. 3983; Pub. L. 100–180, div. A, title XII, §1211(a)(1), Dec. 4, 1987, 101 Stat. 1154; Pub. L. 100–453, title VII, §702, Sept. 29, 1988, 102 Stat. 1912; Pub. L. 100–456, div. A, title VII, §701, Sept. 29, 1988, 102 Stat. 1992; renumbered §138 and amended Pub. L. 103–160, div. A, title IX, §§901(a)(1), (c), 903(c)(1), 905, Nov. 30, 1993, 107 Stat. 1726, 1727, 1729; Pub. L. 103–337, div. A, title IX, §§901(a), 903(b)(2), Oct. 5, 1994, 108 Stat. 2822, 2823; Pub. L. 104–106, div. A, title IX, §§902(a), 903(b), (e)(2), Feb. 10, 1996, 110 Stat. 401, 402; Pub. L. 104–201, div. A, title IX, §901, Sept. 23, 1996, 110 Stat. 2617; Pub. L. 105–261, div. A, title IX, §§901(a), 902, Oct. 17, 1998, 112 Stat. 2091; Pub. L. 106–398, §1 \[\[div. A\], title IX, §901\], Oct. 30, 2000, 114 Stat. 1654, 1654A–223; Pub. L. 107–107, div. A, title IX, §901(c)(1), Dec. 28, 2001, 115 Stat. 1194; Pub. L. 107–314, div. A, title IX, §902(a), (c), (d), Dec. 2, 2002, 116 Stat. 2620, 2621; Pub. L. 109–364, div. A, title IX, §901(a), Oct. 17, 2006, 120 Stat. 2350; Pub. L. 111–84, div. A, title IX, §906(b)(2), Oct. 28, 2009, 123 Stat. 2426; Pub. L. 111–383, div. A, title IX, §901(b)(4), Jan. 7, 2011,124 Stat. 4319; Pub. L. 112–81, div. A, title III, §314(a), Dec. 31, 2011, 125 Stat. 1357; Pub. L. 112–166, §2(c)(1)(A), Aug. 10, 2012, 126 Stat. 1283; Pub. L. 112–239, div. A, title X, §1076(f)(3), Jan. 2, 2013, 126 Stat. 1952.)
 
 Historical and Revision Notes
 
@@ -102,7 +102,7 @@ July 26, 1947, ch. 343, §401; added Aug. 10, 1949, ch. 412, §11 (1st 2 pars.),
 
 In subsection (b)(1), 5 U.S.C. 172(b) (last 13 words of 1st sentence) is omitted as surplusage, since they are only a general description of the powers of the Secretary of Defense under this title. 5 U.S.C. 171c–2 (less 1st sentence) is omitted as covered by 5 U.S.C. 171c(c) (1st 18 words of 2d sentence).
 
-In subsection (d), the following substitutions are made: “In carrying out subsection (c) and sections 3010, 3012(b) (last two sentences), 5011 (first two sentences), 5031(a) (last two sentences), 8010, and 8012(b) last two sentences of this title,” for “In implementation of this paragraph”; and “members of the armed forces under the jurisdiction of his department” for “the military personnel in such department”. The words “in a continuous effort” are omitted as surplusage.
+In subsection (d), the following substitutions are made: "In carrying out subsection (c) and sections 3010, 3012(b) (last two sentences), 5011 (first two sentences), 5031(a) (last two sentences), 8010, and 8012(b) last two sentences of this title," for "In implementation of this paragraph"; and "members of the armed forces under the jurisdiction of his department" for "the military personnel in such department". The words "in a continuous effort" are omitted as surplusage.
 
 #### Codification
 
@@ -138,77 +138,77 @@ Section 138(i) was renumbered successively as section 114(i) and section 114(d) 
 
 <b>2013</b>—Subsec. (c)(3). Pub. L. 112–239 transferred subsec. (c)(3), relating to responsibilities of the Assistant Secretary of Defense for Operational Energy Plans and Programs regarding alternative fuel, to section 138c(c)(3) of this title.
 
-<b>2012</b>—Subsec. (a)(1). Pub. L. 112–166 substituted “14” for “16”.
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–166 substituted "14" for "16".
 
 Subsec. (c)(3). Pub. L. 112–81 added par. (3).
 
-<b>2011</b>—Subsec. (a)(1). Pub. L. 111–383, §901(b)(4)(A)(i), substituted “16” for “12”.
+<b>2011</b>—Subsec. (a)(1). Pub. L. 111–383, §901(b)(4)(A)(i), substituted "16" for "12".
 
-Subsec. (a)(2). Pub. L. 111–383, §901(b)(4)(A)(ii), struck out subpar. (A) and subpar. (B) designation and substituted “The” for “The other”. Prior to amendment, subpar. (A) read as follows: “The Assistant Secretary of Defense referred to in subsection (b)(7) shall be appointed as provided in that subsection.”
+Subsec. (a)(2). Pub. L. 111–383, §901(b)(4)(A)(ii), struck out subpar. (A) and subpar. (B) designation and substituted "The" for "The other". Prior to amendment, subpar. (A) read as follows: "The Assistant Secretary of Defense referred to in subsection (b)(7) shall be appointed as provided in that subsection."
 
-Subsec. (b)(2) to (6). Pub. L. 111–383, §901(b)(4)(B)(i), substituted “Secretaries is” for “Secretaries shall be”.
+Subsec. (b)(2) to (6). Pub. L. 111–383, §901(b)(4)(B)(i), substituted "Secretaries is" for "Secretaries shall be".
 
-Subsec. (b)(7). Pub. L. 111–383, §901(b)(4)(B)(ii), struck out “appointed pursuant to section 138a of this title” before period at end of first sentence.
+Subsec. (b)(7). Pub. L. 111–383, §901(b)(4)(B)(ii), struck out "appointed pursuant to section 138a of this title" before period at end of first sentence.
 
 Subsec. (b)(8) to (10). Pub. L. 111–383, §901(b)(4)(B)(iii), added pars. (8) to (10).
 
-Subsec. (d). Pub. L. 111–383, §901(b)(4)(C), substituted “the Deputy Chief Management Officer of the Department of Defense, the officials serving in positions specified in section 131(b)(4) of this title, and the Principal Deputy Under Secretaries of Defense” for “and the Director of Defense Research and Engineering”.
+Subsec. (d). Pub. L. 111–383, §901(b)(4)(C), substituted "the Deputy Chief Management Officer of the Department of Defense, the officials serving in positions specified in section 131(b)(4) of this title, and the Principal Deputy Under Secretaries of Defense" for "and the Director of Defense Research and Engineering".
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–84, §906(b)(2)(A), added subsec. (a) and struck out former subsec. (a), which read as follows: “There are ten Assistant Secretaries of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate.”
+<b>2009</b>—Subsec. (a). Pub. L. 111–84, §906(b)(2)(A), added subsec. (a) and struck out former subsec. (a), which read as follows: "There are ten Assistant Secretaries of Defense, appointed from civilian life by the President, by and with the advice and consent of the Senate."
 
 Subsec. (b)(6), (7). Pub. L. 111–84, §906(b)(2)(B), added pars. (6) and (7).
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–364 substituted “ten” for “nine”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–364 substituted "ten" for "nine".
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–314, §902(d), which directed the repeal of Pub. L. 107–107, §901(c), was executed by substituting “nine” for “eight” to reflect the probable intent of Congress. See 2001 Amendment note below.
+<b>2002</b>—Subsec. (a). Pub. L. 107–314, §902(d), which directed the repeal of Pub. L. 107–107, §901(c), was executed by substituting "nine" for "eight" to reflect the probable intent of Congress. See 2001 Amendment note below.
 
 Subsec. (b)(3). Pub. L. 107–314, §902(a), added par. (3).
 
 Subsec. (b)(6). Pub. L. 107–314, §902(c), struck out par. (6) which read as follows:
 
-“(6)(A) One of the Assistant Secretaries, as designated by the Secretary of Defense from among those Assistant Secretaries with responsibilities that include responsibilities related to combating terrorism, shall have, among that Assistant Secretary's duties, the duty to provide overall direction and supervision for policy, program planning and execution, and allocation and use of resources for the activities of the Department of Defense for combating terrorism, including antiterrorism activities, counterterrorism activities,terrorism consequences management activities, and terrorism-related intelligence support activities.
+"(6)(A) One of the Assistant Secretaries, as designated by the Secretary of Defense from among those Assistant Secretaries with responsibilities that include responsibilities related to combating terrorism, shall have, among that Assistant Secretary's duties, the duty to provide overall direction and supervision for policy, program planning and execution, and allocation and use of resources for the activities of the Department of Defense for combating terrorism, including antiterrorism activities, counterterrorism activities, terrorism consequences management activities, and terrorism-related intelligence support activities.
 
-“(B) The Assistant Secretary designated under subparagraph (A) shall be the principal civilian adviser to the Secretary of Defense on combating terrorism and (after the Secretary and Deputy Secretary) shall be the principal official within the senior management of the Department of Defense responsible for combating terrorism.
+"(B) The Assistant Secretary designated under subparagraph (A) shall be the principal civilian adviser to the Secretary of Defense on combating terrorism and (after the Secretary and Deputy Secretary) shall be the principal official within the senior management of the Department of Defense responsible for combating terrorism.
 
-“(C) If the Secretary of Defense designates under subparagraph (A) an Assistant Secretary other than the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, then the responsibilities of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict related to combating terrorism shall be exercised subject to subparagraph (B).”
+"(C) If the Secretary of Defense designates under subparagraph (A) an Assistant Secretary other than the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict, then the responsibilities of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict related to combating terrorism shall be exercised subject to subparagraph (B)."
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–107, which substituted “eight Assistant Secretaries of Defense” for “nine Assistant Secretaries of Defense”, was repealed by Pub. L. 107–314, §902(d). See 2002 Amendment note above.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, which substituted "eight Assistant Secretaries of Defense" for "nine Assistant Secretaries of Defense", was repealed by Pub. L. 107–314, §902(d). See 2002 Amendment note above.
 
 <b>2000</b>—Subsec. (b)(6). Pub. L. 106–398 added par. (6).
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–261, §901(a), substituted “nine” for “ten”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–261, §901(a), substituted "nine" for "ten".
 
 Subsec. (b)(3). Pub. L. 105–261, §902, struck out par. (3) which read as follows:
 
-“(3)(A) One of the Assistant Secretaries shall be the Assistant Secretary of Defense for Command, Control, Communications, and Intelligence. He shall have as his principal duty the overall supervision of command, control, communications, and intelligence affairs of the Department of Defense.
+"(3)(A) One of the Assistant Secretaries shall be the Assistant Secretary of Defense for Command, Control, Communications, and Intelligence. He shall have as his principal duty the overall supervision of command, control, communications, and intelligence affairs of the Department of Defense.
 
-“(B) Notwithstanding subparagraph (A), one of the Assistant Secretaries established by the Secretary of Defense may be an Assistant Secretary of Defense for Intelligence, who shall have as his principal duty the overall supervision of intelligence affairs of the Department of Defense.
+"(B) Notwithstanding subparagraph (A), one of the Assistant Secretaries established by the Secretary of Defense may be an Assistant Secretary of Defense for Intelligence, who shall have as his principal duty the overall supervision of intelligence affairs of the Department of Defense.
 
-“(C) If the Secretary of Defense establishes an Assistant Secretary of Defense for Intelligence, the Assistant Secretary provided for under subparagraph (A) shall be the Assistant Secretary of Defense for Command, Control, and Communications and shall have as his principal duty the overall supervision of command, control, and communications affairs of the Department of Defense.”
+"(C) If the Secretary of Defense establishes an Assistant Secretary of Defense for Intelligence, the Assistant Secretary provided for under subparagraph (A) shall be the Assistant Secretary of Defense for Command, Control, and Communications and shall have as his principal duty the overall supervision of command, control, and communications affairs of the Department of Defense."
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–106, §902(a), substituted “ten” for “eleven”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106, §902(a), substituted "ten" for "eleven".
 
 Subsec. (b). Pub. L. 104–106, §903(a), (b), which directed the general amendment of subsec. (b), eff. Jan. 31, 1997, designating par. (1) as entire subsec. and striking out pars. (2) to (5), was repealed by Pub. L. 104–201.
 
-Subsec. (d). Pub. L. 104–106, §903(a), (e)(2), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting “and the Under Secretaries of Defense” for “the Under Secretaries of Defense, and the Director of Defense Research and Engineering”, was repealed by Pub. L. 104–201.
+Subsec. (d). Pub. L. 104–106, §903(a), (e)(2), which directed amendment of subsec. (d), eff. Jan. 31, 1997, by substituting "and the Under Secretaries of Defense" for "the Under Secretaries of Defense, and the Director of Defense Research and Engineering", was repealed by Pub. L. 104–201.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–337, §901(a), substituted “eleven” for “ten”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337, §901(a), substituted "eleven" for "ten".
 
-Subsec. (d). Pub. L. 103–337, §903(b)(2), struck out “and Comptroller” after “Under Secretaries of Defense”.
+Subsec. (d). Pub. L. 103–337, §903(b)(2), struck out "and Comptroller" after "Under Secretaries of Defense".
 
 <b>1993</b>—Pub. L. 103–160, §901(a)(1), renumbered section 136 of this title as this section.
 
-Subsec. (a). Pub. L. 103–160, §903(c)(1), substituted “ten” for “eleven”.
+Subsec. (a). Pub. L. 103–160, §903(c)(1), substituted "ten" for "eleven".
 
 Subsec. (b)(5). Pub. L. 103–160, §905, added par. (5).
 
-Subsec. (d). Pub. L. 103–160, §901(c), inserted “and Comptroller” after “Under Secretaries of Defense”.
+Subsec. (d). Pub. L. 103–160, §901(c), inserted "and Comptroller" after "Under Secretaries of Defense".
 
-<b>1988</b>—Subsec. (b)(3). Pub. L. 100–453 and Pub. L. 100–456 generally amended par. (3) identically. Prior to amendment, par. (3) read as follows: “One of the Assistant Secretaries shall be the Assistant Secretary of Defense for Command, Control, Communications, and Intelligence. He shall have as his principal duty the overall supervision of command, control, communications, and intelligence affairs of the Department of Defense.”
+<b>1988</b>—Subsec. (b)(3). Pub. L. 100–453 and Pub. L. 100–456 generally amended par. (3) identically. Prior to amendment, par. (3) read as follows: "One of the Assistant Secretaries shall be the Assistant Secretary of Defense for Command, Control, Communications, and Intelligence. He shall have as his principal duty the overall supervision of command, control, communications, and intelligence affairs of the Department of Defense."
 
-<b>1987</b>—Subsec. (b)(4). Pub. L. 100–180 inserted at end “The Assistant Secretary is the principal civilian adviser to the Secretary of Defense on special operations and low intensity conflict matters and (after the Secretary and Deputy Secretary) is the principal special operations and low intensity conflict official within the senior management of the Department of Defense.”
+<b>1987</b>—Subsec. (b)(4). Pub. L. 100–180 inserted at end "The Assistant Secretary is the principal civilian adviser to the Secretary of Defense on special operations and low intensity conflict matters and (after the Secretary and Deputy Secretary) is the principal special operations and low intensity conflict official within the senior management of the Department of Defense."
 
-<b>1986</b>—Pub. L. 99–433, §110(d)(9), struck out “: appointment; powers and duties; precedence” at end of section catchline.
+<b>1986</b>—Pub. L. 99–433, §110(d)(9), struck out ": appointment; powers and duties; precedence" at end of section catchline.
 
 Subsec. (b)(2), (3). Pub. L. 99–433, §106(a)(1), (2), redesignated pars. (4) and (5) as pars. (2) and (3), respectively, and struck out former par. (2) relating to the Assistant Secretary of Defense for Health Affairs and former par. (3) relating to the Assistant Secretary of Defense for Manpower and Logistics.
 
@@ -220,35 +220,35 @@ Subsec. (b)(5). Pub. L. 99–433, §106(a)(2), redesignated par. (5) as (3).
 
 Subsec. (b)(6). Pub. L. 99–433, §106(a)(3), struck out par. (6) relating to Comptroller of Department of Defense. See section 135 of this title.
 
-Subsec. (c)(1). Pub. L. 99–433, §106(c)(1)(A), substituted “the Assistant Secretary” for “him”.
+Subsec. (c)(1). Pub. L. 99–433, §106(c)(1)(A), substituted "the Assistant Secretary" for "him".
 
-Subsec. (c)(2). Pub. L. 99–433, §106(c)(1)(B), struck out “, or his designee” after “concerned”.
+Subsec. (c)(2). Pub. L. 99–433, §106(c)(1)(B), struck out ", or his designee" after "concerned".
 
-Subsecs. (d), (e). Pub. L. 99–433, §106(b), (c)(2), (3), redesignated subsec. (e) as (d), substituted “the Under Secretaries of Defense, and the Director of Defense Research and Engineering” for “and the Under Secretaries of Defense”, inserted sentence directing that the Assistant Secretaries take precedence among themselves in the order prescribed by the Secretary of Defense, and struck out former subsec. (d) which directed the Secretary of each military department, his civilian assistants, and members of the armed forces under the jurisdiction of his department to cooperate fully with personnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.
+Subsecs. (d), (e). Pub. L. 99–433, §106(b), (c)(2), (3), redesignated subsec. (e) as (d), substituted "the Under Secretaries of Defense, and the Director of Defense Research and Engineering" for "and the Under Secretaries of Defense", inserted sentence directing that the Assistant Secretaries take precedence among themselves in the order prescribed by the Secretary of Defense, and struck out former subsec. (d) which directed the Secretary of each military department, his civilian assistants, and members of the armed forces under the jurisdiction of his department to cooperate fully with personnel of the Office of the Secretary of Defense to achieve efficient administration of the Department of Defense and to carry out effectively the authority, direction, and control of the Secretary of Defense.
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–94, §1212(a)(1), substituted “eleven” for “seven”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–94, §1212(a)(1), substituted "eleven" for "seven".
 
 Subsec. (b)(1). Pub. L. 98–94, §1212(a)(2)(A), designated existing first sentence as par. (1).
 
 Subsec. (b)(2). Pub. L. 98–94, §1212(a)(2)(B), designated existing second and third sentences as par. (2).
 
-Subsec. (b)(3). Pub. L. 98–94, §1212(a)(2)(C), (D), designated existing fourth and fifth sentences as par. (3) and substituted “Logistics” for “Reserve Affairs” and “logistics” for “reserve component”.
+Subsec. (b)(3). Pub. L. 98–94, §1212(a)(2)(C), (D), designated existing fourth and fifth sentences as par. (3) and substituted "Logistics" for "Reserve Affairs" and "logistics" for "reserve component".
 
 Subsec. (b)(4), (5). Pub. L. 98–94, §1212(a)(2)(E), added pars. (4) and (5).
 
-Subsec. (b)(6). Pub. L. 98–94, §1212(a)(2)(F), designated existing sixth sentence as par. (6), substituted “One of the Assistant Secretaries” for “In addition, one of the Assistant Secretaries”, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, redesignated former subpars. (A) to (D) as cls. (1) to (4), respectively, and in subpar. (E) substituted “clauses (A) through (D)” for “clauses (1)–(4)”.
+Subsec. (b)(6). Pub. L. 98–94, §1212(a)(2)(F), designated existing sixth sentence as par. (6), substituted "One of the Assistant Secretaries" for "In addition, one of the Assistant Secretaries", redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, redesignated former subpars. (A) to (D) as cls. (1) to (4), respectively, and in subpar. (E) substituted "clauses (A) through (D)" for "clauses (1)–(4)".
 
 Subsec. (f). Pub. L. 98–94, §1212(a)(3), struck out subsec. (f) which provided for appointment of a Deputy Assistant Secretary of Defense for Reserve Affairs within the Office of the Assistant Secretary of Defense for Manpower and Reserve Affairs. See subsec. (b)(4) of this section.
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–107 substituted “seven” for “nine”.
+<b>1979</b>—Subsec. (a). Pub. L. 96–107 substituted "seven" for "nine".
 
-<b>1977</b>—Subsec. (e). Pub. L. 95–140 inserted “of Defense” after “Secretary” and substituted “Secretary of Defense” for “Secretaries of Defense” and “, and the Under Secretaries of Defense” for “, and the Director of Defense Research and Engineering”.
+<b>1977</b>—Subsec. (e). Pub. L. 95–140 inserted "of Defense" after "Secretary" and substituted "Secretary of Defense" for "Secretaries of Defense" and ", and the Under Secretaries of Defense" for ", and the Director of Defense Research and Engineering".
 
-<b>1972</b>—Subsec. (e). Pub. L. 92–596 substituted “Deputy Secretaries” for “Deputy Secretary”.
+<b>1972</b>—Subsec. (e). Pub. L. 92–596 substituted "Deputy Secretaries" for "Deputy Secretary".
 
-<b>1971</b>—Subsec. (a). Pub. L. 92–215 substituted “nine” for “eight”.
+<b>1971</b>—Subsec. (a). Pub. L. 92–215 substituted "nine" for "eight".
 
-<b>1969</b>—Subsec. (a). Pub. L. 91–121, §404(a)(1), substituted “eight” for “seven”.
+<b>1969</b>—Subsec. (a). Pub. L. 91–121, §404(a)(1), substituted "eight" for "seven".
 
 Subsec. (b). Pub. L. 91–121, §404(a)(2), provided for an Assistant Secretary of Defense for Health Affairs having as his principal duty the overall supervision of health affairs of Department of Defense.
 
@@ -266,69 +266,69 @@ Amendment by Pub. L. 111–383 effective Jan. 1, 2011, see section 901(p) of Pub
 
 #### Effective Date of 1983 Amendment
 
-Pub. L. 98–94, title XII, §1212(e), Sept. 24, 1983, 97 Stat. 687, provided that: “The amendments made by this section \[amending this section, sections 175, 3013, and 5034 of this title, and section 5315 of Title 5, Government Organization and Employees\] shall take effect on October 1, 1983.”
+Pub. L. 98–94, title XII, §1212(e), Sept. 24, 1983, 97 Stat. 687, provided that: "The amendments made by this section \[amending this section, sections 175, 3013, and 5034 of this title, and section 5315 of Title 5, Government Organization and Employees\] shall take effect on October 1, 1983."
 
 #### Effective Date of 1967 Amendment
 
-Pub. L. 90–168, §7, Dec. 1, 1967, 81 Stat. 526, provided that: “The provisions of this Act \[see Short Title of 1967 Amendment note below\] shall become effective on the first day of the first calendar month following the date of enactment \[Dec. 1, 1967\].”
+Pub. L. 90–168, §7, Dec. 1, 1967, 81 Stat. 526, provided that: "The provisions of this Act \[see Short Title of 1967 Amendment note below\] shall become effective on the first day of the first calendar month following the date of enactment \[Dec. 1, 1967\]."
 
 #### Short Title of 1967 Amendment
 
-Pub. L. 90–168, §1, Dec. 1, 1967, 81 Stat. 521, provided: “That this Act \[amending this section, sections 175, 262, 264, 268, 269, 270, 511 \[now 12103\], 3014, 5034, 8014, and 8850 of this title, section 502 of Title 32, National Guard, and section 404 of Title 37, Pay and Allowances of the Uniformed Services, enacting sections 3021 \[now 10302\], 3038, 8021 \[now 10305\], and 8038 of this title, enacting provisions set out as notes under this section and section 8212 of this title, and amending provisions set out as a note under section 113 of this title\] may be cited as the ‘Reserve Forces Bill of Rights and Vitalization Act’.”
+Pub. L. 90–168, §1, Dec. 1, 1967, 81 Stat. 521, provided: "That this Act \[amending this section, sections 175, 262, 264, 268, 269, 270, 511 \[now 12103\], 3014, 5034, 8014, and 8850 of this title, section 502 of Title 32, National Guard, and section 404 of Title 37, Pay and Allowances of the Uniformed Services, enacting sections 3021 \[now 10302\], 3038, 8021 \[now 10305\], and 8038 of this title, enacting provisions set out as notes under this section and section 8212 of this title, and amending provisions set out as a note under section 113 of this title\] may be cited as the 'Reserve Forces Bill of Rights and Vitalization Act'."
 
 #### Decrease in Number of Assistant Secretaries of Defense
 
 Pub. L. 112–166, §2(c)(1)(B)–(D), Aug. 10, 2012, 126 Stat. 1283, provided that:
 
-“(B)
+"(B)
 
 Administration of reduction.—The Assistant Secretary of Defense positions eliminated in accordance with the reduction in numbers required by the amendment made by subparagraph (A) \[amending this section\] shall be—
 
-&emsp;“(i) the Assistant Secretary of Defense for Networks and Information Integration; and
+&emsp;"(i) the Assistant Secretary of Defense for Networks and Information Integration; and
 
-&emsp;“(ii) the Assistant Secretary of Defense for Public Affairs.
+&emsp;"(ii) the Assistant Secretary of Defense for Public Affairs.
 
-“(C)
+"(C)
 
 Continued service of incumbents.—Notwithstanding the requirements of this paragraph, any individual serving in a position described under subparagraph (B) on the date of the enactment of this Act \[Aug. 10, 2012\] may continue to serve in such position without regard to the limitation imposed by the amendment in subparagraph (A).
 
-“(D)
+"(D)
 
-Plan for successor positions.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall report to the congressional defense committees on his plan for successor positions, not subject to Senate confirmation, for the positions eliminated in accordance with the requirements of this paragraph.”
+Plan for successor positions.—Not later than 180 days after the date of the enactment of this Act, the Secretary of Defense shall report to the congressional defense committees on his plan for successor positions, not subject to Senate confirmation, for the positions eliminated in accordance with the requirements of this paragraph."
 
 #### Charter of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict
 
 Pub. L. 100–180, div. A, title XII, §1211(a)(2)–(5), Dec. 4, 1987, 101 Stat. 1154, 1155, provided that:
 
-“(2) The Secretary of Defense shall publish a directive setting forth the charter of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict not later than 30 days after the date of the enactment of this Act \[Dec. 4, 1987\]. The directive shall set forth—
+"(2) The Secretary of Defense shall publish a directive setting forth the charter of the Assistant Secretary of Defense for Special Operations and Low Intensity Conflict not later than 30 days after the date of the enactment of this Act \[Dec. 4, 1987\]. The directive shall set forth—
 
-&emsp;“(A) the duties and responsibilities of the Assistant Secretary;
+&emsp;"(A) the duties and responsibilities of the Assistant Secretary;
 
-&emsp;“(B) the relationships between the Assistant Secretary and other Department of Defense officials;
+&emsp;"(B) the relationships between the Assistant Secretary and other Department of Defense officials;
 
-&emsp;“(C) any delegation of authority from the Secretary of Defense to the Assistant Secretary; and
+&emsp;"(C) any delegation of authority from the Secretary of Defense to the Assistant Secretary; and
 
-&emsp;“(D) such other matters as the Secretary considers appropriate.
+&emsp;"(D) such other matters as the Secretary considers appropriate.
 
-“(3) On the date that such directive is published, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives—
+"(3) On the date that such directive is published, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and House of Representatives—
 
-&emsp;“(A) a copy of the directive; and
+&emsp;"(A) a copy of the directive; and
 
-&emsp;“(B) a report explaining how the charter of the Assistant Secretary fulfills the provisions of section 136(b)(4) \[now 138(b)(4)\] of title 10, United States Code (as amended by paragraph (1)), that provide that the Assistant Secretary—
+&emsp;"(B) a report explaining how the charter of the Assistant Secretary fulfills the provisions of section 136(b)(4) \[now 138(b)(4)\] of title 10, United States Code (as amended by paragraph (1)), that provide that the Assistant Secretary—
 
-&emsp;&emsp;“(i) exercises overall supervision of special operations activities and low intensity conflict activities of the Department of Defense;
+&emsp;&emsp;"(i) exercises overall supervision of special operations activities and low intensity conflict activities of the Department of Defense;
 
-&emsp;&emsp;“(ii) is the principal civilian adviser to the Secretary of Defense on special operations and low intensity conflict matters; and
+&emsp;&emsp;"(ii) is the principal civilian adviser to the Secretary of Defense on special operations and low intensity conflict matters; and
 
-&emsp;&emsp;“(iii) is the principal special operations and low intensity conflict official (after the Secretary and Deputy Secretary) within the senior management of the Department of Defense.
+&emsp;&emsp;"(iii) is the principal special operations and low intensity conflict official (after the Secretary and Deputy Secretary) within the senior management of the Department of Defense.
 
-“(4)(A) Until the office of Assistant Secretary of Defense for Special Operations and Low Intensity Conflict is filled for the first time by a person appointed from civilian life by the President, by and with the advice and consent of the Senate, the Secretary of the Army shall carry out the duties and responsibilities of that office.
+"(4)(A) Until the office of Assistant Secretary of Defense for Special Operations and Low Intensity Conflict is filled for the first time by a person appointed from civilian life by the President, by and with the advice and consent of the Senate, the Secretary of the Army shall carry out the duties and responsibilities of that office.
 
-“(B) Throughout the period of time during which the Secretary of the Army is carrying out the duties and responsibilities of that office, he shall submit to the Committees on Armed Services of the Senate and House of Representatives a monthly report on the administrative actions that he has taken and the policy guidance that he has issued to carry out such duties and responsibilities. Each such report shall also describe the actions that he intends to take and the guidance that he intends to issue to fulfill the provisions of section 136(b)(4) \[now 138(b)(4)\] of title 10, United States Code (as amended by paragraph (1)), along with a timetable for completion of such actions and issuance of such guidance. The first such report shall be submitted not later than 30 days after the date of the enactment of this Act \[Dec. 4, 1987\].
+"(B) Throughout the period of time during which the Secretary of the Army is carrying out the duties and responsibilities of that office, he shall submit to the Committees on Armed Services of the Senate and House of Representatives a monthly report on the administrative actions that he has taken and the policy guidance that he has issued to carry out such duties and responsibilities. Each such report shall also describe the actions that he intends to take and the guidance that he intends to issue to fulfill the provisions of section 136(b)(4) \[now 138(b)(4)\] of title 10, United States Code (as amended by paragraph (1)), along with a timetable for completion of such actions and issuance of such guidance. The first such report shall be submitted not later than 30 days after the date of the enactment of this Act \[Dec. 4, 1987\].
 
-“(5) Until the first individual appointed to the position of Assistant Secretary of Defense for Special Operations and Low Intensity Conflict by the President, by and with the advice and consent of the Senate, leaves that office, that Assistant Secretary (and the Secretary of the Army when carrying out the duties and responsibilities of the Assistant Secretary) shall, with respect to the duties and responsibilities of that office, report directly, without intervening review or approval, to the Secretary of Defense personally or, as designated by the Secretary, to the Deputy Secretary of Defense personally.”
+"(5) Until the first individual appointed to the position of Assistant Secretary of Defense for Special Operations and Low Intensity Conflict by the President, by and with the advice and consent of the Senate, leaves that office, that Assistant Secretary (and the Secretary of the Army when carrying out the duties and responsibilities of the Assistant Secretary) shall, with respect to the duties and responsibilities of that office, report directly, without intervening review or approval, to the Secretary of Defense personally or, as designated by the Secretary, to the Deputy Secretary of Defense personally."
 
 #### Temporary Increase in Number of Assistant Secretaries of Defense
 
-Pub. L. 100–180, div. A, title XIII, §1311, Dec. 4, 1987, 101 Stat. 1174, provided that until Jan. 20, 1989, thenumber of Assistant Secretaries of Defense authorized under subsec. (a) of this section and the number of positions at level IV of the Executive Schedule are each increased by one (to a total of 12).
+Pub. L. 100–180, div. A, title XIII, §1311, Dec. 4, 1987, 101 Stat. 1174, provided that until Jan. 20, 1989, the number of Assistant Secretaries of Defense authorized under subsec. (a) of this section and the number of positions at level IV of the Executive Schedule are each increased by one (to a total of 12).
 

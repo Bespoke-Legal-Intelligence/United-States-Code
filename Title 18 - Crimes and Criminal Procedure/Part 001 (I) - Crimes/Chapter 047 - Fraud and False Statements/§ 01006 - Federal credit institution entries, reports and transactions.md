@@ -20,15 +20,15 @@ The punishment provisions in each section were the same except that in section 1
 
 References to persons aiding or abetting contained in sections 984, 1121, and 1311 of title 12, U.S.C., 1940 ed., were omitted as unnecessary, as such persons are made principals by section 2 of this title.
 
-The term “receiver,” used in sections 1121 and 1311 of title 12, U.S.C., 1940 ed., with reference to Federal intermediate credit banks and agricultural credit corporations, was omitted as this term is undoubtedly embraced in the phrase “or connected in any capacity with.”
+The term "receiver," used in sections 1121 and 1311 of title 12, U.S.C., 1940 ed., with reference to Federal intermediate credit banks and agricultural credit corporations, was omitted as this term is undoubtedly embraced in the phrase "or connected in any capacity with."
 
-The term “or of any department or agency of the United States” was inserted in order to clarify the sweeping provisions against fraudulent acts and to eliminate any possible ambiguity as to scope of section. (See definitions of “department” and “agency” in section 6 of this title.)
+The term "or of any department or agency of the United States" was inserted in order to clarify the sweeping provisions against fraudulent acts and to eliminate any possible ambiguity as to scope of section. (See definitions of "department" and "agency" in section 6 of this title.)
 
-Words “shall be deemed guilty of a misdemeanor”, contained in section 1311 of title 12, U.S.C., 1940 ed., were omitted as unnecessary, in view of definition of misdemeanor in section 1 of this title.
+Words "shall be deemed guilty of a misdemeanor", contained in section 1311 of title 12, U.S.C., 1940 ed., were omitted as unnecessary, in view of definition of misdemeanor in section 1 of this title.
 
-Words “and upon conviction”, contained in section 1311 of title 12, U.S.C., 1940 ed., were omitted as surplusage, because punishment cannot be imposed until after conviction.
+Words "and upon conviction", contained in section 1311 of title 12, U.S.C., 1940 ed., were omitted as surplusage, because punishment cannot be imposed until after conviction.
 
-Words “in any district court of the United States”, contained in section 1311 of title 12, U.S.C., 1940 ed., were omitted as unnecessary, because section 3231 of this title confers jurisdiction on the Federal district courts of all crimes and offenses defined in this title.
+Words "in any district court of the United States", contained in section 1311 of title 12, U.S.C., 1940 ed., were omitted as unnecessary, because section 3231 of this title confers jurisdiction on the Federal district courts of all crimes and offenses defined in this title.
 
 The conspiracy provisions of section 1138d(f) of title 12, U.S.C., 1940 ed., Banks and Banking, were not added to this consolidated section for reasons stated in reviser's note under section 493 of this title. (See also reviser's note under section 371 of this title.)
 
@@ -38,31 +38,31 @@ The conspiracy provisions of section 1138d(f) of title 12, U.S.C., 1940 ed., Ban
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 struck out “Office of Thrift Supervision,” after “National Credit Union Administration,” and “the Resolution Trust Corporation,” after “the Federal Housing Finance Agency,”.
+<b>2010</b>—Pub. L. 111–203 struck out "Office of Thrift Supervision," after "National Credit Union Administration," and "the Resolution Trust Corporation," after "the Federal Housing Finance Agency,".
 
-<b>2008</b>—Pub. L. 110–289 substituted “Federal Housing Finance Agency” for “Federal Housing Finance Board”.
+<b>2008</b>—Pub. L. 110–289 substituted "Federal Housing Finance Agency" for "Federal Housing Finance Board".
 
-<b>1999</b>—Pub. L. 106–78 inserted “or successor agency” after “Farmers Home Administration” and after “Rural Development Administration”.
+<b>1999</b>—Pub. L. 106–78 inserted "or successor agency" after "Farmers Home Administration" and after "Rural Development Administration".
 
-<b>1994</b>—Pub. L. 103–322 struck out “Reconstruction Finance Corporation,” after “in any capacity with the” and “Farmers’ Home Corporation,” after “Federal Crop Insurance Corporation,”.
+<b>1994</b>—Pub. L. 103–322 struck out "Reconstruction Finance Corporation," after "in any capacity with the" and "Farmers' Home Corporation," after "Federal Crop Insurance Corporation,".
 
-<b>1990</b>—Pub. L. 101–647, §2595(a)(4), substituted “Office of Thrift Supervision, any Federal home loan bank, the Federal Housing Finance Board, the Resolution Trust Corporation,” for “Home Owners’ Loan Corporation,”, and directed substitution of “institution, other than an insured bank (as defined in section 656), the accounts of which are insured by the Federal Deposit Insurance Corporation”, for “institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation” which was executed by making the substitution for “institution the accounts of which are insured by the Federal Deposit Insurance Corporation” to reflect the probable intent of Congress and intervening amendment by Pub. L. 101–647, §1603, see below.
+<b>1990</b>—Pub. L. 101–647, §2595(a)(4), substituted "Office of Thrift Supervision, any Federal home loan bank, the Federal Housing Finance Board, the Resolution Trust Corporation," for "Home Owners' Loan Corporation,", and directed substitution of "institution, other than an insured bank (as defined in section 656), the accounts of which are insured by the Federal Deposit Insurance Corporation", for "institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation" which was executed by making the substitution for "institution the accounts of which are insured by the Federal Deposit Insurance Corporation" to reflect the probable intent of Congress and intervening amendment by Pub. L. 101–647, §1603, see below.
 
-Pub. L. 101–647, §2504(e), substituted “30” for “20” before “years”.
+Pub. L. 101–647, §2504(e), substituted "30" for "20" before "years".
 
-Pub. L. 101–647, §1603, substituted “Federal Deposit Insurance Corporation” for “Federal Savings and Loan Insurance Corporation”.
+Pub. L. 101–647, §1603, substituted "Federal Deposit Insurance Corporation" for "Federal Savings and Loan Insurance Corporation".
 
-Pub. L. 101–624 substituted “Farmers Home Administration, the Rural Development Administration” for “Farmers’ Home Administration”.
+Pub. L. 101–624 substituted "Farmers Home Administration, the Rural Development Administration" for "Farmers' Home Administration".
 
-<b>1989</b>—Pub. L. 101–73, §962(a)(8)(A), substituted “the Farm Credit System Insurance Corporation, a Farm Credit Bank, a” for “any land bank, intermediate credit bank,”.
+<b>1989</b>—Pub. L. 101–73, §962(a)(8)(A), substituted "the Farm Credit System Insurance Corporation, a Farm Credit Bank, a" for "any land bank, intermediate credit bank,".
 
-Pub. L. 101–73, §962(a)(7), substituted “National Credit Union Administration Board” for “Administrator of the National Credit Union Administration”.
+Pub. L. 101–73, §962(a)(7), substituted "National Credit Union Administration Board" for "Administrator of the National Credit Union Administration".
 
-Pub. L. 101–73, §961(e), substituted “$1,000,000” for “$10,000” and “20 years” for “five years”.
+Pub. L. 101–73, §961(e), substituted "$1,000,000" for "$10,000" and "20 years" for "five years".
 
 <b>1970</b>—Pub. L. 91–468 added National Credit Union Administration and its Administrator to the enumeration of Federal Credit institutions and personnel.
 
-<b>1967</b>—Pub. L. 90–19 substituted “Department of Housing and Urban Development” for “Federal Housing Administration”.
+<b>1967</b>—Pub. L. 90–19 substituted "Department of Housing and Urban Development" for "Federal Housing Administration".
 
 <b>1961</b>—Pub. L. 87–353 struck out reference to Federal Farm Mortgage Corporation.
 
@@ -70,7 +70,7 @@ Pub. L. 101–73, §961(e), substituted “$1,000,000” for “$10,000” and �
 
 <b>1956</b>—Act July 28, 1956, included officers, agents or employees of or connected in any capacity with any institution the accounts of which are insured by the Federal Savings and Loan Insurance Corporation.
 
-<b>1949</b>—Act May 24, 1949, inserted reference Secretary of Agriculture acting through the Farmers’ Home Administration.
+<b>1949</b>—Act May 24, 1949, inserted reference Secretary of Agriculture acting through the Farmers' Home Administration.
 
 #### Effective Date of 2010 Amendment
 

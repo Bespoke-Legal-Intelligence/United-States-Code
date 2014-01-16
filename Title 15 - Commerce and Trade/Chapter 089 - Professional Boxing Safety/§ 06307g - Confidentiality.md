@@ -14,5 +14,5 @@ If a State law governing a boxing commission requires that information that woul
 
 A prior section 15 of Pub. L. 104–272 was renumbered section 23 and is set out as a note under section 6301 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “nor”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "nor".</i>
 

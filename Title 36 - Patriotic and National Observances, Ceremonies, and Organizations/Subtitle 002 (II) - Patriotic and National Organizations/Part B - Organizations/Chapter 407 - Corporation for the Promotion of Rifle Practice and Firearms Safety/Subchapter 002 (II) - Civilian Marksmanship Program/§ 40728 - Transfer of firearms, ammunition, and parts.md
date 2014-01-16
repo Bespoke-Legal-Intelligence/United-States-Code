@@ -98,17 +98,17 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, §§1615, 1616(b), (c), 110 Stat. 5
 
 &nbsp;
 
-In subsection (a), the words “director of civilian marksmanship (as that position existed under section 4307 of title 10 on February 9, 1996)” are substituted for “Director of the Civilian Marksmanship Program” to avoid confusion with the office of the Director of Civilian Marksmanship created on February 10, 1996, by section 1611(d) of The National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106, 110 Stat. 516).
+In subsection (a), the words "director of civilian marksmanship (as that position existed under section 4307 of title 10 on February 9, 1996)" are substituted for "Director of the Civilian Marksmanship Program" to avoid confusion with the office of the Director of Civilian Marksmanship created on February 10, 1996, by section 1611(d) of The National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106, 110 Stat. 516).
 
-In subsection (b), the words “firearms or ammunition” are substituted for “such items” for clarity. In clause (2), the words “to purchasers” are omitted as unnecessary.
+In subsection (b), the words "firearms or ammunition" are substituted for "such items" for clarity. In clause (2), the words "to purchasers" are omitted as unnecessary.
 
-In subsection (c)(1), the words “eligible recipient” are substituted for “recipient eligible . . . to receive the item” to eliminate unnecessary words.
+In subsection (c)(1), the words "eligible recipient" are substituted for "recipient eligible . . . to receive the item" to eliminate unnecessary words.
 
-In subsection (c)(2), the word “purchaser” is substituted for “purchaser of the item” to eliminate unnecessary words.
+In subsection (c)(2), the word "purchaser" is substituted for "purchaser of the item" to eliminate unnecessary words.
 
-In subsection (d), the words “(as that program existed under section 4308(e) of title 10 before February 10, 1996)” are added for clarity. The words “issued, loaned, or sold by the corporation” are substituted for “issued, loaned, or sold by” for clarity.
+In subsection (d), the words "(as that program existed under section 4308(e) of title 10 before February 10, 1996)" are added for clarity. The words "issued, loaned, or sold by the corporation" are substituted for "issued, loaned, or sold by" for clarity.
 
-In subsection (e), the words “transfer . . . to” are substituted for “make available to” for consistency in the revised section and in consideration of the words “transfer of . . . parts to” in 36:5505(e).
+In subsection (e), the words "transfer . . . to" are substituted for "make available to" for consistency in the revised section and in consideration of the words "transfer of . . . parts to" in 36:5505(e).
 
 #### References in Text
 

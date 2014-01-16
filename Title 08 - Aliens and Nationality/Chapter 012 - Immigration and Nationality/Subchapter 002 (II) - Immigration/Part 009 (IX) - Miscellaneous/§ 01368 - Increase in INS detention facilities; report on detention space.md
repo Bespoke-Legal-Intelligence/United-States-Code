@@ -34,7 +34,7 @@ Subject to the availability of appropriations, the Attorney General shall provid
 
 #### (B) All inadmissible or deportable aliens
 
-&emsp;&emsp;The first report submitted under paragraph (1) shall also estimate the number ofinadmissible or deportable aliens who were released into the community due to a lack of detention facilities in each of the 3 fiscal years concluded prior to the date of the report notwithstanding circumstances that the Attorney General believed justified detention (for example, a significant probability that the released alien would not appear, as agreed, at subsequent exclusion or deportation proceedings).
+&emsp;&emsp;The first report submitted under paragraph (1) shall also estimate the number of inadmissible or deportable aliens who were released into the community due to a lack of detention facilities in each of the 3 fiscal years concluded prior to the date of the report notwithstanding circumstances that the Attorney General believed justified detention (for example, a significant probability that the released alien would not appear, as agreed, at subsequent exclusion or deportation proceedings).
 
 #### (C) Subsequent reports
 

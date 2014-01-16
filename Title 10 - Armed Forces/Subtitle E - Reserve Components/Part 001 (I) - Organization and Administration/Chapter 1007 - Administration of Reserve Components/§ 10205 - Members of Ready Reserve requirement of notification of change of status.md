@@ -12,7 +12,7 @@ Provisions similar to those in this section were contained in section 652 of thi
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 #### Effective Date of 2002 Amendment
 

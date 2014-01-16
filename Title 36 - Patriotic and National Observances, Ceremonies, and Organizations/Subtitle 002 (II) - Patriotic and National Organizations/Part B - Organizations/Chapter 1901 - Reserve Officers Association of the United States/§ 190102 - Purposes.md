@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 June 30, 1950, ch. 431, §3, 64 Stat. 313.
 
-The word “object” is omitted as unnecessary.
+The word "object" is omitted as unnecessary.
 

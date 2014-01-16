@@ -86,7 +86,7 @@ To facilitate administration of section 1308 of this title and this section, eac
 
 #### (1) Cash rent landlord
 
-&emsp;A landlord contributing land to a farming operation shall not be considered to be actively engaged in farming with respect to the farming operation if the landlord receives cash rent, or a crop share guaranteed as to the amount of the commodity to be paid in rent, for the use of the land.
+&emsp;A landlord contributing land to a farming operation shall not be considered to be actively engaged in farming with respect to the farming operation if the landlord receives cashrent, or a crop share guaranteed as to the amount of the commodity to be paid in rent, for the use of the land.
 
 #### (2) Other persons and legal entities
 
@@ -102,25 +102,25 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–246, §1603(c)(1), substituted “Notification of interests” for “Prevention of creation of entities to qualify as separate persons” in section catchline.
+<b>2008</b>—Pub. L. 110–246, §1603(c)(1), substituted "Notification of interests" for "Prevention of creation of entities to qualify as separate persons" in section catchline.
 
 Subsec. (a). Pub. L. 110–246, §1603(c)(2), added subsec. (a) and struck out former subsec. (a) which related to prevention of use of multiple legal entities to avoid effective application of payment limitations under section 1308 of this title.
 
 Subsecs. (b) to (d). Pub. L. 110–246, §1603(d), added subsecs. (b) to (d) and struck out former subsec. (b) which related to requirement that a person be an individual or entity described in former section 1308(e)(2)(A) of this title and actively engaged in farming with respect to a particular farming operation to be separately eligible for farm program payments with respect to that operation.
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §1603(c)(1), substituted “section 1308(e)(2)(A) of this title” for “section 1308(5)(B)(i) of this title” and “section 1308(e)(2)(A)(ii) of this title” for “section 1308(5)(B)(i)(II) of this title”.
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–171, §1603(c)(1), substituted "section 1308(e)(2)(A) of this title" for "section 1308(5)(B)(i) of this title" and "section 1308(e)(2)(A)(ii) of this title" for "section 1308(5)(B)(i)(II) of this title".
 
-Subsec. (b)(1). Pub. L. 107–171, §1603(c)(1)(B), substituted “section 1308(e)(2)(A) of this title” for “section 1308(5)(B)(i) of this title”.
+Subsec. (b)(1). Pub. L. 107–171, §1603(c)(1)(B), substituted "section 1308(e)(2)(A) of this title" for "section 1308(5)(B)(i) of this title".
 
-Subsec. (b)(2)(B). Pub. L. 107–171, §1603(c)(1)(A), substituted “section 1308(e)(2)(A)(ii) of this title” for “section 1308(5)(B)(i)(II) of this title”.
+Subsec. (b)(2)(B). Pub. L. 107–171, §1603(c)(1)(A), substituted "section 1308(e)(2)(A)(ii) of this title" for "section 1308(5)(B)(i)(II) of this title".
 
-<b>1996</b>—Subsec. (a)(1). Pub. L. 104–127, §115(c)(1)(A), struck out “under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.)” before “may not also hold”.
+<b>1996</b>—Subsec. (a)(1). Pub. L. 104–127, §115(c)(1)(A), struck out "under the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.)" before "may not also hold".
 
-Subsec. (b)(1). Pub. L. 104–127, §115(c)(1)(B), struck out “under the Agricultural Act of 1949” before “with respect to a particular”.
+Subsec. (b)(1). Pub. L. 104–127, §115(c)(1)(B), struck out "under the Agricultural Act of 1949" before "with respect to a particular".
 
-<b>1991</b>—Subsec. (a)(2). Pub. L. 102–237 struck out “0 to” after “less than”.
+<b>1991</b>—Subsec. (a)(2). Pub. L. 102–237 struck out "0 to" after "less than".
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–624, §1111(f), substituted “0 to 10 percent” for “10 percent”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–624, §1111(f), substituted "0 to 10 percent" for "10 percent".
 
 Subsec. (b)(6). Pub. L. 101–624, §1111(d), added par. (6).
 
@@ -128,7 +128,7 @@ Subsec. (b)(6). Pub. L. 101–624, §1111(d), added par. (6).
 
 #### Effective Date of 2008 Amendment
 
-Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, thedate of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
+Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of this title.
 
 #### Effective Date of 1990 Amendment
 

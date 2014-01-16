@@ -26,5 +26,5 @@ The Secretary shall by regulation establish procedures appropriate and practicab
 
 (Pub. L. 101–625, title I, §107, Nov. 28, 1990, 104 Stat. 4091.)
 
-<i><sup>1</sup></i><i> So in original. The words “this section” probably should be “section 12705 of this title”.</i>
+<i><sup>1</sup></i><i> So in original. The words "this section" probably should be "section 12705 of this title".</i>
 

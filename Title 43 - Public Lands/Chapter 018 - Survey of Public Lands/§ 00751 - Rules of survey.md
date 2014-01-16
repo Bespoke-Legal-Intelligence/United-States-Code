@@ -1,6 +1,6 @@
 ### §751. Rules of survey
 
-The public lands shall be divided by north and south lines run according to the true meridian, and by others crossing them at right angles, so as to form townships of six miles square, unless where the line of an Indian reservation, or of tracts of land surveyed or patented prior to May 18, 1796, or the course of navigable rivers, may render this impracticable; and in that case this rule must be departed from no further than such particular circumstances require.
+The public lands shall be divided by north and south lines run according to the true meridian,and by others crossing them at right angles, so as to form townships of six miles square, unless where the line of an Indian reservation, or of tracts of land surveyed or patented prior to May 18, 1796, or the course of navigable rivers, may render this impracticable; and in that case this rule must be departed from no further than such particular circumstances require.
 
 Second. The corners of the townships must be marked with progressive numbers from the beginning; each distance of a mile between such corners must be also distinctly marked with marks different from those of the corners.
 
@@ -30,7 +30,7 @@ R.S. §2395 derived from acts May 18, 1796, ch. 29, §2, 1 Stat. 465; May 10, 18
 
 For transfer of functions of other officers, employees, and agencies of Department of the Interior, with certain exceptions, to Secretary of the Interior, with power to delegate, see Reorg. Plan No. 3 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1262, set out under section 1451 of this title.
 
-In par. “Eighth”, reference to “United States Supervisor of Surveys,” changed to “Secretary of the Interior or such officer as he may designate,”; “office of the Field Surveying Service” changed to “office of the Secretary of the Interior or of such agency as he may designate,”; and “General Land Office” changed to “Bureau of Land Management”, on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
+In par. "Eighth", reference to "United States Supervisor of Surveys," changed to "Secretary of the Interior or such officer as he may designate,"; "office of the Field Surveying Service" changed to "office of the Secretary of the Interior or of such agency as he may designate,"; and "General Land Office" changed to "Bureau of Land Management", on authority of section 403 of Reorg. Plan No. 3 of 1946. See note set out under section 1 of this title.
 
 Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 
@@ -38,43 +38,43 @@ Act Mar. 3, 1925, abolished office of surveyor general and transferred administr
 
 Pub. L. 100–409, §8, Aug. 20, 1988, 102 Stat. 1091, provided that:
 
-“(a)
+"(a)
 
 Study.—The Secretary of the Interior shall conduct an assessment of the need for and cost and benefits associated with improvements in the existing methods of land surveying and mapping and of collecting, storing, retrieving, disseminating, and using information about Federal and other lands.
 
-“(b)
+"(b)
 
 Consultation.—In conducting the assessment required by this section, the Secretary of the Interior shall consult with the following—
 
-&emsp;“(1) the Secretary of Agriculture;
+&emsp;"(1) the Secretary of Agriculture;
 
-&emsp;“(2) the Secretary of Commerce;
+&emsp;"(2) the Secretary of Commerce;
 
-&emsp;“(3) the Director of the National Science Foundation;
+&emsp;"(3) the Director of the National Science Foundation;
 
-&emsp;“(4) representatives of State and local governments;
+&emsp;"(4) representatives of State and local governments;
 
-&emsp;“(5) representatives of private sector surveying and mapping science.
+&emsp;"(5) representatives of private sector surveying and mapping science.
 
-“(c)
+"(c)
 
 Report.—No later than one year after the day of enactment of this Act \[Aug. 20, 1988\], the Secretary of the Interior shall report to the Congress concerning the results of the assessment required by this section.
 
-“(d)
+"(d)
 
 Topics.—In the report required by subsection (c), the Secretary of the Interior shall include a discussion and evaluation of the following:
 
-&emsp;“(1) relevant recommendations made by the National Academy of Sciences (National Research Council) on the concept of a multipurpose cadastre from time to time prior to the date of enactment of this Act \[Aug. 20, 1988\];
+&emsp;"(1) relevant recommendations made by the National Academy of Sciences (National Research Council) on the concept of a multipurpose cadastre from time to time prior to the date of enactment of this Act \[Aug. 20, 1988\];
 
-&emsp;“(2) ongoing activities concerning development of an overall reference frame for land and resource information, including but not limited to a geodetic network, a series of current and accurate large-scale maps, cadastral overlay maps, unique identifying numbers linking specific land parcels to a common index of all land records in United States cadastral systems, and a series of land data files;
+&emsp;"(2) ongoing activities concerning development of an overall reference frame for land and resource information, including but not limited to a geodeticnetwork, a series of current and accurate large-scale maps, cadastral overlay maps, unique identifying numbers linking specific land parcels to a common index of all land records in United States cadastral systems, and a series of land data files;
 
-&emsp;“(3) ways to achieve better definition of the roles of Federal and other governmental agencies and the private sector in dealing with land information systems;
+&emsp;"(3) ways to achieve better definition of the roles of Federal and other governmental agencies and the private sector in dealing with land information systems;
 
-&emsp;“(4) ways to improve the coordination of Federal land information activities; and
+&emsp;"(4) ways to improve the coordination of Federal land information activities; and
 
-&emsp;“(5) model standards developed by the Secretary for compatible multipurpose land information systems for use by Federal, State and local governmental agencies, the public, and the private sector.
+&emsp;"(5) model standards developed by the Secretary for compatible multipurpose land information systems for use by Federal, State and local governmental agencies, the public, and the private sector.
 
-“(e)
+"(e)
 
-Recommendations.—The report required by subsection (c) may also include such recommendations for legislation as the Secretary of the Interior considers necessary or desirable.”
+Recommendations.—The report required by subsection (c) may also include such recommendations for legislation as the Secretary of the Interior considers necessary or desirable."
 

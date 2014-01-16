@@ -16,7 +16,7 @@ It shall be unlawful for any person knowingly or intentionally—
 
 &emsp;(6) to possess any three-neck round-bottom flask, tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II of this chapter;
 
-&emsp;(7) to manufacture, distribute, export, or import any three-neck round-bottom flask,tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II of this chapter or, in the case of an exportation, in violation of this subchapter or subchapter II of this chapter or of the laws of the country to which it is exported;
+&emsp;(7) to manufacture, distribute, export, or import any three-neck round-bottom flask, tableting machine, encapsulating machine, or gelatin capsule, or any equipment, chemical, product, or material which may be used to manufacture a controlled substance or listed chemical, knowing, intending, or having reasonable cause to believe, that it will be used to manufacture a controlled substance or listed chemical in violation of this subchapter or subchapter II of this chapter or, in the case of an exportation, in violation of this subchapter or subchapter II of this chapter or of the laws of the country to which it is exported;
 
 &emsp;(8) to create a chemical mixture for the purpose of evading a requirement of section 830 of this title or to receive a chemical mixture created for that purpose; or
 
@@ -24,11 +24,11 @@ It shall be unlawful for any person knowingly or intentionally—
 
 #### (b) Communication facility
 
-It shall be unlawful for any person knowingly or intentionally to use any communication facility in committing or in causing or facilitating the commission of any act or acts constituting a felony under any provision of this subchapter or subchapter II of this chapter. Each separate use of a communication facility shall be a separate offense under this subsection. For purposes of this subsection, the term “communication facility” means any and all public and private instrumentalities used or useful in the transmission of writing, signs, signals, pictures, or sounds of all kinds and includes mail, telephone, wire, radio, and all other means of communication.
+It shall be unlawful for any person knowingly or intentionally to use any communication facility in committing or in causing or facilitating the commission of any act or acts constituting a felony under any provision of this subchapter or subchapter II of this chapter. Each separate use of a communication facility shall be a separate offense under this subsection. For purposes of this subsection, the term "communication facility" means any and all public and private instrumentalities used or useful in the transmission of writing, signs, signals, pictures, or sounds of all kinds and includes mail, telephone, wire, radio, and all other means of communication.
 
 #### (c) Advertisement
 
-(1) It shall be unlawful for any person to place in any newspaper, magazine, handbill, or other publications, any written advertisement knowing that it has the purpose of seeking or offering illegally to receive, buy, or distribute a Schedule <sup>1</sup> I controlled substance. As used in this section the term “advertisement” includes, in addition to its ordinary meaning, such advertisements as those for a catalog of Schedule <sup>1</sup> I controlled substances and any similar written advertisement that has the purpose of seeking or offering illegally to receive, buy, or distribute a Schedule <sup>1</sup> I controlled substance. The term “advertisement” does not include material which merely advocates the use of a similar material, which advocates a position or practice, and does not attempt to propose or facilitate an actual transaction in a Schedule <sup>1</sup> I controlled substance.
+(1) It shall be unlawful for any person to place in any newspaper, magazine, handbill, or other publications, any written advertisement knowing that it has the purpose of seeking or offering illegally to receive, buy, or distribute a Schedule <sup>1</sup> I controlled substance. As used in this section the term "advertisement" includes, in addition to its ordinary meaning, such advertisements as those for a catalog of Schedule <sup>1</sup> I controlled substances and any similar written advertisement that has the purpose of seeking or offering illegally to receive, buy, or distribute a Schedule <sup>1</sup> I controlled substance. The term "advertisement" does not include material which merely advocates the use of a similar material, which advocates a position or practice, and does not attempt to propose or facilitate an actualtransaction in a Schedule <sup>1</sup> I controlled substance.
 
 (2)(A) It shall be unlawful for any person to knowingly or intentionally use the Internet, or cause the Internet to be used, to advertise the sale of, or to offer to sell, distribute, or dispense, a controlled substance where such sale, distribution, or dispensing is not authorized by this subchapter or by the Controlled Substances Import and Export Act \[21 U.S.C. 951 et seq.\].
 
@@ -48,7 +48,7 @@ It shall be unlawful for any person knowingly or intentionally to use any commun
 
 &emsp;(A) for a violation of paragraph (6) or (7) of subsection (a) of this section;
 
-&emsp;(B) for a felony under any other provision of this subchapter or subchapter II of this chapter; or
+&emsp;(B) for a felony under any other provision of this subchapter or subchapter II of this chapter; <sup>2</sup> or
 
 &emsp;(C) under any other law of the United States or any State relating to controlled substances or listed chemicals,
 
@@ -60,9 +60,9 @@ In addition to any other applicable penalty, any person convicted of a felony vi
 
 #### (f) Injunctions
 
-(1) In addition to any penalty provided in this section, the Attorney General is authorized to commence a civil action for appropriate declaratory or injunctive relief relating to violations of this section, section 842 of this title, or 856 <sup>2</sup> of this title.
+(1) In addition to any penalty provided in this section, the Attorney General is authorized to commence a civil action for appropriate declaratory or injunctive relief relating to violations of this section, section 842 of this title, or 856 <sup>3</sup> of this title.
 
-(2) Any action under this subsection may be brought in the district court of the UnitedStates for the district in which the defendant is located or resides or is doing business.
+(2) Any action under this subsection may be brought in the district court of the United States for the district in which the defendant is located or resides or is doing business.
 
 (3) Any order or judgment issued by the court pursuant to this subsection shall be tailored to restrain violations of this section or section 842 of this title.
 
@@ -74,9 +74,11 @@ In addition to any other applicable penalty, any person convicted of a felony vi
 
 Schedules I and II, referred to in subsecs. (a)(1) and (c)(1), are set out in section 812(c) of this title.
 
-This subchapter, referred to in subsec. (c)(2)(A), (C)(i), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
+This subchapter, referred to in subsec. (c)(2)(A), (C)(i), was in the original "this title", meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, and is popularly known as the "Controlled Substances Act". For complete classification of title II to the Code, see second paragraph of Short Title note set out under section 801 of this title and Tables.
 
 The Controlled Substances Import and Export Act, referred to in subsec. (c)(2)(A), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, which is classified principally to subchapter II (§951 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 951 of this title and Tables.
+
+This subchapter or subchapter II of this chapter, referred to in subsec. (d)(2)(B), was in the original a reference to "this subchapter or subchapter II of this chapter" but probably should be a reference to "this title or title III of this Act", meaning titles II and III, respectively, of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, 1285.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f)(4), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -86,13 +88,13 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (f)(4), are set 
 
 <b>2008</b>—Subsec. (c). Pub. L. 110–425 designated existing provisions as par. (1) and added par. (2).
 
-<b>2003</b>—Subsec. (f)(1). Pub. L. 108–21 substituted “this section, section 842 of this title, or 856 of this title” for “this section or section 842 of this title”.
+<b>2003</b>—Subsec. (f)(1). Pub. L. 108–21 substituted "this section, section 842 of this title, or 856 of this title" for "this section or section 842 of this title".
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–273 substituted “under title 18, or both;” for “of not more than $30,000, or both;” in two places and “under title 18, or both.” for “of not more than $60,000, or both.” in two places.
+<b>2002</b>—Subsec. (d). Pub. L. 107–273 substituted "under title 18, or both;" for "of not more than $30,000, or both;" in two places and "under title 18, or both." for "of not more than $60,000, or both." in two places.
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–237, §203(a), inserted par. (1) designation, substituted “Except as provided in paragraph (2), any person” for “Any person”, and added par. (2).
+<b>1996</b>—Subsec. (d). Pub. L. 104–237, §203(a), inserted par. (1) designation, substituted "Except as provided in paragraph (2), any person" for "Any person", and added par. (2).
 
-Subsec. (e). Pub. L. 104–237, §206(b)(1), inserted “manufacture, exportation,” after “distribution,” and struck out “regulated” after “engaging in any”.
+Subsec. (e). Pub. L. 104–237, §206(b)(1), inserted "manufacture, exportation," after "distribution," and struck out "regulated" after "engaging in any".
 
 Subsec. (f). Pub. L. 104–237, §206(b)(2), added subsec. (f).
 
@@ -100,13 +102,13 @@ Subsec. (f). Pub. L. 104–237, §206(b)(2), added subsec. (f).
 
 <b>1993</b>—Subsec. (a)(6), (7). Pub. L. 103–200, §3(g)(1), amended pars. (6) and (7) generally. Prior to amendment, pars. (6) and (7) read as follows:
 
-“(6) to possess any three-neck round-bottom flask, tableting machine, encapsulating machine, gelatin capsule, or equipment specially designed or modified to manufacture a controlled substance, with intent to manufacture a controlled substance except as authorized by this subchapter;
+"(6) to possess any three-neck round-bottom flask, tableting machine, encapsulating machine, gelatin capsule, or equipment specially designed or modified to manufacture a controlled substance, with intent to manufacture a controlled substance except as authorized by this subchapter;
 
-“(7) to manufacture, distribute, or import any three-neck round-bottom flask, tableting machine, encapsulating machine, gelatin capsule, or equipment specially designed or modified to manufacture a controlled substance, knowing that it will be used to manufacture a controlled substance except as authorized by this subchapter; or”.
+"(7) to manufacture, distribute, or import any three-neck round-bottom flask, tableting machine, encapsulating machine, gelatin capsule, or equipment specially designed or modified to manufacture a controlled substance, knowing that it will be used to manufacture a controlled substance except as authorized by this subchapter; or".
 
 Subsec. (a)(9). Pub. L. 103–200, §3(g)(2), (3), added par. (9).
 
-<b>1988</b>—Subsec. (a)(4)(B). Pub. L. 100–690, §6057(a)(1), substituted “a listed chemical” for “piperidine”.
+<b>1988</b>—Subsec. (a)(4)(B). Pub. L. 100–690, §6057(a)(1), substituted "a listed chemical" for "piperidine".
 
 Subsec. (a)(6) to (8). Pub. L. 100–690, §6057(a)(2)–(4), added pars. (6) to (8).
 
@@ -140,5 +142,7 @@ Pub. L. 96–359, §8(b), Sept. 26, 1980, 94 Stat. 1194, repealed section 203(d)
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

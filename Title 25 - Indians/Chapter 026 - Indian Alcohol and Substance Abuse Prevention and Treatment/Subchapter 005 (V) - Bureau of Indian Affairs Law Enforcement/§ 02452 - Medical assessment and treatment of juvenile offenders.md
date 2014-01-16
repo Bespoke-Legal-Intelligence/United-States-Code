@@ -20,5 +20,5 @@ The Indian Health Service shall not refuse to provide necessary interim treatmen
 
 <b>1988</b>—Pub. L. 100–690 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Affairs”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Affairs".</i>
 

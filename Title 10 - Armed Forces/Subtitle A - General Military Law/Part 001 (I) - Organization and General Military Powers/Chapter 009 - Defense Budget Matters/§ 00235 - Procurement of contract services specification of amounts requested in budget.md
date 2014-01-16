@@ -14,7 +14,7 @@ Information Provided.—For each budget account, the materials submitted shall c
 
 (c)
 
-Contract Services Defined.—In this section, the term “contract services”—
+Contract Services Defined.—In this section, the term "contract services"—
 
 &emsp;(1) means services from contractors; but
 

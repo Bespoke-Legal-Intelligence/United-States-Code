@@ -12,7 +12,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 #### (2) Noncompliance period
 
-&emsp;For purposes of this section, the term “noncompliance period” means, with respect to any failure, the period—
+&emsp;For purposes of this section, the term "noncompliance period" means, with respect to any failure, the period—
 
 &emsp;&emsp;(A) beginning on the date such failure first occurs, and
 
@@ -34,7 +34,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 #### (B) Higher minimum tax where violations are more than de minimis
 
-&emsp;&emsp;To the extent violations for which any person is liable under subsection (e) for any year are more than de minimis, subparagraph (A) shall be applied by substituting “$15,000” for “$2,500” with respect to such person.
+&emsp;&emsp;To the extent violations for which any person is liable under subsection (e) for anyyear are more than de minimis, subparagraph (A) shall be applied by substituting "$15,000" for "$2,500" with respect to such person.
 
 #### (C) Exception for church plans
 
@@ -78,7 +78,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of failures with respect to a specified multiple employer health plan,the tax imposed by subsection (a) for failures during the taxable year of the trust forming part of such plan shall not exceed the amount equal to the lesser of—
+&emsp;&emsp;&emsp;In the case of failures with respect to a specified multiple employer health plan, the tax imposed by subsection (a) for failures during the taxable year of the trust forming part of such plan shall not exceed the amount equal to the lesser of—
 
 &emsp;&emsp;&emsp;&emsp;(I) 10 percent of the amount paid or incurred by such trust during such taxable year to provide medical care (as defined in section 9832(d)(3)) directly or through insurance, reimbursement, or otherwise, or
 
@@ -104,7 +104,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), the term “small employer” means, with respect to a calendar year and a plan year, an employer who employed an average of at least 2 but not more than 50 employees on business days during the preceding calendar year and who employs at least 2 employees on the first day of the plan year. For purposes of the preceding sentence, all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as one employer.
+&emsp;&emsp;For purposes of paragraph (1), the term "small employer" means, with respect to a calendar year and a plan year, an employer who employed an average of at least 2 but not more than 50 employees on business days during the preceding calendar year and who employs at least 2 employees on the first day of the plan year. For purposes of the preceding sentence, all persons treated as a single employer under subsection (b), (c), (m), or (o) of section 414 shall be treated as one employer.
 
 #### (B) Employers not in existence in preceding year
 
@@ -116,7 +116,7 @@ There is hereby imposed a tax on any failure of a group health plan to meet the 
 
 #### (3) Health insurance coverage; health insurance issuer
 
-&emsp;For purposes of paragraph (1), the terms “health insurance coverage” and “health insurance issuer” have the respective meanings given such terms by section 9832.
+&emsp;For purposes of paragraph (1), the terms "health insurance coverage" and "health insurance issuer" have the respective meanings given such terms by section 9832.
 
 #### (e) Liability for tax
 
@@ -134,11 +134,11 @@ For purposes of this section—
 
 #### (1) Group health plan
 
-&emsp;The term “group health plan” has the meaning given such term by section 9832(a).
+&emsp;The term "group health plan" has the meaning given such term by section 9832(a).
 
 #### (2) Specified multiple employer health plan
 
-&emsp;The term “specified multiple employer health plan” means a group health plan which is—
+&emsp;The term "specified multiple employer health plan" means a group health plan which is—
 
 &emsp;&emsp;(A) any multiemployer plan, or
 
@@ -162,23 +162,23 @@ The date of the enactment of this section, referred to in subsec. (f)(2)(B), is 
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–135 substituted “plan requirements” for “plans requirements”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–135 substituted "plan requirements" for "plans requirements".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–34, §1531(b)(2)(A), substituted “plans” for “plan portability, access, and renewability”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–34, §1531(b)(2)(A), substituted "plans" for "plan portability, access, and renewability".
 
-Subsec. (c)(3)(B)(i)(I). Pub. L. 105–34, §1531(b)(2)(B), substituted “9832(d)(3)” for “9805(d)(3)”.
+Subsec. (c)(3)(B)(i)(I). Pub. L. 105–34, §1531(b)(2)(B), substituted "9832(d)(3)" for "9805(d)(3)".
 
-Subsec. (d)(1). Pub. L. 105–34, §1531(b)(2)(C), inserted “(other than a failure attributable to section 9811)” after “on any failure”.
+Subsec. (d)(1). Pub. L. 105–34, §1531(b)(2)(C), inserted "(other than a failure attributable to section 9811)" after "on any failure".
 
-Subsec. (d)(3). Pub. L. 105–34, §1531(b)(2)(D), substituted “section 9832” for “section 9805”.
+Subsec. (d)(3). Pub. L. 105–34, §1531(b)(2)(D), substituted "section 9832" for "section 9805".
 
-Subsec. (f)(1). Pub. L. 105–34, §1531(b)(2)(E), substituted “section 9832(a)” for “section 9805(a)”.
+Subsec. (f)(1). Pub. L. 105–34, §1531(b)(2)(E), substituted "section 9832(a)" for "section 9805(a)".
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XV, §1531(c), Aug. 5, 1997, 111 Stat. 1085, provided that: “The amendments made by this section \[enacting sections 9811 and 9812 of this title, amending this section and sections 9801 and 9831 of this title, and renumbering sections 9804 to 9806 of this title as sections 9831 to 9833 of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998.”
+Pub. L. 105–34, title XV, §1531(c), Aug. 5, 1997, 111 Stat. 1085, provided that: "The amendments made by this section \[enacting sections 9811 and 9812 of this title, amending this section and sections 9801 and 9831 of this title, and renumbering sections 9804 to 9806 of this title as sections 9831 to 9833 of this title\] shall apply with respect to group health plans for plan years beginning on or after January 1, 1998."
 
 #### Effective Date
 
-Pub. L. 104–191, title IV, §402(c), Aug. 21, 1996, 110 Stat. 2087, provided that: “The amendments made by this section \[enacting this section\] shall apply to failures under chapter 100 of the Internal Revenue Code of 1986 (as added by section 401 of this Act).”
+Pub. L. 104–191, title IV, §402(c), Aug. 21, 1996, 110 Stat. 2087, provided that: "The amendments made by this section \[enacting this section\] shall apply to failures under chapter 100 of the Internal Revenue Code of 1986 (as added by section 401 of this Act)."
 

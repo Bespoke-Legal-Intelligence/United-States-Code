@@ -10,7 +10,7 @@ Bargaining Units.—The Director of the National Geospatial-Intelligence Agency 
 
 (c)
 
-Termination of Bargaining Unit Coverage of Position Modified To Affect National Security Directly.—(1) If the Director of the National Geospatial-Intelligence Agencydetermines that the responsibilities of a position within a collective bargaining unit should be modified to include intelligence, counterintelligence, investigative, or security duties not previously assigned to that position and that the performance of the newly assigned duties directly affects the national security of the United States, then, upon such a modification of the responsibilities of that position, the position shall cease to be covered by the collective bargaining unit and the employee in that position shall cease to be entitled to representation by a labor organization accorded exclusive recognition for that collective bargaining unit.
+Termination of Bargaining Unit Coverage of Position Modified To Affect National Security Directly.—(1) If the Director of the National Geospatial-Intelligence Agency determines that the responsibilities of a position within a collective bargaining unit should be modified to include intelligence, counterintelligence, investigative, or security duties not previously assigned to that position and that the performance of the newly assigned duties directly affects the national security of the United States, then, upon such a modification of the responsibilities of that position, the position shall cease to be covered by the collective bargaining unit and the employee in that position shall cease to be entitled to representation by a labor organization accorded exclusive recognition for that collective bargaining unit.
 
 (2) A determination described in paragraph (1) that is made by the Director of the National Geospatial-Intelligence Agency may not be reviewed by the Federal Labor Relations Authority or any court of the United States.
 
@@ -18,11 +18,11 @@ Termination of Bargaining Unit Coverage of Position Modified To Affect National 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–136, §921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in two places.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §921(d)(2)(A), substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" in two places.
 
-Subsec. (b). Pub. L. 108–136, §921(d)(2)(C), substituted “The Director of the National Geospatial-Intelligence Agency” for “The National Imagery and Mapping Agency” and “on September 30, 1996” for “on the day before the date on which employees and positions of the Defense Mapping Agency in that bargaining unit became employees and positions of the National Imagery and Mapping Agency under the National Imagery and Mapping Agency Act of 1996 (title XI of the National Defense Authorization Act for Fiscal Year 1997)”.
+Subsec. (b). Pub. L. 108–136, §921(d)(2)(C), substituted "The Director of the National Geospatial-Intelligence Agency" for "The National Imagery and Mapping Agency" and "on September 30, 1996" for "on the day before the date on which employees and positions of the Defense Mapping Agency in that bargaining unit became employees and positions of the National Imagery and Mapping Agency under the National Imagery and Mapping Agency Act of 1996 (title XI of the National Defense Authorization Act for Fiscal Year 1997)".
 
-Subsec. (c). Pub. L. 108–136, §921(d)(2)(A), substituted “National Geospatial-Intelligence Agency” for “National Imagery and Mapping Agency” in two places.
+Subsec. (c). Pub. L. 108–136, §921(d)(2)(A), substituted "National Geospatial-Intelligence Agency" for "National Imagery and Mapping Agency" in two places.
 
 #### Effective Date
 

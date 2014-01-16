@@ -12,17 +12,17 @@ Presentation.—The Medal of Honor Flag shall be presented as specified in secti
 
 #### Findings
 
-Pub. L. 107–248, title VIII, §8143(a), Oct. 23, 2002, 116 Stat. 1570, provided that: “Congress finds that—
+Pub. L. 107–248, title VIII, §8143(a), Oct. 23, 2002, 116 Stat. 1570, provided that: "Congress finds that—
 
-&emsp;“(1) the Medal of Honor is the highest award for valor in action against an enemy force which can be bestowed upon an individual serving in the Armed Forces of the United States;
+&emsp;"(1) the Medal of Honor is the highest award for valor in action against an enemy force which can be bestowed upon an individual serving in the Armed Forces of the United States;
 
-&emsp;“(2) the Medal of Honor was established by Congress during the Civil War to recognize soldiers who had distinguished themselves by gallantry in action;
+&emsp;"(2) the Medal of Honor was established by Congress during the Civil War to recognize soldiers who had distinguished themselves by gallantry in action;
 
-&emsp;“(3) the Medal of Honor was conceived by Senator James Grimes of the State of Iowa in 1861; and
+&emsp;"(3) the Medal of Honor was conceived by Senator James Grimes of the State of Iowa in 1861; and
 
-&emsp;“(4) the Medal of Honor is the Nation's highest military honor, awarded for acts of personal bravery or self-sacrifice above and beyond the call of duty.”
+&emsp;"(4) the Medal of Honor is the Nation's highest military honor, awarded for acts of personal bravery or self-sacrifice above and beyond the call of duty."
 
 #### Presentation of Medal of Honor Flag
 
-Pub. L. 107–248, title VIII, §8143(d), Oct. 23, 2002, 116 Stat. 1571, provided that: “The President shall providefor the presentation of the Medal of Honor Flag designated under section 903 of title 36, United States Code, as added by subsection (b), to each person awarded the Medal of Honor before the date of enactment of this Act \[Oct. 23, 2002\] who is living as of that date. Such presentation shall be made as expeditiously as possible after the date of the designation of the Medal of Honor Flag by the Secretary of Defense under such section.”
+Pub. L. 107–248, title VIII, §8143(d), Oct. 23, 2002, 116 Stat. 1571, provided that: "The President shall providefor the presentation of the Medal of Honor Flag designated under section 903 of title 36, United States Code, as added by subsection (b), to each person awarded the Medal of Honor before the date of enactment of this Act \[Oct. 23, 2002\] who is living as of that date. Such presentation shall be made as expeditiously as possible after the date of the designation of the Medal of Honor Flag by the Secretary of Defense under such section."
 

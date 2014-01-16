@@ -18,7 +18,7 @@ To the extent necessary to enable it to carry out the functions vested in it by 
 
 (h) To enter into contracts generally and to execute all instruments necessary or appropriate to carry out its corporate purposes, which instruments shall include such concession contracts, leases, or permits for the use of lands, buildings, or other property deemed desirable either to accommodate the public or to facilitate administration.
 
-(i) To appoint and prescribe the duties of such officers, agents, and employees as may be necessary to carry out its functions, and to fix and pay such compensation to them for their services as the National Trust may determine.
+(i) To appoint and prescribe the duties of such officers, agents, and employees as may be necessary to carry out its functions, and to fix andpay such compensation to them for their services as the National Trust may determine.
 
 (j) And generally to do any and all lawful acts necessary or appropriate to carry out the purposes for which the National Trust is created.
 

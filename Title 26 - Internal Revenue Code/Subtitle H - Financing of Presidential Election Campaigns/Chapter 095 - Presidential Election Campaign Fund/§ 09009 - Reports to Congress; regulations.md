@@ -28,9 +28,9 @@ The Commission is authorized to prescribe such rules and regulations in accordan
 
 (2) If either such House does not, through appropriate action, disapprove the proposed rule or regulation set forth in such statement no later than 30 legislative days after receipt of such statement, then the Commission may prescribe such rule or regulation. Whenever a committee of the House of Representatives reports any resolution relating to any such rule or regulation, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. The Commission may not prescribe any rule or regulation which is disapproved by either such House under this paragraph.
 
-(3) For purposes of this subsection, the term “legislative days” does not include any calendar day on which both Houses of the Congress are not in session.
+(3) For purposes of this subsection, the term "legislative days" does not include any calendar day on which both Houses of the Congress are not in session.
 
-(4) For purposes of this subsection, the term “rule or regulation” means a provision or series of interrelated provisions stating a single separable rule of law.
+(4) For purposes of this subsection, the term "rule or regulation" means a provision or series of interrelated provisions stating a single separable rule of law.
 
 (Added Pub. L. 92–178, title VIII, §801, Dec. 10, 1971, 85 Stat. 569; amended Pub. L. 93–443, title IV, §§404(c)(12), (13), 406(b)(1), 409, Oct. 15, 1974, 88 Stat. 1292, 1293, 1296, 1303; Pub. L. 94–283, title III, §304(a), May 11, 1976, 90 Stat. 498.)
 
@@ -40,9 +40,9 @@ The Commission is authorized to prescribe such rules and regulations in accordan
 
 Subsec. (c)(4). Pub. L. 94–283, §304(a)(2), added par. (4).
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–443, §§404(c)(12), 406(b)(1), substituted “Commission” for “Comptroller General” wherever appearing and “it” for “him” and added pars. (4) to (6).
+<b>1974</b>—Subsec. (a). Pub. L. 93–443, §§404(c)(12), 406(b)(1), substituted "Commission" for "Comptroller General" wherever appearing and "it" for "him" and added pars. (4) to (6).
 
-Subsec. (b). Pub. L. 93–443, §§404(c)(13), 409(b), substituted “Commission”, “it” and “it” for “Comptroller General”, “he” and “him”, respectively, and inserted “in accordance with the provisions of subsection (c)” after “regulations”.
+Subsec. (b). Pub. L. 93–443, §§404(c)(13), 409(b), substituted "Commission", "it" and "it" for "Comptroller General", "he" and "him", respectively, and inserted "in accordance with the provisions of subsection (c)" after "regulations".
 
 Subsec. (c). Pub. L. 93–443, §409(a), added subsec. (c).
 

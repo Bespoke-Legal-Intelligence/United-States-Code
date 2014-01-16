@@ -4,7 +4,7 @@
 
 (1) There is hereby created the Federal Home Loan Mortgage Corporation, which shall be a body corporate under the direction of a Board of Directors. Within the limitations of law and regulation, the Board of Directors shall determine the general policies that govern the operations of the Corporation. The principal office of the Corporation shall be in the District of Columbia or at any other place determined by the Corporation.
 
-(2)(A) The Board of Directors of the Corporation shall consist of 13 persons, or such other number as the Director determines appropriate, who shall be elected annually by the voting common stockholders. Except to the extent action under section 4636a of this title temporarilyresults in a lesser number, the Board of Directors shall at all times have as members at least 1 person from the homebuilding industry, at least 1 person from the mortgage lending industry, at least 1 person from the real estate industry, and at least 1 person from an organization that has represented consumer or community interests for not less than 2 years or 1 person who has demonstrated a career commitment to the provision of housing for low-income households.
+(2)(A) The Board of Directors of the Corporation shall consist of 13 persons, or such other number as the Director determines appropriate, who shall be elected annually by the voting common stockholders. Except to the extent action under section 4636a of this title temporarily results in a lesser number, the Board of Directors shall at all times have as members at least 1 person from the homebuilding industry, at least 1 person from the mortgage lending industry, at least 1 person from the real estate industry, and at least 1 person from an organization that has represented consumer or community interests for not less than 2 years or 1 person who has demonstrated a career commitment to the provision of housing for low-income households.
 
 (B) Each member of the Board of Directors shall be elected for a term ending on the date of the next annual meeting of the voting common stockholders.
 
@@ -32,7 +32,7 @@ The Corporation, including its franchise, activities, capital, reserves, surplus
 
 #### (f) Actions by and against the Corporation; jurisdiction; removal of actions; attachment or execution issued against the Corporation
 
-Notwithstanding section 1349 of title 28 or any other provision of law, (1) the Corporation shall be deemed to be an agency included in sections 1345 and 1442 of such title 28; (2) all civil actions to which the Corporation is a party shall be deemed to arise under the laws of the UnitedStates, and the district courts of the United States shall have original jurisdiction of all such actions, without regard to amount or value; and (3) any civil or other action, case or controversy in a court of a State, or in any court other than a district court of the United States, to which the Corporation is a party may at any time before the trial thereof be removed by the Corporation, without the giving of any bond or security, to the district court of the United States for the district and division embracing the place where the same is pending, or, if there is no such district court, to the district court of the United States for the district in which the principal office of the Corporation is located, by following any procedure for removal of causes in effect at the time of such removal.
+Notwithstanding section 1349 of title 28 or any other provision of law, (1) the Corporation shall be deemed to be an agency included in sections 1345 and 1442 of such title 28; (2) all civil actions to which the Corporation is a party shall be deemed to arise under the laws of the United States, and the district courts of the United States shall have original jurisdiction of all such actions, without regard to amount or value; and (3) any civil or other action, case or controversy in a court of a State, or in any court other than a district court of the United States, to which the Corporation is a party may at any time before the trial thereof be removed by the Corporation, without the giving of any bond or security, to the district court of the United States for the district and division embracing the place where the same is pending, or, if there is no such district court, to the district court of the United States for the district in which the principal office of the Corporation is located, by following any procedure for removal of causes in effect at the time of such removal.
 
 #### (g) Mortgages, obligations, or other securities sold by Corporation deemed lawful investments for security purposes
 
@@ -40,11 +40,11 @@ All mortgages, obligations, or other securities which are or have been sold by t
 
 #### (h) Report on comparability of compensation policies and financial performance of Corporation and payments earned by executive officers; prohibition on payments to terminated executive officers
 
-(1) Not later than June 30, 1993, and annually thereafter, the Corporation shall submit a report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on (A) the comparability of the compensation policies of the Corporation with the compensation policies of other similar businesses, (B) in the aggregate, the percentage of total cash compensation and payments under employee benefit plans (which shall be defined in a manner consistent with the Corporation's proxy statement for the annual meeting of shareholders for the preceding year) earned by executive officers of the Corporation during the preceding year that was based on the Corporation's performance, and (C) the comparability of the Corporation's financial performance with the performance of other similar businesses. The report shall include a copy of the Corporation's proxy statement for the annual meeting of shareholders for the preceding year.
+(1) Not later than June 30, 1993, and annually thereafter, the Corporation shall submit a report to the Committee on Banking, Finance and Urban Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate on (A) the comparability of the compensation policies of the Corporation with the compensation policies of other similar businesses, (B) in the aggregate,the percentage of total cash compensation and payments under employee benefit plans (which shall be defined in a manner consistent with the Corporation's proxy statement for the annual meeting of shareholders for the preceding year) earned by executive officers of the Corporation during the preceding year that was based on the Corporation's performance, and (C) the comparability of the Corporation's financial performance with the performance of other similar businesses. The report shall include a copy of the Corporation's proxy statement for the annual meeting of shareholders for the preceding year.
 
 (2) Notwithstanding the first sentence of subsection (c) of this section, after October 28, 1992, the Corporation may not enter into any agreement or contract to provide any payment of money or other thing of current or potential value in connection with the termination of employment of any executive officer of the Corporation, unless such agreement or contract is approved in advance by the Director of the Federal Housing Finance Agency. The Director may not approve any such agreement or contract unless the Director determines that the benefits provided under the agreement or contract are comparable to benefits under such agreements for officers of other public and private entities involved in financial services and housing interests who have comparable duties and responsibilities. For purposes of this paragraph, any renegotiation, amendment, or change after October 28, 1992, to any such agreement or contract entered into on or before October 28, 1992, shall be considered entering into an agreement or contract.
 
-(3) For purposes of this subsection, the term “executive officer” has the meaning given the term in section 4502 of this title.
+(3) For purposes of this subsection, the term "executive officer" has the meaning given the term in section 4502 of this title.
 
 (4) Notwithstanding any other provision of this section, the Corporation shall not transfer, disburse, or pay compensation to any executive officer, or enter into an agreement with such executive officer, without the approval of the Director, for matters being reviewed under section 4518 of this title.
 
@@ -52,27 +52,27 @@ All mortgages, obligations, or other securities which are or have been sold by t
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2)(A). Pub. L. 110–289, §1162(b)(1)(A), substituted “13 persons, or such other number as the Director determines appropriate, who” for “18 persons, 5 of whom shall be appointed annually by the President of the United States and the remainder of whom” in first sentence and struck out “appointed by the President of the United States” after “as members” in second sentence.
+<b>2008</b>—Subsec. (a)(2)(A). Pub. L. 110–289, §1162(b)(1)(A), substituted "13 persons, or such other number as the Director determines appropriate, who" for "18 persons, 5 of whom shall be appointed annually by the President of the United States and the remainder of whom" in first sentence and struck out "appointed by the President of the United States" after "as members" in second sentence.
 
-Pub. L. 110–289, §1153(b)(3), substituted “Except to the extent action under section 4636a of this title temporarily results in a lesser number, the” for “The” in second sentence.
+Pub. L. 110–289, §1153(b)(3), substituted "Except to the extent action under section 4636a of this title temporarily results in a lesser number, the" for "The" in second sentence.
 
-Subsec. (a)(2)(B). Pub. L. 110–289, §1162(b)(1)(B), struck out “such or” before “elected” and “, except that any appointed member may be removed from office by the President for good cause” before period at end.
+Subsec. (a)(2)(B). Pub. L. 110–289, §1162(b)(1)(B), struck out "such or" before "elected" and ", except that any appointed member may be removed from office by the President for good cause" before period at end.
 
-Subsec. (a)(2)(C). Pub. L. 110–289, §1162(b)(1)(C), struck out “elective” after “Any” in second sentence and struck out first sentence which read as follows: “Any appointive seat on the Board of Directors that becomes vacant shall be filled by appointment by the President of the United States, but only for the unexpired portion of the term.”
+Subsec. (a)(2)(C). Pub. L. 110–289, §1162(b)(1)(C), struck out "elective" after "Any" in second sentence and struck out first sentence which read as follows: "Any appointive seat on the Board of Directors that becomes vacant shall be filled by appointment by the President of the United States, but only for the unexpired portion of the term."
 
-Subsecs. (b)(2), (h)(2). Pub. L. 110–289, §1161(c)(1), substituted “Director of the Federal Housing Finance Agency” for “Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development”.
+Subsecs. (b)(2), (h)(2). Pub. L. 110–289, §1161(c)(1), substituted "Director of the Federal Housing Finance Agency" for "Director of the Office of Federal Housing Enterprise Oversight of the Department of Housing and Urban Development".
 
 Subsec. (h)(4). Pub. L. 110–289, §1113(b)(2), added par. (4).
 
-<b>1992</b>—Subsec. (a)(2)(A). Pub. L. 102–550, §1382(c)(1), in second sentence, struck out “and” after “mortgage lending industry,” and inserted before period “, and at least 1 person from an organization that has represented consumer or community interests for not less than 2 years or 1 person who has demonstrated a career commitment to the provision of housing for low-income households”.
+<b>1992</b>—Subsec. (a)(2)(A). Pub. L. 102–550, §1382(c)(1), in second sentence, struck out "and" after "mortgage lending industry," and inserted before period ", and at least 1 person from an organization that has represented consumer or community interests for not less than 2 years or 1 person who has demonstrated a career commitment to the provision of housing for low-income households".
 
-Subsec. (a)(2)(B). Pub. L. 102–550, §1382(d), inserted before period at end “, except that any appointed member may be removed from office by the President for good cause”.
+Subsec. (a)(2)(B). Pub. L. 102–550, §1382(d), inserted before period at end ", except that any appointed member may be removed from office by the President for good cause".
 
 Subsec. (b). Pub. L. 102–550, §1382(e), amended subsec. (b) generally, substituting present provisions for provisions which outlined general regulatory authority of the Secretary of Housing and Urban Development over Corporation in such areas as mortgage purchases, dividends, examinations and audits, outstanding obligations, conversion of stock and debt obligations, residential mortgage transactions, and approval or disapproval of requests.
 
-Subsec. (c). Pub. L. 102–550, §1382(f)(1), (g), in cl. (9) of first sentence, inserted “as the Board of Directors determines reasonable and comparable with compensation for employment in other similar businesses (including publicly held financial institutions or other major financial services companies) involving similar duties and responsibilities, except that a significant portion of potential compensation of all executive officers (as such term is defined in subsection (h)(3) of this section) of the Corporation shall be based on the performance of the Corporation” and struck out after first sentence “Nothing in this chapter or any other law shall be construed to prevent the appointment, employment, and provision for compensation and benefits, as an officer, employee, attorney, or agent of the Corporation, of any officer, employee, attorney, or agent of any department, establishment, or corporate or other instrumentality of the Government, including any Federal home loan bank or member thereof.”
+Subsec. (c). Pub. L. 102–550, §1382(f)(1), (g), in cl. (9) of first sentence, inserted "as the Board of Directors determines reasonable and comparable with compensation for employment in other similar businesses (including publicly held financial institutions or other major financial services companies) involving similar duties and responsibilities, except that a significant portion of potential compensation of all executive officers (as such term is defined in subsection (h)(3) of this section) of the Corporation shall be based on the performance of the Corporation" and struck out after first sentence "Nothing in this chapter or any other law shall be construed to prevent the appointment, employment, and provision for compensation and benefits, as an officer, employee, attorney, or agent of the Corporation, of any officer, employee, attorney, or agent of any department, establishment, or corporate or other instrumentality of the Government, including any Federal home loan bank or member thereof."
 
-Subsec. (f). Pub. L. 102–550, §1382(h), struck out at end “No attachment or execution shall be issued against the Corporation or any of its property before final judgment in any State, Federal, or other court.”
+Subsec. (f). Pub. L. 102–550, §1382(h), struck out at end "No attachment or execution shall be issued against the Corporation or any of its property before final judgment in any State, Federal, or other court."
 
 Subsec. (h). Pub. L. 102–550, §1382(f)(2), added subsec. (h).
 
@@ -80,7 +80,7 @@ Subsec. (h). Pub. L. 102–550, §1382(f)(2), added subsec. (h).
 
 Subsecs. (b) to (g). Pub. L. 101–73, §731(c), added subsec. (b) and redesignated former subsecs. (b) to (f) as (c) to (g), respectively.
 
-<b>1984</b>—Subsec. (d). Pub. L. 98–369 struck out “by the United States,” before “by any territory”, substituted “possession of the United States” for “possession thereof,” and struck out “The provisions of this subsection shall be applicable without regard to any other law, including without limitation on the generality of the foregoing section 3301 of title 26, except laws hereafter enacted by Congress expressly in limitation of this subsection.”
+<b>1984</b>—Subsec. (d). Pub. L. 98–369 struck out "by the United States," before "by any territory", substituted "possession of the United States" for "possession thereof," and struck out "The provisions of this subsection shall be applicable without regard to any other law, including without limitation on the generality of the foregoing section 3301 of title 26, except laws hereafter enacted by Congress expressly in limitation of this subsection."
 
 <b>1979</b>—Subsec. (f). Pub. L. 96–153 added subsec. (f).
 
@@ -90,7 +90,7 @@ Committee on Banking, Finance and Urban Affairs of House of Representatives trea
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–550, title XIII, §1382(c)(2), Oct. 28, 1992, 106 Stat. 4002, provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to the first annual appointment by the President of members to the Board of Directors of the Federal Home Loan Mortgage Corporation that occurs after the date of the enactment of this Act \[Oct. 28, 1992\].”
+Pub. L. 102–550, title XIII, §1382(c)(2), Oct. 28, 1992, 106 Stat. 4002, provided that: "The amendments made by paragraph (1) \[amending this section\] shall apply to the first annual appointment by the President of members to the Board of Directors of the Federal Home Loan Mortgage Corporation that occurs after the date of the enactment of this Act \[Oct. 28, 1992\]."
 
 #### Effective Date of 1984 Amendment
 
@@ -98,31 +98,31 @@ Amendment by Pub. L. 98–369, effective Jan. 1, 1985, see section 177(d) of Pub
 
 #### Transitional Provisions
 
-Pub. L. 110–289, div. A, title I, §1162(b)(2), July 30, 2008, 122 Stat. 2782, provided that: “The amendments made by paragraph (1) \[amending this section\] shall not apply to any appointed position of the board of directors of the Federal Home Loan Mortgage Corporation until the expiration of the annual term for such position during which the effective date under section 1163 \[set out as an Effective Date of 2008 Amendment note under section 3132 of Title 5, Government Organization and Employees\] occurs.”
+Pub. L. 110–289, div. A, title I, §1162(b)(2), July 30, 2008, 122 Stat. 2782, provided that: "The amendments made by paragraph (1) \[amending this section\] shall not apply to any appointed position of the board of directors of the Federal Home Loan Mortgage Corporation until the expiration of the annual term for such position during which the effective date under section 1163 \[set out as an Effective Date of 2008 Amendment note under section 3132 of Title 5, Government Organization and Employees\] occurs."
 
 Pub. L. 101–73, title VII, §731(b)(2), Aug. 9, 1989, 103 Stat. 430, provided that:
 
-“(A)
+"(A)
 
 Interim board.—
 
-&emsp;“(i)
+&emsp;"(i)
 
 Establishment.—There shall be an interim Board of Directors of the Federal Home Loan Mortgage Corporation, which shall serve from the date of the enactment of this Act \[Aug. 9, 1989\] until the date of the 1st meeting of the voting common shareholders of the Corporation at which the first election of the directors elected by the shareholders occurs.
 
-&emsp;“(ii)
+&emsp;"(ii)
 
 Members.—The interim Board of Directors of the Federal Home Loan Mortgage Corporation shall consist of—
 
-&emsp;&emsp;“(I) the President of the Corporation; and
+&emsp;&emsp;"(I) the President of the Corporation; and
 
-&emsp;&emsp;“(II) the persons who were (on the day before the date of the enactment of this Act) the Chairman of the Federal Home Loan Bank Board and the Secretary of Housing and Urban Development (or their designees).
+&emsp;&emsp;"(II) the persons who were (on the day before the date of the enactment of this Act) the Chairman of the Federal Home Loan Bank Board and the Secretary of Housing and Urban Development (or their designees).
 
-&emsp;“(iii)
+&emsp;"(iii)
 
 Quorum.—A quorum of the interim Board of Directors of the Federal Home Loan Mortgage Corporation shall consist of a majority of the directors duly serving from time to time.
 
-“(B)
+"(B)
 
-Election of permanent directors.—The first meeting of the voting common shareholders of the Federal Home Loan Mortgage Corporation for election of directors shall occur, under procedures established by the Corporation, within 6 months after the date of the enactment of this Act.”
+Election of permanent directors.—The first meeting of the voting common shareholders of the Federal Home Loan Mortgage Corporation for election of directors shall occur, under procedures established by the Corporation, within 6 months after the date of the enactment of this Act."
 

@@ -6,5 +6,5 @@ The Secretary of Labor may by regulation exempt from the provisions of section 1
 
 #### Amendments
 
-<b>1977</b>—Pub. L. 95–30 substituted “section 1673(a) and (b)(2) of this title” for “section 1673(a) of this title” in two places.
+<b>1977</b>—Pub. L. 95–30 substituted "section 1673(a) and (b)(2) of this title" for "section 1673(a) of this title" in two places.
 

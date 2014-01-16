@@ -12,7 +12,7 @@ Commencement of Payment.—Subject to subsection (c), the special pay authorized
 
 Termination of Payments.—The payment of special pay to a member under subsection (a) shall terminate at the end of the first month during which any of the following occurs:
 
-&emsp;(1) The member is paid a benefit under the traumatic injury protection rider of the Servicemembers’ Group Life Insurance Program issued under section 1980A of title 38.
+&emsp;(1) The member is paid a benefit under the traumatic injury protection rider of the Servicemembers' Group Life Insurance Program issued under section 1980A of title 38.
 
 &emsp;(2) The member receives notification of the eligibility of the member for a benefit under such traumatic injury protection rider and a period of 30 days expires after the date of such notification.
 
@@ -34,7 +34,7 @@ Section 310(b) of this title, referred to in subsec. (d), was redesignated secti
 
 #### Effective Date
 
-Pub. L. 109–163, div. A, title VI, §642(d), Jan. 6, 2006, 119 Stat. 3306, provided that: “The Secretary of a military department may provide special pay under section 328 of title 37, United States Code, as added by subsection (a), for months beginning on or after the date of the enactment of this Act \[Jan. 6, 2006\]. A member of the Armed Forces who incurred a wound, injury, or illness under the circumstances described in subsection (a) of such section before the date of the enactment of this Act may receive such pay for such wound, injury, or illness for months beginning on or after that date so long as the member continues to satisfy the eligibility criteria specified in such section.”
+Pub. L. 109–163, div. A, title VI, §642(d), Jan. 6, 2006, 119 Stat. 3306, provided that: "The Secretary of a military department may provide special pay under section 328 of title 37, United States Code, as added by subsection (a), for months beginning on or after the date of the enactment of this Act \[Jan. 6, 2006\]. A member of the Armed Forces who incurred a wound, injury, or illness under the circumstances described in subsection (a) of such section before the date of the enactment of this Act may receive such pay for such wound, injury, or illness for months beginning on or after that date so long as the member continues to satisfy the eligibility criteria specified in such section."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

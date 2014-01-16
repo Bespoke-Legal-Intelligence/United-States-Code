@@ -22,7 +22,7 @@
 
 &emsp;(2) except as provided in clause (4) of this subsection and section 733(a)(3)(A) of this title, the highest basic pay rate under the pay schedule may not be more than the rate for level III of the Executive Level, except that the total amount of cash compensation in any year shall be subject to the limitations provided under section 5307(a)(1) of title 5;
 
-&emsp;(3) except as provided under section 733(a)(3)(B) of this title, basic rates of officers and employees of the Office shall be adjusted annually to such extent as determined by the Comptroller General, and in making that determination the Comptroller General shall consider—
+&emsp;(3) except as provided under section 733(a)(3)(B) of this title, basic rates of officers and employees of the Office shall be adjustedannually to such extent as determined by the Comptroller General, and in making that determination the Comptroller General shall consider—
 
 &emsp;&emsp;(A) the principle that equal pay should be provided for work of equal value within each local pay area;
 
@@ -98,7 +98,7 @@
 
 &emsp;(ii) military preference subject to section 3501(a)(3) of title 5;
 
-&emsp;(iii) veterans’ preference under sections 3502(b) and 3502(c) of title 5;
+&emsp;(iii) veterans' preference under sections 3502(b) and 3502(c) of title 5;
 
 &emsp;(iv) performance ratings;
 
@@ -130,17 +130,17 @@
 
 (j)(1) For purposes of this subsection—
 
-&emsp;(A) the term “pay increase”, as used with respect to an officer or employee in connection with a year, means the total increase in the rate of basic pay (expressed as a percentage) of such officer or employee, taking effect under section 731(b) and subsection (c)(3) in such year;
+&emsp;(A) the term "pay increase", as used with respect to an officer or employee in connection with a year, means the total increase in the rate of basic pay (expressed as a percentage) of such officer or employee, taking effect under section 731(b) and subsection (c)(3) in such year;
 
-&emsp;(B) the term “required minimum percentage”, as used with respect to an officer or employee in connection with a year, means the percentage equal to the total increase in rates of basic pay (expressed as a percentage) taking effect under sections 5303 and 5304–5304a of title 5 in such year with respect to General Schedule positions within the pay locality (as defined by section 5302(5) of title 5) in which the position of such officer or employee is located;
+&emsp;(B) the term "required minimum percentage", as used with respect to an officer or employee in connection with a year, means the percentage equal to the total increase in rates of basic pay (expressed as a percentage) taking effect under sections 5303 and 5304–5304a of title 5 in such year with respect to General Schedule positions within the pay locality (as defined by section 5302(5) of title 5) in which the position of such officer or employee is located;
 
-&emsp;(C) the term “covered officer or employee”, as used with respect to a pay increase, means any individual—
+&emsp;(C) the term "covered officer or employee", as used with respect to a pay increase, means any individual—
 
-&emsp;&emsp;(i) who is an officer or employee of the Government Accountability Office, other than an officer or employee described in subparagraph (A), (B), or (C) of section 4(c)(1) of the Government Accountability Office Act of 2008, determined as of the effective date of such pay increase; and
+&emsp;&emsp;(i) who is an officer or employee of the Government Accountability Office, otherthan an officer or employee described in subparagraph (A), (B), or (C) of section 4(c)(1) of the Government Accountability Office Act of 2008, determined as of the effective date of such pay increase; and
 
 &emsp;&emsp;(ii) whose performance is at least at a satisfactory level, as determined by the Comptroller General under the provisions of subsection (c)(3) for purposes of the adjustment taking effect under such provisions in such year; and
 
-&emsp;(D) the term “nonpermanent merit pay” means any amount payable under section 731(b) which does not constitute basic pay.
+&emsp;(D) the term "nonpermanent merit pay" means any amount payable under section 731(b) which does not constitute basic pay.
 
 (2)(A) Notwithstanding any other provision of this chapter, if (disregarding this subsection) the pay increase that would otherwise take effect with respect to a covered officer or employee in a year would be less than the required minimum percentage for such officer or employee in such year, the Comptroller General shall provide for a further increase in the rate of basic pay of such officer or employee.
 
@@ -204,25 +204,25 @@ Feb. 15, 1980, Pub. L. 96–191, §§3, 6, 94 Stat. 27, 32.
 
 31:52–5(a).
 
-In the section, the words “officers and” are added for consistency in the revised title and with other titles of the United States Code.
+In the section, the words "officers and" are added for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (a), the words “not later than October 1, 1980” and 31:52–5(b) are omitted as executed. The word “maintain” is substituted for “establish by regulation” to omit executed words. The words “for the General Accounting Office (hereinafter referred to as the ‘personnel system’) which shall meet the requirements of subsections (b) through (h)”, and “or any amendment” are omitted as surplus. The words “about the system” are substituted for “thereto” for clarity.
+In subsection (a), the words "not later than October 1, 1980" and 31:52–5(b) are omitted as executed. The word "maintain" is substituted for "establish by regulation" to omit executed words. The words "for the General Accounting Office (hereinafter referred to as the 'personnel system') which shall meet the requirements of subsections (b) through (h)", and "or any amendment" are omitted as surplus. The words "about the system" are substituted for "thereto" for clarity.
 
-In subsection (b)(1), the words “merit system” are omitted as surplus. In clause (5), the words “of the United States Government” are added for consistency. In clause (6), the words “the principles of” are omitted as surplus.
+In subsection (b)(1), the words "merit system" are omitted as surplus. In clause (5), the words "of the United States Government" are added for consistency. In clause (6), the words "the principles of" are omitted as surplus.
 
-In subsection (c)(2), the words “payable . . . under the General Schedule” are omitted as surplus. In clause (4), the words “not more than 100 positions” are substituted for “up to one hundred employees” for consistency. The words “payable . . . grade . . . of the General Schedule” are omitted as surplus. In clause (5), the words “the principles of” are omitted as surplus.
+In subsection (c)(2), the words "payable . . . under the General Schedule" are omitted as surplus. In clause (4), the words "not more than 100 positions" are substituted for "up to one hundred employees" for consistency. The words "payable . . . grade . . . of the General Schedule" are omitted as surplus. In clause (5), the words "the principles of" are omitted as surplus.
 
-In subsection (d)(2), the words “Director of” are added for consistency. The text of 31:52–2(d)(last sentence) is omitted as executed. In clause (4), the words “the taking of” are omitted as surplus.
+In subsection (d)(2), the words "Director of" are added for consistency. The text of 31:52–2(d)(last sentence) is omitted as executed. In clause (4), the words "the taking of" are omitted as surplus.
 
-In subsections (e)–(g), the word “management” is added for consistency.
+In subsections (e)–(g), the word "management" is added for consistency.
 
-In subsection (f)(1), the words “in the General Accounting Office” are omitted as surplus.
+In subsection (f)(1), the words "in the General Accounting Office" are omitted as surplus.
 
-In subsection (f)(2), before clause (A), the word “affect” is substituted for “abolish or diminish” to eliminate unnecessary words. The words “in the General Accounting Office by section 717 of the Civil Rights Act of 1964, by sections 12 and 15 of the Age Discrimination in Employment Act of 1967, by section 6(d) of the Fair Labor Standards Act of 1938, by sections 501 and 505 of the Rehabilitation Act of 1973, or . . . other” are omitted as surplus. In clauses (A) and (B), the words “has the same authority . . . as . . . has” are substituted for “authorities granted thereunder to . . . shall be exercised by” for clarity. The words “the Equal Employment Opportunity Commission, Office of Personnel Management, the Merit Systems Protection Board, or . . . other” are omitted as surplus. In clause (A), the words “established by section 52–3” are omitted as surplus.
+In subsection (f)(2), before clause (A), the word "affect" is substituted for "abolish or diminish" to eliminate unnecessary words. The words "in the General Accounting Office by section 717 of the Civil Rights Act of 1964, by sections 12 and 15 of the Age Discrimination in Employment Act of 1967, by section 6(d) of the Fair Labor Standards Act of 1938, by sections 501 and 505 of the Rehabilitation Act of 1973, or . . . other" are omitted as surplus. In clauses (A) and (B), the words "has the same authority . . . as . . . has" are substituted for "authorities granted thereunder to . . . shall be exercised by" for clarity. The words "the Equal Employment Opportunity Commission, Office of Personnel Management, the Merit Systems Protection Board, or . . . other" are omitted as surplus. In clause (A), the words "established by section 52–3" are omitted as surplus.
 
-In subsection (f)(3), the word “affect” is substituted for “prohibits or restricts” for consistency.
+In subsection (f)(3), the word "affect" is substituted for "prohibits or restricts" for consistency.
 
-In subsection (g), the words “Notwithstanding any other provision of law” are omitted as surplus.
+In subsection (g), the words "Notwithstanding any other provision of law" are omitted as surplus.
 
 #### References in Text
 
@@ -234,41 +234,41 @@ Section 4(c)(1) of the Government Accountability Office Act of 2008, referred to
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c)(2). Pub. L. 110–323, §8, substituted “rate for level III of the Executive Level, except that the total amount of cash compensation in any year shall be subject to the limitations provided under section 5307(a)(1) of title 5” for “highest basic rate for GS–15”.
+<b>2008</b>—Subsec. (c)(2). Pub. L. 110–323, §8, substituted "rate for level III of the Executive Level, except that the total amount of cash compensation in any year shall be subject to the limitations provided under section 5307(a)(1) of title 5" for "highest basic rate for GS–15".
 
 Subsec. (j). Pub. L. 110–323, §2(a), added subsec. (j).
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–271, §8(b), substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (a). Pub. L. 108–271, §8(b), substituted "Government Accountability Office" for "General Accounting Office".
 
-Subsec. (b)(6). Pub. L. 108–271, §3(c), substituted “title 5, except as provided under subsection (c)(3) of this section and section 733(a)(3)(B) of this title” for “title 5”.
+Subsec. (b)(6). Pub. L. 108–271, §3(c), substituted "title 5, except as provided under subsection (c)(3) of this section and section 733(a)(3)(B) of this title" for "title 5".
 
-Subsec. (c)(3). Pub. L. 108–271, §3(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “except as provided under section 733(a)(3)(B) of this title or section 5349(a) of title 5, basic pay rates of officers and employees of the Office shall be adjusted at the same time and to the same extent as basic pay rates of the General Schedule are adjusted;”.
+Subsec. (c)(3). Pub. L. 108–271, §3(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "except as provided under section 733(a)(3)(B) of this title or section 5349(a) of title 5, basic pay rates of officers and employees of the Office shall be adjusted at the same time and to the same extent as basic pay rates of the General Schedule are adjusted;".
 
-Subsec. (c)(5). Pub. L. 108–271, §4, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “officers and employees of the Office are entitled to grade and basic pay retention consistent with subchapter VI of chapter 53 of title 5.”
+Subsec. (c)(5). Pub. L. 108–271, §4, amended par. (5) generally. Prior to amendment, par. (5) read as follows: "officers and employees of the Office are entitled to grade and basic pay retention consistent with subchapter VI of chapter 53 of title 5."
 
-Subsec. (d)(1). Pub. L. 108–271, §4, amended par. (1) generally. Prior to amendment, par. (1) read as follows: “for a system to appraise the performance of officers and employees of the General Accounting Office that meets the requirements of section 4302 of title 5;”.
+Subsec. (d)(1). Pub. L. 108–271, §4, amended par. (1) generally. Prior to amendment, par. (1) read as follows: "for a system to appraise the performance of officers and employees of the General Accounting Office that meets the requirements of section 4302 of title 5;".
 
-Subsecs. (e)(1), (f)(2) (introductory provisions), (g), (h)(1)(A). Pub. L. 108–271, §8(b), substituted “Government Accountability Office” for “General Accounting Office”.
+Subsecs. (e)(1), (f)(2) (introductory provisions), (g), (h)(1)(A). Pub. L. 108–271, §8(b), substituted "Government Accountability Office" for "General Accounting Office".
 
-Subsec. (h)(3)(A). Pub. L. 108–271, §12, substituted “reduction in force” for “reduction force”.
+Subsec. (h)(3)(A). Pub. L. 108–271, §12, substituted "reduction in force" for "reduction force".
 
-Subsec. (i). Pub. L. 108–271, §8(b), substituted “Government Accountability Office” for “General Accounting Office”.
+Subsec. (i). Pub. L. 108–271, §8(b), substituted "Government Accountability Office" for "General Accounting Office".
 
-<b>2000</b>—Subsec. (c)(4). Pub. L. 106–303, §4(a)(2), inserted “(including senior-level positions under section 732a of this title)” after “129 positions” and substituted “733(c) of this title and senior-level positions described in section 732a(b) of this title);” for “733(c) of this title);”.
+<b>2000</b>—Subsec. (c)(4). Pub. L. 106–303, §4(a)(2), inserted "(including senior-level positions under section 732a of this title)" after "129 positions" and substituted "733(c) of this title and senior-level positions described in section 732a(b) of this title);" for "733(c) of this title);".
 
-Subsec. (h). Pub. L. 106–303, §3(a)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Notwithstanding the provisions of subchapter I of chapter 35 of title 5, United States Code, the Comptroller General shall prescribe regulations for the release of officers and employees of the General Accounting Office in a reduction in force which give due effect to tenure of employment, military preference, performance and/or contributions to the agency's goals and objectives, and length of service. The regulations shall, to the extent deemed feasible by the Comptroller General, be designed to minimize disruption to the Office and to assist in promoting the efficiency of the Office.”
+Subsec. (h). Pub. L. 106–303, §3(a)(1), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: "Notwithstanding the provisions of subchapter I of chapter 35 of title 5, United States Code, the Comptroller General shall prescribe regulations for the release of officers and employees of the General Accounting Office in a reduction in force which give due effect to tenure of employment, military preference, performance and/or contributions to the agency's goals and objectives, and length of service. The regulations shall, to the extent deemed feasible by the Comptroller General, be designed to minimize disruption to the Office and to assist in promoting the efficiency of the Office."
 
 Subsec. (i). Pub. L. 106–303, §3(b)(1), added subsec. (i).
 
 <b>1995</b>—Subsec. (h). Pub. L. 104–53 added subsec. (h).
 
-<b>1990</b>—Subsec. (b)(6). Pub. L. 101–509 substituted “5301” for “5301(a)”.
+<b>1990</b>—Subsec. (b)(6). Pub. L. 101–509 substituted "5301" for "5301(a)".
 
-<b>1988</b>—Subsec. (c)(3). Pub. L. 100–426, §303, substituted “under section 733(a)(3)(B) of this title or section 5349(a) of title 5” for “in section 733(a)(3)(B) of this title”.
+<b>1988</b>—Subsec. (c)(3). Pub. L. 100–426, §303, substituted "under section 733(a)(3)(B) of this title or section 5349(a) of title 5" for "in section 733(a)(3)(B) of this title".
 
-Subsec. (c)(4). Pub. L. 100–426, §302, substituted “129” for “119” and “the rate of basic pay payable for grade GS–18 of the General Schedule” for “the highest rate for GS–18”.
+Subsec. (c)(4). Pub. L. 100–426, §302, substituted "129" for "119" and "the rate of basic pay payable for grade GS–18 of the General Schedule" for "the highest rate for GS–18".
 
-<b>1984</b>—Subsec. (c)(4). Pub. L. 98–326 substituted “119” for “100”.
+<b>1984</b>—Subsec. (c)(4). Pub. L. 98–326 substituted "119" for "100".
 
 #### Change of Name
 
@@ -276,7 +276,7 @@ General Accounting Office redesignated Government Accountability Office. See sec
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–323, §2(b), Sept. 22, 2008, 122 Stat. 3540, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to any pay increase (as defined by such amendment) taking effect on or after the date of the enactment of this Act \[Sept. 22, 2008\].”
+Pub. L. 110–323, §2(b), Sept. 22, 2008, 122 Stat. 3540, provided that: "The amendment made by this section \[amending this section\] shall apply with respect to any pay increase (as defined by such amendment) taking effect on or after the date of the enactment of this Act \[Sept. 22, 2008\]."
 
 #### Effective Date of 2004 Amendment
 
@@ -286,19 +286,19 @@ Amendment by section 3 of Pub. L. 108–271 effective Oct. 1, 2005, and applicab
 
 Pub. L. 106–303, §3(a)(2), (3), Oct. 13, 2000, 114 Stat. 1067, 1068, provided that:
 
-“(2)
+"(2)
 
 Effective date.—Subject to paragraph (3), the amendment made by paragraph (1) \[amending this section\] shall apply with respect to all reduction-in-force actions taking effect on or after—
 
-&emsp;“(A) the 180th day following the date of the enactment of this Act \[Oct. 13, 2000\]; or
+&emsp;"(A) the 180th day following the date of the enactment of this Act \[Oct. 13, 2000\]; or
 
-&emsp;“(B) if earlier, the date the Comptroller General issues the regulations required under such amendment.
+&emsp;"(B) if earlier, the date the Comptroller General issues the regulations required under such amendment.
 
-“(3)
+"(3)
 
-Savings provisions.—If, before the effective date determined under paragraph (2), specific notice of a reduction-in-force action is given to an individual in accordance with section 1 of chapter 5 of GAO Order 2351.1 (dated February 28, 1996), then, for purposes of determining such individual's rights in connection with such action, the amendment made by paragraph (1) shall be treated as if it had never been enacted.”
+Savings provisions.—If, before the effective date determined under paragraph (2), specific notice of a reduction-in-force action is given to an individual in accordance with section 1 of chapter 5 of GAO Order 2351.1 (dated February 28, 1996), then, for purposes of determining such individual's rights in connection with such action, the amendment made by paragraph (1) shall be treated as if it had never been enacted."
 
-Pub. L. 106–303, §3(b)(2), Oct. 13, 2000, 114 Stat. 1068, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 13, 2000\].”
+Pub. L. 106–303, §3(b)(2), Oct. 13, 2000, 114 Stat. 1068, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Oct. 13, 2000\]."
 
 #### Effective Date of 1990 Amendment
 
@@ -312,125 +312,125 @@ Amendment by Pub. L. 98–326 effective Oct. 1, 1984, see section 2 of Pub. L. 9
 
 Pub. L. 110–323, §3, Sept. 22, 2008, 122 Stat. 3540, provided that:
 
-“(a)
+"(a)
 
 Applicability.—This section applies in the case of any individual who, as of the date of the enactment of this Act \[Sept. 22, 2008\], is an officer or employee of the Government Accountability Office, excluding—
 
-&emsp;“(1) an officer or employee described in subparagraph (A), (B), or (C) of section 4(c)(1) \[set out as a note below\]; and
+&emsp;"(1) an officer or employee described in subparagraph (A), (B), or (C) of section 4(c)(1) \[set out as a note below\]; and
 
-&emsp;“(2) an officer or employee who received both a 2.6 percent pay increase in January 2006 and a 2.4 percent pay increase in February 2007.
+&emsp;"(2) an officer or employee who received both a 2.6 percent pay increase in January 2006 and a 2.4 percent pay increase in February 2007.
 
-“(b)
+"(b)
 
-Pay Increase Defined.—For purposes of this section, the term ‘pay increase’, as used with respect to an officer or employee in connection with a year, means the total increase in the rate of basic pay (expressed as a percentage) of such officer or employee, taking effect under sections 731(b) and 732(c)(3) of title 31, United States Code, in such year.
+Pay Increase Defined.—For purposes of this section, the term 'pay increase', as used with respect to an officer or employee in connection with a year, means the total increase in the rate of basic pay (expressed as a percentage) of such officer or employee, taking effect under sections 731(b) and 732(c)(3) of title 31, United States Code, in such year.
 
-“(c)
+"(c)
 
-Prospective Effect.—Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate of basic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
+Prospective Effect.—Effective with respect to pay for service performed in any pay period beginning after the end of the 6-month period beginning on the date of the enactment of this Act (or such earlier date as the Comptroller General may specify), the rate ofbasic pay for each individual to whom this section applies shall be determined as if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, subject to subsection (e).
 
-“(d)
+"(d)
 
 Lump-Sum Payment.—Not later than 6 months after the date of the enactment of this Act, the Comptroller General shall, subject to the availability of appropriations, pay to each individual to whom this section applies a lump-sum payment. Subject to subsection (e), such lump-sum payment shall be equal to—
 
-&emsp;“(1)(A) the total amount of basic pay that would have been paid to the individual, for service performed during the period beginning on the effective date of the pay increase for 2006 and ending on the day before the effective date of the pay adjustment under subsection (c) (or, if earlier, the date on which the individual retires or otherwise ceases to be employed by the Government Accountability Office), if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, minus
+&emsp;"(1)(A) the total amount of basic pay that would have been paid to the individual, for service performed during the period beginning on the effective date of the pay increase for 2006 and ending on the day before the effective date of the pay adjustment under subsection (c) (or, if earlier, the date on which the individual retires or otherwise ceases to be employed by the Government Accountability Office), if such individual had received both a 2.6 percent pay increase for 2006 and a 2.4 percent pay increase for 2007, minus
 
-&emsp;“(B) the total amount of basic pay that was in fact paid to the individual for service performed during the period described in subparagraph (A); and
+&emsp;"(B) the total amount of basic pay that was in fact paid to the individual for service performed during the period described in subparagraph (A); and
 
-&emsp;“(2) increased by 4 percent of the amount calculated under paragraph (1).
+&emsp;"(2) increased by 4 percent of the amount calculated under paragraph (1).
 
 > Eligibility for a lump-sum payment under this subsection shall be determined solely on the basis of whether an individual satisfies the requirements of subsection (a) (to be considered an individual to whom this section applies), and without regard to such individual's employment status as of any date following the date of the enactment of this Act or any other factor.
 
-“(e)
+"(e)
 
 Conditions.—Nothing in subsection (c) or (d) shall be considered to permit or require—
 
-&emsp;“(1) the payment of any rate (or portion of the lump-sum amount as calculated under subsection (d)(1) based on a rate) for any pay period, to the extent that such rate would be (or would have been) inconsistent with the limitation that applies (or thatapplied) with respect to such pay period under section 732(c)(2) of title 31, United States Code; or
+&emsp;"(1) the payment of any rate (or portion of the lump-sum amount as calculated under subsection (d)(1) based on a rate) for any pay period, to the extent that such rate would be (or would have been) inconsistent with the limitation that applies (or that applied) with respect to such pay period under section 732(c)(2) of title 31, United States Code; or
 
-&emsp;“(2) the payment of any rate or amount based on the pay increase for 2006 or 2007 (as the case may be), if—
+&emsp;"(2) the payment of any rate or amount based on the pay increase for 2006 or 2007 (as the case may be), if—
 
-&emsp;&emsp;“(A) the performance of the officer or employee involved was not at a satisfactory level, as determined by the Comptroller General under paragraph (3) of section 732(c) of such title 31 for purposes of the adjustment under such paragraph for that year; or
+&emsp;&emsp;"(A) the performance of the officer or employee involved was not at a satisfactory level, as determined by the Comptroller General under paragraph (3) of section 732(c) of such title 31 for purposes of the adjustment under such paragraph for that year; or
 
-&emsp;&emsp;“(B) the individual involved was not an officer or employee of the Government Accountability Office on the date as of which that increase took effect.
+&emsp;&emsp;"(B) the individual involved was not an officer or employee of the Government Accountability Office on the date as of which that increase took effect.
 
-> As used in paragraph (2)(A), the term ‘satisfactory’ includes a rating of ‘meets expectations’ (within the meaning of the performance appraisal system used for purposes of the adjustment under section 732(c)(3) of such title 31 for the year involved).
+> As used in paragraph (2)(A), the term 'satisfactory' includes a rating of 'meets expectations' (within the meaning of the performance appraisal system used for purposes of the adjustment under section 732(c)(3) of such title 31 for the year involved).
 
-“(f)
+"(f)
 
 Retirement.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The portion of the lump-sum payment paid under subsection (d) to an officer or employee as calculated under subsection (d)(1) shall, for purposes of any determination of the average pay (as defined by section 8331 or 8401 of title 5, United States Code) which is used to compute an annuity under subchapter III of chapter 83 or chapter 84 of such title—
 
-&emsp;&emsp;“(A) be treated as basic pay (as defined by section 8331 or 8401 of such title); and
+&emsp;&emsp;"(A) be treated as basic pay (as defined by section 8331 or 8401 of such title); and
 
-&emsp;&emsp;“(B) be allocated to the biweekly pay periods covered by subsection (d).
+&emsp;&emsp;"(B) be allocated to the biweekly pay periods covered by subsection (d).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Contributions to civil service retirement and disability retirement fund.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Employee contributions.—The Government Accountability Office shall deduct and withhold from the lump-sum payment paid to each employee under subsection (d) an amount equal to the difference between—
 
-&emsp;&emsp;&emsp;“(i) employee contributions that would have been deducted and withheld from pay under section 8334 or 8422 of title 5, United States Code, if the portion of the lump-sum payment as calculated under subsection (d)(1) had been additionally paid as basic pay during the period described under subsection (d)(1) of this section; and
+&emsp;&emsp;&emsp;"(i) employee contributions that would have been deducted and withheld from pay under section 8334 or 8422 of title 5, United States Code, if the portion of the lump-sum payment as calculated under subsection (d)(1) had been additionally paid as basic pay during the period described under subsection (d)(1) of this section; and
 
-&emsp;&emsp;&emsp;“(ii) employee contributions that were actually deducted and withheld from pay under section 8334 or 8422 of title 5, United States Code, during that period.
+&emsp;&emsp;&emsp;"(ii) employee contributions that were actually deducted and withheld from pay under section 8334 or 8422 of title 5, United States Code, during that period.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Agency contributions and payment to the fund.—Not later than 9 months after the Government Accountability Office makes the lump-sum payments under subsection (d), the Government Accountability Office shall pay into the Civil Service Retirement and Disability Fund—
 
-&emsp;&emsp;&emsp;“(i) the amount of each deduction and withholding under subparagraph (A); and
+&emsp;&emsp;&emsp;"(i) the amount of each deduction and withholding under subparagraph (A); and
 
-&emsp;&emsp;&emsp;“(ii) an amount for applicable agency contributions under section 8334 or 8423 of title 5, United states Code, based on payments made under clause (i).
+&emsp;&emsp;&emsp;"(ii) an amount for applicable agency contributions under section 8334 or 8423 of title 5, United states Code, based on payments made under clause (i).
 
-“(g)
+"(g)
 
-Exclusive Remedy.—This section constitutes the exclusive remedy that any individuals to whom this section applies (as described in subsection (a)) have for any claim that they are owed any monies denied to them in the form of a pay increase for 2006 or 2007 under section 732(c)(3) of title 31, United States Code, or any other law. Notwithstanding any other provision of law, no court or administrative body, including the Government Accountability Office Personnel Appeals Board, shall have jurisdiction to entertain any civil action or other civil proceeding based on the claim of such individuals that they were due money in the form of a pay increase for 2006 or 2007 pursuant to such section 732(c)(3) or any other law.”
+Exclusive Remedy.—This section constitutes the exclusive remedy that any individuals to whom this section applies (as described in subsection (a)) have for any claim that they are owed any monies denied to them in the form of a pay increase for 2006 or 2007 under section 732(c)(3) of title 31, United States Code, or any other law. Notwithstanding any other provision of law, no court or administrative body, including the Government Accountability Office Personnel Appeals Board, shall have jurisdiction to entertain any civil action or other civil proceeding based on the claim of such individuals that they were due money in the form of a pay increase for 2006 or 2007 pursuant to such section 732(c)(3) or any other law."
 
 #### Lump-Sum Payment for Certain Performance-Based Compensation
 
 Pub. L. 110–323, §4, Sept. 22, 2008, 122 Stat. 3543, provided that:
 
-“(a)
+"(a)
 
 In General.—Not later than 6 months after the date of the enactment of this Act \[Sept. 22, 2008\], the Comptroller General shall, subject to the availability of appropriations, pay to each qualified individual a lump-sum payment equal to the amount of performance-based compensation such individual was denied for 2006, as determined under subsection (b).
 
-“(b)
+"(b)
 
 Amount.—The amount payable to a qualified individual under this section shall be equal to—
 
-&emsp;“(1) the total amount of performance-based compensation such individual would have earned for 2006 (determined by applying the Government Accountability Office's performance-based compensation system under GAO Orders 2540.3 and 2540.4, as in effect in 2006) if such individual had not had a salary equal to or greater than the maximum for such individual's band (as further described in subsection (c)(2)), less
+&emsp;"(1) the total amount of performance-based compensation such individual would have earned for 2006 (determined by applying the Government Accountability Office's performance-based compensation system under GAO Orders 2540.3 and 2540.4, as in effect in 2006) if such individual had not had a salary equal to or greater than the maximum for such individual's band (as further described in subsection (c)(2)), less
 
-&emsp;“(2) the total amount of performance-based compensation such individual was in fact granted, in January 2006, for that year.
+&emsp;"(2) the total amount of performance-based compensation such individual was in fact granted, in January 2006, for that year.
 
-“(c)
+"(c)
 
-Qualified Individual.—For purposes of this section, the term ‘qualified individual’ means an individual who—
+Qualified Individual.—For purposes of this section, the term 'qualified individual' means an individual who—
 
-&emsp;“(1) as of the date of the enactment of this Act, is an officer or employee of the Government Accountability Office, excluding—
+&emsp;"(1) as of the date of the enactment of this Act, is an officer or employee of the Government Accountability Office, excluding—
 
-&emsp;&emsp;“(A) an individual holding a position subject to section 732a or 733 of title 31, United States Code (disregarding section 732a(b) and 733(c) of such title);
+&emsp;&emsp;"(A) an individual holding a position subject to section 732a or 733 of title 31, United States Code (disregarding section 732a(b) and 733(c) of such title);
 
-&emsp;&emsp;“(B) a Federal Wage System employee; and
+&emsp;&emsp;"(B) a Federal Wage System employee; and
 
-&emsp;&emsp;“(C) an individual participating in a development program under which such individual receives performance appraisals, and is eligible to receive permanent merit pay increases, more than once a year; and
+&emsp;&emsp;"(C) an individual participating in a development program under which such individual receives performance appraisals, and is eligible to receive permanent merit pay increases, more than once a year; and
 
-&emsp;“(2) as of January 22, 2006, was a Band I staff member with a salary above the Band I cap, a Band IIA staff member with a salary above the Band IIA cap, or an administrative professional or support staff member with a salary above the cap for that individual's pay band (determined in accordance with the orders cited in subsection (b)(1)).
+&emsp;"(2) as of January 22, 2006, was a Band I staff member with a salary above the Band I cap, a Band IIA staff member with a salary above the Band IIA cap, or an administrative professional or support staffmember with a salary above the cap for that individual's pay band (determined in accordance with the orders cited in subsection (b)(1)).
 
-“(d)
+"(d)
 
 Exclusive Remedy.—This section constitutes the exclusive remedy that any officers and employees (as described in subsection (c)) have for any claim that they are owed any monies denied to them in the form of merit pay for 2006 under section 731(b) of title 31, United States Code, or any other law. Notwithstanding any other provision of law, no court or administrative body in the United States, including the Government Accountability Office Personnel Appeals Board, shall have jurisdiction to entertain any civil action or other civil proceeding based on the claim of such officers or employees that they were due money in the form of merit pay for 2006 pursuant to such section 731(b) or any other law.
 
-“(e)
+"(e)
 
 Definitions.—For purposes of this section—
 
-&emsp;“(1) the term ‘performance-based compensation’ has the meaning given such term under the Government Accountability Office's performance-based compensation system under GAO Orders 2540.3 and 2540.4, as in effect in 2006; and
+&emsp;"(1) the term 'performance-based compensation' has the meaning given such term under the Government Accountability Office's performance-based compensation system under GAO Orders 2540.3 and 2540.4, as in effect in 2006; and
 
-&emsp;“(2) the term ‘permanent merit pay increase’ means an increase under section 731(b) of title 31, United States Code, in a rate of basic pay.”
+&emsp;"(2) the term 'permanent merit pay increase' means an increase under section 731(b) of title 31, United States Code, in a rate of basic pay."
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
@@ -438,5 +438,5 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Government Accountability Office”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "Government Accountability Office".</i>
 

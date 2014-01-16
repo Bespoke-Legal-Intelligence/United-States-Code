@@ -14,15 +14,15 @@
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–106, §203(d), substituted “contracts using competitive procedures. The Executive Director may enter into” for “contracts or” and “law. In either case,” for “law, except that”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–106, §203(d), substituted "contracts using competitive procedures. The Executive Director may enter into" for "contracts or" and "law. In either case," for "law, except that".
 
-Subsec. (d)(2). Pub. L. 104–106, §203(e)(1), struck out at end “The authority provided in the preceding sentence shall expire on September 30, 1995.”
+Subsec. (d)(2). Pub. L. 104–106, §203(e)(1), struck out at end "The authority provided in the preceding sentence shall expire on September 30, 1995."
 
-<b>1993</b>—Subsec. (d)(2). Pub. L. 103–160 substituted “September 30, 1995” for “November 5, 1992”.
+<b>1993</b>—Subsec. (d)(2). Pub. L. 103–160 substituted "September 30, 1995" for "November 5, 1992".
 
-<b>1991</b>—Subsec. (d)(2). Pub. L. 102–25 substituted “on November 5, 1992” for “two years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1991”.
+<b>1991</b>—Subsec. (d)(2). Pub. L. 102–25 substituted "on November 5, 1992" for "two years after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1991".
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–106, div. A, title II, §203(e)(2), Feb. 10, 1996, 110 Stat. 218, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as of September 29, 1995.”
+Pub. L. 104–106, div. A, title II, §203(e)(2), Feb. 10, 1996, 110 Stat. 218, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect as of September 29, 1995."
 

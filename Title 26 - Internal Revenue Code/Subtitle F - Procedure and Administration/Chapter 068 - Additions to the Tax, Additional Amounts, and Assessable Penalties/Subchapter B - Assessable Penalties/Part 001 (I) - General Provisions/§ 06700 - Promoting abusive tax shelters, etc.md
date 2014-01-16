@@ -16,7 +16,7 @@ Any person who—
 
 &emsp;(2) makes or furnishes or causes another person to make or furnish (in connection with such organization or sale)—
 
-&emsp;&emsp;(A) a statement with respect to the allowability of any deduction or credit, the excludability of any income, or the securing of any other tax benefit by reason of holding an interest in the entity or participating in theplan or arrangement which the person knows or has reason to know is false or fraudulent as to any material matter, or
+&emsp;&emsp;(A) a statement with respect to the allowability of any deduction or credit, the excludability of any income, or the securing of any other tax benefit by reason of holding an interest in the entity or participating in the plan or arrangement which the person knows or has reason to know is false or fraudulent as to any material matter, or
 
 &emsp;&emsp;(B) a gross valuation overstatement as to any material matter,
 
@@ -26,7 +26,7 @@ Any person who—
 
 #### (1) Gross valuation overstatement defined
 
-&emsp;For purposes of this section, the term “gross valuation overstatement” means any statement as to the value of any property or services if—
+&emsp;For purposes of this section, the term "gross valuation overstatement" means any statement as to the value of any property or services if—
 
 &emsp;&emsp;(A) the value so stated exceeds 200 percent of the amount determined to be the correct valuation, and
 
@@ -44,29 +44,29 @@ The penalty imposed by this section shall be in addition to any other penalty pr
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–357 inserted at end of concluding provisions “Notwithstanding the first sentence, if an activity with respect to which a penalty imposed under this subsection involves a statement described in paragraph (2)(A), the amount of the penalty shall be equal to 50 percent of the gross income derived (or to be derived) from such activity by the person on which the penalty is imposed.”
+<b>2004</b>—Subsec. (a). Pub. L. 108–357 inserted at end of concluding provisions "Notwithstanding the first sentence, if an activity with respect to which a penalty imposed under this subsection involves a statement described in paragraph (2)(A), the amount of the penalty shall be equal to 50 percent of the gross income derived (or to be derived) from such activity by the person on which the penalty is imposed."
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7734(a)(3), added concluding provision and struck out former concluding provision which read as follows: “shall pay a penalty equal to the greater of $1,000 or 20 percent of the gross income derived or to be derived by such person from such activity.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–239, §7734(a)(3), added concluding provision and struck out former concluding provision which read as follows: "shall pay a penalty equal to the greater of $1,000 or 20 percent of the gross income derived or to be derived by such person from such activity."
 
-Subsec. (a)(1)(B). Pub. L. 101–239, §7734(a)(1), inserted “(directly or indirectly)” after “participates”.
+Subsec. (a)(1)(B). Pub. L. 101–239, §7734(a)(1), inserted "(directly or indirectly)" after "participates".
 
-Subsec. (a)(2). Pub. L. 101–239, §7734(a)(2), inserted “or causes another person to make or furnish” after “makes or furnishes” in introductory provisions.
+Subsec. (a)(2). Pub. L. 101–239, §7734(a)(2), inserted "or causes another person to make or furnish" after "makes or furnishes" in introductory provisions.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted “20 percent” for “10 percent”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted "20 percent" for "10 percent".
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §818(b), Oct. 22, 2004, 118 Stat. 1584, provided that: “The amendment made by this section \[amending this section\] shall apply to activities after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §818(b), Oct. 22, 2004, 118 Stat. 1584, provided that: "The amendment made by this section \[amending this section\] shall apply to activities after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–239, title VII, §7734(b), Dec. 19, 1989, 103 Stat. 2403, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to activities after December 31, 1989.”
+Pub. L. 101–239, title VII, §7734(b), Dec. 19, 1989, 103 Stat. 2403, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to activities after December 31, 1989."
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title I, §143(c), July 18, 1984, 98 Stat. 682, provided that: “The amendments made by this section \[amending this section and section 7408 of this title\] shall take effect on the day after the date of the enactment of this Act \[July 18, 1984\].”
+Pub. L. 98–369, div. A, title I, §143(c), July 18, 1984, 98 Stat. 682, provided that: "The amendments made by this section \[amending this section and section 7408 of this title\] shall take effect on the day after the date of the enactment of this Act \[July 18, 1984\]."
 
 #### Effective Date
 
-Pub. L. 97–248, title III, §320(c), Sept. 3, 1982, 96 Stat. 612, provided that: “The amendments made by this section \[enacting this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Pub. L. 97–248, title III, §320(c), Sept. 3, 1982, 96 Stat. 612, provided that: "The amendments made by this section \[enacting this section\] shall take effect on the day after the date of the enactment of this Act \[Sept. 3, 1982\]."
 

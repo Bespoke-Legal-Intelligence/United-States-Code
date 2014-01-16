@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (1) Disqualified individual
 
-&emsp;The term “disqualified individual” means, with respect to a corporation, any individualwho, at any time during the 12-month period beginning on the date which is 6 months before the expatriation date—
+&emsp;The term "disqualified individual" means, with respect to a corporation, any individual who, at any time during the 12-month period beginning on the date which is 6 months before the expatriation date—
 
 &emsp;&emsp;(A) is subject to the requirements of section 16(a) of the Securities Exchange Act of 1934 with respect to such corporation or any member of the expanded affiliated group which includes such corporation, or
 
@@ -58,17 +58,17 @@ For purposes of this section—
 
 #### (A) Expatriated corporation
 
-&emsp;&emsp;The term “expatriated corporation” means any corporation which is an expatriated entity (as defined in section 7874(a)(2)). Such term includes any predecessor or successor of such a corporation.
+&emsp;&emsp;The term "expatriated corporation" means any corporation which is an expatriated entity (as defined in section 7874(a)(2)). Such term includes any predecessor or successor of such a corporation.
 
 #### (B) Expatriation date
 
-&emsp;&emsp;The term “expatriation date” means, with respect to a corporation, the date on which the corporation first becomes an expatriated corporation.
+&emsp;&emsp;The term "expatriation date" means, with respect to a corporation, the date on which the corporation first becomes an expatriated corporation.
 
 #### (3) Specified stock compensation
 
 #### (A) In general
 
-&emsp;&emsp;The term “specified stock compensation” means payment (or right to payment) granted by the expatriated corporation (or by any member of the expanded affiliated group which includes such corporation) to any person in connection with the performance of services by a disqualified individual for such corporation or member if the value of such payment or right is based on (or determined by reference to) the value (or change in value) of stock in such corporation (or any such member).
+&emsp;&emsp;The term "specified stock compensation" means payment (or right to payment) granted by the expatriated corporation (or by any member of the expanded affiliated group which includes such corporation) to any person in connection with the performance of services by a disqualified individual for such corporation or member if the value of such payment or right is based on (or determined by reference to) the value (or change in value) of stock in such corporation (or any such member).
 
 #### (B) Exceptions
 
@@ -80,7 +80,7 @@ For purposes of this section—
 
 #### (4) Expanded affiliated group
 
-&emsp;The term “expanded affiliated group” means an affiliated group (as defined in section 1504(a) without regard to section 1504(b)(3)); except that section 1504(a) shall be applied by substituting “more than 50 percent” for “at least 80 percent” each place it appears.
+&emsp;The term "expanded affiliated group" means an affiliated group (as defined in section 1504(a) without regard to section 1504(b)(3)); except that section 1504(a) shall be applied by substituting "more than 50 percent" for "at least 80 percent" each place it appears.
 
 #### (f) Special rules
 
@@ -140,7 +140,7 @@ Section 4992, added Pub. L. 96–223, title I, §101(a)(1), Apr. 2, 1980, 94 Sta
 
 Section 4993, added Pub. L. 96–223, title I, §101(a)(1), Apr. 2, 1980, 94 Stat. 239; amended Pub. L. 97–448, title II, §201(e), Jan. 12, 1983, 96 Stat. 2392, related to incremental tertiary oil.
 
-Section 4994, added Pub. L. 96–223, title I, §101(a)(1), Apr. 2, 1980, 94 Stat. 241; amended Pub. L. 97–34, title VI,§§601(b)(2), 603(b), 604(a)–(c), Aug. 13, 1981, 95 Stat. 337–339; Pub. L. 97–248, title II, §291, Sept. 3, 1982, 96 Stat. 572; Pub. L. 97–448, title I, §106(a)(2), (4)(B), (b), title II, §201(f), Jan. 12, 1983, 96 Stat. 2388, 2390, 2392, related to definitions and special rules with respect to exempt oil.
+Section 4994, added Pub. L. 96–223, title I, §101(a)(1), Apr. 2, 1980, 94 Stat. 241; amended Pub. L. 97–34, title VI, §§601(b)(2), 603(b), 604(a)–(c), Aug. 13, 1981, 95 Stat. 337–339; Pub. L. 97–248, title II, §291, Sept. 3, 1982, 96 Stat. 572; Pub. L. 97–448, title I, §106(a)(2), (4)(B), (b), title II, §201(f), Jan. 12, 1983, 96 Stat. 2388, 2390, 2392, related to definitions and special rules with respect to exempt oil.
 
 Section 4995, added Pub. L. 96–223, title I, §101(a)(1), Apr. 2, 1980, 94 Stat. 244; amended Pub. L. 97–34, title VI, §601(b)(3), Aug. 13, 1981, 95 Stat. 337; Pub. L. 97–448, title II, §201(g), Jan. 12, 1983, 96 Stat. 2393, related to withholding and depository requirements bearing on the windfall profit tax.
 
@@ -152,5 +152,5 @@ Section 4998, added Pub. L. 96–223, title I, §101(a)(1), Apr. 2, 1980, 94 Sta
 
 #### Effective Date
 
-Pub. L. 108–357, title VIII, §802(d), Oct. 22, 2004, 118 Stat. 1568, provided that: “The amendments made by this section \[enacting this chapter and amending sections 162, 275, and 3121 of this title\] shall take effect on March 4, 2003; except that periods before such date shall not be taken into account in applying the periods in subsections (a) and (e)(1) of section 4985 of the Internal Revenue Code of 1986, as added by this section.”
+Pub. L. 108–357, title VIII, §802(d), Oct. 22, 2004, 118 Stat. 1568, provided that: "The amendments made by this section \[enacting this chapter and amending sections 162, 275, and 3121 of this title\] shall take effect on March 4, 2003; except that periods before such date shall not be taken into account in applying the periods in subsections (a) and (e)(1) of section 4985 of the Internal Revenue Code of 1986, as added by this section."
 

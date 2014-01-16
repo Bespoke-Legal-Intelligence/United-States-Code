@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—National Mining Hall of Fame and Museum (in this chapter, the “corporation”), incorporated in Colorado, is a federally chartered corporation.
+Federal Charter.—National Mining Hall of Fame and Museum (in this chapter, the "corporation"), incorporated in Colorado, is a federally chartered corporation.
 
 (b)
 

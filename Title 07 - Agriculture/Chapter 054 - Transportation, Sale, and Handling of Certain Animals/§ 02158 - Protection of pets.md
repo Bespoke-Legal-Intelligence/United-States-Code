@@ -70,7 +70,7 @@
 
 #### (2) Subsequent violations
 
-&emsp;Any dealer who violates this section more than one time shall be subject to a fine of$5,000 per dog or cat acquired or sold in violation of this section.
+&emsp;Any dealer who violates this section more than one time shall be subject to a fine of $5,000 per dog or cat acquired or sold in violation of this section.
 
 #### (3) Permanent revocations
 
@@ -84,5 +84,5 @@ Not later than 180 days after November 28, 1990, the Secretary shall promulgate 
 
 #### Amendments
 
-<b>1991</b>—Subsec. (b)(2)(F). Pub. L. 102–237 substituted “subsection (a)” for “subsection (b)”.
+<b>1991</b>—Subsec. (b)(2)(F). Pub. L. 102–237 substituted "subsection (a)" for "subsection (b)".
 

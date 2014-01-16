@@ -82,43 +82,43 @@
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–414, §4(1), substituted “subsections (b) and (c)” for “subsection (b)” in introductory provisions.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–414, §4(1), substituted "subsections (b) and (c)" for "subsection (b)" in introductory provisions.
 
 Subsec. (c). Pub. L. 110–414, §4(2), added subsec. (c).
 
 #### Findings
 
-Pub. L. 110–414, §2, Oct. 14, 2008, 122 Stat. 4341, provided that: “Congress finds that—
+Pub. L. 110–414, §2, Oct. 14, 2008, 122 Stat. 4341, provided that: "Congress finds that—
 
-&emsp;“(1) mercury is highly toxic to humans, ecosystems, and wildlife;
+&emsp;"(1) mercury is highly toxic to humans, ecosystems, and wildlife;
 
-&emsp;“(2) as many as 10 percent of women in the United States of childbearing age have mercury in the blood at a level that could put a baby at risk;
+&emsp;"(2) as many as 10 percent of women in the United States of childbearing age have mercury in the blood at a level that could put a baby at risk;
 
-&emsp;“(3) as many as 630,000 children born annually in the United States are at risk of neurological problems related to mercury;
+&emsp;"(3) as many as 630,000 children born annually in the United States are at risk of neurological problems related to mercury;
 
-&emsp;“(4) the most significant source of mercury exposure to people in the United States is ingestion of mercury-contaminated fish;
+&emsp;"(4) the most significant source of mercury exposure to people in the United States is ingestion of mercury-contaminated fish;
 
-&emsp;“(5) the Environmental Protection Agency reports that, as of 2004—
+&emsp;"(5) the Environmental Protection Agency reports that, as of 2004—
 
-&emsp;&emsp;“(A) 44 States have fish advisories covering over 13,000,000 lake acres and over 750,000 river miles;
+&emsp;&emsp;"(A) 44 States have fish advisories covering over 13,000,000 lake acres and over 750,000 river miles;
 
-&emsp;&emsp;“(B) in 21 States the freshwater advisories are statewide; and
+&emsp;&emsp;"(B) in 21 States the freshwater advisories are statewide; and
 
-&emsp;&emsp;“(C) in 12 States the coastal advisories are statewide;
+&emsp;&emsp;"(C) in 12 States the coastal advisories are statewide;
 
-&emsp;“(6) the long-term solution to mercury pollution is to minimize global mercury use and releases to eventually achieve reduced contamination levels in the environment, rather than reducing fish consumption since uncontaminated fish represents a critical and healthy source of nutrition worldwide;
+&emsp;"(6) the long-term solution to mercury pollution is to minimize global mercury use and releases to eventually achieve reduced contamination levels in the environment, rather than reducing fish consumption since uncontaminated fish represents a critical and healthy source of nutrition worldwide;
 
-&emsp;“(7) mercury pollution is a transboundary pollutant, depositing locally, regionally, and globally, and affecting water bodies near industrial sources (including the Great Lakes) and remote areas (including the Arctic Circle);
+&emsp;"(7) mercury pollution is a transboundary pollutant, depositing locally, regionally, and globally, and affecting water bodies near industrial sources (including the Great Lakes) and remote areas (including the Arctic Circle);
 
-&emsp;“(8) the free trade of elemental mercury on the world market, at relatively low prices and in ready supply, encourages the continued use of elemental mercury outside of the United States, often involving highly dispersive activities such as artisinal \[probably should be “artisanal”\] gold mining;
+&emsp;"(8) the free trade of elemental mercury on the world market, at relatively low prices and in ready supply, encourages the continued use of elemental mercury outside of the United States, often involving highly dispersive activities such as artisinal \[probably should be "artisanal"\] gold mining;
 
-&emsp;“(9) the intentional use of mercury is declining in the United States as a consequence of process changes to manufactured products (including batteries, paints, switches, and measuring devices), but those uses remain substantial in the developing world where releases from the products are extremely likely due to the limited pollution control and waste management infrastructures in those countries;
+&emsp;"(9) the intentional use of mercury is declining in the United States as a consequence of process changes to manufactured products (including batteries, paints, switches, and measuring devices), but those uses remain substantial in the developing world where releases from the products are extremely likely due to the limited pollution control and waste management infrastructures in those countries;
 
-&emsp;“(10) the member countries of the European Union collectively are the largest source of elemental mercury exports globally;
+&emsp;"(10) the member countries of the European Union collectively are the largest source of elemental mercury exports globally;
 
-&emsp;“(11) the European Commission has proposed to the European Parliament and to the Council of the European Union a regulation to ban exports of elemental mercury from the European Union by 2011;
+&emsp;"(11) the European Commission has proposed to the European Parliament and to the Council of the European Union a regulation to ban exports of elemental mercury from the European Union by 2011;
 
-&emsp;“(12) the United States is a net exporter of elemental mercury and, according to the United States Geological Survey, exported 506 metric tons of elemental mercury more than the United States imported during the period of 2000 through 2004; and
+&emsp;"(12) the United States is a net exporter of elemental mercury and, according to the United States Geological Survey, exported 506 metric tons of elemental mercury more than the United States imported during the period of 2000 through 2004; and
 
-&emsp;“(13) banning exports of elemental mercury from the United States will have a notable effect on the market availability of elemental mercury and switching to affordable mercury alternatives in the developing world.”
+&emsp;"(13) banning exports of elemental mercury from the United States will have a notable effect on the market availability of elemental mercury and switching to affordable mercury alternatives in the developing world."
 

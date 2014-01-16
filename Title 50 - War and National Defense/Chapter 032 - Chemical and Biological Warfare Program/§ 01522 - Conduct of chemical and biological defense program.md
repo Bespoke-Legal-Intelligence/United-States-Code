@@ -16,7 +16,7 @@ In carrying out his responsibilities under this section, the Secretary of Defens
 
 #### (c) Coordination of program
 
-(1) The Secretary of Defense shall designate the Army as executive agent for the Department of Defense to coordinate and integrate research, development, test, and evaluation, and acquisition, requirements of the military departments for chemical and biological warfare defense programs of the Department of Defense.
+(1) The Secretary of Defense shall designate the Army as executive agent for the Departmentof Defense to coordinate and integrate research, development, test, and evaluation, and acquisition, requirements of the military departments for chemical and biological warfare defense programs of the Department of Defense.
 
 (2) The Director of the Defense Advanced Research Projects Agency may conduct a program of basic and applied research and advanced technology development on chemical and biological warfare defense technologies and systems. In conducting such program, the Director shall seek to avoid unnecessary duplication of the activities under the program with chemical and biological warfare defense activities of the military departments and defense agencies and shall coordinate the activities under the program with those of the military departments and defense agencies.
 
@@ -62,15 +62,15 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–201, §228(a), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (d)(1). Pub. L. 104–201, §228(b)(1), substituted “program for the Department of Defense” for “program for the military departments”.
+Subsec. (d)(1). Pub. L. 104–201, §228(b)(1), substituted "program for the Department of Defense" for "program for the military departments".
 
-Subsec. (d)(2). Pub. L. 104–201, §228(b)(2), in first sentence, inserted “(other than for activities under the program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2) of this section)” after “requests for the program”.
+Subsec. (d)(2). Pub. L. 104–201, §228(b)(2), in first sentence, inserted "(other than for activities under the program conducted by the Defense Advanced Research Projects Agency under subsection (c)(2) of this section)" after "requests for the program".
 
 Subsec. (d)(3), (4). Pub. L. 104–201, §228(b)(3), (4), added par. (3) and redesignated former par. (3) as (4).
 
 #### National Bio-Weapons Defense Analysis Center
 
-Pub. L. 107–296, title XVII, §1708, Nov. 25, 2002, 116 Stat. 2318, provided that: “There is established in the Department of Defense a National Bio-Weapons Defense Analysis Center, whose mission is to develop countermeasures to potential attacks by terrorists using weapons of mass destruction.”
+Pub. L. 107–296, title XVII, §1708, Nov. 25, 2002, 116 Stat. 2318, provided that: "There is established in the Department of Defense a National Bio-Weapons Defense Analysis Center, whose mission is to develop countermeasures to potential attacks by terrorists using weapons of mass destruction."
 
 \[For transfer of functions, personnel, assets, and liabilities of the National Bio-Weapons Defense Analysis Center of the Department of Defense, including the functions of the Secretary of Defense related thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 183(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
@@ -78,109 +78,109 @@ Pub. L. 107–296, title XVII, §1708, Nov. 25, 2002, 116 Stat. 2318, provided t
 
 Pub. L. 105–261, div. A, title II, §247, Oct. 17, 1998, 112 Stat. 1956, provided that:
 
-“(a)
+"(a)
 
 Review and Modification of Policies and Doctrines.—The Secretary of Defense shall review the policies and doctrines of the Department of Defense on chemical warfare defense and modify the policies and doctrine as appropriate to achieve the objectives set forth in subsection (b).
 
-“(b)
+"(b)
 
 Objectives.—The objectives for the modification of policies and doctrines of the Department of Defense on chemical warfare defense are as follows:
 
-&emsp;“(1) To provide for adequate protection of personnel from any exposure to a chemical warfare agent (including chronic and low-level exposure to a chemical warfare agent) that would endanger the health of exposed personnel because of the deleterious effects of—
+&emsp;"(1) To provide for adequate protection of personnel from any exposure to a chemical warfare agent (including chronic and low-level exposure to a chemical warfare agent) that would endanger the health of exposed personnel because of the deleterious effects of—
 
-&emsp;&emsp;“(A) a single exposure to the agent;
+&emsp;&emsp;"(A) a single exposure to the agent;
 
-&emsp;&emsp;“(B) exposure to the agent concurrently with other dangerous exposures, such as exposures to—
+&emsp;&emsp;"(B) exposure to the agent concurrently with other dangerous exposures, such as exposures to—
 
-&emsp;&emsp;&emsp;“(i) other potentially toxic substances in the environment, including pesticides, other insect and vermin control agents, and environmental pollutants;
+&emsp;&emsp;&emsp;"(i) other potentially toxic substances in the environment, including pesticides, other insect and vermin control agents, and environmental pollutants;
 
-&emsp;&emsp;&emsp;“(ii) low-grade nuclear and electromagnetic radiation present in the environment;
+&emsp;&emsp;&emsp;"(ii) low-grade nuclear and electromagnetic radiation present in the environment;
 
-&emsp;&emsp;&emsp;“(iii) preventive medications (that are dangerous when taken concurrently with other dangerous exposures referred to in this paragraph);
+&emsp;&emsp;&emsp;"(iii) preventive medications (that are dangerous when taken concurrently with other dangerous exposures referred to in this paragraph);
 
-&emsp;&emsp;&emsp;“(iv) diesel fuel, jet fuel, and other hydrocarbon-based fuels; and
+&emsp;&emsp;&emsp;"(iv) diesel fuel, jet fuel, and other hydrocarbon-based fuels; and
 
-&emsp;&emsp;&emsp;“(v) occupational hazards, including battlefield hazards; and
+&emsp;&emsp;&emsp;"(v) occupational hazards, including battlefield hazards; and
 
-&emsp;&emsp;“(C) repeated exposures to the agent, or some combination of one or more exposures to the agent and other dangerous exposures referred to in subparagraph (B), over time.
+&emsp;&emsp;"(C) repeated exposures to the agent, or some combination of one or more exposures to the agentand other dangerous exposures referred to in subparagraph (B), over time.
 
-&emsp;“(2) To provide for—
+&emsp;"(2) To provide for—
 
-&emsp;&emsp;“(A) the prevention of and protection against, and the detection (including confirmation) of, exposures to a chemical warfare agent (whether intentional or inadvertent) at levels that, even if not sufficient to endanger health immediately, are greater than the level that is recognized under Department of Defense policies as being the maximum safe level of exposure to that agent for the general population; and
+&emsp;&emsp;"(A) the prevention of and protection against, and the detection (including confirmation) of, exposures to a chemical warfare agent (whether intentional or inadvertent) at levels that, even if not sufficient to endanger health immediately, are greater than the level that is recognized under Department of Defense policies as being the maximum safe level of exposure to that agent for the general population; and
 
-&emsp;&emsp;“(B) the recording, reporting, coordinating, and retaining of information on possible exposures described in subparagraph (A), including the monitoring of the health effects of exposures on humans and animals, environmental effects, and ecological effects, and the documenting and reporting of those effects specifically by location.
+&emsp;&emsp;"(B) the recording, reporting, coordinating, and retaining of information on possible exposures described in subparagraph (A), including the monitoring of the health effects of exposures on humans and animals, environmental effects, and ecological effects, and the documenting and reporting of those effects specifically by location.
 
-&emsp;“(3) To provide solutions for the concerns and mission requirements that are specifically applicable for one or more of the Armed Forces in a protracted conflict when exposures to chemical agents could be complex, dynamic, and occurring over an extended period.
+&emsp;"(3) To provide solutions for the concerns and mission requirements that are specifically applicable for one or more of the Armed Forces in a protracted conflict when exposures to chemical agents could be complex, dynamic, and occurring over an extended period.
 
-“(c)
+"(c)
 
 Research Program.—The Secretary of Defense shall develop and carry out a plan to establish a research program for determining the effects of exposures to chemical warfare agents of the type described in subsection (b). The research shall be designed to yield results that can guide the Secretary in the evolution of policy and doctrine on exposures to chemical warfare agents and to develop new risk assessment methods and instruments with respect to such exposures. The plan shall state the objectives and scope of the program and include a 5-year funding plan.
 
-“(d)
+"(d)
 
 Report.—Not later than May 1, 1999, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the results of the review under subsection (a) and on the research program developed under subsection (c). The report shall include the following:
 
-&emsp;“(1) Each modification of chemical warfare defense policy and doctrine resulting from the review.
+&emsp;"(1) Each modification of chemical warfare defense policy and doctrine resulting from the review.
 
-&emsp;“(2) Any recommended legislation regarding chemical warfare defense.
+&emsp;"(2) Any recommended legislation regarding chemical warfare defense.
 
-&emsp;“(3) The plan for the research program.”
+&emsp;"(3) The plan for the research program."
 
 #### Study of Facility for Training and Evaluation of Chemical or Biological Weapons Response Personnel
 
 Pub. L. 104–132, title V, §521(b), Apr. 24, 1996, 110 Stat. 1286, provided that:
 
-“(1)
+"(1)
 
 Findings.—The Congress finds that—
 
-&emsp;“(A) the threat of the use of chemical and biological weapons by Third World countries and by terrorist organizations has increased in recent years and is now a problem of worldwide significance;
+&emsp;"(A) the threat of the use of chemical and biological weapons by Third World countries and by terrorist organizations has increased in recent years and is now a problem of worldwide significance;
 
-&emsp;“(B) the military and law enforcement agencies in the United States that are responsible for responding to the use of such weapons require additional testing, training, and evaluation facilities to ensure that the personnel of such agencies discharge their responsibilities effectively; and
+&emsp;"(B) the military and law enforcement agencies in the United States that are responsible for responding to the use of such weapons require additional testing, training, and evaluation facilities to ensure that the personnel of such agencies discharge their responsibilities effectively; and
 
-&emsp;“(C) a facility that recreates urban and suburban locations would provide an especially effective environment in which to test, train, and evaluate such personnel for that purpose.
+&emsp;"(C) a facility that recreates urban and suburban locations would provide an especially effective environment in which to test, train, and evaluate such personnel for that purpose.
 
-“(2)
+"(2)
 
 Study of facility.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The President shall establish an interagency task force to determine the feasibility and advisability of establishing a facility that recreates both an urban environment and a suburban environment in such a way as to permit the effective testing, training, and evaluation in such environments of government personnel who are responsible for responding to the use of chemical and biological weapons in the United States.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Description of facility.—The facility considered under subparagraph (A) shall include—
 
-&emsp;&emsp;“(i) facilities common to urban environments (including a multistory building and an underground rail transit system) and to suburban environments;
+&emsp;&emsp;"(i) facilities common to urban environments (including a multistory building and an underground rail transit system) and to suburban environments;
 
-&emsp;&emsp;“(ii) the capacity to produce controllable releases of chemical and biological agents from a variety of urban and suburban structures, including laboratories, small buildings, and dwellings;
+&emsp;&emsp;"(ii) the capacity to produce controllable releases of chemical and biological agents from a variety of urban and suburban structures, including laboratories, small buildings, and dwellings;
 
-&emsp;&emsp;“(iii) the capacity to produce controllable releases of chemical and biological agents into sewage, water, and air management systems common to urban areas and suburban areas;
+&emsp;&emsp;"(iii) the capacity to produce controllable releases of chemical and biological agents into sewage, water, and air management systems common to urban areas and suburban areas;
 
-&emsp;&emsp;“(iv) chemical and biocontaminant facilities at the P3 and P4 levels;
+&emsp;&emsp;"(iv) chemical and biocontaminant facilities at the P3 and P4 levels;
 
-&emsp;&emsp;“(v) the capacity to test and evaluate the effectiveness of a variety of protective clothing and facilities and survival techniques in urban areas and suburban areas; and
+&emsp;&emsp;"(v) the capacity to test and evaluate the effectiveness of a variety of protective clothing and facilities and survival techniques in urban areas and suburban areas; and
 
-&emsp;&emsp;“(vi) the capacity to test and evaluate the effectiveness of variable sensor arrays (including video, audio, meteorological, chemical, and biosensor arrays) in urban areas and suburban areas.
+&emsp;&emsp;"(vi) the capacity to test and evaluate the effectiveness of variable sensor arrays (including video, audio, meteorological, chemical, and biosensor arrays) in urban areas and suburban areas.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Sense of congress.—It is the sense of Congress that the facility considered under subparagraph (A) shall, if established—
 
-&emsp;&emsp;“(i) be under the jurisdiction of the Secretary of Defense; and
+&emsp;&emsp;"(i) be under the jurisdiction of the Secretary of Defense; and
 
-&emsp;&emsp;“(ii) be located at a principal facility of the Department of Defense for the testing and evaluation of the use of chemical and biological weapons during any period of armed conflict.”
+&emsp;&emsp;"(ii) be located at a principal facility of the Department of Defense for the testing and evaluation of the use of chemical and biological weapons during any period of armed conflict."
 
 #### Consolidation of Chemical and Biological Defense Training Activities
 
-Pub. L. 103–160, div. A, title XVII, §1702, Nov. 30, 1993, 107 Stat. 1854, provided that: “The Secretary of Defense shall consolidate all chemical and biological warfare defense training activities of the Department of Defense at the United States Army Chemical School.”
+Pub. L. 103–160, div. A, title XVII, §1702, Nov. 30, 1993, 107 Stat. 1854, provided that: "The Secretary of Defense shall consolidate all chemical and biological warfare defense training activities of the Department of Defense at the United States Army Chemical School."
 
 #### Sense of Congress Concerning Federal Emergency Planning for Response to Terrorist Threats
 
-Pub. L. 103–160, div. A, title XVII, §1704, Nov. 30, 1993, 107 Stat. 1855, provided that: “It is the sense of Congress that the President should strengthen Federal interagency emergency planning by the Federal Emergency Management Agency and other appropriate Federal, State, and local agencies for development of a capability for early detection and warning of and response to—
+Pub. L. 103–160, div. A, title XVII, §1704, Nov. 30, 1993, 107 Stat. 1855, provided that: "It is the sense of Congress that the President should strengthen Federal interagency emergency planning by the Federal Emergency Management Agency and other appropriate Federal, State, and local agencies for development of a capability for early detection and warning of and response to—
 
-&emsp;“(1) potential terrorist use of chemical or biological agents or weapons; and
+&emsp;"(1) potential terrorist use of chemical or biological agents or weapons; and
 
-&emsp;“(2) emergencies or natural disasters involving industrial chemicals or the widespread outbreak of disease.”
+&emsp;"(2) emergencies or natural disasters involving industrial chemicals or the widespread outbreak of disease."
 

@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>1983</b>—Subsec. (a). Pub. L. 97–468 substituted “January 1, 1984” for “January 1, 1981”.
+<b>1983</b>—Subsec. (a). Pub. L. 97–468 substituted "January 1, 1984" for "January 1, 1981".
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 

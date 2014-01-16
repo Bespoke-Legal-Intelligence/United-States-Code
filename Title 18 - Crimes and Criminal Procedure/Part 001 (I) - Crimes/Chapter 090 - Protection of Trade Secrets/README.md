@@ -16,7 +16,7 @@
 
 #### Amendments
 
-<b>2002</b>—Pub. L. 107–273, div. B, title IV, §4002(f)(1), Nov. 2, 2002, 116 Stat. 1811, substituted “Applicability to conduct” for “Conduct” in item 1837.
+<b>2002</b>—Pub. L. 107–273, div. B, title IV, §4002(f)(1), Nov. 2, 2002, 116 Stat. 1811, substituted "Applicability to conduct" for "Conduct" in item 1837.
 
 
 ---

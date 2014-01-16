@@ -46,55 +46,55 @@ There are authorized to be appropriated to the Secretary for carrying out this p
 
 #### References in Text
 
-Section 2106, referred to in subsec. (a), means section 2106 of Pub. L. 102–486, which amended sections 5103, 5107, 5108, 5110, and 5307 of Title 15, Commerce and Trade.
+Section 2106, referred to in subsec. (a), means section 2106 of Pub. L. 102–486, which amended sections 5103,5107, 5108, 5110, and 5307 of Title 15, Commerce and Trade.
 
 The Steel and Aluminum Energy Conservation and Technology Competitiveness Act of 1988, referred to in subsec. (a), is Pub. L. 100–680, Nov. 17, 1988, 102 Stat. 4073, as amended, which is classified generally to chapter 77 (§5101 et seq.) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 5101 of Title 15 and Tables.
 
 The Department of Energy Metal Casting Competitiveness Research Act of 1990, referred to in subsec. (a), is Pub. L. 101–425, Oct. 15, 1990, 104 Stat. 915, as amended, which is classified generally to chapter 79 (§5301 et seq.) of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 15 and Tables.
 
-This part, referred to in subsecs. (c) and (e), was in the original “this subtitle” meaning subtitle A of title XXI of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 3067, which enacted this part and amended sections 5103, 5107, 5108, 5110, and 5307 of Title 15.
+This part, referred to in subsecs. (c) and (e), was in the original "this subtitle" meaning subtitle A of title XXI of Pub. L. 102–486, Oct. 24, 1992, 106 Stat. 3067, which enacted this part and amended sections 5103, 5107, 5108, 5110, and 5307 of Title 15.
 
 #### District Heating and Cooling Programs
 
 Pub. L. 102–486, title I, §172, Oct. 24, 1992, 106 Stat. 2865, as amended by Pub. L. 109–58, title II, §206(b), Aug. 8, 2005, 119 Stat. 655, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary, in consultation with appropriate industry organizations, shall conduct a study to—
 
-&emsp;“(1) assess existing district heating and cooling technologies to determine cost-effectiveness, technical performance, energy efficiency, and environmental impacts as compared to alternative methods for heating and cooling buildings;
+&emsp;"(1) assess existing district heating and cooling technologies to determine cost-effectiveness, technical performance, energy efficiency, and environmental impacts as compared to alternative methods for heating and cooling buildings;
 
-&emsp;“(2) estimate the economic value of benefits that may result from implementation of district heating and cooling systems but that are not currently recognized, such as reduced emissions of air pollutants, local economic development, and energy security;
+&emsp;"(2) estimate the economic value of benefits that may result from implementation of district heating and cooling systems but that are not currently recognized, such as reduced emissions of air pollutants, local economic development, and energy security;
 
-&emsp;“(3) evaluate the cost-effectiveness, including the economic value referred to in paragraph (2), of cogenerated district heating and cooling technologies compared to other alternatives for generating or conserving electricity;
+&emsp;"(3) evaluate the cost-effectiveness, including the economic value referred to in paragraph (2), of cogenerated district heating and cooling technologies compared to other alternatives for generating or conserving electricity;
 
-&emsp;“(4) assess and make recommendations for reducing institutional and other constraints on the implementation of district heating and cooling systems; and
+&emsp;"(4) assess and make recommendations for reducing institutional and other constraints on the implementation of district heating and cooling systems; and
 
-&emsp;“(5) evaluate the use of renewable energy systems (as such term is defined in section 415(c) of the Energy Conservation and Production Act (42 U.S.C. 6865(c))) in residential buildings.
+&emsp;"(5) evaluate the use of renewable energy systems (as such term is defined in section 415(c) of the Energy Conservation and Production Act (42 U.S.C. 6865(c))) in residential buildings.
 
-“(b)
+"(b)
 
-Report.—Not later than 2 years after the date of the enactment of the Energy Policy Act of 2005 \[Aug. 8, 2005\], the Secretary shall transmit to the Congress a report containing the findings, conclusions and recommendations, if any, of the Secretary for carrying out Federal, State, and local programs as a result of the study conducted under subsection (a).”
+Report.—Not later than 2 years after the date of the enactment of the Energy Policy Act of 2005 \[Aug. 8, 2005\], the Secretary shall transmit to the Congress a report containing the findings, conclusions and recommendations, if any, of the Secretary for carrying out Federal, State, and local programs as a result of the study conducted under subsection (a)."
 
 #### Study and Report on Vibration Reduction Technologies
 
 Pub. L. 102–486, title I, §173, Oct. 24, 1992, 106 Stat. 2865, as amended by Pub. L. 105–362, title IV, §401(c), Nov. 10, 1998, 112 Stat. 3282, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary shall, in consultation with the appropriate industry representatives, conduct a study to assess the cost-effectiveness, technical performance, energy efficiency, and environmental impacts of active noise and vibration cancellation technologies that use fast adapting algorithms.
 
-“(b)
+"(b)
 
 Procedure.—In carrying out such study, the Secretary shall—
 
-&emsp;“(1) estimate the potential for conserving energy and the economic and environmental benefits that may result from implementing active noise and vibration abatement technologies in demand side management; and
+&emsp;"(1) estimate the potential for conserving energy and the economic and environmental benefits that may result from implementing active noise and vibration abatement technologies in demand side management; and
 
-&emsp;“(2) evaluate the cost-effectiveness of active noise and vibration cancellation technologies as compared to other alternatives for reducing noise and vibration.
+&emsp;"(2) evaluate the cost-effectiveness of active noise and vibration cancellation technologies as compared to other alternatives for reducing noise and vibration.
 
-“(c)
+"(c)
 
-Demonstration.—The Secretary may, based on the findings and conclusions of the study carried out under this section, conduct at least one project designed to demonstrate the commercial application of active noise and vibration cancellation technologies using fast adapting algorithms in products or equipment with a significant potential for increased energy efficiency.”
+Demonstration.—The Secretary may, based on the findings and conclusions of the study carried out under this section, conduct at least one project designed to demonstrate the commercial application of active noise and vibration cancellation technologies using fast adapting algorithms in products or equipment with a significant potential for increased energy efficiency."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

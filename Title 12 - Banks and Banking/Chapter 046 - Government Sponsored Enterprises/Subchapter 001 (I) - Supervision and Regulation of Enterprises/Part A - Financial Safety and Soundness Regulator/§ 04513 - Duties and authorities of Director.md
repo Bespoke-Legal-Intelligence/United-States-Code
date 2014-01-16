@@ -60,7 +60,7 @@ The Director may delegate to officers and employees of the Agency any of the fun
 
 Prior to promulgating any regulation or taking any other formal or informal agency action of general applicability and future effect relating to the Federal Home Loan Banks (other than any regulation, advisory document, or examination guidance of the Federal Housing Finance Board that the Director reissues after the authority of the Director over the Federal Home Loan Banks takes effect), including the issuance of an advisory document or examination guidance, the Director shall consider the differences between the Federal Home Loan Banks and the enterprises with respect to—
 
-&emsp;(1) the Banks’—
+&emsp;(1) the Banks'—
 
 &emsp;&emsp;(A) cooperative ownership structure;
 
@@ -78,7 +78,7 @@ Prior to promulgating any regulation or taking any other formal or informal agen
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1)(B)(iii), (iv) and (c), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1)(B)(iii), (iv) and (c), was in the original "this title", meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
 This Act, referred to in subsec. (a)(3)(A), is Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3672, known as the Housing and Community Development Act of 1992. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 5301 of Title 42, The Public Health and Welfare, and Tables.
 
@@ -92,7 +92,7 @@ Subsec. (a)(3). Pub. L. 110–289, §1118, added par. (3).
 
 Subsec. (f). Pub. L. 110–289, §1201, added subsec. (f).
 
-<b>1998</b>—Subsec. (b)(9) to (12). Pub. L. 105–276, which directed the amendment of subsec. (b) by redesignating pars. (9) to (11) as (10) to (12), respectively, and adding a new par. (9) which read “default loss protection levels under section 1454(a)(2)(D) of this title;” was repealed by Pub. L. 105–277, effective upon enactment of Pub. L. 105–276.
+<b>1998</b>—Subsec. (b)(9) to (12). Pub. L. 105–276, which directed the amendment of subsec. (b) by redesignating pars. (9) to (11) as (10) to (12), respectively, and adding a new par. (9) which read "default loss protection levels under section 1454(a)(2)(D) of this title;" was repealed by Pub. L. 105–277, effective upon enactment of Pub. L. 105–276.
 
 #### Effective Date of 1998 Amendment
 
@@ -100,5 +100,5 @@ Pub. L. 105–277, div. A, §122, Oct. 21, 1998, 112 Stat. 2681–546, provided 
 
 <i><sup>1</sup></i><i> So in original. No subsecs. (d) and (e) have been enacted.</i>
 
-<i><sup>2</sup></i><i> So in original. The word “the” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

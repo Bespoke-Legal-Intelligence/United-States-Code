@@ -16,7 +16,7 @@
 
 #### (2) Stay by court
 
-&emsp;If the Administrator has promulgated regulations described in paragraph (1)(A), (B), or (C) within the prescribed period, but the effective date of such regulations has been stayed by a court for a period of more than 30 days, a local educational agency shall carry out the pertinent requirements described in this subsection in accordance with the Environmental Protection Agency's most current guidance document.
+&emsp;If the Administrator has promulgated regulations described in paragraph (1)(A), (B), or (C) within the prescribed period, but the effective date of such regulations has been stayed by a court for a period of more than 30 days, a local educational agency shall carry out thepertinent requirements described in this subsection in accordance with the Environmental Protection Agency's most current guidance document.
 
 #### (3) Effective period
 
@@ -100,9 +100,9 @@ The local educational agency shall provide for the protection of building occupa
 
 #### (f) Transportation and disposal
 
-The local educational agency shall provide for the transportation and disposal of asbestos in accordance with the most recent version of the Environmental Protection Agency's “Asbestos Waste Management Guidance” (or any successor to such document).
+The local educational agency shall provide for the transportation and disposal of asbestos inaccordance with the most recent version of the Environmental Protection Agency's "Asbestos Waste Management Guidance" (or any successor to such document).
 
 (Pub. L. 94–469, title II, §204, as added Pub. L. 99–519, §2, Oct. 22, 1986, 100 Stat. 2977.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection,".</i>
 

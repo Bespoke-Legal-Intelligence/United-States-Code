@@ -8,7 +8,7 @@
 
 #### (b) Eligibility
 
-(1) The Secretary, acting through the Service, shall award grants to community colleges thathave established a program described in subsection (a)(1) of this section for the purpose of maintaining the program and recruiting students for the program.
+(1) The Secretary, acting through the Service, shall award grants to community colleges that have established a program described in subsection (a)(1) of this section for the purpose of maintaining the program and recruiting students for the program.
 
 (2) Grants may only be made under this section to a community college which—
 
@@ -48,17 +48,17 @@ Any program receiving assistance under this section that is conducted with respe
 
 For purposes of this section—
 
-&emsp;(1) The term “community college” means—
+&emsp;(1) The term "community college" means—
 
 &emsp;&emsp;(A) a junior or community college that is a tribally controlled college or university, or
 
 &emsp;&emsp;(B) a junior or community college.
 
-&emsp;(2) The term “tribally controlled college or university” has the meaning given to such term by section 1801(a)(4) of this title.
+&emsp;(2) The term "tribally controlled college or university" has the meaning given to such term by section 1801(a)(4) of this title.
 
-&emsp;(3) The term “junior or community college” has the meaning given to such term by section 1058(e) <sup>1</sup> of title 20.
+&emsp;(3) The term "junior or community college" has the meaning given to such term by section 1058(e) <sup>1</sup> of title 20.
 
-(Pub. L. 94–437, title I, §115, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4797; amended Pub. L. 102–573, title I, §117(b)(7), Oct. 29, 1992, 106 Stat. 4544; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, §941(k)(2)(I)(ii), Aug. 14, 2008, 122 Stat. 3467.)
+(Pub. L. 94–437, title I, §115, as added Pub. L. 100–713, title I, §109, Nov. 23, 1988, 102 Stat. 4797;amended Pub. L. 102–573, title I, §117(b)(7), Oct. 29, 1992, 106 Stat. 4544; Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828; Pub. L. 110–315, title IX, §941(k)(2)(I)(ii), Aug. 14, 2008, 122 Stat. 3467.)
 
 #### References in Text
 
@@ -66,9 +66,9 @@ Section 1058 of title 20, referred to in subsec. (e)(3), was amended by Pub. L. 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (e)(1)(A). Pub. L. 110–315, §941(k)(2)(I)(ii)(I), substituted “a junior or community college that is a tribally controlled college or university” for “a tribally controlled community college”.
+<b>2008</b>—Subsec. (e)(1)(A). Pub. L. 110–315, §941(k)(2)(I)(ii)(I), substituted "a junior or community college that is a tribally controlled college or university" for "a tribally controlled community college".
 
-Subsec. (e)(2). Pub. L. 110–315, §941(k)(2)(I)(ii)(II), added par. (2) and struck out former par. (2) which read as follows: “The term ‘tribally controlled community college’ has the meaning given to such term by section 1801(4) of this title.”
+Subsec. (e)(2). Pub. L. 110–315, §941(k)(2)(I)(ii)(II), added par. (2) and struck out former par. (2) which read as follows: "The term 'tribally controlled community college' has the meaning given to such term by section 1801(4) of this title."
 
 <b>1998</b>—Subsec. (e)(2). Pub. L. 105–244 made technical amendment to reference in original act which appears in text as reference to section 1801(4) of this title.
 

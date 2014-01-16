@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In considering programs and projects to be provided assistance under this subchapter, and in establishing a priority ranking of the requests for assistance provided to the Authority, the Authority shall follow procedures that ensure, to the maximum extent practicable, consideration of—
+In considering programs and projects to be provided assistance under this subchapter, and in establishing a priority ranking of the requests for assistance provided to the Authority,the Authority shall follow procedures that ensure, to the maximum extent practicable, consideration of—
 
 &emsp;(1) the relationship of the project or class of projects to overall multistate or regional development;
 
@@ -28,7 +28,7 @@ Funds may be provided for a program or project in a State under this subchapter 
 
 #### References in Text
 
-For definition of “this chapter”, referred to in subsec. (b), see note set out under section 1921 of this title.
+For definition of "this chapter", referred to in subsec. (b), see note set out under section 1921 of this title.
 
 #### Codification
 
@@ -40,7 +40,7 @@ A prior section 383I of Pub. L. 87–128, title III, was renumbered section 383J
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §6026(i), inserted “multistate or” before “regional”.
+<b>2008</b>—Subsec. (a)(1). Pub. L. 110–246, §6026(i), inserted "multistate or" before "regional".
 
 #### Effective Date of 2008 Amendment
 

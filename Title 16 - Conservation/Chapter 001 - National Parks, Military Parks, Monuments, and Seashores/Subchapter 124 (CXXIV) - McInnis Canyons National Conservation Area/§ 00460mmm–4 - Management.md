@@ -60,7 +60,7 @@ Subject to valid existing rights, lands designated as wilderness by this subchap
 
 #### (1) In general
 
-&emsp;Except as provided by paragraph (2), the Secretary shall issue and administer any grazing leases or permits in the Conservation Area andthe Wilderness in accordance with the same laws (including regulations) and Executive orders followed by the Secretary in issuing and administering grazing leases and permits on other land under the jurisdiction of the Bureau of Land Management.
+&emsp;Except as provided by paragraph (2), the Secretary shall issue and administer any grazing leases or permits in the Conservation Area and the Wilderness in accordance with the same laws (including regulations) and Executive orders followed by the Secretary in issuing and administering grazing leases and permits on other land under the jurisdiction of the Bureau of Land Management.
 
 #### (2) Grazing in wilderness
 
@@ -132,7 +132,7 @@ The Secretary may establish minimal interpretive facilities or sites in cooperat
 
 #### (4) New projects
 
-&emsp;(A) As used in this paragraph, the term “water resource facility” means irrigation andpumping facilities, reservoirs, water conservation works, aqueducts, canals, ditches, pipelines, wells, hydropower projects, and transmission and other ancillary facilities, and other water diversion, storage, and carriage structures. Such term does not include any such facilities related to or used for the purpose of livestock grazing.
+&emsp;(A) As used in this paragraph, the term "water resource facility" means irrigation and pumping facilities, reservoirs, water conservation works, aqueducts, canals, ditches, pipelines, wells, hydropower projects, and transmission and other ancillary facilities, andother water diversion, storage, and carriage structures. Such term does not include any such facilities related to or used for the purpose of livestock grazing.
 
 &emsp;(B) Except as otherwise provided by subsection (g) of this section or other provisions of this subchapter, on and after October 24, 2000, neither the President nor any other officer, employee, or agent of the United States shall fund, assist, authorize, or issue a license or permit for the development of any new water resource facility within the wilderness area designated by this subchapter.
 
@@ -144,7 +144,7 @@ The Secretary may establish minimal interpretive facilities or sites in cooperat
 
 &emsp;(B) Nothing in this subchapter shall affect the authority that the Secretary may or may not have to manage recreational uses on the Colorado River, except as such authority may be affected by compliance with paragraph (3). Nothing in this subchapter shall be construed to affect the authority of the Secretary to manage the public lands between the boundary of the Conservation Area and the edge of the Colorado River.
 
-&emsp;(C) Subject to valid existing rights, all lands owned by the Federal Government between the 100-year high water mark on each shore of the Colorado River, as designated on the Map from the line labeled “Line A” on the east to the boundary between the States of Colorado and Utah on the west, are hereby withdrawn from—
+&emsp;(C) Subject to valid existing rights, all lands owned by the Federal Government between the 100-year high water mark on each shore of the Colorado River, as designated on the Map from the line labeled "Line A" on the east to the boundary between the States of Colorado and Utah on the west, are hereby withdrawn from—
 
 &emsp;&emsp;(i) all forms of entry, appropriation, or disposal under the public land laws;
 
@@ -162,5 +162,5 @@ The Wilderness Act, referred to in subsec. (e), is Pub. L. 88–577, Sept. 3, 19
 
 The effective date of the Wilderness Act, referred to in subsec.(e), means Sept. 3, 1964, the date of enactment of Pub. L. 88–577, which enacted chapter 23 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “460mmm(a)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "460mmm(a)".</i>
 

@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title17",
- "package": "USCODE-2012-title17",
+ "package": "USCODE-2013-title17",
  "pieces": [
   {
    "id": "17_",
@@ -3310,6 +3310,6 @@
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2012-title17 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2013-title17 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 17 - Copyrights"
 }

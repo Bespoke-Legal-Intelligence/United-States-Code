@@ -28,9 +28,9 @@ Another section 673 was renumbered section 674 of this title.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(3). Pub. L. 112–213 struck out “of Homeland Security (when the Coast Guard is not operating as a service in the Navy)” after “Secretary”.
+<b>2012</b>—Subsec. (a)(3). Pub. L. 112–213 struck out "of Homeland Security (when the Coast Guard is not operating as a service in the Navy)" after "Secretary".
 
-<b>2002</b>—Subsec. (a)(3). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (a)(3). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 #### Effective Date of 2002 Amendment
 

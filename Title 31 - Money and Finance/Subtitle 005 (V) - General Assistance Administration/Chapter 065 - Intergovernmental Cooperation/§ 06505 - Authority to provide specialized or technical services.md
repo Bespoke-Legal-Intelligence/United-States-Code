@@ -46,73 +46,73 @@ Oct. 16, 1968, Pub. L. 90–577, §302, 82 Stat. 1102; Reorg. Plan No. 2 of 1970
 
 42:4225.
 
-In the section, the words “executive agency” are substituted for “Federal department or agency” and “department or agency of the executive branch of the Federal Government” because of the definition in sections 102 and 6501(3) of the revised title.
+In the section, the words "executive agency" are substituted for "Federal department or agency" and "department or agency of the executive branch of the Federal Government" because of the definition in sections 102 and 6501(3) of the revised title.
 
-In subsection (a), the source provisions are consolidated to eliminate an unnecessary definition. The word “President” is substituted for “Director of the Office of Management and Budget” in 42:4222(proviso, words after proviso) because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. The words “rules and regulations” are omitted as unnecessary.
+In subsection (a), the source provisions are consolidated to eliminate an unnecessary definition. The word "President" is substituted for "Director of the Office of Management and Budget" in 42:4222(proviso, words after proviso) because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) designated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President. The words "rules and regulations" are omitted as unnecessary.
 
-In subsection (b), the word “may” is substituted for “is authorized within his discretion” for clarity and to omit unnecessary words. The words “specialized or technical services” are omitted because of consolidation of the source provisions. The words “direct or indirect” are omitted as surplus.
+In subsection (b), the word "may" is substituted for "is authorized within his discretion" for clarity and to omit unnecessary words. The words "specialized or technical services" are omitted because of consolidation of the source provisions. The words "direct or indirect" are omitted as surplus.
 
-In subsection (c), the word “Payment” is substituted for “moneys” for consistency in the section. The words “All” and “or any bureau or other administrative division thereof” are omitted as surplus.
+In subsection (c), the word "Payment" is substituted for "moneys" for consistency in the section. The words "All" and "or any bureau or other administrative division thereof" are omitted as surplus.
 
-In subsection (d), the words “and does not supersede” are omitted as unnecessary. The words “authority under another law in effect on October 16, 1968” are substituted for “authority now possessed” for clarity. The words “by any Federal department or agency with respect to furnishing services, whether on a reimbursable or nonreimbursable basis, to State and local units of government” are omitted as unnecessary.
+In subsection (d), the words "and does not supersede" are omitted as unnecessary. The words "authority under another law in effect on October 16, 1968" are substituted for "authority now possessed" for clarity. The words "by any Federal department or agency with respect to furnishing services, whether on a reimbursable or nonreimbursable basis, to State and local units of government" are omitted as unnecessary.
 
 #### Performance of Specialized or Technical Services
 
 Pub. L. 106–541, title II, §211, Dec. 11, 2000, 114 Stat. 2592, as amended by Pub. L. 107–66, title I, §109, Nov. 12, 2001, 115 Stat. 496, provided that:
 
-“(a)
+"(a)
 
-Definition of State.—In this section, the term ‘State’ has the meaning given the term in section 6501 of title 31, United States Code.
+Definition of State.—In this section, the term 'State' has the meaning given the term in section 6501 of title 31, United States Code.
 
-“(b)
+"(b)
 
 Authority.—The Corps of Engineers may provide specialized or technical services to a Federal agency (other than an agency of the Department of Defense) or a State or local government under section 6505 of title 31, United States Code, only if the chief executive of the requesting entity submits to the Secretary \[of the Army\]—
 
-&emsp;“(1) a written request describing the scope of the services to be performed and agreeing to reimburse the Corps for all costs associated with the performance of the services; and
+&emsp;"(1) a written request describing the scope of the services to be performed and agreeing to reimburse the Corps for all costs associated with the performance of the services; and
 
-&emsp;“(2) a certification that includes adequate facts to establish that the services requested are not reasonably and quickly available through ordinary business channels.
+&emsp;"(2) a certification that includes adequate facts to establish that the services requested are not reasonably and quickly available through ordinary business channels.
 
-“(c)
+"(c)
 
 Corps Agreement To Perform Services.—The Secretary, after receiving a request described in subsection (b) to provide specialized or technical services, shall, before entering into an agreement to perform the services—
 
-&emsp;“(1) ensure that the requirements of subsection (b) are met with regard to the request for services; and
+&emsp;"(1) ensure that the requirements of subsection (b) are met with regard to the request for services; and
 
-&emsp;“(2) execute a certification that includes adequate facts to establish that the Corps is uniquely equipped to perform such services.
+&emsp;"(2) execute a certification that includes adequate facts to establish that the Corps is uniquely equipped to perform such services.
 
-“(d)
+"(d)
 
 Annual Report to Congress.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than the last day of each calendar year, the Secretary shall provide to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Environment and Public Works of the Senate a report identifying any request submitted by a Federal agency (other than an agency of the Department of Defense) or a State or local government to the Corps to provide specialized or technical services.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Contents of report.—The report shall include, with respect to each request described in paragraph (1)—
 
-&emsp;&emsp;“(A) a description of the scope of services requested;
+&emsp;&emsp;"(A) a description of the scope of services requested;
 
-&emsp;&emsp;“(B) the certifications required under subsection (b) and (c);
+&emsp;&emsp;"(B) the certifications required under subsection (b) and (c);
 
-&emsp;&emsp;“(C) the status of the request;
+&emsp;&emsp;"(C) the status of the request;
 
-&emsp;&emsp;“(D) the estimated and final cost of the services;
+&emsp;&emsp;"(D) the estimated and final cost of the services;
 
-&emsp;&emsp;“(E) the status of reimbursement;
+&emsp;&emsp;"(E) the status of reimbursement;
 
-&emsp;&emsp;“(F) a description of the scope of services performed; and
+&emsp;&emsp;"(F) a description of the scope of services performed; and
 
-&emsp;&emsp;“(G) copies of all certifications in support of the request.
+&emsp;&emsp;"(G) copies of all certifications in support of the request.
 
-“(e)
+"(e)
 
-Engineering Research and Development Center.—The Engineering Research and Development Center is exempt from the requirements of this section.”
+Engineering Research and Development Center.—The Engineering Research and Development Center is exempt from the requirements of this section."
 
 #### Transportation of State Prisoners
 
-Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2444, provided in part: “That, for fiscal year 1998 and thereafter, the service of maintaining and transporting State, local, or territorial prisoners shall be considered a specialized or technical service for purposes of 31 U.S.C. 6505, and any prisoners so transported shall be considered persons (transported for other than commercial purposes) whose presence is associated with the performance of a governmental function for purposes of 49 U.S.C. 40102.”
+Pub. L. 105–119, title I, Nov. 26, 1997, 111 Stat. 2444, provided in part: "That, for fiscal year 1998 and thereafter, the service of maintaining and transporting State, local, or territorial prisoners shall be considered a specialized or technical service for purposes of 31 U.S.C. 6505, and any prisoners so transported shall be considered persons (transported for other than commercial purposes) whose presence is associated with the performance of a governmental function for purposes of 49 U.S.C. 40102."
 
 Similar provisions were contained in the following prior appropriation act:
 

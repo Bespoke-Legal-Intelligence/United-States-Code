@@ -40,7 +40,7 @@
 
 #### (5) Consultation with Administration
 
-&emsp;In developing and carrying out the demonstration project under this subsection, theSecretary shall consult with the Administration as the Federal agency focused on mental health issues, including suicide.
+&emsp;In developing and carrying out the demonstration project under this subsection, the Secretary shall consult with the Administration as the Federal agency focused on mental health issues, including suicide.
 
 #### (b) Use of funds
 
@@ -84,7 +84,7 @@
 
 &emsp;Subject to paragraph (2), to be eligible to receive a grant under subsection (a), an Indian tribe or tribal organization shall prepare and submit to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, including—
 
-&emsp;&emsp;(A) a description of the project that the Indian tribe or tribal organization will carry out using the funds provided under the grant;
+&emsp;&emsp;(A) a description of the project that the Indian tribe or tribal organization will carryout using the funds provided under the grant;
 
 &emsp;&emsp;(B) a description of the manner in which the project funded under the grant would—
 

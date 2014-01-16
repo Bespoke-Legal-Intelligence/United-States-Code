@@ -1,6 +1,6 @@
 ### §741. Rank: commissioned officers of the armed forces
 
-(a) Among the grades listed below, the grades of general and admiral are equivalent and aresenior to other grades and the grades of second lieutenant and ensign are equivalent and are junior to other grades. Intermediate grades rank in the order listed as follows:
+(a) Among the grades listed below, the grades of general and admiral are equivalent and are senior to other grades and the grades of second lieutenant and ensign are equivalent and are junior to other grades. Intermediate grades rank in the order listed as follows:
 
 &nbsp;
 
@@ -21,7 +21,7 @@
 
 (c) Rank among officers of the Army, Navy, Air Force, and Marine Corps of the same grade or of equivalent grades who have the same date of rank is determined by regulations prescribed by the Secretary of Defense which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps.
 
-(d)(1) The date of rank of an officer of the Army, Navy, Air Force, or Marine Corps who holds a grade as the result of an original appointment shall be determined by the Secretary of the military department concerned at the time of such appointment. The date of rank of an officer of the Army, Navy, Air Force, or Marine Corps who holds a grade as the result of an original appointment and who at the time of such appointment was awarded service credit for prior commissioned service or constructive credit for advanced education or training, or special experience shall be determined so as to reflect such prior commissioned service or constructive service. Determinations by the Secretary concerned under this paragraph shall be made under regulations prescribed by the Secretary of Defense which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps.
+(d)(1) The date of rank of an officer of the Army, Navy, Air Force, or Marine Corps who holds a grade as the result of an original appointment shall be determined by the Secretary of the military department concerned at the time of such appointment. The date of rank ofan officer of the Army, Navy, Air Force, or Marine Corps who holds a grade as the result of an original appointment and who at the time of such appointment was awarded service credit for prior commissioned service or constructive credit for advanced education or training, or special experience shall be determined so as to reflect such prior commissioned service or constructive service. Determinations by the Secretary concerned under this paragraph shall be made under regulations prescribed by the Secretary of Defense which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps.
 
 (2) Except as otherwise provided by law, the date of rank of an officer who holds a grade as the result of a promotion is the date of his appointment to that grade.
 
@@ -49,7 +49,7 @@
 
 (E) Any adjustment in date of rank under this paragraph shall be made under regulations prescribed by the Secretary of Defense, which shall apply uniformly among the Army, Navy, Air Force, and Marine Corps.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 33; Pub. L. 96–513, title I, §107, Dec. 12, 1980, 94 Stat. 2869; Pub. L. 97–22, §4(h), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(8), Dec. 1, 1981, 95 Stat. 1106; Pub. L. 97–295, §1(11), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–557, §25(c), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 99–145, title V, §514(b)(8), Nov. 8, 1985, 99 Stat. 629; Pub. L. 102–190, div. A, title XI, §1131(1)(A), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title XVI, §1626, Oct. 5, 1994,108 Stat. 2962; Pub. L. 104–106, div. A, title XV, §1501(a)(3), Feb. 10, 1996, 110 Stat. 495; Pub. L. 107–107, div. A, title V, §506(a), Dec. 28, 2001, 115 Stat. 1089.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 33; Pub. L. 96–513, title I, §107, Dec. 12, 1980, 94 Stat. 2869; Pub. L. 97–22, §4(h), July 10, 1981, 95 Stat. 127; Pub. L. 97–86, title IV, §405(b)(8), Dec. 1, 1981, 95 Stat. 1106; Pub. L. 97–295, §1(11), Oct. 12, 1982, 96 Stat. 1289; Pub. L. 98–557, §25(c), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 99–145, title V, §514(b)(8), Nov. 8, 1985, 99 Stat. 629; Pub. L. 102–190, div. A, title XI, §1131(1)(A), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title XVI, §1626, Oct. 5, 1994, 108 Stat. 2962; Pub. L. 104–106, div. A, title XV, §1501(a)(3), Feb. 10, 1996, 110 Stat. 495; Pub. L. 107–107, div. A, title V, §506(a), Dec. 28, 2001, 115 Stat. 1089.)
 
 Historical and Revision Notes
 
@@ -103,13 +103,13 @@ Aug. 4, 1949, ch. 393, §1(43), 63 Stat. 498.
 
 34:241a (less 1st and 2d sentences).
 
-In subsection (a), the word “Regular”, pertaining to major generals and brigadier generals, in 10:517 and 34:241a, is omitted, since the last sentence of 10:517 and 34:241a establish the rank of nonregular officers of the Army and the Air Force, with respect to officers of the Regular Army and the Regular Air Force. The effect of establishing their rank with respect to regular officers, when read in connection with the provisions prescribing the rank of officers of the regular components with officers of the other services, under 10:517 (less last sentence), 34:241a (less last sentence), and 34:241, is therefore to establish the rank of nonregular officers with respect to officers of the other listed services. This allows a consolidation of 10:517 (less last sentence, as applicable to rank), 34:241, and 34:241a (less last sentence, as applicable to rank), together with 34:651, into a table of rank among officers of the Army, Navy, Air Force, and Marine Corps. The words “lineal rank only being considered”, in 34:241, are covered by setting forth the grades in tabular form. The words “whether on the active or retired list”, in 34:241, are omitted, since retired officers of the Navy continue to be officers of the Navy. The words “Lieutenant (junior grade)” are substituted for the word “masters”, in R.S. 1466, to reflect the change made in the name of that grade by the Act of March 3, 1883, ch. 97 (2d par.), 22 Stat. 472.
+In subsection (a), the word "Regular", pertaining to major generals and brigadier generals, in 10:517 and 34:241a, is omitted, since the last sentence of 10:517 and 34:241a establish the rank of nonregular officers of the Army and the Air Force, with respect to officers of the Regular Army and the Regular Air Force. The effect of establishing their rank with respect to regular officers,when read in connection with the provisions prescribing the rank of officers of the regular components with officers of the other services, under 10:517 (less last sentence), 34:241a (less last sentence), and 34:241, is therefore to establish the rank of nonregular officers with respect to officers of the other listed services. This allows a consolidation of 10:517 (less last sentence, as applicable to rank), 34:241, and 34:241a (less last sentence, as applicable to rank), together with 34:651, into a table of rank among officers of the Army, Navy, Air Force, and Marine Corps. The words "lineal rank only being considered", in 34:241, are covered by setting forth the grades in tabular form. The words "whether on the active or retired list", in 34:241, are omitted, since retired officers of the Navy continue to be officers of the Navy. The words "Lieutenant (junior grade)" are substituted for the word "masters", in R.S. 1466, to reflect the change made in the name of that grade by the Act of March 3, 1883, ch. 97 (2d par.), 22 Stat. 472.
 
-In subsections (a) and (b), the words “entitled to pay” and “entitled to the pay”, respectively, are inserted, since rear admiral is one grade with two ranks depending on the amount of pay to which the incumbent is entitled.
+In subsections (a) and (b), the words "entitled to pay" and "entitled to the pay", respectively, are inserted, since rear admiral is one grade with two ranks depending on the amount of pay to which the incumbent is entitled.
 
-In subsection (b), the words “in such grades”, in 10:517 and 34:241a, are omitted as surplusage.
+In subsection (b), the words "in such grades", in 10:517 and 34:241a, are omitted as surplusage.
 
-In subsection (c), the words “A commissioned officer of the Army or the Air Force” are substituted for the words “All officers of the Army of the United States, including all components thereof”, since rank among officers of the Regular Army and Regular Air Force is determined under sections 3573, 3574, 8573, and 8574 of this title.
+In subsection (c), the words "A commissioned officer of the Army or the Air Force" are substituted for the words "All officers of the Army of the United States, including all components thereof", since rank among officers of the Regular Army and Regular Air Force is determined under sections 3573, 3574, 8573, and 8574 of this title.
 
 #### Amendments
 
@@ -117,31 +117,31 @@ In subsection (c), the words “A commissioned officer of the Army or the Air Fo
 
 <b>1996</b>—Subsec. (d)(3). Pub. L. 104–106 made technical correction to directory language of Pub. L. 103–337, §1626(1). See 1994 Amendment note below.
 
-<b>1994</b>—Subsec. (d)(3). Pub. L. 103–337, §1626(3), inserted at end “The authority to change the date of rank of a reserve officer who is placed on the active-duty list to a later date does not apply in the case of an officer who (A) has served continuously in the Selected Reserve of the Ready Reserve since the officer's last promotion, or (B) is placed on the active-duty list while on a promotion list as described in section 14317(b) of this title.”
+<b>1994</b>—Subsec. (d)(3). Pub. L. 103–337, §1626(3), inserted at end "The authority to change the date of rank of a reserve officer who is placed on the active-duty list to a later date does not apply in the case of an officer who (A) has served continuously in the Selected Reserve of the Ready Reserve since the officer's last promotion, or (B) is placed on the active-duty list while on a promotion list as described in section 14317(b) of this title."
 
-Pub. L. 103–337, §1626(2), inserted “or reserve active-status list” after “he is placed on the active-duty list”.
+Pub. L. 103–337, §1626(2), inserted "or reserve active-status list" after "he is placed on the active-duty list".
 
-Pub. L. 103–337, §1626(1), as amended by Pub. L. 104–106, inserted “or who is transferred from an inactive status to an active status and placed on the active-duty list or the reserve active-status list may, effective on the date on which he is placed on the active-duty list” after “warrant officer, W–5,”.
+Pub. L. 103–337, §1626(1), as amended by Pub. L. 104–106, inserted "or who is transferred from an inactive status to an active status and placed on the active-duty list or the reserve active-status list may, effective on the date on which he is placed on the active-duty list" after "warrant officer, W–5,".
 
-<b>1991</b>—Subsec. (d)(3). Pub. L. 102–190 substituted “chief warrant officer, W–5,” for “warrant officer (W–4)”.
+<b>1991</b>—Subsec. (d)(3). Pub. L. 102–190 substituted "chief warrant officer, W–5," for "warrant officer (W–4)".
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted “Rear admiral (lower half)” for “Commodore” in table.
+<b>1985</b>—Subsec. (a). Pub. L. 99–145 substituted "Rear admiral (lower half)" for "Commodore" in table.
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–557 struck out “(Navy) and Rear admiral (upper half) (Coast Guard)” after “Rear admiral” and “(Navy) and Rear admiral (lower half) (Coast Guard)” after “Commodore” in table.
+<b>1984</b>—Subsec. (a). Pub. L. 98–557 struck out "(Navy) and Rear admiral (upper half) (Coast Guard)" after "Rear admiral" and "(Navy) and Rear admiral (lower half) (Coast Guard)" after "Commodore" in table.
 
-<b>1982</b>—Subsec. (c). Pub. L. 97–295 substituted “the” for “the the” after “uniformly among”.
+<b>1982</b>—Subsec. (c). Pub. L. 97–295 substituted "the" for "the the" after "uniformly among".
 
-<b>1981</b>—Pub. L. 97–22, §4(h)(4), substituted “armed forces” for “Army, Navy, Air Force, and Marine Corps” in section catchline.
+<b>1981</b>—Pub. L. 97–22, §4(h)(4), substituted "armed forces" for "Army, Navy, Air Force, and Marine Corps" in section catchline.
 
-Subsec. (a). Pub. L. 97–86 substituted “Commodore” for “Commodore admiral” in right column of table opposite Brigadier general.
+Subsec. (a). Pub. L. 97–86 substituted "Commodore" for "Commodore admiral" in right column of table opposite Brigadier general.
 
 Pub. L. 97–22, §4(h)(1), inserted reference to the Coast Guard in column heading and inserted references to Rear admiral (upper half) (Coast Guard) and Rear admiral (lower half) (Coast Guard).
 
-Subsec. (c). Pub. L. 97–22, §4(h)(2), inserted “of the Army, Navy, Air Force, and Marine Corps” after “Rank among officers”.
+Subsec. (c). Pub. L. 97–22, §4(h)(2), inserted "of the Army, Navy, Air Force, and Marine Corps" after "Rank among officers".
 
-Subsec. (d)(1). Pub. L. 97–22, §4(h)(3)(A), inserted “of the Army, Navy, Air Force, or Marine Corps” after “officer” in two places.
+Subsec. (d)(1). Pub. L. 97–22, §4(h)(3)(A), inserted "of the Army, Navy, Air Force, or Marine Corps" after "officer" in two places.
 
-Subsec. (d)(3). Pub. L. 97–22, §4(h)(3)(B), inserted “of the Army, Navy, Air Force, or Marine Corps” after “(other than a warrant officer)”.
+Subsec. (d)(3). Pub. L. 97–22, §4(h)(3)(B), inserted "of the Army, Navy, Air Force, or Marine Corps" after "(other than a warrant officer)".
 
 <b>1980</b>—Pub. L. 96–513 completely revised section to restructure and redefine various ranks of commissioned officers of the Army, Air Force, Marine Corps, and Navy and relationships of officers in those ranks among themselves.
 
@@ -149,13 +149,13 @@ Subsec. (d)(3). Pub. L. 97–22, §4(h)(3)(B), inserted “of the Army, Navy, Ai
 
 Pub. L. 107–107, div. A, title V, §506(c), Dec. 28, 2001, 115 Stat. 1090, provided that:
 
-“(1) Paragraph (4) of section 741(d) of title 10, United States Code, as added by subsection (a), and paragraph (2) of section 14308(c) of such title, as added by subsection (b), shall apply with respect to any report of a selection board recommending officers for promotion to the next higher grade that is submitted to the Secretary of the military department concerned on or after the date of the enactment of this Act \[Dec. 28, 2001\].
+"(1) Paragraph (4) of section 741(d) of title 10, United States Code, as added by subsection (a), and paragraph (2) of section 14308(c) of such title, as added by subsection (b), shall apply with respect to any report of a selection board recommending officers for promotion to the next higher grade that is submitted to the Secretary of the military department concerned on or after the date of the enactment of this Act \[Dec. 28, 2001\].
 
-“(2) The Secretary of the military department concerned may apply the applicable paragraph referred to in paragraph (1) in the case of an appointment of an officer to a higher grade resulting from a report of a selection board submitted to the Secretary before the date of the enactment of this Act if the Secretary determines that such appointment would have been made on an earlier date that is on or after October 1, 2001, and was delayed under the circumstances specified in paragraph (4) of section 741(d) of title 10, United States Code, as added by subsection (a).”
+"(2) The Secretary of the military department concerned may apply the applicable paragraph referred to in paragraph (1) in the case of an appointment of an officer to a higher grade resulting from a report of a selection board submitted to the Secretary before the date of the enactment of this Act if the Secretary determines that such appointment would have been made on an earlier date that is on or after October 1, 2001, and was delayed under the circumstances specified in paragraph (4) of section 741(d) of title 10, United States Code, as added by subsection (a)."
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, titleXVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 R.S. 1617.
 
-The words “of the United States” are omitted as surplusage. The word “command” is substituted for the words “exercise command over any”.
+The words "of the United States" are omitted as surplusage. The word "command" is substituted for the words "exercise command over any".
 

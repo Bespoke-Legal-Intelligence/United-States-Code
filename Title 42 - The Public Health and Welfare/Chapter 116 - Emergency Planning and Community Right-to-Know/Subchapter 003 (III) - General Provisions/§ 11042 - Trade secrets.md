@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(i) claims that such information is a trade secret, on the basis of the factors enumerated in subsection (b) of this section,
 
-&emsp;&emsp;(ii) includes in the submittal referred to in paragraph (1) an explanation of the reasons why such information is claimed to be a trade secret, based on the factors enumerated in subsection (b) of this section, including a specific description of why such factors apply, and
+&emsp;&emsp;(ii) includes in the submittal referred to in paragraph (1) an explanation of the reasonswhy such information is claimed to be a trade secret, based on the factors enumerated in subsection (b) of this section, including a specific description of why such factors apply, and
 
 &emsp;&emsp;(iii) submits to the Administrator a copy of such submittal, and the information withheld from such submittal.
 
@@ -56,7 +56,7 @@ As soon as practicable after October 17, 1986, the Administrator shall prescribe
 
 #### (3) Finding of sufficient assertions
 
-&emsp;(A) If the Administrator determines pursuant to paragraph (2) that the explanation presents sufficient assertions to support a findingthat the specific chemical identity is a trade secret, the Administrator shall notify the trade secret claimant that he has 30 days to supplement the explanation with detailed information to support the assertions.
+&emsp;(A) If the Administrator determines pursuant to paragraph (2) that the explanation presents sufficient assertions to support a finding that the specific chemical identity is a trade secret, the Administrator shall notify the trade secret claimant that he has 30 days to supplement the explanation with detailed information to support the assertions.
 
 &emsp;(B) If the Administrator determines, after receipt of any supplemental supporting detailed information under subparagraph (A), that the assertions in the explanation are true and that the specific chemical identity is a trade secret, the Administrator shall so notify the petitioner and the petitioner may seek judicial review of the determination.
 
@@ -94,7 +94,7 @@ Notwithstanding any limitatio <sup>2</sup> contained in this section or any oth
 
 (Pub. L. 99–499, title III, §322, Oct. 17, 1986, 100 Stat. 1747.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “claimant”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "claimant".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “limitation”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "limitation".</i>
 

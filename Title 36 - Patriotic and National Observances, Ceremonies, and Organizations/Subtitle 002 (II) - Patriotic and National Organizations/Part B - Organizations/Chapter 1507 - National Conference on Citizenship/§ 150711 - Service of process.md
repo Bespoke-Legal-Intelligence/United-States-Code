@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 13, 1953, ch. 427, §5(b), 67 Stat. 563.
 
-The word “have” is substituted for “maintain” for consistency in the revised title. The words “at all times” are omitted as unnecessary. The words “to receive” are substituted for “authorized to accept”, and the words “is notice to or service on” are substituted for “shall be deemed sufficient notice or service upon”, for consistency in the revised title.
+The word "have" is substituted for "maintain" for consistency in the revised title. The words "at all times" are omitted as unnecessary. The words "to receive" are substituted for "authorized to accept", and the words "is notice to or service on" are substituted for "shall be deemed sufficient notice or service upon", for consistency in the revised title.
 

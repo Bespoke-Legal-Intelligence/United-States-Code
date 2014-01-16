@@ -16,7 +16,7 @@
 | [212\.](%C2%A7%2000212%20-%20Offenses%3B%20punishment%3B%20duty%20to%20enforce%20provisions.md) | Offenses; punishment; duty to enforce provisions. |
 | [213\.](%C2%A7%2000213%20-%20Fraudulent%20representations%20to%20evade%20or%20defeat%20restrictions.md) | Fraudulent representations to evade or defeat restrictions. |
 | [214\.](%C2%A7%2000214%20-%20Previous%20laws%20unaffected.md) | Previous laws unaffected. |
-| [215\.](%C2%A7%2000215%20-%20%E2%80%9CConsul%E2%80%9D%20defined.md) | “Consul” defined. |
+| [215\.](%C2%A7%2000215%20-%20Consul%20defined.md) | "Consul" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -39,4 +39,4 @@
 - [&sect; 00212 - Offenses; punishment; duty to enforce provisions](%C2%A7%2000212%20-%20Offenses%3B%20punishment%3B%20duty%20to%20enforce%20provisions.md)
 - [&sect; 00213 - Fraudulent representations to evade or defeat restrictions](%C2%A7%2000213%20-%20Fraudulent%20representations%20to%20evade%20or%20defeat%20restrictions.md)
 - [&sect; 00214 - Previous laws unaffected](%C2%A7%2000214%20-%20Previous%20laws%20unaffected.md)
-- [&sect; 00215 - &#8220;Consul&#8221; defined](%C2%A7%2000215%20-%20%E2%80%9CConsul%E2%80%9D%20defined.md)
+- [&sect; 00215 - Consul defined](%C2%A7%2000215%20-%20Consul%20defined.md)

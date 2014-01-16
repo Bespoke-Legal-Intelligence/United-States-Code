@@ -42,17 +42,17 @@ Section 3 of the Foreign Relations Authorization Act, Fiscal Year 2003, referred
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a). Pub. L. 110–161 struck out “Libya,” after “Syria,”.
+<b>2007</b>—Subsec. (a). Pub. L. 110–161 struck out "Libya," after "Syria,".
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–13 struck out “Iraq,” after “Burma,”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–13 struck out "Iraq," after "Burma,".
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–228 added subsec. (d).
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277, §101(d) \[title V, §516\], inserted before period at end “, or at the discretion of the President, Communist countries listed in section 2370(f) of this title”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–277, §101(d) \[title V, §516\], inserted before period at end ", or at the discretion of the President, Communist countries listed in section 2370(f) of this title".
 
-Subsec. (c). Pub. L. 105–277, §2809(a), designated existing provisions as par. (1), substituted “Subject to paragraph (2), the limitations” for “The limitations”, and added par. (2).
+Subsec. (c). Pub. L. 105–277, §2809(a), designated existing provisions as par. (1), substituted "Subject to paragraph (2), the limitations" for "The limitations", and added par. (2).
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–236, §431(a)(1), substituted “Burma, Iraq, North Korea, Syria” for “the South-West Africa People's Organization”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–236, §431(a)(1), substituted "Burma, Iraq, North Korea, Syria" for "the South-West Africa People's Organization".
 
 Subsec. (c). Pub. L. 103–236, §431(a)(2), added subsec. (c).
 

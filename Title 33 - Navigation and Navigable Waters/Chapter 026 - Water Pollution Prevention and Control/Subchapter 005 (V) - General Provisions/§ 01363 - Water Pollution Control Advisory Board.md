@@ -6,7 +6,7 @@
 
 (2)(A) Each member appointed by the President shall hold office for a term of three years, except that (i) any member appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (ii) the terms of office of the members first taking office after June 30, 1956, shall expire as follows: three at the end of one year after such date, three at the end of two years after such date, and three at the end of three years after such date, as designated by the President at the time of appointment, and (iii) the term of any member under the preceding provisions shall be extended until the date on which his successor's appointment is effective. None of the members appointed by the President shall be eligible for reappointment within one year after the end of his preceding term.
 
-(B) The members of the Board who are not officers or employees of the United States, while attending conferences or meetings of the Boardor while serving at the request of the Administrator, shall be entitled to receive compensation at a rate to be fixed by the Administrator, but not exceeding $100 per diem, including travel-time, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons in the Government service employed intermittently.
+(B) The members of the Board who are not officers or employees of the United States, while attending conferences or meetings of the Board or while serving at the request of the Administrator, shall be entitled to receive compensation at a rate to be fixed by the Administrator, but not exceeding $100 per diem, including travel-time, and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons in the Government service employed intermittently.
 
 #### (b) Functions
 
@@ -28,7 +28,7 @@ Pub. L. 87–88, §6(c), July 20, 1961, 75 Stat. 207, provided that members of t
 
 #### Terms of Office of Members of Water Pollution Control Advisory Board
 
-Act July 9, 1956, ch. 518, §3, 70 Stat. 507, provided that the terms of office of members of the Water Pollution Control Advisory Board, holding office on July 9, 1956, were to terminate at the close of business on that date.
+Act July 9, 1956, ch. 518, §3, 70 Stat. 507, provided that the terms of office of members of the Water PollutionControl Advisory Board, holding office on July 9, 1956, were to terminate at the close of business on that date.
 
 #### Termination of Advisory Boards
 

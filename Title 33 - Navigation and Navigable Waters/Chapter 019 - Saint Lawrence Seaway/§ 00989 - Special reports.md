@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–66 struck out subsec. (a) which read as follows: “The Corporation shall submit to the President for transmission to the Congress at the beginning of each regular session an annual report of its operations under this chapter.”
+<b>1995</b>—Subsec. (a). Pub. L. 104–66 struck out subsec. (a) which read as follows: "The Corporation shall submit to the President for transmission to the Congress at the beginning of each regular session an annual report of its operations under this chapter."
 
 <b>1957</b>—Pub. L. 85–108 designated existing provisions as subsec. (a) and added subsec. (b).
 

@@ -2,7 +2,7 @@
 
 #### (a) Program
 
-The Secretary shall, in accordance with this section (including the agenda developed under subsection (d)(1)(A) of this section) and within 2 months after October 24, 1992, establish a comprehensive program to—
+The Secretary shall, in accordance with this section (including the agenda developed undersubsection (d)(1)(A) of this section) and within 2 months after October 24, 1992, establish a comprehensive program to—
 
 &emsp;(1) determine whether or not exposure to electric and magnetic fields produced by the generation, transmission, and use of electric energy affects human health;
 
@@ -42,7 +42,7 @@ The program shall provide for—
 
 #### (2) Agreement
 
-&emsp;Within 6 months after October 24, 1992, the Secretary shall enter into an agreement with the Secretary of Health and Human Servicesto carry out, through the Director, the information activities under subsection (b)(1)(A) of this section and the research under subsection (b)(2) of this section.
+&emsp;Within 6 months after October 24, 1992, the Secretary shall enter into an agreement with the Secretary of Health and Human Services to carry out, through the Director, the information activities under subsection (b)(1)(A) of this section and the research under subsection (b)(2) of this section.
 
 #### (3) Actions of Director
 
@@ -122,7 +122,7 @@ In general.—Within 15 months after October 24, 1992, and as often thereafter a
 
 &emsp;(B)
 
-Consultation with advisory committee.—In preparing solicitations for proposalsto conduct activities, the Secretary and the Director shall consult with the Advisory Committee.
+Consultation with advisory committee.—In preparing solicitations for proposals to conduct activities, the Secretary and the Director shall consult with the Advisory Committee.
 
 &emsp;(C)
 
@@ -158,15 +158,15 @@ The Secretary and the Director shall include conflict of interest provisions in 
 
 For purposes of this section:
 
-&emsp;(1) The term “Advisory Committee” means the National Electric and Magnetic Fields Advisory Committee established under subsection (e) of this section.
+&emsp;(1) The term "Advisory Committee" means the National Electric and Magnetic Fields Advisory Committee established under subsection (e) of this section.
 
-&emsp;(2) The term “Interagency Committee” means the Electric and Magnetic Fields Interagency Committee established under subsection (d) of this section.
+&emsp;(2) The term "Interagency Committee" means the Electric and Magnetic Fields Interagency Committee established under subsection (d) of this section.
 
-&emsp;(3) The term “Director” means the Director of the National Institute of Environmental Health Sciences.
+&emsp;(3) The term "Director" means the Director of the National Institute of Environmental Health Sciences.
 
-&emsp;(4) The term “program” means the electric and magnetic fields research and public information dissemination program established in subsection (a) of this section.
+&emsp;(4) The term "program" means the electric and magnetic fields research and public information dissemination program established in subsection (a) of this section.
 
-&emsp;(5) The term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other commonwealth, territory, or possession of the United States.
+&emsp;(5) The term "State" means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other commonwealth, territory, or possession of the United States.
 
 #### (j) Authorization of appropriations
 
@@ -206,11 +206,11 @@ This Act, referred to in subsec. (k), is Pub. L. 102–486, Oct. 24, 1992, 106 S
 
 #### Amendments
 
-<b>1997</b>—Subsecs. (c)(5), (e)(5), (g)(3)(B). Pub. L. 105–23, §1(1), substituted “1998” for “1997”.
+<b>1997</b>—Subsecs. (c)(5), (e)(5), (g)(3)(B). Pub. L. 105–23, §1(1), substituted "1998" for "1997".
 
-Subsec. (j)(1). Pub. L. 105–23 substituted “$46,000,000” for “$65,000,000” and “1998” for “1997”.
+Subsec. (j)(1). Pub. L. 105–23 substituted "$46,000,000" for "$65,000,000" and "1998" for "1997".
 
-Subsec. (l). Pub. L. 105–23, §1(1), substituted “1998” for “1997”.
+Subsec. (l). Pub. L. 105–23, §1(1), substituted "1998" for "1997".
 
 #### Termination of Trust Territory of the Pacific Islands
 

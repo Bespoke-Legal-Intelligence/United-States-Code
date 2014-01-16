@@ -6,7 +6,7 @@ The Secretary, in consultation with the Administrator of the Environmental Prote
 
 #### (b) Membership
 
-The task force shall include individuals representing the Department of Housing and Urban Development, the Farmers Home Administration, the Department of Veterans Affairs, the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, the Environmental Protection Agency, employee organizations in the building and construction trades industry, landlords, tenants, primary lending institutions, private mortgage insurers, single-family and multifamily real estate interests, nonprofit housing developers, property liability insurers, public housing agencies, low-income housing advocacy organizations, national, State and local lead-poisoning prevention advocates and experts, and community-based organizations located in areas with substantial rental housing.
+The task force shall include individuals representing the Department of Housing and UrbanDevelopment, the Farmers Home Administration, the Department of Veterans Affairs, the Federal Home Loan Mortgage Corporation, the Federal National Mortgage Association, the Environmental Protection Agency, employee organizations in the building and construction trades industry, landlords, tenants, primary lending institutions, private mortgage insurers, single-family and multifamily real estate interests, nonprofit housing developers, property liability insurers, public housing agencies, low-income housing advocacy organizations, national, State and local lead-poisoning prevention advocates and experts, and community-based organizations located in areas with substantial rental housing.
 
 #### (c) Responsibilities
 
@@ -22,7 +22,7 @@ The task force shall make recommendations to the Secretary and the Administrator
 
 &emsp;(5) revising guidelines, regulations, and educational pamphlets issued by the Department of Housing and Urban Development and other Federal agencies relating to lead-based paint poisoning prevention;
 
-&emsp;(6) reducing the current uncertainties of liability related to lead-based paint in rental housing by clarifying standards of care for landlords and lenders, and by exploring the “safe harbor” concept;
+&emsp;(6) reducing the current uncertainties of liability related to lead-based paint in rental housing by clarifying standards of care for landlords and lenders, and by exploring the "safe harbor" concept;
 
 &emsp;(7) increasing the availability of liability insurance for owners of rental housing and certified contractors and establishing alternative systems to compensate victims of lead-based paint poisoning; and
 

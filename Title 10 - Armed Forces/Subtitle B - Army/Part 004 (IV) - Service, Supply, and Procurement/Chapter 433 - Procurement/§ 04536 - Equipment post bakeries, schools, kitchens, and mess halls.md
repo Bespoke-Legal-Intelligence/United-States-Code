@@ -22,7 +22,7 @@ Historical and Revision Notes
 
 10:1334.
 
-June 13, 1890, ch. 423 (1st proviso under “Quartermaster's Department”), 26 Stat. 152.
+June 13, 1890, ch. 423 (1st proviso under "Quartermaster's Department"), 26 Stat. 152.
 
-The words “Money necessary \* \* \* may be spent” are substituted for the words “There may be expended \* \* \* the amounts required”. The word “bakeries” is substituted for the words “bake house to carry on post bakeries”. The words “each and all” are omitted as surplusage.
+The words "Money necessary \* \* \* may be spent" are substituted for the words "There may be expended \* \* \* the amounts required". The word "bakeries" is substituted for the words "bake house to carry on post bakeries". The words "each and all" are omitted as surplusage.
 

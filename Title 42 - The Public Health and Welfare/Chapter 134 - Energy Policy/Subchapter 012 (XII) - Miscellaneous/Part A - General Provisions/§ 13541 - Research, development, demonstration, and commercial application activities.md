@@ -10,9 +10,9 @@
 
 Except as otherwise provided in this Act, in carrying out commercial application programs and commercial application activities under this Act, the Secretary may use, to the extent authorized under applicable provisions of law, contracts, cooperative agreements, cooperative research and development agreements under the Stevenson-Wydler Technology Innovation Act of 1980 \[15 U.S.C. 3701 et seq.\], grants, joint ventures, and any other form of agreement available to the Secretary. An objective of any commercial application program under this Act shall be to accelerate the transition of technologies from the research and development stage.
 
-#### (c) “Joint venture” defined
+#### (c) "Joint venture" defined
 
-For purposes of this section, the term “joint venture” has the meaning given the term “joint research and development venture” under section 4301(a)(6) and (b) of title 15, except that such term may apply under this section to research, development, demonstration, and commercial application joint ventures.
+For purposes of this section, the term "joint venture" has the meaning given the term "joint research and development venture" under section 4301(a)(6) and (b) of title 15, except thatsuch term may apply under this section to research, development, demonstration, and commercial application joint ventures.
 
 #### (d) Protection of information
 
@@ -38,7 +38,7 @@ This Act, referred to in subsecs. (a), (b), and (d), is Pub. L. 102–486, Oct. 
 
 The Federal Nonnuclear Research and Development Act of 1974, referred to in subsec. (a)(1), probably means the Federal Nonnuclear Energy Research and Development Act of 1974, Pub. L. 93–577, Dec. 31, 1974, 88 Stat. 1878, as amended, which is classified generally to chapter 74 (§5901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5901 of this title and Tables.
 
-The Atomic Energy Act of 1954, referred to in subsec. (a)(1), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (a)(1), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
 The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsecs. (a)(2), (b), (e)(1), (2), and (f), is Pub. L. 96–480, Oct. 21, 1980, 94 Stat. 2311, as amended, which is classified generally to chapter 63 (§3701 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 3701 of Title 15 and Tables.
 

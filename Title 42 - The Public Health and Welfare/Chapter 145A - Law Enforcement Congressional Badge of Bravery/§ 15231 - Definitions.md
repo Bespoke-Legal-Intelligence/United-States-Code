@@ -4,23 +4,23 @@ In this chapter:
 
 #### (1) Federal agency head
 
-&emsp;The term “Federal agency head” means the head of any executive, legislative, or judicial branch Government entity that employs Federal law enforcement officers.
+&emsp;The term "Federal agency head" means the head of any executive, legislative, or judicial branch Government entity that employs Federal law enforcement officers.
 
 #### (2) Federal Board
 
-&emsp;The term “Federal Board” means the Federal Law Enforcement Congressional Badge of Bravery Board established under section 15243(a) of this title.
+&emsp;The term "Federal Board" means the Federal Law Enforcement Congressional Badge of Bravery Board established under section 15243(a) of this title.
 
 #### (3) Federal Board members
 
-&emsp;The term “Federal Board members” means the members of the Federal Board appointed under section 15243(c) of this title.
+&emsp;The term "Federal Board members" means the members of the Federal Board appointed under section 15243(c) of this title.
 
 #### (4) Federal Law Enforcement Badge
 
-&emsp;The term “Federal Law Enforcement Badge” means the Federal Law Enforcement Congressional Badge of Bravery described in section 15241 of this title.
+&emsp;The term "Federal Law Enforcement Badge" means the Federal Law Enforcement Congressional Badge of Bravery described in section 15241 of this title.
 
 #### (5) Federal law enforcement officer
 
-&emsp;The term “Federal law enforcement officer”—
+&emsp;The term "Federal law enforcement officer"—
 
 &emsp;&emsp;(A) means a Federal employee—
 
@@ -38,27 +38,27 @@ In this chapter:
 
 #### (6) Office
 
-&emsp;The term “Office” means the Congressional Badge of Bravery Office established under section 15261(a) of this title.
+&emsp;The term "Office" means the Congressional Badge of Bravery Office established under section 15261(a) of this title.
 
 #### (7) State and Local Board
 
-&emsp;The term “State and Local Board” means the State and Local Law Enforcement Congressional Badge of Bravery Board established under section 15253(a) of this title.
+&emsp;The term "State and Local Board" means the State and Local Law Enforcement Congressional Badge of Bravery Board established under section 15253(a) of this title.
 
 #### (8) State and Local Board members
 
-&emsp;The term “State and Local Board members” means the members of the State and Local Board appointed under section 15253(c) of this title.
+&emsp;The term "State and Local Board members" means the members of the State and Local Board appointed under section 15253(c) of this title.
 
 #### (9) State and Local Law Enforcement Badge
 
-&emsp;The term “State and Local Law Enforcement Badge” means the State and Local LawEnforcement Congressional Badge of Bravery described in section 15251 of this title.
+&emsp;The term "State and Local Law Enforcement Badge" means the State and Local Law Enforcement Congressional Badge of Bravery described in section 15251 of this title.
 
 #### (10) State or local agency head
 
-&emsp;The term “State or local agency head” means the head of any executive, legislative, or judicial branch entity of a State or local government that employs State or local law enforcement officers.
+&emsp;The term "State or local agency head" means the head of any executive, legislative, or judicial branch entity of a State or local government that employs State or local law enforcement officers.
 
 #### (11) State or local law enforcement officer
 
-&emsp;The term “State or local law enforcement officer” means an employee of a State or local government—
+&emsp;The term "State or local law enforcement officer" means an employee of a State or local government—
 
 &emsp;&emsp;(A) who has statutory authority to make arrests or apprehensions;
 
@@ -74,5 +74,5 @@ In this chapter:
 
 #### Short Title
 
-Pub. L. 110–298, §1, July 31, 2008, 122 Stat. 2985, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Law Enforcement Congressional Badge of Bravery Act of 2008’.”
+Pub. L. 110–298, §1, July 31, 2008, 122 Stat. 2985, provided that: "This Act \[enacting this chapter\] may be cited as the 'Law Enforcement Congressional Badge of Bravery Act of 2008'."
 

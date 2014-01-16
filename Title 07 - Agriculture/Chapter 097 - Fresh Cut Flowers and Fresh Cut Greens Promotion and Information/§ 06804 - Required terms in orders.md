@@ -54,7 +54,7 @@ An order shall contain the terms and provisions specified in this section.
 
 #### (i) Importer that is a qualified handler
 
-&emsp;&emsp;&emsp;The term “importer that is a qualified handler” means an entity—
+&emsp;&emsp;&emsp;The term "importer that is a qualified handler" means an entity—
 
 &emsp;&emsp;&emsp;&emsp;(I) whose principal activity is the importation of cut flowers or cut greens into the United States (either directly or as an agent, broker, or consignee of any person or nation that produces or handles cut flowers or cut greens outside the United States for sale in the United States); and
 
@@ -62,7 +62,7 @@ An order shall contain the terms and provisions specified in this section.
 
 #### (ii) Producer that is a qualified handler
 
-&emsp;&emsp;&emsp;The term “producer that is a qualified handler” means an entity that—
+&emsp;&emsp;&emsp;The term "producer that is a qualified handler" means an entity that—
 
 &emsp;&emsp;&emsp;&emsp;(I) is engaged—
 
@@ -76,7 +76,7 @@ An order shall contain the terms and provisions specified in this section.
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term “qualified wholesale handler” means a person in business as a floral wholesale jobber or floral supplier that is subject to assessments as a qualified handler under the order.
+&emsp;&emsp;&emsp;&emsp;The term "qualified wholesale handler" means a person in business as a floral wholesale jobber or floral supplier that is subject to assessments as a qualified handler under the order.
 
 #### (II) Definitions
 
@@ -84,11 +84,11 @@ An order shall contain the terms and provisions specified in this section.
 
 #### (aa) Floral supplier
 
-&emsp;&emsp;&emsp;&emsp;&emsp;The term “floral supplier” means a person engaged in acquiring cut flowers or cut greens to be manufactured into floral articles or otherwise processed for resale.
+&emsp;&emsp;&emsp;&emsp;&emsp;The term "floral supplier" means a person engaged in acquiring cut flowers or cut greens to be manufactured into floral articles or otherwise processed for resale.
 
 #### (bb) Floral wholesale jobber
 
-&emsp;&emsp;&emsp;&emsp;&emsp;The term “floral wholesale jobber” means a person who conducts a commission or other wholesale business in buying and selling cut flowers or cut greens.
+&emsp;&emsp;&emsp;&emsp;&emsp;The term "floral wholesale jobber" means a person who conducts a commission or other wholesale business in buying and selling cut flowers or cut greens.
 
 #### (C) Distribution of qualified wholesale handler appointments
 
@@ -100,7 +100,7 @@ An order shall contain the terms and provisions specified in this section.
 
 &emsp;&emsp;(A) 2 nominees shall be submitted for each appointment to the PromoFlor Council;
 
-&emsp;&emsp;(B) nominations for each appointment of a qualified wholesale handler, producer that is a qualified handler, or importer that is a qualified handler to the PromoFlor Council shall be made by qualified wholesale handlers, producers that are qualified handlers, or importers that are qualified handlers, respectively, through an election process, in accordance with regulations issued by the Secretary;
+&emsp;&emsp;(B) nominations for each appointment of a qualified wholesale handler, producer that is a qualified handler, or importer that is a qualified handler to the PromoFlor Councilshall be made by qualified wholesale handlers, producers that are qualified handlers, or importers that are qualified handlers, respectively, through an election process, in accordance with regulations issued by the Secretary;
 
 &emsp;&emsp;(C) nominations for—
 
@@ -284,7 +284,7 @@ The order shall define the general responsibilities of the PromoFlor Council, wh
 
 #### (2) Audits
 
-&emsp;The PromoFlor Council shall cause the books and records of the Council to be audited by an independent auditor at the end of eachfiscal year. A report of each audit shall be submitted to the Secretary.
+&emsp;The PromoFlor Council shall cause the books and records of the Council to be audited by an independent auditor at the end of each fiscal year. A report of each audit shall be submitted to the Secretary.
 
 #### (g) Control of administrative costs
 
@@ -424,11 +424,11 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (ii) Requirements and procedures
 
-&emsp;&emsp;&emsp;A handler described in clause (i) shall establish that the handler is financially unable to make the payment in accordance with application and documentation requirements and review procedures established under rules recommended by the PromoFlor Council, approved by the Secretary, and issued after public notice and opportunity for comment in accordance with section 553 of title 5 and without regard to sections 556 and 557 of such title.
+&emsp;&emsp;&emsp;A handler described in clause (i) shall establish that the handler is financially unable to make the payment in accordance with application and documentation requirements and review procedures established under rules recommended by thePromoFlor Council, approved by the Secretary, and issued after public notice and opportunity for comment in accordance with section 553 of title 5 and without regard to sections 556 and 557 of such title.
 
 #### (B) Criteria and responsibility for determinations
 
-&emsp;&emsp;The PromoFlor Council may grant a postponement under subparagraph (A) only if the handler demonstrates by the submission of an opinion of an independent certified public accountant, and by submission of other documentation required under the rules established under subparagraph (A)(ii), that thehandler is insolvent or will be unable to continue to operate if the handler is required to pay the assessment when otherwise due.
+&emsp;&emsp;The PromoFlor Council may grant a postponement under subparagraph (A) only if the handler demonstrates by the submission of an opinion of an independent certified public accountant, and by submission of other documentation required under the rules established under subparagraph (A)(ii), that the handler is insolvent or will be unable to continue to operate if the handler is required to pay the assessment when otherwise due.
 
 #### (C) Period of postponement
 
@@ -504,11 +504,11 @@ The order shall prohibit the use of any funds received by the PromoFlor Council 
 
 #### (l) Other terms of order
 
-The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h) of this section and for carrying out section 6805 of this title).
+The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (includingprovision for the assessment of interest and a charge for each late payment of assessments under subsection (h) of this section and for carrying out section 6805 of this title).
 
 (Pub. L. 103–190, §5, Dec. 14, 1993, 107 Stat. 2272.)
 
 #### Transfer of Functions
 
-For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Departmentof Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

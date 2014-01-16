@@ -10,7 +10,7 @@
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–553 substituted “subsection (b)” for “subsections (b) and (c)”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–553 substituted "subsection (b)" for "subsections (b) and (c)".
 
 Subsecs. (c), (d). Pub. L. 94–553 redesignated subsec. (d) as (c). Former subsec. (c), directing the Library of Congress to transfer to the Postal Service as postal revenues out of any appropriations made to the Library for that purpose the equivalent amount of postage, as determined by the Postal Service, for penalty mailings under clause (5) of section 3202(a) of this title, was struck out.
 

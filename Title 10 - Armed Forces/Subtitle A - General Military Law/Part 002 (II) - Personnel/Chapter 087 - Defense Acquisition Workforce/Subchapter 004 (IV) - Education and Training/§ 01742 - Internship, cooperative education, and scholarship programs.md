@@ -22,7 +22,7 @@ Scholarship Program Requirements.—Each recipient of a scholarship under a prog
 
 Pub. L. 108–375, §812(b), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-<b>2003</b>—Pub. L. 108–136, §834(a), as amended by Pub. L. 108–375, §1084(f)(1), amended section catchline and text generally. Prior to amendment, text read as follows: “The Secretary of Defense shall require that each military department conduct an intern program for purposes of providing highly qualified and talented individuals an opportunity for accelerated promotions, career broadening assignments, and specified training to prepare them for entry into the Acquisition Corps.”
+<b>2003</b>—Pub. L. 108–136, §834(a), as amended by Pub. L. 108–375, §1084(f)(1), amended section catchline and text generally. Prior to amendment, text read as follows: "The Secretary of Defense shall require that each military department conduct an intern program for purposes of providing highly qualified and talented individuals an opportunity for accelerated promotions, career broadening assignments, and specified training to prepare them for entry into the Acquisition Corps."
 
 #### Effective Date of 2004 Amendment
 

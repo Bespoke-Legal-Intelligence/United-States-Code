@@ -30,21 +30,21 @@ The Retirement Home shall provide for the overall health care needs of residents
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–81 substituted “Services provided to residents” for “Services provided residents” in section catchline.
+<b>2011</b>—Pub. L. 112–81 substituted "Services provided to residents" for "Services provided residents" in section catchline.
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–181 inserted after first sentence “The services provided residents of the Retirement Home shall include appropriate nonacute medical and dental services, pharmaceutical services, and transportation of residents, which shall be provided at no cost to residents.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–181 inserted after first sentence "The services provided residents of the Retirement Home shall include appropriate nonacute medical and dental services, pharmaceutical services, and transportation of residents, which shall be provided at no cost to residents."
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163, §909(a)(1), substituted “subsections (b), (c), and (d)” for “subsection (b)”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §909(a)(1), substituted "subsections (b), (c), and (d)" for "subsection (b)".
 
-Subsec. (b). Pub. L. 109–163, §909(a)(2), substituted “Except as provided in subsection (d) of this section, the” for “The”.
+Subsec. (b). Pub. L. 109–163, §909(a)(2), substituted "Except as provided in subsection (d) of this section, the" for "The".
 
 Subsecs. (c), (d). Pub. L. 109–163, §909(a)(3), added subsecs. (c) and (d).
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–107, §1404(b)(1)(B), substituted “Chief Operating Officer” for “Retirement Home Board”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–107, §1404(b)(1)(B), substituted "Chief Operating Officer" for "Retirement Home Board".
 
-Subsec. (b). Pub. L. 107–107, §1410(a)(1), struck out “maintained as a separate establishment” after “available at a facility” in second sentence.
+Subsec. (b). Pub. L. 107–107, §1410(a)(1), struck out "maintained as a separate establishment" after "available at a facility" in second sentence.
 
-<b>1993</b>—Subsec. (b). Pub. L. 103–160 added second and third sentences and struck out former second sentence which read as follows: “Secondary and tertiary hospital care for residents that is not available at the Retirement Home shall be obtained through agreements with facilities administered by the Secretary of Veterans Affairs or the Secretary of Defense or at private facilities.”
+<b>1993</b>—Subsec. (b). Pub. L. 103–160 added second and third sentences and struck out former second sentence which read as follows: "Secondary and tertiary hospital care for residents that is not available at the Retirement Home shall be obtained through agreements with facilities administered by the Secretary of Veterans Affairs or the Secretary of Defense or at private facilities."
 
 #### Effective Date
 

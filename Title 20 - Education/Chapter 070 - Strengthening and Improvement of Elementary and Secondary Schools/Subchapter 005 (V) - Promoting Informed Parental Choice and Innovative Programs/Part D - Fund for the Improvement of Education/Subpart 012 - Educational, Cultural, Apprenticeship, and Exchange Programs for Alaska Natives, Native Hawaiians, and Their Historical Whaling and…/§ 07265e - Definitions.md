@@ -4,11 +4,11 @@ In this subpart:
 
 #### (1) Alaska Native
 
-&emsp;The term “Alaska Native” has the meaning given that term in section 7546 of this title.
+&emsp;The term "Alaska Native" has the meaning given that term in section 7546 of this title.
 
 #### (2) Native Hawaiian
 
-&emsp;The term “Native Hawaiian” has the meaning given that term in section 7517 of this title.
+&emsp;The term "Native Hawaiian" has the meaning given that term in section 7517 of this title.
 
 (Pub. L. 89–10, title V, §5526, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1848.)
 

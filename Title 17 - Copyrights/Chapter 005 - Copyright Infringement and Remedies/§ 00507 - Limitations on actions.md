@@ -18,7 +18,7 @@ Section 507, which is substantially identical with section 115 of the present la
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–304 substituted “Except as expressly provided otherwise in this title, no” for “No”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–304 substituted "Except as expressly provided otherwise in this title, no" for "No".
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–147 substituted “5” for “three”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–147 substituted "5" for "three".
 

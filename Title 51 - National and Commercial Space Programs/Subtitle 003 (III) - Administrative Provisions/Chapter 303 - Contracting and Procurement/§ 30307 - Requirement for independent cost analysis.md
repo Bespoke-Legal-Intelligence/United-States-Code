@@ -2,7 +2,7 @@
 
 (a)
 
-Definition of Implementation.—In this section, the term “implementation” means all activity in the life cycle of a project after preliminary design, independent assessment of the preliminary design, and approval to proceed into implementation, including critical design, development, certification, launch, operations, disposal of assets, and, for technology programs, development, testing, analysis, and communication of the results.
+Definition of Implementation.—In this section, the term "implementation" means all activity in the life cycle of a project after preliminary design, independent assessment of the preliminary design, and approval to proceed into implementation, including critical design, development, certification, launch, operations, disposal of assets, and, for technology programs, development, testing, analysis, and communication of the results.
 
 (b)
 
@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 Pub. L. 106–391, title III, §301, Oct. 30, 2000, 114 Stat. 1591; Pub. L. 109–155, title VII, §704, Dec. 30, 2005, 119 Stat. 2936.
 
-In subsection (b), in the first sentence, the words “the Administrator shall conduct” are substituted for “the Administrator for the National Aeronautics and Space Administration shall conduct” to eliminate unnecessary words.
+In subsection (b), in the first sentence, the words "the Administrator shall conduct" are substituted for "the Administrator for the National Aeronautics and Space Administration shall conduct" to eliminate unnecessary words.
 
-In subsection (b), in the last sentence, the word “experts” is substituted for “expertise” for clarity.
+In subsection (b), in the last sentence, the word "experts" is substituted for "expertise" for clarity.
 

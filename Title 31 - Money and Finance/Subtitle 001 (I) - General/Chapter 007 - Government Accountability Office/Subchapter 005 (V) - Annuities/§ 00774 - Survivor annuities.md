@@ -2,11 +2,11 @@
 
 (a) In this section—
 
-&emsp;(1) “allowable military service” means honorable active service of not more than 5 years in an armed force (including service in the National Guard when ordered to active duty for the United States Government), when the service is not creditable in computing another annuity.
+&emsp;(1) "allowable military service" means honorable active service of not more than 5 years in an armed force (including service in the National Guard when ordered to active duty for the United States Government), when the service is not creditable in computing another annuity.
 
-&emsp;(2) “other prior allowable service” means civilian service as an officer or employee of the Government or District of Columbia government not covered by subsection (d)(1) of this section.
+&emsp;(2) "other prior allowable service" means civilian service as an officer or employee of the Government or District of Columbia government not covered by subsection (d)(1) of this section.
 
-&emsp;(3) “congressional employee” has the same meaning given that term in section 2107 of title 5.
+&emsp;(3) "congressional employee" has the same meaning given that term in section 2107 of title 5.
 
 (b) A survivor annuity shall be paid under this subchapter when a Comptroller General—
 
@@ -86,45 +86,45 @@ June 10, 1921, ch. 18, 42 Stat. 20, §319(e), (n); added July 13, 1959, Pub. L. 
 
 31:43b(n)(words after last comma).
 
-In subsection (a)(1), the words “in an armed force” are substituted for “in the Army, Navy, Air Force, Marine Corps, or Coast Guard” for consistency with title 10. The word “only” is omitted as surplus. The word “Government” is added for consistency. The word “computing” is added for clarity. The word “annuity” is substituted for “retirement or retired pay” for consistency in the revised title and with other titles of the United States Code. The words “under any other provision of law” are omitted as surplus.
+In subsection (a)(1), the words "in an armed force" are substituted for "in the Army, Navy, Air Force, Marine Corps, or Coast Guard" for consistency with title 10. The word "only" is omitted as surplus. The word "Government" is added for consistency. The word "computing" is added for clarity. The word "annuity" is substituted for "retirement or retired pay" for consistency in the revised title and with other titles of the United States Code. The words "under any other provision of law" are omitted as surplus.
 
 Subsection (a)(3) is substituted for 31:43b(o)(1st sentence) for consistency in the revised title and with other titles of the Code.
 
-In subsection (b), before clause (1), the words “A survivor annuity shall be paid under this subchapter when” are added for clarity. The words “or retired Comptroller General” are omitted as executed. In clause (1), the words “made an election under section 733 of this title” are substituted for “has elected to bring himself within the purview of this section” for clarity. In clause (2), the word “annuity” is substituted for “retirement pay” for consistency in the revised title and with other titles of the Code. In clause (4), the words “salary” and “actually” are omitted as surplus.
+In subsection (b), before clause (1), the words "A survivor annuity shall be paid under this subchapter when" are added for clarity. The words "or retired Comptroller General" are omitted as executed. In clause (1), the words "made an election under section 733 of this title" are substituted for "has elected to bring himself within the purview of this section" for clarity. In clause (2), the word "annuity" is substituted for "retirement pay" for consistency in the revised title and with other titles of the Code. In clause (4), the words "salary" and "actually" are omitted as surplus.
 
-In subsection (c)(1), the words “only by a spouse” are substituted for “by a widow but not by a dependent child” to eliminate unnecessary words.
+In subsection (c)(1), the words "only by a spouse" are substituted for "by a widow but not by a dependent child" to eliminate unnecessary words.
 
-In subsection (c)(2), before subclause (A), the words “or children” and “in an amount” are omitted as surplus.
+In subsection (c)(2), before subclause (A), the words "or children" and "in an amount" are omitted as surplus.
 
-In subsection (c)(3), before subclause (A), the words “only by a dependent child” are substituted for “no surviving widow but leaves a surviving dependent child or children” to eliminate unnecessary words. In subclause (A), the words “the amount of” are omitted as surplus. The words “a surviving spouse” are substituted for “such widow . . . had she survived” to eliminate unnecessary words.
+In subsection (c)(3), before subclause (A), the words "only by a dependent child" are substituted for "no surviving widow but leaves a surviving dependent child or children" to eliminate unnecessary words. In subclause (A), the words "the amount of" are omitted as surplus. The words "a surviving spouse" are substituted for "such widow . . . had she survived" to eliminate unnecessary words.
 
-In subsection (d), before clause (1), the words “of a Comptroller General or retired Comptroller General who has elected to bring himself within the purview of this section” are omitted as surplus. In clauses (1) and (2), the word “pay” is substituted for “salary” for consistency in the revised title and with other titles of the Code. In clause (1), before subclause (A), the words “by him for service . . . service in which his” are omitted as surplus. In subclause (A)(i), the words “member of Congress” are substituted for “Senator, Representative, Delegate, or Resident Commissioner in the Congress of the United States” for consistency and to eliminate unnecessary words. The words “his years of service as” and “of the United States” are omitted as surplus.
+In subsection (d), before clause (1), the words "of a Comptroller General or retired Comptroller General who has elected to bring himself within the purview of this section" are omitted as surplus. In clauses (1) and (2), the word "pay" is substituted for "salary" for consistency in the revised title and with other titles of the Code. In clause (1), before subclause (A), the words "by him for service . . . service in which his" are omitted as surplus. In subclause (A)(i), the words "member of Congress" are substituted for "Senator, Representative, Delegate, or Resident Commissioner in the Congress of the United States" for consistency and to eliminate unnecessary words. The words "his years of service as" and "of the United States" are omitted as surplus.
 
-In subsection (e), the words “and shall be further reduced in accordance with subsection (d) of this section if applicable” are omitted because of the restatement. The words “or a retired Comptroller General” are omitted as executed. The words “during which a deposit was not made” are substituted for “rendered” for clarity. The word “unpaid” is added for clarity.
+In subsection (e), the words "and shall be further reduced in accordance with subsection (d) of this section if applicable" are omitted because of the restatement. The words "or a retired Comptroller General" are omitted as executed. The words "during which a deposit was not made" are substituted for "rendered" for clarity. The word "unpaid" is added for clarity.
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b)(3), (4). Pub. L. 100–426, §205(1), substituted “18 months” for “5 years”.
+<b>1988</b>—Subsec. (b)(3), (4). Pub. L. 100–426, §205(1), substituted "18 months" for "5 years".
 
 Subsec. (c)(2), (3). Pub. L. 100–426, §205(2), amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
 
-“(2) by a spouse and a dependent child, the surviving spouse shall receive an immediate annuity under subsection (d) of this section and each dependent child shall receive an immediate annuity equal to the smaller of—
+"(2) by a spouse and a dependent child, the surviving spouse shall receive an immediate annuity under subsection (d) of this section and each dependent child shall receive an immediate annuity equal to the smaller of—
 
-&emsp;“(A) $1,548; or
+&emsp;"(A) $1,548; or
 
-&emsp;“(B) $4,644 divided by the number of dependent children; or
+&emsp;"(B) $4,644 divided by the number of dependent children; or
 
-“(3) only by a dependent child, each dependent child shall receive an immediate annuity equal to the smaller of—
+"(3) only by a dependent child, each dependent child shall receive an immediate annuity equal to the smaller of—
 
-&emsp;“(A) the annuity a surviving spouse would be entitled to receive under clause (2) of this subsection divided by the number of dependent children;
+&emsp;"(A) the annuity a surviving spouse would be entitled to receive under clause (2) of this subsection divided by the number of dependent children;
 
-&emsp;“(B) $1,860; or
+&emsp;"(B) $1,860; or
 
-&emsp;“(C) $5,580 divided by the number of dependent children.”
+&emsp;"(C) $5,580 divided by the number of dependent children."
 
-Subsec. (d)(1). Pub. L. 100–426, §205(3), substituted “1.5 percent” for “1.25 percent” in introductory provisions.
+Subsec. (d)(1). Pub. L. 100–426, §205(3), substituted "1.5 percent" for "1.25 percent" in introductory provisions.
 
-Subsec. (e). Pub. L. 100–426, §205(4), substituted “more than 50 percent nor less than 25 percent” for “more than 40 percent”.
+Subsec. (e). Pub. L. 100–426, §205(4), substituted "more than 50 percent nor less than 25 percent" for "more than 40 percent".
 
 #### Effective Date of 1988 Amendment
 

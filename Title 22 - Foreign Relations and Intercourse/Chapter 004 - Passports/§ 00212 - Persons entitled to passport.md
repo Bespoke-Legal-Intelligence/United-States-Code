@@ -10,5 +10,5 @@ R.S. §4076 derived from act May 30, 1866, ch. 102, 14 Stat. 54.
 
 #### Amendments
 
-<b>1902</b>—Act June 14, 1902, substituted “those owing allegiance, whether citizens or not, to the United States” for “citizens of the United States”.
+<b>1902</b>—Act June 14, 1902, substituted "those owing allegiance, whether citizens or not, to the United States" for "citizens of the United States".
 

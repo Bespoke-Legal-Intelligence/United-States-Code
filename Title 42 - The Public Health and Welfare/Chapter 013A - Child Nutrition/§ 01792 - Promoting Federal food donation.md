@@ -22,43 +22,43 @@ Not later than 180 days after June 20, 2008, the Federal Acquisition Regulation 
 
 #### References in Text
 
-This section, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 110–247, June 20, 2008, 122 Stat. 2314, which enacted this section and provisions set out as notes under this section and section 1771 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 1771 of this title and Tables.
+This section, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 110–247, June 20, 2008, 122 Stat. 2314, which enacted this section and provisions set out as notes under this section and section 1771 of this title. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 1771 of this title and Tables.
 
 #### Codification
 
 Section was enacted as part of the Federal Food Donation Act of 2008, and not as part of the Child Nutrition Act of 1966 which comprises this chapter.
 
-In subsec. (a), “section 1303 of title 41” substituted for “section 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 421)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a), "section 1303 of title 41" substituted for "section 25 of the Office of Federal Procurement Policy Act (41 U.S.C. 421)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Purpose
 
-Pub. L. 110–247, §2, June 20, 2008, 122 Stat. 2314, provided that: “The purpose of this Act \[enacting this section and provisions set out as notes under this section and section 1771 of this title\] is to encourage executive agencies and contractors of executive agencies, to the maximum extent practicable and safe, to donate excess, apparently wholesome food to feed food-insecure people in the United States.”
+Pub. L. 110–247, §2, June 20, 2008, 122 Stat. 2314, provided that: "The purpose of this Act \[enacting this section and provisions set out as notes under this section and section 1771 of this title\] is to encourage executive agencies and contractors of executive agencies, to the maximum extent practicable and safe, to donate excess, apparently wholesome food to feed food-insecure people in the United States."
 
 #### Definitions
 
-Pub. L. 110–247, §3, June 20, 2008, 122 Stat. 2314, provided that: “In this Act \[enacting this section and provisions set out as notes under this section and section 1771 of this title\]:
+Pub. L. 110–247, §3, June 20, 2008, 122 Stat. 2314, provided that: "In this Act \[enacting this section and provisions set out as notes under this section and section 1771 of this title\]:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Apparently wholesome food.—The term ‘apparently wholesome food’ has the meaning given the term in section 2(b) \[probably means subsec. (b)\] of the Bill Emerson Good Samaritan Food Donation Act (42 U.S.C. 1791(b)).
+Apparently wholesome food.—The term 'apparently wholesome food' has the meaning given the term in section 2(b) \[probably means subsec. (b)\] of the Bill Emerson Good Samaritan Food Donation Act (42 U.S.C. 1791(b)).
 
-&emsp;“(2)
+&emsp;"(2)
 
-Excess.—The term ‘excess’, when applied to food, means food that—
+Excess.—The term 'excess', when applied to food, means food that—
 
-&emsp;&emsp;“(A) is not required to meet the needs of executive agencies; and
+&emsp;&emsp;"(A) is not required to meet the needs of executive agencies; and
 
-&emsp;&emsp;“(B) would otherwise be discarded.
+&emsp;&emsp;"(B) would otherwise be discarded.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Food-insecure.—The term ‘food-insecure’ means inconsistent access to sufficient, safe, and nutritious food.
+Food-insecure.—The term 'food-insecure' means inconsistent access to sufficient, safe, and nutritious food.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Nonprofit organization.—The term ‘nonprofit organization’ means any organization that is—
+Nonprofit organization.—The term 'nonprofit organization' means any organization that is—
 
-&emsp;&emsp;“(A) described in section 501(c) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)\]; and
+&emsp;&emsp;"(A) described in section 501(c) of the Internal Revenue Code of 1986 \[26 U.S.C. 501(c)\]; and
 
-&emsp;&emsp;“(B) exempt from tax under section 501(a) of that Code \[26 U.S.C. 501(a)\].”
+&emsp;&emsp;"(B) exempt from tax under section 501(a) of that Code \[26 U.S.C. 501(a)\]."
 

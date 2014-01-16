@@ -14,7 +14,7 @@ The purposes of the program are to—
 
 &emsp;(3) provide broadband education, awareness, training, access, equipment, and support to—
 
-&emsp;&emsp;(A) schools, libraries, medical and healthcare providers, community colleges and other institutions of higher education, and other community support organizations and entities to facilitate greater use of broadband service by or through these organizations;
+&emsp;&emsp;(A) schools, libraries, medical and healthcare providers, community colleges andother institutions of higher education, and other community support organizations and entities to facilitate greater use of broadband service by or through these organizations;
 
 &emsp;&emsp;(B) organizations and agencies that provide outreach, access, equipment, and support services to facilitate greater use of broadband service by low-income, unemployed, aged, and otherwise vulnerable populations; and
 
@@ -120,7 +120,7 @@ The Assistant Secretary, in awarding grants under this section, shall, to the ex
 
 The Assistant Secretary—
 
-&emsp;(1) shall require any entity receiving a grant pursuant to this section to report quarterly, in a format specified by the Assistant Secretary, on such entity's use of the assistance andprogress fulfilling the objectives for which such funds were granted, and the Assistant Secretary shall make these reports available to the public;
+&emsp;(1) shall require any entity receiving a grant pursuant to this section to report quarterly, in a format specified by the Assistant Secretary, on such entity's use of the assistance and progress fulfilling the objectives for which such funds were granted, and the Assistant Secretary shall make these reports available to the public;
 
 &emsp;(2) may establish additional reporting and information requirements for any recipient of any assistance made available pursuant to this section;
 

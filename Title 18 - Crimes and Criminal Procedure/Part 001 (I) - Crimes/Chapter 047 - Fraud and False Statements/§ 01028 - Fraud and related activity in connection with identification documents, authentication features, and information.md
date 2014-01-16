@@ -70,19 +70,19 @@
 
 (d) In this section and section 1028A—
 
-&emsp;(1) the term “authentication feature” means any hologram, watermark, certification, symbol, code, image, sequence of numbers or letters, or other feature that either individually or in combination with another feature is used by the issuing authority on an identification document, document-making implement, or means of identification to determine if the document is counterfeit, altered, or otherwise falsified;
+&emsp;(1) the term "authentication feature" means any hologram, watermark, certification, symbol, code, image, sequence of numbers or letters, or other feature that either individually or in combination with another feature is used by the issuing authority on an identification document, document-making implement, or means of identification to determine if the document is counterfeit, altered, or otherwise falsified;
 
-&emsp;(2) the term “document-making implement” means any implement, impression, template, computer file, computer disc, electronic device, or computer hardware or software, that is specifically configured or primarily used for making an identification document, a false identification document, or another document-making implement;
+&emsp;(2) the term "document-making implement" means any implement, impression, template, computer file, computer disc, electronic device, or computer hardware or software, that is specifically configured or primarily used for making an identification document, a false identification document, or another document-making implement;
 
-&emsp;(3) the term “identification document” means a document made or issued by or under the authority of the United States Government, a State, political subdivision of a State, a sponsoring entity of an event designated as a special event of national significance, a foreign government, political subdivision of a foreign government, an international governmental or an international quasi-governmental organization which, when completed with information concerning a particular individual, is of a type intended or commonly accepted for the purpose of identification of individuals;
+&emsp;(3) the term "identification document" means a document made or issued by or under the authority of the United States Government, a State, political subdivision of a State, a sponsoring entity of an event designated as a special event of national significance, a foreign government, political subdivision of a foreign government, an international governmental or an international quasi-governmental organization which, when completed with information concerning a particular individual, is of a type intended or commonly accepted for the purpose of identification of individuals;
 
-&emsp;(4) the term “false identification document” means a document of a type intended or commonly accepted for the purposes of identification of individuals that—
+&emsp;(4) the term "false identification document" means a document of a type intended or commonly accepted for the purposes of identification of individuals that—
 
 &emsp;&emsp;(A) is not issued by or under the authority of a governmental entity or was issued under the authority of a governmental entity but was subsequently altered for purposes of deceit; and
 
 &emsp;&emsp;(B) appears to be issued by or under the authority of the United States Government, a State, a political subdivision of a State, a sponsoring entity of an event designated by the President as a special event of national significance, a foreign government, a political subdivision of a foreign government, or an international governmental or quasi-governmental organization;
 
-&emsp;(5) the term “false authentication feature” means an authentication feature that—
+&emsp;(5) the term "false authentication feature" means an authentication feature that—
 
 &emsp;&emsp;(A) is genuine in origin, but, without the authorization of the issuing authority, has been tampered with or altered for purposes of deceit;
 
@@ -90,13 +90,13 @@
 
 &emsp;&emsp;(C) appears to be genuine, but is not;
 
-&emsp;(6) the term “issuing authority”—
+&emsp;(6) the term "issuing authority"—
 
 &emsp;&emsp;(A) means any governmental entity or agency that is authorized to issue identification documents, means of identification, or authentication features; and
 
 &emsp;&emsp;(B) includes the United States Government, a State, a political subdivision of a State, a sponsoring entity of an event designated by the President as a special event of national significance, a foreign government, a political subdivision of a foreign government, or an international government or quasi-governmental organization;
 
-&emsp;(7) the term “means of identification” means any name or number that may be used, alone or in conjunction with any other information, to identify a specific individual, including any—
+&emsp;(7) the term "means of identification" means any name or number that may be used, alone or in conjunction with any other information, to identify a specific individual, including any—
 
 &emsp;&emsp;(A) name, social security number, date of birth, official State or government issued driver's license or identification number, alien registration number, government passport number, employer or taxpayer identification number;
 
@@ -106,15 +106,15 @@
 
 &emsp;&emsp;(D) telecommunication identifying information or access device (as defined in section 1029(e));
 
-&emsp;(8) the term “personal identification card” means an identification document issued by a State or local government solely for the purpose of identification;
+&emsp;(8) the term "personal identification card" means an identification document issued by a State or local government solely for the purpose of identification;
 
-&emsp;(9) the term “produce” includes alter, authenticate, or assemble;
+&emsp;(9) the term "produce" includes alter, authenticate, or assemble;
 
-&emsp;(10) the term “transfer” includes selecting an identification document, false identification document, or document-making implement and placing or directing the placement of such identification document, false identification document, or document-making implement on an online location where it is available to others;
+&emsp;(10) the term "transfer" includes selecting an identification document, false identification document, or document-making implement and placing or directing the placement of such identification document, false identification document, or document-making implement on an online location where it is available to others;
 
-&emsp;(11) the term “State” includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other commonwealth, possession, or territory of the United States; and
+&emsp;(11) the term "State" includes any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other commonwealth, possession, or territory of the United States; and
 
-&emsp;(12) the term “traffic” means—
+&emsp;(12) the term "traffic" means—
 
 &emsp;&emsp;(A) to transport, transfer, or otherwise dispose of, to another, as consideration for anything of value; or
 
@@ -142,83 +142,83 @@ Rule of Construction.—For purpose of subsection (a)(7), a single identificatio
 
 #### Amendments
 
-<b>2006</b>—Subsecs. (a)(6), (c)(1). Pub. L. 109–177, §603(1), (2), inserted “or a sponsoring entity of an event designated as a special event of national significance” after “United States”.
+<b>2006</b>—Subsecs. (a)(6), (c)(1). Pub. L. 109–177, §603(1), (2), inserted "or a sponsoring entity of an event designated as a special event of national significance" after "United States".
 
-Subsec. (d)(3). Pub. L. 109–177, §603(3), inserted “a sponsoring entity of an event designated as a special event of national significance,” after “political subdivision of a State,”.
+Subsec. (d)(3). Pub. L. 109–177, §603(3), inserted "a sponsoring entity of an event designated as a special event of national significance," after "political subdivision of a State,".
 
-Subsec. (d)(4)(B), (6)(B). Pub. L. 109–177, §603(4), inserted “a sponsoring entity of an event designated by the President as a special event of national significance,” after “political subdivision of a State,”.
+Subsec. (d)(4)(B), (6)(B). Pub. L. 109–177, §603(4), inserted "a sponsoring entity of an event designated by the President as a special event of national significance," after "political subdivision of a State,".
 
-<b>2005</b>—Subsec. (a)(8). Pub. L. 109–13 substituted “false or actual authentication features” for “false authentication features”.
+<b>2005</b>—Subsec. (a)(8). Pub. L. 109–13 substituted "false or actual authentication features" for "false authentication features".
 
-<b>2004</b>—Subsec. (a)(7). Pub. L. 108–275, §3(1), substituted “transfers, possesses,” for “transfers” and “abet, or in connection with,” for “abet,”.
+<b>2004</b>—Subsec. (a)(7). Pub. L. 108–275, §3(1), substituted "transfers, possesses," for "transfers" and "abet, or in connection with," for "abet,".
 
-Subsec. (b)(1)(D). Pub. L. 108–275, §3(2), substituted “transfer, possession,” for “transfer”.
+Subsec. (b)(1)(D). Pub. L. 108–275, §3(2), substituted "transfer, possession," for "transfer".
 
-Subsec. (b)(2). Pub. L. 108–275, §3(3), substituted “5 years” for “three years” in introductory provisions.
+Subsec. (b)(2). Pub. L. 108–275, §3(3), substituted "5 years" for "three years" in introductory provisions.
 
-Subsec. (b)(4). Pub. L. 108–458 substituted “30 years” for “25 years”.
+Subsec. (b)(4). Pub. L. 108–458 substituted "30 years" for "25 years".
 
-Pub. L. 108–275, §3(4), inserted “an act of domestic terrorism (as defined under section 2331(5) of this title) or” after “facilitate”.
+Pub. L. 108–275, §3(4), inserted "an act of domestic terrorism (as defined under section 2331(5) of this title) or" after "facilitate".
 
-Subsec. (d). Pub. L. 108–275, §2(c), inserted “and section 1028A” after “In this section” in introductory provisions.
+Subsec. (d). Pub. L. 108–275, §2(c), inserted "and section 1028A" after "In this section" in introductory provisions.
 
-<b>2003</b>—Pub. L. 108–21, §607(b)(6), inserted “, authentication features,” after “documents” in section catchline.
+<b>2003</b>—Pub. L. 108–21, §607(b)(6), inserted ", authentication features," after "documents" in section catchline.
 
-Subsec. (a)(1). Pub. L. 108–21, §607(b)(1)(A), inserted “, authentication feature,” after “an identification document”.
+Subsec. (a)(1). Pub. L. 108–21, §607(b)(1)(A), inserted ", authentication feature," after "an identification document".
 
-Subsec. (a)(2). Pub. L. 108–21, §607(b)(1)(B), inserted “, authentication feature,” after “an identification document” and “or feature” after “such document”.
+Subsec. (a)(2). Pub. L. 108–21, §607(b)(1)(B), inserted ", authentication feature," after "an identification document" and "or feature" after "such document".
 
-Subsec. (a)(3). Pub. L. 108–21, §607(b)(1)(C), inserted “, authentication features,” after “possessor)”.
+Subsec. (a)(3). Pub. L. 108–21, §607(b)(1)(C), inserted ", authentication features," after "possessor)".
 
-Subsec. (a)(4). Pub. L. 108–21, §607(b)(1)(D), inserted “, authentication feature,” after “possessor)” and “or feature” after “such document”.
+Subsec. (a)(4). Pub. L. 108–21, §607(b)(1)(D), inserted ", authentication feature," after "possessor)" and "or feature" after "such document".
 
-Subsec. (a)(5). Pub. L. 108–21, §607(b)(1)(E), inserted “or authentication feature” after “implement” wherever appearing.
+Subsec. (a)(5). Pub. L. 108–21, §607(b)(1)(E), inserted "or authentication feature" after "implement" wherever appearing.
 
-Subsec. (a)(6). Pub. L. 108–21, §607(b)(1)(F), inserted “or authentication feature” before “that is or appears”, “or authentication feature” before “of the United States” and “or feature” after “such document” and struck out “or” at end.
+Subsec. (a)(6). Pub. L. 108–21, §607(b)(1)(F), inserted "or authentication feature" before "that is or appears", "or authentication feature" before "of the United States" and "or feature" after "such document" and struck out "or" at end.
 
-Subsec. (a)(7). Pub. L. 108–21, §607(b)(1)(G), inserted “or” after semicolon at end.
+Subsec. (a)(7). Pub. L. 108–21, §607(b)(1)(G), inserted "or" after semicolon at end.
 
 Subsec. (a)(8). Pub. L. 108–21, §607(b)(1)(H), added par. (8).
 
-Subsec. (b)(1)(A). Pub. L. 108–21, §607(b)(2)(A)(i)(I), inserted “, authentication feature,” before “or false” in introductory provisions.
+Subsec. (b)(1)(A). Pub. L. 108–21, §607(b)(2)(A)(i)(I), inserted ", authentication feature," before "or false" in introductory provisions.
 
-Subsec. (b)(1)(A)(i). Pub. L. 108–21, §607(b)(2)(A)(i)(II), inserted “or authentication feature” after “document”.
+Subsec. (b)(1)(A)(i). Pub. L. 108–21, §607(b)(2)(A)(i)(II), inserted "or authentication feature" after "document".
 
-Subsec. (b)(1)(B). Pub. L. 108–21, §607(b)(2)(A)(ii), inserted “, authentication features,” before “or false”.
+Subsec. (b)(1)(B). Pub. L. 108–21, §607(b)(2)(A)(ii), inserted ", authentication features," before "or false".
 
-Subsec. (b)(2)(A). Pub. L. 108–21, §607(b)(2)(B), inserted “, authentication feature,” before “or a false”.
+Subsec. (b)(2)(A). Pub. L. 108–21, §607(b)(2)(B), inserted ", authentication feature," before "or a false".
 
-Subsec. (c)(1). Pub. L. 108–21, §607(b)(3), inserted “, authentication feature,” before “or false” in two places.
+Subsec. (c)(1). Pub. L. 108–21, §607(b)(3), inserted ", authentication feature," before "or false" in two places.
 
-Subsec. (d). Pub. L. 108–21, §607(b)(4), added pars. (1), (5), (6) and (12), redesignated former pars. (1), (2), (3), (4), (5), (6), (7), and (8) as pars. (2), (3), (4), (7), (8), (9), (10), and (11), respectively, and in par. (4)(A) inserted “or was issued under the authority of a governmental entity but was subsequently altered for purposes of deceit” after “entity”.
+Subsec. (d). Pub. L. 108–21, §607(b)(4), added pars. (1), (5), (6) and (12), redesignated former pars. (1), (2), (3), (4), (5), (6), (7), and (8) as pars. (2), (3), (4), (7), (8), (9), (10), and (11), respectively, and in par. (4)(A) inserted "or was issued under the authority of a governmental entity but was subsequently altered for purposes of deceit" after "entity".
 
 Subsecs. (h), (i). Pub. L. 108–21, §607(b)(5), added subsec. (h) and redesignated former subsec. (h) as (i).
 
-<b>2000</b>—Subsec. (c)(3)(A). Pub. L. 106–578, §3(1), inserted “, including the transfer of a document by electronic means” after “commerce”.
+<b>2000</b>—Subsec. (c)(3)(A). Pub. L. 106–578, §3(1), inserted ", including the transfer of a document by electronic means" after "commerce".
 
-Subsec. (d)(1). Pub. L. 106–578, §3(2)(A), inserted “template, computer file, computer disc,” after “impression,”.
+Subsec. (d)(1). Pub. L. 106–578, §3(2)(A), inserted "template, computer file, computer disc," after "impression,".
 
 Subsec. (d)(3) to (8). Pub. L. 106–578, §3(2)(B)–(F), added pars. (3) and (7) and redesignated former pars. (3), (4), (5), and (6) as (4), (5), (6), and (8), respectively.
 
-<b>1998</b>—Pub. L. 105–318, §3(h)(1), inserted “and information” at end of section catchline.
+<b>1998</b>—Pub. L. 105–318, §3(h)(1), inserted "and information" at end of section catchline.
 
-Subsec. (a). Pub. L. 105–318, §3(a)(3), struck out “or attempts to do so,” before “shall be punished” in concluding provisions.
+Subsec. (a). Pub. L. 105–318, §3(a)(3), struck out "or attempts to do so," before "shall be punished" in concluding provisions.
 
 Subsec. (a)(7). Pub. L. 105–318, §3(a)(1), (2), (4), added par. (7).
 
 Subsec. (b)(1)(D). Pub. L. 105–318, §3(b)(1), added subpar. (D).
 
-Subsec. (b)(2)(A). Pub. L. 105–318, §3(b)(2)(A), substituted “, transfer, or use of a means of identification, an identification document, or a” for “or transfer of an identification document or”.
+Subsec. (b)(2)(A). Pub. L. 105–318, §3(b)(2)(A), substituted ", transfer, or use of a means of identification, an identification document, or a" for "or transfer of an identification document or".
 
-Subsec. (b)(2)(B). Pub. L. 105–318, §3(b)(2)(B), inserted “or (7)” after “(3)”.
+Subsec. (b)(2)(B). Pub. L. 105–318, §3(b)(2)(B), inserted "or (7)" after "(3)".
 
-Subsec. (b)(3). Pub. L. 105–318, §3(b)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “a fine under this title or imprisonment for not more than 20 years, or both, if the offense is committed to facilitate a drug trafficking crime (as defined in section 929(a)(2) of this title);”.
+Subsec. (b)(3). Pub. L. 105–318, §3(b)(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "a fine under this title or imprisonment for not more than 20 years, or both, if the offense is committed to facilitate a drug trafficking crime (as defined in section 929(a)(2) of this title);".
 
 Subsec. (b)(5), (6). Pub. L. 105–318, §3(b)(4)–(6), added par. (5) and redesignated former par. (5) as (6).
 
-Subsec. (c)(3). Pub. L. 105–318, §3(c), added par. (3) and struck out former par. (3) which read as follows: “the production, transfer, or possession prohibited by this section is in or affects interstate or foreign commerce, or the identification document, false identification document, or document-making implement is transported in the mail in the course of the production, transfer, or possession prohibited by this section.”
+Subsec. (c)(3). Pub. L. 105–318, §3(c), added par. (3) and struck out former par. (3) which read as follows: "the production, transfer, or possession prohibited by this section is in or affects interstate or foreign commerce, or the identification document, false identification document, or document-making implement is transported in the mail in the course of the production, transfer, or possession prohibited by this section."
 
-Subsec. (d). Pub. L. 105–318, §3(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) consisted of pars. (1) to (5) defining “identification document”, “produce”, “document-making implement”, “personal identification card”, and “State” as used in this section.
+Subsec. (d). Pub. L. 105–318, §3(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) consisted of pars. (1) to (5) defining "identification document", "produce", "document-making implement", "personal identification card", and "State" as used in this section.
 
 Subsec. (f). Pub. L. 105–318, §3(e), added subsec. (f).
 
@@ -226,75 +226,75 @@ Subsec. (g). Pub. L. 105–318, §3(f), added subsec. (g).
 
 Subsec. (h). Pub. L. 105–318, §3(g), added subsec. (h).
 
-<b>1996</b>—Subsec. (a)(4), (5). Pub. L. 104–294, §601(p), struck out “or” after semicolon in par. (4) and inserted “or” after semicolon in par. (5).
+<b>1996</b>—Subsec. (a)(4), (5). Pub. L. 104–294, §601(p), struck out "or" after semicolon in par. (4) and inserted "or" after semicolon in par. (5).
 
-Subsec. (b). Pub. L. 104–294, §601(a)(3), substituted “fine under this title” for “fine of under this title” wherever appearing.
+Subsec. (b). Pub. L. 104–294, §601(a)(3), substituted "fine under this title" for "fine of under this title" wherever appearing.
 
-Subsec. (b)(1). Pub. L. 104–208, §211(a)(1)(A), in introductory provisions inserted “except as provided in paragraphs (3) and (4),” after “(1)” and substituted “15 years” for “five years”.
+Subsec. (b)(1). Pub. L. 104–208, §211(a)(1)(A), in introductory provisions inserted "except as provided in paragraphs (3) and (4)," after "(1)" and substituted "15 years" for "five years".
 
-Subsec. (b)(2). Pub. L. 104–208, §211(a)(1)(B), inserted “except as provided in paragraphs (3) and (4),” after “(2)” in introductory provisions and struck out “and” at end.
+Subsec. (b)(2). Pub. L. 104–208, §211(a)(1)(B), inserted "except as provided in paragraphs (3) and (4)," after "(2)" in introductory provisions and struck out "and" at end.
 
 Subsec. (b)(3) to (5). Pub. L. 104–208, §211(a)(1)(C), (D), added pars. (3) and (4) and redesignated former par. (3) as (5).
 
-<b>1994</b>—Subsec. (b)(1). Pub. L. 103–322, §330016(1)(O), substituted “under this title” for “not more than $25,000”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–322, §330016(1)(O), substituted "under this title" for "not more than $25,000".
 
-Subsec. (b)(2). Pub. L. 103–322, §330016(1)(M), substituted “under this title” for “not more than $15,000”.
+Subsec. (b)(2). Pub. L. 103–322, §330016(1)(M), substituted "under this title" for "not more than $15,000".
 
-Subsec. (b)(3). Pub. L. 103–322, §330016(1)(K), substituted “under this title” for “not more than $5,000”.
+Subsec. (b)(3). Pub. L. 103–322, §330016(1)(K), substituted "under this title" for "not more than $5,000".
 
-<b>1990</b>—Subsec. (d)(5). Pub. L. 101–647 inserted “commonwealth,” before “possession or territory of the United States”.
+<b>1990</b>—Subsec. (d)(5). Pub. L. 101–647 inserted "commonwealth," before "possession or territory of the United States".
 
-<b>1988</b>—Subsec. (a)(6). Pub. L. 100–690 inserted “knowingly” before “possesses”, “lawful” before first reference to “authority”, and “such” before second reference to “authority”.
+<b>1988</b>—Subsec. (a)(6). Pub. L. 100–690 inserted "knowingly" before "possesses", "lawful" before first reference to "authority", and "such" before second reference to "authority".
 
-<b>1986</b>—Subsec. (e). Pub. L. 99–646 substituted “chapter 224 of this title” for “title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481)”.
+<b>1986</b>—Subsec. (e). Pub. L. 99–646 substituted "chapter 224 of this title" for "title V of the Organized Crime Control Act of 1970 (18 U.S.C. note prec. 3481)".
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–578, §5, Dec. 28, 2000, 114 Stat. 3077, provided that: “This Act \[amending this section, repealing section 1738 of this title, and enacting provisions set out as a note below\] and the amendments made by this Act shall take effect 90 days after the date of enactment of this Act \[Dec. 28, 2000\].”
+Pub. L. 106–578, §5, Dec. 28, 2000, 114 Stat. 3077, provided that: "This Act \[amending this section, repealing section 1738 of this title, and enacting provisions set out as a note below\] and the amendments made by this Act shall take effect 90 days after the date of enactment of this Act \[Dec. 28, 2000\]."
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–208, div. C, title II, §211(c), Sept. 30, 1996, 110 Stat. 3009–570, provided that: “This section \[amending this section and sections 1425 to 1427, 1541 to 1544, and 1546 of this title and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\].”
+Pub. L. 104–208, div. C, title II, §211(c), Sept. 30, 1996, 110 Stat. 3009–570, provided that: "This section \[amending this section and sections 1425 to 1427, 1541 to 1544, and 1546 of this title and enacting provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] and the amendments made by this section shall apply with respect to offenses occurring on or after the date of the enactment of this Act \[Sept. 30, 1996\]."
 
 #### Coordinating Committee on False Identification
 
 Pub. L. 106–578, §2, Dec. 28, 2000, 114 Stat. 3075, provided that:
 
-“(a)
+"(a)
 
 In General.—The Attorney General and the Secretary of the Treasury shall establish a coordinating committee to ensure, through existing interagency task forces or other means, that the creation and distribution of false identification documents (as defined in section 1028(d)(3) \[now 1028(d)(4)\] of title 18, United States Code, as added by section 3(2) of this Act) is vigorously investigated and prosecuted.
 
-“(b)
+"(b)
 
 Membership.—The coordinating committee shall consist of the Director of the United States Secret Service, the Director of the Federal Bureau of Investigation, the Attorney General, the Commissioner of Social Security, and the Commissioner of Immigration and Naturalization, or their respective designees.
 
-“(c)
+"(c)
 
 Term.—The coordinating committee shall terminate 2 years after the effective date of this Act \[see Effective Date of 2000 Amendment note above\].
 
-“(d)
+"(d)
 
 Report.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Attorney General and the Secretary of the Treasury, at the end of each year of the existence of the committee, shall report to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives on the activities of the committee.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Contents.—The report referred to in paragraph (1) shall include—
 
-&emsp;&emsp;“(A) the total number of indictments and informations, guilty pleas, convictions, and acquittals resulting from the investigation and prosecution of the creation and distribution of false identification documents during the preceding year;
+&emsp;&emsp;"(A) the total number of indictments and informations, guilty pleas, convictions, and acquittals resulting from the investigation and prosecution of the creation and distribution of false identification documents during the preceding year;
 
-&emsp;&emsp;“(B) identification of the Federal judicial districts in which the indictments and informations were filed, and in which the subsequent guilty pleas, convictions, and acquittals occurred;
+&emsp;&emsp;"(B) identification of the Federal judicial districts in which the indictments and informations were filed, and in which the subsequent guilty pleas, convictions, and acquittals occurred;
 
-&emsp;&emsp;“(C) specification of the Federal statutes utilized for prosecution;
+&emsp;&emsp;"(C) specification of the Federal statutes utilized for prosecution;
 
-&emsp;&emsp;“(D) a brief factual description of significant investigations and prosecutions;
+&emsp;&emsp;"(D) a brief factual description of significant investigations and prosecutions;
 
-&emsp;&emsp;“(E) specification of the sentence imposed as a result of each guilty plea and conviction; and
+&emsp;&emsp;"(E) specification of the sentence imposed as a result of each guilty plea and conviction; and
 
-&emsp;&emsp;“(F) recommendations, if any, for legislative changes that could facilitate more effective investigation and prosecution of the creation and distribution of false identification documents.”
+&emsp;&emsp;"(F) recommendations, if any, for legislative changes that could facilitate more effective investigation and prosecution of the creation and distribution of false identification documents."
 
 \[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
@@ -302,47 +302,47 @@ Contents.—The report referred to in paragraph (1) shall include—
 
 #### Constitutional Authority
 
-Pub. L. 105–318, §2, Oct. 30, 1998, 112 Stat. 3007, provided that: “The constitutional authority upon which this Act \[see Short Title of 1998 Amendments note set out under section 1001 of this title\] rests is the power of Congress to regulate commerce with foreign nations and among the several States, and the authority to make all laws which shall be necessary and proper for carrying into execution the powers vested by the Constitution in the Government of the United States or in any department or officer thereof, as set forth in article I, section 8 of the United States Constitution.”
+Pub. L. 105–318, §2, Oct. 30, 1998, 112 Stat. 3007, provided that: "The constitutional authority upon which this Act \[see Short Title of 1998 Amendments note set out under section 1001 of this title\] rests is the power of Congress to regulate commerce with foreign nations and among the several States, and the authority to make all laws which shall be necessary and proper for carrying into execution the powers vested by the Constitution in the Government of the United States or in any department or officer thereof, as set forth in article I, section 8 of the United States Constitution."
 
 #### Centralized Complaint and Consumer Education Service for Victims of Identity Theft
 
 Pub. L. 105–318, §5, Oct. 30, 1998, 112 Stat. 3010, provided that:
 
-“(a)
+"(a)
 
 In General.—Not later than 1 year after the date of enactment of this Act \[Oct. 30, 1998\], the Federal Trade Commission shall establish procedures to—
 
-&emsp;“(1) log and acknowledge the receipt of complaints by individuals who certify that they have a reasonable belief that 1 or more of their means of identification (as defined in section 1028 of title 18, United States Code, as amended by this Act) have been assumed, stolen, or otherwise unlawfully acquired in violation of section 1028 of title 18, United States Code, as amended by this Act;
+&emsp;"(1) log and acknowledge the receipt of complaints by individuals who certify that they have a reasonable belief that 1 or more of their means of identification (as defined in section 1028 of title 18, United States Code, as amended by this Act) have been assumed, stolen, or otherwise unlawfully acquired in violation of section 1028 of title 18, United States Code, as amended by this Act;
 
-&emsp;“(2) provide informational materials to individuals described in paragraph (1); and
+&emsp;"(2) provide informational materials to individuals described in paragraph (1); and
 
-&emsp;“(3) refer complaints described in paragraph (1) to appropriate entities, which may include referral to—
+&emsp;"(3) refer complaints described in paragraph (1) to appropriate entities, which may include referral to—
 
-&emsp;&emsp;“(A) the 3 major national consumer reporting agencies; and
+&emsp;&emsp;"(A) the 3 major national consumer reporting agencies; and
 
-&emsp;&emsp;“(B) appropriate law enforcement agencies for potential law enforcement action.
+&emsp;&emsp;"(B) appropriate law enforcement agencies for potential law enforcement action.
 
-“(b)
+"(b)
 
-Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this section.”
+Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this section."
 
 #### Fraud and Related Activity in Connection With Identification Documents
 
 Pub. L. 98–473, title II, §609L, Oct. 12, 1984, 98 Stat. 2103, provided that:
 
-“(a) For purposes of section 1028 of title 18, United States Code, to the maximum extent feasible, personal descriptors or identifiers utilized in identification documents, as defined in such section, shall utilize common descriptive terms and formats designed to—
+"(a) For purposes of section 1028 of title 18, United States Code, to the maximum extent feasible, personal descriptors or identifiers utilized in identification documents, as defined in such section, shall utilize common descriptive terms and formats designed to—
 
-&emsp;“(1) reduce the redundancy and duplication of identification systems by providing information which can be utilized by the maximum number of authorities, and
+&emsp;"(1) reduce the redundancy and duplication of identification systems by providing information which can be utilized by the maximum number of authorities, and
 
-&emsp;“(2) facilitate positive identification of bona fide holders of identification documents.
+&emsp;"(2) facilitate positive identification of bona fide holders of identification documents.
 
-“(b) The President shall, no later than 3 years after the date of enactment of this Act \[Oct. 12, 1984\], and after consultation with Federal, State, local, and international issuing authorities, and concerned groups make recommnedations \[recommendations\] to the Congress for the enactment of comprehensive legislation on Federal identification systems. Such legislation shall—
+"(b) The President shall, no later than 3 years after the date of enactment of this Act \[Oct. 12, 1984\], and after consultation with Federal, State, local, and international issuing authorities, and concerned groups make recommnedations \[recommendations\] to the Congress for the enactment of comprehensive legislation on Federal identification systems. Such legislation shall—
 
-&emsp;“(1) give due consideration to protecting the privacy of persons who are the subject of any identification system,
+&emsp;"(1) give due consideration to protecting the privacy of persons who are the subject of any identification system,
 
-&emsp;“(2) recommend appropriate civil and criminal sanctions for the misuse or unauthorized disclosure of personal identification information, and
+&emsp;"(2) recommend appropriate civil and criminal sanctions for the misuse or unauthorized disclosure of personal identification information, and
 
-&emsp;“(3) make recommendations providing for the exchange of personal identification information as authorized by Federal or State law or Executive order of the President or the chief executive officer of any of the several States.”
+&emsp;"(3) make recommendations providing for the exchange of personal identification information as authorized by Federal or State law or Executive order of the President or the chief executive officer of any of the several States."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

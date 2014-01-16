@@ -12,7 +12,7 @@ No increase in any annual percentage rate applicable to a credit card account un
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–203 substituted “Bureau” for “Board” in two places.
+<b>2010</b>—Subsec. (b). Pub. L. 111–203 substituted "Bureau" for "Board" in two places.
 
 #### Effective Date of 2010 Amendment
 

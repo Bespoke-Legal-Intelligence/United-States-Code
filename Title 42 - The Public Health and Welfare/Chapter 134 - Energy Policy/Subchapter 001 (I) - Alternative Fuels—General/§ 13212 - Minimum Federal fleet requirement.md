@@ -28,7 +28,7 @@
 
 (2) The Secretary, in consultation with the Administrator of General Services where appropriate, may permit a Federal fleet to acquire a smaller percentage than is required in paragraph (1), so long as the aggregate percentage acquired by all Federal fleets is at least equal to the required percentage.
 
-(3) For purposes of this subsection, the term “Federal fleet” means 20 or more light duty motor vehicles, located in a metropolitan statistical area or consolidated metropolitan statistical area, as established by the Bureau of the Census, with a 1980 population of more than 250,000, that are centrally fueled or capable of being centrally fueled and are owned, operated, leased, or otherwise controlled by or assigned to any Federal executive department, military department, Government corporation, independent establishment, or executive agency, the United States Postal Service, the Congress, the courts of the United States, or the Executive Office of the President. Such term does not include—
+(3) For purposes of this subsection, the term "Federal fleet" means 20 or more light duty motor vehicles, located in a metropolitan statistical area or consolidated metropolitan statistical area, as established by the Bureau of the Census, with a 1980 population of more than 250,000, that are centrally fueled or capable of being centrally fueled and are owned, operated, leased, or otherwise controlled by or assigned to any Federal executive department, military department, Government corporation, independent establishment, or executive agency, the United States Postal Service, the Congress, the courts of the United States, or the Executive Office of the President. Such term does not include—
 
 &emsp;(A) motor vehicles held for lease or rental to the general public;
 
@@ -48,7 +48,7 @@ The General Services Administration and any other Federal agency that procures m
 
 #### (d) Application of requirements
 
-The provisions of section 6374 of this title relating to the Federal acquisition of alternative fueled vehicles shall apply to the acquisition of vehicles pursuant to this section.
+The provisions of section 6374 of this title relating to the Federal acquisition of alternativefueled vehicles shall apply to the acquisition of vehicles pursuant to this section.
 
 #### (e) Resale
 
@@ -62,15 +62,15 @@ The Administrator of General Services shall take all feasible steps to ensure th
 
 #### (A) Federal agency
 
-&emsp;&emsp;The term “Federal agency” does not include any office of the legislative branch, except that it does include the House of Representatives with respect to an acquisition described in paragraph (2)(C).
+&emsp;&emsp;The term "Federal agency" does not include any office of the legislative branch, except that it does include the House of Representatives with respect to an acquisition described in paragraph (2)(C).
 
 #### (B) Medium duty passenger vehicle
 
-&emsp;&emsp;The term “medium duty passenger vehicle” has the meaning given that term <sup>1</sup> section 523.2 of title 49 of the Code of Federal Regulations, as in effect on December 19, 2007.
+&emsp;&emsp;The term "medium duty passenger vehicle" has the meaning given that term <sup>1</sup> section 523.2 of title 49 of the Code of Federal Regulations, as in effect on December 19, 2007.
 
 #### (C) Member's Representational Allowance
 
-&emsp;&emsp;The term “Member's Representational Allowance” means the allowance described in section 57b(a) of title 2.
+&emsp;&emsp;The term "Member's Representational Allowance" means the allowance described in section 5341(a) of title 2.
 
 #### (2) Prohibition
 
@@ -90,7 +90,7 @@ The Administrator of General Services shall take all feasible steps to ensure th
 
 &emsp;&emsp;&emsp;&emsp;(II) will reduce each year a measured and verified quantity of greenhouse gas emissions equal to or greater than the quantity of greenhouse gas reductions that would have been achieved each year through acquisition of a low greenhouse gas emitting vehicle.
 
-#### (C) Special rule for vehicles provided by funds contained in Members’ Representational Allowance
+#### (C) Special rule for vehicles provided by funds contained in Members' Representational Allowance
 
 &emsp;&emsp;This paragraph shall apply to the acquisition of a light duty motor vehicle or medium duty passenger vehicle using any portion of a Member's Representational Allowance, including an acquisition under a long-term lease.
 
@@ -118,7 +118,7 @@ There are authorized to be appropriated for carrying out this section, such sums
 
 <b>2007</b>—Subsecs. (f), (g). Pub. L. 110–140 added subsec. (f) and redesignated former subsec. (f) as (g).
 
-<b>2005</b>—Subsec. (c). Pub. L. 109–58 substituted “shall” for “may”.
+<b>2005</b>—Subsec. (c). Pub. L. 109–58 substituted "shall" for "may".
 
 #### Effective Date of 2007 Amendment
 
@@ -136,5 +136,5 @@ Ex. Ord. No. 13031, Dec. 13, 1996, 61 F.R. 66529, which provided that the Federa
 
 Ex. Ord. No. 13149, Apr. 21, 2000, 65 F.R. 24607, which directed the Federal Government to exercise leadership in the reduction of petroleum consumption through improvements in fleet fuel efficiency and the use of alternative fuel vehicles and alternative fuels, was revoked by Ex. Ord. No. 13423, §11(a)(v), Jan. 24, 2007, 72 F.R. 3923, set out in a note under section 4321 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “in” probably should appear after “term”.</i>
+<i><sup>1</sup></i><i> So in original. The word "in" probably should appear after "term".</i>
 

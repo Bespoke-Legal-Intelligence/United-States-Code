@@ -10,7 +10,7 @@ Purposes.—The purposes of the Office of Federal Procurement Policy are to—
 
 &emsp;(1) provide overall direction of Government-wide procurement policies, regulations, procedures, and forms for executive agencies; and
 
-&emsp;(2) promote economy, efficiency, and effectiveness in the procurement of property and services by the executive branch of the Federal Government.
+&emsp;(2) promote economy, efficiency, and effectiveness in the procurement of property andservices by the executive branch of the Federal Government.
 
 (c)
 
@@ -42,7 +42,7 @@ Pub. L. 93–400, §11, Aug. 30, 1974, 88 Stat. 799; Pub. L. 96–83, §7, Oct. 
 
 #### Requirements for Use of Appropriations by Executive Agencies for Services by Contract
 
-Pub. L. 102–394, title V, §502, Oct. 6, 1992, 106 Stat. 1825, provided that: “No part of any appropriation contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts shall be expended by an executive agency, as referred to in the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 401 et seq.) \[see this division (except sections 1123, 2303, 2304, and 2313)\], pursuant to any obligation for services by contract, unless such executive agency has awarded and entered into such contract in full compliance with such Act and regulations promulgated thereunder.”
+Pub. L. 102–394, title V, §502, Oct. 6, 1992, 106 Stat. 1825, provided that: "No part of any appropriation contained in this Act or subsequent Departments of Labor, Health and Human Services, and Education, and Related Agencies Appropriations Acts shall be expended by an executive agency, as referred to in the Office of Federal Procurement Policy Act (\[former\] 41 U.S.C. 401 et seq.) \[see this division (except sections 1123, 2303, 2304, and 2313)\], pursuant to any obligation for services by contract, unless such executive agency has awarded and entered into such contract in full compliance with such Act and regulations promulgated thereunder."
 
 Similar provisions were contained in the following prior appropriation acts:
 

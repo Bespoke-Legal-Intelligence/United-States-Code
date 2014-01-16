@@ -2,15 +2,15 @@
 
 #### (a) Authority
 
-The Secretary of State may reimburse domestic and foreign persons, agencies, or governments for the protection of judges or other persons who provide assistance or information relating to terrorist incidents primarily outside the territorial jurisdiction of the United States. Before making a payment under this section in a matter over which there is Federal criminal jurisdiction, the Secretary shall advise and consult with the Attorney General.
+The Secretary of State may reimburse domestic and foreign persons, agencies, or governments for the protection of judges or other persons who provide assistance or information relating to terrorist incidents primarily outsidethe territorial jurisdiction of the United States. Before making a payment under this section in a matter over which there is Federal criminal jurisdiction, the Secretary shall advise and consult with the Attorney General.
 
 #### (b) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary of State for “Administration of Foreign Affairs” $1,000,000 for fiscal year 1986 and $1,000,000 for fiscal year 1987 for use in reimbursing persons, agencies, or governments under this section.
+There are authorized to be appropriated to the Secretary of State for "Administration of Foreign Affairs" $1,000,000 for fiscal year 1986 and $1,000,000 for fiscal year 1987 for use in reimbursing persons, agencies, or governments under this section.
 
 #### (c) Designation of Fund
 
-Amounts made available under this section may be referred to as the “Counterterrorism Protection Fund”.
+Amounts made available under this section may be referred to as the "Counterterrorism Protection Fund".
 
 (Aug. 1, 1956, ch. 841, title I, §39, as added Pub. L. 99–399, title V, §504(2), Aug. 27, 1986, 100 Stat. 871.)
 

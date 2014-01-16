@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (1) Dealer in securities defined
 
-&emsp;The term “dealer in securities” means a taxpayer who—
+&emsp;The term "dealer in securities" means a taxpayer who—
 
 &emsp;&emsp;(A) regularly purchases securities from or sells securities to customers in the ordinary course of a trade or business; or
 
@@ -58,7 +58,7 @@ For purposes of this section—
 
 #### (2) Security defined
 
-&emsp;The term “security” means any—
+&emsp;The term "security" means any—
 
 &emsp;&emsp;(A) share of stock in a corporation;
 
@@ -82,7 +82,7 @@ For purposes of this section—
 
 #### (3) Hedge
 
-&emsp;The term “hedge” means any position which manages the dealer's risk of interest rate or price changes or currency fluctuations, including any position which is reasonably expected to become a hedge within 60 days after the acquisition of the position.
+&emsp;The term "hedge" means any position which manages the dealer's risk of interest rate or price changes or currency fluctuations, including any position which is reasonably expected to become a hedge within 60 days after the acquisition of the position.
 
 #### (4) Special rules for certain receivables
 
@@ -92,7 +92,7 @@ For purposes of this section—
 
 #### (B) Nonfinancial customer paper
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “nonfinancial customer paper” means any receivable which—
+&emsp;&emsp;For purposes of subparagraph (A), the term "nonfinancial customer paper" means any receivable which—
 
 &emsp;&emsp;&emsp;(i) is a note, bond, debenture, or other evidence of indebtedness;
 
@@ -156,7 +156,7 @@ For purposes of this section—
 
 #### (2) Commodity
 
-&emsp;For purposes of this subsection and subsection (f), the term “commodity” means—
+&emsp;For purposes of this subsection and subsection (f), the term "commodity" means—
 
 &emsp;&emsp;(A) any commodity which is actively traded (within the meaning of section 1092(d)(1));
 
@@ -230,15 +230,15 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-<b>2002</b>—Subsec. (g)(3). Pub. L. 107–147 substituted “described in section” for “described in sections”.
+<b>2002</b>—Subsec. (g)(3). Pub. L. 107–147 substituted "described in section" for "described in sections".
 
-<b>2000</b>—Subsec. (g)(3). Pub. L. 106–554 substituted “267(b) or” for “267(b) of”.
+<b>2000</b>—Subsec. (g)(3). Pub. L. 106–554 substituted "267(b) or" for "267(b) of".
 
-<b>1999</b>—Subsec. (c)(3). Pub. L. 106–170 substituted “manages” for “reduces”.
+<b>1999</b>—Subsec. (c)(3). Pub. L. 106–170 substituted "manages" for "reduces".
 
 <b>1998</b>—Subsec. (c)(4). Pub. L. 105–206, §7003(a), added par. (4).
 
-Subsec. (f)(1)(D). Pub. L. 105–206, §6010(a)(3), inserted at end “Subsection (d)(3) shall not apply under the preceding sentence for purposes of applying sections 1402 and 7704.”
+Subsec. (f)(1)(D). Pub. L. 105–206, §6010(a)(3), inserted at end "Subsection (d)(3) shall not apply under the preceding sentence for purposes of applying sections 1402 and 7704."
 
 Subsec. (g)(3). Pub. L. 105–206, §7003(b), added par. (3).
 
@@ -254,113 +254,113 @@ Amendment by section 6010(a)(3) of Pub. L. 105–206 effective, except as otherw
 
 Pub. L. 105–206, title VII, §7003(c), July 22, 1998, 112 Stat. 833, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act \[July 22, 1998\].
 
-“(2)
+"(2)
 
 Change in method of accounting.—In the case of any taxpayer required by the amendments made by this section to change its method of accounting for its first taxable year ending after the date of the enactment of this Act—
 
-&emsp;“(A) such change shall be treated as initiated by the taxpayer;
+&emsp;"(A) such change shall be treated as initiated by the taxpayer;
 
-&emsp;“(B) such change shall be treated as made with the consent of the Secretary of the Treasury; and
+&emsp;"(B) such change shall be treated as made with the consent of the Secretary of the Treasury; and
 
-&emsp;“(C) the net amount of the adjustments required to be taken into account by the taxpayer under section 481 of the Internal Revenue Code of 1986 shall be taken into account ratably over the 4-taxable-year period beginning with such first taxable year.”
+&emsp;"(C) the net amount of the adjustments required to be taken into account by the taxpayer under section 481 of the Internal Revenue Code of 1986 shall be taken into account ratably over the 4-taxable-year period beginning with such first taxable year."
 
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–34, title X, §1001(d), Aug. 5, 1997, 111 Stat. 907, as amended by Pub. L. 105–206, title VI, §6010(a)(4), July 22, 1998, 112 Stat. 813, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting section 1259 of this title and amending this section\] shall apply to any constructive sale after June 8, 1997.
 
-“(2)
+"(2)
 
 Exception for sales of positions, etc. held before june 9, 1997.—If—
 
-&emsp;“(A) before June 9, 1997, the taxpayer entered into any transaction which is a constructive sale of any appreciated financial position, and
+&emsp;"(A) before June 9, 1997, the taxpayer entered into any transaction which is a constructive sale of any appreciated financial position, and
 
-&emsp;“(B) before the close of the 30-day period beginning on the date of the enactment of this Act \[Aug. 5, 1997\] or before such later date as may be specified by the Secretary of the Treasury, such transaction and position are clearly identified in the taxpayer's records as offsetting,
+&emsp;"(B) before the close of the 30-day period beginning on the date of the enactment of this Act \[Aug. 5, 1997\] or before such later date as may be specified by the Secretary of the Treasury, such transaction and position are clearly identified in the taxpayer's records as offsetting,
 
 > such transaction and position shall not be taken into account in determining whether any other constructive sale after June 8, 1997, has occurred. The preceding sentence shall cease to apply as of the date such transaction is closed or the taxpayer ceases to hold such position.
 
-“(3)
+"(3)
 
 Special rule.—In the case of a decedent dying after June 8, 1997, if—
 
-&emsp;“(A) there was a constructive sale on or before such date of any appreciated financial position,
+&emsp;"(A) there was a constructive sale on or before such date of any appreciated financial position,
 
-&emsp;“(B) the transaction resulting in such constructive sale of such position remains open (with respect to the decedent or any related person)—
+&emsp;"(B) the transaction resulting in such constructive sale of such position remains open (with respect to the decedent or any related person)—
 
-&emsp;&emsp;“(i) for not less than 2 years after the date of such transaction (whether such period is before or after June 8, 1997), and
+&emsp;&emsp;"(i) for not less than 2 years after the date of such transaction (whether such period is before or after June 8, 1997), and
 
-&emsp;&emsp;“(ii) at any time during the 3-year period ending on the date of the decedent's death, and
+&emsp;&emsp;"(ii) at any time during the 3-year period ending on the date of the decedent's death, and
 
-&emsp;“(C) such transaction is not closed before the close of the 30th day after the date of the enactment of this Act,
+&emsp;"(C) such transaction is not closed before the close of the 30th day after the date of the enactment of this Act,
 
 > then, for purposes of such Code \[probably means the Internal Revenue Code of 1986\], such position (and the transaction resulting in such constructive sale) shall be treated as property constituting rights to receive an item of income in respect of a decedent under section 691 of such Code. Section 1014(c) of such Code shall not apply to so much of such position's or property's value (as included in the decedent's estate for purposes of chapter 11 of such Code) as exceeds its fair market value as of the date such transaction is closed.
 
-“(4)
+"(4)
 
 Election of mark to market by securities traders and traders and dealers in commodities.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The amendments made by subsection (b) \[amending this section\] shall apply to taxable years ending after the date of the enactment of this Act.
 
-&emsp;“(B) 4-
+&emsp;"(B) 4-
 
 year spread of adjustments.—In the case of a taxpayer who elects under subsection (e) or (f) of section 475 of the Internal Revenue Code of 1986 (as added by this section) to change its method of accounting for the taxable year which includes the date of the enactment of this Act—
 
-&emsp;&emsp;“(i) any identification required under such subsection with respect to securities and commodities held on the date of the enactment of this Act shall be treated as timely made if made on or before the 30th day after such date of enactment, and
+&emsp;&emsp;"(i) any identification required under such subsection with respect to securities and commodities held on the date of the enactment of this Act shall be treated as timely made if made on or before the 30th day after such date of enactment, and
 
-&emsp;&emsp;“(ii) the net amount of the adjustments required to be taken into account by the taxpayer under section 481 of such Code shall be taken into account ratably over the 4-taxable year period beginning with such first taxable year.”
+&emsp;&emsp;"(ii) the net amount of the adjustments required to be taken into account by the taxpayer under section 481 of such Code shall be taken into account ratably over the 4-taxable year period beginning with such first taxable year."
 
 #### Effective Date
 
 Pub. L. 103–66, title XIII, §13223(c), Aug. 10, 1993, 107 Stat. 484, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[enacting this section and amending section 988 of this title\] shall apply to all taxable years ending on or after December 31, 1993.
 
-“(2)
+"(2)
 
 Change in method of accounting.—In the case of any taxpayer required by this section to change its method of accounting for any taxable year—
 
-&emsp;“(A) such change shall be treated as initiated by the taxpayer,
+&emsp;"(A) such change shall be treated as initiated by the taxpayer,
 
-&emsp;“(B) such change shall be treated as made with the consent of the Secretary, and
+&emsp;"(B) such change shall be treated as made with the consent of the Secretary, and
 
-&emsp;“(C) except as provided in paragraph (3), the net amount of the adjustments required to be taken into account by the taxpayer under section 481 of the Internal Revenue Code of 1986 shall be taken into account ratably over the 5-taxable year period beginning with the first taxable year ending on or after December 31, 1993.
+&emsp;"(C) except as provided in paragraph (3), the net amount of the adjustments required to be taken into account by the taxpayer under section 481 of the Internal Revenue Code of 1986 shall be taken into account ratably over the 5-taxable year period beginning with the first taxable year ending on or after December 31, 1993.
 
-“(3)
+"(3)
 
 Special rule for floor specialists and market makers.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—If—
 
-&emsp;&emsp;“(i) a taxpayer (or any predecessor) used the last-in first-out (LIFO) method of accounting with respect to any qualified securities for the 5-taxable year period ending with its last taxable year ending before December 31, 1993, and
+&emsp;&emsp;"(i) a taxpayer (or any predecessor) used the last-in first-out (LIFO) method of accounting with respect to any qualified securities for the 5-taxable year period ending with its last taxable year ending before December 31, 1993, and
 
-&emsp;&emsp;“(ii) any portion of the net amount described in paragraph (2)(C) is attributable to the use of such method of accounting,
+&emsp;&emsp;"(ii) any portion of the net amount described in paragraph (2)(C) is attributable to the use of such method of accounting,
 
 > &emsp;then paragraph (2)(C) shall be applied by taking such portion into account ratably over the 15-taxable year period beginning with the first taxable year ending on or after December 31, 1993.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Qualified security.—For purposes of this paragraph, the term ‘qualified security’ means any security acquired—
+Qualified security.—For purposes of this paragraph, the term 'qualified security' means any security acquired—
 
-&emsp;&emsp;“(i) by a floor specialist (as defined in section 1236(d)(2) of the Internal Revenue Code of 1986) in connection with the specialist's duties as a specialist on an exchange, but only if the security is one in which the specialist is registered with the exchange, or
+&emsp;&emsp;"(i) by a floor specialist (as defined in section 1236(d)(2) of the Internal Revenue Code of 1986) in connection with the specialist's duties as a specialist on an exchange, but only if the security is one in which the specialist is registered with the exchange, or
 
-&emsp;&emsp;“(ii) by a taxpayer who is a market maker in connection with the taxpayer's duties as a market maker, but only if—
+&emsp;&emsp;"(ii) by a taxpayer who is a market maker in connection with the taxpayer's duties as a market maker, but only if—
 
-&emsp;&emsp;&emsp;“(I) the security is included on the National Association of Security Dealers Automated Quotation System,
+&emsp;&emsp;&emsp;"(I) the security is included on the National Association of Security Dealers Automated Quotation System,
 
-&emsp;&emsp;&emsp;“(II) the taxpayer is registered as a market maker in such security with the National Association of Security Dealers, and
+&emsp;&emsp;&emsp;"(II) the taxpayer is registered as a market maker in such security with the National Association of Security Dealers, and
 
-&emsp;&emsp;&emsp;“(III) as of the last day of the taxable year preceding the taxpayer's first taxable year ending on or after December 31, 1993, the taxpayer (or any predecessor) has been actively and regularly engaged as a market maker in such security for the 2-year period ending on such date (or, if shorter, the period beginning 61 days after the security was listed in such quotation system and ending on such date).”
+&emsp;&emsp;&emsp;"(III) as of the last day of the taxable year preceding the taxpayer's first taxable year ending on or after December 31, 1993, the taxpayer (or any predecessor) has been actively and regularly engaged as a market maker in such security for the 2-year period ending on such date (or, if shorter, the period beginning 61 days after the security was listed in such quotation system and ending on such date)."
 

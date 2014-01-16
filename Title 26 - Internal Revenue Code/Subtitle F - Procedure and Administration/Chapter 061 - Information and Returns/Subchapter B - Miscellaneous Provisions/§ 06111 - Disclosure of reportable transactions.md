@@ -20,11 +20,11 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “material advisor” means any person—
+&emsp;&emsp;The term "material advisor" means any person—
 
 &emsp;&emsp;&emsp;(i) who provides any material aid, assistance, or advice with respect to organizing, managing, promoting, selling, implementing, insuring, or carrying out any reportable transaction, and
 
-&emsp;&emsp;&emsp;(ii) who directly or indirectly derives gross income in excess of the threshold amount (or such other amount as may be prescribed by the Secretary) for such aid, assistance, or advice.
+&emsp;&emsp;&emsp;(ii) who directly or indirectly derives gross income in excess of the threshold amount (or such other amount as may beprescribed by the Secretary) for such aid, assistance, or advice.
 
 #### (B) Threshold amount
 
@@ -36,7 +36,7 @@ For purposes of this section:
 
 #### (2) Reportable transaction
 
-&emsp;The term “reportable transaction” has the meaning given to such term by section 6707A(c).
+&emsp;The term "reportable transaction" has the meaning given to such term by section 6707A(c).
 
 #### (c) Regulations
 
@@ -56,33 +56,33 @@ A prior section 6111 was renumbered 6116 of this title.
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b)(1)(A)(ii). Pub. L. 109–135 substituted “aid, assistance, or advice” for “advice or assistance”.
+<b>2005</b>—Subsec. (b)(1)(A)(ii). Pub. L. 109–135 substituted "aid, assistance, or advice" for "advice or assistance".
 
 <b>2004</b>—Pub. L. 108–357 amended section catchline and text generally, substituting provisions relating to disclosure of reportable transactions for provisions relating to registration of tax shelters and inclusion of identification numbers on returns.
 
 <b>1997</b>—Subsecs. (d) to (f). Pub. L. 105–34 added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
 
-<b>1986</b>—Subsec. (c)(2)(A). Pub. L. 99–514, §1531(a), substituted “350 percent” for “200 percent”.
+<b>1986</b>—Subsec. (c)(2)(A). Pub. L. 99–514, §1531(a), substituted "350 percent" for "200 percent".
 
-Subsec. (c)(3)(B)(ii). Pub. L. 99–514, §201(d)(13), substituted “section 465(b)(3)(C)” for “section 168(e)(4)”.
+Subsec. (c)(3)(B)(ii). Pub. L. 99–514, §201(d)(13), substituted "section 465(b)(3)(C)" for "section 168(e)(4)".
 
-Subsec. (d)(1)(B). Pub. L. 99–514, §1899A(54), substituted “subparagraph” for “subpargraph”.
+Subsec. (d)(1)(B). Pub. L. 99–514, §1899A(54), substituted "subparagraph" for "subpargraph".
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §815(c), Oct. 22, 2004, 118 Stat. 1583, provided that: “The amendments made by this section \[amending this section and sections 6112 and 6708 of this title\] shall apply to transactions with respect to which material aid, assistance, or advice referred to in section 6111(b)(1)(A)(i) of the Internal Revenue Code of 1986 (as added by this section) is provided after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §815(c), Oct. 22, 2004, 118 Stat. 1583, provided that: "The amendments made by this section \[amending this section and sections 6112 and 6708 of this title\] shall apply to transactions with respect to which material aid, assistance, or advice referred to in section 6111(b)(1)(A)(i) of the Internal Revenue Code of 1986 (as added by this section) is provided after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 1997 Amendment
 
 Pub. L. 105–34, title X, §1028(e), Aug. 5, 1997, 111 Stat. 928, provided that:
 
-“(1)
+"(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 6662 and 6707 of this title\] shall apply to any tax shelter (as defined in section 6111(d) of the Internal Revenue Code of 1986, as amended by this section) interests in which are offered to potential participants after the Secretary of the Treasury prescribes guidance with respect to meeting requirements added by such amendments.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 6662 and 6707 of this title\] shall apply to any tax shelter (as defined in section 6111(d) of the Internal Revenue Code of 1986, as amended by this section) interests in which are offered to potential participants after the Secretary of the Treasury prescribes guidance with respect to meeting requirements added by such amendments.
 
-“(2)
+"(2)
 
-Modifications to substantial understatement penalty.—The amendments made by subsection (c) \[amending section 6662 of this title\] shall apply to items with respect to transactions entered into after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Modifications to substantial understatement penalty.—The amendments made by subsection (c) \[amending section 6662 of this title\] shall apply to items with respect to transactions entered into after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1986 Amendment
 
@@ -90,21 +90,21 @@ Amendment by section 201(d)(13) of Pub. L. 99–514 applicable to property place
 
 Amendment by section 201(d)(13) of Pub. L. 99–514 not applicable to any property placed in service before Jan. 1, 1994, if such property placed in service as part of specified rehabilitations, and not applicable to certain additional rehabilitations, see section 251(d)(2), (3) of Pub. L. 99–514, set out as a note under section 46 of this title.
 
-Pub. L. 99–514, title XV, §1531(b), Oct. 22, 1986, 100 Stat. 2749, provided that: “The amendment made by this section \[amending this section\] shall apply to any tax shelter (within the meaning of section 6111 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as amended by this section) interests in which are first offered for sale after December 31, 1986.”
+Pub. L. 99–514, title XV, §1531(b), Oct. 22, 1986, 100 Stat. 2749, provided that: "The amendment made by this section \[amending this section\] shall apply to any tax shelter (within the meaning of section 6111 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] as amended by this section) interests in which are first offered for sale after December 31, 1986."
 
 #### Effective Date
 
 Pub. L. 98–369, div. A, title I, §141(d), July 18, 1984, 98 Stat. 680, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[enacting this section and section 6707 of this title and renumbering former section 6111 as section 6112 of this title\] shall apply to any tax shelter (within the meaning of section 6111 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by this section) any interest in which is first sold to any investor after August 31, 1984.
 
-“(2)
+"(2)
 
 Substantial investment test.—For purposes of determining whether any investment is a tax shelter by reason of section 6111(c)(1)(B)(iii) of such Code (as added by this section), only offers for sale after August 31, 1984, shall be taken into account.
 
-“(3)
+"(3)
 
-Furnishing of shelter identification number for interests sold before september 1, 1984.—With respect to interests sold before September 1, 1984, any liability to act under paragraph (1) of section 6111(b) of such Code (as added by this section) which would (but for this sentence) arise before such date shall be deemed to arise on December 31, 1984.”
+Furnishing of shelter identification number for interests sold before september 1, 1984.—With respect to interests sold before September 1, 1984, any liability to act under paragraph (1) of section 6111(b) of such Code (as added by this section) which would (but for this sentence) arise before such date shall be deemed to arise on December 31, 1984."
 

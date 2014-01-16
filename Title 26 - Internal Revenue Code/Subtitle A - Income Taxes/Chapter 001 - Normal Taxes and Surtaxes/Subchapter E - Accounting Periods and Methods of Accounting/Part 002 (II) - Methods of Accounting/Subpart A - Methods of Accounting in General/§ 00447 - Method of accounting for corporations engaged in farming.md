@@ -34,9 +34,9 @@ For purposes of subsection (a), a corporation shall be treated as not being a co
 
 &emsp;&emsp;In the case of a family corporation, paragraph (1) shall be applied—
 
-&emsp;&emsp;&emsp;(i) by substituting “December 31, 1985,” for “December 31, 1975,”; and
+&emsp;&emsp;&emsp;(i) by substituting "December 31, 1985," for "December 31, 1975,"; and
 
-&emsp;&emsp;&emsp;(ii) by substituting “$25,000,000” for “$1,000,000”.
+&emsp;&emsp;&emsp;(ii) by substituting "$25,000,000" for "$1,000,000".
 
 #### (B) Gross receipts test
 
@@ -54,17 +54,17 @@ For purposes of subsection (a), a corporation shall be treated as not being a co
 
 #### (iii) Applicable percentage
 
-&emsp;&emsp;&emsp;For purposes of clause (i), the term “applicable percentage” means the percentage equal to a fraction—
+&emsp;&emsp;&emsp;For purposes of clause (i), the term "applicable percentage" means the percentage equal to a fraction—
 
 &emsp;&emsp;&emsp;&emsp;(I) the numerator of which is the fair market value of the stock of another corporation held directly or indirectly as of the close of the taxable year by the family corporation, and
 
 &emsp;&emsp;&emsp;&emsp;(II) the denominator of which is the fair market value of all stock of such corporation as of such time.
 
-&emsp;&emsp;&nbsp;For purposes of this clause, the term “stock” does not include stock described in section 1563(c)(1).
+&emsp;&emsp;&nbsp;For purposes of this clause, the term "stock" does not include stock described in section 1563(c)(1).
 
 #### (C) Family corporation
 
-&emsp;&emsp;For purposes of this section, the term “family corporation” means—
+&emsp;&emsp;For purposes of this section, the term "family corporation" means—
 
 &emsp;&emsp;&emsp;(i) any corporation if at least 50 percent of the total combined voting power of all classes of stock entitled to vote, and at least 50 percent of all other classes of stock of the corporation, are owned by members of the same family, and
 
@@ -78,7 +78,7 @@ For purposes of subsection (d)—
 
 &emsp;(2) stock owned, directly or indirectly, by or for a partnership or trust shall be treated as owned proportionately by its partners or beneficiaries, and
 
-&emsp;(3) if 50 percent or more in value of the stock in a corporation (hereinafter in this paragraph referred to as “first corporation”) is owned, directly or through paragraph (2), by or for members of the same family, such members shall be considered as owning each class of stock in a second corporation (or a wholly owned subsidiary of such second corporation) owned, directly or indirectly, by or for the first corporation, in that proportion which the value of the stock in the first corporation which such members so own bears to the value of all the stock in the first corporation.
+&emsp;(3) if 50 percent or more in value of the stock in a corporation (hereinafter in this paragraph referred to as "first corporation") is owned, directly or through paragraph (2), by or for members of the same family, such members shall be considered as owning each class of stock in a second corporation (or a wholly owned subsidiary of such second corporation) owned, directly or indirectly, by or for the first corporation, in that proportion which the value of the stock in the first corporation which such members so own bears to the value of all the stock in the first corporation.
 
 > For purposes of paragraph (1), individuals related by the half blood or by legal adoption shall be treated as if they were related by the whole blood.
 
@@ -108,7 +108,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (2) Annual accrual method of accounting defined
 
-&emsp;For purposes of paragraph (1), the term “annual accrual method of accounting” means a method under which revenues, costs, and expenses are computed on an accrual method of accounting and the preproductive period expenses incurred during the taxable year are charged to harvested crops or deducted in determining the taxable income for such years.
+&emsp;For purposes of paragraph (1), the term "annual accrual method of accounting" means a method under which revenues, costs, and expenses are computed on an accrual method of accounting and the preproductive period expenses incurred during the taxable year are charged to harvested crops or deducted in determining the taxable income for such years.
 
 #### (3) Certain nonrecognition transfers
 
@@ -126,7 +126,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (A) Qualified partnership
 
-&emsp;&emsp;The term “qualified partnership” means a partnership which is engaged in a qualified farming trade or business and each of thepartners of which is a corporation other than—
+&emsp;&emsp;The term "qualified partnership" means a partnership which is engaged in a qualified farming trade or business and each of thepartners of which is a corporation other than—
 
 &emsp;&emsp;&emsp;(i) an S corporation, or
 
@@ -136,7 +136,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “qualified farming trade or business” means the trade or business of farming—
+&emsp;&emsp;&emsp;The term "qualified farming trade or business" means the trade or business of farming—
 
 &emsp;&emsp;&emsp;&emsp;(I) sugar cane,
 
@@ -188,7 +188,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (1) In general
 
-&emsp;If any family corporation is required by this section to change its method of accounting for any taxable year (hereinafter in this subsection referred to as the “year of the change”), notwithstanding subsection (f), such corporation shall establish a suspense account under this subsection in lieu of taking into account adjustments under section 481(a) with respect to amounts included in the suspense account.
+&emsp;If any family corporation is required by this section to change its method of accounting for any taxable year (hereinafter in this subsection referred to as the "year of the change"), notwithstanding subsection (f), such corporation shall establish a suspense account under this subsection in lieu of taking into account adjustments under section 481(a) with respect to amounts included in the suspense account.
 
 #### (2) Initial opening balance
 
@@ -246,7 +246,7 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### (C) Applicable portion
 
-&emsp;&emsp;For purposes of subparagraph (B), the term “applicable portion” means, for any taxable year, the amount which would ratably reduce the amount in the account (after taking into account prior reductions) to zero over the period consisting of such taxable year and the remaining taxable years in such first 20 taxable years.
+&emsp;&emsp;For purposes of subparagraph (B), the term "applicable portion" means, for any taxable year, the amount which would ratably reduce the amount in the account (after taking into account prior reductions) to zero over the period consisting of such taxable year and the remaining taxable years in such first 20 taxable years.
 
 #### (D) Amounts after 20th year
 
@@ -256,73 +256,73 @@ In the case of any taxpayer required by this section to change its method of acc
 
 #### Amendments
 
-<b>1997</b>—Subsec. (i)(3). Pub. L. 105–34 redesignated par. (5) as (3) and struck out heading and text of former par. (3). Text read as follows: “If—
+<b>1997</b>—Subsec. (i)(3). Pub. L. 105–34 redesignated par. (5) as (3) and struck out heading and text of former par. (3). Text read as follows: "If—
 
-&emsp;“(A) the gross receipts of the corporation from the trade or business of farming for the year of the change or any subsequent taxable year, is less than
+&emsp;"(A) the gross receipts of the corporation from the trade or business of farming for the year of the change or any subsequent taxable year, is less than
 
-&emsp;“(B) such gross receipts for the taxpayer's last taxable year beginning before the year of the change (or for the most recent taxable year for which a reduction in the suspense account was made under this paragraph),
+&emsp;"(B) such gross receipts for the taxpayer's last taxable year beginning before the year of the change (or for the most recent taxable year for which a reduction in the suspense account was made under this paragraph),
 
-> the amount in the suspense account (after taking into account prior reductions) shall be reduced by the percentage by which the amount described in subparagraph (A) is less than the amount described in subparagraph (B).”
+> the amount in the suspense account (after taking into account prior reductions) shall be reduced by the percentage by which the amount described in subparagraph (A) is less than the amount described in subparagraph (B)."
 
-Subsec. (i)(4). Pub. L. 105–34 redesignated par. (6) as (4) and struck out heading and text of former par. (4). Text read as follows: “Any reduction in the suspense account under paragraph (3) shall be included in gross income for the taxable year of the reduction.”
+Subsec. (i)(4). Pub. L. 105–34 redesignated par. (6) as (4) and struck out heading and text of former par. (4). Text read as follows: "Any reduction in the suspense account under paragraph (3) shall be included in gross income for the taxable year of the reduction."
 
 Subsec. (i)(5), (6). Pub. L. 105–34 added par. (5) and redesignated former pars. (5) and (6) as (3) and (4), respectively.
 
-<b>1990</b>—Subsec. (g)(1)(A). Pub. L. 101–508, §11702(b)(2), substituted “trade or business of farming” for “qualified farming trade or business”.
+<b>1990</b>—Subsec. (g)(1)(A). Pub. L. 101–508, §11702(b)(2), substituted "trade or business of farming" for "qualified farming trade or business".
 
-Subsec. (g)(4)(B). Pub. L. 101–508, §11702(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “The term ‘qualified farming trade or business’ means the trade or business of farming sugar cane.”
+Subsec. (g)(4)(B). Pub. L. 101–508, §11702(b)(1), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "The term 'qualified farming trade or business' means the trade or business of farming sugar cane."
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–647, §1008(b)(5), substituted “period expenses” for “period of expenses” in heading and in text.
+<b>1988</b>—Subsec. (b). Pub. L. 100–647, §1008(b)(5), substituted "period expenses" for "period of expenses" in heading and in text.
 
-Subsec. (g)(1). Pub. L. 100–647, §1008(b)(6), substituted “qualified farming trade or business” for “trade or business of farming” in subpar. (A) and in concluding provisions.
+Subsec. (g)(1). Pub. L. 100–647, §1008(b)(6), substituted "qualified farming trade or business" for "trade or business of farming" in subpar. (A) and in concluding provisions.
 
-<b>1987</b>—Subsec. (c). Pub. L. 100–203, §10205(a), added subsec. (c), substituting “certain corporations” for “small business and family corporations” in heading and striking out former text which read as follows: “For purposes of subsection (a), a corporation shall be treated as not being a corporation if it is—
+<b>1987</b>—Subsec. (c). Pub. L. 100–203, §10205(a), added subsec. (c), substituting "certain corporations" for "small business and family corporations" in heading and striking out former text which read as follows: "For purposes of subsection (a), a corporation shall be treated as not being a corporation if it is—
 
-&emsp;“(1) an S corporation,
+&emsp;"(1) an S corporation,
 
-&emsp;“(2) a corporation of which at least 50 percent of the total combined voting power of all classes of stock entitled to vote, and at least 50 percent of the total number of shares of all other classes of stock of the corporation, are owned by members of the same family, or
+&emsp;"(2) a corporation of which at least 50 percent of the total combined voting power of all classes of stock entitled to vote, and at least 50 percent of the total number of shares of all other classes of stock of the corporation, are owned by members of the same family, or
 
-&emsp;“(3) a corporation the gross receipts of which meet the requirements of subsection (e).”
+&emsp;"(3) a corporation the gross receipts of which meet the requirements of subsection (e)."
 
 Subsec. (d). Pub. L. 100–203, §10205(a), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 100–203, §10205(c)(1), substituted “subsection (d)” for “subsection (c)(2)”.
+Subsec. (e). Pub. L. 100–203, §10205(c)(1), substituted "subsection (d)" for "subsection (c)(2)".
 
-Pub. L. 100–203, §10205(a), redesignated former subsec. (d) as (e) and struck out former subsec. (e), “Corporation having gross receipts of $1,000,000 or less”, which read as follows: “A corporation meets the requirements of this subsection if, for each prior taxable year beginning after December 31, 1975, such corporation (and any predecessor corporation) did not have gross receipts exceeding $1,000,000. For purposes of the preceding sentence, all corporations which are members of a controlled group of corporations (within the meaning of section 1563(a)) shall be treated as one corporation.”
+Pub. L. 100–203, §10205(a), redesignated former subsec. (d) as (e) and struck out former subsec. (e), "Corporation having gross receipts of $1,000,000 or less", which read as follows: "A corporation meets the requirements of this subsection if, for each prior taxable year beginning after December 31, 1975, such corporation (and any predecessor corporation) did not have gross receipts exceeding $1,000,000. For purposes of the preceding sentence, all corporations which are members of a controlled group of corporations (within the meaning of section 1563(a)) shall be treated as one corporation."
 
-Subsec. (h)(1). Pub. L. 100–203, §10205(c)(2)(A), substituted “A corporation is described in this subsection” for “This section shall not apply to any corporation”.
+Subsec. (h)(1). Pub. L. 100–203, §10205(c)(2)(A), substituted "A corporation is described in this subsection" for "This section shall not apply to any corporation".
 
-Subsec. (h)(1)(A), (B). Pub. L. 100–203, §10205(c)(2)(B), (C), substituted “subsection (e)” for “subsection (d)” and “subsection (e)(1)” for “subsection (d)(1)” wherever appearing.
+Subsec. (h)(1)(A), (B). Pub. L. 100–203, §10205(c)(2)(B), (C), substituted "subsection (e)" for "subsection (d)" and "subsection (e)(1)" for "subsection (d)(1)" wherever appearing.
 
 Subsec. (i). Pub. L. 100–203, §10205(b), added subsec. (i).
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–514, §803(b)(7)(B), which directed that subsec. (a) be amended by striking out “and with the capitalization of preproductive period of expenses described in subsection (b)”, was executed by striking out “and with the capitalization of preproductive period expenses described in subsection (b)” after “accrual method of accounting”, as the probable intent of Congress.
+<b>1986</b>—Subsec. (a). Pub. L. 99–514, §803(b)(7)(B), which directed that subsec. (a) be amended by striking out "and with the capitalization of preproductive period of expenses described in subsection (b)", was executed by striking out "and with the capitalization of preproductive period expenses described in subsection (b)" after "accrual method of accounting", as the probable intent of Congress.
 
-Subsec. (b). Pub. L. 99–514, §803(b)(7)(A), in amending subsec. (b) generally, substituted in heading “period of expenses” for “period expenses” and in text the cross reference to section 263A for former par. (1) defining “preproductive period expenses”, par. (2) relating to exceptions, and par. (3) defining “preproductive period”.
+Subsec. (b). Pub. L. 99–514, §803(b)(7)(A), in amending subsec. (b) generally, substituted in heading "period of expenses" for "period expenses" and in text the cross reference to section 263A for former par. (1) defining "preproductive period expenses", par. (2) relating to exceptions, and par. (3) defining "preproductive period".
 
-Subsec. (g)(1). Pub. L. 99–514, §803(b)(7)(C), substituted “Notwithstanding subsection (a) or section 263A, if” for “If”.
+Subsec. (g)(1). Pub. L. 99–514, §803(b)(7)(C), substituted "Notwithstanding subsection (a) or section 263A, if" for "If".
 
-<b>1982</b>—Subsec. (c)(1). Pub. L. 97–354, §5(a)(28), substituted “an S corporation” for “an electing small business corporation (within the meaning of section 1371(b))”.
+<b>1982</b>—Subsec. (c)(1). Pub. L. 97–354, §5(a)(28), substituted "an S corporation" for "an electing small business corporation (within the meaning of section 1371(b))".
 
-Subsec. (g)(1). Pub. L. 97–248, §230(a)(1), inserted “or qualified partnership” after “corporation” wherever appearing.
+Subsec. (g)(1). Pub. L. 97–248, §230(a)(1), inserted "or qualified partnership" after "corporation" wherever appearing.
 
-Subsec. (g)(3). Pub. L. 97–248, §230(a)(2), designated existing provisions from “a corporation acquired” through “transferee corporation”, as subpar. (A), inserted “qualified” before “farming trade”, and added subpar. (B).
+Subsec. (g)(3). Pub. L. 97–248, §230(a)(2), designated existing provisions from "a corporation acquired" through "transferee corporation", as subpar. (A), inserted "qualified" before "farming trade", and added subpar. (B).
 
-Subsec. (g)(4). Pub. L. 97–354, §5(a)(29), substituted in subpar. (A)(i) “an S corporation” for “an electing small business corporation (within the meaning of section 1371(b))”.
+Subsec. (g)(4). Pub. L. 97–354, §5(a)(29), substituted in subpar. (A)(i) "an S corporation" for "an electing small business corporation (within the meaning of section 1371(b))".
 
 Pub. L. 97–248, §230(a)(3), added par. (4).
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–600, §§353(a), 703(d), substituted in provisions following par. (2) “preproductive period expenses” for “preproductive expenses” and “nursery or sod farm” for “nursery”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–600, §§353(a), 703(d), substituted in provisions following par. (2) "preproductive period expenses" for "preproductive expenses" and "nursery or sod farm" for "nursery".
 
-Subsec. (f)(3). Pub. L. 95–600, §701(l)(1), struck out “(except as otherwise provided in such regulations)” before “be taken” and inserted “(or the remaining taxable years where there is a stated future life of less than 10 taxable years)” after “10 taxable years”.
+Subsec. (f)(3). Pub. L. 95–600, §701(l)(1), struck out "(except as otherwise provided in such regulations)" before "be taken" and inserted "(or the remaining taxable years where there is a stated future life of less than 10 taxable years)" after "10 taxable years".
 
-Subsec. (g)(2). Pub. L. 95–600, §703(d), substituted “preproductive period expenses” for “preproductive expenses”.
+Subsec. (g)(2). Pub. L. 95–600, §703(d), substituted "preproductive period expenses" for "preproductive expenses".
 
 Subsec. (h). Pub. L. 95–600, §351(a), added subsec. (h).
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title X, §1081(b), Aug. 5, 1997, 111 Stat. 950, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years ending after June 8, 1997.”
+Pub. L. 105–34, title X, §1081(b), Aug. 5, 1997, 111 Stat. 950, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years ending after June 8, 1997."
 
 #### Effective Date of 1990 Amendment
 
@@ -334,7 +334,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title X, §10205(d), Dec. 22, 1987, 101 Stat. 1330–397, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–203, title X, §10205(d), Dec. 22, 1987, 101 Stat. 1330–397, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1987."
 
 #### Effective Date of 1986 Amendment
 
@@ -346,15 +346,15 @@ Amendment by Pub. L. 99–514 applicable to costs incurred after Dec. 31, 1986, 
 
 Amendment by Pub. L. 97–354 applicable to taxable years beginning after Dec. 31, 1982, see section 6(a) of Pub. L. 97–354, set out as an Effective Date note under section 1361 of this title.
 
-Pub. L. 97–248, title II, §230(b), Sept. 3, 1982, 96 Stat. 496, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1981.”
+Pub. L. 97–248, title II, §230(b), Sept. 3, 1982, 96 Stat. 496, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1981."
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title III, §351(b), Nov. 6, 1978, 92 Stat. 2846, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1977.”
+Pub. L. 95–600, title III, §351(b), Nov. 6, 1978, 92 Stat. 2846, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1977."
 
-Pub. L. 95–600, title III, §353(b), Nov. 6, 1978, 92 Stat. 2847, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1976.”
+Pub. L. 95–600, title III, §353(b), Nov. 6, 1978, 92 Stat. 2847, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1976."
 
-Pub. L. 95–600, title VII, §703(l)(4), Nov. 6, 1978, 92 Stat. 2907, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment made by paragraphs (1) \[amending this section\] and (3) \[amending section 464 of this title\] shall take effect as if included in section 447 or 464 (as the case may be) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] at the time of the enactment of such sections \[Oct. 4, 1976\].”
+Pub. L. 95–600, title VII, §703(l)(4), Nov. 6, 1978, 92 Stat. 2907, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment made by paragraphs (1) \[amending this section\] and (3) \[amending section 464 of this title\] shall take effect as if included in section 447 or 464 (as the case may be) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] at the time of the enactment of such sections \[Oct. 4, 1976\]."
 
 Amendment by section 703(d) of Pub. L. 95–600 effective on Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out as a note under section 46 of this title.
 
@@ -362,95 +362,95 @@ Amendment by section 703(d) of Pub. L. 95–600 effective on Oct. 4, 1976, see s
 
 Pub. L. 94–455, title II, §207(c)(2), Oct. 4, 1976, 90 Stat. 1541, as amended by Pub. L. 95–30, title IV, §404, May 23, 1977, 91 Stat. 155; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(A)
+"(A)
 
 In general.—Except as provided in subparagraph (B), the amendments made by paragraph (1) \[enacting this section\] shall apply to taxable years beginning after December 31, 1976.
 
-“(B)
+"(B)
 
 Special rule for certain corporations.—In the case of a corporation engaged in the trade or business of farming and with respect to which—
 
-&emsp;“(i) members of two families (within the meaning of paragraph (1) of section 447(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by paragraph (1)) owned, on October 4, 1976 (directly or through the application of such section 447(d)), at least 65 percent of the total combined voting power of all classes of stock of such corporation entitled to vote, and at least 65 percent of the total number of shares of all other classes of stock of such corporation; or
+&emsp;"(i) members of two families (within the meaning of paragraph (1) of section 447(d) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as added by paragraph (1)) owned, on October 4, 1976 (directly or through the application of such section 447(d)), at least 65 percent of the total combined voting power of all classes of stock of such corporation entitled to vote, and at least 65 percent of the total number of shares of all other classes of stock of such corporation; or
 
-&emsp;“(ii) members of three families (within the meaning of paragraph (1) of such section 447(d)) owned, on October 4, 1976 (directly or through the application of such section 447(d)), at least 50 percent of the total combined voting power of all classes of stock of such corporation entitled to vote, and at least 50 percent of the total number of shares of all other classes of stock of such corporation; and substantially all of the stock of such corporation which was not so owned (directly or through the application of such section 447(d)), by members of such three families was owned, on October 4, 1976, directly—
+&emsp;"(ii) members of three families (within the meaning of paragraph (1) of such section 447(d)) owned, on October 4, 1976 (directly or through the application of such section 447(d)), at least 50 percent of the total combined voting power of all classes of stock of such corporation entitled to vote, and at least 50 percent of the total number of shares of all other classes of stock of such corporation; and substantially all of the stock of such corporation which was not so owned (directly or through the application of such section 447(d)), by members of such three families was owned, on October 4, 1976, directly—
 
-&emsp;&emsp;“(I) by employees of the corporation or members of the families (within the meaning of section 267(c)(4) of such Code) of such employees, or
+&emsp;&emsp;"(I) by employees of the corporation or members of the families (within the meaning of section 267(c)(4) of such Code) of such employees, or
 
-&emsp;&emsp;“(II) by a trust for the benefit of the employees of such corporation which is described in section 401(a) of such Code and which is exempt from taxation under section 501(a) of such Code,
+&emsp;&emsp;"(II) by a trust for the benefit of the employees of such corporation which is described in section 401(a) of such Code and which is exempt from taxation under section 501(a) of such Code,
 
-> the amendments made by paragraph (1) shall apply to taxable years beginning after December 31, 1977.”
+> the amendments made by paragraph (1) shall apply to taxable years beginning after December 31, 1977."
 
 #### Accounting for Growing Crops
 
 Pub. L. 95–600, title III, §352, Nov. 6, 1978, 92 Stat. 2846, provided that:
 
-“(a)
+"(a)
 
 Application of Section.—This section shall apply to a taxpayer who—
 
-&emsp;“(1) is a farmer, nurseryman, or florist,
+&emsp;"(1) is a farmer, nurseryman, or florist,
 
-&emsp;“(2) is on an accrual method of accounting, and
+&emsp;"(2) is on an accrual method of accounting, and
 
-&emsp;“(3) is not required by section 447 of the Internal Revenue Code of 1954 to capitalize preproductive period expenses.
+&emsp;"(3) is not required by section 447 of the Internal Revenue Code of 1954 to capitalize preproductive period expenses.
 
-“(b)
+"(b)
 
 Taxpayer May Not Be Required To Inventory Growing Crops.—A taxpayer to whom this section applies may not be required to inventory growing crops for any taxable year beginning after December 31, 1977.
 
-“(c)
+"(c)
 
 Taxpayer May Elect To Change To Cash Method.—A taxpayer to whom this section applies may, for any taxable year beginning after December 31, 1977 and before January 1, 1981, change to the cash receipts and disbursements method of accounting with respect to any trade or business in which the principal activity is growing crops.
 
-“(d)
+"(d)
 
 Section 481
 
 Of Code To Apply.—Any change in the way in which a taxpayer accounts for the costs of growing crops resulting from the application of subsection (b) or (c)—
 
-&emsp;“(1) shall not require the consent of the Secretary of the Treasury or his delegate, and
+&emsp;"(1) shall not require the consent of the Secretary of the Treasury or his delegate, and
 
-&emsp;“(2) shall be treated, for purposes of section 481 of the Internal Revenue Code of 1954 as a change in the method of accounting initiated by the taxpayer.
+&emsp;"(2) shall be treated, for purposes of section 481 of the Internal Revenue Code of 1954 as a change in the method of accounting initiated by the taxpayer.
 
-“(e)
+"(e)
 
-Growing Crops.—For purposes of this section, the term ‘Growing crops’ does not include trees grown for lumber, pulp, or other nonlife purposes.”
+Growing Crops.—For purposes of this section, the term 'Growing crops' does not include trees grown for lumber, pulp, or other nonlife purposes."
 
 #### Automatic Ten-Year Adjustment for Farming Syndicates Changing to Accrual Accounting
 
-Pub. L. 95–600, title VII, §703(l)(2), Nov. 6, 1978, 92 Stat. 2906, provided that: “If—
+Pub. L. 95–600, title VII, §703(l)(2), Nov. 6, 1978, 92 Stat. 2906, provided that: "If—
 
-&emsp;“(A) a farming syndicate (within the meaning of section 464(c) of the Internal Revenue Code of 1954) was in existence on December 31, 1975, and
+&emsp;"(A) a farming syndicate (within the meaning of section 464(c) of the Internal Revenue Code of 1954) was in existence on December 31, 1975, and
 
-&emsp;“(B) such syndicate elects an accrual method of accounting (including the capitalization of preproductive period expenses described in section 447(b) of such Code) for a taxable year beginning before January 1, 1979,
+&emsp;"(B) such syndicate elects an accrual method of accounting (including the capitalization of preproductive period expenses described in section 447(b) of such Code) for a taxable year beginning before January 1, 1979,
 
-> then such election shall be treated as having been made with the consent of the Secretary of the Treasury or his delegate and, under regulations prescribed by the Secretary of the Treasury or his delegate, the net amount of the adjustments required by section 481(a) of such Code to be taken into account by the taxpayer in computing taxable income shall be taken into account in each of the 10 taxable years (or the remaining taxable years where there is a stated future life of less than 10 taxable years) beginning with the year of change.”
+> then such election shall be treated as having been made with the consent of the Secretary of the Treasury or his delegate and, under regulations prescribed by the Secretary of the Treasury or his delegate, the net amount of the adjustments required by section 481(a) of such Code to be taken into account by the taxpayer in computing taxable income shall be taken into account in each of the 10 taxable years (or the remaining taxable years where there is a stated future life of less than 10 taxable years) beginning with the year of change."
 
 #### Election To Change From Static Value Method to Accrual Method of Accounting
 
 Pub. L. 94–455, title II, §207(c)(3), Oct. 4, 1976, 90 Stat. 1541, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—If—
 
-&emsp;&emsp;“(i) a corporation has computed its taxable income on an annual accrual method of accounting together with a static value method of accounting for deferred costs of growing crops for the 10 taxable years ending with its first taxable year beginning after December 31, 1975,
+&emsp;&emsp;"(i) a corporation has computed its taxable income on an annual accrual method of accounting together with a static value method of accounting for deferred costs of growing crops for the 10 taxable years ending with its first taxable year beginning after December 31, 1975,
 
-&emsp;&emsp;“(ii) such corporation raises crops which are harvested not less than 12 months after planting, and
+&emsp;&emsp;"(ii) such corporation raises crops which are harvested not less than 12 months after planting, and
 
-&emsp;&emsp;“(iii) such corporation elects, within one year after the date of the enactment of this Act \[Oct. 4, 1976\] and in such manner as the Secretary of the Treasury or his delegate prescribes, to change to the annual accrual method of accounting (within the meaning of section 447(g)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) for taxable years beginning after December 31, 1976,
+&emsp;&emsp;"(iii) such corporation elects, within one year after the date of the enactment of this Act \[Oct. 4, 1976\] and in such manner as the Secretary of the Treasury or his delegate prescribes, to change to the annual accrual method of accounting (within the meaning of section 447(g)(2) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\]) for taxable years beginning after December 31, 1976,
 
 > &emsp;such change shall be treated as having been made with the consent of the Secretary of the Treasury, and, under regulations prescribed by the Secretary of the Treasury or his delegate, the net amount of the adjustments required by section 481(a) of the Internal Revenue Code of 1986 to be taken into account by the taxpayer in computing taxable income shall (except as otherwise provided in such regulations) be taken into account in each of the 10 taxable years beginning with the year of change.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Coordination with section 447 of the code.—A corporation which elects under subparagraph (A) to change to the annual accrual method of accounting shall, for purposes of section 447(g) of the Internal Revenue Code of 1986, be deemed to be a corporation which has computed its taxable income on an annual accrual method of accounting for its 10 taxable years ending with its first taxable year beginning after December 31, 1975.
 
-&emsp;“(C)
+&emsp;"(C)
 
-Certain corporate reorganizations.—For purposes of this paragraph, if a corporation acquired substantially all the assets of a farming trade or business from another corporation in a transaction in which no gain or loss was recognized to the transferor or transferee corporation, the transferee corporation shall be deemed to have computed its taxable income on an annual accrual method of accounting together with a static value method of accounting for deferred costs of growing crops during the period for which the transferor corporation computed its taxable income from such trade or business on such accrual and static value method.”
+Certain corporate reorganizations.—For purposes of this paragraph, if a corporation acquired substantially all the assets of a farming trade or business from another corporation in a transaction in which no gain or loss was recognized to the transferor or transferee corporation, the transferee corporation shall be deemed to have computed its taxable income on an annual accrual method of accounting together with a static value method of accounting for deferred costs of growing crops during the period for which the transferor corporation computed its taxable income from such trade or business on such accrual and static value method."
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “(iii)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "(iii)".</i>
 

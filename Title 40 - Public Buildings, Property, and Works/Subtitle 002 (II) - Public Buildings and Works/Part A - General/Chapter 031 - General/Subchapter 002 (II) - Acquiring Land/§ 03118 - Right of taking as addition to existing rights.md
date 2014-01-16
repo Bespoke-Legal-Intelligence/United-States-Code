@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Feb. 26, 1931, ch. 307, §4, 46 Stat. 1422.
 
-The words “State, territory, or possession of the United States” are substituted for “State or Territory” for consistency in the revised title and with other titles of the United States Code.
+The words "State, territory, or possession of the United States" are substituted for "State or Territory" for consistency in the revised title and with other titles of the United States Code.
 

@@ -2,7 +2,7 @@
 
 #### (a) Taxable years beginning after December 31, 1978, but not after January 1, 1985
 
-Except as provided in subsection (c) of this section, any person, including an individual,trust, estate, partnership, association, company, or corporation, which is a resident of or which is organized under the laws of the Commonwealth of the Northern Mariana Islands and which is subject to the provisions of section 601 of the Covenant to Establish the Commonwealth of the Northern Mariana Islands in Political Union with the United States (Public Law 94–241), shall be exempted from the requirements of such section with respect to income derived from sources within the Commonwealth of the Northern Mariana Islands for taxable years beginning after December 31, 1978, until, but not after, January 1, 1985. Nothing in this section shall be construed as relieving such person from the obligation to comply with the requirements of section 601 with respect to income derived from sources outside of the Commonwealth of the Northern Mariana Islands.
+Except as provided in subsection (c) of this section, any person, including an individual, trust, estate, partnership, association, company, or corporation, which is a resident of or which is organized under the laws of the Commonwealth of the Northern Mariana Islands and which is subject to the provisions of section 601 of the Covenant to Establish the Commonwealth of the Northern Mariana Islands in Political Union with the United States (Public Law 94–241), shall be exempted from the requirements of such section with respect to income derived from sources within the Commonwealth of the Northern Mariana Islands for taxable years beginning after December 31, 1978, until, but not after, January 1, 1985. Nothing in this section shall be construed as relieving such person from the obligation to comply with the requirements of section 601 with respect to income derived from sources outside of the Commonwealth of the Northern Mariana Islands.
 
 #### (b) Taxable years beginning after December 31, 1980, and before January 1, 1982
 
@@ -10,7 +10,7 @@ Except as provided in subsection (c) of this section, any person, including an i
 
 #### (c) Tax rebates
 
-As provided in section 602 <sup>1</sup> of Public Law 94–241 (90 Stat. 263, 270) the term “rebate of any taxes” shall, effective January 1, 1985, apply only to the extent taxes have actually been paid pursuant to section 601 <sup>1</sup> of said Act, shall not exceed the amount of tax actually paid for any tax year, and may only be paid following the close of the tax year involved. Notwithstanding any other provision of law, effective January 1, 1985, the Commonwealth of the Northern Mariana Islands shall maintain, as a matter of public record, the name and address of each person receiving such a rebate, together with the amount of the rebate, and the year for which such rebate was made.
+As provided in section 602 <sup>1</sup> of Public Law 94–241 (90 Stat. 263, 270) the term "rebate of any taxes" shall, effective January 1, 1985, apply only to the extent taxes have actually been paid pursuant to section 601 <sup>1</sup> of said Act, shall not exceed the amount of tax actually paid for any tax year, and may only be paid following the close of the tax year involved. Notwithstanding any other provision of law, effective January 1, 1985, the Commonwealth of the Northern Mariana Islands shall maintain, as a matter of public record, the name and address of each person receiving such a rebate, together with the amount of the rebate, and the year for which such rebate was made.
 
 (Pub. L. 96–205, title II, §205, Mar. 12, 1980, 94 Stat. 87; Pub. L. 96–597, title III, §303(a), Dec. 24, 1980, 94 Stat. 3478; Pub. L. 98–213, §3(a), (b), Dec. 8, 1983, 97 Stat. 1459.)
 
@@ -28,11 +28,11 @@ Section was formerly set out as a note under section 1681 of this title.
 
 #### Amendments
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–213, §3(a), substituted “1985” for “1983”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–213, §3(a), substituted "1985" for "1983".
 
-Subsec. (c). Pub. L. 98–213, §3(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “It is the sense of Congress that the term ‘rebate’ as used in section 602 of Public Law 94–241 does not permit the abatement of taxes.”
+Subsec. (c). Pub. L. 98–213, §3(b), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: "It is the sense of Congress that the term 'rebate' as used in section 602 of Public Law 94–241 does not permit the abatement of taxes."
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–597 substituted “until, but not after, January 1, 1983.” for “and before January 1, 1981.”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–597 substituted "until, but not after, January 1, 1983." for "and before January 1, 1981.".
 
 #### Suspension of Prohibition of Abatement of Taxation in Commonwealth of Northern Mariana Islands
 

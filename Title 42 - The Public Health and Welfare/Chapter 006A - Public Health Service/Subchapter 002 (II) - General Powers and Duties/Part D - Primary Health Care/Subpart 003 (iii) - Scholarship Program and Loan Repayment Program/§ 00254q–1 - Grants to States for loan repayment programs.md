@@ -32,7 +32,7 @@
 
 #### (2) Remedies for breach of contracts
 
-&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that the contracts provided by the State pursuant to paragraph (2) of such subsection will provide remedies for any breach of the contracts by the health professionals involved.
+&emsp;The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees that the contracts provided bythe State pursuant to paragraph (2) of such subsection will provide remedies for any breach of the contracts by the health professionals involved.
 
 #### (3) Limitation regarding contract inducements
 
@@ -78,7 +78,7 @@ The Secretary may not make a grant under subsection (a) of this section unless a
 
 #### (1) In general
 
-&emsp;The Secretary may not make payments under subsection (a) of this section to a Statefor any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the State has complied with each of the agreements made by the State under this section.
+&emsp;The Secretary may not make payments under subsection (a) of this section to a State for any fiscal year subsequent to the first fiscal year of such payments unless the Secretary determines that, for the immediately preceding fiscal year, the State has complied with each of the agreements made by the State under this section.
 
 #### (2) Reduction in grant relative to number of breached contracts
 
@@ -90,9 +90,9 @@ The Secretary may not make a grant under subsection (a) of this section unless a
 
 &emsp;The Secretary may waive the requirement established in paragraph (2)(B) with respect to the initial breach of a contract if the Secretary determines that such breach by the health professional involved was attributable solely to the professional having a serious illness.
 
-#### (h) “State” defined
+#### (h) "State" defined
 
-For purposes of this section, the term “State” means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands.
+For purposes of this section, the term "State" means each of the 50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands.
 
 #### (i) Authorization of appropriations
 
@@ -138,19 +138,19 @@ A prior section 338I of act July 1, 1944, was classified to section 254r of this
 
 #### Amendments
 
-<b>2008</b>—Subsec. (h). Pub. L. 110–355, §3(e)(1), substituted “50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands” for “several States”.
+<b>2008</b>—Subsec. (h). Pub. L. 110–355, §3(e)(1), substituted "50 States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, Palau, the Marshall Islands, and the Commonwealth of the Northern Mariana Islands" for "several States".
 
-Subsec. (i)(1). Pub. L. 110–355, §3(e)(2), substituted “2008, and such sums as may be necessary for each of fiscal years 2009 through 2012.” for “2002 and such sums as may be necessary for each of fiscal years 2003 through 2006.”
+Subsec. (i)(1). Pub. L. 110–355, §3(e)(2), substituted "2008, and such sums as may be necessary for each of fiscal years 2009 through 2012." for "2002 and such sums as may be necessary for each of fiscal years 2003 through 2006."
 
 <b>2006</b>—Subsec. (j). Pub. L. 109–417 added subsec. (j).
 
-<b>2002</b>—Subsec. (a)(1). Pub. L. 107–251, §315(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availability of primary health services in health professional shortage areas.”
+<b>2002</b>—Subsec. (a)(1). Pub. L. 107–251, §315(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availability of primary health services in health professional shortage areas."
 
-Subsec. (e)(1). Pub. L. 107–251, §315(2), added par. (1) and struck out former par. (1) which read as follows: “to submit to the Secretary reports providing the same types of information regarding the program operated pursuant to such subsection as reports submitted pursuant to subsection (i) of section 254l–1 of this title provide regarding the Loan Repayment Program under such section; and”.
+Subsec. (e)(1). Pub. L. 107–251, §315(2), added par. (1) and struck out former par. (1) which read as follows: "to submit to the Secretary reports providing the same types of information regarding the program operated pursuant to such subsection as reports submitted pursuant to subsection (i) of section 254l–1 of this title provide regarding the Loan Repayment Program under such section; and".
 
-Subsec. (i)(1). Pub. L. 107–251, §315(3), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “For the purpose of making grants under subsection (a) of this section, there is authorized to be appropriated $10,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each of the fiscal years 1998 through 2002.”
+Subsec. (i)(1). Pub. L. 107–251, §315(3), added par. (1) and struck out heading and text of former par. (1). Text read as follows: "For the purpose of making grants under subsection (a) of this section, there is authorized to be appropriated $10,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each of the fiscal years 1998 through 2002."
 
-<b>1998</b>—Subsec. (i)(1). Pub. L. 105–392 inserted “, and such sums as may be necessary for each of the fiscal years 1998 through 2002” before period at end.
+<b>1998</b>—Subsec. (i)(1). Pub. L. 105–392 inserted ", and such sums as may be necessary for each of the fiscal years 1998 through 2002" before period at end.
 
 <b>1990</b>—Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing in subsecs. (a)(1), (2) and (c)(1), (3)(B)(ii).
 

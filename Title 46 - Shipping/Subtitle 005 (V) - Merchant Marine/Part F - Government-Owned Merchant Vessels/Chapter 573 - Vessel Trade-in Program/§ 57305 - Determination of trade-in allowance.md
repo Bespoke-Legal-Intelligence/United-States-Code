@@ -36,7 +36,7 @@ June 29, 1936, ch. 858, title V, §510(b) (3d sentence), (d), as added Aug. 4, 1
 
 46 App.:1160(d) (3d, last sentences).
 
-In subsection (a), the words “fair value” are substituted for “fair and reasonable value” to eliminate unnecessary words. In paragraph (3), the word “commerce” is substituted for “trade” for consistency in the chapter.
+In subsection (a), the words "fair value" are substituted for "fair and reasonable value" to eliminate unnecessary words. In paragraph (3), the word "commerce" is substituted for "trade" for consistency in the chapter.
 
-In subsection (b), the words “for the entire period of such use” are omitted as unnecessary.
+In subsection (b), the words "for the entire period of such use" are omitted as unnecessary.
 

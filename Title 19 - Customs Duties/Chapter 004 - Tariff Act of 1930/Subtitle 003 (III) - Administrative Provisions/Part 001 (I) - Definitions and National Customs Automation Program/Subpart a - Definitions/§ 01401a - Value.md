@@ -82,7 +82,7 @@
 
 (4) For purposes of this subsection—
 
-&emsp;(A) The term “price actually paid or payable” means the total payment (whether direct or indirect, and exclusive of any costs, charges, or expenses incurred for transportation, insurance, and related services incident to the international shipment of the merchandise from the country of exportation to the place of importation in the United States) made, or to be made, for imported merchandise by the buyer to, or for the benefit of, the seller.
+&emsp;(A) The term "price actually paid or payable" means the total payment (whether direct or indirect, and exclusive of any costs, charges, or expenses incurred for transportation, insurance, and related services incident to the international shipment of the merchandise from the country of exportation to the place of importation in the United States) made, or to be made, for imported merchandise by the buyer to, or for the benefit of, the seller.
 
 &emsp;(B) Any rebate of, or other decrease in, the price actually paid or payable that is made or otherwise effected between the buyer and seller after the date of the importation of the merchandise into the United States shall be disregarded in determining the transaction value under paragraph (1).
 
@@ -98,7 +98,7 @@
 
 #### (d) Deductive value
 
-(1) For purposes of this subsection, the term “merchandise concerned” means the merchandise being appraised, identical merchandise, or similar merchandise.
+(1) For purposes of this subsection, the term "merchandise concerned" means the merchandise being appraised, identical merchandise, or similar merchandise.
 
 (2)(A) The deductive value of the merchandise being appraised is whichever of the following prices (as adjusted under paragraph (3)) is appropriate depending upon when and in what condition the merchandise concerned is sold in the United States:
 
@@ -192,7 +192,7 @@
 
 (2) For purposes of this section, merchandise (including, but not limited to, identical merchandise and similar merchandise) shall be treated as being of the same class or kind as other merchandise if it is within a group or range of merchandise produced by a particular industry or industry sector.
 
-(3) For purposes of this section, information that is submitted by an importer, buyer, or producer in regard to the appraisement of merchandise may not be rejected by the customs officer concerned on the basis of the accounting method by which that information was prepared, if the preparation was in accordance with generally accepted accounting principles. The term “generally accepted accounting principles” refers to any generally recognized consensus or substantial authoritative support regarding—
+(3) For purposes of this section, information that is submitted by an importer, buyer, or producer in regard to the appraisement of merchandise may not be rejected by the customs officer concerned on the basis of the accounting method by which that information was prepared, if the preparation was in accordance with generally accepted accounting principles. The term "generally accepted accounting principles" refers to any generally recognized consensus or substantial authoritative support regarding—
 
 &emsp;(A) which economic resources and obligations should be recorded as assets and liabilities;
 
@@ -210,7 +210,7 @@
 
 As used in this section—
 
-&emsp;(1)(A) The term “assist” means any of the following if supplied directly or indirectly, and free of charge or at reduced cost, by the buyer of imported merchandise for use in connection with the production or the sale for export to the United States of the merchandise:
+&emsp;(1)(A) The term "assist" means any of the following if supplied directly or indirectly, and free of charge or at reduced cost, by the buyer of imported merchandise for use in connection with the production or the sale for export to the United States of the merchandise:
 
 &emsp;&emsp;(i) Materials, components, parts, and similar items incorporated in the imported merchandise.
 
@@ -234,7 +234,7 @@ As used in this section—
 
 &emsp;&emsp;(ii) If the production of an assist occurred in the United States and one or more foreign countries, the value of the assist is the value thereof that is added outside the United States.
 
-&emsp;(2) The term “identical merchandise” means—
+&emsp;(2) The term "identical merchandise" means—
 
 &emsp;&emsp;(A) merchandise that is identical in all respects to, and was produced in the same country and by the same person as, the merchandise being appraised; or
 
@@ -246,9 +246,9 @@ As used in this section—
 
 &emsp;&emsp;(II) is not an assist because undertaken within the United States.
 
-&emsp;(3) The term “packing costs” means the cost of all containers and coverings of whatever nature and of packing, whether for labor or materials, used in placing merchandise in condition, packed ready for shipment to the United States.
+&emsp;(3) The term "packing costs" means the cost of all containers and coverings of whatever nature and of packing, whether for labor or materials, used in placing merchandise in condition, packed ready for shipment to the United States.
 
-&emsp;(4) The term “similar merchandise” means—
+&emsp;(4) The term "similar merchandise" means—
 
 &emsp;&emsp;(A) merchandise that—
 
@@ -270,7 +270,7 @@ As used in this section—
 
 &emsp;&emsp;(II) is not an assist because undertaken within the United States.
 
-&emsp;(5) The term “sufficient information”, when required under this section for determining—
+&emsp;(5) The term "sufficient information", when required under this section for determining—
 
 &emsp;&emsp;(A) any amount—
 
@@ -290,21 +290,21 @@ As used in this section—
 
 #### Amendments
 
-<b>1980</b>—Subsec. (b)(2)(B). Pub. L. 96–490 amended par. (B) generally, omitting cl. (iii) which provided that “the transaction value determined under this subsection in sales to unrelated buyers of merchandise, for exportation to the United States, that is identical in all respects to the imported merchandise but was not produced in the country in which the imported merchandise was produced”, and omitting the provision relating to cl. (iii) which provided that “No two sales to unrelated buyers may be used for comparison for purposes of clause (iii) unless the sellers are unrelated.”
+<b>1980</b>—Subsec. (b)(2)(B). Pub. L. 96–490 amended par. (B) generally, omitting cl. (iii) which provided that "the transaction value determined under this subsection in sales to unrelated buyers of merchandise, for exportation to the United States, that is identical in all respects to the imported merchandise but was not produced in the country in which the imported merchandise was produced", and omitting the provision relating to cl. (iii) which provided that "No two sales to unrelated buyers may be used for comparison for purposes of clause (iii) unless the sellers are unrelated."
 
 <b>1979</b>—Pub. L. 96–39 completely revised statutory standards for appraising the value of imported merchandise to conform to Customs Valuation Agreement, incorporating, as part of that revision, a new format of five methods of determining customs value in subsecs. (b) through (f), a group of special rules in subsec. (g), and definition of terms in subsec. (h).
 
 #### Effective Date of 1980 Amendment
 
-Pub. L. 96–490, §2, Dec. 2, 1980, 94 Stat. 2556, provided in part that the amendment made by that section is “effective on the latest of—
+Pub. L. 96–490, §2, Dec. 2, 1980, 94 Stat. 2556, provided in part that the amendment made by that section is "effective on the latest of—
 
-&emsp;“(1) the date on which the amendments made by title II of the Trade Agreements Act of 1979 (except the amendments made by section 223(b)) take effect \[July 1, 1980\],
+&emsp;"(1) the date on which the amendments made by title II of the Trade Agreements Act of 1979 (except the amendments made by section 223(b)) take effect \[July 1, 1980\],
 
-&emsp;“(2) the date on which the President accepts the Protocol \[to the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade\] for the United States \[Dec. 30, 1980\], or
+&emsp;"(2) the date on which the President accepts the Protocol \[to the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade\] for the United States \[Dec. 30, 1980\], or
 
-&emsp;“(3) the date on which the President determines that the European Economic Community has implemented the Protocol under its laws \[Jan. 1, 1981\],
+&emsp;"(3) the date on which the President determines that the European Economic Community has implemented the Protocol under its laws \[Jan. 1, 1981\],
 
-> and effective with respect to merchandise exported to the United States on or after that date”.
+> and effective with respect to merchandise exported to the United States on or after that date".
 
 \[For delegation of authority of the President to make the determinations required by pars. (1) to (3), above, to the United States Trade Representative, see Memorandum of President of the United States, Dec. 17, 1980, 45 F.R. 83467.\]
 
@@ -314,63 +314,63 @@ Pub. L. 96–490, §2, Dec. 2, 1980, 94 Stat. 2556, provided in part that the am
 
 Pub. L. 96–39, title II, §204, July 26, 1979, 93 Stat. 202, provided that:
 
-“(a)
+"(a)
 
 Effective Date of Amendments.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this title \[amending the Tariff Schedules of the United States (see Publication of Tariff Schedules note under section 1202 of this title), sections 1332, 1336, 1351, 1401a, 1500, and 2481 of this title, and section 993 of Title 26, Internal Revenue Code, repealing section 1402 of this title, and enacting provisions set out as notes under sections 1202, 1401a, and 2111 of this title\] (except the amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\] shall take effect on—
 
-&emsp;&emsp;“(A) January 1, 1981, if the Agreement enters into force with respect to the United States by that date; or
+&emsp;&emsp;"(A) January 1, 1981, if the Agreement enters into force with respect to the United States by that date; or
 
-&emsp;&emsp;“(B) if subparagraph (A) does not apply, that date after January 1, 1981, on which the Agreement enters into such force;
+&emsp;&emsp;"(B) if subparagraph (A) does not apply, that date after January 1, 1981, on which the Agreement enters into such force;
 
 > &emsp;and shall apply with respect to merchandise that is exported to the United States on or after whichever of such dates applies.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Earlier effective date under certain circumstances.—If the President determines before January 1, 1981, that—
 
-&emsp;&emsp;“(A) the European Economic Community has accepted the obligations of the Agreement with respect to the United States; and
+&emsp;&emsp;"(A) the European Economic Community has accepted the obligations of the Agreement with respect to the United States; and
 
-&emsp;&emsp;“(B) each of the member states of the European Economic Community has implemented the Agreement under its laws;
+&emsp;&emsp;"(B) each of the member states of the European Economic Community has implemented the Agreement under its laws;
 
 > &emsp;the President shall by proclamation announce such determination and the amendments made by this title (except the amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the TariffSchedules of the United States\] shall take effect on the date specified in the proclamation \[July 1, 1980\] (but not before July 1, 1980) and shall apply with respect to merchandise that is exported to the United States on or after such date; except that unless the Agreement enters into force with respect to the United States by January 1, 1981, all provisions of law that were amended by such amendments are revived (as in effect on the day before such amendments took effect) on January 1, 1981, and such provisions—
 
-&emsp;&emsp;“(i) shall remain in effect until the date on which the Agreement enters into force with respect to the United States (and on such date the amendments made by this title (except the amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\]) are revived and shall apply with respect to merchandise exported to the United States on or after such date); and
+&emsp;&emsp;"(i) shall remain in effect until the date on which the Agreement enters into force with respect to the United States (and on such date the amendments made by this title (except the amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\]) are revived and shall apply with respect to merchandise exported to the United States on or after such date); and
 
-&emsp;&emsp;“(ii) shall apply with respect to merchandise exported to the United States on or after January 1, 1981, and before the date on which the Agreement enters into such force.
+&emsp;&emsp;"(ii) shall apply with respect to merchandise exported to the United States on or after January 1, 1981, and before the date on which the Agreement enters into such force.
 
-“(b)
+"(b)
 
 Application of Old Law Valuation Standards.—For purposes of the administration of the customs laws, all merchandise (other than merchandise to which subsections (a) and (c) apply) shall be appraised on the same basis, and in the same manner, as if the amendments made by this title had not been enacted.
 
-“(c)
+"(c)
 
 Special Treatment for Certain Rubber Footwear.—The amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\] shall take effect July 1, 1981, or, if later, the date on which the Agreement enters into force with respect to the United States, and shall apply, together with the other amendments made by this title, to rubber footwear exported to the United States on or after such date. For purposes of the administration of the customs laws, all rubber footwear (other than rubber footwear to which the preceding sentence applies) shall be appraised on the same basis, and in the same manner, as if the amendments made by this title had not been enacted.
 
-“(d)
+"(d)
 
-Definition.—For purposes of this section, the term ‘rubber footwear’ means articles described in item 700.60 of the Tariff Schedules of the United States (as in effect on the day before the day on which the amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\] take effect).”
+Definition.—For purposes of this section, the term 'rubber footwear' means articles described in item 700.60 of the Tariff Schedules of the United States (as in effect on the day before the day on which the amendments made by section 223(b) \[amending schedule 7, part 1, subpart A of the Tariff Schedules of the United States\] take effect)."
 
 \[For Presidential proclamation specifying in accordance with subsec. (a)(2), above, that the amendments by title II of Pub. L. 96–39 are effective July 1, 1980, see sections 5(b) and 2(a) of Proc. No. 4768, June 28, 1980, 45 F.R. 45136, 45137, set out as a note under section 2111 of this title.\]
 
 #### Effective Date
 
-Act Aug. 2, 1956, ch. 887, §8, 70 Stat. 949, provided that: “This Act \[enacting this section and provisions set out in notes under this section and sections 2, 160, 1351, and 1402 of this title, amending sections 1001, 1402, 1500, and 1583 of this title, and sections 372 and 711 of former Title 31, Money and Finance, and repealing sections 12 to 18, 21 to 24, 26 to 28, 30, 40, 53 to 57, 59, 61, 62, 67, 376, 379, 390, 494, 526, 541, 542, 549, and 579 of this title\] shall be effective on and after the day following the date of its enactment \[Aug. 2, 1956\], except that section 2 \[enacting this section and provisions set out in note under section 1351 of this title, and amending sections 1001, 1336, and 1402 of this title\] shall be effective only as to articles entered, or withdrawn from warehouse, for consumption on or after the thirtieth day following the publication of the final list provided for in section 6(a) of this Act \[set out in note under section 1402 of this title\], and section 3 \[amending section 372 of former Title 31\] shall be effective as to entries filed on or after the thirtieth day following the date of enactment of this Act \[Aug. 2, 1956\].”
+Act Aug. 2, 1956, ch. 887, §8, 70 Stat. 949, provided that: "This Act \[enacting this section and provisions set out in notes under this section and sections 2, 160, 1351, and 1402 of this title, amending sections 1001, 1402, 1500, and 1583 of this title, and sections 372 and 711 of former Title 31, Money and Finance, and repealing sections 12 to 18, 21 to 24, 26 to 28, 30, 40, 53 to 57, 59, 61, 62, 67, 376, 379, 390, 494, 526, 541, 542, 549, and 579 of this title\] shall be effective on and after the day following the date of its enactment \[Aug. 2, 1956\], except that section 2 \[enacting this section and provisions set out in note under section 1351 of this title, and amending sections 1001, 1336, and 1402 of this title\] shall be effective only as to articles entered, or withdrawn from warehouse, for consumption on or after the thirtieth day following the publication of the final list provided for in section 6(a) of this Act \[set out in note under section 1402 of this title\], and section 3 \[amending section 372 of former Title 31\] shall be effective as to entries filed on or after the thirtieth day following the date of enactment of this Act \[Aug. 2, 1956\]."
 
 #### Presidential Report to Congress on Operation of Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade Over 2-Year Period
 
-Pub. L. 96–39, title II, §203, July 26, 1979, 93 Stat. 202, provided that: “As soon as practicable after the close of the 2-year period beginning on the date on which the amendments made by this title (other than section 223(b), relating to certain rubber footwear) take effect \[see Effective Date of 1979 Amendment note set out above\], the President shall prepare and submit to Congress a report containing an evaluation of the operation of the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade approved under section 2(a) \[section 2503(a) of this title\] (hereinafter in this subtitle referred to as the ‘Agreement’), both domestically and internationally, during that period.”
+Pub. L. 96–39, title II, §203, July 26, 1979, 93 Stat. 202, provided that: "As soon as practicable after the close of the 2-year period beginning on the date on which the amendments made by this title (other than section 223(b), relating to certain rubber footwear) take effect \[see Effective Date of 1979 Amendment note set out above\], the President shall prepare and submit to Congress a report containing an evaluation of the operation of the Agreement on Implementation of Article VII of the General Agreement on Tariffs and Trade approved under section 2(a) \[section 2503(a) of this title\] (hereinafter in this subtitle referred to as the 'Agreement'), both domestically and internationally, during that period."
 
 #### List of Articles To Be Valued; Preliminary List; Additions; Final List; Transmittal to Congressional Committees
 
 Act Aug. 2, 1956, ch. 887, §6, 70 Stat. 948, provided that:
 
-“(a) The Secretary of the Treasury shall determine and make public a list of the articles which shall be valued in accordance with section 402a, Tariff Act of 1930, as amended by this Act \[former section 1402 of this title\], as follows:
+"(a) The Secretary of the Treasury shall determine and make public a list of the articles which shall be valued in accordance with section 402a, Tariff Act of 1930, as amended by this Act \[former section 1402 of this title\], as follows:
 
-“As soon as practicable after the enactment of this Act \[Aug. 2, 1956\] the Secretary shall make public a preliminary list of the imported articles which he shall have determined, after such investigation as he deems necessary, would have been appraised in accordance with section 402 of the Tariff Act of 1930, as amended by this Act \[this section\], at average values for each article which are 95 (or less) per centum of the average values at which such article was actually appraised during the fiscal year 1954. If within sixty days after the publication of such preliminary list any manufacturer, producer, or wholesaler in the United States presents to the Secretary his reason for belief that any imported articles not specified in such list and like or similar to articles manufactured, produced, or sold at wholesale by him would have been appraised in accordance with such section 402 \[section 1401a of this title\] at average values which are 95 (or less) per centum of the average values at which they were or would have been appraised under section 402a, Tariff Act of 1930, as amended by this Act, the Secretary shall cause such investigation of the matter to be made as he deems necessary. If in the opinion of the Secretary the reason for belief is substantiated by the investigation, the articles involved shall be added to the preliminary list and such list, including any additions so made thereto, shall be published as a final list. Every article so specified in the final list which is entered, or withdrawn from warehouse, for consumption on or after the thirtieth day following the date of publication of the final list shall be appraised in accordance with the provisions of section 402a, Tariff Act of 1930, as amended by this Act.
+"As soon as practicable after the enactment of this Act \[Aug. 2, 1956\] the Secretary shall make public a preliminary list of the imported articles which he shall have determined, after such investigation as he deems necessary, would have been appraised in accordance with section 402 of the Tariff Act of 1930, as amended by this Act \[this section\], at average values for each article which are 95 (or less) per centum of the average values at which such article was actually appraised during the fiscal year 1954. If within sixty days after the publication of such preliminary list any manufacturer, producer, or wholesaler in the United States presents to the Secretary his reason for belief that any imported articles not specified in such list and like or similar to articles manufactured, produced, or sold at wholesale by him would have been appraised in accordance with such section 402 \[section 1401a of this title\] at average values which are 95 (or less) per centum of the average values at which they were or would have been appraised under section 402a, Tariff Act of 1930, as amended by this Act, the Secretary shall cause such investigation of the matter to be made as he deems necessary. If in the opinion of the Secretary the reason for belief is substantiated by the investigation, the articles involved shall be added to the preliminary list and such list, including any additions so made thereto, shall be published as a final list. Every article so specified in the final list which is entered, or withdrawn from warehouse, for consumption on or after the thirtieth day following the date of publication of the final list shall be appraised in accordance with the provisions of section 402a, Tariff Act of 1930, as amended by this Act.
 
-“(b) The final list published in accordance with the provisions of subsection (a), together with explanatory data, shall be transmitted promptly to the chairmen of the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate.”
+"(b) The final list published in accordance with the provisions of subsection (a), together with explanatory data, shall be transmitted promptly to the chairmen of the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate."
 

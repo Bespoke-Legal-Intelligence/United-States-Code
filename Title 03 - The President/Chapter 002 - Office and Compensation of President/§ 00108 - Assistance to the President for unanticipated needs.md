@@ -4,7 +4,7 @@
 
 (b) The President shall transmit a report to each House of the Congress for each fiscal year beginning on or after the effective date of this subsection which sets forth the purposes for which expenditures were made under this section for such fiscal year and the amount expended for each such purpose. Each such report shall be transmitted no later than 60 days after the close of the fiscal year covered by such report.
 
-(c) An individual may not be paid under the authority of this section at a rate of pay in excess of the rate of basic pay then currently paidfor level II of the Executive Schedule of section 5313 of title 5.
+(c) An individual may not be paid under the authority of this section at a rate of pay in excess of the rate of basic pay then currently paid for level II of the Executive Schedule of section 5313 of title 5.
 
 (Added Pub. L. 95–570, §2(a), Nov. 2, 1978, 92 Stat. 2449.)
 

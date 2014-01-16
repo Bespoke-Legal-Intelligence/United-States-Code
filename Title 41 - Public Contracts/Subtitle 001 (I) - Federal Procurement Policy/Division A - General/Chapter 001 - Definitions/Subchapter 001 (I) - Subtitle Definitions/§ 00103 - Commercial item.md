@@ -1,6 +1,6 @@
 ### §103. Commercial item
 
-In this subtitle, the term “commercial item” means—
+In this subtitle, the term "commercial item" means—
 
 &emsp;(1) an item, other than real property, that—
 
@@ -52,9 +52,9 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, title III, §309(c)(11), as added Pub. L. 98–369, title VII, §2711(a)(3), July 18, 1984, 98 Stat. 1180; Pub. L. 98–577, title V, §504(a)(4), Oct. 30, 1984, 98 Stat. 3086; Pub. L. 103–355, title I, §1551, Oct. 13, 1994, 108 Stat. 3299.
 
-41:264a (“commercial item”).
+41:264a ("commercial item").
 
-June 30, 1949, ch. 288, title III, §314A (“commercial item”), as added Pub. L. 103–355, title VIII, §8202, Oct. 13, 1994, 108 Stat. 3394.
+June 30, 1949, ch. 288, title III, §314A ("commercial item"), as added Pub. L. 103–355, title VIII, §8202, Oct. 13, 1994, 108 Stat. 3394.
 
 41:403(12).
 

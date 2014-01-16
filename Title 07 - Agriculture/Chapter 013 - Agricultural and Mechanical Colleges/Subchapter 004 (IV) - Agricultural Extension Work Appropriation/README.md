@@ -19,4 +19,4 @@
 - [&sect; 00347 - Repealed. Pub. L. 86&#8211;533, &sect;1(21), June 29, 1960, 74 Stat. 249](%C2%A7%2000347%20-%20Repealed.%20Pub.%20L.%2086%E2%80%93533%2C%20%C2%A71%2821%29%2C%20June%2029%2C%201960%2C%2074%20Stat.%20249.md)
 - [&sect; 00347a - Disadvantaged agricultural areas](%C2%A7%2000347a%20-%20Disadvantaged%20agricultural%20areas.md)
 - [&sect; 00348 - Rules and regulations](%C2%A7%2000348%20-%20Rules%20and%20regulations.md)
-- [&sect; 00349 - &#8220;State&#8221; defined](%C2%A7%2000349%20-%20%E2%80%9CState%E2%80%9D%20defined.md)
+- [&sect; 00349 - State defined](%C2%A7%2000349%20-%20State%20defined.md)

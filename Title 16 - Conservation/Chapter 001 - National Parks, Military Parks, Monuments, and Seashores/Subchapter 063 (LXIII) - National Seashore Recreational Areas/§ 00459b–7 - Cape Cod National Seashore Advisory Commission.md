@@ -2,7 +2,7 @@
 
 #### (a) Establishment; termination
 
-There is established a Cape Cod National Seashore Advisory Commission (hereinafter referred to as the “Commission”). The Commission shall terminate September 26, 2018.
+There is established a Cape Cod National Seashore Advisory Commission (hereinafter referred to as the "Commission"). The Commission shall terminate September 26, 2018.
 
 #### (b) Membership; term
 
@@ -34,7 +34,7 @@ The Secretary or his designee shall, from time to time, consult with the members
 
 #### (g) Advice of Commission for commercial or industrial use permits and establishment of public use areas for recreational activities
 
-No permit for the commercial or industrial use of property located within the seashore shall be issued by the Secretary, nor shall any public use area for recreational activity be established by the Secretary within the seashore, without the advice of the Commission, if such advice is submitted within a reasonable time after it is sought.
+No permit for the commercial or industrial use of property located within the seashore shallbe issued by the Secretary, nor shall any public use area for recreational activity be established by the Secretary within the seashore, without the advice of the Commission, if such advice is submitted within a reasonable time after it is sought.
 
 #### (h) Exemption from other provisions of law
 
@@ -50,17 +50,17 @@ No permit for the commercial or industrial use of property located within the se
 
 #### References in Text
 
-Sections 281, 283, 284, and 1914 of title 18, referred to in subsec. (h)(1), were repealed by Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126, “except as they \[sections 281 and 283\] may apply to retired officers of the armed forces of the United States”, and were supplanted by sections 203, 205, 207, and 209, respectively, of Title 18, Crimes and Criminal Procedure. For further details, see Exemptions note set out under section 203 of Title 18.
+Sections 281, 283, 284, and 1914 of title 18, referred to in subsec. (h)(1), were repealed by Pub. L. 87–849, §2, Oct. 23, 1962, 76 Stat. 1126, "except as they \[sections 281 and 283\] may apply to retired officers of the armed forces of the United States", and were supplanted by sections 203, 205, 207, and 209, respectively, of Title 18, Crimes and Criminal Procedure. For further details, see Exemptions note set out under section 203 of Title 18.
 
 Section 190 of the Revised Statutes (5 U.S.C. 99), referred to in subsec. (h)(1), was repealed by Pub. L. 87–849, §3, Oct. 23, 1962, 76 Stat. 1126. See section 207 of Title 18.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–11 substituted “2018” for “2008”.
+<b>2009</b>—Subsec. (a). Pub. L. 111–11 substituted "2018" for "2008".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–280 substituted “The Commission shall terminate September 26, 2008.” for “Said Commission shall terminate 30 years after the date the seashore is established under section 459b–2 of this title.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–280 substituted "The Commission shall terminate September 26, 2008." for "Said Commission shall terminate 30 years after the date the seashore is established under section 459b–2 of this title."
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–420 substituted “30 years” for “ten years”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–420 substituted "30 years" for "ten years".
 
 #### Effective Date of 2009 Amendment
 
@@ -68,7 +68,7 @@ Pub. L. 111–11, title VII, §7402, Mar. 30, 2009, 123 Stat. 1219, provided tha
 
 #### Reestablishment and Extension of Commission
 
-Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 731, provided: “That the Cape Cod National Seashore Advisory Commission established under section 8(a) of the Act of August 7, 1961 (Public Law 87–126; 75 Stat. 292) \[16 U.S.C. 459b–7(a)\] is reestablished and extended through February 28, 1996”.
+Pub. L. 99–349, title I, July 2, 1986, 100 Stat. 731, provided: "That the Cape Cod National Seashore Advisory Commission established under section 8(a) of the Act of August 7, 1961 (Public Law 87–126; 75 Stat. 292) \[16 U.S.C. 459b–7(a)\] is reestablished and extended through February 28, 1996".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—AMVETS (American Veterans) (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—AMVETS (American Veterans) (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 
@@ -44,5 +44,5 @@ This text of 36:67a is omitted as executed and obsolete.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–241 substituted “AMVETS (American Veterans)” for “AMVETS (American Veterans of World War II, Korea, and Vietnam)”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–241 substituted "AMVETS (American Veterans)" for "AMVETS (American Veterans of World War II, Korea, and Vietnam)".
 

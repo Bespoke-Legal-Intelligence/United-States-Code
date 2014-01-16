@@ -6,7 +6,7 @@ The Secretary shall, during 1964, appoint an Advisory Council on Public Welfare 
 
 #### (b) Membership and representation of interests on initial Council
 
-The Council shall be appointed by the Secretary without regard to the provisions of title 5 governing appointments in the competitive service and shall consist of twelve persons who shall, to the extent possible, be representatives of employers and employees in equal numbers,representatives of State or Federal agencies concerned with the administration or financing of the public assistance and child welfare services programs, representatives of nonprofit private organizations concerned with social welfare programs, other persons with special knowledge, experience, or qualifications with respect to such programs, and members of the public.
+The Council shall be appointed by the Secretary without regard to the provisions of title 5 governing appointments in the competitive service and shall consist of twelve persons who shall, to the extent possible, be representatives of employers and employees in equal numbers, representatives of State or Federal agencies concerned with the administration or financing of the public assistance and child welfare services programs, representatives of nonprofit private organizations concerned with social welfare programs, other persons with special knowledge, experience, or qualifications with respect to such programs, and members of the public.
 
 #### (c) Technical and other assistance for initial Council; availability of data
 
@@ -46,31 +46,31 @@ Members of the Council or of any advisory committee appointed under this section
 
 <b>2000</b>—Subsec. (i). Pub. L. 106–554 added subsec. (i).
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–369, §2663(j)(2)(D)(iv), substituted “Health and Human Services” for “Health, Education, and Welfare”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369, §2663(j)(2)(D)(iv), substituted "Health and Human Services" for "Health, Education, and Welfare".
 
 Subsec. (g). Pub. L. 98–369, §2663(e)(4)(A), made technical correction of typographical error resulting in no change in text.
 
-Subsec. (h)(1). Pub. L. 98–369, §2663(e)(4)(B), substituted “sections 203, 205, and 209 of title 18” for “sections 281, 283, and 1914 of title 18 and section 190 of the Revised Statutes (5 U.S.C. 99)”.
+Subsec. (h)(1). Pub. L. 98–369, §2663(e)(4)(B), substituted "sections 203, 205, and 209 of title 18" for "sections 281, 283, and 1914 of title 18 and section 190 of the Revised Statutes (5 U.S.C. 99)".
 
-<b>1968</b>—Subsecs. (b), (f). Pub. L. 90–248, §403(e)(1), (2), substituted “provisions of title 5, governing appointments in the competitive service” for “civil-service laws”.
+<b>1968</b>—Subsecs. (b), (f). Pub. L. 90–248, §403(e)(1), (2), substituted "provisions of title 5, governing appointments in the competitive service" for "civil-service laws".
 
-Subsec. (g). Pub. L. 90–248, §403(e)(3), substituted “section 5703 of title 5” for “section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2)”.
+Subsec. (g). Pub. L. 90–248, §403(e)(3), substituted "section 5703 of title 5" for "section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 73b–2)".
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title IX, §948(e), Dec. 8, 2003, 117 Stat. 2426, provided that: “Except as otherwise provided, the amendments made by this section \[amending this section and sections 1320c–3, 1395w–22, 1395y, and 1395ff of this title\] shall be effective as if included in the enactment of BIPA \[the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, as enacted by section 1(a)(6) of Public Law 106–554\].”
+Pub. L. 108–173, title IX, §948(e), Dec. 8, 2003, 117 Stat. 2426, provided that: "Except as otherwise provided, the amendments made by this section \[amending this section and sections 1320c–3, 1395w–22, 1395y, and 1395ff of this title\] shall be effective as if included in the enactment of BIPA \[the Medicare, Medicaid, and SCHIP Benefits Improvement and Protection Act of 2000, as enacted by section 1(a)(6) of Public Law 106–554\]."
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(6) \[title V, §522(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–547, provided that: “The amendments made by this section \[amending this section and sections 1395y and 1395ff of this title\] shall apply with respect to—
+Pub. L. 106–554, §1(a)(6) \[title V, §522(d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–547, provided that: "The amendments made by this section \[amending this section and sections 1395y and 1395ff of this title\] shall apply with respect to—
 
-&emsp;“(1) a review of any national or local coverage determination filed,
+&emsp;"(1) a review of any national or local coverage determination filed,
 
-&emsp;“(2) a request to make such a determination made, and
+&emsp;"(2) a request to make such a determination made, and
 
-&emsp;“(3) a national coverage determination made,
+&emsp;"(3) a national coverage determination made,
 
-> on or after October 1, 2001.”
+> on or after October 1, 2001."
 
 #### Effective Date of 1984 Amendment
 
@@ -78,5 +78,5 @@ Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed a
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by thePresident or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

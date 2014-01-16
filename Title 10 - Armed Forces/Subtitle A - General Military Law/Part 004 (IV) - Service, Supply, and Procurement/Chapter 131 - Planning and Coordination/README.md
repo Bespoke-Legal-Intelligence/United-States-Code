@@ -44,31 +44,31 @@
 
 Pub. L. 111–383, div. A, title VIII, §805(a)(2), Jan. 7, 2011, 124 Stat. 4259, added item 2223a.
 
-<b>2008</b>—Pub. L. 110–181, div. A, title III, §§352(b), 371(f), Jan. 28, 2008, 122 Stat. 72, 81, added items 2228 and 2229a and struck out former item 2228 “Military equipment and infrastructure: prevention and mitigation of corrosion”.
+<b>2008</b>—Pub. L. 110–181, div. A, title III, §§352(b), 371(f), Jan. 28, 2008, 122 Stat. 72, 81, added items 2228 and 2229a and struck out former item 2228 "Military equipment and infrastructure: prevention and mitigation of corrosion".
 
 <b>2006</b>—Pub. L. 109–364, div. A, title III, §351(b), Oct. 17, 2006, 120 Stat. 2160, added item 2229.
 
-<b>2004</b>—Pub. L. 108–375, div. A, title III, §332(a)(2), title VI, §651(f)(2), Oct. 28, 2004, 118 Stat. 1854, 1972, struck out item 2219 “Retention of morale, welfare, and recreation funds by military installations: limitation” and added item 2222.
+<b>2004</b>—Pub. L. 108–375, div. A, title III, §332(a)(2), title VI, §651(f)(2), Oct. 28, 2004, 118 Stat. 1854, 1972, struck out item 2219 "Retention of morale, welfare, and recreation funds by military installations: limitation" and added item 2222.
 
-<b>2002</b>—Pub. L. 107–314, div. A, title X, §§1004(h)(1), 1052(b)(2), 1067(a)(2), Dec. 2, 2002, 116 Stat. 2631, 2649, 2658, struck out item 2222 “Annual financial management improvement plan” and added items 2224a and 2228.
+<b>2002</b>—Pub. L. 107–314, div. A, title X, §§1004(h)(1), 1052(b)(2), 1067(a)(2), Dec. 2, 2002, 116 Stat. 2631, 2649, 2658, struck out item 2222 "Annual financial management improvement plan" and added items 2224a and 2228.
 
-<b>2001</b>—Pub. L. 107–107, div. A, title X, §1009(b)(3)(B), Dec. 28, 2001, 115 Stat. 1209, substituted “Annual” for “Biennial” in item 2222.
+<b>2001</b>—Pub. L. 107–107, div. A, title X, §1009(b)(3)(B), Dec. 28, 2001, 115 Stat. 1209, substituted "Annual" for "Biennial" in item 2222.
 
 <b>2000</b>—Pub. L. 106–398, §1 \[\[div. A\], title VIII, §812(a)(2), title X, §§1006(a)(2), 1008(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–214, 1654A–247, 1654A–250, added items 2225, 2226, and 2227.
 
 <b>1999</b>—Pub. L. 106–65, div. A, title X, §1043(b), Oct. 5, 1999, 113 Stat. 761, added item 2224.
 
-<b>1998</b>—Pub. L. 105–261, div. A, title III, §331(a)(2), title IX, §§906(f)(1), 911(a)(2), title X, §1008(b), Oct. 17, 1998, 112 Stat. 1968, 2096, 2099, 2117, added item 2212, struck out items 2216a “Defense Business Operations Fund” and 2221 “Fisher House trust funds”, and added item 2223.
+<b>1998</b>—Pub. L. 105–261, div. A, title III, §331(a)(2), title IX, §§906(f)(1), 911(a)(2), title X, §1008(b), Oct. 17, 1998, 112 Stat. 1968, 2096, 2099, 2117, added item 2212, struck out items 2216a "Defense Business Operations Fund" and 2221 "Fisher House trust funds", and added item 2223.
 
 <b>1997</b>—Pub. L. 105–85, div. A, title X, §1008(a)(2), Nov. 18, 1997, 111 Stat. 1871, added item 2222.
 
-<b>1996</b>—Pub. L. 104–201, div. A, title X, §1074(a)(10), Sept. 23, 1996, 110 Stat. 2659, redesignated item 2216 “Defense Business Operations Fund” as 2216a.
+<b>1996</b>—Pub. L. 104–201, div. A, title X, §1074(a)(10), Sept. 23, 1996, 110 Stat. 2659, redesignated item 2216 "Defense Business Operations Fund" as 2216a.
 
 Pub. L. 104–106, div. A, title III, §371(a)(2), title IX, §§912(a)(2), 914(a)(2), Feb. 10, 1996, 110 Stat. 279, 410, 412, added two items 2216 and item 2221.
 
-<b>1994</b>—Pub. L. 103–355, title II, §2454(c)(3)(A), title III, §3061(b), title V, §5001(a)(2), Oct. 13, 1994, 108 Stat. 3326, 3336, 3350, substituted “Regulations on procurement, production, warehousing, and supply distribution functions” for “Obligation of funds: limitation” in item 2202, struck out item 2212 “Contracted advisory and assistance services: accounting procedures”, and added item 2220.
+<b>1994</b>—Pub. L. 103–355, title II, §2454(c)(3)(A), title III, §3061(b), title V, §5001(a)(2), Oct. 13, 1994, 108 Stat. 3326, 3336, 3350, substituted "Regulations on procurement, production, warehousing, and supply distribution functions" for "Obligation of funds: limitation" in item 2202, struck out item 2212 "Contracted advisory and assistance services: accounting procedures", and added item 2220.
 
-Pub. L. 103–337, div. A, title III, §373(b), div. B, title XXVIII, §2804(b)(2), Oct. 5, 1994, 108 Stat. 2736, 3053, substituted “Reimbursements” for “Availability of reimbursements” in item 2205 and added item 2219.
+Pub. L. 103–337, div. A, title III, §373(b), div. B, title XXVIII, §2804(b)(2), Oct. 5, 1994, 108 Stat. 2736, 3053, substituted "Reimbursements" for "Availability of reimbursements" in item 2205 and added item 2219.
 
 <b>1993</b>—Pub. L. 103–160, div. A, title XI, §1106(a)(2), Nov. 30, 1993, 107 Stat. 1750, added item 2215.
 
@@ -76,7 +76,7 @@ Pub. L. 103–337, div. A, title III, §373(b), div. B, title XXVIII, §2804(b)(
 
 <b>1991</b>—Pub. L. 102–190, div. A, title III, §317(b), Dec. 5, 1991, 105 Stat. 1338, added item 2213.
 
-<b>1990</b>—Pub. L. 101–510, div. A, title XIII, §1331(2), title XIV, §§1482(c)(2), 1484(i)(6), Nov. 5, 1990, 104 Stat. 1673, 1710, 1718, struck out item 2213 “Cooperative military airlift agreements”, added item 2214, and struck out items 2215 “Reports on unobligated balances” and 2216 “Annual report on budgeting for inflation”.
+<b>1990</b>—Pub. L. 101–510, div. A, title XIII, §1331(2), title XIV, §§1482(c)(2), 1484(i)(6), Nov. 5, 1990, 104 Stat. 1673, 1710, 1718, struck out item 2213 "Cooperative military airlift agreements", added item 2214, and struck out items 2215 "Reports on unobligated balances" and 2216 "Annual report on budgeting for inflation".
 
 <b>1988</b>—Pub. L. 100–370, §1(d)(4), July 19, 1988, 102 Stat. 843, added items 2201, 2212, and 2217.
 
@@ -84,47 +84,47 @@ Pub. L. 103–337, div. A, title III, §373(b), div. B, title XXVIII, §2804(b)(
 
 <b>1982</b>—Pub. L. 97–252, title XI, §1125(b), Sept. 8, 1982, 96 Stat. 758, added item 2213.
 
-Pub. L. 97–214, §10(a)(1), July 12, 1982, 96 Stat. 174, struck out item 2212 “Transmission of annual military construction authorization request”.
+Pub. L. 97–214, §10(a)(1), July 12, 1982, 96 Stat. 174, struck out item 2212 "Transmission of annual military construction authorization request".
 
 <b>1978</b>—Pub. L. 95–356, title VIII, §802(a)(2), Sept. 8, 1978, 92 Stat. 585, added item 2212.
 
 <b>1962</b>—Pub. L. 87–651, title II, §207(b), Sept. 7, 1962, 76 Stat. 523, added items 2203 to 2211.
 
-<b>1958</b>—Pub. L. 85–599, §3(c), Aug. 6, 1958, 72 Stat. 516, struck out item 2201 “General functions of Secretary of Defense”.
+<b>1958</b>—Pub. L. 85–599, §3(c), Aug. 6, 1958, 72 Stat. 516, struck out item 2201 "General functions of Secretary of Defense".
 
 #### Strategic Management Plan
 
 Pub. L. 110–181, div. A, title IX, §904(d), (e), Jan. 28, 2008, 122 Stat. 275, provided that:
 
-“(d)
+"(d)
 
 Strategic Management Plan Required.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Requirement.—The Secretary of Defense, acting through the Chief Management Officer of the Department of Defense, shall develop a strategic management plan for the Department of Defense.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Matters covered.—Such plan shall include, at a minimum, detailed descriptions of—
 
-&emsp;&emsp;“(A) performance goals and measures for improving and evaluating the overall efficiency and effectiveness of the business operations of the Department of Defense and achieving an integrated management system for business support areas within the Department of Defense;
+&emsp;&emsp;"(A) performance goals and measures for improving and evaluating the overall efficiency and effectiveness of the business operations of the Department of Defense and achieving an integrated management system for business support areas within the Department of Defense;
 
-&emsp;&emsp;“(B) key initiatives to be undertaken by the Department of Defense to achieve the performance goals under subparagraph (A), together with related resource needs;
+&emsp;&emsp;"(B) key initiatives to be undertaken by the Department of Defense to achieve the performance goals under subparagraph (A), together with related resource needs;
 
-&emsp;&emsp;“(C) procedures to monitor the progress of the Department of Defense in meeting performance goals and measures under subparagraph (A);
+&emsp;&emsp;"(C) procedures to monitor the progress of the Department of Defense in meeting performance goals and measures under subparagraph (A);
 
-&emsp;&emsp;“(D) procedures to review and approve plans and budgets for changes in business operations, including any proposed changes to policies, procedures, processes, and systems, to ensure the compatibility of such plans and budgets with the strategic management plan of the Department of Defense; and
+&emsp;&emsp;"(D) procedures to review and approve plans and budgets for changes in business operations, including any proposed changes to policies, procedures, processes, and systems, to ensure the compatibility of such plans and budgets with the strategic management plan of the Department of Defense; and
 
-&emsp;&emsp;“(E) procedures to oversee the development of, and review and approve, all budget requests for defense business systems.
+&emsp;&emsp;"(E) procedures to oversee the development of, and review and approve, all budget requests for defense business systems.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Updates.—The Secretary of Defense, acting through the Chief Management Officer, shall update the strategic management plan no later than July 1, 2009, and every two years thereafter and provide a copy to the Committees on Armed Services of the Senate and the House of Representatives.
 
-“(e)
+"(e)
 
-Report.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of this section and a copy of the strategic management plan required by subsection (d).”
+Report.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall provide to the Committees on Armed Services of the Senate and the House of Representatives a report on the implementation of this section and a copy of the strategic management plan required by subsection (d)."
 
 
 ---

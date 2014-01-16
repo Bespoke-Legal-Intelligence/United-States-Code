@@ -1,8 +1,8 @@
 ### §4612. Termination or suspension
 
-#### (a) “Person” defined
+#### (a) "Person" defined
 
-In this section, the term “person” means a producer, importer, or handler.
+In this section, the term "person" means a producer, importer, or handler.
 
 #### (b) Authority of Secretary
 
@@ -24,13 +24,13 @@ Except as provided in subsection (d)(3) of this section and section 4613(g) of t
 
 #### (3) Effect on periodic referenda
 
-&emsp;If a referendum is conducted under this subsection and the Secretary determines that continuation of the order is approved under section 4611 of this title, any referendum otherwise required to be conducted under subsection (c) of this section shall not be held before the date that is 5 years after the date of the referendum conducted under this subsection.
+&emsp;If a referendum is conducted under this subsection and the Secretary determines thatcontinuation of the order is approved under section 4611 of this title, any referendum otherwise required to be conducted under subsection (c) of this section shall not be held before the date that is 5 years after the date of the referendum conducted under this subsection.
 
 #### (e) Timing and requirements for termination or suspension
 
 #### (1) In general
 
-&emsp;The Secretary shall terminate or suspend an order at the end of the marketing year duringwhich a referendum is conducted under subsection (c) or (d) of this section if the Secretary determines that continuation of an order is not approved under section 4611 of this title.
+&emsp;The Secretary shall terminate or suspend an order at the end of the marketing year during which a referendum is conducted under subsection (c) or (d) of this section if the Secretary determines that continuation of an order is not approved under section 4611 of this title.
 
 #### (2) Subsequent referendum
 
@@ -50,7 +50,7 @@ Except as provided in subsection (d)(3) of this section and section 4613(g) of t
 
 <b>1998</b>—Pub. L. 105–185 amended section catchline and text generally, substituting present provisions for provisions which in subsec. (a) authorized Secretary to terminate or suspend order, in subsec. (b) provided for conducting of referendum every five years and alternative first referendum, in subsec. (c) provided for referendum upon request of Honey Board or petition of ten percent or more of producers and importers, and in subsec. (d) directed termination or suspension of order where favored by majority voting in referendum and majority produce and import more than 50 percent of volume of honey of those voting.
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–624, §1985(a), designated existing provisions as par. (1), substituted “Except as otherwise provided in paragraph (2), five” for “Five” and “termination” for “continuation, termination,” and added par. (2).
+<b>1990</b>—Subsec. (b). Pub. L. 101–624, §1985(a), designated existing provisions as par. (1), substituted "Except as otherwise provided in paragraph (2), five" for "Five" and "termination" for "continuation, termination," and added par. (2).
 
-Subsec. (d). Pub. L. 101–624, §1985(b), substituted “an order” for “such order”, inserted “in which a referendum is conducted under subsection (b) or (c) of this section” after “marketing year”, and struck out “of the order” before “is favored by”.
+Subsec. (d). Pub. L. 101–624, §1985(b), substituted "an order" for "such order", inserted "in which a referendum is conducted under subsection (b) or (c) of this section" after "marketing year", and struck out "of the order" before "is favored by".
 

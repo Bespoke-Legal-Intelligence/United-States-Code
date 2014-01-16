@@ -32,7 +32,7 @@
 
 &emsp;(A) such action is not appropriate, the agency shall, within such time period, provide the Commission with, and publish in the Federal Register, a notice of such determination (including an adequate statement of the reasons for the determination), or
 
-&emsp;(B) such action is appropriate, the agency shall undertake such action as expeditiouslyas feasible and shall notify the Commission of the determination and the action undertaken.
+&emsp;(B) such action is appropriate, the agency shall undertake such action as expeditiously as feasible and shall notify the Commission of the determination and the action undertaken.
 
 #### (c) Report on protection of human subjects; scope; submission to President, etc.
 
@@ -40,7 +40,7 @@ The Commission shall biennially report to the President, the Congress, and appro
 
 #### (d) Annual report; scope; submission to President, etc.
 
-Not later than December 15 of each year (beginning with 1979) the Commission shall report to the President, the Congress, and appropriate Federal agencies on the activities of the Commission during the fiscal year ending in such year. Each such report shall include a complete list of all recommendations described in subsection (b)(1) of this section made to Federal agencies by the Commission during the fiscal year and the actions taken, pursant <sup>3</sup> to subsection (b)(2) of this section, by the agencies upon such recommendations, and may include such recommendations for legislation and administrative action as the Commission deems appropriate.
+Not later than December 15 of each year (beginning with 1979) the Commission shall report to the President, the Congress, and appropriate Federal agencies on the activities of the Commission during the fiscal year ending in such year. Each such report shall include a complete list of all recommendations described in subsection (b)(1) of this section made to Federal agencies by the Commission during the fiscalyear and the actions taken, pursant <sup>3</sup> to subsection (b)(2) of this section, by the agencies upon such recommendations, and may include such recommendations for legislation and administrative action as the Commission deems appropriate.
 
 #### (e) Publication and dissemination of reports
 
@@ -50,19 +50,19 @@ The Commission may at any time publish and disseminate to the public reports res
 
 For purposes of this section:
 
-&emsp;(1) The term “Federal agency” means an authority of the government of the United States, but does not include (A) the Congress, (B) the courts of the United States, and (C) the government of the Commonwealth of Puerto Rico, the government of the District of Columbia, or the government of any territory or possession of the United States.
+&emsp;(1) The term "Federal agency" means an authority of the government of the United States, but does not include (A) the Congress, (B) the courts of the United States, and (C) the government of the Commonwealth of Puerto Rico, the government of the District of Columbia, or the government of any territory or possession of the United States.
 
-&emsp;(2) The term “protection of human subjects” includes the protection of the health, safety, and privacy of individuals.
+&emsp;(2) The term "protection of human subjects" includes the protection of the health, safety, and privacy of individuals.
 
 (July 1, 1944, ch. 373, title XVIII, §1802, as added Pub. L. 95–622, title III, §301, Nov. 9, 1978, 92 Stat. 3439; amended Pub. L. 96–32, §4, July 10, 1979, 93 Stat. 82.)
 
 #### Amendments
 
-<b>1979</b>—Subsec. (f). Pub. L. 96–32 redesignated definitions subsection following subsec. (e) as (f), which in original was designated as “(b)”.
+<b>1979</b>—Subsec. (f). Pub. L. 96–32 redesignated definitions subsection following subsec. (e) as (f), which in original was designated as "(b)".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “contained”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "contained".</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “pursuant”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "pursuant".</i>
 

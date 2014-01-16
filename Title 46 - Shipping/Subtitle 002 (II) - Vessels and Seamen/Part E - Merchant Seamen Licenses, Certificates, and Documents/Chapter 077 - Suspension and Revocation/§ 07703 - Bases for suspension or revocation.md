@@ -38,21 +38,21 @@ This section provides the bases for suspension and revocation of a license, cert
 
 #### Amendments
 
-<b>2006</b>—Par. (3). Pub. L. 109–241 struck out “(23 U.S.C. 401 note)” after “of title 49”.
+<b>2006</b>—Par. (3). Pub. L. 109–241 struck out "(23 U.S.C. 401 note)" after "of title 49".
 
-<b>2004</b>—Par. (1)(B). Pub. L. 108–293, §408(1), substituted “misconduct or” for “incompetence, misconduct, or”.
+<b>2004</b>—Par. (1)(B). Pub. L. 108–293, §408(1), substituted "misconduct or" for "incompetence, misconduct, or".
 
-Par. (3). Pub. L. 108–293, §609(3), substituted “section 30304(a)(3)(A) or (B) of title 49” for “section 205(a)(3)(A) or (B) of the National Driver Register Act of 1982”.
+Par. (3). Pub. L. 108–293, §609(3), substituted "section 30304(a)(3)(A) or (B) of title 49" for "section 205(a)(3)(A) or (B) of the National Driver Register Act of 1982".
 
 Pars. (4), (5). Pub. L. 108–293, §408(2)–(4), added pars. (4) and (5).
 
-<b>1990</b>—Pub. L. 101–380 amended section generally. Prior to amendment, section read as follows: “A license, certificate of registry, or merchant mariner's document issued by the Secretary may be suspended or revoked if, when acting under the authority of that license, certificate, or document, the holder—
+<b>1990</b>—Pub. L. 101–380 amended section generally. Prior to amendment, section read as follows: "A license, certificate of registry, or merchant mariner's document issued by the Secretary may be suspended or revoked if, when acting under the authority of that license, certificate, or document, the holder—
 
-&emsp;“(1) has violated or failed to comply with this subtitle, a regulation prescribed under this subtitle, or any other law or regulation intended to promote marine safety or to protect navigable waters.
+&emsp;"(1) has violated or failed to comply with this subtitle, a regulation prescribed under this subtitle, or any other law or regulation intended to promote marine safety or to protect navigable waters.
 
-&emsp;“(2) has committed an act of incompetence, misconduct, or negligence.”
+&emsp;"(2) has committed an act of incompetence, misconduct, or negligence."
 
-<b>1985</b>—Pub. L. 99–36 substituted “certificate of registry,” for first reference to “certificate,”.
+<b>1985</b>—Pub. L. 99–36 substituted "certificate of registry," for first reference to "certificate,".
 
 #### Effective Date of 1990 Amendment
 

@@ -20,11 +20,11 @@ The Council on Environmental Quality, in consultation with the Administrator, th
 
 #### References in Text
 
-The effective date of enactment of this chapter, referred to in subsecs. (a)(3) and (b), probably means January 1, 1977, the effective date of the chapter prescribed by sec. 31 of Pub. L. 94–469, which is set out as a note under section 2601 of this title, rather than October 11, 1976, the date of enactment.
+The effective date of enactment of this chapter, referred to in subsecs. (a)(3) and (b), probably means January 1, 1977, the effective date of the chapter prescribedby sec. 31 of Pub. L. 94–469, which is set out as a note under section 2601 of this title, rather than October 11, 1976, the date of enactment.
 
 #### Change of Name
 
 General Accounting Office redesignated Government Accountability Office by section 8 of Pub. L. 108–271, set out as a note under section 702 of Title 31, Money and Finance.
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (b), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (b), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 

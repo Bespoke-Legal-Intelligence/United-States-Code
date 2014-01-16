@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 June 22, 1988, Pub. L. 100–342, §19(c), 102 Stat. 638.
 
-The words “prescribe regulations” are substituted for “within one year after the date of the enactment of this Act, amend part 218 of title 49, Code of Federal Regulations” because the regulations to carry out this section have been prescribed.
+The words "prescribe regulations" are substituted for "within one year after the date of the enactment of this Act, amend part 218 of title 49, Code of Federal Regulations" because the regulations to carry out this section have been prescribed.
 

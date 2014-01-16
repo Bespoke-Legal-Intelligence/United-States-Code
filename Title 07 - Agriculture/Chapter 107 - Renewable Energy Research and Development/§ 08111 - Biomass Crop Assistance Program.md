@@ -6,11 +6,11 @@ In this section:
 
 #### (1) BCAP
 
-&emsp;The term “BCAP” means the Biomass Crop Assistance Program established under this section.
+&emsp;The term "BCAP" means the Biomass Crop Assistance Program established under this section.
 
 #### (2) BCAP project area
 
-&emsp;The term “BCAP project area” means an area that—
+&emsp;The term "BCAP project area" means an area that—
 
 &emsp;&emsp;(A) has specified boundaries that are submitted to the Secretary by the project sponsor and subsequently approved by the Secretary;
 
@@ -20,17 +20,17 @@ In this section:
 
 #### (3) Contract acreage
 
-&emsp;The term “contract acreage” means eligible land that is covered by a BCAP contract entered into with the Secretary.
+&emsp;The term "contract acreage" means eligible land that is covered by a BCAP contract entered into with the Secretary.
 
 #### (4) Eligible crop
 
 #### (A) In general
 
-&emsp;&emsp;The term “eligible crop” means a crop of renewable biomass.
+&emsp;&emsp;The term "eligible crop" means a crop of renewable biomass.
 
 #### (B) Exclusions
 
-&emsp;&emsp;The term “eligible crop” does not include—
+&emsp;&emsp;The term "eligible crop" does not include—
 
 &emsp;&emsp;&emsp;(i) any crop that is eligible to receive payments under title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\] or an amendment made by that title; or
 
@@ -40,11 +40,11 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “eligible land” includes agricultural and nonindustrial private forest lands (as defined in section 2103a(c) of title 16).
+&emsp;&emsp;The term "eligible land" includes agricultural and nonindustrial private forest lands (as defined in section 2103a(c) of title 16).
 
 #### (B) Exclusions
 
-&emsp;&emsp;The term “eligible land” does not include—
+&emsp;&emsp;The term "eligible land" does not include—
 
 &emsp;&emsp;&emsp;(i) Federal- or State-owned land;
 
@@ -60,11 +60,11 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “eligible material” means renewable biomass.
+&emsp;&emsp;The term "eligible material" means renewable biomass.
 
 #### (B) Exclusions
 
-&emsp;&emsp;The term “eligible material” does not include—
+&emsp;&emsp;The term "eligible material" does not include—
 
 &emsp;&emsp;&emsp;(i) any crop that is eligible to receive payments under title I of the Food, Conservation, and Energy Act of 2008 \[7 U.S.C. 8701 et seq.\] or an amendment made by that title;
 
@@ -76,11 +76,11 @@ In this section:
 
 #### (7) Producer
 
-&emsp;The term “producer” means an owner or operator of contract acreage that is physically located within a BCAP project area.
+&emsp;The term "producer" means an owner or operator of contract acreage that is physically located within a BCAP project area.
 
 #### (8) Project sponsor
 
-&emsp;The term “project sponsor” means—
+&emsp;The term "project sponsor" means—
 
 &emsp;&emsp;(A) a group of producers; or
 

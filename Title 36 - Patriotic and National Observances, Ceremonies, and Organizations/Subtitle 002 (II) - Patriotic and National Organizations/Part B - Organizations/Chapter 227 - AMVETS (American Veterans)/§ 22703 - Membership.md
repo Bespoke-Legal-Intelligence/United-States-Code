@@ -42,5 +42,5 @@ July 23, 1947, ch. 298, §7(1) (1st sentence), 61 Stat. 407.
 
 &nbsp;
 
-In subsection (b), the words “the right to” are omitted as unnecessary.
+In subsection (b), the words "the right to" are omitted as unnecessary.
 

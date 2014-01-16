@@ -98,7 +98,7 @@
 
 #### (iv) Covered document defined
 
-&emsp;&emsp;&emsp;In this subparagraph, the term “covered document” means a financial, tax, or other document required to be submitted by a bidder as part of an original bid submission under a competitive acquisition program in order to meet required financial standards. Such term does not include other documents, such as the bid itself or accreditation documentation.
+&emsp;&emsp;&emsp;In this subparagraph, the term "covered document" means a financial, tax, or other document required to be submitted by a bidder as part of an original bid submission under a competitive acquisition program in order to meet required financial standards. Such term does not include other documents, such as the bid itself or accreditation documentation.
 
 #### (2) Items and services described
 
@@ -256,7 +256,7 @@
 
 #### (B) Bid defined
 
-&emsp;&emsp;In this section, the term “bid” means an offer to furnish an item or service for a particular price and time period that includes, where appropriate, any services that are attendant to the furnishing of the item or service.
+&emsp;&emsp;In this section, the term "bid" means an offer to furnish an item or service for a particular price and time period that includes, where appropriate, any services that are attendant to the furnishing of the item or service.
 
 #### (C) Rules for mergers and acquisitions
 
@@ -310,7 +310,7 @@
 
 #### (1) Establishment
 
-&emsp;The Secretary shall establish a Program Advisory and Oversight Committee (hereinafter in this section referred to as the “Committee”).
+&emsp;The Secretary shall establish a Program Advisory and Oversight Committee (hereinafter in this section referred to as the "Committee").
 
 #### (2) Membership; terms
 
@@ -368,19 +368,19 @@ A prior section 1395w–3, act Aug. 14, 1935, ch. 531, title XVIII, §1847, as a
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1)(B)(i)(II). Pub. L. 111–148, §6410(a)(1), substituted “91” for “70”.
+<b>2010</b>—Subsec. (a)(1)(B)(i)(II). Pub. L. 111–148, §6410(a)(1), substituted "91" for "70".
 
 Subsec. (a)(1)(D)(ii)(II), (III). Pub. L. 111–148, §6410(a)(2), added subcl. (II) and redesignated former subcl. (II) as (III).
 
-<b>2008</b>—Subsec. (a)(1)(B)(i). Pub. L. 110–275, §154(a)(1)(A)(i), inserted “consistent with subparagraph (D)” after “in a manner” in introductory provisions.
+<b>2008</b>—Subsec. (a)(1)(B)(i). Pub. L. 110–275, §154(a)(1)(A)(i), inserted "consistent with subparagraph (D)" after "in a manner" in introductory provisions.
 
-Subsec. (a)(1)(B)(i)(II). Pub. L. 110–275, §154(a)(1)(A)(ii), substituted “an additional 70” for “80” and “in 2011” for “in 2009”.
+Subsec. (a)(1)(B)(i)(II). Pub. L. 110–275, §154(a)(1)(A)(ii), substituted "an additional 70" for "80" and "in 2011" for "in 2009".
 
-Subsec. (a)(1)(B)(i)(III). Pub. L. 110–275, §154(a)(1)(A)(iii), substituted “after 2011 (or, in the case of national mail order for items and services, after 2010)” for “after 2009”.
+Subsec. (a)(1)(B)(i)(III). Pub. L. 110–275, §154(a)(1)(A)(iii), substituted "after 2011 (or, in the case of national mail order for items and services, after 2010)" for "after 2009".
 
 Subsec. (a)(1)(D) to (F). Pub. L. 110–275, §154(a)(1)(A)(iv), added subpars. (D) to (F).
 
-Subsec. (a)(2)(A). Pub. L. 110–275, §154(a)(1)(B), which directed amendment of par. (2)(A) of subsec. (a)(1) by inserting “and excluding certain complex rehabilitative power wheelchairs recognized by the Secretary as classified within group 3 or higher (and related accessories when furnished in connection with such wheelchairs)” before period at end, was executed by making the insertion in subsec. (a)(2)(A), to reflect the probable intent of Congress.
+Subsec. (a)(2)(A). Pub. L. 110–275, §154(a)(1)(B), which directed amendment of par. (2)(A) of subsec. (a)(1) by inserting "and excluding certain complex rehabilitative power wheelchairs recognized by the Secretary as classified within group 3 or higher (and related accessories when furnished in connection with such wheelchairs)" before period at end, was executed by making the insertion in subsec. (a)(2)(A), to reflect the probable intent of Congress.
 
 Subsec. (a)(7). Pub. L. 110–275, §154(d)(1), added par. (7).
 
@@ -390,15 +390,15 @@ Subsec. (b)(10). Pub. L. 110–275, §154(d)(3)(B), added par. (10). Former par.
 
 Subsec. (b)(11). Pub. L. 110–275, §154(d)(3)(A), redesignated par. (10) as (11).
 
-Subsec. (b)(11)(C). Pub. L. 110–275, §154(d)(4)(A), inserted “and the identification of areas under subsection (a)(1)(D)(iii)” after “(a)(1)(A)”.
+Subsec. (b)(11)(C). Pub. L. 110–275, §154(d)(4)(A), inserted "and the identification of areas under subsection (a)(1)(D)(iii)" after "(a)(1)(A)".
 
-Subsec. (b)(11)(D). Pub. L. 110–275, §154(d)(4)(B), inserted “and implementation of subsection (a)(1)(D)” after “(a)(1)(B)”.
+Subsec. (b)(11)(D). Pub. L. 110–275, §154(d)(4)(B), inserted "and implementation of subsection (a)(1)(D)" after "(a)(1)(B)".
 
 Subsec. (b)(11)(G). Pub. L. 110–275, §154(d)(4)(C)–(E), added subpar. (G).
 
-Subsec. (c)(5). Pub. L. 110–275, §154(c)(2)(A), substituted “December 31, 2011” for “December 31, 2009”.
+Subsec. (c)(5). Pub. L. 110–275, §154(c)(2)(A), substituted "December 31, 2011" for "December 31, 2009".
 
-Subsec. (d). Pub. L. 110–275, §154(c)(2)(B), substituted “July 1, 2011” for “July 1, 2009”.
+Subsec. (d). Pub. L. 110–275, §154(c)(2)(B), substituted "July 1, 2011" for "July 1, 2009".
 
 Subsec. (e). Pub. L. 110–275, §145(a)(1), struck out subsec. (e) which related to a demonstration project on the application of competitive acquisition to clinical diagnostic laboratory tests, terms and conditions of the project, and reporting requirement.
 
@@ -406,7 +406,7 @@ Subsec. (f). Pub. L. 110–275, §154(b)(3), added subsec. (f).
 
 <b>2003</b>—Pub. L. 108–173 amended section catchline and text generally, substituting provisions relating to competitive acquisition of certain items and services for provisions relating to demonstration projects for competitive acquisition of items and services.
 
-<b>1999</b>—Subsec. (b)(2). Pub. L. 106–113 inserted “and” after “specified by the Secretary”.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–113 inserted "and" after "specified by the Secretary".
 
 #### Effective Date of 2008 Amendment
 
@@ -420,47 +420,47 @@ Amendment by Pub. L. 106–113 effective as if included in the enactment of the 
 
 Pub. L. 108–173, title III, §302(b)(3), Dec. 8, 2003, 117 Stat. 2230, as amended by Pub. L. 110–275, title I, §154(c)(1), July 15, 2008, 122 Stat. 2565, provided that:
 
-“(A)
+"(A)
 
-Study.—The Comptroller General of the United States shall conduct a study on the impact of competitive acquisition of durable medical equipment under section 1847 of the Social Security Act \[this section\], as amended by paragraph (1) and as amended by section 2 of the Medicare DMEPOS Competitive Acquisition Reform Act of 2008 \[probably should refer to section 154 of the Medicare Improvements for Patients and Providers Act of 2008, Pub. L. 110–275\], on suppliers and manufacturers of such equipment and on patients. Such study shall specifically examine the impact of such competitive acquisition on access to, and quality of, such equipment and service related to such equipment and the topics specified in subparagraph (C).
+Study.—The Comptroller General of the United States shall conduct a study on the impact of competitive acquisition of durable medical equipment under section 1847 of the Social Security Act \[42 U.S.C. 1395w–3\], as amended by paragraph (1) and as amended by section 2 of the Medicare DMEPOS Competitive Acquisition Reform Act of 2008 \[probably should refer to section 154 of the Medicare Improvements for Patients and Providers Act of 2008, Pub. L. 110–275\], on suppliers and manufacturers of such equipment and on patients. Such study shall specifically examine the impact of such competitive acquisition on access to, and quality of, such equipment and service related to such equipment and the topics specified in subparagraph (C).
 
-“(B)
+"(B)
 
 Report.—Not later than 1 year after the first date that payments are made under section 1847 of the Social Security Act, the Comptroller General shall submit to Congress a report on the study conducted under subparagraph (A) and shall include in the report such recommendations as the Comptroller General determines appropriate.
 
-“(C)
+"(C)
 
 Topics.—The topics specified in this subparagraph, for the study under subparagraph (A) concerning the competitive acquisition program, are the following:
 
-&emsp;“(i) Beneficiary access to items and services under the program, including the impact on such access of awarding contracts to bidders that—
+&emsp;"(i) Beneficiary access to items and services under the program, including the impact on such access of awarding contracts to bidders that—
 
-&emsp;&emsp;“(I) did not have a physical presence in an area where they received a contract; or
+&emsp;&emsp;"(I) did not have a physical presence in an area where they received a contract; or
 
-&emsp;&emsp;“(II) had no previous experience providing the product category they were contracted to provide.
+&emsp;&emsp;"(II) had no previous experience providing the product category they were contracted to provide.
 
-&emsp;“(ii) Beneficiary satisfaction with the program and cost savings to beneficiaries under the program.
+&emsp;"(ii) Beneficiary satisfaction with the program and cost savings to beneficiaries under the program.
 
-&emsp;“(iii) Costs to suppliers of participating in the program and recommendations about ways to reduce those costs without compromising quality standards or savings to the Medicare program.
+&emsp;"(iii) Costs to suppliers of participating in the program and recommendations about ways to reduce those costs without compromising quality standards or savings to the Medicare program.
 
-&emsp;“(iv) Impact of the program on small business suppliers.
+&emsp;"(iv) Impact of the program on small business suppliers.
 
-&emsp;“(v) Analysis of the impact on utilization of different items and services paid within the same Healthcare Common Procedure Coding System (HCPCS) code.
+&emsp;"(v) Analysis of the impact on utilization of different items and services paid within the same Healthcare Common Procedure Coding System (HCPCS) code.
 
-&emsp;“(vi) Costs to the Centers for Medicare \& Medicaid Services, including payments made to contractors, for administering the program compared with administration of a fee schedule, in comparison with the relative savings of the program.
+&emsp;"(vi) Costs to the Centers for Medicare \& Medicaid Services, including payments made to contractors, for administering the program compared with administration of a fee schedule, in comparison with the relative savings of the program.
 
-&emsp;“(vii) Impact on access, Medicare spending, and beneficiary spending of any difference in treatment for diabetic testing supplies depending on how such supplies are furnished.
+&emsp;"(vii) Impact on access, Medicare spending, and beneficiary spending of any difference in treatment for diabetic testing supplies depending on how such supplies are furnished.
 
-&emsp;“(viii) Such other topics as the Comptroller General determines to be appropriate.”
+&emsp;"(viii) Such other topics as the Comptroller General determines to be appropriate."
 
 #### Report on Activities of Suppliers
 
-Pub. L. 108–173, title III, §302(e), Dec. 8, 2003, 117 Stat. 2233, as amended by Pub. L. 110–275, title I, §154(c)(2)(C), July 15, 2008, 122 Stat. 2566, provided that: “The Inspector General of the Department of Health and Human Services shall conduct a study to determine the extent to which (if any) suppliers of covered items of durable medical equipment that are subject to the competitive acquisition program under section 1847 of the Social Security Act \[this section\], as amended by subsection (a) \[probably should be (b)(1)\], are soliciting physicians to prescribe certain brands or modes of delivery of covered items based on profitability. Not later than July 1, 2011, the Inspector General shall submit to Congress a report on such study.”
+Pub. L. 108–173, title III, §302(e), Dec. 8, 2003, 117 Stat. 2233, as amended by Pub. L. 110–275, title I, §154(c)(2)(C), July 15, 2008, 122 Stat. 2566, provided that: "The Inspector General of the Department of Health and Human Services shall conduct a study to determine the extent to which (if any) suppliers of covered items of durable medical equipment that are subject to the competitive acquisition program under section 1847 of the Social Security Act \[42 U.S.C. 1395w–3\], as amended by subsection (a) \[probably should be (b)(1)\], are soliciting physicians to prescribe certain brands or modes of delivery of covered items based on profitability. Not later than July 1, 2011, the Inspector General shall submit to Congress a report on such study."
 
 #### Study by GAO
 
-Pub. L. 105–33, title IV, §4319(c), Aug. 5, 1997, 111 Stat. 394, provided that: “The Comptroller of the UnitedStates shall study the effectiveness of the establishment of competitive acquisition areas under section 1847(a) of the Social Security Act \[subsec. (a) of this section\], as added by this section.”
+Pub. L. 105–33, title IV, §4319(c), Aug. 5, 1997, 111 Stat. 394, provided that: "The Comptroller of the UnitedStates shall study the effectiveness of the establishment of competitive acquisition areas under section 1847(a) of the Social Security Act \[42 U.S.C. 1395w–3(a)\], as added by this section."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “a”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "a".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “acquisition”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "acquisition".</i>
 

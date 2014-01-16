@@ -40,11 +40,11 @@ The Attorney General shall maintain an active program, both domestic and interna
 
 #### Codification
 
-In subsec. (b), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (a)(1), (c). Pub. L. 111–211 inserted “tribal,” after “State,”.
+<b>2010</b>—Subsecs. (a)(1), (c). Pub. L. 111–211 inserted "tribal," after "State,".
 
 <b>1988</b>—Subsec. (f). Pub. L. 100–690 added subsec. (f).
 
@@ -60,87 +60,87 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 #### Effect of Grants
 
-Pub. L. 111–211, title II, §232(e), July 29, 2010, 124 Stat. 2279, provided that: “Nothing in this section \[amending this section and sections 872a, 873, and 878 of this title\] or any amendment made by this section—
+Pub. L. 111–211, title II, §232(e), July 29, 2010, 124 Stat. 2279, provided that: "Nothing in this section \[amending this section and sections 872a, 873, and 878 of this title\] or any amendment made by this section—
 
-&emsp;“(1) allows the grant to be made to, or used by, an entity for law enforcement activities that the entity lacks jurisdiction to perform; or
+&emsp;"(1) allows the grant to be made to, or used by, an entity for law enforcement activities that the entity lacks jurisdiction to perform; or
 
-&emsp;“(2) has any effect other than to authorize, award, or deny a grant of funds to a federally recognized Indian tribe for the purposes described in the relevant grant program.”
+&emsp;"(2) has any effect other than to authorize, award, or deny a grant of funds to a federally recognized Indian tribe for the purposes described in the relevant grant program."
 
-\[For definition of “Indian tribe” as used in section 232(e) of Pub. L. 111–211, set out above, see section 203(a)of Pub. L. 111–211, set out as a note under section 2801 of Title 25, Indians.\]
+\[For definition of "Indian tribe" as used in section 232(e) of Pub. L. 111–211, set out above, see section 203(a) of Pub. L. 111–211, set out as a note under section 2801 of Title 25, Indians.\]
 
 #### Training for Drug Enforcement Administration and State and Local Law Enforcement Personnel Relating to Clandestine Laboratories
 
 Pub. L. 106–310, div. B, title XXXVI, §3623, Oct. 17, 2000, 114 Stat. 1231, provided that:
 
-“(a)
+"(a)
 
 In General.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Requirement.—The Administrator of the Drug Enforcement Administration shall carry out the programs described in subsection (b) with respect to the law enforcement personnel of States and localities determined by the Administrator to have significant levels of methamphetamine-related or amphetamine-related crime or projected by the Administrator to have the potential for such levels of crime in the future.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Duration.—The duration of any program under that subsection may not exceed 3 years.
 
-“(b)
+"(b)
 
 Covered Programs.—The programs described in this subsection are as follows:
 
-&emsp;“(1)
+&emsp;"(1)
 
 Advanced mobile clandestine laboratory training teams.—A program of advanced mobile clandestine laboratory training teams, which shall provide information and training to State and local law enforcement personnel in techniques utilized in conducting undercover investigations and conspiracy cases, and other information designed to assist in the investigation of the illegal manufacturing and trafficking of amphetamine and methamphetamine.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Basic clandestine laboratory certification training.—A program of basic clandestine laboratory certification training, which shall provide information and training—
 
-&emsp;&emsp;“(A) to Drug Enforcement Administration personnel and State and local law enforcement personnel for purposes of enabling such personnel to meet any certification requirements under law with respect to the handling of wastes created by illegal amphetamine and methamphetamine laboratories; and
+&emsp;&emsp;"(A) to Drug Enforcement Administration personnel and State and local law enforcement personnel for purposes of enabling such personnel to meet any certification requirements under law with respect to the handling of wastes created by illegal amphetamine and methamphetamine laboratories; and
 
-&emsp;&emsp;“(B) to State and local law enforcement personnel for purposes of enabling such personnel to provide the information and training covered by subparagraph (A) to other State and local law enforcement personnel.
+&emsp;&emsp;"(B) to State and local law enforcement personnel for purposes of enabling such personnel to provide the information and training covered by subparagraph (A) to other State and local law enforcement personnel.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Clandestine laboratory recertification and awareness training.—A program of clandestine laboratory recertification and awareness training, which shall provide information and training to State and local law enforcement personnel for purposes of enabling such personnel to provide recertification and awareness training relating to clandestine laboratories to additional State and local law enforcement personnel.
+Clandestine laboratory recertification and awareness training.—A program of clandestine laboratory recertification and awareness training, whichshall provide information and training to State and local law enforcement personnel for purposes of enabling such personnel to provide recertification and awareness training relating to clandestine laboratories to additional State and local law enforcement personnel.
 
-“(c)
+"(c)
 
 Authorization of Appropriations.—There are authorized to be appropriated for each of fiscal years 2000, 2001, and 2002 amounts as follows:
 
-&emsp;“(1) $1,500,000 to carry out the program described in subsection (b)(1).
+&emsp;"(1) $1,500,000 to carry out the program described in subsection (b)(1).
 
-&emsp;“(2) $3,000,000 to carry out the program described in subsection (b)(2).
+&emsp;"(2) $3,000,000 to carry out the program described in subsection (b)(2).
 
-&emsp;“(3) $1,000,000 to carry out the program described in subsection (b)(3).”
+&emsp;"(3) $1,000,000 to carry out the program described in subsection (b)(3)."
 
 #### Educational Program for Police Departments
 
-Pub. L. 104–305, §4, Oct. 13, 1996, 110 Stat. 3809, provided that: “The Attorney General may—
+Pub. L. 104–305, §4, Oct. 13, 1996, 110 Stat. 3809, provided that: "The Attorney General may—
 
-&emsp;“(1) create educational materials regarding the use of controlled substances (as that term is defined in section 102 of the Controlled Substances Act \[21 U.S.C. 802\]) in the furtherance of rapes and sexual assaults; and
+&emsp;"(1) create educational materials regarding the use of controlled substances (as that term is defined in section 102 of the Controlled Substances Act \[21 U.S.C. 802\]) in the furtherance of rapes and sexual assaults; and
 
-&emsp;“(2) disseminate those materials to police departments throughout the United States.”
+&emsp;"(2) disseminate those materials to police departments throughout the United States."
 
 #### Study and Report on Measures To Prevent Sales of Agents Used in Methamphetamine Production
 
 Pub. L. 104–237, title II, §202, Oct. 3, 1996, 110 Stat. 3101, provided that:
 
-“(a)
+"(a)
 
 Study.—The Attorney General of the United States shall conduct a study on possible measures to effectively prevent the diversion of red phosphorous, iodine, hydrochloric gas, and other agents for use in the production of methamphetamine. Nothing in this section shall preclude the Attorney General from taking any action the Attorney General already is authorized to take with regard to the regulation of listed chemicals under current law.
 
-“(b)
+"(b)
 
 Report.—Not later than January 1, 1998, the Attorney General shall submit a report to the Congress of its findings pursuant to the study conducted under subsection (a) on the need for and advisability of preventive measures.
 
-“(c)
+"(c)
 
 Considerations.—In developing recommendations under subsection (b), the Attorney General shall consider—
 
-&emsp;“(1) the use of red phosphorous, iodine, hydrochloric gas, and other agents in the illegal manufacture of methamphetamine;
+&emsp;"(1) the use of red phosphorous, iodine, hydrochloric gas, and other agents in the illegal manufacture of methamphetamine;
 
-&emsp;“(2) the use of red phosphorous, iodine, hydrochloric gas, and other agents for legitimate, legal purposes, and the impact any regulations may have on these legitimate purposes; and
+&emsp;"(2) the use of red phosphorous, iodine, hydrochloric gas, and other agents for legitimate, legal purposes, and the impact any regulations may have on these legitimate purposes; and
 
-&emsp;“(3) comments and recommendations from law enforcement, manufacturers of such chemicals, and the consumers of such chemicals for legitimate, legal purposes.”
+&emsp;"(3) comments and recommendations from law enforcement, manufacturers of such chemicals, and the consumers of such chemicals for legitimate, legal purposes."
 

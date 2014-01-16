@@ -4,7 +4,7 @@
 
 From the amount allotted to each State under section 2321 of this title for a fiscal year, the eligible agency shall make available—
 
-&emsp;(1) not less than 85 percent for distribution under section 2351 or 2352 of this title, of which not more than 10 percent of the 85 percent may be used in accordance with subsection (c);
+&emsp;(1) not less than 85 percent for distribution under section 2351 or 2352 of this title, of whichnot more than 10 percent of the 85 percent may be used in accordance with subsection (c);
 
 &emsp;(2) not more than 10 percent to carry out State leadership activities described in section 2344 of this title, of which—
 

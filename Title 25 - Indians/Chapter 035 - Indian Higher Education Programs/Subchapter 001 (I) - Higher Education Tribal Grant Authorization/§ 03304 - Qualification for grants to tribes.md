@@ -12,7 +12,7 @@ Any Indian tribe that is not eligible to qualify for a grant under this subchapt
 
 &emsp;(2) if the application is disapproved, the Secretary shall provide technical assistance to the tribe for purposes of correcting deficiencies in the application;
 
-&emsp;(3) the Secretary shall designate an office or official to receive such applications, and shall toll the 180-day period described in paragraph (1) from the date of receipt by such office or official; and
+&emsp;(3) the Secretary shall designate an office or official to receive such applications, and shalltoll the 180-day period described in paragraph (1) from the date of receipt by such office or official; and
 
 &emsp;(4) applications shall be approved for the fiscal year following the fiscal year in which submitted, unless the Secretary waives the limitation of this paragraph.
 
@@ -26,7 +26,7 @@ Any Indian tribe that is not eligible to qualify for a grant under this subchapt
 
 &emsp;The Secretary may revoke the eligibility of an Indian tribe for a grant under this subchapter if such tribe—
 
-&emsp;&emsp;(A) fails to submit to the Bureau an annual financial statement that reports revenues and expenditures determined by use ofan accounting system, established by the tribe, that complies with generally accepted accounting principles;
+&emsp;&emsp;(A) fails to submit to the Bureau an annual financial statement that reports revenues and expenditures determined by use of an accounting system, established by the tribe, that complies with generally accepted accounting principles;
 
 &emsp;&emsp;(B) fails to submit to the Bureau an annual program description, stating the number of students served, and containing such information concerning such students, their educational programs and progress, and the financial assistance distributed to such students as the Secretary may require by regulation;
 

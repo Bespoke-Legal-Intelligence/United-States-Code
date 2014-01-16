@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Upon a written motion by an individual under a sentence of imprisonment or death pursuant to a conviction for a Federal offense (referred to in this section as the “applicant”), the court that entered the judgment of conviction shall order DNA testing of specific evidence if the court finds that all of the following apply:
+In General.—Upon a written motion by an individual under a sentence of imprisonment or death pursuant to a conviction for a Federal offense (referred to in this section as the "applicant"), the court that entered the judgment of conviction shall order DNA testing of specific evidence if the court finds that all of the following apply:
 
 &emsp;(1) The applicant asserts, under penalty of perjury, that the applicant is actually innocent of—
 
@@ -70,9 +70,9 @@ In General.—Upon a written motion by an individual under a sentence of impriso
 
 &emsp;&emsp;(C) For purposes of this paragraph—
 
-&emsp;&emsp;&emsp;(i) the term “incompetence” has the meaning as defined in section 4241 of title 18, United States Code;
+&emsp;&emsp;&emsp;(i) the term "incompetence" has the meaning as defined in section 4241 of title 18, United States Code;
 
-&emsp;&emsp;&emsp;(ii) the term “manifest” means that which is unmistakable, clear, plain, or indisputable and requires that the opposite conclusion be clearly evident.
+&emsp;&emsp;&emsp;(ii) the term "manifest" means that which is unmistakable, clear, plain, or indisputable and requires that the opposite conclusion be clearly evident.
 
 (b)
 
@@ -130,7 +130,7 @@ Reporting of Test Results.—
 
 In general.—The results of any DNA testing ordered under this section shall be simultaneously disclosed to the court, the applicant, and the Government.
 
-&emsp;(2) NDIS.—The Government shall submit any test results relating to the DNA of the applicant to the National DNA Index System (referred to in this subsection as “NDIS”).
+&emsp;(2) NDIS.—The Government shall submit any test results relating to the DNA of the applicant to the National DNA Index System (referred to in this subsection as "NDIS").
 
 &emsp;(3)
 
@@ -220,37 +220,37 @@ Enactment of the Justice For All Act of 2004, referred to in subsec. (a)(10)(A),
 
 #### Effective Date
 
-Pub. L. 108–405, title IV, §411(c), Oct. 30, 2004, 118 Stat. 2284, provided that: “This section \[enacting this chapter and provisions set out as a note under this section\] and the amendments made by this section shall take effect on the date of enactment of this Act \[Oct. 30, 2004\] and shall apply with respect to any offense committed, and to any judgment of conviction entered, before, on, or after that date of enactment.”
+Pub. L. 108–405, title IV, §411(c), Oct. 30, 2004, 118 Stat. 2284, provided that: "This section \[enacting this chapter and provisions set out as a note under this section\] and the amendments made by this section shall take effect on the date of enactment of this Act \[Oct. 30, 2004\] and shall apply with respect to any offense committed, and to any judgment of conviction entered, before, on, or after that date of enactment."
 
 #### Short Title of 2004 Amendment
 
-Pub. L. 108–405, title IV, §401, Oct. 30, 2004, 118 Stat. 2278, provided that: “This title \[enacting this chapter and sections 14136e and 14163 to 14163e of Title 42, The Public Health and Welfare, amending section 2513 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 14136 of Title 42\] may be cited as the ‘Innocence Protection Act of 2004’.”
+Pub. L. 108–405, title IV, §401, Oct. 30, 2004, 118 Stat. 2278, provided that: "This title \[enacting this chapter and sections 14136e and 14163 to 14163e of Title 42, The Public Health and Welfare, amending section 2513 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 14136 of Title 42\] may be cited as the 'Innocence Protection Act of 2004'."
 
 #### System for Reporting Motions
 
 Pub. L. 108–405, title IV, §411(b), Oct. 30, 2004, 118 Stat. 2284, provided that:
 
-“(1)
+"(1)
 
 Establishment.—The Attorney General shall establish a system for reporting and tracking motions filed in accordance with section 3600 of title 18, United States Code.
 
-“(2)
+"(2)
 
 Operation.—In operating the system established under paragraph (1), the Federal courts shall provide to the Attorney General any requested assistance in operating such a system and in ensuring the accuracy and completeness of information included in that system.
 
-“(3)
+"(3)
 
 Report.—Not later than 2 years after the date of enactment of this Act \[Oct. 30, 2004\], the Attorney General shall submit a report to Congress that contains—
 
-&emsp;“(A) a list of motions filed under section 3600 of title 18, United States Code, as added by this title;
+&emsp;"(A) a list of motions filed under section 3600 of title 18, United States Code, as added by this title;
 
-&emsp;“(B) whether DNA testing was ordered pursuant to such a motion;
+&emsp;"(B) whether DNA testing was ordered pursuant to such a motion;
 
-&emsp;“(C) whether the applicant obtained relief on the basis of DNA test results; and
+&emsp;"(C) whether the applicant obtained relief on the basis of DNA test results; and
 
-&emsp;“(D) whether further proceedings occurred following a granting of relief and the outcome of such proceedings.
+&emsp;"(D) whether further proceedings occurred following a granting of relief and the outcome of such proceedings.
 
-“(4)
+"(4)
 
-Additional information.—The report required to be submitted under paragraph (3) may include any other information the Attorney General determines to be relevant in assessing the operation, utility, or costs of section 3600 of title 18, United States Code, as added by this title, and any recommendations the Attorney General may have relating to future legislative action concerning that section.”
+Additional information.—The report required to be submitted under paragraph (3) may include any other information the Attorney General determines to be relevant in assessing the operation, utility, or costs of section 3600 of title 18, United States Code, as added by this title, and any recommendations the Attorney General may have relating to future legislative action concerning that section."
 

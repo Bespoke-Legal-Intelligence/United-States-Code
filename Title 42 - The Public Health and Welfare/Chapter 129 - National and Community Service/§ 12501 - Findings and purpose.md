@@ -62,17 +62,17 @@ It is the purpose of this chapter to—
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b)(2). Pub. L. 111–13, §1101(1), substituted “community and service throughout the varied and diverse communities of” for “community throughout”.
+<b>2009</b>—Subsec. (b)(2). Pub. L. 111–13, §1101(1), substituted "community and service throughout the varied and diverse communities of" for "community throughout".
 
-Subsec. (b)(4). Pub. L. 111–13, §1101(2), inserted “geographic location,” after “income,”.
+Subsec. (b)(4). Pub. L. 111–13, §1101(2), inserted "geographic location," after "income,".
 
-Subsec. (b)(6). Pub. L. 111–13, §1101(3), inserted “national” after “existing”.
+Subsec. (b)(6). Pub. L. 111–13, §1101(3), inserted "national" after "existing".
 
-Subsec. (b)(7). Pub. L. 111–13, §1101(4)(A), substituted “programs, agencies, and communities” for “programs and agencies”.
+Subsec. (b)(7). Pub. L. 111–13, §1101(4)(A), substituted "programs, agencies, and communities" for "programs and agencies".
 
 Subsec. (b)(9) to (19). Pub. L. 111–13, §1101(4)(B)–(6), added pars. (9) to (19).
 
@@ -84,61 +84,61 @@ Amendment by Pub. L. 111–13 effective Oct. 1, 2009, see section 6101(a) of Pub
 
 #### Short Title of 2009 Amendment
 
-Pub. L. 111–13, §1(a), Apr. 21, 2009, 123 Stat. 1460, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Serve America Act’.”
+Pub. L. 111–13, §1(a), Apr. 21, 2009, 123 Stat. 1460, provided that: "This Act \[see Tables for classification\] may be cited as the 'Serve America Act'."
 
 #### Short Title of 2002 Amendment
 
-Pub. L. 107–117, div. B, §1301(a), Jan. 10, 2002, 115 Stat. 2339, provided that: “This section \[enacting subchapter III of this chapter\] may be cited as the ‘Unity in the Spirit of America Act’ or the ‘USA Act’.”
+Pub. L. 107–117, div. B, §1301(a), Jan. 10, 2002, 115 Stat. 2339, provided that: "This section \[enacting subchapter III of this chapter\] may be cited as the 'Unity in the Spirit of America Act' or the 'USA Act'."
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–304, §1, Aug. 23, 1994, 108 Stat. 1565, provided that: “This Act \[amending sections 4953, 5024, 12591, 12602, 12615, 12619, 12622, 12651d, 12653, and 12655n of this title and enacting provisions set out as a note under section 4953 of this title\] may be cited as the ‘King Holiday and Service Act of 1994’.”
+Pub. L. 103–304, §1, Aug. 23, 1994, 108 Stat. 1565, provided that: "This Act \[amending sections 4953, 5024, 12591, 12602, 12615, 12619, 12622, 12651d, 12653, and 12655n of this title and enacting provisions set out as a note under section 4953 of this title\] may be cited as the 'King Holiday and Service Act of 1994'."
 
 #### Short Title of 1993 Amendment
 
-Pub. L. 103–82, §1(a), Sept. 21, 1993, 107 Stat. 785, provided that: “This Act \[see Tables for classification\] may be cited as the ‘National and Community Service Trust Act of 1993’.”
+Pub. L. 103–82, §1(a), Sept. 21, 1993, 107 Stat. 785, provided that: "This Act \[see Tables for classification\] may be cited as the 'National and Community Service Trust Act of 1993'."
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–384, §1, Oct. 5, 1992, 106 Stat. 1455, provided that: “This Act \[amending sections 12511, 12522, 12523, 12525, 12526, 12541, 12550, 12612, 12614, 12615, 12622, 12639, 12651, and 12681 of this title\] may be cited as the ‘National and Community Service Technical Amendment Act of 1992’.”
+Pub. L. 102–384, §1, Oct. 5, 1992, 106 Stat. 1455, provided that: "This Act \[amending sections 12511, 12522, 12523, 12525, 12526, 12541, 12550, 12612, 12614, 12615, 12622, 12639, 12651, and 12681 of this title\] may be cited as the 'National and Community Service Technical Amendment Act of 1992'."
 
 #### Short Title of 1991 Amendment
 
-Pub. L. 102–10, §1, Mar. 12, 1991, 105 Stat. 29, provided that: “This Act \[enacting section 12645 of this title, amending sections 5091m, 12511, 12521, 12522, 12524, 12527, 12531, 12542 to 12544, 12548, 12553, 12575, 12576, 12602, 12638, and 12651 of this title, and repealing section 12556 of this title\] may be cited as the ‘National and Community Service Technical Amendments Act of 1991’.”
+Pub. L. 102–10, §1, Mar. 12, 1991, 105 Stat. 29, provided that: "This Act \[enacting section 12645 of this title, amending sections 5091m, 12511, 12521, 12522, 12524, 12527, 12531, 12542 to 12544, 12548, 12553, 12575, 12576, 12602, 12638, and 12651 of this title, and repealing section 12556 of this title\] may be cited as the 'National and Community Service Technical Amendments Act of 1991'."
 
 #### Short Title
 
-Pub. L. 101–610, §1(a), Nov. 16, 1990, 104 Stat. 3127, provided that: “This Act \[enacting this chapter, sections 5091 to 5091n of this title, and section 2452a of Title 22, Foreign Relations and Intercourse, amending sections 1018c, 1018e, 1070a–6, 1087vv, 1092, and 1092b of Title 20, Education, and former section 546 of Title 45, Railroads, and enacting provisions set out as notes under this section and section 24301 of Title 49, Transportation\] may be cited as the ‘National and Community Service Act of 1990’.”
+Pub. L. 101–610, §1(a), Nov. 16, 1990, 104 Stat. 3127, provided that: "This Act \[enacting this chapter, sections 5091 to 5091n of this title, and section 2452a of Title 22, Foreign Relations and Intercourse, amending sections 1018c, 1018e, 1070a–6, 1087vv, 1092, and 1092b of Title 20, Education, and former section 546 of Title 45, Railroads, and enacting provisions set out as notes under this section and section 24301 of Title 49, Transportation\] may be cited as the 'National and Community Service Act of 1990'."
 
-Pub. L. 101–610, title I, subtitle B (§§110–118), §110, Nov. 16, 1990, 104 Stat. 3132, which provided that such subtitle (enacting former part B (§§12521–12531) of subchapter I of this chapter) be cited as the “Serve-America: The Community Service, Schools and Service-Learning Act of 1990”, was repealed by Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 825.
+Pub. L. 101–610, title I, subtitle B (§§110–118), §110, Nov. 16, 1990, 104 Stat. 3132, which provided that such subtitle (enacting former part B (§§12521–12531) of subchapter I of this chapter) be cited as the "Serve-America: The Community Service, Schools and Service-Learning Act of 1990", was repealed by Pub. L. 103–82, title I, §103(a)(2), Sept. 21, 1993, 107 Stat. 825.
 
-Pub. L. 108–45, §1, July 3, 2003, 117 Stat. 844, which provided that Pub. L. 108–45, enacting section 12605 of this title, could be cited as the “Strengthen AmeriCorps Program Act”, was repealed by Pub. L. 111–13, title I, §1406(b), Apr. 21, 2009, 123 Stat. 1521.
+Pub. L. 108–45, §1, July 3, 2003, 117 Stat. 844, which provided that Pub. L. 108–45, enacting section 12605 of this title, could be cited as the "Strengthen AmeriCorps Program Act", was repealed by Pub. L. 111–13, title I, §1406(b), Apr. 21, 2009, 123 Stat. 1521.
 
-Pub. L. 101–610, title I, §199, formerly §120, Nov. 16, 1990, 104 Stat. 3140, as renumbered by Pub. L. 103–82, title I, §101(a), Sept. 21, 1993, 107 Stat. 788, provided that: “This subtitle \[subtitle I (§§199–199O) (formerly subtitle C (§§120–136)) of title I of Pub. L. 101–610, enacting division I (formerly part C) of subchapter I of this chapter\] may be cited as the ‘American Conservation and Youth Service Corps Act of 1990’.”
+Pub. L. 101–610, title I, §199, formerly §120, Nov. 16, 1990, 104 Stat. 3140, as renumbered by Pub. L. 103–82, title I, §101(a), Sept. 21, 1993, 107 Stat. 788, provided that: "This subtitle \[subtitle I (§§199–199O) (formerly subtitle C (§§120–136)) of title I of Pub. L. 101–610, enacting division I (formerly part C) of subchapter I of this chapter\] may be cited as the 'American Conservation and Youth Service Corps Act of 1990'."
 
-Pub. L. 101–610, title I, subtitle D (§§140–150), §140, Nov. 16, 1990, 104 Stat. 3150, which provided that such subtitle (enacting former part D (§§12571–12580) of subchapter I of this chapter) be cited as the “National and Community Service Act”, was omitted in the general amendment of part D (now division D) by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816.
+Pub. L. 101–610, title I, subtitle D (§§140–150), §140, Nov. 16, 1990, 104 Stat. 3150, which provided that such subtitle (enacting former part D (§§12571–12580) of subchapter I of this chapter) be cited as the "National and Community Service Act", was omitted in the general amendment of part D (now division D) by Pub. L. 103–82, title I, §102(a), Sept. 21, 1993, 107 Stat. 816.
 
-Pub. L. 101–610, title III, §301, Nov. 16, 1990, 104 Stat. 3180, which provided that title III of Pub. L. 101–610, enacting subchapter II of this chapter, could be cited as “The Points of Light Foundation Act”, was repealed by Pub. L. 111–13, title I, §1831(a), Apr. 21, 2009, 123 Stat. 1578.
+Pub. L. 101–610, title III, §301, Nov. 16, 1990, 104 Stat. 3180, which provided that title III of Pub. L. 101–610, enacting subchapter II of this chapter, could be cited as "The Points of Light Foundation Act", was repealed by Pub. L. 111–13, title I, §1831(a), Apr. 21, 2009, 123 Stat. 1578.
 
 #### Compliance With Buy American Act
 
-Pub. L. 103–82, title V, §501, Sept. 21, 1993, 107 Stat. 922, provided that: “No funds appropriated pursuant to this Act \[see Tables for classification\] (including the amendments made by this Act) may be expended by an entity unless the entity agrees that in expending the assistance the entity will comply with sections 2 through 4 of the Act of March 3, 1933 (\[former\] 41 U.S.C. 10a–10c, popularly known as the ‘Buy American Act’ \[see 41 U.S.C. 8301 et seq.\]).”
+Pub. L. 103–82, title V, §501, Sept. 21, 1993, 107 Stat. 922, provided that: "No funds appropriated pursuant to this Act \[see Tables for classification\] (including the amendments made by this Act) may be expended by an entity unless the entity agrees that in expending the assistance the entity will comply with sections 2 through 4 of the Act of March 3, 1933 (\[former\] 41 U.S.C. 10a–10c, popularly known as the 'Buy American Act' \[see 41 U.S.C. 8301 et seq.\])."
 
 #### Sense of Congress; Requirement Regarding Notice
 
 Pub. L. 103–82, title V, §502, Sept. 21, 1993, 107 Stat. 923, provided that:
 
-“(a)
+"(a)
 
 Purchase of American-Made Equipment and Products.—In the case of any equipment or product that may be authorized to be purchased with financial assistance provided under this Act \[see Tables for classification\] (including the amendments made by this Act), it is the sense of the Congress that entities receiving such assistance should, in expending the assistance, purchase only American-made equipment and products.
 
-“(b)
+"(b)
 
-Notice to Recipients of Assistance.—In providing financial assistance under this Act (including the amendments made by this Act), the Secretary of Education shall provide to each recipient of the assistance a notice describing the statement made in subsection (a) by the Congress.”
+Notice to Recipients of Assistance.—In providing financial assistance under this Act (including the amendments made by this Act), the Secretary of Education shall provide to each recipient of the assistance a notice describing the statement made in subsection (a) by the Congress."
 
 #### Prohibition of Contracts With Persons Falsely Labeling Products as Made in America
 
-Pub. L. 103–82, title V, §503, Sept. 21, 1993, 107 Stat. 923, provided that: “If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a ‘Made in America’ inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, the person shall be ineligible to receive any contract or subcontract made with funds appropriated to carry out this Act, pursuant to the debarment, suspension, and ineligibility procedures described in sections 9.400 through 9.409 of title 48, Code of Federal Regulations.”
+Pub. L. 103–82, title V, §503, Sept. 21, 1993, 107 Stat. 923, provided that: "If it has been finally determined by a court or Federal agency that any person intentionally affixed a label bearing a 'Made in America' inscription, or any inscription with the same meaning, to any product sold in or shipped to the United States that is not made in the United States, the person shall be ineligible to receive any contract or subcontract made with funds appropriated to carry out this Act, pursuant to the debarment, suspension, and ineligibility procedures described in sections 9.400 through 9.409 of title 48, Code of Federal Regulations."
 
 #### Ex. Ord. No. 13254. Establishing the USA Freedom Corps
 
@@ -236,13 +236,13 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Definitions</i>. For purposes of this order:
 
-(a) “National service laws” means the National and Community Service Act of 1990 (42 U.S.C. 12501 <i>et seq</i>.) and the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4950 <i>et seq</i>.);
+(a) "National service laws" means the National and Community Service Act of 1990 (42 U.S.C. 12501 <i>et seq</i>.) and the Domestic Volunteer Service Act of 1973 (42 U.S.C. 4950 <i>et seq</i>.);
 
-(b) “National and community service programs” means those programs authorized under the national service laws;
+(b) "National and community service programs" means those programs authorized under the national service laws;
 
-(c) “Policies governing programs authorized under the national service laws” refers to all policies, programs, guidelines, and regulations, including official guidance and internal agency procedures and practices, that are issued by the Corporation for National and Community Service (Corporation) and have significant effects on national and community service programs; and
+(c) "Policies governing programs authorized under the national service laws" refers to all policies, programs, guidelines, and regulations, including official guidance and internal agency procedures and practices, that are issued by the Corporation for National and Community Service (Corporation) and have significant effects on national and community service programs; and
 
-(d) “Professional corps programs” means those programs described in section 122(a)(8) of the National and Community Service Act of 1990 (42 U.S.C. 12572(a)(8)) \[see 42 U.S.C. 12572(c)(1)(D)\].
+(d) "Professional corps programs" means those programs described in section 122(a)(8) of the National and Community Service Act of 1990 (42 U.S.C. 12572(a)(8)) \[see 42 U.S.C. 12572(c)(1)(D)\].
 
 Sec. 2. <i>Fundamental Principles and Policymaking Criteria</i>. In formulating and implementing policies governing programs authorized under the national service laws, the Corporation shall, to the extent permitted by law, adhere to the following fundamental principles:
 
@@ -299,4 +299,102 @@ Sec. 5. <i>Report</i>. Within 180 days after the date of this order, the Chief E
 Sec. 6. <i>Judicial Review</i>. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by a party against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Expanding National Service Through Partnerships to Advance Government Priorities
+
+Memorandum of President of the United States, July 15, 2013, 78 F.R. 43747, provided:
+
+Memorandum for the Heads of Executive Departments and Agencies
+
+Service has always been integral to the American identity. Our country was built on the belief that all ofus, working together, can make this country a better place for all. That spirit remains as strong and integral to our identity today as at our country's founding.
+
+Since its creation 20 years ago, the Corporation for National and Community Service (CNCS) has been the Federal agency charged with leading and expanding national service. The Edward M. Kennedy Serve America Act of 2009 (SAA) expanded CNCS's authority to create opportunities for more Americans to serve. This landmark, bipartisan legislation focuses national service on six areas: emergency and disaster services; economic opportunity; education; environmental stewardship; healthy futures; and veterans and military families. The SAA provides greater opportunities for CNCS to partner with other executive departments and agencies (agencies) and with the private sector to utilize national service to address these critical areas.
+
+National service and volunteering can be effective solutions to national challenges and can have positive and lasting impacts that reach beyond the immediate service experience. Americans engaged in national service make an intensive commitment to tackle unmet national and local needs by working through non-profit, faith-based, and community organizations. Service can help Americans gain valuable skills, pursue higher education, and jumpstart their careers, which can provide immediate and long-term benefits to those individuals, as well as the communities in which they serve.
+
+Americans are ready and willing to serve. Applications from Americans seeking to engage in national service programs far exceed the number of available positions. By creating new partnerships between agencies and CNCS that expand national service opportunities in areas aligned with agency missions, we can utilize the American spirit of service to improve lives and communities, expand economic and educational opportunities, enhance agencies' capacity to achieve their missions, efficiently use tax dollars, help individuals develop skills that will enable them to prepare for long-term careers, and build a pipeline to employment inside and outside the Federal Government.
+
+Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to expand the positive impact of national service, I hereby direct the following:
+
+Section 1. <i>Establishing a Task Force on Expanding National Service</i>. There is established a Task Force on Expanding National Service, to be co-chaired by the Chief Executive Officer of CNCS and the Director of the Domestic Policy Council, which shall include representatives from agencies and offices that administer programs and develop policies in areas that include the six focus areas set forth in the SAA. The Task Force shall include representatives from:
+
+(a) the Department of Defense;
+
+(b) the Department of Justice;
+
+(c) the Department of the Interior;
+
+(d) the Department of Agriculture;
+
+(e) the Department of Commerce;
+
+(f) the Department of Labor;
+
+(g) the Department of Health and Human Services;
+
+(h) the Department of Housing and Urban Development;
+
+(i) the Department of Transportation;
+
+(j) the Department of Energy;
+
+(k) the Department of Education;
+
+(l) the Department of Veterans Affairs;
+
+(m) the Department of Homeland Security;
+
+(n) the Peace Corps;
+
+(o) the National Science Foundation;
+
+(p) the Office of Personnel Management;
+
+(q) the Environmental Protection Agency;
+
+(r) the White House Office of Cabinet Affairs; and
+
+(s) such other agencies and offices as the co-chairs may designate.
+
+Sec. 2. <i>Mission and Function of the Task Force</i>. (a) The Task Force shall:
+
+(i) identify existing, and, if appropriate, recommend new, policies or practices that support the expansion of national service and volunteer opportunities that align with the SAA and agency priorities;
+
+(ii) make recommendations on the most effective way to coordinate national service and volunteering programs across the Federal Government;
+
+(iii) identify and develop opportunities for interagency agreements between CNCS and other agencies to support the expansion of national service and volunteering;
+
+(iv) identify and develop public-private partnerships to support the expansion of national service and volunteering;
+
+(v) identify and develop strategies to use innovation and technology to facilitate the ability of the public to participate in national service and volunteering activities; and
+
+(vi) develop a mechanism to evaluate the effectiveness and cost-effectiveness of national service and volunteering interventions in achieving agency priorities, and aggregate and disseminate the results of that evaluation.
+
+(b) Within 18 months of the date of this memorandum, the Task Force shall provide the President with a report on the progress made with respect to the functions set forth in subsection (a) of this section.
+
+Sec. 3. <i>Facilitating National Service and Volunteering Partnerships</i>. (a) Each agency on the Task Force shall:
+
+(i) within 180 days of the date of this memorandum, consult with CNCS about how existing authorities and CNCS programs can be used to enter into interagency and public-private partnerships that allow for meaningful national service and volunteering opportunities, including participating in AmeriCorps, and help the agency achieve its mission;
+
+(ii) work with CNCS to evaluate the effectiveness and cost-effectiveness of such partnerships; and
+
+(iii) work with CNCS to identify ways in which the agency's national service participants and volunteers can develop transferable skills, and also how national service can serve as a pipeline to employment inside and outside the Federal Government.
+
+(b) Where practicable, agencies may consider entering into interagency agreements with CNCS to share program development and funding responsibilities, as authorized under 42 U.S.C. 12571(b)(1).
+
+Sec. 4. <i>Recruitment of National Service Participants in the Civilian Career Services</i>. In order to provide national service participants a means to pursue additional opportunities to continue their public service through career civilian service, the Office of Personnel Management shall, within 120 days of the date of this memorandum, issue guidance to agencies on developing and improving Federal recruitment strategies for participants in national service.
+
+Sec. 5. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law or Executive Order to an agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+(d) The Chief Executive Officer of CNCS is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

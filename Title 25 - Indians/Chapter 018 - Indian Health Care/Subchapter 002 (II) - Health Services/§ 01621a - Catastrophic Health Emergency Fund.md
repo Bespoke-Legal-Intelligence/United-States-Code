@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established an Indian Catastrophic Health Emergency Fund (hereafter in this section referred to as the “CHEF”) consisting of—
+There is established an Indian Catastrophic Health Emergency Fund (hereafter in this section referred to as the "CHEF") consisting of—
 
 &emsp;(1) the amounts deposited under subsection (f); and
 
@@ -22,7 +22,7 @@ The Secretary shall promulgate regulations consistent with the provisions of thi
 
 &emsp;(1) establish a definition of disasters and catastrophic illnesses for which the cost of the treatment provided under contract would qualify for payment from CHEF;
 
-&emsp;(2) provide that a Service Unit shall not be eligible for reimbursement for the cost oftreatment from CHEF until its cost of treating any victim of such catastrophic illness or disaster has reached a certain threshold cost which the Secretary shall establish at—
+&emsp;(2) provide that a Service Unit shall not be eligible for reimbursement for the cost of treatment from CHEF until its cost of treating any victim of such catastrophic illness or disaster has reached a certain threshold cost which the Secretary shall establish at—
 
 &emsp;&emsp;(A) the 2000 level of $19,000; and
 
@@ -60,15 +60,15 @@ Amendment by Pub. L. 111–148 is based on section 122 of title I of S. 1790, On
 
 <b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section related to establishment of Indian Catastrophic Health Emergency Fund with provisions for its administration, promulgation of regulations, procedures for payment, effect of appropriated funds on other appropriations, and deposit of reimbursements.
 
-<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–573, §202(a)(1), substituted “to the Fund under this section” for “under subsection (e) of this section”.
+<b>1992</b>—Subsec. (a)(1)(B). Pub. L. 102–573, §202(a)(1), substituted "to the Fund under this section" for "under subsection (e) of this section".
 
-Subsec. (b)(2). Pub. L. 102–573, §202(a)(2), substituted “shall establish at—” and subpars. (A) and (B) for “shall establish at not less than $10,000 or not more than $20,000;”.
+Subsec. (b)(2). Pub. L. 102–573, §202(a)(2), substituted "shall establish at—" and subpars. (A) and (B) for "shall establish at not less than $10,000 or not more than $20,000;".
 
-Subsec. (c). Pub. L. 102–573, §202(a)(3), substituted “Amounts appropriated to the Fund under this section” for “Funds appropriated under subsection (e) of this section”.
+Subsec. (c). Pub. L. 102–573, §202(a)(3), substituted "Amounts appropriated to the Fund under this section" for "Funds appropriated under subsection (e) of this section".
 
 Subsec. (e). Pub. L. 102–573, §217(b)(2), struck out subsec. (e) which authorized appropriations for fiscal years 1989 to 1992.
 
 #### Effective Date of 1992 Amendment
 
-Pub. L. 102–573, title II, §202(b), Oct. 29, 1992, 106 Stat. 4546, provided that: “The amendment made by subsection (a)(2) \[amending this section\] shall take effect January 1, 1993.”
+Pub. L. 102–573, title II, §202(b), Oct. 29, 1992, 106 Stat. 4546, provided that: "The amendment made by subsection (a)(2) \[amending this section\] shall take effect January 1, 1993."
 

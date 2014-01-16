@@ -1,6 +1,6 @@
 ### §§1750 to 1753a. Repealed. Pub. L. 87–195, pt. III, §642(a)(2), (5), Sept. 4, 1961, 75 Stat. 460
 
-Section 1750, act Aug. 26, 1954, ch. 937, §2, formerly ch. IV, §549, as added July 8, 1955, ch. 301, §11, 69 Stat. 289, renumbered and amended July 18, 1956, ch. 627, §2, 70 Stat. 555; July 24, 1959, Pub. L. 86–108, §2, 73 Stat. 246; May 14, 1960, Pub. L. 86–472, §2, 74 Stat. 134, stated the Congressional declaration of purpose for this chapter. See section 2151 et seq. of this title.
+Section 1750, act Aug. 26, 1954, ch. 937, §2, formerly ch. IV, §549, as added July 8, 1955, ch. 301, §11, 69 Stat. 289, renumbered and amended July 18, 1956, ch. 627, §2, 70Stat. 555; July 24, 1959, Pub. L. 86–108, §2, 73 Stat. 246; May 14, 1960, Pub. L. 86–472, §2, 74 Stat. 134, stated the Congressional declaration of purpose for this chapter. See section 2151 et seq. of this title.
 
 Section 1750a, Pub. L. 85–477, ch. V, §503, June 30, 1958, 72 Stat. 275, related to strengthening cooperation in the Western Hemisphere.
 

@@ -6,7 +6,7 @@ If any small business investment company has obtained financing from the Adminis
 
 &emsp;(1) the private capital of such company; and
 
-&emsp;(2) the total amount of leverage projected by the company in the company's business planthat was approved by the Administrator at the time of the grant of the company's license.
+&emsp;(2) the total amount of leverage projected by the company in the company's business plan that was approved by the Administrator at the time of the grant of the company's license.
 
 #### (b) Repealed. Pub. L. 92–595, §2(f), Oct. 27, 1972, 86 Stat. 1316
 
@@ -22,21 +22,21 @@ For effective date of the Small Business Investment Act Amendments of 1967, refe
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–5 amended subsec. (a) generally. Prior to amendment, text read as follows: “If any small business investment company has obtained financing from the Administration and such financing remains outstanding, the aggregate amount of obligations and securities acquired and for which commitments may be issued by such company under the provisions of this subchapter for any single enterprise shall not exceed 20 per centum of the private capital of such company, without the approval of the Administration.”
+<b>2009</b>—Subsec. (a). Pub. L. 111–5 amended subsec. (a) generally. Prior to amendment, text read as follows: "If any small business investment company has obtained financing from the Administration and such financing remains outstanding, the aggregate amount of obligations and securities acquired and for which commitments may be issued by such company under the provisions of this subchapter for any single enterprise shall not exceed 20 per centum of the private capital of such company, without the approval of the Administration."
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–366 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Without the approval of the Administration, the aggregate amount of obligations and securities acquired and for which commitments may be issued by any small business investment company under the provisions of this chapter for any single enterprise shall not exceed 20 percent of the combined private paid-in capital and paid-in surplus of such company.”
+<b>1992</b>—Subsec. (a). Pub. L. 102–366 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Without the approval of the Administration, the aggregate amount of obligations and securities acquired and for which commitments may be issued by any small business investment company under the provisions of this chapter for any single enterprise shall not exceed 20 percent of the combined private paid-in capital and paid-in surplus of such company."
 
-<b>1972</b>—Subsec. (a). Pub. L. 92–595, §2(f)(1), substituted “combined private paid-in capital” for “combined paid-in capital”.
+<b>1972</b>—Subsec. (a). Pub. L. 92–595, §2(f)(1), substituted "combined private paid-in capital" for "combined paid-in capital".
 
 Subsec. (b). Pub. L. 92–595, §2(f)(2), repealed subsec. (b) which enumerated the items making up the combined paid-in capital and paid-in surplus of companies licensed prior to January 1, 1968.
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–104 substituted “paid-in capital and paid-in surplus of such company” for “capital and surplus of such small business investment company authorized by this chapter”.
+<b>1967</b>—Subsec. (a). Pub. L. 90–104 substituted "paid-in capital and paid-in surplus of such company" for "capital and surplus of such small business investment company authorized by this chapter".
 
 Subsecs. (b), (c). Pub. L. 90–104 added subsecs. (b) and (c).
 
 <b>1964</b>—Pub. L. 88–273 struck out the $500,000 limitation on amount of assistance to any single enterprise.
 
-<b>1961</b>—Pub. L. 87–341 inserted “or (2) $500,000, whichever is the lesser”.
+<b>1961</b>—Pub. L. 87–341 inserted "or (2) $500,000, whichever is the lesser".
 
 #### Effective Date of 1967 Amendment
 
@@ -44,7 +44,7 @@ Amendment by Pub. L. 90–104 effective Jan. 1, 1968, see section 211 of Pub. L.
 
 #### Effective Date of 1961 Amendment
 
-Pub. L. 87–341, §7(b), Oct. 3, 1961, 75 Stat. 753, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply only with respect to obligations and securities acquired by a small business investment company on or after the date of the enactment of this Act \[Oct. 3, 1961\]; except that such amendment shall not apply with respect to any obligations or securities so acquired pursuant to a commitment issued before such date.”
+Pub. L. 87–341, §7(b), Oct. 3, 1961, 75 Stat. 753, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply only with respect to obligations and securities acquired by a small business investment company on or after the date of the enactment of this Act \[Oct. 3, 1961\]; except that such amendment shall not apply with respect to any obligations or securities so acquired pursuant to a commitment issued before such date."
 
 #### Effect of Small Business Equity Enhancement Act of 1992 on Securities Laws
 

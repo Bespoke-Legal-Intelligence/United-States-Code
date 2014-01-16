@@ -28,7 +28,7 @@ Any project assisted under this section shall provide—
 
 &emsp;&emsp;(D) postsecondary education; and
 
-&emsp;(6) education or counseling services designed to improve the financial literacy and economic literacy of students or the students’ parents, including financial planning for postsecondary education.
+&emsp;(6) education or counseling services designed to improve the financial literacy and economic literacy of students or the students' parents, including financial planning for postsecondary education.
 
 #### (c) Additional required services for multiple-year grant recipients
 
@@ -74,7 +74,7 @@ Youths participating in a project proposed to be carried out under any applicati
 
 #### (1) Authorization and appropriation
 
-&emsp;There are authorized to be appropriated, and there are appropriated to the Secretary, from funds not otherwise appropriated, $57,000,000 for each of the fiscal years 2008 through 2011 to carry out paragraph (2), except that any amounts that remain unexpended for such purpose for each of such fiscal years may be available for technical assistance and administration costs for the Upward Bound program. The authority to award grants under this subsection shall expire at the end of fiscal year 2011.
+&emsp;There are authorized to be appropriated, and there are appropriated to the Secretary, fromfunds not otherwise appropriated, $57,000,000 for each of the fiscal years 2008 through 2011 to carry out paragraph (2), except that any amounts that remain unexpended for such purpose for each of such fiscal years may be available for technical assistance and administration costs for the Upward Bound program. The authority to award grants under this subsection shall expire at the end of fiscal year 2011.
 
 #### (2) Use of funds
 
@@ -82,7 +82,7 @@ Youths participating in a project proposed to be carried out under any applicati
 
 #### (h) Absolute priority prohibited in Upward Bound Program
 
-Upon enactment of this subsection and except as otherwise expressly provided by amendmentto this section, the Secretary shall not continue, implement, or enforce the absolute priority for the Upward Bound Program published by the Department of Education in the Federal Register on September 22, 2006 (71 Fed. Reg. 55447 et seq.). This subsection shall not be applied retroactively. In implementing this subsection, the Department shall allow the programs and participants chosen in the grant cycle to which the priority applies to continue their grants and participation without a further recompetition. The entities shall not be required to apply the absolute priority conditions or restrictions to future participants.
+Upon enactment of this subsection and except as otherwise expressly provided by amendment to this section, the Secretary shall not continue, implement, or enforce the absolute priority for the Upward Bound Program published by the Department of Education in the Federal Register on September 22, 2006 (71 Fed. Reg. 55447 et seq.). This subsection shall not be applied retroactively. In implementing this subsection, the Department shall allow the programs and participants chosen in the grant cycle to which the priority applies to continue their grants and participation without a further recompetition. The entities shall not be required to apply the absolute priority conditions or restrictions to future participants.
 
 (Pub. L. 89–329, title IV, §402C, as added Pub. L. 102–325, title IV, §402(a)(4), July 23, 1992, 106 Stat. 487; amended Pub. L. 103–208, §2(b)(10), Dec. 20, 1993, 107 Stat. 2459; Pub. L. 105–244, title IV, §402(c), Oct. 7, 1998, 112 Stat. 1654; Pub. L. 110–84, title I, §103, Sept. 27, 2007, 121 Stat. 786; Pub. L. 110–315, title IV, §403(c), Aug. 14, 2008, 122 Stat. 3199.)
 
@@ -90,17 +90,17 @@ Upon enactment of this subsection and except as otherwise expressly provided by 
 
 <b>2008</b>—Subsec. (b). Pub. L. 110–315, §403(c)(1), added subsec. (b) and struck out former subsec. (b) which related to permissible services.
 
-Subsec. (c). Pub. L. 110–315, §403(c)(2), substituted “Additional required services for multiple-year grant recipients” for “Required services” in heading and “project assisted under this section” for “upward bound project assisted under this division” in text.
+Subsec. (c). Pub. L. 110–315, §403(c)(2), substituted "Additional required services for multiple-year grant recipients" for "Required services" in heading and "project assisted under this section" for "upward bound project assisted under this division" in text.
 
 Subsec. (d). Pub. L. 110–315, §403(c)(4), added subsec. (d). Former subsec. (d) redesignated (e).
 
-Subsec. (e). Pub. L. 110–315, §403(c)(3), (5)(A), redesignated subsec. (d) as (e) and substituted “projects under this section” for “upward bound projects under this division” in introductory provisions. Former subsec. (e) redesignated (f).
+Subsec. (e). Pub. L. 110–315, §403(c)(3), (5)(A), redesignated subsec. (d) as (e) and substituted "projects under this section" for "upward bound projects under this division" in introductory provisions. Former subsec. (e) redesignated (f).
 
-Subsec. (e)(2). Pub. L. 110–315, §403(c)(5)(B), substituted “low-income individuals, first generation college students, or students who have a high risk for academic failure;” for “either low-income individuals or first generation college students;”.
+Subsec. (e)(2). Pub. L. 110–315, §403(c)(5)(B), substituted "low-income individuals, first generation college students, or students who have a high risk for academic failure;" for "either low-income individuals or first generation college students;".
 
 Subsec. (e)(5). Pub. L. 110–315, §403(c)(5)(C)–(E), added par. (5).
 
-Subsec. (f). Pub. L. 110–315, §403(c)(3), (6), redesignated subsec. (e) as (f) and substituted “during the summer school recess, for a period not to exceed three months” for “during June, July, and August” in two places, and “subsection (d)(5)” for “subsection (b)(10)”. Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 110–315, §403(c)(3), (6), redesignated subsec. (e) as (f) and substituted "during the summer school recess, for a period not to exceed three months" for "during June, July, and August" in two places, and "subsection (d)(5)" for "subsection (b)(10)". Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 110–315, §403(c)(3), redesignated subsec. (f) as (g).
 
@@ -108,19 +108,19 @@ Subsec. (h). Pub. L. 110–315, §403(c)(7), added subsec. (h).
 
 <b>2007</b>—Subsec. (f). Pub. L. 110–84 added subsec. (f).
 
-<b>1998</b>—Subsec. (b)(2). Pub. L. 105–244, §402(c)(1)(A), substituted “counseling and workshops” for “personal counseling”.
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–244, §402(c)(1)(A), substituted "counseling and workshops" for "personal counseling".
 
-Subsec. (b)(9). Pub. L. 105–244, §402(c)(1)(B), inserted “or counselors” after “teachers” and struck out “and” after semicolon.
+Subsec. (b)(9). Pub. L. 105–244, §402(c)(1)(B), inserted "or counselors" after "teachers" and struck out "and" after semicolon.
 
 Subsec. (b)(10), (11). Pub. L. 105–244, §402(c)(1)(D), added pars. (10) and (11). Former par. (10) redesignated (12).
 
-Subsec. (b)(12). Pub. L. 105–244, §402(c)(1)(E), substituted “(11)” for “(9)”.
+Subsec. (b)(12). Pub. L. 105–244, §402(c)(1)(E), substituted "(11)" for "(9)".
 
 Pub. L. 105–244, §402(c)(1)(C), redesignated par. (10) as (12).
 
-Subsec. (e). Pub. L. 105–244, §402(c)(2), substituted “except that youth participating in a work-study position under subsection (b)(10) of this section may be paid a stipend of $300 per month during June, July, and August. Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $40 per month during the remaining period of the year.” for “and not in excess of $40 per month during the remaining period of the year.”
+Subsec. (e). Pub. L. 105–244, §402(c)(2), substituted "except that youth participating in a work-study position under subsection (b)(10) of this section may be paid a stipend of $300 per month during June, July, and August. Youths participating in a project proposed to be carried out under any application may be paid stipends not in excess of $40 per month during the remaining period of the year." for "and not in excess of $40 per month during the remaining period of the year."
 
-<b>1993</b>—Subsec. (c). Pub. L. 103–208 substituted “foreign” for “and foreign”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–208 substituted "foreign" for "and foreign".
 
 #### Effective Date of 2007 Amendment
 

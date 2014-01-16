@@ -7,7 +7,7 @@
 | [4003\.](%C2%A7%2004003%20-%20Study%20of%20potential%20for%20expansion%20of%20United%20States%20agricultural%20export%20markets%3B%20report%20to%20President%20and%20Congress.md) | Study of potential for expansion of United States agricultural export markets; report to President and Congress. |
 | [4004\.](%C2%A7%2004004%20-%20Food%20bank%20special%20nutrition%20projects.md) | Food bank special nutrition projects. |
 | [4004a.](%C2%A7%2004004a%20-%20Applicability%20of%20supplemental%20nutrition%20assistance%20requirements.md) | Applicability of supplemental nutrition assistance requirements. |
-| [4005\.](%C2%A7%2004005%20-%20%E2%80%9CFuel%20conversion%20price%E2%80%9D%20defined.md) | “Fuel conversion price” defined. |
+| [4005\.](%C2%A7%2004005%20-%20Fuel%20conversion%20price%20defined.md) | "Fuel conversion price" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -21,4 +21,4 @@
 - [&sect; 04003 - Study of potential for expansion of United States agricultural export markets; report to President and Congress](%C2%A7%2004003%20-%20Study%20of%20potential%20for%20expansion%20of%20United%20States%20agricultural%20export%20markets%3B%20report%20to%20President%20and%20Congress.md)
 - [&sect; 04004 - Food bank special nutrition projects](%C2%A7%2004004%20-%20Food%20bank%20special%20nutrition%20projects.md)
 - [&sect; 04004a - Applicability of supplemental nutrition assistance requirements](%C2%A7%2004004a%20-%20Applicability%20of%20supplemental%20nutrition%20assistance%20requirements.md)
-- [&sect; 04005 - &#8220;Fuel conversion price&#8221; defined](%C2%A7%2004005%20-%20%E2%80%9CFuel%20conversion%20price%E2%80%9D%20defined.md)
+- [&sect; 04005 - Fuel conversion price defined](%C2%A7%2004005%20-%20Fuel%20conversion%20price%20defined.md)

@@ -4,5 +4,5 @@ Section, act Aug. 28, 1950, ch. 809, title III, pt. 4, §344(a), 64 Stat. 554, p
 
 #### Effective and Termination Dates
 
-Section 136(b) of Pub. L. 87–543 also repealed section 344(b) of act Aug. 28, 1950, as amended Sept. 1, 1954, ch. 1206, title III, §302, 68 Stat. 1097; Apr. 25, 1957, Pub. L. 85–26, 71 Stat. 27; Aug. 28, 1958, Pub. L. 85–840, title V, §509, 72 Stat. 1051; Sept. 13, 1960, Pub. L. 86–778, title VII, §706, 74 Stat. 995, which provided that this section should become effective Oct. 1, 1950 and terminate June 30, 1964.
+Section 136(b) of Pub. L. 87–543 also repealed section 344(b) of act Aug. 28, 1950, as amended Sept. 1, 1954, ch. 1206, title III, §302, 68 Stat. 1097; Apr. 25, 1957, Pub. L. 85–26, 71 Stat. 27; Aug. 28, 1958, Pub. L. 85–840, title V, §509, 72 Stat. 1051; Sept. 13, 1960, Pub. L. 86–778, titleVII, §706, 74 Stat. 995, which provided that this section should become effective Oct. 1, 1950 and terminate June 30, 1964.
 

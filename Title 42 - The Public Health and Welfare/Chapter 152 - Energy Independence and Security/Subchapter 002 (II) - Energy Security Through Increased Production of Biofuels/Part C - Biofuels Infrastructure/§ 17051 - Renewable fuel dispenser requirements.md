@@ -6,7 +6,7 @@ The Secretary, in consultation with the Secretary of Transportation, shall deter
 
 #### (b) Dispenser feasibility study
 
-Not later than 24 months after December 19, 2007, the Secretary, in consultation with the Department of Transportation, shall report to the Congress on the feasibility of requiring motor fuel retailers to install E–85 compatible dispensers and related systems at retail fuel facilities in regions where flexible-fuel vehicle marketpenetration has reached 15 percent of motor vehicles. In conducting such study, the Secretary shall consider and report on the following factors:
+Not later than 24 months after December 19, 2007, the Secretary, in consultation with the Department of Transportation, shall report to the Congress on the feasibility of requiring motor fuel retailers to install E–85 compatible dispensers and related systems at retail fuel facilities in regions where flexible-fuel vehicle market penetration has reached 15 percent of motor vehicles. In conducting such study, the Secretary shall consider and report on the following factors:
 
 &emsp;(1) The commercial availability of E–85 fuel and the number of competing E–85 wholesale suppliers in a given region.
 

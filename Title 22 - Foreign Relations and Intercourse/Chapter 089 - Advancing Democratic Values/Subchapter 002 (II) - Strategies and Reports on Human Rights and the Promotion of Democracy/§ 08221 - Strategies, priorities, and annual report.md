@@ -22,7 +22,7 @@ The Annual Report on Advancing Freedom and Democracy shall include, as appropria
 
 &emsp;(1) United States priorities for the promotion of democracy and the protection of human rights for each nondemocratic country and democratic transition country, developed in consultation with relevant parties in such countries; and
 
-&emsp;(2) specific actions and activities of chiefs of missions and other United States officials topromote democracy and protect human rights in each such country.
+&emsp;(2) specific actions and activities of chiefs of missions and other United States officials to promote democracy and protect human rights in each such country.
 
 (Pub. L. 110–53, title XXI, §2121, Aug. 3, 2007, 121 Stat. 531.)
 

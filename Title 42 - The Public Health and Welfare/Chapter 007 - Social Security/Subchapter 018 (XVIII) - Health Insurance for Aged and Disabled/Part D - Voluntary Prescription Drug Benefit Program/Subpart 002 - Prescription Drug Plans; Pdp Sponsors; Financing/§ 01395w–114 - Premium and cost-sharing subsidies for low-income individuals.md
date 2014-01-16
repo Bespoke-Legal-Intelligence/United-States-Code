@@ -30,7 +30,7 @@
 
 #### (iii) Other individuals
 
-&emsp;&emsp;&emsp;In the case of an individual not described in clause (i) or (ii), the substitution for thebeneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title) of a copayment amount that does not exceed the copayment amount specified under section 1395w–102(b)(4)(A)(i)(I) of this title for the drug and year involved.
+&emsp;&emsp;&emsp;In the case of an individual not described in clause (i) or (ii), the substitution for the beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title) of a copayment amount that does not exceed the copayment amount specified under section 1395w–102(b)(4)(A)(i)(I) of this title for the drug and year involved.
 
 #### (E) Elimination of cost-sharing above annual out-of-pocket threshold
 
@@ -54,7 +54,7 @@
 
 #### (D) Reduction in cost-sharing below out-of-pocket threshold
 
-&emsp;&emsp;The substitution for the beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts above the deductible under subparagraph (B) through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title) of coinsurance of “15 percent” instead of coinsurance of “25 percent” in section 1395w–102(b)(2) of this title.
+&emsp;&emsp;The substitution for the beneficiary coinsurance described in section 1395w–102(b)(2) of this title (for all amounts above the deductible under subparagraph (B) through the total amount of expenditures at which benefits are available under section 1395w–102(b)(4) of this title) of coinsurance of "15 percent" instead of coinsurance of "25 percent" in section 1395w–102(b)(2) of this title.
 
 #### (E) Reduction of cost-sharing above annual out-of-pocket threshold
 
@@ -64,7 +64,7 @@
 
 #### (A) Subsidy eligible individual defined
 
-&emsp;&emsp;For purposes of this part, subject to subparagraph (F), the term “subsidy eligible individual” means a part D eligible individual who—
+&emsp;&emsp;For purposes of this part, subject to subparagraph (F), the term "subsidy eligible individual" means a part D eligible individual who—
 
 &emsp;&emsp;&emsp;(i) is enrolled in a prescription drug plan or MA–PD plan;
 
@@ -116,7 +116,7 @@
 
 &emsp;&emsp;&emsp;(i) in the case of a part D eligible individual who is not treated as a subsidy eligible individual under subparagraph (B)(v), income shall be determined in the manner described in section 1396d(p)(1)(B) of this title, without regard to the application of section 1396a(r)(2) of this title and except that support and maintenance furnished in kind shall not be counted as income; and
 
-&emsp;&emsp;&emsp;(ii) the term “poverty line” has the meaning given such term in section 9902(2) of this title, including any revision required by such section.
+&emsp;&emsp;&emsp;(ii) the term "poverty line" has the meaning given such term in section 9902(2) of this title, including any revision required by such section.
 
 > &emsp;&emsp;Nothing in clause (i) shall be construed to affect the application of section 1396a(r)(2) of this title for the determination of eligibility for medical assistance under subchapter XIX of this chapter.
 
@@ -208,7 +208,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of this subsection, the term “low-income benchmark premium amount” means, with respect to a PDP region in which—
+&emsp;&emsp;For purposes of this subsection, the term "low-income benchmark premium amount" means, with respect to a PDP region in which—
 
 &emsp;&emsp;&emsp;(i) all prescription drug plans are offered by the same PDP sponsor, the weighted average of the amounts described in subparagraph (B)(i) for such plans; or
 
@@ -262,63 +262,63 @@ Beginning not later than January 1, 2011, the Secretary shall, in the case of a 
 
 For special provisions under the medicaid program relating to medicare prescription drug benefits, see section 1396u–5 of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1860D–14, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2107; amended Pub. L. 110–275, title I, §§114(a)(2), 116(a), 117(a), July 15, 2008, 122 Stat. 2506, 2507; Pub. L. 111–148, title III, §§3302(a), 3303(a), 3304(a), 3305, 3309, Mar. 23, 2010, 124 Stat. 468–470, 475; Pub. L. 111–152, title I, §1102(c)(4), Mar. 30, 2010, 124 Stat. 1045.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1860D–14, as added Pub. L. 108–173, title I, §101(a)(2), Dec. 8, 2003, 117 Stat. 2107; amended Pub. L. 110–275, title I, §§114(a)(2), 116(a), 117(a), July 15, 2008, 122 Stat. 2506, 2507; Pub. L. 111–148, title III, §§3302(a),3303(a), 3304(a), 3305, 3309, Mar. 23, 2010, 124 Stat. 468–470, 475; Pub. L. 111–152, title I, §1102(c)(4), Mar. 30, 2010, 124 Stat. 1045.)
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1)(D)(i). Pub. L. 111–148, §3309, inserted “or, effective on a date specified by the Secretary (but in no case earlier than January 1, 2012), who would be such an institutionalized individual or couple, if the full-benefit dual eligible individual were not receiving services under a home and community-based waiver authorized for a State under section 1315 of this title or subsection (c) or (d) of section 1396n of this title or under a State plan amendment under subsection (i) of such section or services provided through enrollment in a medicaid managed care organization with a contract under section 1396b(m) of this title or under section 1396u–2 of this title” after “1396a(q)(1)(B) of this title)”.
+<b>2010</b>—Subsec. (a)(1)(D)(i). Pub. L. 111–148, §3309, inserted "or, effective on a date specified by the Secretary (but in no case earlier than January 1, 2012), who would be such an institutionalized individual or couple, if the full-benefit dual eligible individual were not receiving services under a home and community-based waiver authorized for a State under section 1315 of this title or subsection (c) or (d) of section 1396n of this title or under a State plan amendment under subsection (i) of such section or services provided through enrollment in a medicaid managed care organization with a contract under section 1396b(m) of this title or under section 1396u–2 of this title" after "1396a(q)(1)(B) of this title)".
 
 Subsec. (a)(3)(B)(vi). Pub. L. 111–148, §3304(a), added cl. (vi).
 
 Subsec. (a)(5). Pub. L. 111–148, §3303(a), added par. (5).
 
-Subsec. (b)(2)(B)(iii). Pub. L. 111–152 substituted “and determined before the application of the monthly rebate computed under section 1395w–24(b)(1)(C)(i) of this title for that plan and year involved and, in the case of a qualifying plan, before the application of the increase under section 1395w–23(o) of this title for that plan and year involved” for “, determined without regard to any reduction in such premium as a result of any beneficiary rebate under section 1395w–24(b)(1)(C) of this title or bonus payment under section 1395w–23(n) of this title”.
+Subsec. (b)(2)(B)(iii). Pub. L. 111–152 substituted "and determined before the application of the monthly rebate computed under section 1395w–24(b)(1)(C)(i) of this title for that plan and year involved and, in the case of a qualifying plan, before the application of the increase under section 1395w–23(o) of this title for that plan and year involved" for ", determined without regard to any reduction in such premium as a result of any beneficiary rebate under section 1395w–24(b)(1)(C) of this title or bonus payment under section 1395w–23(n) of this title".
 
-Pub. L. 111–148, §3302(a), inserted “, determined without regard to any reduction in such premium as a result of any beneficiary rebate under section 1854(b)(1)(C) or bonus payment under section 1395w–23(n) of this title” before period at end.
+Pub. L. 111–148, §3302(a), inserted ", determined without regard to any reduction in such premium as a result of any beneficiary rebate under section 1854(b)(1)(C) or bonus payment under section 1395w–23(n) of this title" before period at end.
 
 Subsecs. (d), (e). Pub. L. 111–148, §3305, added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>2008</b>—Subsec. (a)(1)(A). Pub. L. 110–275, §114(a)(2), substituted “equal to 100 percent of the amount described in subsection (b)(1), but not to exceed the premium amount specified in subsection (b)(2)(B).” for “equal to—
+<b>2008</b>—Subsec. (a)(1)(A). Pub. L. 110–275, §114(a)(2), substituted "equal to 100 percent of the amount described in subsection (b)(1), but not to exceed the premium amount specified in subsection (b)(2)(B)." for "equal to—
 
-&emsp;“(i) 100 percent of the amount described in subsection (b)(1) of this section, but not to exceed the premium amount specified in subsection (b)(2)(B) of this section; plus
+&emsp;"(i) 100 percent of the amount described in subsection (b)(1) of this section, but not to exceed the premium amount specified in subsection (b)(2)(B) of this section; plus
 
-&emsp;“(ii) 80 percent of any late enrollment penalties imposed under section 1395w–113(b) of this title for the first 60 months in which such penalties are imposed for that individual, and 100 percent of any such penalties for any subsequent month.”
+&emsp;"(ii) 80 percent of any late enrollment penalties imposed under section 1395w–113(b) of this title for the first 60 months in which such penalties are imposed for that individual, and 100 percent of any such penalties for any subsequent month."
 
 Subsec. (a)(3)(B)(iv)(III). Pub. L. 110–275, §117(a), added subcl. (III).
 
-Subsec. (a)(3)(C)(i). Pub. L. 110–275, §116(a)(1), inserted “and except that support and maintenance furnished in kind shall not be counted as income” after “section 1396a(r)(2) of this title”.
+Subsec. (a)(3)(C)(i). Pub. L. 110–275, §116(a)(1), inserted "and except that support and maintenance furnished in kind shall not be counted as income" after "section 1396a(r)(2) of this title".
 
-Subsec. (a)(3)(D), (E)(i). Pub. L. 110–275, §116(a)(2), (3), inserted “subject to the life insurance policy exclusion provided under subparagraph (G)” after “program” in introductory provisions.
+Subsec. (a)(3)(D), (E)(i). Pub. L. 110–275, §116(a)(2), (3), inserted "subject to the life insurance policy exclusion provided under subparagraph (G)" after "program" in introductory provisions.
 
 Subsec. (a)(3)(G). Pub. L. 110–275, §116(a)(4), added subpar. (G).
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title III, §3302(b), Mar. 23, 2010, 124 Stat. 468, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to premiums for months beginning on or after January 1, 2011.”
+Pub. L. 111–148, title III, §3302(b), Mar. 23, 2010, 124 Stat. 468, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to premiums for months beginning on or after January 1, 2011."
 
 Amendment by section 3303(a) of Pub. L. 111–148 applicable to premiums for months, and enrollments for plan years, beginning on or after January 1, 2011, see section 3303(c) of Pub. L. 111–148, set out as a note under section 1395w–101 of this title.
 
-Pub. L. 111–148, title III, §3304(b), Mar. 23, 2010, 124 Stat. 470, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2011.”
+Pub. L. 111–148, title III, §3304(b), Mar. 23, 2010, 124 Stat. 470, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 2011."
 
 #### Effective Date of 2008 Amendment
 
 Amendment by section 114(a)(2) of Pub. L. 110–275 applicable to subsidies for months beginning with Jan. 2009, see section 114(b) of Pub. L. 110–275, set out as a note under section 1395w–113 of this title.
 
-Pub. L. 110–275, title I, §116(b), July 15, 2008, 122 Stat. 2507, provided that: “The amendments made by this section \[amending this section\] shall take effect with respect to applications filed on or after January 1, 2010.”
+Pub. L. 110–275, title I, §116(b), July 15, 2008, 122 Stat. 2507, provided that: "The amendments made by this section \[amending this section\] shall take effect with respect to applications filed on or after January 1, 2010."
 
-Pub. L. 110–275, title I, §117(b), July 15, 2008, 122 Stat. 2507, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 101 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 \[Pub. L. 108–173\].”
+Pub. L. 110–275, title I, §117(b), July 15, 2008, 122 Stat. 2507, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 101 of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 \[Pub. L. 108–173\]."
 
 #### GAO Study Regarding Impact of Assets Test for Subsidy Eligible Individuals
 
 Pub. L. 108–173, title I, §107(e), Dec. 8, 2003, 117 Stat. 2171, provided that:
 
-“(1)
+"(1)
 
-Study.—The Comptroller General of the United States shall conduct a study to determine the extent to which drug utilization and access to covered part D drugs under part D of title XVIII of the Social Security Act \[this part\] by subsidy eligible individuals differs from such utilization and access for individuals who would qualify as such subsidy eligible individuals but for the application of section 1860D–14(a)(3)(A)(iii) of such Act \[subsec. (a)(3)(A)(iii) of this section\].
+Study.—The Comptroller General of the United States shall conduct a study to determine the extent to which drug utilization and access to covered part D drugs under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\] by subsidy eligible individuals differs from such utilization and access for individuals who would qualify as such subsidy eligible individuals but for the application of section 1860D–14(a)(3)(A)(iii) of such Act \[42 U.S.C. 1395w–114(a)(3)(A)(iii)\].
 
-“(2)
+"(2)
 
-Report.—Not later than September 30, 2007, the Comptroller General shall submit a report to Congress on the study conducted under paragraph (1) that includes such recommendations for legislation as the Comptroller General determines are appropriate.”
+Report.—Not later than September 30, 2007, the Comptroller General shall submit a report to Congress on the study conducted under paragraph (1) that includes such recommendations for legislation as the Comptroller General determines are appropriate."
 
 <i><sup>1</sup></i><i> So in original. Section 1395w–22(a)(6) of this title does not contain a subpar. (B).</i>
 

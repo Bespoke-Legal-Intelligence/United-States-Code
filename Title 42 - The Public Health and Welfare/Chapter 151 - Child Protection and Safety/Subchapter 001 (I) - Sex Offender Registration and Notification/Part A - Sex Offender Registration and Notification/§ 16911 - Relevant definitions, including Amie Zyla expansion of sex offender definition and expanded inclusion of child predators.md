@@ -4,15 +4,15 @@ In this subchapter the following definitions apply:
 
 #### (1) Sex offender
 
-&emsp;The term “sex offender” means an individual who was convicted of a sex offense.
+&emsp;The term "sex offender" means an individual who was convicted of a sex offense.
 
 #### (2) Tier I sex offender
 
-&emsp;The term “tier I sex offender” means a sex offender other than a tier II or tier III sex offender.
+&emsp;The term "tier I sex offender" means a sex offender other than a tier II or tier III sex offender.
 
 #### (3) Tier II sex offender
 
-&emsp;The term “tier II sex offender” means a sex offender other than a tier III sex offenderwhose offense is punishable by imprisonment for more than 1 year and—
+&emsp;The term "tier II sex offender" means a sex offender other than a tier III sex offender whose offense is punishable by imprisonment for more than 1 year and—
 
 &emsp;&emsp;(A) is comparable to or more severe than the following offenses, when committed against a minor, or an attempt or conspiracy to commit such an offense against a minor:
 
@@ -36,7 +36,7 @@ In this subchapter the following definitions apply:
 
 #### (4) Tier III sex offender
 
-&emsp;The term “tier III sex offender” means a sex offender whose offense is punishable by imprisonment for more than 1 year and—
+&emsp;The term "tier III sex offender" means a sex offender whose offense is punishable by imprisonment for more than 1 year and—
 
 &emsp;&emsp;(A) is comparable to or more severe than the following offenses, or an attempt or conspiracy to commit such an offense:
 
@@ -52,7 +52,7 @@ In this subchapter the following definitions apply:
 
 #### (A) Generally
 
-&emsp;&emsp;Except as limited by subparagraph (B) or (C), the term “sex offense” means—
+&emsp;&emsp;Except as limited by subparagraph (B) or (C), the term "sex offense" means—
 
 &emsp;&emsp;&emsp;(i) a criminal offense that has an element involving a sexual act or sexual contact with another;
 
@@ -74,11 +74,11 @@ In this subchapter the following definitions apply:
 
 #### (6) Criminal offense
 
-&emsp;The term “criminal offense” means a State, local, tribal, foreign, or military offense (to the extent specified by the Secretary of Defense under section 115(a)(8)(C)(i) of Public Law 105–119 (10 U.S.C. 951 note)) or other criminal offense.
+&emsp;The term "criminal offense" means a State, local, tribal, foreign, or military offense (to the extent specified by the Secretary of Defense under section 115(a)(8)(C)(i) of Public Law 105–119 (10 U.S.C. 951 note)) or other criminal offense.
 
-#### (7) Expansion of definition of “specified offense against a minor” to include all offenses by child predators
+#### (7) Expansion of definition of "specified offense against a minor" to include all offenses by child predators
 
-&emsp;The term “specified offense against a minor” means an offense against a minor that involves any of the following:
+&emsp;The term "specified offense against a minor" means an offense against a minor that involves any of the following:
 
 &emsp;&emsp;(A) An offense (unless committed by a parent or guardian) involving kidnapping.
 
@@ -100,15 +100,15 @@ In this subchapter the following definitions apply:
 
 #### (8) Convicted as including certain juvenile adjudications
 
-&emsp;The term “convicted” or a variant thereof, used with respect to a sex offense, includes adjudicated delinquent as a juvenile for that offense, but only if the offender is 14 years of age or older at the time of the offense and the offense adjudicated was comparable to or more severe than aggravated sexual abuse (as described in section 2241 of title 18), or was an attempt or conspiracy to commit such an offense.
+&emsp;The term "convicted" or a variant thereof, used with respect to a sex offense, includes adjudicated delinquent as a juvenile for that offense, but only if the offender is 14 years of age or older at the time of the offense and the offense adjudicated was comparable to or more severe than aggravated sexual abuse (as described in section 2241 of title 18), or was an attempt or conspiracy to commit such an offense.
 
 #### (9) Sex offender registry
 
-&emsp;The term “sex offender registry” means a registry of sex offenders, and a notification program, maintained by a jurisdiction.
+&emsp;The term "sex offender registry" means a registry of sex offenders, and a notification program, maintained by a jurisdiction.
 
 #### (10) Jurisdiction
 
-&emsp;The term “jurisdiction” means any of the following:
+&emsp;The term "jurisdiction" means any of the following:
 
 &emsp;&emsp;(A) A State.
 
@@ -128,25 +128,25 @@ In this subchapter the following definitions apply:
 
 #### (11) Student
 
-&emsp;The term “student” means an individual who enrolls in or attends an educational institution, including (whether public or private) a secondary school, trade or professional school, and institution of higher education.
+&emsp;The term "student" means an individual who enrolls in or attends an educational institution, including (whether public or private) a secondary school, trade or professional school, and institution of higher education.
 
 #### (12) Employee
 
-&emsp;The term “employee” includes an individual who is self-employed or works for any other entity, whether compensated or not.
+&emsp;The term "employee" includes an individual who is self-employed or works for any other entity, whether compensated or not.
 
 #### (13) Resides
 
-&emsp;The term “resides” means, with respect to an individual, the location of the individual's home or other place where the individual habitually lives.
+&emsp;The term "resides" means, with respect to an individual, the location of the individual's home or other place where the individual habitually lives.
 
 #### (14) Minor
 
-&emsp;The term “minor” means an individual who has not attained the age of 18 years.
+&emsp;The term "minor" means an individual who has not attained the age of 18 years.
 
 (Pub. L. 109–248, title I, §111, July 27, 2006, 120 Stat. 591.)
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, known as the Sex Offender Registration and Notification Act. For complete classification of title I to the Code, see Short Title note set out under section 16901 of this title and Tables.
+This subchapter, referred to in text, was in the original "this title", meaning title I of Pub. L. 109–248, July 27, 2006, 120 Stat. 590, known as the Sex Offender Registration and Notification Act. For complete classification of title I to the Code, see Short Title note set out under section 16901 of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. The second closing parenthesis probably should follow “18”.</i>
+<i><sup>1</sup></i><i> So in original. The second closing parenthesis probably should follow "18".</i>
 

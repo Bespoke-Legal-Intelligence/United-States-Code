@@ -6,7 +6,7 @@ The Secretary may declare a protected variety open to use on a basis of equitabl
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–349 substituted “the Secretary” for “he” before “determines” in first sentence.
+<b>1994</b>—Pub. L. 103–349 substituted "the Secretary" for "he" before "determines" in first sentence.
 
 #### Effective Date of 1994 Amendment
 

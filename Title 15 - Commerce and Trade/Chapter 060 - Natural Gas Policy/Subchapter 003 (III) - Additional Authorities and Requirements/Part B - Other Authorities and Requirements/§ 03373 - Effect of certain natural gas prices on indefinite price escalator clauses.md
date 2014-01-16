@@ -22,7 +22,7 @@ Sections 3315 and 3317 of this title, referred to in text, were repealed effecti
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–60 inserted “, as such section was in effect on January 1, 1989” in four places.
+<b>1989</b>—Pub. L. 101–60 inserted ", as such section was in effect on January 1, 1989" in four places.
 
 #### Effective Date of 1989 Amendment
 

@@ -46,11 +46,11 @@ Section 797 of this title, referred to in subsec. (f), was repealed by Pub. L. 9
 
 #### Amendments
 
-<b>1995</b>—Subsec. (d)(1). Pub. L. 104–88, §327(4)(A), substituted “section 10904” for “section 10905(d)–(f)”.
+<b>1995</b>—Subsec. (d)(1). Pub. L. 104–88, §327(4)(A), substituted "section 10904" for "section 10905(d)–(f)".
 
-Subsec. (f). Pub. L. 104–88, §327(4)(B), substituted “section 10903(b)(3)” for “section 10903(b)(2)”.
+Subsec. (f). Pub. L. 104–88, §327(4)(B), substituted "section 10903(b)(3)" for "section 10903(b)(2)".
 
-<b>1983</b>—Subsec. (c)(1). Pub. L. 98–181 substituted “1985” for “1983”.
+<b>1983</b>—Subsec. (c)(1). Pub. L. 98–181 substituted "1985" for "1983".
 
 #### Effective Date of 1995 Amendment
 

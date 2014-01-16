@@ -2,7 +2,7 @@
 
 #### (a) Short title
 
-This section may be cited as the “Boy Scouts of America Equal Access Act”.
+This section may be cited as the "Boy Scouts of America Equal Access Act".
 
 #### (b) In general
 
@@ -32,7 +32,7 @@ This section may be cited as the “Boy Scouts of America Equal Access Act”.
 
 #### (1) Definition
 
-&emsp;In this section, the term “youth group” means any group or organization intended to serve young people under the age of 21.
+&emsp;In this section, the term "youth group" means any group or organization intended to serve young people under the age of 21.
 
 #### (2) Rule
 
@@ -42,5 +42,5 @@ This section may be cited as the “Boy Scouts of America Equal Access Act”.
 
 #### Prior Provisions
 
-A prior section 7905, Pub. L. 89–10, title IX, §9205, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3800, related to Native Hawaiian Family-Based Education Centers, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 7905, Pub. L. 89–10, title IX, §9205, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3800, related to Native Hawaiian Family-Based Education Centers, prior to the general amendment of this subchapter by Pub. L. 107–110.
 

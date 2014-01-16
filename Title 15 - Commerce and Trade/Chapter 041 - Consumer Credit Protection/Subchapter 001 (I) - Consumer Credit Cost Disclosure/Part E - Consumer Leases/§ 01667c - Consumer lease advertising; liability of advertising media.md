@@ -22,7 +22,7 @@ No owner or employee of any entity that serves as a medium in which an advertise
 
 #### (1) In general
 
-&emsp;An advertisement by radio broadcast to aid, promote, or assist, directly or indirectly, any consumer lease shall be deemed to be in compliance with the requirements of subsection\(a) of this section if such advertisement clearly and conspicuously—
+&emsp;An advertisement by radio broadcast to aid, promote, or assist, directly or indirectly, any consumer lease shall be deemed to be in compliance with the requirements of subsection (a) of this section if such advertisement clearly and conspicuously—
 
 &emsp;&emsp;(A) states the information required by paragraphs (1) and (2) of subsection (a) of this section;
 
@@ -68,13 +68,13 @@ No owner or employee of any entity that serves as a medium in which an advertise
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(1)(D). Pub. L. 111–203, §1100A(2), (10)(A), made similar amendments, resulting in the substitution of “the Bureau” for “the Board”.
+<b>2010</b>—Subsec. (c)(1)(D). Pub. L. 111–203, §1100A(2), (10)(A), made similar amendments, resulting in the substitution of "the Bureau" for "the Board".
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–208, §2605(c)(1), (3), added subsec. (a) and struck out former subsec. (a) consisting of introductory provisions and 5 pars. relating to contents of lease agreements required if consumer lease advertisement stated amount of payment, number of required payments, or that any or no payments were required at lease inception.
 
 Subsec. (b). Pub. L. 104–208, §2605(c)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 104–208, §2605(c)(1), (2), redesignated subsec. (b) as (c) and struck out former subsec. (c) which read as follows: “There is no liability under this section on the part of any owner or personnel, as such, of any medium in which an advertisement appears or through which it is disseminated.”
+Subsec. (c). Pub. L. 104–208, §2605(c)(1), (2), redesignated subsec. (b) as (c) and struck out former subsec. (c) which read as follows: "There is no liability under this section on the part of any owner or personnel, as such, of any medium in which an advertisement appears or through which it is disseminated."
 
 <b>1994</b>—Subsecs. (b), (c). Pub. L. 103–325 added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -84,11 +84,11 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 #### Study of Advertising Rules
 
-Pub. L. 103–325, title III, §336(b), Sept. 23, 1994, 108 Stat. 2235, provided that: “Not later than 365 days after the date of enactment of this Act \[Sept. 23, 1994\], the Board of Governors of the Federal Reserve System shall submit a report to the Congress on—
+Pub. L. 103–325, title III, §336(b), Sept. 23, 1994, 108 Stat. 2235, provided that: "Not later than 365 days after the date of enactment of this Act \[Sept. 23, 1994\], the Board of Governors of the Federal Reserve System shall submit a report to the Congress on—
 
-&emsp;“(1) the current rules applicable to credit advertising;
+&emsp;"(1) the current rules applicable to credit advertising;
 
-&emsp;“(2) how such rules could be modified to increase consumer benefit and decrease creditor costs; and
+&emsp;"(2) how such rules could be modified to increase consumer benefit and decrease creditor costs; and
 
-&emsp;“(3) how such rules could be modified, if at all, for radio advertisements without diminishing consumer protection.”
+&emsp;"(3) how such rules could be modified, if at all, for radio advertisements without diminishing consumer protection."
 

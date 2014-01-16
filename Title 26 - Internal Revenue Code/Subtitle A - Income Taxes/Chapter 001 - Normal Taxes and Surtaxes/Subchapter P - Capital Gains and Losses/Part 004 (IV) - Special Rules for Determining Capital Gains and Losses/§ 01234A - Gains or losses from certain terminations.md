@@ -12,17 +12,17 @@ Gain or loss attributable to the cancellation, lapse, expiration, or other termi
 
 #### Amendments
 
-<b>2002</b>—Pars. (1) to (3). Pub. L. 107–147 inserted “or” at end of par. (1), struck out “or” at end of par. (2), and struck out par. (3) which read as follows: “a securities futures contract (as so defined) which is a capital asset in the hands of the taxpayer,”.
+<b>2002</b>—Pars. (1) to (3). Pub. L. 107–147 inserted "or" at end of par. (1), struck out "or" at end of par. (2), and struck out par. (3) which read as follows: "a securities futures contract (as so defined) which is a capital asset in the hands of the taxpayer,".
 
-<b>2000</b>—Par. (1). Pub. L. 106–554, §1(a)(7) \[title IV, §401(b)(1)\], inserted “(other than a securities futures contract, as defined in section 1234B)” after “right or obligation”.
+<b>2000</b>—Par. (1). Pub. L. 106–554, §1(a)(7) \[title IV, §401(b)(1)\], inserted "(other than a securities futures contract, as defined in section 1234B)" after "right or obligation".
 
 Par. (3). Pub. L. 106–554, §1(a)(7) \[title IV, §401(b)(2)–(4)\], added par. (3).
 
-<b>1997</b>—Par. (1). Pub. L. 105–34 substituted “property” for “personal property (as defined in section 1092(d)(1))”.
+<b>1997</b>—Par. (1). Pub. L. 105–34 substituted "property" for "personal property (as defined in section 1092(d)(1))".
 
-<b>1984</b>—Pub. L. 98–369, §102(e)(9), inserted at end “The preceding sentence shall not apply to the retirement of any debt instrument (whether or not through a trust or other participation arrangement).”
+<b>1984</b>—Pub. L. 98–369, §102(e)(9), inserted at end "The preceding sentence shall not apply to the retirement of any debt instrument (whether or not through a trust or other participation arrangement)."
 
-Par. (2). Pub. L. 98–369, §102(e)(4), substituted “a section 1256 contract” for “a regulated futures contract”.
+Par. (2). Pub. L. 98–369, §102(e)(4), substituted "a section 1256 contract" for "a regulated futures contract".
 
 <b>1983</b>—Pub. L. 97–448 inserted reference to a regulated futures contract (as defined in section 1256) not described in paragraph (1) which is a capital asset in the hands of the taxpayer.
 
@@ -32,7 +32,7 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title X, §1003(a)(2), Aug. 5, 1997, 111 Stat. 910, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to terminations more than 30 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1003(a)(2), Aug. 5, 1997, 111 Stat. 910, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to terminations more than 30 days after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1984 Amendment
 

@@ -6,7 +6,7 @@ No noncommercial educational broadcasting station may support or oppose any cand
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–626, in section catchline, substituted “Support of” for “Editorializing and support of”, and in text, struck out provisions which prohibited editorializing by noncommercial educational broadcasting station which receives grant from Corporation under subpart C of this part.
+<b>1988</b>—Pub. L. 100–626, in section catchline, substituted "Support of" for "Editorializing and support of", and in text, struck out provisions which prohibited editorializing by noncommercial educational broadcasting station which receives grant from Corporation under subpart C of this part.
 
 <b>1981</b>—Pub. L. 97–35 revised subsec. (a) into existing provisions and, as so revised, added requirement respecting grant under subpart C of this part, and struck out subsec. (b), which related to program recording of broadcasts where issues of public importance are discussed.
 

@@ -24,7 +24,7 @@ Transfer.—To the extent that the Director of the National Park Service has jur
 
 “(b)
 
-Area Described.—The area described in this subsection is the property which is bounded on thenorth by Pennsylvania Avenue Northwest, on the east by First Street Northwest and First Street Southwest, on the south by Maryland Avenue Southwest, and on the west by Third Street Southwest and Third Street Northwest.”
+Area Described.—The area described in this subsection is the property which is bounded on the north by Pennsylvania Avenue Northwest, on the east by First Street Northwest and First Street Southwest, on the south by Maryland Avenue Southwest, and on the west by Third Street Southwest and Third Street Northwest.”
 
 #### Recyclable Materials
 
@@ -42,11 +42,11 @@ Establishment of program.—The Architect of the Capitol shall establish a progr
 
 Exclusion of materials subject to other programs.—The program established under this section shall not apply with respect to any materials which are subject to collection and sale under—
 
-&emsp;&emsp;“(A) the third undesignated paragraph under the center heading ‘MISCELLANEOUS’ in the first section of the Act entitled ‘An Act making appropriations for sundry civil expenses of the government for the fiscal year ending June thirtieth, eighteen hundred and eighty-three, and for other purposes’, approved August 7, 1882 (2 U.S.C. 117);
+&emsp;&emsp;“(A) the third undesignated paragraph under the center heading ‘MISCELLANEOUS’ in the first section of the Act entitled ‘An Act making appropriations for sundry civil expenses of the government for the fiscal year ending June thirtieth, eighteen hundred and eighty-three, and for other purposes’, approved August 7, 1882 (2 U.S.C. 117) \[now 2 U.S.C. 6516\];
 
-&emsp;&emsp;“(B) section 104(a) of the Legislative Branch Appropriations Act, 1987 (as enacted by reference in identical form by section 101(j) of Public Law 99–500 and Public Law 99–591) (2 U.S.C. 117e);
+&emsp;&emsp;“(B) section 104(a) of the Legislative Branch Appropriations Act, 1987 (as enacted by reference in identical form by section 101(j) of Public Law 99–500 and Public Law 99–591) (2 U.S.C. 117e) \[now 2 U.S.C. 5540\];
 
-&emsp;&emsp;“(C) the Senate waste recycling program referred to in section 4 of the Legislative Branch Appropriations Act, 2001 (2 U.S.C. 121f); or
+&emsp;&emsp;“(C) the Senate waste recycling program referred to in section 4 of the Legislative Branch Appropriations Act, 2001 (2 U.S.C. 121f) \[now 2 U.S.C. 2026\]; or
 
 &emsp;&emsp;“(D) any other authorized program for the collection and sale of recyclable materials.
 

@@ -17,7 +17,7 @@
 | 39 | 1\.6&nbsp;&nbsp;&nbsp; |
 | 40 | 1\.5&nbsp;&nbsp;&nbsp; |
 | 41 | 1\.4&nbsp;&nbsp;&nbsp; |
-| 42 | 1\.3    |
+| 42 | 1\.3&nbsp;&nbsp;&nbsp; |
 | 43 | 1\.2&nbsp;&nbsp;&nbsp; |
 | 44 | 1\.1&nbsp;&nbsp;&nbsp; |
 | 45 or over | 1\.0.&nbsp;&nbsp;&nbsp;&nbsp; |
@@ -155,7 +155,7 @@ Pub. L. 90–206, title IV, §405(a), Dec. 16, 1967, 81 Stat. 648, provided that
 
 #### Effective Date of 1966 Amendment
 
-Amendment by Pub. L. 89–737 applicable with respect to premium pay payable from and after first day of first pay period which begins after date of enactment of Pub. L. 89–737, which was approved Nov. 2, 1966, see section 4 of Pub. L. 89–737, set out in the note under section 8114 of this title.
+Amendment by Pub. L. 89–737 applicable with respect to premium pay payable from and after first day offirst pay period which begins after date of enactment of Pub. L. 89–737, which was approved Nov. 2, 1966, see section 4 of Pub. L. 89–737, set out in the note under section 8114 of this title.
 
 #### Retroactive Effect of 1967 Amendment
 

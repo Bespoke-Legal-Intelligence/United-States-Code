@@ -42,11 +42,11 @@
 
 Upon the direct request of an active duty military consumer, or an individual acting on behalf of or as a personal representative of an active duty military consumer, a consumer reporting agency described in section 1681a(p) of this title that maintains a file on the active duty military consumer and has received appropriate proof of the identity of the requester shall—
 
-&emsp;(1) include an active duty alert in the file of that active duty military consumer, and also provide that alert along with any credit score generated in using that file, during a period ofnot less than 12 months, or such longer period as the Bureau shall determine, by regulation, beginning on the date of the request, unless the active duty military consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose;
+&emsp;(1) include an active duty alert in the file of that active duty military consumer, and also provide that alert along with any credit score generated in using that file, during a period of not less than 12 months, or such longer period as the Bureau shall determine, by regulation, beginning on the date of the request, unless the active duty military consumer or such representative requests that such fraud alert be removed before the end of such period, and the agency has received appropriate proof of the identity of the requester for such purpose;
 
 &emsp;(2) during the 2-year period beginning on the date of such request, exclude the active duty military consumer from any list of consumers prepared by the consumer reporting agency and provided to any third party to offer credit or insurance to the consumer as part of a transaction that was not initiated by the consumer, unless the consumer requests that such exclusion be rescinded before the end of such period; and
 
-&emsp;(3) refer the information regarding the active duty alert to each of the other consumer reporting agencies described in section 1681a(p) of this title, in accordance with procedures developed under section 1681s(f) of this title.
+&emsp;(3) refer the information regarding the active duty alert to each of the other consumerreporting agencies described in section 1681a(p) of this title, in accordance with procedures developed under section 1681s(f) of this title.
 
 #### (d) Procedures
 
@@ -94,7 +94,7 @@ If a consumer contacts any consumer reporting agency that is not described in se
 
 &emsp;&emsp;Each extended alert under this section shall include information that provides all prospective users of a consumer report relating to a consumer with—
 
-&emsp;&emsp;&emsp;(i) notification that the consumer does not authorize the establishment of any new credit plan or extension of credit described in clause (i), other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of theconsumer, or issuance of an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, except in accordance with subparagraph (B); and
+&emsp;&emsp;&emsp;(i) notification that the consumer does not authorize the establishment of any new credit plan or extension of credit described in clause (i), other than under an open-end credit plan (as defined in section 1602(i) <sup>1</sup> of this title), in the name of the consumer, or issuance of an additional card on an existing credit account requested by a consumer, or any increase in credit limit on an existing credit account requested by a consumer, except in accordance with subparagraph (B); and
 
 &emsp;&emsp;&emsp;(ii) a telephone number or other reasonable contact method designated by the consumer.
 
@@ -110,7 +110,7 @@ Section 1602(i) of this title, referred to in subsec. (h), was redesignated sect
 
 #### Amendments
 
-<b>2010</b>—Subsecs. (c)(1), (g). Pub. L. 111–203 substituted “the Bureau” for “the Commission”.
+<b>2010</b>—Subsecs. (c)(1), (g). Pub. L. 111–203 substituted "the Bureau" for "the Commission".
 
 #### Effective Date of 2010 Amendment
 
@@ -122,11 +122,11 @@ Section subject to joint regulations establishing effective dates as prescribed 
 
 #### Regulations
 
-Pub. L. 108–159, title I, §112(b), Dec. 4, 2003, 117 Stat. 1959, as amended by Pub. L. 111–203, title X, §1088(b)(1), July 21, 2010, 124 Stat. 2092, provided that: “The Bureau shall prescribe regulations to define what constitutes appropriate proof of identity for purposes of sections 605A , 605B, and 609(a)(1) of the Fair Credit Reporting Act \[15 U.S.C. 1681c–1, 1681c–2, 1681g(a)(1)\], as amended by this Act.”
+Pub. L. 108–159, title I, §112(b), Dec. 4, 2003, 117 Stat. 1959, as amended by Pub. L. 111–203, title X, §1088(b)(1), July 21, 2010, 124 Stat. 2092, provided that: "The Bureau shall prescribe regulations to define what constitutes appropriate proof of identity for purposes of sections 605A , 605B, and 609(a)(1) of the Fair Credit Reporting Act \[15 U.S.C. 1681c–1, 1681c–2, 1681g(a)(1)\], as amended by this Act."
 
 #### Public Campaign To Prevent Identity Theft
 
-Pub. L. 108–159, title I, §151(b), Dec. 4, 2003, 117 Stat. 1964, provided that: “Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2003\], the Commission shall establish and implement a media and distribution campaign to teach the public how to prevent identity theft. Such campaign shall include existing Commission education materials, as well as radio, television, and print public service announcements, video cassettes, interactive digital video discs (DVD's) or compact audio discs (CD's), and Internet resources.”
+Pub. L. 108–159, title I, §151(b), Dec. 4, 2003, 117 Stat. 1964, provided that: "Not later than 2 years after the date of enactment of this Act \[Dec. 4, 2003\], the Commission shall establish and implement a media and distribution campaign to teach the public how to prevent identity theft. Such campaign shall include existing Commission education materials, as well as radio, television, and print public service announcements, video cassettes, interactive digital video discs (DVD's) or compact audio discs (CD's), and Internet resources."
 
 \[For definitions of terms used in section 151(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
 

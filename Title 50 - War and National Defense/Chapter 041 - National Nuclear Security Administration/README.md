@@ -14,6 +14,7 @@
 | [2408\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Organization/%C2%A7%2002408%20-%20Staff%20of%20Administration.md) | Staff of Administration. |
 | [2409\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Organization/%C2%A7%2002409%20-%20Scope%20of%20authority%20of%20Secretary%20of%20Energy%20to%20modify%20organization%20of%20Administration.md) | Scope of authority of Secretary of Energy to modify organization of Administration. |
 | [2410\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Organization/%C2%A7%2002410%20-%20Status%20of%20Administration%20and%20contractor%20personnel%20within%20Department%20of%20Energy.md) | Status of Administration and contractor personnel within Department of Energy. |
+| [2411\.](Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Organization/%C2%A7%2002411%20-%20Director%20for%20Cost%20Estimating%20and%20Program%20Evaluation.md) | Director for Cost Estimating and Program Evaluation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

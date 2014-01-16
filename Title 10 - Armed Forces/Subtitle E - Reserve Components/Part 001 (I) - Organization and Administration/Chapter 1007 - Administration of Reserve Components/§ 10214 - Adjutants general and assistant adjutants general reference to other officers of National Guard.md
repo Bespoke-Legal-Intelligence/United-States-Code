@@ -10,5 +10,5 @@ Provisions similar to those in this section were contained in section 281 of thi
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–383 substituted “14508(h)” for “14508(e)”.
+<b>2011</b>—Pub. L. 111–383 substituted "14508(h)" for "14508(e)".
 

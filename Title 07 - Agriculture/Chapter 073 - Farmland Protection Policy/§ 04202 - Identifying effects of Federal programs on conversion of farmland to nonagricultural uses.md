@@ -16,5 +16,5 @@ The Department of Agriculture may make available to States, units of local gover
 
 #### Amendments
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–624 inserted “to identify the quantity of farmland actually converted by Federal programs, and” after “of this section,”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–624 inserted "to identify the quantity of farmland actually converted by Federal programs, and" after "of this section,".
 

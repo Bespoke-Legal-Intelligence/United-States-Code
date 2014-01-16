@@ -14,7 +14,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–294 substituted “does not exceed $1,000” for “does not exceed $100”.
+<b>1996</b>—Pub. L. 104–294 substituted "does not exceed $1,000" for "does not exceed $100".
 
-<b>1994</b>—Pub. L. 103–322 substituted “shall be fined under this title or not more than the amount so embezzled, whichever is greater, or imprisoned” for “shall be fined not more than the amount so embezzled or imprisoned”.
+<b>1994</b>—Pub. L. 103–322 substituted "shall be fined under this title or not more than the amount so embezzled, whichever is greater, or imprisoned" for "shall be fined not more than the amount so embezzled or imprisoned".
 

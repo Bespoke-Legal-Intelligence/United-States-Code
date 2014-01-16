@@ -24,7 +24,7 @@ In general.—Except as otherwise provided in this section, the Secretary of Tra
 
 &emsp;&emsp;(B) has been issued a USDOT number under section 31134;
 
-&emsp;&emsp;(C) has disclosed any relationship involving common ownership, common management, common control, or common familial relationship between that person and anyother motor carrier, freight forwarder, or broker, or any other applicant for motor carrier, freight forwarder, or broker registration, if the relationship occurred in the 3-year period preceding the date of the filing of the application for registration; and
+&emsp;&emsp;(C) has disclosed any relationship involving common ownership, common management, common control, or common familial relationship between that person and any other motor carrier, freight forwarder, or broker, or any other applicant for motor carrier, freight forwarder, or broker registration, if the relationship occurred in the 3-year period preceding the date of the filing of the application for registration; and
 
 &emsp;&emsp;(D) after the Secretary establishes a written proficiency examination pursuant to section 32101(b) of the Commercial Motor Vehicle Safety Enhancement Act of 2012, has passed the written proficiency examination.
 
@@ -36,7 +36,7 @@ Additional registration requirements for household goods motor carriers.—In ad
 
 &emsp;&emsp;(B) identifies its tariff and provides a copy of the notice of the availability of that tariff for inspection as required by section 13702(c);
 
-&emsp;&emsp;(C) provides evidence that it has access to, has read, is familiar with, and will observe all applicable Federal laws relating to consumer protection, estimating, consumers’ rights and responsibilities, and options for limitations of liability for loss and damage; and
+&emsp;&emsp;(C) provides evidence that it has access to, has read, is familiar with, and will observe all applicable Federal laws relating to consumer protection, estimating, consumers' rights and responsibilities, and options for limitations of liability for loss and damage; and
 
 &emsp;&emsp;(D) discloses any relationship involving common stock, common ownership, common management, or common familial relationships between that person and any other motor carrier, freight forwarder, or broker of household goods within 3 years of the proposed date of registration.
 
@@ -88,7 +88,7 @@ Treatment of certain public recipients.—Any public recipient of governmental a
 
 &emsp;(3)
 
-Intrastate transportation by interstate carriers.—A motor carrier of passengers that is registered by the Secretaryunder subsection (a) is authorized to provide regular-route transportation entirely in one State as a motor carrier of passengers if such intrastate transportation is to be provided on a route over which the carrier provides interstate transportation of passengers.
+Intrastate transportation by interstate carriers.—A motor carrier of passengers that is registered by the Secretary under subsection (a) is authorized to provide regular-route transportation entirely in one State as a motor carrier of passengers if such intrastate transportation is to be provided on a route over which the carrier provides interstate transportation of passengers.
 
 &emsp;(4)
 
@@ -96,7 +96,7 @@ Preemption of state regulation regarding certain service.—No State or politica
 
 &emsp;(5)
 
-Jurisdiction over certain intrastate transportation.—Subject to section 14501(a), any intrastate transportation authorized by this subsection shall be treated as transportation subject to jurisdiction under subchapter I of chapter 135 until such time as the carrier takes such action as is necessary to establish under the laws of such State rates, rules, and practices applicable to such transportation, but in no case later than the 30th day following the date on which the motor carrier of passengers first begins providing transportation entirely in one State under this paragraph.
+Jurisdiction over certain intrastate transportation.—Subject to section 14501(a), any intrastate transportation authorized bythis subsection shall be treated as transportation subject to jurisdiction under subchapter I of chapter 135 until such time as the carrier takes such action as is necessary to establish under the laws of such State rates, rules, and practices applicable to such transportation, but in no case later than the 30th day following the date on which the motor carrier of passengers first begins providing transportation entirely in one State under this paragraph.
 
 &emsp;(6)
 
@@ -112,7 +112,7 @@ Definitions.—In this subsection, the following definitions apply:
 
 &emsp;&emsp;(A)
 
-Public recipient of governmental assistance.—The term “public recipient of governmental assistance” means—
+Public recipient of governmental assistance.—The term "public recipient of governmental assistance" means—
 
 &emsp;&emsp;&emsp;(i) any State,
 
@@ -128,7 +128,7 @@ Public recipient of governmental assistance.—The term “public recipient of g
 
 &emsp;&emsp;(B)
 
-Private recipient of government assistance.—The term “private recipient of government assistance” means any person (other than a person described in subparagraph (A)) who before, on, or after January 1, 1996, received governmental financial assistance in the form of a subsidy for the purchase, lease, or operation of any bus.
+Private recipient of government assistance.—The term "private recipient of government assistance" means any person (other than a person described in subparagraph (A)) who before, on, or after January 1, 1996, received governmental financial assistance in the form of a subsidy for the purchase, lease, or operation of any bus.
 
 (c)
 
@@ -164,7 +164,7 @@ Publication; comment.—Unless the President, or the delegate thereof, determine
 
 &emsp;(6)
 
-Delegation to secretary.—The President may delegate any or all authority underthis subsection to the Secretary, who shall consult with other agencies as appropriate. In accordance with the directions of the President, the Secretary may issue regulations to enforce this subsection.
+Delegation to secretary.—The President may delegate any or all authority under this subsection to the Secretary, who shall consult with other agencies as appropriate. In accordance with the directions of the President, the Secretary may issue regulations to enforce this subsection.
 
 &emsp;(7)
 
@@ -188,7 +188,7 @@ In general.—Pending the implementation of the rulemaking required by section 1
 
 &emsp;(2)
 
-Definitions.—In this subsection, the terms “motor common carrier” and “motor contract carrier” have the meaning such terms had under section 10102 as such section was in effect on December 31, 1995.
+Definitions.—In this subsection, the terms "motor common carrier" and "motor contract carrier" have the meaning such terms had under section 10102 as such section was in effect on December 31, 1995.
 
 &emsp;(3)
 
@@ -230,11 +230,11 @@ Pre-existing certificates and permits.—The Secretary shall redesignate any mot
 
 &emsp;(3)
 
-Transition termination date defined.—In this section, the term “transition termination date” means the first day of January occurring more than 12 months after the date of enactment of the Unified Carrier Registration Act of 2005.
+Transition termination date defined.—In this section, the term "transition termination date" means the first day of January occurring more than 12 months after the date of enactment of the Unified Carrier Registration Act of 2005.
 
 (g)
 
-Motor Carrier Defined.—In this section and sections 13905 and 13906, the term “motor carrier” includes foreign motor private carriers.
+Motor Carrier Defined.—In this section and sections 13905 and 13906, the term "motor carrier" includes foreign motor private carriers.
 
 (h)
 
@@ -264,15 +264,15 @@ Registration as Freight Forwarder or Broker Required.—A motor carrier register
 
 &emsp;(2) may not arrange transportation described in paragraph (1) unless the motor carrier has obtained a separate registration as a freight forwarder or broker for transportation under section 13903 or 13904, as applicable.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 880; amended Pub. L. 104–287, §5(32), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 106–159, title II, §205, Dec. 9, 1999, 113 Stat. 1762; Pub. L. 109–59, title IV, §§4113(b), 4204, 4303(c), Aug. 10, 2005, 119 Stat. 1725, 1753, 1762; Pub. L. 110–291, §2, July 30, 2008, 122 Stat. 2915; Pub. L. 112–141, div. C, title II, §§32101(a), 32107(a), 32111, 32915, 32921(a), July 6, 2012, 126 Stat. 777, 781, 783, 820, 827.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 880; amended Pub. L. 104–287, §5(32),Oct. 11, 1996, 110 Stat. 3391; Pub. L. 106–159, title II, §205, Dec. 9, 1999, 113 Stat. 1762; Pub. L. 109–59, title IV, §§4113(b), 4204, 4303(c), Aug. 10, 2005, 119 Stat. 1725, 1753, 1762; Pub. L. 110–291, §2, July 30, 2008, 122 Stat. 2915; Pub. L. 112–141, div. C, title II, §§32101(a), 32107(a), 32111, 32915, 32921(a), July 6, 2012, 126 Stat. 777, 781, 783, 820, 827.)
 
 #### Amendment of Subsection (a)(2)
 
 <i>Pub. L. 112–141, §3, div. C, title II, §32921(a), (c), July 6, 2012, 126 Stat. 413, 827, 828, provided that, effective 2 years after the date of enactment of Pub. L. 112–141 (see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways), subsection (a)(2) of this section is amended:</i>
 
-<i>(1) in subparagraph (B), by striking “section 13702(c);” and inserting “section 13702(c); and”;</i>
+<i>(1) in subparagraph (B), by striking "section 13702(c);" and inserting "section 13702(c); and";</i>
 
-<i>(2) by amending subparagraph (C) to read “(C) demonstrates, before being registered, through successful completion of a proficiency examination established by the Secretary, knowledge and intent to comply with applicable Federal laws relating to consumer protection, estimating, consumers’ rights and responsibilities, and options for limitations of liability for loss and damage.”; and</i>
+<i>(2) by amending subparagraph (C) to read "(C) demonstrates, before being registered, through successful completion of a proficiency examination established by the Secretary, knowledge and intent to comply with applicable Federal laws relating to consumer protection, estimating, consumers' rights and responsibilities, and options for limitations of liability for loss and damage."; and</i>
 
 <i>(3) by striking subparagraph (D).</i>
 
@@ -310,31 +310,31 @@ Provisions similar to those in this section were contained in section 10922 of t
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §32915(1)(A), inserted “using self-propelled vehicles the motor carrier owns, rents, or leases” after “motor carrier” in introductory provisions.
+<b>2012</b>—Subsec. (a)(1). Pub. L. 112–141, §32915(1)(A), inserted "using self-propelled vehicles the motor carrier owns, rents, or leases" after "motor carrier" in introductory provisions.
 
-Pub. L. 112–141, §32101(a), amended par. (1) generally. Prior to amendment, text read as follows: “Except as provided in this section, the Secretary shall register a person to provide transportation subject to jurisdiction under subchapter I of chapter 135 of this title as a motor carrier if the Secretary finds that the person is willing and able to comply with—
+Pub. L. 112–141, §32101(a), amended par. (1) generally. Prior to amendment, text read as follows: "Except as provided in this section, the Secretary shall register a person to provide transportation subject to jurisdiction under subchapter I of chapter 135 of this title as a motor carrier if the Secretary finds that the person is willing and able to comply with—
 
-&emsp;“(A) this part and the applicable regulations of the Secretary and the Board;
+&emsp;"(A) this part and the applicable regulations of the Secretary and the Board;
 
-&emsp;“(B)(i) any safety regulations imposed by the Secretary;
+&emsp;"(B)(i) any safety regulations imposed by the Secretary;
 
-&emsp;“(ii) the duties of employers and employees established by the Secretary under section 31135; and
+&emsp;"(ii) the duties of employers and employees established by the Secretary under section 31135; and
 
-&emsp;“(iii) the safety fitness requirements established by the Secretary under section 31144;
+&emsp;"(iii) the safety fitness requirements established by the Secretary under section 31144;
 
-&emsp;“(C) the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus; and
+&emsp;"(C) the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus; and
 
-&emsp;“(D) the minimum financial responsibility requirements established by the Secretary pursuant to sections 13906 and 31138.”
+&emsp;"(D) the minimum financial responsibility requirements established by the Secretary pursuant to sections 13906 and 31138."
 
-Subsec. (a)(2)(B). Pub. L. 112–141, §32921(a)(1), substituted “section 13702(c); and” for “section 13702(c);”.
+Subsec. (a)(2)(B). Pub. L. 112–141, §32921(a)(1), substituted "section 13702(c); and" for "section 13702(c);".
 
-Subsec. (a)(2)(C). Pub. L. 112–141, §32921(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “provides evidence that it has access to, has read, is familiar with, and will observe all applicable Federal laws relating to consumer protection, estimating, consumers’ rights and responsibilities, and options for limitations of liability for loss and damage; and”.
+Subsec. (a)(2)(C). Pub. L. 112–141, §32921(a)(2), amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: "provides evidence that it has access to, has read, is familiar with, and will observe all applicable Federal laws relating to consumer protection, estimating, consumers' rights and responsibilities, and options for limitations of liability for loss and damage; and".
 
-Subsec. (a)(2)(D). Pub. L. 112–141, §32921(a)(3), struck out subpar. (D) which read as follows: “discloses any relationship involving common stock, common ownership, common management, or common familial relationships between that person and any other motor carrier, freight forwarder, or broker of household goods within 3 years of the proposed date of registration.”
+Subsec. (a)(2)(D). Pub. L. 112–141, §32921(a)(3), struck out subpar. (D) which read as follows: "discloses any relationship involving common stock, common ownership, common management, or common familial relationships between that person and any other motor carrier, freight forwarder, or broker of household goods within 3 years of the proposed date of registration."
 
 Subsec. (a)(6). Pub. L. 112–141, §32915(1)(B), added par. (6).
 
-Subsec. (e)(1). Pub. L. 112–141, §32111, substituted “a motor carrier” for “a motor vehicle” and “order the motor carrier operations” for “order the vehicle”.
+Subsec. (e)(1). Pub. L. 112–141, §32111, substituted "a motor carrier" for "a motor vehicle" and "order the motor carrier operations" for "order the vehicle".
 
 Subsec. (h). Pub. L. 112–141, §32107(a), added subsec. (h).
 
@@ -342,23 +342,23 @@ Subsec. (i). Pub. L. 112–141, §32915(2), added subsec. (i).
 
 <b>2008</b>—Subsec. (a)(1)(C), (D). Pub. L. 110–291, §2(a), added subpar. (C) and redesignated former subpar. (C) as (D).
 
-Subsec. (a)(5). Pub. L. 110–291, §2(b), inserted “(including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus)” after “Board”.
+Subsec. (a)(5). Pub. L. 110–291, §2(b), inserted "(including the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue, for transportation provided by an over-the-road bus)" after "Board".
 
-<b>2005</b>—Subsec. (a)(1)(B). Pub. L. 109–59, §4113(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “any safety regulations imposed by the Secretary and the safety fitness requirements established by the Secretary under section 31144; and”.
+<b>2005</b>—Subsec. (a)(1)(B). Pub. L. 109–59, §4113(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "any safety regulations imposed by the Secretary and the safety fitness requirements established by the Secretary under section 31144; and".
 
 Subsec. (a)(2), (3). Pub. L. 109–59, §4204(1), (3), added pars. (2) and (3) and struck out former pars. (2) and (3) which read as follows:
 
-“(2)
+"(2)
 
 Consideration of evidence; findings.—The Secretary shall consider and, to the extent applicable, make findings on, any evidence demonstrating that the registrant is unable to comply with the requirements of subparagraph (A), (B), or (C) of paragraph (1).
 
-“(3)
+"(3)
 
-Withholding.—If the Secretary determines that any registrant under this section does not meet the requirements of paragraph (1), the Secretary shall withhold registration.”
+Withholding.—If the Secretary determines that any registrant under this section does not meet the requirements of paragraph (1), the Secretary shall withhold registration."
 
 Subsec. (a)(4). Pub. L. 109–59, §4204(3), added par. (4). Former par. (4) redesignated (5).
 
-Subsec. (a)(5). Pub. L. 109–59, §4204(2), (4), redesignated par. (4) as (5) and inserted at end “In the case of a registration for the transportation of household goods as a household goods motor carrier, the Secretary may also hear a complaint on the ground that the registrant fails or will fail to comply with the requirements of paragraph (2) of this subsection.”
+Subsec. (a)(5). Pub. L. 109–59, §4204(2), (4), redesignated par. (4) as (5) and inserted at end "In the case of a registration for the transportation of household goods as a household goods motor carrier, the Secretary may also hear a complaint on the ground that the registrant fails or will fail to comply with the requirements of paragraph (2) of this subsection."
 
 Subsec. (d)(3). Pub. L. 109–59, §4303(c)(1), added par. (3).
 
@@ -366,193 +366,193 @@ Subsecs. (f), (g). Pub. L. 109–59, §4303(c)(2), added subsec. (f) and redesig
 
 <b>1999</b>—Subsecs. (e), (f). Pub. L. 106–159 added subsec. (e) and redesignated former subsec. (e) as (f).
 
-<b>1996</b>—Subsec. (b)(8)(A). Pub. L. 104–287, §5(32)(A), inserted “and” after “any Indian tribe,” in cl. (iv), struck out “and” after “clause (i), (ii), (iii), or (iv),” in cl. (v), and substituted “January 1, 1996,” for “the effective date of this subsection” in concluding provisions.
+<b>1996</b>—Subsec. (b)(8)(A). Pub. L. 104–287, §5(32)(A), inserted "and" after "any Indian tribe," in cl. (iv), struck out "and" after "clause (i), (ii), (iii), or (iv)," in cl. (v), and substituted "January 1, 1996," for "the effective date of this subsection" in concluding provisions.
 
-Subsec. (b)(8)(B). Pub. L. 104–287, §5(32)(B), substituted “January 1, 1996,” for “the effective date of this paragraph”.
+Subsec. (b)(8)(B). Pub. L. 104–287, §5(32)(B), substituted "January 1, 1996," for "the effective date of this paragraph".
 
-Subsecs. (c)(4)(A), (d)(1)(A), (2). Pub. L. 104–287, §5(32)(C), substituted “December 31, 1995” for “the day before the effective date of this section”.
+Subsecs. (c)(4)(A), (d)(1)(A), (2). Pub. L. 104–287, §5(32)(C), substituted "December 31, 1995" for "the day before the effective date of this section".
 
 #### Effective Date of 2012 Amendment
 
 Amendment by sections 32101(a), 32107(a), 32111, and 32915 of Pub. L. 112–141 effective Oct. 1, 2012, see section 3(a) of Pub. L. 112–141, set out as an Effective and Termination Dates of 2012 Amendment note under section 101 of Title 23, Highways.
 
-Pub. L. 112–141, div. C, title II, §32921(c), July 6, 2012, 126 Stat. 828, provided that: “The amendments made by this section \[amending this section and section 31144 of this title\] shall take effect 2 years after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\].”
+Pub. L. 112–141, div. C, title II, §32921(c), July 6, 2012, 126 Stat. 828, provided that: "The amendments made by this section \[amending this section and section 31144 of this title\] shall take effect 2 years after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\]."
 
 #### Regulations
 
-Pub. L. 109–59, title IV, §4308, Aug. 10, 2005, 119 Stat. 1774, provided that: “The Secretary \[of Transportation\] may issue such regulations as the Secretary determines are necessary to carry out this subtitle \[subtitle C (§§4301–4308) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\] and the amendments made by this subtitle.”
+Pub. L. 109–59, title IV, §4308, Aug. 10, 2005, 119 Stat. 1774, provided that: "The Secretary \[of Transportation\] may issue such regulations as the Secretary determines are necessary to carry out this subtitle \[subtitle C (§§4301–4308) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\] and the amendments made by this subtitle."
 
 #### Deemed References to Chapters 509 and 511 of Title 51
 
-General references to “this title” deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
+General references to "this title" deemed to refer also to chapters 509 and 511 of Title 51, National and Commercial Space Programs, see section 4(d)(8) of Pub. L. 111–314, set out as a note under section 101 of this title.
 
 #### Written Proficiency Examination
 
-Pub. L. 112–141, div. C, title II, §32101(b), July 6, 2012, 126 Stat. 777, provided that: “Not later than 18 months after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall establish through a rulemaking a written proficiency examination for applicant motor carriers pursuant to section 13902(a)(1)(D) of title 49, United States Code. The written proficiency examination shall test a person's knowledge of applicable safety regulations, standards, and orders of the Federal government.”
+Pub. L. 112–141, div. C, title II, §32101(b), July 6, 2012, 126 Stat. 777, provided that: "Not later than 18 months after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall establish through a rulemaking a written proficiency examination for applicant motor carriers pursuant to section 13902(a)(1)(D) of title 49, United States Code. The written proficiency examination shall test a person's knowledge of applicable safety regulations, standards, and orders of the Federal government."
 
 #### Deadline for Implementation of Registration Requirements
 
-Pub. L. 110–291, §4, July 30, 2008, 122 Stat. 2915, provided that: “Not later than 30 days after the date of enactment of this Act \[July 30, 2008\], the Secretary shall take necessary actions to implement the changes required by the amendment made by section 2(a) \[amending this section\] relating to registration of motor carriers providing transportation by an over-the-road bus.”
+Pub. L. 110–291, §4, July 30, 2008, 122 Stat. 2915, provided that: "Not later than 30 days after the date of enactment of this Act \[July 30, 2008\], the Secretary shall take necessary actions to implement the changes required by the amendment made by section 2(a) \[amending this section\] relating to registration of motor carriers providing transportation by an over-the-road bus."
 
 #### Coordination With Department of Justice
 
-Pub. L. 110–291, §5, July 30, 2008, 122 Stat. 2916, provided that: “Not later than 6 months after the date of enactment of this Act \[July 30, 2008\], the Secretary of Transportation and the Attorney General shall enter into a memorandum of understanding to delineate the specific roles and responsibilities of the Department of Transportation and the Department of Justice, respectively, in enforcing the compliance of motor carriers of passengers providing transportation by an over-the-road bus (as defined in section 13102 of title 49, United States Code) with the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue. Such memorandum shall recognize the Department of Transportation's statutory responsibilities as clarified by this Act \[see Short Title of 2008 Amendment note set out under section 10101 of this title\] (including the amendments made by this Act).”
+Pub. L. 110–291, §5, July 30, 2008, 122 Stat. 2916, provided that: "Not later than 6 months after the date of enactment of this Act \[July 30, 2008\], the Secretary of Transportation and the Attorney General shall enter into a memorandum of understanding to delineate the specific roles and responsibilities of the Department of Transportation and the Department of Justice, respectively, in enforcing the compliance of motor carriers of passengers providing transportation by an over-the-road bus (as defined in section 13102 of title 49, United States Code) with the accessibility requirements established by the Secretary under subpart H of part 37 of title 49, Code of Federal Regulations, or such successor regulations to those accessibility requirements as the Secretary may issue. Such memorandum shall recognize the Department of Transportation's statutory responsibilities as clarified by this Act \[see Short Title of 2008 Amendment note set out under section 10101 of this title\] (including the amendments made by this Act)."
 
 #### Authority of Mexican Motor Carriers To Operate Beyond United States Municipalities and Commercial Zones on United States-Mexico Border
 
 Pub. L. 110–28, title VI, §6901, May 25, 2007, 121 Stat. 183, provided that:
 
-“(a) Hereafter, funds limited or appropriated for the Department of Transportation may be obligated or expended to grant authority to a Mexico-domiciled motor carrier to operate beyond United States municipalities and commercial zones on the United States-Mexico border only to the extent that—
+"(a) Hereafter, funds limited or appropriated for the Department of Transportation may be obligated or expended to grant authority to a Mexico-domiciled motor carrier to operate beyond United States municipalities and commercial zones on the United States-Mexico border only to the extent that—
 
-&emsp;“(1) granting such authority is first tested as part of a pilot program;
+&emsp;"(1) granting such authority is first tested as part of a pilot program;
 
-&emsp;“(2) such pilot program complies with the requirements of section 350 of Public Law 107–87 \[set out below\] and the requirements of section 31315(c) of title 49, United States Code, related to pilot programs; and
+&emsp;"(2) such pilot program complies with the requirements of section 350 of Public Law 107–87 \[set out below\] and the requirements of section 31315(c) of title 49, United States Code, related to pilot programs; and
 
-&emsp;“(3) simultaneous and comparable authority to operate within Mexico is made available to motor carriers domiciled in the United States.
+&emsp;"(3) simultaneous and comparable authority to operate within Mexico is made available to motor carriers domiciled in the United States.
 
-“(b) Prior to the initiation of the pilot program described in subsection (a) in any fiscal year—
+"(b) Prior to the initiation of the pilot program described in subsection (a) in any fiscal year—
 
-&emsp;“(1) the Inspector General of the Department of Transportation shall transmit to Congress and the Secretary of Transportation a report verifying compliance with each of the requirements of subsection (a) of section 350 of Public Law 107–87, including whether the Secretary of Transportation has established sufficient mechanisms to apply Federal motor carrier safety laws and regulations to motor carriers domiciled in Mexico that are granted authority to operate beyond the United States municipalities and commercial zones on the United States-Mexico border and to ensure compliance with such laws and regulations; and
+&emsp;"(1) the Inspector General of the Department of Transportation shall transmit to Congress and the Secretary of Transportation a report verifying compliance with each of the requirements of subsection (a) of section 350 of Public Law 107–87, including whether the Secretary of Transportation has established sufficient mechanisms to apply Federal motor carrier safety laws and regulations to motor carriers domiciled in Mexico that are granted authority to operate beyond the United States municipalities and commercial zones on the United States-Mexico border and to ensure compliance with such laws and regulations; and
 
-&emsp;“(2) the Secretary of Transportation shall—
+&emsp;"(2) the Secretary of Transportation shall—
 
-&emsp;&emsp;“(A) take such action as may be necessary to address any issues raised in the report of the Inspector General under subsection (b)(1) and submit a report to Congress detailing such actions; and
+&emsp;&emsp;"(A) take such action as may be necessary to address any issues raised in the report of the Inspector General under subsection (b)(1) and submit a report to Congress detailing such actions; and
 
-&emsp;&emsp;“(B) publish in the Federal Register, and provide sufficient opportunity for public notice and comment—
+&emsp;&emsp;"(B) publish in the Federal Register, and provide sufficient opportunity for public notice and comment—
 
-&emsp;&emsp;&emsp;“(i) comprehensive data and information on the pre-authorization safety audits conducted before and after the date of enactment of this Act \[May 25, 2007\] of motor carriers domiciled in Mexico that are granted authority to operate beyond the United States municipalities and commercial zones on the United States-Mexico border;
+&emsp;&emsp;&emsp;"(i) comprehensive data and information on the pre-authorization safety audits conducted before and after the date of enactment of this Act \[May 25, 2007\] of motor carriers domiciled in Mexico that are granted authority to operate beyond the United States municipalities and commercial zones on the United States-Mexico border;
 
-&emsp;&emsp;&emsp;“(ii) specific measures to be required to protect the health and safety of the public, including enforcement measures and penalties for noncompliance;
+&emsp;&emsp;&emsp;"(ii) specific measures to be required to protect the health and safety of the public, including enforcement measures and penalties for noncompliance;
 
-&emsp;&emsp;&emsp;“(iii) specific measures to be required to ensure compliance with section 391.11(b)(2) and section 365.501(b) of title 49, Code of Federal Regulations;
+&emsp;&emsp;&emsp;"(iii) specific measures to be required to ensure compliance with section 391.11(b)(2) and section 365.501(b) of title 49, Code of Federal Regulations;
 
-&emsp;&emsp;&emsp;“(iv) specific standards to be used to evaluate the pilot program and compare any change in the level of motor carrier safety as a result of the pilot program; and
+&emsp;&emsp;&emsp;"(iv) specific standards to be used to evaluate the pilot program and compare any change in the level of motor carrier safety as a result of the pilot program; and
 
-&emsp;&emsp;&emsp;“(v) a list of Federal motor carrier safety laws and regulations, including the commercial drivers license requirements, for which the Secretary of Transportation will accept compliance with a corresponding Mexican law or regulation as the equivalent to compliance with the United States law or regulation, including for each law or regulation an analysis as to how the corresponding United States and Mexican laws and regulations differ.
+&emsp;&emsp;&emsp;"(v) a list of Federal motor carrier safety laws and regulations, including the commercial drivers license requirements, for which the Secretary of Transportation will accept compliance with a corresponding Mexican law or regulation as the equivalent to compliance with the United States law or regulation, including for each law or regulation an analysis as to how the corresponding United States and Mexican laws and regulations differ.
 
-“(c) During and following the pilot program described in subsection (a), the Inspector General of the Department of Transportation shall monitor and review the conduct of the pilot program and submit to Congress and the Secretary of Transportation an interim report, 6 months after the commencement of the pilot program, and a final report, within 60 days after the conclusion of the pilot program. Such reports shall address whether—
+"(c) During and following the pilot program described in subsection (a), the Inspector General of the Department of Transportation shall monitor and review the conduct of the pilot program and submit to Congress and the Secretary of Transportation an interim report, 6 months after the commencement of the pilot program, and a final report, within 60 days after the conclusion of the pilot program. Such reports shall address whether—
 
-&emsp;“(1) the Secretary of Transportation has established sufficient mechanisms to determine whether the pilot program is having any adverse effects on motor carrier safety;
+&emsp;"(1) the Secretary of Transportation has established sufficient mechanisms to determine whether the pilot program is having any adverse effects on motor carrier safety;
 
-&emsp;“(2) Federal and State monitoring and enforcement activities are sufficient to ensure that participants in the pilot program are in compliance with all applicable laws and regulations; and
+&emsp;"(2) Federal and State monitoring and enforcement activities are sufficient to ensure that participants in the pilot program are in compliance with all applicable laws and regulations; and
 
-&emsp;“(3) the pilot program consists of a representative and adequate sample of Mexico-domiciled carriers likely to engage in cross-border operations beyond United States municipalities and commercial zones on the United States-Mexico border.
+&emsp;"(3) the pilot program consists of a representative and adequate sample of Mexico-domiciled carriers likely to engage in cross-border operations beyond United States municipalities and commercial zones on the United States-Mexico border.
 
-“(d) In the event that the Secretary of Transportation in any fiscal year seeks to grant operating authority for the purpose of initiating cross-border operations beyond United States municipalities and commercial zones on the United States-Mexico border either with Mexico-domiciled motor coaches or Mexico-domiciled commercial motor vehicles carrying placardable quantities of hazardous materials, such activities shall be initiated only after the conclusion of a separate pilot program limited to vehicles of the pertinent type. Each such separate pilot program shall follow the same requirements and processes stipulated under subsections (a) through (c) of this section and shall be planned, conducted and evaluated in concert with the Department of Homeland Security or its Inspector General, as appropriate, so as to address any and all security concerns associated with such cross-border operations.”
+"(d) In the event that the Secretary of Transportation in any fiscal year seeks to grant operating authority for the purpose of initiating cross-border operations beyond United States municipalities and commercial zones on the United States-Mexico border either with Mexico-domiciled motor coaches or Mexico-domiciled commercial motor vehicles carrying placardable quantities of hazardous materials, such activities shall be initiated only after the conclusion of a separate pilot program limited to vehicles of the pertinent type. Each such separate pilot program shall follow the same requirements and processes stipulated under subsections (a) through (c) of this section and shall be planned, conducted and evaluated in concert with the Department of Homeland Security or its Inspector General, as appropriate, so as to address any and all security concerns associated with such cross-border operations."
 
 #### Relationship to Other Laws
 
-Pub. L. 109–59, title IV, §4302, Aug. 10, 2005, 119 Stat. 1761, provided that: “Except as provided in section 14504 of title 49, United States Code, and sections 14504a and 14506 of title 49, United States Code, as added by this subtitle, this subtitle \[subtitle C (§§4301–4308) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\] is not intended to prohibit any State or any political subdivision of any State from enacting, imposing, or enforcing any law or regulation with respect to a motor carrier, motor private carrier, broker, freight forwarder, or leasing company that is not otherwise prohibited by law.”
+Pub. L. 109–59, title IV, §4302, Aug. 10, 2005, 119 Stat. 1761, provided that: "Except as provided in section 14504 of title 49, United States Code, and sections 14504a and 14506 of title 49, United States Code, as added by this subtitle, this subtitle \[subtitle C (§§4301–4308) of title IV of Pub. L. 109–59, see Short Title of 2005 Amendment note set out under section 10101 of this title\] is not intended to prohibit any State or any political subdivision of any State from enacting, imposing, or enforcing any law or regulation with respect to a motor carrier, motor private carrier, broker, freight forwarder, or leasing company that is not otherwise prohibited by law."
 
 #### Safety of Cross-Border Trucking Between United States and Mexico
 
 Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
 
-“(a) No funds limited or appropriated in this Act \[see Tables for classification\] may be obligated or expended for the review or processing of an application by a Mexican motor carrier for authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border until the Federal Motor Carrier Safety Administration—
+"(a) No funds limited or appropriated in this Act \[see Tables for classification\] may be obligated or expended for the review or processing of an application by a Mexican motor carrier for authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border until the Federal Motor Carrier Safety Administration—
 
-&emsp;“(1)(A) requires a safety examination of such motor carrier to be performed before the carrier is granted conditional operating authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border;
+&emsp;"(1)(A) requires a safety examination of such motor carrier to be performed before the carrier is granted conditional operating authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border;
 
-&emsp;“(B) requires the safety examination to include—
+&emsp;"(B) requires the safety examination to include—
 
-&emsp;&emsp;“(i) verification of available performance data and safety management programs;
+&emsp;&emsp;"(i) verification of available performance data and safety management programs;
 
-&emsp;&emsp;“(ii) verification of a drug and alcohol testing program consistent with part 40 of title 49, Code of Federal Regulations;
+&emsp;&emsp;"(ii) verification of a drug and alcohol testing program consistent with part 40 of title 49, Code of Federal Regulations;
 
-&emsp;&emsp;“(iii) verification of that motor carrier's system of compliance with hours-of-service rules, including hours-of-service records;
+&emsp;&emsp;"(iii) verification of that motor carrier's system of compliance with hours-of-service rules, including hours-of-service records;
 
-&emsp;&emsp;“(iv) verification of proof of insurance;
+&emsp;&emsp;"(iv) verification of proof of insurance;
 
-&emsp;&emsp;“(v) a review of available data concerning that motor carrier's safety history, and other information necessary to determine the carrier's preparedness to comply with Federal Motor Carrier Safety rules and regulations and Hazardous Materials rules and regulations;
+&emsp;&emsp;"(v) a review of available data concerning that motor carrier's safety history, and other information necessary to determine the carrier's preparedness to comply with Federal Motor Carrier Safety rules and regulations and Hazardous Materials rules and regulations;
 
-&emsp;&emsp;“(vi) an inspection of that Mexican motor carrier's commercial vehicles to be used under such operating authority, if any such commercial vehicles have not received a decal from the inspection required in subsection (a)(5);
+&emsp;&emsp;"(vi) an inspection of that Mexican motor carrier's commercial vehicles to be used under such operating authority, if any such commercial vehicles have not received a decal from the inspection required in subsection (a)(5);
 
-&emsp;&emsp;“(vii) an evaluation of that motor carrier's safety inspection, maintenance, and repair facilities or management systems, including verification of records of periodic vehicle inspections;
+&emsp;&emsp;"(vii) an evaluation of that motor carrier's safety inspection, maintenance, and repair facilities or management systems, including verification of records of periodic vehicle inspections;
 
-&emsp;&emsp;“(viii) verification of drivers’ qualifications, including a confirmation of the validity of the Licencia de Federal de Conductor of each driver of that motor carrier who will be operating under such authority; and
+&emsp;&emsp;"(viii) verification of drivers' qualifications, including a confirmation of the validity of the Licencia de Federal de Conductor of each driver of that motor carrier who will be operating under such authority; and
 
-&emsp;&emsp;“(ix) an interview with officials of that motor carrier to review safety management controls and evaluate any written safety oversight policies and practices.
+&emsp;&emsp;"(ix) an interview with officials of that motor carrier to review safety management controls and evaluate any written safety oversight policies and practices.
 
-&emsp;“(C) requires that—
+&emsp;"(C) requires that—
 
-&emsp;&emsp;“(i) Mexican motor carriers with three or fewer commercial vehicles need not undergo on-site safety examination; however 50 percent of all safety examinations of all Mexican motor carriers shall be conducted onsite; and
+&emsp;&emsp;"(i) Mexican motor carriers with three or fewer commercial vehicles need not undergo on-site safety examination; however 50 percent of all safety examinations of all Mexican motor carriers shall be conducted onsite; and
 
-&emsp;&emsp;“(ii) such on-site inspections shall cover at least 50 percent of estimated truck traffic in any year.
+&emsp;&emsp;"(ii) such on-site inspections shall cover at least 50 percent of estimated truck traffic in any year.
 
-&emsp;“(2) requires a full safety compliance review of the carrier consistent with the safety fitness evaluation procedures set forth in part 385 of title 49, Code of Federal Regulations, and gives the motor carrier a satisfactory rating, before the carrier is granted permanent operating authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border, and requires that any such safety compliance review take place within 18 months of that motor carrier being granted conditional operating authority, provided that—
+&emsp;"(2) requires a full safety compliance review of the carrier consistent with the safety fitness evaluation procedures set forth in part 385 of title 49, Code of Federal Regulations, and gives the motor carrier a satisfactory rating, before the carrier is granted permanent operating authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border, and requires that any such safety compliance review take place within 18 months of that motor carrier being granted conditional operating authority, provided that—
 
-&emsp;&emsp;“(A) Mexican motor carriers with three or fewer commercial vehicles need not undergo onsite compliance review; however 50 percent of all compliance reviews of all Mexican motor carriers shall be conducted on-site; and
+&emsp;&emsp;"(A) Mexican motor carriers with three or fewer commercial vehicles need not undergo onsite compliance review; however 50 percent of all compliance reviews of all Mexican motor carriers shall be conducted on-site; and
 
-&emsp;&emsp;“(B) any Mexican motor carrier with 4 or more commercial vehicles that did not undergo an on-site safety exam under (a)(1)(C), shall undergo an on-site safety compliance review under this section.
+&emsp;&emsp;"(B) any Mexican motor carrier with 4 or more commercial vehicles that did not undergo an on-site safety exam under (a)(1)(C), shall undergo an on-site safety compliance review under this section.
 
-&emsp;“(3) requires Federal and State inspectors to verify electronically the status and validity of the license of each driver of a Mexican motor carrier commercial vehicle crossing the border;
+&emsp;"(3) requires Federal and State inspectors to verify electronically the status and validity of the license of each driver of a Mexican motor carrier commercial vehicle crossing the border;
 
-&emsp;&emsp;“(A) for every such vehicle carrying a placardable quantity of hazardous materials;
+&emsp;&emsp;"(A) for every such vehicle carrying a placardable quantity of hazardous materials;
 
-&emsp;&emsp;“(B) whenever the inspection required in subsection (a)(5) is performed; and
+&emsp;&emsp;"(B) whenever the inspection required in subsection (a)(5) is performed; and
 
-&emsp;&emsp;“(C) randomly for other Mexican motor carrier commercial vehicles, but in no case less than 50 percent of all other such commercial vehicles.
+&emsp;&emsp;"(C) randomly for other Mexican motor carrier commercial vehicles, but in no case less than 50 percent of all other such commercial vehicles.
 
-&emsp;“(4) gives a distinctive Department of Transportation number to each Mexican motor carrier operating beyond the commercial zone to assist inspectors in enforcing motor carrier safety regulations including hours-of-service rules under part 395 of title 49, Code of Federal Regulations;
+&emsp;"(4) gives a distinctive Department of Transportation number to each Mexican motor carrier operating beyond the commercial zone to assist inspectors in enforcing motor carrier safety regulations including hours-of-service rules under part 395 of title 49, Code of Federal Regulations;
 
-&emsp;“(5) requires, with the exception of Mexican motor carriers that have been granted permanent operating authority for three consecutive years—
+&emsp;"(5) requires, with the exception of Mexican motor carriers that have been granted permanent operating authority for three consecutive years—
 
-&emsp;&emsp;“(A) inspections of all commercial vehicles of Mexican motor carriers authorized, or seeking authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border that do not display a valid Commercial Vehicle Safety Alliance inspection decal, by certified inspectors in accordance with the requirements for a Level I Inspection under the criteria of the North American Standard Inspection (as defined in section 350.105 of title 49, Code of Federal Regulations), including examination of the driver, vehicle exterior and vehicle under-carriage;
+&emsp;&emsp;"(A) inspections of all commercial vehicles of Mexican motor carriers authorized, or seeking authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border that do not display a valid Commercial Vehicle Safety Alliance inspection decal, by certified inspectors in accordance with the requirements for a Level I Inspection under the criteria of the North American Standard Inspection (as defined in section 350.105 of title 49, Code of Federal Regulations), including examination of the driver, vehicle exterior and vehicle under-carriage;
 
-&emsp;&emsp;“(B) a Commercial Vehicle Safety Alliance decal to be affixed to each such commercial vehicle upon completion of the inspection required by clause (A) or a re-inspection if the vehicle has met the criteria for the Level I inspection; and
+&emsp;&emsp;"(B) a Commercial Vehicle Safety Alliance decal to be affixed to each such commercial vehicle upon completion of the inspection required by clause (A) or a re-inspection if the vehicle has met the criteria for the Level I inspection; and
 
-&emsp;&emsp;“(C) that any such decal, when affixed, expire at the end of a period of not more than 90 days, but nothing in this paragraph shall be construed to preclude the Administration from requiring reinspection of a vehicle bearing a valid inspection decal or from requiring that such a decal be removed when a certified Federal or State inspector determines that such a vehicle has a safety violation subsequent to the inspection for which the decal was granted.
+&emsp;&emsp;"(C) that any such decal, when affixed, expire at the end of a period of not more than 90 days, but nothing in this paragraph shall be construed to preclude the Administration from requiring reinspection of a vehicle bearing a valid inspection decal or from requiring that such a decal be removed when a certified Federal or State inspector determines that such a vehicle has a safety violation subsequent to the inspection for which the decal was granted.
 
-&emsp;“(6) requires State inspectors who detect violations of Federal motor carrier safety laws or regulations to enforce them or notify Federal authorities of such violations;
+&emsp;"(6) requires State inspectors who detect violations of Federal motor carrier safety laws or regulations to enforce them or notify Federal authorities of such violations;
 
-&emsp;“(7)(A) equips all United States-Mexico commercial border crossings with scales suitable for enforcement action; equips 5 of the 10 such crossings that have the highest volume of commercial vehicle traffic with weigh-in-motion (WIM) systems; ensures that the remaining 5 such border crossings are equipped within 12 months; requires inspectors to verify the weight of each Mexican motor carrier commercial vehicle entering the United States at said WIM equipped high volume border crossings; and
+&emsp;"(7)(A) equips all United States-Mexico commercial border crossings with scales suitable for enforcement action; equips 5 of the 10 such crossings that have the highest volume of commercial vehicle traffic with weigh-in-motion (WIM) systems; ensures that the remaining 5 such border crossings are equipped within 12 months; requires inspectors to verify the weight of each Mexican motor carrier commercial vehicle entering the United States at said WIM equipped high volume border crossings; and
 
-&emsp;“(B) initiates a study to determine which other crossings should also be equipped with weigh-in-motion systems;
+&emsp;"(B) initiates a study to determine which other crossings should also be equipped with weigh-in-motion systems;
 
-&emsp;“(8) the Federal Motor Carrier Safety Administration has implemented a policy to ensure that no Mexican motor carrier will be granted authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border unless that carrier provides proof of valid insurance with an insurance company licensed in the United States;
+&emsp;"(8) the Federal Motor Carrier Safety Administration has implemented a policy to ensure that no Mexican motor carrier will be granted authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border unless that carrier provides proof of valid insurance with an insurance company licensed in the United States;
 
-&emsp;“(9) requires commercial vehicles operated by a Mexican motor carrier to enter the United States only at commercial border crossings where and when a certified motor carrier safety inspector is on duty and where adequate capacity exists to conduct a sufficient number of meaningful vehicle safety inspections and to accommodate vehicles placed out-of-service as a result of said inspections.
+&emsp;"(9) requires commercial vehicles operated by a Mexican motor carrier to enter the United States only at commercial border crossings where and when a certified motor carrier safety inspector is on duty and where adequate capacity exists to conduct a sufficient number of meaningful vehicle safety inspections and to accommodate vehicles placed out-of-service as a result of said inspections.
 
-&emsp;“(10) publishes—
+&emsp;"(10) publishes—
 
-&emsp;&emsp;“(A) interim final regulations under section 210(b) of the Motor Carrier Safety Improvement Act of 1999 \[Pub. L. 106–159\] (49 U.S.C. 31144 note) that establish minimum requirements for motor carriers, including foreign motor carriers, to ensure they are knowledgeable about Federal safety standards, that may include the administration of a proficiency examination;
+&emsp;&emsp;"(A) interim final regulations under section 210(b) of the Motor Carrier Safety Improvement Act of 1999 \[Pub. L. 106–159\] (49 U.S.C. 31144 note) that establish minimum requirements for motor carriers, including foreign motor carriers, to ensure they are knowledgeable about Federal safety standards, that may include the administration of a proficiency examination;
 
-&emsp;&emsp;“(B) interim final regulations under section 31148 of title 49, United States Code, that implement measures to improve training and provide for the certification of motor carrier safety auditors;
+&emsp;&emsp;"(B) interim final regulations under section 31148 of title 49, United States Code, that implement measures to improve training and provide for the certification of motor carrier safety auditors;
 
-&emsp;&emsp;“(C) a policy under sections 218(a) and (b) of that Act (49 U.S.C. 31133 note) establishing standards for the determination of the appropriate number of Federal and State motor carrier inspectors for the United States-Mexico border;
+&emsp;&emsp;"(C) a policy under sections 218(a) and (b) of that Act (49 U.S.C. 31133 note) establishing standards for the determination of the appropriate number of Federal and State motor carrier inspectors for the United States-Mexico border;
 
-&emsp;&emsp;“(D) a policy under section 219(d) of that Act (49 U.S.C. 14901 note) that prohibits foreign motor carriers from leasing vehicles to another carrier to transport products to the United States while the lessor is subject to a suspension, restriction, or limitation on its right to operate in the United States; and
+&emsp;&emsp;"(D) a policy under section 219(d) of that Act (49 U.S.C. 14901 note) that prohibits foreign motor carriers from leasing vehicles to another carrier to transport products to the United States while the lessor is subject to a suspension, restriction, or limitation on its right to operate in the United States; and
 
-&emsp;&emsp;“(E) a policy under section 219(a) of that Act (49 U.S.C. 14901 note) that prohibits foreign motor carriers from operating in the United States that is found to have operated illegally in the United States.
+&emsp;&emsp;"(E) a policy under section 219(a) of that Act (49 U.S.C. 14901 note) that prohibits foreign motor carriers from operating in the United States that is found to have operated illegally in the United States.
 
-“(b) No vehicles owned or leased by a Mexican motor carrier and carrying hazardous materials in a placardable quantity may be permitted to operate beyond a United States municipality or commercial zone until the United States has completed an agreement with the Government of Mexico which ensures that drivers of such vehicles carrying such placardable quantities of hazardous materials meet substantially the same requirements as United States drivers carrying such materials.
+"(b) No vehicles owned or leased by a Mexican motor carrier and carrying hazardous materials in a placardable quantity may be permitted to operate beyond a United States municipality or commercial zone until the United States has completed an agreement with the Government of Mexico which ensures that drivers of such vehicles carrying such placardable quantities of hazardous materials meet substantially the same requirements as United States drivers carrying such materials.
 
-“(c) No vehicles owned or leased by a Mexican motor carrier may be permitted to operate beyond United States municipalities and commercial zones under conditional or permanent operating authority granted by the Federal Motor Carrier Safety Administration until—
+"(c) No vehicles owned or leased by a Mexican motor carrier may be permitted to operate beyond United States municipalities and commercial zones under conditional or permanent operating authority granted by the Federal Motor Carrier Safety Administration until—
 
-&emsp;“(1) the Department of Transportation Inspector General conducts a comprehensive review of border operations within 180 days of enactment \[probably means date of enactment of this Act, which was approved Dec. 18, 2001\] to verify that—
+&emsp;"(1) the Department of Transportation Inspector General conducts a comprehensive review of border operations within 180 days of enactment \[probably means date of enactment of this Act, which was approved Dec. 18, 2001\] to verify that—
 
-&emsp;&emsp;“(A) all new inspector positions funded under this Act \[see Tables for classification\] have been filled and the inspectors have been fully trained;
+&emsp;&emsp;"(A) all new inspector positions funded under this Act \[see Tables for classification\] have been filled and the inspectors have been fully trained;
 
-&emsp;&emsp;“(B) each inspector conducting on-site safety compliance reviews in Mexico consistent with thesafety fitness evaluation procedures set forth in part 385 of title 49, Code of Federal Regulations, is fully trained as a safety specialist;
+&emsp;&emsp;"(B) each inspector conducting on-site safety compliance reviews in Mexico consistent with the safety fitness evaluation procedures set forth in part 385 of title 49, Code of Federal Regulations, is fully trained as a safety specialist;
 
-&emsp;&emsp;“(C) the requirement of subparagraph (a)(2) has not been met by transferring experienced inspectors from other parts of the United States to the United States-Mexico border, undermining the level of inspection coverage and safety elsewhere in the United States;
+&emsp;&emsp;"(C) the requirement of subparagraph (a)(2) has not been met by transferring experienced inspectors from other parts of the United States to the United States-Mexico border, undermining the level of inspection coverage and safety elsewhere in the United States;
 
-&emsp;&emsp;“(D) the Federal Motor Carrier Safety Administration has implemented a policy to ensure compliance with hours-of-service rules under part 395 of title 49, Code of Federal Regulations, by Mexican motor carriers seeking authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border;
+&emsp;&emsp;"(D) the Federal Motor Carrier Safety Administration has implemented a policy to ensure compliance with hours-of-service rules under part 395 of title 49, Code of Federal Regulations, by Mexican motor carriers seeking authority to operate beyond United States municipalities and commercial zones on the United States-Mexico border;
 
-&emsp;&emsp;“(E) the information infrastructure of the Mexican government is sufficiently accurate, accessible, and integrated with that of United States enforcement authorities to allow United States authorities to verify the status and validity of licenses, vehicle registrations, operating authority and insurance of Mexican motor carriers while operating in the United States, and that adequate telecommunications links exist at all United States-Mexico border crossings used by Mexican motor carrier commercial vehicles, and in all mobile enforcement units operating adjacent to the border, to ensure that licenses, vehicle registrations, operating authority and insurance information can be easily and quickly verified at border crossings or by mobile enforcement units;
+&emsp;&emsp;"(E) the information infrastructure of the Mexican government is sufficiently accurate, accessible, and integrated with that of United States enforcement authorities to allow United States authorities to verify the status and validity of licenses, vehicle registrations, operating authority and insurance of Mexican motor carriers while operating in the United States, and that adequate telecommunications links exist at all United States-Mexico border crossings used by Mexican motor carrier commercial vehicles, and in all mobile enforcement units operating adjacent to the border, to ensure that licenses, vehicle registrations, operating authority and insurance information can be easily and quickly verified at border crossings or by mobile enforcement units;
 
-&emsp;&emsp;“(F) there is adequate capacity at each United States-Mexico border crossing used by Mexican motor carrier commercial vehicles to conduct a sufficient number of meaningful vehicle safety inspections and to accommodate vehicles placed out-of-service as a result of said inspections;
+&emsp;&emsp;"(F) there is adequate capacity at each United States-Mexico border crossing used by Mexicanmotor carrier commercial vehicles to conduct a sufficient number of meaningful vehicle safety inspections and to accommodate vehicles placed out-of-service as a result of said inspections;
 
-&emsp;&emsp;“(G) there is an accessible database containing sufficiently comprehensive data to allow safety monitoring of all Mexican motor carriers that apply for authority to operate commercial vehicles beyond United States municipalities and commercial zones on the United States-Mexico border and the drivers of those vehicles; and
+&emsp;&emsp;"(G) there is an accessible database containing sufficiently comprehensive data to allow safety monitoring of all Mexican motor carriers that apply for authority to operate commercial vehicles beyond United States municipalities and commercial zones on the United States-Mexico border and the drivers of those vehicles; and
 
-&emsp;&emsp;“(H) measures are in place to enable United States law enforcement authorities to ensure the effective enforcement and monitoring of license revocation and licensing procedures of Mexican motor carriers.
+&emsp;&emsp;"(H) measures are in place to enable United States law enforcement authorities to ensure the effective enforcement and monitoring of license revocation and licensing procedures of Mexican motor carriers.
 
-&emsp;“(2) The Secretary of Transportation certifies in writing in a manner addressing the Inspector General's findings in paragraphs (c)(1)(A) through (c)(1)(H) of this section that the opening of the border does not pose an unacceptable safety risk to the American public.
+&emsp;"(2) The Secretary of Transportation certifies in writing in a manner addressing the Inspector General's findings in paragraphs (c)(1)(A) through (c)(1)(H) of this section that the opening of the border does not pose an unacceptable safety risk to the American public.
 
-“(d) The Department of Transportation Inspector General shall conduct another review using the criteria in (c)(1)(A) through (c)(1)(H) consistent with paragraph (c) of this section, 180 days after the first review is completed, and at least annually thereafter.
+"(d) The Department of Transportation Inspector General shall conduct another review using the criteria in (c)(1)(A) through (c)(1)(H) consistent with paragraph (c) of this section, 180 days after the first review is completed, and at least annually thereafter.
 
-“(e) For purposes of this section, the term ‘Mexican motor carrier’ shall be defined as a Mexico-domiciled motor carrier operating beyond United States municipalities and commercial zones on the United States-Mexico border.
+"(e) For purposes of this section, the term 'Mexican motor carrier' shall be defined as a Mexico-domiciled motor carrier operating beyond United States municipalities and commercial zones on the United States-Mexico border.
 
-“(f) In addition to amounts otherwise made available in this Act, to be derived from the Highway Trust Fund, there is hereby appropriated to the Federal Motor Carrier Safety Administration, $25,866,000 for the salary, expense, and capital costs associated with the requirements of this section.”
+"(f) In addition to amounts otherwise made available in this Act, to be derived from the Highway Trust Fund, there is hereby appropriated to the Federal Motor Carrier Safety Administration, $25,866,000 for the salary, expense, and capital costs associated with the requirements of this section."
 
 #### Limited Modification to Moratorium on Issuance of Certificates or Permits With Respect to Mexico
 
@@ -560,7 +560,7 @@ Memorandum of President of the United States, May 6, 1993, 58 F.R. 27647, provid
 
 Memorandum for the Secretary of Transportation
 
-Section 6 of the Bus Regulatory Reform Act of 1982 \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\] imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country. The Act \[Pub. L. 97–261, see Tables for classification\] authorized the President to remove the moratorium in whole or in part for any country or political subdivision thereof upon determining that such action is in the national interest. Sixty days’ advance notice to the Congress is required whenever the removal or modification applies to a contiguous foreign country or political subdivision thereof that substantially prohibits the granting of motor carrier authority to persons from the United States.
+Section 6 of the Bus Regulatory Reform Act of 1982 \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\] imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country. The Act \[Pub. L. 97–261, see Tables for classification\] authorized the President to remove the moratorium in whole or in part for any country or political subdivision thereof upon determining that such action is in the national interest. Sixty days' advance notice to the Congress is required whenever the removal or modification applies to a contiguous foreign country or political subdivision thereof that substantially prohibits the granting of motor carrier authority to persons from the United States.
 
 I am pleased that an agreement between the United States and Mexico has been concluded to ensure fair and reciprocal treatment for charter and tour bus interests on both sides of the border. The agreement reached, however, does not allow for full access to cross-border and domestic markets. Therefore, the moratorium must reflect the conditions under which operating authority may be issued to Mexican charter and tour companies under the agreement.
 
@@ -586,13 +586,13 @@ Memorandum of President of the United States, Jan. 1, 1994, 59 F.R. 653, provide
 
 Memorandum for the Secretary of Transportation
 
-Section 6 of the Bus Regulatory Reform Act of 1982 \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\] imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by, persons of a contiguous foreign country. The Act \[Pub. L. 97–261, see Tables for classification\] authorized the President to remove the moratorium inwhole or in part for any country or political subdivision thereof upon determining that such action is in the national interest. Sixty days’ advance notice to the Congress is required whenever the removal or modification applies to a foreign contiguous country or political subdivision thereof that substantially prohibits the granting of motor carrier authority to persons from the United States.
+Section 6 of the Bus Regulatory Reform Act of 1982 \[Pub. L. 97–261, see former 49 U.S.C. 10922(m)(1), (2)\] imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by, persons of a contiguous foreign country. The Act \[Pub. L. 97–261, see Tables for classification\] authorized the President to remove the moratorium in whole or in part for any country or political subdivision thereof upon determining that such action is in the national interest. Sixty days' advance notice to the Congress is required whenever the removal or modification applies to a foreign contiguous country or political subdivision thereof that substantially prohibits the granting of motor carrier authority to persons from the United States.
 
 As set forth in the Statement of Administrative Action regarding the North American Free Trade Agreement (NAFTA) that I submitted to the Congress on November 3, 1993, the moratorium with respect to Mexico will be lifted in phases to coincide with the schedule of liberalization in the relevant provisions of the NAFTA. The NAFTA specifically states that the moratorium will not apply to the provision of cross-border charter or tour bus services as of the date of entry into force of the Agreement.
 
 This is to give public notice that, pursuant to section 6 of the Bus Regulatory Reform Act of 1982, 49 U.S.C. section 10922(l)(2)(A) \[see former 49 U.S.C. 10922(m)(2)(A)\], on November 3, 1993, I gave the Congress notice of my intention to make a limited modification to the moratorium imposed by that section and all actions taken by my predecessors under that section on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by, persons of Mexico. This modification will take effect on January 1, 1994, the 60th day after my notice to the Congress.
 
-The moratorium is modified only to authorize the Interstate Commerce Commission to grant Mexican motor carriers authority to transport passengers in charter or tour bus operations, in foreign commerce, in round-trip or one-way service between Mexico and the United States.
+The moratorium is modified only to authorize the Interstate Commerce Commission to grant Mexican motor carriers authority to transport passengers in charter or tour bus operations, in foreign commerce, inround-trip or one-way service between Mexico and the United States.
 
 This action applies only to international charter or tour bus operations, does not allow for point-to-point bus service within the United States, and does not authorize companies to conduct cross-border regular route bus service.
 
@@ -646,13 +646,13 @@ Memorandum of President of the United States, Nov. 27, 2002, 67 F.R. 71795, prov
 
 Memorandum for the Secretary of Transportation
 
-Section 6 of the Bus Regulatory Reform Act of 1982, Public Law 97–261, 96 Stat. 1103 \[see former 49 U.S.C. 10922(m)(1), (2)\], imposed a moratorium on the issuanceof certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country and authorized the President to modify the moratorium. The Interstate Commerce Commission Termination Act of 1995 (ICCTA), Public Law 104–88, 109 Stat. 803 \[ICC Termination Act of 1995, see Tables for classification\], maintained these restrictions, subject to modifications made prior to the enactment of the ICCTA \[Dec. 29, 1995\], and empowered the President to make further modifications to the moratorium.
+Section 6 of the Bus Regulatory Reform Act of 1982, Public Law 97–261, 96 Stat. 1103 \[see former 49 U.S.C. 10922(m)(1), (2)\], imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country and authorized the President to modify the moratorium. The Interstate Commerce Commission Termination Act of 1995 (ICCTA), Public Law 104–88, 109 Stat. 803 \[ICC Termination Act of 1995, see Tables for classification\], maintained these restrictions, subject to modifications made prior to the enactment of the ICCTA \[Dec. 29, 1995\], and empowered the President to make further modifications to the moratorium.
 
 Pursuant to 49 U.S.C. 13902(c)(3), I modified the moratorium on June 5, 2001, to allow motor carriers domiciled in the United States that are owned or controlled by persons of Mexico to obtain operating authority to transport international cargo by truck between points in the United States and to provide bus services between points in the United States.
 
 The North American Free Trade Agreement (NAFTA) established a schedule for liberalizing certain restrictions on the provision of bus and truck services by Mexican-domiciled motor carriers in the United States. Pursuant to 49 U.S.C. 13902(c)(3), I hereby determine that the following modifications to the moratorium are consistent with obligations of the United States under NAFTA and with our national transportation policy and that the moratorium shall be modified accordingly.
 
-First, qualified motor carriers domiciled in Mexico will be allowed to obtain operating authority to transport passengers in cross-border scheduled bus services. Second, qualified motor carriers domiciled in Mexico will be allowed to obtain operating authority to provide cross-border truck services. The moratorium on the issuance of certificates or permits to Mexican-domiciled motor carriers for the provision of truck or bus services between points in the United States will remain in place. These modifications shall be effective on the date of this memorandum.
+First, qualified motor carriers domiciled in Mexico will be allowed to obtain operating authority to transport passengers in cross-border scheduled bus services. Second, qualified motor carriers domiciled in Mexico will be allowed to obtain operating authority to provide cross-border truck services. The moratorium onthe issuance of certificates or permits to Mexican-domiciled motor carriers for the provision of truck or bus services between points in the United States will remain in place. These modifications shall be effective on the date of this memorandum.
 
 Furthermore, pursuant to 49 U.S.C. 13902(c)(5), I hereby determine that expeditious action is required to implement this modification to the moratorium. Effective on the date of this memorandum, the Department of Transportation is authorized to act on applications, submitted by motor carriers domiciled in Mexico, to obtain operating authority to provide cross-border scheduled bus services and cross-border truck services. In reviewing such applications, the Department shall continue to work closely with the Department of Justice, the Office of Homeland Security, and other relevant Federal departments, agencies, and offices in order to help ensure the security of the border and to prevent potential threats to national security.
 

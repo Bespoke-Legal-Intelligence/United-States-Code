@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-The Secretary may carry out the Great Lakes basin program for soil erosion and sediment control (referred to in this section as the “program”), including providing assistance to implement the recommendations of the Great LakesRegional Collaboration Strategy to Restore and Protect the Great Lakes.
+The Secretary may carry out the Great Lakes basin program for soil erosion and sediment control (referred to in this section as the "program"), including providing assistance to implement the recommendations of the Great Lakes Regional Collaboration Strategy to Restore and Protect the Great Lakes.
 
 #### (b) Consultation and cooperation
 

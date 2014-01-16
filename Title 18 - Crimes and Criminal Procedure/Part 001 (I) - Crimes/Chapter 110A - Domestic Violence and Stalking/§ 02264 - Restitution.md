@@ -18,7 +18,7 @@ Enforcement.—An order of restitution under this section shall be issued and en
 
 &emsp;(3)
 
-Definition.—For purposes of this subsection, the term “full amount of the victim's losses” includes any costs incurred by the victim for—
+Definition.—For purposes of this subsection, the term "full amount of the victim's losses" includes any costs incurred by the victim for—
 
 &emsp;&emsp;(A) medical services relating to physical, psychiatric, or psychological care;
 
@@ -28,7 +28,7 @@ Definition.—For purposes of this subsection, the term “full amount of the vi
 
 &emsp;&emsp;(D) lost income;
 
-&emsp;&emsp;(E) attorneys’ fees, plus any costs incurred in obtaining a civil protection order; and
+&emsp;&emsp;(E) attorneys' fees, plus any costs incurred in obtaining a civil protection order; and
 
 &emsp;&emsp;(F) any other losses suffered by the victim as a proximate result of the offense.
 
@@ -44,29 +44,29 @@ Order mandatory.—(A) The issuance of a restitution order under this section is
 
 (c)
 
-Victim Defined.—For purposes of this section, the term “victim” means the individual harmed as a result of a commission of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim's estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.
+Victim Defined.—For purposes of this section, the term "victim" means the individual harmed as a result of a commission of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim's estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.
 
 (Added Pub. L. 103–322, title IV, §40221(a), Sept. 13, 1994, 108 Stat. 1928; amended Pub. L. 104–132, title II, §205(d), Apr. 24, 1996, 110 Stat. 1231.)
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–132, §205(d)(1), inserted “or 3663A” after “3663”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–132, §205(d)(1), inserted "or 3663A" after "3663".
 
-Subsec. (b)(1). Pub. L. 104–132, §205(d)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The order of restitution under this section shall direct that—
+Subsec. (b)(1). Pub. L. 104–132, §205(d)(2)(A), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The order of restitution under this section shall direct that—
 
-&emsp;“(A) the defendant pay to the victim (through the appropriate court mechanism) the full amount of the victim's losses as determined by the court, pursuant to paragraph (3); and
+&emsp;"(A) the defendant pay to the victim (through the appropriate court mechanism) the full amount of the victim's losses as determined by the court, pursuant to paragraph (3); and
 
-&emsp;“(B) the United States Attorney enforce the restitution order by all available and reasonable means.”
+&emsp;"(B) the United States Attorney enforce the restitution order by all available and reasonable means."
 
-Subsec. (b)(2). Pub. L. 104–132, §205(d)(2)(B), struck out “by victim” after “Enforcement” in heading and amended text generally. Prior to amendment, text read as follows: “An order of restitution also may be enforced by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action.”
+Subsec. (b)(2). Pub. L. 104–132, §205(d)(2)(B), struck out "by victim" after "Enforcement" in heading and amended text generally. Prior to amendment, text read as follows: "An order of restitution also may be enforced by a victim named in the order to receive the restitution in the same manner as a judgment in a civil action."
 
 Subsec. (b)(4)(C), (D). Pub. L. 104–132, §205(d)(2)(C), struck out subpars. (C) and (D), which related to court's consideration of economic circumstances of defendant in determining schedule of payment of restitution orders, and court's entry of nominal restitution awards where economic circumstances of defendant do not allow for payment of restitution, respectively.
 
 Subsec. (b)(5) to (10). Pub. L. 104–132, §205(d)(2)(D), struck out pars. (5) to (10), which related, respectively, to more than 1 offender, more than 1 victim, payment schedule, setoff, effect on other sources of compensation, and condition of probation or supervised release.
 
-Subsec. (c). Pub. L. 104–132, §205(d)(3), (4), added subsec. (c) and struck out former subsec. (c) which read as follows: “
+Subsec. (c). Pub. L. 104–132, §205(d)(3), (4), added subsec. (c) and struck out former subsec. (c) which read as follows: "
 
-Affidavit.—Within 60 days after conviction and, in any event, not later than 10 days before sentencing, the United States Attorney (or such Attorney's delegate), after consulting with the victim, shall prepare and file an affidavit with the court listing the amounts subject to restitution under this section. The affidavit shall be signed by the United States Attorney (or the delegate) and the victim. Should the victim object to any of the information included in the affidavit, the United States Attorney (or the delegate) shall advise the victim that the victim may file a separate affidavit and assist the victim in the preparation of the affidavit.”
+Affidavit.—Within 60 days after conviction and, in any event, not later than 10 days before sentencing, the United States Attorney (or such Attorney's delegate), after consulting with the victim, shall prepare and file an affidavit with the court listing the amounts subject to restitution under this section. The affidavit shall be signed by the United States Attorney (or the delegate) and the victim. Should the victim object to any of the information included in the affidavit, the United States Attorney (or the delegate) shall advise the victim that the victim may file a separate affidavit and assist the victim in the preparation of the affidavit."
 
 Subsecs. (d) to (g). Pub. L. 104–132, §205(d)(3), struck out subsecs. (d) to (g), which related, respectively, to objection, additional documentation and testimony, final determination of losses, and restitution in addition to punishment.
 

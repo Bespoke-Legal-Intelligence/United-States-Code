@@ -10,7 +10,7 @@ Such mergers or consolidations shall be on such terms and conditions as are appr
 
 #### (c) Alteration or elimination of dividend rights
 
-Notwithstanding the provisions of section 1606(j) or (m) of this title, in any merger or consolidation in which the class of stockholders ofa Regional Corporation who are not residents of any of the villages in the region are entitled under Alaska law to vote as a class, the terms of the merger or consolidation may provide for the alteration or elimination of the right of said class to receive dividends pursuant to said section 1606(j) or (m) of this title. In the event that such dividend right is not expressly altered or eliminated by the terms of the merger or consolidation, such class of stockholders shall continue to receive such dividends pursuant to section 1606(j) or (m) of this title as would have been applicable if the merger or consolidation had not taken place and all Village Corporations within the affected region continued to exist separately.
+Notwithstanding the provisions of section 1606(j) or (m) of this title, in any merger or consolidation in which the class of stockholders of a Regional Corporation who are not residents of any of the villages in the region are entitled under Alaska law to vote as a class, the terms of the merger or consolidation may provide for the alteration or elimination of the right of said class to receive dividends pursuant to said section 1606(j) or (m) of this title. In the event that such dividend right is not expressly altered or eliminated by the terms of the merger or consolidation, such class of stockholders shall continue to receive such dividends pursuant to section 1606(j) or (m) of this title as would have been applicable if the merger or consolidation had not taken place and all Village Corporations within the affected region continued to exist separately.
 
 #### (d) Approval of merger or consolidation by shareholders
 
@@ -24,7 +24,7 @@ The plan of merger or consolidation shall provide that the right of any affected
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–241 substituted “while the Settlement Common Stock of all corporations subject to merger or consolidation remains subject to alienability restrictions.” for “prior to December 19, 1991”.
+<b>1988</b>—Subsec. (b). Pub. L. 100–241 substituted "while the Settlement Common Stock of all corporations subject to merger or consolidation remains subject to alienability restrictions." for "prior to December 19, 1991".
 
 <i><sup>1</sup></i><i> So in original.</i>
 

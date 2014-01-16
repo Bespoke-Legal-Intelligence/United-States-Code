@@ -59,7 +59,7 @@
 | 1444e–1. | Loans and purchases for 1986 through 1996 crops of corn. |
 | 1444f to 1445–2. Repealed. |  |
 | 1445–3. | Purchase of inventory stock. |
-| [1445a.](Subchapter%20002%20%28II%29%20-%20Basic%20Agricultural%20Commodities/%C2%A7%2001445a%20-%20Wheat%20price%20support%20levels%3B%20%E2%80%9Ccooperator%E2%80%9D%20defined.md) | Wheat price support levels; “cooperator” defined. |
+| [1445a.](Subchapter%20002%20%28II%29%20-%20Basic%20Agricultural%20Commodities/%C2%A7%2001445a%20-%20Wheat%20price%20support%20levels%3B%20cooperator%20defined.md) | Wheat price support levels; "cooperator" defined. |
 | 1445b to 1445c–3. Repealed, Transferred, or Omitted. |  |
 | [1445d.](Subchapter%20002%20%28II%29%20-%20Basic%20Agricultural%20Commodities/%C2%A7%2001445d%20-%20Special%20wheat%20acreage%20grazing%20and%20hay%20program%20for%201978%20through%201990%20crop%20years.md) | Special wheat acreage grazing and hay program for 1978 through 1990 crop years. |
 | [1445e.](Subchapter%20002%20%28II%29%20-%20Basic%20Agricultural%20Commodities/%C2%A7%2001445e%20-%20Farmer%20owned%20reserve%20program.md) | Farmer owned reserve program. |

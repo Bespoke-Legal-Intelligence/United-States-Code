@@ -2,7 +2,7 @@
 
 #### (a) Program development
 
-The Secretary is hereby authorized and directed to develop in cooperation with and participation by the public through conservation districts, State and national organizations and agencies, and other appropriate means, a national soil and water conservation program (hereinafter called the “program”) to be used as a guide in carrying out the activities of the Secretary which assist landowners and land users, at their request, in furthering soil and water conservation on the private and non-Federal lands of the Nation. The program shall set forth direction for future soil and water conservation efforts of the United States Department of Agriculture based on the current soil, water, and related resource appraisal developed in accordance with section 2004 of this title, taking into consideration both the long- and short-term needs of the Nation, the landowners, and the land users, and the roles and responsibilities of Federal, State, and local governments in such conservation efforts. The program shall also include but not be limited to—
+The Secretary is hereby authorized and directed to develop in cooperation with and participation by the public through conservation districts, State and national organizations and agencies, and other appropriate means, a national soil and water conservation program (hereinafter called the "program") to be used as a guide in carrying out the activities of the Secretary which assist landowners and land users, at their request, in furthering soil and water conservation on the private and non-Federal lands of the Nation. The program shall set forth direction for future soil and water conservation efforts of the United States Department of Agriculture based on the current soil, water, and related resource appraisal developed in accordance with section 2004 of this title, taking into consideration both the long- and short-term needs of the Nation, the landowners, and the land users, and the roles and responsibilities of Federal, State, and local governments in such conservation efforts. The program shall also include but not be limited to—
 
 &emsp;(1) analysis of the Nation's soil, water, and related resource problems;
 
@@ -40,11 +40,11 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (b) to (d). Pub. L. 110–246, §2804(c), added subsecs. (b) and (c), redesignated former subsec.\(b) as (d), and substituted “December 31, 2011, and December 31, 2016” for “December 31, 1979, and program updates shall be completed by December 31, 1987, December 31, 1997, and December 31, 2007”.
+<b>2008</b>—Subsecs. (b) to (d). Pub. L. 110–246, §2804(c), added subsecs. (b) and (c), redesignated former subsec. (b) as (d), and substituted "December 31, 2011, and December 31, 2016" for "December 31, 1979, and program updates shall be completed by December 31, 1987, December 31, 1997, and December 31, 2007".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–354 in first sentence of introductory provisions substituted “Secretary” for “Soil Conservation Service” before “which assist”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–354 in first sentence of introductory provisions substituted "Secretary" for "Soil Conservation Service" before "which assist".
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–198 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The program plan shall be completed not later than December 31, 1979, and be updated at each five-year interval thereafter during the period this chapter is in effect.”
+<b>1985</b>—Subsec. (b). Pub. L. 99–198 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "The program plan shall be completed not later than December 31, 1979, and be updated at each five-year interval thereafter during the period this chapter is in effect."
 
 #### Effective Date of 2008 Amendment
 

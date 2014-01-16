@@ -50,9 +50,9 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §4(i)(3); added Oct. 28, 1974, P
 
 49 App.:1653(i)(3) (2d, last sentences).
 
-In subsection (a), the words “Subject to subsection (b) of this section” are added for clarity. The word “authority” is substituted for “entity” for consistency in the revised title. The words “in accordance with regulations” and “applicable” are omitted as surplus.
+In subsection (a), the words "Subject to subsection (b) of this section" are added for clarity. The word "authority" is substituted for "entity" for consistency in the revised title. The words "in accordance with regulations" and "applicable" are omitted as surplus.
 
-In subsection (b), the words before clause (1) are substituted for “<i>Provided</i>, That” for clarity and consistency in the revised title.
+In subsection (b), the words before clause (1) are substituted for "<i>Provided</i>, That" for clarity and consistency in the revised title.
 
-In subsection (c)(2), the words “The Secretary of Transportation may not make a grant” are substituted for “The amount of the Federal share of any grant . . . shall not exceed” for clarity and consistency in this chapter.
+In subsection (c)(2), the words "The Secretary of Transportation may not make a grant" are substituted for "The amount of the Federal share of any grant . . . shall not exceed" for clarity and consistency in this chapter.
 

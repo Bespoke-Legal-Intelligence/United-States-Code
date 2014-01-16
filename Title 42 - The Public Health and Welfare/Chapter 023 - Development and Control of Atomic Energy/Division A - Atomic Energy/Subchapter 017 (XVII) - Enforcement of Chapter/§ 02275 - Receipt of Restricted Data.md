@@ -6,7 +6,7 @@ Whoever, with intent to injure the United States or with intent to secure an adv
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–65 substituted “$100,000” for “$20,000”.
+<b>1999</b>—Pub. L. 106–65 substituted "$100,000" for "$20,000".
 
 <b>1969</b>—Pub. L. 91–161 made death penalty inapplicable for willful violation, or attempted violation of this section with intent to injure the United States, or secure an advantage for any foreign nation.
 

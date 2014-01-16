@@ -18,7 +18,7 @@
 
 #### (1) International Energy Conservation Code
 
-&emsp;The energy conservation standards established under this section shall be based on the most recent version of the International Energy Conservation Code (including supplements), except in cases in which the Secretary finds that the code <sup>1</sup> is not cost-effective, or amore stringent standard would be more cost-effective, based on the impact of the code <sup>1</sup> on the purchase price of manufactured housing and on total life-cycle construction and operating costs.
+&emsp;The energy conservation standards established under this section shall be based on the most recent version of the International Energy Conservation Code (including supplements), except in cases in which the Secretary finds that the code <sup>1</sup> is not cost-effective, or a more stringent standard would be more cost-effective, based on the impact of the code <sup>1</sup> on the purchase price of manufactured housing and on total life-cycle construction and operating costs.
 
 #### (2) Considerations
 
@@ -44,5 +44,5 @@ Any manufacturer of manufactured housing that violates a provision of the regula
 
 (Pub. L. 110–140, title IV, §413, Dec. 19, 2007, 121 Stat. 1601.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Code”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Code".</i>
 

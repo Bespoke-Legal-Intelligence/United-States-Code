@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—An air carrier may not terminate interstate air transportation from a nonhub airport included on the Secretary of Transportation's latest published list of such airports, unless such air carrier has given the Secretary at least 45 days’ notice before such termination.
+In General.—An air carrier may not terminate interstate air transportation from a nonhub airport included on the Secretary of Transportation's latest published list of such airports, unless such air carrier has given the Secretary at least 45 days' notice before such termination.
 
 (b)
 
@@ -20,7 +20,7 @@ Exceptions.—The requirements of subsection (a) shall not apply when—
 
 (c)
 
-Waivers for Regional/Commuter Carriers.—Before January 1, 1995, the Secretaryshall establish terms and conditions under which regional/commuter carriers can be excluded from the termination notice requirement.
+Waivers for Regional/Commuter Carriers.—Before January 1, 1995, the Secretary shall establish terms and conditions under which regional/commuter carriers can be excluded from the termination notice requirement.
 
 (d)
 
@@ -28,15 +28,15 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Part 121 air carrier.—The term “part 121 air carrier” means an air carrier to which part 121 of title 14, Code of Federal Regulations, applies.
+Part 121 air carrier.—The term "part 121 air carrier" means an air carrier to which part 121 of title 14, Code of Federal Regulations, applies.
 
 &emsp;(2)
 
-Part 135 air carrier.—The term “part 135 air carrier” means an air carrier to which part 135 of title 14, Code of Federal Regulations, applies.
+Part 135 air carrier.—The term "part 135 air carrier" means an air carrier to which part 135 of title 14, Code of Federal Regulations, applies.
 
 &emsp;(3)
 
-Regional/commuter carriers.—The term “regional/commuter carrier” means—
+Regional/commuter carriers.—The term "regional/commuter carrier" means—
 
 &emsp;&emsp;(A) a part 135 air carrier; or
 
@@ -44,7 +44,7 @@ Regional/commuter carriers.—The term “regional/commuter carrier” means—
 
 &emsp;(4)
 
-Termination.—The term “termination” means the cessation of all service at an airport by an air carrier.
+Termination.—The term "termination" means the cessation of all service at an airport by an air carrier.
 
 (Added Pub. L. 103–305, title II, §207(a), Aug. 23, 1994, 108 Stat. 1587, §41715; amended Pub. L. 103–429, §6(53), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–287, §5(73), Oct. 11, 1996, 110 Stat. 3396; renumbered §41719, Pub. L. 106–181, title II, §231(b)(1), Apr. 5, 2000, 114 Stat. 108; Pub. L. 108–176, title II, §225(b)(1), Dec. 12, 2003, 117 Stat. 2528.)
 
@@ -54,13 +54,13 @@ This amends 49:41715(a) to conform to the style of title 49.
 
 #### Amendments
 
-<b>2003</b>—Subsec. (d). Pub. L. 108–176 redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1) which defined “nonhub airport”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–176 redesignated pars. (2) to (5) as (1) to (4), respectively, and struck out former par. (1) which defined "nonhub airport".
 
 <b>2000</b>—Pub. L. 106–181 renumbered section 41715 of this title as this section.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–287 substituted “Secretary of Transportation's” for “Secretary's”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–287 substituted "Secretary of Transportation's" for "Secretary's".
 
-<b>1994</b>—Subsec. (d)(1). Pub. L. 103–429 substituted “41731(a)(4)” for “41731(a)(3)”.
+<b>1994</b>—Subsec. (d)(1). Pub. L. 103–429 substituted "41731(a)(4)" for "41731(a)(3)".
 
 #### Effective Date of 2003 Amendment
 
@@ -68,5 +68,5 @@ Amendment by Pub. L. 108–176 applicable only to fiscal years beginning after S
 
 #### Effective Date
 
-Pub. L. 103–305, title II, §207(d), Aug. 23, 1994, 108 Stat. 1588, provided that: “The amendments made by this section \[enacting this section and amending section 46301 of this title\] shall take effect on February 1, 1995.”
+Pub. L. 103–305, title II, §207(d), Aug. 23, 1994, 108 Stat. 1588, provided that: "The amendments made by this section \[enacting this section and amending section 46301 of this title\] shall take effect on February 1, 1995."
 

@@ -30,17 +30,17 @@ The certification required by subsection (a) of this section shall be transmitte
 
 The Foreign Assistance Act of 1961, referred to in subsec. (a), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 2 of part II of that Act is classified generally to part II (§2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
-This chapter, referred to in subsec. (a)(4), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsec. (a)(4), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c)(1). Pub. L. 111–266 inserted “Israel,” before “or New Zealand”.
+<b>2010</b>—Subsec. (c)(1). Pub. L. 111–266 inserted "Israel," before "or New Zealand".
 
-<b>2008</b>—Subsec. (c)(1). Pub. L. 110–429 inserted “the Republic of Korea,” before “or New Zealand”.
+<b>2008</b>—Subsec. (c)(1). Pub. L. 110–429 inserted "the Republic of Korea," before "or New Zealand".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–164, §141(e)(1)(A), substituted “Before” for “Not less than 30 days before”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–164, §141(e)(1)(A), substituted "Before" for "Not less than 30 days before".
 
-Subsec. (b). Pub. L. 104–164, §141(e)(1)(B), substituted “states in his certification” for “determines, and immediately reports to the Congress” and inserted at end “If the President states in his certification that such an emergency exists, he shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that the lease be entered into immediately and a discussion of the national security interests involved.”
+Subsec. (b). Pub. L. 104–164, §141(e)(1)(B), substituted "states in his certification" for "determines, and immediately reports to the Congress" and inserted at end "If the President states in his certification that such an emergency exists, he shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that the lease be entered into immediately and a discussion of the national security interests involved."
 
 Subsec. (c). Pub. L. 104–164, §141(e)(1)(C), added subsec. (c).
 
@@ -50,5 +50,5 @@ Amendment by Pub. L. 104–164 applicable with respect to certifications require
 
 #### Delegation of Functions
 
-Functions of President under subsec. (a) of this section delegated to Secretary of Defense by section 1(r) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+For delegation of functions of the President under subsec. (a) of this section, see section 1(t) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 

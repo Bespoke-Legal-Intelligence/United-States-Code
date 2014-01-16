@@ -16,9 +16,9 @@ Historical and Revision Notes
 
 21502
 
-36:4903 (words before 8th comma less “gratuitously or otherwise”).
+36:4903 (words before 8th comma less "gratuitously or otherwise").
 
-Jan. 30, 1913, ch. 21, §3 (words before 8th comma less “gratuitously or otherwise”), 37 Stat. 654.
+Jan. 30, 1913, ch. 21, §3 (words before 8th comma less "gratuitously or otherwise"), 37 Stat. 654.
 
-The word “maintain” is substituted for “establish, maintain, and conduct” to eliminate executed and unnecessary words. The word “aid” is omitted as included in “care”.
+The word "maintain" is substituted for "establish, maintain, and conduct" to eliminate executed and unnecessary words. The word "aid" is omitted as included in "care".
 

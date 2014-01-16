@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is established in the Multinational Species Conservation Fund a separate account to be known as the “Great Ape Conservation Fund”, consisting of—
+There is established in the Multinational Species Conservation Fund a separate account to be known as the "Great Ape Conservation Fund", consisting of—
 
 &emsp;(1) amounts transferred to the Secretary of the Treasury for deposit into the Fund under subsection (e) of this section;
 
@@ -60,5 +60,5 @@ The Secretary may accept and use donations to provide assistance under section 6
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(2). Pub. L. 109–363 substituted “expend” for “expand” and “$100,000” for “$80,000”.
+<b>2006</b>—Subsec. (b)(2). Pub. L. 109–363 substituted "expend" for "expand" and "$100,000" for "$80,000".
 

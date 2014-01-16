@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is created as an agency of the United States of America a body corporate to be known as the Inter-American Foundation (hereinafter in this section referred to as the “Foundation”).
+There is created as an agency of the United States of America a body corporate to be known as the Inter-American Foundation (hereinafter in this section referred to as the "Foundation").
 
 #### (b) Congressional declaration of purpose
 
@@ -24,7 +24,7 @@ The Foundation shall carry out the purposes set forth in subsection (b) of this 
 
 #### (d) Coordination of activities with national and international agencies
 
-In carrying out its functions under this section, the Foundation shall, to the maximum extent possible, coordinate its undertakings with the developmental activities in the Western Hemisphere of the various organs of the Organization of American States, the United States Government, international organizations, and other entities engaged in promoting social and economic development of Latin America.
+In carrying out its functions under this section, the Foundation shall, to the maximum extent possible, coordinate its undertakings with the developmental activities in the Western Hemisphere of the various organs of the Organization of American States, the United States Government, international organizations, andother entities engaged in promoting social and economic development of Latin America.
 
 #### (e) Powers and functions
 
@@ -58,7 +58,7 @@ Upon termination of the corporate life of the Foundation all of its assets shall
 
 #### (g) Board of directors; number, term, and appointment
 
-The management of the Foundation shall be vested in a board of directors (hereafter in this section referred to as the “Board”) composed of nine members appointed by the President, by and with the advice and consent of the Senate, one of whom he shall designate to serve as Chairman of the Board and one of whom he shall designate to serve as Vice Chairman of the Board. Six members of the Board shall be appointed from private life. Three members of the Board shall be appointed from among the following: officers or employees of agencies of the United States concerned with inter-American affairs, the United States Executive Director of the Inter-American Development Bank, or the Alternate Executive Director of the Inter-American Development Bank. Members of the Board shall be appointed for terms of six years, except that of the members first appointed two shall be appointed for terms of two years and two shall be appointed for terms of four years, as designated by the President at the time of their appointment. A member of the Board appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term; but upon the expiration of his term of office a member shall continue to serve until his successor is appointed and shall have qualified. Members of the Board shall be eligible for reappointment. All individuals appointed to the Board shall possess an understanding of and sensitivity to community level development processes. No more than 5 members of the Board may be members of any one political party.
+The management of the Foundation shall be vested in a board of directors (hereafter in this section referred to as the "Board") composed of nine members appointed by the President, by and with the advice and consent of the Senate, one of whom he shall designate to serve as Chairman of the Board and one of whom he shall designate to serve as Vice Chairman of the Board. Six members of the Board shall be appointed from private life. Three members of the Board shall be appointed from among the following: officers or employees of agencies of the United States concerned with inter-American affairs, the United States Executive Director of the Inter-American Development Bank, or the Alternate Executive Director of the Inter-American Development Bank. Members of the Board shall be appointed for terms of six years, except that of the members first appointed two shall be appointed for terms of two years and two shall be appointed for terms of four years, as designated by the President at the time of their appointment. A member of the Board appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term; but upon the expiration of his term of office a member shall continue to serve until his successor is appointed and shall have qualified. Members of the Board shall be eligible for reappointment. All individuals appointed to the Board shall possess an understanding of and sensitivity to community level development processes. No more than 5 members of the Board may be members of any one political party.
 
 #### (h) Reimbursement of expenses
 
@@ -78,7 +78,7 @@ In furtherance and not in limitation of the powers conferred upon it, the Board 
 
 #### (l) President of Foundation: appointment and compensation; employment of experts and consultants
 
-(1) The chief executive officer of the Foundation shall be a President who shall be appointed by the Board of Directors on such terms as the Board may determine. The President shall receive compensation at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
+(1) The chief executive officer of the Foundation shall be a President who shall be appointedby the Board of Directors on such terms as the Board may determine. The President shall receive compensation at the rate provided for level IV of the Executive Schedule under section 5315 of title 5.
 
 (2) Experts and consultants, or organizations thereof, may be employed as authorized by section 3109 of title 5.
 
@@ -88,7 +88,7 @@ In order to further the purposes of the Foundation there shall be established a 
 
 #### (n) Nonprofit nature of the Foundation; conflict of interests
 
-The Foundation shall be a nonprofit corporation and shall have no capital stock. No part of its revenue earnings, or other income or property shall inure to the benefit of its directors,officers, and employees and such revenue, earnings, or other income, or property shall be used for the carrying out of the corporate purposes set forth in this section. No director, officer, or employee of the corporation shall in any manner directly or indirectly participate in the deliberation upon or the determination of any question affecting his personal interests or the interests of any corporation, partnership, or organization in which he is directly or indirectly interested.
+The Foundation shall be a nonprofit corporation and shall have no capital stock. No part of its revenue earnings, or other income or property shall inure to the benefit of its directors, officers, and employees and such revenue, earnings, or other income, or property shall be used for the carrying out of the corporate purposes set forth in this section. No director, officer, or employee of the corporation shall in any manner directly or indirectly participate in the deliberation upon or the determination of any question affecting his personal interests or the interests of any corporation, partnership, or organization in which he is directly or indirectly interested.
 
 #### (o) Personnel; service in foreign governments or agencies
 
@@ -132,55 +132,55 @@ Funds made available to the Foundation may be used for printing and binding with
 
 #### References in Text
 
-The Foreign Assistance Act of 1961, referred to in subsec. (s)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as a note under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+The Foreign Assistance Act of 1961, referred to in subsec. (s)(1), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424. Part I of the Foreign Assistance Act of 1961 is classified generally to subchapter I (§2151 et seq.) of chapter 32 of this title. For provisions deeming references to subchapter I to include parts IV (§2346 et seq.), VI (§2348 et seq.), and VIII (§2349aa et seq.) of subchapter II of chapter 32, see section 202(b) of Pub. L. 92–226, set out as anote under section 2346 of this title, and sections 2348c and 2349aa–5 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Codification
 
 Repeal of section by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(c)(2)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–118, did not become effective pursuant to section 1000(a)(2) \[title V, §586\] of div. B of Pub. L. 106–113, formerly set out as an Abolition of the Inter-American Foundation note below.
 
-In subsec. (t), “chapter 91 of title 31” substituted for “the Government Corporation Control Act \[31 U.S.C. 841 et seq.\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (t), "chapter 91 of title 31" substituted for "the Government Corporation Control Act \[31 U.S.C. 841 et seq.\]" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-<b>2007</b>—Subsec. (g). Pub. L. 110–38 amended third sentence generally. Prior to amendment, third sentence read as follows: “Three members of the Board shall be appointed from among officers or employees of agencies of the United States concerned with inter-American affairs.”
+<b>2007</b>—Subsec. (g). Pub. L. 110–38 amended third sentence generally. Prior to amendment, third sentence read as follows: "Three members of the Board shall be appointed from among officers or employees of agencies of the United States concerned with inter-American affairs."
 
 <b>1991</b>—Subsec. (g). Pub. L. 102–138, §173(b)(1), inserted provision at end that all individuals appointed to the Board possess an understanding of and sensitivity to community level development processes and that no more than 5 members of the Board be of any one political party.
 
-Subsec. (q). Pub. L. 102–138, §173(c), amended subsec. (q) generally. Prior to amendment, subsec. (q) read as follows: “The Foundation shall establish a principal office. The Foundation is authorized to establish agencies, branch offices, or other offices in any place or places within the United States or elsewhere in any of which locations the Foundation may carry on all or any of its operations and business.”
+Subsec. (q). Pub. L. 102–138, §173(c), amended subsec. (q) generally. Prior to amendment, subsec. (q) read as follows: "The Foundation shall establish a principal office. The Foundation is authorized to establish agencies, branch offices, or other offices in any place or places within the United States or elsewhere in any of which locations the Foundation may carry on all or any of its operations and business."
 
 Subsec. (s)(2). Pub. L. 102–138, §173(a), amended first sentence generally, substituting present provisions for provisions authorizing appropriations of $16,932,000 for fiscal year 1990 and $25,000,000 for fiscal year 1991.
 
 Subsecs. (v), (w). Pub. L. 102–138, §173(d), added subsecs. (v) and (w).
 
-<b>1990</b>—Subsec. (s)(2). Pub. L. 101–246 amended first sentence generally, substituting “$16,932,000 for the fiscal year 1990 and $25,000,000 for the fiscal year 1991” for “$11,969,000 for fiscal year 1986 and $12,969,000 for fiscal year 1987 (not less than $1,000,000 of which shall be for Haiti)”.
+<b>1990</b>—Subsec. (s)(2). Pub. L. 101–246 amended first sentence generally, substituting "$16,932,000 for the fiscal year 1990 and $25,000,000 for the fiscal year 1991" for "$11,969,000 for fiscal year 1986 and $12,969,000 for fiscal year 1987 (not less than $1,000,000 of which shall be for Haiti)".
 
-<b>1986</b>—Subsec. (g). Pub. L. 99–529, §403(a), substituted “nine members” for “seven members” and “Six members” for “Four members”.
+<b>1986</b>—Subsec. (g). Pub. L. 99–529, §403(a), substituted "nine members" for "seven members" and "Six members" for "Four members".
 
-Subsec. (s)(2). Pub. L. 99–529, §202(e), substituted “$12,969,000 for fiscal year 1987 (not less than $1,000,000 of which shall be for Haiti)” for “$11,969,000 for fiscal year 1987”.
+Subsec. (s)(2). Pub. L. 99–529, §202(e), substituted "$12,969,000 for fiscal year 1987 (not less than $1,000,000 of which shall be for Haiti)" for "$11,969,000 for fiscal year 1987".
 
 <b>1985</b>—Subsec. (s)(2). Pub. L. 99–83 substituted provisions authorizing appropriations of $11,969,000 for each of fiscal years 1986 and 1987, for provisions authorizing appropriations of $16,000,000 for each of fiscal years 1984 and 1985.
 
-<b>1983</b>—Subsec. (s)(2). Pub. L. 98–164 substituted “$16,000,000 for the fiscal year 1984 and $16,000,000 for the fiscal year 1985” for “$12,000,000 for the fiscal year 1982 and $12,800,000 for the fiscal year 1983”.
+<b>1983</b>—Subsec. (s)(2). Pub. L. 98–164 substituted "$16,000,000 for the fiscal year 1984 and $16,000,000 for the fiscal year 1985" for "$12,000,000 for the fiscal year 1982 and $12,800,000 for the fiscal year 1983".
 
-<b>1982</b>—Subsec. (h). Pub. L. 97–241, §501(b), substituted “travel expenses, including per diem in lieu of subsistence, in accordance with section 5703 of title 5” for “actual and necessary expenses not in excess of $50 per day, and for transportation expenses”.
+<b>1982</b>—Subsec. (h). Pub. L. 97–241, §501(b), substituted "travel expenses, including per diem in lieu of subsistence, in accordance with section 5703 of title 5" for "actual and necessary expenses not in excess of $50 per day, and for transportation expenses".
 
-Subsec. (s)(2). Pub. L. 97–241, §501(a), substituted “$12,000,000 for the fiscal year 1982 and $12,800,000 for the fiscal year 1983” for “$25,000,000 for each of the fiscal years 1979 and 1980”.
+Subsec. (s)(2). Pub. L. 97–241, §501(a), substituted "$12,000,000 for the fiscal year 1982 and $12,800,000 for the fiscal year 1983" for "$25,000,000 for each of the fiscal years 1979 and 1980".
 
 Subsec. (u). Pub. L. 97–241, §501(c), added subsec. (u).
 
 <b>1977</b>—Subsec. (s). Pub. L. 95–105 designated existing provisions as par. (1) and added par. (2).
 
-<b>1972</b>—Pub. L. 92–226, §406(3), substituted “Foundation” for “Institute” wherever appearing in subsecs. (b) to (g), (i), (j) to (r), and (t).
+<b>1972</b>—Pub. L. 92–226, §406(3), substituted "Foundation" for "Institute" wherever appearing in subsecs. (b) to (g), (i), (j) to (r), and (t).
 
-Subsec. (a). Pub. L. 92–226, §406(2), substituted “Inter-American Foundation” and “Foundation” for “Inter-American Social Development Institute” and “Institute”.
+Subsec. (a). Pub. L. 92–226, §406(2), substituted "Inter-American Foundation" and "Foundation" for "Inter-American Social Development Institute" and "Institute".
 
-Subsec. (e)(4). Pub. L. 92–226, §406(4), inserted “, including expenses for representation (not to exceed $10,000 in any fiscal year),”.
+Subsec. (e)(4). Pub. L. 92–226, §406(4), inserted ", including expenses for representation (not to exceed $10,000 in any fiscal year),".
 
-Subsec. (l). Pub. L. 92–226, §406(5), designated existing provisions as par. (1), substituted “Foundation” for “Institute” and “President” for “Executive Director” in two places, and added par. (2).
+Subsec. (l). Pub. L. 92–226, §406(5), designated existing provisions as par. (1), substituted "Foundation" for "Institute" and "President" for "Executive Director" in two places, and added par. (2).
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–529, title IV, §403(b), Oct. 24, 1986, 100 Stat. 3019, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect 120 days after the date of enactment of this Act \[Oct. 24, 1986\].”
+Pub. L. 99–529, title IV, §403(b), Oct. 24, 1986, 100 Stat. 3019, provided that: "The amendments made by subsection (a) \[amending this section\] shall take effect 120 days after the date of enactment of this Act \[Oct. 24, 1986\]."
 
 #### Effective Date of 1985 Amendment
 
@@ -188,7 +188,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Short Title
 
-Pub. L. 91–175, pt. IV, Dec. 30, 1969, 83 Stat. 821, as amended by Pub. L. 92–226, pt. IV, §406(1), Feb. 7, 1972, 86 Stat. 34, which enacted this section, designated as the “Inter-American Foundation Act”.
+Pub. L. 91–175, pt. IV, Dec. 30, 1969, 83 Stat. 821, as amended by Pub. L. 92–226, pt. IV, §406(1), Feb. 7, 1972, 86 Stat. 34, which enacted this section, designated as the "Inter-American Foundation Act".
 
 #### Abolition of Inter-American Foundation
 
@@ -196,7 +196,7 @@ Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586\], Nov. 29, 1999, 113 S
 
 #### Transition Rule for Board Appointments
 
-Pub. L. 102–138, title I, §173(b)(2), Oct. 28, 1991, 105 Stat. 680, provided that: “The requirements established by the amendment made by paragraph (1) \[amending this section\] do not affect appointments made to the Board of the Inter-American Foundation before the date of enactment of this Act \[Oct. 28, 1991\].”
+Pub. L. 102–138, title I, §173(b)(2), Oct. 28, 1991, 105 Stat. 680, provided that: "The requirements established by the amendment made by paragraph (1) \[amending this section\] do not affect appointments made to the Board of the Inter-American Foundation before the date of enactment of this Act \[Oct. 28, 1991\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “devise,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "devise,".</i>
 

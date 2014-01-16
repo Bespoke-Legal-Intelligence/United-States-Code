@@ -2,7 +2,7 @@
 
 #### (a) Appointment by Board
 
-There shall be an Executive Secretary of the Foundation who shall be appointed by the Board. The Executive Secretary shall be thechief executive officer of the Foundation and shall carry out the functions of the Foundation subject to the supervision and direction of the Board. The Executive Secretary shall carry out such other functions consistent with the provisions of this chapter as the Board shall prescribe.
+There shall be an Executive Secretary of the Foundation who shall be appointed by the Board. The Executive Secretary shall be the chief executive officer of the Foundation and shall carry out the functions of the Foundation subject to the supervision and direction of the Board. The Executive Secretary shall carry out such other functions consistent with the provisions of this chapter as the Board shall prescribe.
 
 #### (b) Compensation
 
@@ -12,5 +12,5 @@ The Executive Secretary of the Foundation shall serve as a noncareer appointee o
 
 #### Amendments
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–190 substituted “serve as a noncareer appointee of the Senior Executive Service and shall be compensated at a rate determined by the Board in accordance with section 5383” for “be compensated at the rate specified for employees in grade GS–18 of the General Schedule under section 5332”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–190 substituted "serve as a noncareer appointee of the Senior Executive Service and shall be compensated at a rate determined by the Board in accordance with section 5383" for "be compensated at the rate specified for employees in grade GS–18 of the General Schedule under section 5332".
 

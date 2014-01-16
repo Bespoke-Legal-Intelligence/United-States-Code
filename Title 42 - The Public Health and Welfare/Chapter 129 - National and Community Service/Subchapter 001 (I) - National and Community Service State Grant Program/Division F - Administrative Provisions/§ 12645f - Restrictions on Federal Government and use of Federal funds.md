@@ -16,11 +16,11 @@ Notwithstanding any other provision of Federal law, not <sup>1</sup> State shal
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 101–610, Nov. 16, 1990, 104Stat. 3127, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of this title and Tables.
 
 #### Effective Date
 
 Section effective Oct. 1, 2009, see section 6101(a) of Pub. L. 111–13, set out as an Effective Date of 2009 Amendment note under section 4950 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “no”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "no".</i>
 

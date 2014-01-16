@@ -136,7 +136,7 @@ The Interstate Land Sales Full Disclosure Act, referred to in subsec. (g)(1)(A),
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. The word “that” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original. The word "that" probably should not appear.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be a period after “seq”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be a period after "seq".</i>
 

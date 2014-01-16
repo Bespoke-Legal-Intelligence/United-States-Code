@@ -2,7 +2,7 @@
 
 #### (a) Use in the Medicare fee-for-service program
 
-The Secretary shall use predictive modeling and other analytics technologies (in this section referred to as “predictive analytics technologies”) to identify improper claims for reimbursement and to prevent the payment of such claims under the Medicare fee-for-service program.
+The Secretary shall use predictive modeling and other analytics technologies (in this section referred to as "predictive analytics technologies") to identify improper claims for reimbursement and to prevent the payment of such claims under the Medicare fee-for-service program.
 
 #### (b) Predictive analytics technologies requirements
 
@@ -56,7 +56,7 @@ The predictive analytics technologies used by the Secretary shall—
 
 #### (6) Option for refinement and evaluation
 
-&emsp;If, with respect to the first, second, or third implementation year, the Inspector General of the Department of Health and Human Services certifies as part of the report required under subsection (e) for that year no or only nominal actual savings to the Medicare fee-for-service program, the Secretary may impose a moratorium, not to exceed 12 months, on the expansion of the use of predictive analytics technologies under this section for the succeeding year in order to refine the use of predictive analytics technologies to achieve more thannominal savings before further expansion. If a moratorium is imposed in accordance with this paragraph, the implementation dates applicable for the succeeding year or years shall be adjusted to reflect the length of the moratorium period.
+&emsp;If, with respect to the first, second, or third implementation year, the Inspector General of the Department of Health and Human Services certifies as part of the report required under subsection (e) for that year no or only nominal actual savings to the Medicare fee-for-service program, the Secretary may impose a moratorium, not to exceed 12 months, on the expansion of the use of predictive analytics technologies under this section for the succeeding year in order to refine the use of predictive analytics technologies to achieve more than nominal savings before further expansion. If a moratorium is imposed in accordance with this paragraph, the implementation dates applicable for the succeeding year or years shall be adjusted to reflect the length of the moratorium period.
 
 #### (d) Contractor selection, qualifications, and data access requirements
 
@@ -172,35 +172,35 @@ In this section:
 
 #### (1) Commonwealths and territories
 
-&emsp;The term “commonwealth and territories” includes the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States in which the Medicare fee-for-service program, Medicaid, or CHIP operates.
+&emsp;The term "commonwealth and territories" includes the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States in which the Medicare fee-for-service program, Medicaid, or CHIP operates.
 
 #### (2) CHIP
 
-&emsp;The term “CHIP” means the Children's Health Insurance Program established under title XXI of the Social Security Act (42 U.S.C. 1397aa et seq.).
+&emsp;The term "CHIP" means the Children's Health Insurance Program established under title XXI of the Social Security Act (42 U.S.C. 1397aa et seq.).
 
 #### (3) Medicaid
 
-&emsp;The term “Medicaid” means the program to provide grants to States for medical assistance programs established under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.).
+&emsp;The term "Medicaid" means the program to provide grants to States for medical assistance programs established under title XIX of the Social Security Act (42 U.S.C. 1396 et seq.).
 
 #### (4) Medicare beneficiary
 
-&emsp;The term “Medicare beneficiary” means an individual enrolled in the Medicare fee-for-service program.
+&emsp;The term "Medicare beneficiary" means an individual enrolled in the Medicare fee-for-service program.
 
 #### (5) Medicare fee-for-service program
 
-&emsp;The term “Medicare fee-for-service program” means the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395\[c\] et seq.\[; 1395j et seq.\]).
+&emsp;The term "Medicare fee-for-service program" means the original medicare fee-for-service program under parts A and B of title XVIII of the Social Security Act (42 U.S.C. 1395\[c\] et seq.\[; 1395j et seq.\]).
 
 #### (6) Medicare provider
 
-&emsp;The term “Medicare provider” means a provider of services (as defined in subsection (u) of section 1861 of the Social Security Act (42 U.S.C. 1395x)) and a supplier (as defined in subsection (d) of such section).
+&emsp;The term "Medicare provider" means a provider of services (as defined in subsection (u) of section 1861 of the Social Security Act (42 U.S.C. 1395x)) and a supplier (as defined in subsection (d) of such section).
 
 #### (7) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Health and Human Services, acting through the Administrator of the Centers for Medicare \& Medicaid Services.
+&emsp;The term "Secretary" means the Secretary of Health and Human Services, acting through the Administrator of the Centers for Medicare \& Medicaid Services.
 
 #### (8) State
 
-&emsp;The term “State” means each of the 50 States and the District of Columbia.
+&emsp;The term "State" means each of the 50 States and the District of Columbia.
 
 (Pub. L. 111–240, title IV, §4241, Sept. 27, 2010, 124 Stat. 2599.)
 

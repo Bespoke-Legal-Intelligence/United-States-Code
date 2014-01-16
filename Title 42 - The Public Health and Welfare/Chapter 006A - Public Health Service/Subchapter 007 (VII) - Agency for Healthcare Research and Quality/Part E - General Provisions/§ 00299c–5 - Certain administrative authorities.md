@@ -60,9 +60,9 @@ The Director, in carrying out this subchapter, may accept voluntary and uncompen
 
 #### Codification
 
-In subsec. (b)(1), “section 8141 of title 40” substituted for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (b)(1), "section 8141 of title 40" substituted for "the Act of March 3, 1877 (40 U.S.C. 34)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 
-A prior section 299c–5, act July 1, 1944, ch. 373, title IX, §926, as added Pub. L. 101–239, title VI, §6103(c), Dec. 19, 1989, 103 Stat. 2204; amended Pub. L. 101–381, title I, §102(7), Aug. 18, 1990, 104 Stat. 586; Pub. L. 102–410, §10, Oct. 13, 1992, 106 Stat. 2101; Pub. L. 103–43, title XX,§2010(b)(8), June 10, 1993, 107 Stat. 214, authorized appropriations to carry out this subchapter, prior to the general amendment of this subchapter by Pub. L. 106–129. See section 299c–6 of this title.
+A prior section 299c–5, act July 1, 1944, ch. 373, title IX, §926, as added Pub. L. 101–239, title VI, §6103(c), Dec. 19, 1989, 103 Stat. 2204; amended Pub. L. 101–381, title I, §102(7), Aug. 18, 1990, 104 Stat. 586; Pub. L. 102–410, §10, Oct. 13, 1992, 106 Stat. 2101; Pub. L. 103–43, title XX, §2010(b)(8), June 10, 1993, 107 Stat. 214, authorized appropriations to carry out this subchapter, prior to the general amendment of this subchapter by Pub. L. 106–129. See section 299c–6 of this title.
 

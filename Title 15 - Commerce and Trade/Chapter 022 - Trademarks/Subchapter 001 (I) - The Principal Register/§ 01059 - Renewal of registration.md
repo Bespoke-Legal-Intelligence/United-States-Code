@@ -10,7 +10,7 @@ If the Director refuses to renew the registration, the Director shall notify the
 
 #### (c) Designation of resident for service of process and notices
 
-If the registrant is not domiciled in the United States the registrant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process maybe served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
+If the registrant is not domiciled in the United States the registrant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
 (July 5, 1946, ch. 540, title I, §9, 60 Stat. 431; Pub. L. 87–772, §5, Oct. 9, 1962, 76 Stat. 770; Pub. L. 100–667, title I, §111, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, §106, Oct. 30, 1998, 112 Stat. 3067; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B), (C)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(4), Nov. 2, 2002, 116 Stat. 1907.)
 
@@ -20,19 +20,19 @@ Act Feb. 20, 1905, ch. 592, §12, 33 Stat. 727.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–273 amended subsec. (c) generally. Prior to amendment, text read as follows: “If the registrant is not domiciled in the United States, the registrant shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director.”
+<b>2002</b>—Subsec. (c). Pub. L. 107–273 amended subsec. (c) generally. Prior to amendment, text read as follows: "If the registrant is not domiciled in the United States, the registrant shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may beserved upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director."
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], substituted “Director” for “Commissioner”.
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], substituted "Director" for "Commissioner".
 
-Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B), (C)\], amended subsec. (b) identically, substituting “Director” for “Commissioner” in two places.
+Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B), (C)\], amended subsec. (b) identically, substituting "Director" for "Commissioner" in two places.
 
-Subsec. (c). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], substituted “Director” for “Commissioner”.
+Subsec. (c). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], substituted "Director" for "Commissioner".
 
 <b>1998</b>—Pub. L. 105–330 amended section catchline and text generally. Prior to amendment, text consisted of subsecs. (a) to (c) relating to period of renewal and time for renewal, notification of refusal of renewal, and applicants for renewal not domiciled in the United States.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–667, §111(1), substituted “ten” for “twenty”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–667, §111(1), substituted "ten" for "twenty".
 
-Subsec. (c). Pub. L. 100–667, §111(2), substituted “1051(e)” for “1051(d)”.
+Subsec. (c). Pub. L. 100–667, §111(2), substituted "1051(e)" for "1051(d)".
 
 <b>1962</b>—Pub. L. 87–772 designated existing provisions as subsecs. (a) and (c), added subsec. (b), and among other changes, amended subsec. (a) by substituting provisions requiring a verified application specifying the goods or services recited in the registration on or in connection with which the mark is still in use in commerce and having attached a specimen showing current use of the mark, or showing that any nonuse is due to special circumstances which excuse the nonuse and that it's not due to an intention to abandon the mark, for provisions requiring an affidavit by the registrant stating that the mark is still in use in commerce.
 
@@ -46,7 +46,7 @@ Amendment by Pub. L. 105–330 effective on the date that is 1 year after Oct. 3
 
 For provisions relating to applicability of amendment by Pub. L. 105–330 to applications for registration of trademarks, see section 109(b) of Pub. L. 105–330, set out as a note under section 1051 of this title.
 
-Pub. L. 105–330, title I, §109(d), Oct. 30, 1998, 112 Stat. 3069, provided that: “The amendment made by section 106 \[amending this section\] shall apply to the filing of an application for renewal of a registration if the expiration date of the registration for which the renewal application is filed is on or after the effective date of this Act \[probably should be “this title”, see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title\].”
+Pub. L. 105–330, title I, §109(d), Oct. 30, 1998, 112 Stat. 3069, provided that: "The amendment made by section 106 \[amending this section\] shall apply to the filing of an application for renewal of a registration if the expiration date of the registration for which the renewal application is filed is on or after the effective date of this Act \[probably should be "this title", see section 110 of Pub. L. 105–330, set out as an Effective Date of 1998 Amendment note under section 1051 of this title\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -64,5 +64,5 @@ Renewal of registrations under prior acts, see section 46(b) of act July 5, 1946
 
 Act July 17, 1946, ch. 587, 60 Stat. 568, provided for extension of time for renewal by a foreign registrant and expired by its own terms July 17, 1949.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Director's”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Director's".</i>
 

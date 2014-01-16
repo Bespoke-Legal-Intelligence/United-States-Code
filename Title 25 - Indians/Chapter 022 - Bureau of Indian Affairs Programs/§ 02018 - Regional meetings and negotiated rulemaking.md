@@ -12,7 +12,7 @@ Prior to publishing any proposed regulations under subsection (b)(1) of this sec
 
 #### (2) Notification to Congress
 
-&emsp;If draft regulations implementing this chapter and the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\] are not promulgated in final form within 18 months after January 8, 2002, the Secretary shall notify the appropriate committees of Congress of which draft regulations were not promulgated infinal form by the deadline and the reason such final regulations were not promulgated.
+&emsp;If draft regulations implementing this chapter and the Tribally Controlled Schools Act of 1988 \[25 U.S.C. 2501 et seq.\] are not promulgated in final form within 18 months after January 8, 2002, the Secretary shall notify the appropriate committees of Congress of which draft regulations were not promulgated in final form by the deadline and the reason such final regulations were not promulgated.
 
 #### (3) Rulemaking committee
 
@@ -36,7 +36,7 @@ Prior to publishing any proposed regulations under subsection (b)(1) of this sec
 
 #### (1) Supremacy of provisions
 
-&emsp;The provisions of this section shall supersede any conflicting regulations in effect on the day before the date of enactment of this chapter, and the Secretary may repeal any regulation that is inconsistent with the provisions of this chapter.
+&emsp;The provisions of this section shall supersede any conflicting regulations in effect on the day before the date of enactment of this chapter, and the Secretary may repeal anyregulation that is inconsistent with the provisions of this chapter.
 
 #### (2) Modifications
 

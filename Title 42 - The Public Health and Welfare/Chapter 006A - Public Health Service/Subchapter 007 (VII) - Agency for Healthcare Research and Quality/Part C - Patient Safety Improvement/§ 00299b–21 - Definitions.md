@@ -4,11 +4,11 @@ In this part:
 
 #### (1) HIPAA confidentiality regulations
 
-&emsp;The term “HIPAA confidentiality regulations” means regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191; 110 Stat. 2033).
+&emsp;The term "HIPAA confidentiality regulations" means regulations promulgated under section 264(c) of the Health Insurance Portability and Accountability Act of 1996 (Public Law 104–191; 110 Stat. 2033).
 
 #### (2) Identifiable patient safety work product
 
-&emsp;The term “identifiable patient safety work product” means patient safety work product that—
+&emsp;The term "identifiable patient safety work product" means patient safety work product that—
 
 &emsp;&emsp;(A) is presented in a form and manner that allows the identification of any provider that is a subject of the work product, or any providers that participate in activities that are a subject of the work product;
 
@@ -18,15 +18,15 @@ In this part:
 
 #### (3) Nonidentifiable patient safety work product
 
-&emsp;The term “nonidentifiable patient safety work product” means patient safety work product that is not identifiable patient safety work product (as defined in paragraph (2)).
+&emsp;The term "nonidentifiable patient safety work product" means patient safety work product that is not identifiable patient safety work product (as defined in paragraph (2)).
 
 #### (4) Patient safety organization
 
-&emsp;The term “patient safety organization” means a private or public entity or component thereof that is listed by the Secretary pursuant to section 299b–24(d) of this title.
+&emsp;The term "patient safety organization" means a private or public entity or component thereof that is listed by the Secretary pursuant to section 299b–24(d) of this title.
 
 #### (5) Patient safety activities
 
-&emsp;The term “patient safety activities” means the following activities:
+&emsp;The term "patient safety activities" means the following activities:
 
 &emsp;&emsp;(A) Efforts to improve patient safety and the quality of health care delivery.
 
@@ -46,13 +46,13 @@ In this part:
 
 #### (6) Patient safety evaluation system
 
-&emsp;The term “patient safety evaluation system” means the collection, management, or analysis of information for reporting to or by a patient safety organization.
+&emsp;The term "patient safety evaluation system" means the collection, management, or analysis of information for reporting to or by a patient safety organization.
 
 #### (7) Patient safety work product
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “patient safety work product” means any data, reports, records, memoranda, analyses (such as root cause analyses), or written or oral statements—
+&emsp;&emsp;Except as provided in subparagraph (B), the term "patient safety work product" means any data, reports, records, memoranda, analyses (such as root cause analyses), or written or oral statements—
 
 &emsp;&emsp;&emsp;(i) which—
 
@@ -74,13 +74,13 @@ In this part:
 
 &emsp;&emsp;&emsp;(I) the discovery of or admissibility of information described in this subparagraph in a criminal, civil, or administrative proceeding;
 
-&emsp;&emsp;&emsp;(II) the reporting of information described in this subparagraph to a Federal, State, or local governmental agency for public health surveillance, investigation,or other public health purposes or health oversight purposes; or
+&emsp;&emsp;&emsp;(II) the reporting of information described in this subparagraph to a Federal, State, or local governmental agency for public health surveillance, investigation, or other public health purposes or health oversight purposes; or
 
 &emsp;&emsp;&emsp;(III) a provider's recordkeeping obligation with respect to information described in this subparagraph under Federal, State, or local law.
 
 #### (8) Provider
 
-&emsp;The term “provider” means—
+&emsp;The term "provider" means—
 
 &emsp;&emsp;(A) an individual or entity licensed or otherwise authorized under State law to provide health care services, including—
 

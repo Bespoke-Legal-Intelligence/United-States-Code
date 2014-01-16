@@ -12,11 +12,11 @@ Foreign Travelers.—In a case in which the traveler who is a victim of a crime 
 
 Definitions.—In this section—
 
-&emsp;(1) “felony crime of violence” means an offense punishable by more than one year in prison that has as an element the use, attempted use, or threatened use of physical force against the person of another.
+&emsp;(1) "felony crime of violence" means an offense punishable by more than one year in prison that has as an element the use, attempted use, or threatened use of physical force against the person of another.
 
-&emsp;(2) “State” means a State, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+&emsp;(2) "State" means a State, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-&emsp;(3) “traveler” means a victim of a crime of violence who is not a resident of the State in which the crime of violence occurred.
+&emsp;(3) "traveler" means a victim of a crime of violence who is not a resident of the State in which the crime of violence occurred.
 
 (Added Pub. L. 103–322, title XXXII, §320916(a), Sept. 13, 1994, 108 Stat. 2129; amended Pub. L. 104–294, title VI, §604(b)(21), Oct. 11, 1996, 110 Stat. 3507.)
 

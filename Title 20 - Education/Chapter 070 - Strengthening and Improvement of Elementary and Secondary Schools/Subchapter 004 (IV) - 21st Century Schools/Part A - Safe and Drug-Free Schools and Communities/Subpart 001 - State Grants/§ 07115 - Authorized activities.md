@@ -98,7 +98,7 @@
 
 &emsp;&emsp;&emsp;(viii) Conflict resolution programs, including peer mediation programs that educate and train peer mediators and a designated faculty supervisor, and youth anti-crime and anti-drug councils and activities.
 
-&emsp;&emsp;&emsp;(ix) Alternative education programs or services for violent or drug abusing students that reduce the need for suspension or expulsion or that serve students who have been suspended or expelled from the regular educational settings, including programs or services to assist students to make continued progress toward meeting the State academic achievement standards and to reenter the regular education setting.
+&emsp;&emsp;&emsp;(ix) Alternative education programs or services for violent or drug abusing students that reduce the need for suspension or expulsion or that serve students who have been suspended or expelled from the regular educational settings, includingprograms or services to assist students to make continued progress toward meeting the State academic achievement standards and to reenter the regular education setting.
 
 &emsp;&emsp;&emsp;(x) Counseling, mentoring, referral services, and other student assistance practices and programs, including assistance provided by qualified school-based mental health services providers and the training of teachers by school-based mental health services providers in appropriate identification and intervention techniques for students at risk of violent behavior and illegal use of drugs.
 

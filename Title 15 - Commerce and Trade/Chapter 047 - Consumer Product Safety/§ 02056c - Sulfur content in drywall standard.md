@@ -42,7 +42,7 @@ If the sulfur content limit of a voluntary standard that met the conditions of s
 
 #### (f) Future rulemaking
 
-The Commission, at any time subsequent to publication of the consumer product safety rulerequired by subsection (a) or a determination under subsection (c), may initiate a rulemaking in accordance with section 553 of title 5 to modify the sulfur content limit or to include any provision relating only to the composition or characteristics of drywall that the Commission determines is reasonably necessary to protect public health or safety. Any rule promulgated under this subsection shall be treated as a consumer product safety rule promulgated under section 2058 of this title.
+The Commission, at any time subsequent to publication of the consumer product safety rule required by subsection (a) or a determination under subsection (c), may initiate a rulemaking in accordance with section 553 of title 5 to modify the sulfur content limit or to include any provision relating only to the composition or characteristics of drywall that the Commission determines is reasonably necessary to protect public health or safety. Any rule promulgated under this subsection shall be treated as a consumer product safety rule promulgated under section 2058 of this title.
 
 (Pub. L. 112–266, §4, Jan. 14, 2013, 126 Stat. 2438.)
 
@@ -54,15 +54,15 @@ Section was enacted as part of the Drywall Safety Act of 2012, and not as part o
 
 Pub. L. 112–266, §3, Jan. 14, 2013, 126 Stat. 2437, provided that:
 
-“(a)
+"(a)
 
 Labeling Requirement.—Beginning 180 days after the date of the enactment of this Act \[Jan. 14, 2013\], the gypsum board labeling provisions of standard ASTM C1264–11 of ASTM International, as in effect on the day before the date of the enactment of this Act, shall be treated as a rule promulgated by the Consumer Product Safety Commission under section 14(c) of the Consumer Product Safety Act (15 U.S.C. 2063(c)).
 
-“(b)
+"(b)
 
-Revision of Standard.—If the gypsum board labeling provisions of the standard referred to in subsection (a) are revised on or after the date of the enactment of this Act, ASTM International shall notify the Commission of such revision no later than 60 days after final approval of the revision by ASTM International. The revised provisions shall be treated as a rule promulgated by the Commission under section 14(c) of such Act (15 U.S.C. 2063(c)), in lieu of the prior version, effective 180 days after the Commission is notified of the revision (or such later date as the Commission considers appropriate), unless within 90 days after receiving that notice the Commission determines that the revised provisions do not adequately identify gypsum board by manufacturer and month and year of manufacture, in which case the Commission shall continue to enforce the prior version.”
+Revision of Standard.—If the gypsum board labeling provisions of the standard referred to in subsection (a) are revised on or after the date of the enactment of this Act, ASTM International shall notify the Commission of such revision no later than 60 days after final approval of the revision by ASTM International. The revised provisions shall be treated as a rule promulgated by the Commission under section 14(c) of such Act (15 U.S.C. 2063(c)), in lieu of the prior version, effective 180 days after the Commission is notified of the revision (or such later date as the Commission considers appropriate), unless within 90 days after receiving that notice the Commission determines that the revised provisions do not adequately identify gypsum board by manufacturer and month and year of manufacture, in which case the Commission shall continue to enforce the prior version."
 
 #### Revision of Remediation Guidance for Drywall Disposal Required
 
-Pub. L. 112–266, §5, Jan. 14, 2013, 126 Stat. 2439, provided that: “Not later than 120 days after the date of the enactment of this Act \[Jan. 14, 2013\], the Consumer Product Safety Commission shall revise its guidance entitled ‘Remediation Guidance for Homes with Corrosion from Problem Drywall’ to specify that problematic drywall removed from homes pursuant to the guidance should not be reused or used as a component in production of new drywall.”
+Pub. L. 112–266, §5, Jan. 14, 2013, 126 Stat. 2439, provided that: "Not later than 120 days after the date of the enactment of this Act \[Jan. 14, 2013\], the Consumer Product Safety Commission shall revise its guidance entitled 'Remediation Guidance for Homes with Corrosion from Problem Drywall' to specify that problematic drywall removed from homes pursuant to the guidance should not be reused or used as a component in production of new drywall."
 

@@ -6,9 +6,9 @@
 | [3002\.](%C2%A7%2003002%20-%20Definitions.md) | Definitions. |
 | [3003\.](%C2%A7%2003003%20-%20Survey.md) | Survey. |
 | [3004\.](%C2%A7%2003004%20-%20Direct%20marketing%20assistance%20within%20the%20States.md) | Direct marketing assistance within the States. |
-| [3005\.](%C2%A7%2003005%20-%20Farmers%E2%80%99%20Market%20Promotion%20Program.md) | Farmers’ Market Promotion Program. |
+| [3005\.](%C2%A7%2003005%20-%20Farmers%27%20Market%20Promotion%20Program.md) | Farmers' Market Promotion Program. |
 | [3006\.](%C2%A7%2003006%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [3007\.](%C2%A7%2003007%20-%20Seniors%20farmers%E2%80%99%20market%20nutrition%20program.md) | Seniors farmers’ market nutrition program. |
+| [3007\.](%C2%A7%2003007%20-%20Seniors%20farmers%27%20market%20nutrition%20program.md) | Seniors farmers' market nutrition program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -21,6 +21,6 @@
 - [&sect; 03002 - Definitions](%C2%A7%2003002%20-%20Definitions.md)
 - [&sect; 03003 - Survey](%C2%A7%2003003%20-%20Survey.md)
 - [&sect; 03004 - Direct marketing assistance within the States](%C2%A7%2003004%20-%20Direct%20marketing%20assistance%20within%20the%20States.md)
-- [&sect; 03005 - Farmers&#8217; Market Promotion Program](%C2%A7%2003005%20-%20Farmers%E2%80%99%20Market%20Promotion%20Program.md)
+- [&sect; 03005 - Farmers' Market Promotion Program](%C2%A7%2003005%20-%20Farmers%27%20Market%20Promotion%20Program.md)
 - [&sect; 03006 - Authorization of appropriations](%C2%A7%2003006%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 03007 - Seniors farmers&#8217; market nutrition program](%C2%A7%2003007%20-%20Seniors%20farmers%E2%80%99%20market%20nutrition%20program.md)
+- [&sect; 03007 - Seniors farmers' market nutrition program](%C2%A7%2003007%20-%20Seniors%20farmers%27%20market%20nutrition%20program.md)

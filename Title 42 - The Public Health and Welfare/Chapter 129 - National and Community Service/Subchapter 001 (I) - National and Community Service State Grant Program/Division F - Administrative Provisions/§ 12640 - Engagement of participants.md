@@ -6,7 +6,7 @@ A State shall not engage a participant to serve in any program that receives ass
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–82 substituted “national service educational awards” for “post-service benefits”.
+<b>1993</b>—Pub. L. 103–82 substituted "national service educational awards" for "post-service benefits".
 
 #### Effective Date of 1993 Amendment
 

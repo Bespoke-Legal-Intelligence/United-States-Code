@@ -28,5 +28,5 @@ Historical and Revision Notes
 
 Pub. L. 110–422, title VIII, §804, Oct. 15, 2008, 122 Stat. 4804.
 
-In the matter before paragraph (1), the date “October 15, 2008” is substituted for “the date of enactment of this Act” to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2008.
+In the matter before paragraph (1), the date "October 15, 2008" is substituted for "the date of enactment of this Act" to reflect the date of enactment of the National Aeronautics and Space Administration Authorization Act of 2008.
 

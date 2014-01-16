@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;For purposes of this part and part C of this subchapter, the term “qualified prescription drug coverage” means either of the following:
+&emsp;For purposes of this part and part C of this subchapter, the term "qualified prescription drug coverage" means either of the following:
 
 #### (A) Standard prescription drug coverage with access to negotiated prices
 
@@ -40,7 +40,7 @@
 
 #### (3) Basic prescription drug coverage
 
-&emsp;For purposes of this part and part C of this subchapter, the term “basic prescription drug coverage” means either of the following:
+&emsp;For purposes of this part and part C of this subchapter, the term "basic prescription drug coverage" means either of the following:
 
 &emsp;&emsp;(A) Coverage that meets the requirements of paragraph (1)(A).
 
@@ -56,7 +56,7 @@
 
 #### (b) Standard prescription drug coverage
 
-For purposes of this part and part C of this subchapter, the term “standard prescription drug coverage” means coverage of covered part D drugs that meets the following requirements:
+For purposes of this part and part C of this subchapter, the term "standard prescription drug coverage" means coverage of covered part D drugs that meets the following requirements:
 
 #### (1) Deductible
 
@@ -166,7 +166,7 @@ For purposes of this part and part C of this subchapter, the term “standard pr
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For purposes of this part, the “annual out-of-pocket threshold” specified in this subparagraph—
+&emsp;&emsp;&emsp;For purposes of this part, the "annual out-of-pocket threshold" specified in this subparagraph—
 
 &emsp;&emsp;&emsp;&emsp;(I) for 2006, is equal to $3,600;
 
@@ -180,7 +180,7 @@ For purposes of this part and part C of this subchapter, the term “standard pr
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) the annual percentage increase described in paragraph (6) for the year;
 
-&emsp;&emsp;&emsp;&emsp;(V) for 2020, is equal to the amount that would have been applied under thissubparagraph for 2020 if the amendments made by section 1101(d)(1) of the Health Care and Education Reconciliation Act of 2010 had not been enacted; or
+&emsp;&emsp;&emsp;&emsp;(V) for 2020, is equal to the amount that would have been applied under this subparagraph for 2020 if the amendments made by section 1101(d)(1) of the Health Care and Education Reconciliation Act of 2010 had not been enacted; or
 
 &emsp;&emsp;&emsp;&emsp;(VI) for a subsequent year, is equal to the amount specified in this subparagraph for the previous year, increased by the annual percentage increase described in paragraph (6) for the year involved.
 
@@ -294,13 +294,13 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (1) In general
 
-&emsp;Except as provided in this subsection, for purposes of this part, the term “covered part D drug” means—
+&emsp;Except as provided in this subsection, for purposes of this part, the term "covered part D drug" means—
 
 &emsp;&emsp;(A) a drug that may be dispensed only upon a prescription and that is described in subparagraph (A)(i), (A)(ii), or (A)(iii) of section 1396r–8(k)(2) of this title; or
 
 &emsp;&emsp;(B) a biological product described in clauses (i) through (iii) of subparagraph (B) of such section or insulin described in subparagraph (C) of such section and medical supplies associated with the injection of insulin (as defined in regulations of the Secretary),
 
-> &emsp;and such term includes a vaccine licensed under section 262 of this title (and, for vaccines administered on or after January 1, 2008, its administration) and any use of a coveredpart D drug for a medically accepted indication (as defined in paragraph (4)).
+> &emsp;and such term includes a vaccine licensed under section 262 of this title (and, for vaccines administered on or after January 1, 2008, its administration) and any use of a covered part D drug for a medically accepted indication (as defined in paragraph (4)).
 
 #### (2) Exclusions
 
@@ -326,11 +326,11 @@ A prescription drug plan or an MA–PD plan may provide a different prescription
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1), the term “medically accepted indication” has the meaning given that term—
+&emsp;&emsp;For purposes of paragraph (1), the term "medically accepted indication" has the meaning given that term—
 
 &emsp;&emsp;&emsp;(i) in the case of a covered part D drug used in an anticancer chemotherapeutic regimen, in section 1395x(t)(2)(B) of this title, except that in applying such section—
 
-&emsp;&emsp;&emsp;&emsp;(I) “prescription drug plan or MA–PD plan” shall be substituted for “carrier” each place it appears; and
+&emsp;&emsp;&emsp;&emsp;(I) "prescription drug plan or MA–PD plan" shall be substituted for "carrier" each place it appears; and
 
 &emsp;&emsp;&emsp;&emsp;(II) subject to subparagraph (B), the compendia described in section 1396r–8(g)(1)(B)(i)(III) of this title shall be included in the list of compendia described in clause (ii)(I) section 1395x(t)(2)(B) of this title; and
 
@@ -354,23 +354,23 @@ The Public Health Service Act, referred to in subsec. (b)(4)(C)(iii)(IV), is act
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(2)(A). Pub. L. 111–152, §1101(b)(3)(A), substituted “Subject to subparagraphs (C) and (D), the coverage” for “The coverage”.
+<b>2010</b>—Subsec. (b)(2)(A). Pub. L. 111–152, §1101(b)(3)(A), substituted "Subject to subparagraphs (C) and (D), the coverage" for "The coverage".
 
-Subsec. (b)(2)(B). Pub. L. 111–152, §1101(b)(3)(B), substituted “subparagraphs (A)(ii), (C), and (D)” for “subparagraph (A)(ii)”.
+Subsec. (b)(2)(B). Pub. L. 111–152, §1101(b)(3)(B), substituted "subparagraphs (A)(ii), (C), and (D)" for "subparagraph (A)(ii)".
 
 Subsec. (b)(2)(C), (D). Pub. L. 111–152, §1101(b)(3)(C), added subpars. (C) and (D).
 
-Subsec. (b)(3)(A). Pub. L. 111–152, §1101(b)(3)(D), substituted “paragraphs (2)(C), (2)(D), and (4)” for “paragraph (4)”.
+Subsec. (b)(3)(A). Pub. L. 111–152, §1101(b)(3)(D), substituted "paragraphs (2)(C), (2)(D), and (4)" for "paragraph (4)".
 
-Pub. L. 111–148, §3315(1), which directed substitution of “paragraphs (4) and (7)” for “paragraph (4)” in introductory provisions, was repealed by Pub. L. 111–152, §1101(a)(2). See Construction of 2010 Amendment note below.
+Pub. L. 111–148, §3315(1), which directed substitution of "paragraphs (4) and (7)" for "paragraph (4)" in introductory provisions, was repealed by Pub. L. 111–152, §1101(a)(2). See Construction of 2010 Amendment note below.
 
 Subsec. (b)(4)(B)(i)(II) to (VI). Pub. L. 111–152, §1101(d)(1), added subcls. (II) to (V) and redesignated former subcl. (II) as (VI).
 
-Subsec. (b)(4)(C). Pub. L. 111–148, §3314(a), in cl. (ii), substituted “subject to clause (iii), such costs shall be treated as incurred only if” for “such costs shall be treated as incurred only if” and struck out “, under section 1395w–114 of this title, or under a State Pharmaceutical Assistance Program” after “on behalf of the individual),”, and added cl. (iii).
+Subsec. (b)(4)(C). Pub. L. 111–148, §3314(a), in cl. (ii), substituted "subject to clause (iii), such costs shall be treated as incurred only if" for "such costs shall be treated as incurred only if" and struck out ", under section 1395w–114 of this title, or under a State Pharmaceutical Assistance Program" after "on behalf of the individual),", and added cl. (iii).
 
-Pub. L. 111–148, §3301(c)(1)(A), substituted “Except as provided in subparagraph (E), in applying” for “In applying” in introductory provisions.
+Pub. L. 111–148, §3301(c)(1)(A), substituted "Except as provided in subparagraph (E), in applying" for "In applying" in introductory provisions.
 
-Subsec. (b)(4)(E). Pub. L. 111–152, §1101(b)(3)(E), inserted before period at end “, except that incurred costs shall not include the portion of the negotiated price that represents the reduction in coinsurance resulting from the application of paragraph (2)(D)”.
+Subsec. (b)(4)(E). Pub. L. 111–152, §1101(b)(3)(E), inserted before period at end ", except that incurred costs shall not include the portion of the negotiated price that represents the reduction in coinsurance resulting from the application of paragraph (2)(D)".
 
 Pub. L. 111–148, §3301(c)(1)(B), added subpar. (E).
 
@@ -378,69 +378,69 @@ Subsec. (b)(7). Pub. L. 111–152, §1101(d)(2), added par. (7).
 
 Pub. L. 111–148, §3315(2), which directed addition of par. (7), was repealed by Pub. L. 111–152, §1101(a)(2). As enacted, text read as follows:
 
-“(A)
+"(A)
 
 In general.—For the plan year beginning on January 1, 2010, the initial coverage limit described in paragraph (3)(B) otherwise applicable shall be increased by $500.
 
-“(B)
+"(B)
 
 Application.—In applying subparagraph (A)—
 
-&emsp;“(i) except as otherwise provided in this subparagraph, there shall be no change in the premiums, bids, or any other parameters under this part or part C;
+&emsp;"(i) except as otherwise provided in this subparagraph, there shall be no change in the premiums, bids, or any other parameters under this part or part C;
 
-&emsp;“(ii) costs that would be treated as incurred costs for purposes of applying paragraph (4) but for the application of subparagraph (A) shall continue to be treated as incurred costs;
+&emsp;"(ii) costs that would be treated as incurred costs for purposes of applying paragraph (4) but for the application of subparagraph (A) shall continue to be treated as incurred costs;
 
-&emsp;“(iii) the Secretary shall establish procedures, which may include a reconciliation process, to fully reimburse PDP sponsors with respect to prescription drug plans and MA organizations with respect to MA–PD plans for the reduction in beneficiary cost sharing associated with the application of subparagraph (A);
+&emsp;"(iii) the Secretary shall establish procedures, which may include a reconciliation process, to fully reimburse PDP sponsors with respect to prescription drug plans and MA organizations with respect to MA–PD plans for the reduction in beneficiary cost sharing associated with the application of subparagraph (A);
 
-&emsp;“(iv) the Secretary shall develop an estimate of the additional increased costs attributable to the application of this paragraph for increased drug utilization and financing and administrative costs and shall use such estimate to adjust payments to PDP sponsors with respect to prescription drug plans under this part and MA organizations with respect to MA–PD plans under part C; and
+&emsp;"(iv) the Secretary shall develop an estimate of the additional increased costs attributable to the application of this paragraph for increased drug utilization and financing and administrative costs and shall use such estimate to adjust payments to PDP sponsors with respect to prescription drug plans under this part and MA organizations with respect to MA–PD plans under part C; and
 
-&emsp;“(v) the Secretary shall establish procedures for retroactive reimbursement of part D eligible individuals who are covered under such a plan for costs which are incurred before the date of initial implementation of subparagraph (A) and which would be reimbursed under such a plan if such implementation occurred as of January 1, 2010.
+&emsp;"(v) the Secretary shall establish procedures for retroactive reimbursement of part D eligible individuals who are covered under such a plan for costs which are incurred before the date of initial implementation of subparagraph (A) and which would be reimbursed under such a plan if such implementation occurred as of January 1, 2010.
 
-“(C)
+"(C)
 
-No effect on subsequent years.—The increase under subparagraph (A) shall only apply with respect to the plan year beginning on January 1, 2010, and the initial coverage limit for plan years beginning on or after January 1, 2011, shall be determined as if subparagraph (A) had never applied.”
+No effect on subsequent years.—The increase under subparagraph (A) shall only apply with respect to the plan year beginning on January 1, 2010, and the initial coverage limit for plan years beginning on or after January 1, 2011, shall be determined as if subparagraph (A) had never applied."
 
 > See Construction of 2010 Amendment note below.
 
-<b>2008</b>—Subsec. (e)(1). Pub. L. 110–275, §182(a)(1)(A), substituted “(as defined in paragraph (4))” for “(as defined in section 1396r–8(k)(6) of this title)” in concluding provisions.
+<b>2008</b>—Subsec. (e)(1). Pub. L. 110–275, §182(a)(1)(A), substituted "(as defined in paragraph (4))" for "(as defined in section 1396r–8(k)(6) of this title)" in concluding provisions.
 
-Subsec. (e)(2)(A). Pub. L. 110–275, §175(a), inserted “other than subparagraph (I) of such section (relating to barbiturates) if the barbiturate is used in the treatment of epilepsy, cancer, or a chronic mental health disorder, and other than subparagraph (J) of such section (relating to benzodiazepines),” after “agents),”.
+Subsec. (e)(2)(A). Pub. L. 110–275, §175(a), inserted "other than subparagraph (I) of such section (relating to barbiturates) if the barbiturate is used in the treatment of epilepsy, cancer, or a chronic mental health disorder, and other than subparagraph (J) of such section (relating to benzodiazepines)," after "agents),".
 
 Subsec. (e)(4). Pub. L. 110–275, §182(a)(1)(B), which directed amendment of subsec. (e)(1) in the matter following subpar. (B) by adding par. (4) at the end, was executed by adding par. (4) at end of subsec. (e), to reflect the probable intent of Congress.
 
-<b>2006</b>—Subsec. (e)(1). Pub. L. 109–432 inserted “(and, for vaccines administered on or after January 1, 2008, its administration)” after “section 262 of this title” in concluding provisions.
+<b>2006</b>—Subsec. (e)(1). Pub. L. 109–432 inserted "(and, for vaccines administered on or after January 1, 2008, its administration)" after "section 262 of this title" in concluding provisions.
 
-<b>2005</b>—Subsec. (e)(2)(A). Pub. L. 109–91, §103(a)(2), inserted at end “Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, for which the drug has been approved by the Food and Drug Administration.”
+<b>2005</b>—Subsec. (e)(2)(A). Pub. L. 109–91, §103(a)(2), inserted at end "Such term also does not include a drug when used for the treatment of sexual or erectile dysfunction, unless such drug were used to treat a condition, other than sexual or erectile dysfunction, forwhich the drug has been approved by the Food and Drug Administration."
 
-Pub. L. 109–91, §103(a)(1), inserted before period at end “, as such sections were in effect on December 8, 2003”.
+Pub. L. 109–91, §103(a)(1), inserted before period at end ", as such sections were in effect on December 8, 2003".
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title III, §3301(c)(2), Mar. 23, 2010, 124 Stat. 468, provided that: “The amendments made by this subsection \[amending this section\] shall apply to costs incurred on or after July 1, 2010.”
+Pub. L. 111–148, title III, §3301(c)(2), Mar. 23, 2010, 124 Stat. 468, provided that: "The amendments made by this subsection \[amending this section\] shall apply to costs incurred on or after July 1, 2010."
 
-Pub. L. 111–148, title III, §3314(b), Mar. 23, 2010, 124 Stat. 479, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to costs incurred on or after January 1, 2011.”
+Pub. L. 111–148, title III, §3314(b), Mar. 23, 2010, 124 Stat. 479, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to costs incurred on or after January 1, 2011."
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–275, title I, §175(b), July 15, 2008, 122 Stat. 2581, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to prescriptions dispensed on or after January 1, 2013.”
+Pub. L. 110–275, title I, §175(b), July 15, 2008, 122 Stat. 2581, provided that: "The amendments made by subsection (a) \[amending this section\] shall apply to prescriptions dispensed on or after January 1, 2013."
 
-Pub. L. 110–275, title I, §182(a)(2), July 15, 2008, 122 Stat. 2583, provided that: “The amendments made by this subsection \[amending this section\] shall apply to plan years beginning on or after January 1, 2009.”
+Pub. L. 110–275, title I, §182(a)(2), July 15, 2008, 122 Stat. 2583, provided that: "The amendments made by this subsection \[amending this section\] shall apply to plan years beginning on or after January 1, 2009."
 
 #### Effective Date of 2005 Amendment
 
-Pub. L. 109–91, title I, §103(c), Oct. 20, 2005, 119 Stat. 2092, provided that: “The amendment made by subsection (a)(1) \[amending this section\] shall take effect as if included in the enactment of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173) and the amendment made by subsection (a)(2) \[amending this section\] shall apply to coverage for drugs dispensed on or after January 1, 2007.”
+Pub. L. 109–91, title I, §103(c), Oct. 20, 2005, 119 Stat. 2092, provided that: "The amendment made by subsection (a)(1) \[amending this section\] shall take effect as if included in the enactment of the Medicare Prescription Drug, Improvement, and Modernization Act of 2003 (Public Law 108–173) and the amendment made by subsection (a)(2) \[amending this section\] shall apply to coverage for drugs dispensed on or after January 1, 2007."
 
 #### Construction of 2010 Amendment
 
-Pub. L. 111–152, title I, §1101(a)(2), Mar. 30, 2010, 124 Stat. 1037, provided that: “Section 3315 of the Patient Protection and Affordable Care Act \[section 3315 of Pub. L. 111–148, amending this section\] (including the amendments made by such section) is repealed, and any provision of law amended or repealed by such sections \[sic\] is hereby restored or revived as if such section had not been enacted into law.”
+Pub. L. 111–152, title I, §1101(a)(2), Mar. 30, 2010, 124 Stat. 1037, provided that: "Section 3315 of the Patient Protection and Affordable Care Act \[section 3315 of Pub. L. 111–148, amending this section\] (including the amendments made by such section) is repealed, and any provision of law amended or repealed by such sections \[sic\] is hereby restored or revived as if such section had not been enacted into law."
 
 #### Construction
 
-Pub. L. 109–91, title I, §103(b), Oct. 20, 2005, 119 Stat. 2092, provided that: “Nothing in this section \[amending this section and enacting provisions set out as a note under this section\] shall be construed as preventing a prescription drug plan or an MA–PD plan from providing coverage of drugs for the treatment of sexual or erectile dysfunction as supplemental prescription drug coverage under section 1860D–2(a)(2)(A)(ii) of the Social Security Act (42 U.S.C. 1395w–102(a)(2)(A)(ii)).”
+Pub. L. 109–91, title I, §103(b), Oct. 20, 2005, 119 Stat. 2092, provided that: "Nothing in this section \[amending this section and enacting provisions set out as a note under this section\] shall be construed as preventing a prescription drug plan or an MA–PD plan from providing coverage of drugs for the treatment of sexual or erectile dysfunction as supplemental prescription drug coverage under section 1860D–2(a)(2)(A)(ii) of the Social Security Act (42 U.S.C. 1395w–102(a)(2)(A)(ii))."
 
 #### Payment for Administration of Part D Vaccines in 2007
 
-Pub. L. 109–432, div. B, title II, §202(a), Dec. 20, 2006, 120 Stat. 2986, provided that: “Notwithstanding any other provision of law, in the case of a vaccine that is a covered part D drug under section 1860D–2(e) of the Social Security Act (42 U.S.C. 1395w–102(e)) and that is administered during 2007, the administration of such vaccine shall be paid under part B of title XVIII of such Act \[part B of this subchapter\] as if it were the administration of a vaccine described in section 1861(s)(10)(B) of such Act (42 U.S.C. 1395w(s)(10)(B) \[probably should be 1395x(s)(10)(B)\]).”
+Pub. L. 109–432, div. B, title II, §202(a), Dec. 20, 2006, 120 Stat. 2986, provided that: "Notwithstanding any other provision of law, in the case of a vaccine that is a covered part D drug under section 1860D–2(e) of the Social Security Act (42 U.S.C. 1395w–102(e)) and that is administered during 2007, the administration of such vaccine shall be paid under part B of title XVIII of such Act \[42 U.S.C. 1395j et seq.\] as if it were the administration of a vaccine described in section 1861(s)(10)(B) of such Act (42 U.S.C. 1395w(s)(10)(B) \[probably should be 1395x(s)(10)(B)\])."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “meet”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "meet".</i>
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Former Members of Congress (in this chapter, the “corporation”), a nonprofit corporation incorporated in the District of Columbia, is a federally chartered corporation.
+Federal Charter.—Former Members of Congress (in this chapter, the "corporation"), a nonprofit corporation incorporated in the District of Columbia, is a federally chartered corporation.
 
 (b)
 
@@ -34,5 +34,5 @@ Jan. 8, 1983, Pub. L. 97–427, §§1, 15 (last sentence), 16, 96 Stat. 2265, 22
 
 Subsection (a) is substituted for the source provision for consistency in the revised title.
 
-In subsection (b), the words “restrictions or” are omitted as unnecessary.
+In subsection (b), the words "restrictions or" are omitted as unnecessary.
 

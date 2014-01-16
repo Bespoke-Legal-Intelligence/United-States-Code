@@ -14,9 +14,9 @@ For the purpose of carrying out sections 300ee–31 through 300ee–33 of this t
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b)(2). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsec. (b)(2). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
-<b>1988</b>—Subsec. (b)(2). Pub. L. 100–690 substituted “the date of the enactment of the AIDS Amendments of 1988” for “the date of the enactment of this section”, which for purposes of codification was translated as “November 4, 1988”.
+<b>1988</b>—Subsec. (b)(2). Pub. L. 100–690 substituted "the date of the enactment of the AIDS Amendments of 1988" for "the date of the enactment of this section", which for purposes of codification was translated as "November 4, 1988".
 
 #### Effective Date of 1988 Amendment
 

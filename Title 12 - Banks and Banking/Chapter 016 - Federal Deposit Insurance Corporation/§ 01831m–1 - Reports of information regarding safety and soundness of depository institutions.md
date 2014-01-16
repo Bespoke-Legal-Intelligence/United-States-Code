@@ -54,7 +54,7 @@ This section does not impose an affirmative duty on the Attorney General, the Se
 
 #### (d) Definitions
 
-For purposes of this section, the terms “appropriate Federal banking agency” and “depository institution” have the same meanings as in section 1818 of this title.
+For purposes of this section, the terms "appropriate Federal banking agency" and "depository institution" have the same meanings as in section 1818 of this title.
 
 (Pub. L. 102–550, title XV, §1542, Oct. 28, 1992, 106 Stat. 4067; Pub. L. 105–362, title X, §1001(f), Nov. 10, 1998, 112 Stat. 3292.)
 
@@ -68,9 +68,9 @@ Section was enacted as part of the Annunzio-Wylie Anti-Money Laundering Act and 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (e). Pub. L. 105–362 struck out heading and text of subsec. (e). Text read as follows: “The Attorney General and the Secretary of the Treasury shallreport to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, not later than 90 days after the end of each calendar year on their utilization of the exceptions provided in subsection (a)(1)(B) of this section.”
+<b>1998</b>—Subsec. (e). Pub. L. 105–362 struck out heading and text of subsec. (e). Text read as follows: "The Attorney General and the Secretary of the Treasury shallreport to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, not later than 90 days after the end of each calendar year on their utilization of the exceptions provided in subsection (a)(1)(B) of this section."
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 

@@ -70,7 +70,7 @@
 
 #### (3) Waived funding deficiency
 
-&emsp;For purposes of this part, the term “waived funding deficiency” means the portion of the minimum funding standard under subsection (a) (determined without regard to the waiver) for a plan year waived by the Secretary of the Treasury and not satisfied by employer contributions.
+&emsp;For purposes of this part, the term "waived funding deficiency" means the portion of the minimum funding standard under subsection (a) (determined without regard to the waiver) for a plan year waived by the Secretary of the Treasury and not satisfied by employer contributions.
 
 #### (4) Security for waivers for single-employer plans, consultations
 
@@ -124,7 +124,7 @@
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term “unpaid minimum required contribution” means, with respect to any plan year, any minimum required contribution under section 1083 of this title for the plan year which is not paid on or before the due date (as determined under section 1083(j)(1) of this title) for the plan year.
+&emsp;&emsp;&emsp;&emsp;The term "unpaid minimum required contribution" means, with respect to any plan year, any minimum required contribution under section 1083 of this title for the plan year which is not paid on or before the due date (as determined under section 1083(j)(1) of this title) for the plan year.
 
 #### (II) Ordering rule
 
@@ -196,7 +196,7 @@
 
 #### (3) Controlled group
 
-&emsp;For purposes of this section, the term “controlled group” means any group treated as a single employer under subsection (b), (c), (m), or (o) of section 414 of title 26.
+&emsp;For purposes of this section, the term "controlled group" means any group treated as a single employer under subsection (b), (c), (m), or (o) of section 414 of title 26.
 
 (Pub. L. 93–406, title I, §302, as added and amended Pub. L. 109–280, title I, §101(b), title II, §202(d), Aug. 17, 2006, 120 Stat. 784, 885; Pub. L. 110–458, title I, §§101(a)(1), 102(b)(1)(A), Dec. 23, 2008, 122 Stat. 5093, 5100.)
 
@@ -210,13 +210,13 @@ A prior section 1082, Pub. L. 93–406, title I, §302, Sept. 2, 1974, 88 Stat. 
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(3). Pub. L. 110–458, §102(b)(1)(A), substituted “the plan sponsor adopts” for “the plan adopts”.
+<b>2008</b>—Subsec. (b)(3). Pub. L. 110–458, §102(b)(1)(A), substituted "the plan sponsor adopts" for "the plan adopts".
 
-Subsec. (c)(1)(A)(i). Pub. L. 110–458, §101(a)(1)(A), substituted “the plan are” for “the plan is”.
+Subsec. (c)(1)(A)(i). Pub. L. 110–458, §101(a)(1)(A), substituted "the plan are" for "the plan is".
 
-Subsec. (c)(7)(A). Pub. L. 110–458, §101(a)(1)(B), inserted “which reduces the accrued benefit of any participant” after “subsection (d)(2)”.
+Subsec. (c)(7)(A). Pub. L. 110–458, §101(a)(1)(B), inserted "which reduces the accrued benefit of any participant" after "subsection (d)(2)".
 
-Subsec. (d)(1). Pub. L. 110–458, §101(a)(1)(C), struck out “, the valuation date,” after “funding method”.
+Subsec. (d)(1). Pub. L. 110–458, §101(a)(1)(C), struck out ", the valuation date," after "funding method".
 
 <b>2006</b>—Subsec. (b)(3). Pub. L. 109–280, §§202(d), 221(c), temporarily added par. (3). See Effective and Termination Dates of 2006 Amendment note below.
 
@@ -228,29 +228,29 @@ Amendment by Pub. L. 110–458 effective as if included in the provisions of Pub
 
 Pub. L. 109–280, title II, §202(f), Aug. 17, 2006, 120 Stat. 885, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[enacting section 1085 of this title and amending this section and section 1132 of this title\] shall apply with respect to plan years beginning after 2007.
 
-“(2)
+"(2)
 
 Special rule for certain notices.—In any case in which a plan's actuary certifies that it is reasonably expected that a multiemployer plan will be in critical status under section 305(b)(3) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1085(b)(3)\], as added by this section, with respect to the first plan year beginning after 2007, the notice required under subparagraph (D) of such section may be provided at any time after the date of enactment \[Aug. 17, 2006\], so long as it is provided on or before the last date for providing the notice under such subparagraph.
 
-“(3)
+"(3)
 
 Special rule for certain restored benefits.—In the case of a multiemployer plan—
 
-&emsp;“(A) with respect to which benefits were reduced pursuant to a plan amendment adopted on or after January 1, 2002, and before June 30, 2005, and
+&emsp;"(A) with respect to which benefits were reduced pursuant to a plan amendment adopted on or after January 1, 2002, and before June 30, 2005, and
 
-&emsp;“(B) which, pursuant to the plan document, the trust agreement, or a formal written communication from the plan sponsor to participants provided before June 30, 2005, provided for the restoration of such benefits,
+&emsp;"(B) which, pursuant to the plan document, the trust agreement, or a formal written communication from the plan sponsor to participants provided before June 30, 2005, provided for the restoration of such benefits,
 
-> the amendments made by this section shall not apply to such benefit restorations to the extent that any restriction on the providing or accrual of such benefits would otherwise apply by reason of such amendments.”
+> the amendments made by this section shall not apply to such benefit restorations to the extent that any restriction on the providing or accrual of such benefits would otherwise apply by reason of such amendments."
 
 Amendment by section 202(d) of Pub. L. 109–280 inapplicable to plan years beginning after Dec. 31, 2014, with exception for certain funding improvement and rehabilitation plans, see section 221(c) of Pub. L. 109–280, set out as a note under section 412 of Title 26, Internal Revenue Code.
 
 #### Effective Date
 
-Pub. L. 109–280, title I, §101(d), Aug. 17, 2006, 120 Stat. 789, provided that: “The amendments made by this section \[enacting this section and repealing former section 1082 of this title and sections 1083 to 1085, 1085a, 1085b, and 1086 of this title\] shall apply to plan years beginning after 2007.”
+Pub. L. 109–280, title I, §101(d), Aug. 17, 2006, 120 Stat. 789, provided that: "The amendments made by this section \[enacting this section and repealing former section 1082 of this title and sections 1083 to 1085, 1085a, 1085b, and 1086 of this title\] shall apply to plan years beginning after 2007."
 
 #### Regulations
 

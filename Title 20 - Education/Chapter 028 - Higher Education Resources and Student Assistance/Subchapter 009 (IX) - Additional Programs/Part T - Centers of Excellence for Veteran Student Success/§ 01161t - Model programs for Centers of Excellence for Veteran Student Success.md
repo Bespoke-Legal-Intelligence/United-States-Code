@@ -60,7 +60,7 @@ It is the purpose of this section to encourage model programs to support veteran
 
 #### (1) Application
 
-&emsp;To be considered for a grant under this section, an institution of higher education shall submit to the Secretary an application at such time, in such manner, and accompanied by such information as the Secretary may require.
+&emsp;To be considered for a grant under this section, an institution of higher education shallsubmit to the Secretary an application at such time, in such manner, and accompanied by such information as the Secretary may require.
 
 #### (2) Selection considerations
 
@@ -78,7 +78,7 @@ It is the purpose of this section to encourage model programs to support veteran
 
 #### (e) Evaluation and accountability plan
 
-The Secretary shall develop an evaluation and accountability plan for model programs funded under this section to objectively measure the impact of such programs, including a measure ofwhether postsecondary education enrollment, persistence, and completion for veterans increases as a result of such programs.
+The Secretary shall develop an evaluation and accountability plan for model programs funded under this section to objectively measure the impact of such programs, including a measure of whether postsecondary education enrollment, persistence, and completion for veterans increases as a result of such programs.
 
 #### (f) Authorization of appropriations
 

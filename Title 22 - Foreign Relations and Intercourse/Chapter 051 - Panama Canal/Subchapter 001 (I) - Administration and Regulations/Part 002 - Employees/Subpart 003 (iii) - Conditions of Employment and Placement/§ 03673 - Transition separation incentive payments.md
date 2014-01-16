@@ -1,8 +1,8 @@
 ### §3673. Transition separation incentive payments
 
-(a) In applying to the Commission and employees of the Commission the provisions of section 663 of the Treasury, Postal Service, and General Government Appropriations Act, 1997 (as contained in section 101(f) of division A of Public Law 104–208; 110 Stat. 3009–383), relating to voluntary separation incentives for employees of certain Federal agencies (in this section referred to as “section 663”)—
+(a) In applying to the Commission and employees of the Commission the provisions of section 663 of the Treasury, Postal Service, and General Government Appropriations Act, 1997 (as contained in section 101(f) of division A of Public Law 104–208; 110 Stat. 3009–383), relating to voluntary separation incentives for employees of certain Federal agencies (in this section referred to as "section 663")—
 
-&emsp;(1) the term “employee” shall mean an employee of the Commission who has served in the Republic of Panama in a position with the Commission for a continuous period of at least three years immediately before the employee's separation under an appointment without time limitation and who is covered under the Civil Service Retirement System or the Federal Employees’ Retirement System under subchapter III of chapter 83 or chapter 84, respectively, of title 5, other than—
+&emsp;(1) the term "employee" shall mean an employee of the Commission who has served in the Republic of Panama in a position with the Commission for a continuous period of at least three years immediately before the employee's separation under an appointment without time limitation and who is covered under the Civil Service Retirement System or the Federal Employees' Retirement System under subchapter III of chapter 83 or chapter 84, respectively, of title 5, other than—
 
 &emsp;&emsp;(A) an employee described in any of subparagraphs (A) through (F) of subsection (a)(2) of section 663; or
 
@@ -14,7 +14,7 @@
 
 &emsp;&emsp;(B) the number and amounts of separation incentive payments to be offered; and
 
-&emsp;&emsp;(C) a description of how such incentive payments will facilitate the successfultransfer of the Panama Canal to the Republic of Panama;
+&emsp;&emsp;(C) a description of how such incentive payments will facilitate the successful transfer of the Panama Canal to the Republic of Panama;
 
 &emsp;(3) a separation incentive payment under section 663 may be paid to a Commission employee only to the extent necessary to facilitate the successful transfer of the Panama Canal by the United States of America to the Republic of Panama as required by the Panama Canal Treaty of 1977;
 
@@ -38,5 +38,5 @@
 
 #### References in Text
 
-Section 663 of the Treasury, Postal Service, and General Government Appropriations Act, 1997 (as contained in section 101(f) of division A of Public Law 104–208; 110 Stat. 3009–383), referred to in subsec. (a), is set out as a note under section 5597 of Title 5, Government Organization and Employees.
+Section 663 of the Treasury, Postal Service, and General Government Appropriations Act, 1997 (as containedin section 101(f) of division A of Public Law 104–208; 110 Stat. 3009–383), referred to in subsec. (a), is set out as a note under section 5597 of Title 5, Government Organization and Employees.
 

@@ -30,5 +30,5 @@ Provisions similar to those in this section were contained in section 11903 of t
 
 #### Amendments
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–102 inserted “a” before “civil penalty of not more than”.
+<b>1997</b>—Subsec. (a). Pub. L. 105–102 inserted "a" before "civil penalty of not more than".
 

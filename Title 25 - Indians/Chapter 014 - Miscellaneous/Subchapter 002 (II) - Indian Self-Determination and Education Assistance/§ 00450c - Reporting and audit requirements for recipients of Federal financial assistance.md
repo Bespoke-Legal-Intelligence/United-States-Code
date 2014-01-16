@@ -42,23 +42,25 @@ The Secretary shall report annually in writing to each tribe regarding projected
 
 #### References in Text
 
+This subchapter, referred to in subsecs. (a)(1) and (f)(1), was in the original "this Act", meaning Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, known as the Indian Self-Determination and Education Assistance Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
 Section 450j–1(a)(3) of this title, referred to in subsec. (d), was repealed and a new subsec. (a)(3) of section 450j–1 was added by Pub. L. 103–413, title I, §102(14)(C), Oct. 25, 1994, 108 Stat. 4257. See section 450j–1(a)(4) of this title.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (f). Pub. L. 103–413 added subsec. (f) and struck out former subsec. (f) which read as follows: “For each fiscal year during which an Indian tribal organization receives or expends funds pursuant to a contract or grant under this subchapter, the Indian tribe which requested such contract or grant shall submit to the appropriate Secretary a report including, but not limited to, an accounting of the amounts and purposes for which Federal funds were expended, information on the conduct of the program or service involved, and such other information as the appropriate Secretary may request through regulations promulgated under sections 552 and 553 of title 5.”
+<b>1994</b>—Subsec. (f). Pub. L. 103–413 added subsec. (f) and struck out former subsec. (f) which read as follows: "For each fiscal year during which an Indian tribal organization receives or expends funds pursuant to a contract or grant under this subchapter, the Indian tribe which requested such contract or grant shall submit to the appropriate Secretary a report including, but not limited to, an accounting of the amounts and purposes for which Federal funds were expended, information on the conduct of the program or service involved, and such other information as the appropriate Secretary may request through regulations promulgated under sections 552 and 553 of title 5."
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–301 substituted “chapter 75 of title 31” for “the Single Audit Act of 1984 (98 Stat. 2327, 31 U.S.C. 7501 et seq.),”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–301 substituted "chapter 75 of title 31" for "the Single Audit Act of 1984 (98 Stat. 2327, 31 U.S.C. 7501 et seq.),".
 
-Subsec. (d). Pub. L. 101–644 substituted “Except as provided in section 13a or 450j–1(a)(3) of this title,” for “Any” and inserted “through the respective Secretary” before period at end.
+Subsec. (d). Pub. L. 101–644 substituted "Except as provided in section 13a or 450j–1(a)(3) of this title," for "Any" and inserted "through the respective Secretary" before period at end.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–472, §104(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each recipient of Federal financial assistance from the Secretary of Interior or the Secretary of Health Education, and Welfare, under this Act, shall keep such records as the appropriate Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the cost of the project or undertaking in connection with which such assistance is given or used, the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit.”
+<b>1988</b>—Subsec. (a). Pub. L. 100–472, §104(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Each recipient of Federal financial assistance from the Secretary of Interior or the Secretary of Health Education, and Welfare, under this Act, shall keep such records as the appropriate Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of such assistance, the cost of the project or undertaking in connection with which such assistance is given or used, the amount of that portion of the cost of the project or undertaking supplied by other sources, and such other records as will facilitate an effective audit."
 
-Subsec. (e). Pub. L. 100–581 substituted “to each tribe” for “to tribes”.
+Subsec. (e). Pub. L. 100–581 substituted "to each tribe" for "to tribes".
 
 Pub. L. 100–472, §104(b), added subsec. (e).
 
-Subsec. (f). Pub. L. 100–472, §208, redesignated section 450l of this title as subsec. (f) of this section and inserted “through regulations promulgated under sections 552 and 553 of title 5”.
+Subsec. (f). Pub. L. 100–472, §208, redesignated section 450l of this title as subsec. (f) of this section and inserted "through regulations promulgated under sections 552 and 553 of title 5".
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

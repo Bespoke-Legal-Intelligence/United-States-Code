@@ -30,5 +30,5 @@ Historical and Revision Notes
 
 \[None.\]
 
-The words “Navy . . . or Marine Corps” are substituted for the words “naval service”, in section 6111 of title 10, to conform to the definition of that term in section 5001(a)(3) of title 10. The words “and conclusive” are omitted as surplusage.
+The words "Navy . . . or Marine Corps" are substituted for the words "naval service", in section 6111 of title 10, to conform to the definition of that term in section 5001(a)(3) of title 10. The words "and conclusive" are omitted as surplusage.
 

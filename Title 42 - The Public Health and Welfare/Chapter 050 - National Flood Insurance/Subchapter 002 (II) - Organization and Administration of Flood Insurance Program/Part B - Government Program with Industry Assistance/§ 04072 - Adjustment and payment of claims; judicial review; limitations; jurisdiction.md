@@ -6,11 +6,11 @@ In the event the program is carried out as provided in section 4071 of this titl
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141 substituted “Administrator” for “Director” wherever appearing.
+<b>2012</b>—Pub. L. 112–141 substituted "Administrator" for "Director" wherever appearing.
 
-<b>1983</b>—Pub. L. 98–181, §451(d)(5), inserted “original exclusive” before “jurisdiction”.
+<b>1983</b>—Pub. L. 98–181, §451(d)(5), inserted "original exclusive" before "jurisdiction".
 
-Pub. L. 98–181, §451(d)(1), substituted “Director” for “Secretary” wherever appearing.
+Pub. L. 98–181, §451(d)(1), substituted "Director" for "Secretary" wherever appearing.
 
 #### Transfer of Functions
 

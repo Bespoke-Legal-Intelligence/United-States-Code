@@ -1,6 +1,6 @@
 ### §3520. Establishment of task force on information collection and dissemination
 
-(a) There is established a task force to study the feasibility of streamlining requirements with respect to small business concerns regarding collection of information and strengthening dissemination of information (in this section referred to as the “task force”).
+(a) There is established a task force to study the feasibility of streamlining requirements with respect to small business concerns regarding collection of information and strengthening dissemination of information (in this section referred to as the "task force").
 
 (b)(1) The Director shall determine—
 
@@ -34,7 +34,7 @@
 
 (c) The task force shall—
 
-&emsp;(1) identify ways to integrate the collection of information across Federal agencies andprograms and examine the feasibility and desirability of requiring each agency to consolidate requirements regarding collections of information with respect to small business concerns within and across agencies, without negatively impacting the effectiveness of underlying laws and regulations regarding such collections of information, in order that each small business concern may submit all information required by the agency—
+&emsp;(1) identify ways to integrate the collection of information across Federal agencies and programs and examine the feasibility and desirability of requiring each agency to consolidate requirements regarding collections of information with respect to small business concerns within and across agencies, without negatively impacting the effectiveness of underlying laws and regulations regarding such collections of information, in order that each small business concern may submit all information required by the agency—
 
 &emsp;&emsp;(A) to 1 point of contact in the agency;
 
@@ -110,7 +110,7 @@
 
 (g) The task force shall terminate after completion of its work.
 
-(h) In this section, the term “small business concern” has the meaning given under section 3 of the Small Business Act (15 U.S.C. 632).
+(h) In this section, the term "small business concern" has the meaning given under section 3 of the Small Business Act (15 U.S.C. 632).
 
 (Added Pub. L. 107–198, §3(a)(2), June 28, 2002, 116 Stat. 730.)
 

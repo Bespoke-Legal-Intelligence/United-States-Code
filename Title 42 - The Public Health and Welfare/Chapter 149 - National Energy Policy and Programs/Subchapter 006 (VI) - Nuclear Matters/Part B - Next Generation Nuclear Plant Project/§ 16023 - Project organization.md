@@ -80,7 +80,7 @@ The Project shall be conducted in the following phases:
 
 #### (A) In general
 
-&emsp;&emsp;The Nuclear Energy Research Advisory Committee of the Department (referred to in this paragraph as the “NERAC”) shall—
+&emsp;&emsp;The Nuclear Energy Research Advisory Committee of the Department (referred to in this paragraph as the "NERAC") shall—
 
 &emsp;&emsp;&emsp;(i) review all program plans for the Project and all progress under the Project on an ongoing basis; and
 
@@ -94,7 +94,7 @@ The Project shall be conducted in the following phases:
 
 &emsp;&emsp;Not later than 180 days after August 8, 2005, the NERAC shall—
 
-&emsp;&emsp;&emsp;(i) review existing program plans for the Project in light of the recommendations of the document entitled “Design Features and Technology Uncertainties for the Next Generation Nuclear Plant,” dated June 30, 2004; and
+&emsp;&emsp;&emsp;(i) review existing program plans for the Project in light of the recommendations of the document entitled "Design Features and Technology Uncertainties for the Next Generation Nuclear Plant," dated June 30, 2004; and
 
 &emsp;&emsp;&emsp;(ii) address any recommendations of the document not incorporated in program plans for the Project.
 

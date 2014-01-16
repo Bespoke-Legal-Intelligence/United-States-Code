@@ -44,7 +44,7 @@ Pub. L. 112–73, Dec. 20, 2011, 125 Stat. 784, provided that:
 
 “(a)
 
-Presentation Authorized.—Upon receipt of a request under subsection (b), the head of an executive agency may give a flag of the United States for an individual who—
+Presentation Authorized.—Upon receipt of a request under subsection (b), the head of an executiveagency may give a flag of the United States for an individual who—
 
 &emsp;“(1) was an employee of the agency; and
 

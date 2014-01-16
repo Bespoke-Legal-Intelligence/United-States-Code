@@ -3,7 +3,7 @@
 | Sec. |  |
 | :--- | ---: |
 | [1751\.](%C2%A7%2001751%20-%20Congressional%20declaration%20of%20policy.md) | Congressional declaration of policy. |
-| [1752\.](%C2%A7%2001752%20-%20Authorization%20of%20appropriations%3B%20%E2%80%9CSecretary%E2%80%9D%20defined.md) | Authorization of appropriations; “Secretary” defined. |
+| [1752\.](%C2%A7%2001752%20-%20Authorization%20of%20appropriations%3B%20Secretary%20defined.md) | Authorization of appropriations; "Secretary" defined. |
 | [1753\.](%C2%A7%2001753%20-%20Apportionments%20to%20States.md) | Apportionments to States. |
 | [1754\.](%C2%A7%2001754%20-%20Nutrition%20promotion.md) | Nutrition promotion. |
 | [1755\.](%C2%A7%2001755%20-%20Direct%20expenditures%20for%20agricultural%20commodities%20and%20other%20foods.md) | Direct expenditures for agricultural commodities and other foods. |
@@ -26,7 +26,7 @@
 | 1766b to 1768. Repealed. |  |
 | [1769\.](%C2%A7%2001769%20-%20Pilot%20projects.md) | Pilot projects. |
 | [1769a.](%C2%A7%2001769a%20-%20Fresh%20fruit%20and%20vegetable%20program.md) | Fresh fruit and vegetable program. |
-| [1769b.](%C2%A7%2001769b%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md) | Department of Defense overseas dependents’ schools. |
+| [1769b.](%C2%A7%2001769b%20-%20Department%20of%20Defense%20overseas%20dependents%27%20schools.md) | Department of Defense overseas dependents' schools. |
 | 1769b–1. | Training, technical assistance, and food service management institute. |
 | [1769c.](%C2%A7%2001769c%20-%20Compliance%20and%20accountability.md) | Compliance and accountability. |
 | [1769d.](%C2%A7%2001769d%20-%20Childhood%20hunger%20research.md) | Childhood hunger research. |
@@ -45,7 +45,7 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01751 - Congressional declaration of policy](%C2%A7%2001751%20-%20Congressional%20declaration%20of%20policy.md)
-- [&sect; 01752 - Authorization of appropriations; &#8220;Secretary&#8221; defined](%C2%A7%2001752%20-%20Authorization%20of%20appropriations%3B%20%E2%80%9CSecretary%E2%80%9D%20defined.md)
+- [&sect; 01752 - Authorization of appropriations; Secretary defined](%C2%A7%2001752%20-%20Authorization%20of%20appropriations%3B%20Secretary%20defined.md)
 - [&sect; 01753 - Apportionments to States](%C2%A7%2001753%20-%20Apportionments%20to%20States.md)
 - [&sect; 01754 - Nutrition promotion](%C2%A7%2001754%20-%20Nutrition%20promotion.md)
 - [&sect; 01755 - Direct expenditures for agricultural commodities and other foods](%C2%A7%2001755%20-%20Direct%20expenditures%20for%20agricultural%20commodities%20and%20other%20foods.md)
@@ -70,7 +70,7 @@
 - [&sect; 01767, 1768 - Repealed. Pub. L. 99&#8211;500, title III, &sect;371(a)(1), Oct. 18, 1986, 100 Stat. 1783&#8211;368, and Pub. L. 99&#8211;591, title III&#8230;](%C2%A7%2001767%2C%201768%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93500%2C%20title%20III%2C%20%C2%A7371%28a%29%281%29%2C%20Oct.%2018%2C%201986%2C%20100%20Stat.%201783%E2%80%93368%2C%20and%20Pub.%20L.%2099%E2%80%93591%2C%20title%20III%E2%80%A6.md)
 - [&sect; 01769 - Pilot projects](%C2%A7%2001769%20-%20Pilot%20projects.md)
 - [&sect; 01769a - Fresh fruit and vegetable program](%C2%A7%2001769a%20-%20Fresh%20fruit%20and%20vegetable%20program.md)
-- [&sect; 01769b - Department of Defense overseas dependents&#8217; schools](%C2%A7%2001769b%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md)
+- [&sect; 01769b - Department of Defense overseas dependents' schools](%C2%A7%2001769b%20-%20Department%20of%20Defense%20overseas%20dependents%27%20schools.md)
 - [&sect; 01769b&#8211;1 - Training, technical assistance, and food service management institute](%C2%A7%2001769b%E2%80%931%20-%20Training%2C%20technical%20assistance%2C%20and%20food%20service%20management%20institute.md)
 - [&sect; 01769c - Compliance and accountability](%C2%A7%2001769c%20-%20Compliance%20and%20accountability.md)
 - [&sect; 01769d - Childhood hunger research](%C2%A7%2001769d%20-%20Childhood%20hunger%20research.md)

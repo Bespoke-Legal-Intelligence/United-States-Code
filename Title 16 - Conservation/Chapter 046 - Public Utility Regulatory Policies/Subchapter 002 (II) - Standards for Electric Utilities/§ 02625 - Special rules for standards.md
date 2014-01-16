@@ -44,11 +44,11 @@ Separate metering shall be determined appropriate for any new building for purpo
 
 (2) In making a review under subparagraph (B) of paragraph (1) with respect to an electric utility, the reviewing authority shall examine and, if appropriate, cause to be audited the practices of such electric utility relating to costs subject to an automatic adjustment clause, and shall require such reports as may be necessary to carry out such review (including a disclosure of any ownership or corporate relationship between such electric utility and the seller to such utility of fuel, electric energy, or other items).
 
-(3) As used in this subsection and section 2623(b) of this title, the term “automatic adjustment clause” means a provision of a rate schedule which provides for increases or decreases (or both), without prior hearing, in rates reflecting increases or decreases (or both) in costs incurred by an electric utility. Such term does not include an interim rate which takes effect subject to a later determination of the appropriate amount of the rate.
+(3) As used in this subsection and section 2623(b) of this title, the term "automatic adjustment clause" means a provision of a rate schedule which provides for increases or decreases (or both), without prior hearing, in rates reflecting increases or decreases (or both) in costs incurred by an electric utility. Such term does not include an interim rate which takes effect subject to a later determination of the appropriate amount of the rate.
 
 #### (f) Information to consumers
 
-(1) For purposes of the standard for information to consumers established by section 2623(b)(3) of this title, each electric utility shall transmit to each of its electric consumers a clear and concise explanation of the existing rate schedule and any rate schedule applied for\(or proposed by a nonregulated electric utility) applicable to such consumer. Such statement shall be transmitted to each such consumer—
+(1) For purposes of the standard for information to consumers established by section 2623(b)(3) of this title, each electric utility shall transmit to each of its electric consumers a clear and concise explanation of the existing rate schedule and any rate schedule applied for (or proposed by a nonregulated electric utility) applicable to such consumer. Such statement shall be transmitted to each such consumer—
 
 &emsp;(A) not later than sixty days after the date of commencement of service to such consumer or ninety days after the standard established by section 2623(b)(3) of this title is adopted with respect to such electric utility, whichever last occurs, and
 
@@ -84,13 +84,13 @@ The procedures for termination of service referred to in section 2623(b)(4) of t
 
 (1) For purposes of this section and section 2623(b)(5) of this title—
 
-&emsp;(A) The term “advertising” means the commercial use, by an electric utility, of any media, including newspaper, printed matter, radio, and television, in order to transmit a message to a substantial number of members of the public or to such utility's electric consumers.
+&emsp;(A) The term "advertising" means the commercial use, by an electric utility, of any media, including newspaper, printed matter, radio, and television, in order to transmit a message to a substantial number of members of the public or to such utility's electric consumers.
 
-&emsp;(B) The term “political advertising” means any advertising for the purpose of influencing public opinion with respect to legislative, administrative, or electoral matters, or with respect to any controversial issue of public importance.
+&emsp;(B) The term "political advertising" means any advertising for the purpose of influencing public opinion with respect to legislative, administrative, or electoral matters, or with respect to any controversial issue of public importance.
 
-&emsp;(C) The term “promotional advertising” means any advertising for the purpose of encouraging any person to select or use the service or additional service of an electric utility or the selection or installation of any appliance or equipment designed to use such utility's service.
+&emsp;(C) The term "promotional advertising" means any advertising for the purpose of encouraging any person to select or use the service or additional service of an electric utility or the selection or installation of any appliance or equipment designed to use such utility's service.
 
-(2) For purposes of this subsection and section 2623(b)(5) of this title, the terms “political advertising” and “promotional advertising” do not include—
+(2) For purposes of this subsection and section 2623(b)(5) of this title, the terms "political advertising" and "promotional advertising" do not include—
 
 &emsp;(A) advertising which informs electric consumers how they can conserve energy or can reduce peak demand for electric energy,
 
@@ -112,11 +112,11 @@ In making a determination with respect to the standard established by section 26
 
 #### References in Text
 
-The National Energy Conservation Policy Act, referred to in subsec. (h)(2)(B), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended. Part 1 of title II of theNational Energy Conservation Policy Act was classified generally to part A (§8211 et seq.) of subchapter II of chapter 91 of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
+The National Energy Conservation Policy Act, referred to in subsec. (h)(2)(B), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§8211 et seq.) of subchapter II of chapter 91 of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
 
 #### Amendments
 
-<b>2005</b>—Subsec. (b). Pub. L. 109–58, §1252(b)(1), (2), inserted “and the standard for time-based metering and communications established by section 2621(d)(14) of this title” after “section 2621(d)(3) of this title” and substituted “metering and communications costs” for “metering costs”.
+<b>2005</b>—Subsec. (b). Pub. L. 109–58, §1252(b)(1), (2), inserted "and the standard for time-based metering and communications established by section 2621(d)(14) of this title" after "section 2621(d)(3) of this title" and substituted "metering and communications costs" for "metering costs".
 
 Subsec. (i). Pub. L. 109–58, §1252(b)(3), added subsec. (i).
 

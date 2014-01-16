@@ -12,9 +12,9 @@ The rules shall establish the time limits within which banks and savings associa
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 struck out “and loan” after “savings” in subsecs. (a) and (b).
+<b>2010</b>—Pub. L. 111–203 struck out "and loan" after "savings" in subsecs. (a) and (b).
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–73 struck out “and shall require the submission of periodic reports with respect to the installation, maintenance, and operation of security devices and procedures” before period at end.
+<b>1989</b>—Subsec. (b). Pub. L. 101–73 struck out "and shall require the submission of periodic reports with respect to the installation, maintenance, and operation of security devices and procedures" before period at end.
 
 #### Effective Date of 2010 Amendment
 

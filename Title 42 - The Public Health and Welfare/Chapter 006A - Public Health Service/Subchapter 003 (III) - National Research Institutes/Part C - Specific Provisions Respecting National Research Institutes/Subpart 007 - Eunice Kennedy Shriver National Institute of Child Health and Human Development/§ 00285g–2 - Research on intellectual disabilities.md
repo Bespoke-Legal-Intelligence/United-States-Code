@@ -6,7 +6,7 @@ The Director of the Institute shall conduct and support research and related act
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–256 amended section generally. Prior to amendment, text read as follows: “The Director of the Institute shall conduct and support research and related activities into the causes, prevention, and treatment of mental retardation.”
+<b>2010</b>—Pub. L. 111–256 amended section generally. Prior to amendment, text read as follows: "The Director of the Institute shall conduct and support research and related activities into the causes, prevention, and treatment of mental retardation."
 
 #### Definitions
 

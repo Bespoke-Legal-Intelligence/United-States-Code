@@ -10,7 +10,7 @@ In the case of taxes subject to the jurisdiction of the Tax Court—
 
 #### (1) Prior to petition to Tax Court
 
-&emsp;If the bond is given before the taxpayer has filed his petition under section 6213(a), the bond shall contain a further condition that if a petition is not filed within the period provided in such section, then the amount, thecollection of which is stayed by the bond, will be paid on notice and demand at any time after the expiration of such period, together with interest thereon from the date of the jeopardy notice and demand to the date of notice and demand under this paragraph.
+&emsp;If the bond is given before the taxpayer has filed his petition under section 6213(a), the bond shall contain a further condition that if a petition is not filed within the period provided in such section, then the amount, the collection of which is stayed by the bond, will be paid on notice and demand at any time after the expiration of such period, together with interest thereon from the date of the jeopardy notice and demand to the date of notice and demand under this paragraph.
 
 #### (2) Effect of Tax Court decision
 
@@ -66,17 +66,17 @@ In the case of taxes subject to the jurisdiction of the Tax Court—
 
 <b>1988</b>—Subsec. (b)(3)(C). Pub. L. 100–647 added subpar. (C).
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–203, §10713(b)(2)(E)(i), substituted “6851, 6852,” for “6851”.
+<b>1987</b>—Subsec. (a). Pub. L. 100–203, §10713(b)(2)(E)(i), substituted "6851, 6852," for "6851".
 
-Subsec. (b)(3)(A). Pub. L. 100–203, §10713(b)(2)(E)(ii), substituted “6851, 6852, or 6861” for “6851 or 6861”.
+Subsec. (b)(3)(A). Pub. L. 100–203, §10713(b)(2)(E)(ii), substituted "6851, 6852, or 6861" for "6851 or 6861".
 
-Subsec. (b)(3)(A)(iii). Pub. L. 100–203, §10713(b)(2)(E)(iii), as amended by Pub. L. 101–239, substituted “6851(a), 6852(a), nor 6861(a)” for “6851(a) nor 6861(a)”.
+Subsec. (b)(3)(A)(iii). Pub. L. 100–203, §10713(b)(2)(E)(iii), as amended by Pub. L. 101–239, substituted "6851(a), 6852(a), nor 6861(a)" for "6851(a) nor 6861(a)".
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1204(c)(7), 1906(b)(13)(A), inserted reference to section 6851, substituted “an assessment” for “a jeopardy assessment”, struck out “or his delegate” after “Secretary”, and substituted “such assessment” for “the jeopardy assessment”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §§1204(c)(7), 1906(b)(13)(A), inserted reference to section 6851, substituted "an assessment" for "a jeopardy assessment", struck out "or his delegate" after "Secretary", and substituted "such assessment" for "the jeopardy assessment".
 
-Subsec. (b)(3)(A). Pub. L. 94–455, §1204(c)(8), substituted “an assessment has been made under section 6851 or 6861,” for “a jeopardy assessment has been made under section 6861” in provisions preceding cl. (i), added cl. (i), redesignated former cl. (i) as (ii) and substituted “before the issuance of the notice of deficiency described in section 6851(b) or 6861(b), and the expiration of the period” for “if section 6861(b) is applicable, prior to the issuance of the notice of deficiency and the expiration of the time”, redesignated former cl. (ii) as (iii) and substituted “assessment), before the expiration” for “jeopardy assessment under section 6861), prior to the expiration” and “if neither sections 6851(a) nor 6861(a) were applicable” for “if section 6861(a) were not applicable”, and inserted provisions following cl. (iii).
+Subsec. (b)(3)(A). Pub. L. 94–455, §1204(c)(8), substituted "an assessment has been made under section 6851 or 6861," for "a jeopardy assessment has been made under section 6861" in provisions preceding cl. (i), added cl. (i), redesignated former cl. (i) as (ii) and substituted "before the issuance of the notice of deficiency described in section 6851(b) or 6861(b), and the expiration of the period" for "if section 6861(b) is applicable, prior to the issuance of the notice of deficiency and the expiration of the time", redesignated former cl. (ii) as (iii) and substituted "assessment), before the expiration" for "jeopardy assessment under section 6861), prior to the expiration" and "if neither sections 6851(a) nor 6861(a) were applicable" for "if section 6861(a) were not applicable", and inserted provisions following cl. (iii).
 
-Subsec. (b)(3)(B)(ii). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (b)(3)(B)(ii). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsec. (b)(3)(C). Pub. L. 94–455, §1906(a)(38), struck out subpar. (C) which had limited the applicability of subpars. (A) and (B) to jeopardy assessments made on or after Jan. 1, 1955, with respect to taxes imposed by this title, and with respect to taxes imposed by the Internal Revenue Code of 1939.
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 101–239 effective as if included in the provision of the 
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title VI, §6245(b), Nov. 10, 1988, 102 Stat. 3751, provided that: “The amendments made by this section \[amending this section\] shall take effect on the 90th day after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title VI, §6245(b), Nov. 10, 1988, 102 Stat. 3751, provided that: "The amendments made by this section \[amending this section\] shall take effect on the 90th day after the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 #### Effective Date of 1976 Amendment
 

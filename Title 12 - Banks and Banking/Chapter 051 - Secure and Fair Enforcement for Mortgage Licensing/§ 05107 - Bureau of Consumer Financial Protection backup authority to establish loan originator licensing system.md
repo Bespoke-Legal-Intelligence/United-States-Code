@@ -46,7 +46,7 @@ The Director may extend, by not more than 24 months, the 1-year or 2-year period
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §1100(3), (6)(A), inserted section catchline, struck out former section catchline which read “Secretary of Housing and Urban Development backup authority to establish a loan originator licensing system”, and substituted “Director” for “Secretary” wherever appearing in text.
+<b>2010</b>—Pub. L. 111–203, §1100(3), (6)(A), inserted section catchline, struck out former section catchline which read "Secretary of Housing and Urban Development backup authority to establish a loan originator licensing system", and substituted "Director" for "Secretary" wherever appearing in text.
 
 Subsec. (f). Pub. L. 111–203, §1100(6)(B), added subsec. (f).
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “Council” has the meaning given that term in section 1301 of this title.
+Definition.—In this section, the term "Council" has the meaning given that term in section 1301 of this title.
 
 (b)
 

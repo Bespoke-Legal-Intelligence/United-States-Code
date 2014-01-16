@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) any agency or unit thereof excluded from coverage by the President under subsection (c) of this section; or
 
-&emsp;&emsp;(B) the Federal Bureau of Investigation, the Drug Enforcement Administration, the Central Intelligence Agency, the Office of the Director of National Intelligence, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10, and, as determined by the President, an Executive agency, or unit thereof, whose principal function is the conduct of foreign intelligence or counterintelligence activities;
+&emsp;&emsp;(B) the Federal Bureau of Investigation, the Drug Enforcement Administration, the Central Intelligence Agency, the Office ofthe Director of National Intelligence, the Defense Intelligence Agency, the National Geospatial-Intelligence Agency, the National Security Agency, Department of Defense intelligence activities the civilian employees of which are subject to section 1590 of title 10, and, as determined by the President, an Executive agency, or unit thereof, whose principal function is the conduct of foreign intelligence or counterintelligence activities;
 
 &emsp;&emsp;(C) the Federal Election Commission or the Election Assistance Commission;
 
@@ -56,7 +56,7 @@
 
 &emsp;(A) is under the Executive Schedule, or for which the rate of basic pay is determined by reference to the Executive Schedule, and
 
-&emsp;(B) on the day before the date of the enactment of the Civil Service Reform Act of 1978 was specifically required under section 2102 ofthis title or otherwise required by law to be in the competitive service,
+&emsp;(B) on the day before the date of the enactment of the Civil Service Reform Act of 1978 was specifically required under section 2102 of this title or otherwise required by law to be in the competitive service,
 
 > shall be designated as a career reserved position if the position entails direct responsibility to the public for the management or operation of particular government programs or functions.
 
@@ -70,7 +70,7 @@
 
 &emsp;(3) upon completion of its review, recommend to the President whether the agency or unit should be excluded from the coverage of this subchapter.
 
-> If the Office recommends that an agency or unit thereof be excluded from the coverage of this subchapter, the President may, on written determination, make the exclusion for the period determined by the President to be appropriate.
+> If the Office recommends that an agency or unit thereof be excluded from the coverage of thissubchapter, the President may, on written determination, make the exclusion for the period determined by the President to be appropriate.
 
 (d) Any agency or unit which is excluded from coverage under subsection (c) of this section shall make a sustained effort to bring its personnel system into conformity with the Senior Executive Service to the extent practicable.
 

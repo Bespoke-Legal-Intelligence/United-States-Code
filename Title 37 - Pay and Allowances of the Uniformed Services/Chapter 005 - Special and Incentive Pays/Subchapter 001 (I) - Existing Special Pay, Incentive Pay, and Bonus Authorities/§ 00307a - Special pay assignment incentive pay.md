@@ -22,7 +22,7 @@ Maximum Rate or Amount.—(1) The maximum monthly rate of incentive pay payable 
 
 (3) The amount of each installment payment of incentive pay payable to a member on an installment basis under this section shall be the amount equal to—
 
-&emsp;(A) the product of (i) a monthly rate specified in the written agreement of the member under subsection (b)(2) (which monthly rate may not exceed the maximum monthly rate authorized under paragraph (1) at the time of the written agreement), and (ii) the number of months in the period for which incentive pay will be paid; divided by
+&emsp;(A) the product of (i) a monthly rate specified in the written agreement of the memberunder subsection (b)(2) (which monthly rate may not exceed the maximum monthly rate authorized under paragraph (1) at the time of the written agreement), and (ii) the number of months in the period for which incentive pay will be paid; divided by
 
 &emsp;(B) the number of installments over such period.
 
@@ -30,7 +30,7 @@ Maximum Rate or Amount.—(1) The maximum monthly rate of incentive pay payable 
 
 (d)
 
-Repayment.—A member who enters into an agreement under this section and receives incentive pay under the agreement in a lump sum or installments, but who fails to complete the period of service covered by the payment, whether voluntarily or because of misconduct, shall besubject to the repayment provisions of section 303a(e) of this title.
+Repayment.—A member who enters into an agreement under this section and receives incentive pay under the agreement in a lump sum or installments, but who fails to complete the period of service covered by the payment, whether voluntarily or because of misconduct, shall be subject to the repayment provisions of section 303a(e) of this title.
 
 (e)
 
@@ -46,35 +46,37 @@ Status Not Affected by Temporary Duty or Leave.—The service of a member in an 
 
 (g)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2013.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2014.
 
-(Added Pub. L. 107–314, div. A, title VI, §616(a)(1), Dec. 2, 2002, 116 Stat. 2569; amended Pub. L. 108–375, div. A, title VI, §§614(b), 617(a), (b), Oct. 28, 2004, 118 Stat. 1947, 1948; Pub. L. 109–163, div. A, title VI, §§624(b), 628, 687(b)(13), Jan. 6, 2006, 119 Stat. 3295, 3296, 3329; Pub. L. 109–364, div. A, title VI, §614(b), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–417, \[div. A\], title VI, §614(b), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(2), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(2), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(2), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §615(2), Jan. 2, 2013, 126 Stat. 1777.)
+(Added Pub. L. 107–314, div. A, title VI, §616(a)(1), Dec. 2, 2002, 116 Stat. 2569; amended Pub. L. 108–375, div. A, title VI, §§614(b), 617(a), (b), Oct. 28, 2004, 118 Stat. 1947, 1948; Pub. L. 109–163, div. A, title VI, §§624(b), 628, 687(b)(13), Jan. 6, 2006, 119 Stat. 3295, 3296, 3329; Pub. L. 109–364, div. A, title VI, §614(b), Oct. 17, 2006, 120 Stat. 2248; Pub. L. 110–417, \[div. A\], title VI, §614(b), Oct. 14, 2008, 122 Stat. 4485; Pub. L. 111–84, div. A, title VI, §615(2), Oct. 28, 2009, 123 Stat. 2354; Pub. L. 111–383, div. A, title VI, §615(2), Jan. 7, 2011, 124 Stat. 4237; Pub. L. 112–81, div. A, title VI, §615(2), Dec. 31, 2011, 125 Stat. 1450; Pub. L. 112–239, div. A, title VI, §615(2), Jan. 2, 2013, 126 Stat. 1777; Pub. L. 113–66, div. A, title VI, §615(2), Dec. 26, 2013, 127 Stat. 781.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (g). Pub. L. 112–239 substituted “December 31, 2013” for “December 31, 2012”.
+<b>2013</b>—Subsec. (g). Pub. L. 113–66 substituted "December 31, 2014" for "December 31, 2013".
 
-<b>2011</b>—Subsec. (g). Pub. L. 112–81 substituted “December 31, 2012” for “December 31, 2011”.
+Pub. L. 112–239 substituted "December 31, 2013" for "December 31, 2012".
 
-Pub. L. 111–383 substituted “December 31, 2011” for “December 31, 2010”.
+<b>2011</b>—Subsec. (g). Pub. L. 112–81 substituted "December 31, 2012" for "December 31, 2011".
 
-<b>2009</b>—Subsec. (g). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+Pub. L. 111–383 substituted "December 31, 2011" for "December 31, 2010".
 
-<b>2008</b>—Subsec. (g). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+<b>2009</b>—Subsec. (g). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163, §628(a)(1), struck out “monthly” before “incentive pay” and inserted at end “Incentive pay payable under this section may be paid on a monthly basis, in a lump sum, or in installments.”
+<b>2008</b>—Subsec. (g). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
 
-Subsec. (b). Pub. L. 109–163, §628(a)(2), designated existing provisions as par. (1), substituted “the payment of incentive pay on a monthly basis” for “incentive pay” in first sentence, and added par. (2).
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §628(a)(1), struck out "monthly" before "incentive pay" and inserted at end "Incentive pay payable under this section may be paid on a monthly basis, in a lump sum, or in installments."
 
-Subsec. (c). Pub. L. 109–163, §628(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The maximum monthly rate of incentive pay payable to a member under this section is $1,500.”
+Subsec. (b). Pub. L. 109–163, §628(a)(2), designated existing provisions as par. (1), substituted "the payment of incentive pay on a monthly basis" for "incentive pay" in first sentence, and added par. (2).
+
+Subsec. (c). Pub. L. 109–163, §628(b), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "The maximum monthly rate of incentive pay payable to a member under this section is $1,500."
 
 Subsec. (d). Pub. L. 109–163, §687(b)(13), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
 
-“(1) A member who, pursuant to an agreement under subsection (b)(2), receives a lump sum or installment payment of incentive pay under this section and who fails to complete the total period of service or other conditions specified in the agreement voluntarily or because of misconduct, shall refund to the United States an amount equal to the percentage of incentive pay paid which is equal to the unexpired portion of the service divided by the total period of service. The Secretary concerned may waive repayment of an amount of incentive pay under this section, in whole or in part, if the Secretary determines that conditions and circumstances warrant.
+"(1) A member who, pursuant to an agreement under subsection (b)(2), receives a lump sum or installment payment of incentive pay under this section and who fails to complete the total period of service or other conditions specified in the agreement voluntarily or because of misconduct, shall refund to the United States an amount equal to the percentage of incentive pay paid which is equal to the unexpired portion of the service divided by the total period of service. The Secretary concerned may waive repayment of an amount of incentive pay under this section, in whole or in part, if the Secretary determines that conditions and circumstances warrant.
 
-“(2) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
+"(2) An obligation to repay the United States imposed under paragraph (1) is for all purposes a debt owed to the United States.
 
-“(3) A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of the agreement does not discharge the member signing the agreement from a debt arising under paragraph (1).”
+"(3) A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of the agreement does not discharge the member signing the agreement from a debt arising under paragraph (1)."
 
 Pub. L. 109–163, §628(c), added subsec. (d). Former subsec. (d) redesignated (e).
 
@@ -82,47 +84,47 @@ Subsec. (e). Pub. L. 109–163, §628(c)(1), redesignated subsec. (d) as (e). Fo
 
 Subsec. (f). Pub. L. 109–163, §628(c)(1), redesignated subsec. (e) as (f). Former subsec. (f) redesignated (g).
 
-Pub. L. 109–163, §624(b), substituted “December 31, 2007” for “December 31, 2006”.
+Pub. L. 109–163, §624(b), substituted "December 31, 2007" for "December 31, 2006".
 
-Subsec. (g). Pub. L. 109–364 substituted “December 31, 2008” for “December 31, 2007”.
+Subsec. (g). Pub. L. 109–364 substituted "December 31, 2008" for "December 31, 2007".
 
 Pub. L. 109–163, §628(c)(1), redesignated subsec. (f) as (g).
 
-<b>2004</b>—Subsec. (b). Pub. L. 108–375, §617(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The period for which incentive pay will be provided under this section and the monthly rate of the incentive pay for a member shall be specified in a written agreement between the Secretary concerned and the member. Agreements entered into by the Secretary of a military department shall require the concurrence of the Secretary of Defense.”
+<b>2004</b>—Subsec. (b). Pub. L. 108–375, §617(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The period for which incentive pay will be provided under this section and the monthly rate of the incentive pay for a member shall be specified in a written agreement between the Secretary concerned and the member. Agreements entered into by the Secretary of a military department shall require the concurrence of the Secretary of Defense."
 
-Subsec. (e). Pub. L. 108–375, §617(b), substituted “by reason of—” and pars. (1) and (2) for “by reason of temporary duty performed by the member pursuant to orders or absence of the member for authorized leave.”
+Subsec. (e). Pub. L. 108–375, §617(b), substituted "by reason of—" and pars. (1) and (2) for "by reason of temporary duty performed by the member pursuant to orders or absence of the member for authorized leave."
 
-Subsec. (f). Pub. L. 108–375, §614(b), substituted “December 31, 2006” for “December 31, 2005”.
+Subsec. (f). Pub. L. 108–375, §614(b), substituted "December 31, 2006" for "December 31, 2005".
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–375, div. A, title VI, §617(c), Oct. 28, 2004, 118 Stat. 1949, provided that: “Paragraph (2) of section 307a(e) of title 37, United States Code, as added by subsection (b), shall apply with respect to authorized leave occurring on or after the date of the enactment of this Act \[Oct. 28, 2004\].”
+Pub. L. 108–375, div. A, title VI, §617(c), Oct. 28, 2004, 118 Stat. 1949, provided that: "Paragraph (2) of section 307a(e) of title 37, United States Code, as added by subsection (b), shall apply with respect to authorized leave occurring on or after the date of the enactment of this Act \[Oct. 28, 2004\]."
 
 #### Savings Provision
 
-For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under a provision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
+For savings provision relating to payment or repayment of any bonus, incentive pay, special pay, or similar pay obligated to be paid before Apr. 1, 2006, under aprovision of this section amended by section 687(b) of Pub. L. 109–163, see section 687(f) of Pub. L. 109–163, set out as a note under section 510 of Title 10, Armed Forces.
 
 #### Payment of Assignment Incentive Pay for Reserve Members Serving in Combat Zone for More Than 22 Months
 
 Pub. L. 110–181, div. A, title VI, §624, Jan. 28, 2008, 122 Stat. 153, as amended by Pub. L. 111–383, div. A, title X, §1075(f)(1), Jan. 7, 2011, 124 Stat. 4375, provided that:
 
-“(a)
+"(a)
 
 Payment.—The Secretary of a military department may pay assignment incentive pay under section 307a of title 37, United States Code, to a member of a reserve component under the jurisdiction of the Secretary for each month during the eligibility period of the member determined under subsection (b) during which the member served for any portion of the month in a combat zone associated with Operation Enduring Freedom or Operation Iraqi Freedom in excess of 22 months of qualifying service.
 
-“(b)
+"(b)
 
-Eligibility Period.—The eligibility period for a member extends from January 1, 2005, through the end of the active duty service of the member in a combat zone associated with Operation Enduring Freedom or Operation Iraqi Freedom if the service on active dutyduring the member's most recent period of mobilization to active duty began before January 19, 2007.
+Eligibility Period.—The eligibility period for a member extends from January 1, 2005, through the end of the active duty service of the member in a combat zone associated with Operation Enduring Freedom or Operation Iraqi Freedom if the service on active duty during the member's most recent period of mobilization to active duty began before January 19, 2007.
 
-“(c)
+"(c)
 
 Amount of Payment.—The monthly rate of incentive pay payable to a member under this section is $1,000.
 
-“(d)
+"(d)
 
-Qualifying Service.—For purposes of this section, qualifying service includes cumulative mobilized service on active duty under sections 12301(d), 12302, and 12304 of title 10, United States Code, during the period beginning on January 1, 2003, through the end of the member's active duty service during the member's most recent period of mobilization to active duty beginning before January 19, 2007.”
+Qualifying Service.—For purposes of this section, qualifying service includes cumulative mobilized service on active duty under sections 12301(d), 12302, and 12304 of title 10, United States Code, during the period beginning on January 1, 2003, through the end of the member's active duty service during the member's most recent period of mobilization to active duty beginning before January 19, 2007."
 
 #### Annual Report
 
-Pub. L. 107–314, div. A, title VI, §616(b), Dec. 2, 2002, 116 Stat. 2570, provided that: “Not later than February 28, 2004, and February 28, 2005, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the use of the authority provided under section 307a of title 37, United States Code, as added by subsection (a), including an assessment of the utility of that authority.”
+Pub. L. 107–314, div. A, title VI, §616(b), Dec. 2, 2002, 116 Stat. 2570, provided that: "Not later than February 28, 2004, and February 28, 2005, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report on the use of the authority provided under section 307a of title 37, United States Code, as added by subsection (a), including an assessment of the utility of that authority."
 

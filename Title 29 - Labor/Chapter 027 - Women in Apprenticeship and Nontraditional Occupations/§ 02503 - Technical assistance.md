@@ -4,7 +4,7 @@
 
 With funds appropriated to carry out this section, the Secretary shall make grants to community-based organizations to provide technical assistance to employers and labor unions selected under subsection (b) of this section. Such technical assistance may include—
 
-&emsp;(1) developing outreach and orientation sessions to recruit women into the employers’ apprenticeable occupations and nontraditional occupations;
+&emsp;(1) developing outreach and orientation sessions to recruit women into the employers' apprenticeable occupations and nontraditional occupations;
 
 &emsp;(2) developing preapprenticeable occupations or nontraditional skills training to prepare women for apprenticeable occupations or nontraditional occupations;
 

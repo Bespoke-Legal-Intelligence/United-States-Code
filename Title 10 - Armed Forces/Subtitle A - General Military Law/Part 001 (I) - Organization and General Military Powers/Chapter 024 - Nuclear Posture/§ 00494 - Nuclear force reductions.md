@@ -14,7 +14,7 @@ Sense of congress.—It is the Sense of Congress that—
 
 &emsp;&emsp;(C) the United States should maintain nuclear weapons laboratories and plants and preserve the intellectual infrastructure, including competencies and skill sets; and
 
-&emsp;&emsp;(D) the United States should provide the necessary resources to achieve these goals,using as a starting point the levels set forth in the President's 10-year plan provided to Congress pursuant to section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2549).
+&emsp;&emsp;(D) the United States should provide the necessary resources to achieve these goals, using as a starting point the levels set forth in the President's 10-year plan provided to Congress pursuant to section 1251 of the National Defense Authorization Act for Fiscal Year 2010 (Public Law 111–84; 123 Stat. 2549).
 
 &emsp;(2)
 
@@ -54,13 +54,13 @@ Exception.—The limitation in subparagraph (B) shall not apply to—
 
 Definitions.—In this paragraph:
 
-&emsp;&emsp;&emsp;(i) The term “appropriate congressional committees” means—
+&emsp;&emsp;&emsp;(i) The term "appropriate congressional committees" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) the congressional defense committees; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
 
-&emsp;&emsp;&emsp;(ii) The term “New START Treaty” means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011.
+&emsp;&emsp;&emsp;(ii) The term "New START Treaty" means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011.
 
 (b)
 
@@ -88,7 +88,7 @@ Net Assessment of Nuclear Force Levels Required With Respect to Certain Proposal
 
 &emsp;(1)
 
-In general.—If, during any year beginning after the date of the enactment of this Act,<sup>1</sup> the President makes a proposal described in paragraph (2)—
+In general.—If, during any year beginning after December 31, 2011, the President makes a proposal described in paragraph (2)—
 
 &emsp;&emsp;(A) the Commander of United States Strategic Command shall conduct a net assessment of the current and proposed nuclear forces of the United States and of other countries that possess nuclear weapons to determine whether the nuclear forces of the United States are anticipated to be capable of meeting the objectives of the United States with respect to nuclear deterrence, extended deterrence, assurance of allies, and defense;
 
@@ -102,7 +102,7 @@ Proposal described.—
 
 &emsp;&emsp;(A)
 
-In general.—Except as provided in subparagraph (B), a proposal described in this paragraph is a proposal to reduce the number of nuclear weapons in the active or inactive stockpiles of the United States to a level that is lower than the level on the date of the enactment of this Act.<sup>1</sup>
+In general.—Except as provided in subparagraph (B), a proposal described in this paragraph is a proposal to reduce the number of nuclear weapons in the active or inactive stockpiles of the United States to a level that is lower than the level on December 31, 2011.
 
 &emsp;&emsp;(B)
 
@@ -110,7 +110,7 @@ Exceptions.—A proposal described in this paragraph does not include—
 
 &emsp;&emsp;&emsp;(i) reductions that are a direct result of activities associated with routine stockpile stewardship, including stockpile surveillance, logistics, or maintenance; or
 
-&emsp;&emsp;&emsp;(ii) nuclear weapons retired or awaiting dismantlement on the date of the enactment of this Act.<sup>1</sup>
+&emsp;&emsp;&emsp;(ii) nuclear weapons retired or awaiting dismantlement on December 31, 2011.
 
 &emsp;(3)
 
@@ -126,7 +126,7 @@ Certification.—During any year in which the President recommends to reduce the
 
 &emsp;(2)
 
-Notification.—If the President certifies under paragraph (1) that the recommended number of nuclear weapons in the active and inactive stockpiles of the United States is fewer than the high-confidence assessment of the intelligence community with respect to the number of nuclear weapons in the active and inactive stockpiles of the Russian Federation, the President shall transmit to the congressional defense committees a report by the Commander of the United States Strategic Command, without change, detailing whether the recommended reduction would create a strategic imbalance or degrade deterrence and extended deterrence between the total number of nuclear weapons of the United States and the total number of nuclear weapons of the Russian Federation. The President shall transmit such report by not later than 60 days before the date on which the President carries out any such recommended reductions.
+Notification.—If the President certifies under paragraph (1) that the recommended number of nuclear weapons in the active and inactive stockpiles of the United States is fewer than the high-confidence assessment of the intelligence community with respect to the number of nuclear weapons in the active and inactive stockpiles of the Russian Federation, the President shall transmit to the congressional defense committees a report by the Commander of the United States Strategic Command, without change, detailing whether the recommended reduction would create astrategic imbalance or degrade deterrence and extended deterrence between the total number of nuclear weapons of the United States and the total number of nuclear weapons of the Russian Federation. The President shall transmit such report by not later than 60 days before the date on which the President carries out any such recommended reductions.
 
 &emsp;(3)
 
@@ -140,13 +140,11 @@ Exception.—The notification in paragraph (2) shall not apply to—
 
 Additional views.—On the date on which the President transmits to the congressional defense committees a report by the Commander of the United States Strategic Command under paragraph (2), the President may transmit to such committees a report by the President with respect to whether the recommended reductions covered by the report of the Commander will impact the deterrence or extended deterrence capabilities of the United States.
 
-(Added and amended Pub. L. 112–239, div. A, title X, §§1033(b)(1), (2)(B), 1034, Jan. 2, 2013, 126 Stat. 1920–1922.)
+(Added and amended Pub. L. 112–239, div. A, title X, §§1033(b)(1), (2)(B), 1034, Jan. 2, 2013, 126 Stat. 1920–1922; Pub. L. 113–66, div. A, title X, §1091(a)(7), Dec. 26, 2013, 127 Stat. 875.)
 
 #### References in Text
 
 Section 1251 of the National Defense Authorization Act for Fiscal Year 2010, referred to in subsec. (a)(1)(D), (2)(A), is section 1251 of Pub. L. 111–84, which is set out as a note under section 2523 of Title 50, War and National Defense.
-
-The date of the enactment of this Act, referred to in subsec. (c)(1), (2), probably means the date of the enactment of Pub. L. 112–81, which was approved Dec. 31, 2011. See Codification note below.
 
 #### Codification
 
@@ -158,17 +156,43 @@ The text of this section is based on Pub. L. 112–81, div. A, title X, §1045, 
 
 Subsec. (a)(2). Pub. L. 112–239, §1033(b)(1)(D), amended par. (2) generally. Prior to amendment, par. (2) related to a Presidential report to Congress regarding resource shortfalls.
 
+Subsec. (c)(1), (2)(A), (B)(ii). Pub. L. 113–66 substituted "December 31, 2011" for "the date of the enactment of this Act".
+
 Subsec. (d). Pub. L. 112–239, §1034, added subsec. (d).
 
 #### Effective date of 2013 Amendment
 
-Pub. L. 112–239, div. A, title X, §1033(b)(4), Jan. 2, 2013, 126 Stat. 1922, provided that: “The amendment made by paragraph (1)(D) \[amending this section\] shall take effect on October 1, 2012.”
+Pub. L. 112–239, div. A, title X, §1033(b)(4), Jan. 2, 2013, 126 Stat. 1922, provided that: "The amendment made by paragraph (1)(D) \[amending this section\] shall take effect on October 1, 2012."
 
-#### “Congressional Defense Committees” Defined
+#### Implementation of New START Treaty
+
+Pub. L. 113–66, div. A, title X, §1056(a)(2), (3), (f), Dec. 26, 2013, 127 Stat. 862–864, provided that:
+
+"(a)
+
+Implementation.—
+
+&emsp;"(2)
+
+Consolidated budget display.—The Secretary \[of Defense\] shall include with the defense budget materials for each fiscal year specified in paragraph (3) a consolidated budget justification display that individually covers each program and activity associated with the implementation of the New START Treaty for the period covered by the future-years defense program submitted under section 221 of title 10, United States Code, at or about the time as such defense budget materials are submitted.
+
+&emsp;"(3)
+
+Fiscal year specified.—A fiscal year specified in this paragraph is each fiscal year that occurs during the period beginning with fiscal year 2015 and ending on the date on which the New START Treaty is no longer in force.
+
+"(f)
+
+Definitions.—In this section:
+
+&emsp;"(1) The term 'defense budget materials' has the meaning given that term in section 231(f) of title 10, United States Code.
+
+&emsp;"(2) The term 'New START Treaty' means the Treaty between the United States of America and the Russian Federation on Measures for the Further Reduction and Limitation of Strategic Offensive Arms, signed on April 8, 2010, and entered into force on February 5, 2011."
+
+#### "Congressional Defense Committees" Defined
 
 Congressional defense committees has the meaning given that term in section 101(a)(16) of this title, see section 3 of Pub. L. 112–81, Dec. 31, 2011, 125 Stat. 1316. See also note under section 101 of this title.
 
-#### Delegation of Reporting Functions Specified in Section 1045 of the National Defense Authorization Act for Fiscal Year 2012, and Condition 9 of the Resolution of Advice and Consent to Ratification of the Treaty Between the United States of America and the Russian Federation on the Measures for the Further Reduction and Limitation of Strategic Offensive Arms (the “New Start Treaty”)
+#### Delegation of Reporting Functions Specified in Section 1045 of the National Defense Authorization Act for Fiscal Year 2012, and Condition 9 of the Resolution of Advice and Consent to Ratification of the Treaty Between the United States of America and the Russian Federation on the Measures for the Further Reduction and Limitation of Strategic Offensive Arms (the "New START Treaty")
 
 Memorandum of President of the United States, Mar. 16, 2012, 77 F.R. 16649, provided:
 
@@ -179,6 +203,4 @@ By the authority vested in me as President by the Constitution and the laws of t
 The Secretary of Defense is authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

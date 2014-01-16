@@ -24,17 +24,17 @@ Except as may be expressly provided to the contrary in this chapter, all determi
 
 #### (c) Use of personnel
 
-Personnel funded pursuant to this section are authorized to provide administrative assistanceto personnel assigned to the bureau charged with carrying out this chapter.
+Personnel funded pursuant to this section are authorized to provide administrative assistance to personnel assigned to the bureau charged with carrying out this chapter.
 
 (Pub. L. 87–510, §5, June 28, 1962, 76 Stat. 123; Pub. L. 96–465, title II, §2206(a)(10), Oct. 17, 1980, 94 Stat. 2162; Pub. L. 99–93, title I, §112(a), Aug. 16, 1985, 99 Stat. 410; Pub. L. 103–236, title I, §164(b), Apr. 30, 1994, 108 Stat. 411; Pub. L. 103–415, §1(ff), Oct. 25, 1994, 108 Stat. 4303.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1104 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under section 2601 of this title, and amended a provision set out as a note under section 1182 of title 8. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–510, June 28, 1962, 76 Stat. 121, as amended, known as the Migration and Refugee Assistance Act of 1962, which enacted this chapter, amended section 1104 of Title 8, Aliens and Nationality, repealed sections 1925(a), (c), (d), and 1951(c) of this title, enacted a provision set out as a note under section 2601 of this title, and amended a provision set out as a note under section 1182 of title 8. For complete classification of this Act to the Code, see Short Title note set out under section 2601 of this title and Tables.
 
 Section 3651 of the Revised Statutes (31 U.S.C. 543), referred to in subsec. (a)(3), was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance.
 
-The Foreign Service Act of 1980, referred to in subsec. (a)(4), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+The Foreign Service Act of 1980, referred to in subsec. (a)(4), is Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, which is classified principally to chapter 52 (§3901 et seq.) of this title. For complete classification of this Act to theCode, see Short Title note set out under section 3901 of this title and Tables.
 
 Act of August 1, 1956, as amended, referred to in subsec. (a)(5), is act Aug. 1, 1956, ch. 841, 70 Stat. 890, known as the State Department Basic Authorities Act of 1956, which enacted sections 2651a, 2669, 2670, 2671, 2672, 2673 to 2679a, 2680, 2680a, 2684, 2687 to 2690, 2692, 2695, 2696 to 2715, and 2715b to 2734 of this title and chapters 53 (§4301 et seq.), 53A (§4341 et seq.), and 53B (§4351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2651 of this title and Tables.
 
@@ -44,15 +44,15 @@ Act of August 1, 1956, as amended, referred to in subsec. (a)(5), is act Aug. 1,
 
 <b>1985</b>—Subsec. (a)(6), (7). Pub. L. 99–93, §112(a), added par. (6) and redesignated former par. (6) as (7).
 
-<b>1980</b>—Subsec. (a)(1). Pub. L. 96–465, §2206(a)(10)(A), substituted “members of the Foreign Service” for “Foreign Service personnel”.
+<b>1980</b>—Subsec. (a)(1). Pub. L. 96–465, §2206(a)(10)(A), substituted "members of the Foreign Service" for "Foreign Service personnel".
 
-Subsec. (a)(2). Pub. L. 96–465, §2206(a)(10)(B), substituted “members of the Foreign Service serving under limited appointments” for “Foreign Service Reserve officers”.
+Subsec. (a)(2). Pub. L. 96–465, §2206(a)(10)(B), substituted "members of the Foreign Service serving under limited appointments" for "Foreign Service Reserve officers".
 
 Subsec. (a)(4). Pub. L. 96–465, §2206(a)(10)(C), substituted reference to the Foreign Service Act of 1980 for reference to the Foreign Service Act of 1946.
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–93, title I, §112(b), Aug. 16, 1985, 99 Stat. 411, provided that: “Authority provided by the amendment made by subsection (a) \[amending this section\] shall only apply with respect to funds appropriated after the date of the enactment of this Act \[Aug. 16, 1985\].”
+Pub. L. 99–93, title I, §112(b), Aug. 16, 1985, 99 Stat. 411, provided that: "Authority provided by the amendment made by subsection (a) \[amending this section\] shall only apply with respect to funds appropriated after the date of the enactment of this Act \[Aug. 16, 1985\]."
 
 #### Effective Date of 1980 Amendment
 

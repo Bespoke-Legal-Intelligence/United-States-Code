@@ -16,7 +16,7 @@ The Secretary of the Treasury or any officer designated by him may disapprove an
 
 In case the disapproval is by an officer designated by the Secretary of the Treasury to approve or disapprove such bonds, the individual, firm, partnership, corporation, or association giving the bond may appeal from such disapproval to the Secretary of the Treasury or an officer designated by him to hear such appeals, and the disapproval of the bond by the Secretary of the Treasury or officer designated to hear such appeals shall be final.
 
-(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1394; amended Pub. L. 94–455, title XIX, §§1905(c)(5), 1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 96–39, title VIII, §807(a)(51), July 26, 1979, 93 Stat. 288.)
+(Added Pub. L. 85–859, title II, §201, Sept. 2, 1958, 72 Stat. 1394; amended Pub. L. 94–455, title XIX,§§1905(c)(5), 1906(b)(13)(B), Oct. 4, 1976, 90 Stat. 1823, 1834; Pub. L. 96–39, title VIII, §807(a)(51), July 26, 1979, 93 Stat. 288.)
 
 #### Prior Provisions
 
@@ -26,13 +26,13 @@ Provisions similar to those comprising subsec. (c) of this section were containe
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–39 substituted “warehouseman, processor” for “bonded warehouseman, rectifier” in two places.
+<b>1979</b>—Subsec. (a). Pub. L. 96–39 substituted "warehouseman, processor" for "bonded warehouseman, rectifier" in two places.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455, §1906(b)(13)(B), substituted "Secretary of the Treasury" for "Secretary".
 
-Subsec. (b). Pub. L. 94–455, §§1905(c)(5), 1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary” in provisions preceding par. (1) and struck out “Territory, or” after “State,” in par. (2).
+Subsec. (b). Pub. L. 94–455, §§1905(c)(5), 1906(b)(13)(B), substituted "Secretary of the Treasury" for "Secretary" in provisions preceding par. (1) and struck out "Territory, or" after "State," in par. (2).
 
-Subsec. (c). Pub. L. 94–455, §1906(b)(13)(B), substituted “Secretary of the Treasury” for “Secretary”.
+Subsec. (c). Pub. L. 94–455, §1906(b)(13)(B), substituted "Secretary of the Treasury" for "Secretary".
 
 #### Effective Date of 1979 Amendment
 

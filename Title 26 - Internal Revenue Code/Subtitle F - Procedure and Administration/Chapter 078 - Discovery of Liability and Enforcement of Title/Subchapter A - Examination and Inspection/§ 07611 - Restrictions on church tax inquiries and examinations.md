@@ -140,7 +140,7 @@
 
 #### (ii) 6-year statute of limitations where tax-exempt status revoked
 
-&emsp;&emsp;&emsp;If an organization is not a church exempt from tax under section 501(a) for any of the 3 taxable years described in clause (i), clause (i) shall be applied by substituting “6 most recent taxable years” for “3 most recent taxable years”.
+&emsp;&emsp;&emsp;If an organization is not a church exempt from tax under section 501(a) for any of the 3 taxable years described in clause (i), clause (i) shall be applied by substituting "6 most recent taxable years" for "3 most recent taxable years".
 
 #### (B) Unrelated business tax
 
@@ -148,7 +148,7 @@
 
 #### (C) Exception where shorter statute of limitations otherwise applicable
 
-&emsp;&emsp;Subparagraphs (A) and (B) shall not be construed to increase the period otherwise applicable under subchapter A of chapter 66 (relating to limitations on assessment and collection).
+&emsp;&emsp;Subparagraphs (A) and (B) shall not be construed to increase the period otherwiseapplicable under subchapter A of chapter 66 (relating to limitations on assessment and collection).
 
 #### (e) Information not collected in substantial compliance with procedures to stay summons proceeding
 
@@ -182,7 +182,7 @@
 
 #### (2) Applicable 5-year period
 
-&emsp;For purposes of paragraph (1), the term “applicable 5-year period” means the 5-year period beginning on the date the notice taken into account for purposes of subsection (c)(1) was provided. For purposes of the preceding sentence, the rules of subsection (c)(2) shall apply.
+&emsp;For purposes of paragraph (1), the term "applicable 5-year period" means the 5-year period beginning on the date the notice taken into account for purposes of subsection (c)(1) was provided. For purposes of the preceding sentence, the rules of subsection (c)(2) shall apply.
 
 #### (g) Treatment of final report of revenue agent
 
@@ -194,7 +194,7 @@ For purposes of this section—
 
 #### (1) Church
 
-&emsp;The term “church” includes—
+&emsp;The term "church" includes—
 
 &emsp;&emsp;(A) any organization claiming to be a church, and
 
@@ -202,7 +202,7 @@ For purposes of this section—
 
 #### (2) Church tax inquiry
 
-&emsp;The term “church tax inquiry” means any inquiry to a church (other than an examination) to serve as a basis for determining whether a church—
+&emsp;The term "church tax inquiry" means any inquiry to a church (other than an examination) to serve as a basis for determining whether a church—
 
 &emsp;&emsp;(A) is exempt from tax under section 501(a) by reason of its status as a church, or
 
@@ -210,7 +210,7 @@ For purposes of this section—
 
 #### (3) Church tax examination
 
-&emsp;The term “church tax examination” means any examination for purposes of making a determination described in paragraph (2) of—
+&emsp;The term "church tax examination" means any examination for purposes of making a determination described in paragraph (2) of—
 
 &emsp;&emsp;(A) church records at the request of the Internal Revenue Service, or
 
@@ -220,7 +220,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “church records” means all corporate and financial records regularly kept by a church, including corporate minute books and lists of members and contributors.
+&emsp;&emsp;The term "church records" means all corporate and financial records regularly kept by a church, including corporate minute books and lists of members and contributors.
 
 #### (B) Exception
 
@@ -232,15 +232,15 @@ For purposes of this section—
 
 #### (5) Inquiry notice date
 
-&emsp;The term “inquiry notice date” means the date the notice with respect to a church tax inquiry is provided under subsection (a).
+&emsp;The term "inquiry notice date" means the date the notice with respect to a church tax inquiry is provided under subsection (a).
 
 #### (6) Examination notice date
 
-&emsp;The term “examination notice date” means the date the notice with respect to a church tax examination is provided under subsection (b) to the church.
+&emsp;The term "examination notice date" means the date the notice with respect to a church tax examination is provided under subsection (b) to the church.
 
 #### (7) Appropriate high-level Treasury official
 
-&emsp;The term “appropriate high-level Treasury official” means the Secretary of the Treasury or any delegate of the Secretary whose rank is no lower than that of a principal Internal Revenue officer for an internal revenue region.
+&emsp;The term "appropriate high-level Treasury official" means the Secretary of the Treasury or any delegate of the Secretary whose rank is no lower than that of a principal Internal Revenue officer for an internal revenue region.
 
 #### (i) Section not to apply to criminal investigations, etc.
 
@@ -264,19 +264,19 @@ A prior section 7611 was renumbered section 7613 of this title.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (f)(1). Pub. L. 105–206 substituted “Secretary” for “Assistant Commissioner for Employee Plans and Exempt Organizations of the Internal Revenue Service” in concluding provisions.
+<b>1998</b>—Subsec. (f)(1). Pub. L. 105–206 substituted "Secretary" for "Assistant Commissioner for Employee Plans and Exempt Organizations of the Internal Revenue Service" in concluding provisions.
 
-<b>1996</b>—Subsec. (h)(7). Pub. L. 104–188 substituted “appropriate” for “approporiate” in text.
+<b>1996</b>—Subsec. (h)(7). Pub. L. 104–188 substituted "appropriate" for "approporiate" in text.
 
 <b>1989</b>—Subsec. (i)(3). Pub. L. 101–239 made technical correction to directory language of Pub. L. 100–203, see 1987 Amendment note below.
 
-<b>1988</b>—Subsec. (i)(5). Pub. L. 100–647 substituted “this title” for “the title”.
+<b>1988</b>—Subsec. (i)(5). Pub. L. 100–647 substituted "this title" for "the title".
 
-<b>1987</b>—Subsec. (i)(3). Pub. L. 100–203, as amended by Pub. L. 101–239, substituted “, section 6852 (relating to termination assessments in case of flagrant political expenditures of section 501(c)(3) organizations), or section 6861 (relating to jeopardy assessments of income taxes, etc.),” for “or section 6861 (relating to jeopardy assessments of income taxes, etc.),”.
+<b>1987</b>—Subsec. (i)(3). Pub. L. 100–203, as amended by Pub. L. 101–239, substituted ", section 6852 (relating to termination assessments in case of flagrant political expenditures of section 501(c)(3) organizations), or section 6861 (relating to jeopardy assessments of income taxes, etc.)," for "or section 6861 (relating to jeopardy assessments of income taxes, etc.),".
 
 <b>1986</b>—Subsec. (a)(1)(B). Pub. L. 99–514, §1899A(62), reenacted subpar. (B) without change.
 
-Subsec. (i). Pub. L. 99–514, §1899A(61), redesignated pars. (A) to (E) as (1) to (5), in par. (3), substituted “etc.)” for “etc)”, and in par. (5), substituted “the title” for “the title”.
+Subsec. (i). Pub. L. 99–514, §1899A(61), redesignated pars. (A) to (E) as (1) to (5), in par. (3), substituted "etc.)" for "etc)", and in par. (5), substituted "the title" for "the title".
 
 #### Effective Date of 1989 Amendment
 
@@ -288,7 +288,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date
 
-Pub. L. 98–369, div. A, title X, §1033(d), July 18, 1984, 98 Stat. 1039, provided that: “The amendments made by this section \[enacting this section and amending sections 7428 and 7605 of this title\] shall apply with respect to inquiries and examinations beginning after December 31, 1984.”
+Pub. L. 98–369, div. A, title X, §1033(d), July 18, 1984, 98 Stat. 1039, provided that: "The amendments made by this section \[enacting this section and amending sections 7428 and 7605 of this title\] shall apply with respect to inquiries and examinations beginning after December 31, 1984."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

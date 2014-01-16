@@ -32,7 +32,7 @@ This section amends 5 U.S.C. 1305 to correct a typographical error.
 
 <b>1992</b>—Pub. L. 102–378 substituted “sections 3105” for “section 3105”.
 
-<b>1978</b>—Pub. L. 95–454 substituted provisions respecting functions pursuant to specified sections of this title ofthe Office of Personnel Management and the Merit Systems Protection Board for provisions respecting the functions pursuant to specified sections of this title of the Civil Service Commission.
+<b>1978</b>—Pub. L. 95–454 substituted provisions respecting functions pursuant to specified sections of this title of the Office of Personnel Management and the Merit Systems Protection Board for provisions respecting the functions pursuant to specified sections of this title of the Civil Service Commission.
 
 Pub. L. 95–251 substituted “Administrative law judges” for “Hearing examiners” in section catchline and “administrative law judges” for “hearing examiners” in text.
 

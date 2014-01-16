@@ -30,35 +30,35 @@ The Director or the National Science Board, acting through the Center, shall iss
 
 #### Codification
 
-Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and Science Reauthorization Act of 2010, and also as part of the National Science Foundation Authorization Act of 2010, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
+Section was enacted as part of the America COMPETES Reauthorization Act of 2010, also known as the America Creating Opportunities to Meaningfully Promote Excellence in Technology, Education, and ScienceReauthorization Act of 2010, and also as part of the National Science Foundation Authorization Act of 2010, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Definitions
 
-For definition of “STEM” as used in this section, see section 2 of Pub. L. 111–358, set out as a note under section 6621 of this title.
+For definition of "STEM" as used in this section, see section 2 of Pub. L. 111–358, set out as a note under section 6621 of this title.
 
-Pub. L. 111–358, title V, §502, Jan. 4, 2011, 124 Stat. 4005, provided that: “In this subtitle \[subtitle A (§§501–527) of title V of Pub. L. 111–358, enacting this section and sections 1862p–1 to 1862p–15 of this title, amending sections 1862n–1a, 1862n–5, 1863, and 1869 of this title, and enacting provisions set out as notes under sections 1862p and 1869 of this title\]:
+Pub. L. 111–358, title V, §502, Jan. 4, 2011, 124 Stat. 4005, provided that: "In this subtitle \[subtitle A (§§501–527) of title V of Pub. L. 111–358, enacting this section and sections 1862p–1 to 1862p–15 of this title, amending sections 1862n–1a, 1862n–5, 1863, and 1869 of this title, and enacting provisions set out as notes under sections 1862p and 1869 of this title\]:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Director.—The term ‘Director’ means the Director of the National Science Foundation.
+Director.—The term 'Director' means the Director of the National Science Foundation.
 
-&emsp;“(2)
+&emsp;"(2)
 
-EPSCoR.—The term ‘EPSCoR’ means the Experimental Program to Stimulate Competitive Research.
+EPSCoR.—The term 'EPSCoR' means the Experimental Program to Stimulate Competitive Research.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Foundation.—The term ‘Foundation’ means the National Science Foundation established under section 2 of the National Science Foundation Act of 1950 (42 U.S.C. 1861).
+Foundation.—The term 'Foundation' means the National Science Foundation established under section 2 of the National Science Foundation Act of 1950 (42 U.S.C. 1861).
 
-&emsp;“(4)
+&emsp;"(4)
 
-Institution of higher education.—The term ‘institution of higher education’ has the meaning given such term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
+Institution of higher education.—The term 'institution of higher education' has the meaning given such term in section 101(a) of the Higher Education Act of 1965 (20 U.S.C. 1001(a)).
 
-&emsp;“(5)
+&emsp;"(5)
 
-State.—The term ‘State’ means one of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
+State.—The term 'State' means one of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
 
-&emsp;“(6)
+&emsp;"(6)
 
-United States.—The term ‘United States’ means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.”
+United States.—The term 'United States' means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States."
 

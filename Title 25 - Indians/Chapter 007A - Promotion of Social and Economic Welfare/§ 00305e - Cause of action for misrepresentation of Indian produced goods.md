@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Indian
 
-&emsp;The term “Indian” means an individual that—
+&emsp;The term "Indian" means an individual that—
 
 &emsp;&emsp;(A) is a member of an Indian tribe; or
 
@@ -14,17 +14,17 @@ In this section:
 
 #### (2) Indian product
 
-&emsp;The term “Indian product” has the meaning given the term in any regulation promulgated by the Secretary.
+&emsp;The term "Indian product" has the meaning given the term in any regulation promulgated by the Secretary.
 
 #### (3) Indian tribe
 
 #### (A) In general
 
-&emsp;&emsp;The term “Indian tribe” has the meaning given the term in section 450b of this title.
+&emsp;&emsp;The term "Indian tribe" has the meaning given the term in section 450b of this title.
 
 #### (B) Inclusion
 
-&emsp;&emsp;The term “Indian tribe” includes, for purposes of this section only, an Indian group that has been formally recognized as an Indian tribe by—
+&emsp;&emsp;The term "Indian tribe" includes, for purposes of this section only, an Indian group that has been formally recognized as an Indian tribe by—
 
 &emsp;&emsp;&emsp;(i) a State legislature;
 
@@ -34,7 +34,7 @@ In this section:
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Interior.
+&emsp;The term "Secretary" means the Secretary of the Interior.
 
 #### (b) Injunctive or equitable relief; damages
 
@@ -110,7 +110,7 @@ If any provision of this section is held invalid, it is the intent of Congress t
 
 #### (f) Regulations
 
-Not later than 180 days after November 9, 2000, the Board shall promulgate regulations to include in the definition of the term “Indian product” specific examples of such product to provide guidance to Indian artisans as well as to purveyors and consumers of Indian arts and crafts, as defined under this Act.
+Not later than 180 days after November 9, 2000, the Board shall promulgate regulations to include in the definition of the term "Indian product" specific examples of such product to provide guidance to Indian artisans as well as to purveyors and consumers of Indian arts and crafts, as defined under this Act.
 
 (Aug. 27, 1935, ch. 748, §6, as added Pub. L. 101–644, title I, §105, Nov. 29, 1990, 104 Stat. 4664; amended Pub. L. 106–497, §2, Nov. 9, 2000, 114 Stat. 2219; Pub. L. 111–211, title I, §102(b), July 29, 2010, 124 Stat. 2259.)
 
@@ -126,27 +126,27 @@ A prior section, act Aug. 27, 1935, ch. 748, §6, 49 Stat. 893, related to offer
 
 <b>2010</b>—Subsec. (a). Pub. L. 111–211, §102(b)(3), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (b). Pub. L. 111–211, §102(b)(2), (4), redesignated subsec. (a) as (b) and substituted “subsection (d)” for “subsection (c)” in introductory provisions. Former subsec. (b) redesignated (c).
+Subsec. (b). Pub. L. 111–211, §102(b)(2), (4), redesignated subsec. (a) as (b) and substituted "subsection (d)" for "subsection (c)" in introductory provisions. Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 111–211, §102(b)(2), (5), redesignated subsec. (b) as (c) and substituted “subsection (b)” for “subsection (a)” and “the civil action” for “suit”. Former subsec. (c) redesignated (d).
+Subsec. (c). Pub. L. 111–211, §102(b)(2), (5), redesignated subsec. (b) as (c) and substituted "subsection (b)" for "subsection (a)" and "the civil action" for "suit". Former subsec. (c) redesignated (d).
 
 Subsec. (d). Pub. L. 111–211, §102(b)(6), added subsec. (d) and struck out former subsec. (d) relating to persons who may initiate civil actions.
 
 Pub. L. 111–211, §102(b)(1), (2), redesignated subsec. (c) as (d) and struck out former subsec. (d) relating to definitions.
 
-Subsec. (e). Pub. L. 111–211, §102(b)(7), inserted heading and substituted “If” for “In the event that”.
+Subsec. (e). Pub. L. 111–211, §102(b)(7), inserted heading and substituted "If" for "In the event that".
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–497, §2(1), inserted “, directly or indirectly,” after “against a person who” in introductory provisions and inserted at end “For purposes of paragraph (2)(A), damages shall include any and all gross profits accrued by the defendant as a result of the activities found to violate this subsection.”
+<b>2000</b>—Subsec. (a). Pub. L. 106–497, §2(1), inserted ", directly or indirectly," after "against a person who" in introductory provisions and inserted at end "For purposes of paragraph (2)(A), damages shall include any and all gross profits accrued by the defendant as a result of the activities found to violate this subsection."
 
 Subsec. (c)(1)(C). Pub. L. 106–497, §2(2)(A), added subpar. (C).
 
 Subsec. (c)(2)(A). Pub. L. 106–497, §2(2)(B), designated existing text as cl. (i) and added cl. (ii).
 
-Subsec. (d)(2). Pub. L. 106–497, §2(3), inserted “subject to subsection (f) of this section,” before “the terms”.
+Subsec. (d)(2). Pub. L. 106–497, §2(3), inserted "subject to subsection (f) of this section," before "the terms".
 
 Subsec. (f). Pub. L. 106–497, §2(4), added subsec. (f).
 
 #### Certification of Indian Artisans
 
-Pub. L. 101–644, title I, §107, Nov. 29, 1990, 104 Stat. 4665, provided that: “For the purposes of section 1159 of title 18, United States Code, and section 6 of the Act entitled ‘An Act to promote the development of Indian arts and crafts and to create a board to assist therein, and for other purposes’ (25 U.S.C. 305 et seq.) \[25 U.S.C. 305e\] an Indian tribe may not impose a fee in certifying an individual as an Indian artisan. For the purposes of this section, the term ‘Indian tribe’ has the same meaning given such term in section 1159(c)(3) of title 18, United States Code.”
+Pub. L. 101–644, title I, §107, Nov. 29, 1990, 104 Stat. 4665, provided that: "For the purposes of section 1159 of title 18, United States Code, and section 6 of the Act entitled 'An Act to promote the development of Indian arts and crafts and to create a board to assist therein, and for other purposes' (25 U.S.C. 305 et seq.) \[25 U.S.C. 305e\] an Indian tribe may not impose a fee in certifying an individual as an Indian artisan. For the purposes of this section, the term 'Indian tribe' has the same meaning given such term in section 1159(c)(3) of title 18, United States Code."
 

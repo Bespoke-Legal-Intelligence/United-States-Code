@@ -10,7 +10,7 @@ A civil penalty shall be assessed by the Secretary only after the person charged
 
 #### (c) Notice of violation; action required of violator; waiver of legal rights
 
-Upon the issuance of a notice or order charging that a violation of this chapter has occurred,the Secretary shall inform the operator within thirty days of the proposed amount of said penalty. The person charged with the penalty shall then have thirty days to pay the proposed penalty in full or, if the person wishes to contest either the amount of the penalty or the fact of the violation, forward the proposed amount to the Secretary for placement in an escrow account. If through administrative or judicial review of the proposed penalty, it is determined that no violation occurred, or that the amount of the penalty should be reduced, the Secretary shall within thirty days remit the appropriate amount to the person, with interest at the rate of 6 percent, or at the prevailing Department of the Treasury rate, whichever is greater. Failure to forward the money to the Secretary within thirty days shall result in a waiver of all legal rights to contest the violation or the amount of the penalty.
+Upon the issuance of a notice or order charging that a violation of this chapter has occurred, the Secretary shall inform the operator within thirty days of the proposed amount of said penalty. The person charged with the penalty shall then have thirty days to pay the proposed penalty in full or, if the person wishes to contest either the amount of the penalty or the fact of the violation, forward the proposed amount to the Secretary for placement in an escrow account. If through administrative or judicial review of the proposed penalty, it is determined that no violation occurred, or that the amount of the penalty should be reduced, the Secretary shall within thirty days remit the appropriate amount to the person, with interest at the rate of 6 percent, or at the prevailing Department of the Treasury rate, whichever is greater. Failure to forward the money to the Secretary within thirty days shall result in a waiver of all legal rights to contest the violation or the amount of the penalty.
 
 #### (d) Civil action to recover civil penalties
 
@@ -26,7 +26,7 @@ Whenever a corporate permittee violates a condition of a permit issued pursuant 
 
 #### (g) False statements, representations, or certifications
 
-Whoever knowingly makes any false statement, representation, or certification, or knowingly fails to make any statement, representation, or certification in any application, record, report, plant, or other document filed or required to be maintained pursuant to a Federal program or a Federal lands program or any order of decision issued by the Secretary under this chapter, shall, upon conviction, be punished by a fine of not more than $10,000, or by imprisonment for not more than one year or both.
+Whoever knowingly makes any false statement, representation, or certification, or knowingly fails to make any statement, representation, or certification in any application, record,report, plant, or other document filed or required to be maintained pursuant to a Federal program or a Federal lands program or any order of decision issued by the Secretary under this chapter, shall, upon conviction, be punished by a fine of not more than $10,000, or by imprisonment for not more than one year or both.
 
 #### (h) Failure to correct violation
 

@@ -42,15 +42,15 @@ For purposes of this section—
 
 #### (1) Conrail
 
-&emsp;The term “Conrail” means the Consolidated Rail Corporation. Such term includes any corporation which was a subsidiary of Conrail immediately before the public sale.
+&emsp;The term "Conrail" means the Consolidated Rail Corporation. Such term includes any corporation which was a subsidiary of Conrail immediately before the public sale.
 
 #### (2) Public sale
 
-&emsp;The term “public sale” means the sale of stock in Conrail pursuant to a public offering under the Conrail Privatization Act \[45 U.S.C.1301 et seq.\]. If there is more than 1 public offering under such Act, such term means the sale pursuant to the initial public offering under such Act.
+&emsp;The term "public sale" means the sale of stock in Conrail pursuant to a public offering under the Conrail Privatization Act \[45 U.S.C.1301 et seq.\]. If there is more than 1 public offering under such Act, such term means the sale pursuant to the initial public offering under such Act.
 
 #### (3) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Treasury or his delegate.
+&emsp;The term "Secretary" means the Secretary of the Treasury or his delegate.
 
 (Pub. L. 99–509, title VIII, §8021, Oct. 21, 1986, 100 Stat. 1954; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
@@ -66,5 +66,5 @@ This section was enacted as part of the Omnibus Budget Reconciliation Act of 198
 
 #### Amendments
 
-<b>1986</b>—Subsecs. (a)(1), (2), (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsecs. (a)(1), (2), (d). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 

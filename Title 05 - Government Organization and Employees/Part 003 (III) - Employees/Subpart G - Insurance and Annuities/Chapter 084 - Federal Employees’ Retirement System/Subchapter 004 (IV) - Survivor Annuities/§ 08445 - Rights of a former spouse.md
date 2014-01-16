@@ -6,7 +6,7 @@
 
 &emsp;(A) the amount applicable in the case of such former spouse, as determined under paragraph (2); and
 
-&emsp;(B) the amount of any annuity payable under this section to any other former spouse of the employee, Member, or annuitant, or former employee or Member, based on an election previously made under section 8417(b), or a court order previously issued or agreement previously entered into as described in subsection (a).
+&emsp;(B) the amount of any annuity payable under this section to any other former spouse of the employee, Member, or annuitant, orformer employee or Member, based on an election previously made under section 8417(b), or a court order previously issued or agreement previously entered into as described in subsection (a).
 
 (2) The applicable amount, for purposes of paragraph (1)(A) in the case of a former spouse, is the amount of the annuity which would be payable under the provisions of section 8442 (including subsection (f) of such section, but without regard to subsection (h) of such section) if such former spouse were a widow or widower entitled to an annuity under such provisions based on the service of the deceased employee, Member, or annuitant, or former employee or Member.
 

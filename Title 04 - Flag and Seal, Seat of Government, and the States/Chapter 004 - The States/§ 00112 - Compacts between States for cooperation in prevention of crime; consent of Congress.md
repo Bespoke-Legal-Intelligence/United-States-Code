@@ -6,7 +6,7 @@
 
 (Added May 24, 1949, ch. 139, §129(b), 63 Stat. 107, §112, formerly §111; amended Aug. 3, 1956, ch. 941, 70 Stat. 1020; Pub. L. 87–406, Feb. 16, 1962, 76 Stat. 9; renumbered §112, Pub. L. 89–554, §2(c), Sept. 6, 1966, 80 Stat. 608.)
 
-#### Historical and Revision Note
+#### Historical and Revision Notes
 
 This section \[section 129(b) of Act May 24, 1949\] incorporates in title 4, U.S.C. (enacted into positive law by act of July 30, 1947 (ch. 389, §1, 61 Stat. 641), the provisions of former section 420 of title 18, U.S.C. (act of June 6, 1934, ch. 406, 48 Stat. 909), which, in the course of the revision of such title 18, was omitted therefrom and recommended for transfer to such title 4. (See table 7—Transferred sections, p. A219, H. Rept. No. 304, April 24, 1947, to accompany H.R. 3190, 80th Cong.).
 
@@ -18,5 +18,5 @@ This section \[section 129(b) of Act May 24, 1949\] incorporates in title 4, U.S
 
 #### Admission of Alaska and Hawaii to Statehood
 
-Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law, see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding former section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding former section 491 of Title 48.
+Alaska was admitted into the Union on Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, and Hawaii was admitted into the Union on Aug. 21, 1959, on issuance of Proc. No. 3309, Aug. 21, 1959, 24 F.R. 6868, 73 Stat. c74. For Alaska Statehood Law,see Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as a note preceding former section 21 of Title 48, Territories and Insular Possessions. For Hawaii Statehood Law, see Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, set out as a note preceding former section 491 of Title 48.
 

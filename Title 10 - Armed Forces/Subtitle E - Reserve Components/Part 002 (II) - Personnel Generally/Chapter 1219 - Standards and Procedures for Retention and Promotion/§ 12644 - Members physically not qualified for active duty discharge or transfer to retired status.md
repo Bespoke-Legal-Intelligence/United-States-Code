@@ -26,29 +26,29 @@ Historical and Revision Notes
 
 July 9, 1952, ch. 608, §§225, 226, 66 Stat. 488.
 
-In subsection (a), the words “Each \* \* \* who is not on active duty” are substituted for the words “when not on active duty all”. The words “examined as to his physical fitness” are substituted for the words “given physical examinations”. The words “be required to” are omitted as surplusage. The words “execute and” are inserted for clarity.
+In subsection (a), the words "Each \* \* \* who is not on active duty" are substituted for the words "when not on active duty all". The words "examined as to his physical fitness" are substituted for the words "given physical examinations". The words "be required to" are omitted as surplusage. The words "execute and" are inserted for clarity.
 
-In subsection (c), the words “under his jurisdiction” are inserted for clarity.
+In subsection (c), the words "under his jurisdiction" are inserted for clarity.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–337, §1662(h)(2), (4)(B), renumbered section 1004 of this title as this section and substituted “Members physically not qualified for active duty: discharge or transfer to retired status” for “Physical examination” as section catchline.
+<b>1994</b>—Pub. L. 103–337, §1662(h)(2), (4)(B), renumbered section 1004 of this title as this section and substituted "Members physically not qualified for active duty: discharge or transfer to retired status" for "Physical examination" as section catchline.
 
-Pub. L. 103–337, §1661(a)(4), struck out “(c)” before “Except as otherwise provided” and struck out subsecs. (a) and (b) which read as follows:
+Pub. L. 103–337, §1661(a)(4), struck out "(c)" before "Except as otherwise provided" and struck out subsecs. (a) and (b) which read as follows:
 
-“(a) Each member of the Ready Reserve who is not on active duty shall—
+"(a) Each member of the Ready Reserve who is not on active duty shall—
 
-&emsp;“(1) be examined as to his physical fitness every five years, or more often as the Secretary concerned considers necessary; and
+&emsp;"(1) be examined as to his physical fitness every five years, or more often as the Secretary concerned considers necessary; and
 
-&emsp;“(2) execute and submit annually a certificate of physical condition.
+&emsp;"(2) execute and submit annually a certificate of physical condition.
 
 > Each Reserve in an active status, or on an inactive status list, who is not on active duty shall execute and submit annually a certificate of physical condition.
 
-“(b) The kind of duty to which a Reserve ordered to active duty may be assigned shall be considered in determining physical qualifications for active duty.”
+"(b) The kind of duty to which a Reserve ordered to active duty may be assigned shall be considered in determining physical qualifications for active duty."
 
-<b>1993</b>—Subsec. (a)(1). Pub. L. 103–160 substituted “five years” for “four years”.
+<b>1993</b>—Subsec. (a)(1). Pub. L. 103–160 substituted "five years" for "four years".
 
-<b>1960</b>—Subsec. (a). Pub. L. 86–603 limited the requirement for a physical examination every four years, and for the annual execution of a certificate of physical condition, to the Ready Reserve, and also required each Reserve in an active status, or on an inactive statuslist, who is not on active duty to execute and submit annually a certificate of physical condition.
+<b>1960</b>—Subsec. (a). Pub. L. 86–603 limited the requirement for a physical examination every four years, and for the annual execution of a certificate of physical condition, to the Ready Reserve, and also required each Reserve in an active status, or on an inactive status list, who is not on active duty to execute and submit annually a certificate of physical condition.
 
 #### Effective Date of 1994 Amendment
 

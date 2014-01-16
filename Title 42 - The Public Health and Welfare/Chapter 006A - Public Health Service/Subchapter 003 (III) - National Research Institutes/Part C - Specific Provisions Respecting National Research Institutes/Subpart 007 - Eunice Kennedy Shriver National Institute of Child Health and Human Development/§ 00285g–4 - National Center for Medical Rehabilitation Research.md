@@ -2,11 +2,11 @@
 
 #### (a) Establishment of Center
 
-There shall be in the Institute an agency to be known as the National Center for Medical Rehabilitation Research (hereafter in this section referred to as the “Center”). The Director of the Institute shall appoint a qualified individual to serve as Director of the Center. The Director of the Center shall report directly to the Director of the Institute.
+There shall be in the Institute an agency to be known as the National Center for Medical Rehabilitation Research (hereafter in this section referred to as the "Center"). The Director of theInstitute shall appoint a qualified individual to serve as Director of the Center. The Director of the Center shall report directly to the Director of the Institute.
 
 #### (b) Purpose
 
-The general purpose of the Center is the conduct and support of research and research training (including research on the development of orthotic and prosthetic devices), the dissemination of health information, and other programs with respect to the rehabilitation of individuals with physical disabilities resulting from diseases or disorders of the neurological, musculoskeletal, cardiovascular, pulmonary, or any other physiological system (hereafter in this section referred to as “medical rehabilitation”).
+The general purpose of the Center is the conduct and support of research and research training (including research on the development of orthotic and prosthetic devices), the dissemination of health information, and other programs with respect to the rehabilitation of individuals with physical disabilities resulting from diseases or disorders of the neurological, musculoskeletal, cardiovascular, pulmonary, or any other physiological system (hereafter in this section referred to as "medical rehabilitation").
 
 #### (c) Authority of Director
 
@@ -34,7 +34,7 @@ The general purpose of the Center is the conduct and support of research and res
 
 #### (d) Research Plan
 
-(1) In consultation with the Director of the Center, the coordinating committee established under subsection (e) of this section, and the advisory board established under subsection (f) of this section, the Director of the Institute shall develop a comprehensive plan for the conduct and support of medical rehabilitation research (hereafter in this section referred to as the “Research Plan”).
+(1) In consultation with the Director of the Center, the coordinating committee established under subsection (e) of this section, and the advisory board established under subsection (f) of this section, the Director of the Institute shall develop a comprehensive plan for the conduct and support of medical rehabilitation research (hereafter in this section referred to as the "Research Plan").
 
 (2) The Research Plan shall—
 
@@ -50,7 +50,7 @@ The general purpose of the Center is the conduct and support of research and res
 
 #### (e) Medical Rehabilitation Coordinating Committee
 
-(1) The Director of NIH shall establish a committee to be known as the Medical Rehabilitation Coordinating Committee (hereafter in this section referred to as the “Coordinating Committee”).
+(1) The Director of NIH shall establish a committee to be known as the Medical Rehabilitation Coordinating Committee (hereafter in this section referred to as the "Coordinating Committee").
 
 (2) The Coordinating Committee shall make recommendations to the Director of the Institute and the Director of the Center with respect to the content of the Research Plan and with respect to the activities of the Center that are carried out in conjunction with other agencies of the National Institutes of Health and with other agencies of the Federal Government.
 
@@ -60,11 +60,11 @@ The general purpose of the Center is the conduct and support of research and res
 
 #### (f) National Advisory Board on Medical Rehabilitation Research
 
-(1) Not later than 90 days after the date of the enactment of the National Institutes of Health Revitalization Amendments of 1990, the Director of NIH shall establish a National Advisory Board on Medical Rehabilitation Research (hereafter in this section referred to as the “Advisory Board”).
+(1) Not later than 90 days after the date of the enactment of the National Institutes of Health Revitalization Amendments of 1990, the Director of NIH shall establish a National Advisory Board on Medical Rehabilitation Research (hereafter in this section referred to as the "Advisory Board").
 
 (2) The Advisory Board shall review and assess Federal research priorities, activities, and findings regarding medical rehabilitation research, and shall advise the Director of the Center and the Director of the Institute on the provisions of the Research Plan.
 
-(3)(A) The Director of NIH shall appoint to the Advisory Board 18 qualified representatives of the public who are not officers or employees of the Federal Government. Of such members, 12 shall be representatives of health and scientific disciplines with respect to medical rehabilitation and 6 shall be individuals representing the interests of individuals undergoing, or in need of, medical rehabilitation.
+(3)(A) The Director of NIH shall appoint to the Advisory Board 18 qualified representatives ofthe public who are not officers or employees of the Federal Government. Of such members, 12 shall be representatives of health and scientific disciplines with respect to medical rehabilitation and 6 shall be individuals representing the interests of individuals undergoing, or in need of, medical rehabilitation.
 
 (B) The following officials shall serve as ex officio members of the Advisory Board:
 
@@ -104,9 +104,9 @@ Section 284b of this title, referred to in subsec. (d)(3)(B), (4), was repealed 
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(1)(E)(i). Pub. L. 109–482 substituted “section 282(b)(16)” for “section 282(b)(6)”.
+<b>2007</b>—Subsec. (c)(1)(E)(i). Pub. L. 109–482 substituted "section 282(b)(16)" for "section 282(b)(6)".
 
-<b>1992</b>—Subsec. (f)(3)(B)(xi). Pub. L. 102–405 substituted “Under Secretary for Health of the Department of Veterans Affairs” for “Chief Medical Director of the Department of Veterans Affairs”.
+<b>1992</b>—Subsec. (f)(3)(B)(xi). Pub. L. 102–405 substituted "Under Secretary for Health of the Department of Veterans Affairs" for "Chief Medical Director of the Department of Veterans Affairs".
 
 #### Effective Date of 2007 Amendment
 
@@ -116,21 +116,21 @@ Amendment by Pub. L. 109–482 applicable only with respect to amounts appropria
 
 Pub. L. 101–613, §3(b), Nov. 16, 1990, 104 Stat. 3230, provided that:
 
-“(1)
+"(1)
 
 In general.—The Secretary of Health and Human Services and the heads of other Federal agencies shall—
 
-&emsp;“(A) jointly review the programs being carried out (or proposed to be carried out) by each such official with respect to medical rehabilitation research; and
+&emsp;"(A) jointly review the programs being carried out (or proposed to be carried out) by each such official with respect to medical rehabilitation research; and
 
-&emsp;“(B) as appropriate, enter into agreements for preventing duplication among such programs.
+&emsp;"(B) as appropriate, enter into agreements for preventing duplication among such programs.
 
-“(2)
+"(2)
 
 Time for completion.—The agreements required in paragraph (1)(B) shall be made not later than one year after the date of the enactment of this Act \[Nov. 16, 1990\].
 
-“(3)
+"(3)
 
-Definition of medical rehabilitation.—For purposes of this subsection, the term ‘medical rehabilitation’ means the rehabilitation of individuals with physical disabilities resulting from diseases or disorders of the neurological, musculoskeletal, cardiovascular, pulmonary, or any other physiological system.”
+Definition of medical rehabilitation.—For purposes of this subsection, the term 'medical rehabilitation' means the rehabilitation of individuals with physical disabilities resulting from diseases or disorders of the neurological, musculoskeletal, cardiovascular, pulmonary, or any other physiological system."
 
 #### Termination of Advisory Boards
 

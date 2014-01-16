@@ -30,15 +30,15 @@ A project sponsor providing rental assistance under this section may use amounts
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–550, §606(h)(1)(A), substituted “Rental assistance” for “Short-term rental assistance” in section catchline.
+<b>1992</b>—Pub. L. 102–550, §606(h)(1)(A), substituted "Rental assistance" for "Short-term rental assistance" in section catchline.
 
-Subsec. (a)(1). Pub. L. 102–550, §606(h)(1)(B), (j)(11)(D), struck out “short-term” before “rental assistance” and substituted “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases”.
+Subsec. (a)(1). Pub. L. 102–550, §606(h)(1)(B), (j)(11)(D), struck out "short-term" before "rental assistance" and substituted "eligible persons" for "individuals with acquired immunodeficiency syndrome or related diseases".
 
-Subsec. (b)(1). Pub. L. 102–550, §606(j)(6), substituted “eligible persons” for “individuals”.
+Subsec. (b)(1). Pub. L. 102–550, §606(j)(6), substituted "eligible persons" for "individuals".
 
-Subsec. (b)(2). Pub. L. 102–550, §606(j)(7), inserted “with acquired immunodeficiency syndrome or related diseases” after “any individual”.
+Subsec. (b)(2). Pub. L. 102–550, §606(j)(7), inserted "with acquired immunodeficiency syndrome or related diseases" after "any individual".
 
 Subsec. (c). Pub. L. 102–550, §606(h)(1)(C), added subsec. (c).
 
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by "section".</i>
 

@@ -14,11 +14,11 @@ As used in this section:
 
 #### (1) Direct broadcast satellite frequency band
 
-&emsp;The term “direct broadcast satellite frequency band” means the band of frequencies at 12.2 to 12.7 gigahertz.
+&emsp;The term "direct broadcast satellite frequency band" means the band of frequencies at 12.2 to 12.7 gigahertz.
 
 #### (2) Direct broadcast satellite service
 
-&emsp;The term “direct broadcast satellite service” means any direct broadcast satellite system operating in the direct broadcast satellite frequency band.
+&emsp;The term "direct broadcast satellite service" means any direct broadcast satellite system operating in the direct broadcast satellite frequency band.
 
 (Pub. L. 106–553, §1(a)(2) \[title X, §1012\], Dec. 21, 2000, 114 Stat. 2762, 2762A–141.)
 

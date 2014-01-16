@@ -6,7 +6,7 @@ In this section:
 
 #### (1) Early childhood education program
 
-&emsp;The term “early childhood education program” means—
+&emsp;The term "early childhood education program" means—
 
 &emsp;&emsp;(A) a Head Start program or an Early Head Start program carried out under the Head Start Act (42 U.S.C. 9831 et seq.);
 
@@ -16,11 +16,11 @@ In this section:
 
 #### (2) ESEA definitions
 
-&emsp;The terms “local educational agency”, “secondary school”, “elementary school”, and “parent” have the meanings given the terms in section 7801 of title 20.
+&emsp;The terms "local educational agency", "secondary school", "elementary school", and "parent" have the meanings given the terms in section 7801 of title 20.
 
 #### (3) School
 
-&emsp;The term “school” includes public—
+&emsp;The term "school" includes public—
 
 &emsp;&emsp;(A) kindergartens;
 
@@ -30,7 +30,7 @@ In this section:
 
 #### (4) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Health and Human Services.
+&emsp;The term "Secretary" means the Secretary of Health and Human Services.
 
 #### (b) Establishment of voluntary food allergy and anaphylaxis management guidelines
 
@@ -46,7 +46,7 @@ In this section:
 
 #### (B) Applicability of FERPA
 
-&emsp;&emsp;Each plan described in subparagraph (A) that is developed for an individual shall be considered an education record for the purpose of section 1232g of title 20 (commonly referred to as the “Family Educational Rights and Privacy Act of 1974”).
+&emsp;&emsp;Each plan described in subparagraph (A) that is developed for an individual shall be considered an education record for the purpose of section 1232g of title 20 (commonly referred to as the "Family Educational Rights and Privacy Act of 1974").
 
 #### (2) Contents
 
@@ -110,7 +110,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;To be eligible to receive a grant under this subsection, a local educational agency shall submit an application to the Secretary at such time, in such manner, and including such information as the Secretary may reasonably require.
+&emsp;&emsp;To be eligible to receive a grant under this subsection, a local educational agency shall submit an application to the Secretary at such time, in such manner, and includingsuch information as the Secretary may reasonably require.
 
 #### (B) Contents
 
@@ -176,7 +176,7 @@ In this section:
 
 #### (9) Administrative funds
 
-&emsp;A local educational agency that receives a grant under this subsection may use not morethan 2 percent of the grant amount for administrative costs related to carrying out this subsection.
+&emsp;A local educational agency that receives a grant under this subsection may use not more than 2 percent of the grant amount for administrative costs related to carrying out this subsection.
 
 #### (10) Progress and evaluations
 
@@ -194,7 +194,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The food allergy and anaphylaxis management guidelines developed by the Secretary under subsection (b) are voluntary. Nothing in this section or the guidelines developed by the Secretary under subsection (b) shall be construed to require a local educational agency to implement such guidelines.
+&emsp;The food allergy and anaphylaxis management guidelines developed by the Secretaryunder subsection (b) are voluntary. Nothing in this section or the guidelines developed by the Secretary under subsection (b) shall be construed to require a local educational agency to implement such guidelines.
 
 #### (2) Exception
 

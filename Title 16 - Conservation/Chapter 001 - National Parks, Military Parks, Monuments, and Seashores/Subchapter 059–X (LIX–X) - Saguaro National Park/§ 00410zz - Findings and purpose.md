@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(5) these threats impede opportunities for public enjoyment, education, and safety within the monument, as well as opportunities for solitude within the wilderness areas of the monument designated by Congress in 1976;
 
-&emsp;(6) the residential and commercial growth of the greater Tucson, Arizona metropolitan areais causing increasing threats to the monument's resources; and
+&emsp;(6) the residential and commercial growth of the greater Tucson, Arizona metropolitan area is causing increasing threats to the monument's resources; and
 
 &emsp;(7) the Tucson Mountain unit should be enlarged by the addition of adjacent lands of National Park caliber and Saguaro National Monument should be afforded full recognition and statutory protection as a National Park.
 
@@ -20,5 +20,5 @@ The Congress finds that—
 
 #### Short Title
 
-Pub. L. 103–364, §1, Oct. 14, 1994, 108 Stat. 3467, provided that: “This Act \[enacting this subchapter and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 431 of this title\] may be cited as the ‘Saguaro National Park Establishment Act of 1994’.”
+Pub. L. 103–364, §1, Oct. 14, 1994, 108 Stat. 3467, provided that: "This Act \[enacting this subchapter and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 431 of this title\] may be cited as the 'Saguaro National Park Establishment Act of 1994'."
 

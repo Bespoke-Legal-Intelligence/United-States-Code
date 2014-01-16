@@ -16,7 +16,7 @@ Requirements for Budget Display.—The budget display under subsection (a) shall
 
 Explanation of Inconsistencies.—As part of the budget display under subsection (a) for any fiscal year, the Secretary shall identify and explain—
 
-&emsp;(1) any inconsistencies between (A) the information submitted under subsection (b) for that fiscal year, and (B) the information provided to the Director of the Office of Management and Budget in support of the annual report of the President to Congress on funding for executive branch counterterrorism andantiterrorism programs and activities for that fiscal year in accordance with section 1051(b) of the National Defense Authorization Act for Fiscal Year 1998 (31 U.S.C. 1113 note); and
+&emsp;(1) any inconsistencies between (A) the information submitted under subsection (b) for that fiscal year, and (B) the information provided to the Director of the Office of Management and Budget in support of the annual report of the President to Congress on funding for executive branch counterterrorism and antiterrorism programs and activities for that fiscal year in accordance with section 1051(b) of the National Defense Authorization Act for Fiscal Year 1998 (31 U.S.C. 1113 note); and
 
 &emsp;(2) any inconsistencies between (A) the execution, during the previous fiscal year and the current fiscal year, of programs and activities of the Department of Defense combating terrorism program, and (B) the funding and specification for such programs and activities for those fiscal years in the manner provided by Congress (both in statutes and in relevant legislative history).
 
@@ -26,7 +26,7 @@ Semiannual Reports on Obligations and Expenditures.—The Secretary shall submit
 
 (e)
 
-Department of Defense Combating Terrorism Program.—In this section, the term “Department of Defense combating terrorism program” means the programs, projects, and activities of the Department of Defense related to combating terrorism inside and outside the United States.
+Department of Defense Combating Terrorism Program.—In this section, the term "Department of Defense combating terrorism program" means the programs, projects, and activities of the Department of Defense related to combating terrorism inside and outside the United States.
 
 (Added Pub. L. 106–65, div. A, title IX, §932(b)(1), Oct. 5, 1999, 113 Stat. 727; amended Pub. L. 108–136, div. A, title X, §1043(b)(6), Nov. 24, 2003, 117 Stat. 1611.)
 
@@ -36,105 +36,49 @@ Section 1051(b) of the National Defense Authorization Act for Fiscal Year 1998, 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (f). Pub. L. 108–136 struck out heading and text of subsec. (f). Text read as follows: “In this section, the term ‘congressional defense committees’ means—
+<b>2003</b>—Subsec. (f). Pub. L. 108–136 struck out heading and text of subsec. (f). Text read as follows: "In this section, the term 'congressional defense committees' means—
 
-&emsp;“(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+&emsp;"(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
-&emsp;“(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
+&emsp;"(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives."
 
 #### Prioritization of Funds for Equipment Readiness and Strategic Capability
 
-Pub. L. 109–364, div. A, title III, §323, Oct. 17, 2006, 120 Stat. 2146, as amended by Pub. L. 110–181, div. A, title III, §353, Jan. 28, 2008, 122 Stat. 72; Pub. L. 111–383, div. A, title III, §332(a)–(f), Jan. 7, 2011, 124 Stat. 4185, 4187, provided that:
+Pub. L. 109–364, div. A, title III, §323, Oct. 17, 2006, 120 Stat. 2146, as amended by Pub. L. 110–181, div. A, title III, §353, Jan. 28, 2008, 122 Stat. 72; Pub. L. 111–383, div. A, title III, §332(a)–(f), Jan. 7, 2011, 124 Stat. 4185, 4187; Pub. L. 113–66, div. A, title III, §332, Dec. 26, 2013, 127 Stat. 739, provided that:
 
-“(a)
+"(a)
 
 Prioritization of Funds.—The Secretary of Defense shall take such steps as may be necessary through the planning, programming, budgeting, and execution systems of the Department of Defense to ensure that financial resources are provided for each fiscal year as necessary to enable—
 
-&emsp;“(1) the Secretary of each military department to meet the requirements of that military department for that fiscal year for the repair, recapitalization, and replacement of equipment used in overseas contingency operations; and
+&emsp;"(1) the Secretary of each military department to meet the requirements of that military department for that fiscal year for the repair, recapitalization, and replacement of equipment used in overseas contingency operations; and
 
-&emsp;“(2) the Secretary of the Army to meet the requirements of the Army for that fiscal year, in addition to the requirements under paragraph (1), for—
+&emsp;"(2) the Secretary of the Army to meet the requirements of the Army, and the Secretary of the Navy to meet the requirements of the Marine Corps, for that fiscal year, in addition to the requirements under paragraph (1), for the reconstitution of equipment and materiel in prepositioned stocks in accordance with requirements under the policy or strategy implemented under the guidelines in section 2229 of title 10, United States Code.
 
-&emsp;&emsp;“(A) the fulfillment of the equipment requirements of modular units in accordance with the Modular Force Initiative report submitted to Congress in March 2006; and
-
-&emsp;&emsp;“(B) the reconstitution of equipment and materiel in prepositioned stocks in accordance with requirements under the Army Prepositioned Stocks Strategy 2015 or a subsequent strategy implemented under the guidelines in section 2229 of title 10, United States Code.
-
-“(b)
+"(b)
 
 Submission of Budget Information.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Submission of information.—As part of the budget justification materials submitted to Congress in support of the President's budget for a fiscal year or a request for supplemental appropriations, the Secretary of Defense shall include the following:
 
-&emsp;&emsp;“(A) The information described in paragraph (2) for the fiscal year for which the budget justification materials are submitted, the fiscal year during which the materials are submitted, and the preceding fiscal year.
+&emsp;&emsp;"(A) The information described in paragraph (2) for the fiscal year for which the budget justification materials are submitted, the fiscal year during which the materials are submitted, and the preceding fiscal year.
 
-&emsp;&emsp;“(B) The information described in paragraph (2) for each of the fiscal years covered by the future-years defense program for the fiscal year in which the report is submitted based on estimates of any amounts required to meet each of the requirements under subsection (a) that are not met for that fiscal year and are deferred to the future-years defense program.
+&emsp;&emsp;"(B) The information described in paragraph (2) for each of the fiscal years covered by the future-years defense program for the fiscal year in which the report is submitted based on estimates of any amounts required to meet each of the requirements under subsection (a) that are not met for that fiscal year and are deferred to the future-years defense program.
 
-&emsp;&emsp;“(C) A consolidated budget justification summary of the information submitted under subparagraphs (A) and (B).
+&emsp;&emsp;"(C) A consolidated budget justification summary of the information submitted under subparagraphs (A) and (B).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Information described.—The information described in this paragraph is information that clearly and separately identifies, by appropriations account, budget activity, activity group, sub-activity group, and program element or line item, the amounts requested for the programs, projects, and activities of—
 
-&emsp;&emsp;“(A) each of the military departments for the repair, recapitalization, or replacement of equipment used in overseas contingency operations; and
+&emsp;&emsp;"(A) each of the military departments for the repair, recapitalization, or replacement of equipment used in overseas contingency operations; and
 
-&emsp;&emsp;“(B) the Army for—
+&emsp;&emsp;"(B) the Army and the Marine Corps for the reconstitution of equipment and materiel in prepositioned stocks.
 
-&emsp;&emsp;&emsp;“(i) the fulfillment of the equipment requirements of modular units; and
+"(c)
 
-&emsp;&emsp;&emsp;“(ii) the reconstitution of equipment and materiel in prepositioned stocks.
-
-“(c)
-
-Annual Report on Army Progress.—(1) On the date on which the President submits to Congress the budget for a fiscal year under section 1105 of title 31, United States Code, the Secretary of the Army shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report setting forth the progress of the Army in fulfilling the key enabler equipment requirements of modular units and in repairing, recapitalizing, and replacing equipment and materiel used in support of overseas contingency operations underway as of the date of such report, and associated sustainment. Any information included in the report shall be itemized by active duty component and reserve component.
-
-“(2) Each such report shall include the following:
-
-&emsp;“(A) An assessment of the key enabler equipment and personnel of the Army, including—
-
-&emsp;&emsp;“(i) a comparison of—
-
-&emsp;&emsp;&emsp;“(I) the authorized level of key enabler equipment;
-
-&emsp;&emsp;&emsp;“(II) the level of key enabler equipment on hand; and
-
-&emsp;&emsp;&emsp;“(III) the planned purchases of key enabler equipment as set forth in the future-years defense program submitted with the budget for such fiscal year;
-
-&emsp;&emsp;“(ii) a comparison of the authorized and actual personnel levels for personnel with key enabler personnel specialities \[sic\] with the requirements for key enabler personnel specialties;
-
-&emsp;&emsp;“(iii) an identification of any shortfalls indicated by the comparisons in clauses (i) and (ii); and
-
-&emsp;&emsp;“(iv) an assessment of the number and type of key enabler equipment that the Army projects it will have on hand by the end of such future-years defense program that will require repair, recapitalization, or replacement at or before the end of the time period covered by such future-years defense program (which assessment shall account for additional repair, recapitalization, or replacement resulting from use of key enabler equipment in overseas contingency operations).
-
-&emsp;“(B) If an assessment under subparagraph (A) identifies shortfalls that will exist within the period covered by the future-years defense program submitted in such fiscal year, an identification of the risks associated with such shortfalls and mitigation strategies to address such risks.
-
-&emsp;“(C) A schedule for the accomplishment of the purposes set forth in paragraph (1).
-
-&emsp;“(D) The results of Army assessments of modular force capabilities, including lessons learned from existing modular units and any modifications that have been made to modularity.
-
-&emsp;“(E) A description of the status of the development of doctrine on how modular combat, functional, and support forces will train, be sustained, and fight.
-
-&emsp;“(F) The comments of the Chief of the National Guard Bureau and the Chief of the Army Reserve on each of the items described in subparagraphs (A) through (E).
-
-“(d)
-
-Annual Comptroller General Report on Army Progress.—Not later than 180 days after the date on which the Secretary of the Army submits a report under subsection (c), the Comptroller General of the United States shall submit to the congressional defense committees a report setting forth the Comptroller General's review of such report. Each report under this subsection shall include such information and recommendations as the Comptroller General considers appropriate in light of such review.
-
-“(e)
-
-Definitions.—In this section:
-
-&emsp;“(1) The term ‘contingency operation’ has the meaning given that term in section 101(a)(13) of title 10, United States Code.
-
-&emsp;“(2) The term ‘key enabler’, in the case of equipment or personnel, means equipment or personnel, as the case may be, that make a modular force or unit as capable or more capable than the non-modular force or unit it replaced, including the following:
-
-&emsp;&emsp;“(A) Equipment such as tactical and high frequency radio, tactical wheeled vehicles, battle command systems, unmanned aerial vehicles, all-source analysis systems, analysis and control elements, fire support sensor systems, firefinder radar, joint network nodes, long-range advanced scout surveillance systems, Trojan Spirit systems (or any successor system), and any other equipment items identified by the Army as making a modular force or unit as capable or more capable than the non-modular force or unit it replaced.
-
-&emsp;&emsp;“(B) Personnel in specialties needed to operate or support the equipment specified in subparagraph (A) and personnel in specialties relating to civil affairs, communication and information systems operation, explosive ordinance disposal, military intelligence, psychological operations, and any other personnel specialties identified by the Army as making a modular force or unit as capable or more capable than the non-modular force or unit it replaced.
-
-“(f)
-
-Termination of Report Requirements.—The requirement for the submission of a report under subsection (c) or (d) shall terminate on the date of the submission of the report required to be submitted under that subsection to accompany or follow the President's budget submission for fiscal year 2015.”
+Contingency Operation Defined.—In this section, the term 'contingency operation' has the meaninggiven that term in section 101(a)(13) of title 10, United States Code."
 
 #### Quarterly Detailed Accounting for Operations Conducted as Part of the Global War on Terrorism
 

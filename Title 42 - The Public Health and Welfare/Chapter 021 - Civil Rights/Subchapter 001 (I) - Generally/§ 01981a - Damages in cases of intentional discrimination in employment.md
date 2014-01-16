@@ -12,7 +12,7 @@
 
 #### (3) Reasonable accommodation and good faith effort
 
-&emsp;In cases where a discriminatory practice involves the provision of a reasonable accommodation pursuant to section 102(b)(5) of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12112(b)(5)\] or regulations implementing section 791 of title 29, damages may not be awarded under this section where the coveredentity demonstrates good faith efforts, in consultation with the person with the disability who has informed the covered entity that accommodation is needed, to identify and make a reasonable accommodation that would provide such individual with an equally effective opportunity and would not cause an undue hardship on the operation of the business.
+&emsp;In cases where a discriminatory practice involves the provision of a reasonable accommodation pursuant to section 102(b)(5) of the Americans with Disabilities Act of 1990 \[42 U.S.C. 12112(b)(5)\] or regulations implementing section 791 of title 29, damages may not be awarded under this section where the covered entity demonstrates good faith efforts, in consultation with the person with the disability who has informed the covered entity that accommodation is needed, to identify and make a reasonable accommodation that would provide such individual with an equally effective opportunity and would not cause an undue hardship on the operation of the business.
 
 #### (b) Compensatory and punitive damages
 
@@ -54,7 +54,7 @@ As used in this section:
 
 #### (1) Complaining party
 
-&emsp;The term “complaining party” means—
+&emsp;The term "complaining party" means—
 
 &emsp;&emsp;(A) in the case of a person seeking to bring an action under subsection (a)(1) of this section, the Equal Employment Opportunity Commission, the Attorney General, or a person who may bring an action or proceeding under title VII of the Civil Rights Act of 1964 (42 U.S.C. 2000e et seq.); or
 
@@ -62,7 +62,7 @@ As used in this section:
 
 #### (2) Discriminatory practice
 
-&emsp;The term “discriminatory practice” means the discrimination described in paragraph (1), or the discrimination or the violation described in paragraph (2), of subsection (a) of this section.
+&emsp;The term "discriminatory practice" means the discrimination described in paragraph (1), or the discrimination or the violation described in paragraph (2), of subsection (a) of this section.
 
 (R.S. §1977A, as added Pub. L. 102–166, title I, §102, Nov. 21, 1991, 105 Stat. 1072.)
 

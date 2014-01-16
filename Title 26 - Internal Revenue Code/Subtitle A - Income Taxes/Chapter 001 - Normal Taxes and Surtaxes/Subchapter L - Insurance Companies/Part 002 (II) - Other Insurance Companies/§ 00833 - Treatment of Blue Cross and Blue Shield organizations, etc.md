@@ -14,7 +14,7 @@ In the case of any organization to which this section applies—
 
 #### (3) Reductions in unearned premium reserves not to apply
 
-&emsp;Subparagraph (B) of paragraph (4) of section 832(b) shall be applied by substituting “100 percent” for “80 percent”, and subparagraph (C) of such paragraph (4) shall not apply.
+&emsp;Subparagraph (B) of paragraph (4) of section 832(b) shall be applied by substituting "100 percent" for "80 percent", and subparagraph (C) of such paragraph (4) shall not apply.
 
 #### (b) Amount of deduction
 
@@ -48,11 +48,11 @@ In the case of any organization to which this section applies—
 
 #### (B) Special rule
 
-&emsp;&emsp;The adjusted surplus as of the beginning of the organization's 1st taxable year beginning after December 31, 1986, shall be its surplus as of such time. For purposes of the preceding sentence and subsection (c)(3)(C), the term “surplus” means the excess of the total assets over total liabilities as shown on the annual statement.
+&emsp;&emsp;The adjusted surplus as of the beginning of the organization's 1st taxable year beginning after December 31, 1986, shall be its surplus as of such time. For purposes of the preceding sentence and subsection (c)(3)(C), the term "surplus" means the excess of the total assets over total liabilities as shown on the annual statement.
 
 #### (C) Adjusted taxable income
 
-&emsp;&emsp;The term “adjusted taxable income” means taxable income determined—
+&emsp;&emsp;The term "adjusted taxable income" means taxable income determined—
 
 &emsp;&emsp;&emsp;(i) without regard to the deduction determined under this subsection,
 
@@ -62,11 +62,11 @@ In the case of any organization to which this section applies—
 
 #### (D) Adjusted net operating loss
 
-&emsp;&emsp;The term “adjusted net operating loss” means the net operating loss for any taxable year determined with the adjustments set forth in subparagraph (C).
+&emsp;&emsp;The term "adjusted net operating loss" means the net operating loss for any taxable year determined with the adjustments set forth in subparagraph (C).
 
 #### (E) Net exempt income
 
-&emsp;&emsp;The term “net exempt income” means—
+&emsp;&emsp;The term "net exempt income" means—
 
 &emsp;&emsp;&emsp;(i) any tax-exempt interest received or accrued during the taxable year, reduced by any amount (not otherwise deductible) which would have been allowable as a deduction for the taxable year if such interest were not tax-exempt, and
 
@@ -90,7 +90,7 @@ In the case of any organization to which this section applies—
 
 #### (2) Existing Blue Cross or Blue Shield organization
 
-&emsp;The term “existing Blue Cross or Blue Shield organization” means any Blue Cross or Blue Shield organization if—
+&emsp;The term "existing Blue Cross or Blue Shield organization" means any Blue Cross or Blue Shield organization if—
 
 &emsp;&emsp;(A) such organization was in existence on August 16, 1986,
 
@@ -120,7 +120,7 @@ In the case of any organization to which this section applies—
 
 #### (B) Small group defined
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “small group” means the lesser of—
+&emsp;&emsp;For purposes of subparagraph (A), the term "small group" means the lesser of—
 
 &emsp;&emsp;&emsp;(i) 15 individuals, or
 
@@ -158,105 +158,105 @@ Section 2718 of the Public Health Service Act, referred to in subsec. (c)(5), is
 
 <b>2010</b>—Subsec. (c)(5). Pub. L. 111–148 added par. (5).
 
-<b>1997</b>—Subsec. (b)(1)(A)(i). Pub. L. 105–34, §1604(d)(2)(A)(i), inserted “and liabilities incurred during the taxable year under cost-plus contracts” before the comma.
+<b>1997</b>—Subsec. (b)(1)(A)(i). Pub. L. 105–34, §1604(d)(2)(A)(i), inserted "and liabilities incurred during the taxable year under cost-plus contracts" before the comma.
 
-Subsec. (b)(1)(A)(ii). Pub. L. 105–34, §1604(d)(2)(A)(ii), inserted “or in connection with the administration of cost-plus contracts” before the last comma.
+Subsec. (b)(1)(A)(ii). Pub. L. 105–34, §1604(d)(2)(A)(ii), inserted "or in connection with the administration of cost-plus contracts" before the last comma.
 
 <b>1996</b>—Subsec. (c)(4). Pub. L. 104–191 added par. (4).
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title IX, §9016(b), Mar. 23, 2010, 124 Stat. 872, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
+Pub. L. 111–148, title IX, §9016(b), Mar. 23, 2010, 124 Stat. 872, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009."
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XVI, §1604(d)(2)(B), Aug. 5, 1997, 111 Stat. 1098, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 1012 of the Tax Reform Act of 1986 \[Pub. L. 99–514\].”
+Pub. L. 105–34, title XVI, §1604(d)(2)(B), Aug. 5, 1997, 111 Stat. 1098, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall take effect as if included in the amendments made by section 1012 of the Tax Reform Act of 1986 \[Pub. L. 99–514\]."
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–191, title III, §351(b), Aug. 21, 1996, 110 Stat. 2071, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1996.”
+Pub. L. 104–191, title III, §351(b), Aug. 21, 1996, 110 Stat. 2071, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years ending after December 31, 1996."
 
 #### Effective Date
 
 Pub. L. 99–514, title X, §1012(c), Oct. 22, 1986, 100 Stat. 2393, as amended by Pub. L. 100–647, title I, §1010(b)(1), (2), Nov. 10, 1988, 102 Stat. 3451, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[enacting this section and amending section 501 of this title\] shall apply to taxable years beginning after December 31, 1986.
 
-“(2)
+"(2)
 
 Study of fraternal beneficiary associations.—The Secretary of the Treasury or his delegate shall conduct a study of organizations described in section 501(c)(8) of the Internal Revenue Code of 1986 and which received gross annual insurance premiums in excess of $25,000,000 for the taxable years of such organizations which ended during 1984. Not later than January 1, 1988, the Secretary of the Treasury shall submit to the Committee on Ways and Means of the House of Representatives, the Committee on Finance of the Senate, and the Joint Committee on Taxation the results of such study, together with such recommendations as he determines to be appropriate. The Secretary of the Treasury shall have authority to require the furnishing of such information as may be necessary to carry out the purposes of this paragraph.
 
-“(3)
+"(3)
 
 Special rules for existing blue cross or blue shield organizations.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—In the case of any existing Blue Cross or Blue Shield organization (as defined in section 833(c)(2) of the Internal Revenue Code of 1986 as added by this section)—
 
-&emsp;&emsp;“(i) no adjustment shall be made under section 481 (or any other provision) of such Code on account of a change in its method of accounting for its 1st taxable year beginning after December 31, 1986, and
+&emsp;&emsp;"(i) no adjustment shall be made under section 481 (or any other provision) of such Code on account of a change in its method of accounting for its 1st taxable year beginning after December 31, 1986, and
 
-&emsp;&emsp;“(ii) for purposes of determining gain or loss, the adjusted basis of any asset held on the 1st day of such taxable year shall be treated as equal to its fair market value as of such day.
+&emsp;&emsp;"(ii) for purposes of determining gain or loss, the adjusted basis of any asset held on the 1st day of such taxable year shall be treated as equal to its fair market value as of such day.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Treatment of certain distributions.—For purposes of section 833(b)(3)(B), the surplus of any organization as of the beginning of its 1st taxable year beginning after December 31, 1986, shall be increased by the amount of any distribution (other than to policyholders) made by such organization after August 16, 1986, and before the beginning of such taxable year.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Reserve weakening after august 16, 1986.—Any reserve weakening after August 16, 1986, by an existing Blue Cross or Blue Shield organization shall be treated as occurring in such organization's 1st taxable year beginning after December 31, 1986.
 
-“(4)
+"(4)
 
 Other special rules.—
 
-&emsp;“(A) The amendments made by this section shall not apply with respect to that portion of the business of Mutual of America which is attributable to pension business.
+&emsp;"(A) The amendments made by this section shall not apply with respect to that portion of the business of Mutual of America which is attributable to pension business.
 
-&emsp;“(B) The amendments made by this section shall not apply to that portion of the business of the Teachers Insurance Annuity Association-College Retirement Equities Fund which is attributable to pension business.
+&emsp;"(B) The amendments made by this section shall not apply to that portion of the business of the Teachers Insurance Annuity Association-College Retirement Equities Fund which is attributable to pension business.
 
-&emsp;“(C) The amendments made by this section shall not apply to—
+&emsp;"(C) The amendments made by this section shall not apply to—
 
-&emsp;&emsp;“(i) the retirement fund of the YMCA,
+&emsp;&emsp;"(i) the retirement fund of the YMCA,
 
-&emsp;&emsp;“(ii) the Missouri Hospital Plan,
+&emsp;&emsp;"(ii) the Missouri Hospital Plan,
 
-&emsp;&emsp;“(iii) administrative services performed by municipal leagues, and
+&emsp;&emsp;"(iii) administrative services performed by municipal leagues, and
 
-&emsp;&emsp;“(iv) dental benefit coverage provided by a Delta Dental Plans Association organization through contracts with independent professional service providers so long as the provision of such coverage is the principal activity of such organization.
+&emsp;&emsp;"(iv) dental benefit coverage provided by a Delta Dental Plans Association organization through contracts with independent professional service providers so long as the provision of such coverage is the principal activity of such organization.
 
-&emsp;“(D) For purposes of this paragraph, the term ‘pension business’ means the administration of any plan described in section 401(a) of the Internal Revenue Code of 1954 \[now 1986\] which includes a trust exempt from tax under section 501(a), any plan under which amounts are contributed by an individual's employer for an annuity contract described in section 403(b) of such Code, any individual retirement plan described in section 408 of such Code, and any eligible deferred compensation plan to which section 457(a) of such Code applies.”
+&emsp;"(D) For purposes of this paragraph, the term 'pension business' means the administration of any plan described in section 401(a) of the Internal Revenue Code of 1954 \[now 1986\] which includes a trust exempt from tax under section 501(a), any plan under which amounts are contributed by an individual's employer for an annuity contract described in section 403(b) of such Code, any individual retirement plan described in section 408 of such Code, and any eligible deferred compensation plan to which section 457(a) of such Code applies."
 
 \[The due date for the report referred to in section 1012(c)(2) of Pub. L. 99–514, set out above, extended to July 1, 1992, by Pub. L. 101–508, title XI, §11831(b), Nov. 5, 1990, 104 Stat. 1388–559.\]
 
 #### Termination of Certain Exceptions From Rules Relating to Exempt Organizations Which Provide Commercial-Type Insurance
 
-Pub. L. 105–277, div. J, title IV, §4003(g), Oct. 21, 1998, 112 Stat. 2681–910, provided that: “Rules similar to the rules of section 1.1502–75(d)(5) of the Treasury Regulations shall apply with respect to any organization described in section 1042(b) of the 1997 Act \[section 1042(b) of Pub. L. 105–34, set out below\].”
+Pub. L. 105–277, div. J, title IV, §4003(g), Oct. 21, 1998, 112 Stat. 2681–910, provided that: "Rules similar to the rules of section 1.1502–75(d)(5) of the Treasury Regulations shall apply with respect to any organization described in section 1042(b) of the 1997 Act \[section 1042(b) of Pub. L. 105–34, set out below\]."
 
 Pub. L. 105–34, title X, §1042, Aug. 5, 1997, 111 Stat. 939, provided that:
 
-“(a)
+"(a)
 
 In General.—Subparagraphs (A) and (B) of section 1012(c)(4) of the Tax Reform Act of 1986 \[Pub. L. 99–514, set out as an Effective Date note above\] shall not apply to any taxable year beginning after December 31, 1997.
 
-“(b)
+"(b)
 
 Special Rules.—In the case of an organization to which section 501(m) of the Internal Revenue Code of 1986 applies solely by reason of the amendment made by subsection (a)—
 
-&emsp;“(1) no adjustment shall be made under section 481 (or any other provision) of such Code on account of a change in its method of accounting for its first taxable year beginning after December 31, 1997, and
+&emsp;"(1) no adjustment shall be made under section 481 (or any other provision) of such Code on account of a change in its method of accounting for its first taxable year beginning after December 31, 1997, and
 
-&emsp;“(2) for purposes of determining gain or loss, the adjusted basis of any asset held on the 1st day of such taxable year shall be treated as equal to its fair market value as of such day.
+&emsp;"(2) for purposes of determining gain or loss, the adjusted basis of any asset held on the 1st day of such taxable year shall be treated as equal to its fair market value as of such day.
 
-“(c)
+"(c)
 
 Reserve Weakening After June 8, 1997.—Any reserve weakening after June 8, 1997, by an organization described in subsection (b) shall be treated as occurring in such organization's 1st taxable year beginning after December 31, 1997.
 
-“(d)
+"(d)
 
-Regulations.—The Secretary of the Treasury or his delegate may prescribe rules for providing proper adjustments for organizations described in subsection (b) with respect to short taxable years which begin during 1998 by reason of section 843 of the Internal Revenue Code of 1986.”
+Regulations.—The Secretary of the Treasury or his delegate may prescribe rules for providing proper adjustments for organizations described in subsection (b) with respect to short taxable years which begin during 1998 by reason of section 843 of the Internal Revenue Code of 1986."
 
 #### Rules Providing Adjustments for Certain Taxpayers Affected by Section 1012 of Pub. L. 99–514
 
-Pub. L. 100–647, title I, §1010(b)(3), Nov. 10, 1988, 102 Stat. 3451, provided that: “The Secretary of the Treasury or his delegate may prescribe rules providing proper adjustments for taxpayers which become subject to subchapter L of chapter 1 of the 1986 Code by reason of the amendments made by section 1012 of the Reform Act \[Pub. L. 99–514, enacting this section and amending section 501 of this title\] with respect to short taxable years which begin during 1987 by reason of section 843 of such Code.”
+Pub. L. 100–647, title I, §1010(b)(3), Nov. 10, 1988, 102 Stat. 3451, provided that: "The Secretary of the Treasury or his delegate may prescribe rules providing proper adjustments for taxpayers which become subject to subchapter L of chapter 1 of the 1986 Code by reason of the amendments made by section 1012 of the Reform Act \[Pub. L. 99–514, enacting this section and amending section 501 of this title\] with respect to short taxable years which begin during 1987 by reason of section 843 of such Code."
 

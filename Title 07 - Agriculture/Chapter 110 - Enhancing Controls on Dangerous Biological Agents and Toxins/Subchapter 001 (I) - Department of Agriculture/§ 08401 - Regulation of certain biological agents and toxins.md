@@ -96,7 +96,7 @@ The Secretary shall by regulation provide for the establishment and enforcement 
 
 &emsp;&emsp;&emsp;&emsp;(I) committing a crime set forth in section 2332b(g)(5) of title 18;
 
-&emsp;&emsp;&emsp;&emsp;(II) knowing involvement with an organization that engages in domestic or international terrorism (as defined in section 2331 of such title 18) or with any other organization that engages in intentional crimes of violence; or
+&emsp;&emsp;&emsp;&emsp;(II) knowing involvement with an organization that engages in domestic orinternational terrorism (as defined in section 2331 of such title 18) or with any other organization that engages in intentional crimes of violence; or
 
 &emsp;&emsp;&emsp;&emsp;(III) being an agent of a foreign power (as defined in section 1801 of title 50).
 
@@ -182,13 +182,13 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 &emsp;&emsp;&emsp;For purposes of this section:
 
-&emsp;&emsp;&emsp;&emsp;(I) The term “overlap agents and toxins” means biological agents and toxins that—
+&emsp;&emsp;&emsp;&emsp;(I) The term "overlap agents and toxins" means biological agents and toxins that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) are listed pursuant to subsection (a)(1) of this section; and
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(bb) are listed pursuant to section 262a(a)(1) of title 42. <sup>3</sup>
 
-&emsp;&emsp;&emsp;&emsp;(II) The term “overlap agent or toxin” means a biological agent or toxin that—
+&emsp;&emsp;&emsp;&emsp;(II) The term "overlap agent or toxin" means a biological agent or toxin that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) is listed pursuant to subsection (a)(1) of this section; and
 
@@ -216,7 +216,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 &emsp;&emsp;&emsp;&emsp;(II) Section 351 of the Public Health Service Act \[42 U.S.C. 262\].
 
-&emsp;&emsp;&emsp;&emsp;(III) The Act commonly known as the Virus-Serum-Toxin Act (the eighth paragraph under the heading “Bureau of Animal Industry” in the Act of March 4, 1913; 21 U.S.C. 151–159).
+&emsp;&emsp;&emsp;&emsp;(III) The Act commonly known as the Virus-Serum-Toxin Act (the eighth paragraph under the heading "Bureau of Animal Industry" in the Act of March 4, 1913; 21 U.S.C. 151–159).
 
 &emsp;&emsp;&emsp;&emsp;(IV) The Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\].
 
@@ -268,7 +268,7 @@ The Secretary shall have the authority to inspect persons subject to regulations
 
 &emsp;&emsp;(A) The Department of Health and Human Services, the Department of Justice, the Department of Agriculture, and the Department of Transportation.
 
-&emsp;&emsp;(B) Any Federal agency to which information specified in paragraph (1) is transferredby any agency specified in subparagraph (A) of this paragraph.
+&emsp;&emsp;(B) Any Federal agency to which information specified in paragraph (1) is transferred by any agency specified in subparagraph (A) of this paragraph.
 
 &emsp;&emsp;(C) Any Federal agency that is a registered person, or has a sub-agency component that is a registered person.
 
@@ -320,19 +320,19 @@ The Secretary shall report to the Congress annually on the number and nature of 
 
 For purposes of this section:
 
-&emsp;(1) The terms “biological agent” and “toxin” have the meanings given such terms in section 178 of title 18.
+&emsp;(1) The terms "biological agent" and "toxin" have the meanings given such terms in section 178 of title 18.
 
-&emsp;(2) The term “listed agents and toxins” means biological agents and toxins listed pursuant to subsection (a)(1) of this section.
+&emsp;(2) The term "listed agents and toxins" means biological agents and toxins listed pursuant to subsection (a)(1) of this section.
 
-&emsp;(3) The term “listed agents or toxins” means biological agents or toxins listed pursuant to subsection (a)(1) of this section.
+&emsp;(3) The term "listed agents or toxins" means biological agents or toxins listed pursuant to subsection (a)(1) of this section.
 
-&emsp;(4) The terms “overlap agents and toxins” and “overlap agent or toxin” have the meaning given such terms in subsection (g)(1)(A)(ii) of this section.
+&emsp;(4) The terms "overlap agents and toxins" and "overlap agent or toxin" have the meaning given such terms in subsection (g)(1)(A)(ii) of this section.
 
-&emsp;(5) The term “person” includes Federal, State, and local governmental entities.
+&emsp;(5) The term "person" includes Federal, State, and local governmental entities.
 
-&emsp;(6) The term “registered person” means a person registered under regulations under subsection (b) or (c) of this section.
+&emsp;(6) The term "registered person" means a person registered under regulations under subsection (b) or (c) of this section.
 
-&emsp;(7) The term “Secretary” means the Secretary of Agriculture.
+&emsp;(7) The term "Secretary" means the Secretary of Agriculture.
 
 #### (m) Authorization of appropriations
 
@@ -342,11 +342,11 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### References in Text
 
-Section 262a(a)(1) of title 42, referred to in subsec. (g)(1)(A)(ii), was in the original “section 315A(a)(1) of the Public Health Service Act”, and was translated as meaning section 351A(a)(1) of that Act to reflect the probable intent of Congress, because the Public Health Service Act does not contain a section 315A and section 351A refers to a list of biological agents and toxins.
+Section 262a(a)(1) of title 42, referred to in subsec. (g)(1)(A)(ii), was in the original "section 315A(a)(1) of the Public Health Service Act", and was translated as meaning section 351A(a)(1) of that Act to reflect the probable intent of Congress, because the Public Health Service Act does not contain a section 315A and section 351A refers to a list of biological agents and toxins.
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(1)(C)(ii)(I), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs.For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(1)(C)(ii)(I), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-The Act commonly known as the Virus-Serum-Toxin Act, referred to in subsec. (g)(1)(C)(ii)(III), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
+The Act commonly known as the Virus-Serum-Toxin Act, referred to in subsec. (g)(1)(C)(ii)(III), is the eighth paragraph under the heading "Bureau of Animal Industry" of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (g)(1)(C)(ii)(IV), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
 
@@ -354,7 +354,7 @@ The Plant Protection Act, referred to in subsec. (i)(2), is title IV of Pub. L. 
 
 #### Amendments
 
-<b>2002</b>—Subsec. (e)(1). Pub. L. 107–296 substituted “collaboration with the Secretary of Homeland Security and” for “consultation with”.
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–296 substituted "collaboration with the Secretary of Homeland Security and" for "consultation with".
 
 #### Effective Date of 2002 Amendment
 
@@ -362,39 +362,39 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 #### Short Title
 
-Pub. L. 107–188, title II, §211, June 12, 2002, 116 Stat. 647, provided that: “This subtitle \[subtitle B (§§211–213) of title II of Pub. L. 107–188, enacting this subchapter\] may be cited as the ‘Agricultural Bioterrorism Protection Act of 2002’.”
+Pub. L. 107–188, title II, §211, June 12, 2002, 116 Stat. 647, provided that: "This subtitle \[subtitle B (§§211–213) of title II of Pub. L. 107–188, enacting this subchapter\] may be cited as the 'Agricultural Bioterrorism Protection Act of 2002'."
 
 #### Implementation by Department of Agriculture
 
 Pub. L. 107–188, title II, §213, June 12, 2002, 116 Stat. 656, provided that:
 
-“(a)
+"(a)
 
-Date Certain for Promulgation of List.—Not later than 60 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Agriculture (referred to in this section as the ‘Secretary’) shall promulgate an interim final rule that establishes the initial list under section 212(a)(1) \[7 U.S.C. 8401(a)(1)\]. In promulgating such rule, the Secretary shall provide written guidance on the manner in which the notice required in subsection (b) is to be provided to the Secretary.
+Date Certain for Promulgation of List.—Not later than 60 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary of Agriculture (referred to in this section as the 'Secretary') shall promulgate an interim final rule that establishes the initial list under section 212(a)(1) \[7 U.S.C. 8401(a)(1)\]. In promulgating such rule, the Secretary shall provide written guidance on the manner in which the notice required in subsection (b) is to be provided to the Secretary.
 
-“(b)
+"(b)
 
 Date Certain for Notice of Possession.—Not later than 60 days after the date on which the Secretary promulgates the interim final rule under subsection (a), all persons (unless exempt under section 212(g) \[7 U.S.C. 8401(g)\]) in possession of biological agents or toxins included on the list referred to in subsection (a) shall notify the Secretary of such possession.
 
-“(c)
+"(c)
 
 Date Certain for Promulgation; Effective Date Regarding Criminal and Civil Penalties.—Not later than 180 days after the date of the enactment of this Act \[June 12, 2002\], the Secretary shall promulgate an interim final rule for carrying out section 212 \[7 U.S.C. 8401\], other than for the list referred to in subsection (a) of this section (but such rule may incorporate by reference provisions promulgated pursuant to subsection (a)). Such interim final rule shall take effect 60 days after the date on which such rule is promulgated, including for purposes of—
 
-&emsp;“(1) section 175b(c) of title 18, United States Code (relating to criminal penalties), as added by section 231(a)(5) of this Act; and
+&emsp;"(1) section 175b(c) of title 18, United States Code (relating to criminal penalties), as added by section 231(a)(5) of this Act; and
 
-&emsp;“(2) section 212(i) of this Act \[7 U.S.C. 8401(i)\] (relating to civil penalties).
+&emsp;"(2) section 212(i) of this Act \[7 U.S.C. 8401(i)\] (relating to civil penalties).
 
-“(d)
+"(d)
 
-Transitional Provision Regarding Current Research and Education.—The interim final rule under subsection (c) shall include time frames for the applicability of the rule that minimize disruption of research or educational projects that involve biological agents and toxins listed pursuant to section 212(a)(1) \[7 U.S.C. 8401(a)(1)\] and that were underway as of the effective date of such rule.”
+Transitional Provision Regarding Current Research and Education.—The interim final rule under subsection (c) shall include time frames for the applicability of the rule that minimize disruption of research or educational projects that involve biological agents and toxins listed pursuant to section 212(a)(1) \[7 U.S.C. 8401(a)(1)\] and that were underway as of the effective date of such rule."
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “judicial”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "judicial".</i>
 
 <i><sup>3</sup></i><i> See References in Text note below.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be preceded by “section”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be preceded by "section".</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be "section".</i>
 

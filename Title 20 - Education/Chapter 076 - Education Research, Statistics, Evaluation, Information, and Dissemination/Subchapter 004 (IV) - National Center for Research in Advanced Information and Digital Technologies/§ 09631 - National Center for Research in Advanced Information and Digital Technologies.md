@@ -40,7 +40,7 @@ The purpose of the Center shall be to support a comprehensive research and devel
 
 &emsp;&emsp;(A) reflect representation from the public and private sectors;
 
-&emsp;&emsp;(B) shall provide, as nearly as practicable, a broad representation of various regions of the United States, various professions and occupations, and various kinds of talent and experience appropriate to the functions and responsibilities of the Center;
+&emsp;&emsp;(B) shall provide, as nearly as practicable, a broad representation of various regions ofthe United States, various professions and occupations, and various kinds of talent and experience appropriate to the functions and responsibilities of the Center;
 
 &emsp;&emsp;(C) shall not be in a position to benefit financially directly from the contracts and grants to eligible institutions under subsection (f)(2); and
 
@@ -164,19 +164,19 @@ For purposes of this section:
 
 #### (1) Authorizing committees
 
-&emsp;The term “authorizing committees” has the meaning given the term in section 1003 of this title.
+&emsp;The term "authorizing committees" has the meaning given the term in section 1003 of this title.
 
 #### (2) Board
 
-&emsp;The term “Board” means the Board of the Center appointed under subsection (d)(1).
+&emsp;The term "Board" means the Board of the Center appointed under subsection (d)(1).
 
 #### (3) Center
 
-&emsp;The term “Center” means the National Center for Research in Advanced Information and Digital Technologies established under subsection (a).
+&emsp;The term "Center" means the National Center for Research in Advanced Information and Digital Technologies established under subsection (a).
 
 #### (4) Director
 
-&emsp;The term “Director” means the Director of the Center appointed under subsection (e)(1).
+&emsp;The term "Director" means the Director of the Center appointed under subsection (e)(1).
 
 (Pub. L. 110–315, title VIII, §802, Aug. 14, 2008, 122 Stat. 3446; Pub. L. 112–239, div. A, title X, §1076(c)(2)(A)(vii), Jan. 2, 2013, 126 Stat. 1950.)
 
@@ -190,5 +190,5 @@ Section was enacted as part of the Higher Education Opportunity Act, and not as 
 
 #### Amendments
 
-<b>2013</b>—Subsec. (g)(1)(B)(ii). Pub. L. 112–239 substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”.
+<b>2013</b>—Subsec. (g)(1)(B)(ii). Pub. L. 112–239 substituted "Assistant Secretary of Defense for Research and Engineering" for "Director of Defense Research and Engineering".
 

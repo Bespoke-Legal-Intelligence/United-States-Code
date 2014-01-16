@@ -26,7 +26,7 @@ There are authorized to be appropriated to the Secretary of Energy to carry out 
 
 #### (c) National Aeronautics and Space Administration
 
-There are authorized to be appropriated to the Administrator of the National Aeronautics andSpace Administration to carry out the Administrator's responsibilities under this chapter—
+There are authorized to be appropriated to the Administrator of the National Aeronautics and Space Administration to carry out the Administrator's responsibilities under this chapter—
 
 &emsp;(1) $34,100,000 for fiscal year 2005;
 

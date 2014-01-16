@@ -2,7 +2,7 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [701\.](%C2%A7%2000701%20-%20%E2%80%9CUsual%20number%E2%80%9D%20of%20documents%20and%20reports%3B%20distribution%20of%20House%20and%20Senate%20documents%20and%20reports%3B%20binding%3B%20reports%20on%20private%20bills%E2%80%A6.md) | “Usual number” of documents and reports; distribution of House and Senate documents and reports; binding; reports on private bills; number of copies printed; distribution. |
+| [701\.](%C2%A7%2000701%20-%20Usual%20number%20of%20documents%20and%20reports%3B%20distribution%20of%20House%20and%20Senate%20documents%20and%20reports%3B%20binding%3B%20reports%20on%20private%20bills%3B%20number%E2%80%A6.md) | "Usual number" of documents and reports; distribution of House and Senate documents and reports; binding; reports on private bills; number of copies printed; distribution. |
 | [702\.](%C2%A7%2000702%20-%20Extra%20copies%20of%20documents%20and%20reports.md) | Extra copies of documents and reports. |
 | [703\.](%C2%A7%2000703%20-%20Printing%20extra%20copies.md) | Printing extra copies. |
 | [704\.](%C2%A7%2000704%20-%20Reprinting%20bills%2C%20laws%2C%20and%20reports%20from%20committees%20not%20exceeding%20fifty%20pages.md) | Reprinting bills, laws, and reports from committees not exceeding fifty pages. |
@@ -26,7 +26,7 @@
 | [722\.](%C2%A7%2000722%20-%20Congressional%20Directory%20sale.md) | Congressional Directory: sale. |
 | [723\.](%C2%A7%2000723%20-%20Memorial%20addresses%20preparation%3B%20distribution.md) | Memorial addresses: preparation; distribution. |
 | [724\.](%C2%A7%2000724%20-%20Memorial%20addresses%20illustrations.md) | Memorial addresses: illustrations. |
-| [725\.](%C2%A7%2000725%20-%20Statement%20of%20appropriations%3B%20%E2%80%9Cusual%20number%E2%80%9D.md) | Statement of appropriations; “usual number”. |
+| [725\.](%C2%A7%2000725%20-%20Statement%20of%20appropriations%3B%20usual%20number.md) | Statement of appropriations; "usual number". |
 | [726\.](%C2%A7%2000726%20-%20Printing%20for%20committees%20of%20Congress.md) | Printing for committees of Congress. |
 | [727\.](%C2%A7%2000727%20-%20Committee%20reports%20indexing%20and%20binding.md) | Committee reports: indexing and binding. |
 | [728\.](%C2%A7%2000728%20-%20United%20States%20Statutes%20at%20Large%20distribution.md) | United States Statutes at Large: distribution. |
@@ -48,7 +48,7 @@
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–186, title II, §223(4)(B), Aug. 20, 1996, 110 Stat. 1751, substituted “Senators” for “Members of Congress” in item 735.
+<b>1996</b>—Pub. L. 104–186, title II, §223(4)(B), Aug. 20, 1996, 110 Stat. 1751, substituted "Senators" for "Members of Congress" in item 735.
 
 #### Federal Records Management Provisions Without Effect on Chapter
 
@@ -59,7 +59,7 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00701 - &#8220;Usual number&#8221; of documents and reports; distribution of House and Senate documents and reports; binding; reports on private bills&#8230;](%C2%A7%2000701%20-%20%E2%80%9CUsual%20number%E2%80%9D%20of%20documents%20and%20reports%3B%20distribution%20of%20House%20and%20Senate%20documents%20and%20reports%3B%20binding%3B%20reports%20on%20private%20bills%E2%80%A6.md)
+- [&sect; 00701 - Usual number of documents and reports; distribution of House and Senate documents and reports; binding; reports on private bills; number&#8230;](%C2%A7%2000701%20-%20Usual%20number%20of%20documents%20and%20reports%3B%20distribution%20of%20House%20and%20Senate%20documents%20and%20reports%3B%20binding%3B%20reports%20on%20private%20bills%3B%20number%E2%80%A6.md)
 - [&sect; 00702 - Extra copies of documents and reports](%C2%A7%2000702%20-%20Extra%20copies%20of%20documents%20and%20reports.md)
 - [&sect; 00703 - Printing extra copies](%C2%A7%2000703%20-%20Printing%20extra%20copies.md)
 - [&sect; 00704 - Reprinting bills, laws, and reports from committees not exceeding fifty pages](%C2%A7%2000704%20-%20Reprinting%20bills%2C%20laws%2C%20and%20reports%20from%20committees%20not%20exceeding%20fifty%20pages.md)
@@ -83,7 +83,7 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 - [&sect; 00722 - Congressional Directory sale](%C2%A7%2000722%20-%20Congressional%20Directory%20sale.md)
 - [&sect; 00723 - Memorial addresses preparation; distribution](%C2%A7%2000723%20-%20Memorial%20addresses%20preparation%3B%20distribution.md)
 - [&sect; 00724 - Memorial addresses illustrations](%C2%A7%2000724%20-%20Memorial%20addresses%20illustrations.md)
-- [&sect; 00725 - Statement of appropriations; &#8220;usual number&#8221;](%C2%A7%2000725%20-%20Statement%20of%20appropriations%3B%20%E2%80%9Cusual%20number%E2%80%9D.md)
+- [&sect; 00725 - Statement of appropriations; usual number](%C2%A7%2000725%20-%20Statement%20of%20appropriations%3B%20usual%20number.md)
 - [&sect; 00726 - Printing for committees of Congress](%C2%A7%2000726%20-%20Printing%20for%20committees%20of%20Congress.md)
 - [&sect; 00727 - Committee reports indexing and binding](%C2%A7%2000727%20-%20Committee%20reports%20indexing%20and%20binding.md)
 - [&sect; 00728 - United States Statutes at Large distribution](%C2%A7%2000728%20-%20United%20States%20Statutes%20at%20Large%20distribution.md)

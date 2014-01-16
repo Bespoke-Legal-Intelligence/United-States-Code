@@ -1,6 +1,6 @@
 ### §12735. Inactive status list
 
-(a) A member who would be eligible for retired pay under this chapter but for the fact that thatmember is under 60 years of age may be transferred, at his request and by direction of the Secretary concerned, to such inactive status list as may be established for members of his armed force, other than members of a regular component.
+(a) A member who would be eligible for retired pay under this chapter but for the fact that that member is under 60 years of age may be transferred, at his request and by direction of the Secretary concerned, to such inactive status list as may be established for members of his armed force, other than members of a regular component.
 
 (b) While on an inactive status list under subsection (a), a member is not required to participate in any training or other program prescribed for his component.
 
@@ -44,9 +44,9 @@ June 29, 1948, ch. 708, §308 (less last 41 words of 2d sentence), 62 Stat. 1090
 
 34:440<i>o</i> (less 1st and 2d sentences).
 
-In subsection (a), the words “would be eligible but for the fact that he is under 60 years of age” are substituted for the words “has not attained the age of sixty years but is eligible in all other respects”. The words “for members of his armed force, other than members of a regular component” are substituted for the words “for the reserve components of the Army of the United States or Air Force of the United States”, since the source statute applied to all members except members of the regular components. The words “as has been, or” and “by law or regulation” are omitted as surplusage.
+In subsection (a), the words "would be eligible but for the fact that he is under 60 years of age" are substituted for the words "has not attained the age of sixty years but is eligible in all other respects". The words "for members of his armed force, other than members of a regular component" are substituted for the words "for the reserve components of the Army of the United States or Air Force of the United States", since the source statute applied to all members except members of the regular components. The words "as has been, or" and "by law or regulation" are omitted as surplusage.
 
-In subsection (b), the words “after the effective date of such transfer” are omitted as surplusage.
+In subsection (b), the words "after the effective date of such transfer" are omitted as surplusage.
 
 In subsection (c), 10:1036g (last 32 words of last sentence) and 34:440o (last 32 words of last sentence) are omitted as surplusage.
 

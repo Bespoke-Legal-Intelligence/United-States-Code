@@ -103,7 +103,7 @@
 
 |  |  |
 | :--- | ---: |
-| [5721\.](Subchapter%20007%20%28VII%29%20-%20Foreign%20Market%20Development%20Cooperator%20Program/%C2%A7%2005721%20-%20%E2%80%9CEligible%20trade%20organization%E2%80%9D%20defined.md) | “Eligible trade organization” defined. |
+| [5721\.](Subchapter%20007%20%28VII%29%20-%20Foreign%20Market%20Development%20Cooperator%20Program/%C2%A7%2005721%20-%20Eligible%20trade%20organization%20defined.md) | "Eligible trade organization" defined. |
 | [5722\.](Subchapter%20007%20%28VII%29%20-%20Foreign%20Market%20Development%20Cooperator%20Program/%C2%A7%2005722%20-%20Foreign%20market%20development%20cooperator%20program.md) | Foreign market development cooperator program. |
 | [5723\.](Subchapter%20007%20%28VII%29%20-%20Foreign%20Market%20Development%20Cooperator%20Program/%C2%A7%2005723%20-%20Funding.md) | Funding. |
 

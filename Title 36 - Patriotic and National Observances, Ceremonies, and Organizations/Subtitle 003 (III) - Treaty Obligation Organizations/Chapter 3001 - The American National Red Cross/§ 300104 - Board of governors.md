@@ -142,9 +142,9 @@ Emergency bylaws.—Any bylaws adopted pursuant to paragraph (1)(B) may provide 
 
 Definitions.—For purposes of this section—
 
-&emsp;(1) the term “entire board” means the total number of members of the board of governors that the corporation would have if there were no vacancies; and
+&emsp;(1) the term "entire board" means the total number of members of the board of governors that the corporation would have if there were no vacancies; and
 
-&emsp;(2) the term “emergency” shall have such meaning as may be provided in the bylaws.
+&emsp;(2) the term "emergency" shall have such meaning as may be provided in the bylaws.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1491; Pub. L. 110–26, §6, May 11, 2007, 121 Stat. 106.)
 
@@ -182,15 +182,15 @@ Jan. 5, 1905, ch. 23, §5 (matter before (a)), (a), (b), (c) (1st–5th pars., l
 
 &nbsp;
 
-In subsection (a)(1), before clause (A), the word “direction” is omitted as included in “governing and managing”. In clause (A), the words “of the United States” and “as may from time to time be” are omitted as unnecessary.
+In subsection (a)(1), before clause (A), the word "direction" is omitted as included in "governing and managing". In clause (A), the words "of the United States" and "as may from time to time be" are omitted as unnecessary.
 
-In subsection (a)(2), the words “One-third of the members elected to the board shall be elected at each national convention, and take office at that time or as soon as practicable after the convention” are substituted for 36:5(c) (3d par.) to eliminate unnecessary words.
+In subsection (a)(2), the words "One-third of the members elected to the board shall be elected at each national convention, and take office at that time or as soon as practicable after the convention" are substituted for 36:5(c) (3d par.) to eliminate unnecessary words.
 
-In subsection (b)(1), the words “if, before the end of the 3-year term, the governor retires from the official position held at the time of appointment as a governor” are substituted for “if and when such Governor shall retire, prior to the date on which his term as Governor would otherwise expire, from the official position held at the time of his appointment as Governor” for clarity and to eliminate unnecessary words.
+In subsection (b)(1), the words "if, before the end of the 3-year term, the governor retires from the official position held at the time of appointment as a governor" are substituted for "if and when such Governor shall retire, prior to the date on which his term as Governor would otherwise expire, from the official position held at the time of his appointment as Governor" for clarity and to eliminate unnecessary words.
 
-In subsection (b)(2), the words “as soon as practicable” are substituted for “as soon as may be” for clarity. The words “that may occur by death, resignation, or otherwise” are omitted as unnecessary. The words “a vacancy occurring in an elected position on the board” are substituted for “Any vacancy that may occur in the Governors elected by the chapters pursuant to subsection (b) of this section or in the Governors-at-large elected by the Board of Governors pursuant to subsection (c) of this section” to eliminate unnecessary words. The words “An individual appointed by the board to fill a vacancy serves” are substituted for “such appointees to serve” for clarity.
+In subsection (b)(2), the words "as soon as practicable" are substituted for "as soon as may be" for clarity. The words "that may occur by death, resignation, or otherwise" are omitted as unnecessary. The words "a vacancy occurring in an elected position on the board" are substituted for "Any vacancy that may occur in the Governors elected by the chapters pursuant to subsection (b) of this section or in the Governors-at-large elected by the Board of Governors pursuant to subsection (c) of this section" to eliminate unnecessary words. The words "An individual appointed by the board to fill a vacancy serves" are substituted for "such appointees to serve" for clarity.
 
-In subsection (c)(2), the words “of the corporation” are substituted for “designated by the President of the United States” for consistency in the revised section.
+In subsection (c)(2), the words "of the corporation" are substituted for "designated by the President of the United States" for consistency in the revised section.
 
 #### Amendments
 

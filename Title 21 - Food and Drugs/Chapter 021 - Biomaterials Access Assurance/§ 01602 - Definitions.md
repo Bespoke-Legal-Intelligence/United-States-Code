@@ -6,7 +6,7 @@ As used in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “biomaterials supplier” means an entity that directly or indirectly supplies a component part or raw material for use in the manufacture of an implant.
+&emsp;&emsp;The term "biomaterials supplier" means an entity that directly or indirectly supplies a component part or raw material for use in the manufacture of an implant.
 
 #### (B) Persons included
 
@@ -20,7 +20,7 @@ As used in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “claimant” means any person who brings a civil action, or on whose behalf a civil action is brought, arising from harm allegedly caused directly or indirectly by an implant, including a person other than the individual into whose body, or in contact with whose blood or tissue, the implant is placed, who claims to have suffered harm as a result of the implant.
+&emsp;&emsp;The term "claimant" means any person who brings a civil action, or on whose behalf a civil action is brought, arising from harm allegedly caused directly or indirectly by an implant, including a person other than the individual into whose body, or in contact with whose blood or tissue, the implant is placed, who claims to have suffered harm as a result of the implant.
 
 #### (B) Action brought on behalf of an estate
 
@@ -56,7 +56,7 @@ As used in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “component part” means a manufactured piece of an implant.
+&emsp;&emsp;The term "component part" means a manufactured piece of an implant.
 
 #### (B) Certain components
 
@@ -70,7 +70,7 @@ As used in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “harm” means—
+&emsp;&emsp;The term "harm" means—
 
 &emsp;&emsp;&emsp;(i) any injury to or damage suffered by an individual;
 
@@ -84,7 +84,7 @@ As used in this chapter:
 
 #### (5) Implant
 
-&emsp;The term “implant” means—
+&emsp;The term "implant" means—
 
 &emsp;&emsp;(A) a medical device that is intended by the manufacturer of the device—
 
@@ -96,7 +96,7 @@ As used in this chapter:
 
 #### (6) Manufacturer
 
-&emsp;The term “manufacturer” means any person who, with respect to an implant—
+&emsp;The term "manufacturer" means any person who, with respect to an implant—
 
 &emsp;&emsp;(A) is engaged in the manufacture, preparation, propagation, compounding, or processing (as defined in section 360(a)(1) of this title) of the implant; and
 
@@ -104,15 +104,15 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;(i) to register with the Secretary pursuant to section 360 of this title and the regulations issued under such section; and
 
-&emsp;&emsp;&emsp;(ii) to include the implant on a list of devices filed with the Secretary pursuant to section 360(j) of this title and the regulations issued under such section.
+&emsp;&emsp;&emsp;(ii) to include the implant on a list of devices filed with the Secretary pursuant tosection 360(j) of this title and the regulations issued under such section.
 
 #### (7) Medical device
 
-&emsp;The term “medical device” means a device, as defined in section 321(h) of this title, and includes any device component of any combination product as that term is used in section 353(g) of this title.
+&emsp;The term "medical device" means a device, as defined in section 321(h) of this title, and includes any device component of any combination product as that term is used in section 353(g) of this title.
 
 #### (8) Raw material
 
-&emsp;The term “raw material” means a substance or product that—
+&emsp;The term "raw material" means a substance or product that—
 
 &emsp;&emsp;(A) has a generic use; and
 
@@ -120,13 +120,13 @@ As used in this chapter:
 
 #### (9) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Health and Human Services.
+&emsp;The term "Secretary" means the Secretary of Health and Human Services.
 
 #### (10) Seller
 
 #### (A) In general
 
-&emsp;&emsp;The term “seller” means a person who, in the course of a business conducted for that purpose, sells, distributes, leases, packages, labels, or otherwise places an implant in the stream of commerce.
+&emsp;&emsp;The term "seller" means a person who, in the course of a business conducted for that purpose, sells, distributes, leases, packages, labels, or otherwise places an implant in the stream of commerce.
 
 #### (B) Exclusions
 

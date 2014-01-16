@@ -8,7 +8,7 @@ It is the policy of the United States to foster the export of United States envi
 
 #### (1) Establishment and purpose
 
-&emsp;The President shall establish the Environmental Trade Promotion Working Group (hereafter in this section referred to as the “Working Group”) as a subcommittee of the Trade Promotion Coordination Committee (hereafter in this section referred to as the “TPCC”), established under section 4727 of this title. The purpose of the Working Group shall be—
+&emsp;The President shall establish the Environmental Trade Promotion Working Group (hereafter in this section referred to as the "Working Group") as a subcommittee of the Trade Promotion Coordination Committee (hereafter in this section referred to as the "TPCC"), established under section 4727 of this title. The purpose of the Working Group shall be—
 
 &emsp;&emsp;(A) to address all issues with respect to the export promotion and export financing of United States environmental technologies, goods, and services; and
 
@@ -24,7 +24,7 @@ It is the policy of the United States to foster the export of United States envi
 
 #### (3) Chairperson
 
-&emsp;The Secretary of Commerce (hereafter in this section referred to as the “Secretary”) shall designate the chairperson of the Working Group from among senior employees of the Department of Commerce. The chairperson shall—
+&emsp;The Secretary of Commerce (hereafter in this section referred to as the "Secretary") shall designate the chairperson of the Working Group from among senior employees of the Department of Commerce. The chairperson shall—
 
 &emsp;&emsp;(A) assess the effectiveness of United States Government programs for the promotion of exports of environmental technologies, goods, and services;
 
@@ -32,7 +32,7 @@ It is the policy of the United States to foster the export of United States envi
 
 &emsp;&emsp;(C) ensure that the members of the Working Group coordinate their environmental trade promotion programs, including feasibility studies, technical assistance, training programs, business information services, and export financing; and
 
-&emsp;&emsp;(D) assess, jointly with the Working Group representative of the Environmental Protection Agency, the extent to which the environmental trade promotion programs of the Working Group advance the environmental goals established in “Agenda 21” by the United Nations Conference on Environment and Development held at Rio de Janeiro, and in other international environmental agreements.
+&emsp;&emsp;(D) assess, jointly with the Working Group representative of the Environmental Protection Agency, the extent to which the environmental trade promotion programs of the Working Group advance the environmental goals established in "Agenda 21" by the United Nations Conference on Environment and Development held at Rio de Janeiro, and in other international environmental agreements.
 
 #### (4) Report to Congress
 
@@ -42,7 +42,7 @@ It is the policy of the United States to foster the export of United States envi
 
 #### (1) Establishment and purpose
 
-&emsp;The Secretary, in carrying out the duties of the chairperson of the TPCC, shall establish the Environmental Technologies Trade Advisory Committee (hereafter in this section referred to as the “Committee”). The purpose of the Committee shall be to provide advice and guidance to the Working Group in the development and administration of programs to expand United States exports of environmental technologies, goods, and services and products that comply with United States environmental, safety, and related requirements.
+&emsp;The Secretary, in carrying out the duties of the chairperson of the TPCC, shall establish the Environmental Technologies Trade Advisory Committee (hereafter in this section referred to as the "Committee"). The purpose of the Committee shall be to provide advice and guidance to the Working Group in the development and administration of programs to expand United States exports of environmental technologies, goods, and services and products that comply with United States environmental, safety, and related requirements.
 
 #### (2) Membership
 
@@ -52,7 +52,7 @@ It is the policy of the United States to foster the export of United States envi
 
 &emsp;&emsp;(B) trade associations in the environmental sector;
 
-&emsp;&emsp;(C) private sector organizations involved in the promotion of environmental exports, including products that comply with UnitedStates environmental, safety, and related requirements;
+&emsp;&emsp;(C) private sector organizations involved in the promotion of environmental exports, including products that comply with United States environmental, safety, and related requirements;
 
 &emsp;&emsp;(D) States (as defined in section 4721(i)(5) <sup>1</sup> of this title) and associations representing the States; and
 
@@ -106,7 +106,7 @@ In support of the work of the Working Group, the Secretary shall, as part of the
 
 &emsp;&emsp;(F) providing information on environmental standards and regulations in the country to which the specialist is assigned;
 
-&emsp;&emsp;(G) providing information on all United States Government programs that could assist the promotion, financing, and sale of United States environmental technologies, goods, and services in the country to which the specialist is assigned; and
+&emsp;&emsp;(G) providing information on all United States Government programs that could assist the promotion, financing, and sale of United States environmental technologies,goods, and services in the country to which the specialist is assigned; and
 
 &emsp;&emsp;(H) promoting the equal treatment of United States environmental, safety, and related requirements, with those of other exporting countries, in order to promote exports of United States-made products.
 
@@ -158,25 +158,25 @@ The Working Group shall—
 
 Subject to the availability of appropriations for such purpose, the Secretary is authorized to use the Market Development Cooperator Program to support the creation on a regional basis of alliances of private sector entities, nonprofit organizations, and universities, that support the export of environmental technologies, goods, and services and promote the export of products complying with United States environmental, safety, and related requirements.
 
-#### (k) “Environmental business” defined
+#### (k) "Environmental business" defined
 
-For purposes of this section, the term “environmental business” means a business that produces environmental technologies, goods, or services.
+For purposes of this section, the term "environmental business" means a business that produces environmental technologies, goods, or services.
 
 (Pub. L. 100–418, title II, §2313, as added Pub. L. 102–429, title II, §204(a), Oct. 21, 1992, 106 Stat. 2202; amended Pub. L. 103–392, title IV, §402, Oct. 22, 1994, 108 Stat. 4099.)
 
 #### References in Text
 
-Section 4721 of this title, referred to in subsec. (c)(2)(D), was amended, and section 4721(i)(5) does not define “States”. However, such term is defined elsewhere in that section.
+Section 4721 of this title, referred to in subsec. (c)(2)(D), was amended, and section 4721(i)(5) does not define "States". However, such term is defined elsewhere in that section.
 
 #### Amendments
 
-<b>1994</b>—Subsecs. (c) to (e). Pub. L. 103–392, §402(a), added subsecs. (c) and (d), redesignated former subsec. (c) as (e), and struck out former subsec. (d) which related to overseas services for exporters.
+<b>1994</b>—Subsecs. (c) to (e). Pub. L. 103–392, §402(a), added subsecs. (c) and (d), redesignated former subsec. (c) as\(e), and struck out former subsec. (d) which related to overseas services for exporters.
 
 Subsecs. (f) to (k). Pub. L. 103–392, §402(b), added subsecs. (f) to (k).
 
 #### Report on Insurance Feasibility
 
-Section 204(b) of Pub. L. 102–429 directed that, not later than 1 year after Oct. 21, 1992, chairperson of Trade Promotion Coordinating Committee, after consultation with appropriate departments and agencies of the United States Government, submit a report to Congress that analyzes (1) the extent to which Federal investment insurance and export financing programs sufficiently protect against business failures or default on obligations arising from changes by a foreign government in its environmental laws or regulations, and (2)the advisability and feasibility of expanding coverage of such programs, or creating new programs, to address such risks.
+Section 204(b) of Pub. L. 102–429 directed that, not later than 1 year after Oct. 21, 1992, chairperson of Trade Promotion Coordinating Committee, after consultation with appropriate departments and agencies of the United States Government, submit a report to Congress that analyzes (1) the extent to which Federal investment insurance and export financing programs sufficiently protect against business failures or default on obligations arising from changes by a foreign government in its environmental laws or regulations, and (2) the advisability and feasibility of expanding coverage of such programs, or creating new programs, to address such risks.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

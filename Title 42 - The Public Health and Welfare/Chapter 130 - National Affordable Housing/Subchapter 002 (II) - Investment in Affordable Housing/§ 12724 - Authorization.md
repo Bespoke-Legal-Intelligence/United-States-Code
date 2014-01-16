@@ -6,15 +6,15 @@ There are authorized to be appropriated to carry out this subchapter $2,086,000,
 
 &emsp;(2) not more than $11,000,000 for fiscal year 1993, and $22,000,000 for fiscal year 1994, shall be for activities in support of State and local housing strategies authorized under part C of this subchapter.
 
-(Pub. L. 101–625, title II, §205, Nov. 28, 1990, 104 Stat. 4096; Pub. L. 102–550, title II, §201, Oct. 28,1992, 106 Stat. 3751; Pub. L. 103–120, §5, Oct. 27, 1993, 107 Stat. 1148.)
+(Pub. L. 101–625, title II, §205, Nov. 28, 1990, 104 Stat. 4096; Pub. L. 102–550, title II, §201, Oct. 28, 1992, 106 Stat. 3751; Pub. L. 103–120, §5, Oct. 27, 1993, 107 Stat. 1148.)
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–120 substituted “$25,000,000 for fiscal year 1994” for “$14,000,000 for fiscal year 1994” in par. (1) and “$22,000,000 for fiscal year 1994” for “$11,000,000 for fiscal year 1994” in par. (2).
+<b>1993</b>—Pub. L. 103–120 substituted "$25,000,000 for fiscal year 1994" for "$14,000,000 for fiscal year 1994" in par. (1) and "$22,000,000 for fiscal year 1994" for "$11,000,000 for fiscal year 1994" in par. (2).
 
-<b>1992</b>—Pub. L. 102–550 amended section generally. Prior to amendment, section read as follows: “There are authorized to be appropriated to carry out this subchapter $1,000,000,000 for fiscal year 1991, and $2,086,000,000 for fiscal year 1992, of which—
+<b>1992</b>—Pub. L. 102–550 amended section generally. Prior to amendment, section read as follows: "There are authorized to be appropriated to carry out this subchapter $1,000,000,000 for fiscal year 1991, and $2,086,000,000 for fiscal year 1992, of which—
 
-&emsp;“(1) not more than $14,000,000 for fiscal year 1991, and $14,000,000 for fiscal year 1992, shall be for community housing partnership activities authorized under section 12773 of this title; and
+&emsp;"(1) not more than $14,000,000 for fiscal year 1991, and $14,000,000 for fiscal year 1992, shall be for community housing partnership activities authorized under section 12773 of this title; and
 
-&emsp;“(2) not more than $11,000,000 for fiscal year 1991, and $11,000,000 for fiscal year 1992, shall be for activities in support of State and local housing strategies authorized under part C of this subchapter.”
+&emsp;"(2) not more than $11,000,000 for fiscal year 1991, and $11,000,000 for fiscal year 1992, shall be for activities in support of State and local housing strategies authorized under part C of this subchapter."
 

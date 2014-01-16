@@ -4,7 +4,7 @@ For purposes of this subchapter—
 
 #### (1) Broker or dealer
 
-&emsp;The term “broker or dealer” means—
+&emsp;The term "broker or dealer" means—
 
 &emsp;&emsp;(A) any company that is registered or licensed under Federal or State law to engage in the business of brokering, underwriting, or dealing in securities in the United States; and
 
@@ -12,7 +12,7 @@ For purposes of this subchapter—
 
 #### (2) Clearing organization
 
-&emsp;The term “clearing organization” means a clearinghouse, clearing association, clearing corporation, or similar organization—
+&emsp;The term "clearing organization" means a clearinghouse, clearing association, clearing corporation, or similar organization—
 
 &emsp;&emsp;(A) that provides clearing, netting, or settlement services for its members and—
 
@@ -24,11 +24,11 @@ For purposes of this subchapter—
 
 #### (3) Covered clearing obligation
 
-&emsp;The term “covered clearing obligation” means an obligation of a member of a clearing organization to make payment to another member of a clearing organization, subject to a netting contract.
+&emsp;The term "covered clearing obligation" means an obligation of a member of a clearing organization to make payment to another member of a clearing organization, subject to a netting contract.
 
 #### (4) Covered contractual payment entitlement
 
-&emsp;The term “covered contractual payment entitlement” means—
+&emsp;The term "covered contractual payment entitlement" means—
 
 &emsp;&emsp;(A) an entitlement of a financial institution to receive a payment, subject to a netting contract from another financial institution; and
 
@@ -36,7 +36,7 @@ For purposes of this subchapter—
 
 #### (5) Covered contractual payment obligation
 
-&emsp;The term “covered contractual payment obligation” means—
+&emsp;The term "covered contractual payment obligation" means—
 
 &emsp;&emsp;(A) an obligation of a financial institution to make payment, subject to a netting contract to another financial institution; and
 
@@ -44,7 +44,7 @@ For purposes of this subchapter—
 
 #### (6) Depository institution
 
-&emsp;The term “depository institution” means—
+&emsp;The term "depository institution" means—
 
 &emsp;&emsp;(A) a depository institution as defined in section 19(b)(1)(A) of the Federal Reserve Act \[12 U.S.C. 461(b)(1)(A)\] (other than clause (vii));
 
@@ -58,7 +58,7 @@ For purposes of this subchapter—
 
 #### (7) Failed financial institution
 
-&emsp;The term “failed financial institution” means a financial institution that—
+&emsp;The term "failed financial institution" means a financial institution that—
 
 &emsp;&emsp;(A) fails to satisfy a covered contractual payment obligation when due;
 
@@ -68,7 +68,7 @@ For purposes of this subchapter—
 
 #### (8) Failed member
 
-&emsp;The term “failed member” means any member that—
+&emsp;The term "failed member" means any member that—
 
 &emsp;&emsp;(A) fails to satisfy a covered clearing obligation when due,
 
@@ -78,29 +78,29 @@ For purposes of this subchapter—
 
 #### (9) Financial institution
 
-&emsp;The term “financial institution” means a broker or dealer, a depository institution, a futures commission merchant, or any other institution as determined by the Board of Governors of the Federal Reserve System.
+&emsp;The term "financial institution" means a broker or dealer, a depository institution, a futures commission merchant, or any other institution as determined by the Board of Governors of the Federal Reserve System.
 
 #### (10) Futures commission merchant
 
-&emsp;The term “futures commission merchant” means a company that is registered or licensed under Federal law to engage in the business of selling futures and options in commodities.
+&emsp;The term "futures commission merchant" means a company that is registered or licensed under Federal law to engage in the business of selling futures and options in commodities.
 
 #### (11) Member
 
-&emsp;The term “member” means a member of or participant in a clearing organization, and includes the clearing organization and any other clearing organization with which such clearing organization has a netting contract.
+&emsp;The term "member" means a member of or participant in a clearing organization, and includes the clearing organization and any other clearing organization with which such clearing organization has a netting contract.
 
 #### (12) Net entitlement
 
-&emsp;The term “net entitlement” means the amount by which the covered contractual payment entitlements of a financial institution or member exceed the covered contractual payment obligations of the institution or member after netting under a netting contract.
+&emsp;The term "net entitlement" means the amount by which the covered contractual payment entitlements of a financial institution or member exceed the covered contractual payment obligations of the institution or member after netting under a netting contract.
 
 #### (13) Net obligation
 
-&emsp;The term “net obligation” means the amount by which the covered contractual payment obligations of a financial institution or member exceed the covered contractual payment entitlements of the institution or member after netting under a netting contract.
+&emsp;The term "net obligation" means the amount by which the covered contractual payment obligations of a financial institution or member exceed the covered contractual payment entitlements of the institution or member after netting under a netting contract.
 
 #### (14) Netting contract
 
 #### (A) In general
 
-&emsp;&emsp;The term “netting contract”—
+&emsp;&emsp;The term "netting contract"—
 
 &emsp;&emsp;&emsp;(i) means a contract or agreement between 2 or more financial institutions, clearing organizations, or members that provides for netting present or future payment obligations or payment entitlements (including liquidation or close out values relating to such obligations or entitlements) among the parties to the agreement; and
 
@@ -108,11 +108,11 @@ For purposes of this subchapter—
 
 #### (B) Invalid contracts not included
 
-&emsp;&emsp;The term “netting contract” does not include any contract or agreement that is invalid under or precluded by Federal law.
+&emsp;&emsp;The term "netting contract" does not include any contract or agreement that is invalid under or precluded by Federal law.
 
 #### (15) Payment
 
-&emsp;The term “payment” means a payment of United States dollars, another currency, or acomposite currency, and a noncash delivery, including a payment or delivery to liquidate an unmatured obligation.
+&emsp;The term "payment" means a payment of United States dollars, another currency, or acomposite currency, and a noncash delivery, including a payment or delivery to liquidate an unmatured obligation.
 
 (Pub. L. 102–242, title IV, §402, Dec. 19, 1991, 105 Stat. 2372; Pub. L. 102–550, title XVI, §1606(a), Oct. 28, 1992, 106 Stat. 4087; Pub. L. 106–554, §1(a)(5) \[title I, §§112(a)(2), 123(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–391, 2763A–411; Pub. L. 109–8, title IX, §906(a), Apr. 20, 2005, 119 Stat. 167.)
 
@@ -128,31 +128,31 @@ Section 25(a) of the Federal Reserve Act, referred to in par. (6), which is clas
 
 #### Amendments
 
-<b>2005</b>—Par. (2)(A)(ii). Pub. L. 109–8, §906(a)(1)(A), inserted before semicolon “, or is exempt from such registration by order of the Securities and Exchange Commission”.
+<b>2005</b>—Par. (2)(A)(ii). Pub. L. 109–8, §906(a)(1)(A), inserted before semicolon ", or is exempt from such registration by order of the Securities and Exchange Commission".
 
-Par. (2)(B). Pub. L. 109–8, §906(a)(1)(B), inserted before period at end “, that has been granted an exemption under section 6(c)(1) of title 7, or that is a multilateral clearing organization (as defined in section 4421 of this title)”.
+Par. (2)(B). Pub. L. 109–8, §906(a)(1)(B), inserted before period at end ", that has been granted an exemption under section 6(c)(1) of title 7, or that is a multilateral clearing organization (as defined in section 4421 of this title)".
 
 Par. (6)(B). Pub. L. 109–8, §906(a)(2)(B), added subpar. (B). Former subpar. (B) redesignated (C).
 
-Par. (6)(C). Pub. L. 109–8, §906(a)(2)(A), (C), redesignated subpar. (B) as (C) and amended it generally. Prior to amendment, subpar. (C) read as follows: “a branch or agency as defined in section 1(b) of the International Banking Act of 1978;”. Former subpar. (C) redesignated (D).
+Par. (6)(C). Pub. L. 109–8, §906(a)(2)(A), (C), redesignated subpar. (B) as (C) and amended it generally. Prior to amendment, subpar. (C) read as follows: "a branch or agency as defined in section 1(b) of the International Banking Act of 1978;". Former subpar. (C) redesignated (D).
 
 Par. (6)(D), (E). Pub. L. 109–8, §906(a)(2)(A), redesignated subpars. (C) and (D) as (D) and (E), respectively.
 
-Par. (11). Pub. L. 109–8, §906(a)(3), inserted before period at end “and any other clearing organization with which such clearing organization has a netting contract”.
+Par. (11). Pub. L. 109–8, §906(a)(3), inserted before period at end "and any other clearing organization with which such clearing organization has a netting contract".
 
-Par. (14)(A)(i). Pub. L. 109–8, §906(a)(4), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “means a contract or agreement between 2 or more financial institutions or members, that—
+Par. (14)(A)(i). Pub. L. 109–8, §906(a)(4), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "means a contract or agreement between 2 or more financial institutions or members, that—
 
-&emsp;“(I) is governed by the laws of the United States, any State, or any political subdivision of any State, and
+&emsp;"(I) is governed by the laws of the United States, any State, or any political subdivision of any State, and
 
-&emsp;“(II) provides for netting present or future payment obligations or payment entitlements (including liquidation or close-out values relating to the obligations or entitlements) among the parties to the agreement; and”.
+&emsp;"(II) provides for netting present or future payment obligations or payment entitlements (including liquidation or close-out values relating to the obligations or entitlements) among the parties to the agreement; and".
 
 Par. (15). Pub. L. 109–8, §906(a)(5), added par. (15).
 
-<b>2000</b>—Pub. L. 106–554, §1(a)(5) \[title I, §112(a)(2)\], substituted “this subchapter” for “this chapter” in introductory provisions.
+<b>2000</b>—Pub. L. 106–554, §1(a)(5) \[title I, §112(a)(2)\], substituted "this subchapter" for "this chapter" in introductory provisions.
 
-Par. (2)(B). Pub. L. 106–554, §1(a)(5) \[title I, §123(b)\], added subpar. (B) and struck out former subpar. (B) which read as follows: “that performs clearing functions for a contract market designated pursuant to the Commodity Exchange Act.”
+Par. (2)(B). Pub. L. 106–554, §1(a)(5) \[title I, §123(b)\], added subpar. (B) and struck out former subpar. (B) which read as follows: "that performs clearing functions for a contract market designated pursuant to the Commodity Exchange Act."
 
-<b>1992</b>—Par. (14)(B). Pub. L. 102–550 substituted “Federal law” for “Federal commodities law”.
+<b>1992</b>—Par. (14)(B). Pub. L. 102–550 substituted "Federal law" for "Federal commodities law".
 
 #### Effective Date of 2005 Amendment
 

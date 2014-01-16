@@ -64,15 +64,15 @@ The Project shall have exclusive authority with respect to the establishment or 
 
 #### Amendments
 
-<b>1978</b>—Subsec. (b)(1). Pub. L. 95–238, §502(1)–(3), in subpar. (E) substituted “Assistant Administrator of the Energy Research and Development Administration for Solar, Geothermal, and Advanced Energy Systems;” for “General Manager of the Atomic Energy Commission; and”, and added subpars. (G) to (I).
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–238, §502(1)–(3), in subpar. (E) substituted "Assistant Administrator of the Energy Research and Development Administration for Solar, Geothermal, and Advanced Energy Systems;" for "General Manager of the Atomic Energy Commission; and", and added subpars. (G) to (I).
 
-Subsec. (b)(2). Pub. L. 95–238, §502(4), substituted “the Assistant Administrator of the Energy Research and Development Administration for Solar, Geothermal, and Advanced Energy Systems” for “one member of the Project”.
+Subsec. (b)(2). Pub. L. 95–238, §502(4), substituted "the Assistant Administrator of the Energy Research and Development Administration for Solar, Geothermal, and Advanced Energy Systems" for "one member of the Project".
 
 #### Transfer of Functions
 
 Energy Research and Development Administration terminated and functions vested by law in Administrator thereof transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42, The Public Health and Welfare.
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42. See, also, Transfer of Functions notes set out under those sections.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of Title 42. See,also, Transfer of Functions notes set out under those sections.
 
 Federal Energy Administration terminated and all functions transferred to Secretary of Energy (unless otherwise specifically provided) by sections 7151(a) and 7293 of Title 42.
 

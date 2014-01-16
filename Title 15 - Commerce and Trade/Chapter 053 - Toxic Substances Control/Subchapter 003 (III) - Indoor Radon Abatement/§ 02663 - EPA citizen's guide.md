@@ -2,7 +2,7 @@
 
 #### (a) Publication
 
-In order to make continuous progress toward the long-term goal established in section 2661 of this title, the Administrator of the Environmental Protection Agency shall, not later than June 1, 1989, publish and make available to the public an updated version of its document titled “A Citizen's Guide to Radon”. The Administrator shall revise and republish the guide as necessary thereafter.
+In order to make continuous progress toward the long-term goal established in section 2661 of this title, the Administrator of the Environmental Protection Agency shall, not later than June 1, 1989, publish and make available to the public an updated version of its document titled "A Citizen's Guide to Radon". The Administrator shall revise and republish the guide as necessary thereafter.
 
 #### (b) Information included
 
@@ -26,5 +26,5 @@ In order to make continuous progress toward the long-term goal established in se
 
 (Pub. L. 94–469, title III, §303, as added Pub. L. 100–551, §1(a), Oct. 28, 1988, 102 Stat. 2755.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “action”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "action".</i>
 

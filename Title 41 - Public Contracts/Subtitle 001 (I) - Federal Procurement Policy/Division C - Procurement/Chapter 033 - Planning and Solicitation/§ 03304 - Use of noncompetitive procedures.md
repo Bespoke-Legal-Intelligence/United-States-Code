@@ -18,7 +18,7 @@ When Noncompetitive Procedures May Be Used.—An executive agency may use proced
 
 &emsp;&emsp;(D) to procure the services of an expert or neutral for use in any part of an alternative dispute resolution or negotiated rulemaking process, whether or not the expert is expected to testify;
 
-&emsp;(4) the terms of an international agreement or treaty between the Federal Government and a foreign government or an international organization, or the written directions of a foreign government reimbursing the executive agency for the cost of the procurement of the property or services for that government, have the effect of requiring the use of procedures other than competitive procedures;
+&emsp;(4) the terms of an international agreement or treaty between the Federal Governmentand a foreign government or an international organization, or the written directions of a foreign government reimbursing the executive agency for the cost of the procurement of the property or services for that government, have the effect of requiring the use of procedures other than competitive procedures;
 
 &emsp;(5) subject to section 3105 of this title, a statute expressly authorizes or requires that the procurement be made through another executive agency or from a specified source, or the agency's need is for a brand-name commercial item for authorized resale;
 
@@ -148,7 +148,7 @@ Within 14 days after contract award.—Except as provided in subparagraph (B), i
 
 &emsp;&emsp;(B)
 
-Within 30 days after contract award.—In the case of a procurement permitted by subsection (a)(2), subparagraph (A) shall be applied by substituting “30 days” for “14 days”.
+Within 30 days after contract award.—In the case of a procurement permitted by subsection (a)(2), subparagraph (A) shall be applied by substituting "30 days" for "14 days".
 
 &emsp;(2)
 
@@ -208,17 +208,73 @@ June 30, 1949, ch. 288, title III, §303(c)–(f), (j), 63 Stat. 395; July 12, 1
 
 41:253(j).
 
-In subsection (a)(7), the words “(who may not delegate the authority under this paragraph)” are substituted for 41:253(d)(2) to move the restriction closer to where it applies.
+In subsection (a)(7), the words "(who may not delegate the authority under this paragraph)" are substituted for 41:253(d)(2) to move the restriction closer to where it applies.
 
-In subsection (e)(1)(B)(i), the words “advocate for competition” are substituted for “competition advocate” for consistency with section 1705 of the revised title.
+In subsection (e)(1)(B)(i), the words "advocate for competition" are substituted for "competition advocate" for consistency with section 1705 of the revised title.
 
 In subsection (e)(1)(B)(ii), the reference to section 5376 of title 5 is substituted for the reference to grade GS–16 or above under the General Schedule because of section 529 \[title I, §101(c)(1)\] of the Treasury, Postal Service and General Government Appropriations Act, 1991 (Public Law 101–509, 104 Stat. 1442, 5 U.S.C. 5376 note).
 
-In subsection (e)(5)(B), the words “and not in lieu of” are omitted as unnecessary.
+In subsection (e)(5)(B), the words "and not in lieu of" are omitted as unnecessary.
 
-In subsection (f)(2), the words “referred to in subparagraph (A) of paragraph (1)” are added for clarity.
+In subsection (f)(2), the words "referred to in subparagraph (A) of paragraph (1)" are added for clarity.
 
 #### Senate Revision Amendment
 
-In subsec. (e)(1)(B)(ii), “for level IV of the Executive Schedule” substituted for “under section 5376 of title 5” by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
+In subsec. (e)(1)(B)(ii), "for level IV of the Executive Schedule" substituted for "under section 5376 of title 5" by S. Amdt. 4726 (111th Cong.). See 156 Cong. Rec. S8442, Dec. 2, 2010 (daily ed.).
+
+#### Justification and Approval of Sole-Source Contracts
+
+Pub. L. 111–84, div. A, title VIII, §811, Oct. 28, 2009, 123 Stat. 2405, provided that:
+
+"(a)
+
+In General.—Not later than 180 days after the date of the enactment of this Act \[Oct. 28, 2009\], the Federal Acquisition Regulation shall be revised to provide that the head of an agency may not award a sole-source contract in a covered procurement for an amount exceeding $20,000,000 unless—
+
+&emsp;"(1) the contracting officer for the contract justifies the use of a sole-source contract in writing;
+
+&emsp;"(2) the justification is approved by the appropriate official designated to approve contract awards for dollar amounts that are comparable to the amount of the sole-source contract; and
+
+&emsp;"(3) the justification and related information are made public as provided in sections 2304(f)(1)(C) and2304(l) of title 10, United States Code, or sections 303(f)(1)(C) and 303(j) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f)(1)(C) and 253(j)) \[now 41 U.S.C. 3304(e)(1)(C) and 3304(f)\], as applicable.
+
+"(b)
+
+Elements of Justification.—The justification of a sole-source contract required pursuant to subsection (a) shall include the following:
+
+&emsp;"(1) A description of the needs of the agency concerned for the matters covered by the contract.
+
+&emsp;"(2) A specification of the statutory provision providing the exception from the requirement to use competitive procedures in entering into the contract.
+
+&emsp;"(3) A determination that the use of a sole-source contract is in the best interest of the agency concerned.
+
+&emsp;"(4) A determination that the anticipated cost of the contract will be fair and reasonable.
+
+&emsp;"(5) Such other matters as the head of the agency concerned shall specify for purposes of this section.
+
+"(c)
+
+Definitions.—In this section:
+
+&emsp;"(1)
+
+Covered procurement.—The term 'covered procurement' means either of the following:
+
+&emsp;&emsp;"(A) A procurement described in section 2304(f)(2)(D)(ii) of title 10, United States Code.
+
+&emsp;&emsp;"(B) A procurement described in section 303(f)(2)(D)(ii) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 253(f)(2)(D)(ii)) \[see 41 U.S.C. 3304(e)(4)(D)\].
+
+&emsp;"(2)
+
+Head of an agency.—The term 'head of an agency'—
+
+&emsp;&emsp;"(A) in the case of a covered procurement as defined in paragraph (1)(A), has the meaning provided in section 2302(1) of title 10, United States Code; and
+
+&emsp;&emsp;"(B) in the case of a covered procurement as defined in paragraph (1)(B), has the meaning provided the term 'agency head' in section 309(a) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 259(a)) \[now 41 U.S.C. 151\].
+
+&emsp;"(3)
+
+Appropriate official.—The term 'appropriate official' means—
+
+&emsp;&emsp;"(A) in the case of a covered procurement as defined in paragraph (1)(A), an official designated in section 2304(f)(1)(B) of title 10, United States Code; and
+
+&emsp;&emsp;"(B) in the case of a covered procurement as defined in paragraph (1)(B), an official designated in section 303(f)(1)(B) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(f)(1)(B)) \[now 41 U.S.C. 3304(e)(1)(B)\]."
 

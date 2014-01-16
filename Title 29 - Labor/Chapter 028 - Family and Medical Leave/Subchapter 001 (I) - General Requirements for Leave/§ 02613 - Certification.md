@@ -56,9 +56,9 @@ An employer may require that a request for leave under section 2612(a)(1)(E) of 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted “covered active duty” for “active duty” in two places in heading.
+<b>2009</b>—Subsec. (f). Pub. L. 111–84 substituted "covered active duty" for "active duty" in two places in heading.
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181, §585(a)(3)(E)(i), substituted “paragraph (1) or paragraph (3) of section 2612(a)” for “section 2612(a)(1)” and inserted “or of the next of kin of an individual in the case of leave taken under such paragraph (3),” after “parent of the employee,”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §585(a)(3)(E)(i), substituted "paragraph (1) or paragraph (3) of section 2612(a)" for "section 2612(a)(1)" and inserted "or of the next of kin of an individual in the case of leave taken under such paragraph (3)," after "parent of the employee,".
 
 Subsec. (f). Pub. L. 110–181, §585(a)(3)(E)(ii), added subsec. (f).
 

@@ -102,7 +102,7 @@ Once the Secretary concerned accepts a project for review under section 7123 of 
 
 &emsp;&emsp;&emsp;(ii) For fiscal year 2009, 45 percent.
 
-&emsp;&emsp;&emsp;(iii) For each of fiscal years 2010 through 2012, 50 percent.
+&emsp;&emsp;&emsp;(iii) For each of fiscal years 2010 through 2013, 50 percent.
 
 #### (C) Inclusion in pilot program
 
@@ -136,7 +136,7 @@ The Secretary shall ensure that at least 50 percent of all project funds be used
 
 &emsp;(2) to restoration of streams and watersheds.
 
-(Pub. L. 106–393, title II, §204, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3902; amended Pub. L. 112–141, div. F, title I, §100101(a)(6), July 6, 2012, 126 Stat. 906.)
+(Pub. L. 106–393, title II, §204, as added Pub. L. 110–343, div. C, title VI, §601(a), Oct. 3, 2008, 122 Stat. 3902; amended Pub. L. 112–141, div. F, title I, §100101(a)(6), July 6, 2012, 126 Stat. 906; Pub. L. 113–40, §10(a)(2)(B), Oct. 2, 2013, 127 Stat. 545.)
 
 #### Prior Provisions
 
@@ -144,5 +144,7 @@ A prior section 204 of Pub. L. 106–393 was set out in a note under section 500
 
 #### Amendments
 
-<b>2012</b>—Subsec. (e)(3)(B)(iii). Pub. L. 112–141 substituted “through 2012” for “and 2011”.
+<b>2013</b>—Subsec. (e)(3)(B)(iii). Pub. L. 113–40 substituted "2013" for "2012".
+
+<b>2012</b>—Subsec. (e)(3)(B)(iii). Pub. L. 112–141 substituted "through 2012" for "and 2011".
 

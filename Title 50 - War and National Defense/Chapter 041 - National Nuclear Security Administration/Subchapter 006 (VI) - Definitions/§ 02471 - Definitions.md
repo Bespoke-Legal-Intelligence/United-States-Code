@@ -2,7 +2,7 @@
 
 For purposes of this chapter:
 
-&emsp;(1) The term “national security laboratory” means any of the following:
+&emsp;(1) The term "national security laboratory" means any of the following:
 
 &emsp;&emsp;(A) Los Alamos National Laboratory, Los Alamos, New Mexico.
 
@@ -10,7 +10,7 @@ For purposes of this chapter:
 
 &emsp;&emsp;(C) Lawrence Livermore National Laboratory, Livermore, California.
 
-&emsp;(2) The term “nuclear weapons production facility” means any of the following:
+&emsp;(2) The term "nuclear weapons production facility" means any of the following:
 
 &emsp;&emsp;(A) The Kansas City Plant, Kansas City, Missouri.
 
@@ -22,35 +22,37 @@ For purposes of this chapter:
 
 &emsp;&emsp;(E) The Nevada National Security Site, Nevada.
 
-&emsp;&emsp;(F) Any facility of the Department of Energy that the Secretary of Energy, in consultation with the Administrator and the Congress, determines to be consistent with the mission of the Administration.
+&emsp;&emsp;(F) Any facility of the Department of Energy that the Secretary of Energy, in consultation with the Administrator and Congress, determines to be consistent with the mission of the Administration.
 
-&emsp;(3) The term “classified information” means any information that has been determined pursuant to Executive Order No. 12333 of December 4, 1981 (50 U.S.C. 401 note), Executive Order No. 12958 of April 17, 1995 (50 U.S.C. 435 note), or successor orders, to require protection against unauthorized disclosure and that is so designated.
+&emsp;(3) The term "classified information" means any information that has been determined pursuant to Executive Order No. 12333 of December 4, 1981 (\[former\] 50 U.S.C. 401 note) \[now 50 U.S.C. 3001 note\], Executive Order No. 12958 of April 17, 1995 (\[former\] 50 U.S.C. 435 note), or successor orders, to require protection against unauthorized disclosure and that is so designated.
 
-&emsp;(4) The term “Restricted Data” has the meaning given such term in section 2014(y) of title 42.
+&emsp;(4) The term "Restricted Data" has the meaning given such term in section 2014(y) of title 42.
 
-&emsp;(5) The term “congressional defense committees” means—
+&emsp;(5) The term "congressional defense committees" means—
 
 &emsp;&emsp;(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
 &emsp;&emsp;(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.
 
-&emsp;(6) The term “nuclear security enterprise” means the physical facilities, technology, and human capital of the national security laboratories and the nuclear weapons production facilities.
+&emsp;(6) The term "nuclear security enterprise" means the physical facilities, technology, and human capital of the national security laboratories and the nuclear weapons production facilities.
 
-(Pub. L. 106–65, div. C, title XXXII, §3281, Oct. 5, 1999, 113 Stat. 968; Pub. L. 112–239, div. C, title XXXI, §3132(a)(3), (d)(3), (4), Jan. 2, 2013, 126 Stat. 2185, 2187.)
+(Pub. L. 106–65, div. C, title XXXII, §3281, Oct. 5, 1999, 113 Stat. 968; Pub. L. 112–239, div. C, title XXXI, §3132(a)(3), (d)(3), (4), Jan. 2, 2013, 126 Stat. 2185, 2187; Pub. L. 113–66, div. C, title XXXI, §3145(i), Dec. 26, 2013, 127 Stat. 1072.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title”, meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out under section 2401 of this title and Tables.
+This chapter, referred to in text, was in the original "this title", meaning title XXXII of div. C of Pub. L. 106–65, Oct. 5, 1999, 113 Stat. 953, as amended, which is classified principally to this chapter. For complete classification of title XXXII to the Code, see Short Title note set out under section 2401 of this title and Tables.
 
-Executive Order No. 12958, referred to in par. (3), which was formerly set out as a note under section 435 of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
+Executive Order No. 12958, referred to in par. (3), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 #### Amendments
 
-<b>2013</b>—Par. (2)(C). Pub. L. 112–239, §3132(d)(3)(A), substituted “Y–12 National Security Complex” for “Y–12 Plant”.
+<b>2013</b>—Par. (2)(C). Pub. L. 112–239, §3132(d)(3)(A), substituted "Y–12 National Security Complex" for "Y–12 Plant".
 
-Par. (2)(D). Pub. L. 112–239, §3132(d)(3)(B), struck out “tritium operations facilities at the” before “Savannah River Site”.
+Par. (2)(D). Pub. L. 112–239, §3132(d)(3)(B), struck out "tritium operations facilities at the" before "Savannah River Site".
 
-Par. (2)(E). Pub. L. 112–239, §3132(d)(4), substituted “Nevada National Security Site” for “Nevada Test Site”.
+Par. (2)(E). Pub. L. 112–239, §3132(d)(4), substituted "Nevada National Security Site" for "Nevada Test Site".
+
+Par. (2)(F). Pub. L. 113–66 substituted "Congress" for "the Congress".
 
 Par. (6). Pub. L. 112–239, §3132(a)(3), added par. (6).
 

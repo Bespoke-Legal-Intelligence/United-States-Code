@@ -18,15 +18,15 @@ In this section:
 
 #### (1) Habitat conservation plan
 
-&emsp;The term “habitat conservation plan” means the conservation plan entitled “Washington County Habitat Conservation Plan” and dated February 23, 1996.
+&emsp;The term "habitat conservation plan" means the conservation plan entitled "Washington County Habitat Conservation Plan" and dated February 23, 1996.
 
 #### (2) Management plan
 
-&emsp;The term “management plan” means the management plan for the National Conservation Area developed by the Secretary under subsection (d)(1).
+&emsp;The term "management plan" means the management plan for the National Conservation Area developed by the Secretary under subsection (d)(1).
 
 #### (3) National Conservation Area
 
-&emsp;The term “National Conservation Area” means the Red Cliffs National Conservation Area that—
+&emsp;The term "National Conservation Area" means the Red Cliffs National Conservation Area that—
 
 &emsp;&emsp;(A) consists of approximately 44,725 acres of public land in the County, as generally depicted on the Red Cliffs National Conservation Area Map; and
 
@@ -34,11 +34,11 @@ In this section:
 
 #### (4) Public use plan
 
-&emsp;The term “public use plan” means the use plan entitled “Red Cliffs Desert Reserve Public Use Plan” and dated June 12, 2000, as amended.
+&emsp;The term "public use plan" means the use plan entitled "Red Cliffs Desert Reserve Public Use Plan" and dated June 12, 2000, as amended.
 
 #### (5) Resource management plan
 
-&emsp;The term “resource management plan” means the management plan entitled “St. George Field Office Resource Management Plan” and dated March 15, 1999, as amended.
+&emsp;The term "resource management plan" means the management plan entitled "St. George Field Office Resource Management Plan" and dated March 15, 1999, as amended.
 
 #### (c) Establishment
 
@@ -154,47 +154,47 @@ The Federal Land Policy and Management Act of 1976, referred to in subsecs. (e)(
 
 #### Definitions
 
-Pub. L. 111–11, title I, §1971, Mar. 30, 2009, 123 Stat. 1075, as amended by Pub. L. 111–88, div. A, title IV, §436, Oct. 30, 2009, 123 Stat. 2965, provided that: “In this subtitle \[subtitle O (§§1971–1983) of title I of Pub. L. 111–11, enacting this subchapter, subchapter CXXXV of this chapter, and section 346a–6 of this title, amending section 1274 of this title, enacting provisions set out as notes under section 1274 of this title and section 766 of Title 25, Indians, and enacting provisions listed in a table of Wilderness Areas set out under section 1132 of this title\]:
+Pub. L. 111–11, title I, §1971, Mar. 30, 2009, 123 Stat. 1075, as amended by Pub. L. 111–88, div. A, title IV, §436, Oct. 30, 2009, 123 Stat. 2965, provided that: "In this subtitle \[subtitle O (§§1971–1983) of title I of Pub. L. 111–11, enacting this subchapter, subchapter CXXXV of this chapter, and section 346a–6 of this title, amending section 1274 of this title, enacting provisions set out as notes under section 1274 of this title and section 766 of Title 25, Indians, and enacting provisions listed in a table of Wilderness Areas set out under section 1132 of this title\]:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Beaver dam wash national conservation area map.—The term ‘Beaver Dam Wash National Conservation Area Map’ means the map entitled ‘Beaver Dam Wash National Conservation Area’ and dated September 20, 2009.
+Beaver dam wash national conservation area map.—The term 'Beaver Dam Wash National Conservation Area Map' means the map entitled 'Beaver Dam Wash National Conservation Area' and dated September 20, 2009.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Canaan mountain wilderness map.—The term ‘Canaan Mountain Wilderness Map’ means the map entitled ‘Canaan Mountain Wilderness’ and dated June 21, 2008.
+Canaan mountain wilderness map.—The term 'Canaan Mountain Wilderness Map' means the map entitled 'Canaan Mountain Wilderness' and dated June 21, 2008.
 
-&emsp;“(3)
+&emsp;"(3)
 
-County.—The term ‘County’ means Washington County, Utah.
+County.—The term 'County' means Washington County, Utah.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Northeastern washington county wilderness map.—The term ‘Northeastern Washington County Wilderness Map’ means the map entitled ‘Northeastern Washington County Wilderness’ and dated November 12, 2008.
+Northeastern washington county wilderness map.—The term 'Northeastern Washington County Wilderness Map' means the map entitled 'Northeastern Washington County Wilderness' and dated November 12, 2008.
 
-&emsp;“(5)
+&emsp;"(5)
 
-Northwestern washington county wilderness map.—The term ‘Northwestern Washington County Wilderness Map’ means the map entitled ‘Northwestern Washington County Wilderness’ and dated June 21, 2008.
+Northwestern washington county wilderness map.—The term 'Northwestern Washington County Wilderness Map' means the map entitled 'Northwestern Washington County Wilderness' and dated June 21, 2008.
 
-&emsp;“(6)
+&emsp;"(6)
 
-Red cliffs national conservation area map.—The term ‘Red Cliffs National Conservation Area Map’ means the map entitled ‘Red Cliffs National Conservation Area’ and dated November 12, 2008.
+Red cliffs national conservation area map.—The term 'Red Cliffs National Conservation Area Map' means the map entitled 'Red Cliffs National Conservation Area' and dated November 12, 2008.
 
-&emsp;“(7)
+&emsp;"(7)
 
-Secretary.—The term ‘Secretary’ means—
+Secretary.—The term 'Secretary' means—
 
-&emsp;&emsp;“(A) with respect to land under the jurisdiction of the Secretary of Agriculture, the Secretary of Agriculture; and
+&emsp;&emsp;"(A) with respect to land under the jurisdiction of the Secretary of Agriculture, the Secretary of Agriculture; and
 
-&emsp;&emsp;“(B) with respect to land under the jurisdiction of the Secretary of the Interior, the Secretary of the Interior.
+&emsp;&emsp;"(B) with respect to land under the jurisdiction of the Secretary of the Interior, the Secretary of the Interior.
 
-&emsp;“(8)
+&emsp;"(8)
 
-State.—The term ‘State’ means the State of Utah.
+State.—The term 'State' means the State of Utah.
 
-&emsp;“(9)
+&emsp;"(9)
 
-Washington county growth and conservation act map.—The term ‘Washington County Growth and Conservation Act Map’ means the map entitled ‘Washington County Growth and Conservation Act Map’ and dated November 13, 2008.”
+Washington county growth and conservation act map.—The term 'Washington County Growth and Conservation Act Map' means the map entitled 'Washington County Growth and Conservation Act Map' and dated November 13, 2008."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “is”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "is".</i>
 

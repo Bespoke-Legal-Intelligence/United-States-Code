@@ -8,15 +8,15 @@ Whoever carries any letter or packet on board any vessel which carries the mail,
 
 Based on title 18, U.S.C., 1940 ed., §308 (Mar. 4, 1909, ch. 321, §185, 35 Stat. 1124).
 
-The words “thirty days” were substituted for “one month,” to make the term of imprisonment more definite and to conform to other comparable sections. (See section 1693 of this title.)
+The words "thirty days" were substituted for "one month," to make the term of imprisonment more definite and to conform to other comparable sections. (See section 1693 of this title.)
 
 Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $50”.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $50".
 
 #### Study of Private Carriage of Mail; Reports to President and Congress
 
-Congressional findings of need for study and reevaluation of restrictions on private carriage of letters and packets contained in this section and submission by United States Postal Service of reports to President and Congress for modernization of law, regulations, and administrative practices, see section 7 of Pub. L. 91–375,set out as a note under section 601 of Title 39, Postal Service.
+Congressional findings of need for study and reevaluation of restrictions on private carriage of letters and packets contained in this section and submission by United States Postal Service of reports to President and Congress for modernization of law, regulations, and administrative practices, see section 7 of Pub. L. 91–375, set out as a note under section 601 of Title 39, Postal Service.
 

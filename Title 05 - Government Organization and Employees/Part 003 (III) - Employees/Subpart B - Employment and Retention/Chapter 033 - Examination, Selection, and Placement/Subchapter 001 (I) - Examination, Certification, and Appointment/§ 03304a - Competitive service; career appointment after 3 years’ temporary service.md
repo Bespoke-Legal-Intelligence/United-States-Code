@@ -48,5 +48,5 @@ Pub. L. 90–105, §4, Oct. 11, 1967, 81 Stat. 274, provided that:
 
 “(b) Subject to subsection (c) of this section, the first section and section 2 of this Act \[enacting this section and section 3303 of former Title 39, The Postal Service\] shall become effective on the one hundred and twentieth day following the date of enactment of this Act \[Oct. 11, 1967\].
 
-“(c) For the purpose of the application of section 3304a(b) of title 5, United States Code, as enacted bythis Act, in the case of an individual who, prior to the effective date prescribed by subsection (b) of this section, shall have completed the 3-year period referred to in such section 3304a(b), such individual shall be deemed to have completed such 3-year period on such effective date.”
+“(c) For the purpose of the application of section 3304a(b) of title 5, United States Code, as enacted by this Act, in the case of an individual who, prior to the effective date prescribed by subsection (b) of this section, shall have completed the 3-year period referred to in such section 3304a(b), such individual shall be deemed to have completed such 3-year period on such effective date.”
 

@@ -34,7 +34,7 @@ Safety exception.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—A State agency may restrict use of the HOV facility by motorcycles or bicycles (or both) if the agency certifies to the Secretary that such use would create a safety hazard and the Secretary accepts the certification.
+In general.—A State agency may restrict use of the HOV facility by motorcycles or bicycles (or both) if the agency certifies to the Secretary that such usewould create a safety hazard and the Secretary accepts the certification.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -134,7 +134,7 @@ Degraded facility.—
 
 &emsp;&emsp;(A)
 
-Definition of minimum average operating speed.—In this paragraph, the term “minimum average operating speed” means—
+Definition of minimum average operating speed.—In this paragraph, the term"minimum average operating speed" means—
 
 &emsp;&emsp;&emsp;(i) 45 miles per hour, in the case of a HOV facility with a speed limit of 50 miles per hour or greater; and
 
@@ -162,7 +162,7 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Alternative fuel vehicle.—The term “alternative fuel vehicle” means a vehicle that is operating on—
+Alternative fuel vehicle.—The term "alternative fuel vehicle" means a vehicle that is operating on—
 
 &emsp;&emsp;(A) methanol, denatured ethanol, or other alcohols;
 
@@ -184,11 +184,11 @@ Alternative fuel vehicle.—The term “alternative fuel vehicle” means a vehi
 
 &emsp;(2) HOV
 
-facility.—The term “HOV facility” means a high occupancy vehicle facility.
+facility.—The term "HOV facility" means a high occupancy vehicle facility.
 
 &emsp;(3)
 
-Low emission and energy-efficient vehicle.—The term “low emission and energy-efficient vehicle” means a vehicle that—
+Low emission and energy-efficient vehicle.—The term "low emission and energy-efficient vehicle" means a vehicle that—
 
 &emsp;&emsp;(A) has been certified by the Administrator as meeting the Tier II emission level established in regulations prescribed by the Administrator under section 202(i) of the Clean Air Act (42 U.S.C. 7521(i)) for that make and model year vehicle; and
 
@@ -198,7 +198,7 @@ Low emission and energy-efficient vehicle.—The term “low emission and energy
 
 &emsp;(4)
 
-Public transportation vehicle.—The term “public transportation vehicle” means a vehicle that—
+Public transportation vehicle.—The term "public transportation vehicle" means a vehicle that—
 
 &emsp;&emsp;(A) provides designated public transportation (as defined in section 221 of the Americans with Disabilities Act of 1990 (42 U.S.C. 12141) or provides public school transportation (to and from public or private primary, secondary, or tertiary schools); and
 
@@ -214,11 +214,11 @@ State agency.—
 
 &emsp;&emsp;(A)
 
-In general.—The term “State agency”, as used with respect to a HOV facility, means an agency of a State or local government having jurisdiction over the operation of the facility.
+In general.—The term "State agency", as used with respect to a HOV facility, means an agency of a State or local government having jurisdiction over the operation of the facility.
 
 &emsp;&emsp;(B)
 
-Inclusion.—The term “State agency” includes a State transportation department.
+Inclusion.—The term "State agency" includes a State transportation department.
 
 (Added Pub. L. 109–59, title I, §1121(a), Aug. 10, 2005, 119 Stat. 1192; amended Pub. L. 110–244, title I, §101(p), June 6, 2008, 122 Stat. 1576; Pub. L. 112–141, div. A, title I, §1514, July 6, 2012, 126 Stat. 572.)
 
@@ -228,21 +228,21 @@ The date of enactment of this section, referred to in subsec. (e), is the date o
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b)(5)(A), (B). Pub. L. 112–141, §1514(1)(A), (B), substituted “2017” for “2009”.
+<b>2012</b>—Subsec. (b)(5)(A), (B). Pub. L. 112–141, §1514(1)(A), (B), substituted "2017" for "2009".
 
-Subsec. (b)(5)(C). Pub. L. 112–141, §1514(1)(C), substituted “this paragraph” for “subparagraph (B)” and inserted “or equal to” after “less than”.
+Subsec. (b)(5)(C). Pub. L. 112–141, §1514(1)(C), substituted "this paragraph" for "subparagraph (B)" and inserted "or equal to" after "less than".
 
-Subsec. (c)(3). Pub. L. 112–141, §1514(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: “If a State agency makes a certification under section 129(a)(3) with respect to toll revenues collected under paragraphs (4) and (5) of subsection (b), the State, in the use of toll revenues under that sentence, shall give priority consideration to projects for developing alternatives to single occupancy vehicle travel and projects for improving highway safety.”
+Subsec. (c)(3). Pub. L. 112–141, §1514(2), added par. (3) and struck out former par. (3). Prior to amendment, text read as follows: "If a State agency makes a certification under section 129(a)(3) with respect to toll revenues collected under paragraphs (4) and (5) of subsection (b), the State, in the use of toll revenues under that sentence, shall give priority consideration to projects for developing alternatives to single occupancy vehicle travel and projects for improving highway safety."
 
-Subsec. (d)(1). Pub. L. 112–141, §1514(3)(A), in introductory provisions, substituted “shall submit to the Secretary a report demonstrating that the facility is not already degraded, and that the presence of the vehicles will not cause the facility to become degraded, and certify” for “in a fiscal year shall certify” and struck out “in the fiscal year” before the colon.
+Subsec. (d)(1). Pub. L. 112–141, §1514(3)(A), in introductory provisions, substituted "shall submit to the Secretary a report demonstrating that the facility is not already degraded, and that the presence of the vehicles will not cause the facility to become degraded, and certify" for "in a fiscal year shall certify" and struck out "in the fiscal year" before the colon.
 
-Subsec. (d)(1)(A). Pub. L. 112–141, §1514(3)(B), inserted “and submitting to the Secretary annual reports of those impacts” before period at end.
+Subsec. (d)(1)(A). Pub. L. 112–141, §1514(3)(B), inserted "and submitting to the Secretary annual reports of those impacts" before period at end.
 
-Subsec. (d)(1)(C). Pub. L. 112–141, §1514(3)(C), substituted “whenever the operation of the facility is degraded” for “if the presence of the vehicles has degraded the operation of the facility”.
+Subsec. (d)(1)(C). Pub. L. 112–141, §1514(3)(C), substituted "whenever the operation of the facility is degraded" for "if the presence of the vehicles has degraded the operation of the facility".
 
 Subsec. (d)(1)(D), (E). Pub. L. 112–141, §1514(3)(D), added subpars. (D) and (E).
 
-<b>2008</b>—Subsec. (b)(5)(C). Pub. L. 110–244 substituted “paragraph (4)” for “paragraph (3)”.
+<b>2008</b>—Subsec. (b)(5)(C). Pub. L. 110–244 substituted "paragraph (4)" for "paragraph (3)".
 
 #### Effective Date of 2012 Amendment
 

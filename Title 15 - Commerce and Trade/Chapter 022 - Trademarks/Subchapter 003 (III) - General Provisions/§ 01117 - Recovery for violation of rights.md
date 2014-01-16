@@ -20,7 +20,7 @@ In a case involving the use of a counterfeit mark (as defined in section 1116(d)
 
 &emsp;(1) not less than $1,000 or more than $200,000 per counterfeit mark per type of goods or services sold, offered for sale, or distributed, as the court considers just; or
 
-&emsp;(2) if the court finds that the use of the counterfeit mark was willful, not more than $2,000,000 per counterfeit mark per type of goods or services sold, offered for sale, or distributed, as the court considers just.
+&emsp;(2) if the court finds that the use of the counterfeit mark was willful, not more than $2,000,000 per counterfeit mark per type ofgoods or services sold, offered for sale, or distributed, as the court considers just.
 
 #### (d) Statutory damages for violation of section 1125(d)(1)
 
@@ -38,41 +38,41 @@ Acts Feb. 20, 1905, ch. 592, §§16, 19, 33 Stat. 728, 729; Mar. 19, 1920, ch. 1
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–403, §103, amended subsec. (b) generally. Prior to amendment, text read as follows: “In assessing damages under subsection (a) of this section, the court shall, unless the court finds extenuating circumstances, enter judgment for three times such profits or damages, whichever is greater, together with a reasonable attorney's fee, in the case of any violation of section 1114(1)(a) of this title or section 220506 of title 36 that consists of intentionally using a mark or designation, knowing such mark or designation is a counterfeit mark (as defined in section 1116(d) of this title), in connection with the sale, offering for sale, or distribution of goods or services. In such cases, the court may in its discretion award prejudgment interest on such amount at an annual interest rate established under section 6621(a)(2) of title 26, commencing on the date of the service of the claimant's pleadings setting forth the claim for such entry and ending on the date such entry is made, or for such shorter time as the court deems appropriate.”
+<b>2008</b>—Subsec. (b). Pub. L. 110–403, §103, amended subsec. (b) generally. Prior to amendment, text read as follows: "In assessing damages under subsection (a) of this section, the court shall, unless the court finds extenuating circumstances, enter judgment for three times such profits or damages, whichever is greater, together with a reasonable attorney's fee, in the case of any violation of section 1114(1)(a) of this title or section 220506 of title 36 that consists of intentionally using a mark or designation, knowing such mark or designation is a counterfeit mark (as defined in section 1116(d) of this title), in connection with the sale, offering for sale, or distribution of goods or services. In such cases, the court may in its discretion award prejudgment interest on such amount at an annual interest rate established under section 6621(a)(2) of title 26, commencing on the date of the service of the claimant's pleadings setting forth the claim for such entry and ending on the date such entry is made, or for such shorter time as the court deems appropriate."
 
-Subsec. (c)(1). Pub. L. 110–403, §104(1), substituted “$1,000” for “$500” and “$200,000” for “$100,000”.
+Subsec. (c)(1). Pub. L. 110–403, §104(1), substituted "$1,000" for "$500" and "$200,000" for "$100,000".
 
-Subsec. (c)(2). Pub. L. 110–403, §104(2), substituted “$2,000,000” for “$1,000,000”.
+Subsec. (c)(2). Pub. L. 110–403, §104(2), substituted "$2,000,000" for "$1,000,000".
 
 <b>2004</b>—Subsec. (e). Pub. L. 108–482 added subsec. (e).
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–273, §13207(a), substituted “a violation under section 1125(a) or (d) of this title,” for “a violation under section 1125(a), (c), or (d) of this title,”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–273, §13207(a), substituted "a violation under section 1125(a) or (d) of this title," for "a violation under section 1125(a), (c), or (d) of this title,".
 
-Subsec. (b). Pub. L. 107–273, §13207(b)(11), substituted “section 220506 of title 36” for “section 110 of the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 (36 U.S.C. 380)” and “6621(a)(2) of title 26” for “6621 of title 26”.
+Subsec. (b). Pub. L. 107–273, §13207(b)(11), substituted "section 220506 of title 36" for "section 110 of the Act entitled 'An Act to incorporate the United States Olympic Association', approved September 21, 1950 (36 U.S.C. 380)" and "6621(a)(2) of title 26" for "6621 of title 26".
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title III, §3003(a)(2)\], inserted “, (c), or (d)” after “section 1125(a)” in first sentence.
+<b>1999</b>—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title III, §3003(a)(2)\], inserted ", (c), or (d)" after "section 1125(a)" in first sentence.
 
-Pub. L. 106–43 substituted “a violation under section 1125(a) of this title, or a willful violation under section 1125(c) of this title,” for “or a violation under section 1125(a) of this title,” in first sentence.
+Pub. L. 106–43 substituted "a violation under section 1125(a) of this title, or a willful violation under section 1125(c) of this title," for "or a violation under section 1125(a) of this title," in first sentence.
 
 Subsec. (d). Pub. L. 106–113, §1000(a)(9) \[title III, §3003(b)\], added subsec. (d).
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–153 added subsec. (c).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–667 inserted “, or a violation under section 1125(a) of this title,” after “Office” in first sentence.
+<b>1988</b>—Subsec. (a). Pub. L. 100–667 inserted ", or a violation under section 1125(a) of this title," after "Office" in first sentence.
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954", which for purposes of codification was translated as "title 26" thus requiring no change in text.
 
 <b>1984</b>—Pub. L. 98–473 designated existing provisions as subsec. (a) and added subsec. (b).
 
 <b>1975</b>—Pub. L. 93–600 inserted provisions relating to awarding of attorney fees in exceptional cases.
 
-Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”.
+Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office".
 
-<b>1962</b>—Pub. L. 87–772 substituted “1114” for “1113(1)(b)”.
+<b>1962</b>—Pub. L. 87–772 substituted "1114" for "1113(1)(b)".
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3010\], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, provided that:“Sections 3002(a), 3003, 3004, 3005, and 3008 of this title \[amending this section and sections 1114, 1116, 1125, and 1127 of this title, and enacting provisions set out as a note under section 1051 of this title\] shall apply to all domain names registered before, on, or after the date of the enactment of this Act \[Nov. 29, 1999\], except that damages under subsection (a) or (d) of section 35 of the Trademark Act of 1946 (15 U.S.C. 1117), as amended by section 3003 of this title, shall not be available with respect to the registration, trafficking, or use of a domain name that occurs before the date of the enactment of this Act.”
+Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3010\], Nov. 29, 1999, 113 Stat. 1536, 1501A–552, provided that: "Sections 3002(a), 3003, 3004, 3005, and 3008 of this title \[amending this section and sections 1114, 1116, 1125, and 1127 of this title, and enacting provisions set out as a note under section 1051 of this title\] shall apply to all domain names registered before, on, or after the date of the enactment of this Act \[Nov. 29, 1999\], except that damages under subsection (a) or (d) of section 35 of the Trademark Act of 1946 (15 U.S.C. 1117), as amended by section 3003 of this title, shall not be available with respect to the registration, trafficking, or use of a domain name that occurs before the date of the enactment of this Act."
 
 #### Effective Date of 1988 Amendment
 
@@ -92,17 +92,17 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 Pub. L. 108–482, title II, §205, Dec. 23, 2004, 118 Stat. 3917, provided that:
 
-“(a)
+"(a)
 
-Free Speech and Press.—Nothing in this title \[see Short Title of 2004 Amendment note set out under section 1051 of this title\] shall enlarge or diminish any rights of free speech or of the press for activities related to the registration or use of domain names.
+Free Speech and Press.—Nothing in this title \[see Short Title of 2004 Amendment note set out under section 1051 of this title\] shall enlarge or diminish anyrights of free speech or of the press for activities related to the registration or use of domain names.
 
-“(b)
+"(b)
 
 Discretion of Courts in Determining Relief.—Nothing in this title shall restrict the discretion of a court in determining damages or other relief to be assessed against a person found liable for the infringement of intellectual property rights.
 
-“(c)
+"(c)
 
-Discretion of Courts in Determining Terms of Imprisonment.—Nothing in this title shall be construed to limit the discretion of a court to determine the appropriate term of imprisonment for an offense under applicable law.”
+Discretion of Courts in Determining Terms of Imprisonment.—Nothing in this title shall be construed to limit the discretion of a court to determine the appropriate term of imprisonment for an offense under applicable law."
 
 #### Transfer of Functions
 

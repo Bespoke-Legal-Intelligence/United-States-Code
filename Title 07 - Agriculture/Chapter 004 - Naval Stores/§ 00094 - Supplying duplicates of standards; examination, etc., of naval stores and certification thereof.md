@@ -6,9 +6,9 @@ The Secretary of Agriculture shall provide, if practicable, any interested perso
 
 #### Amendments
 
-<b>1981</b>—Pub. L. 97–35 struck out “on tender of the cost thereof as required by him,” after “grade the same”.
+<b>1981</b>—Pub. L. 97–35 struck out "on tender of the cost thereof as required by him," after "grade the same".
 
 #### Effective Date of 1981 Amendment
 
-Pub. L. 97–35, title I, §159(b), Aug. 13, 1981, 95 Stat. 376, provided that: “The provisions of this section \[amending this section and section 98 of this title\] shall become effective October 1, 1981”.
+Pub. L. 97–35, title I, §159(b), Aug. 13, 1981, 95 Stat. 376, provided that: "The provisions of this section \[amending this section and section 98 of this title\] shall become effective October 1, 1981".
 

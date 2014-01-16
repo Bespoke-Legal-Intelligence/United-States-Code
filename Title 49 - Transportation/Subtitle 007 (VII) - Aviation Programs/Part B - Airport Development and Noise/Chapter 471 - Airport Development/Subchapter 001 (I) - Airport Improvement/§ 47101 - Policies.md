@@ -52,7 +52,7 @@ National Transportation Policy.—(1) It is a goal of the United States to devel
 
 (7) The United States transportation infrastructure must be reshaped to provide the economic underpinnings for the United States to compete in the 21st century global economy. The United States can no longer rely on the sheer size of its economy to dominate international economic rivals and must recognize fully that its economy is no longer a separate entity but is part of the global marketplace. The future economic prosperity of the United States depends on its ability to compete in an international marketplace that is teeming with competitors but in which a full one-quarter of the economic activity of the United States takes place.
 
-(8) The United States must make a national commitment to rebuild its infrastructure through development of a national intermodal transportation system. The United States must provide the foundation for its industries to improve productivity and their ability to compete in the global economy with a system that willtransport passengers and property in an efficient manner.
+(8) The United States must make a national commitment to rebuild its infrastructure through development of a national intermodal transportation system. The United States must provide the foundation for its industries to improve productivity and their ability to compete in the global economy with a system that will transport passengers and property in an efficient manner.
 
 (c)
 
@@ -132,7 +132,7 @@ Consultation.—To carry out the policy of subsection (a)(6) of this section, th
 
 &emsp;(4) another factor affecting the environment.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1246; Pub. L. 103–305, title I, §§104, 110, Aug. 23, 1994, 108 Stat. 1571, 1573; Pub. L. 103–429, §6(62), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §141, Oct. 9, 1996, 110 Stat. 3220; Pub. L. 106–181, title I, §§121(a), (b), 137(a), Apr. 5, 2000, 114 Stat. 74, 85; Pub. L. 112–95, title I, §131, Feb. 14, 2012, 126 Stat. 21.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1246; Pub. L. 103–305, title I, §§104, 110, Aug. 23, 1994,108 Stat. 1571, 1573; Pub. L. 103–429, §6(62), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title I, §141, Oct. 9, 1996, 110 Stat. 3220; Pub. L. 106–181, title I, §§121(a), (b), 137(a), Apr. 5, 2000, 114 Stat. 74, 85; Pub. L. 112–95, title I, §131, Feb. 14, 2012, 126 Stat. 21.)
 
 Historical and Revision Notes
 
@@ -252,15 +252,15 @@ Sept. 3, 1982, Pub. L. 97–248, §502(a)(4), 96 Stat. 671; Dec. 30, 1987, Pub. 
 
 49 App.:2208(b)(5) (last sentence words before 11th comma).
 
-In subsection (a), before clause (1), the text of 49 App.:2201(a)(2), (9), and (10) is omitted as executed. The words “It is the policy of the United States” are substituted for “The Congress hereby . . . declares” in 49 App.:2201(a) (words before cl. (1)), “it is in the national interest” in 49 App.:2201(a)(12), “are not in the public interest and” in 49 App.:2201(a)(13), “It is declared to be in the national interest to” in 49 App.:2201(b), and “It is declared to be national policy that” in 49 App.:2208(b)(5) for consistency in the revised title and with other titles of the United States Code. In clause (1), the word “is” is substituted for “will continue to be” to eliminate unnecessary words. In clause (2), the words “with due regard” are omitted as surplus. In clause (3), the words “reliever airports make an important contribution to the efficient operation of the airport and airway system” are omitted as executed. In clause (4), the words “cargo hub airports play a critical role in the movement of commerce through the airport and airway system” are omitted as executed. In clause (5), the words “and promote” are omitted as surplus.
+In subsection (a), before clause (1), the text of 49 App.:2201(a)(2), (9), and (10) is omitted as executed. The words "It is the policy of the United States" are substituted for "The Congress hereby . . . declares" in 49 App.:2201(a) (words before cl. (1)), "it is in the national interest" in 49 App.:2201(a)(12), "are not in the public interest and" in 49 App.:2201(a)(13), "It is declared to be in the national interest to" in 49 App.:2201(b), and "It is declared to be national policy that" in 49 App.:2208(b)(5) for consistency in the revised title and with other titles of the United States Code. In clause (1), the word "is" is substituted for "will continue to be" to eliminate unnecessary words. In clause (2), the words "with due regard" are omitted as surplus. In clause (3), the words "reliever airports make an important contribution to the efficient operation of the airport and airway system" are omitted as executed. In clause (4), the words "cargo hub airports play a critical role in the movement of commerce through the airport and airway system" are omitted as executed. In clause (5), the words "and promote" are omitted as surplus.
 
-In subsection (d), the word “to” is substituted for “with due regard for the goals expressed therein of” to eliminate unnecessary words.
+In subsection (d), the word "to" is substituted for "with due regard for the goals expressed therein of" to eliminate unnecessary words.
 
-In subsection (e), before clause (1), the words “The facilities provided may include” are substituted for “including” because of the restatement. Clause (2) is substituted for “reliever heliports” to incorporate the definition of that term from 49 App.:2202(a)(19) into this subsection.
+In subsection (e), before clause (1), the words "The facilities provided may include" are substituted for "including" because of the restatement. Clause (2) is substituted for "reliever heliports" to incorporate the definition of that term from 49 App.:2202(a)(19) into this subsection.
 
-In subsection (f), before clause (1), the words “the goal of” are omitted as surplus.
+In subsection (f), before clause (1), the words "the goal of" are omitted as surplus.
 
-In subsection (g), the words “formulated” and “due” are omitted as surplus. The words “process of developing airport plans and programs” are substituted for “process” for clarity.
+In subsection (g), the words "formulated" and "due" are omitted as surplus. The words "process of developing airport plans and programs" are substituted for "process" for clarity.
 
 #### Pub. L. 103–429
 
@@ -270,21 +270,21 @@ This amends 49:47101(a)(12) to translate a cross-reference to the Airport and Ai
 
 <b>2012</b>—Subsec. (g)(2)(C), (D). Pub. L. 112–95 added subpar. (C) and redesignated former subpar. (C) as (D).
 
-<b>2000</b>—Subsec. (a)(5). Pub. L. 106–181, §137(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: “to encourage the development of transportation systems that use various modes of transportation in a way that will serve the States and local communities efficiently and effectively;”.
+<b>2000</b>—Subsec. (a)(5). Pub. L. 106–181, §137(a), amended par. (5) generally. Prior to amendment, par. (5) read as follows: "to encourage the development of transportation systems that use various modes of transportation in a way that will serve the States and local communities efficiently and effectively;".
 
-Subsec. (a)(11). Pub. L. 106–181, §121(a), inserted “(including integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices)” after “employ innovative technology”.
+Subsec. (a)(11). Pub. L. 106–181, §121(a), inserted "(including integrated in-pavement lighting systems for runways and taxiways and other runway and taxiway incursion prevention devices)" after "employ innovative technology".
 
 Subsec. (f)(11). Pub. L. 106–181, §121(b), added par. (11).
 
-<b>1996</b>—Subsec. (g). Pub. L. 104–264 substituted “
+<b>1996</b>—Subsec. (g). Pub. L. 104–264 substituted "
 
-Intermodal Planning” for “
+Intermodal Planning" for "
 
-Cooperation” in heading and amended text generally. Prior to amendment, text read as follows: “To carry out the policy of subsection (a)(5) of this section, the Secretary of Transportation shall cooperate with State and local officials in developing airport plans and programs that are based on overall transportation needs. The airport plans and programs shall be developed in coordination with other transportation planning and considering comprehensive long-range land-use plans and overall social, economic, environmental, system performance, and energy conservation objectives. The process of developing airport plans and programs shall be continuing, cooperative, and comprehensive to the degree appropriate to the complexity of the transportation problems.”
+Cooperation" in heading and amended text generally. Prior to amendment, text read as follows: "To carry out the policy of subsection (a)(5) of this section, the Secretary of Transportation shall cooperate with State and local officials in developing airport plans and programs that are based on overall transportation needs. The airport plans and programs shall be developed in coordination with other transportation planning and considering comprehensive long-range land-use plans and overall social, economic, environmental, system performance, and energy conservation objectives. The process of developing airport plans and programs shall be continuing, cooperative, and comprehensive to the degree appropriate to the complexity of the transportation problems."
 
 <b>1994</b>—Subsec. (a)(11). Pub. L. 103–305, §104, added par. (11).
 
-Subsec. (a)(12). Pub. L. 103–429 substituted “subchapter” for “Act”.
+Subsec. (a)(12). Pub. L. 103–429 substituted "subchapter" for "Act".
 
 Pub. L. 103–305, §110, added par. (12).
 
@@ -292,7 +292,7 @@ Subsec. (a)(13). Pub. L. 103–305, §110, added par. (13).
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -306,53 +306,53 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 Pub. L. 112–95, title III, §314, Feb. 14, 2012, 126 Stat. 67, provided that:
 
-“(a)
+"(a)
 
 Strategic Runway Safety Plan.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than 6 months after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator of the Federal Aviation Administration shall develop and submit to Congress a report containing a strategic runway safety plan.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Contents of plan.—The strategic runway safety plan—
 
-&emsp;&emsp;“(A) shall include, at a minimum—
+&emsp;&emsp;"(A) shall include, at a minimum—
 
-&emsp;&emsp;&emsp;“(i) goals to improve runway safety;
+&emsp;&emsp;&emsp;"(i) goals to improve runway safety;
 
-&emsp;&emsp;&emsp;“(ii) near- and long-term actions designed to reduce the severity, number, and rate of runway incursions, losses of standard separation, and operational errors;
+&emsp;&emsp;&emsp;"(ii) near- and long-term actions designed to reduce the severity, number, and rate of runway incursions, losses of standard separation, and operational errors;
 
-&emsp;&emsp;&emsp;“(iii) time frames and resources needed for the actions described in clause (ii);
+&emsp;&emsp;&emsp;"(iii) time frames and resources needed for the actions described in clause (ii);
 
-&emsp;&emsp;&emsp;“(iv) a continuous evaluative process to track performance toward the goals referred to in clause (i); and
+&emsp;&emsp;&emsp;"(iv) a continuous evaluative process to track performance toward the goals referred to in clause (i); and
 
-&emsp;&emsp;&emsp;“(v) a review with respect to runway safety of every commercial service airport (as defined in section 47102 of title 49, United States Code) in the United States and proposed action to improve airport lighting, provide better signs, and improve runway and taxiway markings at those airports; and
+&emsp;&emsp;&emsp;"(v) a review with respect to runway safety of every commercial service airport (as defined in section 47102 of title 49, United States Code) in the United States and proposed action to improve airport lighting, provide better signs, and improve runway and taxiway markings at those airports; and
 
-&emsp;&emsp;“(B) shall address the increased runway safety risk associated with the expected increased volume of air traffic.
+&emsp;&emsp;"(B) shall address the increased runway safety risk associated with the expected increased volume of air traffic.
 
-“(b)
+"(b)
 
 Process.—Not later than 6 months after the date of enactment of this Act \[Feb. 14, 2012\], the Administrator shall develop a process for tracking and investigating operational errors, losses of standard separation, and runway incursions that includes procedures for—
 
-&emsp;“(1) identifying who is responsible for tracking operational errors, losses of standard separation, and runway incursions, including a process for lower level employees to report to higher supervisory levels and for frontline managers to receive the information in a timely manner;
+&emsp;"(1) identifying who is responsible for tracking operational errors, losses of standard separation, and runway incursions, including a process for lower level employees to report to higher supervisory levels and for frontline managers to receive the information in a timely manner;
 
-&emsp;“(2) conducting periodic random audits of the oversight process; and
+&emsp;"(2) conducting periodic random audits of the oversight process; and
 
-&emsp;“(3) ensuring proper accountability.
+&emsp;"(3) ensuring proper accountability.
 
-“(c)
+"(c)
 
-Plan for Installation and Deployment of Systems To Provide Alerts of Potential Runway Incursions.—Not later than June 30, 2012, the Administrator shall submit to Congress a report containing a plan for the installation and deployment of systems to alert air traffic controllers or flight crewmembers, or both, of potential runway incursions. The plan shall be integrated into the annual NextGen Implementation Plan of the Administration or any successor document.”
+Plan for Installation and Deployment of Systems To Provide Alerts of Potential Runway Incursions.—Not later than June 30, 2012, the Administrator shall submit to Congress a report containing a plan for the installation and deployment of systems to alert air traffic controllers or flight crewmembers, or both, of potential runway incursions. The plan shall be integrated into the annual NextGen Implementation Plan of the Administration or any successor document."
 
 #### Availability of Gates and Other Essential Services
 
-Pub. L. 106–181, title I, §155(d), Apr. 5, 2000, 114 Stat. 89, provided that: “The Secretary \[of Transportation\] shall ensure that gates and other facilities are made available at costs that are fair and reasonable to air carriers at covered airports (as defined in section 47106(f)(4) \[47106(f)(3)\] of title 49, United States Code) where a ‘majority-in-interest clause’ of a contract or other agreement or arrangement inhibits the ability of the local airport authority to provide or build new gates or other facilities.”
+Pub. L. 106–181, title I, §155(d), Apr. 5, 2000, 114 Stat. 89, provided that: "The Secretary \[of Transportation\] shall ensure that gates and other facilities are made available at costs that are fair and reasonable to air carriers at covered airports (as defined in section 47106(f)(4) \[47106(f)(3)\] of title 49, United States Code) where a 'majority-in-interest clause' of a contract or other agreement or arrangement inhibits the ability of the local airport authority to provide or build new gates or other facilities."
 
 #### Construction of Runways
 
-Pub. L. 106–181, title I, §158, Apr. 5, 2000, 114 Stat. 90, provided that: “Notwithstanding any provision of law that specifically restricts the number of runways at a single international airport, the Secretary \[of Transportation\] may obligate funds made available under chapters 471 and 481 of title 49, United States Code, for any project to construct a new runway at such airport, unless this section is expressly repealed.”
+Pub. L. 106–181, title I, §158, Apr. 5, 2000, 114 Stat. 90, provided that: "Notwithstanding any provision of law that specifically restricts the number of runways at a single international airport, the Secretary \[of Transportation\] may obligate funds made available under chapters 471 and 481 of title 49, United States Code, for any project to construct a new runway at such airport, unless this section is expressly repealed."
 
 #### Innovative Financing Techniques
 
@@ -360,31 +360,31 @@ Pub. L. 104–264, title I, §148, Oct. 9, 1996, 110 Stat. 3223, authorized the 
 
 #### Authority To Close Airport Located Near Closed or Realigned Military Base
 
-Pub. L. 104–264, title XII, §1203, Oct. 9, 1996, 110 Stat. 3280, provided that: “Notwithstanding any other provision of a law, rule, or grant assurance, an airport that is not a commercial service airport may be closed by its sponsor without any obligation to repay grants made under chapter 471 of title 49, United States Code, the Airport and Airway Improvement Act of 1982 \[see References in Text note set out under section 47108 of this title\], or any other law if the airport is located within 2 miles of a United States Army depot which has been closed or realigned; except that in the case of disposal of the land associated with the airport, the part of the proceeds from the disposal that is proportional to the Government's share of the cost of acquiring the land shall be paid to the Secretary of Transportation for deposit in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502).”
+Pub. L. 104–264, title XII, §1203, Oct. 9, 1996, 110 Stat. 3280, provided that: "Notwithstanding any other provision of a law, rule, or grant assurance, an airport that is not a commercial service airport may be closed by its sponsor without any obligation to repay grants made under chapter 471 of title 49, United States Code, the Airport and Airway Improvement Act of 1982 \[see References in Text note set out under section 47108 of this title\], or any other law if the airport is located within 2 miles of a United States Army depot which has been closed or realigned; except that in the case of disposal of the land associated with the airport, the part of the proceeds from the disposal that is proportional to the Government's share of the cost of acquiring the land shall be paid to the Secretary of Transportation for deposit in the Airport and Airway Trust Fund established under section 9502 of the Internal Revenue Code of 1986 (26 U.S.C. 9502)."
 
 #### Study on Innovative Financing
 
 Pub. L. 103–305, title V, §520, Aug. 23, 1994, 108 Stat. 1601, provided that:
 
-“(a)
+"(a)
 
 Study.—The Secretary shall conduct a study on innovative approaches for using Federal funds to finance airport development as a means of supplementing financing available under the Airport Improvement Program.
 
-“(b)
+"(b)
 
 Matters To Be Considered.—In conducting the study under subsection (a), the Secretary shall consider, at a minimum, the following:
 
-&emsp;“(1) Mechanisms that will produce greater investments in airport development per dollar of Federal expenditure.
+&emsp;"(1) Mechanisms that will produce greater investments in airport development per dollar of Federal expenditure.
 
-&emsp;“(2) Approaches that would permit entering into agreements with non-Federal entities, such as airport sponsors, for the loan of Federal funds, guarantee of loan repayment, or purchase of insurance or other forms of enhancement for borrower debt, including the use of unobligated Airport Improvement Program contract authority and unobligated balances in the Airport and Airway Trust Fund.
+&emsp;"(2) Approaches that would permit entering into agreements with non-Federal entities, such as airport sponsors, for the loan of Federal funds, guarantee of loan repayment, or purchase of insurance or other forms of enhancement for borrower debt, including the use of unobligated Airport Improvement Program contract authority and unobligated balances in the Airport and Airway Trust Fund.
 
-&emsp;“(3) Means to lower the cost of financing airport development.
+&emsp;"(3) Means to lower the cost of financing airport development.
 
-“(c)
+"(c)
 
 Consultation.—In considering innovative financing pursuant to this section, the Secretary may consult with airport owners and operators and public and private sector experts.
 
-“(d)
+"(d)
 
-Report to Congress.—Not later than 12 months after the date of the enactment of this Act \[Aug. 23, 1994\], the Secretary shall transmit to Congress a report on the results of the study conducted under subsection (a).”
+Report to Congress.—Not later than 12 months after the date of the enactment of this Act \[Aug. 23, 1994\], the Secretary shall transmit to Congress a report on the results of the study conducted under subsection (a)."
 

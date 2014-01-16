@@ -1,6 +1,6 @@
 ### §420. Power to administer oaths, examine witnesses, or require production of books, etc.
 
-On and after July 24, 1919, in the performance of the duties required of the Bureau of Agricultural Economics in the administration or enforcement of provisions of Acts (United States Cotton Futures Act, Thirty-ninth Statutes at Large, page 476; United States Grain Standards Act, Thirty-ninth Statutes at Large, page 482 \[7 U.S.C. 71 et seq.\]; United States Warehouse Act, Thirty-ninth Statutes at Large, page 486 \[7 U.S.C. 241 et seq.\]; Standard Container Act, Thirty-ninth Statutes at Large, page 673; and the Acts making annual appropriations for the Department of Agriculture) relating to the Department of Agriculture, the Secretary of Agriculture, or any representative specifically authorized in writing by him for the purpose, shall have power to administer oaths, examine witnesses, and call for the production of books and papers.
+On and after July 24, 1919, in the performance of the duties required of the Bureau of Agricultural Economics in the administration or enforcement of provisions of Acts (United States Cotton Futures Act, Thirty-ninth Statutes at Large, page 476; United States Grain Standards Act, Thirty-ninth Statutes at Large, page 482 \[7U.S.C. 71 et seq.\]; United States Warehouse Act, Thirty-ninth Statutes at Large, page 486 \[7 U.S.C. 241 et seq.\]; Standard Container Act, Thirty-ninth Statutes at Large, page 673; and the Acts making annual appropriations for the Department of Agriculture) relating to the Department of Agriculture, the Secretary of Agriculture, or any representative specifically authorized in writing by him for the purpose, shall have power to administer oaths, examine witnesses, and call for the production of books and papers.
 
 (July 24, 1919, ch. 26, 41 Stat. 267; May 11, 1922, ch. 185, 42 Stat. 532.)
 
@@ -20,5 +20,5 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 
 Functions of Bureau of Agricultural Economics transferred to other units of Department of Agriculture by Secretary's memorandum of Nov. 2, 1953.
 
-Act May 11, 1922, transferred powers of former “Bureau of Markets, Bureau of Markets and Crop Estimates, and the Office of Farm Management and Farm Economics” to “Bureau of Agricultural Economics”.
+Act May 11, 1922, transferred powers of former "Bureau of Markets, Bureau of Markets and Crop Estimates, and the Office of Farm Management and Farm Economics" to "Bureau of Agricultural Economics".
 

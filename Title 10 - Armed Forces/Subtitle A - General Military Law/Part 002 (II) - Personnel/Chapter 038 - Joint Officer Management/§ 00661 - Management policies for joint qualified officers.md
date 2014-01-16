@@ -34,7 +34,7 @@ Education and Experience Requirements.—(1) An officer may not be designated as
 
 &emsp;&emsp;(ii) such other assignments and experiences in a manner that demonstrate the officer's mastery of knowledge, skills, and abilities in joint matters, as determined under such regulations and policy as the Secretary of Defense may prescribe.
 
-(2) Subject to paragraphs (3) through (6), the Secretary of Defense may waive the requirement under paragraph (1)(A) that an officer has successfully completed a program of education, as described in subsections (b) and (c) of section 2155 of this title.
+(2) Subject to paragraphs (3) through (6), the Secretary of Defense may waive the requirementunder paragraph (1)(A) that an officer has successfully completed a program of education, as described in subsections (b) and (c) of section 2155 of this title.
 
 (3) In the case of an officer in a grade below brigadier general or rear admiral (lower half), a waiver under paragraph (2) may be granted only if—
 
@@ -90,87 +90,87 @@ Treatment of Certain Service.—Any service by an officer in the grade of captai
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–417 amended section catchline generally, substituting “Management policies for joint qualified officers” for “Management policies for officers who are joint qualified”, and in subsec. (a), substituted “as a joint qualified officer or in such other manner as the Secretary of Defense directs” for “in such manner as the Secretary of Defense directs”.
+<b>2008</b>—Pub. L. 110–417 amended section catchline generally, substituting "Management policies for joint qualified officers" for "Management policies for officers who are joint qualified", and in subsec. (a), substituted "as a joint qualified officer or in such other manner as the Secretary of Defense directs" for "in such manner as the Secretary of Defense directs".
 
-<b>2006</b>—Pub. L. 109–364, §516(e)(1), substituted “officers who are joint qualified” for “joint specialty officers” in section catchline.
+<b>2006</b>—Pub. L. 109–364, §516(e)(1), substituted "officers who are joint qualified" for "joint specialty officers" in section catchline.
 
-Subsec. (a). Pub. L. 109–364, §516(a), struck out at end “For purposes of this chapter, officers to be managed by such policies, procedures, and practices are referred to as having, or having been nominated for, the ‘joint specialty’.”
+Subsec. (a). Pub. L. 109–364, §516(a), struck out at end "For purposes of this chapter, officers to be managed by such policies, procedures, and practices are referred to as having, or having been nominated for, the 'joint specialty'."
 
 Subsecs. (b) to (d). Pub. L. 109–364, §516(b), amended subsecs. (b) to (d) generally. Prior to amendment, subsecs. (b) to (d) related to numbers and selection of officers with the joint specialty, education and experience requirements, and number of joint duty assignments.
 
-Subsec. (e). Pub. L. 109–364, §516(c), substituted “officers to achieve joint qualification and for officers who have been designated as joint qualified” for “officers with the joint specialty” in introductory provisions.
+Subsec. (e). Pub. L. 109–364, §516(c), substituted "officers to achieve joint qualification and for officers who have been designated as joint qualified" for "officers with the joint specialty" in introductory provisions.
 
-Subsec. (f). Pub. L. 109–364, §516(d), substituted “619a” for “619(e)(1)”.
+Subsec. (f). Pub. L. 109–364, §516(d), substituted "619a" for "619(e)(1)".
 
-<b>2002</b>—Subsec. (b)(2). Pub. L. 107–314, §1062(a)(3), substituted “December 28, 2001,” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002”.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–314, §1062(a)(3), substituted "December 28, 2001," for "the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002".
 
-Subsec. (c)(3)(E). Pub. L. 107–314, §502(c), substituted “paragraph” for “subparagraph”.
+Subsec. (c)(3)(E). Pub. L. 107–314, §502(c), substituted "paragraph" for "subparagraph".
 
-<b>2001</b>—Subsec. (b)(2). Pub. L. 107–107, in introductory provisions, substituted “Each officer on the active-duty list on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002 who has not before that date been nominated for the joint specialty by the Secretary of a military department, and each officer who is placed on the active-duty list after such date, who meets the requirements of subsection (c) shall automatically be considered to have been nominated for the joint specialty. From among those officers considered to be nominated for the joint specialty, the Secretary may select for the joint specialty only officers—” for “The Secretaries of the military departments shall nominate officers for selection for the joint specialty. Nominations shall be made from among officers—”.
+<b>2001</b>—Subsec. (b)(2). Pub. L. 107–107, in introductory provisions, substituted "Each officer on the active-duty list on the date of the enactment of the National Defense Authorization Act for Fiscal Year 2002 who has not before that date been nominated for the joint specialty by the Secretary of a military department, and each officer who is placed on the active-duty list after such date, who meets the requirements of subsection (c) shall automatically be considered to have been nominated for the joint specialty. From among those officers considered to be nominated for the joint specialty, the Secretary may select for the joint specialty only officers—" for "The Secretaries of the military departments shall nominate officers for selection for the joint specialty. Nominations shall be made from among officers—".
 
-<b>1996</b>—Subsec. (c)(3)(D). Pub. L. 104–106, §501(d)(1), in third sentence, substituted “In the case of officers in grades below brigadier general and rear admiral (lower half), the total number” for “The total number”.
+<b>1996</b>—Subsec. (c)(3)(D). Pub. L. 104–106, §501(d)(1), in third sentence, substituted "In the case of officers in grades below brigadier general and rear admiral (lower half), the total number" for "The total number".
 
 Subsec. (c)(3)(E). Pub. L. 104–106, §501(d)(2), added subpar. (E).
 
-Subsec. (d)(2)(A). Pub. L. 104–106, §501(a), substituted “800” for “1,000”.
+Subsec. (d)(2)(A). Pub. L. 104–106, §501(a), substituted "800" for "1,000".
 
-Subsec. (d)(2)(B). Pub. L. 104–106, §1503(a)(6)(A), substituted “Each position designated by the Secretary under subparagraph (A)” for “Until January 1, 1994, at least 80 percent of the positions designated by the Secretary under subparagraph (A) shall be held at all times by officers who have the joint specialty. On and after January 1, 1994, each position so designated”.
+Subsec. (d)(2)(B). Pub. L. 104–106, §1503(a)(6)(A), substituted "Each position designated by the Secretary under subparagraph (A)" for "Until January 1, 1994, at least 80 percent of the positions designated by the Secretary under subparagraph (A) shall be held at all times by officers who have the joint specialty. On and after January 1, 1994, each position so designated".
 
-Subsec. (d)(2)(C). Pub. L. 104–106, §1503(a)(6)(B), struck out “the second sentence of” after “the requirement in”.
+Subsec. (d)(2)(C). Pub. L. 104–106, §1503(a)(6)(B), struck out "the second sentence of" after "the requirement in".
 
-Subsec. (d)(2)(D). Pub. L. 104–106, §1503(a)(6)(C), struck out subpar. (D) which read as follows: “During the period beginning on October 1, 1992, and ending on January 1, 1993, the Secretary of Defense shall submit to Congress a report on the operation, to the date of the report, of the first sentence of subparagraph (B) and on the Secretary's projection for the use of the waiver authority provided under subparagraph (C), including the Secretary's estimate of the average annual number of waivers to be provided under subparagraph (C).”
+Subsec. (d)(2)(D). Pub. L. 104–106, §1503(a)(6)(C), struck out subpar. (D) which read as follows: "During the period beginning on October 1, 1992, and ending on January 1, 1993, the Secretary of Defense shall submit to Congress a report on the operation, to the date of the report, of the first sentence of subparagraph (B) and on the Secretary's projection for the use of the waiver authority provided under subparagraph (C), including the Secretary's estimate of the average annual number of waivers to be provided under subparagraph (C)."
 
-<b>1989</b>—Subsec. (c)(1)(B), (3)(A). Pub. L. 101–189, §1113, substituted “(as described in section 664(f) of this title (other than in paragraph (2) thereof))” for “(as described in section 664(f)(1) or (f)(3) of this title)”.
+<b>1989</b>—Subsec. (c)(1)(B), (3)(A). Pub. L. 101–189, §1113, substituted "(as described in section 664(f) of this title (other than in paragraph (2) thereof))" for "(as described in section 664(f)(1) or (f)(3) of this title)".
 
 Subsec. (c)(4). Pub. L. 101–189, §1122, added par. (4).
 
-<b>1988</b>—Subsec. (c)(3)(D). Pub. L. 100–456, §511, inserted “for officers in the same pay grade” after “under this paragraph”, substituted “10 percent” for “5 percent”, and inserted “in that pay grade” after “numbers of officers”.
+<b>1988</b>—Subsec. (c)(3)(D). Pub. L. 100–456, §511, inserted "for officers in the same pay grade" after "under this paragraph", substituted "10 percent" for "5 percent", and inserted "in that pay grade" after "numbers of officers".
 
 Subsec. (d)(2). Pub. L. 100–456, §512(a), designated existing provisions as subpar. (A), struck out sentence at end which directed that each position so designated by the Secretary could be held only by an officer who had the joint specialty, and added subpars. (B) to (D).
 
-Subsec. (d)(4). Pub. L. 100–456, §517(a), substituted “25 percent” for “one-third”.
+Subsec. (d)(4). Pub. L. 100–456, §517(a), substituted "25 percent" for "one-third".
 
 Subsec. (f). Pub. L. 100–456, §518, added subsec. (f).
 
 <b>1987</b>—Subsec. (b)(3). Pub. L. 100–180, §1301(a)(1), added par. (3).
 
-Subsec. (c)(1)(B). Pub. L. 100–180, §1301(b)(1), inserted “(as described in section 664(f)(1) or (f)(3) of this title)” after “joint duty assignment”.
+Subsec. (c)(1)(B). Pub. L. 100–180, §1301(b)(1), inserted "(as described in section 664(f)(1) or (f)(3) of this title)" after "joint duty assignment".
 
-Subsec. (c)(2)(A). Pub. L. 100–180, §1301(b)(2)(A)–(C), designated existing provisions as subpar. (A), substituted “An officer (other than a general or flag officer) who has a military occupational specialty that is” for “An officer who has” and “full tour of duty in a joint duty assignment (as described in section 664(f)(2) of this title)” for “joint duty assignment of not less than two years”, and struck out provisions that an officer selected for the joint specialty complete generally applicable requirements for selection under par. (1)(B) as soon as practicable after such officer's selection.
+Subsec. (c)(2)(A). Pub. L. 100–180, §1301(b)(2)(A)–(C), designated existing provisions as subpar. (A), substituted "An officer (other than a general or flag officer) who has a military occupational specialty that is" for "An officer who has" and "full tour of duty in a joint duty assignment (as described in section 664(f)(2) of this title)" for "joint duty assignment of not less than two years", and struck out provisions that an officer selected for the joint specialty complete generally applicable requirements for selection under par. (1)(B) as soon as practicable after such officer's selection.
 
 Subsec. (c)(2)(B). Pub. L. 100–180, §1301(b)(2)(D), added subpar. (B).
 
 Subsec. (c)(3). Pub. L. 100–180, §1301(b)(3), added par. (3).
 
-Subsec. (d)(1). Pub. L. 100–180, §1302(a)(1), added subpars. (A) and (B) and substituted “by officers who—” for “by officers who have (or have been nominated for) the joint specialty.” in introductory provisions.
+Subsec. (d)(1). Pub. L. 100–180, §1302(a)(1), added subpars. (A) and (B) and substituted "by officers who—" for "by officers who have (or have been nominated for) the joint specialty." in introductory provisions.
 
-Subsec. (d)(2) to (4). Pub. L. 100–180, §1302(b), added pars. (2) to (4) and struck out former par. (2) which read as follows: “The Secretary of Defense shall designate not fewer than 1,000 joint duty assignment positions as critical joint duty assignment positions. Each such position shall be held only by an officer with the joint specialty.”
+Subsec. (d)(2) to (4). Pub. L. 100–180, §1302(b), added pars. (2) to (4) and struck out former par. (2) which read as follows: "The Secretary of Defense shall designate not fewer than 1,000 joint duty assignment positions as critical joint duty assignment positions. Each such position shall be held only by an officer with the joint specialty."
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–364, div. A, title V, §516(f), Oct. 17, 2006, 120 Stat. 2189, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 2007.”
+Pub. L. 109–364, div. A, title V, §516(f), Oct. 17, 2006, 120 Stat. 2189, provided that: "The amendments made by this section \[amending this section\] shall take effect on October 1, 2007."
 
 #### Treatment of Current Joint Specialty Officers
 
-Pub. L. 109–364, div. A, title V, §516(g), Oct. 17, 2006, 120 Stat. 2189, provided that: “For the purposes of chapter 38 of title 10, United States Code, and sections 154, 164, and 619a of such title, an officer who, as of September 30, 2007, has been selected for or has the joint specialty under section 661 of such title, as in effect on that date, shall be considered after that date to be an officer designated as joint qualified by the Secretary of Defense under section 661(b)(2) of such title, as amended by this section.”
+Pub. L. 109–364, div. A, title V, §516(g), Oct. 17, 2006, 120 Stat. 2189, provided that: "For the purposes of chapter 38 of title 10, United States Code, and sections 154, 164, and 619a of such title, an officer who, as of September 30, 2007, has been selected for or has the joint specialty under section 661 of such title, as in effect on that date, shall be considered after that date to be an officer designated as joint qualified by the Secretary of Defense under section 661(b)(2) of such title, as amended by this section."
 
 #### Implementation Plan
 
 Pub. L. 109–364, div. A, title V, §516(h), Oct. 17, 2006, 120 Stat. 2189, provided that:
 
-“(1)
+"(1)
 
 Plan required.—Not later than March 31, 2007, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a plan for the implementation of the joint officer management system, which will take effect on October 1, 2007, as provided in subsection (f) \[set out above\], as a result of the amendments made by this section \[amending this section\] and other provisions of this Act \[see Tables for classification\] to provisions of chapter 38 of title 10, United States Code.
 
-“(2)
+"(2)
 
 Elements of plan.—In developing the plan required by this subsection, the Secretary shall pay particular attention to matters related to the transition of officers from the joint specialty system in effect before October 1, 2007, to the joint officer management system in effect after that date. At a minimum, the plan shall include the following:
 
-&emsp;“(A) The policies and criteria to be used for designating officers as joint qualified on the basis of service performed by such officers before that date, had the amendments made by this section and other provisions of this Act to provisions of chapter 38 of title 10, United States Code, taken effect before the date of the enactment of this Act \[Oct. 17, 2006\].
+&emsp;"(A) The policies and criteria to be used for designating officers as joint qualified on the basis of service performed by such officers before that date, had the amendments made by this section and other provisions of this Act to provisions of chapter 38 of title 10, United States Code, taken effect before the date of the enactment of this Act \[Oct. 17, 2006\].
 
-&emsp;“(B) The policies and criteria prescribed by the Secretary of Defense to be used in making determinations under section 661(c)(1)(B)(ii) of such title, as amended by this section.
+&emsp;"(B) The policies and criteria prescribed by the Secretary of Defense to be used in making determinations under section 661(c)(1)(B)(ii) of such title, as amended by this section.
 
-&emsp;“(C) The recommendations of the Secretary for any legislative changes that may be necessary to effectuate the joint officer management system.”
+&emsp;"(C) The recommendations of the Secretary for any legislative changes that may be necessary to effectuate the joint officer management system."
 
 #### Exclusion of Certain Officers From Limitation on Authority To Grant a Waiver of Required Completion or Sequencing for Joint Professional Military Education
 
@@ -188,41 +188,41 @@ Pub. L. 102–484, div. A, title IV, §404, Oct. 23, 1992, 106 Stat. 2398, direc
 
 Pub. L. 99–433, title IV, §406(a)–(c), Oct. 1, 1986, 100 Stat. 1033, as amended by Pub. L. 100–456, div. A, title V, §516, Sept. 29, 1988, 102 Stat. 1971, provided that:
 
-“(a)
+"(a)
 
 Joint Duty Assignments.—(1) Section 661(d) of title 10, United States Code, shall be implemented as rapidly as possible and (except as provided under paragraph (2)) not later than October 1, 1989.
 
-“(2) The first sentence of section 661(d)(2)(B) of such title shall apply with respect to positions designated under the first sentence of section 661(d)(2)(A) of that title as critical joint duty assignment positions which become vacant after January 1, 1989.
+"(2) The first sentence of section 661(d)(2)(B) of such title shall apply with respect to positions designated under the first sentence of section 661(d)(2)(A) of that title as critical joint duty assignment positions which become vacant after January 1, 1989.
 
-“(b)
+"(b)
 
 Joint Specialty.—
 
-&emsp;“(1)
+&emsp;"(1)
 
-Initial selections.—(A) In making the initial selections of officers for the joint specialty under section 661 of title 10, United States Code (as added bysection 401 of this Act), the Secretary of Defense may waive the requirement of either subparagraph (A) or (B) (but not both) of subsection (c)(1) of such section in the case of any officer in a grade above captain or, in the case of the Navy, lieutenant.
+Initial selections.—(A) In making the initial selections of officers for the joint specialty under section 661 of title 10, United States Code (as added by section 401 of this Act), the Secretary of Defense may waive the requirement of either subparagraph (A) or (B) (but not both) of subsection (c)(1) of such section in the case of any officer in a grade above captain or, in the case of the Navy, lieutenant.
 
-&emsp;“(B) In applying such subparagraph (B) to the initial selections of officers for the joint specialty, the Secretary may in the case of any officer—
+&emsp;"(B) In applying such subparagraph (B) to the initial selections of officers for the joint specialty, the Secretary may in the case of any officer—
 
-&emsp;&emsp;“(i) waive the requirement that a joint duty assignment be served after the officer has completed an appropriate program at a joint professional military education school;
+&emsp;&emsp;"(i) waive the requirement that a joint duty assignment be served after the officer has completed an appropriate program at a joint professional military education school;
 
-&emsp;&emsp;“(ii) waive the requirement for the length of a joint duty assignment in the case of a joint duty assignment begun by an officer before January 1, 1987, if the officer served in that assignment for a period of sufficient duration (which may not be less than 12 months) to have been considered a full tour of duty under the policies and regulations in effect on September 30, 1986; or
+&emsp;&emsp;"(ii) waive the requirement for the length of a joint duty assignment in the case of a joint duty assignment begun by an officer before January 1, 1987, if the officer served in that assignment for a period of sufficient duration (which may not be less than 12 months) to have been considered a full tour of duty under the policies and regulations in effect on September 30, 1986; or
 
-&emsp;&emsp;“(iii) consider as a joint duty assignment any tour of duty begun by an officer before October 1, 1986, that involved significant experience in joint matters (as determined by the Secretary) if the officer served in that assignment for a period of sufficient duration (which may not be less than 12 months) for his service to have been considered a full tour of duty under the policies and regulations in effect on September 30, 1986.
+&emsp;&emsp;"(iii) consider as a joint duty assignment any tour of duty begun by an officer before October 1, 1986, that involved significant experience in joint matters (as determined by the Secretary) if the officer served in that assignment for a period of sufficient duration (which may not be less than 12 months) for his service to have been considered a full tour of duty under the policies and regulations in effect on September 30, 1986.
 
-&emsp;“(C) A waiver under subparagraph (A) of this paragraph or under any provision of subparagraph (B) of this paragraph may only be made on a case-by-case basis.
+&emsp;"(C) A waiver under subparagraph (A) of this paragraph or under any provision of subparagraph (B) of this paragraph may only be made on a case-by-case basis.
 
-&emsp;“(D) The authority of the Secretary of Defense to grant a waiver under subparagraph (A) or (B) of this paragraph may be delegated only to the Deputy Secretary of Defense.
+&emsp;"(D) The authority of the Secretary of Defense to grant a waiver under subparagraph (A) or (B) of this paragraph may be delegated only to the Deputy Secretary of Defense.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Requirement for high standards.—In exercising the authority provided by paragraph (1), the Secretary of Defense shall ensure that the highest standards of performance, education, and experience are established and maintained for officers selected for the joint specialty.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Sunset.—The authority provided by paragraph (1) shall expire on October 1, 1989.
 
-“(c)
+"(c)
 
-Career Guidelines.—The career guidelines required to be established by section 661(e) of such title, the procedures required to be established by section 665(a) of such title, and the personnel policies required to be established by section 666 of such title (as added by section 401) shall be established not later than the end of the eight-month period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. The provisions of section 665(b) of such title shall be implemented not later than the end of such period.”
+Career Guidelines.—The career guidelines required to be established by section 661(e) of such title, the procedures required to be established by section 665(a) of such title, and the personnel policies required to be established by section 666 of such title (as added by section 401) shall be established not later than the end of the eight-month period beginning on the date of the enactment of this Act \[Oct. 1, 1986\]. The provisions of section 665(b) of such title shall be implemented not later than the end of such period."
 

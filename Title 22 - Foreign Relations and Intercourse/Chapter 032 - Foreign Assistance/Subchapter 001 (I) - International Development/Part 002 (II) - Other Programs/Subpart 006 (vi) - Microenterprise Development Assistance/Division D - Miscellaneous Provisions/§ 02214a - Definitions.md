@@ -4,27 +4,27 @@ In this subpart:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Agency.
+&emsp;The term "Administrator" means the Administrator of the Agency.
 
 #### (2) Agency
 
-&emsp;The term “Agency” means the United States Agency for International Development.
+&emsp;The term "Agency" means the United States Agency for International Development.
 
 #### (3) Appropriate congressional committees
 
-&emsp;The term “appropriate congressional committees” means the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate.
+&emsp;The term "appropriate congressional committees" means the Committee on International Relations of the House of Representatives and the Committee on Foreign Relations of the Senate.
 
 #### (4) Business development services
 
-&emsp;The term “business development services” means support for the growth of microenterprises through training, technical assistance, marketing assistance, improved production technologies, and other related services.
+&emsp;The term "business development services" means support for the growth of microenterprises through training, technical assistance, marketing assistance, improved production technologies, and other related services.
 
 #### (5) Director
 
-&emsp;The term “Director” means the Director of the office.
+&emsp;The term "Director" means the Director of the office.
 
 #### (6) Implementing partner organization
 
-&emsp;The term “implementing partner organization” means an entity eligible to receive assistance under this subpart which is—
+&emsp;The term "implementing partner organization" means an entity eligible to receive assistance under this subpart which is—
 
 &emsp;&emsp;(A) a United States or an indigenous private voluntary organization;
 
@@ -42,27 +42,27 @@ In this subpart:
 
 #### (7) Microenterprise institution
 
-&emsp;The term “microenterprise institution” means a not-for-profit entity that provides services, including microfinance, training, or business development services, for microenterprise clients in foreign countries.
+&emsp;The term "microenterprise institution" means a not-for-profit entity that provides services, including microfinance, training, or business development services, for microenterprise clients in foreign countries.
 
 #### (8) Microfinance institution
 
-&emsp;The term “microfinance institution” means a not-for-profit entity or a regulated financial intermediary that directly provides, or works to expand, the availability of credit, savings, and other financial services to microfinance and microenterprise clients in foreign countries.
+&emsp;The term "microfinance institution" means a not-for-profit entity or a regulated financial intermediary that directly provides, or works to expand, the availability of credit, savings, and other financial services to microfinance and microenterprise clients in foreign countries.
 
 #### (9) Microfinance network
 
-&emsp;The term “microfinance network” means an affiliated group of practitioner institutions that provides services to its members, including financing, technical assistance, and accreditation, for the purpose of promoting the financial sustainability and societal impact of microenterprise assistance.
+&emsp;The term "microfinance network" means an affiliated group of practitioner institutions that provides services to its members, including financing, technical assistance, and accreditation, for the purpose of promoting the financial sustainability and societal impact of microenterprise assistance.
 
 #### (10) Office
 
-&emsp;The term “office” means the office of microenterprise development established under section 2211a(b)(1) of this title.
+&emsp;The term "office" means the office of microenterprise development established under section 2211a(b)(1) of this title.
 
 #### (11) Practitioner institution
 
-&emsp;The term “practitioner institution” means a not-for-profit entity or a regulated financial intermediary, including a microfinance network, that provides services, including microfinance, training, or business development services, for microfinance and microenterprise clients, or provides assistance to microenterprise institutions in foreign countries.
+&emsp;The term "practitioner institution" means a not-for-profit entity or a regulated financial intermediary, including a microfinance network, that provides services, including microfinance, training, or business development services, for microfinance and microenterprise clients, or provides assistance to microenterprise institutions in foreign countries.
 
 #### (12) Private voluntary organization
 
-&emsp;The term “private voluntary organization” means a not-for-profit entity that—
+&emsp;The term "private voluntary organization" means a not-for-profit entity that—
 
 &emsp;&emsp;(A) engages in and supports activities of an economic or social development or humanitarian nature for citizens in foreign countries; and
 
@@ -70,11 +70,11 @@ In this subpart:
 
 #### (13) United States-supported microfinance institution
 
-&emsp;The term “United States-supported microfinance institution” means a financial intermediary that has received funds made available under subchapter I of this chapter for fiscal year 1980 or any subsequent fiscal year.
+&emsp;The term "United States-supported microfinance institution" means a financial intermediary that has received funds made available under subchapter I of this chapter for fiscal year 1980 or any subsequent fiscal year.
 
 #### (14) Very poor
 
-&emsp;The term “very poor” means those individuals—
+&emsp;The term "very poor" means those individuals—
 
 &emsp;&emsp;(A) living in the bottom 50 percent below the poverty line established by the national government of the country in which those individuals live; or
 

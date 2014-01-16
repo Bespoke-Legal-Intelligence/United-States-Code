@@ -24,11 +24,11 @@
 
 #### (A) In general
 
-&emsp;&emsp;The term “medicare administrative contractor” means an agency, organization, or other person with a contract under this section.
+&emsp;&emsp;The term "medicare administrative contractor" means an agency, organization, or other person with a contract under this section.
 
 #### (B) Appropriate medicare administrative contractor
 
-&emsp;&emsp;With respect to the performance of a particular function in relation to an individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, a specific provider of services or supplier (or class of such providers of services or suppliers), the “appropriate” medicare administrative contractor is the medicare administrative contractor that has a contract under this section with respect to the performance of that function in relation to that individual, provider of services or supplier or class of provider of services or supplier.
+&emsp;&emsp;With respect to the performance of a particular function in relation to an individual entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, a specific provider of services or supplier (or class of such providers of services or suppliers), the "appropriate" medicare administrative contractor is the medicare administrative contractor that hasa contract under this section with respect to the performance of that function in relation to that individual, provider of services or supplier or class of provider of services or supplier.
 
 #### (4) Functions described
 
@@ -218,7 +218,7 @@
 
 #### (i) New contractors
 
-&emsp;&emsp;&emsp;In the case of a medicare administrative contractor covered by this subsection that has not previously performed the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) as a fiscal intermediary or carrier under section 1395h or 1395u of this title, the first independent evaluation conducted pursuant to subparagraph (A) shall be completed prior to commencing such functions.
+&emsp;&emsp;&emsp;In the case of a medicare administrative contractor covered by this subsection that has not previously performed the functions referred to in subparagraphs (A) and (B) of subsection (a)(4) of this section (relating to determining and making payments) as afiscal intermediary or carrier under section 1395h or 1395u of this title, the first independent evaluation conducted pursuant to subparagraph (A) shall be completed prior to commencing such functions.
 
 #### (ii) Other contractors
 
@@ -250,7 +250,7 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 #### (2) Response to written inquiries
 
-&emsp;Each medicare administrative contractor shall, for those providers of services and suppliers which submit claims to the contractor for claims processing and for those individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, with respect to whom claims are submitted for claims processing, provide general written responses (which may be through electronic transmission) in a clear,concise, and accurate manner to inquiries of providers of services, suppliers, and individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, concerning the programs under this subchapter within 45 business days of the date of receipt of such inquiries.
+&emsp;Each medicare administrative contractor shall, for those providers of services and suppliers which submit claims to the contractor for claims processing and for those individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, with respect to whom claims are submitted for claims processing, provide general written responses (which may be through electronic transmission) in a clear, concise, and accurate manner to inquiries of providers of services, suppliers, and individuals entitled to benefits under part A of this subchapter or enrolled under part B of this subchapter, or both, concerning the programs under this subchapter within 45 business days of the date of receipt of such inquiries.
 
 #### (3) Response to toll-free lines
 
@@ -284,17 +284,17 @@ The Secretary shall use specific claims payment error rates or similar methodolo
 
 &emsp;There are authorized to be appropriated such sums as are necessary to carry out this subsection.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1874A, as added and amended Pub. L. 108–173, title IX, §§911(a)(1), 912(a), 921(b)(1), (c)(1), 934(a), 940A(b), Dec. 8, 2003, 117 Stat. 2378, 2387–2389, 2406, 2417; Pub. L. 111–152, title I, §1302, Mar. 30, 2010, 124 Stat. 1057.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1874A, as added and amended Pub. L. 108–173, title IX,§§911(a)(1), 912(a), 921(b)(1), (c)(1), 934(a), 940A(b), Dec. 8, 2003, 117 Stat. 2378, 2387–2389, 2406, 2417; Pub. L. 111–152, title I, §1302, Mar. 30, 2010, 124 Stat. 1057.)
 
 #### Codification
 
-In subsec. (b)(1)(B), “section 6101 of title 41” substituted for “section 5 of title 41, United States Code,” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b)(1)(B), "section 6101 of title 41" substituted for "section 5 of title 41, United States Code," on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
 <b>2010</b>—Subsec. (h). Pub. L. 111–152 struck out subsec. (h) which related to conduct of prepayment review.
 
-<b>2003</b>—Subsec. (b)(3)(A)(i). Pub. L. 108–173, §940A(b), inserted at end “Such requirements shall include specific performance duties expected of a medical director of a medicare administrative contractor, including requirements relating to professional relations and the availability of such director to conduct medical determination activities within the jurisdiction of such a contractor.”
+<b>2003</b>—Subsec. (b)(3)(A)(i). Pub. L. 108–173, §940A(b), inserted at end "Such requirements shall include specific performance duties expected of a medical director of a medicare administrative contractor, including requirements relating to professional relations and the availability of such director to conduct medical determination activities within the jurisdiction of such a contractor."
 
 Subsec. (e). Pub. L. 108–173, §912(a), added subsec. (e).
 
@@ -306,233 +306,233 @@ Subsec. (h). Pub. L. 108–173, §934(a), added subsec. (h).
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–173, title IX, §921(c)(2), Dec. 8, 2003, 117 Stat. 2390, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect October 1, 2004.”
+Pub. L. 108–173, title IX, §921(c)(2), Dec. 8, 2003, 117 Stat. 2390, provided that: "The amendment made by paragraph (1) \[amending this section\] shall take effect October 1, 2004."
 
 Pub. L. 108–173, title IX, §934(b), Dec. 8, 2003, 117 Stat. 2407, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in this subsection, the amendment made by subsection (a) \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Dec. 8, 2003\].
 
-“(2)
+"(2)
 
-Deadline for promulgation of certain regulations.—The Secretary \[of Health and Human Services\] shall first issue regulations under section 1874A(h) of the Social Security Act \[subsec. (h) of this section\], as added by subsection (a), by not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\].
+Deadline for promulgation of certain regulations.—The Secretary \[of Health and Human Services\] shall first issue regulations under section 1874A(h) of the Social Security Act \[42 U.S.C. 1395kk–1(h)\], as added by subsection (a), by not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\].
 
-“(3)
+"(3)
 
-Application of standard protocols for random prepayment review.—Section 1874A(h)(1)(B) of the Social Security Act \[subsec. (h)(1)(B) of this section\], as added by subsection (a), shall apply to random prepayment reviews conducted on or after such date (not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\]) as the Secretary shall specify.”
+Application of standard protocols for random prepayment review.—Section 1874A(h)(1)(B) of the Social Security Act \[42 U.S.C. 1395kk–1(h)(1)(B)\], as added by subsection (a), shall apply to random prepayment reviews conducted on or after such date (not later than 1 year after the date of the enactment of this Act \[Dec. 8, 2003\]) as the Secretary shall specify."
 
 #### Effective Date; Transition Rule
 
 Pub. L. 108–173, title IX, §911(d), Dec. 8, 2003, 117 Stat. 2385, provided that:
 
-“(1)
+"(1)
 
 Effective date.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[enacting this section and amending sections 1395h and 1395u of this title\] shall take effect on October 1, 2005, and the Secretary \[of Health and Human Services\] is authorized to take such steps before such date as may be necessary to implement such amendments on a timely basis.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Construction for current contracts.—Such amendments shall not apply to contracts in effect before the date specified under subparagraph (A) that continue to retain the terms and conditions in effect on such date (except as otherwise provided under this Act \[see Tables for classification\], other than under this section) until such date as the contract is let out for competitive bidding under such amendments.
 
-&emsp;“(C)
+&emsp;"(C)
 
-Deadline for competitive bidding.—The Secretary shall provide for the letting by competitivebidding of all contracts for functions of medicare administrative contractors for annual contract periods that begin on or after October 1, 2011.
+Deadline for competitive bidding.—The Secretary shall provide for the letting by competitive bidding of all contracts for functions of medicare administrative contractors for annual contract periods that begin on or after October 1, 2011.
 
-“(2)
+"(2)
 
 General transition rules.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Authority to continue to enter into new agreements and contracts and waiver of provider nomination provisions during transition.—Prior to October 1, 2005, the Secretary may, consistent with subparagraph (B), continue to enter into agreements under section 1816 and contracts under section 1842 of the Social Security Act (42 U.S.C. 1395h, 1395u). The Secretary may enter into new agreements under section 1816 prior to October 1, 2005, without regard to any of the provider nomination provisions of such section.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Appropriate transition.—The Secretary shall take such steps as are necessary to provide for an appropriate transition from agreements under section 1816 and contracts under section 1842 of the Social Security Act (42 U.S.C. 1395h, 1395u) to contracts under section 1874A \[this section\], as added by subsection (a)(1).
+Appropriate transition.—The Secretary shall take such steps as are necessary to provide for an appropriate transition from agreements under section 1816 and contracts under section 1842 of the Social Security Act (42 U.S.C. 1395h, 1395u) to contracts under section 1874A \[42 U.S.C. 1395kk–1\], as added by subsection (a)(1).
 
-“(3)
+"(3)
 
-Authorizing continuation of mip functions under current contracts and agreements and under transition contracts.—Notwithstanding the amendments made by this section \[enacting this section and amending sections 1395h and 1395u of this title\], the provisions contained in the exception in section 1893(d)(2) of the Social Security Act (42 U.S.C. 1395ddd(d)(2)) shall continue to apply during the period that begins on the date of the enactment of this Act \[Dec. 8, 2003\] and ends on October 1, 2011, and any reference in such provisions to an agreement or contract shall be deemed to include a contract under section 1874A of such Act \[this section\], as inserted by subsection (a)(1), that continues the activities referred to in such provisions.”
+Authorizing continuation of mip functions under current contracts and agreements and under transition contracts.—Notwithstanding the amendments made by this section \[enacting this section and amending sections 1395h and 1395u of this title\], the provisions contained in the exception in section 1893(d)(2) of the Social Security Act (42 U.S.C. 1395ddd(d)(2)) shall continue to apply during the period that begins on the date of the enactment of this Act \[Dec. 8, 2003\] and ends on October 1, 2011, and any reference in such provisions to an agreement or contract shall be deemed to include a contract under section 1874A of such Act \[42 U.S.C. 1395kk–1\], as inserted by subsection (a)(1), that continues the activities referred to in such provisions."
 
 #### Construction
 
-Pub. L. 108–173, title IX, §901(a), Dec. 8, 2003, 117 Stat. 2374, provided that: “Nothing in this title \[see Tables for classification\] shall be construed—
+Pub. L. 108–173, title IX, §901(a), Dec. 8, 2003, 117 Stat. 2374, provided that: "Nothing in this title \[see Tables for classification\] shall be construed—
 
-&emsp;“(1) to compromise or affect existing legal remedies for addressing fraud or abuse, whether it be criminal prosecution, civil enforcement, or administrative remedies, including under sections 3729 through 3733 of title 31, United States Code (commonly known as the ‘False Claims Act’); or
+&emsp;"(1) to compromise or affect existing legal remedies for addressing fraud or abuse, whether it be criminal prosecution, civil enforcement, or administrative remedies, including under sections 3729 through 3733 of title 31, United States Code (commonly known as the 'False Claims Act'); or
 
-&emsp;“(2) to prevent or impede the Department of Health and Human Services in any way from its ongoing efforts to eliminate waste, fraud, and abuse in the medicare program.
+&emsp;"(2) to prevent or impede the Department of Health and Human Services in any way from its ongoing efforts to eliminate waste, fraud, and abuse in the medicare program.
 
-> Furthermore, the consolidation of medicare administrative contracting set forth in this division \[Pub. L. 108–173 does not contain any divisions\] does not constitute consolidation of the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund or reflect any position on that issue.”
+> Furthermore, the consolidation of medicare administrative contracting set forth in this division \[Pub. L. 108–173 does not contain any divisions\] does not constitute consolidation of the Federal Hospital Insurance Trust Fund and the Federal Supplementary Medical Insurance Trust Fund or reflect any position on that issue."
 
 #### Consideration of Incorporation of Current Law Standards
 
-Pub. L. 108–173, title IX, §911(a)(2), Dec. 8, 2003, 117 Stat. 2383, provided that: “In developing contract performance requirements under section 1874A(b) of the Social Security Act \[subsec. (b) of this section\], as inserted by paragraph (1), the Secretary \[of Health and Human Services\] shall consider inclusion of the performance standards described in sections 1816(f)(2) of such Act \[section 1395h(f)(2) of this title\] (relating to timely processing of reconsiderations and applications for exemptions) and section 1842(b)(2)(B) of such Act \[section 1395u(b)(2)(B) of this title\] (relating to timely review of determinations and fair hearing requests), as such sections were in effect before the date of the enactment of this Act \[Dec. 8, 2003\].”
+Pub. L. 108–173, title IX, §911(a)(2), Dec. 8, 2003, 117 Stat. 2383, provided that: "In developing contract performance requirements under section 1874A(b) of the Social Security Act \[42 U.S.C. 1395kk–1(b)\], as inserted by paragraph (1), the Secretary \[of Health and Human Services\] shall consider inclusion of the performance standards described in sections 1816(f)(2) of such Act \[42 U.S.C. 1395h(f)(2)\] (relating to timely processing of reconsiderations and applications for exemptions) and section 1842(b)(2)(B) of such Act \[42 U.S.C. 1395u(b)(2)(B)\] (relating to timely review of determinations and fair hearing requests), as such sections were in effect before the date of the enactment of this Act \[Dec. 8, 2003\]."
 
 #### References
 
-Pub. L. 108–173, title IX, §911(e), Dec. 8, 2003, 117 Stat. 2386, provided that: “On and after the effective date provided under subsection (d)(1) \[set out above\], any reference to a fiscal intermediary or carrier under title XI or XVIII of the Social Security Act \[subchapter XI of this chapter and this subchapter\] (or any regulation, manual instruction, interpretative rule, statement of policy, or guideline issued to carry out such titles) shall be deemed a reference to a medicare administrative contractor (as provided under section 1874A of the Social Security Act \[this section\]).”
+Pub. L. 108–173, title IX, §911(e), Dec. 8, 2003, 117 Stat. 2386, provided that: "On and after the effective dateprovided under subsection (d)(1) \[set out above\], any reference to a fiscal intermediary or carrier under title XI or XVIII of the Social Security Act \[42 U.S.C. 1301 et seq., 1395 et seq.\] (or any regulation, manual instruction, interpretative rule, statement of policy, or guideline issued to carry out such titles) shall be deemed a reference to a medicare administrative contractor (as provided under section 1874A of the Social Security Act \[42 U.S.C. 1395kk–1\])."
 
 #### Secretarial Submission of Legislative Proposal
 
-Pub. L. 108–173, title IX, §911(f), Dec. 8, 2003, 117 Stat. 2386, provided that: “Not later than 6 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall submit to the appropriate committees of Congress a legislative proposal providing for such technical and conforming amendments in the law as are required by the provisions of this section \[enacting this section, amending sections 1395h and 1395u of this title, and enacting provisions set out as notes under this section\].”
+Pub. L. 108–173, title IX, §911(f), Dec. 8, 2003, 117 Stat. 2386, provided that: "Not later than 6 months after the date of the enactment of this Act \[Dec. 8, 2003\], the Secretary \[of Health and Human Services\] shall submit to the appropriate committees of Congress a legislative proposal providing for such technical and conforming amendments in the law as are required by the provisions of this section \[enacting this section, amending sections 1395h and 1395u of this title, and enacting provisions set out as notes under this section\]."
 
 #### Reports on Implementation
 
 Pub. L. 108–173, title IX, §911(g), Dec. 8, 2003, 117 Stat. 2386, provided that:
 
-“(1)
+"(1)
 
 Plan for implementation.—By not later than October 1, 2004, the Secretary \[of Health and Human Services\] shall submit a report to Congress and the Comptroller General of the United States that describes the plan for implementation of the amendments made by this section \[enacting this section and amending sections 1395h and 1395u of this title\]. The Comptroller General shall conduct an evaluation of such plan and shall submit to Congress, not later than 6 months after the date the report is received, a report on such evaluation and shall include in such report such recommendations as the Comptroller General deems appropriate.
 
-“(2)
+"(2)
 
 Status of implementation.—The Secretary shall submit a report to Congress not later than October 1, 2008, that describes the status of implementation of such amendments and that includes a description of the following:
 
-&emsp;“(A) The number of contracts that have been competitively bid as of such date.
+&emsp;"(A) The number of contracts that have been competitively bid as of such date.
 
-&emsp;“(B) The distribution of functions among contracts and contractors.
+&emsp;"(B) The distribution of functions among contracts and contractors.
 
-&emsp;“(C) A timeline for complete transition to full competition.
+&emsp;"(C) A timeline for complete transition to full competition.
 
-&emsp;“(D) A detailed description of how the Secretary has modified oversight and management of medicare contractors to adapt to full competition.”
+&emsp;"(D) A detailed description of how the Secretary has modified oversight and management of medicare contractors to adapt to full competition."
 
 #### Application to Fiscal Intermediaries and Carriers
 
 Pub. L. 108–173, title IX, §912(b), Dec. 8, 2003, 117 Stat. 2388, provided that:
 
-“(1)
+"(1)
 
-In general.—The provisions of section 1874A(e)(2) of the Social Security Act \[subsec. (e)(2) of this section\] (other than subparagraph (B)), as added by subsection (a), shall apply to each fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions.
+In general.—The provisions of section 1874A(e)(2) of the Social Security Act \[42 U.S.C. 1395kk–1(e)(2)\] (other than subparagraph (B)), as added by subsection (a), shall apply to each fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions.
 
-“(2)
+"(2)
 
-Deadline for initial evaluation.—In the case of such a fiscal intermediary or carrier with an agreement or contract under such respective section in effect as of the date of the enactment of this Act \[Dec. 8, 2003\], the first evaluation under section 1874A(e)(2)(A) of the Social Security Act \[subsec. (e)(2)(A) of this section\] (as added by subsection (a)), pursuant to paragraph (1), shall be completed (and a report on the evaluation submitted to the Secretary \[of Health and Human Services\]) by not later than 1 year after such date.”
+Deadline for initial evaluation.—In the case of such a fiscal intermediary or carrier with an agreement or contract under such respective section in effect as of the date of the enactment of this Act \[Dec. 8, 2003\], the first evaluation under section 1874A(e)(2)(A) of the Social Security Act \[42 U.S.C. 1395kk–1(e)(2)(A)\] (as added by subsection (a)), pursuant to paragraph (1), shall be completed (and a report on the evaluation submitted to the Secretary \[of Health and Human Services\]) by not later than 1 year after such date."
 
-Pub. L. 108–173, title IX, §921(b)(2), Dec. 8, 2003, 117 Stat. 2389, provided that: “The provisions of section 1874A(f) of the Social Security Act \[subsec. (f) of this section\], as added by paragraph (1), shall apply to eachfiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions.”
+Pub. L. 108–173, title IX, §921(b)(2), Dec. 8, 2003, 117 Stat. 2389, provided that: "The provisions of section 1874A(f) of the Social Security Act \[42 U.S.C. 1395kk–1(f)\], as added by paragraph (1), shall apply to each fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions."
 
-Pub. L. 108–173, title IX, §921(c)(3), Dec. 8, 2003, 117 Stat. 2390, provided that: “The provisions of section 1874A(g) of the Social Security Act \[subsec. (g) of this section\], as added by paragraph (1), shall apply to each fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions.”
+Pub. L. 108–173, title IX, §921(c)(3), Dec. 8, 2003, 117 Stat. 2390, provided that: "The provisions of section 1874A(g) of the Social Security Act \[42 U.S.C. 1395kk–1(g)\], as added by paragraph (1), shall apply to each fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions."
 
-Pub. L. 108–173, title IX, §934(c), Dec. 8, 2003, 117 Stat. 2407, provided that: “The provisions of section 1874A(h) of the Social Security Act \[subsec. (h) of this section\], as added by subsection (a), shall apply to each fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions.”
+Pub. L. 108–173, title IX, §934(c), Dec. 8, 2003, 117 Stat. 2407, provided that: "The provisions of section 1874A(h) of the Social Security Act \[42 U.S.C. 1395kk–1(h)\], as added by subsection (a), shall apply to each fiscal intermediary under section 1816 of the Social Security Act (42 U.S.C. 1395h) and each carrier under section 1842 of such Act (42 U.S.C. 1395u) in the same manner as they apply to medicare administrative contractors under such provisions."
 
 #### Policy Development Regarding Evaluation and Management (E \& M) Documentation Guidelines
 
 Pub. L. 108–173, title IX, §941, Dec. 8, 2003, 117 Stat. 2418, provided that:
 
-“(a)
+"(a)
 
-In General.—The Secretary \[of Health and Human Services\] may not implement any new or modified documentation guidelines (which for purposes of this section includes clinical examples) for evaluation and management physician services under the \[sic\] title XVIII of the Social Security Act \[this subchapter\] on or after the date of the enactment of this Act \[Dec. 8, 2003\] unless the Secretary—
+In General.—The Secretary \[of Health and Human Services\] may not implement any new or modified documentation guidelines (which for purposes of this section includes clinical examples) for evaluation and management physician services under the \[sic\] title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] on or after the date of the enactment of this Act \[Dec. 8, 2003\] unless the Secretary—
 
-&emsp;“(1) has developed the guidelines in collaboration with practicing physicians (including both generalists and specialists) and provided for an assessment of the proposed guidelines by the physician community;
+&emsp;"(1) has developed the guidelines in collaboration with practicing physicians (including both generalists and specialists) and provided for an assessment of the proposed guidelines by the physician community;
 
-&emsp;“(2) has established a plan that contains specific goals, including a schedule, for improving the use of such guidelines;
+&emsp;"(2) has established a plan that contains specific goals, including a schedule, for improving the use of such guidelines;
 
-&emsp;“(3) has conducted appropriate and representative pilot projects under subsection (b) to test such guidelines;
+&emsp;"(3) has conducted appropriate and representative pilot projects under subsection (b) to test such guidelines;
 
-&emsp;“(4) finds, based on reports submitted under subsection (b)(5) with respect to pilot projects conducted for such or related guidelines, that the objectives described in subsection (c) will be met in the implementation of such guidelines; and
+&emsp;"(4) finds, based on reports submitted under subsection (b)(5) with respect to pilot projects conducted for such or related guidelines, that the objectives described in subsection (c) will be met in the implementation of such guidelines; and
 
-&emsp;“(5) has established, and is implementing, a program to educate physicians on the use of such guidelines and that includes appropriate outreach.
+&emsp;"(5) has established, and is implementing, a program to educate physicians on the use of such guidelines and that includes appropriate outreach.
 
 > The Secretary shall make changes to the manner in which existing evaluation and management documentation guidelines are implemented to reduce paperwork burdens on physicians.
 
-“(b)
+"(b)
 
 Pilot Projects to Test Modified or New Evaluation and Management Documentation Guidelines.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—With respect to proposed new or modified documentation guidelines referred to in subsection (a), the Secretary shall conduct under this subsection appropriate and representative pilot projects to test the proposed guidelines.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Length and consultation.—Each pilot project under this subsection shall—
 
-&emsp;&emsp;“(A) be voluntary;
+&emsp;&emsp;"(A) be voluntary;
 
-&emsp;&emsp;“(B) be of sufficient length as determined by the Secretary (but in no case to exceed 1 year) to allow for preparatory physician and medicare contractor education, analysis, and use and assessment of potential evaluation and management guidelines; and
+&emsp;&emsp;"(B) be of sufficient length as determined by the Secretary (but in no case to exceed 1 year) to allow for preparatory physician and medicare contractor education, analysis, and use and assessment of potential evaluation and management guidelines; and
 
-&emsp;&emsp;“(C) be conducted, in development and throughout the planning and operational stages of the project, in consultation with practicing physicians (including both generalists and specialists).
+&emsp;&emsp;"(C) be conducted, in development and throughout the planning and operational stages of the project, in consultation with practicing physicians (including both generalists and specialists).
 
-&emsp;“(3)
+&emsp;"(3)
 
-Range of pilot projects.—Of the pilot projects conducted under this subsection with respect to proposed new or modified documentation guidelines—
+Range of pilot projects.—Of the pilot projects conducted under this subsection with respectto proposed new or modified documentation guidelines—
 
-&emsp;&emsp;“(A) at least one shall focus on a peer review method by physicians (not employed by a medicare contractor) which evaluates medical record information for claims submitted by physicians identified as statistical outliers relative to codes used for billing purposes for such services;
+&emsp;&emsp;"(A) at least one shall focus on a peer review method by physicians (not employed by a medicare contractor) which evaluates medical record information for claims submitted by physicians identified as statistical outliers relative to codes used for billing purposes for such services;
 
-&emsp;&emsp;“(B) at least one shall focus on an alternative method to detailed guidelines based on physician documentation of face to face encounter time with a patient;
+&emsp;&emsp;"(B) at least one shall focus on an alternative method to detailed guidelines based on physician documentation of face to face encounter time with a patient;
 
-&emsp;&emsp;“(C) at least one shall be conducted for services furnished in a rural area and at least one for services furnished outside such an area; and
+&emsp;&emsp;"(C) at least one shall be conducted for services furnished in a rural area and at least one for services furnished outside such an area; and
 
-&emsp;&emsp;“(D) at least one shall be conducted in a setting where physicians bill under physicians’ services in teaching settings and at least one shall be conducted in a setting other than a teaching setting.
+&emsp;&emsp;"(D) at least one shall be conducted in a setting where physicians bill under physicians' services in teaching settings and at least one shall be conducted in a setting other than a teaching setting.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Study of impact.—Each pilot project shall examine the effect of the proposed guidelines on—
 
-&emsp;&emsp;“(A) different types of physician practices, including those with fewer than 10 full-time-equivalent employees (including physicians); and
+&emsp;&emsp;"(A) different types of physician practices, including those with fewer than 10 full-time-equivalent employees (including physicians); and
 
-&emsp;&emsp;“(B) the costs of physician compliance, including education, implementation, auditing, and monitoring.
+&emsp;&emsp;"(B) the costs of physician compliance, including education, implementation, auditing, and monitoring.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Report on pilot projects.—Not later than 6 months after the date of completion of pilot projects carried out under this subsection with respect to a proposed guideline described in paragraph (1), the Secretary shall submit to Congress a report on the pilot projects. Each such report shall include a finding by the Secretary of whether the objectives described in subsection (c) will be met in the implementation of such proposed guideline.
 
-“(c)
+"(c)
 
 Objectives for Evaluation and Management Guidelines.—The objectives for modified evaluation and management documentation guidelines developed by the Secretary shall be to—
 
-&emsp;“(1) identify clinically relevant documentation needed to code accurately and assess coding levels accurately;
+&emsp;"(1) identify clinically relevant documentation needed to code accurately and assess coding levels accurately;
 
-&emsp;“(2) decrease the level of non-clinically pertinent and burdensome documentation time and content in the physician's medical record;
+&emsp;"(2) decrease the level of non-clinically pertinent and burdensome documentation time and content in the physician's medical record;
 
-&emsp;“(3) increase accuracy by reviewers; and
+&emsp;"(3) increase accuracy by reviewers; and
 
-&emsp;“(4) educate both physicians and reviewers.
+&emsp;"(4) educate both physicians and reviewers.
 
-“(d)
+"(d)
 
 Study of Simpler, Alternative Systems of Documentation for Physician Claims.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Study.—The Secretary shall carry out a study of the matters described in paragraph (2).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Matters described.—The matters referred to in paragraph (1) are—
 
-&emsp;&emsp;“(A) the development of a simpler, alternative system of requirements for documentation accompanying claims for evaluation and management physician services for which payment is made under title XVIII of the Social Security Act \[this subchapter\]; and
+&emsp;&emsp;"(A) the development of a simpler, alternative system of requirements for documentation accompanying claims for evaluation and management physician services for which payment is made under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\]; and
 
-&emsp;&emsp;“(B) consideration of systems other than current coding and documentation requirements for payment for such physician services.
+&emsp;&emsp;"(B) consideration of systems other than current coding and documentation requirements for payment for such physician services.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Consultation with practicing physicians.—In designing and carrying out the study under paragraph (1), the Secretary shall consult with practicing physicians, including physicians who are part of group practices and including both generalists and specialists.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Application of hipaa uniform coding requirements.—In developing an alternative system under paragraph (2), the Secretary shall consider requirements of administrative simplification under part C of title XI of the Social Security Act \[part C of subchapter XI of this chapter\].
+Application of hipaa uniform coding requirements.—In developing an alternative system under paragraph (2), the Secretary shall consider requirements of administrative simplification under part C of title XI of the Social Security Act \[42 U.S.C. 1320d et seq.\].
 
-&emsp;“(5)
+&emsp;"(5)
 
 Report to congress.—
 
-&emsp;&emsp;“(A) Not later than October 1, 2005, the Secretary shall submit to Congress a report on the results of the study conducted under paragraph (1).
+&emsp;&emsp;"(A) Not later than October 1, 2005, the Secretary shall submit to Congress a report on the results of the study conducted under paragraph (1).
 
-&emsp;&emsp;“(B) The Medicare Payment Advisory Commission shall conduct an analysis of the results of thestudy included in the report under subparagraph (A) and shall submit a report on such analysis to Congress.
+&emsp;&emsp;"(B) The Medicare Payment Advisory Commission shall conduct an analysis of the results of the study included in the report under subparagraph (A) and shall submit a report on such analysis to Congress.
 
-“(e)
+"(e)
 
 Study on Appropriate Coding of Certain Extended Office Visits.—The Secretary shall conduct a study of the appropriateness of coding in cases of extended office visits in which there is no diagnosis made. Not later than October 1, 2005, the Secretary shall submit a report to Congress on such study and shall include recommendations on how to code appropriately for such visits in a manner that takes into account the amount of time the physician spent with the patient.
 
-“(f)
+"(f)
 
 Definitions.—In this section—
 
-&emsp;“(1) the term ‘rural area’ has the meaning given that term in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D)); and
+&emsp;"(1) the term 'rural area' has the meaning given that term in section 1886(d)(2)(D) of the Social Security Act (42 U.S.C. 1395ww(d)(2)(D)); and
 
-&emsp;“(2) the term ‘teaching settings’ are those settings described in section 415.150 of title 42, Code of Federal Regulations.”
+&emsp;"(2) the term 'teaching settings' are those settings described in section 415.150 of title 42, Code of Federal Regulations."
 

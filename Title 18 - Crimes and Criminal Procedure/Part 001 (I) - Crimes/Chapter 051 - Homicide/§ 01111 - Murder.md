@@ -12,21 +12,21 @@ Whoever is guilty of murder in the second degree, shall be imprisoned for any te
 
 (c) For purposes of this section—
 
-&emsp;(1) the term “assault” has the same meaning as given that term in section 113;
+&emsp;(1) the term "assault" has the same meaning as given that term in section 113;
 
-&emsp;(2) the term “child” means a person who has not attained the age of 18 years and is—
+&emsp;(2) the term "child" means a person who has not attained the age of 18 years and is—
 
 &emsp;&emsp;(A) under the perpetrator's care or control; or
 
 &emsp;&emsp;(B) at least six years younger than the perpetrator;
 
-&emsp;(3) the term “child abuse” means intentionally or knowingly causing death or serious bodily injury to a child;
+&emsp;(3) the term "child abuse" means intentionally or knowingly causing death or serious bodily injury to a child;
 
-&emsp;(4) the term “pattern or practice of assault or torture” means assault or torture engaged in on at least two occasions;
+&emsp;(4) the term "pattern or practice of assault or torture" means assault or torture engaged in on at least two occasions;
 
-&emsp;(5) the term “serious bodily injury” has the meaning set forth in section 1365; and
+&emsp;(5) the term "serious bodily injury" has the meaning set forth in section 1365; and
 
-&emsp;(6) the term “torture” means conduct, whether or not committed under the color of law, that otherwise satisfies the definition set forth in section 2340(1).
+&emsp;(6) the term "torture" means conduct, whether or not committed under the color of law, that otherwise satisfies the definition set forth in section 2340(1).
 
 (June 25, 1948, ch. 645, 62 Stat. 756; Pub. L. 98–473, title II, §1004, Oct. 12, 1984, 98 Stat. 2138; Pub. L. 99–646, §87(c)(4), Nov. 10, 1986, 100 Stat. 3623; Pub. L. 99–654, §3(a)(4), Nov. 14, 1986, 100 Stat. 3663; Pub. L. 100–690, title VII, §7025, Nov. 18, 1988, 102 Stat. 4397; Pub. L. 103–322, title VI, §60003(a)(4), Sept. 13, 1994, 108 Stat. 1969; Pub. L. 108–21, title I, §102, Apr. 30, 2003, 117 Stat. 652.)
 
@@ -36,9 +36,9 @@ Based on title 18, U.S.C., 1940 ed., §§452, 454, 567 (Mar. 4, 1909, ch. 321, �
 
 Section consolidates the punishment provision of sections 454 and 567 of title 18, U.S.C., 1940 ed., with section 452 of title 18, U.S.C., 1940 ed.
 
-The provision of said section 454 for the death penalty for first degree murder was consolidated with section 567 of said title 18, by adding the words “unless the jury qualifies its verdict by adding thereto ‘without capital punishment’ in which event he shall be sentenced to imprisonment for life”.
+The provision of said section 454 for the death penalty for first degree murder was consolidated with section 567 of said title 18, by adding the words "unless the jury qualifies its verdict by adding thereto 'without capital punishment' in which event he shall be sentenced to imprisonment for life".
 
-The punishment for second degree murder was changed and the phrase “for any term of years or for life” was substituted for the words “not less than ten years and may be imprisoned for life”. This change conforms to a uniform policy of omitting the minimum punishment.
+The punishment for second degree murder was changed and the phrase "for any term of years or for life" was substituted for the words "not less than ten years and may be imprisoned for life". This change conforms to a uniform policy of omitting the minimum punishment.
 
 Said section 567 was not included in section 2031 of this title since the rewritten punishment provision for rape removes the necessity for a qualified verdict.
 
@@ -46,17 +46,17 @@ The special maritime and territorial jurisdiction provision was added in view of
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–21, §102(1), inserted “child abuse,” after “or sexual abuse,” and “or perpetrated as part of a pattern or practice of assault or torture against a child or children;” after “robbery;”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–21, §102(1), inserted "child abuse," after "or sexual abuse," and "or perpetrated as part of a pattern or practice of assault or torture against a child or children;" after "robbery;".
 
 Subsec. (c). Pub. L. 108–21, §102(2), added subsec. (c).
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–322 amended second par. generally. Prior to amendment, second par. read as follows: “Whoever is guilty of murder in the first degree, shall suffer death unless the jury qualifies its verdict by adding thereto ‘without capital punishment’, in which event he shall be sentenced to imprisonment for life;”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–322 amended second par. generally. Prior to amendment, second par. read as follows: "Whoever is guilty of murder in the first degree, shall suffer death unless the jury qualifies its verdict by adding thereto 'without capital punishment', in which event he shall be sentenced to imprisonment for life;".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–690 inserted a comma after “arson”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–690 inserted a comma after "arson".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–646 and Pub. L. 99–654 amended subsec. (a) identically, substituting “aggravated sexual abuse or sexual abuse” for “, rape”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–646 and Pub. L. 99–654 amended subsec. (a) identically, substituting "aggravated sexual abuse or sexual abuse" for ", rape".
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–473 inserted “escape, murder, kidnapping, treason, espionage, sabotage,” after “arson”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–473 inserted "escape, murder, kidnapping, treason, espionage, sabotage," after "arson".
 
 #### Effective Date of 1986 Amendments
 

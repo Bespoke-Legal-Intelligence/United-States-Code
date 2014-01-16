@@ -10,11 +10,11 @@
 
 > shall be punished as provided in subsection (b).
 
-(3) Whoever, being engaged as a contractor or otherwise in the manufacture of any lock or key knowing that such lock or key has been adopted by any part of the Department of Defense, including all Department of Defense agencies, military departments, and agencies thereof, for use in protecting conventional arms, ammunition or explosives, special weapons, and classified information or classified equipment, delivers any such finished or unfinished lock or any such key to any person not duly authorized by the Secretary of Defense or his designated representative to receive the same, unless the person receiving it is the contractor for furnishing the same or engaged in the manufacture thereof in the manner authorized by the contract, or the agent of such manufacturer, shall be punished as provided in subsection (b).
+(3) Whoever, being engaged as a contractor or otherwise in the manufacture of any lock or keyknowing that such lock or key has been adopted by any part of the Department of Defense, including all Department of Defense agencies, military departments, and agencies thereof, for use in protecting conventional arms, ammunition or explosives, special weapons, and classified information or classified equipment, delivers any such finished or unfinished lock or any such key to any person not duly authorized by the Secretary of Defense or his designated representative to receive the same, unless the person receiving it is the contractor for furnishing the same or engaged in the manufacture thereof in the manner authorized by the contract, or the agent of such manufacturer, shall be punished as provided in subsection (b).
 
 (b) Whoever commits an offense under subsection (a) shall be fined under this title or imprisoned not more than 10 years, or both.
 
-(c) As used in this section, the term “key” means any key, keyblank, or keyway adopted by any part of the Department of Defense, including all Department of Defense agencies, military departments, and agencies thereof, for use in protecting conventional arms, ammunition or explosives, special weapons, and classified information or classified equipment.
+(c) As used in this section, the term "key" means any key, keyblank, or keyway adopted by any part of the Department of Defense, including all Department of Defense agencies, military departments, and agencies thereof, for use in protecting conventional arms, ammunition or explosives, special weapons, and classified information or classified equipment.
 
 (Added Pub. L. 102–190, div. A, title X, §1090(a), Dec. 5, 1991, 105 Stat. 1485.)
 

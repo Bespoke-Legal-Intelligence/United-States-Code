@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Administrator of the Health Resources and Services Administration, may enter into an agreement with eligible individuals for the repayment of education loans, in accordance with this section, to increase the number of qualified nursing faculty.
+The Secretary, acting through the Administrator of the Health Resources and Services Administration, may enter into an agreement with eligible individuals for the repayment of education loans, in accordance with this section, toincrease the number of qualified nursing faculty.
 
 #### (b) Agreements
 
@@ -50,7 +50,7 @@ Agreements entered into pursuant to subsection (b) shall be entered into on such
 
 #### (e) Eligible individual defined
 
-For purposes of this section, the term “eligible individual” means an individual who—
+For purposes of this section, the term "eligible individual" means an individual who—
 
 &emsp;(1) is a United States citizen, national, or lawful permanent resident;
 
@@ -78,5 +78,5 @@ A prior section 297q, act July 1, 1944, ch. 373, title VIII, §841, as added Pub
 
 <i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “individual student loan repayments”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "individual student loan repayments".</i>
 

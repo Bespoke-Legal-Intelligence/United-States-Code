@@ -10,7 +10,7 @@ Section 834 of the Housing and Community Development Act of 1992, referred to in
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–550 inserted “pursuant to the amendments made by section 834 of the Housing and Community Development Act of 1992” after “zones”.
+<b>1992</b>—Pub. L. 102–550 inserted "pursuant to the amendments made by section 834 of the Housing and Community Development Act of 1992" after "zones".
 
 #### Termination of Reporting Requirements
 

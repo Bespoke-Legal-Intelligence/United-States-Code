@@ -2,7 +2,7 @@
 
 #### (a) Appointment; time; membership and certification; nature of authority
 
-Within thirty days after December 22, 1974, the Secretary shall communicate in writing withthe tribal councils of the tribes directing the appointment of a negotiating team representing each tribe. Each negotiating team shall be composed of not more than five members to be certified by appropriate resolution of the respective tribal council. Each tribal council shall promptly fill any vacancies which may occur on its negotiating team. Notwithstanding any other provision of law, each negotiating team, when appointed and certified, shall have full authority to bind its tribe with respect to any other matter concerning the joint use area within the scope of this subchapter.
+Within thirty days after December 22, 1974, the Secretary shall communicate in writing with the tribal councils of the tribes directing the appointment of a negotiating team representing each tribe. Each negotiating team shall be composed of not more than five members to be certified by appropriate resolution of the respective tribal council. Each tribal council shall promptly fill any vacancies which may occur on its negotiating team. Notwithstanding any other provision of law, each negotiating team, when appointed and certified, shall have full authority to bind its tribe with respect to any other matter concerning the joint use area within the scope of this subchapter.
 
 #### (b) Failure to select and certify
 

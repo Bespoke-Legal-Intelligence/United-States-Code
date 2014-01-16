@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, at the request of the sponsor of a drug, expedite the development and review of such drug if the drug is intended, alone or in combination with 1 or more other drugs, to treat a serious or life-threatening disease or condition and preliminary clinical evidence indicates that the drug may demonstrate substantial improvement over existing therapies on 1 or more clinically significant endpoints, such as substantial treatment effects observed early in clinical development. (In this section, such a drug is referred to as a “breakthrough therapy”.)
+&emsp;The Secretary shall, at the request of the sponsor of a drug, expedite the development and review of such drug if the drug is intended, alone or in combination with 1 or more other drugs, to treat a serious or life-threatening disease or condition and preliminary clinical evidence indicates that the drug may demonstrate substantial improvement over existing therapies on 1 or more clinically significant endpoints, such as substantial treatment effects observed early in clinical development. (In this section, such a drug is referred to as a "breakthrough therapy".)
 
 #### (2) Request for designation
 
@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall, at the request of the sponsor of a new drug, facilitate the development and expedite the review of such drug if it is intended, whether alone or in combination with one or more other drugs, for the treatment of a serious or life-threatening disease or condition, and it demonstrates the potential to address unmet medical needs for such a disease or condition, or if the Secretary designates the drug as a qualified infectious disease product under section 355f(d) of this title. (In this section, such a drug is referred to as a “fast track product”.)
+&emsp;The Secretary shall, at the request of the sponsor of a new drug, facilitate the development and expedite the review of such drug if it is intended, whether alone or in combination with one or more other drugs, for the treatment of a serious or life-threatening disease or condition, and it demonstrates the potential to address unmet medical needs for such a disease or condition, or if the Secretary designates the drug as a qualified infectious disease product under section 355f(d) of this title. (In this section, such a drug is referred to as a "fast track product".)
 
 #### (2) Request for designation
 
@@ -50,7 +50,7 @@
 
 #### (A) Accelerated approval
 
-&emsp;&emsp;The Secretary may approve an application for approval of a product for a serious or life-threatening disease or condition, including a fast track product, under section 355(c) of this title or section 262(a) of title 42 upon a determination that the product has an effect on a surrogate endpoint that is reasonably likely to predict clinical benefit, or ona clinical endpoint that can be measured earlier than irreversible morbidity or mortality, that is reasonably likely to predict an effect on irreversible morbidity or mortality or other clinical benefit, taking into account the severity, rarity, or prevalence of the condition and the availability or lack of alternative treatments. The approval described in the preceding sentence is referred to in this section as “accelerated approval”.
+&emsp;&emsp;The Secretary may approve an application for approval of a product for a serious or life-threatening disease or condition, including a fast track product, under section 355(c) of this title or section 262(a) of title 42 upon a determination that the product has an effect on a surrogate endpoint that is reasonably likely to predict clinical benefit, or on a clinical endpoint that can be measured earlier than irreversible morbidity or mortality, that is reasonably likely to predict an effect on irreversible morbidity or mortality or other clinical benefit, taking into account the severity, rarity, or prevalence of the condition and the availability or lack of alternative treatments. The approval described in the preceding sentence is referred to in this section as "accelerated approval".
 
 #### (B) Evidence
 
@@ -112,7 +112,7 @@ The Secretary shall—
 
 #### References in Text
 
-The Food and Drug Administration Safety and Innovation Act, referred to in subsec. (e)(1), is Pub. L.112–144. For the amendments made to this section by the Act, see 2012 Amendment notes below.
+The Food and Drug Administration Safety and Innovation Act, referred to in subsec. (e)(1), is Pub. L. 112–144. For the amendments made to this section by the Act, see 2012 Amendment notes below.
 
 #### Prior Provisions
 
@@ -124,13 +124,13 @@ A prior section 356, act June 25, 1938, ch. 675, §506, as added Dec. 22, 1941, 
 
 Subsec. (a). Pub. L. 112–144, §902(a)(3), added subsec. (a). Former subsec. (a) redesignated (b).
 
-Subsec. (a)(1). Pub. L. 112–144, §803, amended subsec. (a)(1), as amended by Pub. L. 112–144, §901(b), by inserting “, or if the Secretary designates the drug as a qualified infectious disease product under section 355f(d) of this title” after “such a disease or condition”.
+Subsec. (a)(1). Pub. L. 112–144, §803, amended subsec. (a)(1), as amended by Pub. L. 112–144, §901(b), by inserting ", or if the Secretary designates the drug as a qualified infectious disease product under section 355f(d) of this title" after "such a disease or condition".
 
 Subsecs. (b) to (d). Pub. L. 112–144, §902(a)(1), redesignated subsecs. (a) to (c) as (b) to (d), respectively. Former subsec. (d) relating to awareness efforts redesignated (f).
 
 Subsec. (f). Pub. L. 112–144, §902(a)(2), which directed the redesignation of subsec. (d) as (f), was executed by redesignating the subsec. (d) relating to awareness efforts as (f), to reflect the probable intent of Congress.
 
-Subsec. (f)(1). Pub. L. 112–144, §902(a)(4), substituted “applicable to breakthrough therapies, accelerated approval, and” for “applicable to accelerated approval”.
+Subsec. (f)(1). Pub. L. 112–144, §902(a)(4), substituted "applicable to breakthrough therapies, accelerated approval, and" for "applicable to accelerated approval".
 
 #### Effective Date
 
@@ -140,93 +140,93 @@ Section effective 90 days after Nov. 21, 1997, except as otherwise provided, see
 
 Pub. L. 112–144, title IX, §901(a), July 9, 2012, 126 Stat. 1082, provided that:
 
-“(1)
+"(1)
 
 Findings.—Congress finds as follows:
 
-&emsp;“(A) The Food and Drug Administration (referred to in this section as the ‘FDA’) serves a critical role in helping to assure that new medicines are safe and effective. Regulatory innovation is 1 element of the Nation's strategy to address serious and life-threatening diseases or conditions by promoting investment in and development of innovative treatments for unmet medical needs.
+&emsp;"(A) The Food and Drug Administration (referred to in this section as the 'FDA') serves a critical role in helping to assure that new medicines are safe and effective. Regulatory innovation is 1 element of the Nation's strategy to address serious and life-threatening diseases or conditions by promoting investment in and development of innovative treatments for unmet medical needs.
 
-&emsp;“(B) During the 2 decades following the establishment of the accelerated approval mechanism, advances in medical sciences, including genomics, molecular biology, and bioinformatics, have provided an unprecedented understanding of the underlying biological mechanism and pathogenesis of disease. A new generation of modern, targeted medicines is under development to treat serious and life-threatening diseases, some applying drug development strategies based on biomarkers or pharmacogenomics, predictive toxicology, clinical trial enrichment techniques, and novel clinical trial designs, such as adaptive clinical trials.
+&emsp;"(B) During the 2 decades following the establishment of the accelerated approval mechanism, advances in medical sciences, including genomics, molecular biology, and bioinformatics, have provided an unprecedented understanding of the underlying biological mechanism and pathogenesis of disease. A new generation of modern, targeted medicines is under development to treat serious and life-threatening diseases, some applying drug development strategies based on biomarkers or pharmacogenomics, predictive toxicology, clinical trial enrichment techniques, and novel clinical trial designs, such as adaptive clinical trials.
 
-&emsp;“(C) As a result of these remarkable scientific and medical advances, the FDA should be encouraged to implement more broadly effective processes for the expedited development and review of innovative new medicines intended to address unmet medical needs for serious or life-threatening diseases or conditions, including those for rare diseases or conditions, using a broad range of surrogate or clinical endpoints and modern scientific tools earlier in the drug development cycle when appropriate. This may result in fewer, smaller, or shorter clinical trials for the intended patient population or targeted subpopulation without compromising or altering the high standards of the FDA for the approval of drugs.
+&emsp;"(C) As a result of these remarkable scientific and medical advances, the FDA should be encouraged to implement more broadly effective processes for the expedited development and review of innovative new medicines intended to address unmet medical needs for serious or life-threatening diseases or conditions, including those for rare diseases or conditions, using a broad range of surrogate or clinical endpoints and modern scientific tools earlier in the drug development cycle when appropriate. This may result in fewer, smaller, or shorter clinical trials for the intended patient population or targeted subpopulation without compromising or altering the high standards of the FDA for the approval of drugs.
 
-&emsp;“(D) Patients benefit from expedited access to safe and effective innovative therapies to treat unmet medical needs for serious or life-threatening diseases or conditions.
+&emsp;"(D) Patients benefit from expedited access to safe and effective innovative therapies to treat unmet medical needs for serious or life-threatening diseases or conditions.
 
-&emsp;“(E) For these reasons, the statutory authority in effect on the day before the date of enactment of this Act \[July 9, 2012\] governing expedited approval of drugs for serious or life-threatening diseases or conditions should be amended in order to enhance the authority of the FDA to consider appropriate scientific data, methods, and tools, and to expedite development and access to novel treatments for patients with a broad range of serious or life-threatening diseases or conditions.
+&emsp;"(E) For these reasons, the statutory authority in effect on the day before the date of enactment of this Act \[July 9, 2012\] governing expedited approval of drugs for serious or life-threatening diseases or conditions should be amended in order to enhance the authority of the FDA to consider appropriate scientific data, methods, and tools, and to expedite development and access to novel treatments for patients with a broad range of serious or life-threatening diseases or conditions.
 
-“(2)
+"(2)
 
-Sense of congress.—It is the sense of Congress that the Food and Drug Administration should apply the accelerated approval and fast track provisions set forth in section 506 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356), as amended by this section, to help expedite the development and availability to patients of treatments for serious or life-threatening diseases or conditions while maintaining safety and effectiveness standards for such treatments.”
+Sense of congress.—It is the sense of Congress that the Food and Drug Administration should apply the accelerated approval and fast track provisions set forth in section 506 of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356), as amended by this section, to help expedite the development and availability to patients of treatments for serious or life-threatening diseases or conditions while maintaining safety and effectiveness standards for such treatments."
 
 #### Guidance; Amended Regulations
 
 Pub. L. 112–144, title IX, §901(c), July 9, 2012, 126 Stat. 1085, provided that:
 
-“(1)
+"(1)
 
-Draft guidance.—Not later than 1 year after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall issue draft guidance to implement the amendments made by this section \[amending this section\]. In developing such guidance, the Secretary shall specifically consider issues arising under the accelerated approval and fast track processes under section 506 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 356\], as amended by subsection (b), for drugs designated for a rare disease or condition under section 526 of such Act (21 U.S.C. 360bb) and shall also consider any unique issues associated with very rare diseases.
+Draft guidance.—Not later than 1 year after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall issue draft guidance to implement the amendments made by this section \[amending this section\]. In developing such guidance, the Secretary shall specifically consider issues arising under the accelerated approval and fast track processes under section 506 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 356\], as amended by subsection (b), for drugs designated for a rare disease or condition under section 526 of such Act (21 U.S.C. 360bb) and shall also consider any unique issues associated with very rare diseases.
 
-“(2)
+"(2)
 
 Final guidance.—Not later than 1 year after the issuance of draft guidance under paragraph (1), and after an opportunity for public comment, the Secretary shall—
 
-&emsp;“(A) issue final guidance; and
+&emsp;"(A) issue final guidance; and
 
-&emsp;“(B) amend the regulations governing accelerated approval in parts 314 and 601 of title 21, Code of Federal Regulations, as necessary to conform such regulations with the amendment made by subsection (b).
+&emsp;"(B) amend the regulations governing accelerated approval in parts 314 and 601 of title 21, Code of Federal Regulations, as necessary to conform such regulations with the amendment made by subsection (b).
 
-“(3)
+"(3)
 
 Consideration.—In developing the guidance under paragraphs (1) and (2)(A) and the amendments under paragraph (2)(B), the Secretary shall consider how to incorporate novel approaches to the review of surrogate endpoints based on pathophysiologic and pharmacologic evidence in such guidance, especially in instances where the low prevalence of a disease renders the existence or collection of other types of data unlikely or impractical.
 
-“(4)
+"(4)
 
 Conforming changes.—The Secretary shall issue, as necessary, conforming amendments to the applicable regulations under title 21, Code of Federal Regulations, governing accelerated approval.
 
-“(5)
+"(5)
 
-No effect of inaction on requests.—The issuance (or nonissuance) of guidance or conforming regulations implementing the amendment made by subsection (b) shall not preclude the review of, or action on, a request for designation or an application for approval submitted pursuant to section 506 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 356\], as amended by subsection (b).”
+No effect of inaction on requests.—The issuance (or nonissuance) of guidance or conforming regulations implementing the amendment made by subsection (b) shall not preclude the review of, or action on, a request for designation or an application for approval submitted pursuant to section 506 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 356\], as amended by subsection (b)."
 
 Pub. L. 112–144, title IX, §902(b), July 9, 2012, 126 Stat. 1087, provided that:
 
-“(1)
+"(1)
 
 In general.—
 
-&emsp;“(A)
+&emsp;"(A)
 
-Guidance.—Not later than 18 months after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall issue draft guidance on implementing the requirements with respect to breakthrough therapies, as set forth in section 506(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356(a)), as amended by this section. The Secretary shall issue final guidance not later than 1 year after the close of the comment period for the draft guidance.
+Guidance.—Not later than 18 months after the date of enactment of this Act \[July 9, 2012\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary') shall issue draft guidance on implementing the requirements with respect to breakthrough therapies, as set forth in section 506(a) of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 356(a)), as amended by this section. TheSecretary shall issue final guidance not later than 1 year after the close of the comment period for the draft guidance.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Amended regulations.—
 
-&emsp;&emsp;“(i)
+&emsp;&emsp;"(i)
 
 In general.—If the Secretary determines that it is necessary to amend the regulations under title 21, Code of Federal Regulations in order to implement the amendments made by this section to section 506(a) of the Federal Food, Drug, and Cosmetic Act, the Secretary shall amend such regulations not later than 2 years after the date of enactment of this Act.
 
-&emsp;&emsp;“(ii)
+&emsp;&emsp;"(ii)
 
 Procedure.—In amending regulations under clause (i), the Secretary shall—
 
-&emsp;&emsp;&emsp;“(I) issue a notice of proposed rulemaking that includes the proposed regulation;
+&emsp;&emsp;&emsp;"(I) issue a notice of proposed rulemaking that includes the proposed regulation;
 
-&emsp;&emsp;&emsp;“(II) provide a period of not less than 60 days for comments on the proposed regulation; and
+&emsp;&emsp;&emsp;"(II) provide a period of not less than 60 days for comments on the proposed regulation; and
 
-&emsp;&emsp;&emsp;“(III) publish the final regulation not less than 30 days before the effective date of the regulation.
+&emsp;&emsp;&emsp;"(III) publish the final regulation not less than 30 days before the effective date of the regulation.
 
-&emsp;&emsp;“(iii)
+&emsp;&emsp;"(iii)
 
 Restrictions.—Notwithstanding any other provision of law, the Secretary shall promulgate regulations implementing the amendments made by this section only as described in clause (ii).
 
-“(2)
+"(2)
 
 Requirements.—Guidance issued under this section shall—
 
-&emsp;“(A) specify the process and criteria by which the Secretary makes a designation under section 506(a)(3) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 356(a)(3)\]; and
+&emsp;"(A) specify the process and criteria by which the Secretary makes a designation under section 506(a)(3) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 356(a)(3)\]; and
 
-&emsp;“(B) specify the actions the Secretary shall take to expedite the development and review of a breakthrough therapy pursuant to such designation under such section 506(a)(3), including updating good review management practices to reflect breakthrough therapies.”
+&emsp;"(B) specify the actions the Secretary shall take to expedite the development and review of a breakthrough therapy pursuant to such designation under such section 506(a)(3), including updating good review management practices to reflect breakthrough therapies."
 
-Pub. L. 105–115, title I, §112(b), Nov. 21, 1997, 111 Stat. 2310, provided that: “Within 1 year after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue guidance for fast track products (as defined in \[former\] section 506(a)(1) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 356(a)(1)\]) that describes the policies and procedures that pertain to section 506 of such Act.”
+Pub. L. 105–115, title I, §112(b), Nov. 21, 1997, 111 Stat. 2310, provided that: "Within 1 year after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue guidance for fast track products (as defined in \[former\] section 506(a)(1) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 356(a)(1)\]) that describes the policies and procedures that pertain to section 506 of such Act."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

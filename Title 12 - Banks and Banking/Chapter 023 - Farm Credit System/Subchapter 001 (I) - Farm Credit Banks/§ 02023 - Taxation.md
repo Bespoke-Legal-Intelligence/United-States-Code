@@ -28,7 +28,7 @@ A prior section 2055, Pub. L. 92–181, title I, §1.21, Dec. 10, 1971, 85 Stat.
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–399 inserted a comma after “therefrom” and substituted “3124” for “742(a)”.
+<b>1988</b>—Pub. L. 100–399 inserted a comma after "therefrom" and substituted "3124" for "742(a)".
 
 #### Effective Date of 1988 Amendment
 

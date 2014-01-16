@@ -12,7 +12,7 @@ The last signatory operator of any individual who, as of February 1, 1993, is re
 
 #### (2) Coverage
 
-&emsp;Subject to the provisions of subsection (d), health benefits coverage is described in this paragraph if it is substantially the same as (and subject to all the limitations of) the coverage provided by the individual employer plan as of January 1, 1992. Such coverage shall continue for as long as the last signatory operator (and any related person) remains in business.
+&emsp;Subject to the provisions of subsection (d), health benefits coverage is described in thisparagraph if it is substantially the same as (and subject to all the limitations of) the coverage provided by the individual employer plan as of January 1, 1992. Such coverage shall continue for as long as the last signatory operator (and any related person) remains in business.
 
 #### (c) Joint and several liability of related persons
 
@@ -68,7 +68,7 @@ The existence, level, and duration of benefits provided to former employees of a
 
 #### (f) Eligible beneficiary
 
-For purposes of this section, the term “eligible beneficiary” means any individual who is eligible for health benefits under a plan described in subsection (a) or (b) by reason of the individual's relationship with the retiree described in such subsection (or to an individual who, based on service and employment history at the time of death, would have been so described but for such death).
+For purposes of this section, the term "eligible beneficiary" means any individual who is eligible for health benefits under a plan described in subsection (a) or (b) by reason of the individual's relationship with the retiree described in such subsection (or to an individual who, based on service and employment history at the time of death, would have been so described but for such death).
 
 #### (g) Rules applicable to this part and part II
 
@@ -76,7 +76,7 @@ For purposes of this part and part II—
 
 #### (1) Successor
 
-&emsp;The term “last signatory operator” shall include a successor in interest of such operator.
+&emsp;The term "last signatory operator" shall include a successor in interest of such operator.
 
 #### (2) Reassignment upon purchase
 
@@ -86,7 +86,7 @@ For purposes of this part and part II—
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–432 reenacted heading without change and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “Each related person of a last signatory operator to which subsection (a) or (b) applies shall be jointly and severally liable with the last signatory operator for the provision of health care coverage described in subsection (a) or (b).”
+<b>2006</b>—Subsec. (c). Pub. L. 109–432 reenacted heading without change and amended text of subsec. (c) generally. Prior to amendment, text read as follows: "Each related person of a last signatory operator to whichsubsection (a) or (b) applies shall be jointly and severally liable with the last signatory operator for the provision of health care coverage described in subsection (a) or (b)."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph (3)(C).”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "paragraph (3)(C)."</i>
 

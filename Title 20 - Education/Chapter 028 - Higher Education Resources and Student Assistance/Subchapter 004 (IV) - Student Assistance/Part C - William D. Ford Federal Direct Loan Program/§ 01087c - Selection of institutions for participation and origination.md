@@ -36,7 +36,7 @@ The Secretary shall enter into agreements pursuant to section 1087d(a) of this t
 
 &emsp;&emsp;(C) is not subject to an emergency action, or a limitation, suspension, or termination under section 1078(b)(1)(T), 1082(h), or 1094(c) of this title;
 
-&emsp;&emsp;(D) in the opinion of the Secretary, has not had severe performance deficiencies for any of the programs under this subchapter, including such deficiencies demonstrated by audits or program reviews submitted or conducted during the 5 calendar years immediately preceding the date of application;
+&emsp;&emsp;(D) in the opinion of the Secretary, has not had severe performance deficiencies for any of the programs under this subchapter, including such deficiencies demonstrated byaudits or program reviews submitted or conducted during the 5 calendar years immediately preceding the date of application;
 
 &emsp;&emsp;(E) provides an assurance that such institution has no delinquent outstanding debts to the Federal Government, unless such debts are being repaid under or in accordance with a repayment arrangement satisfactory to the Federal Government, or the Secretary in the Secretary's discretion determines that the existence or amount of such debts has not been finally determined by the cognizant Federal agency; and
 
@@ -62,37 +62,37 @@ A prior section 1087c, Pub. L. 89–329, title IV, §453, as added Pub. L. 90–
 
 #### Amendments
 
-<b>2009</b>—Subsec. (c)(3). Pub. L. 111–39 struck out par. (3). Text read as follows: “The Secretary shall promulgate and publish in the Federal Register regulations governing the approval of institutions to originate loans under this part in accordance with section 1087g(a)(2) of this title.”
+<b>2009</b>—Subsec. (c)(3). Pub. L. 111–39 struck out par. (3). Text read as follows: "The Secretary shall promulgate and publish in the Federal Register regulations governing the approval of institutions to originate loans under this part in accordance with section 1087g(a)(2) of this title."
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–244, §451(a), amended heading, redesignated par. (1) as entire subsec., and struck out pars. (2) to (4) which provided for transition from loan programs under part B of this subchapter to direct student loan program under this part and defined term “new student loan volume”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–244, §451(a), amended heading, redesignated par. (1) as entire subsec., and struck out pars. (2) to (4) which provided for transition from loan programs under part B of this subchapter to direct student loan program under this part and defined term "new student loan volume".
 
-Subsec. (b)(2). Pub. L. 105–244, §451(b), substituted “prescribe.” for “prescribe, by, to the extent possible—
+Subsec. (b)(2). Pub. L. 105–244, §451(b), substituted "prescribe." for "prescribe, by, to the extent possible—
 
-&emsp;“(A)(i) categorizing such institutions according to anticipated loan volume, length of academic program, control of the institution, highest degree offered, size of student enrollment, geographic location, annual loan volume, and default experience; and
+&emsp;"(A)(i) categorizing such institutions according to anticipated loan volume, length of academic program, control of the institution, highest degree offered, size of student enrollment, geographic location, annual loan volume, and default experience; and
 
-&emsp;“(ii) beginning in academic year 1995–1996 selecting institutions that are reasonably representative of each of the categories described pursuant to clause (i); and
+&emsp;"(ii) beginning in academic year 1995–1996 selecting institutions that are reasonably representative of each of the categories described pursuant to clause (i); and
 
-&emsp;“(B) if the Secretary determines it necessary in order to carry out the purposes of subparagraph (A) and attain such reasonable representation (as required by subparagraph (A)), selecting additional institutions.”
+&emsp;"(B) if the Secretary determines it necessary in order to carry out the purposes of subparagraph (A) and attain such reasonable representation (as required by subparagraph (A)), selecting additional institutions."
 
-Subsec. (c)(2). Pub. L. 105–244, §451(c)(1)(A), (B), substituted “Selection criteria” for “Transition selection criteria” in heading and “The Secretary” for “For academic year 1994–1995, the Secretary” in introductory provisions.
+Subsec. (c)(2). Pub. L. 105–244, §451(c)(1)(A), (B), substituted "Selection criteria" for "Transition selection criteria" in heading and "The Secretary" for "For academic year 1994–1995, the Secretary" in introductory provisions.
 
 Subsec. (c)(2)(A). Pub. L. 105–244, §451(c)(1)(E), redesignated subpar. (B) as (A).
 
-Pub. L. 105–244, §451(c)(1)(C), struck out subpar. (A) which read as follows: “made loans under part D of this subchapter in academic year 1993–1994 and did not exceed the applicable maximum default rate under section 1087bb(g) of this title for the most recent fiscal year for which data are available;”.
+Pub. L. 105–244, §451(c)(1)(C), struck out subpar. (A) which read as follows: "made loans under part D of this subchapter in academic year 1993–1994 and did not exceed the applicable maximum default rate under section 1087bb(g) of this title for the most recent fiscal year for which data are available;".
 
 Subsec. (c)(2)(B) to (D). Pub. L. 105–244, §451(c)(1)(E), redesignated subpars. (C), (D), and (F) as (B) to (D), respectively. Former subpar. (B) redesignated (A).
 
 Subsec. (c)(2)(E). Pub. L. 105–244, §451(c)(1)(E), redesignated subpar. (G) as (E).
 
-Pub. L. 105–244, §451(c)(1)(D), struck out subpar. (E) which read as follows: “in the opinion of the Secretary, has not had significant deficiencies identified by a State postsecondary review entity under subpart 1 of part G of this subchapter;”.
+Pub. L. 105–244, §451(c)(1)(D), struck out subpar. (E) which read as follows: "in the opinion of the Secretary, has not had significant deficiencies identified by a State postsecondary review entity under subpart 1 of part G of this subchapter;".
 
 Subsec. (c)(2)(F) to (H). Pub. L. 105–244, §451(c)(1)(E), redesignated subpars. (G) and (H) as (E) and (F), respectively. Former subpar. (F) redesignated (D).
 
-Subsec. (c)(3). Pub. L. 105–244, §451(c)(2), struck out “after transition” after “approval” in heading and substituted “The Secretary” for “For academic year 1995–1996 and subsequent academic years, the Secretary” in text.
+Subsec. (c)(3). Pub. L. 105–244, §451(c)(2), struck out "after transition" after "approval" in heading and substituted "The Secretary" for "For academic year 1995–1996 and subsequent academic years, the Secretary" in text.
 
 <b>1993</b>—Pub. L. 103–66 amended section generally, substituting provisions relating to selection of institutions for participation and origination for former provisions relating to selection by Secretary.
 
-Subsec. (b)(2)(B). Pub. L. 103–208 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “if the Secretary determines it necessary to carry out the purposes of this part, selecting additional institutions.” See Codification note above.
+Subsec. (b)(2)(B). Pub. L. 103–208 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: "if the Secretary determines it necessary to carry out the purposes of this part, selecting additional institutions." See Codification note above.
 
 <b>1992</b>—Pub. L. 102–325 amended section generally, substituting provisions relating to selection by the Secretary for former provisions relating to agreements with institutions of higher education.
 
@@ -112,5 +112,5 @@ Amendment by Pub. L. 103–208 effective as if included in the Higher Education 
 
 Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 102–325, set out as a note under section 1001 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

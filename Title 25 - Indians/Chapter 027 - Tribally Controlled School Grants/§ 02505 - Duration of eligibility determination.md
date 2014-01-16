@@ -108,9 +108,9 @@ A prior section 2505, Pub. L. 100–297, title V, §5206, Apr. 28, 1988, 102 Sta
 
 Section effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as a note under section 6301 of Title 20, Education.
 
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(c)(1)(B)(ii)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be subsection "(c)(1)(B)(ii)".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be section “2504(b)(1)(A)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be section "2504(b)(1)(A)".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be section “2504(f)(1)(C)”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be section "2504(f)(1)(C)".</i>
 

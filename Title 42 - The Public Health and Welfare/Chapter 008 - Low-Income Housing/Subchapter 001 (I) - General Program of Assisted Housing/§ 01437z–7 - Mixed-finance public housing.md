@@ -2,7 +2,7 @@
 
 #### (a) Authority
 
-A public housing agency may own, operate, assist, or otherwise participate in 1 or moremixed-finance projects in accordance with this section.
+A public housing agency may own, operate, assist, or otherwise participate in 1 or more mixed-finance projects in accordance with this section.
 
 #### (b) Assistance
 
@@ -22,7 +22,7 @@ The units assisted with capital or operating assistance in a mixed-finance proje
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “mixed-finance project” means a project that meets the requirements of paragraph (2) and is financially assisted by private resources, which may include low-income housing tax credits, in addition to amounts provided under this chapter.
+&emsp;For purposes of this section, the term "mixed-finance project" means a project that meets the requirements of paragraph (2) and is financially assisted by private resources, which may include low-income housing tax credits, in addition to amounts provided under this chapter.
 
 #### (2) Types of projects
 
@@ -62,7 +62,7 @@ Each mixed-finance project shall be developed—
 
 #### (g) Use of savings
 
-Notwithstanding any other provision of this chapter, to the extent deemed appropriate by the Secretary, to facilitate the establishment of socioeconomically mixed communities, a public housing agency that uses assistance from the Capital Fund for a mixed-finance project, to the extent that income from such a project reduces the amount of assistance used for operating or other costs relating to public housing, may usesuch resulting savings to rent privately developed dwelling units in the neighborhood of the mixed-finance project. Such units shall be made available for occupancy only by low-income families eligible for residency in public housing.
+Notwithstanding any other provision of this chapter, to the extent deemed appropriate by the Secretary, to facilitate the establishment of socioeconomically mixed communities, a public housing agency that uses assistance from the Capital Fund for a mixed-finance project, to the extent that income from such a project reduces the amount of assistance used for operating or other costs relating to public housing, may use such resulting savings to rent privately developed dwelling units in the neighborhood of the mixed-finance project. Such units shall be made available for occupancy only by low-income families eligible for residency in public housing.
 
 #### (h) Effect of certain contract terms
 
@@ -76,7 +76,7 @@ Section effective and applicable beginning upon Oct. 1, 1999, except as otherwis
 
 #### Regulations
 
-Pub. L. 105–276, title V, §539(b), Oct. 21, 1998, 112 Stat. 2596, provided that: “The Secretary shall issue such regulations as may be necessary to promote the development of mixed-finance projects, as that term is defined in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\] (as amended by this Act).”
+Pub. L. 105–276, title V, §539(b), Oct. 21, 1998, 112 Stat. 2596, provided that: "The Secretary shall issue such regulations as may be necessary to promote the development of mixed-finance projects, as that term is defined in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\] (as amended by this Act)."
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -20,7 +20,7 @@
 
 &emsp;(iii) if the assault resulted in bodily injury, a term of imprisonment for not more than 20 years; or
 
-&emsp;(iv) if the assault resulted in serious bodily injury (as that term is defined in section 1365 of this title, and including any conduct that, if the conduct occurred in the special maritimeand territorial jurisdiction of the United States, would violate section 2241 or 2242 of this title) or a dangerous weapon was used during and in relation to the offense, a term of imprisonment for not more than 30 years.
+&emsp;(iv) if the assault resulted in serious bodily injury (as that term is defined in section 1365 of this title, and including any conduct that, if the conduct occurred in the special maritime and territorial jurisdiction of the United States, would violate section 2241 or 2242 of this title) or a dangerous weapon was used during and in relation to the offense, a term of imprisonment for not more than 30 years.
 
 (2) A kidnapping, attempted kidnapping, or conspiracy to kidnap in violation of this section shall be punished as provided in section 1201 of this title for the kidnapping or attempted kidnapping of, or a conspiracy to kidnap, a person described in section 1201(a)(5) of this title.
 
@@ -30,17 +30,17 @@
 
 (c) As used in this section, the term—
 
-&emsp;(1) “Federal law enforcement officer” means any officer, agent, or employee of the United States authorized by law or by a Government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of Federal criminal law;
+&emsp;(1) "Federal law enforcement officer" means any officer, agent, or employee of the United States authorized by law or by a Government agency to engage in or supervise the prevention, detection, investigation, or prosecution of any violation of Federal criminal law;
 
-&emsp;(2) “immediate family member” of an individual means—
+&emsp;(2) "immediate family member" of an individual means—
 
 &emsp;&emsp;(A) his spouse, parent, brother or sister, child or person to whom he stands in loco parentis; or
 
 &emsp;&emsp;(B) any other person living in his household and related to him by blood or marriage;
 
-&emsp;(3) “United States judge” means any judicial officer of the United States, and includes a justice of the Supreme Court and a United States magistrate judge; and
+&emsp;(3) "United States judge" means any judicial officer of the United States, and includes a justice of the Supreme Court and a United States magistrate judge; and
 
-&emsp;(4) “United States official” means the President, President-elect, Vice President, Vice President-elect, a Member of Congress, a member-elect of Congress, a member of the executive branch who is the head of a department listed in 5 U.S.C. 101, or the Director of the Central Intelligence Agency.
+&emsp;(4) "United States official" means the President, President-elect, Vice President, Vice President-elect, a Member of Congress, a member-elect of Congress, a member of the executive branch who is the head of a department listed in 5 U.S.C. 101, or the Director of the Central Intelligence Agency.
 
 (d) This section shall not interfere with the investigative authority of the United States Secret Service, as provided under sections 3056, 871, and 879 of this title.
 
@@ -48,41 +48,41 @@
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(1). Pub. L. 110–177 added par. (1) and struck out former par. (1) which read as follows: “An assault in violation of this section shall be punished as provided in section 111 of this title.”
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–177 added par. (1) and struck out former par. (1) which read as follows: "An assault in violation of this section shall be punished as provided in section 111 of this title."
 
-<b>2002</b>—Subsec. (b)(2). Pub. L. 107–273, §4002(b)(9), substituted “or attempted kidnapping of, or a conspiracy to kidnap, a person” for “, attempted kidnapping, or conspiracy to kidnap of a person”.
+<b>2002</b>—Subsec. (b)(2). Pub. L. 107–273, §4002(b)(9), substituted "or attempted kidnapping of, or a conspiracyto kidnap, a person" for ", attempted kidnapping, or conspiracy to kidnap of a person".
 
-Subsec. (b)(4). Pub. L. 107–273, §11008(c), substituted “10” for “five” and “6” for “three”.
+Subsec. (b)(4). Pub. L. 107–273, §11008(c), substituted "10" for "five" and "6" for "three".
 
-<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–132, §723(a)(1), inserted “or conspires” after “attempts”.
+<b>1996</b>—Subsec. (a)(1)(A). Pub. L. 104–132, §723(a)(1), inserted "or conspires" after "attempts".
 
-Subsec. (a)(2). Pub. L. 104–132, §727(b)(1), which directed insertion of “, or threatens to assault, kidnap, or murder, any person who formerly served as a person designated in paragraph (1), or” after “assaults, kidnaps, or murders, or attempts to kidnap or murder”, was executed by making the substitution after “assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder” to reflect the probable intent of Congress and the amendment by Pub. L. 104–132, §723(a)(1). See below.
+Subsec. (a)(2). Pub. L. 104–132, §727(b)(1), which directed insertion of ", or threatens to assault, kidnap, or murder, any person who formerly served as a person designated in paragraph (1), or" after "assaults, kidnaps, or murders, or attempts to kidnap or murder", was executed by making the substitution after "assaults, kidnaps, or murders, or attempts or conspires to kidnap or murder" to reflect the probable intent of Congress and the amendment by Pub. L. 104–132, §723(a)(1). See below.
 
-Pub. L. 104–132, §723(a)(1), inserted “or conspires” after “attempts”.
+Pub. L. 104–132, §723(a)(1), inserted "or conspires" after "attempts".
 
-Subsec. (b)(2). Pub. L. 104–132, §723(a)(2), substituted “, attempted kidnapping, or conspiracy to kidnap” for “or attempted kidnapping” in two places.
+Subsec. (b)(2). Pub. L. 104–132, §723(a)(2), substituted ", attempted kidnapping, or conspiracy to kidnap" for "or attempted kidnapping" in two places.
 
-Subsec. (b)(3). Pub. L. 104–132, §723(a)(3), substituted “, attempted murder, or conspiracy to murder” and “, 1113, and 1117” for “or attempted murder” and “and 1113”, respectively.
+Subsec. (b)(3). Pub. L. 104–132, §723(a)(3), substituted ", attempted murder, or conspiracy to murder" and ", 1113, and 1117" for "or attempted murder" and "and 1113", respectively.
 
 Subsec. (d). Pub. L. 104–132, §727(b)(2), added subsec. (d).
 
-<b>1994</b>—Subsec. (b)(2). Pub. L. 103–322, §330021(1), substituted “kidnapping” for “kidnaping” in two places.
+<b>1994</b>—Subsec. (b)(2). Pub. L. 103–322, §330021(1), substituted "kidnapping" for "kidnaping" in two places.
 
-Subsec. (b)(4). Pub. L. 103–322, §330016(2)(C), substituted “fine under this title” for “fine of not more than $5,000”.
+Subsec. (b)(4). Pub. L. 103–322, §330016(2)(C), substituted "fine under this title" for "fine of not more than $5,000".
 
-<b>1990</b>—Subsec. (c)(4). Pub. L. 101–647 substituted “the Central” for “The Central”.
+<b>1990</b>—Subsec. (c)(4). Pub. L. 101–647 substituted "the Central" for "The Central".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–690 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Whoever assaults, kidnaps, or murders, or attempts to kidnap or murder, or threatens to assault, kidnap or murder a member of the immediate family of a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under section 1114 of this title, or threatens to assault, kidnap, or murder, a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under such section with intent to impede, intimidate, interfere with, or retaliate against such official, judge or law enforcement officer while engaged in or on account of the performance of official duties, shall be punished as provided in subsection (b).”
+<b>1988</b>—Subsec. (a). Pub. L. 100–690 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "Whoever assaults, kidnaps, or murders, or attempts to kidnap or murder, or threatens to assault, kidnap or murder a member of the immediate family of a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under section 1114 of this title, or threatens to assault, kidnap, or murder, a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under such section with intent to impede, intimidate, interfere with, or retaliate against such official, judge or law enforcement officer while engaged in or on account of the performance of official duties, shall be punished as provided in subsection (b)."
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–646, §60, substituted “section 1114 of this title, or threatens to assault, kidnap, or murder, a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under such section” for “18 U.S.C. 1114, as amended,”, “while engaged” for “while he is engaged”, and “official duties” for “his official duties”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–646, §60, substituted "section 1114 of this title, or threatens to assault, kidnap, or murder, a United States official, a United States judge, a Federal law enforcement officer, or an official whose killing would be a crime under such section" for "18 U.S.C. 1114, as amended,", "while engaged" for "while he is engaged", and "official duties" for "his official duties".
 
-Subsec. (b)(2). Pub. L. 99–646, §37(a), inserted “for the kidnapping or attempted kidnapping of a person described in section 1201(a)(5) of this title”.
+Subsec. (b)(2). Pub. L. 99–646, §37(a), inserted "for the kidnapping or attempted kidnapping of a person described in section 1201(a)(5) of this title".
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
-“United States magistrate judge” substituted for “United States magistrate” in subsec. (c)(3) pursuant to section 321 of Pub. L. 101–650, set out as a note undersection 631 of Title 28, Judiciary and Judicial Procedure.
+"United States magistrate judge" substituted for "United States magistrate" in subsec. (c)(3) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Transfer of Functions
 

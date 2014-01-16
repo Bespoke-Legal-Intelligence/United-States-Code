@@ -6,5 +6,5 @@ Any person who violates any national security export control imposed under secti
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–418 struck out designation “(a)” and struck out subsec. (b) which related to prerequisites to imposition of sanctions.
+<b>1988</b>—Pub. L. 100–418 struck out designation "(a)" and struck out subsec. (b) which related to prerequisites to imposition of sanctions.
 

@@ -50,7 +50,7 @@ A shareholder of a DISC or former DISC shall be subject to taxation on the earni
 
 #### (B) Military property
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “military property” means any property which is an arm, ammunition, or implement of war designated in the munitions list published pursuant to section 38 of the Arms Export Control Act (22 U.S.C. 2778).
+&emsp;&emsp;For purposes of subparagraph (A), the term "military property" means any property which is an arm, ammunition, or implement of war designated in the munitions list published pursuant to section 38 of the Arms Export Control Act (22 U.S.C. 2778).
 
 #### (4) Aggregation of qualified export receipts
 
@@ -92,7 +92,7 @@ For the purposes of this part—
 
 #### (2) Net increase in foreign assets
 
-&emsp;The term “net increase in foreign assets” of a controlled group means the excess of—
+&emsp;The term "net increase in foreign assets" of a controlled group means the excess of—
 
 &emsp;&emsp;(A) the amount incurred by such group to acquire assets (described in section 1231(b)) located outside the United States over,
 
@@ -112,7 +112,7 @@ For the purposes of this part—
 
 #### (3) Actual foreign investment
 
-&emsp;The term “actual foreign investment” by domestic members of a controlled group means the sum of—
+&emsp;The term "actual foreign investment" by domestic members of a controlled group means the sum of—
 
 &emsp;&emsp;(A) contributions to capital of foreign members of the group by domestic members of the group after December 31, 1971,
 
@@ -122,7 +122,7 @@ For the purposes of this part—
 
 &emsp;&emsp;(D) one-half the earnings and profits of foreign members of such group and foreign branches of domestic members of such group for taxable years beginning after December 31, 1971.
 
-> &emsp;As used in this subsection, the term “domestic member” means a domestic corporation whichis a member of a controlled group (as defined in section 993(a)(3)), and the term “foreign member” means a foreign corporation which is a member of such a controlled group.
+> &emsp;As used in this subsection, the term "domestic member" means a domestic corporation whichis a member of a controlled group (as defined in section 993(a)(3)), and the term "foreign member" means a foreign corporation which is a member of such a controlled group.
 
 #### (4) Uncommitted transitional funds
 
@@ -136,7 +136,7 @@ For the purposes of this part—
 
 &emsp;&emsp;(B) the amount of liquid assets to the extent not included in subparagraph (A) held by foreign members of such group and foreign branches of domestic members of such group on October 31, 1971, in excess of their reasonable working capital needs on such date.
 
-> &emsp;For purposes of this paragraph, the term “liquid assets” means money, bank deposits (not including time deposits), and indebtedness of 2 years or less to maturity on the date of acquisition; and the actual foreign investment shall be determined under paragraph (3) without regard to the date in subparagraph (A) of such paragraph and without regard to subparagraph (D) of such paragraph.
+> &emsp;For purposes of this paragraph, the term "liquid assets" means money, bank deposits (not including time deposits), and indebtedness of 2 years or less to maturity on the date of acquisition; and the actual foreign investment shall be determined under paragraph (3) without regard to the date in subparagraph (A) of such paragraph and without regard to subparagraph (D) of such paragraph.
 
 #### (5) Special rule
 
@@ -170,7 +170,7 @@ If—
 
 #### (A) In general
 
-&emsp;&emsp;The term “shareholder's DISC-related deferred tax liability” means, with respect to any taxable year of a shareholder of a DISC, the excess of—
+&emsp;&emsp;The term "shareholder's DISC-related deferred tax liability" means, with respect to any taxable year of a shareholder of a DISC, the excess of—
 
 &emsp;&emsp;&emsp;(i) the amount which would be the tax liability of the shareholder for the taxable year if the deferred DISC income of such shareholder for such taxable year were included in gross income as ordinary income, over
 
@@ -190,7 +190,7 @@ If—
 
 #### (C) Tax liability
 
-&emsp;&emsp;The term “tax liability” means the amount of the tax imposed by this chapter for the taxable year reduced by credits allowable against such tax (other than credits allowable under sections 31, 32, and 34).
+&emsp;&emsp;The term "tax liability" means the amount of the tax imposed by this chapter for the taxable year reduced by credits allowable against such tax (other than credits allowable under sections 31, 32, and 34).
 
 #### (3) Deferred DISC income
 
@@ -198,7 +198,7 @@ If—
 
 #### (A) In general
 
-&emsp;&emsp;The term “deferred DISC income” means, with respect to any taxable year of a shareholder, the excess of—
+&emsp;&emsp;The term "deferred DISC income" means, with respect to any taxable year of a shareholder, the excess of—
 
 &emsp;&emsp;&emsp;(i) the shareholder's pro rata share of accumulated DISC income (for periods after 1984) of the DISC as of the close of the computation year, over
 
@@ -210,7 +210,7 @@ If—
 
 #### (C) Distributions-in-excess-of-income
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “distributions-in-excess-of-income” means, with respect to any taxable year of a DISC, the excess (if any) of—
+&emsp;&emsp;For purposes of subparagraph (A), the term "distributions-in-excess-of-income" means, with respect to any taxable year of a DISC, the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) the amount of actual distributions to the shareholder out of accumulated DISC income, over
 
@@ -218,7 +218,7 @@ If—
 
 #### (4) Base period T-bill rate
 
-&emsp;For purposes of this subsection, the term “base period T-bill rate” means the annual rate of interest determined by the Secretary to be equivalent to the average of the 1-year constant maturity Treasury yields, as published by the Board of Governors of the Federal Reserve System, for the 1-year period ending on September 30 of the calendar year ending with (or of the most recent calendar year ending before) the close of the taxable year of the shareholder.
+&emsp;For purposes of this subsection, the term "base period T-bill rate" means the annual rate of interest determined by the Secretary to be equivalent to the average of the 1-year constant maturity Treasury yields, as published by the Board of Governors of the Federal Reserve System, for the 1-year period ending on September 30 of the calendar year ending with (or of the most recent calendar year ending before) the close of the taxable year of the shareholder.
 
 #### (5) Short years
 
@@ -230,7 +230,7 @@ If—
 
 #### (7) DISC includes former DISC
 
-&emsp;For purposes of this subsection, the term “DISC” includes a former DISC.
+&emsp;For purposes of this subsection, the term "DISC" includes a former DISC.
 
 #### (g) Treatment of tax-exempt shareholders
 
@@ -248,35 +248,35 @@ If any organization described in subsection (a)(2) or (b)(2) of section 511 (or 
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(3)(B). Pub. L. 107–147 substituted “Arms Export Control Act” for “International Security Assistance and Arms Export Control Act of 1976”.
+<b>2002</b>—Subsec. (b)(3)(B). Pub. L. 107–147 substituted "Arms Export Control Act" for "International Security Assistance and Arms Export Control Act of 1976".
 
-<b>2000</b>—Subsec. (b)(3)(B). Pub. L. 106–554, §1(a)(7) \[title III, §319(12)\], substituted “section 38 of the International Security Assistance and Arms Export Control Act of 1976 (22 U.S.C. 2778)” for “the Military Security Act of 1954 (22 U.S.C. 1934)”.
+<b>2000</b>—Subsec. (b)(3)(B). Pub. L. 106–554, §1(a)(7) \[title III, §319(12)\], substituted "section 38 of the International Security Assistance and Arms Export Control Act of 1976 (22 U.S.C. 2778)" for "the Military Security Act of 1954 (22 U.S.C. 1934)".
 
-Subsec. (f)(4). Pub. L. 106–554, §1(a)(7) \[title III, §307(c)\], substituted “the average of the 1-year constant maturity Treasury yields, as published by the Board of Governors of the Federal Reserve System, for the 1-year period” for “the average investment yield of United States Treasury bills with maturities of 52 weeks which were auctioned during the 1-year period”.
+Subsec. (f)(4). Pub. L. 106–554, §1(a)(7) \[title III, §307(c)\], substituted "the average of the 1-year constant maturity Treasury yields, as published by the Board of Governors of the Federal Reserve System, for the 1-year period" for "the average investment yield of United States Treasury bills with maturities of 52 weeks which were auctioned during the 1-year period".
 
-<b>1999</b>—Subsec. (b)(1)(C). Pub. L. 106–170 substituted “1221(a)(1)” for “1221(1)”.
+<b>1999</b>—Subsec. (b)(1)(C). Pub. L. 106–170 substituted "1221(a)(1)" for "1221(1)".
 
-<b>1989</b>—Subsec. (g). Pub. L. 101–239 substituted “section 511 (or any other person otherwise subject to tax under section 511)” for “section 511” in introductory provisions.
+<b>1989</b>—Subsec. (g). Pub. L. 101–239 substituted "section 511 (or any other person otherwise subject to tax under section 511)" for "section 511" in introductory provisions.
 
 <b>1988</b>—Subsec. (c)(1). Pub. L. 100–647, §1006(e)(15), struck out subpar. (C) and last sentence which read as follows:
 
-&emsp;“(C) a shareholder distributes, sells, or exchanges stock in a DISC or former DISC in a transaction to which section 311, 336, or 337 applies, then an amount equal to the excess of the fair market value of such stock over its adjusted basis in the hands of the shareholder shall, notwithstanding any provision of this title, be included in gross income of the shareholder as a dividend to the extent provided in paragraph (2).
+&emsp;"(C) a shareholder distributes, sells, or exchanges stock in a DISC or former DISC in a transaction to which section 311, 336, or 337 applies, then an amount equal to the excess of the fair market value of such stock over its adjusted basis in the hands of the shareholder shall, notwithstanding any provision of this title, be included in gross income of the shareholder as a dividend to the extent provided in paragraph (2).
 
-> Subparagraph (C) shall not apply if the person receiving the stock in the disposition has a holding period for the stock which includes the period for which the stock was held by the shareholder disposing of such stock.”
+> Subparagraph (C) shall not apply if the person receiving the stock in the disposition has a holding period for the stock which includes the period for which the stock was held by the shareholder disposing of such stock."
 
 Subsec. (g). Pub. L. 100–647, §1012(bb)(6)(A), added subsec. (g).
 
-<b>1986</b>—Subsec. (b)(1)(F)(i). Pub. L. 99–514, §1876(b)(2)(A), inserted “in the case of a shareholder which is a C corporation,”.
+<b>1986</b>—Subsec. (b)(1)(F)(i). Pub. L. 99–514, §1876(b)(2)(A), inserted "in the case of a shareholder which is a C corporation,".
 
-Subsec. (b)(1)(F)(ii). Pub. L. 99–514, §1876(b)(2)(B), substituted “16/17 of the excess referred to in clause (i),” for “the amount determined under clause (i)”.
+Subsec. (b)(1)(F)(ii). Pub. L. 99–514, §1876(b)(2)(B), substituted "16/17 of the excess referred to in clause (i)," for "the amount determined under clause (i)".
 
 Subsec. (f)(4) to (6). Pub. L. 99–514, §1876(p)(1), redesignated as pars. (4), (5), and (6), respectively, former par. (3) relating to base period T-bill rate, (4) relating to short years, and (5) relating to payment and assessment and collection of interest.
 
 Subsec. (f)(7). Pub. L. 99–514, §1876(g), added par. (7).
 
-<b>1984</b>—Subsec. (b)(1)(E). Pub. L. 98–369, §802(b)(1), substituted “of the DISC attributable to qualified exportreceipts of the DISC for the taxable year which exceed $10,000,000” for “for the taxable year attributable to base period export gross receipts (as defined in subsection (e))”.
+<b>1984</b>—Subsec. (b)(1)(E). Pub. L. 98–369, §802(b)(1), substituted "of the DISC attributable to qualified exportreceipts of the DISC for the taxable year which exceed $10,000,000" for "for the taxable year attributable to base period export gross receipts (as defined in subsection (e))".
 
-Subsec. (b)(1)(F)(i). Pub. L. 98–369, §68(d), substituted “one-seventeenth” for “one/half”.
+Subsec. (b)(1)(F)(i). Pub. L. 98–369, §68(d), substituted "one-seventeenth" for "one/half".
 
 Subsec. (b)(4). Pub. L. 98–369, §802(b)(2), added par. (4).
 
@@ -286,25 +286,25 @@ Subsec. (f). Pub. L. 98–369, §802(a)(1), (3), added subsec. (f). Former subse
 
 Subsec. (g). Pub. L. 98–369, §802(a)(2), redesignated subsec. (g) as (e).
 
-<b>1978</b>—Subsec. (b)(1). Pub. L. 95–600, §703(i)(1), (2), substituted in subpar. (G) “subsection (d)” for “subsection (D)”, and in provisions following subpar. (G) “income” for “gross income (taxable income in the case of subparagraph (D))” and “subparagraph (G)” for “subparagraph (E)”.
+<b>1978</b>—Subsec. (b)(1). Pub. L. 95–600, §703(i)(1), (2), substituted in subpar. (G) "subsection (d)" for "subsection (D)", and in provisions following subpar. (G) "income" for "gross income (taxable income in the case of subparagraph (D))" and "subparagraph (G)" for "subparagraph (E)".
 
 Subsec. (c)(1). Pub. L. 95–600, §701(u)(12)(B), inserted provision relating to application of subpar. (C).
 
-<b>1976</b>—Subsec. (b)(1)(C). Pub. L. 94–455, §1901(b)(3)(K), substituted “ordinary income” for “gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231” after “treated as”.
+<b>1976</b>—Subsec. (b)(1)(C). Pub. L. 94–455, §1901(b)(3)(K), substituted "ordinary income" for "gain from the sale or exchange of property which is neither a capital asset nor property described in section 1231" after "treated as".
 
 Subsec. (b)(1)(D), (E). Pub. L. 94–455, §1101(a)(1), added subpars. (D) and (E) and redesignated former subpars. (D) and (E) as (F) and (G), respectively.
 
-Subsec. (b)(1)(F). Pub. L. 94–455, §§1063(a), 1065(a)(2), 1101(a)(1), redesignated former subpar. (D) as (F), made existing provision cl. (i), added cls. (ii) and (iii), and substituted “(C), (D), and (E)” for “(C)” after “(B), and”.
+Subsec. (b)(1)(F). Pub. L. 94–455, §§1063(a), 1065(a)(2), 1101(a)(1), redesignated former subpar. (D) as (F), made existing provision cl. (i), added cls. (ii) and (iii), and substituted "(C), (D), and (E)" for "(C)" after "(B), and".
 
 Subsec. (b)(1)(G). Pub. L. 94–455, §1101(a)(1), redesignated former subpar. (E) as (G).
 
-Subsec. (b)(2)(B). Pub. L. 94–455, §1101(a)(2), substituted “more than twice the number” for “more than the number” after “no case over”.
+Subsec. (b)(2)(B). Pub. L. 94–455, §1101(a)(2), substituted "more than twice the number" for "more than the number" after "no case over".
 
 Subsec. (b)(3). Pub. L. 94–455, §1101(a)(3), added par. (3).
 
 Subsec. (c). Pub. L. 94–455, §1101(d)(1), redesignated existing provisions as pars. (1) and (2) and, as redesignated, added subpar. (1)(C).
 
-Subsec. (d)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out “or his delegate” after “Secretary”.
+Subsec. (d)(5). Pub. L. 94–455, §1906(b)(13)(A), struck out "or his delegate" after "Secretary".
 
 Subsecs. (e) to (g). Pub. L. 94–455, §1101(a)(4), added subsecs. (e) to (g).
 
@@ -318,7 +318,7 @@ Amendment by Pub. L. 101–239 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title X, §1012(bb)(6)(B), Nov. 10, 1988, 102 Stat. 3536, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1987.”
+Pub. L. 100–647, title X, §1012(bb)(6)(B), Nov. 10, 1988, 102 Stat. 3536, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to taxable years beginning after December 31, 1987."
 
 Amendment by section 1006(e)(15) of Pub. L. 100–647 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 1019(a) of Pub. L. 100–647, set out as a note under section 1 of this title.
 
@@ -334,7 +334,7 @@ Amendment by section 802(a), (b) of Pub. L. 98–369 applicable to transactions 
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–600, title VII, §701(u)(12)(C), Nov. 6, 1978, 92 Stat. 2918, provided that: “The amendment made by subparagraph (B) \[amending this section\] shall apply to dispositions made after December 31, 1976, in taxable years ending after such date.”
+Pub. L. 95–600, title VII, §701(u)(12)(C), Nov. 6, 1978, 92 Stat. 2918, provided that: "The amendment made by subparagraph (B) \[amending this section\] shall apply to dispositions made after December 31, 1976, in taxable years ending after such date."
 
 Amendment by section 703(i)(1), (2) of Pub. L. 95–600 effective on Oct. 4, 1976, see section 703(r) of Pub. L. 95–600, set out as a note under section 46 of this title.
 
@@ -344,9 +344,9 @@ Amendment by section 1063(a) of Pub. L. 94–455 applicable to participation in 
 
 Amendment by section 1065(a)(2) of Pub. L. 94–455 applicable to payments described in section 162(c) of this title made more than 30 days after Oct. 4, 1976, see section 1066(b) of Pub. L. 94–455, set out as a note under section 952 of this title.
 
-Pub. L. 94–455, title XI, §1101(g)(1), Oct. 4, 1976, 90 Stat. 1659, provided that: “The amendments made by subsections (a) and (e) \[amending this section and section 996 of this title\] shall apply to taxable years beginning after December 31, 1975.”
+Pub. L. 94–455, title XI, §1101(g)(1), Oct. 4, 1976, 90 Stat. 1659, provided that: "The amendments made by subsections (a) and (e) \[amending this section and section 996 of this title\] shall apply to taxable years beginning after December 31, 1975."
 
-Pub. L. 94–455, title XI, §1101(g)(4), Oct. 4, 1976, 90 Stat. 1659, as amended by Pub. L. 95–600, title VII, §701(u)(12)(A), Nov. 6, 1978, 92 Stat. 2918, provided that: “The amendments made by subsection (d) \[amending this section and section 751 of this title\] shall apply to sales, exchanges, or other dispositions after December 31, 1976, in taxable years ending after such date.”
+Pub. L. 94–455, title XI, §1101(g)(4), Oct. 4, 1976, 90 Stat. 1659, as amended by Pub. L. 95–600, title VII, §701(u)(12)(A), Nov. 6, 1978, 92 Stat. 2918, provided that: "The amendments made by subsection (d) \[amending this section and section 751 of this title\] shall apply to sales, exchanges, or other dispositions after December 31, 1976, in taxable years ending after such date."
 
 Amendment by section 1901(b)(3)(K) of Pub. L. 94–455 applicable with respect to taxable years beginning after Dec. 31, 1976, see section 1901(d) of Pub. L. 94–455, set out as a note under section 2 of this title.
 
@@ -356,5 +356,5 @@ For provisions directing that if any amendments made by subtitle A or subtitle C
 
 #### Proration of Base Period in Case of Fixed Contracts
 
-Pub. L. 94–455, title XI, §1101(g)(5), Oct. 4, 1976, 90 Stat. 1659, as amended by Pub. L. 95–600, title VII, §703(i)(4), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “For purposes of determining adjusted base period export gross receipts (under section 995(e)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this section), if any DISC has export gross receipts from export property by reason of paragraph (2) of section 603(b) of the Tax Reduction Act of 1975, \[set out as an Effective Date of 1975 Amendment note under section 993 of this title\], then the export gross receipts of such DISC for the taxable years of the base period shall be increased by an amount equal to the amount of gross receipts which were excluded from export gross receipts during each taxable year of the base period by reason of the last sentence of section 995(e)(3) of such Code multiplied by a fraction, the numerator of which is the amount of the gross receipts in the taxable year which are export gross receipts by reason of paragraph (2) of section 603(b) of the Tax Reduction Act of 1975 and the denominator of which is the amount of total gross receipts which are excluded from export gross receipts in the taxable year by reason of subparagraph (C) or (D) of paragraph (2) of section 993(c) (determined without regard to paragraph (2) of section 603(b) of the Tax Reduction Act of 1975).”
+Pub. L. 94–455, title XI, §1101(g)(5), Oct. 4, 1976, 90 Stat. 1659, as amended by Pub. L. 95–600, title VII, §703(i)(4), Nov. 6, 1978, 92 Stat. 2940; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "For purposes of determining adjusted base period export gross receipts (under section 995(e)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], as amended by this section), if any DISC has export gross receipts from export property by reason of paragraph (2) of section 603(b) of the Tax Reduction Act of 1975, \[set out as an Effective Date of 1975 Amendment note under section 993 of this title\], then the export gross receipts of such DISC for the taxable years of the base period shall be increased by an amount equal to the amount of gross receipts which were excluded from export gross receipts during each taxable year of the base period by reason of the last sentence of section 995(e)(3) of such Code multiplied by a fraction, the numerator of which is the amount of the gross receipts in the taxable year which are export gross receipts by reason of paragraph (2) of section 603(b) of the Tax Reduction Act of 1975 and the denominator of which is the amount of total gross receipts which are excluded from export gross receipts in the taxable year by reason of subparagraph (C) or (D) of paragraph (2) of section 993(c) (determined without regard to paragraph (2) of section 603(b) of the Tax Reduction Act of 1975)."
 

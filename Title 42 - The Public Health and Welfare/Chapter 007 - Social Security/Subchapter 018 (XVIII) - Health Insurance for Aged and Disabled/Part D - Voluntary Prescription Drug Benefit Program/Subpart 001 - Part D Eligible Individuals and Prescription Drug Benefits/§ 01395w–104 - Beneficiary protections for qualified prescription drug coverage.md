@@ -90,7 +90,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The PDP sponsor of a prescription drug plan shall issue (and reissue, as appropriate) such a card (or other technology) that may be used by an enrollee to assure access to negotiated prices under section 1395w–102(d) of this title.
+&emsp;&emsp;The PDP sponsor of a prescription drug plan shall issue (and reissue, as appropriate)such a card (or other technology) that may be used by an enrollee to assure access to negotiated prices under section 1395w–102(d) of this title.
 
 #### (B) Standards
 
@@ -130,7 +130,7 @@
 
 &emsp;&emsp;&emsp;(i) base clinical decisions on the strength of scientific evidence and standards of practice, including assessing peer-reviewed medical literature, such as randomized clinical trials, pharmacoeconomic studies, outcomes research data, and on such other information as the committee determines to be appropriate; and
 
-&emsp;&emsp;&emsp;(ii) take into account whether including in the formulary (or in a tier in such formulary) particular covered part D drugshas therapeutic advantages in terms of safety and efficacy.
+&emsp;&emsp;&emsp;(ii) take into account whether including in the formulary (or in a tier in such formulary) particular covered part D drugs has therapeutic advantages in terms of safety and efficacy.
 
 #### (C) Inclusion of drugs in all therapeutic categories and classes
 
@@ -168,7 +168,7 @@
 
 #### (II) Exceptions
 
-&emsp;&emsp;&emsp;&emsp;The Secretary may establish exceptions that permit a PDP sponsor offering a prescription drug plan to exclude from its formulary a particular covered part D drug in a category or class that is otherwise required to be included in the formulary under subclause (I) (or to otherwise limit access to such a drug, including through prior authorization or utilization management).
+&emsp;&emsp;&emsp;&emsp;The Secretary may establish exceptions that permit a PDP sponsor offeringa prescription drug plan to exclude from its formulary a particular covered part D drug in a category or class that is otherwise required to be included in the formulary under subclause (I) (or to otherwise limit access to such a drug, including through prior authorization or utilization management).
 
 #### (ii) Identification of drugs in certain categories and classes
 
@@ -214,7 +214,7 @@
 
 &emsp;The PDP sponsor shall have in place, directly or through appropriate arrangements, with respect to covered part D drugs, the following:
 
-&emsp;&emsp;(A) A cost-effective drug utilization management program, including incentives to reduce costs when medically appropriate, such as through the use of multiple sourcedrugs (as defined in section 1396r–8(k)(7)(A)(i) of this title).
+&emsp;&emsp;(A) A cost-effective drug utilization management program, including incentives to reduce costs when medically appropriate, such as through the use of multiple source drugs (as defined in section 1396r–8(k)(7)(A)(i) of this title).
 
 &emsp;&emsp;(B) Quality assurance measures and systems to reduce medication errors and adverse drug interactions and improve medication use.
 
@@ -254,7 +254,7 @@
 
 #### (C) Required interventions
 
-&emsp;&emsp;For plan years beginning on or after the date that is 2 years after March 23, 2010, prescription drug plan sponsors shall offer medication therapy management services to targeted beneficiaries described in subparagraph (A)(ii) that include, at a minimum, the following to increase adherence to prescription medications or other goals deemed necessary by the Secretary:
+&emsp;&emsp;For plan years beginning on or after the date that is 2 years after March 23, 2010, prescription drug plan sponsors shall offermedication therapy management services to targeted beneficiaries described in subparagraph (A)(ii) that include, at a minimum, the following to increase adherence to prescription medications or other goals deemed necessary by the Secretary:
 
 &emsp;&emsp;&emsp;(i) An annual comprehensive medication review furnished person-to-person or using telehealth technologies (as defined by the Secretary) by a licensed pharmacist or other qualified provider. The comprehensive medication review—
 
@@ -310,7 +310,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 #### (A) Provision of information to prescribing health care professional and dispensing pharmacies and pharmacists
 
-&emsp;&emsp;An electronic prescription drug program shall provide for the electronic transmittal to the prescribing health care professional and to the dispensing pharmacy and pharmacist of the prescription and information on eligibility and benefits (including the drugs included in the applicable formulary, any tiered formulary structure, and any requirements for prior authorization) and of the following information with respect to the prescribing and dispensing of a covered part D drug:
+&emsp;&emsp;An electronic prescription drug program shall provide for the electronic transmittal to the prescribing health care professionaland to the dispensing pharmacy and pharmacist of the prescription and information on eligibility and benefits (including the drugs included in the applicable formulary, any tiered formulary structure, and any requirements for prior authorization) and of the following information with respect to the prescribing and dispensing of a covered part D drug:
 
 &emsp;&emsp;&emsp;(i) Information on the drug being prescribed or dispensed and other drugs listed on the medication history, including information on drug-drug interactions, warnings or cautions, and, when indicated, dosage adjustments.
 
@@ -350,7 +350,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 &emsp;&emsp;&emsp;(i) be designed so that, to the extent practicable, the standards do not impose an undue administrative burden on prescribing health care professionals and dispensing pharmacies and pharmacists;
 
-&emsp;&emsp;&emsp;(ii) be compatible with standards established under part C of subchapter XI ofthis chapter, standards established under subsection (b)(2)(B)(i) of this section, and with general health information technology standards; and
+&emsp;&emsp;&emsp;(ii) be compatible with standards established under part C of subchapter XI of this chapter, standards established under subsection (b)(2)(B)(i) of this section, and with general health information technology standards; and
 
 &emsp;&emsp;&emsp;(iii) be designed so that they permit electronic exchange of drug labeling and drug listing information maintained by the Food and Drug Administration and the National Library of Medicine.
 
@@ -440,7 +440,7 @@ In order to provide for comparative information under section 1395w–101(c)(3)(
 
 #### (6) Establishment of safe harbor
 
-&emsp;The Secretary, in consultation with the Attorney General, shall promulgate regulations that provide for a safe harbor from sanctions under paragraphs (1) and (2) of section 1320a–7b(b) of this title and an exception to the prohibition under subsection (a)(1) of section 1395nn of this title with respect to the provision of nonmonetary remuneration (in the form of hardware, software, or information technology and training services) necessary and used solely to receive and transmit electronic prescription information in accordancewith the standards promulgated under this subsection—
+&emsp;The Secretary, in consultation with the Attorney General, shall promulgate regulations that provide for a safe harbor from sanctions under paragraphs (1) and (2) of section 1320a–7b(b) of this title and an exception to the prohibition under subsection (a)(1) of section 1395nn of this title with respect to the provision of nonmonetary remuneration (in the form of hardware, software, or information technology and training services) necessary and used solely to receive and transmit electronic prescription information in accordance with the standards promulgated under this subsection—
 
 &emsp;&emsp;(A) in the case of a hospital, by the hospital to members of its medical staff;
 
@@ -500,7 +500,7 @@ Subparagraph (A) of section 1395w–22(e)(4) of this title (relating to treatmen
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), the information under paragraph (1) shall be provided atthe time of purchase of the drug involved, or, in the case of dispensing by mail order, at the time of delivery of such drug.
+&emsp;&emsp;Subject to subparagraph (B), the information under paragraph (1) shall be provided at the time of purchase of the drug involved, or, in the case of dispensing by mail order, at the time of delivery of such drug.
 
 #### (B) Waiver
 
@@ -534,7 +534,7 @@ Subsec. (c)(2)(C) to (G). Pub. L. 111–148, §10328(a), added subpars. (C) to (
 
 Subsec. (c)(3). Pub. L. 111–148, §3310(a), added par. (3).
 
-<b>2008</b>—Subsec. (b)(3)(C)(i). Pub. L. 110–275, §176(1), substituted “Subject to subparagraph (G), the formulary” for “The formulary”.
+<b>2008</b>—Subsec. (b)(3)(C)(i). Pub. L. 110–275, §176(1), substituted "Subject to subparagraph (G), the formulary" for "The formulary".
 
 Subsec. (b)(3)(G). Pub. L. 110–275, §176(2), added subpar. (G).
 
@@ -548,11 +548,11 @@ Subsec. (l)(4). Pub. L. 110–275, §103(d)(2), added par. (4).
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title III, §3307(b), Mar. 23, 2010, 124 Stat. 472, provided that: “The amendments made by this section \[amending this section\] shall apply to plan year 2011 and subsequent plan years.”
+Pub. L. 111–148, title III, §3307(b), Mar. 23, 2010, 124 Stat. 472, provided that: "The amendments made by this section \[amending this section\] shall apply to plan year 2011 and subsequent plan years."
 
-Pub. L. 111–148, title III, §3310(b), Mar. 23, 2010, 124 Stat. 475, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to plan years beginning on or after January 1, 2012.”
+Pub. L. 111–148, title III, §3310(b), Mar. 23, 2010, 124 Stat. 475, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to plan years beginning on or after January 1, 2012."
 
-Pub. L. 111–148, title III, §3312(b), Mar. 23, 2010, 124 Stat. 476, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to exceptions and appeals on or after January 1, 2012.”
+Pub. L. 111–148, title III, §3312(b), Mar. 23, 2010, 124 Stat. 476, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to exceptions and appeals on or after January 1, 2012."
 
 #### Effective Date of 2008 Amendment
 
@@ -564,73 +564,73 @@ Amendment by section 103(d)(2) of Pub. L. 110–275 applicable to plan years beg
 
 #### Rule of Construction
 
-Pub. L. 111–148, title X, §10328(b), Mar. 23, 2010, 124 Stat. 965, provided that: “Nothing in this section \[amending this section\] shall limit the authority of the Secretary of Health and Human Services to modify or broaden requirements for a medication therapy management program under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\] or to study new models for medication therapy management through the Center for Medicare and Medicaid Innovation under section 1115A of such Act \[42 U.S.C. 1315a\], as added by section 3021 \[of Pub. L. 111–148\].”
+Pub. L. 111–148, title X, §10328(b), Mar. 23, 2010, 124 Stat. 965, provided that: "Nothing in this section \[amending this section\] shall limit the authority of the Secretary of Health and Human Services to modify or broaden requirements for a medication therapy management program under part D of title XVIII of the Social Security Act \[42 U.S.C. 1395w–101 et seq.\] or to study new models for medication therapy management through the Center for Medicare and Medicaid Innovation under section 1115A of such Act \[42 U.S.C. 1315a\], as added by section 3021 \[of Pub. L. 111–148\]."
 
 #### Grants to Physicians To Implement Electronic Prescription Drug Programs
 
 Pub. L. 108–173, title I, §108, Dec. 8, 2003, 117 Stat. 2172, provided that:
 
-“(a)
+"(a)
 
-In General.—The Secretary \[of Health and Human Services\] is authorized to make grants to physicians for the purpose of assisting such physicians to implement electronic prescription drug programs that comply with the standards promulgated or modified under section 1860D–4(e) of the Social Security Act \[subsec. (e) of this section\], as inserted by section 101(a).
+In General.—The Secretary \[of Health and Human Services\] is authorized to make grants to physicians for the purpose of assisting such physicians to implement electronic prescription drug programs that comply with the standards promulgated or modified under section 1860D–4(e) of the Social Security Act \[42 U.S.C. 1395w–104(e)\], as inserted by section 101(a).
 
-“(b)
+"(b)
 
 Awarding of Grants.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Application.—No grant may be made under this section except pursuant to a grant application that is submitted and approved in a time, manner, and form specified by the Secretary.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Considerations and preferences.—In awarding grants under this section, the Secretary shall—
 
-&emsp;&emsp;“(A) give special consideration to physicians who serve a disproportionate number of medicare patients; and
+&emsp;&emsp;"(A) give special consideration to physicians who serve a disproportionate number of medicare patients; and
 
-&emsp;&emsp;“(B) give preference to physicians who serve a rural or underserved area.
+&emsp;&emsp;"(B) give preference to physicians who serve a rural or underserved area.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Limitation on grants.—Only 1 grant may be awarded under this section with respect to any physician or group practice of physicians.
 
-“(c)
+"(c)
 
 Terms and Conditions.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Grants under this section shall be made under such terms and conditions as the Secretary specifies consistent with this section.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Use of grant funds.—Funds provided under grants under this section may be used for any of the following:
 
-&emsp;&emsp;“(A) For purchasing, leasing, and installing computer software and hardware, including handheld computer technologies.
+&emsp;&emsp;"(A) For purchasing, leasing, and installing computer software and hardware, including handheld computer technologies.
 
-&emsp;&emsp;“(B) Making upgrades and other improvements to existing computer software and hardware to enable e-prescribing.
+&emsp;&emsp;"(B) Making upgrades and other improvements to existing computer software and hardware to enable e-prescribing.
 
-&emsp;&emsp;“(C) Providing education and training to eligible physician staff on the use of technology to implement the electronic transmission of prescription and patient information.
+&emsp;&emsp;"(C) Providing education and training to eligible physician staff on the use of technology to implement the electronic transmission of prescription and patient information.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Provision of information.—As a condition for the awarding of a grant under this section, an applicant shall provide to the Secretary such information as the Secretary may require in order to—
 
-&emsp;&emsp;“(A) evaluate the project for which the grant is made; and
+&emsp;&emsp;"(A) evaluate the project for which the grant is made; and
 
-&emsp;&emsp;“(B) ensure that funding provided under the grant is expended only for the purposes for which it is made.
+&emsp;&emsp;"(B) ensure that funding provided under the grant is expended only for the purposes for which it is made.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Audit.—The Secretary shall conduct appropriate audits of grants under this section.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Matching requirement.—The applicant for a grant under this section shall agree, with respect to the costs to be incurred by the applicant in implementing an electronic prescription drug program, to make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that is not less than 50 percent of such costs. Non-Federal contributions under the previous sentence may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such contributions.
 
-“(d)
+"(d)
 
-Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $50,000,000 for fiscal year 2007 and such sums as may be necessary for each of fiscal years 2008 and 2009.”
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this section $50,000,000 for fiscal year 2007 and such sums as may be necessary for each of fiscal years 2008 and 2009."
 
 <i><sup>1</sup></i><i> So in original. Two subpars. (E) have been enacted.</i>
 

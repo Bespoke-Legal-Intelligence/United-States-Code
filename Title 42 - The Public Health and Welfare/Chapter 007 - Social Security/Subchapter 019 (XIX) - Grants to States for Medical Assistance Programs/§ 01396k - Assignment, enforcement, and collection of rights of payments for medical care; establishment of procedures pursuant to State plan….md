@@ -8,25 +8,35 @@
 
 &emsp;&emsp;(B) to cooperate with the State (i) in establishing the paternity of such person (referred to in subparagraph (A)) if the person is a child born out of wedlock, and (ii) in obtaining support and payments (described in subparagraph (A)) for himself and for such person, unless (in either case) the individual is described in section 1396a(l)(1)(A) of this title or the individual is found to have good cause for refusing to cooperate as determined by the State agency in accordance with standards prescribed by the Secretary, which standards shall take into consideration the best interests of the individuals involved; and
 
-&emsp;&emsp;(C) to cooperate with the State in identifying, and providing information to assist the State in pursuing, any third party who may be liable to pay for care and services available under the plan, unless such individual has good cause for refusing to cooperate as determined by the State agency in accordance with standards prescribed by the Secretary, which standards shall take into consideration the best interests of the individuals involved; and
+&emsp;&emsp;(C) to cooperate with the State in identifying, and providing information to assist the State in pursuing, any third party who may be liable to pay for care and services available under the plan, unless such individual has good cause for refusing to cooperate asdetermined by the State agency in accordance with standards prescribed by the Secretary, which standards shall take into consideration the best interests of the individuals involved; and
 
 &emsp;(2) provide for entering into cooperative arrangements (including financial arrangements), with any appropriate agency of any State (including, with respect to the enforcement and collection of rights of payment for medical care by or through a parent, with a State's agency established or designated under section 654(3) of this title) and with appropriate courts and law enforcement officials, to assist the agency or agencies administering the State plan with respect to (A) the enforcement and collection of rights to support or payment assigned under this section and (B) any other matters of common concern.
 
 (b) Such part of any amount collected by the State under an assignment made under the provisions of this section shall be retained by the State as is necessary to reimburse it for medical assistance payments made on behalf of an individual with respect to whom such assignment was executed (with appropriate reimbursement of the Federal Government to the extent of its participation in the financing of such medical assistance), and the remainder of such amount collected shall be paid to such individual.
 
-(Aug. 14, 1935, ch. 531, title XIX, §1912, as added Pub. L. 95–142, §11(b), Oct. 25, 1977, 91 Stat. 1196; amended Pub. L. 98–369, div. B, title III, §2367(b), July 18, 1984, 98 Stat. 1109; Pub. L. 99–272, title IX, §9503(e), Apr. 7, 1986, 100 Stat. 207; Pub. L. 101–508, title IV, §4606(a), Nov. 5, 1990, 104 Stat. 1388–170.)
+(Aug. 14, 1935, ch. 531, title XIX, §1912, as added Pub. L. 95–142, §11(b), Oct. 25, 1977, 91 Stat. 1196; amended Pub. L. 98–369, div. B, title III, §2367(b), July 18, 1984, 98 Stat. 1109; Pub. L. 99–272, title IX, §9503(e), Apr. 7, 1986, 100 Stat. 207; Pub. L. 101–508, title IV, §4606(a), Nov. 5, 1990, 104 Stat. 1388–170; Pub. L. 113–67, div. A, title II, §202(b)(2), Dec. 26, 2013, 127 Stat. 1177.)
+
+#### Amendment of Subsection (a)(1)(A)
+
+<i>Pub. L. 113–67, div. A, title II, §202(b)(2), (c), Dec. 26, 2013, 127 Stat. 1177, provided that, effective Oct. 1, 2014, subsection (a)(1)(A) of this section is amended by striking "payment for medical care from any third party" and inserting "any payment from a third party that has a legal liability to pay for care and services available under the plan". See 2013 Amendment note below.</i>
 
 #### Amendments
 
-<b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–508 inserted “the individual is described in section 1396a(l)(1)(A) of this title or” after “unless (in either case)”.
+<b>2013</b>—Subsec. (a)(1)(A). Pub. L. 113–67 substituted "any payment from a third party that has a legal liability to pay for care and services available under the plan" for "payment for medical care from any third party".
+
+<b>1990</b>—Subsec. (a)(1)(B). Pub. L. 101–508 inserted "the individual is described in section 1396a(l)(1)(A) of this title or" after "unless (in either case)".
 
 <b>1986</b>—Subsec. (a)(1)(C). Pub. L. 99–272 added subpar. (C).
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted “State plan for medical assistance shall” for “State plan for medical assistance may”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–369 substituted "State plan for medical assistance shall" for "State plan for medical assistance may".
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 113–67 effective Oct. 1, 2014, see section 202(c) of Pub. L. 113–67, set out as a note under section 1396a of this title.
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title IV, §4606(b), Nov. 5, 1990, 104 Stat. 1388–170, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title IV, §4606(b), Nov. 5, 1990, 104 Stat. 1388–170, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Effective Date of 1986 Amendment
 

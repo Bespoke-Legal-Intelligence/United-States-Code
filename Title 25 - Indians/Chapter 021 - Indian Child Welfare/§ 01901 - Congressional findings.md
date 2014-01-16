@@ -1,8 +1,8 @@
 ### §1901. Congressional findings
 
-Recognizing the special relationship between the United States and the Indian tribes and their members and the Federal responsibility to Indian people, the Congress finds—
+Recognizing the special relationship between the United States and the Indian tribes andtheir members and the Federal responsibility to Indian people, the Congress finds—
 
-&emsp;(1) that clause 3, section 8, article I of the United States Constitution provides that “The Congress shall have Power \* \* \* To regulate Commerce \* \* \* with Indian tribes <sup>1</sup>” and, through this and other constitutional authority, Congress has plenary power over Indian affairs;
+&emsp;(1) that clause 3, section 8, article I of the United States Constitution provides that "The Congress shall have Power \* \* \* To regulate Commerce \* \* \* with Indian tribes <sup>1</sup>" and, through this and other constitutional authority, Congress has plenary power over Indian affairs;
 
 &emsp;(2) that Congress, through statutes, treaties, and the general course of dealing with Indian tribes, has assumed the responsibility for the protection and preservation of Indian tribes and their resources;
 
@@ -16,7 +16,7 @@ Recognizing the special relationship between the United States and the Indian tr
 
 #### Short Title
 
-Pub. L. 95–608, §1, Nov. 8, 1987, 92 Stat. 3069, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Indian Child Welfare Act of 1978’.”
+Pub. L. 95–608, §1, Nov. 8, 1987, 92 Stat. 3069, provided: "That this Act \[enacting this chapter\] may be cited as the 'Indian Child Welfare Act of 1978'."
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

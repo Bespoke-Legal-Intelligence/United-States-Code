@@ -18,7 +18,7 @@ Time for filing demand.—Within 30 days after the filing of an arbitration awar
 
 &emsp;(2)
 
-Action restored to court docket.—Upon a demand for a trial de novo, the actionshall be restored to the docket of the court and treated for all purposes as if it had not been referred to arbitration.
+Action restored to court docket.—Upon a demand for a trial de novo, the action shall be restored to the docket of the court and treated for all purposes as if it had not been referred to arbitration.
 
 &emsp;(3)
 

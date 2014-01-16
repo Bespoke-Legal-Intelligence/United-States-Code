@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Not later than 1 year after enactment of the Railroad Safety Enhancement Act of 2008,<sup>1</sup> the Secretary of Transportation shall prescribe standards, guidance, regulations, or orders governing the development, use, and implementation of rail safety technology in dark territory, in arrangements not defined in section 20501 or otherwise not covered by Federal standards, guidance, regulations, or orders that ensure the safe operation of such technology, such as—
+In General.—Not later than 1 year after enactment of the Railroad Safety EnhancementAct of 2008,<sup>1</sup> the Secretary of Transportation shall prescribe standards, guidance, regulations, or orders governing the development, use, and implementation of rail safety technology in dark territory, in arrangements not defined in section 20501 or otherwise not covered by Federal standards, guidance, regulations, or orders that ensure the safe operation of such technology, such as—
 
 &emsp;(1) switch position monitoring devices or indicators;
 
@@ -22,7 +22,7 @@ In General.—Not later than 1 year after enactment of the Railroad Safety Enhan
 
 (b)
 
-Dark Territory Defined.—In this section, the term “dark territory” means any territory in a railroad system that does not have a signal or train control system installed or operational.
+Dark Territory Defined.—In this section, the term "dark territory" means any territory in a railroad system that does not have a signal or train control system installed or operational.
 
 (Added Pub. L. 110–432, div. A, title IV, §406(a), Oct. 16, 2008, 122 Stat. 4886.)
 

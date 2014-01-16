@@ -14,7 +14,7 @@ The general application submitted by a local educational agency under subsection
 
 &emsp;(3) that the local educational agency will use fiscal control and fund accounting procedures that will ensure proper disbursement of, and accounting for, Federal funds paid to that agency under each program;
 
-&emsp;(4) that the local educational agency will make reports to the State agency or board and to the Secretary as may reasonably be necessary to enable the State agency or board and the Secretary to perform their duties and that the local educational agency will maintain such records, including the records required under section 1232f of this title, and provide access to those records, as the State agency or board or the Secretary deem necessary to perform their duties;
+&emsp;(4) that the local educational agency will make reports to the State agency or board and to the Secretary as may reasonably be necessary to enable the State agency or board andthe Secretary to perform their duties and that the local educational agency will maintain such records, including the records required under section 1232f of this title, and provide access to those records, as the State agency or board or the Secretary deem necessary to perform their duties;
 
 &emsp;(5) that the local educational agency will provide reasonable opportunities for the participation by teachers, parents, and other interested agencies, organizations, and individuals in the planning for and operation of each program;
 
@@ -26,7 +26,7 @@ The general application submitted by a local educational agency under subsection
 
 &emsp;&emsp;(B) in developing plans for construction, due consideration will be given to excellence of architecture and design and to compliance with standards prescribed by the Secretary under section 794 of title 29 in order to ensure that facilities constructed with the use of Federal funds are accessible to and usable by individuals with disabilities;
 
-&emsp;(8) that the local educational agency has adopted effective procedures for acquiring and disseminating to teachers and administratorsparticipating in each program significant information from educational research, demonstrations, and similar projects, and for adopting, where appropriate, promising educational practices developed through such projects; and
+&emsp;(8) that the local educational agency has adopted effective procedures for acquiring and disseminating to teachers and administrators participating in each program significant information from educational research, demonstrations, and similar projects, and for adopting, where appropriate, promising educational practices developed through such projects; and
 
 &emsp;(9) that none of the funds expended under any applicable program will be used to acquire equipment (including computer software) in any instance in which such acquisition results in a direct financial benefit to any organization representing the interests of the purchasing entity or its employees or any affiliate of such an organization.
 
@@ -44,15 +44,15 @@ A prior section 442 of Pub. L. 90–247 was classified to section 1233a of this 
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–382, §261(g)(1), substituted “that local educational agency” for “that local education agency”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–382, §261(g)(1), substituted "that local educational agency" for "that local education agency".
 
-Subsec. (b)(2). Pub. L. 103–382, §261(g)(2)(A), inserted comma after “program”.
+Subsec. (b)(2). Pub. L. 103–382, §261(g)(2)(A), inserted comma after "program".
 
-Subsec. (b)(4). Pub. L. 103–382, §261(g)(2)(B), substituted “Secretary” for “Commissioner” wherever appearing.
+Subsec. (b)(4). Pub. L. 103–382, §261(g)(2)(B), substituted "Secretary" for "Commissioner" wherever appearing.
 
 Pub. L. 103–382, §212(b)(3)(B), made technical amendment to reference to section 1232f of this title to reflect renumbering of corresponding section of original act.
 
-Subsec. (b)(7)(B). Pub. L. 103–382, §261(g)(2)(C), substituted “individuals with disabilities” for “handicapped individuals”.
+Subsec. (b)(7)(B). Pub. L. 103–382, §261(g)(2)(C), substituted "individuals with disabilities" for "handicapped individuals".
 
 <b>1984</b>—Subsec. (b)(9). Pub. L. 98–511 added par. (9).
 

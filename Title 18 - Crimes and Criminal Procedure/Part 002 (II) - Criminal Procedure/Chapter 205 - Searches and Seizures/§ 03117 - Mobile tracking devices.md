@@ -6,7 +6,7 @@ In General.—If a court is empowered to issue a warrant or other order for the 
 
 (b)
 
-Definition.—As used in this section, the term “tracking device” means an electronic or mechanical device which permits the tracking of the movement of a person or object.
+Definition.—As used in this section, the term "tracking device" means an electronic or mechanical device which permits the tracking of the movement of a person or object.
 
 (Added Pub. L. 99–508, title I, §108(a), Oct. 21, 1986, 100 Stat. 1858.)
 

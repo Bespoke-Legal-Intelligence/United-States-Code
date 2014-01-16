@@ -10,5 +10,5 @@ Section 401(a) of the Tariff Classification Act of 1962, referred to in text, is
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–206 substituted existing catchline for “Most-favored-nation principle”.
+<b>1998</b>—Pub. L. 105–206 substituted existing catchline for "Most-favored-nation principle".
 

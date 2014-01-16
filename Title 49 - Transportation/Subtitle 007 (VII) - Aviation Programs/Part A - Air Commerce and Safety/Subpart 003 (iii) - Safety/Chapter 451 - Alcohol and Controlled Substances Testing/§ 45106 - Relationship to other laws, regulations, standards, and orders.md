@@ -16,7 +16,7 @@ International Obligations and Foreign Laws.—(1) In prescribing regulations und
 
 (c)
 
-Other Regulations Allowed.—This section does not prevent the Administrator from continuing in effect, amending, or further supplementing a regulation prescribed before October 28, 1991, governing the use of alcohol or acontrolled substance by airmen, crewmembers, airport security screening employees, air carrier employees responsible for safety-sensitive functions (as decided by the Administrator), or employees of the Administration with responsibility for safety-sensitive functions.
+Other Regulations Allowed.—This section does not prevent the Administrator from continuing in effect, amending, or further supplementing a regulation prescribed before October 28, 1991, governing the use of alcohol or a controlled substance by airmen, crewmembers, airport security screening employees, air carrier employees responsible for safety-sensitive functions (as decided by the Administrator), or employees of the Administration with responsibility for safety-sensitive functions.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1224; Pub. L. 107–71, title I, §139(3), Nov. 19, 2001, 115 Stat. 640.)
 
@@ -44,11 +44,11 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §614(e); added Oct. 28, 1991, Pu
 
 49 App.:1434(e)(2).
 
-In subsection (a), the word “prescribe” is substituted for “adopt” for consistency in the revised title and with other titles of the United States Code. The word “rule” is omitted as being synonymous with “regulation”. The word “ordinance” is omitted as being included in “law” and “regulation”. The words “actual” and “whether the provisions apply specifically to employees of an air carrier or foreign air carrier, or to the general public” are omitted as surplus.
+In subsection (a), the word "prescribe" is substituted for "adopt" for consistency in the revised title and with other titles of the United States Code. The word "rule" is omitted as being synonymous with "regulation". The word "ordinance" is omitted as being included in "law" and "regulation". The words "actual" and "whether the provisions apply specifically to employees of an air carrier or foreign air carrier, or to the general public" are omitted as surplus.
 
-In subsection (c) the word “prevent” is substituted for “restrict the discretion of” to eliminate unnecessary words.
+In subsection (c) the word "prevent" is substituted for "restrict the discretion of" to eliminate unnecessary words.
 
 #### Amendments
 
-<b>2001</b>—Subsec. (c). Pub. L. 107–71 substituted “screening employees” for “screening contract employees”.
+<b>2001</b>—Subsec. (c). Pub. L. 107–71 substituted "screening employees" for "screening contract employees".
 

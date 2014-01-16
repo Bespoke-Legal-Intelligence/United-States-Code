@@ -101,11 +101,11 @@ Rep.
 
 Rep.
 
-18 (words before “for patriotic”)
+18 (words before "for patriotic")
 
 153101
 
-18 (words beginning with “for patriotic”)
+18 (words beginning with "for patriotic")
 
 153102
 
@@ -129,11 +129,11 @@ Rep.
 
 153104
 
-20 (1st sentence words before “for the promotion”)
+20 (1st sentence words before "for the promotion")
 
 21301
 
-20 (1st sentence words beginning with “for the promotion”)
+20 (1st sentence words beginning with "for the promotion")
 
 21302
 
@@ -821,11 +821,11 @@ Rep.
 
 2103
 
-139 (words before “for patriotic, historical, and educational purposes”)
+139 (words before "for patriotic, historical, and educational purposes")
 
 153901
 
-139 (words beginning with “for patriotic, historical, and educational purposes”)
+139 (words beginning with "for patriotic, historical, and educational purposes")
 
 153902
 
@@ -5021,11 +5021,11 @@ Rep.
 
 10102
 
-4401 (words before “for the following objects and purposes”)
+4401 (words before "for the following objects and purposes")
 
 70701
 
-4401 (words beginning with “for the following objects and purposes”)
+4401 (words beginning with "for the following objects and purposes")
 
 70702
 
@@ -5317,11 +5317,11 @@ Rep.
 
 21504
 
-4903 (words before 8th comma less “gratuitously or otherwise”)
+4903 (words before 8th comma less "gratuitously or otherwise")
 
 21502
 
-4903 (“gratuitously or otherwise” and words after 8th comma)
+4903 ("gratuitously or otherwise" and words after 8th comma)
 
 21505
 
@@ -5589,11 +5589,11 @@ Rep.
 
 10102
 
-5401 (1st sentence words before “for the education of the general public”)
+5401 (1st sentence words before "for the education of the general public")
 
 200101
 
-5401 (1st sentence words beginning with “for the education of the general public”)
+5401 (1st sentence words beginning with "for the education of the general public")
 
 200102
 
@@ -5617,7 +5617,7 @@ Rep.
 
 10102
 
-5501(a) (less “nonprofit”)
+5501(a) (less "nonprofit")
 
 40701
 
@@ -6047,71 +6047,71 @@ Rep.
 
 #### Enacting Clause
 
-Pub. L. 105–225, §1, Aug. 12, 1998, 112 Stat. 1253, provided in part that: “Certain general and permanent laws of the United States, related to patriotic and national observances, ceremonies, and organizations, are revised, codified, and enacted as title 36, United States Code, ‘Patriotic and National Observances, Ceremonies, and Organizations’ ”.
+Pub. L. 105–225, §1, Aug. 12, 1998, 112 Stat. 1253, provided in part that: "Certain general and permanent laws of the United States, related to patriotic and national observances, ceremonies, and organizations, are revised, codified, and enacted as title 36, United States Code, 'Patriotic and National Observances, Ceremonies, and Organizations' ".
 
 #### Legislative Purpose and Construction
 
 Pub. L. 105–354, §4, Nov. 3, 1998, 112 Stat. 3245, provided that:
 
-“(a)
+"(a)
 
 No Substantive Change.—(1) Section 1 of this Act restates, without substantive change, laws enacted before September 5, 1998, that were replaced by section 1. Section 1 may not be construed as making a substantive change in the laws replaced.
 
-“(2) Laws enacted after September 4, 1998, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
+"(2) Laws enacted after September 4, 1998, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
-“(b)
+"(b)
 
 References.—A reference to a law replaced by this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
 
-“(c)
+"(c)
 
 Continuing Effect.—An order, rule, or regulation in effect under a law replaced by this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
 
-“(d)
+"(d)
 
 Actions and Offenses Under Prior Law.—An action taken or an offense committed under a law replaced by this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
 
-“(e)
+"(e)
 
 Inferences.—An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of a heading of the provision.
 
-“(f)
+"(f)
 
-Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications."
 
 Pub. L. 105–225, §5, Aug. 12, 1998, 112 Stat. 1499, provided that:
 
-“(a)
+"(a)
 
 No Substantive Change.—Sections 1 and 2 of this Act restate, without substantive change, laws enacted before August 16, 1997, that were replaced by those sections. Those sections may not be construed as making a substantive change in the laws replaced. Laws enacted after August 15, 1997, that are inconsistent with this Act supersede this Act to the extent of the inconsistency.
 
-“(b)
+"(b)
 
 References.—A reference to a law replaced by section 1 or 2 of this Act, including a reference in a regulation, order, or other law, is deemed to refer to the corresponding provision enacted by this Act.
 
-“(c)
+"(c)
 
 Continuing Effect.—An order, rule, or regulation in effect under a law replaced by section 1 or 2 of this Act continues in effect under the corresponding provision enacted by this Act until repealed, amended, or superseded.
 
-“(d)
+"(d)
 
 Actions and Offenses Under Prior Law.—An action taken or an offense committed under a law replaced by section 1 or 2 of this Act is deemed to have been taken or committed under the corresponding provision enacted by this Act.
 
-“(e)
+"(e)
 
 Inferences.—An inference of a legislative construction is not to be drawn by reason of the location in the United States Code of a provision enacted by this Act or by reason of a caption or catch line of the provision.
 
-“(f)
+"(f)
 
-Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications.”
+Severability.—If a provision enacted by this Act is held invalid, all valid provisions that are severable from the invalid provision remain in effect. If a provision enacted by this Act is held invalid in any of its applications, the provision remains valid for all valid applications that are severable from any of the invalid applications."
 
 #### Repeals and Savings Provisions
 
-Pub. L. 105–354, §5(a), Nov. 3, 1998, 112 Stat. 3245, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 105–354, §5(a), Nov. 3, 1998, 112 Stat. 3245, provided that: "The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal."
 
 Pub. L. 105–354, §5(b), Nov. 3, 1998, 112 Stat. 3245, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Nov. 3, 1998.
 
-Pub. L. 105–225, §6(a), Aug. 12, 1998, 112 Stat. 1499, provided that: “The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal.”
+Pub. L. 105–225, §6(a), Aug. 12, 1998, 112 Stat. 1499, provided that: "The repeal of a law by this Act may not be construed as a legislative inference that the provision was or was not in effect before its repeal."
 
 Pub. L. 105–225, §6(b), Aug. 12, 1998, 112 Stat. 1499, repealed specified laws, except for rights and duties that matured, penalties that were incurred, and proceedings that were begun before Aug. 12, 1998.
 

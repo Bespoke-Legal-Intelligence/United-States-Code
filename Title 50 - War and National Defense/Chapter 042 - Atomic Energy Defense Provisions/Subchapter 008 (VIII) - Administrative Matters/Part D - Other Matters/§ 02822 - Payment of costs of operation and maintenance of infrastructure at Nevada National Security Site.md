@@ -6,5 +6,5 @@ Notwithstanding any other provision of law and effective as of September 30, 199
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–239 substituted “Nevada National Security Site” for “Nevada Test Site” in section catchline and in two places in text.
+<b>2013</b>—Pub. L. 112–239 substituted "Nevada National Security Site" for "Nevada Test Site" in section catchline and in two places in text.
 

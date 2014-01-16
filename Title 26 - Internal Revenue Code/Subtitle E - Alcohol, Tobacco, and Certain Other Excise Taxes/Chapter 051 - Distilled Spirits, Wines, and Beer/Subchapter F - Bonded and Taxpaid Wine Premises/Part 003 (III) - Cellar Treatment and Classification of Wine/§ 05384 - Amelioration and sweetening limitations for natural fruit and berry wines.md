@@ -10,7 +10,7 @@ To natural wine made from berries or fruit other than grapes, pure dry sugar or 
 
 (2) Pure dry sugar or liquid sugar may be used in the production of wines under this subsection for the purpose of correcting natural deficiencies, but not to such an extent as would reduce the natural fixed acid in the corrected juice or wine to five parts per thousand. The quantity of sugar so used shall not exceed the quantity which would have been required to adjust the juice, prior to fermentation, to a total solids content of 25 degrees (Brix). Such sugar shall be added prior to the completion of fermentation of the wine. After such addition of the sugar, the wine or juice shall be treated and accounted for as provided in section 5383(b), covering the production of high acid grape wines, except that—
 
-&emsp;(A) Natural fixed acid shall be calculated as malic acid for apple wine and as citric acid for other fruit and berry wines, instead of tartaric acid;
+&emsp;(A) Natural fixed acid shall be calculated as malic acid for apple wine and as citric acid forother fruit and berry wines, instead of tartaric acid;
 
 &emsp;(B) Juice adjusted with pure dry sugar or liquid sugar as provided in this paragraph shall be treated in the same manner as original natural juice under the provisions of section 5383(b); except that if liquid sugar is used, the volume of water contained therein must be deducted from the volume of ameliorating material authorized;
 
@@ -26,31 +26,31 @@ A prior section 5384, act Aug. 16, 1954, ch. 736, 68A Stat. 670, consisted of pr
 
 #### Amendments
 
-<b>1997</b>—Subsec. (b)(2)(D). Pub. L. 105–34 substituted “any fruit or berry with a natural fixed acid of 20 parts per thousand or more (before any correction of such fruit or berry)” for “loganberries, currants, or gooseberries,”.
+<b>1997</b>—Subsec. (b)(2)(D). Pub. L. 105–34 substituted "any fruit or berry with a natural fixed acid of 20 parts per thousand or more (before any correction of such fruit or berry)" for "loganberries, currants, or gooseberries,".
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–619 substituted “not more than 14 percent” for “less than 14 percent”.
+<b>1968</b>—Subsec. (a). Pub. L. 90–619 substituted "not more than 14 percent" for "less than 14 percent".
 
 <b>1965</b>—Subsec. (a). Pub. L. 89–44, §806(b)(2)(A), authorized addition of liquid sugar provided resultant volume will not exceed volume which could result from maximum authorized use of pure dry sugar only.
 
-Subsec. (b). Pub. L. 89–44, §806(c)(3), substituted “Ameliorated” for “Reserve” in heading.
+Subsec. (b). Pub. L. 89–44, §806(c)(3), substituted "Ameliorated" for "Reserve" in heading.
 
 Subsec. (b)(1). Pub. L. 89–44, §806(b)(2)(B), struck out references to reserves and reserve inventories.
 
 Subsec. (b)(2). Pub. L. 89–44, §806(b)(2)(C), amended first sentence by authorizing use of liquid sugar but limiting use of any sugar if it reduced natural fixed acid in corrected juice or wine to five parts per thousand.
 
-Pub. L. 89–44, §806(c)(2), struck out “reserved” after “covering the production of” in fourth sentence.
+Pub. L. 89–44, §806(c)(2), struck out "reserved" after "covering the production of" in fourth sentence.
 
 Subsec. (b)(2)(B). Pub. L. 89–44, §806(b)(2)(D), required that, if liquid sugar is used, the volume of water contained therein be deducted from the volume of ameliorating material authorized.
 
-Subsec. (b)(2)(C). Pub. L. 89–44, §806(b)(2)(E), substituted “shall have” for “may be withdrawn from reserve inventory with”.
+Subsec. (b)(2)(C). Pub. L. 89–44, §806(b)(2)(E), substituted "shall have" for "may be withdrawn from reserve inventory with".
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title XIV, §1417(b), Aug. 5, 1997, 111 Stat. 1048, provided that: “The amendment made by this section \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title XIV, §1417(b), Aug. 5, 1997, 111 Stat. 1048, provided that: "The amendment made by this section \[amending this section\] shall take effect on the 1st day of the 1st calendar quarter that begins at least 180 days after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–619 effective on first day of first month which begins 90 days or more after Oct. 22,1968, see section 6 of Pub. L. 90–619, set out as a note under section 5373 of this title.
+Amendment by Pub. L. 90–619 effective on first day of first month which begins 90 days or more after Oct. 22, 1968, see section 6 of Pub. L. 90–619, set out as a note under section 5373 of this title.
 
 #### Effective Date of 1965 Amendment
 

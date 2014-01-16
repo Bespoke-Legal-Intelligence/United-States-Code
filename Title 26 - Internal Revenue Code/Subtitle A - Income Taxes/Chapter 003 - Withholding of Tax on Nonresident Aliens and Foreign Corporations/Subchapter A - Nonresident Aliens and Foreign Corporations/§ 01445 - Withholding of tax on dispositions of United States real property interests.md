@@ -30,7 +30,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (B) Qualifying statement
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “qualifying statement” means a statement by the Secretary that—
+&emsp;&emsp;For purposes of subparagraph (A), the term "qualifying statement" means a statement by the Secretary that—
 
 &emsp;&emsp;&emsp;(i) the transferor either—
 
@@ -154,7 +154,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (3) Transferor's agent
 
-&emsp;For purposes of this subsection, the term “transferor's agent” means any person who represents the transferor—
+&emsp;For purposes of this subsection, the term "transferor's agent" means any person who represents the transferor—
 
 &emsp;&emsp;(A) in any negotiation with the transferee or any transferee's agent related to the transaction, or
 
@@ -162,7 +162,7 @@ Except as otherwise provided in this section, in the case of any disposition of 
 
 #### (4) Transferee's agent
 
-&emsp;For purposes of this subsection, the term “transferee's agent” means any person who represents the transferee—
+&emsp;For purposes of this subsection, the term "transferee's agent" means any person who represents the transferee—
 
 &emsp;&emsp;(A) in any negotiation with the transferor or any transferor's agent related to the transaction, or
 
@@ -216,19 +216,19 @@ For purposes of this section—
 
 #### (1) Transferor
 
-&emsp;The term “transferor” means the person disposing of the United States real property interest.
+&emsp;The term "transferor" means the person disposing of the United States real property interest.
 
 #### (2) Transferee
 
-&emsp;The term “transferee” means the person acquiring the United States real property interest.
+&emsp;The term "transferee" means the person acquiring the United States real property interest.
 
 #### (3) Foreign person
 
-&emsp;The term “foreign person” means any person other than a United States person.
+&emsp;The term "foreign person" means any person other than a United States person.
 
 #### (4) Transferor's maximum tax liability
 
-&emsp;The term “transferor's maximum tax liability” means, with respect to the disposition of any interest, the sum of—
+&emsp;The term "transferor's maximum tax liability" means, with respect to the disposition of any interest, the sum of—
 
 &emsp;&emsp;(A) the maximum amount which the Secretary determines could be imposed as tax under section 871(b)(1) or 882(a)(1) by reason of the disposition, plus
 
@@ -236,11 +236,11 @@ For purposes of this section—
 
 #### (5) Transferor's unsatisfied withholding liability
 
-&emsp;The term “transferor's unsatisfied withholding liability” means the withholding obligation imposed by this section on the transferor's acquisition of the United States real property interest or on the acquisition of a predecessor interest, to the extent such obligation has not been satisfied.
+&emsp;The term "transferor's unsatisfied withholding liability" means the withholding obligation imposed by this section on the transferor's acquisition of the United States real property interest or on the acquisition of a predecessor interest, to the extent such obligation has not been satisfied.
 
 #### (6) Qualified substitute
 
-&emsp;The term “qualified substitute” means, with respect to a disposition of a United States real property interest—
+&emsp;The term "qualified substitute" means, with respect to a disposition of a United States real property interest—
 
 &emsp;&emsp;(A) the person (including any attorney or title company) responsible for closing the transaction, other than the transferor's agent, and
 
@@ -250,15 +250,15 @@ For purposes of this section—
 
 #### Amendments
 
-<b>2013</b>—Subsec. (e)(1). Pub. L. 112–240, §102(c)(1)(C), substituted “20 percent” for “15 percent” in introductory provisions.
+<b>2013</b>—Subsec. (e)(1). Pub. L. 112–240, §102(c)(1)(C), substituted "20 percent" for "15 percent" in introductory provisions.
 
-Subsec. (e)(6). Pub. L. 112–240, §102(c)(3), substituted “20 percent” for “15 percent (20 percent in the case of taxable years beginning after December 31, 2010)”.
+Subsec. (e)(6). Pub. L. 112–240, §102(c)(3), substituted "20 percent" for "15 percent (20 percent in the case of taxable years beginning after December 31, 2010)".
 
 <b>2008</b>—Subsec. (b)(7). Pub. L. 110–289, §3024(c)(1), amended par. (7) generally. Prior to amendment, par. (7) related to special rules for paragraphs (2) and (3).
 
 Subsec. (b)(9). Pub. L. 110–289, §3024(a), added par. (9).
 
-Subsec. (d). Pub. L. 110–289, §3024(c)(2)(C), substituted “, transferee's agents, or qualified substitutes” for “or transferee's agents” in heading.
+Subsec. (d). Pub. L. 110–289, §3024(c)(2)(C), substituted ", transferee's agents, or qualified substitutes" for "or transferee's agents" in heading.
 
 Subsec. (d)(1). Pub. L. 110–289, §3024(c)(2)(A), amended par. (1) generally. Prior to amendment, par. (1) related to notice of false affidavit; foreign corporations.
 
@@ -270,43 +270,43 @@ Subsec. (f)(6). Pub. L. 110–289, §3024(b), added par. (6).
 
 Subsec. (e)(6), (7). Pub. L. 109–222, §505(b), added par. (6) and redesignated former par. (6) as (7).
 
-<b>2003</b>—Subsec. (e)(1). Pub. L. 108–27 substituted “15 percent” for “20 percent”.
+<b>2003</b>—Subsec. (e)(1). Pub. L. 108–27 substituted "15 percent" for "20 percent".
 
-<b>1997</b>—Subsec. (e)(1). Pub. L. 105–34 substituted “20 percent” for “28 percent” in introductory provisions.
+<b>1997</b>—Subsec. (e)(1). Pub. L. 105–34 substituted "20 percent" for "28 percent" in introductory provisions.
 
-<b>1996</b>—Subsec. (e)(3). Pub. L. 104–188 inserted at end “Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation.”
+<b>1996</b>—Subsec. (e)(3). Pub. L. 104–188 inserted at end "Rules similar to the rules of the preceding provisions of this paragraph shall apply in the case of any distribution to which section 301 applies and which is not made out of the earnings and profits of such a domestic corporation."
 
-<b>1993</b>—Subsec. (e)(1), (2). Pub. L. 103–66 substituted “35 percent” for “34 percent”.
+<b>1993</b>—Subsec. (e)(1), (2). Pub. L. 103–66 substituted "35 percent" for "34 percent".
 
-<b>1988</b>—Subsec. (e)(1). Pub. L. 100–647 inserted “(or, to the extent provided in regulations, 28 percent)” after “to 34 percent”.
+<b>1988</b>—Subsec. (e)(1). Pub. L. 100–647 inserted "(or, to the extent provided in regulations, 28 percent)" after "to 34 percent".
 
-<b>1986</b>—Subsec. (b)(3). Pub. L. 99–514, §1810(f)(2), amended par. (3) generally, substituting “interests in corporation not United States real property interests” for “it is not a United States real property holding corporation” in heading, striking out the comma before “if the domestic corporation” in introductory provisions, inserting subpar. (A) designation and adding subpar. (B).
+<b>1986</b>—Subsec. (b)(3). Pub. L. 99–514, §1810(f)(2), amended par. (3) generally, substituting "interests in corporation not United States real property interests" for "it is not a United States real property holding corporation" in heading, striking out the comma before "if the domestic corporation" in introductory provisions, inserting subpar. (A) designation and adding subpar. (B).
 
-Subsec. (d)(1)(A). Pub. L. 99–514, §1810(f)(3)(B), substituted “paragraph (2)” for “paragraph (2)(A)”.
+Subsec. (d)(1)(A). Pub. L. 99–514, §1810(f)(3)(B), substituted "paragraph (2)" for "paragraph (2)(A)".
 
-Subsec. (d)(1)(B)(i). Pub. L. 99–514, §1810(f)(3)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “any transferor's agent, the transferor is a foreign corporation or such agent has actual knowledge that such affidavit is false, or”.
+Subsec. (d)(1)(B)(i). Pub. L. 99–514, §1810(f)(3)(A), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "any transferor's agent, the transferor is a foreign corporation or such agent has actual knowledge that such affidavit is false, or".
 
-Subsec. (e)(1). Pub. L. 99–514, §311(b)(4), substituted “34 percent” for “28 percent”.
+Subsec. (e)(1). Pub. L. 99–514, §311(b)(4), substituted "34 percent" for "28 percent".
 
-Pub. L. 99–514, §1810(f)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “A domestic partnership, the trustee of a domestic trust, or the executor of a domestic estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of any amount of which such partnership, trustee, or executor has custody which is—
+Pub. L. 99–514, §1810(f)(4), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "A domestic partnership, the trustee of a domestic trust, or the executor of a domestic estate shall be required to deduct and withhold under subsection (a) a tax equal to 10 percent of any amount of which such partnership, trustee, or executor has custody which is—
 
-&emsp;“(A) attributable to the disposition of a United States real property interest (as defined in section 897(c), other than a disposition described in paragraph (4) or (5)), and
+&emsp;"(A) attributable to the disposition of a United States real property interest (as defined in section 897(c), other than a disposition described in paragraph (4) or (5)), and
 
-&emsp;“(B) either—
+&emsp;"(B) either—
 
-&emsp;&emsp;“(i) includible in the distributive share of a partner of the partnership who is a foreign person,
+&emsp;&emsp;"(i) includible in the distributive share of a partner of the partnership who is a foreign person,
 
-&emsp;&emsp;“(ii) includible in the income of a beneficiary of the trust or estate who is a foreign person, or
+&emsp;&emsp;"(ii) includible in the income of a beneficiary of the trust or estate who is a foreign person, or
 
-&emsp;&emsp;“(iii) includible in the income of a foreign person under the provisions of section 671.”
+&emsp;&emsp;"(iii) includible in the income of a foreign person under the provisions of section 671."
 
-Subsec. (e)(2). Pub. L. 99–514, §311(b)(4), substituted “34 percent” for “28 percent”.
+Subsec. (e)(2). Pub. L. 99–514, §311(b)(4), substituted "34 percent" for "28 percent".
 
-Subsec. (e)(3). Pub. L. 99–514, §1810(f)(5), inserted “The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B).”
+Subsec. (e)(3). Pub. L. 99–514, §1810(f)(5), inserted "The preceding sentence shall not apply if, as of the date of the distribution, interests in such corporation are not United States real property interests by reason of section 897(c)(1)(B)."
 
-Subsec. (e)(4). Pub. L. 99–514, §1810(f)(6), substituted “section 897” for “section 897(g)”.
+Subsec. (e)(4). Pub. L. 99–514, §1810(f)(6), substituted "section 897" for "section 897(g)".
 
-Subsec. (e)(6). Pub. L. 99–514, §1810(f)(8), inserted “and regulations for the application of this subsection in the case of payments through 1 or more entities”.
+Subsec. (e)(6). Pub. L. 99–514, §1810(f)(8), inserted "and regulations for the application of this subsection in the case of payments through 1 or more entities".
 
 #### Effective Date of 2013 Amendment
 
@@ -314,7 +314,7 @@ Amendment by Pub. L. 112–240 applicable to taxable years beginning after Dec. 
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–289, div. C, title I, §3024(d), July 30, 2008, 122 Stat. 2896, provided that: “The amendments made by this section \[amending this section\] shall apply to dispositions of United States real property interests after the date of the enactment of this Act \[July 30, 2008\].”
+Pub. L. 110–289, div. C, title I, §3024(d), July 30, 2008, 122 Stat. 2896, provided that: "The amendments made by this section \[amending this section\] shall apply to dispositions of United States real property interests after the date of the enactment of this Act \[July 30, 2008\]."
 
 #### Effective Date of 2006 Amendment
 
@@ -332,7 +332,7 @@ Amendment by Pub. L. 105–34 applicable only to amounts paid after Aug. 5, 1997
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–188, title I, §1704(c)(2), Aug. 20, 1996, 110 Stat. 1878, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Aug. 20, 1996\].”
+Pub. L. 104–188, title I, §1704(c)(2), Aug. 20, 1996, 110 Stat. 1878, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Aug. 20, 1996\]."
 
 #### Effective Date of 1988 Amendment
 
@@ -344,11 +344,11 @@ Amendment by section 311(b)(4) of Pub. L. 99–514 applicable to payments made a
 
 Amendment by section 1810(f)(2), (3), (5), (6), (8) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
-Pub. L. 99–514, title XVIII, §1810(f)(4)(B), Oct. 22, 1986, 100 Stat. 2827, provided that: “The amendment made by subparagraph (A) \[amending this section\] shall apply to dispositions after the day 30 days after the date of the enactment of this Act \[Oct. 22, 1986\].”
+Pub. L. 99–514, title XVIII, §1810(f)(4)(B), Oct. 22, 1986, 100 Stat. 2827, provided that: "The amendment made by subparagraph (A) \[amending this section\] shall apply to dispositions after the day 30 days after the date of the enactment of this Act \[Oct. 22, 1986\]."
 
 #### Effective Date
 
-Pub. L. 98–369, div. A, title I, §129(c)(1), July 18, 1984, 98 Stat. 660, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to any disposition on or after January 1, 1985.”
+Pub. L. 98–369, div. A, title I, §129(c)(1), July 18, 1984, 98 Stat. 660, provided that: "The amendment made by subsection (a) \[enacting this section\] shall apply to any disposition on or after January 1, 1985."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

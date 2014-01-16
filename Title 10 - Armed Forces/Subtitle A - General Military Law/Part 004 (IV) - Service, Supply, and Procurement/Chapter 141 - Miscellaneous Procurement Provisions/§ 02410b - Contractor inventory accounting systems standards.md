@@ -10,13 +10,13 @@
 
 (c) The regulations prescribed pursuant to subsection (a) shall not apply to a contract for the purchase of commercial items (as defined in section 103 of title 41).
 
-(Added Pub. L. 100–456, div. A, title VIII, §834(a)(1), Sept. 29, 1988, 102 Stat. 2024; amended Pub. L. 103–355, title IV, §4102(h), title VIII, §8105(i), Oct. 13, 1994, 108 Stat. 3341, 3393; Pub. L. 104–106, div. D, title XLIII, §4301(a)(1), Feb. 10,1996, 110 Stat. 656; Pub. L. 104–201, div. A, title X, §1074(b)(3), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 111–350, §5(b)(28), Jan. 4, 2011, 124 Stat. 3845.)
+(Added Pub. L. 100–456, div. A, title VIII, §834(a)(1), Sept. 29, 1988, 102 Stat. 2024; amended Pub. L. 103–355, title IV, §4102(h), title VIII, §8105(i), Oct. 13, 1994, 108 Stat. 3341, 3393; Pub. L. 104–106, div. D, title XLIII, §4301(a)(1), Feb. 10, 1996, 110 Stat. 656; Pub. L. 104–201, div. A, title X, §1074(b)(3), Sept. 23, 1996, 110 Stat. 2660; Pub. L. 111–350, §5(b)(28), Jan. 4, 2011, 124 Stat. 3845.)
 
 #### Amendments
 
-<b>2011</b>—Subsec. (c). Pub. L. 111–350 substituted “section 103 of title 41)” for “section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)))”.
+<b>2011</b>—Subsec. (c). Pub. L. 111–350 substituted "section 103 of title 41)" for "section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)))".
 
-<b>1996</b>—Subsec. (a)(2). Pub. L. 104–106, as amended by Pub. L. 104–201, struck out “certification and” after “appropriate”.
+<b>1996</b>—Subsec. (a)(2). Pub. L. 104–106, as amended by Pub. L. 104–201, struck out "certification and" after "appropriate".
 
 <b>1994</b>—Subsecs. (a), (b). Pub. L. 103–355, §4102(h), designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -34,7 +34,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 Pub. L. 100–456, div. A, title VIII, §834(b), Sept. 29, 1988, 102 Stat. 2025, provided that:
 
-“(1) The Secretary of Defense shall prescribe the regulations required by paragraph (1) of section 2410b of title 10, United States Code, as added by subsection (a), not later than 30 days after the date of the enactment of this Act \[Sept. 29, 1988\].
+"(1) The Secretary of Defense shall prescribe the regulations required by paragraph (1) of section 2410b of title 10, United States Code, as added by subsection (a), not later than 30 days after the date of the enactment of this Act \[Sept. 29, 1988\].
 
-“(2) The Secretary of Defense shall prescribe the regulations required by paragraph (2) of section 2410b of title 10, United States Code, as added by subsection (a), not later than 180 days after the date of the enactment of this Act.”
+"(2) The Secretary of Defense shall prescribe the regulations required by paragraph (2) of section 2410b of title 10, United States Code, as added by subsection (a), not later than 180 days after the date of the enactment of this Act."
 

@@ -4,9 +4,9 @@ Whoever, by threats or force, willfully prevents, obstructs, impedes, or interfe
 
 No injunctive or other civil relief against the conduct made criminal by this section shall be denied on the ground that such conduct is a crime.
 
-(Added Pub. L. 86–449, title I, §101, May 6, 1960, 74 Stat. 86; amended Pub. L. 103–322, titleXXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(Added Pub. L. 86–449, title I, §101, May 6, 1960, 74 Stat. 86; amended Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000” in first par.
+<b>1994</b>—Pub. L. 103–322 substituted "fined under this title" for "fined not more than $1,000" in first par.
 

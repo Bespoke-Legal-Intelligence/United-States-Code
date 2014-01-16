@@ -12,7 +12,7 @@ There is hereby imposed a tax on the failure of any applicable pension plan to m
 
 #### (2) Noncompliance period
 
-&emsp;For purposes of this section, the term “noncompliance period” means, with respect to any failure, the period beginning on the date the failure first occurs and ending on the date the notice to which the failure relates is provided or the failure is otherwise corrected.
+&emsp;For purposes of this section, the term "noncompliance period" means, with respect to any failure, the period beginning on the date the failure first occurs and ending on the date the notice to which the failure relates is provided or the failure is otherwise corrected.
 
 #### (c) Limitations on amount of tax
 
@@ -40,7 +40,7 @@ There is hereby imposed a tax on the failure of any applicable pension plan to m
 
 #### (4) Waiver by Secretary
 
-&emsp;In the case of a failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the tax imposed by subsection (a) to the extent that the payment of such tax would be excessive or otherwise inequitable relative to the failure involved.
+&emsp;In the case of a failure which is due to reasonable cause and not to willful neglect, theSecretary may waive part or all of the tax imposed by subsection (a) to the extent that the payment of such tax would be excessive or otherwise inequitable relative to the failure involved.
 
 #### (d) Liability for tax
 
@@ -82,17 +82,17 @@ For purposes of this section—
 
 #### (1) Applicable individual
 
-&emsp;The term “applicable individual” means, with respect to any plan amendment—
+&emsp;The term "applicable individual" means, with respect to any plan amendment—
 
 &emsp;&emsp;(A) each participant in the plan, and
 
-&emsp;&emsp;(B) any beneficiary who is an alternate payee (within the meaning of section414(p)(8)) under an applicable qualified domestic relations order (within the meaning of section 414(p)(1)(A)),
+&emsp;&emsp;(B) any beneficiary who is an alternate payee (within the meaning of section 414(p)(8)) under an applicable qualified domestic relations order (within the meaning of section 414(p)(1)(A)),
 
 > &emsp;whose rate of future benefit accrual under the plan may reasonably be expected to be significantly reduced by such plan amendment.
 
 #### (2) Applicable pension plan
 
-&emsp;The term “applicable pension plan” means—
+&emsp;The term "applicable pension plan" means—
 
 &emsp;&emsp;(A) any defined benefit plan described in section 401(a) which includes a trust exempt from tax under section 501(a), or
 
@@ -112,17 +112,17 @@ The Secretary may by regulations allow any notice under subsection (e) to be pro
 
 #### Amendments
 
-<b>2006</b>—Subsec. (e)(1). Pub. L. 109–280 inserted “and to each employer who has an obligation to contribute to the plan” before period at end.
+<b>2006</b>—Subsec. (e)(1). Pub. L. 109–280 inserted "and to each employer who has an obligation to contribute to the plan" before period at end.
 
-<b>2002</b>—Subsec. (e)(1). Pub. L. 107–147, §411(u)(1)(A), substituted “the notice described in paragraph (2)” for “written notice”.
+<b>2002</b>—Subsec. (e)(1). Pub. L. 107–147, §411(u)(1)(A), substituted "the notice described in paragraph (2)" for "written notice".
 
-Subsec. (f)(2)(A). Pub. L. 107–147, §411(u)(1)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “any defined benefit plan, or”.
+Subsec. (f)(2)(A). Pub. L. 107–147, §411(u)(1)(B), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "any defined benefit plan, or".
 
-Subsec. (f)(3). Pub. L. 107–147, §411(u)(1)(C), struck out “significantly” before “reduces” and before “reducing”.
+Subsec. (f)(3). Pub. L. 107–147, §411(u)(1)(C), struck out "significantly" before "reduces" and before "reducing".
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–280, title V, §502(d), Aug. 17, 2006, 120 Stat. 941, provided that: “The amendments made by this section \[amending this section and sections 1021, 1054, and 1132 of Title 29, Labor\] shall apply to plan years beginning after December 31, 2007.”
+Pub. L. 109–280, title V, §502(d), Aug. 17, 2006, 120 Stat. 941, provided that: "The amendments made by this section \[amending this section and sections 1021, 1054, and 1132 of Title 29, Labor\] shall apply to plan years beginning after December 31, 2007."
 
 #### Effective Date of 2002 Amendment
 
@@ -132,23 +132,23 @@ Amendment by Pub. L. 107–147 effective as if included in the provisions of the
 
 Pub. L. 107–16, title VI, §659(c), June 7, 2001, 115 Stat. 141, as amended by Pub. L. 107–147, title IV, §411(u)(3), Mar. 9, 2002, 116 Stat. 52, provided that:
 
-“(1)
+"(1)
 
-In general.—The amendments made by this section \[enacting this section and amending section 1054 of Title 29, Labor\] shall apply to plan amendments taking effect on or after the date of the enactment of this Act \[June 7, 2001\].
+In general.—The amendments made by this section \[enacting this section and amending section 1054 of Title 29, Labor\] shall apply to plan amendments takingeffect on or after the date of the enactment of this Act \[June 7, 2001\].
 
-“(2)
+"(2)
 
 Transition.—Until such time as the Secretary of the Treasury issues regulations under sections 4980F(e)(2) and (3) of the Internal Revenue Code of 1986, and section 204(h) of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1054(h)\], as added by the amendments made by this section, a plan shall be treated as meeting the requirements of such sections if it makes a good faith effort to comply with such requirements.
 
-“(3)
+"(3)
 
 Special notice rule.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The period for providing any notice required by the amendments made by this section shall not end before the date which is 3 months after the date of the enactment of this Act.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Reasonable notice.—The amendments made by this section shall not apply to any plan amendment taking effect on or after the date of the enactment of this Act if, before April 25, 2001, notice was provided to participants and beneficiaries adversely affected by the plan amendment (and their representatives) which was reasonably expected to notify them of the nature and effective date of the plan amendment.”
+Reasonable notice.—The amendments made by this section shall not apply to any plan amendment taking effect on or after the date of the enactment of this Act if, before April 25, 2001, notice was provided to participants and beneficiaries adversely affected by the plan amendment (and their representatives) which was reasonably expected to notify them of the nature and effective date of the plan amendment."
 

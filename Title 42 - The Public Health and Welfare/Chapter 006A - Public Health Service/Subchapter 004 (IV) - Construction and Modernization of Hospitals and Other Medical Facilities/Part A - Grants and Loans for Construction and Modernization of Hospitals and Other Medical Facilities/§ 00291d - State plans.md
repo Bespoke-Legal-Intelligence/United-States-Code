@@ -8,7 +8,7 @@ Any State desiring to participate in this part may submit a State plan. Such pla
 
 &emsp;(2) contain satisfactory evidence that the State agency designated in accordance with paragraph (1) of this subsection will have authority to carry out such plan in conformity with this part;
 
-&emsp;(3) provide for the designation of a State advisory council which shall include (A) representatives of nongovernmental organizations or groups, and of public agencies, concerned with the operation, construction, or utilization of hospital or other facilities for diagnosis, prevention, or treatment of illness or disease, or for provision of rehabilitation services, and representatives particularly concerned with education or training of health professions personnel, and (B) an equal number of representatives of consumers familiar with the need for the services provided by such facilities, to consult with the State agency in carrying out the plan, and provide, if such council does not include any representatives of nongovernmental organizations or groups, or State agencies, concerned with rehabilitation, for consultation with organizations, groups, and State agencies so concerned;
+&emsp;(3) provide for the designation of a State advisory council which shall include (A) representatives of nongovernmental organizations or groups, and of public agencies, concerned with the operation, construction, or utilization of hospital or other facilities for diagnosis, prevention, or treatment of illness or disease, or for provision of rehabilitation services, and representatives particularly concerned with education or training of health professions personnel, and (B) an equal number of representatives of consumers familiar with the need for the services provided by such facilities, to consult with the State agency in carrying out the plan, and provide, if such council does not include any representatives of nongovernmental organizations or groups,or State agencies, concerned with rehabilitation, for consultation with organizations, groups, and State agencies so concerned;
 
 &emsp;(4) set forth, in accordance with criteria established in regulations prescribed under section 291c of this title and on the basis of a statewide inventory of existing facilities, a survey of need, and (except to the extent provided by or pursuant to such regulations) community, area, or regional plans—
 
@@ -38,7 +38,7 @@ Any State desiring to participate in this part may submit a State plan. Such pla
 
 &emsp;(12) provide that the State agency will from time to time, but not less often than annually, review its State plan and submit to the Surgeon General any modifications thereof which it considers necessary; and
 
-&emsp;(13) Effective July 1, 1971, provide that before any project for construction or modernization of any general hospital is approved by the State agency there will be reasonable assurance of adequate provision for extended care services (as determined in accordance with regulations) to patients of such hospital when such services are medically appropriate for them, with such services being provided in facilities which (A) are structurally part of, physically connected with, or in immediate proximity to, such hospital, and (B) either (i) are under the supervision of the professional staff of such hospital or (ii) have organized medical staffs and have in effect transfer agreements with such hospital; except that the Secretary may, at the request of the State agency, waive compliance with clause (A) or (B), or both such clauses, as the case may be, in the case of any project if the State agency has determined that compliance with such clause or clauses in such case would be inadvisable.
+&emsp;(13) Effective <sup>1</sup> July 1, 1971, provide that before any project for construction or modernization of any general hospital is approved by the State agency there will be reasonable assurance of adequate provision for extended care services (as determined in accordance with regulations) to patients of such hospital when such services are medically appropriate for them, with such services being provided in facilities which (A) are structurally part of, physically connected with, or in immediate proximity to, such hospital, and (B) either (i) are under the supervision of the professional staff of such hospital or (ii) have organized medical staffs and have in effect transfer agreements with such hospital; except that the Secretary may, at the request of the State agency, waive compliance with clause (A) or (B), or both such clauses, as the case may be, in the case of any project if the State agency has determined that compliance with such clause or clauses in such case would be inadvisable.
 
 #### (b) Approval by Surgeon General; hearing after disapproval
 
@@ -50,15 +50,15 @@ The Surgeon General shall approve any State plan and any modification thereof wh
 
 A prior section 291d, act July 1, 1944, ch. 373, title VI, §621, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041; amended Oct. 25, 1949, ch. 722, §2(a), 63 Stat. 898; July 27, 1953, ch. 243, 67 Stat. 196; Aug. 2, 1956, ch. 871, title IV, §401, 70 Stat. 929; Aug. 14, 1958, Pub. L. 85–664, §1(a), 72 Stat. 616, authorized appropriations for construction of hospitals and related facilities, prior to the general amendment of this subchapter by Pub. L. 88–443. See section 291a of this title.
 
-Provisions similar to those comprising this section were contained in a prior section 291f(a), (b), act July1, 1944, ch. 373, title VI, §623, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041, prior to the general amendment of this subchapter by Pub. L. 88–443.
+Provisions similar to those comprising this section were contained in a prior section 291f(a), (b), act July 1, 1944, ch. 373, title VI, §623, as added Aug. 13, 1946, ch. 958, §2, 60 Stat. 1041, prior to the general amendment of this subchapter by Pub. L. 88–443.
 
 #### Amendments
 
 <b>1970</b>—Subsec. (a)(3). Pub. L. 91–296, §115, inserted requirement that State advisory councils include representatives particularly concerned with education or training of health professions personnel.
 
-Subsec. (a)(4)(C). Pub. L. 91–296, §116(b), substituted “outpatient facilities” for “diagnostic or treatment centers” and “such facilities” for “such centers”.
+Subsec. (a)(4)(C). Pub. L. 91–296, §116(b), substituted "outpatient facilities" for "diagnostic or treatment centers" and "such facilities" for "such centers".
 
-Subsec. (a)(5). Pub. L. 91–296, §116(c), substituted “outpatient facilities” for “diagnostic or treatment centers”.
+Subsec. (a)(5). Pub. L. 91–296, §116(c), substituted "outpatient facilities" for "diagnostic or treatment centers".
 
 Subsec. (a)(13). Pub. L. 91–296, §123, added par. (13).
 
@@ -70,9 +70,11 @@ Pub. L. 91–296, title I, §115, June 30, 1970, 84 Stat. 341, provided that the
 
 Functions, powers, and duties of Secretary of Health and Human Services under subsec. (a)(8) of this section, insofar as relates to the prescription of personnel standards on a merit basis, transferred to Office of Personnel Management, see section 4728(a)(3)(C) of this title.
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 #### Funds for Modernization Projects; Conditions To Be Met Before Approval
 
 Pub. L. 88–443, §3(b)(5), Aug. 18, 1964, 78 Stat. 462, provided that no application with respect to a modernization project may be approved for purposes of receiving funds from an allotment under section 291(a)(2) of this title before July 1, 1965, or before a State plan has been approved, as well as certain other requirements. See Effective Date note under section 291 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

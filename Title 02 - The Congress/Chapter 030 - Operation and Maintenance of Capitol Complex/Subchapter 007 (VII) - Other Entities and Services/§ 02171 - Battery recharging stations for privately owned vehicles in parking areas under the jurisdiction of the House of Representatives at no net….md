@@ -36,7 +36,7 @@ In this section, the term “covered employee” means—
 
 &emsp;The Architect of the Capitol may establish and adjust fees or charges under paragraph (1) after—
 
-&emsp;&emsp;(A) submission of written notice detailing the amount of the fee or charge to be established or adjusted to the Committee on House Administration of the House of Representatives; and
+&emsp;&emsp;(A) submission of written notice detailing the amount of the fee or charge to be established or adjusted to the Committee onHouse Administration of the House of Representatives; and
 
 &emsp;&emsp;(B) approval by that Committee.
 

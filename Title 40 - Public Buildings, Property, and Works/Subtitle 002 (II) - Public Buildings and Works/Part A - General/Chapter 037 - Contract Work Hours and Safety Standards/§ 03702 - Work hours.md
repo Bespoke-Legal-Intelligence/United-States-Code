@@ -54,9 +54,9 @@ Pub. L. 87–581, title I, §102, Aug. 13, 1962, 76 Stat. 357; Pub. L. 99–145,
 
 40:328(b)(2) (last sentence).
 
-In subsection (a). the words “Notwithstanding any other provision of law” are omitted as unnecessary.
+In subsection (a). the words "Notwithstanding any other provision of law" are omitted as unnecessary.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (d). Pub. L. 109–284 substituted “To” for “to” in heading.
+<b>2006</b>—Subsec. (d). Pub. L. 109–284 substituted "To" for "to" in heading.
 

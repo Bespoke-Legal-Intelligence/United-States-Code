@@ -46,7 +46,7 @@ May 17, 1910, ch. 243, §1 (3d–6th sentences), 36 Stat. 371.
 
 40:104 (5th sentence).
 
-In subsection (b), the words “in each case” are omitted as unnecessary. The words “request the Commission to provide” are substituted for “call for” for clarity.
+In subsection (b), the words "in each case" are omitted as unnecessary. The words "request the Commission to provide" are substituted for "call for" for clarity.
 
-In subsection (c), the words “buildings of the Library of Congress” are substituted for “building of the Library of Congress” for clarity because the Library of Congress comprises more than one building.
+In subsection (c), the words "buildings of the Library of Congress" are substituted for "building of the Library of Congress" for clarity because the Library of Congress comprises more than one building.
 

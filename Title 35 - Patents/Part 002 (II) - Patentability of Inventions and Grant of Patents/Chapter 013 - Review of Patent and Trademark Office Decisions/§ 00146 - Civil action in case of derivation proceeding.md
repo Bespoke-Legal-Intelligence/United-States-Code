@@ -2,7 +2,7 @@
 
 Any party to a derivation proceeding dissatisfied with the decision of the Patent Trial and Appeal Board on the derivation proceeding, may have remedy by civil action, if commenced within such time after such decision, not less than sixty days, as the Director appoints or as provided in section 141, unless he has appealed to the United States Court of Appeals for the Federal Circuit, and such appeal is pending or has been decided. In such suits the record in the Patent and Trademark Office shall be admitted on motion of either party upon the terms and conditions as to costs, expenses, and the further cross-examination of the witnesses as the court imposes, without prejudice to the right of the parties to take further testimony. The testimony and exhibits of the record in the Patent and Trademark Office when admitted shall have the same effect as if originally taken and produced in the suit.
 
-Such suit may be instituted against the party in interest as shown by the records of the Patent and Trademark Office at the time of the decision complained of, but any party in interest may become a party to the action. If there be adverse parties residing in a plurality of districts not embraced within the same state, or an adverse party residing in a foreign country, theUnited States District Court for the Eastern District of Virginia shall have jurisdiction and may issue summons against the adverse parties directed to the marshal of any district in which any adverse party resides. Summons against adverse parties residing in foreign countries may be served by publication or otherwise as the court directs. The Director shall not be a necessary party but he shall be notified of the filing of the suit by the clerk of the court in which it is filed and shall have the right to intervene. Judgment of the court in favor of the right of an applicant to a patent shall authorize the Director to issue such patent on the filing in the Patent and Trademark Office of a certified copy of the judgment and on compliance with the requirements of law.
+Such suit may be instituted against the party in interest as shown by the records of the Patent and Trademark Office at the time of the decision complained of, but any party in interest may become a party to the action. If there be adverse parties residing in a plurality of districts not embraced within the same state, or an adverse party residing in a foreign country, the United States District Court for the Eastern District of Virginia shall have jurisdiction and may issue summons against the adverse parties directed to the marshal of any district in which any adverse party resides. Summons against adverse parties residing in foreign countries may be served by publication or otherwise as the court directs. The Director shall not be a necessary party but he shall be notified of the filing of the suit by the clerk of the court in which it is filed and shall have the right to intervene.Judgment of the court in favor of the right of an applicant to a patent shall authorize the Director to issue such patent on the filing in the Patent and Trademark Office of a certified copy of the judgment and on compliance with the requirements of law.
 
 (July 19, 1952, ch. 950, 66 Stat. 803; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–164, title I, §163(a)(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–622, title II, §203(c), Nov. 8, 1984, 98 Stat. 3387; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906; Pub. L. 112–29, §§3(j)(1), (2)(A), (4), 9(a), 20(j), Sept. 16, 2011, 125 Stat. 290, 316, 335.)
 
@@ -20,21 +20,21 @@ Language is changed.
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 112–29, §20(j), struck out “of this title” after “141”.
+<b>2011</b>—Pub. L. 112–29, §20(j), struck out "of this title" after "141".
 
-Pub. L. 112–29, §9(a), substituted “United States District Court for the Eastern District of Virginia” for “United States District Court for the District of Columbia”.
+Pub. L. 112–29, §9(a), substituted "United States District Court for the Eastern District of Virginia" for "United States District Court for the District of Columbia".
 
-Pub. L. 112–29, §3(j)(1), (2)(A), (4), amended section catchline generally, substituting “Civil action in case of derivation proceeding” for “Civil action in case of interference”, and substituted in text “a derivation proceeding” for “an interference”, “Patent Trial and Appeal Board” for “Board of Patent Appeals and Interferences”, and “the derivation proceeding” for “the interference”.
+Pub. L. 112–29, §3(j)(1), (2)(A), (4), amended section catchline generally, substituting "Civil action in case of derivation proceeding" for "Civil action in case of interference", and substituted in text "a derivation proceeding" for "an interference", "Patent Trial and Appeal Board" for "Board of Patent Appeals and Interferences", and "the derivation proceeding" for "the interference".
 
 <b>2002</b>—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
+<b>1999</b>—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted "Director" for "Commissioner" wherever appearing.
 
-<b>1984</b>—Pub. L. 98–622 substituted “Board of Patent Appeals and Interferences on the interference” for “board of patent interference on the question of priority”.
+<b>1984</b>—Pub. L. 98–622 substituted "Board of Patent Appeals and Interferences on the interference" for "board of patent interference on the question of priority".
 
-<b>1982</b>—Pub. L. 97–164 substituted “Court of Appeals for the Federal Circuit” for “Court of Customs and Patent Appeals”.
+<b>1982</b>—Pub. L. 97–164 substituted "Court of Appeals for the Federal Circuit" for "Court of Customs and Patent Appeals".
 
-<b>1975</b>—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” wherever appearing.
+<b>1975</b>—Pub. L. 93–596 substituted "Patent and Trademark Office" for "Patent Office" wherever appearing.
 
 #### Effective Date of 2011 Amendment
 

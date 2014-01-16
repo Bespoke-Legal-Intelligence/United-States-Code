@@ -12,7 +12,7 @@ The flag, when carried in a procession with another flag or flags, should be eit
 
 (e) The flag of the United States of America should be at the center and at the highest point of the group when a number of flags of States or localities or pennants of societies are grouped and displayed from staffs.
 
-(f) When flags of States, cities, or localities, or pennants of societies are flown on the same halyard with the flag of the United States, the latter should always be at the peak. When the flagsare flown from adjacent staffs, the flag of the United States should be hoisted first and lowered last. No such flag or pennant may be placed above the flag of the United States or to the United States flag's right.
+(f) When flags of States, cities, or localities, or pennants of societies are flown on the same halyard with the flag of the United States, the latter should always be at the peak. When the flags are flown from adjacent staffs, the flag of the United States should be hoisted first and lowered last. No such flag or pennant may be placed above the flag of the United States or to the United States flag's right.
 
 (g) When flags of two or more nations are displayed, they are to be flown from separate staffs of the same height. The flags should be of approximately equal size. International usage forbids the display of the flag of one nation above that of another nation in time of peace.
 

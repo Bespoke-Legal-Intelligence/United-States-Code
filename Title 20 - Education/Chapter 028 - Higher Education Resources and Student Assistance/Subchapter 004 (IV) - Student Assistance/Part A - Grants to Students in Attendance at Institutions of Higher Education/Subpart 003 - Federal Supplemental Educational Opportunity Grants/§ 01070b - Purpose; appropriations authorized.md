@@ -10,7 +10,7 @@ It is the purpose of this subpart to provide, through institutions of higher edu
 
 (2) Sums appropriated pursuant to this subsection for any fiscal year shall be available for payments to institutions until the end of the second fiscal year succeeding the fiscal year for which such sums were appropriated.
 
-(Pub. L. 89–329, title IV, §413A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat.1328; amended Pub. L. 102–325, title IV, §403(b), July 23, 1992, 106 Stat. 505; Pub. L. 105–244, title IV, §406(a), Oct. 7, 1998, 112 Stat. 1664.; Pub. L. 110–315, title IV, §406(a), Aug. 14, 2008, 122 Stat. 3215.)
+(Pub. L. 89–329, title IV, §413A, as added Pub. L. 99–498, title IV, §401(a), Oct. 17, 1986, 100 Stat. 1328; amended Pub. L. 102–325, title IV, §403(b), July 23, 1992, 106 Stat. 505; Pub. L. 105–244, title IV, §406(a), Oct. 7, 1998, 112 Stat. 1664.; Pub. L. 110–315, title IV, §406(a), Aug. 14, 2008, 122 Stat. 3215.)
 
 #### Prior Provisions
 
@@ -18,9 +18,9 @@ A prior section 1070b, Pub. L. 89–329, title IV, §413A, as added Pub. L. 92�
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315 substituted “such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years” for “$675,000,000 for fiscal year 1999 and such sums as may be necessary for the 4 succeeding fiscal years”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–315 substituted "such sums as may be necessary for fiscal year 2009 and each of the five succeeding fiscal years" for "$675,000,000 for fiscal year 1999 and such sums as may be necessary for the 4 succeeding fiscal years".
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–244 substituted “1999” for “1993”.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–244 substituted "1999" for "1993".
 
 <b>1992</b>—Subsec. (b). Pub. L. 102–325 amended subsec. (b) generally, substituting present provisions for provisions authorizing appropriation of $490,000,000 for fiscal year 1987 and such sums as necessary for 4 succeeding fiscal years.
 

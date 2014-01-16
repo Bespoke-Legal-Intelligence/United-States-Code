@@ -54,11 +54,11 @@ Subject to the following subsections of this section, for the purpose of reducin
 
 For purposes of this section:
 
-&emsp;(1) The term “interim maintenance services” means the provision of methadone in a treatment program under the circumstances described in paragraphs (1) and (2) of subsection (a) of this section.
+&emsp;(1) The term "interim maintenance services" means the provision of methadone in a treatment program under the circumstances described in paragraphs (1) and (2) of subsection (a) of this section.
 
-&emsp;(2) The term “HIV disease” means infection with the etiologic agent for acquired immune deficiency syndrome.
+&emsp;(2) The term "HIV disease" means infection with the etiologic agent for acquired immune deficiency syndrome.
 
-&emsp;(3) The term “treatment program” means a public or nonprofit private program of treatment for dependence on heroin or other morphine-like drugs.
+&emsp;(3) The term "treatment program" means a public or nonprofit private program of treatment for dependence on heroin or other morphine-like drugs.
 
 (July 1, 1944, ch. 373, title XIX, §1976, as added Pub. L. 102–321, title II, §204, July 10, 1992, 106 Stat. 412.)
 

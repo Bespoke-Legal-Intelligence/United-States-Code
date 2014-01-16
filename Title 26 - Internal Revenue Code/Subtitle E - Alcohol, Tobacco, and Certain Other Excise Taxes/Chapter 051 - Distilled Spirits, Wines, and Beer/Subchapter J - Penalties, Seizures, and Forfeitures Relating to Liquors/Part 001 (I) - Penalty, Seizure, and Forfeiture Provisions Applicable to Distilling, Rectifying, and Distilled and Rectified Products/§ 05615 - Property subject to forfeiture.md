@@ -150,15 +150,15 @@ A prior section 5647, act Aug. 16, 1954, ch. 736, 68A Stat. 693, related to pena
 
 A prior section 5648, act Aug. 16, 1954, ch. 736, 68A Stat. 694, related to penalty and forfeiture for fraudulent claims for export drawback or unlawful relanding, prior to the general revision of this chapter by Pub. L. 85–859. See section 5608 of this title.
 
-A prior section 5649, act Aug. 16, 1954, ch. 736, 68A Stat. 694, related to burden of proof in cases of seizureof spirits, prior to the general revision of this chapter by Pub. L. 85–859. See section 5614 of this title.
+A prior section 5649, act Aug. 16, 1954, ch. 736, 68A Stat. 694, related to burden of proof in cases of seizure of spirits, prior to the general revision of this chapter by Pub. L. 85–859. See section 5614 of this title.
 
 A prior section 5650, act Aug. 16, 1954, ch. 736, 68A Stat. 695, related to penalty and forfeiture for operating distillery after giving notice of suspension, prior to the general revision of this chapter by Pub. L. 85–859. See sections 5601 and 5615 of this title.
 
 #### Amendments
 
-<b>1984</b>—Par. (2). Pub. L. 98–369 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any still, boiler, or other vessel to be used for the purpose of distilling which is removed without notice having been given as required by section 5105(a) or which is set up without permit first having been obtained as required by such section; and”.
+<b>1984</b>—Par. (2). Pub. L. 98–369 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Any still, boiler, or other vessel to be used for the purpose of distilling which is removed without notice having been given as required by section 5105(a) or which is set up without permit first having been obtained as required by such section; and".
 
-<b>1979</b>—Par. (5). Pub. L. 96–39 substituted “distilled spirits plant” for “distillery, bonded warehouse, or rectifying or bottling establishment” in three places.
+<b>1979</b>—Par. (5). Pub. L. 96–39 substituted "distilled spirits plant" for "distillery, bonded warehouse, or rectifying or bottling establishment" in three places.
 
 #### Effective Date of 1984 Amendment
 

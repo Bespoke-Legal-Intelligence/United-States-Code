@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary, acting through the Service, shall establish, consistent with section 1665a ofthis title, in every Service area, programs involving treatment for—
+The Secretary, acting through the Service, shall establish, consistent with section 1665a of this title, in every Service area, programs involving treatment for—
 
 &emsp;(1) victims of sexual abuse who are Indian children or children in an Indian household; and
 

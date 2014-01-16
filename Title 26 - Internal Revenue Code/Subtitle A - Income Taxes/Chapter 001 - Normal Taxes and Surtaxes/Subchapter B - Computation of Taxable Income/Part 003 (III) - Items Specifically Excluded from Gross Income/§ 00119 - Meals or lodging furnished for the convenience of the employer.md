@@ -82,7 +82,7 @@ For purposes of subsection (a)—
 
 #### (3) Qualified campus lodging
 
-&emsp;For purposes of this subsection, the term “qualified campus lodging” means lodging to which subsection (a) does not apply and which is—
+&emsp;For purposes of this subsection, the term "qualified campus lodging" means lodging to which subsection (a) does not apply and which is—
 
 &emsp;&emsp;(A) located on, or in the proximity of, a campus of the educational institution, and
 
@@ -94,7 +94,7 @@ For purposes of subsection (a)—
 
 #### (A) In general
 
-&emsp;&emsp;The term “educational institution” means—
+&emsp;&emsp;The term "educational institution" means—
 
 &emsp;&emsp;&emsp;(i) an institution described in section 170(b)(1)(A)(ii) (or an entity organized under State law and composed of public institutions so described), or
 
@@ -102,7 +102,7 @@ For purposes of subsection (a)—
 
 #### (B) Academic health center
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “academic health center” means an entity—
+&emsp;&emsp;For purposes of subparagraph (A), the term "academic health center" means an entity—
 
 &emsp;&emsp;&emsp;(i) which is described in section 170(b)(1)(A)(iii),
 
@@ -120,29 +120,29 @@ Section 1886(d)(5)(B) or (h) of the Social Security Act, referred to in subsec. 
 
 <b>1998</b>—Subsec. (b)(4). Pub. L. 105–206 added par. (4).
 
-<b>1996</b>—Subsec. (d)(4). Pub. L. 104–188 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “
+<b>1996</b>—Subsec. (d)(4). Pub. L. 104–188 amended par. (4) generally. Prior to amendment, par. (4) read as follows: "
 
-Educational institution.—For purposes of this paragraph, the term ‘educational institution’ means an institution described in section 170(b)(1)(A)(ii).”
+Educational institution.—For purposes of this paragraph, the term 'educational institution' means an institution described in section 170(b)(1)(A)(ii)."
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–647 struck out “(as of the close of the calendar year in which the taxable year begins)” after “appraised value” in par. (2)(A)(i) and inserted at end “The appraised value under subparagraph (A)(i) shall be determined as of the close of the calendar year in which the taxable year begins, or, in the case of a rental period not greater than 1 year, at any time during the calendar year in which such period begins.” as concluding provision.
+<b>1988</b>—Subsec. (d). Pub. L. 100–647 struck out "(as of the close of the calendar year in which the taxable year begins)" after "appraised value" in par. (2)(A)(i) and inserted at end "The appraised value under subparagraph (A)(i) shall be determined as of the close of the calendar year in which the taxable year begins, or, in the case of a rental period not greater than 1 year, at any time during the calendar year in which such period begins." as concluding provision.
 
 <b>1986</b>—Subsec. (d). Pub. L. 99–514 added subsec. (d).
 
 <b>1981</b>—Subsec. (c). Pub. L. 97–34 added subsec. (c).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–222 struck out “General rule” in subsec. (a) as in effect on the day before the date of enactment of the Foreign Earned Income Act of 1978 to correct a legislative oversight in the amendment of subsec. (a) of this section by section 205 of Pub. L. 95–615. The amendment by Pub. L. 95–615, however, was executed without reference to “General rule” as the probable intent of Congress, thereby requiring no change in text.
+<b>1980</b>—Subsec. (a). Pub. L. 96–222 struck out "General rule" in subsec. (a) as in effect on the day before the date of enactment of the Foreign Earned Income Act of 1978 to correct a legislative oversight in the amendment of subsec. (a) of this section by section 205 of Pub. L. 95–615. The amendment by Pub. L. 95–615, however, was executed without reference to "General rule" as the probable intent of Congress, thereby requiring no change in text.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–615 designated existing provisions as subsec. (a), added subsec. (a) heading, and substituted “furnished to him, his spouse, or any of his dependents by or on behalf of his employer for the convenience of the employer” for “furnished to him by his employer for the convenience of the employer”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–615 designated existing provisions as subsec. (a), added subsec. (a) heading, and substituted "furnished to him, his spouse, or any of his dependents by or on behalf of his employer for the convenience of the employer" for "furnished to him by his employer for the convenience of the employer".
 
 Pub. L. 95–427 inserted provisions relating to factors not taken into account with respect to meals and certain fixed charges for meals.
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–206, title v, §5002(b), July 22, 1998, 112 Stat. 789, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning before, on, or after the date of the enactment of this Act \[July 22, 1998\].”
+Pub. L. 105–206, title v, §5002(b), July 22, 1998, 112 Stat. 789, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning before, on, or after the date of the enactment of this Act \[July 22, 1998\]."
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–188, title I, §1123(b), Aug. 20, 1996, 110 Stat. 1768, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1995.”
+Pub. L. 104–188, title I, §1123(b), Aug. 20, 1996, 110 Stat. 1768, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 1995."
 
 #### Effective Date of 1988 Amendment
 
@@ -150,7 +150,7 @@ Amendment by Pub. L. 100–647 effective, except as otherwise provided, as if in
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–514, title XI, §1164(b), Oct. 22, 1986, 100 Stat. 2511, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1985.”
+Pub. L. 99–514, title XI, §1164(b), Oct. 22, 1986, 100 Stat. 2511, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to taxable years beginning after December 31, 1985."
 
 #### Effective Date of 1981 Amendment
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 96–222 effective as if included in the Foreign Earned Inc
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–427, §4(b), Oct. 7, 1978, 92 Stat. 998, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954.”
+Pub. L. 95–427, §4(b), Oct. 7, 1978, 92 Stat. 998, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to taxable years beginning after December 31, 1953, and ending after August 16, 1954."
 
 #### Effective Date of 1978 Amendment; Election of Prior Law
 
@@ -170,49 +170,49 @@ Amendment by Pub. L. 95–615 applicable to taxable years beginning after Dec. 3
 
 #### Statute of Limitations
 
-Pub. L. 96–605, title I, §107(b), Dec. 28, 1980, 94 Stat. 3524, provided that: “In the case of any allowance received during calendar year 1974, 1975, 1976, or 1977, subsections (a)(2) and (e) of such section 3 \[section 3 of Pub. L. 95–427, set out below\] shall be applied by substituting the date one year after the date of the enactment of this Act \[Dec. 28, 1980\] for ‘April 15, 1979’ each place it appears.”
+Pub. L. 96–605, title I, §107(b), Dec. 28, 1980, 94 Stat. 3524, provided that: "In the case of any allowance received during calendar year 1974, 1975, 1976, or 1977, subsections (a)(2) and (e) of such section 3 \[section 3 of Pub. L. 95–427, set out below\] shall be applied by substituting the date one year after the date of the enactment of this Act \[Dec. 28, 1980\] for 'April 15, 1979' each place it appears."
 
 #### Treatment of Certain Statutory Subsistence Allowances or Subsistence Allowances Negotiated in Accordance With State Law Received by State Police Officers Before January 1, 1978
 
 Pub. L. 95–427, §3, Oct. 7, 1978, 92 Stat. 996, as amended by Pub. L. 96–605, title I, §107(a), Dec. 28, 1980, 94 Stat. 3524; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(a)
+"(a)
 
 General Rule.—If—
 
-&emsp;“(1) an individual who was employed as a State police officer received a statutory subsistence allowance or a subsistence allowance negotiated in accordance with State law while so employed,
+&emsp;"(1) an individual who was employed as a State police officer received a statutory subsistence allowance or a subsistence allowance negotiated in accordance with State law while so employed,
 
-&emsp;“(2) such individual elects, on or before April 15, 1979, and in such manner and form as the Secretary of the Treasury may prescribe, to have this section apply to such allowance, and
+&emsp;"(2) such individual elects, on or before April 15, 1979, and in such manner and form as the Secretary of the Treasury may prescribe, to have this section apply to such allowance, and
 
-&emsp;“(3) this section applies to such allowance,
+&emsp;"(3) this section applies to such allowance,
 
 > then, for purposes of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], such allowance shall not be included in such individual's gross income.
 
-“(b)
+"(b)
 
 Allowances to Which Section Applies.—For purposes of this section, this section applies to any statutory subsistence allowance or subsistence allowance negotiated in accordance with State law which was received—
 
-&emsp;“(1) after December 31, 1969, and before January 1, 1974, to the extent such individual did not include such allowance in gross income on his income tax return for the taxable year in which such allowance was received, or
+&emsp;"(1) after December 31, 1969, and before January 1, 1974, to the extent such individual did not include such allowance in gross income on his income tax return for the taxable year in which such allowance was received, or
 
-&emsp;“(2) during the calendar year 1974, 1975, 1976, or 1977.
+&emsp;"(2) during the calendar year 1974, 1975, 1976, or 1977.
 
-“(c)
+"(c)
 
 Other Definitions.—For purposes of this section—
 
-&emsp;“(1)
+&emsp;"(1)
 
-State police officer.—The term ‘State police officer’ means any police officer (including a highwaypatrolman) employed by a State (or the District of Columbia) on a full-time basis with the power to arrest.
+State police officer.—The term 'State police officer' means any police officer (including a highwaypatrolman) employed by a State (or the District of Columbia) on a full-time basis with the power to arrest.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Income tax return.—The term ‘income tax return’ means the return of the taxes imposed by subtitle A of the Internal Revenue Code of 1986. If an individual filed before November 29, 1977, an amended return for any taxable year, such amended return shall be treated as the return for such taxable year.
+Income tax return.—The term 'income tax return' means the return of the taxes imposed by subtitle A of the Internal Revenue Code of 1986. If an individual filed before November 29, 1977, an amended return for any taxable year, such amended return shall be treated as the return for such taxable year.
 
-“(d)
+"(d)
 
 Limitation on Deduction.—If any individual receives a subsistence allowance which is excluded from gross income under subsection (a), no deduction shall be allowed under any provision of chapter 1 of the Internal Revenue Code of 1986 for expenses in respect of which he has received such allowance, except to the extent that such expenses exceed the amount excludable from gross income under subsection (a) and the excess is otherwise allowed as a deduction under such chapter 1.
 
-“(e)
+"(e)
 
-Statute of Limitations.—If refund or credit of any overpayment of tax resulting from the application of this section is prevented at any time on or before April 15, 1979, by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of this section) may, nevertheless, be made or allowed if claim therefor is filed on or before April 15, 1979.”
+Statute of Limitations.—If refund or credit of any overpayment of tax resulting from the application of this section is prevented at any time on or before April 15, 1979, by the operation of any law or rule of law (including res judicata), refund or credit of such overpayment (to the extent attributable to the application of this section) may, nevertheless, be made or allowed if claim therefor is filed on or before April 15, 1979."
 

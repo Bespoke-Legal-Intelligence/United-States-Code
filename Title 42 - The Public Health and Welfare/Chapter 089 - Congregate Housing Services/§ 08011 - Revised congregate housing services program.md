@@ -122,11 +122,11 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 &emsp;&emsp;(E) construction or renovation of facilities to create conveniently located congregate space to accommodate the provision of supportive services to eligible residents.
 
-> &emsp;For purposes of this paragraph, the term “congregate space” shall include space for cafeterias or dining halls, community rooms or buildings, workshops, adult day health facilities, or other outpatient health facilities, or other essential service facilities.
+> &emsp;For purposes of this paragraph, the term "congregate space" shall include space for cafeterias or dining halls, community rooms or buildings, workshops, adult day health facilities, or other outpatient health facilities, or other essential service facilities.
 
 #### (4) Service coordinator
 
-&emsp;Assistance under this section may be provided with respect to the employment of one or more individuals (hereinafter referred to as “service coordinator”) who may be responsible for—
+&emsp;Assistance under this section may be provided with respect to the employment of one or more individuals (hereinafter referred to as "service coordinator") who may be responsible for—
 
 &emsp;&emsp;(A) working with the professional assessment committee established under subsection (f) <sup>2</sup> of this section on an ongoing basis to assess the service needs of eligible residents;
 
@@ -138,7 +138,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 &emsp;&emsp;(E) performing such other duties and functions that the Secretary deems appropriate to enable frail elderly persons residing in federally assisted housing to live with dignity and independence.
 
-> &emsp;The Secretary shall establish such minimum qualifications and standards for the position of service coordinator that the Secretary deems necessary to ensure sound management.Such qualifications and standards shall include requiring each service coordinator to be trained in the aging process, elder services, disability services, eligibility for and procedures of Federal and applicable State entitlement programs, legal liability issues relating to providing service coordination, drug and alcohol use and abuse by the elderly, and mental health issues. The Secretary may fund the employment of service coordinators by using amounts appropriated under this section and by permitting owners to use existing sources of funds, including excess project reserves.
+> &emsp;The Secretary shall establish such minimum qualifications and standards for the position of service coordinator that the Secretary deems necessary to ensure sound management. Such qualifications and standards shall include requiring each service coordinator to be trained in the aging process, elder services, disability services, eligibility for and procedures of Federal and applicable State entitlement programs, legal liability issues relating to providing service coordination, drug and alcohol use and abuse by the elderly, and mental health issues. The Secretary may fund the employment of service coordinators by using amounts appropriated under this section and by permitting owners to use existing sources of funds, including excess project reserves.
 
 #### (5) Other services
 
@@ -164,7 +164,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (B) Other residents and nonresidents
 
-&emsp;&emsp;Fees shall be established under this paragraph for residents of eligible housing projects (other than eligible project residents) and for nonresidents that receive services from a congregate services program pursuant to subsection (e) of this section. Such fees shall be in an amount equal to the cost of providing the services.
+&emsp;&emsp;Fees shall be established under this paragraph for residents of eligible housingprojects (other than eligible project residents) and for nonresidents that receive services from a congregate services program pursuant to subsection (e) of this section. Such fees shall be in an amount equal to the cost of providing the services.
 
 #### (8) Direct and indirect provision of services
 
@@ -306,7 +306,7 @@ The funds made available under this section shall be allocated by the Secretary 
 
 #### (1) Use of residents in providing services
 
-&emsp;Each housing project that receives assistance under this section shall, to the maximum extent practicable, utilize the elderly and persons with disabilities who are residents of the housing project, but who are not eligible project residents, to participate in providingthe services provided under congregate services programs under this section. Such individuals shall be paid wages that shall not be lower than the higher of—
+&emsp;Each housing project that receives assistance under this section shall, to the maximum extent practicable, utilize the elderly and persons with disabilities who are residents of the housing project, but who are not eligible project residents, to participate in providing the services provided under congregate services programs under this section. Such individuals shall be paid wages that shall not be lower than the higher of—
 
 &emsp;&emsp;(A) the minimum wage that would be applicable to the employee under the Fair Labor Standards Act of 1938 \[29 U.S.C. 201 et seq.\], if section 6(a)(1) of such Act \[29 U.S.C. 206(a)(1)\] applied to the resident and if the resident were not exempt under section 13 of such Act \[29 U.S.C. 213\];
 
@@ -330,17 +330,17 @@ The funds made available under this section shall be allocated by the Secretary 
 
 For purposes of this section:
 
-&emsp;(1) The term “activity of daily living” means an activity regularly necessary for personal care and includes bathing, dressing, eating, getting in and out of bed and chairs, walking, going outdoors, and using the toilet.
+&emsp;(1) The term "activity of daily living" means an activity regularly necessary for personal care and includes bathing, dressing, eating, getting in and out of bed and chairs, walking, going outdoors, and using the toilet.
 
-&emsp;(2) The term “case management” means assessment of the needs of a resident, ensuring access to and coordination of services for the resident, monitoring delivery of services to the resident, and periodic reassessment to ensure that services provided are appropriate to the needs and wants of the resident.
+&emsp;(2) The term "case management" means assessment of the needs of a resident, ensuring access to and coordination of services for the resident, monitoring delivery of services to the resident, and periodic reassessment to ensure that services provided are appropriate to the needs and wants of the resident.
 
-&emsp;(3) The term “congregate housing” means low-rent housing that is connected to a central dining facility where wholesome and economical meals can be served to the residents.
+&emsp;(3) The term "congregate housing" means low-rent housing that is connected to a central dining facility where wholesome and economical meals can be served to the residents.
 
-&emsp;(4) The term “congregate services” means services described in subsection (d) of this section.
+&emsp;(4) The term "congregate services" means services described in subsection (d) of this section.
 
-&emsp;(5) The term “congregate services program” means a program assisted under this section undertaken by an eligible housing project to provide congregate services to eligible residents.
+&emsp;(5) The term "congregate services program" means a program assisted under this section undertaken by an eligible housing project to provide congregate services to eligible residents.
 
-&emsp;(6) The term “eligible housing project” means—
+&emsp;(6) The term "eligible housing project" means—
 
 &emsp;&emsp;(A) public housing (as such term is defined in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\]) and lower income housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority under title II <sup>9</sup> of the United States Housing Act of 1937;
 
@@ -354,41 +354,41 @@ For purposes of this section:
 
 &emsp;&emsp;(F) housing assisted under section 1486 of this title.
 
-&emsp;(7) The term “eligible resident” means a person residing in eligible housing for the elderly who qualifies under the definition of frail elderly, person with disabilities (regardless ofwhether the person is elderly), or temporarily disabled.
+&emsp;(7) The term "eligible resident" means a person residing in eligible housing for the elderly who qualifies under the definition of frail elderly, person with disabilities (regardless of whether the person is elderly), or temporarily disabled.
 
-&emsp;(8) The term “frail elderly” means an elderly person who is unable to perform at least 3 activities of daily living adopted by the Secretary for purposes of this program. Owners may establish additional eligibility requirements (acceptable to the Secretary) based on the standards in local supportive services programs.
+&emsp;(8) The term "frail elderly" means an elderly person who is unable to perform at least 3 activities of daily living adopted by the Secretary for purposes of this program. Owners may establish additional eligibility requirements (acceptable to the Secretary) based on the standards in local supportive services programs.
 
-&emsp;(9) The term “Indian tribe” means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;(9) The term "Indian tribe" means any Indian tribe, band, nation, or other organized group or community, including any Alaska Native village or regional corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
-&emsp;(10) The term “instrumental activity of daily living” means a regularly necessary home management activity and includes preparing meals, shopping for personal items, managing money, using the telephone, and performing light or heavy housework.
+&emsp;(10) The term "instrumental activity of daily living" means a regularly necessary home management activity and includes preparing meals, shopping for personal items, managing money, using the telephone, and performing light or heavy housework.
 
-&emsp;(11) The term “local nonprofit housing sponsor” includes public housing agencies (as such term is defined in section 3(b)(6) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)(6)\].<sup>10</sup>
+&emsp;(11) The term "local nonprofit housing sponsor" includes public housing agencies (as such term is defined in section 3(b)(6) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)(6)\].<sup>10</sup>
 
-&emsp;(12) The term “nonprofit”, as applied to an organization, means no part of the net earnings of the organization inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+&emsp;(12) The term "nonprofit", as applied to an organization, means no part of the net earnings of the organization inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
-&emsp;(13) The term “elderly person” means a person who is at least 62 years of age.
+&emsp;(13) The term "elderly person" means a person who is at least 62 years of age.
 
-&emsp;(14) The term “person with disabilities” has the meaning given the term by section 8013 of this title.
+&emsp;(14) The term "person with disabilities" has the meaning given the term by section 8013 of this title.
 
-&emsp;(15) The term “professional assessment committee” means a committee established under subsection (e)(3)(B) of this section.
+&emsp;(15) The term "professional assessment committee" means a committee established under subsection (e)(3)(B) of this section.
 
-&emsp;(16) The term “qualifying supportive services” means new or significantly expanded services that the Secretary deems essential to enable eligible residents to live independently and avoid unnecessary institutionalization. Such services may include but not be limited to (A) meal service adequate to meet nutritional need; (B) housekeeping aid; (C) personal assistance (which may include, but is not limited to, aid given to eligible residents in grooming, dressing, and other activities which maintain personal appearance and hygiene); (D) transportation services; (E) health-related services; and (F) personal emergency response systems; the owner may provide the qualifying services directly to eligible residents or may, by contract or lease, provide such services through other appropriate agencies or providers.
+&emsp;(16) The term "qualifying supportive services" means new or significantly expanded services that the Secretary deems essential to enable eligible residents to live independently and avoid unnecessary institutionalization. Such services may include but not be limited to (A) meal service adequate to meet nutritional need; (B) housekeeping aid; (C) personal assistance (which may include, but is not limited to, aid given to eligible residents in grooming, dressing, and other activities which maintain personal appearance and hygiene); (D) transportation services; (E) health-related services; and (F) personal emergency response systems; the owner may provide the qualifying services directly to eligible residents or may, by contract or lease, provide such services through other appropriate agencies or providers.
 
-&emsp;(17) The term “Secretary concerned” means—
+&emsp;(17) The term "Secretary concerned" means—
 
 &emsp;&emsp;(A) the Secretary of Housing and Urban Development, with respect to eligible federally assisted housing administered by such Secretary; and
 
 &emsp;&emsp;(B) the Secretary of Agriculture, with respect to eligible federally assisted housing administered by the Administrator of the Farmers Home Administration.
 
-&emsp;(18) The term “State” means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+&emsp;(18) The term "State" means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
-&emsp;(19) The term “temporarily disabled” means having an impairment that—
+&emsp;(19) The term "temporarily disabled" means having an impairment that—
 
 &emsp;&emsp;(A) is expected to be of no more than 6 months duration; and
 
 &emsp;&emsp;(B) impedes the ability of the individual to live independently unless the individual receives congregate services.
 
-&emsp;(20) The term “unit of general local government”—
+&emsp;(20) The term "unit of general local government"—
 
 &emsp;&emsp;(A) means any city, town, township, county, parish, village, or other general purpose political subdivision of a State; and
 
@@ -412,7 +412,7 @@ For purposes of this section:
 
 #### (m) Regulations
 
-The Secretary of Housing and Urban Development and the Secretary of Agriculture shall, not later than the expiration of the 180-day periodbeginning on November 28, 1990, jointly issue any regulations necessary to carry out this section.
+The Secretary of Housing and Urban Development and the Secretary of Agriculture shall, not later than the expiration of the 180-day period beginning on November 28, 1990, jointly issue any regulations necessary to carry out this section.
 
 #### (n) Authorization of appropriations
 
@@ -456,21 +456,21 @@ Section was enacted as part of the Cranston-Gonzalez National Affordable Housing
 
 Section is comprised of section 802 of Pub. L. 101–625. Subsec. (p) of section 802 of Pub. L. 101–625 amended section 1437g of this title.
 
-November 28, 1990, referred to in subsecs. (i)(1)(B)(i) and (m), was in the original “the date of the enactment of this Act” and November 5, 1990, referred to in subsec. (j)(3), was in the original “the date of the enactment of this section”, see Effective Date note below.
+November 28, 1990, referred to in subsecs. (i)(1)(B)(i) and (m), was in the original "the date of the enactment of this Act" and November 5, 1990, referred to in subsec. (j)(3), was in the original "the date of the enactment of this section", see Effective Date note below.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (d)(2)(A). Pub. L. 110–246, §4002(b)(1)(N), (2)(LL), substituted “Supplemental nutrition assistance program benefits” for “Food stamps” in heading.
+<b>2008</b>—Subsec. (d)(2)(A). Pub. L. 110–246, §4002(b)(1)(N), (2)(LL), substituted "Supplemental nutrition assistance program benefits" for "Food stamps" in heading.
 
 Subsec. (d)(2)(A)(i)(I). Pub. L. 110–246, §4002(b)(1)(B), (2)(LL), made technical amendment to reference in original act which appears in text as reference to section 2018 of title 7.
 
-Subsec. (d)(2)(A)(i)(II). Pub. L. 110–246, §4115(c)(2)(I), struck out “(as defined in section 2012(e) of title 7)” after “benefits”.
+Subsec. (d)(2)(A)(i)(II). Pub. L. 110–246, §4115(c)(2)(I), struck out "(as defined in section 2012(e) of title 7)" after "benefits".
 
-Pub. L. 110–246, §4115(c)(1)(A)(i), (B)(vi), substituted “benefits” for “coupons”.
+Pub. L. 110–246, §4115(c)(1)(A)(i), (B)(vi), substituted "benefits" for "coupons".
 
-<b>1992</b>—Subsec. (d)(4). Pub. L. 102–550, §672, inserted after first sentence of concluding provisions “Such qualifications and standards shall include requiring each service coordinator to be trained in the aging process, elder services, disability services, eligibility for and procedures of Federal and applicable State entitlement programs, legal liability issues relating to providing service coordination, drug and alcohol use and abuse by the elderly, and mental health issues.”
+<b>1992</b>—Subsec. (d)(4). Pub. L. 102–550, §672, inserted after first sentence of concluding provisions "Such qualifications and standards shall include requiring each service coordinator to be trained in the aging process, elder services, disability services, eligibility for and procedures of Federal and applicable State entitlement programs, legal liability issues relating to providing service coordination, drug and alcohol use and abuse by the elderly, and mental health issues."
 
-Subsec. (i)(1)(B)(i). Pub. L. 102–550, §604(b), substituted “6-year” for “3-year” in two places.
+Subsec. (i)(1)(B)(i). Pub. L. 102–550, §604(b), substituted "6-year" for "3-year" in two places.
 
 Subsec. (n)(1). Pub. L. 102–550, §604(a), in introductory provisions, substituted provisions authorizing appropriations for fiscal years 1993 and 1994 for provisions authorizing appropriations of $25,000,000 for fiscal year 1991 and $26,100,000 for fiscal year 1992.
 
@@ -492,35 +492,35 @@ This section was enacted as part of Pub. L. 101–625, which was approved Nov. 2
 
 Pub. L. 102–550, title VI, §604(c), Oct. 28, 1992, 106 Stat. 3805, provided that:
 
-“(1)
+"(1)
 
 Interim regulations.—Not later than the expiration of the 30-day period beginning on the date of the enactment of this Act \[Oct. 28, 1992\], the Secretary of Housing and Urban Development and the Secretary of Agriculture shall submit to the Congress a copy of proposed interim regulations implementing section 802 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 8011\] with respect to eligible federally assisted housing (as such term is defined in section 802(k) of such Act) administered by each such Secretary. Not later than the expiration of the 45-day period beginning on the date of the enactment of this Act, but not before the expiration of the 15-day period beginning upon the submission of the proposed interim regulations to the Congress, each such Secretary shall publish interim regulations implementing such section 802, which shall take effect upon publication.
 
-“(2)
+"(2)
 
 Final regulations.—Not later than the expiration of the 90-day period beginning upon the publication of interim regulations under paragraph (1), each such Secretary shall issue final regulations implementing section 802 of the Cranston-Gonzalez National Affordable Housing Act after notice and opportunity for public comment regarding the interim regulations, pursuant to the provisions of section 553 of title 5, United States Code (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). The duration of the period for public comment under such section 553 shall be not less than 60 days, and the final regulations shall take effect upon issuance.
 
-“(3)
+"(3)
 
-Failure under 1990 act.—This subsection may not be construed to authorize any failure to comply with the requirements of section 802(m) of the Cranston-Gonzalez National Affordable Housing Act.”
+Failure under 1990 act.—This subsection may not be construed to authorize any failure to comply with the requirements of section 802(m) of the Cranston-Gonzalez National Affordable Housing Act."
 
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section,".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be subsection “(e)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be subsection "(e)".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “certification”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "certification".</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be subsection “(m)”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be subsection "(m)".</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be “general local”.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be "general local".</i>
 
 <i><sup>6</sup></i><i> See Codification note below.</i>
 
-<i><sup>7</sup></i><i> So in original. Probably should be “or”.</i>
+<i><sup>7</sup></i><i> So in original. Probably should be "or".</i>
 
 <i><sup>8</sup></i><i> See Codification note below.</i>
 
@@ -528,9 +528,9 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 <i><sup>10</sup></i><i> So in original. Probably should be preceded by a closing parenthesis.</i>
 
-<i><sup>11</sup></i><i> So in original. Probably should be subsection “(h)(1)(B)”.</i>
+<i><sup>11</sup></i><i> So in original. Probably should be subsection "(h)(1)(B)".</i>
 
-<i><sup>12</sup></i><i> So in original. Probably should be “report”.</i>
+<i><sup>12</sup></i><i> So in original. Probably should be "report".</i>
 
 <i><sup>13</sup></i><i> So in original. The colon probably should be a semicolon.</i>
 

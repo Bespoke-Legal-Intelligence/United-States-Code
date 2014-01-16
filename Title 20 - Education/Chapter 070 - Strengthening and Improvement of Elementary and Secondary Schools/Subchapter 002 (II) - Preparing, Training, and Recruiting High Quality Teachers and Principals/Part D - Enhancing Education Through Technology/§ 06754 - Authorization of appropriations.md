@@ -14,7 +14,7 @@ The amount of funds made available under subsection (a) of this section for a fi
 
 #### (c) Allocation of funds for study
 
-Of the total amount of funds allocated under subsection (b)(2) of this section for fiscal years2002 through 2007, not more than $15,000,000 may be used to carry out section 6771(a) of this title.
+Of the total amount of funds allocated under subsection (b)(2) of this section for fiscal years 2002 through 2007, not more than $15,000,000 may be used to carry out section 6771(a) of this title.
 
 #### (d) Limitation
 

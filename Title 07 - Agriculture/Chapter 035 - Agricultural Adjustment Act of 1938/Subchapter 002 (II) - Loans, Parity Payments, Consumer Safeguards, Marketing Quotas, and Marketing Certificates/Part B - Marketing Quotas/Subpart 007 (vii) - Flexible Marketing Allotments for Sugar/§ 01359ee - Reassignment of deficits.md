@@ -44,7 +44,7 @@ A prior section 1359ee, act Feb. 16, 1938, ch. 30, title III, §359e, as added P
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(1)(D), (2)(C). Pub. L. 110–246, §1403(e), inserted “of raw cane sugar” after “imports”.
+<b>2008</b>—Subsec. (b)(1)(D), (2)(C). Pub. L. 110–246, §1403(e), inserted "of raw cane sugar" after "imports".
 
 #### Effective Date of 2008 Amendment
 

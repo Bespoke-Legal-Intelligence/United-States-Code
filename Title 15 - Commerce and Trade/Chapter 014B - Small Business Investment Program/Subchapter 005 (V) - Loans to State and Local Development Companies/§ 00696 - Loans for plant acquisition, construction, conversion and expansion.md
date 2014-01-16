@@ -26,7 +26,7 @@ In general.—Loans made by the Administration under this section shall be limit
 
 &emsp;(B)
 
-Definition.—As used in this paragraph, the term “small manufacturer” means a small business concern—
+Definition.—As used in this paragraph, the term "small manufacturer" means a small business concern—
 
 &emsp;&emsp;(i) the primary business of which is classified in sector 31, 32, or 33 of the North American Industrial Classification System; and
 
@@ -74,7 +74,7 @@ Funding from a small business concern.—The small business concern (or its owne
 
 &emsp;(D)
 
-Seller financing.—Seller-provided financing may be used to meet the requirements of subparagraph (B), if the seller subordinates the interest of the seller in the property to the debenture guaranteed by the Administration.
+Seller financing.—Seller-provided financing may be used to meet the requirementsof subparagraph (B), if the seller subordinates the interest of the seller in the property to the debenture guaranteed by the Administration.
 
 &emsp;(E)
 
@@ -128,17 +128,17 @@ Expansions.—If the project involves expansion of a small business concern, any
 
 &emsp;&emsp;(vii) the financing under section 697a of this title will provide better terms or rate of interest than the existing indebtedness at the time of refinancing.
 
-(Pub. L. 85–699, title V, §502, Aug. 21, 1958, 72 Stat. 697; Pub. L. 87–27, §26, May 1, 1961, 75 Stat. 63; Pub. L. 87–341, §10, Oct. 3, 1961, 75 Stat. 756; Pub. L. 94–305, title I, §§108(a), 110, June 4, 1976, 90 Stat. 666, 667; Pub. L. 95–507, title I, §112, Oct. 24, 1978, 92 Stat. 1760; Pub. L. 97–35, title XIX, §1909, Aug. 13, 1981, 95 Stat. 778; Pub. L. 100–418, title VIII, §8007(b), Aug. 23, 1988, 102 Stat. 1561; Pub. L. 100–590, title I, §116(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997, 2998; Pub. L. 101–574, title II, §214(c), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 104–208, div. D, title II, §202(a), Sept. 30, 1996, 110 Stat. 3009–734; Pub. L. 105–135, title II, §221, Dec. 2, 1997, 111 Stat. 2603; Pub. L. 106–554, §1(a)(9) \[title II, §208(b), title III, §303, title VIII,§802(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–683, 2763A–684, 2763A–702; Pub. L. 108–447, div. K, title I, §104, Dec. 8, 2004, 118 Stat. 3444; Pub. L. 110–140, title XII, §1204(b), Dec. 19, 2007, 121 Stat. 1772; Pub. L. 111–5, div. A, title V, §504(a), Feb. 17, 2009, 123 Stat. 155; Pub. L. 111–240, title I, §§1112, 1122, Sept. 27, 2010, 124 Stat. 2508, 2510.)
+(Pub. L. 85–699, title V, §502, Aug. 21, 1958, 72 Stat. 697; Pub. L. 87–27, §26, May 1, 1961, 75 Stat. 63; Pub. L. 87–341, §10, Oct. 3, 1961, 75 Stat. 756; Pub. L. 94–305, title I, §§108(a), 110, June 4, 1976, 90 Stat. 666, 667; Pub. L. 95–507, title I, §112, Oct. 24, 1978, 92 Stat. 1760; Pub. L. 97–35, title XIX, §1909, Aug. 13, 1981, 95 Stat. 778; Pub. L. 100–418, title VIII, §8007(b), Aug. 23, 1988, 102 Stat. 1561; Pub. L. 100–590, title I, §116(a), (b)(1), Nov. 3, 1988, 102 Stat. 2997, 2998; Pub. L. 101–574, title II, §214(c), Nov. 15, 1990, 104 Stat. 2822; Pub. L. 104–208, div. D, title II, §202(a), Sept. 30, 1996, 110 Stat. 3009–734; Pub. L. 105–135, title II, §221, Dec. 2, 1997, 111 Stat. 2603; Pub. L. 106–554, §1(a)(9) \[title II, §208(b), title III, §303, title VIII, §802(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–683, 2763A–684, 2763A–702; Pub. L. 108–447, div. K, title I, §104, Dec. 8, 2004, 118 Stat. 3444; Pub. L. 110–140, title XII, §1204(b), Dec. 19, 2007, 121 Stat. 1772; Pub. L. 111–5, div. A, title V, §504(a), Feb. 17, 2009, 123 Stat. 155; Pub. L. 111–240, title I, §§1112, 1122, Sept. 27, 2010, 124 Stat. 2508, 2510.)
 
 #### Amendments
 
-<b>2010</b>—Par. (2)(A)(i). Pub. L. 111–240, §1122(c), substituted “clause (ii), (iii), (iv), or (v)” for “subparagraph (B) or (C)”.
+<b>2010</b>—Par. (2)(A)(i). Pub. L. 111–240, §1122(c), substituted "clause (ii), (iii), (iv), or (v)" for "subparagraph (B) or (C)".
 
-Pub. L. 111–240, §1112(1), substituted “$5,000,000” for “$1,500,000”.
+Pub. L. 111–240, §1112(1), substituted "$5,000,000" for "$1,500,000".
 
-Par. (2)(A)(ii). Pub. L. 111–240, §1112(2), substituted “$5,000,000” for “$2,000,000”.
+Par. (2)(A)(ii). Pub. L. 111–240, §1112(2), substituted "$5,000,000" for "$2,000,000".
 
-Par. (2)(A)(iii) to (v). Pub. L. 111–240, §1112(3)–(5), substituted “$5,500,000” for “$4,000,000”.
+Par. (2)(A)(iii) to (v). Pub. L. 111–240, §1112(3)–(5), substituted "$5,500,000" for "$4,000,000".
 
 Par. (7)(C). Pub. L. 111–240, §1122(b), struck out subpar. (C) relating to refinancing not involving expansions.
 
@@ -148,35 +148,35 @@ Pub. L. 111–240, §1122(a), added subpar. (C).
 
 <b>2007</b>—Par. (2)(A)(iv), (v). Pub. L. 110–140 added cls. (iv) and (v).
 
-<b>2004</b>—Par. (2). Pub. L. 108–447 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Loans made by the Administration under this section shall be limited to $1,000,000 for each such identifiable small business concern, except loans meeting the criteria specified in section 695(d)(3) of this title, which shall be limited to $1,300,000 for each such identifiable small business concern.”
+<b>2004</b>—Par. (2). Pub. L. 108–447 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Loans made by the Administration under this section shall be limited to $1,000,000 for each such identifiable small business concern, except loans meeting the criteria specified in section 695(d)(3) of this title, which shall be limited to $1,300,000 for each such identifiable small business concern."
 
-<b>2000</b>—Par. (2). Pub. L. 106–554, §1(a)(9) \[title III, §303\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Loans made by the Administration under this section shall be limited to $750,000 for each such identifiable small-business concern, except loans meeting the criteria specified in section 695(d)(3) of this title shall be limited to $1,000,000 for each such identifiable small business concern.”
+<b>2000</b>—Par. (2). Pub. L. 106–554, §1(a)(9) \[title III, §303\], amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Loans made by the Administration under this section shall be limited to $750,000 for each such identifiable small-business concern, except loans meeting the criteria specified in section 695(d)(3) of this title shall be limited to $1,000,000 for each such identifiable small business concern."
 
 Par. (3)(E). Pub. L. 106–554, §1(a)(9) \[title II, §208(b)\], designated existing provisions as cl. (i), inserted heading, and added cl. (ii).
 
 Par. (6). Pub. L. 106–554, §1(a)(9) \[title VIII, §802(b)\], added par. (6).
 
-<b>1997</b>—Par. (1). Pub. L. 105–135, §221(1), added par. (1) and struck out former par. (1) which read as follows: “The proceeds of any such loan shall be used solely by such borrower to assist in identifiable small-business concern and for a sound business purpose approved by the Administration.”
+<b>1997</b>—Par. (1). Pub. L. 105–135, §221(1), added par. (1) and struck out former par. (1) which read as follows: "The proceeds of any such loan shall be used solely by such borrower to assist in identifiable small-business concern and for a sound business purpose approved by the Administration."
 
 Par. (3)(D), (E). Pub. L. 105–135, §221(2), added subpars. (D) and (E).
 
 Par. (5). Pub. L. 105–135, §221(3), added par. (5).
 
-<b>1996</b>—Par. (3). Pub. L. 104–208 inserted heading and amended text of par. (3) generally. Prior to amendment, text read as follows: “Any development company assisted under this section must meet criteria established by the Administration, including the extent of participation to be required or amount of paid-in capital to be used in each instance as is determined to be reasonable by the Administration. Community injection funds may be derived, in whole or in part, from—
+<b>1996</b>—Par. (3). Pub. L. 104–208 inserted heading and amended text of par. (3) generally. Prior to amendment, text read as follows: "Any development company assisted under this section must meet criteria established by the Administration, including the extent of participation to be required or amount of paid-in capital to be used in each instance as is determined to be reasonable by the Administration. Community injection funds may be derived, in whole or in part, from—
 
-&emsp;“(A) State or local governments;
+&emsp;"(A) State or local governments;
 
-&emsp;“(B) banks or other financial institutions;
+&emsp;"(B) banks or other financial institutions;
 
-&emsp;“(C) foundations or other not-for-profit institutions; or
+&emsp;"(C) foundations or other not-for-profit institutions; or
 
-&emsp;“(D) a small business concern (or its owners, stockholders, or affiliates) receiving assistance through bodies authorized under this subchapter.”
+&emsp;"(D) a small business concern (or its owners, stockholders, or affiliates) receiving assistance through bodies authorized under this subchapter."
 
-<b>1990</b>—Par. (2). Pub. L. 101–574 struck out period at end and inserted “, except loans meeting the criteria specified in section 695(d)(3) of this title shall be limited to $1,000,000 for each such identifiable small business concern.”
+<b>1990</b>—Par. (2). Pub. L. 101–574 struck out period at end and inserted ", except loans meeting the criteria specified in section 695(d)(3) of this title shall be limited to $1,000,000 for each such identifiable small business concern."
 
-<b>1988</b>—Pub. L. 100–590, §116(b)(1), inserted “Loans for plant acquisition, construction, conversion, and expansion” as section catchline.
+<b>1988</b>—Pub. L. 100–590, §116(b)(1), inserted "Loans for plant acquisition, construction, conversion, and expansion" as section catchline.
 
-Par. (2). Pub. L. 100–418 substituted “$750,000” for “$500,000”.
+Par. (2). Pub. L. 100–418 substituted "$750,000" for "$500,000".
 
 Par. (4). Pub. L. 100–590, §116(a), added par. (4).
 
@@ -186,13 +186,13 @@ Par. (5). Pub. L. 97–35 struck out par. (5) which provided that loans, includi
 
 <b>1978</b>—Par. (4). Pub. L. 95–507 inserted provisions relating to derivation of community injection funds.
 
-<b>1976</b>—Pub. L. 94–305, §108(a), inserted “acquisition,” after “plant” in introductory text.
+<b>1976</b>—Pub. L. 94–305, §108(a), inserted "acquisition," after "plant" in introductory text.
 
-Par. (3). Pub. L. 94–305, §110, substituted “$500,000” for “$350,000”.
+Par. (3). Pub. L. 94–305, §110, substituted "$500,000" for "$350,000".
 
-<b>1961</b>—Par. (3). Pub. L. 87–341, §10(1), substituted “$350,000” for “$250,000”.
+<b>1961</b>—Par. (3). Pub. L. 87–341, §10(1), substituted "$350,000" for "$250,000".
 
-Par. (5). Pub. L. 87–341, §10(2), substituted “twenty-five” for “ten” before “years plus such additional period”.
+Par. (5). Pub. L. 87–341, §10(2), substituted "twenty-five" for "ten" before "years plus such additional period".
 
 Par. (6). Pub. L. 87–27 struck out par. (6) which provided for termination of authority of the Administration to make loans to local development companies after June 30, 1961.
 
@@ -216,5 +216,5 @@ Amendment by Pub. L. 104–208 effective Oct. 1, 1996, see section 3 of Pub. L. 
 
 Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 1918 of Pub. L. 97–35, set out as a note under section 631 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “clause”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "clause".</i>
 

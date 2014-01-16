@@ -2,7 +2,7 @@
 
 In the construction of housing under the authority of this title and title VIII of the National Housing Act, as amended \[12 U.S.C. 1748 et seq.\], the maximum limitations on net floor area for each unit shall be the same as the net floor area limitations prescribed by law (at the time plans and specifications for such construction are begun) for public quarters built with appropriated funds under military construction authority.
 
-(Aug. 11, 1955, ch. 783, title IV, §410, as added Aug. 7, 1956, ch. 1029, title V, §510, 70 Stat. 1110;amended Pub. L. 85–104, title V, §503, July 12, 1957, 71 Stat. 303.)
+(Aug. 11, 1955, ch. 783, title IV, §410, as added Aug. 7, 1956, ch. 1029, title V, §510, 70 Stat. 1110; amended Pub. L. 85–104, title V, §503, July 12, 1957, 71 Stat. 303.)
 
 #### References in Text
 
@@ -12,5 +12,5 @@ The National Housing Act, referred to in text, is act June 27, 1934, ch. 847, 48
 
 #### Amendments
 
-<b>1957</b>—Pub. L. 85–104 substituted “limitations prescribed by law (at the time plans and specifications for such construction are begun) for public quarters built with appropriated funds under military construction authority” for “permanent limitations prescribed in the second, third, and fourth provisos of section 3 of the act of June 12, 1948 (62 Stat. 375), or section 3 of the act of June 16, 1948 (62 Stat. 459), other than the first, second, and third provisos thereof”.
+<b>1957</b>—Pub. L. 85–104 substituted "limitations prescribed by law (at the time plans and specifications for such construction are begun) for public quarters built with appropriated funds under military construction authority" for "permanent limitations prescribed in the second, third, and fourth provisos of section 3 of the act of June 12, 1948 (62 Stat. 375), or section 3 of the act of June 16, 1948 (62 Stat. 459), other than the first, second, and third provisos thereof".
 

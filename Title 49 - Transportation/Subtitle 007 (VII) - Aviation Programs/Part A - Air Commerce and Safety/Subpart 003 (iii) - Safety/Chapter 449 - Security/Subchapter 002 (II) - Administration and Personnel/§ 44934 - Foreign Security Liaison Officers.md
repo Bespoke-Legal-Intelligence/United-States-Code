@@ -42,19 +42,19 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §319(b); added Nov. 16, 1990, Pu
 
 49 App.:1358b(b)(5).
 
-In subsection (a), the words “Not later than 90 days after November 16, 1990” are omitted as obsolete. The words “shall designate” are substituted for “shall begin assigning” for consistency with the source provisions restated in section 44933 of the revised title and because of the restatement. The words “Not later than 2 years after November 16, 1990” are omitted as obsolete. The word “designate” is substituted for “assign” for consistency with the source provisions restated in section 44933 of the revised title. The words “outside the United States” are omitted as unnecessary.
+In subsection (a), the words "Not later than 90 days after November 16, 1990" are omitted as obsolete. The words "shall designate" are substituted for "shall begin assigning" for consistency with the source provisions restated in section 44933 of the revised title and because of the restatement. The words "Not later than 2 years after November 16, 1990" are omitted as obsolete. The word "designate" is substituted for "assign" for consistency with the source provisions restated in section 44933 of the revised title. The words "outside the United States" are omitted as unnecessary.
 
-In subsection (b), before clause (1), the words “to the office of” are omitted as unnecessary. In clause (1), the words “governments of foreign countries and foreign airport authorities” are substituted for “foreign governments and airport authorities” for clarity and consistency in the revised title and with other titles of the United States Code. In clause (2), the words “duties and powers” are substituted for “responsibilities” for consistency in the revised title and with other titles of the Code.
+In subsection (b), before clause (1), the words "to the office of" are omitted as unnecessary. In clause (1), thewords "governments of foreign countries and foreign airport authorities" are substituted for "foreign governments and airport authorities" for clarity and consistency in the revised title and with other titles of the United States Code. In clause (2), the words "duties and powers" are substituted for "responsibilities" for consistency in the revised title and with other titles of the Code.
 
-In subsection (c), the words “duties and powers” are substituted for “authorities” for clarity and consistency in the revised title and with other titles of the Code.
+In subsection (c), the words "duties and powers" are substituted for "authorities" for clarity and consistency in the revised title and with other titles of the Code.
 
 #### Amendments
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary” for “Administrator” wherever appearing and “of Transportation for Security” for “of the Federal Aviation Administration”.
+<b>2001</b>—Subsec. (a). Pub. L. 107–71, §101(f)(7), (9), substituted "Under Secretary" for "Administrator" wherever appearing and "of Transportation for Security" for "of the Federal Aviation Administration".
 
-Subsec. (b). Pub. L. 107–71, §101(f)(4), substituted “Under Secretary” for “Assistant Administrator for Civil Aviation Security” in introductory provisions.
+Subsec. (b). Pub. L. 107–71, §101(f)(4), substituted "Under Secretary" for "Assistant Administrator for Civil Aviation Security" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 107–71, §101(f)(5), substituted “Under Secretary” for “Assistant Administrator”.
+Subsec. (b)(1). Pub. L. 107–71, §101(f)(5), substituted "Under Secretary" for "Assistant Administrator".
 
 #### Transfer of Functions
 

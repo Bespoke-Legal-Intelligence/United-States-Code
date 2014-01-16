@@ -4,11 +4,11 @@ In this part:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Environmental Protection Agency.
+&emsp;The term "Administrator" means the Administrator of the Environmental Protection Agency.
 
 #### (2) Combined heat and power
 
-&emsp;The term “combined heat and power system” means a facility that—
+&emsp;The term "combined heat and power system" means a facility that—
 
 &emsp;&emsp;(A) simultaneously and efficiently produces useful thermal energy and electricity; and
 
@@ -16,23 +16,23 @@ In this part:
 
 #### (3) Net excess power
 
-&emsp;The term “net excess power” means, for any facility, recoverable waste energy recovered in the form of electricity in quantities exceeding the total consumption of electricity at the specific time of generation on the site at which the facility is located.
+&emsp;The term "net excess power" means, for any facility, recoverable waste energy recovered in the form of electricity in quantities exceeding the total consumption of electricity at the specific time of generation on the site at which the facility is located.
 
 #### (4) Project
 
-&emsp;The term “project” means a recoverable waste energy project or a combined heat and power system project.
+&emsp;The term "project" means a recoverable waste energy project or a combined heat and power system project.
 
 #### (5) Recoverable waste energy
 
-&emsp;The term “recoverable waste energy” means waste energy from which electricity or useful thermal energy may be recovered through modification of an existing facility or addition of a new facility.
+&emsp;The term "recoverable waste energy" means waste energy from which electricity or useful thermal energy may be recovered through modification of an existing facility or addition of a new facility.
 
 #### (6) Registry
 
-&emsp;The term “Registry” means the Registry of Recoverable Waste Energy Sources established under section 6342(d) of this title.
+&emsp;The term "Registry" means the Registry of Recoverable Waste Energy Sources established under section 6342(d) of this title.
 
 #### (7) Useful thermal energy
 
-&emsp;The term “useful thermal energy” means energy—
+&emsp;The term "useful thermal energy" means energy—
 
 &emsp;&emsp;(A) in the form of direct heat, steam, hot water, or other thermal form that is used in production and beneficial measures for heating, cooling, humidity control, process use, or other valid thermal end-use energy requirements; and
 
@@ -40,7 +40,7 @@ In this part:
 
 #### (8) Waste energy
 
-&emsp;The term “waste energy” means—
+&emsp;The term "waste energy" means—
 
 &emsp;&emsp;(A) exhaust heat or flared gas from any industrial process;
 
@@ -52,7 +52,7 @@ In this part:
 
 #### (9) Other terms
 
-&emsp;The terms “electric utility”, “nonregulated electric utility”, “State regulated electric utility”, and other terms have the meanings given those terms in title I of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2611 et seq.).
+&emsp;The terms "electric utility", "nonregulated electric utility", "State regulated electric utility", and other terms have the meanings given those terms in title I of the Public Utility Regulatory Policies Act of 1978 (16 U.S.C. 2611 et seq.).
 
 (Pub. L. 94–163, title III, §371, as added Pub. L. 110–140, title IV, §451(a), Dec. 19, 2007, 121 Stat. 1623.)
 

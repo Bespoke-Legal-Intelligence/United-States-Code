@@ -26,7 +26,7 @@ Nothing in this chapter shall affect in any way the authority of the Secretary o
 
 #### (c) Cooperation
 
-To the greatest extent practicable each Federal agency shall cooperate with the Secretaryand the States in carrying out the provisions of this chapter.
+To the greatest extent practicable each Federal agency shall cooperate with the Secretary and the States in carrying out the provisions of this chapter.
 
 #### (d) Major Federal action
 
@@ -52,7 +52,7 @@ The Solid Waste Disposal Act (42 U.S.C. 3251–3259), referred to in subsec. (a)
 
 The Refuse Act of 1899 (33 U.S.C. 407), referred to in subsec. (a)(6), probably means act Mar. 3, 1899, ch. 425, §13, 30 Stat. 1152, which enacted section 407 of Title 33, Navigation and Navigable Waters.
 
-The Fish and Wildlife Coordination Act of 1934 (16 U.S.C. 661–666c), referred to in subsec. (a)(7), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, known as the Fish and Wildlife Coordination Act, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 16 and Tables.
+The Fish and Wildlife Coordination Act of 1934 (16 U.S.C. 661–666c), referred to in subsec. (a)(7), is act Mar.10, 1934, ch. 55, 48 Stat. 401, as amended, known as the Fish and Wildlife Coordination Act, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 16 and Tables.
 
 The Mineral Leasing Act of 1920, as amended (30 U.S.C. 181 et seq.), referred to in subsec. (a)(8), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 

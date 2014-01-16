@@ -38,5 +38,5 @@ Aug. 31, 1960, Pub. L. 86–680, §§7, 8, 74 Stat. 575.
 
 &nbsp;
 
-In subsection (a), the text of 36:977(a) is omitted as executed and obsolete. In paragraph (3), the words “and exercise” are omitted as unnecessary.
+In subsection (a), the text of 36:977(a) is omitted as executed and obsolete. In paragraph (3), the words "and exercise" are omitted as unnecessary.
 

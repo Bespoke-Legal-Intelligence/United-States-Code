@@ -6,9 +6,9 @@ For the purpose of enforcing the provisions of this chapter, carriers engaged in
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–314 substituted “Commission” for “Secretary”.
+<b>2008</b>—Pub. L. 110–314 substituted "Commission" for "Secretary".
 
-<b>1970</b>—Pub. L. 91–452 inserted “, or any evidence which is directly or indirectly derived from such evidence,” after “under this section”.
+<b>1970</b>—Pub. L. 91–452 inserted ", or any evidence which is directly or indirectly derived from such evidence," after "under this section".
 
 #### Effective Date of 1970 Amendment
 

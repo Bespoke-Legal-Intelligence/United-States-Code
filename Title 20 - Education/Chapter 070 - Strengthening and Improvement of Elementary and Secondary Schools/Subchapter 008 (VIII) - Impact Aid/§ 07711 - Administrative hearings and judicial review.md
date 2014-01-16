@@ -2,7 +2,7 @@
 
 #### (a) Administrative hearings
 
-A local educational agency and a State that is adversely affected by any action of the Secretary under this subchapter or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994) shall be entitled to a hearing on such action in the same manner as if such agency were a person under chapter 5 of title 5 if the local educational agency or State, as the case may be, submits to the Secretary a request for the hearing not later than 60 days after the date of the action of the Secretary under this subchapter.
+A local educational agency and a State that is adversely affected by any action of the Secretary under this subchapter or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994) shall be entitled to a hearing on such action in the same manner as if such agency were a person under chapter 5 of title 5 if the local educational agency or State,as the case may be, submits to the Secretary a request for the hearing not later than 60 days after the date of the action of the Secretary under this subchapter.
 
 #### (b) Judicial review of secretarial action
 
@@ -26,11 +26,11 @@ Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in ef
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1814(a)(1)\], inserted “if the local educational agency or State, as the case may be, submits to the Secretary a request for the hearing not later than 60 days after the date of the action of the Secretary under this subchapter” before period at end.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1814(a)(1)\], inserted "if the local educational agency or State, as the case may be, submits to the Secretary a request for the hearing not later than 60 days after the date of the action of the Secretary under this subchapter" before period at end.
 
-Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1814(b)\], substituted “30 working days (as determined by the local educational agency or State)” for “60 days”.
+Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1814(b)\], substituted "30 working days (as determined by the local educational agency or State)" for "60 days".
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1814(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–387, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to an action of the Secretary under title VIII of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7701 et seq.) initiated on or after the date of the enactment of this Act \[Oct. 30, 2000\].”
+Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1814(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–387, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to an action of the Secretary under title VIII of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 7701 et seq.) initiated on or after the date of the enactment of this Act \[Oct. 30, 2000\]."
 

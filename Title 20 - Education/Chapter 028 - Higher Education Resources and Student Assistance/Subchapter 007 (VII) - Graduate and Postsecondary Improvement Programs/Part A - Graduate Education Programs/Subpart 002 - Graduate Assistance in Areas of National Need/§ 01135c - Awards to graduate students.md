@@ -12,7 +12,7 @@
 
 #### (b) Amount of stipends
 
-The Secretary shall make payments to institutions of higher education for the purpose of paying stipends to individuals who are awarded fellowships under this subpart. The stipends the Secretary establishes shall reflect the purpose of the program under this subpart to encourage highly talented students to undertake graduate study as described in this subpart. In the case of an individual who receives such individual's first stipend under this subpart in academic year 2009–2010 or any succeeding academic year, such stipend shall be set at a level of support equal to that provided by the National Science Foundation Graduate Research Fellowship Program for such academic year, except such amount shall be adjusted as necessary so as not to exceed the fellow's demonstrated level of need as determined under part E of subchapter IV of this chapter.
+The Secretary shall make payments to institutions of higher education for the purpose ofpaying stipends to individuals who are awarded fellowships under this subpart. The stipends the Secretary establishes shall reflect the purpose of the program under this subpart to encourage highly talented students to undertake graduate study as described in this subpart. In the case of an individual who receives such individual's first stipend under this subpart in academic year 2009–2010 or any succeeding academic year, such stipend shall be set at a level of support equal to that provided by the National Science Foundation Graduate Research Fellowship Program for such academic year, except such amount shall be adjusted as necessary so as not to exceed the fellow's demonstrated level of need as determined under part E of subchapter IV of this chapter.
 
 #### (c) Treatment of institutional payments
 
@@ -22,7 +22,7 @@ An institution of higher education that makes institutional payments for tuition
 
 Notwithstanding the provisions of subsection (a) of this section, no student shall receive an award—
 
-&emsp;(1) except during periods in which such student is maintaining satisfactory progress in,and devoting essentially full time to, study or research in the field in which such fellowship was awarded; or
+&emsp;(1) except during periods in which such student is maintaining satisfactory progress in, and devoting essentially full time to, study or research in the field in which such fellowship was awarded; or
 
 &emsp;(2) if the student is engaging in gainful employment other than part-time employment involved in teaching, research, or similar activities determined by the institution to be in support of the student's progress towards a degree.
 
@@ -34,7 +34,7 @@ Provisions similar to this section were contained in section 1134p of this title
 
 A prior section 1135c, Pub. L. 89–329, title X, §1031, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1563, related to minority support in science and engineering programs, prior to repeal by Pub. L. 105–244, §3, title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1803, effective Oct. 1, 1998.
 
-Another prior section 1135c, Pub. L. 89–329, title X, §1021, formerly §1071, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 322, established Bureau of Occupational and Adult Education and set forth functions, personnel etc., of the Bureau, prior to repeal by Pub. L. 94–482, title II, §204(c)(3), Oct. 12, 1976, 90 Stat. 2215, eff. Oct. 1, 1977. Subsequent to repeal, this prior section 1135c was renumbered section 1021 of Pub. L. 89–329 and amended by deleting “this title” by Pub. L. 96–374, title X, §1001(b), Oct. 3, 1980, 94 Stat. 1491.
+Another prior section 1135c, Pub. L. 89–329, title X, §1021, formerly §1071, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 322, established Bureau of Occupational and Adult Education and set forth functions, personnel etc., of the Bureau, prior to repeal by Pub. L. 94–482, title II, §204(c)(3), Oct. 12, 1976, 90 Stat. 2215, eff. Oct. 1, 1977. Subsequent to repeal, this prior section 1135c was renumbered section 1021 of Pub. L. 89–329 and amended by deleting "this title" by Pub. L. 96–374, title X, §1001(b), Oct. 3, 1980, 94 Stat. 1491.
 
 Another prior section 1135c, Pub. L. 89–329, title X, §1004, as added Pub. L. 90–575, title II, §271, Oct. 16, 1968, 82 Stat. 1048, provided for consultations respecting improvement of graduate programs, prior to the general amendment of subchapter X of this chapter by Pub. L. 92–318.
 
@@ -48,7 +48,7 @@ A prior section 1135c–2, Pub. L. 89–329, title X, §1033, as added Pub. L. 9
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–315, §703(b), substituted “2009–2010” for “1999–2000” and “Foundation Graduate Research Fellowship Program for such academic year” for “Foundation graduate fellowships”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–315, §703(b), substituted "2009–2010" for "1999–2000" and "Foundation Graduate Research Fellowship Program for such academic year" for "Foundation graduate fellowships".
 
 Subsec. (c). Pub. L. 110–315, §703(e)(4), made technical amendment to references in original act which appear in text as references to sections 1135d(a) and 1135b(b)(2) of this title.
 

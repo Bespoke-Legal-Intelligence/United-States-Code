@@ -36,7 +36,7 @@ Notwithstanding any other provision of law, in determining the reimbursement due
 
 #### (1) Funds and commodities
 
-&emsp;Of the amounts made available to carry out emergency and nonemergency food assistanceprograms under subchapter III, not less than $375,000,000 for fiscal year 2009, $400,000,000 for fiscal year 2010, $425,000,000 for fiscal year 2011, and $450,000,000 for fiscal year 2012 shall be expended for nonemergency food assistance programs under subchapter III.
+&emsp;Of the amounts made available to carry out emergency and nonemergency food assistance programs under subchapter III, not less than $375,000,000 for fiscal year 2009, $400,000,000 for fiscal year 2010, $425,000,000 for fiscal year 2011, and $450,000,000 for fiscal year 2012 shall be expended for nonemergency food assistance programs under subchapter III.
 
 #### (2) Exception
 
@@ -60,15 +60,15 @@ Notwithstanding any other provision of law, in determining the reimbursement due
 
 Subsec. (e). Pub. L. 110–246, §3021, added subsec. (e).
 
-<b>2000</b>—Subsec. (d). Pub. L. 106–387 substituted “dairy price support operations” for “title I of the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.)”.
+<b>2000</b>—Subsec. (d). Pub. L. 106–387 substituted "dairy price support operations" for "title I of the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.)".
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–127, §220(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “Of the amounts made available in each fiscal year to carry out subchapters II and III–A of this chapter, not less than—
+<b>1996</b>—Subsec. (b). Pub. L. 104–127, §220(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: "Of the amounts made available in each fiscal year to carry out subchapters II and III–A of this chapter, not less than—
 
-&emsp;“(1) 40 percent shall be made available to carry out the credit sales program established under subchapter II of this chapter; and
+&emsp;"(1) 40 percent shall be made available to carry out the credit sales program established under subchapter II of this chapter; and
 
-&emsp;“(2) 40 percent shall be made available to carry out the grant program established under subchapter III–A of this chapter.”
+&emsp;"(2) 40 percent shall be made available to carry out the grant program established under subchapter III–A of this chapter."
 
-Subsecs. (c) to (e). Pub. L. 104–127, §220, redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out heading and text of former subsec. (c). Text read as follows: “Notwithstanding any other provision of law and except as provided in subsection (b) of this section, if the President determines it to be necessary for purposes of this chapter, the President may direct that not in excess of 15 percent of the funds available in any fiscal year for carrying out any subchapter of this chapter be used to carry out any other subchapter of this chapter.”
+Subsecs. (c) to (e). Pub. L. 104–127, §220, redesignated subsecs. (d) and (e) as (c) and (d), respectively, and struck out heading and text of former subsec. (c). Text read as follows: "Notwithstanding any other provision of law and except as provided in subsection (b) of this section, if the President determines it to be necessary for purposes of this chapter, the President may direct that not in excess of 15 percent of the funds available in any fiscal year for carrying out any subchapter of this chapter be used to carry out any other subchapter of this chapter."
 
 <b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions authorizing President to seek agreement for international food reserve, with costs to be shared equitably among nations, and with safeguards against price disruptions.
 
@@ -86,7 +86,7 @@ Functions of President under subsec. (b) of this section delegated to Director o
 
 #### Availability of Funds
 
-Pub. L. 109–97, title VII, §722, Nov. 10, 2005, 119 Stat. 2152, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that: “Hereafter, notwithstanding section 412 of the Food for Peace Act (7 U.S.C. 1736f), any balances available to carry out title III of such Act \[7 U.S.C. 1727 et seq.\] as of the date of enactment of this Act \[Nov. 10, 2005\], and any recoveries and reimbursements that become available to carry out title III of such Act, may be used to carry out title II of such Act \[7 U.S.C. 1721 et seq.\].”
+Pub. L. 109–97, title VII, §722, Nov. 10, 2005, 119 Stat. 2152, as amended by Pub. L. 110–246, title III, §3001(c), June 18, 2008, 122 Stat. 1821, provided that: "Hereafter, notwithstanding section 412 of the Food for Peace Act (7 U.S.C. 1736f), any balances available to carry out title III of such Act \[7 U.S.C. 1727 et seq.\] as of the date of enactment of this Act \[Nov. 10, 2005\], and any recoveries and reimbursements that become available to carry out title III of such Act, may be used to carry out title II of such Act \[7 U.S.C. 1721 et seq.\]."
 
 Similar provisions were contained in the following prior appropriation acts:
 

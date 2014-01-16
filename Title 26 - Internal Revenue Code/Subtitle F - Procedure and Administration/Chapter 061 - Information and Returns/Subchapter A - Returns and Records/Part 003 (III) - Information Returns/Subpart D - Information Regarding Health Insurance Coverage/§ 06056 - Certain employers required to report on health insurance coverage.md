@@ -28,7 +28,7 @@ A return is described in this subsection if such return—
 
 &emsp;&emsp;(D) the number of full-time employees for each month during the calendar year,
 
-&emsp;&emsp;(E) the name, address, and TIN of each full-time employee during the calendar yearand the months (if any) during which such employee (and any dependents) were covered under any such health benefits plans, and
+&emsp;&emsp;(E) the name, address, and TIN of each full-time employee during the calendar year and the months (if any) during which such employee (and any dependents) were covered under any such health benefits plans, and
 
 &emsp;&emsp;(F) such other information as the Secretary may require.
 
@@ -68,7 +68,7 @@ For purposes of this section, any term used in this section which is also used i
 
 #### References in Text
 
-Section 2701 of the Public Health Service Act, referred to in subsec. (b)(2)(C)(i), was classified to section 300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701, related to fair health insurance premiums, was added and amended by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
+Section 2701 of the Public Health Service Act, referred to in subsec. (b)(2)(C)(i), was classified to section300gg of this title, was renumbered section 2704, effective for plan years beginning on or after Jan. 1, 2014, with certain exceptions, and amended by Pub. L. 111–148, title I, §§1201(2), 1563(c)(1), formerly §1562(c)(1), title X, §10107(b)(1), Mar. 23, 2010, 124 Stat. 154, 264, 911, and was transferred to section 300gg–3 of this title. A new section 2701, related to fair health insurance premiums, was added and amended by Pub. L. 111–148, title I, §1201(4), title X, §10103(a), Mar. 23, 2010, 124 Stat. 155, 892, and is classified to section 300gg of this title.
 
 #### Prior Provisions
 
@@ -76,43 +76,43 @@ A prior section 6056, added Pub. L. 91–172, title I, §101(d)(3), Dec. 30, 196
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–10, §1858(b)(5)(A), struck out “and every offering employer” after “calendar year”.
+<b>2011</b>—Subsec. (a). Pub. L. 112–10, §1858(b)(5)(A), struck out "and every offering employer" after "calendar year".
 
-Subsec. (b)(2)(C). Pub. L. 112–10, §1858(b)(5)(B), struck out “in the case of an applicable large employer,” before “the length” in cl. (i), inserted “and” at the end of cl. (iii), struck out “and” after “plan,” at the end of cl. (iv), and struck out cl. (v) which read as follows: “in the case of an offering employer, the option for which the employer pays the largest portion of the cost of the plan and the portion of the cost paid by the employer in each of the enrollment categories under such option,”.
+Subsec. (b)(2)(C). Pub. L. 112–10, §1858(b)(5)(B), struck out "in the case of an applicable large employer," before "the length" in cl. (i), inserted "and" at the end of cl. (iii), struck out "and" after "plan," at the end of cl. (iv), and struck out cl. (v) which read as follows: "in the case of an offering employer, the option for which the employer pays the largest portion of the cost of the plan and the portion of the cost paid by the employer in each of the enrollment categories under such option,".
 
-Subsecs. (d)(2), (e). Pub. L. 112–10, §1858(b)(5)(C), struck out “or offering employer” after “large employer”.
+Subsecs. (d)(2), (e). Pub. L. 112–10, §1858(b)(5)(C), struck out "or offering employer" after "large employer".
 
-Subsec. (f). Pub. L. 112–10, §1858(b)(5)(D), amended subsec. (f) generally. Prior to amendment, subsec. (f) defined the term “offering employer” and provided that any term used in this section which was also used in section 4980H of this title would have the meaning given such term by section 4980H.
+Subsec. (f). Pub. L. 112–10, §1858(b)(5)(D), amended subsec. (f) generally. Prior to amendment, subsec. (f) defined the term "offering employer" and provided that any term used in this section which was also used in section 4980H of this title would have the meaning given such term by section 4980H.
 
-<b>2010</b>—Pub. L. 111–148, §10108(j)(3)(A), substituted “Certain” for “Large” in section catchline.
+<b>2010</b>—Pub. L. 111–148, §10108(j)(3)(A), substituted "Certain" for "Large" in section catchline.
 
-Subsec. (a). Pub. L. 111–148, §10108(j)(1), inserted “and every offering employer” before “shall”.
+Subsec. (a). Pub. L. 111–148, §10108(j)(1), inserted "and every offering employer" before "shall".
 
-Subsec. (b). Pub. L. 111–148, §10106(g), inserted at end “The Secretary shall have the authority to review the accuracy of the information provided under this subsection, including the applicable large employer's share under paragraph (2)(C)(iv).”
+Subsec. (b). Pub. L. 111–148, §10106(g), inserted at end "The Secretary shall have the authority to review the accuracy of the information provided under this subsection, including the applicable large employer's share under paragraph (2)(C)(iv)."
 
-Subsec. (b)(2)(C)(i). Pub. L. 111–148, §10108(j)(3)(B)(i), inserted “in the case of an applicable large employer,” before “the length”.
+Subsec. (b)(2)(C)(i). Pub. L. 111–148, §10108(j)(3)(B)(i), inserted "in the case of an applicable large employer," before "the length".
 
-Subsec. (b)(2)(C)(iii). Pub. L. 111–148, §10108(j)(3)(B)(ii), struck out “and” at end.
+Subsec. (b)(2)(C)(iii). Pub. L. 111–148, §10108(j)(3)(B)(ii), struck out "and" at end.
 
-Subsec. (b)(2)(C)(iv). Pub. L. 111–148, §10108(j)(3)(B)(iv), inserted “and” at end.
+Subsec. (b)(2)(C)(iv). Pub. L. 111–148, §10108(j)(3)(B)(iv), inserted "and" at end.
 
-Pub. L. 111–148, §10108(j)(3)(B)(iii), which directed substitution of “employer” for “applicable large employer”, was executed by making the substitution for “applicable large employer's”, to reflect the probable intent of Congress.
+Pub. L. 111–148, §10108(j)(3)(B)(iii), which directed substitution of "employer" for "applicable large employer", was executed by making the substitution for "applicable large employer's", to reflect the probable intent of Congress.
 
 Subsec. (b)(2)(C)(v). Pub. L. 111–148, §10108(j)(3)(B)(v), added cl. (v).
 
-Subsecs. (d)(2), (e). Pub. L. 111–148, §10108(j)(3)(C), (D), inserted “or offering employer” after “applicable large employer”.
+Subsecs. (d)(2), (e). Pub. L. 111–148, §10108(j)(3)(C), (D), inserted "or offering employer" after "applicable large employer".
 
-Subsec. (f). Pub. L. 111–148, §10108(j)(2), amended subsec. (f) generally. Prior to amendment, text read as follows: “For purposes of this section, any term used in this section which is also used in section 4980H shall have the meaning given such term by section 4980H.”
+Subsec. (f). Pub. L. 111–148, §10108(j)(2), amended subsec. (f) generally. Prior to amendment, text read as follows: "For purposes of this section, any term used in this section which is also used in section 4980H shall have the meaning given such term by section 4980H."
 
 #### Effective Date of 2011 Amendment
 
-Amendment by Pub. L. 112–10 effective as if included in the provisions of, and the amendments made by, theprovisions of Pub. L. 111–148 to which it relates, see section 1858(d) of Pub. L. 112–10, set out as a note under section 36B of this title.
+Amendment by Pub. L. 112–10 effective as if included in the provisions of, and the amendments made by, the provisions of Pub. L. 111–148 to which it relates, see section 1858(d) of Pub. L. 112–10, set out as a note under section 36B of this title.
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title X, §10108(j)(4), Mar. 23, 2010, 124 Stat. 915, provided that: “The amendments made by this subsection \[amending this section and section 6724 of this title\] shall apply to periods beginning after December 31, 2013.”
+Pub. L. 111–148, title X, §10108(j)(4), Mar. 23, 2010, 124 Stat. 915, provided that: "The amendments made by this subsection \[amending this section and section 6724 of this title\] shall apply to periods beginning after December 31, 2013."
 
 #### Effective Date
 
-Pub. L. 111–148, title I, §1514(d), Mar. 23, 2010, 124 Stat. 258, provided that: “The amendments made by this section \[enacting this section and amending section 6724 of this title\] shall apply to periods beginning after December 31, 2013.”
+Pub. L. 111–148, title I, §1514(d), Mar. 23, 2010, 124 Stat. 258, provided that: "The amendments made by this section \[enacting this section and amending section 6724 of this title\] shall apply to periods beginning after December 31, 2013."
 

@@ -16,11 +16,11 @@ For purposes of sections 2253(c) and 2437(c)(2) of this title, the 90-day period
 
 #### Amendments
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–36 substituted “For purposes of sections 2253(c) and 2437(c)(2) of this title, the 90-day period” for “For purposes of sections 2253(c), and 2437(c)(2) of this title, the 90-day period” in introductory provisions.
+<b>1999</b>—Subsec. (b). Pub. L. 106–36 substituted "For purposes of sections 2253(c) and 2437(c)(2) of this title, the 90-day period" for "For purposes of sections 2253(c), and 2437(c)(2) of this title, the 90-day period" in introductory provisions.
 
 <b>1994</b>—Subsec. (a). Pub. L. 103–465 struck out reference to section 1303(e) of this title.
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–382, which directed the substitution of “and 2437(c)(2)” for “2437(c)(2) and 2437(c)(3)”, was executed by making the substitution for “2437(c)(2), and 2437(c)(3)” to reflect the probable intent of Congress.
+<b>1990</b>—Subsec. (b). Pub. L. 101–382, which directed the substitution of "and 2437(c)(2)" for "2437(c)(2) and 2437(c)(3)", was executed by making the substitution for "2437(c)(2), and 2437(c)(3)" to reflect the probable intent of Congress.
 
 <b>1979</b>—Subsec. (a). Pub. L. 96–39 struck out reference to section 2412(a) of this title.
 

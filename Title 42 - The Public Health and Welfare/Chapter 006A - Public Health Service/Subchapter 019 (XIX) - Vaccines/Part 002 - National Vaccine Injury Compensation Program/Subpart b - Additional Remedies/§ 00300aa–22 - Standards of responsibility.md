@@ -6,7 +6,7 @@ Except as provided in subsections (b), (c), and (e) of this section State law sh
 
 #### (b) Unavoidable adverse side effects; warnings
 
-(1) No vaccine manufacturer shall be liable in a civil action for damages arising from a vaccine-related injury or death associated with the administration of a vaccine after October 1, 1988, if the injury or death resulted from side effects that were unavoidable even though the vaccine was properly prepared and was accompanied by proper directions and warnings.
+(1) No vaccine manufacturer shall be liable in a civil action for damages arising from a vaccine-related injury or death associated with theadministration of a vaccine after October 1, 1988, if the injury or death resulted from side effects that were unavoidable even though the vaccine was properly prepared and was accompanied by proper directions and warnings.
 
 (2) For purposes of paragraph (1), a vaccine shall be presumed to be accompanied by proper directions and warnings if the vaccine manufacturer shows that it complied in all material respects with all requirements under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] and section 262 of this title (including regulations issued under such provisions) applicable to the vaccine and related to vaccine-related injury or death for which the civil action was brought unless the plaintiff shows—
 
@@ -34,9 +34,9 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(2), is act 
 
 #### Codification
 
-In subsecs. (b)(1), (c), “October 1, 1988” was substituted for “the effective date of this subpart” on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.
+In subsecs. (b)(1), (c), "October 1, 1988" was substituted for "the effective date of this subpart" on authority of section 323 of Pub. L. 99–660, as amended, set out as an Effective Date note under section 300aa–1 of this title.
 
 #### Amendments
 
-<b>1987</b>—Subsecs. (b)(1), (c). Pub. L. 100–203 substituted “effective date of this subpart” for “effective date of this part”.
+<b>1987</b>—Subsecs. (b)(1), (c). Pub. L. 100–203 substituted "effective date of this subpart" for "effective date of this part".
 

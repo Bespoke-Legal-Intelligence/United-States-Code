@@ -32,5 +32,5 @@ Historical and Revision Notes
 
 Nov. 5, 1990, Pub. L. 101–510, title XVI, §1610, 104 Stat. 1737.
 
-The word “records” is substituted for “books and records” for consistency in the revised title and with other titles of the United States Code.
+The word "records" is substituted for "books and records" for consistency in the revised title and with other titles of the United States Code.
 

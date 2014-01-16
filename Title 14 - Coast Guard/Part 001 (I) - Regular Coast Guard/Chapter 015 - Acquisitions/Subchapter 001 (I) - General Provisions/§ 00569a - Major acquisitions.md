@@ -52,7 +52,7 @@ Cutters Not Maintained in Class.—Each report under subsection (a) shall identi
 
 (e)
 
-Major Acquisition Program Defined.—In this section, the term “major acquisition program” means an ongoing acquisition undertaken by the Coast Guard with a life-cycle cost estimate greater than or equal to $300,000,000.
+Major Acquisition Program Defined.—In this section, the term "major acquisition program" means an ongoing acquisition undertaken by the Coast Guard with a life-cycle cost estimate greater than or equal to $300,000,000.
 
 (Added Pub. L. 112–213, title II, §210(a), Dec. 20, 2012, 126 Stat. 1550.)
 

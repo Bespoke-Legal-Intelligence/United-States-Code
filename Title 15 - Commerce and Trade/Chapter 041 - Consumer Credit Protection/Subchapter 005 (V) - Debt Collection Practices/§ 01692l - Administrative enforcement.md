@@ -20,11 +20,11 @@ Subject to subtitle B of the Consumer Financial Protection Act of 2010, complian
 
 &emsp;(3) subtitle IV of title 49, by the Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board;
 
-&emsp;(4) part A of subtitle VII of title 49, by the Secretary of Transportation with respect toany air carrier or any foreign air carrier subject to that part;
+&emsp;(4) part A of subtitle VII of title 49, by the Secretary of Transportation with respect to any air carrier or any foreign air carrier subject to that part;
 
 &emsp;(5) the Packers and Stockyards Act, 1921 \[7 U.S.C. 181 et seq.\] (except as provided in section 406 of that Act \[7 U.S.C. 226, 227\]), by the Secretary of Agriculture with respect to any activities subject to that Act; and
 
-&emsp;(6) subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561 et seq.\], by the Bureau, with respect to any person subject to this subchapter.
+&emsp;(6) subtitle E of the Consumer Financial Protection Act of 2010 \[12 U.S.C. 5561 et seq.\],by the Bureau, with respect to any person subject to this subchapter.
 
 > The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).
 
@@ -52,47 +52,47 @@ The Packers and Stockyards Act, 1921, referred to in subsec. (b)(5), is act Aug.
 
 #### Codification
 
-In subsec. (b)(3), “subtitle IV of title 49” substituted for “the Acts to regulate commerce” on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
+In subsec. (b)(3), "subtitle IV of title 49" substituted for "the Acts to regulate commerce" on authority of Pub. L. 95–473, §3(b), Oct. 17, 1978, 92 Stat. 1466, the first section of which enacted subtitle IV of Title 49, Transportation.
 
-In subsec. (b)(4), “part A of subtitle VII of title 49” substituted for “the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301 et seq.\]” and “that part” substituted for “that Act” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
+In subsec. (b)(4), "part A of subtitle VII of title 49" substituted for "the Federal Aviation Act of 1958 \[49 App. U.S.C. 1301 et seq.\]" and "that part" substituted for "that Act" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49.
 
-Section 1089(4) of Pub. L. 111–203, which directed amendment “in subsection (d)” of the Fair Debt Collection Practices Act, was executed in subsec. (d) of this section, which is section 814 of the Act, to reflect the probable intent of Congress. See 2010 Amendment note below.
+Section 1089(4) of Pub. L. 111–203, which directed amendment "in subsection (d)" of the Fair Debt Collection Practices Act, was executed in subsec. (d) of this section, which is section 814 of the Act, to reflect the probable intent of Congress. See 2010 Amendment note below.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1089(3)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: “Compliance with this subchapter shall be enforced by the Commission, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another agency under subsection (b) of this section. For purpose of the exercise by the Commission of its functions and powers under the Federal Trade Commission Act, a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act, including the power to enforce the provisions of this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule.”
+<b>2010</b>—Subsec. (a). Pub. L. 111–203, §1089(3)(A), added subsec. (a) and struck out former subsec. (a). Prior to amendment, text read as follows: "Compliance with this subchapter shall be enforced by the Commission, except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to another agency under subsection (b) of this section. For purpose of the exercise by the Commission of its functions and powers under the Federal Trade Commission Act, a violation of this subchapter shall be deemed an unfair or deceptive act or practice in violation of that Act. All of the functions and powers of the Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act, including the power to enforce the provisions of this subchapter in the same manner as if the violation had been a violation of a Federal Trade Commission trade regulation rule."
 
-Subsec. (b). Pub. L. 111–203, §1089(3)(B)(i), substituted “Subject to subtitle B of the Consumer Financial Protection Act of 2010, compliance” for “Compliance” in introductory provisions.
+Subsec. (b). Pub. L. 111–203, §1089(3)(B)(i), substituted "Subject to subtitle B of the Consumer Financial Protection Act of 2010, compliance" for "Compliance" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 111–203, §1089(3)(B)(ii), added par. (1) and struck out former par. (1) which read as follows: “section 8 of the Federal Deposit Insurance Act, in the case of—
+Subsec. (b)(1). Pub. L. 111–203, §1089(3)(B)(ii), added par. (1) and struck out former par. (1) which read as follows: "section 8 of the Federal Deposit Insurance Act, in the case of—
 
-&emsp;“(A) national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
+&emsp;"(A) national banks, and Federal branches and Federal agencies of foreign banks, by the Office of the Comptroller of the Currency;
 
-&emsp;“(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) of the Federal Reserve Act, by the Board of Governors of the Federal Reserve System; and
+&emsp;"(B) member banks of the Federal Reserve System (other than national banks), branches and agencies of foreign banks (other than Federal branches, Federal agencies, and insured State branches of foreign banks), commercial lending companies owned or controlled by foreign banks, and organizations operating under section 25 or 25(a) of the Federal Reserve Act, by the Board of Governors of the Federal Reserve System; and
 
-&emsp;“(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;”.
+&emsp;"(C) banks insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System) and insured State branches of foreign banks, by the Board of Directors of the Federal Deposit Insurance Corporation;".
 
-Subsec. (b)(2) to (6). Pub. L. 111–203, §1089(3)(B)(ii)–(vi), added par. (6), redesignated former pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: “section 8 of theFederal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;”.
+Subsec. (b)(2) to (6). Pub. L. 111–203, §1089(3)(B)(ii)–(vi), added par. (6), redesignated former pars. (3) to (6) as (2) to (5), respectively, and struck out former par. (2) which read as follows: "section 8 of the Federal Deposit Insurance Act, by the Director of the Office of Thrift Supervision, in the case of a savings association the deposits of which are insured by the Federal Deposit Insurance Corporation;".
 
-Subsec. (d). Pub. L. 111–203, §1089(4), substituted “Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010, the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter” for “Neither the Commission nor any other agency referred to in subsection (b) of this section may promulgate trade regulation rules or other regulations with respect to the collection of debts by debt collectors as defined in this subchapter”. See Codification note above.
+Subsec. (d). Pub. L. 111–203, §1089(4), substituted "Except as provided in section 1029(a) of the Consumer Financial Protection Act of 2010, the Bureau may prescribe rules with respect to the collection of debts by debt collectors, as defined in this subchapter" for "Neither the Commission nor any other agency referred to in subsection (b) of this section may promulgate trade regulation rules or other regulations with respect to the collection of debts by debt collectors as defined in this subchapter". See Codification note above.
 
-<b>1995</b>—Subsec. (b)(4). Pub. L. 104–88 substituted “Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board” for “Interstate Commerce Commission with respect to any common carrier subject to those Acts”.
+<b>1995</b>—Subsec. (b)(4). Pub. L. 104–88 substituted "Secretary of Transportation, with respect to all carriers subject to the jurisdiction of the Surface Transportation Board" for "Interstate Commerce Commission with respect to any common carrier subject to those Acts".
 
 <b>1992</b>—Subsec. (b)(1)(C). Pub. L. 102–550 substituted semicolon for period at end.
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–242, §212(e)(2), inserted at end “The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101).”
+<b>1991</b>—Subsec. (b). Pub. L. 102–242, §212(e)(2), inserted at end "The terms used in paragraph (1) that are not defined in this subchapter or otherwise defined in section 3(s) of the Federal Deposit Insurance Act (12 U.S.C. 1813(s)) shall have the meaning given to them in section 1(b) of the International Banking Act of 1978 (12 U.S.C. 3101)."
 
-Pub. L. 102–242, §212(e)(1), added par. (1) and struck out former par. (1) which read as follows: “section 8 of Federal Deposit Insurance Act, in the case of—
+Pub. L. 102–242, §212(e)(1), added par. (1) and struck out former par. (1) which read as follows: "section 8 of Federal Deposit Insurance Act, in the case of—
 
-&emsp;“(A) national banks, by the Comptroller of the Currency;
+&emsp;"(A) national banks, by the Comptroller of the Currency;
 
-&emsp;“(B) member banks of the Federal Reserve System (other than national banks), by the Federal Reserve Board; and
+&emsp;"(B) member banks of the Federal Reserve System (other than national banks), by the Federal Reserve Board; and
 
-&emsp;“(C) banks the deposits or accounts of which are insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation;”.
+&emsp;"(C) banks the deposits or accounts of which are insured by the Federal Deposit Insurance Corporation (other than members of the Federal Reserve System), by the Board of Directors of the Federal Deposit Insurance Corporation;".
 
-<b>1989</b>—Subsec. (b)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “section 5(d) of the Home Owners Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;”.
+<b>1989</b>—Subsec. (b)(2). Pub. L. 101–73 amended par. (2) generally. Prior to amendment, par. (2) read as follows: "section 5(d) of the Home Owners Loan Act of 1933, section 407 of the National Housing Act, and sections 6(i) and 17 of the Federal Home Loan Bank Act, by the Federal Home Loan Bank Board (acting directly or through the Federal Savings and Loan Insurance Corporation), in the case of any institution subject to any of those provisions;".
 
-<b>1984</b>—Subsec. (b)(5). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
+<b>1984</b>—Subsec. (b)(5). Pub. L. 98–443 substituted "Secretary of Transportation" for "Civil Aeronautics Board".
 
 #### Effective Date of 2010 Amendment
 

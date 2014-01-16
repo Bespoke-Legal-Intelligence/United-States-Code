@@ -22,5 +22,5 @@ Pub. L. 87–581, title I, §108, as added Pub. L. 103–355, title VIII, §8301
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–350 substituted “section 103 of title 41” for “section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)”.
+<b>2011</b>—Pub. L. 111–350 substituted "section 103 of title 41" for "section 4 of the Office of Federal Procurement Policy Act (41 U.S.C. 403)".
 

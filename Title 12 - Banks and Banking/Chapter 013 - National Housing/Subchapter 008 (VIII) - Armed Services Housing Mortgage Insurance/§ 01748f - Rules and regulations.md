@@ -6,7 +6,7 @@ The Secretary is authorized and directed to make such rules and regulations as m
 
 #### Amendments
 
-<b>1967</b>—Pub. L. 90–19 substituted “Secretary” for “Commissioner” and struck out authorization for appointment by the Commissioner of a Special Assistant for Armed Services Housing for Mortgage Insurance with an adequate staff to expedite operations and eliminate administrative obstacles to this subchapter, respectively.
+<b>1967</b>—Pub. L. 90–19 substituted "Secretary" for "Commissioner" and struck out authorization for appointment by the Commissioner of a Special Assistant for Armed Services Housing for Mortgage Insurance with an adequate staff to expedite operations and eliminate administrative obstacles to this subchapter, respectively.
 
 <b>1955</b>—Act Aug. 11, 1955, amended section generally, striking out provisions which stated that nothing should be construed as exempting property from taxation, and inserting provisions authorizing the Commissioner to make rules and regulations and to appoint a Special Assistant.
 

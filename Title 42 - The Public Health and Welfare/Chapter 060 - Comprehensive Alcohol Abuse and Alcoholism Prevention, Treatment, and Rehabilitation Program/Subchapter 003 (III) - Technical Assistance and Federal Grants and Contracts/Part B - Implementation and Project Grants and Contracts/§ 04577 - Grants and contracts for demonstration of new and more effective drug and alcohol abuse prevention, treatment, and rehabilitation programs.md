@@ -14,7 +14,7 @@ The Secretary, acting through the Institute, may make grants to public and nonpr
 
 #### (b) Community participation
 
-Projects and programs for which grants and contracts are made under this section shall (1) be responsive to special requirements of handicapped individuals in receiving such services; (2) whenever possible, be community based, seek (in the case of prevention and treatment services) to insure care of good quality in general community care facilities and under health insurance plans, and be integrated with, and provide for the active participation of, a wide range of public and nongovernmental agencies, organizations, institutions, and individuals; (3) where a substantial number of the individuals in the population served by the project or program are of limited English-speaking ability, utilize the services of outreach workers fluent in the language spoken by a predominant number of suchindividuals and develop a plan and make arrangements responsive to the needs of such population for providing services to the extent practicable in the language and cultural context most appropriate to such individuals, and identify an individual employed by the project or program, or who is available to the project or program on a full-time basis, who is fluent both in that language and English and whose responsibilities shall include providing guidance to the individuals of limited English speaking ability and to appropriate staff members with respect to cultural sensitivities and bridging linguistic and cultural differences; and (4) where appropriate utilize existing community resources (including community mental health centers).
+Projects and programs for which grants and contracts are made under this section shall (1) be responsive to special requirements of handicapped individuals in receiving such services; (2) whenever possible, be community based, seek (in the case of prevention and treatment services) to insure care of good quality in general community care facilities and under health insurance plans, and be integrated with, and provide for the active participation of, a wide range of public and nongovernmental agencies, organizations, institutions, and individuals; (3) where a substantial number of the individuals in the population served by the project or program are of limited English-speaking ability, utilize the services of outreach workers fluent in the language spoken by a predominant number of such individuals and develop a plan and make arrangements responsive to the needs of such population for providing services to the extent practicable in the language and cultural context most appropriate to such individuals, and identify an individual employed by the project or program, or who is available to the project or program on a full-time basis, who is fluent both in that language and English and whose responsibilities shall include providing guidance to the individuals of limited English speaking ability and to appropriate staff members with respect to cultural sensitivities and bridging linguistic and cultural differences; and (4) where appropriate utilize existing community resources (including community mental health centers).
 
 #### (c) Application, coordination of applications in State, evaluation of projects and programs; review and recommendation by Council; criteria for approval; special consideration for underserved populations; authorization from chief executive officer required; maximum amount and duration of grants; applicant to provide proposed performance standards; drug abuse programs included
 
@@ -72,13 +72,13 @@ Subsec. (c)(4). Pub. L. 98–24 inserted parenthetical reference to Native Hawai
 
 Subsec. (c). Pub. L. 97–35, §963(c), revised and restructured provisions and, among changes, in pars. (2), (3), and (4) made changes in phraseology, added pars. (5) and (7), and redesignated former par. (5) as (6).
 
-<b>1980</b>—Subsec. (a). Pub. L. 96–180, §11(a), added par. (1), redesignated as pars. (2) to (5) former pars. (1) to (4), and substituted in par. (2) “support projects of a demonstrable value in developing” for “conduct demonstration and evaluation projects, including projects designed to develop” and in par. (3) “the elderly, women, the handicapped, families of alcoholics, and victims of alcohol-related domestic violence” for “female alcoholics, and individuals in geographic areas where such services are not otherwise adequately available”.
+<b>1980</b>—Subsec. (a). Pub. L. 96–180, §11(a), added par. (1), redesignated as pars. (2) to (5) former pars. (1) to (4), and substituted in par. (2) "support projects of a demonstrable value in developing" for "conduct demonstration and evaluation projects, including projects designed to develop" and in par. (3) "the elderly, women, the handicapped, families of alcoholics, and victims of alcohol-related domestic violence" for "female alcoholics, and individuals in geographic areas where such services are not otherwise adequately available".
 
-Subsec. (b). Pub. L. 96–180, §11(b), added cl. (1), redesignated as cls. (2) to (4) former cls. (1) to (3), and in cl. (2) inserted “(in the case of prevention and treatment services)” after “seek”.
+Subsec. (b). Pub. L. 96–180, §11(b), added cl. (1), redesignated as cls. (2) to (4) former cls. (1) to (3), and in cl. (2) inserted "(in the case of prevention and treatment services)" after "seek".
 
 Subsec. (c)(4). Pub. L. 96–180, §11(c), required Secretary to encourage submission of applications, incorporated existing provisions in cls. (A) and (C), and inserted cl. (B).
 
-<b>1977</b>—Subsec. (c)(2)(B)(i). Pub. L. 95–83 substituted “its” for “his”.
+<b>1977</b>—Subsec. (c)(2)(B)(i). Pub. L. 95–83 substituted "its" for "his".
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–371, §6(a), inserted provisions which authorized development of effective coordination of all alcoholism treatment resources available, emphasis in treatment projects of those of the population currently underserved, and, training of personnel to enable them to meet certification requirements of public and private accreditation.
 
@@ -96,9 +96,9 @@ Subsec. (d). Pub. L. 94–371, §4(c)(1), struck out subsec. (d) which related t
 
 Pub. L. 94–371, §4(c), July 26, 1976, 90 Stat. 1035, provided that the amendment made by section 4(c)(1) of Pub. L. 94–371 is effective July 1, 1976.
 
-Pub. L. 94–371, §12(b), July 26, 1976, 90 Stat. 1041, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to applications for grants under section 311 of the Act \[this section\] after June 30, 1976.”
+Pub. L. 94–371, §12(b), July 26, 1976, 90 Stat. 1041, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to applications for grants under section 311 of the Act \[this section\] after June 30, 1976."
 
-Pub. L. 94–573, §19(b), Oct. 21, 1976, 90 Stat. 2720, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to applications for grants under section 311 of such Act \[this section\] after June 30, 1976.”
+Pub. L. 94–573, §19(b), Oct. 21, 1976, 90 Stat. 2720, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to applications for grants under section 311 of such Act \[this section\] after June 30, 1976."
 
 #### Termination of Advisory Committees
 

@@ -2,7 +2,7 @@
 
 #### (a) Purpose; authorization of grants and loans; considerations; conditions on loans; appropriations
 
-(1) For the purpose of encouraging the establishment and initial operation of home healthprograms to provide home health services in areas in which such services are inadequate or not readily accessible, the Secretary may, in accordance with the provisions of this section, make grants to public and nonprofit private entities and loans to proprietary entities to meet the initial costs of establishing and operating such home health programs. Such grants and loans may include funds to provide training for paraprofessionals (including homemaker home health aides) to provide home health services.
+(1) For the purpose of encouraging the establishment and initial operation of home health programs to provide home health services in areas in which such services are inadequate or not readily accessible, the Secretary may, in accordance with the provisions of this section, make grants to public and nonprofit private entities and loans to proprietary entities to meet the initial costs of establishing and operating such home health programs. Such grants and loans may include funds to provide training for paraprofessionals (including homemaker home health aides) to provide home health services.
 
 (2) In making grants and loans under this subsection, the Secretary shall—
 
@@ -24,7 +24,7 @@
 
 (4) Applications for grants and loans under this subsection shall be in such form and contain such information as the Secretary shall prescribe.
 
-(5) There are authorized to be appropriated for grants and loans under this subsection $5,000,000 for each of the fiscal years ending on September 30, 1983, September 30, 1984, September 30, 1985, September 30, 1986, and September 30, 1987.
+(5) There are authorized to be appropriated for grants and loans under this subsection $5,000,000 for each of the fiscal years ending on September30, 1983, September 30, 1984, September 30, 1985, September 30, 1986, and September 30, 1987.
 
 #### (b) Grants and contracts for training programs for paraprofessionals; considerations; applications; appropriations
 
@@ -58,9 +58,9 @@ The Secretary shall report to the Committee on Labor and Human Resources of the 
 
 &emsp;(3) the extent to which standards have been applied to the training of personnel who provide home health services.
 
-#### (d) “Home health services” defined
+#### (d) "Home health services" defined
 
-For purposes of this section, the term “home health services” has the meaning prescribed for the term by section 1395x(m) of this title.
+For purposes of this section, the term "home health services" has the meaning prescribed for the term by section 1395x(m) of this title.
 
 (July 1, 1944, ch. 373, title III, §339, as added Pub. L. 97–414, §6(a), Jan. 4, 1983, 96 Stat. 2057; amended Pub. L. 98–555, §6, Oct. 30, 1984, 98 Stat. 2856.)
 
@@ -70,7 +70,7 @@ Subsections (a) and (b) of this section (as such subsections were in effect prio
 
 #### Prior Provisions
 
-A prior section 255, act July 1, 1944, ch. 373, title III, §339, as added Nov. 10, 1978, Pub. L. 95–626, title II, §207(a), 92 Stat. 3585, related to grant authority, etc.,for home health services, prior to repeal by Pub. L. 97–35, title IX, §902(b), (h), Aug. 13, 1981, 95 Stat. 559, 561, eff. Oct. 1, 1981.
+A prior section 255, act July 1, 1944, ch. 373, title III, §339, as added Nov. 10, 1978, Pub. L. 95–626, title II, §207(a), 92 Stat. 3585, related to grant authority, etc., for home health services, prior to repeal by Pub. L. 97–35, title IX, §902(b), (h), Aug. 13, 1981, 95 Stat. 559, 561, eff. Oct. 1, 1981.
 
 Another prior section 339 of act July 1, 1944, ch. 373, title III, formerly §331, 58 Stat. 698; June 25, 1948, ch. 654, §4, 62 Stat. 1018; June 25, 1952, ch. 460, 66 Stat. 157; July 12, 1960, Pub. L. 86–624, §29(b), 74 Stat. 419; renumbered §339, Oct. 12, 1976, Pub. L. 94–484, title IV, §407(b)(2), 90 Stat. 2268, which related to reception of persons suffering from leprosy in any hospital, was renumbered section 320 of act July 1, 1944, and transferred to section 247e of this title.
 
@@ -86,5 +86,5 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Report to Congress Concerning Results of Studies Evaluating Home and Community Based Health Services; Studies of Reimbursement Methodologies; Investigation of Fraud; Demonstration Projects; Home Health Services, Defined
 
-Section 6(b)–(f) of Pub. L. 97–414 directed Secretary of Health and Human Services to report results of studies evaluating home and community based health services, and any recommendations for legislative action which might improve the provision of such services, to Congress prior to Jan. 1, 1985, to compile and analyze results of significant public or private studies relating to reimbursement methodologies for home health services and to report recommendations to Congress within 180 days after Jan. 4, 1983, to investigate methods available to stem medicare and medicaid fraud and abuse and extent to which such methods are applied and to report results to Congress within 18 months of Jan. 4, 1983, and to develop and carry out demonstration projects commencing no later than Jan. 1, 1984, to test methods for identifying patients at risk of institutionalization who could be treated more cost-effectively with home health services, and to test alternative reimbursement methodologies for home health agencies in order to determine most cost-effective way of providing home health services, and to report to Congress with regard to the demonstrations no later than Jan. 1, 1985; and defined “home health services” for purposes of this section.
+Pub. L. 97–414, §6(b)–(f), Jan. 4, 1983, 96 Stat. 2058, 2059, directed Secretary of Health and Human Services to report results of studies evaluating home and community based health services, and any recommendations for legislative action which might improve the provision of such services, to Congress prior to Jan. 1, 1985, to compile and analyze results of significant public or private studies relating to reimbursement methodologies for home health services and to report recommendations to Congress within 180 days after Jan. 4, 1983, to investigate methods available to stem medicare and medicaid fraud and abuse and extent to which such methods are applied and to report results to Congress within 18 months of Jan. 4, 1983, and to develop and carry out demonstration projects commencing no later than Jan.1, 1984, to test methods for identifying patients at risk of institutionalization who could be treated more cost-effectively with home health services, and to test alternative reimbursement methodologies for home health agencies in order to determine most cost-effective way of providing home health services, and to report to Congress with regard to the demonstrations no later than Jan. 1, 1985; and defined "home health services" for purposes of this section.
 

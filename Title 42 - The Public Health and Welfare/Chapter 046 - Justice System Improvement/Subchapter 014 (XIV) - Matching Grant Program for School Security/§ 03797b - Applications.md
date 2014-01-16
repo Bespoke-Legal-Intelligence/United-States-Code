@@ -24,5 +24,5 @@ Not later than 90 days after October 28, 2000, the Director shall promulgate gui
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–271 substituted “Director” for “Attorney General” wherever appearing.
+<b>2006</b>—Pub. L. 109–271 substituted "Director" for "Attorney General" wherever appearing.
 

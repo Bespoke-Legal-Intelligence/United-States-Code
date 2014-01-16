@@ -2,7 +2,7 @@
 
 #### (a) Trial period under limited appointment
 
-Before receiving a career appointment in the Service, an individual shall first serve under alimited appointment as a career candidate for a trial period of service prescribed by the Secretary. During such trial period of service, the Secretary shall decide whether—
+Before receiving a career appointment in the Service, an individual shall first serve under a limited appointment as a career candidate for a trial period of service prescribed by the Secretary. During such trial period of service, the Secretary shall decide whether—
 
 &emsp;(1) to offer a career appointment to the candidate under section 3943 of this title, or
 
@@ -24,5 +24,5 @@ Nothing in this section shall be construed to limit the authority of the Secreta
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–204, title I, §181(e), Dec. 22, 1987, 101 Stat. 1364, provided that: “The amendments made by this section \[amending this section and sections 4010 and 4137 of this title\] shall not apply with respect to any grievance in which the Board has issued a final decision pursuant to section 1107 of the Foreign Service Act of 1980 (22 U.S.C. 4137) before the date of enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–204, title I, §181(e), Dec. 22, 1987, 101 Stat. 1364, provided that: "The amendments made by this section \[amending this section and sections 4010 and 4137 of this title\] shall not apply with respect to any grievance in which the Board has issued a final decision pursuant to section 1107 of the Foreign Service Act of 1980 (22 U.S.C. 4137) before the date of enactment of this Act \[Dec. 22, 1987\]."
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In compliance with section 471a of this title, the Secretary is authorized to acquire all or part of the rights, title, and interests in and to approximately 94,761 acres of the Baca ranch, comprising the lands, facilities, and structures referred to as the Baca Location No. 1, and generally depicted on a plat entitled “Independent Resurvey of the Baca Location No. 1”, made by L.A. Osterhoudt, W.V. Hall, and Charles W. Devendorf, U.S. Cadastral Engineers, June 30, 1920–August 24, 1921, under special instructions for Group No. 107 dated February 12, 1920, in New Mexico.
+&emsp;In compliance with section 471a of this title, the Secretary is authorized to acquire all or part of the rights, title, and interests in and to approximately 94,761 acres of the Baca ranch, comprising the lands, facilities, and structures referred to as the Baca Location No. 1, and generally depicted on a plat entitled "Independent Resurvey of the Baca Location No. 1", made by L.A. Osterhoudt, W.V. Hall, and Charles W. Devendorf, U.S. Cadastral Engineers, June 30, 1920–August 24, 1921, under special instructions for Group No. 107 dated February 12, 1920, in New Mexico.
 
 #### (2) Source of funds
 
@@ -38,7 +38,7 @@ Upon acquisition of the Baca ranch under subsection (a) of this section, the Sec
 
 #### (3) Boundary modification
 
-&emsp;Upon the conveyance of any lands to any entity other than the Secretary, the boundary ofthe Preserve shall be modified to exclude such lands.
+&emsp;Upon the conveyance of any lands to any entity other than the Secretary, the boundary of the Preserve shall be modified to exclude such lands.
 
 #### (4) Final maps
 
@@ -70,7 +70,7 @@ The Secretary, acting through the Forest Service, in cooperation with the Secret
 
 #### (2) Acquisition
 
-&emsp;The Secretary is authorized and directed to negotiate with the owners of any fractional interest in the subsurface estate for the acquisition of such fractional interest for not to exceed its fair market value, as determined by appraisal done in conformity with the Uniform Appraisal Standards for Federal Land Acquisitions.
+&emsp;The Secretary is authorized and directed to negotiate with the owners of any fractional interest in the subsurface estate for the acquisition of such fractional interest for not to exceed its fair market value, as determined by appraisal done in conformity with the UniformAppraisal Standards for Federal Land Acquisitions.
 
 #### (3) Administration
 
@@ -116,11 +116,11 @@ For purposes of section 460l–9 of this title, the boundaries of the Baca ranch
 
 #### References in Text
 
-Section 3 of Pub. L. 105–376, referred to in subsecs. (b) and (c)(2), appears in the item for Bandelier NationalMonument, New Mexico, in the table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under section 431 of this title.
+Section 3 of Pub. L. 105–376, referred to in subsecs. (b) and (c)(2), appears in the item for Bandelier National Monument, New Mexico, in the table under the heading "National Monuments Established Under Presidential Proclamation", set out as a note under section 431 of this title.
 
 #### Amendments
 
-<b>2005</b>—Subsec. (e). Pub. L. 109–132 designated existing provisions as pars. (1) to (3), inserted par. headings, struck out “on a willing seller basis” after “such fractional interest” in par. (2), and added pars. (4) and (5).
+<b>2005</b>—Subsec. (e). Pub. L. 109–132 designated existing provisions as pars. (1) to (3), inserted par. headings, struck out "on a willing seller basis" after "such fractional interest" in par. (2), and added pars. (4) and (5).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "this".</i>
 

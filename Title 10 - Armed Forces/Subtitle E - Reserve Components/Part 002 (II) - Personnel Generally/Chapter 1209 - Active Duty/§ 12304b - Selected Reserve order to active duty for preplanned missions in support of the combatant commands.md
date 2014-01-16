@@ -32,7 +32,7 @@ Termination of Duty.—Whenever any unit of the Selected Reserve is ordered to a
 
 (f)
 
-Relationship to War Powers Resolution.—Nothing contained in this section shall beconstrued as amending or limiting the application of the provisions of the War Powers Resolution (50 U.S.C. 1541 et seq.).
+Relationship to War Powers Resolution.—Nothing contained in this section shall be construed as amending or limiting the application of the provisions of the War Powers Resolution (50 U.S.C. 1541 et seq.).
 
 (g)
 
@@ -52,7 +52,7 @@ Policies and Procedures.—The Secretaries of the military departments shall pre
 
 (i)
 
-Defense Budget Materials Defined.—In this section, the term “defense budget materials” has the meaning given that term in section 231(f)(2) of this title.
+Defense Budget Materials Defined.—In this section, the term "defense budget materials" has the meaning given that term in section 231(f)(2) of this title.
 
 (Added Pub. L. 112–81, div. A, title V, §516(a)(1), Dec. 31, 2011, 125 Stat. 1395; amended Pub. L. 112–239, div. A, title X, §1014(b), Jan. 2, 2013, 126 Stat. 1908.)
 
@@ -62,5 +62,5 @@ The War Powers Resolution, referred to in subsec. (f), is Pub. L. 93–148, Nov.
 
 #### Amendments
 
-<b>2013</b>—Subsec. (i). Pub. L. 112–239 substituted “section 231(f)(2)” for “section 231(g)(2)”.
+<b>2013</b>—Subsec. (i). Pub. L. 112–239 substituted "section 231(f)(2)" for "section 231(g)(2)".
 

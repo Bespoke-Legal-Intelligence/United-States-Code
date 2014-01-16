@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 May 22, 1928, ch. 688, 45 Stat. 712.
 
-The words “public”, “actual”, and “by law” are omitted as surplusage.
+The words "public", "actual", and "by law" are omitted as surplusage.
 
 #### Delegation of Functions
 

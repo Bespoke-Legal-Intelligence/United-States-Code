@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—The American National Theater and Academy (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—The American National Theater and Academy (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

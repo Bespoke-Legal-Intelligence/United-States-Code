@@ -144,29 +144,29 @@ Treatment of Determination.—Any determination of the status of a missing perso
 
 #### Amendments
 
-<b>1997</b>—Subsec. (d)(1). Pub. L. 105–85, §599(a)(3)(A), substituted “as follows:” and subpars. (A) to (C) for “who are officers having the grade of major or lieutenant commander or above.”
+<b>1997</b>—Subsec. (d)(1). Pub. L. 105–85, §599(a)(3)(A), substituted "as follows:" and subpars. (A) to (C) for "who are officers having the grade of major or lieutenant commander or above."
 
-Subsec. (d)(4). Pub. L. 105–85, §599(a)(3)(B), substituted “section 1503(c)(4)” for “section 1503(c)(3)”.
+Subsec. (d)(4). Pub. L. 105–85, §599(a)(3)(B), substituted "section 1503(c)(4)" for "section 1503(c)(3)".
 
-Subsec. (f)(1). Pub. L. 105–85, §599(d)(1), inserted at end “The identity of counsel appointed under this paragraph for a missing person shall be made known to the missing person's primary next of kin and any other previously designated person of the person.”
+Subsec. (f)(1). Pub. L. 105–85, §599(d)(1), inserted at end "The identity of counsel appointed under this paragraph for a missing person shall be made known to the missing person's primary next of kin and any other previously designated person of the person."
 
-Subsec. (i)(1). Pub. L. 105–85, §1073(a)(30), substituted “this section” for “this subsection”.
+Subsec. (i)(1). Pub. L. 105–85, §1073(a)(30), substituted "this section" for "this subsection".
 
-<b>1996</b>—Subsec. (d)(1). Pub. L. 104–201, §578(a)(3)(A), added text of par. (1) and struck out former text of par. (1) which read as follows: “A board appointed under this section shall be composed of at least three members as follows:
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–201, §578(a)(3)(A), added text of par. (1) and struck out former text of par. (1) which read as follows: "A board appointed under this section shall be composed of at least three members as follows:
 
-&emsp;“(A) In the case of a board that will inquire into the whereabouts and status of one or more members of the armed forces (and no civilians described in subparagraph (B)), the board shall be composed of officers having the grade of major or lieutenant commander or above.
+&emsp;"(A) In the case of a board that will inquire into the whereabouts and status of one or more members of the armed forces (and no civilians described in subparagraph (B)), the board shall be composed of officers having the grade of major or lieutenant commander or above.
 
-&emsp;“(B) In the case of a board that will inquire into the whereabouts and status of one or more civilian employees of the Department of Defense or contractors of the Department of Defense (and no members of the armed forces), the board shall be composed of—
+&emsp;"(B) In the case of a board that will inquire into the whereabouts and status of one or more civilian employees of the Department of Defense or contractors of the Department of Defense (and no members of the armed forces), the board shall be composed of—
 
-&emsp;&emsp;“(i) not less than three employees of the Department of Defense whose rate of annual pay is equal to or greater than the rate of annual pay payable for grade GS–13 of the General Schedule under section 5332 of title 5; and
+&emsp;&emsp;"(i) not less than three employees of the Department of Defense whose rate of annual pay is equal to or greater than the rate of annual pay payable for grade GS–13 of the General Schedule under section 5332 of title 5; and
 
-&emsp;&emsp;“(ii) such members of the armed forces as the Secretary considers advisable.
+&emsp;&emsp;"(ii) such members of the armed forces as the Secretary considers advisable.
 
-&emsp;“(C) In the case of a board that will inquire into the whereabouts and status of both one or more members of the armed forces and one or more civilians described in subparagraph (B)—
+&emsp;"(C) In the case of a board that will inquire into the whereabouts and status of both one or more members of the armed forces and one or more civilians described in subparagraph (B)—
 
-&emsp;&emsp;“(i) the board shall include at least one officer described in subparagraph (A) and at least one employee of the Department of Defense described in subparagraph (B)(i); and
+&emsp;&emsp;"(i) the board shall include at least one officer described in subparagraph (A) and at least one employee of the Department of Defense described in subparagraph (B)(i); and
 
-&emsp;&emsp;“(ii) the ratio of such officers to such employees on the board shall be roughly proportional to the ratio of the number of members of the armed forces who are subjects of the board's inquiry to the number of civilians who are subjects of the board's inquiry.”
+&emsp;&emsp;"(ii) the ratio of such officers to such employees on the board shall be roughly proportional to the ratio of the number of members of the armed forces who are subjects of the board's inquiry to the number of civilians who are subjects of the board's inquiry."
 
-Subsec. (d)(4). Pub. L. 104–201, §578(a)(3)(B), substituted “section 1503(c)(3)” for “section 1503(c)(4)”.
+Subsec. (d)(4). Pub. L. 104–201, §578(a)(3)(B), substituted "section 1503(c)(3)" for "section 1503(c)(4)".
 

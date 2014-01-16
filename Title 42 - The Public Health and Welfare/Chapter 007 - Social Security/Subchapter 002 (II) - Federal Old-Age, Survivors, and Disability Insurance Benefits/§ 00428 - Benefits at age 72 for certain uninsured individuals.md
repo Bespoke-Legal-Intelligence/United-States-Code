@@ -50,11 +50,11 @@ The benefit to which any individual is entitled under this section for any month
 
 &emsp;(2) such individual's husband or wife receives such aid or assistance in such month, and under the State plan the needs of such individual were taken into account in determining eligibility for (or amount of) such aid or assistance,
 
-> unless the State agency administering or supervising the administration of such plan notifies the Commissioner of Social Security, at such time and in such manner as may be prescribed in accordance with regulations of the Commissioner of Social Security, that such payments to such individual (or such individual's husband or wife) under such plan are being terminated with the payment or payments made in such month and such individual is not an individual with respect to whom supplemental security income benefits are payable pursuant to subchapter XVI of this chapter or section 211 of Public Law 93–66 for the following month, nor shall such benefit be paid for such month if such individual is an individual with respect to whom supplemental security income benefits are payable pursuant to subchapter XVI of this chapter or section 211 of Public Law 93–66 for such month, unless the Commissioner of Social Security determines that such benefits are not payable with respect to such individual for the month following such month.
+> unless the State agency administering or supervising the administration of such plan notifies the Commissioner of Social Security, at such time and in such manner as may be prescribed in accordance with regulations of the Commissioner of Social Security, that such payments tosuch individual (or such individual's husband or wife) under such plan are being terminated with the payment or payments made in such month and such individual is not an individual with respect to whom supplemental security income benefits are payable pursuant to subchapter XVI of this chapter or section 211 of Public Law 93–66 for the following month, nor shall such benefit be paid for such month if such individual is an individual with respect to whom supplemental security income benefits are payable pursuant to subchapter XVI of this chapter or section 211 of Public Law 93–66 for such month, unless the Commissioner of Social Security determines that such benefits are not payable with respect to such individual for the month following such month.
 
 #### (e) Suspension where individual is residing outside United States
 
-The benefit to which any individual is entitled under this section for any month shall not be paid if, during such month, such individual is not a resident of the United States. For purposesof this subsection, the term “United States” means the 50 States and the District of Columbia.
+The benefit to which any individual is entitled under this section for any month shall not be paid if, during such month, such individual is not a resident of the United States. For purposes of this subsection, the term "United States" means the 50 States and the District of Columbia.
 
 #### (f) Treatment as monthly insurance benefits
 
@@ -76,11 +76,11 @@ There are authorized to be appropriated to the Federal Old-Age and Survivors Ins
 
 For purposes of this section—
 
-&emsp;(1) The term “quarter of coverage” includes a quarter of coverage as defined in section 228e(l) of title 45.
+&emsp;(1) The term "quarter of coverage" includes a quarter of coverage as defined in section 228e(l) of title 45.
 
-&emsp;(2) The term “governmental pension system” means the insurance system established by this subchapter or any other system or fund established by the United States, a State, any political subdivision of a State, or any wholly owned instrumentality of any one or more of the foregoing which provides for payment of (A) pensions, (B) retirement or retired pay, or (C) annuities or similar amounts payable on account of personal services performed by any individual (not including any payment under any workmen's compensation law or any payment by the Secretary of Veterans Affairs as compensation for service-connected disability or death).
+&emsp;(2) The term "governmental pension system" means the insurance system established by this subchapter or any other system or fund established by the United States, a State, any political subdivision of a State, or any wholly owned instrumentality of any one or more of the foregoing which provides for payment of (A) pensions, (B) retirement or retired pay, or (C) annuities or similar amounts payable on account of personal services performed by any individual (not including any payment under any workmen's compensation law or any payment by the Secretary of Veterans Affairs as compensation for service-connected disability or death).
 
-&emsp;(3) The term “periodic benefit” includes a benefit payable in a lump sum if it is a commutation of, or a substitute for, periodic payments.
+&emsp;(3) The term "periodic benefit" includes a benefit payable in a lump sum if it is a commutation of, or a substitute for, periodic payments.
 
 &emsp;(4) The determination of whether an individual is a husband or wife for any month shall be made under subsection (h) of section 416 of this title without regard to subsections (b) and (f) of section 416 of this title.
 
@@ -94,77 +94,77 @@ Section 228e(l) of title 45, referred to in subsec. (h)(1), is a reference to se
 
 #### Amendments
 
-<b>1996</b>—Subsec. (d)(1). Pub. L. 104–193 inserted “under a State program funded under” before “part A of subchapter IV of this chapter”.
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–193 inserted "under a State program funded under" before "part A of subchapter IV of this chapter".
 
-<b>1994</b>—Subsecs. (c)(5), (8), (d), (g). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary” wherever appearing.
+<b>1994</b>—Subsecs. (c)(5), (8), (d), (g). Pub. L. 103–296 substituted "Commissioner of Social Security" for "Secretary" wherever appearing.
 
-<b>1991</b>—Subsec. (h)(2). Pub. L. 102–54 substituted “Secretary of Veterans Affairs” for “Veterans’ Administration”.
+<b>1991</b>—Subsec. (h)(2). Pub. L. 102–54 substituted "Secretary of Veterans Affairs" for "Veterans' Administration".
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–508 substituted “(B)(i) attained such age after 1967 and before 1972, and (ii)” for “(B)”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–508 substituted "(B)(i) attained such age after 1967 and before 1972, and (ii)" for "(B)".
 
 <b>1984</b>—Subsec. (c)(4)(C). Pub. L. 98–369, §2662(e), amended directory language of Pub. L. 98–21, §305(d)(2). See 1983 Amendment note below.
 
-Subsec. (g). Pub. L. 98–369, §2663(j)(3)(A)(iv), struck out “of Health, Education, and Welfare” after “Secretary”.
+Subsec. (g). Pub. L. 98–369, §2663(j)(3)(A)(iv), struck out "of Health, Education, and Welfare" after "Secretary".
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–21, §305(d)(1), substituted “he or she” for “he” wherever appearing.
+<b>1983</b>—Subsec. (a). Pub. L. 98–21, §305(d)(1), substituted "he or she" for "he" wherever appearing.
 
-Subsec. (b). Pub. L. 98–21, §305(a), substituted “The” for “(1) Except as provided in paragraph (2), the” and struck out par. (2), which had provided that if both husband and wife were entitled or would have been entitled upon application to benefits under this section for any month, the amount of the husband's benefit for such month would be the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title, and the amount of the wife's benefit for such month the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title.
+Subsec. (b). Pub. L. 98–21, §305(a), substituted "The" for "(1) Except as provided in paragraph (2), the" and struck out par. (2), which had provided that if both husband and wife were entitled or would have been entitled upon application to benefits under this section for any month, the amount of the husband's benefit for such month would be the larger of $64.40 or the amount mostrecently established in lieu thereof under section 415(i) of this title, and the amount of the wife's benefit for such month the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title.
 
-Subsec. (c)(1). Pub. L. 98–21, §305(d)(1), substituted “he or she” for “he”.
+Subsec. (c)(1). Pub. L. 98–21, §305(d)(1), substituted "he or she" for "he".
 
-Subsec. (c)(2). Pub. L. 98–21, §305(b), substituted “(B) the benefit amount as determined without regard to this subsection” for “(B) the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title”.
+Subsec. (c)(2). Pub. L. 98–21, §305(b), substituted "(B) the benefit amount as determined without regard to this subsection" for "(B) the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title".
 
 Subsec. (c)(3). Pub. L. 98–21, §305(c), amended par. (3) generally, substituting provisions relating to either a husband or wife for provision that the benefit amount of the wife, after any reduction under paragraph (1), would be further reduced (but not below zero) by the excess (if any) of (i) the total amount of any periodic benefits under governmental pension systems for which the husband was eligible for such month, over (ii) the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title, and that the benefit amount of the husband, after any reduction under paragraph (1), would be further reduced (but not below zero) by the excess (if any) of (i) the total amount of any periodic benefits under governmental pension systems for which the wife was eligible for such month, over (ii) the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title.
 
-Subsec. (c)(4)(C). Pub. L. 98–21, §305(d)(2), as amended by Pub. L. 98–369, §2662(e), substituted “his or her” for “his” wherever appearing.
+Subsec. (c)(4)(C). Pub. L. 98–21, §305(d)(2), as amended by Pub. L. 98–369, §2662(e), substituted "his or her" for "his" wherever appearing.
 
-<b>1973</b>—Subsec. (b). Pub. L. 93–233, §2(b)(1), substituted “the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$58.00” in pars. (1) and (2) and “the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$29.00” in par. (2).
+<b>1973</b>—Subsec. (b). Pub. L. 93–233, §2(b)(1), substituted "the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$58.00" in pars. (1) and (2) and "the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$29.00" in par. (2).
 
-Subsec. (c). Pub. L. 93–233, §2(b)(1), substituted “the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$58.00” in par. (3), subpar. (A) and “the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$29.00” in par. (2) and par. (3) subpar. (B).
+Subsec. (c). Pub. L. 93–233, §2(b)(1), substituted "the larger of $64.40 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$58.00" in par. (3), subpar. (A) and "the larger of $32.20 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$29.00" in par. (2) and par. (3) subpar. (B).
 
 Subsec. (d). Pub. L. 93–233, §18(c) provided for elimination of benefits at age 72 for uninsured individuals receiving supplemental security income benefits.
 
-<b>1972</b>—Subsec. (b)(1). Pub. L. 92–336, §201(g)(2)(A), substituted “$58.00” for “$48.30”.
+<b>1972</b>—Subsec. (b)(1). Pub. L. 92–336, §201(g)(2)(A), substituted "$58.00" for "$48.30".
 
-Subsec. (b)(2). Pub. L. 92–336, §201(g)(2)(B), substituted “$58.00” for “$48.30” and “$29.00” for “$24.20”.
+Subsec. (b)(2). Pub. L. 92–336, §201(g)(2)(B), substituted "$58.00" for "$48.30" and "$29.00" for "$24.20".
 
-Subsec. (c)(2). Pub. L. 92–336, §201(g)(2)(C), substituted “$29.00” for “$24.20”.
+Subsec. (c)(2). Pub. L. 92–336, §201(g)(2)(C), substituted "$29.00" for "$24.20".
 
-Subsec. (c)(3)(A). Pub. L. 92–336, §201(g)(2)(D), substituted “$58.00” for “$48.30”.
+Subsec. (c)(3)(A). Pub. L. 92–336, §201(g)(2)(D), substituted "$58.00" for "$48.30".
 
-Subsec. (c)(3)(B). Pub. L. 92–336, §201(g)(2)(E), substituted “$29.00” for “$24.20”.
+Subsec. (c)(3)(B). Pub. L. 92–336, §201(g)(2)(E), substituted "$29.00" for "$24.20".
 
-<b>1971</b>—Subsec. (b)(1). Pub. L. 92–5, §202(b)(1), substituted “$48.30” for “$46”.
+<b>1971</b>—Subsec. (b)(1). Pub. L. 92–5, §202(b)(1), substituted "$48.30" for "$46".
 
-Subsec. (b)(2). Pub. L. 92–5, §202(b)(2), substituted “$48.30” for “$46” and “$24.20” for “$23”.
+Subsec. (b)(2). Pub. L. 92–5, §202(b)(2), substituted "$48.30" for "$46" and "$24.20" for "$23".
 
-Subsec. (c)(2). Pub. L. 92–5, §202(b)(3), substituted “$24.20” for “$23”.
+Subsec. (c)(2). Pub. L. 92–5, §202(b)(3), substituted "$24.20" for "$23".
 
-Subsec. (c)(3)(A). Pub. L. 92–5, §202(b)(4), substituted “$48.30” for “$46”.
+Subsec. (c)(3)(A). Pub. L. 92–5, §202(b)(4), substituted "$48.30" for "$46".
 
-Subsec. (c)(3)(B). Pub. L. 92–5, §202(b)(5), substituted “$24.20” for “$23”.
+Subsec. (c)(3)(B). Pub. L. 92–5, §202(b)(5), substituted "$24.20" for "$23".
 
-<b>1969</b>—Subsec. (b)(1). Pub. L. 91–172, §1003(b)(1), substituted “$46” for “$40”.
+<b>1969</b>—Subsec. (b)(1). Pub. L. 91–172, §1003(b)(1), substituted "$46" for "$40".
 
-Subsec. (b)(2). Pub. L. 91–172, §1003(b)(2), substituted “$46” for “$40” and “$23” for “$20”.
+Subsec. (b)(2). Pub. L. 91–172, §1003(b)(2), substituted "$46" for "$40" and "$23" for "$20".
 
-Subsec. (c)(2). Pub. L. 91–172, §1003(b)(3), substituted “$23” for “$20”.
+Subsec. (c)(2). Pub. L. 91–172, §1003(b)(3), substituted "$23" for "$20".
 
-Subsec. (c)(3)(A). Pub. L. 91–172, §1003(b)(4), substituted “$46” for “$40”.
+Subsec. (c)(3)(A). Pub. L. 91–172, §1003(b)(4), substituted "$46" for "$40".
 
-Subsec. (c)(3)(B). Pub. L. 91–172, §1003(b)(5), substituted “$23” for “$20”.
+Subsec. (c)(3)(B). Pub. L. 91–172, §1003(b)(5), substituted "$23" for "$20".
 
-<b>1968</b>—Subsec. (b)(1). Pub. L. 90–248, §102(b)(1), substituted “$40” for “$35”.
+<b>1968</b>—Subsec. (b)(1). Pub. L. 90–248, §102(b)(1), substituted "$40" for "$35".
 
-Subsec. (b)(2). Pub. L. 90–248, §102(b)(2), substituted “$40” for “$35” and “$20” for $17.50”.
+Subsec. (b)(2). Pub. L. 90–248, §102(b)(2), substituted "$40" for "$35" and "$20" for $17.50".
 
-Subsec. (c)(2). Pub. L. 90–248, §102(b)(3), substituted “$20” for “$17.50”.
+Subsec. (c)(2). Pub. L. 90–248, §102(b)(3), substituted "$20" for "$17.50".
 
-Subsec. (c)(3)(A). Pub. L. 90–248, §102(b)(4), substituted “$40” for “$35”.
+Subsec. (c)(3)(A). Pub. L. 90–248, §102(b)(4), substituted "$40" for "$35".
 
-Subsec. (c)(3)(B). Pub. L. 90–248, §102(b)(5), substituted “$20” for “$17.50”.
+Subsec. (c)(3)(B). Pub. L. 90–248, §102(b)(5), substituted "$20" for "$17.50".
 
-Subsec. (d)(1). Pub. L. 90–248, §241(a), struck out “IV,” after “I,” and inserted “or part A of subchapter IV of this chapter,” after “XVI of this chapter,”.
+Subsec. (d)(1). Pub. L. 90–248, §241(a), struck out "IV," after "I," and inserted "or part A of subchapter IV of this chapter," after "XVI of this chapter,".
 
 #### Effective Date of 1996 Amendment
 
@@ -176,7 +176,7 @@ Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pu
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title V, §5114(b), Nov. 5, 1990, 104 Stat. 1388–274, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect \[to\] benefits payable on the basis of applications filed after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title V, §5114(b), Nov. 5, 1990, 104 Stat. 1388–274, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect \[to\] benefits payable on the basis of applications filed after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Effective Date of 1984 Amendment
 
@@ -200,7 +200,7 @@ Amendment by Pub. L. 92–336 applicable with respect to monthly benefits under 
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–5 applicable with respect to monthly benefits under subchapter II of this chapter for months after December 1970, see section 202(c) of Pub. L. 92–5, set out as a note under section 427 of this title.
+Amendment by Pub. L. 92–5 applicable with respect to monthly benefits under subchapter II of this chapterfor months after December 1970, see section 202(c) of Pub. L. 92–5, set out as a note under section 427 of this title.
 
 #### Effective Date of 1969 Amendment
 
@@ -212,7 +212,7 @@ Amendment by section 102(b) of Pub. L. 90–248 applicable with respect to month
 
 #### Repeal of Amendment of Subsecs. (b)(1), (2) and (c)(3)(A), (B) Prior to Effective Date
 
-Pub. L. 92–336, title II, §202(a)(4), July 1, 1972, 86 Stat. 416, which, effective Jan. 1, 1975, substituted “the larger of $58.00 or the amount most recently established in lieu thereof under section 415(i) of this title” for “$58.00” and “the larger of $29.00 or the amount mostrecently established in lieu thereof under section 415(i) of this title” for “$29.00”, was repealed prior to its effective date by Pub. L. 93–233, §2(b)(2), Dec. 31, 1973, 87 Stat. 952, applicable with respect to monthly benefits under this subchapter for months after May 1974, and with respect to lump-sum death payments under section 402(i) of this title. See section 2(c) of Pub. L. 93–233, set out as an Effective Date of 1973 Amendment note under section 415 of this title.
+Pub. L. 92–336, title II, §202(a)(4), July 1, 1972, 86 Stat. 416, which, effective Jan. 1, 1975, substituted "the larger of $58.00 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$58.00" and "the larger of $29.00 or the amount most recently established in lieu thereof under section 415(i) of this title" for "$29.00", was repealed prior to its effective date by Pub. L. 93–233, §2(b)(2), Dec. 31, 1973, 87 Stat. 952, applicable with respect to monthly benefits under this subchapter for months after May 1974, and with respect to lump-sum death payments under section 402(i) of this title. See section 2(c) of Pub. L. 93–233, set out as an Effective Date of 1973 Amendment note under section 415 of this title.
 
 #### Application to Northern Mariana Islands
 
@@ -220,7 +220,7 @@ For applicability of this section to the Northern Mariana Islands, see section 5
 
 #### Increases To Take Into Account General Benefit Increases
 
-Pub. L. 98–21, title III, §305(e), Apr. 20, 1983, 97 Stat. 113, provided that: “The Secretary shall increase the amounts specified in section 228 of the Social Security Act \[this section\], as amended by this section, to take into account any general benefit increases (as referred to in section 215(i)(3) of such Act \[section 415(i)(3) of this title\]), and any increases under section 215(i) of such Act, which have occurred after June 1974 or may hereafter occur.”
+Pub. L. 98–21, title III, §305(e), Apr. 20, 1983, 97 Stat. 113, provided that: "The Secretary shall increase the amounts specified in section 228 of the Social Security Act \[this section\], as amended by this section, to take into account any general benefit increases (as referred to in section 215(i)(3) of such Act \[42 U.S.C. 415(i)(3)\]), and any increases under section 215(i) of such Act, which have occurred after June 1974 or may hereafter occur."
 
 #### Special $50 Payment Under Tax Reduction Act of 1975
 
@@ -228,5 +228,5 @@ Special payment of $50 as soon as practicable after Mar. 29, 1975, by Secretary 
 
 #### Applications for Transitional Coverage of Uninsured Individuals for Hospital Insurance Benefits
 
-Pub. L. 89–368, title III, §302(b), Mar. 15, 1966, 80 Stat. 70, provided that: “For purposes of paragraph (4) of section 228(a) of the Social Security Act \[subsec. (a)(4) of this section\] (added by subsection (a) of this section), an application filed under section 103 of the Social Security Amendments of 1965 \[set out as a note under section 426 of this title\] before July 1966 shall be regarded as an application under such section 228 \[this section\] and shall, for purposes of such paragraph and of the last sentence of such section 228(a), be deemed to have been filed in July 1966, unless the person by whom or on whose behalf such application was filed notifies the Secretary that he does not want such application so regarded.”
+Pub. L. 89–368, title III, §302(b), Mar. 15, 1966, 80 Stat. 70, provided that: "For purposes of paragraph (4) of section 228(a) of the Social Security Act \[42 U.S.C. 428(a)(4)\] (added by subsection (a) of this section), an application filed under section 103 of the Social Security Amendments of 1965 \[set out as a note under section 426 of this title\] before July 1966 shall be regarded as an application under such section 228 \[42 U.S.C. 428\] and shall, for purposes of such paragraph and of the last sentence of such section 228(a), be deemed to have been filed in July 1966, unless the person by whom or on whose behalf such application was filed notifies the Secretary that he does not want such application so regarded."
 

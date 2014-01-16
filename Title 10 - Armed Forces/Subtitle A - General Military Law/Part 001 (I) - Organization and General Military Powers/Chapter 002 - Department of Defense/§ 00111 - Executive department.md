@@ -44,7 +44,7 @@ Historical and Revision Notes
 
 July 26, 1947, ch. 343, §201(a) (less last 10 words), (b); restated Aug. 10, 1949, ch. 412, §4 (1st (less last 10 words) and 2d pars.), 63 Stat. 579.
 
-The words “There is established”, in 5 U.S.C. 171(a), are omitted as executed. 5 U.S.C. 171(b) (1st 26 words) is omitted as covered by the definitions of “department” and “military departments” in section 101(5) and (7), respectively, of this title. 5 U.S.C. 171(b) (27th through 49th words) is omitted as executed. 5 U.S.C. 171(b) (last 18 words) is omitted as surplusage.
+The words "There is established", in 5 U.S.C. 171(a), are omitted as executed. 5 U.S.C. 171(b) (1st 26 words) is omitted as covered by the definitions of "department" and "military departments" in section 101(5) and (7), respectively, of this title. 5 U.S.C. 171(b) (27th through 49th words) is omitted as executed. 5 U.S.C. 171(b) (last 18 words) is omitted as surplusage.
 
 #### Amendments
 
@@ -54,17 +54,17 @@ The words “There is established”, in 5 U.S.C. 171(a), are omitted as execute
 
 Pub. L. 104–106, div. A, title IX, §908, Feb. 10, 1996, 110 Stat. 406, provided that:
 
-“(a)
+"(a)
 
-Redesignation.—The agency in the Department of Defense known as the Advanced Research ProjectsAgency shall after the date of the enactment of this Act \[Feb. 10, 1996\] be designated as the Defense Advanced Research Projects Agency.
+Redesignation.—The agency in the Department of Defense known as the Advanced Research Projects Agency shall after the date of the enactment of this Act \[Feb. 10, 1996\] be designated as the Defense Advanced Research Projects Agency.
 
-“(b)
+"(b)
 
-References.—Any reference in any law, regulation, document, record, or other paper of the United States or in any provision of this Act to the Advanced Research Projects Agency shall be considered to be a reference to the Defense Advanced Research Projects Agency.”
+References.—Any reference in any law, regulation, document, record, or other paper of the United States or in any provision of this Act to the Advanced Research Projects Agency shall be considered to be a reference to the Defense Advanced Research Projects Agency."
 
 #### Short Title of 1986 Amendment
 
-Pub. L. 99–433, §1(a), Oct. 1, 1986, 100 Stat. 992, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Goldwater-Nichols Department of Defense Reorganization Act of 1986’.”
+Pub. L. 99–433, §1(a), Oct. 1, 1986, 100 Stat. 992, provided that: "This Act \[see Tables for classification\] may be cited as the 'Goldwater-Nichols Department of Defense Reorganization Act of 1986'."
 
 #### Transfer of Functions
 
@@ -72,79 +72,147 @@ For transfer of functions, personnel, assets, and liabilities of the Department 
 
 Missions and functions of elements of Department of Defense as specified in classified annex to Pub. L. 104–201, and related personnel, assets, and balances of appropriations and authorizations of appropriations, transferred to National Imagery and Mapping Agency, see sections 1111 and 1113 of Pub. L. 104–201, set out as notes under section 441 of this title.
 
+#### Streamlining of Department of Defense Management Headquarters
+
+Pub. L. 113–66, div. A, title IX, §904, Dec. 26, 2013, 127 Stat. 816, provided that:
+
+"(a)
+
+Plan Required.—Not later than 180 days after the date of the enactment of this Act \[Dec. 26, 2013\], the Secretary of Defense shall develop a plan for streamlining Department of Defense management headquarters by changing or reducing the size of staffs, eliminating tiers of management, cutting functions that provide little or no added value, and consolidating overlapping and duplicative programs and offices.
+
+"(b)
+
+Elements of Plan.—The plan required by subsection (a) shall include the following for each covered organization:
+
+&emsp;"(1) A description of the planned changes or reductions in staffing and services provided by military personnel, civilian personnel, and contractor personnel.
+
+&emsp;"(2) A description of the planned changes or reductions in management, functions, and programs and offices.
+
+&emsp;"(3) The estimated cumulative savings to be achieved over a 10-fiscal-year period beginning with fiscal year 2015, and estimated savings to be achieved for each of fiscal years 2015 through 2024.
+
+"(c)
+
+Covered Organization.—In this section, the term 'covered organization' includes each of the following:
+
+&emsp;"(1) The Office of the Secretary of Defense.
+
+&emsp;"(2) The Joint Staff.
+
+&emsp;"(3) The Defense Agencies.
+
+&emsp;"(4) The Department of Defense field activities.
+
+&emsp;"(5) The headquarters of the combatant commands.
+
+&emsp;"(6) Headquarters, Department of the Army, including the Office of the Secretary of the Army, the Office of the Chief of Staff of the Army, and the Army Staff.
+
+&emsp;"(7) The major command headquarters of the Army.
+
+&emsp;"(8) The Office of the Secretary of the Navy, the Office of the Chief of Naval Operations, and Headquarters, United States Marine Corps.
+
+&emsp;"(9) The major command headquarters of the Navy and the Marine Corps.
+
+&emsp;"(10) Headquarters, Department of the Air Force, including the Office of the Secretary of the Air Force, the Office of the Air Force Chief of Staff, and the Air Staff.
+
+&emsp;"(11) The major command headquarters of the Air Force.
+
+&emsp;"(12) The National Guard Bureau.
+
+"(d)
+
+Reports.—
+
+&emsp;"(1)
+
+Initial report.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] the plan required by subsection (a).
+
+&emsp;"(2)
+
+Status report.—The Secretary shall include with the Department of Defense materials submitted to Congress with the budget of the President for each of fiscal years 2016 through 2024 (as submitted to Congress pursuant to section 1105 of title 31, United States Code) a report describing the implementation of the plan required by subsection (a) during the preceding fiscal year and any modifications to the plan required due to changing circumstances. Each such report shall include the following:
+
+&emsp;&emsp;"(A) A summary of savings achieved for each covered organization in the fiscal year covered by such report.
+
+&emsp;&emsp;"(B) A description of the savings through changes or reductions in staffing and services provided by military personnel, civilian personnel, and contractor personnel in the fiscal year covered by such report.
+
+&emsp;&emsp;"(C) A description of the savings through changes or reductions in management, functions, and programs and offices in the fiscal year covered by such report.
+
+&emsp;&emsp;"(D) In any case in which savings under the plan fall short of the objective of the plan for the fiscal year covered by such report, an explanation of the reasons for the shortfall.
+
+&emsp;&emsp;"(E) A description of any modifications to the plan made during the fiscal year covered by such report, and an explanation of the reasons for such modifications."
+
 #### Military Activities in Cyberspace
 
-Pub. L. 112–81, div. A, title IX, §954, Dec. 31, 2011, 125 Stat. 1551, provided that: “Congress affirms that the Department of Defense has the capability, and upon direction by the President may conduct offensive operations in cyberspace to defend our Nation, Allies and interests, subject to—
+Pub. L. 112–81, div. A, title IX, §954, Dec. 31, 2011, 125 Stat. 1551, provided that: "Congress affirms that the Department of Defense has the capability, and upon direction by the President may conduct offensive operations in cyberspace to defend our Nation, Allies and interests, subject to—
 
-&emsp;“(1) the policy principles and legal regimes that the Department follows for kinetic capabilities, including the law of armed conflict; and
+&emsp;"(1) the policy principles and legal regimes that the Department follows for kinetic capabilities, including the law of armed conflict; and
 
-&emsp;“(2) the War Powers Resolution (50 U.S.C. 1541 et seq.).”
+&emsp;"(2) the War Powers Resolution (50 U.S.C. 1541 et seq.)."
 
 #### Interagency Policy Coordination
 
 Pub. L. 110–181, div. A, title IX, §952, Jan. 28, 2008, 122 Stat. 291, provided that:
 
-“(a)
+"(a)
 
 Plan Required.—Not later than 180 days after the date of the enactment of this Act \[Jan. 28, 2008\], the Secretary of Defense shall develop and submit to Congress a plan to improve and reform the Department of Defense's participation in and contribution to the interagency coordination process on national security issues.
 
-“(b)
+"(b)
 
 Elements.—The elements of the plan shall include the following:
 
-&emsp;“(1) Assigning either the Under Secretary of Defense for Policy or another official to be the lead policy official for improving and reforming the interagency coordination process on national security issues for the Department of Defense, with an explanation of any decision to name an official other than the Under Secretary and the relative advantages and disadvantages of such decision.
+&emsp;"(1) Assigning either the Under Secretary of Defense for Policy or another official to be the lead policy official for improving and reforming the interagency coordination process on national security issues for the Department of Defense, with an explanation of any decision to name an official other than the Under Secretary and the relative advantages and disadvantages of such decision.
 
-&emsp;“(2) Giving the official assigned under paragraph (1) the following responsibilities:
+&emsp;"(2) Giving the official assigned under paragraph (1) the following responsibilities:
 
-&emsp;&emsp;“(A) To be the lead person at the Department of Defense for the development of policy affecting the national security interagency process.
+&emsp;&emsp;"(A) To be the lead person at the Department of Defense for the development of policy affecting the national security interagency process.
 
-&emsp;&emsp;“(B) To serve, or designate a person to serve, as the representative of the Department of Defense in Federal Government forums established to address interagency policy, planning, or reforms.
+&emsp;&emsp;"(B) To serve, or designate a person to serve, as the representative of the Department of Defense in Federal Government forums established to address interagency policy, planning, or reforms.
 
-&emsp;&emsp;“(C) To advocate, on behalf of the Secretary, for greater interagency coordination and contributions in the execution of the National Security Strategy and particularly specific operational objectives undertaken pursuant to that strategy.
+&emsp;&emsp;"(C) To advocate, on behalf of the Secretary, for greater interagency coordination and contributions in the execution of the National Security Strategy and particularly specific operational objectives undertaken pursuant to that strategy.
 
-&emsp;&emsp;“(D) To make recommendations to the Secretary of Defense on changes to existing Department of Defense regulations or laws to improve the interagency process.
+&emsp;&emsp;"(D) To make recommendations to the Secretary of Defense on changes to existing Department of Defense regulations or laws to improve the interagency process.
 
-&emsp;&emsp;“(E) To serve as the coordinator for all planning and training assistance that is—
+&emsp;&emsp;"(E) To serve as the coordinator for all planning and training assistance that is—
 
-&emsp;&emsp;&emsp;“(i) designed to improve the interagency process or the capabilities of other agencies to work with the Department of Defense; and
+&emsp;&emsp;&emsp;"(i) designed to improve the interagency process or the capabilities of other agencies to work with the Department of Defense; and
 
-&emsp;&emsp;&emsp;“(ii) provided by the Department of Defense at the request of other agencies.
+&emsp;&emsp;&emsp;"(ii) provided by the Department of Defense at the request of other agencies.
 
-&emsp;&emsp;“(F) To serve as the lead official in Department of Defense for the development of deployable joint interagency task forces.
+&emsp;&emsp;"(F) To serve as the lead official in Department of Defense for the development of deployable joint interagency task forces.
 
-“(c)
+"(c)
 
 Factors To Be Considered.—In drafting the plan, the Secretary of Defense shall also consider the following factors:
 
-&emsp;“(1) How the official assigned under subsection (b)(1) shall provide input to the Secretary of Defense on an ongoing basis on how to incorporate the need to coordinate with other agencies into the establishment and reform of combatant commands.
+&emsp;"(1) How the official assigned under subsection (b)(1) shall provide input to the Secretary of Defense on an ongoing basis on how to incorporate the need to coordinate with other agencies into the establishment and reform of combatant commands.
 
-&emsp;“(2) How such official shall develop and make recommendations to the Secretary of Defense on a regular or an ongoing basis on changes to military and civilian personnel to improve interagency coordination.
+&emsp;"(2) How such official shall develop and make recommendations to the Secretary of Defense on a regular or an ongoing basis on changes to military and civilian personnel to improve interagency coordination.
 
-&emsp;“(3) How such official shall work with the combatant command that has the mission for joint warfighting experimentation and other interested agencies to develop exercises to test and validate interagency planning and capabilities.
+&emsp;"(3) How such official shall work with the combatant command that has the mission for joint warfighting experimentation and other interested agencies to develop exercises to test and validate interagency planning and capabilities.
 
-&emsp;“(4) How such official shall lead, coordinate, or participate in after-action reviews of operations, tests, and exercises to capture lessons learned regarding the functioning of the interagency process and how those lessons learned will be disseminated.
+&emsp;"(4) How such official shall lead, coordinate, or participate in after-action reviews of operations, tests, and exercises to capture lessons learned regarding the functioning of the interagency process and how those lessons learned will be disseminated.
 
-&emsp;“(5) The role of such official in ensuring that future defense planning guidance takes into account the capabilities and needs of other agencies.
+&emsp;"(5) The role of such official in ensuring that future defense planning guidance takes into account the capabilities and needs of other agencies.
 
-“(d)
+"(d)
 
 Recommendation on Changes in Law.—The Secretary of Defense may submit with the plan or with any future budget submissions recommendations for any changes to law that are required to enhance the ability of the official assigned under subsection (b)(1) in the Department of Defense to coordinate defense interagency efforts or to improve the ability of the Department of Defense to work with other agencies.
 
-“(e)
+"(e)
 
 Annual Report.—If an official is named by the Secretary of Defense under subsection (b)(1), the official shall annually submit to Congress a report, beginning in the fiscal year following the naming of the official, on those actions taken by the Department of Defense to enhance national security interagency coordination, the views of the Department of Defense on efforts and challenges in improving the ability of agencies to work together, and suggestions on changes needed to laws or regulations that would enhance the coordination of efforts of agencies.
 
-“(f)
+"(f)
 
-Definition.—In this section, the term ‘interagency coordination’, within the context of Department of Defense involvement, means the coordination that occurs between elements of the Department of Defense and engaged Federal Government agencies for the purpose of achieving an objective.
+Definition.—In this section, the term 'interagency coordination', within the context of Department of Defense involvement, means the coordination that occurs between elements of the Department of Defense and engaged Federal Government agencies for the purpose of achieving an objective.
 
-“(g)
+"(g)
 
-Construction.—Nothing in this provision shall be construed as preventing the Secretary of Defense from naming an official with the responsibilities listed in subsection (b) before the submission of the report required under this section.”
+Construction.—Nothing in this provision shall be construed as preventing the Secretary of Defense from naming an official with the responsibilities listed in subsection (b) before the submission of the report required under this section."
 
 #### Commission on Review of Overseas Military Facility Structure of the United States
 
-Pub. L. 108–132, §128, Nov. 22, 2003, 117 Stat. 1382, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–324, div. A, §127, Oct. 13, 2004, 118 Stat. 1229, established the Commission on the Review of the Overseas Military Facility Structure of the UnitedStates to conduct a thorough study of matters relating to the military facility structure of the United States overseas, directed the Commission to submit a report to the President and Congress not later than Aug. 15, 2005, and provided that the Commission would terminate 45 days after such date.
+Pub. L. 108–132, §128, Nov. 22, 2003, 117 Stat. 1382, as amended by Pub. L. 108–271, §8(b), July 7, 2004, 118 Stat. 814; Pub. L. 108–324, div. A, §127, Oct. 13, 2004, 118 Stat. 1229, established the Commission on the Review of the Overseas Military Facility Structure of the United States to conduct a thorough study of matters relating to the military facility structure of the United States overseas, directed the Commission to submit a report to the President and Congress not later than Aug. 15, 2005, and provided that the Commission would terminate 45 days after such date.
 
 #### Commission To Assess United States National Security Space Management and Organization
 
@@ -158,59 +226,59 @@ Pub. L. 106–65, div. B, title XXIX, Oct. 5, 1999, 113 Stat. 881, as amended by
 
 Pub. L. 105–261, div. A, title XII, §1232, Oct. 17, 1998, 112 Stat. 2155, provided that:
 
-“(a)
+"(a)
 
-In General.—Notwithstanding any other provision of law, no provision of the Kyoto Protocol to the United Nations Framework Convention on Climate Change, or any regulation issued pursuant to such protocol, shall restrict the training or operations of the United States Armed Forces or limit the military equipment procured by the United States Armed Forces.
+In General.—Notwithstanding any other provision of law, no provision of the Kyoto Protocol to theUnited Nations Framework Convention on Climate Change, or any regulation issued pursuant to such protocol, shall restrict the training or operations of the United States Armed Forces or limit the military equipment procured by the United States Armed Forces.
 
-“(b)
+"(b)
 
 Waiver.—A provision of law may not be construed as modifying or superseding the provisions of subsection (a) unless that provision of law—
 
-&emsp;“(1) specifically refers to this section; and
+&emsp;"(1) specifically refers to this section; and
 
-&emsp;“(2) specifically states that such provision of law modifies or supersedes the provisions of this section.
+&emsp;"(2) specifically states that such provision of law modifies or supersedes the provisions of this section.
 
-“(c)
+"(c)
 
-Matters Not Affected.—Nothing in this section shall be construed to preclude the Department of Defense from implementing any measure to achieve efficiencies or for any other reason independent of the Kyoto Protocol.”
+Matters Not Affected.—Nothing in this section shall be construed to preclude the Department of Defense from implementing any measure to achieve efficiencies or for any other reason independent of the Kyoto Protocol."
 
 #### Applicability of Certain Pay Authorities to Members of Specified Independent Study Organizations
 
 Pub. L. 105–85, div. A, title X, §1081, Nov. 18, 1997, 111 Stat. 1916, provided that:
 
-“(a)
+"(a)
 
 Applicability of Certain Pay Authorities.—(1) An individual who is a member of a commission or panel specified in subsection (b) and is an annuitant otherwise covered by section 8344 or 8468 of title 5, United States Code, by reason of membership on the commission or panel is not subject to the provisions of that section with respect to such membership.
 
-“(2) An individual who is a member of a commission or panel specified in subsection (b) and is a member or former member of a uniformed service is not subject to the provisions of subsections (b) and (c) of section 5532 of such title with respect to membership on the commission or panel.
+"(2) An individual who is a member of a commission or panel specified in subsection (b) and is a member or former member of a uniformed service is not subject to the provisions of subsections (b) and (c) of section 5532 of such title with respect to membership on the commission or panel.
 
-“(b)
+"(b)
 
 Specified Entities.—Subsection (a) applies—
 
-&emsp;“(1) effective as of September 23, 1996, to members of the National Defense Panel established by section 924 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2626) \[formerly set out below\]; and
+&emsp;"(1) effective as of September 23, 1996, to members of the National Defense Panel established by section 924 of the National Defense Authorization Act for Fiscal Year 1997 (Public Law 104–201; 110 Stat. 2626) \[formerly set out below\]; and
 
-&emsp;“(2) effective as of October 9, 1996, to members of the Commission on Servicemembers and Veterans Transition Assistance established by section 701 of the Veterans’ Benefits Improvements Act of 1996 (Public Law 104–275; 110 Stat. 3346; 38 U.S.C. 545 note).”
+&emsp;"(2) effective as of October 9, 1996, to members of the Commission on Servicemembers and Veterans Transition Assistance established by section 701 of the Veterans' Benefits Improvements Act of 1996 (Public Law 104–275; 110 Stat. 3346; 38 U.S.C. 545 note)."
 
 #### Mission of White House Communications Agency
 
 Pub. L. 104–201, div. A, title IX, §912, Sept. 23, 1996, 110 Stat. 2623, as amended by Pub. L. 109–163, div. A, title IX, §906, Jan. 6, 2006, 119 Stat. 3402, provided that:
 
-“(a)
+"(a)
 
 Telecommunications Support and Audiovisual Support Services.—The Secretary of Defense shall ensure that the activities of the White House Communications Agency in providing support services on a nonreimbursable basis for the President from funds appropriated for the Department of Defense for any fiscal year are limited to the provision of telecommunications support and audiovisual support services to the President and Vice President and to related elements (as defined in regulations of that agency and specified by the President with respect to particular individuals within those related elements).
 
-“(b)
+"(b)
 
 Other Support.—Support services other than telecommunications and audiovisual support services described in subsection (a) may be provided by the Department of Defense for the President through the White House Communications Agency on a reimbursable basis.
 
-“(c)
+"(c)
 
-White House Communications Agency.—For purposes of this section, the term ‘White House Communications Agency’ means the element of the Department of Defense within the Defense Communications Agency that is known on the date of the enactment of this Act \[Sept. 23, 1996\] as the White House Communications Agency and includes any successor agency.”
+White House Communications Agency.—For purposes of this section, the term 'White House Communications Agency' means the element of the Department of Defense within the Defense Communications Agency that is known on the date of the enactment of this Act \[Sept. 23, 1996\] as the White House Communications Agency and includes any successor agency."
 
 #### Military Force Structure Review
 
-Pub. L. 104–201, div. A, title IX, subtitle B, Sept. 23, 1996, 110 Stat. 2623, directed Secretary of Defense, in consultation with Chairman of the Joint Chiefs of Staff, to complete in 1997 a review of defense program of United States, which was to include comprehensive examination of defense strategy, force structure, force modernization plans, infrastructure, budget plan, and other elements of defense program and policies with view toward determining and expressing defense strategy of United States and establishing revised defense program through year 2005, further established National Defense Panel to complete review and report to Secretary not later than Dec. 1, 1997, further directed Secretary to submit final report to Congress not laterthan Dec. 15, 1997, and provided for termination of Panel 30 days after submission of report to Secretary.
+Pub. L. 104–201, div. A, title IX, subtitle B, Sept. 23, 1996, 110 Stat. 2623, directed Secretary of Defense, in consultation with Chairman of the Joint Chiefs of Staff, to complete in 1997 a review of defense program of United States, which was to include comprehensive examination of defense strategy, force structure, force modernization plans, infrastructure, budget plan, and other elements of defense program and policies with view toward determining and expressing defense strategy of United States and establishing revised defense program through year 2005, further established National Defense Panel to complete review and report to Secretary not later than Dec. 1, 1997, further directed Secretary to submit final report to Congress not later than Dec. 15, 1997, and provided for termination of Panel 30 days after submission of report to Secretary.
 
 #### Commission on Roles and Missions of Armed Forces
 
@@ -220,29 +288,29 @@ Pub. L. 103–160, div. A, title IX, subtitle E, Nov. 30, 1993, 107 Stat. 1738, 
 
 Pub. L. 103–160, div. A, title XI, §1151, Nov. 30, 1993, 107 Stat. 1758, provided that:
 
-“(a)
+"(a)
 
 Termination of Report Requirements.—Unless otherwise provided by a law enacted after the date of the enactment of this Act \[Nov. 30, 1993\], each provision of law requiring the submittal to Congress (or any committee of Congress) of any report specified in the list submitted under subsection (b) shall, with respect to that requirement, cease to be effective on October 30, 1995.
 
-“(b)
+"(b)
 
 Preparation of List.—(1) The Secretary of Defense shall submit to Congress a list of each provision of law that, as of the date specified in subsection (c), imposes upon the Secretary of Defense (or any other officer of the Department of Defense) a reporting requirement described in paragraph (2). The list of provisions of law shall include a statement or description of the report required under each such provision of law.
 
-“(2) Paragraph (1) applies to a requirement imposed by law to submit to Congress (or specified committees of Congress) a report on a recurring basis, or upon the occurrence of specified events, if the Secretary determines that the continued requirement to submit that report is unnecessary or incompatible with the efficient management of the Department of Defense.
+"(2) Paragraph (1) applies to a requirement imposed by law to submit to Congress (or specified committees of Congress) a report on a recurring basis, or upon the occurrence of specified events, if the Secretary determines that the continued requirement to submit that report is unnecessary or incompatible with the efficient management of the Department of Defense.
 
-“(3) The Secretary shall submit with the list an explanation, for each report specified in the list, of the reasons why the Secretary considers the continued requirement to submit the report to be unnecessary or incompatible with the efficient management of the Department of Defense.
+"(3) The Secretary shall submit with the list an explanation, for each report specified in the list, of the reasons why the Secretary considers the continued requirement to submit the report to be unnecessary or incompatible with the efficient management of the Department of Defense.
 
-“(c)
+"(c)
 
 Submission of List.—The list under subsection (a) shall be submitted not later than April 30, 1994.
 
-“(d)
+"(d)
 
-Scope of Section.—For purposes of this section, the term ‘report’ includes a certification, notification, or other characterization of a communication.
+Scope of Section.—For purposes of this section, the term 'report' includes a certification, notification, or other characterization of a communication.
 
-“(e)
+"(e)
 
-Interpretation of Section.—This section does not require the Secretary of Defense to review each report required of the Department of Defense by law.”
+Interpretation of Section.—This section does not require the Secretary of Defense to review each report required of the Department of Defense by law."
 
 #### Report Provisions Previously Terminated by Goldwater-Nichols Act
 
@@ -254,23 +322,23 @@ Pub. L. 101–510, div. A, title XIII, §1323, Nov. 5, 1990, 104 Stat. 1672, res
 
 #### Goldwater-Nichols Department of Defense Reorganization Act of 1986; Congressional Declaration of Policy
 
-Pub. L. 99–433, §3, Oct. 1, 1986, 100 Stat. 993, provided that: “In enacting this Act \[see Short Title of 1986 Amendment note above\], it is the intent of Congress, consistent with the congressional declaration of policy in section 2 of the National Security Act of 1947 (50 U.S.C. 401)—
+Pub. L. 99–433, §3, Oct. 1, 1986, 100 Stat. 993, provided that: "In enacting this Act \[see Short Title of 1986 Amendment note above\], it is the intent of Congress, consistent with the congressional declaration of policy in section 2 of the National Security Act of 1947 (50 U.S.C. 401) \[now 50 U.S.C. 3002\]—
 
-&emsp;“(1) to reorganize the Department of Defense and strengthen civilian authority in the Department;
+&emsp;"(1) to reorganize the Department of Defense and strengthen civilian authority in the Department;
 
-&emsp;“(2) to improve the military advice provided to the President, the National Security Council, and the Secretary of Defense;
+&emsp;"(2) to improve the military advice provided to the President, the National Security Council, and the Secretary of Defense;
 
-&emsp;“(3) to place clear responsibility on the commanders of the unified and specified combatant commands for the accomplishment of missions assigned to those commands;
+&emsp;"(3) to place clear responsibility on the commanders of the unified and specified combatant commands for the accomplishment of missions assigned to those commands;
 
-&emsp;“(4) to ensure that the authority of the commanders of the unified and specified combatant commands is fully commensurate with the responsibility of those commanders for the accomplishment of missions assigned to their commands;
+&emsp;"(4) to ensure that the authority of the commanders of the unified and specified combatant commands is fully commensurate with the responsibility of those commanders for the accomplishment of missions assigned to their commands;
 
-&emsp;“(5) to increase attention to the formulation of strategy and to contingency planning;
+&emsp;"(5) to increase attention to the formulation of strategy and to contingency planning;
 
-&emsp;“(6) to provide for more efficient use of defense resources;
+&emsp;"(6) to provide for more efficient use of defense resources;
 
-&emsp;“(7) to improve joint officer management policies; and
+&emsp;"(7) to improve joint officer management policies; and
 
-&emsp;“(8) otherwise to enhance the effectiveness of military operations and improve the management and administration of the Department of Defense.”
+&emsp;"(8) otherwise to enhance the effectiveness of military operations and improve the management and administration of the Department of Defense."
 
 #### Reduction of Reporting Requirements
 
@@ -278,7 +346,7 @@ Pub. L. 99–433, title VI, §602, Oct. 1, 1986, 100 Stat. 1066, as amended by P
 
 #### Legislation To Make Required Conforming Changes in Law
 
-Pub. L. 99–433, title VI, §604, Oct. 1, 1986, 100 Stat. 1075a, directed Secretary of Defense, not later than six months after Oct. 1, 1986, to submit to Committees on Armed Services of Senate and House of Representativesa draft of legislation to make any technical and conforming changes to title 10, United States Code, and other provisions of law that are required or should be made by reason of the amendments made by Pub. L. 99–433.
+Pub. L. 99–433, title VI, §604, Oct. 1, 1986, 100 Stat. 1075a, directed Secretary of Defense, not later than six months after Oct. 1, 1986, to submit to Committees on Armed Services of Senate and House of Representatives a draft of legislation to make any technical and conforming changes to title 10, United States Code, and other provisions of law that are required or should be made by reason of the amendments made by Pub. L. 99–433.
 
 #### Readiness Status of Military Forces of the North Atlantic Treaty Organization; Assessment, Findings, and Report to Congressional Committees
 

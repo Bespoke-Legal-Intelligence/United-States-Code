@@ -24,7 +24,7 @@ The Board shall be composed of the following individuals or the representatives 
 
 &emsp;(8) The Chairperson of the National Endowment for the Humanities.
 
-&emsp;(9) Six individuals appointed by the President, who shall be experts in the fields of international, language, area, and counterproliferation studies education and who may not be officers or employees of the Federal Government.
+&emsp;(9) Six individuals appointed by the President, who shall be experts in the fields ofinternational, language, area, and counterproliferation studies education and who may not be officers or employees of the Federal Government.
 
 #### (c) Term of appointees
 
@@ -74,51 +74,51 @@ The Board shall perform the following functions:
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(5) to (9). Pub. L. 112–239, §954(b)(1), added pars. (5) to (7), redesignated former pars. (6) and (7) as (8) and (9), respectively, and struck out former par. (5) which read as follows: “The Director of Central Intelligence.”
+<b>2013</b>—Subsec. (b)(5) to (9). Pub. L. 112–239, §954(b)(1), added pars. (5) to (7), redesignated former pars. (6) and (7) as (8) and (9), respectively, and struck out former par. (5) which read as follows: "The Director of Central Intelligence."
 
 Subsec. (d)(9). Pub. L. 112–239, §954(b)(2), added par. (9).
 
-<b>2012</b>—Subsec. (b)(7). Pub. L. 112–166, which directed striking the phrase “by and with the advice and consent of the Senate,”, could not be executed because the phrase did not appear after execution of amendment by Pub. L. 112–81, §1087(a). See 2011 Amendment note below.
+<b>2012</b>—Subsec. (b)(7). Pub. L. 112–166, which directed striking the phrase "by and with the advice and consent of the Senate,", could not be executed because the phrase did not appear after execution of amendment by Pub. L. 112–81, §1087(a). See 2011 Amendment note below.
 
-<b>2011</b>—Subsec. (b)(7). Pub. L. 112–81, §1087(a), struck out “by and with the advice and consent of the Senate,” after “President,”.
+<b>2011</b>—Subsec. (b)(7). Pub. L. 112–81, §1087(a), struck out "by and with the advice and consent of the Senate," after "President,".
 
-Subsec. (c). Pub. L. 112–81, §1087(b), substituted “subsection (b)(7)” for “subsection (b)(6)”.
+Subsec. (c). Pub. L. 112–81, §1087(b), substituted "subsection (b)(7)" for "subsection (b)(6)".
 
-2004–Subsec. (d)(4)(E). Pub. L. 108–487 inserted “and section 1902(a)(1)(E) of this title (relating to the scholarship program for advanced English language studies by heritage community citizens)” before period.
+2004–Subsec. (d)(4)(E). Pub. L. 108–487 inserted "and section 1902(a)(1)(E) of this title (relating to the scholarship program for advanced English language studies by heritage community citizens)" before period.
 
 <b>2002</b>—Subsec. (d)(4)(E). Pub. L. 107–306 added subpar. (E).
 
-<b>1998</b>—Subsec. (b)(6). Pub. L. 105–277, §1335(g)(1), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “The Secretary of Energy.”
+<b>1998</b>—Subsec. (b)(6). Pub. L. 105–277, §1335(g)(1), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: "The Secretary of Energy."
 
-Pub. L. 105–272, §305(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “The Director of the United States Information Agency.”
+Pub. L. 105–272, §305(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: "The Director of the United States Information Agency."
 
 Subsec. (b)(7). Pub. L. 105–277, §1335(g)(1)(B), redesignated par. (8) as (7). Former par. (7) redesignated (6).
 
 Subsec. (b)(8). Pub. L. 105–277, §1335(g)(1)(B), redesignated par. (8) as (7).
 
-Pub. L. 105–272, §305(a)(3), substituted “area, and counterproliferation” for “and area”.
+Pub. L. 105–272, §305(a)(3), substituted "area, and counterproliferation" for "and area".
 
-Subsec. (c). Pub. L. 105–277, §1335(g)(2), substituted “subsection (b)(6)” for “subsection (b)(7)”.
+Subsec. (c). Pub. L. 105–277, §1335(g)(2), substituted "subsection (b)(6)" for "subsection (b)(7)".
 
-Subsec. (d)(4). Pub. L. 105–272, §305(a)(3), substituted “area, and counterproliferation” for “and area” in introductory provisions.
+Subsec. (d)(4). Pub. L. 105–272, §305(a)(3), substituted "area, and counterproliferation" for "and area" in introductory provisions.
 
-<b>1996</b>—Subsec. (d)(1). Pub. L. 104–201, §1078(e)(1), inserted before period at end “, including an order of priority in such awards that favors individuals expressing an interest in national security issues or pursuing a career in a national security position”.
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–201, §1078(e)(1), inserted before period at end ", including an order of priority in such awards that favors individuals expressing an interest in national security issues or pursuing a career in a national security position".
 
-Subsec. (d)(4). Pub. L. 104–201, §1078(e)(2)(A), in introductory provisions, substituted “After taking into account the annual analyses of trends in language, international, and area studies under section 1906(b)(1) of this title, make recommendations” for “Make recommendations”.
+Subsec. (d)(4). Pub. L. 104–201, §1078(e)(2)(A), in introductory provisions, substituted "After taking into account the annual analyses of trends in language, international, and area studies under section 1906(b)(1) of this title, make recommendations" for "Make recommendations".
 
-Subsec. (d)(4)(A). Pub. L. 104–201, §1078(e)(2)(B), substituted “and countries which are of importance to the national security interests of the United States” after “are studying”.
+Subsec. (d)(4)(A). Pub. L. 104–201, §1078(e)(2)(B), substituted "and countries which are of importance to the national security interests of the United States" after "are studying".
 
-Subsec. (d)(4)(B). Pub. L. 104–201, §1078(e)(2)(C), substituted “relating to the national security interests of the United States” after “section 1902(a)(1)(B) of this title”.
+Subsec. (d)(4)(B). Pub. L. 104–201, §1078(e)(2)(C), substituted "relating to the national security interests of the United States" after "section 1902(a)(1)(B) of this title".
 
 Subsec. (d)(5) to (8). Pub. L. 104–201, §1078(e)(3), (4), added pars. (5) to (7) and redesignated former par. (5) as (8).
 
 <b>1992</b>—Subsec. (b)(7). Pub. L. 102–496, §404(d)(2), added par. (7). Former par. (7) redesignated (8).
 
-Subsec. (b)(8). Pub. L. 102–496, §404(d)(1), (3), redesignated par. (7) as (8), substituted “Six individuals” for “Four individuals”, and inserted before period at end “and who may not be officers or employees of the Federal Government”.
+Subsec. (b)(8). Pub. L. 102–496, §404(d)(1), (3), redesignated par. (7) as (8), substituted "Six individuals" for "Four individuals", and inserted before period at end "and who may not be officers or employees of the Federal Government".
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of this title.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of this title.
 
 #### Effective Date of 2012 Amendment
 

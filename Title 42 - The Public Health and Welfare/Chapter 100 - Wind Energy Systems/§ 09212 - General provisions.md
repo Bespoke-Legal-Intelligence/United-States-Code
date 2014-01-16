@@ -14,5 +14,5 @@ This chapter applies to each of the several States, the District of Columbia, th
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “chapter.”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "chapter."</i>
 

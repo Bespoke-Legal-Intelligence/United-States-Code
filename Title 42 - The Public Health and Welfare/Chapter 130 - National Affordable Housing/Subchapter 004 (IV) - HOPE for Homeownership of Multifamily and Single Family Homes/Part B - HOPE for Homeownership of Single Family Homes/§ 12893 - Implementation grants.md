@@ -66,7 +66,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(B) a description of the qualifications and experience of the applicant in providing low-income housing;
 
-&emsp;&emsp;(C) a description of the proposed homeownership program, consistent with section 12894 of this title and the other requirements of this part specifying the activities proposed to be carried out and their estimated costs, identifying reasonable schedules for carrying it out, and demonstrating that theprogram will comply with the affordability requirements under section 12894(b) of this title;
+&emsp;&emsp;(C) a description of the proposed homeownership program, consistent with section 12894 of this title and the other requirements of this part specifying the activities proposed to be carried out and their estimated costs, identifying reasonable schedules for carrying it out, and demonstrating that the program will comply with the affordability requirements under section 12894(b) of this title;
 
 &emsp;&emsp;(D) an identification and description of the properties to be acquired under the homeownership program and a description of the composition of potential eligible families, including family size and income;
 
@@ -118,7 +118,7 @@ The Age Discrimination Act of 1975, referred to in subsec. (d)(2)(K), is title I
 
 #### Amendments
 
-<b>1994</b>—Subsec. (c)(1). Pub. L. 103–233 substituted “25 percent” for “33 percent”.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–233 substituted "25 percent" for "33 percent".
 
 <b>1992</b>—Subsec. (b)(4) to (11). Pub. L. 102–550 added par. (4) and redesignated former pars. (4) to (10) as (5) to (11), respectively.
 

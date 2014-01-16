@@ -32,13 +32,13 @@ Section was formerly classified to section 1202 of Title 2, The Congress.
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 104–1 amended section generally. Prior to amendment, text read as follows: “All personnel actions affecting employees of the Senate shall be made free from any discrimination based on—
+<b>1994</b>—Pub. L. 104–1 amended section generally. Prior to amendment, text read as follows: "All personnel actions affecting employees of the Senate shall be made free from any discrimination based on—
 
-&emsp;“(1) race, color, religion, sex, or national origin, within the meaning of section 2000e–16 of this title;
+&emsp;"(1) race, color, religion, sex, or national origin, within the meaning of section 2000e–16 of this title;
 
-&emsp;“(2) age, within the meaning of section 633a of title 29; or
+&emsp;"(2) age, within the meaning of section 633a of title 29; or
 
-&emsp;“(3) handicap or disability, within the meaning of section 791 of title 29 and sections 12112 to 12114 of this title.”
+&emsp;"(3) handicap or disability, within the meaning of section 791 of title 29 and sections 12112 to 12114 of this title."
 
 #### Effective Date
 

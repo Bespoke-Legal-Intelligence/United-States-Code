@@ -22,8 +22,8 @@
 | [2616\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002616%20-%20Specific%20enforcement%20and%20seizure.md) | Specific enforcement and seizure. |
 | [2617\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002617%20-%20Preemption.md) | Preemption. |
 | [2618\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002618%20-%20Judicial%20review.md) | Judicial review. |
-| [2619\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002619%20-%20Citizens%E2%80%99%20civil%20actions.md) | Citizens’ civil actions. |
-| [2620\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002620%20-%20Citizens%E2%80%99%20petitions.md) | Citizens’ petitions. |
+| [2619\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002619%20-%20Citizens%27%20civil%20actions.md) | Citizens' civil actions. |
+| [2620\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002620%20-%20Citizens%27%20petitions.md) | Citizens' petitions. |
 | [2621\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002621%20-%20National%20defense%20waiver.md) | National defense waiver. |
 | [2622\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002622%20-%20Employee%20protection.md) | Employee protection. |
 | [2623\.](Subchapter%20001%20%28I%29%20-%20Control%20of%20Toxic%20Substances/%C2%A7%2002623%20-%20Employment%20effects.md) | Employment effects. |

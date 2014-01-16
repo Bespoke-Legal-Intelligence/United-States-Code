@@ -26,17 +26,17 @@ Historical and Revision Notes
 
 Aug. 1, 1953, ch. 305, §609, 67 Stat. 350.
 
-The words “equipment, and materials” are omitted as covered by the word “supplies”. The word “hereafter” is omitted as executed. The words “may be used” are substituted for the words “shall \* \* \* be available”. The words “if the acquisition relates to” are substituted for 31:649b (1st 8 words of last sentence). In clauses (1), (2), and (4), the word “patents” is substituted for the words “letters patent”.
+The words "equipment, and materials" are omitted as covered by the word "supplies". The word "hereafter" is omitted as executed. The words "may be used" are substituted for the words "shall \* \* \* be available". The words "if the acquisition relates to" are substituted for 31:649b (1st 8 words of last sentence). In clauses (1), (2), and (4), the word "patents" is substituted for the words "letters patent".
 
 #### Amendments
 
-<b>1996</b>—Par. (3). Pub. L. 104–106 amended par. (3) generally, substituting “Design and process data, technical data, and computer software” for “Technical data and computer software”.
+<b>1996</b>—Par. (3). Pub. L. 104–106 amended par. (3) generally, substituting "Design and process data, technical data, and computer software" for "Technical data and computer software".
 
 <b>1994</b>—Pars. (3), (4). Pub. L. 103–355 added pars. (3) and (4) and struck out former pars. (3) and (4) which read as follows:
 
-“(3) Designs, processes, and manufacturing data.
+"(3) Designs, processes, and manufacturing data.
 
-“(4) Releases, before suit is brought, for past infringement of patents or copyrights.”
+"(4) Releases, before suit is brought, for past infringement of patents or copyrights."
 
-<b>1960</b>—Pub. L. 86–726 inserted “or copyrights” after “patents” in cl. (4).
+<b>1960</b>—Pub. L. 86–726 inserted "or copyrights" after "patents" in cl. (4).
 

@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title47",
- "package": "USCODE-2012-title47",
+ "package": "USCODE-2013-title47",
  "pieces": [
   {
    "id": "47_",
@@ -359,7 +359,7 @@
      true
     ]
    ],
-   "path": "Chapter 002 - Submarine Cables/§ 00038 - “United States” defined.md",
+   "path": "Chapter 002 - Submarine Cables/§ 00038 - United States defined.md",
    "printed_pages": [
     6,
     7
@@ -414,10 +414,14 @@
    "id": "47_83a_to_83e",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 8]",
-     true
+     "I",
+     12,
+     [
+      [
+       110,
+       "[Page 8]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 004 - Radio Act of 1927/§ 00083a to 83e - Omitted.md",
@@ -922,7 +926,7 @@
      4,
      [
       [
-       617,
+       287,
        "[Page 43]"
       ]
      ]
@@ -951,7 +955,7 @@
      4,
      [
       [
-       744,
+       413,
        "[Page 44]"
       ]
      ]
@@ -968,10 +972,10 @@
    "marks": [
     [
      "I",
-     4,
+     2,
      [
       [
-       191,
+       2012,
        "[Page 45]"
       ]
      ]
@@ -987,14 +991,10 @@
    "id": "47_205",
    "marks": [
     [
-     "I",
+     "L",
      4,
-     [
-      [
-       342,
-       "[Page 46]"
-      ]
-     ]
+     "[Page 46]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00205 - Commission authorized to prescribe just and reasonable charges; penalties for violations.md",
@@ -1006,7 +1006,7 @@
   {
    "id": "47_206",
    "marks": [],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00206 - Carriers’ liability for damages.md",
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00206 - Carriers' liability for damages.md",
    "printed_pages": [
     46,
     46
@@ -1025,10 +1025,14 @@
    "id": "47_208",
    "marks": [
     [
-     "L",
-     30,
-     "[Page 47]",
-     true
+     "I",
+     24,
+     [
+      [
+       103,
+       "[Page 47]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00208 - Complaints to Commission; investigations; duration of investigation; appeal of order concluding investigation.md",
@@ -1066,66 +1070,63 @@
   },
   {
    "id": "47_212",
-   "marks": [],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00212 - Interlocking directorates; officials dealing in securities.md",
-   "printed_pages": [
-    47,
-    47
-   ]
-  },
-  {
-   "id": "47_213",
    "marks": [
     [
      "I",
-     4,
+     14,
      [
       [
-       87,
+       327,
        "[Page 48]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00213 - Valuation of property of carrier.md",
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00212 - Interlocking directorates; officials dealing in securities.md",
    "printed_pages": [
     47,
     48
    ]
   },
   {
+   "id": "47_213",
+   "marks": [
+    [
+     "L",
+     40,
+     "[Page 49]",
+     true
+    ]
+   ],
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00213 - Valuation of property of carrier.md",
+   "printed_pages": [
+    48,
+    49
+   ]
+  },
+  {
    "id": "47_214",
    "marks": [
     [
-     "I",
-     4,
-     [
-      [
-       98,
-       "[Page 49]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     30,
-     [
-      [
-       312,
-       "[Page 50]"
-      ]
-     ]
-    ],
-    [
      "L",
-     68,
-     "[Page 51]",
+     28,
+     "[Page 50]",
      true
+    ],
+    [
+     "I",
+     56,
+     [
+      [
+       111,
+       "[Page 51]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00214 - Extension of lines or discontinuance of service; certificate of public convenience and necessity.md",
    "printed_pages": [
-    48,
+    49,
     51
    ]
   },
@@ -1152,12 +1153,12 @@
    "marks": [
     [
      "L",
-     10,
+     4,
      "[Page 52]",
      true
     ]
    ],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00217 - Agents’ acts and omissions; liability of carrier.md",
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00217 - Agents' acts and omissions; liability of carrier.md",
    "printed_pages": [
     51,
     52
@@ -1185,16 +1186,24 @@
    "id": "47_220",
    "marks": [
     [
-     "L",
-     8,
-     "[Page 53]",
-     true
+     "I",
+     6,
+     [
+      [
+       139,
+       "[Page 53]"
+      ]
+     ]
     ],
     [
-     "L",
-     40,
-     "[Page 54]",
-     true
+     "I",
+     38,
+     [
+      [
+       84,
+       "[Page 54]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00220 - Accounts, records, and memoranda.md",
@@ -1216,17 +1225,21 @@
    "id": "47_222",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 55]",
-     true
+     "I",
+     8,
+     [
+      [
+       178,
+       "[Page 55]"
+      ]
+     ]
     ],
     [
      "I",
      66,
      [
       [
-       139,
+       96,
        "[Page 56]"
       ]
      ]
@@ -1264,14 +1277,10 @@
      true
     ],
     [
-     "I",
-     232,
-     [
-      [
-       103,
-       "[Page 60]"
-      ]
-     ]
+     "L",
+     234,
+     "[Page 60]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00223 - Obscene or harassing telephone calls in the District of Columbia or in interstate or foreign communications.md",
@@ -1284,17 +1293,21 @@
    "id": "47_224",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 61]",
-     true
+     "I",
+     18,
+     [
+      [
+       279,
+       "[Page 61]"
+      ]
+     ]
     ],
     [
      "I",
-     76,
+     72,
      [
       [
-       88,
+       92,
        "[Page 62]"
       ]
      ]
@@ -1310,14 +1323,18 @@
    "id": "47_225",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 63]",
-     true
+     "I",
+     30,
+     [
+      [
+       374,
+       "[Page 63]"
+      ]
+     ]
     ],
     [
      "L",
-     112,
+     102,
      "[Page 64]",
      true
     ]
@@ -1332,30 +1349,30 @@
    "id": "47_226",
    "marks": [
     [
-     "I",
-     48,
-     [
-      [
-       273,
-       "[Page 65]"
-      ]
-     ]
+     "L",
+     46,
+     "[Page 65]",
+     true
     ],
     [
      "I",
-     124,
+     118,
      [
       [
-       226,
+       100,
        "[Page 66]"
       ]
      ]
     ],
     [
-     "L",
-     196,
-     "[Page 67]",
-     true
+     "I",
+     190,
+     [
+      [
+       137,
+       "[Page 67]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00226 - Telephone operator services.md",
@@ -1369,73 +1386,65 @@
    "marks": [
     [
      "I",
-     22,
+     20,
      [
       [
-       133,
+       95,
        "[Page 68]"
       ]
      ]
     ],
     [
      "I",
-     86,
+     80,
      [
       [
-       100,
+       180,
        "[Page 69]"
       ]
      ]
     ],
     [
      "L",
-     140,
+     138,
      "[Page 70]",
      true
     ],
     [
      "I",
-     198,
+     194,
      [
       [
-       138,
+       136,
        "[Page 71]"
       ]
      ]
     ],
     [
-     "I",
-     266,
-     [
-      [
-       228,
-       "[Page 72]"
-      ]
-     ]
+     "L",
+     262,
+     "[Page 72]",
+     true
+    ],
+    [
+     "L",
+     334,
+     "[Page 73]",
+     true
     ],
     [
      "I",
-     340,
+     396,
      [
       [
-       222,
-       "[Page 73]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     400,
-     [
-      [
-       229,
+       140,
        "[Page 74]"
       ]
      ]
     ],
     [
      "L",
-     496,
+     488,
      "[Page 75]",
      true
     ]
@@ -1451,29 +1460,33 @@
    "marks": [
     [
      "I",
-     44,
+     34,
      [
       [
-       96,
+       138,
        "[Page 76]"
       ]
      ]
     ],
     [
      "L",
-     120,
+     108,
      "[Page 77]",
      true
     ],
     [
-     "L",
-     192,
-     "[Page 78]",
-     true
+     "I",
+     186,
+     [
+      [
+       190,
+       "[Page 78]"
+      ]
+     ]
     ],
     [
      "L",
-     264,
+     254,
      "[Page 79]",
      true
     ]
@@ -1488,10 +1501,14 @@
    "id": "47_229",
    "marks": [
     [
-     "L",
-     38,
-     "[Page 80]",
-     true
+     "I",
+     32,
+     [
+      [
+       133,
+       "[Page 80]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 001 (I) - Common Carrier Regulation/§ 00229 - Communications Assistance for Law Enforcement Act compliance.md",
@@ -1505,10 +1522,10 @@
    "marks": [
     [
      "I",
-     64,
+     52,
      [
       [
-       95,
+       99,
        "[Page 81]"
       ]
      ]
@@ -1524,20 +1541,28 @@
    "id": "47_231",
    "marks": [
     [
-     "L",
-     38,
-     "[Page 82]",
-     true
+     "I",
+     26,
+     [
+      [
+       138,
+       "[Page 82]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     100,
+     [
+      [
+       178,
+       "[Page 83]"
+      ]
+     ]
     ],
     [
      "L",
-     112,
-     "[Page 83]",
-     true
-    ],
-    [
-     "L",
-     254,
+     234,
      "[Page 84]",
      true
     ]
@@ -1561,21 +1586,17 @@
    "id": "47_251",
    "marks": [
     [
-     "I",
-     68,
-     [
-      [
-       141,
-       "[Page 85]"
-      ]
-     ]
+     "L",
+     62,
+     "[Page 85]",
+     true
     ],
     [
      "I",
-     130,
+     122,
      [
       [
-       92,
+       682,
        "[Page 86]"
       ]
      ]
@@ -1591,30 +1612,30 @@
    "id": "47_252",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 87]",
-     true
-    ],
-    [
      "I",
-     96,
+     10,
      [
       [
        92,
+       "[Page 87]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     86,
+     [
+      [
+       96,
        "[Page 88]"
       ]
      ]
     ],
     [
-     "I",
-     158,
-     [
-      [
-       189,
-       "[Page 89]"
-      ]
-     ]
+     "L",
+     152,
+     "[Page 89]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 002 (II) - Development of Competitive Markets/§ 00252 - Procedures for negotiation, arbitration, and approval of agreements.md",
@@ -1636,72 +1657,64 @@
    "id": "47_254",
    "marks": [
     [
-     "I",
-     14,
-     [
-      [
-       87,
-       "[Page 90]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 90]",
+     true
+    ],
+    [
+     "L",
+     74,
+     "[Page 91]",
+     true
+    ],
+    [
+     "L",
+     126,
+     "[Page 92]",
+     true
     ],
     [
      "I",
-     80,
+     190,
      [
       [
-       92,
-       "[Page 91]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     134,
-     [
-      [
-       431,
-       "[Page 92]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     196,
-     [
-      [
-       258,
+       173,
        "[Page 93]"
       ]
      ]
     ],
     [
-     "L",
-     278,
-     "[Page 94]",
-     true
+     "I",
+     268,
+     [
+      [
+       96,
+       "[Page 94]"
+      ]
+     ]
     ],
     [
      "L",
-     342,
+     324,
      "[Page 95]",
      true
     ],
     [
-     "L",
-     430,
-     "[Page 96]",
-     true
-    ],
-    [
      "I",
-     512,
+     420,
      [
       [
-       310,
-       "[Page 97]"
+       96,
+       "[Page 96]"
       ]
      ]
+    ],
+    [
+     "L",
+     502,
+     "[Page 97]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 002 (II) - Development of Competitive Markets/§ 00254 - Universal service.md",
@@ -1723,14 +1736,10 @@
    "id": "47_256",
    "marks": [
     [
-     "I",
-     34,
-     [
-      [
-       217,
-       "[Page 98]"
-      ]
-     ]
+     "L",
+     26,
+     "[Page 98]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 002 (II) - Development of Competitive Markets/§ 00256 - Coordination for interconnectivity.md",
@@ -1762,10 +1771,10 @@
    "marks": [
     [
      "I",
-     20,
+     16,
      [
       [
-       184,
+       94,
        "[Page 99]"
       ]
      ]
@@ -1808,34 +1817,30 @@
    "id": "47_271",
    "marks": [
     [
+     "I",
+     10,
+     [
+      [
+       92,
+       "[Page 100]"
+      ]
+     ]
+    ],
+    [
      "L",
-     16,
-     "[Page 100]",
+     70,
+     "[Page 101]",
      true
     ],
     [
-     "I",
-     76,
-     [
-      [
-       208,
-       "[Page 101]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     148,
-     [
-      [
-       93,
-       "[Page 102]"
-      ]
-     ]
+     "L",
+     138,
+     "[Page 102]",
+     true
     ],
     [
      "L",
-     206,
+     198,
      "[Page 103]",
      true
     ]
@@ -1851,10 +1856,10 @@
    "marks": [
     [
      "I",
-     68,
+     64,
      [
       [
-       96,
+       179,
        "[Page 104]"
       ]
      ]
@@ -1870,27 +1875,31 @@
    "id": "47_273",
    "marks": [
     [
-     "L",
-     18,
-     "[Page 105]",
-     true
+     "I",
+     10,
+     [
+      [
+       178,
+       "[Page 105]"
+      ]
+     ]
     ],
     [
      "I",
-     78,
+     76,
      [
       [
-       181,
+       92,
        "[Page 106]"
       ]
      ]
     ],
     [
      "I",
-     124,
+     120,
      [
       [
-       88,
+       228,
        "[Page 107]"
       ]
      ]
@@ -1906,22 +1915,34 @@
    "id": "47_274",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 108]",
-     true
+     "I",
+     8,
+     [
+      [
+       92,
+       "[Page 108]"
+      ]
+     ]
     ],
     [
-     "L",
-     70,
-     "[Page 109]",
-     true
+     "I",
+     68,
+     [
+      [
+       88,
+       "[Page 109]"
+      ]
+     ]
     ],
     [
-     "L",
-     148,
-     "[Page 110]",
-     true
+     "I",
+     142,
+     [
+      [
+       135,
+       "[Page 110]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 002 (II) - Common Carriers/Part 003 (III) - Special Provisions Concerning Bell Operating Companies/§ 00274 - Electronic publishing by Bell operating companies.md",
@@ -1935,10 +1956,10 @@
    "marks": [
     [
      "I",
-     36,
+     34,
      [
       [
-       96,
+       93,
        "[Page 111]"
       ]
      ]
@@ -1985,7 +2006,7 @@
      2,
      [
       [
-       1324,
+       901,
        "[Page 112]"
       ]
      ]
@@ -2010,14 +2031,10 @@
    "id": "47_302a",
    "marks": [
     [
-     "I",
-     44,
-     [
-      [
-       93,
-       "[Page 113]"
-      ]
-     ]
+     "L",
+     40,
+     "[Page 113]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00302a - Devices which interfere with radio reception.md",
@@ -2030,17 +2047,21 @@
    "id": "47_303",
    "marks": [
     [
-     "L",
-     20,
-     "[Page 114]",
-     true
+     "I",
+     14,
+     [
+      [
+       423,
+       "[Page 114]"
+      ]
+     ]
     ],
     [
      "I",
-     58,
+     56,
      [
       [
-       142,
+       90,
        "[Page 115]"
       ]
      ]
@@ -2050,55 +2071,63 @@
      108,
      [
       [
-       461,
+       101,
        "[Page 116]"
       ]
      ]
     ],
     [
-     "L",
-     164,
-     "[Page 117]",
-     true
-    ],
-    [
-     "L",
-     234,
-     "[Page 118]",
-     true
+     "I",
+     156,
+     [
+      [
+       108,
+       "[Page 117]"
+      ]
+     ]
     ],
     [
      "I",
-     340,
+     228,
      [
       [
-       109,
+       678,
+       "[Page 118]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     334,
+     [
+      [
+       100,
        "[Page 119]"
       ]
      ]
     ],
     [
      "I",
-     428,
+     422,
      [
       [
-       165,
+       153,
        "[Page 120]"
       ]
      ]
     ],
     [
      "L",
-     524,
+     512,
      "[Page 121]",
      true
     ],
     [
      "I",
-     602,
+     594,
      [
       [
-       109,
+       165,
        "[Page 122]"
       ]
      ]
@@ -2123,14 +2152,10 @@
    "id": "47_303b",
    "marks": [
     [
-     "I",
-     10,
-     [
-      [
-       92,
-       "[Page 123]"
-      ]
-     ]
+     "L",
+     4,
+     "[Page 123]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00303b - Consideration of children's television service in broadcast license renewal.md",
@@ -2161,57 +2186,53 @@
    "id": "47_305",
    "marks": [
     [
-     "I",
-     12,
-     [
-      [
-       511,
-       "[Page 124]"
-      ]
-     ]
+     "L",
+     10,
+     "[Page 124]",
+     true
     ],
     [
      "I",
-     78,
+     72,
      [
       [
-       158,
+       217,
        "[Page 125]"
       ]
      ]
     ],
     [
      "I",
-     126,
+     120,
      [
       [
-       323,
+       106,
        "[Page 126]"
       ]
      ]
     ],
     [
      "L",
-     206,
+     198,
      "[Page 127]",
      true
     ],
     [
      "I",
-     286,
+     278,
      [
       [
-       160,
+       103,
        "[Page 128]"
       ]
      ]
     ],
     [
      "I",
-     370,
+     368,
      [
       [
-       206,
+       106,
        "[Page 129]"
       ]
      ]
@@ -2240,7 +2261,7 @@
      38,
      [
       [
-       803,
+       277,
        "[Page 130]"
       ]
      ]
@@ -2257,10 +2278,10 @@
    "marks": [
     [
      "I",
-     8,
+     4,
      [
       [
-       190,
+       1345,
        "[Page 131]"
       ]
      ]
@@ -2277,10 +2298,10 @@
    "marks": [
     [
      "I",
-     44,
+     40,
      [
       [
-       94,
+       142,
        "[Page 132]"
       ]
      ]
@@ -2290,125 +2311,129 @@
      72,
      [
       [
-       522,
+       89,
        "[Page 133]"
       ]
      ]
     ],
     [
-     "I",
-     132,
-     [
-      [
-       180,
-       "[Page 134]"
-      ]
-     ]
+     "L",
+     128,
+     "[Page 134]",
+     true
     ],
     [
      "L",
-     176,
+     170,
      "[Page 135]",
      true
     ],
     [
-     "I",
-     232,
-     [
-      [
-       224,
-       "[Page 136]"
-      ]
-     ]
-    ],
-    [
-     "I",
-     300,
-     [
-      [
-       96,
-       "[Page 137]"
-      ]
-     ]
+     "L",
+     230,
+     "[Page 136]",
+     true
     ],
     [
      "L",
-     376,
+     296,
+     "[Page 137]",
+     true
+    ],
+    [
+     "L",
+     374,
      "[Page 138]",
      true
     ],
     [
-     "L",
-     428,
-     "[Page 139]",
-     true
+     "I",
+     426,
+     [
+      [
+       349,
+       "[Page 139]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     498,
+     [
+      [
+       177,
+       "[Page 140]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     566,
+     [
+      [
+       94,
+       "[Page 141]"
+      ]
+     ]
     ],
     [
      "L",
-     502,
-     "[Page 140]",
-     true
-    ],
-    [
-     "L",
-     568,
-     "[Page 141]",
-     true
-    ],
-    [
-     "L",
-     654,
+     650,
      "[Page 142]",
      true
     ],
     [
-     "L",
-     728,
-     "[Page 143]",
-     true
+     "I",
+     724,
+     [
+      [
+       492,
+       "[Page 143]"
+      ]
+     ]
     ],
     [
      "I",
      792,
      [
       [
-       701,
+       258,
        "[Page 144]"
       ]
      ]
     ],
     [
-     "I",
-     914,
-     [
-      [
-       243,
-       "[Page 145]"
-      ]
-     ]
+     "L",
+     910,
+     "[Page 145]",
+     true
     ],
     [
-     "L",
-     1006,
-     "[Page 146]",
-     true
+     "I",
+     1004,
+     [
+      [
+       194,
+       "[Page 146]"
+      ]
+     ]
     ],
     [
      "I",
      1082,
      [
       [
-       803,
+       313,
        "[Page 147]"
       ]
      ]
     ],
     [
      "I",
-     1152,
+     1146,
      [
       [
-       104,
+       106,
        "[Page 148]"
       ]
      ]
@@ -2428,7 +2453,7 @@
      20,
      [
       [
-       606,
+       185,
        "[Page 149]"
       ]
      ]
@@ -2444,14 +2469,10 @@
    "id": "47_311",
    "marks": [
     [
-     "I",
-     10,
-     [
-      [
-       98,
-       "[Page 150]"
-      ]
-     ]
+     "L",
+     6,
+     "[Page 150]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00311 - Requirements as to certain applications in broadcasting service.md",
@@ -2464,16 +2485,24 @@
    "id": "47_312",
    "marks": [
     [
-     "L",
-     14,
-     "[Page 151]",
-     true
+     "I",
+     8,
+     [
+      [
+       89,
+       "[Page 151]"
+      ]
+     ]
     ],
     [
-     "L",
-     72,
-     "[Page 152]",
-     true
+     "I",
+     60,
+     [
+      [
+       383,
+       "[Page 152]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00312 - Administrative sanctions.md",
@@ -2508,7 +2537,7 @@
      2,
      [
       [
-       1367,
+       996,
        "[Page 153]"
       ]
      ]
@@ -2525,19 +2554,23 @@
    "marks": [
     [
      "I",
-     42,
+     38,
      [
       [
-       103,
+       93,
        "[Page 154]"
       ]
      ]
     ],
     [
-     "L",
-     128,
-     "[Page 155]",
-     true
+     "I",
+     126,
+     [
+      [
+       105,
+       "[Page 155]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00315 - Candidates for public office.md",
@@ -2550,14 +2583,10 @@
    "id": "47_316",
    "marks": [
     [
-     "I",
+     "L",
      24,
-     [
-      [
-       165,
-       "[Page 156]"
-      ]
-     ]
+     "[Page 156]",
+     true
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00316 - Modification by Commission of station licenses or construction permits; burden of proof.md",
@@ -2592,16 +2621,20 @@
      4,
      [
       [
-       283,
+       95,
        "[Page 157]"
       ]
      ]
     ],
     [
-     "L",
-     34,
-     "[Page 158]",
-     true
+     "I",
+     32,
+     [
+      [
+       1289,
+       "[Page 158]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00319 - Construction permits.md",
@@ -2650,10 +2683,14 @@
    "id": "47_324",
    "marks": [
     [
-     "L",
-     6,
-     "[Page 159]",
-     true
+     "I",
+     2,
+     [
+      [
+       187,
+       "[Page 159]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 005 - Wire or Radio Communication/Subchapter 003 (III) - Special Provisions Relating to Radio/Part 001 (I) - General Provisions/§ 00324 - Use of minimum power.md",
@@ -2670,7 +2707,7 @@
      54,
      [
       [
-       226,
+       93,
        "[Page 160]"
       ]
      ]
@@ -3934,7 +3971,7 @@
   {
    "id": "47_407",
    "marks": [],
-   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 004 (IV) - Procedural and Administrative Provisions/§ 00407 - Order for payment of money; petition for enforcement; procedure; order of Commission as prima facie evidence; costs; attorneys’ fees.md",
+   "path": "Chapter 005 - Wire or Radio Communication/Subchapter 004 (IV) - Procedural and Administrative Provisions/§ 00407 - Order for payment of money; petition for enforcement; procedure; order of Commission as prima facie evidence; costs; attorneys' fees.md",
    "printed_pages": [
     232,
     232
@@ -5502,7 +5539,7 @@
    "marks": [
     [
      "L",
-     26,
+     24,
      "[Page 315]",
      true
     ]
@@ -5988,26 +6025,26 @@
    "marks": [
     [
      "I",
-     38,
+     36,
      [
       [
-       176,
+       140,
        "[Page 328]"
       ]
      ]
     ],
     [
      "L",
-     92,
+     90,
      "[Page 329]",
      true
     ],
     [
      "I",
-     178,
+     176,
      [
       [
-       113,
+       103,
        "[Page 330]"
       ]
      ]
@@ -6023,14 +6060,10 @@
    "id": "47_903",
    "marks": [
     [
-     "I",
-     46,
-     [
-      [
-       95,
-       "[Page 331]"
-      ]
-     ]
+     "L",
+     42,
+     "[Page 331]",
+     true
     ]
    ],
    "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 001 (I) - Organization and Functions/§ 00903 - Spectrum management activities.md",
@@ -6044,10 +6077,10 @@
    "marks": [
     [
      "I",
-     32,
+     28,
      [
       [
-       96,
+       94,
        "[Page 332]"
       ]
      ]
@@ -6082,7 +6115,7 @@
    "marks": [
     [
      "L",
-     34,
+     30,
      "[Page 333]",
      true
     ]
@@ -6106,21 +6139,17 @@
    "id": "47_923",
    "marks": [
     [
-     "I",
-     20,
-     [
-      [
-       93,
-       "[Page 334]"
-      ]
-     ]
+     "L",
+     14,
+     "[Page 334]",
+     true
     ],
     [
      "I",
-     100,
+     96,
      [
       [
-       95,
+       98,
        "[Page 335]"
       ]
      ]
@@ -6130,48 +6159,52 @@
      158,
      [
       [
-       422,
+       92,
        "[Page 336]"
       ]
      ]
     ],
     [
      "I",
-     210,
+     206,
      [
       [
-       91,
+       99,
        "[Page 337]"
       ]
      ]
     ],
     [
      "L",
-     272,
+     264,
      "[Page 338]",
      true
     ],
     [
      "L",
-     360,
+     350,
      "[Page 339]",
      true
     ],
     [
      "I",
-     428,
+     426,
      [
       [
-       367,
+       179,
        "[Page 340]"
       ]
      ]
     ],
     [
-     "L",
-     486,
-     "[Page 341]",
-     true
+     "I",
+     484,
+     [
+      [
+       114,
+       "[Page 341]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 002 (II) - Transfer of Auctionable Frequencies/§ 00923 - Identification of reallocable frequencies.md",
@@ -6194,20 +6227,20 @@
    "marks": [
     [
      "I",
-     14,
+     10,
      [
       [
-       98,
+       97,
        "[Page 342]"
       ]
      ]
     ],
     [
      "I",
-     106,
+     100,
      [
       [
-       138,
+       310,
        "[Page 343]"
       ]
      ]
@@ -6241,22 +6274,34 @@
    "id": "47_928",
    "marks": [
     [
-     "L",
-     10,
-     "[Page 344]",
-     true
+     "I",
+     4,
+     [
+      [
+       90,
+       "[Page 344]"
+      ]
+     ]
     ],
     [
-     "L",
-     72,
-     "[Page 345]",
-     true
+     "I",
+     70,
+     [
+      [
+       414,
+       "[Page 345]"
+      ]
+     ]
     ],
     [
-     "L",
-     146,
-     "[Page 346]",
-     true
+     "I",
+     142,
+     [
+      [
+       216,
+       "[Page 346]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 002 (II) - Transfer of Auctionable Frequencies/§ 00928 - Spectrum Relocation Fund.md",
@@ -6288,19 +6333,15 @@
    "marks": [
     [
      "L",
-     28,
+     26,
      "[Page 347]",
      true
     ],
     [
-     "I",
+     "L",
      94,
-     [
-      [
-       179,
-       "[Page 348]"
-      ]
-     ]
+     "[Page 348]",
+     true
     ]
    ],
    "path": "Chapter 008 - National Telecommunications and Information Administration/Subchapter 003 (III) - Miscellaneous/§ 00941 - Child-friendly second-level Internet domain.md",
@@ -6317,7 +6358,7 @@
      8,
      [
       [
-       215,
+       95,
        "[Page 349]"
       ]
      ]
@@ -6327,7 +6368,7 @@
      88,
      [
       [
-       140,
+       95,
        "[Page 350]"
       ]
      ]
@@ -6837,37 +6878,72 @@
        "[Page 374]"
       ]
      ]
+    ],
+    [
+     "I",
+     182,
+     [
+      [
+       424,
+       "[Page 375]"
+      ]
+     ]
+    ],
+    [
+     "I",
+     200,
+     [
+      [
+       158,
+       "[Page 376]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012 - Broadband/§ 01301 - Findings.md",
    "printed_pages": [
     371,
-    374
+    376
    ]
   },
   {
    "id": "47_1302",
    "marks": [
     [
-     "L",
-     44,
-     "[Page 375]",
-     true
+     "I",
+     26,
+     [
+      [
+       89,
+       "[Page 377]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 012 - Broadband/§ 01302 - Advanced telecommunications incentives.md",
    "printed_pages": [
-    374,
-    375
+    376,
+    377
    ]
   },
   {
    "id": "47_1303",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     48,
+     [
+      [
+       317,
+       "[Page 378]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 012 - Broadband/§ 01303 - Improving Federal data on broadband.md",
    "printed_pages": [
-    375,
-    375
+    377,
+    378
    ]
   },
   {
@@ -6875,97 +6951,90 @@
    "marks": [
     [
      "I",
-     10,
+     84,
      [
       [
-       97,
-       "[Page 376]"
+       270,
+       "[Page 379]"
       ]
      ]
-    ],
-    [
-     "L",
-     98,
-     "[Page 377]",
-     true
     ]
    ],
    "path": "Chapter 012 - Broadband/§ 01304 - Encouraging State initiatives to improve broadband.md",
    "printed_pages": [
-    375,
-    377
+    378,
+    379
    ]
   },
   {
    "id": "47_1305",
    "marks": [
     [
+     "I",
+     16,
+     [
+      [
+       92,
+       "[Page 380]"
+      ]
+     ]
+    ],
+    [
      "L",
-     32,
-     "[Page 378]",
+     100,
+     "[Page 381]",
      true
     ],
     [
-     "I",
-     122,
-     [
-      [
-       191,
-       "[Page 379]"
-      ]
-     ]
+     "L",
+     162,
+     "[Page 382]",
+     true
     ]
    ],
    "path": "Chapter 012 - Broadband/§ 01305 - Broadband Technology Opportunities Program.md",
    "printed_pages": [
-    377,
-    379
+    379,
+    382
    ]
   },
   {
    "id": "47_-ch13",
-   "marks": [
-    [
-     "I",
-     26,
-     [
-      [
-       43,
-       "[Page 380]"
-      ]
-     ]
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/README.md",
    "printed_pages": [
-    379,
-    380
+    382,
+    382
    ]
   },
   {
    "id": "47_1401",
    "marks": [
     [
-     "L",
-     78,
-     "[Page 381]",
-     true
+     "I",
+     56,
+     [
+      [
+       131,
+       "[Page 383]"
+      ]
+     ]
     ],
     [
      "I",
-     186,
+     164,
      [
       [
-       105,
-       "[Page 382]"
+       92,
+       "[Page 384]"
       ]
      ]
     ]
    ],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/§ 01401 - Definitions.md",
    "printed_pages": [
-    380,
-    382
+    382,
+    384
    ]
   },
   {
@@ -6973,8 +7042,8 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/§ 01402 - Rule of construction.md",
    "printed_pages": [
-    382,
-    382
+    384,
+    384
    ]
   },
   {
@@ -6982,8 +7051,8 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/§ 01403 - Enforcement.md",
    "printed_pages": [
-    382,
-    382
+    384,
+    384
    ]
   },
   {
@@ -6991,8 +7060,8 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/§ 01404 - National security restrictions on use of funds and auction participation.md",
    "printed_pages": [
-    382,
-    382
+    384,
+    384
    ]
   },
   {
@@ -7000,17 +7069,24 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 001 (I) - Reallocation of Public Safety Spectrum/README.md",
    "printed_pages": [
-    382,
-    382
+    384,
+    384
    ]
   },
   {
    "id": "47_1411",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     18,
+     "[Page 385]",
+     true
+    ]
+   ],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 001 (I) - Reallocation of Public Safety Spectrum/§ 01411 - Reallocation of D block to public safety.md",
    "printed_pages": [
-    382,
-    382
+    384,
+    385
    ]
   },
   {
@@ -7018,24 +7094,17 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 001 (I) - Reallocation of Public Safety Spectrum/§ 01412 - Flexible use of narrowband spectrum.md",
    "printed_pages": [
-    382,
-    382
+    385,
+    385
    ]
   },
   {
    "id": "47_1413",
-   "marks": [
-    [
-     "L",
-     14,
-     "[Page 383]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 001 (I) - Reallocation of Public Safety Spectrum/§ 01413 - 470–512 MHz public safety spectrum.md",
    "printed_pages": [
-    382,
-    383
+    385,
+    385
    ]
   },
   {
@@ -7043,8 +7112,8 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 002 (II) - Governance of Public Safety Spectrum/README.md",
    "printed_pages": [
-    383,
-    383
+    385,
+    385
    ]
   },
   {
@@ -7052,8 +7121,8 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 002 (II) - Governance of Public Safety Spectrum/§ 01421 - Single public safety wireless network licensee.md",
    "printed_pages": [
-    383,
-    383
+    385,
+    385
    ]
   },
   {
@@ -7061,24 +7130,28 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 002 (II) - Governance of Public Safety Spectrum/§ 01422 - Public safety broadband network.md",
    "printed_pages": [
-    383,
-    383
+    385,
+    385
    ]
   },
   {
    "id": "47_1423",
    "marks": [
     [
-     "L",
-     34,
-     "[Page 384]",
-     true
+     "I",
+     12,
+     [
+      [
+       96,
+       "[Page 386]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 002 (II) - Governance of Public Safety Spectrum/§ 01423 - Public safety Interoperability Board.md",
    "printed_pages": [
-    383,
-    384
+    385,
+    386
    ]
   },
   {
@@ -7086,21 +7159,25 @@
    "marks": [
     [
      "L",
-     44,
-     "[Page 385]",
+     12,
+     "[Page 387]",
      true
     ],
     [
-     "L",
-     150,
-     "[Page 386]",
-     true
+     "I",
+     132,
+     [
+      [
+       272,
+       "[Page 388]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 002 (II) - Governance of Public Safety Spectrum/§ 01424 - Establishment of the First Responder Network Authority.md",
    "printed_pages": [
-    384,
-    386
+    386,
+    388
    ]
   },
   {
@@ -7108,92 +7185,84 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 002 (II) - Governance of Public Safety Spectrum/§ 01425 - Advisory committees of the First Responder Network Authority.md",
    "printed_pages": [
-    386,
-    386
+    388,
+    388
    ]
   },
   {
    "id": "47_1426",
    "marks": [
     [
-     "I",
-     52,
-     [
-      [
-       94,
-       "[Page 387]"
-      ]
-     ]
+     "L",
+     32,
+     "[Page 389]",
+     true
     ],
     [
-     "I",
-     144,
-     [
-      [
-       271,
-       "[Page 388]"
-      ]
-     ]
+     "L",
+     130,
+     "[Page 390]",
+     true
     ]
    ],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 002 (II) - Governance of Public Safety Spectrum/§ 01426 - Powers, duties, and responsibilities of the First Responder Network Authority.md",
    "printed_pages": [
-    386,
-    388
+    388,
+    390
    ]
   },
   {
    "id": "47_1427",
-   "marks": [],
-   "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 002 (II) - Governance of Public Safety Spectrum/§ 01427 - Initial funding for the First Responder Network Authority.md",
-   "printed_pages": [
-    388,
-    388
-   ]
-  },
-  {
-   "id": "47_1428",
    "marks": [
     [
      "L",
      22,
-     "[Page 389]",
+     "[Page 391]",
      true
     ]
    ],
+   "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 002 (II) - Governance of Public Safety Spectrum/§ 01427 - Initial funding for the First Responder Network Authority.md",
+   "printed_pages": [
+    390,
+    391
+   ]
+  },
+  {
+   "id": "47_1428",
+   "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 002 (II) - Governance of Public Safety Spectrum/§ 01428 - Permanent self-funding; duty to assess and collect fees for network use.md",
    "printed_pages": [
-    388,
-    389
+    391,
+    391
    ]
   },
   {
    "id": "47_1429",
-   "marks": [],
-   "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 002 (II) - Governance of Public Safety Spectrum/§ 01429 - Audit and report.md",
-   "printed_pages": [
-    389,
-    389
-   ]
-  },
-  {
-   "id": "47_1430",
    "marks": [
     [
      "I",
-     16,
+     46,
      [
       [
-       88,
-       "[Page 390]"
+       98,
+       "[Page 392]"
       ]
      ]
     ]
    ],
+   "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 002 (II) - Governance of Public Safety Spectrum/§ 01429 - Audit and report.md",
+   "printed_pages": [
+    391,
+    392
+   ]
+  },
+  {
+   "id": "47_1430",
+   "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 002 (II) - Governance of Public Safety Spectrum/§ 01430 - Annual report to Congress.md",
    "printed_pages": [
-    389,
-    390
+    392,
+    392
    ]
   },
   {
@@ -7201,8 +7270,8 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 002 (II) - Governance of Public Safety Spectrum/§ 01431 - Public safety roaming and priority access.md",
    "printed_pages": [
-    390,
-    390
+    392,
+    392
    ]
   },
   {
@@ -7210,8 +7279,8 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 002 (II) - Governance of Public Safety Spectrum/§ 01432 - Prohibition on direct offering of commercial telecommunications service directly to consumers.md",
    "printed_pages": [
-    390,
-    390
+    392,
+    392
    ]
   },
   {
@@ -7219,8 +7288,8 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 002 (II) - Governance of Public Safety Spectrum/§ 01433 - Provision of technical assistance.md",
    "printed_pages": [
-    390,
-    390
+    392,
+    392
    ]
   },
   {
@@ -7228,39 +7297,48 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 003 (III) - Public Safety Commitments/README.md",
    "printed_pages": [
-    390,
-    390
+    392,
+    392
    ]
   },
   {
    "id": "47_1441",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     22,
+     [
+      [
+       133,
+       "[Page 393]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 003 (III) - Public Safety Commitments/§ 01441 - State and Local Implementation Fund.md",
    "printed_pages": [
-    390,
-    390
+    392,
+    393
    ]
   },
   {
    "id": "47_1442",
    "marks": [
     [
-     "L",
-     12,
-     "[Page 391]",
-     true
-    ],
-    [
-     "L",
-     106,
-     "[Page 392]",
-     true
+     "I",
+     84,
+     [
+      [
+       97,
+       "[Page 394]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 003 (III) - Public Safety Commitments/§ 01442 - State and local implementation.md",
    "printed_pages": [
-    390,
-    392
+    393,
+    394
    ]
   },
   {
@@ -7268,8 +7346,8 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 003 (III) - Public Safety Commitments/§ 01443 - Public safety wireless communications research and development.md",
    "printed_pages": [
-    392,
-    392
+    394,
+    394
    ]
   },
   {
@@ -7277,8 +7355,8 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 004 (IV) - Spectrum Auction Authority/README.md",
    "printed_pages": [
-    392,
-    392
+    394,
+    394
    ]
   },
   {
@@ -7286,47 +7364,43 @@
    "marks": [
     [
      "L",
-     34,
-     "[Page 393]",
+     10,
+     "[Page 395]",
      true
     ]
    ],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 004 (IV) - Spectrum Auction Authority/§ 01451 - Deadlines for auction of certain spectrum.md",
    "printed_pages": [
-    392,
-    393
+    394,
+    395
    ]
   },
   {
    "id": "47_1452",
    "marks": [
     [
-     "I",
-     58,
-     [
-      [
-       99,
-       "[Page 394]"
-      ]
-     ]
-    ],
-    [
      "L",
-     126,
-     "[Page 395]",
+     40,
+     "[Page 396]",
      true
     ],
     [
      "L",
-     212,
-     "[Page 396]",
+     110,
+     "[Page 397]",
+     true
+    ],
+    [
+     "L",
+     192,
+     "[Page 398]",
      true
     ]
    ],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 004 (IV) - Spectrum Auction Authority/§ 01452 - Special requirements for incentive auction of broadcast TV spectrum.md",
    "printed_pages": [
-    393,
-    396
+    395,
+    398
    ]
   },
   {
@@ -7334,8 +7408,8 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 004 (IV) - Spectrum Auction Authority/§ 01453 - Unlicensed use in the 5 GHZ band.md",
    "printed_pages": [
-    396,
-    396
+    398,
+    398
    ]
   },
   {
@@ -7343,53 +7417,53 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 004 (IV) - Spectrum Auction Authority/§ 01454 - Guard bands and unlicensed use.md",
    "printed_pages": [
-    396,
-    396
+    398,
+    398
    ]
   },
   {
    "id": "47_1455",
    "marks": [
     [
-     "I",
-     26,
-     [
-      [
-       550,
-       "[Page 397]"
-      ]
-     ]
+     "L",
+     8,
+     "[Page 399]",
+     true
     ]
    ],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 004 (IV) - Spectrum Auction Authority/§ 01455 - Wireless facilities deployment.md",
    "printed_pages": [
-    396,
-    397
+    398,
+    399
    ]
   },
   {
    "id": "47_1456",
-   "marks": [],
+   "marks": [
+    [
+     "I",
+     2,
+     [
+      [
+       89,
+       "[Page 400]"
+      ]
+     ]
+    ]
+   ],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 004 (IV) - Spectrum Auction Authority/§ 01456 - System certification.md",
    "printed_pages": [
-    397,
-    397
+    399,
+    400
    ]
   },
   {
    "id": "47_1457",
-   "marks": [
-    [
-     "L",
-     16,
-     "[Page 398]",
-     true
-    ]
-   ],
+   "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 004 (IV) - Spectrum Auction Authority/§ 01457 - Public Safety Trust Fund.md",
    "printed_pages": [
-    397,
-    398
+    400,
+    400
    ]
   },
   {
@@ -7397,8 +7471,8 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 005 (V) - Next Generation 9–1–1 Advancement Act of 2012/README.md",
    "printed_pages": [
-    398,
-    398
+    400,
+    400
    ]
   },
   {
@@ -7406,24 +7480,28 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 005 (V) - Next Generation 9–1–1 Advancement Act of 2012/§ 01471 - Definitions.md",
    "printed_pages": [
-    398,
-    398
+    400,
+    400
    ]
   },
   {
    "id": "47_1472",
    "marks": [
     [
-     "L",
-     22,
-     "[Page 399]",
-     true
+     "I",
+     14,
+     [
+      [
+       85,
+       "[Page 401]"
+      ]
+     ]
     ]
    ],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 005 (V) - Next Generation 9–1–1 Advancement Act of 2012/§ 01472 - Parity of protection for provision or use of Next Generation 9–1–1 services.md",
    "printed_pages": [
-    398,
-    399
+    400,
+    401
    ]
   },
   {
@@ -7431,11 +7509,11 @@
    "marks": [],
    "path": "Chapter 013 - Public Safety Communications and Electromagnetic Spectrum Auctions/Subchapter 005 (V) - Next Generation 9–1–1 Advancement Act of 2012/§ 01473 - Commission proceeding on autodialing.md",
    "printed_pages": [
-    399,
-    399
+    401,
+    401
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2012-title47 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2013-title47 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 47 - Telecommunications"
 }

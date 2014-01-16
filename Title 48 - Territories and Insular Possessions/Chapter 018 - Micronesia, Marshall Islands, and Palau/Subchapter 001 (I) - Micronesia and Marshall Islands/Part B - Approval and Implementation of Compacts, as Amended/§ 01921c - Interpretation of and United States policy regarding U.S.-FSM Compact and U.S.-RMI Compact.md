@@ -2,7 +2,7 @@
 
 #### (a) Human rights
 
-In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress notes the conclusion in the Statement of Intent of the Report of The Future Political Status Commission of the Congress of Micronesia in July, 1969, that “our recommendation of a free associated state is indissolubly linked to our desire for such a democratic, representative, constitutional government” and notes that such desire and intention are reaffirmed and embodied in the Constitutions of the Federated States of Micronesia and the Republic of the Marshall Islands. Congress also notes and specifically endorses the preamble to the U.S.-FSM Compact and the U.S.-RMI Compact, which affirms that the governments of the parties to the U.S.-FSM Compact and the U.S.-RMI Compact are founded upon respect for human rights and fundamental freedoms for all. The Secretary of State shall include in the annual reports on the status of internationally recognized human rights in foreign countries, which are submitted to Congress pursuant to sections 2151n and 2304 of title 22, a full and complete report regarding the status of internationally recognized human rights in the Federated States of Micronesia and the Republic of the Marshall Islands.
+In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress notes the conclusion in the Statement of Intent of the Report of The Future Political Status Commission of the Congress of Micronesia in July, 1969, that "our recommendation of a free associated state is indissolubly linked to our desire for such a democratic, representative, constitutional government" and notes that such desire and intention are reaffirmed and embodied in the Constitutions of the Federated States of Micronesia and the Republic of the Marshall Islands. Congress also notes and specifically endorses the preamble to the U.S.-FSM Compact and the U.S.-RMI Compact, which affirms that the governments of the parties to the U.S.-FSM Compact and the U.S.-RMI Compact are founded upon respect for human rights and fundamental freedoms for all. The Secretary of State shall include in the annual reports on the status of internationally recognized human rights in foreign countries, which are submitted to Congress pursuant to sections 2151n and 2304 of title 22, a full and complete report regarding the status of internationally recognized human rights in the Federated States of Micronesia and the Republic of the Marshall Islands.
 
 #### (b) Immigration and passport security
 
@@ -12,7 +12,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress notes the c
 
 #### (2) Passports
 
-&emsp;It is the sense of Congress that up to $250,000 of the grant assistance provided to the Federated States of Micronesia pursuant to section 211(a)(4) of the U.S.-FSM Compact, and up to $250,000 of the grant assistance provided to the Republic of the Marshall Islands pursuant to section 211(a)(4) of the U.S.-RMI Compact (or a greater amount of the section 211(a)(4) grant, if mutually agreed between the Government of the United States and the government of the Federated States of Micronesia or the government of the Republic of the Marshall Islands), be used for the purpose of increasing the machine-readability and security of passports issued by such jurisdictions. It is further the sense of Congress that such funds be obligated by September 30, 2004 and in the amount and manner specified by the Secretary of State in consultation with the Secretary of Homeland Security and, respectively, with the government of the Federated States of Micronesia and the government of the Republic of the Marshall Islands. The United States Government is authorized to require that passports used for the purpose of seeking admission under section 141 of the U.S.-FSM Compact and the U.S.-RMI Compact contain the security enhancements funded by such assistance.
+&emsp;It is the sense of Congress that up to $250,000 of the grant assistance provided to the Federated States of Micronesia pursuant to section 211(a)(4) of the U.S.-FSM Compact, and up to $250,000 of the grant assistance provided to the Republic of the Marshall Islands pursuant to section 211(a)(4) of the U.S.-RMI Compact (or a greater amount of the section 211(a)(4) grant, if mutually agreed between the Government of the United States and the government of the Federated States of Micronesia or the government of the Republic of the Marshall Islands), be used for the purpose of increasing the machine-readability and security of passports issued by such jurisdictions. It is further the sense of Congress that such funds be obligated by September 30, 2004 and in the amountand manner specified by the Secretary of State in consultation with the Secretary of Homeland Security and, respectively, with the government of the Federated States of Micronesia and the government of the Republic of the Marshall Islands. The United States Government is authorized to require that passports used for the purpose of seeking admission under section 141 of the U.S.-FSM Compact and the U.S.-RMI Compact contain the security enhancements funded by such assistance.
 
 #### (3) Information-sharing
 
@@ -20,7 +20,7 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress notes the c
 
 #### (4) Transition; construction of sections 141(a)(3) and 141(a)(4) of the U.S.-FSM Compact and U.S.-RMI Compact
 
-&emsp;The words “the effective date of this Compact, as amended” in sections 141(a)(3) and 141(a)(4) of the U.S.-FSM Compact and the U.S.-RMI Compact shall be construed to read, “on the day prior to the enactment by the United States Congress of the Compact of Free Association Amendments Act of 2003.”.
+&emsp;The words "the effective date of this Compact, as amended" in sections 141(a)(3) and 141(a)(4) of the U.S.-FSM Compact and the U.S.-RMI Compact shall be construed to read, "on the day prior to the enactment by the United States Congress of the Compact of Free Association Amendments Act of 2003.".
 
 #### (c) Nonalienation of lands
 
@@ -28,7 +28,7 @@ Congress endorses and encourages the maintenance of the policies of the Governme
 
 #### (d) Nuclear waste disposal
 
-In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands that the Government of the Federated States of Micronesia and the Government of the Republic of the Marshall Islands will not permit any other government or any nongovernmental party toconduct, in the Republic of the Marshall Islands or in the Federated States of Micronesia, any of the activities specified in subsection (a) of section 314 of the U.S.-FSM Compact and the U.S.-RMI Compact.
+In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands that the Government of the Federated States of Micronesia and the Government of the Republic of the Marshall Islands will not permit any other government or any nongovernmental party to conduct, in the Republic of the Marshall Islands or in the Federated States of Micronesia, any of the activities specified in subsection (a) of section 314 of the U.S.-FSM Compact and the U.S.-RMI Compact.
 
 #### (e) Impact of the U.S.-FSM Compact and the U.S.-RMI Compact on the State of Hawaii, Guam, the Commonwealth of the Northern Mariana Islands and American Samoa; related authorization and continuing appropriation
 
@@ -40,9 +40,9 @@ In approving the U.S.-FSM Compact and the U.S.-RMI Compact, Congress understands
 
 &emsp;For the purposes of this part—
 
-&emsp;&emsp;(A) the term “affected jurisdiction” means American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, or the State of Hawaii; and
+&emsp;&emsp;(A) the term "affected jurisdiction" means American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, or the State of Hawaii; and
 
-&emsp;&emsp;(B) the term “qualified nonimmigrant” means a person, or their children under the age of 18, admitted or resident pursuant to section 141 of the U.S.-RMI or U.S.-FSM Compact, or section 141 of the Palau Compact who, as of a date referenced in the most recently published enumeration is a resident of an affected jurisdiction. As used in this subsection, the term “resident” shall be a person who has a “residence,” as that term is defined in section 101(a)(33) of the Immigration and Nationality Act, as amended \[8 U.S.C. 1101(a)(33)\].
+&emsp;&emsp;(B) the term "qualified nonimmigrant" means a person, or their children under the age of 18, admitted or resident pursuant to section 141 of the U.S.-RMI or U.S.-FSM Compact, or section 141 of the Palau Compact who, as of a date referenced in the most recently published enumeration is a resident of an affected jurisdiction. As used in this subsection, the term "resident" shall be a person who has a "residence," as that term is defined in section 101(a)(33) of the Immigration and Nationality Act, as amended \[8 U.S.C. 1101(a)(33)\].
 
 #### (3) Authorization and continuing appropriation
 
@@ -154,11 +154,11 @@ It is the sense of Congress that not less than 30 percent of the United States a
 
 #### (i) Construction of section 141(f)
 
-Section 141(f)(2) of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Federated States of Micronesia and of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands, shall be construed as though, after “may by regulations prescribe”, there were included the following: “, except that any such regulations that would have a significant effect on the admission, stay and employment privileges provided under this section shall not become effective until 90 days after the date of transmission of the regulations to the Committee on Energy and Natural Resources and the Committee on the Judiciary of the Senate and the Committee on Resources, the Committee on International Relations, and the Committee on the Judiciary of the House of Representatives”.
+Section 141(f)(2) of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Federated States of Micronesia and of the Compact of Free Association, as amended, between the Government of the United States of America and the Government of the Republic of the Marshall Islands, shall be construed as though, after "may by regulations prescribe", there were included the following: ", except that any such regulations that would have a significant effect on the admission, stay and employment privileges provided under this section shall not become effective until 90 days after the date of transmission of the regulations to the Committee on Energy and Natural Resources and the Committee on the Judiciary of the Senate and the Committee on Resources, the Committee on International Relations, and the Committee on the Judiciary of the House of Representatives".
 
 #### (j) Inflation adjustment
 
-As of Fiscal Year 2015, if the United States Gross Domestic Product Implicit Price Deflator average for Fiscal Years 2009 through 2013 is greater than United States Gross Domestic Product Implicit Price Deflator average for Fiscal Years 2004 through 2008 (as reported in the Survey of Current Business or subsequent publication and compiled by the Department of the Interior), then section 217 of the U.S.-FSM Compact, paragraph 5 of Article II of the U.S.-FSM Fiscal Procedures Agreement, section 218 of the U.S.-RMI Compact, and paragraph 5 of Article II of the U.S.-RMI Fiscal Procedures Agreement shall be construed as if “the full” appeared in place of “two-thirds of the” each place those words appear. If an inflation adjustment is made under this subsection, the base year for calculating the inflation adjustment shall be fiscal year 2014.
+As of Fiscal Year 2015, if the United States Gross Domestic Product Implicit Price Deflator average for Fiscal Years 2009 through 2013 is greater than United States Gross Domestic Product Implicit Price Deflator average for Fiscal Years 2004 through 2008 (as reported in the Survey of Current Business or subsequent publication and compiled by the Department of the Interior), then section 217 of the U.S.-FSM Compact, paragraph 5 of Article II of the U.S.-FSM Fiscal Procedures Agreement, section 218 of the U.S.-RMI Compact, and paragraph 5 of Article II of the U.S.-RMI Fiscal Procedures Agreement shall be construed as if "the full" appeared in place of "two-thirds of the" each place those words appear. If an inflation adjustment is made under this subsection, the base year for calculating the inflation adjustment shall be fiscal year 2014.
 
 #### (k) Participation by secondary schools in the Armed Services Vocational Aptitude Battery (ASVAB) Student Testing Program
 
@@ -172,7 +172,7 @@ The Immigration and Nationality Act, referred to in subsec. (b)(3), is act June 
 
 The enactment by the United States Congress of the Compact of Free Association Amendments Act of 2003, referred to in subsec. (b)(4), is the enactment of Pub. L. 108–188, which was approved Dec. 17, 2003.
 
-The Palau Compact, referred to in subsec. (e)(2)(B), probably means the Compact of Free Association between the United States and the Government of Palau,which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
+The Palau Compact, referred to in subsec. (e)(2)(B), probably means the Compact of Free Association between the United States and the Government of Palau, which is contained in section 201 of Pub. L. 99–658, set out as a note under section 1931 of this title.
 
 The Compact of Free Association, approved by Public Law 99–239, referred to in subsec. (e)(6), is the Compact of Free Association between the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, as amended, set out as a note under section 1901 of this title.
 
@@ -186,17 +186,17 @@ The enactment of this resolution, referred to in subsec. (h)(1), is the enactmen
 
 #### Amendments
 
-<b>2009</b>—Subsec. (h)(3). Pub. L. 111–68 struck out par. (3). Text read as follows: “Not later than the date that is three years after December 17, 2003, and every 5 years thereafter, the Comptroller General of the United States shall submit to Congress a report on the Federated States of Micronesia and the Republic of the Marshall Islands including the topics set forth in paragraphs (1) (A) through (E) above, and on the effectiveness of administrative oversight by the United States.”
+<b>2009</b>—Subsec. (h)(3). Pub. L. 111–68 struck out par. (3). Text read as follows: "Not later than the date that is three years after December 17, 2003, and every 5 years thereafter, the Comptroller General of the United States shall submit to Congress a report on the Federated States of Micronesia and the Republic of the Marshall Islands including the topics set forth in paragraphs (1) (A) through (E) above, and on the effectiveness of administrative oversight by the United States."
 
-<b>2008</b>—Subsec. (b)(1). Pub. L. 110–229, §806(a)(2)(A), inserted “the” before “U.S.-RMI Compact,”.
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–229, §806(a)(2)(A), inserted "the" before "U.S.-RMI Compact,".
 
-Subsec. (e)(8). Pub. L. 110–229, §806(a)(2)(B)(i), substituted “and include” for “to include” in introductory provisions.
+Subsec. (e)(8). Pub. L. 110–229, §806(a)(2)(B)(i), substituted "and include" for "to include" in introductory provisions.
 
-Subsec. (e)(9)(A). Pub. L. 110–229, §806(a)(2)(B)(ii), inserted a comma after “impact expenses, may”.
+Subsec. (e)(9)(A). Pub. L. 110–229, §806(a)(2)(B)(ii), inserted a comma after "impact expenses, may".
 
-Subsec. (e)(10). Pub. L. 110–229, §806(a)(2)(B)(iii), substituted “related to such services” for “related to service”.
+Subsec. (e)(10). Pub. L. 110–229, §806(a)(2)(B)(iii), substituted "related to such services" for "related to service".
 
-Subsec. (j). Pub. L. 110–229, §806(a)(2)(C), inserted “the” before “Interior),”.
+Subsec. (j). Pub. L. 110–229, §806(a)(2)(C), inserted "the" before "Interior),".
 
 #### Change of Name
 

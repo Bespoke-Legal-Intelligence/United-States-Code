@@ -6,7 +6,7 @@ Except as provided in section 7475, all fees received by the Tax Court shall be 
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–514 substituted “Except as provided in section 7475, all” for “All”.
+<b>1986</b>—Pub. L. 99–514 substituted "Except as provided in section 7475, all" for "All".
 
 #### Effective Date of 1986 Amendment
 

@@ -26,7 +26,7 @@ There is established the State Small Business Credit Initiative, to be administe
 
 #### (C) 2008 state employment decline defined
 
-&emsp;&emsp;In this paragraph and with respect to a State, the term “2008 State employment decline” means the excess (if any) of—
+&emsp;&emsp;In this paragraph and with respect to a State, the term "2008 State employment decline" means the excess (if any) of—
 
 &emsp;&emsp;&emsp;(i) the number of individuals employed in such State determined for December 2007; over
 
@@ -44,7 +44,7 @@ There is established the State Small Business Credit Initiative, to be administe
 
 #### (C) 2009 unemployment number defined
 
-&emsp;&emsp;In this paragraph and with respect to a State, the term “2009 unemployment number” means the number of individuals within such State who were determined to be unemployed by the Bureau of Labor Statistics for December 2009.
+&emsp;&emsp;In this paragraph and with respect to a State, the term "2009 unemployment number" means the number of individuals within such State who were determined to be unemployed by the Bureau of Labor Statistics for December 2009.
 
 #### (c) Availability of allocated amount
 
@@ -82,7 +82,7 @@ The amount allocated by the Secretary to each participating State under subsecti
 
 #### (iv) Municipalities
 
-&emsp;&emsp;&emsp;In this subparagraph, the term “participating State” shall include a municipality given special permission to participate in the Program, under section 5703(d) of this title.
+&emsp;&emsp;&emsp;In this subparagraph, the term "participating State" shall include a municipality given special permission to participate in the Program, under section 5703(d) of this title.
 
 #### (D) Exception
 
@@ -116,9 +116,9 @@ The amount allocated by the Secretary to each participating State under subsecti
 
 &emsp;In this section—
 
-&emsp;&emsp;(A) the term “allocated amount” means the total amount of Federal funds allocated by the Secretary under subsection (b) to the participating State; and
+&emsp;&emsp;(A) the term "allocated amount" means the total amount of Federal funds allocated by the Secretary under subsection (b) to the participating State; and
 
-&emsp;&emsp;(B) the term “1/3” means—
+&emsp;&emsp;(B) the term "1/3" means—
 
 &emsp;&emsp;&emsp;(i) in the case of the first 1/3 and second 1/3, an amount equal to 33 percent of a participating State's allocated amount; and
 

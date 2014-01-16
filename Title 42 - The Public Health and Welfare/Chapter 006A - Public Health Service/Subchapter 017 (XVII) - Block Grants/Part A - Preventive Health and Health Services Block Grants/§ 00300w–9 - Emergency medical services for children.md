@@ -12,9 +12,9 @@ The Secretary may renew a grant made under subsection (a) of this section for on
 
 For purposes of this section—
 
-&emsp;(1) the term “school of medicine” has the same meaning as in section 292a(4) <sup>1</sup> of this title; and
+&emsp;(1) the term "school of medicine" has the same meaning as in section 292a(4) <sup>1</sup> of this title; and
 
-&emsp;(2) the term “accredited” has the same meaning as in section 292a(5) <sup>1</sup> of this title.
+&emsp;(2) the term "accredited" has the same meaning as in section 292a(5) <sup>1</sup> of this title.
 
 #### (d) Authorization of appropriations
 
@@ -30,33 +30,33 @@ Section 292a of this title, referred to in subsec. (c), was in the original a re
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148, §5603(1), substituted “4-year period (with an optional 5th year” for “3-year period (with an optional 4th year”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §5603(1), substituted "4-year period (with an optional 5th year" for "3-year period (with an optional 4th year".
 
-Subsec. (d). Pub. L. 111–148, §5603(2), substituted “such sums” for “and such sums” and inserted “, $25,000,000 for fiscal year 2010, $26,250,000 for fiscal year 2011, $27,562,500 for fiscal year 2012, $28,940,625 for fiscal year 2013, and $30,387,656 for fiscal year 2014” before period at end.
+Subsec. (d). Pub. L. 111–148, §5603(2), substituted "such sums" for "and such sums" and inserted ", $25,000,000 for fiscal year 2010, $26,250,000 for fiscal year 2011, $27,562,500 for fiscal year 2012, $28,940,625 for fiscal year 2013, and $30,387,656 for fiscal year 2014" before period at end.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–392, §415(1), substituted “3-year period (with an optional 4th year based on performance)” for “two-year period” and “3 grants” for “one grant”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–392, §415(1), substituted "3-year period (with an optional 4th year based on performance)" for "two-year period" and "3 grants" for "one grant".
 
-Subsec. (d). Pub. L. 105–392, §415(2), substituted “2005” for “1997”.
+Subsec. (d). Pub. L. 105–392, §415(2), substituted "2005" for "1997".
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–410, §11(1), substituted “grants” for “not more than four grants in any fiscal year” after “Secretary may make” in first sentence.
+<b>1992</b>—Subsec. (a). Pub. L. 102–410, §11(1), substituted "grants" for "not more than four grants in any fiscal year" after "Secretary may make" in first sentence.
 
-Subsec. (d). Pub. L. 102–410, §11(2), substituted “$5,000,000” for “and $5,000,000” and inserted before period “, and such sums as may be necessary for each of the fiscal years 1993 through 1997”.
+Subsec. (d). Pub. L. 102–410, §11(2), substituted "$5,000,000" for "and $5,000,000" and inserted before period ", and such sums as may be necessary for each of the fiscal years 1993 through 1997".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–590, §5(1)(A), which directed the substitution of “grants” for “not more that four grants in any fiscal year” could not be executed because the language to be stricken did not appear in text.
+<b>1990</b>—Subsec. (a). Pub. L. 101–590, §5(1)(A), which directed the substitution of "grants" for "not more that four grants in any fiscal year" could not be executed because the language to be stricken did not appear in text.
 
-Pub. L. 101–590, §5(1)(B), struck out “in such States” after “demonstration projects” in first sentence.
+Pub. L. 101–590, §5(1)(B), struck out "in such States" after "demonstration projects" in first sentence.
 
-Subsec. (d). Pub. L. 101–590, §5(2), substituted “each of the fiscal years 1991 and 1992” for “fiscal year 1991”.
+Subsec. (d). Pub. L. 101–590, §5(2), substituted "each of the fiscal years 1991 and 1992" for "fiscal year 1991".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–607, §302(a), substituted “shall be for not more than a two-year period, subject to annual evaluation by the Secretary” for “shall be for a one-year period”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–607, §302(a), substituted "shall be for not more than a two-year period, subject to annual evaluation by the Secretary" for "shall be for a one-year period".
 
-Subsec. (d). Pub. L. 100–607, §302(b), inserted “, $3,000,000 for fiscal year 1989, $4,000,000 for fiscal year 1990, and $5,000,000 for fiscal year 1991” before period at end.
+Subsec. (d). Pub. L. 100–607, §302(b), inserted ", $3,000,000 for fiscal year 1989, $4,000,000 for fiscal year 1990, and $5,000,000 for fiscal year 1991" before period at end.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–272, §17004(1), which directed substitution of “not more than four grants in any fiscal year to States or accredited schools of medicine in States” for “grant to not more than four States in any fiscal year” was made by substituting former phrase for “grants to not more than four States in any fiscal year”, as the probable intent of Congress.
+<b>1986</b>—Subsec. (a). Pub. L. 99–272, §17004(1), which directed substitution of "not more than four grants in any fiscal year to States or accredited schools of medicine in States" for "grant to not more than four States in any fiscal year" was made by substituting former phrase for "grants to not more than four States in any fiscal year", as the probable intent of Congress.
 
-Pub. L. 99–272, §17004(2), inserted at end “Only one grant under this subsection may be made in a State (to a State or to a school of medicine in such State) in any fiscal year.”
+Pub. L. 99–272, §17004(2), inserted at end "Only one grant under this subsection may be made in a State (to a State or to a school of medicine in such State) in any fiscal year."
 
-Subsec. (b). Pub. L. 99–272, §17004(3), substituted “States in which grants under such subsection have not been made” for “other States”.
+Subsec. (b). Pub. L. 99–272, §17004(3), substituted "States in which grants under such subsection have not been made" for "other States".
 
 Subsecs. (c), (d). Pub. L. 99–272, §17004(4), (5), added subsec. (c) and redesignated former subsec. (c) as (d).
 

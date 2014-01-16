@@ -28,7 +28,7 @@
 
 (3) An annuity contract purchased under paragraph (1) shall include such terms and conditions as the Executive Director requires for the protection of the annuitant.
 
-(4) The Executive Director shall require, from each entity from which an annuity contract is purchased under paragraph (1), a bond or proofof financial responsibility sufficient to protect the annuitant.
+(4) The Executive Director shall require, from each entity from which an annuity contract is purchased under paragraph (1), a bond or proof of financial responsibility sufficient to protect the annuitant.
 
 (e)(1) No tax, fee, or other monetary payment may be imposed or collected by any State, the District of Columbia, or the Commonwealth of Puerto Rico, or by any political subdivision or other governmental authority thereof, on, or with respect to, any amount paid to purchase an annuity contract under this section.
 

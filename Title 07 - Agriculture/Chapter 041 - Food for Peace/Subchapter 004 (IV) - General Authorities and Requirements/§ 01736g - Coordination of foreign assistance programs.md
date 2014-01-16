@@ -32,7 +32,7 @@ To the maximum extent practicable, assistance for a foreign country under subcha
 
 <b>2008</b>—Pub. L. 110–246 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
-<b>1996</b>—Pub. L. 104–127 substituted “subchapter III–A of this chapter” for “this chapter” in two places.
+<b>1996</b>—Pub. L. 104–127 substituted "subchapter III–A of this chapter" for "this chapter" in two places.
 
 <b>1990</b>—Pub. L. 101–624 amended section generally, substituting present provisions for provisions requiring, to maximum extent practicable, availability of commodities on multiyear basis.
 

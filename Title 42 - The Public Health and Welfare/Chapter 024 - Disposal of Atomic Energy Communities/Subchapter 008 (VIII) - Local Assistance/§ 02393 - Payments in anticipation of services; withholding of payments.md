@@ -6,7 +6,7 @@ The payments made pursuant to section 2391 of this title to transferees of munic
 
 #### Amendments
 
-<b>1975</b>—Pub. L. 94–187 substituted “Administrator” for “Commission”.
+<b>1975</b>—Pub. L. 94–187 substituted "Administrator" for "Commission".
 
 #### Transfer of Functions
 

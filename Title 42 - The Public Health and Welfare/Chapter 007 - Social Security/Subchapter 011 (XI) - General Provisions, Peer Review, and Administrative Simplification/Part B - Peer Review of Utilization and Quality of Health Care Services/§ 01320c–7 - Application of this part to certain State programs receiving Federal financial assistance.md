@@ -16,7 +16,7 @@ A prior section 1320c–7, act Aug. 14, 1935, ch. 531, title XI, §1158, as adde
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–40 substituted “quality improvement” for “utilization and quality control peer review” in text.
+<b>2011</b>—Subsec. (a). Pub. L. 112–40 substituted "quality improvement" for "utilization and quality control peer review" in text.
 
 #### Effective Date of 2011 Amendment
 

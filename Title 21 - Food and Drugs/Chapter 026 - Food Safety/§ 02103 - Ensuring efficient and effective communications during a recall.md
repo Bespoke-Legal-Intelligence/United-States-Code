@@ -6,7 +6,7 @@ The Secretary shall, during an ongoing recall of human or pet food regulated by 
 
 &emsp;(2) use existing networks of communication, including electronic forms of information dissemination, to enhance the quality and speed of communication with the public; and
 
-&emsp;(3) post information regarding recalled human and pet foods on the Internet Web siteof the Food and Drug Administration in a single location, which shall include a searchable database of recalled human foods and a searchable database of recalled pet foods, that is easily accessed and understood by the public.
+&emsp;(3) post information regarding recalled human and pet foods on the Internet Web site of the Food and Drug Administration in a single location, which shall include a searchable database of recalled human foods and a searchable database of recalled pet foods, that is easily accessed and understood by the public.
 
 (Pub. L. 110–85, title X, §1003, Sept. 27, 2007, 121 Stat. 963.)
 

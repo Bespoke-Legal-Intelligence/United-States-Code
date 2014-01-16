@@ -20,7 +20,7 @@
 
 &emsp;(B) payment under this subchapter for services provided by such individual shall be made only on an assignment-related basis;
 
-&emsp;(C) if the individual does not provide services, for which payment would otherwise be made under this subchapter, of a sufficient quantity to maintain the offset collection according to the agreed upon formula and schedule—
+&emsp;(C) if the individual does not provide services, for which payment would otherwise bemade under this subchapter, of a sufficient quantity to maintain the offset collection according to the agreed upon formula and schedule—
 
 &emsp;&emsp;(i) the Secretary shall immediately inform the Attorney General, and the Attorney General shall immediately commence an action to recover the full amount of the past-due obligation, and
 
@@ -70,51 +70,51 @@ Amounts equal to the amounts deducted pursuant to this section shall be transfer
 
 Section 204(a)(1) of the Public Health Service Amendments of 1987, referred to in subsec. (a)(1)(B), is section 204(a)(1) of Pub. L. 100–177, title II, Dec. 1, 1987, 101 Stat. 1000, which is set out as a note under section 254o of this title.
 
-The Public Health Service Act, referred to in subsecs. (a)(1)(B)(iii) and (b), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart II of part D of title III of the Act is classified generally to subpart II (§254d et seq.) of part D of subchapter II of chapter 6A of this title. Subpart I of part C of title VII of the Act was classified generally to subpart I (§294 et seq.) of part C of subchapter V of chapter 6A of this title and was omitted in the general revision of subchapter V by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See subpart I (§292 et seq.) of part A of subchapter V of chapter 6A of this title. Subpart III of part F of title VII of the Public Health Service Act (as in effect before October 1, 1976) was classified to subpart III (§295g–21 et seq.) of part F of subchapter V of chapter 6A of this title, prior to repeal by Pub. L. 94–484, title IV, §409(a), Oct. 12, 1976, 90 Stat. 2290. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsecs. (a)(1)(B)(iii) and (b), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subpart II of part D of title III of the Act is classified generally to subpart II (§254d et seq.)of part D of subchapter II of chapter 6A of this title. Subpart I of part C of title VII of the Act was classified generally to subpart I (§294 et seq.) of part C of subchapter V of chapter 6A of this title and was omitted in the general revision of subchapter V by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See subpart I (§292 et seq.) of part A of subchapter V of chapter 6A of this title. Subpart III of part F of title VII of the Public Health Service Act (as in effect before October 1, 1976) was classified to subpart III (§295g–21 et seq.) of part F of subchapter V of chapter 6A of this title, prior to repeal by Pub. L. 94–484, title IV, §409(a), Oct. 12, 1976, 90 Stat. 2290. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–360, §411(f)(10)(C)(i)(I), substituted “individuals” for “physicians” and inserted “and loan” in section catchline.
+<b>1988</b>—Pub. L. 100–360, §411(f)(10)(C)(i)(I), substituted "individuals" for "physicians" and inserted "and loan" in section catchline.
 
-Subsec. (a)(1)(A). Pub. L. 100–360, §411(f)(10)(C)(i)(IV), as amended by Pub. L. 100–485, §608(d)(21)(H), inserted “, the Physician Shortage Area Scholarship Program, or the Health Education Assistance Loan Program”.
+Subsec. (a)(1)(A). Pub. L. 100–360, §411(f)(10)(C)(i)(IV), as amended by Pub. L. 100–485, §608(d)(21)(H), inserted ", the Physician Shortage Area Scholarship Program, or the Health Education Assistance Loan Program".
 
-Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted “individual” for “physician” in two places.
+Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted "individual" for "physician" in two places.
 
-Subsec. (a)(1)(B). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted “an individual” for “a physician” in introductory provisions and “individual” for “physician” in cls. (i)(I) and (II), (ii), and (iii).
+Subsec. (a)(1)(B). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted "an individual" for "a physician" in introductory provisions and "individual" for "physician" in cls. (i)(I) and (II), (ii), and (iii).
 
-Subsec. (a)(2)(A) to (C). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted “individual” for “physician” wherever appearing.
+Subsec. (a)(2)(A) to (C). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted "individual" for "physician" wherever appearing.
 
-Subsec. (a)(2)(C)(ii). Pub. L. 100–360, §411(f)(10)(A)(i), substituted “paragraph (4)” for “paragraph (3)”.
+Subsec. (a)(2)(C)(ii). Pub. L. 100–360, §411(f)(10)(A)(i), substituted "paragraph (4)" for "paragraph (3)".
 
-Subsec. (a)(3). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted “individual” for “physician” in introductory provisions.
+Subsec. (a)(3). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted "individual" for "physician" in introductory provisions.
 
-Subsec. (a)(3)(B). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted “individual” for “physician”.
+Subsec. (a)(3)(B). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted "individual" for "physician".
 
-Pub. L. 100–360, §411(f)(10)(A)(i), substituted “paragraph (4)” for “paragraph (3)”.
+Pub. L. 100–360, §411(f)(10)(A)(i), substituted "paragraph (4)" for "paragraph (3)".
 
-Subsec. (a)(4). Pub. L. 100–360, §411(f)(10)(C)(i)(III), substituted “community practitioner” for “community physician”.
+Subsec. (a)(4). Pub. L. 100–360, §411(f)(10)(C)(i)(III), substituted "community practitioner" for "community physician".
 
-Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted “an individual” for “a physician” and “such individual” for “such physician”.
+Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted "an individual" for "a physician" and "such individual" for "such physician".
 
-Pub. L. 100–360, §411(f)(10)(A)(iii), as amended by Pub. L. 100–360, §608(d)(21)(E), inserted before period at end “if a State requests that the individual not be excluded”.
+Pub. L. 100–360, §411(f)(10)(A)(iii), as amended by Pub. L. 100–360, §608(d)(21)(E), inserted before period at end "if a State requests that the individual not be excluded".
 
-Pub. L. 100–360, §411(f)(10)(A)(ii), substituted “exclude” for “bar”.
+Pub. L. 100–360, §411(f)(10)(A)(ii), substituted "exclude" for "bar".
 
-Subsec. (b). Pub. L. 100–360, §411(f)(10)(C)(i)(V), as amended by Pub. L. 100–485, §608(d)(21)(F)(i), substituted “or under subpart III of part F of title VII of such Act (as in effect before October 1, 1976) and which has not been paid by the deadline established by the Secretary pursuant to such respective section” for “, and (2) which has not been paid by the deadline established by the Secretary pursuant to section 338E of the Public Health Service Act”.
+Subsec. (b). Pub. L. 100–360, §411(f)(10)(C)(i)(V), as amended by Pub. L. 100–485, §608(d)(21)(F)(i), substituted "or under subpart III of part F of title VII of such Act (as in effect before October 1, 1976) and which has not been paid by the deadline established by the Secretary pursuant to such respective section" for ", and (2) which has not been paid by the deadline established by the Secretary pursuant to section 338E of the Public Health Service Act".
 
-Subsec. (b)(1). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted “an individual” for “a physician”.
+Subsec. (b)(1). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted "an individual" for "a physician".
 
 Subsec. (b)(2). Pub. L. 100–360, §411(f)(10)(C)(i)(VI), as amended by Pub. L. 100–485, §608(d)(21)(F)(i), added par. (2).
 
-Subsec. (d)(1). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted “an individual” for “a physician”.
+Subsec. (d)(1). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted "an individual" for "a physician".
 
-Subsec. (d)(2). Pub. L. 100–360, §411(f)(10)(C)(i)(VII), as added by Pub. L. 100–485, §608(d)(21)(F), substituted “continues” for “continued”.
+Subsec. (d)(2). Pub. L. 100–360, §411(f)(10)(C)(i)(VII), as added by Pub. L. 100–485, §608(d)(21)(F), substituted "continues" for "continued".
 
-Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted “individual” for “physician” in three places.
+Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted "individual" for "physician" in three places.
 
-Subsec. (d)(4) to (6). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted “individual” for “physician” wherever appearing.
+Subsec. (d)(4) to (6). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted "individual" for "physician" wherever appearing.
 
-Subsec. (e). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted “individual” for “physician” in two places.
+Subsec. (e). Pub. L. 100–360, §411(f)(10)(C)(i)(II), as amended by Pub. L. 100–485, §608(d)(21)(G), substituted "individual" for "physician" in two places.
 
 #### Effective Date of 1988 Amendment
 
@@ -122,15 +122,15 @@ Amendment by Pub. L. 100–485 effective as if included in the enactment of the 
 
 Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(f)(10)(A) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
-Pub. L. 100–360, title IV, §411(f)(10)(C)(iii), July 1, 1988, 102 Stat. 781, provided that: “The Amendments made by this subparagraph \[amending this section and former section 294f of this title\] shall be effective 30 days after the date of the enactment of this Act \[July 1, 1988\].”
+Pub. L. 100–360, title IV, §411(f)(10)(C)(iii), July 1, 1988, 102 Stat. 781, provided that: "The Amendments made by this subparagraph \[amending this section and former section 294f of this title\] shall be effective 30 days after the date of the enactment of this Act \[July 1, 1988\]."
 
 #### Effective Date
 
-Pub. L. 100–203, title IV, §4052(c), Dec. 22, 1987, 101 Stat. 1330–97, provided that: “The amendments made by this section \[enacting this section and amending section 254o of this title\] shall be effective on the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IV, §4052(c), Dec. 22, 1987, 101 Stat. 1330–97, provided that: "The amendments made by this section \[enacting this section and amending section 254o of this title\] shall be effective on the date of the enactment of this Act \[Dec. 22, 1987\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “individual's”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "individual's".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “individuals”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be "individuals".</i>
 

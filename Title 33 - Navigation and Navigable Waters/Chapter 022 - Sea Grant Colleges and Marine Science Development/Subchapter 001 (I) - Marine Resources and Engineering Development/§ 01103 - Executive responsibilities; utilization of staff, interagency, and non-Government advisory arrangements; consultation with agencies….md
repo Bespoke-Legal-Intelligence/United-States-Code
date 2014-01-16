@@ -22,7 +22,7 @@
 
 #### Amendments
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–688, in par. (4), substituted “this title” for “this Act”, which, for purposes of codification has been changed to “this subchapter”.
+<b>1966</b>—Subsec. (a). Pub. L. 89–688, in par. (4), substituted "this title" for "this Act", which, for purposes of codification has been changed to "this subchapter".
 
 #### Termination of Council
 

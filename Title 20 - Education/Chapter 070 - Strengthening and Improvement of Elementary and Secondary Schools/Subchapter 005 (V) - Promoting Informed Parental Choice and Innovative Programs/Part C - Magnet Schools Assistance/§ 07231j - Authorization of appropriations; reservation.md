@@ -26,5 +26,5 @@ Section 7236, Pub. L. 89–10, title V, §5206, as added Pub. L. 103–382, titl
 
 Section 7237, Pub. L. 89–10, title V, §5207, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3700, related to administration. See section 7283f of this title.
 
-Section 7238, Pub. L. 89–10, title V, §5208, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3701, authorized appropriations. See section 7283g of this title.
+Section 7238, Pub. L. 89–10, title V, §5208, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3701,authorized appropriations. See section 7283g of this title.
 

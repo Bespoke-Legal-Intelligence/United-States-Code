@@ -21,7 +21,7 @@ Section 4464, added Pub. L. 92–178, title IV, §402(a), Dec. 10, 1971, 85 Stat
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–188, title I, §1704(t)(11), Aug. 20, 1996, 110 Stat. 1888, struck out “and special rules” after “Definitions” in item 4472.
+<b>1996</b>—Pub. L. 104–188, title I, §1704(t)(11), Aug. 20, 1996, 110 Stat. 1888, struck out "and special rules" after "Definitions" in item 4472.
 
 
 ---

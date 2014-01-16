@@ -10,5 +10,5 @@ Section was formerly classified to section 287c–3 of this title prior to renum
 
 #### Amendments
 
-<b>1993</b>—Pub. L. 103–43, §1511(a)(4), (b)(4)(C), substituted “Institute” for “Center” wherever appearing and “section 285q–2(g)” for “section 287c–2(g)”.
+<b>1993</b>—Pub. L. 103–43, §1511(a)(4), (b)(4)(C), substituted "Institute" for "Center" wherever appearing and "section 285q–2(g)" for "section 287c–2(g)".
 

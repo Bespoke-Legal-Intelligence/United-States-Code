@@ -30,5 +30,5 @@ Historical and Revision Notes
 
 Mar. 28, 1938, ch. 56, 52 Stat. 148.
 
-In subsection (a)(2), the words “chief executive officers” are substituted for “Governors” for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (a)(2), the words "chief executive officers" are substituted for "Governors" for clarity and consistency in the revised title and with other titles of the United States Code.
 

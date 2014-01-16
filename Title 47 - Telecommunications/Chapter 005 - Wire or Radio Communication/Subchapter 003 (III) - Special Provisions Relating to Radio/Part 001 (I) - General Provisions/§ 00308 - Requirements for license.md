@@ -2,7 +2,7 @@
 
 #### (a) Writing; exceptions
 
-The Commission may grant construction permits and station licenses, or modifications or renewals thereof, only upon written application therefor received by it: <i>Provided</i>, That (1) in cases of emergency found by the Commission involving danger to life or property or due to damage to equipment, or (2) during a national emergency proclaimed by the President or declared by the Congress and during the continuance of any war in which the United States is engaged and when such action is necessary for the national defense or security or otherwise in furtherance of the war effort, or (3) in cases of emergency where the Commission finds, in the nonbroadcast services, that it would not be feasible to secure renewal applications from existing licensees or otherwise to follow normal licensing procedure, the Commission may grant construction permits and station licenses, or modifications or renewals thereof, during the emergency so found by the Commission or during the continuance of any such national emergency or war, in such manner and upon such terms and conditions as the Commission shall by regulation prescribe, and without the filing of a formal application, but no authorization so granted shall continue in effect beyond the period of the emergency or war requiring it: <i>Provided further</i>, That the Commission may issue by cable, telegraph, or radio a permit for the operation of a station on a vessel of the United States at sea, effective in lieu of a license until said vessel shall return to a port of the continental United States.
+The Commission may grant construction permits and station licenses, or modifications or renewals thereof, only upon written application therefor received by it: <i>Provided</i>, That (1) in cases of emergency found by the Commission involving danger to life or property or due to damage to equipment, or (2) during a national emergency proclaimed by the President or declared by the Congress and during the continuance of any war in which the United States is engaged and when such action is necessary for the national defense or security or otherwise in furtherance of the war effort, or (3) in cases of emergency where the Commission finds, in the nonbroadcast services, that it would not be feasible to secure renewal applications from existing licensees or otherwise to follow normal licensing procedure, the Commission may grant construction permits and station licenses, or modifications or renewals thereof, during the emergency so found by the Commission or during the continuance of any such national emergency or war, in such manner and upon such terms and conditions as the Commission shall by regulation prescribe, and without the filing of a formal application, but no authorization so granted shall continue in effect beyond the period of the emergency or war requiring it: <i>Provided further</i>, That the Commission may issue bycable, telegraph, or radio a permit for the operation of a station on a vessel of the United States at sea, effective in lieu of a license until said vessel shall return to a port of the continental United States.
 
 #### (b) Conditions
 
@@ -24,15 +24,15 @@ Each applicant for the renewal of a commercial or noncommercial television licen
 
 <b>1994</b>—Subsec. (c). Pub. L. 103–414 made technical amendment to reference to section 35 of this title to correct reference to corresponding section of original act.
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–538 inserted before period at end “in any manner or form, including by electronic means, as the Commission may prescribe by regulation”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–538 inserted before period at end "in any manner or form, including by electronic means, as the Commission may prescribe by regulation".
 
 <b>1962</b>—Subsec. (b). Pub. L. 87–444 struck out requirement that applications or statements of fact were to be signed under oath or affirmation.
 
 <b>1952</b>—Subsec. (a). Act July 16, 1952, §6(a), provided that the Commission may grant construction permits and station licenses, or modifications or renewals, only upon written application except that during war or emergency periods no formal application need be filed.
 
-Subsec. (b). Act July 16, 1952, §6(b), substituted “All applications for station licenses or modifications or renewals thereof, shall set forth” for “All such applications shall set forth”.
+Subsec. (b). Act July 16, 1952, §6(b), substituted "All applications for station licenses or modifications or renewals thereof, shall set forth" for "All such applications shall set forth".
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–104, title II, §204(c), Feb. 8, 1996, 110 Stat. 113, provided that: “The amendments made by this section \[amending this section and section 309 of this title\] apply to applications filed after May 1, 1995.”
+Pub. L. 104–104, title II, §204(c), Feb. 8, 1996, 110 Stat. 113, provided that: "The amendments made by this section \[amending this section and section 309 of this title\] apply to applications filed after May 1, 1995."
 

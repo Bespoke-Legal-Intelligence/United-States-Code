@@ -42,7 +42,7 @@ Members in recruiting roles.—A member of the armed forces or civilian employee
 
 &emsp;(3)
 
-Junior reserve officers’ training corps instructors.—A member of the armed forces detailed under subsection (c)(1) of section 2031 of this title to serve as an administrator or instructor in the Junior Reserve Officers’ Training Corps program or a retired member of the armed forces employed as an administrator or instructor in the program under subsection (d) of such section may not be paid a bonus under subsection (a).
+Junior reserve officers' training corps instructors.—A member of the armed forces detailed under subsection (c)(1) of section 2031 of this title to serve as an administrator or instructor in the Junior Reserve Officers' Training Corps program or a retired member of the armed forces employed as an administrator or instructor in the program under subsection (d) of such section may not be paid a bonus under subsection (a).
 
 (d)
 
@@ -66,7 +66,7 @@ Coordination With Receipt of Retired Pay.—A bonus paid under this section to a
 
 (h)
 
-Appropriate Secretary Defined.—In this section, the term “appropriate Secretary” means—
+Appropriate Secretary Defined.—In this section, the term "appropriate Secretary" means—
 
 &emsp;(1) the Secretary of the Army, with respect to matters concerning the Army;
 
@@ -84,11 +84,11 @@ Duration of Authority.—A bonus may not be paid under subsection (a) with respe
 
 #### Amendments
 
-<b>2011</b>—Subsec. (e)(1). Pub. L. 111–383, §1075(b)(15), substituted “three years.” for “3 years,”.
+<b>2011</b>—Subsec. (e)(1). Pub. L. 111–383, §1075(b)(15), substituted "three years." for "3 years,".
 
-Subsec. (i). Pub. L. 111–383, §616(1), substituted “December 31, 2011” for “December 31, 2010”.
+Subsec. (i). Pub. L. 111–383, §616(1), substituted "December 31, 2011" for "December 31, 2010".
 
-<b>2009</b>—Subsec. (i). Pub. L. 111–84 substituted “December 31, 2010” for “December 31, 2009”.
+<b>2009</b>—Subsec. (i). Pub. L. 111–84 substituted "December 31, 2010" for "December 31, 2009".
 
-<b>2008</b>—Subsec. (i). Pub. L. 110–417 substituted “December 31, 2009” for “December 31, 2008”.
+<b>2008</b>—Subsec. (i). Pub. L. 110–417 substituted "December 31, 2009" for "December 31, 2008".
 

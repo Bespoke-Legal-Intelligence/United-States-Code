@@ -1,6 +1,6 @@
 ### §2203. Budget estimates
 
-To account for, and report, the cost of performance of readily identifiable functional programs and activities, with segregation of operating and capital programs, budget estimates of the Department of Defense shall be prepared, presented, and justified, where practicable, and authorized programs shall be administered, in such form and manner as the Secretary of Defense, subject to the authority and direction of the President, may prescribe. As far as practicable, budget estimates and authorized programs of the military departments shall be uniform and in readily comparable form. The budget for the Department of Defense submitted to Congress for each fiscal year shall include data projecting the effect of the appropriations requested for materiel readiness requirements. The Secretary of Defense shall provide that the budget justification documents for such budget include information on the number of employees of contractors estimated to be working on contracts of the Department of Defense during the fiscal year for which the budget is submitted. Such information shall be set forth in terms of employee-years or such other measure as will be uniform and readily comparable with civilian personnel of the Department of Defense.
+To account for, and report, the cost of performance of readily identifiable functional programs and activities, with segregation of operating and capital programs, budget estimates of the Department of Defense shall be prepared, presented, and justified, where practicable, andauthorized programs shall be administered, in such form and manner as the Secretary of Defense, subject to the authority and direction of the President, may prescribe. As far as practicable, budget estimates and authorized programs of the military departments shall be uniform and in readily comparable form. The budget for the Department of Defense submitted to Congress for each fiscal year shall include data projecting the effect of the appropriations requested for materiel readiness requirements. The Secretary of Defense shall provide that the budget justification documents for such budget include information on the number of employees of contractors estimated to be working on contracts of the Department of Defense during the fiscal year for which the budget is submitted. Such information shall be set forth in terms of employee-years or such other measure as will be uniform and readily comparable with civilian personnel of the Department of Defense.
 
 (Added Pub. L. 87–651, title II, §207(a), Sept. 7, 1962, 76 Stat. 520; amended Pub. L. 97–295, §1(21), Oct. 12, 1982, 96 Stat. 1290; Pub. L. 99–661, div. A, title III, §311, Nov. 14, 1986, 100 Stat. 3851.)
 
@@ -20,7 +20,7 @@ Act
 
 July 26, 1947, ch. 343, §403; added Aug. 10, 1949, ch. 412, §11 (5th and 6th pars.), 63 Stat. 586.
 
-The word “prescribe” is substituted for the word “determine”. 5 U.S.C. 172b(b) is omitted as executed.
+The word "prescribe" is substituted for the word "determine". 5 U.S.C. 172b(b) is omitted as executed.
 
 1982
 
@@ -38,7 +38,7 @@ Act
 
 July 30, 1977, Pub. L. 95–79, §812 (last sentence), 91 Stat. 336.
 
-The words “for fiscal year 1979” are omitted as executed. The words “for each fiscal year” are substituted for “subsequent fiscal years” for consistency.
+The words "for fiscal year 1979" are omitted as executed. The words "for each fiscal year" are substituted for "subsequent fiscal years" for consistency.
 
 #### Amendments
 

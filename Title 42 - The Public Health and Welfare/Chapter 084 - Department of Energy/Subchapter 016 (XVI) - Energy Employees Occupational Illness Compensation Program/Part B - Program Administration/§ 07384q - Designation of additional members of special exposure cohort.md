@@ -2,7 +2,7 @@
 
 #### (a) Advice on additional members
 
-(1) The Advisory Board on Radiation and Worker Health under section 7384o of this title shall advise the President whether there is a class of employees at any Department of Energy facility who likely were exposed to radiation at that facility but for whom it is not feasible to estimate with sufficient accuracy the radiation dose they received.
+(1) The Advisory Board on Radiation and Worker Health under section 7384o of this titleshall advise the President whether there is a class of employees at any Department of Energy facility who likely were exposed to radiation at that facility but for whom it is not feasible to estimate with sufficient accuracy the radiation dose they received.
 
 (2) The advice of the Advisory Board on Radiation and Worker Health under paragraph (1) shall be based on exposure assessments by radiation health professionals, information provided by the Department of Energy, and such other information as the Advisory Board considers appropriate.
 
@@ -36,7 +36,7 @@ The Secretary of Energy shall provide, in accordance with law, the Secretary of 
 
 <b>2004</b>—Subsecs. (c), (d). Pub. L. 108–375 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-<b>2001</b>—Subsec. (b). Pub. L. 107–107 inserted “, or at an atomic weapons employer facility,” after “Department of Energy facility” in introductory provisions.
+<b>2001</b>—Subsec. (b). Pub. L. 107–107 inserted ", or at an atomic weapons employer facility," after "Department of Energy facility" in introductory provisions.
 
-<i><sup>1</sup></i><i> So in original. A closing parenthesis should probably follow “title”.</i>
+<i><sup>1</sup></i><i> So in original. A closing parenthesis should probably follow "title".</i>
 

@@ -36,7 +36,7 @@ The purposes of this chapter are—
 
 #### Short Title
 
-Pub. L. 100–697, §1, Nov. 19, 1988, 102 Stat. 4613, provided that: “This Act \[enacting this chapter\] may be cited as the ‘National Superconductivity and Competitiveness Act of 1988’.”
+Pub. L. 100–697, §1, Nov. 19, 1988, 102 Stat. 4613, provided that: "This Act \[enacting this chapter\] may be cited as the 'National Superconductivity and Competitiveness Act of 1988'."
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "and".</i>
 

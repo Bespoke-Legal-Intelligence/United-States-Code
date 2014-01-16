@@ -16,7 +16,7 @@ The Executive Office of Immigration Review of the Department of Justice shall in
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–132 substituted “George P. Shultz National Foreign Affairs Training Center” for “National Foreign Affairs Training Center”.
+<b>2002</b>—Subsec. (b). Pub. L. 107–132 substituted "George P. Shultz National Foreign Affairs Training Center" for "National Foreign Affairs Training Center".
 
 #### Abolition of Immigration and Naturalization Service and Transfer of Functions
 

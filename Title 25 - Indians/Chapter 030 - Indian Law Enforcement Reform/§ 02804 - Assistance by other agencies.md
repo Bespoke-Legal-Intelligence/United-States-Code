@@ -8,7 +8,7 @@
 
 #### (2) Certain activities
 
-&emsp;The Secretary may authorize a law enforcement officer of such an agency to perform any activity the Secretary may authorize under section 2803 of this title.
+&emsp;The Secretary may authorize a law enforcement officer of such an agency to perform anyactivity the Secretary may authorize under section 2803 of this title.
 
 #### (3) Program enhancement
 
@@ -50,7 +50,7 @@ Notwithstanding the provisions of section 1535 of title 31, the head of a Federa
 
 #### (e) Authority of Federal agency head to enter into agreement with Indian tribe
 
-The head of a Federal agency with law enforcement personnel or facilities may enter intoan agreement (with or without reimbursement) with an Indian tribe relating to—
+The head of a Federal agency with law enforcement personnel or facilities may enter into an agreement (with or without reimbursement) with an Indian tribe relating to—
 
 &emsp;(1) the law enforcement authority of the Indian tribe, or
 
@@ -80,11 +80,11 @@ The Bureau may accept reimbursement, resources, assistance, or funding from—
 
 #### References in Text
 
-Section 458ccc–1(a) of this title, referred to in subsec. (g)(2), was in the original “section 701(a) of the Indian Self-Determination and Education Assistance Act”, and was translated as reading “section 702(a) of the Indian Self-Determination and Education Assistance Act”, meaning section 702(a) of Pub. L. 93–638, to reflect the probable intent of Congress, because Pub. L. 93–638 does not contain a section 701(a), and section 702(a) of Pub. L. 93–638 relates to establishment of the Indian Law Enforcement Foundation.
+Section 458ccc–1(a) of this title, referred to in subsec. (g)(2), was in the original "section 701(a) of the Indian Self-Determination and Education Assistance Act", and was translated as reading "section 702(a) of the Indian Self-Determination and Education Assistance Act", meaning section 702(a) of Pub. L. 93–638, to reflect the probable intent of Congress, because Pub. L. 93–638 does not contain a section 701(a), and section 702(a) of Pub. L. 93–638 relates to establishment of the Indian Law Enforcement Foundation.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–211, §231(b), inserted heading, designated first sentence as par. (1), inserted par. (1) heading, substituted “Not later than 180 days after July 29, 2010, the Secretary shall establish procedures to enter into memoranda of agreement” for “The Secretary may enter into an agreement”, designated second sentence as par. (2), inserted par. (2) heading, and added par. (3).
+<b>2010</b>—Subsec. (a). Pub. L. 111–211, §231(b), inserted heading, designated first sentence as par. (1), inserted par. (1) heading, substituted "Not later than 180 days after July 29, 2010, the Secretary shall establish procedures to enter into memoranda of agreement" for "The Secretary may enter into an agreement", designated second sentence as par. (2), inserted par. (2) heading, and added par. (3).
 
 Subsec. (g). Pub. L. 111–211, §231(e), added subsec. (g).
 

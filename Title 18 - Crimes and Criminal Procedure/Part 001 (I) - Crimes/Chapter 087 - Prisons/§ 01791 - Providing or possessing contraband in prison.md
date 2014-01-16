@@ -32,7 +32,7 @@ Consecutive Punishment Required in Certain Cases.—Any punishment imposed under
 
 Definitions.—As used in this section—
 
-&emsp;(1) the term “prohibited object” means—
+&emsp;(1) the term "prohibited object" means—
 
 &emsp;&emsp;(A) a firearm or destructive device or a controlled substance in schedule I or II, other than marijuana or a controlled substance referred to in subparagraph (C) of this subsection;
 
@@ -48,13 +48,13 @@ Definitions.—As used in this section—
 
 &emsp;&emsp;(G) any other object that threatens the order, discipline, or security of a prison, or the life, health, or safety of an individual;
 
-&emsp;(2) the terms “ammunition”, “firearm”, and “destructive device” have, respectively, the meanings given those terms in section 921 of this title;
+&emsp;(2) the terms "ammunition", "firearm", and "destructive device" have, respectively, the meanings given those terms in section 921 of this title;
 
-&emsp;(3) the terms “controlled substance” and “narcotic drug” have, respectively, the meanings given those terms in section 102 of the Controlled Substances Act (21 U.S.C. 802); and
+&emsp;(3) the terms "controlled substance" and "narcotic drug" have, respectively, the meanings given those terms in section 102 of the Controlled Substances Act (21 U.S.C. 802); and
 
-&emsp;(4) the term “prison” means a Federal correctional, detention, or penal facility or any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General.
+&emsp;(4) the term "prison" means a Federal correctional, detention, or penal facility or any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General.
 
-(June 25, 1948, ch. 645, 62 Stat. 786; Pub. L. 98–473, title II, §1109(a), Oct. 12, 1984, 98 Stat. 2147; Pub. L. 99–646, §52(a), Nov. 10, 1986, 100 Stat. 3606; Pub. L. 100–690, title VI, §6468(a), (b), Nov. 18, 1988, 102Stat. 4376; Pub. L. 103–322, title IX, §90101, title XXXIII, §330003(a), Sept. 13, 1994,108 Stat. 1986, 2140; Pub. L. 104–294, title VI, §601(m), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 109–162, title XI, §1178, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 111–225, §2, Aug. 10, 2010, 124 Stat. 2387.)
+(June 25, 1948, ch. 645, 62 Stat. 786; Pub. L. 98–473, title II, §1109(a), Oct. 12, 1984, 98 Stat. 2147; Pub. L. 99–646, §52(a), Nov. 10, 1986, 100 Stat. 3606; Pub. L. 100–690, title VI, §6468(a), (b), Nov. 18, 1988, 102 Stat. 4376; Pub. L. 103–322, title IX, §90101, title XXXIII, §330003(a), Sept. 13, 1994,108 Stat. 1986, 2140; Pub. L. 104–294, title VI, §601(m), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 109–162, title XI, §1178, Jan. 5, 2006, 119 Stat. 3126; Pub. L. 111–225, §2, Aug. 10, 2010, 124 Stat. 2387.)
 
 #### Historical and Revision Notes
 
@@ -62,9 +62,9 @@ Based on title 18, U.S.C., 1940 ed., §§753j, 908 (May 14, 1930, ch. 274, §11,
 
 Section consolidates sections 753j and 908 of title 18, U.S.C., 1940 ed. The section was broadened to include the taking or sending out of contraband from the institution. This was suggested by representatives of the Federal Bureau of Prisons and the Criminal Division of the Department of Justice. In other respects the section was rewritten without change of substance.
 
-The words “narcotic”, “drug”, “weapon” and “contraband” were omitted, since the insertion of the words “contrary to any rule or regulation promulgated by the attorney general” preserves the intent of the original statutes.
+The words "narcotic", "drug", "weapon" and "contraband" were omitted, since the insertion of the words "contrary to any rule or regulation promulgated by the attorney general" preserves the intent of the original statutes.
 
-Words “guilty of a felony” were deleted as unnecessary in view of definitive section 1 of this title. (See also reviser's note under section 550 of this title.)
+Words "guilty of a felony" were deleted as unnecessary in view of definitive section 1 of this title. (See also reviser's note under section 550 of this title.)
 
 Minor verbal changes also were made.
 
@@ -74,73 +74,73 @@ Schedules I, II, and III, referred to in subsec. (d)(1)(A), (B), probably mean s
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(4). Pub. L. 111–225, §2(1)(A), substituted “, (d)(1)(E), or (d)(1)(F)” for “or (d)(1)(E)”.
+<b>2010</b>—Subsec. (b)(4). Pub. L. 111–225, §2(1)(A), substituted ", (d)(1)(E), or (d)(1)(F)" for "or (d)(1)(E)".
 
-Subsec. (b)(5). Pub. L. 111–225, §2(1)(B), substituted “(d)(1)(G)” for “(d)(1)(F)”.
+Subsec. (b)(5). Pub. L. 111–225, §2(1)(B), substituted "(d)(1)(G)" for "(d)(1)(F)".
 
 Subsec. (d)(1)(F), (G). Pub. L. 111–225, §2(2), added subpar. (F) and redesignated former subpar. (F) as (G).
 
-<b>2006</b>—Subsec. (d)(4). Pub. L. 109–162 inserted “or any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General” after “penal facility”.
+<b>2006</b>—Subsec. (d)(4). Pub. L. 109–162 inserted "or any prison, institution, or facility in which persons are held in custody by direction of or pursuant to a contract or agreement with the Attorney General" after "penal facility".
 
 <b>1996</b>—Subsec. (c). Pub. L. 104–294 inserted heading.
 
-<b>1994</b>—Subsec. (b)(2) to (5). Pub. L. 103–322, §§90101(6), 330003(a), amended subsec. (b) identically, substituting “(d)” for “(c)” wherever appearing in pars. (2) to (5).
+<b>1994</b>—Subsec. (b)(2) to (5). Pub. L. 103–322, §§90101(6), 330003(a), amended subsec. (b) identically, substituting "(d)" for "(c)" wherever appearing in pars. (2) to (5).
 
-Subsec. (c). Pub. L. 103–322, §90101(1), inserted at beginning “Any punishment imposed under subsection (b) for a violation of this section involving a controlled substance shall be consecutive to any other sentence imposed by any court for an offense involving such a controlled substance.”
+Subsec. (c). Pub. L. 103–322, §90101(1), inserted at beginning "Any punishment imposed under subsection (b) for a violation of this section involving a controlled substance shall be consecutive to any other sentence imposed by any court for an offense involving such a controlled substance."
 
-Subsec. (d)(1)(A). Pub. L. 103–322, §90101(2), inserted before semicolon at end “or a controlled substance in schedule I or II, other than marijuana or a controlled substance referred to in subparagraph (C) of this subsection”.
+Subsec. (d)(1)(A). Pub. L. 103–322, §90101(2), inserted before semicolon at end "or a controlled substance in schedule I or II, other than marijuana or a controlled substance referred to in subparagraph (C) of this subsection".
 
-Subsec. (d)(1)(B). Pub. L. 103–322, §90101(3), inserted “marijuana or a controlled substance in schedule III, other than a controlled substance referred to in subparagraph (C) of this subsection,” before “ammunition,”.
+Subsec. (d)(1)(B). Pub. L. 103–322, §90101(3), inserted "marijuana or a controlled substance in schedule III, other than a controlled substance referred to in subparagraph (C) of this subsection," before "ammunition,".
 
-Subsec. (d)(1)(C). Pub. L. 103–322, §90101(4), inserted “methamphetamine, its salts, isomers, and salts of its isomers,” after “narcotic drug,”.
+Subsec. (d)(1)(C). Pub. L. 103–322, §90101(4), inserted "methamphetamine, its salts, isomers, and salts of its isomers," after "narcotic drug,".
 
-Subsec. (d)(1)(D). Pub. L. 103–322, §90101(5), inserted “(A), (B), or” before “(C)”.
+Subsec. (d)(1)(D). Pub. L. 103–322, §90101(5), inserted "(A), (B), or" before "(C)".
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–690, §6468(a), added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, and struck out “or (c)(1)(C)” after “subsection (c)(1)(B)” in par. (3) as redesignated.
+<b>1988</b>—Subsec. (b). Pub. L. 100–690, §6468(a), added par. (1), redesignated former pars. (1) to (4) as (2) to (5), respectively, and struck out "or (c)(1)(C)" after "subsection (c)(1)(B)" in par. (3) as redesignated.
 
 Subsecs. (c), (d). Pub. L. 100–690, §6468(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
 <b>1986</b>—Pub. L. 99–646 amended section generally. Prior to amendment, section read as follows:
 
-“(a)
+"(a)
 
 Offense.—A person commits an offense if, in violation of a statute, or a regulation, rule, or order issued pursuant thereto—
 
-&emsp;“(1) he provides, or attempts to provide, to an inmate of a Federal penal or correctional facility—
+&emsp;"(1) he provides, or attempts to provide, to an inmate of a Federal penal or correctional facility—
 
-&emsp;&emsp;“(A) a firearm or destructive device;
+&emsp;&emsp;"(A) a firearm or destructive device;
 
-&emsp;&emsp;“(B) any other weapon or object that may be used as a weapon or as a means of facilitating escape;
+&emsp;&emsp;"(B) any other weapon or object that may be used as a weapon or as a means of facilitating escape;
 
-&emsp;&emsp;“(C) a narcotic drug as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802);
+&emsp;&emsp;"(C) a narcotic drug as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802);
 
-&emsp;&emsp;“(D) a controlled substance, other than a narcotic drug, as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802), or an alcoholic beverage;
+&emsp;&emsp;"(D) a controlled substance, other than a narcotic drug, as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802), or an alcoholic beverage;
 
-&emsp;&emsp;“(E) United States currency; or
+&emsp;&emsp;"(E) United States currency; or
 
-&emsp;&emsp;“(F) any other object; or
+&emsp;&emsp;"(F) any other object; or
 
-&emsp;“(2) being an inmate of a Federal penal or correctional facility, he makes, possesses, procures, or otherwise provides himself with, or attempts to make, possess, procure, or otherwise provide himself with, anything described in paragraph (1).
+&emsp;"(2) being an inmate of a Federal penal or correctional facility, he makes, possesses, procures, orotherwise provides himself with, or attempts to make, possess, procure, or otherwise provide himself with, anything described in paragraph (1).
 
-“(b)
+"(b)
 
 Grading.—An offense described in this section is punishable by—
 
-&emsp;“(1) imprisonment for not more than ten years, a fine of not more than $25,000, or both, if the object is anything set forth in paragraph (1)(A);
+&emsp;"(1) imprisonment for not more than ten years, a fine of not more than $25,000, or both, if the object is anything set forth in paragraph (1)(A);
 
-&emsp;“(2) imprisonment for not more than five years, a fine of not more than $10,000, or both, if the object is anything set forth in paragraph (1)(B) or (1)(C);
+&emsp;"(2) imprisonment for not more than five years, a fine of not more than $10,000, or both, if the object is anything set forth in paragraph (1)(B) or (1)(C);
 
-&emsp;“(3) imprisonment for not more than one year, a fine of not more than $5,000, or both, if the object is anything set forth in paragraph (1)(D) or (1)(E); and
+&emsp;"(3) imprisonment for not more than one year, a fine of not more than $5,000, or both, if the object is anything set forth in paragraph (1)(D) or (1)(E); and
 
-&emsp;“(4) imprisonment for not more than six months, a fine of not more than $1,000, or both, if the object is any other object.
+&emsp;"(4) imprisonment for not more than six months, a fine of not more than $1,000, or both, if the object is any other object.
 
-“(c)
+"(c)
 
-Definitions.—As used in this section, ‘firearm’ and ‘destructive device’ have the meaning given those terms, respectively, in 18 U.S.C. 921(a)(3) and (4).”
+Definitions.—As used in this section, 'firearm' and 'destructive device' have the meaning given those terms, respectively, in 18 U.S.C. 921(a)(3) and (4)."
 
-<b>1984</b>—Pub. L. 98–473 substituted provisions relating to providing or possessing contraband in prison, grading of offenses and definitions of “firearm” and “destructive device” for former provisions relating to traffic in contraband articles.
+<b>1984</b>—Pub. L. 98–473 substituted provisions relating to providing or possessing contraband in prison, grading of offenses and definitions of "firearm" and "destructive device" for former provisions relating to traffic in contraband articles.
 
 #### Effective Date of 1986 Amendment
 
-Pub. L. 99–646, §52(b), Nov. 10, 1986, 100 Stat. 3607, provided that: “The amendment made by this section \[amending this section\] shall take effect 30 days after the date of the enactment of this Act \[Nov. 10, 1986\].”
+Pub. L. 99–646, §52(b), Nov. 10, 1986, 100 Stat. 3607, provided that: "The amendment made by this section \[amending this section\] shall take effect 30 days after the date of the enactment of this Act \[Nov. 10, 1986\]."
 

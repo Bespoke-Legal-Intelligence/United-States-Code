@@ -40,15 +40,15 @@ Oct. 15, 1966, Pub. L. 89–670, 80 Stat. 931, §5(f); added Feb. 5, 1976, Pub. 
 
 49 App.:1654(f) (last sentence).
 
-In subsection (a), the words “under this chapter” are added for clarity. The words “a law” are substituted for “legislation” for consistency in the revised title.
+In subsection (a), the words "under this chapter" are added for clarity. The words "a law" are substituted for "legislation" for consistency in the revised title.
 
-In subsection (b)(3), the words “established by the Secretary” are omitted as surplus.
+In subsection (b)(3), the words "established by the Secretary" are omitted as surplus.
 
-In subsection (b)(5), the words “applying for assistance” are omitted as unnecessary because of the restatement.
+In subsection (b)(5), the words "applying for assistance" are omitted as unnecessary because of the restatement.
 
 #### Amendments
 
-<b>1995</b>—Subsec. (b)(1). Pub. L. 104–88 substituted “Surface Transportation Board” for “Interstate Commerce Commission”.
+<b>1995</b>—Subsec. (b)(1). Pub. L. 104–88 substituted "Surface Transportation Board" for "Interstate Commerce Commission".
 
 #### Effective Date of 1995 Amendment
 

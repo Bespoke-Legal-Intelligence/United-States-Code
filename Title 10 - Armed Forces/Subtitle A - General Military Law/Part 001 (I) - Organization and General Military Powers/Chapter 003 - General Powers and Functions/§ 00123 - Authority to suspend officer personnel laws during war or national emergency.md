@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 Sept. 3, 1954, ch. 1257, §209 (less applicability to National Guard), 68 Stat. 1152.
 
-In subsection (b), the words “the same as” are substituted for the word “comparable”, since any necessary differences in the recommended legislation between Reserves and Regulars are fully taken account of in the words “So far as practicable”.
+In subsection (b), the words "the same as" are substituted for the word "comparable", since any necessary differences in the recommended legislation between Reserves and Regulars are fully taken account of in the words "So far as practicable".
 
 #### References in Text
 
@@ -38,9 +38,9 @@ Provisions similar to those in this section were contained in section 644 of thi
 
 <b>2001</b>—Subsec. (d). Pub. L. 107–107 added subsec. (d).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–106 struck out “281, 592, 1002, 1005, 1006, 1007, 1374, 3217, 3218, 3219, 3220, 3352(a) (last sentence),” after “armed force:”, “5414, 5457, 5458, 5506,” after “3855,”, and “8217, 8218, 8219,” after “6410,” and substituted “8855, 10214, 12003, 12004, 12005, 12007, 12202, 12213(a) (second sentence), 12642, 12645, 12646, 12647, 12771, 12772, and 12773” for “and 8855”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 struck out "281, 592, 1002, 1005, 1006, 1007, 1374, 3217, 3218, 3219, 3220, 3352(a) (last sentence)," after "armed force:", "5414, 5457, 5458, 5506," after "3855,", and "8217, 8218, 8219," after "6410," and substituted "8855, 10214, 12003, 12004, 12005, 12007, 12202, 12213(a) (second sentence), 12642, 12645, 12646, 12647, 12771, 12772, and 12773" for "and 8855".
 
-<b>1994</b>—Pub. L. 103–337 substituted “Authority to suspend officer personnel laws during war or national emergency” for “Suspension of certain provisions of law relating to reserve commissioned officers” as section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsecs. (a) and (b).
+<b>1994</b>—Pub. L. 103–337 substituted "Authority to suspend officer personnel laws during war or national emergency" for "Suspension of certain provisions of law relating to reserve commissioned officers" as section catchline and amended text generally, substituting subsecs. (a) to (c) for former subsecs. (a) and (b).
 
 <b>1981</b>—Subsec. (a). Pub. L. 97–22 struck out references to sections 3494 and 8494.
 
@@ -66,7 +66,7 @@ Pub. L. 97–22, §10(b), July 10, 1981, 95 Stat. 137, provided that the amendme
 
 #### Effective Date of 1980 Amendment
 
-Amendment by section 501(3) of Pub. L. 96–513, striking out references to sections 3571, 5867, and 8571, effective Sept. 15, 1981, and amendment by section 511(1) of Pub. L. 96–513, striking out references to sections 3847,8370, and 8847, effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
+Amendment by section 501(3) of Pub. L. 96–513, striking out references to sections 3571, 5867, and 8571, effective Sept. 15, 1981, and amendment by section 511(1) of Pub. L. 96–513, striking out references to sections 3847, 8370, and 8847, effective Dec. 12, 1980, see section 701 of Pub. L. 96–513, set out as a note under section 101 of this title.
 
 #### Transfer of Functions
 

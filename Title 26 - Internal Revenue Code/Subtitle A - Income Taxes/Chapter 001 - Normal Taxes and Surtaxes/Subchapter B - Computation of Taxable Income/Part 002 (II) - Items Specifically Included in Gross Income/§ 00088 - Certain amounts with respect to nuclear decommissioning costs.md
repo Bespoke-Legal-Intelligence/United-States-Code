@@ -6,7 +6,7 @@ In the case of any taxpayer who is required to include the amount of any nuclear
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–514 substituted “for ratemaking purposes” for “of ratemaking purposes”.
+<b>1986</b>—Pub. L. 99–514 substituted "for ratemaking purposes" for "of ratemaking purposes".
 
 #### Effective Date of 1986 Amendment
 

@@ -22,7 +22,7 @@
 
 #### (C) Covered year
 
-&emsp;&emsp;In this paragraph, the term “covered year” means a fiscal year prior to the first fiscal year for which the amount appropriated under paragraph (1) is not less than $20,000,000.
+&emsp;&emsp;In this paragraph, the term "covered year" means a fiscal year prior to the first fiscal year for which the amount appropriated under paragraph (1) is not less than $20,000,000.
 
 #### (b) Limitation
 

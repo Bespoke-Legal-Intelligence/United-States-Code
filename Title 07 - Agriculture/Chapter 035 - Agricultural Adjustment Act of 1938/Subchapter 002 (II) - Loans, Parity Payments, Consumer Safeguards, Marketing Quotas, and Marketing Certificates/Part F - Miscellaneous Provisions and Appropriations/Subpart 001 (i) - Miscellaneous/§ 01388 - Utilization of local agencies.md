@@ -6,7 +6,7 @@ The provisions of sections 590h(b) and 590k of title 16, relating to the utiliza
 
 #### (b) Payments to county committees for administrative expenses
 
-(1) The Secretary is authorized and directed, from any funds made available for the purposes of this chapter and chapter 3B of title 16 in connection with which county committees are utilized, to make payments to county committees of farmers to cover the estimated administrative expenses incurred or to be incurred by them in cooperating in carrying out the provisions of this chapter and chapter 3B of title 16. All or part of such estimated administrative expenses of any such committee may be deducted pro rata from chapter 3B of title 16 payments, parity payments, or loans, or other payments under this chapter and chapter 3B of title 16, made unless payment of such expenses is otherwise provided by law. The Secretary may make such payments to such committees in advance of determination of performance by farmers.
+(1) The Secretary is authorized and directed, from any funds made available for the purposes of this chapter and chapter 3B of title 16 in connection with which county committees are utilized, to make payments to county committees of farmers to cover the estimated administrative expenses incurred or to be incurred by them in cooperating in carrying out the provisions of this chapter and chapter 3B of title 16. All or part of such estimated administrative expenses of any such committee may be deducted pro ratafrom chapter 3B of title 16 payments, parity payments, or loans, or other payments under this chapter and chapter 3B of title 16, made unless payment of such expenses is otherwise provided by law. The Secretary may make such payments to such committees in advance of determination of performance by farmers.
 
 (2)(A) The Secretary shall provide compensation to members of such county committees (at not less than the level in effect on December 31, 1985 for county committees) for work actually performed by such persons in cooperating in carrying out this chapter and chapter 3B of title 16 in connection with which such committees are used.
 
@@ -30,7 +30,7 @@ Chapter 3B \[§590a et seq.\] of title 16, referred to in text, was in the origi
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–198, title XVII, §1713(c), Dec. 23, 1985, 99 Stat. 1637, provided that: “The amendments made by this section \[amending this section\] shall become effective on January 1, 1986.”
+Pub. L. 99–198, title XVII, §1713(c), Dec. 23, 1985, 99 Stat. 1637, provided that: "The amendments made by this section \[amending this section\] shall become effective on January 1, 1986."
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

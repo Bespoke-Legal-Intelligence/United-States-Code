@@ -24,7 +24,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 &emsp;For purposes of subsection (a)(1) and section 737—
 
-&emsp;&emsp;(A) the term “money” includes marketable securities, and
+&emsp;&emsp;(A) the term "money" includes marketable securities, and
 
 &emsp;&emsp;(B) such securities shall be taken into account at their fair market value as of the date of the distribution.
 
@@ -34,7 +34,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 #### (A) In general
 
-&emsp;&emsp;The term “marketable securities” means financial instruments and foreign currencies which are, as of the date of the distribution, actively traded (within the meaning of section 1092(d)(1)).
+&emsp;&emsp;The term "marketable securities" means financial instruments and foreign currencies which are, as of the date of the distribution, actively traded (within the meaning of section 1092(d)(1)).
 
 #### (B) Other property
 
@@ -58,7 +58,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 #### (C) Financial instrument
 
-&emsp;&emsp;The term “financial instrument” includes stocks and other equity interests, evidences of indebtedness, options, forward or futures contracts, notional principal contracts, and derivatives.
+&emsp;&emsp;The term "financial instrument" includes stocks and other equity interests, evidences of indebtedness, options, forward or futures contracts, notional principal contracts, and derivatives.
 
 #### (3) Exceptions
 
@@ -88,7 +88,7 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 #### (i) Investment partnership
 
-&emsp;&emsp;&emsp;The term “investment partnership” means any partnership which has never been engaged in a trade or business and substantially all of the assets (by value) of which have always consisted of—
+&emsp;&emsp;&emsp;The term "investment partnership" means any partnership which has never been engaged in a trade or business and substantially all of the assets (by value) of which have always consisted of—
 
 &emsp;&emsp;&emsp;&emsp;(I) money,
 
@@ -118,11 +118,11 @@ No gain or loss shall be recognized to a partnership on a distribution to a part
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term “eligible partner” means any partner who, before the date of the distribution, did not contribute to the partnership any property other than assets described in clause (i).
+&emsp;&emsp;&emsp;&emsp;The term "eligible partner" means any partner who, before the date of the distribution, did not contribute to the partnership any property other than assets described in clause (i).
 
 #### (II) Exception for certain nonrecognition transactions
 
-&emsp;&emsp;&emsp;&emsp;The term “eligible partner” shall not include the transferor or transferee in a nonrecognition transaction involving a transfer of any portion of an interest in a partnership with respect to which the transferor was not an eligible partner.
+&emsp;&emsp;&emsp;&emsp;The term "eligible partner" shall not include the transferor or transferee in a nonrecognition transaction involving a transfer of any portion of an interest in a partnership with respect to which the transferor was not an eligible partner.
 
 #### (iv) Look-thru of partnership tiers
 
@@ -172,11 +172,11 @@ Section 2(a)(32) of the Investment Company Act of 1940, referred to in subsec. (
 
 #### Amendments
 
-<b>1997</b>—Subsecs. (a)(2)(B), (c)(6). Pub. L. 105–34 substituted “section 751(d)” for “section 751(d)(2)”.
+<b>1997</b>—Subsecs. (a)(2)(B), (c)(6). Pub. L. 105–34 substituted "section 751(d)" for "section 751(d)(2)".
 
 <b>1994</b>—Subsecs. (c), (d). Pub. L. 103–465 added subsec. (c) and redesignated former subsec. (c) as (d).
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–486 substituted “, section 751” for “and section 751” and inserted before period at end “, and section 737 (relating to recognition of precontribution gain in case of certain distributions)”.
+<b>1992</b>—Subsec. (c). Pub. L. 102–486 substituted ", section 751" for "and section 751" and inserted before period at end ", and section 737 (relating to recognition of precontribution gain in case of certain distributions)".
 
 #### Effective Date of 1997 Amendment
 
@@ -186,53 +186,53 @@ Amendment by Pub. L. 105–34 applicable to sales, exchanges, and distributions 
 
 Pub. L. 103–465, title VII, §741(c), Dec. 8, 1994, 108 Stat. 5009, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as otherwise provided in this subsection, the amendments made by this section \[amending this section and section 737 of this title\] shall apply to distributions after the date of the enactment of this Act \[Dec. 8, 1994\].
 
-“(2)
+"(2)
 
 Certain distributions before january 1, 1995.—The amendments made by this section shall not apply to any marketable security distributed before January 1, 1995, by the partnership which held such security on July 27, 1994.
 
-“(3)
+"(3)
 
 Distributions in liquidation of partner's interest.—The amendments made by this section shall not apply to the distribution of a marketable security in liquidation of a partner's interest in a partnership if—
 
-&emsp;“(A) such liquidation is pursuant to a written contract which was binding on July 15, 1994, and at all times thereafter before the distribution, and
+&emsp;"(A) such liquidation is pursuant to a written contract which was binding on July 15, 1994, and at all times thereafter before the distribution, and
 
-&emsp;“(B) such contract provides for the purchase of such interest not later than a date certain for—
+&emsp;"(B) such contract provides for the purchase of such interest not later than a date certain for—
 
-&emsp;&emsp;“(i) a fixed value of marketable securities that are specified in the contract, or
+&emsp;&emsp;"(i) a fixed value of marketable securities that are specified in the contract, or
 
-&emsp;&emsp;“(ii) other property.
+&emsp;&emsp;"(ii) other property.
 
 > The preceding sentence shall not apply if the partner has the right to elect that such distribution be made other than in marketable securities.
 
-“(4)
+"(4)
 
 Distributions in complete liquidation of publicly traded partnerships.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—The amendments made by this section shall not apply to the distribution of a marketable security in a qualified partnership liquidation if—
 
-&emsp;&emsp;“(i) the marketable securities were received by the partnership in a nonrecognition transaction in exchange for substantially all of the assets of the partnership,
+&emsp;&emsp;"(i) the marketable securities were received by the partnership in a nonrecognition transaction in exchange for substantially all of the assets of the partnership,
 
-&emsp;&emsp;“(ii) the marketable securities are distributed by the partnership within 90 days after their receipt by the partnership, and
+&emsp;&emsp;"(ii) the marketable securities are distributed by the partnership within 90 days after their receipt by the partnership, and
 
-&emsp;&emsp;“(iii) the partnership is liquidated before the beginning of the 1st taxable year of the partnership beginning after December 31, 1997.
+&emsp;&emsp;"(iii) the partnership is liquidated before the beginning of the 1st taxable year of the partnership beginning after December 31, 1997.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Qualified partnership liquidation.—For purposes of subparagraph (A), the term ‘qualified partnership liquidation’ means—
+Qualified partnership liquidation.—For purposes of subparagraph (A), the term 'qualified partnership liquidation' means—
 
-&emsp;&emsp;“(i) a complete liquidation of a publicly traded partnership (as defined in section 7704(b) of the Internal Revenue Code of 1986) which is an existing partnership (as defined in section 10211(c)(2) of the Revenue Act of 1987 \[Pub. L. 100–203, set out as an Effective Date note under section 7704 of this title\]), and
+&emsp;&emsp;"(i) a complete liquidation of a publicly traded partnership (as defined in section 7704(b) of the Internal Revenue Code of 1986) which is an existing partnership (as defined in section 10211(c)(2) of the Revenue Act of 1987 \[Pub. L. 100–203, set out as an Effective Date note under section 7704 of this title\]), and
 
-&emsp;&emsp;“(ii) a complete liquidation of a partnership which is related to a partnership described in clause (i) if such liquidation is related to a complete liquidation of the partnership described in clause (i).
+&emsp;&emsp;"(ii) a complete liquidation of a partnership which is related to a partnership described in clause (i) if such liquidation is related to a complete liquidation of the partnership described in clause (i).
 
-“(5)
+"(5)
 
-Marketable securities.—For purposes of this subsection, the term ‘marketable securities’ has the meaning given such term by section 731(c) of the Internal Revenue Code of 1986, as added by this section.”
+Marketable securities.—For purposes of this subsection, the term 'marketable securities' has the meaning given such term by section 731(c) of the Internal Revenue Code of 1986, as added by this section."
 
 #### Effective Date of 1992 Amendment
 

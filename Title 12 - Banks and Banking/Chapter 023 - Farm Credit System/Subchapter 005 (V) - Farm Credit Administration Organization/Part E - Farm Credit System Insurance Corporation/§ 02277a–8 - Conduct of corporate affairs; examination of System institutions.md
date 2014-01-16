@@ -40,7 +40,7 @@
 
 #### (3) Powers and report
 
-&emsp;Each examiner appointed under paragraph (2) shall make such examination of the affairsof the System institution as the Board may direct, and shall make a full and detailed report of the examination to the Corporation.
+&emsp;Each examiner appointed under paragraph (2) shall make such examination of the affairs of the System institution as the Board may direct, and shall make a full and detailed report of the examination to the Corporation.
 
 #### (4) Appointment of claim agents
 
@@ -58,29 +58,29 @@ The examiners appointed by the Board of Directors shall cooperate to the maximum
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–105 inserted at end “Notwithstanding any other provision of this chapter, on cancellation of the charter of a System institution, the Corporation shall have authority to examine the system institution in receivership. An examination shall be performed at such intervals as the Corporation shall determine.”
+<b>1996</b>—Subsec. (b)(1)(A). Pub. L. 104–105 inserted at end "Notwithstanding any other provision of this chapter, on cancellation of the charter of a System institution, the Corporation shall have authority to examine the system institution in receivership. An examination shall be performed at such intervals as the Corporation shall determine."
 
-<b>1992</b>—Pub. L. 102–552, §513(a)(1), substituted “System institutions” for “insured System banks” in section catchline.
+<b>1992</b>—Pub. L. 102–552, §513(a)(1), substituted "System institutions" for "insured System banks" in section catchline.
 
 Subsec. (a)(5). Pub. L. 102–552, §203, added par. (5).
 
-Subsec. (b). Pub. L. 102–552, §513(a)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “(b)
+Subsec. (b). Pub. L. 102–552, §513(a)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: "(b)
 
 Examination of Insured System Banks.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Appointment of examiners.—The Board of Directors may appoint examiners who may, on behalf of the Corporation, examine any insured System bank, any production credit association, any other association making direct loans under authority provided under section 2279b of this title, and any System institution in receivership, if in the judgment of the Board of Directors an examination of the institution is necessary.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Powers and report.—Each examiner may make a thorough examination of all affairs of the institution, and shall make a full and detailed report of the condition of the institution to the Corporation.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Appointment of claim agents.—The Board of Directors, in like manner, shall appoint claim agents who may investigate and examine all claims for insured obligations.”
+Appointment of claim agents.—The Board of Directors, in like manner, shall appoint claim agents who may investigate and examine all claims for insured obligations."
 
-<b>1989</b>—Subsec. (b)(1). Pub. L. 101–220 inserted “any other association making direct loans under authority provided under section 2279b of this title,” after “any production credit association,”.
+<b>1989</b>—Subsec. (b)(1). Pub. L. 101–220 inserted "any other association making direct loans under authority provided under section 2279b of this title," after "any production credit association,".
 
 #### Effective Date of 1989 Amendment
 

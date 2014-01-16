@@ -30,9 +30,13 @@ For the purpose of this subchapter—
 
 (Added Pub. L. 95–454, title VIII, §801(a)(1), Oct. 13, 1978, 92 Stat. 1218; amended Pub. L. 98–615, title II, §204(a)(2), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 101–509, title V, §529 \[title I, §105(b)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1448; Pub. L. 103–89, §3(b)(1)(J), Sept. 30, 1993, 107 Stat. 982; Pub. L. 108–411, title III, §301(a)(4), Oct. 30, 2004, 118 Stat. 2315.)
 
+#### References in Text
+
+The General Schedule, referred to in par. (5), is set out under section 5332 of this title.
+
 #### Prior Provisions
 
-A prior section 5361, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, which related to scientific and professional positions, was renumbered section 5371 of this title by Pub. L. 95–454, title VIII, §801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221.
+A prior section 5361, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 473, which related to scientific and professionalpositions, was renumbered section 5371 of this title by Pub. L. 95–454, title VIII, §801(a)(3)(A)(ii), Oct. 13, 1978, 92 Stat. 1221.
 
 #### Amendments
 

@@ -16,5 +16,5 @@ A final decision of the Secretary under subsection (a) of this section may be ap
 
 #### Amendments
 
-<b>1991</b>—Subsec. (b). Pub. L. 102–237 substituted “district court for the district” for “District Court for the District”.
+<b>1991</b>—Subsec. (b). Pub. L. 102–237 substituted "district court for the district" for "District Court for the District".
 

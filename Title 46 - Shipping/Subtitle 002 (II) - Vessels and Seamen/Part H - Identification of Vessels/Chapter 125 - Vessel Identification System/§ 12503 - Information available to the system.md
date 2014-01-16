@@ -48,9 +48,9 @@ Under paragraph (c)(1), the Secretary must maintain information on a State-title
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–304 substituted “delegate” for “delegee” in introductory provisions.
+<b>2006</b>—Subsec. (a). Pub. L. 109–304 substituted "delegate" for "delegee" in introductory provisions.
 
-<b>1990</b>—Subsec. (a)(2)(A). Pub. L. 101–595 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the owner's social security number; or”.
+<b>1990</b>—Subsec. (a)(2)(A). Pub. L. 101–595 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: "the owner's social security number; or".
 
 <b>1989</b>—Subsec. (a)(2). Pub. L. 101–225 amended par. (2) generally, adding subpars. (A) and (B).
 

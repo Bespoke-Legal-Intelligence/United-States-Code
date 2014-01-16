@@ -26,7 +26,7 @@
 
 (ii) The Secretary shall monitor compliance with this subparagraph by all such fleets and shall report annually to Congress on the extent to which the requirements of this subparagraph are being achieved. The report shall include information on annual reductions achieved from the use of petroleum-based fuels and the problems, if any, encountered in acquiring alternative fuels.
 
-(F) At least 50 percent of the alternative fuels used in vehicles acquired pursuant to this section shall be derived from domestic feedstocks, except to the extent inconsistent with the multilateral trade agreements (as defined in section 3501(4) of title 19). The Secretary shall issue regulations to implement this requirement. For purposes of this subparagraph, the term “domestic” has the meaning given such term in section 13211(7) of this title.
+(F) At least 50 percent of the alternative fuels used in vehicles acquired pursuant to this section shall be derived from domestic feedstocks, except to the extent inconsistent with the multilateral trade agreements (as defined in section 3501(4) of title 19). The Secretary shall issue regulations to implement this requirement. For purposes of this subparagraph, the term "domestic" has the meaning given such term in section 13211(7) of this title.
 
 (G) Except to the extent inconsistent with the multilateral trade agreements (as defined in section 3501(4) of title 19), vehicles acquired under this section shall be motor vehicles manufactured in the United States or Canada.
 
@@ -44,7 +44,7 @@
 
 (B) The Secretary shall provide a report on the results of the study conducted under subparagraph (A) to the Committees on Commerce, Science, and Transportation and Governmental Affairs of the Senate, and the Committee on Energy and Commerce of the House of Representatives, within one year after the first such vehicles are acquired.
 
-(2)(A) The Secretary and the Administrator of the General Services Administration shall conduct a study of the advisability, feasibility, and timing of the disposal of vehicles acquired under subsection (a) of this section and any problems of such disposal. Such study shall take into account existing laws governing the sale of Government vehicles and shall specifically focus on when to sell such vehicles and what price tocharge, without compromising studies of the use of such vehicles authorized under this part.
+(2)(A) The Secretary and the Administrator of the General Services Administration shall conduct a study of the advisability, feasibility, and timing of the disposal of vehicles acquired under subsection (a) of this section and any problems of such disposal. Such study shall take into account existing laws governing the sale of Government vehicles and shall specifically focus on when to sell such vehicles and what price to charge, without compromising studies of the use of such vehicles authorized under this part.
 
 (B) The Secretary and the Administrator of the General Services Administration shall report the results of the study conducted under subparagraph (A) to the Committees on Commerce, Science, and Transportation and Governmental Affairs of the Senate, and the Committee on Energy and Commerce of the House of Representatives, within 12 months after funds are appropriated for carrying out this section.
 
@@ -90,25 +90,25 @@ Upon the request of the Secretary, the head of any Federal agency may detail, on
 
 For purposes of this part—
 
-&emsp;(1) the term “acquired” means leased for a period of sixty continuous days or more, or purchased;
+&emsp;(1) the term "acquired" means leased for a period of sixty continuous days or more, or purchased;
 
-&emsp;(2) the term “alternative fuel” means methanol, denatured ethanol, and other alcohols; mixtures containing 85 percent or more (or such other percentage, but not less than 70 percent, as determined by the Secretary, by rule, to provide for requirements relating to cold start, safety, or vehicle functions) by volume of methanol, denatured ethanol, and other alcohols with gasoline or other fuels; natural gas; liquefied petroleum gas; hydrogen; coal-derived liquid fuels; fuels (other than alcohol) derived from biological materials; electricity (including electricity from solar energy); and any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits;
+&emsp;(2) the term "alternative fuel" means methanol, denatured ethanol, and other alcohols; mixtures containing 85 percent or more (or such other percentage, but not less than 70 percent, as determined by the Secretary, by rule, to provide for requirements relating to cold start, safety, or vehicle functions) by volume of methanol, denatured ethanol, and other alcohols with gasoline or other fuels; natural gas; liquefied petroleum gas; hydrogen; coal-derived liquid fuels; fuels (other than alcohol) derived from biological materials; electricity (including electricity from solar energy); and any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits;
 
-&emsp;(3) the term “alternative fueled vehicle” means a dedicated vehicle or a dual fueled vehicle;
+&emsp;(3) the term "alternative fueled vehicle" means a dedicated vehicle or a dual fueled vehicle;
 
-&emsp;(4) the term “dedicated vehicle” means—
+&emsp;(4) the term "dedicated vehicle" means—
 
 &emsp;&emsp;(A) a dedicated automobile, as such term is defined in section 32901(a)(7) <sup>1</sup> of title 49; or
 
 &emsp;&emsp;(B) a motor vehicle, other than an automobile, that operates solely on alternative fuel;
 
-&emsp;(5) the term “dual fueled vehicle” means—
+&emsp;(5) the term "dual fueled vehicle" means—
 
 &emsp;&emsp;(A) dual fueled automobile, as such term is defined in section 32901(a)(8) <sup>1</sup> of title 49; or
 
 &emsp;&emsp;(B) a motor vehicle, other than an automobile, that is capable of operating on alternative fuel and is capable of operating on gasoline or diesel fuel; and
 
-&emsp;(6) the term “heavy duty vehicle” means a vehicle of greater than 8,500 pounds gross vehicle weight rating.
+&emsp;(6) the term "heavy duty vehicle" means a vehicle of greater than 8,500 pounds gross vehicle weight rating.
 
 #### (h) Funding
 
@@ -116,7 +116,7 @@ For purposes of this part—
 
 (2) The authority of the Secretary to obligate amounts to be expended under this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
 
-(Pub. L. 94–163, title III, §400AA, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2442;amended Pub. L. 102–486, title III, §§302(a), 309, Oct. 24, 1992, 106 Stat. 2868, 2874; Pub. L. 104–66, title I, §§1051(a), 1052(e), Dec. 21, 1995, 109 Stat. 716, 718; Pub. L. 105–388, §5(a)(14), Nov. 13, 1998, 112 Stat. 3479; Pub. L. 106–36, title I, §1002(h), June 25, 1999, 113 Stat. 134; Pub. L. 109–58, title VII, §701, Aug. 8, 2005, 119 Stat. 814.)
+(Pub. L. 94–163, title III, §400AA, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2442; amended Pub. L. 102–486, title III, §§302(a), 309, Oct. 24, 1992, 106 Stat. 2868, 2874; Pub. L. 104–66, title I, §§1051(a), 1052(e), Dec. 21, 1995, 109 Stat. 716, 718; Pub. L. 105–388, §5(a)(14), Nov. 13, 1998, 112 Stat. 3479; Pub. L. 106–36, title I, §1002(h), June 25, 1999, 113 Stat. 134; Pub. L. 109–58, title VII, §701, Aug. 8, 2005, 119 Stat. 814.)
 
 #### References in Text
 
@@ -124,47 +124,47 @@ Paragraphs (7) and (8) of section 32901(a) of title 49, referred to in subsec. (
 
 #### Codification
 
-In subsec. (g)(4)(A), (5)(A), “section 32901(a)(7) of title 49” substituted for “section 513(h)(1)(C) of the Motor Vehicle Information Cost Savings Act” and “section 32901(a)(8) of title 49” substituted for “section 513(h)(1)(D) of the Motor Vehicle Information and Cost Savings Act”, respectively, on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (g)(4)(A), (5)(A), "section 32901(a)(7) of title 49" substituted for "section 513(h)(1)(C) of the Motor Vehicle Information Cost Savings Act" and "section 32901(a)(8) of title 49" substituted for "section 513(h)(1)(D) of the Motor Vehicle Information and Cost Savings Act", respectively, on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a)(3)(E). Pub. L. 109–58 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “Dual fueled vehicles acquired pursuant to this section shall be operated on alternative fuels unless the Secretary determines that operation on such alternative fuels is not feasible.”
+<b>2005</b>—Subsec. (a)(3)(E). Pub. L. 109–58 amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: "Dual fueled vehicles acquired pursuant to this section shall be operated on alternative fuels unless the Secretary determines that operation on such alternative fuels is not feasible."
 
-<b>1999</b>—Subsec. (a)(3)(F), (G). Pub. L. 106–36 substituted “multilateral trade agreements (as defined in section 3501(4) of title 19)” for “General Agreement on Tariffs and Trade”.
+<b>1999</b>—Subsec. (a)(3)(F), (G). Pub. L. 106–36 substituted "multilateral trade agreements (as defined in section 3501(4) of title 19)" for "General Agreement on Tariffs and Trade".
 
 <b>1998</b>—Subsecs. (h), (i). Pub. L. 105–388 redesignated subsec. (i) as (h).
 
-<b>1995</b>—Subsec. (b)(1)(B). Pub. L. 104–66, §1052(e), struck out before period at end “, and annually thereafter”.
+<b>1995</b>—Subsec. (b)(1)(B). Pub. L. 104–66, §1052(e), struck out before period at end ", and annually thereafter".
 
 Subsec. (b)(3) to (5). Pub. L. 104–66, §1051(a), redesignated par. (5) as (3) and struck out former par. (3) which directed Secretary to conduct study of heavy duty vehicles acquired under Department of Energy program and report results to Congress and par. (4) which directed Secretary to conduct study of advisability of heavy duty vehicle disposal and report results to Congress.
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, §302(a)(1), substituted “vehicles” for “passenger automobiles and light duty trucks” before “acquired annually for use” and “alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under section 13212 of this title.” for “alcohol powered vehicles, dual energy vehicles, natural gas powered vehicles, or natural gas dual energy vehicles.”
+<b>1992</b>—Subsec. (a)(1). Pub. L. 102–486, §302(a)(1), substituted "vehicles" for "passenger automobiles and light duty trucks" before "acquired annually for use" and "alternative fueled vehicles. In no event shall the number of such vehicles acquired be less than the number required under section 13212 of this title." for "alcohol powered vehicles, dual energy vehicles, natural gas powered vehicles, or natural gas dual energy vehicles."
 
-Subsec. (a)(3). Pub. L. 102–486, §302(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The Secretary shall, to the extent practicable and consistent with this part, ensure that the number of dual energy vehicles acquired under this subsection is at least as great as the number of alcohol powered vehicles acquired under this subsection, and that the number of natural gas dual energy vehicles acquired under this subsection is at least as great as the number of natural gas powered vehicles acquired under this subsection. To the extent practicable, both vehicles capable of operating on alcohol and vehicles capable of operating on natural gas shall be acquired in carrying out this subsection, and such vehicles shall be supplied by original equipment manufacturers.”
+Subsec. (a)(3). Pub. L. 102–486, §302(a)(2), amended par. (3) generally. Prior to amendment, par. (3) read as follows: "The Secretary shall, to the extent practicable and consistent with this part, ensure that the number of dual energy vehicles acquired under this subsection is at least as great as the number of alcohol powered vehicles acquired under this subsection, and that the number of natural gas dual energy vehicles acquired under this subsection is at least as great as the number of natural gas powered vehicles acquired under this subsection. To the extent practicable, both vehicles capable of operating on alcohol and vehicles capable of operating on natural gas shall be acquired in carrying out this subsection, and such vehicles shall be supplied by original equipment manufacturers."
 
 Subsec. (a)(4). Pub. L. 102–486, §302(a)(3), added par. (4).
 
-Subsec. (b)(1)(A). Pub. L. 102–486, §309, substituted “a representative sample of alternative fueled vehicles in Federal fleets” for “the vehicles acquired under subsection (a) of this section”.
+Subsec. (b)(1)(A). Pub. L. 102–486, §309, substituted "a representative sample of alternative fueled vehicles in Federal fleets" for "the vehicles acquired under subsection (a) of this section".
 
 Subsec. (b)(3) to (5). Pub. L. 102–486, §302(a)(4), added pars. (3) to (5).
 
-Subsec. (c). Pub. L. 102–486, §302(a)(5), in introductory provisions substituted “alternative fuels, such fuels” for “alcohol or natural gas, alcohol or natural gas” and in par. (1) substituted “alternative fuel” for “alcohol or natural gas”.
+Subsec. (c). Pub. L. 102–486, §302(a)(5), in introductory provisions substituted "alternative fuels, such fuels" for "alcohol or natural gas, alcohol or natural gas" and in par. (1) substituted "alternative fuel" for "alcohol or natural gas".
 
-Subsec. (d)(2)(B). Pub. L. 102–486, §302(a)(6), substituted “To the extent that appropriations are available for such purposes, the Secretary” for “The Secretary”.
+Subsec. (d)(2)(B). Pub. L. 102–486, §302(a)(6), substituted "To the extent that appropriations are available for such purposes, the Secretary" for "The Secretary".
 
 Subsec. (g)(2) to (6). Pub. L. 102–486, §302(a)(7), added pars. (2) to (6) and struck out former pars. (2) to (6) which read as follows:
 
-“(2) the term ‘alcohol’ means a mixture containing 85 percent or more by volume methanol, ethanol, or other alcohols, in any combination;
+"(2) the term 'alcohol' means a mixture containing 85 percent or more by volume methanol, ethanol, or other alcohols, in any combination;
 
-“(3) the term ‘alcohol powered vehicle’ means a vehicle designed to operate exclusively on alcohol;
+"(3) the term 'alcohol powered vehicle' means a vehicle designed to operate exclusively on alcohol;
 
-“(4) the term ‘dual energy vehicle’ means a vehicle which is capable of operating on alcohol and on gasoline or diesel fuel;
+"(4) the term 'dual energy vehicle' means a vehicle which is capable of operating on alcohol and on gasoline or diesel fuel;
 
-“(5) the term ‘natural gas dual energy vehicle’ means a vehicle which is capable of operating on natural gas and on gasoline or diesel fuel; and
+"(5) the term 'natural gas dual energy vehicle' means a vehicle which is capable of operating on natural gas and on gasoline or diesel fuel; and
 
-“(6) the term ‘natural gas powered vehicle’ means a vehicle designed to operate exclusively on natural gas.”
+"(6) the term 'natural gas powered vehicle' means a vehicle designed to operate exclusively on natural gas."
 
-Subsec. (i)(1). Pub. L. 102–486, §302(a)(8), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purposes of this section, there are authorized to be appropriated for the fiscal year ending September 30, 1990, $5,000,000, for the fiscal year ending September 30, 1991, $3,000,000, for the fiscal year ending September 30, 1992, $2,000,000, and for the fiscal year ending September 30, 1993, $2,000,000.”
+Subsec. (i)(1). Pub. L. 102–486, §302(a)(8), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "For the purposes of this section, there are authorized to be appropriated for the fiscal year ending September 30, 1990, $5,000,000, for the fiscal year ending September 30, 1991, $3,000,000, for the fiscal year ending September 30, 1992, $2,000,000, and for the fiscal year ending September 30, 1993, $2,000,000."
 
 #### Change of Name
 
@@ -178,37 +178,37 @@ Pub. L. 100–494, §4(b), Oct. 14, 1988, 102 Stat. 2448, which provided that th
 
 #### Findings
 
-Pub. L. 100–494, §2, Oct. 14, 1988, 102 Stat. 2441, provided that: “The Congress finds and declares that—
+Pub. L. 100–494, §2, Oct. 14, 1988, 102 Stat. 2441, provided that: "The Congress finds and declares that—
 
-&emsp;“(1) the achievement of long-term energy security for the United States is essential to the health of the national economy, the well-being of our citizens, and the maintenance of national security;
+&emsp;"(1) the achievement of long-term energy security for the United States is essential to the health of the national economy, the well-being of our citizens, and the maintenance of national security;
 
-&emsp;“(2) the displacement of energy derived from imported oil with alternative fuels will help to achieve energy security and improve air quality;
+&emsp;"(2) the displacement of energy derived from imported oil with alternative fuels will help to achieve energy security and improve air quality;
 
-&emsp;“(3) transportation uses account for more than 60 percent of the oil consumption of the Nation;
+&emsp;"(3) transportation uses account for more than 60 percent of the oil consumption of the Nation;
 
-&emsp;“(4) the Nation's security, economic, and environmental interests require that the Federal Government should assist clean-burning, nonpetroleum transportation fuels to reach a threshold level ofcommercial application and consumer acceptability at which they can successfully compete with petroleum-based fuels;
+&emsp;"(4) the Nation's security, economic, and environmental interests require that the Federal Government should assist clean-burning, nonpetroleum transportation fuels to reach a threshold level of commercial application and consumer acceptability at which they can successfully compete with petroleum-based fuels;
 
-&emsp;“(5) methanol, ethanol, and natural gas are proven transportation fuels that burn more cleanly and efficiently than gasoline and diesel fuel;
+&emsp;"(5) methanol, ethanol, and natural gas are proven transportation fuels that burn more cleanly and efficiently than gasoline and diesel fuel;
 
-&emsp;“(6) the production and use as transportation fuels of ethanol, methanol made from natural gas or biomass, and compressed natural gas have been estimated in some studies to release less carbon dioxide than comparable quantities of petroleum-based fuel;
+&emsp;"(6) the production and use as transportation fuels of ethanol, methanol made from natural gas or biomass, and compressed natural gas have been estimated in some studies to release less carbon dioxide than comparable quantities of petroleum-based fuel;
 
-&emsp;“(7) the amount of carbon dioxide released with methanol from a coal-to-methanol industry using currently available technologies has been estimated in some studies to be significantly greater than the amount released with a comparable quantity of petroleum-based fuel;
+&emsp;"(7) the amount of carbon dioxide released with methanol from a coal-to-methanol industry using currently available technologies has been estimated in some studies to be significantly greater than the amount released with a comparable quantity of petroleum-based fuel;
 
-&emsp;“(8) there exists evidence that manmade pollution—the release of carbon dioxide, chlorofluorocarbons, methane, and other trace gases into the atmosphere—may be producing a long term and substantial increase in the average temperature on Earth, a phenomenon known as global warming through the greenhouse effect; and
+&emsp;"(8) there exists evidence that manmade pollution—the release of carbon dioxide, chlorofluorocarbons, methane, and other trace gases into the atmosphere—may be producing a long term and substantial increase in the average temperature on Earth, a phenomenon known as global warming through the greenhouse effect; and
 
-&emsp;“(9) ongoing pollution and deforestation may be contributing now to an irreversible process producing unacceptable global climate changes; necessary actions must be identified and implemented in time to protect the climate, including the development of technologies to control increased carbon dioxide emissions that result with methanol from a coal-to-methanol industry.”
+&emsp;"(9) ongoing pollution and deforestation may be contributing now to an irreversible process producing unacceptable global climate changes; necessary actions must be identified and implemented in time to protect the climate, including the development of technologies to control increased carbon dioxide emissions that result with methanol from a coal-to-methanol industry."
 
 #### Purpose
 
-Pub. L. 100–494, §3, Oct. 14, 1988, 102 Stat. 2442, provided that: “The purpose of this Act \[see Short Title of 1988 Amendment note set out under section 6201 of this title\] is to encourage—
+Pub. L. 100–494, §3, Oct. 14, 1988, 102 Stat. 2442, provided that: "The purpose of this Act \[see Short Title of 1988 Amendment note set out under section 6201 of this title\] is to encourage—
 
-&emsp;“(1) the development and widespread use of methanol, ethanol, and natural gas as transportation fuels by consumers; and
+&emsp;"(1) the development and widespread use of methanol, ethanol, and natural gas as transportation fuels by consumers; and
 
-&emsp;“(2) the production of methanol, ethanol, and natural gas powered motor vehicles.”
+&emsp;"(2) the production of methanol, ethanol, and natural gas powered motor vehicles."
 
 #### Use of Nonstandard Fuels
 
-Pub. L. 100–494, §5, Oct. 14, 1988, 102 Stat. 2448, provided that: “No guaranty or warranty with respect to any passenger automobile or light-duty truck acquired by the United States after October 1, 1989, shall be voided or reduced in effect by reason of the operation of such vehicle with any fuel for which a currently effective waiver, which includes a limitation regarding Reid vapor pressure with respect to such fuel, has been issued by the Administrator of the Environmental Protection Agency under section 211(f) of the Clean Air Act (42 U.S.C. 7545(f)).”
+Pub. L. 100–494, §5, Oct. 14, 1988, 102 Stat. 2448, provided that: "No guaranty or warranty with respect to any passenger automobile or light-duty truck acquired by the United States after October 1, 1989, shall be voided or reduced in effect by reason of the operation of such vehicle with any fuel for which a currently effective waiver, which includes a limitation regarding Reid vapor pressure with respect to such fuel, has been issued by the Administrator of the Environmental Protection Agency under section 211(f) of the Clean Air Act (42 U.S.C. 7545(f))."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

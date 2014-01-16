@@ -18,5 +18,5 @@ There shall be deposited into the Fund the following, which shall constitute the
 
 #### Effective Date of 2001 Amendment
 
-Amendment by Pub. L. 107–107 effective as if included in the enactment of this chapter by Pub. L. 106–398, seesection 711(f) of Pub. L. 107–107, set out as a note under section 1111 of this title.
+Amendment by Pub. L. 107–107 effective as if included in the enactment of this chapter by Pub. L. 106–398, see section 711(f) of Pub. L. 107–107, set out as a note under section 1111 of this title.
 

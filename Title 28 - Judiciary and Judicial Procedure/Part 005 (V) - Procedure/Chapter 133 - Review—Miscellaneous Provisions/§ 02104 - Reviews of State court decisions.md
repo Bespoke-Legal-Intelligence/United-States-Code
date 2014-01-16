@@ -8,15 +8,15 @@ A review by the Supreme Court of a judgment or decree of a State court shall be 
 
 Based on title 28, U.S.C., 1940 ed., §871 (R.S., §1003).
 
-Words “An appeal to” were substituted for “writs of error from”, in view of the abolition of the writ of error.
+Words "An appeal to" were substituted for "writs of error from", in view of the abolition of the writ of error.
 
 Changes were made in phraseology.
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–352 substituted “Reviews of State court decisions” for “Appeals from State courts” in section catchline and amended text generally. Prior to amendment, text read as follows: “An appeal to the Supreme Court from a State court shall be taken in the same manner and under the same regulations, and shall have the same effect, as if the judgment or decree appealed from had been rendered in a court of the United States.”
+<b>1988</b>—Pub. L. 100–352 substituted "Reviews of State court decisions" for "Appeals from State courts" in section catchline and amended text generally. Prior to amendment, text read as follows: "An appeal to the Supreme Court from a State court shall be taken in the same manner and under the same regulations, and shall have the same effect, as if the judgment or decree appealed from had been rendered in a court of the United States."
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except that such amendment not to apply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered before such effective date, see section 7 of Pub. L. 100–352, set out as a note under section 1254 of this title.
+Amendment by Pub. L. 100–352 effective ninety days after June 27, 1988, except that such amendment not toapply to cases pending in Supreme Court on such effective date or affect right to review or manner of reviewing judgment or decree of court which was entered before such effective date, see section 7 of Pub. L. 100–352, set out as a note under section 1254 of this title.
 

@@ -148,15 +148,15 @@ As used in this section:
 
 #### (1) Local market; satellite carrier; subscriber; television broadcast station
 
-&emsp;The terms “local market”, “satellite carrier”, “subscriber”, and “television broadcast station” have the meanings given such terms in section 338(k) of this title.
+&emsp;The terms "local market", "satellite carrier", "subscriber", and "television broadcast station" have the meanings given such terms in section 338(k) of this title.
 
 #### (2) Network station; television network
 
-&emsp;The terms “network station” and “television network” have the meanings given such terms in section 339(d) of this title.
+&emsp;The terms "network station" and "television network" have the meanings given such terms in section 339(d) of this title.
 
 #### (3) Community
 
-&emsp;The term “community” means—
+&emsp;The term "community" means—
 
 &emsp;&emsp;(A) a county or a cable community, as determined under the rules, regulations, and authorizations of the Commission applicable to determining with respect to a cable system whether signals are significantly viewed; or
 
@@ -172,17 +172,17 @@ Section 119(a)(4)(A) and section 119(a)(12) of title 17, referred to in subsec. 
 
 <b>2010</b>—Subsec. (b)(1), (2). Pub. L. 111–175, §203(a), amended pars. (1) and (2) generally. Prior to amendment, pars. (1) and (2) related to limitations for certain analog and digital services, respectively.
 
-Subsec. (i)(4). Pub. L. 111–175, §204(c), struck out par. (4). Text read as follows: “The terms ‘equivalent bandwidth’ and ‘entire bandwidth’ shall be defined by the Commission by regulation, except that this paragraph shall not be construed—
+Subsec. (i)(4). Pub. L. 111–175, §204(c), struck out par. (4). Text read as follows: "The terms 'equivalent bandwidth' and 'entire bandwidth' shall be defined by the Commission by regulation, except that this paragraph shall not be construed—
 
-&emsp;“(A) to prevent a satellite operator from using compression technology;
+&emsp;"(A) to prevent a satellite operator from using compression technology;
 
-&emsp;“(B) to require a satellite operator to use the identical bandwidth or bit rate as the local or distant broadcaster whose signal it is retransmitting;
+&emsp;"(B) to require a satellite operator to use the identical bandwidth or bit rate as the local or distant broadcaster whose signal it is retransmitting;
 
-&emsp;“(C) to require a satellite operator to use the identical bandwidth or bit rate for a local network station as it does for a distant network station;
+&emsp;"(C) to require a satellite operator to use the identical bandwidth or bit rate for a local network station as it does for a distant network station;
 
-&emsp;“(D) to affect a satellite operator's obligations under subsection (a)(1) of this section; or
+&emsp;"(D) to affect a satellite operator's obligations under subsection (a)(1) of this section; or
 
-&emsp;“(E) to affect the definitions of ‘program related’ and ‘primary video’.”
+&emsp;"(E) to affect the definitions of 'program related' and 'primary video'."
 
 #### Effective Date of 2010 Amendment
 
@@ -190,13 +190,13 @@ Amendment by Pub. L. 111–175 effective Feb. 27, 2010, see section 307(a) of Pu
 
 #### Rulemaking Required
 
-Pub. L. 111–175, title II, §203(b), May 27, 2010, 124 Stat. 1245, provided that: “Within 270 days after the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights\], the Federal Communications Commission shall take all actions necessary to promulgate a rule to implement the amendments made by subsection (a) \[amending this section\].”
+Pub. L. 111–175, title II, §203(b), May 27, 2010, 124 Stat. 1245, provided that: "Within 270 days after the date of the enactment of this Act \[deemed to refer to Feb. 27, 2010, see section 307(a) of Pub. L. 111–175, set out as an Effective Date of 2010 Amendment note under section 111 of Title 17, Copyrights\], the Federal Communications Commission shall take all actions necessary to promulgate a rule to implement the amendments made by subsection (a) \[amending this section\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “paragraphs”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "paragraphs".</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “section”.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be followed by "section".</i>
 
 <i><sup>4</sup></i><i> See References in Text note below.</i>
 

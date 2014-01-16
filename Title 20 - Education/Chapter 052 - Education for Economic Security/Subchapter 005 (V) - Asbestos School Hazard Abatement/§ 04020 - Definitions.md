@@ -2,29 +2,29 @@
 
 For purposes of this subchapter:
 
-&emsp;(1) The term “asbestos” means—
+&emsp;(1) The term "asbestos" means—
 
 &emsp;&emsp;(A) chrysotile, amosite, or crocidolite; or
 
 &emsp;&emsp;(B) in fibrous form, tremolite, anthophyllite, or actinolite.
 
-&emsp;(2) The term “Attorney General” means the Attorney General of the United States.
+&emsp;(2) The term "Attorney General" means the Attorney General of the United States.
 
-&emsp;(3) The term “threat” or “hazard” means that an asbestos material is friable or easily damaged, or within reach of students or employees or otherwise susceptible to damage (including damage from water, vibration, or air circulation) which could result in the dispersal of asbestos fibers into the school environment.
+&emsp;(3) The term "threat" or "hazard" means that an asbestos material is friable or easily damaged, or within reach of students or employees or otherwise susceptible to damage (including damage from water, vibration, or air circulation) which could result in the dispersal of asbestos fibers into the school environment.
 
-&emsp;(4) The term “local educational agency” means—
+&emsp;(4) The term "local educational agency" means—
 
 &emsp;&emsp;(A) any local educational agency as defined in section 7801 of this title; and
 
 &emsp;&emsp;(B) the governing authority of any nonprofit elementary or secondary school.
 
-&emsp;(5) The term “nonprofit elementary or secondary school” means—
+&emsp;(5) The term "nonprofit elementary or secondary school" means—
 
 &emsp;&emsp;(A) any elementary or secondary school as defined in section 7801 of this title owned and operated by one or more nonprofit corporations or associations no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual; and
 
 &emsp;&emsp;(B) any school of any agency of the United States.
 
-&emsp;(6) The term “school buildings” means—
+&emsp;(6) The term "school buildings" means—
 
 &emsp;&emsp;(A) structures suitable for use as classrooms, laboratories, libraries, school eating facilities, or facilities used for the preparation of food;
 
@@ -34,39 +34,39 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(D) maintenance, storage, or utility facilities essential to the operation of the facilities described in subparagraphs (A) through (C) of this paragraph.
 
-&emsp;(7) The term “Administrator” means the Administrator of the Environmental Protection Agency, or the Administrator's designee.
+&emsp;(7) The term "Administrator" means the Administrator of the Environmental Protection Agency, or the Administrator's designee.
 
-&emsp;(8) The term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the Bureau of Indian Affairs.
+&emsp;(8) The term "State" means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the Bureau of Indian Affairs.
 
-&emsp;(9) The term “response action” has the meaning given such term by section 2642(11) of title 15.
+&emsp;(9) The term "response action" has the meaning given such term by section 2642(11) of title 15.
 
 (Pub. L. 98–377, title V, §511, Aug. 11, 1984, 98 Stat. 1294; Pub. L. 101–637, §§10, 14(a)(11), (c)(6), Nov. 28, 1990, 104 Stat. 4592, 4594, 4596; Pub. L. 103–382, title III, §394(c), Oct. 20, 1994, 108 Stat. 4027; Pub. L. 107–110, title X, §1076(l)(2), Jan. 8, 2002, 115 Stat. 2092.)
 
 #### Amendments
 
-<b>2002</b>—Par. (4)(A). Pub. L. 107–110, §1076(l)(2)(A), which directed amendment of subpar. (A) by substituting in the original “9101” for “198(a)(10)”, was executed by substituting “section 7801 of this title” for “section 8801 of this title”, to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(1), which had substituted “14101” for “198(a)(10)” in the original. See 1994 Amendment note below.
+<b>2002</b>—Par. (4)(A). Pub. L. 107–110, §1076(l)(2)(A), which directed amendment of subpar. (A) by substituting in the original "9101" for "198(a)(10)", was executed by substituting "section 7801 of this title" for "section 8801 of this title", to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(1), which had substituted "14101" for "198(a)(10)" in the original. See 1994 Amendment note below.
 
-Par. (5)(A). Pub. L. 107–110, §1076(l)(2)(B), which directed amendment of subpar. (A) by substituting in the original “9101” for “198(a)(7)”, was executed by substituting “section 7801 of this title” for “section 8801 of this title”, to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(2), which had substituted “14101” for “198(a)(7)” in the original. See 1994 Amendment note below.
+Par. (5)(A). Pub. L. 107–110, §1076(l)(2)(B), which directed amendment of subpar. (A) by substituting in the original "9101" for "198(a)(7)", was executed by substituting "section 7801 of this title" for "section 8801 of this title", to reflect the probable intent of Congress and prior amendment by Pub. L. 103–382, §394(c)(2), which had substituted "14101" for "198(a)(7)" in the original. See 1994 Amendment note below.
 
-<b>1994</b>—Par. (4)(A). Pub. L. 103–382, §394(c)(1), substituted “section 8801 of this title” for “section 198(a)(10) of the Elementary and Secondary Education Act of 1965”.
+<b>1994</b>—Par. (4)(A). Pub. L. 103–382, §394(c)(1), substituted "section 8801 of this title" for "section 198(a)(10) of the Elementary and Secondary Education Act of 1965".
 
-Par. (5)(A). Pub. L. 103–382, §394(c)(2), substituted “section 8801 of this title” for “section 198(a)(7) of the Elementary and Secondary Education Act of 1965”.
+Par. (5)(A). Pub. L. 103–382, §394(c)(2), substituted "section 8801 of this title" for "section 198(a)(7) of the Elementary and Secondary Education Act of 1965".
 
-<b>1990</b>—Pub. L. 101–637, §14(a)(11), (c)(6)(A), inserted section catchline and substituted “this subchapter:” for “this subchapter—”.
+<b>1990</b>—Pub. L. 101–637, §14(a)(11), (c)(6)(A), inserted section catchline and substituted "this subchapter:" for "this subchapter—".
 
-Pars. (1), (2). Pub. L. 101–637, §14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
+Pars. (1), (2). Pub. L. 101–637, §14(c)(6)(B), (C), substituted "The" for "the" at beginning and a period for semicolon at end.
 
-Par. (3). Pub. L. 101–637, §§10(1), 14(c)(6)(B)–(D), substituted “The” for “the” at beginning and a period for semicolon at end, struck out “each” before “reach of students”, and inserted “, vibration,” after “damage from water”.
+Par. (3). Pub. L. 101–637, §§10(1), 14(c)(6)(B)–(D), substituted "The" for "the" at beginning and a period for semicolon at end, struck out "each" before "reach of students", and inserted ", vibration," after "damage from water".
 
-Par. (4). Pub. L. 101–637, §14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
+Par. (4). Pub. L. 101–637, §14(c)(6)(B), (C), substituted "The" for "the" at beginning and a period for semicolon at end.
 
-Par. (5). Pub. L. 101–637, §14(c)(6)(E), which directed the insertion of “secondary” before “school”, was executed by making the insertion in the introductory provisions to reflect the probable intent of Congress.
+Par. (5). Pub. L. 101–637, §14(c)(6)(E), which directed the insertion of "secondary" before "school", was executed by making the insertion in the introductory provisions to reflect the probable intent of Congress.
 
-Pub. L. 101–637, §14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
+Pub. L. 101–637, §14(c)(6)(B), (C), substituted "The" for "the" at beginning and a period for semicolon at end.
 
-Pars. (6), (7). Pub. L. 101–637, §14(c)(6)(B), (C), substituted “The” for “the” at beginning and a period for semicolon at end.
+Pars. (6), (7). Pub. L. 101–637, §14(c)(6)(B), (C), substituted "The" for "the" at beginning and a period for semicolon at end.
 
-Par. (8). Pub. L. 101–637, §14(c)(6)(B), substituted “The” for “the” at beginning.
+Par. (8). Pub. L. 101–637, §14(c)(6)(B), substituted "The" for "the" at beginning.
 
 Par. (9). Pub. L. 101–637, §10(2), added par. (9).
 

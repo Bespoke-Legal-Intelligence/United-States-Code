@@ -112,5 +112,5 @@ Termination of garnishment.—A garnishment under this chapter is terminated onl
 
 (Added Pub. L. 101–647, title XXXVI, §3611, Nov. 29, 1990, 104 Stat. 4956.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “possession,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "possession,".</i>
 

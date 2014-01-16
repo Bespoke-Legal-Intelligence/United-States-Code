@@ -8,13 +8,13 @@
 
 (3) For purposes of this section—
 
-&emsp;(A) the term “implementing bill” means a bill introduced in either House of Congress with respect to one or more contracts or amendments to contracts submitted to the House of Representatives and the Senate under this section and which contains—
+&emsp;(A) the term "implementing bill" means a bill introduced in either House of Congress with respect to one or more contracts or amendments to contracts submitted to the House of Representatives and the Senate under this section and which contains—
 
 &emsp;&emsp;(i) a provision approving such contracts or amendments, or both; and
 
 &emsp;&emsp;(ii) legislative provisions that are necessary or appropriate for the implementation of such contracts or amendments, or both; and
 
-&emsp;(B) the term “implementing revenue bill” means an implementing bill which contains one or more revenue measures by reason of which it must originate in the House of Representatives.
+&emsp;(B) the term "implementing revenue bill" means an implementing bill which contains one or more revenue measures by reason of which it must originate in the House of Representatives.
 
 #### (b) Consultation
 
@@ -78,5 +78,5 @@ Subsections (e) through (h) of this section are enacted by the Congress—
 
 (Pub. L. 94–163, title I, §174, as added Pub. L. 101–383, §6(a)(4), Sept. 15, 1990, 104 Stat. 731.)
 
-<i><sup>1</sup></i><i> So in original. The word “the” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "the" probably should not appear.</i>
 

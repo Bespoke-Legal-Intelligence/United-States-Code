@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Program
 
-&emsp;The term “program” means the Conserve by Bicycling Program established by subsection (b).
+&emsp;The term "program" means the Conserve by Bicycling Program established by subsection (b).
 
 #### (2) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Transportation.
+&emsp;The term "Secretary" means the Secretary of Transportation.
 
 #### (b) Establishment
 
-There is established within the Department of Transportation a program to be known as the “Conserve by Bicycling Program”.
+There is established within the Department of Transportation a program to be known as the "Conserve by Bicycling Program".
 
 #### (c) Projects
 

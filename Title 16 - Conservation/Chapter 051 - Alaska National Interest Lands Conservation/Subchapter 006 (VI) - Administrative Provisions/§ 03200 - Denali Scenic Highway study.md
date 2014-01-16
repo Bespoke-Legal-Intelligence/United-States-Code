@@ -2,7 +2,7 @@
 
 #### (a) Withdrawal
 
-Subject to valid existing rights, all public lands within an area, the centerline of which is the centerline of the Parks Highway from the entrance to Denali National Park to theTalkeetna junction which is one hundred and thirty-six miles south of Cantwell, the Denali Highway between Cantwell and Paxson, the Richardson Highway and Edgerton Highway between Paxson and Chitina, and the existing road between Chitina and McCarthy (as those highways and road are depicted on the official maps of the department of transportation of the State of Alaska) and the boundaries of which are parallel to the centerline and one mile distant therefrom on either side, are hereby withdrawn from all forms of entry or appropriation under the mining laws and from operation of the mineral leasing laws of the United States. Nothing in this section shall be construed to preclude minor road realignment, minor road improvement, or the extraction of gravel for such purposes from lands withdrawn or affected by the study mandated herein.
+Subject to valid existing rights, all public lands within an area, the centerline of which is the centerline of the Parks Highway from the entrance to Denali National Park to the Talkeetna junction which is one hundred and thirty-six miles south of Cantwell, the Denali Highway between Cantwell and Paxson, the Richardson Highway and Edgerton Highway between Paxson and Chitina, and the existing road between Chitina and McCarthy (as those highways and road are depicted on the official maps of the department of transportation of the State of Alaska) and the boundaries of which are parallel to the centerline and one mile distant therefrom on either side, are hereby withdrawn from all forms of entry or appropriation under the mining laws and from operation of the mineral leasing laws of the United States. Nothing in this section shall be construed to preclude minor road realignment, minor road improvement, or the extraction of gravel for such purposes from lands withdrawn or affected by the study mandated herein.
 
 #### (b) Study
 
@@ -14,7 +14,7 @@ In conducting the studies required by this section, the Secretary shall cooperat
 
 #### (d) Report
 
-Within three years after December 2, 1980, the Secretary shall report to the President the results of the studies carried out pursuant to this section together with his recommendation as to whether the scenic highway studied should be established and, if his recommendation is to establish the scenic highway, the lands described in subsection (a) of this section which should be included therein. Such report shall include the views and recommendations of all members of the study team. The President shall advise the President of the Senate and the Speaker of the House of Representatives of his recommendations and those of the Governor of Alaska with respect to creation of the scenic highways,<sup>1</sup> together with maps thereof, a definition of boundaries thereof, an estimate of costs, recommendations on administration, and proposed legislation to create such a scenic highway, if creation of one is recommended.
+Within three years after December 2, 1980, the Secretary shall report to the President the results of the studies carried out pursuant to thissection together with his recommendation as to whether the scenic highway studied should be established and, if his recommendation is to establish the scenic highway, the lands described in subsection (a) of this section which should be included therein. Such report shall include the views and recommendations of all members of the study team. The President shall advise the President of the Senate and the Speaker of the House of Representatives of his recommendations and those of the Governor of Alaska with respect to creation of the scenic highways,<sup>1</sup> together with maps thereof, a definition of boundaries thereof, an estimate of costs, recommendations on administration, and proposed legislation to create such a scenic highway, if creation of one is recommended.
 
 #### (e) Period of withdrawal
 
@@ -24,9 +24,7 @@ The lands withdrawn under subsection (a) of this section shall remain withdrawn 
 
 #### References in Text
 
-The mining laws and the mineral leasing laws of the United States, referred to in subsec. (a), are classified generally to Title 30, Mineral Lands and Mining.
-
 GS–15, referred to in subsec. (b), is contained in the General Schedule, which is set out under section 5332 of Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “highway,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "highway,".</i>
 

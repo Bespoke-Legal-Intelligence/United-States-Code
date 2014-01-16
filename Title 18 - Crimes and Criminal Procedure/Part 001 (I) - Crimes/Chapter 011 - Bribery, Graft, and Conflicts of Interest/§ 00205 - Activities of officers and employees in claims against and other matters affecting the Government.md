@@ -38,7 +38,7 @@
 
 &emsp;(C) involves a grant, contract, or other agreement (including a request for any such grant, contract, or agreement) providing for the disbursement of Federal funds to the organization or group.
 
-(e) Nothing in subsection (a) or (b) prevents an officer or employee, including a special Government employee, from acting, with or without compensation, as agent or attorney for, or otherwise representing, his parents, spouse, child, or any person for whom, or for any estate for which, he is serving as guardian, executor, administrator, trustee, or other personal fiduciary except—
+(e) Nothing in subsection (a) or (b) prevents an officer or employee, including a special Government employee, from acting, with or without compensation, as agent or attorney for, or otherwise representing, his parents, spouse, child, or any person for whom, or for any estate for which, he is serving as guardian, executor,administrator, trustee, or other personal fiduciary except—
 
 &emsp;(1) in those matters in which he has participated personally and substantially as a Government employee or special Government employee through decision, approval, disapproval, recommendation, the rendering of advice, investigation, or otherwise, or
 
@@ -50,7 +50,7 @@
 
 (g) Nothing in this section prevents an officer or employee from giving testimony under oath or from making statements required to be made under penalty for perjury or contempt.
 
-(h) For the purpose of this section, the term “covered matter” means any judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, investigation, charge, accusation, arrest, or other particular matter.
+(h) For the purpose of this section, the term "covered matter" means any judicial or other proceeding, application, request for a ruling or other determination, contract, claim, controversy, investigation, charge, accusation, arrest, or other particular matter.
 
 (i) Nothing in this section prevents an employee from acting pursuant to—
 
@@ -78,15 +78,15 @@ Provisions similar to those comprising this section were contained in section 28
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d)(1)(B). Pub. L. 107–273 substituted “group's” for “groups's”.
+<b>2002</b>—Subsec. (d)(1)(B). Pub. L. 107–273 substituted "group's" for "groups's".
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–177, §2(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Nothing in subsection (a) or (b) prevents an officer or employee, if not inconsistent with the faithful performance of his duties, from acting without compensation as agent or attorney for, or otherwise representing, any person who is the subject of disciplinary, loyalty, or other personnel administration proceedings in connection with those proceedings.”
+<b>1996</b>—Subsec. (d). Pub. L. 104–177, §2(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: "Nothing in subsection (a) or (b) prevents an officer or employee, if not inconsistent with the faithful performance of his duties, from acting without compensation as agent or attorney for, or otherwise representing, any person who is the subject of disciplinary, loyalty, or other personnel administration proceedings in connection with those proceedings."
 
 Subsec. (i). Pub. L. 104–177, §2(b), added subsec. (i).
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–280, §5(c)(1), substituted “civil” for “any civil”.
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–280, §5(c)(1), substituted "civil" for "any civil".
 
-Subsec. (b)(2). Pub. L. 101–280, §5(c)(2), substituted “commission” for “any commission”.
+Subsec. (b)(2). Pub. L. 101–280, §5(c)(2), substituted "commission" for "any commission".
 
 <b>1989</b>—Pub. L. 101–194 amended section generally, revising and restating as subsecs. (a) to (h) provisions formerly consisting of eight undesignated pars.
 

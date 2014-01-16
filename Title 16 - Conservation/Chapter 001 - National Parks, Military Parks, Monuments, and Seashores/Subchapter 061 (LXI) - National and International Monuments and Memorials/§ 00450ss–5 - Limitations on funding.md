@@ -14,9 +14,9 @@ Authorization of Appropriations: <sup>1</sup>
 
 #### Amendments
 
-<b>2004</b>—Par. (1). Pub. L. 108–199, §544(f)(1), inserted “for an endowment fund subject to paragraph (2)” after “the sum of $5,000,000”.
+<b>2004</b>—Par. (1). Pub. L. 108–199, §544(f)(1), inserted "for an endowment fund subject to paragraph (2)" after "the sum of $5,000,000".
 
-Par. (2). Pub. L. 108–199, §544(f)(2), struck out “Trust or to the Oklahoma City Memorial” after “each non-Federal dollar donated to the” and substituted “operation, or endowment” for “or operation”.
+Par. (2). Pub. L. 108–199, §544(f)(2), struck out "Trust or to the Oklahoma City Memorial" after "each non-Federal dollar donated to the" and substituted "operation, or endowment" for "or operation".
 
-<i><sup>1</sup></i><i> So in original. “Appropriations” probably should not be capitalized.</i>
+<i><sup>1</sup></i><i> So in original. "Appropriations" probably should not be capitalized.</i>
 

@@ -4,7 +4,7 @@ In this chapter:
 
 &emsp;(1)
 
-Delivery order contract.—The term “delivery order contract” means a contract for property that—
+Delivery order contract.—The term "delivery order contract" means a contract for property that—
 
 &emsp;&emsp;(A) does not procure or specify a firm quantity of property (other than a minimum or maximum quantity); and
 
@@ -12,7 +12,7 @@ Delivery order contract.—The term “delivery order contract” means a contra
 
 &emsp;(2)
 
-Task order contract.—The term “task order contract” means a contract for services that—
+Task order contract.—The term "task order contract" means a contract for services that—
 
 &emsp;&emsp;(A) does not procure or specify a firm quantity of services (other than a minimum or maximum quantity); and
 

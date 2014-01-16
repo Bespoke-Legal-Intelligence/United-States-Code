@@ -2,7 +2,7 @@
 
 #### (a) Competitive research and extension grants authorized
 
-The Secretary of Agriculture (referred to in this section as the “Secretary”) may make competitive grants to support research and extension activities specified in subsection (e) of this section. The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
+The Secretary of Agriculture (referred to in this section as the "Secretary") may make competitive grants to support research and extension activities specified in subsection (e) of this section. The Secretary shall make the grants in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board.
 
 #### (b) Administration
 
@@ -76,17 +76,17 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b)(1). Pub. L. 110–246, §7205(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “Paragraphs (1), (6), (7), and (11) of subsection (b) of section 450i of this title shall apply with respect to the making of grants under this section.”
+<b>2008</b>—Subsec. (b)(1). Pub. L. 110–246, §7205(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "Paragraphs (1), (6), (7), and (11) of subsection (b) of section 450i of this title shall apply with respect to the making of grants under this section."
 
-Subsec. (d). Pub. L. 110–246, §7205(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: “Following the completion of a peer review process for grant proposals received under this section, the Secretary may provide a priority to those grant proposals, found in the peer review process to be scientifically meritorious, that involve the cooperation of multiple entities.”
+Subsec. (d). Pub. L. 110–246, §7205(2), added subsec. (d) and struck out former subsec. (d). Prior to amendment, text read as follows: "Following the completion of a peer review process for grant proposals received under this section, the Secretary may provide a priority to those grant proposals, found in the peer review process to be scientifically meritorious, that involve the cooperation of multiple entities."
 
-Subsec. (e)(1)(B). Pub. L. 110–246, §7205(3)(A), inserted “and dairy and beef cattle waste” after “swine waste”.
+Subsec. (e)(1)(B). Pub. L. 110–246, §7205(3)(A), inserted "and dairy and beef cattle waste" after "swine waste".
 
-Subsec. (e)(5). Pub. L. 110–246, §7205(3)(B), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: “Research and extension grants may be made under this section for the purpose of finding innovative methods and technologies for economic use or disposal of animal waste.”
+Subsec. (e)(5). Pub. L. 110–246, §7205(3)(B), added par. (5) and struck out former par. (5). Prior to amendment, text read as follows: "Research and extension grants may be made under this section for the purpose of finding innovative methods and technologies for economic use or disposal of animal waste."
 
-Subsecs. (f), (g). Pub. L. 110–246, §7205(4), (5), redesignated subsec. (g) as (f) and substituted “2012” for “2007”.
+Subsecs. (f), (g). Pub. L. 110–246, §7205(4), (5), redesignated subsec. (g) as (f) and substituted "2012" for "2007".
 
-<b>2002</b>—Subsec. (g). Pub. L. 107–171 substituted “2007” for “2002”.
+<b>2002</b>—Subsec. (g). Pub. L. 107–171 substituted "2007" for "2002".
 
 #### Effective Date of 2008 Amendment
 
@@ -96,15 +96,15 @@ Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 Pub. L. 107–171, title VII, §7411, May 13, 2002, 116 Stat. 462, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary \[of Agriculture\] may conduct a study to evaluate nutrient banking for the purpose of enhancing the health and viability of watersheds in areas with large concentrations of animal producing units.
 
-“(b)
+"(b)
 
 Components.—In conducting any study under subsection (a), the Secretary shall evaluate the costs, needs, and means by which litter may be collected and distributed outside the applicable watershed to reduce potential point source and nonpoint source phosphorous pollution.
 
-“(c)
+"(c)
 
-Report.—The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of any study conducted under subsection (a).”
+Report.—The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of any study conducted under subsection (a)."
 

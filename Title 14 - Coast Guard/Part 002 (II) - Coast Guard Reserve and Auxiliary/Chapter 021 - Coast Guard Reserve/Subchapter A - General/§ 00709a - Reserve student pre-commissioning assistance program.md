@@ -34,7 +34,7 @@
 
 (e) Financial assistance may be provided to a member under this section for up to 5 consecutive academic years.
 
-(f) A member who receives financial assistance under this section may be ordered to active duty in the Coast Guard Reserve by the Secretary toserve in a designated enlisted grade for such period as the Secretary prescribes, but not more than 4 years, if the member—
+(f) A member who receives financial assistance under this section may be ordered to active duty in the Coast Guard Reserve by the Secretary to serve in a designated enlisted grade for such period as the Secretary prescribes, but not more than 4 years, if the member—
 
 &emsp;(1) completes the academic requirements of the program and refuses to accept an appointment as a commissioned officer in the Coast Guard Reserve when offered;
 
@@ -48,7 +48,7 @@
 
 (3) A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of a written agreement entered into under subsection (b) does not discharge the individual signing the agreement from a debt arising under such agreement or under paragraph (1).
 
-(h) As used in this section, the term “institution of higher education” has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+(h) As used in this section, the term "institution of higher education" has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
 (Added Pub. L. 107–295, title IV, §413(a), Nov. 25, 2002, 116 Stat. 2119.)
 

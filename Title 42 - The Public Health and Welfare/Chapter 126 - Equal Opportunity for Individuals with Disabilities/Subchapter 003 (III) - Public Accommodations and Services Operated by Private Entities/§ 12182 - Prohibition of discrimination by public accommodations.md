@@ -24,7 +24,7 @@ No individual shall be discriminated against on the basis of disability in the f
 
 #### (iv) Individual or class of individuals
 
-&emsp;&emsp;&emsp;For purposes of clauses (i) through (iii) of this subparagraph, the term “individual or class of individuals” refers to the clients or customers of the covered public accommodation that enters into the contractual, licensing or other arrangement.
+&emsp;&emsp;&emsp;For purposes of clauses (i) through (iii) of this subparagraph, the term "individual or class of individuals" refers to the clients or customers of the covered public accommodation that enters into the contractual, licensing or other arrangement.
 
 #### (B) Integrated settings
 
@@ -92,7 +92,7 @@ No individual shall be discriminated against on the basis of disability in the f
 
 #### (3) Specific construction
 
-&emsp;Nothing in this subchapter shall require an entity to permit an individual to participate in or benefit from the goods, services, facilities, privileges, advantages and accommodations of such entity where such individual poses a direct threat to the health or safety of others. The term “direct threat” means a significant risk to the health or safety of others that cannot be eliminated by a modification of policies, practices, or procedures or by the provision of auxiliary aids or services.
+&emsp;Nothing in this subchapter shall require an entity to permit an individual to participate in or benefit from the goods, services, facilities, privileges, advantages and accommodations of such entity where such individual poses a direct threat to the health or safety of others. The term "direct threat" means a significant risk to the health or safety of others that cannot be eliminated by a modification of policies, practices, or procedures or by the provision of auxiliary aids or services.
 
 (Pub. L. 101–336, title III, §302, July 26, 1990, 104 Stat. 355.)
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any institution of higher education (as such term is defined in section 1001(a) <sup>1</sup> of title 20) that receives National Science Foundation research support and has received at least $25,000,000 in total Federal research grants in the most recent fiscal year shall keep, maintain, and report annually to the National Science Foundation the universal record locator for apublic website that contains information concerning its general approach to and mechanisms for transfer of technology and the commercialization of research results, including—
+Any institution of higher education (as such term is defined in section 1001(a) <sup>1</sup> of title 20) that receives National Science Foundation research support and has received at least $25,000,000 in total Federal research grants in the most recent fiscal year shall keep, maintain, and report annually to the National Science Foundation the universal record locator for a public website that contains information concerning its general approach to and mechanisms for transfer of technology and the commercialization of research results, including—
 
 &emsp;(1) contact information for individuals and university offices responsible for technology transfer and commercialization;
 
@@ -26,7 +26,7 @@ Notwithstanding subsection (a), an institution shall not be required to reveal c
 
 #### References in Text
 
-Section 1001(a) of title 20, referred to in subsec. (a), was in the original “section 101(A) of the Higher Education Act of 1965 (20 U.S.C. 1001(a))”, and was translated as reading “section 101(a)” of that Act, to reflect the probable intent of Congress.
+Section 1001(a) of title 20, referred to in subsec. (a), was in the original "section 101(A) of the Higher Education Act of 1965 (20 U.S.C. 1001(a))", and was translated as reading "section 101(a)" of that Act, to reflect the probable intent of Congress.
 
 #### Codification
 

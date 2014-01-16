@@ -24,17 +24,17 @@ Whenever the Secretary determines that any firm no longer requires assistance un
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b)(1). Pub. L. 99–272, §13006(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Adjustment assistance under this part consists of technical assistance and financial assistance, which may be furnished singly or in combination. The Secretary shall approve a firm's application for adjustment assistance only if he determines—
+<b>1986</b>—Subsec. (b)(1). Pub. L. 99–272, §13006(a)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: "Adjustment assistance under this part consists of technical assistance and financial assistance, which may be furnished singly or in combination. The Secretary shall approve a firm's application for adjustment assistance only if he determines—
 
-&emsp;“(A) that the firm has no reasonable access to financing through the private capital market, and
+&emsp;"(A) that the firm has no reasonable access to financing through the private capital market, and
 
-&emsp;“(B) that the firm's adjustment proposal—
+&emsp;"(B) that the firm's adjustment proposal—
 
-&emsp;&emsp;“(i) is reasonably calculated materially to contribute to the economic adjustment of the firm,
+&emsp;&emsp;"(i) is reasonably calculated materially to contribute to the economic adjustment of the firm,
 
-&emsp;&emsp;“(ii) gives adequate consideration to the interests of the workers of such firm, and
+&emsp;&emsp;"(ii) gives adequate consideration to the interests of the workers of such firm, and
 
-&emsp;&emsp;“(iii) demonstrates that the firm will make all reasonable efforts to use its own resources for economic development.”
+&emsp;&emsp;"(iii) demonstrates that the firm will make all reasonable efforts to use its own resources for economic development."
 
 Subsecs. (c), (d). Pub. L. 99–272, §13006(a)(2), redesignated subsec. (d) as (c) and struck out former subsec. (c) which authorized the Secretary to assist an eligible firm in the preparation of a viable adjustment proposal.
 

@@ -6,19 +6,19 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Development.—The term “development” means the phase of a program following the formulation phase and beginning with the approval to proceed to implementation, as defined in the Administration's Procedural Requirements 7120.5c, dated March 22, 2005.
+Development.—The term "development" means the phase of a program following the formulation phase and beginning with the approval to proceed to implementation, as defined in the Administration's Procedural Requirements 7120.5c, dated March 22, 2005.
 
 &emsp;(2)
 
-Development cost.—The term “development cost” means the total of all costs, including construction of facilities and civil servant costs, from the period beginning with the approval to proceed to implementation through the achievement of operational readiness, without regard to funding source or management control, for the life of the program.
+Development cost.—The term "development cost" means the total of all costs, including construction of facilities and civil servant costs, from the period beginning with the approval to proceed to implementation through the achievement of operational readiness, without regard to funding source or management control, for the life of the program.
 
 &emsp;(3)
 
-Life-cycle cost.—The term “life-cycle cost” means the total of the direct, indirect, recurring, and nonrecurring costs, including the construction of facilities and civil servant costs, and other related expenses incurred or estimated to be incurred in the design, development, verification, production, operation, maintenance, support, and retirement of a program over its planned lifespan, without regard to funding source or management control.
+Life-cycle cost.—The term "life-cycle cost" means the total of the direct, indirect, recurring, and nonrecurring costs, including the construction of facilities and civil servant costs, and other related expenses incurred or estimated to be incurred in the design, development, verification, production, operation, maintenance, support, and retirement of a program over its planned lifespan, without regard to funding source or management control.
 
 &emsp;(4)
 
-Major program.—The term “major program” means an activity approved to proceed to implementation that has an estimated life-cycle cost of more than $250,000,000.
+Major program.—The term "major program" means an activity approved to proceedto implementation that has an estimated life-cycle cost of more than $250,000,000.
 
 (b)
 
@@ -28,7 +28,7 @@ Conditions for Development.—
 
 In general.—The Administration shall not enter into a contract for the development of a major program unless the Administrator determines that—
 
-&emsp;&emsp;(A) the technical, cost, and schedule risks of the program are clearly identified and theprogram has developed a plan to manage those risks;
+&emsp;&emsp;(A) the technical, cost, and schedule risks of the program are clearly identified and the program has developed a plan to manage those risks;
 
 &emsp;&emsp;(B) the technologies required for the program have been demonstrated in a relevant laboratory or test environment; and
 
@@ -114,7 +114,7 @@ Determination, report, and initiation of analysis.—Not later than 30 days afte
 
 &emsp;(2)
 
-Completion of analysis and transmittal to committees.—The Administration shallcomplete an analysis initiated under paragraph (1)(B) not later than 6 months after the Administrator makes a determination under this subsection. The Administrator shall transmit the analysis to the Committee on Science and Technology of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate not later than 30 days after its completion.
+Completion of analysis and transmittal to committees.—The Administration shall complete an analysis initiated under paragraph (1)(B) not later than 6 months after the Administrator makes a determination under this subsection. The Administrator shall transmit the analysis to the Committee on Science and Technology of the House of Representatives and Committee on Commerce, Science, and Transportation of the Senate not later than 30 days after its completion.
 
 (f)
 
@@ -138,7 +138,7 @@ Historical and Revision Notes
 
 Pub. L. 109–155, title I, §103, Dec. 30, 2005, 119 Stat. 2907.
 
-In subsections (b)(2), (c)(1), (d)(3), and (e)(1)(A), (2), the words “Committee on Science and Technology” are substituted for “Committee on Science” on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+In subsections (b)(2), (c)(1), (d)(3), and (e)(1)(A), (2), the words "Committee on Science and Technology" are substituted for "Committee on Science" on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
 #### Change of Name
 

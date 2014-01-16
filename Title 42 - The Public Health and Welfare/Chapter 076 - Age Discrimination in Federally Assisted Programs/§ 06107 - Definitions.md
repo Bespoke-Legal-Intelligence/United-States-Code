@@ -2,13 +2,13 @@
 
 For purposes of this chapter—
 
-&emsp;(1) the term “Commission” means the Commission on Civil Rights;
+&emsp;(1) the term "Commission" means the Commission on Civil Rights;
 
-&emsp;(2) the term “Secretary” means the Secretary of Health and Human Services;
+&emsp;(2) the term "Secretary" means the Secretary of Health and Human Services;
 
-&emsp;(3) the term “Federal department or agency” means any agency as defined in section 551 of title 5 and includes the United States Postal Service and the Postal Regulatory Commission; and
+&emsp;(3) the term "Federal department or agency" means any agency as defined in section 551 of title 5 and includes the United States Postal Service and the Postal Regulatory Commission; and
 
-&emsp;(4) the term “program or activity” means all of the operations of—
+&emsp;(4) the term "program or activity" means all of the operations of—
 
 &emsp;&emsp;(A)(i) a department, agency, special purpose district, or other instrumentality of a State or of a local government; or
 
@@ -34,17 +34,17 @@ For purposes of this chapter—
 
 #### Amendments
 
-<b>2006</b>—Par. (3). Pub. L. 109–435 substituted “Postal Regulatory Commission” for “Postal Rate Commission”.
+<b>2006</b>—Par. (3). Pub. L. 109–435 substituted "Postal Regulatory Commission" for "Postal Rate Commission".
 
-<b>2002</b>—Par. (4)(B)(ii). Pub. L. 107–110 substituted “7801” for “8801”.
+<b>2002</b>—Par. (4)(B)(ii). Pub. L. 107–110 substituted "7801" for "8801".
 
-<b>1994</b>—Par. (4)(B)(ii). Pub. L. 103–382 substituted “section 8801 of title 20” for “section 198(a)(10), of the Elementary and Secondary Education Act of 1965”.
+<b>1994</b>—Par. (4)(B)(ii). Pub. L. 103–382 substituted "section 8801 of title 20" for "section 198(a)(10), of the Elementary and Secondary Education Act of 1965".
 
 <b>1988</b>—Par. (4). Pub. L. 100–259 added par. (4).
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (2), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in par. (2), pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 2002 Amendment
 

@@ -28,19 +28,19 @@ Securities acquisition loan
 
 In general
 
-&emsp;For purposes of this section, the term “securities acquisition loan” means—
+&emsp;For purposes of this section, the term "securities acquisition loan" means—
 
 &emsp;&emsp;(A) any loan to a corporation or to an employee stock ownership plan to the extent that the proceeds are used to acquire employer securities for the plan, or
 
 &emsp;&emsp;(B) any loan to a corporation to the extent that, within 30 days, employer securities are transferred to the plan in an amount equal to the proceeds of such loan and such securities are allocable to accounts of plan participants within 1 year of the date of such loan.
 
-> &emsp;For purposes of this paragraph, the term “employer securities” has the meaning given such term by section 409(l). The term “securities acquisition loan” shall not include a loan with a term greater than 15 years.
+> &emsp;For purposes of this paragraph, the term "employer securities" has the meaning given such term by section 409(l). The term "securities acquisition loan" shall not include a loan with a term greater than 15 years.
 
 &emsp;(2)
 
 Loans between related persons
 
-&emsp;The term “securities acquisition loan” shall not include—
+&emsp;The term "securities acquisition loan" shall not include—
 
 &emsp;&emsp;(A) any loan made between corporations which are members of the same controlled group of corporations, or
 
@@ -66,13 +66,13 @@ Terms applicable to certain securities acquisition loans
 
 Controlled group of corporations
 
-&emsp;For purposes of this paragraph, the term “controlled group of corporations” has the meaning given such term by section 409(l)(4).
+&emsp;For purposes of this paragraph, the term "controlled group of corporations" has the meaning given such term by section 409(l)(4).
 
 &emsp;(5)
 
 Treatment of refinancings
 
-&emsp;The term “securities acquisition loan” shall include any loan which—
+&emsp;The term "securities acquisition loan" shall include any loan which—
 
 &emsp;&emsp;(A) is (or is part of a series of loans) used to refinance a loan described in subparagraph (A) or (B) of paragraph (1), and
 
@@ -118,7 +118,7 @@ Stock
 
 In general
 
-&emsp;&emsp;&emsp;The term “stock” means stock other than stock described in section 1504(a)(4).
+&emsp;&emsp;&emsp;The term "stock" means stock other than stock described in section 1504(a)(4).
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -154,7 +154,7 @@ Voting rights of employer securities
 
 Employee stock ownership plan
 
-For purposes of this section, the term “employee stock ownership plan” has the meaning given to such term by section 4975(e)(7).
+For purposes of this section, the term "employee stock ownership plan" has the meaning given to such term by section 4975(e)(7).
 
 (d)
 
@@ -182,7 +182,7 @@ In general
 
 Excludable period
 
-&emsp;For purposes of this subsection, the term “excludable period” means, with respect to any original securities acquisition loan—
+&emsp;For purposes of this subsection, the term "excludable period" means, with respect to any original securities acquisition loan—
 
 &emsp;&emsp;(A)
 
@@ -200,7 +200,7 @@ Loans described in subsection (b)(1)(A)
 
 Original securities acquisition loan
 
-&emsp;For the purposes of this subsection, the term “original securities acquisition loan” means a securities acquisition loan described in subparagraph (A) or (B) of subsection (b)(1).
+&emsp;For the purposes of this subsection, the term "original securities acquisition loan" means a securities acquisition loan described in subparagraph (A) or (B) of subsection (b)(1).
 
 #### Prior Provisions
 
@@ -210,23 +210,23 @@ A prior section 133 was renumbered section 140 of this title.
 
 Pub. L. 104–188, title I, §1602(c), Aug. 20, 1996, 110 Stat. 1834, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending sections 291, 812, 852, 4978, 6047, and 7872 of this title and repealing this section and section 4978B of this title\] shall apply to loans made after the date of the enactment of this Act \[Aug. 20, 1996\].
 
-“(2)
+"(2)
 
 Refinancings.—The amendments made by this section shall not apply to loans made after the date of the enactment of this Act to refinance securities acquisition loans (determined without regard to section 133(b)(1)(B) of the Internal Revenue Code of 1986, as in effect on the day before the date of the enactment of this Act) \[set out above\] made on or before such date or to refinance loans described in this paragraph if—
 
-&emsp;“(A) the refinancing loans meet the requirements of section 133 of such Code (as so in effect),
+&emsp;"(A) the refinancing loans meet the requirements of section 133 of such Code (as so in effect),
 
-&emsp;“(B) immediately after the refinancing the principal amount of the loan resulting from the refinancing does not exceed the principal amount of the refinanced loan (immediately before the refinancing), and
+&emsp;"(B) immediately after the refinancing the principal amount of the loan resulting from the refinancing does not exceed the principal amount of the refinanced loan (immediately before the refinancing), and
 
-&emsp;“(C) the term of such refinancing loan does not extend beyond the last day of the term of the original securities acquisition loan.
+&emsp;"(C) the term of such refinancing loan does not extend beyond the last day of the term of the original securities acquisition loan.
 
-> For purposes of this paragraph, the term ‘securities acquisition loan’ includes a loan from a corporation to an employee stock ownership plan described in section 133(b)(3) of such Code (as so in effect).
+> For purposes of this paragraph, the term 'securities acquisition loan' includes a loan from a corporation to an employee stock ownership plan described in section 133(b)(3) of such Code (as so in effect).
 
-“(3)
+"(3)
 
-Exception.—Any loan made pursuant to a binding written contract in effect before June 10, 1996, and at all times thereafter before such loan is made, shall be treated for purposes of paragraphs (1) and (2) as a loan made on or before the date of the enactment of this Act.”
+Exception.—Any loan made pursuant to a binding written contract in effect before June 10, 1996, and at all times thereafter before such loan is made, shall be treated for purposes of paragraphs (1) and (2) as a loan made on or before the date of the enactment of this Act."
 

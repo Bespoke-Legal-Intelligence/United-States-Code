@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, acting through the Administrator of the Substance Abuse and MentalHealth Services Administration, shall award grants or cooperative agreements to eligible entities to—
+The Secretary, acting through the Administrator of the Substance Abuse and Mental Health Services Administration, shall award grants or cooperative agreements to eligible entities to—
 
 &emsp;(1) develop and implement State-sponsored statewide or tribal youth suicide early intervention and prevention strategies in schools, educational institutions, juvenile justice systems, substance abuse programs, mental health programs, foster care systems, and other child and youth support organizations;
 
@@ -18,7 +18,7 @@ The Secretary, acting through the Administrator of the Substance Abuse and Menta
 
 #### (1) Definition
 
-&emsp;In this section, the term “eligible entity” means—
+&emsp;In this section, the term "eligible entity" means—
 
 &emsp;&emsp;(A) a State;
 
@@ -100,7 +100,7 @@ Not less than 85 percent of grant funds received under this section shall be use
 
 #### (f) Rule of construction; religious and moral accommodation
 
-Nothing in this section shall be construed to require suicide assessment, early intervention, or treatment services for youth whose parents or legal guardians object based on the parents’ or legal guardians’ religious beliefs or moral objections.
+Nothing in this section shall be construed to require suicide assessment, early intervention, or treatment services for youth whose parents or legal guardians object based on the parents' or legal guardians' religious beliefs or moral objections.
 
 #### (g) Evaluations and report
 
@@ -134,7 +134,7 @@ States and entities receiving funding under this section and section 290bb–36a
 
 #### (k) Relation to education provisions
 
-Nothing in this section or section 290bb–36a of this title shall be construed to supersede section1232g of title 20, including the requirement of prior parental consent for the disclosure of any education records. Nothing in this section or section 290bb–36a of this title shall be construed to modify or affect parental notification requirements for programs authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] (as amended by the No Child Left Behind Act of 2001; Public Law 107–110).
+Nothing in this section or section 290bb–36a of this title shall be construed to supersede section 1232g of title 20, including the requirement of prior parental consent for the disclosure of anyeducation records. Nothing in this section or section 290bb–36a of this title shall be construed to modify or affect parental notification requirements for programs authorized under the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6301 et seq.\] (as amended by the No Child Left Behind Act of 2001; Public Law 107–110).
 
 #### (l) Definitions
 
@@ -142,25 +142,25 @@ In this section:
 
 #### (1) Early intervention
 
-&emsp;The term “early intervention” means a strategy or approach that is intended to prevent an outcome or to alter the course of an existing condition.
+&emsp;The term "early intervention" means a strategy or approach that is intended to prevent an outcome or to alter the course of an existing condition.
 
 #### (2) Educational institution; institution of higher education; school
 
 &emsp;The term—
 
-&emsp;&emsp;(A) “educational institution” means a school or institution of higher education;
+&emsp;&emsp;(A) "educational institution" means a school or institution of higher education;
 
-&emsp;&emsp;(B) “institution of higher education” has the meaning given such term in section 1001 of title 20; and
+&emsp;&emsp;(B) "institution of higher education" has the meaning given such term in section 1001 of title 20; and
 
-&emsp;&emsp;(C) “school” means an elementary or secondary school (as such terms are defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]).
+&emsp;&emsp;(C) "school" means an elementary or secondary school (as such terms are defined in section 9101 of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 7801\]).
 
 #### (3) Prevention
 
-&emsp;The term “prevention” means a strategy or approach that reduces the likelihood or risk of onset, or delays the onset, of adverse health problems that have been known to lead to suicide.
+&emsp;The term "prevention" means a strategy or approach that reduces the likelihood or risk of onset, or delays the onset, of adverse health problems that have been known to lead to suicide.
 
 #### (4) Youth
 
-&emsp;The term “youth” means individuals who are between 10 and 24 years of age.
+&emsp;The term "youth" means individuals who are between 10 and 24 years of age.
 
 #### (m) Authorization of appropriations
 
@@ -192,39 +192,39 @@ A prior section 290bb–36, act July 1, 1944, ch. 373, title V, §520E, as added
 
 #### Congressional Findings
 
-Pub. L. 108–355, §2, Oct. 21, 2004, 118 Stat. 1404, provided that: “Congress makes the following findings:
+Pub. L. 108–355, §2, Oct. 21, 2004, 118 Stat. 1404, provided that: "Congress makes the following findings:
 
-&emsp;“(1) More children and young adults die from suicide each year than from cancer, heart disease, AIDS, birth defects, stroke, and chronic lung disease combined.
+&emsp;"(1) More children and young adults die from suicide each year than from cancer, heart disease, AIDS, birth defects, stroke, and chronic lung disease combined.
 
-&emsp;“(2) Over 4,000 children and young adults tragically take their lives every year, making suicide the third overall cause of death between the ages of 10 and 24. According to the Centers for Disease Control and Prevention, suicide is the third overall cause of death among college-age students.
+&emsp;"(2) Over 4,000 children and young adults tragically take their lives every year, making suicide the third overall cause of death between the ages of 10 and 24. According to the Centers for Disease Control and Prevention, suicide is the third overall cause of death among college-age students.
 
-&emsp;“(3) According to the National Center for Injury Prevention and Control of the Centers for Disease Control and Prevention, children and young adults accounted for 15 percent of all suicides completed in 2000.
+&emsp;"(3) According to the National Center for Injury Prevention and Control of the Centers for Disease Control and Prevention, children and young adults accounted for 15 percent of all suicides completed in 2000.
 
-&emsp;“(4) From 1952 to 1995, the rate of suicide in children and young adults tripled.
+&emsp;"(4) From 1952 to 1995, the rate of suicide in children and young adults tripled.
 
-&emsp;“(5) From 1980 to 1997, the rate of suicide among young adults ages 15 to 19 increased 11 percent.
+&emsp;"(5) From 1980 to 1997, the rate of suicide among young adults ages 15 to 19 increased 11 percent.
 
-&emsp;“(6) From 1980 to 1997, the rate of suicide among children ages 10 to 14 increased 109 percent.
+&emsp;"(6) From 1980 to 1997, the rate of suicide among children ages 10 to 14 increased 109 percent.
 
-&emsp;“(7) According to the National Center of Health Statistics, suicide rates among Native Americans range from 1.5 to 3 times the national average for other groups, with young people ages 15 to 34 making up 64 percent of all suicides.
+&emsp;"(7) According to the National Center of Health Statistics, suicide rates among Native Americans range from 1.5 to 3 times the national average for other groups, with young people ages 15 to 34 making up 64 percent of all suicides.
 
-&emsp;“(8) Congress has recognized that youth suicide is a public health tragedy linked to underlying mental health problems and that youth suicide early intervention and prevention activities are national priorities.
+&emsp;"(8) Congress has recognized that youth suicide is a public health tragedy linked to underlying mental health problems and that youth suicide early intervention and prevention activities are national priorities.
 
-&emsp;“(9) Youth suicide early intervention and prevention have been listed as urgent public health priorities by the President's New Freedom Commission in \[probably should be “on”\] Mental Health (2002), the Institute of Medicine's Reducing Suicide: A National Imperative (2002), the National Strategy for Suicide Prevention: Goals and Objectives for Action (2001), and the Surgeon General's Call to Action To Prevent Suicide (1999).
+&emsp;"(9) Youth suicide early intervention and prevention have been listed as urgent public health priorities by the President's New Freedom Commission in \[probably should be "on"\] Mental Health (2002), the Institute of Medicine's Reducing Suicide: A National Imperative (2002), the National Strategy for Suicide Prevention: Goals and Objectives for Action (2001), and the Surgeon General's Call to Action To Prevent Suicide (1999).
 
-&emsp;“(10) Many States have already developed comprehensive statewide youth suicide early intervention and prevention strategies that seek to provide effective early intervention and prevention services.
+&emsp;"(10) Many States have already developed comprehensive statewide youth suicide early intervention and prevention strategies that seek to provide effective early intervention and prevention services.
 
-&emsp;“(11) In a recent report, a startling 85 percent of college counseling centers revealed an increase in the number of students they see with psychological problems. Furthermore, the American College Health Association found that 61 percent of college students reported feeling hopeless, 45 percent said they felt so depressed they could barely function, and 9 percent felt suicidal.
+&emsp;"(11) In a recent report, a startling 85 percent of college counseling centers revealed an increase in the number of students they see with psychological problems. Furthermore, the American College Health Association found that 61 percent of college students reported feeling hopeless, 45 percent said they felt so depressed they could barely function, and 9 percent felt suicidal.
 
-&emsp;“(12) There is clear evidence of an increased incidence of depression among college students. According to a survey described in the Chronicle of Higher Education (February 1, 2002), depression among freshmen has nearly doubled (from 8.2 percent to 16.3 percent). Without treatment, researchers recently noted that ‘depressed adolescents are at risk for school failure, social isolation, promiscuity, self-medication with drugs and alcohol, and suicide—now the third leading cause of death among 10–24 year olds.’.
+&emsp;"(12) There is clear evidence of an increased incidence of depression among college students. According to a survey described in the Chronicle of Higher Education (February 1, 2002), depression among freshmen has nearly doubled (from 8.2 percent to 16.3 percent). Without treatment, researchers recently noted that 'depressed adolescents are at risk for school failure, social isolation, promiscuity, self-medication with drugs and alcohol, and suicide—now the third leading cause of death among 10–24 year olds.'.
 
-&emsp;“(13) Researchers who conducted the study ‘Changes in Counseling Center Client Problems Across 13 Years’ (1989–2001) at Kansas State University stated that ‘students are experiencing more stress, more anxiety, more depression than they were a decade ago.’ (The Chronicle of Higher Education, February 14, 2003).
+&emsp;"(13) Researchers who conducted the study 'Changes in Counseling Center Client Problems Across 13 Years' (1989–2001) at Kansas State University stated that 'students are experiencing more stress, more anxiety, more depression than they were a decade ago.' (The Chronicle of Higher Education, February 14, 2003).
 
-&emsp;“(14) According to the 2001 National Household Survey on Drug Abuse, 20 percent of full-time undergraduate college students use illicit drugs.
+&emsp;"(14) According to the 2001 National Household Survey on Drug Abuse, 20 percent of full-time undergraduate college students use illicit drugs.
 
-&emsp;“(15) The 2001 National Household Survey on Drug Abuse also reported that 18.4 percent of adults aged 18 to 24 are dependent on or abusing illicit drugs or alcohol. In addition, the study found that ‘serious mental illness is highly correlated with substance dependence or abuse. Among adults with serious mental illness in 2001, 20.3 percent were dependent on or abused alcohol or illicit drugs, while the rate among adults without serious mental illness was only 6.3 percent.’.
+&emsp;"(15) The 2001 National Household Survey on Drug Abuse also reported that 18.4 percent of adults aged 18 to 24 are dependent on or abusing illicit drugs or alcohol. In addition, the study found that 'serious mental illness is highly correlated with substance dependence or abuse. Among adults with serious mental illness in 2001, 20.3 percent were dependent on or abused alcohol or illicit drugs, while the rate among adults without serious mental illness was only 6.3 percent.'.
 
-&emsp;“(16) A 2003 Gallagher's Survey of Counseling Center Directors found that 81 percent were concerned about the increasing number of students with more serious psychological problems, 67 percent reported a need for more psychiatric services, and 63 percent reported problems with growing demand for services without an appropriate increase in resources.
+&emsp;"(16) A 2003 Gallagher's Survey of Counseling Center Directors found that 81 percent were concerned about the increasing number of students with more serious psychological problems, 67 percent reported a need for more psychiatric services, and 63 percent reported problems with growing demand for services without an appropriate increase in resources.
 
-&emsp;“(17) The International Association of Counseling Services accreditation standards recommend 1 counselor per 1,000 to 1,500 students. According to the 2003 Gallagher's Survey of Counseling Center Directors, the ratio of counselors to students is as high as 1 counselor per 2,400 students at institutions of higher education with more than 15,000 students.”
+&emsp;"(17) The International Association of Counseling Services accreditation standards recommend 1 counselor per 1,000 to 1,500 students. According to the 2003 Gallagher's Survey of Counseling Center Directors, the ratio of counselors to students is as high as 1 counselor per 2,400 students at institutions of higher education with more than 15,000 students."
 

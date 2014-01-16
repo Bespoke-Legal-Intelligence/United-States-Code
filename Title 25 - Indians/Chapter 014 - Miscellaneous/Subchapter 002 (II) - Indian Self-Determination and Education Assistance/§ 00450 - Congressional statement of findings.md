@@ -22,51 +22,51 @@ The Congress further finds that—
 
 #### Short Title of 2000 Amendments
 
-Pub. L. 106–568, title VIII, §801, Dec. 27, 2000, 114 Stat. 2916, provided that: “This title \[amending sections 450l, 458cc, 1407, and 3207 of this title and sections 5604, 5608, and 5609 of Title 20, Education, and repealing section 84 of this title and sections 438 and 439 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Native American Laws Technical Corrections Act of 2000’.”
+Pub. L. 106–568, title VIII, §801, Dec. 27, 2000, 114 Stat. 2916, provided that: "This title \[amending sections 450l, 458cc, 1407, and 3207 of this title and sections 5604, 5608, and 5609 of Title 20, Education, and repealing section 84 of this title and sections 438 and 439 of Title 18, Crimes and Criminal Procedure\] may be cited as the 'Native American Laws Technical Corrections Act of 2000'."
 
-Pub. L. 106–568, title XIII, §1301, Dec. 27, 2000, 114 Stat. 2936, provided that: “This title \[enacting part F (§458bbb et seq.) of this subchapter\] may be cited as the ‘American Indian Education Foundation Act of 2000’.”
+Pub. L. 106–568, title XIII, §1301, Dec. 27, 2000, 114 Stat. 2936, provided that: "This title \[enacting part F (§458bbb et seq.) of this subchapter\] may be cited as the 'American Indian Education Foundation Act of 2000'."
 
-Pub. L. 106–260, §1, Aug. 18, 2000, 114 Stat. 711, provided that: “This Act \[enacting part E (§458aaa et seq.) of this subchapter, amending sections 450f, 450j, and 450j–1 of this title, enacting provisions set out as notes under sections 450f and 458aaa of this title, and repealing provisions set out as a note under section 450f of this title\] may be cited as the ‘Tribal Self-Governance Amendments of 2000’.”
+Pub. L. 106–260, §1, Aug. 18, 2000, 114 Stat. 711, provided that: "This Act \[enacting part E (§458aaa et seq.) of this subchapter, amending sections 450f, 450j, and 450j–1 of this title, enacting provisions set out as notes under sections 450f and 458aaa of this title, and repealing provisions set out as a note under section 450f of this title\] may be cited as the 'Tribal Self-Governance Amendments of 2000'."
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–413, §1, Oct. 25, 1994, 108 Stat. 4250, provided that: “This Act \[enacting part D (§458aa et seq.) of this subchapter and section 450l of this title, amending sections 450b, 450c, 450e, 450f, 450j to 450k, 450m, and 450m–1 of this title, and enacting provisions set out as notes under this section and section 458aa of this title\] may be cited as the ‘Indian Self-Determination Act Amendments of 1994’.”
+Pub. L. 103–413, §1, Oct. 25, 1994, 108 Stat. 4250, provided that: "This Act \[enacting part D (§458aa et seq.) of this subchapter and section 450l of this title, amending sections 450b, 450c, 450e, 450f, 450j to 450k, 450m, and 450m–1 of this title, and enacting provisions set out as notes under this section and section 458aa of this title\] may be cited as the 'Indian Self-Determination Act Amendments of 1994'."
 
-Pub. L. 103–413, title I, §101, Oct. 25, 1994, 108 Stat. 4250, provided that: “This title \[enacting section 450l of this title and amending sections 450b, 450c, 450e, 450f, 450j to 450k, 450m, and 450m–1 of this title\] may be cited as the ‘Indian Self-Determination Contract Reform Act of 1994’.”
+Pub. L. 103–413, title I, §101, Oct. 25, 1994, 108 Stat. 4250, provided that: "This title \[enacting section 450l of this title and amending sections 450b, 450c, 450e, 450f, 450j to 450k, 450m, and 450m–1 of this title\] may be cited as the 'Indian Self-Determination Contract Reform Act of 1994'."
 
-Pub. L. 103–413, title II, §201, Oct. 25, 1994, 108 Stat. 4270, provided that: “This title \[enacting part D (§458aa et seq.) of this subchapter and provisions set out as notes under section 458aa of this title\] may be cited as the ‘Tribal Self-Governance Act of 1994’.”
+Pub. L. 103–413, title II, §201, Oct. 25, 1994, 108 Stat. 4270, provided that: "This title \[enacting part D (§458aa et seq.) of this subchapter and provisions set out as notes under section 458aa of this title\] may be cited as the 'Tribal Self-Governance Act of 1994'."
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–644, title II, §201, Nov. 29, 1990, 104 Stat. 4665, provided that: “This title \[amending sections 450b, 450c, 450f, 450h, 450j, 450j–1, and 450k of this title and enacting provisions set out as a note under section 450h of this title\] may be cited as the ‘Indian Self-Determination and Education Assistance Act Amendments of 1990’.”
+Pub. L. 101–644, title II, §201, Nov. 29, 1990, 104 Stat. 4665, provided that: "This title \[amending sections 450b, 450c, 450f, 450h, 450j, 450j–1, and 450k of this title and enacting provisions set out as a note under section 450h of this title\] may be cited as the 'Indian Self-Determination and Education Assistance Act Amendments of 1990'."
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–472, title I, §101, Oct. 5, 1988, 102 Stat. 2285, provided that: “This Act \[enacting sections 450j–1 and 450m–1 of this title, amending sections 13a, 450a to 450c, 450f to 450j, 450k, and 450n of this title, sections 3371 and 3372 of Title 5, Government Organization and Employees, sections 2004b and 4762 of Title 42, The Public Health and Welfare, and section 456 of the Appendix to Title 50, War and National Defense, transferring section 450l of this title to section 450c(f) of this title, and enacting provisions set out as notes under this section and section 450f of this title\] may be cited as the ‘Indian Self-Determination and Education Assistance Act Amendments of 1988’.”
+Pub. L. 100–472, title I, §101, Oct. 5, 1988, 102 Stat. 2285, provided that: "This Act \[enacting sections 450j–1 and 450m–1 of this title, amending sections 13a, 450a to 450c, 450f to 450j, 450k, and 450n of this title, sections 3371 and 3372 of Title 5, Government Organization and Employees, sections 2004b and 4762 of Title 42, The Public Health and Welfare, and section 456 of the Appendix to Title 50, War and National Defense, transferring section 450l of this title to section 450c(f) of this title, and enacting provisions set out as notes under this section and section 450f of this title\] may be cited as the 'Indian Self-Determination and Education Assistance Act Amendments of 1988'."
 
 #### Short Title
 
-Pub. L. 93–638, §1, Jan. 4, 1975, 88 Stat. 2203, provided: “That this Act \[enacting this subchapter, section 13a of this title, and section 2004b of Title 42, The Public Health and Welfare, amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 456 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 450f, 455, and 457 of this title\] may be cited as the ‘Indian Self-Determination and Education Assistance Act’.”
+Pub. L. 93–638, §1, Jan. 4, 1975, 88 Stat. 2203, provided: "That this Act \[enacting this subchapter, section 13a of this title, and section 2004b of Title 42, The Public Health and Welfare, amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 456 of Title 50, Appendix, War and National Defense, and enacting provisions set out as notes under sections 450f, 455, and 457 of this title\] may be cited as the 'Indian Self-Determination and Education Assistance Act'."
 
-Pub. L. 93–638, title I, §101, Jan. 4, 1975, 88 Stat. 2206, provided that: “This title \[enacting part A (§450f et seq.) of this subchapter and section 2004b of Title 42, The Public Health and Welfare, and amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 456 of the Appendix to Title 50, War and National Defense\] may be cited as the ‘Indian Self-Determination Act’.”
+Pub. L. 93–638, title I, §101, Jan. 4, 1975, 88 Stat. 2206, provided that: "This title \[enacting part A (§450f et seq.) of this subchapter and section 2004b of Title 42, The Public Health and Welfare, and amending section 3371 of Title 5, Government Organization and Employees, section 4762 of Title 42, and section 456 of the Appendix to Title 50, War and National Defense\] may be cited as the 'Indian Self-Determination Act'."
 
-Pub. L. 93–638, title II, §201, Jan. 4, 1975, 88 Stat. 2213, provided that: “This title \[enacting part C (§458 et seq.) of this subchapter, sections 455 to 457 of this title, and provisions set out as a note under section 457 of this title\] may be cited as the ‘Indian Education Assistance Act’.”
+Pub. L. 93–638, title II, §201, Jan. 4, 1975, 88 Stat. 2213, provided that: "This title \[enacting part C (§458 et seq.) of this subchapter, sections 455 to 457 of this title, and provisions set out as a note under section 457 of this title\] may be cited as the 'Indian Education Assistance Act'."
 
 #### Savings Provisions
 
-Pub. L. 100–472, title II, §210, Oct. 5, 1988, 102 Stat. 2298, provided that: “Nothing in this Act \[see Short Title of 1988 Amendment note above\] shall be construed as—
+Pub. L. 100–472, title II, §210, Oct. 5, 1988, 102 Stat. 2298, provided that: "Nothing in this Act \[see Short Title of 1988 Amendment note above\] shall be construed as—
 
-&emsp;“(1) affecting, modifying, diminishing, or otherwise impairing the sovereign immunity from suit enjoyed by an Indian tribe; or
+&emsp;"(1) affecting, modifying, diminishing, or otherwise impairing the sovereign immunity from suit enjoyed by an Indian tribe; or
 
-&emsp;“(2) authorizing or requiring the termination of any existing trust responsibility of the United States with respect to Indian people.”
+&emsp;"(2) authorizing or requiring the termination of any existing trust responsibility of the United States with respect to Indian people."
 
 #### Severability
 
-Pub. L. 100–472, title II, §211, Oct. 5, 1988, 102 Stat. 2298, provided that: “If any provision of this Act \[see Short Title of 1988 Amendment note above\] or the application thereof to any Indian tribe, entity, person or circumstance is held invalid, neither the remainder of this Act, nor the application of any provisions herein to other Indian tribes, entities, persons, or circumstances, shall be affected thereby.”
+Pub. L. 100–472, title II, §211, Oct. 5, 1988, 102 Stat. 2298, provided that: "If any provision of this Act \[see Short Title of 1988 Amendment note above\] or the application thereof to any Indian tribe, entity, person or circumstance is held invalid, neither the remainder of this Act, nor the application of any provisions herein to other Indian tribes, entities, persons, or circumstances, shall be affected thereby."
 
 #### Consultation With Alaska Native Corporations
 
-Pub. L. 108–199, div. H, §161, Jan. 23, 2004, 118 Stat. 452, as amended by Pub. L. 108–447, div. H, title V, §518, Dec. 8, 2004, 118 Stat. 3267, provided that: “The Director of the Office of Management and Budget and all Federal agencies shall hereafter consult with Alaska Native corporations on the same basis as Indian tribes under Executive Order No. 13175 \[set out below\].”
+Pub. L. 108–199, div. H, §161, Jan. 23, 2004, 118 Stat. 452, as amended by Pub. L. 108–447, div. H, title V, §518, Dec. 8, 2004, 118 Stat. 3267, provided that: "The Director of the Office of Management and Budget and all Federal agencies shall hereafter consult with Alaska Native corporations on the same basis as Indian tribes under Executive Order No. 13175 \[set out below\]."
 
 #### Executive Order No. 13084
 
@@ -80,13 +80,13 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Definitions</i>. For purposes of this order:
 
-(a) “Policies that have tribal implications” refers to regulations, legislative comments or proposed legislation, and other policy statements or actions that have substantial direct effects on one or more Indian tribes, on the relationship between the Federal Government and Indian tribes, or on the distribution of power and responsibilities between the Federal Government and Indian tribes.
+(a) "Policies that have tribal implications" refers to regulations, legislative comments or proposed legislation, and other policy statements or actions that have substantial direct effects on one or more Indian tribes, on the relationship between the Federal Government and Indian tribes, or on the distribution of power and responsibilities between the Federal Government and Indian tribes.
 
-(b) “Indian tribe” means an Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 479a.
+(b) "Indian tribe" means an Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 479a.
 
-(c) “Agency” means any authority of the United States that is an “agency” under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(5).
+(c) "Agency" means any authority of the United States that is an "agency" under 44 U.S.C. 3502(1), other than those considered to be independent regulatory agencies, as defined in 44 U.S.C. 3502(5).
 
-(d) “Tribal officials” means elected or duly appointed officials of Indian tribal governments or authorized intertribal organizations.
+(d) "Tribal officials" means elected or duly appointed officials of Indian tribal governments or authorized intertribal organizations.
 
 Sec. 2. <i>Fundamental Principles</i>. In formulating or implementing policies that have tribal implications, agencies shall be guided by the following fundamental principles:
 
@@ -168,6 +168,136 @@ Sec. 10. <i>Judicial Review</i>. This order is intended only to improve the inte
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Ex. Ord. No. 13647. Establishing the White House Council on Native American Affairs
+
+Ex. Ord. No. 13647, June 26, 2013, 78 F.R. 39539, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to promote and sustain prosperous and resilient Native American tribal governments, it is hereby ordered as follows:
+
+Section 1. <i>Policy</i>. The United States recognizes a government-to-government relationship, as well as a unique legal and political relationship, with federally recognized tribes. This relationship is set forth in the Constitution of the United States, treaties, statutes, Executive Orders, administrative rules and regulations, and judicial decisions. Honoring these relationships and respecting the sovereignty of tribal nations is critical to advancing tribal self-determination and prosperity.
+
+As we work together to forge a brighter future for all Americans, we cannot ignore a history of mistreatment and destructive policies that have hurt tribal communities. The United States seeks to continue restoring and healing relations with Native Americans and to strengthen its partnership with tribal governments, for our more recent history demonstrates that tribal self-determination—the ability of tribal governments to determine how to build and sustain their own communities—is necessary for successful and prospering communities. We further recognize that restoring tribal lands through appropriate means helps foster tribal self-determination.
+
+This order establishes a national policy to ensure that the Federal Government engages in a true and lasting government-to-government relationship with federally recognized tribes in a more coordinated and effective manner, including by better carrying out its trust responsibilities. This policy is established as a means of promoting and sustaining prosperous and resilient tribal communities. Greater engagement and meaningful consultation with tribes is of paramount importance in developing any policies affecting tribal nations.
+
+To honor treaties and recognize tribes' inherent sovereignty and right to self-government under U.S. law, it is the policy of the United States to promote the development of prosperous and resilient tribal communities, including by:
+
+(a) promoting sustainable economic development, particularly energy, transportation, housing, other infrastructure, entrepreneurial, and workforce development to drive future economic growth and security;
+
+(b) supporting greater access to, and control over, nutrition and healthcare, including special efforts to confront historic health disparities and chronic diseases;
+
+(c) supporting efforts to improve the effectiveness and efficiency of tribal justice systems and protect tribal communities;
+
+(d) expanding and improving lifelong educational opportunities for American Indians and Alaska Natives, while respecting demands for greater tribal control over tribal education, consistent with Executive Order 13592 of December 2, 2011 (Improving American Indian and Alaska Native Educational Opportunities and Strengthening Tribal Colleges and Universities); and
+
+(e) protecting tribal lands, environments, and natural resources, and promoting respect for tribal cultures.
+
+Sec. 2. <i>Establishment</i>. There is established the White House Council on Native American Affairs (Council). The Council shall improve coordination of Federal programs and the use of resources available to tribal communities.
+
+Sec. 3. <i>Membership</i>. (a) The Secretary of the Interior shall serve as the Chair of the Council, which shall also include the heads of the following executive departments, agencies, and offices:
+
+(i) the Department of State;
+
+(ii) the Department of the Treasury;
+
+(iii) the Department of Defense;
+
+(iv) the Department of Justice;
+
+(v) the Department of Agriculture;
+
+(vi) the Department of Commerce;
+
+(vii) the Department of Labor;
+
+(viii) the Department of Health and Human Services;
+
+(ix) the Department of Housing and Urban Development;
+
+(x) the Department of Transportation;
+
+(xi) the Department of Energy;
+
+(xii) the Department of Education;
+
+(xiii) the Department of Veterans Affairs;
+
+(xiv) the Department of Homeland Security;
+
+(xv) the Social Security Administration;
+
+(xvi) the Office of Personnel Management;
+
+(xvii) the Office of the United States Trade Representative;
+
+(xviii) the Office of Management and Budget;
+
+(xix) the Environmental Protection Agency;
+
+(xx) the Small Business Administration;
+
+(xxi) the Council of Economic Advisers;
+
+(xxii) the Office of National Drug Control Policy;
+
+(xxiii) the Domestic Policy Council;
+
+(xxiv) the National Economic Council;
+
+(xxv) the Office of Science and Technology Policy;
+
+(xxvi) the Council on Environmental Quality;
+
+(xxvii) the White House Office of Public Engagement and Intergovernmental Affairs;
+
+(xxviii) the Advisory Council on Historic Preservation;
+
+(xxix) the Denali Commission;
+
+(xxx) the White House Office of Cabinet Affairs; and
+
+(xxxi) such other executive departments, agencies, and offices as the Chair may, from time to time, designate.
+
+(b) A member of the Council may designate a senior-level official, who is a full-time officer or employee of the Federal Government, to perform his or her functions.
+
+(c) The Department of the Interior shall provide funding and administrative support for the Council to the extent permitted by law and within existing appropriations.
+
+(d) The Council shall coordinate its policy development through the Domestic Policy Council.
+
+(e) The Council shall coordinate its outreach to federally recognized tribes through the White House Office of Public Engagement and Intergovernmental Affairs.
+
+(f) The Council shall meet three times a year, with any additional meetings convened as deemed necessary by the Chair.
+
+The Chair may invite other interested agencies and offices to attend meetings as appropriate.
+
+Sec. 4. <i>Mission and Function of the Council</i>. The Council shall work across executive departments, agencies, and offices to coordinate development of policy recommendations to support tribal self-governance and improve the quality of life for Native Americans, and shall coordinate the United States Government's engagement with tribal governments and their communities. The Council shall:
+
+(a) make recommendations to the President, through the Director of the Domestic Policy Council, concerning policy priorities, including improving the effectiveness of Federal investments in Native American communities, where appropriate, to increase the impact of Federal resources and create greater opportunities to help improve the quality of life for Native Americans;
+
+(b) coordinate, through the Director of the Office of Public Engagement and Intergovernmental Affairs, Federal engagement with tribal governments and Native American stakeholders regarding issues important to Native Americans, including with tribal consortia, small businesses, education and training institutions including tribal colleges and universities, health-care providers, trade associations, research and grant institutions, law enforcement, State and local governments, and community and non-profit organizations;
+
+(c) coordinate a more effective and efficient process for executive departments, agencies, and offices to honor the United States commitment to tribal consultation as set forth in Executive Order 13175 of November 6, 2000 (Consultation and Coordination With Indian Tribal Governments), and my memorandum of November 5, 2009 (Tribal Consultation); and
+
+(d) assist the White House Office of Public Engagement and Intergovernmental Affairs in organizing the White House Tribal Nations Conference each year by bringing together leaders invited from all federally recognized Indian tribes and senior officials from the Federal Government to provide for direct government-to-government discussion of the Federal Government's Indian country policy priorities.
+
+Sec. 5. <i>General Provisions</i>. (a) The heads of executive departments, agencies, and offices shall assist and provide information to the Council, consistent with applicable law, as may be necessary to carry out the functions of the Council.
+
+(b) Nothing in this order shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department, agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(c) This order shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(d) For purposes of this order, "federally recognized tribe" means an Indian or Alaska Native tribe, band, nation, pueblo, village, or community that the Secretary of the Interior acknowledges to exist as an Indian tribe pursuant to the Federally Recognized Indian Tribe List Act of 1994, 25 U.S.C. 479a.
+
+(e) For purposes of this order, "American Indian and Alaska Native" means a member of an Indian tribe, as membership is defined by the tribe.
+
+(f) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Government-to-Government Relations With Native American Tribal Governments
 
 Memorandum of President of the United States, Apr. 29, 1994, 59 F.R. 22951, provided:
@@ -188,7 +318,7 @@ In order to ensure that the rights of sovereign tribal governments are fully res
 
 (e) Each executive department and agency shall work cooperatively with other Federal departments and agencies to enlist their interest and support in cooperative efforts, where appropriate, to accomplish the goals of this memorandum.
 
-(f) Each executive department and agency shall apply the requirements of Executive Orders Nos. 12875 (“Enhancing the Intergovernmental Partnership”) \[former 5 U.S.C. 601 note\] and 12866 (“Regulatory Planning and Review”) \[5 U.S.C. 601 note\] to design solutions and tailor Federal programs, in appropriate circumstances, to address specific or unique needs of tribal communities.
+(f) Each executive department and agency shall apply the requirements of Executive Orders Nos. 12875 ("Enhancing the Intergovernmental Partnership") \[former 5U.S.C. 601 note\] and 12866 ("Regulatory Planning and Review") \[5 U.S.C. 601 note\] to design solutions and tailor Federal programs, in appropriate circumstances, to address specific or unique needs of tribal communities.
 
 The head of each executive department and agency shall ensure that the department or agency's bureaus and components are fully aware of this memorandum, through publication or other means, and that they are in compliance with its requirements.
 
@@ -214,7 +344,7 @@ Each agency's plan and subsequent reports shall designate an appropriate officia
 
 In addition, the Director of the OMB, in coordination with the Assistant to the President for Domestic Policy, shall submit to me, within 1 year from the date of this memorandum, a report on the implementation of Executive Order 13175 across the executive branch based on the review of agency plans and progress reports. Recommendations for improving the plans and making the tribal consultation process more effective, if any, should be included in this report.
 
-The terms “Indian tribe,” “tribal officials,” and “policies that have tribal implications” as used in this memorandum are as defined in Executive Order 13175.
+The terms "Indian tribe," "tribal officials," and "policies that have tribal implications" as used in this memorandum are as defined in Executive Order 13175.
 
 The Director of the OMB is hereby authorized and directed to publish this memorandum in the Federal Register.
 

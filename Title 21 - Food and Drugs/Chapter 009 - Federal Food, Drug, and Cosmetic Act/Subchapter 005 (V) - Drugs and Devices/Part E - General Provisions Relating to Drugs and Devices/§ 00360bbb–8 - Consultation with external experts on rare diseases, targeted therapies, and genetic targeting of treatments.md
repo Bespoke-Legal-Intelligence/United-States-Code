@@ -48,7 +48,7 @@ The external experts who are consulted under this section may be considered spec
 
 #### (2) Consent required for disclosure
 
-&emsp;The Secretary shall not disclose confidential commercial or trade secret information to an expert consulted under this section without the written consent of the sponsor unless theexpert is a special government employee (as defined under section 202 of title 18) or the disclosure is otherwise authorized by law.
+&emsp;The Secretary shall not disclose confidential commercial or trade secret information to an expert consulted under this section without the written consent of the sponsor unless the expert is a special government employee (as defined under section 202 of title 18) or the disclosure is otherwise authorized by law.
 
 #### (e) Other consultation
 

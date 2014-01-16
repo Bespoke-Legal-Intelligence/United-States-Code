@@ -12,7 +12,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(4) The State shall authorize an individual to operate a commercial motor vehicle only by issuing a commercial driver's license containing the information described in section 31308(3) of this title.<sup>1</sup>
 
-&emsp;(5) Not later than the time period prescribed by the Secretary by regulation, the State shall notify the Secretary or the operator of the information system under section 31309 of this title, as the case may be, of the proposed issuance of the license and other information the Secretary may require to ensure identification of the individual applying for the license.
+&emsp;(5) Not later than the time period prescribed by the Secretary by regulation, the State shallnotify the Secretary or the operator of the information system under section 31309 of this title, as the case may be, of the proposed issuance of the license and other information the Secretary may require to ensure identification of the individual applying for the license.
 
 &emsp;(6) Before issuing a commercial driver's license to an individual or renewing such a license, the State shall request from any other State that has issued a driver's license to the individual all information about the driving record of the individual.
 
@@ -78,7 +78,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(17) The State shall adopt and enforce regulations prescribed by the Secretary under as <sup>2</sup> 31310(j) of this title.
 
-&emsp;(18) The State shall maintain, as part of its driver information system, a record of each violation of a State or local motor vehicle traffic control law while operating a motor vehicle (except a parking violation) for each individual who holds a commercial driver's license. The record shall be available upon request to the individual, the Secretary, employers, prospective employers, State licensing and law enforcement agencies, and their authorized agents.
+&emsp;(18) The State shall maintain, as part of its driver information system, a record of eachviolation of a State or local motor vehicle traffic control law while operating a motor vehicle (except a parking violation) for each individual who holds a commercial driver's license. The record shall be available upon request to the individual, the Secretary, employers, prospective employers, State licensing and law enforcement agencies, and their authorized agents.
 
 &emsp;(19) The State shall—
 
@@ -194,7 +194,7 @@ Oct. 27, 1986, Pub. L. 99–570, §12009, 100 Stat. 3207–179; Dec. 18, 1991, P
 
 Subsection (a)(15) is substituted for 49 App.:2708(a)(15)–(19) for consistency with section 31310(b)–(e) of the revised title and to avoid repeating the language restated in section 31310(b)–(e).
 
-In subsection (b), the words “in accordance with the requirements of such subsection” are omitted as surplus.
+In subsection (b), the words "in accordance with the requirements of such subsection" are omitted as surplus.
 
 #### References in Text
 
@@ -204,9 +204,9 @@ The date of enactment of the Commercial Motor Vehicle Safety Enhancement Act of 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a)(5). Pub. L. 112–141, §32305(b)(1)(A), substituted “Not later than the time period prescribed by the Secretary by regulation,” for “At least 60 days before issuing a commercial driver's license (or a shorter period the Secretary prescribes by regulation),”.
+<b>2012</b>—Subsec. (a)(5). Pub. L. 112–141, §32305(b)(1)(A), substituted "Not later than the time period prescribed by the Secretary by regulation," for "At least 60 days before issuing a commercial driver's license (or a shorter period the Secretary prescribes by regulation),".
 
-Subsec. (a)(12). Pub. L. 112–196 amended par. (12) generally. Prior to amendment, par. (12) read as follows: “The State may issue a commercial driver's license only to an individual who operates or will operate a commercial motor vehicle and is domiciled in the State, except that, under regulations the Secretary shall prescribe, the State may issue a commercial driver's license to an individual who operates or will operate a commercial motor vehicle and is not domiciled in a State that issues commercial drivers’ licenses.”
+Subsec. (a)(12). Pub. L. 112–196 amended par. (12) generally. Prior to amendment, par. (12) read as follows: "The State may issue a commercial driver's license only to an individual who operates or will operate a commercial motor vehicle and is domiciled in the State, except that, under regulations the Secretary shall prescribe, the State may issue a commercial driver's license to an individual who operates or will operate a commercial motor vehicle and is not domiciled in a State that issues commercial drivers' licenses."
 
 Subsec. (a)(22). Pub. L. 112–141, §32203(b), added par. (22).
 
@@ -216,33 +216,33 @@ Subsec. (a)(25). Pub. L. 112–141, §32302(d), added par. (25).
 
 Subsecs. (d), (e). Pub. L. 112–141, §32305(b)(2), added subsecs. (d) and (e).
 
-<b>2005</b>—Subsec. (a)(15). Pub. L. 109–59, §4123(b)(1), substituted “(i)(1)(A) and (i)(2)” for “(g)(1)(A), and (g)(2)”.
+<b>2005</b>—Subsec. (a)(15). Pub. L. 109–59, §4123(b)(1), substituted "(i)(1)(A) and (i)(2)" for "(g)(1)(A), and (g)(2)".
 
-Subsec. (a)(17). Pub. L. 109–59, §4123(b)(2), substituted “as 31310(j)” for “section 31310(h)”.
+Subsec. (a)(17). Pub. L. 109–59, §4123(b)(2), substituted "as 31310(j)" for "section 31310(h)".
 
 Subsec. (a)(21). Pub. L. 109–59, §4123(b)(3), added par. (21).
 
-<b>1999</b>—Subsec. (a)(6). Pub. L. 106–159, §202(a), inserted “or renewing such a license” after “to an individual” and struck out “commercial” after “has issued a”.
+<b>1999</b>—Subsec. (a)(6). Pub. L. 106–159, §202(a), inserted "or renewing such a license" after "to an individual" and struck out "commercial" after "has issued a".
 
-Subsec. (a)(8). Pub. L. 106–159, §202(b), inserted “, and the violation that resulted in the disqualification, revocation, suspension, or cancellation shall be recorded” before the period at end.
+Subsec. (a)(8). Pub. L. 106–159, §202(b), inserted ", and the violation that resulted in the disqualification, revocation, suspension, or cancellation shall be recorded" before the period at end.
 
-Subsec. (a)(9). Pub. L. 106–159, §202(c), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “If an individual operating a commercial motor vehicle violates a State or local law on motor vehicle traffic control (except a parking violation) and the individual has a driver's license issued by another State, the State in which the violation occurred shall notify a State official designated by the issuing State of the violation not later than 10 days after the date the individual is found to have committed the violation.”
+Subsec. (a)(9). Pub. L. 106–159, §202(c), amended par. (9) generally. Prior to amendment, par. (9) read as follows: "If an individual operating a commercial motor vehicle violates a State or local law on motor vehicle traffic control (except a parking violation) and the individual has a driver's license issued by another State, the State in which the violation occurred shall notify a State official designated by the issuing State of the violation not later than 10 days after the date the individual is found to have committed the violation."
 
 Subsec. (a)(10). Pub. L. 106–159, §202(d), designated existing provisions as subpar. (A) and added subpar. (B).
 
-Subsec. (a)(13). Pub. L. 106–159, §202(e), inserted “consistent with this chapter that” after “penalties”, substituted “vehicle.” for “vehicle when the individual—”, and struck out pars. (A) to (C) which read as follows:
+Subsec. (a)(13). Pub. L. 106–159, §202(e), inserted "consistent with this chapter that" after "penalties", substituted "vehicle." for "vehicle when the individual—", and struck out pars. (A) to (C) which read as follows:
 
-&emsp;“(A) does not have a commercial driver's license;
+&emsp;"(A) does not have a commercial driver's license;
 
-&emsp;“(B) has a driver's license revoked, suspended, or canceled; or
+&emsp;"(B) has a driver's license revoked, suspended, or canceled; or
 
-&emsp;“(C) is disqualified from operating a commercial motor vehicle.”
+&emsp;"(C) is disqualified from operating a commercial motor vehicle."
 
 Subsec. (a)(18) to (20). Pub. L. 106–159, §202(f)–(h), added pars. (18) to (20).
 
-<b>1998</b>—Subsec. (a)(15). Pub. L. 105–178, §4011(e)(1), substituted “subsections (b)–(e), (g)(1)(A), and (g)(2) of section 31310” for “section 31310(b)–(e) of this title”.
+<b>1998</b>—Subsec. (a)(15). Pub. L. 105–178, §4011(e)(1), substituted "subsections (b)–(e), (g)(1)(A), and (g)(2) of section 31310" for "section 31310(b)–(e) of this title".
 
-Subsec. (a)(17), (18). Pub. L. 105–178, §4011(e)(2), (3), redesignated par. (18) as (17) and struck out former par. (17) which read as follows: “The State shall adopt and enforce regulations prescribed by the Secretary under section 31310(g)(1)(A) and (2) of this title.”
+Subsec. (a)(17), (18). Pub. L. 105–178, §4011(e)(2), (3), redesignated par. (18) as (17) and struck out former par. (17) which read as follows: "The State shall adopt and enforce regulations prescribed by the Secretary under section 31310(g)(1)(A) and (2) of this title."
 
 <b>1995</b>—Subsec. (a)(18). Pub. L. 104–88 added par. (18).
 
@@ -258,15 +258,15 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 Pub. L. 106–159, title II, §221, Dec. 9, 1999, 113 Stat. 1769, provided that:
 
-“(a)
+"(a)
 
-Development.—In cooperation with the States, the Secretary shall develop a uniform system to support the electronic transmission of data State-to-State on convictions for all motor vehicle traffic control law violations by individuals possessing a commercial drivers’ licenses as required by paragraphs (9) and (19) of section 31311(a) of title 49, United States Code.
+Development.—In cooperation with the States, the Secretary shall develop a uniform system to support the electronic transmission of data State-to-State on convictions for all motor vehicle traffic control law violations by individuals possessing a commercial drivers' licenses as required by paragraphs (9) and (19) of section 31311(a) of title 49, United States Code.
 
-“(b)
+"(b)
 
-Status Report.—Not later than 2 years after the date of the enactment of this Act \[Dec. 9, 1999\], the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of the implementation of this section.”
+Status Report.—Not later than 2 years after the date of the enactment of this Act \[Dec. 9, 1999\], the Secretary shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives a report on the status of the implementation of this section."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "section".</i>
 

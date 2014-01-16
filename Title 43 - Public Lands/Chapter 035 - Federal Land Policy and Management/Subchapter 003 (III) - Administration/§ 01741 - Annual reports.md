@@ -2,7 +2,7 @@
 
 #### (a) Purpose; time for submission
 
-For the purpose of providing information that will aid Congress in carrying out its oversight responsibilities for public lands programs and for other purposes, the Secretary shall prepare a report in accordance with subsections (b) and (c) of this section and submit it to the Congress no later than one hundred and twenty days after the end of each fiscal year beginning with the report for fiscal year 1979.
+For the purpose of providing information that will aid Congress in carrying out its oversight responsibilities for public lands programs and for other purposes, the Secretary shall prepare a report in accordance with subsections (b) and (c) of this section and submit it to the Congress nolater than one hundred and twenty days after the end of each fiscal year beginning with the report for fiscal year 1979.
 
 #### (b) Format
 
@@ -16,7 +16,7 @@ The report shall include, but not be limited to, program identification informat
 
 #### Amendments
 
-<b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted “Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate” for “Committees on Interior and Insular Affairs of the House and Senate”.
+<b>1994</b>—Subsec. (b). Pub. L. 103–437 substituted "Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate" for "Committees on Interior and Insular Affairs of the House and Senate".
 
 #### Termination of Reporting Requirements
 

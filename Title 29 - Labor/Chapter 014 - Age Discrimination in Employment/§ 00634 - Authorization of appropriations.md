@@ -6,7 +6,7 @@ There are hereby authorized to be appropriated such sums as may be necessary to 
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–256 struck out “, not in excess of $5,000,000 for any fiscal year,” after “sums”.
+<b>1978</b>—Pub. L. 95–256 struck out ", not in excess of $5,000,000 for any fiscal year," after "sums".
 
 <b>1974</b>—Pub. L. 93–259, §28(a)(5), increased appropriations authorization to $5,000,000 from $3,000,000.
 

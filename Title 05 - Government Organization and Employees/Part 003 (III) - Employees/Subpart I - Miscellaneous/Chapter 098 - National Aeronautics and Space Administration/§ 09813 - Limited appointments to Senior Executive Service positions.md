@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) paragraph (1)(B) for a period not to exceed 1 year.
 
-(d) A limited term appointee who has been appointed in the Administration from a career or career-conditional appointment outside the Senior Executive Service shall have reemployment rights in the agency from which appointed, or in another agency, under requirements and conditions established by the Office of Personnel Management. The Office shall have the authority to direct such placement in any agency.
+(d) A limited term appointee who has been appointed in the Administration from a career or career-conditional appointment outside the Senior Executive Service shall have reemployment rights in the agency from which appointed, or inanother agency, under requirements and conditions established by the Office of Personnel Management. The Office shall have the authority to direct such placement in any agency.
 
 (e) Notwithstanding section 3394(b) and section 3395—
 

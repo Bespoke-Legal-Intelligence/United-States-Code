@@ -616,7 +616,7 @@
 
 #### (3) Definition
 
-&emsp;As used in this subsection, the term “administrative expenses of the receiver” includes—
+&emsp;As used in this subsection, the term "administrative expenses of the receiver" includes—
 
 &emsp;&emsp;(A) the actual, necessary costs and expenses incurred by the receiver in preserving the assets of a failed regulated entity or liquidating or otherwise resolving the affairs of a failed regulated entity; and
 
@@ -654,7 +654,7 @@
 
 #### (B) No liability for other damages
 
-&emsp;&emsp;For purposes of subparagraph (A), the term “actual direct compensatory damages” shall not include—
+&emsp;&emsp;For purposes of subparagraph (A), the term "actual direct compensatory damages" shall not include—
 
 &emsp;&emsp;&emsp;(i) punitive or exemplary damages;
 
@@ -804,11 +804,11 @@
 
 #### (i) Qualified financial contract
 
-&emsp;&emsp;&emsp;The term “qualified financial contract” means any securities contract, commodity contract, forward contract, repurchase agreement, swap agreement, and any similar agreement that the Agency determines by regulation, resolution, or order to be a qualified financial contract for purposes of this paragraph.
+&emsp;&emsp;&emsp;The term "qualified financial contract" means any securities contract, commodity contract, forward contract, repurchase agreement, swap agreement, and any similar agreement that the Agency determines by regulation, resolution, or order to be a qualified financial contract for purposes of this paragraph.
 
 #### (ii) Securities contract
 
-&emsp;&emsp;&emsp;The term “securities contract”—
+&emsp;&emsp;&emsp;The term "securities contract"—
 
 &emsp;&emsp;&emsp;&emsp;(I) means a contract for the purchase, sale, or loan of a security, a certificate of deposit, a mortgage loan, or any interest in a mortgage loan, a group or index of securities, certificates of deposit, or mortgage loans or interests therein (including any interest therein or based on the value thereof) or any option on any of the foregoing, including any option to purchase or sell any such security, certificate of deposit, mortgage loan, interest, group or index, or option, and including any repurchase or reverse repurchase transaction on any such security, certificate of deposit, mortgage loan, interest, group or index, or option;
 
@@ -832,7 +832,7 @@
 
 #### (iii) Commodity contract
 
-&emsp;&emsp;&emsp;The term “commodity contract” means—
+&emsp;&emsp;&emsp;The term "commodity contract" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) with respect to a futures commission merchant, a contract for the purchase or sale of a commodity for future delivery on, or subject to the rules of, a contract market or board of trade;
 
@@ -856,7 +856,7 @@
 
 #### (iv) Forward contract
 
-&emsp;&emsp;&emsp;The term “forward contract” means—
+&emsp;&emsp;&emsp;The term "forward contract" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) a contract (other than a commodity contract) for the purchase, sale, or transfer of a commodity or any similar good, article, service, right, or interest which is presently or in the future becomes the subject of dealing in the forward contract trade, or product or byproduct thereof, with a maturity date more than 2 days after the date on which the contract is entered into, including a repurchase transaction, reverse repurchase transaction, consignment, lease, swap, hedge transaction, deposit, loan, option, allocated transaction, unallocated transaction, or any other similar agreement;
 
@@ -870,9 +870,9 @@
 
 #### (v) Repurchase agreement
 
-&emsp;&emsp;&emsp;The term “repurchase agreement” (including a reverse repurchase agreement)—
+&emsp;&emsp;&emsp;The term "repurchase agreement" (including a reverse repurchase agreement)—
 
-&emsp;&emsp;&emsp;&emsp;(I) means an agreement, including related terms, which provides for the transfer of one or more certificates of deposit, mortgage-related securities (as such term is defined in section 78c of title 15), mortgage loans, interests in mortgage-related securities or mortgage loans, eligible bankers’ acceptances, qualified foreign government securities (defined for purposes of this clause as a security that is a direct obligation of, or that is fully guaranteed by, the central government of a member of the Organization for Economic Cooperation and Development, as determined by regulation or order adopted by the appropriate Federal banking authority), or securities that are direct obligations of, or that are fully guaranteed by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers’ acceptances, securities, mortgage loans, or interests with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers’ acceptances, securities, mortgage loans, or interests as described above, at a date certain not later than 1 year after such transfers or on demand, against the transfer of funds, or any other similar agreement;
+&emsp;&emsp;&emsp;&emsp;(I) means an agreement, including related terms, which provides for the transfer of one or more certificates of deposit, mortgage-related securities (as such term is defined in section 78c of title 15), mortgage loans, interests in mortgage-related securities or mortgage loans, eligible bankers' acceptances, qualified foreign government securities (defined for purposes of this clause as a security that is a direct obligation of, or that is fully guaranteed by, the central government of a member of the Organization for Economic Cooperation and Development, as determined by regulation or order adopted by the appropriate Federal banking authority), or securities that are direct obligations of, or that are fully guaranteed by, the United States or any agency of the United States against the transfer of funds by the transferee of such certificates of deposit, eligible bankers' acceptances, securities, mortgage loans, or interests with a simultaneous agreement by such transferee to transfer to the transferor thereof certificates of deposit, eligible bankers' acceptances, securities, mortgage loans, or interests as described above, at a date certain not later than 1 year after such transfers or on demand, against the transfer of funds, or any other similar agreement;
 
 &emsp;&emsp;&emsp;&emsp;(II) does not include any repurchase obligation under a participation in a commercial mortgage loan, unless the Agency determines by regulation, resolution, or order to include any such participation within the meaning of such term;
 
@@ -886,7 +886,7 @@
 
 #### (vi) Swap agreement
 
-&emsp;&emsp;&emsp;The term “swap agreement” means—
+&emsp;&emsp;&emsp;The term "swap agreement" means—
 
 &emsp;&emsp;&emsp;&emsp;(I) any agreement, including the terms and conditions incorporated by reference in any such agreement, which is an interest rate swap, option, future, or forward agreement, including a rate floor, rate cap, rate collar, cross-currency rate swap, and basis swap; a spot, same day-tomorrow, tomorrow-next, forward, or other foreign exchange or precious metals agreement; a currency swap, option, future, or forward agreement; an equity index or equity swap, option, future, or forward agreement; a debt index or debt swap, option, future, or forward agreement; a total return, credit spread or credit swap, option, future, or forward agreement; a commodity index or commodity swap, option, future, or forward agreement; or a weather swap, weather derivative, or weather option;
 
@@ -906,7 +906,7 @@
 
 #### (viii) Transfer
 
-&emsp;&emsp;&emsp;The term “transfer” means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with property or with an interest in property, including retention of title as a security interest and foreclosure of the equity of redemption of the regulated entity.
+&emsp;&emsp;&emsp;The term "transfer" means every mode, direct or indirect, absolute or conditional, voluntary or involuntary, of disposing of or parting with property or with an interest in property, including retention of title as a security interest and foreclosure of the equity of redemption of the regulated entity.
 
 #### (E) Certain protections in event of appointment of conservator
 
@@ -930,7 +930,7 @@
 
 #### (ii) Walkaway clause defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “walkaway clause” means a provision in a qualified financial contract that, after calculation of a value of a party's position or an amount due to or from 1 of the parties in accordance with its terms upon termination, liquidation, or acceleration of the qualified financial contract, either does not create a payment obligation of a party or extinguishes a payment obligation of a party in whole or in part solely because of the status of such party as a nondefaulting party.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term "walkaway clause" means a provision in a qualified financial contract that, after calculation of a value of a party's position or an amount due to or from 1 of the parties in accordance with its terms upon termination, liquidation, or acceleration of the qualified financial contract, either does not create a payment obligation of a party or extinguishes a payment obligation of a party in whole or in part solely because of the status of such party as a nondefaulting party.
 
 #### (9) Transfer of qualified financial contracts
 
@@ -978,7 +978,7 @@
 
 #### (C) Business day defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “business day” means any day other than any Saturday, Sunday, or any day on which either the New York Stock Exchange or the Federal Reserve Bank of New York is closed.
+&emsp;&emsp;For purposes of this paragraph, the term "business day" means any day other than any Saturday, Sunday, or any day on which either the New York Stock Exchange or the Federal Reserve Bank of New York is closed.
 
 #### (11) Disaffirmance or repudiation of qualified financial contracts
 
@@ -1324,11 +1324,11 @@ In no case may the receiver appointed pursuant to this section revoke, annul, or
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(4)(D) and (d)(8)(A), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
+This chapter, referred to in subsecs. (a)(4)(D) and (d)(8)(A), was in the original "this title", meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 
 Rule 65 of the Federal Rules of Civil Procedure, referred to in subsec. (b)(16), (17), is set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
-Sections 4402 through 4407 of this title, referred to in subsec. (b)(19)(A), was in the original “sections 402 through 407 of the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4402 through 4407)”, and was translated as reading “sections 402 through 407A of the Federal Deposit Insurance Corporation Improvement Act of 1991”, meaning sections 402 to 407A of Pub. L. 102–242, which are classified to sections 4402 to 4407 of this title, to reflect the probable intent of Congress and the renumbering of section 407 of the Act as section 407A by Pub. L. 109–8, title IX, §906(d)(1), Apr. 20, 2005, 119 Stat. 169.
+Sections 4402 through 4407 of this title, referred to in subsec. (b)(19)(A), was in the original "sections 402 through 407 of the Federal Deposit Insurance Corporation Improvement Act of 1991 (12 U.S.C. 4402 through 4407)", and was translated as reading "sections 402 through 407A of the Federal Deposit Insurance Corporation Improvement Act of 1991", meaning sections 402 to 407A of Pub. L. 102–242, which are classified to sections 4402 to 4407 of this title, to reflect the probable intent of Congress and the renumbering of section 407 of the Act as section 407A by Pub. L. 109–8, title IX, §906(d)(1), Apr. 20, 2005, 119 Stat. 169.
 
 The Gramm-Leach-Bliley Act, referred to in subsec. (d)(14), is Pub. L. 106–102, Nov. 12, 1999, 113 Stat. 1338. For complete classification of this Act to the Code, see Short Title of 1999 Amendment note set out under section 1811 of this title and Tables.
 

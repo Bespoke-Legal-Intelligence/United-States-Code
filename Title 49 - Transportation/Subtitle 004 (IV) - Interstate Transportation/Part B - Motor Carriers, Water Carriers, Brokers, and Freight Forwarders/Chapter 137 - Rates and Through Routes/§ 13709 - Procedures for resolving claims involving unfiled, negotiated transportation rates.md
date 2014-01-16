@@ -48,7 +48,7 @@ Claims Involving Public Warehousemen.—Notwithstanding subsections (b) and (c),
 
 (e)
 
-Effects of Election.—When a person from whom additional legally applicable freight rates or charges are sought does not elect to use the provisions of subsection (b), (c) or (d), the person may pursue all rights and remedies existingunder this part or, for transportation provided before January 1, 1996, all rights and remedies that existed under this title on December 31, 1995.
+Effects of Election.—When a person from whom additional legally applicable freight rates or charges are sought does not elect to use the provisions of subsection (b), (c) or (d), the person may pursue all rights and remedies existing under this part or, for transportation provided before January 1, 1996, all rights and remedies that existed under this title on December 31, 1995.
 
 (f)
 
@@ -64,7 +64,7 @@ General rule.—A person must notify the carrier or freight forwarder as to its 
 
 &emsp;(2)
 
-Demands for payment initially made after december 3, 1993.—If the carrier or freight forwarder or party representing such carrier or freight forwarder initially demands the payment of additional freight charges after December 3, 1993, and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f) at the time of the making of such initial demand, the election must be made not later than the later of—
+Demands for payment initially made after december 3, 1993.—If the carrier orfreight forwarder or party representing such carrier or freight forwarder initially demands the payment of additional freight charges after December 3, 1993, and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f) at the time of the making of such initial demand, the election must be made not later than the later of—
 
 &emsp;&emsp;(A) the 60th day following the filing of an answer to a suit for the collection of such additional legally applicable freight rate or charges, or
 
@@ -98,7 +98,7 @@ In general.—Notwithstanding subsections (b), (c), and (d), a person from whom 
 
 &emsp;(2)
 
-Recyclable materials defined.—In this subsection, the term “recyclable materials” means waste products for recycling or reuse in the furtherance of recognized pollution control programs.
+Recyclable materials defined.—In this subsection, the term "recyclable materials" means waste products for recycling or reuse in the furtherance of recognized pollution control programs.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 874; amended Pub. L. 104–287, §5(29), Oct. 11, 1996, 110 Stat. 3391.)
 
@@ -128,9 +128,9 @@ Provisions similar to those in this section were contained in section 10701 of t
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(1), (3). Pub. L. 104–287, §5(29)(A), substituted “December 31, 1995” for “the day before the effective date of this section”.
+<b>1996</b>—Subsec. (a)(1), (3). Pub. L. 104–287, §5(29)(A), substituted "December 31, 1995" for "the day before the effective date of this section".
 
-Subsec. (e). Pub. L. 104–287, §5(29)(B), substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before such effective date”.
+Subsec. (e). Pub. L. 104–287, §5(29)(B), substituted "January 1, 1996" for "the effective date of this section" and "December 31, 1995" for "the day before such effective date".
 
 #### Abolition of Interstate Commerce Commission
 

@@ -6,11 +6,11 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Eligible entity.—The term “eligible entity” means a State or local government, tribal government, transit agency, public toll authority, metropolitan planning organization, other political subdivision of a State or local government, or a multistate or multijurisdictional group applying through a single lead applicant.
+Eligible entity.—The term "eligible entity" means a State or local government, tribal government, transit agency, public toll authority, metropolitan planning organization, other political subdivision of a State or local government, or a multistate or multijurisdictional group applying through a single lead applicant.
 
 &emsp;(2)
 
-Multijurisdictional group.—The term “multijurisdictional group” means a combination of State governments, local governments, metropolitan planning agencies, transit agencies, or other political subdivisions of a State that—
+Multijurisdictional group.—The term "multijurisdictional group" means a combination of State governments, local governments, metropolitan planning agencies, transit agencies, or other political subdivisions of a State that—
 
 &emsp;&emsp;(A) have signed a written agreement to implement an activity that meets the grant criteria under this section; and
 
@@ -46,13 +46,13 @@ Comprehensive plan.—To carry out this section, the Secretary shall develop a d
 
 <b>2012</b>—Pub. L. 112–141 amended section generally. Prior to amendment, section read as follows:
 
-“(a)
+"(a)
 
 In General.—For each fiscal year, not more than $250,000 of the funds made available to carry out this subtitle C of title V of the SAFETEA–LU shall be used for intelligent transportation system outreach, public relations, displays, tours, and brochures.
 
-“(b)
+"(b)
 
-Applicability.—Subsection (a) shall not apply to intelligent transportation system training, scholarships, or the publication or distribution of research findings, technical guidance, or similar documents.”
+Applicability.—Subsection (a) shall not apply to intelligent transportation system training, scholarships, or the publication or distribution of research findings, technical guidance, or similar documents."
 
 #### Effective Date of 2012 Amendment
 

@@ -36,7 +36,7 @@ Except as provided in subsection (b) of this section, a State may not—
 
 &emsp;Notwithstanding paragraph (2), if the Secretary determines that the State has substantially revised its program of State aid, the Secretary may certify such program for any fiscal year only if—
 
-&emsp;&emsp;(A) the Secretary determines, on the basis of projected data, that the State's programwill meet the disparity standard described in paragraph (2) for the fiscal year for which the determination is made; and
+&emsp;&emsp;(A) the Secretary determines, on the basis of projected data, that the State's program will meet the disparity standard described in paragraph (2) for the fiscal year for which the determination is made; and
 
 &emsp;&emsp;(B) the State provides an assurance to the Secretary that, if final data do not demonstrate that the State's program met such standard for the fiscal year for which the determination is made, the State will pay to each affected local educational agency the amount by which the State reduced State aid to the local educational agency.
 
@@ -104,19 +104,19 @@ Except as provided in subsection (b) of this section, a State may not—
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b)(1). Pub. L. 107–110 inserted “and, with respect to a local educational agency that receives a payment under section 7703(b)(2) of this title, the amount in excess of the amount that the agency would receive if the agency were deemed to be an agency eligible to receive a payment under section 7703(b)(1) of this title and not section 7703(b)(2) of this title” after “section 7703(a)(2)(B) of this title”.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–110 inserted "and, with respect to a local educational agency that receives a payment under section 7703(b)(2) of this title, the amount in excess of the amount that the agency would receive if the agency were deemed to be an agency eligible to receive a payment under section 7703(b)(1) of this title and not section 7703(b)(2) of this title" after "section 7703(a)(2)(B) of this title".
 
-<b>2000</b>—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(1)\], struck out “or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994)” after “under this subchapter” in introductory provisions.
+<b>2000</b>—Subsec. (a)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(1)\], struck out "or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994)" after "under this subchapter" in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(2)\], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: “A State may reduce State aid to a local educational agency that receives a payment under section 7702 or 7703(b) of this title (except the amount calculated in excess of 1.0 under subparagraph (B) of section 7703(a)(2) of this title) or under the Act of September 30, 1950 (Public Law 874, 81st Congress) as such Act was in effect on the day preceding October 20, 1994 (other than an increase in payments described in paragraphs (2)(B), (2)(C), (2)(D), or (3)(B)(ii) of section 3(d) of such Act of September 30, 1950) for any fiscal year if the Secretary determines, and certifies under subsection (c)(3)(A) of this section, that such State has in effect a program of State aid that equalizes expenditures for free public education among local educational agencies in such State.”
+Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(2)\], amended heading and text of par. (1) generally. Prior to amendment, text read as follows: "A State may reduce State aid to a local educational agency that receives a payment under section 7702 or 7703(b) of this title (except the amount calculated in excess of 1.0 under subparagraph (B) of section 7703(a)(2) of this title) or under the Act of September 30, 1950 (Public Law 874, 81st Congress) as such Act was in effect on the day preceding October 20, 1994 (other than an increase in payments described in paragraphs (2)(B), (2)(C), (2)(D), or (3)(B)(ii) of section 3(d) of such Act of September 30, 1950) for any fiscal year if the Secretary determines, and certifies under subsection (c)(3)(A) of this section, that such State has in effect a program of State aid that equalizes expenditures for free public education among local educational agencies in such State."
 
-Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(3)\], struck out “or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994)” after “under this subchapter” wherever appearing.
+Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title XVIII, §1812(3)\], struck out "or under the Act of September 30, 1950 (Public Law 874, 81st Congress) (as such Act was in effect on the day preceding October 20, 1994)" after "under this subchapter" wherever appearing.
 
-<b>1996</b>—Subsec. (b)(2)(A). Pub. L. 104–195 substituted “more than 25 percent” for “more than—
+<b>1996</b>—Subsec. (b)(2)(A). Pub. L. 104–195 substituted "more than 25 percent" for "more than—
 
-&emsp;“(i) 25 percent for fiscal year 1995, 1996, or 1997; and
+&emsp;"(i) 25 percent for fiscal year 1995, 1996, or 1997; and
 
-&emsp;“(ii) 20 percent for fiscal year 1998 or 1999”.
+&emsp;"(ii) 20 percent for fiscal year 1998 or 1999".
 
 #### Effective Date of 2002 Amendment
 

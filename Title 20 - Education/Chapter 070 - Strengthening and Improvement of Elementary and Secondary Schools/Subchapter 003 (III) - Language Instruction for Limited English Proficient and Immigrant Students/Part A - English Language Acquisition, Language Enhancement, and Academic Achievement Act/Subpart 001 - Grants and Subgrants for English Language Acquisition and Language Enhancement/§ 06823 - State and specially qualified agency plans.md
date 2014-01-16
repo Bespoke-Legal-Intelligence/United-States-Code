@@ -10,7 +10,7 @@ Each plan submitted under subsection (a) of this section shall—
 
 &emsp;(1) describe the process that the agency will use in making subgrants to eligible entities under section 6824(d)(1) of this title;
 
-&emsp;(2) describe how the agency will establish standards and objectives for raising the level of English proficiency that are derived from the four recognized domains of speaking, listening, reading, and writing, and that are aligned with achievement of the challenging State academic content and student academic achievement standards described in section 6311(b)(1) of this title;
+&emsp;(2) describe how the agency will establish standards and objectives for raising the level of English proficiency that are derived from the four recognized domains of speaking, listening, reading, and writing, and that are aligned with achievement of the challenging State academic content and student academicachievement standards described in section 6311(b)(1) of this title;
 
 &emsp;(3) contain an assurance that—
 

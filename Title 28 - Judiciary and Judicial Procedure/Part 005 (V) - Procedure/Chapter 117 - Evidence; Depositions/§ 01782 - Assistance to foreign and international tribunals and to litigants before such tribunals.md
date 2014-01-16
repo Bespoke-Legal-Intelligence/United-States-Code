@@ -4,7 +4,7 @@
 
 A person may not be compelled to give his testimony or statement or to produce a document or other thing in violation of any legally applicable privilege.
 
-(b) This chapter does not preclude a person within the United States from voluntarily giving his testimony or statement, or producing a document or other thing, for use in a proceeding in a foreign or international tribunal before any person and in any manner acceptable to him.
+(b) This chapter does not preclude a person within the United States from voluntarily giving his testimony or statement, or producing a document or other thing, for use in a proceedingin a foreign or international tribunal before any person and in any manner acceptable to him.
 
 (June 25, 1948, ch. 646, 62 Stat. 949; May 24, 1949, ch. 139, §93, 63 Stat. 103; Pub. L. 88–619, §9(a), Oct. 3, 1964, 78 Stat. 997; Pub. L. 104–106, div. A, title XIII, §1342(b), Feb. 10, 1996, 110 Stat. 486.)
 
@@ -20,7 +20,7 @@ Provisions in sections 649–652 of title 28, U.S.C., 1940 ed., relating to the 
 
 Only the last sentence of section 653 of title 28, U.S.C., 1940 ed., is included in this revised section. The remaining provisions relating to depositions of witnesses in foreign countries form the basis of section 1781 of this title.
 
-Sections 701, 703, and 704 of title 28, U.S.C., 1940 ed., were limited to “suits for the recovery of money or property depending in any court in any foreign country with which the United States are at peace, and in which the government of such foreign country shall be a party or shall have an interest.”
+Sections 701, 703, and 704 of title 28, U.S.C., 1940 ed., were limited to "suits for the recovery of money or property depending in any court in any foreign country with which the United States are at peace, and in which the government of such foreign country shall be a party or shall have an interest."
 
 The revised section omits this limitation in view of the general application of the last sentence of section 653 of title 28, U.S.C., 1940 ed., consolidated herein. The improvement of communications and the expected growth of foreign commerce will inevitably increase litigation involving witnesses separated by wide distances.
 
@@ -28,13 +28,13 @@ Therefore the revised section is made simple and clear to provide a flexible pro
 
 The provisions of section 703 of title 28, U.S.C., 1940 ed., for punishment of disobedience to subpoena or refusal to answer is covered by Rule 37(b)(1) of Federal Rules or Civil Procedure.
 
-The provisions of section 704 of title 28, U.S.C., 1940 ed., with respect to fees and mileage of witnesses arecovered by Rule 45(c) of Federal Rules of Civil Procedure.
+The provisions of section 704 of title 28, U.S.C., 1940 ed., with respect to fees and mileage of witnesses are covered by Rule 45(c) of Federal Rules of Civil Procedure.
 
 Changes were made in phraseology.
 
 #### 1949 Act
 
-This amendment corrects restrictive language in section 1782 of title 28, U.S.C., in conformity with original law and permits depositions in any judicial proceeding without regard to whether the deponent is “residing” in the district or only sojourning there.
+This amendment corrects restrictive language in section 1782 of title 28, U.S.C., in conformity with original law and permits depositions in any judicial proceeding without regard to whether the deponent is "residing" in the district or only sojourning there.
 
 #### References in Text
 
@@ -42,9 +42,9 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–106 inserted “, including criminal investigations conducted before formal accusation” after “proceeding in a foreign or international tribunal” in first sentence.
+<b>1996</b>—Subsec. (a). Pub. L. 104–106 inserted ", including criminal investigations conducted before formal accusation" after "proceeding in a foreign or international tribunal" in first sentence.
 
-<b>1964</b>—Pub. L. 88–619 substituted provisions which empowered district courts to order residents to give testimony or to produce documents for use in a foreign or international tribunal, pursuant to a letter rogatory, or request, of a foreign or international tribunal or upon application of any interested person, and to direct that the evidence be presented before a person appointed by the court, provided that such person may administer oaths and take testimony, that the evidence be taken in accordance with the Federal Rules of Civil Procedure unless the order prescribes using the procedure of the foreign or international tribunal, that a person may not be compelled to give legally privileged evidence, and that this chapter doesn't preclude a person from voluntarily giving evidence for use in a foreign or international tribunal, for provisions permitting depositions of witnesses within the United States for use in any court in a foreign country with which the United States was at peace to be taken before a person authorized to administer oaths designated by the district court of the district where the witness resides or is found, and directing that the procedure used be that generally used in courts of the United States, in text, and “Assistance to foreign and international tribunals and to litigants before such tribunals” for “Testimony for use in foreign countries” in section catchline.
+<b>1964</b>—Pub. L. 88–619 substituted provisions which empowered district courts to order residents to give testimony or to produce documents for use in a foreign or international tribunal, pursuant to a letter rogatory, or request, of a foreign or international tribunal or upon application of any interested person, and to direct that the evidence be presented before a person appointed by the court, provided that such person may administer oaths and take testimony, that the evidence be taken in accordance with the Federal Rules of Civil Procedure unless the order prescribes using the procedure of the foreign or international tribunal, that a person may not be compelled to give legally privileged evidence, and that this chapter doesn't preclude a person from voluntarily giving evidence for use in a foreign or international tribunal, for provisions permitting depositions of witnesses within the United States for use in any court in a foreign country with which the United States was at peace to be taken before a person authorized to administer oaths designated by the district court of the district where the witness resides or is found, and directing that the procedure used be that generally used in courts of the United States, in text, and "Assistance to foreign and international tribunals and to litigants before such tribunals" for "Testimony for use in foreign countries" in section catchline.
 
-<b>1949</b>—Act May 24, 1949, struck out “residing” after “witness”, and substituted “judicial proceeding” for “civil action” after “to be used in any”.
+<b>1949</b>—Act May 24, 1949, struck out "residing" after "witness", and substituted "judicial proceeding" for "civil action" after "to be used in any".
 

@@ -2,13 +2,13 @@
 
 In this chapter—
 
-&emsp;(1) “block grant amounts” means amounts received for a program that—
+&emsp;(1) "block grant amounts" means amounts received for a program that—
 
 &emsp;&emsp;(A) directly allocates amounts to States only, except for amounts allocated for use by the agency administering the program; and
 
 &emsp;&emsp;(B) provides that the State may use any part of the amounts at its discretion to continue to support activities financed on August 12, 1981, under programs whose authorizations were discontinued by the Omnibus Budget Reconciliation Act of 1981 (Public Law 97–35, 95 Stat. 357) and that were financed on August 12, 1981, by allocations by the United States Government to local governments or other eligible entities, or both local governments and other eligible entities.
 
-&emsp;(2) “State” includes the District of Columbia and territories and possessions of the United States.
+&emsp;(2) "State" includes the District of Columbia and territories and possessions of the United States.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 1040.)
 
@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 Aug. 13, 1981, Pub. L. 97–35, §1741(b), 95 Stat. 763.
 
-In clause (1)(A), the word “Federal” is omitted as surplus because of section 101 of the revised title.
+In clause (1)(A), the word "Federal" is omitted as surplus because of section 101 of the revised title.
 
 #### References in Text
 

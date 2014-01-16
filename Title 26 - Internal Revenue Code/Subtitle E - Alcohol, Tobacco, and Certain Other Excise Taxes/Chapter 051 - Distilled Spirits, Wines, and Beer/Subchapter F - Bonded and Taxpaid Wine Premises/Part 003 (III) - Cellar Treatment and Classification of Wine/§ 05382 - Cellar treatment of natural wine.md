@@ -28,7 +28,7 @@
 
 #### (B) Affiliate defined
 
-&emsp;&emsp;For purposes of this paragraph, the term “affiliate” has the meaning given such term by section 117(a)(4) of the Federal Alcohol Administration Act (27 U.S.C. 211(a)(4)) and includes a winery's parent or subsidiary or any other entity in which the winery's parent or subsidiary has an ownership interest.
+&emsp;&emsp;For purposes of this paragraph, the term "affiliate" has the meaning given such term by section 117(a)(4) of the Federal Alcohol Administration Act (27 U.S.C. 211(a)(4)) and includes a winery's parent or subsidiary or any other entity in which the winery's parent or subsidiary has an ownership interest.
 
 #### (b) Specifically authorized treatments
 
@@ -78,15 +78,15 @@ A prior section 5382, act Aug. 16, 1954, ch. 736, 68A Stat. 668, consisted of pr
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a)(1)(A). Pub. L. 109–432 substituted “correct or stabilize” for “stabilize”.
+<b>2006</b>—Subsec. (a)(1)(A). Pub. L. 109–432 substituted "correct or stabilize" for "stabilize".
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–429 amended heading and text of subsec. (a) generally. Prior to amendment text read as follows: “Proper cellar treatment of natural wine constitutes those practices and procedures in the United States and elsewhere, whether historical or newly developed, of using various methods and materials to correct or stabilize the wine, or the fruit juice from which it is made, so as to produce a finished product acceptable in good commercial practice. Where a particular treatment has been used in customary commercial practice, it shall continue to be recognized as a proper cellar treatment in the absence of regulations prescribed by the Secretary finding such treatment not to be a proper cellar treatment within the meaning of this subsection.”
+<b>2004</b>—Subsec. (a). Pub. L. 108–429 amended heading and text of subsec. (a) generally. Prior to amendment text read as follows: "Proper cellar treatment of natural wine constitutes those practices and procedures in the United States and elsewhere, whether historical or newly developed, of using various methods and materials to correct or stabilize the wine, or the fruit juice from which it is made, so as to produce a finished product acceptable in good commercial practice. Where a particular treatment has been used in customary commercial practice, it shall continue to be recognized as a proper cellar treatment in the absence of regulations prescribed by the Secretary finding such treatment not to be a proper cellar treatment within the meaning of this subsection."
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1968</b>—Subsec. (b)(2)(B). Pub. L. 90–619 permitted wine spirits to be added to natural wine produced by fermentation in any bonded wine cellars located within the same State in which the addition is to take place.
 
-<b>1965</b>—Subsec. (b)(2). Pub. L. 89–44 struck out “made without added sugar or reserved as provided in sections 5383(b) and 5384(b)” after “winemaker's own production”.
+<b>1965</b>—Subsec. (b)(2). Pub. L. 89–44 struck out "made without added sugar or reserved as provided in sections 5383(b) and 5384(b)" after "winemaker's own production".
 
 <b>1964</b>—Subsec. (b)(9). Pub. L. 88–653, §1, added par. (9).
 
@@ -94,7 +94,7 @@ Subsec. (d). Pub. L. 88–653, §2, added subsec. (d).
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–429, title II, §2002(b), Dec. 3, 2004, 118 Stat. 2589, provided that: “The amendment made by this section \[amending this section\] shall take effect on January 1, 2005.”
+Pub. L. 108–429, title II, §2002(b), Dec. 3, 2004, 118 Stat. 2589, provided that: "The amendment made by this section \[amending this section\] shall take effect on January 1, 2005."
 
 #### Effective Date of 1968 Amendment
 
@@ -106,5 +106,5 @@ Amendment by Pub. L. 89–44 effective Jan. 1, 1966, see section 806(d)(2) of Pu
 
 #### Effective Date of 1964 Amendment
 
-Pub. L. 88–653, §4, Oct. 13, 1964, 78 Stat. 1085, provided that: “The amendments made by the first section \[amending this section\] and sections 2 and 3 of this Act \[amending this section and section 5511 of this title\] shall take effect on the first day of the second month which begins more than 10 days after the date on which this Act is enacted \[Oct. 13, 1964\].”
+Pub. L. 88–653, §4, Oct. 13, 1964, 78 Stat. 1085, provided that: "The amendments made by the first section \[amending this section\] and sections 2 and 3 of this Act \[amending this section and section 5511 of this title\] shall take effect on the first day of the second monthwhich begins more than 10 days after the date on which this Act is enacted \[Oct. 13, 1964\]."
 

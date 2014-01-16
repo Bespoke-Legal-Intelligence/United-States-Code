@@ -36,7 +36,7 @@ In carrying out this section, the Secretary may ensure that any data on patients
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(July 1, 1944, ch. 373, title III, §317Q, as added Pub. L. 107–84, §4, Dec. 18, 2001, 115 Stat. 828;amended Pub. L. 110–361, §3, Oct. 8, 2008, 122 Stat. 4010.)
+(July 1, 1944, ch. 373, title III, §317Q, as added Pub. L. 107–84, §4, Dec. 18, 2001, 115 Stat. 828; amended Pub. L. 110–361, §3, Oct. 8, 2008, 122 Stat. 4010.)
 
 #### Amendments
 
@@ -44,39 +44,39 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### Findings
 
-Pub. L. 107–84, §2, Dec. 18, 2001, 115 Stat. 823, provided that: “Congress makes the following findings:
+Pub. L. 107–84, §2, Dec. 18, 2001, 115 Stat. 823, provided that: "Congress makes the following findings:
 
-&emsp;“(1) Of the childhood muscular dystrophies, Duchenne Muscular Dystrophy (DMD) is the world's most common and catastrophic form of genetic childhood disease, and is characterized by a rapidly progressive muscle weakness that almost always results in death, usually by 20 years of age.
+&emsp;"(1) Of the childhood muscular dystrophies, Duchenne Muscular Dystrophy (DMD) is the world's most common and catastrophic form of genetic childhood disease, and is characterized by a rapidly progressive muscle weakness that almost always results in death, usually by 20 years of age.
 
-&emsp;“(2) Duchenne muscular dystrophy is genetically inherited, and mothers are the carriers in approximately 70 percent of all cases.
+&emsp;"(2) Duchenne muscular dystrophy is genetically inherited, and mothers are the carriers in approximately 70 percent of all cases.
 
-&emsp;“(3) If a female is a carrier of the dystrophin gene, there is a 50 percent chance per birth that her male offspring will have Duchenne muscular dystrophy, and a 50 percent chance per birth that her female offspring will be carriers.
+&emsp;"(3) If a female is a carrier of the dystrophin gene, there is a 50 percent chance per birth that her male offspring will have Duchenne muscular dystrophy, and a 50 percent chance per birth that her female offspring will be carriers.
 
-&emsp;“(4) Duchenne is the most common lethal genetic disorder of childhood worldwide, affecting approximately 1 in every 3,500 boys worldwide.
+&emsp;"(4) Duchenne is the most common lethal genetic disorder of childhood worldwide, affecting approximately 1 in every 3,500 boys worldwide.
 
-&emsp;“(5) Children with muscular dystrophy exhibit extreme symptoms of weakness, delay in walking, waddling gait, difficulty in climbing stairs, and progressive mobility problems often in combination with muscle hypertrophy.
+&emsp;"(5) Children with muscular dystrophy exhibit extreme symptoms of weakness, delay in walking, waddling gait, difficulty in climbing stairs, and progressive mobility problems often in combination with muscle hypertrophy.
 
-&emsp;“(6) Other forms of muscular dystrophy affecting children and adults include Becker, limb girdle, congenital, facioscapulohumeral, myotonic, oculopharyngeal, distal, and Emery-Dreifuss muscular dystrophies.
+&emsp;"(6) Other forms of muscular dystrophy affecting children and adults include Becker, limb girdle, congenital, facioscapulohumeral, myotonic, oculopharyngeal, distal, and Emery-Dreifuss muscular dystrophies.
 
-&emsp;“(7) Myotonic muscular dystrophy (also known as Steinert's disease and dystrophia myotonica) is the second most prominent form of muscular dystrophy and the type most commonly found in adults. Unlike any of the other muscular dystrophies, the muscle weakness is accompanied by myotonia (delayed relaxation of muscles after contraction) and by a variety of abnormalities in addition to those of muscle.
+&emsp;"(7) Myotonic muscular dystrophy (also known as Steinert's disease and dystrophia myotonica) is the second most prominent form of muscular dystrophy and the type most commonly found in adults. Unlike any of the other muscular dystrophies, the muscle weakness is accompanied by myotonia (delayed relaxation of muscles after contraction) and by a variety of abnormalities in addition to those of muscle.
 
-&emsp;“(8) Facioscapulohumeral muscular dystrophy (referred to in this section as ‘FSHD’) is a neuromuscular disorder that is inherited genetically and has an estimated frequency of 1 in 20,000. FSHD, affecting between 15,000 to 40,000 persons, causes a progressive and sever \[sic\] loss of skeletal muscle gradually bringing weakness and reduced mobility. Many persons with FSHD become severely physically disabled and spend many decades in a wheelchair.
+&emsp;"(8) Facioscapulohumeral muscular dystrophy (referred to in this section as 'FSHD') is a neuromuscular disorder that is inherited genetically and has an estimated frequency of 1 in 20,000. FSHD, affecting between 15,000 to 40,000 persons, causes a progressive and sever \[sic\] loss of skeletal muscle gradually bringing weakness and reduced mobility. Many persons with FSHD become severely physically disabled and spend many decades in a wheelchair.
 
-&emsp;“(9) FSHD is regarded as a novel genetic phenomenon resulting from a crossover of subtelomeric DNA and may be the only human disease caused by a deletion-mutation.
+&emsp;"(9) FSHD is regarded as a novel genetic phenomenon resulting from a crossover of subtelomeric DNA and may be the only human disease caused by a deletion-mutation.
 
-&emsp;“(10) Each of the muscular dystrophies, though distinct in progressivity and severity of symptoms, have a devastating impact on tens of thousands of children and adults throughout the United States and worldwide and impose severe physical and economic burdens on those affected.
+&emsp;"(10) Each of the muscular dystrophies, though distinct in progressivity and severity of symptoms, have a devastating impact on tens of thousands of children and adults throughout the United States and worldwide and impose severe physical and economic burdens on those affected.
 
-&emsp;“(11) Muscular dystrophies have a significant impact on quality of life—not only for the individual who experiences its painful symptoms and resulting disability, but also for family members and caregivers.
+&emsp;"(11) Muscular dystrophies have a significant impact on quality of life—not only for the individual who experiences its painful symptoms and resulting disability, but also for family members and caregivers.
 
-&emsp;“(12) Development of therapies for these disorders, while realistic with recent advances in research, is likely to require costly investments and infrastructure to support gene and other therapies.
+&emsp;"(12) Development of therapies for these disorders, while realistic with recent advances in research, is likely to require costly investments and infrastructure to support gene and other therapies.
 
-&emsp;“(13) There is a shortage of qualified researchers in the field of neuromuscular research.
+&emsp;"(13) There is a shortage of qualified researchers in the field of neuromuscular research.
 
-&emsp;“(14) Many family physicians and health care professionals lack the knowledge and resources to detect and properly diagnose the disease as early as possible, thus exacerbating the progressiveness of symptoms in cases that go undetected or misdiagnosed.
+&emsp;"(14) Many family physicians and health care professionals lack the knowledge and resources to detect and properly diagnose the disease as early as possible, thus exacerbating the progressiveness of symptoms in cases that go undetected or misdiagnosed.
 
-&emsp;“(15) There is a need for efficient mechanisms to translate clinically relevant findings in muscular dystrophy research from basic science to applied work.
+&emsp;"(15) There is a need for efficient mechanisms to translate clinically relevant findings in muscular dystrophy research from basic science to applied work.
 
-&emsp;“(16) Educating the public and health care community throughout the country about this devastating disease is of paramount importance and is in every respect in the public interest and to the benefit of all communities.”
+&emsp;"(16) Educating the public and health care community throughout the country about this devastating disease is of paramount importance and is in every respect in the public interest and to the benefit of all communities."
 
 #### Report to Congress
 

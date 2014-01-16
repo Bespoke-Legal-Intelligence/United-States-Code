@@ -14,7 +14,7 @@ The rights, protections, and remedies provided pursuant to section 2000e–16b o
 
 #### (1) In general
 
-&emsp;Any individual referred to in subsection (a) of this section may file a complaint alleging a violation, not later than 180 days after the occurrence of the alleged violation, with the Equal Employment Opportunity Commission, which, in accordance with the principles and procedures set forth in sections 554 through 557 of title 5, shall determine whether a violation has occurred and shall set forth its determination in a final order. If the Equal Employment Opportunity Commission determines that a violation has occurred, the final order shall also provide for appropriate relief.
+&emsp;Any individual referred to in subsection (a) of this section may file a complaint alleging a violation, not later than 180 days after the occurrence of the alleged violation, with the Equal Employment Opportunity Commission, which, in accordance with the principles and procedures set forth in sections 554 through 557 of title 5, shall determine whether a violation has occurred and shall set forth its determination in a final order. If the Equal Employment Opportunity Commission determines that aviolation has occurred, the final order shall also provide for appropriate relief.
 
 #### (2) Referral to State and local authorities
 
@@ -24,11 +24,11 @@ The rights, protections, and remedies provided pursuant to section 2000e–16b o
 
 #### (B) Definition
 
-&emsp;&emsp;For purposes of the application described in subparagraph (A), the term “any charge filed by a member of the Commission alleging an unlawful employment practice” means a complaint filed under this section.
+&emsp;&emsp;For purposes of the application described in subparagraph (A), the term "any charge filed by a member of the Commission alleging an unlawful employment practice" means a complaint filed under this section.
 
 #### (c) Judicial review
 
-Any party aggrieved by a final order under subsection (b) of this section may obtain a review of such order under chapter 158 of title 28. For the purpose of this review, the Equal Employment Opportunity Commission shall be an “agency” as that term is used in chapter 158 of title 28.
+Any party aggrieved by a final order under subsection (b) of this section may obtain a review of such order under chapter 158 of title 28. For the purpose of this review, the Equal Employment Opportunity Commission shall be an "agency" as that term is used in chapter 158 of title 28.
 
 #### (d) Standard of review
 
@@ -58,7 +58,7 @@ A prior section 304 of Pub. L. 102–166 was classified to section 1204 of Title
 
 #### Amendments
 
-<b>1995</b>—Subsec. (a). Pub. L. 104–1, §504(a)(4), struck out “and 1207(h) of title 2” before “shall apply” in introductory provisions.
+<b>1995</b>—Subsec. (a). Pub. L. 104–1, §504(a)(4), struck out "and 1207(h) of title 2" before "shall apply" in introductory provisions.
 
 #### Effective Date
 

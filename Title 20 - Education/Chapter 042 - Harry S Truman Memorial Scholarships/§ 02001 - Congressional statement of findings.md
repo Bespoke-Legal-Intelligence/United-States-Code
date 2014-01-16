@@ -12,5 +12,5 @@ The Congress finds that—
 
 #### Short Title
 
-Pub. L. 93–642, §1, Jan. 4, 1975, 88 Stat. 2276, provided: “That this Act \[enacting this chapter\] may be cited as the ‘Harry S Truman Memorial Scholarship Act’.”
+Pub. L. 93–642, §1, Jan. 4, 1975, 88 Stat. 2276, provided: "That this Act \[enacting this chapter\] may be cited as the 'Harry S Truman Memorial Scholarship Act'."
 

@@ -14,7 +14,7 @@
 
 #### (A) Security-based swaps entered into before July 21, 2010
 
-&emsp;&emsp;Each security-based swap entered into before July 21, 2010, the terms of which have not expired as of July 21, 2010, shall be reported to a registered security-based swapdata repository or the Commission by a date that is not later than—
+&emsp;&emsp;Each security-based swap entered into before July 21, 2010, the terms of which have not expired as of July 21, 2010, shall be reported to a registered security-based swap data repository or the Commission by a date that is not later than—
 
 &emsp;&emsp;&emsp;(i) 30 days after issuance of the interim final rule; or
 
@@ -76,7 +76,7 @@ In prescribing rules under this section, the Commission shall require individual
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(2) and (d), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (b)(2) and (d), was in the original "this title". See References in Text note set out under section 78a of this title.
 
 #### Effective Date
 

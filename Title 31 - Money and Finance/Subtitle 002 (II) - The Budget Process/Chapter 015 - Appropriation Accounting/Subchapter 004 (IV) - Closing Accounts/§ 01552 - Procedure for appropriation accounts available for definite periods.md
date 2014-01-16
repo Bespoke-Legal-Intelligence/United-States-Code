@@ -46,17 +46,17 @@ July 25, 1956, ch. 727, §§1(c)(last sentence), (d), 5, 70 Stat. 648, 649.
 
 31:705.
 
-In subsection (a), the text of 31:701(b)(1)(A) and (2)(A) and the words “for the period commencing on July 1, 1976, and ending on September 30, 1976, and for any fiscal year commencing on or after October 1, 1976” are omitted as executed.
+In subsection (a), the text of 31:701(b)(1)(A) and (2)(A) and the words "for the period commencing on July 1, 1976, and ending on September 30, 1976, and for any fiscal year commencing on or after October 1, 1976" are omitted as executed.
 
-In subsection (a)(1), the words “period of availability ends” are substituted for “that period or the fiscal year or years, as the case may be, for which the appropriation is available for obligation” to eliminate unnecessary words.
+In subsection (a)(1), the words "period of availability ends" are substituted for "that period or the fiscal year or years, as the case may be, for which the appropriation is available for obligation" to eliminate unnecessary words.
 
-In subsection (a)(2), the words “reverts to the Treasury” are substituted for “if the appropriation was derived in whole or in part from the general fund, shall revert to such fund” to eliminate unnecessary words.
+In subsection (a)(2), the words "reverts to the Treasury" are substituted for "if the appropriation was derived in whole or in part from the general fund, shall revert to such fund" to eliminate unnecessary words.
 
-In subsection (b), the words “not received before” are substituted for “not received until after” for clarity. The words “unless otherwise authorized by law” are omitted as surplus. The words “Comptroller General” are substituted for “General Accounting Office” for consistency.
+In subsection (b), the words "not received before" are substituted for "not received until after" for clarity. The words "unless otherwise authorized by law" are omitted as surplus. The words "Comptroller General" are substituted for "General Accounting Office" for consistency.
 
 In subsection (c), the text of 31:701(d)(last sentence) is omitted as executed.
 
-In subsection (d), before clause (1), the word “heading” is substituted for “heads” for clarity and consistency.
+In subsection (d), before clause (1), the word "heading" is substituted for "heads" for clarity and consistency.
 
 #### Amendments
 
@@ -70,27 +70,27 @@ Amendment by Pub. L. 101–510 applicable to any appropriation account the oblig
 
 Pub. L. 101–510, div. A, title XIV, §1406, Nov. 5, 1990, 104 Stat. 1680, provided that:
 
-“(a)
+"(a)
 
 Audit Requirement.—The Secretary of Defense shall provide for an audit of each account of the Department of Defense established under paragraph (1) of section 1552(a) of title 31, United States Code, as in effect on the day before the date of the enactment of this Act \[Nov. 5, 1990\]. The audit shall, with respect to each such account, identify—
 
-&emsp;“(1) the balance in the account;
+&emsp;"(1) the balance in the account;
 
-&emsp;“(2) the amount of such balance that is considered by the Secretary (as of the time of the audit) to represent amounts required for valid obligations (as supported by documentary evidence as required by section 1501 of title 31) and the amount of such balance that is considered by the Secretary (as of the time of the audit) to represent amounts for obligations that are considered no longer valid;
+&emsp;"(2) the amount of such balance that is considered by the Secretary (as of the time of the audit) to represent amounts required for valid obligations (as supported by documentary evidence as required by section 1501 of title 31) and the amount of such balance that is considered by the Secretary (as of the time of the audit) to represent amounts for obligations that are considered no longer valid;
 
-&emsp;“(3) the sources of amounts in the account, shown by fiscal year and by amount for each fiscal year; and
+&emsp;"(3) the sources of amounts in the account, shown by fiscal year and by amount for each fiscal year; and
 
-&emsp;“(4) such other matters as the Secretary considers appropriate.
+&emsp;"(4) such other matters as the Secretary considers appropriate.
 
-“(b)
+"(b)
 
 Deobligation of Obligations No Longer Valid.—Any obligated amounts in accounts of the Department of Defense established under paragraph (1) of section 1552(a) of title 31, United States Code, that are determined pursuant to the audit under subsection (a) to represent amounts for obligations that are no longer valid shall be deobligated and canceled.
 
-“(c)
+"(c)
 
 Report on Audit.—Not later than December 31, 1991, the Secretary of Defense shall submit to Congress a report containing the results of the audit conducted pursuant to subsection (a). The report shall set forth—
 
-&emsp;“(1) the information required to be identified pursuant to subsection (a); and
+&emsp;"(1) the information required to be identified pursuant to subsection (a); and
 
-&emsp;“(2) for each appropriation account (A) the average length of time funds have been obligated, (B) the average size of the obligation, and (iii)\[(C)\] the object classification of the obligations, all shown for total obligations and separately for valid obligations and obligations that are no longer valid.”
+&emsp;"(2) for each appropriation account (A) the average length of time funds have been obligated, (B) the average size of the obligation, and (iii)\[(C)\] the object classification of the obligations, all shown for total obligations and separately for valid obligations and obligations that are no longer valid."
 

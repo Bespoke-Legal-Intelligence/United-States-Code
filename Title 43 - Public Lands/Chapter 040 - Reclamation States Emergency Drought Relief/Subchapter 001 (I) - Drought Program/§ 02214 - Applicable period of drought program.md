@@ -16,11 +16,11 @@ The authorities established under this subchapter shall terminate on September 3
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c). Pub. L. 111–212 substituted “September 30, 2012” for “September 30, 2010”.
+<b>2010</b>—Subsec. (c). Pub. L. 111–212 substituted "September 30, 2012" for "September 30, 2010".
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–234 substituted “September 30, 2010” for “September 30, 2005”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–234 substituted "September 30, 2010" for "September 30, 2005".
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–566, §201(a)(1), inserted “and in the State of Hawaii” after “Reclamation State”.
+<b>2000</b>—Subsec. (a). Pub. L. 106–566, §201(a)(1), inserted "and in the State of Hawaii" after "Reclamation State".
 
-Subsec. (c). Pub. L. 106–566, §201(a)(2), substituted “on September 30, 2005” for “ten years after March 5, 1992”.
+Subsec. (c). Pub. L. 106–566, §201(a)(2), substituted "on September 30, 2005" for "ten years after March 5, 1992".
 

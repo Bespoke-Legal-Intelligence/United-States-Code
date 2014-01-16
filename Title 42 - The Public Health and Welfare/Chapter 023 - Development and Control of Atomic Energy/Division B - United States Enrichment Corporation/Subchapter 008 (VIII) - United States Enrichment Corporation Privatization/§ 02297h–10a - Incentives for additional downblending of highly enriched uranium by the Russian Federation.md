@@ -6,19 +6,19 @@ In this section:
 
 #### (1) Completion of the Russian HEU Agreement
 
-&emsp;The term “completion of the Russian HEU Agreement” means the importation into the United States from the Russian Federation pursuant to the Russian HEU Agreement of uranium derived from the downblending of not less than 500 metric tons of highly enriched uranium of weapons origin.
+&emsp;The term "completion of the Russian HEU Agreement" means the importation into the United States from the Russian Federation pursuant to the Russian HEU Agreement of uranium derived from the downblending of not less than 500 metric tons of highly enriched uranium of weapons origin.
 
 #### (2) Downblending
 
-&emsp;The term “downblending” means processing highly enriched uranium into a uranium product in any form in which the uranium contains less than 20 percent uranium-235.
+&emsp;The term "downblending" means processing highly enriched uranium into a uranium product in any form in which the uranium contains less than 20 percent uranium-235.
 
 #### (3) Highly enriched uranium
 
-&emsp;The term “highly enriched uranium” has the meaning given that term in section 2297h(4) of this title.
+&emsp;The term "highly enriched uranium" has the meaning given that term in section 2297h(4) of this title.
 
 #### (4) Highly enriched uranium of weapons origin
 
-&emsp;The term “highly enriched uranium of weapons origin” means highly enriched uranium that—
+&emsp;The term "highly enriched uranium of weapons origin" means highly enriched uranium that—
 
 &emsp;&emsp;(A) contains 90 percent or more uranium-235; and
 
@@ -26,15 +26,15 @@ In this section:
 
 #### (5) Low-enriched uranium
 
-&emsp;The term “low-enriched uranium” means a uranium product in any form, including uranium hexafluoride (UF<sub>6</sub>) and uranium oxide (UO<sub>2</sub>), in which the uranium contains less than 20 percent uranium-235, including natural uranium, without regard to whether the uranium is incorporated into fuel rods or complete fuel assemblies.
+&emsp;The term "low-enriched uranium" means a uranium product in any form, including uranium hexafluoride (UF<sub>6</sub>) and uranium oxide (UO<sub>2</sub>), in which the uranium contains less than 20 percent uranium-235, including natural uranium, without regard to whether the uranium is incorporated into fuel rods or complete fuel assemblies.
 
 #### (6) Russian HEU Agreement
 
-&emsp;The term “Russian HEU Agreement” has the meaning given that term in section 2297h(11) of this title.
+&emsp;The term "Russian HEU Agreement" has the meaning given that term in section 2297h(11) of this title.
 
 #### (7) Uranium-235
 
-&emsp;The term “uranium-235” means the isotope <sup>235</sup>U.
+&emsp;The term "uranium-235" means the isotope <sup>235</sup>U.
 
 #### (b) Statement of policy
 
@@ -56,7 +56,7 @@ It is the policy of the United States to support the continued downblending of h
 
 #### (A) In general
 
-&emsp;&emsp;After the completion of the Russian HEU Agreement, the importation into the United States of low-enriched uranium, including low-enriched uranium obtained under contracts for separative work units, that is produced in the Russian Federation, whether ornot such low-enriched uranium is derived from highly enriched uranium of weapons origin, may not exceed—
+&emsp;&emsp;After the completion of the Russian HEU Agreement, the importation into the United States of low-enriched uranium, including low-enriched uranium obtained under contracts for separative work units, that is produced in the Russian Federation, whether or not such low-enriched uranium is derived from highly enriched uranium of weapons origin, may not exceed—
 
 &emsp;&emsp;&emsp;(i) in calendar year 2014, 485,279 kilograms;
 
@@ -182,7 +182,7 @@ It is the policy of the United States to support the continued downblending of h
 
 #### (B) Other agreements
 
-&emsp;&emsp;If a provision of any agreement between the United States and the Russian Federation, other than the Russian HEU Agreement, relating to the importation of low-enriched uranium, including low-enriched uranium obtained under contracts for separative work units, into the United States conflicts with a provision of this section, the provision of this section shall supersede the provision of the agreement to the extent of the conflict.
+&emsp;&emsp;If a provision of any agreement between the United States and the Russian Federation, other than the Russian HEU Agreement, relating to the importation of low-enriched uranium, including low-enriched uranium obtained under contracts for separative work units, into the United States conflicts with a provision of this section, the provision of this section shall supersede theprovision of the agreement to the extent of the conflict.
 
 (Pub. L. 104–134, title III, §3112A, as added Pub. L. 110–329, div. C, title VIII, §8118(2), Sept. 30, 2008, 122 Stat. 3647.)
 

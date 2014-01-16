@@ -30,31 +30,31 @@ A prior section 134 was renumbered section 132 of this title.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted “seven” for “10”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–181 substituted "seven" for "10".
 
 <b>2002</b>—Subsec. (b)(4). Pub. L. 107–314 added par. (4).
 
-<b>1999</b>—Subsec. (c). Pub. L. 106–65 substituted “Under Secretary of Defense for Acquisition, Technology, and Logistics” for “Under Secretary of Defense for Acquisition and Technology”.
+<b>1999</b>—Subsec. (c). Pub. L. 106–65 substituted "Under Secretary of Defense for Acquisition, Technology, and Logistics" for "Under Secretary of Defense for Acquisition and Technology".
 
 <b>1998</b>—Subsec. (b)(3). Pub. L. 105–261 added par. (3).
 
-<b>1993</b>—Subsec. (c). Pub. L. 103–160 substituted “Under Secretary of Defense for Acquisition and Technology” for “Under Secretary of Defense for Acquisition”.
+<b>1993</b>—Subsec. (c). Pub. L. 103–160 substituted "Under Secretary of Defense for Acquisition and Technology" for "Under Secretary of Defense for Acquisition".
 
-<b>1986</b>—Subsec. (c). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended subsec. (c) identically, inserting “the Under Secretary of Defense for Acquisition,”.
+<b>1986</b>—Subsec. (c). Pub. L. 99–500, Pub. L. 99–591, and Pub. L. 99–661 amended subsec. (c) identically, inserting "the Under Secretary of Defense for Acquisition,".
 
 #### Implementation of Amendments by Pub. L. 105–261
 
 Pub. L. 105–261, div. A, title XV, §1521(c), (d), Oct. 17, 1998, 112 Stat. 2179, provided that:
 
-“(c)
+"(c)
 
 Time for Implementation.—The Secretary of Defense shall complete the actions necessary to implement the amendment made by subsection (a) \[amending this section\] and to establish the office of Deputy Under Secretary of Defense for Technology Security Policy in accordance with \[former\] section 134b of title 10, United States Code, as added by subsection (b), not later than 60 days after the date of the enactment of this Act \[Oct. 17, 1998\].
 
-“(d)
+"(d)
 
 Report.—Not later than 90 days after the date of the enactment of this Act, the Secretary of Defense shall submit to the Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives \[now Committee on Armed Services of the House of Representatives\] a report on the plans of the Secretary for implementing the amendments made by subsections (a) and (b) \[enacting former section 134b of this title and amending this section\]. The report shall include the following:
 
-&emsp;“(1) A description of any organizational changes that are to be made within the Department of Defense to implement those amendments.
+&emsp;"(1) A description of any organizational changes that are to be made within the Department of Defense to implement those amendments.
 
-&emsp;“(2) A description of the role of the Chairman of the Joint Chiefs of Staff in the export control activities of the Department of Defense after those subsections are implemented, together with a discussion of how that role compares to the Chairman's role in those activities before the implementation of those subsections.”
+&emsp;"(2) A description of the role of the Chairman of the Joint Chiefs of Staff in the export control activities of the Department of Defense after those subsections are implemented, together with a discussion of how that role compares to the Chairman's role in those activities before the implementation of those subsections."
 

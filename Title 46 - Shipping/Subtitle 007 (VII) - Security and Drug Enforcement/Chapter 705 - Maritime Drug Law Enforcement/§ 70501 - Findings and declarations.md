@@ -22,5 +22,5 @@ Pub. L. 96–350, §2, Sept. 15, 1980, 94 Stat. 1160; Pub. L. 99–307, §7, May
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–407 inserted cl. (1) designation after “declares that”, substituted “States and” for “States.”, and added cl. (2).
+<b>2008</b>—Pub. L. 110–407 inserted cl. (1) designation after "declares that", substituted "States and" for "States.", and added cl. (2).
 

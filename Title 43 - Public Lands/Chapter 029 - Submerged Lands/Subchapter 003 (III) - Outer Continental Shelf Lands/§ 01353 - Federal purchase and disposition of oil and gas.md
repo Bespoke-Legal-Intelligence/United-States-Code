@@ -18,7 +18,7 @@
 
 #### (c) Sale of gas by United States to public
 
-(1) Except as provided in paragraph (2) of this subsection, the Secretary, pursuant to such terms as he determines, many <sup>1</sup> offer to the public and sell by competitive bidding for not more than its regulated price, or, if no regulated price applies, not less than its fair market value any part of the gas (A) obtained by the United States pursuant to a lease as royalty or net profitshare, or (B) purchased by the United States pursuant to subsection (a)(2) of this section.
+(1) Except as provided in paragraph (2) of this subsection, the Secretary, pursuant to such terms as he determines, many <sup>1</sup> offer to the public and sell by competitive bidding for not more than its regulated price, or, if no regulated price applies, not less than its fair market value any part of the gas (A) obtained by the United States pursuant to a lease as royalty or net profit share, or (B) purchased by the United States pursuant to subsection (a)(2) of this section.
 
 (2) Whenever, after consultation with and advice from the Secretary of Energy, the Federal Energy Regulatory Commission determines that an emergency shortage of natural gas is threatening to cause severe economic or social dislocation in any region of the United States and that such region can be serviced in a practical, feasible, and efficient manner by royalty, net profit share, or purchased gas obtained pursuant to the provisions of this section, the Secretary of the Interior may allocate or conduct a lottery for the sale of such gas, and shall limit participation in any allocation or lottery sale of such gas to any person servicing such region, but he shall not sell any such gas for more than its regulated price, or, if no regulated price applies, less than its fair market value. Prior to selling or allocating any gas pursuant to this subsection, the Secretary shall consult with the Federal Energy Regulatory Commission.
 
@@ -30,7 +30,7 @@ The lessee shall take any Federal oil or gas for which no acceptable bids are re
 
 As used in this section—
 
-&emsp;(1) the term “regulated price” means the highest price—
+&emsp;(1) the term "regulated price" means the highest price—
 
 &emsp;&emsp;(A) at which oil many <sup>1</sup> be sold pursuant to the Emergency Petroleum Allocation Act of 1973 <sup>2</sup> \[15 U.S.C. 751 et seq.\] and any rule or order issued under such Act;
 
@@ -38,7 +38,7 @@ As used in this section—
 
 &emsp;&emsp;(C) at which either Federal oil or gas may be sold under any other provision of law or rule or order thereunder which sets a price (or manner for determining a price) for oil or gas; and
 
-&emsp;(2) the term “small refiner” has the meaning given such term by Small Business Administration Standards 128.3–8(d) and (g), as in effect on September 18, 1978, or as there-after revised or amended.
+&emsp;(2) the term "small refiner" has the meaning given such term by Small Business Administration Standards 128.3–8(d) and (g), as in effect on September 18, 1978, or as there-after revised or amended.
 
 #### (f) Purchase of oil and gas in time of war
 
@@ -56,7 +56,7 @@ The Natural Gas Act, referred to in subsec. (e)(1)(B), is act June 21, 1938, ch.
 
 Functions vested in Secretary of Energy and Department of Energy under or with respect to subsec. (b)(2), (3) of this section, transferred to, and vested in, Secretary of the Interior, by section 100 of Pub. L. 97–257, 96 Stat. 841, set out as a note under section 7152 of Title 42, The Public Health and Welfare.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “may”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "may".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

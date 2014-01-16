@@ -10,7 +10,7 @@ To be eligible for a grant under the program, a State shall—
 
 &emsp;(1) demonstrate to the satisfaction of the Commission that it has a State statute, or that, after December 19, 2007, it has enacted a statute, or amended an existing statute, and provides for the enforcement of,<sup>1</sup> a law that—
 
-&emsp;&emsp;(A) except as provided in section 8005(a)(1)(A)(i) of this title, applies to all swimming pools constructed after the date that is 6 months after December 23, 2011, in the State; and
+&emsp;&emsp;(A) except as provided in section 8005(a)(1)(A)(i) of this title, applies to all swimming pools constructed after the datethat is 6 months after December 23, 2011, in the State; and
 
 &emsp;&emsp;(B) meets the minimum State law requirements of section 8005 of this title; and
 
@@ -50,11 +50,11 @@ The Consumer Product Safety Act, referred to in subsec. (e), is Pub. L. 92–573
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1)(A). Pub. L. 112–74, §502(b), inserted “constructed after the date that is 6 months after December 23, 2011,” after “swimming pools”.
+<b>2011</b>—Subsec. (b)(1)(A). Pub. L. 112–74, §502(b), inserted "constructed after the date that is 6 months after December 23, 2011," after "swimming pools".
 
-Subsec. (e). Pub. L. 112–74, §502(a), substituted “2012” for “2011”.
+Subsec. (e). Pub. L. 112–74, §502(a), substituted "2012" for "2011".
 
-Pub. L. 112–10, which directed substitution of “2011” for “2010”, was executed by making the substitution for “2010” the second place appearing to reflect the probable intent of Congress.
+Pub. L. 112–10, which directed substitution of "2011" for "2010", was executed by making the substitution for "2010" the second place appearing to reflect the probable intent of Congress.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

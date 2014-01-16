@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, the term “State” includes the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
+Definition.—In this section, the term "State" includes the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
 
 (b)
 
@@ -64,7 +64,7 @@ Property for Use as a Public Park or Recreation Area.—
 
 &emsp;(1)
 
-Assignment.—The Administrator, in the Administrator's discretion and under regulations that the Administrator may prescribe, may assign to the Secretary of the Interior for disposal surplus real property, including buildings, fixtures, and equipment situated on the property, that the Secretary recommends as needed for use as a public park or recreation area.
+Assignment.—The Administrator, in the Administrator's discretion and under regulations that the Administrator may prescribe,may assign to the Secretary of the Interior for disposal surplus real property, including buildings, fixtures, and equipment situated on the property, that the Secretary recommends as needed for use as a public park or recreation area.
 
 &emsp;(2)
 
@@ -152,7 +152,7 @@ In general.—Without monetary consideration to the Government, the Administrato
 
 &emsp;&emsp;(B)
 
-Recommendation by national park system advisory board.—Property may be determined to be suitable and desirable for use as a historic monument only in conformity with a recommendation by the National Park System Advisory Board established under section 3 of the Act of August 21, 1935 (16 U.S.C. 463) (known as the Historic Sites, Buildings, and Antiquities Act). Only the portion of the property that is necessary for the preservation and proper observation ofthe property's historic features may be determined to be suitable and desirable for use as a historic monument.
+Recommendation by national park system advisory board.—Property may be determined to be suitable and desirable for use as a historic monument only in conformity with a recommendation by the National Park System Advisory Board established under section 3 of the Act of August 21, 1935 (16 U.S.C. 463) (known as the Historic Sites, Buildings, and Antiquities Act). Only the portion of the property that is necessary for the preservation and proper observation of the property's historic features may be determined to be suitable and desirable for use as a historic monument.
 
 &emsp;(2)
 
@@ -232,21 +232,21 @@ June 30, 1949, ch. 288, title II, §203(k), 63 Stat. 387; July 12, 1952, ch. 703
 
 40:484(k)(3).
 
-In subsections (b)(2), (c), and (d), the words “Secretary of Education” and “Secretary of Health and Human Services” are substituted for “Secretary of Health, Education, and Welfare”, as appropriate, because of sections 301(a)(2)(P) and (b), 507, and 509(b) of the Department of Education Organization Act (20:3441(a)(2)(P) and (b), 3507, and 3508(b)).
+In subsections (b)(2), (c), and (d), the words "Secretary of Education" and "Secretary of Health and Human Services" are substituted for "Secretary of Health, Education, and Welfare", as appropriate, because of sections 301(a)(2)(P) and (b), 507, and 509(b) of the Department of Education Organization Act (20:3441(a)(2)(P) and (b), 3507, and 3508(b)).
 
-In subsection (b)(2), the words “the Surplus Property Act of 1944, as amended”, and the text of 40:484(k)(4)(D), are omitted because the relevant provisions of the Surplus Property Act of 1944 (50 App.:1611 et seq.) have been repealed.
+In subsection (b)(2), the words "the Surplus Property Act of 1944, as amended", and the text of 40:484(k)(4)(D), are omitted because the relevant provisions of the Surplus Property Act of 1944 (50 App.:1611 et seq.) have been repealed.
 
-In subsection (e), the definition of “States” is omitted as unnecessary because of 40:484(k)(1)(D), restated in subsection (a).
+In subsection (e), the definition of "States" is omitted as unnecessary because of 40:484(k)(1)(D), restated in subsection (a).
 
-In subsection (e)(4), the words “this subsection” are used to reflect the probable intent of Congress. In 40:484(k)(2)(C), the words “this subsection” should probably be “this paragraph”, meaning 40:484(k)(2). In the revised section, the reference to 40:484(k)(2) is translated as “this subsection” to reflect the restatement of 40:484(k)(2) as subsection (e) of the revised section.
+In subsection (e)(4), the words "this subsection" are used to reflect the probable intent of Congress. In 40:484(k)(2)(C), the words "this subsection" should probably be "this paragraph", meaning 40:484(k)(2). In the revised section, the reference to 40:484(k)(2) is translated as "this subsection" to reflect the restatement of 40:484(k)(2) as subsection (e) of the revised section.
 
-In subsection (h), the definition of “States”, is omitted as unnecessary because of 40:484(k)(1)(D), restated in subsection (a).
+In subsection (h), the definition of "States", is omitted as unnecessary because of 40:484(k)(1)(D), restated in subsection (a).
 
-In subsection (h)(1)(B), the words “National Park System Advisory Board” are substituted for “Advisory Board on National Parks, Historic Sites, Buildings and Monuments” because of the amendment of 16:463 by section 9 of the Act of August 18, 1970 (Public Law 91–383), as added by section 2 of the Act of October 7, 1976 (Public Law 94–458, 90 Stat. 1940).
+In subsection (h)(1)(B), the words "National Park System Advisory Board" are substituted for "Advisory Board on National Parks, Historic Sites, Buildings and Monuments" because of the amendment of 16:463 by section 9 of the Act of August 18, 1970 (Public Law 91–383), as added by section 2 of the Act of October 7, 1976 (Public Law 94–458, 90 Stat. 1940).
 
-In subsection (h)(2)(A), the words “this subsection” are used to reflect the probable intent of Congress. In 40:484(k)(3)(A), the words “this subsection” should probably be “this paragraph”, meaning 40:484(k)(3). In the revised section, the reference to 40:484(k)(3) is translated as “this subsection” to reflect the restatement of 40:484(k)(3) as subsection (h) of the revised section. The words “or the Surplus Property Act of 1944, as amended” are omitted because the relevant provisions of the Surplus Property Act of 1944 (50 App.:1611 et seq.) have been repealed.
+In subsection (h)(2)(A), the words "this subsection" are used to reflect the probable intent of Congress. In 40:484(k)(3)(A), the words "this subsection" should probably be "this paragraph", meaning 40:484(k)(3). In the revised section, the reference to 40:484(k)(3) is translated as "this subsection" to reflect the restatement of 40:484(k)(3) as subsection (h) of the revised section. The words "or the Surplus Property Act of 1944, as amended" are omitted because the relevant provisions of the Surplus Property Act of 1944 (50 App.:1611 et seq.) have been repealed.
 
-In subsection (h)(3), the words “this subsection” are used to reflect the probable intent of Congress. In 40:484(k)(3)(B), the words “this subsection” should probably be “this paragraph”, meaning 40:484(k)(3). In the revised section, the reference to 40:484(k)(3) is translated as “this subsection” to reflect the restatement of 40:484(k)(3) as subsection (h) of the revised section.
+In subsection (h)(3), the words "this subsection" are used to reflect the probable intent of Congress. In 40:484(k)(3)(B), the words "this subsection" should probably be "this paragraph", meaning 40:484(k)(3). In the revised section, the reference to 40:484(k)(3) is translated as "this subsection" to reflect the restatement of 40:484(k)(3) as subsection (h) of the revised section.
 
 #### References in Text
 

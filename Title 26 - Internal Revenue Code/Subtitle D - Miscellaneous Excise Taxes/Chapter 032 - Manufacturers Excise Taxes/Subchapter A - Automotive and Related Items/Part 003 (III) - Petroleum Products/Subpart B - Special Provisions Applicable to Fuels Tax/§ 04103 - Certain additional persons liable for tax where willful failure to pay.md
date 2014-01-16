@@ -12,9 +12,9 @@ In any case in which there is a willful failure to pay the tax imposed by sectio
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–357 substituted “or 4081” for “, 4081, or 4091” in introductory provisions.
+<b>2004</b>—Pub. L. 108–357 substituted "or 4081" for ", 4081, or 4091" in introductory provisions.
 
-<b>1993</b>—Pub. L. 103–66 substituted “4041(a)(1), 4081,” for “4081” in introductory provisions.
+<b>1993</b>—Pub. L. 103–66 substituted "4041(a)(1), 4081," for "4081" in introductory provisions.
 
 #### Effective Date of 2004 Amendment
 

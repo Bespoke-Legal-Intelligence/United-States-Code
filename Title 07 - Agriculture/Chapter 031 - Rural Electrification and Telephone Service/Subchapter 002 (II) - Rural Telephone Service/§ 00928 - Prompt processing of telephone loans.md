@@ -10,5 +10,5 @@ Within ten days after the end of the second and fourth calendar quarters of each
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Administrator”.
+<b>1994</b>—Pub. L. 103–354 substituted "Secretary" for "Administrator".
 

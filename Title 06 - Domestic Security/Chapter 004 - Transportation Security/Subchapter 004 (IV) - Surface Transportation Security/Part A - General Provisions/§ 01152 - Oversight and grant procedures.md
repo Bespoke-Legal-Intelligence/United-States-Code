@@ -20,7 +20,7 @@ Not later than 180 days after August 3, 2007, the Secretary shall prescribe proc
 
 #### (2) Schedule
 
-&emsp;The letter of intent under this subsection shall establish a schedule under which theSecretary will reimburse the recipient for the Government's share of the project's costs, as amounts become available, if the recipient, after the Secretary issues that letter, carries out the project without receiving amounts under a grant issued under this subchapter.
+&emsp;The letter of intent under this subsection shall establish a schedule under which the Secretary will reimburse the recipient for the Government's share of the project's costs, as amounts become available, if the recipient, after the Secretary issues that letter, carries out the project without receiving amounts under a grant issued under this subchapter.
 
 #### (3) Notice to Secretary
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Sons of Union Veterans of the Civil War (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—Sons of Union Veterans of the Civil War (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

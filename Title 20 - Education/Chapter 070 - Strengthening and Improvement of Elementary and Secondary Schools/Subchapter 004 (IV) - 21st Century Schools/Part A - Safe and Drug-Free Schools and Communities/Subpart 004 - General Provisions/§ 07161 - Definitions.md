@@ -4,15 +4,15 @@ In this part:
 
 #### (1) Controlled substance
 
-&emsp;The term “controlled substance” means a drug or other substance identified under Schedule I, II, III, IV, or V in section 812(c) of title 21.
+&emsp;The term "controlled substance" means a drug or other substance identified under Schedule I, II, III, IV, or V in section 812(c) of title 21.
 
 #### (2) Drug
 
-&emsp;The term “drug” includes controlled substances; the illegal use of alcohol and tobacco; and the harmful, abusive, or addictive use of substances, including inhalants and anabolic steroids.
+&emsp;The term "drug" includes controlled substances; the illegal use of alcohol and tobacco; and the harmful, abusive, or addictive use of substances, including inhalants and anabolic steroids.
 
 #### (3) Drug and violence prevention
 
-&emsp;The term “drug and violence prevention” means—
+&emsp;The term "drug and violence prevention" means—
 
 &emsp;&emsp;(A) with respect to drugs, prevention, early intervention, rehabilitation referral, or education related to the illegal use of drugs;
 
@@ -20,35 +20,35 @@ In this part:
 
 #### (4) Hate crime
 
-&emsp;The term “hate crime” means a crime as described in section 1(b) of the Hate Crime Statistics Act of 1990.
+&emsp;The term "hate crime" means a crime as described in section 1(b) of the Hate Crime Statistics Act of 1990.
 
 #### (5) Nonprofit
 
-&emsp;The term “nonprofit”, as applied to a school, agency, organization, or institution means a school, agency, organization, or institution owned and operated by one or more nonprofit corporations or associations, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+&emsp;The term "nonprofit", as applied to a school, agency, organization, or institution means a school, agency, organization, or institution owned and operated by one or more nonprofit corporations or associations, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
 #### (6) Protective factor, buffer, or asset
 
-&emsp;The terms “protective factor”, “buffer”, and “asset” mean any one of a number of the community, school, family, or peer-individual domains that are known, through prospective, longitudinal research efforts, or which are grounded in a well-established theoretical model of prevention, and have been shown to prevent alcohol, tobacco, or illegal drug use, as well as violent behavior, by youth in the community, and which promote positive youth development.
+&emsp;The terms "protective factor", "buffer", and "asset" mean any one of a number of the community, school, family, or peer-individual domains that are known, through prospective, longitudinal research efforts, or which are grounded in a well-established theoretical model of prevention, and have been shown to prevent alcohol, tobacco, or illegal drug use, as well as violent behavior, by youth in the community, and which promote positive youth development.
 
 #### (7) Risk factor
 
-&emsp;The term “risk factor” means any one of a number of characteristics of the community,school, family, or peer-individual domains that are known, through prospective, longitudinal research efforts, to be predictive of alcohol, tobacco, and illegal drug use, as well as violent behavior, by youth in the school and community.
+&emsp;The term "risk factor" means any one of a number of characteristics of the community, school, family, or peer-individual domains that are known, through prospective, longitudinal research efforts, to be predictive of alcohol, tobacco, and illegal drug use, as well as violent behavior, by youth in the school and community.
 
 #### (8) School-aged population
 
-&emsp;The term “school-aged population” means the population aged five through 17, as determined by the Secretary on the basis of the most recent satisfactory data available from the Department of Commerce.
+&emsp;The term "school-aged population" means the population aged five through 17, as determined by the Secretary on the basis of the most recent satisfactory data available from the Department of Commerce.
 
 #### (9) School based mental health services provider
 
-&emsp;The term “school based mental health services provider” includes a State licensed or State certified school counselor, school psychologist, school social worker, or other State licensed or certified mental health professional qualified under State law to provide such services to children and adolescents.
+&emsp;The term "school based mental health services provider" includes a State licensed or State certified school counselor, school psychologist, school social worker, or other State licensed or certified mental health professional qualified under State law to provide such services to children and adolescents.
 
 #### (10) School personnel
 
-&emsp;The term “school personnel” includes teachers, principals, administrators, counselors, social workers, psychologists, nurses, librarians, and other support staff who are employed by a school or who perform services for the school on a contractual basis.
+&emsp;The term "school personnel" includes teachers, principals, administrators, counselors, social workers, psychologists, nurses, librarians, and other support staff who are employed by a school or who perform services for the school on a contractual basis.
 
 #### (11) School resource officer
 
-&emsp;The term “school resource officer” means a career law enforcement officer, with sworn authority, deployed in community oriented policing, and assigned by the employing police department to a local educational agency to work in collaboration with schools and community based organizations to—
+&emsp;The term "school resource officer" means a career law enforcement officer, with sworn authority, deployed in community oriented policing, and assigned by the employing police department to a local educational agency to work in collaboration with schools and community based organizations to—
 
 &emsp;&emsp;(A) educate students in crime and illegal drug use prevention and safety;
 

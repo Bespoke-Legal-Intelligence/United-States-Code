@@ -24,9 +24,9 @@ Section was not enacted as part of the Reclamation Project Act of 1939 which com
 
 <b>1980</b>—Cl. (5). Pub. L. 96–375 authorized payments on a bimonthly and monthly basis.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should not be capitalized.</i>
 
-<i><sup>3</sup></i><i> So in original. The period probably should be “; and”.</i>
+<i><sup>3</sup></i><i> So in original. The period probably should be "; and".</i>
 

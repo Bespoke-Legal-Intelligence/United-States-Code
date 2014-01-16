@@ -10,7 +10,7 @@ In carrying out subsection (a), NASA shall, at a minimum, undertake the followin
 
 #### (1) Innovative use of U.S. segment
 
-&emsp;The United States segment of the ISS, which has been designated as a National Laboratory, shall be developed, managed and utilized in a manner that enables the effective and innovative use of such facility, as provided in section 18354 of this title.
+&emsp;The United States segment of the ISS, which has been designated as a National Laboratory,shall be developed, managed and utilized in a manner that enables the effective and innovative use of such facility, as provided in section 18354 of this title.
 
 #### (2) International cooperation
 
@@ -18,7 +18,7 @@ In carrying out subsection (a), NASA shall, at a minimum, undertake the followin
 
 #### (3) Domestic collaboration
 
-&emsp;The operations, management, and utilization of the ISS shall be conducted in a mannerthat provides opportunities for collaboration with other research programs and objectives of the United States Government in cooperation with commercial suppliers, users, and developers.
+&emsp;The operations, management, and utilization of the ISS shall be conducted in a manner that provides opportunities for collaboration with other research programs and objectives of the United States Government in cooperation with commercial suppliers, users, and developers.
 
 (Pub. L. 111–267, title V, §502, Oct. 11, 2010, 124 Stat. 2823.)
 

@@ -1,6 +1,6 @@
 ### §4502. Congressional findings and declaration of policy
 
-(a) The Congress finds that rapid changes in patterns of urban settlement, including changein population distribution and economic bases of urban areas, have created an imbalance between the Nation's needs and resources and seriously threaten our physical and social environment, and the financial viability of our cities, and that the economic and social development of the Nation, the proper conservation of our energy and other natural resources, and the achievement of satisfactory living standards depend upon the sound, orderly, and more balanced development of all areas of the Nation.
+(a) The Congress finds that rapid changes in patterns of urban settlement, including change in population distribution and economic bases of urban areas, have created an imbalance between the Nation's needs and resources and seriously threaten our physical and social environment, and the financial viability of our cities, and that the economic and social development of the Nation, the proper conservation of our energy and other natural resources, and the achievement of satisfactory living standards depend upon the sound, orderly, and more balanced development of all areas of the Nation.
 
 (b) The Congress further finds that Federal programs affect the location of population, economic growth, and the character of urban development; that such programs frequently conflict and result in undesirable and costly patterns of urban development and redevelopment which adversely affect the environment and wastefully use energy and other natural resources; and that existing and future programs must be interrelated and coordinated within a system of orderly development and established priorities consistent with a national urban policy.
 
@@ -28,15 +28,15 @@
 
 #### Amendments
 
-<b>1992</b>—Subsec. (d)(8). Pub. L. 102–550 added par. (8) and struck out former par. (8) which read as follows: “facilitate increased coordination in the administration of Federal programs so as to encourage desirable patterns of urban development and redevelopment, encourage the prudent use of energy and other natural resources, and protect the physical environment.”
+<b>1992</b>—Subsec. (d)(8). Pub. L. 102–550 added par. (8) and struck out former par. (8) which read as follows: "facilitate increased coordination in the administration of Federal programs so as to encourage desirable patterns of urban development and redevelopment, encourage the prudent use of energy and other natural resources, and protect the physical environment."
 
-<b>1984</b>—Subsec. (d)(8). Pub. L. 98–479 struck out “of” before “the physical environment”.
+<b>1984</b>—Subsec. (d)(8). Pub. L. 98–479 struck out "of" before "the physical environment".
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–128, §601(b)(1), substituted “rapid changes in patterns of urban settlement, including change in population distribution and economic bases of urban areas, have created” for “the rapid growth of urban population and uneven expansion of urban development in the United States, together with a decline in farm population, slower growth in rural areas, and migration to the cities, has created” and included the threat to “social” environment and the financial viability of our cities, and conservation of “energy”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–128, §601(b)(1), substituted "rapid changes in patterns of urban settlement, including change in population distribution and economic bases of urban areas, have created" for "the rapid growth of urban population and uneven expansion of urban development in the United States, together with a decline in farm population, slower growth in rural areas, and migration to the cities, has created" and included the threat to "social" environment and the financial viability of our cities, and conservation of "energy".
 
-Subsec. (b). Pub. L. 95–128, §601(b)(2), included findings respecting costly urban redevelopment and wasteful use of energy and struck out “growth” after “national urban”.
+Subsec. (b). Pub. L. 95–128, §601(b)(2), included findings respecting costly urban redevelopment and wasteful use of energy and struck out "growth" after "national urban".
 
-Subsec. (c). Pub. L. 95–128, §601(b)(3), included conservation of “energy”, struck out “growth” after “nation urban” in first sentence and substituted in second sentence “urban development and redevelopment” for “urban growth” and “urban policy” for “growth and stabilization policy”.
+Subsec. (c). Pub. L. 95–128, §601(b)(3), included conservation of "energy", struck out "growth" after "nation urban" in first sentence and substituted in second sentence "urban development and redevelopment" for "urban growth" and "urban policy" for "growth and stabilization policy".
 
-Subsec. (d). Pub. L. 95–128, §601(b)(4)–(6), struck out “growth” before “policy” in introductory text; substituted in par. (3) “encourage patterns of development and redevelopment which minimize” for “help reverse trends of migration and physical growth which reinforce”; and in par. (8) substituted “urban development and redevelopment” for “urban growth and stabilization” and “protect” for “the protection” and required the national urban policy to “encourage” prudent use of resources, including “energy”.
+Subsec. (d). Pub. L. 95–128, §601(b)(4)–(6), struck out "growth" before "policy" in introductory text; substituted in par. (3) "encourage patterns of development and redevelopment which minimize" for "help reverse trends of migration and physical growth which reinforce"; and in par. (8) substituted "urban development and redevelopment" for "urban growth and stabilization" and "protect" for "the protection" and required the national urban policy to "encourage" prudent use of resources, including "energy".
 

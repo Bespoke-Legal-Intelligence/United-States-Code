@@ -24,7 +24,7 @@
 
 &emsp;(B) the Central Intelligence Agency.
 
-(2) This section, except subsection (a), does not affect section 403e(4) of title 50.
+(2) This section, except subsection (a), does not affect section 403e(4) of title 50.<sup>1</sup>
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 504; Pub. L. 96–465, title II, §2314(e), Oct. 17, 1980, 94 Stat. 2168; Pub. L. 104–201, div. A, title XVII, §§1715(a), 1723(b)(1), Sept. 23, 1996, 110 Stat. 2755, 2759; Pub. L. 105–264, §6(7), Oct. 19, 1998, 112 Stat. 2356.)
 
@@ -64,6 +64,10 @@ The last sentence of subsection (f) of former section 73b–1 which provided tha
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### References in Text
+
+Section 403e of title 50, referred to in subsec. (f)(2), was editorially reclassified to section 3505 of Title 50, War and National Defense.
+
 #### Amendments
 
 <b>1998</b>—Subsec. (d). Pub. L. 105–264 substituted “continental United States” for “United States”.
@@ -89,4 +93,6 @@ Amendment by Pub. L. 104–201 effective 180 days after Sept. 23, 1996, see sect
 #### Effective Date of 1980 Amendment
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of Title 22, Foreign Relations and Intercourse.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

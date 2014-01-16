@@ -6,7 +6,7 @@ The Secretary shall monitor the provisions by the State of the subsistence prefe
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–437 substituted “the Committees on Natural Resources” for “Committee on Interior and Insular Affairs”.
+<b>1994</b>—Pub. L. 103–437 substituted "the Committees on Natural Resources" for "Committee on Interior and Insular Affairs".
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

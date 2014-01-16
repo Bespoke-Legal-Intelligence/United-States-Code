@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—National Federation of Music Clubs (in this chapter, the “corporation”), incorporated in Illinois, is a federally chartered corporation.
+Federal Charter.—National Federation of Music Clubs (in this chapter, the "corporation"), incorporated in Illinois, is a federally chartered corporation.
 
 (b)
 

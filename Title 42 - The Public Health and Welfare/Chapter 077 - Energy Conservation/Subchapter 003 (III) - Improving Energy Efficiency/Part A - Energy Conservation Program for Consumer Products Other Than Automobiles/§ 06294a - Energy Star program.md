@@ -46,7 +46,7 @@ The Secretary shall establish new qualifying levels—
 
 #### Amendments
 
-<b>2007</b>—Subsec. (d)(2). Pub. L. 110–140 substituted “July 1, 2009” for “January 1, 2010”.
+<b>2007</b>—Subsec. (d)(2). Pub. L. 110–140 substituted "July 1, 2009" for "January 1, 2010".
 
 #### Effective Date of 2007 Amendment
 

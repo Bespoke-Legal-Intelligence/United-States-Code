@@ -7,7 +7,7 @@
 | [1103\.](%C2%A7%2001103%20-%20Certificate%20of%20necessity%3B%20estimate%20of%20cost.md) | Certificate of necessity; estimate of cost. |
 | [1104\.](%C2%A7%2001104%20-%20Restrictions%20on%20use%20of%20illustrations.md) | Restrictions on use of illustrations. |
 | [1105\.](%C2%A7%2001105%20-%20Form%20and%20style%20of%20work%20for%20departments.md) | Form and style of work for departments. |
-| [1106\.](%C2%A7%2001106%20-%20Inserting%20%E2%80%9Ccompliments%E2%80%9D%20forbidden.md) | Inserting “compliments” forbidden. |
+| [1106\.](%C2%A7%2001106%20-%20Inserting%20compliments%20forbidden.md) | Inserting "compliments" forbidden. |
 | [1107\.](%C2%A7%2001107%20-%20Appropriations%20chargeable%20for%20printing%20and%20binding%20of%20documents%20or%20reports.md) | Appropriations chargeable for printing and binding of documents or reports. |
 | [1108\.](%C2%A7%2001108%20-%20Presidential%20approval%20required%20for%20printing%20of%20periodicals%3B%20number%20printed%3B%20sale%20to%20public.md) | Presidential approval required for printing of periodicals; number printed; sale to public. |
 | [1109\.](%C2%A7%2001109%20-%20Printing%20documents%20in%20two%20or%20more%20editions%3B%20full%20number%20and%20allotment%20of%20full%20quota.md) | Printing documents in two or more editions; full number and allotment of full quota. |
@@ -30,7 +30,7 @@
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–216, §3(d)(1), Feb. 14, 1984, 98 Stat. 6, substituted “Presidential” for “Bureau of Budget” in item 1108.
+<b>1984</b>—Pub. L. 98–216, §3(d)(1), Feb. 14, 1984, 98 Stat. 6, substituted "Presidential" for "Bureau of Budget" in item 1108.
 
 #### Federal Records Management Provisions Without Effect on Chapter
 
@@ -46,7 +46,7 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 - [&sect; 01103 - Certificate of necessity; estimate of cost](%C2%A7%2001103%20-%20Certificate%20of%20necessity%3B%20estimate%20of%20cost.md)
 - [&sect; 01104 - Restrictions on use of illustrations](%C2%A7%2001104%20-%20Restrictions%20on%20use%20of%20illustrations.md)
 - [&sect; 01105 - Form and style of work for departments](%C2%A7%2001105%20-%20Form%20and%20style%20of%20work%20for%20departments.md)
-- [&sect; 01106 - Inserting &#8220;compliments&#8221; forbidden](%C2%A7%2001106%20-%20Inserting%20%E2%80%9Ccompliments%E2%80%9D%20forbidden.md)
+- [&sect; 01106 - Inserting compliments forbidden](%C2%A7%2001106%20-%20Inserting%20compliments%20forbidden.md)
 - [&sect; 01107 - Appropriations chargeable for printing and binding of documents or reports](%C2%A7%2001107%20-%20Appropriations%20chargeable%20for%20printing%20and%20binding%20of%20documents%20or%20reports.md)
 - [&sect; 01108 - Presidential approval required for printing of periodicals; number printed; sale to public](%C2%A7%2001108%20-%20Presidential%20approval%20required%20for%20printing%20of%20periodicals%3B%20number%20printed%3B%20sale%20to%20public.md)
 - [&sect; 01109 - Printing documents in two or more editions; full number and allotment of full quota](%C2%A7%2001109%20-%20Printing%20documents%20in%20two%20or%20more%20editions%3B%20full%20number%20and%20allotment%20of%20full%20quota.md)

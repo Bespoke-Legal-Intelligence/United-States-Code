@@ -48,7 +48,7 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 &emsp;(iii) has incurred costs to initiate a Remedial Investigation and Feasibility Study under section 104 of the Comprehensive Environmental Response, Compensation and Liability Act of 1980 \[42 U.S.C. 9604\] and is diligently proceeding with a remedial action under that Act \[42 U.S.C. 9601 et seq.\]; or
 
-&emsp;(iv) has obtained a court order (including a consent decree) or issued an administrative order under section 106 of the Comprehensive Environmental Response, Compensation and Liability Act of 980 <sup>2</sup> \[42 U.S.C. 9606\] or section 6973 of this title pursuant to which a responsible party is diligently conducting a removal action, Remedial Investigation and FeasibilityStudy (RIFS), or proceeding with a remedial action.
+&emsp;(iv) has obtained a court order (including a consent decree) or issued an administrative order under section 106 of the Comprehensive Environmental Response, Compensation and Liability Act of 980 <sup>2</sup> \[42 U.S.C. 9606\] or section 6973 of this title pursuant to which a responsible party is diligently conducting a removal action, Remedial Investigation and Feasibility Study (RIFS), or proceeding with a remedial action.
 
 > In the case of an administrative order referred to in clause (iv), actions under subsection (a)(1)(B) of this section are prohibited only as to the scope and duration of the administrative order referred to in clause (iv).
 
@@ -76,7 +76,7 @@ In any action under this section the Administrator, if not a party, may interven
 
 #### (e) Costs
 
-The court, in issuing any final order in any action brought pursuant to this section or section 6976 of this title, may award costs of litigation (including reasonable attorney and expert witness fees) to the prevailing or substantially prevailing party, whenever the court determines such an award is appropriate. The court may, if a temporary restraining order or preliminary injunction is sought, require the filing of a bond or equivalent security in accordance with the Federal Rules of Civil Procedure.
+The court, in issuing any final order in any action brought pursuant to this section or section6976 of this title, may award costs of litigation (including reasonable attorney and expert witness fees) to the prevailing or substantially prevailing party, whenever the court determines such an award is appropriate. The court may, if a temporary restraining order or preliminary injunction is sought, require the filing of a bond or equivalent security in accordance with the Federal Rules of Civil Procedure.
 
 #### (f) Other rights preserved
 
@@ -96,21 +96,21 @@ The Federal Rules of Civil Procedure, referred to in subsec. (e), are set out in
 
 #### Amendments
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–616, §401(a), (b), designated existing provisions of subsec. (a)(1) as subpar. (A) thereof, inserted “prohibition,” after “requirement,”, added subpar. (B), and in provisions following par. (2) inserted “or the alleged endangerment may occur” in first sentence and substituted “to enforce the permit, standard, regulation, condition, requirement, prohibition, or order, referred to in paragraph (1)(A), to restrain any person who has contributed or who is contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste referred to in paragraph (1)(B), to order such person to take such other action as may be necessary, or both, or to order the Administrator to perform the act or duty referred to in paragraph (2), as the case may be, and to apply any appropriate civil penalties under section 6928(a) and (g) of this title” for “to enforce such regulation or order, or to order the Administrator to perform such act or duty as the case may be”.
+<b>1984</b>—Subsec. (a). Pub. L. 98–616, §401(a), (b), designated existing provisions of subsec. (a)(1) as subpar. (A) thereof, inserted "prohibition," after "requirement,", added subpar. (B), and in provisions following par. (2) inserted "or the alleged endangerment may occur" in first sentence and substituted "to enforce the permit, standard, regulation, condition, requirement, prohibition, or order, referred to in paragraph (1)(A), to restrain any person who has contributed or who is contributing to the past or present handling, storage, treatment, transportation, or disposal of any solid or hazardous waste referred to in paragraph (1)(B), to order such person to take such other action as may be necessary, or both, or to order the Administrator to perform the act or duty referred to in paragraph (2), as the case may be, and to apply any appropriate civil penalties under section 6928(a) and (g) of this title" for "to enforce such regulation or order, or to order the Administrator to perform such act or duty as the case may be".
 
-Subsec. (b). Pub. L. 98–616, §401(d), amended subsec. (b) generally. Prior to amendment, subsec. (b) read asfollows: “No action may be commenced under paragraph (a)(1) of this section—
+Subsec. (b). Pub. L. 98–616, §401(d), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "No action may be commenced under paragraph (a)(1) of this section—
 
-&emsp;“(1) prior to sixty days after the plaintiff has given notice of the violation (A) to the Administrator; (B) to the State in which the alleged violation occurs; and (C) to any alleged violator of such permit, standard, regulation, condition, requirement, or order; or
+&emsp;"(1) prior to sixty days after the plaintiff has given notice of the violation (A) to the Administrator; (B) to the State in which the alleged violation occurs; and (C) to any alleged violator of such permit, standard, regulation, condition, requirement, or order; or
 
-&emsp;“(2) if the Administrator or State has commenced and is diligently prosecuting a civil or criminal action in a court of the United States or a State to require compliance with such permit, standard, regulation, condition, requirement, or order: <i>Provided, however</i>, That in any such action in a court of the United States, any person may intervene as a matter of right.”
+&emsp;"(2) if the Administrator or State has commenced and is diligently prosecuting a civil or criminal action in a court of the United States or a State to require compliance with such permit, standard, regulation, condition, requirement, or order: <i>Provided, however</i>, That in any such action in a court of the United States, any person may intervene as a matter of right."
 
-Subsec. (e). Pub. L. 98–616, §401(e), substituted “to the prevailing or substantially prevailing party” for “to any party” and inserted “or section 6976 of this title”.
+Subsec. (e). Pub. L. 98–616, §401(e), substituted "to the prevailing or substantially prevailing party" for "to any party" and inserted "or section 6976 of this title".
 
 Subsec. (g). Pub. L. 98–616, §401(c), added subsec. (g).
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–609, §7(p)(1), substituted “subchapter III of this chapter” for “section 212 of this Act.”
+<b>1978</b>—Subsec. (c). Pub. L. 95–609, §7(p)(1), substituted "subchapter III of this chapter" for "section 212 of this Act."
 
-Subsec. (e). Pub. L. 95–609, §7(p)(2), substituted “require” for “requiring”.
+Subsec. (e). Pub. L. 95–609, §7(p)(2), substituted "require" for "requiring".
 
 #### Transfer of Functions
 
@@ -118,5 +118,5 @@ For transfer of certain enforcement functions of Administrator or other official
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “1980”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "1980".</i>
 

@@ -36,7 +36,7 @@
 
 Based on title 28, U.S.C., 1940 ed., §§901, 902, 904, 905 (Mar. 4, 1931, ch. 515, §§1, 2, 4, 5, 46 Stat. 1528, 1529; May 17, 1932, ch. 190, 47 Stat. 158; June 25, 1936, ch. 804, 49Stat. 1921; June 6, 1940, ch. 242, 54 Stat. 234; Dec. 2, 1942, ch. 656, §§1–3, 56 Stat. 1026).
 
-Provisions including the districts of Hawaii and Puerto Rico, and the District Court of the United States for the District of Columbia, in section 901 of title 28, U.S.C., 1940 ed., were omitted as covered by “any district court.” See section 451 of this title.
+Provisions including the districts of Hawaii and Puerto Rico, and the District Court of the United States for the District of Columbia, in section 901 of title 28, U.S.C., 1940 ed., were omitted as covered by "any district court." See section 451 of this title.
 
 Provisions in section 902 of title 28, U.S.C., 1940 ed., relating to process, were omitted as covered by Rule 4 of the Federal Rules of Civil Procedure.
 
@@ -52,35 +52,35 @@ Section 7425 of the Internal Revenue Code of 1986, referred to in subsec. (d), i
 
 #### Amendments
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–316 struck out “shall so report to the Comptroller General who” after “unenforceable, such officer” in second sentence.
+<b>1996</b>—Subsec. (e). Pub. L. 104–316 struck out "shall so report to the Comptroller General who" after "unenforceable, such officer" in second sentence.
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–83 substituted “section 3720 of title 38” for “section 1820 of title 38”.
+<b>1991</b>—Subsec. (c). Pub. L. 102–83 substituted "section 3720 of title 38" for "section 1820 of title 38".
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–647 inserted at end “In any case where the United States is a bidder at the judicial sale, it may credit the amount determined to be due it against the amount it bids at such sales.”
+<b>1990</b>—Subsec. (c). Pub. L. 101–647 inserted at end "In any case where the United States is a bidder at the judicial sale, it may credit the amount determined to be due it against the amount it bids at such sales."
 
-<b>1986</b>—Subsec. (d). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (d). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 
-<b>1966</b>—Subsec. (a). Pub. L. 89–719 substituted “subject matter—
+<b>1966</b>—Subsec. (a). Pub. L. 89–719 substituted "subject matter—
 
-&emsp;“(1) to quiet title to,
+&emsp;"(1) to quiet title to,
 
-&emsp;“(2) to foreclose a mortgage or other lien upon,
+&emsp;"(2) to foreclose a mortgage or other lien upon,
 
-&emsp;“(3) to partition,
+&emsp;"(3) to partition,
 
-&emsp;“(4) to condemn, or
+&emsp;"(4) to condemn, or
 
-&emsp;“(5) of interpleader or in the nature of interpleader with respect to,”
+&emsp;"(5) of interpleader or in the nature of interpleader with respect to,"
 
-> for “subject matter, to quiet title to or for the foreclosure of a mortgage or other lien upon”.
+> for "subject matter, to quiet title to or for the foreclosure of a mortgage or other lien upon".
 
-Subsec. (b). Pub. L. 89–719 substituted “complaint or pleading shall set forth” for “complaint shall set forth”, and inserted sentence requiring the complaint or pleading, in actions or suits involving liens arising under the internal revenue laws, to include the name and address of the taxpayer whose liability created the lien and, if a notice of the tax lien was filed, the identity of the internal revenue office which filed the notice, and the date and place such notice of lien was filed.
+Subsec. (b). Pub. L. 89–719 substituted "complaint or pleading shall set forth" for "complaint shall set forth", and inserted sentence requiring the complaint or pleading, in actions or suits involving liens arising under the internal revenue laws, to include the name and address of the taxpayer whose liability created the lien and, if a notice of the tax lien was filed, the identity of the internal revenue office which filed the notice, and the date and place such notice of lien was filed.
 
-Subsec. (c). Pub. L. 89–719 substituted “judgment or decree in such action” for “judicial sale in such action”, “discharge of the property from the mortgage or other lien” for “discharge of the property from liens and encumbrances”, and “place where the court is situated” for “place where the property is situated”, and inserted provisions requiring an action to foreclose a mortgage or other lien, in which the United States is named as a party under this section, to seek a judicial sale, providing that the period of redemption where a sale is made with respect to a lien arising under the internal revenue laws is 120 days or the period allowable for redemption under State law, whichever is longer, and prohibiting the right of redemption in any case which, under the provisions of section 1701k of Title 12 and section 1820(d) of Title 38, the right to redeem does not arise.
+Subsec. (c). Pub. L. 89–719 substituted "judgment or decree in such action" for "judicial sale in such action", "discharge of the property from the mortgage or other lien" for "discharge of the property from liens and encumbrances", and "place where the court is situated" for "place where the property is situated", and inserted provisions requiring an action to foreclose a mortgage or other lien, in which the United States is named as a party under this section, to seek a judicial sale, providing that the period of redemption where a sale is made with respect to a lien arising under the internal revenue laws is 120 days or the period allowable for redemption under State law, whichever is longer, and prohibiting the right of redemption in any case which, under the provisions of section 1701k of Title 12 and section 1820(d) of Title 38, the right to redeem does not arise.
 
 Subsecs. (d), (e). Pub. L. 89–719 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>1960</b>—Subsec. (b). Pub. L. 86–507 inserted “or by certified mail,” after “registered mail,”.
+<b>1960</b>—Subsec. (b). Pub. L. 86–507 inserted "or by certified mail," after "registered mail,".
 
 <b>1958</b>—Subsec. (a). Pub. L. 85–508 struck out provisions which extended section to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 

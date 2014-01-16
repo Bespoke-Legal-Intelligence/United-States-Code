@@ -10,7 +10,7 @@
 
 (1) The Commission shall, by rule, establish guidelines for the application on a regional or national basis (as may be appropriate) of the criteria specified in subsection (e)(1) of this section to determine the maximum consideration permitted as just compensation under this section.
 
-(2) The person transferring contractual interests pursuant to subsection (a)(1) of this section and the person to whom such interests are transferred may agree on the amount of, or method of determining, the consideration to be paid for such transfer and certify such consideration to the Commission. Except as provided in paragraph (4), such agreed-upon considerationshall not exceed the consideration determined by application of the guidelines prescribed by the Commission under paragraph (1).
+(2) The person transferring contractual interests pursuant to subsection (a)(1) of this section and the person to whom such interests are transferred may agree on the amount of, or method of determining, the consideration to be paid for such transfer and certify such consideration to the Commission. Except as provided in paragraph (4), such agreed-upon consideration shall not exceed the consideration determined by application of the guidelines prescribed by the Commission under paragraph (1).
 
 (3) In the event the person transferring contractual interests pursuant to subsection (a)(1) of this section and the person to whom such interests are to be transferred fail to agree, under paragraph (2), on the amount of, or method of determining, the consideration to be paid for such transfer, the Commission may, at the request of both such persons, prescribe the amount of, or method of determining, such consideration. Upon the request of either such person, the Commission shall make such determination on the record, after an opportunity for agency hearing. In any such latter case, the determination of the Commission shall be binding upon the party requesting that such determination be made on the record of the agency hearing. The consideration prescribed by the Commission shall not exceed the maximum consideration permitted as just compensation under this section. In prescribing the amount of, or method of determining, consideration under this paragraph, to the maximum extent practicable, the Commission shall utilize any liquidated damages provision set forth in the applicable contract, but in no event may the Commission prescribe consideration in excess of the maximum consideration permitted as just compensation under this section.
 
@@ -38,7 +38,7 @@ The person acquiring contractual interests transferred pursuant to subsection (a
 
 For purposes of this section—
 
-(1) The term “just compensation”, when used with respect to any transfer of contractual interests authorized by subsection (a)(1) of this section, means the maximum amount of, or method of determining, consideration which does not exceed the amount by which—
+(1) The term "just compensation", when used with respect to any transfer of contractual interests authorized by subsection (a)(1) of this section, means the maximum amount of, or method of determining, consideration which does not exceed the amount by which—
 
 &emsp;(A) the reasonable costs (excluding capital costs) incurred, during the remainder of the period of the contract with respect to which contractual interests are transferred under subsection (a)(1) of this section, in direct association with the use of a fuel, other than natural gas, as a primary energy source by the applicable existing electric powerplant, exceed
 
@@ -46,17 +46,17 @@ For purposes of this section—
 
 > For purposes of subparagraph (A), the reasonable costs associated with the use of a fuel, other than natural gas, as a primary energy source shall include an allowance for the amortization, over the remaining useful life, of the undepreciated value of depreciable assets located on the premises containing such electric powerplant, which assets were directly associated with the use of natural gas and are not usable in connection with the use of such other fuel.
 
-(2) The term “just compensation”, when used with respect to subsection (a)(2) of this section, means an amount equal to any loss of revenue, during the remaining period of the contract with respect to which contractual interests are transferred pursuant to subsection (a)(1) of this section, to the extent such loss (A) is directly incurred by reason of the discontinuation of the transportation or distribution of natural gas resulting from the transfer of contractual interests pursuant to subsection (a)(1) of this section, and (B) is not offset by revenues derived from other transportation or distribution which would not have occurred if such contractual interests had not been transferred.
+(2) The term "just compensation", when used with respect to subsection (a)(2) of this section, means an amount equal to any loss of revenue, during the remaining period of the contract with respect to which contractual interests are transferred pursuant to subsection (a)(1) of this section, to the extent such loss (A) is directly incurred by reason of the discontinuation of the transportation or distribution of natural gas resulting from the transfer of contractual interests pursuant to subsection (a)(1) of this section, and (B) is not offset by revenues derived from other transportation or distribution which would not have occurred if such contractual interests had not been transferred.
 
-(3) The term “contractual interests”, with respect to a contract described in subsection (a)(1) of this section, includes the right to receive natural gas as affected by any applicable curtailment plan filed with the Commission or the appropriate State regulatory authority.
+(3) The term "contractual interests", with respect to a contract described in subsection (a)(1) of this section, includes the right to receive natural gas as affected by any applicable curtailment plan filed with the Commission or the appropriate State regulatory authority.
 
-(4) The term “State” means each of the several States, the District of Columbia, Puerto Rico, any territory or possession of the United States, and any political subdivision of any of the foregoing.
+(4) The term "State" means each of the several States, the District of Columbia, Puerto Rico, any territory or possession of the United States, and any political subdivision of any of the foregoing.
 
-(5) The term “interstate pipeline” means any person engaged in the transportation of natural gas in interstate commerce subject to the jurisdiction of the Commission under the Natural Gas Act \[15 U.S.C. 717 et seq.\].
+(5) The term "interstate pipeline" means any person engaged in the transportation of natural gas in interstate commerce subject to the jurisdiction of the Commission under the Natural Gas Act \[15 U.S.C. 717 et seq.\].
 
-(6) The term “Commission” means the Federal Energy Regulatory Commission.
+(6) The term "Commission" means the Federal Energy Regulatory Commission.
 
-(7) The term “contract”, when used with respect to a contract for receipt of natural gas, which contract was in existence on April 20, 1977, does not include any renewal or extension occurring after such date unless such renewal or extension occurs pursuant to the exercise of an option by the person receiving natural gas under such contract.
+(7) The term "contract", when used with respect to a contract for receipt of natural gas, which contract was in existence on April 20, 1977, does not include any renewal or extension occurring after such date unless such renewal or extension occurs pursuant to the exercise of an option by the person receiving natural gas under such contract.
 
 #### (f) Coordination with Natural Gas Act
 
@@ -76,7 +76,7 @@ No supplier of natural gas under any contract, with respect to which contractual
 
 &emsp;(2) the volume which such supplier would have been required to supply, under the curtailment plan in effect for such supplier, to the person, who transferred contractual interests under subsection (a)(1) of this section, if no such transfer had occurred;
 
-&emsp;(3) the volume which would have been delivered, or for which payment would have been made, pursuant to such contract but for the prohibition on the use of such natural gas under subchapter III of this chapter or any rule or order thereunder; and
+&emsp;(3) the volume which would have been delivered, or for which payment would have beenmade, pursuant to such contract but for the prohibition on the use of such natural gas under subchapter III of this chapter or any rule or order thereunder; and
 
 &emsp;(4) the volume actually delivered or for which payment would have been made pursuant to such contract during the 12-calendar-month period ending immediately before such transfer of contractual interests pursuant to this section.
 
@@ -94,9 +94,9 @@ The Natural Gas Act, referred to in subsecs. (e)(5) and (f)(2), (3), is act June
 
 <b>1987</b>—Subsec. (a)(1). Pub. L. 100–42, §1(c)(21)(A), struck out reference to subchapter II of this chapter.
 
-Subsec. (e)(1). Pub. L. 100–42, §1(c)(21)(B), struck out “or major fuel-burning installation” after “powerplant” in subpar. (A) and “or major fuel-burning installation” after “powerplant” in last sentence.
+Subsec. (e)(1). Pub. L. 100–42, §1(c)(21)(B), struck out "or major fuel-burning installation" after "powerplant" in subpar. (A) and "or major fuel-burning installation" after "powerplant" in last sentence.
 
 Subsec. (g)(3). Pub. L. 100–42, §1(c)(21)(A), struck out reference to subchapter II of this chapter.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “jurisdiction”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "jurisdiction".</i>
 

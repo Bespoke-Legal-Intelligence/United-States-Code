@@ -58,5 +58,5 @@ Section 2106 provides that when a vessel is made liable in rem the vessel may be
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–304 substituted “the district court of the United States for any district” for “a district court of the United States”.
+<b>2006</b>—Pub. L. 109–304 substituted "the district court of the United States for any district" for "a district court of the United States".
 

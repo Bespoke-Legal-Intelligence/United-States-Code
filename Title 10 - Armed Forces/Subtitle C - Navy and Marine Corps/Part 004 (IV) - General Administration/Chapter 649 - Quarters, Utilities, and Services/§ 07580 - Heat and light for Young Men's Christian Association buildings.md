@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 Mar. 4, 1911, ch. 239, 36 Stat. 1274 (2d proviso).
 
-The words “naval activity” are substituted for the words “navy yards and stations” to use present terminology and provide the same coverage.
+The words "naval activity" are substituted for the words "navy yards and stations" to use present terminology and provide the same coverage.
 

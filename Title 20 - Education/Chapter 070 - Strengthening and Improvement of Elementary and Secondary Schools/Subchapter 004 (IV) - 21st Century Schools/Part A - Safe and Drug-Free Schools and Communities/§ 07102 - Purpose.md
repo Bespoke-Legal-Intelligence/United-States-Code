@@ -8,7 +8,7 @@ The purpose of this part is to support programs that prevent violence in and aro
 
 &emsp;(3) States for development, training, technical assistance, and coordination activities; and
 
-&emsp;(4) public and private entities to provide technical assistance; conduct training, demonstrations, and evaluation; and to provide supplementary services and community-wide drug and violence prevention planning and organizing activities for the prevention of drug use and violence among students and youth.
+&emsp;(4) public and private entities to provide technical assistance; conduct training, demonstrations, and evaluation; and to providesupplementary services and community-wide drug and violence prevention planning and organizing activities for the prevention of drug use and violence among students and youth.
 
 (Pub. L. 89–10, title IV, §4002, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1734.)
 

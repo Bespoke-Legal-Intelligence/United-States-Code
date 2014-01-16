@@ -18,7 +18,7 @@ The Corporation is hereby authorized to do the following:
 
 (3) Not more than 10 per centum of the maximum contingent liability of investment insurance which the Corporation is permitted to have outstanding under section 2195(a)(1) <sup>1</sup> of this title shall be issued to a single investor.
 
-(4) Before issuing insurance for the first time for loss due to business interruption, and in each subsequent instance in which a significant expansion is proposed in the type of risk to be insured under the definition of “civil strife” or “business interruption”, the Corporation shall, at least sixty days before such insurance is issued, submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report with respect to such insurance, including a thorough analysis of the risks to be covered, anticipated losses, and proposed rates and reserves and, in the case of insurance for loss due to business interruption, an explanation of the underwriting basis upon which the insurance is to be offered. Any such report with respect to insurance for loss due to business interruption shall be considered in accordance with the procedures applicable to reprogramming notifications pursuant to section 2394–1 of this title.
+(4) Before issuing insurance for the first time for loss due to business interruption, and in each subsequent instance in which a significant expansion is proposed in the type of risk to be insured under the definition of "civil strife" or "business interruption", the Corporation shall, at least sixty days before such insurance is issued, submit to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives a report with respect to such insurance, including a thorough analysis of the risks to be covered, anticipated losses, and proposed rates and reserves and, in the case of insurance for loss due to business interruption, an explanation of the underwriting basis upon which the insurance is to be offered. Any such report with respect to insurance for loss due to business interruption shall be considered in accordance with the procedures applicable to reprogramming notifications pursuant to section 2394–1 of this title.
 
 #### (b) Investment guaranties
 
@@ -42,7 +42,7 @@ To initiate and support through financial participation, incentive grant, or oth
 
 #### (e) Special projects and programs
 
-To administer and manage special projects and programs, including programs of financial and advisory support which provide private technical, professional, or managerial assistance in the development of human resources, skills, technology, capital savings and intermediate financial and investment institutions and cooperatives and including the initiation of incentives, grants, and studies for renewable energy and other small business activities. The funds for these projects and programs may, with theCorporation's concurrence, be transferred to it for such purposes under the authority of section 2392(a) of this title or from other sources, public or private. Administrative funds may not be made available for incentives, grants, and studies for renewable energy and other small business activities.
+To administer and manage special projects and programs, including programs of financial and advisory support which provide private technical, professional, or managerial assistance in the development of human resources, skills, technology, capital savings and intermediate financial and investment institutions and cooperatives and including the initiation of incentives, grants, and studies for renewable energy and other small business activities. The funds for these projects and programs may, with the Corporation's concurrence, be transferred to it for such purposes under the authority of section 2392(a) of this title or from other sources, public or private. Administrative funds may not be made available for incentives, grants, and studies for renewable energy and other small business activities.
 
 #### (f) Additional insurance functions
 
@@ -98,7 +98,7 @@ To issue to—
 
 > denominated in currencies other than United States dollars, of loans and other investments made to projects sponsored by or significantly involving eligible investors, assuring against loss due to such risks and upon such terms and conditions as the Corporation may determine, for projects that the Corporation determines to have significant developmental effects or as the Corporation determines to be necessary or appropriate to carry out the purposes of this subpart.
 
-(Pub. L. 87–195, pt. I, §234, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 811; amended 1970 Reorg. Plan No. 2, §102, eff. July 1, 1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–390, §2(2), Aug. 27, 1974, 88 Stat. 764; Pub. L. 95–268, §3, Apr. 24, 1978, 92 Stat. 214; Pub. L. 97–65, §4, Oct. 16, 1981, 95 Stat. 1022; Pub. L. 99–204, §§6(a), 7, 8, Dec. 23, 1985, 99 Stat. 1671, 1672; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–218, §8(c), Dec. 11, 1989, 103 Stat. 1868; Pub. L. 102–549, title I, §103, Oct. 28, 1992, 106 Stat. 3651; Pub. L. 106–31, title VI, §6001, May 21, 1999, 113 Stat. 112; Pub. L. 108–158, §§4(a), 5(a), Dec. 3, 2003, 117 Stat. 1950.)
+(Pub. L. 87–195, pt. I, §234, as added Pub. L. 91–175, pt. I, §105, Dec. 30, 1969, 83 Stat. 811; amended 1970 Reorg. Plan No. 2, §102, eff. July 1,1970, 35 F.R. 7959, 84 Stat. 2085; Pub. L. 93–390, §2(2), Aug. 27, 1974, 88 Stat. 764; Pub. L. 95–268, §3, Apr. 24, 1978, 92 Stat. 214; Pub. L. 97–65, §4, Oct. 16, 1981, 95 Stat. 1022; Pub. L. 99–204, §§6(a), 7, 8, Dec. 23, 1985, 99 Stat. 1671, 1672; Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36; Pub. L. 101–218, §8(c), Dec. 11, 1989, 103 Stat. 1868; Pub. L. 102–549, title I, §103, Oct. 28, 1992, 106 Stat. 3651; Pub. L. 106–31, title VI, §6001, May 21, 1999, 113 Stat. 112; Pub. L. 108–158, §§4(a), 5(a), Dec. 3, 2003, 117 Stat. 1950.)
 
 #### References in Text
 
@@ -110,61 +110,61 @@ The Federal Credit Reform Act of 1990, referred to in subsec. (g)(5), is title V
 
 Amendment by Pub. L. 100–461 is based on sections 103 and 104 of title I of H.R. 5263, One Hundredth Congress, as passed by the House of Representatives on Sept. 20, 1988, and sections 103 and 104 of title I of S. 2757, One Hundredth Congress, as reported Sept. 7, 1988, and enacted into law by Pub. L. 100–461.
 
-In subsec. (c), “section 1306 of title 31” substituted for “section 1415 of the Supplemental Appropriation Act, 1953, \[31 U.S.C. 724\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (c), "section 1306 of title 31" substituted for "section 1415 of the Supplemental Appropriation Act, 1953, \[31 U.S.C. 724\]" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a)(1)(B). Pub. L. 108–158, §4(a), inserted “or any political subdivision thereof” after “government”.
+<b>2003</b>—Subsec. (a)(1)(B). Pub. L. 108–158, §4(a), inserted "or any political subdivision thereof" after "government".
 
 Subsec. (h). Pub. L. 108–158, §5(a), added subsec. (h).
 
-<b>1999</b>—Subsec. (g). Pub. L. 106–31, §6000(1), struck out heading and text of par. designated as (c). Text read as follows: “The Corporation is authorized to establish a revolving fund to be available solely for the purposes specified in this subsection and to make transfers to the fund of a total of $10,000,000 (less amounts transferred to the fund before October 28, 1992) from its noncredit account revolving fund. The Corporation shall transfer to the fund in each fiscal year all amounts received by the Corporation during the preceding fiscal year as income on securities acquired under this subsection, and from the proceeds on the disposition of such securities. Purchases of, investments in, and other acquisitions of equity from the fund are authorized for any fiscal year only to the extent or in such amounts as are provided in advance in appropriations Acts or are transferred to the Corporation pursuant to section 2392(a) of this title.”
+<b>1999</b>—Subsec. (g). Pub. L. 106–31, §6000(1), struck out heading and text of par. designated as (c). Text read as follows: "The Corporation is authorized to establish a revolving fund to be available solely for the purposes specified in this subsection and to make transfers to the fund of a total of $10,000,000 (less amounts transferred to the fund before October 28, 1992) from its noncredit account revolving fund. The Corporation shall transfer to the fund in each fiscal year all amounts received by the Corporation during the preceding fiscal year as income on securities acquired under this subsection, and from the proceeds on the disposition of such securities. Purchases of, investments in, and other acquisitions of equity from the fund are authorized for any fiscal year only to the extent or in such amounts as are provided in advance in appropriations Acts or are transferred to the Corporation pursuant to section 2392(a) of this title."
 
-Subsec. (g)(2). Pub. L. 106–31, §6001(2), in heading, substituted “Equity authority limited to projects in sub-Saharan Africa and Caribbean basin and marine transportation projects globally” for “Limitation to projects in sub-Saharan Africa and Caribbean basin”, and, in text, inserted “and in marine transportation projects in countries and areas eligible for OPIC support worldwide using United States commercial maritime expertise” after “section 2702 of title 19”.
+Subsec. (g)(2). Pub. L. 106–31, §6001(2), in heading, substituted "Equity authority limited to projects in sub-Saharan Africa and Caribbean basin and marine transportation projects globally" for "Limitation to projects in sub-Saharan Africa and Caribbean basin", and, in text, inserted "and in marine transportation projects in countries and areas eligible for OPIC support worldwide using United States commercial maritime expertise" after "section 2702 of title 19".
 
 Subsec. (g)(5). Pub. L. 106–31, §6001(3), added par. (5).
 
-<b>1992</b>—Subsec. (g)(5). Pub. L. 102–549 amended par. (5) generally, substituting designation “(c)” for “(5)”. Prior to amendment, par. (5) read as follows: “
+<b>1992</b>—Subsec. (g)(5). Pub. L. 102–549 amended par. (5) generally, substituting designation "(c)" for "(5)". Prior to amendment, par. (5) read as follows: "
 
-Creation of fund from corporate revenues.—The Corporation is authorized to establish a fund to be available solely for the purposes specified in this subsection and to make a one-time transfer to the fund of $10,000,000 from its income and revenues.”
+Creation of fund from corporate revenues.—The Corporation is authorized to establish a fund to be available solely for the purposes specified in this subsection and to make a one-time transfer to the fund of $10,000,000 from its income and revenues."
 
-<b>1989</b>—Subsec. (e). Pub. L. 101–218 inserted “and including the initiation of incentives, grants, and studies for renewable energy and other small business activities” after “cooperatives” and inserted at end “Administrative funds may not be made available for incentives, grants, and studies for renewable energy and other small business activities.”
+<b>1989</b>—Subsec. (e). Pub. L. 101–218 inserted "and including the initiation of incentives, grants, and studies for renewable energy and other small business activities" after "cooperatives" and inserted at end "Administrative funds may not be made available for incentives, grants, and studies for renewable energy and other small business activities."
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–461, at end of first undesignated par., struck out “The Corporation may not purchase or invest in any stock in any other corporation, except that it may (1) accept as evidence of indebtedness debt securities convertible to stock, but such debt securities shall not be converted to stock while held by the Corporation, and (2) acquire stock through the enforcement of any lien or pledge or otherwise to satisfy a previously contracted indebtedness which would otherwise be in default, or as the result of any payment under any contract of insurance or guaranty. The Corporation shall dispose of any stock it may so acquire as soon as reasonably feasible under the circumstances then pertaining.” and added second undesignated par. relating to designation of up to 25 percent of loan for use in development or adaptation of new technologies or new products or services.
+<b>1988</b>—Subsec. (c). Pub. L. 100–461, at end of first undesignated par., struck out "The Corporation may not purchase or invest in any stock in any other corporation, except that it may (1) accept as evidence of indebtedness debt securities convertible to stock, but such debt securities shall not be converted to stock while held by the Corporation, and (2) acquire stock through the enforcement of any lien or pledge or otherwise to satisfy a previously contracted indebtedness which would otherwise be in default, or as the result of any payment under any contract of insurance or guaranty. The Corporation shall dispose of any stock it may so acquire as soon as reasonably feasible under the circumstances then pertaining." and added second undesignated par. relating to designation of up to 25 percent of loan for use in development or adaptation of new technologies or new products or services.
 
-Subsec. (f). Pub. L. 100–461, which directed that first sentence of last par. be struck out, was executed as probable intent of Congress by striking out first sentence of concluding provisions, before “The amount of reinsurance”, which read as follows: “The authority granted by paragraph (3) may be exercised notwithstanding the prohibition under subsection (c) of this section against the Corporation purchasing or investing in any stock in any other corporation.”
+Subsec. (f). Pub. L. 100–461, which directed that first sentence of last par. be struck out, was executed as probable intent of Congress by striking out first sentence of concluding provisions, before "The amount of reinsurance", which read as follows: "The authority granted by paragraph (3) may be exercised notwithstanding the prohibition under subsection (c) of this section against the Corporation purchasing or investing in any stock in any other corporation."
 
 Subsec. (g). Pub. L. 100–461 added subsec. (g).
 
 <b>1985</b>—Subsec. (a)(1)(D). Pub. L. 99–204, §6(a)(1), added subpar. (D).
 
-Subsec. (a)(4). Pub. L. 99–204, §6(a)(2), substituted “insurance for the first time for loss due to business interruption” for “civil strife insurance for the first time” and “definition of ‘civil strife’ or ‘business interruption’ ” for “definition of civil strife” and inserted provision that in the case of insurance for loss due to business interruption an explanation of the underwriting basis upon which the insurance is to be offered be submitted and provision that any report with respect to insurance for loss due to business interruption be considered in accordance with procedures applicable to reprogramming notifications pursuant to section 2394–1 of this title.
+Subsec. (a)(4). Pub. L. 99–204, §6(a)(2), substituted "insurance for the first time for loss due to business interruption" for "civil strife insurance for the first time" and "definition of 'civil strife' or 'business interruption' " for "definition of civil strife" and inserted provision that in the case of insurance for loss due to business interruption an explanation of the underwriting basis upon which the insurance is to be offered be submitted and provision that any report with respect to insurance for loss due to business interruption be considered in accordance with procedures applicable to reprogramming notifications pursuant to section 2394–1 of this title.
 
-Subsec. (b). Pub. L. 99–204, §7, substituted “15” for “10”.
+Subsec. (b). Pub. L. 99–204, §7, substituted "15" for "10".
 
-Subsec. (f)(2). Pub. L. 99–204, §8, struck out “other national or” after “arrangements with”.
+Subsec. (f)(2). Pub. L. 99–204, §8, struck out "other national or" after "arrangements with".
 
 <b>1981</b>—Subsec. (a)(1)(C). Pub. L. 97–65, §4(a)(1), inserted reference to civil strife.
 
-Subsec. (a)(2). Pub. L. 97–65, §4(a)(2), substituted “eligible investors in the project” for “eligible investors in the total project financing”.
+Subsec. (a)(2). Pub. L. 97–65, §4(a)(2), substituted "eligible investors in the project" for "eligible investors in the total project financing".
 
-Subsec. (a)(3). Pub. L. 97–65, §4(a)(3), substituted “which the Corporation is permitted to have outstanding under section 2195(a)(1) of this title” for “which the Corporation is authorized to issue under this subsection”.
+Subsec. (a)(3). Pub. L. 97–65, §4(a)(3), substituted "which the Corporation is permitted to have outstanding under section 2195(a)(1) of this title" for "which the Corporation is authorized to issue under this subsection".
 
 Subsec. (a)(4). Pub. L. 97–65, §4(a)(4), added par. (4).
 
-Subsec. (b). Pub. L. 97–65, §4(b)(1), substituted “which the Corporation is permitted to have outstanding under section 2195(a)(2) of this title” for “which the Corporation is authorized to issue under this subsection”.
+Subsec. (b). Pub. L. 97–65, §4(b)(1), substituted "which the Corporation is permitted to have outstanding under section 2195(a)(2) of this title" for "which the Corporation is authorized to issue under this subsection".
 
 Subsec. (f)(1). Pub. L. 97–65, §4(b)(2), struck out provisions under which the Corporation was prohibited from making or carrying out any association or risk-sharing agreement for the direct underwriting of insurance by the Corporation with others, other than on an individual basis where such direct underwriting facilitated the purposes of the Corporation as set forth in section 2191 of this title.
 
-Subsec. (f)(4). Pub. L. 97–65, §4(b)(3), struck out provisions which had placed a $600,000,000 limit in any one year on the amount of reinsurance which the Corporation may issue and which had directed the Corporation to endeavor to increase to the maximum extent possible the specified portions of liability, whether first loss or otherwise, which a reinsured party must retain for his own account.
+Subsec. (f)(4). Pub. L. 97–65, §4(b)(3), struck out provisions which had placed a $600,000,000 limit in any oneyear on the amount of reinsurance which the Corporation may issue and which had directed the Corporation to endeavor to increase to the maximum extent possible the specified portions of liability, whether first loss or otherwise, which a reinsured party must retain for his own account.
 
 <b>1978</b>—Subsec. (a)(2). Pub. L. 95–268, §3(1), struck out provisions relating to limitations on maximum share of liabilities assumed under par. (1) of this subsection.
 
-Subsec. (a)(3). Pub. L. 95–268, §3(2), substituted “maximum contingent liability” for “total face amount”.
+Subsec. (a)(3). Pub. L. 95–268, §3(2), substituted "maximum contingent liability" for "total face amount".
 
 Subsec. (a)(4) to (7). Pub. L. 95–268, §3(3), struck out pars. (4) to (7) which set forth requirements for participation by private insurance companies, multilateral organizations, or others in insurance programs, and limitations respecting participation by the Corporation as insurer under contracts of insurance.
 
-Subsec. (b). Pub. L. 95–268, §3(2), substituted “maximum contingent liability” for “total face amount”.
+Subsec. (b). Pub. L. 95–268, §3(2), substituted "maximum contingent liability" for "total face amount".
 
 Subsec. (c). Pub. L. 95–268, §3(4), (5), inserted provisions setting forth requirements respecting United States small businesses or cooperatives, and substituted provisions relating to aggregate amount of loans for mining or other extraction of ores or other nonfuel minerals, for provisions prohibiting loans for mining or other extraction of ores or other minerals.
 
@@ -172,7 +172,7 @@ Subsec. (d). Pub. L. 95–268, §3(6), substituted provisions setting forth exce
 
 Subsec. (f)(1). Pub. L. 95–268, §3(7), inserted provisions setting forth exceptions for agreements and contracts.
 
-<b>1974</b>—Subsec. (a)(2). Pub. L. 93–390, §2(2)(B), inserted “and institutions” after “multilateral organizations” and provisions relating to the maximum share of liabilities assumed under par. (1)(A) to (C) of this subsection.
+<b>1974</b>—Subsec. (a)(2). Pub. L. 93–390, §2(2)(B), inserted "and institutions" after "multilateral organizations" and provisions relating to the maximum share of liabilities assumed under par. (1)(A) to (C) of this subsection.
 
 Subsec. (a)(4) to (7). Pub. L. 93–390, §2(2)(C), added pars. (4) to (7).
 
@@ -188,7 +188,7 @@ Functions vested by law (including reorganization plan) in Bureau of the Budget 
 
 #### Extension of OPIC Authority
 
-Pub. L. 112–74, div. I, title VII, §7065(b), Dec. 23, 2011, 125 Stat. 1252, provided that: “Notwithstanding section 235(a)(2) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2195(a)(2)\], the authority of subsections (a) through (c) of section 234 of such Act \[22 U.S.C. 2194(a)–(c)\] shall remain in effect until September 30, 2012.”
+Pub. L. 112–74, div. I, title VII, §7065(b), Dec. 23, 2011, 125 Stat. 1252, provided that: "Notwithstanding section 235(a)(2) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2195(a)(2)\], the authority of subsections (a) through (c) of section 234 of such Act \[22 U.S.C. 2194(a)–(c)\] shall remain in effect until September 30, 2012."
 
 Similar provisions were contained in the following prior appropriations acts:
 
@@ -200,7 +200,7 @@ Pub. L. 110–161, div. J, title VI, §634(t), Dec. 26, 2007, 121 Stat. 2331.
 
 #### Appropriation of Moneys in Advance as Requisite to Purchases, Investments, or Other Acquisitions of Equity by Fund Created Under Pilot Equity Finance Program
 
-Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36, provided in part: “That purchases, investments or other acquisitions of equity by the fund created by section 104 of H.R. 5263 as hereby enacted \[22 U.S.C. 2194(g)(5)\] are limited to such amounts as may be provided in advance in appropriations Acts”, and further provided “That purchases, investments or other acquisitions of equity by the fund created by section 104 of S. 2757 as hereby enacted \[22 U.S.C. 2194(g)(5)\] are limited to such amounts as may be provided in advance in appropriations Acts”.
+Pub. L. 100–461, title V, §555, Oct. 1, 1988, 102 Stat. 2268–36, provided in part: "That purchases, investments or other acquisitions of equity by the fund created by section 104 of H.R. 5263 as hereby enacted \[22 U.S.C. 2194(g)(5)\] are limited to such amounts as may be provided in advance in appropriations Acts", and further provided "That purchases, investments or other acquisitions of equity by the fund created by section 104 of S. 2757 as hereby enacted \[22 U.S.C. 2194(g)(5)\] are limited to such amounts as may be provided in advance in appropriations Acts".
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

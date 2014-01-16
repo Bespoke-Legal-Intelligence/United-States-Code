@@ -2,7 +2,7 @@
 
 #### (a) Compensation provided
 
-An individual who receives, or has received, $100,000 under section 5 of the Radiation Exposure Compensation Act (42 U.S.C. 2210 note) for a claim made under that Act (hereafter in this section referred to as a “covered uranium employee”), or the survivor of that covered uranium employee if the employee is deceased, shall receive compensation under this section in the amount of $50,000.
+An individual who receives, or has received, $100,000 under section 5 of the Radiation Exposure Compensation Act (42 U.S.C. 2210 note) for a claim made under that Act (hereafter in this section referred to as a "covered uranium employee"), or the survivor of that covered uranium employee if the employee is deceased, shall receive compensation under this section in the amount of $50,000.
 
 #### (b) Medical benefits
 
@@ -42,15 +42,15 @@ The compensation provided under this section and the compensation provided under
 
 (3) For purposes of this subsection—
 
-&emsp;(A) the “spouse” of an individual is a wife or husband of that individual who was married to that individual for at least one year immediately before the death of that individual;
+&emsp;(A) the "spouse" of an individual is a wife or husband of that individual who was married to that individual for at least one year immediately before the death of that individual;
 
-&emsp;(B) a “child” includes a recognized natural child, a stepchild who lived with an individual in a regular parent-child relationship, and an adopted child;
+&emsp;(B) a "child" includes a recognized natural child, a stepchild who lived with an individual in a regular parent-child relationship, and an adopted child;
 
-&emsp;(C) a “parent” includes fathers and mothers through adoption;
+&emsp;(C) a "parent" includes fathers and mothers through adoption;
 
-&emsp;(D) a “grandchild” of an individual is a child of a child of that individual; and
+&emsp;(D) a "grandchild" of an individual is a child of a child of that individual; and
 
-&emsp;(E) a “grandparent” of an individual is a parent of a parent of that individual.
+&emsp;(E) a "grandparent" of an individual is a parent of a parent of that individual.
 
 #### (f) Procedures required
 
@@ -68,13 +68,13 @@ The Radiation Exposure Compensation Act, referred to in subsecs. (a) to (d), is 
 
 #### Amendments
 
-<b>2004</b>—Subsec. (d). Pub. L. 108–375 inserted “and the compensation provided under section 5 of the Radiation Exposure Compensation Act” after “The compensation provided under this section”.
+<b>2004</b>—Subsec. (d). Pub. L. 108–375 inserted "and the compensation provided under section 5 of the Radiation Exposure Compensation Act" after "The compensation provided under this section".
 
 <b>2001</b>—Subsec. (e). Pub. L. 107–107 amended heading and text of subsec. (e) generally. Prior to amendment, text read as follows:
 
-“(1) Subject to the provisions of this section, if a covered uranium employee dies before the effective date specified in subsection (g) of this section, whether or not the death is a result of the illness specified in subsection (b) of this section, a survivor of that employee may, on behalf of that survivor and any other survivors of that employee, receive the compensation provided for under this section.
+"(1) Subject to the provisions of this section, if a covered uranium employee dies before the effective date specified in subsection (g) of this section, whether or not the death is a result of the illness specified in subsection (b) of this section, a survivor of that employee may, on behalf of that survivor and any other survivors of that employee, receive the compensation provided for under this section.
 
-“(2) The right to receive compensation under this section shall be afforded to survivors in the same order of precedence as that set forth in section 8109 of title 5.”
+"(2) The right to receive compensation under this section shall be afforded to survivors in the same order of precedence as that set forth in section 8109 of title 5."
 
 #### Effective Date of 2001 Amendment
 

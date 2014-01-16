@@ -8,7 +8,7 @@ The Administrator (or another Federal department or agency designated by the Adm
 
 &emsp;(2) Operation of a voluntary proficiency program for rating the effectiveness of radon measurement devices and methods, the effectiveness of radon mitigation devices and methods, and the effectiveness of private firms and individuals offering radon-related architecture, design, engineering, measurement, and mitigation services. The proficiency program under this subparagraph shall be in operation within one year after October 28, 1988.
 
-&emsp;(3) Design and implementation of training seminars for State and local officials and private and professional firms dealing with radonand addressing topics such as monitoring, analysis, mitigation, health effects, public information, and program design.
+&emsp;(3) Design and implementation of training seminars for State and local officials and private and professional firms dealing with radon and addressing topics such as monitoring, analysis, mitigation, health effects, public information, and program design.
 
 &emsp;(4) Publication of public information materials concerning radon health risks and methods of radon mitigation.
 
@@ -58,7 +58,7 @@ The Administrator, or another Federal department or agency designated by the Adm
 
 #### (5) Research
 
-&emsp;The Administrator shall, in conjunction with other Federal agencies, conduct research to develop, test, and evaluate radon and radon progeny measurement methods and protocols. The purpose of such research shall be to assess the ability of those methods and protocols to accurately assess exposure to radon progeny. Such research shall include—
+&emsp;The Administrator shall, in conjunction with other Federal agencies, conduct research to develop, test, and evaluate radon and radonprogeny measurement methods and protocols. The purpose of such research shall be to assess the ability of those methods and protocols to accurately assess exposure to radon progeny. Such research shall include—
 
 &emsp;&emsp;(A) conducting comparisons among radon and radon progeny measurement techniques;
 
@@ -104,7 +104,7 @@ The Administrator, or another Federal department or agency designated by the Adm
 
 #### Amendments
 
-<b>1995</b>—Subsecs. (d) to (f). Pub. L. 104–66 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out heading and text of former subsec. (d). Text read as follows: “Within 9 months after October 28, 1988, and annually thereafter, the Administrator shall submit to Congress a plan identifying assistance to be provided under this section and outlining personnel and financial resources necessary to implement this section. Prior to submission to Congress, this plan shall be reviewed by the advisory groups provided for in section 403(c) of the Superfund Amendments and Reauthorization Act of 1986 (42 U.S.C. 7401 note).”
+<b>1995</b>—Subsecs. (d) to (f). Pub. L. 104–66 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out heading and text of former subsec. (d). Text read as follows: "Within 9 months after October 28, 1988, and annually thereafter, the Administrator shall submit to Congress a plan identifying assistance to be provided under this section and outlining personnel and financial resources necessary to implement this section. Prior to submission to Congress, this plan shall be reviewed by the advisory groups provided for in section 403(c) of the Superfund Amendments and Reauthorization Act of 1986 (42 U.S.C. 7401 note)."
 
 <b>1990</b>—Subsec. (e)(5) to (7). Pub. L. 101–508 added pars. (5) to (7).
 

@@ -40,7 +40,7 @@ States shall be deemed to have established the reciprocity required to satisfy s
 
 #### (2) Continuing education requirements
 
-&emsp;A majority of the States accept an insurance producer's satisfaction of its home State's continuing education requirements for licensed insurance producers to satisfy the States’ own continuing education requirements if the producer's home State also recognizes the satisfaction of continuing education requirements on such a reciprocal basis.
+&emsp;A majority of the States accept an insurance producer's satisfaction of its home State's continuing education requirements for licensed insurance producers to satisfy the States' own continuing education requirements if the producer's home State also recognizes the satisfaction of continuing education requirements on such a reciprocal basis.
 
 #### (3) No limiting nonresident requirements
 
@@ -54,7 +54,7 @@ States shall be deemed to have established the reciprocity required to satisfy s
 
 #### (1) NAIC determination
 
-&emsp;At the end of the 3-year period beginning on November 12, 1999, the National Association of Insurance Commissioners (hereafter in this subchapter referred to as the “NAIC”) shall determine, in consultation with the insurance commissioners or chief insurance regulatory officials of the States, whether the uniformity or reciprocity required by subsections (b) and (c) of this section has been achieved.
+&emsp;At the end of the 3-year period beginning on November 12, 1999, the National Association of Insurance Commissioners (hereafter in this subchapter referred to as the "NAIC") shall determine, in consultation with the insurance commissioners or chief insurance regulatory officials of the States, whether the uniformity or reciprocity required by subsections (b) and (c) of this section has been achieved.
 
 #### (2) Judicial review
 
@@ -66,7 +66,7 @@ If, at any time, the uniformity or reciprocity required by subsections (b) and (
 
 #### (f) Savings provision
 
-No provision of this section shall be construed as requiring that any law, regulation, provision, or action of any State which purports to regulate insurance producers, including any such law, regulation, provision, or action which purports to regulate unfair trade practices or establish consumer protections, including countersignature laws, be altered or amended in order to satisfy the uniformity or reciprocity required by subsections (b) and (c) of this section, unless any such law, regulation, provision, oraction is inconsistent with a specific requirement of any such subsection and then only to the extent of such inconsistency.
+No provision of this section shall be construed as requiring that any law, regulation, provision, or action of any State which purports to regulate insurance producers, including any such law, regulation, provision, or action which purports to regulate unfair trade practices or establish consumer protections, including countersignature laws, be altered or amended in order to satisfy the uniformity or reciprocity required by subsections (b) and (c) of this section, unless any such law, regulation, provision, or action is inconsistent with a specific requirement of any such subsection and then only to the extent of such inconsistency.
 
 #### (g) Uniform licensing
 

@@ -10,7 +10,7 @@ In this section, the following definitions apply:
 
 &emsp;&emsp;(A) relevant criminal history databases;
 
-&emsp;&emsp;(B) in the case of an alien (as defined in the Immigration and Nationality Act (8U.S.C. 1101(a)(3)),<sup>1</sup> the relevant databases to determine the status of the alien under the immigration laws of the United States; and
+&emsp;&emsp;(B) in the case of an alien (as defined in the Immigration and Nationality Act (8 U.S.C. 1101(a)(3)),<sup>1</sup> the relevant databases to determine the status of the alien under the immigration laws of the United States; and
 
 &emsp;&emsp;(C) other relevant information or databases, as determined by the Secretary.
 
@@ -64,7 +64,7 @@ Nothing in this section shall be construed to affect the process for review esta
 
 #### References in Text
 
-The Immigration and Nationality Act, referred to in subsec. (a)(1)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. The term “alien” is defined in section 101(a)(3) of the Act which is classified to section 1101(a)(3) of Title 8. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+The Immigration and Nationality Act, referred to in subsec. (a)(1)(B), is act June 27, 1952, ch. 477, 66 Stat.163, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. The term “alien” is defined in section 101(a)(3) of the Act which is classified to section 1101(a)(3) of Title 8. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
 
 <i><sup>1</sup></i><i> So in original. Another closing parenthesis probably should precede the comma.</i>
 

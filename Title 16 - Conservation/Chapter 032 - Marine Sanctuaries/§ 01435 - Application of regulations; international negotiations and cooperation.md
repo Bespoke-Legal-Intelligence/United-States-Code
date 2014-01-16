@@ -22,9 +22,9 @@ The Secretary, in consultation with the Secretary of State and other appropriate
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–587, §2105(b), substituted “; international negotiations and cooperation” for “and international negotiations” in section catchline.
+<b>1992</b>—Pub. L. 102–587, §2105(b), substituted "; international negotiations and cooperation" for "and international negotiations" in section catchline.
 
-Subsec. (a). Pub. L. 102–587, §2105(a)(1), substituted “This chapter and the regulations” for “The regulations” and inserted “or be enforced against” after “apply to”.
+Subsec. (a). Pub. L. 102–587, §2105(a)(1), substituted "This chapter and the regulations" for "The regulations" and inserted "or be enforced against" after "apply to".
 
 Subsec. (c). Pub. L. 102–587, §2105(a)(2), added subsec. (c).
 
@@ -32,5 +32,5 @@ Subsec. (c). Pub. L. 102–587, §2105(a)(2), added subsec. (c).
 
 For direction that the Secretary of State seek effective international action and cooperation through the development of appropriate international rules and regulations in support of the policy of this chapter and chapter 27 of Title 33, Navigation and Navigable Waters, see section 1419 of Title 33.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “multilateral”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "multilateral".</i>
 

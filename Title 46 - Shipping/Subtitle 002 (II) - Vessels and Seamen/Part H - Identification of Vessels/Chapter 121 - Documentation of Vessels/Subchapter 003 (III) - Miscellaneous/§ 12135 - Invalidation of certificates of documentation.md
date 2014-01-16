@@ -22,5 +22,5 @@ Historical and Revision Notes
 
 46:12111(a).
 
-In paragraph (2), the words “except for a recreational endorsement” are omitted as unnecessary because a recreational endorsement does not permit a vessel to engage in a trade.
+In paragraph (2), the words "except for a recreational endorsement" are omitted as unnecessary because a recreational endorsement does not permit a vessel to engage in a trade.
 

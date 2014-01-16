@@ -10,7 +10,7 @@ Notwithstanding any other provision of Federal, State, or local law, and subject
 
 &emsp;(3) subject to disclosure pursuant to section 552 of title 5 (commonly known as the Freedom of Information Act) or any other similar Federal, State, or local law;
 
-&emsp;(4) admitted as evidence in any Federal, State, or local governmental civil proceeding, criminal proceeding, administrative rulemaking proceeding, or administrative adjudicatory proceeding, including any such proceeding against a provider; or
+&emsp;(4) admitted as evidence in any Federal, State, or local governmental civil proceeding,criminal proceeding, administrative rulemaking proceeding, or administrative adjudicatory proceeding, including any such proceeding against a provider; or
 
 &emsp;(5) admitted in a professional disciplinary proceeding of a professional disciplinary body established or specifically authorized under State law.
 
@@ -106,7 +106,7 @@ Except as provided in subsection (g)(3) of this section—
 
 #### (2) Adverse employment action
 
-&emsp;For purposes of this subsection, an “adverse employment action” includes—
+&emsp;For purposes of this subsection, an "adverse employment action" includes—
 
 &emsp;&emsp;(A) loss of employment, the failure to promote an individual, or the failure to provide any other employment-related benefit for which the individual would otherwise be eligible; or
 
@@ -124,7 +124,7 @@ Except as provided in subsection (g)(3) of this section—
 
 #### (3) Relation to HIPAA
 
-&emsp;Penalties shall not be imposed both under this subsection and under the regulations issued pursuant to section 264(c)(1) of the HealthInsurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note) for a single act or omission.
+&emsp;Penalties shall not be imposed both under this subsection and under the regulations issued pursuant to section 264(c)(1) of the Health Insurance Portability and Accountability Act of 1996 (42 U.S.C. 1320d–2 note) for a single act or omission.
 
 #### (4) Equitable relief
 

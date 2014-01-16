@@ -20,29 +20,25 @@ Mississippi is divided into two judicial districts to be known as the northern a
 
 ### Southern District
 
-(b) The southern district comprises five divisions.
+(b) The southern district comprises four divisions.
 
-&emsp;&emsp;(1) The Jackson division comprises the counties of Amite, Copiah, Franklin, Hinds, Holmes, Leake, Lincoln, Madison, Pike, Rankin, Scott, Simpson, and Smith.
+&emsp;&emsp;(1) The Northern Division comprises the counties of Copiah, Hinds, Holmes, Issaquena, Kemper, Lauderdale, Leake, Madison, Neshoba, Newton, Noxubee, Rankin, Scott, Simpson, Sharkey, Smith, Warren, and Yazoo.
 
-&emsp;&emsp;Court for the Jackson division shall be held at Jackson.
+&emsp;&emsp;Court for the Northern Division shall be held at Jackson.
 
-&emsp;&emsp;(2) The eastern division comprises the counties of Clarke, Jasper, Kemper, Lauderdale, Neshoba, Newton, Noxubee, and Wayne.
+&emsp;&emsp;(2) The Southern Division comprises the counties of George, Greene, Hancock, Harrison, Jackson, Pearl River, and Stone.
 
-&emsp;&emsp;Court for the eastern division shall be held at Meridian.
+&emsp;&emsp;Court for the Southern Division shall be held at Gulfport.
 
-&emsp;&emsp;(3) The western division comprises the counties of Adams, Claiborne, Issaquena, Jefferson, Sharkey, Warren, Wilkinson, and Yazoo.
+&emsp;&emsp;(3) The Eastern Division comprises the counties of Clarke, Covington, Forrest, Jasper, Jefferson Davis, Jones, Lamar, Lawrence, Marion, Perry, Wayne, and Walthall.
 
-&emsp;&emsp;Court for the western division shall be held at Natchez and Vicksburg.
+&emsp;&emsp;Court for the Eastern Division shall be held at Hattiesburg.
 
-&emsp;&emsp;(4) The southern division comprises the counties of George, Hancock, Harrison, Jackson, Pearl River, and Stone.
+&emsp;&emsp;(4) The Western Division comprises the counties of Adams, Amite, Claiborne, Franklin, Jefferson, Lincoln, Pike, and Wilkinson.
 
-&emsp;&emsp;Court for the southern division shall be held at Biloxi and Gulfport.
+&emsp;&emsp;Court for the Western Division shall be held at Natchez.
 
-&emsp;&emsp;(5) The Hattiesburg division comprises the counties of Covington, Forrest, Greene, Jefferson Davis, Jones, Lamar, Lawrence, Marion, Perry, and Walthall.
-
-&emsp;&emsp;Court for the Hattiesburg division shall be held at Hattiesburg.
-
-(June 25, 1948, ch. 646, 62 Stat. 883; Aug. 7, 1950, ch. 601, 64 Stat. 415; Pub. L. 90–92, Sept. 27, 1967, 81 Stat. 229; Pub. L. 91–546, §§2, 3, Dec. 14, 1970, 84 Stat. 1412; Pub. L. 95–408, §2(b), Oct. 2, 1978, 92 Stat. 883; Pub. L. 106–130, §1, Dec. 6, 1999, 113 Stat. 1677; Pub. L. 108–455, §2, Dec. 10, 2004, 118 Stat. 3628; Pub. L. 112–188, §3, Oct. 5, 2012, 126 Stat. 1433.)
+(June 25, 1948, ch. 646, 62 Stat. 883; Aug. 7, 1950, ch. 601, 64 Stat. 415; Pub. L. 90–92, Sept. 27, 1967, 81 Stat. 229; Pub. L. 91–546, §§2, 3, Dec. 14, 1970, 84 Stat. 1412; Pub. L. 95–408, §2(b), Oct. 2, 1978, 92 Stat. 883; Pub. L. 106–130, §1, Dec. 6, 1999, 113 Stat. 1677; Pub. L. 108–455, §2, Dec. 10, 2004, 118 Stat. 3628; Pub. L. 112–188, §3, Oct. 5, 2012, 126 Stat. 1433; Pub. L. 113–61, §1, Dec. 20, 2013, 127 Stat. 665.)
 
 #### Historical and Revision Notes
 
@@ -54,11 +50,13 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
+<b>2013</b>—Subsec. (b). Pub. L. 113–61 amended subsec. (b) generally. Prior to amendment, subsec. (b) related to southern judicial district of Mississippi comprising five divisions and provided for holding court in those divisions.
+
 <b>2012</b>—Subsec. (a). Pub. L. 112–188 added subsec. (a) and struck out former subsec. (a) which related to northern judicial district of Mississippi comprising four divisions and provided for holding court in those divisions.
 
-<b>2004</b>—Subsec. (a)(3). Pub. L. 108–455 inserted “and Cleveland” after “Clarksdale”.
+<b>2004</b>—Subsec. (a)(3). Pub. L. 108–455 inserted "and Cleveland" after "Clarksdale".
 
-<b>1999</b>—Subsec. (b)(3). Pub. L. 106–130, in second sentence, struck out “: <i>Provided</i>, That court shall be held at Natchez if suitable quarters and accommodations are furnished at no cost to the United States” before period at end.
+<b>1999</b>—Subsec. (b)(3). Pub. L. 106–130, in second sentence, struck out ": <i>Provided</i>, That court shall be held at Natchez if suitable quarters and accommodationsare furnished at no cost to the United States" before period at end.
 
 <b>1978</b>—Subsec. (a)(1). Pub. L. 95–408 provided for holding court at Corinth.
 
@@ -70,9 +68,13 @@ Subsec. (b)(4). Pub. L. 91–546, §2, provided for holding court at Gulfport.
 
 <b>1950</b>—Act Aug. 7, 1950, created Greenville division in the northern district with terms of courts to be held at Greenville.
 
+#### Effective Date of 2013 Amendment
+
+Pub. L. 113–61, §2, Dec. 20, 2013, 127 Stat. 665, provided that: "This Act \[amending this section\] and the amendment made by this Act shall take effect on the date of the enactment of this Act \[Dec. 20, 2013\]."
+
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–188, §4, Oct. 5, 2012, 126 Stat. 1434, provided that: “The amendments made by this Act \[amending this section and section 105 of this title\] take effect on the 60th day after the date of the enactment of this Act \[Oct. 5, 2012\].”
+Pub. L. 112–188, §4, Oct. 5, 2012, 126 Stat. 1434, provided that: "The amendments made by this Act \[amending this section and section 105 of this title\] take effect on the 60th day after the date of the enactment of this Act \[Oct. 5, 2012\]."
 
 #### Effective Date of 1978 Amendment; Savings Provision
 

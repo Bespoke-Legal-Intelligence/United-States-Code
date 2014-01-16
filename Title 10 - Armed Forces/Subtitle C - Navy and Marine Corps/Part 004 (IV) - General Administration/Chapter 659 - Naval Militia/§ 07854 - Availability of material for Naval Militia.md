@@ -22,11 +22,11 @@ Historical and Revision Notes
 
 July 9, 1952, ch. 608, §504, 66 Stat. 500.
 
-The words “are or may be made”, before the word “available”, are omitted as surplusage.
+The words "are or may be made", before the word "available", are omitted as surplusage.
 
-In clause (1) the word “members” is substituted for the word “personnel”.
+In clause (1) the word "members" is substituted for the word "personnel".
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” and “any State, the District of Columbia, Guam, or the Virgin Islands” for “any State, any Territory, or the District of Columbia” in introductory provisions and substituted “Navy Reserve” for “Naval Reserve” in par. (1).
+<b>2006</b>—Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve" and "any State, the District of Columbia, Guam, or the Virgin Islands" for "any State, any Territory, or the District of Columbia" in introductory provisions and substituted "Navy Reserve" for "Naval Reserve" in par. (1).
 

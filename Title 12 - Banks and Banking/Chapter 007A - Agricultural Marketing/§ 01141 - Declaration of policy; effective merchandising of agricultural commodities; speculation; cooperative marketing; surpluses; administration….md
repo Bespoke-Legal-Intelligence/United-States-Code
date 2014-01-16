@@ -22,7 +22,7 @@ Section was formerly classified to section 521 of Title 7, Agriculture.
 
 #### Change of Name
 
-“Farm Credit Administration” and “administration” substituted in text for “Federal Farm Loan Board” and “board”, respectively, pursuant to Ex. Ord. No. 6084, set out preceding section 2241 of this title.
+"Farm Credit Administration" and "administration" substituted in text for "Federal Farm Loan Board" and "board", respectively, pursuant to Ex. Ord. No. 6084, set out preceding section 2241 of this title.
 
 #### Short Title
 
@@ -30,7 +30,7 @@ For short title of this chapter as the Agricultural Marketing Act, see section 1
 
 #### Transfer of Functions
 
-Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm Credit Administration and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq. of this title.
+Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm CreditAdministration and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq. of this title.
 
 #### Exceptions From Transfer of Functions
 

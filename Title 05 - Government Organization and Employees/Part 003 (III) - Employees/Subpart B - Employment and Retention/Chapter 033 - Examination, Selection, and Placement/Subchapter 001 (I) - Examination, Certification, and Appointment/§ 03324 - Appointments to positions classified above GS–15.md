@@ -10,7 +10,7 @@
 
 &emsp;(4) the incumbent of which is paid from—
 
-&emsp;&emsp;(A) appropriations for the Executive Office of the President under the heading “The White House Office”, “Special Projects”, “Council of Economic Advisers”, or “National Security Council”; or
+&emsp;&emsp;(A) appropriations for the Executive Office of the President under the heading “TheWhite House Office”, “Special Projects”, “Council of Economic Advisers”, or “National Security Council”; or
 
 &emsp;&emsp;(B) funds appropriated to the President under the heading “Emergency Fund for the President” by the Treasury, Post Office, and Executive Office Appropriation Act, 1966, or a later statute making appropriations for the same purpose.
 

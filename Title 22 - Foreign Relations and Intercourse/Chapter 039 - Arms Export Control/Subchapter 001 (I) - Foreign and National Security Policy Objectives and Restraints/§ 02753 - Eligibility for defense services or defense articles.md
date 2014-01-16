@@ -78,7 +78,7 @@ The consent of the President under paragraph (2) of subsection (a) of this secti
 
 (ii) For the purpose of expediting the consideration and enactment of joint resolutions under this paragraph, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
 
-(3)(A) Subject to paragraph (5), the President may not give his consent to the transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or of any defense article or defense service valued (in terms of its original acquisition cost) at $50,000,000 or more, the export of which has been licensed or approved under section 2778 of this title or has been exempted from the licensing requirements of this chapter pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title where such treaty does not authorize the transfer without prior United States Government approval, unless before giving such consent the President submits to the Speaker of the Houseof Representatives and the Chairman of the Committee on Foreign Relations of the Senate a certification containing the information specified in subparagraphs (A) through (E) of paragraph (1). Such certification shall be submitted—
+(3)(A) Subject to paragraph (5), the President may not give his consent to the transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or of any defense article or defense service valued (in terms of its original acquisition cost) at $50,000,000 or more, the export of which has been licensed or approved under section 2778 of this title or has been exempted from the licensing requirements of this chapter pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title where such treaty does not authorize the transfer without prior United States Government approval, unless before giving such consent the President submits to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a certification containing the information specified in subparagraphs (A) through (E) of paragraph (1). Such certification shall be submitted—
 
 &emsp;(i) at least 15 calendar days before such consent is given in the case of a transfer to a country which is a member of the North Atlantic Treaty Organization or Australia, Japan, the Republic of Korea, Israel, or New Zealand; and
 
@@ -86,7 +86,7 @@ The consent of the President under paragraph (2) of subsection (a) of this secti
 
 > unless the President states in his certification that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States. If the President states in his certification that such an emergency exists (thus waiving the requirements of clause (i) or (ii), as the case may be, and of subparagraph (B)) the President shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that consent to the proposed transfer become effective immediately and a discussion of the national security interests involved.
 
-(B) Consent to a transfer subject to subparagraph (A) shall become effective after the end of the 15-day or 30-day period specified in subparagraph (A)(i) or (ii), as the case may be, only if the Congress does not enact, within that period, a joint resolution prohibiting the proposed transfer.
+(B) Consent to a transfer subject to subparagraph (A) shall become effective after the end of the 15-day or 30-day period specified in subparagraph (A)(i) or (ii), as the case may be, only ifthe Congress does not enact, within that period, a joint resolution prohibiting the proposed transfer.
 
 (C)(i) Any joint resolution under this paragraph shall be considered in the Senate in accordance with the provisions of section 601(b) of the International Security Assistance and Arms Export Control Act of 1976.
 
@@ -122,33 +122,33 @@ No sales or leases shall be made to any country that the President has determine
 
 Any agreement for the sale or lease of any article on the United States Munitions List entered into by the United States Government after November 29, 1999, shall state that the United States Government retains the right to verify credible reports that such article has been used for a purpose not authorized under section 2754 of this title or, if such agreement provides that such article may only be used for purposes more limited than those authorized under section 2754 of this title, for a purpose not authorized under such agreement.
 
-(Pub. L. 90–629, ch. 1, §3, Oct. 22, 1968, 82 Stat. 1322; Pub. L. 91–672, §1, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, §25(2), Dec. 17, 1973, 87 Stat. 729; Pub. L. 93–559, §45(a)(1), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §§203(a), 204(a), (b)(1), title III, §304(b), June 30, 1976, 90 Stat. 735, 736, 754, 755; Pub. L. 95–92, §§15–18, Aug. 4, 1977, 91 Stat. 622; Pub. L. 96–92, §11, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §101, Dec. 16, 1980, 94 Stat. 3131; Pub. L. 97–113, title I, §§101(a), 102(a), 109(b)(2), Dec. 29, 1981, 95 Stat. 1519, 1520, 1526; Pub. L. 99–83, title I, §115(b)(2), title V, §503(b), Aug. 8, 1985, 99 Stat. 201, 221; Pub. L. 99–145, title XI, §1102(a)(3), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–247, §1(a), Feb. 12, 1986, 100 Stat. 9; Pub. L. 99–661, div. A, title XIII, §1342(e), Nov. 14, 1986,100 Stat. 3991; Pub. L. 100–461, title V, §577, Oct. 1, 1988, 102 Stat. 2268–45; Pub. L. 101–222, §2(b), Dec. 12, 1989, 103 Stat. 1896; Pub. L. 103–236, title VIII, §822(a)(1), Apr. 30, 1994, 108 Stat. 511; Pub. L. 104–164, title I, §§141(a), (b), 142, July 21, 1996, 110 Stat. 1430, 1431, 1433; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1225\], Nov. 29, 1999, 113 Stat. 1536, 1501A–499; Pub. L. 107–228, div. B, title XIV, §1405(a)(1), Sept. 30, 2002, 116 Stat. 1456; Pub. L. 110–429, title II, §203(b)(1), (2), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title I, §§102(a), 104(a), title III, §301, Oct. 8, 2010, 124 Stat. 2797, 2799, 2804.)
+(Pub. L. 90–629, ch. 1, §3, Oct. 22, 1968, 82 Stat. 1322; Pub. L. 91–672, §1, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, §25(2), Dec. 17, 1973, 87 Stat. 729; Pub. L. 93–559, §45(a)(1), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §§203(a), 204(a), (b)(1), title III, §304(b), June 30, 1976, 90 Stat. 735, 736, 754, 755; Pub. L. 95–92, §§15–18, Aug. 4, 1977, 91 Stat. 622; Pub. L. 96–92, §11, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §101, Dec. 16, 1980, 94 Stat. 3131; Pub. L. 97–113, title I, §§101(a), 102(a), 109(b)(2), Dec. 29, 1981, 95 Stat. 1519, 1520, 1526; Pub. L. 99–83, title I, §115(b)(2), title V, §503(b), Aug. 8, 1985, 99 Stat. 201, 221; Pub. L. 99–145, title XI, §1102(a)(3), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–247, §1(a), Feb. 12, 1986, 100 Stat. 9; Pub. L. 99–661, div. A, title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 100–461, title V, §577, Oct. 1, 1988, 102 Stat. 2268–45; Pub. L. 101–222, §2(b), Dec. 12, 1989, 103 Stat. 1896; Pub. L. 103–236, title VIII, §822(a)(1), Apr. 30, 1994, 108 Stat. 511; Pub. L. 104–164, title I, §§141(a), (b), 142, July 21, 1996, 110 Stat. 1430, 1431, 1433; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1225\], Nov. 29, 1999, 113 Stat. 1536, 1501A–499; Pub. L. 107–228, div. B, title XIV, §1405(a)(1), Sept. 30, 2002, 116 Stat. 1456; Pub. L. 110–429, title II, §203(b)(1), (2), Oct. 15, 2008, 122 Stat. 4845; Pub. L. 111–266, title I, §§102(a), 104(a), title III, §301, Oct. 8, 2010, 124 Stat. 2797, 2799, 2804.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) to (d), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsecs. (a) to (d), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (d)(2)(D)(i), (3)(C)(i), is section 601(b) of Pub. L. 94–329, June 30, 1976, 90 Stat. 729, which made provision for expedited procedures in the Senate, and is not classified to the Code.
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–266, §102(a), inserted “a treaty referred to in section 2778(j)(1)(C)(i) of this title permits such transfer without prior consent of the President, or if” after “under this chapter if” in introductory provisions.
+<b>2010</b>—Subsec. (b). Pub. L. 111–266, §102(a), inserted "a treaty referred to in section 2778(j)(1)(C)(i) of this title permits such transfer without prior consent of the President, or if" after "under this chapter if" in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 111–266, §301(2), inserted “the Government of Israel,” before “or the Government of New Zealand”.
+Subsec. (b)(2). Pub. L. 111–266, §301(2), inserted "the Government of Israel," before "or the Government of New Zealand".
 
-Subsec. (d)(2)(B). Pub. L. 111–266, §301(1), inserted “Israel,” before “or New Zealand”.
+Subsec. (d)(2)(B). Pub. L. 111–266, §301(1), inserted "Israel," before "or New Zealand".
 
-Subsec. (d)(3)(A). Pub. L. 111–266, §104(a), inserted in introductory provisions “or has been exempted from the licensing requirements of this chapter pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title where such treaty does not authorize the transfer without prior United States Government approval” after “approved under section 2778 of this title”.
+Subsec. (d)(3)(A). Pub. L. 111–266, §104(a), inserted in introductory provisions "or has been exempted from the licensing requirements of this chapter pursuant to a treaty referred to in section 2778(j)(1)(C)(i) of this title where such treaty does not authorize the transfer without prior United States Government approval" after "approved under section 2778 of this title".
 
-Subsec. (d)(3)(A)(i). Pub. L. 111–266, §301(1), inserted “Israel,” before “or New Zealand”.
+Subsec. (d)(3)(A)(i). Pub. L. 111–266, §301(1), inserted "Israel," before "or New Zealand".
 
-Subsec. (d)(5). Pub. L. 111–266, §301(1), inserted “Israel,” before “or New Zealand” in introductory provisions.
+Subsec. (d)(5). Pub. L. 111–266, §301(1), inserted "Israel," before "or New Zealand" in introductory provisions.
 
-<b>2008</b>—Subsec. (b)(2). Pub. L. 110–429, §203(b)(2), inserted “the Government of the Republic of Korea,” before “or the Government of New Zealand”.
+<b>2008</b>—Subsec. (b)(2). Pub. L. 110–429, §203(b)(2), inserted "the Government of the Republic of Korea," before "or the Government of New Zealand".
 
-Subsec. (d)(2)(B), (3)(A)(i), (5). Pub. L. 110–429, §203(b)(1), inserted “the Republic of Korea,” before “or New Zealand”.
+Subsec. (d)(2)(B), (3)(A)(i), (5). Pub. L. 110–429, §203(b)(1), inserted "the Republic of Korea," before "or New Zealand".
 
-<b>2002</b>—Subsec. (d)(1), (3)(A). Pub. L. 107–228, §1405(a)(1)(A), substituted “Subject to paragraph (5), the President may not” for “The President may not” in introductory provisions.
+<b>2002</b>—Subsec. (d)(1), (3)(A). Pub. L. 107–228, §1405(a)(1)(A), substituted "Subject to paragraph (5), the President may not" for "The President may not" in introductory provisions.
 
 Subsec. (d)(5). Pub. L. 107–228, §1405(a)(1)(B), added par. (5).
 
@@ -156,19 +156,19 @@ Subsec. (d)(5). Pub. L. 107–228, §1405(a)(1)(B), added par. (5).
 
 <b>1996</b>—Subsec. (b). Pub. L. 104–164, §142, added subsec. (b).
 
-Subsec. (d)(2)(A). Pub. L. 104–164, §141(a)(1), struck out “, as provided for in sections 2776(b)(2) and 2776(b)(3) of this title” after “joint resolution”.
+Subsec. (d)(2)(A). Pub. L. 104–164, §141(a)(1), struck out ", as provided for in sections 2776(b)(2) and 2776(b)(3) of this title" after "joint resolution".
 
-Subsec. (d)(2)(B). Pub. L. 104–164, §141(a)(2), substituted “joint resolution prohibiting the proposed transfer” for “law prohibiting the proposed transfer”.
+Subsec. (d)(2)(B). Pub. L. 104–164, §141(a)(2), substituted "joint resolution prohibiting the proposed transfer" for "law prohibiting the proposed transfer".
 
 Subsec. (d)(2)(C), (D). Pub. L. 104–164, §141(a)(3), added subpars. (C) and (D).
 
-Subsec. (d)(3)(A). Pub. L. 104–164, §141(b), designated existing provisions as subpar. (A), struck out “at least 30 calendar days” before “before giving such consent the President”, substituted “a certification” for “a report” after “Committee on Foreign Relations of the Senate”, and substituted “Such certification shall be submitted—
+Subsec. (d)(3)(A). Pub. L. 104–164, §141(b), designated existing provisions as subpar. (A), struck out "at least 30 calendar days" before "before giving such consent the President", substituted "a certification" for "a report" after "Committee on Foreign Relations of the Senate", and substituted "Such certification shall be submitted—
 
-&emsp;“(i) at least 15 calendar days before such consent is given in the case of a transfer to a country which is a member of the North Atlantic Treaty Organization or Australia, Japan, or New Zealand; and
+&emsp;"(i) at least 15 calendar days before such consent is given in the case of a transfer to a country which is a member of the North Atlantic Treaty Organization or Australia, Japan, or New Zealand; and
 
-&emsp;“(ii) at least 30 calendar days before such consent is given in the case of a transfer to any other country,
+&emsp;"(ii) at least 30 calendar days before such consent is given in the case of a transfer to any other country,
 
-> unless the President states in his certification that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States. If the President states in his certification that such an emergency exists (thus waiving the requirements of clause (i) or (ii), as the case may be, and of subparagraph (B)) the President shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that consent to the proposed transfer become effective immediately and a discussion of the national security interests involved.” for “Such consent shall become effective then only if the Congress does not enact, within a 30-day period, a joint resolution, as provided for in sections 2776(c)(2) and 2776(c)(3) of this title prohibiting the proposed transfer.”
+> unless the President states in his certification that an emergency exists which requires that consent to the proposed transfer become effective immediately in the national security interests of the United States. If the President states in his certification that such an emergency exists (thus waiving the requirements of clause (i) or (ii), as the case may be, and of subparagraph (B)) the President shall set forth in the certification a detailed justification for his determination, including a description of the emergency circumstances which necessitate that consent to the proposed transfer become effective immediately and a discussion of the national security interests involved." for "Such consent shall become effective then only if the Congress does not enact, within a 30-day period, a joint resolution, as provided for in sections 2776(c)(2) and 2776(c)(3) of this title prohibiting the proposed transfer."
 
 Subsec. (d)(3)(B), (C). Pub. L. 104–164, §141(b)(3), added subpars. (B) and (C).
 
@@ -176,35 +176,35 @@ Subsec. (d)(3)(B), (C). Pub. L. 104–164, §141(b)(3), added subpars. (B) and (
 
 <b>1989</b>—Subsec. (f). Pub. L. 101–222 struck out subsec. (f) which directed termination of sales under this chapter to countries granting sanctuary to international terrorists. See section 2780 of this title.
 
-<b>1988</b>—Subsec. (d)(2)(A). Pub. L. 100–461, §577(1), substituted “joint resolution, as provided for in sections 2776(b)(2) and 2776(b)(3) of this title” for “law”.
+<b>1988</b>—Subsec. (d)(2)(A). Pub. L. 100–461, §577(1), substituted "joint resolution, as provided for in sections 2776(b)(2) and 2776(b)(3) of this title" for "law".
 
-Subsec. (d)(3). Pub. L. 100–461, §577(2), inserted at end “Such consent shall become effective then only if the Congress does not enact, within a 30-day period, a joint resolution, as provided for in sections 2776(c)(2) and 2776(c)(3) of this title prohibiting the proposed transfer.”
+Subsec. (d)(3). Pub. L. 100–461, §577(2), inserted at end "Such consent shall become effective then only if the Congress does not enact, within a 30-day period, a joint resolution, as provided for in sections 2776(c)(2) and 2776(c)(3) of this title prohibiting the proposed transfer."
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–661 repealed section 1102(a)(3) of Pub. L. 99–145 and the amendments made by that section, and provided that this section shall apply as if that section had never been enacted. See 1985 Amendments note below.
 
-Subsec. (d)(2)(A). Pub. L. 99–247, §1(a)(1), substituted “enact, within such 30-day period, a law prohibiting” for “adopt, within such 30-day period, a concurrent resolution disapproving”.
+Subsec. (d)(2)(A). Pub. L. 99–247, §1(a)(1), substituted "enact, within such 30-day period, a law prohibiting" for "adopt, within such 30-day period, a concurrent resolution disapproving".
 
-Subsec. (d)(2)(B). Pub. L. 99–247, §1(a)(2), substituted “enact, within such fifteen-day period, a law prohibiting” for “adopt, within such fifteen-day period, a concurrent resolution disapproving”.
+Subsec. (d)(2)(B). Pub. L. 99–247, §1(a)(2), substituted "enact, within such fifteen-day period, a law prohibiting" for "adopt, within such fifteen-day period, a concurrent resolution disapproving".
 
-<b>1985</b>—Subsec. (a). Pub. L. 99–83, §115(b)(2), in introductory text and in par. (2) inserted provisions relating to cooperative projects, and in par. (3) inserted “or service” after “such article” in two places.
+<b>1985</b>—Subsec. (a). Pub. L. 99–83, §115(b)(2), in introductory text and in par. (2) inserted provisions relating to cooperative projects, and in par. (3) inserted "or service" after "such article" in two places.
 
 Pub. L. 99–145, §1102(a)(3), which enacted amendments similar to those provided in Pub. L. 99–83, §115(b)(2), was repealed. See 1986 Amendments note above and former section 1105(a)(5) of Pub. L. 99–145 set out as a Repeals; Effective Date note under section 2752 of this title.
 
-Subsec. (f). Pub. L. 99–83, §503(b), struck out “, credits, and guaranties” and “, credits, or guaranties” wherever appearing in pars. (1) and (2).
+Subsec. (f). Pub. L. 99–83, §503(b), struck out ", credits, and guaranties" and ", credits, or guaranties" wherever appearing in pars. (1) and (2).
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–113, §109(b)(2), substituted in introductory text “sold or leased” for “sold”, and in par. (4) “purchase or lease” for “purchase”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–113, §109(b)(2), substituted in introductory text "sold or leased" for "sold", and in par. (4) "purchase or lease" for "purchase".
 
-Subsec. (d)(1). Pub. L. 97–113, §101(a)(1), substituted in introductory text “, or under section 2314(a)(1) or 2314(a)(4) of this title, to a transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or any defense article or related training or other defense service valued (in terms of its original acquisition cost) at $50,000,000 or more,” for “to a transfer of a defense article, or relatedtraining or other defense service, sold under this chapter and may not give his consent to such a transfer under section 2314(a)(1) or (a)(4) of this title”, in subpar. (B) “a description of the article or service proposed to be transferred, including its acquisition cost” for “a description of the defense article or related training or other defense service proposed to be transferred, including the original acquisition cost of such defense article or related training or other defense service”, in subpar. (C) “article or service” for “defense article or related training or other defense service”, and in provision following subpar. (E) “articles or services” for “defense articles, or related training or other defense services,”.
+Subsec. (d)(1). Pub. L. 97–113, §101(a)(1), substituted in introductory text ", or under section 2314(a)(1) or 2314(a)(4) of this title, to a transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or any defense article or related training or other defense service valued (in terms of its original acquisition cost) at $50,000,000 or more," for "to a transfer of a defense article, or related training or other defense service, sold under this chapter and may not give his consent to such a transfer under section 2314(a)(1) or (a)(4) of this title", in subpar. (B) "a description of the article or service proposed to be transferred, including its acquisition cost" for "a description of the defense article or related training or other defense service proposed to be transferred, including the original acquisition cost of such defense article or related training or other defense service", in subpar. (C) "article or service" for "defense article or related training or other defense service", and in provision following subpar. (E) "articles or services" for "defense articles, or related training or other defense services,".
 
-Subsec. (d)(2). Pub. L. 97–113, §102(a), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), unless” for “Unless”, and added subpar. (B).
+Subsec. (d)(2). Pub. L. 97–113, §102(a), designated existing provisions as subpar. (A), substituted "Except as provided in subparagraph (B), unless" for "Unless", and added subpar. (B).
 
-Subsec. (d)(3). Pub. L. 97–113, §101(a)(2), substituted “transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or of any defense article or defense service valued (in terms of its original acquisition cost) at $50,000,000 or more” for “transfer to a third country of a defense article or a defense service valued (in terms of its original acquisition costs) at $25,000,000 or more, or of major defense equipment valued (in terms of its original acquisition costs) at $7,000,000 or more”.
+Subsec. (d)(3). Pub. L. 97–113, §101(a)(2), substituted "transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or of any defense article or defense service valued (in terms of its original acquisition cost) at $50,000,000 or more" for "transfer to a third country of a defense article or a defense service valued (in terms of its original acquisition costs) at $25,000,000 or more, or of major defense equipment valued (in terms of its original acquisition costs) at $7,000,000 or more".
 
 Subsec. (d)(4). Pub. L. 97–113, §101(a)(3), struck out subpar. (D), which provided that subsec. (d) of this section not apply to transfers to the North Atlantic Treaty Organization, any member country of such organization, Japan, Australia, or New Zealand, of any major defense equipment valued (in terms of its original acquisition cost) at less than $7,000,000 or of any defense article or related training or other defense service valued (in terms of its original acquisition cost) at less than $25,000,000.
 
-<b>1980</b>—Subsec. (d)(1). Pub. L. 96–533, §101(a)(2)(A), substituted “pursuant to this paragraph” for “pursuant to this subsection”.
+<b>1980</b>—Subsec. (d)(1). Pub. L. 96–533, §101(a)(2)(A), substituted "pursuant to this paragraph" for "pursuant to this subsection".
 
-Subsec. (d)(2). Pub. L. 96–533, §101(a)(2)(B), substituted “paragraph (1) of this subsection” for “this subsection”.
+Subsec. (d)(2). Pub. L. 96–533, §101(a)(2)(B), substituted "paragraph (1) of this subsection" for "this subsection".
 
 Subsec. (d)(3). Pub. L. 96–533, §101(a)(1)(B), added par. (3). Former par. (3) redesignated (4).
 
@@ -214,11 +214,11 @@ Subsec. (d)(4). Pub. L. 96–533, §101(a)(1)(A), (b), redesignated former par. 
 
 <b>1977</b>—Subsec. (b). Pub. L. 95–92, §15, struck out subsec. (b) which related to prohibitions on sales, etc., to countries seizing or fining American fishing vessels for fishing in waters more than twelve miles from their coastlines.
 
-Subsec. (d). Pub. L. 95–92, §§16, 17, redesignated existing provisions as par. (1), struck out “, 30 days prior to giving such consent,” before “the President submits”, redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and added pars. (2) and (3).
+Subsec. (d). Pub. L. 95–92, §§16, 17, redesignated existing provisions as par. (1), struck out ", 30 days prior to giving such consent," before "the President submits", redesignated pars. (1) to (5) as subpars. (A) to (E), respectively, and added pars. (2) and (3).
 
 Subsec. (f). Pub. L. 95–92, §18, added subsec. (f).
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–329, §§203(a), 204(b)(1), inserted in par. (2) “or related training or other defense service” after “article” wherever appearing and struck out provisions following par. (4) relating to the President's notification of his consent to transfer war implements to another country, in writing, to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate indicating his justification for the transfer and the particular war implement transferred.
+<b>1976</b>—Subsec. (a). Pub. L. 94–329, §§203(a), 204(b)(1), inserted in par. (2) "or related training or other defense service" after "article" wherever appearing and struck out provisions following par. (4) relating to the President's notification of his consent to transfer war implements to another country, in writing, to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate indicating his justification for the transfer and the particular war implement transferred.
 
 Subsec. (c). Pub. L. 94–329, §304(b)(1), provided that the President, by so stating in writing to Congress, or Congress, by joint resolution, terminate credits, guaranties or sales upon determining a violation, permitted cash sales and deliveries pursuant to previous sales to be made if the President certifies in writing to Congress that termination thereof would be adverse to national security unless Congress adopts or has adopted a joint resolution determining such eligibility, and specified conditions for reinstatement of eligibility.
 
@@ -226,7 +226,7 @@ Subsec. (d). Pub. L. 94–329, §§204(a), 304(b)(2), added subsec. (d). Former 
 
 Subsec. (e). Pub. L. 94–329, §§204(a), 304(b)(2), added subsec. (e).
 
-<b>1974</b>—Subsec. (d). Pub. L. 93–559 struck out first sentence provision respecting furnishing of sophisticated weapons to countries in violation of agreements pursuant to subsec. (a)(2) of this section, section 2314(a) of this title, or other similar provisions and substituted “in accordance with subsection (c) of this section” for “in accordance with this subsection”.
+<b>1974</b>—Subsec. (d). Pub. L. 93–559 struck out first sentence provision respecting furnishing of sophisticated weapons to countries in violation of agreements pursuant to subsec. (a)(2) of this section, section 2314(a) of this title, or other similar provisions and substituted "in accordance with subsection (c) of this section" for "in accordance with this subsection".
 
 <b>1973</b>—Subsec. (a). Pub. L. 93–189, §25(2)(A)–(C), in par. (2) inserted requirement not to use or permit the use of such articles for purposes other than those for which furnished, redesignated former par. (3) as (4), added a new par. (3), and following par. (4), as so redesignated, inserted provisions relating to Presidential consideration of requests prior to consent under par. (2).
 
@@ -236,7 +236,7 @@ Subsecs. (c), (d). Pub. L. 93–189, §25(2)(D), added subsecs. (c) and (d).
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–164, title I, §141(f), July 21, 1996, 110 Stat. 1433, provided that: “The amendments made by this section \[amending this section and sections 2776, 2796a, and 2796b of this title\] apply with respect to certifications required to be submitted on or after the date of the enactment of this Act \[July 21, 1996\].”
+Pub. L. 104–164, title I, §141(f), July 21, 1996, 110 Stat. 1433, provided that: "The amendments made by this section \[amending this section and sections 2776, 2796a, and 2796b of this title\] apply with respect to certifications required to be submitted on or after the date of the enactment of this Act \[July 21, 1996\]."
 
 #### Effective Date of 1994 Amendment
 
@@ -252,191 +252,191 @@ Pub. L. 94–329, title II, §203(a), June 30, 1976, 90 Stat. 735, provided that
 
 #### Delegation of Functions
 
-Functions of President under this section, except subsecs. (a)(1), (b), (c)(3), (4), and (f), delegated to Secretary of State, with Secretary authorized to make certain findings under subsec. (a)(1) in implementing functions delegated under subsecs. (a) and (d), by section 1(a) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+For delegation of certain functions of the President under this section, see section 1(a) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16129, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
 #### Pilot Program on Repair, Overhaul, and Refurbishment of Defense Articles for Sale or Transfer to Eligible Foreign Countries and Entities
 
 Pub. L. 112–239, div. A, title XII, §1285, Jan. 2, 2013, 126 Stat. 2036, provided that:
 
-“(a)
+"(a)
 
 Pilot Program Authorized.—The Secretary of Defense may carry out a pilot program to repair, overhaul, or refurbish in-stock defense articles in anticipation of the sale or transfer of such defense articles to eligible foreign countries or international organizations under law.
 
-“(b)
+"(b)
 
-Fund for Support of Program Authorized.—The Secretary of Defense may establish and administer a fund to be known as the ‘Special Defense Repair Fund’ (in this section referred to as the ‘Fund’) to support the program authorized by subsection (a).
+Fund for Support of Program Authorized.—The Secretary of Defense may establish and administer a fund to be known as the 'Special Defense Repair Fund' (in this section referred to as the 'Fund') to support the program authorized by subsection (a).
 
-“(c)
+"(c)
 
 Credits to Fund.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Subject to paragraphs (2) and (3), the following shall be credited to the Fund:
 
-&emsp;&emsp;“(A) Such amounts, not to exceed $50,000,000, from amounts authorized to be appropriated for overseas contingency operations for fiscal year 2013 as the Secretary of Defense considers appropriate, and reprogrammed under a reprogramming authority provided by another provision of this Act or by other law.
+&emsp;&emsp;"(A) Such amounts, not to exceed $50,000,000, from amounts authorized to be appropriated for overseas contingency operations for fiscal year 2013 as the Secretary of Defense considers appropriate, and reprogrammed under a reprogramming authority provided by another provision of this Act or by other law.
 
-&emsp;&emsp;“(B) Notwithstanding section 114(c) of title 10, United States Code, any collection from the sale or transfer of defense articles from Department of Defense stocks repaired, overhauled, or refurbished with amounts from the Fund that are not intended to be replaced which sale or transfer is made pursuant to section 21(a)(1)(A) of the Arms Export Control Act (22 U.S.C. 2761(a)(1)(A)), the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), or another provision of law.
+&emsp;&emsp;"(B) Notwithstanding section 114(c) of title 10, United States Code, any collection from the sale or transfer of defense articles from Department of Defense stocks repaired, overhauled, or refurbished with amounts from the Fund that are not intended to be replaced which sale or transfer is made pursuant to section 21(a)(1)(A) of the Arms Export Control Act (22 U.S.C. 2761(a)(1)(A)), the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), or another provision of law.
 
-&emsp;&emsp;“(C) Notwithstanding section 37(a) of the Arms Export Control Act (22 U.S.C. 2777(a)), any cash payment from the sale or transfer of defense articles from Department of Defense stocks repaired, overhauled, or refurbished with amounts from the Fund that are intended to be replaced.
+&emsp;&emsp;"(C) Notwithstanding section 37(a) of the Arms Export Control Act (22 U.S.C. 2777(a)), any cash payment from the sale or transfer of defense articles from Department of Defense stocks repaired, overhauled, or refurbished with amounts from the Fund that are intended to be replaced.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Limitation on amounts creditable from sale or transfer of articles.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Credits in connection with articles not to be replaced.—The amount credited to the Fund under paragraph (1)(B) in connection with a collection from the sale or transfer of defense articles may not exceed the cost incurred by the Department of Defense in repairing, overhauling, or refurbishing such defense articles under the program authorized by subsection (a).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Credits in connection with articles to be replaced.—The amount credited to the Fund under paragraph (1)(C) in connection with a sale or transfer of defense articles may not exceed the amounts from the Fund used to repair, overhaul, or refurbish such defense articles.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Limitation on size of fund.—The total amount in the Fund at any time may not exceed $50,000,000.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Treatment of amounts credited.—Amounts credited to the Fund under this subsection shall be merged with amounts in the Fund, and shall remain available until expended.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Authorization to purchase services from dod working capital fund activities.—The Fund shall be considered an authorized customer of Department of Defense Working Capital Fund activities. Prices of goods and services sold by Working Capital Fund activities to the Fund shall reflect Foreign Military Sales pricing guidelines, as promulgated by the Department of Defense Financial Management Regulation, and other applicable guidelines.
 
-“(d)
+"(d)
 
 Nonavailability of Amounts in Fund for Storage, Maintenance, and Related Costs.—Following the repair, overhaul, or refurbishment of defense articles under the program authorized by subsection (a), amounts in the Fund may not be used to pay costs of storage and maintenance of such defense articles or any other costs associated with the preservation or preparation for sale or transfer of such defense articles.
 
-“(e)
+"(e)
 
 Sales or Transfers of Defense Articles.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Any sale or transfer of defense articles repaired, overhauled, or refurbished under the program authorized by subsection (a) shall be in accordance with—
 
-&emsp;&emsp;“(A) the Arms Export Control Act (22 U.S.C. 2751 et seq.);
+&emsp;&emsp;"(A) the Arms Export Control Act (22 U.S.C. 2751 et seq.);
 
-&emsp;&emsp;“(B) the Foreign Assistance Act of 1961; or
+&emsp;&emsp;"(B) the Foreign Assistance Act of 1961; or
 
-&emsp;&emsp;“(C) another provision of law authorizing such sale or transfer.
+&emsp;&emsp;"(C) another provision of law authorizing such sale or transfer.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Secretary of state concurrence required for certain sales or transfers to foreign countries.—If the sale or transfer of defense articles occurs in accordance with a provision of law referred to in paragraph (1)(C) that does not otherwise require the concurrence of the Secretary of State for the sale or transfer, the sale or transfer may be made only with the concurrence of the Secretary of State.
 
-“(f)
+"(f)
 
 Transfers of Amounts.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Transfer to other department of defense accounts.—Amounts in the Fund may be transferred to any Department of Defense account for use in carrying out the program authorized by subsection (a). Any amount so transferred shall be merged with amounts in the account to which transferred, and shall be available for the same purposes and the same time period as amounts in the account to which transferred.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Transfer from other department of defense accounts.—Upon a determination by the Secretary of Defense with respect to an amount transferred under paragraph (1) that all or part of such transfer is not necessary for the purposes transferred, such amount may be transferred back to the Fund. Any amount so transferred shall be merged with amounts in the Fund, and shall remain available until expended.
 
-“(g)
+"(g)
 
 Certain Excess Proceeds To Be Credited to Special Defense Acquisition Fund.—Any collection from the sale or transfer of defense articles that are not intended to be replaced in excess of the amount creditable to the Fund under subsection (c)(2)(A) shall be credited to the Special Defense Acquisition Fund established pursuant to chapter 5 of the Arms Export Control Act (22 U.S.C. 2795 et seq.).
 
-“(h)
+"(h)
 
 Materiel Efficiencies and Duplication.—In administering the program authorized by subsection (a), the Secretary of Defense shall ensure to the maximum extent possible that purchases made utilizing the Fund utilize existing Defense Logistics Agency contracts. The Secretary shall also ensure that none of the activities carried out under the program authorized by subsection (a) are duplicative in nature to those performed by other military departments or Defense Agencies.
 
-“(i)
+"(i)
 
 Conduct by Public or Private Sector Facilities or Entities.—The repair, overhaul, and refurbishment of defense articles under the program authorized by subsection (a) may be conducted by a facility or entity in the public sector or the private sector, consistent with the requirements of chapter 146 of title 10, United States Code.
 
-“(j)
+"(j)
 
 Reports.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Annual report.—Not later than 45 days after the end of each fiscal year through the date of expiration specified in subsection (l), the Secretary of Defense shall submit to the appropriate congressional committees a report on the authorities under this section during such fiscal year. Each report shall include, for the fiscal year covered by such report, the following:
 
-&emsp;&emsp;“(A) The types and quantities of defense articles repaired, overhauled, or refurbished under the program authorized by subsection (a).
+&emsp;&emsp;"(A) The types and quantities of defense articles repaired, overhauled, or refurbished under the program authorized by subsection (a).
 
-&emsp;&emsp;“(B) The value of the repair, overhaul, or refurbishment performed under the program.
+&emsp;&emsp;"(B) The value of the repair, overhaul, or refurbishment performed under the program.
 
-&emsp;&emsp;“(C) The amount of operation and maintenance funds credited to the Fund under subsection (c)(1)(A).
+&emsp;&emsp;"(C) The amount of operation and maintenance funds credited to the Fund under subsection (c)(1)(A).
 
-&emsp;&emsp;“(D) The amount of any collections from the sale or transfer of defense articles repaired, overhauled, or refurbished under the program that was credited to the Fund under subsection (c)(1)(B).
+&emsp;&emsp;"(D) The amount of any collections from the sale or transfer of defense articles repaired, overhauled, or refurbished under the program that was credited to the Fund under subsection (c)(1)(B).
 
-&emsp;&emsp;“(E) The amount of any cash payments from the sale or transfer of defense articles repaired, overhauled, or refurbished under the program that was credited to the Fund under subsection (c)(1)(C).
+&emsp;&emsp;"(E) The amount of any cash payments from the sale or transfer of defense articles repaired, overhauled, or refurbished under the program that was credited to the Fund under subsection (c)(1)(C).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Assessment report.—Not later than February 1, 2015, the Secretary of Defense shall submit to the appropriate congressional committees a report on the operation of the authorities in this section. The report shall include an assessment of the effectiveness of the authorities in meeting the objectives of the program authorized by subsection (a). At a minimum, the assessment shall address the following:
 
-&emsp;&emsp;“(A) Cost efficiencies generated by utilization of the Fund.
+&emsp;&emsp;"(A) Cost efficiencies generated by utilization of the Fund.
 
-&emsp;&emsp;“(B) Time efficiencies gained in the delivery of defense articles under the program.
+&emsp;&emsp;"(B) Time efficiencies gained in the delivery of defense articles under the program.
 
-&emsp;&emsp;“(C) An explanation of all amounts transferred to and from the Fund pursuant to subsection (f).
+&emsp;&emsp;"(C) An explanation of all amounts transferred to and from the Fund pursuant to subsection (f).
 
-&emsp;&emsp;“(D) A detailed account of excess proceeds credited to the Special Defense Acquisition Fund pursuant to section (g).
+&emsp;&emsp;"(D) A detailed account of excess proceeds credited to the Special Defense Acquisition Fund pursuant to section (g).
 
-&emsp;&emsp;“(E) A list of defense articles, by quantity and type, repaired under the program and an identification of the foreign countries or international organizations to which the repaired defense articles were sold or transferred.
+&emsp;&emsp;"(E) A list of defense articles, by quantity and type, repaired under the program and an identification of the foreign countries or international organizations to which the repaired defense articles were sold or transferred.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Appropriate congressional committees defined.—In this subsection, the term ‘appropriate congressional committees’ means—
+Appropriate congressional committees defined.—In this subsection, the term 'appropriate congressional committees' means—
 
-&emsp;&emsp;“(A) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
+&emsp;&emsp;"(A) the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\]; and
 
-&emsp;&emsp;“(B) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
+&emsp;&emsp;"(B) the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives.
 
-“(k)
+"(k)
 
-Defense Article Defined.—In this section, the term ‘defense article’ has the meaning given that term in section 47(3) of the Arms Export Control Act (22 U.S.C. 2794(3)).
+Defense Article Defined.—In this section, the term 'defense article' has the meaning given that term in section 47(3) of the Arms Export Control Act (22 U.S.C. 2794(3)).
 
-“(l)
+"(l)
 
-Expiration of Authority.—The authority to carry out the program authorized by subsection (a), and to use amounts in the Fund in support of the program, shall expire on September 30, 2015.”
+Expiration of Authority.—The authority to carry out the program authorized by subsection (a), and to use amounts in the Fund in support of the program, shall expire on September 30, 2015."
 
 #### Security Cooperation With the Republic of Korea
 
-Pub. L. 110–429, title II, §203(a), Oct. 15, 2008, 122 Stat. 4844, provided that: “Congress makes the following findings:
+Pub. L. 110–429, title II, §203(a), Oct. 15, 2008, 122 Stat. 4844, provided that: "Congress makes the following findings:
 
-&emsp;“(1) Close and continuing defense cooperation between the United States and the Republic of Korea continues to be in the national security interest of the United States.
+&emsp;"(1) Close and continuing defense cooperation between the United States and the Republic of Korea continues to be in the national security interest of the United States.
 
-&emsp;“(2) The Republic of Korea was designated a major non-NATO ally in 1987, the first such designation.
+&emsp;"(2) The Republic of Korea was designated a major non-NATO ally in 1987, the first such designation.
 
-&emsp;“(3) The Republic of Korea has been a major purchaser of United States defense articles and services through the Foreign Military Sales (FMS) program, totaling $6,900,000,000 in deliveries over the last 10 years.
+&emsp;"(3) The Republic of Korea has been a major purchaser of United States defense articles and services through the Foreign Military Sales (FMS) program, totaling $6,900,000,000 in deliveries over the last 10 years.
 
-&emsp;“(4) Purchases of United States defense articles, services, and major defense equipment facilitate and increase the interoperability of Republic of Korea military forces with the United States Armed Forces.
+&emsp;"(4) Purchases of United States defense articles, services, and major defense equipment facilitate and increase the interoperability of Republic of Korea military forces with the United States Armed Forces.
 
-&emsp;“(5) Congress has previously enacted important, special defense cooperation arrangements for the Republic of Korea, as in the Act entitled ‘An Act to authorize the transfer of items in the War Reserves Stockpile for Allies, Korea’, approved December 30, 2005 (Public Law 109–159; 119 Stat. 2955), which authorized the President, notwithstanding section 514 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321h), to transfer to the Republic of Korea certain defense items to be included in a war reserve stockpile for that country.
+&emsp;"(5) Congress has previously enacted important, special defense cooperation arrangements for the Republic of Korea, as in the Act entitled 'An Act to authorize the transfer of items in the War Reserves Stockpile for Allies, Korea', approved December 30, 2005 (Public Law 109–159; 119 Stat. 2955), which authorized the President, notwithstanding section 514 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321h), to transfer to the Republic of Korea certain defense items to be included in a war reserve stockpile for that country.
 
-&emsp;“(6) Enhanced support for defense cooperation with the Republic of Korea is important to the national security of the United States, including through creation of a status in law for the Republic of Korea similar to the countries in the North Atlantic Treaty Organization, Japan, Australia, and New Zealand, with respect to consideration by Congress of foreign military sales to the Republic of Korea.”
+&emsp;"(6) Enhanced support for defense cooperation with the Republic of Korea is important to the national security of the United States, including through creation of a status in law for the Republic of Korea similar to the countries in the North Atlantic Treaty Organization, Japan, Australia, and New Zealand, with respect to consideration by Congress of foreign military sales to the Republic of Korea."
 
 #### Reporting Requirements
 
 Pub. L. 105–277, div. A, §101(d) \[title V, §594\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–215, as amended by Pub. L. 106–31, title V, §5002(c)–(e), May 21, 1999, 113 Stat. 109, provided that:
 
-“(a)
+"(a)
 
 Notification.—No less than 15 days prior to the export to any country identified pursuant to subparagraph (c) of any lethal defense article or service in the amount of $14,000,000 or less, the President shall provide a detailed notification to the Committees on Appropriations and Foreign Relations of the Senate and the Committees on Appropriations and International Relations \[now Committee on Foreign Affairs\] of the House of Representatives.
 
-“(b)
+"(b)
 
 Content of Notification.—A detailed notification transmitted pursuant to subsection (a) shall include the same type and quantity of information required of a notification submitted pursuant to section 36(b) of the Arms Export Control Act (22 U.S.C. 2776(b)).
 
-“(c)
+"(c)
 
 Countries Defined.—This section shall apply to any country that is—
 
-&emsp;“(1) identified in section 520 of this Act \[Pub. L. 105–277, 112 Stat. 2681–176\], or a comparable provision in a subsequent appropriations Act; or
+&emsp;"(1) identified in section 520 of this Act \[Pub. L. 105–277, 112 Stat. 2681–176\], or a comparable provision in a subsequent appropriations Act; or
 
-&emsp;“(2) currently ineligible, in whole or in part, under an annual appropriations Act to receive funds for International Military Education and Training or under the Foreign Military Financing Program, excluding high-income countries as defined pursuant to section 546(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2347e(b)\].
+&emsp;"(2) currently ineligible, in whole or in part, under an annual appropriations Act to receive funds for International Military Education and Training or under the Foreign Military Financing Program, excluding high-income countries as defined pursuant to section 546(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2347e(b)\].
 
-“(d)
+"(d)
 
-Exclusions.—Information reportable under title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\] is excluded from the requirements of this section.”
+Exclusions.—Information reportable under title V of the National Security Act of 1947 \[50 U.S.C. 3091 et seq.\] is excluded from the requirements of this section."
 
 \[For delegation of functions of President under section 101(d) \[title V, §594\] of div. A of Pub. L. 105–277, set out above, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.\]
 
@@ -444,25 +444,25 @@ Exclusions.—Information reportable under title V of the National Security Act 
 
 Pub. L. 102–511, title IX, §906, Oct. 24, 1992, 106 Stat. 3356, provided that:
 
-“(a)
+"(a)
 
 Eligibility.—Estonia, Latvia, and Lithuania shall each be eligible—
 
-&emsp;“(1) to purchase, or to receive financing for the purchase of, nonlethal defense articles—
+&emsp;"(1) to purchase, or to receive financing for the purchase of, nonlethal defense articles—
 
-&emsp;&emsp;“(A) under the Arms Export Control Act (22 U.S.C. 2751 et seq.), without regard to section 3(a)(1) of that Act \[22 U.S.C. 2753(a)(1)\], or
+&emsp;&emsp;"(A) under the Arms Export Control Act (22 U.S.C. 2751 et seq.), without regard to section 3(a)(1) of that Act \[22 U.S.C. 2753(a)(1)\], or
 
-&emsp;&emsp;“(B) under section 503 of the Foreign Assistance Act of 1961 (22 U.S.C. 2311), without regard to the requirement in subsection (a) of that section for a Presidential finding; and
+&emsp;&emsp;"(B) under section 503 of the Foreign Assistance Act of 1961 (22 U.S.C. 2311), without regard to the requirement in subsection (a) of that section for a Presidential finding; and
 
-&emsp;“(2) to receive nonlethal excess defense articles transferred under section 519 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321m), without regard to the restrictions in subsection (a) of that section.
+&emsp;"(2) to receive nonlethal excess defense articles transferred under section 519 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321m), without regard to the restrictions in subsection (a) of that section.
 
-“(b)
+"(b)
 
 Definitions.—As used in this section—
 
-&emsp;“(1) the term ‘defense article’ has the same meaning given to that term in section 47(3) of the Arms Export Control Act (22 U.S.C. 2794(3)); and
+&emsp;"(1) the term 'defense article' has the same meaning given to that term in section 47(3) of the Arms Export Control Act (22 U.S.C. 2794(3)); and
 
-&emsp;“(2) the term ‘excess defense article’ has the same meaning given to that term in section 644(g) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(g)).”
+&emsp;"(2) the term 'excess defense article' has the same meaning given to that term in section 644(g) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(g))."
 
 <i><sup>1</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
 

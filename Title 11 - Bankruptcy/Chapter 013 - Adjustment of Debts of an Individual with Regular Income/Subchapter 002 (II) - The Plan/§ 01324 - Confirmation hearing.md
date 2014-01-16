@@ -14,11 +14,11 @@ Any party in interest may object to the confirmation of a plan, as distinguished
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–8 designated existing provisions as subsec. (a), substituted “Except as provided in subsection (b) and after” for “After”, and added subsec. (b).
+<b>2005</b>—Pub. L. 109–8 designated existing provisions as subsec. (a), substituted "Except as provided in subsection (b) and after" for "After", and added subsec. (b).
 
-<b>1986</b>—Pub. L. 99–554 struck out “the” after “object to”.
+<b>1986</b>—Pub. L. 99–554 struck out "the" after "object to".
 
-<b>1984</b>—Pub. L. 98–353 struck out “the” before “confirmation of the plan”.
+<b>1984</b>—Pub. L. 98–353 struck out "the" before "confirmation of the plan".
 
 #### Effective Date of 2005 Amendment
 

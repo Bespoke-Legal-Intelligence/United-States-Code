@@ -22,3 +22,15 @@ Not later than 180 days after July 27, 2012, the President shall submit to the a
 
 (Pub. L. 112–150, §6, July 27, 2012, 126 Stat. 1148.)
 
+#### Delegation of Certain Functions Under Section 6 of Public Law 112–150
+
+Memorandum of President of the United States, Jan. 15, 2013, 78 F.R. 5705, provided that:
+
+Memorandum for the Secretary of State
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, I hereby delegate to you all functions conferred upon the President by subsections (a) and (b) of section 6 of Public Law 112–150. You will exercise these functions in coordination with the Secretary of Defense.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+

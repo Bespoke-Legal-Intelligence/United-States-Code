@@ -12,7 +12,7 @@ Notwithstanding any other provision of this subtitle, no deduction or credit sha
 
 #### (1) In general
 
-&emsp;For purposes of this section, the term “energy conservation measure” means any installation or modification primarily designed to reduce consumption of electricity or natural gas or to improve the management of energy demand with respect to a dwelling unit.
+&emsp;For purposes of this section, the term "energy conservation measure" means any installation or modification primarily designed to reduce consumption of electricity or natural gas or to improve the management of energy demand with respect to a dwelling unit.
 
 #### (2) Other definitions
 
@@ -20,11 +20,11 @@ Notwithstanding any other provision of this subtitle, no deduction or credit sha
 
 #### (A) Dwelling unit
 
-&emsp;&emsp;The term “dwelling unit” has the meaning given such term by section 280A(f)(1).
+&emsp;&emsp;The term "dwelling unit" has the meaning given such term by section 280A(f)(1).
 
 #### (B) Public utility
 
-&emsp;&emsp;The term “public utility” means a person engaged in the sale of electricity or natural gas to residential, commercial, or industrial customers for use by such customers. For purposes of the preceding sentence, the term “person” includes the Federal Government, a State or local government or any political subdivision thereof, or any instrumentality of any of the foregoing.
+&emsp;&emsp;The term "public utility" means a person engaged in the sale of electricity or natural gas to residential, commercial, or industrial customers for use by such customers. For purposes of the preceding sentence, the term "person" includes the Federal Government, a State or local government or any political subdivision thereof, or any instrumentality of any of the foregoing.
 
 #### (d) Exception
 
@@ -44,21 +44,21 @@ A prior section 136 was renumbered section 140 of this title.
 
 <b>1996</b>—Subsec. (a). Pub. L. 104–188, §1617(b)(1), reenacted heading without change and amended text generally, substituting present provisions for former provisions which consisted of general exclusion in par. (1) and limitation for exclusion on nonresidential property in par. (2).
 
-Subsec. (c)(1). Pub. L. 104–188, §1617(a), substituted “energy demand with respect to a dwelling unit.” for “energy demand—
+Subsec. (c)(1). Pub. L. 104–188, §1617(a), substituted "energy demand with respect to a dwelling unit." for "energy demand—
 
-&emsp;“(A) with respect to a dwelling unit, and
+&emsp;"(A) with respect to a dwelling unit, and
 
-&emsp;“(B) on or after January 1, 1995, with respect to property other than dwelling units.
+&emsp;"(B) on or after January 1, 1995, with respect to property other than dwelling units.
 
-> The purchase and installation of specially defined energy property shall be treated as an energy conservation measure described in subparagraph (B).”
+> The purchase and installation of specially defined energy property shall be treated as an energy conservation measure described in subparagraph (B)."
 
-Subsec. (c)(2). Pub. L. 104–188, §1617(b)(2), struck out “and special rules” after “definitions” in heading, redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which related to “specially defined energy property”.
+Subsec. (c)(2). Pub. L. 104–188, §1617(b)(2), struck out "and special rules" after "definitions" in heading, redesignated subpars. (B) and (C) as (A) and (B), respectively, and struck out former subpar. (A) which related to "specially defined energy property".
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–188, title I, §1617(c), Aug. 20, 1996, 110 Stat. 1858, provided that: “The amendments made by this section \[amending this section\] shall apply to amounts received after December 31, 1996, unless received pursuant to a written binding contract in effect on September 13, 1995, and at all times thereafter.”
+Pub. L. 104–188, title I, §1617(c), Aug. 20, 1996, 110 Stat. 1858, provided that: "The amendments made by this section \[amending this section\] shall apply to amounts received after December 31, 1996, unless received pursuant to a written binding contract in effect on September 13, 1995, and at all times thereafter."
 
 #### Effective Date
 
-Pub. L. 102–486, title XIX, §1912(c), Oct. 24, 1992, 106 Stat. 3016, provided that: “The amendments made by this section \[enacting this section and renumbering former section 136 as 137\] shall apply to amounts received after December 31, 1992.”
+Pub. L. 102–486, title XIX, §1912(c), Oct. 24, 1992, 106 Stat. 3016, provided that: "The amendments made by this section \[enacting this section and renumbering former section 136 as 137\] shall apply to amounts received after December 31, 1992."
 

@@ -10,5 +10,5 @@ Section was enacted as part of the Department of Agriculture Organic Act of 1944
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–354 substituted “Secretary of Agriculture” for “Rural Electrification Administration” and “the Secretary's” for “its”.
+<b>1994</b>—Pub. L. 103–354 substituted "Secretary of Agriculture" for "Rural Electrification Administration" and "the Secretary's" for "its".
 

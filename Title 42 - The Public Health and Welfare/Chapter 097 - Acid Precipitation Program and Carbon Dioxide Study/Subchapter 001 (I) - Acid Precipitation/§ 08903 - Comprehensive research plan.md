@@ -2,7 +2,7 @@
 
 #### (a) Preparation by Task Force for ten-year program; purposes
 
-The Task Force shall prepare a comprehensive research plan for the ten-year program (hereafter in this subchapter referred to as the “comprehensive plan”), setting forth a coordinated program (1) to identify the causes and effects of acid precipitation and (2) to identify actions to limit or ameliorate the harmful effects of acid precipitation.
+The Task Force shall prepare a comprehensive research plan for the ten-year program (hereafter in this subchapter referred to as the "comprehensive plan"), setting forth a coordinated program (1) to identify the causes and effects of acid precipitation and (2) to identify actions to limit or ameliorate the harmful effects of acid precipitation.
 
 #### (b) Scope
 
@@ -54,7 +54,7 @@ The Task Force shall convene as necessary, but no less than twice during each fi
 
 #### (e) Submission of annual report to President and Congress by Task Force
 
-The Task Force shall submit to the President and the Congress by January 15 of each year anannual report which shall detail the progress of the research program under this subchapter and which shall contain such recommendations as are developed under subsection (b)(14) of this section.
+The Task Force shall submit to the President and the Congress by January 15 of each year an annual report which shall detail the progress of the research program under this subchapter and which shall contain such recommendations as are developed under subsection (b)(14) of this section.
 
 #### (f) Applicability of other statutory provisions to Task Force or plan
 

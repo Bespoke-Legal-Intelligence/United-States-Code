@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 July 14, 1964, Pub. L. 88–376, §5(b), 78 Stat. 322.
 
-The word “have” is substituted for “maintain” for consistency in the revised title. The words “at all times” and “authorized” are omitted as unnecessary.
+The word "have" is substituted for "maintain" for consistency in the revised title. The words "at all times" and "authorized" are omitted as unnecessary.
 

@@ -26,9 +26,9 @@ Mar. 7, 1942, ch. 166, §13, 56 Stat. 146; Aug. 8, 1947, ch. 515, §6, 61 Stat. 
 
 Only that portion of the source law which is applicable to members of the uniformed services and their dependents is codified in this section.
 
-The words “in the case of any taxable year beginning after December 31, 1940” are omitted as unnecessary.
+The words "in the case of any taxable year beginning after December 31, 1940" are omitted as unnecessary.
 
-The words “as defined in section 101(3) and (23) of title 37, United States Code” are omitted as unnecessary since the revised section is codified in title 37. The words “in a missing status” are substituted for “absent from his duty station under the conditions specified in section 2 of the Act” to conform to the definition in revised section 551(3) of this chapter and in view of the provisions of revised section 552 establishing the entitlement of a member in a missing status to receive pay and allowances or have them credited to his account. Reference to “title 26” is substituted for “Internal Revenue Code of 1954”.
+The words "as defined in section 101(3) and (23) of title 37, United States Code" are omitted as unnecessary since the revised section is codified in title 37. The words "in a missing status" are substituted for "absent from his duty station under the conditions specified in section 2 of the Act" to conform to the definition in revised section 551(3) of this chapter and in view of the provisions of revised section 552 establishing the entitlement of a member in a missing status to receive pay and allowances or have them credited to his account. Reference to "title 26" is substituted for "Internal Revenue Code of 1954".
 
 #### References in Text
 
@@ -36,9 +36,9 @@ Sections 6851, 6861, and 6871 of the Internal Revenue Code of 1986, referred to 
 
 #### Amendments
 
-<b>1987</b>—Pub. L. 100–26 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” in last sentence.
+<b>1987</b>—Pub. L. 100–26 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954" in last sentence.
 
-<b>1980</b>—Pub. L. 96–513 substituted “the Internal Revenue Code of 1954” for “title 26”.
+<b>1980</b>—Pub. L. 96–513 substituted "the Internal Revenue Code of 1954" for "title 26".
 
 #### Effective Date of 1980 Amendment
 

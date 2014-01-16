@@ -2,7 +2,7 @@
 
 (a)
 
-Report Required.—Not later than January 1 of each year, the Secretary of Defense and the Director of National Intelligence shall jointly submit to Congress a report on the counter-space programs of foreign countries.
+Report Required.—Not later than January 1 of each year, the Secretary of Defense and theDirector of National Intelligence shall jointly submit to Congress a report on the counter-space programs of foreign countries.
 
 (b)
 
@@ -38,17 +38,11 @@ National security waiver.—The Secretary of Defense and the Director of Nationa
 
 (d)
 
-Covered Congressional Committees Defined.—In this section, the term “covered congressional committees” means the Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Armed Services and the Select Committee on Intelligence of the Senate.
+Covered Congressional Committees Defined.—In this section, the term "covered congressional committees" means the Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives and the Committee on Armed Services and the Select Committee on Intelligence of the Senate.
 
 (Added Pub. L. 112–239, div. A, title IX, §913(c)(1), Jan. 2, 2013, 126 Stat. 1875.)
 
 #### Prior Provisions
 
-Prior sections 2277 to 2279 were repealed by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
-
-Section 2277, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to availability of appropriations.
-
-Section 2278, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to purchases of sample aircraft.
-
-Section 2279, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to restrictions on alien employees of contractors as to access to plans and specifications.
+A prior section 2277, act Aug. 10, 1956, ch. 1041, 70A Stat. 127, related to availability of appropriations, prior to repeal by Pub. L. 103–160, div. A, title VIII, §821(a)(1), Nov. 30, 1993, 107 Stat. 1704.
 

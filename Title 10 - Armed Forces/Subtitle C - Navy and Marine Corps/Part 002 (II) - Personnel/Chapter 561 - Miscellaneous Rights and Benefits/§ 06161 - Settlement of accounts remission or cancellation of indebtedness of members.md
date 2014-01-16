@@ -18,19 +18,19 @@ Regulations.—This section shall be administered under regulations prescribed b
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–181 made technical correction to directory language of Pub. L. 109–364, §673(b)(1). See 2006 Amendment note below.
 
-<b>2006</b>—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows: “If he considers it in the best interest of the United States, the Secretary of the Navy may have remitted or canceled any part of an enlisted member's indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of that member's honorable discharge.”
+<b>2006</b>—Pub. L. 109–163 amended section catchline and text generally. Prior to amendment, text read as follows: "If he considers it in the best interest of the United States, the Secretary of the Navy may have remitted or canceled any part of an enlisted member's indebtedness to the United States or any of its instrumentalities remaining unpaid before, or at the time of that member's honorable discharge."
 
-Subsec. (a). Pub. L. 109–364, §673(e)(2), substituted “The Secretary of the Navy” for “If the Secretary of the Navy considers it to be in the best interest of the United States, the Secretary” and inserted “, but only if the Secretary considers such action to be in the best interest of the United States” before period at end.
+Subsec. (a). Pub. L. 109–364, §673(e)(2), substituted "The Secretary of the Navy" for "If the Secretary of the Navy considers it to be in the best interest of the United States, the Secretary" and inserted ", but only if the Secretary considers such action to be in the best interest of the United States" before period at end.
 
-Pub. L. 109–364, §673(b)(1), as amended by Pub. L. 110–181, substituted “of a person to the United States or any instrumentality of the United States incurred while the person was serving on active duty as a member of the naval service” for “of a member of the Navy on active duty, or a member of a reserve component ofthe Navy in an active status, to the United States or any instrumentality of the United States incurred while the member was serving on active duty”.
+Pub. L. 109–364, §673(b)(1), as amended by Pub. L. 110–181, substituted "of a person to the United States or any instrumentality of the United States incurred while the person was serving on active duty as a member of the naval service" for "of a member of the Navy on active duty, or a member of a reserve component of the Navy in an active status, to the United States or any instrumentality of the United States incurred while the member was serving on active duty".
 
-Subsecs. (b) to (d). Pub. L. 109–364, §673(b)(2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “The Secretary of the Navy may exercise the authority in subsection (a) with respect to a member—
+Subsecs. (b) to (d). Pub. L. 109–364, §673(b)(2), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows: "The Secretary of the Navy may exercise the authority in subsection (a) with respect to a member—
 
-&emsp;“(1) while the member is on active duty or in active status, as the case may be;
+&emsp;"(1) while the member is on active duty or in active status, as the case may be;
 
-&emsp;“(2) if discharged from the armed forces under honorable conditions, during the one-year period beginning on the date of such discharge; or
+&emsp;"(2) if discharged from the armed forces under honorable conditions, during the one-year period beginning on the date of such discharge; or
 
-&emsp;“(3) if released from active status in a reserve component, during the one-year period beginning on the date of such release.”
+&emsp;"(3) if released from active status in a reserve component, during the one-year period beginning on the date of such release."
 
 #### Effective Date of 2008 Amendment
 

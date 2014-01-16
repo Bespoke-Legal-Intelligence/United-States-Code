@@ -30,19 +30,19 @@ The Domestic Volunteer Service Act of 1973, referred to in par. (3), is Pub. L. 
 
 #### Prior Provisions
 
-A prior section 12573, Pub. L. 101–610, title I, §143, Nov. 16, 1990, 104 Stat. 3152, related to types of national service, prior to the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, §102(a).
+A prior section 12573, Pub. L. 101–610, title I, §143, Nov. 16, 1990, 104 Stat. 3152, related to types of nationalservice, prior to the general amendment of subtitle D of title I of Pub. L. 101–610 \[former part D of this subchapter\] by Pub. L. 103–82, §102(a).
 
 A prior section 123 of Pub. L. 101–610 was renumbered section 199C, and is classified to section 12655b of this title.
 
 #### Amendments
 
-<b>2009</b>—Par. (1). Pub. L. 111–13, §1303(1), substituted “subsection (a), (b), or (c) of section 12572” for “section 12572(a)” and struck out “or (b)” before “of section 12571”.
+<b>2009</b>—Par. (1). Pub. L. 111–13, §1303(1), substituted "subsection (a), (b), or (c) of section 12572" for "section 12572(a)" and struck out "or (b)" before "of section 12571".
 
-Par. (2)(A). Pub. L. 111–13, §1303(2), inserted “a territory,” after “subdivision of a State,” and substituted “Federal agency (under an interagency agreement described in section 12571(b) of this title)” for “Federal agency”.
+Par. (2)(A). Pub. L. 111–13, §1303(2), inserted "a territory," after "subdivision of a State," and substituted "Federal agency (under an interagency agreement described in section 12571(b) of this title)" for "Federal agency".
 
-Par. (4). Pub. L. 111–13, §1303(3), substituted “section 12572(a)(1)(B)(vi)” for “section 12572(a)(3)”.
+Par. (4). Pub. L. 111–13, §1303(3), substituted "section 12572(a)(1)(B)(vi)" for "section 12572(a)(3)".
 
-Par. (5). Pub. L. 111–13, §1303(4), inserted “National” before “Civilian Community Corps”.
+Par. (5). Pub. L. 111–13, §1303(4), inserted "National" before "Civilian Community Corps".
 
 Pars. (7), (8). Pub. L. 111–13, §1303(5), (6), added par. (7) and redesignated former par. (7) as (8).
 

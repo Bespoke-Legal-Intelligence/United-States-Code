@@ -26,13 +26,13 @@ June 1, 1955, ch. 113, §102, 69 Stat. 76.
 
 Sept. 29, 1969, Pub. L. 91–74, §102(1st par.), 83 Stat. 118.
 
-In subsection (a), the words “On and after June 1, 1955,” are omitted as executed.
+In subsection (a), the words "On and after June 1, 1955," are omitted as executed.
 
-In subsection (b), the words “On and after September 29, 1969,” are omitted as executed.
+In subsection (b), the words "On and after September 29, 1969," are omitted as executed.
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–234 substituted “rates and amounts” for “rates”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–234 substituted "rates and amounts" for "rates".
 
 #### Effective Date of 1986 Amendment
 

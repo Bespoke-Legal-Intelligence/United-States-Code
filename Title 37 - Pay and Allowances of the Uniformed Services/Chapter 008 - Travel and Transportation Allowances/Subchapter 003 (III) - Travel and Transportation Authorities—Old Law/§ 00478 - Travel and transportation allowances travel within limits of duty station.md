@@ -32,7 +32,7 @@ Historical and Revision Notes
 
 June 30, 1949, ch. 288, §211(m); added Sept. 1, 1954, ch. 1211, §2 (13th par.), 68 Stat. 1126.
 
-The words “(as defined in the Career Compensation Act of 1949, as amended)” and “so directed” are omitted as surplusage. The words “official business of the United States” are substituted for the words “official Government business”.
+The words "(as defined in the Career Compensation Act of 1949, as amended)" and "so directed" are omitted as surplusage. The words "official business of the United States" are substituted for the words "official Government business".
 
 #### Amendments
 
@@ -40,15 +40,15 @@ The words “(as defined in the Career Compensation Act of 1949, as amended)” 
 
 <b>2011</b>—Pub. L. 112–81, §631(d)(2), renumbered section 408 of this title as this section.
 
-Subsec. (b)(1). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted “474” for “404”.
+Subsec. (b)(1). Pub. L. 112–81, §631(f)(4)(A), as amended by Pub. L. 112–239, §1076(a)(9), substituted "474" for "404".
 
 Subsec. (c). Pub. L. 112–81, §631(e)(11), added subsec. (c).
 
 <b>1991</b>—Pub. L. 102–190 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1987</b>—Pub. L. 100–26 substituted “privately owned” for “privately-owned”.
+<b>1987</b>—Pub. L. 100–26 substituted "privately owned" for "privately-owned".
 
-<b>1985</b>—Pub. L. 99–145 inserted “plus parking fees” after “fixed rate a mile”.
+<b>1985</b>—Pub. L. 99–145 inserted "plus parking fees" after "fixed rate a mile".
 
 #### Effective Date of 2013 Amendment
 
@@ -56,5 +56,5 @@ Pub. L. 112–239, div. A, title X, §1076(a), Jan. 2, 2013, 126 Stat. 1947, pro
 
 #### Effective Date of 1985 Amendment
 
-Pub. L. 99–145, title VI, §619(b), Nov. 8, 1985, 99 Stat. 642, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to parking fees incurred after September 30, 1985.”
+Pub. L. 99–145, title VI, §619(b), Nov. 8, 1985, 99 Stat. 642, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply with respect to parking fees incurred after September 30, 1985."
 

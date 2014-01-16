@@ -18,7 +18,7 @@
 
 #### (C) 100 parts per million
 
-&emsp;&emsp;Except as provided in subparagraphs (D) and (E), beginning on the date that is 3 years after August 14, 2008, subparagraph (B) shall be applied by substituting “100 parts per million” for “300 parts per million” unless the Commission determines that a limit of 100 parts per million is not technologically feasible for a product or product category. The Commission may make such a determination only after notice and a hearing and after analyzing the public health protections associated with substantially reducing lead in children's products.
+&emsp;&emsp;Except as provided in subparagraphs (D) and (E), beginning on the date that is 3 years after August 14, 2008, subparagraph (B) shall be applied by substituting "100 parts per million" for "300 parts per million" unless the Commission determines that a limit of 100 parts per million is not technologically feasible for a product or product category. The Commission may make such a determination only after notice and a hearing and after analyzing the public health protections associated with substantially reducing lead in children's products.
 
 #### (D) Alternate reduction of limit
 
@@ -82,7 +82,7 @@
 
 #### (F) Previously submitted petitions
 
-&emsp;&emsp;A party seeking an exception under this paragraph may rely on materials previously submitted in connection with a petition for exclusion under this section. In such cases, petitioners must notify the Commission of their intent to rely on materials previously submitted. Such reliance does not affect petitioners’ obligation to demonstrate that they meet all requirements of this paragraph as required by subparagraph (C)(i).
+&emsp;&emsp;A party seeking an exception under this paragraph may rely on materials previously submitted in connection with a petition for exclusion under this section. In such cases, petitioners must notify the Commission of their intent to rely on materials previously submitted. Such reliance does not affect petitioners' obligation to demonstrate that they meet all requirements of this paragraph as required by subparagraph (C)(i).
 
 #### (2) Exception for inaccessible component parts
 
@@ -106,7 +106,7 @@
 
 &emsp;If the Commission determines that it is not technologically feasible for certain electronic devices, including devices containing batteries, to comply with subsection (a), the Commission, by regulation, shall—
 
-&emsp;&emsp;(A) issue requirements to eliminate or minimize the potential for exposure to and accessibility of lead in such electronic devices, which may include requirements that such electronic devices be equipped with a child-resistant cover or casing that prevents exposure to and accessibility of the parts of the product containing lead; and
+&emsp;&emsp;(A) issue requirements to eliminate or minimize the potential for exposure to andaccessibility of lead in such electronic devices, which may include requirements that such electronic devices be equipped with a child-resistant cover or casing that prevents exposure to and accessibility of the parts of the product containing lead; and
 
 &emsp;&emsp;(B) establish a schedule by which such electronic devices shall be in full compliance with the limits in subsection (a), unless the Commission determines that full compliance will not be technologically feasible for such devices within a schedule set by the Commission.
 
@@ -118,7 +118,7 @@
 
 #### (B) Off-highway vehicle defined
 
-&emsp;&emsp;For purposes of this section, the term “off-highway vehicle”—
+&emsp;&emsp;For purposes of this section, the term "off-highway vehicle"—
 
 &emsp;&emsp;&emsp;(i) means any motorized vehicle—
 
@@ -136,7 +136,7 @@
 
 #### (6) Bicycles and related products
 
-&emsp;In lieu of the lead limits established in subsection (a)(2), the limits set forth for each respective material in the notice of the Commission entitled “Notice of Stay of Enforcement Pertaining to Bicycles and Related Products”, published June 30, 2009 (74 Fed. Reg. 31254), shall apply to any metal component part of the products to which the stay of enforcement described in such notice applies, except that after December 31, 2011, the limits set forth in such notice shall not be more than 300 parts per million total lead content by weight for any metal component part of the products to which such stay pertains.
+&emsp;In lieu of the lead limits established in subsection (a)(2), the limits set forth for each respective material in the notice of the Commission entitled "Notice of Stay of Enforcement Pertaining to Bicycles and Related Products", published June 30, 2009 (74 Fed. Reg. 31254), shall apply to any metal component part of the products to which the stay of enforcement described in such notice applies, except that after December 31, 2011, the limits set forth in such notice shall not be more than 300 parts per million total lead content by weight for any metal component part of the products to which such stay pertains.
 
 #### (7) Exclusion of certain used children's products
 
@@ -146,7 +146,7 @@
 
 #### (B) Definition
 
-&emsp;&emsp;In this paragraph, the term “used children's product” means a children's product (as defined in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a)) <sup>1</sup> that was obtained by the seller for use and not for the purpose of resale or was obtained by the seller, either directly or indirectly, from a person who obtained such children's product for use and not for the purpose of resale. Such term also includes a children's product that was donated to the seller for charitable distribution or resale to support charitable purposes. Such term shall not include—
+&emsp;&emsp;In this paragraph, the term "used children's product" means a children's product (as defined in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a)) <sup>1</sup> that was obtained by the seller for use and not for the purpose of resale or was obtained by the seller, either directly or indirectly, from a person who obtained such children's product for use and not for the purpose of resale. Such term also includes a children's product that was donated to the seller for charitable distribution or resale to support charitable purposes. Such term shall not include—
 
 &emsp;&emsp;&emsp;(i) children's metal jewelry;
 
@@ -154,7 +154,7 @@
 
 &emsp;&emsp;&emsp;(iii) any other children's product or product category that the Commission determines, after notice and a hearing.
 
-> &emsp;&emsp;For purposes of this definition, the term “seller” includes a person who lends or donates a used children's product.
+> &emsp;&emsp;For purposes of this definition, the term "seller" includes a person who lends or donates a used children's product.
 
 #### (8) Periodic review
 
@@ -192,7 +192,7 @@ The pendency of a rulemaking proceeding to consider—
 
 #### (1) In general
 
-&emsp;Effective on the date that is 1 year after August 14, 2008, the Commission shall modify section 1303.1 of its regulations (16 C.F.R. 1301.1) by substituting “0.009 percent” for “0.06 percent” in subsection (a) of that section.
+&emsp;Effective on the date that is 1 year after August 14, 2008, the Commission shall modify section 1303.1 of its regulations (16 C.F.R. 1301.1) by substituting "0.009 percent" for "0.06 percent" in subsection (a) of that section.
 
 #### (2) Periodic review and reduction
 
@@ -218,7 +218,7 @@ The pendency of a rulemaking proceeding to consider—
 
 #### (6) No effect on legal limit
 
-&emsp;Nothing in paragraph (3), nor reliance by the Commission on any alternative method ofmeasurement pursuant to such paragraph, nor any rule prescribed pursuant to paragraph (4), nor any method established pursuant to paragraph (5) shall be construed to alter the limit set forth in section 1303 of title 16, Code of Federal Regulations, as modified pursuant to this subsection, or provide any exemption from such limit.
+&emsp;Nothing in paragraph (3), nor reliance by the Commission on any alternative method of measurement pursuant to such paragraph, nor any rule prescribed pursuant to paragraph (4), nor any method established pursuant to paragraph (5) shall be construed to alter the limit set forth in section 1303 of title 16, Code of Federal Regulations, as modified pursuant to this subsection, or provide any exemption from such limit.
 
 #### (7) Construction
 
@@ -234,7 +234,7 @@ Any ban imposed by subsection (a) or rule promulgated under subsection (a) or (b
 
 The Federal Hazardous Substances Act, referred to in subsec. (a)(1), is Pub. L. 86–613, July 12, 1960, 74 Stat. 372, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1261 of this title and Tables.
 
-The Consumer Product Safety Act, referred to in subsec. (c), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§2051 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2051 of this title and Tables.
+The Consumer Product Safety Act, referred to in subsec. (c), is Pub. L. 92–573, Oct. 27, 1972, 86 Stat. 1207, which is classified generally to chapter 47 (§2051 et seq.) of this title. For complete classification of this Act tothe Code, see Short Title note set out under section 2051 of this title and Tables.
 
 This Act, referred to in subsec. (e)(3), is Pub. L. 110–314, Aug. 14, 2008, 122 Stat. 3016, known as the Consumer Product Safety Improvement Act of 2008. For complete classification of this Act to the Code, see Short Title of 2008 Amendment note set out under section 2051 of this title and Tables.
 
@@ -244,27 +244,27 @@ Section was enacted as part of the Consumer Product Safety Improvement Act of 20
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(1). Pub. L. 112–28, §10(b), substituted “(as defined in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a)))” for “(as defined in section 3(a)(16) of the Consumer Product Safety Act (15 U.S.C. 2052(a)(16)))”.
+<b>2011</b>—Subsec. (a)(1). Pub. L. 112–28, §10(b), substituted "(as defined in section 3(a) of the Consumer Product Safety Act (15 U.S.C. 2052(a)))" for "(as defined in section 3(a)(16) of the Consumer Product Safety Act (15 U.S.C. 2052(a)(16)))".
 
 Subsec. (a)(3). Pub. L. 112–28, §1(a), added par. (3).
 
-Subsec. (b)(1). Pub. L. 112–28, §1(b)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: “The Commission may, by regulation, exclude a specific product or material from the prohibition in subsection (a) if the Commission, after notice and a hearing, determines on the basis of the best-available, objective, peer-reviewed, scientific evidence that lead in such product or material will neither—
+Subsec. (b)(1). Pub. L. 112–28, §1(b)(1), added par. (1) and struck out former par. (1). Prior to amendment, text read as follows: "The Commission may, by regulation, exclude a specific product or material from the prohibition in subsection (a) if the Commission, after notice and a hearing, determines on the basis of the best-available, objective, peer-reviewed, scientific evidence that lead in such product or material will neither—
 
-&emsp;“(A) result in the absorption of any lead into the human body, taking into account normal and reasonably foreseeable use and abuse of such product by a child, including swallowing, mouthing, breaking, or other children's activities, and the aging of the product; nor
+&emsp;"(A) result in the absorption of any lead into the human body, taking into account normal and reasonably foreseeable use and abuse of such product by a child, including swallowing, mouthing, breaking, or other children's activities, and the aging of the product; nor
 
-&emsp;“(B) have any other adverse impact on public health or safety.”
+&emsp;"(B) have any other adverse impact on public health or safety."
 
-Subsec. (b)(2)(A). Pub. L. 112–28, §1(b)(2), substituted “include” for “include to,”.
+Subsec. (b)(2)(A). Pub. L. 112–28, §1(b)(2), substituted "include" for "include to,".
 
 Subsec. (b)(5) to (8). Pub. L. 112–28, §1(b)(3), added pars. (5) to (7) and redesignated former par. (5) as (8).
 
 #### Effective Date of 2011 Amendment
 
-Pub. L. 112–28, §11, Aug. 12, 2011, 125 Stat. 283, provided that: “Except as provided otherwise, the amendments made by this Act \[amending this section and sections 2055a, 2056a, 2056b, 2057c, 2063, 2068, and 2076 of this title and enacting provisions set out as a note under section 2089 of this title\] shall take effect on the date of enactment of this Act \[Aug. 12, 2011\].”
+Pub. L. 112–28, §11, Aug. 12, 2011, 125 Stat. 283, provided that: "Except as provided otherwise, the amendments made by this Act \[amending this section and sections 2055a, 2056a, 2056b, 2057c, 2063, 2068, and 2076 of this title and enacting provisions set out as a note under section 2089 of this title\] shall take effect on the date of enactment of this Act \[Aug. 12, 2011\]."
 
 #### Definition
 
-For definition of “Commission” used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
+For definition of "Commission" used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “2052(a)))”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "2052(a)))".</i>
 

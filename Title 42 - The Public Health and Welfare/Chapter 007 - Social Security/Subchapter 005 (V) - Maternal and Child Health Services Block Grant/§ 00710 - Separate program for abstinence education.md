@@ -12,7 +12,7 @@ For the purpose described in subsection (b) of this section, the Secretary shall
 
 (1) The purpose of an allotment under subsection (a) of this section to a State is to enable the State to provide abstinence education, and at the option of the State, where appropriate, mentoring, counseling, and adult supervision to promote abstinence from sexual activity, with a focus on those groups which are most likely to bear children out-of-wedlock.
 
-(2) For purposes of this section, the term “abstinence education” means an educational or motivational program which—
+(2) For purposes of this section, the term "abstinence education" means an educational or motivational program which—
 
 &emsp;(A) has as its exclusive purpose, teaching the social, psychological, and health gains to be realized by abstaining from sexual activity;
 
@@ -48,11 +48,11 @@ A prior section 710, act Aug. 14, 1935, ch. 531, title V, §510, as added Jan. 2
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a). Pub. L. 111–148, §2954(1), substituted “each of fiscal years 2010 through 2014” for “fiscal year 1998 and each subsequent fiscal year”.
+<b>2010</b>—Subsec. (a). Pub. L. 111–148, §2954(1), substituted "each of fiscal years 2010 through 2014" for "fiscal year 1998 and each subsequent fiscal year".
 
-Subsec. (d). Pub. L. 111–148, §2954(2), substituted “2010 through 2014” for “1998 through 2003” in first sentence and inserted “(except that such appropriation shall be made on March 23, 2010, in the case of fiscal year 2010)” before period at end of second sentence.
+Subsec. (d). Pub. L. 111–148, §2954(2), substituted "2010 through 2014" for "1998 through 2003" in first sentenceand inserted "(except that such appropriation shall be made on March 23, 2010, in the case of fiscal year 2010)" before period at end of second sentence.
 
-<b>2003</b>—Subsec. (d). Pub. L. 108–40 substituted “2003” for “2002”.
+<b>2003</b>—Subsec. (d). Pub. L. 108–40 substituted "2003" for "2002".
 
 #### Effective Date of 2003 Amendment
 
@@ -62,15 +62,15 @@ Amendment by Pub. L. 108–40 effective July 1, 2003, see section 8 of Pub. L. 1
 
 Pub. L. 104–193, title IX, §905, Aug. 22, 1996, 110 Stat. 2349, provided that:
 
-“(a)
+"(a)
 
 In General.—Not later than January 1, 1997, the Secretary of Health and Human Services shall establish and implement a strategy for—
 
-&emsp;“(1) preventing out-of-wedlock teenage pregnancies, and
+&emsp;"(1) preventing out-of-wedlock teenage pregnancies, and
 
-&emsp;“(2) assuring that at least 25 percent of the communities in the United States have teenage pregnancy prevention programs in place.
+&emsp;"(2) assuring that at least 25 percent of the communities in the United States have teenage pregnancy prevention programs in place.
 
-“(b)
+"(b)
 
-Report.—Not later than June 30, 1998, and annually thereafter, the Secretary shall report to the Congress with respect to the progress that has been made in meeting the goals described in paragraphs (1) and (2) of subsection (a).”
+Report.—Not later than June 30, 1998, and annually thereafter, the Secretary shall report to the Congress with respect to the progress that has been made in meeting the goals described in paragraphs (1) and (2) of subsection (a)."
 

@@ -12,9 +12,9 @@ In case of the resale of such property, the proceeds of the sale shall be paid i
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
-<b>1966</b>—Pub. L. 89–719 substituted “acquired by the United States in payment of or as security for debts arising under the internal revenue laws” for “purchased by the United States under the authority of section 6335(e) (relating to purchase for the account of the United States of property sold under levy)” in subsec. (a), and substituted “acquired” for “purchased” in section catchline.
+<b>1966</b>—Pub. L. 89–719 substituted "acquired by the United States in payment of or as security for debts arising under the internal revenue laws" for "purchased by the United States under the authority of section 6335(e) (relating to purchase for the account of the United States of property sold under levy)" in subsec. (a), and substituted "acquired" for "purchased" in section catchline.
 
 #### Effective Date of 1966 Amendment
 

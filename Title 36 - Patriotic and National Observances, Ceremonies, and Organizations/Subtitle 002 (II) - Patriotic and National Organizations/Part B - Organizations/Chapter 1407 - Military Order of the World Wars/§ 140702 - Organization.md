@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Military Order of the World Wars (in this chapter, the “corporation”), a nonprofit corporation incorporated in the District of Columbia, is a federally chartered corporation.
+Federal Charter.—Military Order of the World Wars (in this chapter, the "corporation"), a nonprofit corporation incorporated in the District of Columbia, is a federally chartered corporation.
 
 (b)
 
@@ -40,5 +40,5 @@ Oct. 23, 1992, Pub. L. 102–484, title XVIII, §§1801, 1815 (last sentence), 1
 
 Subsection (a) is substituted for the source provision for consistency in the revised title.
 
-In subsection (b), the words “restriction or other” in 36:5015 are omitted as unnecessary. The text of 36:5014 (last sentence) is omitted as unnecessary because of clause (2) of the revised subsection.
+In subsection (b), the words "restriction or other" in 36:5015 are omitted as unnecessary. The text of 36:5014 (last sentence) is omitted as unnecessary because of clause (2) of the revised subsection.
 

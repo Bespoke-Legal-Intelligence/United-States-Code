@@ -22,17 +22,17 @@ Whenever it appears to the Attorney General that a drug not considered to be a p
 
 (2) As used in this subsection:
 
-&emsp;(A) The term “valid prescription” means a prescription that is issued for a legitimate medical purpose in the usual course of professional practice by—
+&emsp;(A) The term "valid prescription" means a prescription that is issued for a legitimate medical purpose in the usual course of professional practice by—
 
 &emsp;&emsp;(i) a practitioner who has conducted at least 1 in-person medical evaluation of the patient; or
 
 &emsp;&emsp;(ii) a covering practitioner.
 
-&emsp;(B)(i) The term “in-person medical evaluation” means a medical evaluation that is conducted with the patient in the physical presence of the practitioner, without regard to whether portions of the evaluation are conducted by other health professionals.
+&emsp;(B)(i) The term "in-person medical evaluation" means a medical evaluation that is conducted with the patient in the physical presence of the practitioner, without regard to whether portions of the evaluation are conducted by other health professionals.
 
 &emsp;(ii) Nothing in clause (i) shall be construed to imply that 1 in-person medical evaluation demonstrates that a prescription has been issued for a legitimate medical purpose within the usual course of professional practice.
 
-&emsp;(C) The term “covering practitioner” means, with respect to a patient, a practitioner who conducts a medical evaluation (other than an in-person medical evaluation) at the request of a practitioner who—
+&emsp;(C) The term "covering practitioner" means, with respect to a patient, a practitioner whoconducts a medical evaluation (other than an in-person medical evaluation) at the request of a practitioner who—
 
 &emsp;&emsp;(i) has conducted at least 1 in-person medical evaluation of the patient or an evaluation of the patient through the practice of telemedicine, within the previous 24 months; and
 
@@ -62,5 +62,5 @@ Amendment by Pub. L. 110–425 effective 180 days after Oct. 15, 2008, except as
 
 #### Effect of Scheduling on Prescriptions
 
-Pub. L. 101–647, title XIX, §1902(c), Nov. 29, 1990, 104 Stat. 4852, provided that: “Any prescription for anabolic steroids subject to refill on or after the date of enactment of the amendments made by this section \[Nov. 29, 1990\] may be refilled without restriction under section 309(a) of the Controlled Substances Act (21 U.S.C. 829(a)).”
+Pub. L. 101–647, title XIX, §1902(c), Nov. 29, 1990, 104 Stat. 4852, provided that: "Any prescription for anabolic steroids subject to refill on or after the date of enactment of the amendments made by this section \[Nov. 29, 1990\] may be refilled without restriction under section 309(a) of the Controlled Substances Act (21 U.S.C. 829(a))."
 

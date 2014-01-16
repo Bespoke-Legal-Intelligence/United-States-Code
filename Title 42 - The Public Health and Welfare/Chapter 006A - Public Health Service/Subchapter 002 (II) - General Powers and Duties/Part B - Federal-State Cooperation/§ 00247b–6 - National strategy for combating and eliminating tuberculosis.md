@@ -78,7 +78,7 @@ The Secretary may make a grant under subsection (a) or (b) of this section only 
 
 #### (1) In general
 
-&emsp;The Secretary shall establish an advisory council to be known as the Advisory Council for the Elimination of Tuberculosis (in this subsection referred to as the “Council”).
+&emsp;The Secretary shall establish an advisory council to be known as the Advisory Council for the Elimination of Tuberculosis (in this subsection referred to as the "Council").
 
 #### (2) Duties
 
@@ -122,7 +122,7 @@ The Secretary may make a grant under subsection (a) or (b) of this section only 
 
 #### (A) In general
 
-&emsp;&emsp;The Council shall submit a biennial report to the Secretary, as determined necessary by the Secretary, on the activities carriedunder this section. Each such report shall include the opinion of the Council on the extent to which its recommendations regarding the elimination of tuberculosis have been implemented, including with respect to—
+&emsp;&emsp;The Council shall submit a biennial report to the Secretary, as determined necessary by the Secretary, on the activities carried under this section. Each such report shall include the opinion of the Council on the extent to which its recommendations regarding the elimination of tuberculosis have been implemented, including with respect to—
 
 &emsp;&emsp;&emsp;(i) activities under subsection (b); and
 
@@ -152,7 +152,7 @@ The Secretary may make a grant under subsection (a) or (b) of this section only 
 
 #### (1) Duties
 
-&emsp;The Federal Tuberculosis Task Force (in this subsection referred to as the “Task Force”) shall provide to the Secretary and other appropriate Federal officials advice on research into new tools under subsection (b)(2), including advice regarding the efficient utilization of the Federal resources involved.
+&emsp;The Federal Tuberculosis Task Force (in this subsection referred to as the "Task Force") shall provide to the Secretary and other appropriate Federal officials advice on research into new tools under subsection (b)(2), including advice regarding the efficient utilization of the Federal resources involved.
 
 #### (2) Comprehensive plan for new tools development
 
@@ -216,7 +216,7 @@ Section 256a of this title, referred to in subsec. (c), was repealed by Pub. L. 
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–392, §101(1), substituted “National strategy for combating and eliminating tuberculosis” for “Preventive health services regarding tuberculosis” in section catchline.
+<b>2008</b>—Pub. L. 110–392, §101(1), substituted "National strategy for combating and eliminating tuberculosis" for "Preventive health services regarding tuberculosis" in section catchline.
 
 Subsec. (b). Pub. L. 110–392, §101(2), amended subsec. (b) generally. Prior to amendment, subsec. (b) related to research, demonstration projects, education, and training for the purpose of prevention, control, and elimination of tuberculosis.
 
@@ -230,17 +230,17 @@ Subsec. (h). Pub. L. 110–392, §131, added subsec. (h) and struck out former s
 
 Pub. L. 110–392, §111(c)(1), redesignated subsec. (g) as (h).
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–163 substituted “254b” for “254c, 254b(h)” before “, or”.
+<b>2003</b>—Subsec. (c). Pub. L. 108–163 substituted "254b" for "254c, 254b(h)" before ", or".
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–251 substituted “254b(h)” for “256”.
+<b>2002</b>—Subsec. (c). Pub. L. 107–251 substituted "254b(h)" for "256".
 
-<b>1998</b>—Subsec. (g)(1)(A). Pub. L. 105–392, §405(1)(A), substituted “2002” for “1998”.
+<b>1998</b>—Subsec. (g)(1)(A). Pub. L. 105–392, §405(1)(A), substituted "2002" for "1998".
 
-Subsec. (g)(1)(B). Pub. L. 105–392, §405(1)(B), substituted “25 percent” for “$50,000,000”.
+Subsec. (g)(1)(B). Pub. L. 105–392, §405(1)(B), substituted "25 percent" for "$50,000,000".
 
-Subsec. (g)(2). Pub. L. 105–392, §405(2), substituted “2002” for “1998”.
+Subsec. (g)(2). Pub. L. 105–392, §405(2), substituted "2002" for "1998".
 
-Pub. L. 105–392, §401(b)(1), substituted “carrying out subsection (b)” for “making grants under subsection (b)”.
+Pub. L. 105–392, §401(b)(1), substituted "carrying out subsection (b)" for "making grants under subsection (b)".
 
 #### Effective Date of 2003 Amendment
 
@@ -252,7 +252,7 @@ Amendment by section 401(b)(1) of Pub. L. 105–392 deemed to have taken effect 
 
 #### Construction of 2008 Amendment
 
-Pub. L. 110–392, title I, §111(b), Oct. 13, 2008, 122 Stat. 4199, provided that: “With respect to the advisory council under section 317E(f) of the Public Health Service Act \[42 U.S.C. 247b–6(f)\], the amendments made by subsection (a) \[amending this section\] may not be construed as terminating the membership on such council of any individual serving as such a member as of the day before the date of the enactment of this Act \[Oct. 13, 2008\].”
+Pub. L. 110–392, title I, §111(b), Oct. 13, 2008, 122 Stat. 4199, provided that: "With respect to the advisory council under section 317E(f) of the Public Health Service Act \[42 U.S.C. 247b–6(f)\], the amendments made by subsection (a) \[amending this section\] may not be construed as terminating the membership on such council of any individual serving as such a member as of the day before the date of the enactment of this Act \[Oct. 13, 2008\]."
 
 #### Termination of Advisory Councils
 
@@ -262,5 +262,5 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 
 <i><sup>1</sup></i><i> See References in Text notes below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “paragraph (2),”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "paragraph (2),".</i>
 

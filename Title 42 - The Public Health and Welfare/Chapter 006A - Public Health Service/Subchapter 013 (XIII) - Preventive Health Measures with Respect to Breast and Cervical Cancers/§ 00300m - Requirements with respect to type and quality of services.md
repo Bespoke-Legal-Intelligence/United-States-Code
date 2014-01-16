@@ -42,11 +42,11 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;&emsp;(D) the State involved submits to the Secretary—
 
-&emsp;&emsp;&emsp;(i) assurances, satisfactory to the Secretary, that the State will maintain the average annual level of State fiscal year expenditures for the services and activities described in paragraphs (1) and (2) of section 300k(a) of this title for the period for which the waiver is granted, and for the period for which any extension of such wavier is granted, at a level that is not less than—
+&emsp;&emsp;&emsp;(i) assurances, satisfactory to the Secretary, that the State will maintain the average annual level of State fiscal year expenditures for the services and activities described in paragraphs (1) and (2) of section 300k(a) of this title for the period for which the waiver is granted, and for the period for which any extension of such wavier <sup>1</sup> is granted, at a level that is not less than—
 
 &emsp;&emsp;&emsp;&emsp;(I) the level of the State fiscal year expenditures for such services and activities for the fiscal year preceding the first fiscal year for which the waiver is granted; or
 
-&emsp;&emsp;&emsp;&emsp;(II) at the option of the State and upon approval by the Secretary, the average level of the State expenditures for such services and activities for the 3-fiscal year period preceding the first fiscal year for which the waiver is granted; and
+&emsp;&emsp;&emsp;&emsp;(II) at the option of the State and upon approval by the Secretary, the averagelevel of the State expenditures for such services and activities for the 3-fiscal year period preceding the first fiscal year for which the waiver is granted; and
 
 &emsp;&emsp;&emsp;(ii) a plan, satisfactory to the Secretary, for maintaining the level of activities carried out under the waiver after the expiration of the waiver and any extension of such waiver;
 
@@ -86,7 +86,7 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 &emsp;The Secretary shall include as part of the evaluations and reports required under section 300n–4 of this title, the following:
 
-&emsp;&emsp;(A) A description of the total amount of dollars leveraged annually from Non-Federal <sup>1</sup> entities in States receiving a waiver under paragraph (1) and how these amounts were used.
+&emsp;&emsp;(A) A description of the total amount of dollars leveraged annually from Non-Federal <sup>2</sup> entities in States receiving a waiver under paragraph (1) and how these amounts were used.
 
 &emsp;&emsp;(B) With respect to States receiving a waiver under paragraph (1), a description of the percentage of the grant that is expended on providing each of the services or activities described in—
 
@@ -112,15 +112,15 @@ The Secretary may not make a grant under section 300k of this title unless the S
 
 #### (A) Indian tribe
 
-&emsp;&emsp;The term “Indian tribe” has the meaning given the term in section 1603 of title 25.
+&emsp;&emsp;The term "Indian tribe" has the meaning given the term in section 1603 of title 25.
 
 #### (B) Tribal organization
 
-&emsp;&emsp;The term “tribal organization” has the meaning given the term in section 1603 of title 25.
+&emsp;&emsp;The term "tribal organization" has the meaning given the term in section 1603 of title 25.
 
 #### (C) State
 
-&emsp;&emsp;The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the Federated States of Micronesia, the Republic of Palau, an Indian tribe, and a tribal organization.
+&emsp;&emsp;The term "State" means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, American Samoa, the Commonwealth of the Northern Mariana Islands, the Republic of the Marshall Islands, the FederatedStates of Micronesia, the Republic of Palau, an Indian tribe, and a tribal organization.
 
 #### (6) Sunset
 
@@ -156,7 +156,9 @@ Section 300m–6, act July 1, 1944, ch. 373, title XV, §1527, as added Oct. 4, 
 
 #### Transition Rule Regarding Mammographies
 
-Pub. L. 103–183, title I, §101(c)(2), Dec. 14, 1993, 107 Stat. 2228, provided that: “With respect to the screening procedure for breast cancer known as a mammography, the requirements in effect on the day before the date of the enactment of this Act \[Dec. 14, 1993\] under section 1503(c) of the Public Health Service Act \[subsec. (c) of this section\] remain in effect (for an individual or facility conducting such procedures pursuant to a grant to a State under section 1501 of such Act \[section 300k of this title\]) until there is in effect for the facility a certificate (or provisional certificate) issued under section 354 of such Act \[section 263b of this title\].”
+Pub. L. 103–183, title I, §101(c)(2), Dec. 14, 1993, 107 Stat. 2228, provided that: "With respect to the screening procedure for breast cancer known as a mammography, the requirements in effect on the day before the date of the enactment of this Act \[Dec. 14, 1993\] under section 1503(c) of the Public Health Service Act \[42 U.S.C. 300m(c)\] remain in effect (for an individual or facility conducting such procedures pursuant to a grant to a State under section 1501 of such Act \[42 U.S.C. 300k\]) until there is in effect for the facility a certificate (or provisional certificate) issued under section 354 of such Act \[42 U.S.C. 263b\]."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “non-Federal”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "waiver".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be "non-Federal".</i>
 

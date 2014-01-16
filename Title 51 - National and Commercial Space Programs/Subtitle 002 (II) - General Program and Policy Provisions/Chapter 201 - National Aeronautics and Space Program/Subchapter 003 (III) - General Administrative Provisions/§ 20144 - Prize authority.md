@@ -34,7 +34,7 @@ Liability.—
 
 &emsp;(1)
 
-Assumption of risk.—Registered participants must agree to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in a competition, whether such injury, death, damage, or loss arises through negligence or otherwise. For the purposes of this paragraph, the term “related entity” means a contractor or subcontractor at any tier, and a supplier, user, customer, cooperating party, grantee, investigator, or detailee.
+Assumption of risk.—Registered participants must agree to assume any and all risks and waive claims against the Federal Government and its related entities, except in the case of willful misconduct, for any injury, death, damage, or loss of property, revenue, or profits, whether direct, indirect, or consequential, arising from their participation in a competition, whether such injury, death, damage, or loss arises through negligence or otherwise. For the purposes of this paragraph, the term "related entity" means a contractor or subcontractor at any tier, and a supplier, user, customer, cooperating party, grantee, investigator, or detailee.
 
 &emsp;(2)
 
@@ -70,7 +70,7 @@ Availability.—
 
 &emsp;&emsp;(A)
 
-Definition of provisions known as the anti-deficiency act.—In this paragraph, the term “provisions known as the Anti-Deficiency Act” means sections 1341, 1342, 1349(a), 1350, 1351, 1511, 1512, 1513, 1514, 1515, 1516, 1517, 1518, and 1519 of title 31.
+Definition of provisions known as the anti-deficiency act.—In this paragraph, the term "provisions known as the Anti-Deficiency Act" means sections 1341, 1342, 1349(a), 1350, 1351, 1511, 1512, 1513, 1514, 1515, 1516, 1517, 1518, and 1519 of title 31.
 
 &emsp;&emsp;(B)
 
@@ -112,7 +112,7 @@ Compliance With Existing Law.—The Federal Government shall not, by virtue of o
 
 #### Amendment Not Shown in Text
 
-<i>This section was derived from section 2459f–1 of Title 42, The Public Health and Welfare, which was amended by Pub. L. 111–358, title I, §105(b), Jan. 4, 2011, 124 Stat. 3993. For applicability of this amendment to this section, see section 5(b) of Pub. L. 111–314, set out as a Transitional and Savings Provisions note preceding section 10101 of this title. Former section 2459f–1 of Title 42 was amended by striking out “The Administration may carry out a program to award prizes only in conformity with this section.”</i>
+<i>This section was derived from section 2459f–1 of Title 42, The Public Health and Welfare, which was amended by Pub. L. 111–358, title I, §105(b), Jan. 4, 2011, 124 Stat. 3993. For applicability of this amendment to this section, see section 5(b) of Pub. L. 111–314, set out as a Transitional and Savings Provisions note preceding section 10101 of this title. Former section 2459f–1 of Title 42 was amended by striking out "The Administration may carry out a program to award prizes only in conformity with this section."</i>
 
 Historical and Revision Notes
 
@@ -130,9 +130,9 @@ Historical and Revision Notes
 
 Pub. L. 85–568, title III, §314, as added Pub. L. 109–155, title I, §104, Dec. 30, 2005, 119 Stat. 2910; Pub. L. 110–422, title XI, §1105(b), Oct. 15, 2008, 122 Stat. 4809.
 
-In subsection (i)(2), subparagraph (A) is added, and the words “provisions known as the Anti-Deficiency Act” are substituted for “the Anti-Deficiency Act (31 U.S.C. 1341)”, for clarity.
+In subsection (i)(2), subparagraph (A) is added, and the words "provisions known as the Anti-Deficiency Act" are substituted for "the Anti-Deficiency Act (31 U.S.C. 1341)", for clarity.
 
-In subsection (i)(4), the words “Committee on Science and Technology” are substituted for “Committee on Science” on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
+In subsection (i)(4), the words "Committee on Science and Technology" are substituted for "Committee on Science" on authority of Rule X(1)(o) of the Rules of the House of Representatives, adopted by House Resolution No. 6 (110th Congress, January 5, 2007).
 
 #### Change of Name
 
@@ -140,5 +140,5 @@ Committee on Science and Technology of House of Representatives changed to Commi
 
 #### Purpose
 
-Pub. L. 110–422, title XI, §1105(a), Oct. 15, 2008, 122 Stat. 4809, provided that: “Prizes can play a useful role in encouraging innovation in the development of technologies and products that can assist NASA \[National Aeronautics and Space Administration\] in its aeronautics and space activities, and the use of such prizes by NASA should be encouraged.”
+Pub. L. 110–422, title XI, §1105(a), Oct. 15, 2008, 122 Stat. 4809, provided that: "Prizes can play a useful role in encouraging innovation in the development of technologies and products that can assist NASA \[National Aeronautics and Space Administration\] in its aeronautics and space activities, and the use of such prizes by NASA should be encouraged."
 

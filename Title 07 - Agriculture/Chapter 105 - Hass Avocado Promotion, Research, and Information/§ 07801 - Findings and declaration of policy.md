@@ -18,7 +18,7 @@ Congress finds the following:
 
 #### (b) Purpose
 
-It is the purpose of this chapter to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderlyprocedure for the development and financing (through an adequate assessment on Hass avocados sold by producers and importers in the United States) of an effective and coordinated program of promotion, research, industry information, and consumer information, including funds for marketing and market research activities, that is designed to—
+It is the purpose of this chapter to authorize the establishment, through the exercise of the powers provided in this chapter, of an orderly procedure for the development and financing (through an adequate assessment on Hass avocados sold by producers and importers in the United States) of an effective and coordinated program of promotion, research, industry information, and consumer information, including funds for marketing and market research activities, that is designed to—
 
 &emsp;(1) strengthen the position of the Hass avocado industry in the domestic marketplace; and
 
@@ -32,5 +32,5 @@ Nothing in this chapter may be construed to provide for the control of productio
 
 #### Short Title
 
-Pub. L. 106–387, §1(a) \[title XII, §1201\], Oct. 28, 2000, 114 Stat. 1549, 1549A–79, provided that: “This title \[enacting this chapter\] may be cited as the ‘Hass Avocado Promotion, Research, and Information Act of 2000’.”
+Pub. L. 106–387, §1(a) \[title XII, §1201\], Oct. 28, 2000, 114 Stat. 1549, 1549A–79, provided that: "This title \[enacting this chapter\] may be cited as the 'Hass Avocado Promotion, Research, and Information Act of 2000'."
 

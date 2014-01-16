@@ -4,15 +4,15 @@ In this part:
 
 #### (1) Agent
 
-&emsp;The term “agent” means an officer or employee of a covered institution or an institution-affiliated organization.
+&emsp;The term "agent" means an officer or employee of a covered institution or an institution-affiliated organization.
 
 #### (2) Covered institution
 
-&emsp;The term “covered institution” means any institution of higher education, as such term is defined in section 1002 of this title, that receives any Federal funding or assistance.
+&emsp;The term "covered institution" means any institution of higher education, as such term is defined in section 1002 of this title, that receives any Federal funding or assistance.
 
 #### (3) Education loan
 
-&emsp;The term “education loan” (except when used as part of the term “private education loan”) means—
+&emsp;The term "education loan" (except when used as part of the term "private education loan") means—
 
 &emsp;&emsp;(A) any loan made, insured, or guaranteed under part B of subchapter IV;
 
@@ -22,11 +22,11 @@ In this part:
 
 #### (4) Eligible lender
 
-&emsp;The term “eligible lender” has the meaning given such term in section 1085(d) of this title.
+&emsp;The term "eligible lender" has the meaning given such term in section 1085(d) of this title.
 
 #### (5) Institution-affiliated organization
 
-&emsp;The term “institution-affiliated organization”—
+&emsp;The term "institution-affiliated organization"—
 
 &emsp;&emsp;(A) means any organization that—
 
@@ -40,7 +40,7 @@ In this part:
 
 #### (6) Lender
 
-&emsp;The term “lender” (except when used as part of the terms “eligible lender” and “private educational lender”)—
+&emsp;The term "lender" (except when used as part of the terms "eligible lender" and "private educational lender")—
 
 &emsp;&emsp;(A) means—
 
@@ -54,11 +54,11 @@ In this part:
 
 #### (7) Officer
 
-&emsp;The term “officer” includes a director or trustee of a covered institution or institution-affiliated organization, if such individual is treated as an employee of such covered institution or institution-affiliated organization, respectively.
+&emsp;The term "officer" includes a director or trustee of a covered institution or institution-affiliated organization, if such individual is treated as an employee of such covered institution or institution-affiliated organization, respectively.
 
 #### (8) Preferred lender arrangement
 
-&emsp;The term “preferred lender arrangement”—
+&emsp;The term "preferred lender arrangement"—
 
 &emsp;&emsp;(A) means an arrangement or agreement between a lender and a covered institution or an institution-affiliated organization of such covered institution—
 
@@ -74,7 +74,11 @@ In this part:
 
 #### (9) Private education loan
 
-&emsp;The term “private education loan” has the meaning given the term in section 1650 of title 15.
+&emsp;The term "private education loan" has the meaning given the term in section 1650 of title 15.
 
 (Pub. L. 89–329, title I, §151, as added Pub. L. 110–315, title I, §120, Aug. 14, 2008, 122 Stat. 3117.)
+
+#### Prior Provisions
+
+A prior section 1019, Pub. L. 89–329, title I, §119, as added Pub. L. 96–374, title I, §101(a), Oct. 3, 1980, 94 Stat. 1383, authorized appropriations for education outreach programs, prior to the general amendment of this subchapter by Pub. L. 99–498.
 

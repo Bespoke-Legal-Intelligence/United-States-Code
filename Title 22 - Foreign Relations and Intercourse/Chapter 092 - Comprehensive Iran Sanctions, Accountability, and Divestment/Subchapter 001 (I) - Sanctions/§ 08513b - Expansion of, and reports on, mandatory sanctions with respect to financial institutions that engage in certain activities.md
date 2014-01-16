@@ -34,15 +34,15 @@ In this section:
 
 #### (1) Financial institution
 
-&emsp;The term “financial institution” means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (K), (M), (N), (R), or (Y) of section 5312(a)(2) of title 31.
+&emsp;The term "financial institution" means a financial institution specified in subparagraph (A), (B), (C), (D), (E), (F), (G), (H), (I), (J), (K), (M), (N), (R), or (Y) of section 5312(a)(2) of title 31.
 
 #### (2) Foreign financial institution
 
-&emsp;The term “foreign financial institution” has the meaning of that term as determined by the Secretary of the Treasury pursuant to section 8513(i) of this title.
+&emsp;The term "foreign financial institution" has the meaning of that term as determined by the Secretary of the Treasury pursuant to section 8513(i) of this title.
 
 #### (3) Iranian financial institution
 
-&emsp;The term “Iranian financial institution” means—
+&emsp;The term "Iranian financial institution" means—
 
 &emsp;&emsp;(A) a financial institution organized under the laws of Iran or any jurisdiction within Iran, including a foreign branch of such an institution;
 

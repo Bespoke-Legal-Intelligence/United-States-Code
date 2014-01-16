@@ -10,7 +10,7 @@ Funds made available for adult education and literacy activities under this part
 
 #### (A) Determination
 
-&emsp;&emsp;An eligible agency may receive funds under this part for any fiscal year if the Secretary finds that the fiscal effort per student or the aggregate expenditures of such eligible agency for adult education and literacyactivities, in the second preceding fiscal year, was not less than 90 percent of the fiscal effort per student or the aggregate expenditures of such eligible agency for adult education and literacy activities, in the third preceding fiscal year.
+&emsp;&emsp;An eligible agency may receive funds under this part for any fiscal year if the Secretary finds that the fiscal effort per student or the aggregate expenditures of such eligible agency for adult education and literacy activities, in the second preceding fiscal year, was not less than 90 percent of the fiscal effort per student or the aggregate expenditures of such eligible agency for adult education and literacy activities, in the third preceding fiscal year.
 
 #### (B) Proportionate reduction
 

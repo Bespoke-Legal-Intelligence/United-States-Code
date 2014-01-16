@@ -16,19 +16,19 @@ Exceptions.—Subsection (a) does not apply to the following:
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, substituted “Except as provided in subsection (b) and as provided” for “Except an officer of the Navy who is designated for limited duty to whom section 6383(a)(4) of this title applies and except as provided”, and added subsec. (b).
+<b>2006</b>—Pub. L. 109–163 designated existing provisions as subsec. (a), inserted heading, substituted "Except as provided in subsection (b) and as provided" for "Except an officer of the Navy who is designated for limited duty to whom section 6383(a)(4) of this title applies and except as provided", and added subsec. (b).
 
-<b>1998</b>—Pub. L. 105–261 inserted “an officer of the Navy who is designated for limited duty to whom section 6383(a)(4) of this title applies and except” after “Except” and struck out at end “During the period beginning on July 1, 1993, and ending on October 1, 1999, the preceding sentence shall not apply to an officer of the Regular Navy designated for limited duty to whom section 6383(a)(4) of this title applies.”
+<b>1998</b>—Pub. L. 105–261 inserted "an officer of the Navy who is designated for limited duty to whom section 6383(a)(4) of this title applies and except" after "Except" and struck out at end "During the period beginning on July 1, 1993, and ending on October 1, 1999, the preceding sentence shall not apply to an officer of the Regular Navy designated for limited duty to whom section 6383(a)(4) of this title applies."
 
-<b>1993</b>—Pub. L. 103–160 substituted “October 1, 1999” for “October 1, 1995”.
+<b>1993</b>—Pub. L. 103–160 substituted "October 1, 1999" for "October 1, 1995".
 
-<b>1992</b>—Pub. L. 102–484 inserted at end “During the period beginning on July 1, 1993, and ending on October 1, 1995, the preceding sentence shall not apply to an officer of the Regular Navy designated for limited duty to whom section 6383(a)(4) of this title applies.”
+<b>1992</b>—Pub. L. 102–484 inserted at end "During the period beginning on July 1, 1993, and ending on October 1, 1995, the preceding sentence shall not apply to an officer of the Regular Navy designated for limited duty to whom section 6383(a)(4) of this title applies."
 
-<b>1985</b>—Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Pub. L. 99–145 substituted "rear admiral (lower half)" for "commodore".
 
-<b>1984</b>—Pub. L. 98–525 substituted “30” for “thirty”.
+<b>1984</b>—Pub. L. 98–525 substituted "30" for "thirty".
 
-<b>1981</b>—Pub. L. 97–86 substituted “commodore” for “commodore admiral”.
+<b>1981</b>—Pub. L. 97–86 substituted "commodore" for "commodore admiral".
 
 #### Effective Date of 1981 Amendment
 

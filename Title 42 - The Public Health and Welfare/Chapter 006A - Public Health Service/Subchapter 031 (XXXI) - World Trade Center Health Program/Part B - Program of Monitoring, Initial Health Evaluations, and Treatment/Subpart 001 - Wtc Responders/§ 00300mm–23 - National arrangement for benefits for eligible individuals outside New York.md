@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to ensure reasonable access to benefits under this part for individuals who are enrolled WTC responders, screening-eligible WTC survivors, or certified-eligible WTC survivors and who reside in any State, as defined in section 201(f) of this title, outside the New York metropolitan area, the WTC Program Administrator shall establish a nationwide network of health care providers to provide monitoring and treatment benefits and initial health evaluations near such individuals’ areas of residence in such States. Nothing in this subsection shall be construed as preventing such individuals from being provided such monitoring and treatment benefits or initial health evaluation through any Clinical Center of Excellence.
+In order to ensure reasonable access to benefits under this part for individuals who are enrolled WTC responders, screening-eligible WTC survivors, or certified-eligible WTC survivors and who reside in any State, as defined in section 201(f) of this title, outside the New York metropolitan area, the WTC Program Administrator shall establish a nationwide network of health care providers to provide monitoring and treatment benefits and initial health evaluations near such individuals' areas of residence in such States. Nothing in this subsection shall be construed as preventing such individuals from being provided such monitoring and treatment benefits or initial health evaluation through any Clinical Center of Excellence.
 
 #### (b) Network requirements
 
@@ -32,5 +32,5 @@ The WTC Program Administer <sup>1</sup> may provide, including through contract
 
 (July 1, 1944, ch. 373, title XXXIII, §3313, as added Pub. L. 111–347, title I, §101, Jan. 2, 2011, 124 Stat. 3647.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Administrator”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Administrator".</i>
 

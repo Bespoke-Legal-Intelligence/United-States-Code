@@ -12,7 +12,7 @@ State agencies and area agencies on aging shall not request information or data 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–501 substituted “and area agencies on aging” for “, area agencies on aging, and entities described in section 3058aa(c) of this title”.
+<b>2000</b>—Subsec. (b). Pub. L. 106–501 substituted "and area agencies on aging" for ", area agencies on aging, and entities described in section 3058aa(c) of this title".
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–171 substituted “Assistant Secretary” for “Commissioner” in two places.
+<b>1993</b>—Subsec. (a). Pub. L. 103–171 substituted "Assistant Secretary" for "Commissioner" in two places.
 

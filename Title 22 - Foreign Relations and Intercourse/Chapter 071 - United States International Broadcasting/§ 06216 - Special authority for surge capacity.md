@@ -12,7 +12,7 @@
 
 #### (3) Surge capacity defined
 
-&emsp;In this subsection, the term “surge capacity” means the financial and technical resources necessary to carry out broadcasting activities in a geographical area during a crisis abroad.
+&emsp;In this subsection, the term "surge capacity" means the financial and technical resources necessary to carry out broadcasting activities in a geographical area during a crisis abroad.
 
 #### (4) Duration
 
@@ -22,7 +22,7 @@
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to the President such sums as may be necessary for the President to carry out this section, except that no such amount may be appropriated which, when added to amounts previously appropriated for such purpose but not yet obligated, would cause such amounts to exceed $25,000,000.
+&emsp;There are authorized to be appropriated to the President such sums as may be necessaryfor the President to carry out this section, except that no such amount may be appropriated which, when added to amounts previously appropriated for such purpose but not yet obligated, would cause such amounts to exceed $25,000,000.
 
 #### (2) Availability of funds
 
@@ -30,7 +30,7 @@
 
 #### (3) Designation of appropriations
 
-&emsp;Amounts appropriated pursuant to the authorization of appropriations in this subsection may be referred to as the “United States International Broadcasting Surge Capacity Fund”.
+&emsp;Amounts appropriated pursuant to the authorization of appropriations in this subsection may be referred to as the "United States International Broadcasting Surge Capacity Fund".
 
 #### (c) Report
 
@@ -42,15 +42,15 @@ The annual report submitted to the President and Congress by the Broadcasting Bo
 
 Pub. L. 110–53, title XX, §2031(a), (b), Aug. 3, 2007, 121 Stat. 515, provided that:
 
-“(a)
+"(a)
 
-Finding.—Congress finds that the report of the National Commission on Terrorist Attacks Upon the United States stated that ‘Recognizing that Arab and Muslim audiences rely on satellite television and radio, the government has begun some promising initiatives in television and radio broadcasting to the Arab world, Iran, and Afghanistan. These efforts are beginning to reach large audiences. The Broadcasting Board of Governors has asked for much larger resources. It should get them.’.
+Finding.—Congress finds that the report of the National Commission on Terrorist Attacks Upon the United States stated that 'Recognizing that Arab and Muslim audiences rely on satellite television and radio, the government has begun some promising initiatives in television and radio broadcasting to the Arab world, Iran, and Afghanistan. These efforts are beginning to reach large audiences. The Broadcasting Board of Governors has asked for much larger resources. It should get them.'.
 
-“(b)
+"(b)
 
 Sense of Congress.—It is the sense of Congress that—
 
-&emsp;“(1) the United States needs to improve its communication of information and ideas to people in foreign countries, particularly in countries with significant Muslim populations; and
+&emsp;"(1) the United States needs to improve its communication of information and ideas to people in foreign countries, particularly in countries with significant Muslim populations; and
 
-&emsp;“(2) public diplomacy should reaffirm the paramount commitment of the United States to democratic principles, including preserving the civil liberties of all the people of the United States, including Muslim-Americans.”
+&emsp;"(2) public diplomacy should reaffirm the paramount commitment of the United States to democratic principles, including preserving the civil liberties of all the people of the United States, including Muslim-Americans."
 

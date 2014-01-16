@@ -88,11 +88,11 @@
 
 &emsp;&emsp;&emsp;(iii) academic and career and technical education achievement and employment outcomes of career and technical education, including analyses of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the extent and success of the integration of rigorous and challenging academic and career and technical education for students participating in career and technical education programs, including a review of the effect of such integration on the academic and technical proficiency achievement of such students (including the number of such students receiving a secondary school diploma); and
+&emsp;&emsp;&emsp;&emsp;(I) the extent and success of the integration of rigorous and challenging academic and career and technical education for students participating in career and technical education programs, including a review of the effect of suchintegration on the academic and technical proficiency achievement of such students (including the number of such students receiving a secondary school diploma); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the extent to which career and technical education programs prepare students, including special populations, for subsequent employment in high skill, high wage occupations (including those in which mathematics and science skills are critical), or for participation in postsecondary education;
 
-&emsp;&emsp;&emsp;(iv) employer involvement in, and satisfaction with, career and technical education programs and career and technical education students’ preparation for employment;
+&emsp;&emsp;&emsp;(iv) employer involvement in, and satisfaction with, career and technical education programs and career and technical education students' preparation for employment;
 
 &emsp;&emsp;&emsp;(v) the participation of students in career and technical education programs;
 
@@ -112,7 +112,7 @@
 
 #### (ii) Prohibition
 
-&emsp;&emsp;&emsp;Notwithstanding any other provision of law, the reports required by this subsection shall not be subject to any reviewoutside the Department of Education before their transmittal to the relevant committees of Congress and the Secretary, but the President, the Secretary, and the independent advisory panel established under paragraph (1) may make such additional recommendations to Congress with respect to the assessment as the President, the Secretary, or the panel determine to be appropriate.
+&emsp;&emsp;&emsp;Notwithstanding any other provision of law, the reports required by this subsection shall not be subject to any review outside the Department of Education before their transmittal to the relevant committees of Congress and the Secretary, but the President, the Secretary, and the independent advisory panel established under paragraph (1) may make such additional recommendations to Congress with respect to the assessment as the President, the Secretary, or the panel determine to be appropriate.
 
 #### (3) Collection of State information and report
 

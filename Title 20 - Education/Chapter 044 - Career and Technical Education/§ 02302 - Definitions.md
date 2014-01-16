@@ -4,15 +4,15 @@ Unless otherwise specified, in this chapter:
 
 #### (1) Administration
 
-&emsp;The term “administration”, when used with respect to an eligible agency or eligible recipient, means activities necessary for the proper and efficient performance of the eligible agency or eligible recipient's duties under this chapter, including the supervision of such activities. Such term does not include curriculum development activities, personnel development, or research activities.
+&emsp;The term "administration", when used with respect to an eligible agency or eligible recipient, means activities necessary for the proper and efficient performance of the eligible agency or eligible recipient's duties under this chapter, including the supervision of such activities. Such term does not include curriculum development activities, personnel development, or research activities.
 
 #### (2) All aspects of an industry
 
-&emsp;The term “all aspects of an industry” means strong experience in, and comprehensive understanding of, the industry that the individual is preparing to enter, including information as described in section 2328 of this title.
+&emsp;The term "all aspects of an industry" means strong experience in, and comprehensive understanding of, the industry that the individual is preparing to enter, including information as described in section 2328 of this title.
 
 #### (3) Area career and technical education school
 
-&emsp;The term “area career and technical education school” means—
+&emsp;The term "area career and technical education school" means—
 
 &emsp;&emsp;(A) a specialized public secondary school used exclusively or principally for the provision of career and technical education to individuals who are available for study in preparation for entering the labor market;
 
@@ -20,11 +20,11 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;(C) a public or nonprofit technical institution or career and technical education school used exclusively or principally for the provision of career and technical education to individuals who have completed or left secondary school and who are available for study in preparation for entering the labor market, if the institution or school admits, as regular students, individuals who have completed secondary school and individuals who have left secondary school; or
 
-&emsp;&emsp;(D) the department or division of an institution of higher education, that operates under the policies of the eligible agency and that provides career and technical education in not fewer than 5 different occupational fields leading to immediate employment but not necessarily leading to a baccalaureate degree, if the department or division admits, as regular students, both individuals who have completed secondary school and individuals who have left secondary school.
+&emsp;&emsp;(D) the department or division of an institution of higher education, that operates under the policies of the eligible agency and that provides career and technical educationin not fewer than 5 different occupational fields leading to immediate employment but not necessarily leading to a baccalaureate degree, if the department or division admits, as regular students, both individuals who have completed secondary school and individuals who have left secondary school.
 
 #### (4) Articulation agreement
 
-&emsp;The term “articulation agreement” means a written commitment—
+&emsp;The term "articulation agreement" means a written commitment—
 
 &emsp;&emsp;(A) that is agreed upon at the State level or approved annually by the lead administrators of—
 
@@ -40,7 +40,7 @@ Unless otherwise specified, in this chapter:
 
 #### (5) Career and technical education
 
-&emsp;The term “career and technical education” means organized educational activities that—
+&emsp;The term "career and technical education" means organized educational activities that—
 
 &emsp;&emsp;(A) offer a sequence of courses that—
 
@@ -50,13 +50,13 @@ Unless otherwise specified, in this chapter:
 
 &emsp;&emsp;&emsp;(iii) may include prerequisite courses (other than a remedial course) that meet the requirements of this subparagraph; and
 
-&emsp;&emsp;(B) include competency-based applied learning that contributes to the academicknowledge, higher-order reasoning and problem-solving skills, work attitudes, general employability skills, technical skills, and occupation-specific skills, and knowledge of all aspects of an industry, including entrepreneurship, of an individual.
+&emsp;&emsp;(B) include competency-based applied learning that contributes to the academic knowledge, higher-order reasoning and problem-solving skills, work attitudes, general employability skills, technical skills, and occupation-specific skills, and knowledge of all aspects of an industry, including entrepreneurship, of an individual.
 
 #### (6) Career and technical student organization
 
 #### (A) In general
 
-&emsp;&emsp;The term “career and technical student organization” means an organization for individuals enrolled in a career and technical education program that engages in career and technical education activities as an integral part of the instructional program.
+&emsp;&emsp;The term "career and technical student organization" means an organization for individuals enrolled in a career and technical education program that engages in career and technical education activities as an integral part of the instructional program.
 
 #### (B) State and national units
 
@@ -64,7 +64,7 @@ Unless otherwise specified, in this chapter:
 
 #### (7) Career guidance and academic counseling
 
-&emsp;The term “career guidance and academic counseling” means guidance and counseling that—
+&emsp;The term "career guidance and academic counseling" means guidance and counseling that—
 
 &emsp;&emsp;(A) provides access for students (and parents, as appropriate) to information regarding career awareness and planning with respect to an individual's occupational and academic future; and
 
@@ -72,11 +72,11 @@ Unless otherwise specified, in this chapter:
 
 #### (8) Charter school
 
-&emsp;The term “charter school” has the meaning given the term in section 7221i of this title.
+&emsp;The term "charter school" has the meaning given the term in section 7221i of this title.
 
 #### (9) Cooperative education
 
-&emsp;The term “cooperative education” means a method of education for individuals who, through written cooperative arrangements between a school and employers, receive instruction, including required rigorous and challenging academic courses and related career and technical education instruction, by alternation of study in school with a job in any occupational field, which alternation—
+&emsp;The term "cooperative education" means a method of education for individuals who, through written cooperative arrangements between a school and employers, receive instruction, including required rigorous and challenging academic courses and related career and technical education instruction, by alternation of study in school with a job in any occupational field, which alternation—
 
 &emsp;&emsp;(A) shall be planned and supervised by the school and employer so that each contributes to the education and employability of the individual; and
 
@@ -84,7 +84,7 @@ Unless otherwise specified, in this chapter:
 
 #### (10) Displaced homemaker
 
-&emsp;The term “displaced homemaker” means an individual who—
+&emsp;The term "displaced homemaker" means an individual who—
 
 &emsp;&emsp;(A)(i) has worked primarily without remuneration to care for a home and family, and for that reason has diminished marketable skills;
 
@@ -96,15 +96,15 @@ Unless otherwise specified, in this chapter:
 
 #### (11) Educational service agency
 
-&emsp;The term “educational service agency” has the meaning given the term in section 7801 of this title.
+&emsp;The term "educational service agency" has the meaning given the term in section 7801 of this title.
 
 #### (12) Eligible agency
 
-&emsp;The term “eligible agency” means a State board designated or created consistent with State law as the sole State agency responsible for the administration of career and technical education in the State or for the supervision of the administration of career and technical education in the State.
+&emsp;The term "eligible agency" means a State board designated or created consistent with State law as the sole State agency responsible for the administration of career and technical education in the State or for the supervision of the administration of career and technical education in the State.
 
 #### (13) Eligible institution
 
-&emsp;The term “eligible institution” means—
+&emsp;The term "eligible institution" means—
 
 &emsp;&emsp;(A) a public or nonprofit private institution of higher education that offers career and technical education courses that lead to technical skill proficiency, an industry-recognized credential, a certificate, or a degree;
 
@@ -120,7 +120,7 @@ Unless otherwise specified, in this chapter:
 
 #### (14) Eligible recipient
 
-&emsp;The term “eligible recipient” means—
+&emsp;The term "eligible recipient" means—
 
 &emsp;&emsp;(A) a local educational agency (including a public charter school that operates as a local educational agency), an area career and technical education school, an educational service agency, or a consortium, eligible to receive assistance under section 2351 of this title; or
 
@@ -128,11 +128,11 @@ Unless otherwise specified, in this chapter:
 
 #### (15) Governor
 
-&emsp;The term “Governor” means the chief executive officer of a State.
+&emsp;The term "Governor" means the chief executive officer of a State.
 
 #### (16) Individual with limited English proficiency
 
-&emsp;The term “individual with limited English proficiency” means a secondary school student, an adult, or an out-of-school youth, who has limited ability in speaking, reading, writing, or understanding the English language, and—
+&emsp;The term "individual with limited English proficiency" means a secondary school student, an adult, or an out-of-school youth, who has limited ability in speaking, reading, writing, or understanding the English language, and—
 
 &emsp;&emsp;(A) whose native language is a language other than English; or
 
@@ -142,31 +142,31 @@ Unless otherwise specified, in this chapter:
 
 #### (A) In general
 
-&emsp;&emsp;The term “individual with a disability” means an individual with any disability (as defined in section 12102 of title 42).
+&emsp;&emsp;The term "individual with a disability" means an individual with any disability (as defined in section 12102 of title 42).
 
 #### (B) Individuals with disabilities
 
-&emsp;&emsp;The term “individuals with disabilities” means more than 1 individual with a disability.
+&emsp;&emsp;The term "individuals with disabilities" means more than 1 individual with a disability.
 
 #### (18) Institution of higher education
 
-&emsp;The term “institution of higher education” has the meaning given the term in section 1001 of this title.
+&emsp;The term "institution of higher education" has the meaning given the term in section 1001 of this title.
 
 #### (19) Local educational agency
 
-&emsp;The term “local educational agency” has the meaning given the term in section 7801 of this title.
+&emsp;The term "local educational agency" has the meaning given the term in section 7801 of this title.
 
 #### (20) Non-traditional fields
 
-&emsp;The term “non-traditional fields” means occupations or fields of work, including careers in computer science, technology, and other current and emerging high skill occupations, for which individuals from one gender comprise less than 25 percent of the individuals employed in each such occupation or field of work.
+&emsp;The term "non-traditional fields" means occupations or fields of work, including careers in computer science, technology, and other current and emerging high skill occupations, for which individuals from one gender comprise less than 25 percent of the individuals employed in each such occupation or field of work.
 
 #### (21) Outlying area
 
-&emsp;The term “outlying area” means the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau.
+&emsp;The term "outlying area" means the United States Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and the Republic of Palau.
 
 #### (22) Postsecondary educational institution
 
-&emsp;The term “postsecondary educational institution” means—
+&emsp;The term "postsecondary educational institution" means—
 
 &emsp;&emsp;(A) an institution of higher education that provides not less than a 2-year program of instruction that is acceptable for credit toward a bachelor's degree;
 
@@ -176,7 +176,7 @@ Unless otherwise specified, in this chapter:
 
 #### (23) Postsecondary education tech prep student
 
-&emsp;The term “postsecondary education tech prep student” means a student who—
+&emsp;The term "postsecondary education tech prep student" means a student who—
 
 &emsp;&emsp;(A) has completed the secondary education component of a tech prep program; and
 
@@ -184,27 +184,27 @@ Unless otherwise specified, in this chapter:
 
 #### (24) School dropout
 
-&emsp;The term “school dropout” means an individual who is no longer attending any school and who has not received a secondary school diploma or its recognized equivalent.
+&emsp;The term "school dropout" means an individual who is no longer attending any school and who has not received a secondary school diploma or its recognized equivalent.
 
 #### (25) Scientifically based research
 
-&emsp;The term “scientifically based research” means research that is carried out using scientifically based research standards, as defined in section 9501 of this title.
+&emsp;The term "scientifically based research" means research that is carried out using scientifically based research standards, as defined in section 9501 of this title.
 
 #### (26) Secondary education tech prep student
 
-&emsp;The term “secondary education tech prep student” means a secondary education student who has enrolled in 2 courses in the secondary education component of a tech prep program.
+&emsp;The term "secondary education tech prep student" means a secondary education student who has enrolled in 2 courses in the secondary education component of a tech prep program.
 
 #### (27) Secondary school
 
-&emsp;The term “secondary school” has the meaning given the term in section 7801 of this title.
+&emsp;The term "secondary school" has the meaning given the term in section 7801 of this title.
 
 #### (28) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Education.
+&emsp;The term "Secretary" means the Secretary of Education.
 
 #### (29) Special populations
 
-&emsp;The term “special populations” means—
+&emsp;The term "special populations" means—
 
 &emsp;&emsp;(A) individuals with disabilities;
 
@@ -220,23 +220,23 @@ Unless otherwise specified, in this chapter:
 
 #### (30) State
 
-&emsp;The term “State”, unless otherwise specified, means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and each outlying area.
+&emsp;The term "State", unless otherwise specified, means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and each outlying area.
 
 #### (31) Support services
 
-&emsp;The term “support services” means services related to curriculum modification, equipment modification, classroom modification, supportive personnel, and instructional aids and devices.
+&emsp;The term "support services" means services related to curriculum modification, equipment modification, classroom modification, supportive personnel, and instructional aids and devices.
 
 #### (32) Tech prep program
 
-&emsp;The term “tech prep program” means a tech prep program described in section 2373(c) of this title.
+&emsp;The term "tech prep program" means a tech prep program described in section 2373(c) of this title.
 
 #### (33) Tribally controlled college or university
 
-&emsp;The term “tribally controlled college or university” has the meaning given the term in section 1801(a) of title 25.
+&emsp;The term "tribally controlled college or university" has the meaning given the term in section 1801(a) of title 25.
 
 #### (34) Tribally controlled postsecondary career and technical institution
 
-&emsp;The term “tribally controlled postsecondary career and technical institution” means an institution of higher education (as defined in section 1001 of this title, except that subsection (a)(2) of such section shall not be applicable and the reference to Secretary in subsection (a)(5) of such section shall be deemed to refer to the Secretary of the Interior) that—
+&emsp;The term "tribally controlled postsecondary career and technical institution" means an institution of higher education (as defined in section 1001 of this title, except that subsection (a)(2) of such section shall not be applicable and the reference to Secretary in subsection (a)(5) of such section shall be deemed to refer to the Secretary of the Interior) that—
 
 &emsp;&emsp;(A) is formally controlled, or has been formally sanctioned or chartered, by the governing body of an Indian tribe or Indian tribes;
 

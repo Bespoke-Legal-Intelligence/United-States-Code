@@ -6,5 +6,5 @@ Apples in less than carload lots as defined by the Secretary may, in his discret
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–96 struck out “or pears” after “Apples”.
+<b>1999</b>—Pub. L. 106–96 struck out "or pears" after "Apples".
 

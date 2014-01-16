@@ -6,7 +6,7 @@
 
 &emsp;(ii) on the population of each such State weighted by its relative per capita income.
 
-(B) For purposes of subparagraph (A)(ii), the term “relative per capita income” means the quotient of the per capita income of the United States and the per capita income of the State, except that if the State is Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Marshall Islands, the Federated States of Micronesia, the Republic of Palau, or the Virgin Islands, the quotient shall be considered to be one.
+(B) For purposes of subparagraph (A)(ii), the term "relative per capita income" means the quotient of the per capita income of the United States and the per capita income of the State, except that if the State is Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Marshall Islands, the Federated States of Micronesia, the Republic of Palau, or the Virgin Islands, the quotient shall be considered to be one.
 
 (2)(A) The minimum amount of the allotment of an eligible system shall be the product (rounded to the nearest $100) of the appropriate base amount determined under subparagraph (B) and the factor specified in subparagraph (C).
 
@@ -30,29 +30,29 @@
 
 (2) The amount of an allotment to an eligible system for a fiscal year which the Secretary determines will not be required by the system during the period for which it is available shall be available for reallotment by the Secretary to other eligible systems with respect to which such a determination has not been made.
 
-(3) The Secretary shall make reallotments under paragraphs (1) and (2) on such date or dates as the Secretary may fix (but not earlier than 30 days after the Secretary has published notice of the intention of the Secretary to make such reallotment in the Federal Register). A reallotment to an eligible system shall be made inproportion to the original allotment of such system for such fiscal year, but with such proportionate amount for such system being reduced to the extent it exceeds the sum the Secretary estimates such system needs and will be able to use during such period. The total of such reductions shall be similarly reallotted among eligible systems whose proportionate amounts were not so reduced. Any amount so reallotted to an eligible system for a fiscal year shall be deemed to be a part of its allotment under subsection (a) of this section for such fiscal year.
+(3) The Secretary shall make reallotments under paragraphs (1) and (2) on such date or dates as the Secretary may fix (but not earlier than 30 days after the Secretary has published notice of the intention of the Secretary to make such reallotment in the Federal Register). A reallotment to an eligible system shall be made in proportion to the original allotment of such system for such fiscal year, but with such proportionate amount for such system being reduced to the extent it exceeds the sum the Secretary estimates such system needs and will be able to use during such period. The total of such reductions shall be similarly reallotted among eligible systems whose proportionate amounts were not so reduced. Any amount so reallotted to an eligible system for a fiscal year shall be deemed to be a part of its allotment under subsection (a) of this section for such fiscal year.
 
 (Pub. L. 99–319, title I, §112, May 23, 1986, 100 Stat. 483; Pub. L. 100–509, §7(e), Oct. 20, 1988, 102 Stat. 2545; Pub. L. 106–310, div. B, title XXXII, §3206(d), (e), Oct. 17, 2000, 114 Stat. 1194, 1195.)
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(1)(B). Pub. L. 106–310, §3206(e)(1), substituted “Marshall Islands, the Federated States of Micronesia, the Republic of Palau” for “Trust Territory of the Pacific Islands”.
+<b>2000</b>—Subsec. (a)(1)(B). Pub. L. 106–310, §3206(e)(1), substituted "Marshall Islands, the Federated States of Micronesia, the Republic of Palau" for "Trust Territory of the Pacific Islands".
 
 Subsec. (a)(2). Pub. L. 106–310, §3206(d), amended par. (2) generally. Prior to amendment, par. (2) specified minimum amounts of allotments to eligible systems of each State, the District of Columbia, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the Virgin Islands based on whether the total amount appropriated in a fiscal year was at least $13,000,000 or less than $13,000,000.
 
-Subsec. (a)(3). Pub. L. 106–310, §3206(e)(2), struck out par. (3) which read as follows: “In any case in which the total amount appropriated under section 10827 of this title for a fiscal year exceeds the total amount appropriated under such section, as in effect on October 19, 1988, for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under section 720(c)(1) of title 29, the Secretary shall increase each of the allotments under clauses (i)(II) and (ii)(II) of subparagraph (A) and clauses (i) and (ii) of subparagraph (B) of paragraph (2) by an amount which bears the same ratio to the amount of such minimum allotment (including any increases in such minimum allotment under this paragraph for prior fiscal years) as the amount which is equal to the difference between—
+Subsec. (a)(3). Pub. L. 106–310, §3206(e)(2), struck out par. (3) which read as follows: "In any case in which the total amount appropriated under section 10827 of this title for a fiscal year exceeds the total amount appropriated under such section, as in effect on October 19, 1988, for the preceding fiscal year by a percentage greater than the most recent percentage change in the Consumer Price Index published by the Secretary of Labor under section 720(c)(1) of title 29, the Secretary shall increase each of the allotments under clauses (i)(II) and (ii)(II) of subparagraph (A) and clauses (i) and (ii) of subparagraph (B) of paragraph (2) by an amount which bears the same ratio to the amount of such minimum allotment (including any increases in such minimum allotment under this paragraph for prior fiscal years) as the amount which is equal to the difference between—
 
-&emsp;“(A) the total amount appropriated under section 10827 of this title for the fiscal year for which the increase in minimum allotment is made, minus;
+&emsp;"(A) the total amount appropriated under section 10827 of this title for the fiscal year for which the increase in minimum allotment is made, minus;
 
-&emsp;“(B) the total amount appropriated under section 10827 of this title for the immediately preceding fiscal year,
+&emsp;"(B) the total amount appropriated under section 10827 of this title for the immediately preceding fiscal year,
 
-> bears to the total amount appropriated under section 10827 of this title for such preceding fiscal year.”
+> bears to the total amount appropriated under section 10827 of this title for such preceding fiscal year."
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–509, §7(e)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Notwithstanding paragraph (1) and subject to the availability of appropriations under section 10827 of this title—
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–509, §7(e)(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Notwithstanding paragraph (1) and subject to the availability of appropriations under section 10827 of this title—
 
-&emsp;“(A) the amount of the allotment of the eligible system of each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico shall not be less than $125,000; and
+&emsp;"(A) the amount of the allotment of the eligible system of each of the several States, the District of Columbia, and the Commonwealth of Puerto Rico shall not be less than $125,000; and
 
-&emsp;“(B) the amount of the allotment of the eligible system of Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the Virgin Islands shall not be less than $67,000.”
+&emsp;"(B) the amount of the allotment of the eligible system of Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the Virgin Islands shall not be less than $67,000."
 
 Subsec. (a)(3). Pub. L. 100–509, §7(e)(2), added par. (3).
 

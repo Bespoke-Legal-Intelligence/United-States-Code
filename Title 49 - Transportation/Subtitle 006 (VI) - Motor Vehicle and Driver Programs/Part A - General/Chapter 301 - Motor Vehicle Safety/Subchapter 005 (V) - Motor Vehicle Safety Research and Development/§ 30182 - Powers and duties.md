@@ -26,7 +26,7 @@ Activities.—In carrying out a program under this section, the Secretary of Tra
 
 &emsp;(4) award grants to States and local governments, interstate authorities, and nonprofit institutions; and
 
-&emsp;(5) enter into cooperative agreements, collaborative research, or contracts with Federalagencies, interstate authorities, State and local governments, other public entities, private organizations and persons, nonprofit institutions, colleges and universities, consumer advocacy groups, corporations, partnerships, sole proprietorships, trade associations, Federal laboratories (including government-owned, government-operated laboratories and government-owned, contractor-operated laboratories), and research organizations.
+&emsp;(5) enter into cooperative agreements, collaborative research, or contracts with Federal agencies, interstate authorities, State and local governments, other public entities, private organizations and persons, nonprofit institutions, colleges and universities, consumer advocacy groups, corporations, partnerships, sole proprietorships, trade associations, Federal laboratories (including government-owned, government-operated laboratories and government-owned, contractor-operated laboratories), and research organizations.
 
 (c)
 

@@ -6,7 +6,7 @@ A person who is not an enrolled member of the Yakima Tribes with one-fourth degr
 
 #### (b) Time of election
 
-On request of the Yakima Tribes the Examiner of Inheritance shall keep an estate pending fornot less than two years from the date of decedent's death.
+On request of the Yakima Tribes the Examiner of Inheritance shall keep an estate pending for not less than two years from the date of decedent's death.
 
 #### (c) Interest of surviving spouse
 
@@ -20,5 +20,5 @@ When a person who is prohibited by subsection (a) of this section from acquiring
 
 #### Effective Date of 1970 Amendment
 
-Pub. L. 91–627, §2, Dec. 31, 1970, 84 Stat. 1874, provided that: “The provisions of section 7 of the Act of August 9, 1946, as amended by this Act \[this section\], shall apply to all estates pending before the Examiner of Inheritance on the date of this Act \[Dec. 31, 1970\], and to all future estates, but shall not apply to any estate heretofore closed.”
+Pub. L. 91–627, §2, Dec. 31, 1970, 84 Stat. 1874, provided that: "The provisions of section 7 of the Act of August 9, 1946, as amended by this Act \[this section\], shall apply to all estates pending before the Examiner of Inheritance on the date of this Act \[Dec. 31, 1970\], and to all future estates, but shall not apply to any estate heretofore closed."
 

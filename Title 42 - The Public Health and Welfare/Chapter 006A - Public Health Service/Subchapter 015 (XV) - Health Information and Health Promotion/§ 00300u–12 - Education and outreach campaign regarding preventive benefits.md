@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Health and Human Services (referred to in this section as the “Secretary”) shall provide for the planning and implementation of a national public–private partnership for a prevention and health promotion outreach and education campaign to raise public awareness of health improvement across the life span. Such campaign shall include the dissemination of information that—
+The Secretary of Health and Human Services (referred to in this section as the "Secretary") shall provide for the planning and implementation of a national public–private partnership for a prevention and health promotion outreach and education campaign to raise public awareness of health improvement across the life span. Such campaign shall include the dissemination of information that—
 
 &emsp;(1) describes the importance of utilizing preventive services to promote wellness, reduce health disparities, and mitigate chronic disease;
 
@@ -82,7 +82,7 @@ Funding for the activities authorized under this section shall take priority ove
 
 #### (3) Report
 
-&emsp;Not later than January 1, 2011, and every 3 years thereafter through January 1, 2017, the Secretary of Health and Human Services shall report to Congress on the status and effectiveness of efforts under paragraphs (1) and (2), including summaries of the States’ efforts to increase awareness of coverage of obesity-related services.
+&emsp;Not later than January 1, 2011, and every 3 years thereafter through January 1, 2017, the Secretary of Health and Human Services shall report to Congress on the status and effectiveness of efforts under paragraphs (1) and (2), including summaries of the States' efforts to increase awareness of coverage of obesity-related services.
 
 #### (j) Authorization of appropriations
 
@@ -96,5 +96,5 @@ Section was enacted as part of the Patient Protection and Affordable Care Act, a
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(4). Pub. L. 111–148, §10401(c), substituted “an Exchange” for “a Gateway”.
+<b>2010</b>—Subsec. (a)(4). Pub. L. 111–148, §10401(c), substituted "an Exchange" for "a Gateway".
 

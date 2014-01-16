@@ -6,23 +6,23 @@ It is declared that it is a national policy to preserve for public use historic 
 
 #### Short Title of 2006 Amendment
 
-Pub. L. 109–338, §1(a), Oct. 12, 2006, 120 Stat. 1783, provided that: “This Act \[enacting provisions set out as a note under section 262 of Title 30, Mineral Lands and Mining, enacting provisions listed in a table of National Heritage Routes set out under this section, amending provisions formerly set out as a note under section 1244 of this title, and amending provisions listed in a table of National Heritage and River Corridors, a table of National Heritage Areas, and a table of National Heritage Partnerships set out under this section\] may be cited as the ‘National Heritage Areas Act of 2006’.”
+Pub. L. 109–338, §1(a), Oct. 12, 2006, 120 Stat. 1783, provided that: "This Act \[enacting provisions set out as a note under section 262 of Title 30, Mineral Lands and Mining, enacting provisions listed in a table of National Heritage Routes set out under this section, amending provisions formerly set out as a note under section 1244 of this title, and amending provisions listed in a table of National Heritage and River Corridors, a table of National Heritage Areas, and a table of National Heritage Partnerships set out under this section\] may be cited as the 'National Heritage Areas Act of 2006'."
 
 #### Short Title of 2005 Amendment
 
-Pub. L. 109–156, §1, Dec. 30, 2005, 119 Stat. 2946, provided that: “This Act \[amending section 463 of this title and enacting provisions set out as a note under section 463 of this title\] may be cited as the ‘Delaware Water Gap National Recreation Area Improvement Act’.”
+Pub. L. 109–156, §1, Dec. 30, 2005, 119 Stat. 2946, provided that: "This Act \[amending section 463 of this title and enacting provisions set out as a note under section 463 of this title\] may be cited as the 'Delaware Water Gap National Recreation Area Improvement Act'."
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–291, title I, §150(a), Oct. 11, 2000, 114 Stat. 956, provided that: “This section \[enacting section 469l–2 of this title and provisions set out as a note under section 469l–2 of this title\] may be cited as the ‘National Underground Railroad Freedom Center Act’.”
+Pub. L. 106–291, title I, §150(a), Oct. 11, 2000, 114 Stat. 956, provided that: "This section \[enacting section 469l–2 of this title and provisions set out as a noteunder section 469l–2 of this title\] may be cited as the 'National Underground Railroad Freedom Center Act'."
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–203, §1, July 21, 1998, 112 Stat. 678, provided that: “This Act \[enacting sections 469l and 469l–1 of this title\] may be cited as the ‘National Underground Railroad Network to Freedom Act of 1998’.”
+Pub. L. 105–203, §1, July 21, 1998, 112 Stat. 678, provided that: "This Act \[enacting sections 469l and 469l–1 of this title\] may be cited as the 'National Underground Railroad Network to Freedom Act of 1998'."
 
 #### Short Title
 
-Act Aug. 21, 1935, ch. 593, 49 Stat. 666, which is classified to sections 461 to 467 of this title, is popularly known as the “Historic Sites, Buildings, and Antiquities Act”.
+Act Aug. 21, 1935, ch. 593, 49 Stat. 666, which is classified to sections 461 to 467 of this title, is popularly known as the "Historic Sites, Buildings, and Antiquities Act".
 
 National Historic Sites
 
@@ -150,7 +150,7 @@ Mary McLeod Bethune Council House National Historic Site, District of Columbia.�
 
 Minidoka National Historic Site, Idaho.—Pub. L. 110–229, title III, §313, May 8, 2008, 122 Stat. 770.
 
-Minuteman Missile National Historic Site, South Dakota.—Pub. L. 106–115, Nov. 29, 1999, 113 Stat. 1540.
+Minuteman Missile National Historic Site, South Dakota.—Pub. L. 106–115, Nov. 29, 1999, 113 Stat. 1540; Pub. L. 113–36, Sept. 18, 2013, 127 Stat. 521.
 
 Nicodemus National Historic Site, Kansas.—Pub. L. 104–333, div. I, title V, §512, Nov. 12, 1996, 110 Stat. 4163; Pub. L. 106–176, title I, §112, Mar. 10, 2000, 114 Stat. 27.
 
@@ -224,7 +224,7 @@ Blackstone River Valley National Heritage Corridor, Massachusetts and Rhode Isla
 
 Cache La Poudre Corridor, Colorado.—Pub. L. 104–323, Oct. 19, 1996, 110 Stat. 3889; repealed by Pub. L. 111–11, title VIII, §8002(j), Mar. 30, 2009, 123 Stat. 1235.
 
-Delaware and Lehigh National Heritage Corridor, Pennsylvania.—Pub. L. 100–692, Nov. 18, 1988, 102 Stat. 4552; Pub. L. 105–355, title IV, Nov. 6, 1998, 112 Stat. 3258; Pub. L. 108–199, div. H, §141, Jan. 23, 2004, 118 Stat. 443; Pub. L. 111–11, title VIII, §8202, Mar. 30, 2009, 123 Stat. 1292.
+Delaware and Lehigh National Heritage Corridor, Pennsylvania.—Pub. L. 100–692, Nov. 18, 1988, 102 Stat. 4552; Pub. L. 105–355, title IV, Nov. 6, 1998, 112 Stat. 3258; Pub. L. 108–199, div. H, §141, Jan. 23, 2004, 118 Stat. 443; Pub. L. 111–11, title VIII, §8202, Mar. 30, 2009, 123 Stat. 1292; Pub. L. 113–6, div. F, title IV, §1404(c), Mar. 26, 2013, 127 Stat. 420.
 
 Erie Canalway National Heritage Corridor, New York.—Pub. L. 106–554, §1(a)(4) \[div. B, title VIII\], Dec. 21, 2000, 114 Stat. 2763, 2763A–295; Pub. L. 111–11, title VIII, §8203, Mar. 30, 2009, 123 Stat. 1294.
 
@@ -232,13 +232,13 @@ Gullah/Geechee Cultural Heritage Corridor, Florida, Georgia, North Carolina, and
 
 Illinois and Michigan Canal National Heritage Corridor, Illinois.—Pub. L. 98–398, title I, Aug. 24, 1984, 98 Stat. 1456; Pub. L. 104–333, div. I, title IX, §902, Nov. 12, 1996, 110 Stat. 4204; Pub. L. 105–355, title V, §502, Nov. 6, 1998, 112 Stat. 3261; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §126\], Dec. 21, 2000, 114 Stat. 2763, 2763A–229; Pub. L. 109–338, title IV, Oct. 12, 2006, 120 Stat. 1850.
 
-John H. Chafee Blackstone River Valley National Heritage Corridor \[formerly Blackstone River Valley National Heritage Corridor\], Massachusetts and Rhode Island.—Pub. L. 99–647, Nov. 10, 1986, 100 Stat. 3625; Pub. L. 101–441, Oct. 18, 1990, 104 Stat. 1017; Pub. L. 102–154, title I, §118, Nov. 13, 1991, 105 Stat. 1013; Pub. L. 104–208, div. A, title I, §101(d) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–201; Pub. L. 104–333, div. I, title IX, §901, Nov. 12, 1996, 110 Stat. 4201; Pub. L. 105–355, title V, §501, Nov. 6, 1998, 112 Stat. 3261; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §343\], Nov. 29, 1999, 113 Stat. 1535, 1501A–202; Pub. L. 106–176, title I, §121, Mar. 10, 2000, 114 Stat. 29; Pub. L. 109–338, title VII, §§701, 702, Oct. 12, 2006, 120 Stat. 1857; Pub. L. 111–11, title VIII, §8204, Mar. 30, 2009, 123 Stat. 1295; Pub. L. 112–10, div. B, title VII, §1767, Apr. 15, 2011, 125 Stat. 155.
+John H. Chafee Blackstone River Valley National Heritage Corridor \[formerly Blackstone River Valley National Heritage Corridor\], Massachusetts and Rhode Island.—Pub. L. 99–647, Nov. 10, 1986, 100 Stat. 3625; Pub. L. 101–441, Oct. 18, 1990, 104 Stat. 1017; Pub. L. 102–154, title I, §118, Nov. 13, 1991, 105 Stat. 1013; Pub. L. 104–208, div. A, title I, §101(d) \[title I, §115\], Sept. 30, 1996, 110 Stat. 3009–181, 3009–201; Pub. L. 104–333, div. I, title IX, §901, Nov. 12, 1996, 110 Stat. 4201; Pub. L. 105–355, title V, §501, Nov. 6, 1998, 112 Stat. 3261; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §343\], Nov. 29, 1999, 113 Stat. 1535, 1501A–202; Pub. L. 106–176, title I, §121, Mar. 10, 2000, 114 Stat. 29; Pub. L. 109–338, title VII, §§701, 702, Oct. 12, 2006, 120 Stat. 1857; Pub. L. 111–11, title VIII, §8204, Mar. 30, 2009, 123 Stat. 1295; Pub. L. 112–10, div. B, title VII, §1767, Apr. 15, 2011, 125 Stat. 155; Pub. L. 113–6, div. F, title IV, §1404(b), Mar. 26, 2013, 127 Stat. 420.
 
 Ohio \& Erie Canal National Heritage Corridor, Ohio (see Ohio \& Erie National Heritage Canalway, Ohio).
 
 Quinebaug and Shetucket Rivers Valley National Heritage Corridor, Connecticut and Massachusetts.—Pub. L. 103–449, title I, Nov. 2, 1994, 108 Stat. 4752; Pub. L. 106–149, Dec. 9, 1999, 113 Stat. 1726; Pub. L. 111–11, title VIII, §8201, Mar. 30, 2009, 123 Stat. 1291.
 
-South Carolina National Heritage Corridor, South Carolina.—Pub. L. 104–333, div. II, title VI, Nov. 12, 1996, 110 Stat. 4260; Pub. L. 110–229, title IV, §§461, 473, May 8, 2008, 122 Stat. 824, 826.
+South Carolina National Heritage Corridor, South Carolina.—Pub. L. 104–333, div. II, title VI, Nov. 12, 1996, 110 Stat. 4260; Pub. L. 110–229, title IV, §§461, 473, May 8, 2008, 122 Stat. 824, 826; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420.
 
 National Heritage Areas
 
@@ -250,7 +250,7 @@ Arabia Mountain National Heritage Area, Georgia.—Pub. L. 109–338, title II, 
 
 Atchafalaya National Heritage Area, Louisiana.—Pub. L. 109–338, title II, §§211–221, Oct. 12, 2006, 120 Stat. 1791–1795.
 
-Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, title III, Nov. 12, 1996, 110 Stat. 4249; Pub. L. 106–176, title II, §203, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824.
+Augusta Canal National Heritage Area, Georgia.—Pub. L. 104–333, div. II, title III, Nov. 12, 1996, 110 Stat. 4249; Pub. L. 106–176, title II, §203, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420.
 
 Automobile National Heritage Area, Michigan.—Pub. L. 105–355, title I, Nov. 6, 1998, 112 Stat. 3247.
 
@@ -262,19 +262,19 @@ Cache La Poudre River National Heritage Area, Colorado.—Pub. L. 111–11, titl
 
 Crossroads of the American Revolution National Heritage Area, New Jersey.—Pub. L. 109–338, title II, §§297–297J, Oct. 12, 2006, 120 Stat. 1837–1844; Pub. L. 111–11, title VII, §7116(i), Mar. 30, 2009, 123 Stat. 1203.
 
-Essex National Heritage Area, Massachusetts.—Pub. L. 104–333, div. II, title V, Nov. 12, 1996, 110 Stat. 4257; Pub. L. 106–176, title II, §204, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824.
+Essex National Heritage Area, Massachusetts.—Pub. L. 104–333, div. II, title V, Nov. 12, 1996, 110 Stat. 4257; Pub. L. 106–176, title II, §204, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420.
 
 Freedom's Frontier National Heritage Area, Kansas and Missouri.—Pub. L. 109–338, title II, §§261–269, Oct. 12, 2006, 120 Stat. 1807–1813.
 
 Freedom's Way National Heritage Area, Massachusetts and New Hampshire.—Pub. L. 111–11, title VIII, §8006, Mar. 30, 2009, 123 Stat. 1253.
 
-Hudson River Valley National Heritage Area, New York.—Pub. L. 104–333, div. II, title IX, Nov. 12, 1996, 110 Stat. 4275; Pub. L. 105–83, title III, §§317, 324, Nov. 14, 1997, 111 Stat. 1595, 1597; Pub. L. 106–176, title II, §206, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824.
+Hudson River Valley National Heritage Area, New York.—Pub. L. 104–333, div. II, title IX, Nov. 12, 1996, 110 Stat. 4275; Pub. L. 105–83, title III, §§317, 324, Nov. 14, 1997, 111 Stat. 1595, 1597; Pub. L. 106–176, title II, §206, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420.
 
 Journey Through Hallowed Ground National Heritage Area, Maryland, Pennsylvania, Virginia, West Virginia.—Pub. L. 110–229, title IV, §§401–411, May 8, 2008, 122 Stat. 802–809.
 
 Kenai Mountains-Turnagain Arm National Heritage Area, Alaska.—Pub. L. 111–11, title VIII, §8010, Mar. 30, 2009, 123 Stat. 1282.
 
-Lackawanna Valley National Heritage Area, Pennsylvania.—Pub. L. 106–278, title I, Oct. 6, 2000, 114 Stat. 814; Pub. L. 108–352, §2, Oct. 21, 2004, 118 Stat. 1395.
+Lackawanna Valley National Heritage Area, Pennsylvania.—Pub. L. 106–278, title I, Oct. 6, 2000, 114 Stat. 814; Pub. L. 108–352, §2, Oct. 21, 2004, 118 Stat. 1395; Pub. L. 113–6, div. F, title IV, §1404(d), Mar. 26, 2013, 127 Stat. 420.
 
 Mississippi Delta National Heritage Area, Mississippi.—Pub. L. 111–11, title VIII, §8008, Mar. 30, 2009, 123 Stat. 1267.
 
@@ -288,7 +288,7 @@ Muscle Shoals National Heritage Area, Alabama.—Pub. L. 111–11, title VIII, �
 
 National Aviation Heritage Area, Ohio.—Pub. L. 108–447, div. J, title V, Dec. 8, 2004, 118 Stat. 3361; Pub. L. 111–11, title VII, §7117(d), Mar. 30, 2009, 123 Stat. 1204.
 
-National Coal Heritage Area, West Virginia.—Pub. L. 104–333, div. II, title I, Nov. 12, 1996, 110 Stat. 4243; Pub. L. 106–176, title II, §201, Mar. 10, 2000, 114 Stat. 31; Pub. L. 109–338, title IX, §901, Oct. 12, 2006, 120 Stat. 1862; Pub. L. 110–229, title IV, §§461, 471, May 8, 2008, 122 Stat. 824, 825.
+National Coal Heritage Area, West Virginia.—Pub. L. 104–333, div. II, title I, Nov. 12, 1996, 110 Stat. 4243; Pub. L. 106–176, title II, §201, Mar. 10, 2000, 114 Stat. 31; Pub. L. 109–338, title IX, §901, Oct. 12, 2006, 120 Stat. 1862; Pub. L. 110–229, title IV, §§461, 471, May 8, 2008, 122 Stat. 824, 825; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420.
 
 Niagara Falls National Heritage Area, New York.—Pub. L. 110–229, title IV, §§421–432, May 8, 2008, 122 Stat. 809–818.
 
@@ -298,7 +298,7 @@ Northern Rio Grande National Heritage Area, New Mexico.—Pub. L. 109–338, tit
 
 Oil Region National Heritage Area, Pennsylvania.—Pub. L. 108–447, div. J, title VI, Dec. 8, 2004, 118 Stat. 3368.
 
-Rivers of Steel National Heritage Area \[formerly Steel Industry American Heritage Area\], Pennsylvania.—Pub. L. 104–333, div. II, title IV, Nov. 12, 1996, 110 Stat. 4252; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §116\], Nov. 29, 1999, 113 Stat. 1535, 1501A–158; Pub. L. 110–229, title IV, §§461, 472, May 8, 2008, 122 Stat. 824, 826.
+Rivers of Steel National Heritage Area \[formerly Steel Industry American Heritage Area\], Pennsylvania.—Pub. L. 104–333, div. II, title IV, Nov. 12, 1996, 110 Stat. 4252; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §116\], Nov. 29, 1999, 113 Stat. 1535, 1501A–158; Pub. L. 110–229, title IV, §§461, 472, May 8, 2008, 122 Stat. 824, 826; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420.
 
 Sangre de Cristo National Heritage Area, Colorado.—Pub. L. 111–11, title VIII, §8001, Mar. 30, 2009, 123 Stat. 1224.
 
@@ -308,7 +308,7 @@ South Park National Heritage Area, Colorado.—Pub. L. 111–11, title VIII, §8
 
 Steel Industry American Heritage Area (see Rivers of Steel National Heritage Area, Pennsylvania).
 
-Tennessee Civil War Heritage Area, Tennessee.—Pub. L. 104–333, div. II, title II, Nov. 12, 1996, 110 Stat. 4245; Pub. L. 106–176, title II, §202, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824.
+Tennessee Civil War Heritage Area, Tennessee.—Pub. L. 104–333, div. II, title II, Nov. 12, 1996, 110 Stat. 4245; Pub. L. 106–176, title II, §202, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420.
 
 Upper Housatonic Valley National Heritage Area, Connecticut and Massachusetts.—Pub. L. 109–338, title II, §§271–280B, Oct. 12, 2006, 120 Stat. 1813–1819.
 
@@ -320,13 +320,13 @@ National Heritage Canalways
 
 &nbsp;
 
-Ohio \& Erie National Heritage Canalway, Ohio \[formerly Ohio \& Erie Canal National Heritage Corridor\].—Pub. L. 104–333, div. II, title VIII, Nov. 12, 1996, 110 Stat. 4267; Pub. L. 106–176, title II, §205, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §§461, 474, May 8, 2008, 122 Stat. 824, 826; Pub. L. 111–11, title VII, §7116(j), Mar. 30, 2009, 123 Stat. 1203.
+Ohio \& Erie National Heritage Canalway, Ohio \[formerly Ohio \& Erie Canal National Heritage Corridor\].—Pub. L. 104–333, div. II, title VIII, Nov. 12, 1996, 110 Stat. 4267; Pub. L. 106–176, title II, §205, Mar. 10, 2000, 114 Stat. 31; Pub. L. 110–229, title IV, §§461, 474, May 8, 2008, 122 Stat. 824, 826; Pub. L. 111–11, title VII, §7116(j), Mar. 30, 2009, 123 Stat. 1203; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420.
 
 National Heritage Partnerships
 
 &nbsp;
 
-America's Agricultural Heritage Partnership, Iowa.—Pub. L. 104–333, div. II, title VII, Nov. 12, 1996, 110 Stat. 4264; Pub. L. 106–176, title III, §309, Mar. 10, 2000, 114 Stat. 34; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824.
+America's Agricultural Heritage Partnership, Iowa.—Pub. L. 104–333, div. II, title VII, Nov. 12, 1996, 110 Stat. 4264; Pub. L. 106–176, title III, §309, Mar. 10, 2000, 114 Stat. 34; Pub. L. 110–229, title IV, §461, May 8, 2008, 122 Stat. 824; Pub. L. 113–6, div. F, title IV, §1404(a), Mar. 26, 2013, 127 Stat. 420.
 
 Champlain Valley National Heritage Partnership, New York and Vermont.—Pub. L. 109–338, title II, §§281–289, Oct. 12, 2006, 120 Stat. 1819–1824.
 
@@ -340,83 +340,83 @@ Great Basin National Heritage Route, Nevada and Utah.—Pub. L. 109–338, title
 
 Pub. L. 109–441, Dec. 21, 2006, 120 Stat. 3288, as amended by Pub. L. 111–88, div. A, title I, §119, Oct. 30, 2009, 123 Stat. 2929, provided that:
 
-#### “SECTION 1. PRESERVATION OF HISTORIC CONFINEMENT SITES.
+#### "SECTION 1. PRESERVATION OF HISTORIC CONFINEMENT SITES.
 
-“(a)
+"(a)
 
 Preservation Program.—The Secretary shall create a program within the National Park Service to encourage, support, recognize, and work in partnership with citizens, Federal agencies, State, local, and tribal governments, other public entities, educational institutions, and private nonprofit organizations for the purpose of identifying, researching, evaluating, interpreting, protecting, restoring, repairing, and acquiring historic confinement sites in order that present and future generations may learn and gain inspiration from these sites and that these sites will demonstrate the Nation's commitment to equal justice under the law.
 
-“(b)
+"(b)
 
 Grants.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Criteria.—The Secretary, after consultation with State, local, and tribal governments, other public entities, educational institutions, and private nonprofit organizations (including organizations involved in the preservation of historic confinement sites), shall develop criteria for making grants under paragraph (2) to assist in carrying out subsection (a).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Provision of grants.—Not later than 180 days after the date on which funds are made available to carry out this Act, the Secretary shall, subject to the availability of appropriations, make grants to the entities described in paragraph (1) only in accordance with the criteria developed under that paragraph.
 
-“(c)
+"(c)
 
 Property Acquisition.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Authority.—Federal funds made available under this section may be used to acquire non-Federal property for the purposes of this section, in accordance with section 3, only if that property is within the areas described in paragraph (2).
 
-&emsp;“(2)
+&emsp;"(2)
 
-Property descriptions.—The property referred to in paragraph (2) \[probably should be “(1)”\] is the following:
+Property descriptions.—The property referred to in paragraph (2) \[probably should be "(1)"\] is the following:
 
-&emsp;&emsp;“(A) Jerome, depicted in Figure 7.1 of the Site Document.
+&emsp;&emsp;"(A) Jerome, depicted in Figure 7.1 of the Site Document.
 
-&emsp;&emsp;“(B) Rohwer, depicted in Figure 11.2 of the Site Document.
+&emsp;&emsp;"(B) Rohwer, depicted in Figure 11.2 of the Site Document.
 
-&emsp;&emsp;“(C) Topaz, depicted in Figure 12.2 of the Site Document.
+&emsp;&emsp;"(C) Topaz, depicted in Figure 12.2 of the Site Document.
 
-&emsp;&emsp;“(D) Honouliuli, located on the southern part of the Island of Oahu, Hawaii, and within the land area bounded by H1 to the south, Route 750 (Kunia Road) to the east, the Honouliuli Forest Reserve to the west, and Kunia town and Schofield Barracks to the north.
+&emsp;&emsp;"(D) Honouliuli, located on the southern part of the Island of Oahu, Hawaii, and within the land area bounded by H1 to the south, Route 750 (Kunia Road) to the east, the Honouliuli Forest Reserve to the west, and Kunia town and Schofield Barracks to the north.
 
-&emsp;&emsp;“(E) Heart Mountain, depicted in Figure 6.3 of the Site Document.
+&emsp;&emsp;"(E) Heart Mountain, depicted in Figure 6.3 of the Site Document.
 
-&emsp;“(3)
+&emsp;"(3)
 
 No effect on private property.—The authority granted in this subsection shall not constitute a Federal designation or have any effect on private property ownership.
 
-“(d)
+"(d)
 
 Matching Fund Requirement.—The Secretary shall require a 50 percent non-Federal match for funds provided under this section.
 
-“(e)
+"(e)
 
 Sunset of Authority.—This Act shall have no force or effect on and after the date that is 2 years after the disbursement to grantees under this section of the total amount of funds authorized to be appropriated under section 4.
 
-#### “SEC. 2. DEFINITIONS.
+#### "SEC. 2. DEFINITIONS.
 
-“For purposes of this Act the following definitions apply:
+"For purposes of this Act the following definitions apply:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Historic confinement sites.—(A) The term ‘historic confinement sites’ means the 10 internment camp sites referred to as Gila River, Granada, Heart Mountain, Jerome, Manzanar, Minidoka, Poston, Rohwer, Topaz, and Tule Lake and depicted in Figures 4.1, 5.1, 6.1, 7.1, 8.4, 9.2, 10.6, 11.2, 12.2, and 13.2, respectively, of the Site Document; and
+Historic confinement sites.—(A) The term 'historic confinement sites' means the 10 internment camp sites referred to as Gila River, Granada, Heart Mountain, Jerome, Manzanar, Minidoka, Poston, Rohwer, Topaz, and Tule Lake and depicted in Figures 4.1, 5.1, 6.1, 7.1, 8.4, 9.2, 10.6, 11.2, 12.2, and 13.2, respectively, of the Site Document; and
 
-&emsp;“(B) other historically significant locations, as determined by the Secretary, where Japanese Americans were detained during World War II.
+&emsp;"(B) other historically significant locations, as determined by the Secretary, where Japanese Americans were detained during World War II.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Secretary.—The term ‘Secretary’ means the Secretary of the Interior.
+Secretary.—The term 'Secretary' means the Secretary of the Interior.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Site document.—The term ‘Site Document’ means the document titled ‘Confinement and Ethnicity: An Overview of World War II Japanese American Relocation Sites’, published by the Western Archeological and Conservation Center, National Park Service, in 1999.
+Site document.—The term 'Site Document' means the document titled 'Confinement and Ethnicity: An Overview of World War II Japanese American Relocation Sites', published by the Western Archeological and Conservation Center, National Park Service, in 1999.
 
-#### “SEC. 3. PRIVATE PROPERTY PROTECTION.
+#### "SEC. 3. PRIVATE PROPERTY PROTECTION.
 
-“No Federal funds made available to carry out this Act may be used to acquire any real property or any interest in any real property without the written consent of the owner or owners of that property or interest in property.
+"No Federal funds made available to carry out this Act may be used to acquire any real property or any interest in any real property without the written consent of the owner or owners of that property or interest in property.
 
-#### “SEC. 4. AUTHORIZATION OF APPROPRIATIONS.
+#### "SEC. 4. AUTHORIZATION OF APPROPRIATIONS.
 
-“There are authorized to be appropriated to the Secretary $38,000,000 to carry out this Act. Such sums shall remain available until expended.”
+"There are authorized to be appropriated to the Secretary $38,000,000 to carry out this Act. Such sums shall remain available until expended."
 
 #### Crossroads of the West Historic District
 
@@ -434,23 +434,23 @@ Pub. L. 105–312, title V, Oct. 30, 1998, 112 Stat. 2961, as amended by Pub. L.
 
 Pub. L. 105–277, div. A, §101(e) \[title I, §128\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–262, provided that:
 
-“(a) The Congress finds that—
+"(a) The Congress finds that—
 
-&emsp;“(1) the 1954 U.S. Supreme Court decision of Brown v. Board of Education, which mandated an end to the segregation of public schools, was one of the most significant Court decisions in the history of the United States;
+&emsp;"(1) the 1954 U.S. Supreme Court decision of Brown v. Board of Education, which mandated an end to the segregation of public schools, was one of the most significant Court decisions in the history of the United States;
 
-&emsp;“(2) the Charleston Public School District in Charleston, Arkansas, in September, 1954, became the first previously-segregated public school district in the former Confederacy to integrate following the Brown decision;
+&emsp;"(2) the Charleston Public School District in Charleston, Arkansas, in September, 1954, became the first previously-segregated public school district in the former Confederacy to integrate following the Brown decision;
 
-&emsp;“(3) the orderly and peaceful integration of the public schools in Charleston served as a model and inspiration in the development of the Civil Rights movement in the United States, particularly with respect to public education; and
+&emsp;"(3) the orderly and peaceful integration of the public schools in Charleston served as a model and inspiration in the development of the Civil Rights movement in the United States, particularly with respect to public education; and
 
-&emsp;“(4) notwithstanding the important role of the Charleston School District in the successful implementation of integrated public schools, the role of the district has not been adequately commemorated and interpreted for the benefit and understanding of the nation.
+&emsp;"(4) notwithstanding the important role of the Charleston School District in the successful implementation of integrated public schools, the role of the district has not been adequately commemorated and interpreted for the benefit and understanding of the nation.
 
-“(b) The Charleston Public School complex in Charleston, Arkansas is hereby designated as the ‘Charleston National Commemorative Site’ in commemoration of the Charleston schools’ role as the first public school district in the South to integrate following the 1954 United States Supreme Court decision, Brown v. Board of Education.
+"(b) The Charleston Public School complex in Charleston, Arkansas is hereby designated as the 'Charleston National Commemorative Site' in commemoration of the Charleston schools' role as the first public school district in the South to integrate following the 1954 United States Supreme Court decision, Brown v. Board of Education.
 
-“(c) The Secretary, after consultation with the Charleston Public School District, shall establish an appropriate commemorative monument and interpretive exhibit at the Charleston National Commemorative Site to commemorate the 1954 integration of Charleston's public schools.”
+"(c) The Secretary, after consultation with the Charleston Public School District, shall establish an appropriate commemorative monument and interpretive exhibit at the Charleston National Commemorative Site to commemorate the 1954 integration of Charleston's public schools."
 
 #### Vancouver National Historic Reserve
 
-Pub. L. 104–333, div. I, title V, §502, Nov. 12, 1996, 110 Stat. 4154, as amended by Pub. L. 106–176, title I, §107, Mar. 10, 2000, 114 Stat. 26; Pub. L. 107–342, §1, Dec. 17, 2002, 116 Stat. 2891, established Vancouver National Historic Reserve, Washington, directed that Reserve be administered through general management plan submitted by National Park Service to Secretary of the Interior within 3 years after Nov. 12, 1996, developed by partnership of interests including National Park Service, Historic Preservation Office of State of Washington, Department of the Army, and City of Vancouver,Washington, and to include specific findings of Vancouver Historic Reserve Report and to meet with approval of Secretary of the Interior and Secretary of the Army, directed that plan not be deemed new unit of National Park System and not limit authority of Federal Aviation Administration, and authorized appropriations.
+Pub. L. 104–333, div. I, title V, §502, Nov. 12, 1996, 110 Stat. 4154, as amended by Pub. L. 106–176, title I, §107, Mar. 10, 2000, 114 Stat. 26; Pub. L. 107–342, §1, Dec. 17, 2002, 116 Stat. 2891, established Vancouver National Historic Reserve, Washington, directed that Reserve be administered through general management plan submitted by National Park Service to Secretary of the Interior within 3 years after Nov. 12, 1996, developed by partnership of interests including National Park Service, Historic Preservation Office of State of Washington, Department of the Army, and City of Vancouver, Washington, and to include specific findings of Vancouver Historic Reserve Report and to meet with approval of Secretary of the Interior and Secretary of the Army, directed that plan not be deemed new unit of National Park System and not limit authority of Federal Aviation Administration, and authorized appropriations.
 
 #### Great Falls Historic District, New Jersey
 
@@ -458,7 +458,7 @@ Pub. L. 104–333, div. I, title V, §510, Nov. 12, 1996, 110 Stat. 4158, as ame
 
 #### Aleutian World War II National Historic Area
 
-Pub. L. 104–333, div. I, title V, §513, Nov. 12, 1996, 110 Stat. 4165, as amended by Pub. L. 106–176, title I, §113, Mar. 10, 2000, 114 Stat. 27, cited as “Aleutian World War II National Historic Areas Act of 1996”, designated and preserved Aleutian World War II National Historic Area within lands owned by Ounalaska Corporation on Island of Amaknak, Alaska, set boundaries of Historic Area, set terms, conditions, and limitations, and authorized Secretary of the Interior to award grants and provide technical assistance to Ounalaska Corporation and City of Unalaska.
+Pub. L. 104–333, div. I, title V, §513, Nov. 12, 1996, 110 Stat. 4165, as amended by Pub. L. 106–176, title I, §113, Mar. 10, 2000, 114 Stat. 27, cited as "Aleutian World War II National Historic Areas Act of 1996", designated and preserved Aleutian World War II National Historic Area within lands owned by Ounalaska Corporation on Island of Amaknak, Alaska, set boundaries of Historic Area, set terms, conditions, and limitations, and authorized Secretary of the Interior to award grants and provide technical assistance to Ounalaska Corporation and City of Unalaska.
 
 #### Maine Acadian Culture Preservation Act
 
@@ -466,123 +466,123 @@ Pub. L. 101–543, Nov. 8, 1990, 104 Stat. 2389, established Maine Acadian Cultu
 
 #### Southwestern Pennsylvania Heritage Preservation Commission
 
-Pub. L. 100–698, §1, title I, §§101–105, Nov. 19, 1988, 102 Stat. 4618, as amended by Pub. L. 104–333, div. I, title VIII, §814(d)(1)(L), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 106–291, title I, §148, Oct. 11, 2000, 114 Stat. 956, provided for the establishment and staffing of the Southwestern Pennsylvania Heritage Preservation Commission and set forth its powers and functions as a means for recognizing, preserving, promoting, and interpreting the cultural heritage of the 9-county region in southwestern Pennsylvania associated with the three basic industries of iron and steel, coal, and transportation.
+Pub. L. 100–698, §1, title I, §§101–105, Nov. 19, 1988, 102 Stat. 4618, as amended by Pub. L. 104–333, div. I, title VIII, §814(d)(1)(L), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 106–291, title I, §148, Oct. 11, 2000, 114 Stat. 956, provided for the establishment and staffing of the Southwestern Pennsylvania Heritage Preservation Commission andset forth its powers and functions as a means for recognizing, preserving, promoting, and interpreting the cultural heritage of the 9-county region in southwestern Pennsylvania associated with the three basic industries of iron and steel, coal, and transportation.
 
 #### Historic Resources of Camden, South Carolina
 
-Pub. L. 97–184, May 24, 1982, 96 Stat. 99, provided: “That (a) in order to assist in the preservation of the nationally significant historic resources associated with the town of Camden, South Carolina, a key location in the development of South Carolina and in military operations in the South during the American Revolution, the Secretary of the Interior is authorized, in accordance with subsection 2(e) of the Act of August 21, 1935 (49 Stat. 666) \[section 462(e) of this title\], to enter into a cooperative agreement or agreements with the Camden Historical Commission, the Camden District Heritage Foundation, or other appropriate public, governmental, or private nonprofit entities pursuant to which the Secretary may assist in the protection, restoration, and interpretation of such resources for the benefit of the public.
+Pub. L. 97–184, May 24, 1982, 96 Stat. 99, provided: "That (a) in order to assist in the preservation of the nationally significant historic resources associated with the town of Camden, South Carolina, a key location in the development of South Carolina and in military operations in the South during the American Revolution, the Secretary of the Interior is authorized, in accordance with subsection 2(e) of the Act of August 21, 1935 (49 Stat. 666) \[section 462(e) of this title\], to enter into a cooperative agreement or agreements with the Camden Historical Commission, the Camden District Heritage Foundation, or other appropriate public, governmental, or private nonprofit entities pursuant to which the Secretary may assist in the protection, restoration, and interpretation of such resources for the benefit of the public.
 
-“(b) Beginning October 1, 1982, there are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act \[this note\], but not to exceed $250,000.”
+"(b) Beginning October 1, 1982, there are hereby authorized to be appropriated such sums as may be necessary to carry out the provisions of this Act \[this note\], but not to exceed $250,000."
 
 #### Ebey's Landing National Historical Reserve
 
 Pub. L. 95–625, title V, §508, Nov. 10, 1978, 92 Stat. 3507, as amended Pub. L. 96–87, title IV, §401(k), Oct. 12, 1979, 93 Stat. 666, provided:
 
-“(a) \[Establishment, area of reserve\] There is hereby established the Ebey's Landing National Historical Reserve (hereinafter referred to as the ‘reserve’), in order to preserve and protect a rural community which provides an unbroken historical record from nineteenth century exploration and settlement in Puget Sound to the present time, and to commemorate—
+"(a) \[Establishment, area of reserve\] There is hereby established the Ebey's Landing National Historical Reserve (hereinafter referred to as the 'reserve'), in order to preserve and protect a rural community which provides an unbroken historical record from nineteenth century exploration and settlement in Puget Sound to the present time, and to commemorate—
 
-&emsp;“(1) the first thorough exploration of the Puget Sound area, by Captain George Vancouver, in 1792;
+&emsp;"(1) the first thorough exploration of the Puget Sound area, by Captain George Vancouver, in 1792;
 
-&emsp;“(2) settlement by Colonel Isaac Neff Ebey who led the first permanent settlers to Whidbey Island, quickly became an important figure in Washington Territory, and ultimately was killed by Haidahs from the Queen Charlotte Islands during a period of Indian unrest in 1857;
+&emsp;"(2) settlement by Colonel Isaac Neff Ebey who led the first permanent settlers to Whidbey Island, quickly became an important figure in Washington Territory, and ultimately was killed by Haidahs from the Queen Charlotte Islands during a period of Indian unrest in 1857;
 
-&emsp;“(3) early active settlement during the years of the Donation Land Law (1850–1855) \[Sept. 27, 1850, ch. 76, 9 Stat. 496, Feb. 14, 1853, ch. 69, 10 Stat. 158, July 17, 1854, ch. 84, 10 Stat. 305\] and thereafter; and
+&emsp;"(3) early active settlement during the years of the Donation Land Law (1850–1855) \[Sept. 27, 1850, ch. 76, 9 Stat. 496, Feb. 14, 1853, ch. 69, 10 Stat. 158, July 17, 1854, ch. 84, 10 Stat. 305\] and thereafter; and
 
-&emsp;“(4) the growth since 1883 of the historic town of Coupeville.
+&emsp;"(4) the growth since 1883 of the historic town of Coupeville.
 
 > The reserve shall include the area of approximately eight thousand acres identified as the Central Whidbey Island Historic District.
 
-“(b) \[Comprehensive plan; transmittal to Congress\] (1) To achieve the purpose of this section, the Secretary, in cooperation with the appropriate State and local units of general government, shall formulate a comprehensive plan for the protection, preservation, and interpretation of the reserve. The plan shall identify those areas or zones within the reserve which would most appropriately be devoted to—
+"(b) \[Comprehensive plan; transmittal to Congress\] (1) To achieve the purpose of this section, the Secretary, in cooperation with the appropriate State and local units of general government, shall formulate a comprehensive plan for the protection, preservation, and interpretation of the reserve. The plan shall identify those areas or zones within the reserve which would most appropriately be devoted to—
 
-&emsp;“(A) public use and development;
+&emsp;"(A) public use and development;
 
-&emsp;“(B) historic and natural preservation; and
+&emsp;"(B) historic and natural preservation; and
 
-&emsp;“(C) private use subject to appropriate local zoning ordinances designed to protect the historical rural setting.
+&emsp;"(C) private use subject to appropriate local zoning ordinances designed to protect the historical rural setting.
 
-“(2) Within eighteen months following the date of enactment of this section \[Nov. 10, 1978\], the Secretary shall transmit the plan to the President of the Senate and the Speaker of the House of Representatives.
+"(2) Within eighteen months following the date of enactment of this section \[Nov. 10, 1978\], the Secretary shall transmit the plan to the President of the Senate and the Speaker of the House of Representatives.
 
-“(c) \[Cooperative agreement; land use controls; transfer of management and administration; assistance; grants, limitation of amount\] At such time as the State or appropriate units of local government having jurisdiction over land use within the reserve have enacted such zoning ordinances or other land use controls which in the judgment of the Secretary will protect and preserve the historic and natural features of the area in accordance with the comprehensive plan, the Secretary may, pursuant to cooperative agreement—
+"(c) \[Cooperative agreement; land use controls; transfer of management and administration; assistance; grants, limitation of amount\] At such time as the State or appropriate units of local government having jurisdiction over land use within the reserve have enacted such zoning ordinances or other land use controls which in the judgment of the Secretary will protect and preserve the historic and natural features of the area in accordance with the comprehensive plan, the Secretary may, pursuant to cooperative agreement—
 
-&emsp;“(1) transfer management and administration over all or any part of the property acquired under subsection (d) of this section to the State or appropriate units of local government;
+&emsp;"(1) transfer management and administration over all or any part of the property acquired under subsection (d) of this section to the State or appropriate units of local government;
 
-&emsp;“(2) provide technical assistance to such State or unit of local government in the management, protection, and interpretation of the reserve; and
+&emsp;"(2) provide technical assistance to such State or unit of local government in the management, protection, and interpretation of the reserve; and
 
-&emsp;“(3) make periodic grants, which shall be supplemental to any other funds to which the grantee may be entitled under any other provision of law, to such State or local unit of government for the annual costs of operation and maintenance, including but not limited to, salaries of personnel and the protection, preservation, and rehabilitation of the reserve except that no such grant may exceed 50 per centum of the estimated annual cost, as determined by the Secretary, of such operation and maintenance.
+&emsp;"(3) make periodic grants, which shall be supplemental to any other funds to which the grantee may be entitled under any other provision of law, to such State or local unit of government for the annual costs of operation and maintenance, including but not limited to, salaries of personnel and the protection, preservation, and rehabilitation of the reserve except that no such grant may exceed 50 per centum of the estimated annual cost, as determined by the Secretary, of such operation and maintenance.
 
-“(d) \[Acquisition of property; administration by Secretary\] The Secretary is authorized to acquire such lands and interests as he determines are necessary to accomplish the purposes of this section by donation, purchase with donated or appropriated funds, or exchange, except that the Secretary may not acquire the fee simple title to any land without the consent of theowner. The Secretary shall, in addition, give prompt and careful consideration to any offer made by an individual owning property within the historic district to sell such property, if such individual notifies the Secretary that the continued ownership of such property is causing, or would result in, undue hardship.
+"(d) \[Acquisition of property; administration by Secretary\] The Secretary is authorized to acquire such lands and interests as he determines are necessary to accomplish the purposes of this section by donation, purchase with donated or appropriated funds, or exchange, except that the Secretary may not acquire the fee simple title to any land without the consent of the owner. The Secretary shall, in addition, give prompt and careful consideration to any offer made by an individual owning property within the historic district to sell such property, if such individual notifies the Secretary that the continued ownership of such property is causing, or would result in, undue hardship.
 
-“Lands and interests therein so acquired shall, so long as responsibility for management and administration remains with the United States, be administered by the Secretary subject to the provisions of the Act of August 25, 1916 (39 Stat. 535) \[sections 1, 2, 3, and 4 of this title\], as amended and supplemented, and in a manner consistent with the purpose of this section.
+"Lands and interests therein so acquired shall, so long as responsibility for management and administration remains with the United States, be administered by the Secretary subject to the provisions of the Act of August 25, 1916 (39 Stat. 535) \[sections 1, 2, 3, and 4 of this title\], as amended and supplemented, and in a manner consistent with the purpose of this section.
 
-“(e) \[Management inconsistencies; notification; modifications; withdrawal; management by Secretary\] If, after the transfer of management and administration of any lands pursuant to subsection (c) of this section, the Secretary determines that the reserve is not being managed in a manner consistent with the purposes of this section, he shall so notify the appropriate officers of the State or local unit of government to which such transfer was made and provide for a ninety-day period in which the transferee may make such modifications in applicable laws, ordinances, rules, and procedures as will be consistent with such purposes. If, upon the expiration of such ninety-day period, the Secretary determines that such modifications have not been made or are inadequate, he shall withdraw the management and administration from the transferee and he shall manage such lands in accordance with the provisions of this section.
+"(e) \[Management inconsistencies; notification; modifications; withdrawal; management by Secretary\] If, after the transfer of management and administration of any lands pursuant to subsection (c) of this section, the Secretary determines that the reserve is not being managed in a manner consistent with the purposes of this section, he shall so notify the appropriate officers of the State or local unit of government to which such transfer was made and provide for a ninety-day period in which the transferee may make such modifications in applicable laws, ordinances, rules, and procedures as will be consistent with such purposes. If, upon the expiration of such ninety-day period, the Secretary determines that such modifications have not been made or are inadequate, he shall withdraw the management and administration from the transferee and he shall manage such lands in accordance with the provisions of this section.
 
-“(f) \[Authorization of appropriations\] There is hereby authorized to be appropriated not to exceed $5,000,000 to carry out the provisions of this section.”
+"(f) \[Authorization of appropriations\] There is hereby authorized to be appropriated not to exceed $5,000,000 to carry out the provisions of this section."
 
 #### Saint Paul's Church, Eastchester
 
 Pub. L. 95–625, title V, §504, Nov. 10, 1978, 92 Stat. 3498, provided:
 
-“(a) \[Acquisition of property\] In order to preserve and protect Saint Paul's Church, Eastchester, in Mount Vernon, New York, for the benefit of present and future generations, the Secretary may accept any gift or bequest of any property or structure which comprises such church and any other real or personal property located within the square bounded by South Columbus Avenue, South Third Avenue, Edison Avenue, and South Fulton Avenue, in Mount Vernon, New York, including the cemetery located within such square and any real property located within such square which was at any time a part of the old village green, now in Mount Vernon, New York.
+"(a) \[Acquisition of property\] In order to preserve and protect Saint Paul's Church, Eastchester, in Mount Vernon, New York, for the benefit of present and future generations, the Secretary may accept any gift or bequest of any property or structure which comprises such church and any other real or personal property located within the square bounded by South Columbus Avenue, South Third Avenue, Edison Avenue, and South Fulton Avenue, in Mount Vernon, New York, including the cemetery located within such square and any real property located within such square which was at any time a part of the old village green, now in Mount Vernon, New York.
 
-“(b) \[Administration; repairs; cooperative agreements: management protection, development and interpretation\] Any property acquired under subsection (a) shall be administered by the Secretary acting through the National Park Service, in accordance with this section and provisions of law generally applicable to units of the National Park System, including the Act approved August 25, 1916 (16 U.S.C. 1 and following) \[sections 1, 2, 3, and 4 of this title\] and the Act approved August 21, 1935 \[sections 461 to 467 of this title\]. The Secretary, in carrying out the provisions of such Acts (i) shall give particular attention to assuring the completion of such structural and other repairs as he considers necessary to restore and preserve any property acquired in accordance with this section, and (ii) may enter into cooperative agreements with other public or private entities for the management, protection, development, and interpretation, in whole or in part, of the property so acquired.”
+"(b) \[Administration; repairs; cooperative agreements: management protection, development and interpretation\] Any property acquired under subsection (a) shall be administered by the Secretary acting through the National Park Service, in accordance with this section and provisions of law generally applicable to units of the National Park System, including the Act approved August 25, 1916 (16 U.S.C. 1 and following) \[sections 1, 2, 3, and 4 of this title\] and the Act approved August 21, 1935 \[sections 461 to 467 of this title\]. The Secretary, in carrying out the provisions of such Acts (i) shall give particular attention to assuring the completion of such structural and other repairs as he considers necessary to restore and preserve any property acquired in accordance with this section, and (ii) may enter into cooperative agreements with other public or private entities for the management, protection, development, and interpretation, in whole or in part, of the property so acquired."
 
 #### Lowell Historic Canal District, Lowell, Massachusetts
 
 Pub. L. 93–645, Jan. 4, 1975, 88 Stat. 2330, provided that:
 
-“
+"
 
-Sec. 1. \[Lowell Historic Canal District Commission; establishment purpose\] For the purpose of preserving and interpreting for the educational and inspirational benefit of present and future generations the unique and significant contribution to our national heritage of certain historic and cultural lands, waterways, and edifices in the city of Lowell, Massachusetts (the cradle of the industrial revolution in America as well as America's first planned industrial city) with emphasis on harnessing this unique urban environment for its educational value as well as for recreation, there is hereby established the Lowell Historic Canal District Commission (hereinafter referred to as the ‘Commission’), the purpose of which shall be to prepare a plan for the preservation, interpretation, development, and use, by public and private entities, of the historic, cultural, and architectural resources of the Lowell Historic Canal District in the city of Lowell, Massachusetts.
+Sec. 1. \[Lowell Historic Canal District Commission; establishment purpose\] For the purpose of preserving and interpreting for the educational and inspirational benefit of present and future generations the unique and significant contribution to our national heritage of certain historic and cultural lands, waterways, and edifices in the city of Lowell, Massachusetts (the cradle of the industrial revolution in America as well as America's first planned industrial city) with emphasis on harnessing this unique urban environment for its educational value as well as for recreation, there is hereby established the Lowell Historic Canal District Commission (hereinafter referred to as the 'Commission'), the purpose of which shall be to prepare a plan for the preservation, interpretation, development, and use, by public and private entities, of the historic, cultural, and architectural resources of the Lowell Historic Canal District in the city of Lowell, Massachusetts.
 
-“
+"
 
 Sec. 2. \[Membership; alternate members; compensation\] (a) The Commission shall consist of nine members, as follows:
 
-&emsp;“(1) the Secretary of the Interior, the Secretary of Housing and Urban Development, the Secretary of Transportation, and the Secretary of Commerce, all ex officio; and
+&emsp;"(1) the Secretary of the Interior, the Secretary of Housing and Urban Development, the Secretary of Transportation, and the Secretary of Commerce, all ex officio; and
 
-&emsp;“(2) five members appointed by the Secretary of the Interior, one of whom shall be the Director of the National Park Service, two of whom shall be appointed from recommendations submitted by the manager of the city of Lowell, and two of whom shall be appointed from recommendations submitted by the Governor of the Commonwealth of Massachusetts. The members appointed pursuant to this paragraph shall have knowledge and experience in one or more of the fields of history, architecture, the arts, recreation planning, city planning, or government.
+&emsp;"(2) five members appointed by the Secretary of the Interior, one of whom shall be the Director of the National Park Service, two of whom shall be appointed from recommendations submitted by the manager of the city of Lowell, and two of whom shall be appointed from recommendations submitted by the Governor of the Commonwealth of Massachusetts. The members appointed pursuant to this paragraph shall have knowledge and experience in one or more of the fields of history, architecture, the arts, recreation planning, city planning, or government.
 
-“(b) Each member of the Commission specified in paragraph (1) of subsection (a) and the Director of the National Park Service may designate an alternate official to serve in his stead. Members appointed pursuant to paragraph (2) of subsection (a) who are officers or employees of the Federal Government, the city of Lowell, or the Commonwealth of Massachusetts, shall serve without compensation as such. Other members, when engaged in activities of the Commission, shall be entitled to compensation at the rate of not to exceed $100 per diem. All members of the Commission shall receive reimbursement for necessary travel and subsistence expenses incurred by them in the performance of the duties of the Commission.
+"(b) Each member of the Commission specified in paragraph (1) of subsection (a) and the Director of the National Park Service may designate an alternate official to serve in his stead. Members appointed pursuant to paragraph (2) of subsection (a) who are officers or employees of the Federal Government, the city of Lowell, or the Commonwealth of Massachusetts, shall serve without compensation as such. Other members, when engaged in activities of the Commission, shall be entitled to compensation at the rate of not to exceed $100 per diem. All members of the Commission shall receive reimbursement for necessary travel and subsistence expenses incurred by them in the performance of the duties of the Commission.
 
-“
+"
 
 Sec. 3. \[Personnel; financial and administrative services\] (a) The Commission shall elect a Chairman from among its members. Financial and administrative services (including those relating to budgeting, accounting, financial reporting, personnel, and procurement) shall be provided for the Commission by the General Services Administration, for which payments shall be made in advance, or by reimbursement, from funds of the Commission in such amounts as may be agreed upon by the Chairman of the Commission and the Administrator, General Services Administration: <i>Provided</i>, That the regulations of the Department of the Interior for the collection of indebtedness of personnel resulting from erroneous payments shall apply to the collection of erroneous payments made to or on behalf of a Commission employee, and regulations of said Secretary for the administrative control of funds shall apply to appropriations of the Commission: <i>And provided further</i>, That the Commission shall not be required to prescribe such regulations.
 
-“(b) The Commission shall have power to appoint and fix the compensation of such additional personnel as may be necessary to carry out its duties, without regard to the provisions of the civil service laws and the Classification Act of 1949 \[see sections 5101 et seq. and 5331 et seq. of Title 5, Government Organization and Employees\].
+"(b) The Commission shall have power to appoint and fix the compensation of such additional personnel as may be necessary to carry out its duties, without regard to the provisions of the civil service laws and the Classification Act of 1949 \[see sections 5101 et seq. and 5331 et seq. of Title 5, Government Organization and Employees\].
 
-“(c) The Commission may also procure, without regard to the civil service laws and the Classification Act of 1949 \[see sections 5101 et seq. and 5331 et seq. of Title 5\], temporary and intermittent services to the same extent as is authorized for the executive departments by section 15 of the Administrative Expenses Act of 1946 \[see section 3109 of Title 5\], but at rates not to exceed $100 per diem for individuals.
+"(c) The Commission may also procure, without regard to the civil service laws and the Classification Act of 1949 \[see sections 5101 et seq. and 5331 et seq. of Title 5\], temporary and intermittent services to the same extent as is authorized for the executive departments by section 15 of the Administrative Expenses Act of 1946 \[see section 3109 of Title 5\], but at rates not to exceed $100 per diem for individuals.
 
-“(d) The members of the Commission specified in paragraph (1) of section 2(a) shall provide the Commission, on a reimbursable basis, with such facilities and services under their jurisdiction and control as may be needed by the Commission to carry out its duties, to the extent that such facilities and services are requested by the Commission and are otherwise available for that purpose. To the extent of available appropriations, the Commission may obtain, by purchase, rental, donation, or otherwise, such additional property, facilities, and services as may be needed to carry out its duties. Upon the termination of the Commission all property, personal and real, and unexpended funds shall be transferred to the Department of the Interior.
+"(d) The members of the Commission specified in paragraph (1) of section 2(a) shall provide the Commission, on a reimbursable basis, with such facilities and services under their jurisdiction and control as may be needed by the Commission to carry out its duties, to the extent that such facilities and services are requested by the Commission and are otherwise available for that purpose. To the extent of available appropriations, the Commission may obtain, by purchase, rental, donation, or otherwise, such additional property, facilities, and services as may be needed to carry out its duties. Upon the termination of the Commission all property, personal and real, and unexpended funds shall be transferred to the Department of the Interior.
 
-“
+"
 
 Sec. 4. \[Plan for preservation, etc., contents; time\] It shall be the duty of the Commission to prepare the plan referred to in the first section of this Act, and to submit the plan together with any recommendations for additional legislation, to the Congress not later than two years from the effective date of this Act. The plan for the Lowell Historic Canal District shall include considerations and recommendations, without limitation, regarding (1) the objectives to be achieved by the establishment, development, and operation of the area; (2) the types of use, both public and private, to be accommodated; (3) criteria for the design and appearance of buildings, facilities, open spaces, and other improvements; (4) a program for the staging of development; (5) the anticipated interpretive, cultural, and recreational programs and uses for the area; (6) the proposed ownership and operation of all structures, facilities, and lands; (7) areas where cooperative agreements may be anticipated; (8) estimates of costs, both public and private, of implementing the plan; and (9) procedures to be used in implementing and insuring continuing conformance to the plan.
 
-“
+"
 
 Sec. 5. \[Termination of Commission\] The Commission shall be dissolved (1) upon the termination, as determined by its members, of need for its continued existence for the implementation of the plan and the operation or coordination of the entity established by the plan, or (2) upon expiration of a two-year period commencing on the effective date of this Act, whereupon the completed plan has not been submitted to the Congress, whichever occurs first.
 
-“
+"
 
 Sec. 6. \[Contemplated authorizations\] It is contemplated that the plan to be developed may propose that the Commission may be authorized to—
 
-&emsp;“(1) acquire lands and interests therein within the Lowell Historic Canal District by purchase, lease, donation, or exchange;
+&emsp;"(1) acquire lands and interests therein within the Lowell Historic Canal District by purchase, lease, donation, or exchange;
 
-&emsp;“(2) hold, maintain, use, develop, or operate buildings, facilities, and any other properties;
+&emsp;"(2) hold, maintain, use, develop, or operate buildings, facilities, and any other properties;
 
-&emsp;“(3) sell, lease, or otherwise dispose of real or personal property as necessary to carry out the plan;
+&emsp;"(3) sell, lease, or otherwise dispose of real or personal property as necessary to carry out the plan;
 
-&emsp;“(4) enter into and perform such contracts, leases, cooperative agreements, or other transactions with any agency or instrumentality of the United States, the Commonwealth of Massachusetts, and any governmental unit within its boundaries, or any person, firm, association, or corporation as may be necessary;
+&emsp;"(4) enter into and perform such contracts, leases, cooperative agreements, or other transactions with any agency or instrumentality of the United States, the Commonwealth of Massachusetts, and any governmental unit within its boundaries, or any person, firm, association, or corporation as may be necessary;
 
-&emsp;“(5) establish (through covenants, regulations, agreements, or otherwise) such restrictions, standards, and requirements as are necessary to assure development, maintenance, use, and protection of the Lowell Historic Canal District in accordance with the plan; and
+&emsp;"(5) establish (through covenants, regulations, agreements, or otherwise) such restrictions, standards, and requirements as are necessary to assure development, maintenance, use, and protection of the Lowell Historic Canal District in accordance with the plan; and
 
-&emsp;“(6) borrow money from the Treasury of the United States in such amounts as may be authorized in appropriation Acts on the basis of obligations issued by the Commission in accordance with terms and conditions approved by the Secretary of the Treasury. The Secretary of the Treasury is authorized and directed to purchase any such obligations of the Commission.
+&emsp;"(6) borrow money from the Treasury of the United States in such amounts as may be authorized in appropriation Acts on the basis of obligations issued by the Commission in accordance with terms and conditions approved by the Secretary of the Treasury. The Secretary of the Treasury is authorized and directed to purchase any such obligations of the Commission.
 
-“
+"
 
 Sec. 7. \[Title to property\] Title to property of the Commission shall be in the name of the Commission, but it shall not be subject to any Federal, State, or municipal taxes.
 
-“
+"
 
-Sec. 8. \[Authorization of appropriations\] There are authorized to be appropriated not to exceed $150,000 for the preparation of the plan authorized by this Act.”
+Sec. 8. \[Authorization of appropriations\] There are authorized to be appropriated not to exceed $150,000 for the preparation of the plan authorized by this Act."
 
 #### Proc. No. 3339. Establishment of Key Largo Coral Reef Preserve
 
@@ -612,7 +612,7 @@ NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of Ameri
 
 That portion of the outer Continental Shelf situated seaward of a line three geographic miles from Key Largo, Monroe County, Florida, lying and being within the following described area:
 
-Beginning at a point on the 60-foot depth curve (10-fathom line) as delineated on Coast and Geodetic Survey Chart 1249 (approximate Latitude 25°17′36″ N., Longitude 80°10′00″ W.), 200 yards southeast of Flashing White Light—Whistle Buoy “2”; thence northwesterly approximately 7,000 yards through Whistle Buoy “2” to Can Buoy “21” (approximate Latitude 25°20′06″ N., Longitude 80°12′36″ W.) southeast of Old Rhodes Key; thence southwesterly about 6,900 yards to Can Buoy “25”; thence southwesterly approximately 5,500 yards to Can Buoy “27”; thence southwesterly approximately 5,000 yards to Flashing Green Light “31BH” in Hawk Channel southeast of Point Elizabeth; thence southwesterly approximately 10,650 yards to Black Day Beacon “33” in Hawk Channel east of Point Willie; thence southwesterly approximately 9,800 yards to Flashing WhiteLight “35” on Mosquito Bank east of Point Charles; thence southwesterly approximately 5,400 yards to Black Day Beacon “37” (approximate Latitude 25°02′25″ N., Longitude 80°25′36″ W.), southeast of Rodriguez Key; thence southeasterly approximately 7,100 yards (pass 600 yards southwest of Flashing Light “2” at Molasses Reef) to the 60-foot depth curve (10-fathom line) 800 yards due south of said light at Molasses Reef (approximate Latitude 25°00′18″ N., Longitude 80°22′30″ W.); thence northeasterly with the 60-foot depth curve and 10-fathom line (passing easterly of French Reef, Dixie Shoal, The Elbow, and Carysfort Reef) approximately 21 miles to the point of beginning.
+Beginning at a point on the 60-foot depth curve (10-fathom line) as delineated on Coast and Geodetic Survey Chart 1249 (approximate Latitude 25°17′36″ N., Longitude 80°10′00″ W.), 200 yards southeast of Flashing White Light—Whistle Buoy "2"; thence northwesterly approximately 7,000 yards through Whistle Buoy "2" to Can Buoy "21" (approximate Latitude 25°20′06″ N., Longitude 80°12′36″ W.) southeast of Old Rhodes Key; thence southwesterly about 6,900 yards to Can Buoy "25"; thence southwesterly approximately 5,500 yards to Can Buoy "27"; thence southwesterly approximately 5,000 yards to Flashing Green Light "31BH" in Hawk Channel southeast of Point Elizabeth; thence southwesterly approximately 10,650 yards to Black Day Beacon "33" in Hawk Channel east of Point Willie; thence southwesterly approximately 9,800 yards to Flashing White Light "35" on Mosquito Bank east of Point Charles; thence southwesterly approximately 5,400 yards to Black Day Beacon "37" (approximate Latitude 25°02′25″ N., Longitude 80°25′36″ W.), southeast of Rodriguez Key; thence southeasterly approximately 7,100 yards (pass 600 yards southwest of Flashing Light "2" at Molasses Reef) to the 60-foot depth curve (10-fathom line) 800 yards due south of said light at Molasses Reef (approximate Latitude 25°00′18″ N., Longitude 80°22′30″ W.); thence northeasterly with the 60-foot depth curve and 10-fathom line (passing easterly of French Reef, Dixie Shoal, The Elbow, and Carysfort Reef) approximately 21 miles to the point of beginning.
 
 I call upon all persons to join in the effort to protect and preserve this natural wonder for the benefit of future generations.
 

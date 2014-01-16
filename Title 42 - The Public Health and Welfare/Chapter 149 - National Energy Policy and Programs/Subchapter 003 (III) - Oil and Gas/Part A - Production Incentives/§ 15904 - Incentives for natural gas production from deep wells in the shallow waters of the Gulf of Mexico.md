@@ -20,17 +20,17 @@
 
 #### (A) Ultra deep well
 
-&emsp;&emsp;The term “ultra deep well” means a well drilled with a perforated interval, the top of which is at least 20,000 true vertical depth below the datum at mean sea level.
+&emsp;&emsp;The term "ultra deep well" means a well drilled with a perforated interval, the top of which is at least 20,000 true vertical depth below the datum at mean sea level.
 
 #### (B) Sidetrack
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The term “sidetrack” means a well resulting from drilling an additional hole to a new objective bottom-hole location by leaving a previously drilled hole.
+&emsp;&emsp;&emsp;The term "sidetrack" means a well resulting from drilling an additional hole to a new objective bottom-hole location by leaving a previously drilled hole.
 
 #### (ii) Inclusion
 
-&emsp;&emsp;&emsp;The term “sidetrack” includes—
+&emsp;&emsp;&emsp;The term "sidetrack" includes—
 
 &emsp;&emsp;&emsp;&emsp;(I) drilling a well from a platform slot reclaimed from a previously drilled well;
 

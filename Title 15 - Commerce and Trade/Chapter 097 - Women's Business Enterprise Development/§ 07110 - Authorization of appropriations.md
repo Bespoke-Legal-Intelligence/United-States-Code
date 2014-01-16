@@ -16,9 +16,9 @@ A prior section 410 of Pub. L. 100–533 was renumbered section 409 and is class
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–554 amended section catchline and text generally. Prior to amendment, text authorized appropriations to carry out this chapter for fiscal years 1998 through 2000 and limited obligation or expenditure of those funds prior to the budget review by the Council for that fiscal year.
+<b>2000</b>—Pub. L. 106–554 amended section catchline and text generally. Prior to amendment, text authorized appropriations to carry out this chapter for fiscal years1998 through 2000 and limited obligation or expenditure of those funds prior to the budget review by the Council for that fiscal year.
 
-<b>1997</b>—Pub. L. 105–135 amended section catchline and text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated for each of fiscal years 1995 through 1997, to carry out this chapter, $350,000.”
+<b>1997</b>—Pub. L. 105–135 amended section catchline and text generally. Prior to amendment, text read as follows: "There are authorized to be appropriated for each of fiscal years 1995 through 1997, to carry out this chapter, $350,000."
 
 #### Effective Date of 1997 Amendment
 

@@ -20,7 +20,7 @@ In the case of an individual who is a first-time homebuyer of a principal reside
 
 #### (2) Modified adjusted gross income
 
-&emsp;For purposes of paragraph (1), the term “modified adjusted gross income” means theadjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
+&emsp;For purposes of paragraph (1), the term "modified adjusted gross income" means theadjusted gross income of the taxpayer for the taxable year increased by any amount excluded from gross income under section 911, 931, or 933.
 
 #### (c) First-time homebuyer
 
@@ -28,7 +28,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “first-time homebuyer” means any individual if such individual (and if married, such individual's spouse) had no present ownership interest in a principal residence in the District of Columbia during the 1-year period ending on the date of the purchase of the principal residence to which this section applies.
+&emsp;The term "first-time homebuyer" means any individual if such individual (and if married, such individual's spouse) had no present ownership interest in a principal residence in the District of Columbia during the 1-year period ending on the date of the purchase of the principal residence to which this section applies.
 
 #### (2) One-time only
 
@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (3) Principal residence
 
-&emsp;The term “principal residence” has the same meaning as when used in section 121.
+&emsp;The term "principal residence" has the same meaning as when used in section 121.
 
 #### (d) Carryforward of unused credit
 
@@ -50,7 +50,7 @@ For purposes of this section—
 
 #### (A) Married individuals filing separately
 
-&emsp;&emsp;In the case of a married individual filing a separate return, subsection (a) shall be applied by substituting “$2,500” for “$5,000”.
+&emsp;&emsp;In the case of a married individual filing a separate return, subsection (a) shall be applied by substituting "$2,500" for "$5,000".
 
 #### (B) Other taxpayers
 
@@ -60,7 +60,7 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “purchase” means any acquisition, but only if—
+&emsp;&emsp;The term "purchase" means any acquisition, but only if—
 
 &emsp;&emsp;&emsp;(i) the property is not acquired from a person whose relationship to the person acquiring it would result in the disallowance of losses under section 267 or 707(b) (but, in applying section 267(b) and (c) for purposes of this section, paragraph (4) of section 267(c) shall be treated as providing that the family of an individual shall include only his spouse, ancestors, and lineal descendants), and
 
@@ -76,7 +76,7 @@ For purposes of this section—
 
 #### (3) Purchase price
 
-&emsp;The term “purchase price” means the adjusted basis of the principal residence on the date such residence is purchased.
+&emsp;The term "purchase price" means the adjusted basis of the principal residence on the date such residence is purchased.
 
 #### (4) Coordination with national first-time homebuyers credit
 
@@ -104,53 +104,53 @@ This section shall apply to property purchased after August 4, 1997, and before 
 
 <b>2013</b>—Subsec. (d). Pub. L. 112–240 amended subsec. (d) generally. Prior to amendment, subsec. (d) related to carryforward of unused credit with a rule for years in which all personal credits allowed against regular and alternative minimum tax and a rule for other years.
 
-<b>2010</b>—Subsec. (d)(2). Pub. L. 111–148, §10909(b)(2)(M), (c), as amended by Pub. L. 111–312, §101(b)(1), temporarily struck out “23,” after “this section and sections”. See Effective and Termination Dates of 2010 Amendment note below.
+<b>2010</b>—Subsec. (d)(2). Pub. L. 111–148, §10909(b)(2)(M), (c), as amended by Pub. L. 111–312, §101(b)(1), temporarily struck out "23," after "this section and sections". See Effective and Termination Dates of 2010 Amendment note below.
 
-Subsec. (i). Pub. L. 111–312, §754(d), substituted “2012” for “2010”.
+Subsec. (i). Pub. L. 111–312, §754(d), substituted "2012" for "2010".
 
-<b>2009</b>—Subsec. (d)(2). Pub. L. 111–5, §1144(b)(1)(F), substituted “30, and 30B” for “and 30”.
+<b>2009</b>—Subsec. (d)(2). Pub. L. 111–5, §1144(b)(1)(F), substituted "30, and 30B" for "and 30".
 
-Pub. L. 111–5, §1142(b)(1)(F), which directed the substitution of “25D, and 30” for “and 25D”, was executed by making the substitution for “25D”, to reflect the probable intent of Congress and the amendment by Pub. L. 110–343, §205(d)(1)(E). See 2008 Amendment note below.
+Pub. L. 111–5, §1142(b)(1)(F), which directed the substitution of "25D, and 30" for "and 25D", was executed by making the substitution for "25D", to reflect the probable intent of Congress and the amendment by Pub. L. 110–343, §205(d)(1)(E). See 2008 Amendment note below.
 
-Pub. L. 111–5, §1004(b)(6), inserted “25A(i),” after “24,”.
+Pub. L. 111–5, §1004(b)(6), inserted "25A(i)," after "24,".
 
-Subsec. (e)(4). Pub. L. 111–92 struck out “and before December 1, 2009,” after “December 31, 2008,”.
+Subsec. (e)(4). Pub. L. 111–92 struck out "and before December 1, 2009," after "December 31, 2008,".
 
 Pub. L. 111–5, §1006(d)(1), added par. (4).
 
-<b>2008</b>—Subsec. (d)(2). Pub. L. 110–343, §205(d)(1)(E), substituted “25D, and 30D” for “and 25D”.
+<b>2008</b>—Subsec. (d)(2). Pub. L. 110–343, §205(d)(1)(E), substituted "25D, and 30D" for "and 25D".
 
-Subsec. (i). Pub. L. 110–343, §322(d)(1), substituted “2010” for “2008”.
+Subsec. (i). Pub. L. 110–343, §322(d)(1), substituted "2010" for "2008".
 
-<b>2006</b>—Subsec. (i). Pub. L. 109–432 substituted “2008” for “2006”.
+<b>2006</b>—Subsec. (i). Pub. L. 109–432 substituted "2008" for "2006".
 
-<b>2005</b>—Subsec. (d). Pub. L. 109–135, §402(i)(3)(F), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under subpart A of part IV of subchapter A (other than this section and sections 23, 24, and 25B), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year.”
+<b>2005</b>—Subsec. (d). Pub. L. 109–135, §402(i)(3)(F), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: "If the credit allowable under subsection (a) exceeds the limitation imposed by section 26(a) for such taxable year reduced by the sum of the credits allowable under subpart A of part IV of subchapter A (other than this section and sections 23, 24, and 25B), such excess shall be carried to the succeeding taxable year and added to the credit allowable under subsection (a) for such taxable year."
 
-Pub. L. 109–58, §1335(b)(3), which directed amendment of subsec. (d) by substituting “this section and section 25D” for “this section”, was repealed by Pub. L. 109–135, §402(i)(4). See Effective and Termination Dates of 2005 Amendments notes below.
+Pub. L. 109–58, §1335(b)(3), which directed amendment of subsec. (d) by substituting "this section and section 25D" for "this section", was repealed by Pub. L. 109–135, §402(i)(4). See Effective and Termination Dates of 2005 Amendments notes below.
 
-<b>2004</b>—Subsec. (i). Pub. L. 108–311 substituted “2006” for “2004”.
+<b>2004</b>—Subsec. (i). Pub. L. 108–311 substituted "2006" for "2004".
 
 <b>2002</b>—Subsec. (d). Pub. L. 107–147 amended directory language of Pub. L. 107–16, §618(b)(2)(E). See 2001 Amendment note below.
 
-<b>2001</b>—Subsec. (d). Pub. L. 107–16, §618(b)(2)(E), as amended by Pub. L. 107–147, substituted “, 24, and 25B” for “and 24”.
+<b>2001</b>—Subsec. (d). Pub. L. 107–16, §618(b)(2)(E), as amended by Pub. L. 107–147, substituted ", 24, and 25B" for "and 24".
 
-Pub. L. 107–16, §202(f)(2)(C), substituted “sections 23 and 24” for “section 24”.
+Pub. L. 107–16, §202(f)(2)(C), substituted "sections 23 and 24" for "section 24".
 
-Pub. L. 107–16, §201(b)(2)(H), inserted “and section 24” after “this section”.
+Pub. L. 107–16, §201(b)(2)(H), inserted "and section 24" after "this section".
 
-<b>2000</b>—Subsec. (i). Pub. L. 106–554 substituted “2004” for “2002”.
+<b>2000</b>—Subsec. (i). Pub. L. 106–554 substituted "2004" for "2002".
 
-<b>1999</b>—Subsec. (i). Pub. L. 106–170 substituted “2002” for “2001”.
+<b>1999</b>—Subsec. (i). Pub. L. 106–170 substituted "2002" for "2001".
 
-<b>1998</b>—Subsec. (b)(1). Pub. L. 105–206, §6008(d)(1), inserted “and subsection (d)” after “this subsection” in introductory provisions.
+<b>1998</b>—Subsec. (b)(1). Pub. L. 105–206, §6008(d)(1), inserted "and subsection (d)" after "this subsection" in introductory provisions.
 
-Subsec. (c)(1). Pub. L. 105–206, §6008(d)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The term ‘first-time homebuyer’ has the same meaning as when used in section 72(t)(8)(D)(i), except that ‘principal residence in the District of Columbia during the 1-year period’ shall be substituted for ‘principal residence during the 2-year period’ in subclause (I) thereof.”
+Subsec. (c)(1). Pub. L. 105–206, §6008(d)(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: "The term 'first-time homebuyer' has the same meaning as when used in section 72(t)(8)(D)(i), except that 'principal residence in the District of Columbia during the 1-year period' shall be substituted for 'principal residence during the 2-year period' in subclause (I) thereof."
 
-Subsec. (e)(2)(B). Pub. L. 105–206, §6008(d)(3), inserted “on the date the taxpayer first occupies such residence” before the period at end.
+Subsec. (e)(2)(B). Pub. L. 105–206, §6008(d)(3), inserted "on the date the taxpayer first occupies such residence" before the period at end.
 
-Subsec. (e)(3). Pub. L. 105–206, §6008(d)(4), substituted “on the date such residence is purchased.” for “on the date of acquisition (within the meaning of section 72(t)(8)(D)(iii)).”
+Subsec. (e)(3). Pub. L. 105–206, §6008(d)(4), substituted "on the date such residence is purchased." for "on the date of acquisition (within the meaning of section 72(t)(8)(D)(iii))."
 
-Subsec. (i). Pub. L. 105–206, §6008(d)(5), substituted “Application of section” for “Termination” in heading and amended text generally. Prior to amendment, text read as follows: “This section shall not apply to any property purchased after December 31, 2000.”
+Subsec. (i). Pub. L. 105–206, §6008(d)(5), substituted "Application of section" for "Termination" in heading and amended text generally. Prior to amendment, text read as follows: "This section shall not apply to any property purchased after December 31, 2000."
 
 #### Effective Date of 2013 Amendment
 
@@ -180,11 +180,11 @@ Amendment by section 1144(b)(1)(F) of Pub. L. 111–5 applicable to taxable year
 
 Amendment by section 205(d)(1)(E) of Pub. L. 110–343 applicable to taxable years beginning after Dec. 31, 2008, see section 205(e) of Pub. L. 110–343, set out as an Effective and Termination Dates of 2008 Amendment note under section 24 of this title.
 
-Pub. L. 110–343, div. C, title III, §322(d)(2), Oct. 3, 2008, 122 Stat. 3874, provided that: “The amendment made by this subsection \[amending this section\] shall apply to property purchased after December 31, 2007.”
+Pub. L. 110–343, div. C, title III, §322(d)(2), Oct. 3, 2008, 122 Stat. 3874, provided that: "The amendment made by this subsection \[amending this section\] shall apply to property purchased after December 31, 2007."
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title I, §110(d)(2), Dec. 20, 2006, 120 Stat. 2940, provided that: “The amendment made by this subsection \[amending this section\] shall apply to property purchased after December 31, 2005.”
+Pub. L. 109–432, div. A, title I, §110(d)(2), Dec. 20, 2006, 120 Stat. 2940, provided that: "The amendment made by this subsection \[amending this section\] shall apply to property purchased after December 31, 2005."
 
 #### Effective and Termination Dates of 2005 Amendment
 

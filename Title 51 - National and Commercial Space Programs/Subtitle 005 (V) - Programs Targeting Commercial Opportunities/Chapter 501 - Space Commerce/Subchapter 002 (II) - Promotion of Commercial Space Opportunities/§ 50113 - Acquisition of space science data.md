@@ -2,7 +2,7 @@
 
 (a)
 
-Definition of Space Science Data.—In this section, the term “space science data” includes scientific data concerning—
+Definition of Space Science Data.—In this section, the term "space science data" includes scientific data concerning—
 
 &emsp;(1) the elemental and mineralogical resources of the moon, asteroids, planets and their moons, and comets;
 

@@ -54,7 +54,7 @@
 
 (l) Subsection (h)(1), and sections 8439(b) and 8474(c)(4), shall be applied with respect to information relating to employees of the Central Intelligence Agency in a manner that protects intelligence sources, methods, and activities.
 
-(m)(1) The Director of Central Intelligence, in consultation with the Director of the Office of Personnel Management and the Executive Director of the Federal Retirement Thrift Investment Board, shall by regulation prescribe appropriate procedures to carry out subsections (j), (k), and (l).
+(m)(1) The Director of Central Intelligence, in consultation with the Director of the Office of Personnel Management and the Executive Director of the Federal Retirement Thrift Investment Board, shall by regulation prescribe appropriateprocedures to carry out subsections (j), (k), and (l).
 
 (2) The regulations shall provide procedures for the Director of the Office of Personnel Management to inspect and audit disbursements from the Fund under this chapter.
 
@@ -102,7 +102,7 @@ Subsec. (n)(2)(D). Pub. L. 102–378, §2(71)(B), substituted “8347(q)” for 
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Effective Date of 1996 Amendment
 
@@ -126,5 +126,5 @@ For transfer of authorities, functions, personnel, and assets of the Coast Guard
 
 #### Treatment of Individuals Electing To Remain Subject to Their Former Retirement System
 
-For provisions relating to the deductions and contributions required with respect to individuals electing under section 8347(q) or 8461(n) of this title to remain covered under subchapter III of chapter 83 of this title, chapter 84 of this title, or a retirement system for employees described in section 2105(c) of this title, see section 7202(n) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+For provisions relating to the deductions and contributions required with respect to individuals electingunder section 8347(q) or 8461(n) of this title to remain covered under subchapter III of chapter 83 of this title, chapter 84 of this title, or a retirement system for employees described in section 2105(c) of this title, see section 7202(n) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 

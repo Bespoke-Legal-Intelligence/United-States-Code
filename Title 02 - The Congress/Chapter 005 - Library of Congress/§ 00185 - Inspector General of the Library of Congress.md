@@ -72,6 +72,10 @@ This section shall be effective on August 2, 2005.
 
 The Inspector General Act of 1978, referred to in subsec. (d)(1), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Codification
+
+Section is from the Legislative Branch Appropriations Act, 2006.
+
 #### Amendments
 
 <b>2010</b>—Subsec. (b)(1). Pub. L. 111–145 repealed Pub. L. 110–161, §1004(d)(3). See 2007 Amendment note below.
@@ -82,7 +86,7 @@ The Inspector General Act of 1978, referred to in subsec. (d)(1), is Pub. L. 95�
 
 #### Effective Date of 2010 Amendment
 
-Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if included in the enactment of Pub. L. 110–161 and provisions amended by section 1004 of Pub. L. 110–161 to be restored as if such section had not been enacted, and repeal to have no effect on the enactment or implementation of any provision of Pub. L. 110–178, see section 6(d) of Pub. L. 111–145, set out as a note under section 1901 of this title.
+Repeal of section 1004 of Pub. L. 110–161 by Pub. L. 111–145 effective as if included in the enactment of Pub. L. 110–161 and provisions amended by section 1004 of Pub. L. 110–161 to be restored as if such section had not been enacted, and repeal to have no effect on the enactment or implementation of any provision of Pub. L.110–178, see section 6(d) of Pub. L. 111–145, set out as a note under section 1901 of this title.
 
 #### Effective Date of 2008 Amendment
 

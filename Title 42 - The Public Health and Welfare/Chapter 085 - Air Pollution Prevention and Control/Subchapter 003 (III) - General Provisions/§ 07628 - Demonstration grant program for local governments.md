@@ -42,7 +42,7 @@
 
 #### (c) Compliance with State and local law
 
-Nothing in this section or any program carried out using a grant provided under this section supersedes or otherwise affects any State or locallaw, to the extent that the State or local law contains a requirement that is more stringent than the relevant requirement of this section.
+Nothing in this section or any program carried out using a grant provided under this section supersedes or otherwise affects any State or local law, to the extent that the State or local law contains a requirement that is more stringent than the relevant requirement of this section.
 
 #### (d) Authorization of appropriations
 
@@ -64,7 +64,7 @@ The program under this section shall terminate on September 30, 2012.
 
 #### (g) Definitions
 
-In this section, the terms “cost-effective technologies and practices” and “operating <sup>1</sup> cost savings” shall have the meanings defined in section 17061 of this title.
+In this section, the terms "cost-effective technologies and practices" and "operating <sup>1</sup> cost savings" shall have the meanings defined in section 17061 of this title.
 
 (July 14, 1955, ch. 360, title III, §329, as added Pub. L. 110–140, title IV, §493, Dec. 19, 2007, 121 Stat. 1652.)
 
@@ -72,5 +72,5 @@ In this section, the terms “cost-effective technologies and practices” and �
 
 Section effective on the date that is 1 day after Dec. 19, 2007, see section 1601 of Pub. L. 110–140, set out as a note under section 1824 of Title 2, The Congress.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “operational”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "operational".</i>
 

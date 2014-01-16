@@ -16,7 +16,7 @@
 
 &emsp;(7) a broader base for support of basic research;
 
-&emsp;(8) ways of strengthening the Nation's academic institutions’ capabilities for research and education in science and technology;
+&emsp;(8) ways of strengthening the Nation's academic institutions' capabilities for research and education in science and technology;
 
 &emsp;(9) ways and means of effectively integrating scientific and technological factors into our national and international policies;
 

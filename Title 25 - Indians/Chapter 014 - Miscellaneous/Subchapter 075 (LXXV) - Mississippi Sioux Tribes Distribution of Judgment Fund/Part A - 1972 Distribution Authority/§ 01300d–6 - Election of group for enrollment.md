@@ -1,6 +1,6 @@
 ### §1300d–6. Election of group for enrollment
 
-Any person qualifying for enrollment with more than one group shall elect the group with which he shall be enrolled for the purpose of this part.
+Any person qualifying for enrollment with more than one group shall elect the group withwhich he shall be enrolled for the purpose of this part.
 
 (Pub. L. 92–555, title III, §302, Oct. 25, 1972, 86 Stat. 1170.)
 

@@ -6,7 +6,7 @@ Each local educational agency desiring a grant under section 7345a of this title
 
 &emsp;(1) not later than December 1 of each year, conduct a census to determine the number of students in average daily attendance in kindergarten through grade 12 at the schools served by the agency; and
 
-&emsp;(2) not later than March 1 of each year, submit the number described in paragraph (1) tothe Secretary (and to the State educational agency, in the case of a local educational agency seeking a grant under subpart (2)).<sup>1</sup>
+&emsp;(2) not later than March 1 of each year, submit the number described in paragraph (1) to the Secretary (and to the State educational agency, in the case of a local educational agency seeking a grant under subpart (2)).<sup>1</sup>
 
 #### (b) Penalty
 
@@ -14,5 +14,5 @@ If the Secretary determines that a local educational agency or specially qualifi
 
 (Pub. L. 89–10, title VI, §6231, as added Pub. L. 107–110, title VI, §601, Jan. 8, 2002, 115 Stat. 1897.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subpart 2).”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subpart 2)."</i>
 

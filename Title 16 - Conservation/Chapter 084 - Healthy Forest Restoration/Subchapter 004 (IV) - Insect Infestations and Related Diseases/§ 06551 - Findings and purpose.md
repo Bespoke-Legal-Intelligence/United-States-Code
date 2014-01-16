@@ -46,7 +46,7 @@ Congress finds that—
 
 &emsp;(7) according to the Forest Service, recent outbreaks of the red oak borer in Arkansas and Missouri have been unprecedented, with more than 1,000,000 acres infested at population levels never seen before;
 
-&emsp;(8) much of the damage from the red oak borer has taken place in national forests, and the Federal response has been inadequate to protect forest ecosystems and other ecological and economic resources;
+&emsp;(8) much of the damage from the red oak borer has taken place in national forests, andthe Federal response has been inadequate to protect forest ecosystems and other ecological and economic resources;
 
 &emsp;(9)(A) previous silvicultural assessments, while useful and informative, have been limited in scale and scope of application; and
 

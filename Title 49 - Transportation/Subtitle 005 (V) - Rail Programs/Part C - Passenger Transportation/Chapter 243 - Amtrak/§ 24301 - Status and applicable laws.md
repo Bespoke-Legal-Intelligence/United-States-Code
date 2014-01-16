@@ -50,13 +50,13 @@ Nonapplication of Laws on Joint Use or Operation of Facilities and Equipment.—
 
 Exemption From Additional Taxes.—(1) In this subsection—
 
-&emsp;(A) “additional tax” means a tax or fee—
+&emsp;(A) "additional tax" means a tax or fee—
 
 &emsp;&emsp;(i) on the acquisition, improvement, ownership, or operation of personal property by Amtrak; and
 
 &emsp;&emsp;(ii) on real property, except a tax or fee on the acquisition of real property or on the value of real property not attributable to improvements made, or the operation of those improvements, by Amtrak.
 
-&emsp;(B) “Amtrak” includes a rail carrier subsidiary of Amtrak and a lessor or lessee of Amtrak or one of its rail carrier subsidiaries.
+&emsp;(B) "Amtrak" includes a rail carrier subsidiary of Amtrak and a lessor or lessee of Amtrak or one of its rail carrier subsidiaries.
 
 (2) Amtrak is not required to pay an additional tax because of an expenditure to acquire or improve real property, equipment, a facility, or right-of-way material or structures used in providing rail passenger transportation, even if that use is indirect.
 
@@ -80,7 +80,7 @@ Waste Disposal.—(1) An intercity rail passenger car manufactured after October
 
 (n)
 
-Rail Transportation Treated Equally.—When authorizing transportation in the continental United States for an officer, employee, or member of the uniformed services of a department, agency, or instrumentality of the Government, the head of that department, agency, or instrumentality shall consider rail transportation (including transportation by extra-fare trains) the same as transportation by another authorized mode. The Administrator of General Services shall include Amtrak in the contract air program of the Administrator in markets in which transportation provided by Amtrak is competitive with other carriers on fares and total trip times.
+Rail Transportation Treated Equally.—When authorizing transportation in the continental United States for an officer, employee,or member of the uniformed services of a department, agency, or instrumentality of the Government, the head of that department, agency, or instrumentality shall consider rail transportation (including transportation by extra-fare trains) the same as transportation by another authorized mode. The Administrator of General Services shall include Amtrak in the contract air program of the Administrator in markets in which transportation provided by Amtrak is competitive with other carriers on fares and total trip times.
 
 (o)
 
@@ -122,7 +122,7 @@ Oct. 30, 1970, Pub. L. 91–518, §301 (3d sentence), 84 Stat. 1330; June 22, 19
 
 &nbsp;
 
-45:546(a) (words after “The Corporation” and before “and shall be subject to”).
+45:546(a) (words after "The Corporation" and before "and shall be subject to").
 
 Oct. 30, 1970, Pub. L. 91–518, §306(a), 84 Stat. 1332; June 22, 1972, Pub. L. 92–316, §3(a), 86 Stat. 228; Sept. 29, 1979, Pub. L. 96–73, §112(a), 93 Stat. 541; Apr. 7, 1986, Pub. L. 99–272, §4015, 100 Stat. 110.
 
@@ -134,7 +134,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §306(m); added Sept. 29, 1979, 
 
 24301(c)(1), (2)(A)
 
-45:546(a) (less words after “The Corporation” and before “and shall be subject to”).
+45:546(a) (less words after "The Corporation" and before "and shall be subject to").
 
 24301(c) (2)(B)
 
@@ -184,9 +184,9 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §306(<i>l</i>); added Sept. 29,
 
 24301(i)
 
-45:797j (words “, the National Railroad Passenger Corporation,”).
+45:797j (words ", the National Railroad Passenger Corporation,").
 
-Jan. 2, 1974, Pub. L. 93–236, 87 Stat. 985, §711 (words “, the National Railroad Passenger Corporation,”); added Aug. 13, 1981, Pub. L. 97–35, §1143(a), 95 Stat. 667.
+Jan. 2, 1974, Pub. L. 93–236, 87 Stat. 985, §711 (words ", the National Railroad Passenger Corporation,"); added Aug. 13, 1981, Pub. L. 97–35, §1143(a), 95 Stat. 667.
 
 24301(j)
 
@@ -202,7 +202,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §306(n); added Aug. 13, 1981, P
 
 45:546b.
 
-Sept. 10, 1982, Pub. L. 97–257, §107 (par. under heading “Grants to the National Railroad Passenger Corporation”), 96 Stat. 852.
+Sept. 10, 1982, Pub. L. 97–257, §107 (par. under heading "Grants to the National Railroad Passenger Corporation"), 96 Stat. 852.
 
 24301(m)
 
@@ -216,35 +216,35 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §306(i); added Feb. 5, 1976, Pu
 
 Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §306(f); added June 22, 1972, Pub. L. 92–316, §3(b), 86 Stat. 228; Apr. 7, 1986, Pub. L. 99–272, §4004, 100 Stat. 107.
 
-In subsection (a), before clause (1), the text of 45:541 (1st sentence) is omitted as executed. The text of 45:541 (last sentence) is omitted as surplus. In clause (1), the words “rail carrier” are substituted for “common carrier by railroad” because of 49:10102. In clause (3), the words “department, agency, or instrumentality” are substituted for “agency, instrumentality, authority, or entity, or establishment” for consistency in the revised title and with other titles of the United States Code. The word “instrumentality” includes entities, authorities, establishments, and any other organizational unit of the United States Government that is not a department or agency.
+In subsection (a), before clause (1), the text of 45:541 (1st sentence) is omitted as executed. The text of 45:541 (last sentence) is omitted as surplus. In clause (1), the words "rail carrier" are substituted for "common carrier by railroad" because of 49:10102. In clause (3), the words "department, agency, or instrumentality" are substituted for "agency, instrumentality, authority, or entity, or establishment" for consistency in the revised title and with other titles of the United States Code. The word "instrumentality" includes entities, authorities, establishments, and any other organizational unit of the United States Government that is not a department or agency.
 
-In subsection (b), the words “In connection with the performance of such activities” and “to which the Corporation is a party” are omitted as surplus.
+In subsection (b), the words "In connection with the performance of such activities" and "to which the Corporation is a party" are omitted as surplus.
 
-In subsection (c)(1)(B), the words “whether by trackage rights or otherwise” are omitted as surplus.
+In subsection (c)(1)(B), the words "whether by trackage rights or otherwise" are omitted as surplus.
 
-In subsection (c)(2)(B), the words “adversely affected” are substituted for “aggrieved” for consistency in the revised title and with other titles of the Code.
+In subsection (c)(2)(B), the words "adversely affected" are substituted for "aggrieved" for consistency in the revised title and with other titles of the Code.
 
-In subsection (d), the word “same” is omitted as surplus.
+In subsection (d), the word "same" is omitted as surplus.
 
 In subsection (e), the text of 45:545(a) (last sentence) and (e)(8) is omitted as surplus.
 
-In subsection (f), the words “the place” are omitted as surplus.
+In subsection (f), the words "the place" are omitted as surplus.
 
-In subsection (h), the word “applicable” is omitted as surplus.
+In subsection (h), the word "applicable" is omitted as surplus.
 
-In subsection (j), the words “existing”, “including the antitrust laws of the United States”, and “contracts . . . leases” are omitted as surplus.
+In subsection (j), the words "existing", "including the antitrust laws of the United States", and "contracts . . . leases" are omitted as surplus.
 
-In subsection (k)(2), the words “of funds” are omitted as surplus.
+In subsection (k)(2), the words "of funds" are omitted as surplus.
 
-In subsection (l)(1), the words “Notwithstanding any other provision of law”, “other”, “including such taxes and fees levied after September 30, 1982”, and “notwithstanding any provision of law” are omitted as surplus. The text of 45:546b (2d sentence) is omitted as executed.
+In subsection (l)(1), the words "Notwithstanding any other provision of law", "other", "including such taxes and fees levied after September 30, 1982", and "notwithstanding any provision of law" are omitted as surplus. The text of 45:546b (2d sentence) is omitted as executed.
 
-In subsection (l)(2), the words “Notwithstanding the provision of section 1341 of title 28” are omitted as surplus.
+In subsection (l)(2), the words "Notwithstanding the provision of section 1341 of title 28" are omitted as surplus.
 
-In subsection (m)(1), before clause (A), the word “New” is omitted as surplus.
+In subsection (m)(1), before clause (A), the word "New" is omitted as surplus.
 
-In subsection (m)(2), the word “vehicles” is substituted for “conveyances” for clarity.
+In subsection (m)(2), the word "vehicles" is substituted for "conveyances" for clarity.
 
-In subsection (n), the words “uniformed services” are substituted for “Armed Forces or commissioned services” for consistency in the revised title and with other titles of the Code.
+In subsection (n), the words "uniformed services" are substituted for "Armed Forces or commissioned services" for consistency in the revised title and with other titles of the Code.
 
 #### References in Text
 
@@ -264,47 +264,47 @@ The date of the enactment of this subsection, referred to in subsec. (o), is the
 
 <b>2007</b>—Subsec. (o). Pub. L. 110–53 added subsec. (o).
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–199 inserted “11123,” after “except for sections”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–199 inserted "11123," after "except for sections".
 
-<b>1997</b>—Subsec. (a)(1). Pub. L. 105–134, §401(1), substituted “railroad carrier under section 20102(2) and chapters 261 and 281” for “rail carrier under section 10102”.
+<b>1997</b>—Subsec. (a)(1). Pub. L. 105–134, §401(1), substituted "railroad carrier under section 20102(2) and chapters 261 and 281" for "rail carrier under section 10102".
 
-Subsec. (a)(3). Pub. L. 105–134, §415(d)(1), inserted “, and shall not be subject to title 31” after “United States Government”.
+Subsec. (a)(3). Pub. L. 105–134, §415(d)(1), inserted ", and shall not be subject to title 31" after "United States Government".
 
 Subsec. (c). Pub. L. 105–134, §401(2), reenacted heading without change and amended text generally. Prior to amendment, text read as follows:
 
-“(1) Part A of subtitle IV of this title applies to Amtrak, except for provisions related to the—
+"(1) Part A of subtitle IV of this title applies to Amtrak, except for provisions related to the—
 
-&emsp;“(A) regulation of rates;
+&emsp;"(A) regulation of rates;
 
-&emsp;“(B) abandonment or extension of rail lines used only for passenger transportation and the abandonment or extension of operations over those lines;
+&emsp;"(B) abandonment or extension of rail lines used only for passenger transportation and the abandonment or extension of operations over those lines;
 
-&emsp;“(C) regulation of routes and service;
+&emsp;"(C) regulation of routes and service;
 
-&emsp;“(D) discontinuance or change of rail passenger transportation operations; and
+&emsp;"(D) discontinuance or change of rail passenger transportation operations; and
 
-&emsp;“(E) issuance of securities or the assumption of an obligation or liability related to the securities of others.
+&emsp;"(E) issuance of securities or the assumption of an obligation or liability related to the securities of others.
 
-“(2) Notwithstanding this subsection—
+"(2) Notwithstanding this subsection—
 
-&emsp;“(A) section 10721 of this title applies to Amtrak; and
+&emsp;"(A) section 10721 of this title applies to Amtrak; and
 
-&emsp;“(B) on application of an adversely affected motor carrier, the Surface Transportation Board under part A of subtitle IV of this title may hear a complaint about an unfair or predatory rate or marketing practice of Amtrak for a route or service operating at a loss.”
+&emsp;"(B) on application of an adversely affected motor carrier, the Surface Transportation Board under part A of subtitle IV of this title may hear a complaint about an unfair or predatory rate or marketing practice of Amtrak for a route or service operating at a loss."
 
-Subsec. (e). Pub. L. 105–134, §110(a), inserted at end “Section 552 of title 5, United States Code, applies to Amtrak for any fiscal year in which Amtrak receives a Federal subsidy.”
+Subsec. (e). Pub. L. 105–134, §110(a), inserted at end "Section 552 of title 5, United States Code, applies to Amtrak for any fiscal year in which Amtrak receives a Federal subsidy."
 
-Subsec. (f). Pub. L. 105–134, §106(b), amended heading and text of subsec. (f) generally. Prior to amendment,text read as follows: “The laws of the District of Columbia govern leases and contracts of Amtrak, regardless of where they are executed.”
+Subsec. (f). Pub. L. 105–134, §106(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: "The laws of the District of Columbia govern leases and contracts of Amtrak, regardless of where they are executed."
 
-Subsec. (l)(1). Pub. L. 105–134, §208, inserted heading and substituted in text “Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or other customer of Amtrak or such subsidiary, are” for “Amtrak or a rail carrier subsidiary of Amtrak is”, “tax, fee, head charge, or other charge, imposed or levied by a State, political subdivision, or local taxing authority on Amtrak, a rail carrier subsidiary of Amtrak, or on persons traveling in intercity rail passenger transportation or on mail or express transportation provided by Amtrak or such a subsidiary, or on the carriage of such persons, mail, or express, or on the sale of any such transportation, or on the gross receipts derived therefrom” for “tax or fee imposed by a State, a political subdivision of a State, or a local taxing authority and levied on it”, and “In the case of a tax or fee that Amtrak was required to pay as of September 10, 1982, Amtrak is not exempt from such tax or fee if it was assessed before April 1, 1997.” for “However, Amtrak is not exempt under this subsection from a tax or fee that it was required to pay as of September 10, 1982.”
+Subsec. (l)(1). Pub. L. 105–134, §208, inserted heading and substituted in text "Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or other customer of Amtrak or such subsidiary, are" for "Amtrak or a rail carrier subsidiary of Amtrak is", "tax, fee, head charge, or other charge, imposed or levied by a State, political subdivision, or local taxing authority on Amtrak, a rail carrier subsidiary of Amtrak, or on persons traveling in intercity rail passenger transportation or on mail or express transportation provided by Amtrak or such a subsidiary, or on the carriage of such persons, mail, or express, or on the sale of any such transportation, or on the gross receipts derived therefrom" for "tax or fee imposed by a State, a political subdivision of a State, or a local taxing authority and levied on it", and "In the case of a tax or fee that Amtrak was required to pay as of September 10, 1982, Amtrak is not exempt from such tax or fee if it was assessed before April 1, 1997." for "However, Amtrak is not exempt under this subsection from a tax or fee that it was required to pay as of September 10, 1982."
 
-Subsec. (m)(1)(A). Pub. L. 105–134, §402, substituted “2001” for “1996”.
+Subsec. (m)(1)(A). Pub. L. 105–134, §402, substituted "2001" for "1996".
 
-<b>1995</b>—Subsec. (c)(1). Pub. L. 104–88, §308(g)(1)(A), substituted “Part A of subtitle IV” for “Subtitle IV”.
+<b>1995</b>—Subsec. (c)(1). Pub. L. 104–88, §308(g)(1)(A), substituted "Part A of subtitle IV" for "Subtitle IV".
 
-Subsec. (c)(2)(A). Pub. L. 104–88, §308(g)(1)(B), substituted “section 10721 of this title applies” for “sections 10721–10724 of this title apply”.
+Subsec. (c)(2)(A). Pub. L. 104–88, §308(g)(1)(B), substituted "section 10721 of this title applies" for "sections 10721–10724 of this title apply".
 
-Subsec. (c)(2)(B). Pub. L. 104–88, §308(g)(1)(C), substituted “Transportation Board under part A of subtitle IV” for “Interstate Commerce Commission under any provision of subtitle IV of this title applicable to a carrier subject to subchapter I of chapter 105”.
+Subsec. (c)(2)(B). Pub. L. 104–88, §308(g)(1)(C), substituted "Transportation Board under part A of subtitle IV" for "Interstate Commerce Commission under any provision of subtitle IV of this title applicable to a carrier subject to subchapter I of chapter 105".
 
-Subsec. (d). Pub. L. 104–88, §308(g)(2), substituted “rail carrier subject to part A of subtitle IV” for “common carrier subject to subchapter I of chapter 105”.
+Subsec. (d). Pub. L. 104–88, §308(g)(2), substituted "rail carrier subject to part A of subtitle IV" for "common carrier subject to subchapter I of chapter 105".
 
 #### Effective Date of 1995 Amendment
 
@@ -314,21 +314,21 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 Pub. L. 101–610, title VI, §601(d), (e), Nov. 16, 1990, 104 Stat. 3186, provided that:
 
-“(d) Not later than 1 year after the date of enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation, after appropriate notice and comment, and in consultation with the National Railroad Passenger Corporation, the Administrator of the Environmental Protection Agency, the Surgeon General, and State and local officials shall promulgate such regulations as may be necessary to mitigate the impact of the discharge of human waste from railroad passenger cars on areas that may be considered environmentally sensitive.
+"(d) Not later than 1 year after the date of enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation, after appropriate notice and comment, and in consultation with the National Railroad Passenger Corporation, the Administrator of the Environmental Protection Agency, the Surgeon General, and State and local officials shall promulgate such regulations as may be necessary to mitigate the impact of the discharge of human waste from railroad passenger cars on areas that may be considered environmentally sensitive.
 
-“(e) Not later than 1 year after the date of enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation shall promulgate regulations directing the National Railroad Passenger Corporation to, where appropriate, publish printed information, and make public address announcements, explaining its existing disposal technology and the retrofit and new equipment program, and encouraging passengers using existing equipment not to dispose of wastes in stations, railroad yards, or while the train is moving through environmentally sensitive areas.”
+"(e) Not later than 1 year after the date of enactment of this Act \[Nov. 16, 1990\], the Secretary of Transportation shall promulgate regulations directing the National Railroad Passenger Corporation to, where appropriate, publish printed information, and make public address announcements, explaining its existing disposal technology and the retrofit and new equipment program, and encouraging passengers using existing equipment not to dispose of wastes in stations, railroad yards, or while the train is moving through environmentally sensitive areas."
 
 #### Passenger Choice
 
-Pub. L. 105–134, title I, §109, Dec. 2, 1997, 111 Stat. 2574, provided that: “Federal employees are authorized to travel on Amtrak for official business where total travel cost from office to office is competitive on a total trip or time basis.”
+Pub. L. 105–134, title I, §109, Dec. 2, 1997, 111 Stat. 2574, provided that: "Federal employees are authorized to travel on Amtrak for official business where total travel cost from office to office is competitive on a total trip or time basis."
 
 #### Application of Federal Property and Administrative Services Act
 
-Pub. L. 105–134, title I, §110(b), Dec. 2, 1997, 111 Stat. 2574, provided that: “Section 303B(m) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 253b(m)) \[now 41 U.S.C. 4702\] applies to a proposal in the possession or control of Amtrak.”
+Pub. L. 105–134, title I, §110(b), Dec. 2, 1997, 111 Stat. 2574, provided that: "Section 303B(m) of the Federal Property and Administrative Services Act of 1949 (\[former\] 41 U.S.C. 253b(m)) \[now 41 U.S.C. 4702\] applies to a proposal in the possession or control of Amtrak."
 
 #### Exemption From Laws Relating to Abandoned or Unclaimed Property
 
-Pub. L. 104–205, title III, §347, Sept. 30, 1996, 110 Stat. 2976, provided that: “Hereinafter, the National Railroad Passenger Corporation (Amtrak) shall be exempted from any State or local law relating to the payment or delivery of abandoned or unclaimed personal property to any government authority, including any provision for the enforcement thereof, with respect to passenger rail tickets for which no refund has been or may be claimed, and such law shall not apply to funds held by Amtrak as a result of the purchase of tickets after April 30, 1972 for which no refund has been claimed.”
+Pub. L. 104–205, title III, §347, Sept. 30, 1996, 110 Stat. 2976, provided that: "Hereinafter, the National Railroad Passenger Corporation (Amtrak) shall be exempted from any State or local law relating to the payment or delivery of abandoned or unclaimed personal property to any government authority, including any provision for the enforcement thereof, with respect to passenger rail tickets for which no refund has been or may be claimed, and such law shall not apply to funds held by Amtrak as a result of the purchase of tickets after April 30, 1972 for which no refund has been claimed."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

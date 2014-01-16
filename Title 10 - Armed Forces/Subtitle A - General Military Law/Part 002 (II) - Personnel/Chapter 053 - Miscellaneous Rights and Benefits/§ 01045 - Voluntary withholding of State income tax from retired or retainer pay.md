@@ -1,6 +1,6 @@
 ### §1045. Voluntary withholding of State income tax from retired or retainer pay
 
-(a) The Secretary concerned shall enter into an agreement under this section with any State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Secretary concerned shall withhold State income tax from the monthly retiredor retainer pay of any member or former member entitled to such pay who voluntarily requests such withholding in writing. The amounts withheld during any calendar month shall be retained by the Secretary concerned and disbursed to the States during the following calendar month.
+(a) The Secretary concerned shall enter into an agreement under this section with any State within 120 days of a request for agreement from the proper State official. The agreement shall provide that the Secretary concerned shall withhold State income tax from the monthly retired or retainer pay of any member or former member entitled to such pay who voluntarily requests such withholding in writing. The amounts withheld during any calendar month shall be retained by the Secretary concerned and disbursed to the States during the following calendar month.
 
 (b) A member or former member may request that the State designated for withholding be changed and that the withholdings be remitted in accordance with such change. A member or former member also may revoke any request of such member or former member for withholding. Any request for a change in the State designated and any revocation is effective on the first day of the month after the month in which the request or revocation is processed by the Secretary concerned, but in no event later than on the first day of the second month beginning after the day on which the request or revocation is received by the Secretary concerned.
 
@@ -14,15 +14,15 @@
 
 (e) In this section:
 
-&emsp;(1) The term “State” means any State, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
+&emsp;(1) The term "State" means any State, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 
-&emsp;(2) The term “Secretary concerned” includes the Secretary of Health and Human Services with respect to the commissioned corps of the Public Health Service and the Secretary of Commerce with respect to the commissioned corps of the National Oceanic and Atmospheric Administration.
+&emsp;(2) The term "Secretary concerned" includes the Secretary of Health and Human Services with respect to the commissioned corps of the Public Health Service and the Secretary of Commerce with respect to the commissioned corps of the National Oceanic and Atmospheric Administration.
 
 (Added Pub. L. 98–525, title VI, §654(a), Oct. 19, 1984, 98 Stat. 2551; amended Pub. L. 100–26, §7(k)(2), Apr. 21, 1987, 101 Stat. 284; Pub. L. 109–163, div. A, title VI, §661, Jan. 6, 2006, 119 Stat. 3314.)
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163, in third sentence, substituted “any calendar month” for “any calendar quarter” and “during the following calendar month” for “during the month following that calendar quarter”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, in third sentence, substituted "any calendar month" for "any calendar quarter" and "during the following calendar month" for "during the month following that calendar quarter".
 
-<b>1987</b>—Subsec. (e)(1), (2). Pub. L. 100–26 inserted “The term” after each par. designation.
+<b>1987</b>—Subsec. (e)(1), (2). Pub. L. 100–26 inserted "The term" after each par. designation.
 

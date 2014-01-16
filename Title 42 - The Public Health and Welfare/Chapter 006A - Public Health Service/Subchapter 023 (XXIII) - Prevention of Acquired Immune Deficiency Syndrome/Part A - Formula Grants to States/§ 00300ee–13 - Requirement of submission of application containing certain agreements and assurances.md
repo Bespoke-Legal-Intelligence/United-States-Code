@@ -30,7 +30,7 @@ A prior section 2503 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-<b>1988</b>—Subsec. (a)(3). Pub. L. 100–690 struck out “and” after semicolon.
+<b>1988</b>—Subsec. (a)(3). Pub. L. 100–690 struck out "and" after semicolon.
 
 #### Effective Date of 1988 Amendment
 

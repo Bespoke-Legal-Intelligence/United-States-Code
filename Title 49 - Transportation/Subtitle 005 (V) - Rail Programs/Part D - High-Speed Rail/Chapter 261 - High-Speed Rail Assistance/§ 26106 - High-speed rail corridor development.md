@@ -10,27 +10,27 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;(1)
 
-Applicant.—The term “applicant” means a State, a group of States, an Interstate Compact, a public agency established by one or more States and having responsibility for providing high-speed rail service, or Amtrak.
+Applicant.—The term "applicant" means a State, a group of States, an Interstate Compact, a public agency established by one or more States and having responsibility for providing high-speed rail service, or Amtrak.
 
 &emsp;(2)
 
-Corridor.—The term “corridor” means a corridor designated by the Secretary pursuant to section 104(d)(2) <sup>1</sup> of title 23.
+Corridor.—The term "corridor" means a corridor designated by the Secretary pursuant to section 104(d)(2) <sup>1</sup> of title 23.
 
 &emsp;(3)
 
-Capital project.—The term “capital project” means a project or program in a State rail plan developed under chapter 227 of this title for acquiring, constructing, improving, or inspecting equipment, track, and track structures, or a facility of use in or for the primary benefit of high-speed rail service, expenses incidental to the acquisition or construction (including designing, engineering, location surveying, mapping, environmental studies, and acquiring rights-of-way), payments for the capital portions of rail trackage rights agreements, highway-rail grade crossing improvements related to high-speed rail service, mitigating environmental impacts, communication and signalization improvements, relocation assistance, acquiring replacement housing sites, and acquiring, constructing, relocating, and rehabilitating replacement housing.
+Capital project.—The term "capital project" means a project or program in a State rail plan developed under chapter 227 of this title for acquiring, constructing, improving, or inspecting equipment, track, and track structures, or a facility of use in or for the primary benefit of high-speed rail service, expenses incidental to the acquisition or construction (including designing, engineering, location surveying, mapping, environmental studies, and acquiring rights-of-way), payments for the capital portions of rail trackage rights agreements, highway-rail grade crossing improvements related to high-speed rail service, mitigating environmental impacts, communication and signalization improvements, relocation assistance, acquiring replacement housing sites, and acquiring, constructing, relocating, and rehabilitating replacement housing.
 
 &emsp;(4)
 
-High-speed rail.—The term “high-speed rail” means intercity passenger rail service that is reasonably expected to reach speeds of at least 110 miles per hour.
+High-speed rail.—The term "high-speed rail" means intercity passenger rail service that is reasonably expected to reach speeds of at least 110 miles per hour.
 
 &emsp;(5)
 
-Intercity passenger rail service.—The term “intercity passenger rail service” has the meaning given the term “intercity rail passenger transportation” in section 24102 of this title.
+Intercity passenger rail service.—The term "intercity passenger rail service" has the meaning given the term "intercity rail passenger transportation" in section 24102 of this title.
 
 &emsp;(6)
 
-State.—The term “State” means any of the 50 States or the District of Columbia.
+State.—The term "State" means any of the 50 States or the District of Columbia.
 
 (c)
 
@@ -168,7 +168,7 @@ Section 5302 of this title, referred to in subsec. (e)(2)(C)(i)(VII), was amende
 
 The date of enactment of the Passenger Rail Investment and Improvement Act of 2008, referred to in subsec. (e)(4), is the date of enactment of Pub. L. 110–432, which was approved Oct. 16, 2008.
 
-Section 22506 of this title, referred to in subsec. (e)(4), probably should be a reference to section 22706 of this title which requires the Secretary to prescribe procedures for submitting State rail plans for review. No section 22506 of this title has been enacted.
+Section 22506 of this title, referred to in subsec. (e)(4), probably should be a reference to section 22706 of thistitle which requires the Secretary to prescribe procedures for submitting State rail plans for review. No section 22506 of this title has been enacted.
 
 The date of enactment of this section, referred to in subsec. (g), is the date of enactment of Pub. L. 110–432, which was approved Oct. 16, 2008.
 
@@ -176,221 +176,221 @@ The date of enactment of this section, referred to in subsec. (g), is the date o
 
 Pub. L. 110–432, div. B, title V, §502, Oct. 16, 2008, 122 Stat. 4963, provided that:
 
-“(a)
+"(a)
 
 Solicitation of Proposals.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than 60 days after the date of enactment of this Act \[Oct. 16, 2008\], the Secretary \[of Transportation\] shall issue a request for proposals for projects for the financing, design, construction, operation, and maintenance of a high-speed intercity passenger rail system operating within a high-speed rail corridor, including—
 
-&emsp;&emsp;“(A) the Northeast Corridor;
+&emsp;&emsp;"(A) the Northeast Corridor;
 
-&emsp;&emsp;“(B) the California Corridor;
+&emsp;&emsp;"(B) the California Corridor;
 
-&emsp;&emsp;“(C) the Empire Corridor;
+&emsp;&emsp;"(C) the Empire Corridor;
 
-&emsp;&emsp;“(D) the Pacific Northwest Corridor;
+&emsp;&emsp;"(D) the Pacific Northwest Corridor;
 
-&emsp;&emsp;“(E) the South Central Corridor;
+&emsp;&emsp;"(E) the South Central Corridor;
 
-&emsp;&emsp;“(F) the Gulf Coast Corridor;
+&emsp;&emsp;"(F) the Gulf Coast Corridor;
 
-&emsp;&emsp;“(G) the Chicago Hub Network;
+&emsp;&emsp;"(G) the Chicago Hub Network;
 
-&emsp;&emsp;“(H) the Florida Corridor;
+&emsp;&emsp;"(H) the Florida Corridor;
 
-&emsp;&emsp;“(I) the Keystone Corridor;
+&emsp;&emsp;"(I) the Keystone Corridor;
 
-&emsp;&emsp;“(J) the Northern New England Corridor; and
+&emsp;&emsp;"(J) the Northern New England Corridor; and
 
-&emsp;&emsp;“(K) the Southeast Corridor.
+&emsp;&emsp;"(K) the Southeast Corridor.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Submission.—Proposals shall be submitted to the Secretary not later than 270 days after the publication of such request for proposals under paragraph (1).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Performance standard.—Proposals submitted under paragraph (2) must meet any standards established by the Secretary. For corridors with existing intercity passenger rail service, proposals shall also be designed to achieve a reduction of existing minimum intercity rail service trip times between the main corridor city pairs by a minimum of 25 percent. In the case of a proposal submitted with respect to paragraph (1)(A), the proposal must be designed to achieve a 2-hour or less express service between Washington, District of Columbia, and New York City, New York.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Contents.—A proposal submitted under this subsection shall include—
 
-&emsp;&emsp;“(A) the names and qualifications of the persons submitting the proposal and the entities proposed to finance, design, construct, operate, and maintain the railroad, railroad equipment, and related facilities, stations, and infrastructure;
+&emsp;&emsp;"(A) the names and qualifications of the persons submitting the proposal and the entities proposed to finance, design, construct, operate, and maintain the railroad, railroad equipment, and related facilities, stations, and infrastructure;
 
-&emsp;&emsp;“(B) a detailed description of the proposed rail service, including possible routes, required infrastructure investments and improvements, equipment needs and type, train frequencies, peak and average operating speeds, and trip times;
+&emsp;&emsp;"(B) a detailed description of the proposed rail service, including possible routes, required infrastructure investments and improvements, equipment needs and type, train frequencies, peak and average operating speeds, and trip times;
 
-&emsp;&emsp;“(C) a description of how the project would comply with Federal rail safety and security laws, orders, and regulations governing high-speed rail operations;
+&emsp;&emsp;"(C) a description of how the project would comply with Federal rail safety and security laws, orders, and regulations governing high-speed rail operations;
 
-&emsp;&emsp;“(D) the locations of proposed stations, which maximize the usage of existing infrastructure to the extent possible, and the populations such stations are intended to serve;
+&emsp;&emsp;"(D) the locations of proposed stations, which maximize the usage of existing infrastructure to the extent possible, and the populations such stations are intended to serve;
 
-&emsp;&emsp;“(E) the type of equipment to be used, including any technologies, to achieve trip time goals;
+&emsp;&emsp;"(E) the type of equipment to be used, including any technologies, to achieve trip time goals;
 
-&emsp;&emsp;“(F) a description of any proposed legislation needed to facilitate all aspects of the project;
+&emsp;&emsp;"(F) a description of any proposed legislation needed to facilitate all aspects of the project;
 
-&emsp;&emsp;“(G) a financing plan identifying—
+&emsp;&emsp;"(G) a financing plan identifying—
 
-&emsp;&emsp;&emsp;“(i) projected revenue, and sources thereof;
+&emsp;&emsp;&emsp;"(i) projected revenue, and sources thereof;
 
-&emsp;&emsp;&emsp;“(ii) the amount of any requested public contribution toward the project, and proposed sources;
+&emsp;&emsp;&emsp;"(ii) the amount of any requested public contribution toward the project, and proposed sources;
 
-&emsp;&emsp;&emsp;“(iii) projected annual ridership projections for the first 10 years of operations;
+&emsp;&emsp;&emsp;"(iii) projected annual ridership projections for the first 10 years of operations;
 
-&emsp;&emsp;&emsp;“(iv) annual operations and capital costs;
+&emsp;&emsp;&emsp;"(iv) annual operations and capital costs;
 
-&emsp;&emsp;&emsp;“(v) the projected levels of capital investments required both initially and in subsequent years to maintain a state-of-good-repair necessary to provide the initially proposed level of service or higher levels of service;
+&emsp;&emsp;&emsp;"(v) the projected levels of capital investments required both initially and in subsequent years to maintain a state-of-good-repair necessary to provide the initially proposed level of service or higher levels of service;
 
-&emsp;&emsp;&emsp;“(vi) projected levels of private investment and sources thereof, including the identity of any person or entity that has made or is expected to make a commitment to provide or secure funding and the amount of such commitment; and
+&emsp;&emsp;&emsp;"(vi) projected levels of private investment and sources thereof, including the identity of any person or entity that has made or is expected to make a commitment to provide or secure funding and the amount of such commitment; and
 
-&emsp;&emsp;&emsp;“(vii) projected funding for the full fair market compensation for any asset, property right or interest, or service acquired from, owned, or held by a private person or Federal entity that would be acquired, impaired, or diminished in value as a result of a project, except as otherwise agreed to by the private person or entity;
+&emsp;&emsp;&emsp;"(vii) projected funding for the full fair market compensation for any asset, property right or interest, or service acquired from, owned, or held by a private person or Federal entity that would be acquired, impaired, or diminished in value as a result of a project, except as otherwise agreed to by the private person or entity;
 
-&emsp;&emsp;“(H) a description of how the project would contribute to the development of a national high-speed rail system and an intermodal plan describing how the system will facilitate convenient travel connections with other transportation services;
+&emsp;&emsp;"(H) a description of how the project would contribute to the development of a national high-speed rail system and an intermodal plan describing how the system will facilitate convenient travel connections with other transportation services;
 
-&emsp;&emsp;“(I) a description of how the project will ensure compliance with Federal laws governing the rights and status of employees associated with the route and service, including those specified in section 24405 of title 49, United States Code;
+&emsp;&emsp;"(I) a description of how the project will ensure compliance with Federal laws governing the rights and status of employees associated with the route and service, including those specified in section 24405 of title 49, United States Code;
 
-&emsp;&emsp;“(J) a description of how the design, construction, implementation, and operation of the project will accommodate and allow for future growth of existing and projected intercity, commuter, and freight rail service;
+&emsp;&emsp;"(J) a description of how the design, construction, implementation, and operation of the project will accommodate and allow for future growth of existing and projected intercity, commuter, and freight rail service;
 
-&emsp;&emsp;“(K) a description of how the project would comply with Federal and State environmental laws and regulations, of what the \[sic\] environmental impacts would result from the project, and how any adverse impacts would be mitigated; and
+&emsp;&emsp;"(K) a description of how the project would comply with Federal and State environmental laws and regulations, of what the \[sic\] environmental impacts would result from the project, and how any adverse impacts would be mitigated; and
 
-&emsp;&emsp;“(L) a description of the project's impacts on highway and aviation congestion, energy consumption, land use, and economic development in the service area.
+&emsp;&emsp;"(L) a description of the project's impacts on highway and aviation congestion, energy consumption, land use, and economic development in the service area.
 
-“(b)
+"(b)
 
 Determination and Establishment of Commissions.—Not later than 60 days after receipt of the proposals under subsection (a), the Secretary shall—
 
-&emsp;“(1) make a determination as to whether any such proposals—
+&emsp;"(1) make a determination as to whether any such proposals—
 
-&emsp;&emsp;“(A) contain the information required under subsection (a)(3) and (4);
+&emsp;&emsp;"(A) contain the information required under subsection (a)(3) and (4);
 
-&emsp;&emsp;“(B) are sufficiently credible to warrant further consideration;
+&emsp;&emsp;"(B) are sufficiently credible to warrant further consideration;
 
-&emsp;&emsp;“(C) are likely to result in a positive impact on the Nation's transportation system; and
+&emsp;&emsp;"(C) are likely to result in a positive impact on the Nation's transportation system; and
 
-&emsp;&emsp;“(D) are cost-effective and in the public interest; and
+&emsp;&emsp;"(D) are cost-effective and in the public interest; and
 
-&emsp;“(2) establish a commission under subsection (c) for each corridor with one or more proposals that the Secretary determines satisfies the requirements of paragraph (1), and forward to each commission such proposals for review and consideration.
+&emsp;"(2) establish a commission under subsection (c) for each corridor with one or more proposals that the Secretary determines satisfies the requirements of paragraph (1), and forward to each commission such proposals for review and consideration.
 
-“(c)
+"(c)
 
 Commissions.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Members.—Each commission referred to in subsection (b)(2) shall include—
 
-&emsp;&emsp;“(A) the governors of the affected States, or their respective designees;
+&emsp;&emsp;"(A) the governors of the affected States, or their respective designees;
 
-&emsp;&emsp;“(B) mayors of appropriate municipalities along the proposed corridor, or their respective designees;
+&emsp;&emsp;"(B) mayors of appropriate municipalities along the proposed corridor, or their respective designees;
 
-&emsp;&emsp;“(C) a representative from each freight railroad carrier using the relevant corridor, if applicable;
+&emsp;&emsp;"(C) a representative from each freight railroad carrier using the relevant corridor, if applicable;
 
-&emsp;&emsp;“(D) a representative from each transit authority using the relevant corridor, if applicable;
+&emsp;&emsp;"(D) a representative from each transit authority using the relevant corridor, if applicable;
 
-&emsp;&emsp;“(E) representatives of nonprofit employee labor organizations representing affected railroad employees; and
+&emsp;&emsp;"(E) representatives of nonprofit employee labor organizations representing affected railroad employees; and
 
-&emsp;&emsp;“(D) \[sic\] the President of Amtrak or his or her designee.
+&emsp;&emsp;"(D) \[sic\] the President of Amtrak or his or her designee.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Appointment and selection.—The Secretary shall appoint the members under paragraph (1). In selecting each commission's members to fulfill the requirements under paragraph (1)(B) and (E), the Secretary shall consult with the Chairmen and Ranking Members of the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Chairperson and vice-chairperson selection.—The Chairperson and Vice-Chairperson shall be elected from among members of each commission.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Quorum and vacancy.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Quorum.—A majority of the members of each commission shall constitute a quorum.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Vacancy.—Any vacancy in each commission shall not affect its powers and shall be filled in the same manner in which the original appointment was made.
 
-&emsp;“(5)
+&emsp;"(5)
 
 Application of law.—Except where otherwise provided by this section, the Federal Advisory Committee Act (P.L. 92–463) \[5 U.S.C. App.\] shall apply to each commission created under this section.
 
-“(d)
+"(d)
 
 Commission Consideration.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Each commission established under subsection (b)(2) shall be responsible for reviewing the proposal or proposals forwarded to it under that subsection and not later than 90 days after the establishment of the commission, shall transmit to the Secretary a report which includes—
 
-&emsp;&emsp;“(A) a summary of each proposal received;
+&emsp;&emsp;"(A) a summary of each proposal received;
 
-&emsp;&emsp;“(B) services to be provided under each proposal, including projected ridership, revenues, and costs;
+&emsp;&emsp;"(B) services to be provided under each proposal, including projected ridership, revenues, and costs;
 
-&emsp;&emsp;“(C) proposed public and private contributions for each proposal;
+&emsp;&emsp;"(C) proposed public and private contributions for each proposal;
 
-&emsp;&emsp;“(D) the advantages offered by the proposal over existing intercity passenger rail services;
+&emsp;&emsp;"(D) the advantages offered by the proposal over existing intercity passenger rail services;
 
-&emsp;&emsp;“(E) public operating subsidies or assets needed for the proposed project;
+&emsp;&emsp;"(E) public operating subsidies or assets needed for the proposed project;
 
-&emsp;&emsp;“(F) possible risks to the public associated with the proposal, including risks associated with project financing, implementation, completion, safety, and security;
+&emsp;&emsp;"(F) possible risks to the public associated with the proposal, including risks associated with project financing, implementation, completion, safety, and security;
 
-&emsp;&emsp;“(G) a ranked list of the proposals recommended for further consideration under subsection (e) in accordance with each proposal's projected positive impact on the Nation's transportation system;
+&emsp;&emsp;"(G) a ranked list of the proposals recommended for further consideration under subsection (e) in accordance with each proposal's projected positive impact on the Nation's transportation system;
 
-&emsp;&emsp;“(H) an identification of any proposed Federal legislation that would facilitate implementation of the projects and Federal legislation that would be required to implement the projects; and
+&emsp;&emsp;"(H) an identification of any proposed Federal legislation that would facilitate implementation of the projects and Federal legislation that would be required to implement the projects; and
 
-&emsp;&emsp;“(I) any other recommendations by the commission concerning the proposed projects.
+&emsp;&emsp;"(I) any other recommendations by the commission concerning the proposed projects.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Verbal presentation.—Proposers shall be given an opportunity to make a verbal presentation to the commission to explain their proposals.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Authorization of appropriations.—There are authorized to be appropriated to the Secretary for the use of each commission established under subsection (b)(2) such sums as are necessary to carry out this section.
 
-“(e)
+"(e)
 
 Selection by Secretary.—
 
-&emsp;“(1) Not later than 60 days after receiving the recommended proposals of the commissions established under subsection (b)(2), the Secretary shall—
+&emsp;"(1) Not later than 60 days after receiving the recommended proposals of the commissions established under subsection (b)(2), the Secretary shall—
 
-&emsp;&emsp;“(A) review such proposals and select any proposal which provides substantial benefits to the public and the national transportation system, is cost-effective, offers significant advantages over existing services, and meets other relevant factors determined appropriate by the Secretary; and
+&emsp;&emsp;"(A) review such proposals and select any proposal which provides substantial benefits to the public and the national transportation system, is cost-effective, offers significant advantages over existing services, and meets other relevant factors determined appropriate by the Secretary; and
 
-&emsp;&emsp;“(B) issue a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate containing any proposal with respect to subsection (a)(1)(A) that is selected by the Secretary under subparagraph (A) of this paragraph, all the information regarding the proposal provided to the Secretary under subsection (d), and any other relevant information deemed appropriate.
+&emsp;&emsp;"(B) issue a report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate containing any proposal with respect to subsection (a)(1)(A) that is selected by the Secretary under subparagraph (A) of this paragraph, all the information regarding the proposal provided to the Secretary under subsection (d), and any other relevant information deemed appropriate.
 
-&emsp;“(2) Following the submission of the report under paragraph (1)(B), the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing any proposal with respect to subparagraphs (B) through (K) of subsection (a)(1) that are selected by the Secretary under paragraph\(1) of this subsection, all the information regarding the proposal provided to the Secretary under subsection (d), and any other relevant information deemed appropriate.
+&emsp;"(2) Following the submission of the report under paragraph (1)(B), the Secretary shall transmit to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report containing any proposal with respect to subparagraphs (B) through (K) of subsection (a)(1) that are selected by the Secretary under paragraph (1) of this subsection, all the information regarding the proposal provided to the Secretary under subsection (d), and any other relevant information deemed appropriate.
 
-&emsp;“(3) The report required under paragraph (2) shall not be submitted by the Secretary until the report submitted under paragraph (1) has been considered through a hearing by the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the report submitted under paragraph (1)(B).
+&emsp;"(3) The report required under paragraph (2) shall not be submitted by the Secretary until the report submitted under paragraph (1) has been considered through a hearing by the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the report submitted under paragraph (1)(B).
 
-“(f)
+"(f)
 
 Preliminary Engineering.—For planning and preliminary engineering activities that meet the criteria of section 26101 of title 49, United States Code, (other than subsections (a) and (b)(2)) that are undertaken after the Secretary submits reports to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate as required under subsection (e), not to exceed $5,000,000 is authorized to be appropriated from funds made available under section 26104(a) of such title. Only 1 proposal for each corridor under subsection (a) shall be eligible for such funds.
 
-“(g)
+"(g)
 
 No Actions Without Additional Authority.—No Federal agency may take any action to implement, establish, facilitate, or otherwise act upon any proposal submitted under this section, other than those actions specifically authorized by this section, without explicit statutory authority enacted after the date of enactment of this Act \[Oct. 16, 2008\].
 
-“(h)
+"(h)
 
 Definitions.—In this section, the following definitions apply:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Intercity passenger rail.—The term ‘intercity passenger rail’ means intercity rail passenger transportation as defined in section 24102 of title 49, United States Code.
+Intercity passenger rail.—The term 'intercity passenger rail' means intercity rail passenger transportation as defined in section 24102 of title 49, United States Code.
 
-&emsp;“(2)
+&emsp;"(2)
 
-State.—The term ‘State’ means any of the 50 States or the District of Columbia.
+State.—The term 'State' means any of the 50 States or the District of Columbia.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Northeast corridor.—The term ‘Northeast Corridor’ has the meaning given under section 24102 of title 49, United States Code.
+Northeast corridor.—The term 'Northeast Corridor' has the meaning given under section 24102 of title 49, United States Code.
 
-&emsp;“(4)
+&emsp;"(4)
 
-High-speed rail corridor.—The terms ‘high-speed rail corridor’ and ‘corridor’ mean a corridor designated by the Secretary pursuant to \[former\] section 104(d)(2) of title 23, United States Code, and the Northeast Corridor.”
+High-speed rail corridor.—The terms 'high-speed rail corridor' and 'corridor' mean a corridor designated by the Secretary pursuant to \[former\] section 104(d)(2) of title 23, United States Code, and the Northeast Corridor."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

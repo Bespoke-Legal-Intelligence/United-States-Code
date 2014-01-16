@@ -24,7 +24,7 @@ Issuance of Nonavailability of Health Care Statements.—A covered beneficiary w
 
 Payment of Costs Related to Care in Specialized Treatment Facilities.—(1) Subject to paragraph (2), in connection with the treatment of a covered beneficiary under the specialized treatment facility program, the Secretary may provide the following benefits:
 
-&emsp;(A) Full or partial reimbursement of a member of the uniformed services for the reasonable expenses incurred by the member intransporting a covered beneficiary to or from a health care facility of the uniformed services or a civilian health care facility at which specialized health care services are provided pursuant to this chapter.
+&emsp;(A) Full or partial reimbursement of a member of the uniformed services for the reasonable expenses incurred by the member in transporting a covered beneficiary to or from a health care facility of the uniformed services or a civilian health care facility at which specialized health care services are provided pursuant to this chapter.
 
 &emsp;(B) Full or partial reimbursement of a person (including a member of the uniformed services) for the reasonable expenses of transportation, temporary lodging, and meals (not to exceed a per diem rate determined in accordance with implementing regulations) incurred by such person in accompanying a covered beneficiary as a nonmedical attendant to a health care facility referred to in subparagraph (A).
 
@@ -34,15 +34,15 @@ Payment of Costs Related to Care in Specialized Treatment Facilities.—(1) Subj
 
 (g)
 
-Covered Beneficiary Defined.—In this section, the term “covered beneficiary” means a person covered under section 1079 or 1086 of this title.
+Covered Beneficiary Defined.—In this section, the term "covered beneficiary" means a person covered under section 1079 or 1086 of this title.
 
 (Added Pub. L. 102–190, div. A, title VII, §715(a), Dec. 5, 1991, 105 Stat. 1403; amended Pub. L. 103–160, div. A, title VII, §716(a)(1), Nov. 30, 1993, 107 Stat. 1691; Pub. L. 104–106, div. A, title VII, §706, Feb. 10, 1996, 110 Stat. 373.)
 
 #### Amendments
 
-<b>1996</b>—Subsec. (h). Pub. L. 104–106 struck out subsec. (h) which read as follows: “
+<b>1996</b>—Subsec. (h). Pub. L. 104–106 struck out subsec. (h) which read as follows: "
 
-Expiration of Program.—The Secretary may not carry out the specialized treatment facility program authorized by this section after September 30, 1995.”
+Expiration of Program.—The Secretary may not carry out the specialized treatment facility program authorized by this section after September 30, 1995."
 
-<b>1993</b>—Pub. L. 103–160 substituted “Specialized treatment facility program” for “Issuance of nonavailability of health care statements” as section catchline and amended text generally. Prior to amendment, text read as follows: “In determining whether to issue a nonavailability of health care statement for any person entitled to health care in facilities of the uniformed services under this chapter, the commanding officer of such a facility may consider the availability of health care services for such person pursuant to any contract or agreement entered into under this chapter for the provision of health care services within the area served by that facility.”
+<b>1993</b>—Pub. L. 103–160 substituted "Specialized treatment facility program" for "Issuance of nonavailability of health care statements" as section catchline and amended text generally. Prior to amendment, text read as follows: "In determining whether to issue a nonavailability of health care statement for any person entitled to health care in facilities of the uniformed services under this chapter, the commanding officer of such a facility may consider the availability of health care services for such person pursuant to any contract or agreement entered into under this chapter for the provision of health care services within the area served by that facility."
 

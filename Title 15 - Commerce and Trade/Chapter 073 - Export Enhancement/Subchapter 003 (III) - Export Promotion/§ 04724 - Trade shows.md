@@ -38,7 +38,7 @@ Funds appropriated to carry out this section shall be used to—
 
 As used in this section—
 
-&emsp;(1) the term “United States business” means—
+&emsp;(1) the term "United States business" means—
 
 &emsp;&emsp;(A) a United States citizen;
 
@@ -46,7 +46,7 @@ As used in this section—
 
 &emsp;&emsp;(C) a foreign corporation, partnership, or other association, more than 95 percent of which is owned by persons described in subparagraphs (A) and (B); and
 
-&emsp;(2) the term “small business” means any small business concern as defined under section 632 of this title.
+&emsp;(2) the term "small business" means any small business concern as defined under section 632 of this title.
 
 (Pub. L. 100–418, title II, §2304, Aug. 23, 1988, 102 Stat. 1343.)
 

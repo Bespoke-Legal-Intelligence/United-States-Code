@@ -1,6 +1,6 @@
 ### §6873. Availability of labor
 
-The following actions shall be taken in order to assure that there is a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and the Older American Community Service Employment Act,<sup>1</sup> available to work in support of weatherization programs conducted under part A of the Energy Conservation in Existing Buildings Act of 1976 \[42 U.S.C. 6861 et seq.\], section 222(a)(12) <sup>1</sup> of the Economic Opportunity Act of 1964 \[42 U.S.C. 2809(a)(12)\], and section 504 of the Housing Act of 1949 \[42 U.S.C. 1474\]:
+The following actions shall be taken in order to assure that there is a sufficient number of volunteers and training participants and public service employment workers, assisted pursuant to title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and the Older American Community Service Employment Act,<sup>1</sup> available to work in support of weatherization programs conducted under part A of the Energy Conservation in Existing Buildings Act of 1976 \[42 U.S.C. 6861 et seq.\], section 222(a)(12) <sup>1</sup> of the Economic Opportunity Act of 1964 \[42 U.S.C.2809(a)(12)\], and section 504 of the Housing Act of 1949 \[42 U.S.C. 1474\]:
 
 &emsp;(1) First, the Secretary of Energy (in consultation with the Director of the Community Services Administration, the Secretary of Agriculture, and the Secretary of Labor) shall determine the number of individuals needed to supply sufficient labor to carry out such weatherization programs in the various areas of the country.
 
@@ -26,9 +26,9 @@ Section was enacted as a part of the National Energy Conservation Policy Act, an
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277, §101(f) \[title VIII, §405(f)(30)\], struck out “the Job Training Partnership Act or” after “assisted pursuant to”.
+<b>1998</b>—Pub. L. 105–277, §101(f) \[title VIII, §405(f)(30)\], struck out "the Job Training Partnership Act or" after "assisted pursuant to".
 
-Pub. L. 105–277, §101(f) \[title VIII, §405(d)(39)\], which directed the substitution of “the Job Training Partnership Act or title I of the Workforce Investment Act of 1998” for “the Comprehensive Employment and Training Act of 1973” in introductory provisions, was executed by making the substitution for “the Comprehensive Employment Training Act of 1973” to reflect the probable intent of Congress.
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(39)\], which directed the substitution of "the Job Training Partnership Act or title I of the Workforce Investment Act of 1998" for "the Comprehensive Employment and Training Act of 1973" in introductory provisions, was executed by making the substitution for "the Comprehensive Employment Training Act of 1973" to reflect the probable intent of Congress.
 
 #### Effective Date of 1998 Amendment
 

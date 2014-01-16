@@ -20,7 +20,7 @@ The Financial Assistance Corporation shall pay to the Farm Credit Administration
 
 #### Amendments
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–399 inserted “, for return to the revolving fund established under section 2151 of this title,” before “the full”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–399 inserted ", for return to the revolving fund established under section 2151 of this title," before "the full".
 
 #### Effective Date of 1988 Amendment
 

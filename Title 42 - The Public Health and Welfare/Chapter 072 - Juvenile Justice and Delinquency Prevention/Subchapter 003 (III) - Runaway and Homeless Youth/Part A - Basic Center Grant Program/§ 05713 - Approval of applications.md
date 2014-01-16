@@ -24,17 +24,17 @@ A prior section 313 of Pub. L. 93–415 was classified to section 5712a of this 
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–71 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “An application by a State, locality, or private entity for a grant under section 5711(a), (c), or (d) of this title may be approved by the Secretary only if it is consistent with the applicable provisions of section 5711(a), (c), or (d) of this title and meets the requirements set forth in section 5712 of this title. Priority shall be given to grants smaller than $200,000. In considering grant applications under section 5711(a) of this title, priority shall be given to organizations which have a demonstrated experience in the provision of service to runaway and homeless youth and their families.”
+<b>1999</b>—Pub. L. 106–71 inserted section catchline and amended text generally. Prior to amendment, text read as follows: "An application by a State, locality, or private entity for a grant under section 5711(a), (c), or (d) of this title may be approved by the Secretary only if it is consistent with the applicable provisions of section 5711(a), (c), or (d) of this title and meets the requirements set forth in section 5712 of this title. Priority shall be given to grants smaller than $200,000. In considering grant applications under section 5711(a) ofthis title, priority shall be given to organizations which have a demonstrated experience in the provision of service to runaway and homeless youth and their families."
 
-<b>1992</b>—Pub. L. 102–586, §3(d), substituted “section 5711(a), (c), or (d) of this title” for “section 5711(a) of this title” in two places in first sentence and substituted “$200,000” for “$150,000” in second sentence.
+<b>1992</b>—Pub. L. 102–586, §3(d), substituted "section 5711(a), (c), or (d) of this title" for "section 5711(a) of this title" in two places in first sentence and substituted "$200,000" for "$150,000" in second sentence.
 
-<b>1988</b>—Pub. L. 100–690, §7271(c)(1), substituted “section 5711(a) of this title” for “this part” in three places.
+<b>1988</b>—Pub. L. 100–690, §7271(c)(1), substituted "section 5711(a) of this title" for "this part" in three places.
 
-<b>1984</b>—Pub. L. 98–473 substituted “private entity” for “nonprofit private agency”.
+<b>1984</b>—Pub. L. 98–473 substituted "private entity" for "nonprofit private agency".
 
-<b>1980</b>—Pub. L. 96–509 substituted “$150,000” for “$100,000” and “organizations which have a demonstrated experience in the provision of service to runaway and homeless youth and their families” for “any applicant whose program budget is smaller than $150,000”.
+<b>1980</b>—Pub. L. 96–509 substituted "$150,000" for "$100,000" and "organizations which have a demonstrated experience in the provision of service to runaway and homeless youth and their families" for "any applicant whose program budget is smaller than $150,000".
 
-<b>1977</b>—Pub. L. 95–115 substituted “$100,000” and “$150,000” for “$75,000” and “$100,000”, respectively.
+<b>1977</b>—Pub. L. 95–115 substituted "$100,000" and "$150,000" for "$75,000" and "$100,000", respectively.
 
 #### Effective Date of 1988 Amendment
 

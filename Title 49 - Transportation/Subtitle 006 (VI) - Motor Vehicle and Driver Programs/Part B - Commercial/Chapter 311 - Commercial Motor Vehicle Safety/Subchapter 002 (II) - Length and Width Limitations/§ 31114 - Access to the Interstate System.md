@@ -34,5 +34,5 @@ Jan. 6, 1983, Pub. L. 97–424, §412, 96 Stat. 2160; Oct. 30, 1984, Pub. L. 98�
 
 49 App.:2312(b).
 
-In subsection (a), the words “Dwight D. Eisenhower System of Interstate and Defense Highways” are substituted for “Interstate and Defense Highway System” for consistency in the revised chapter.
+In subsection (a), the words "Dwight D. Eisenhower System of Interstate and Defense Highways" are substituted for "Interstate and Defense Highway System" for consistency in the revised chapter.
 

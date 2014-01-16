@@ -68,9 +68,9 @@ Pub. L. 87–220, §2, Sept. 13, 1961, 75 Stat. 493.
 
 48:1801 note (Covenant §503(b)).
 
-In subsection (a), before paragraph (1), the words “whether documented as a cargo vessel or otherwise” are omitted as unnecessary.
+In subsection (a), before paragraph (1), the words "whether documented as a cargo vessel or otherwise" are omitted as unnecessary.
 
-In subsection (c)(2), the words “severally” and “in addition to any other penalty provided in law” are omitted as unnecessary. The last sentence is substituted for 46 App. U.S.C. 251a.
+In subsection (c)(2), the words "severally" and "in addition to any other penalty provided in law" are omitted as unnecessary. The last sentence is substituted for 46 App. U.S.C. 251a.
 
 Subsection (d) is based on section 503(b) of the Covenant to Establish a Commonwealth of the Northern Mariana Islands in Political Union With the United States of America (48 U.S.C. 1801 note).
 

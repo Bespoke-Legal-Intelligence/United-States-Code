@@ -18,7 +18,7 @@ In a civil action under this section, the court may allow the prevailing party (
 
 #### (d) Relation to other laws
 
-(1) The rights and remedies established by this section are in addition to all other rights and remedies provided by law, and neither the rights and remedies established by this section nor any other provision of this subchapter shall supersede, restrict, or limit the application of the Voting Rights Act of 1965 (42 U.S.C. 1973 et seq.).
+(1) The rights and remedies established by this section are in addition to all other rights andremedies provided by law, and neither the rights and remedies established by this section nor any other provision of this subchapter shall supersede, restrict, or limit the application of the Voting Rights Act of 1965 (42 U.S.C. 1973 et seq.).
 
 (2) Nothing in this subchapter authorizes or requires conduct that is prohibited by the Voting Rights Act of 1965 (42 U.S.C. 1973 et seq.).
 

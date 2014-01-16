@@ -24,15 +24,15 @@ The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1
 
 #### Amendments
 
-<b>1967</b>—Subsec. (a). Pub. L. 90–189, §5(a), inserted “, or a rule or regulation prescribed under section 1194 (c) of this title,” after “section 1192 of this title” and substituted “for the district in which such person resides or transacts business, or, if such person resides or transacts business in Guam or the Virgin Islands, then in the District Court of Guam or in the District Court of the Virgin Islands (as the case may be)” for “or in the United States court of any Territory for the district or Territory in which such person resides or transacts business”.
+<b>1967</b>—Subsec. (a). Pub. L. 90–189, §5(a), inserted ", or a rule or regulation prescribed under section 1194 (c) of this title," after "section 1192 of this title" and substituted "for the district in which such person resides or transacts business, or, if such person resides or transacts business in Guam or the Virgin Islands, then in the District Court of Guam or in the District Court of the Virgin Islands (as the case may be)" for "or in the United States court of any Territory for the district or Territory in which such person resides or transacts business".
 
-Subsec. (b). Pub. L. 90–189, §5(b), substituted “product” for “article of wearing apparel”, “product, fabric, or related material” for “article of wearing apparel or fabric” in two places and “products, fabrics, or related materials” for “articles of wearing apparel or fabrics”, and inserted “or related material” before “has been introduced in commerce”.
+Subsec. (b). Pub. L. 90–189, §5(b), substituted "product" for "article of wearing apparel", "product, fabric, or related material" for "article of wearing apparel or fabric" in two places and "products, fabrics, or related materials" for "articles of wearing apparel or fabrics", and inserted "or related material" before "has been introduced in commerce".
 
-Subsec. (c). Pub. L. 90–189, §5(b), substituted “product, fabric, or related material” for “article of wearing apparel or fabric”.
+Subsec. (c). Pub. L. 90–189, §5(b), substituted "product, fabric, or related material" for "article of wearing apparel or fabric".
 
-Subsec. (d). Pub. L. 90–189, §5(b), substituted “products, fabrics, or related materials” for “articles of wearing apparel or fabrics” wherever appearing and struck out “for wearing apparel purposes” before “until properly and adequately treated or processed” in two places.
+Subsec. (d). Pub. L. 90–189, §5(b), substituted "products, fabrics, or related materials" for "articles of wearing apparel or fabrics" wherever appearing and struck out "for wearing apparel purposes" before "until properly and adequately treated or processed" in two places.
 
 #### Transfer of Functions
 
-Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under Federal Trade Commission Act, to extent such functions relate to administration and enforcement of this chapter, see section 2079 of this title.
+Functions of Secretary of Health, Education, and Welfare, Secretary of Commerce, and Federal Trade Commission under this chapter transferred to Consumer Product Safety Commission, along with functions of Federal Trade Commission under Federal Trade Commission Act, to extent such functions relateto administration and enforcement of this chapter, see section 2079 of this title.
 

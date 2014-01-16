@@ -10,17 +10,17 @@ In order to promote the establishment and operation of direct marketing from far
 
 &emsp;(3) providing technical assistance for the purpose of aiding interested individuals or groups in the establishment of arrangements for direct marketing from farmers to consumers.
 
-#### (b) Development of farmers’ markets
+#### (b) Development of farmers' markets
 
 The Secretary shall—
 
-&emsp;(1) work with the Governor of a State, and a State agency designated by the Governor, to develop programs to train managers of farmers’ markets;
+&emsp;(1) work with the Governor of a State, and a State agency designated by the Governor, to develop programs to train managers of farmers' markets;
 
-&emsp;(2) develop opportunities to share information among managers of farmers’ markets;
+&emsp;(2) develop opportunities to share information among managers of farmers' markets;
 
 &emsp;(3) establish a program to train cooperative extension service employees in the development of direct marketing techniques; and
 
-&emsp;(4) work with producers to develop farmers’ markets.
+&emsp;(4) work with producers to develop farmers' markets.
 
 #### (c) Consideration of consumer preferences
 
@@ -30,7 +30,7 @@ In the implementation of this section, the Secretary shall take into account con
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a). Pub. L. 107–171, §10605(b)(2)(A), substituted “Secretary for the purpose” for “Extension Service of the United States Department of Agriculture for the purpose”, “Secretary on the basis” for “Extension Service on the basis”, and “, as determined by the Secretary” for “and on the basis of which of these two agencies, or combination thereof, can best perform these activities”.
+<b>2002</b>—Subsec. (a). Pub. L. 107–171, §10605(b)(2)(A), substituted "Secretary for the purpose" for "Extension Service of the United States Department of Agriculture for the purpose", "Secretary on the basis" for "Extension Service on the basis", and ", as determined by the Secretary" for "and on the basis of which of these two agencies, or combination thereof, can best perform these activities".
 
 Subsecs. (b), (c). Pub. L. 107–171, §10605(b)(2)(B), (C), added subsec. (b) and redesignated former subsec. (b) as (c).
 

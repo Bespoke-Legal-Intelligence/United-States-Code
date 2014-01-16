@@ -32,9 +32,9 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1990</b>—Par. (3). Pub. L. 101–650, §324(b)(1), struck out “Jackson,” after “Hyde,”.
+<b>1990</b>—Par. (3). Pub. L. 101–650, §324(b)(1), struck out "Jackson," after "Hyde,".
 
-Par. (4). Pub. L. 101–650, §324(b)(2), inserted “Jackson,” after “Harding,” and substituted “and Shannon” for “Shannon, Washabaugh, and Washington”.
+Par. (4). Pub. L. 101–650, §324(b)(2), inserted "Jackson," after "Harding," and substituted "and Shannon" for "Shannon, Washabaugh, and Washington".
 
 <b>1972</b>—Par. (2). Pub. L. 92–376, §1(a), removed Gregory County from the Southern Division.
 

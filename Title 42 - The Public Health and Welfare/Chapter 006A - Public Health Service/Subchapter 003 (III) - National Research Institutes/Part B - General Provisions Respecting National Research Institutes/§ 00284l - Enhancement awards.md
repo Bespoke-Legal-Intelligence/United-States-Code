@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Director of the National Institutes of Health shall make grants (to be referred to as “Mentored Patient-Oriented Research Career Development Awards”) to support individual careers in clinical research at general clinical research centers or at other institutions that have the infrastructure and resources deemed appropriate for conducting patient-oriented clinical research.
+&emsp;&emsp;The Director of the National Institutes of Health shall make grants (to be referred to as "Mentored Patient-Oriented Research Career Development Awards") to support individual careers in clinical research at general clinical research centers or at other institutions that have the infrastructure and resources deemed appropriate for conducting patient-oriented clinical research.
 
 #### (B) Use
 
@@ -22,7 +22,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Director of the National Institutes of Health shall make grants (to be referred to as “Mid-Career Investigator Awards in Patient-Oriented Research”) to support individual clinical research projects at general clinical research centers or at other institutions that have the infrastructure and resources deemed appropriate for conducting patient-oriented clinical research.
+&emsp;&emsp;The Director of the National Institutes of Health shall make grants (to be referred to as "Mid-Career Investigator Awards in Patient-Oriented Research") to support individual clinical research projects at general clinical research centers or at other institutions that have the infrastructure and resources deemed appropriate for conducting patient-oriented clinical research.
 
 #### (B) Use
 
@@ -36,11 +36,11 @@
 
 #### (1) In general
 
-&emsp;The Director of the National Institutes of Health shall make grants (to be referred to as “Graduate Training in Clinical Investigation Awards”) to support individuals pursuing master's or doctoral degrees in clinical investigation.
+&emsp;The Director of the National Institutes of Health shall make grants (to be referred to as "Graduate Training in Clinical Investigation Awards") to support individuals pursuing master's or doctoral degrees in clinical investigation.
 
 #### (2) Applications
 
-&emsp;An application for a grant under this subsection shall be submitted by an individualscientist at such time as the Director may require.
+&emsp;An application for a grant under this subsection shall be submitted by an individual scientist at such time as the Director may require.
 
 #### (3) Limitations
 
@@ -48,7 +48,7 @@
 
 #### (4) Definition
 
-&emsp;As used in this subsection, the term “advanced degree programs in clinical investigation” means programs that award a master's or Ph.D. degree in clinical investigation after 2 or more years of training in areas such as the following:
+&emsp;As used in this subsection, the term "advanced degree programs in clinical investigation" means programs that award a master's or Ph.D. degree in clinical investigation after 2 or more years of training in areas such as the following:
 
 &emsp;&emsp;(A) Analytical methods, biostatistics, and study design.
 
@@ -66,7 +66,7 @@
 
 #### (1) In general
 
-&emsp;The Director of the National Institutes of Health shall make grants (to be referred to as “Clinical Research Curriculum Awards”) to institutions for the development and support of programs of core curricula for training clinical investigators, including medical students. Such core curricula may include training in areas such as the following:
+&emsp;The Director of the National Institutes of Health shall make grants (to be referred to as "Clinical Research Curriculum Awards") to institutions for the development and support of programs of core curricula for training clinical investigators, including medical students. Such core curricula may include training in areas such as the following:
 
 &emsp;&emsp;(A) Analytical methods, biostatistics, and study design.
 
@@ -92,13 +92,13 @@
 
 #### Amendments
 
-<b>2007</b>—Subsec. (a)(3). Pub. L. 109–482, §103(b)(13)(A), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
+<b>2007</b>—Subsec. (a)(3). Pub. L. 109–482, §103(b)(13)(A), struck out heading and text of par. (3). Text read as follows: "For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year."
 
-Subsec. (b)(3). Pub. L. 109–482, §103(b)(13)(B), struck out heading and text of par. (3). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
+Subsec. (b)(3). Pub. L. 109–482, §103(b)(13)(B), struck out heading and text of par. (3). Text read as follows: "For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year."
 
-Subsec. (c)(5). Pub. L. 109–482, §103(b)(13)(C), struck out heading and text of par. (5). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
+Subsec. (c)(5). Pub. L. 109–482, §103(b)(13)(C), struck out heading and text of par. (5). Text read as follows: "For the purpose of carrying out this subsection, thereare authorized to be appropriated such sums as may be necessary for each fiscal year."
 
-Subsec. (d)(4). Pub. L. 109–482, §103(b)(13)(D), struck out heading and text of par. (4). Text read as follows: “For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year.”
+Subsec. (d)(4). Pub. L. 109–482, §103(b)(13)(D), struck out heading and text of par. (4). Text read as follows: "For the purpose of carrying out this subsection, there are authorized to be appropriated such sums as may be necessary for each fiscal year."
 
 #### Effective Date of 2007 Amendment
 

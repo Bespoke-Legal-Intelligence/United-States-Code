@@ -52,11 +52,11 @@ July 14, 1960, Pub. L. 86–653, §§9, 10, 12, 74 Stat. 517.
 
 &nbsp;
 
-In subsection (a), the words “any shares of” are omitted as unnecessary.
+In subsection (a), the words "any shares of" are omitted as unnecessary.
 
-In subsections (c) and (d), the reference to the “council of administration” is retained although 36:946 and 947 (restated in section 30505 of the revised title) do not create a governing body called a “council of administration.”
+In subsections (c) and (d), the reference to the "council of administration" is retained although 36:946 and 947 (restated in section 30505 of the revised title) do not create a governing body called a "council of administration."
 
-In subsection (c), the words “inure to the benefit of” are substituted for “inure to”, and the words “This subsection does not prevent” are substituted for “Nothing in this subsection, however, shall be construed to prevent”, for consistency in the revised title.
+In subsection (c), the words "inure to the benefit of" are substituted for "inure to", and the words "This subsection does not prevent" are substituted for "Nothing in this subsection, however, shall be construed to prevent", for consistency in the revised title.
 
-In subsection (d), the words “or advance” are added in 2 places for consistency in the subsection.
+In subsection (d), the words "or advance" are added in 2 places for consistency in the subsection.
 

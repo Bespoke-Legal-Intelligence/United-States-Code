@@ -2,7 +2,7 @@
 
 The purposes of this chapter are—
 
-&emsp;(1) to authorize the reburial of human remains and cultural items on National Forest System land, including human remains and cultural items repatriated under the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001 et seq.);
+&emsp;(1) to authorize the reburial of human remains and cultural items on National Forest System land, including human remains andcultural items repatriated under the Native American Graves Protection and Repatriation Act (25 U.S.C. 3001 et seq.);
 
 &emsp;(2) to prevent the unauthorized disclosure of information regarding reburial sites, including the quantity and identity of human remains and cultural items on sites and the location of sites;
 
@@ -12,7 +12,7 @@ The purposes of this chapter are—
 
 &emsp;(5) to authorize the Secretary to protect the confidentiality of certain information, including information that is culturally sensitive to Indian tribes;
 
-&emsp;(6) to increase the availability of Forest Service programs and resources to Indian tribes in support of the policy of the UnitedStates to promote tribal sovereignty and self-determination; and
+&emsp;(6) to increase the availability of Forest Service programs and resources to Indian tribes in support of the policy of the United States to promote tribal sovereignty and self-determination; and
 
 &emsp;(7) to strengthen support for the policy of the United States of protecting and preserving the traditional, cultural, and ceremonial rites and practices of Indian tribes, in accordance with Public Law 95–341 (commonly known as the American Indian Religious Freedom Act; 42 U.S.C. 1996).
 
@@ -32,7 +32,7 @@ Pub. L. 110–234 and Pub. L. 110–246 enacted identical sections. Pub. L. 110�
 
 Enactment of this chapter and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as a note under section 8701 of Title 7, Agriculture.
 
-#### Definition of “Secretary”
+#### Definition of "Secretary"
 
-“Secretary” as meaning the Secretary of Agriculture, see section 8701 of Title 7, Agriculture.
+"Secretary" as meaning the Secretary of Agriculture, see section 8701 of Title 7, Agriculture.
 

@@ -2,7 +2,7 @@
 
 #### (a) Reports by employees
 
-Every employee who, in the course of his employment by an employer, receives in any calendar month tips which are wages (as defined insection 3121(a) or section 3401(a)) or which are compensation (as defined in section 3231(e)) shall report all such tips in one or more written statements furnished to his employer on or before the 10th day following such month. Such statements shall be furnished by the employee under such regulations, at such other times before such 10th day, and in such form and manner, as may be prescribed by the Secretary.
+Every employee who, in the course of his employment by an employer, receives in any calendar month tips which are wages (as defined in section 3121(a) or section 3401(a)) or which are compensation (as defined in section 3231(e)) shall report all such tips in one or more written statements furnished to his employer on or before the 10th day following such month. Such statements shall be furnished by the employee under such regulations, at such other times before such 10th day, and in such form and manner, as may be prescribed by the Secretary.
 
 #### (b) Statements furnished by employers
 
@@ -64,7 +64,7 @@ If the tax imposed by section 3101 or section 3201 (as the case may be) with res
 
 #### (4) Large food or beverage establishment
 
-&emsp;For purposes of this subsection, the term “large food or beverage establishment” means any trade or business (or portion thereof)—
+&emsp;For purposes of this subsection, the term "large food or beverage establishment" means any trade or business (or portion thereof)—
 
 &emsp;&emsp;(A) which provides food or beverages,
 
@@ -80,7 +80,7 @@ If the tax imposed by section 3101 or section 3201 (as the case may be) with res
 
 #### (6) Nonallocable receipts defined
 
-&emsp;For purposes of this subsection, the term “nonallocable receipts” means receipts which are allocable to—
+&emsp;For purposes of this subsection, the term "nonallocable receipts" means receipts which are allocable to—
 
 &emsp;&emsp;(A) carryout sales, or
 
@@ -94,37 +94,37 @@ If the tax imposed by section 3101 or section 3201 (as the case may be) with res
 
 #### Amendments
 
-<b>1984</b>—Subsec. (c)(3)(C). Pub. L. 98–369, §1072(a), substituted “Upon the petition of the employer or the majority of employees of such employer, the Secretary” for “The Secretary” and “2 percent” for “5 percent”.
+<b>1984</b>—Subsec. (c)(3)(C). Pub. L. 98–369, §1072(a), substituted "Upon the petition of the employer or the majority of employees of such employer, the Secretary" for "The Secretary" and "2 percent" for "5 percent".
 
 Subsec. (c)(4). Pub. L. 98–369, §1072(c)(1), inserted provision that an individual who owns 50 percent or more in value of the stock of the corporation operating the establishment shall not be treated as an employee.
 
 <b>1982</b>—Subsec. (c). Pub. L. 97–248 added subsec. (c).
 
-<b>1976</b>—Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
-<b>1965</b>—Subsec. (a). Pub. L. 89–212, §2(d)(1), inserted “or which are compensation (as defined in section 3231(e)”.
+<b>1965</b>—Subsec. (a). Pub. L. 89–212, §2(d)(1), inserted "or which are compensation (as defined in section 3231(e)".
 
-Subsec. (b). Pub. L. 89–212, §2(d)(2), inserted “or section 3201 (as the case may be)” and “or section 3202 (as the case may be)”.
+Subsec. (b). Pub. L. 89–212, §2(d)(2), inserted "or section 3201 (as the case may be)" and "or section 3202 (as the case may be)".
 
 #### Effective Date of 1984 Amendment
 
-Pub. L. 98–369, div. A, title X, §1072(c)(2), July 18, 1984, 98 Stat. 1052, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to calendar years beginning after December 31, 1982.”
+Pub. L. 98–369, div. A, title X, §1072(c)(2), July 18, 1984, 98 Stat. 1052, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply to calendar years beginning after December 31, 1982."
 
 #### Effective Date of 1982 Amendment
 
 Pub. L. 97–248, title III, §314(e), Sept. 3, 1982, 96 Stat. 605, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by this section \[amending this section and sections 6001 and 6678 of this title, and enacting provisions set out as a note under this section\] shall apply to calendar years beginning after December 31, 1982.
 
-“(2)
+"(2)
 
 Special rule for 1983.—For purposes of section 6053(c) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\], in the case of payroll periods ending before April 1, 1983, an employer must only report with respect to such periods—
 
-&emsp;“(A) amounts described in subparagraphs (A), (B), (C), and (D) of section 6053(c)(1) of such Code, and
+&emsp;"(A) amounts described in subparagraphs (A), (B), (C), and (D) of section 6053(c)(1) of such Code, and
 
-&emsp;“(B) the name, and identification number, wages paid to, and tips reported by, each tipped employee.”
+&emsp;"(B) the name, and identification number, wages paid to, and tips reported by, each tipped employee."
 
 #### Effective Date of 1965 Amendment
 
@@ -132,19 +132,19 @@ Amendment by Pub. L. 89–212 effective only with respect to tips received after
 
 #### Effective Date
 
-Pub. L. 89–97, title III, §313(f), July 30, 1965, 79 Stat. 385, provided that: “The amendments made by this section \[enacting this section and amending sections 451, 3102, 3121, 3401, 3402, 6051, 6652, and 6674 of this title and section 409 of Title 42, The Public Health and Welfare\] shall apply only with respect to tips received by employees after 1965.”
+Pub. L. 89–97, title III, §313(f), July 30, 1965, 79 Stat. 385, provided that: "The amendments made by this section \[enacting this section and amending sections 451, 3102, 3121, 3401, 3402, 6051, 6652, and 6674 of this title and section 409 of Title 42, The Public Health and Welfare\] shall apply only with respect to tips received by employees after 1965."
 
 #### Regulations
 
-Pub. L. 98–369, div. A, title X, §1072(b), July 18, 1984, 98 Stat. 1052, provided that: “The Secretary of the Treasury shall prescribe by regulations within 1 year after the date of the enactment of this Act \[July 18, 1984\] the applicable recordkeeping requirements for tipped employees.”
+Pub. L. 98–369, div. A, title X, §1072(b), July 18, 1984, 98 Stat. 1052, provided that: "The Secretary of the Treasury shall prescribe by regulations within 1 year after the date of the enactment of this Act \[July 18, 1984\] the applicable recordkeeping requirements for tipped employees."
 
 #### Threat of Audit Prohibited To Coerce Tip Reporting Alternative Commitment Agreements
 
-Pub. L. 105–206, title III, §3414, July 22, 1998, 112 Stat. 755, provided that: “The Secretary of the Treasury or the Secretary's delegate shall instruct employees of the Internal Revenue Service that they may not threaten to audit any taxpayer in an attempt to coerce the taxpayer into entering into a Tip Reporting Alternative Commitment Agreement.”
+Pub. L. 105–206, title III, §3414, July 22, 1998, 112 Stat. 755, provided that: "The Secretary of the Treasury or the Secretary's delegate shall instruct employees of the Internal Revenue Service that they may not threaten to audit any taxpayer in an attempt to coerce the taxpayer into entering into a Tip Reporting Alternative Commitment Agreement."
 
 #### Modification of Tips Allocation Method
 
-Pub. L. 99–514, title XV, §1571, Oct. 22, 1986, 100 Stat. 2765, provided that: “Effective for any payroll period beginning after December 31, 1986, an establishment may utilize the optional method of tips allocation described in the last sentence of section 31.6053–3(f)(1)(iv) of the Internal Revenue Regulations only if such establishment employs less than the equivalent of 25 full-time employees during such payroll period.”
+Pub. L. 99–514, title XV, §1571, Oct. 22, 1986, 100 Stat. 2765, provided that: "Effective for any payroll period beginning after December 31, 1986, an establishment may utilize the optional method of tips allocation described in the last sentence of section 31.6053–3(f)(1)(iv) of the Internal Revenue Regulations only if such establishment employs less than the equivalent of 25 full-time employees during such payroll period."
 
 #### Study of Tip Compliance
 

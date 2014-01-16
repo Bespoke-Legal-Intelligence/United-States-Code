@@ -16,17 +16,17 @@ Amendment by Pub. L. 111–148 is based on section 134(c) of title I of S. 1790,
 
 <b>2010</b>—Pub. L. 111–148 amended section generally. Prior to amendment, section related to discretionary allowances to health professionals employed in the Service to take leave for professional consultation and refresher training courses and included a limitation on use of appropriations to establish postdoctoral training programs for health professionals.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–573, §104(a), inserted “nurses,” after “physicians, dentists,”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–573, §104(a), inserted "nurses," after "physicians, dentists,".
 
-Subsec. (b). Pub. L. 102–573, §115, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated for the purpose of carrying out the provisions of this section—
+Subsec. (b). Pub. L. 102–573, §115, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "There are authorized to be appropriated for the purpose of carrying out the provisions of this section—
 
-&emsp;“(1) $500,000 for fiscal year 1989,
+&emsp;"(1) $500,000 for fiscal year 1989,
 
-&emsp;“(2) $526,300 for fiscal year 1990,
+&emsp;"(2) $526,300 for fiscal year 1990,
 
-&emsp;“(3) $553,800 for fiscal year 1991, and
+&emsp;"(3) $553,800 for fiscal year 1991, and
 
-&emsp;“(4) $582,500 for fiscal year 1992.”
+&emsp;"(4) $582,500 for fiscal year 1992."
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–713 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “There are authorized to be appropriated for the purpose of this section: $100,000 for fiscal year 1978, $200,000 for fiscal year 1979, and $250,000 for fiscal year 1980. For fiscal years 1981, 1982, 1983, and 1984 there are authorized to be appropriated for the purpose of this section such sums as may be specifically authorized by an Act enacted after this chapter.”
+<b>1988</b>—Subsec. (b). Pub. L. 100–713 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "There are authorized to be appropriated for the purpose of this section: $100,000 for fiscal year 1978, $200,000 for fiscal year 1979, and $250,000 for fiscal year 1980. For fiscal years 1981, 1982, 1983, and 1984 there are authorized to be appropriated for the purpose of this section such sums as may be specifically authorized by an Act enacted after this chapter."
 

@@ -26,35 +26,35 @@ Duties.—The head of the office shall ensure that the office—
 
 #### Prior Provisions
 
-A prior section 2515, added Pub. L. 101–510, div. A, title VIII, §823(a)(3), Nov. 5, 1990, 104 Stat. 1602, related to computer-integrated manufacturing technology, prior to repeal by Pub. L. 102–484, §4202(a).
+A prior section 2515, added Pub. L. 101–510, div. A, title VIII, §823(a)(3), Nov. 5, 1990, 104 Stat. 1602, relatedto computer-integrated manufacturing technology, prior to repeal by Pub. L. 102–484, §4202(a).
 
 #### Amendments
 
-<b>2011</b>—Subsec. (d). Pub. L. 112–81 struck out subsec. (d). Prior to amendment, text read as follows: “The Secretary of Defense shall submit to the congressional defense committees a biennial report on the activities of the Office. The report shall be submitted each even-numbered year at the same time that the budget is submitted to Congress by the President pursuant to section 1105 of title 31. The report shall contain a discussion of the accomplishments of the Office during the two fiscal years preceding the fiscal year in which the report is submitted.”
+<b>2011</b>—Subsec. (d). Pub. L. 112–81 struck out subsec. (d). Prior to amendment, text read as follows: "The Secretary of Defense shall submit to the congressional defense committees a biennial report on the activities of the Office. The report shall be submitted each even-numbered year at the same time that the budget is submitted to Congress by the President pursuant to section 1105 of title 31. The report shall contain a discussion of the accomplishments of the Office during the two fiscal years preceding the fiscal year in which the report is submitted."
 
-<b>2004</b>—Subsec. (d). Pub. L. 108–375 struck out par. (1) designation before “The Secretary”, substituted “congressional defense committees” for “congressional committees specified in paragraph (2)”, and struck out par. (2) which read as follows: “The committees referred to in paragraph (1) are—
+<b>2004</b>—Subsec. (d). Pub. L. 108–375 struck out par. (1) designation before "The Secretary", substituted "congressional defense committees" for "congressional committees specified in paragraph (2)", and struck out par. (2) which read as follows: "The committees referred to in paragraph (1) are—
 
-&emsp;“(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+&emsp;"(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
-&emsp;“(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
+&emsp;"(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives."
 
-<b>2003</b>—Subsec. (d). Pub. L. 108–136, §1031(a)(23)(A), substituted “Biennial” for “Annual” in heading.
+<b>2003</b>—Subsec. (d). Pub. L. 108–136, §1031(a)(23)(A), substituted "Biennial" for "Annual" in heading.
 
-Subsec. (d)(1). Pub. L. 108–136, §1031(a)(23)(B), substituted “a biennial report” for “an annual report” in first sentence, “each even-numbered year” for “each year” in second sentence, and “during the two fiscal years” for “during the fiscal year” in third sentence.
+Subsec. (d)(1). Pub. L. 108–136, §1031(a)(23)(B), substituted "a biennial report" for "an annual report" in first sentence, "each even-numbered year" for "each year" in second sentence, and "during the two fiscal years" for "during the fiscal year" in third sentence.
 
-<b>1999</b>—Subsec. (d)(2)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>1999</b>—Subsec. (d)(2)(B). Pub. L. 106–65 substituted "Committee on Armed Services" for "Committee on National Security".
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–106 substituted “Annual Report” for “Reporting Requirement” in heading, designated existing provisions as par. (1), substituted “The Secretary of Defense shall submit to the congressional committees specified in paragraph (2) an annual report on the activities of the Office. The report shall be submitted each year at the same time” for “The Secretary of Defense shall submit to the Committees on Armed Services and on Appropriations of the Senate and the House of Representatives an annual report on the activities of the Office at the same time”, and added par. (2).
+<b>1996</b>—Subsec. (d). Pub. L. 104–106 substituted "Annual Report" for "Reporting Requirement" in heading, designated existing provisions as par. (1), substituted "The Secretary of Defense shall submit to the congressional committees specified in paragraph (2) an annual report on the activities of the Office. The report shall be submitted each year at the same time" for "The Secretary of Defense shall submit to the Committees on Armed Services and on Appropriations of the Senate and the House of Representatives an annual report on the activities of the Office at the same time", and added par. (2).
 
 #### Schedule for Establishment of Office of Technology Transition
 
-Pub. L. 102–484, div. D, title XLII, §4225(b), Oct. 23, 1992, 106 Stat. 2683, provided that: “The Office of Technology Transition shall commence operations within 120 days after the date of the enactment of this Act \[Oct. 23, 1992\].”
+Pub. L. 102–484, div. D, title XLII, §4225(b), Oct. 23, 1992, 106 Stat. 2683, provided that: "The Office of Technology Transition shall commence operations within 120 days after the date of the enactment of this Act \[Oct. 23, 1992\]."
 
 #### Submission of Annual Report
 
-Pub. L. 102–484, div. D, title XLII, §4225(c)(2), Oct. 23, 1992, 106 Stat. 2684, provided that: “Notwithstanding section 2515(d) of title 10, United States Code (as added by subsection (a))—
+Pub. L. 102–484, div. D, title XLII, §4225(c)(2), Oct. 23, 1992, 106 Stat. 2684, provided that: "Notwithstanding section 2515(d) of title 10, United States Code (as added by subsection (a))—
 
-&emsp;“(A) the first report under that section shall be submitted not later than one year after the date of the enactment of this Act \[Oct. 23, 1992\]; and
+&emsp;"(A) the first report under that section shall be submitted not later than one year after the date of the enactment of this Act \[Oct. 23, 1992\]; and
 
-&emsp;“(B) no additional report is necessary under that section in the fiscal year in which such first report is submitted.”
+&emsp;"(B) no additional report is necessary under that section in the fiscal year in which such first report is submitted."
 

@@ -30,17 +30,17 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 <b>2008</b>—Pub. L. 110–417 amended section generally. Prior to amendment, text read as follows:
 
-“(a)
+"(a)
 
 Authority.—Upon the recommendation of the faculty of the Naval War College, the President of the college may confer the degree of master of arts in national security and strategic studies upon graduates of the college who fulfill the requirements for the degree.
 
-“(b)
+"(b)
 
 Regulations.—The authority provided by subsection (a) shall be exercised under regulations prescribed by the Secretary of the Navy.
 
-“(c)
+"(c)
 
-Naval War College Defined.—In this section, the term ‘Naval War College’ means the College of Naval Warfare and the College of Naval Command and Staff.”
+Naval War College Defined.—In this section, the term 'Naval War College' means the College of Naval Warfare and the College of Naval Command and Staff."
 
 #### Effective Date of 2008 Amendment
 

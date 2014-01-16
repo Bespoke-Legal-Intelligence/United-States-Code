@@ -38,7 +38,7 @@ Records of Committee.—In addition to the report required by subsection (f), a 
 
 #### References in Text
 
-Section 10 of the Federal Advisory Committee Act, referred to in subsecs. (c), (d)(3), and (g), is section 10of Pub. L. 92–463, which is set out in the Appendix to this title.
+Section 10 of the Federal Advisory Committee Act, referred to in subsecs. (c), (d)(3), and (g), is section 10 of Pub. L. 92–463, which is set out in the Appendix to this title.
 
 #### Amendments
 

@@ -38,25 +38,25 @@ Historical and Revision Notes
 
 July 9, 1952, ch. 608, §§710, 712(b) (less last 17 words), 66 Stat. 503, 504.
 
-In subsection (a), the words “in the service of the United States” are omitted as surplusage. The words “effective date of his order to active duty until he is relieved from that duty” are substituted for the words“active-duty date of the orders and for as long as they remain on active duty in the service of the United States”. 50:1120 (last sentence) is omitted as surplusage, since the persons involved are members of the Army or the Air Force.
+In subsection (a), the words "in the service of the United States" are omitted as surplusage. The words "effective date of his order to active duty until he is relieved from that duty" are substituted for the words "active-duty date of the orders and for as long as they remain on active duty in the service of the United States". 50:1120 (last sentence) is omitted as surplusage, since the persons involved are members of the Army or the Air Force.
 
-In subsection (b), the words “upon relief from that duty” are substituted for the words “upon being relieved from active duty”. The words “their National Guard status” are substituted for the words “to the National Guard and Air National Guard in their respective States, Territories, and the District of Columbia”.
+In subsection (b), the words "upon relief from that duty" are substituted for the words "upon being relieved from active duty". The words "their National Guard status" are substituted for the words "to the National Guard and Air National Guard in their respective States, Territories, and the District of Columbia".
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(2). Pub. L. 110–417, §517(a), struck out “in command of a National Guard unit” after “active duty” in introductory provisions.
+<b>2008</b>—Subsec. (a)(2). Pub. L. 110–417, §517(a), struck out "in command of a National Guard unit" after "active duty" in introductory provisions.
 
 Subsecs. (b), (c). Pub. L. 110–417, §517(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands” for “State or Territory, or of Puerto Rico” in par. (1) and introductory provisions of par. (2) and “State or Territory or Puerto Rico” in par. (2)(B).
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted "State, or of the Commonwealth of Puerto Rico, Guam, or the Virgin Islands" for "State or Territory, or of Puerto Rico" in par. (1) and introductory provisions of par. (2) and "State or Territory or Puerto Rico" in par. (2)(B).
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–136, §516(a), substituted “(a)
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §516(a), substituted "(a)
 
-Relief Required.—(1) Except as provided in paragraph (2), each” for “(a) Each” and added par. (2).
+Relief Required.—(1) Except as provided in paragraph (2), each" for "(a) Each" and added par. (2).
 
 Subsec. (b). Pub. L. 108–136, §516(b), inserted heading.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–456 struck out “, the Canal Zone,” after “Puerto Rico”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–456 struck out ", the Canal Zone," after "Puerto Rico".
 
 #### Delegation of Functions
 

@@ -44,7 +44,7 @@ Subject to subsections (c) and (d) of this section, payment under this part may 
 
 #### (A) Excepted medical treatment
 
-&emsp;&emsp;The term “excepted medical treatment” means medical care or treatment (including medical and other health services)—
+&emsp;&emsp;The term "excepted medical treatment" means medical care or treatment (including medical and other health services)—
 
 &emsp;&emsp;&emsp;(i) received involuntarily, or
 
@@ -52,7 +52,7 @@ Subject to subsections (c) and (d) of this section, payment under this part may 
 
 #### (B) Nonexcepted medical treatment
 
-&emsp;&emsp;The term “nonexcepted medical treatment” means medical care or treatment (including medical and other health services) other than excepted medical treatment.
+&emsp;&emsp;The term "nonexcepted medical treatment" means medical care or treatment (including medical and other health services) other than excepted medical treatment.
 
 #### (c) Monitoring and safeguard against excessive expenditures
 
@@ -76,11 +76,11 @@ Subject to subsections (c) and (d) of this section, payment under this part may 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to adjustment under paragraph (3)(B), the “trigger level” for a year is the unadjusted trigger level described in clause (ii).
+&emsp;&emsp;&emsp;Subject to adjustment under paragraph (3)(B), the "trigger level" for a year is the unadjusted trigger level described in clause (ii).
 
 #### (ii) Unadjusted trigger level
 
-&emsp;&emsp;&emsp;The “unadjusted trigger level” for—
+&emsp;&emsp;&emsp;The "unadjusted trigger level" for—
 
 &emsp;&emsp;&emsp;&emsp;(I) fiscal year 1998, is $20,000,000, or
 
@@ -112,7 +112,7 @@ Subject to subsections (c) and (d) of this section, payment under this part may 
 
 #### (d) Sunset
 
-If the Secretary determines that the level of expenditures described in subsection (c)(1) ofthis section for 3 consecutive fiscal years (with the first such year being not earlier than fiscal year 2002) exceeds the trigger level for such expenditures for such years (as determined under subsection (c)(2) of this section), benefits shall be paid under this part for services described in subsection (a) of this section and furnished on or after the first January 1 that occurs after such 3 consecutive years only with respect to an individual who has an election in effect under subsection (b) of this section as of such January 1 and only during the duration of such election.
+If the Secretary determines that the level of expenditures described in subsection (c)(1) of this section for 3 consecutive fiscal years (with the first such year being not earlier than fiscal year 2002) exceeds the trigger level for such expenditures for such years (as determined under subsection (c)(2) of this section), benefits shall be paid under this part for services described in subsection (a) of this section and furnished on or after the first January 1 that occurs after such 3 consecutive years only with respect to an individual who has an election in effect under subsection (b) of this section as of such January 1 and only during the duration of such election.
 
 #### (e) Annual report
 
@@ -128,11 +128,11 @@ At the beginning of each fiscal year (beginning with fiscal year 1999), the Secr
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–173, §706(a)(1), inserted “and for home health services furnished an individual by a religious nonmedical health care institution” after “religious nonmedical health care institution” in introductory provisions.
+<b>2003</b>—Subsec. (a). Pub. L. 108–173, §706(a)(1), inserted "and for home health services furnished an individual by a religious nonmedical health care institution" after "religious nonmedical health care institution" in introductory provisions.
 
-Subsec. (a)(2). Pub. L. 108–173, §706(a)(2), substituted “, extended care services, or home health services” for “or extended care services” and inserted “, or receiving services from a home health agency,” after “skilled nursing facility”.
+Subsec. (a)(2). Pub. L. 108–173, §706(a)(2), substituted ", extended care services, or home health services" for "or extended care services" and inserted ", or receiving services from a home health agency," after "skilled nursing facility".
 
 #### Effective Date
 
-Pub. L. 105–33, title IV, §4454(d), Aug. 5, 1997, 111 Stat. 431, provided that: “The amendments made by this section \[enacting this section and amending sections 1320a–1, 1320c–11, 1395x, 1396a, and 1396g of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\] and shall apply to items and services furnished on or after such date. By not later than July 1, 1998, the Secretary of Health and Human Services shall first issue regulations to carry out such amendments. Such regulations may be issued so they are effective on an interim basis pending notice and opportunity for public comment. For periods before the effective date of such regulations, such regulations shall recognize elections entered into in good faith in order to comply with the requirements of section 1821(b) of the Social Security Act \[subsec. (b) of this section\].”
+Pub. L. 105–33, title IV, §4454(d), Aug. 5, 1997, 111 Stat. 431, provided that: "The amendments made by this section \[enacting this section and amending sections 1320a–1, 1320c–11, 1395x, 1396a, and 1396g of this title\] shall take effect on the date of the enactment of this Act \[Aug. 5, 1997\] and shall apply to items and services furnished on or after such date. By not later than July 1, 1998, the Secretary of Health and Human Services shall first issue regulations to carry out such amendments. Such regulations may be issued so they are effective on an interim basis pending notice and opportunity for public comment. For periods before the effective date of such regulations, such regulations shall recognize elections entered into in good faith in orderto comply with the requirements of section 1821(b) of the Social Security Act \[42 U.S.C. 1395i–5(b)\]."
 

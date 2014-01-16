@@ -6,7 +6,7 @@ Certification of Periodic Financial Reports.—Each periodic report containing f
 
 (b)
 
-Content.—The statement required under subsection (a) shall certify that the periodic report containing the financial statements fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act pf <sup>1</sup> 1934 (15 U.S.C. 78m or 78o(d)) and that informationcontained in the periodic report fairly presents, in all material respects, the financial condition and results of operations of the issuer.
+Content.—The statement required under subsection (a) shall certify that the periodic report containing the financial statements fully complies with the requirements of section 13(a) or 15(d) of the Securities Exchange Act pf <sup>1</sup> 1934 (15 U.S.C. 78m or 78o(d)) and that information contained in the periodic report fairly presents, in all material respects, the financial condition and results of operations of the issuer.
 
 (c)
 
@@ -18,5 +18,5 @@ Criminal Penalties.—Whoever—
 
 (Added Pub. L. 107–204, title IX, §906(a), July 30, 2002, 116 Stat. 806.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "of".</i>
 

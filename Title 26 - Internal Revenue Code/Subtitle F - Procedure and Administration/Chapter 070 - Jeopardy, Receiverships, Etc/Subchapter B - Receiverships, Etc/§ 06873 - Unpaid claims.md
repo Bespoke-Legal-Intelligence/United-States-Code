@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Any portion of a claim for taxes allowed in a receivership proceeding which is unpaid shall bepaid by the taxpayer upon notice and demand from the Secretary after the termination of such proceeding.
+Any portion of a claim for taxes allowed in a receivership proceeding which is unpaid shall be paid by the taxpayer upon notice and demand from the Secretary after the termination of such proceeding.
 
 #### (b) Cross references
 
@@ -16,7 +16,7 @@ Any portion of a claim for taxes allowed in a receivership proceeding which is u
 
 <b>1980</b>—Subsec. (a). Pub. L. 96–589 struck out reference to proceedings under the Bankruptcy Act.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 1980 Amendment
 

@@ -18,11 +18,11 @@ Historical and Revision Notes
 
 June 3, 1916, ch. 134, §85, 39 Stat. 204.
 
-The words “to its National Guard” are inserted for clarity. The word “it” is substituted for the words “all property so replaced or condemned”. The last sentence is substituted for 32:46 (last 8 words).
+The words "to its National Guard" are inserted for clarity. The word "it" is substituted for the words "all property so replaced or condemned". The last sentence is substituted for 32:46 (last 8 words).
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–163 substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State and Territory, Puerto Rico, and the District of Columbia”.
+<b>2006</b>—Pub. L. 109–163 substituted "State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands" for "State and Territory, Puerto Rico, and the District of Columbia".
 
-<b>1988</b>—Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Pub. L. 100–456 struck out "the Canal Zone," after "Puerto Rico,".
 

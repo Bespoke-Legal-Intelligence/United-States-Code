@@ -38,7 +38,7 @@
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203, §1100A(2), (10), substituted “Bureau” for “Board”, “the Bureau” for “the Board”, and “The Bureau” for “The Board ” wherever appearing.
+<b>2010</b>—Pub. L. 111–203, §1100A(2), (10), substituted "Bureau" for "Board", "the Bureau" for "the Board", and "The Bureau" for "The Board " wherever appearing.
 
 #### Effective Date of 2010 Amendment
 
@@ -48,55 +48,55 @@ Amendment by Pub. L. 111–203 effective on the designated transfer date, see se
 
 Section 2605(b)(2) of div. A of Pub. L. 104–208 provided that:
 
-“(A)
+"(A)
 
 In general.—Any regulation of the Board, or any amendment or interpretation of any regulation of the Board issued pursuant to section 187 of the Truth in Lending Act \[15 U.S.C. 1667f\] (as added by paragraph (1) of this subsection), shall become effective on the first October 1 that follows the date of promulgation of that regulation, amendment, or interpretation by not less than 6 months.
 
-“(B)
+"(B)
 
 Longer period.—The Board may, at the discretion of the Board, extend the time period referred to in subparagraph (A) in accordance with subparagraph (C), to permit lessors to adjust their disclosure forms to accommodate the requirements of section 127 \[187\] of the Truth in Lending Act (as added by paragraph (1) of this subsection).
 
-“(C)
+"(C)
 
 Shorter period.—The Board may shorten the time period referred to in subparagraph (A), if the Board makes a specific finding that such action is necessary to comply with the findings of a court or to prevent an unfair or deceptive practice.
 
-“(D)
+"(D)
 
 Compliance before effective date.—Any lessor may comply with any means of disclosure provided for in section 127 \[187\] of the Truth in Lending Act (as added by paragraph (1) of this subsection) before the effective date of such requirement.
 
-“(E)
+"(E)
 
-Definitions.—For purposes of this subsection, the term ‘lessor’ has the same meaning as in section 181 of the Truth in Lending Act \[15 U.S.C. 1667\].”
+Definitions.—For purposes of this subsection, the term 'lessor' has the same meaning as in section 181 of the Truth in Lending Act \[15 U.S.C. 1667\]."
 
 #### Congressional Findings and Declaration of Purposes
 
 Section 2605(a) of div. A of Pub. L. 104–208 provided that:
 
-“(1)
+"(1)
 
 Findings.—The Congress finds that—
 
-&emsp;“(A) competition among the various financial institutions and other firms engaged in the business of consumer leasing is greatest when there is informed use of leasing;
+&emsp;"(A) competition among the various financial institutions and other firms engaged in the business of consumer leasing is greatest when there is informed use of leasing;
 
-&emsp;“(B) the informed use of leasing results from an awareness of the cost of leasing by consumers; and
+&emsp;"(B) the informed use of leasing results from an awareness of the cost of leasing by consumers; and
 
-&emsp;“(C) there has been a continued trend toward leasing automobiles and other durable goods for consumer use as an alternative to installment credit sales and that leasing product advances have occurred such that lessors have been unable to provide consistent industry-wide disclosures to fully account for the competitive progress that has occurred.
+&emsp;"(C) there has been a continued trend toward leasing automobiles and other durable goods for consumer use as an alternative to installment credit sales and that leasing product advances have occurred such that lessors have been unable to provide consistent industry-wide disclosures to fully account for the competitive progress that has occurred.
 
-“(2)
+"(2)
 
 Purposes.—The purposes of this section are—
 
-&emsp;“(A) to assure a simple, meaningful disclosure of leasing terms so that the consumer will be able to compare more readily the various leasing terms available to the consumer and avoid the uninformed use of leasing, and to protect the consumer against inaccurate and unfair leasing practices;
+&emsp;"(A) to assure a simple, meaningful disclosure of leasing terms so that the consumer will be able tocompare more readily the various leasing terms available to the consumer and avoid the uninformed use of leasing, and to protect the consumer against inaccurate and unfair leasing practices;
 
-&emsp;“(B) to provide for adequate cost disclosures that reflect the marketplace without impairing competition and the development of new leasing products; and
+&emsp;"(B) to provide for adequate cost disclosures that reflect the marketplace without impairing competition and the development of new leasing products; and
 
-&emsp;“(C) to provide the Board with the regulatory authority to assure a simplified, meaningful definition and disclosure of the terms of certain leases of personal property for personal, family, or household purposes so as to—
+&emsp;"(C) to provide the Board with the regulatory authority to assure a simplified, meaningful definition and disclosure of the terms of certain leases of personal property for personal, family, or household purposes so as to—
 
-&emsp;&emsp;“(i) enable the lessee to compare more readily the various lease terms available to the lessee;
+&emsp;&emsp;"(i) enable the lessee to compare more readily the various lease terms available to the lessee;
 
-&emsp;&emsp;“(ii) enable comparison of lease terms with credit terms, as appropriate; and
+&emsp;&emsp;"(ii) enable comparison of lease terms with credit terms, as appropriate; and
 
-&emsp;&emsp;“(iii) assure meaningful and accurate disclosures of lease terms in advertisements.”
+&emsp;&emsp;"(iii) assure meaningful and accurate disclosures of lease terms in advertisements."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “this”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "this".</i>
 

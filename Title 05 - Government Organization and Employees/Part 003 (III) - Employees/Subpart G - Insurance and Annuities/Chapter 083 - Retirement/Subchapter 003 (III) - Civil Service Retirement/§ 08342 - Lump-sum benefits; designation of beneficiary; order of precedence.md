@@ -8,7 +8,7 @@
 
 &emsp;(2) files an application with the Office of Personnel Management for payment of the lump-sum credit;
 
-&emsp;(3) is not reemployed in a position in which he is subject to this subchapter, or chapter 84of this title, at the time he files the application; and
+&emsp;(3) is not reemployed in a position in which he is subject to this subchapter, or chapter 84 of this title, at the time he files the application; and
 
 &emsp;(4) will not become eligible to receive an annuity within thirty-one days after filing the application,
 
@@ -70,7 +70,7 @@
 
 (j)(1)(A) Payment of the lump-sum credit under subsection (a) may be made only if the spouse, if any, and any former spouse of the employee or Member are notified of the employee or Member's application.
 
-(B) The Office shall prescribe regulations under which the lump-sum credit shall not bepaid without the consent of a spouse or former spouse of the employee or Member where the Office has received such additional information and documentation as the Office may require that—
+(B) The Office shall prescribe regulations under which the lump-sum credit shall not be paid without the consent of a spouse or former spouse of the employee or Member where the Office has received such additional information and documentation as the Office may require that—
 
 &emsp;(i) a court order bars payment of the lump-sum credit in order to preserve the court's ability to award an annuity under section 8341(h) or section 8345(j); or
 

@@ -38,13 +38,13 @@ Section was formerly classified to section 485 of Title 5 prior to the general r
 
 #### Amendments
 
-<b>1957</b>—Pub. L. 85–56 substituted “Bounty-lands” for “Pensions and bounty-lands” in par. 3.
+<b>1957</b>—Pub. L. 85–56 substituted "Bounty-lands" for "Pensions and bounty-lands" in par. 3.
 
 #### Change of Name
 
-“United States Bureau of Mines” substituted for “Bureau of Mines” in par. (5) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining.
+"United States Bureau of Mines" substituted for "Bureau of Mines" in par. (5) pursuant to section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining.
 
-“United States Geological Survey” substituted for “Geological Survey” in par. 9 pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
+"United States Geological Survey" substituted for "Geological Survey" in par. 9 pursuant to provision of title I of Pub. L. 102–154, set out as a note under section 31 of this title.
 
 #### Effective Date of 1957 Amendment
 
@@ -60,7 +60,7 @@ The following subjects of which Secretary of the Interior was charged with super
 
 Census—Transferred to Department of Commerce and Labor by act Feb. 14, 1903, ch. 552, §4, 32 Stat. 826. (See Title 13, Census.)
 
-Pensions—Transferred to Veterans’ Administration by Ex. Ord. No. 5398 of July 21, 1930, pursuant to act July 3, 1930, ch. 863, §1, 46 Stat. 1016. (See Title 38, Veterans’ Benefits.)
+Pensions—Transferred to Veterans' Administration by Ex. Ord. No. 5398 of July 21, 1930, pursuant to act July 3, 1930, ch. 863, §1, 46 Stat. 1016. (See Title 38, Veterans' Benefits.)
 
 Patents—Transferred to Department of Commerce by Ex. Ord. No. 4175 of Mar. 17, 1925, pursuant to act Feb. 14, 1903, ch. 552 §12, 32 Stat. 830. (See Title 35, Patents.)
 
@@ -70,7 +70,7 @@ Education—Transferred to Federal Security Agency by Reorg. Plan No. I of 1939,
 
 Government Hospital for the Insane—Designated St. Elizabeths Hospital by act July 1, 1916, ch. 209, §1, 39 Stat. 309—Transferred to Federal Security Agency by Reorg. Plan No. IV of 1940, §11, 5 F.R. 2422, 54 Stat. 1236, set out in the Appendix to Title 5, Government Organization and Employees. Federal Security Agency abolished by section 8 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, and its functions transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5. Department of Health, Education, and Welfare redesignated Department of Health and Human Services by section 3508(b) of Title 20, Education.
 
-Columbia Asylum for the Deaf and Dumb—Designated “Columbia Institution for the Deaf” by act Mar. 4, 1911, ch. 285, §1, 36 Stat. 1422, thereafter “Gallaudet College” by act June 18, 1954, ch. 324, §1, 68 Stat. 265, and subsequently “Gallaudet University” by Pub. L. 99–371, title I, §101(a), Aug. 4, 1986, 100 Stat. 781.—Transferred to Federal Security Agency by Reorg. Plan No. IV of 1940, §11, 5 F.R. 2422, 54 Stat. 1236. Federal Security Agency abolished by section 8 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees, and functions transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5. Functions of Department of Health, Education, and Welfare (relating to education) transferred to Secretary of Education by section 3441 of Title 20, Education. See, also, section 4301 et seq. of Title 20.
+Columbia Asylum for the Deaf and Dumb—Designated "Columbia Institution for the Deaf" by act Mar. 4, 1911, ch. 285, §1, 36 Stat. 1422, thereafter "Gallaudet College" by act June 18, 1954, ch. 324, §1, 68 Stat. 265, and subsequently "Gallaudet University" by Pub. L. 99–371, title I, §101(a), Aug. 4, 1986, 100 Stat. 781.—Transferred to Federal Security Agency by Reorg. Plan No. IV of 1940, §11, 5 F.R. 2422, 54 Stat. 1236. Federal Security Agency abolished by section 8 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5, Government Organization and Employees, and functions transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out in the Appendix to Title 5. Functions of Department of Health, Education, and Welfare (relating to education) transferred to Secretary of Education by section 3441 of Title 20, Education. See, also, section 4301 et seq. of Title 20.
 
 The following subjects and agencies were placed under supervision of Secretary of the Interior by acts and executive orders cited thereto:
 
@@ -88,7 +88,7 @@ Bureau of Reclamation—Act June 17, 1902, ch. 1093, 32 Stat. 388.
 
 Power marketing functions of Bureau of Reclamation, including construction, operation, and maintenance of transmission lines and attendant facilities, transferred to Secretary of Energy by section 7152(a)(1)(D), (3) of Title 42, The Public Health and Welfare, and to be exercised by Secretary through a separate Administration within Department of Energy.
 
-Division of Territories and Island Possessions—Ex. Ord. No. 6726 of May 29, 1934. Functions of Division transferred to Office of Territories established July 28, 1950, pursuant to Secretarial Order No. 2577. Office of Territories ceased to exist on June 30, 1971, and its functions assigned to Deputy Assistant Secretary for Territorial Affairs in Office of the Assistant Secretary for Public Land Management by Secretarial Order No. 2942, eff. July 1, 1971. Subsequently, functions and responsibilities of Deputy Assistant Secretary were assumed by Office of Territorial Affairs, headed by a Director, established by Secretarial Order No. 2951 of Feb. 6, 1973. Functions and responsibilities of Office of Territorial Affairs transferred to Office of Assistant Secretary for Territorial and International Affairs established by Secretarial Order No. 3046 of Feb. 14, 1980, as amended May 14, 1980.
+Division of Territories and Island Possessions—Ex. Ord. No. 6726 of May 29, 1934. Functions of Division transferred to Office of Territories established July 28,1950, pursuant to Secretarial Order No. 2577. Office of Territories ceased to exist on June 30, 1971, and its functions assigned to Deputy Assistant Secretary for Territorial Affairs in Office of the Assistant Secretary for Public Land Management by Secretarial Order No. 2942, eff. July 1, 1971. Subsequently, functions and responsibilities of Deputy Assistant Secretary were assumed by Office of Territorial Affairs, headed by a Director, established by Secretarial Order No. 2951 of Feb. 6, 1973. Functions and responsibilities of Office of Territorial Affairs transferred to Office of Assistant Secretary for Territorial and International Affairs established by Secretarial Order No. 3046 of Feb. 14, 1980, as amended May 14, 1980.
 
 Fish and Wildlife Service—1939 Reorg. Plan No. II, §4(e), (f), 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5, Government Organization and Employees. Fish and Wildlife Service, created by Reorg. Plan No. III of 1940, was succeeded by United States Fish and Wildlife Service established by act Aug. 8, 1956, ch. 1036, §3, 70 Stat. 1119. See section 742b of Title 16, Conservation.
 
@@ -98,7 +98,7 @@ Grazing—Act June 28, 1934, ch. 865, 48 Stat. 1269.
 
 National Park Service—Act Aug. 25, 1916, ch. 408, 39 Stat. 535.
 
-Office of Consumers’ Counsel of National Bituminous Coal Commission—Abolished and functions transferred to office of Solicitor of Department of the Interior, by Reorg. Plan No. II of 1939, §4(c), eff. July 1, 1939, set out in the Appendix to Title 5, Government Organization and Employees. Its functions, records, property, and personnel were subsequently transferred from Solicitor to Bituminous Coal Consumers’ Counsel.
+Office of Consumers' Counsel of National Bituminous Coal Commission—Abolished and functions transferred to office of Solicitor of Department of the Interior, by Reorg. Plan No. II of 1939, §4(c), eff. July 1, 1939, set out in the Appendix to Title 5, Government Organization and Employees. Its functions, records, property, and personnel were subsequently transferred from Solicitor to Bituminous Coal Consumers' Counsel.
 
 Petroleum conservation—Section 3 of Ex. Ord. No. 10752, eff. Feb. 12, 1958, 23 F.R. 973, superseded Ex. Ord. No. 6979, eff. Feb. 28, 1935, Ex. Ord. No. 7756, eff. Dec. 1, 1937, 2 F.R. 2664, and Ex. Ord. No. 9732, eff. June 3, 1946, 11 F.R. 5985, formerly classified as notes to this section.
 
@@ -112,23 +112,23 @@ Pub. L. 95–134, title IV, §401, Oct. 15, 1977, 91 Stat. 1163, directed the Se
 
 #### Study of Health and Safety Conditions in Metal and Nonmetallic Mines
 
-Pub. L. 87–300, Sept. 26, 1961, 75 Stat. 649, directed Secretary of the Interior to make a study on health and safety conditions in metal and nonmetallic mines, excluding coal and lignite mines, which study was to cover causes of injuries and health hazards, the relative effectiveness of voluntary versus mandatory reporting of accident statistics, the relative contribution to safety of inspection programs embodying right-of-entry and right-of-entry with enforcement authority, the effectiveness of health and safety training programs, thecost of an effective safety program, and the scope and adequacy of State mine safety laws, and to submit his findings, accompanied with recommendations for an effective safety program for metal and nonmetallic mines, excluding coal or lignite mines, to Congress not later then two years after Sept. 26, 1961.
+Pub. L. 87–300, Sept. 26, 1961, 75 Stat. 649, directed Secretary of the Interior to make a study on health and safety conditions in metal and nonmetallic mines, excluding coal and lignite mines, which study was to cover causes of injuries and health hazards, the relative effectiveness of voluntary versus mandatory reporting of accident statistics, the relative contribution to safety of inspection programs embodying right-of-entry and right-of-entry with enforcement authority, the effectiveness of health and safety training programs, the cost of an effective safety program, and the scope and adequacy of State mine safety laws, and to submit his findings, accompanied with recommendations for an effective safety program for metal and nonmetallic mines, excluding coal or lignite mines, to Congress not later then two years after Sept. 26, 1961.
 
 #### Surveys, Investigations and Research; Appropriations
 
-Pub. L. 85–743, Aug. 23, 1958, 72 Stat. 837, provided: “That the authority vested in the Secretary of the Interior, to perform surveys, investigations, and research in geology, biology, minerals and water resources, and mapping is hereby extended to include Antarctica and the Trust Territory of the Pacific Islands.
+Pub. L. 85–743, Aug. 23, 1958, 72 Stat. 837, provided: "That the authority vested in the Secretary of the Interior, to perform surveys, investigations, and research in geology, biology, minerals and water resources, and mapping is hereby extended to include Antarctica and the Trust Territory of the Pacific Islands.
 
-“
+"
 
 Sec. 2. The Secretary of the Interior is authorized to compile maps of Antarctica from materials already available and from such additional material as may result from the several expeditions in support of the International Geophysical Year.
 
-“
+"
 
 Sec. 3. Nothing in this Act shall be construed to authorize the absorption or modification of, or change in any way, the responsibility of any other department or agency of the United States, including the performance of surveys, mapping, and compilation of maps.
 
-“
+"
 
-Sec. 4. There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act.”
+Sec. 4. There are hereby authorized to be appropriated such sums as may be necessary to carry out the purposes of this Act."
 
 \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 
@@ -144,33 +144,33 @@ Geographic information is critical to promote economic development, improve our 
 
 NOW, THEREFORE, by the authority vested in me as President by the Constitution and the laws of the United States of America; and to implement the recommendations of the National Performance Review; to advance the goals of the National Information Infrastructure; and to avoid wasteful duplication of effort and promote effective and economical management of resources by Federal, State, local, and tribal governments, it is ordered as follows:
 
-Section 1. DEFINITIONS. (a) “National Spatial Data Infrastructure” (“NSDI”) means the technology, policies, standards, and human resources necessary to acquire, process, store, distribute, and improve utilization of geospatial data.
+Section 1. DEFINITIONS. (a) "National Spatial Data Infrastructure" ("NSDI") means the technology, policies, standards, and human resources necessary to acquire, process, store, distribute, and improve utilization of geospatial data.
 
-(b) “Geospatial data” means information that identifies the geographic location and characteristics of natural or constructed features and boundaries on the earth. This information may be derived from, among other things, remote sensing, mapping, and surveying technologies. Statistical data may be included in this definition at the discretion of the collecting agency.
+(b) "Geospatial data" means information that identifies the geographic location and characteristics of natural or constructed features and boundaries on the earth. This information may be derived from, among other things, remote sensing, mapping, and surveying technologies. Statistical data may be included in this definition at the discretion of the collecting agency.
 
-(c) The “National Geospatial Data Clearinghouse” means a distributed network of geospatial data producers, managers, and users linked electronically.
+(c) The "National Geospatial Data Clearinghouse" means a distributed network of geospatial data producers, managers, and users linked electronically.
 
-Sec. 2. EXECUTIVE BRANCH LEADERSHIP FOR DEVELOPMENT OF THE COORDINATED NATIONAL SPATIAL DATA INFRASTRUCTURE. (a) The Federal Geographic Data Committee (“FGDC”), established by the Office of Management and Budget (“OMB”) Circular No. A–16 (“Coordination of Surveying, Mapping, and Related Spatial Data Activities”) and chaired by the Secretary of the Department of the Interior (“Secretary”) or the Secretary's designee, shall coordinate the Federal Government's development of the NSDI.
+Sec. 2. EXECUTIVE BRANCH LEADERSHIP FOR DEVELOPMENT OF THE COORDINATED NATIONAL SPATIAL DATA INFRASTRUCTURE. (a) The FederalGeographic Data Committee ("FGDC"), established by the Office of Management and Budget ("OMB") Circular No. A–16 ("Coordination of Surveying, Mapping, and Related Spatial Data Activities") and chaired by the Secretary of the Department of the Interior ("Secretary") or the Secretary's designee, shall coordinate the Federal Government's development of the NSDI.
 
 (b) Each member agency shall ensure that its representative on the FGDC holds a policy-level position.
 
-(c) Executive branch departments and agencies (“agencies”) that have an interest in the development of the NSDI are encouraged to join the FGDC.
+(c) Executive branch departments and agencies ("agencies") that have an interest in the development of the NSDI are encouraged to join the FGDC.
 
 (d) This Executive order is intended to strengthen and enhance the general policies described in OMB Circular No. A–16. Each agency shall meet its respective responsibilities under OMB Circular No. A–16.
 
 (e) The FGDC shall seek to involve State, local, and tribal governments in the development and implementation of the initiatives contained in this order. The FGDC shall utilize the expertise of academia, the private sector, professional societies, and others as necessary to aid in the development and implementation of the objectives of this order.
 
-Sec. 3. DEVELOPMENT OF A NATIONAL GEOSPATIAL DATA CLEARINGHOUSE. (a) <i>Establishing a National Geospatial Data Clearinghouse</i>. The Secretary, through the FGDC, and in consultation with, as appropriate, State, local, and tribal governments and other affected parties, shall take steps within 6 months of the date of this order, to establish an electronic National Geospatial Data Clearinghouse (“Clearinghouse”) for the NSDI. The Clearinghouse shall be compatible with the National Information Infrastructure to enable integration with that effort.
+Sec. 3. DEVELOPMENT OF A NATIONAL GEOSPATIAL DATA CLEARINGHOUSE. (a) <i>Establishing a National Geospatial Data Clearinghouse</i>. The Secretary, through the FGDC, and in consultation with, as appropriate, State, local, and tribal governments and other affected parties, shall take steps within 6 months of the date of this order, to establish an electronic National Geospatial Data Clearinghouse ("Clearinghouse") for the NSDI. The Clearinghouse shall be compatible with the National Information Infrastructure to enable integration with that effort.
 
 (b) <i>Standardized Documentation of Data</i>. Beginning 9 months from the date of this order, each agency shall document all new geospatial data it collects or produces, either directly or indirectly, using the standard under development by the FGDC, and make that standardized documentation electronically accessible to the Clearinghouse network. Within 1 year of the date of this order, agencies shall adopt a schedule, developed in consultation with the FGDC, for documenting, to the extent practicable, geospatial data previously collected or produced, either directly or indirectly, and making that data documentation electronically accessible to the Clearinghouse network.
 
-(c) <i>Public Access to Geospatial Data</i>. Within 1 year of the date of this order, each agency shall adopt a plan, in consultation with the FGDC, establishing procedures to make geospatial data available to the public, to the extent permitted by law, current policies, and relevant OMB circulars, including OMB Circular No. A–130 (“Management of Federal Information Resources”) and any implementing bulletins.
+(c) <i>Public Access to Geospatial Data</i>. Within 1 year of the date of this order, each agency shall adopt a plan, in consultation with the FGDC, establishing procedures to make geospatial data available to the public, to the extent permitted by law, current policies, and relevant OMB circulars, including OMB Circular No. A–130 ("Management of Federal Information Resources") and any implementing bulletins.
 
 (d) <i>Agency Utilization of the Clearinghouse</i>. Within 1 year of the date of this order, each agency shall adopt internal procedures to ensure that the agency accesses the Clearinghouse before it expends Federal funds to collect or produce new geospatial data, to determine whether the information has already been collected by others, or whether cooperative efforts to obtain the data are possible.
 
 (e) <i>Funding</i>. The Department of the Interior shall provide funding for the Clearinghouse to cover the initial prototype testing, standards development, and monitoring of the performance of the Clearinghouse. Agencies shall continue to fund their respective programs that collect and produce geospatial data; such data is then to be made part of the Clearinghouse for wider accessibility.
 
-Sec. 4. DATA STANDARDS ACTIVITIES. (a) <i>General FGDC Responsibility</i>. The FGDC shall develop standards for implementing the NSDI, in consultation and cooperation with State, local, and tribal governments, the private and academic sectors, and, to the extent feasible, the international community, consistent with OMB Circular No. A–119 (“Federal Participation in the Development and Use of Voluntary Standards”), and other applicable law and policies.
+Sec. 4. DATA STANDARDS ACTIVITIES. (a) <i>General FGDC Responsibility</i>. The FGDC shall develop standards for implementing the NSDI, in consultation and cooperation with State, local, and tribal governments, the private and academic sectors, and, to the extent feasible, the international community, consistent with OMB Circular No. A–119 ("Federal Participation in the Development and Use of Voluntary Standards"), and other applicable law and policies.
 
 (b) <i>Standards for Which Agencies Have Specific Responsibilities</i>. Agencies assigned responsibilities for data categories by OMB Circular No. A–16 shall develop, through the FGDC, standards for those data categories, so as to ensure that the data produced by all agencies are compatible.
 
@@ -178,11 +178,11 @@ Sec. 4. DATA STANDARDS ACTIVITIES. (a) <i>General FGDC Responsibility</i>. The F
 
 (d) <i>Agency Adherence to Standards</i>. Federal agencies collecting or producing geospatial data, either directly or indirectly (e.g. through grants, partnerships, or contracts with other entities), shall ensure, prior to obligating funds for such activities, that data will be collected in a manner that meets all relevant standards adopted through the FGDC process.
 
-Sec. 5. NATIONAL DIGITAL GEOSPATIAL DATA FRAMEWORK. In consultation with State, local, and tribal governments and within 9 months of the date of this order, the FGDC shall submit a plan and schedule to OMB for completing the initial implementation of a national digital geospatial data framework (“framework”) by January 2000 and for establishing a process of ongoing data maintenance. The framework shall include geospatial data that are significant, in the determination of the FGDC, to a broad variety of users within any geographic area or nationwide. At a minimum, the plan shall address how the initial transportation, hydrology, and boundary elements of the framework might be completed by January 1998 in order to support the decennial census of 2000.
+Sec. 5. NATIONAL DIGITAL GEOSPATIAL DATA FRAMEWORK. In consultation with State, local, and tribal governments and within 9 months of the date of this order, the FGDC shall submit a plan and schedule to OMB for completing the initial implementation of a national digital geospatial data framework ("framework") by January 2000 and for establishing a process of ongoing data maintenance. The framework shall include geospatial data that are significant, in the determination of the FGDC, to a broad variety of users within any geographic area or nationwide. At a minimum, the plan shall address how the initial transportation, hydrology, and boundary elements of the framework might be completed by January 1998 in order to support the decennial census of 2000.
 
 Sec. 6. PARTNERSHIPS FOR DATA ACQUISITION. The Secretary, under the auspices of the FGDC, and within 9 months of the date of this order, shall develop, to the extent permitted by law, strategies for maximizing cooperative participatory efforts with State, local, and tribal governments, the private sector, and other nonfederal organizations to share costs and improve efficiencies of acquiring geospatial data consistent with this order.
 
-Sec. 7. SCOPE. (a) For the purposes of this order, the term “agency” shall have the same meaning as the term “Executive agency” in 5 U.S.C. 105, and shall include the military departments and components of the Department of Defense.
+Sec. 7. SCOPE. (a) For the purposes of this order, the term "agency" shall have the same meaning as the term "Executive agency" in 5 U.S.C. 105, and shall include the military departments and components of the Department of Defense.
 
 (b) The following activities are exempt from compliance with this order:
 

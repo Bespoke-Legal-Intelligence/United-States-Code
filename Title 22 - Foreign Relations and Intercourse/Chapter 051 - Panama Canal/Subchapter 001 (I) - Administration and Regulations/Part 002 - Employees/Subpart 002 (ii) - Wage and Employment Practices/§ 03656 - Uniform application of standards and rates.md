@@ -6,5 +6,5 @@ The standards established pursuant to section 3653 of this title and the rates o
 
 #### Amendments
 
-<b>1997</b>—Pub. L. 105–85 substituted “section 3642” for “section 3655”.
+<b>1997</b>—Pub. L. 105–85 substituted "section 3642" for "section 3655".
 

@@ -4,7 +4,7 @@
 
 It is the purpose of this section—
 
-&emsp;(1) to promote more accountability with respect to preparation for higher education, the21st century workforce, and the Armed Forces, by aligning—
+&emsp;(1) to promote more accountability with respect to preparation for higher education, the 21st century workforce, and the Armed Forces, by aligning—
 
 &emsp;&emsp;(A) student knowledge, student skills, State academic content standards and assessments, and curricula, in elementary and secondary education, especially with respect to mathematics, science, reading, and, where applicable, engineering and technology; with
 
@@ -30,11 +30,11 @@ In this section:
 
 #### (1) P–16 education
 
-&emsp;The term “P–16 education” means the educational system from preschool through the conferring of a baccalaureate degree.
+&emsp;The term "P–16 education" means the educational system from preschool through the conferring of a baccalaureate degree.
 
 #### (2) Statewide partnership
 
-&emsp;The term “statewide partnership” means a partnership that—
+&emsp;The term "statewide partnership" means a partnership that—
 
 &emsp;&emsp;(A) shall include—
 
@@ -42,7 +42,7 @@ In this section:
 
 &emsp;&emsp;&emsp;(ii) the heads of the State systems for public higher education, or, if such a position does not exist, not less than 1 representative of a public degree-granting institution of higher education;
 
-&emsp;&emsp;&emsp;(iii) a representative of the agencies in the State that administer Federal or State-funded early childhood education programs;
+&emsp;&emsp;&emsp;(iii) a representative of the agencies in the State that administer Federal orState-funded early childhood education programs;
 
 &emsp;&emsp;&emsp;(iv) not less than 1 representative of a public community college;
 
@@ -118,7 +118,7 @@ The Secretary is authorized to award grants, on a competitive basis, to States t
 
 &emsp;&emsp;&emsp;(iv) identifying and addressing teacher certification needs; or
 
-&emsp;&emsp;&emsp;(v) incorporating 21st century learning skills into the State plan, which skills shall include critical thinking, problem solving, communication, collaboration, global awareness, and business and financial literacy.
+&emsp;&emsp;&emsp;(v) incorporating 21st century learning skills into the State plan, which skillsshall include critical thinking, problem solving, communication, collaboration, global awareness, and business and financial literacy.
 
 #### (2) Grants for statewide P–16 education data systems
 
@@ -220,7 +220,7 @@ The Secretary is authorized to award grants, on a competitive basis, to States t
 
 &emsp;&emsp;In implementing the statewide P–16 education data system, the State shall—
 
-&emsp;&emsp;&emsp;(i) identify factors that correlate to students’ ability to successfully engage in and complete postsecondary-level general education coursework without the need for prior developmental coursework;
+&emsp;&emsp;&emsp;(i) identify factors that correlate to students' ability to successfully engage in and complete postsecondary-level general education coursework without the need for prior developmental coursework;
 
 &emsp;&emsp;&emsp;(ii) identify factors to increase the percentage of low-income and minority students who are academically prepared to enter and successfully complete postsecondary-level general education coursework; and
 
@@ -282,9 +282,9 @@ A prior section 6201 of Pub. L. 110–69 was classified to section 9851 of this 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (j). Pub. L. 111–358, §1003(c), amended subsec. (j) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out this section $120,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal year 2009.”
+<b>2011</b>—Subsec. (j). Pub. L. 111–358, §1003(c), amended subsec. (j) generally. Prior to amendment, text read as follows: "There are authorized to be appropriated to carry out this section $120,000,000 for fiscal year 2008 and such sums as may be necessary for fiscal year 2009."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “to enable”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "to enable".</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -20,7 +20,7 @@ The Chief Medical Officer shall have the primary responsibility within the Depar
 
 &emsp;(4) serving as the Department's primary point of contact with the Department of Agriculture, the Department of Defense, the Department of Health and Human Services, the Department of Transportation, the Department of Veterans Affairs, and other Federal departments or agencies, on medical and public health issues;
 
-&emsp;(5) serving as the Department's primary point of contact for State, local, and tribalgovernments, the medical community, and others within and outside the Department, with respect to medical and public health matters;
+&emsp;(5) serving as the Department's primary point of contact for State, local, and tribal governments, the medical community, and others within and outside the Department, with respect to medical and public health matters;
 
 &emsp;(6) discharging, in coordination with the Under Secretary for Science and Technology, the responsibilities of the Department related to Project Bioshield; and
 

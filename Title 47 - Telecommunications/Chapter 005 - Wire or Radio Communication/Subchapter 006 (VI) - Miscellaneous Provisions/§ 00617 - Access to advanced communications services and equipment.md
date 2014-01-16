@@ -48,7 +48,7 @@ Each provider of advanced communications services has the duty not to install ne
 
 &emsp;&emsp;(C) determine the obligations under this section of manufacturers, service providers, and providers of applications or services accessed over service provider networks; and
 
-&emsp;&emsp;(D) not mandate technical standards, except that the Commission may adopt technical standards as a safe harbor for such compliance if necessary to facilitate the manufacturers’ and service providers’ compliance with sections <sup>2</sup> (a) through (c).
+&emsp;&emsp;(D) not mandate technical standards, except that the Commission may adopt technical standards as a safe harbor for such compliance if necessary to facilitate the manufacturers' and service providers' compliance with sections <sup>2</sup> (a) through (c).
 
 #### (2) Prospective guidelines
 
@@ -60,7 +60,7 @@ The requirements of this section shall not apply to any equipment or services, i
 
 #### (g) Achievable defined
 
-For purposes of this section and section 619 of this title, the term “achievable” means with reasonable effort or expense, as determined by the Commission. In determining whether the requirements of a provision are achievable, the Commission shall consider the following factors:
+For purposes of this section and section 619 of this title, the term "achievable" means with reasonable effort or expense, as determined by the Commission. In determining whether the requirements of a provision are achievable, the Commission shall consider the following factors:
 
 &emsp;(1) The nature and cost of the steps needed to meet the requirements of this section with respect to the specific equipment or service in question.
 
@@ -96,11 +96,11 @@ This section shall not be construed to require a manufacturer of equipment used 
 
 #### Amendments
 
-<b>2010</b>—Subsec. (d). Pub. L. 111–265, §2(1), struck out “do not” before “impede accessibility”.
+<b>2010</b>—Subsec. (d). Pub. L. 111–265, §2(1), struck out "do not" before "impede accessibility".
 
-Subsec. (e)(1)(D). Pub. L. 111–265, §2(2), substituted “facilitate” for “facilities”.
+Subsec. (e)(1)(D). Pub. L. 111–265, §2(2), substituted "facilitate" for "facilities".
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “subsections”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "subsections".</i>
 

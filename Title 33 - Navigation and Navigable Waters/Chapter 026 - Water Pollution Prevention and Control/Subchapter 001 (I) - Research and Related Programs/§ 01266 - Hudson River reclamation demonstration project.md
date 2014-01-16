@@ -10,7 +10,7 @@
 
 <b>2002</b>—Subsec. (b). Pub. L. 107–303 repealed Pub. L. 105–362, §501(d)(2)(B). See 1998 Amendment note below.
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–362, §501(d)(2)(B), which directed the substitution of “section 1375 of this title” for “section 1375(b) of this title” in penultimate sentence, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+<b>1998</b>—Subsec. (b). Pub. L. 105–362, §501(d)(2)(B), which directed the substitution of "section 1375 of this title" for "section 1375(b) of this title" in penultimate sentence, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
 #### Effective Date of 2002 Amendment
 

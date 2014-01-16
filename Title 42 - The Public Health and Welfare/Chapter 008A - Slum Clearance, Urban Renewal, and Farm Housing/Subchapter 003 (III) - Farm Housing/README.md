@@ -25,7 +25,7 @@
 - [&sect; 01487 - Rural Housing Insurance Fund](%C2%A7%2001487%20-%20Rural%20Housing%20Insurance%20Fund.md)
 - [&sect; 01488 - Repealed. Pub. L. 91&#8211;152, title IV, &sect;413(e)(3), Dec. 24, 1969, 83 Stat. 399](%C2%A7%2001488%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93152%2C%20title%20IV%2C%20%C2%A7413%28e%29%283%29%2C%20Dec.%2024%2C%201969%2C%2083%20Stat.%20399.md)
 - [&sect; 01489 - Transfer of excess funds out of Rural Housing Insurance Fund](%C2%A7%2001489%20-%20Transfer%20of%20excess%20funds%20out%20of%20Rural%20Housing%20Insurance%20Fund.md)
-- [&sect; 01490 - &#8220;Rural&#8221; and &#8220;rural area&#8221; defined](%C2%A7%2001490%20-%20%E2%80%9CRural%E2%80%9D%20and%20%E2%80%9Crural%20area%E2%80%9D%20defined.md)
+- [&sect; 01490 - Rural and rural area defined](%C2%A7%2001490%20-%20Rural%20and%20rural%20area%20defined.md)
 - [&sect; 01490a - Loans to provide occupant owned, rental, and cooperative housing for low and moderate income, elderly or handicapped persons or families](%C2%A7%2001490a%20-%20Loans%20to%20provide%20occupant%20owned%2C%20rental%2C%20and%20cooperative%20housing%20for%20low%20and%20moderate%20income%2C%20elderly%20or%20handicapped%20persons%20or%20families.md)
 - [&sect; 01490b - Housing for rural trainees](%C2%A7%2001490b%20-%20Housing%20for%20rural%20trainees.md)
 - [&sect; 01490c - Mutual and self-help housing](%C2%A7%2001490c%20-%20Mutual%20and%20self-help%20housing.md)

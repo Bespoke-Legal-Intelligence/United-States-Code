@@ -32,13 +32,13 @@ If, within twenty years after completion of construction of a facility which has
 
 No construction assisted with funds under this section shall be used for religious worship or a sectarian activity or for a school or department of divinity.
 
-#### (f) “Construction” and “academic facilities” defined
+#### (f) "Construction" and "academic facilities" defined
 
 For the purposes of this section—
 
-&emsp;(1) the term “construction” includes reconstruction or renovation (as such terms are defined in the first sentence of subparagraph (B) of section 1132e–1(2) <sup>1</sup> of title 20); and
+&emsp;(1) the term "construction" includes reconstruction or renovation (as such terms are defined in the first sentence of subparagraph (B) of section 1132e–1(2) <sup>1</sup> of title 20); and
 
-&emsp;(2) the term “academic facilities” has the meaning provided such term under section 1132e–1(1) <sup>1</sup> of title 20.
+&emsp;(2) the term "academic facilities" has the meaning provided such term under section 1132e–1(1) <sup>1</sup> of title 20.
 
 (Pub. L. 95–471, title I, §113, formerly §112, Oct. 17, 1978, 92 Stat. 1329; renumbered §113 and amended Pub. L. 98–192, §§4(a)(1), 12, Dec. 1, 1983, 97 Stat. 1336, 1340; Pub. L. 99–428, §6(b), Sept. 30, 1986, 100 Stat. 983; Pub. L. 105–244, title I, §102(a)(8)(C), title IX, §901(b)(5), (7), (12), Oct. 7, 1998, 112 Stat. 1619, 1828.)
 
@@ -48,19 +48,19 @@ Section 1132e–1 of title 20, referred to in subsec. (f), was omitted in the ge
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–244, §901(b)(5), substituted “college or university” for “community college”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–244, §901(b)(5), substituted "college or university" for "community college".
 
-Subsec. (b). Pub. L. 105–244, §901(b)(5), substituted “college or university” for “community college” in introductory provisions.
+Subsec. (b). Pub. L. 105–244, §901(b)(5), substituted "college or university" for "community college" in introductory provisions.
 
-Subsec. (b)(2). Pub. L. 105–244, §§102(a)(8)(C), 901(b)(7), substituted “section 1001” for “section 1141(a)” and “such college or university” for “such college”.
+Subsec. (b)(2). Pub. L. 105–244, §§102(a)(8)(C), 901(b)(7), substituted "section 1001" for "section 1141(a)" and "such college or university" for "such college".
 
-Subsec. (c)(1). Pub. L. 105–244, §901(b)(5), substituted “college or university” for “community college” in two places.
+Subsec. (c)(1). Pub. L. 105–244, §901(b)(5), substituted "college or university" for "community college" in two places.
 
-Subsec. (c)(2). Pub. L. 105–244, §901(b)(5), (7), (12), in introductory provisions, substituted “controlled college or university” for “controlled community college” and “such college or university” for “such college” and, in subpar. (E), substituted “the college or university” for “the college”.
+Subsec. (c)(2). Pub. L. 105–244, §901(b)(5), (7), (12), in introductory provisions, substituted "controlled college or university" for "controlled community college" and "such college or university" for "such college" and, in subpar. (E), substituted "the college or university" for "the college".
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–428 substituted “Secretary under” for “Administrator of General Services under”.
+<b>1986</b>—Subsec. (a). Pub. L. 99–428 substituted "Secretary under" for "Administrator of General Services under".
 
-<b>1983</b>—Pub. L. 98–192 amended section generally, substituting provision authorizing grants for construction of new facilities, establishing eligibility requirements for grants, maximum amounts of grants, waiver of amount restriction, results of failure to use facilities in an approved manner, and prohibition of religious use of such facilities, and defining “construction” and “academic facilities” for provision requiring Secretary of the Interior to conduct a detailed survey and study of academic facilities needs of tribally controlled community colleges and report to Congress not later than Nov. 1, 1979, the results of such survey and study.
+<b>1983</b>—Pub. L. 98–192 amended section generally, substituting provision authorizing grants for construction of new facilities, establishing eligibility requirements for grants, maximum amounts of grants, waiver of amount restriction, results of failure to use facilities in an approved manner, and prohibition of religious use of such facilities, and defining "construction" and "academic facilities" for provision requiring Secretary of the Interior to conduct a detailed survey and study of academic facilities needs of tribally controlled community colleges and report to Congress not later than Nov. 1, 1979, the results of such survey and study.
 
 #### Effective Date of 1998 Amendment
 

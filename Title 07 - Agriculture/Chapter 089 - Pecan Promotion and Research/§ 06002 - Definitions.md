@@ -4,39 +4,39 @@ As used in this chapter—
 
 #### (1) Board
 
-&emsp;The term “Board” means the Pecan Marketing Board established in section 6005(b) of this title.
+&emsp;The term "Board" means the Pecan Marketing Board established in section 6005(b) of this title.
 
 #### (2) Commerce
 
-&emsp;The term “commerce” means interstate, foreign, or intrastate commerce.
+&emsp;The term "commerce" means interstate, foreign, or intrastate commerce.
 
 #### (3) Conflict of interest
 
-&emsp;The term “conflict of interest” means a situation in which a member has a direct or indirect financial interest in a corporation, partnership, sole proprietorship, joint venture, or other business entity dealing directly or indirectly with the Board.
+&emsp;The term "conflict of interest" means a situation in which a member has a direct or indirect financial interest in a corporation, partnership, sole proprietorship, joint venture, or other business entity dealing directly or indirectly with the Board.
 
 #### (4) Consumer information
 
-&emsp;The term “consumer information” means information and programs that will assist consumers and other persons in making evaluations and decisions regarding the purchase, preparation, and use of pecans.
+&emsp;The term "consumer information" means information and programs that will assist consumers and other persons in making evaluations and decisions regarding the purchase, preparation, and use of pecans.
 
 #### (5) Department
 
-&emsp;The term “Department” means the Department of Agriculture.
+&emsp;The term "Department" means the Department of Agriculture.
 
 #### (6) District
 
-&emsp;The term “district” means a geographical area of the United States, as determined by the Board and approved by the Secretary, in which there is produced approximately one-fourth of the volume of pecans produced in the United States.
+&emsp;The term "district" means a geographical area of the United States, as determined by the Board and approved by the Secretary, in which there is produced approximately one-fourth of the volume of pecans produced in the United States.
 
 #### (7) First handler
 
-&emsp;The term “first handler” means the first person who buys or takes possession of pecans from a grower for marketing. If a grower markets pecans directly to consumers, such grower shall be considered the first handler with respect to pecans grown by such grower.
+&emsp;The term "first handler" means the first person who buys or takes possession of pecans from a grower for marketing. If a grower markets pecans directly to consumers, such grower shall be considered the first handler with respect to pecans grown by such grower.
 
 #### (8) Grower
 
-&emsp;The term “grower” means any person engaged in the production and sale of pecans in the United States who owns, or who shares the ownership and risk of loss of, such pecans.
+&emsp;The term "grower" means any person engaged in the production and sale of pecans in the United States who owns, or who shares the ownership and risk of loss of, such pecans.
 
 #### (9) Grower-sheller
 
-&emsp;The term “grower-sheller” means a person who—
+&emsp;The term "grower-sheller" means a person who—
 
 &emsp;&emsp;(A) shells pecans, or has pecans shelled for such person, in the United States; and
 
@@ -44,63 +44,63 @@ As used in this chapter—
 
 #### (10) Handle
 
-&emsp;The term “handle” means receipt of in-shell pecans by a sheller or first handler, including pecans produced by such sheller or first handler.
+&emsp;The term "handle" means receipt of in-shell pecans by a sheller or first handler, including pecans produced by such sheller or first handler.
 
 #### (11) Importer
 
-&emsp;The term “importer” means any person who imports pecans from outside of the United States for sale in the United States.
+&emsp;The term "importer" means any person who imports pecans from outside of the United States for sale in the United States.
 
 #### (12) Industry information
 
-&emsp;The term “industry information” means information and programs that will lead to the development of new markets and marketing strategies, increased efficiency, and activities to enhance the image of the pecan industry.
+&emsp;The term "industry information" means information and programs that will lead to the development of new markets and marketing strategies, increased efficiency, and activities to enhance the image of the pecan industry.
 
 #### (13) In-shell pecan
 
-&emsp;The term “in-shell pecan” means a pecan that has a shell that has not been removed.
+&emsp;The term "in-shell pecan" means a pecan that has a shell that has not been removed.
 
 #### (14) To market
 
-&emsp;The term “to market” means to sell or offer to dispose of pecans in any channel of commerce.
+&emsp;The term "to market" means to sell or offer to dispose of pecans in any channel of commerce.
 
 #### (15) Member
 
-&emsp;The term “member” means a member of the Board.
+&emsp;The term "member" means a member of the Board.
 
 #### (16) Pecan
 
-&emsp;The term “pecan” means the nut of the pecan tree carya illinoensis.
+&emsp;The term "pecan" means the nut of the pecan tree carya illinoensis.
 
 #### (17) Person
 
-&emsp;The term “person” means any individual, group of individuals, partnership, corporation, association, cooperative, or any other entity.
+&emsp;The term "person" means any individual, group of individuals, partnership, corporation, association, cooperative, or any other entity.
 
 #### (18) Plan
 
-&emsp;The term “plan” means a plan issued under section 6003 of this title.
+&emsp;The term "plan" means a plan issued under section 6003 of this title.
 
 #### (19) Promotion
 
-&emsp;The term “promotion” means any action taken by the Board, pursuant to this chapter, to present a favorable image of pecans to the public with the express intent of improving the competitive position of pecans in the marketplace and stimulating sales of pecans, including paid advertising.
+&emsp;The term "promotion" means any action taken by the Board, pursuant to this chapter, to present a favorable image of pecans to the public with the express intent of improving the competitive position of pecans in the marketplace and stimulating sales of pecans, including paid advertising.
 
 #### (20) Research
 
-&emsp;The term “research” means any type of test, study, or analysis designed to advance the image, desirability, usage, marketability, production, product development, or quality of pecans.
+&emsp;The term "research" means any type of test, study, or analysis designed to advance the image, desirability, usage, marketability, production, product development, or quality of pecans.
 
 #### (21) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture.
+&emsp;The term "Secretary" means the Secretary of Agriculture.
 
 #### (22) Shell
 
-&emsp;The term “shell” means to remove the shell from an in-shell pecan.
+&emsp;The term "shell" means to remove the shell from an in-shell pecan.
 
 #### (23) Shelled pecan
 
-&emsp;The term “shelled pecan” means a pecan kernel, or portion of a kernel, after the pecan shell has been removed.
+&emsp;The term "shelled pecan" means a pecan kernel, or portion of a kernel, after the pecan shell has been removed.
 
 #### (24) Sheller
 
-&emsp;The term “sheller” means any person who—
+&emsp;The term "sheller" means any person who—
 
 &emsp;&emsp;(A) shells pecans or has pecans shelled for the account of such person; and
 
@@ -108,15 +108,15 @@ As used in this chapter—
 
 #### (25) State
 
-&emsp;The term “State” means any of the several States, the District of Columbia and the Commonwealth of Puerto Rico.
+&emsp;The term "State" means any of the several States, the District of Columbia and the Commonwealth of Puerto Rico.
 
 #### (26) United States
 
-&emsp;The term “United States” means collectively the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
+&emsp;The term "United States" means collectively the several States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
 (Pub. L. 101–624, title XIX, §1907, Nov. 28, 1990, 104 Stat. 3839; Pub. L. 102–237, title VIII, §802(1), Dec. 13, 1991, 105 Stat. 1882.)
 
 #### Amendments
 
-<b>1991</b>—Par. (22). Pub. L. 102–237 substituted “in-shell” for “inshell”.
+<b>1991</b>—Par. (22). Pub. L. 102–237 substituted "in-shell" for "inshell".
 

@@ -14,7 +14,7 @@
 
 (e) The Authority shall make an annual report to the President for transmittal to the Congress which shall include information as to the cases it has heard and the decisions it has rendered.
 
-(f)(1) The General Counsel of the Authority shall be appointed by the President, by and with the advice and consent of the Senate, for a termof 5 years. The General Counsel may be removed at any time by the President. The General Counsel shall hold no other office or position in the Government of the United States except as provided by law.
+(f)(1) The General Counsel of the Authority shall be appointed by the President, by and with the advice and consent of the Senate, for a term of 5 years. The General Counsel may be removed at any time by the President. The General Counsel shall hold no other office or position in the Government of the United States except as provided by law.
 
 (2) The General Counsel may—
 
@@ -32,7 +32,7 @@
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–224, §3(a), inserted provision directing that Chairman be chief executive and administrative officer.
 
-Subsec. (c). Pub. L. 98–224, §3(b), substituted provision that a member of Authority be appointed for a term of 5 years and an individual chosen to fill a vacancy be appointed for unexpired term of member replaced for provision that one original member of Authority be appointed for a term of 1 year, one for a term of 3 years, and Chairman for a term of 5 years, and thereafter each member be appointed for a term of 5 years.
+Subsec. (c). Pub. L. 98–224, §3(b), substituted provision that a member of Authority be appointed for aterm of 5 years and an individual chosen to fill a vacancy be appointed for unexpired term of member replaced for provision that one original member of Authority be appointed for a term of 1 year, one for a term of 3 years, and Chairman for a term of 5 years, and thereafter each member be appointed for a term of 5 years.
 
 #### Termination of Reporting Requirements
 

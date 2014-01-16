@@ -22,11 +22,11 @@ Exceptions.—Subsection (a) does not apply to the following:
 
 Qualifying Educational Institutions.—(1) A qualifying educational institution for purposes of this section is an educational institution that is accredited or that meets the requirements of paragraph (2).
 
-(2)(A) An unaccredited educational institution shall be considered to be a qualifying educational institution for purposes of the appointment or recognition of a person who is a graduate of that institution if the Secretary concerned determines that (as of the year of the graduation of that person from that institution) at least three educational institutions that are accredited and that maintain Reserve Officers’ Training Corps programs each generally grant baccalaureate degree credit for completion of courses of the unaccredited institution equivalent to the baccalaureate degree credit granted by the unaccredited institution for the completion of those courses.
+(2)(A) An unaccredited educational institution shall be considered to be a qualifying educational institution for purposes of the appointment or recognition of a person who is a graduate of that institution if the Secretary concerned determines that (as of the year of the graduation of that person from that institution) at least three educational institutions that are accredited and that maintain Reserve Officers' Training Corps programs each generally grant baccalaureate degree credit for completion of courses of the unaccredited institution equivalent to the baccalaureate degree credit granted by the unaccredited institution for the completion of those courses.
 
 (B) In order to assist the Secretary concerned in making determinations under subparagraph (A), any unaccredited institution that seeks to be considered to be a qualifying educational institution for purposes of this paragraph shall submit to the Secretary of Defense each year such information as the Secretary may require concerning the program of instruction at that institution.
 
-(C) In the case of a person with a degree from an unaccredited institution that is a qualifying educational institution under this paragraph, the degree may not have been awarded more than eight years before the date on which theperson is to be appointed to, or recognized in, the grade of captain or, in the case of the Navy Reserve, lieutenant, in order for that person to be considered for purposes of subsection (a) to have been awarded a baccalaureate degree by a qualifying educational institution.
+(C) In the case of a person with a degree from an unaccredited institution that is a qualifying educational institution under this paragraph, the degree may not have been awarded more than eight years before the date on which the person is to be appointed to, or recognized in, the grade of captain or, in the case of the Navy Reserve, lieutenant, in order for that person to be considered for purposes of subsection (a) to have been awarded a baccalaureate degree by a qualifying educational institution.
 
 (d)
 
@@ -44,21 +44,21 @@ Provisions similar to those in this section were contained in Pub. L. 102–190,
 
 #### Amendments
 
-<b>2006</b>—Subsecs. (a), (b)(2), (3), (c)(2)(C). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve”.
+<b>2006</b>—Subsecs. (a), (b)(2), (3), (c)(2)(C). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve".
 
 <b>2001</b>—Subsec. (d). Pub. L. 107–107 added subsec. (d).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–201, §1074(a)(22), substituted “No person” for “After September 30, 1995, no person”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201, §1074(a)(22), substituted "No person" for "After September 30, 1995, no person".
 
-Subsec. (b)(3). Pub. L. 104–201, §505, inserted “or the Seaman to Admiral program” after “(NAVCAD) program”.
+Subsec. (b)(3). Pub. L. 104–201, §505, inserted "or the Seaman to Admiral program" after "(NAVCAD) program".
 
-Subsec. (c)(2)(C). Pub. L. 104–201, §504, substituted “eight years” for “three years”.
+Subsec. (c)(2)(C). Pub. L. 104–201, §504, substituted "eight years" for "three years".
 
 <b>1994</b>—Pub. L. 103–337, §1662(c)(2), renumbered section 596 of this title as this section.
 
-Subsec. (a). Pub. L. 103–337, §519(1), substituted “a qualifying educational institution” for “an accredited educational institution”.
+Subsec. (a). Pub. L. 103–337, §519(1), substituted "a qualifying educational institution" for "an accredited educational institution".
 
-Subsec. (b)(2), (3). Pub. L. 103–337, §520(b), substituted “a person” for “an individual”.
+Subsec. (b)(2), (3). Pub. L. 103–337, §520(b), substituted "a person" for "an individual".
 
 Subsec. (b)(5). Pub. L. 103–337, §520(a), added par. (5).
 
@@ -66,17 +66,17 @@ Subsec. (c). Pub. L. 103–337, §519(2), added subsec. (c).
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–107, div. A, title V, §512(b), Dec. 28, 2001, 115 Stat. 1092, provided that: “Subsection (d) of section 12205 of title 10, United States Code, as added by subsection (a), shall apply with respect to officers appointed before, on, or after the date of the enactment of this Act \[Dec. 28, 2001\].”
+Pub. L. 107–107, div. A, title V, §512(b), Dec. 28, 2001, 115 Stat. 1092, provided that: "Subsection (d) of section 12205 of title 10, United States Code, as added by subsection (a), shall apply with respect to officers appointed before, on, or after the date of the enactment of this Act \[Dec. 28, 2001\]."
 
 #### Authority for Temporary Waiver for Certain Army Reserve Officers of Baccalaureate Degree Requirement for Promotion of Reserve Officers
 
 Pub. L. 105–261, div. A, title V, §516, Oct. 17, 1998, 112 Stat. 2008, provided that:
 
-“(a)
+"(a)
 
 Waiver Authority for Army OCS Graduates.—The Secretary of the Army may waive the applicability of section 12205(a) of title 10, United States Code, to any officer who before the date of the enactment of this Act \[Oct. 17, 1998\] was commissioned through the Army Officer Candidate School. Any such waiver shall be made on a case-by-case basis, considering the individual circumstances of the officer involved, and may continue in effect for no more than 2 years after the waiver is granted. The Secretary may provide for such a waiver to be effective before the date of the waiver, as appropriate in an individual case.
 
-“(b)
+"(b)
 
-Expiration of Authority.—A waiver under this section may not be granted after September 30, 2000.”
+Expiration of Authority.—A waiver under this section may not be granted after September 30, 2000."
 

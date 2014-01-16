@@ -6,5 +6,5 @@ The Secretary of the Interior is authorized to withdraw as much as may be necess
 
 #### References in Text
 
-Act of May 18, 1916, referred to in text, is act May 18, 1916, ch. 125, 39 Stat. 123. Provisions of the act relatingto sale of timber are set out at 39 Stat. 137 and were not classified to the Code.
+Act of May 18, 1916, referred to in text, is act May 18, 1916, ch. 125, 39 Stat. 123. Provisions of the act relating to sale of timber are set out at 39 Stat. 137 and were not classified to the Code.
 

@@ -46,7 +46,7 @@ In this section:
 
 The Social Security Act, referred to in subsec. (a), is act Aug. 14, 1935, ch. 531, 49 Stat. 620. Part D of titleXVIII of the Act is classified generally to part D (§1395w–101 et seq.) of subchapter XVIII of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “be”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be followed by "be".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be "sections".</i>
 

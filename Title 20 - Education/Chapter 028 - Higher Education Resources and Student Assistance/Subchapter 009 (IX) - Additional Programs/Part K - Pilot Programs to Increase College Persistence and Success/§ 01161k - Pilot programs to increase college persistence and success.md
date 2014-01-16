@@ -26,11 +26,11 @@ From the amounts appropriated under subsection (i), the Secretary is authorized 
 
 #### (A) Eligible institution
 
-&emsp;&emsp;The term “eligible institution” means an institution of higher education, as defined in section 1001 of this title, that provides a one- or two-year program of study leading to a degree or certificate.
+&emsp;&emsp;The term "eligible institution" means an institution of higher education, as defined in section 1001 of this title, that provides a one- or two-year program of study leading to a degree or certificate.
 
 #### (B) Eligible student
 
-&emsp;&emsp;The term “eligible student” means a student who—
+&emsp;&emsp;The term "eligible student" means a student who—
 
 &emsp;&emsp;&emsp;(i) is eligible to receive assistance under section 1070a of this title;
 
@@ -116,11 +116,11 @@ From the amounts appropriated under subsection (i), the Secretary is authorized 
 
 #### (A) Eligible institution
 
-&emsp;&emsp;In this subsection, the term “eligible institution” means an institution of higher education in which, during the three-year period preceding the year in which the institution is applying for a grant under this subsection, an average of not less than 50 percent of the institution's entering first-year students are assessed as needing developmental courses to bring reading, writing, or mathematics skills up to college level.
+&emsp;&emsp;In this subsection, the term "eligible institution" means an institution of higher education in which, during the three-year period preceding the year in which the institution is applying for a grant under this subsection, an average of not less than 50 percent of the institution's entering first-year students are assessed as needing developmental courses to bring reading, writing, or mathematics skills up to college level.
 
 #### (B) Eligible student
 
-&emsp;&emsp;In this subsection, the term “eligible student” means a student who—
+&emsp;&emsp;In this subsection, the term "eligible student" means a student who—
 
 &emsp;&emsp;&emsp;(i) is eligible to receive assistance under section 1070a of this title;
 
@@ -148,9 +148,9 @@ From the amounts appropriated under subsection (i), the Secretary is authorized 
 
 &emsp;An eligible institution that receives a grant under this subsection may use the grant funds to provide services and program innovations for students participating in the program, including the following:
 
-&emsp;&emsp;(A) College and career success courses provided at no charge to participating students. These courses may cover college success topics, including how to take notes, how tostudy, how to take tests, and how to budget time, and may also include a substantial career exploration component. Institutions may use such courses to help students develop a college and career success plan, so that by the end of the first semester the students have a clear sense of their career goals and what classes to take to achieve such goals.
+&emsp;&emsp;(A) College and career success courses provided at no charge to participating students. These courses may cover college success topics, including how to take notes, how to study, how to take tests, and how to budget time, and may also include a substantial career exploration component. Institutions may use such courses to help students develop a college and career success plan, so that by the end of the first semester the students have a clear sense of their career goals and what classes to take to achieve such goals.
 
-&emsp;&emsp;(B) Work-study jobs with private employers in the students’ fields of study.
+&emsp;&emsp;(B) Work-study jobs with private employers in the students' fields of study.
 
 &emsp;&emsp;(C) Learning communities that ensure that students participating in the program are clustered together for at least two courses beginning in the first semester after enrolling and have other opportunities to create and maintain bonds that allow them to provide academic and social support to each other.
 
@@ -220,11 +220,11 @@ There are authorized to be appropriated to carry out this section such sums as m
 
 #### Amendments
 
-<b>2009</b>—Subsec. (d)(5). Pub. L. 111–39, §801(5)(A), inserted “the” before “grant”.
+<b>2009</b>—Subsec. (d)(5). Pub. L. 111–39, §801(5)(A), inserted "the" before "grant".
 
-Subsec. (f)(2). Pub. L. 111–39, §801(5)(B), substituted “section” for “subpart” in two places.
+Subsec. (f)(2). Pub. L. 111–39, §801(5)(B), substituted "section" for "subpart" in two places.
 
-Subsec. (h). Pub. L. 111–39, §801(5)(C), substituted “used” for “use”.
+Subsec. (h). Pub. L. 111–39, §801(5)(C), substituted "used" for "use".
 
 #### Effective Date of 2009 Amendment
 

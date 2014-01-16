@@ -60,7 +60,7 @@ This section shall not apply to the extent that a distribution is treated as a s
 
 &emsp;If—
 
-&emsp;&emsp;(A) a corporation (hereafter in this subsection referred to as the “corporate partner”) receives a distribution from a partnership of stock in another corporation (hereafter in this subsection referred to as the “distributed corporation”),
+&emsp;&emsp;(A) a corporation (hereafter in this subsection referred to as the "corporate partner") receives a distribution from a partnership of stock in another corporation (hereafter in this subsection referred to as the "distributed corporation"),
 
 &emsp;&emsp;(B) the corporate partner has control of the distributed corporation immediately after the distribution or at any time thereafter, and
 
@@ -96,7 +96,7 @@ This section shall not apply to the extent that a distribution is treated as a s
 
 #### (5) Control
 
-&emsp;For purposes of this subsection, the term “control” means ownership of stock meeting the requirements of section 1504(a)(2).
+&emsp;For purposes of this subsection, the term "control" means ownership of stock meeting the requirements of section 1504(a)(2).
 
 #### (6) Indirect distributions
 
@@ -116,31 +116,31 @@ This section shall not apply to the extent that a distribution is treated as a s
 
 <b>1999</b>—Subsec. (f). Pub. L. 106–170 added subsec. (f).
 
-<b>1997</b>—Subsec. (c). Pub. L. 105–34, §1061(a), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “The basis of distributed properties to which subsection (a)(2) or subsection (b) is applicable shall be allocated—
+<b>1997</b>—Subsec. (c). Pub. L. 105–34, §1061(a), amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "The basis of distributed properties to which subsection (a)(2) or subsection (b) is applicable shall be allocated—
 
-&emsp;“(1) first to any unrealized receivables (as defined in section 751(c)) and inventory items (as defined in section 751(d)(2)) in an amount equal to the adjusted basis of each such property to the partnership (or if the basis to be allocated is less than the sum of the adjusted bases of such properties to the partnership, in proportion to such bases), and
+&emsp;"(1) first to any unrealized receivables (as defined in section 751(c)) and inventory items (as defined in section 751(d)(2)) in an amount equal to the adjusted basis of each such property to the partnership (or if the basis to be allocated is less than the sum of the adjusted bases of such properties to the partnership, in proportion to such bases), and
 
-&emsp;“(2) to the extent of any remaining basis, to any other distributed properties in proportion to their adjusted bases to the partnership.”
+&emsp;"(2) to the extent of any remaining basis, to any other distributed properties in proportion to their adjusted bases to the partnership."
 
-Subsec. (c)(1)(A)(i). Pub. L. 105–34, §1062(b)(3), substituted “section 751(d)” for “section 751(d)(2)”.
+Subsec. (c)(1)(A)(i). Pub. L. 105–34, §1062(b)(3), substituted "section 751(d)" for "section 751(d)(2)".
 
-<b>1976</b>—Subsec. (d). Pub. L. 94–455 struck out “or his delegate” after “Secretary”.
+<b>1976</b>—Subsec. (d). Pub. L. 94–455 struck out "or his delegate" after "Secretary".
 
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–170, title V, §538(b), Dec. 17, 1999, 113 Stat. 1940, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendment made by this section \[amending this section\] shall apply to distributions made after July 14, 1999.
 
-“(2)
+"(2)
 
-Partnerships in existence on July 14, 1999.—In the case of a corporation which is a partner in a partnership as of July 14, 1999, the amendment made by this section shall apply to any distribution made (or treated as made) to such partner from such partnership after June 30, 2001, except that this paragraph shall not apply to any distribution after the date of the enactment of this Act \[Dec. 17, 1999\] unless the partner makes an election to have this paragraph apply to such distribution on the partner's return of Federal income tax for the taxable year in which such distribution occurs.”
+Partnerships in existence on July 14, 1999.—In the case of a corporation which is a partner in a partnership as of July 14, 1999, the amendment made by this section shall apply to any distribution made (or treated as made) to such partner from such partnership after June 30, 2001, except that this paragraph shall not apply to any distribution after the date of the enactment of this Act \[Dec. 17, 1999\] unless the partner makes an election to have this paragraph apply to such distribution on the partner's return of Federal income tax for the taxable year in which such distribution occurs."
 
 #### Effective Date of 1997 Amendment
 
-Pub. L. 105–34, title X, §1061(b), Aug. 5, 1997, 111 Stat. 946, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title X, §1061(b), Aug. 5, 1997, 111 Stat. 946, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to distributions after the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 Amendment by section 1062(b)(3) of Pub. L. 105–34 applicable to sales, exchanges, and distributions after Aug. 5, 1997, but not applicable to any sale or exchange pursuant to a written binding contract in effect on June 8, 1997, and at all times thereafter before such sale or exchange, see section 1062(c) of Pub. L. 105–34, set out as a note under section 724 of this title.
 

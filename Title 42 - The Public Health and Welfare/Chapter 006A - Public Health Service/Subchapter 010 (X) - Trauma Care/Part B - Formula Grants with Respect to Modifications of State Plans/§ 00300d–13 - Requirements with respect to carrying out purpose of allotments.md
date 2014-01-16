@@ -44,7 +44,7 @@ With respect to the trauma care component of a State plan for the provision of e
 
 &emsp;(11) coordinates planning for trauma systems with State disaster emergency planning and bioterrorism hospital preparedness planning; and
 
-&emsp;(12) with respect to the requirements established in this subsection, provides for coordination and cooperation between the State andany other State with which the State shares any standard metropolitan statistical area.
+&emsp;(12) with respect to the requirements established in this subsection, provides for coordination and cooperation between the State and any other State with which the State shares any standard metropolitan statistical area.
 
 #### (b) Certain standards with respect to trauma care centers and systems
 
@@ -100,13 +100,13 @@ With respect to compliance with subsection (a) as a condition of the receipt of 
 
 <b>2007</b>—Pub. L. 110–23 amended section generally. Prior to amendment, section related to requirements with respect to carrying out purpose of allotments.
 
-<b>1998</b>—Subsec. (a)(8). Pub. L. 105–392 substituted “provides for” for “provides for for”.
+<b>1998</b>—Subsec. (a)(8). Pub. L. 105–392 substituted "provides for" for "provides for for".
 
-<b>1993</b>—Subsec. (a)(4). Pub. L. 103–183, §601(f)(3)(A), substituted “section 1395dd of this title)” for “section 1395dd of this title”.
+<b>1993</b>—Subsec. (a)(4). Pub. L. 103–183, §601(f)(3)(A), substituted "section 1395dd of this title)" for "section 1395dd of this title".
 
-Subsec. (a)(8), (9). Pub. L. 103–183, §601(f)(3)(B), substituted “provides for” for “to provide” wherever appearing.
+Subsec. (a)(8), (9). Pub. L. 103–183, §601(f)(3)(B), substituted "provides for" for "to provide" wherever appearing.
 
-Subsec. (a)(10). Pub. L. 103–183, §601(f)(3)(C), substituted “conducts” for “to conduct”.
+Subsec. (a)(10). Pub. L. 103–183, §601(f)(3)(C), substituted "conducts" for "to conduct".
 
 #### Effective Date of 1998 Amendment
 

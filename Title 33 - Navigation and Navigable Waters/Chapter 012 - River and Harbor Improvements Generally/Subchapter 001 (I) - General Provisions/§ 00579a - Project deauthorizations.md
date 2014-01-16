@@ -22,23 +22,23 @@ This Act, referred to in subsec. (a), is Pub. L. 99–662, Nov. 17, 1986, 100 St
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(2). Pub. L. 110–114, §2046(3), which directed the substitution of “such period” for “such 30 month period” in last sentence, was executed by making the substitution for “such 30-month period” to reflect the probable intent of Congress.
+<b>2007</b>—Subsec. (b)(2). Pub. L. 110–114, §2046(3), which directed the substitution of "such period" for "such 30 month period" in last sentence, was executed by making the substitution for "such 30-month period" to reflect the probable intent of Congress.
 
-Pub. L. 110–114, §2046(2), in last sentence, substituted “the last date of the fiscal year following the fiscal year in which” for “30 months after the date”.
+Pub. L. 110–114, §2046(2), in last sentence, substituted "the last date of the fiscal year following the fiscal year in which" for "30 months after the date".
 
-Pub. L. 110–114, §2046(1), in first sentence, substituted “year” for “two years” and “5” for “7”.
+Pub. L. 110–114, §2046(1), in first sentence, substituted "year" for "two years" and "5" for "7".
 
-<b>1999</b>—Subsec. (b)(2). Pub. L. 106–109, in first sentence, substituted “Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), every” for “Every”.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–109, in first sentence, substituted "Notwithstanding section 3003 of Public Law 104–66 (31 U.S.C. 1113 note; 109 Stat. 734), every" for "Every".
 
-<b>1996</b>—Subsec. (b)(2). Pub. L. 104–303 substituted “7 full” for “10 full”, “Upon submission” for “Before submission”, and “for the planning, design, or construction” for “for construction”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–303 substituted "7 full" for "10 full", "Upon submission" for "Before submission", and "for the planning, design, or construction" for "for construction".
 
-<b>1990</b>—Subsec. (b)(2). Pub. L. 101–640 inserted after first sentence “Before submission of such list to Congress, the Secretary shall notify each Senator in whose State, and each Member of the House of Representatives in whose district, a project (including any part thereof) on such list would be located.”
+<b>1990</b>—Subsec. (b)(2). Pub. L. 101–640 inserted after first sentence "Before submission of such list to Congress, the Secretary shall notify each Senator in whose State, and each Member of the House of Representatives in whose district, a project (including any part thereof) on such list would be located."
 
 #### Project Deauthorizations; Extension of Limitation on Period of Authorization
 
 Pub. L. 100–676, §52(a), Nov. 17, 1988, 102 Stat. 4044, which provided that subsecs. (a) and (c) of this section applied to projects authorized for construction by Pub. L. 100–676 (see Short Title of 1988 Amendment note set out under section 2201 of this title), except that the 5-year period during which funds had to be obligated to prevent deauthorization began on Nov. 17, 1988, and were also to apply to projects authorized for construction subsequent to Pub. L. 100–676, except that 5-year period during which funds had to be obligated to prevent deauthorization began on the date of the authorization of such projects, was repealed by Pub. L. 104–303, title II, §228(b)(1), Oct. 12, 1996, 110 Stat. 3703.
 
-#### “Secretary” Defined
+#### "Secretary" Defined
 
 Secretary means the Secretary of the Army, see section 2201 of this title.
 

@@ -72,11 +72,11 @@ The Commercial Service shall place primary emphasis on the promotion of exports 
 
 #### (1) Minister-Counselor
 
-&emsp;Notwithstanding any other provision of law, the Secretary is authorized to designate up to 16 United States missions abroad at which the senior Commercial Service Officer will be able to use the diplomatic title of Minister-Counselor. The Secretary of State shall accord the diplomatic title of Minister-Counselor to the senior Commercial Service Officer assigned to a United States mission so designated.
+&emsp;Notwithstanding any other provision of law, the Secretary is authorized to designate up to16 United States missions abroad at which the senior Commercial Service Officer will be able to use the diplomatic title of Minister-Counselor. The Secretary of State shall accord the diplomatic title of Minister-Counselor to the senior Commercial Service Officer assigned to a United States mission so designated.
 
 #### (2) Consul General
 
-&emsp;In any United States consulate in which a vacancy occurs in the position of Consul General, the Secretary of State, in consultation with the Secretary, shall consider filling that vacancy with a Commercial Service Officer if the primary functions of the consulate are of a commercial nature and if there are significant business opportunities for United Statesexporters in the region in which the consulate is located.
+&emsp;In any United States consulate in which a vacancy occurs in the position of Consul General, the Secretary of State, in consultation with the Secretary, shall consider filling that vacancy with a Commercial Service Officer if the primary functions of the consulate are of a commercial nature and if there are significant business opportunities for United States exporters in the region in which the consulate is located.
 
 #### (e) Information dissemination
 
@@ -98,7 +98,7 @@ The Inspector General of the Department of Commerce shall perform periodic audit
 
 &emsp;(2) an evaluation of the current placement of foreign-based personnel and recommendations for transferring such personnel in response to newly emerging business opportunities for United States exporters; and
 
-&emsp;(3) an evaluation of the personnel system and its management, including the recruitment, assignment, promotion, and performance appraisal of personnel, the use of limited appointees, and the “time-in-class” system.
+&emsp;(3) an evaluation of the personnel system and its management, including the recruitment, assignment, promotion, and performance appraisal of personnel, the use of limited appointees, and the "time-in-class" system.
 
 #### (h) Report by Secretary
 
@@ -110,11 +110,11 @@ Not later than 1 year after August 23, 1988, the Secretary shall submit a report
 
 For purposes of this section—
 
-&emsp;(1) the term “Secretary” means the Secretary of Commerce;
+&emsp;(1) the term "Secretary" means the Secretary of Commerce;
 
-&emsp;(2) the term “Commercial Service” means the United States and Foreign Commercial Service;
+&emsp;(2) the term "Commercial Service" means the United States and Foreign Commercial Service;
 
-&emsp;(3) the term “United States exporter” means—
+&emsp;(3) the term "United States exporter" means—
 
 &emsp;&emsp;(A) a United States citizen;
 
@@ -124,11 +124,11 @@ For purposes of this section—
 
 > &emsp;that exports, or seeks to export, goods or services produced in the United States;
 
-&emsp;(4) the term “small business” means any small business concern as defined under section 632 of this title;
+&emsp;(4) the term "small business" means any small business concern as defined under section 632 of this title;
 
-&emsp;(5) the term “State” means any of the several States, the District of Columbia, or any commonwealth, territory, or possession of the United States; and
+&emsp;(5) the term "State" means any of the several States, the District of Columbia, or any commonwealth, territory, or possession of the United States; and
 
-&emsp;(6) the term “United States” means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+&emsp;(6) the term "United States" means the several States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (Pub. L. 100–418, title II, §2301, Aug. 23, 1988, 102 Stat. 1338; Pub. L. 102–429, title II, §§202, 203, 205, Oct. 21, 1992, 106 Stat. 2201, 2204.)
 
@@ -144,7 +144,7 @@ Section is comprised of section 2301 of Pub. L. 100–418. Subsec. (i) of sectio
 
 <b>1992</b>—Subsec. (b)(8), (9). Pub. L. 102–429, §§202, 203(a), added pars. (8) and (9).
 
-Subsec. (d)(1). Pub. L. 102–429, §205, substituted “16” for “8”.
+Subsec. (d)(1). Pub. L. 102–429, §205, substituted "16" for "8".
 
 Subsecs. (f) to (j). Pub. L. 102–429, §203(b), added subsec. (f) and redesignated former subsecs. (f) to (i) as (g) to (j), respectively.
 
@@ -152,5 +152,5 @@ Subsecs. (f) to (j). Pub. L. 102–429, §203(b), added subsec. (f) and redesign
 
 For termination, effective May 15, 2000, of provisions in subsec. (g) of this section relating to reporting results of audits to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 53 of House Document No. 103–7.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Commercial Service Officer”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "Commercial Service Officer".</i>
 

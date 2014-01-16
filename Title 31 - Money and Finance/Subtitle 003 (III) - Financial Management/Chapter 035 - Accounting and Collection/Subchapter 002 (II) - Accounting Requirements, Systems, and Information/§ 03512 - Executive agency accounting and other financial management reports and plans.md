@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(ii) of Government corporations;
 
-&emsp;(D) a summary of reports on internal accounting and administrative control systems submitted to the President and the Congress under the amendments made by the Federal Managers’ Financial Integrity Act of 1982 (Public Law 97–255);
+&emsp;(D) a summary of reports on internal accounting and administrative control systems submitted to the President and the Congress under the amendments made by the Federal Managers' Financial Integrity Act of 1982 (Public Law 97–255);
 
 &emsp;(E) a listing of agencies whose financial management systems do not comply substantially with the requirements of Section <sup>1</sup> 3(a) <sup>2</sup> the Federal Financial Management Improvement Act of 1996, and a summary statement of the efforts underway to remedy the noncompliance; and
 
@@ -34,7 +34,7 @@
 
 &emsp;(iii) provide a strategy for developing and integrating individual agency accounting, financial information, and other financial management systems to ensure adequacy, consistency, and timeliness of financial information;
 
-&emsp;(iv) identify and make proposals to eliminate duplicative and unnecessary systems, including encouraging agencies to share systemswhich have sufficient capacity to perform the functions needed;
+&emsp;(iv) identify and make proposals to eliminate duplicative and unnecessary systems, including encouraging agencies to share systems which have sufficient capacity to perform the functions needed;
 
 &emsp;(v) identify projects to bring existing systems into compliance with the applicable standards and requirements;
 
@@ -46,7 +46,7 @@
 
 &emsp;(ix) estimate the costs of implementing the governmentwide 5-year plan.
 
-(4)(A) Not later than 15 months after the date of the enactment of this subsection, the Director of the Office of Management and Budget shall submit the first financial management status report and governmentwide 5-year financial management plan under this subsection to the appropriate committees of the Congress.
+(4)(A) Not later than 15 months after the date of the enactment of this subsection, the Director of the Office of Management and Budgetshall submit the first financial management status report and governmentwide 5-year financial management plan under this subsection to the appropriate committees of the Congress.
 
 (B)(i) Not later than January 31 of each year thereafter, the Director of the Office of Management and Budget shall submit to the appropriate committees of the Congress a financial management status report and a revised governmentwide 5-year financial management plan to cover the succeeding 5 fiscal years, including a report on the accomplishments of the executive branch in implementing the plan during the preceding fiscal year.
 
@@ -108,7 +108,7 @@
 
 &emsp;(2) approve the system when the Comptroller General considers it to be adequate and in conformity with the principles, standards, and requirements prescribed under section 3511 of this title.
 
-(g) The Comptroller General shall review the accounting systems of each executive agency. The results of a review shall be available to the head of the executive agency, the Secretary, and the President. The Comptroller General shall report to Congress on a review when the Comptroller General considers it proper.
+(g) The Comptroller General shall review the accounting systems of each executive agency.The results of a review shall be available to the head of the executive agency, the Secretary, and the President. The Comptroller General shall report to Congress on a review when the Comptroller General considers it proper.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 959; Pub. L. 97–452, §1(12), Jan. 12, 1983, 96 Stat. 2468; Pub. L. 101–576, title III, §301(a), Nov. 15, 1990, 104 Stat. 2847; Pub. L. 103–272, §4(f)(1)(J), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §805(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–392.)
 
@@ -148,19 +148,19 @@ Sept. 12, 1950, ch. 946, §§112(b)(less Treasury Department), 113(b), 64 Stat. 
 
 31:66(c).
 
-In subsection (a)(3), the words “funds, property, and other” are omitted as surplus.
+In subsection (a)(3), the words "funds, property, and other" are omitted as surplus.
 
-In subsection (a)(4)(C), the word “President” is substituted for “Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
+In subsection (a)(4)(C), the word "President" is substituted for "Office of Management and Budget" because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085) redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
-In subsection (a)(5), the words “the accounting of the Treasury Department in connection with” are omitted as surplus.
+In subsection (a)(5), the words "the accounting of the Treasury Department in connection with" are omitted as surplus.
 
-In subsection (b), the words “As soon as practicable after August 1, 1956” are omitted as executed. The words “with a view”, “adequate”, and “as an integral part of the system” are omitted as surplus.
+In subsection (b), the words "As soon as practicable after August 1, 1956" are omitted as executed. The words "with a view", "adequate", and "as an integral part of the system" are omitted as surplus.
 
-In subsections (c) and (d), the words “Comptroller General” are substituted for “General Accounting Office” for consistency. The word “considers” is substituted for “deemed” as being more precise.
+In subsections (c) and (d), the words "Comptroller General" are substituted for "General Accounting Office" for consistency. The word "considers" is substituted for "deemed" as being more precise.
 
-In subsection (c), the text of 31:66a(b) is omitted as unnecessary. In clause (1), the words “the head of” are added for consistency with the revised title and other titles of the United States Code. In clause (2), the words “under section 3511 of this title” are substituted for “by him” in 31:66(b)(less Treasury Department) for clarity.
+In subsection (c), the text of 31:66a(b) is omitted as unnecessary. In clause (1), the words "the head of" are added for consistency with the revised title and other titles of the United States Code. In clause (2), the words "under section 3511 of this title" are substituted for "by him" in 31:66(b)(less Treasury Department) for clarity.
 
-In subsection (d), the word “concerned” is omitted as surplus. The word “President” is substituted for “Director of the Office of Management and Budget” because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
+In subsection (d), the word "concerned" is omitted as surplus. The word "President" is substituted for "Director of the Office of Management and Budget" because sections 101 and 102(a) of Reorganization Plan No. 2 of 1970 redesignated the Bureau of the Budget as the Office of Management and Budget and transferred all functions of the Bureau to the President.
 
 1983
 
@@ -196,19 +196,19 @@ Sept. 12, 1950, ch. 946, 64 Stat. 832, §113(b)(last sentence); added Sept. 8, 1
 
 31 App.:66a(d)(5).
 
-In subsections (b)(1) and (c)(1)(A), the words “the requirements of” are omitted as surplus.
+In subsections (b)(1) and (c)(1)(A), the words "the requirements of" are omitted as surplus.
 
-In subsection (b)(1), before clause (A), the words “the head of” are added for consistency in the revised title and with other titles of the United States Code. The word “provide” is omitted as surplus. In clause (B), the word “all” is substituted for “funds, property, and other” to eliminate unnecessary words.
+In subsection (b)(1), before clause (A), the words "the head of" are added for consistency in the revised title and with other titles of the United States Code. The word "provide" is omitted as surplus. In clause (B), the word "all" is substituted for "funds, property, and other" to eliminate unnecessary words.
 
-In subsection (c)(1)(A), the words “the head of each executive agency shall follow” are substituted for “agencies” for clarity and consistency in the revised title and with other titles of the Code.
+In subsection (c)(1)(A), the words "the head of each executive agency shall follow" are substituted for "agencies" for clarity and consistency in the revised title and with other titles of the Code.
 
-In subsection (c)(2), before clause (A), the words “beginning in” are substituted for “succeeding” because of the restatement. The words “on whether the systems of the agency comply with subsection (b) of this section” are substituted for 31 App.:66a(d)(3)(A) to eliminate unnecessary words. In clause (B), the word “related” is omitted as surplus.
+In subsection (c)(2), before clause (A), the words "beginning in" are substituted for "succeeding" because of the restatement. The words "on whether the systems of the agency comply with subsection (b) of this section" are substituted for 31 App.:66a(d)(3)(A) to eliminate unnecessary words. In clause (B), the word "related" is omitted as surplus.
 
-In subsection (c)(3)(A), the words “provision of” are omitted as surplus.
+In subsection (c)(3)(A), the words "provision of" are omitted as surplus.
 
 #### References in Text
 
-The Federal Managers’ Financial Integrity Act of 1982, referred to in subsec. (a)(2)(D), is Pub. L. 97–255, Sept. 8, 1982, 96 Stat. 814, which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as this section. Provisions relating to reports on internal accounting and administrative control systems are restated in subsec. (d)(2) and (3) of this section.
+The Federal Managers' Financial Integrity Act of 1982, referred to in subsec. (a)(2)(D), is Pub. L. 97–255, Sept. 8, 1982, 96 Stat. 814, which added subsec. (d) to section 66a of former Title 31, Money and Finance. Section 66a of former Title 31 was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, and reenacted by the first section thereof as this section. Provisions relating to reports on internal accounting and administrative control systems are restated in subsec. (d)(2) and (3) of this section.
 
 The Federal Financial Management Improvement Act of 1996, referred to in subsec. (a)(2)(E), is Pub. L. 104–208, div. A, title I, §101(f) \[title VIII\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, which is set out as a note under this section. Section 3(a) of the act probably means section 803(a) of the act, which contains requirements relating to financial management systems.
 
@@ -218,11 +218,11 @@ The date of the enactment of this subsection, referred to in subsec. (a)(4)(A), 
 
 <b>1996</b>—Subsec. (a)(2)(E), (F). Pub. L. 104–208 added subpar. (E) and redesignated former subpar. (E) as (F).
 
-<b>1994</b>—Subsec. (c)(1). Pub. L. 103–272, §4(f)(1)(J)(i), substituted “subsection (b)(3)” for “subsection (a)(3)” in introductory provisions.
+<b>1994</b>—Subsec. (c)(1). Pub. L. 103–272, §4(f)(1)(J)(i), substituted "subsection (b)(3)" for "subsection (a)(3)" in introductory provisions.
 
-Subsec. (d)(1), (2). Pub. L. 103–272, §4(f)(1)(J)(ii), substituted “subsection (c)” for “subsection (b)” wherever appearing.
+Subsec. (d)(1), (2). Pub. L. 103–272, §4(f)(1)(J)(ii), substituted "subsection (c)" for "subsection (b)" wherever appearing.
 
-<b>1990</b>—Pub. L. 101–576 substituted “and other financial management reports and plans” for “systems” in section catchline, added subsec. (a), and redesignated former subsecs. (a) to (f) as (b) to (g), respectively.
+<b>1990</b>—Pub. L. 101–576 substituted "and other financial management reports and plans" for "systems" in section catchline, added subsec. (a), and redesignated former subsecs. (a) to (f) as (b) to (g), respectively.
 
 <b>1983</b>—Subsecs. (b), (c). Pub. L. 97–452 added subsecs. (b) and (c). Former subsecs. (b) and (c) were redesignated (d) and (e), respectively.
 
@@ -232,11 +232,11 @@ Subsecs. (d) to (f). Pub. L. 97–452 redesignated former subsecs. (b) to (d) as
 
 Committee on Governmental Affairs of Senate changed to Committee on Homeland Security and Governmental Affairs of Senate, effective Jan. 4, 2005, by Senate Resolution No. 445, One Hundred Eighth Congress, Oct. 9, 2004.
 
-Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
+Committee on Government Operations of House of Representatives treated as referring to Committee on Government Reform and Oversight of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Government Reform and Oversight of House of Representatives changed to Committee on Government Reform of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress,Jan. 6, 1999. Committee on Government Reform of House of Representatives changed to Committee on Oversight and Government Reform of House of Representatives by House Resolution No. 6, One Hundred Tenth Congress, Jan. 5, 2007.
 
 #### Short Title
 
-This section is popularly known as the “Federal Managers Financial Integrity Act”.
+This section is popularly known as the "Federal Managers Financial Integrity Act".
 
 #### Termination of Reporting Requirements
 
@@ -246,211 +246,211 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 Pub. L. 104–208, div. A, title I, §101(f) \[title VIII\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, provided that:
 
-#### “SEC. 801. SHORT TITLE\[.\]
+#### "SEC. 801. SHORT TITLE\[.\]
 
-“This title may be cited as the ‘Federal Financial Management Improvement Act of 1996.’
+"This title may be cited as the 'Federal Financial Management Improvement Act of 1996.'
 
-#### “SEC. 802. FINDINGS AND PURPOSES.
+#### "SEC. 802. FINDINGS AND PURPOSES.
 
-“(a)
+"(a)
 
 Findings.—The Congress finds the following:
 
-&emsp;“(1) Much effort has been devoted to strengthening Federal internal accounting controls in the past. Although progress has been made in recent years, Federal accounting standards have not been uniformly implemented in financial management systems for agencies.
+&emsp;"(1) Much effort has been devoted to strengthening Federal internal accounting controls in the past. Although progress has been made in recent years, Federal accounting standards have not been uniformly implemented in financial management systems for agencies.
 
-&emsp;“(2) Federal financial management continues to be seriously deficient, and Federal financial management and fiscal practices have failed to—
+&emsp;"(2) Federal financial management continues to be seriously deficient, and Federal financial management and fiscal practices have failed to—
 
-&emsp;&emsp;“(A) identify costs fully;
+&emsp;&emsp;"(A) identify costs fully;
 
-&emsp;&emsp;“(B) reflect the total liabilities of congressional actions; and
+&emsp;&emsp;"(B) reflect the total liabilities of congressional actions; and
 
-&emsp;&emsp;“(C) accurately report the financial condition of the Federal Government.
+&emsp;&emsp;"(C) accurately report the financial condition of the Federal Government.
 
-&emsp;“(3) Current Federal accounting practices do not accurately report financial results of the Federal Government or the full costs of programs and activities. The continued use of these practices undermines the Government's ability to provide credible and reliable financial data and encourages already widespread Government waste, and will not assist in achieving a balanced budget.
+&emsp;"(3) Current Federal accounting practices do not accurately report financial results of the Federal Government or the full costs of programs and activities. The continued use of these practices undermines the Government's ability to provide credible and reliable financial data and encourages already widespread Government waste, and will not assist in achieving a balanced budget.
 
-&emsp;“(4) Waste and inefficiency in the Federal Government undermine the confidence of the American people in the government and reduce the federal Government's ability to address vital public needs adequately.
+&emsp;"(4) Waste and inefficiency in the Federal Government undermine the confidence of the American people in the government and reduce the federal Government's ability to address vital public needs adequately.
 
-&emsp;“(5) To rebuild the accountability and credibility of the Federal Government, and restore public confidence in the Federal Government, agencies must incorporate accounting standards and reporting objectives established for the Federal Government into their financial management systems so that all the assets and liabilities, revenues, and expenditures or expenses, and the full costs of programs and activities of the Federal Government can be consistently and accurately recorded, monitored, and uniformly reported throughout the Federal Government.
+&emsp;"(5) To rebuild the accountability and credibility of the Federal Government, and restore public confidence in the Federal Government, agencies must incorporate accounting standards and reporting objectives established for the Federal Government into their financial management systems so that all the assets and liabilities, revenues, and expenditures or expenses, and the full costs of programs and activities of the Federal Government can be consistently and accurately recorded, monitored, and uniformly reported throughout the Federal Government.
 
-&emsp;“(6) Since its establishment in October 1990, the Federal Accounting Standards Advisory Board (hereinafter referred to as the ‘FASAB’) has made substantial progress toward developing and recommending a comprehensive set of accounting concepts and standards for the Federal Government. When the accounting concepts and standards developed by FASAB are incorporated into Federal financial management systems, agencies will be able to provide cost and financial information that will assist the Congress and financial managers to evaluate the cost and performance of Federal programs and activities, and will therefore provide important information that has been lacking, but is needed for improved decision making by financial managers and the Congress.
+&emsp;"(6) Since its establishment in October 1990, the Federal Accounting Standards Advisory Board (hereinafter referred to as the 'FASAB') has made substantial progress toward developing and recommending a comprehensive set of accounting concepts and standards for the Federal Government. When the accounting concepts and standards developed by FASAB are incorporated into Federal financial management systems, agencies will be able to provide cost and financial information that will assist the Congress and financial managers to evaluate the cost and performance of Federal programs and activities, and will therefore provide important information that has been lacking, but is needed for improved decision making by financial managers and the Congress.
 
-&emsp;“(7) The development of financial management systems with the capacity to support these standards and concepts will, over the long term, improve Federal financial management.
+&emsp;"(7) The development of financial management systems with the capacity to support these standards and concepts will, over the long term, improve Federal financial management.
 
-“(b)
+"(b)
 
 Purpose\[.\]—The purposes of this Act \[title\] are to—
 
-&emsp;“(1) provide for consistency of accounting by an agency from one fiscal year to the next, and uniform accounting standards throughout the Federal Government;
+&emsp;"(1) provide for consistency of accounting by an agency from one fiscal year to the next, and uniform accounting standards throughout the Federal Government;
 
-&emsp;“(2) require Federal financial management systems to support full disclosure of Federal financial data, including the full costs of Federal programs and activities, to the citizens, the Congress, the President, and agency management, so that programs and activities can be considered based on their full costs and merits;
+&emsp;"(2) require Federal financial management systems to support full disclosure of Federal financial data, including the full costs of Federal programs and activities, to the citizens, the Congress, the President, and agency management, so that programs and activities can be considered based on their full costs and merits;
 
-&emsp;“(3) increase the accountability and credibility of federal \[sic\] financial management;
+&emsp;"(3) increase the accountability and credibility of federal \[sic\] financial management;
 
-&emsp;“(4) improve performance, productivity and efficiency of Federal Government financial management;
+&emsp;"(4) improve performance, productivity and efficiency of Federal Government financial management;
 
-&emsp;“(5) establish financial management systems to support controlling the cost of Federal Government;
+&emsp;"(5) establish financial management systems to support controlling the cost of Federal Government;
 
-&emsp;“(6) build upon and complement the Chief Financial Officers Act of 1990 (Public Law 101–576; 104 Stat 2838) \[see Short Title of 1990 Amendment note set out under section 501 of this title\], the Government Performance and Results Act of 1993 (Public Law 103–62\[;\] 107 Stat. 285) \[see Short Title of 1993 Amendment note set out under section 1101 of this title\] and the Government Management Reform Act of 1994 (Public Law 103–356; 108 Stat. 3410) \[see Short Title of 1994 Amendment note set out under section 3301 of this title\]; and
+&emsp;"(6) build upon and complement the Chief Financial Officers Act of 1990 (Public Law 101–576; 104 Stat 2838) \[see Short Title of 1990 Amendment note set out under section 501 of this title\], the Government Performance and Results Act of 1993 (Public Law 103–62\[;\] 107 Stat. 285) \[see Short Title of 1993 Amendment note set out under section 1101 of this title\] and the Government Management Reform Act of 1994 (Public Law 103–356; 108 Stat. 3410) \[see Short Title of 1994 Amendment note set out under section 3301 of this title\]; and
 
-&emsp;“(7) increase the capability of agencies to monitor execution of the budget by more readily permitting reports that compare spending of resources to results of activities.
+&emsp;"(7) increase the capability of agencies to monitor execution of the budget by more readily permitting reports that compare spending of resources to results of activities.
 
-#### “SEC. 803. IMPLEMENTATION OF FEDERAL FINANCIAL MANAGEMENT IMPROVEMENTS.
+#### "SEC. 803. IMPLEMENTATION OF FEDERAL FINANCIAL MANAGEMENT IMPROVEMENTS.
 
-“(a)
+"(a)
 
 In General.—Each agency shall implement and maintain financial management systems that comply substantially with Federal financial management systems requirements, applicable Federal accounting standards, and the United States Government Standard General Ledger at the transaction level.
 
-“(b)
+"(b)
 
 Audit Compliance Finding.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Each audit required by section 3521(e) of title 31, United States Code, shall report whether the agency financial management systems comply with the requirements of subsection (a).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Content of Reports.—When the person performing the audit required by section 3521(e) of title 31, United States Code, reports that the agency financial management systems do not comply with the requirements of subsection (a), the person performing the audit shall include in the report on the audit—
 
-&emsp;&emsp;“(A) the entity or organization responsible for the financial management systems that have been found not to comply with the requirements of subsection (a);
+&emsp;&emsp;"(A) the entity or organization responsible for the financial management systems that have been found not to comply with the requirements of subsection (a);
 
-&emsp;&emsp;“(B) all facts pertaining to the failure to comply with the requirements of subsection (a), including—
+&emsp;&emsp;"(B) all facts pertaining to the failure to comply with the requirements of subsection (a), including—
 
-&emsp;&emsp;&emsp;“(i) the nature and extent of the noncompliance including areas in which there is substantial but not full compliance;
+&emsp;&emsp;&emsp;"(i) the nature and extent of the noncompliance including areas in which there is substantial but not full compliance;
 
-&emsp;&emsp;&emsp;“(ii) the primary reason or cause of the noncompliance;
+&emsp;&emsp;&emsp;"(ii) the primary reason or cause of the noncompliance;
 
-&emsp;&emsp;&emsp;“(iii) the entity or organization responsible for the non-compliance \[sic\]; and
+&emsp;&emsp;&emsp;"(iii) the entity or organization responsible for the non-compliance \[sic\]; and
 
-&emsp;&emsp;&emsp;“(iv) any relevant comments from any responsible officer or employee; and
+&emsp;&emsp;&emsp;"(iv) any relevant comments from any responsible officer or employee; and
 
-&emsp;&emsp;“(C) a statement with respect to the recommended remedial actions and the time frames to implement such actions.
+&emsp;&emsp;"(C) a statement with respect to the recommended remedial actions and the time frames to implement such actions.
 
-“(c)
+"(c)
 
 Compliance Implementation.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Determination.—No later than the date described under paragraph (2), the Head of an agency shall determine whether the financial management systems of the agency comply with the requirements of subsection (a). Such determination shall be based on—
 
-&emsp;&emsp;“(A) a review of the report on the applicable agency-wide audited financial statement;
+&emsp;&emsp;"(A) a review of the report on the applicable agency-wide audited financial statement;
 
-&emsp;&emsp;“(B) any other information the Head of the agency considers relevant and appropriate.
+&emsp;&emsp;"(B) any other information the Head of the agency considers relevant and appropriate.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Date of determination.—The determination under paragraph (1) shall be made no later than 120 days after the earlier of—
 
-&emsp;&emsp;“(A) the date of the receipt of an agency-wide audited financial statement; or
+&emsp;&emsp;"(A) the date of the receipt of an agency-wide audited financial statement; or
 
-&emsp;&emsp;“(B) the last day of the fiscal year following the year covered by such statement.
+&emsp;&emsp;"(B) the last day of the fiscal year following the year covered by such statement.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Remediation plan.—
 
-&emsp;&emsp;“(A) If the Head of an agency determines that the agency's financial management systems do not comply with the requirements of subsection (a), the head of the agency, in consultation with the Director, shall establish a remediation plan that shall include resources, remedies, and intermediate target dates necessary to bring the agency's financial management systems into substantial compliance.
+&emsp;&emsp;"(A) If the Head of an agency determines that the agency's financial management systems do not comply with the requirements of subsection (a), the head of the agency, in consultation with the Director, shall establish a remediation plan that shall include resources, remedies, and intermediate target dates necessary to bring the agency's financial management systems into substantial compliance.
 
-&emsp;&emsp;“(B) If the determination of the head of the agency differs from the audit compliance findings required in subsection (b), the Director shall review such determinations and provide a report on the findings to the appropriate committees of the Congress.
+&emsp;&emsp;"(B) If the determination of the head of the agency differs from the audit compliance findings required in subsection (b), the Director shall review such determinations and provide a report on the findings to the appropriate committees of the Congress.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Time period for compliance.—A remediation plan shall bring the agency's financial management systems into substantial compliance no later than 3 years after the date a determination is made under paragraph (1), unless the agency, with concurrence of the Director—
 
-&emsp;&emsp;“(A) determines that the agency's financial management systems cannot comply with the requirements of subsection (a) within 3 years;
+&emsp;&emsp;"(A) determines that the agency's financial management systems cannot comply with the requirements of subsection (a) within 3 years;
 
-&emsp;&emsp;“(B) specifies the most feasible date for bringing the agency's financial management systems into compliance with the requirements of subsection (a); and
+&emsp;&emsp;"(B) specifies the most feasible date for bringing the agency's financial management systems into compliance with the requirements of subsection (a); and
 
-&emsp;&emsp;“(C) designates an official of the agency who shall be responsible for bringing the agency's financial management systems into compliance with the requirements of subsection (a) by the date specified under subparagraph (B).
+&emsp;&emsp;"(C) designates an official of the agency who shall be responsible for bringing the agency's financial management systems into compliance with the requirements of subsection (a) by the date specified under subparagraph (B).
 
-#### “SEC. 804. REPORTING REQUIREMENTS.
+#### "SEC. 804. REPORTING REQUIREMENTS.
 
-“(a)
+"(a)
 
 Reports by the Director.—No later than March 31 of each year, the Director shall submit a report to the Congress regarding implementation of this Act \[title\]. The Director may include the report in the financial management status report and the 5-year financial management plan submitted under section 3512(a)(1) of title 31, United States Code.
 
-“(b)
+"(b)
 
 Reports by the Inspector General\[.\]—Each Inspector General who prepares a report under section 5(a) of the Inspector General Act of 1978 (5 U.S.C. App.) shall report to Congress instances and reasons when an agency has not met the intermediate target dates established in the remediation plan required under section 3(c) \[803(c)\]. Specifically the report shall include—
 
-&emsp;“(1) the entity or organization responsible for the non-compliance \[sic\];
+&emsp;"(1) the entity or organization responsible for the non-compliance \[sic\];
 
-&emsp;“(2) the facts pertaining to the failure to comply with the requirements of subsection (a), including the nature and extent of the non-compliance \[sic\], the primary reason or cause for the failure to comply, and any extenuating circumstances; and
+&emsp;"(2) the facts pertaining to the failure to comply with the requirements of subsection (a), including the nature and extent of the non-compliance \[sic\], the primary reason or cause for the failure to comply, and any extenuating circumstances; and
 
-&emsp;“(3) a statement of the remedial actions needed to comply.
+&emsp;"(3) a statement of the remedial actions needed to comply.
 
-“(c)
+"(c)
 
 Reports by the Comptroller General.—No later than October 1, 1997, and October 1, of each year thereafter, the Comptroller General of the United States shall report to the appropriate committees of the Congress concerning—
 
-&emsp;“(1) compliance with the requirements of section 3(a) of this Act \[803(a) of this title\], including whether the financial statements of the Federal Government have been prepared in accordance with applicable accounting standards; and
+&emsp;"(1) compliance with the requirements of section 3(a) of this Act \[803(a) of this title\], including whether the financial statements of the Federal Government have been prepared in accordance with applicable accounting standards; and
 
-&emsp;“(2) the adequacy of applicable accounting standards for the Federal Government.
+&emsp;"(2) the adequacy of applicable accounting standards for the Federal Government.
 
-#### “SEC. 805. CONFORMING AMENDMENTS.
+#### "SEC. 805. CONFORMING AMENDMENTS.
 
-“(a)
+"(a)
 
 Audits by Agencies.—\[Amended section 3521 of this title.\]
 
-“(b)
+"(b)
 
 Financial Management Status Report.—\[Amended this section.\]
 
-“(c)
+"(c)
 
 Inspector General Act of 1978.—\[Amended section 5 of the Inspector General Act of 1978, set out in the Appendix to Title 5, Government Organization and Employees.\]
 
-#### “SEC. 806. DEFINITIONS.
+#### "SEC. 806. DEFINITIONS.
 
-“For purposes of this title:
+"For purposes of this title:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Agency.—The term ‘agency’ means a department or agency of the United States Government as defined in section 901(b) of title 31, United States Code.
+Agency.—The term 'agency' means a department or agency of the United States Government as defined in section 901(b) of title 31, United States Code.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Director.—The term ‘Director’ means the Director of the Office of Management and Budget.
+Director.—The term 'Director' means the Director of the Office of Management and Budget.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Federal Accounting Standards.—The term ‘Federal accounting standards’ means applicable accounting principles, standards, and requirements consistent with section 902(a)(3)(A) of title 31, United States Code.
+Federal Accounting Standards.—The term 'Federal accounting standards' means applicable accounting principles, standards, and requirements consistent with section 902(a)(3)(A) of title 31, United States Code.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Financial management systems.—The term ‘financial management systems’ includes the financial systems and the financial portions of mixed systems necessary to support financial management, including automated and manual processes, procedures, controls, data, hardware, software, and support personnel dedicated to the operation and maintenance of system functions.
+Financial management systems.—The term 'financial management systems' includes the financial systems and the financial portions of mixed systems necessary to support financial management, including automated and manual processes, procedures, controls, data, hardware, software, and support personnel dedicated to the operation and maintenance of system functions.
 
-&emsp;“(5)
+&emsp;"(5)
 
-Financial system.—The term ‘financial system’ includes an information system, comprised of one or more applications, that is used for—
+Financial system.—The term 'financial system' includes an information system, comprised of one or more applications, that is used for—
 
-&emsp;&emsp;“(A) collecting, processing, maintaining, transmitting, or reporting data about financial events;
+&emsp;&emsp;"(A) collecting, processing, maintaining, transmitting, or reporting data about financial events;
 
-&emsp;&emsp;“(B) supporting financial planning or budgeting activities;
+&emsp;&emsp;"(B) supporting financial planning or budgeting activities;
 
-&emsp;&emsp;“(C) accumulating and reporting costs information; or
+&emsp;&emsp;"(C) accumulating and reporting costs information; or
 
-&emsp;&emsp;“(D) supporting the preparation of financial statements.
+&emsp;&emsp;"(D) supporting the preparation of financial statements.
 
-&emsp;“(6)
+&emsp;"(6)
 
-Mixed system.—The term ‘mixed system’ means an information system that supports both financial and nonfinancial functions of the Federal Government or components thereof.
+Mixed system.—The term 'mixed system' means an information system that supports both financial and nonfinancial functions of the Federal Government or components thereof.
 
-#### “SEC. 807. EFFECTIVE DATE.
+#### "SEC. 807. EFFECTIVE DATE.
 
-“This title shall take effect for the fiscal year ending September 30, 1997.
+"This title shall take effect for the fiscal year ending September 30, 1997.
 
-#### “SEC. 808. REVISION OF SHORT TITLES.
+#### "SEC. 808. REVISION OF SHORT TITLES.
 
-“(a) \[Amended section 4001 of Pub. L. 104–106, set out as a Short Title of 1996 Act note under section 101 of Title 41, Public Contracts.\]
+"(a) \[Amended section 4001 of Pub. L. 104–106, set out as a Short Title of 1996 Act note under section 101 of Title 41, Public Contracts.\]
 
-“(b) \[Amended section 5001 of Pub. L. 104–106, div. E, Feb. 10, 1996, 110 Stat. 679, subsequently repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.\]
+"(b) \[Amended section 5001 of Pub. L. 104–106, div. E, Feb. 10, 1996, 110 Stat. 679, subsequently repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.\]
 
-“(c) Any reference in any law, regulation, document, record, or other paper of the United States to the Federal Acquisition Reform Act of 1996 or to the Information Technology Management Reform Act of 1996 shall be considered to be a reference to the Clinger-Cohen Act of 1996 \[see Short Title of 1996 Act note set out under section 101 of Title 41\].”
+"(c) Any reference in any law, regulation, document, record, or other paper of the United States to the Federal Acquisition Reform Act of 1996 or to the Information Technology Management Reform Act of 1996 shall be considered to be a reference to the Clinger-Cohen Act of 1996 \[see Short Title of 1996 Act note set out under section 101 of Title 41\]."
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “of”. See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "of". See References in Text note below.</i>
 

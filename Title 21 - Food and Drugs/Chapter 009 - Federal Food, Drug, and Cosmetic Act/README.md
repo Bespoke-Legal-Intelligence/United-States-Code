@@ -13,9 +13,9 @@
 |  |  |
 | :--- | ---: |
 | [321\.](Subchapter%20002%20%28II%29%20-%20Definitions/%C2%A7%2000321%20-%20Definitions%3B%20generally.md) | Definitions; generally. |
-| [321a.](Subchapter%20002%20%28II%29%20-%20Definitions/%C2%A7%2000321a%20-%20%E2%80%9CButter%E2%80%9D%20defined.md) | “Butter” defined. |
-| [321b.](Subchapter%20002%20%28II%29%20-%20Definitions/%C2%A7%2000321b%20-%20%E2%80%9CPackage%E2%80%9D%20defined.md) | “Package” defined. |
-| [321c.](Subchapter%20002%20%28II%29%20-%20Definitions/%C2%A7%2000321c%20-%20Nonfat%20dry%20milk%3B%20%E2%80%9Cmilk%E2%80%9D%20defined.md) | Nonfat dry milk; “milk” defined. |
+| [321a.](Subchapter%20002%20%28II%29%20-%20Definitions/%C2%A7%2000321a%20-%20Butter%20defined.md) | "Butter" defined. |
+| [321b.](Subchapter%20002%20%28II%29%20-%20Definitions/%C2%A7%2000321b%20-%20Package%20defined.md) | "Package" defined. |
+| [321c.](Subchapter%20002%20%28II%29%20-%20Definitions/%C2%A7%2000321c%20-%20Nonfat%20dry%20milk%3B%20milk%20defined.md) | Nonfat dry milk; "milk" defined. |
 | [321d.](Subchapter%20002%20%28II%29%20-%20Definitions/%C2%A7%2000321d%20-%20Market%20names%20for%20catfish%20and%20ginseng.md) | Market names for catfish and ginseng. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -87,7 +87,9 @@
 | [352\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000352%20-%20Misbranded%20drugs%20and%20devices.md) | Misbranded drugs and devices. |
 | [353\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000353%20-%20Exemptions%20and%20consideration%20for%20certain%20drugs%2C%20devices%2C%20and%20biological%20products.md) | Exemptions and consideration for certain drugs, devices, and biological products. |
 | [353a.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000353a%20-%20Pharmacy%20compounding.md) | Pharmacy compounding. |
-| [353b.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000353b%20-%20Prereview%20of%20television%20advertisements.md) | Prereview of television advertisements. |
+| 353a–1. | Enhanced communication. |
+| [353b.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000353b%20-%20Outsourcing%20facilities.md) | Outsourcing facilities. |
+| [353c.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000353c%20-%20Prereview%20of%20television%20advertisements.md) | Prereview of television advertisements. |
 | [354\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000354%20-%20Veterinary%20feed%20directive%20drugs.md) | Veterinary feed directive drugs. |
 | [355\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000355%20-%20New%20drugs.md) | New drugs. |
 | 355–1. | Risk evaluation and mitigation strategies. |
@@ -182,7 +184,9 @@
 | 360bbb–1. | Dispute resolution. |
 | 360bbb–2. | Classification of products. |
 | 360bbb–3. | Authorization for medical products for use in emergencies. |
-| 360bbb–4. | Technical assistance. |
+| 360bbb–3a. | Emergency use of medical products. |
+| 360bbb–3b. | Products held for emergency use. |
+| 360bbb–4. | Countermeasure development, review, and technical assistance. |
 | 360bbb–5. | Critical Path Public-Private Partnerships. |
 | 360bbb–6. | Risk communication. |
 | 360bbb–7. | Notification. |
@@ -210,6 +214,18 @@
 | [360ddd.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20G%20-%20Medical%20Gases/%C2%A7%2000360ddd%20-%20Definitions.md) | Definitions. |
 | 360ddd–1. | Regulation of medical gases. |
 | 360ddd–2. | Inapplicability of drug fees to designated medical gases. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part H—Pharmaceutical Distribution Supply Chain
+
+|  |  |
+| :--- | ---: |
+| [360eee.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20H%20-%20Pharmaceutical%20Distribution%20Supply%20Chain/%C2%A7%2000360eee%20-%20Definitions.md) | Definitions. |
+| 360eee–1. | Requirements. |
+| 360eee–2. | National standards for prescription drug wholesale distributors. |
+| 360eee–3. | National standards for third-party logistics providers. |
+| 360eee–4. | Uniform national policy. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -336,6 +352,15 @@
 | 379j–51. | Definitions. |
 | 379j–52. | Authority to assess and use biosimilar biological product fees. |
 | 379j–53. | Reauthorization; reporting requirements. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 9—fees relating to outsourcing facilities
+
+|  |  |
+| :--- | ---: |
+| 379j–61. | Definitions. |
+| 379j–62. | Authority to assess and use outsourcing facility fees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

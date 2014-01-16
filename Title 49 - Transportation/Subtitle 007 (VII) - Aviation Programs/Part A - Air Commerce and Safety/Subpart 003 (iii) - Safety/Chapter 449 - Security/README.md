@@ -30,6 +30,7 @@
 | [44924\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044924%20-%20Repair%20station%20security.md) | Repair station security. |
 | [44925\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044925%20-%20Deployment%20and%20use%20of%20detection%20equipment%20at%20airport%20screening%20checkpoints.md) | Deployment and use of detection equipment at airport screening checkpoints. |
 | [44926\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044926%20-%20Appeal%20and%20redress%20process%20for%20passengers%20wrongly%20delayed%20or%20prohibited%20from%20boarding%20a%20flight.md) | Appeal and redress process for passengers wrongly delayed or prohibited from boarding a flight. |
+| [44927\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044927%20-%20Expedited%20screening%20for%20severely%20injured%20or%20disabled%20members%20of%20the%20Armed%20Forces%20and%20severely%20injured%20or%20disabled%20veterans.md) | Expedited screening for severely injured or disabled members of the Armed Forces and severely injured or disabled veterans. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -61,7 +62,9 @@
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–271, §2(b), Jan. 14, 2013, 126 Stat. 2447, substituted “Disposition of unclaimed money and clothing” for “Disposition of unclaimed money” in item 44945.
+<b>2013</b>—Pub. L. 113–27, §2(b), Aug. 9, 2013, 127 Stat. 504, which directed amendment of analysis for subchapter I of chapter 449 by adding item 44927 after item 44926, was executed by adding item 44927 to analysis for this chapter to reflect the probable intent of Congress.
+
+Pub. L. 112–271, §2(b), Jan. 14, 2013, 126 Stat. 2447, substituted "Disposition of unclaimed money and clothing" for "Disposition of unclaimed money" in item 44945.
 
 <b>2007</b>—Pub. L. 110–53, title XVI, §1606(b), Aug. 3, 2007, 121 Stat. 483, added item 44926.
 
@@ -75,7 +78,7 @@ Pub. L. 108–7, div. I, title III, §351(c), Feb. 20, 2003, 117 Stat. 420, adde
 
 <b>2002</b>—Pub. L. 107–296, title XIV, §1402(b)(1), Nov. 25, 2002, 116 Stat. 2305, added item 44921.
 
-<b>2001</b>—Pub. L. 107–71, title I, §§101(f)(6), 105(b), 107(b), 108(b), 113(b), 125(b), 131(b), Nov. 19, 2001, 115 Stat. 603, 607, 611, 613, 622, 632, 635, added items 44917 to 44920, 44939, 44941, and 44944 and struck out items 44931 “Director of Intelligence and Security” and 44932 “Assistant Administrator for Civil Aviation Security”.
+<b>2001</b>—Pub. L. 107–71, title I, §§101(f)(6), 105(b), 107(b), 108(b), 113(b), 125(b), 131(b), Nov. 19, 2001, 115 Stat. 603, 607, 611, 613, 622, 632, 635, added items 44917 to 44920, 44939, 44941, and 44944 and struck out items 44931 "Director of Intelligence and Security" and 44932 "Assistant Administrator for Civil Aviation Security".
 
 Pub. L. 107–71, title I, §118(b), Nov. 19, 2001, 115 Stat. 627, which directed addition of item 44940 to the analysis for chapter 449 without specifying the Code title to be amended, was executed by adding item 44940 to this analysis to reflect the probable intent of Congress.
 

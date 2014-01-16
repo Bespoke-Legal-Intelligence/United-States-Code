@@ -4,5 +4,5 @@ Section, Pub. L. 90–264, title III, §301, Mar. 12, 1968, 82 Stat. 46; Pub. L.
 
 #### Codification
 
-Section was classified to section 831 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+Section was classified to section 831 of former Title 40, prior to the enactment of Title 40, Public Buildings,Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 

@@ -14,7 +14,7 @@
 
 (b) The Secretary and the Administrator each may reject a gift under this section when the rejection is in the interest of the Government.
 
-(c) The Secretary and the Administrator shall convert a gift either of them accepts under subsection (a)(1)(C) or (2) of this section to money on the best terms available. If a gift accepted under subsection (a) of this section is subject to a gift or inheritance tax, the Secretary or the Administrator may pay the tax out of the proceeds of the gift or the proceeds of the redemption or sale of the gift.
+(c) The Secretary and the Administrator shall convert a gift either of them accepts under subsection (a)(1)(C) or (2) of this section to moneyon the best terms available. If a gift accepted under subsection (a) of this section is subject to a gift or inheritance tax, the Secretary or the Administrator may pay the tax out of the proceeds of the gift or the proceeds of the redemption or sale of the gift.
 
 (d) The Treasury has an account into which money received as gifts and proceeds from the sale or redemption of gifts under this section shall be deposited. The Secretary shall use the money in the account to pay at maturity, or to redeem or buy before maturity, an obligation of the Government included in the public debt. An obligation of the Government that is paid, redeemed, or bought with money from the account shall be canceled and retired and may not be reissued. Money deposited in the account is appropriated and may be expended to carry out this section.
 
@@ -62,15 +62,15 @@ June 27, 1961, Pub. L. 87–58, 75 Stat. 119.
 
 Sept. 24, 1917, ch. 56, 40 Stat. 288, §24; added Apr. 3, 1945, ch. 51, §4, 59 Stat. 48.
 
-In subsection (a), before clause (1), the words “In order” are omitted as surplus. The words “To provide” are substituted for “to afford” for clarity. The words “for the purpose” are omitted as unnecessary. In clauses (1) and (2), the word “for” is substituted for “on behalf of” for consistency. The word “realized” is omitted as surplus. In clause (2), the word “tangible” is substituted for “real or personal” to eliminate unnecessary words.
+In subsection (a), before clause (1), the words "In order" are omitted as surplus. The words "To provide" are substituted for "to afford" for clarity. The words "for the purpose" are omitted as unnecessary. In clauses (1) and (2), the word "for" is substituted for "on behalf of" for consistency. The word "realized" is omitted as surplus. In clause (2), the word "tangible" is substituted for "real or personal" to eliminate unnecessary words.
 
-In subsections (b) and (c), the words “as the case may be” are omitted as unnecessary.
+In subsections (b) and (c), the words "as the case may be" are omitted as unnecessary.
 
-In subsection (c), the words “under applicable law” are omitted as surplus.
+In subsection (c), the words "under applicable law" are omitted as surplus.
 
-In subsection (d), the words “on the books of” and “special” are omitted as surplus. The words “proceeds from the sale or redemption of gifts” are substituted for “all money received as a result of the conversion into money of gifts of property other than money received” for clarity and consistency.
+In subsection (d), the words "on the books of" and "special" are omitted as surplus. The words "proceeds from the sale or redemption of gifts" are substituted for "all money received as a result of the conversion into money of gifts of property other than money received" for clarity and consistency.
 
-In subsection (e)(1), the word “Secretary” is substituted for “Treasurer of the United States” because of the source provisions restated in section 321(c) of the revised title. In clause (A), the word “given” is substituted for “is donated . . . is bequeathed by will” to eliminate unnecessary words. In clause (B), the word “conditions” is substituted for “terms” for consistency in the revised title and with other titles of the United States Code. In clause (C), the words “by its terms” are omitted as surplus.
+In subsection (e)(1), the word "Secretary" is substituted for "Treasurer of the United States" because of the source provisions restated in section 321(c) of the revised title. In clause (A), the word "given" is substituted for "is donated . . . is bequeathed by will" to eliminate unnecessary words. In clause (B), the word "conditions" is substituted for "terms" for consistency in the revised title and with other titles of the United States Code. In clause (C), the words "by its terms" are omitted as surplus.
 
-In subsection (e)(2), the words “under applicable law” and “bequest” are omitted as surplus. The words “and shall deposit the balance in the Treasury as miscellaneous receipts or as otherwise authorized by law” are omitted as surplus because of section 3302(a) of the revised title. The text of 31:757e(last sentence) is omitted because of the restatement.
+In subsection (e)(2), the words "under applicable law" and "bequest" are omitted as surplus. The words "and shall deposit the balance in the Treasury as miscellaneous receipts or as otherwise authorized by law" are omitted as surplus because of section 3302(a) of the revised title. The text of 31:757e(last sentence) is omitted because of the restatement.
 

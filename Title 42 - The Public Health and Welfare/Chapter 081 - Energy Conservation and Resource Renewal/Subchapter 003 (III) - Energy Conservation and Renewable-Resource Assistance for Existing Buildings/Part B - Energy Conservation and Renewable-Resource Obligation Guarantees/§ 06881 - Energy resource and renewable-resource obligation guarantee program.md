@@ -42,7 +42,7 @@ No obligation may be guaranteed, and no commitment to guarantee an obligation ma
 
 #### (d) Limitations on original principal amount guaranteed; revocation of guarantees and commitments to guarantee; conclusiveness of guarantee
 
-The original principal amount guaranteed under subsection (a) may not exceed 90 percent of the cost of the energy conservation measure or the renewable-resource energy measure financed by the obligation guaranteed under suchsubsection; except that such amount may not exceed 25 percent of the fair market value of the building or industrial plant being modified by such energy conservation measure or renewable-resource energy measure. No guarantee issued, and no commitment to guarantee, which is issued under subsection (a) of this section shall be terminated, canceled, or otherwise revoked except in accordance with reasonable terms and conditions prescribed by the Secretary, after consultation with the Secretary of the Treasury, and contained in the written guarantee or commitment to guarantee. The full faith and credit of the United States is pledged to the payment of all guarantees made under subsection (a) of this section. Any such guarantee made by the Secretary shall be conclusive evidence of the eligibility of the obligation involved for such guarantee, and the validity of any guarantee so made shall be incontestable in the hands of a holder of the guaranteed obligation except for fraud or material misrepresentation on the part of such holder.
+The original principal amount guaranteed under subsection (a) may not exceed 90 percent of the cost of the energy conservation measure or the renewable-resource energy measure financed by the obligation guaranteed under such subsection; except that such amount may not exceed 25 percent of the fair market value of the building or industrial plant being modified by such energy conservation measure or renewable-resource energy measure. No guarantee issued, and no commitment to guarantee, which is issued under subsection (a) of this section shall be terminated, canceled, or otherwise revoked except in accordance with reasonable terms and conditions prescribed by the Secretary, after consultation with the Secretary of the Treasury, and contained in the written guarantee or commitment to guarantee. The full faith and credit of the United States is pledged to the payment of all guarantees made under subsection (a) of this section. Any such guarantee made by the Secretary shall be conclusive evidence of the eligibility of the obligation involved for such guarantee, and the validity of any guarantee so made shall be incontestable in the hands of a holder of the guaranteed obligation except for fraud or material misrepresentation on the part of such holder.
 
 #### (e) Information and assurances required prior to guarantees and commitments to guarantee; maintenance and availability of records; fees to borrowers; exceptions
 
@@ -52,7 +52,7 @@ The original principal amount guaranteed under subsection (a) may not exceed 90 
 
 #### (f) Default in payment of principal due under guaranteed obligation; procedures applicable
 
-(1) If there is a default by the obligor in any payment of principal due under an obligation guaranteed under subsection (a) of this section, and if such default continues for 30 days, the holder of such obligation or his agent has the right to demand payment by the Secretary of the unpaid principal of such obligation, consistent with the terms of the guarantee of such obligation. Such payment may be demanded within such period as may be specified in the guarantee or related agreements, which period shall expire not later than 90 days from the date of such default. If demand occurs within such specified period, then not later than 60 days from the date of such demand, the Secretary shall pay to such holder the unpaid principal of such obligation, consistent with the terms of the guarantee of such obligation; except that (A) the Secretary shall not be required to make any such payment if he finds, prior to the expiration of the 60-day period beginning on the date on which the demand is made, that there was no default by the obligor in the payment of principal or that such default has been remedied, and (B) no such holder shall receive payment or be entitled to retain payment in a total amount which together with any other recovery (including any recovery based upon any security interest) exceeds the actual loss of principal by such holder.
+(1) If there is a default by the obligor in any payment of principal due under an obligationguaranteed under subsection (a) of this section, and if such default continues for 30 days, the holder of such obligation or his agent has the right to demand payment by the Secretary of the unpaid principal of such obligation, consistent with the terms of the guarantee of such obligation. Such payment may be demanded within such period as may be specified in the guarantee or related agreements, which period shall expire not later than 90 days from the date of such default. If demand occurs within such specified period, then not later than 60 days from the date of such demand, the Secretary shall pay to such holder the unpaid principal of such obligation, consistent with the terms of the guarantee of such obligation; except that (A) the Secretary shall not be required to make any such payment if he finds, prior to the expiration of the 60-day period beginning on the date on which the demand is made, that there was no default by the obligor in the payment of principal or that such default has been remedied, and (B) no such holder shall receive payment or be entitled to retain payment in a total amount which together with any other recovery (including any recovery based upon any security interest) exceeds the actual loss of principal by such holder.
 
 (2) If the Secretary makes payment to a holder under paragraph (1), the Secretary shall thereupon—
 
@@ -84,33 +84,33 @@ All laborers and mechanics employed in construction, alteration, or repair which
 
 As used in this part:
 
-&emsp;(1) The term “Secretary” means the Secretary of Energy.
+&emsp;(1) The term "Secretary" means the Secretary of Energy.
 
-&emsp;(2) The term “Comptroller General” means the Comptroller General of the United States.
+&emsp;(2) The term "Comptroller General" means the Comptroller General of the United States.
 
-&emsp;(3) The terms “energy audit”, “energy conservation measure”, “renewable-resource energy measure”, “building”, and “industrial plant” have the meanings prescribed for such terms in section 6326 of this title.
+&emsp;(3) The terms "energy audit", "energy conservation measure", "renewable-resource energy measure", "building", and "industrial plant" have the meanings prescribed for such terms in section 6326 of this title.
 
 (Pub. L. 94–385, title IV, §451, Aug. 14, 1976, 90 Stat. 1165; Pub. L. 95–70, §5, July 21, 1977, 91 Stat. 277; Pub. L. 95–91, title III, §301(a), title VII, §§703, 707, Aug. 4, 1977, 91 Stat. 577, 606, 607; Pub. L. 104–316, title I, §122(q), Oct. 19, 1996, 110 Stat. 3838.)
 
 #### References in Text
 
-This subchapter, referred to in subsec. (e)(1), was in the original “this title”, meaning title IV of Pub. L. 94–385, known as the Energy Conservation in Existing Buildings Act of 1976, which enacted this subchapter, section 6327 of this title, and section 1701z–8 of Title 12, Banks and Banking, amended sections 6323, 6325, and 6326 of this title, and enacted provisions set out as a note under section 6801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
+This subchapter, referred to in subsec. (e)(1), was in the original "this title", meaning title IV of Pub. L. 94–385, known as the Energy Conservation in Existing Buildings Act of 1976, which enacted this subchapter, section 6327 of this title, and section 1701z–8 of Title 12, Banks and Banking, amended sections 6323, 6325, and 6326 of this title, and enacted provisions set out as a note under section 6801 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (h), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
 
-In subsec. (h), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act” and “section 3145 of title 40” substituted for “section 276c of title 40, United States Code”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+In subsec. (h), "sections 3141–3144, 3146, and 3147 of title 40" substituted for "the Davis-Bacon Act" and"section 3145 of title 40" substituted for "section 276c of title 40, United States Code", on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
-In subsec. (i)(1), “The term ‘Secretary’ means the Secretary of Energy” substituted for “The term ‘Administrator’ means the Administrator of the Federal Energy Administration; except that after such Administration ceases to exist, such term means any officer of the United States designated by the President for purposes of this part” in view of termination of Federal Energy Administration and transfer of its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title.
+In subsec. (i)(1), "The term 'Secretary' means the Secretary of Energy" substituted for "The term 'Administrator' means the Administrator of the Federal Energy Administration; except that after such Administration ceases to exist, such term means any officer of the United States designated by the President for purposes of this part" in view of termination of Federal Energy Administration and transfer of its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title.
 
 #### Amendments
 
-<b>1996</b>—Subsecs. (d), (e)(1). Pub. L. 104–316 struck out “and the Comptroller General” after “Secretary of the Treasury”.
+<b>1996</b>—Subsecs. (d), (e)(1). Pub. L. 104–316 struck out "and the Comptroller General" after "Secretary of the Treasury".
 
 <b>1977</b>—Subsec. (g)(3). Pub. L. 95–70 added par. (3).
 
 #### Transfer of Functions
 
-“Secretary”, meaning Secretary of Energy, substituted for “Administrator”, meaning Administrator of Federal Energy Administration, in subsecs. (a) to (f) and (h) pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Federal Energy Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
+"Secretary", meaning Secretary of Energy, substituted for "Administrator", meaning Administrator of Federal Energy Administration, in subsecs. (a) to (f) and (h) pursuant to sections 301(a), 703, and 707 of Pub. L. 95–91, which are classified to sections 7151(a), 7293, and 7297 of this title and which terminated Federal Energy Administration and transferred its functions and functions of Administrator thereof (with certain exceptions) to Secretary of Energy.
 

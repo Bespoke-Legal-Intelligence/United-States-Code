@@ -14,7 +14,7 @@ The Administrator is directed to accelerate the identification of risk zones wit
 
 #### (c) Priority in allocation of manpower and other available resources for identification and mapping of flood hazard areas and flood-risk zones
 
-The Secretary of Defense (through the Army Corps of Engineers), the Secretary of the Interior (through the United States Geological Survey), the Secretary of Agriculture (through the Soil Conservation Service), the Secretary of Commerce (through the National Oceanic and Atmospheric Administration), the head of the Tennessee Valley Authority, and the heads of all other Federal agencies engaged in the identification or delineation of flood-risk zones withinthe several States shall, in consultation with the Administrator, give the highest practicable priority in the allocation of available manpower and other available resources to the identification and mapping of flood hazard areas and flood-risk zones, in order to assist the Administrator to meet the deadline established by this section.
+The Secretary of Defense (through the Army Corps of Engineers), the Secretary of the Interior (through the United States Geological Survey), the Secretary of Agriculture (through the Soil Conservation Service), the Secretary of Commerce (through the National Oceanic and Atmospheric Administration), the head of the Tennessee Valley Authority, and the heads of all other Federal agencies engaged in the identification or delineation of flood-risk zones within the several States shall, in consultation with the Administrator, give the highest practicable priority in the allocation of available manpower and other available resources to the identification and mapping of flood hazard areas and flood-risk zones, in order to assist the Administrator to meet the deadline established by this section.
 
 #### (d) Plan for bringing communities with flood-risk zones into full program status
 
@@ -38,7 +38,7 @@ To promote compliance with the requirements of this chapter, the Administrator s
 
 #### (h) Notification of flood map changes
 
-The Administrator shall cause notice to be published in the Federal Register (or shall provide notice by another comparable method) of any change to flood insurance map panels and any change to flood insurance map panels issued in the form of a letter of map amendment or a letter of map revision. Such notice shall be published or otherwise provided not later than 30 days after the map change or revision becomes effective. Notice by any method other than publication in the Federal Register shall include all pertinent information, provide for regular and frequent distribution, and be at least as accessible to map users as notice in the Federal Register. All notices under this subsection shall include information on how to obtain copies of the changes or revisions.
+The Administrator shall cause notice to be published in the Federal Register (or shall provide notice by another comparable method) of any change to flood insurance map panels and any change to flood insurance map panels issuedin the form of a letter of map amendment or a letter of map revision. Such notice shall be published or otherwise provided not later than 30 days after the map change or revision becomes effective. Notice by any method other than publication in the Federal Register shall include all pertinent information, provide for regular and frequent distribution, and be at least as accessible to map users as notice in the Federal Register. All notices under this subsection shall include information on how to obtain copies of the changes or revisions.
 
 #### (i) Compendia of flood map changes
 
@@ -52,57 +52,57 @@ In the implementation of revisions to and updates of flood insurance rate maps, 
 
 #### References in Text
 
-This chapter, referred to in subsec. (g), was in the original a reference to “this title” meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
+This chapter, referred to in subsec. (g), was in the original a reference to "this title" meaning title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, known as the National Flood Insurance Act of 1968, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
 #### Codification
 
-In subsec. (b), “section 6101 of title 41” substituted for “section 3709 of the Revised Statutes (41 U.S.C. 5)” on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (b), "section 6101 of title 41" substituted for "section 3709 of the Revised Statutes (41 U.S.C. 5)" on authority of Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–141, §100238(b)(1), substituted “Administrator” for “Director” wherever appearing.
+<b>2012</b>—Pub. L. 112–141, §100238(b)(1), substituted "Administrator" for "Director" wherever appearing.
 
-Subsec. (f)(2). Pub. L. 112–141, §100219, struck out “, but which may not exceed 50 percent of the cost of carrying out the requested revision or update” before period at end.
+Subsec. (f)(2). Pub. L. 112–141, §100219, struck out ", but which may not exceed 50 percent of the cost of carrying out the requested revision or update" before period at end.
 
 <b>1994</b>—Subsecs. (e) to (j). Pub. L. 103–325 added subsecs. (e) to (j).
 
-<b>1989</b>—Subsec. (a)(2). Pub. L. 101–137 added par. (2) and struck out former par. (2) which read as follows: “establish flood-risk zones in all such areas, and make estimates with respect to the rates of probable flood-caused loss for the various flood-risk zones for each of these areas, by September 30, 1989.”
+<b>1989</b>—Subsec. (a)(2). Pub. L. 101–137 added par. (2) and struck out former par. (2) which read as follows: "establish flood-risk zones in all such areas, and make estimates with respect to the rates of probable flood-caused loss for the various flood-risk zones for each of these areas, by September 30, 1989."
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–242 substituted “September 30, 1989” for “March 15, 1988”.
+<b>1988</b>—Subsec. (a)(2). Pub. L. 100–242 substituted "September 30, 1989" for "March 15, 1988".
 
-<b>1987</b>—Subsec. (a)(2). Pub. L. 100–200 substituted “March 15, 1988” for “December 16, 1987”.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–200 substituted "March 15, 1988" for "December 16, 1987".
 
-Pub. L. 100–179 substituted “December 16, 1987” for “December 2, 1987”.
+Pub. L. 100–179 substituted "December 16, 1987" for "December 2, 1987".
 
-Pub. L. 100–170 substituted “December 2, 1987” for “November 15, 1987”.
+Pub. L. 100–170 substituted "December 2, 1987" for "November 15, 1987".
 
-Pub. L. 100–154 substituted “November 15, 1987” for “October 31, 1987”.
+Pub. L. 100–154 substituted "November 15, 1987" for "October 31, 1987".
 
-Pub. L. 100–122 substituted “October 31, 1987” for “September 30, 1987”.
+Pub. L. 100–122 substituted "October 31, 1987" for "September 30, 1987".
 
-<b>1986</b>—Subsec. (a)(2). Pub. L. 99–430 substituted “September 30, 1987” for “September 30, 1986”.
+<b>1986</b>—Subsec. (a)(2). Pub. L. 99–430 substituted "September 30, 1987" for "September 30, 1986".
 
-Pub. L. 99–345 substituted “September 30, 1986” for “June 6, 1986”.
+Pub. L. 99–345 substituted "September 30, 1986" for "June 6, 1986".
 
-Pub. L. 99–289 substituted “June 6, 1986” for “April 30, 1986”.
+Pub. L. 99–289 substituted "June 6, 1986" for "April 30, 1986".
 
-Pub. L. 99–272 directed amendment identical to Pub. L. 99–219 substituting “March 17, 1986” for “December 15, 1985”.
+Pub. L. 99–272 directed amendment identical to Pub. L. 99–219 substituting "March 17, 1986" for "December 15, 1985".
 
-Pub. L. 99–267 substituted “April 30, 1986” for “March 17, 1986”.
+Pub. L. 99–267 substituted "April 30, 1986" for "March 17, 1986".
 
-<b>1985</b>—Subsec. (a)(2). Pub. L. 99–219 substituted “March 17, 1986” for “December 15, 1985”.
+<b>1985</b>—Subsec. (a)(2). Pub. L. 99–219 substituted "March 17, 1986" for "December 15, 1985".
 
-Pub. L. 99–156 substituted “December 15, 1985” for “November 14, 1985”.
+Pub. L. 99–156 substituted "December 15, 1985" for "November 14, 1985".
 
-Pub. L. 99–120 substituted “November 14, 1985” for “September 30, 1985”.
+Pub. L. 99–120 substituted "November 14, 1985" for "September 30, 1985".
 
 <b>1984</b>—Subsec. (b). Pub. L. 98–479 substituted reference to subsections (a) and (b) of section 3324 of title 31 for reference to section 3648 of the Revised Statutes, as amended (31 U.S.C. 529).
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–181, §451(d)(1), in provisions preceding par. (1) substituted “Director” for “Secretary”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–181, §451(d)(1), in provisions preceding par. (1) substituted "Director" for "Secretary".
 
-Subsec. (a)(2). Pub. L. 98–181, §451(d)(6), substituted “by September 30, 1985” for “within fifteen years following such date”.
+Subsec. (a)(2). Pub. L. 98–181, §451(d)(6), substituted "by September 30, 1985" for "within fifteen years following such date".
 
-Subsecs. (b), (c). Pub. L. 98–181, §451(d)(1), substituted “Director” for “Secretary” wherever appearing.
+Subsecs. (b), (c). Pub. L. 98–181, §451(d)(1), substituted "Director" for "Secretary" wherever appearing.
 
 Subsec. (d). Pub. L. 98–181, §451(d)(7), added subsec. (d).
 
@@ -118,77 +118,77 @@ For transfer of functions, personnel, assets, and liabilities of the Federal Eme
 
 Pub. L. 112–141, div. F, title II, §100226, July 6, 2012, 126 Stat. 942, provided that:
 
-“(a)
+"(a)
 
 Definitions.—In this section—
 
-&emsp;“(1) the term ‘flood protection structure accreditation requirements’ means the requirements established under section 65.10 of title 44, Code of Federal Regulations, for levee systems to be recognized on maps created for purposes of the National Flood Insurance Program;
+&emsp;"(1) the term 'flood protection structure accreditation requirements' means the requirements established under section 65.10 of title 44, Code of Federal Regulations, for levee systems to be recognized on maps created for purposes of the National Flood Insurance Program;
 
-&emsp;“(2) the term ‘National Committee on Levee Safety’ means the Committee on Levee Safety established under section 9003 of the National Levee Safety Act of 2007 (33 U.S.C. 3302); and
+&emsp;"(2) the term 'National Committee on Levee Safety' means the Committee on Levee Safety established under section 9003 of the National Levee Safety Act of 2007 (33 U.S.C. 3302); and
 
-&emsp;“(3) the term ‘task force’ means the Flood Protection Structure Accreditation Task Force established under subsection (b).
+&emsp;"(3) the term 'task force' means the Flood Protection Structure Accreditation Task Force established under subsection (b).
 
-“(b)
+"(b)
 
 Establishment.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Administrator and the Secretary of the Army, acting through the Chief of Engineers, in cooperation with the National Committee on Levee Safety, shall jointly establish a Flood Protection Structure Accreditation Task Force.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Duties.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 Developing process.—The task force shall develop a process to better align the information and data collected by or for the Corps of Engineers under the Inspection of Completed Works Program with the flood protection structure accreditation requirements so that—
 
-&emsp;&emsp;&emsp;“(i) information and data collected for either purpose can be used interchangeably; and
+&emsp;&emsp;&emsp;"(i) information and data collected for either purpose can be used interchangeably; and
 
-&emsp;&emsp;&emsp;“(ii) information and data collected by or for the Corps of Engineers under the Inspection of Completed Works Program is sufficient to satisfy the flood protection structure accreditation requirements.
+&emsp;&emsp;&emsp;"(ii) information and data collected by or for the Corps of Engineers under the Inspection of Completed Works Program is sufficient to satisfy the flood protection structure accreditation requirements.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Gathering recommendations.—The task force shall gather, and consider in the process developed under subparagraph (A), recommendations from interested persons in each region relating to the information, data, and accreditation requirements described in subparagraph (A).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Considerations.—In developing the process under paragraph (2), the task force shall consider changes to—
 
-&emsp;&emsp;“(A) the information and data collected by or for the Corps of Engineers under the Inspection of Completed Works Program; and
+&emsp;&emsp;"(A) the information and data collected by or for the Corps of Engineers under the Inspection of Completed Works Program; and
 
-&emsp;&emsp;“(B) the flood protection structure accreditation requirements.
+&emsp;&emsp;"(B) the flood protection structure accreditation requirements.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Rule of construction.—Nothing in this section shall be construed to require a reduction in the level of public safety and flood control provided by accredited levees, as determined by the Administrator for purposes of this section.
 
-“(c)
+"(c)
 
 Implementation.—The Administrator and the Secretary of the Army, acting through the Chief of Engineers, shall implement the process developed by the task force under subsection (b) not later than 1 year after the date of enactment of this Act \[July 6, 2012\] and shall complete the process under subsection (b) not later than 2 years after the date of enactment of this Act.
 
-“(d)
+"(d)
 
 Reports.—The Administrator and the Secretary of the Army, acting through the Chief of Engineers, in cooperation with the National Committee on Levee Safety, shall jointly submit to the Committee on Banking, Housing, and Urban Affairs and the Committee on Environment and Public Works of the Senate and the Committee on Financial Services, the Committee on Transportation and Infrastructure, and the Committee on Natural Resources of the House of Representatives reports concerning the activities of the task force and the implementation of the process developed by the task force under subsection (b), including—
 
-&emsp;“(1) an interim report, not later than 180 days after the date of enactment of this Act \[July 6, 2012\]; and
+&emsp;"(1) an interim report, not later than 180 days after the date of enactment of this Act \[July 6, 2012\]; and
 
-&emsp;“(2) a final report, not later than 1 year after the date of enactment of this Act.
+&emsp;"(2) a final report, not later than 1 year after the date of enactment of this Act.
 
-“(e)
+"(e)
 
-Termination.—The task force shall terminate on the date of submission of the report under subsection (d)(2).”
+Termination.—The task force shall terminate on the date of submission of the report under subsection (d)(2)."
 
 \[For definitions of terms used in section 100226 of Pub. L. 112–141, set out above, see section 4004 of this title.\]
 
 #### Geospatial Digital Flood Hazard Data
 
-Pub. L. 108–264, title I, §107, June 30, 2004, 118 Stat. 724, provided that: “For the purposes of flood insurance and floodplain management activities conducted pursuant to the National Flood Insurance Program under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), geospatial digital flood hazard data distributed by the Federal Emergency Management Agency, or its designee, or the printed products derived from that data, are interchangeable and legally equivalent for the determination of the location of 1 in 100 year and 1 in 500 year flood planes \[sic\], provided that all other geospatial data shown on the printed product meets or exceeds any accuracy standard promulgated by the Federal Emergency Management Agency.”
+Pub. L. 108–264, title I, §107, June 30, 2004, 118 Stat. 724, provided that: "For the purposes of flood insurance and floodplain management activities conducted pursuant to the National Flood Insurance Program under the National Flood Insurance Act of 1968 (42 U.S.C. 4001 et seq.), geospatial digital flood hazard data distributed by the Federal Emergency Management Agency, or its designee, or the printed products derived from that data, are interchangeable and legally equivalent for the determination of the location of 1 in 100 year and 1 in 500 year flood planes \[sic\], provided that all other geospatial data shown on the printed product meets or exceeds any accuracy standard promulgated by the Federal Emergency Management Agency."
 
 #### Reiteration of FEMA Responsibility to Map Mudslides
 
-Pub. L. 108–264, title I, §109, June 30, 2004, 118 Stat. 725, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided that: “As directed in section 1360(b) of the National Flood Insurance Act of 1968 (42 U.S.C. 4101(b)), the Administrator of the Federal Emergency Management Agency is again directed to accelerate the identification of risk zones within flood-prone and mudslide-prone areas, as provided by subsection (a)(2) of such section 1360, in order to make known the degree of hazard within each such zone at the earliest possible date.”
+Pub. L. 108–264, title I, §109, June 30, 2004, 118 Stat. 725, as amended by Pub. L. 109–295, title VI, §612(c), Oct. 4, 2006, 120 Stat. 1410, provided that: "As directed in section 1360(b) of the National Flood Insurance Act of 1968 (42 U.S.C. 4101(b)), the Administrator of the Federal Emergency Management Agency is again directed to accelerate the identification of risk zones within flood-prone and mudslide-prone areas, as provided by subsection (a)(2) of such section 1360, in order to make known the degree of hazard within each such zone at the earliest possible date."
 
 #### Technical Mapping Advisory Council
 

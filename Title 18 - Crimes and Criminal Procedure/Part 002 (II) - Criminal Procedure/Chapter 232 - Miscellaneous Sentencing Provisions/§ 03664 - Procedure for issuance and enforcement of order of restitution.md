@@ -6,7 +6,7 @@
 
 (c) The provisions of this chapter, chapter 227, and Rule 32(c) of the Federal Rules of Criminal Procedure shall be the only rules applicable to proceedings under this section.
 
-(d)(1) Upon the request of the probation officer, but not later than 60 days prior to the date initially set for sentencing, the attorney for the Government, after consulting, to the extent practicable, with all identified victims, shall promptly provide the probation officer with a listing of the amounts subject to restitution.
+(d)(1) Upon the request of the probation officer, but not later than 60 days prior to the dateinitially set for sentencing, the attorney for the Government, after consulting, to the extent practicable, with all identified victims, shall promptly provide the probation officer with a listing of the amounts subject to restitution.
 
 (2) The probation officer shall, prior to submitting the presentence report under subsection (a), to the extent practicable—
 
@@ -66,7 +66,7 @@
 
 (h) If the court finds that more than 1 defendant has contributed to the loss of a victim, the court may make each defendant liable for payment of the full amount of restitution or may apportion liability among the defendants to reflect the level of contribution to the victim's loss and economic circumstances of each defendant.
 
-(i) If the court finds that more than 1 victim has sustained a loss requiring restitution by a defendant, the court may provide for a different payment schedule for each victim based on the type and amount of each victim's loss and accounting for the economic circumstances of each victim. In any case in which the United States is a victim, the court shall ensure that all other victims receive full restitution before the United States receives any restitution.
+(i) If the court finds that more than 1 victim has sustained a loss requiring restitution by adefendant, the court may provide for a different payment schedule for each victim based on the type and amount of each victim's loss and accounting for the economic circumstances of each victim. In any case in which the United States is a victim, the court shall ensure that all other victims receive full restitution before the United States receives any restitution.
 
 (j)(1) If a victim has received compensation from insurance or any other source with respect to a loss, the court shall order that restitution be paid to the person who provided or is obligated to provide the compensation, but the restitution order shall provide that all restitution of victims required by the order be paid to the victims before any restitution is paid to such a provider of compensation.
 
@@ -114,11 +114,11 @@ The Federal Rules of Criminal Procedure, referred to in subsecs. (c) and (o)(1)(
 
 #### Amendments
 
-<b>2002</b>—Subsec. (o)(1)(C). Pub. L. 107–273 substituted “subsection (d)(5)” for “section 3664(d)(3)”.
+<b>2002</b>—Subsec. (o)(1)(C). Pub. L. 107–273 substituted "subsection (d)(5)" for "section 3664(d)(3)".
 
 <b>1996</b>—Pub. L. 104–132 amended section generally, substituting provisions relating to procedure for issuance and enforcement of orders of restitution for provisions relating to procedure for issuing orders of restitution.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–647 substituted “3663” for “3579”.
+<b>1990</b>—Subsec. (a). Pub. L. 101–647 substituted "3663" for "3579".
 
 #### Effective Date of 1996 Amendment
 

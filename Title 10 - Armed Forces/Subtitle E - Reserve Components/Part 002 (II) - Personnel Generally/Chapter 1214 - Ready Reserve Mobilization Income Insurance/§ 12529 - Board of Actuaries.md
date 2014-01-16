@@ -22,7 +22,7 @@ Insufficient Assets.—If at any time liabilities of the Fund exceed assets of t
 
 (f)
 
-Definition of Present Value.—The Board of Actuaries shall define the term “present value” for purposes of this subsection.
+Definition of Present Value.—The Board of Actuaries shall define the term "present value" for purposes of this subsection.
 
 (Added Pub. L. 104–106, div. A, title V, §512(a)(1), Feb. 10, 1996, 110 Stat. 303.)
 

@@ -78,7 +78,7 @@ In general.—The Bank shall—
 
 Content of notice.—The notice published under clause (i)(I) with respect to an application for a loan or financial guarantee shall include appropriate information about—
 
-&emsp;&emsp;&emsp;(I) a brief non-proprietary description of the purposes of the transaction and the anticipated use of any item being exported, including, to the extent the Bank is reasonably aware, whether the item may be used to produce exports or provide services in competition with the exportation of goods or the provision of services by a United States industry;
+&emsp;&emsp;&emsp;(I) a brief non-proprietary description of the purposes of the transaction and the anticipated use of any item being exported,including, to the extent the Bank is reasonably aware, whether the item may be used to produce exports or provide services in competition with the exportation of goods or the provision of services by a United States industry;
 
 &emsp;&emsp;&emsp;(II) the identities of the obligor, principal supplier, and guarantor; and
 
@@ -94,7 +94,7 @@ In general.—If a material change is made to an application to which this parag
 
 &emsp;&emsp;(ii)
 
-Material change defined.—In clause (i), the term “material change”, with respect to an application for a loan or guarantee, includes an increase of at least 25 percent in the amount of a loan or guarantee requested in the application.
+Material change defined.—In clause (i), the term "material change", with respect to an application for a loan or guarantee, includes an increase of at least 25 percent in the amount of a loan or guarantee requested in the application.
 
 &emsp;(E)
 
@@ -122,7 +122,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 (3) The Advisory Committee shall meet at least once each quarter.
 
-(4) The Advisory Committee shall advise the Bank on its programs, and shall submit, withthe report specified in section 635(b)(1)(A) of this title, its own comments to the Congress on the extent to which the Bank is meeting its mandate to provide competitive financing to expand United States exports, and any suggestions for improvements in this regard.
+(4) The Advisory Committee shall advise the Bank on its programs, and shall submit, with the report specified in section 635(b)(1)(A) of this title, its own comments to the Congress on the extent to which the Bank is meeting its mandate to provide competitive financing to expand United States exports, and any suggestions for improvements in this regard.
 
 (5) In carrying out paragraph (4), the Advisory Committee shall consider ways to promote the financing of Bank transactions for the textile industry, consistent with the requirement that the Bank obtain a reasonable assurance of repayment, and determine ways to—
 
@@ -140,9 +140,9 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 #### (1) Establishment
 
-&emsp;There is established a Small Business Division (in this subsection referred to as the “Division”) within the Bank in order to—
+&emsp;There is established a Small Business Division (in this subsection referred to as the "Division") within the Bank in order to—
 
-&emsp;&emsp;(A) carry out the provisions of subparagraphs (E) and (I) of section 635(b)(1) of this title relating to outreach, feedback, product improvement, and transaction advocacy for small business concerns (as defined in section 632(a) of title 15);
+&emsp;&emsp;(A) carry out the provisions of subparagraphs (E) and (I) of section 635(b)(1) of this title relating to outreach, feedback, product improvement, and transaction advocacy forsmall business concerns (as defined in section 632(a) of title 15);
 
 &emsp;&emsp;(B) advise and seek feedback from small business concerns on the opportunities and benefits for small business concerns in the financing products offered by the Bank, with particular emphasis on conducting outreach, enhancing the tailoring of products to small business needs and increasing loans to small business concerns;
 
@@ -192,7 +192,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 #### (1) Establishment
 
-&emsp;There is established a management committee to be known as the “Small Business Committee”.
+&emsp;There is established a management committee to be known as the "Small Business Committee".
 
 #### (2) Purpose and duties
 
@@ -264,7 +264,7 @@ Rule of interpretation.—The obligations imposed by this paragraph shall not be
 
 #### (2) Surplus
 
-&emsp;In paragraph (1), the term “surplus” means the amount (if any) by which—
+&emsp;In paragraph (1), the term "surplus" means the amount (if any) by which—
 
 &emsp;&emsp;(A) the sum of the interest and fees collected by the Bank; exceeds
 
@@ -296,7 +296,7 @@ Provisions of subsecs. (b) and (c)(3) of this section, which prescribed the annu
 
 <b>2012</b>—Subsec. (c)(10). Pub. L. 112–122, §9(a), added par. (10).
 
-Subsec. (d)(1)(B). Pub. L. 112–122, §20(a), substituted “State government, and the textile industry” for “and State government”.
+Subsec. (d)(1)(B). Pub. L. 112–122, §20(a), substituted "State government, and the textile industry" for "and State government".
 
 Subsec. (d)(5). Pub. L. 112–122, §20(b)(1), added par. (5).
 
@@ -304,9 +304,9 @@ Subsec. (j). Pub. L. 112–122, §19, added subsec. (j).
 
 <b>2006</b>—Subsec. (c)(9). Pub. L. 109–438, §15, added par. (9).
 
-Subsec. (d)(1)(A). Pub. L. 109–438, §18(a)(1)(A), substituted “17” for “15”.
+Subsec. (d)(1)(A). Pub. L. 109–438, §18(a)(1)(A), substituted "17" for "15".
 
-Subsec. (d)(1)(B). Pub. L. 109–438, §18(a)(1)(B), inserted “environment,” before “production,”.
+Subsec. (d)(1)(B). Pub. L. 109–438, §18(a)(1)(B), inserted "environment," before "production,".
 
 Subsec. (d)(2)(C). Pub. L. 109–438, §18(a)(2), added subpar. (C).
 
@@ -316,23 +316,23 @@ Subsec. (i). Pub. L. 109–438, §14(a), added subsec. (i).
 
 <b>2002</b>—Subsec. (d)(2)(B). Pub. L. 107–189 realigned margins.
 
-<b>1999</b>—Subsec. (c)(6). Pub. L. 106–46 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “A majority of the Board of Directors shall constitute a quorum.”
+<b>1999</b>—Subsec. (c)(6). Pub. L. 106–46 amended par. (6) generally. Prior to amendment, par. (6) read as follows: "A majority of the Board of Directors shall constitute a quorum."
 
 <b>1997</b>—Subsec. (d)(2). Pub. L. 105–121, §8, designated existing provisions as subpar. (A) and added subpar. (B).
 
 Subsec. (e). Pub. L. 105–121, §6, designated existing provisions as par. (1) and added par. (2).
 
-<b>1992</b>—Subsec. (d)(1)(A). Pub. L. 102–429 substituted “15 members” for “twelve members”.
+<b>1992</b>—Subsec. (d)(1)(A). Pub. L. 102–429 substituted "15 members" for "twelve members".
 
 <b>1986</b>—Subsec. (c)(8)(E). Pub. L. 99–472 added subpar. (E).
 
-<b>1983</b>—Subsec. (c). Pub. L. 98–81, §614(a), designated first through seventh sentences as pars. (1) through (7), respectively, substituted “The” for “Terms of the directors shall be at the pleasure of the President of the United States, and the” at beginning of par. (5) as so designated, and added par. (8).
+<b>1983</b>—Subsec. (c). Pub. L. 98–81, §614(a), designated first through seventh sentences as pars. (1) through (7), respectively, substituted "The" for "Terms of the directors shall be at the pleasure of the President of the United States, and the" at beginning of par. (5) as so designated, and added par. (8).
 
-Subsec. (d). Pub. L. 98–181, §613, amended subsec. (d) generally. Prior to amendment subsec. (d) read as follows: “There shall be an Advisory Committee of nine members, appointed by the Board of Directors on the recommendation of the President of the Bank, who shall be broadly representative of production, commerce, finance, agriculture and labor. The Advisory Committee shall meet one or more times per year, on the call of the President of the Bank, to advise with the Bank on its program. Members, not otherwise in the regular full-time employ of the United States, may be compensated at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule (5 U.S.C. 5332) for each day spent in travel or attendance at meetings of the Committee, and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently.”
+Subsec. (d). Pub. L. 98–181, §613, amended subsec. (d) generally. Prior to amendment subsec. (d) read as follows: "There shall be an Advisory Committee of nine members, appointed by the Board of Directors on the recommendation of the President of the Bank, who shall be broadly representative of production, commerce, finance, agriculture and labor. The Advisory Committee shall meet one or more times per year, on the call of the President of the Bank, to advise with the Bank on its program. Members, not otherwise in the regular full-time employ of the United States, may be compensated at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule (5 U.S.C. 5332) for each day spent in travel or attendance at meetings of the Committee, and while so serving away from their homes or regular places of business, they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently."
 
-Subsec. (e). Pub. L. 98–181, §620(b), substituted “such individual's” for “his” and “such individual” for “he”.
+Subsec. (e). Pub. L. 98–181, §620(b), substituted "such individual's" for "his" and "such individual" for "he".
 
-<b>1968</b>—Subsecs. (a) to (c). Pub. L. 90–267, §1(a), changed name of “Export-Import Bank of Washington” to “Export-Import Bank of the United States”.
+<b>1968</b>—Subsecs. (a) to (c). Pub. L. 90–267, §1(a), changed name of "Export-Import Bank of Washington" to "Export-Import Bank of the United States".
 
 Subsec. (d). Pub. L. 90–267, §1(d), substituted provisions for compensation of members, not otherwise in the regular full-time employ of the United States, at rates not exceeding the per diem equivalent of the rate for grade 18 of the General Schedule for each day spent in travel or attendance at meetings of the Committee, and for allowance of travel expenses, when serving away from home or regular place of business, as authorized by section 5703 of title 5 for individuals in the Government service employed intermittently for former provisions for allowance for attendance at meetings and travel expenses of $50 and $10, respectively.
 
@@ -340,57 +340,57 @@ Subsec. (d). Pub. L. 90–267, §1(d), substituted provisions for compensation o
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–122, §9(b), May 30, 2012, 126 Stat. 356, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect 60 days after the date of the enactment of this Act \[May 30, 2012\].”
+Pub. L. 112–122, §9(b), May 30, 2012, 126 Stat. 356, provided that: "The amendment made by subsection (a) \[amending this section\] shall take effect 60 days after the date of the enactment of this Act \[May 30, 2012\]."
 
 Amendment by sections 19–20(b)(1) of Pub. L. 112–122 effective May 30, 2012, see section 25 of Pub. L. 112–122, set out as a note under section 635 of this title.
 
 #### Effective Date of 1954 Amendment
 
-Act Aug. 9, 1954, ch. 660, §4, 68 Stat. 678, provided that: “The provisions of this Act for the appointmentof a President and a First Vice President of the Bank and the members of the Board of Directors shall be effective upon its enactment \[Aug. 9, 1954\]. The remaining provisions of this Act shall become effective when the President and First Vice President of the Bank and one other member of the Board of Directors initially appointed hereunder enter upon office, and shall thereupon supersede Reorganization Plan No. 5 of 1953 \[set out below\].”
+Act Aug. 9, 1954, ch. 660, §4, 68 Stat. 678, provided that: "The provisions of this Act for the appointment of a President and a First Vice President of the Bank and the members of the Board of Directors shall be effective upon its enactment \[Aug. 9, 1954\]. The remaining provisions of this Act shall become effective when the President and First Vice President of the Bank and one other member of the Board of Directors initially appointed hereunder enter upon office, and shall thereupon supersede Reorganization Plan No. 5 of 1953 \[set out below\]."
 
 #### Untied Aid
 
 Pub. L. 107–189, §10(a), June 14, 2002, 116 Stat. 702, provided that:
 
-“(1)
+"(1)
 
 Negotiations.—The Secretary of the Treasury shall seek to negotiate an OECD Arrangement on Untied Aid. In the negotiations, the Secretary should seek agreement on subjecting untied aid to the rules governing the Arrangement, including the rules governing disclosure.
 
-“(2)
+"(2)
 
-Report to the congress.—Within 1 year after the date of the enactment of this Act \[June 14, 2002\], the Secretary of the Treasury shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the successes, failures, and obstacles in initiating negotiations, and if negotiations were initiated, in reaching the agreement described in paragraph (1).”
+Report to the congress.—Within 1 year after the date of the enactment of this Act \[June 14, 2002\], the Secretary of the Treasury shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the successes, failures, and obstacles in initiating negotiations, and if negotiations were initiated, in reaching the agreement described in paragraph (1)."
 
 #### Board of Directors; Exception to Quorum Requirement
 
-Pub. L. 106–46, §1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 106–62, §122, Sept. 30, 1999, 113 Stat. 509; Pub. L. 106–85, Oct. 29, 1999, 113 Stat. 1297; Pub. L. 106–88, Nov. 5, 1999, 113 Stat. 1304; Pub. L. 106–94, Nov. 10, 1999, 113 Stat. 1311; Pub. L. 106–105, Nov. 18, 1999, 113 Stat. 1484; Pub. L. 106–106, Nov. 19, 1999, 113 Stat. 1485, provided that: “Notwithstanding section 3(c)(6) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635a(c)(6)\], if, during the period that begins on July 21, 1999, and ends on December 2, 1999, there are fewer than three persons holding office on the Board of Directors of the Export-Import Bank of the United States, the entire membership of such Board of Directors shall constitute a quorum until the end of such period.”
+Pub. L. 106–46, §1(b), Aug. 11, 1999, 113 Stat. 227, as amended by Pub. L. 106–62, §122, Sept. 30, 1999, 113 Stat. 509; Pub. L. 106–85, Oct. 29, 1999, 113 Stat. 1297; Pub. L. 106–88, Nov. 5, 1999, 113 Stat. 1304; Pub. L. 106–94, Nov. 10, 1999, 113 Stat. 1311; Pub. L. 106–105, Nov. 18, 1999, 113 Stat. 1484; Pub. L. 106–106, Nov. 19, 1999, 113 Stat. 1485, provided that: "Notwithstanding section 3(c)(6) of the Export-Import Bank Act of 1945 \[12 U.S.C. 635a(c)(6)\], if, during the period that begins on July 21, 1999, and ends on December 2, 1999, there are fewer than three persons holding office on the Board of Directors of the Export-Import Bank of the United States, the entire membership of such Board of Directors shall constitute a quorum until the end of such period."
 
 #### Compensation of Employees
 
 Pub. L. 102–429, title I, §117, Oct. 21, 1996, 106 Stat. 2196, provided that:
 
-“\[(a) Repealed. Pub. L. 102–429, title I, §117(b), Oct. 21, 1996, 106 Stat. 2196.\]
+"\[(a) Repealed. Pub. L. 102–429, title I, §117(b), Oct. 21, 1996, 106 Stat. 2196.\]
 
-“(b)
+"(b)
 
 Sunset.—Effective 2 years after the date of enactment of this Act \[Oct. 21, 1992\], subsection (a) is hereby repealed.
 
-“(c)
+"(c)
 
 Report.—Not later than 1 year after the date of enactment of this Act, the Export-Import Bank of the United States shall submit a report to the Congress on—
 
-&emsp;“(1) the recruitment and employee retention problems of the Bank;
+&emsp;"(1) the recruitment and employee retention problems of the Bank;
 
-&emsp;“(2) any relief from such problems afforded by the Office of Personnel Management;
+&emsp;"(2) any relief from such problems afforded by the Office of Personnel Management;
 
-&emsp;“(3) any use of the authority provided in subsection (a); and
+&emsp;"(3) any use of the authority provided in subsection (a); and
 
-&emsp;“(4) the conclusions and recommendations of the Bank with respect to—
+&emsp;"(4) the conclusions and recommendations of the Bank with respect to—
 
-&emsp;&emsp;“(A) whether such problems have been satisfactorily addressed; and
+&emsp;&emsp;"(A) whether such problems have been satisfactorily addressed; and
 
-&emsp;&emsp;“(B) whether or not the authority of subsection (a) should be extended.”
+&emsp;&emsp;"(B) whether or not the authority of subsection (a) should be extended."
 
-\[Pub. L. 112–74, div. I, title VI, Dec. 23, 2011, 125 Stat. 1191, provided in part: “That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 2012”.\]
+\[Pub. L. 112–74, div. I, title VI, Dec. 23, 2011, 125 Stat. 1191, provided in part: "That notwithstanding subsection (b) of section 117 of the Export Enhancement Act of 1992 \[Pub. L. 102–429, set out above\], subsection (a) thereof shall remain in effect until October 1, 2012".\]
 
 \[Prior similar extensions of section 117(a) of Pub. L. 102–429 were contained in the following acts:
 
@@ -430,7 +430,7 @@ Pub. L. 102–429, title I, §118, Oct. 21, 1992, 106 Stat. 2197, directed Expor
 
 #### Appointment of Member of Board To Represent Interests of Small Business Community
 
-Pub. L. 98–181, title I \[title VI, §614(b)\], Nov. 30, 1983, 97 Stat. 1256, provided that: “In order to carry out the amendment made by subsection (a) regarding section 3(c)(8)(B) of the Export-Import Bank Act of 1945 \[subsec. (c)(8)(B) of this section\], the first member, other than a member who will serve as Chairman or Vice Chairman of the Bank, appointed by the President of the United States to the Board of Directors of the Export-Import Bank of the United States after the date of the enactment of this section \[Nov. 30, 1983\] shall be selected from among the small business community and shall represent the interests of small business.”
+Pub. L. 98–181, title I \[title VI, §614(b)\], Nov. 30, 1983, 97 Stat. 1256, provided that: "In order to carry out the amendment made by subsection (a) regarding section 3(c)(8)(B) of the Export-Import Bank Act of 1945 \[subsec. (c)(8)(B) of this section\], the first member, other than a member who will serve as Chairman or Vice Chairman of the Bank, appointed by the President of the United States to the Board of Directors of the Export-Import Bank of the United States after the date of the enactment of this section \[Nov. 30, 1983\] shall be selected from among the small business community and shall represent the interests of small business."
 
 #### Board of Directors; Advisory Committee
 
@@ -454,7 +454,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. The Managing Director
 
-There is hereby established the office of Managing Director of the Export-Import Bank of Washington,hereinafter referred to as the “Managing Director.” The Managing Director shall be appointed by the President by and with the advice and consent of the Senate, and shall receive compensation at the rate of $17,500 per annum.
+There is hereby established the office of Managing Director of the Export-Import Bank of Washington, hereinafter referred to as the "Managing Director." The Managing Director shall be appointed by the President by and with the advice and consent of the Senate, and shall receive compensation at the rate of $17,500 per annum.
 
 #### Sec. 2. Deputy Director
 
@@ -484,11 +484,11 @@ The following are hereby abolished: (1) The Board of Directors of the Export-Imp
 
 Sections 3 to 7, inclusive, of this reorganization plan shall become effective when the Managing Director first appointed hereunder enters upon office pursuant to the provisions of this reorganization plan.
 
-\[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The “Export-Import Bank of Washington” was renamed the “Export-Import Bank of the United States” by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
+\[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The "Export-Import Bank of Washington" was renamed the "Export-Import Bank of the United States" by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
 
 #### United States Trade Representative and Secretary of Commerce as Additional Members of Board of Directors of Export-Import Bank of the United States
 
 For provisions directing that the United States Trade Representative and the Secretary of Commerce serve, ex officio and without vote, as additional members of the Board of Directors of the Export-Import Bank of the United States, see section 3 of 1979 Reorg. Plan No. 3, set out in the Appendix to Title 5, Government Organization and Employees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(i)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(i)".</i>
 

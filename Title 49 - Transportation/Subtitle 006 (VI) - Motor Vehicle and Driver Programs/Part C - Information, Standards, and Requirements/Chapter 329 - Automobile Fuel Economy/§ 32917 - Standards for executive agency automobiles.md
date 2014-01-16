@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “executive agency” has the same meaning given that term in section 105 of title 5.
+Definition.—In this section, "executive agency" has the same meaning given that term in section 105 of title 5.
 
 (b)
 
@@ -40,7 +40,7 @@ Oct. 20, 1972, Pub. L. 92–513, 86 Stat. 947, §510; added Dec. 22, 1975, Pub. 
 
 15:2010(a), (b)(1), (3).
 
-In subsection (b)(1), before clause (A), the words “within 120 days after December 22, 1975” and “which begins after December 22, 1975” are omitted as executed. The words “(determined under paragraph (2) of this subsection)” are added for clarity.
+In subsection (b)(1), before clause (A), the words "within 120 days after December 22, 1975" and "which begins after December 22, 1975" are omitted as executed. The words "(determined under paragraph (2) of this subsection)" are added for clarity.
 
-In subsection (b)(2), before clause (A), the words “As used in this section: (1) The term” are omitted as surplus. In clause (A), the words “to which this section applies” and “for the Armed Forces” are omitted as surplus. In clause (B), the words “the sum of the fractions obtained” are substituted for “a sum of terms, each term of which is a fraction created” to eliminate unnecessary words.
+In subsection (b)(2), before clause (A), the words "As used in this section: (1) The term" are omitted as surplus. In clause (A), the words "to which this section applies" and "for the Armed Forces" are omitted as surplus. In clause (B), the words "the sum of the fractions obtained" are substituted for "a sum of terms, each term of which is a fraction created" to eliminate unnecessary words.
 

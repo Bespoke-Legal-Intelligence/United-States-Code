@@ -22,9 +22,9 @@ This title, referred to in subsec. (c)(2), means title II of Pub. L. 101–647, 
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c)(1). Pub. L. 107–273 substituted “sections 5673 and 5676 of this title” for “sections 5665a, 5673, and 5676 of this title”.
+<b>2002</b>—Subsec. (c)(1). Pub. L. 107–273 substituted "sections 5673 and 5676 of this title" for "sections 5665a, 5673, and 5676 of this title".
 
-<b>1992</b>—Subsecs. (a), (c)(1). Pub. L. 102–586, §6(d), substituted “Administrator” for “Director”.
+<b>1992</b>—Subsecs. (a), (c)(1). Pub. L. 102–586, §6(d), substituted "Administrator" for "Director".
 
 #### Effective Date of 2002 Amendment
 

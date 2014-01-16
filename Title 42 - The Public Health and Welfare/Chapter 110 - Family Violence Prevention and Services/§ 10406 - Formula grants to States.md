@@ -36,7 +36,7 @@ The Secretary shall award grants to States in order to assist in supporting the 
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No person shall on the ground of sex or religion be excluded from participation in, be denied the benefits of, or be subject to discrimination under, any program or activity funded in whole or in part with funds made available under this chapter. Nothing in this chapter shall require any such program or activity to include any individual in any program or activity without taking into consideration that individual's sex in those certain instances where sex is a bona fide occupational qualification or programmatic factor reasonably necessary to the normal or safe operation of that particular program or activity.
+&emsp;&emsp;&emsp;No person shall on the ground of sex or religion be excluded from participation in,be denied the benefits of, or be subject to discrimination under, any program or activity funded in whole or in part with funds made available under this chapter. Nothing in this chapter shall require any such program or activity to include any individual in any program or activity without taking into consideration that individual's sex in those certain instances where sex is a bona fide occupational qualification or programmatic factor reasonably necessary to the normal or safe operation of that particular program or activity.
 
 #### (ii) Enforcement
 
@@ -58,7 +58,7 @@ The Secretary shall award grants to States in order to assist in supporting the 
 
 #### (D) Enforcement authority of Attorney General
 
-&emsp;&emsp;When a matter is referred to the Attorney General pursuant to subparagraph (C)(i), or whenever the Attorney General has reason to believe that a State, an Indian tribe, or an entity described in subparagraph (C) is engaged in a pattern or practice in violation of a provision of law referred to in subparagraph (A) or in violation of subparagraph (B), the Attorney General may bring a civilaction in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
+&emsp;&emsp;When a matter is referred to the Attorney General pursuant to subparagraph (C)(i), or whenever the Attorney General has reason to believe that a State, an Indian tribe, or an entity described in subparagraph (C) is engaged in a pattern or practice in violation of a provision of law referred to in subparagraph (A) or in violation of subparagraph (B), the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
 
 #### (3) Income eligibility standards
 
@@ -78,7 +78,7 @@ The Secretary shall award grants to States in order to assist in supporting the 
 
 &emsp;&emsp;Subject to subparagraphs (C), (D), and (E), grantees and subgrantees shall not—
 
-&emsp;&emsp;&emsp;(i) disclose any personally identifying information collected in connection with services requested (including services utilized or denied), through grantees’ and subgrantees’ programs; or
+&emsp;&emsp;&emsp;(i) disclose any personally identifying information collected in connection with services requested (including services utilized or denied), through grantees' and subgrantees' programs; or
 
 &emsp;&emsp;&emsp;(ii) reveal personally identifying information without informed, written, reasonably time-limited consent by the person about whom information is sought, whether for this program or any other Federal or State grant program, which consent—
 

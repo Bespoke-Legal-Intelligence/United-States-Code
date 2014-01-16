@@ -10,5 +10,5 @@
 - [&sect; 01962c&#8211;2 - State programs; approval by Council; submission; requirements; notice and hearing prior to disapproval](%C2%A7%2001962c%E2%80%932%20-%20State%20programs%3B%20approval%20by%20Council%3B%20submission%3B%20requirements%3B%20notice%20and%20hearing%20prior%20to%20disapproval.md)
 - [&sect; 01962c&#8211;3 - Noncompliance; curtailing of payments](%C2%A7%2001962c%E2%80%933%20-%20Noncompliance%3B%20curtailing%20of%20payments.md)
 - [&sect; 01962c&#8211;4 - Payments to States; computation of amount](%C2%A7%2001962c%E2%80%934%20-%20Payments%20to%20States%3B%20computation%20of%20amount.md)
-- [&sect; 01962c&#8211;5 - &#8220;State&#8221; defined](%C2%A7%2001962c%E2%80%935%20-%20%E2%80%9CState%E2%80%9D%20defined.md)
+- [&sect; 01962c&#8211;5 - State defined](%C2%A7%2001962c%E2%80%935%20-%20State%20defined.md)
 - [&sect; 01962c&#8211;6 - Records; audit and examination](%C2%A7%2001962c%E2%80%936%20-%20Records%3B%20audit%20and%20examination.md)

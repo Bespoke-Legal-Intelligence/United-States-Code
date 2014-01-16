@@ -1,6 +1,6 @@
 ### §190106. Exclusive right to name, seals, emblems, and badges
 
-The corporation and its subordinate departmental subdivisions and local chapters have the exclusive right to use the name “Reserve Officers Association of the United States” and seals, emblems, and badges the corporation adopts.
+The corporation and its subordinate departmental subdivisions and local chapters have the exclusive right to use the name "Reserve Officers Association of the United States" and seals, emblems, and badges the corporation adopts.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1448.)
 
@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 June 30, 1950, ch. 431, §18, 64 Stat. 315.
 
-The words “sole”, “to have, and”, “in carrying out its object and purpose”, and “lawfully” are omitted as unnecessary.
+The words "sole", "to have, and", "in carrying out its object and purpose", and "lawfully" are omitted as unnecessary.
 

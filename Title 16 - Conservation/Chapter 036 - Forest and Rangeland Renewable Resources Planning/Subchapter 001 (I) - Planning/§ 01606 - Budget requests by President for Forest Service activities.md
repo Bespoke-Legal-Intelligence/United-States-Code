@@ -6,7 +6,7 @@ On the date Congress first convenes in 1976 and thereafter following each updati
 
 #### (b) Contents of requests to show extent of compliance of projected programs and policies with policies approved by Congress; requests not conforming to approved policies; expenditure of appropriations
 
-Commencing with the fiscal budget for the year ending September 30, 1977, requests presented by the President to the Congress governing Forest Service activities shall express in qualitative and quantitative terms the extent to which the programs and policies projected under the budget meet the policies approved by the Congress in accordance with subsection (a) of this section. In any case in which such budget so presented recommends a course which fails to meet the policies so established, the President shall specifically set forth the reason or reasonsfor requesting the Congress to approve the lesser programs or policies presented. Amounts appropriated to carry out the policies approved in accordance with subsection (a) of this section shall be expended in accordance with the Congressional Budget and Impoundment Control Act of 1974.
+Commencing with the fiscal budget for the year ending September 30, 1977, requests presented by the President to the Congress governing Forest Service activities shall express in qualitative and quantitative terms the extent to which the programs and policies projected under the budget meet the policies approved by the Congress in accordance with subsection (a) of this section. In any case in which such budget so presented recommends a course which fails to meet the policies so established, the President shall specifically set forth the reason or reasons for requesting the Congress to approve the lesser programs or policies presented. Amounts appropriated to carry out the policies approved in accordance with subsection (a) of this section shall be expended in accordance with the Congressional Budget and Impoundment Control Act of 1974.
 
 #### (c) Annual evaluation report to Congress of Program components; time of submission; status of major research programs; application of findings; status, etc., of cooperative forestry assistance programs and activities
 
@@ -30,17 +30,17 @@ The reports shall be structured for Congress in concise summary form with necess
 
 The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (b), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2, The Congress, and Tables.
 
-The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (c), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to chapter 41 (§2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
+The Cooperative Forestry Assistance Act of 1978, referred to in subsec. (c), is Pub. L. 95–313, July 1, 1978, 92 Stat. 365, which is classified principally to chapter 41\(§2101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2101 of this title and Tables.
 
 #### Amendments
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–313 inserted provisions relating to inclusion in report of findings involving cooperative State and private Forest Service programs, and provisions relating to scope of report descriptions involving programs and activities under the Cooperative Forestry Assistance Act of 1978.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–588, §§7(a), 12(b)(1), substituted “section 3” and “section 4” for “section 2” and “section 3”, respectively, in the original, which, because of their translation as “section 1601 of this title” and “section 1602 of this title” required no change in text, and substituted “ninety calendar days of continuous session” for “sixty days of continuous session” and “ninety-day period” for “sixty-day period”.
+<b>1976</b>—Subsec. (a). Pub. L. 94–588, §§7(a), 12(b)(1), substituted "section 3" and "section 4" for "section 2" and "section 3", respectively, in the original, which, because of their translation as "section 1601 of this title" and "section 1602 of this title" required no change in text, and substituted "ninety calendar days of continuous session" for "sixty days of continuous session" and "ninety-day period" for "sixty-day period".
 
-Subsec. (c). Pub. L. 94–588, §§7(b), 12(b)(2), substituted “section 4” for “section 3” in the original which, because of its translation as “section 1602 of this title” required no change in text and inserted provision requiring that the report include a description of the status of major research programs, significant findings, and how such findings will be applied in National Forest System management.
+Subsec. (c). Pub. L. 94–588, §§7(b), 12(b)(2), substituted "section 4" for "section 3" in the original which, because of its translation as "section 1602 of this title" required no change in text and inserted provision requiring that the report include a description of the status of major research programs, significant findings, and how such findings will be applied in National Forest System management.
 
-Subsec. (d). Pub. L. 94–588, §12(b)(3), substituted “section 4” for “section 3” in the original which, because of the translation as “section 1602 of this title”, required no change in text.
+Subsec. (d). Pub. L. 94–588, §12(b)(3), substituted "section 4" for "section 3" in the original which, because of the translation as "section 1602 of this title", required no change in text.
 
 #### Effective Date of 1978 Amendment
 
@@ -52,45 +52,45 @@ For termination, effective May 15, 2000, of provisions in subsecs. (a) and (c) o
 
 #### Statement of Policy
 
-Pub. L. 96–514, title III, §310, Dec. 12, 1980, 94 Stat. 2984, provided that: “The Statement of Policy transmitted by the President to the Speaker of the House of Representatives and the President of the Senate on June 19, 1980, as required under section 8 of the Forest and Rangeland Renewable Resources Planning Act of 1974 \[this section\], is revised and modified to read as follows:
+Pub. L. 96–514, title III, §310, Dec. 12, 1980, 94 Stat. 2984, provided that: "The Statement of Policy transmitted by the President to the Speaker of the House of Representatives and the President of the Senate on June 19, 1980, as required under section 8 of the Forest and Rangeland Renewable Resources Planning Act of 1974 \[this section\], is revised and modified to read as follows:
 
-#### “Statement of Policy
+#### "Statement of Policy
 
-#### “basic principles
+#### "basic principles
 
-“It is the policy of the United States—
+"It is the policy of the United States—
 
-&emsp;“(1) forests and rangeland, in all ownerships, should be managed to maximize their net social and economic contributions to the Nation's well being, in an environmentally sound manner.
+&emsp;"(1) forests and rangeland, in all ownerships, should be managed to maximize their net social and economic contributions to the Nation's well being, in an environmentally sound manner.
 
-&emsp;“(2) the Nation's forested land, except such public land that is determined by law or policy to be maintained in its existing or natural state, should be managed at levels that realize its capabilities to satisfy the Nation's need for food, fiber, energy, water, soil stability, wildlife and fish, recreation, and esthetic values.
+&emsp;"(2) the Nation's forested land, except such public land that is determined by law or policy to be maintained in its existing or natural state, should be managed at levels that realize its capabilities to satisfy the Nation's need for food, fiber, energy, water, soil stability, wildlife and fish, recreation, and esthetic values.
 
-&emsp;“(3) the productivity of suitable forested land, in all ownerships, should be maintained and enhanced to minimize the inflationary impacts of wood product prices on the domestic economy and permit a net export of forest products by the year 2030.
+&emsp;"(3) the productivity of suitable forested land, in all ownerships, should be maintained and enhanced to minimize the inflationary impacts of wood product prices on the domestic economy and permit a net export of forest products by the year 2030.
 
-&emsp;“(4) in order to achieve this goal, it is recognized that in the major timber growing regions most of the commercial timber lands will have to be brought to and maintained, where possible, at 90 percent of their potential level of growth, consistent with the provisions of the National Forest Management Act of 1976 \[see Short Title of 1976 Amendment note set out under section 1600 of this title\] on Federal lands, so that all resources are utilized in the combination that will best meet the needs of the American people.
+&emsp;"(4) in order to achieve this goal, it is recognized that in the major timber growing regions most of the commercial timber lands will have to be brought to and maintained, where possible, at 90 percent of their potential level of growth, consistent with the provisions of the National Forest Management Act of 1976 \[see Short Title of 1976 Amendment note set out under section 1600 of this title\] on Federal lands, so that all resources are utilized in the combination that will best meet the needs of the American people.
 
-&emsp;“(5) forest and rangeland protection programs should be improved to more adequately protect forest and rangeland resources from fire, erosion, insects, disease, and the introduction or spread of noxious weeds, insects, and animals.
+&emsp;"(5) forest and rangeland protection programs should be improved to more adequately protect forest and rangeland resources from fire, erosion, insects, disease, and the introduction or spread of noxious weeds, insects, and animals.
 
-&emsp;“(6) the Federal agencies carrying out the policies contained in this Statement will cooperate and coordinate their efforts to accomplish the goals contained in this Statement and will consult, coordinate, and cooperate with the planning efforts of the States.
+&emsp;"(6) the Federal agencies carrying out the policies contained in this Statement will cooperate and coordinate their efforts to accomplish the goals contained in this Statement and will consult, coordinate, and cooperate with the planning efforts of the States.
 
-&emsp;“(7) in carrying out the Assessment and the Program under the Forest and Rangeland Renewable Resources Planning Act of 1974 \[this subchapter\] and the Appraisal and the Program under the Soil and Water Resources Conservation Act of 1977 \[section 2001 et seq. of this title\], the Secretary of Agriculture shall assure that resources and economic information and evaluation data will be continually improved so that the best possible information is always available for use by Federal agencies and the public.
+&emsp;"(7) in carrying out the Assessment and the Program under the Forest and Rangeland Renewable Resources Planning Act of 1974 \[this subchapter\] and the Appraisal and the Program under the Soil and Water Resources Conservation Act of 1977 \[section 2001 et seq. of this title\], the Secretary of Agriculture shall assure that resources and economic information and evaluation data will be continually improved so that the best possible information is always available for use by Federal agencies and the public.
 
-#### “range land data base and its improvement
+#### "range land data base and its improvement
 
-“The data on and understanding of the cover and condition of range lands is less refined than the data on and understanding of commercial forest land. Range lands have significant value in the production of water and protection of watersheds; the production of fish and wildlife food and habitat; recreation; and the production of livestock forage. An adequate data base on the cover and condition of range lands should be developed by the year 1990. Currently, cattle production from these lands is annually estimated at 213 million animal unit months of livestock forage. These lands should be maintained and enhanced, including their water and other resource values, so that they can annually provide 310 million animal units months of forage by the year 2030, along with other benefits.
+"The data on and understanding of the cover and condition of range lands is less refined than the data on and understanding of commercial forest land. Range lands have significant value in the production of water and protection of watersheds; the production of fish and wildlife food and habitat; recreation; and the production of livestock forage. An adequate data base on the cover and condition of range lands should be developed by the year 1990. Currently, cattle production from these lands is annually estimated at 213 million animal unit months of livestock forage. These lands should be maintained and enhanced, including their water and other resource values, so that they can annually provide 310 million animal units months of forage by the year 2030, along with other benefits.
 
-#### “general acceptance of high bound program
+#### "general acceptance of high bound program
 
-“Congress generally accepts the ‘high-bound’ program described on pages 7 through 18 of the 1980 Report to Congress on the Nation's Renewable Resources prepared by the Secretary of Agriculture. However, Congress finds that the ‘high-bound’ program may not be sufficient to accomplish the goals contained in this statement, particularly in the area of range and watershed resources, State and private forest cooperation and timber management.
+"Congress generally accepts the 'high-bound' program described on pages 7 through 18 of the 1980 Report to Congress on the Nation's Renewable Resources prepared by the Secretary of Agriculture. However, Congress finds that the 'high-bound' program may not be sufficient to accomplish the goals contained in this statement, particularly in the area of range and watershed resources, State and private forest cooperation and timber management.
 
-#### “state and private lands
+#### "state and private lands
 
-“States and owners of private forest and rangelands will be encouraged, consistent with their individual objectives, to manage their land in support of this Statement of Policy. The State and private forestry and range programs of the Forest Service will be essential to the furtherance of this Statement of Policy.
+"States and owners of private forest and rangelands will be encouraged, consistent with their individual objectives, to manage their land in support of this Statement of Policy. The State and private forestry and range programs of the Forest Service will be essential to the furtherance of this Statement of Policy.
 
-#### “funding the goals
+#### "funding the goals
 
-“In order to accomplish the policy goals contained in this statement by the year 2030, the Federal Government should adequately fund programs of research (including cooperative research), extension, cooperative forestry assistance and protection, and improved management of the forest and rangelands. The Secretary of Agriculture shall continue his efforts to evaluate the cost-effectiveness of the renewable resource programs.”
+"In order to accomplish the policy goals contained in this statement by the year 2030, the Federal Government should adequately fund programs of research (including cooperative research), extension, cooperative forestry assistance and protection, and improved management of the forest and rangelands. The Secretary of Agriculture shall continue his efforts to evaluate the cost-effectiveness of the renewable resource programs."
 
 #### Statement of Purposes of Amendment by Cooperative Forestry Assistance Act of 1978
 
-Section 15, formerly section 12 of Pub. L. 95–313, renumbered §15, Pub. L. 101–624, title XII, §1215(1), Nov. 28, 1990, 104 Stat. 3525, provided in part that the amendment of subsec. (c) of this section by Pub. L. 95–313 is to insure that Congress has adequate information to implement its oversight responsibilities and to provide accountability for expenditures and activities under the Cooperative Forestry Assistance Act of 1978. See Short Title note set out under section 2101 of this title for classification of the Cooperative Forestry Assistance Act of 1978 in the Code.
+Section 15, formerly section 12 of Pub. L. 95–313, renumbered §15, Pub. L. 101–624, title XII, §1215(1), Nov.28, 1990, 104 Stat. 3525, provided in part that the amendment of subsec. (c) of this section by Pub. L. 95–313 is to insure that Congress has adequate information to implement its oversight responsibilities and to provide accountability for expenditures and activities under the Cooperative Forestry Assistance Act of 1978. See Short Title note set out under section 2101 of this title for classification of the Cooperative Forestry Assistance Act of 1978 in the Code.
 

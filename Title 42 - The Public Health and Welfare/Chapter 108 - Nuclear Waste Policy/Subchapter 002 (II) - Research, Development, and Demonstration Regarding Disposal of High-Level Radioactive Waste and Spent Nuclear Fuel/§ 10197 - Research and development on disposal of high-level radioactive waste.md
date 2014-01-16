@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-Not later than 64 months after January 7, 1983, the Secretary is authorized to, to the extent practicable, begin at a site evaluated under section 10194 of this title, as part of and as an extension of siting research activities of such site under such section, the mining and construction of a test and evaluation facility. Prior to the mining and construction of such facility, the Secretary shall prepare an environmental assessment. The purpose of such facility shall be—
+Not later than 64 months after January 7, 1983, the Secretary is authorized to, to the extent practicable, begin at a site evaluated under section 10194 of this title, as part of and as an extension of siting research activities of such site under such section, the mining and construction of a test and evaluation facility. Prior to the mining and construction of such facility, theSecretary shall prepare an environmental assessment. The purpose of such facility shall be—
 
 &emsp;(1) to supplement and focus the repository site characterization process;
 
@@ -88,7 +88,7 @@ The Secretary shall prepare an environmental impact statement under section 102(
 
 (1) If the test and evaluation facility is not located at the site of a repository, the Secretary shall obtain the concurrence of the Commission with respect to the decontamination and decommissioning of such facility.
 
-(2) If the test and evaluation facility is not located at a candidate site or repository site, the Secretary shall conduct only the portion of the in situ testing program required in subsection (c) of this section determined by the Secretaryto be useful in carrying out the purposes of this chapter.
+(2) If the test and evaluation facility is not located at a candidate site or repository site, the Secretary shall conduct only the portion of the in situ testing program required in subsection (c) of this section determined by the Secretary to be useful in carrying out the purposes of this chapter.
 
 (3) The operation of the test and evaluation facility shall terminate not later than—
 
@@ -104,11 +104,11 @@ The Secretary shall prepare an environmental impact statement under section 102(
 
 #### References in Text
 
-The Atomic Energy Act of 1954, referred to in subsec. (e), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (e), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of this title and Tables.
 
-This subchapter, referred to in subsec. (f)(1)(A), was in the original “this subtitle”, and was translated as this subchapter to reflect the probable intent of Congress because title II of Pub. L. 97–425, which enacted this subchapter, does not contain subtitles.
+This subchapter, referred to in subsec. (f)(1)(A), was in the original "this subtitle", and was translated as this subchapter to reflect the probable intent of Congress because title II of Pub. L. 97–425, which enacted this subchapter, does not contain subtitles.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “10194”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "10194".</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -16,11 +16,11 @@ Any carrier who knowingly violates the provisions of this section shall forfeit 
 
 #### References in Text
 
-This chapter, referred to in subsec. (b), was in the original “this Act”, meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
+This chapter, referred to in subsec. (b), was in the original "this Act", meaning act June 19, 1934, ch. 652, 48 Stat. 1064, known as the Communications Act of 1934, which is classified principally to this chapter. For complete classification of this Act to the Code, see section 609 of this title and Tables.
 
 #### Amendments
 
-<b>1989</b>—Subsec. (c). Pub. L. 101–239 substituted “$6,000” for “$500” and “$300” for “$25”.
+<b>1989</b>—Subsec. (c). Pub. L. 101–239 substituted "$6,000" for "$500" and "$300" for "$25".
 
-<b>1960</b>—Subsec. (b). Pub. L. 86–751 substituted “common carrier lines of communication, whether derived from wire or radio facilities,” for “wires”.
+<b>1960</b>—Subsec. (b). Pub. L. 86–751 substituted "common carrier lines of communication, whether derived from wire or radio facilities," for "wires".
 

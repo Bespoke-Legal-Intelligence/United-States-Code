@@ -16,15 +16,15 @@ An Indian tribe or tribally designated housing entity receiving information unde
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (c), was in the original “this Act”, meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (c), was in the original "this Act", meaning Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, known as the Native American Housing Assistance and Self-Determination Act of 1996. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of this title and Tables.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–411 inserted “applicants for employment, and of” after “records of”.
+<b>2008</b>—Subsec. (a). Pub. L. 110–411 inserted "applicants for employment, and of" after "records of".
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–276, §595(e)(10)(A), substituted “subsection (b) of this section” for “paragraph (2)”.
+<b>1998</b>—Subsec. (a). Pub. L. 105–276, §595(e)(10)(A), substituted "subsection (b) of this section" for "paragraph (2)".
 
-Subsec. (b). Pub. L. 105–276, §595(e)(10)(B), substituted “subsection (a) of this section” for “paragraph (1)”.
+Subsec. (b). Pub. L. 105–276, §595(e)(10)(B), substituted "subsection (a) of this section" for "paragraph (1)".
 
 #### Effective Date
 

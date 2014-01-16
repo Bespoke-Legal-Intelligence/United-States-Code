@@ -16,7 +16,7 @@ Determination and Report.—(1) Subject to paragraph (3), the Secretary may waiv
 
 &emsp;(B) provide better services than those provided by a plan subject to such limitations or payment requirements at no additional cost to the Government.
 
-(2) The Secretary shall submit to the Committee on Armed Services of the Senate and theCommittee on Armed Services of the House of Representatives a report with respect to a waiver under paragraph (1), including a comparison of costs of and benefits available under—
+(2) The Secretary shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a report with respect to a waiver under paragraph (1), including a comparison of costs of and benefits available under—
 
 &emsp;(A) a plan with respect to which the limitations and payment requirements are waived; and
 
@@ -28,9 +28,9 @@ Determination and Report.—(1) Subject to paragraph (3), the Secretary may waiv
 
 #### Amendments
 
-<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65 substituted “and the Committee on Armed Services” for “and the Committee on National Security”.
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–65 substituted "and the Committee on Armed Services" for "and the Committee on National Security".
 
-<b>1996</b>—Subsec. (b)(2). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+<b>1996</b>—Subsec. (b)(2). Pub. L. 104–106 substituted "Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives" for "Committees on Armed Services of the Senate and House of Representatives".
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–510 substituted “subsection (b)” for “subsections (b) and (c)” in introductory provisions.
+<b>1990</b>—Subsec. (a). Pub. L. 101–510 substituted "subsection (b)" for "subsections (b) and (c)" in introductory provisions.
 

@@ -30,9 +30,9 @@ The Secretary of Agriculture may accept the voluntary services of organizations 
 
 #### Codification
 
-In subsec. (a), “chapters 1 to 11 and section 1302 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41” substituted for “the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) and section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
+In subsec. (a), "chapters 1 to 11 and section 1302 of title 40 and division C (except sections 3302, 3307(e), 3501(b), 3509, 3906, 4710, and 4711) of subtitle I of title 41" substituted for "the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) and section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, which Act enacted Title 40, Public Buildings, Property, and Works, and Pub. L. 111–350, §6(c), Jan. 4, 2011, 124 Stat. 3854, which Act enacted Title 41, Public Contracts.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–185 substituted “Treasury. Amounts in the special fund shall be available to the Secretary of Agriculture, without further appropriation,” for “Treasury”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–185 substituted "Treasury. Amounts in the special fund shall be available to the Secretary of Agriculture, without further appropriation," for "Treasury".
 

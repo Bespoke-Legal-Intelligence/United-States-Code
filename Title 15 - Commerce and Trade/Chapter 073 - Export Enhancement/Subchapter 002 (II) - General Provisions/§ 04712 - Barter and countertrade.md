@@ -28,7 +28,7 @@
 
 #### (1) Establishment
 
-&emsp;There is established, within the International Trade Administration of the Department of Commerce, the Office of Barter (hereafter in this section referred to as the “Office”).
+&emsp;There is established, within the International Trade Administration of the Department of Commerce, the Office of Barter (hereafter in this section referred to as the "Office").
 
 #### (2) Director
 

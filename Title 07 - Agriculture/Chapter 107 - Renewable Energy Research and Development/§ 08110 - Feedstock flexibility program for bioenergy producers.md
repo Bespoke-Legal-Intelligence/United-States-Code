@@ -6,19 +6,19 @@ In this section:
 
 #### (1) Bioenergy
 
-&emsp;The term “bioenergy” means fuel grade ethanol and other biofuel.
+&emsp;The term "bioenergy" means fuel grade ethanol and other biofuel.
 
 #### (2) Bioenergy producer
 
-&emsp;The term “bioenergy producer” means a producer of bioenergy that uses an eligible commodity to produce bioenergy under this section.
+&emsp;The term "bioenergy producer" means a producer of bioenergy that uses an eligible commodity to produce bioenergy under this section.
 
 #### (3) Eligible commodity
 
-&emsp;The term “eligible commodity” means a form of raw or refined sugar or in-process sugar that is eligible to be marketed in the United States for human consumption or to be used for the extraction of sugar for human consumption.
+&emsp;The term "eligible commodity" means a form of raw or refined sugar or in-process sugar that is eligible to be marketed in the United States for human consumption or to be used for the extraction of sugar for human consumption.
 
 #### (4) Eligible entity
 
-&emsp;The term “eligible entity” means an entity located in the United States that markets an eligible commodity in the United States.
+&emsp;The term "eligible entity" means an entity located in the United States that markets an eligible commodity in the United States.
 
 #### (b) Feedstock flexibility program
 
@@ -40,7 +40,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;As soon as practicable after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each September 1 thereafter through September 1, 2013, the Secretary shall provide notice to eligible entities and bioenergy producers of the quantity of eligible commodities that shall be made available for purchase and sale for the crop year following the date of the notice under this section.
+&emsp;&emsp;As soon as practicable after the date of enactment of the Food, Conservation, and Energy Act of 2008 and each September 1 thereafter through September 1, 2013, the Secretary shall provide notice to eligible entities and bioenergy producers of the quantity of eligible commodities that shall be made available for purchase and sale for the cropyear following the date of the notice under this section.
 
 #### (B) Reestimates
 
@@ -120,7 +120,7 @@ A prior section 9010 of Pub. L. 107–171 was classified to section 8108 of this
 
 #### Amendments
 
-<b>2013</b>—Subsec. (b)(1)(A), (2)(A). Pub. L. 112–240 substituted “2013” for “2012”.
+<b>2013</b>—Subsec. (b)(1)(A), (2)(A). Pub. L. 112–240 substituted "2013" for "2012".
 
 #### Effective Date of 2013 Amendment
 

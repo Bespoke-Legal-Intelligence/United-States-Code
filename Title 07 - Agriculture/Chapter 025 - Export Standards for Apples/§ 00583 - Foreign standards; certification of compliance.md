@@ -6,5 +6,5 @@ Where the government of the country to which the shipment is to be made has stan
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–96 struck out “or pears” after “of apples”.
+<b>1999</b>—Pub. L. 106–96 struck out "or pears" after "of apples".
 

@@ -6,9 +6,9 @@ The President of the United States shall appoint seven commissioners, three of w
 
 #### Amendments
 
-<b>2012</b>—Pub. L. 112–166 struck out “, by and with the advice and consent of the Senate,” after “United States shall”.
+<b>2012</b>—Pub. L. 112–166 struck out ", by and with the advice and consent of the Senate," after "United States shall".
 
-<b>1966</b>—Pub. L. 89–789 inserted “, except those appointed from civil life,” and provided a nine year term for each commissioner appointed from civil life after Nov. 7, 1966.
+<b>1966</b>—Pub. L. 89–789 inserted ", except those appointed from civil life," and provided a nine year term for each commissioner appointed from civil life after Nov. 7, 1966.
 
 #### Change of Name
 

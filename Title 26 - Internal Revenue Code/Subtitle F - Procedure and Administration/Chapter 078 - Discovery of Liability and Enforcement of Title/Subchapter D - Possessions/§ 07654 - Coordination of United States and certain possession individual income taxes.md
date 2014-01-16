@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (2) Specified possession
 
-&emsp;The term “specified possession” means Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands.
+&emsp;The term "specified possession" means Guam, American Samoa, the Northern Mariana Islands, and the Virgin Islands.
 
 #### (c) Transfers
 
@@ -30,7 +30,7 @@ In addition to the amount determined under subsection (a), the United States sha
 
 #### (e) Regulations
 
-The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section and sections 931 and 932, including regulations prohibiting the rebate of taxes covered over which are allocable to United States source income and prescribing the information which the individuals to whom such sections may apply shall furnish to the Secretary.
+The Secretary shall prescribe such regulations as may be necessary to carry out the provisions of this section and sections 931 and 932, including regulations prohibiting the rebate of taxes covered over which are allocable to UnitedStates source income and prescribing the information which the individuals to whom such sections may apply shall furnish to the Secretary.
 
 (Aug. 16, 1954, ch. 736, 68A Stat. 909; Pub. L. 92–606, §1(b), Oct. 31, 1972, 86 Stat. 1495; Pub. L. 94–455, title XIX, §1906(b)(13)(A), Oct. 4, 1976, 90 Stat. 1834; Pub. L. 97–248, title III, §§307(a)(16), 308(a), Sept. 3, 1982, 96 Stat. 590, 591; Pub. L. 98–67, title I, §102(a), Aug. 5, 1983, 97 Stat. 369; Pub. L. 99–514, title XII, §1276(a), Oct. 22, 1986, 100 Stat. 2599; Pub. L. 100–647, title I, §1012(y), Nov. 10, 1988, 102 Stat. 3530; Pub. L. 108–189, §2(d), Dec. 19, 2003, 117 Stat. 2866.)
 
@@ -40,17 +40,17 @@ The Servicemembers Civil Relief Act, referred to in subsec. (d)(1), is act Oct. 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (d)(1). Pub. L. 108–189 substituted “Servicemembers Civil Relief Act” for “Soldiers’ and Sailors’ Civil Relief Act”.
+<b>2003</b>—Subsec. (d)(1). Pub. L. 108–189 substituted "Servicemembers Civil Relief Act" for "Soldiers' and Sailors' Civil Relief Act".
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted “an individual to whom” for “an individual to which”.
+<b>1988</b>—Subsec. (a). Pub. L. 100–647 substituted "an individual to whom" for "an individual to which".
 
 <b>1986</b>—Pub. L. 99–514 amended section generally, substituting provisions relating to coordination of United States and certain possession individual income taxes for provisions relating to coordination of United States and Guam individual income taxes.
 
 <b>1983</b>—Subsec. (d). Pub. L. 98–67 repealed amendments made by Pub. L. 97–248. See 1982 Amendment note below.
 
-<b>1982</b>—Subsec. (d). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (d) is amended by inserting “subchapter A of” before “chapter 24”. Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30,1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
+<b>1982</b>—Subsec. (d). Pub. L. 97–248 provided that, applicable to payments of interest, dividends, and patronage dividends paid or credited after June 30, 1983, subsec. (d) is amended by inserting "subchapter A of" before "chapter 24". Section 102(a), (b) of Pub. L. 98–67, title I, Aug. 5, 1983, 97 Stat. 369, repealed subtitle A (§§301–308) of title III of Pub. L. 97–248 as of the close of June 30, 1983, and provided that the Internal Revenue Code of 1954 \[now 1986\] \[this title\] shall be applied and administered (subject to certain exceptions) as if such subtitle A (and the amendments made by such subtitle A) had not been enacted.
 
-<b>1976</b>—Subsecs. (d), (e). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsecs. (d), (e). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 
 <b>1972</b>—Pub. L. 92–606 substituted provisions relating to individual income taxes in Guam and their sharing by the United States and Guam, for provisions relating to payment to Guam and American Samoa of proceeds of tax on coconut and other vegetable oils.
 

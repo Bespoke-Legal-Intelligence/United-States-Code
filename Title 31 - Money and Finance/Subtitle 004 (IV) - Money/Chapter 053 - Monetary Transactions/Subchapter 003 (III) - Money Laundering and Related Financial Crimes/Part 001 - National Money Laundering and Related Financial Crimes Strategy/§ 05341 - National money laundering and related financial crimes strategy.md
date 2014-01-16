@@ -60,7 +60,7 @@ Assessment of funding.—A complete assessment of how the proposed budget is int
 
 &emsp;(8)
 
-Designated areas.—A description of geographical areas designated as “high-risk money laundering and related financial crime areas” in accordance with, but not limited to, section 5342.
+Designated areas.—A description of geographical areas designated as "high-risk money laundering and related financial crime areas" in accordance with, but not limited to, section 5342.
 
 &emsp;(9)
 
@@ -110,7 +110,7 @@ Consultations.—In addition to the consultations required under this section wi
 
 #### Amendments
 
-<b>2004</b>—Subsec. (a)(2). Pub. L. 108–458 substituted “August 1” for “February 1” and “2003, 2005, and 2007,” for “and 2003,”.
+<b>2004</b>—Subsec. (a)(2). Pub. L. 108–458 substituted "August 1" for "February 1" and "2003, 2005, and 2007," for "and 2003,".
 
 <b>2001</b>—Subsec. (b)(12). Pub. L. 107–56 added par. (12).
 

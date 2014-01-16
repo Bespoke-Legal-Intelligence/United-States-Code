@@ -8,7 +8,7 @@ Policy.—Under section 3(5)(A) of the Export Administration Act of 1979 (50 U.S
 
 Prohibition.—(1) Consistent with the policy referred to in subsection (a), the Department of Defense may not award a contract for an amount in excess of the simplified acquisition threshold (as defined in section 134 of title 41) to a foreign entity unless that entity certifies to the Secretary of Defense that it does not comply with the secondary Arab boycott of Israel.
 
-(2) In paragraph (1), the term “foreign entity” means a foreign person, a foreign company, or any other foreign entity.
+(2) In paragraph (1), the term "foreign entity" means a foreign person, a foreign company, or any other foreign entity.
 
 (c)
 
@@ -26,5 +26,5 @@ Exceptions.—Subsection (b) does not apply—
 
 #### Amendments
 
-<b>2011</b>—Subsec. (b)(1). Pub. L. 111–350 substituted “simplified acquisition threshold (as defined in section 134 of title 41)” for “small purchase threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)))”.
+<b>2011</b>—Subsec. (b)(1). Pub. L. 111–350 substituted "simplified acquisition threshold (as defined in section 134 of title 41)" for "small purchase threshold (as defined in section 4(11) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(11)))".
 

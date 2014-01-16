@@ -1,6 +1,6 @@
 ### §6029. Dental services: responsibilities of senior dental officer
 
-(a) The Secretary of the Navy shall prescribe regulations for dental services on ships and at shore stations. Such services shall be under the senior dental officer, who is responsible to the commanding officer of the ship or station for all professional, technical, and administrative matters concerning dental services.
+(a) The Secretary of the Navy shall prescribe regulations for dental services on ships and atshore stations. Such services shall be under the senior dental officer, who is responsible to the commanding officer of the ship or station for all professional, technical, and administrative matters concerning dental services.
 
 (b) This section does not impose any administrative requirements that would interfere with the proper functioning of battle organizations.
 
@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 Dec. 28, 1945, ch. 604, §4, 59 Stat. 667.
 
-The words “for establishing” are omitted as executed and unnecessary.
+The words "for establishing" are omitted as executed and unnecessary.
 
 The last sentence of §4 of the Act of December 28, 1945, ch. 604, 59 Stat. 667, was a repealing clause and savings provision. It is omitted from this section.
 

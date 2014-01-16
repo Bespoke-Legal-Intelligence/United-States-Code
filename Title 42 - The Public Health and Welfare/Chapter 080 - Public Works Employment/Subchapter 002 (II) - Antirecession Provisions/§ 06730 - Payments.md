@@ -20,5 +20,5 @@ No amount shall be paid to any State or local government under the provisions of
 
 #### Amendments
 
-<b>1976</b>—Subsec. (c)(1). Pub. L. 94–447 substituted “4.5 percent, or” for “4.5 percent, and”.
+<b>1976</b>—Subsec. (c)(1). Pub. L. 94–447 substituted "4.5 percent, or" for "4.5 percent, and".
 

@@ -16,23 +16,23 @@ The Secretary shall—
 
 #### Amendments
 
-<b>2005</b>—Pub. L. 109–58 added section catchline, struck out former catchline, and substituted “Secretary” for “Administrator” in introductory provisions.
+<b>2005</b>—Pub. L. 109–58 added section catchline, struck out former catchline, and substituted "Secretary" for "Administrator" in introductory provisions.
 
 #### Classification of Recipients of Awards, Contracts, or Other Financial Arrangements; Reporting Requirement
 
 Pub. L. 95–39, title I, §111, June 3, 1977, 91 Stat. 186, provided that:
 
-“(a) The Administrator \[now Secretary of Energy\] shall classify each recipient of any award, contract, or other financial arrangement in any nonnuclear research, development, or demonstration category as—
+"(a) The Administrator \[now Secretary of Energy\] shall classify each recipient of any award, contract, or other financial arrangement in any nonnuclear research, development, or demonstration category as—
 
-&emsp;“(1) a Federal agency,
+&emsp;"(1) a Federal agency,
 
-&emsp;“(2) a non-Federal governmental entity,
+&emsp;"(2) a non-Federal governmental entity,
 
-&emsp;“(3) a profitmaking enterprise (indicating whether or not it is a small business concern),
+&emsp;"(3) a profitmaking enterprise (indicating whether or not it is a small business concern),
 
-&emsp;“(4) a nonprofit enterprise other than an educational institution, or
+&emsp;"(4) a nonprofit enterprise other than an educational institution, or
 
-&emsp;“(5) a nonprofit educational institution.
+&emsp;"(5) a nonprofit educational institution.
 
-“(b) The information required by subsection (a), along with the dollar amount of each award, contract, or other financial arrangement made, shall be included as an appendix to the annual report required by section 15(a) of the Federal Nonnuclear Energy Research and Development Act of 1974 (\[former\] 42 U.S.C. 5914): <i>Provided</i>, That small purchases or contracts of less than $10,000, which are excepted from the requirements of advertising by section 252(c)(3) of \[former\] title 41, United States Code, shall be exempt from the reporting requirements of this section.”
+"(b) The information required by subsection (a), along with the dollar amount of each award, contract, or other financial arrangement made, shall be included as an appendix to the annual report required by section 15(a) of the Federal Nonnuclear Energy Research and Development Act of 1974 (\[former\] 42 U.S.C. 5914): <i>Provided</i>, That small purchases or contracts of less than $10,000, which are excepted from the requirements of advertising by section 252(c)(3) of \[former\] title 41, United States Code, shall be exempt from the reporting requirements of this section."
 

@@ -26,7 +26,7 @@ Provisions similar to those in this section were contained in R.S. §2978, as am
 
 #### Amendments
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–36 substituted “subsection (h)” for “subsection (c)” in two places.
+<b>1999</b>—Subsec. (b). Pub. L. 106–36 substituted "subsection (h)" for "subsection (c)" in two places.
 
 <b>1938</b>—Act June 25, 1938, designated existing provisions as subsecs. (a) and (b).
 

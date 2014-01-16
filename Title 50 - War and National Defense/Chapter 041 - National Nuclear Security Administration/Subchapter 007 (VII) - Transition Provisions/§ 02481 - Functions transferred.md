@@ -42,17 +42,21 @@ In the case of any environmental remediation and waste management activity of an
 
 (2) The authorized strength in civilian employees of any element of the Department of Energy from which employees are transferred under this section is reduced by the number of employees so transferred.
 
-(Pub. L. 106–65, div. C, title XXXII, §3291, Oct. 5, 1999, 113 Stat. 968; Pub. L. 112–239, div. C, title XXXI, §3132(b)(1), Jan. 2, 2013, 126 Stat. 2185.)
+(Pub. L. 106–65, div. C, title XXXII, §3291, Oct. 5, 1999, 113 Stat. 968; Pub. L. 112–239, div. C, title XXXI, §3132(b)(1), Jan. 2, 2013, 126 Stat. 2185; Pub. L. 113–66, div. C, title XXXI, §3145(j), Dec. 26, 2013, 127 Stat. 1072.)
 
 #### Amendments
 
-<b>2013</b>—Subsec. (c). Pub. L. 112–239, §3132(b)(1)(A), substituted “of the Administration” for “specified in subsection (a)”.
+<b>2013</b>—Subsec. (c). Pub. L. 112–239, §3132(b)(1)(A), substituted "of the Administration" for "specified in subsection (a)".
 
-Subsecs. (d), (e). Pub. L. 112–239, §3132(b)(1)(B), added subsecs. (d) and (e).
+Subsec. (d). Pub. L. 112–239, §3132(b)(1)(B), added subsec. (d).
+
+Subsec. (d)(1). Pub. L. 113–66 realigned margins of concluding provisions.
+
+Subsec. (e). Pub. L. 112–239, §3132(b)(1)(B), added subsec. (e).
 
 #### Construction
 
-Pub. L. 112–239, div. C, title XXXI, §3132(b)(3), Jan. 2, 2013, 126 Stat. 2186, provided that: “Nothing in section 3291 of the National Nuclear Security Administration Act (50 U.S.C. 2481), as amended by paragraph (1), may be construed to affect any function or activity transferred by the Secretary of Energy to the Administrator for Nuclear Security before the date of the enactment of this Act \[Jan. 2, 2013\].”
+Pub. L. 112–239, div. C, title XXXI, §3132(b)(3), Jan. 2, 2013, 126 Stat. 2186, provided that: "Nothing in section 3291 of the National Nuclear Security Administration Act (50 U.S.C. 2481), as amended by paragraph (1), may be construed to affect any function or activity transferred by the Secretary of Energy to the Administrator for Nuclear Security before the date of the enactment of this Act \[Jan. 2, 2013\]."
 
 #### Transfer of Functions
 

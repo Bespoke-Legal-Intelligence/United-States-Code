@@ -12,7 +12,7 @@
 
 #### (3) Utilization
 
-&emsp;Paragraph (1) shall not require a public entity to which paragraph (2) applies, to provide to individuals who use wheelchairs servicesmade available to the general public at such facilities when such individuals could not utilize or benefit from such services provided at such facilities.
+&emsp;Paragraph (1) shall not require a public entity to which paragraph (2) applies, to provide to individuals who use wheelchairs services made available to the general public at such facilities when such individuals could not utilize or benefit from such services provided at such facilities.
 
 #### (b) One car per train rule
 

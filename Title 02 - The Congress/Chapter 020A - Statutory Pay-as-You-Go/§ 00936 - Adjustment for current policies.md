@@ -66,7 +66,7 @@ This section shall remain in effect through December 31, 2011.
 
 #### (3) Limitation
 
-&emsp;If the provisions in the legislation that cause it to meet the criteria in paragraph (1) cover a time period that ends before December 31, 2011, subject to the maximum adjustment provided for under paragraph (2), the amount of each current policy adjustment made pursuant to this section shall be limited to the difference between—
+&emsp;If the provisions in the legislation that cause it to meet the criteria in paragraph (1) cover a time period that ends before December31, 2011, subject to the maximum adjustment provided for under paragraph (2), the amount of each current policy adjustment made pursuant to this section shall be limited to the difference between—
 
 &emsp;&emsp;(A) total revenues projected to be collected under title 26 (as scheduled on December 31, 2009, to be in effect for the period of time covered by the relevant provisions of the eligible legislation); and
 
@@ -126,7 +126,7 @@ This section shall remain in effect through December 31, 2011.
 
 &emsp;&emsp;(I) The 33 percent bracket as in effect for tax year 2010, as provided for under section 101(a) of EGTRRA and any later amendment through December 31, 2009, affecting taxpayers with adjusted gross income of $200,000 or less for single filers and $250,000 or less for joint filers in tax year 2010, with these income levels indexed for inflation in each subsequent year consistent with subsection (g).
 
-&emsp;&emsp;(J) The rates on income derived from capital gains and qualified dividends as in effect for tax year 2010, as provided for under sections 301 and 302 of JGTRRA and any later amendment through December 31, 2009, affecting taxpayers with adjusted gross income of $200,000 or less for single filers and $250,000 for joint filers with these income levels indexed for inflation in each subsequent year consistent with subsection (g).
+&emsp;&emsp;(J) The rates on income derived from capital gains and qualified dividends as in effect for tax year 2010, as provided for under sections 301 and 302 of JGTRRA and any lateramendment through December 31, 2009, affecting taxpayers with adjusted gross income of $200,000 or less for single filers and $250,000 for joint filers with these income levels indexed for inflation in each subsequent year consistent with subsection (g).
 
 &emsp;&emsp;(K) The phaseout of personal exemptions and the overall limitation on itemized deductions as in effect for tax year 2010, as provided for under sections 102 and 103 of EGTRRA of 2001, respectively, and any later amendment through December 31, 2009, affecting taxpayer <sup>1</sup> with adjusted gross income of $200,000 or less for single filers and $250,000 for joint filers, with these income levels indexed for inflation in each subsequent year consistent with subsection (g).
 

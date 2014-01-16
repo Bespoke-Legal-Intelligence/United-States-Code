@@ -30,5 +30,5 @@
 
 #### Amendments
 
-<b>2010</b>—Subsec. (f). Pub. L. 111–327 substituted “362(o)” for “362(n)”.
+<b>2010</b>—Subsec. (f). Pub. L. 111–327 substituted "362(o)" for "362(n)".
 

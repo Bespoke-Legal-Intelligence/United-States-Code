@@ -10,19 +10,19 @@
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b). Pub. L. 111–281 struck out subsec. (b) which read as follows: “A vessel to which this chapter applies is exempt from section 4502(b)(2)(B) of this title if it—
+<b>2010</b>—Subsec. (b). Pub. L. 111–281 struck out subsec. (b) which read as follows: "A vessel to which this chapter applies is exempt from section 4502(b)(2)(B) of this title if it—
 
-&emsp;“(1) is less than 36 feet in length; and
+&emsp;"(1) is less than 36 feet in length; and
 
-&emsp;“(2) is operating—
+&emsp;"(2) is operating—
 
-&emsp;&emsp;“(A) in internal waters of the United States; or
+&emsp;&emsp;"(A) in internal waters of the United States; or
 
-&emsp;&emsp;“(B) within 3 nautical miles from the baselines from which the territorial sea of the United States is measured.”
+&emsp;&emsp;"(B) within 3 nautical miles from the baselines from which the territorial sea of the United States is measured."
 
-<b>1998</b>—Subsec. (b)(2). Pub. L. 105–383 added par. (2) and struck out former par. (2) which read as follows: “is not operating on the high seas.”
+<b>1998</b>—Subsec. (b)(2). Pub. L. 105–383 added par. (2) and struck out former par. (2) which read as follows: "is not operating on the high seas."
 
-<b>1992</b>—Subsec. (b). Pub. L. 102–587 substituted “4502(b)(2)(B)” for “4502(b)(2)”.
+<b>1992</b>—Subsec. (b). Pub. L. 102–587 substituted "4502(b)(2)(B)" for "4502(b)(2)".
 
 #### Territorial Sea of United States
 

@@ -40,11 +40,11 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “wine content” means alcohol derived from wine.
+&emsp;&emsp;The term "wine content" means alcohol derived from wine.
 
 #### (B) Wine
 
-&emsp;&emsp;The term “wine”—
+&emsp;&emsp;The term "wine"—
 
 &emsp;&emsp;&emsp;(i) means wine on which tax would be imposed by paragraph (1), (2), or (3) of section 5041(b) but for its removal to bonded premises, and
 
@@ -54,17 +54,17 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the term “flavors content” means alcohol derived from flavors of a type for which drawback is allowable under section 5114.
+&emsp;&emsp;Except as provided in subparagraph (B), the term "flavors content" means alcohol derived from flavors of a type for which drawback is allowable under section 5114.
 
 #### (B) Exceptions
 
-&emsp;&emsp;The term “flavors content” does not include—
+&emsp;&emsp;The term "flavors content" does not include—
 
 &emsp;&emsp;&emsp;(i) alcohol derived from flavors made at a distilled spirits plant,
 
 &emsp;&emsp;&emsp;(ii) alcohol derived from flavors distilled at a distilled spirits plant, and
 
-&emsp;&emsp;&emsp;(iii) in the case of any distilled spirits product, alcohol derived from flavors to the extent such alcohol exceeds (on a proofgallon basis) 2½ percent of the finished product.
+&emsp;&emsp;&emsp;(iii) in the case of any distilled spirits product, alcohol derived from flavors to the extent such alcohol exceeds (on a proof gallon basis) 2½ percent of the finished product.
 
 (Added Pub. L. 96–598, §6(a), Dec. 24, 1980, 94 Stat. 3488; amended Pub. L. 98–369, div. A, title I, §27(a)(2), July 18, 1984, 98 Stat. 507; Pub. L. 100–647, title V, §5063(a), Nov. 10, 1988, 102 Stat. 3681; Pub. L. 101–508, title XI, §11201(a)(2), Nov. 5, 1990, 104 Stat. 1388–415; Pub. L. 109–59, title XI, §11125(b)(14), Aug. 10, 2005, 119 Stat. 1956.)
 
@@ -74,13 +74,13 @@ A prior section 5010, act Aug. 16, 1954, ch. 736, 68A Stat. 603, related to misc
 
 #### Amendments
 
-<b>2005</b>—Subsec. (c)(2)(A). Pub. L. 109–59 substituted “section 5114” for “section 5134”.
+<b>2005</b>—Subsec. (c)(2)(A). Pub. L. 109–59 substituted "section 5114" for "section 5134".
 
-<b>1990</b>—Subsec. (a)(1), (2). Pub. L. 101–508 substituted “$13.50” for “$12.50”.
+<b>1990</b>—Subsec. (a)(1), (2). Pub. L. 101–508 substituted "$13.50" for "$12.50".
 
 <b>1988</b>—Subsec. (c)(2)(B). Pub. L. 100–647 added cl. (ii) and redesignated former cl. (ii) as (iii).
 
-<b>1984</b>—Subsec. (a)(1), (2). Pub. L. 98–369 substituted “$12.50” for “$10.50”.
+<b>1984</b>—Subsec. (a)(1), (2). Pub. L. 98–369 substituted "$12.50" for "$10.50".
 
 #### Effective Date of 2005 Amendment
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 101–508 effective Jan. 1, 1991, see section 11201(d) of P
 
 #### Effective Date of 1988 Amendment
 
-Pub. L. 100–647, title V, §5063(b), Nov. 10, 1988, 102 Stat. 3681, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to distilled spirits withdrawn from bond after the date of the enactment of this Act \[Nov. 10, 1988\].”
+Pub. L. 100–647, title V, §5063(b), Nov. 10, 1988, 102 Stat. 3681, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to distilled spirits withdrawn from bond after the date of the enactment of this Act \[Nov. 10, 1988\]."
 
 #### Effective Date of 1984 Amendment
 
@@ -100,5 +100,5 @@ Amendment by Pub. L. 98–369 effective Oct. 1, 1985, see section 27(d)(1) of Pu
 
 #### Effective Date
 
-Pub. L. 96–598, §6(c), Dec. 24, 1980, 94 Stat. 3489, provided that: “The amendments made by subsections (a) and (b) \[enacting this section\] shall take effect on January 1, 1980.”
+Pub. L. 96–598, §6(c), Dec. 24, 1980, 94 Stat. 3489, provided that: "The amendments made by subsections (a) and (b) \[enacting this section\] shall take effect on January 1, 1980."
 

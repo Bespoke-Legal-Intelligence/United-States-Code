@@ -32,7 +32,7 @@ The Secretary shall—
 
 #### (1) Secretary's authority
 
-&emsp;On the initiative of the Secretary, or on request of an accrediting entity, the Secretary may temporarily or permanently debar an agency from accreditation or a person from approval under this subchapter, but only if—
+&emsp;On the initiative of the Secretary, or on request of an accrediting entity, the Secretarymay temporarily or permanently debar an agency from accreditation or a person from approval under this subchapter, but only if—
 
 &emsp;&emsp;(A) there is substantial evidence that the agency or person is out of compliance with applicable requirements; and
 
@@ -76,13 +76,13 @@ A person (other than a prospective adoptive parent), an agency, or an accreditin
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, known as the Intercountry Adoption Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 825, known as the Intercountry Adoption Act of 2000, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 14901 of this title and Tables.
 
-This subchapter, referred to in subsecs. (c)(1), (3) and (d), was in the original “this title”, meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
+This subchapter, referred to in subsecs. (c)(1), (3) and (d), was in the original "this title", meaning title II of Pub. L. 106–279, Oct. 6, 2000, 114 Stat. 830, which is classified principally to this subchapter. For complete classification of title II to the Code, see Tables.
 
 #### Effective Date
 
 Section effective Oct. 6, 2000, with transition rule, see section 505(a)(1), (b) of Pub. L. 106–279, set out as an Effective Dates; Transition Rule note under section 14901 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “14923(b)(1)(A)(ii)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section "14923(b)(1)(A)(ii)".</i>
 

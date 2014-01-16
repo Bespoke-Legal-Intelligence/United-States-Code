@@ -18,7 +18,7 @@ The purposes of assistance under this section include—
 
 #### (2) Definition of humanitarian assistance
 
-&emsp;In this subsection, the term “humanitarian assistance” means assistance to meet humanitarian needs, including needs for food, medicine, medical supplies and equipment, education, and clothing.
+&emsp;In this subsection, the term "humanitarian assistance" means assistance to meet humanitarian needs, including needs for food, medicine, medical supplies and equipment, education, and clothing.
 
 #### (c) Activities supported
 
@@ -34,7 +34,7 @@ Activities that may be supported by assistance under subsection (b) of this sect
 
 #### Prior Provisions
 
-A prior section 2296, Pub. L. 87–195, pt. I, §499, as added Pub. L. 102–391, title V, §594(a), Oct. 6, 1992, 106 Stat. 1692, authorized reduction of certain debts owedto the United States, prior to repeal by Pub. L. 102–549, title VI, §602(b), Oct. 28, 1992, 106 Stat. 3669.
+A prior section 2296, Pub. L. 87–195, pt. I, §499, as added Pub. L. 102–391, title V, §594(a), Oct. 6, 1992, 106 Stat. 1692, authorized reduction of certain debts owed to the United States, prior to repeal by Pub. L. 102–549, title VI, §602(b), Oct. 28, 1992, 106 Stat. 3669.
 
 #### Delegation of Functions
 

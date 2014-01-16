@@ -44,7 +44,7 @@ Each agreement entered into under this section shall—
 
 &emsp;For purposes of this subsection:
 
-&emsp;&emsp;(A) The term “default” means the failure of a borrower of a loan made under this subpart to—
+&emsp;&emsp;(A) The term "default" means the failure of a borrower of a loan made under this subpart to—
 
 &emsp;&emsp;&emsp;(i) make an installment payment when due; or
 
@@ -52,15 +52,15 @@ Each agreement entered into under this section shall—
 
 > &emsp;&emsp;except that a loan made under this subpart shall not be considered to be in default if the loan is discharged in bankruptcy or if the school reasonably concludes from written contracts with the borrower that the borrower intends to repay the loan.
 
-&emsp;&emsp;(B) The term “defaulted principal amount outstanding” means the total amount borrowed from the loan fund of a school that has reached the repayment stage (minus any principal amount repaid or canceled) on loans—
+&emsp;&emsp;(B) The term "defaulted principal amount outstanding" means the total amount borrowed from the loan fund of a school that has reached the repayment stage (minus any principal amount repaid or canceled) on loans—
 
 &emsp;&emsp;&emsp;(i) repayable monthly and in default for at least 120 days; and
 
 &emsp;&emsp;&emsp;(ii) repayable less frequently than monthly and in default for at least 180 days;
 
-&emsp;&emsp;(C) The term “grace period” means the period of one year beginning on the date on which the borrower ceases to pursue a full-time course of study at a school of medicine, osteopathic medicine, dentistry, pharmacy, podiatric medicine, optometry, or veterinary medicine; and
+&emsp;&emsp;(C) The term "grace period" means the period of one year beginning on the date on which the borrower ceases to pursue a full-time course of study at a school of medicine, osteopathic medicine, dentistry, pharmacy, podiatric medicine, optometry, or veterinary medicine; and
 
-&emsp;&emsp;(D) The term “matured loans” means the total principal amount of all loans made by a school under this subpart minus the total principal amount of loans made by such school to students who are—
+&emsp;&emsp;(D) The term "matured loans" means the total principal amount of all loans made by a school under this subpart minus the total principal amount of loans made by such school to students who are—
 
 &emsp;&emsp;&emsp;(i) enrolled in a full-time course of study at such school; or
 

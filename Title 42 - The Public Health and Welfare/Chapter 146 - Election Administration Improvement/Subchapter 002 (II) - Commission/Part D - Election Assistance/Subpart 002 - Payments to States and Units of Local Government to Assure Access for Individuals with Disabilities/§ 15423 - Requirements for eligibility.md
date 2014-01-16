@@ -2,7 +2,7 @@
 
 #### (a) Application
 
-Each State or unit of local government that desires to receive a payment under this subpart for a fiscal year shall submit an application for the payment to the Secretary at such time and in such manner and containing such information as the Secretary shall require.
+Each State or unit of local government that desires to receive a payment under this subpartfor a fiscal year shall submit an application for the payment to the Secretary at such time and in such manner and containing such information as the Secretary shall require.
 
 #### (b) Contents of application
 
@@ -26,5 +26,5 @@ Each application submitted under subsection (a) of this section shall—
 
 #### References in Text
 
-This chapter, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
+This chapter, referred to in subsec. (c)(1), was in the original "this Act", meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
 

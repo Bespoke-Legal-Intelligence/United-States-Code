@@ -48,9 +48,9 @@ From the amount appropriated for payments to States for any fiscal year under se
 
 For the purpose of subsections (a) and (b) of this section—
 
-&emsp;(1) the term “freely associated states” means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau; and
+&emsp;(1) the term "freely associated states" means the Republic of the Marshall Islands, the Federated States of Micronesia, and the Republic of Palau; and
 
-&emsp;(2) the term “outlying area” means the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;(2) the term "outlying area" means the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (d) Allotment to the Secretary of the Interior
 
@@ -74,11 +74,11 @@ For the purpose of subsections (a) and (b) of this section—
 
 #### References in Text
 
-Public Law 95–134, referred to in subsec. (b)(4), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
+Public Law 95–134, referred to in subsec. (b)(4), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified tosection 1469a of Title 48, Territories and Insular Possessions.
 
 #### Prior Provisions
 
 A prior section 6331, Pub. L. 89–10, title I, §1121, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3561, related to grants for outlying areas and the Secretary of the Interior, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "sections".</i>
 

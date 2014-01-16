@@ -6,23 +6,23 @@ In this section:
 
 #### (1) Eligible State
 
-&emsp;The term “eligible State” means a State that meets the requirements of subsection (b).
+&emsp;The term "eligible State" means a State that meets the requirements of subsection (b).
 
 #### (2) Energy Star program
 
-&emsp;The term “Energy Star program” means the program established by section 6294a of this title.
+&emsp;The term "Energy Star program" means the program established by section 6294a of this title.
 
 #### (3) Residential Energy Star product
 
-&emsp;The term “residential Energy Star product” means a product for a residence that is rated for energy efficiency under the Energy Star program.
+&emsp;The term "residential Energy Star product" means a product for a residence that is rated for energy efficiency under the Energy Star program.
 
 #### (4) State energy office
 
-&emsp;The term “State energy office” means the State agency responsible for developing State energy conservation plans under section 6322 of this title.
+&emsp;The term "State energy office" means the State agency responsible for developing State energy conservation plans under section 6322 of this title.
 
 #### (5) State program
 
-&emsp;The term “State program” means a State energy efficient appliance rebate program described in subsection (b)(1).
+&emsp;The term "State program" means a State energy efficient appliance rebate program described in subsection (b)(1).
 
 #### (b) Eligible States
 
@@ -66,9 +66,9 @@ There are authorized to be appropriated to the Secretary to carry out this secti
 
 #### Amendments
 
-<b>2007</b>—Subsec. (b)(1). Pub. L. 110–140, §315(b)(1), inserted “, or products with improved energy efficiency in cold climates,” after “residential Energy Star products”.
+<b>2007</b>—Subsec. (b)(1). Pub. L. 110–140, §315(b)(1), inserted ", or products with improved energy efficiency in cold climates," after "residential Energy Star products".
 
-Subsec. (e)(2), (3). Pub. L. 110–140, §315(b)(2), inserted “or product with improved energy efficiency in a cold climate” after “residential Energy Star product” wherever appearing.
+Subsec. (e)(2), (3). Pub. L. 110–140, §315(b)(2), inserted "or product with improved energy efficiency in a cold climate" after "residential Energy Star product" wherever appearing.
 
 #### Effective Date of 2007 Amendment
 

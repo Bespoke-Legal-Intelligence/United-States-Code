@@ -8,7 +8,7 @@
 
 (B) Any member of the Board may administer oaths or affirmations to witnesses appearing before the Board.
 
-(C) If a person issued a subpoena under paragraph (1) refuses to obey such subpoena or is guilty of contumacy, any court of the United States within the judicial district within which the hearing is conducted or within the judicial district within which such person is found or resides or transacts business may (upon application by the Board) order such person to appear before the Board to produce evidence or to give testimony relating to the matter under investigation. Any failure to obey such order of the court may be punished by such court as a contempt of the court.
+(C) If a person issued a subpoena under paragraph (1) refuses to obey such subpoena or is guilty of contumacy, any court of the United States within the judicial district within which the hearing is conducted or within the judicial district within which such person is found or resides or transacts business may (upon application by the Board) order such person to appear before the Board to produce evidence or to give testimony relating to the matter under investigation. Any failure to obey such order of thecourt may be punished by such court as a contempt of the court.
 
 (D) The subpoenas of the Board shall be served in the manner provided for subpoenas issued by a United States district court under the Federal Rules of Civil Procedure for the United States district courts.
 
@@ -68,11 +68,11 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a)(2)(D), are set 
 
 #### Amendments
 
-<b>2013</b>—Subsec. (j)(2). Pub. L. 112–239 substituted “section 2286a(b)(1) of this title, the implementation” for “section 2286a(1) of this title, the implementation”.
+<b>2013</b>—Subsec. (j)(2). Pub. L. 112–239 substituted "section 2286a(b)(1) of this title, the implementation" for "section 2286a(1) of this title, the implementation".
 
-<b>1991</b>—Subsec. (b)(1)(A). Pub. L. 102–190, §3202(a)(1), substituted “150” for “100”.
+<b>1991</b>—Subsec. (b)(1)(A). Pub. L. 102–190, §3202(a)(1), substituted "150" for "100".
 
-Subsec. (g). Pub. L. 102–190, §3202(a)(2), substituted “Notwithstanding any other provision of law relating to the use of competitive procedures, the Board may” for “The Board may”.
+Subsec. (g). Pub. L. 102–190, §3202(a)(2), substituted "Notwithstanding any other provision of law relating to the use of competitive procedures, the Board may" for "The Board may".
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–510 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, inserted “including such scientific and technical personnel as the Board may determine necessary,” after “Board,” in subpar. (A), and added par. (2).
+<b>1990</b>—Subsec. (b). Pub. L. 101–510 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, inserted "including such scientific and technical personnel as the Board may determine necessary," after "Board," in subpar. (A), and added par. (2).
 

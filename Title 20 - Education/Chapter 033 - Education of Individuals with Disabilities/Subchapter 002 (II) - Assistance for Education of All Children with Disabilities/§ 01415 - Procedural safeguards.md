@@ -174,7 +174,7 @@ The procedures required by this section shall include the following:
 
 &emsp;&emsp;(K) civil actions, including the time period in which to file such actions; and
 
-&emsp;&emsp;(L) attorneys’ fees.
+&emsp;&emsp;(L) attorneys' fees.
 
 #### (e) Mediation
 
@@ -244,7 +244,7 @@ Mediation discussions.—Discussions that occur during the mediation process sha
 
 &emsp;&emsp;&emsp;Prior to the opportunity for an impartial due process hearing under subparagraph (A), the local educational agency shall convene a meeting with the parents and the relevant member or members of the IEP Team who have specific knowledge of the facts identified in the complaint—
 
-&emsp;&emsp;&emsp;&emsp;(I) within 15 days of receiving notice of the parents’ complaint;
+&emsp;&emsp;&emsp;&emsp;(I) within 15 days of receiving notice of the parents' complaint;
 
 &emsp;&emsp;&emsp;&emsp;(II) which shall include a representative of the agency who has decisionmaking authority on behalf of such agency;
 
@@ -304,7 +304,7 @@ Mediation discussions.—Discussions that occur during the mediation process sha
 
 #### (C) Timeline for requesting hearing
 
-&emsp;&emsp;A parent or agency shall request an impartial due process hearing within 2 years of the date the parent or agency knew or should have known about the alleged action that forms the basis of the complaint, or, if the State has an explicit time limitation for requesting such a hearing under this subchapter, in such time as the State law allows.
+&emsp;&emsp;A parent or agency shall request an impartial due process hearing within 2 years of thedate the parent or agency knew or should have known about the alleged action that forms the basis of the complaint, or, if the State has an explicit time limitation for requesting such a hearing under this subchapter, in such time as the State law allows.
 
 #### (D) Exceptions to the timeline
 
@@ -326,7 +326,7 @@ Mediation discussions.—Discussions that occur during the mediation process sha
 
 &emsp;&emsp;&emsp;&emsp;(I) impeded the child's right to a free appropriate public education;
 
-&emsp;&emsp;&emsp;&emsp;(II) significantly impeded the parents’ opportunity to participate in the decisionmaking process regarding the provision of a free appropriate public education to the parents’ child; or
+&emsp;&emsp;&emsp;&emsp;(II) significantly impeded the parents' opportunity to participate in the decisionmaking process regarding the provision of a free appropriate public education to the parents' child; or
 
 &emsp;&emsp;&emsp;&emsp;(III) caused a deprivation of educational benefits.
 
@@ -396,17 +396,17 @@ Any party to a hearing conducted pursuant to subsection (f) or (k), or an appeal
 
 &emsp;&emsp;&emsp;(iii) basing its decision on the preponderance of the evidence, shall grant such relief as the court determines is appropriate.
 
-#### (3) Jurisdiction of district courts; attorneys’ fees
+#### (3) Jurisdiction of district courts; attorneys' fees
 
 #### (A) In general
 
 &emsp;&emsp;The district courts of the United States shall have jurisdiction of actions brought under this section without regard to the amount in controversy.
 
-#### (B) Award of attorneys’ fees
+#### (B) Award of attorneys' fees
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In any action or proceeding brought under this section, the court, in its discretion, may award reasonable attorneys’ fees as part of the costs—
+&emsp;&emsp;&emsp;In any action or proceeding brought under this section, the court, in its discretion, may award reasonable attorneys' fees as part of the costs—
 
 &emsp;&emsp;&emsp;&emsp;(I) to a prevailing party who is the parent of a child with a disability;
 
@@ -418,15 +418,15 @@ Any party to a hearing conducted pursuant to subsection (f) or (k), or an appeal
 
 &emsp;&emsp;&emsp;Nothing in this subparagraph shall be construed to affect section 327 of the District of Columbia Appropriations Act, 2005.
 
-#### (C) Determination of amount of attorneys’ fees
+#### (C) Determination of amount of attorneys' fees
 
 &emsp;&emsp;Fees awarded under this paragraph shall be based on rates prevailing in the community in which the action or proceeding arose for the kind and quality of services furnished. No bonus or multiplier may be used in calculating the fees awarded under this subsection.
 
-#### (D) Prohibition of attorneys’ fees and related costs for certain services
+#### (D) Prohibition of attorneys' fees and related costs for certain services
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Attorneys’ fees may not be awarded and related costs may not be reimbursed in any action or proceeding under this section for services performed subsequent to the time of a written offer of settlement to a parent if—
+&emsp;&emsp;&emsp;Attorneys' fees may not be awarded and related costs may not be reimbursed in any action or proceeding under this section for services performed subsequent to the time of a written offer of settlement to a parent if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the offer is made within the time prescribed by Rule 68 of the Federal Rules of Civil Procedure or, in the case of an administrative proceeding, at any time more than 10 days before the proceeding begins;
 
@@ -436,7 +436,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k), or an appeal
 
 #### (ii) IEP Team meetings
 
-&emsp;&emsp;&emsp;Attorneys’ fees may not be awarded relating to any meeting of the IEP Team unless such meeting is convened as a result of an administrative proceeding or judicial action, or, at the discretion of the State, for a mediation described in subsection (e).
+&emsp;&emsp;&emsp;Attorneys' fees may not be awarded relating to any meeting of the IEP Team unless such meeting is convened as a result of an administrative proceeding or judicial action, or, at the discretion of the State, for a mediation described in subsection (e).
 
 #### (iii) Opportunity to resolve complaints
 
@@ -446,31 +446,31 @@ Any party to a hearing conducted pursuant to subsection (f) or (k), or an appeal
 
 &emsp;&emsp;&emsp;&emsp;(II) an administrative hearing or judicial action for purposes of this paragraph.
 
-#### (E) Exception to prohibition on attorneys’ fees and related costs
+#### (E) Exception to prohibition on attorneys' fees and related costs
 
-&emsp;&emsp;Notwithstanding subparagraph (D), an award of attorneys’ fees and related costs may be made to a parent who is the prevailing party and who was substantially justified in rejecting the settlement offer.
+&emsp;&emsp;Notwithstanding subparagraph (D), an award of attorneys' fees and related costs may be made to a parent who is the prevailing party and who was substantially justified in rejecting the settlement offer.
 
-#### (F) Reduction in amount of attorneys’ fees
+#### (F) Reduction in amount of attorneys' fees
 
 &emsp;&emsp;Except as provided in subparagraph (G), whenever the court finds that—
 
 &emsp;&emsp;&emsp;(i) the parent, or the parent's attorney, during the course of the action or proceeding, unreasonably protracted the final resolution of the controversy;
 
-&emsp;&emsp;&emsp;(ii) the amount of the attorneys’ fees otherwise authorized to be awarded unreasonably exceeds the hourly rate prevailing in the community for similar services by attorneys of reasonably comparable skill, reputation, and experience;
+&emsp;&emsp;&emsp;(ii) the amount of the attorneys' fees otherwise authorized to be awarded unreasonably exceeds the hourly rate prevailing in the community for similar services by attorneys of reasonably comparable skill, reputation, and experience;
 
 &emsp;&emsp;&emsp;(iii) the time spent and legal services furnished were excessive considering the nature of the action or proceeding; or
 
 &emsp;&emsp;&emsp;(iv) the attorney representing the parent did not provide to the local educational agency the appropriate information in the notice of the complaint described in subsection (b)(7)(A),
 
-> &emsp;&emsp;the court shall reduce, accordingly, the amount of the attorneys’ fees awarded under this section.
+> &emsp;&emsp;the court shall reduce, accordingly, the amount of the attorneys' fees awarded under this section.
 
-#### (G) Exception to reduction in amount of attorneys’ fees
+#### (G) Exception to reduction in amount of attorneys' fees
 
 &emsp;&emsp;The provisions of subparagraph (F) shall not apply in any action or proceeding if the court finds that the State or local educational agency unreasonably protracted the final resolution of the action or proceeding or there was a violation of this section.
 
 #### (j) Maintenance of current educational placement
 
-Except as provided in subsection (k)(4), during the pendency of any proceedings conducted pursuant to this section, unless the State or local educational agency and the parents otherwise agree, the child shall remain in the then-current educational placement of the child, or, if applying for initial admission to a public school, shall, with the consent of the parents, be placed in the public school program until all such proceedings have been completed.
+Except as provided in subsection (k)(4), during the pendency of any proceedings conducted pursuant to this section, unless the State or localeducational agency and the parents otherwise agree, the child shall remain in the then-current educational placement of the child, or, if applying for initial admission to a public school, shall, with the consent of the parents, be placed in the public school program until all such proceedings have been completed.
 
 #### (k) Placement in alternative educational setting
 
@@ -482,7 +482,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (B) Authority
 
-&emsp;&emsp;School personnel under this subsection may remove a child with a disability whoviolates a code of student conduct from their current placement to an appropriate interim alternative educational setting, another setting, or suspension, for not more than 10 school days (to the extent such alternatives are applied to children without disabilities).
+&emsp;&emsp;School personnel under this subsection may remove a child with a disability who violates a code of student conduct from their current placement to an appropriate interim alternative educational setting, another setting, or suspension, for not more than 10 school days (to the extent such alternatives are applied to children without disabilities).
 
 #### (C) Additional authority
 
@@ -528,7 +528,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 &emsp;&emsp;&emsp;(ii) knowingly possesses or uses illegal drugs, or sells or solicits the sale of a controlled substance, while at school, on school premises, or at a school function under the jurisdiction of a State or local educational agency; or
 
-&emsp;&emsp;&emsp;(iii) has inflicted serious bodily injury upon another person while at school, on school premises, or at a school function under the jurisdiction of a State or local educational agency.
+&emsp;&emsp;&emsp;(iii) has inflicted serious bodily injury upon another person while at school, on school premises, or at a school functionunder the jurisdiction of a State or local educational agency.
 
 #### (H) Notification
 
@@ -594,7 +594,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (ii) Limitations
 
-&emsp;&emsp;&emsp;If a request is made for an evaluation of a child during the time period in which the child is subjected to disciplinary measures under this subsection, the evaluation shall be conducted in an expedited manner. If the child is determined to be a child with a disability, taking into consideration information from the evaluation conducted by the agency and information provided by the parents, the agency shall provide special education and related services in accordance with this subchapter, except that, pending the results of the evaluation, the child shall remain in the educational placement determined by school authorities.
+&emsp;&emsp;&emsp;If a request is made for an evaluation of a child during the time period in which the child is subjected to disciplinary measures under this subsection, the evaluation shall be conducted in an expedited manner. If the child is determined to be a child with a disability, taking into consideration information from the evaluation conducted by the agency and information provided by the parents, the agency shall provide special education and related services in accordance with this subchapter, except that, pending the results of the evaluation, the child shall remain in the educationalplacement determined by school authorities.
 
 #### (6) Referral to and action by law enforcement and judicial authorities
 
@@ -604,7 +604,7 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (B) Transmittal of records
 
-&emsp;&emsp;An agency reporting a crime committed by a child with a disability shall ensure thatcopies of the special education and disciplinary records of the child are transmitted for consideration by the appropriate authorities to whom the agency reports the crime.
+&emsp;&emsp;An agency reporting a crime committed by a child with a disability shall ensure that copies of the special education and disciplinary records of the child are transmitted for consideration by the appropriate authorities to whom the agency reports the crime.
 
 #### (7) Definitions
 
@@ -612,19 +612,19 @@ Except as provided in subsection (k)(4), during the pendency of any proceedings 
 
 #### (A) Controlled substance
 
-&emsp;&emsp;The term “controlled substance” means a drug or other substance identified under schedule I, II, III, IV, or V in section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)).
+&emsp;&emsp;The term "controlled substance" means a drug or other substance identified under schedule I, II, III, IV, or V in section 202(c) of the Controlled Substances Act (21 U.S.C. 812(c)).
 
 #### (B) Illegal drug
 
-&emsp;&emsp;The term “illegal drug” means a controlled substance but does not include a controlled substance that is legally possessed or used under the supervision of a licensed health-care professional or that is legally possessed or used under any other authority under that Act \[21 U.S.C. 801 et seq.\] or under any other provision of Federal law.
+&emsp;&emsp;The term "illegal drug" means a controlled substance but does not include a controlled substance that is legally possessed or used under the supervision of a licensed health-care professional or that is legally possessed or used under any other authority under that Act \[21 U.S.C. 801 et seq.\] or under any other provision of Federal law.
 
 #### (C) Weapon
 
-&emsp;&emsp;The term “weapon” has the meaning given the term “dangerous weapon” under section 930(g)(2) of title 18.
+&emsp;&emsp;The term "weapon" has the meaning given the term "dangerous weapon" under section 930(g)(2) of title 18.
 
 #### (D) Serious bodily injury
 
-&emsp;&emsp;The term “serious bodily injury” has the meaning given the term “serious bodily injury” under paragraph (3) of subsection (h) of section 1365 of title 18.
+&emsp;&emsp;The term "serious bodily injury" has the meaning given the term "serious bodily injury" under paragraph (3) of subsection (h) of section 1365 of title 18.
 
 #### (l) Rule of construction
 
@@ -672,7 +672,7 @@ The Rehabilitation Act of 1973, referred to in subsec. (l), is Pub. L. 93–112,
 
 #### Prior Provisions
 
-A prior section 1415, Pub. L. 91–230, title VI, §615, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 88; amended Pub. L. 106–25, §6(a), Apr. 29, 1999, 113 Stat. 49, related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
+A prior section 1415, Pub. L. 91–230, title VI, §615, as added Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat.88; amended Pub. L. 106–25, §6(a), Apr. 29, 1999, 113 Stat. 49, related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 108–446.
 
 Another prior section 1415, Pub. L. 91–230, title VI, §615, as added Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 788; amended Pub. L. 99–372, §§2, 3, Aug. 5, 1986, 100 Stat. 796, 797; Pub. L. 100–630, title I, §102(e), Nov. 7, 1988, 102 Stat. 3294; Pub. L. 101–476, title IX, §901(b)(71)–(75), Oct. 30, 1990, 104 Stat. 1145; Pub. L. 102–119, §25(b), Oct. 7, 1991, 105 Stat. 607; Pub. L. 103–382, title III, §314(a)(1), Oct. 20, 1994, 108 Stat. 3936, related to procedural safeguards, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 

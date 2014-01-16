@@ -18,7 +18,7 @@
 
 &emsp;(F) a comprehensive review of the adequacy of Indian forest land management plans, including their compatibility with applicable tribal integrated resource management plans and their ability to meet tribal needs and priorities,
 
-&emsp;(G) an evaluation of the feasibility and desirability of establishing minimum standards against which the adequacy of the forestry programs of the Bureau of Indian Affairs infulfilling its trust responsibility to Indian tribes can be measured, and
+&emsp;(G) an evaluation of the feasibility and desirability of establishing minimum standards against which the adequacy of the forestry programs of the Bureau of Indian Affairs in fulfilling its trust responsibility to Indian tribes can be measured, and
 
 &emsp;(H) a recommendation of any reforms and increased funding levels necessary to bring Indian forest land management programs to a state-of-the-art condition.
 
@@ -42,7 +42,7 @@ The Secretary of Agriculture, through the Forest Service, is authorized to provi
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(4). Pub. L. 103–437, §10(f)(1), substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
+<b>1994</b>—Subsec. (a)(4). Pub. L. 103–437, §10(f)(1), substituted "Committee on Indian" for "Select Committee on Indian" and "Natural Resources" for "Interior and Insular Affairs".
 
-Subsec. (c). Pub. L. 103–437, inserted “the” after “report to” and substituted “Committee on Indian” for “Select Committee on Indian” and “Natural Resources” for “Interior and Insular Affairs”.
+Subsec. (c). Pub. L. 103–437, inserted "the" after "report to" and substituted "Committee on Indian" for "Select Committee on Indian" and "Natural Resources" for "Interior and Insular Affairs".
 

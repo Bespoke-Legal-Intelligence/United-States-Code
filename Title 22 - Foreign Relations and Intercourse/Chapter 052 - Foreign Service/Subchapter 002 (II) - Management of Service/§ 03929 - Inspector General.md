@@ -2,7 +2,7 @@
 
 #### (a) Appointment; supervision by Secretary of State; prohibition against interference by State Department with certain duties; inspections, audits, and other functions; removal from office
 
-(1) There shall be an Inspector General of the Department of State and the Foreign Service, who shall be appointed by the President, by and with the advice and consent of the Senate, without regard to political affiliation from among individuals exceptionally qualified for the position by virtue of their integrity and their demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations, or their knowledge and experience in the conduct of foreign affairs. The Inspector General shall report to and be under the general supervision of the Secretary of State. Neither the Secretary of State nor any other officer of the Department shall prevent or prohibit the Inspector General from initiating, carrying out, or completing any audit or investigation, or from issuing any subpena during the course of any audit or investigation. The Inspector General shall periodically (at least every 5 years) inspect and audit the administration of activities and operations of each Foreign Service post and each bureau and other operating unit of the Department of State, and shall perform such other functions as the Secretary of State may prescribe, except that the Secretary of State shall not assign to the Inspector General any general program operating responsibilities.
+(1) There shall be an Inspector General of the Department of State and the Foreign Service, who shall be appointed by the President, by and with the advice and consent of the Senate, without regard to political affiliation from among individuals exceptionally qualified for the position by virtue of their integrity and their demonstrated ability in accounting, auditing, financial analysis, law, management analysis, public administration, or investigations, or their knowledge and experience in the conduct of foreign affairs. The Inspector General shall report to and be under the general supervision of the Secretary of State. Neither the Secretary of State nor any other officer of the Departmentshall prevent or prohibit the Inspector General from initiating, carrying out, or completing any audit or investigation, or from issuing any subpena during the course of any audit or investigation. The Inspector General shall periodically (at least every 5 years) inspect and audit the administration of activities and operations of each Foreign Service post and each bureau and other operating unit of the Department of State, and shall perform such other functions as the Secretary of State may prescribe, except that the Secretary of State shall not assign to the Inspector General any general program operating responsibilities.
 
 (2) The Inspector General may be removed from office by the President. The President shall communicate the reasons for any such removal to both Houses of Congress.
 
@@ -88,7 +88,7 @@ Final reports of investigations.—In order to ensure that final reports of inve
 
 (2) At the request of the Inspector General, employees of the Department and members of the Service may be assigned as employees of the Inspector General. The individuals so assigned and individuals appointed pursuant to paragraph (1) shall be responsible solely to the Inspector General, and the Inspector General or his or her designee shall prepare the performance evaluation reports for such individuals.
 
-(3) The Inspector General shall ensure that only officials from the Office of the Inspector General may participate in formal interviews orother formal meetings with the individual who is the subject of an investigation, other than an intelligence-related or sensitive undercover investigation, or except in those situations when the Inspector General has a reasonable basis to believe that such notice would cause tampering with witnesses, destroying evidence, or endangering the lives of individuals, unless that individual receives prior adequate notice regarding participation by officials of any other agency, including the Department of Justice, in such interviews or meetings.
+(3) The Inspector General shall ensure that only officials from the Office of the Inspector General may participate in formal interviews or other formal meetings with the individual who is the subject of an investigation, other than an intelligence-related or sensitive undercover investigation, or except in those situations when the Inspector General has a reasonable basis to believe that such notice would cause tampering with witnesses, destroying evidence, or endangering the lives of individuals, unless that individual receives prior adequate notice regarding participation by officials of any other agency, including the Department of Justice, in such interviews or meetings.
 
 #### (f) Reception and investigation of complaints or information; disclosure of identity of informer
 
@@ -120,23 +120,23 @@ Subsec. (e)(3). Pub. L. 105–277, §2208(b), added par. (3).
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, provided that: “The amendments made by this section \[amending this section\] shall apply to cases opened on or after the date of the enactment of this Act \[Nov. 29, 1999\].”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, provided that: "The amendments made by this section \[amending this section\] shall apply to cases opened on or after the date of the enactment of this Act \[Nov. 29, 1999\]."
 
 #### Construction of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, provided that: “Nothing in the amendments made by this section \[amending this section\] may be construed to modify—
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, provided that: "Nothing in the amendments made by this section \[amending this section\] may be construed to modify—
 
-&emsp;“(1) section 209(d)(4) of the Foreign Service Act of 1980 (22 U.S.C. 3929(d)(4));
+&emsp;"(1) section 209(d)(4) of the Foreign Service Act of 1980 (22 U.S.C. 3929(d)(4));
 
-&emsp;“(2) section 7(b) of the Inspector General Act of 1978 (5 U.S.C. app.);
+&emsp;"(2) section 7(b) of the Inspector General Act of 1978 (5 U.S.C. app.);
 
-&emsp;“(3) the Privacy Act of 1974 (5 U.S.C. 552a);
+&emsp;"(3) the Privacy Act of 1974 (5 U.S.C. 552a);
 
-&emsp;“(4) the provisions of section 2302(b)(8) of title 5 (relating to whistleblower protection);
+&emsp;"(4) the provisions of section 2302(b)(8) of title 5 (relating to whistleblower protection);
 
-&emsp;“(5) rule 6(e) of the Federal Rules of Criminal Procedure \[18 U.S.C. App.\] (relating to the protection of grand jury information); or
+&emsp;"(5) rule 6(e) of the Federal Rules of Criminal Procedure \[18 U.S.C. App.\] (relating to the protection of grand jury information); or
 
-&emsp;“(6) any statute or executive order pertaining to the protection of classified information.”
+&emsp;"(6) any statute or executive order pertaining to the protection of classified information."
 
 #### Termination of Reporting Requirements
 
@@ -144,5 +144,5 @@ For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this
 
 #### No Grievance or Right of Action
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, provided that: “A failure to comply with the amendments made by this section \[amending this section\] shall not give rise to any private right of action in any court or to an administrative complaint or grievance under any law.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §339(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–444, provided that: "A failure to comply with the amendments made by this section \[amending this section\] shall not give rise to any private right of action in any court or to an administrative complaint or grievance under any law."
 

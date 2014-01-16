@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 6, 1956, ch. 976, §5(a), 70 Stat. 1053.
 
-The word “various” is omitted as unnecessary.
+The word "various" is omitted as unnecessary.
 

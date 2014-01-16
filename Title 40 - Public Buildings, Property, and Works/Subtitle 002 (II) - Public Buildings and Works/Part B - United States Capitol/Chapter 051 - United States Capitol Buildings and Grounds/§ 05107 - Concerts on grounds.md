@@ -26,7 +26,7 @@ Sections 9, 9A, 9B, and 9C of the Act of July 31, 1946, referred to in text, are
 
 #### Amendments
 
-<b>2003</b>—Pub. L. 108–178 substituted “5105, 5106” for “5105, 5105”.
+<b>2003</b>—Pub. L. 108–178 substituted "5105, 5106" for "5105, 5105".
 
 #### Effective Date of 2003 Amendment
 

@@ -18,7 +18,7 @@
 
 &emsp;(8) An allowance as authorized under section 5724b of this title for Federal, State, and local income taxes incurred on reimbursement of expenses paid under this section or on services provided in kind under this section.
 
-&emsp;(9) Expenses of nontemporary storage of household goods and personal effects as defined in section 5726(a) of this title, subject to the limitation that the weight of the household goods and personal effects stored, together with the weight of property transported under section 5724(a) of this title, may not exceed the total maximum weight which could be transported in accordance with section 5724(a) of this title.
+&emsp;(9) Expenses of nontemporary storage of household goods and personal effects as defined in section 5726(a) of this title, subject to the limitation that the weight of the household goods and personal effects stored, together with the weight of property transportedunder section 5724(a) of this title, may not exceed the total maximum weight which could be transported in accordance with section 5724(a) of this title.
 
 &emsp;(10) Expenses of property management services.
 

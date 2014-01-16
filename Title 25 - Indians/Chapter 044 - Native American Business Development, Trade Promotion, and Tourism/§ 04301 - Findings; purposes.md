@@ -16,7 +16,7 @@ Congress finds that—
 
 &emsp;(6) the United States has an obligation to guard and preserve the sovereignty of Indian tribes in order to foster strong tribal governments, Indian self-determination, and economic self-sufficiency among Indian tribes;
 
-&emsp;(7) the capacity of Indian tribes to build strong tribal governments and vigorous economies is hindered by the inability of Indiantribes to engage communities that surround Indian lands and outside investors in economic activities on Indian lands;
+&emsp;(7) the capacity of Indian tribes to build strong tribal governments and vigorous economies is hindered by the inability of Indian tribes to engage communities that surround Indian lands and outside investors in economic activities on Indian lands;
 
 &emsp;(8) despite the availability of abundant natural resources on Indian lands and a rich cultural legacy that accords great value to self-determination, self-reliance, and independence, Native Americans suffer higher rates of unemployment, poverty, poor health, substandard housing, and associated social ills than those of any other group in the United States;
 
@@ -66,7 +66,7 @@ The purposes of this chapter are as follows:
 
 #### Short Title
 
-Pub. L. 106–464, §1, Nov. 7, 2000, 114 Stat. 2012, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Native American Business Development, Trade Promotion, and Tourism Act of 2000’.”
+Pub. L. 106–464, §1, Nov. 7, 2000, 114 Stat. 2012, provided that: "This Act \[enacting this chapter\] may be cited as the 'Native American Business Development, Trade Promotion, and Tourism Act of 2000'."
 
 #### General Accounting Office Study
 
@@ -76,209 +76,209 @@ Pub. L. 106–568, title IV, §421, Dec. 27, 2000, 114 Stat. 2906, directed the 
 
 Pub. L. 106–447, Nov. 6, 2000, 114 Stat. 1934, provided that:
 
-#### “SECTION 1. SHORT TITLE.
+#### "SECTION 1. SHORT TITLE.
 
-“This Act may be cited as the ‘Indian Tribal Regulatory Reform and Business Development Act of 2000’.
+"This Act may be cited as the 'Indian Tribal Regulatory Reform and Business Development Act of 2000'.
 
-#### “SEC. 2. FINDINGS; PURPOSES.
+#### "SEC. 2. FINDINGS; PURPOSES.
 
-“(a)
+"(a)
 
 Findings.—Congress finds that—
 
-&emsp;“(1) despite the availability of abundant natural resources on Indian lands and a rich cultural legacy that accords great value to self-determination, self-reliance, and independence, Native Americans suffer rates of unemployment, poverty, poor health, substandard housing, and associated social ills which are greater than the rates for any other group in the United States;
+&emsp;"(1) despite the availability of abundant natural resources on Indian lands and a rich cultural legacy that accords great value to self-determination, self-reliance, and independence, Native Americans suffer rates of unemployment, poverty, poor health, substandard housing, and associated social ills which are greater than the rates for any other group in the United States;
 
-&emsp;“(2) the capacity of Indian tribes to build strong Indian tribal governments and vigorous economies is hindered by the inability of Indian tribes to engage communities that surround Indian lands and outside investors in economic activities conducted on Indian lands;
+&emsp;"(2) the capacity of Indian tribes to build strong Indian tribal governments and vigorous economies is hindered by the inability of Indian tribes to engage communities that surround Indian lands and outside investors in economic activities conducted on Indian lands;
 
-&emsp;“(3) beginning in 1970, with the issuance by the Nixon Administration of a special message to Congress on Indian Affairs, each President has reaffirmed the special government-to-government relationship between Indian tribes and the United States; and
+&emsp;"(3) beginning in 1970, with the issuance by the Nixon Administration of a special message to Congress on Indian Affairs, each President has reaffirmed the special government-to-government relationship between Indian tribes and the United States; and
 
-&emsp;“(4) the United States has an obligation to assist Indian tribes with the creation of appropriate economic and political conditions with respect to Indian lands to—
+&emsp;"(4) the United States has an obligation to assist Indian tribes with the creation of appropriate economic and political conditions with respect to Indian lands to—
 
-&emsp;&emsp;“(A) encourage investment from outside sources that do not originate with the Indian tribes; and
+&emsp;&emsp;"(A) encourage investment from outside sources that do not originate with the Indian tribes; and
 
-&emsp;&emsp;“(B) facilitate economic development on Indian lands.
+&emsp;&emsp;"(B) facilitate economic development on Indian lands.
 
-“(b)
+"(b)
 
 Purposes.—The purposes of this Act are as follows:
 
-&emsp;“(1) To provide for a comprehensive review of the laws (including regulations) that affect investment and business decisions concerning activities conducted on Indian lands.
+&emsp;"(1) To provide for a comprehensive review of the laws (including regulations) that affect investment and business decisions concerning activities conducted on Indian lands.
 
-&emsp;“(2) To determine the extent to which those laws unnecessarily or inappropriately impair—
+&emsp;"(2) To determine the extent to which those laws unnecessarily or inappropriately impair—
 
-&emsp;&emsp;“(A) investment and business development on Indian lands; or
+&emsp;&emsp;"(A) investment and business development on Indian lands; or
 
-&emsp;&emsp;“(B) the financial stability and management efficiency of Indian tribal governments.
+&emsp;&emsp;"(B) the financial stability and management efficiency of Indian tribal governments.
 
-&emsp;“(3) To establish an authority to conduct the review under paragraph (1) and report findings and recommendations that result from the review to Congress and the President.
+&emsp;"(3) To establish an authority to conduct the review under paragraph (1) and report findings and recommendations that result from the review to Congress and the President.
 
-#### “SEC. 3. DEFINITIONS.
+#### "SEC. 3. DEFINITIONS.
 
-“In this Act:
+"In this Act:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Authority.—The term ‘Authority’ means the Regulatory Reform and Business Development on Indian Lands Authority.
+Authority.—The term 'Authority' means the Regulatory Reform and Business Development on Indian Lands Authority.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Federal agency.—The term ‘Federal agency’ means an agency, as that term is defined in section 551(1) of title 5, United States Code.
+Federal agency.—The term 'Federal agency' means an agency, as that term is defined in section 551(1) of title 5, United States Code.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Indian.—The term ‘Indian’ has the meaning given that term in section 4(d) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(d)).
+Indian.—The term 'Indian' has the meaning given that term in section 4(d) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(d)).
 
-&emsp;“(4)
+&emsp;"(4)
 
 Indian lands.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
-In general.—The term ‘Indian lands’ includes lands under the definition of—
+In general.—The term 'Indian lands' includes lands under the definition of—
 
-&emsp;&emsp;&emsp;“(i) the term ‘Indian country’ under section 1151 of title 18, United States Code; or
+&emsp;&emsp;&emsp;"(i) the term 'Indian country' under section 1151 of title 18, United States Code; or
 
-&emsp;&emsp;&emsp;“(ii) the term ‘reservation’ under—
+&emsp;&emsp;&emsp;"(ii) the term 'reservation' under—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) section 3(d) of the Indian Financing Act of 1974 (25 U.S.C. 1452(d)); or
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(I) section 3(d) of the Indian Financing Act of 1974 (25 U.S.C. 1452(d)); or
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) section 4(10) of the Indian Child Welfare Act of 1978 (25 U.S.C. 1903(10)).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"(II) section 4(10) of the Indian Child Welfare Act of 1978 (25 U.S.C. 1903(10)).
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
-Former indian reservations in oklahoma.—For purposes of applying section 3(d) of the Indian Financing Act of 1974 (25 U.S.C. 1452(d)) under subparagraph (A)(ii), the term ‘former Indian reservations in Oklahoma’ shall be construed to include lands that are—
+Former indian reservations in oklahoma.—For purposes of applying section 3(d) of the Indian Financing Act of 1974 (25 U.S.C. 1452(d)) under subparagraph (A)(ii), the term 'former Indian reservations in Oklahoma' shall be construed to include lands that are—
 
-&emsp;&emsp;&emsp;“(i) within the jurisdictional areas of an Oklahoma Indian tribe (as determined by the Secretary of the Interior); and
+&emsp;&emsp;&emsp;"(i) within the jurisdictional areas of an Oklahoma Indian tribe (as determined by the Secretary of the Interior); and
 
-&emsp;&emsp;&emsp;“(ii) recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Nov. 6, 2000\]).
+&emsp;&emsp;&emsp;"(ii) recognized by the Secretary of the Interior as eligible for trust land status under part 151 of title 25, Code of Federal Regulations (as in effect on the date of enactment of this Act \[Nov. 6, 2000\]).
 
-&emsp;“(5)
+&emsp;"(5)
 
-Indian tribe.—The term ‘Indian tribe’ has the meaning given that term in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)).
+Indian tribe.—The term 'Indian tribe' has the meaning given that term in section 4(e) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(e)).
 
-&emsp;“(6)
+&emsp;"(6)
 
-Secretary.—The term ‘Secretary’ means the Secretary of Commerce.
+Secretary.—The term 'Secretary' means the Secretary of Commerce.
 
-&emsp;“(7)
+&emsp;"(7)
 
-Tribal organization.—The term ‘tribal organization’ has the meaning given that term in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(l)).
+Tribal organization.—The term 'tribal organization' has the meaning given that term in section 4(l) of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b(l)).
 
-#### “SEC. 4. ESTABLISHMENT OF AUTHORITY.
+#### "SEC. 4. ESTABLISHMENT OF AUTHORITY.
 
-“(a)
+"(a)
 
 Establishment.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Not later than 60 days after the date of enactment of this Act \[Nov. 6, 2000\], the Secretary, in consultation with the Secretary of the Interior and other officials whom the Secretary determines to be appropriate, shall establish an authority to be known as the Regulatory Reform and Business Development on Indian Lands Authority.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Purpose.—The Secretary shall establish the Authority under this subsection in order to facilitate the identification and subsequent removal of obstacles to investment, business development, and the creation of wealth with respect to the economies of Native American communities.
 
-“(b)
+"(b)
 
 Membership.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Authority established under this section shall be composed of 21 members.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Representatives of indian tribes.—12 members of the Authority shall be representatives of the Indian tribes from the areas of the Bureau of Indian Affairs. Each such area shall be represented by such a representative.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Representatives of the private sector.—No fewer than 4 members of the Authority shall be representatives of nongovernmental economic activities carried out by private enterprises in the private sector.
 
-“(c)
+"(c)
 
 Initial Meeting.—Not later than 90 days after the date of enactment of this Act \[Nov. 6, 2000\], the Authority shall hold its initial meeting.
 
-“(d)
+"(d)
 
 Review.—Beginning on the date of the initial meeting under subsection (c), the Authority shall conduct a review of laws (including regulations) relating to investment, business, and economic development that affect investment and business decisions concerning activities conducted on Indian lands.
 
-“(e)
+"(e)
 
 Meetings.—The Authority shall meet at the call of the chairperson.
 
-“(f)
+"(f)
 
 Quorum.—A majority of the members of the Authority shall constitute a quorum, but a lesser number of members may hold hearings.
 
-“(g)
+"(g)
 
 Chairperson.—The Authority shall select a chairperson from among its members.
 
-#### “SEC. 5. REPORT.
+#### "SEC. 5. REPORT.
 
-“Not later than 1 year after the date of enactment of this Act \[Nov. 6, 2000\], the Authority shall prepare and submit to the Committee on Indian Affairs of the Senate, the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives, and to the governing body of each Indian tribe a report that includes—
+"Not later than 1 year after the date of enactment of this Act \[Nov. 6, 2000\], the Authority shall prepare and submit to the Committee on Indian Affairs of the Senate, the Committee on Resources \[now Committee on Natural Resources\] of the House of Representatives, and to the governing body of each Indian tribe a report that includes—
 
-&emsp;“(1) the findings of the Authority concerning the review conducted under section 4(d); and
+&emsp;"(1) the findings of the Authority concerning the review conducted under section 4(d); and
 
-&emsp;“(2) such recommendations concerning the proposed revisions to the laws that were subject to review as the Authority determines to be appropriate.
+&emsp;"(2) such recommendations concerning the proposed revisions to the laws that were subject to review as the Authority determines to be appropriate.
 
-#### “SEC. 6. POWERS OF THE AUTHORITY.
+#### "SEC. 6. POWERS OF THE AUTHORITY.
 
-“(a)
+"(a)
 
 Hearings.—The Authority may hold such hearings, sit and act at such times and places, take such testimony, and receive such evidence as the Authority considers advisable to carry out the duties of the Authority.
 
-“(b)
+"(b)
 
 Information From Federal Agencies.—The Authority may secure directly from any Federal department or agency such information as the Authority considers necessary to carry out the duties of the Authority.
 
-“(c)
+"(c)
 
 Postal Services.—The Authority may use the United States mails in the same manner and under the same conditions as other departments and agencies of the Federal Government.
 
-“(d)
+"(d)
 
 Gifts.—The Authority may accept, use, and dispose of gifts or donations of services or property.
 
-#### “SEC. 7. AUTHORITY PERSONNEL MATTERS.
+#### "SEC. 7. AUTHORITY PERSONNEL MATTERS.
 
-“(a)
+"(a)
 
 Compensation of Members.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Non-federal members.—Members of the Authority who are not officers or employees of the Federal Government shall serve without compensation, except for travel expenses as provided under subsection (b).
 
-&emsp;“(2)
+&emsp;"(2)
 
 Officers and employees of the federal government.—Members of the Authority who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
 
-“(b)
+"(b)
 
 Travel Expenses.—The members of the Authority shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Authority.
 
-“(c)
+"(c)
 
 Staff.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The chairperson of the Authority may, without regard to the civil service laws, appoint and terminate such personnel as may be necessary to enable the Authority to perform its duties.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Procurement of temporary and intermittent services.—The chairperson of the Authority may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed under GS–13 of the General Schedule established under section 5332 of title 5, United States Code.
 
-#### “SEC. 8. TERMINATION OF THE AUTHORITY.
+#### "SEC. 8. TERMINATION OF THE AUTHORITY.
 
-“The Authority shall terminate 90 days after the date on which the Authority has submitted a copy of the report prepared under section 5 to the committees of Congress specified in section 5 and to the governing body of each Indian tribe.
+"The Authority shall terminate 90 days after the date on which the Authority has submitted a copy of the report prepared under section 5 to the committees of Congress specified in section 5 and to the governing body of each Indian tribe.
 
-#### “SEC. 9. EXEMPTION FROM FEDERAL ADVISORY COMMITTEE ACT.
+#### "SEC. 9. EXEMPTION FROM FEDERAL ADVISORY COMMITTEE ACT.
 
-“The activities of the Authority conducted under this Act shall be exempt from the Federal Advisory Committee Act (5 U.S.C. App.).
+"The activities of the Authority conducted under this Act shall be exempt from the Federal Advisory Committee Act (5 U.S.C. App.).
 
-#### “SEC. 10. AUTHORIZATION OF APPROPRIATIONS.
+#### "SEC. 10. AUTHORIZATION OF APPROPRIATIONS.
 
-“There are authorized to be appropriated such sums as are necessary to carry out this Act, to remain available until expended.”
+"There are authorized to be appropriated such sums as are necessary to carry out this Act, to remain available until expended."
 

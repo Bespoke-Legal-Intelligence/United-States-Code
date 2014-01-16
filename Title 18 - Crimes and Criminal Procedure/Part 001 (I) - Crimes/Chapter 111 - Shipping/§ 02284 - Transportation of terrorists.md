@@ -6,7 +6,7 @@ In General.—Whoever knowingly and intentionally transports any terrorist aboar
 
 (b)
 
-Defined Term.—In this section, the term “terrorist” means any person who intends to commit, or is avoiding apprehension after having committed, an offense listed under section 2332b(g)(5)(B).
+Defined Term.—In this section, the term "terrorist" means any person who intends to commit, or is avoiding apprehension after having committed, an offense listed under section 2332b(g)(5)(B).
 
 (Added Pub. L. 109–177, title III, §305(a), Mar. 9, 2006, 120 Stat. 237.)
 

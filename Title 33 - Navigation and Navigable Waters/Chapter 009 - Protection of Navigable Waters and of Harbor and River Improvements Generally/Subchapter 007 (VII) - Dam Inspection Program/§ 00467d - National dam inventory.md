@@ -12,5 +12,5 @@ A prior section 6 of Pub. L. 92–367 was classified to section 467e of this tit
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–460 amended section generally. Prior to amendment, section read as follows: “The Secretary of the Army, acting through the Chief of Engineers, may maintain and periodically publish updated information on the inventory of dams in the United States.”
+<b>2006</b>—Pub. L. 109–460 amended section generally. Prior to amendment, section read as follows: "The Secretary of the Army, acting through the Chief of Engineers, may maintain and periodically publish updated information on the inventory of dams in the United States."
 

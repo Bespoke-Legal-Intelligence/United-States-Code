@@ -10,5 +10,5 @@ This Act, referred to in text, is act May 27, 1937, ch. 269, as amended generall
 
 #### Amendments
 
-<b>1962</b>—Pub. L. 87–728 substituted “for the repayment thereof” for “under section 835a of this title”.
+<b>1962</b>—Pub. L. 87–728 substituted "for the repayment thereof" for "under section 835a of this title".
 

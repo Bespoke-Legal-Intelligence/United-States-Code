@@ -28,15 +28,15 @@
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a)(1). Pub. L. 102–138, §141, inserted “as an ambassador,” after “ambassador at large,”.
+<b>1991</b>—Subsec. (a)(1). Pub. L. 102–138, §141, inserted "as an ambassador," after "ambassador at large,".
 
-Subsec. (b). Pub. L. 102–138, §142(a), substituted “may elect to continue to receive the salary of his or her salary class, to remain eligible for performance pay under subchapter IV of this chapter, and to receive the leave to which such member is entitled under subchapter I of chapter 63, title 5, as a member of the Senior Foreign Service, in lieu of receiving the salary and leave (if any) of the position to which the member is appointed by the President” for “shall receive the salary and leave (if any) of the position to which the member is appointed by the President and shall not be eligible for performance pay under subchapter IV of this chapter”.
+Subsec. (b). Pub. L. 102–138, §142(a), substituted "may elect to continue to receive the salary of his or her salary class, to remain eligible for performance pay under subchapter IV of this chapter, and to receive the leave to which such member is entitled under subchapter I of chapter 63, title 5, as a member of the Senior Foreign Service, in lieu of receiving the salary and leave (if any) of the position to which the member is appointed by the President" for "shall receive the salary and leave (if any) of the position to which the member is appointed by the President and shall not be eligible for performance pay under subchapter IV of this chapter".
 
-<b>1987</b>—Subsec. (b). Pub. L. 100–204 substituted “shall receive the salary and leave (if any) of the position to which the member is appointed by the President and shall not be eligible for performance pay under subchapter IV of this chapter.” for “may elect to continue to receive the salary of his or her salary class, to remain eligible for performance pay under subchapter IV of this chapter, and to receive the leave to which such member is entitled under subchapter I of chapter 63 of title 5 as a member of the Senior Foreign Service, in lieu of receiving the salary and leave (if any) of the position to which the member is appointed by the President.”
+<b>1987</b>—Subsec. (b). Pub. L. 100–204 substituted "shall receive the salary and leave (if any) of the position to which the member is appointed by the President and shall not be eligible for performance pay under subchapter IV of this chapter." for "may elect to continue to receive the salary of his or her salary class, to remain eligible for performance pay under subchapter IV of this chapter, and to receive the leave to which such member is entitled under subchapter I of chapter 63 of title 5 as a member of the Senior Foreign Service, in lieu of receiving the salary and leave (if any) of the position to which the member is appointed by the President."
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–204, title I, §177(c), Dec. 22, 1987, 101 Stat. 1362, provided that: “The amendments made by subsections (a) and (b) \[amending this section and section 3961 of this title\] shall not apply to the salary of any individual serving under a Presidential appointment under section 302 of the Foreign Service Act of 1980 \[this section\] immediately before the date of the enactment of this Act \[Dec. 22, 1987\] during the period such individual continues to serve in such position.”
+Pub. L. 100–204, title I, §177(c), Dec. 22, 1987, 101 Stat. 1362, provided that: "The amendments made by subsections (a) and (b) \[amending this section and section 3961 of this title\] shall not apply to the salary of any individual serving under a Presidential appointment under section 302 of the Foreign Service Act of 1980 \[this section\] immediately before the date of the enactment of this Act \[Dec. 22, 1987\] during the period such individual continues to serve in such position."
 
 #### Delegation of Functions
 
@@ -50,7 +50,7 @@ Ex. Ord. No. 10062, June 6, 1949, 14 F.R. 2695, as amended by act Aug. 10, 1949,
 
 Ex. Ord. No. 10608, May 5, 1955, 20 F.R. 3093, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
 
-By virtue of the authority vested in me by the Constitution and the statutes, including the Foreign Service Act of 1980 (94 Stat. 2071), as amended \[this chapter\], and as President of the United States and Commander in Chief of the armed forces of the United States, it is ordered as follows:
+By virtue of the authority vested in me by the Constitution and the statutes, including the Foreign Service Act of 1980 (94 Stat. 2071), as amended \[this chapter\],and as President of the United States and Commander in Chief of the armed forces of the United States, it is ordered as follows:
 
 1\. Executive Order No. 10062 of June 6, 1949, and Executive Order No. 10144 of July 21, 1950, amending that order, are hereby revoked, and the position of United States High Commissioner for Germany, established by that order, is hereby abolished.
 

@@ -16,11 +16,11 @@ All records referred to in subsection (b) shall be treated, for purposes of subs
 
 The Secretary of Energy shall submit the supplement required under subsection (a) to the recipients of the plan referred to in subsection (d) of section 2672 of this title.
 
-(Pub. L. 107–314, div. D, title XLV, §4523, formerly Pub. L. 106–65, div. C, title XXXI, §3149, Oct. 5, 1999, 113 Stat. 938; renumbered Pub. L. 107–314, div. D, title XLV, §4523, and amendedPub. L. 108–136, div. C, title XXXI, §3141(h)(13), Nov. 24, 2003, 117 Stat. 1775.)
+(Pub. L. 107–314, div. D, title XLV, §4523, formerly Pub. L. 106–65, div. C, title XXXI, §3149, Oct. 5, 1999, 113 Stat. 938; renumbered Pub. L. 107–314, div. D, title XLV, §4523, and amended Pub. L. 108–136, div. C, title XXXI, §3141(h)(13), Nov. 24, 2003, 117 Stat. 1775.)
 
 #### References in Text
 
-Executive Order No. 12958, referred to in subsec. (b), which was formerly set out as a note under section 435 of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
+Executive Order No. 12958, referred to in subsec. (b), which was formerly set out as a note under section 435 (now section 3161) of this title, was revoked by Ex. Ord. No. 13526, §6.2(g), Dec. 29, 2009, 75 F.R. 731.
 
 #### Codification
 
@@ -28,11 +28,11 @@ Section was formerly set out as a note under section 435 of this title prior to 
 
 #### Amendments
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–136, §3141(h)(13)(D)(i), substituted “subsection (a) of section 2672 of this title” for “subsection (a) of section 3161 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 2260; 50 U.S.C. 435 note)”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136, §3141(h)(13)(D)(i), substituted "subsection (a) of section 2672 of this title" for "subsection (a) of section 3161 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 112 Stat. 2260; 50 U.S.C. 435 note)".
 
-Subsec. (b). Pub. L. 108–136, §3141(h)(13)(D)(ii), substituted “subsection (b)(1) of section 2672 of this title” for “section 3161(b)(1) of that Act” and “October 17, 1998,” for “the date of the enactment of that Act”.
+Subsec. (b). Pub. L. 108–136, §3141(h)(13)(D)(ii), substituted "subsection (b)(1) of section 2672 of this title" for "section 3161(b)(1) of that Act" and "October 17, 1998," for "the date of the enactment of that Act".
 
-Subsec. (c). Pub. L. 108–136, §3141(h)(13)(D)(iii), substituted “subsection (c) of section 2672 of this title” for “section 3161(c) of that Act” and “subsection (a) of such section” for “section 3161(a) of that Act”.
+Subsec. (c). Pub. L. 108–136, §3141(h)(13)(D)(iii), substituted "subsection (c) of section 2672 of this title" for "section 3161(c) of that Act" and "subsection (a) of such section" for "section 3161(a) of that Act".
 
-Subsec. (d). Pub. L. 108–136, §3141(h)(13)(D)(iv), substituted “subsection (d) of section 2672 of this title” for “section 3161(d) of that Act”.
+Subsec. (d). Pub. L. 108–136, §3141(h)(13)(D)(iv), substituted "subsection (d) of section 2672 of this title" for "section 3161(d) of that Act".
 

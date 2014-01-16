@@ -10,7 +10,7 @@ On January 1, 1987, and at the beginning of each subsequent calendar year.<sup>1
 
 #### Amendments
 
-<b>1985</b>—Pub. L. 99–198 substituted “On January 1, 1987, and at the beginning of each subsequent calendar year.” for “Within one year after December 22, 1981,”.
+<b>1985</b>—Pub. L. 99–198 substituted "On January 1, 1987, and at the beginning of each subsequent calendar year." for "Within one year after December 22, 1981,".
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

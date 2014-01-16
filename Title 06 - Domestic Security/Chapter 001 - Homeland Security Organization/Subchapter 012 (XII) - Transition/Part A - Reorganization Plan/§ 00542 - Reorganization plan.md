@@ -222,7 +222,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;&emsp;&emsp;• Disseminate, as appropriate, information analyzed by the Department within the Department, to other agencies of the Federal Government with responsibilities relating to homeland security, and to agencies of State and local governments and private sector entities with such responsibilities in order to assist in the deterrence, prevention, preemption of, or response to, terrorist attacks against the United States.
 
-&emsp;&emsp;&emsp;• Consult with the Director of Central Intelligence and other appropriate intelligence, law enforcement, or other elements of the Federal Government to establish collection priorities and strategies for information, including law enforcement-related information, relating to threats of terrorism against the United States through suchmeans as the representation of the Department in discussions regarding requirements and priorities in the collection of such information.
+&emsp;&emsp;&emsp;• Consult with the Director of Central Intelligence and other appropriate intelligence, law enforcement, or other elements of the Federal Government to establish collection priorities and strategies for information, including law enforcement-related information, relating to threats of terrorism against the United States through such means as the representation of the Department in discussions regarding requirements and priorities in the collection of such information.
 
 &emsp;&emsp;&emsp;• Consult with State and local governments and private sector entities to ensure appropriate exchanges of information, including law enforcement-related information, relating to threats of terrorism against the United States.
 
@@ -230,7 +230,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1. Any material received pursuant to the Act is protected from unauthorized disclosure and handled and used only for the performance of official duties; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Any intelligence information under the Act is shared, retained, and disseminated consistent with the authority of the Director of Central Intelligence to protect intelligence sources and methods under the National Security Act of 1947 (50 U.S.C. Section 401, et seq.) and related procedures and, as appropriate, similar authorities of the Attorney General concerning sensitive law enforcement information.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Any intelligence information under the Act is shared, retained, and disseminated consistent with the authority of the Director of Central Intelligence to protect intelligence sources and methods under the National Security Act of 1947 (50 U.S.C. Section 401, et seq.) \[now 50 U.S.C. 3001 et seq.\] and related procedures and, as appropriate, similar authorities of the Attorney General concerning sensitive law enforcement information.
 
 &emsp;&emsp;&emsp;• Request additional information from other agencies of the Federal Government, State and local government agencies, and the private sector relating to threats of terrorism in the United States, or relating to other areas of responsibility assigned by the Secretary, including the entry into cooperative agreements through the Secretary to obtain such information.
 
@@ -242,7 +242,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2. Treat information in such databases in a manner that complies with applicable Federal law on privacy.
 
-&emsp;&emsp;&emsp;• Coordinate training and other support to the elements and personnel of the Department, other agencies of the Federal Government, and State and local governments that provide information to the Department, or are consumers of information provided by the Department, in order to facilitate the identification and sharing of information revealed in their ordinary duties and the optimal utilization of information received from the Department.
+&emsp;&emsp;&emsp;• Coordinate training and other support to the elements and personnel of the Department, otheragencies of the Federal Government, and State and local governments that provide information to the Department, or are consumers of information provided by the Department, in order to facilitate the identification and sharing of information revealed in their ordinary duties and the optimal utilization of information received from the Department.
 
 &emsp;&emsp;&emsp;• Coordinate with elements of the intelligence community and with Federal, State, and local law enforcement agencies, and the private sector, as appropriate.
 
@@ -350,7 +350,7 @@ B. <i>Delegation or Assignment Among Officers of Functions Transferred to the De
 
 &emsp;&emsp;&emsp;• Assist and support the Secretary, in coordination with other Directorates and entities outside the Department, in conducting appropriate risk analysis and risk management activities of State, local, and tribal governments consistent with the mission and functions of the Directorate.
 
-&emsp;&emsp;&emsp;• Supervise those elements of the Office of National Preparedness of FEMA that relate to terrorism, which shall be consolidated within theDepartment in the ODP established pursuant to Section 430 of the Act \[6 U.S.C. 238\].
+&emsp;&emsp;&emsp;• Supervise those elements of the Office of National Preparedness of FEMA that relate to terrorism, which shall be consolidated within the Department in the ODP established pursuant to Section 430 of the Act \[6 U.S.C. 238\].
 
 &emsp;<b>4. Emergency Preparedness and Response</b>
 

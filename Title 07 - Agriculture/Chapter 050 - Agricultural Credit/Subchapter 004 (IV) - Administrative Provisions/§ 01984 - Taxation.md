@@ -14,5 +14,5 @@ All property subject to a lien held by the United States or the title to which i
 
 #### References in Text
 
-For definition of “this chapter”, referred to in text, see note set out under section 1921 of this title.
+For definition of "this chapter", referred to in text, see note set out under section 1921 of this title.
 

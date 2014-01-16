@@ -4,7 +4,7 @@
 
 #### (1) General
 
-&emsp;There is hereby imposed on all distilled spirits produced in or imported into the UnitedStates a tax at the rate of $13.50 on each proof gallon and a proportionate tax at the like rate on all fractional parts of a proof gallon.
+&emsp;There is hereby imposed on all distilled spirits produced in or imported into the United States a tax at the rate of $13.50 on each proof gallon and a proportionate tax at the like rate on all fractional parts of a proof gallon.
 
 #### (2) Products containing distilled spirits
 
@@ -32,7 +32,7 @@
 
 #### (8) Imported distilled spirits withdrawn for beverage purposes
 
-&emsp;There is hereby imposed on all imported distilled spirits withdrawn from customs custody under section 5232 without payment of the internal revenue tax, and thereafter withdrawn from bonded premises for beverage purposes, an additional tax equal to the duty which would have been paid had such spirits been imported for beverage purposes, less the duty previously paid thereon.
+&emsp;There is hereby imposed on all imported distilled spirits withdrawn from customs custody under section 5232 without payment of the internal revenue tax, and thereafter withdrawnfrom bonded premises for beverage purposes, an additional tax equal to the duty which would have been paid had such spirits been imported for beverage purposes, less the duty previously paid thereon.
 
 #### (9) Alcoholic compounds from Puerto Rico
 
@@ -54,67 +54,67 @@ A prior section 5001, acts Aug. 16, 1954, ch. 736, 68A Stat. 595; Mar. 30, 1955,
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(3) to (10). Pub. L. 103–465 redesignated pars. (4) to (10) as (3) to (9), respectively, and struck out former par. (3), “Imported perfumes containing distilled spirits”, which read as follows: “There is hereby imposed on all perfumes imported into the United States containing distilled spirits a tax of $13.50 per wine gallon, and a proportionate tax at a like rate on all fractional parts of such wine gallon.”
+<b>1994</b>—Subsec. (a)(3) to (10). Pub. L. 103–465 redesignated pars. (4) to (10) as (3) to (9), respectively, and struck out former par. (3), "Imported perfumes containing distilled spirits", which read as follows: "There is hereby imposed on all perfumes imported into the United States containing distilled spirits a tax of $13.50 per wine gallon, and a proportionate tax at a like rate on all fractional parts of such wine gallon."
 
-<b>1990</b>—Subsec. (a)(1), (3). Pub. L. 101–508 substituted “$13.50” for “$12.50”.
+<b>1990</b>—Subsec. (a)(1), (3). Pub. L. 101–508 substituted "$13.50" for "$12.50".
 
-<b>1984</b>—Subsec. (a)(1), (3). Pub. L. 98–369 substituted “$12.50” for “$10.50”.
+<b>1984</b>—Subsec. (a)(1), (3). Pub. L. 98–369 substituted "$12.50" for "$10.50".
 
-<b>1979</b>—Subsec. (a)(1). Pub. L. 96–39, §802, struck out “in bond or” after “distilled spirits” and “or wine gallon when below proof” after “each proof gallon” and substituted “a tax” for “an internal revenue tax” and “proof gallon” for “such proof or wine gallon”.
+<b>1979</b>—Subsec. (a)(1). Pub. L. 96–39, §802, struck out "in bond or" after "distilled spirits" and "or wine gallon when below proof" after "each proof gallon" and substituted "a tax" for "an internal revenue tax" and "proof gallon" for "such proof or wine gallon".
 
-Subsec. (a)(2). Pub. L. 96–39, §805(d), inserted “, and any alcoholic ingredient added to such products” after “has not been paid”.
+Subsec. (a)(2). Pub. L. 96–39, §805(d), inserted ", and any alcoholic ingredient added to such products" after "has not been paid".
 
 <b>1965</b>—Subsec. (a)(1). Pub. L. 89–44 struck out last sentence which provided that the rate of tax imposed by par. (1) would be $9 on and after July 1, 1965.
 
 Subsec. (a)(3). Pub. L. 89–44 struck out last sentence which provided that the rate of tax imposed by par. (3) would be $9 on and after July 1, 1965.
 
-<b>1964</b>—Subsec. (a)(1). Pub. L. 88–348 substituted “July 1, 1965” for “July 1, 1964”.
+<b>1964</b>—Subsec. (a)(1). Pub. L. 88–348 substituted "July 1, 1965" for "July 1, 1964".
 
-Subsec. (a)(3). Pub. L. 88–348 substituted “July 1, 1965” for “July 1, 1964”.
+Subsec. (a)(3). Pub. L. 88–348 substituted "July 1, 1965" for "July 1, 1964".
 
-<b>1963</b>—Subsec. (a)(1). Pub. L. 88–52, §3(a)(4), substituted “July 1, 1964” for “July 1, 1963”.
+<b>1963</b>—Subsec. (a)(1). Pub. L. 88–52, §3(a)(4), substituted "July 1, 1964" for "July 1, 1963".
 
-Subsec. (a)(3). Pub. L. 88–52, §3(a)(5), substituted “July 1, 1964” for “July 1, 1963”.
+Subsec. (a)(3). Pub. L. 88–52, §3(a)(5), substituted "July 1, 1964" for "July 1, 1963".
 
-<b>1962</b>—Subsec. (a)(1). Pub. L. 87–508, §3(a)(3), substituted “July 1, 1963” for “July 1, 1962”.
+<b>1962</b>—Subsec. (a)(1). Pub. L. 87–508, §3(a)(3), substituted "July 1, 1963" for "July 1, 1962".
 
-Subsec. (a)(3). Pub. L. 87–508, §3(a)(4), substituted “July 1, 1963” for “July 1, 1962”.
+Subsec. (a)(3). Pub. L. 87–508, §3(a)(4), substituted "July 1, 1963" for "July 1, 1962".
 
-<b>1961</b>—Subsec. (a)(1). Pub. L. 87–72, §3(a)(4), substituted “July 1, 1962” for “July 1, 1961”.
+<b>1961</b>—Subsec. (a)(1). Pub. L. 87–72, §3(a)(4), substituted "July 1, 1962" for "July 1, 1961".
 
-Subsec. (a)(3). Pub. L. 87–72, §3(a)(5), substituted “July 1, 1962” for “July 1, 1961”.
+Subsec. (a)(3). Pub. L. 87–72, §3(a)(5), substituted "July 1, 1962" for "July 1, 1961".
 
-<b>1960</b>—Subsec. (a)(1). Pub. L. 86–564, §202(a)(4), substituted “July 1, 1961” for “July 1, 1960”.
+<b>1960</b>—Subsec. (a)(1). Pub. L. 86–564, §202(a)(4), substituted "July 1, 1961" for "July 1, 1960".
 
-Subsec. (a)(3). Pub. L. 86–564, §202(a)(5), substituted “July 1, 1961” for “July 1, 1960”.
+Subsec. (a)(3). Pub. L. 86–564, §202(a)(5), substituted "July 1, 1961" for "July 1, 1960".
 
-<b>1959</b>—Subsec. (a)(1). Pub. L. 86–75, §3(a)(2), substituted “July 1, 1960” for “July 1, 1959”.
+<b>1959</b>—Subsec. (a)(1). Pub. L. 86–75, §3(a)(2), substituted "July 1, 1960" for "July 1, 1959".
 
-Subsec. (a)(3). Pub. L. 86–75, §3(a)(3), substituted “July 1, 1960” for “July 1, 1959”.
+Subsec. (a)(3). Pub. L. 86–75, §3(a)(3), substituted "July 1, 1960" for "July 1, 1959".
 
 #### Effective Date of 1994 Amendment
 
-Pub. L. 103–465, title I, §136(d), Dec. 8, 1994, 108 Stat. 4842, provided that: “The amendments made by this section \[amending this section and sections 5002, 5005, 5007, 5061, 5131, 5132, 5134, and 7652 of this title\] shall take effect on January 1, 1995.”
+Pub. L. 103–465, title I, §136(d), Dec. 8, 1994, 108 Stat. 4842, provided that: "The amendments made by this section \[amending this section and sections 5002, 5005, 5007, 5061, 5131, 5132, 5134, and 7652 of this title\] shall take effect on January 1, 1995."
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title XI, §11201(d), Nov. 5, 1990, 104 Stat. 1388–417, provided that: “The amendments made by this section \[amending this section and sections 5010, 5041, 5051, and 5061 of this title\] shall take effect on January 1, 1991.”
+Pub. L. 101–508, title XI, §11201(d), Nov. 5, 1990, 104 Stat. 1388–417, provided that: "The amendments made by this section \[amending this section and sections 5010, 5041, 5051, and 5061 of this title\] shall take effect on January 1, 1991."
 
 #### Effective Date of 1984 Amendment
 
 Pub. L. 98–369, div. A, title I, §27(d), July 18, 1984, 98 Stat. 509, provided that:
 
-“(1)
+"(1)
 
 In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and section 5010 of this title and enacting provisions set out as a note under this section\] shall take effect on October 1, 1985.
 
-“(2)
+"(2)
 
-Electronic transfer provisions.—The amendments made by subsection (c) \[amending sections 5061 and 5703 of this title\] shall apply to taxes required to be paid on or after September 30, 1984.”
+Electronic transfer provisions.—The amendments made by subsection (c) \[amending sections 5061 and 5703 of this title\] shall apply to taxes required to be paid on or after September 30, 1984."
 
 #### Effective Date of 1979 Amendment
 
-Pub. L. 96–39, title VIII, §810, July 26, 1979, 93 Stat. 292, provided that: “The amendments made by this title \[amending this section and sections 5002 to 5008, 5043, 5061, 5064, 5066, 5116, 5171 to 5173, 5175 to 5178, 5180, 5181, 5201 to 5205, 5207, 5211 to 5215, 5221 to 5223, 5231, 5232, 5235, 5241, 5273, 5291, 5301, 5352, 5361 to 5363, 5365, 5381, 5391, 5551, 5601, 5604, 5610, 5612, 5615, 5663, 5681, 5682, and 5691 of this title, repealing sections 5009, 5021 to 5026, 5081 to 5084, 5174, 5233, 5234, 5251, 5252, 5364, and 5521 to 5523 of this title, and enacting provisions set out as notes under sections 1, 5061, 5171, and 5173 of this title\] shall take effect on January 1, 1980.”
+Pub. L. 96–39, title VIII, §810, July 26, 1979, 93 Stat. 292, provided that: "The amendments made by this title \[amending this section and sections 5002 to 5008, 5043, 5061, 5064, 5066, 5116, 5171 to 5173, 5175 to 5178, 5180, 5181, 5201 to 5205, 5207, 5211 to 5215, 5221 to 5223, 5231, 5232, 5235, 5241, 5273, 5291, 5301, 5352, 5361 to 5363, 5365, 5381, 5391, 5551, 5601, 5604, 5610, 5612, 5615, 5663, 5681, 5682, and 5691 of this title, repealing sections 5009, 5021 to 5026, 5081 to 5084, 5174, 5233, 5234, 5251, 5252, 5364, and 5521 to 5523 of this title, and enacting provisions set out as notes under sections 1, 5061, 5171, and 5173 of this title\] shall take effect on January 1, 1980."
 
 #### Effective Date of 1965 Amendment
 
@@ -122,19 +122,19 @@ Amendment by Pub. L. 89–44 applicable on and after July 1, 1965, see section 7
 
 #### Effective Date
 
-Pub. L. 85–859, title II, §210(a)(1), Sept. 2, 1958, 72 Stat. 1435, provided that: “The amendments made by sections 201 and 205 \[amending this chapter and repealing acts Mar. 3, 1877, 114, 19 Stat. 393, and Oct. 18, 1888, ch. 1194, 25 Stat. 560\] shall take effect on July 1, 1959, except that any provision having the effect of a provision contained in such amendments may be made effective at an earlier date by the promulgation of regulations by the Secretary or his delegate to effectuate such provision, in which case the effective date shall be that prescribed in such regulations. The amendments made by paragraphs (17) and (18) of section 204 \[amending section 7652 of this title\] shall take effect on July 1, 1959. Except as provided in section 206(f), all other provisions of this title \[enacting sections 5849, 5854, 5855, and 7608 of this title, amending chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, and 7655 of this title, and repealing former section 5854 of this title\] shall take effect on the day following the date of the enactment of this Act \[Sept. 2, 1958\].”
+Pub. L. 85–859, title II, §210(a)(1), Sept. 2, 1958, 72 Stat. 1435, provided that: "The amendments made by sections201 and 205 \[amending this chapter and repealing acts Mar. 3, 1877, 114, 19 Stat. 393, and Oct. 18, 1888, ch. 1194, 25 Stat. 560\] shall take effect on July 1, 1959, except that any provision having the effect of a provision contained in such amendments may be made effective at an earlier date by the promulgation of regulations by the Secretary or his delegate to effectuate such provision, in which case the effective date shall be that prescribed in such regulations. The amendments made by paragraphs (17) and (18) of section 204 \[amending section 7652 of this title\] shall take effect on July 1, 1959. Except as provided in section 206(f), all other provisions of this title \[enacting sections 5849, 5854, 5855, and 7608 of this title, amending chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, and 7655 of this title, and repealing former section 5854 of this title\] shall take effect on the day following the date of the enactment of this Act \[Sept. 2, 1958\]."
 
 #### Short Title
 
-Pub. L. 85–859, §1(a), Sept. 2, 1958, 72 Stat. 1275, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Excise Tax Technical Changes Act of 1958’.”
+Pub. L. 85–859, §1(a), Sept. 2, 1958, 72 Stat. 1275, provided that: "This Act \[see Tables for classification\] may be cited as the 'Excise Tax Technical Changes Act of 1958'."
 
 #### Savings Provision
 
-Pub. L. 85–859, title II, §210(b), Sept. 2, 1958, 72 Stat. 1435, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendment of any provision of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] by this title \[enacting sections 5849, 5854, 5855, and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, 7652, and 7655 of this title, and enacting provisions set out as notes under this section and sections 5006, 5025, 5064, 5175, 5304, and 5601 of this title\] shall not affect any act done or any right accruing or accrued, or any suit or proceeding had or commenced in any civil cause before such amendment; but all rights and liabilities under such code prior to such amendment shall continue, and may be enforced in the same manner, as if such amendment had not been made.”
+Pub. L. 85–859, title II, §210(b), Sept. 2, 1958, 72 Stat. 1435, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: "The amendment of any provision of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] by this title \[enacting sections 5849, 5854, 5855, and 7608 of this title, amending this chapter, chapter 52 of this title and sections 5801, 5811, 5814, 5821, 5843, 5848, 5851, 6071, 6207, 6422, 7214, 7272, 7301, 7324 to 7326, 7609, 7652, and 7655 of this title, and enacting provisions set out as notes under this section and sections 5006, 5025, 5064, 5175, 5304, and 5601 of this title\] shall not affect any act done or any right accruing or accrued, or any suit or proceeding had or commenced in any civil cause before such amendment; but all rights and liabilities under such code prior to such amendment shall continue, and may be enforced in the same manner, as if such amendment had not been made."
 
 #### References to Other Provisions of Law
 
-Pub. L. 85–859, title II, §210(d), Sept. 2, 1958, 72 Stat. 1435, provided that: “For the purpose of applying any provision of this title \[see Savings Provision note above\] to any occurrence on or after the effective date of such provision, any reference in this title to another provision thereof shall also be deemed to be a reference to the corresponding provision of prior law, when consistent with the purpose of the provision to be applied.”
+Pub. L. 85–859, title II, §210(d), Sept. 2, 1958, 72 Stat. 1435, provided that: "For the purpose of applying any provision of this title \[see Savings Provision note above\] to any occurrence on or after the effective date of such provision, any reference in this title to another provision thereof shall also be deemed to be a reference to the corresponding provision of prior law, when consistent with the purpose of the provision to be applied."
 
 #### Repeal of Acts Mar. 3, 1877 and Oct. 18, 1888
 
@@ -144,261 +144,261 @@ Pub. L. 85–859, title II, §205, Sept. 2, 1958, 72 Stat. 1430, repealed acts M
 
 Pub. L. 101–508, title XI, §11201(e), Nov. 5, 1990, 104 Stat. 1388–417, provided that:
 
-“(1)
+"(1)
 
 Imposition of tax.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—In the case of any tax-increased article—
 
-&emsp;&emsp;“(i) on which tax was determined under part I of subchapter A of chapter 51 of the Internal Revenue Code of 1986 or section 7652 of such Code before January 1, 1991, and
+&emsp;&emsp;"(i) on which tax was determined under part I of subchapter A of chapter 51 of the Internal Revenue Code of 1986 or section 7652 of such Code before January 1, 1991, and
 
-&emsp;&emsp;“(ii) which is held on such date for sale by any person,
+&emsp;&emsp;"(ii) which is held on such date for sale by any person,
 
 > &emsp;there shall be imposed a tax at the applicable rate on each such article.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Applicable rate.—For purposes of subparagraph (A), the applicable rate is—
 
-&emsp;&emsp;“(i) $1 per proof gallon in the case of distilled spirits,
+&emsp;&emsp;"(i) $1 per proof gallon in the case of distilled spirits,
 
-&emsp;&emsp;“(ii) $0.90 per wine gallon in the case of wine described in paragraph (1), (2), (3), or (5) of section 5041(b) of such Code, and
+&emsp;&emsp;"(ii) $0.90 per wine gallon in the case of wine described in paragraph (1), (2), (3), or (5) of section 5041(b) of such Code, and
 
-&emsp;&emsp;“(iii) $9 per barrel in the case of beer.
+&emsp;&emsp;"(iii) $9 per barrel in the case of beer.
 
 > &emsp;In the case of a fraction of a gallon or barrel, the tax imposed by subparagraph (A) shall be the same fraction as the amount of such tax imposed on a whole gallon or barrel.
 
-&emsp;“(C)
+&emsp;"(C)
 
-Tax-increased article.—For purposes of this subsection, the term ‘tax-increased article’ means distilled spirits, wine described in paragraph (1), (2), (3), or (5) of section 5041(b) of such Code, and beer.
+Tax-increased article.—For purposes of this subsection, the term 'tax-increased article' means distilled spirits, wine described in paragraph (1), (2), (3), or (5) of section 5041(b) of such Code, and beer.
 
-“(2)
+"(2)
 
 Exception for small domestic producers.—
 
-&emsp;“(A) In the case of wine held by the producer thereof on January 1, 1991, if a credit would have been allowable under section 5041(c) of such Code (as added by this section) on such wine had the amendments made by subsection (b) \[amending sections 5041 and 5061 of this title\] applied to all wine removed during 1990 and had the wine so held been removed for consumption on December 31, 1990, the tax imposed by paragraph (1) on such wine shall be reduced by the credit which would have been so allowable.
+&emsp;"(A) In the case of wine held by the producer thereof on January 1, 1991, if a credit would have been allowable under section 5041(c) of such Code (as added by this section) on such wine had the amendments made by subsection (b) \[amending sections 5041 and 5061 of this title\] applied to all wine removed during 1990 and had the wine so held been removed for consumption on December 31, 1990, the tax imposed by paragraph (1) on such wine shall be reduced by the credit which would have been so allowable.
 
-&emsp;“(B) In the case of beer held by the producer thereof on January 1, 1991, if the rate of the tax imposed by section 5051 of such Code would have been determined under subsection (a)(2) thereof had the beer so held been removed for consumption on December 31, 1990, the tax imposed by paragraph (1) on such beer shall not apply.
+&emsp;"(B) In the case of beer held by the producer thereof on January 1, 1991, if the rate of the tax imposed by section 5051 of such Code would have been determined under subsection (a)(2) thereof had the beer so held been removed for consumption on December 31, 1990, the tax imposed by paragraph (1) on such beer shall not apply.
 
-&emsp;“(C) For purposes of this paragraph, an article shall not be treated as held by the producer if title thereto had at any time been transferred to any other person.
+&emsp;"(C) For purposes of this paragraph, an article shall not be treated as held by the producer if title thereto had at any time been transferred to any other person.
 
-“(3)
+"(3)
 
 Exception for certain small wholesale or retail dealers.—No tax shall be imposed by paragraph (1) on tax- increased articles held on January 1, 1991, by any dealer if—
 
-&emsp;“(A) the aggregate liquid volume of tax-increased articles held by such dealer on such date does not exceed 500 wine gallons, and
+&emsp;"(A) the aggregate liquid volume of tax-increased articles held by such dealer on such date does not exceed 500 wine gallons, and
 
-&emsp;“(B) such dealer submits to the Secretary (at the time and in the manner required by the Secretary) such information as the Secretary shall require for purposes of this paragraph.
+&emsp;"(B) such dealer submits to the Secretary (at the time and in the manner required by the Secretary) such information as the Secretary shall require for purposes of this paragraph.
 
-“(4)
+"(4)
 
 Credit against tax.—Each dealer shall be allowed as a credit against the taxes imposed by paragraph (1) an amount equal to—
 
-&emsp;“(A) $240 to the extent such taxes are attributable to distilled spirits,
+&emsp;"(A) $240 to the extent such taxes are attributable to distilled spirits,
 
-&emsp;“(B) $270 to the extent such taxes are attributable to wine, and
+&emsp;"(B) $270 to the extent such taxes are attributable to wine, and
 
-&emsp;“(C) $87 to the extent such taxes are attributable to beer.
+&emsp;"(C) $87 to the extent such taxes are attributable to beer.
 
 > Such credit shall not exceed the amount of taxes imposed by paragraph (1) with respect to distilled spirits, wine, or beer, as the case may be, for which the dealer is liable.
 
-“(5)
+"(5)
 
 Liability for tax and method of payment.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Liability for tax.—A person holding any tax-increased article on January 1, 1991, to which the tax imposed by paragraph (1) applies shall be liable for such tax.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Method of payment.—The tax imposed by paragraph (1) shall be paid in such manner as the Secretary shall prescribe by regulations.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Time for payment.—The tax imposed by paragraph (1) shall be paid on or before June 30, 1991.
 
-“(6)
+"(6)
 
 Controlled groups.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Corporations.—In the case of a controlled group—
 
-&emsp;&emsp;“(i) the 500 wine gallon amount specified in paragraph (3), and
+&emsp;&emsp;"(i) the 500 wine gallon amount specified in paragraph (3), and
 
-&emsp;&emsp;“(ii) the $240, $270, and $87 amounts specified in paragraph (4),
+&emsp;&emsp;"(ii) the $240, $270, and $87 amounts specified in paragraph (4),
 
-> &emsp;shall be apportioned among the dealers who are component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term ‘controlled group’ has the meaning given to such term by subsection (a) of section 1563 of such Code; except that for such purposes the phrase ‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection.
+> &emsp;shall be apportioned among the dealers who are component members of such group in such manner as theSecretary shall by regulations prescribe. For purposes of the preceding sentence, the term 'controlled group' has the meaning given to such term by subsection (a) of section 1563 of such Code; except that for such purposes the phrase 'more than 50 percent' shall be substituted for the phrase 'at least 80 percent' each place it appears in such subsection.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Nonincorporated dealers under common control.—Under regulations prescribed by the Secretary, principles similar to the principles of subparagraph (A) shall apply to a group of dealers under common control where 1 or more of such dealers is not a corporation.
 
-“(7)
+"(7)
 
 Other laws applicable.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—All provisions of law, including penalties, applicable to the comparable excise tax with respect to any tax-increased article shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply to the floor stocks taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by the comparable excise tax.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Comparable excise tax.—For purposes of subparagraph (A), the term ‘comparable excise tax’ means—
+Comparable excise tax.—For purposes of subparagraph (A), the term 'comparable excise tax' means—
 
-&emsp;&emsp;“(i) the tax imposed by section 5001 of such Code in the case of distilled spirits,
+&emsp;&emsp;"(i) the tax imposed by section 5001 of such Code in the case of distilled spirits,
 
-&emsp;&emsp;“(ii) the tax imposed by section 5041 of such Code in the case of wine, and
+&emsp;&emsp;"(ii) the tax imposed by section 5041 of such Code in the case of wine, and
 
-&emsp;&emsp;“(iii) the tax imposed by section 5051 of such Code in the case of beer.
+&emsp;&emsp;"(iii) the tax imposed by section 5051 of such Code in the case of beer.
 
-“(8)
+"(8)
 
 Definitions.—For purposes of this subsection—
 
-&emsp;“(A)
+&emsp;"(A)
 
 In general.—Terms used in this subsection which are also used in subchapter A of chapter 51 of such Code shall have the respective meanings such terms have in such part.
 
-&emsp;“(B)
+&emsp;"(B)
 
-Person.—The term ‘person’ includes any State or political subdivision thereof, or any agency or instrumentality of a State or political subdivision thereof.
+Person.—The term 'person' includes any State or political subdivision thereof, or any agency or instrumentality of a State or political subdivision thereof.
 
-&emsp;“(C)
+&emsp;"(C)
 
-Secretary.—The term ‘Secretary’ means the Secretary of the Treasury or his delegate.
+Secretary.—The term 'Secretary' means the Secretary of the Treasury or his delegate.
 
-“(9)
+"(9)
 
-Treatment of imported perfumes containing distilled spirits.—For purposes of this subsection, any article described in section 5001(a)(3) of such Code shall be treated as distilled spirits; except that the tax imposed by paragraph (1) shall be imposed on a wine gallon basis in lieu of a proof gallon basis. To the extent provided by regulations prescribed by the Secretary, the preceding sentence shall not apply to any article held on January 1, 1991, on the premises of a retail establishment.”
+Treatment of imported perfumes containing distilled spirits.—For purposes of this subsection, any article described in section 5001(a)(3) of such Code shall be treated as distilled spirits; except that the tax imposed by paragraph (1) shall be imposed on a wine gallon basis in lieu of a proof gallon basis. To the extent provided by regulations prescribed by the Secretary, the preceding sentence shall not apply to any article held on January 1, 1991, on the premises of a retail establishment."
 
 #### Floor Stocks Tax Treatment of Articles in Foreign Trade Zones
 
-Pub. L. 101–508, title XI, §11218, Nov. 5, 1990, 104 Stat. 1388–438, provided that: “Notwithstanding the Act of June 18, 1934 (48 Stat. 998, 19 U.S.C. 81a) or any other provision of law, any article which is located in a foreign trade zone on the effective date of any increase in tax under the amendments made by this part or part I \[part I (§§11201–11203) or part II (§§11211–11218) of subtitle B of title XI of Pub. L. 101–508, see Tables for classification\] shall be subject to floor stocks taxes imposed by such parts if—
+Pub. L. 101–508, title XI, §11218, Nov. 5, 1990, 104 Stat. 1388–438, provided that: "Notwithstanding the Act of June 18, 1934 (48 Stat. 998, 19 U.S.C. 81a) or any other provision of law, any article which is located in a foreign trade zone on the effective date of any increase in tax under the amendments made by this part or part I \[part I (§§11201–11203) or part II (§§11211–11218) of subtitle B of title XI of Pub. L. 101–508, see Tables for classification\] shall be subject to floor stocks taxes imposed by such parts if—
 
-&emsp;“(1) internal revenue taxes have been determined, or customs duties liquidated, with respect to such article before such date pursuant to a request made under the 1st proviso of section 3(a) of such Act \[19 U.S.C. 81c(a)\], or
+&emsp;"(1) internal revenue taxes have been determined, or customs duties liquidated, with respect to such article before such date pursuant to a request made under the 1st proviso of section 3(a) of such Act \[19 U.S.C. 81c(a)\], or
 
-&emsp;“(2) such article is held on such date under the supervision of a customs officer pursuant to the 2d proviso of such section 3(a).”
+&emsp;"(2) such article is held on such date under the supervision of a customs officer pursuant to the 2d proviso of such section 3(a)."
 
 #### Floor Stocks Taxes on Distilled Spirits
 
 Pub. L. 98–369, div. A, title I, §27(b), July 18, 1984, 98 Stat. 507, as amended by Pub. L. 99–514, §2, title XVIII, §1801(c)(3), Oct. 22, 1986, 100 Stat. 2095, 2786, provided that:
 
-“(1)
+"(1)
 
 Imposition of tax.—On distilled spirits on which tax was imposed under section 5001 or 7652 of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] before October 1, 1985, and which were held on such date for sale by any person, there shall be imposed a tax at the rate of $2.00 for each proof gallon and a proportionate tax at the like rate on all fractional parts of a proof gallon.
 
-“(2)
+"(2)
 
 Exception for certain small wholesale or retail dealers.—No tax shall be imposed by paragraph (1) on distilled spirits held on October 1, 1985, by any dealer if—
 
-&emsp;“(A) the aggregate liquid volume of distilled spirits held by such dealer on such date does not exceed 500 wine gallons, and
+&emsp;"(A) the aggregate liquid volume of distilled spirits held by such dealer on such date does not exceed 500 wine gallons, and
 
-&emsp;“(B) such dealer submits to the Secretary (at the time and in the manner required by the Secretary) such information as the Secretary shall require for purposes of this paragraph.
+&emsp;"(B) such dealer submits to the Secretary (at the time and in the manner required by the Secretary) such information as the Secretary shall require for purposes of this paragraph.
 
-“(3)
+"(3)
 
 Credit against tax.—Each dealer shall be allowed as a credit against the taxes imposed by paragraph (1) an amount equal to $800. Such credit shall not exceed the amount of taxes imposed by paragraph (1) for which the dealer is liable.
 
-“(4)
+"(4)
 
 Liability for tax and method of payment.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Liability for tax.—A person holding distilled spirits on October 1, 1985, to which the tax imposed by paragraph (1) applies shall be liable for such tax.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Method of payment.—The tax imposed by paragraph (1) shall be paid in such manner as the Secretary shall by regulations prescribe.
 
-&emsp;“(C)
+&emsp;"(C)
 
 Time for payment.—
 
-&emsp;&emsp;“(i)
+&emsp;&emsp;"(i)
 
 In general.—Except as provided in clause (ii), the tax imposed by paragraph (1) shall be paid on or before April 1, 1986.
 
-&emsp;&emsp;“(ii)
+&emsp;&emsp;"(ii)
 
 Installment payment of tax in case of small or middle-sized dealers.—In the case of any small or middle-sized dealer, the tax imposed by paragraph (1) may be paid in 3 equal installments due as follows:
 
-&emsp;&emsp;&emsp;“(I) The first installment shall be paid on or before April 1, 1986.
+&emsp;&emsp;&emsp;"(I) The first installment shall be paid on or before April 1, 1986.
 
-&emsp;&emsp;&emsp;“(II) The second installment shall be paid on or before July 1, 1986.
+&emsp;&emsp;&emsp;"(II) The second installment shall be paid on or before July 1, 1986.
 
-&emsp;&emsp;&emsp;“(III) The third installment shall be paid on or before October 1, 1986.
+&emsp;&emsp;&emsp;"(III) The third installment shall be paid on or before October 1, 1986.
 
 &nbsp;&nbsp;If the taxpayer does not pay any installment under this clause on or before the date prescribed for its payment, the whole of the unpaid tax shall be paid upon notice and demand from the Secretary.
 
-&emsp;&emsp;“(iii)
+&emsp;&emsp;"(iii)
 
-Small or middle-sized dealer.—For purposes of clause (ii), the term ‘small or middle-sized dealer’ means any dealer if the aggregate gross sales receipts of such dealer for its most recent taxable year ending before October 1, 1985, does not exceed $500,000.
+Small or middle-sized dealer.—For purposes of clause (ii), the term 'small or middle-sized dealer' means any dealer if the aggregate gross sales receipts of such dealer for its most recent taxable year ending before October 1, 1985, does not exceed $500,000.
 
-“(5)
+"(5)
 
 Controlled groups.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Controlled groups of corporations.—In the case of a controlled group—
 
-&emsp;&emsp;“(i) the 500 wine gallon amount specified in paragraph (2),
+&emsp;&emsp;"(i) the 500 wine gallon amount specified in paragraph (2),
 
-&emsp;&emsp;“(ii) the $800 amount specified in paragraph (3), and
+&emsp;&emsp;"(ii) the $800 amount specified in paragraph (3), and
 
-&emsp;&emsp;“(iii) the $500,000 amount specified in paragraph (4)(C)(iii),
+&emsp;&emsp;"(iii) the $500,000 amount specified in paragraph (4)(C)(iii),
 
-> &emsp;shall be apportioned among the dealers who are component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term ‘controlled group’ has the meaning given to such term by subsection (a) of section 1563 of the Internal Revenue Code of 1986; except that for such purposes the phrase ‘more than 50 percent’ shall be substituted for the phrase ‘at least 80 percent’ each place it appears in such subsection.
+> &emsp;shall be apportioned among the dealers who are component members of such group in such manner as the Secretary shall by regulations prescribe. For purposes of the preceding sentence, the term 'controlled group' has the meaning given to such term by subsection (a) of section 1563 of the Internal Revenue Code of 1986; except that for such purposes the phrase 'more than 50 percent' shall be substituted for the phrase 'at least 80 percent' each place it appears in such subsection.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Nonincorporated dealers under common control.—Under regulations prescribed by the Secretary, principles similar to the principles of subparagraph (A) shall apply to a group of dealers under common control where 1 or more of such dealers is not a corporation.
 
-“(6)
+"(6)
 
 Other laws applicable.—All provisions of law, including penalties, applicable with respect to the taxes imposed by section 5001 of the Internal Revenue Code of 1986 shall, insofar as applicable and not inconsistent with the provisions of this subsection, apply in respect of the taxes imposed by paragraph (1) to the same extent as if such taxes were imposed by such section 5001.
 
-“(7)
+"(7)
 
 Definitions and special rules.—For purposes of this subsection—
 
-&emsp;“(A)
+&emsp;"(A)
 
-Dealer.—The term ‘dealer’ means—
+Dealer.—The term 'dealer' means—
 
-&emsp;&emsp;“(i) any wholesale dealer in liquors (as defined in section 5112(b) of the Internal Revenue Code of 1986), and
+&emsp;&emsp;"(i) any wholesale dealer in liquors (as defined in section 5112(b) of the Internal Revenue Code of 1986), and
 
-&emsp;&emsp;“(ii) any retail dealer in liquors (as defined in section 5122(a) of such Code).
+&emsp;&emsp;"(ii) any retail dealer in liquors (as defined in section 5122(a) of such Code).
 
-&emsp;“(B)
+&emsp;"(B)
 
-Distilled spirits.—The term ‘distilled spirits’ has the meaning given such term by section 5002(a)(8) of the Internal Revenue Code of 1986.
+Distilled spirits.—The term 'distilled spirits' has the meaning given such term by section 5002(a)(8) of the Internal Revenue Code of 1986.
 
-&emsp;“(C)
+&emsp;"(C)
 
-Person.—The term ‘person’ includes any State or political subdivision thereof, or any agency or instrumentality of a State or political subdivision thereof.
+Person.—The term 'person' includes any State or political subdivision thereof, or any agency or instrumentality of a State or political subdivision thereof.
 
-&emsp;“(D)
+&emsp;"(D)
 
-Secretary.—The term ‘Secretary’ means the Secretary of the Treasury or his delegate.
+Secretary.—The term 'Secretary' means the Secretary of the Treasury or his delegate.
 
-&emsp;“(E)
+&emsp;"(E)
 
 Treatment of imported perfumes containing distilled spirits.—Any article described in section 5001(a)(3) of such Code shall be treated as distilled spirits; except that the tax imposed by paragraph (1) shall be imposed on a wine gallon basis in lieu of a proof gallon basis. To the extent provided in regulations prescribed by the Secretary, the preceding sentence shall not apply to any article held on October 1, 1985, on the premises of a retail establishment.
 
-&emsp;“(F)
+&emsp;"(F)
 
 Treatment of distilled spirits in foreign trade zones.—Notwithstanding the Act of June 18, 1934 (48 Stat. 998, 19 U.S.C. 81a) or any other provision of law, distilled spirits which are located in a foreign trade zone on October 1, 1985, shall be subject to the tax imposed by paragraph (1) and shall be treated for purposes of this subsection as held on such date for sale if—
 
-&emsp;&emsp;“(i) internal revenue taxes have been determined, or customs duties liquidated, with respect to such distilled spirits before such date pursuant to a request made under the first proviso of section 3(a) of such Act \[19 U.S.C. 81c(a)\], or
+&emsp;&emsp;"(i) internal revenue taxes have been determined, or customs duties liquidated, with respect to such distilled spirits before such date pursuant to a request made under the first proviso of section 3(a) of such Act \[19 U.S.C. 81c(a)\], or
 
-&emsp;&emsp;“(ii) such distilled spirits are held on such date under the supervision of customs pursuant to the second proviso of such section 3(a).
+&emsp;&emsp;"(ii) such distilled spirits are held on such date under the supervision of customs pursuant to the second proviso of such section 3(a).
 
-> &emsp;Under regulations prescribed by the Secretary, provisions similar to sections 5062 and 5064 of such Code shall apply to distilled spirits with respect to which tax is imposed by paragraph (1) by reason of this subparagraph.”
+> &emsp;Under regulations prescribed by the Secretary, provisions similar to sections 5062 and 5064 of such Code shall apply to distilled spirits with respect to which tax is imposed by paragraph (1) by reason of this subparagraph."
 

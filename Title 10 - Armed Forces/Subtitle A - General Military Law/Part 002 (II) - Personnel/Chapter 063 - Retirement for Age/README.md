@@ -13,13 +13,13 @@
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–364, div. A, title V, §502(c), Oct. 17, 2006, 120 Stat. 2177, inserted “in grades below generaland flag officer grades” after “officers” in item 1251 and added item 1253.
+<b>2006</b>—Pub. L. 109–364, div. A, title V, §502(c), Oct. 17, 2006, 120 Stat. 2177, inserted "in grades below generaland flag officer grades" after "officers" in item 1251 and added item 1253.
 
 Pub. L. 109–163, div. A, title V, §509(c)(2), Jan. 6, 2006, 119 Stat. 3231, added item 1252.
 
 <b>1980</b>—Pub. L. 96–513, title V, §501(18), Dec. 12, 1980, 94 Stat. 2908, added item 1251.
 
-<b>1967</b>—Pub. L. 90–130, §1(6), Nov. 8, 1967, 81 Stat. 374, struck out item 1255 “Age 55: female regular warrant officers”.
+<b>1967</b>—Pub. L. 90–130, §1(6), Nov. 8, 1967, 81 Stat. 374, struck out item 1255 "Age 55: female regular warrant officers".
 
 
 ---

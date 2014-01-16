@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The Secretary of Defense shall establish within the Office of the Assistant Secretary of Defense for Research and Engineering an office known as the “Office for Foreign Defense Critical Technology Monitoring and Assessment” (hereinafter in this section referred to as the “Office”).
+In General.—The Secretary of Defense shall establish within the Office of the Assistant Secretary of Defense for Research and Engineering an office known as the "Office for Foreign Defense Critical Technology Monitoring and Assessment" (hereinafter in this section referred to as the "Office").
 
 (b)
 
@@ -42,9 +42,9 @@ A prior section 2517 was renumbered section 2523 of this title and subsequently 
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted “Assistant Secretary of Defense for Research and Engineering” for “Director of Defense Research and Engineering”.
+<b>2011</b>—Subsec. (a). Pub. L. 111–383 substituted "Assistant Secretary of Defense for Research and Engineering" for "Director of Defense Research and Engineering".
 
-<b>1992</b>—Pub. L. 102–484 renumbered section 2525 of this title as this section and inserted “Critical” after “Foreign Defense” in subsec. (a).
+<b>1992</b>—Pub. L. 102–484 renumbered section 2525 of this title as this section and inserted "Critical" after "Foreign Defense" in subsec. (a).
 
 #### Effective Date of 2011 Amendment
 

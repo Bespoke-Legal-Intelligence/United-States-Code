@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Big Brothers—Big Sisters of America (in this chapter, the “corporation”) is a federally chartered corporation.
+Federal Charter.—Big Brothers—Big Sisters of America (in this chapter, the "corporation") is a federally chartered corporation.
 
 (b)
 

@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(B) The Secretary shall next give priority to applications for emergency grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
 
-&emsp;&emsp;(C) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meetthe requirements of paragraph (3)(B) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
+&emsp;&emsp;(C) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of paragraph (3)(B) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
 &emsp;&emsp;(D) The Secretary shall next give priority to applications for modernization grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for modernization grants, shall give priority to those applications of local educational agencies based on the severity of the need for modernization, as determined by the Secretary.
 
@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) does not meet the requirements of subclauses (I) and (II) but is eligible to receive funds under section 7703(b)(2) of this title for the fiscal year; and
 
-&emsp;&emsp;&emsp;(ii) the agency is eligible to receive assistance under subsection (a) of this section for the fiscal year and has a school facility emergency, as determined by the Secretary, that poses a health or safety hazard to the students and school personnel assigned to the school facility.
+&emsp;&emsp;&emsp;(ii) the agency is eligible to receive assistance under subsection (a) of this section for the fiscal year and has a school facility emergency, as determined by theSecretary, that poses a health or safety hazard to the students and school personnel assigned to the school facility.
 
 #### (B) Modernization grants
 
@@ -136,7 +136,7 @@
 
 &emsp;In awarding emergency grants and modernization grants under this subsection, the Secretary shall consider the following factors:
 
-&emsp;&emsp;(A) The ability of the local educational agency to respond to the emergency, or to pay for the modernization project, as the case may be, as measured by—
+&emsp;&emsp;(A) The ability of the local educational agency to respond to the emergency, or topay for the modernization project, as the case may be, as measured by—
 
 &emsp;&emsp;&emsp;(i) the agency's level of bonded indebtedness;
 
@@ -192,7 +192,7 @@
 
 #### (iii) Supplement, not supplant
 
-&emsp;&emsp;&emsp;A local educational agency shall use funds provided under an emergency grant or modernization grant awarded under this subsection only to supplement the amount of funds that would, in the absence of the Federal funds provided under the grant, be made available from non-Federal sourcesto carry out emergency repairs of school facilities or to carry out the modernization of school facilities, as the case may be, and not to supplant such funds.
+&emsp;&emsp;&emsp;A local educational agency shall use funds provided under an emergency grant or modernization grant awarded under this subsection only to supplement the amount of funds that would, in the absence of the Federal funds provided under the grant, be made available from non-Federal sources to carry out emergency repairs of school facilities or to carry out the modernization of school facilities, as the case may be, and not to supplant such funds.
 
 #### (iv) Maintenance costs
 
@@ -246,7 +246,7 @@
 
 #### (B) Definition
 
-&emsp;&emsp;In this paragraph, the term “appropriate congressional committees” means—
+&emsp;&emsp;In this paragraph, the term "appropriate congressional committees" means—
 
 &emsp;&emsp;&emsp;(i) the Committee on Appropriations and the Committee on Education and the Workforce of the House of Representatives; and
 
@@ -260,7 +260,7 @@
 
 <b>2000</b>—Pub. L. 106–398 amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) authorizing payments to certain local educational agencies for construction.
 
-<b>1996</b>—Subsec. (a)(2)(B). Pub. L. 104–134 struck out “and in which the agency at any 2 times during the four fiscal years preceding October 20, 1994, was denied by a vote of the agency's eligible voters a bond referendum for the purposes of school construction or renovation” before semicolon at end.
+<b>1996</b>—Subsec. (a)(2)(B). Pub. L. 104–134 struck out "and in which the agency at any 2 times during the four fiscal years preceding October 20, 1994, was denied by a vote of the agency's eligible voters a bond referendum for the purposes of school construction or renovation" before semicolon at end.
 
 #### Effective Date of 2002 Amendment
 

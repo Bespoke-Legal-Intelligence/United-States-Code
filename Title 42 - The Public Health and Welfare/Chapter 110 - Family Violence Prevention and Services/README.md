@@ -17,14 +17,14 @@
 | [10413\.](%C2%A7%2010413%20-%20National%20domestic%20violence%20hotline%20grant.md) | National domestic violence hotline grant. |
 | [10414\.](%C2%A7%2010414%20-%20Domestic%20Violence%20Prevention%20Enhancement%20and%20Leadership%20Through%20Alliances%20%28DELTA%29.md) | Domestic Violence Prevention Enhancement and Leadership Through Alliances (DELTA). |
 | 10415 to 10419. Repealed or Omitted. |  |
-| [10420\.](%C2%A7%2010420%20-%20Safe%20havens%20for%20children.md) | Safe havens for children. |
+| [10420\.](%C2%A7%2010420%20-%20Grants%20to%20support%20families%20in%20the%20justice%20system.md) | Grants to support families in the justice system. |
 | [10421\.](%C2%A7%2010421%20-%20Omitted.md) | Omitted. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Codification
 
-The Family Violence Prevention and Services Act, comprising this chapter, was originally enacted by Pub. L. 98–457, title III, Oct. 9, 1984, 98 Stat. 1757, and amended by Pub. L. 100–294, title III, Apr. 25, 1988, 102 Stat. 124; Pub. L. 102–295, title III, §§302–309(a), 310–321, May 28, 1992, 106 Stat. 201–210; Pub. L. 103–322, title IV, §§40211, 40241, 40251, 40261, 40271, 40272, Sept. 13, 1994, 108 Stat. 1925, 1934–1937; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §213\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–254; Pub. L. 104–235, title II, §§201–203, Oct. 3, 1996, 110 Stat. 3089; Pub. L. 105–392, title IV, §407(a), Nov. 13, 1998, 112 Stat. 3589; Pub. L. 106–386, div. B, title II, §§1202–1204, title IV, §1403, Oct. 28, 2000, 114 Stat. 1505–1507, 1514; Pub. L. 108–36, title IV, §§401–415, June 25, 2003, 117 Stat. 825–830; Pub. L. 109–162, title II, §206, Jan. 5, 2006, 119 Stat. 3002. Such Act is shown herein, however, as having been added by Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3484, without reference to such intervening amendments because of the extensive revision of the Act's provisions by Pub. L. 111–320.
+The Family Violence Prevention and Services Act, comprising this chapter, was originally enacted by Pub. L. 98–457, title III, Oct. 9, 1984, 98 Stat. 1757, and amended by Pub. L. 100–294, title III, Apr. 25, 1988, 102 Stat. 124; Pub. L. 102–295, title III, §§302–309(a), 310–321, May 28, 1992, 106 Stat. 201–210; Pub. L. 103–322, title IV, §§40211, 40241, 40251, 40261, 40271, 40272, Sept. 13, 1994, 108 Stat. 1925, 1934–1937; Pub. L. 104–208, div. A, title I, §101(e) \[title II, §213\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–254; Pub. L. 104–235, title II, §§201–203, Oct. 3, 1996, 110 Stat. 3089; Pub. L. 105–392, title IV, §407(a), Nov. 13, 1998, 112 Stat. 3589; Pub. L. 106–386, div. B, title II, §§1202–1204, title IV, §1403, Oct. 28, 2000, 114 Stat. 1505–1507, 1514; Pub. L. 108–36, title IV, §§401–415, June 25, 2003, 117 Stat. 825–830; Pub. L. 109–162, title II, §206, Jan. 5, 2006, 119 Stat. 3002. Such Act is shown herein, however, as having been added by Pub. L. 111–320, title II, §201, Dec. 20, 2010, 124 Stat. 3484, without referenceto such intervening amendments because of the extensive revision of the Act's provisions by Pub. L. 111–320.
 
 
 ---
@@ -49,5 +49,5 @@ The Family Violence Prevention and Services Act, comprising this chapter, was or
 - [&sect; 10416 - Omitted](%C2%A7%2010416%20-%20Omitted.md)
 - [&sect; 10417 - Repealed. Pub. L. 108&#8211;36, title IV, &sect;412, June 25, 2003, 117 Stat. 829](%C2%A7%2010417%20-%20Repealed.%20Pub.%20L.%20108%E2%80%9336%2C%20title%20IV%2C%20%C2%A7412%2C%20June%2025%2C%202003%2C%20117%20Stat.%20829.md)
 - [&sect; 10418, 10419 - Omitted](%C2%A7%2010418%2C%2010419%20-%20Omitted.md)
-- [&sect; 10420 - Safe havens for children](%C2%A7%2010420%20-%20Safe%20havens%20for%20children.md)
+- [&sect; 10420 - Grants to support families in the justice system](%C2%A7%2010420%20-%20Grants%20to%20support%20families%20in%20the%20justice%20system.md)
 - [&sect; 10421 - Omitted](%C2%A7%2010421%20-%20Omitted.md)

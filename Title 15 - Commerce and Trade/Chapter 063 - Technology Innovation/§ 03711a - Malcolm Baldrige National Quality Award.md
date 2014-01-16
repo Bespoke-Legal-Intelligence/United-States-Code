@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established the Malcolm Baldrige National Quality Award, which shall be evidenced by a medal bearing the inscriptions “Malcolm Baldrige National Quality Award” and “The Quest for Excellence”. The medal shall be of such design and materials and bear such additional inscriptions as the Secretary may prescribe.
+There is hereby established the Malcolm Baldrige National Quality Award, which shall be evidenced by a medal bearing the inscriptions "Malcolm Baldrige National Quality Award" and "The Quest for Excellence". The medal shall be of such design and materials and bear such additional inscriptions as the Secretary may prescribe.
 
 #### (b) Making and presentation of award
 
@@ -40,7 +40,7 @@ There is hereby established the Malcolm Baldrige National Quality Award, which s
 
 &emsp;(B) permits a rigorous evaluation of the way in which its business and other operations have contributed to improvements in the quality of goods and services, and
 
-&emsp;(C) meets such requirements and specifications as the Secretary, after receiving recommendations from the Board of Overseers established under paragraph (2)(B) and the Director of the National Institute of Standards and Technology, determines to be appropriate to achieve the objectives of this section.
+&emsp;(C) meets such requirements and specifications as the Secretary, after receiving recommendations from the Board of Overseers established under paragraph (2)(B) and the Director of the National Institute of Standards andTechnology, determines to be appropriate to achieve the objectives of this section.
 
 > In applying the provisions of subparagraph (C) with respect to any organization, the Director of the National Institute of Standards and Technology shall rely upon an intensive evaluation by a competent board of examiners which shall review the evidence submitted by the organization and, through a site visit, verify the accuracy of the quality improvements claimed. The examination should encompass all aspects of the organization's current practice of quality management, as well as the organization's provision for quality management in its future goals. The award shall be given only to organizations which have made outstanding improvements in the quality of their goods or services (or both) and which demonstrate effective quality management through the training and involvement of all levels of personnel in quality improvement.
 
@@ -64,51 +64,51 @@ The Secretary shall prepare and submit to the President and the Congress, within
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(3). Pub. L. 110–69 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Not more than two awards may be made within any subcategory in any year, unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government (and no award shall be made within any category or subcategory if there are no qualifying enterprises in that category or subcategory).”
+<b>2007</b>—Subsec. (c)(3). Pub. L. 110–69 amended par. (3) generally. Prior to amendment, par. (3) read as follows: "Not more than two awards may be made within any subcategory in any year, unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government (and no award shall be made within any category or subcategory if there are no qualifying enterprises in that category or subcategory)."
 
 <b>2004</b>—Subsec. (c)(1)(F). Pub. L. 108–320 added subpar. (F).
 
 <b>1998</b>—Subsec. (c)(1)(D), (E). Pub. L. 105–309, §3(b), added subpars. (D) and (E).
 
-Subsec. (c)(3). Pub. L. 105–309, §3(a), inserted “, unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government” after “in any year”.
+Subsec. (c)(3). Pub. L. 105–309, §3(a), inserted ", unless the Secretary determines that a third award is merited and can be given at no additional cost to the Federal Government" after "in any year".
 
-<b>1992</b>—Subsec. (f). Pub. L. 102–245 inserted at end “The Director is authorized to use appropriated funds to carry out responsibilities under this chapter.”
+<b>1992</b>—Subsec. (f). Pub. L. 102–245 inserted at end "The Director is authorized to use appropriated funds to carry out responsibilities under this chapter."
 
-<b>1988</b>—Subsecs. (d), (e). Pub. L. 100–418, §5115(b)(2)(A), substituted “National Institute of Standards and Technology” for “National Bureau of Standards” wherever appearing.
+<b>1988</b>—Subsecs. (d), (e). Pub. L. 100–418, §5115(b)(2)(A), substituted "National Institute of Standards and Technology" for "National Bureau of Standards" wherever appearing.
 
 #### Findings and Purposes
 
 Pub. L. 100–107, §2, Aug. 20, 1987, 101 Stat. 724, provided that:
 
-“(a)
+"(a)
 
 Findings.—The Congress finds and declares that—
 
-&emsp;“(1) the leadership of the United States in product and process quality has been challenged strongly (and sometimes successfully) by foreign competition, and our Nation's productivity growth has improved less than our competitors over the last two decades;
+&emsp;"(1) the leadership of the United States in product and process quality has been challenged strongly (and sometimes successfully) by foreign competition, and our Nation's productivity growth has improved less than our competitors over the last two decades;
 
-&emsp;“(2) American business and industry are beginning to understand that poor quality costs companies as much as 20 percent of sales revenues nationally, and that improved quality of goods and services goes hand in hand with improved productivity, lower costs, and increased profitability;
+&emsp;"(2) American business and industry are beginning to understand that poor quality costs companies as much as 20 percent of sales revenues nationally, and that improved quality of goods and services goes hand in hand with improved productivity, lower costs, and increased profitability;
 
-&emsp;“(3) strategic planning for quality and quality improvement programs, through a commitment to excellence in manufacturing and services, are becoming more and more essential to the well-being of our Nation's economy and our ability to compete effectively in the global marketplace;
+&emsp;"(3) strategic planning for quality and quality improvement programs, through a commitment to excellence in manufacturing and services, are becoming more and more essential to the well-being of our Nation's economy and our ability to compete effectively in the global marketplace;
 
-&emsp;“(4) improved management understanding of the factory floor, worker involvement in quality, and greater emphasis on statistical process control can lead to dramatic improvements in the cost and quality of manufactured products;
+&emsp;"(4) improved management understanding of the factory floor, worker involvement in quality, and greater emphasis on statistical process control can lead to dramatic improvements in the cost and quality of manufactured products;
 
-&emsp;“(5) the concept of quality improvement is directly applicable to small companies as well as large, to service industries as well as manufacturing, and to the public sector as well as private enterprise;
+&emsp;"(5) the concept of quality improvement is directly applicable to small companies as well as large, to service industries as well as manufacturing, and to the public sector as well as private enterprise;
 
-&emsp;“(6) in order to be successful, quality improvement programs must be management-led and customer-oriented and this may require fundamental changes in the way companies and agencies do business;
+&emsp;"(6) in order to be successful, quality improvement programs must be management-led and customer-oriented and this may require fundamental changes in the way companies and agencies do business;
 
-&emsp;“(7) several major industrial nations have successfully coupled rigorous private sector quality audits with national awards giving special recognition to those enterprises the audits identify as the very best; and
+&emsp;"(7) several major industrial nations have successfully coupled rigorous private sector quality audits with national awards giving special recognition to those enterprises the audits identify as the very best; and
 
-&emsp;“(8) a national quality award program of this kind in the United States would help improve quality and productivity by—
+&emsp;"(8) a national quality award program of this kind in the United States would help improve quality and productivity by—
 
-&emsp;&emsp;“(A) helping to stimulate American companies to improve quality and productivity for the pride of recognition while obtaining a competitive edge through increased profits,
+&emsp;&emsp;"(A) helping to stimulate American companies to improve quality and productivity for the pride of recognition while obtaining a competitive edge through increased profits,
 
-&emsp;&emsp;“(B) recognizing the achievements of those companies which improve the quality of their goods and services and providing an example to others,
+&emsp;&emsp;"(B) recognizing the achievements of those companies which improve the quality of their goods and services and providing an example to others,
 
-&emsp;&emsp;“(C) establishing guidelines and criteria that can be used by business, industrial, governmental, and other organizations in evaluating their own quality improvement efforts, and
+&emsp;&emsp;"(C) establishing guidelines and criteria that can be used by business, industrial, governmental, and other organizations in evaluating their own quality improvement efforts, and
 
-&emsp;&emsp;“(D) providing specific guidance for other American organizations that wish to learn how to manage for high quality by making available detailed information on how winning organizations were able to change their cultures and achieve eminence.
+&emsp;&emsp;"(D) providing specific guidance for other American organizations that wish to learn how to manage for high quality by making available detailed information on how winning organizations were able to change their cultures and achieve eminence.
 
-“(b)
+"(b)
 
-Purpose.—It is the purpose of this Act \[enacting this section, amending section 3708 of this title, and enacting provisions set out as a note under section 3701 of this title\] to provide for the establishment and conduct of a national quality improvement program under which (1) awards are given to selected companies and other organizations in the United States that practiceeffective quality management and as a result make significant improvements in the quality of their goods and services, and (2) information is disseminated about the successful strategies and programs.”
+Purpose.—It is the purpose of this Act \[enacting this section, amending section 3708 of this title, and enacting provisions set out as a note under section 3701 of this title\] to provide for the establishment and conduct of a national quality improvement program under which (1) awards are given to selected companies and other organizations in the United States that practice effective quality management and as a result make significant improvements in the quality of their goods and services, and (2) information is disseminated about the successful strategies and programs."
 

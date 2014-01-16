@@ -2,7 +2,7 @@
 
 (a)
 
-Authority.—The Secretary of Defense and the Secretaries of the military departments may each buy ordnance, signal, chemical activity, and aeronautical supplies, including parts andaccessories, and designs thereof, that the Secretary of Defense or the Secretary concerned considers necessary for experimental or test purposes in the development of the best supplies that are needed for the national defense.
+Authority.—The Secretary of Defense and the Secretaries of the military departments may each buy ordnance, signal, chemical activity, and aeronautical supplies, including parts and accessories, and designs thereof, that the Secretary of Defense or the Secretary concerned considers necessary for experimental or test purposes in the development of the best supplies that are needed for the national defense.
 
 (b)
 
@@ -16,7 +16,7 @@ Provisions similar to those in this section were contained in sections 4504 and 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–106 inserted “only” after “applies” in second sentence.
+<b>1996</b>—Subsec. (b). Pub. L. 104–106 inserted "only" after "applies" in second sentence.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–337 substituted “chemical activity, and aeronautical supplies,” for “and chemical activity supplies,”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 substituted "chemical activity, and aeronautical supplies," for "and chemical activity supplies,".
 

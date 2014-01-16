@@ -12,11 +12,11 @@ No action may be commenced under this subchapter with respect to a fiduciary's b
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–239, §7894(e)(5), struck out “(a)” before “No action”.
+<b>1989</b>—Pub. L. 101–239, §7894(e)(5), struck out "(a)" before "No action".
 
-Par. (2). Pub. L. 101–239, §7881(j)(4), struck out comma after “violation”.
+Par. (2). Pub. L. 101–239, §7881(j)(4), struck out comma after "violation".
 
-<b>1987</b>—Subsec. (a)(2). Pub. L. 100–203 struck out “(A)” after “date” and struck out “or (B) on which a report from which he could reasonably be expected to have obtained knowledge of such breach or violation was filed with the Secretary under this subchapter”.
+<b>1987</b>—Subsec. (a)(2). Pub. L. 100–203 struck out "(A)" after "date" and struck out "or (B) on which a report from which he could reasonably be expected to have obtained knowledge of such breach or violation was filed with the Secretary under this subchapter".
 
 #### Effective Date of 1989 Amendment
 

@@ -12,13 +12,13 @@
 
 #### Amendments
 
-<b>2002</b>—Subsec. (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+<b>2002</b>—Subsec. (d). Pub. L. 107–296 substituted "of Homeland Security" for "of Transportation".
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–324 added subsec. (d).
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted “and enlisted members” for “or enlisted members entitled to a per diem transportation allowance determined under section 404(d)(2) of this title” and inserted at end “Notwithstanding the preceding sentence, if the Secretary determines that it is in the best interest of the United States, the Secretary may reduce a rate for meals established under this subsection by the amount of that rate attributable to operating expenses.”
+<b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted "and enlisted members" for "or enlisted members entitled to a per diem transportation allowance determined under section 404(d)(2) of this title" and inserted at end "Notwithstanding the preceding sentence, if the Secretary determines that it is in the best interest of the United States, the Secretary may reduce a rate for meals established under this subsection by the amount of that rate attributable to operating expenses."
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–661 inserted “or when residing at a military installation pursuant to an agreement in effect on June 30, 1986,” in second sentence.
+<b>1986</b>—Subsec. (b). Pub. L. 99–661 inserted "or when residing at a military installation pursuant to an agreement in effect on June 30, 1986," in second sentence.
 
 <b>1985</b>—Subsec. (c). Pub. L. 99–145 added subsec. (c).
 

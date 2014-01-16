@@ -6,11 +6,11 @@ Information acquired from an electronic surveillance conducted pursuant to this 
 
 #### (b) Statement for disclosure
 
-No information acquired pursuant to this subchapter shall be disclosed for law enforcement purposes unless such disclosure is accompanied by a statement that such information, or any information derived therefrom, may only be used in a criminal proceeding with the advance authorization of the Attorney General.
+No information acquired pursuant to this subchapter shall be disclosed for law enforcementpurposes unless such disclosure is accompanied by a statement that such information, or any information derived therefrom, may only be used in a criminal proceeding with the advance authorization of the Attorney General.
 
 #### (c) Notification by United States
 
-Whenever the Government intends to enter into evidence or otherwise use or disclose in anytrial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of the United States, against an aggrieved person, any information obtained or derived from an electronic surveillance of that aggrieved person pursuant to the authority of this subchapter, the Government shall, prior to the trial, hearing, or other proceeding or at a reasonable time prior to an effort to so disclose or so use that information or submit it in evidence, notify the aggrieved person and the court or other authority in which the information is to be disclosed or used that the Government intends to so disclose or so use such information.
+Whenever the Government intends to enter into evidence or otherwise use or disclose in any trial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of the United States, against an aggrieved person, any information obtained or derived from an electronic surveillance of that aggrieved person pursuant to the authority of this subchapter, the Government shall, prior to the trial, hearing, or other proceeding or at a reasonable time prior to an effort to so disclose or so use that information or submit it in evidence, notify the aggrieved person and the court or other authority in which the information is to be disclosed or used that the Government intends to so disclose or so use such information.
 
 #### (d) Notification by States or political subdivisions
 
@@ -44,7 +44,7 @@ In circumstances involving the unintentional acquisition by an electronic, mecha
 
 #### (j) Notification of emergency employment of electronic surveillance; contents; postponement, suspension or elimination
 
-If an emergency employment of electronic surveillance is authorized under section 1805(e) of this title and a subsequent order approving the surveillance is not obtained, the judge shall cause to be served on any United States personnamed in the application and on such other United States persons subject to electronic surveillance as the judge may determine in his discretion it is in the interest of justice to serve, notice of—
+If an emergency employment of electronic surveillance is authorized under section 1805(e) of this title and a subsequent order approving the surveillance is not obtained, the judge shall cause to be served on any United States person named in the application and on such other United States persons subject to electronic surveillance as the judge may determine in his discretion it is in the interest of justice to serve, notice of—
 
 &emsp;(1) the fact of the application;
 
@@ -70,17 +70,17 @@ If an emergency employment of electronic surveillance is authorized under sectio
 
 #### References in Text
 
-This chapter, referred to in subsec. (f), was in the original “this Act”, meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+This chapter, referred to in subsec. (f), was in the original "this Act", meaning Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 1804(a)(7)(B) of this title, referred to in subsec. (k)(2), was redesignated section 1804(a)(6)(B) of this title by Pub. L. 110–261, title I, §104(1)(B), July 10, 2008, 122 Stat. 2461.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (i). Pub. L. 110–261, §106, substituted “communication” for “radio communication”.
+<b>2008</b>—Subsec. (i). Pub. L. 110–261, §106, substituted "communication" for "radio communication".
 
-Subsec. (k)(1)(B). Pub. L. 110–261, §110(b)(1), substituted “sabotage, international terrorism, or the international proliferation of weapons of mass destruction” for “sabotage or international terrorism”.
+Subsec. (k)(1)(B). Pub. L. 110–261, §110(b)(1), substituted "sabotage, international terrorism, or the international proliferation of weapons of mass destruction" for "sabotage or international terrorism".
 
-<b>2002</b>—Subsec. (k)(1). Pub. L. 107–296, in introductory provisions, inserted “or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision)” after “law enforcement officers”.
+<b>2002</b>—Subsec. (k)(1). Pub. L. 107–296, in introductory provisions, inserted "or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision)" after "law enforcement officers".
 
 <b>2001</b>—Subsec. (k). Pub. L. 107–56 added subsec. (k).
 
@@ -96,13 +96,13 @@ Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see sectio
 
 Pub. L. 106–567, title VI, §604(b), Dec. 27, 2000, 114 Stat. 2853, provided that:
 
-“(1) The Attorney General shall submit to the appropriate committees of Congress a report on the authorities and procedures utilized by the Department of Justice for determining whether or not to disclose information acquired under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) for law enforcement purposes.
+"(1) The Attorney General shall submit to the appropriate committees of Congress a report on the authorities and procedures utilized by the Department of Justice for determining whether or not to disclose information acquired under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.) for law enforcement purposes.
 
-“(2) In this subsection, the term ‘appropriate committees of Congress’ means the following:
+"(2) In this subsection, the term 'appropriate committees of Congress' means the following:
 
-&emsp;“(A) The Select Committee on Intelligence and the Committee on the Judiciary of the Senate.
+&emsp;"(A) The Select Committee on Intelligence and the Committee on the Judiciary of the Senate.
 
-&emsp;“(B) The Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives.”
+&emsp;"(B) The Permanent Select Committee on Intelligence and the Committee on the Judiciary of the House of Representatives."
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

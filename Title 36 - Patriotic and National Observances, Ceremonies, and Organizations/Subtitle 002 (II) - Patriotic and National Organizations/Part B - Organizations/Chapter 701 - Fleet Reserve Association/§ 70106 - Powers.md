@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Sept. 23, 1996, Pub. L. 104–201, title XVIII, §1802, 110 Stat. 2760.
 
-The words “each State in which it is incorporated” are substituted for “the State of Delaware” for consistency in the revised title. The words “and subject to the laws of such State” are omitted as unnecessary.
+The words "each State in which it is incorporated" are substituted for "the State of Delaware" for consistency in the revised title. The words "and subject to the laws of such State" are omitted as unnecessary.
 

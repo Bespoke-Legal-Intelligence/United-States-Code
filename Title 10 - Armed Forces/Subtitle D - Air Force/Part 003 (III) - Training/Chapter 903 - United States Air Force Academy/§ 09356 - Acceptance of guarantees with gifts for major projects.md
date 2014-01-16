@@ -22,11 +22,11 @@ Definitions.—In this section:
 
 &emsp;(1)
 
-Major project.—The term “major project” means a project for the purchase or other procurement of real or personal property, or for the construction, renovation, or repair of real or personal property, the total cost of which is, or is estimated to be, at least $1,000,000.
+Major project.—The term "major project" means a project for the purchase or other procurement of real or personal property, or for the construction, renovation, or repair of real or personal property, the total cost of which is, or is estimated to be, at least $1,000,000.
 
 &emsp;(2)
 
-Qualified guarantee.—The term “qualified guarantee”, with respect to a major project, means a guarantee that—
+Qualified guarantee.—The term "qualified guarantee", with respect to a major project, means a guarantee that—
 
 &emsp;&emsp;(A) is made by one or more persons in connection with a donation, specifically for the project, of a total amount in cash or securities that, as determined by the Secretary of the Air Force, is sufficient to defray a substantial portion of the total cost of the project;
 
@@ -42,7 +42,7 @@ Qualified guarantee.—The term “qualified guarantee”, with respect to a maj
 
 &emsp;(3)
 
-Qualified account control agreement.—The term “qualified account control agreement”, with respect to a guarantee of a donor, means an agreement among the donor, the Secretary of the Air Force, and a major United States investment management firm that—
+Qualified account control agreement.—The term "qualified account control agreement", with respect to a guarantee of a donor, means an agreement among the donor, the Secretary of the Air Force, and a major United States investment management firm that—
 
 &emsp;&emsp;(A) ensures the availability of sufficient funds or other financial resources to pay the amount guaranteed during the period of the guarantee;
 
@@ -54,7 +54,7 @@ Qualified account control agreement.—The term “qualified account control agr
 
 &emsp;(4)
 
-Major united states commercial bank.—The term “major United States commercial bank” means a commercial bank that—
+Major united states commercial bank.—The term "major United States commercial bank" means a commercial bank that—
 
 &emsp;&emsp;(A) is an insured bank (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813));
 
@@ -64,7 +64,7 @@ Major united states commercial bank.—The term “major United States commercia
 
 &emsp;(5)
 
-Major united states investment management firm.—The term “major United States investment management firm” means any broker, dealer, investment adviser, or provider of investment supervisory services (as defined in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c) or section 202 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2)) or a major United States commercial bank that—
+Major united states investment management firm.—The term "major United States investment management firm" means any broker, dealer, investment adviser, or provider of investment supervisory services (as defined in section 3 of the Securities Exchange Act of 1934 (15 U.S.C. 78c) or section 202 of the Investment Advisers Act of 1940 (15 U.S.C. 80b–2)) or a major United States commercial bank that—
 
 &emsp;&emsp;(A) is headquartered in the United States; and
 
@@ -78,7 +78,7 @@ A prior section 9356, added Pub. L. 103–337, div. A, title V, §556(c)(1), Oct
 
 #### Amendments
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–136 inserted before period at end “or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title”.
+<b>2003</b>—Subsec. (c). Pub. L. 108–136 inserted before period at end "or, if earlier, the expiration of 14 days following the date on which a copy of the report is provided in an electronic medium pursuant to section 480 of this title".
 
-<b>2000</b>—Subsec. (e)(5). Pub. L. 106–398 inserted a closing parenthesis after “80b–2)” in introductory provisions.
+<b>2000</b>—Subsec. (e)(5). Pub. L. 106–398 inserted a closing parenthesis after "80b–2)" in introductory provisions.
 

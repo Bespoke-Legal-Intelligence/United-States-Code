@@ -6,7 +6,7 @@ Upon the submission by the President to the Congress of a recommendation of a si
 
 #### (b) Financial assistance
 
-(1) The Secretary shall make grants to each affected tribe notified under section 10136(a) of this title for the purpose of participating in activities required by section 10137 of this title or authorized by written agreement entered into pursuant to section 10137(c) of this title. Any salary or travel expense that would ordinarily be incurred by such tribe, may not be considered eligible for funding under this paragraph.
+(1) The Secretary shall make grants to each affected tribe notified under section 10136(a) of this title for the purpose of participating in activities required by section 10137 of this title or authorized by written agreement entered into pursuant to section 10137(c) of this title. Any salary or travel expense that would ordinarilybe incurred by such tribe, may not be considered eligible for funding under this paragraph.
 
 (2)(A) The Secretary shall make grants to each affected Indian tribe where a candidate site for a repository is approved under section 10132(c) of this title. Such grants may be made to each such Indian tribe only for purposes of enabling such Indian tribe—
 
@@ -56,7 +56,7 @@ Upon the submission by the President to the Congress of a recommendation of a si
 
 <b>1987</b>—Subsec. (b)(5)(iv). Pub. L. 100–202 and Pub. L. 100–203 amended par. (5) identically, adding cl. (iv).
 
-<i><sup>1</sup></i><i> So in original. Probably should be designated “(5)(A)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be designated "(5)(A)".</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “or”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "or".</i>
 

@@ -4,11 +4,11 @@
 
 #### (1) In general
 
-&emsp;The Attorney General is authorized to make grants to institutions of higher education, for use by such institutions or consortia consisting of campus personnel, student organizations, campus administrators, security personnel, and regional crisis centers affiliated with the institution, to develop and strengthen effective security and investigation strategies to combat domestic violence, dating violence, sexual assault, and stalking on campuses, and to develop and strengthen victim services in cases involving such crimes against women on campuses, which may include partnerships with local criminal justice authorities and community-based victim services agencies.
+&emsp;The Attorney General is authorized to make grants to institutions of higher education, for use by such institutions or consortia consisting of campus personnel, student organizations, campus administrators, security personnel, and regional crisis centers affiliated with the institution, to develop and strengthen effective security and investigation strategies to combat domestic violence, dating violence, sexual assault, and stalking on campuses, to develop and strengthen victim services in cases involving such crimes on campuses, which may include partnerships with local criminal justice authorities and community-based victim services agencies, and to develop and strengthen prevention education and awareness programs.
 
 #### (2) Award basis
 
-&emsp;The Attorney General shall award grants and contracts under this section on a competitive basis for a period of 3 years. The Attorney General, through the Director of the Office on Violence Against Women, shall award the grants in amounts of not more than $500,000 for individual institutions of higher education and not more than $1,000,000 for consortia of such institutions.
+&emsp;The Attorney General shall award grants and contracts under this section on a competitive basis for a period of 3 years. The Attorney General, through the Director of the Office on Violence Against Women, shall award the grants in amounts of not more than $300,000 for individual institutions of higher education and not more than $1,000,000 for consortia of such institutions.
 
 #### (3) Equitable participation
 
@@ -26,19 +26,23 @@ Grant funds awarded under this section may be used for the following purposes:
 
 &emsp;(1) To provide personnel, training, technical assistance, data collection, and other equipment with respect to the increased apprehension, investigation, and adjudication of persons committing domestic violence, dating violence, sexual assault, and stalking on campus.
 
-&emsp;(2) To develop and implement campus policies, protocols, and services that more effectively identify and respond to the crimes of domestic violence, dating violence, sexual assault and stalking, and to train campus administrators, campus security personnel, and personnel serving on campus disciplinary or judicial boards on such policies, protocols, and services. Within 90 days after January 5, 2006, the Attorney General shall issue and make available minimum standards of training relating to domestic violence, dating violence, sexual assault, and stalking on campus, for all campus security personnel and personnel serving on campus disciplinary or judicial boards.
+&emsp;(2) To develop, strengthen, and implement campus policies, protocols, and services that more effectively identify and respond to the crimes of domestic violence, dating violence, sexual assault and stalking, including the use of technology to commit these crimes, and to train campus administrators, campus security personnel, and personnel serving on campus disciplinary or judicial boards on such policies, protocols, and services. Within 90 days after January 5, 2006, the Attorney General shall issue and make available minimum standards of training relating to domestic violence, dating violence, sexual assault, and stalking on campus, for all campus security personnel and personnel serving on campus disciplinary or judicial boards.
 
 &emsp;(3) To implement and operate education programs for the prevention of domestic violence, dating violence, sexual assault, and stalking.
 
-&emsp;(4) To develop, enlarge, or strengthen victim services programs on the campuses of the institutions involved, including programs providing legal, medical, or psychological counseling, for victims of domestic violence, datingviolence, sexual assault, and stalking, and to improve delivery of victim assistance on campus. To the extent practicable, such an institution shall collaborate with any entities carrying out nonprofit and other victim services programs, including domestic violence, dating violence, sexual assault, and stalking victim services programs in the community in which the institution is located. If appropriate victim services programs are not available in the community or are not accessible to students, the institution shall, to the extent practicable, provide a victim services program on campus or create a victim services program in collaboration with a community-based organization. The institution shall use not less than 20 percent of the funds made available through the grant for a victim services program provided in accordance with this paragraph.
+&emsp;(4) To develop, enlarge, or strengthen victim services programs and population specific services on the campuses of the institutions involved, including programs providing legal, medical, or psychological counseling, for victims of domestic violence, dating violence, sexual assault, and stalking, and to improve delivery of victim assistance on campus. To the extent practicable, such an institution shall collaborate with any victim service providers in the community in which the institution is located. If appropriate victim services programs are not available in the community or are not accessible to students, the institution shall, to the extent practicable, provide a victim services program on campus or create a victim services program in collaboration with a community-based organization. The institution shall use not less than 20 percent of the funds made available through the grant for a victim services program provided in accordance with this paragraph, regardless of whether the services are provided by the institution or in coordination with community victim service providers.
 
-&emsp;(5) To create, disseminate, or otherwise provide assistance and information about victims’ options on and off campus to bring disciplinary or other legal action, including assistance to victims in immigration matters.
+&emsp;(5) To create, disseminate, or otherwise provide assistance and information about victims' options on and off campus to bring disciplinary or other legal action, including assistance to victims in immigration matters.
 
 &emsp;(6) To develop, install, or expand data collection and communication systems, including computerized systems, linking campus security to the local law enforcement for the purpose of identifying and tracking arrests, protection orders, violations of protection orders, prosecutions, and convictions with respect to the crimes of domestic violence, dating violence, sexual assault, and stalking on campus.
 
 &emsp;(7) To provide capital improvements (including improved lighting and communications facilities but not including the construction of buildings) on campuses to address the crimes of domestic violence, dating violence, sexual assault, and stalking.
 
 &emsp;(8) To support improved coordination among campus administrators, campus security personnel, and local law enforcement to reduce domestic violence, dating violence, sexual assault, and stalking on campus.
+
+&emsp;(9) To develop or adapt and provide developmental, culturally appropriate, and linguistically accessible print or electronic materials to address both prevention and intervention in domestic violence, dating violence, sexual violence, and stalking.
+
+&emsp;(10) To develop or adapt population specific strategies and projects for victims of domesticviolence, dating violence, sexual assault, and stalking from underserved populations on campus.
 
 #### (c) Applications
 
@@ -52,19 +56,21 @@ Grant funds awarded under this section may be used for the following purposes:
 
 &emsp;&emsp;(A) describe the need for grant funds and the plan for implementation for any of the purposes described in subsection (b) of this section;
 
-&emsp;&emsp;(B) include proof that the institution of higher education collaborated with any non-profit, nongovernmental entities carrying out other victim services programs, including domestic violence, dating violence, sexual assault, and stalking victim services programs in the community in which the institution is located;
+&emsp;&emsp;(B) include proof that the institution of higher education collaborated with victim service providers, including domestic violence, dating violence, sexual assault, and stalking victim services programs in the community in which the institution is located;
 
 &emsp;&emsp;(C) describe the characteristics of the population being served, including type of campus, demographics of the population, and number of students;
 
-&emsp;&emsp;(D) provide measurable goals and expected results from the use of the grant funds;
+&emsp;&emsp;(D) describe how underserved populations in the campus community will be adequately served, including the provision of relevant population specific services;
 
-&emsp;&emsp;(E) provide assurances that the Federal funds made available under this section shall be used to supplement and, to the extent practical, increase the level of funds that would, in the absence of Federal funds, be made available by the institution for the purposes described in subsection (b) of this section; and
+&emsp;&emsp;(E) provide measurable goals and expected results from the use of the grant funds;
 
-&emsp;&emsp;(F) include such other information and assurances as the Attorney General reasonably determines to be necessary.
+&emsp;&emsp;(F) provide assurances that the Federal funds made available under this section shall be used to supplement and, to the extent practical, increase the level of funds that would, in the absence of Federal funds, be made available by the institution for the purposes described in subsection (b) of this section; and
+
+&emsp;&emsp;(G) include such other information and assurances as the Attorney General reasonably determines to be necessary.
 
 #### (3) Compliance with campus crime reporting required
 
-&emsp;No institution of higher education shall be eligible for a grant under this section unless such institution is in compliance with the requirements of section 1092(f) of title 20. Up to $200,000 of the total amount of grant funds appropriated under this section for fiscal years 2007 through 2011 may be used to provide technical assistance in complying with the mandatory reporting requirements of section 1092(f) of title 20.
+&emsp;No institution of higher education shall be eligible for a grant under this section unless such institution is in compliance with the requirements of section 1092(f) of title 20. Up to $200,000 of the total amount of grant funds appropriated under this section for fiscal years 2014 through 2018 may be used to provide technical assistance in complying with the mandatory reporting requirements of section 1092(f) of title 20.
 
 #### (d) General terms and conditions
 
@@ -82,7 +88,19 @@ Grant funds awarded under this section may be used for the following purposes:
 
 &emsp;&emsp;Upon completion of the grant period under this section, the institution shall file a performance report with the Attorney General and the Secretary of Education explaining the activities carried out under this section together with an assessment of the effectiveness of those activities in achieving the purposes described in subsection (b) of this section.
 
-#### (3) Report to Congress
+#### (3) Grantee minimum requirements
+
+&emsp;Each grantee shall comply with the following minimum requirements during the grant period:
+
+&emsp;&emsp;(A) The grantee shall create a coordinated community response including both organizations external to the institution and relevant divisions of the institution.
+
+&emsp;&emsp;(B) The grantee shall establish a mandatory prevention and education program on domestic violence, dating violence, sexual assault, and stalking for all incoming students.
+
+&emsp;&emsp;(C) The grantee shall train all campus law enforcement to respond effectively to domestic violence, dating violence, sexual assault, and stalking.
+
+&emsp;&emsp;(D) The grantee shall train all members of campus disciplinary boards to respond effectively to situations involving domestic violence, dating violence, sexual assault, or stalking.
+
+#### (4) Report to Congress
 
 &emsp;Not later than 180 days after the end of the fiscal year for which grants are awarded under this section, the Attorney General shall submit to Congress a report that includes—
 
@@ -96,7 +114,7 @@ Grant funds awarded under this section may be used for the following purposes:
 
 #### (e) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated $12,000,000 for fiscal year 2007 and $15,000,000 for each of fiscal years 2008 through 2011.
+For the purpose of carrying out this section, there is authorized to be appropriated $12,000,000 for each of fiscal years 2014 through 2018.
 
 #### (f) Omitted
 
@@ -104,11 +122,11 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 In this section the definitions and grant conditions in section 13925 of this title shall apply.
 
-(Pub. L. 109–162, title III, §304, Jan. 5, 2006, 119 Stat. 3013; Pub. L. 109–271, §§1(c)(1), 4(b), (d), Aug. 12, 2006, 120 Stat. 750, 758.)
+(Pub. L. 109–162, title III, §304, Jan. 5, 2006, 119 Stat. 3013; Pub. L. 109–271, §§1(c)(1), 4(b), (d), Aug. 12, 2006, 120 Stat. 750, 758; Pub. L. 113–4, title III, §303, Mar. 7, 2013, 127 Stat. 87.)
 
 #### References in Text
 
-This part, referred to in subsec. (d)(3)(D), appearing in the original is unidentifiable because title III of Pub. L. 109–162 does not contain parts.
+This part, referred to in subsec. (d)(4)(D), appearing in the original is unidentifiable because title III of Pub. L. 109–162 does not contain parts.
 
 #### Codification
 
@@ -118,11 +136,35 @@ Section was enacted as part of the Violence Against Women and Department of Just
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(2). Pub. L. 109–271, §4(b), inserted first sentence and struck out former first sentence which read as follows: “To train campus administrators, campus security personnel, and personnel serving on campus disciplinary or judicial boards to develop and implement campus policies, protocols, and services that more effectively identify and respond to the crimes of domestic violence, dating violence, sexual assault, and stalking.”
+<b>2013</b>—Subsec. (a)(1). Pub. L. 113–4, §303(1)(A), substituted "stalking on campuses," for "stalking on campuses, and" and "crimes on" for "crimes against women on" and inserted ", and to develop and strengthen prevention education and awareness programs" before period at end.
 
-Subsec. (d)(2)(A). Pub. L. 109–271, §4(d), struck out “biennial” before “performance report”.
+Subsec. (a)(2). Pub. L. 113–4, §303(1)(B), substituted "$300,000" for "$500,000".
+
+Subsec. (b)(2). Pub. L. 113–4, §303(2)(A), inserted ", strengthen," after "To develop" and "including the use of technology to commit these crimes," after "sexual assault and stalking,".
+
+Subsec. (b)(4). Pub. L. 113–4, §303(2)(B), inserted "and population specific services" after "strengthen victim services programs" and ", regardless of whether the services are provided by the institution or in coordination with community victim service providers" before period at end, and substituted "victim service providers" for "entities carrying out nonprofit and other victim services programs, including domestic violence, dating violence, sexual assault, and stalking victim services programs".
+
+Subsec. (b)(9), (10). Pub. L. 113–4, §303(2)(C), added pars. (9) and (10).
+
+Subsec. (c)(2)(B). Pub. L. 113–4, §303(3)(A)(i), substituted "victim service providers" for "any non-profit, nongovernmental entities carrying out other victim services programs".
+
+Subsec. (c)(2)(D) to (G). Pub. L. 113–4, §303(3)(A)(ii), (iii), added subpar. (D) and redesignated former subpars. (D) to (F) as (E) to (G), respectively.
+
+Subsec. (c)(3). Pub. L. 113–4, §303(3)(B), substituted "2014 through 2018" for "2007 through 2011".
+
+Subsec. (d)(3), (4). Pub. L. 113–4, §303(4), added par. (3) and redesignated former par. (3) as (4).
+
+Subsec. (e). Pub. L. 113–4, §303(5), substituted "there is authorized to be appropriated $12,000,000 for each of fiscal years 2014 through 2018." for "there are authorized to be appropriated $12,000,000 for fiscal year 2007 and $15,000,000 for each of fiscal years 2008 through 2011."
+
+<b>2006</b>—Subsec. (b)(2). Pub. L. 109–271, §4(b), inserted first sentence and struck out former first sentence which read as follows: "To train campus administrators, campus security personnel, and personnel serving on campus disciplinary or judicial boards to develop and implement campus policies, protocols, and services that more effectively identify and respond to the crimes of domestic violence, dating violence, sexual assault, and stalking."
+
+Subsec. (d)(2)(A). Pub. L. 109–271, §4(d), struck out "biennial" before "performance report".
 
 Subsec. (g). Pub. L. 109–271, §1(c)(1), added subsec. (g).
+
+#### Effective Date of 2013 Amendment
+
+Amendment by Pub. L. 113–4 not effective until the beginning of the fiscal year following Mar. 7, 2013, see section 4 of Pub. L. 113–4, set out as a note under section 2261 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date
 

@@ -6,9 +6,9 @@
 
 &emsp;Notwithstanding any other provision of law, for purposes of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.)—
 
-&emsp;&emsp;(A) the term “catfish” may only be considered to be a common or usual name (or part thereof) for fish classified within the family Ictaluridae; and
+&emsp;&emsp;(A) the term "catfish" may only be considered to be a common or usual name (or part thereof) for fish classified within the family Ictaluridae; and
 
-&emsp;&emsp;(B) only labeling or advertising for fish classified within that family may include the term “catfish”.
+&emsp;&emsp;(B) only labeling or advertising for fish classified within that family may include the term "catfish".
 
 #### (2) Omitted
 
@@ -18,9 +18,9 @@
 
 &emsp;Notwithstanding any other provision of law, for purposes of the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 301 et seq.)—
 
-&emsp;&emsp;(A) the term “ginseng” may only be considered to be a common or usual name (or part thereof) for any herb or herbal ingredient derived from a plant classified within the genus Panax; and
+&emsp;&emsp;(A) the term "ginseng" may only be considered to be a common or usual name (or part thereof) for any herb or herbal ingredient derived from a plant classified within the genus Panax; and
 
-&emsp;&emsp;(B) only labeling or advertising for herbs or herbal ingredients classified within that genus may include the term “ginseng”.
+&emsp;&emsp;(B) only labeling or advertising for herbs or herbal ingredients classified within that genus may include the term "ginseng".
 
 #### (2) Omitted
 

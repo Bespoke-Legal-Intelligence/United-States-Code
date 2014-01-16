@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment.—There is established in the Treasury an account to be known as the “Defense Modernization Account”.
+Establishment.—There is established in the Treasury an account to be known as the "Defense Modernization Account".
 
 (b)
 
@@ -28,7 +28,7 @@ Transfers to Account.—(1)(A) Upon a determination by the Secretary of a milita
 
 (2) Funds referred to in paragraph (1), other than funds referred to in subparagraph (B)(iii) of such paragraph, may not be transferred to the Defense Modernization Account if—
 
-&emsp;(A) the funds are necessary for programs, projects, and activities that, as determined by the Secretary, have a higher priority than the purposes for which the funds would be available if transferred to that account; or
+&emsp;(A) the funds are necessary for programs, projects, and activities that, as determined bythe Secretary, have a higher priority than the purposes for which the funds would be available if transferred to that account; or
 
 &emsp;(B) the balance of funds in the account, after transfer of funds to the account, would exceed $1,000,000,000.
 
@@ -96,31 +96,19 @@ Secretary To Act Through Comptroller.—(1) The Secretary of Defense shall carry
 
 (i)
 
-Annual Report.—(1) Not later than 15 days after the end of each fiscal year, the Secretary of Defense shall submit to the congressional committees specified in paragraph (2) a report on the Defense Modernization Account. Each such report shall set forth the following:
-
-&emsp;(A) The amount and source of each credit to the account during that fiscal year.
-
-&emsp;(B) The amount and purpose of each transfer from the account during that fiscal year.
-
-&emsp;(C) The balance in the account at the end of the fiscal year and, of such balance, the amount attributable to transfers to the account from each Secretary concerned.
-
-(2) The committees referred to in paragraph (1) are the congressional defense committees and the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight of the House of Representatives.
-
-(j)
-
 Definitions.—In this section:
 
-&emsp;(1) The term “Secretary concerned” includes the Secretary of Defense with respect to Defense-wide appropriations accounts.
+&emsp;(1) The term "Secretary concerned" includes the Secretary of Defense with respect to Defense-wide appropriations accounts.
 
-&emsp;(2) The term “unexpired funds” means funds appropriated for a definite period that remain available for obligation.
+&emsp;(2) The term "unexpired funds" means funds appropriated for a definite period that remain available for obligation.
 
-(k)
+(j)
 
 Expiration of Authority and Account.—(1) The authority under subsection (c) to transfer funds into the Defense Modernization Account terminates at the close of September 30, 2006.
 
 (2) Three years after the termination date specified in paragraph (1), the Defense Modernization Account shall be closed and any remaining balance in the account shall be canceled and thereafter shall not be available for any purpose.
 
-(Added Pub. L. 104–106, div. A, title IX, §912(a)(1), Feb. 10, 1996, 110 Stat. 407; amended Pub. L. 106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §§1008(a)–(f)(1), 1043(b)(8), Nov. 24, 2003, 117 Stat. 1586, 1587, 1611; Pub. L. 109–364, div. A, title X, §1071(a)(16), Oct. 17, 2006, 120 Stat. 2399.)
+(Added Pub. L. 104–106, div. A, title IX, §912(a)(1), Feb. 10, 1996, 110 Stat. 407; amended Pub. L.106–65, div. A, title X, §1067(1), Oct. 5, 1999, 113 Stat. 774; Pub. L. 108–136, div. A, title X, §§1008(a)–(f)(1), 1043(b)(8), Nov. 24, 2003, 117 Stat. 1586, 1587, 1611; Pub. L. 109–364, div. A, title X, §1071(a)(16), Oct. 17, 2006, 120 Stat. 2399; Pub. L. 113–66, div. A, title X, §1084(a)(2), Dec. 26, 2013, 127 Stat. 871.)
 
 #### Codification
 
@@ -132,33 +120,35 @@ A prior section 2216, added Pub. L. 99–661, div. A, title XIII, §1307(a)(1), 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(1). Pub. L. 109–364 substituted “subsection (c)(1)(B)(iii)” for “subsections (c)(1)(B)(iii)”.
+<b>2013</b>—Subsecs. (i) to (k). Pub. L. 113–66 redesignated subsecs. (j) and (k) as (i) and (j), respectively, and struck out former subsec. (i) which related to an annual report submitted by the Secretary of Defense to the congressional defense committees and the Committee on Governmental Affairs of the Senate and the Committee on Government Reform and Oversight of the House of Representatives.
+
+<b>2006</b>—Subsec. (b)(1). Pub. L. 109–364 substituted "subsection (c)(1)(B)(iii)" for "subsections (c)(1)(B)(iii)".
 
 <b>2003</b>—Subsec. (b). Pub. L. 108–136, §1008(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 108–136, §1008(a)(1), (2), redesignated subsec. (b) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “Funds transferred to the Defense Modernization Account from funds appropriated for a military department, Defense Agency, or other element of the Department of Defense shall be available in accordance with subsections (f) and (g) only for transfer to funds available for that military department, Defense Agency, or other element.”
+Subsec. (c). Pub. L. 108–136, §1008(a)(1), (2), redesignated subsec. (b) as (c) and struck out heading and text of former subsec. (c). Text read as follows: "Funds transferred to the Defense Modernization Account from funds appropriated for a military department, Defense Agency, or other element of the Department of Defense shall be available in accordance with subsections (f) and (g) only for transfer to funds available for that military department, Defense Agency, or other element."
 
 Subsec. (c)(1)(B)(iii). Pub. L. 108–136, §1008(c)(1), added cl. (iii).
 
-Subsec. (c)(2). Pub. L. 108–136, §1008(c)(2), inserted “, other than funds referred to in subparagraph (B)(iii) of such paragraph,” after “Funds referred to in paragraph (1)”.
+Subsec. (c)(2). Pub. L. 108–136, §1008(c)(2), inserted ", other than funds referred to in subparagraph (B)(iii) of such paragraph," after "Funds referred to in paragraph (1)".
 
-Subsec. (d). Pub. L. 108–136, §1008(b), substituted “in the Defense Modernization Account” for “available from the Defense Modernization Account pursuant to subsection (f) or (g)” in introductory provisions, added par. (1), and redesignated former pars. (1) and (2) as (2) and (3), respectively.
+Subsec. (d). Pub. L. 108–136, §1008(b), substituted "in the Defense Modernization Account" for "available from the Defense Modernization Account pursuant to subsection (f) or (g)" in introductory provisions, added par. (1), and redesignated former pars. (1) and (2) as (2) and (3), respectively.
 
 Subsec. (h). Pub. L. 108–136, §1008(d), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (i). Pub. L. 108–136, §1008(e)(1), substituted “Annual Report” for “Quarterly Reports” in heading.
+Subsec. (i). Pub. L. 108–136, §1008(e)(1), substituted "Annual Report" for "Quarterly Reports" in heading.
 
-Subsec. (i)(1). Pub. L. 108–136, §1008(e)(1), (2), substituted “fiscal year” for “calendar quarter” in introductory provisions and “fiscal year” for “quarter” in subpars. (A) to (C).
+Subsec. (i)(1). Pub. L. 108–136, §1008(e)(1), (2), substituted "fiscal year" for "calendar quarter" in introductory provisions and "fiscal year" for "quarter" in subpars. (A) to (C).
 
-Subsec. (j)(3). Pub. L. 108–136, §1043(b)(8), struck out par. (3) which read as follows: “The term ‘congressional defense committees’ means—
+Subsec. (j)(3). Pub. L. 108–136, §1043(b)(8), struck out par. (3) which read as follows: "The term 'congressional defense committees' means—
 
-&emsp;“(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
+&emsp;"(A) the Committee on Armed Services and the Committee on Appropriations of the Senate; and
 
-&emsp;“(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives.”
+&emsp;"(B) the Committee on Armed Services and the Committee on Appropriations of the House of Representatives."
 
 Subsec. (k). Pub. L. 108–136, §1008(f)(1), added subsec. (k).
 
-<b>1999</b>—Subsec. (j)(3)(B). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
+<b>1999</b>—Subsec. (j)(3)(B). Pub. L. 106–65 substituted "Committee on Armed Services" for "Committee on National Security".
 
 #### Change of Name
 
@@ -168,7 +158,7 @@ Committee on Government Reform and Oversight of House of Representatives changed
 
 #### Effective Date
 
-Pub. L. 104–106, div. A, title IX, §912(b), Feb. 10, 1996, 110 Stat. 410, provided that: “Section 2216 of title 10, United States Code (as added by subsection (a)), shall apply only to funds appropriated for fiscal years after fiscal year 1995.”
+Pub. L. 104–106, div. A, title IX, §912(b), Feb. 10, 1996, 110 Stat. 410, provided that: "Section 2216 of title 10, United States Code (as added by subsection (a)), shall apply only to funds appropriated for fiscal years after fiscal year 1995."
 
 #### Expiration of Authority and Account
 

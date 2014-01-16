@@ -8,7 +8,7 @@ Notice of Removal.—A defendant or defendants desiring to remove any criminal p
 
 Requirements.—(1) A notice of removal of a criminal prosecution shall be filed not later than 30 days after the arraignment in the State court, or at any time before trial, whichever is earlier, except that for good cause shown the United States district court may enter an order granting the defendant or defendants leave to file the notice at a later time.
 
-(2) A notice of removal of a criminal prosecution shall include all grounds for such removal. A failure to state grounds that exist at the time of the filing of the notice shall constitute awaiver of such grounds, and a second notice may be filed only on grounds not existing at the time of the original notice. For good cause shown, the United States district court may grant relief from the limitations of this paragraph.
+(2) A notice of removal of a criminal prosecution shall include all grounds for such removal. A failure to state grounds that exist at the time of the filing of the notice shall constitute a waiver of such grounds, and a second notice may be filed only on grounds not existing at the time of the original notice. For good cause shown, the United States district court may grant relief from the limitations of this paragraph.
 
 (3) The filing of a notice of removal of a criminal prosecution shall not prevent the State court in which such prosecution is pending from proceeding further, except that a judgment of conviction shall not be entered unless the prosecution is first remanded.
 

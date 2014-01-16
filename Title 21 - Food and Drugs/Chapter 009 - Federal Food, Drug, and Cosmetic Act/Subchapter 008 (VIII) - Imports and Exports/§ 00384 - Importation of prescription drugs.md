@@ -6,15 +6,15 @@ In this section:
 
 #### (1) Importer
 
-&emsp;The term “importer” means a pharmacist or wholesaler.
+&emsp;The term "importer" means a pharmacist or wholesaler.
 
 #### (2) Pharmacist
 
-&emsp;The term “pharmacist” means a person licensed by a State to practice pharmacy, including the dispensing and selling of prescription drugs.
+&emsp;The term "pharmacist" means a person licensed by a State to practice pharmacy, including the dispensing and selling of prescription drugs.
 
 #### (3) Prescription drug
 
-&emsp;The term “prescription drug” means a drug subject to section 353(b) of this title, other than—
+&emsp;The term "prescription drug" means a drug subject to section 353(b) of this title, other than—
 
 &emsp;&emsp;(A) a controlled substance (as defined in section 802 of this title);
 
@@ -30,17 +30,17 @@ In this section:
 
 #### (4) Qualifying laboratory
 
-&emsp;The term “qualifying laboratory” means a laboratory in the United States that has been approved by the Secretary for the purposes of this section.
+&emsp;The term "qualifying laboratory" means a laboratory in the United States that has been approved by the Secretary for the purposes of this section.
 
 #### (5) Wholesaler
 
 #### (A) In general
 
-&emsp;&emsp;The term “wholesaler” means a person licensed as a wholesaler or distributor of prescription drugs in the United States under section 353(e)(2)(A) of this title.
+&emsp;&emsp;The term "wholesaler" means a person licensed as a wholesaler or distributor of prescription drugs in the United States under section 353(e)(2)(A) of this title.
 
 #### (B) Exclusion
 
-&emsp;&emsp;The term “wholesaler” does not include a person authorized to import drugs under section 381(d)(1) of this title.
+&emsp;&emsp;The term "wholesaler" does not include a person authorized to import drugs under section 381(d)(1) of this title.
 
 #### (b) Regulations
 
@@ -54,7 +54,7 @@ The regulations under subsection (b) of this section shall—
 
 &emsp;(2) require that an importer of a prescription drug under the regulations comply with subsections (d)(1) and (e) of this section; and
 
-&emsp;(3) contain any additional provisions determined by the Secretary to be appropriate as a safeguard to protect the public health or as ameans to facilitate the importation of prescription drugs.
+&emsp;(3) contain any additional provisions determined by the Secretary to be appropriate as a safeguard to protect the public health or as a means to facilitate the importation of prescription drugs.
 
 #### (d) Information and records
 
@@ -102,7 +102,7 @@ The regulations under subsection (b) of this section shall—
 
 &emsp;&emsp;&emsp;(ii) meets all labeling requirements under this chapter.
 
-&emsp;&emsp;(L) Laboratory records, including complete data derived from all tests necessary to ensure that the prescription drug is in compliance with established specifications and standards.
+&emsp;&emsp;(L) Laboratory records, including complete data derived from all tests necessaryto ensure that the prescription drug is in compliance with established specifications and standards.
 
 &emsp;&emsp;(M) Documentation demonstrating that the testing required by subparagraphs (J) and (L) was conducted at a qualifying laboratory.
 

@@ -20,13 +20,13 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+<b>1992</b>—Pub. L. 102–572 substituted "United States Court of Federal Claims" for "United States Claims Court".
 
-<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+<b>1982</b>—Pub. L. 97–164 substituted "United States Claims Court" for "Court of Claims".
 
-<b>1954</b>—Act Sept. 3, 1954, struck out “United States” from name of Court of Claims.
+<b>1954</b>—Act Sept. 3, 1954, struck out "United States" from name of Court of Claims.
 
-<b>1953</b>—Act July 28, 1953, substituted “United States Court of Claims” for “Court of Claims”, inserted “to or from” after “due”, and inserted “and to render judgment thereon,”.
+<b>1953</b>—Act July 28, 1953, substituted "United States Court of Claims" for "Court of Claims", inserted "to or from" after "due", and inserted "and to render judgment thereon,".
 
 #### Effective Date of 1992 Amendment
 
@@ -36,5 +36,5 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “thereon,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "thereon,".</i>
 

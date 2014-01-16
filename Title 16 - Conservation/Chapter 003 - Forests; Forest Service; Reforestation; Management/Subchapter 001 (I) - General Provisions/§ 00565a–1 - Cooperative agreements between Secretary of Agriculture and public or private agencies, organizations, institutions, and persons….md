@@ -6,11 +6,11 @@ To facilitate the administration of the programs and activities of the Forest Se
 
 #### Codification
 
-“Section 3324(a) and (b) of title 31” substituted in text for “the Act of January 31, 1823 (Rev. Stat. 3648, as amended; 31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+"Section 3324(a) and (b) of title 31" substituted in text for "the Act of January 31, 1823 (Rev. Stat. 3648, as amended; 31 U.S.C. 529)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Mutual Benefit of Agreements to Forest Service and Other Parties
 
-Pub. L. 108–7, div. F, title III, §321, Feb. 20, 2003, 117 Stat. 274, as amended by Pub. L. 109–54, title IV, §426, Aug. 2, 2005, 119 Stat. 555; Pub. L. 110–161, div. F, title IV, §417, Dec. 26, 2007, 121 Stat. 2149, provided that: “Until September 30, 2010, the authority of the Secretary of Agriculture to enter into an agreement under the first section of Public Law 94–148 (16 U.S.C. 565a–1) for a purpose described in such section includes the authority to use that legal instrument when the principal purpose of the resulting relationship is to the mutually significant benefit of the Forest Service and the other party or parties to the agreement, including nonprofit entities. An agreement entered into under this section shall not be subject to Public Law 95–224, Federal Grant and Cooperative Agreement Act (1977) \[see section 6301 et seq. of Title 31, Money and Finance\].”
+Pub. L. 108–7, div. F, title III, §321, Feb. 20, 2003, 117 Stat. 274, as amended by Pub. L. 109–54, title IV, §426, Aug. 2, 2005, 119 Stat. 555; Pub. L. 110–161, div. F, title IV, §417, Dec. 26, 2007, 121 Stat. 2149, provided that: "Until September 30, 2010, the authority of the Secretary of Agriculture to enter into an agreement under the first section of Public Law 94–148 (16 U.S.C. 565a–1) for a purpose described in such section includes the authority to use that legal instrument when the principal purpose of the resulting relationship is to the mutually significant benefit of the Forest Service and the other party or parties to the agreement, including nonprofit entities. An agreement entered into under this section shall not be subject to Public Law 95–224, Federal Grant and Cooperative Agreement Act (1977) \[see section 6301 et seq. of Title 31, Money and Finance\]."
 
 Similar provisions were contained in the following prior appropriation act:
 

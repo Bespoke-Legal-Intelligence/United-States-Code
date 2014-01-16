@@ -1,6 +1,6 @@
 ### §6132. Prohibition of coercion
 
-(a) An employee may not directly or indirectly intimidate, threaten, or coerce, or attempt tointimidate, threaten, or coerce, any other employee for the purpose of interfering with—
+(a) An employee may not directly or indirectly intimidate, threaten, or coerce, or attempt to intimidate, threaten, or coerce, any other employee for the purpose of interfering with—
 
 &emsp;(1) such employee's rights under sections 6122 through 6126 of this title to elect a time of arrival or departure, to work or not to work credit hours, or to request or not to request compensatory time off in lieu of payment for overtime hours; or
 

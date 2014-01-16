@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 R.S. §4219 (4th sentence words after semicolon); Feb. 27, 1877, ch. 69, §1, 19 Stat. 250.
 
-The words “If the President is satisfied . . . the President shall suspend the imposition” are substituted for “none of the duties . . . shall be levied . . . if the President of the United States shall be satisfied”, the words “does not impose” are substituted for “have been abolished”, and the words “special tonnage taxes and light money” are substituted for “duties on tonnage above mentioned”, for clarity.
+The words "If the President is satisfied . . . the President shall suspend the imposition" are substituted for "none of the duties . . . shall be levied . . . if the President of the United States shall be satisfied", the words "does not impose" are substituted for "have been abolished", and the words "special tonnage taxes and light money" are substituted for "duties on tonnage above mentioned", for clarity.
 

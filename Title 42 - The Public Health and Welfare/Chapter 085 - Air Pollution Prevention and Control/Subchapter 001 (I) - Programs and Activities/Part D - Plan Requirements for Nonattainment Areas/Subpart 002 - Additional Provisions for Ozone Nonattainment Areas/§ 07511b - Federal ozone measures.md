@@ -30,15 +30,15 @@ Within 1 year after November 15, 1990, the Administrator shall provide guidance 
 
 #### (A) Best available controls
 
-&emsp;&emsp;The term “best available controls” means the degree of emissions reduction that the Administrator determines, on the basis of technological and economic feasibility, health, environmental, and energy impacts, is achievable through the application of the most effective equipment, measures, processes, methods, systems or techniques, including chemical reformulation, product or feedstock substitution, repackaging, and directions for use, consumption, storage, or disposal.
+&emsp;&emsp;The term "best available controls" means the degree of emissions reduction that the Administrator determines, on the basis of technological and economic feasibility, health, environmental, and energy impacts, is achievable through the application of the most effective equipment, measures, processes, methods, systems or techniques, including chemical reformulation, product or feedstock substitution, repackaging, and directions for use, consumption, storage, or disposal.
 
 #### (B) Consumer or commercial product
 
-&emsp;&emsp;The term “consumer or commercial product” means any substance, product (including paints, coatings, and solvents), or article (including any container or packaging) held by any person, the use, consumption, storage, disposal, destruction, or decomposition of which may result in the release of volatile organic compounds. The term does not include fuels or fuel additives regulated under section 7545 of this title, or motor vehicles, non-road vehicles, and non-road engines as defined under section 7550 of this title.
+&emsp;&emsp;The term "consumer or commercial product" means any substance, product (including paints, coatings, and solvents), or article (including any container or packaging) held by any person, the use, consumption, storage, disposal, destruction, or decomposition of which may result in the release of volatile organic compounds. The term does not include fuels or fuel additives regulated under section 7545 of this title, or motor vehicles, non-road vehicles, and non-road engines as defined under section 7550 of this title.
 
 #### (C) Regulated entities
 
-&emsp;&emsp;The term “regulated entities” means—
+&emsp;&emsp;The term "regulated entities" means—
 
 &emsp;&emsp;&emsp;(i) manufacturers, processors, wholesale distributors, or importers of consumer or commercial products for sale or distribution in interstate commerce in the United States; or
 
@@ -156,7 +156,7 @@ The Administrator shall conduct a study of whether the methodology in use by the
 
 #### (3) State election
 
-&emsp;The prohibition set forth in paragraph (1) shall not apply in any State that elects to be exempt from the prohibition. Such an election shall take effect upon the President's receipt of written notice from the Governor of the State notifying the President of such election.
+&emsp;The prohibition set forth in paragraph (1) shall not apply in any State that elects to beexempt from the prohibition. Such an election shall take effect upon the President's receipt of written notice from the Governor of the State notifying the President of such election.
 
 #### (4) Alternative approach
 
@@ -174,7 +174,7 @@ The Administrator shall conduct a study of whether the methodology in use by the
 
 #### (5) Definition of covered ozone nonattainment area
 
-&emsp;In this section, the term “covered ozone nonattainment area” means a Serious Area, as classified under section 7511 of this title as of October 27, 1998.
+&emsp;In this section, the term "covered ozone nonattainment area" means a Serious Area, as classified under section 7511 of this title as of October 27, 1998.
 
 (July 14, 1955, ch. 360, title I, §183, as added Pub. L. 101–549, title I, §103, Nov. 15, 1990, 104 Stat. 2443; amended Pub. L. 105–286, §2, Oct. 27, 1998, 112 Stat. 2773.)
 
@@ -190,13 +190,13 @@ The Solid Waste Disposal Act, referred to in subsec. (b)(2), is title II of Pub.
 
 Pub. L. 105–286, §3, Oct. 27, 1998, 112 Stat. 2774, provided that:
 
-“(a)
+"(a)
 
 In General.—The amendment made by section 2 \[amending this section\] takes effect 180 days after the date of the enactment of this Act \[Oct. 27, 1998\]. Nothing in that amendment shall require action that is inconsistent with the obligations of the United States under any international agreement.
 
-“(b)
+"(b)
 
-Information.—As soon as practicable after the date of the enactment of this Act, the appropriate agency of the United States shall distribute information to publicize the prohibition set forth in the amendment made by section 2.”
+Information.—As soon as practicable after the date of the enactment of this Act, the appropriate agency of the United States shall distribute information to publicize the prohibition set forth in the amendment made by section 2."
 
 #### Transfer of Functions
 

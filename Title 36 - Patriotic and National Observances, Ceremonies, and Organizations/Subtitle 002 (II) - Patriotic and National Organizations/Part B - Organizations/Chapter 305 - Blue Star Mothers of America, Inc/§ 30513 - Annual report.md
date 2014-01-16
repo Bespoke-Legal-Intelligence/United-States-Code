@@ -20,7 +20,7 @@ Historical and Revision Notes
 
 July 14, 1960, Pub. L. 86–653, §15, 74 Stat. 518.
 
-The words “covering such fiscal year” are omitted as unnecessary.
+The words "covering such fiscal year" are omitted as unnecessary.
 
 #### Termination of Reporting Requirements
 

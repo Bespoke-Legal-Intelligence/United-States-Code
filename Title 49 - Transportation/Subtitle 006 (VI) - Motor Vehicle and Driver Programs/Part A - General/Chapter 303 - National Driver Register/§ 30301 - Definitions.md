@@ -2,25 +2,25 @@
 
 In this chapter—
 
-&emsp;(1) “alcohol” has the same meaning given that term in regulations prescribed by the Secretary of Transportation.
+&emsp;(1) "alcohol" has the same meaning given that term in regulations prescribed by the Secretary of Transportation.
 
-&emsp;(2) “chief driver licensing official” means the official in a State who is authorized to—
+&emsp;(2) "chief driver licensing official" means the official in a State who is authorized to—
 
 &emsp;&emsp;(A) maintain a record about a motor vehicle operator's license issued by the State; and
 
 &emsp;&emsp;(B) issue, deny, revoke, suspend, or cancel a motor vehicle operator's license issued by the State.
 
-&emsp;(3) “controlled substance” has the same meaning given that term in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802).
+&emsp;(3) "controlled substance" has the same meaning given that term in section 102 of theComprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802).
 
-&emsp;(4) “motor vehicle” means a vehicle, machine, tractor, trailer, or semitrailer propelled or drawn by mechanical power and used on public streets, roads, or highways, but does not include a vehicle operated only on a rail line.
+&emsp;(4) "motor vehicle" means a vehicle, machine, tractor, trailer, or semitrailer propelled or drawn by mechanical power and used on public streets, roads, or highways, but does not include a vehicle operated only on a rail line.
 
-&emsp;(5) “motor vehicle operator's license” means a license issued by a State authorizing an individual to operate a motor vehicle on public streets, roads, or highways.
+&emsp;(5) "motor vehicle operator's license" means a license issued by a State authorizing an individual to operate a motor vehicle on public streets, roads, or highways.
 
-&emsp;(6) “participating State” means a State that has notified the Secretary under section 30303 of this title of its participation in the National Driver Register.
+&emsp;(6) "participating State" means a State that has notified the Secretary under section 30303 of this title of its participation in the National Driver Register.
 
-&emsp;(7) “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+&emsp;(7) "State" means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
-&emsp;(8) “State of record” means a State that has given the Secretary a report under section 30304 of this title about an individual who is the subject of a request for information made under section 30305 of this title.
+&emsp;(8) "State of record" means a State that has given the Secretary a report under section 30304 of this title about an individual who is the subject of a request for information made under section 30305 of this title.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 973.)
 
@@ -40,11 +40,11 @@ Historical and Revision Notes
 
 Oct. 25, 1982, Pub. L. 97–364, §202, 96 Stat. 1740.
 
-In clauses (4) and (5), the words “public streets, roads, or highways” are substituted for “highway” and “ ‘highway’ means any road or street” for consistency in the revised title.
+In clauses (4) and (5), the words "public streets, roads, or highways" are substituted for "highway" and " 'highway' means any road or street" for consistency in the revised title.
 
-In clause (4), the words “rail line” are substituted for “rail or rails” for consistency in the revised title.
+In clause (4), the words "rail line" are substituted for "rail or rails" for consistency in the revised title.
 
-The definitions of “Secretary”, “Register”, and “Register system” are omitted as surplus because the complete name of the Secretary of Transportation and the National Driver Register are used the first time the terms appear in a section.
+The definitions of "Secretary", "Register", and "Register system" are omitted as surplus because the complete name of the Secretary of Transportation and the National Driver Register are used the first time the terms appear in a section.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -52,253 +52,253 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Protection of Domestic Violence and Crime Victims From Certain Disclosures of Information
 
-Pub. L. 109–162, title VIII, §827, Jan. 5, 2006, 119 Stat. 3066, provided that: “In developing regulations or guidance with regard to identification documents, including driver's licenses, the Secretary of Homeland Security, in consultation with the Administrator of Social Security, shall consider and address the needs of victims, including victims of battery, extreme cruelty, domestic violence, dating violence, sexual assault, stalking or trafficking, who are entitled to enroll in State address confidentiality programs, whose addresses are entitled to be suppressed under State or Federal law or suppressed by a court order, or who are protected from disclosure of information pursuant to section 384 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1367).”
+Pub. L. 109–162, title VIII, §827, Jan. 5, 2006, 119 Stat. 3066, provided that: "In developing regulations or guidance with regard to identification documents, including driver's licenses, the Secretary of Homeland Security, in consultation with the Administrator of Social Security, shall consider and address the needs of victims, including victims of battery, extreme cruelty, domestic violence, dating violence, sexual assault, stalking or trafficking, who are entitled to enroll in State address confidentiality programs, whose addresses are entitled to be suppressed under State or Federal law or suppressed by a court order, or who are protected from disclosure of information pursuant to section 384 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1367)."
 
-#### Improved Security for Drivers’ Licenses and Personal Identification Cards
+#### Improved Security for Drivers' Licenses and Personal Identification Cards
 
 Pub. L. 110–177, title V, §508, Jan. 7, 2008, 121 Stat. 2543, provided that:
 
-“(a)
+"(a)
 
 Minimum Document Requirements.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Minimum requirements.—For purposes of section 202(b)(6) of the REAL ID Act of 2005 \[div. B of Pub. L. 109–13\] (49 U.S.C. 30301 note), a State may, in the case of an individual described in subparagraph (A) or (B) of paragraph (2), include in a driver's license or other identification card issued to that individual by the State, the address specified in that subparagraph in lieu of the individual's address of principle residence.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Individuals and information.—The individuals and addresses referred to in paragraph (1) are the following:
 
-&emsp;&emsp;“(A) In the case of a Justice of the United States, the address of the United States Supreme Court.
+&emsp;&emsp;"(A) In the case of a Justice of the United States, the address of the United States Supreme Court.
 
-&emsp;&emsp;“(B) In the case of a judge of a Federal court, the address of the courthouse.
+&emsp;&emsp;"(B) In the case of a judge of a Federal court, the address of the courthouse.
 
-“(b)
+"(b)
 
-Verification of Information.—For purposes of section 202(c)(1)(D) of the REAL ID Act of 2005 (49 U.S.C. 30301 note), in the case of an individual described in subparagraph (A) or (B) of subsection (a)(2), a State need only require documentation of the address appearing on the individual's driver's license or other identification card issued by that State to the individual.”
+Verification of Information.—For purposes of section 202(c)(1)(D) of the REAL ID Act of 2005 (49 U.S.C. 30301 note), in the case of an individual described in subparagraph (A) or (B) of subsection (a)(2), a State need only require documentation of the address appearing on the individual's driver's license or other identification card issued by that State to the individual."
 
 Pub. L. 109–13, div. B, title II, May 11, 2005, 119 Stat. 311, provided that:
 
-#### “SEC. 201. DEFINITIONS.
+#### "SEC. 201. DEFINITIONS.
 
-“In this title, the following definitions apply:
+"In this title, the following definitions apply:
 
-&emsp;“(1)
+&emsp;"(1)
 
-Driver's license.—The term ‘driver's license’ means a motor vehicle operator's license, as defined in section 30301 of title 49, United States Code.
+Driver's license.—The term 'driver's license' means a motor vehicle operator's license, as defined in section 30301 of title 49, United States Code.
 
-&emsp;“(2)
+&emsp;"(2)
 
-Identification card.—The term ‘identification card’ means a personal identification card, as defined in section 1028(d) of title 18, United States Code, issued by a State.
+Identification card.—The term 'identification card' means a personal identification card, as defined in section 1028(d) of title 18, United States Code, issued by a State.
 
-&emsp;“(3)
+&emsp;"(3)
 
-Official purpose.—The term ‘official purpose’ includes but is not limited to accessing Federal facilities, boarding federally regulated commercial aircraft, entering nuclear power plants, and any other purposes that the Secretary shall determine.
+Official purpose.—The term 'official purpose' includes but is not limited to accessing Federal facilities, boarding federally regulated commercial aircraft, entering nuclear power plants, and any other purposes that the Secretary shall determine.
 
-&emsp;“(4)
+&emsp;"(4)
 
-Secretary.—The term ‘Secretary’ means the Secretary of Homeland Security.
+Secretary.—The term 'Secretary' means the Secretary of Homeland Security.
 
-&emsp;“(5)
+&emsp;"(5)
 
-State.—The term ‘State’ means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+State.—The term 'State' means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
-#### “SEC. 202. MINIMUM DOCUMENT REQUIREMENTS AND ISSUANCE STANDARDS FOR FEDERAL RECOGNITION.
+#### "SEC. 202. MINIMUM DOCUMENT REQUIREMENTS AND ISSUANCE STANDARDS FOR FEDERAL RECOGNITION.
 
-“(a)
+"(a)
 
 Minimum Standards for Federal Use.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—Beginning 3 years after the date of the enactment of this division \[May 11, 2005\], a Federal agency may not accept, for any official purpose, a driver's license or identification card issued by a State to any person unless the State is meeting the requirements of this section.
 
-&emsp;“(2)
+&emsp;"(2)
 
 State certifications.—The Secretary shall determine whether a State is meeting the requirements of this section based on certifications made by the State to the Secretary. Such certifications shall be made at such times and in such manner as the Secretary, in consultation with the Secretary of Transportation, may prescribe by regulation.
 
-“(b)
+"(b)
 
 Minimum Document Requirements.—To meet the requirements of this section, a State shall include, at a minimum, the following information and features on each driver's license and identification card issued to a person by the State:
 
-&emsp;“(1) The person's full legal name.
+&emsp;"(1) The person's full legal name.
 
-&emsp;“(2) The person's date of birth.
+&emsp;"(2) The person's date of birth.
 
-&emsp;“(3) The person's gender.
+&emsp;"(3) The person's gender.
 
-&emsp;“(4) The person's driver's license or identification card number.
+&emsp;"(4) The person's driver's license or identification card number.
 
-&emsp;“(5) A digital photograph of the person.
+&emsp;"(5) A digital photograph of the person.
 
-&emsp;“(6) The person's address of principle residence.
+&emsp;"(6) The person's address of principle residence.
 
-&emsp;“(7) The person's signature.
+&emsp;"(7) The person's signature.
 
-&emsp;“(8) Physical security features designed to prevent tampering, counterfeiting, or duplication of the document for fraudulent purposes.
+&emsp;"(8) Physical security features designed to prevent tampering, counterfeiting, or duplication of the document for fraudulent purposes.
 
-&emsp;“(9) A common machine-readable technology, with defined minimum data elements.
+&emsp;"(9) A common machine-readable technology, with defined minimum data elements.
 
-“(c)
+"(c)
 
 Minimum Issuance Standards.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—To meet the requirements of this section, a State shall require, at a minimum, presentation and verification of the following information before issuing a driver's license or identification card to a person:
 
-&emsp;&emsp;“(A) A photo identity document, except that a non-photo identity document is acceptable if it includes both the person's full legal name and date of birth.
+&emsp;&emsp;"(A) A photo identity document, except that a non-photo identity document is acceptable if it includes both the person's full legal name and date of birth.
 
-&emsp;&emsp;“(B) Documentation showing the person's date of birth.
+&emsp;&emsp;"(B) Documentation showing the person's date of birth.
 
-&emsp;&emsp;“(C) Proof of the person's social security account number or verification that the person is not eligible for a social security account number.
+&emsp;&emsp;"(C) Proof of the person's social security account number or verification that the person is not eligible for a social security account number.
 
-&emsp;&emsp;“(D) Documentation showing the person's name and address of principal residence.
+&emsp;&emsp;"(D) Documentation showing the person's name and address of principal residence.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Special requirements.—
 
-&emsp;&emsp;“(A)
+&emsp;&emsp;"(A)
 
 In general.—To meet the requirements of this section, a State shall comply with the minimum standards of this paragraph.
 
-&emsp;&emsp;“(B)
+&emsp;&emsp;"(B)
 
 Evidence of lawful status.—A State shall require, before issuing a driver's license or identification card to a person, valid documentary evidence that the person—
 
-&emsp;&emsp;&emsp;“(i) is a citizen or national of the United States;
+&emsp;&emsp;&emsp;"(i) is a citizen or national of the United States;
 
-&emsp;&emsp;&emsp;“(ii) is an alien lawfully admitted for permanent or temporary residence in the United States;
+&emsp;&emsp;&emsp;"(ii) is an alien lawfully admitted for permanent or temporary residence in the United States;
 
-&emsp;&emsp;&emsp;“(iii) has conditional permanent resident status in the United States;
+&emsp;&emsp;&emsp;"(iii) has conditional permanent resident status in the United States;
 
-&emsp;&emsp;&emsp;“(iv) has an approved application for asylum in the United States or has entered into the United States in refugee status;
+&emsp;&emsp;&emsp;"(iv) has an approved application for asylum in the United States or has entered into the United States in refugee status;
 
-&emsp;&emsp;&emsp;“(v) has a valid, unexpired nonimmigrant visa or nonimmigrant visa status for entry into the United States;
+&emsp;&emsp;&emsp;"(v) has a valid, unexpired nonimmigrant visa or nonimmigrant visa status for entry into the United States;
 
-&emsp;&emsp;&emsp;“(vi) has a pending application for asylum in the United States;
+&emsp;&emsp;&emsp;"(vi) has a pending application for asylum in the United States;
 
-&emsp;&emsp;&emsp;“(vii) has a pending or approved application for temporary protected status in the United States;
+&emsp;&emsp;&emsp;"(vii) has a pending or approved application for temporary protected status in the United States;
 
-&emsp;&emsp;&emsp;“(viii) has approved deferred action status; or
+&emsp;&emsp;&emsp;"(viii) has approved deferred action status; or
 
-&emsp;&emsp;&emsp;“(ix) has a pending application for adjustment of status to that of an alien lawfully admitted for permanent residence in the United States or conditional permanent resident status in the United States.
+&emsp;&emsp;&emsp;"(ix) has a pending application for adjustment of status to that of an alien lawfully admitted for permanent residence in the United States or conditional permanent resident status in the United States.
 
-&emsp;&emsp;“(C)
+&emsp;&emsp;"(C)
 
-Temporary drivers’ licenses and identification cards.—
+Temporary drivers' licenses and identification cards.—
 
-&emsp;&emsp;&emsp;“(i)
+&emsp;&emsp;&emsp;"(i)
 
 In general.—If a person presents evidence under any of clauses (v) through (ix) of subparagraph (B), the State may only issue a temporary driver's license or temporary identification card to the person.
 
-&emsp;&emsp;&emsp;“(ii)
+&emsp;&emsp;&emsp;"(ii)
 
 Expiration date.—A temporary driver's license or temporary identification card issued pursuant to this subparagraph shall be valid only during the period of time of the applicant's authorized stay in the United States or, if there is no definite end to the period of authorized stay, a period of one year.
 
-&emsp;&emsp;&emsp;“(iii)
+&emsp;&emsp;&emsp;"(iii)
 
 Display of expiration date.—A temporary driver's license or temporary identification card issued pursuant to this subparagraph shall clearly indicate that it is temporary and shall state the date on which it expires.
 
-&emsp;&emsp;&emsp;“(iv)
+&emsp;&emsp;&emsp;"(iv)
 
 Renewal.—A temporary driver's license or temporary identification card issued pursuant to this subparagraph may be renewed only upon presentation of valid documentary evidence that the status by which the applicant qualified for the temporary driver's license or temporary identification card has been extended by the Secretary of Homeland Security.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Verification of documents.—To meet the requirements of this section, a State shall implement the following procedures:
 
-&emsp;&emsp;“(A) Before issuing a driver's license or identification card to a person, the State shall verify, with the issuing agency, the issuance, validity, and completeness of each document required to be presented by the person under paragraph (1) or (2).
+&emsp;&emsp;"(A) Before issuing a driver's license or identification card to a person, the State shall verify, with the issuing agency, the issuance, validity, and completeness of each document required to be presented by the person under paragraph (1) or (2).
 
-&emsp;&emsp;“(B) The State shall not accept any foreign document, other than an official passport, to satisfy a requirement of paragraph (1) or (2).
+&emsp;&emsp;"(B) The State shall not accept any foreign document, other than an official passport, to satisfy a requirement of paragraph (1) or (2).
 
-&emsp;&emsp;“(C) Not later than September 11, 2005, the State shall enter into a memorandum of understanding with the Secretary of Homeland Security to routinely utilize the automated system known as Systematic Alien Verification for Entitlements, as provided for by section 404 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208, div. C, 8 U.S.C. 1324a note\] (110 Stat. 3009–664), to verify the legal presence status of a person, other than a United States citizen, applying for a driver's license or identification card.
+&emsp;&emsp;"(C) Not later than September 11, 2005, the State shall enter into a memorandum of understanding with the Secretary of Homeland Security to routinely utilize the automated system known as Systematic Alien Verification for Entitlements, as provided for by section 404 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 \[Pub. L. 104–208, div. C, 8 U.S.C. 1324a note\] (110 Stat. 3009–664), to verify the legal presence status of a person, other than a United States citizen, applying for a driver's license or identification card.
 
-“(d)
+"(d)
 
-Other Requirements.—To meet the requirements of this section, a State shall adopt the following practices in the issuance of drivers’ licenses and identification cards:
+Other Requirements.—To meet the requirements of this section, a State shall adopt the following practices in the issuance of drivers' licenses and identification cards:
 
-&emsp;“(1) Employ technology to capture digital images of identity source documents so that the images can be retained in electronic storage in a transferable format.
+&emsp;"(1) Employ technology to capture digital images of identity source documents so that the images can be retained in electronic storage in a transferable format.
 
-&emsp;“(2) Retain paper copies of source documents for a minimum of 7 years or images of source documents presented for a minimum of 10 years.
+&emsp;"(2) Retain paper copies of source documents for a minimum of 7 years or images of source documents presented for a minimum of 10 years.
 
-&emsp;“(3) Subject each person applying for a driver's license or identification card to mandatory facial image capture.
+&emsp;"(3) Subject each person applying for a driver's license or identification card to mandatory facial image capture.
 
-&emsp;“(4) Establish an effective procedure to confirm or verify a renewing applicant's information.
+&emsp;"(4) Establish an effective procedure to confirm or verify a renewing applicant's information.
 
-&emsp;“(5) Confirm with the Social Security Administration a social security account number presented by a person using the full social security account number. In the event that a social security account number is already registered to or associated with another person to which any State has issued a driver's license or identification card, the State shall resolve the discrepancy and take appropriate action.
+&emsp;"(5) Confirm with the Social Security Administration a social security account number presented by a person using the full social security account number. In the event that a social security account number is already registered to or associated with another person to which any State has issued a driver's license or identification card, the State shall resolve the discrepancy and take appropriate action.
 
-&emsp;“(6) Refuse to issue a driver's license or identification card to a person holding a driver's license issued by another State without confirmation that the person is terminating or has terminated the driver's license.
+&emsp;"(6) Refuse to issue a driver's license or identification card to a person holding a driver's license issued by another State without confirmation that the person is terminating or has terminated the driver's license.
 
-&emsp;“(7) Ensure the physical security of locations where drivers’ licenses and identification cards are produced and the security of document materials and papers from which drivers’ licenses and identification cards are produced.
+&emsp;"(7) Ensure the physical security of locations where drivers' licenses and identification cards are produced and the security of document materials and papers from which drivers' licenses and identification cards are produced.
 
-&emsp;“(8) Subject all persons authorized to manufacture or produce drivers’ licenses and identification cards to appropriate security clearance requirements.
+&emsp;"(8) Subject all persons authorized to manufacture or produce drivers' licenses and identification cards to appropriate security clearance requirements.
 
-&emsp;“(9) Establish fraudulent document recognition training programs for appropriate employees engaged in the issuance of drivers’ licenses and identification cards.
+&emsp;"(9) Establish fraudulent document recognition training programs for appropriate employees engaged in the issuance of drivers' licenses and identification cards.
 
-&emsp;“(10) Limit the period of validity of all driver's licenses and identification cards that are not temporary to a period that does not exceed 8 years.
+&emsp;"(10) Limit the period of validity of all driver's licenses and identification cards that are not temporary to a period that does not exceed 8 years.
 
-&emsp;“(11) In any case in which the State issues a driver's license or identification card that does not satisfy the requirements of this section, ensure that such license or identification card—
+&emsp;"(11) In any case in which the State issues a driver's license or identification card that does not satisfy the requirements of this section, ensure that such license or identification card—
 
-&emsp;&emsp;“(A) clearly states on its face that it may not be accepted by any Federal agency for federal identification or any other official purpose; and
+&emsp;&emsp;"(A) clearly states on its face that it may not be accepted by any Federal agency for federal identification or any other official purpose; and
 
-&emsp;&emsp;“(B) uses a unique design or color indicator to alert Federal agency and other law enforcement personnel that it may not be accepted for any such purpose.
+&emsp;&emsp;"(B) uses a unique design or color indicator to alert Federal agency and other law enforcement personnel that it may not be accepted for any such purpose.
 
-&emsp;“(12) Provide electronic access to all other States to information contained in the motor vehicle database of the State.
+&emsp;"(12) Provide electronic access to all other States to information contained in the motor vehicle database of the State.
 
-&emsp;“(13) Maintain a State motor vehicle database that contains, at a minimum—
+&emsp;"(13) Maintain a State motor vehicle database that contains, at a minimum—
 
-&emsp;&emsp;“(A) all data fields printed on drivers’ licenses and identification cards issued by the State; and
+&emsp;&emsp;"(A) all data fields printed on drivers' licenses and identification cards issued by the State; and
 
-&emsp;&emsp;“(B) motor vehicle drivers’ histories, including motor vehicle violations, suspensions, and points on licenses.
+&emsp;&emsp;"(B) motor vehicle drivers' histories, including motor vehicle violations, suspensions, and points on licenses.
 
-#### “SEC. 203. TRAFFICKING IN AUTHENTICATION FEATURES FOR USE IN FALSE IDENTIFICATION DOCUMENTS.
+#### "SEC. 203. TRAFFICKING IN AUTHENTICATION FEATURES FOR USE IN FALSE IDENTIFICATION DOCUMENTS.
 
-“(a)
+"(a)
 
 Criminal Penalty.—\[Amended section 1028 of Title 18, Crimes and Criminal Procedure.\]
 
-“(b)
+"(b)
 
 Use of False Driver's License at Airports.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—The Secretary shall enter, into the appropriate aviation security screening database, appropriate information regarding any person convicted of using a false driver's license at an airport (as such term is defined in section 40102 of title 49, United States Code).
 
-&emsp;“(2)
+&emsp;"(2)
 
-False defined.—In this subsection, the term ‘false’ has the same meaning such term has under section 1028(d) of title 18, United States Code.
+False defined.—In this subsection, the term 'false' has the same meaning such term has under section 1028(d) of title 18, United States Code.
 
-#### “SEC. 204. GRANTS TO STATES.
+#### "SEC. 204. GRANTS TO STATES.
 
-“(a)
+"(a)
 
 In General.—The Secretary may make grants to a State to assist the State in conforming to the minimum standards set forth in this title.
 
-“(b)
+"(b)
 
 Authorization of Appropriations.—There are authorized to be appropriated to the Secretary for each of the fiscal years 2005 through 2009 such sums as may be necessary to carry out this title.
 
-#### “SEC. 205. AUTHORITY.
+#### "SEC. 205. AUTHORITY.
 
-“(a)
+"(a)
 
 Participation of Secretary of Transportation and States.—All authority to issue regulations, set standards, and issue grants under this title shall be carried out by the Secretary, in consultation with the Secretary of Transportation and the States.
 
-“(b)
+"(b)
 
 Extensions of Deadlines.—The Secretary may grant to a State an extension of time to meet the requirements of section 202(a)(1) if the State provides adequate justification for noncompliance.
 
-#### “SEC. 206. REPEAL.
+#### "SEC. 206. REPEAL.
 
-“\[Repealed section 7212 of Pub. L. 108–458, set out below.\]
+"\[Repealed section 7212 of Pub. L. 108–458, set out below.\]
 
-#### “SEC. 207. LIMITATION ON STATUTORY CONSTRUCTION.
+#### "SEC. 207. LIMITATION ON STATUTORY CONSTRUCTION.
 
-“Nothing in this title shall be construed to affect the authorities or responsibilities of the Secretary of Transportation or the States under chapter 303 of title 49, United States Code.”
+"Nothing in this title shall be construed to affect the authorities or responsibilities of the Secretary of Transportation or the States under chapter 303 of title 49, United States Code."
 
 Pub. L. 108–458, title VII, §7212, Dec. 17, 2004, 118 Stat. 3827, which prohibited acceptance by a Federal agency, for any official purpose, of a driver's license or personal identification card issued by a State more than 2 years after the promulgation of minimum standards unless the driver's license or personal identification card conformed to such minimum standards, and directed the Secretary of Transportation, in consultation with the Secretary of Homeland Security, to establish such standards not later than 18 months after Dec. 17, 2004, was repealed by Pub. L. 109–13, div. B, title II, §206, May 11, 2005, 119 Stat. 316.
 
@@ -306,19 +306,19 @@ Pub. L. 108–458, title VII, §7212, Dec. 17, 2004, 118 Stat. 3827, which prohi
 
 Pub. L. 105–178, title II, §2006(c), June 9, 1998, 112 Stat. 336, provided that:
 
-“(1)
+"(1)
 
 Evaluation.—The Secretary shall evaluate the implementation of chapter 303 of title 49, United States Code, and the programs under sections 31106 and 31309 of such title and identify alternatives to improve the ability of the States to exchange information about unsafe drivers and to identify drivers with multiple licenses.
 
-“(2)
+"(2)
 
 Technology assessment.—The Secretary, in conjunction with the American Association of Motor Vehicle Administrators, shall conduct an assessment of available electronic technologies to improve access to and exchange of motor vehicle driving records. The assessment may consider alternative unique motor vehicle driver identifiers that would facilitate accurate matching of drivers and their records.
 
-“(3)
+"(3)
 
 Report to congress.—Not later than 2 years after the date of enactment of this Act \[June 9, 1998\], the Secretary shall transmit to Congress a report on the results of the evaluation and technology assessment, together with any recommendations for appropriate administrative and legislative actions.
 
-“(4)
+"(4)
 
-Authorization of Appropriations.—There is authorized to be appropriated to carry out paragraph (2) $250,000 in the aggregate for fiscal years beginning after September 30, 1998.”
+Authorization of Appropriations.—There is authorized to be appropriated to carry out paragraph (2) $250,000 in the aggregate for fiscal years beginning after September 30, 1998."
 

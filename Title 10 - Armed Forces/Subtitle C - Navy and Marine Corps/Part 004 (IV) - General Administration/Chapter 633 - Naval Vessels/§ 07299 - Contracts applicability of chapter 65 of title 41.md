@@ -10,5 +10,5 @@ A prior section 7299, acts Aug. 10, 1956, ch. 1041, 70A Stat. 449; Aug. 25, 1958
 
 #### Amendments
 
-<b>2011</b>—Pub. L. 111–350 substituted “chapter 65 of title 41” for “Walsh-Healey Act” in section catchline and for “the Walsh-Healey Act (41 U.S.C. 35 et seq.)” in text.
+<b>2011</b>—Pub. L. 111–350 substituted "chapter 65 of title 41" for "Walsh-Healey Act" in section catchline and for "the Walsh-Healey Act (41 U.S.C. 35 et seq.)" in text.
 

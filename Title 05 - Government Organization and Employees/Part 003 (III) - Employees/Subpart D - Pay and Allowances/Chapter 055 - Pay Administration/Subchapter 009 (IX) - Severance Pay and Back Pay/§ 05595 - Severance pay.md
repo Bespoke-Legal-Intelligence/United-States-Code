@@ -24,7 +24,7 @@
 
 > &emsp;but does not include—
 
-&emsp;&emsp;(i) an employee (other than a member of the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or an employee whose pay is fixed under section 5376) whose rate of basic pay is fixed at a rate provided for one of the levels of the Executive Schedule or is in excess of the maximum rate for the Executive Schedule;
+&emsp;&emsp;(i) an employee (other than a member of the Senior Executive Service or the Federal Bureau of Investigation and Drug Enforcement Administration Senior Executive Service, or an employee whose pay is fixed under section 5376) whose rate of basic pay is fixed at a rate provided for one of the levels of theExecutive Schedule or is in excess of the maximum rate for the Executive Schedule;
 
 &emsp;&emsp;(ii) an employee serving under an appointment with a definite time limitation, except one so appointed for full-time employment without a break in service of more than 3 days following service under an appointment without time limitation;
 
@@ -108,13 +108,13 @@
 
 (2)(A) If an employee paid severance pay in a lump sum under this subsection is reemployed by the Government of the United States or the government of the District of Columbia at such time that, had the employee been paid severance pay in regular pay periods under subsection (b), the payments of such pay would have been discontinued under subsection (d) upon such reemployment, the employee shall repay to the Department of Defense (for the military department that formerly employed the employee, if applicable) an amount equal to the amount of severance pay to which the employee was entitled under this section that would not have been paid to the employee under subsection (d) by reason of such reemployment.
 
-(B) The period of service represented by an amount of severance pay repaid by an employeeunder subparagraph (A) shall be considered service for which severance pay has not been received by the employee under this section.
+(B) The period of service represented by an amount of severance pay repaid by an employee under subparagraph (A) shall be considered service for which severance pay has not been received by the employee under this section.
 
 (C) Amounts repaid to an agency under this paragraph shall be credited to the appropriation available for the pay of employees of the agency for the fiscal year in which received. Amounts so credited shall be merged with, and shall be available for the same purposes and the same period as, the other funds in that appropriation.
 
 (3) If an employee fails to repay to an agency an amount required to be repaid under paragraph (2)(A), that amount is recoverable from the employee as a debt due the United States.
 
-(4) This subsection applies with respect to severance pay payable under this section for separations taking effect on or after February 10, 1996, and before October 1, 2014.
+(4) This subsection applies with respect to severance pay payable under this section for separations taking effect on or after February 10, 1996, and before October 1, 2018.
 
 (j)(1) In the case of an employee of the Department of Energy who is entitled to severance pay under this section as a result of the establishment of the National Nuclear Security Administration, the Secretary of Energy may, upon application by the employee, pay the total amount of the severance pay to the employee in one lump sum.
 
@@ -126,7 +126,7 @@
 
 (3) If an employee fails to repay to the Department of Energy an amount required to be repaid under paragraph (2)(A), that amount is recoverable from the employee as a debt due the United States.
 
-(Added Pub. L. 90–83, §1(34)(C), Sept. 11, 1967, 81 Stat. 201; amended Pub. L. 95–454, title IV, §408(a)(3), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title I, §1231(d), Sept. 27, 1979, 93 Stat. 470; Pub. L. 96–465, title II, §2305, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(2), May 30, 1988, 102 Stat. 582; Pub. L. 101–474, §5(k), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(J)\], Nov. 5, 1990, 104 Stat. 1427, 1442; Pub. L. 103–337, div. A, title III, §343(a), Oct. 5, 1994, 108 Stat. 2721; Pub. L. 104–106, div. A, title X, §1035, Feb. 10, 1996, 110 Stat. 430; Pub. L. 105–55, title III, §310(a), Oct. 7, 1997, 111 Stat. 1199; Pub. L. 105–275, title III, §§308(a), 309(a), Oct. 21, 1998, 112 Stat. 2452, 2454; Pub. L. 106–31, title V, §5006, May 21, 1999, 113 Stat. 112; Pub. L. 106–65, div. A, title XI, §1104(a), div. C, title XXXII, §3243, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 107–314, div. A, title XI, §1102(a), Dec. 2, 2002, 116 Stat. 2660; Pub. L. 109–163, div. A, title XI, §1103, Jan. 6, 2006, 119 Stat. 3448; Pub. L. 109–241, title IX, §902(a)(3), July 11, 2006, 120 Stat. 566; Pub. L. 110–417, \[div. A\], title XI, §1104, Oct. 14, 2008, 122 Stat. 4617.)
+(Added Pub. L. 90–83, §1(34)(C), Sept. 11, 1967, 81 Stat. 201; amended Pub. L. 95–454, title IV,§408(a)(3), Oct. 13, 1978, 92 Stat. 1173; Pub. L. 96–70, title I, §1231(d), Sept. 27, 1979, 93 Stat. 470; Pub. L. 96–465, title II, §2305, Oct. 17, 1980, 94 Stat. 2165; Pub. L. 100–325, §2(i)(2), May 30, 1988, 102 Stat. 582; Pub. L. 101–474, §5(k), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–509, title V, §529 \[title I, §101(b)(9)(J)\], Nov. 5, 1990, 104 Stat. 1427, 1442; Pub. L. 103–337, div. A, title III, §343(a), Oct. 5, 1994, 108 Stat. 2721; Pub. L. 104–106, div. A, title X, §1035, Feb. 10, 1996, 110 Stat. 430; Pub. L. 105–55, title III, §310(a), Oct. 7, 1997, 111 Stat. 1199; Pub. L. 105–275, title III, §§308(a), 309(a), Oct. 21, 1998, 112 Stat. 2452, 2454; Pub. L. 106–31, title V, §5006, May 21, 1999, 113 Stat. 112; Pub. L. 106–65, div. A, title XI, §1104(a), div. C, title XXXII, §3243, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 107–314, div. A, title XI, §1102(a), Dec. 2, 2002, 116 Stat. 2660; Pub. L. 109–163, div. A, title XI, §1103, Jan. 6, 2006, 119 Stat. 3448; Pub. L. 109–241, title IX, §902(a)(3), July 11, 2006, 120 Stat. 566; Pub. L. 110–417, \[div. A\], title XI, §1104, Oct. 14, 2008, 122 Stat. 4617; Pub. L. 113–66, div. A, title XI, §1104, Dec. 26, 2013, 127 Stat. 886.)
 
 Historical and Revision Notes
 
@@ -171,6 +171,8 @@ Section 3(a) of the Panama Canal Act of 1979, referred to in subsec. (a)(2)(iii)
 Section 609(b)(1) of the Foreign Service Act of 1980, referred to in subsec. (a)(2)(vi), is classified to section 4009(b)(1) of Title 22.
 
 #### Amendments
+
+<b>2013</b>—Subsec. (i)(4). Pub. L. 113–66 substituted “October 1, 2018” for “October 1, 2014”.
 
 <b>2008</b>—Subsec. (i)(4). Pub. L. 110–417 substituted “2014” for “2010”.
 

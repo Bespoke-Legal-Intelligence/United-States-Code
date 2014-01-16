@@ -34,7 +34,7 @@ June 30, 1906, ch. 3929, §6, 34 Stat. 805; June 14, 1937, ch. 336, §2, 50 Stat
 
 In this section, the text of 36:5302 (last sentence) is omitted as unnecessary and obsolete because it includes authority to change or abolish the departments specified in that provision.
 
-In subsection (a), the words “and the members of” are added for clarity.
+In subsection (a), the words "and the members of" are added for clarity.
 
-In subsection (b), the words “manner of selection” are substituted for “manner of election or appointment” for consistency in the revised title and to eliminate unnecessary words. The words “are as provided in the bylaws” are substituted for “the bylaws of the corporation shall prescribe” for consistency in the revised title.
+In subsection (b), the words "manner of selection" are substituted for "manner of election or appointment" for consistency in the revised title and to eliminate unnecessary words. The words "are as provided in the bylaws" are substituted for "the bylaws of the corporation shall prescribe" for consistency in the revised title.
 

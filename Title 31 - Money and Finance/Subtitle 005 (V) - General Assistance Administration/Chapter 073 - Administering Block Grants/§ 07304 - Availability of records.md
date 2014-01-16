@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Aug. 13, 1981, Pub. L. 97–35, §1744, 95 Stat. 764.
 
-The words “records . . . shall be made available to” are substituted for “shall have access to any books, accounts, records, correspondence, or other documents” for consistency in the revised title and with other titles of the United States Code.
+The words "records . . . shall be made available to" are substituted for "shall have access to any books, accounts, records, correspondence, or other documents" for consistency in the revised title and with other titles of the United States Code.
 
 #### References in Text
 

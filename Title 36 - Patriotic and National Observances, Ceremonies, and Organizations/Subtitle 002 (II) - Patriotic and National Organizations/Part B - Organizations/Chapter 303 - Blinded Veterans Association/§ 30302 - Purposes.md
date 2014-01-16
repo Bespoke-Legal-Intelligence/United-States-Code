@@ -28,5 +28,5 @@ Historical and Revision Notes
 
 Aug. 27, 1958, Pub. L. 85–769, §3(1)–(3), (4) (less words between 1st comma and semicolon), 72 Stat. 924.
 
-In clause (1), the words “to operate as a not-for-profit corporation” are substituted for “To be organized and operated as a corporation not for profit . . . and such corporation is organized and shall be operated” in 36:853(4) to eliminate unnecessary words.
+In clause (1), the words "to operate as a not-for-profit corporation" are substituted for "To be organized and operated as a corporation not for profit . . . and such corporation is organized and shall be operated" in 36:853(4) to eliminate unnecessary words.
 

@@ -4,7 +4,7 @@
 
 #### (1) Establishment
 
-&emsp;Not later than 90 days after December 19, 2007, the President shall establish a Task Force on International Cooperation for Clean and Efficient Energy Technologies (in this section referred to as the “Task Force”).
+&emsp;Not later than 90 days after December 19, 2007, the President shall establish a Task Force on International Cooperation for Clean and Efficient Energy Technologies (in this section referred to as the "Task Force").
 
 #### (2) Composition
 
@@ -60,7 +60,7 @@
 
 &emsp;The Task Force—
 
-&emsp;&emsp;(A) shall establish an Interagency Working Group on the Export of Clean and Efficient Energy Technologies (in this section referred to as the “Interagency Working Group”); and
+&emsp;&emsp;(A) shall establish an Interagency Working Group on the Export of Clean and Efficient Energy Technologies (in this section referred to as the "Interagency Working Group"); and
 
 &emsp;&emsp;(B) may establish other working groups as may be necessary to carry out this section.
 
@@ -80,7 +80,7 @@
 
 &emsp;The Interagency Working Group—
 
-&emsp;&emsp;(A) shall establish an Interagency Center on the Export of Clean and Efficient Energy Technologies (in this section referred to as the “Interagency Center”) to assist the Interagency Working Group in carrying out its duties required under paragraph (3); and
+&emsp;&emsp;(A) shall establish an Interagency Center on the Export of Clean and Efficient Energy Technologies (in this section referred to as the "Interagency Center") to assist the Interagency Working Group in carrying out its duties required under paragraph (3); and
 
 &emsp;&emsp;(B) shall locate the Interagency Center at a site agreed upon by the Co-Chairpersons of the Interagency Working Group, with the approval of the Chairperson or Co-Chairpersons of the Task Force.
 
@@ -92,7 +92,7 @@
 
 &emsp;&emsp;(A) support the development and implementation of programs, policies, and initiatives in developing countries to promote the adoption and deployment of clean and efficient energy technologies, with an emphasis on those developing countries that are expected to experience the most significant growth in energy production and use over the next 20 years;
 
-&emsp;&emsp;(B) open and expand clean and efficient energy technology markets and facilitate theexport of clean and efficient energy technologies to developing countries, in a manner consistent with United States obligations as a member of the World Trade Organization;
+&emsp;&emsp;(B) open and expand clean and efficient energy technology markets and facilitate the export of clean and efficient energy technologies to developing countries, in a manner consistent with United States obligations as a member of the World Trade Organization;
 
 &emsp;&emsp;(C) integrate into the foreign policy objectives of the United States the promotion of—
 

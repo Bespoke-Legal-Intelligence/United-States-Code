@@ -4,11 +4,11 @@ As used in this subchapter—
 
 #### (1) Appliance
 
-&emsp;The term “appliance” means any device which contains and uses a class I or class II substance as a refrigerant and which is used for household or commercial purposes, including any air conditioner, refrigerator, chiller, or freezer.
+&emsp;The term "appliance" means any device which contains and uses a class I or class II substance as a refrigerant and which is used for household or commercial purposes, including any air conditioner, refrigerator, chiller, or freezer.
 
 #### (2) Baseline year
 
-&emsp;The term “baseline year” means—
+&emsp;The term "baseline year" means—
 
 &emsp;&emsp;(A) the calendar year 1986, in the case of any class I substance listed in Group I or II under section 7671a(a) of this title,
 
@@ -22,27 +22,27 @@ As used in this subchapter—
 
 #### (3) Class I substance
 
-&emsp;The term “class I substance” means each of the substances listed as provided in section 7671a(a) of this title.
+&emsp;The term "class I substance" means each of the substances listed as provided in section 7671a(a) of this title.
 
 #### (4) Class II substance
 
-&emsp;The term “class II substance” means each of the substances listed as provided in section 7671a(b) of this title.
+&emsp;The term "class II substance" means each of the substances listed as provided in section 7671a(b) of this title.
 
 #### (5) Commissioner
 
-&emsp;The term “Commissioner” means the Commissioner of the Food and Drug Administration.
+&emsp;The term "Commissioner" means the Commissioner of the Food and Drug Administration.
 
 #### (6) Consumption
 
-&emsp;The term “consumption” means, with respect to any substance, the amount of that substance produced in the United States, plus the amount imported, minus the amount exported to Parties to the Montreal Protocol. Such term shall be construed in a manner consistent with the Montreal Protocol.
+&emsp;The term "consumption" means, with respect to any substance, the amount of that substance produced in the United States, plus the amount imported, minus the amount exported to Parties to the Montreal Protocol. Such term shall be construed in a manner consistent with the Montreal Protocol.
 
 #### (7) Import
 
-&emsp;The term “import” means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
+&emsp;The term "import" means to land on, bring into, or introduce into, or attempt to land on, bring into, or introduce into, any place subject to the jurisdiction of the United States, whether or not such landing, bringing, or introduction constitutes an importation within the meaning of the customs laws of the United States.
 
 #### (8) Medical device
 
-&emsp;The term “medical device” means any device (as defined in the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321)), diagnostic product, drug (as defined in the Federal Food, Drug, and Cosmetic Act), and drug delivery system—
+&emsp;The term "medical device" means any device (as defined in the Federal Food, Drug, and Cosmetic Act (21 U.S.C. 321)), diagnostic product, drug (as defined in the Federal Food, Drug, and Cosmetic Act), and drug delivery system—
 
 &emsp;&emsp;(A) if such device, product, drug, or drug delivery system utilizes a class I or class II substance for which no safe and effective alternative has been developed, and where necessary, approved by the Commissioner; and
 
@@ -50,15 +50,15 @@ As used in this subchapter—
 
 #### (9) Montreal Protocol
 
-&emsp;The terms “Montreal Protocol” and “the Protocol” mean the Montreal Protocol onSubstances that Deplete the Ozone Layer, a protocol to the Vienna Convention for the Protection of the Ozone Layer, including adjustments adopted by Parties thereto and amendments that have entered into force.
+&emsp;The terms "Montreal Protocol" and "the Protocol" mean the Montreal Protocol on Substances that Deplete the Ozone Layer, a protocol to the Vienna Convention for the Protection of the Ozone Layer, including adjustments adopted by Parties thereto and amendments that have entered into force.
 
 #### (10) Ozone-depletion potential
 
-&emsp;The term “ozone-depletion potential” means a factor established by the Administrator to reflect the ozone-depletion potential of a substance, on a mass per kilogram basis, as compared to chlorofluorocarbon-11 (CFC–11). Such factor shall be based upon the substance's atmospheric lifetime, the molecular weight of bromine and chlorine, and the substance's ability to be photolytically disassociated, and upon other factors determined to be an accurate measure of relative ozone-depletion potential.
+&emsp;The term "ozone-depletion potential" means a factor established by the Administrator to reflect the ozone-depletion potential of a substance, on a mass per kilogram basis, as compared to chlorofluorocarbon-11 (CFC–11). Such factor shall be based upon the substance's atmospheric lifetime, the molecular weight of bromine and chlorine, and the substance's ability to be photolytically disassociated, and upon other factors determined to be an accurate measure of relative ozone-depletion potential.
 
 #### (11) Produce, produced, and production
 
-&emsp;The terms “produce”, “produced”, and “production”, refer to the manufacture of a substance from any raw material or feedstock chemical, but such terms do not include—
+&emsp;The terms "produce", "produced", and "production", refer to the manufacture of a substance from any raw material or feedstock chemical, but such terms do not include—
 
 &emsp;&emsp;(A) the manufacture of a substance that is used and entirely consumed (except for trace quantities) in the manufacture of other chemicals, or
 

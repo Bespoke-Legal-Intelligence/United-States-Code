@@ -4,25 +4,25 @@ In this chapter:
 
 #### (1) Engaged in the business
 
-&emsp;The term “engaged in the business” has the meaning given that term in section 921(a)(21) of title 18, and, as applied to a seller of ammunition, means a person who devotes time, attention, and labor to the sale of ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of ammunition.
+&emsp;The term "engaged in the business" has the meaning given that term in section 921(a)(21) of title 18, and, as applied to a seller of ammunition, means a person who devotes time, attention, and labor to the sale of ammunition as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of ammunition.
 
 #### (2) Manufacturer
 
-&emsp;The term “manufacturer” means, with respect to a qualified product, a person who is engaged in the business of manufacturing the product in interstate or foreign commerce and who is licensed to engage in business as such a manufacturer under chapter 44 of title 18.
+&emsp;The term "manufacturer" means, with respect to a qualified product, a person who is engaged in the business of manufacturing the product in interstate or foreign commerce and who is licensed to engage in business as such a manufacturer under chapter 44 of title 18.
 
 #### (3) Person
 
-&emsp;The term “person” means any individual, corporation, company, association, firm, partnership, society, joint stock company, or any other entity, including any governmental entity.
+&emsp;The term "person" means any individual, corporation, company, association, firm, partnership, society, joint stock company, or any other entity, including any governmental entity.
 
 #### (4) Qualified product
 
-&emsp;The term “qualified product” means a firearm (as defined in subparagraph (A) or (B) of section 921(a)(3) of title 18), including any antique firearm (as defined in section 921(a)(16) of such title), or ammunition (as defined in section 921(a)(17)(A) of such title), or a component part of a firearm or ammunition, that has been shipped or transported in interstate or foreign commerce.
+&emsp;The term "qualified product" means a firearm (as defined in subparagraph (A) or (B) ofsection 921(a)(3) of title 18), including any antique firearm (as defined in section 921(a)(16) of such title), or ammunition (as defined in section 921(a)(17)(A) of such title), or a component part of a firearm or ammunition, that has been shipped or transported in interstate or foreign commerce.
 
 #### (5) Qualified civil liability action
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified civil liability action” means a civil action or proceeding or an administrative proceeding brought by any person against a manufacturer or seller of a qualified product, or a trade association, for damages, punitive damages, injunctive or declaratory relief, abatement, restitution, fines, or penalties, or other relief, resulting from the criminal or unlawful misuse of a qualified product by the person or a third party, but shall not include—
+&emsp;&emsp;The term "qualified civil liability action" means a civil action or proceeding or an administrative proceeding brought by any person against a manufacturer or seller of a qualified product, or a trade association, for damages, punitive damages, injunctive or declaratory relief, abatement, restitution, fines, or penalties, or other relief, resulting from the criminal or unlawful misuse of a qualified product by the person or a third party, but shall not include—
 
 &emsp;&emsp;&emsp;(i) an action brought against a transferor convicted under section 924(h) of title 18, or a comparable or identical State felony law, by a party directly harmed by the conduct of which the transferee is so convicted;
 
@@ -42,7 +42,7 @@ In this chapter:
 
 #### (B) Negligent entrustment
 
-&emsp;&emsp;As used in subparagraph (A)(ii), the term “negligent entrustment” means the supplying of a qualified product by a seller for use by another person when the seller knows, or reasonably should know, the person to whom the product is supplied is likely to, and does, use the product in a manner involving unreasonable risk of physical injury to the person or others.
+&emsp;&emsp;As used in subparagraph (A)(ii), the term "negligent entrustment" means the supplying of a qualified product by a seller for use by another person when the seller knows, or reasonably should know, the person to whom the product is supplied is likely to, and does, use the product in a manner involving unreasonable risk of physical injury to the person or others.
 
 #### (C) Rule of construction
 
@@ -54,7 +54,7 @@ In this chapter:
 
 #### (6) Seller
 
-&emsp;The term “seller” means, with respect to a qualified product—
+&emsp;The term "seller" means, with respect to a qualified product—
 
 &emsp;&emsp;(A) an importer (as defined in section 921(a)(9) of title 18) who is engaged in the business as such an importer in interstate or foreign commerce and who is licensed to engage in business as such an importer under chapter 44 of title 18;
 
@@ -64,11 +64,11 @@ In this chapter:
 
 #### (7) State
 
-&emsp;The term “State” includes each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States, and any political subdivision of any such place.
+&emsp;The term "State" includes each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States, and any political subdivision of any such place.
 
 #### (8) Trade association
 
-&emsp;The term “trade association” means—
+&emsp;The term "trade association" means—
 
 &emsp;&emsp;(A) any corporation, unincorporated association, federation, business league, professional or business organization not organized or operated for profit and no part of the net earnings of which inures to the benefit of any private shareholder or individual;
 
@@ -78,11 +78,11 @@ In this chapter:
 
 #### (9) Unlawful misuse
 
-&emsp;The term “unlawful misuse” means conduct that violates a statute, ordinance, or regulation as it relates to the use of a qualified product.
+&emsp;The term "unlawful misuse" means conduct that violates a statute, ordinance, or regulation as it relates to the use of a qualified product.
 
 (Pub. L. 109–92, §4, Oct. 26, 2005, 119 Stat. 2097.)
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 109–92, Oct. 26, 2005, 119 Stat. 2095, known as the Protection of Lawful Commerce in Arms Act. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 109–92, Oct. 26, 2005, 119 Stat. 2095, known as the Protection of Lawful Commerce in Arms Act. For complete classification of this Act to the Code, see Short Title note set out under section 7901 of this title and Tables.
 

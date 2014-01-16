@@ -12,11 +12,11 @@ The procedural safeguards required to be included in a statewide system under se
 
 &emsp;(4) The opportunity for parents to examine records relating to assessment, screening, eligibility determinations, and the development and implementation of the individualized family service plan.
 
-&emsp;(5) Procedures to protect the rights of the infant or toddler whenever the parents of the infant or toddler are not known or cannot be found or the infant or toddler is a ward of the State, including the assignment of an individual (who shall not be an employee of the State lead agency, or other State agency, and who shall not be any person, or any employee of a person, providing early intervention services to the infant or toddler or any family member of the infant or toddler) to act as a surrogate for the parents.
+&emsp;(5) Procedures to protect the rights of the infant or toddler whenever the parents of the infant or toddler are not known or cannot be found or the infant or toddler is a ward of the State, including the assignment of an individual (who shall not be an employee of the State lead agency, or other State agency, and who shall not be any person, or any employee of a person, providing early intervention servicesto the infant or toddler or any family member of the infant or toddler) to act as a surrogate for the parents.
 
 &emsp;(6) Written prior notice to the parents of the infant or toddler with a disability whenever the State agency or service provider proposes to initiate or change, or refuses to initiate or change, the identification, evaluation, or placement of the infant or toddler with a disability, or the provision of appropriate early intervention services to the infant or toddler.
 
-&emsp;(7) Procedures designed to ensure that the notice required by paragraph (6) fully informs the parents, in the parents’ native language, unless it clearly is not feasible to do so, of all procedures available pursuant to this section.
+&emsp;(7) Procedures designed to ensure that the notice required by paragraph (6) fully informs the parents, in the parents' native language, unless it clearly is not feasible to do so, of all procedures available pursuant to this section.
 
 &emsp;(8) The right of parents to use mediation in accordance with section 1415 of this title, except that—
 

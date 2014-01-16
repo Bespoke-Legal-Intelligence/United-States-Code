@@ -10,7 +10,7 @@ The Secretary of Energy shall conduct a continuing assessment of the long-range 
 
 #### (c) Incentives to encourage utilization; inclusion of electric vehicles in calculation of average fuel economy; evaluation program; annual report; final report and recommendations to Congress on January 1, 1987
 
-The Secretary of Energy shall perform, or cause to be performed, studies and research on incentives to promote broader utilization and consumer acceptance of electric and hybrid vehicle technologies. A description and a statement of the findings of such studies and research activities shall be included in each report submitted under section 2513 <sup>1</sup> of this title.
+The Secretary of Energy shall perform, or cause to be performed, studies and research onincentives to promote broader utilization and consumer acceptance of electric and hybrid vehicle technologies. A description and a statement of the findings of such studies and research activities shall be included in each report submitted under section 2513 <sup>1</sup> of this title.
 
 &emsp;(1) The Secretary of Energy in consultation with the Secretary of Transportation and the Administrator of the Environmental Protection Agency is authorized and directed to conduct a seven-year evaluation program of the inclusion of electric vehicles, as defined in section 512(b)(2) <sup>1</sup> of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2012(b)(2)), in the calculation of average fuel economy pursuant to section 32904(a)(1) of title 49 to determine the value and implications of such inclusion as an incentive for the early initiation of industrial engineering development and initial commercialization of electric vehicles in the United States. The evaluation program shall be conducted in parallel with the research and development activities of section 2505 of this title and demonstration activities of section 2506 of this title to provide all necessary information no later than January 1, 1987, for the private sector and Federal, State and local officials to make required decisions for the full commercialization of electric vehicles in the United States.
 
@@ -48,13 +48,13 @@ Section 512(b)(2) of the Motor Vehicle Information and Cost Savings Act (15 U.S.
 
 #### Codification
 
-In subsec. (c), “section 32904(a)(1) of title 49” substituted for “section 503(a)(1) and (2) of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2003(a)(1) and (2))” and “section 503(a)(1) and (2) of the Motor Vehicle Information and Cost Savings Act”, and “part C of subtitle VI of title 49” substituted for “the Motor Vehicle Information and Cost Savings Act \[15 U.S.C. 1901 et seq.\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation, and on authority of Pub. L. 103–429, §10(b), Oct. 31, 1994, 108 Stat. 4391, section 6(43)(B) of which enacted section 32918 as part of part C of subtitle VI of Title 49.
+In subsec. (c), "section 32904(a)(1) of title 49" substituted for "section 503(a)(1) and (2) of the Motor Vehicle Information and Cost Savings Act (15 U.S.C. 2003(a)(1) and (2))" and "section 503(a)(1) and (2) of the Motor Vehicle Information and Cost Savings Act", and "part C of subtitle VI of title 49" substituted for "the Motor Vehicle Information and Cost Savings Act \[15 U.S.C. 1901 et seq.\]" on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation, and on authority of Pub. L. 103–429, §10(b), Oct. 31, 1994, 108 Stat. 4391, section 6(43)(B) of which enacted section 32918 as part of part C of subtitle VI of Title 49.
 
-January 7, 1980, referred to in subsec. (c)(2), was in the original “enactment of the Act” which has been translated as meaning the date of enactment of Pub. L. 96–185 as the probable intent of Congress in view of the fact that section 18 of Pub. L. 96–185 enacted subsec. (c)(1) to (3) of this section.
+January 7, 1980, referred to in subsec. (c)(2), was in the original "enactment of the Act" which has been translated as meaning the date of enactment of Pub. L. 96–185 as the probable intent of Congress in view of the fact that section 18 of Pub. L. 96–185 enacted subsec. (c)(1) to (3) of this section.
 
 A part of par. (2) of section 2512(c) of the Electric and Hybrid Vehicle Research, Development, and Demonstration Act of 1976, as added by Pub. L. 96–185, has not been included in the text of subsec. (c)(2) of this section. The omitted provision consists of directory language for an amendment of section 2003 of this title and the indicated amendment has been executed to the text of that section as directed.
 
-In subsec. (d), “Secretary of Transportation” substituted for “Secretary” in two places for clarity, see Codification note set out under section 2502 of this title.
+In subsec. (d), "Secretary of Transportation" substituted for "Secretary" in two places for clarity, see Codification note set out under section 2502 of this title.
 
 #### Amendments
 
@@ -62,7 +62,7 @@ In subsec. (d), “Secretary of Transportation” substituted for “Secretary�
 
 #### Transfer of Functions
 
-“Secretary of Energy” substituted for “Administrator” in subsecs. (a), (b), (d), and (e) pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
+"Secretary of Energy" substituted for "Administrator" in subsecs. (a), (b), (d), and (e) pursuant to section 301(a) of Pub. L. 95–91, see Codification note set out under section 2502 of this title.
 
 #### Electric Vehicles
 

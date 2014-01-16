@@ -16,9 +16,9 @@ The Small Business Investment Act of 1958, referred to in text, is Pub. L. 85–
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455 substituted “an ordinary loss” for “a loss from the sale or exchange of property which is not a capital asset”.
+<b>1976</b>—Pub. L. 94–455 substituted "an ordinary loss" for "a loss from the sale or exchange of property which is not a capital asset".
 
-<b>1969</b>—Par. (1). Pub. L. 91–172 substituted “stock received pursuant to the conversion privilege of convertible debentures” for “convertible debentures (including stock received pursuant to the conversion privilege)”.
+<b>1969</b>—Par. (1). Pub. L. 91–172 substituted "stock received pursuant to the conversion privilege of convertible debentures" for "convertible debentures (including stock received pursuant to the conversion privilege)".
 
 #### Effective Date of 1976 Amendment
 

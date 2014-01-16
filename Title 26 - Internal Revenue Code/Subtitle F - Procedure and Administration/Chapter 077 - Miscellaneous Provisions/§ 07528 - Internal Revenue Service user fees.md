@@ -28,7 +28,7 @@ The Secretary shall establish a program requiring the payment of user fees for�
 
 #### (B) Exemption for certain requests regarding pension plans
 
-&emsp;&emsp;The Secretary shall not require payment of user fees under such program for requests for determination letters with respect to the qualified status of a pension benefit plan maintained solely by 1 or more eligible employers or any trust which is part of the plan. The preceding sentence shall not apply to any request—
+&emsp;&emsp;The Secretary shall not require payment of user fees under such program for requests for determination letters with respect to the qualified status of a pension benefit plan maintained solely by 1 or more eligible employers or any trust which is part of theplan. The preceding sentence shall not apply to any request—
 
 &emsp;&emsp;&emsp;(i) made after the later of—
 
@@ -44,11 +44,11 @@ The Secretary shall establish a program requiring the payment of user fees for�
 
 #### (i) Pension benefit plan
 
-&emsp;&emsp;&emsp;The term “pension benefit plan” means a pension, profit-sharing, stock bonus, annuity, or employee stock ownership plan.
+&emsp;&emsp;&emsp;The term "pension benefit plan" means a pension, profit-sharing, stock bonus, annuity, or employee stock ownership plan.
 
 #### (ii) Eligible employer
 
-&emsp;&emsp;&emsp;The term “eligible employer” means an eligible employer (as defined in section 408(p)(2)(C)(i)(I)) which has at least 1 employee who is not a highly compensated employee (as defined in section 414(q)) and is participating in the plan. The determination of whether an employer is an eligible employer under subparagraph (B) shall be made as of the date of the request described in such subparagraph.
+&emsp;&emsp;&emsp;The term "eligible employer" means an eligible employer (as defined in section 408(p)(2)(C)(i)(I)) which has at least 1 employee who is not a highly compensated employee (as defined in section 414(q)) and is participating in the plan. The determination of whether an employer is an eligible employer under subparagraph (B) shall be made as of the date of the request described in such subparagraph.
 
 #### (iii) Determination of average fees charged
 
@@ -56,7 +56,7 @@ The Secretary shall establish a program requiring the payment of user fees for�
 
 #### (3) Average fee requirement
 
-&emsp;The average fee charged under the program required by subsection (a) shall not be lessthan the amount determined under the following table:
+&emsp;The average fee charged under the program required by subsection (a) shall not be less than the amount determined under the following table:
 
 &nbsp;
 
@@ -74,19 +74,19 @@ The Secretary shall establish a program requiring the payment of user fees for�
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c). Pub. L. 110–28 struck out heading and text of subsec. (c). Text read as follows: “No fee shall be imposed under this section with respect to requests made after September 30, 2014.”
+<b>2007</b>—Subsec. (c). Pub. L. 110–28 struck out heading and text of subsec. (c). Text read as follows: "No fee shall be imposed under this section with respect to requests made after September 30, 2014."
 
-<b>2004</b>—Subsec. (c). Pub. L. 108–357 substituted “September 30, 2014” for “December 31, 2004”.
+<b>2004</b>—Subsec. (c). Pub. L. 108–357 substituted "September 30, 2014" for "December 31, 2004".
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–357, title VIII, §891(b), Oct. 22, 2004, 118 Stat. 1644, provided that: “The amendment made by this section \[amending this section\] shall apply to requests after the date of the enactment of this Act \[Oct. 22, 2004\].”
+Pub. L. 108–357, title VIII, §891(b), Oct. 22, 2004, 118 Stat. 1644, provided that: "The amendment made by this section \[amending this section\] shall apply to requests after the date of the enactment of this Act \[Oct. 22, 2004\]."
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–89, title II, §202(d), Oct. 1, 2003, 117 Stat. 1133, provided that: “The amendments made by this section \[enacting this section, enacting provisions set out as a note under this section, and repealing provisions set out as notes under section 7801 of this title\] shall apply to requests made after the date of the enactment of this Act \[Oct. 1, 2003\].”
+Pub. L. 108–89, title II, §202(d), Oct. 1, 2003, 117 Stat. 1133, provided that: "The amendments made by this section \[enacting this section, enacting provisions set out as a note under this section, and repealing provisions set out as notes under section 7801 of this title\] shall apply to requests made after the date of the enactment of this Act \[Oct. 1, 2003\]."
 
 #### Limitations
 
-Pub. L. 108–89, title II, §202(c), Oct. 1, 2003, 117 Stat. 1133, provided that: “Notwithstanding any other provision of law, any fees collected pursuant to section 7528 of the Internal Revenue Code of 1986, as added by subsection (a), shall not be expended by the Internal Revenue Service unless provided by an appropriations Act.”
+Pub. L. 108–89, title II, §202(c), Oct. 1, 2003, 117 Stat. 1133, provided that: "Notwithstanding any other provision of law, any fees collected pursuant to section 7528 of the Internal Revenue Code of 1986, as added by subsection (a), shall not be expended by the Internal Revenue Service unless provided by an appropriations Act."
 

@@ -58,11 +58,11 @@ In addition to the living allowance provided under subsection (a) of this sectio
 
 #### (A) In general
 
-&emsp;&emsp;The Corporation may provide services, facilities, supplies, and equipment, including any surplus food and equipment available from other Federal programs, to any program agency carrying out projects under this division.
+&emsp;&emsp;The Corporation may provide services, facilities, supplies, and equipment, includingany surplus food and equipment available from other Federal programs, to any program agency carrying out projects under this division.
 
 #### (B) Secretary of Defense
 
-&emsp;&emsp;Whenever possible, the Corporation shall make arrangements with the Secretary of Defense to have logistical support provided by a military installation near the worksite, including the provision of temporary tent centers where needed, and other supplies and equipment.
+&emsp;&emsp;Whenever possible, the Corporation shall make arrangements with the Secretary of Defense to have logistical support provided by a military installation near the work site, including the provision of temporary tent centers where needed, and other supplies and equipment.
 
 #### (5) Health and safety standards
 
@@ -82,17 +82,17 @@ Section was formerly classified to section 12553 of this title prior to renumber
 
 <b>1993</b>—Subsec. (a). Pub. L. 103–82, §101(d), added pars. (1) to (5) and struck out former pars. (1) and (2) which read as follows:
 
-“(1)
+"(1)
 
 In general.—From assistance provided under this part, each participant in a full-time youth corps program that receives assistance under this part shall receive a living allowance of not more than an amount equal to 100 percent of the poverty line for a family of two (as defined in section 9902(2) of this title).
 
-“(2)
+"(2)
 
-Non-federal sources.—Notwithstanding paragraph (1), a program agency may provide participants with additional amounts that are made available from non-Federal sources.”
+Non-federal sources.—Notwithstanding paragraph (1), a program agency may provide participants with additional amounts that are made available from non-Federal sources."
 
-Subsec. (d)(4)(A), (B), (5). Pub. L. 103–82, §101(e)(1), substituted “Corporation” for “Commission”.
+Subsec. (d)(4)(A), (B), (5). Pub. L. 103–82, §101(e)(1), substituted "Corporation" for "Commission".
 
-<b>1991</b>—Subsec. (d)(1). Pub. L. 102–10 substituted “subsection (a)” for “subsections (a) and (c)”.
+<b>1991</b>—Subsec. (d)(1). Pub. L. 102–10 substituted "subsection (a)" for "subsections (a) and (c)".
 
 #### Effective Date of 1993 Amendment
 

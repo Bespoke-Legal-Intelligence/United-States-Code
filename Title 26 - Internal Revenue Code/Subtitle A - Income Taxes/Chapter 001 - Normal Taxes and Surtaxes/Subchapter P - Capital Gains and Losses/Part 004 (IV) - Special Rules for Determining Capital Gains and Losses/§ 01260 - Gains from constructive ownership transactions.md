@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “financial asset” means—
+&emsp;The term "financial asset" means—
 
 &emsp;&emsp;(A) any equity interest in any pass-thru entity, and
 
@@ -48,7 +48,7 @@ For purposes of this section—
 
 #### (2) Pass-thru entity
 
-&emsp;For purposes of paragraph (1), the term “pass-thru entity” means—
+&emsp;For purposes of paragraph (1), the term "pass-thru entity" means—
 
 &emsp;&emsp;(A) a regulated investment company,
 
@@ -96,11 +96,11 @@ For purposes of this section—
 
 #### (4) Forward contract
 
-&emsp;The term “forward contract” means any contract to acquire in the future (or provide or receive credit for the future value of) any financial asset.
+&emsp;The term "forward contract" means any contract to acquire in the future (or provide or receive credit for the future value of) any financial asset.
 
 #### (e) Net underlying long-term capital gain
 
-For purposes of this section, in the case of any constructive ownership transaction with respect to any financial asset, the term “net underlying long-term capital gain” means the aggregate net capital gain that the taxpayer would have had if—
+For purposes of this section, in the case of any constructive ownership transaction with respect to any financial asset, the term "net underlying long-term capital gain" means the aggregate net capital gain that the taxpayer would have had if—
 
 &emsp;(1) the financial asset had been acquired for fair market value on the date such transaction was opened and sold for fair market value on the date such transaction was closed, and
 
@@ -124,9 +124,9 @@ The Secretary shall prescribe such regulations as may be necessary or appropriat
 
 #### Amendments
 
-<b>2007</b>—Subsec. (c)(2)(G). Pub. L. 110–172 substituted “subsection (d)” for “subsection (e)” and inserted “and” at end.
+<b>2007</b>—Subsec. (c)(2)(G). Pub. L. 110–172 substituted "subsection (d)" for "subsection (e)" and inserted "and" at end.
 
-<b>2004</b>—Subsec. (c)(2)(H) to (J). Pub. L. 108–357 redesignated subpar. (J) as (H) and struck out former subpars. (H) and (I), which included foreign personal holding company and foreign investment company (as defined in section 1246(b)) within definition of “pass-thru entity”.
+<b>2004</b>—Subsec. (c)(2)(H) to (J). Pub. L. 108–357 redesignated subpar. (J) as (H) and struck out former subpars. (H) and (I), which included foreign personal holding company and foreign investment company (as defined in section 1246(b)) within definition of "pass-thru entity".
 
 #### Effective Date of 2004 Amendment
 
@@ -134,5 +134,5 @@ Amendment by Pub. L. 108–357 applicable to taxable years of foreign corporatio
 
 #### Effective Date
 
-Pub. L. 106–170, title V, §534(c), Dec. 17, 1999, 113 Stat. 1934, provided that: “The amendments made by this section \[enacting this section\] shall apply to transactions entered into after July 11, 1999.”
+Pub. L. 106–170, title V, §534(c), Dec. 17, 1999, 113 Stat. 1934, provided that: "The amendments made by this section \[enacting this section\] shall apply to transactions entered into after July 11, 1999."
 

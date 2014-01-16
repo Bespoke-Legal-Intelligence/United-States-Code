@@ -14,7 +14,7 @@ The Controlled Substances Import and Export Act, referred to in subsec. (a), is 
 
 #### Amendments
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–513 inserted references to drug dependency, drugs other than narcotic drugs, and substances subject to control under the Controlled Substances Act and the Controlled Substances Import and Export Act, substituted the first day of April of each year for the first day of September of each year as the date by which the study results must be submitted, substituted the Attorney General for the Secretary of the Treasury as the officer to whom the report is to be submitted, and struck out references to the Narcotic Drugs Import and Export Act.
+<b>1970</b>—Subsec. (a). Pub. L. 91–513 inserted references to drug dependency, drugs other than narcotic drugs, and substances subject to control under the Controlled Substances Act and the Controlled Substances Import andExport Act, substituted the first day of April of each year for the first day of September of each year as the date by which the study results must be submitted, substituted the Attorney General for the Secretary of the Treasury as the officer to whom the report is to be submitted, and struck out references to the Narcotic Drugs Import and Export Act.
 
 #### Effective Date of 1970 Amendment
 
@@ -26,7 +26,7 @@ Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for violat
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 #### Marihuana and Health Reporting
 

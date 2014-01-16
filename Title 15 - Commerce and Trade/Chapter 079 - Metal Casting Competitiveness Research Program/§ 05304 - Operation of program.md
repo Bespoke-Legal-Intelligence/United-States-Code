@@ -70,7 +70,7 @@ From the proposals submitted, the Secretary shall select proposals for funding. 
 
 &emsp;&emsp;(D) other areas of research, which in the judgment of the Secretary, after consulting with the Board established in section 5306 of this title, further the purposes of this chapter;
 
-&emsp;(2) represent research and development in specific areas identified in the “Metal Casting Research Priorities” developed annually by the Board pursuant to section 5306(b)(1) of this title;
+&emsp;(2) represent research and development in specific areas identified in the "Metal Casting Research Priorities" developed annually by the Board pursuant to section 5306(b)(1) of this title;
 
 &emsp;(3) to the greatest extent possible and subject to available appropriations, ensure that at least one applicant is selected from each of the four census regions of the country where the metal casting industry is concentrated;
 
@@ -86,7 +86,7 @@ From amounts made available in separate appropriation Acts, the Secretary shall 
 
 #### (f) National Metal Casting Research Institute
 
-Each recipient of financial assistance under subsection (d) of this section shall be known as a “National Metal Casting Research Institute”.
+Each recipient of financial assistance under subsection (d) of this section shall be known as a "National Metal Casting Research Institute".
 
 (Pub. L. 101–425, §5, Oct. 15, 1990, 104 Stat. 916.)
 

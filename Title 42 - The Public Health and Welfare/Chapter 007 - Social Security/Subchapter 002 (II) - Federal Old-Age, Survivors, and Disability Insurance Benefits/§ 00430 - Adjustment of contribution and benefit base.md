@@ -16,7 +16,7 @@ The amount of such contribution and benefit base shall (subject to subsection (c
 
 #### (c) Amount of base for period prior to initial cost-of-living benefit increase
 
-For purposes of this section, and for purposes of determining wages and self-employment income under sections 409, 411, 413, and 415 of this title and sections 1402, 3121, 3122, 3125, 6413, and 6654 of the Internal Revenue Code of 1986, (1) the “contribution and benefit base” with respect to remuneration paid in (and taxable years beginning in) any calendar year after 1973 and prior to the calendar year with the June of which the first increase in benefits pursuant to section 415(i) of this title becomes effective shall be $13,200 or (if applicable) such other amount as may be specified in a law enacted subsequent to the law which added this section, and (2) the “contribution and benefit base” with respect to remuneration paid (and taxable years beginning)—
+For purposes of this section, and for purposes of determining wages and self-employment income under sections 409, 411, 413, and 415 of this title and sections 1402, 3121, 3122, 3125, 6413, and 6654 of the Internal Revenue Code of 1986, (1) the "contribution and benefit base" with respect to remuneration paid in (and taxable years beginning in) any calendar year after 1973 and prior to the calendar year with the June of which the first increase in benefits pursuant to section 415(i) of this title becomes effective shall be $13,200 or (if applicable) such other amount as may be specified in a law enacted subsequent to the law which added this section, and (2) the "contribution and benefit base" with respect to remuneration paid (and taxable years beginning)—
 
 &emsp;(A) in 1978 shall be $17,700,
 
@@ -26,7 +26,7 @@ For purposes of this section, and for purposes of determining wages and self-emp
 
 &emsp;(D) in 1981 shall be $29,700.
 
-> For purposes of determining under subsection (b) of this section the “contribution and benefit base” with respect to remuneration paid (and taxable years beginning) in 1982 and subsequent years, the dollar amounts specified in clause (2) of the preceding sentence shall be considered to have resulted from the application of such subsection (b) of this section and to be the amount determined (with respect to the years involved) under that subsection.
+> For purposes of determining under subsection (b) of this section the "contribution and benefit base" with respect to remuneration paid (and taxable years beginning) in 1982 and subsequent years, the dollar amounts specified in clause (2) of the preceding sentence shall be considered to have resulted from the application of such subsection (b) of this section and to be the amount determined (with respect to the years involved) under that subsection.
 
 #### (d) Determinations for calendar years after 1976 for purposes of retirement benefit plans
 
@@ -38,51 +38,51 @@ Notwithstanding any other provision of law, the contribution and benefit base de
 
 The Internal Revenue Code of 1986, referred to in subsec. (c), is classified generally to Title 26, Internal Revenue Code.
 
-“Subsequent to the law which added this section”, referred to in subsec. (c), means subsequent to the enactment of Pub. L. 92–336, which was approved July 1, 1972.
+"Subsequent to the law which added this section", referred to in subsec. (c), means subsequent to the enactment of Pub. L. 92–336, which was approved July 1, 1972.
 
 The enactment of the Social Security Amendments of 1977, referred to in subsec. (d), means the enactment of Pub. L. 95–216, which was approved Dec. 20, 1977.
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” and “the Commissioner shall” for “he shall”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–296, §107(a)(4), substituted "Commissioner of Social Security" for "Secretary" and "the Commissioner shall" for "he shall".
 
 Subsec. (b)(1), (2). Pub. L. 103–296, §321(g)(1)(A), added pars. (1) and (2) and struck out former pars. (1) and (2) which read as follows:
 
-“(1) the contribution and benefit base which is in effect with respect to remuneration paid in (and taxable years beginning in) the calendar year in which the determination under subsection (a) of this section is made, and
+"(1) the contribution and benefit base which is in effect with respect to remuneration paid in (and taxableyears beginning in) the calendar year in which the determination under subsection (a) of this section is made, and
 
-“(2) the ratio of (A) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the calendar year in which the determination under subsection (a) of this section is made to (B) the deemed average total wages (as so defined) for the calendar year before the most recent calendar year in which an increase in the contribution and benefit base was enacted or a determination resulting in such an increase was made under subsection (a) of this section,”.
+"(2) the ratio of (A) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the calendar year in which the determination under subsection (a) of this section is made to (B) the deemed average total wages (as so defined) for the calendar year before the most recent calendar year in which an increase in the contribution and benefit base was enacted or a determination resulting in such an increase was made under subsection (a) of this section,".
 
 Subsec. (b)(2)(A), (B). Pub. L. 103–296, §321(b)(2), made technical correction to directory language of Pub. L. 101–239, §10208(b)(1). See 1989 Amendment note below.
 
-Subsec. (c). Pub. L. 103–296, §321(c)(6)(K), substituted “1986” for “1954” after “Code of”.
+Subsec. (c). Pub. L. 103–296, §321(c)(6)(K), substituted "1986" for "1954" after "Code of".
 
-Subsec. (d). Pub. L. 103–296, §321(g)(1)(B), at end substituted parenthetical provisions beginning with “(except that” and ending with “reference to 1992).” for former parenthetical provisions which read as follows: “(except that, for purposes of subsection (b)(2)(A) of this section as so in effect, the reference therein to the average of the wages of all employees as reported to the Secretary of the Treasury for any calendar year shallbe deemed a reference to the deemed average total wage (within the meaning of section 409(k)(1) of this title) for such calendar year).”
+Subsec. (d). Pub. L. 103–296, §321(g)(1)(B), at end substituted parenthetical provisions beginning with "(except that" and ending with "reference to 1992)." for former parenthetical provisions which read as follows: "(except that, for purposes of subsection (b)(2)(A) of this section as so in effect, the reference therein to the average of the wages of all employees as reported to the Secretary of the Treasury for any calendar year shall be deemed a reference to the deemed average total wage (within the meaning of section 409(k)(1) of this title) for such calendar year)."
 
-<b>1989</b>—Subsec. (b)(2)(A). Pub. L. 101–239, §10208(b)(1)(A), as amended by Pub. L. 103–296, §321(b)(2), substituted “the deemed average total wages (as defined in section 409(k)(1) of this title)” for “the average of the total wages (as defined in regulations of the Secretary and computed without regard to the limitations specified in section 409(a)(1) of this title) reported to the Secretary of the Treasury or his delegate”.
+<b>1989</b>—Subsec. (b)(2)(A). Pub. L. 101–239, §10208(b)(1)(A), as amended by Pub. L. 103–296, §321(b)(2), substituted "the deemed average total wages (as defined in section 409(k)(1) of this title)" for "the average of the total wages (as defined in regulations of the Secretary and computed without regard to the limitations specified in section 409(a)(1) of this title) reported to the Secretary of the Treasury or his delegate".
 
-Pub. L. 101–239, §10208(d)(2)(A)(i), substituted “409(a)(1)” for “409(a)”.
+Pub. L. 101–239, §10208(d)(2)(A)(i), substituted "409(a)(1)" for "409(a)".
 
-Subsec. (b)(2)(B). Pub. L. 101–239, §10208(b)(1)(B), as amended by Pub. L. 103–296, §321(b)(2), substituted “the deemed average total wages (as so defined)” for “the average of the total wages (as so defined and computed) reported to the Secretary of the Treasury or his delegate”.
+Subsec. (b)(2)(B). Pub. L. 101–239, §10208(b)(1)(B), as amended by Pub. L. 103–296, §321(b)(2), substituted "the deemed average total wages (as so defined)" for "the average of the total wages (as so defined and computed) reported to the Secretary of the Treasury or his delegate".
 
-Subsec. (d). Pub. L. 101–239, §10208(b)(5), substituted “change (except that, for purposes of subsection (b)(2)(A) of this section as so in effect, the reference therein to the average of the wages of all employees as reported to the Secretary of the Treasury for any calendar year shall be deemed a reference to the deemed average total wage (within the meaning of section 409(k)(1) of this title) for such calendar year)” for “change”.
+Subsec. (d). Pub. L. 101–239, §10208(b)(5), substituted "change (except that, for purposes of subsection (b)(2)(A) of this section as so in effect, the reference therein to the average of the wages of all employees as reported to the Secretary of the Treasury for any calendar year shall be deemed a reference to the deemed average total wage (within the meaning of section 409(k)(1) of this title) for such calendar year)" for "change".
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–369, in last sentence which was repealed by Pub. L. 98–76, substituted “3(a) or 3(f)(3)” for “3(a) or (3)(f)(3)” in the original, which had been translated as “section 231b(a) or (f)(3) of title 45”.
+<b>1984</b>—Subsec. (c). Pub. L. 98–369, in last sentence which was repealed by Pub. L. 98–76, substituted "3(a) or 3(f)(3)" for "3(a) or (3)(f)(3)" in the original, which had been translated as "section 231b(a) or (f)(3) of title 45".
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–21 substituted “December” for “June”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–21 substituted "December" for "June".
 
 Subsec. (c). Pub. L. 98–76, §225(a)(4), struck out provision that for purposes of determining employee and employer tax liability under sections 3201(a) and 3221(a) of the Internal Revenue Code of 1954, for purposes of determining the portion of the employee representative tax liability under section 3211(a) of such Code which resulted from the application of the 12.75 percent rate specified therein, and for purposes of computing average monthly compensation under section 231b(j) of title 45, except with respect to annuity amounts determined under section 231b(a) or (f)(3) of title 45, clause (2) and the preceding sentence of this subsection shall be disregarded.
 
-Pub. L. 98–76, §211(d), temporarily substituted “12.75 percent” for “11.75 percent”. See Effective and Termination Dates of 1983 Amendments note below.
+Pub. L. 98–76, §211(d), temporarily substituted "12.75 percent" for "11.75 percent". See Effective and Termination Dates of 1983 Amendments note below.
 
-<b>1981</b>—Subsec. (c). Pub. L. 97–34 substituted in last sentence “employee and employer” for “employer”, “sections 3201(a) and 3221(a)” for “section 3221(a)”, and “11.75” for “9.5”.
+<b>1981</b>—Subsec. (c). Pub. L. 97–34 substituted in last sentence "employee and employer" for "employer", "sections 3201(a) and 3221(a)" for "section 3221(a)", and "11.75" for "9.5".
 
-<b>1977</b>—Subsec. (a). Pub. L. 95–216, §103(a)(1), substituted “determined under subsection (b) or (c) of this section” for “determined under subsection (b) of this section”.
+<b>1977</b>—Subsec. (a). Pub. L. 95–216, §103(a)(1), substituted "determined under subsection (b) or (c) of this section" for "determined under subsection (b) of this section".
 
-Subsec. (b). Pub. L. 95–216, §103(a)(2), in provisions preceding par. (1), substituted “shall (subject to subsection (c) of this section) be the amount” for “shall be the amount”.
+Subsec. (b). Pub. L. 95–216, §103(a)(2), in provisions preceding par. (1), substituted "shall (subject to subsection (c) of this section) be the amount" for "shall be the amount".
 
-Subsec. (b)(1). Pub. L. 95–216, §353(e)(2), substituted “determination under subsection (a) of this section is made” for “determination under subsection (a) of this section with respect to such particular calendar year was made”.
+Subsec. (b)(1). Pub. L. 95–216, §353(e)(2), substituted "determination under subsection (a) of this section is made" for "determination under subsection (a) of this section with respect to such particular calendar year was made".
 
-Subsec. (b)(2). Pub. L. 95–216, §353(e)(3), substituted “(A) the average of the total wages (as defined in regulations of the Secretary and computed without regard to the limitations specified in section 409(a) of this title) reported to the Secretary of the Treasury or his delegate for the calendar year in which the determination under subsection (a) of this section is made to (B) the average of the total wages (as so defined and computed) reported to the Secretary of the Treasury or his delegate for the calendar year before” for “(A) the average of the wages of all employees as reported to the Secretary of the Treasury for the calendar year preceding the calendar year in which the determination under subsection (a) of this section with respect to such particular calendar years was made to (B) the average of the wages of all employees as reported to the Secretary of the Treasury for the calendar year 1973 or, if later, the calendar year preceding”.
+Subsec. (b)(2). Pub. L. 95–216, §353(e)(3), substituted "(A) the average of the total wages (as defined in regulations of the Secretary and computed without regard to the limitations specified in section 409(a) of this title) reported to the Secretary of the Treasury or his delegate for the calendar year in which the determination under subsection (a) of this section is made to (B) the average of the total wages (as so defined and computed) reported to the Secretary of the Treasury or his delegate for the calendar year before" for "(A) the average of the wages of all employees as reported to the Secretary of the Treasury for the calendar year preceding the calendar year in which the determination under subsection (a) of this section with respect to such particular calendar years was made to (B) the average of the wages of all employees as reported to the Secretary of the Treasury for the calendar year 1973 or, if later, the calendar year preceding".
 
 Subsec. (b). Pub. L. 95–216, §353(e)(1), in provisions following par. (2), struck out directive that, for purposes of this subsection, the average of the wages for the calendar year 1978 (or any prior calendar year), in the case of determinations made under subsection (a) of this section prior to December 31, 1979, be deemed to be an amount equal to 400 per centum of the amount of the average of the taxable wages of all employees as reported to the Secretary for the first calendar quarter of such calendar year.
 
@@ -90,15 +90,15 @@ Subsec. (c). Pub. L. 95–216, §103(b), designated existing provisions as intro
 
 Subsec. (d). Pub. L. 95–216, §103(c)(1), added subsec. (d).
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–202 substituted “wages of all employees as reported to the Secretary of the Treasury for the calendar year preceding the calendar year” for “taxable wages of all employees as reported to the Secretary for the first calendar quarter of the calendar year” and “made to” for “made to the latest of” in cl. (A) of par. (2), substituted “wages of all employees as reported to the Secretary of the Treasury for the calendar year 1973 or, if later, the calendar year preceding” for “taxable wages of all employees as reported to the Secretary for the first calendar quarter of 1973 or the first calendar quarter of” in cl. (B) of par. (2), and inserted, following par. (2), provision directing that the average wages for the calendar year 1978, or any prior calendar year, be deemed equal to 400% of the average wages reported for the first quarter of that calendar year.
+<b>1976</b>—Subsec. (b). Pub. L. 94–202 substituted "wages of all employees as reported to the Secretary of the Treasury for the calendar year preceding the calendar year" for "taxable wages of all employees as reported to the Secretary for the first calendar quarter of the calendar year" and "made to" for "made to the latest of" in cl. (A) of par. (2), substituted "wages of all employees as reported to the Secretary of the Treasury for the calendar year 1973 or, if later, the calendar year preceding" for "taxable wages of all employees as reported to the Secretary for the first calendar quarter of 1973 or the first calendar quarter of" in cl. (B) of par. (2), and inserted, following par. (2), provision directing that the average wages for the calendar year 1978, or any prior calendar year, be deemed equal to 400% of the average wages reported for the first quarter of that calendar year.
 
-<b>1973</b>—Subsec. (a). Pub. L. 93–233, §3(j)(1), substituted “with the June” for “with the first month of the calendar year” and struck out “(along with the publication of such benefit increase as required by section 415(i)(2)(D) of this title)” after “such quarter occurs” and “(unless such increase in benefits is prevented from becoming effective by section 415(i)(2)(E) of this title)” after “shall be effective”, respectively.
+<b>1973</b>—Subsec. (a). Pub. L. 93–233, §3(j)(1), substituted "with the June" for "with the first month of the calendar year" and struck out "(along with the publication of such benefit increase as required by section 415(i)(2)(D) of this title)" after "such quarter occurs" and "(unless such increase in benefits is prevented from becoming effective by section 415(i)(2)(E) of this title)" after "shall be effective", respectively.
 
-Subsec. (c). Pub. L. 93–233, §§3(j)(2), 5(c), substituted “the June” for “the first month” and “$13,200” for “$12,600”, respectively.
+Subsec. (c). Pub. L. 93–233, §§3(j)(2), 5(c), substituted "the June" for "the first month" and "$13,200" for "$12,600", respectively.
 
-Pub. L. 93–66 substituted “$12,600” for “$12,000”.
+Pub. L. 93–66 substituted "$12,600" for "$12,000".
 
-<b>1972</b>—Subsec. (b)(2)(A). Pub. L. 92–603 substituted “of” for “or”.
+<b>1972</b>—Subsec. (b)(2)(A). Pub. L. 92–603 substituted "of" for "or".
 
 #### Effective Date of 1994 Amendment
 
@@ -112,35 +112,35 @@ Amendment by section 321(g)(1)(A), (B) of Pub. L. 103–296 effective with respe
 
 Pub. L. 101–239, title X, §10208(c), Dec. 19, 1989, 103 Stat. 2478, provided that:
 
-“(1)
+"(1)
 
 In general.—The amendments made by subsections (a) and (b) \[amending this section and sections 403, 409, 413, 415, and 424a of this title\] shall apply with respect to the computation of average total wage amounts (under the amended provisions) for calendar years after 1990.
 
-“(2)
+"(2)
 
-Transitional rule.—For purposes of determining the contribution and benefit base for 1990, 1991, and 1992 under section 230(b) of the Social Security Act\[subsec. (b) of this section\] (and section 230(b) of such Act as in effect immediately prior to enactment of the Social Security Amendments of 1977 \[Pub. L. 95–216, approved Dec. 20, 1977\])—
+Transitional rule.—For purposes of determining the contribution and benefit base for 1990, 1991, and 1992 under section 230(b) of the Social Security Act \[42 U.S.C. 430(b)\] (and section 230(b) of such Act as in effect immediately prior to enactment of the Social Security Amendments of 1977 \[Pub. L. 95–216, approved Dec. 20, 1977\])—
 
-&emsp;“(A) the average of total wages for 1988 shall be deemed to be equal to the amount which would have been determined without regard to this paragraph, plus 2 percent of the amount which has been determined to the average of total wages for 1987,
+&emsp;"(A) the average of total wages for 1988 shall be deemed to be equal to the amount which would have been determined without regard to this paragraph, plus 2 percent of the amount which has been determined to the average of total wages for 1987,
 
-&emsp;“(B) the average of total wages for 1989 shall be deemed to be equal to the amount which would have been determined without regard to this paragraph, plus 2 percent of the amount which would have been determined to be the average of total wages for 1988 without regard to subparagraph (A), and
+&emsp;"(B) the average of total wages for 1989 shall be deemed to be equal to the amount which would have been determined without regard to this paragraph, plus 2 percent of the amount which would have been determined to be the average of total wages for 1988 without regard to subparagraph (A), and
 
-&emsp;“(C) the average of total wages reported to the Secretary of the Treasury for 1990 shall be deemed to be equal to the product of—
+&emsp;"(C) the average of total wages reported to the Secretary of the Treasury for 1990 shall be deemed to be equal to the product of—
 
-&emsp;&emsp;“(i) the SSA average wage index (as defined in section 215(i)(1)(G) of the Social Security Act \[section 415(i)(1)(G) of this title\] and promulgated by the Secretary) for 1989, and
+&emsp;&emsp;"(i) the SSA average wage index (as defined in section 215(i)(1)(G) of the Social Security Act \[42 U.S.C. 415(i)(1)(G)\] and promulgated by the Secretary) for 1989, and
 
-&emsp;&emsp;“(ii) the quotient obtained by dividing—
+&emsp;&emsp;"(ii) the quotient obtained by dividing—
 
-&emsp;&emsp;&emsp;“(I) the average of total wages (as defined in regulations of the Secretary and computed without regard to the limitations of section 209(a)(1) of the Social Security Act \[section 409(a)(1) of this title\] and by including deferred compensation amounts, within the meaning of section 209(k)(2) of such Act as added by this section) reported to the Secretary of the Treasury or his delegate for 1990, by
+&emsp;&emsp;&emsp;"(I) the average of total wages (as defined in regulations of the Secretary and computed without regard to the limitations of section 209(a)(1) of the Social Security Act \[42 U.S.C. 409(a)(1)\] and by including deferred compensation amounts, within the meaning of section 209(k)(2) of such Act as added by this section) reported to the Secretary of the Treasury or his delegate for 1990, by
 
-&emsp;&emsp;&emsp;“(II) the average of total wages (as so defined and computed without regard to the limitations specified in such section 209(a)(1) and by excluding deferred compensation amounts within the meaning of such section 209(k)(2)) reported to the Secretary of the Treasury or his delegate for 1989.
+&emsp;&emsp;&emsp;"(II) the average of total wages (as so defined and computed without regard to the limitations specified in such section 209(a)(1) and by excluding deferred compensation amounts within the meaning of such section 209(k)(2)) reported to the Secretary of the Treasury or his delegate for 1989.
 
-“(3)
+"(3)
 
 Determination of contribution and benefit base for 1993.—For purposes of determining the contribution and benefit base for 1993 under section 230(b) of the Social Security Act (and section 230(b) of such Act as in effect immediately prior to enactment of the Social Security Amendments of 1977), the average of total wages for 1990 shall be determined without regard to subparagraph (C) of paragraph (2).
 
-“(4)
+"(4)
 
-Revised determination under section 230 of the social security act.—As soon as possible after the enactment of this Act \[Dec. 19, 1989\], the Secretary of Health and Human Services shall revise and publish, in accordance with the provisions of this Act \[Pub. L. 101–239, see Tables for classification\] and the amendments made thereby, the contribution and benefit base under section 230 of the Social Security Act with respect to remuneration paid after 1989 and taxable years beginning after calendar year 1989.”
+Revised determination under section 230 of the social security act.—As soon as possible after the enactment of this Act \[Dec. 19, 1989\], the Secretary of Health and Human Services shall revise and publish, in accordance with the provisions of this Act \[Pub. L. 101–239, see Tables for classification\] and the amendments made thereby, the contribution and benefit base under section 230 of the Social Security Act with respect to remuneration paid after 1989 and taxable years beginning after calendar year 1989."
 
 #### Effective Date of 1984 Amendment
 
@@ -162,7 +162,7 @@ Amendment by Pub. L. 97–34 applicable to compensation paid for services render
 
 Amendment by section 103(a), (b) of Pub. L. 95–216 applicable with respect to remunerations paid or received, and taxable years beginning after, 1977, see section 104 of Pub. L. 95–216, set out as a note under section 1401 of Title 26, Internal Revenue Code.
 
-Pub. L. 95–216, title I, §103(c)(2), Dec. 20, 1977, 91 Stat. 1514, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to plan terminations occurring after the date of the enactment of this Act \[Dec. 20, 1977\].”
+Pub. L. 95–216, title I, §103(c)(2), Dec. 20, 1977, 91 Stat. 1514, provided that: "The amendment made by paragraph (1) \[amending this section\] shall apply with respect to plan terminations occurring after the date of the enactment of this Act \[Dec. 20, 1977\]."
 
 Amendment by section 353(e) of Pub. L. 95–216 effective Jan. 1, 1979, see section 353(g) of Pub. L. 95–216, set out as a note under section 418 of this title.
 
@@ -178,11 +178,13 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 
 #### Social Security Contribution and Benefit Base
 
+<b>2014</b>—By notice of the Commissioner of Social Security, Oct. 31, 2013, 78 F.R. 66413, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2014 is $117,000.
+
 <b>2013</b>—By notice of the Commissioner of Social Security, Oct. 23, 2012, 77 F.R. 65754, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2013 is $113,700.
 
 <b>2012</b>—By notice of the Commissioner of Social Security, Oct. 24, 2011, 76 F.R. 66111, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2012 is $110,100.
 
-<b>2011</b>—By notice of the Commissioner of Social Security, Oct. 26, 2010, 75 F.R. 65696, as corrected Nov. 30, 2010, 75 F.R. 74123, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2011 will remain $106,800.
+<b>2011</b>—By notice of the Commissioner of Social Security, Oct. 26, 2010, 75 F.R. 65696, as corrected Nov. 30, 2010, 75 F.R. 74123, it was determined and announcedthat the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2011 will remain $106,800.
 
 <b>2010</b>—By notice of the Commissioner of Social Security, Oct. 20, 2009, 74 F.R. 55614, it was determined and announced that the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2010 will remain $106,800.
 
@@ -232,7 +234,7 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 
 <b>1987</b>—By notice of the Secretary of Health and Human Services, Oct. 31, 1986, 51 F.R. 40256, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1987 is $43,800.
 
-<b>1986</b>—By notice of the Secretary of Health and Human Services, Oct. 29, 1985, 50 F.R. 45559, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1986 is $42,000.
+<b>1986</b>—By notice of the Secretary of Health and Human Services, Oct. 29, 1985, 50 F.R. 45559, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employmentincome earned in taxable years beginning in, 1986 is $42,000.
 
 <b>1985</b>—By notice of the Secretary of Health and Human Services, Oct. 29, 1984, 49 F.R. 43775, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 1985 is $39,600.
 
@@ -240,7 +242,7 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 
 <b>1982</b>—By notice of the Secretary of Health and Human Services, Oct. 30, 1981, 46 F.R. 53791, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base with respect to remuneration paid in, and taxable years beginning in, 1982 is $32,400.
 
-<b>1978</b>—By notice of the Secretary of Health, Education, and Welfare, Oct. 31, 1977, 42 F.R. 57754, it was determined and announced that, pursuant to authoritycontained in this section, the contribution and benefit base with respect to remuneration paid in, and taxable years beginning in, 1978 is $17,700.
+<b>1978</b>—By notice of the Secretary of Health, Education, and Welfare, Oct. 31, 1977, 42 F.R. 57754, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base with respect to remuneration paid in, and taxable years beginning in, 1978 is $17,700.
 
 <b>1977</b>—By notice of the Secretary of Health, Education, and Welfare, Oct. 7, 1976, 41 F.R. 44878, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base with respect to remuneration paid in, and taxable years beginning in, 1977 is $16,500.
 

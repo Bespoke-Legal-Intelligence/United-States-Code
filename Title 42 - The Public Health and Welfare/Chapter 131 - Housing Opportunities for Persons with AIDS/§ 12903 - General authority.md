@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-The Secretary shall, to the extent of amounts approved in appropriations Acts under section 12912 of this title, make grants to States, unitsof general local government, and nonprofit organizations.
+The Secretary shall, to the extent of amounts approved in appropriations Acts under section 12912 of this title, make grants to States, units of general local government, and nonprofit organizations.
 
 #### (b) Implementation of eligible activities
 
@@ -56,7 +56,7 @@ Funds made available under this section shall be allocated among applications su
 
 &emsp;(3) a description of the public and private resources that are expected to be made available in connection with the proposed activities;
 
-&emsp;(4) assurances satisfactory to the Secretary that any property purchased, leased, rehabilitated, renovated, or converted with assistance under this section shall be operated for not less than 10 years for the purpose specified in the application, except as otherwise specified in this chapter;
+&emsp;(4) assurances satisfactory to the Secretary that any property purchased, leased, rehabilitated, renovated, or converted with assistance under this section shall be operated for notless than 10 years for the purpose specified in the application, except as otherwise specified in this chapter;
 
 &emsp;(5) evidence in a form acceptable to the Secretary that the proposed activities will meet urgent needs that are not being met by available public and private sources; and
 
@@ -74,35 +74,35 @@ In addition to the other requirements of this section, to be eligible for a gran
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–550, §606(d)(1), substituted “, units of general local government, and nonprofit organizations” for “and units of general local government”.
+<b>1992</b>—Subsec. (a). Pub. L. 102–550, §606(d)(1), substituted ", units of general local government, and nonprofit organizations" for "and units of general local government".
 
-Subsec. (b). Pub. L. 102–550, §606(d)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: “
+Subsec. (b). Pub. L. 102–550, §606(d)(2), added subsec. (b) and struck out former subsec. (b) which read as follows: "
 
-Eligibility.—A jurisdiction shall be eligible to receive a grant only if it has obtained an approved housing strategy (or an approved abbreviated housing strategy) in accordance with section 12705 of this title. A grantee shall carry out activities authorized under this chapter through contracts with project sponsors, except that a grantee that is a State shall obtain the approval of the unit of general local government for the locality in which a project is to be located prior to entering into such contracts.”
+Eligibility.—A jurisdiction shall be eligible to receive a grant only if it has obtained an approved housing strategy (or an approved abbreviated housing strategy) in accordance with section 12705 of this title. A grantee shall carry out activities authorized under this chapter through contracts with project sponsors, except that a grantee that is a State shall obtain the approval of the unit of general local government for the locality in which a project is to be located prior to entering into such contracts."
 
-Subsec. (c)(1). Pub. L. 102–550, §606(d)(3), added par. (1) and struck out former par. (1) which read as follows: “
+Subsec. (c)(1). Pub. L. 102–550, §606(d)(3), added par. (1) and struck out former par. (1) which read as follows: "
 
 In general.—90 percent of the amounts approved in appropriations Acts under section 12912 of this title shall be allocated among eligible grantees on the basis of the incidence of acquired immunodeficiency syndrome. Of the amounts made available under the previous sentence, the Secretary shall allocate—
 
-&emsp;“(A) 75 percent among units of general local government located in metropolitan statistical areas with populations in excess of 500,000 and more than 1,500 cases of acquired immunodeficiency syndrome and States with more than 1,500 cases of acquired immunodeficiency syndrome outside of metropolitan statistical areas described in subparagraph (A), and
+&emsp;"(A) 75 percent among units of general local government located in metropolitan statistical areas with populations in excess of 500,000 and more than 1,500 cases of acquired immunodeficiency syndrome and States with more than 1,500 cases of acquired immunodeficiency syndrome outside of metropolitan statistical areas described in subparagraph (A), and
 
-&emsp;“(B) 25 percent among units of general local government in metropolitan statistical areas with populations in excess of 500,000 and more than 1,500 cases of acquired immunodeficiency syndrome, that have a higher than average per capita incidence of acquired immunodeficiency syndrome.”
+&emsp;"(B) 25 percent among units of general local government in metropolitan statistical areas with populations in excess of 500,000 and more than 1,500 cases of acquired immunodeficiency syndrome, that have a higher than average per capita incidence of acquired immunodeficiency syndrome."
 
-Subsec. (c)(3). Pub. L. 102–550, §606(d)(4)(A), substituted “Nonformula allocation” for “Noneligible grantees” in heading.
+Subsec. (c)(3). Pub. L. 102–550, §606(d)(4)(A), substituted "Nonformula allocation" for "Noneligible grantees" in heading.
 
-Subsec. (c)(3)(A). Pub. L. 102–550, §606(d)(4)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: “
+Subsec. (c)(3)(A). Pub. L. 102–550, §606(d)(4)(B), added subpar. (A) and struck out former subpar. (A) which read as follows: "
 
 In general.—10 percent of the amounts appropriated under section 12912 of this title shall be distributed to grantees and recipients by the Secretary—
 
-&emsp;“(i) to meet housing needs in States and localities that do not qualify under paragraph (1), or that do qualify under paragraph (1) but do not have an approved housing strategy under section 12705 of this title, and
+&emsp;"(i) to meet housing needs in States and localities that do not qualify under paragraph (1), or that do qualify under paragraph (1) but do not have an approved housing strategy under section 12705 of this title, and
 
-&emsp;“(ii) to fund special projects of national significance.”
+&emsp;"(ii) to fund special projects of national significance."
 
-Subsec. (c)(3)(B), (C). Pub. L. 102–550, §606(j)(2), substituted “eligible persons” for “persons with acquired immunodeficiency syndrome” wherever appearing.
+Subsec. (c)(3)(B), (C). Pub. L. 102–550, §606(j)(2), substituted "eligible persons" for "persons with acquired immunodeficiency syndrome" wherever appearing.
 
-Subsec. (d). Pub. L. 102–550, §606(d)(5), substituted “applications submitted by applicants and approved by the Secretary” for “approvable applications submitted by eligible applicants” in first sentence.
+Subsec. (d). Pub. L. 102–550, §606(d)(5), substituted "applications submitted by applicants and approved by the Secretary" for "approvable applications submitted by eligible applicants" in first sentence.
 
-Subsec. (e). Pub. L. 102–550, §606(d)(6), substituted “other requirements of this section” for “requirements of subsection (b) of this section”.
+Subsec. (e). Pub. L. 102–550, §606(d)(6), substituted "other requirements of this section" for "requirements of subsection (b) of this section".
 
 Subsec. (f). Pub. L. 102–550, §606(d)(7), added subsec. (f).
 

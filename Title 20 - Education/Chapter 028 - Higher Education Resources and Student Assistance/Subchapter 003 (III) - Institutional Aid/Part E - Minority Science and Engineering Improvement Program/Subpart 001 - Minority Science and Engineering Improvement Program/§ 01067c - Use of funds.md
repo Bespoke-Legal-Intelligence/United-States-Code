@@ -26,7 +26,7 @@ Funds appropriated to carry out this subpart may be made available as—
 
 &emsp;(B) disseminating information about established programs in science and engineering;
 
-&emsp;(C) supporting cooperative efforts to strengthen the institutions’ science and engineering programs; or
+&emsp;(C) supporting cooperative efforts to strengthen the institutions' science and engineering programs; or
 
 &emsp;(D) carrying out a combination of any of the activities in subparagraphs (A) through (C).
 
@@ -34,7 +34,7 @@ Funds appropriated to carry out this subpart may be made available as—
 
 &emsp;(A) developing planning, management, and evaluation systems; or
 
-&emsp;(B) developing plans for initiating scientific research and for improving institutions’ capabilities for such activities.
+&emsp;(B) developing plans for initiating scientific research and for improving institutions' capabilities for such activities.
 
 > Funds used for design project grants may not be used to pay more than 50 percent of the salaries during any academic year of faculty members involved in the project.
 
@@ -70,13 +70,13 @@ A prior section 353 of Pub. L. 89–329 was renumbered section 393 and is classi
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a)(1). Pub. L. 105–244, §301(c)(8)(A), substituted “section 1067k(6)” for “section 1135d–5(6)”.
+<b>1998</b>—Subsec. (a)(1). Pub. L. 105–244, §301(c)(8)(A), substituted "section 1067k(6)" for "section 1135d–5(6)".
 
-Subsec. (a)(2). Pub. L. 105–244, §301(c)(8)(B), substituted “section 1067k(7)” for “section 1135d–5(7)”.
+Subsec. (a)(2). Pub. L. 105–244, §301(c)(8)(B), substituted "section 1067k(7)" for "section 1135d–5(7)".
 
-Subsec. (a)(3). Pub. L. 105–244, §301(c)(8)(C), substituted “section 1067k(8)” for “section 1135d–5(8)”.
+Subsec. (a)(3). Pub. L. 105–244, §301(c)(8)(C), substituted "section 1067k(8)" for "section 1135d–5(8)".
 
-Subsec. (a)(4). Pub. L. 105–244, §301(c)(8)(D), substituted “section 1067k(9)” for “section 1135d–5(9)”.
+Subsec. (a)(4). Pub. L. 105–244, §301(c)(8)(D), substituted "section 1067k(9)" for "section 1135d–5(9)".
 
 #### Effective Date of 1998 Amendment
 

@@ -10,5 +10,5 @@ The Secretary concerned may enter into agreements with eligible entities that ac
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–65 substituted “eligible entities” for “private persons” in introductory provisions.
+<b>1999</b>—Pub. L. 106–65 substituted "eligible entities" for "private persons" in introductory provisions.
 

@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Aug. 6, 1956, ch. 976, §15, 70 Stat. 1056.
 
-The word “satisfaction” is omitted as included in “discharge”, and the word “obligations” is omitted as included in “liabilities”. The words “outstanding” and “all Federal and State laws applicable thereto” are omitted as unnecessary.
+The word "satisfaction" is omitted as included in "discharge", and the word "obligations" is omitted as included in "liabilities". The words "outstanding" and "all Federal and State laws applicable thereto" are omitted as unnecessary.
 

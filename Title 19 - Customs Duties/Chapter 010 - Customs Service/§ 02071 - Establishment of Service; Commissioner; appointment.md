@@ -14,7 +14,7 @@ There shall be in the Department of the Treasury a service to be known as the Un
 
 Provisions that fixed the compensation of the Commissioner have been omitted as the position is under the Executive Schedule, see section 5316 of Title 5, Government Organization and Employees.
 
-Provisions that authorized appointment of the Commissioner “without regard to the civil service laws” were omitted as the appointment is subject to the civil service laws unless specifically excepted by such laws or by laws enacted subsequent to Executive Order No.8743, Apr. 23, 1941, issued by the President pursuant to the act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5. The position is currently excepted from the civil service rules and regulations by Schedule C, see Part 213 of Title 5 of the Code of Federal Regulations.
+Provisions that authorized appointment of the Commissioner "without regard to the civil service laws" were omitted as the appointment is subject to the civil service laws unless specifically excepted by such laws or by laws enacted subsequent to Executive Order No.8743, Apr. 23, 1941, issued by the President pursuant to the act of Nov. 26, 1940, ch. 919, title I, §1, 54 Stat. 1211, which covered most excepted positions into the classified (competitive) civil service. The Order is set out as a note under section 3301 of Title 5. The position is currently excepted from the civil service rules and regulations by Schedule C, see Part 213 of Title 5 of the Code of Federal Regulations.
 
 Section was formerly classified to section 281 of Title 5 prior to the general revision and codification of Title 5 by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
@@ -22,15 +22,15 @@ References to the Bureau of Prohibition and to the Commissioner of Prohibition w
 
 #### Amendments
 
-<b>1989</b>—Pub. L. 101–207 amended second sentence generally. Prior to amendment, second sentence read as follows: “The Commissioner of Customs shall be at the head of the United States Customs Service, and the Commissioner of Customs shall be appointed by the Secretary of the Treasury.”
+<b>1989</b>—Pub. L. 101–207 amended second sentence generally. Prior to amendment, second sentence read as follows: "The Commissioner of Customs shall be at the head of the United States Customs Service, and the Commissioner of Customs shall be appointed by the Secretary of the Treasury."
 
 #### Change of Name
 
-“United States Customs Service” substituted in text for “Bureau of Customs” pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, section 308 of Title 31, Money and Finance.
+"United States Customs Service" substituted in text for "Bureau of Customs" pursuant to Treasury Department Order 165–23, Apr. 4, 1973, eff. Aug. 1, 1973, 38 F.R. 13037. See, also, section 308 of Title 31, Money and Finance.
 
 #### Effective Date
 
-Act Mar. 3, 1927, ch. 348, §7, 44 Stat. 1383, provided that: “This Act shall take effect April 1, 1927.”
+Act Mar. 3, 1927, ch. 348, §7, 44 Stat. 1383, provided that: "This Act shall take effect April 1, 1927."
 
 #### Transfer of Functions
 
@@ -44,69 +44,69 @@ Functions of all officers of Department of the Treasury and functions of all age
 
 Pub. L. 107–210, div. A, title III, §343(a), (c), Aug. 6, 2002, 116 Stat. 981, 985, as amended by Pub. L. 107–295, title I, §108(b), Nov. 25, 2002, 116 Stat. 2089; Pub. L. 109–59, title XI, §11165(a), Aug. 10, 2005, 119 Stat. 1976, provided that:
 
-“(a)
+"(a)
 
 Cargo Information.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 In general.—(A) Subject to paragraphs (2) and (3), the Secretary is authorized to promulgate regulations providing for the transmission to the Customs Service, through an electronic data interchange system, of information pertaining to cargo to be brought into the United States or to be sent from the United States, prior to the arrival or departure of the cargo.
 
-&emsp;“(B) The Secretary shall endeavor to promulgate an initial set of regulations under subparagraph (A) not later than October 1, 2003.
+&emsp;"(B) The Secretary shall endeavor to promulgate an initial set of regulations under subparagraph (A) not later than October 1, 2003.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Information required.—The cargo information required by the regulations promulgated pursuant to paragraph (1) under the parameters set forth in paragraph (3) shall be such information on cargo as the Secretary determines to be reasonably necessary to ensure cargo safety and security pursuant to those laws enforced and administered by the Customs Service. The Secretary shall provide to appropriate Federal departments and agencies cargo information obtained pursuant to paragraph (1).
 
-&emsp;“(3)
+&emsp;"(3)
 
 Parameters.—In developing regulations pursuant to paragraph (1), the Secretary shall adhere to the following parameters:
 
-&emsp;&emsp;“(A) The Secretary shall solicit comments from and consult with a broad range of parties likely to be affected by the regulations, including importers, exporters, carriers, customs brokers, and freight forwarders, among other interested parties.
+&emsp;&emsp;"(A) The Secretary shall solicit comments from and consult with a broad range of parties likely to be affected by the regulations, including importers, exporters, carriers, customs brokers, and freight forwarders, among other interested parties.
 
-&emsp;&emsp;“(B) In general, the requirement to provide particular information shall be imposed on the party most likely to have direct knowledge of that information. Where requiring information from the party with direct knowledge of that information is not practicable, the regulations shall take into account how, under ordinary commercial practices, information is acquired by the party on which the requirement is imposed, and whether and how such party is able to verify the information. Where information is not reasonably verifiable by the party on which a requirement is imposed, the regulations shall permit that party to transmit information on the basis of what it reasonably believes to be true.
+&emsp;&emsp;"(B) In general, the requirement to provide particular information shall be imposed on the party most likely to have direct knowledge of that information. Where requiring information from the party with direct knowledge of that information is not practicable, the regulations shall take into account how, under ordinary commercial practices, information is acquired by the party on which the requirement is imposed, and whether and how such party is able to verify the information. Where information is not reasonably verifiable by the party on which a requirement is imposed, the regulations shall permit that party to transmit information on the basis of what it reasonably believes to be true.
 
-&emsp;&emsp;“(C) The Secretary shall take into account the existence of competitive relationships among the parties on which requirements to provide particular information are imposed.
+&emsp;&emsp;"(C) The Secretary shall take into account the existence of competitive relationships among the parties on which requirements to provide particular information are imposed.
 
-&emsp;&emsp;“(D) Where the regulations impose requirements on carriers of cargo, they shall take into account differences among different modes of transportation, including differences in commercial practices, operational characteristics, and technological capacity to collect and transmit information electronically.
+&emsp;&emsp;"(D) Where the regulations impose requirements on carriers of cargo, they shall take into account differences among different modes of transportation, including differences in commercial practices, operational characteristics, and technological capacity to collect and transmit information electronically.
 
-&emsp;&emsp;“(E) The regulations shall take into account the extent to which the technology necessary for parties to transmit and the Customs Service to receive and analyze data in a timely fashion is available. To the extent that the Secretary determines that the necessary technology will not be widely available to particular modes of transportation or other affected parties until after promulgation of the regulations, the regulations shall provide interim requirements appropriate for the technology that is available at the time of promulgation.
+&emsp;&emsp;"(E) The regulations shall take into account the extent to which the technology necessary for parties to transmit and the Customs Service to receive and analyze data in a timely fashion is available. To the extent that the Secretary determines that the necessary technology will not be widely available to particular modes of transportation or other affected parties until after promulgation of the regulations, the regulations shall provide interim requirements appropriate for the technology that is available at the time of promulgation.
 
-&emsp;&emsp;“(F) The information collected pursuant to the regulations shall be used exclusively for ensuring cargo safety and security and preventing smuggling, and shall not be used for determining merchandise entry or for any other commercial enforcement purposes. Notwithstanding the preceding sentence, nothing in this section \[enacting section 1431a of this title and this note\] shall be treated as amending, repealing, or otherwise modifying title IV of the Tariff Act of 1930 \[19 U.S.C. 1401 et seq.\] or regulations promulgated thereunder.
+&emsp;&emsp;"(F) The information collected pursuant to the regulations shall be used exclusively for ensuring cargo safety and security and preventing smuggling, and shall not be used for determining merchandise entry or for any other commercial enforcement purposes. Notwithstanding the preceding sentence, nothing in this section \[enacting section 1431a of this title and this note\] shall be treated as amending, repealing, or otherwise modifying title IV of the Tariff Act of 1930 \[19 U.S.C. 1401 et seq.\] or regulations promulgated thereunder.
 
-&emsp;&emsp;“(G) The regulations shall protect the privacy of business proprietary and any other confidential cargo information provided to the Customs Service pursuant to such regulations, except for the manifest information collected pursuant to section 431 of the Tariff Act of 1930 \[19 U.S.C. 1431\] and required to be available for public disclosure pursuant to section 431(c) of such Act.. \[sic\]
+&emsp;&emsp;"(G) The regulations shall protect the privacy of business proprietary and any other confidential cargo information provided to the Customs Service pursuant to such regulations, except for the manifest information collected pursuant to section 431 of the Tariff Act of 1930 \[19 U.S.C. 1431\] and required to be available for public disclosure pursuant to section 431(c) of such Act.. \[sic\]
 
-&emsp;&emsp;“(H) In determining the timing for transmittal of any information, the Secretary shall balance likely impact on flow of commerce with impact on cargo safety and security. With respect to requirements that may be imposed on carriers of cargo, the timing for transmittal of information shall take into account differences among different modes of transportation, as described in subparagraph (D).
+&emsp;&emsp;"(H) In determining the timing for transmittal of any information, the Secretary shall balance likely impact on flow of commerce with impact on cargo safety and security. With respect to requirements that may be imposed on carriers of cargo, the timing for transmittal of information shall take into account differences among different modes of transportation, as described in subparagraph (D).
 
-&emsp;&emsp;“(I) Where practicable, the regulations shall avoid imposing requirements that are redundant with one another or that are redundant with requirements in other provisions of law.
+&emsp;&emsp;"(I) Where practicable, the regulations shall avoid imposing requirements that are redundant with one another or that are redundant with requirements in other provisions of law.
 
-&emsp;&emsp;“(J) The Secretary shall determine whether it is appropriate to provide transition periods between promulgation of the regulations and the effective date of the regulations and shall prescribe such transition periods in the regulations, as appropriate. The Secretary may determine that different transition periods are appropriate for different classes of affected parties.
+&emsp;&emsp;"(J) The Secretary shall determine whether it is appropriate to provide transition periods between promulgation of the regulations and the effective date of the regulations and shall prescribe such transition periods in the regulations, as appropriate. The Secretary may determine that different transition periods are appropriate for different classes of affected parties.
 
-&emsp;&emsp;“(K) With respect to requirements imposed on carriers, the Secretary, in consultation with the Postmaster General, shall determine whether it is appropriate to impose the same or similar requirements on shipments by the United States Postal Service. If the Secretary determines that such requirements are appropriate, then they shall be set forth in the regulations.
+&emsp;&emsp;"(K) With respect to requirements imposed on carriers, the Secretary, in consultation with the Postmaster General, shall determine whether it is appropriate to impose the same or similar requirements on shipments by the United States Postal Service. If the Secretary determines that such requirements are appropriate, then they shall be set forth in the regulations.
 
-&emsp;&emsp;“(L) Not later than 15 days prior to publication of a final rule pursuant to this section, the Secretary shall transmit to the Committees on Finance and Commerce, Science, and Transportation of the Senate and the Committees on Ways and Means and Transportation and Infrastructure of the House of Representatives a report setting forth—
+&emsp;&emsp;"(L) Not later than 15 days prior to publication of a final rule pursuant to this section, the Secretary shall transmit to the Committees on Finance and Commerce, Science, and Transportation of the Senate and the Committees on Ways and Means and Transportation and Infrastructure of the House of Representatives a report setting forth—
 
-&emsp;&emsp;&emsp;“(i) the proposed regulations;
+&emsp;&emsp;&emsp;"(i) the proposed regulations;
 
-&emsp;&emsp;&emsp;“(ii) an explanation of how particular requirements in the proposed regulations meet the needs of cargo safety and security;
+&emsp;&emsp;&emsp;"(ii) an explanation of how particular requirements in the proposed regulations meet the needs of cargo safety and security;
 
-&emsp;&emsp;&emsp;“(iii) an explanation of how the Secretary expects the proposed regulations to affect the commercial practices of affected parties;
+&emsp;&emsp;&emsp;"(iii) an explanation of how the Secretary expects the proposed regulations to affect the commercial practices of affected parties;
 
-&emsp;&emsp;&emsp;“(iv) an explanation of how the proposed regulations address particular comments received from interested parties; and
+&emsp;&emsp;&emsp;"(iv) an explanation of how the proposed regulations address particular comments received from interested parties; and
 
-&emsp;&emsp;&emsp;“(v) if the Secretary determines to amend the proposed regulations after they have been transmitted to the Committees pursuant to this subparagraph, the Secretary shall transmit the amended regulations to such Committees no later than 5 days prior to the publication of the final rule.
+&emsp;&emsp;&emsp;"(v) if the Secretary determines to amend the proposed regulations after they have been transmitted to the Committees pursuant to this subparagraph, the Secretary shall transmit the amended regulations to such Committees no later than 5 days prior to the publication of the final rule.
 
-&emsp;“(4)
+&emsp;"(4)
 
 Transmission of data.—Pursuant to paragraph (2), not later than 1 year after the date of enactment of this paragraph \[Aug. 10, 2005\], the Secretary of Homeland Security, after consultation with the Secretary of the Treasury, shall establish an electronic data interchange system through which the United States Customs and Border Protection shall transmit to the Internal Revenue Service information pertaining to cargoes of any taxable fuel (as defined in section 4083 of the Internal Revenue Code of 1986 \[26 U.S.C. 4083\]) that the United States Customs and Border Protection has obtained electronically under its regulations adopted in accordance with paragraph (1). For this purpose, not later than 1 year after the date of enactment of this paragraph, all filers of required cargo information for such taxable fuels (as so defined) must provide such information to the United States Customs and Border Protection through such electronic data interchange system.
 
-“(c)
+"(c)
 
-Secretary.—For purposes of this section \[enacting section 1431a of this title and this note\], the term ‘Secretary’ means the Secretary of the Treasury. If, at the time the regulations required by subsection (a)(1) are promulgated, the Customs Service is no longer located in the Department of the Treasury, then the Secretary of the Treasury shall exercise the authority under subsection (a) jointly with the Secretary of the Department in which the Customs Service is located.”
+Secretary.—For purposes of this section \[enacting section 1431a of this title and this note\], the term 'Secretary' means the Secretary of the Treasury. If, at the time the regulations required by subsection (a)(1) are promulgated, the Customs Service is no longer located in the Department of the Treasury, then the Secretary of the Treasury shall exercise the authority under subsection (a) jointly with the Secretary of the Department in which the Customs Service is located."
 
-\[Pub. L. 109–59, title XI, §11165(b), Aug. 10, 2005, 119 Stat. 1976, provided that: “The amendment made by this section \[amending section 343(a) of Pub. L. 107–210, set out above\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2005\].”\]
+\[Pub. L. 109–59, title XI, §11165(b), Aug. 10, 2005, 119 Stat. 1976, provided that: "The amendment made by this section \[amending section 343(a) of Pub. L. 107–210, set out above\] shall take effect on the date of the enactment of this Act \[Aug. 10, 2005\]."\]
 
-\[Pub. L. 107–295, title I, §108(b)(3)(D)(i)(II), Nov. 25, 2002, 116 Stat. 2090, which directed the amendment of section 343(a)(3)(L) of Pub. L. 107–210, set out above, by substituting “publication of a final rule pursuant to this section” for “promulgation of regulations” in the matter preceding cl. (i), was executed by making the substitution for “promulgation of the regulations” to reflect the probable intent of Congress.\]
+\[Pub. L. 107–295, title I, §108(b)(3)(D)(i)(II), Nov. 25, 2002, 116 Stat. 2090, which directed the amendment of section 343(a)(3)(L) of Pub. L. 107–210, set out above, by substituting "publication of a final rule pursuant to this section" for "promulgation of regulations" in the matter preceding cl. (i), was executed by making the substitution for "promulgation of the regulations" to reflect the probable intent of Congress.\]
 
 #### Secure Systems of Transportation
 
@@ -114,27 +114,27 @@ Pub. L. 107–210, div. A, title III, §343A, Aug. 6, 2002, 116 Stat. 985, requi
 
 #### Extension of Pre-Clearance Program in Aruba
 
-Pub. L. 102–393, title VI, §637, Oct. 6, 1992, 106 Stat. 1779, provided that: “Notwithstanding any other provision of law, the United States Customs Service pilot pre-clearance program authorized to be established in Aruba shall be extended through 1994.”
+Pub. L. 102–393, title VI, §637, Oct. 6, 1992, 106 Stat. 1779, provided that: "Notwithstanding any other provision of law, the United States Customs Service pilot pre-clearance program authorized to be established in Aruba shall be extended through 1994."
 
 #### Reports Regarding Expansion of Customs Preclearance Operations and Recovery for Damage Resulting From Customs Examinations
 
 Pub. L. 101–382, title I, §124, Aug. 20, 1990, 104 Stat. 643, provided that:
 
-“(a)
+"(a)
 
-Customs Preclearance.—The Secretary of the Treasury, in consultation with the Secretary of State, shall assess the advisability of expanding the use of preclearance operations by the United States Customs Service at foreign airports. The Secretary of the Treasury shall submit a report on the assessment to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereafter in this section referred to as the ‘Committees’) no later than February 1, 1991.
+Customs Preclearance.—The Secretary of the Treasury, in consultation with the Secretary of State, shall assess the advisability of expanding the use of preclearance operations by the United States Customs Service at foreign airports. The Secretary of the Treasury shall submit a report on the assessment to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate (hereafter in this section referred to as the 'Committees') no later than February 1, 1991.
 
-“(b)
+"(b)
 
 Recovery for Customs Damage.—
 
-&emsp;“(1) The Secretary of the Treasury, in consultation with the Attorney General, shall determine and evaluate various means by which persons whose merchandise is damaged during customs examinations may seek compensation from, or take other recourse against, the United States Customs Service regarding the damage.
+&emsp;"(1) The Secretary of the Treasury, in consultation with the Attorney General, shall determine and evaluate various means by which persons whose merchandise is damaged during customs examinations may seek compensation from, or take other recourse against, the United States Customs Service regarding the damage.
 
-&emsp;“(2) No later than February 1, 1991, the Secretary of the Treasury shall submit to the Committees a report on the evaluation required under paragraph (1), together with any legislative recommendation that the Secretary considers appropriate.
+&emsp;"(2) No later than February 1, 1991, the Secretary of the Treasury shall submit to the Committees a report on the evaluation required under paragraph (1), together with any legislative recommendation that the Secretary considers appropriate.
 
-“(c)
+"(c)
 
-Merchandise Damage Statistics.—The Commissioner of Customs shall keep accurate statistics on the incidence, nature, and extent of damage to merchandise resulting from customs examinations and shall provide an annual summary of these statistics to the Committees.”
+Merchandise Damage Statistics.—The Commissioner of Customs shall keep accurate statistics on the incidence, nature, and extent of damage to merchandise resulting from customs examinations and shall provide an annual summary of these statistics to the Committees."
 
 #### Pilot Preclearance Program
 
@@ -142,33 +142,33 @@ Pub. L. 101–382, title II, §233, Aug. 20, 1990, 104 Stat. 663, required the C
 
 #### Incumbent Commissioner on December 6, 1989
 
-Pub. L. 101–207, §3(b)(2), Dec. 7, 1989, 103 Stat. 1834, provided that: “The individual who is serving as the Commissioner of Customs on the day before the date of the enactment of this Act \[Dec. 7, 1989\] may continue to serve in such capacity until a Commissioner of Customs, appointed as provided in the amendment made by paragraph (1) \[amending this section\], takes office.”
+Pub. L. 101–207, §3(b)(2), Dec. 7, 1989, 103 Stat. 1834, provided that: "The individual who is serving as the Commissioner of Customs on the day before the date of the enactment of this Act \[Dec. 7, 1989\] may continue to serve in such capacity until a Commissioner of Customs, appointed as provided in the amendment made by paragraph (1) \[amending this section\], takes office."
 
 #### Advisory Committee on Commercial Operations of United States Customs Service
 
 Pub. L. 100–203, title IX, §9503(c), Dec. 22, 1987, 101 Stat. 1330–381, provided that:
 
-“(1) The Secretary of the Treasury shall establish an advisory committee which shall be known as the ‘Advisory Committee on Commercial Operations of the United States Customs Service’ (hereafter in this subsection referred to as the ‘Advisory Committee’).
+"(1) The Secretary of the Treasury shall establish an advisory committee which shall be known as the 'Advisory Committee on Commercial Operations of the United States Customs Service' (hereafter in this subsection referred to as the 'Advisory Committee').
 
-“(2)(A) The Advisory Committee shall consist of 20 members appointed by the Secretary of the Treasury.
+"(2)(A) The Advisory Committee shall consist of 20 members appointed by the Secretary of the Treasury.
 
-“(B) In making appointments under subparagraph (A), the Secretary of the Treasury shall ensure that—
+"(B) In making appointments under subparagraph (A), the Secretary of the Treasury shall ensure that—
 
-&emsp;“(i) the membership of the Advisory Committee is representative of the individuals and firms affected by the commercial operations of the United States Customs Service; and
+&emsp;"(i) the membership of the Advisory Committee is representative of the individuals and firms affected by the commercial operations of the United States Customs Service; and
 
-&emsp;“(ii) a majority of the members of the Advisory Committee do not belong to the same political party.
+&emsp;"(ii) a majority of the members of the Advisory Committee do not belong to the same political party.
 
-“(3) The Advisory Committee shall—
+"(3) The Advisory Committee shall—
 
-&emsp;“(A) provide advice to the Secretary of the Treasury on all matters involving the commercial operations of the United States Customs Service; and
+&emsp;"(A) provide advice to the Secretary of the Treasury on all matters involving the commercial operations of the United States Customs Service; and
 
-&emsp;“(B) submit an annual report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives that shall—
+&emsp;"(B) submit an annual report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives that shall—
 
-&emsp;&emsp;“(i) describe the operations of the Advisory Committee during the preceding year, and
+&emsp;&emsp;"(i) describe the operations of the Advisory Committee during the preceding year, and
 
-&emsp;&emsp;“(ii) set forth any recommendations of the Advisory Committee regarding the commercial operations of the United States Customs Service.
+&emsp;&emsp;"(ii) set forth any recommendations of the Advisory Committee regarding the commercial operations of the United States Customs Service.
 
-“(4) The Assistant Secretary of the Treasury for Enforcement shall preside over meetings of the Advisory Committee.”
+"(4) The Assistant Secretary of the Treasury for Enforcement shall preside over meetings of the Advisory Committee."
 
 Pub. L. 99–272, title XIII, §13033, Apr. 7, 1986, 100 Stat. 311, which provided for the establishment of an advisory committee, whose members were to consist of representatives from the airline, shipping, and other transportation industries, the general public, and others, to advise the Secretary of the Treasury on issues related to the performance of the customs services, was repealed by Pub. L. 100–203, title IX, §9503(d), Dec. 22, 1987, 101 Stat. 1330–382.
 

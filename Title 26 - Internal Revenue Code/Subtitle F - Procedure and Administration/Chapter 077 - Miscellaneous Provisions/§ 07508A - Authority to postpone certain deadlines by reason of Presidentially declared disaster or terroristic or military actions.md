@@ -4,7 +4,7 @@
 
 In the case of a taxpayer determined by the Secretary to be affected by a federally declared disaster (as defined by section 165(h)(3)(C)(i)) or a terroristic or military action (as defined in section 692(c)(2)), the Secretary may specify a period of up to 1 year that may be disregarded in determining, under the internal revenue laws, in respect of any tax liability of such taxpayer—
 
-&emsp;(1) whether any of the acts described in paragraph (1) of section 7508(a) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periodsafter the date (determined by the Secretary) of such disaster or action),
+&emsp;(1) whether any of the acts described in paragraph (1) of section 7508(a) were performed within the time prescribed therefor (determined without regard to extension under any other provision of this subtitle for periods after the date (determined by the Secretary) of such disaster or action),
 
 &emsp;(2) the amount of any interest, penalty, additional amount, or addition to the tax for periods after such date, and
 
@@ -22,11 +22,11 @@ The rules of section 7508(b) shall apply for purposes of this section.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–343 substituted “federally declared disaster (as defined by section 165(h)(3)(C)(i))” for “Presidentially declared disaster (as defined in section 1033(h)(3))” in introductory provisions.
+<b>2008</b>—Subsec. (a). Pub. L. 110–343 substituted "federally declared disaster (as defined by section 165(h)(3)(C)(i))" for "Presidentially declared disaster (as defined in section 1033(h)(3))" in introductory provisions.
 
 <b>2002</b>—Pub. L. 107–134 amended section catchline and text generally, substituting present provisions for provisions which had: in subsec. (a), authorized Secretary to postpone certain tax-related deadlines by reason of presidentially declared disaster, and in subsec. (b), provided that subsec. (a) would not apply for the purpose of determining interest on any overpayment or underpayment.
 
-<b>2001</b>—Subsec. (a). Pub. L. 107–16 substituted “120 days” for “90 days” in introductory provisions.
+<b>2001</b>—Subsec. (a). Pub. L. 107–16 substituted "120 days" for "90 days" in introductory provisions.
 
 #### Effective Date of 2008 Amendment
 
@@ -38,45 +38,45 @@ Amendment by Pub. L. 107–134 applicable to disasters and terroristic or milita
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–16, title VIII, §802(b), June 7, 2001, 115 Stat. 149, provided that: “The amendment made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[June 7, 2001\].”
+Pub. L. 107–16, title VIII, §802(b), June 7, 2001, 115 Stat. 149, provided that: "The amendment made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[June 7, 2001\]."
 
 #### Effective Date
 
-Pub. L. 105–34, title IX, §911(c), Aug. 5, 1997, 111 Stat. 878, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to any period for performing an act that has not expired before the date of the enactment of this Act \[Aug. 5, 1997\].”
+Pub. L. 105–34, title IX, §911(c), Aug. 5, 1997, 111 Stat. 878, provided that: "The amendments made by this section \[enacting this section\] shall apply with respect to any period for performing an act that has not expired before the date of the enactment of this Act \[Aug. 5, 1997\]."
 
 #### Authority To Postpone Certain Tax-Related Deadlines by Reason of Y2K Failures
 
 Pub. L. 106–170, title V, §522, Dec. 17, 1999, 113 Stat. 1927, provided that:
 
-“(a)
+"(a)
 
 In General.—In the case of a taxpayer determined by the Secretary of the Treasury (or the Secretary's delegate) to be affected by a Y2K failure, the Secretary may disregard a period of up to 90 days in determining, under the internal revenue laws, in respect of any tax liability (including any interest, penalty, additional amount, or addition to the tax) of such taxpayer—
 
-&emsp;“(1) whether any of the acts described in paragraph (1) of section 7508(a) of the Internal Revenue Code of 1986 (without regard to the exceptions in parentheses in subparagraphs (A) and (B)) were performed within the time prescribed therefor; and
+&emsp;"(1) whether any of the acts described in paragraph (1) of section 7508(a) of the Internal Revenue Code of 1986 (without regard to the exceptions in parentheses in subparagraphs (A) and (B)) were performed within the time prescribed therefor; and
 
-&emsp;“(2) the amount of any credit or refund.
+&emsp;"(2) the amount of any credit or refund.
 
-“(b)
+"(b)
 
-Applicability of Certain Rules.—For purposes of this section, rules similar to the rules of subsections (b) and (e) of section 7508 of the Internal Revenue Code of 1986 shall apply.”
+Applicability of Certain Rules.—For purposes of this section, rules similar to the rules of subsections (b) and (e) of section 7508 of the Internal Revenue Code of 1986 shall apply."
 
 #### Abatement of Interest on Underpayments by Taxpayers in Presidentially Declared Disaster Areas
 
 Pub. L. 105–34, title IX, §915, Aug. 5, 1997, 111 Stat. 879, as amended by Pub. L. 105–277, div. J, title IV, §4003(e)(1), Oct. 21, 1998, 112 Stat. 2681–909, provided that:
 
-“(a)
+"(a)
 
-In General.—If the Secretary of the Treasury extends for any period the time for filing income tax returns under section 6081 of the Internal Revenue Code of 1986 and the time for paying income tax with respect to such returns under section 6161 of such Code (and waives any penalties relating to the failure to so file or so pay) for any individual located in a Presidentially declared disaster area, the Secretary shall, notwithstanding section 7508A(b) of such Code, abate for such period the assessment of any interest prescribed under section 6601 of such Code on such income tax.
+In General.—If the Secretary of the Treasury extends for any period the time for filing income taxreturns under section 6081 of the Internal Revenue Code of 1986 and the time for paying income tax with respect to such returns under section 6161 of such Code (and waives any penalties relating to the failure to so file or so pay) for any individual located in a Presidentially declared disaster area, the Secretary shall, notwithstanding section 7508A(b) of such Code, abate for such period the assessment of any interest prescribed under section 6601 of such Code on such income tax.
 
-“(b)
+"(b)
 
-Presidentially Declared Disaster Area.—For purposes of subsection (a), the term ‘Presidentially declared disaster area’ means, with respect to any individual, any area which the President has determined during 1997 or 1998 warrants assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\].
+Presidentially Declared Disaster Area.—For purposes of subsection (a), the term 'Presidentially declared disaster area' means, with respect to any individual, any area which the President has determined during 1997 or 1998 warrants assistance by the Federal Government under the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\].
 
-“(c)
+"(c)
 
-Individual.—For purposes of this section, the term ‘individual’ shall not include any estate or trust.
+Individual.—For purposes of this section, the term 'individual' shall not include any estate or trust.
 
-“(d)
+"(d)
 
-Effective Date.—This section shall apply to disasters declared after December 31, 1996.”
+Effective Date.—This section shall apply to disasters declared after December 31, 1996."
 

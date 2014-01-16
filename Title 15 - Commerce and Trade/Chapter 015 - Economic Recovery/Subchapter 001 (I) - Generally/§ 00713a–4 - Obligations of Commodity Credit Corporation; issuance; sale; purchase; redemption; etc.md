@@ -2,43 +2,43 @@
 
 With the approval of the Secretary of the Treasury, the Commodity Credit Corporation is authorized to issue and have outstanding at any one time, bonds, notes, debentures, and other similar obligations in an aggregate amount not exceeding $30,000,000,000. Such obligations shall be in such forms and denominations, shall have such maturities, shall bear such rates of interest, shall be subject to such terms and conditions, and shall be issued in such manner and sold at such prices as may be prescribed by the Commodity Credit Corporation, with the approval of the Secretary of the Treasury. Such obligations shall be fully and unconditionally guaranteed both as to interest and principal by the United States, and such guaranty shall be expressed on the face thereof, and such obligations shall be lawful investments and may be accepted as security for all fiduciary, trust, and public funds the investment or deposit of which shall be under the authority or control of the United States or any officer or officers thereof. In the event that the Commodity Credit Corporation shall be unable to pay upon demand, when due, the principal of, or interest on, such obligations, the Secretary of the Treasury shall pay to the holder the amount thereof which is authorized to be appropriated, out of any money in the Treasury not otherwise appropriated, and thereupon to the extent of the amount so paid the Secretary of the Treasury shall succeed to all the rights of the holders of such obligations. The Secretary of the Treasury, in his discretion, is authorized to purchase any obligations of the Commodity Credit Corporation issued hereunder, and for such purpose the Secretary of the Treasury is authorized to use as a public-debt transaction the proceeds from the sale of any securities hereafter issued under chapter 31 of title 31 and the purposes for which securities may be issued under such chapter are extended to include any purchases of the Commodity Credit Corporation's obligations hereunder. The Secretary of the Treasury may at any time sell any of the obligations of the Commodity Credit Corporation acquired by him under this section. All redemptions, purchases, and sales by the Secretary of the Treasury of the obligations of the Commodity Credit Corporation shall be treated as public-debt transactions of the United States. No such obligations shall be issued in excess of the assets of the Commodity Credit Corporation, including the assets to be obtained from the proceeds of such obligations, but a failure to comply with this provision shall not invalidate the obligations or the guaranty of the same: <i>Provided</i>, That this sentence shall not limit the authority of the Corporation to issue obligations for the purpose of carrying out its annual budget programs submitted to and approved by the Congress pursuant to chapter 91 of title 31. The Commodity Credit Corporation shall have power to purchase such obligations in the open market at any time and at any price.
 
-(Mar. 8, 1938, ch. 44, §4, 52 Stat. 108; Mar. 4, 1939, ch. 5, §1(d), 53 Stat. 511; Aug. 9, 1940, ch. 649, 54 Stat. 782; July 1, 1941, ch. 270, §3, 55 Stat. 498; July 16, 1943, ch. 241, §2, 57 Stat. 566; Apr. 12, 1945, ch. 54, §1, 59 Stat. 50; Oct. 31, 1949, ch. 792, title IV, §410, 63 Stat. 1057; June 28, 1950, ch. 381, §1, 64 Stat. 261; Mar. 20, 1954, ch. 102, §1(a), 68 Stat. 30; Aug. 31, 1954, ch. 1172, §1, 68 Stat. 1047; Aug. 11, 1955, ch. 782, §1, 69 Stat. 634; Aug. 1, 1956,ch. 815, §1(b), 70 Stat. 783; Pub. L. 95–279, title III, §301(b), May 15, 1978, 92 Stat. 242; Pub. L. 100–202, §101(k) \[title I, §101\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–336.)
+(Mar. 8, 1938, ch. 44, §4, 52 Stat. 108; Mar. 4, 1939, ch. 5, §1(d), 53 Stat. 511; Aug. 9, 1940, ch. 649, 54 Stat. 782; July 1, 1941, ch. 270, §3, 55 Stat. 498; July 16, 1943, ch. 241, §2, 57 Stat. 566; Apr. 12, 1945, ch. 54, §1, 59 Stat. 50; Oct. 31, 1949, ch. 792, title IV, §410, 63 Stat. 1057; June 28, 1950, ch. 381, §1, 64 Stat. 261; Mar. 20, 1954, ch. 102, §1(a), 68 Stat. 30; Aug. 31, 1954, ch. 1172, §1, 68 Stat. 1047; Aug. 11, 1955, ch. 782, §1, 69 Stat. 634; Aug. 1, 1956, ch. 815, §1(b), 70 Stat. 783; Pub. L. 95–279, title III, §301(b), May 15, 1978, 92 Stat. 242; Pub. L. 100–202, §101(k) \[title I, §101\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–336.)
 
 #### Codification
 
-“Chapter 31 of title 31” and “such chapter” substituted in text for “the Second Liberty Bond Act, as amended” and “such Act, as amended,”, and “chapter 91 of title 31” substituted for “the Government Corporation Control Act (31 U.S.C., 1946 edition, sec. 841)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+"Chapter 31 of title 31" and "such chapter" substituted in text for "the Second Liberty Bond Act, as amended" and "such Act, as amended,", and "chapter 91 of title 31" substituted for "the Government Corporation Control Act (31 U.S.C., 1946 edition, sec. 841)" on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
 
-<b>1987</b>—Pub. L. 100–202 substituted “$30,000,000,000” for “$25,000,000,000”.
+<b>1987</b>—Pub. L. 100–202 substituted "$30,000,000,000" for "$25,000,000,000".
 
-<b>1978</b>—Pub. L. 95–279 substituted “$25,000,000,000” for “$14,500,000,000”.
+<b>1978</b>—Pub. L. 95–279 substituted "$25,000,000,000" for "$14,500,000,000".
 
-<b>1956</b>—Act Aug. 1, 1956, substituted “$14,500,000,000” for “$12,000,000,000”.
+<b>1956</b>—Act Aug. 1, 1956, substituted "$14,500,000,000" for "$12,000,000,000".
 
-<b>1955</b>—Act Aug. 11, 1955, substituted “$12,000,000,000 for “$10,000,000,000”.
+<b>1955</b>—Act Aug. 11, 1955, substituted "$12,000,000,000 for "$10,000,000,000".
 
-<b>1954</b>—Act Aug. 31, 1954, substituted “$10,000,000,000” for “$8,500,000,000”.
+<b>1954</b>—Act Aug. 31, 1954, substituted "$10,000,000,000" for "$8,500,000,000".
 
-Act Mar. 20, 1954, substituted “$8,500,000,000” for “$6,750,000,000”.
+Act Mar. 20, 1954, substituted "$8,500,000,000" for "$6,750,000,000".
 
-<b>1950</b>—Act June 28, 1950, substituted “$6,750,000,000” for “$4,750,000,000”.
+<b>1950</b>—Act June 28, 1950, substituted "$6,750,000,000" for "$4,750,000,000".
 
 <b>1949</b>—Act Oct. 31, 1949, inserted proviso in next to last sentence.
 
-<b>1945</b>—Act Apr. 12, 1945, substituted “$4,750,000,000” for “$3,000,000,000”.
+<b>1945</b>—Act Apr. 12, 1945, substituted "$4,750,000,000" for "$3,000,000,000".
 
-<b>1943</b>—Act July 16, 1943, substituted “$3,000,000,000” for “$2,650,000,000”.
+<b>1943</b>—Act July 16, 1943, substituted "$3,000,000,000" for "$2,650,000,000".
 
-<b>1941</b>—Act July 1, 1941, substituted “$2,650,000,000” for “$1,400,000,000”.
+<b>1941</b>—Act July 1, 1941, substituted "$2,650,000,000" for "$1,400,000,000".
 
-<b>1940</b>—Act Aug. 9, 1940, substituted “$1,400,000,000 for “$900,000,000”.
+<b>1940</b>—Act Aug. 9, 1940, substituted "$1,400,000,000 for "$900,000,000".
 
-<b>1939</b>—Act Mar. 4, 1939, substituted $900,000,000” for “$500,000,000”.
+<b>1939</b>—Act Mar. 4, 1939, substituted $900,000,000" for "$500,000,000".
 
 #### Effective Date of 1978 Amendment
 
-Pub. L. 95–279, title III, §301(d), May 15, 1978, 92 Stat. 242, provided that: “The provisions of this section \[amending this section and section 714b of this title and enacting provision set out as a note under section 714b of this title\] shall become effective October 1, 1978.”
+Pub. L. 95–279, title III, §301(d), May 15, 1978, 92 Stat. 242, provided that: "The provisions of this section \[amending this section and section 714b of this title and enacting provision set out as a note under section 714b of this title\] shall become effective October 1, 1978."
 
 #### Exceptions From Transfer of Functions
 

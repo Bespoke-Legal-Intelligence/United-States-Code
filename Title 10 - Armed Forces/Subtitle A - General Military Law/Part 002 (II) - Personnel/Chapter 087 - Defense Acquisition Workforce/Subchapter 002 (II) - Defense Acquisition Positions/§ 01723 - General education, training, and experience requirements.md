@@ -24,37 +24,37 @@ Limitation on Credit for Training or Education.—Not more than one year of a pe
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 111–383, §874(a), amended subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense shall establish education, training, and experience requirements for each acquisition position, based on the level of complexity of duties carried out in the position. In establishing such requirements for positions other than critical acquisition positions designated pursuant to section 1733 of this title, the Secretary may state the requirements by categories of positions.”
+<b>2011</b>—Subsec. (a). Pub. L. 111–383, §874(a), amended subsec. (a) generally. Prior to amendment, text read as follows: "The Secretary of Defense shall establish education, training, and experience requirements for each acquisition position, based on the level of complexity of duties carried out in the position. In establishing such requirements for positions other than critical acquisition positions designated pursuant to section 1733 of this title, the Secretary may state the requirements by categories of positions."
 
 Subsecs. (b), (c). Pub. L. 111–383, §873(b), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–201 struck out “Unless otherwise provided in this chapter, such requirements shall take effect not later than October 1, 1993.” after first sentence.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201 struck out "Unless otherwise provided in this chapter, such requirements shall take effect not later than October 1, 1993." after first sentence.
 
 #### Information Technology Acquisition Workforce
 
 Pub. L. 111–383, div. A, title VIII, §875, Jan. 7, 2011, 124 Stat. 4305, provided that:
 
-“(a)
+"(a)
 
 Plan Required.—The Secretary of Defense shall develop and carry out a plan to strengthen the part of the acquisition workforce that specializes in information technology. The plan shall include the following:
 
-&emsp;“(1) Defined targets for billets devoted to information technology acquisition.
+&emsp;"(1) Defined targets for billets devoted to information technology acquisition.
 
-&emsp;“(2) Specific certification requirements for individuals in the acquisition workforce who specialize in information technology acquisition.
+&emsp;"(2) Specific certification requirements for individuals in the acquisition workforce who specialize in information technology acquisition.
 
-&emsp;“(3) Defined career paths for individuals in the acquisition workforce who specialize in information technology acquisitions.
+&emsp;"(3) Defined career paths for individuals in the acquisition workforce who specialize in information technology acquisitions.
 
-“(b)
+"(b)
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘information technology’ has the meaning provided such term in section 11101 of title 40, United States Code, and includes information technology incorporated into a major weapon system.
+&emsp;"(1) The term 'information technology' has the meaning provided such term in section 11101 of title 40, United States Code, and includes information technology incorporated into a major weapon system.
 
-&emsp;“(2) The term ‘major weapon system’ has the meaning provided such term in section 2379(f) of title 10, United States Code.
+&emsp;"(2) The term 'major weapon system' has the meaning provided such term in section 2379(f) of title 10, United States Code.
 
-“(c)
+"(c)
 
-Deadline.—The Secretary of Defense shall develop the plan required under this section not later than 270 days after the date of the enactment of this Act \[Jan. 7, 2011\].”
+Deadline.—The Secretary of Defense shall develop the plan required under this section not later than 270 days after the date of the enactment of this Act \[Jan. 7, 2011\]."
 
 #### Guidance and Standards for Defense Acquisition Workforce Training Requirements
 

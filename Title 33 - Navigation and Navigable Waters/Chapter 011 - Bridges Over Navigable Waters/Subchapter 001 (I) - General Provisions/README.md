@@ -12,7 +12,7 @@
 - [&sect; 00494a - Study of bridges over navigable waters](%C2%A7%2000494a%20-%20Study%20of%20bridges%20over%20navigable%20waters.md)
 - [&sect; 00495 - Violations of orders respecting bridges and accessory works](%C2%A7%2000495%20-%20Violations%20of%20orders%20respecting%20bridges%20and%20accessory%20works.md)
 - [&sect; 00496 - Time for commencement and completion of bridge](%C2%A7%2000496%20-%20Time%20for%20commencement%20and%20completion%20of%20bridge.md)
-- [&sect; 00497 - &#8220;Persons&#8221; defined](%C2%A7%2000497%20-%20%E2%80%9CPersons%E2%80%9D%20defined.md)
+- [&sect; 00497 - Persons defined](%C2%A7%2000497%20-%20Persons%20defined.md)
 - [&sect; 00498 - Reservation of right to alter or repeal](%C2%A7%2000498%20-%20Reservation%20of%20right%20to%20alter%20or%20repeal.md)
 - [&sect; 00498a - Repealed. Pub. L. 100&#8211;17, title I, &sect;135(b), Apr. 2, 1987, 101 Stat. 174](%C2%A7%2000498a%20-%20Repealed.%20Pub.%20L.%20100%E2%80%9317%2C%20title%20I%2C%20%C2%A7135%28b%29%2C%20Apr.%202%2C%201987%2C%20101%20Stat.%20174.md)
 - [&sect; 00498b - Repealed. Pub. L. 100&#8211;17, title I, &sect;135(c), Apr. 2, 1987, 101 Stat. 174](%C2%A7%2000498b%20-%20Repealed.%20Pub.%20L.%20100%E2%80%9317%2C%20title%20I%2C%20%C2%A7135%28c%29%2C%20Apr.%202%2C%201987%2C%20101%20Stat.%20174.md)

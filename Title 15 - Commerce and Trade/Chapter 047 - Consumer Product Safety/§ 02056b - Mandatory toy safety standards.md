@@ -68,7 +68,7 @@ If ASTM International (or its successor entity) proposes to revise ASTM F963–0
 
 &emsp;&emsp;(B) does not unduly burden interstate commerce.
 
-> &emsp;In determining the burden, if any, of a State or political subdivision standard or regulationon interstate commerce, the Commission shall consider and make appropriate (as determined by the Commission in its discretion) findings on the technological and economic feasibility of complying with such standard or regulation, the cost of complying with such standard or regulation, the geographic distribution of the consumer product to which the standard or regulation would apply, the probability of other States or political subdivisions applying for an exemption under this subsection for a similar standard or regulation, and the need for a national, uniform standard under this Act for such consumer product.
+> &emsp;In determining the burden, if any, of a State or political subdivision standard or regulation on interstate commerce, the Commission shall consider and make appropriate (as determined by the Commission in its discretion) findings on the technological and economic feasibility of complying with such standard or regulation, the cost of complying with such standard or regulation, the geographic distribution of the consumer product to which the standard or regulation would apply, the probability of other States or political subdivisions applying for an exemption under this subsection for a similar standard or regulation, and the need for a national, uniform standard under this Act for such consumer product.
 
 #### (2) Effect of standards on established State laws
 
@@ -92,9 +92,9 @@ Section was enacted as part of the Consumer Product Safety Improvement Act of 20
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a). Pub. L. 112–28 inserted “or any provision that restates or incorporates a regulation promulgated by the Food and Drug Administration or any statute administered by the Food and Drug Administration” after “or by statute”.
+<b>2011</b>—Subsec. (a). Pub. L. 112–28 inserted "or any provision that restates or incorporates a regulation promulgated by the Food and Drug Administration or any statute administered by the Food and Drug Administration" after "or by statute".
 
 #### Definition
 
-For definition of “Commission” used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
+For definition of "Commission" used in this section, see section 2(a) of Pub. L. 110–314, set out as a note under section 2051 of this title.
 

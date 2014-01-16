@@ -2,7 +2,7 @@
 
 #### (a) Data collection with respect to national prevalence
 
-(1) The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may, through representative sampling and other appropriate methodologies, provide for the continuous collection of data on the incidence inthe United States of cases of acquired immune deficiency syndrome and of cases of infection with the etiologic agent for such syndrome. The Secretary may carry out the program of data collection directly or through cooperative agreements and contracts with public and nonprofit private entities.
+(1) The Secretary, acting through the Director of the Centers for Disease Control and Prevention, may, through representative sampling and other appropriate methodologies, provide for the continuous collection of data on the incidence in the United States of cases of acquired immune deficiency syndrome and of cases of infection with the etiologic agent for such syndrome. The Secretary may carry out the program of data collection directly or through cooperative agreements and contracts with public and nonprofit private entities.
 
 (2) The Secretary shall encourage each State to enter into a cooperative agreement or contract under paragraph (1) with the Secretary in order to facilitate the prompt collection of the most recent accurate data on the incidence of cases described in such paragraph.
 
@@ -20,7 +20,7 @@
 
 &emsp;(B) developing models demonstrating the long-term domestic and international patterns of the transmission of such etiologic agent.
 
-(2) The Secretary may carry out paragraph (1) directly or through grants to, or cooperative agreeements <sup>1</sup> or contracts with, public and nonprofit private entities, including Federal agencies.
+(2) The Secretary may carry out paragraph (1) directly or through grants to, or cooperativeagreeements <sup>1</sup> or contracts with, public and nonprofit private entities, including Federal agencies.
 
 #### (c) Long-term research
 
@@ -40,13 +40,13 @@ The Secretary, acting through the Director of the National Institute of Mental H
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b)(1)(A). Pub. L. 103–43, §1811(5), inserted “and the natural history of such infection” after “syndrome”.
+<b>1993</b>—Subsec. (b)(1)(A). Pub. L. 103–43, §1811(5), inserted "and the natural history of such infection" after "syndrome".
 
-Subsec. (e)(1). Pub. L. 103–43, §1811(6), substituted “fiscal year” for “of the fiscal years 1989 through 1991”.
+Subsec. (e)(1). Pub. L. 103–43, §1811(6), substituted "fiscal year" for "of the fiscal years 1989 through 1991".
 
-<b>1992</b>—Subsecs. (a)(1), (b)(1). Pub. L. 102–531 substituted “Centers for Disease Control and Prevention” for “Centers for Disease Control”.
+<b>1992</b>—Subsecs. (a)(1), (b)(1). Pub. L. 102–531 substituted "Centers for Disease Control and Prevention" for "Centers for Disease Control".
 
-<b>1988</b>—Subsec. (a)(5). Pub. L. 100–690 substituted “subsection” for “section”.
+<b>1988</b>—Subsec. (a)(5). Pub. L. 100–690 substituted "subsection" for "section".
 
 #### Effective Date of 1988 Amendment
 

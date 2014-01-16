@@ -18,7 +18,7 @@ The Secretary shall administer, protect and develop the park in accordance with 
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–329, §2(d)(1), inserted heading and amended text generally. Prior to amendment, text read as follows: “The National Park Service, under the direction of the Secretary, shall administer, protect, and develop the park, subject to the provisions of sections 1, 2, 3, and 4 of this title.”
+<b>1998</b>—Subsec. (a). Pub. L. 105–329, §2(d)(1), inserted heading and amended text generally. Prior to amendment, text read as follows: "The National Park Service, under the direction of the Secretary, shall administer, protect, and develop the park, subject to the provisions of sections 1, 2, 3, and 4 of this title."
 
-Subsec. (b). Pub. L. 105–329, §2(d)(2), inserted heading and amended text generally. Prior to amendment, text read as follows: “Within three years from November 12, 1971, the Secretary of the Interior shall report to the President, in accordance with subsections 3(c) and 3(d) of the Wilderness Act, his recommendations as the suitability or nonsuitability of any area within the park for preservation as wilderness, and any designation of any such area as a wilderness shall be in accordance with said Wilderness Act.”
+Subsec. (b). Pub. L. 105–329, §2(d)(2), inserted heading and amended text generally. Prior to amendment, text read as follows: "Within three years from November 12, 1971, the Secretary of the Interior shall report to the President, in accordance with subsections 3(c) and 3(d) of the Wilderness Act, his recommendations as the suitability or nonsuitability of any area within the park for preservation as wilderness, and any designation of any such area as a wilderness shall be in accordance with said Wilderness Act."
 

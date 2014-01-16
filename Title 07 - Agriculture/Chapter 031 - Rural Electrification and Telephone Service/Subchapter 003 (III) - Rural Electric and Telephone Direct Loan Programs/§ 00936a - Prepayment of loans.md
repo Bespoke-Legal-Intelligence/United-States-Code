@@ -18,7 +18,7 @@ No sums in addition to the payment of the outstanding principal balance due on t
 
 (1) A borrower will not qualify for prepayment under this section if, in the opinion of the Secretary of the Treasury, to prepay in such borrower's case would adversely affect the operation of the Federal Financing Bank.
 
-(2) Paragraph (1) shall be effective in fiscal year 1987 only for any loan the prepayment of the principal amount of which will cause the cumulative amount of net proceeds from all such prepayments made during such year to exceed $2,017,500,000.
+(2) Paragraph (1) shall be effective in fiscal year 1987 only for any loan the prepayment of the principal amount of which will cause the cumulative amount of net proceeds from all suchprepayments made during such year to exceed $2,017,500,000.
 
 #### (d) Amount of permissible prepayments; establishment of eligibility criteria
 
@@ -42,63 +42,63 @@ Public Law 99–349, referred to in subsec. (d)(1), is Pub. L. 99–349, July 2,
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–354 substituted “Secretary” for “Rural Electrification Administration” in subsec. (b) and “Secretary” for “Administrator” wherever appearing in subsecs. (d) and (e).
+<b>1994</b>—Pub. L. 103–354 substituted "Secretary" for "Rural Electrification Administration" in subsec. (b) and "Secretary" for "Administrator" wherever appearing in subsecs. (d) and (e).
 
 #### Prepayment of Rural Electrification Loans During Fiscal Year 1988
 
 Pub. L. 100–203, title I, §1401, Dec. 22, 1987, 101 Stat. 1330–20, provided that:
 
-“(a)
+"(a)
 
-Eligibility to Prepay.—Notwithstanding subsections (c), (d), and (e) of section 306A of the Rural Electrification Act of 1936 (7 U.S.C. 936a(c), (d), and (e)), during fiscal year 1988, a borrower of a loan made by the Federal Financing Bank and guaranteed under section 306 of such Act (7 U.S.C. 936) may, at the option of the borrower, prepay such loan (or any loan advance thereunder) in accordance with subsections (a) and (b) of section 306A of such Act, except that any prepayment that would cause the total amount of such prepayments during fiscal year 1988 to exceed $2,000,000,000shall be subject solely to the approval of the Secretary of the Treasury.
+Eligibility to Prepay.—Notwithstanding subsections (c), (d), and (e) of section 306A of the Rural Electrification Act of 1936 (7 U.S.C. 936a(c), (d), and (e)), during fiscal year 1988, a borrower of a loan made by the Federal Financing Bank and guaranteed under section 306 of such Act (7 U.S.C. 936) may, at the option of the borrower, prepay such loan (or any loan advance thereunder) in accordance with subsections (a) and (b) of section 306A of such Act, except that any prepayment that would cause the total amount of such prepayments during fiscal year 1988 to exceed $2,000,000,000 shall be subject solely to the approval of the Secretary of the Treasury.
 
-“(b)
+"(b)
 
 Priority for Approval.—In determining which borrowers shall be permitted to prepay loans under subsection (a):
 
-&emsp;“(1) The Administrator of the Rural Electrification Administration shall give priority to those 8 borrowers that were determined by the Administrator, prior to the date of the enactment of this Act \[Dec. 22, 1987\], to be eligible to prepay, or that prepaid, an advance under section 306A of such Act \[7 U.S.C. 936a\] (as in effect prior to the date of the enactment of this Act), except that to retain such priority a borrower shall—
+&emsp;"(1) The Administrator of the Rural Electrification Administration shall give priority to those 8 borrowers that were determined by the Administrator, prior to the date of the enactment of this Act \[Dec. 22, 1987\], to be eligible to prepay, or that prepaid, an advance under section 306A of such Act \[7 U.S.C. 936a\] (as in effect prior to the date of the enactment of this Act), except that to retain such priority a borrower shall—
 
-&emsp;&emsp;“(A) notify the Administrator in writing, within 30 days after the issuance of regulations to carry out this section, of the intent of the borrower to prepay; and
+&emsp;&emsp;"(A) notify the Administrator in writing, within 30 days after the issuance of regulations to carry out this section, of the intent of the borrower to prepay; and
 
-&emsp;&emsp;“(B) complete such prepayment by disbursing funds to the Federal Financing Bank to prepay loan advances within 120 days after the issuance of such regulations.
+&emsp;&emsp;"(B) complete such prepayment by disbursing funds to the Federal Financing Bank to prepay loan advances within 120 days after the issuance of such regulations.
 
-&emsp;“(2) In considering requests for prepayment under subsection (a) by borrowers not described in paragraph (1), the Administrator shall permit prepayment based on the order in which borrowers are prepared to disburse funds to the Federal Financing Bank to complete such prepayments. If more than 1 borrower is so prepared at the same time, and if the combined amount of such prepayments would cause the total amount of prepayments during fiscal year 1988, under this section, to exceed $2,000,000,000, the Administrator shall—
+&emsp;"(2) In considering requests for prepayment under subsection (a) by borrowers not described in paragraph (1), the Administrator shall permit prepayment based on the order in which borrowers are prepared to disburse funds to the Federal Financing Bank to complete such prepayments. If more than 1 borrower is so prepared at the same time, and if the combined amount of such prepayments would cause the total amount of prepayments during fiscal year 1988, under this section, to exceed $2,000,000,000, the Administrator shall—
 
-&emsp;&emsp;“(A) base the determination on the date on which prepayment applications have been submitted; or
+&emsp;&emsp;"(A) base the determination on the date on which prepayment applications have been submitted; or
 
-&emsp;&emsp;“(B) permit partial prepayment by two or more borrowers.
+&emsp;&emsp;"(B) permit partial prepayment by two or more borrowers.
 
-“(c)
+"(c)
 
 Regulations.—Not later than 30 days after the date of enactment of this Act \[Dec. 22, 1987\], the Administrator of the Rural Electrification Administration shall issue such regulations as are necessary to carry at this section.
 
-“(d)
+"(d)
 
 Study.—Not later than January 1, 1989, the Comptroller General of the United States shall—
 
-&emsp;“(1) study—
+&emsp;"(1) study—
 
-&emsp;&emsp;“(A) all benefits provided by Federal Financing Bank lending and the procedures and conditions for the prepayment of current Federal Financing Bank loans;
+&emsp;&emsp;"(A) all benefits provided by Federal Financing Bank lending and the procedures and conditions for the prepayment of current Federal Financing Bank loans;
 
-&emsp;&emsp;“(B) the benefits and costs to Federal Financing Bank borrowers of making prepayments; and
+&emsp;&emsp;"(B) the benefits and costs to Federal Financing Bank borrowers of making prepayments; and
 
-&emsp;&emsp;“(C) alternative conditions and procedures for prepayment of all Federal Financing Bank loans to balance Federal benefits with Federal costs; and
+&emsp;&emsp;"(C) alternative conditions and procedures for prepayment of all Federal Financing Bank loans to balance Federal benefits with Federal costs; and
 
-&emsp;“(2) submit to Congress a report describing the results of such study, together with any appropriate recommendations.”
+&emsp;"(2) submit to Congress a report describing the results of such study, together with any appropriate recommendations."
 
 #### Prepayment of Guaranteed Loans; Restrictions
 
-Pub. L. 100–202, §101(k) \[title VI, §633\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–356, provided that: “Hereafter, notwithstanding section 306A(c), (d), and (e) of the Rural Electrification Act of 1936, as amended \[7 U.S.C. 936a(c), (d), (e)\], a borrower of a loan made by the Federal Financing Bank and guaranteed under section 306 of such Act (7 U.S.C. 936) may, at the option of the borrower, prepay such loan (or any loan advance thereunder) in accordance with section 306A(a) and (b) of such Act: <i>Provided</i>, That any prepayment in excess of $2,500,000,000 shall be subject to the approval of the Secretary of the Treasury.”
+Pub. L. 100–202, §101(k) \[title VI, §633\], Dec. 22, 1987, 101 Stat. 1329–322, 1329–356, provided that: "Hereafter, notwithstanding section 306A(c), (d), and (e) of the Rural Electrification Act of 1936, as amended \[7 U.S.C. 936a(c), (d), (e)\], a borrower of a loan made by the Federal Financing Bank and guaranteed under section 306 of such Act (7 U.S.C. 936) may, at the option of the borrower, prepay such loan (or any loan advance thereunder) in accordance with section 306A(a) and (b) of such Act: <i>Provided</i>, That any prepayment in excess of $2,500,000,000 shall be subject to the approval of the Secretary of the Treasury."
 
-Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 429, provided in part that: “Hereafter, notwithstanding section 306A(d) of the Rural Electrification Act of 1936 (7 U.S.C. 936a(d)), a borrower of a loan made by the Federal Financing Bank and guaranteed under section 306 of such Act (7 U.S.C. 936) may, at the option of the borrower, prepay such loan (or any loan advance thereunder) in accordance with section 306A of such Act.”
+Pub. L. 100–71, title I, July 11, 1987, 101 Stat. 429, provided in part that: "Hereafter, notwithstanding section 306A(d) of the Rural Electrification Act of 1936 (7 U.S.C. 936a(d)), a borrower of a loan made by the Federal Financing Bank and guaranteed under section 306 of such Act (7 U.S.C. 936) may, at the option of the borrower, prepay such loan (or any loan advance thereunder) in accordance with section 306A of such Act."
 
 #### Regulations
 
-Pub. L. 99–509, title I, §1011(c), Oct. 21, 1986, 100 Stat. 1876, provided that: “The Secretary of Agriculture shall issue regulations to implement this section \[enacting sections 936a and 936b of this title and repealing provisions set out as a note under section 936 of this title\] within 60 days after the date of enactment of this Act \[Oct. 21, 1986\]. Such regulations—
+Pub. L. 99–509, title I, §1011(c), Oct. 21, 1986, 100 Stat. 1876, provided that: "The Secretary of Agriculture shall issue regulations to implement this section \[enacting sections 936a and 936b of this title and repealing provisions set out as a note under section 936 of this title\] within 60 days after the date of enactment of this Act \[Oct. 21, 1986\]. Such regulations—
 
-&emsp;“(1) shall facilitate prepayment of loans under section 306A of the Rural Electrification Act of 1936 \[this section\], as added by subsection (a); and
+&emsp;"(1) shall facilitate prepayment of loans under section 306A of the Rural Electrification Act of 1936 \[this section\], as added by subsection (a); and
 
-&emsp;“(2) may not require any rural utility that is a borrower of loans subject to section 306A to make unreasonable reductions in rates to its customers as a condition of such prepayment.”
+&emsp;"(2) may not require any rural utility that is a borrower of loans subject to section 306A to make unreasonable reductions in rates to its customers as a condition of such prepayment."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “transferred”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "transferred".</i>
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(C) The payment of money or the furnishing of services to an affiliate under contract, lease, or otherwise.
 
-&emsp;&emsp;(D) Any transaction in which an affiliate acts as an agent or broker or receives a fee for its services to the bank or to any other person.
+&emsp;&emsp;(D) Any transaction in which an affiliate acts as an agent or broker or receives a feefor its services to the bank or to any other person.
 
 &emsp;&emsp;(E) Any transaction or series of transactions with a third party—
 
@@ -56,9 +56,9 @@
 
 &emsp;For the purpose of this subsection—
 
-&emsp;&emsp;(A) the term “security” has the meaning given to such term in section 78c(a)(10) of title 15; and
+&emsp;&emsp;(A) the term "security" has the meaning given to such term in section 78c(a)(10) of title 15; and
 
-&emsp;&emsp;(B) the term “principal underwriter” means any underwriter who, in connection with a primary distribution of securities—
+&emsp;&emsp;(B) the term "principal underwriter" means any underwriter who, in connection with a primary distribution of securities—
 
 &emsp;&emsp;&emsp;(i) is in privity of contract with the issuer or an affiliated person of the issuer;
 
@@ -74,11 +74,11 @@ A member bank or any subsidiary or affiliate of a member bank shall not publish 
 
 For the purpose of this section—
 
-&emsp;(1) the term “affiliate” has the meaning given to such term in section 371c of this title (but does not include any company described in section <sup>1</sup> (b)(2) of such section or any bank);
+&emsp;(1) the term "affiliate" has the meaning given to such term in section 371c of this title (but does not include any company described in section <sup>1</sup> (b)(2) of such section or any bank);
 
-&emsp;(2) the terms “bank”, “subsidiary”, “person”, and “security” (other than security as used in subsection (b) of this section) have the meanings given to such terms in section 371c of this title; and
+&emsp;(2) the terms "bank", "subsidiary", "person", and "security" (other than security as used in subsection (b) of this section) have the meanings given to such terms in section 371c of this title; and
 
-&emsp;(3) the term “covered transaction” has the meaning given to such term in section 371c of this title (but does not include any transaction which is exempt from such definition under subsection (d) of such section).
+&emsp;(3) the term "covered transaction" has the meaning given to such term in section 371c of this title (but does not include any transaction which is exempt from such definition under subsection (d) of such section).
 
 #### (e) Regulations
 
@@ -102,19 +102,19 @@ For the purpose of this section—
 
 #### Amendments
 
-<b>2010</b>—Subsec. (e). Pub. L. 111–203, §608(b)(1)–(4), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of par. (1)(B), realigned margins, andstruck out concluding provisions which read as follows: “if the Board finds such exemptions or exclusions are in the public interest and are consistent with the purposes of this section.”
+<b>2010</b>—Subsec. (e). Pub. L. 111–203, §608(b)(1)–(4), designated existing provisions as par. (1) and inserted heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), redesignated former subpars. (A) and (B) of par. (2) as cls. (i) and (ii), respectively, of par. (1)(B), realigned margins, and struck out concluding provisions which read as follows: "if the Board finds such exemptions or exclusions are in the public interest and are consistent with the purposes of this section."
 
-Subsec. (e)(1)(B). Pub. L. 111–203, §608(b)(5)(A), inserted “subject to paragraph (2), if the Board finds that an exemption or exclusion is in the public interest and is consistent with the purposes of this section, and notifies the Federal Deposit Insurance Corporation of such finding,” before “regulations” in introductory provisions.
+Subsec. (e)(1)(B). Pub. L. 111–203, §608(b)(5)(A), inserted "subject to paragraph (2), if the Board finds that an exemption or exclusion is in the public interest and is consistent with the purposes of this section, and notifies the Federal Deposit Insurance Corporation of such finding," before "regulations" in introductory provisions.
 
 Subsec. (e)(1)(B)(ii). Pub. L. 111–203, §608(b)(5)(B), substituted period for comma at end.
 
 Subsec. (e)(2). Pub. L. 111–203, §608(b)(6), added par. (2).
 
-<b>1999</b>—Subsec. (b)(2). Pub. L. 106–102 amended text of par. (2) generally. Prior to amendment, text read as follows: “Subparagraph (B) of paragraph (1) shall not apply if the purchase or acquisition of such securities has been approved, before such securities are initially offered for sale to the public, by a majority of the directors of the bank who are not officers or employees of the bank or any affiliate thereof.”
+<b>1999</b>—Subsec. (b)(2). Pub. L. 106–102 amended text of par. (2) generally. Prior to amendment, text read as follows: "Subparagraph (B) of paragraph (1) shall not apply if the purchase or acquisition of such securities has been approved, before such securities are initially offered for sale to the public, by a majority of the directors of the bank who are not officers or employees of the bank or any affiliate thereof."
 
 #### Effective Date of 2010 Amendment
 
 Amendment by Pub. L. 111–203 effective 1 year after the transfer date, see section 608(d) of Pub. L. 111–203, set out as a note under section 371c of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "subsection".</i>
 

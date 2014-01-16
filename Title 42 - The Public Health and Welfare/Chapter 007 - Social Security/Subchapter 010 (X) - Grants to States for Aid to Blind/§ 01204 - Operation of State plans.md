@@ -16,11 +16,11 @@ In the case of any State plan for aid to the blind which has been approved by th
 
 #### Amendments
 
-<b>1968</b>—Pub. L. 90–248 inserted “(or, in his discretion, that payments will be limited to categories under or parts of the State plan not affected by such failure)” after “further payments will not be made to the State” and substituted in last sentence “further payments to such State (or shall limit payments to categories under or parts of the State plan not affected by such failure)” for “further certification to the Secretary of the Treasury with respect to such State”.
+<b>1968</b>—Pub. L. 90–248 inserted "(or, in his discretion, that payments will be limited to categories under or parts of the State plan not affected by such failure)" after "further payments will not be made to the State" and substituted in last sentence "further payments to such State (or shall limit payments to categories under or parts of the State plan not affected by such failure)" for "further certification to the Secretary of the Treasury with respect to such State".
 
-<b>1950</b>—Act Aug. 28, 1950, substituted “Administrator” for “Board” and “his” for “its”.
+<b>1950</b>—Act Aug. 28, 1950, substituted "Administrator" for "Board" and "his" for "its".
 
 #### Transfer of Functions
 
-Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a noteunder section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 

@@ -60,9 +60,9 @@ Pub. L. 95–208, §4(a), (b), (c)(1), (3), (e), Dec. 13, 1977, 91 Stat. 1476, 1
 
 46 App.:1503(e).
 
-In subsection (a), the words “On and after the date the instrument of ratification is deposited by the United States in accordance with the provisions of article VII of the Convention,” and “and, unless an earlier date is specifically provided,” are omitted as obsolete.
+In subsection (a), the words "On and after the date the instrument of ratification is deposited by the United States in accordance with the provisions of article VII of the Convention," and "and, unless an earlier date is specifically provided," are omitted as obsolete.
 
-In subsection (b), before paragraph (1), the words “as soon as practicable after December 13, 1977” are omitted as obsolete. The word “prescribe” is substituted for “promulgate, and from time to time, amend” for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words. The words “he deems necessary for such enforcement” and “among other things” are omitted as unnecessary. In paragraph (1), the words “existing” and “new” are omitted as obsolete.
+In subsection (b), before paragraph (1), the words "as soon as practicable after December 13, 1977" are omitted as obsolete. The word "prescribe" is substituted for "promulgate, and from time to time, amend" for consistency in the revised title and with other titles of the United States Code and to eliminate unnecessary words. The words "he deems necessary for such enforcement" and "among other things" are omitted as unnecessary. In paragraph (1), the words "existing" and "new" are omitted as obsolete.
 
-In subsections (c) and (d), the words “At any time after December 13, 1977” are omitted as obsolete.
+In subsections (c) and (d), the words "At any time after December 13, 1977" are omitted as obsolete.
 

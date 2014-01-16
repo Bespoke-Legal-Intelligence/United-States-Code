@@ -6,25 +6,25 @@ For purposes of this section:
 
 #### (1) Rehabilitation
 
-&emsp;The term “rehabilitation”, with respect to a structural measure constructed as part of acovered water resource project, means the completion of all work necessary to extend the service life of the structural measure and meet applicable safety and performance standards. This may include: (A) protecting the integrity of the structural measure or prolonging the useful life of the structural measure beyond the original evaluated life expectancy; (B) correcting damage to the structural measure from a catastrophic event; (C) correcting the deterioration of structural components that are deteriorating at an abnormal rate; (D) upgrading the structural measure to meet changed land use conditions in the watershed served by the structural measure or changed safety criteria applicable to the structural measure; or (E) decommissioning the structure, if requested by the local organization.
+&emsp;The term "rehabilitation", with respect to a structural measure constructed as part of a covered water resource project, means the completion of all work necessary to extend the service life of the structural measure and meet applicable safety and performance standards. This may include: (A) protecting the integrity of the structural measure or prolonging the useful life of the structural measure beyond the original evaluated life expectancy; (B) correcting damage to the structural measure from a catastrophic event; (C) correcting thedeterioration of structural components that are deteriorating at an abnormal rate; (D) upgrading the structural measure to meet changed land use conditions in the watershed served by the structural measure or changed safety criteria applicable to the structural measure; or (E) decommissioning the structure, if requested by the local organization.
 
 #### (2) Covered water resource project
 
-&emsp;The term “covered water resource project” means a work of improvement carried out under any of the following:
+&emsp;The term "covered water resource project" means a work of improvement carried out under any of the following:
 
 &emsp;&emsp;(A) This chapter.
 
 &emsp;&emsp;(B) Section 13 of the Act of December 22, 1944 (Public Law 78–534; 58 Stat. 905).
 
-&emsp;&emsp;(C) The pilot watershed program authorized under the heading “
+&emsp;&emsp;(C) The pilot watershed program authorized under the heading "
 
-Flood Prevention” of the Department of Agriculture Appropriation Act, 1954 (Public Law 156; 67 Stat. 214).
+Flood Prevention" of the Department of Agriculture Appropriation Act, 1954 (Public Law 156; 67 Stat. 214).
 
 &emsp;&emsp;(D) Subtitle H of title XV of the Agriculture and Food Act of 1981 (16 U.S.C. 3451 et seq.; commonly known as the Resource Conservation and Development Program).
 
 #### (3) Structural measure
 
-&emsp;The term “structural measure” means a physical improvement that impounds water, commonly known as a dam, which was constructed as part of a covered water resource project, including the impoundment area and flood pool.
+&emsp;The term "structural measure" means a physical improvement that impounds water, commonly known as a dam, which was constructed as part of a covered water resource project, including the impoundment area and flood pool.
 
 #### (b) Cost share assistance for rehabilitation
 
@@ -60,11 +60,11 @@ The Secretary, acting through the Natural Resources Conservation Service, may pr
 
 #### (e) Application for rehabilitation assistance
 
-A local organization may apply to the Secretary for technical and financial assistance under this section if the application has also been submitted to and approved by the State agency having supervisory responsibility over the covered water resource project at issue or, if there is no State agency having such responsibility, by the Governor of the State. The Secretary shall request the State dam safety officer (or equivalent State official) to be involved in the application process if State permits or approvals are required. The rehabilitation of structural measures shall meet standards established by the Secretary and address other dam safety issues. At the request of the local organization, personnel of the Natural Resources Conservation Service of the Department of Agriculturemay assist in preparing applications for assistance.
+A local organization may apply to the Secretary for technical and financial assistance under this section if the application has also been submitted to and approved by the State agency having supervisory responsibility over the covered water resource project at issue or, if there is no State agency having such responsibility, by the Governor of the State. The Secretary shall request the State dam safety officer (or equivalent State official) to be involved in the application process if State permits or approvals are required. The rehabilitation of structural measures shall meet standards established by the Secretary and address other dam safety issues. At the request of the local organization, personnel of the Natural Resources Conservation Service of the Department of Agriculture may assist in preparing applications for assistance.
 
 #### (f) Ranking of requests for rehabilitation assistance
 
-The Secretary shall establish such system of approving rehabilitation requests, recognizing that such requests will be received throughout the fiscal year and subject to the availability of funds to carry out this section, as is necessary for proper administration by the Department of Agriculture and equitable for all local organizations. The approval process shall be in writing, and made known to all local organizations and appropriate State agencies.
+The Secretary shall establish such system of approving rehabilitation requests, recognizing that such requests will be received throughoutthe fiscal year and subject to the availability of funds to carry out this section, as is necessary for proper administration by the Department of Agriculture and equitable for all local organizations. The approval process shall be in writing, and made known to all local organizations and appropriate State agencies.
 
 #### (g) Prohibition on certain rehabilitation assistance
 
@@ -124,9 +124,9 @@ The Secretary, in concert with the responsible State agencies, shall conduct an 
 
 Section 13 of the Act of December 22, 1944, referred to in subsec. (a)(2)(B), is section 13 of act Dec. 22, 1944, ch. 665, 58 Stat. 905, as amended, which is not classified to the Code.
 
-The Department of Agriculture Appropriation Act, 1954, referred to in subsec. (a)(2)(C), is act July 28, 1953, ch. 251, 67 Stat. 205. Provisions under the heading “
+The Department of Agriculture Appropriation Act, 1954, referred to in subsec. (a)(2)(C), is act July 28, 1953, ch. 251, 67 Stat. 205. Provisions under the heading "
 
-Flood Prevention” are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+Flood Prevention" are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. L. 97–98, Dec. 22, 1981, 95 Stat. 1213, as amended. Subtitle H of title XV of the Act is classified generally to subchapter V (§3451 et seq.) of chapter 54 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -138,25 +138,25 @@ Pub. L. 110–234 and Pub. L. 110–246 made identical amendments to this sectio
 
 <b>2008</b>—Subsec. (h)(1)(G). Pub. L. 110–246, §2803(a), added subpar. (G).
 
-Subsec. (h)(2)(E). Pub. L. 110–246, §2803(b), substituted “each of fiscal years 2008 through 2012” for “fiscal year 2007”.
+Subsec. (h)(2)(E). Pub. L. 110–246, §2803(b), substituted "each of fiscal years 2008 through 2012" for "fiscal year 2007".
 
-<b>2002</b>—Subsec. (h). Pub. L. 107–171 added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “There is authorized to be appropriated to the Secretary to provide financial and technical assistance under this section—
+<b>2002</b>—Subsec. (h). Pub. L. 107–171 added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: "There is authorized to be appropriated to the Secretary to provide financial and technical assistance under this section—
 
-&emsp;“(1) $5,000,000 for fiscal year 2001;
+&emsp;"(1) $5,000,000 for fiscal year 2001;
 
-&emsp;“(2) $10,000,000 for fiscal year 2002;
+&emsp;"(2) $10,000,000 for fiscal year 2002;
 
-&emsp;“(3) $15,000,000 for fiscal year 2003;
+&emsp;"(3) $15,000,000 for fiscal year 2003;
 
-&emsp;“(4) $25,000,000 for fiscal year 2004; and
+&emsp;"(4) $25,000,000 for fiscal year 2004; and
 
-&emsp;“(5) $35,000,000 for fiscal year 2005.”
+&emsp;"(5) $35,000,000 for fiscal year 2005."
 
 #### Effective Date of 2008 Amendment
 
 Amendment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 effective May 22, 2008, the date of enactment of Pub. L. 110–234, see section 4 of Pub. L. 110–246, set out as an Effective Date note under section 8701 of Title 7, Agriculture.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "and" probably should not appear.</i>
 
-<i><sup>2</sup></i><i> So in original. The period probably should be “; and”</i>
+<i><sup>2</sup></i><i> So in original. The period probably should be "; and"</i>
 

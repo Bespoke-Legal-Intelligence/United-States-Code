@@ -10,7 +10,7 @@ In this section:
 
 #### (1) Emergency area
 
-&emsp;The term “emergency area” means a geographic area in which there exists—
+&emsp;The term "emergency area" means a geographic area in which there exists—
 
 &emsp;&emsp;(A) an emergency or disaster declared by the President pursuant to the National Emergencies Act \[50 U.S.C. 1601 et seq.\] or the Robert T. Stafford Disaster Relief and Emergency Assistance Act \[42 U.S.C. 5121 et seq.\]; or
 
@@ -18,7 +18,7 @@ In this section:
 
 #### (2) Emergency period
 
-&emsp;The term “emergency period” means the period in which there exists—
+&emsp;The term "emergency period" means the period in which there exists—
 
 &emsp;&emsp;(A) an emergency or disaster declared by the President pursuant to the National Emergencies Act or the Robert T. Stafford Disaster Relief and Emergency Assistance Act; or
 
@@ -32,7 +32,7 @@ If funds under a grant under this section are not expended for an emergency in t
 
 #### References in Text
 
-The National Emergencies Act, referred to in subsec. (b)(1)(A), (2)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat.1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
+The National Emergencies Act, referred to in subsec. (b)(1)(A), (2)(A), is Pub. L. 94–412, Sept. 14, 1976, 90 Stat. 1255, which is classified principally to chapter 34 (§1601 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 50 and Tables.
 
 The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(1)(A), (2)(A), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, which is classified principally to chapter 68 (§5121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of this title and Tables.
 
@@ -42,7 +42,7 @@ A prior section 300ff–83, act July 1, 1944, ch. 373, title XXVI, §2683, as ad
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect on Sept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
+<b>2009</b>—Pub. L. 111–87 repealed Pub. L. 109–415, §703, and revived the provisions of this section as in effect onSept. 30, 2009. See 2006 Amendment note and Effective Date of 2009 Amendment; Revival of Section note below.
 
 <b>2006</b>—Pub. L. 109–415, §703, which directed repeal of this section effective Oct. 1, 2009, was itself repealed by Pub. L. 111–87, §2(a)(1), effective Sept. 30, 2009.
 
@@ -50,5 +50,5 @@ A prior section 300ff–83, act July 1, 1944, ch. 373, title XXVI, §2683, as ad
 
 For provisions that repeal by section 2(a)(1) of Pub. L. 111–87 of section 703 of Pub. L. 109–415 be effective Sept. 30, 2009, and that the provisions of this section as in effect on Sept. 30, 2009, be revived, see section 2(a)(2), (3)(A) of Pub. L. 111–87, set out as a note under section 300ff–11 of this title.
 
-<i><sup>1</sup></i><i> So in original. The word “section” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The word "section" probably should not appear.</i>
 

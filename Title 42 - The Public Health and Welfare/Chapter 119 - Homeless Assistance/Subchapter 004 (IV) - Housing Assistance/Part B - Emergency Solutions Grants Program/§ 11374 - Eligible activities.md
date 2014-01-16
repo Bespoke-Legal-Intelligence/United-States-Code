@@ -16,7 +16,7 @@ Assistance provided under section 11372 of this title may be used for the follow
 
 &emsp;(4) Provision of rental assistance to provide short-term or medium-term housing to homeless individuals or families or individuals or families at risk of homelessness. Such rental assistance may include tenant-based or project-based rental assistance.
 
-&emsp;(5) Housing relocation or stabilization services for homeless individuals or families or individuals or families at risk of homelessness, including housing search, mediation or outreach to property owners, legal services, credit repair, providing security or utility deposits, utility payments, rental assistance for a final month at a location, assistance with moving costs, or other activities that are effective at—
+&emsp;(5) Housing relocation or stabilization services for homeless individuals or families or individuals or families at risk of homelessness,including housing search, mediation or outreach to property owners, legal services, credit repair, providing security or utility deposits, utility payments, rental assistance for a final month at a location, assistance with moving costs, or other activities that are effective at—
 
 &emsp;&emsp;(A) stabilizing individuals and families in their current housing; or
 
@@ -50,5 +50,5 @@ Section effective on the earlier of 18 months after May 20, 2009, or 3 months af
 
 Pub. L. 100–628, title IV, §423(b), Nov. 7, 1988, 102 Stat. 3232, required the Comptroller General to conduct a study and report to Congress not later than 1 year after Nov. 7, 1988, on programs to prevent homelessness implemented by grantees.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “the fiscal year”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "the fiscal year".</i>
 

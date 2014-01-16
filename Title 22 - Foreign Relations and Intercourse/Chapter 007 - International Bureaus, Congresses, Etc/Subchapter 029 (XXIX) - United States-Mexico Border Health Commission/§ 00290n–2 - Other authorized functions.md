@@ -6,7 +6,7 @@ In addition to the duties described in section 290n–1 of this title, the Commi
 
 &emsp;(2) to conduct or support a binational, public-private effort to establish a comprehensive and coordinated system, which uses advanced technologies to the maximum extent possible, for gathering health-related data and monitoring health problems in the United States-Mexico Border Area; and
 
-&emsp;(3) to provide financial, technical, or administrative assistance to public or private nonprofit entities who act to prevent or resolve such problems or who educate the population concerning such health problems.
+&emsp;(3) to provide financial, technical, or administrative assistance to public or private nonprofit entities who act to prevent or resolvesuch problems or who educate the population concerning such health problems.
 
 (Pub. L. 103–400, §4, Oct. 22, 1994, 108 Stat. 4169.)
 

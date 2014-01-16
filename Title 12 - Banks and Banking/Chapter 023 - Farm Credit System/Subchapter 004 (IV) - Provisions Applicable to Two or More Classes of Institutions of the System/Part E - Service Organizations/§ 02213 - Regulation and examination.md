@@ -6,9 +6,9 @@ The corporations organized under this part shall be institutions of the Farm Cre
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–233 substituted “Regulation” for “Supervision” in section catchline.
+<b>1988</b>—Pub. L. 100–233 substituted "Regulation" for "Supervision" in section catchline.
 
-<b>1985</b>—Pub. L. 99–205 substituted “regulation” for “supervision”.
+<b>1985</b>—Pub. L. 99–205 substituted "regulation" for "supervision".
 
 #### Effective Date of 1985 Amendment
 

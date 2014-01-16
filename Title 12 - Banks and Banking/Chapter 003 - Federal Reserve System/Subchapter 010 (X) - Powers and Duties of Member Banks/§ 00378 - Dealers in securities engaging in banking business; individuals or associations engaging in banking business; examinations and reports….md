@@ -8,15 +8,15 @@
 
 (b) Whoever shall willfully violate any of the provisions of this section shall upon conviction be fined not more than $5,000 or imprisoned not more than five years, or both, and any officer, director, employee, or agent of any person, firm, corporation, association, business trust, or other similar organization who knowingly participates in any such violation shall be punished by a like fine or imprisonment or both.
 
-(June 16, 1933, ch. 89, §21, 48 Stat. 189; Aug. 23, 1935, ch. 614, title III, §303, 49 Stat. 707; Pub. L.86–230, §23, Sept. 8, 1959, 73 Stat. 466; Pub. L. 90–448, title VIII, §804(d), Aug. 1, 1968, 82 Stat. 543; Pub. L. 95–369, §12, Sept. 17, 1978, 92 Stat. 624.)
+(June 16, 1933, ch. 89, §21, 48 Stat. 189; Aug. 23, 1935, ch. 614, title III, §303, 49 Stat. 707; Pub. L. 86–230, §23, Sept. 8, 1959, 73 Stat. 466; Pub. L. 90–448, title VIII, §804(d), Aug. 1, 1968, 82 Stat. 543; Pub. L. 95–369, §12, Sept. 17, 1978, 92 Stat. 624.)
 
 #### Amendments
 
 <b>1978</b>—Subsec. (a)(2)(B). Pub. L. 95–369 inserted reference to permission by the United States to engage in such business and subjection by the laws of the United States to examination and regulation.
 
-<b>1968</b>—Subsec. (a)(1). Pub. L. 90–448 inserted “, or issuing securities” in first proviso.
+<b>1968</b>—Subsec. (a)(1). Pub. L. 90–448 inserted ", or issuing securities" in first proviso.
 
-<b>1959</b>—Subsec. (a). Pub. L. 86–230 inserted “and subjected, by the laws of the United States, or of the State, Territory, or District wherein located, to examination and regulation,” after “District,” in cl. (2)(A).
+<b>1959</b>—Subsec. (a). Pub. L. 86–230 inserted "and subjected, by the laws of the United States, or of the State, Territory, or District wherein located, to examination and regulation," after "District," in cl. (2)(A).
 
 <b>1935</b>—Subsec. (a). Act Aug. 23, 1935, added two provisos to end of par. (1) and amended par. (2) generally.
 

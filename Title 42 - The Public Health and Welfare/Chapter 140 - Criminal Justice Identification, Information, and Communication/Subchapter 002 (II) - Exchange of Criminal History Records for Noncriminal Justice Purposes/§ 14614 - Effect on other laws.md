@@ -2,7 +2,7 @@
 
 #### (a) Privacy Act of 1974
 
-Nothing in the Compact shall affect the obligations and responsibilities of the FBI under section 552a of title 5 (commonly known as the “Privacy Act of 1974”).
+Nothing in the Compact shall affect the obligations and responsibilities of the FBI under section 552a of title 5 (commonly known as the "Privacy Act of 1974").
 
 #### (b) Access to certain records not affected
 
@@ -38,7 +38,7 @@ Members of the Council (other than a member from the FBI or any at-large member 
 
 &emsp;(1) to be, for any purpose other than to effect the Compact, officers or employees of the United States (as defined in sections 2104 and 2105 of title 5); or
 
-&emsp;(2) to become entitled by reason of Council membership to any compensation or benefit payable or made available by the Federal Government to its officers or employees.
+&emsp;(2) to become entitled by reason of Council membership to any compensation or benefitpayable or made available by the Federal Government to its officers or employees.
 
 (Pub. L. 105–251, title II, §215, Oct. 9, 1998, 112 Stat. 1875.)
 

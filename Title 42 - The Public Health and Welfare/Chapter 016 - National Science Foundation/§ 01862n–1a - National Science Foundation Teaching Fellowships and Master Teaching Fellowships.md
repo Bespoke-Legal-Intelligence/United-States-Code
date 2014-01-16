@@ -16,9 +16,9 @@
 
 &emsp;Fellowships under this section shall be available only to—
 
-&emsp;&emsp;(A) science, technology, engineering, or mathematics professionals, including retiring professionals in those fields, who shall be referred to as “National Science Foundation Teaching Fellows” and who, in the first year of the fellowship, are enrolled in a master's degree program leading to teacher certification or licensing; and
+&emsp;&emsp;(A) science, technology, engineering, or mathematics professionals, including retiring professionals in those fields, who shall be referred to as "National Science Foundation Teaching Fellows" and who, in the first year of the fellowship, are enrolled in a master's degree program leading to teacher certification or licensing; and
 
-&emsp;&emsp;(B) mathematics and science teachers, who shall be referred to as “National Science Foundation Master Teaching Fellows” and who possess a master's degree in their field.
+&emsp;&emsp;(B) mathematics and science teachers, who shall be referred to as "National Science Foundation Master Teaching Fellows" and who possess a master's degree in their field.
 
 #### (b) Eligibility
 
@@ -182,13 +182,13 @@ An individual awarded a fellowship under this section shall serve as a mathemati
 
 #### Codification
 
-Section 7030 of Pub. L. 110–69, which directed that “Section 10 of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–1) is amended to read as follows:” and then set out the text of sections 10 and 10A, was executed by generally amending section 10 and adding a new section 10A (42 U.S.C. 1862n–1a) after section 10, to reflect the probable intent of Congress.
+Section 7030 of Pub. L. 110–69, which directed that "Section 10 of the National Science Foundation Authorization Act of 2002 (42 U.S.C. 1862n–1) is amended to read as follows:" and then set out the text of sections 10 and 10A, was executed by generally amending section 10 and adding a new section 10A (42 U.S.C. 1862n–1a) after section 10, to reflect the probable intent of Congress.
 
 Section was enacted as part of the National Science Foundation Authorization Act of 2002, and not as part of the National Science Foundation Act of 1950 which comprises this chapter.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (a)(2)(A). Pub. L. 111–358, §511(b), inserted “including retiring professionals in those fields,” after “mathematics professionals,”.
+<b>2011</b>—Subsec. (a)(2)(A). Pub. L. 111–358, §511(b), inserted "including retiring professionals in those fields," after "mathematics professionals,".
 
-Subsec. (h)(1). Pub. L. 111–358, §511(a), amended par. (1) generally. Prior to amendment, text read as follows: “An eligible entity receiving a grant under this section shall provide, from non-Federal sources, an amount equal to 50 percent of the amount of the grant (which may be provided in cash or in-kind) to carry out the activities supported by the grant.”
+Subsec. (h)(1). Pub. L. 111–358, §511(a), amended par. (1) generally. Prior to amendment, text read as follows: "An eligible entity receiving a grant under this section shall provide, from non-Federal sources, an amount equal to 50 percent of the amount of the grant (which may be provided in cash or in-kind) to carry out the activities supported by the grant."
 

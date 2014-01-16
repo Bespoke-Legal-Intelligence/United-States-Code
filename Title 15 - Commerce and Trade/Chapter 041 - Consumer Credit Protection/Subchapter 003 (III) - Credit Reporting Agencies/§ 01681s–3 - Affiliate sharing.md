@@ -64,7 +64,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Pre-existing business relationship
 
-&emsp;The term “pre-existing business relationship” means a relationship between a person, or a person's licensed agent, and a consumer, based on—
+&emsp;The term "pre-existing business relationship" means a relationship between a person, or a person's licensed agent, and a consumer, based on—
 
 &emsp;&emsp;(A) a financial contract between a person and a consumer which is in force;
 
@@ -76,7 +76,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Solicitation
 
-&emsp;The term “solicitation” means the marketing of a product or service initiated by a person to a particular consumer that is based on an exchange of information described in subsection (a) of this section, and is intended to encourage the consumer to purchase such product or service, but does not include communications that are directed at the general public or determined not to be a solicitation by the regulations prescribed under this section.
+&emsp;The term "solicitation" means the marketing of a product or service initiated by a person to a particular consumer that is based on an exchange of information described in subsection (a) of this section, and is intended to encourage the consumer to purchase such product or service, but does not include communications that are directed at the general public or determined not to be a solicitation by the regulations prescribed under this section.
 
 (Pub. L. 90–321, title VI, §624, as added Pub. L. 108–159, title II, §214(a)(2), Dec. 4, 2003, 117 Stat. 1980.)
 
@@ -94,37 +94,37 @@ Section subject to joint regulations establishing effective dates as prescribed 
 
 Pub. L. 108–159, title II, §214(b), Dec. 4, 2003, 117 Stat. 1982, as amended by Pub. L. 111–203, title X, §1088(b)(3), July 21, 2010, 124 Stat. 2092, provided that:
 
-“(1)
+"(1)
 
 In general.—Regulations to carry out section 624 of the Fair Credit Reporting Act (15 U.S.C. 1681s–3), shall be prescribed, as described in paragraph (2), by—
 
-&emsp;“(A) the Commodity Futures Trading Commission, with respect to entities subject to its enforcement authorities;
+&emsp;"(A) the Commodity Futures Trading Commission, with respect to entities subject to its enforcement authorities;
 
-&emsp;“(B) the Securities and Exchange Commission, with respect to entities subject to its enforcement authorities; and
+&emsp;"(B) the Securities and Exchange Commission, with respect to entities subject to its enforcement authorities; and
 
-&emsp;“(C) the Bureau, with respect to other entities subject to this Act \[see Short Title of 2003 Amendment note set out under section 1601 of this title\].
+&emsp;"(C) the Bureau, with respect to other entities subject to this Act \[see Short Title of 2003 Amendment note set out under section 1601 of this title\].
 
-“(2)
+"(2)
 
-Coordination.—Each agency required to prescribe regulations under paragraph (1) shall consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each such entity are consistent and comparable with the regulations prescribed by each other such agency.
+Coordination.—Each agency required to prescribe regulations under paragraph (1) shall consult and coordinate with each other such agency so that, to the extent possible, the regulations prescribed by each suchentity are consistent and comparable with the regulations prescribed by each other such agency.
 
-“(3)
+"(3)
 
 Considerations.—In promulgating regulations under this subsection, each agency referred to in paragraph (1) shall—
 
-&emsp;“(A) ensure that affiliate sharing notification methods provide a simple means for consumers to make determinations and choices under section 624 of the Fair Credit Reporting Act \[15 U.S.C. 1681s–3\], as added by this section;
+&emsp;"(A) ensure that affiliate sharing notification methods provide a simple means for consumers to make determinations and choices under section 624 of the Fair Credit Reporting Act \[15 U.S.C. 1681s–3\], as added by this section;
 
-&emsp;“(B) consider the affiliate sharing notification practices employed on the date of enactment of this Act \[Dec. 4, 2003\] by persons that will be subject to that section 624; and
+&emsp;"(B) consider the affiliate sharing notification practices employed on the date of enactment of this Act \[Dec. 4, 2003\] by persons that will be subject to that section 624; and
 
-&emsp;“(C) ensure that notices and disclosures may be coordinated and consolidated, as provided in subsection (b) of that section 624.
+&emsp;"(C) ensure that notices and disclosures may be coordinated and consolidated, as provided in subsection (b) of that section 624.
 
-“(4)
+"(4)
 
 Timing.—Regulations required by this subsection shall—
 
-&emsp;“(A) be issued in final form not later than 9 months after the date of enactment of this Act \[Dec. 4, 2003\]; and
+&emsp;"(A) be issued in final form not later than 9 months after the date of enactment of this Act \[Dec. 4, 2003\]; and
 
-&emsp;“(B) become effective not later than 6 months after the date on which they are issued in final form.”
+&emsp;"(B) become effective not later than 6 months after the date on which they are issued in final form."
 
 \[For definitions of terms used in section 214(b) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
 
@@ -132,47 +132,47 @@ Timing.—Regulations required by this subsection shall—
 
 Pub. L. 108–159, title II, §214(e), Dec. 4, 2003, 117 Stat. 1983, as amended by Pub. L. 111–203, title X, §1088(b)(4), July 21, 2010, 124 Stat. 2092, provided that:
 
-“(1)
+"(1)
 
 In general.—The Federal banking agencies, the National Credit Union Administration, and the Bureau shall jointly conduct regular studies of the consumer information sharing practices by financial institutions and other persons that are creditors or users of consumer reports with their affiliates.
 
-“(2)
+"(2)
 
 Matters for study.—In conducting the studies required by paragraph (1), the agencies described in paragraph (1) shall—
 
-&emsp;“(A) identify—
+&emsp;"(A) identify—
 
-&emsp;&emsp;“(i) the purposes for which financial institutions and other creditors and users of consumer reports share consumer information;
+&emsp;&emsp;"(i) the purposes for which financial institutions and other creditors and users of consumer reports share consumer information;
 
-&emsp;&emsp;“(ii) the types of information shared by such entities with their affiliates;
+&emsp;&emsp;"(ii) the types of information shared by such entities with their affiliates;
 
-&emsp;&emsp;“(iii) the number of choices provided to consumers with respect to the control of such sharing, and the degree to and manner in which consumers exercise such choices, if at all; and
+&emsp;&emsp;"(iii) the number of choices provided to consumers with respect to the control of such sharing, and the degree to and manner in which consumers exercise such choices, if at all; and
 
-&emsp;&emsp;“(iv) whether such entities share or may share personally identifiable transaction or experience information with affiliates for purposes—
+&emsp;&emsp;"(iv) whether such entities share or may share personally identifiable transaction or experience information with affiliates for purposes—
 
-&emsp;&emsp;&emsp;“(I) that are related to employment or hiring, including whether the person that is the subject of such information is given notice of such sharing, and the specific uses of such shared information; or
+&emsp;&emsp;&emsp;"(I) that are related to employment or hiring, including whether the person that is the subject of such information is given notice of such sharing, and the specific uses of such shared information; or
 
-&emsp;&emsp;&emsp;“(II) of general publication of such information; and
+&emsp;&emsp;&emsp;"(II) of general publication of such information; and
 
-&emsp;“(B) specifically examine the information sharing practices that financial institutions and other creditors and users of consumer reports and their affiliates employ for the purpose of making underwriting decisions or credit evaluations of consumers.
+&emsp;"(B) specifically examine the information sharing practices that financial institutions and other creditors and users of consumer reports and their affiliates employ for the purpose of making underwriting decisions or credit evaluations of consumers.
 
-“(3)
+"(3)
 
 Reports.—
 
-&emsp;“(A)
+&emsp;"(A)
 
 Initial report.—Not later than 3 years after the date of enactment of this Act \[Dec. 4, 2003\], the Federal banking agencies, the National Credit Union Administration, and the Commission shall jointly submit a report to the Congress on the results of the initial study conducted in accordance with this subsection, together with any recommendations for legislative or regulatory action.
 
-&emsp;“(B)
+&emsp;"(B)
 
 Followup reports.—The Federal banking agencies, the National Credit Union Administration, and the Commission shall, not less frequently than once every 3 years following the date of submission of the initial report under subparagraph (A), jointly submit a report to the Congress that, together with any recommendations for legislative or regulatory action—
 
-&emsp;&emsp;“(i) documents any changes in the areas of study referred to in paragraph (2)(A) occurring since the date of submission of the previous report;
+&emsp;&emsp;"(i) documents any changes in the areas of study referred to in paragraph (2)(A) occurring since the date of submission of the previous report;
 
-&emsp;&emsp;“(ii) identifies any changes in the practices of financial institutions and other creditors and users of consumer reports in sharing consumer information with their affiliates for the purpose of making underwriting decisions or credit evaluations of consumers occurring since the date of submission of the previous report; and
+&emsp;&emsp;"(ii) identifies any changes in the practices of financial institutions and other creditors and users of consumer reports in sharing consumer information with their affiliates for the purpose of making underwriting decisions or credit evaluations of consumers occurring since the date of submission of the previous report; and
 
-&emsp;&emsp;“(iii) examines the effects that changes described in clause (ii) have had, if any, on the degree to which such affiliate sharing practices reduce the need for financial institutions, creditors, and other users of consumer reports to rely on consumer reports for such decisions.”
+&emsp;&emsp;"(iii) examines the effects that changes described in clause (ii) have had, if any, on the degree to which such affiliate sharing practices reduce the need for financial institutions, creditors, and other users of consumer reports to rely on consumer reports for such decisions."
 
 \[For definitions of terms used in section 214(e) of Pub. L. 108–159, set out above, see section 2 of Pub. L. 108–159, set out as a Definitions note under section 1681 of this title.\]
 

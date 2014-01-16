@@ -20,7 +20,7 @@ Each finding made and order issued under this section shall be given promptly to
 
 #### (e) Reinstatement, modification, and vacatur of orders
 
-(1) Any operator notified of an order under this section or any representative of miners notified of the issuance, modification, or termination of such an order may apply to the Commission within 30 days of such notification for reinstatement, modification or vacation of such order. The Commission shall forthwith afford an opportunity for a hearing (in accordance with section 554 of title 5 but without regard to subsection (a)(3) of such section) and thereafter shall issue an order, based upon findings of fact, vacating, affirming, modifying, or terminating the Secretary's order. The Commission and the courts may not grant temporary relief from the issuance of any order under subsection (a) of this section.
+(1) Any operator notified of an order under this section or any representative of miners notified of the issuance, modification, or termination of such an order may apply to the Commission within 30 days of such notification for reinstatement, modification or vacation of such order. The Commission shall forthwith afford an opportunity for a hearing (in accordance with section 554 of title 5 but without regard to subsection (a)(3) of such section) and thereafter shall issue an order, based upon findings of fact,vacating, affirming, modifying, or terminating the Secretary's order. The Commission and the courts may not grant temporary relief from the issuance of any order under subsection (a) of this section.
 
 (2) The Commission shall take whatever action is necessary to expedite proceedings under this subsection.
 
@@ -28,7 +28,7 @@ Each finding made and order issued under this section shall be given promptly to
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original "this Act", meaning Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, known as the Federal Mine Safety and Health Act of 1977, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
 

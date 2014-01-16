@@ -14,7 +14,7 @@ The compulsory retirement age is changed from 64 to 62 in order to make it the s
 
 #### Amendments
 
-<b>1986</b>—Pub. L. 99–348 struck out “, with retired pay of the grade or rating with which retired” after “active service”.
+<b>1986</b>—Pub. L. 99–348 struck out ", with retired pay of the grade or rating with which retired" after "active service".
 
 <b>1984</b>—Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man.
 

@@ -2,7 +2,7 @@
 
 As used in this subchapter—
 
-&emsp;(1) The term “telephone-billed purchase” means any purchase that is completed solely as a consequence of the completion of the call or a subsequent dialing, touch tone entry, or comparable action of the caller. Such term does not include—
+&emsp;(1) The term "telephone-billed purchase" means any purchase that is completed solely as a consequence of the completion of the call or a subsequent dialing, touch tone entry, or comparable action of the caller. Such term does not include—
 
 &emsp;&emsp;(A) a purchase by a caller pursuant to a preexisting agreement with the vendor;
 
@@ -14,7 +14,7 @@ As used in this subchapter—
 
 &emsp;&emsp;(C) the purchase of goods or services which is otherwise subject to billing dispute resolution procedures required by Federal statute or regulation.
 
-&emsp;(2) A “billing error” consists of any of the following:
+&emsp;(2) A "billing error" consists of any of the following:
 
 &emsp;&emsp;(A) A reflection on a billing statement for a telephone-billed purchase which was not made by the customer or, if made, was not in the amount reflected on such statement.
 
@@ -32,13 +32,13 @@ As used in this subchapter—
 
 &emsp;&emsp;(H) Any other error described in regulations prescribed by the Commission pursuant to section 553 of title 5.
 
-&emsp;(3) The term “Commission” means the Federal Trade Commission.
+&emsp;(3) The term "Commission" means the Federal Trade Commission.
 
-&emsp;(4) The term “providing carrier” means a local exchange or interexchange common carrier providing telephone services (other than local exchange services) to a vendor for a telephone-billed purchase that is the subject of a billing error complaint.
+&emsp;(4) The term "providing carrier" means a local exchange or interexchange common carrier providing telephone services (other than local exchange services) to a vendor for a telephone-billed purchase that is the subject of a billing error complaint.
 
-&emsp;(5) The term “vendor” means any person who, through the use of the telephone, offers goods or services for a telephone-billed purchase.
+&emsp;(5) The term "vendor" means any person who, through the use of the telephone, offers goods or services for a telephone-billed purchase.
 
-&emsp;(6) The term “customer” means any person who acquires or attempts to acquire goods or services in a telephone-billed purchase.
+&emsp;(6) The term "customer" means any person who acquires or attempts to acquire goods or services in a telephone-billed purchase.
 
 (Pub. L. 102–556, title III, §304, Oct. 28, 1992, 106 Stat. 4193.)
 

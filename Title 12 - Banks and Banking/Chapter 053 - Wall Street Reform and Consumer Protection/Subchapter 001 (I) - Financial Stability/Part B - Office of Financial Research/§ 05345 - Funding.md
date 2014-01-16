@@ -4,7 +4,7 @@
 
 #### (1) Fund established
 
-&emsp;There is established in the Treasury of the United States a separate fund to be known as the “Financial Research Fund”.
+&emsp;There is established in the Treasury of the United States a separate fund to be known as the "Financial Research Fund".
 
 #### (2) Fund receipts
 

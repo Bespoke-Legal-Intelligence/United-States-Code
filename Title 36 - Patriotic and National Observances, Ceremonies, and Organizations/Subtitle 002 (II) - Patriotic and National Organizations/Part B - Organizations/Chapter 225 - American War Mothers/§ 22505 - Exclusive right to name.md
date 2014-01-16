@@ -1,6 +1,6 @@
 ### §22505. Exclusive right to name
 
-The corporation and its State, territorial, and local subdivisions have the exclusive right to use the name “American War Mothers”.
+The corporation and its State, territorial, and local subdivisions have the exclusive right to use the name "American War Mothers".
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1305.)
 
@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Feb. 24, 1925, ch. 303, §10, 43 Stat. 968.
 
-The words “to have” are omitted as included in “to use”. The words “in carrying out its business purposes” are omitted as unnecessary.
+The words "to have" are omitted as included in "to use". The words "in carrying out its business purposes" are omitted as unnecessary.
 

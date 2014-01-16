@@ -68,7 +68,7 @@ In general.—A civil investigative demand issued under subsection (a) may not r
 
 &emsp;&emsp;(A) the standards applicable to subpoenas or subpoenas duces tecum issued by a court of the United States to aid in a grand jury investigation; or
 
-&emsp;&emsp;(B) the standards applicable to discovery requests under the Federal Rules of Civil Procedure, to the extent that the application of such standards to any such demand is appropriate and consistent with the provisions and purposes of this section.
+&emsp;&emsp;(B) the standards applicable to discovery requests under the Federal Rules of Civil Procedure, to the extent that the application of such standards to any such demand isappropriate and consistent with the provisions and purposes of this section.
 
 &emsp;(2)
 
@@ -138,7 +138,7 @@ Interrogatories.—Each interrogatory in a civil investigative demand served und
 
 &emsp;(2) in the case of a person other than a natural person, the person or persons responsible for answering each interrogatory.
 
-> If any interrogatory is objected to, the reasons for the objection shall be stated in the certificate instead of an answer. The certificate shall state that all information required by the demand and in the possession, custody, control, or knowledge of the person to whom the demand is directed has been submitted. To the extent that any information is not furnished, the information shall be identified and reasons set forth with particularity regarding the reasons why the information was not furnished.
+> If any interrogatory is objected to, the reasons for the objection shall be stated in the certificate instead of an answer. The certificate shall state that all information required by the demand and in the possession, custody, control, or knowledge of the person to whom the demand isdirected has been submitted. To the extent that any information is not furnished, the information shall be identified and reasons set forth with particularity regarding the reasons why the information was not furnished.
 
 (h)
 
@@ -166,7 +166,7 @@ Certification and delivery to custodian.—The officer before whom the testimony
 
 &emsp;(6)
 
-Furnishing or inspection of transcript by witness.—Upon payment of reasonable charges therefor, the false claims law investigator shall furnish a copy of the transcript to the witness only, except that the Attorney General, the Deputy Attorney General, or an Assistant Attorney General may, for good cause, limit such witness to inspection of the official transcript of the witness’ testimony.
+Furnishing or inspection of transcript by witness.—Upon payment of reasonable charges therefor, the false claims law investigator shall furnish a copy of the transcript to the witness only, except that the Attorney General, the Deputy Attorney General, or an Assistant Attorney General may, for good cause, limit such witness to inspection of the official transcript of the witness' testimony.
 
 &emsp;(7)
 
@@ -184,11 +184,11 @@ Custodians of Documents, Answers, and Transcripts.—
 
 &emsp;(1)
 
-Designation.—The Attorney General shall designate a false claims law investigator to serve as custodian of documentary material, answers to interrogatories, and transcripts of oral testimony received under this section, and shall designate such additionalfalse claims law investigators as the Attorney General determines from time to time to be necessary to serve as deputies to the custodian.
+Designation.—The Attorney General shall designate a false claims law investigator to serve as custodian of documentary material, answers to interrogatories, and transcripts of oral testimony received under this section, and shall designate such additional false claims law investigators as the Attorney General determines from time to time to be necessary to serve as deputies to the custodian.
 
 &emsp;(2)
 
-Responsibility for materials; disclosure.—(A) A false claims law investigator who receives any documentary material, answers to interrogatories, or transcripts of oral testimony under this section shall transmit them to the custodian. The custodian shall take physical possession of such material, answers, or transcripts and shall be responsible for the use made of them and for the return of documentary material under paragraph (4).
+Responsibility for materials; disclosure.—(A) A false claims law investigator whoreceives any documentary material, answers to interrogatories, or transcripts of oral testimony under this section shall transmit them to the custodian. The custodian shall take physical possession of such material, answers, or transcripts and shall be responsible for the use made of them and for the return of documentary material under paragraph (4).
 
 &emsp;(B) The custodian may cause the preparation of such copies of such documentary material, answers to interrogatories, or transcripts of oral testimony as may be required for official use by any false claims law investigator, or other officer or employee of the Department of Justice. Such material, answers, and transcripts may be used by any such authorized false claims law investigator or other officer or employee in connection with the taking of oral testimony under this section.
 
@@ -230,7 +230,7 @@ Judicial Proceedings.—
 
 &emsp;(1)
 
-Petition for enforcement.—Whenever any person fails to comply with any civil investigative demand issued under subsection (a), or whenever satisfactory copying or reproduction of any material requested in such demand cannot be done and such person refusesto surrender such material, the Attorney General may file, in the district court of the United States for any judicial district in which such person resides, is found, or transacts business, and serve upon such person a petition for an order of such court for the enforcement of the civil investigative demand.
+Petition for enforcement.—Whenever any person fails to comply with any civil investigative demand issued under subsection (a), or whenever satisfactory copying or reproduction of any material requested in such demand cannot be done and such person refuses to surrender such material, the Attorney General may file, in the district court of the United States for any judicial district in which such person resides, is found, or transacts business, and serve upon such person a petition for an order of such court for the enforcement of the civil investigative demand.
 
 &emsp;(2)
 
@@ -272,23 +272,23 @@ Disclosure Exemption.—Any documentary material, answers to written interrogato
 
 Definitions.—For purposes of this section—
 
-&emsp;(1) the term “false claims law” means—
+&emsp;(1) the term "false claims law" means—
 
 &emsp;&emsp;(A) this section and sections 3729 through 3732; and
 
 &emsp;&emsp;(B) any Act of Congress enacted after the date of the enactment of this section which prohibits, or makes available to the United States in any court of the United States any civil remedy with respect to, any false claim against, bribery of, or corruption of any officer or employee of the United States;
 
-&emsp;(2) the term “false claims law investigation” means any inquiry conducted by any false claims law investigator for the purpose of ascertaining whether any person is or has been engaged in any violation of a false claims law;
+&emsp;(2) the term "false claims law investigation" means any inquiry conducted by any false claims law investigator for the purpose of ascertaining whether any person is or has been engaged in any violation of a false claims law;
 
-&emsp;(3) the term “false claims law investigator” means any attorney or investigator employed by the Department of Justice who is charged with the duty of enforcing or carrying into effect any false claims law, or any officer or employee of the United States acting under the direction and supervision of such attorney or investigator in connection with a false claims law investigation;
+&emsp;(3) the term "false claims law investigator" means any attorney or investigator employed by the Department of Justice who is charged with the duty of enforcing or carrying into effect any false claims law, or any officer or employee of the United States acting under the direction and supervision of such attorney or investigator in connection with a false claims law investigation;
 
-&emsp;(4) the term “person” means any natural person, partnership, corporation, association, or other legal entity, including any State or political subdivision of a State;
+&emsp;(4) the term "person" means any natural person, partnership, corporation, association,or other legal entity, including any State or political subdivision of a State;
 
-&emsp;(5) the term “documentary material” includes the original or any copy of any book, record, report, memorandum, paper, communication, tabulation, chart, or other document, or data compilations stored in or accessible through computer or other information retrieval systems, together with instructions and all other materials necessary to use or interpret such data compilations, and any product of discovery;
+&emsp;(5) the term "documentary material" includes the original or any copy of any book, record, report, memorandum, paper, communication, tabulation, chart, or other document, or data compilations stored in or accessible through computer or other information retrieval systems, together with instructions and all other materials necessary to use or interpret such data compilations, and any product of discovery;
 
-&emsp;(6) the term “custodian” means the custodian, or any deputy custodian, designated by the Attorney General under subsection (i)(1);
+&emsp;(6) the term "custodian" means the custodian, or any deputy custodian, designated by the Attorney General under subsection (i)(1);
 
-&emsp;(7) the term “product of discovery” includes—
+&emsp;(7) the term "product of discovery" includes—
 
 &emsp;&emsp;(A) the original or duplicate of any deposition, interrogatory, document, thing, result of the inspection of land or other property, examination, or admission, which is obtained by any method of discovery in any judicial or administrative proceeding of an adversarial nature;
 
@@ -296,7 +296,7 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;(C) any index or other manner of access to any item listed in subparagraph (A); and
 
-&emsp;(8) the term “official use” means any use that is consistent with the law, and the regulations and policies of the Department of Justice, including use in connection with internal Department of Justice memoranda and reports; communications between the Department of Justice and a Federal, State, or local government agency, or a contractor of a Federal, State, or local government agency, undertaken in furtherance of a Department of Justice investigation or prosecution of a case; interviews of any qui tam relator or other witness; oral examinations; depositions; preparation for and response to civil discovery requests; introduction into the record of a case or proceeding; applications, motions, memoranda and briefs submitted to a court or other tribunal; and communications with Government investigators, auditors, consultants and experts, the counsel of other parties, arbitrators and mediators, concerning an investigation, case or proceeding.
+&emsp;(8) the term "official use" means any use that is consistent with the law, and the regulations and policies of the Department of Justice, including use in connection with internal Department of Justice memoranda and reports; communications between the Department of Justice and a Federal, State, or local government agency, or a contractor of a Federal, State, or local government agency, undertaken in furtherance of a Department of Justice investigation or prosecution of a case; interviews of any qui tam relator or other witness; oral examinations; depositions; preparation for and response to civil discovery requests; introduction into the record of a case or proceeding; applications, motions, memoranda and briefs submitted to a court or other tribunal; and communications with Government investigators, auditors, consultants and experts, the counsel of other parties, arbitrators and mediators, concerning an investigation, case or proceeding.
 
 (Added Pub. L. 99–562, §6(a), Oct. 27, 1986, 100 Stat. 3159; amended Pub. L. 111–21, §4(c), May 20, 2009, 123 Stat. 1623.)
 
@@ -308,13 +308,13 @@ The date of enactment of this section, referred to in subsec. (l)(1)(B), is the 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a)(1). Pub. L. 111–21, §4(c)(1)(A), in introductory provisions, inserted “, or a designee (for purposes of this section),” after “Whenever the Attorney General” and substituted “the Attorney General, or a designee, may, before commencing a civil proceeding under section 3730(a) or other false claims law, or making an election under section 3730(b),” for “the Attorney General may, before commencing a civil proceeding under section 3730 or other false claims law,” and, in concluding provisions, substituted “may delegate” for “may not delegate” and inserted at end “Any information obtained by the Attorney General or a designee of the Attorney General under this section may be shared with any qui tam relator if the Attorney General or designee determine it is necessary as part of any false claims act investigation.”
+<b>2009</b>—Subsec. (a)(1). Pub. L. 111–21, §4(c)(1)(A), in introductory provisions, inserted ", or a designee (for purposes of this section)," after "Whenever the Attorney General" and substituted "the Attorney General, or a designee, may, before commencing a civil proceeding under section 3730(a) or other false claims law, or making an election under section 3730(b)," for "the Attorney General may, before commencing a civil proceeding under section 3730 or other false claims law," and, in concluding provisions, substituted "may delegate" for "may not delegate" and inserted at end "Any information obtained by the Attorney General or a designee of the Attorney General under this section may be shared with any qui tam relator if the Attorney General or designee determine it is necessary as part of any false claims act investigation."
 
-Subsec. (a)(2)(G). Pub. L. 111–21, §4(c)(1)(B), struck out at end “The Attorney General may not, notwithstanding section 510 of title 28, authorize the performance, by any other officer, employee, or agency, of any function vested in the Attorney General under this subparagraph.”
+Subsec. (a)(2)(G). Pub. L. 111–21, §4(c)(1)(B), struck out at end "The Attorney General may not, notwithstanding section 510 of title 28, authorize the performance, by any other officer, employee, or agency, of any function vested in the Attorney General under this subparagraph."
 
-Subsec. (i)(2)(B). Pub. L. 111–21, §4(c)(2)(A), struck out “, who is authorized for such use under regulations which the Attorney General shall issue” after “Justice”.
+Subsec. (i)(2)(B). Pub. L. 111–21, §4(c)(2)(A), struck out ", who is authorized for such use under regulations which the Attorney General shall issue" after "Justice".
 
-Subsec. (i)(2)(C). Pub. L. 111–21, §4(c)(2)(B), struck out at end “Disclosure of information to any such other agency shall be allowed only upon application, made by the Attorney General to a United States district court, showing substantial need for the use of the information by such agency in furtherance of its statutory responsibilities.”
+Subsec. (i)(2)(C). Pub. L. 111–21, §4(c)(2)(B), struck out at end "Disclosure of information to any such other agency shall be allowed only upon application, made by the Attorney General to a United States district court, showing substantial need for the use of the information by such agency in furtherance of its statutory responsibilities."
 
 Subsec. (l)(8). Pub. L. 111–21, §4(c)(3), added par. (8).
 
@@ -322,5 +322,5 @@ Subsec. (l)(8). Pub. L. 111–21, §4(c)(3), added par. (8).
 
 Amendment by Pub. L. 111–21 effective May 20, 2009, and applicable to conduct on or after May 20, 2009, except that this section, as amended by Pub. L. 111–21, applicable to cases pending on May 20, 2009, see section 4(f) of Pub. L. 111–21, set out as a note under section 3729 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “law”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "law".</i>
 

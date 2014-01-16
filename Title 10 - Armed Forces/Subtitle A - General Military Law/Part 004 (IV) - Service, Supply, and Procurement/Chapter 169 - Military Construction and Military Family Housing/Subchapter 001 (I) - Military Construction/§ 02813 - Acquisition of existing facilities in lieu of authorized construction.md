@@ -2,7 +2,7 @@
 
 (a)
 
-Acquisition Authority.—Using funds appropriated for a military construction project authorized by law for a military installation, the Secretary of the military department concerned may acquire an existing facility (including the real property on which the facility is located) at or near the military installation instead of carrying out the authorized military construction project if the Secretary determines that—
+Acquisition Authority.—Using funds appropriated for a military construction projectauthorized by law for a military installation, the Secretary of the military department concerned may acquire an existing facility (including the real property on which the facility is located) at or near the military installation instead of carrying out the authorized military construction project if the Secretary determines that—
 
 &emsp;(1) the acquisition of the facility satisfies the requirements of the military department concerned for the authorized military construction project; and
 
@@ -26,13 +26,13 @@ Notice and Wait Requirements.—A contract may not be entered into for the acqui
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–163 substituted “21-day period” for “30-day period” and “14-day period” for “21-day period”.
+<b>2006</b>—Subsec. (c). Pub. L. 109–163 substituted "21-day period" for "30-day period" and "14-day period" for "21-day period".
 
-<b>2003</b>—Subsec. (c). Pub. L. 108–136 struck out “the end of the 30-day period beginning on the date” after “until” and inserted last sentence.
+<b>2003</b>—Subsec. (c). Pub. L. 108–136 struck out "the end of the 30-day period beginning on the date" after "until" and inserted last sentence.
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–106 substituted “appropriate committees of Congress” for “Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–106 substituted "appropriate committees of Congress" for "Committees on Armed Services and the Committees on Appropriations of the Senate and House of Representatives".
 
 #### Effective Date
 
-Pub. L. 103–160, div. B, title XXVIII, §2805(b), Nov. 30, 1993, 107 Stat. 1887, provided that: “Section 2813 of title 10, United States Code, as added by subsection (a), shall apply with respect to military construction projects authorized on or after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Pub. L. 103–160, div. B, title XXVIII, §2805(b), Nov. 30, 1993, 107 Stat. 1887, provided that: "Section 2813 of title 10, United States Code, as added by subsection (a), shall apply with respect to military construction projects authorized on or after the date of the enactment of this Act \[Nov. 30, 1993\]."
 

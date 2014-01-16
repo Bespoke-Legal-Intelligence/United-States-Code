@@ -16,7 +16,7 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 #### (3) Removal
 
-&emsp;The Inspector General may be removed from office prior to the expiration of his term only by the unanimous vote of all of the voting members of the Capitol Police Board, and the Board shall communicate the reasons for any such removal to the Committee on House Administration, the Senate Committee on Rules and Administration and the Committees on Appropriations of the House of Representatives and of the Senate.
+&emsp;The Inspector General may be removed from office prior to the expiration of his term onlyby the unanimous vote of all of the voting members of the Capitol Police Board, and the Board shall communicate the reasons for any such removal to the Committee on House Administration, the Senate Committee on Rules and Administration and the Committees on Appropriations of the House of Representatives and of the Senate.
 
 #### (4) Salary
 
@@ -64,7 +64,7 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 #### (A) In general
 
-&emsp;&emsp;The Inspector General may appoint and fix the pay of such personnel as the Inspector General considers appropriate. Such personnel may be appointed without regard to the provisions of title 5 regarding appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of suchtitle relating to classification and General Schedule pay rates, except that no personnel of the Office (other than the Inspector General) may be paid at an annual rate greater than $500 less than the annual rate of pay of the Inspector General under subsection (b)(4) of this section.
+&emsp;&emsp;The Inspector General may appoint and fix the pay of such personnel as the Inspector General considers appropriate. Such personnel may be appointed without regard to the provisions of title 5 regarding appointments in the competitive service, and may be paid without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no personnel of the Office (other than the Inspector General) may be paid at an annual rate greater than $500 less than the annual rate of pay of the Inspector General under subsection (b)(4) of this section.
 
 #### (B) Experts and consultants
 
@@ -72,7 +72,7 @@ There is established in the United States Capitol Police the Office of the Inspe
 
 #### (C) Independence in appointing staff
 
-&emsp;&emsp;No individual may carry out any of the duties or responsibilities of the Office unless the individual is appointed by the Inspector General, or provides services procured by the Inspector General, pursuant to this paragraph. Nothing in this subparagraph may be construed to prohibit the Inspector General from entering into a contract or other arrangement for the provision of services under this section.
+&emsp;&emsp;No individual may carry out any of the duties or responsibilities of the Office unless the individual is appointed by the Inspector General, or provides services procured by theInspector General, pursuant to this paragraph. Nothing in this subparagraph may be construed to prohibit the Inspector General from entering into a contract or other arrangement for the provision of services under this section.
 
 #### (D) Applicability of Capitol Police personnel rules
 

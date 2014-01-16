@@ -40,7 +40,7 @@ Feb. 10, 1996, Pub. L. 104–106, title XVI, §1616(a), (d), 110 Stat. 519.
 
 &nbsp;
 
-In subsection (a)(4), the words “other supplies” are substituted for “accessories and accouterments” for consistency in the revised title.
+In subsection (a)(4), the words "other supplies" are substituted for "accessories and accouterments" for consistency in the revised title.
 
 #### References in Text
 

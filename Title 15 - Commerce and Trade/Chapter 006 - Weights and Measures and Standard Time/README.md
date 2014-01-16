@@ -105,7 +105,7 @@
 | [264\.](Subchapter%20009%20%28IX%29%20-%20Standard%20Time/%C2%A7%2000264%20-%20Part%20of%20Idaho%20in%20fourth%20zone.md) | Part of Idaho in fourth zone. |
 | [265\.](Subchapter%20009%20%28IX%29%20-%20Standard%20Time/%C2%A7%2000265%20-%20Transfer%20of%20certain%20territory%20to%20standard%20central-time%20zone.md) | Transfer of certain territory to standard central-time zone. |
 | [266\.](Subchapter%20009%20%28IX%29%20-%20Standard%20Time/%C2%A7%2000266%20-%20Applicability%20of%20administrative%20procedure%20provisions.md) | Applicability of administrative procedure provisions. |
-| [267\.](Subchapter%20009%20%28IX%29%20-%20Standard%20Time/%C2%A7%2000267%20-%20%E2%80%9CState%E2%80%9D%20defined.md) | “State” defined. |
+| [267\.](Subchapter%20009%20%28IX%29%20-%20Standard%20Time/%C2%A7%2000267%20-%20State%20defined.md) | "State" defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

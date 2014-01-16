@@ -2,13 +2,13 @@
 
 Congress makes the following findings:
 
-&emsp;(1) Approximately 2,000 children around the world are infected each day with HIV through mother-to-child transmission. Transmission can occur during pregnancy, labor, and delivery or through breast feeding. Over 90 percentof these cases are in developing nations with little or no access to public health facilities.
+&emsp;(1) Approximately 2,000 children around the world are infected each day with HIV through mother-to-child transmission. Transmission can occur during pregnancy, labor, and delivery or through breast feeding. Over 90 percent of these cases are in developing nations with little or no access to public health facilities.
 
 &emsp;(2) Mother-to-child transmission is largely preventable with the proper application of pharmaceuticals, therapies, and other public health interventions.
 
 &emsp;(3) Certain antiretroviral drugs reduce mother-to-child transmission by nearly 50 percent. Universal availability of this drug could prevent up to 400,000 infections per year and dramatically reduce the number of AIDS-related deaths.
 
-&emsp;(4) At the United Nations Special Session on HIV/AIDS in June 2001, the United States committed to the specific goals with respect to the prevention of mother-to-child transmission, including the goals of reducing the proportion of infants infected with HIV by 20 percent by the year 2005 and by 50 percent by the year 2010, as specified in the Declaration of Commitment on HIV/AIDS adopted by the United Nations General Assembly at the Special Session.
+&emsp;(4) At the United Nations Special Session on HIV/AIDS in June 2001, the United States committed to the specific goals with respect to the prevention of mother-to-child transmission, including the goals of reducing the proportion of infants infected with HIV by 20 percent by the year 2005 and by 50 percent by the year2010, as specified in the Declaration of Commitment on HIV/AIDS adopted by the United Nations General Assembly at the Special Session.
 
 &emsp;(5) Several United States Government agencies including the United States Agency for International Development and the Centers for Disease Control are already supporting programs to prevent mother-to-child transmission in resource-poor nations and have the capacity to expand these programs rapidly by working closely with foreign governments and nongovernmental organizations.
 

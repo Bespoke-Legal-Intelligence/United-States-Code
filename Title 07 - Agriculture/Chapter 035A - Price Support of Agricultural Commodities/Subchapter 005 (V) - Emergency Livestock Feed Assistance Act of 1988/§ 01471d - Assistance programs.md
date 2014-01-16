@@ -2,7 +2,7 @@
 
 #### (a) Available programs
 
-In accordance with section 1471c(a) of this title, the Secretary shall make one or more of the following assistance programs available to qualifying livestock producers in a State, county or area, if the Secretary determines that thelivestock emergency in such State, county or area requires the implementation of such program:
+In accordance with section 1471c(a) of this title, the Secretary shall make one or more of the following assistance programs available to qualifying livestock producers in a State, county or area, if the Secretary determines that the livestock emergency in such State, county or area requires the implementation of such program:
 
 &emsp;(1) The donation of feed grain owned by the Commodity Credit Corporation to producers who are financially unable to purchase feed under paragraph (2) or to participate in any other program authorized under this subsection.
 
@@ -64,7 +64,7 @@ This Act, referred to in subsecs. (a)(2)(A) and (b)(2), is act Oct. 31, 1949, ch
 
 #### Amendments
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–82, §201, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “If assistance is made available through the furnishing of feed grain under paragraph (1) or (2) of subsection (a) of this section, the Secretary may provide for the furnishing of the feed grain through a dealer or manufacturer and the replacing of the feed grain so furnished from feed grain owned by the Commodity Credit Corporation.”
+<b>1989</b>—Subsec. (b). Pub. L. 101–82, §201, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: "If assistance is made available through the furnishing of feed grain under paragraph (1) or (2) of subsection (a) of this section, the Secretary may provide for the furnishing of the feed grain through a dealer or manufacturer and the replacing of the feed grain so furnished from feed grain owned by the Commodity Credit Corporation."
 
 Subsec. (f). Pub. L. 101–82, §202, added subsec. (f).
 
@@ -82,31 +82,31 @@ Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, an
 
 Pub. L. 100–387, title I, §103, Aug. 11, 1988, 102 Stat. 932, provided that:
 
-“(a)
+"(a)
 
 In General.—The Secretary of Agriculture shall implement an emergency forage program for established pasture damaged by the drought or related condition in 1988, under which the Secretary shall enter into cost-share agreements with owners or operators of such damaged land to provide for reseeding of forage crops on such land to facilitate late fall 1988 and early spring 1989 grazing and haying. Assistance may be provided to such owners and operators only when—
 
-&emsp;“(1) the forage crop will not regenerate naturally;
+&emsp;"(1) the forage crop will not regenerate naturally;
 
-&emsp;“(2) reseeding is the most cost-effective method to reestablish the forage crop; and
+&emsp;"(2) reseeding is the most cost-effective method to reestablish the forage crop; and
 
-&emsp;“(3) reseeding is not undertaken simply to improve the forage crop damaged by the drought.
+&emsp;"(3) reseeding is not undertaken simply to improve the forage crop damaged by the drought.
 
-“(b)
+"(b)
 
 Cost-Share.—The Secretary shall share half the costs incurred under each agreement entered into under subsection (a), including the costs of seed, fertilizer, and other inputs on reseeded pasture.
 
-“(c)
+"(c)
 
 Limitations.—(1) The total amount of payments an owner or operator of pasture land shall be entitled to receive under this section shall be $3,500.
 
-“(2) The Secretary may cost-share for reseeding under this section only if the reseeding is to nonannual crops planted for pasture purposes.
+"(2) The Secretary may cost-share for reseeding under this section only if the reseeding is to nonannual crops planted for pasture purposes.
 
-“(d)
+"(d)
 
 Funding.—(1) The Secretary shall use the funds, facilities, and authorities of the Commodity Credit Corporation to carry out this section.
 
-“(2) Not more than $50,000,000 of the funds of the Commodity Credit Corporation may be expended under paragraph (1).
+"(2) Not more than $50,000,000 of the funds of the Commodity Credit Corporation may be expended under paragraph (1).
 
-“(3) To ensure the equitable award of funds under agreements under this section, as limited under paragraph (2), the Secretary may prorate, and adopt procedures to facilitate proration of, funds made available under this section.”
+"(3) To ensure the equitable award of funds under agreements under this section, as limited under paragraph (2), the Secretary may prorate, and adopt procedures to facilitate proration of, funds made available under this section."
 

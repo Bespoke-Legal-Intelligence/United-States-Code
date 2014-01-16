@@ -16,7 +16,7 @@
 
 #### (c) Civil penalties
 
-(1) Any person who is found by the Administrator, after notice and an opportunity for a hearing in accordance with section 554 of title 5, to have committed an act prohibited by section 9151 of this title shall be liable to the United States for a civil penalty, not to exceed $25,000 for each violation. Each day of a continuing violation shall constitute a separate violation. The amount of such civil penalty shall be assessed by the Administrator, or his designee, by written notice. In determining the amount of such penalty, the Administrator shall take into account the nature, circumstances, extent and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
+(1) Any person who is found by the Administrator, after notice and an opportunity for a hearing in accordance with section 554 of title 5, to have committed an act prohibited by section 9151 of this title shall be liable to the United States for a civil penalty, not to exceed $25,000 for each violation. Each day of a continuing violation shall constitute a separate violation. The amount of such civil penalty shall be assessedby the Administrator, or his designee, by written notice. In determining the amount of such penalty, the Administrator shall take into account the nature, circumstances, extent and gravity of the prohibited acts committed and, with respect to the violator, the degree of culpability, any history of prior offenses, ability to pay, and such other matters as justice may require.
 
 (2) Any person against whom a civil penalty is assessed under paragraph (1) of this subsection may obtain a review thereof in the appropriate court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Administrator. The Administrator shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in section 2112 of title 28. The findings and order of the Administrator shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in section 706(2) of title 5.
 
@@ -38,9 +38,9 @@ Any ocean thermal energy conversion facility or plantship licensed pursuant to t
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1), (2), (b)(2), and (e), was in the original “this Act”, meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1), (2), (b)(2), and (e), was in the original "this Act", meaning Pub. L. 96–320, Aug. 3, 1980, 94 Stat. 974, known as the Ocean Thermal Energy Conversion Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 9101 of this title and Tables.
 
 #### Amendments
 
-<b>1984</b>—Subsec. (b)(1). Pub. L. 98–623 substituted “to halt any violation” for “any violation”.
+<b>1984</b>—Subsec. (b)(1). Pub. L. 98–623 substituted "to halt any violation" for "any violation".
 

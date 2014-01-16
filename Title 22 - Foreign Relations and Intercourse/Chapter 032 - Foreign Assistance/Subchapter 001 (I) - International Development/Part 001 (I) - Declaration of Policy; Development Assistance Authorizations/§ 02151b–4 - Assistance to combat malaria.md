@@ -2,7 +2,7 @@
 
 #### (a) Finding
 
-Congress finds that malaria kills more people annually than any other communicable diseaseexcept tuberculosis, that more than 90 percent of all malaria cases are in sub-Saharan Africa, and that children and women are particularly at risk. Congress recognizes that there are cost-effective tools to decrease the spread of malaria and that malaria is a curable disease if promptly diagnosed and adequately treated.
+Congress finds that malaria kills more people annually than any other communicable disease except tuberculosis, that more than 90 percent of all malaria cases are in sub-Saharan Africa, and that children and women are particularly at risk. Congress recognizes that there are cost-effective tools to decrease the spread of malaria and that malaria is a curable disease if promptly diagnosed and adequately treated.
 
 #### (b) Policy
 
@@ -20,7 +20,7 @@ In carrying out this section, the President shall coordinate with the World Heal
 
 #### Amendments
 
-<b>2008</b>—Subsec. (b). Pub. L. 110–293 inserted “treatment,” after “control,”.
+<b>2008</b>—Subsec. (b). Pub. L. 110–293 inserted "treatment," after "control,".
 
 #### Delegation of Functions
 

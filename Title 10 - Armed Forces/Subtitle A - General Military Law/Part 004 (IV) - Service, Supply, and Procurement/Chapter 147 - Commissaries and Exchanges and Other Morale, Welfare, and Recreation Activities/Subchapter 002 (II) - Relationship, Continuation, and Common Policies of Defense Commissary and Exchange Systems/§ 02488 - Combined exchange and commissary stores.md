@@ -30,7 +30,7 @@ Use of Appropriated Funds.—(1) If a nonappropriated fund instrumentality incur
 
 (f)
 
-Nonappropriated Fund Instrumentality Defined.—In this section, the term “nonappropriated fund instrumentality” means the Army and Air Force Exchange Service, Navy Exchange Service Command, Marine Corps exchanges, or any other instrumentality of the United States under the jurisdiction of the armed forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the armed forces.
+Nonappropriated Fund Instrumentality Defined.—In this section, the term "nonappropriated fund instrumentality" means the Army and Air Force Exchange Service, Navy Exchange Service Command, Marine Corps exchanges, or any other instrumentality of the United States under the jurisdiction of the armed forces which is conducted for the comfort, pleasure, contentment, or physical or mental improvement of members of the armed forces.
 
 (Added Pub. L. 104–106, div. A, title III, §336(a)(1), Feb. 10, 1996, 110 Stat. 263, §2490a; amended Pub. L. 105–85, div. A, title X, §1061(d), Nov. 18, 1997, 111 Stat. 1891; Pub. L. 108–136, div. A, title X, §1043(c)(2), Nov. 24, 2003, 117 Stat. 1611; renumbered §2488, Pub. L. 108–375, div. A, title VI, §651(b)(3), Oct. 28, 2004, 118 Stat. 1971; Pub. L. 111–383, div. A, title X, §1075(b)(37), Jan. 7, 2011, 124 Stat. 4371.)
 
@@ -44,19 +44,19 @@ A prior section 2488 was renumbered section 2495 of this title.
 
 #### Amendments
 
-<b>2011</b>—Subsec. (f). Pub. L. 111–383 substituted “armed forces” for “Armed Forces” in two places.
+<b>2011</b>—Subsec. (f). Pub. L. 111–383 substituted "armed forces" for "Armed Forces" in two places.
 
 <b>2004</b>—Pub. L. 108–375 renumbered section 2490a of this title as this section.
 
-<b>2003</b>—Subsec. (f). Pub. L. 108–136, §1043(c)(2), substituted “
+<b>2003</b>—Subsec. (f). Pub. L. 108–136, §1043(c)(2), substituted "
 
-Nonappropriated Fund Instrumentality Defined.—In this section, the term” for “
+Nonappropriated Fund Instrumentality Defined.—In this section, the term" for "
 
 Definitions.—In this section:
 
-&emsp;“(1) The term”
+&emsp;"(1) The term"
 
-> and struck out par. (2) which read as follows: “The term ‘base closure law’ has the meaning given such term by section 2667(h) of this title.”
+> and struck out par. (2) which read as follows: "The term 'base closure law' has the meaning given such term by section 2667(h) of this title."
 
-<b>1997</b>—Subsec. (f)(2). Pub. L. 105–85 substituted “section 2667(h)” for “section 2667(g)”.
+<b>1997</b>—Subsec. (f)(2). Pub. L. 105–85 substituted "section 2667(h)" for "section 2667(g)".
 

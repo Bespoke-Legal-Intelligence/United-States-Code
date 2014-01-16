@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish a program to be known as the “National Clean Plant Network” (referred to in this section as the “Program”).
+The Secretary shall establish a program to be known as the "National Clean Plant Network" (referred to in this section as the "Program").
 
 #### (b) Requirements
 
@@ -60,7 +60,7 @@ Enactment of this section and repeal of Pub. L. 110–234 by Pub. L. 110–246 e
 
 #### Definitions
 
-“Secretary” as meaning the Secretary of Agriculture, see section 8701 of this title.
+"Secretary" as meaning the Secretary of Agriculture, see section 8701 of this title.
 
-“State department of agriculture” as meaning the agency, commission, or department of a State government responsible for protecting and promoting agriculture in the State, see section 10001(2) of Pub. L. 110–246, set out as a note under section 1622b of this title.
+"State department of agriculture" as meaning the agency, commission, or department of a State government responsible for protecting and promoting agriculture in the State, see section 10001(2) of Pub. L. 110–246, set out as a note under section 1622b of this title.
 

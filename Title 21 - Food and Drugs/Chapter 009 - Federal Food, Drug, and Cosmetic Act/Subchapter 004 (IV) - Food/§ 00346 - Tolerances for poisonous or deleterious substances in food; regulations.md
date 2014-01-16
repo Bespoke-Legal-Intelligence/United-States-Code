@@ -8,7 +8,7 @@ Any poisonous or deleterious substance added to any food, except where such subs
 
 <b>1960</b>—Pub. L. 86–618 repealed subsec. (b) which required Secretary to promulgate regulations for listing of coal-tar colors.
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–929 substituted “clause (2)(A)” for “clause (2)” in first sentence.
+<b>1958</b>—Subsec. (a). Pub. L. 85–929 substituted "clause (2)(A)" for "clause (2)" in first sentence.
 
 #### Effective Date of 1960 Amendment
 

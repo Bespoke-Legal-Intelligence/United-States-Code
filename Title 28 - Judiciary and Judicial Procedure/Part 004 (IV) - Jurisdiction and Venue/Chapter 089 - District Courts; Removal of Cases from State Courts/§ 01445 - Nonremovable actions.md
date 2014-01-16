@@ -2,7 +2,7 @@
 
 (a) A civil action in any State court against a railroad or its receivers or trustees, arising under sections 1–4 and 5–10 of the Act of April 22, 1908 (45 U.S.C. 51–54, 55–60), may not be removed to any district court of the United States.
 
-(b) A civil action in any State court against a carrier or its receivers or trustees to recover damages for delay, loss, or injury of shipments, arising under section 11706 or 14706 of title 49, may not be removed to any district court of the United States unless the matter in controversy exceeds $10,000, exclusive of interest and costs.
+(b) A civil action in any State court against a carrier or its receivers or trustees to recover damages for delay, loss, or injury of shipments, arising under section 11706 or 14706 of title 49,may not be removed to any district court of the United States unless the matter in controversy exceeds $10,000, exclusive of interest and costs.
 
 (c) A civil action in any State court arising under the workmen's compensation laws of such State may not be removed to any district court of the United States.
 
@@ -14,11 +14,11 @@
 
 Based on title 28, U.S.C., 1940 ed., §71 (Mar. 3, 1911, ch. 231, §28, 36 Stat. 1094; Jan. 20, 1914, ch. 11, 38 Stat. 278; Jan. 31, 1928, ch. 14, §1, 45 Stat. 54).
 
-The words “or its receivers or trustees” were inserted in both subsections to make clear that nonremovable actions against a carrier do not become removable under section 1442 of this title when filed against court receivers or trustees.
+The words "or its receivers or trustees" were inserted in both subsections to make clear that nonremovable actions against a carrier do not become removable under section 1442 of this title when filed against court receivers or trustees.
 
 This was the unquestioned rule prior to the act of Aug. 23, 1916, ch. 399, 39 Stat. 532, amending section 76 of title 28, U.S.C., 1940 ed., and permitting removal of actions against officers of United States courts. The cases are in conflict as to whether under that amendment the case becomes removable when the carrier is in receivership or undergoing reorganization. The revised section resolves the conflict by denying the right of removal to receivers and trustees where it would be nonexistent if the carrier were the party defendant. Thus the subject matter rather than legalistic distinctions as to the identity of the parties is made determinative consideration.
 
-A reference in section 71 of title 28, U.S.C., 1940 ed., to sections 51–59 of title 45, U.S.C., 1940 ed., Railroads, was changed to “51–60.” Such sections 51–59 embraced all of chapter 2 of said title 45 when the law on which such section 71 is based was enacted, but a new section (60) was added in 1939.
+A reference in section 71 of title 28, U.S.C., 1940 ed., to sections 51–59 of title 45, U.S.C., 1940 ed., Railroads, was changed to "51–60." Such sections 51–59 embraced all of chapter 2 of said title 45 when the law on which such section 71 is based was enacted, but a new section (60) was added in 1939.
 
 Other provisions of section 71 of title 28, U.S.C., 1940 ed., appear in section 1441 of this title.
 
@@ -30,17 +30,17 @@ Section 40302 of the Violence Against Women Act of 1994, referred to in subsec. 
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–287 substituted “sections 1–4 and 5–10 of the Act of April 22, 1908 (45 U.S.C. 51–54, 55–60)” for “sections 51–60 of Title 45”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–287 substituted "sections 1–4 and 5–10 of the Act of April 22, 1908 (45 U.S.C. 51–54, 55–60)" for "sections 51–60 of Title 45".
 
-<b>1995</b>—Subsec. (b). Pub. L. 104–88 substituted “carrier” for “common carrier” and “11706 or 14706” for “11707”.
+<b>1995</b>—Subsec. (b). Pub. L. 104–88 substituted "carrier" for "common carrier" and "11706 or 14706" for "11707".
 
 <b>1994</b>—Subsec. (d). Pub. L. 103–322 added subsec. (d).
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–486 substituted “$10,000” for “$3,000”.
+<b>1978</b>—Subsec. (b). Pub. L. 95–486 substituted "$10,000" for "$3,000".
 
-Pub. L. 95–473 substituted “section 11707 of title 49” for “section 20 of Title 49”.
+Pub. L. 95–473 substituted "section 11707 of title 49" for "section 20 of Title 49".
 
-<b>1958</b>—Pub. L. 85–554 substituted “Nonremovable actions” for “Carriers; nonremovable actions” in section catchline and added subsec. (c).
+<b>1958</b>—Pub. L. 85–554 substituted "Nonremovable actions" for "Carriers; nonremovable actions" in section catchline and added subsec. (c).
 
 #### Effective Date of 1996 Amendment
 

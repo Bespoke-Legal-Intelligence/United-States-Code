@@ -4,7 +4,7 @@
 
 &emsp;(1) existing automobile propulsion systems, on the average, fall short of meeting the long-term goals of the Nation with respect to environmental protection, and energy conservation;
 
-&emsp;(2) advanced alternatives to existing automobile propulsion systems could, with sufficient research and development effort, meet these long-term goals, and have the potential to be mass produced at reasonable cost; and advanced automobile propulsion systems couldoperate with significantly less adverse environmental impact and fuel consumption than existing automobiles, while meeting all of the other requirements of Federal law;
+&emsp;(2) advanced alternatives to existing automobile propulsion systems could, with sufficient research and development effort, meet these long-term goals, and have the potential to be mass produced at reasonable cost; and advanced automobile propulsion systems could operate with significantly less adverse environmental impact and fuel consumption than existing automobiles, while meeting all of the other requirements of Federal law;
 
 &emsp;(3) insufficient resources are being devoted to both research on and development of advanced automobile propulsion system technology;
 
@@ -24,5 +24,5 @@
 
 #### Short Title
 
-Pub. L. 95–238, title III, §301, Feb. 25, 1978, 92 Stat. 78, provided that: “This title \[enacting this chapter and amending section 2451 of Title 42, The Public Health and Welfare\] may be cited as the ‘Automotive Propulsion Research and Development Act of 1978’.”
+Pub. L. 95–238, title III, §301, Feb. 25, 1978, 92 Stat. 78, provided that: "This title \[enacting this chapter and amending section 2451 of Title 42, The Public Health and Welfare\] may be cited as the 'Automotive Propulsion Research and Development Act of 1978'."
 

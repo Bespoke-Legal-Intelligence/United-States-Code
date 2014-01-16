@@ -14,7 +14,7 @@ Retention of Fees.—Fees collected under this section shall be credited to the 
 
 (d)
 
-Defense Logistics Information Services Defined.—In this section, the term “Defense Logistics Information Services” means the organization within the Defense Logistics Agency that is known as Defense Logistics Information Services.
+Defense Logistics Information Services Defined.—In this section, the term "Defense Logistics Information Services" means the organization within the Defense Logistics Agency that is known as Defense Logistics Information Services.
 
 (Added Pub. L. 108–375, div. A, title X, §1010(a), Oct. 28, 2004, 118 Stat. 2038.)
 

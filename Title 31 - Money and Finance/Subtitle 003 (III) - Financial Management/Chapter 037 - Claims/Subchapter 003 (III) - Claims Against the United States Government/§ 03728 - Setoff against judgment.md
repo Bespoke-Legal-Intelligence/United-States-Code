@@ -6,7 +6,7 @@
 
 &emsp;(1) discharge the debt if the plaintiff agrees to the setoff and discharges a part of the judgment equal to the debt; or
 
-&emsp;(2)(A) withhold payment of an additional amount the Secretary decides will cover legalcosts of bringing a civil action for the debt if the plaintiff denies the debt or does not agree to the setoff; and
+&emsp;(2)(A) withhold payment of an additional amount the Secretary decides will cover legal costs of bringing a civil action for the debt if the plaintiff denies the debt or does not agree to the setoff; and
 
 &emsp;(B) have a civil action brought if one has not already been brought.
 
@@ -36,21 +36,21 @@ Mar. 3, 1875, ch. 149, 18 Stat. 481; restated Mar. 3, 1933, ch. 212, §13, 47 St
 
 31:227(last sentence).
 
-In the section, the words “of the United States” are omitted as unnecessary.
+In the section, the words "of the United States" are omitted as unnecessary.
 
-In subsection (a), the words “final . . . recovered . . . duly allowed by legal authority”, “for payment”, and “in any manner, whether as principal or surety” are omitted as surplus.
+In subsection (a), the words "final . . . recovered . . . duly allowed by legal authority", "for payment", and "in any manner, whether as principal or surety" are omitted as surplus.
 
-In subsection (b)(1), the words “due from the plaintiff to the United States” are omitted as surplus.
+In subsection (b)(1), the words "due from the plaintiff to the United States" are omitted as surplus.
 
-In subsection (b)(2)(A), the words “of such judgment”, “be sufficient to”, and “charges and” are omitted as surplus. The words “of bringing a civil action” are substituted for “in prosecuting the debt” for consistency in the revised title and with other titles of the United States Code. The words “of the United States to final judgment” and “to the United States” are omitted as surplus.
+In subsection (b)(2)(A), the words "of such judgment", "be sufficient to", and "charges and" are omitted as surplus. The words "of bringing a civil action" are substituted for "in prosecuting the debt" for consistency in the revised title and with other titles of the United States Code. The words "of the United States to final judgment" and "to the United States" are omitted as surplus.
 
 Subsection (b)(2)(B) is substituted for 31:227(3d sentence) for consistency and to eliminate unnecessary words.
 
-In subsection (c), the words “for debt and costs”, “thereon”, and “from the plaintiff” are omitted as surplus.
+In subsection (c), the words "for debt and costs", "thereon", and "from the plaintiff" are omitted as surplus.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–316, §202(p)(1), (2), substituted “Secretary of the Treasury” for “Comptroller General” before “shall withhold” and “Secretary” for “Comptroller General” after “presented to the”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–316, §202(p)(1), (2), substituted "Secretary of the Treasury" for "Comptroller General" before "shall withhold" and "Secretary" for "Comptroller General" after "presented to the".
 
-Subsecs. (b), (c). Pub. L. 104–316, §202(p)(2), substituted “Secretary” for “Comptroller General” wherever appearing.
+Subsecs. (b), (c). Pub. L. 104–316, §202(p)(2), substituted "Secretary" for "Comptroller General" wherever appearing.
 

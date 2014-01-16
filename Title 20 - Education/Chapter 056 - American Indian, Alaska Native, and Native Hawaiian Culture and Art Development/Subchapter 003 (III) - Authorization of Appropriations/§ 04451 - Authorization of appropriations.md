@@ -30,17 +30,17 @@ There are authorized to be appropriated for the purpose of carrying out the prov
 
 Section 4425 of this title, referred to in subsec. (a)(3), was amended generally by Pub. L. 101–644, title V, §505, Nov. 29, 1990, 104 Stat. 4669, and, as so amended, provisions similar to subsec. (d) are contained in subsec. (a)(4).
 
-This chapter, referred to in subsec. (a)(5), was in the original “this Act” and was translated as reading “this title”, meaning title XV of Pub. L. 99–498 to reflect the probable intent of Congress.
+This chapter, referred to in subsec. (a)(5), was in the original "this Act" and was translated as reading "this title", meaning title XV of Pub. L. 99–498 to reflect the probable intent of Congress.
 
 #### Amendments
 
 <b>1990</b>—Subsec. (a)(4), (5). Pub. L. 101–644 added pars. (4) and (5).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–297 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “There are authorized to be appropriated for the purpose of carrying out the provisions of subchapter I of this chapter—
+<b>1988</b>—Subsec. (a). Pub. L. 100–297 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: "There are authorized to be appropriated for the purpose of carrying out the provisions of subchapter I of this chapter—
 
-&emsp;“(1) for fiscal year 1987, $4,000,000, and
+&emsp;"(1) for fiscal year 1987, $4,000,000, and
 
-&emsp;“(2) for each succeeding fiscal year, such sums as may be necessary to carry out such provisions.”
+&emsp;"(2) for each succeeding fiscal year, such sums as may be necessary to carry out such provisions."
 
 #### Effective Date of 1988 Amendment
 

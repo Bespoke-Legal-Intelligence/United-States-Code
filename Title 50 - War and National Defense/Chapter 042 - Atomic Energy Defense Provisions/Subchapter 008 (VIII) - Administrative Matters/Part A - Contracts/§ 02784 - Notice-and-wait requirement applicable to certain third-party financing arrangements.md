@@ -2,7 +2,7 @@
 
 #### (a) Notice-and-wait requirement
 
-The Secretary of Energy may not enter into an arrangement described in subsection (b) until 30 days after the date on which the Secretary notifies the congressional defense committees in writing of the proposed arrangement.
+The Secretary of Energy may not enter into an arrangement described in subsection (b) until30 days after the date on which the Secretary notifies the congressional defense committees in writing of the proposed arrangement.
 
 #### (b) Covered arrangements
 

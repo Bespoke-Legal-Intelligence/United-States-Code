@@ -22,7 +22,7 @@ As soon as practicable after December 3, 2003, the Secretary shall implement aut
 
 #### (b) Relation to agency plans
 
-An authorized hazardous fuel reduction project shall be conducted consistent with the resource management plan and other relevant administrative policies or decisions applicable to the Federal land covered by the project.
+An authorized hazardous fuel reduction project shall be conducted consistent with theresource management plan and other relevant administrative policies or decisions applicable to the Federal land covered by the project.
 
 #### (c) Acreage limitation
 
@@ -46,7 +46,7 @@ The Secretary may not conduct an authorized hazardous fuel reduction project tha
 
 #### (A) Applicable period
 
-&emsp;&emsp;The term “applicable period” means—
+&emsp;&emsp;The term "applicable period" means—
 
 &emsp;&emsp;&emsp;(i) the 2-year period beginning on December 3, 2003; or
 
@@ -54,15 +54,15 @@ The Secretary may not conduct an authorized hazardous fuel reduction project tha
 
 #### (B) Covered project
 
-&emsp;&emsp;The term “covered project” means an authorized hazardous fuel reduction project carried out on land described in paragraph (1), (2), (3), or (5) of subsection (a).
+&emsp;&emsp;The term "covered project" means an authorized hazardous fuel reduction project carried out on land described in paragraph (1), (2), (3), or (5) of subsection (a).
 
 #### (C) Management direction
 
-&emsp;&emsp;The term “management direction” means definitions, designations, standards, guidelines, goals, or objectives established for an old growth stand under a resource management plan developed in accordance with applicable law, including section 1604(g)(3)(B) of this title.
+&emsp;&emsp;The term "management direction" means definitions, designations, standards, guidelines, goals, or objectives established for an old growth stand under a resource management plan developed in accordance with applicable law, including section 1604(g)(3)(B) of this title.
 
 #### (D) Old growth stand
 
-&emsp;&emsp;The term “old growth stand” has the meaning given the term under management direction used pursuant to paragraphs (3) and (4), based on the structure and composition characteristic of the forest type, and in accordance with applicable law, including section 1604(g)(3)(B) of this title.
+&emsp;&emsp;The term "old growth stand" has the meaning given the term under management direction used pursuant to paragraphs (3) and (4), based on the structure and composition characteristic of the forest type, and in accordance with applicable law, including section 1604(g)(3)(B) of this title.
 
 #### (2) Project requirements
 
@@ -158,7 +158,7 @@ The Secretary may not conduct an authorized hazardous fuel reduction project tha
 
 #### (A) In general
 
-&emsp;&emsp;In an area where significant interest is expressed in multiparty monitoring, the Secretary shall establish a multiparty monitoring, evaluation, and accountability process in order to assess the positive or negative ecological and social effects of authorizedhazardous fuel reduction projects and projects conducted pursuant to section 6554 of this title.
+&emsp;&emsp;In an area where significant interest is expressed in multiparty monitoring, the Secretary shall establish a multiparty monitoring, evaluation, and accountability process in order to assess the positive or negative ecological and social effects of authorized hazardous fuel reduction projects and projects conducted pursuant to section 6554 of this title.
 
 #### (B) Diverse stakeholders
 

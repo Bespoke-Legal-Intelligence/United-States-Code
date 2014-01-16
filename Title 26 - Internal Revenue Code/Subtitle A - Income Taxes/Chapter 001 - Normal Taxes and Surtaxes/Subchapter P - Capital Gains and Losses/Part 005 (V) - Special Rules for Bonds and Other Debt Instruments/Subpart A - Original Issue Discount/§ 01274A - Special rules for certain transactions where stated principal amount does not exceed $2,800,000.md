@@ -6,7 +6,7 @@ In the case of any qualified debt instrument, the discount rate used for purpose
 
 #### (b) Qualified debt instrument defined
 
-For purposes of this section, the term “qualified debt instrument” means any debt instrument given in consideration for the sale or exchange of property (other than new section 38 property within the meaning of section 48(b), as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) if the stated principal amount of such instrument does not exceed $2,800,000.
+For purposes of this section, the term "qualified debt instrument" means any debt instrument given in consideration for the sale or exchange of property (other than new section 38 property within the meaning of section 48(b), as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) if the stated principal amount of such instrument does not exceed $2,800,000.
 
 #### (c) Election to use cash method where stated principal amount does not exceed $2,000,000
 
@@ -20,7 +20,7 @@ For purposes of this section, the term “qualified debt instrument” means any
 
 #### (2) Cash method debt instrument
 
-&emsp;For purposes of paragraph (1), the term “cash method debt instrument” means any qualified debt instrument if—
+&emsp;For purposes of paragraph (1), the term "cash method debt instrument" means any qualified debt instrument if—
 
 &emsp;&emsp;(A) the stated principal amount does not exceed $2,000,000,
 
@@ -92,9 +92,9 @@ The date of the enactment of the Revenue Reconciliation Act of 1990, referred to
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c)(1)(B). Pub. L. 104–188 substituted “instrument” for “instument”.
+<b>1996</b>—Subsec. (c)(1)(B). Pub. L. 104–188 substituted "instrument" for "instument".
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–508 inserted “, as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990” after “section 48(b)”.
+<b>1990</b>—Subsec. (b). Pub. L. 101–508 inserted ", as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990" after "section 48(b)".
 
 #### Effective Date of 1990 Amendment
 
@@ -111,6 +111,8 @@ For provisions that nothing in amendment by Pub. L. 101–508 be construed to af
 #### Inflation Adjusted Items for Certain Years
 
 Provisions relating to inflation adjustment of items in this section for certain years were contained in the following:
+
+<b>2014</b>—Revenue Ruling 2013–23.
 
 <b>2013</b>—Revenue Ruling 2012–33.
 

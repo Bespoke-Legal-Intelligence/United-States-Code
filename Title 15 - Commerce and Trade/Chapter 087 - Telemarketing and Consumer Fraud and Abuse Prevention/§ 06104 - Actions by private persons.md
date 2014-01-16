@@ -28,7 +28,7 @@ Any civil action brought under subsection (a) of this section in a district cour
 
 #### Amendments
 
-<b>2010</b>—Subsec. (c). Pub. L. 111–203 inserted “or the Bureau of Consumer Financial Protection” after “Commission” wherever appearing.
+<b>2010</b>—Subsec. (c). Pub. L. 111–203 inserted "or the Bureau of Consumer Financial Protection" after "Commission" wherever appearing.
 
 #### Effective Date of 2010 Amendment
 

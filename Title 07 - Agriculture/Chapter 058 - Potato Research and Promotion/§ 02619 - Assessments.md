@@ -24,11 +24,11 @@ All information obtained pursuant to subsections (a) and (b) of this section sha
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a)(2). Pub. L. 102–237 substituted “(2) When” for “(2) when”.
+<b>1991</b>—Subsec. (a)(2). Pub. L. 102–237 substituted "(2) When" for "(2) when".
 
 <b>1990</b>—Subsec. (a). Pub. L. 101–624, §1942(1), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (b). Pub. L. 101–624, §1942(2), inserted “and importers” after “Handlers”.
+Subsec. (b). Pub. L. 101–624, §1942(2), inserted "and importers" after "Handlers".
 
-Subsec. (c)(1). Pub. L. 101–624, §1942(3), inserted “or importers” after “handlers”.
+Subsec. (c)(1). Pub. L. 101–624, §1942(3), inserted "or importers" after "handlers".
 

@@ -8,7 +8,7 @@ After January 8, 2002, no person shall permit smoking within any indoor facility
 
 #### (1) In general
 
-&emsp;After January 8, 2002, no person shall permit smoking within any indoor facility (or portionof such a facility) owned or leased or contracted for, and utilized by, such person for the provision of regular or routine health care or day care or early childhood development (Head Start) services.
+&emsp;After January 8, 2002, no person shall permit smoking within any indoor facility (or portion of such a facility) owned or leased or contracted for, and utilized by, such person for the provision of regular or routine health care or day care or early childhood development (Head Start) services.
 
 #### (2) Exception
 
@@ -50,7 +50,7 @@ The prohibitions in subsections (a) through (c) of this section shall be publish
 
 #### (1) In general
 
-&emsp;Any failure to comply with a prohibition in this section shall be considered to be a violation of this section and any person subject to such prohibition who commits such violation may be liable to the United States for a civil penalty in an amount not to exceed $1,000 for each violation, or may be subject to an administrative compliance order, or both, as determined by the Secretary. Each day a violation continues shall constitute a separate violation. In the case of any civil penalty assessed under this section, the total amount shall not exceed 50 percent of the amount of Federal funds received under any subchapter of this chapter by such person for the fiscal year in which the continuing violation occurred. For the purpose of the prohibition in subsection (c) of this section, the term “person”, as used in this paragraph, shall mean the head of the applicable Federal agency or the contractor of such agency providing the services to children.
+&emsp;Any failure to comply with a prohibition in this section shall be considered to be a violation of this section and any person subject to such prohibition who commits such violation may be liable to the United States for a civil penalty in an amount not to exceed $1,000 foreach violation, or may be subject to an administrative compliance order, or both, as determined by the Secretary. Each day a violation continues shall constitute a separate violation. In the case of any civil penalty assessed under this section, the total amount shall not exceed 50 percent of the amount of Federal funds received under any subchapter of this chapter by such person for the fiscal year in which the continuing violation occurred. For the purpose of the prohibition in subsection (c) of this section, the term "person", as used in this paragraph, shall mean the head of the applicable Federal agency or the contractor of such agency providing the services to children.
 
 #### (2) Administrative proceeding
 
@@ -68,7 +68,7 @@ The prohibitions in subsections (a) through (c) of this section shall be publish
 
 #### (4) Modification
 
-&emsp;The Secretary may, as appropriate, compromise, modify, or remit, with or without conditions, any civil penalty or administrative compliance order. In the case of a civil penalty, the amount, as finally determined by the Secretary or agreed upon in compromise, maybe deducted from any sums that the United States or the agencies or instrumentalities of the United States owe to the person against whom the penalty is assessed.
+&emsp;The Secretary may, as appropriate, compromise, modify, or remit, with or without conditions, any civil penalty or administrative compliance order. In the case of a civil penalty, the amount, as finally determined by the Secretary or agreed upon in compromise, may be deducted from any sums that the United States or the agencies or instrumentalities of the United States owe to the person against whom the penalty is assessed.
 
 #### (5) Petition for review
 

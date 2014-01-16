@@ -24,9 +24,9 @@ Relationship to Pay Limitation.—The Secretary of Defense may exercise the auth
 
 Definitions.—In this section:
 
-&emsp;(1) The term “compensation” includes rate of basic pay.
+&emsp;(1) The term "compensation" includes rate of basic pay.
 
-&emsp;(2) The term “Senior Executive Service position” has the meaning given such term in section 3132 of title 5.
+&emsp;(2) The term "Senior Executive Service position" has the meaning given such term in section 3132 of title 5.
 
 (Added Pub. L. 108–375, div. A, title XI, §1104(a), Oct. 28, 2004, 118 Stat. 2073.)
 

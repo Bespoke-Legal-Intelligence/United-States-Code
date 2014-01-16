@@ -26,5 +26,5 @@ Aug. 23, 1958, Pub. L. 85–726, §314(a) (last sentence related to fees), 72 St
 
 Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L. 97–449, §7(b), 96 Stat. 2444.
 
-In this section, the word “Administrator” in section 314(a) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 754) is retained on authority of 49:106(g). The words “services performed under a delegation to the person under section 44702(d) of this title” are substituted for “their services” because of the restatement.
+In this section, the word "Administrator" in section 314(a) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 754) is retained on authority of 49:106(g). The words "services performed under a delegation to the person under section 44702(d) of this title" are substituted for "their services" because of the restatement.
 

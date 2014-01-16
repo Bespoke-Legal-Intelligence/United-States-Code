@@ -8,15 +8,15 @@
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b). Pub. L. 109–163 inserted “the day before” after “not later than” in first sentence.
+<b>2006</b>—Subsec. (b). Pub. L. 109–163 inserted "the day before" after "not later than" in first sentence.
 
-<b>1991</b>—Pub. L. 102–190 struck out “; communications with boards” after “selection boards” in section catchline.
+<b>1991</b>—Pub. L. 102–190 struck out "; communications with boards" after "selection boards" in section catchline.
 
-<b>1981</b>—Subsec. (a). Pub. L. 97–22 substituted “which shall include the convening date of the board” for “, the names of the officers eligible for consideration by the board as of the date of the notification, the convening date of the board,”.
+<b>1981</b>—Subsec. (a). Pub. L. 97–22 substituted "which shall include the convening date of the board" for ", the names of the officers eligible for consideration by the board as of the date of the notification, the convening date of the board,".
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–163, div. A, title V, §505(c), Jan. 6, 2006, 119 Stat. 3227, provided that: “The amendments made by this section \[amending this section and section 14106 of this title\] shall take effect on March 1, 2006, and shall apply with respect to selection boards convened on or after that date.”
+Pub. L. 109–163, div. A, title V, §505(c), Jan. 6, 2006, 119 Stat. 3227, provided that: "The amendments made by this section \[amending this section and section 14106 of this title\] shall take effect on March 1, 2006, and shall apply with respect to selection boards convened on or after that date."
 
 #### Effective Date of 1991 Amendment
 

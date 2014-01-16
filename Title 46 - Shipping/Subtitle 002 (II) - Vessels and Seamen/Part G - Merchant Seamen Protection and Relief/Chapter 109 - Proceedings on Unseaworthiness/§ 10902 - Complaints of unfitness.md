@@ -42,9 +42,9 @@ Section 10902 instructs the crew on making complaints of unfitness of vessel wit
 
 #### Amendments
 
-<b>1993</b>—Subsec. (b)(1). Pub. L. 103–206, §422(b)(1), inserted “Secretary,” after “The complaint may be made to the” and struck out “Coast Guard shipping commissioner,” after “consular officer,”.
+<b>1993</b>—Subsec. (b)(1). Pub. L. 103–206, §422(b)(1), inserted "Secretary," after "The complaint may be made to the" and struck out "Coast Guard shipping commissioner," after "consular officer,".
 
-Subsec. (b)(2), (3). Pub. L. 103–206, §422(b)(2), substituted “The Secretary, officer,” for “The officer, commissioner,”.
+Subsec. (b)(2), (3). Pub. L. 103–206, §422(b)(2), substituted "The Secretary, officer," for "The officer, commissioner,".
 
 #### Transfer of Functions
 

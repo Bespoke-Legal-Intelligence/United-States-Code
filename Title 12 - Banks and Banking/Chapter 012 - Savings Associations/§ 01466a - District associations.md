@@ -10,7 +10,7 @@ Any such association or institution incorporated under the laws of, or organized
 
 #### (c) Charter amendments
 
-Charters, certificates of incorporation, articles of incorporation, constitutions, bylaws, or other organic documents of associations or institutions referred to in subsection (b) of this section may, without regard to anything contained therein or otherwise, be amended in such manner and to such extent and upon such votes if any as the Comptroller may by regulation or otherwise provide.
+Charters, certificates of incorporation, articles of incorporation, constitutions, bylaws, orother organic documents of associations or institutions referred to in subsection (b) of this section may, without regard to anything contained therein or otherwise, be amended in such manner and to such extent and upon such votes if any as the Comptroller may by regulation or otherwise provide.
 
 #### (d) Limitation
 
@@ -24,7 +24,7 @@ A prior section 8 of act June 13, 1933, ch. 64, 48 Stat. 134, was classified to 
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–203 substituted “Comptroller” for “Director” wherever appearing.
+<b>2010</b>—Pub. L. 111–203 substituted "Comptroller" for "Director" wherever appearing.
 
 <b>1989</b>—Pub. L. 101–73 amended section generally, substituting provisions relating to Director and Federal savings associations for former provisions relating to Federal Home Loan Bank Board and Federal savings and loan associations.
 

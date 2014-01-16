@@ -26,5 +26,5 @@ Historical and Revision Notes
 
 Pub. L. 100–147, title II, §207, Oct. 30, 1987, 101 Stat. 873.
 
-In subsection (a), the words “up to 100 percent” are substituted for “100 percent, or any lesser percent” to eliminate unnecessary words.
+In subsection (a), the words "up to 100 percent" are substituted for "100 percent, or any lesser percent" to eliminate unnecessary words.
 

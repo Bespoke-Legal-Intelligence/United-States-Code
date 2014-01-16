@@ -14,7 +14,7 @@ Financial Assistance.—(1) Under the program under this section, the Secretary 
 
 &emsp;(C) enters into a service agreement with the Secretary of Defense as described in subsection (c).
 
-(2) The amount of the financial assistance provided under a scholarship or fellowship awarded to a person under this subsection shall be the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, equipment expenses, and expenses of room and board.
+(2) The amount of the financial assistance provided under a scholarship or fellowship awarded to a person under this subsection shall be an amount determined by the Secretary of Defense.
 
 (3) Financial assistance provided under a scholarship or fellowship awarded under this section may be paid directly to the recipient of such scholarship or fellowship or to an administering entity for disbursement of the funds.
 
@@ -66,29 +66,31 @@ Relationship to Other Programs.—The Secretary of Defense shall coordinate the 
 
 (g)
 
-Institution of Higher Education Defined.—In this section, the term “institution of higher education” has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+Institution of Higher Education Defined.—In this section, the term "institution of higher education" has the meaning given such term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
 
-(Added Pub. L. 109–163, div. A, title XI, §1104(d)(1), Jan. 6, 2006, 119 Stat. 3449; amended Pub. L. 110–417, \[div. A\], title X, §1061(a)(5), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–84, div. A, title XI, §1102(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2484, 2485.)
+(Added Pub. L. 109–163, div. A, title XI, §1104(d)(1), Jan. 6, 2006, 119 Stat. 3449; amended Pub. L. 110–417, \[div. A\], title X, §1061(a)(5), Oct. 14, 2008, 122 Stat. 4612; Pub. L. 111–84, div. A, title XI, §1102(a)–(d)(1), Oct. 28, 2009, 123 Stat. 2484, 2485; Pub. L. 113–66, div. A, title XI, §1105(a)(1), Dec. 26, 2013, 127 Stat. 886.)
 
 #### Codification
 
-Section, as added by Pub. L. 109–163, consists of text of Pub. L. 108–375, div. A, title XI, §1105, Oct. 28, 2004, 118 Stat. 2074; Pub. L. 109–163, div. A, title X, §1056(d), title XI, §1104(a)–(c), Jan. 6, 2006, 119 Stat. 3440, 3448, 3449; Pub. L. 111–383, div. A, title X, §1075(h)(5), Jan. 7,2011, 124 Stat. 4377, which was formerly set out as a note under section 2192 of this title, and was repealed by Pub. L. 109–163, div. A, title XI, §1104(e)(1), Jan. 6, 2006, 119 Stat. 3450.
+Section, as added by Pub. L. 109–163, consists of text of Pub. L. 108–375, div. A, title XI, §1105, Oct. 28, 2004, 118 Stat. 2074; Pub. L. 109–163, div. A, title X, §1056(d), title XI, §1104(a)–(c), Jan. 6, 2006, 119 Stat. 3440, 3448, 3449; Pub. L. 111–383, div. A, title X, §1075(h)(5), Jan. 7, 2011, 124 Stat. 4377, which was formerly set out as a note under section 2192 of this title, and was repealed by Pub. L. 109–163, div. A, title XI, §1104(e)(1), Jan. 6, 2006, 119 Stat. 3450.
 
 #### Amendments
 
-<b>2009</b>—Subsec. (c)(2). Pub. L. 111–84, §1102(b), substituted “The” for “Except as provided in subsection (d), the” in second sentence.
+<b>2013</b>—Subsec. (b)(2). Pub. L. 113–66 substituted "an amount determined by the Secretary of Defense" for "the amount determined by the Secretary of Defense as being necessary to pay all educational expenses incurred by that person, including tuition, fees, cost of books, laboratory expenses, equipment expenses, and expenses of room and board".
+
+<b>2009</b>—Subsec. (c)(2). Pub. L. 111–84, §1102(b), substituted "The" for "Except as provided in subsection (d), the" in second sentence.
 
 Subsec. (d). Pub. L. 111–84, §1102(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) provided that, under certain circumstances, the Secretary of Defense could appoint or retain a SMART program participant as an interim employee and separate such participant from employment if no appropriate permanent position was available at the end of the interim period and that the period of interim service would count towards the participant's obligated service requirements.
 
-Subsec. (f). Pub. L. 111–84, §1102(c), struck out “The program under this section is in addition to the authorities provided in chapter 111 of this title.” before “The Secretary” and substituted “the other authorities provided in this chapter” for “the authorities provided in such chapter”.
+Subsec. (f). Pub. L. 111–84, §1102(c), struck out "The program under this section is in addition to the authorities provided in chapter 111 of this title." before "The Secretary" and substituted "the other authorities provided in this chapter" for "the authorities provided in such chapter".
 
-Subsecs. (g), (h). Pub. L. 111–84, §1102(d)(1), redesignated subsec. (h) as (g) and struck out former subsec. (g). Prior to amendment, text read as follows: “Not later than February 1, 2007, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Committee on Government Reform of the House of Representatives a plan for expanding and improving the national defense science and engineering workforce educational assistance program carried out under this section as appropriate to improve recruitment and retention to meet the requirements of the Department of Defense for its science and engineering workforce on a short-term basis and on a long-term basis.”
+Subsecs. (g), (h). Pub. L. 111–84, §1102(d)(1), redesignated subsec. (h) as (g) and struck out former subsec. (g). Prior to amendment, text read as follows: "Not later than February 1, 2007, the Secretary of Defense shall submit to the Committees on Armed Services of the Senate and the House of Representatives, the Committee on Governmental Affairs of the Senate, and the Committee on Government Reform of the House of Representatives a plan for expanding and improving the national defense science and engineering workforce educational assistance program carried out under this section as appropriate to improve recruitment and retention to meet the requirements of the Department of Defense for its science and engineering workforce on a short-term basis and on a long-term basis."
 
-<b>2008</b>—Subsec. (e)(4). Pub. L. 110–417, §1061(a)(5)(A), substituted “title 11” for “title 11, United States Code,”.
+<b>2008</b>—Subsec. (e)(4). Pub. L. 110–417, §1061(a)(5)(A), substituted "title 11" for "title 11, United States Code,".
 
-Subsec. (f). Pub. L. 110–417, §1061(a)(5)(B), substituted “this title” for “title 10, United States Code”.
+Subsec. (f). Pub. L. 110–417, §1061(a)(5)(B), substituted "this title" for "title 10, United States Code".
 
 #### Effect on Current Participants in SMART Pilot Program
 
-Pub. L. 109–163, div. A, title XI, §1104(f), Jan. 6, 2006, 119 Stat. 3450, provided that: “Participation in the Science, Mathematics, and Research for Transformation (SMART) Defense Scholarship Pilot Program under section 1105 of Public Law 108–375 \[see Codification note above\] by an individual who has entered into an agreement under that pilot program before the date of the enactment of this Act \[Jan. 6, 2006\] shall be governed by the terms of such agreement without regard to the amendments made by this section \[enacting this section, amending section 3304 of Title 5, Government Organization and Employees, and amending and repealing provisions set out as a note under section 2192 of this title\].”
+Pub. L. 109–163, div. A, title XI, §1104(f), Jan. 6, 2006, 119 Stat. 3450, provided that: "Participation in the Science, Mathematics, and Research for Transformation (SMART) Defense Scholarship Pilot Program under section 1105 of Public Law 108–375 \[see Codification note above\] by an individual who has entered into an agreement under that pilot program before the date of the enactment of this Act \[Jan. 6, 2006\] shall be governed by the terms of such agreement without regard to the amendments made by this section \[enacting this section, amending section 3304 of Title 5, Government Organization and Employees, and amending and repealing provisions set out as a note under section 2192 of this title\]."
 

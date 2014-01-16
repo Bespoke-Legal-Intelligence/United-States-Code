@@ -2,7 +2,7 @@
 
 (a)
 
-Federal Charter.—Catholic War Veterans of the United States of America, Incorporated (in this chapter, the “corporation”), incorporated in New York, is a federally chartered corporation.
+Federal Charter.—Catholic War Veterans of the United States of America, Incorporated (in this chapter, the "corporation"), incorporated in New York, is a federally chartered corporation.
 
 (b)
 

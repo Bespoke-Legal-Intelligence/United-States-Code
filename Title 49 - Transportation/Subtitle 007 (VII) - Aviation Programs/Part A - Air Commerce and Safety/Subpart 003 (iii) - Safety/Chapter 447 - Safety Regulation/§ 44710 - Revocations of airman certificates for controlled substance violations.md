@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “controlled substance” has the same meaning given that term in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802).
+Definition.—In this section, "controlled substance" has the same meaning given that term in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802).
 
 (b)
 
@@ -118,21 +118,21 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §602(b)(2)(C); added Oct. 19, 19
 
 Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §609(c)(5); added Nov. 18, 1988, Pub. L. 100–690, §7204(b), 102 Stat. 4425.
 
-In subsection (b)(1) and (2), before each clause (A), the words “of any person” are omitted as surplus. The words “issued . . . under section 44703 of this title” are added for clarity.
+In subsection (b)(1) and (2), before each clause (A), the words "of any person" are omitted as surplus. The words "issued . . . under section 44703 of this title" are added for clarity.
 
-In subsection (b)(1), the word “offense” is substituted for “crime” for consistency in the revised title and with other titles of the United States Code.
+In subsection (b)(1), the word "offense" is substituted for "crime" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (b)(2)(C), the words “in connection with carrying out, or facilitating the carrying out of, the activity” are substituted for “in connection with such activity or the facilitation of such activity” for consistency with the source provisions restated in paragraph (1)(B) of this subsection.
+In subsection (b)(2)(C), the words "in connection with carrying out, or facilitating the carrying out of, the activity" are substituted for "in connection with such activity or the facilitation of such activity" for consistency with the source provisions restated in paragraph (1)(B) of this subsection.
 
-In subsection (d)(1), the word “Administrator” is substituted for “Federal Aviation Administration” because of 49:106(b) and (g).
+In subsection (d)(1), the word "Administrator" is substituted for "Federal Aviation Administration" because of 49:106(b) and (g).
 
-In subsection (e)(1), the words “on appeal” and “contained” are omitted as surplus.
+In subsection (e)(1), the words "on appeal" and "contained" are omitted as surplus.
 
-In subsection (e)(2)(B)(i), the word “contained” is omitted as surplus.
+In subsection (e)(2)(B)(i), the word "contained" is omitted as surplus.
 
-In subsection (e)(2)(B)(ii), the words “judgment of” are omitted as surplus.
+In subsection (e)(2)(B)(ii), the words "judgment of" are omitted as surplus.
 
 #### Amendments
 
-<b>2012</b>—Subsec. (d)(1). Pub. L. 112–153 struck out “but shall be bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law” after “findings of fact of the Administrator”.
+<b>2012</b>—Subsec. (d)(1). Pub. L. 112–153 struck out "but shall be bound by all validly adopted interpretations of laws and regulations the Administrator carries out and of written agency policy guidance available to the public related to sanctions to be imposed under this section unless the Board finds an interpretation is arbitrary, capricious, or otherwise not according to law" after "findings of fact of the Administrator".
 

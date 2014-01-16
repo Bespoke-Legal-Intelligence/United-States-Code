@@ -34,5 +34,5 @@ Aug. 5, 1939, ch. 449, §§1, 2, 53 Stat. 1211.
 
 40:72d.
 
-In subsection (a), the words “in his discretion”, “and convey, in whole or in part”, and “now or hereafter” are omitted as unnecessary.
+In subsection (a), the words "in his discretion", "and convey, in whole or in part", and "now or hereafter" are omitted as unnecessary.
 

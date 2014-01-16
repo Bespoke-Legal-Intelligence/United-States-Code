@@ -6,7 +6,7 @@ Nothing in this subtitle shall be interpreted as superseding the provisions of s
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–465 substituted “1671b(d)(1)(B)” for “1671b(d)(2)”.
+<b>1994</b>—Pub. L. 103–465 substituted "1671b(d)(1)(B)" for "1671b(d)(2)".
 
 <b>1986</b>—Pub. L. 99–514 added section catchline.
 

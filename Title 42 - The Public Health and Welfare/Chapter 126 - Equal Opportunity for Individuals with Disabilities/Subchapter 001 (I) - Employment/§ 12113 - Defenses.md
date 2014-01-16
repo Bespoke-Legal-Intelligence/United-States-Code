@@ -6,7 +6,7 @@ It may be a defense to a charge of discrimination under this chapter that an all
 
 #### (b) Qualification standards
 
-The term “qualification standards” may include a requirement that an individual shall not pose a direct threat to the health or safety of other individuals in the workplace.
+The term "qualification standards" may include a requirement that an individual shall not pose a direct threat to the health or safety of other individuals in the workplace.
 
 #### (c) Qualification standards and tests related to uncorrected vision
 
@@ -50,7 +50,7 @@ Notwithstanding section 12102(4)(E)(ii) of this title, a covered entity shall no
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a) and (e)(3), was in the original “this Act”, meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
+This chapter, referred to in subsecs. (a) and (e)(3), was in the original "this Act", meaning Pub. L. 101–336, July 26, 1990, 104 Stat. 327, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of this title and Tables.
 
 #### Amendments
 
@@ -60,5 +60,5 @@ This chapter, referred to in subsecs. (a) and (e)(3), was in the original “thi
 
 Amendment by Pub. L. 110–325 effective Jan. 1, 2009, see section 8 of Pub. L. 110–325, set out as a note under section 705 of Title 29, Labor.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “transmissibility”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "transmissibility".</i>
 

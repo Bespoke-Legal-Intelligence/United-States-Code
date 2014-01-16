@@ -12,9 +12,9 @@ For purposes of subchapter II of chapter 5 of title 5—
 
 #### Amendments
 
-<b>2008</b>—Par. (1). Pub. L. 110–289 substituted “the Agency” for “the Office”.
+<b>2008</b>—Par. (1). Pub. L. 110–289 substituted "the Agency" for "the Office".
 
 #### References in Text
 
-This chapter, referred to in par. (2), was in the original “this title”, meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
+This chapter, referred to in par. (2), was in the original "this title", meaning title XIII of Pub. L. 102–550, Oct. 28, 1992, 106 Stat. 3941, which is classified principally to this chapter. For complete classification of title XIII to the Code, see Short Title note set out under section 4501 of this title and Tables.
 

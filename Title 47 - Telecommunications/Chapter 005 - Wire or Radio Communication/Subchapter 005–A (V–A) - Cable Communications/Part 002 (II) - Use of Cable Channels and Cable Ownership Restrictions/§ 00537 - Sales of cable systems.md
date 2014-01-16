@@ -6,9 +6,9 @@ A franchising authority shall, if the franchise requires franchising authority a
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–104 redesignated subsec. (e) as entire section, substituted “A franchising authority” for “
+<b>1996</b>—Pub. L. 104–104 redesignated subsec. (e) as entire section, substituted "A franchising authority" for "
 
-Limitation on Duration of Franchising Authority Power To Disapprove Transfers.—In the case of any sale or transfer of ownership of any cable system after the 36-month period following acquisition of such system, a franchising authority”, and struck out subsecs. (a) to (d) which related to three-year holding period requirement, treatment of multiple transfers, exceptions to holding requirement, and waiver authority.
+Limitation on Duration of Franchising Authority Power To Disapprove Transfers.—In the case of any sale or transfer of ownership of any cable system after the 36-month period following acquisition of such system, a franchising authority", and struck out subsecs. (a) to (d) which related to three-year holding period requirement, treatment of multiple transfers, exceptions to holding requirement, and waiver authority.
 
 #### Effective Date
 

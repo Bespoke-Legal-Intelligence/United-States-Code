@@ -4,7 +4,7 @@ In this division:
 
 #### (1) Eligible participant
 
-&emsp;The term “eligible participant” means—
+&emsp;The term "eligible participant" means—
 
 &emsp;&emsp;(A) an individual with substantial, demonstrable career experience, including a highly qualified paraprofessional; or
 
@@ -16,11 +16,11 @@ In this division:
 
 #### (2) High-need local educational agency
 
-&emsp;The term “high-need local educational agency” has the meaning given the term in section 6602 of this title.
+&emsp;The term "high-need local educational agency" has the meaning given the term in section 6602 of this title.
 
 #### (3) High-need school
 
-&emsp;The term “high-need school” means a school that—
+&emsp;The term "high-need school" means a school that—
 
 &emsp;&emsp;(A) is located in an area in which the percentage of students from families with incomes below the poverty line is 30 percent or more; or
 

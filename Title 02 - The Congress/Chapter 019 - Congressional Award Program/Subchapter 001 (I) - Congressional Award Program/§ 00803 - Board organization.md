@@ -10,7 +10,7 @@
 
 &emsp;(C) Six members appointed by the Speaker of the House of Representatives, 1 of whom shall be a local Congressional Award program volunteer.
 
-&emsp;(D) Six members appointed by the minority leader of the House of Representatives, 1 of whom shall be a recipient of the Congressional Award.
+&emsp;(D) Six members appointed by the minority leader of the House of Representatives, 1 ofwhom shall be a recipient of the Congressional Award.
 
 &emsp;(E) The Director of the Board, who shall serve as a nonvoting member.
 
@@ -74,7 +74,7 @@ The Board shall establish such bylaws and other regulations as may be appropriat
 
 #### (j) Removal from Board
 
-Any member of the Board who fails to attend 4 consecutive Board meetings scheduled pursuant to the bylaws of the Board and for which proper notice has been given under such bylaws, or to send a designee of such member (approved in advance by the Board under provisions of its bylaws), is, by operation of this subsection, removed, for cause, from the Board as of the date of the last meeting from which they are absent. The Chairman of the Board shall take such steps as are necessary to inform members who have 3 absences of this subsection. The Chairman shall notify the House and the Senate, including the appropriate committees of each body, whenever there is a vacancy created by the operation of this subsection.
+Any member of the Board who fails to attend 4 consecutive Board meetings scheduled pursuant to the bylaws of the Board and for which proper notice has been given under such bylaws, or to send a designee of such member (approved in advance by the Board under provisions of its bylaws), is, by operation of this subsection, removed, for cause, from the Board as of the date of the last meeting from which they are absent.The Chairman of the Board shall take such steps as are necessary to inform members who have 3 absences of this subsection. The Chairman shall notify the House and the Senate, including the appropriate committees of each body, whenever there is a vacancy created by the operation of this subsection.
 
 (Pub. L. 96–114, title I, §103, formerly §4, Nov. 16, 1979, 93 Stat. 852; Pub. L. 98–33, §1, May 25, 1983, 97 Stat. 194; Pub. L. 99–161, §§2, 4(d), (e), Nov. 25, 1985, 99 Stat. 934, 935; Pub. L. 100–674, §2(b), Nov. 17, 1988, 102 Stat. 3996; Pub. L. 101–525, §§4–6, Nov. 6, 1990, 104 Stat. 2305, 2306; Pub. L. 106–63, §1(b), Oct. 1, 1999, 113 Stat. 510; renumbered title I, §103, and amended Pub. L. 106–533, §1(b)(1), (2), (5), Nov. 22, 2000, 114 Stat. 2553, 2554; Pub. L. 109–143, §1(c)(1), Dec. 22, 2005, 119 Stat. 2659; Pub. L. 111–200, §2(b), July 7, 2010, 124 Stat. 1368.)
 

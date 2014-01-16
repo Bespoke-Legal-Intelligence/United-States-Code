@@ -2,7 +2,7 @@
 
 #### (a) Excess expenses
 
-(1) It shall be unlawful for an eligible candidate of a political party for President and Vice President in a presidential election or any of his authorized committees knowingly and willfully to incur qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party are entitled under section 9004 with respect to such election. It shall be unlawful for the national committee of a major party or minor party knowingly andwillfully to incur expenses with respect to a presidential nominating convention in excess of the expenditure limitation applicable with respect to such committee under section 9008(d), unless the incurring of such expenses is authorized by the Commission under section 9008(d)(3).
+(1) It shall be unlawful for an eligible candidate of a political party for President and Vice President in a presidential election or any of his authorized committees knowingly and willfully to incur qualified campaign expenses in excess of the aggregate payments to which the eligible candidates of a major party are entitled under section 9004 with respect to such election. It shall be unlawful for the national committee of a major party or minor party knowingly and willfully to incur expenses with respect to a presidential nominating convention in excess of the expenditure limitation applicable with respect to such committee under section 9008(d), unless the incurring of such expenses is authorized by the Commission under section 9008(d)(3).
 
 (2) Any person who violates paragraph (1) shall be fined not more than $5,000, or imprisoned not more than one year or both. In the case of a violation by an authorized committee, any officer or member of such committee who knowingly and willfully consents to such violation shall be fined not more than $5,000, or imprisoned not more than one year, or both.
 
@@ -22,7 +22,7 @@
 
 &emsp;(B) to repay loans the proceeds of which were used, or otherwise to restore funds (other than contributions to defray qualified campaign expenses which were received and expended) which were used, to defray such qualified campaign expenses.
 
-(2) It shall be unlawful for the national committee of a major party or minor party which receives any payment under section 9008(b)(3) to use, or authorize the use of, such payment for any purpose other than a purpose authorized by section 9008(c).
+(2) It shall be unlawful for the national committee of a major party or minor party whichreceives any payment under section 9008(b)(3) to use, or authorize the use of, such payment for any purpose other than a purpose authorized by section 9008(c).
 
 (3) Any person who violates paragraph (1) shall be fined not more than $10,000, or imprisoned not more than five years, or both.
 
@@ -50,7 +50,7 @@
 
 (2) This subsection shall not apply to (A) expenditures by a broadcaster regulated by the Federal Communications Commission, or by a periodical publication, in reporting the news or in taking editorial positions, or (B) expenditures by any organization described in section 501(c) which is exempt from tax under section 501(a) in communicating to its members the views of that organization.
 
-(3) Any political committee which violates paragraph (1) shall be fined not more than $5,000,and any officer or member of such committee who knowingly and willfully consents to such violation and any other individual who knowingly and willfully violates paragraph (1) shall be fined not more than $5,000, or imprisoned not more than one year, or both.
+(3) Any political committee which violates paragraph (1) shall be fined not more than $5,000, and any officer or member of such committee who knowingly and willfully consents to such violation and any other individual who knowingly and willfully violates paragraph (1) shall be fined not more than $5,000, or imprisoned not more than one year, or both.
 
 #### (g) Unauthorized disclosure of information
 
@@ -66,21 +66,21 @@ For information regarding constitutionality of certain provisions of this sectio
 
 #### Amendments
 
-<b>1976</b>—Subsec. (b)(1). Pub. L. 94–283 substituted “9006(c)” for “9006(d)”.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–283 substituted "9006(c)" for "9006(d)".
 
-Subsec. (e)(3). Pub. L. 94–455 substituted “Secretary of the Treasury” for “Secretary”.
+Subsec. (e)(3). Pub. L. 94–455 substituted "Secretary of the Treasury" for "Secretary".
 
-<b>1974</b>—Subsec. (a). Pub. L. 93–443, §406(b)(2), (3), struck out “campaign” before “expenses” in heading and inserted in par. (1) provision making it unlawful for a national committee of a major or minor party knowingly and willfully to incur expenses with respect to a presidential nominating convention in excess of applicable expenditure limitation unless authorized by the Commission.
+<b>1974</b>—Subsec. (a). Pub. L. 93–443, §406(b)(2), (3), struck out "campaign" before "expenses" in heading and inserted in par. (1) provision making it unlawful for a national committee of a major or minor party knowingly and willfully to incur expenses with respect to a presidential nominating convention in excess of applicable expenditure limitation unless authorized by the Commission.
 
 Subsec. (c)(2), (3). Pub. L. 93–443, §406(b)(4), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (d)(1). Pub. L. 93–443, §404(c)(22), substituted “Commission” for “Comptroller General” wherever appearing and “it” for “him”.
+Subsec. (d)(1). Pub. L. 93–443, §404(c)(22), substituted "Commission" for "Comptroller General" wherever appearing and "it" for "him".
 
 Subsec. (e)(1). Pub. L. 93–443, §406(b)(6), inserted provision making it unlawful for a national committee of a major or minor party knowingly and willfully to give or accept any kickback or any illegal payment in connection with any expense of such committee with respect to a presidential nominating convention.
 
 Subsec. (e)(3). Pub. L. 93–443, §406(b)(6), inserted requirement of payment, by any person accepting any kickback or illegal payment in connection with any expense incurred by the national committee of a major or minor party with respect to a presidential nominating convention, to the Secretary for deposit in the general fund of the Treasury.
 
-<b>1973</b>—Subsec. (b)(1). Pub. L. 93–53 substituted section “9006(d)” for “9006(c)”.
+<b>1973</b>—Subsec. (b)(1). Pub. L. 93–53 substituted section "9006(d)" for "9006(c)".
 
 #### Effective Date of 1974 Amendment
 

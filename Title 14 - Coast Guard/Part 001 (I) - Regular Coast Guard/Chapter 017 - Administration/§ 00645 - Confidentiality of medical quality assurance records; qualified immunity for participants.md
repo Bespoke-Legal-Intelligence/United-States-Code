@@ -2,11 +2,11 @@
 
 (a) In this section—
 
-&emsp;(1) “medical quality assurance program” means any activity carried out by or for the Coast Guard to assess the quality of medical care, including activities conducted by individuals, military medical or dental treatment facility committees, or other review bodies responsible for quality assurance, credentials, infection control, patient care assessment (including treatment procedures, blood, drugs, and therapeutics) medical records, health resources management review and identification and prevention of medical or dental incidents and risks.
+&emsp;(1) "medical quality assurance program" means any activity carried out by or for the Coast Guard to assess the quality of medical care, including activities conducted by individuals, military medical or dental treatment facility committees, or other review bodies responsible for quality assurance, credentials, infection control, patient care assessment (including treatment procedures, blood, drugs, and therapeutics) medical records, health resources management review and identification and prevention of medical or dental incidents and risks.
 
-&emsp;(2) “medical quality assurance record” means the proceedings, records, minutes, and reports that emanate from quality assurance program activities described in paragraph (1) and are produced or compiled by the Coast Guard as part of a medical quality assurance program.
+&emsp;(2) "medical quality assurance record" means the proceedings, records, minutes, and reports that emanate from quality assurance program activities described in paragraph (1) and are produced or compiled by the Coast Guard as part of a medical quality assurance program.
 
-&emsp;(3) “health care provider” means any military or civilian health care professional who, under regulations prescribed by the Secretary, is granted clinical practice privileges to provide health care services in a military medical or dental treatment facility or who is licensed or certified to perform health care services by a governmental board or agency or professional health care society or organization.
+&emsp;(3) "health care provider" means any military or civilian health care professional who, under regulations prescribed by the Secretary, is granted clinical practice privileges to provide health care services in a military medical or dental treatment facility or who is licensed or certified to perform health care services by a governmental board or agency or professional health care society or organization.
 
 (b) Medical quality assurance records created by or for the Coast Guard as part of a medical quality assurance program are confidential and privileged. The records may not be disclosed to any person or entity except as provided in subsection (d).
 
@@ -56,7 +56,7 @@ A prior section 645, acts Aug. 4, 1949, ch. 393, §1, 63 Stat. 547; Sept. 3, 195
 
 #### Amendments
 
-<b>2004</b>—Subsec. (h)(2). Pub. L. 108–271 substituted “Government Accountability Office” for “General Accounting Office”.
+<b>2004</b>—Subsec. (h)(2). Pub. L. 108–271 substituted "Government Accountability Office" for "General Accounting Office".
 
 <b>1996</b>—Subsecs. (d) to (h). Pub. L. 104–324 redesignated subsec. (d), relating to disclosure by person with access to a record or testimony, as (e) and redesignated former subsecs. (e) to (h) as (f) to (i), respectively.
 

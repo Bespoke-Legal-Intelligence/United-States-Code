@@ -58,23 +58,23 @@ Nonapplicability of Certain Limitations.—Notwithstanding section 3282, in the 
 
 #### Amendments
 
-<b>2009</b>—Subsec. (a). Pub. L. 111–122, §3(a)(1), struck out “, in a circumstance described in subsection (d)” before “and with the specific” in introductory provisions and “or attempts to do so,” before “shall be punished” in concluding provisions.
+<b>2009</b>—Subsec. (a). Pub. L. 111–122, §3(a)(1), struck out ", in a circumstance described in subsection (d)" before "and with the specific" in introductory provisions and "or attempts to do so," before "shall be punished" in concluding provisions.
 
-Subsec. (c). Pub. L. 111–122, §3(a)(2), struck out “in a circumstance described in subsection (d)” before “directly”.
+Subsec. (c). Pub. L. 111–122, §3(a)(2), struck out "in a circumstance described in subsection (d)" before "directly".
 
 Subsecs. (d) to (f). Pub. L. 111–122, §3(a)(3), (4), added subsecs. (d) to (f) and struck out former subsecs. (d) and (e) which related to the required circumstance for offenses referred to in subsecs. (a) and (c) and nonapplicability of certain limitations, respectively.
 
-<b>2007</b>—Subsec. (d). Pub. L. 110–151 added subsec. (d) and struck out former subsec. (d). Text of former subsec. (d) read as follows: “The circumstance referred to in subsections (a) and (c) is that—
+<b>2007</b>—Subsec. (d). Pub. L. 110–151 added subsec. (d) and struck out former subsec. (d). Text of former subsec. (d) read as follows: "The circumstance referred to in subsections (a) and (c) is that—
 
-&emsp;“(1) the offense is committed within the United States; or
+&emsp;"(1) the offense is committed within the United States; or
 
-&emsp;“(2) the alleged offender is a national of the United States (as defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101)).”
+&emsp;"(2) the alleged offender is a national of the United States (as defined in section 101 of the Immigration and Nationality Act (8 U.S.C. 1101))."
 
-<b>2002</b>—Subsec. (b)(1). Pub. L. 107–273, §4002(b)(7), substituted “subsection (a)(1),” for “subsection (a)(1),,”.
+<b>2002</b>—Subsec. (b)(1). Pub. L. 107–273, §4002(b)(7), substituted "subsection (a)(1)," for "subsection (a)(1),,".
 
 Pub. L. 107–273, §4002(a)(4), made technical correction to directory language of Pub. L. 103–322. See 1994 Amendment note below.
 
-<b>1994</b>—Subsec. (b)(1). Pub. L. 103–322, as amended by Pub. L. 107–273, §4002(a)(4), substituted “, where death results, by death or imprisonment for life and a fine of not more than $1,000,000, or both;” for “a fine of not more than $1,000,000 and imprisonment for life,”.
+<b>1994</b>—Subsec. (b)(1). Pub. L. 103–322, as amended by Pub. L. 107–273, §4002(a)(4), substituted ", where death results, by death or imprisonment for life and a fine of not more than $1,000,000, or both;" for "a fine of not more than $1,000,000 and imprisonment for life,".
 
 #### Effective Date of 2002 Amendment
 
@@ -82,5 +82,5 @@ Pub. L. 107–273, div. B, title IV, §4002(a)(4), Nov. 2, 2002, 116 Stat. 1806,
 
 #### Short Title
 
-Pub. L. 100–606, §1, Nov. 4, 1988, 102 Stat. 3045, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Genocide Convention Implementation Act of 1987 (the Proxmire Act)’.”
+Pub. L. 100–606, §1, Nov. 4, 1988, 102 Stat. 3045, provided that: "This Act \[enacting this chapter\] may be cited as the 'Genocide Convention Implementation Act of 1987 (the Proxmire Act)'."
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;In this section, the term “eligible offender” means an individual who—
+&emsp;In this section, the term "eligible offender" means an individual who—
 
 &emsp;&emsp;(A) is 18 years of age or older;
 
@@ -68,13 +68,13 @@ The Secretary of Labor may make grants to nonprofit organizations for the purpos
 
 &emsp;&emsp;&emsp;(ii) a description of the mentoring, job training and job placement, and other services to be provided;
 
-&emsp;&emsp;&emsp;(iii) a description of partnerships that have been established with the criminal justice system (including coordination with demonstration projects carried out under section 3797w of this title, as amended by this Act, where applicable), the local workforce investment boards established under section 2832 of title 29),<sup>1</sup> and housing authorities that will be used to assist in carrying out grant activities under this section; and
+&emsp;&emsp;&emsp;(iii) a description of partnerships that have been established with the criminal justice system (including coordination with demonstration projects carried out under section 3797w of this title, as amended by this Act, where applicable), the local workforce investment boards established under section 2832 of title 29),<sup>1</sup> and housingauthorities that will be used to assist in carrying out grant activities under this section; and
 
 &emsp;&emsp;&emsp;(iv) a description of how other Federal, State, local, or private funding will be leveraged to provide support services that are not directly funded under this section, such as mental health and substance abuse treatment and housing.
 
 #### (2) Eligible area
 
-&emsp;In this subsection, the term “eligible area” means an area that—
+&emsp;In this subsection, the term "eligible area" means an area that—
 
 &emsp;&emsp;(A) is located within an urbanized area or urban cluster, as determined by the Bureau of the Census in the most recently available census;
 
@@ -106,7 +106,7 @@ Each nonprofit organization receiving a grant under this section shall maintain 
 
 #### (g) Technical assistance
 
-The Secretary of Labor may reserve not more than 4 percent of the amounts appropriated tocarry out this section to provide technical assistance and for management information systems to assist grantees under this section.
+The Secretary of Labor may reserve not more than 4 percent of the amounts appropriated to carry out this section to provide technical assistance and for management information systems to assist grantees under this section.
 
 #### (h) Authorization of appropriations
 

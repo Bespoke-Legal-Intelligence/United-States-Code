@@ -4,15 +4,15 @@ Notwithstanding section 2571 of this title, for purposes of this subpart—
 
 #### (1) Approval procedure
 
-&emsp;The term “approval procedure” means any registration, notification, or other mandatory administrative procedure for granting permission for a good or service to be produced, marketed, or used for a stated purpose or under stated conditions.
+&emsp;The term "approval procedure" means any registration, notification, or other mandatory administrative procedure for granting permission for a good or service to be produced, marketed, or used for a stated purpose or under stated conditions.
 
 #### (2) Conformity assessment procedure
 
-&emsp;The term “conformity assessment procedure” means any procedure used, directly or indirectly, to determine that a technical regulation or standard is fulfilled, including sampling, testing, inspection, evaluation, verification, monitoring, auditing, assurance of conformity, accreditation, registration, or approval used for such a purpose, but does not mean an approval procedure.
+&emsp;The term "conformity assessment procedure" means any procedure used, directly or indirectly, to determine that a technical regulation or standard is fulfilled, including sampling, testing, inspection, evaluation, verification, monitoring, auditing, assurance of conformity, accreditation, registration, or approval used for such a purpose, but does not mean an approval procedure.
 
 #### (3) Objective
 
-&emsp;The term “objective” includes—
+&emsp;The term "objective" includes—
 
 &emsp;&emsp;(A) safety,
 
@@ -24,11 +24,11 @@ Notwithstanding section 2571 of this title, for purposes of this subpart—
 
 #### (4) Service
 
-&emsp;The term “service” means a land transportation service or a telecommunications service.
+&emsp;The term "service" means a land transportation service or a telecommunications service.
 
 #### (5) Standard
 
-&emsp;The term “standard” means—
+&emsp;The term "standard" means—
 
 &emsp;&emsp;(A) characteristics for a good or a service,
 
@@ -48,11 +48,11 @@ Notwithstanding section 2571 of this title, for purposes of this subpart—
 
 #### (6) Standards-related measure
 
-&emsp;The term “standards-related measure” means a standard, technical regulation, or conformity assessment procedure.
+&emsp;The term "standards-related measure" means a standard, technical regulation, or conformity assessment procedure.
 
 #### (7) Technical regulation
 
-&emsp;The term “technical regulation” means—
+&emsp;The term "technical regulation" means—
 
 &emsp;&emsp;(A) characteristics or their related processes and production methods for a good,
 
@@ -68,7 +68,7 @@ Notwithstanding section 2571 of this title, for purposes of this subpart—
 
 #### (8) Telecommunications service
 
-&emsp;The term “telecommunications service” means a service provided by means of the transmission and reception of signals by any electromagnetic means, but does not mean the cable, broadcast, or other electromagnetic distribution of radio or television programming to the public generally.
+&emsp;The term "telecommunications service" means a service provided by means of the transmission and reception of signals by any electromagnetic means, but does not mean the cable, broadcast, or other electromagnetic distribution of radio or television programming to the public generally.
 
 (Pub. L. 96–39, title IV, §473, as added Pub. L. 103–182, title III, §351(a), Dec. 8, 1993, 107 Stat. 2120.)
 

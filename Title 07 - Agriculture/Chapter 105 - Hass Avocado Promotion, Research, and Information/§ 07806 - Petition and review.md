@@ -12,7 +12,7 @@
 
 #### (2) Hearing
 
-&emsp;The petitioner shall be given the opportunity for a hearing on a petition filed under paragraph (1), in accordance with regulations issued by the Secretary. Any such hearing shall be conducted in accordance with section 7808(b)(2) of this title and be held within the United States judicial district in which theresidence or principal place of business of the person is located.
+&emsp;The petitioner shall be given the opportunity for a hearing on a petition filed under paragraph (1), in accordance with regulations issued by the Secretary. Any such hearing shall be conducted in accordance with section 7808(b)(2) of this title and be held within the United States judicial district in which the residence or principal place of business of the person is located.
 
 #### (3) Ruling
 

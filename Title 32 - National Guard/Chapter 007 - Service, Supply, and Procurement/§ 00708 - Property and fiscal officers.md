@@ -12,7 +12,7 @@
 
 (d) The Secretaries shall prescribe a maximum grade, commensurate with the functions and responsibilities of the office, but not above colonel, for the property and fiscal officer of the United States for the National Guard of each State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands.
 
-(e) The Secretary of the Army and the Secretary of the Air Force shall prescribe jointregulations necessary to carry out subsections (a)–(d).
+(e) The Secretary of the Army and the Secretary of the Air Force shall prescribe joint regulations necessary to carry out subsections (a)–(d).
 
 (f) A property and fiscal officer may intrust money to an officer of the National Guard to make disbursements as his agent. Both the officer to whom money is intrusted, and the property and disbursing officer intrusting the money to him, are pecuniarily responsible for that money to the United States. The agent officer is subject, for misconduct as an agent, to the liabilities and penalties prescribed by law in like cases for the property and fiscal officer for whom he is acting.
 
@@ -68,33 +68,33 @@ June 3, 1924, ch. 244, §5, 43 Stat. 365; July 6, 1954, ch. 462, 68 Stat. 451.
 
 32:50.
 
-In subsection (b)(1), the words “the duties of that assignment” are substituted for the words “his duties as property and fiscal officer”. The words “be required to” are omitted as surplusage.
+In subsection (b)(1), the words "the duties of that assignment" are substituted for the words "his duties as property and fiscal officer". The words "be required to" are omitted as surplusage.
 
-In subsection (b)(2), the words “of the National Guard for which he is property and fiscal officer” are substituted for the words “of the National Guard or Air National Guard of the State, Territory, or District of Columbia”.
+In subsection (b)(2), the words "of the National Guard for which he is property and fiscal officer" are substituted for the words "of the National Guard or Air National Guard of the State, Territory, or District of Columbia".
 
 In subsection (c), 32:49 (5th sentence) is omitted, since the officer concerned would be entitled, under section 201 of the Career Compensation Act of 1949 (37 U.S.C. 232), to the pay and allowances of the grade in which he is serving.
 
-In subsection (e), the words “The Secretaries shall prescribe” are substituted for the words “which rules and regulations shall establish”. The word “duties” is omitted as surplusage.
+In subsection (e), the words "The Secretaries shall prescribe" are substituted for the words "which rules and regulations shall establish". The word "duties" is omitted as surplusage.
 
-In subsection (f), the words “rules and” and “the provisions of” are omitted as surplusage.
+In subsection (f), the words "rules and" and "the provisions of" are omitted as surplusage.
 
-In subsection (g), the words “Under such regulations as may be prescribed by the Secretary of the Army” are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The words “an officer” are substituted for the words “other officers”, since, under revised subsection (a), the property and fiscal officer is not required to be an officer of the National Guard. The words “accountable for public moneys” and “as agent” are omitted as surplusage.
+In subsection (g), the words "Under such regulations as may be prescribed by the Secretary of the Army" are omitted, since the Secretary has inherent authority to issue regulations appropriate to exercising his statutory functions. The words "an officer" are substituted for the words "other officers", since, under revised subsection (a), the property and fiscal officer is not required to be an officer of the National Guard. The words "accountable for public moneys" and "as agent" are omitted as surplusage.
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163, §1057(b)(4), substituted “State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands” for “State or Territory and Puerto Rico”.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163, §1057(b)(4), substituted "State, the Commonwealth of Puerto Rico, Guam, and the Virgin Islands" for "State or Territory and Puerto Rico".
 
-Subsec. (d). Pub. L. 109–163, §1057(b)(2), substituted “State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands” for “State or Territory, Puerto Rico, and the District of Columbia”.
+Subsec. (d). Pub. L. 109–163, §1057(b)(2), substituted "State, the Commonwealth of Puerto Rico, the District of Columbia, Guam, and the Virgin Islands" for "State or Territory, Puerto Rico, and the District of Columbia".
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted “The Governor of each State or Territory and Puerto Rico” for “The governor of each State and Territory, Puerto Rico, and the Canal Zone”.
+<b>1989</b>—Subsec. (a). Pub. L. 101–189 substituted "The Governor of each State or Territory and Puerto Rico" for "The governor of each State and Territory, Puerto Rico, and the Canal Zone".
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–456 struck out “the Canal Zone,” after “Puerto Rico,”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–456 struck out "the Canal Zone," after "Puerto Rico,".
 
 <b>1980</b>—Subsec. (b). Pub. L. 96–513 redesignated pars. (2) and (3) as (1) and (2), respectively.
 
 <b>1977</b>—Subsec. (d). Pub. L. 95–79, §804(b)(1), (2), redesignated subsec. (e) as (d). Former subsec. (d), which authorized inspections at least once a year by Inspectors General of the departments concerned, was struck out.
 
-Subsec. (e). Pub. L. 95–79, §804(b)(2), (3), redesignated subsec. (f) as (e) and substituted “(d)” for “(e)”. Former subsec. (e) redesignated (d).
+Subsec. (e). Pub. L. 95–79, §804(b)(2), (3), redesignated subsec. (f) as (e) and substituted "(d)" for "(e)". Former subsec. (e) redesignated (d).
 
 Subsecs. (f), (g). Pub. L. 95–79, §804(b)(2), redesignated subsecs. (f) and (g) as (e) and (f), respectively.
 

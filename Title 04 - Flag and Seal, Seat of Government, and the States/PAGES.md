@@ -1,6 +1,6 @@
 # Printed pages - Title 04 - Flag and Seal, Seat of Government, and the States
 
-GPO's 2012 edition (laws in effect as of 2013-01-15), from its printed page marks. The exact position of
+GPO's 2013 edition (laws in effect as of 2014-01-16), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title4.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -37,15 +37,15 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00109 - Same; exception of Indians](Chapter%20004%20-%20The%20States/%C2%A7%2000109%20-%20Same%3B%20exception%20of%20Indians.md) | 12 |
 | [&sect; 00110 - Same; definitions](Chapter%20004%20-%20The%20States/%C2%A7%2000110%20-%20Same%3B%20definitions.md) | 12–13 |
 | [&sect; 00111 - Same; taxation affecting Federal employees; income tax](Chapter%20004%20-%20The%20States/%C2%A7%2000111%20-%20Same%3B%20taxation%20affecting%20Federal%20employees%3B%20income%20tax.md) | 13 |
-| [&sect; 00112 - Compacts between States for cooperation in prevention of crime; consent of Congress](Chapter%20004%20-%20The%20States/%C2%A7%2000112%20-%20Compacts%20between%20States%20for%20cooperation%20in%20prevention%20of%20crime%3B%20consent%20of%20Congress.md) | 13 |
-| [&sect; 00113 - Residence of Members of Congress for State income tax laws](Chapter%20004%20-%20The%20States/%C2%A7%2000113%20-%20Residence%20of%20Members%20of%20Congress%20for%20State%20income%20tax%20laws.md) | 13–14 |
+| [&sect; 00112 - Compacts between States for cooperation in prevention of crime; consent of Congress](Chapter%20004%20-%20The%20States/%C2%A7%2000112%20-%20Compacts%20between%20States%20for%20cooperation%20in%20prevention%20of%20crime%3B%20consent%20of%20Congress.md) | 13–14 |
+| [&sect; 00113 - Residence of Members of Congress for State income tax laws](Chapter%20004%20-%20The%20States/%C2%A7%2000113%20-%20Residence%20of%20Members%20of%20Congress%20for%20State%20income%20tax%20laws.md) | 14 |
 | [&sect; 00114 - Limitation on State income taxation of certain pension income](Chapter%20004%20-%20The%20States/%C2%A7%2000114%20-%20Limitation%20on%20State%20income%20taxation%20of%20certain%20pension%20income.md) | 14–15 |
 | [&sect; 00115 - Limitation on State authority to tax compensation paid to individuals performing services at Fort Campbell, Kentucky](Chapter%20004%20-%20The%20States/%C2%A7%2000115%20-%20Limitation%20on%20State%20authority%20to%20tax%20compensation%20paid%20to%20individuals%20performing%20services%20at%20Fort%20Campbell%2C%20Kentucky.md) | 15 |
 | [&sect; 00116 - Rules for determining State and local government treatment of charges related to mobile telecommunications services](Chapter%20004%20-%20The%20States/%C2%A7%2000116%20-%20Rules%20for%20determining%20State%20and%20local%20government%20treatment%20of%20charges%20related%20to%20mobile%20telecommunications%20services.md) | 15–16 |
 | [&sect; 00117 - Sourcing rules](Chapter%20004%20-%20The%20States/%C2%A7%2000117%20-%20Sourcing%20rules.md) | 16 |
 | [&sect; 00118 - Limitations](Chapter%20004%20-%20The%20States/%C2%A7%2000118%20-%20Limitations.md) | 16 |
-| [&sect; 00119 - Electronic databases for nationwide standard numeric jurisdictional codes](Chapter%20004%20-%20The%20States/%C2%A7%2000119%20-%20Electronic%20databases%20for%20nationwide%20standard%20numeric%20jurisdictional%20codes.md) | 16 |
-| [&sect; 00120 - Procedure if no electronic database provided](Chapter%20004%20-%20The%20States/%C2%A7%2000120%20-%20Procedure%20if%20no%20electronic%20database%20provided.md) | 16–17 |
+| [&sect; 00119 - Electronic databases for nationwide standard numeric jurisdictional codes](Chapter%20004%20-%20The%20States/%C2%A7%2000119%20-%20Electronic%20databases%20for%20nationwide%20standard%20numeric%20jurisdictional%20codes.md) | 16–17 |
+| [&sect; 00120 - Procedure if no electronic database provided](Chapter%20004%20-%20The%20States/%C2%A7%2000120%20-%20Procedure%20if%20no%20electronic%20database%20provided.md) | 17 |
 | [&sect; 00121 - Correction of erroneous data for place of primary use](Chapter%20004%20-%20The%20States/%C2%A7%2000121%20-%20Correction%20of%20erroneous%20data%20for%20place%20of%20primary%20use.md) | 17 |
 | [&sect; 00122 - Determination of place of primary use](Chapter%20004%20-%20The%20States/%C2%A7%2000122%20-%20Determination%20of%20place%20of%20primary%20use.md) | 17–18 |
 | [&sect; 00123 - Scope; special rules](Chapter%20004%20-%20The%20States/%C2%A7%2000123%20-%20Scope%3B%20special%20rules.md) | 18 |

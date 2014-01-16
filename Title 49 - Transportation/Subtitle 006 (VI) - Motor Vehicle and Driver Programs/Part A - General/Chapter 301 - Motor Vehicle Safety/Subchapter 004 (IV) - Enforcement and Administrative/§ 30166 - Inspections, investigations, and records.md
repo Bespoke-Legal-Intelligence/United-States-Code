@@ -2,7 +2,7 @@
 
 (a)
 
-Definition.—In this section, “motor vehicle accident” means an occurrence associated with the maintenance or operation of a motor vehicle or motor vehicle equipment resulting in personal injury, death, or property damage.
+Definition.—In this section, "motor vehicle accident" means an occurrence associated with the maintenance or operation of a motor vehicle or motor vehicle equipment resulting in personal injury, death, or property damage.
 
 (b)
 
@@ -36,7 +36,7 @@ Matters That Can Be Inspected and Impoundment.—In carrying out this chapter, a
 
 (d)
 
-Reasonable Compensation.—When a motor vehicle (except a vehicle subject to subchapter I of chapter 135 of this title) or motor vehicle equipment is inspected or temporarily impounded under subsection (c)(3) of this section, the Secretary of Transportation shall pay reasonable compensation to the owner of the vehicle if the inspection or impoundment results in denial of use, or reduction in value, of the vehicle.
+Reasonable Compensation.—When a motor vehicle (except a vehicle subject to subchapter I of chapter 135 of this title) or motorvehicle equipment is inspected or temporarily impounded under subsection (c)(3) of this section, the Secretary of Transportation shall pay reasonable compensation to the owner of the vehicle if the inspection or impoundment results in denial of use, or reduction in value, of the vehicle.
 
 (e)
 
@@ -194,7 +194,7 @@ In general.—The Secretary may promulgate rules requiring a senior official res
 
 &emsp;&emsp;&emsp;(i) contain any untrue statement of a material fact; or
 
-&emsp;&emsp;&emsp;(ii) omit to state a material fact necessary in order to make the statements made not misleading, in light of the circumstances under which such statements were made.
+&emsp;&emsp;&emsp;(ii) omit to state a material fact necessary in order to make the statementsmade not misleading, in light of the circumstances under which such statements were made.
 
 &emsp;(2)
 
@@ -306,33 +306,33 @@ Sept. 9, 1966, Pub. L. 89–563, §107 (related to inspecting and testing), 80 S
 
 15:1401(a)(1) (2d sentence).
 
-In this section, the words “regulation prescribed or order issued under this chapter” are substituted for “rules, regulations, or orders issued thereunder” and “regulations and orders promulgated thereunder” for consistency and because “rule” and “regulation” are synonymous. The text of 15:1397(a)(1)(B) and (E) (as 1397(a)(1)(B), (E) relates to 15:1401) is omitted as surplus.
+In this section, the words "regulation prescribed or order issued under this chapter" are substituted for "rules, regulations, or orders issued thereunder" and "regulations and orders promulgated thereunder" for consistency and because "rule" and "regulation" are synonymous. The text of 15:1397(a)(1)(B) and (E) (as 1397(a)(1)(B), (E) relates to 15:1401) is omitted as surplus.
 
-In subsection (a), the words “As used” are omitted as surplus. The word “use” is omitted as being included in “operation”.
+In subsection (a), the words "As used" are omitted as surplus. The word "use" is omitted as being included in "operation".
 
-In subsection (b)(1)(A), the words “this chapter” are substituted for “this subchapter” because of the restatement.
+In subsection (b)(1)(A), the words "this chapter" are substituted for "this subchapter" because of the restatement.
 
-In subsection (b)(1)(B), the words “the facts, circumstances, conditions, and causes of” are omitted as surplus. The words “designed to carry out” are substituted for “which is for the purposes of carrying out” to eliminate unnecessary words.
+In subsection (b)(1)(B), the words "the facts, circumstances, conditions, and causes of" are omitted as surplus. The words "designed to carry out" are substituted for "which is for the purposes of carrying out" to eliminate unnecessary words.
 
-In subsection (b)(2), the words “making”, “appropriate”, and “consistent with the purposes of this subsection” are omitted as surplus.
+In subsection (b)(2), the words "making", "appropriate", and "consistent with the purposes of this subsection" are omitted as surplus.
 
-In subsection (c), before clause (1), the words “In carrying out this chapter” are substituted for “For purposes of carrying out paragraph (1)” in 15:1401(a)(2) and “In order to carry out the provisions of this subchapter” in 15:1401(c)(2) for clarity and consistency in this chapter. The words “an officer or employee designated by the Secretary of Transportation” are substituted for “officers or employees duly designated by the Secretary” in 15:1401(a)(2), “an officer or employee duly designated by the Secretary” in 15:1401(b), and “his duly authorized agent” in 15:1401(c)(2) for consistency. In clause (1), the words “may inspect and copy” are substituted for “shall . . . have access to, and for the purposes of examination the right to copy” in 15:1401(c)(2) to eliminate unnecessary words. The words “of any person having materials or information . . . any function of the Secretary under” are omitted as surplus. In clause (2), the word “may” is substituted for “permit such officer or employee to” in 15:1401(b) because of the restatement. The words “appropriate” and “relevant” are omitted as surplus. In clause (3)(A)–(C), the words “inspect with reasonable promptness” are substituted for 15:1401(a)(2) (last sentence) to eliminate unnecessary words and for consistency. In clause (3)(A), the word “premises” is substituted for “factory, warehouse, or establishment” for consistency. In clause (3)(D), the words “not more than” are substituted for “a period not to exceed” for consistency.
+In subsection (c), before clause (1), the words "In carrying out this chapter" are substituted for "For purposes of carrying out paragraph (1)" in 15:1401(a)(2) and "In order to carry out the provisions of this subchapter" in 15:1401(c)(2) for clarity and consistency in this chapter. The words "an officer or employee designated by the Secretary of Transportation" are substituted for "officers or employees duly designated by the Secretary" in 15:1401(a)(2), "an officer or employee duly designated by the Secretary" in 15:1401(b), and "his duly authorized agent" in 15:1401(c)(2) for consistency. In clause (1), the words "may inspect and copy" are substituted for "shall . . . have access to, and for the purposes of examination the right to copy" in 15:1401(c)(2) to eliminate unnecessary words. The words "of any person having materials or information . . . any function of the Secretary under" are omitted as surplus. In clause (2), the word "may" is substituted for "permit such officer or employee to" in 15:1401(b) because of the restatement. The words "appropriate" and "relevant" are omitted as surplus. In clause (3)(A)–(C), the words "inspect with reasonable promptness" are substituted for 15:1401(a)(2) (last sentence) to eliminate unnecessary words and for consistency. In clause (3)(A), the word "premises" is substituted for "factory, warehouse, or establishment" for consistency. In clause (3)(D), the words "not more than" are substituted for "a period not to exceed" for consistency.
 
-In subsection (d), the words “for the purpose of inspection” and “the authority of” are omitted as surplus. The words “is inspected or temporarily impounded under subsection (c)(3) of this section” are substituted for “Whenever, under the authority of paragraph (2)(B), the Secretary inspects or temporarily impounds for the purpose of inspection” for clarity and to correct the cross-reference in the source provision. The words “to its owner” are omitted as surplus.
+In subsection (d), the words "for the purpose of inspection" and "the authority of" are omitted as surplus. The words "is inspected or temporarily impounded under subsection (c)(3) of this section" are substituted for "Whenever, under the authority of paragraph (2)(B), the Secretary inspects or temporarily impounds for the purpose of inspection" for clarity and to correct the cross-reference in the source provision. The words "to its owner" are omitted as surplus.
 
-In subsection (e), the words “establish and” are omitted as surplus. The words “This subsection does not impose” are substituted for “Nothing in this subsection shall be construed as imposing” for consistency and to eliminate unnecessary words.
+In subsection (e), the words "establish and" are omitted as surplus. The words "This subsection does not impose" are substituted for "Nothing in this subsection shall be construed as imposing" for consistency and to eliminate unnecessary words.
 
-In subsection (f), the words “notices, bulletins, and other” are omitted as surplus. The words “with a motor vehicle safety standard prescribed under this chapter” are added for clarity. The text of 15:1397(a)(1)(D) (related to 15:1418(a)(1)) is omitted as surplus.
+In subsection (f), the words "notices, bulletins, and other" are omitted as surplus. The words "with a motor vehicle safety standard prescribed under this chapter" are added for clarity. The text of15:1397(a)(1)(D) (related to 15:1418(a)(1)) is omitted as surplus.
 
-In subsection (g)(1), before clause (A), the words “or on the authorization of the Secretary, any officer or employee of the Department of Transportation” are omitted as surplus because of 49:322(b). In clause (A), the words “in writing”, “in such form as the Secretary may prescribe”, “relating to any function of the Secretary under this subchapter”, and “shall be filed with the Secretary within such reasonable period as the Secretary may prescribe” are omitted as surplus. In clause (B), the words “sit and act at such times and places” are omitted as being included in “conduct hearings”. The word “records” is substituted for “such books, papers, correspondence, memorandums, contracts, agreements, or other records” for consistency in the revised title and with other titles of the United States Code.
+In subsection (g)(1), before clause (A), the words "or on the authorization of the Secretary, any officer or employee of the Department of Transportation" are omitted as surplus because of 49:322(b). In clause (A), the words "in writing", "in such form as the Secretary may prescribe", "relating to any function of the Secretary under this subchapter", and "shall be filed with the Secretary within such reasonable period as the Secretary may prescribe" are omitted as surplus. In clause (B), the words "sit and act at such times and places" are omitted as being included in "conduct hearings". The word "records" is substituted for "such books, papers, correspondence, memorandums, contracts, agreements, or other records" for consistency in the revised title and with other titles of the United States Code.
 
-In subsection (h), the words “A civil action to enforce a subpena or order . . . may be brought in the United States district court for the judicial district in which the proceeding is conducted” are substituted for “any of the district courts of the United States within the jurisdiction of which an inquiry is carried on may, in the case of contumacy or refusal to obey a subpena or order of the Secretary or such officer or employee . . . issue an order requiring compliance therewith” for clarity and to eliminate unnecessary words. The words “an order of the court to comply with a subpena or order” are substituted for “such order of the court” for clarity.
+In subsection (h), the words "A civil action to enforce a subpena or order . . . may be brought in the United States district court for the judicial district in which the proceeding is conducted" are substituted for "any of the district courts of the United States within the jurisdiction of which an inquiry is carried on may, in the case of contumacy or refusal to obey a subpena or order of the Secretary or such officer or employee . . . issue an order requiring compliance therewith" for clarity and to eliminate unnecessary words. The words "an order of the court to comply with a subpena or order" are substituted for "such order of the court" for clarity.
 
-In subsection (i), the words “United States” are substituted for “Federal” for consistency. The words “to provide” are substituted for “from” because of the restatement. The words “his functions under” are omitted as surplus. The words “head of the” are added for consistency. The words “to the Department of Transportation . . . made by the Secretary” are omitted as surplus. The words “detail personnel on a reimbursable basis” are substituted for 15:1401(c)(6)(B) to eliminate unnecessary words and because of the restatement. Theword “otherwise” is added for clarity. The words “be deemed to” and “provision of” are omitted as surplus.
+In subsection (i), the words "United States" are substituted for "Federal" for consistency. The words "to provide" are substituted for "from" because of the restatement. The words "his functions under" are omitted as surplus. The words "head of the" are added for consistency. The words "to the Department of Transportation . . . made by the Secretary" are omitted as surplus. The words "detail personnel on a reimbursable basis" are substituted for 15:1401(c)(6)(B) to eliminate unnecessary words and because of the restatement. The word "otherwise" is added for clarity. The words "be deemed to" and "provision of" are omitted as surplus.
 
-In subsection (j), the words “departments, agencies, and instrumentalities of the Government, States, and other public and private agencies” are substituted for “other Federal departments and agencies, and State and other interested public and private agencies” for consistency.
+In subsection (j), the words "departments, agencies, and instrumentalities of the Government, States, and other public and private agencies" are substituted for "other Federal departments and agencies, and State and other interested public and private agencies" for consistency.
 
-In subsection (k), the words “for appropriate action” are omitted as surplus.
+In subsection (k), the words "for appropriate action" are omitted as surplus.
 
 #### Pub. L. 103–429
 
@@ -344,11 +344,11 @@ The date of the enactment of the Transportation Recall Enhancement, Accountabili
 
 #### Amendments
 
-<b>2012</b>—Subsec. (c)(3)(A). Pub. L. 112–141, §31209(2)(A), inserted “(including at United States ports of entry)” after “held for introduction in interstate commerce”.
+<b>2012</b>—Subsec. (c)(3)(A). Pub. L. 112–141, §31209(2)(A), inserted "(including at United States ports of entry)" after "held for introduction in interstate commerce".
 
 Subsec. (c)(4). Pub. L. 112–141, §31209(1), (2)(B), (3), added par. (4).
 
-Subsec. (f). Pub. L. 112–141, §31303(a), designated existing provisions as par. (1), inserted heading, substituted “A manufacturer shall give the Secretary of Transportation, and the Secretary shall make available on a publicly accessible Internet website,” for “A manufacturer shall give the Secretary of Transportation”, and added par. (2).
+Subsec. (f). Pub. L. 112–141, §31303(a), designated existing provisions as par. (1), inserted heading, substituted "A manufacturer shall give the Secretary of Transportation, and the Secretary shall make available on a publicly accessible Internet website," for "A manufacturer shall give the Secretary of Transportation", and added par. (2).
 
 Subsec. (o). Pub. L. 112–141, §31304(a), added subsec. (o).
 
@@ -356,9 +356,9 @@ Subsec. (o). Pub. L. 112–141, §31304(a), added subsec. (o).
 
 <b>1996</b>—Subsec. (d). Pub. L. 104–287 made technical amendment to directory language of Pub. L. 104–88, §308(j). See 1995 Amendment note below.
 
-<b>1995</b>—Subsec. (d). Pub. L. 104–88, §308(j), as amended by Pub. L. 104–287, substituted “subchapter I of chapter 135” for “subchapter II of chapter 105”.
+<b>1995</b>—Subsec. (d). Pub. L. 104–88, §308(j), as amended by Pub. L. 104–287, substituted "subchapter I of chapter 135" for "subchapter II of chapter 105".
 
-<b>1994</b>—Subsec. (h). Pub. L. 103–429 substituted “any judicial district” for “the judicial district”.
+<b>1994</b>—Subsec. (h). Pub. L. 103–429 substituted "any judicial district" for "the judicial district".
 
 #### Effective Date of 2012 Amendment
 
@@ -380,29 +380,29 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 Pub. L. 112–141, div. C, title I, §31301, July 6, 2012, 126 Stat. 763, provided that:
 
-“(a)
+"(a)
 
 Vehicle Recall Information.—Not later than 1 year after the date of enactment of this Act \[see section 3(a), (b) of Pub. L. 112–141, set out as Effective and Termination Dates of 2012 Amendment notes under section 101 of Title 23, Highways\], the Secretary \[of Transportation\] shall require that motor vehicle safety recall information—
 
-&emsp;“(1) be available to the public on the Internet;
+&emsp;"(1) be available to the public on the Internet;
 
-&emsp;“(2) be searchable by vehicle make and model and vehicle identification number;
+&emsp;"(2) be searchable by vehicle make and model and vehicle identification number;
 
-&emsp;“(3) be in a format that preserves consumer privacy; and
+&emsp;"(3) be in a format that preserves consumer privacy; and
 
-&emsp;“(4) includes \[sic\] information about each recall that has not been completed for each vehicle.
+&emsp;"(4) includes \[sic\] information about each recall that has not been completed for each vehicle.
 
-“(b)
+"(b)
 
 Rulemaking.—The Secretary may initiate a rulemaking proceeding to require each manufacturer to provide the information described in subsection (a), with respect to that manufacturer's motor vehicles, on a publicly accessible Internet website. Any rules promulgated under this subsection—
 
-&emsp;“(1) shall limit the information that must be made available under this section to include only those recalls issued not more than 15 years prior to the date of enactment of this Act;
+&emsp;"(1) shall limit the information that must be made available under this section to include only those recalls issued not more than 15 years prior to the date of enactment of this Act;
 
-&emsp;“(2) may require information under paragraph (1) to be provided to a dealer or an owner of a vehicle at no charge; and
+&emsp;"(2) may require information under paragraph (1) to be provided to a dealer or an owner of a vehicle at no charge; and
 
-&emsp;“(3) shall permit a manufacturer a reasonable period of time after receiving information from a dealer with respect to a vehicle to update the information about the vehicle on the publicly accessible Internet website.
+&emsp;"(3) shall permit a manufacturer a reasonable period of time after receiving information from a dealer with respect to a vehicle to update the information about the vehicle on the publicly accessible Internet website.
 
-“(c)
+"(c)
 
-Promotion of Public Awareness.—The Secretary, in consultation with the heads of other relevant agencies, shall promote consumer awareness of the information made available to the public pursuant to this section.”
+Promotion of Public Awareness.—The Secretary, in consultation with the heads of other relevant agencies, shall promote consumer awareness of the information made available to the public pursuant to this section."
 

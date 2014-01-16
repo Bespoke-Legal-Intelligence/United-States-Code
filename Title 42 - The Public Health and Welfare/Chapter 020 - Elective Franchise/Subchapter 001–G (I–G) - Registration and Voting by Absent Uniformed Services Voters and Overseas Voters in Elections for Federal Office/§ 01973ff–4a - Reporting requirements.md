@@ -36,15 +36,15 @@ In this section:
 
 #### (1) Absent overseas uniformed services voter
 
-&emsp;The term “absent overseas uniformed services voter” has the meaning given such term in section 1973ff–2a(d) of this title.
+&emsp;The term "absent overseas uniformed services voter" has the meaning given such term in section 1973ff–2a(d) of this title.
 
 #### (2) Presidential designee
 
-&emsp;The term “Presidential designee” means the Presidential designee under section 1973ff(a) of this title.
+&emsp;The term "Presidential designee" means the Presidential designee under section 1973ff(a) of this title.
 
 #### (3) Relevant committees of Congress defined
 
-&emsp;The term “relevant committees of Congress” means—
+&emsp;The term "relevant committees of Congress" means—
 
 &emsp;&emsp;(A) the Committees on Appropriations, Armed Services, and Rules and Administration of the Senate; and
 

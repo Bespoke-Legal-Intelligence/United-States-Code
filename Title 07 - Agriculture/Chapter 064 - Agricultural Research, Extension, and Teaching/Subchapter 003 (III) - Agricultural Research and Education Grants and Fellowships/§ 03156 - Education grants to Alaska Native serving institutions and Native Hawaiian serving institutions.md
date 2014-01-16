@@ -54,11 +54,11 @@ Section was formerly classified to section 3242 of this title.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a)(3). Pub. L. 110–246, §7112(1)(A), substituted “2012” for “2006”.
+<b>2008</b>—Subsec. (a)(3). Pub. L. 110–246, §7112(1)(A), substituted "2012" for "2006".
 
-Subsec. (b)(2)(A). Pub. L. 110–246, §7112(1)(B)(i), inserted “, including permitting consortia to designate fiscal agents for the members of the consortia and to allocate among the members funds made available under this section” before semicolon at end.
+Subsec. (b)(2)(A). Pub. L. 110–246, §7112(1)(B)(i), inserted ", including permitting consortia to designate fiscal agents for the members of the consortia and to allocate among the members funds made available under this section" before semicolon at end.
 
-Subsec. (b)(3). Pub. L. 110–246, §7112(1)(B)(ii), substituted “2012” for “2006”.
+Subsec. (b)(3). Pub. L. 110–246, §7112(1)(B)(ii), substituted "2012" for "2006".
 
 #### Effective Date of 2008 Amendment
 

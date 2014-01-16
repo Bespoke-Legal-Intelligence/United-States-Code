@@ -48,7 +48,7 @@ Except as provided in subsection (d) of this section, the President may substitu
 
 #### (c) Binding agreements
 
-The President may negotiate and enter into a binding agreement with a foreign government that obligates such government to cease, or take substantial steps to address and phase out, the act, policy, or practice constituting the violation of religious freedom. The entry into force of a binding agreement for the cessation of the violations shall be a primary objective for the President in responding to a foreign government that has engaged in or tolerated particularly severe violations of religious freedom.
+The President may negotiate and enter into a binding agreement with a foreign governmentthat obligates such government to cease, or take substantial steps to address and phase out, the act, policy, or practice constituting the violation of religious freedom. The entry into force of a binding agreement for the cessation of the violations shall be a primary objective for the President in responding to a foreign government that has engaged in or tolerated particularly severe violations of religious freedom.
 
 #### (d) Exceptions
 
@@ -62,5 +62,5 @@ The Export Administration Act of 1979, referred to in subsec. (a)(13)(A), is Pub
 
 The Arms Export Control Act, referred to in subsec. (a)(13)(B), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
-The Atomic Energy Act of 1954, referred to in subsec. (a)(13)(C), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified generally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see ShortTitle note set out under section 2011 of Title 42 and Tables.
+The Atomic Energy Act of 1954, referred to in subsec. (a)(13)(C), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 919, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 

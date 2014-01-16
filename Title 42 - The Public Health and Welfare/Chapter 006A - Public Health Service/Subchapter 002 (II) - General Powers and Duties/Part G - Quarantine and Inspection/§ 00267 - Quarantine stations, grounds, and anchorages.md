@@ -2,7 +2,7 @@
 
 #### (a) Control and management
 
-Except as provided in title II of the Act of June 15, 1917, as amended \[50 U.S.C. 191 et seq.\], the Surgeon General shall control, direct, and manage all United States quarantine stations, grounds, and anchorages, designate their boundaries, and designate the quarantine officers to be in charge thereof. With the approval of the President he shall from time to time select suitable sites for and establish such additional stations, grounds, and anchorages in the States and possessions of the United States as in his judgment are necessary to prevent the introductionof communicable diseases into the States and possessions of the United States.
+Except as provided in title II of the Act of June 15, 1917, as amended \[50 U.S.C. 191 et seq.\], the Surgeon General shall control, direct, and manage all United States quarantine stations, grounds, and anchorages, designate their boundaries, and designate the quarantine officers to be in charge thereof. With the approval of the President he shall from time to time select suitable sites for and establish such additional stations, grounds, and anchorages in the States and possessions of the United States as in his judgment are necessary to prevent the introduction of communicable diseases into the States and possessions of the United States.
 
 #### (b) Hours of inspection
 
@@ -10,7 +10,7 @@ The Surgeon General shall establish the hours during which quarantine service sh
 
 #### (c) Overtime pay for employees of Service
 
-The Surgeon General shall fix a reasonable rate of extra compensation for overtime services of employees of the United States Public Health Service, Foreign Quarantine Division, performing overtime duties including the operation of vessels, in connection with the inspection or quarantine treatment of persons (passengers and crews), conveyances, or goods arriving by land, water, or air in the United States or any place subject to the jurisdiction thereof, hereinafter referred to as “employees of the Public Health Service”, when required to be on duty between the hours of 6 o'clock postmeridian and 6 o'clock antemeridian (or between the hours of 7 o'clock postmeridian and 7 o'clock antemeridian at stations which have a declared workday of from 7 o'clock antemeridian to 7 o'clock postmeridian), or on Sundays or holidays, such rate, in lieu of compensation under any other provision of law, to be fixed at two times the basic hourly rate for each hour that the overtime extends beyond 6 o'clock (or 7 o'clock as the case may be) postmeridian, and two times the basic hourly rate for each overtime hour worked on Sundays or holidays. As used in this subsection, the term “basic hourly rate” shall mean the regular basic rate of pay which is applicable to such employees for work performed within their regular scheduled tour of duty.
+The Surgeon General shall fix a reasonable rate of extra compensation for overtime services of employees of the United States Public Health Service, Foreign Quarantine Division, performing overtime duties including the operation of vessels, in connection with the inspection or quarantine treatment of persons (passengers and crews), conveyances, or goods arriving by land, water, or air in the United States or any place subject to the jurisdiction thereof, hereinafter referred to as "employees of the Public Health Service", when required to be on duty between the hours of 6 o'clock postmeridian and 6 o'clock antemeridian (or between the hours of 7 o'clock postmeridian and 7 o'clock antemeridian at stations which have a declared workday of from 7 o'clock antemeridian to 7 o'clock postmeridian), or on Sundays or holidays, such rate, in lieu of compensation under any other provision of law, to be fixed at two times the basic hourly rate for each hour that the overtime extends beyond 6 o'clock (or 7 o'clock as the case may be) postmeridian, and two times the basic hourly rate for each overtime hour worked on Sundays or holidays. As used in this subsection, the term "basic hourly rate" shall mean the regular basic rate of pay which is applicable to such employees for work performed within their regular scheduled tour of duty.
 
 #### (d) Payment of extra compensation to United States; bond or deposit to assure payment; deposit of moneys to credit of appropriation
 
@@ -28,13 +28,13 @@ The Surgeon General shall fix a reasonable rate of extra compensation for overti
 
 #### Transfer of Functions
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (d) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (d) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
 
 #### Delegation of Functions
 
-Functions of President delegated to Secretary of Health Health and Human Services, see Ex. Ord. No.11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
+Functions of President delegated to Secretary of Health Health and Human Services, see Ex. Ord. No. 11140, Jan. 30, 1964, 29 F.R. 1637, as amended, set out as a note under section 202 of this title.
 
 For assignment of functions of President under subsec. (a) of this section, see section 3 of Ex. Ord. No. 13295, Apr. 4, 2003, 68 F.R. 17255, set out as a note under section 264 of this title.
 

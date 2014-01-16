@@ -12,13 +12,13 @@ For purposes of section 38, the amount of the distilled spirits credit for any t
 
 &emsp;&emsp;&emsp;(ii) which are purchased by such wholesaler during the taxable year directly from the bottler of such spirits, or
 
-&emsp;&emsp;(B) any person which is subject to section 5005 and which is not an eligible wholesaler, the number of cases of bottled distilled spirits which are stored in a warehouse operated by, or on behalf of, a State or political subdivision thereof, or an agency of either, on which title has not passed on an unconditional sale basis, and
+&emsp;&emsp;(B) any person which is subject to section 5005 and which is not an eligible wholesaler, the number of cases of bottled distilled spirits which are stored in a warehouse operatedby, or on behalf of, a State or political subdivision thereof, or an agency of either, on which title has not passed on an unconditional sale basis, and
 
 &emsp;(2) the average tax-financing cost per case for the most recent calendar year ending before the beginning of such taxable year.
 
 #### (b) Eligible wholesaler
 
-For purposes of this section, the term “eligible wholesaler” means any person which holds a permit under the Federal Alcohol Administration Act as a wholesaler of distilled spirits which is not a State or political subdivision thereof, or an agency of either.
+For purposes of this section, the term "eligible wholesaler" means any person which holds a permit under the Federal Alcohol Administration Act as a wholesaler of distilled spirits which is not a State or political subdivision thereof, or an agency of either.
 
 #### (c) Average tax-financing cost
 
@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (1) Case
 
-&emsp;The term “case” means 12 80-proof 750-milliliter bottles.
+&emsp;The term "case" means 12 80-proof 750-milliliter bottles.
 
 #### (2) Number of cases in lot
 

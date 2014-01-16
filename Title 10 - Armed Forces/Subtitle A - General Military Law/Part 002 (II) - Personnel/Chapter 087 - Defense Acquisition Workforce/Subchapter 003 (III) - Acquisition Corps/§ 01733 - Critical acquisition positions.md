@@ -30,15 +30,15 @@ Designation of Critical Acquisition Positions.—(1) The Secretary of Defense sh
 
 #### Amendments
 
-<b>2004</b>—Subsec. (b)(1)(A)(i). Pub. L. 108–375 substituted “in a senior position in the National Security Personnel System, as determined in accordance with guidelines prescribed by the Secretary,” for “in a position within grade GS–14 or above of the General Schedule,”.
+<b>2004</b>—Subsec. (b)(1)(A)(i). Pub. L. 108–375 substituted "in a senior position in the National Security Personnel System, as determined in accordance with guidelines prescribed by the Secretary," for "in a position within grade GS–14 or above of the General Schedule,".
 
-<b>2003</b>—Subsec. (a). Pub. L. 108–136 substituted “the Acquisition Corps” for “an Acquisition Corps”.
+<b>2003</b>—Subsec. (a). Pub. L. 108–136 substituted "the Acquisition Corps" for "an Acquisition Corps".
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted “A critical” for “On and after October 1, 1993, a critical”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–201 substituted "A critical" for "On and after October 1, 1993, a critical".
 
-<b>1993</b>—Subsec. (b)(1)(A)(i). Pub. L. 103–89 substituted “Schedule” for “Schedule (including an employee covered by chapter 54 of title 5)”.
+<b>1993</b>—Subsec. (b)(1)(A)(i). Pub. L. 103–89 substituted "Schedule" for "Schedule (including an employee covered by chapter 54 of title 5)".
 
-<b>1992</b>—Subsec. (b)(1)(B)(ii). Pub. L. 102–484 substituted “1737(a)(3)” for “1736(a)(3)”.
+<b>1992</b>—Subsec. (b)(1)(B)(ii). Pub. L. 102–484 substituted "1737(a)(3)" for "1736(a)(3)".
 
 #### Effective Date of 1993 Amendment
 

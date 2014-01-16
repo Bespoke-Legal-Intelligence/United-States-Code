@@ -8,7 +8,7 @@
 
 &emsp;(B) identify and safeguard homeland security information that is sensitive but unclassified; and
 
-&emsp;(C) to the extent such information is in classified form, determine whether, how, and to what extent to remove classified information, as appropriate, and with which such personnel it may be shared after such information is removed.
+&emsp;(C) to the extent such information is in classified form, determine whether, how, and towhat extent to remove classified information, as appropriate, and with which such personnel it may be shared after such information is removed.
 
 (2) The President shall ensure that such procedures apply to all agencies of the Federal Government.
 
@@ -102,7 +102,7 @@ As used in this section:
 
 &emsp;&emsp;(D) would improve the response to a terrorist act.
 
-&emsp;(2) The term “intelligence community” has the meaning given such term in section 401a(4) of title 50.
+&emsp;(2) The term “intelligence community” has the meaning given such term in section 3003(4) of title 50.
 
 &emsp;(3) The term “State and local personnel” means any of the following persons involved in prevention, preparation, or response for terrorist attack:
 
@@ -136,7 +136,7 @@ This chapter, referred to in subsecs. (d) and (g), was in the original “this A
 
 #### Change of Name
 
-Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 401 of Title 50, War and National Defense.
+Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the intelligence community deemed to be a reference to the Director of National Intelligence. Reference to the Director of Central Intelligence or the Director of the Central Intelligence Agency in the Director's capacity as the head of the Central Intelligence Agency deemed to be a reference to the Director of the Central Intelligence Agency. See section 1081(a), (b) of Pub. L. 108–458, set out as a note under section 3001 of Title 50, War and National Defense.
 
 #### Ex. Ord. No. 13311. Homeland Security Information Sharing
 
@@ -152,17 +152,17 @@ Section 1. <i>Assignment of Functions</i>. (a) The functions of the President un
 
 (d) The function of the President under section 892(b)(7) of the Act is delegated to the Attorney General and the Director of National Intelligence, to be exercised jointly.
 
-(e) In performing the functions assigned to the Secretary by subsection (a) of this section, the Secretary shall coordinate with the Secretary of State, the Secretary of Defense, the Attorney General, the Secretary of Energy, the Director of the Office of Management and Budget, the Director of National Intelligence, the Archivist of the United States, and as the Secretary deems appropriate, other officers of the United States.
+(e) In performing the functions assigned to the Secretary by subsection (a) of this section, the Secretary shall coordinate with the Secretary of State, the Secretary of Defense, the Attorney General, the Secretaryof Energy, the Director of the Office of Management and Budget, the Director of National Intelligence, the Archivist of the United States, and as the Secretary deems appropriate, other officers of the United States.
 
-(f) A determination, under the procedures issued by the Secretary in the performance of the function of the President under section 892(a)(1) of the Act, as to whether, or to what extent, an individual who falls within the category of “State and local personnel” as defined in sections 892(f)(3) and (f)(4) of the Act shall have access to information classified pursuant to Executive Order 12958 of April 17, 1995 \[50 U.S.C. 435 note\], as amended, is a discretionary determination and shall be conclusive and not subject to review or appeal.
+(f) A determination, under the procedures issued by the Secretary in the performance of the function of the President under section 892(a)(1) of the Act, as to whether, or to what extent, an individual who falls within the category of “State and local personnel” as defined in sections 892(f)(3) and (f)(4) of the Act shall have access to information classified pursuant to \[former\] Executive Order 12958 of April 17, 1995, as amended, is a discretionary determination and shall be conclusive and not subject to review or appeal.
 
 Sec. 2. <i>Rules of Construction</i>. Nothing in this order shall be construed to impair or otherwise affect:
 
-(a) the authority of the Director of National Intelligence under section 102A(i)(1) of the National Security Act of 1947, as amended (50 U.S.C. 403–3(c)(7) \[403–1(i)(1)\]), to protect intelligence sources and methods from unauthorized disclosure;
+(a) the authority of the Director of National Intelligence under section 102A(i)(1) of the National Security Act of 1947, as amended (50 U.S.C. 403–3(c)(7) \[sic\]) \[50 U.S.C. 3024(i)(1)\], to protect intelligence sources and methods from unauthorized disclosure;
 
 (b) the functions of the Director of the Office of Management and Budget relating to budget, administrative, or legislative proposals; or
 
-(c) the provisions of Executive Orders 12958 of April 17, 1995 \[50 U.S.C. 435 note\], as amended, and 12968 of August 2, 1995 \[50 U.S.C. 435 note\], as amended.
+(c) the provisions of Executive Orders 12958 of April 17, 1995 \[former 50 U.S.C. 435 note\], as amended, and 12968 of August 2, 1995 \[50 U.S.C. 3161 note\], as amended.
 
 Sec. 3. <i>General Provision</i>. This order is intended only to improve the internal management of the Federal Government and is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity, against the United States, its departments, agencies, or other entities, its officers or employees, or any other person.
 

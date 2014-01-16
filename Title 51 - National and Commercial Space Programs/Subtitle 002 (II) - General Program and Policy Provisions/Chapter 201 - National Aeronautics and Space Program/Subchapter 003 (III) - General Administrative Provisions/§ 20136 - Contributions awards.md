@@ -54,5 +54,5 @@ Pub. L. 85–568, title III, §306, July 29, 1958, 72 Stat. 437.
 
 42 U.S.C. 2458(b) (par. (2) of last sentence).
 
-In subsections (c) and (d), the words “No award may be made under subsection (a)” are substituted for “No award may be made under subsection (a) with respect to any contribution” for clarity and to eliminate unnecessary words.
+In subsections (c) and (d), the words "No award may be made under subsection (a)" are substituted for "No award may be made under subsection (a) with respect to any contribution" for clarity and to eliminate unnecessary words.
 

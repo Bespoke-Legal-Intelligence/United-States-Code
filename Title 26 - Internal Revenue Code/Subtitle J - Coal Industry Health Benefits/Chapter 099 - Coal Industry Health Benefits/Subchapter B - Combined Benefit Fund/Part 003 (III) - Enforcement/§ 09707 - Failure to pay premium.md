@@ -16,7 +16,7 @@ The amount of the penalty imposed by subsection (a) on any failure with respect 
 
 #### (c) Noncompliance period
 
-For purposes of this section, the term “noncompliance period” means, with respect to any failure to pay any premium or installment thereof, the period—
+For purposes of this section, the term "noncompliance period" means, with respect to any failure to pay any premium or installment thereof, the period—
 
 &emsp;(1) beginning on the due date for such premium or installment, and
 
@@ -56,7 +56,7 @@ Section 402 of the Surface Mining Control and Reclamation Act of 1977, referred 
 
 #### Amendments
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–432 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There is hereby imposed a penalty on the failure of any assigned operator to pay any premium required to be paid under section 9704 with respect to any eligible beneficiary.”
+<b>2006</b>—Subsec. (a). Pub. L. 109–432 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: "There is hereby imposed a penalty on the failure of any assigned operator to pay any premium required to be paid under section 9704 with respect to any eligible beneficiary."
 
-<b>1996</b>—Subsec. (d)(1). Pub. L. 104–188 struck out comma after “diligence”.
+<b>1996</b>—Subsec. (d)(1). Pub. L. 104–188 struck out comma after "diligence".
 

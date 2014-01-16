@@ -1,6 +1,6 @@
 ### §5407. Nature of payment
 
-Any payment to an employee under this section shall be part of the employee's basic pay for the purposes of subchapter III of chapter 83, and chapters 84 and 87, and for such other purposes (other than chapter 75) as the Office shall determine by regulation.
+Any payment to an employee under this section shall be part of the employee's basic pay for the purposes of subchapter III of chapter 83, andchapters 84 and 87, and for such other purposes (other than chapter 75) as the Office shall determine by regulation.
 
 (Added Pub. L. 108–136, div. A, title XI, §1129(a), Nov. 24, 2003, 117 Stat. 1645.)
 

@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—The United States Holocaust Memorial Council (hereafter in this chapter referred to as the “Council”) shall be the board of trustees of the Museum and shall have overall governance responsibility for the Museum, including policy guidance and strategic direction, general oversight of Museum operations, and fiduciary responsibility. The Council shall establish an Executive Committee which shall exercise ongoing governance responsibility when the Council is not in session.
+In General.—The United States Holocaust Memorial Council (hereafter in this chapter referred to as the "Council") shall be the board of trustees of the Museum and shall have overall governance responsibility for the Museum, including policy guidance and strategic direction, general oversight of Museum operations, and fiduciary responsibility. The Council shall establish an Executive Committee which shall exercise ongoing governance responsibility when the Council is not in session.
 
 (b)
 

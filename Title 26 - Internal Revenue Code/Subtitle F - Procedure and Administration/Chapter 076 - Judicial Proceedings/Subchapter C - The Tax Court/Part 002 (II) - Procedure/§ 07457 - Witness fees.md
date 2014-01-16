@@ -20,5 +20,5 @@ Such fees and mileage and the expenses of taking any such deposition shall be pa
 
 #### Amendments
 
-<b>1976</b>—Subsec. (b)(1). Pub. L. 94–455 struck out “or his delegate” after “Secretary” wherever appearing.
+<b>1976</b>—Subsec. (b)(1). Pub. L. 94–455 struck out "or his delegate" after "Secretary" wherever appearing.
 

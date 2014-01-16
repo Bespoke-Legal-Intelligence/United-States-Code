@@ -26,7 +26,7 @@ A prior subpart A, comprising sections 5001 to 5012, related to tax on distilled
 
 <b>1980</b>—Pub. L. 96–598, §6(b), Dec. 24, 1980, 94 Stat. 3489, added item 5010.
 
-<b>1979</b>—Pub. L. 96–39, title VIII, §807(b)(2), July 26, 1979, 93 Stat. 290, struck out item 5009 “Drawback”.
+<b>1979</b>—Pub. L. 96–39, title VIII, §807(b)(2), July 26, 1979, 93 Stat. 290, struck out item 5009 "Drawback".
 
 
 ---

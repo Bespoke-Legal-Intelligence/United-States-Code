@@ -68,7 +68,7 @@ There is established a corporation to be known as the Resolution Funding Corpora
 
 #### (9) No compensation from Funding Corporation
 
-&emsp;Members of the Directorate of the Funding Corporation shall receive no pay, allowance, or benefit from the Funding Corporation for serving on the Directorate.
+&emsp;Members of the Directorate of the Funding Corporation shall receive no pay, allowance,or benefit from the Funding Corporation for serving on the Directorate.
 
 #### (d) Powers of Funding Corporation
 
@@ -234,13 +234,13 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (A) In general
 
-&emsp;&emsp;If the amount of any Federal Home Loan Bank's allocation under paragraph (5) exceeds the maximum amount applicable with respect to such Bank (in this paragraph referred to as a “deficient Bank”) under paragraph (3) at the time of such determination (in this paragraph referred to as the “excess amount”)—
+&emsp;&emsp;If the amount of any Federal Home Loan Bank's allocation under paragraph (5) exceeds the maximum amount applicable with respect to such Bank (in this paragraph referred to as a "deficient Bank") under paragraph (3) at the time of such determination (in this paragraph referred to as the "excess amount")—
 
-&emsp;&emsp;&emsp;(i) the Thrift Depositor Protection Oversight Board shall require each Federal Home Loan Bank that is not allocated an amount under paragraph (5) that exceeds its maximum under paragraph (3) (in this paragraph referred to as a “remaining Bank”) to purchase stock in the Funding Corporation (in addition to the amount determined under paragraph (5) for such remaining Bank and subject to the maximum amount applicable with respect to such remaining Bank under paragraph (3) at the time of such determination) on behalf of the deficient Bank the amount determined under subparagraph (B);
+&emsp;&emsp;&emsp;(i) the Thrift Depositor Protection Oversight Board shall require each Federal Home Loan Bank that is not allocated an amount under paragraph (5) that exceeds its maximum under paragraph (3) (in this paragraph referred to as a "remaining Bank") to purchase stock in the Funding Corporation (in addition to the amount determined under paragraph (5) for such remaining Bank and subject to the maximum amount applicable with respect to such remaining Bank under paragraph (3) at the time of such determination) on behalf of the deficient Bank the amount determined under subparagraph (B);
 
 &emsp;&emsp;&emsp;(ii) the Thrift Depositor Protection Oversight Board shall require the deficient Bank to subsequently reimburse the remaining Banks out of its net earnings (or reimbursements received from other Banks) in the manner described in subparagraphs (C) and (D); and
 
-&emsp;&emsp;&emsp;(iii) the requirements contained in subparagraph (D) relating to the use of net earnings shall apply to the deficient Bankuntil such Bank has reimbursed the remaining Banks for all of the excess amount.
+&emsp;&emsp;&emsp;(iii) the requirements contained in subparagraph (D) relating to the use of net earnings shall apply to the deficient Bank until such Bank has reimbursed the remaining Banks for all of the excess amount.
 
 #### (B) Allocation of excess amount among remaining Federal Home Loan Banks
 
@@ -366,7 +366,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 #### (B) Exception
 
-&emsp;&emsp;The Funding Corporation, like the Federal Home Loan Banks, shall be treated as an agency of the United States for purposes of the first sentence of section 3124(b) of title 31\(relating to determination of tax status of interest on obligations).
+&emsp;&emsp;The Funding Corporation, like the Federal Home Loan Banks, shall be treated as an agency of the United States for purposes of the first sentence of section 3124(b) of title 31 (relating to determination of tax status of interest on obligations).
 
 #### (8) Obligations not exempt securities
 
@@ -376,7 +376,7 @@ The Funding Corporation shall have only the powers described in paragraphs (1) t
 
 &emsp;&emsp;&emsp;(i) shall not be considered to be securities issued or guaranteed by a person controlled or supervised by, or acting as an instrumentality of, the Government of the United States; and
 
-&emsp;&emsp;&emsp;(ii) shall not be considered to be “exempted securities” within the meaning of section 78c(a)(12)(A)(i) of title 15, except that such obligations shall be considered to be exempted securities for purposes of section 78o of title 15.
+&emsp;&emsp;&emsp;(ii) shall not be considered to be "exempted securities" within the meaning of section 78c(a)(12)(A)(i) of title 15, except that such obligations shall be considered to be exempted securities for purposes of section 78o of title 15.
 
 #### (B) Authority of Commission
 
@@ -464,7 +464,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (1) Administrative expenses
 
-&emsp;The term “administrative expenses” does not include—
+&emsp;The term "administrative expenses" does not include—
 
 &emsp;&emsp;(A) any interest on, or any redemption premium with respect to, any obligation of the Funding Corporation; or
 
@@ -472,7 +472,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Custodian fee
 
-&emsp;The term “custodian fee” means—
+&emsp;The term "custodian fee" means—
 
 &emsp;&emsp;(A) any fee incurred by the Funding Corporation in connection with the transfer of any security to, or the maintenance of any security in, the segregated account established under subsection (g) of this section; and
 
@@ -480,15 +480,15 @@ For purposes of this section, the following definitions shall apply:
 
 #### (3) Funding Corporation
 
-&emsp;The term “Funding Corporation” means the Resolution Funding Corporation established in subsection (b) of this section.
+&emsp;The term "Funding Corporation" means the Resolution Funding Corporation established in subsection (b) of this section.
 
 #### (4) Funding Corporation Principal Fund
 
-&emsp;The term “Funding Corporation Principal Fund” means the separate account established under subsection (g)(2) of this section.
+&emsp;The term "Funding Corporation Principal Fund" means the separate account established under subsection (g)(2) of this section.
 
 #### (5) Issuance costs
 
-&emsp;The term “issuance costs”—
+&emsp;The term "issuance costs"—
 
 &emsp;&emsp;(A) means issuance fees and commissions incurred by the Funding Corporation in connection with the issuance or servicing of any obligation of the Funding Corporation; and
 
@@ -496,11 +496,11 @@ For purposes of this section, the following definitions shall apply:
 
 #### (6) Net earnings
 
-&emsp;The term “net earnings” means net earnings without reduction for chargeoffs or expenses incurred by a Federal Home Loan Bank for the purchase of capital stock of the Financing Corporation or payments relating to the Funding Corporation required by the Thrift Depositor Protection Oversight Board under subsections (e) and (f) of this section.
+&emsp;The term "net earnings" means net earnings without reduction for chargeoffs or expenses incurred by a Federal Home Loan Bank for the purchase of capital stock of the Financing Corporation or payments relating to the Funding Corporation required by the Thrift Depositor Protection Oversight Board under subsections (e) and (f) of this section.
 
 #### (7) Thrift Depositor Protection Oversight Board
 
-&emsp;The term “Thrift Depositor Protection Oversight Board” means—
+&emsp;The term "Thrift Depositor Protection Oversight Board" means—
 
 &emsp;&emsp;(A) the Thrift Depositor Protection Oversight Board of the Resolution Trust Corporation under section 1441a of this title; and
 
@@ -514,11 +514,11 @@ For purposes of this section, the following definitions shall apply:
 
 #### (8) Secretary
 
-&emsp;The term “Secretary” means the Secretary of the Treasury.
+&emsp;The term "Secretary" means the Secretary of the Treasury.
 
 #### (9) Undivided profits
 
-&emsp;The term “undivided profits” means earnings retained after dividends have been paid minus the sum of—
+&emsp;The term "undivided profits" means earnings retained after dividends have been paid minus the sum of—
 
 &emsp;&emsp;(A) that portion required to be added to reserves maintained pursuant to the first 2 sentences of section 1436 of this title; and
 
@@ -528,7 +528,7 @@ For purposes of this section, the following definitions shall apply:
 
 The Thrift Depositor Protection Oversight Board may prescribe any regulations necessary to carry out this section.
 
-(July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, §1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, §607(a), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 109–171, title II, §2102(b), Feb. 8,2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(7), (8), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 110–289, div. A, title II, §§1204(8)–(10), (12), 1213, July 30, 2008, 122 Stat. 2786, 2791.)
+(July 22, 1932, ch. 522, §21B, as added Pub. L. 101–73, title V, §511(a), Aug. 9, 1989, 103 Stat. 394; amended Pub. L. 102–233, title III, §302(b), Dec. 12, 1991, 105 Stat. 1767; Pub. L. 102–550, title XVI, §1613(a)(7), (9), Oct. 28, 1992, 106 Stat. 4092; Pub. L. 104–208, div. A, title II, §2704(d)(5), (11)(E), (F), Sept. 30, 1996, 110 Stat. 3009–488, 3009–489; Pub. L. 106–102, title VI, §607(a), Nov. 12, 1999, 113 Stat. 1455; Pub. L. 109–171, title II, §2102(b), Feb. 8, 2006, 120 Stat. 9; Pub. L. 109–173, §9(d)(7), (8), Feb. 15, 2006, 119 Stat. 3617; Pub. L. 110–289, div. A, title II, §§1204(8)–(10), (12), 1213, July 30, 2008, 122 Stat. 2786, 2791.)
 
 #### References in Text
 
@@ -538,41 +538,41 @@ Section 9105 of title 31, referred to in subsec. (h)(3), was amended generally b
 
 #### Amendments
 
-<b>2008</b>—Subsecs. (c)(6)(B), (e)(4). Pub. L. 110–289, §1204(12), substituted “Director” for “Federal Housing Finance Board” wherever appearing.
+<b>2008</b>—Subsecs. (c)(6)(B), (e)(4). Pub. L. 110–289, §1204(12), substituted "Director" for "Federal Housing Finance Board" wherever appearing.
 
-Subsec. (f)(2)(C)(ii) to (iv). Pub. L. 110–289, §1204(8)–(10), substituted, in cls. (ii) and (iii), “The Director” for “The Board” and, in cl. (iv), “the Director” for “the Board” before “extends” and “the Director” for “the Finance Board” before “shall reduce”.
+Subsec. (f)(2)(C)(ii) to (iv). Pub. L. 110–289, §1204(8)–(10), substituted, in cls. (ii) and (iii), "The Director" for "The Board" and, in cl. (iv), "the Director" for "the Board" before "extends" and "the Director" for "the Finance Board" before "shall reduce".
 
 Subsec. (f)(2)(C)(v). Pub. L. 110–289, §1213, added cl. (v).
 
-Subsec. (k)(7)(B)(ii). Pub. L. 110–289, §1204(8), which directed amendment of the Federal Home Loan Bank Act (this chapter) by substituting “the Director” for “the Board” wherever appearing, was not executed to subsec. (k)(7)(B)(ii), to reflect the probable intent of Congress.
+Subsec. (k)(7)(B)(ii). Pub. L. 110–289, §1204(8), which directed amendment of the Federal Home Loan Bank Act (this chapter) by substituting "the Director" for "the Board" wherever appearing, was not executed to subsec. (k)(7)(B)(ii), to reflect the probable intent of Congress.
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(11)(E). See 1996 Amendment note below.
 
-Subsec. (e)(5). Pub. L. 109–173, §9(d)(7)(A), inserted “as of the date of funding” after “Savings Association Insurance Fund members” in subpars. (A) and (B).
+Subsec. (e)(5). Pub. L. 109–173, §9(d)(7)(A), inserted "as of the date of funding" after "Savings Association Insurance Fund members" in subpars. (A) and (B).
 
 Subsec. (e)(7), (8). Pub. L. 109–173, §9(d)(7)(B), struck out pars. (7) and (8) which related to additional sources to fund the Funding Corporation Principal Fund and a transfer of funds to the Resolution Trust Corporation in fiscal year 1989, respectively.
 
 Subsec. (f)(2)(C)(ii)(I), (II). Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(5). See 1996 Amendment note below.
 
-Subsec. (k). Pub. L. 109–173, §9(d)(8)(A), in introductory provisions, inserted before colon “, the following definitions shall apply”.
+Subsec. (k). Pub. L. 109–173, §9(d)(8)(A), in introductory provisions, inserted before colon ", the following definitions shall apply".
 
-Subsec. (k)(8) to (10). Pub. L. 109–173, §9(d)(8)(B), (C), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out heading and text of former par. (8). Text read as follows: “The term ‘Savings Association Insurance Fund member’ means a Savings Association Insurance member as such term is defined by section 1817(l) of this title.”
+Subsec. (k)(8) to (10). Pub. L. 109–173, §9(d)(8)(B), (C), redesignated pars. (9) and (10) as (8) and (9), respectively, and struck out heading and text of former par. (8). Text read as follows: "The term 'Savings Association Insurance Fund member' means a Savings Association Insurance member as such term is defined by section 1817(l) of this title."
 
 Pub. L. 109–171 repealed Pub. L. 104–208, §2704(d)(11)(F). See 1996 Amendment note below.
 
 <b>1999</b>—Subsec. (f)(2)(C). Pub. L. 106–102 amended subpar. (C) generally, substituting present provisions for provisions requiring Federal Home Loan Banks to pay to the Funding Corporation each calendar year an amount sufficient to cover amount of interest payments made by the Corporation in that year, and provisions relating to determination of each Bank's individual share of such annual amount.
 
-<b>1996</b>—Subsec. (e). Pub. L. 104–208, §2704(d)(11)(E), which directed the amendment of subsec. (e) by inserting, in par. (5), “as of the date of funding” after “Savings Association Insurance Fund members” in two places and by striking par. (7) and redesignating par. (8) as (7), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
+<b>1996</b>—Subsec. (e). Pub. L. 104–208, §2704(d)(11)(E), which directed the amendment of subsec. (e) by inserting, in par. (5), "as of the date of funding" after "Savings Association Insurance Fund members" in two places and by striking par. (7) and redesignating par. (8) as (7), was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-Subsec. (f)(2)(C)(ii)(I), (II). Pub. L. 104–208, §2704(d)(5), which directed the amendment of subcls. (I) and (II) by substituting “to insured depository institutions, and their successors, which were Savings Association Insurance Fund members on September 1, 1995” for “to Savings Associations Insurance Fund members”, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
+Subsec. (f)(2)(C)(ii)(I), (II). Pub. L. 104–208, §2704(d)(5), which directed the amendment of subcls. (I) and (II) by substituting "to insured depository institutions, and their successors, which were Savings Association Insurance Fund members on September 1, 1995" for "to Savings Associations Insurance Fund members", was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below.
 
 Subsec. (k)(8) to (10). Pub. L. 104–208, §2704(d)(11)(F), which directed the amendment of subsec. (k) by striking par. (8) and redesignating pars. (9) and (10) as (8) and (9), respectively, was repealed by Pub. L. 109–171. See Effective Date of 1996 Amendment note below and 2006 Amendment note above.
 
-<b>1992</b>—Subsecs. (c)(8), (j)(2). Pub. L. 102–550, §1613(a)(7), inserted “Thrift Depositor Protection” before “Oversight” in headings.
+<b>1992</b>—Subsecs. (c)(8), (j)(2). Pub. L. 102–550, §1613(a)(7), inserted "Thrift Depositor Protection" before "Oversight" in headings.
 
-Subsec. (k)(7). Pub. L. 102–550, §1613(a)(9), substituted “Thrift Depositor Protection Oversight” for “Oversight” in heading.
+Subsec. (k)(7). Pub. L. 102–550, §1613(a)(9), substituted "Thrift Depositor Protection Oversight" for "Oversight" in heading.
 
-<b>1991</b>—Pub. L. 102–233 substituted “Thrift Depositor Protection Oversight Board” for “Oversight Board” wherever appearing in text.
+<b>1991</b>—Pub. L. 102–233 substituted "Thrift Depositor Protection Oversight Board" for "Oversight Board" wherever appearing in text.
 
 #### Effective Date of 2006 Amendment
 
@@ -582,7 +582,7 @@ Amendment by Pub. L. 109–171 effective no later than the first day of the firs
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–102, title VI, §607(b), Nov. 12, 1999, 113 Stat. 1456, provided that: “The amendment made by subsection (a) \[amending this section\] shall become effective on January 1, 2000. Payments made by a Federal home loan bank before that effective date shall be counted toward the total obligation of that Bank under section 21B(f)(2)(C) of the Federal Home Loan Bank Act \[12 U.S.C. 1441b(f)(2)(C)\], as amended by this section.”
+Pub. L. 106–102, title VI, §607(b), Nov. 12, 1999, 113 Stat. 1456, provided that: "The amendment made by subsection (a) \[amending this section\] shall become effective on January 1, 2000. Payments made by a Federal home loan bank before that effective date shall be counted toward the total obligation of that Bank under section 21B(f)(2)(C) of the Federal Home Loan Bank Act \[12 U.S.C. 1441b(f)(2)(C)\], as amended by this section."
 
 #### Effective Date of 1996 Amendment
 

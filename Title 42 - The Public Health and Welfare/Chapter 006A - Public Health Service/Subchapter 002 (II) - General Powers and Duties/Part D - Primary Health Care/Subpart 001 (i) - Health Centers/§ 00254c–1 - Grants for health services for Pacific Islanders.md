@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Secretary of Health and Human Services (hereafter in this section referred to as the “Secretary”) shall provide grants to, or enter into contracts with, public or private nonprofit agencies that have demonstrated experience in serving the health needs of Pacific Islanders living in the Territory of American Samoa, the Commonwealth of Northern Mariana Islands, the Territory of Guam, the Republic of the Marshall Islands, the Republic of Palau, and the Federated States of Micronesia.
+The Secretary of Health and Human Services (hereafter in this section referred to as the "Secretary") shall provide grants to, or enter into contracts with, public or private nonprofitagencies that have demonstrated experience in serving the health needs of Pacific Islanders living in the Territory of American Samoa, the Commonwealth of Northern Mariana Islands, the Territory of Guam, the Republic of the Marshall Islands, the Republic of Palau, and the Federated States of Micronesia.
 
 #### (b) Use of grants or contracts
 
@@ -40,7 +40,7 @@ Grants or contracts made or entered into under subsection (a) of this section sh
 
 #### (c) Advisory Council
 
-The Secretary of Health and Human Services shall establish a “Pacific Health Advisory Council” which shall consist of 12 members and shall include—
+The Secretary of Health and Human Services shall establish a "Pacific Health Advisory Council" which shall consist of 12 members and shall include—
 
 &emsp;(1) the Directors of the Health Departments for the entities identified in subsection (a) of this section; and
 
@@ -68,7 +68,7 @@ There is authorized to be appropriated to carry out this section $10,000,000 for
 
 Section was enacted as part of the Disadvantaged Minority Health Improvement Act of 1990, and not as part of the Public Health Service Act which comprises this chapter.
 
-Subsec. (e) of this section, which required the Secretary, in consultation with the Council, to annuallyprepare and submit to appropriate committees of Congress a report describing the expenditure of funds authorized to be appropriated under this section, with any recommendations of the Secretary, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 95 of House Document No. 103–7.
+Subsec. (e) of this section, which required the Secretary, in consultation with the Council, to annually prepare and submit to appropriate committees of Congress a report describing the expenditure of funds authorized to be appropriated under this section, with any recommendations of the Secretary, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 95 of House Document No. 103–7.
 
 #### Termination of Advisory Councils
 

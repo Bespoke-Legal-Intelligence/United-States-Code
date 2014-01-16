@@ -20,5 +20,5 @@ Historical and Revision Notes
 
 Nov. 5, 1990, Pub. L. 101–510, title XVI, §1602, 104 Stat. 1736.
 
-The words “and subject to the laws of such State or States” are omitted as unnecessary.
+The words "and subject to the laws of such State or States" are omitted as unnecessary.
 

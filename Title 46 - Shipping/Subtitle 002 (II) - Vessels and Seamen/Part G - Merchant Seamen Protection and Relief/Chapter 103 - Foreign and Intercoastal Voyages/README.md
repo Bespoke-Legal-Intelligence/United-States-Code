@@ -7,7 +7,7 @@
 | [10303\.](%C2%A7%2010303%20-%20Provisions.md) | Provisions. |
 | [10304\.](%C2%A7%2010304%20-%20Form%20of%20agreement.md) | Form of agreement. |
 | [10305\.](%C2%A7%2010305%20-%20Manner%20of%20signing%20agreement.md) | Manner of signing agreement. |
-| [10306\.](%C2%A7%2010306%20-%20Exhibiting%20merchant%20mariners%E2%80%99%20documents.md) | Exhibiting merchant mariners’ documents. |
+| [10306\.](%C2%A7%2010306%20-%20Exhibiting%20merchant%20mariners%27%20documents.md) | Exhibiting merchant mariners' documents. |
 | [10307\.](%C2%A7%2010307%20-%20Posting%20agreements.md) | Posting agreements. |
 | [10308\.](%C2%A7%2010308%20-%20Foreign%20engagements.md) | Foreign engagements. |
 | [10309\.](%C2%A7%2010309%20-%20Engaging%20seamen%20to%20replace%20those%20lost%20by%20desertion%20or%20casualty.md) | Engaging seamen to replace those lost by desertion or casualty. |
@@ -36,7 +36,7 @@
 - [&sect; 10303 - Provisions](%C2%A7%2010303%20-%20Provisions.md)
 - [&sect; 10304 - Form of agreement](%C2%A7%2010304%20-%20Form%20of%20agreement.md)
 - [&sect; 10305 - Manner of signing agreement](%C2%A7%2010305%20-%20Manner%20of%20signing%20agreement.md)
-- [&sect; 10306 - Exhibiting merchant mariners&#8217; documents](%C2%A7%2010306%20-%20Exhibiting%20merchant%20mariners%E2%80%99%20documents.md)
+- [&sect; 10306 - Exhibiting merchant mariners' documents](%C2%A7%2010306%20-%20Exhibiting%20merchant%20mariners%27%20documents.md)
 - [&sect; 10307 - Posting agreements](%C2%A7%2010307%20-%20Posting%20agreements.md)
 - [&sect; 10308 - Foreign engagements](%C2%A7%2010308%20-%20Foreign%20engagements.md)
 - [&sect; 10309 - Engaging seamen to replace those lost by desertion or casualty](%C2%A7%2010309%20-%20Engaging%20seamen%20to%20replace%20those%20lost%20by%20desertion%20or%20casualty.md)

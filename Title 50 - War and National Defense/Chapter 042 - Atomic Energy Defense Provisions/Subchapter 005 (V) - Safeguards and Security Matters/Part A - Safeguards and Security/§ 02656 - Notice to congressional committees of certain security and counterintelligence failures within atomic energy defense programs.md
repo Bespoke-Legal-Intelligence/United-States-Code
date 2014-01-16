@@ -6,7 +6,7 @@ The Secretary of Energy shall submit to the Committees on Armed Services of the 
 
 #### (b) Significant atomic energy defense intelligence losses
 
-In this section, the term “significant atomic energy defense intelligence loss” means any national security or counterintelligence failure or compromise of classified information at a facility of the Department of Energy or operated by a contractor of the Department that the Secretary considers likely to cause significant harm or damage to the national security interests of the United States.
+In this section, the term "significant atomic energy defense intelligence loss" means any national security or counterintelligence failure or compromise of classified information at a facility of the Department of Energy or operated by a contractor of the Department that the Secretary considers likely to cause significant harm or damage to the national security interests of the United States.
 
 #### (c) Manner of notification
 
@@ -20,9 +20,9 @@ The Secretary of Energy and the Committees on Armed Services of the Senate and H
 
 (1) Nothing in this section shall be construed as authority to withhold any information from the Committees on Armed Services of the Senate and House of Representatives on the grounds that providing the information to those committees would constitute the unauthorized disclosure of classified information, information relating to intelligence sources and methods, or sensitive law enforcement information.
 
-(2) Nothing in this section shall be construed to modify or supersede any other requirement to report information on intelligence activities to the Congress, including the requirement under section 413 of this title for the President to ensure that the congressional intelligence committees are kept fully informed of the intelligence activities of the United States and for those committees to notify promptly other congressional committees of any matter relating to intelligence activities requiring the attention of those committees.
+(2) Nothing in this section shall be construed to modify or supersede any other requirement to report information on intelligence activities to Congress, including the requirement under section 3091 of this title for the President to ensure that the congressional intelligence committees are kept fully informed of the intelligence activities of the United States and for those committees to notify promptly other congressional committees of any matter relating to intelligence activities requiring the attention of those committees.
 
-(Pub. L. 107–314, div. D, title XLV, §4505, formerly Pub. L. 106–65, div. C, title XXXI, §3150, Oct. 5, 1999, 113 Stat. 939; renumbered Pub. L. 107–314, div. D, title XLV, §4505, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(6), Nov. 24, 2003, 117 Stat. 1773; Pub. L. 112–239, div. C, title XXXI, §3131(m)(1), (bb)(1)(D), Jan. 2, 2013, 126 Stat. 2182, 2185.)
+(Pub. L. 107–314, div. D, title XLV, §4505, formerly Pub. L. 106–65, div. C, title XXXI, §3150, Oct. 5, 1999, 113 Stat. 939; renumbered Pub. L. 107–314, div. D, title XLV, §4505, by Pub. L. 108–136, div. C, title XXXI, §3141(h)(6), Nov. 24, 2003, 117 Stat. 1773; Pub. L. 112–239, div. C, title XXXI, §3131(m)(1), (bb)(1)(D), Jan. 2, 2013, 126 Stat. 2182, 2185; Pub. L. 113–66, div. C, title XXXI, §3146(f)(3), Dec. 26, 2013, 127 Stat. 1079.)
 
 #### Codification
 
@@ -30,13 +30,15 @@ Section was formerly classified to section 7383d of Title 42, The Public Health 
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–239, §3131(m)(1)(A), substituted “atomic” for “nuclear” in section catchline.
+<b>2013</b>—Pub. L. 112–239, §3131(m)(1)(A), substituted "atomic" for "nuclear" in section catchline.
 
-Subsec. (a). Pub. L. 112–239, §3131(bb)(1)(D), substituted “Director of National Intelligence” for “Director of Central Intelligence”.
+Subsec. (a). Pub. L. 112–239, §3131(bb)(1)(D), substituted "Director of National Intelligence" for "Director of Central Intelligence".
 
-Pub. L. 112–239, §3131(m)(1)(C), substituted “atomic energy defense” for “nuclear defense”.
+Pub. L. 112–239, §3131(m)(1)(C), substituted "atomic energy defense" for "nuclear defense".
 
-Subsec. (b). Pub. L. 112–239, §3131(m)(1)(B), (C), substituted “atomic energy” for “nuclear” in heading and “atomic energy defense” for “nuclear defense” in text.
+Subsec. (b). Pub. L. 112–239, §3131(m)(1)(B), (C), substituted "atomic energy" for "nuclear" in heading and "atomic energy defense" for "nuclear defense" in text.
 
-Subsec. (c). Pub. L. 112–239, §3131(m)(1)(C), substituted “atomic energy defense” for “nuclear defense”.
+Subsec. (c). Pub. L. 112–239, §3131(m)(1)(C), substituted "atomic energy defense" for "nuclear defense".
+
+Subsec. (e)(2). Pub. L. 113–66 substituted "Congress" for "the Congress".
 

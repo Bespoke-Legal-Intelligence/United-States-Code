@@ -24,9 +24,9 @@
 
 #### Amendments
 
-<b>1998</b>—Subsec. (b). Pub. L. 105–206 substituted “section 7804(c)” for “section 7803(d)”.
+<b>1998</b>—Subsec. (b). Pub. L. 105–206 substituted "section 7804(c)" for "section 7803(d)".
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–418 substituted “or 44” for “44, or 45”.
+<b>1988</b>—Subsec. (a)(1). Pub. L. 100–418 substituted "or 44" for "44, or 45".
 
 <b>1980</b>—Subsec. (a)(1). Pub. L. 96–223 inserted reference to chapter 45.
 

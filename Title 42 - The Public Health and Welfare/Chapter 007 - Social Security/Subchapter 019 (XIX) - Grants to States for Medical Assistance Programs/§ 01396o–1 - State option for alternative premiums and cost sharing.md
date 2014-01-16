@@ -22,11 +22,11 @@
 
 #### (A) Premium
 
-&emsp;&emsp;The term “premium” includes any enrollment fee or similar charge.
+&emsp;&emsp;The term "premium" includes any enrollment fee or similar charge.
 
 #### (B) Cost sharing
 
-&emsp;&emsp;The term “cost sharing” includes any deduction, copayment, or similar charge.
+&emsp;&emsp;The term "cost sharing" includes any deduction, copayment, or similar charge.
 
 #### (b) Limitations on exercise of authority
 
@@ -56,7 +56,7 @@
 
 &emsp;&emsp;No premiums shall be imposed under this section with respect to the following:
 
-&emsp;&emsp;&emsp;(i) Individuals under 18 years of age that are required to be provided medical assistance under section 1396a(a)(10)(A)(i) of this title, and including individuals with respect to whom child welfare services aremade available under part B of subchapter IV on the basis of being a child in foster care and individuals with respect to whom adoption or foster care assistance is made available under part E of such subchapter, without regard to age.
+&emsp;&emsp;&emsp;(i) Individuals under 18 years of age that are required to be provided medical assistance under section 1396a(a)(10)(A)(i) of this title, and including individuals with respect to whom child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care and individuals with respect to whom adoption or foster care assistance is made available under part E of such subchapter, without regard to age.
 
 &emsp;&emsp;&emsp;(ii) Pregnant women.
 
@@ -104,7 +104,7 @@
 
 #### (5) Poverty line defined
 
-&emsp;For purposes of this section, the term “poverty line” has the meaning given such term in section 9902(2) of this title, including any revision required by such section.
+&emsp;For purposes of this section, the term "poverty line" has the meaning given such term in section 9902(2) of this title, including any revision required by such section.
 
 #### (6) Construction
 
@@ -120,7 +120,7 @@
 
 #### (1) In general
 
-&emsp;In order to encourage beneficiaries to use drugs (in this subsection referred to as “preferred drugs”) identified by the State as the most (or more) cost effective prescription drugs within a class of drugs (as defined by the State), with respect to one or more groups of beneficiaries specified by the State, subject to paragraph (2), the State may—
+&emsp;In order to encourage beneficiaries to use drugs (in this subsection referred to as "preferred drugs") identified by the State as the most (or more) cost effective prescription drugs within a class of drugs (as defined by the State), with respect to one or more groups of beneficiaries specified by the State, subject to paragraph (2), the State may—
 
 &emsp;&emsp;(A) provide cost sharing (instead of the level of cost sharing otherwise permitted under section 1396o of this title, but subject to paragraphs (2) and (3)) with respect to drugs that are not preferred drugs within a class; and
 
@@ -174,7 +174,7 @@
 
 #### (B) Notice
 
-&emsp;&emsp;The hospital must inform the beneficiary after receiving an appropriate medical screening examination under section 1395dd of this title and after a determination has been made that the individual does not have an emergency medical condition, but before providing the non-emergency services, of the following:
+&emsp;&emsp;The hospital must inform the beneficiary after receiving an appropriate medical screening examination under section 1395ddof this title and after a determination has been made that the individual does not have an emergency medical condition, but before providing the non-emergency services, of the following:
 
 &emsp;&emsp;&emsp;(i) The hospital may require the payment of the State specified cost sharing before the service can be provided.
 
@@ -214,63 +214,63 @@
 
 #### (A) Non-emergency services
 
-&emsp;&emsp;The term “non-emergency services” means any care or services furnished in an emergency department of a hospital that do not constitute an appropriate medical screening examination or stabilizing examination and treatment required to be provided by the hospital under section 1395dd of this title.
+&emsp;&emsp;The term "non-emergency services" means any care or services furnished in an emergency department of a hospital that do not constitute an appropriate medical screening examination or stabilizing examination and treatment required to be provided by the hospital under section 1395dd of this title.
 
 #### (B) Alternate non-emergency services provider
 
-&emsp;&emsp;The term “alternative non-emergency services provider” means, with respect to non-emergency services for the diagnosis or treatment of a condition, a health care provider, such as a physician's office, health care clinic, community health center, hospital outpatient department, or similar health care provider, that can provide clinically appropriate services for the diagnosis or treatment of a condition contemporaneously with the provision of the non-emergency services that would be provided in an emergency department of a hospital for the diagnosis or treatment of a condition, and that is participating in the program under this subchapter.
+&emsp;&emsp;The term "alternative non-emergency services provider" means, with respect to non-emergency services for the diagnosis or treatment of a condition, a health care provider, such as a physician's office, health care clinic, community health center, hospital outpatient department, or similar health care provider, that can provide clinically appropriate services for the diagnosis or treatment of a condition contemporaneously with the provision of the non-emergency services that would be provided in an emergency department of a hospital for the diagnosis or treatment of a condition, and that is participating in the program under this subchapter.
 
 (Aug. 14, 1935, ch. 531, title XIX, §1916A, as added and amended Pub. L. 109–171, title VI, §§6041(a), 6042(a), 6043(a), Feb. 8, 2006, 120 Stat. 81, 85, 86; Pub. L. 109–432, div. B, title IV, §405(a)(1)–(5), Dec. 20, 2006, 120 Stat. 2996–2998; Pub. L. 111–5, div. B, title V, §5006(a)(2), Feb. 17, 2009, 123 Stat. 506; Pub. L. 111–148, title II, §2102(b), title IV, §4107(c)(2), Mar. 23, 2010, 124 Stat. 289, 561.)
 
 #### Amendments
 
-<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §2102(b), substituted “, (i), or (j)” for “or (i)”.
+<b>2010</b>—Subsec. (a)(1). Pub. L. 111–148, §2102(b), substituted ", (i), or (j)" for "or (i)".
 
-Subsec. (b)(3)(B)(iii). Pub. L. 111–148, §4107(c)(2), inserted “, and counseling and pharmacotherapy for cessation of tobacco use by pregnant women (as defined in section 1396d(bb) of this title)” after “complicate the pregnancy”.
+Subsec. (b)(3)(B)(iii). Pub. L. 111–148, §4107(c)(2), inserted ", and counseling and pharmacotherapy for cessation of tobacco use by pregnant women (as defined in section 1396d(bb) of this title)" after "complicate the pregnancy".
 
 <b>2009</b>—Subsec. (b)(3)(A)(vii). Pub. L. 111–5, §5006(a)(2)(A), added cl. (vii).
 
 Subsec. (b)(3)(B)(x). Pub. L. 111–5, §5006(a)(2)(B), added cl. (x).
 
-<b>2006</b>—Subsec. (a)(1). Pub. L. 109–432, §405(a)(3)(A), substituted “subsection (g) or (i) of section 1396o” for “section 1396o(g)” in second sentence.
+<b>2006</b>—Subsec. (a)(1). Pub. L. 109–432, §405(a)(3)(A), substituted "subsection (g) or (i) of section 1396o" for "section 1396o(g)" in second sentence.
 
-Pub. L. 109–432, §405(a)(1)(A), inserted “but subject to paragraph (2),” after “1396a(a)(10)(B) of this title,” and “and non-emergency services furnished in a hospital emergency department for which cost sharing may be imposed under subsection (e)” after “subsection (c)”.
+Pub. L. 109–432, §405(a)(1)(A), inserted "but subject to paragraph (2)," after "1396a(a)(10)(B) of this title," and "and non-emergency services furnished in a hospital emergency department for which cost sharing may be imposed under subsection (e)" after "subsection (c)".
 
 Subsec. (a)(2), (3). Pub. L. 109–432, §405(a)(1)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
-Subsec. (b)(1), (2). Pub. L. 109–432, §405(a)(2)(A), struck out “, subject to subsections (c)(2) and (e)(2)(A)” after “involved” in introductory provisions.
+Subsec. (b)(1), (2). Pub. L. 109–432, §405(a)(2)(A), struck out ", subject to subsections (c)(2) and (e)(2)(A)" after "involved" in introductory provisions.
 
-Subsec. (b)(3)(A)(i). Pub. L. 109–432, §405(a)(4)(A), substituted “child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care” for “aid or assistance is made available under part B of subchapter IV to children in foster care”.
+Subsec. (b)(3)(A)(i). Pub. L. 109–432, §405(a)(4)(A), substituted "child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care" for "aid or assistance is madeavailable under part B of subchapter IV to children in foster care".
 
 Subsec. (b)(3)(A)(vi). Pub. L. 109–432, §405(a)(3)(B)(i), added cl. (vi).
 
-Subsec. (b)(3)(B)(i). Pub. L. 109–432, §405(a)(4)(B), substituted “child welfare services are made available under part B of subchapter IV on the basis of being achild in foster care or” for “aid or assistance is made available under part B of subchapter IV to children in foster care”.
+Subsec. (b)(3)(B)(i). Pub. L. 109–432, §405(a)(4)(B), substituted "child welfare services are made available under part B of subchapter IV on the basis of being a child in foster care or" for "aid or assistance is made available under part B of subchapter IV to children in foster care".
 
 Subsec. (b)(3)(B)(ix). Pub. L. 109–432, §405(a)(3)(B)(ii), added cl. (ix).
 
 Subsec. (c). Pub. L. 109–171, §6042(a), added subsec. (c).
 
-Subsec. (c)(1). Pub. L. 109–432, §405(a)(2)(B), substituted “most (or more) cost effective” for “least (or less) costly effective” in introductory provisions.
+Subsec. (c)(1). Pub. L. 109–432, §405(a)(2)(B), substituted "most (or more) cost effective" for "least (or less) costly effective" in introductory provisions.
 
-Subsec. (c)(1)(B). Pub. L. 109–432, §405(a)(2)(C), substituted “be imposed under subsection (a) due to the application of” for “otherwise be imposed under”.
+Subsec. (c)(1)(B). Pub. L. 109–432, §405(a)(2)(C), substituted "be imposed under subsection (a) due to the application of" for "otherwise be imposed under".
 
-Subsec. (c)(2)(B). Pub. L. 109–432, §405(a)(2)(D), substituted “not subject to cost sharing under subsection (a) due to the application of paragraph (1)(B)” for “otherwise not subject to cost sharing due to the application of subsection (b)(3)(B)”.
+Subsec. (c)(2)(B). Pub. L. 109–432, §405(a)(2)(D), substituted "not subject to cost sharing under subsection (a) due to the application of paragraph (1)(B)" for "otherwise not subject to cost sharing due to the application of subsection (b)(3)(B)".
 
-Subsec. (c)(2)(C). Pub. L. 109–432, §405(a)(1)(D), inserted “under subsection (a)(2)(B) or” after “cost sharing applied”.
+Subsec. (c)(2)(C). Pub. L. 109–432, §405(a)(1)(D), inserted "under subsection (a)(2)(B) or" after "cost sharing applied".
 
 Subsec. (e). Pub. L. 109–171, §6043(a), added subsec. (e).
 
-Subsec. (e)(2)(A). Pub. L. 109–432, §405(a)(2)(E), substituted “Individuals with family income between 100 and 150 percent of the poverty line” for “For poorest beneficiaries” in heading and “under subsection (b)(1)(B)(ii)” for “under subsection (b)(1)” in text.
+Subsec. (e)(2)(A). Pub. L. 109–432, §405(a)(2)(E), substituted "Individuals with family income between 100 and 150 percent of the poverty line" for "For poorest beneficiaries" in heading and "under subsection (b)(1)(B)(ii)" for "under subsection (b)(1)" in text.
 
-Pub. L. 109–432, §405(a)(1)(E), inserted “who is not described in subparagraph (B)” after “in subsection (b)(1)”.
+Pub. L. 109–432, §405(a)(1)(E), inserted "who is not described in subparagraph (B)" after "in subsection (b)(1)".
 
-Subsec. (e)(2)(B). Pub. L. 109–432, §405(a)(2)(F), substituted “described in subsection (a)(2)(A) or who is not subject to cost sharing under subsection (b)(3)(B) with respect to non-emergency services described in paragraph (1)” for “who is otherwise not subject to cost sharing under subsection (b)(3)”.
+Subsec. (e)(2)(B). Pub. L. 109–432, §405(a)(2)(F), substituted "described in subsection (a)(2)(A) or who is not subject to cost sharing under subsection (b)(3)(B) with respect to non-emergency services described in paragraph (1)" for "who is otherwise not subject to cost sharing under subsection (b)(3)".
 
-Subsec. (e)(2)(C). Pub. L. 109–432, §405(a)(2)(G), inserted “or section 1396o of this title” after “subsection (a)”.
+Subsec. (e)(2)(C). Pub. L. 109–432, §405(a)(2)(G), inserted "or section 1396o of this title" after "subsection (a)".
 
-Pub. L. 109–432, §405(a)(1)(D), inserted “under subsection (a)(2)(B) or” after “cost sharing applied”.
+Pub. L. 109–432, §405(a)(1)(D), inserted "under subsection (a)(2)(B) or" after "cost sharing applied".
 
-Subsec. (e)(4)(A). Pub. L. 109–432, §405(a)(5), struck out “the physician determines” after “a hospital that”.
+Subsec. (e)(4)(A). Pub. L. 109–432, §405(a)(5), struck out "the physician determines" after "a hospital that".
 
 #### Effective Date of 2010 Amendment
 
@@ -284,9 +284,9 @@ Amendment by Pub. L. 111–5 effective July 1, 2009, see section 5006(f) of Pub.
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. B, title IV, §405(a)(6), Dec. 20, 2006, 120 Stat. 2998, provided that: “The amendments made by this subsection \[amending this section\] shall take effect as if included in the amendments made by sections \[sic\] 6041(a) of the Deficit Reduction Act of 2005 \[Pub. L. 109–171\], except that insofar as such amendments are to, or relate to, subsection (c) or (e) of section 1916A of the Social Security Act \[this section\], such amendments shall take effect as if included in the amendments made by section 6042 or 6043, respectively, of the Deficit Reduction Act of 2005 \[Pub. L. 109–171\].”
+Pub. L. 109–432, div. B, title IV, §405(a)(6), Dec. 20, 2006, 120 Stat. 2998, provided that: "The amendments made by this subsection \[amending this section\] shall take effect as if included in the amendments made by sections \[sic\] 6041(a) of the Deficit Reduction Act of 2005 \[Pub. L. 109–171\], except that insofar as such amendments are to, or relate to, subsection (c) or (e) of section 1916A of the Social Security Act \[42 U.S.C. 1396o–1\], such amendments shall take effect as if included in the amendments made by section 6042 or 6043, respectively, of the Deficit Reduction Act of 2005 \[Pub. L. 109–171\]."
 
-Pub. L. 109–171, title VI, §6042(b), Feb. 8, 2006, 120 Stat. 86, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to cost sharing imposed for items and services furnished on or after March 31, 2006.”
+Pub. L. 109–171, title VI, §6042(b), Feb. 8, 2006, 120 Stat. 86, provided that: "The amendment made by subsection (a) \[amending this section\] shall apply to cost sharing imposed for items and services furnished on or after March 31, 2006."
 
 Amendment by section 6043(a) of Pub. L. 109–171 applicable to non-emergency services furnished on or after Jan. 1, 2007, see section 6043(c) of Pub. L. 109–171, set out as a note under section 1396b of this title.
 

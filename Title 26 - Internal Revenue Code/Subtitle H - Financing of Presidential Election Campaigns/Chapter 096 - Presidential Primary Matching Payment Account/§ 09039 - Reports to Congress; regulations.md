@@ -2,7 +2,7 @@
 
 #### (a) Reports
 
-The Commission shall, as soon as practicable after each matching payment period, submit a full report to the Senate and House of Representatives setting forth—
+The Commission shall, as soon as practicable after each matching payment period, submit afull report to the Senate and House of Representatives setting forth—
 
 &emsp;(1) the qualified campaign expenses (shown in such detail as the Commission determines necessary) incurred by the candidates of each political party and their authorized committees,
 
@@ -22,9 +22,9 @@ The Commission is authorized to prescribe rules and regulations in accordance wi
 
 (2) If either such House does not, through appropriate action, disapprove the proposed rule or regulation set forth in such statement no later than 30 legislative days after receipt of such statement, then the Commission may prescribe such rule or regulation. Whenever a committee of the House of Representatives reports any resolution relating to any such rule or regulation, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to. The Commission may not prescribe any rule or regulation which is disapproved by either such House under this paragraph.
 
-(3) For purposes of this subsection, the term “legislative days” does not include any calendar day on which both Houses of the Congress are not in session.
+(3) For purposes of this subsection, the term "legislative days" does not include any calendar day on which both Houses of the Congress are not in session.
 
-(4) For purposes of this subsection, the term “rule or regulation” means a provision or series of interrelated provisions stating a single separable rule of law.
+(4) For purposes of this subsection, the term "rule or regulation" means a provision or series of interrelated provisions stating a single separable rule of law.
 
 (Added Pub. L. 93–443, title IV, §408(c), Oct. 15, 1974, 88 Stat. 1301; amended Pub. L. 94–283, title III, §304(b), May 11, 1976, 90 Stat. 499.)
 
@@ -36,5 +36,5 @@ Subsec. (c)(4). Pub. L. 94–283, §304(b)(2), added par. (4).
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of reporting provisions in subsec. (a) of this section, see section 3003of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 168 of House Document No. 103–7.
+For termination, effective May 15, 2000, of reporting provisions in subsec. (a) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 168 of House Document No. 103–7.
 

@@ -24,7 +24,7 @@
 
 > then the amount available for transfer to such State's account shall, in lieu of being so transferred, be transferred to the Federal unemployment account as of the beginning of such October 1. If, during the fiscal year beginning on such October 1, the Secretary of Labor finds and certifies to the Secretary of the Treasury that such State is eligible for certification under section 503 of this title, that the law of such State is approvable under such section 3304, or both, the Secretary of the Treasury shall transfer such amount from the Federal unemployment account to the account of such State. If the Secretary of Labor does not so find and certify to the Secretary of the Treasury before the close of such fiscal year then the amount which was available for transfer to such State's account as of October 1 of such fiscal year shall (as of the close of such fiscal year) become unrestricted as to use as part of the Federal unemployment account.
 
-(2) The amount which, but for this paragraph, would be transferred to the account of a State under subsection (a) of this section or paragraph (1) of this subsection shall be reduced (but not below zero) by the balance of advances made to the State under section 1321 of this title. The sum by which such amount is reduced shall—
+(2) The amount which, but for this paragraph, would be transferred to the account of a State under subsection (a) of this section or paragraph\(1) of this subsection shall be reduced (but not below zero) by the balance of advances made to the State under section 1321 of this title. The sum by which such amount is reduced shall—
 
 &emsp;(A) be transferred to or retained in (as the case may be) the Federal unemployment account, and
 
@@ -118,7 +118,7 @@
 
 (D) Amounts transferred to a State account under this subsection may be used in the payment of cash benefits to individuals only for weeks of unemployment beginning after March 9, 2002.
 
-(4) Amounts transferred to a State account under this subsection may be used for the administration of its unemployment compensation law and public employment offices (including in connection with benefits described in paragraph (3) and any recipients thereof), subject to the same conditions as set forth in subsection (c)(2) of this section (excluding subparagraph (B) thereof, and deeming the reference to “subsections (a) and (b)” in subparagraph (D) thereof to include this subsection).
+(4) Amounts transferred to a State account under this subsection may be used for the administration of its unemployment compensation law and public employment offices (including in connection with benefits described in paragraph (3) and any recipients thereof), subject to the same conditions as set forth in subsection (c)(2) of this section (excluding subparagraph (B) thereof, and deeming the reference to "subsections (a) and (b)" in subparagraph (D) thereof to include this subsection).
 
 (5) Transfers under this subsection shall be made within 10 days after March 9, 2002.
 
@@ -134,7 +134,7 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 #### (f) Special transfers in fiscal years 2009, 2010, and 2011 for modernization
 
-(1)(A) In addition to any other amounts, the Secretary of Labor shall provide for the making of unemployment compensation modernization incentive payments (hereinafter “incentive payments”) to the accounts of the States in the Unemployment Trust Fund, by transfer from amounts reserved for that purpose in the Federal unemployment account, in accordance with succeeding provisions of this subsection.
+(1)(A) In addition to any other amounts, the Secretary of Labor shall provide for the making of unemployment compensation modernization incentive payments (hereinafter "incentive payments") to the accounts of the States in the Unemployment Trust Fund, by transfer from amounts reserved for that purpose in the Federal unemployment account, in accordance with succeeding provisions of this subsection.
 
 (B) The maximum incentive payment allowable under this subsection with respect to any State shall, as determined by the Secretary of Labor, be equal to the amount obtained by multiplying $7,000,000,000 by the same ratio as would apply under subsection (a)(2)(B) for purposes of determining such State's share of any excess amount (as described in subsection (a)(1)) that would have been subject to transfer to State accounts, as of October 1, 2008, under the provisions of subsection (a).
 
@@ -148,15 +148,15 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 &emsp;(A) uses a base period that includes the most recently completed calendar quarter before the start of the benefit year for purposes of determining eligibility for unemployment compensation; or
 
-&emsp;(B) provides that, in the case of an individual who would not otherwise be eligible for unemployment compensation under the State law because of the use of a base period that does not include the most recently completed calendar quarter before the start of the benefityear, eligibility shall be determined using a base period that includes such calendar quarter.
+&emsp;(B) provides that, in the case of an individual who would not otherwise be eligible for unemployment compensation under the State law because of the use of a base period that does not include the most recently completed calendar quarter before the start of the benefit year, eligibility shall be determined using a base period that includes such calendar quarter.
 
 (3) The State law of a State meets the requirements of this paragraph if such State law includes provisions to carry out at least 2 of the following subparagraphs:
 
 &emsp;(A) An individual shall not be denied regular unemployment compensation under any State law provisions relating to availability for work, active search for work, or refusal to accept work, solely because such individual is seeking only part-time work (as defined by the Secretary of Labor), except that the State law provisions carrying out this subparagraph may exclude an individual if a majority of the weeks of work in such individual's base period do not include part-time work (as so defined).
 
-&emsp;(B) An individual shall not be disqualified from regular unemployment compensation for separating from employment if that separation is for any compelling family reason. For purposes of this subparagraph, the term “compelling family reason” means the following:
+&emsp;(B) An individual shall not be disqualified from regular unemployment compensation for separating from employment if that separation is for any compelling family reason. For purposes of this subparagraph, the term "compelling family reason" means the following:
 
-&emsp;&emsp;(i) One or both of the following offenses as selected by the State, but in making such selection, the resulting change in the State law shall not supercede any other provision of law relating to unemployment insurance to the extent that such other provision provides broader access to unemployment benefits for victims of such selected offense or offenses:
+&emsp;&emsp;(i) One or both of the following offenses as selected by the State, but in making such selection, the resulting change in the State law shall not supercede any other provisionof law relating to unemployment insurance to the extent that such other provision provides broader access to unemployment benefits for victims of such selected offense or offenses:
 
 &emsp;&emsp;&emsp;(I) Domestic violence, verified by such reasonable and confidential documentation as the State law may require, which causes the individual reasonably to believe that such individual's continued employment would jeopardize the safety of the individual or of any member of the individual's immediate family (as defined by the Secretary of Labor); and
 
@@ -176,17 +176,17 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 &emsp;(iii) The amount of unemployment compensation payable under this subparagraph to an individual for a week of unemployment shall be equal to—
 
-&emsp;&emsp;(I) the individual's average weekly benefit amount (including dependents’ allowances) for the most recent benefit year, less
+&emsp;&emsp;(I) the individual's average weekly benefit amount (including dependents' allowances) for the most recent benefit year, less
 
 &emsp;&emsp;(II) any deductible income, as determined under State law.
 
-> &emsp;The total amount of unemployment compensation payable under this subparagraph to any individual shall be equal to at least 26 times the individual's average weekly benefit amount (including dependents’ allowances) for the most recent benefit year.
+> &emsp;The total amount of unemployment compensation payable under this subparagraph to any individual shall be equal to at least 26 times the individual's average weekly benefit amount (including dependents' allowances) for the most recent benefit year.
 
-&emsp;(D) Dependents’ allowances are provided, in the case of any individual who is entitled to receive regular unemployment compensation and who has any dependents (as defined by State law), in an amount equal to at least $15 per dependent per week, subject to any aggregate limitation on such allowances which the State law may establish (but which aggregate limitation on the total allowance for dependents paid to an individual may not be less than $50 for each week of unemployment or 50 percent of the individual's weekly benefit amount for the benefit year, whichever is less), except that a State law may provide for a reasonable reduction in the amount of any such allowance for a week of less than total unemployment.
+&emsp;(D) Dependents' allowances are provided, in the case of any individual who is entitled to receive regular unemployment compensation and who has any dependents (as defined by State law), in an amount equal to at least $15 per dependent per week, subject to any aggregate limitation on such allowances which the State law may establish (but which aggregate limitation on the total allowance for dependents paid to an individual may not be less than $50 for each week of unemployment or 50 percent of the individual's weekly benefit amount for the benefit year, whichever is less), except that a State law may provide for a reasonable reduction in the amount of any such allowance for a week of less than total unemployment.
 
 (4)(A) Any State seeking an incentive payment under this subsection shall submit an application therefor at such time, in such manner, and complete with such information as the Secretary of Labor may within 60 days after February 17, 2009, prescribe (whether by regulation or otherwise), including information relating to compliance with the requirements of paragraph (2) or (3), as well as how the State intends to use the incentive payment to improve or strengthen the State's unemployment compensation program. The Secretary of Labor shall, within 30 days after receiving a complete application, notify the State agency of the State of the Secretary's findings with respect to the requirements of paragraph (2) or (3) (or both).
 
-(B)(i) If the Secretary of Labor finds that the State law provisions (disregarding any State law provisions which are not then currently in effect as permanent law or which are subject to discontinuation) meet the requirements of paragraph (2) or (3), as the case may be, the Secretary of Labor shall thereupon make a certification to that effect to the Secretary of the Treasury, together with a certification as to theamount of the incentive payment to be transferred to the State account pursuant to that finding. The Secretary of the Treasury shall make the appropriate transfer within 7 days after receiving such certification.
+(B)(i) If the Secretary of Labor finds that the State law provisions (disregarding any State law provisions which are not then currently in effect as permanent law or which are subject to discontinuation) meet the requirements of paragraph (2) or (3), as the case may be, the Secretary of Labor shall thereupon make a certification to that effect to the Secretary of the Treasury, together with a certification as to the amount of the incentive payment to be transferred to the State account pursuant to that finding. The Secretary of the Treasury shall make the appropriate transfer within 7 days after receiving such certification.
 
 (ii) For purposes of clause (i), State law provisions which are to take effect within 12 months after the date of their certification under this subparagraph shall be considered to be in effect as of the date of such certification.
 
@@ -196,13 +196,13 @@ Not later than 10 days after October 20, 2005, the Secretary of the Treasury sha
 
 (iii) No application under subparagraph (A) may be considered if submitted before February 17, 2009, or after the latest date necessary (as specified by the Secretary of Labor) to ensure that all incentive payments under this subsection are made before October 1, 2011.
 
-(5)(A) Except as provided in subparagraph (B), any amount transferred to the account of a State under this subsection may be used by such State only in the payment of cash benefits to individuals with respect to their unemployment (including for dependents’ allowances and for unemployment compensation under paragraph (3)(C)), exclusive of expenses of administration.
+(5)(A) Except as provided in subparagraph (B), any amount transferred to the account of aState under this subsection may be used by such State only in the payment of cash benefits to individuals with respect to their unemployment (including for dependents' allowances and for unemployment compensation under paragraph (3)(C)), exclusive of expenses of administration.
 
-(B) A State may, subject to the same conditions as set forth in subsection (c)(2) (excluding subparagraph (B) thereof, and deeming the reference to “subsections (a) and (b)” in subparagraph (D) thereof to include this subsection), use any amount transferred to the account of such State under this subsection for the administration of its unemployment compensation law and public employment offices.
+(B) A State may, subject to the same conditions as set forth in subsection (c)(2) (excluding subparagraph (B) thereof, and deeming the reference to "subsections (a) and (b)" in subparagraph (D) thereof to include this subsection), use any amount transferred to the account of such State under this subsection for the administration of its unemployment compensation law and public employment offices.
 
 (6) Out of any money in the Federal unemployment account not otherwise appropriated, the Secretary of the Treasury shall reserve $7,000,000,000 for incentive payments under this subsection. Any amount so reserved shall not be taken into account for purposes of any determination under section 1102, 1110, or 1323 of this title of the amount in the Federal unemployment account as of any given time. Any amount so reserved for which the Secretary of the Treasury has not received a certification under paragraph (4)(B) by the deadline described in paragraph (4)(C)(iii) shall, upon the close of fiscal year 2011, become unrestricted as to use as part of the Federal unemployment account.
 
-(7) For purposes of this subsection, the terms “benefit year”, “base period”, and “week” have the respective meanings given such terms under section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note).
+(7) For purposes of this subsection, the terms "benefit year", "base period", and "week" have the respective meanings given such terms under section 205 of the Federal-State Extended Unemployment Compensation Act of 1970 (26 U.S.C. 3304 note).
 
 #### (g) Special transfer in fiscal year 2009 for administration
 
@@ -230,7 +230,7 @@ The Temporary Extended Unemployment Compensation Act of 2002, referred to in sub
 
 Section 5402 of Public Law 105–33, referred to in subsec. (d)(2)(A)(i)(II), is section 5402 of Pub. L. 105–33, title V, Aug. 5, 1997, 111 Stat. 603, which amended section 1102 of this title and enacted provisions set out as a note under section 1102 of this title.
 
-The Workforce Investment Act of 1998, referred to in subsec. (f)(3)(C)(i), is Pub. L. 105–220, Aug. 7, 1998, 112Stat. 936. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (f)(3)(C)(i), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 Section 205 of the Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (f)(7), is section 205 of Pub. L. 91–373, which is set out as a note under section 3304 of Title 26, Internal Revenue Code.
 
@@ -242,7 +242,7 @@ A prior section 1103, act Aug. 14, 1935, ch. 531, title IX, §903, 49 Stat. 640,
 
 <b>2009</b>—Subsec. (f). Pub. L. 111–5 added subsec. (f).
 
-Subsec. (f)(3)(B)(i). Pub. L. 111–92 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “Domestic violence, verified by such reasonable and confidential documentation as the State law may require, which causes the individual reasonably to believe that such individual's continued employment would jeopardize the safety of the individual or of any member of the individual's immediate family (as defined by the Secretary of Labor).”
+Subsec. (f)(3)(B)(i). Pub. L. 111–92 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: "Domestic violence, verified by such reasonable and confidential documentation as the State law may require, which causes the individual reasonably to believe that such individual's continued employment would jeopardize the safety of the individual or of any member of the individual's immediate family (as defined by the Secretary of Labor)."
 
 Subsec. (g). Pub. L. 111–5 added subsec. (g).
 
@@ -250,7 +250,7 @@ Subsec. (g). Pub. L. 111–5 added subsec. (g).
 
 <b>2002</b>—Subsec. (a)(3). Pub. L. 107–147, §209(a)(1)(A), struck out par. (3) which related to disposition of excess amounts remaining in the employment security administration account as of the close of fiscal year 1999, 2000, or 2001.
 
-Subsec. (c)(2). Pub. L. 107–147, §209(a)(1)(B), struck out concluding provisions which read as follows: “Any amount allocated to a State under this section for fiscal year 2000, 2001, or 2002 may be used by such State only to pay expenses incurred by it for the administration of its unemployment compensation law, and may be so used by it without regard to any of the conditions prescribed in any of the preceding provisions of this paragraph.”
+Subsec. (c)(2). Pub. L. 107–147, §209(a)(1)(B), struck out concluding provisions which read as follows: "Anyamount allocated to a State under this section for fiscal year 2000, 2001, or 2002 may be used by such State only to pay expenses incurred by it for the administration of its unemployment compensation law, and may be so used by it without regard to any of the conditions prescribed in any of the preceding provisions of this paragraph."
 
 Subsec. (d). Pub. L. 107–147, §209(b), added subsec. (d).
 
@@ -258,27 +258,27 @@ Subsec. (d). Pub. L. 107–147, §209(b), added subsec. (d).
 
 Subsec. (c)(2). Pub. L. 105–33, §5403(b), inserted concluding provisions.
 
-<b>1990</b>—Subsec. (a)(2). Pub. L. 101–508, §5021(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Each State's share of the funds to be transferred under this subsection as of any October 1—
+<b>1990</b>—Subsec. (a)(2). Pub. L. 101–508, §5021(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: "Each State's share of the funds to be transferred under this subsection as of any October 1—
 
-&emsp;“(A) shall be determined by the Secretary of Labor and certified by him to the Secretary of the Treasury before that date on the basis of reports furnished by the States to the Secretary of Labor before September 1, and
+&emsp;"(A) shall be determined by the Secretary of Labor and certified by him to the Secretary of the Treasury before that date on the basis of reports furnished by the States to the Secretary of Labor before September 1, and
 
-&emsp;“(B) shall bear the same ratio to the total amount to be so transferred as the amount of wages subject to contributions under such State's unemployment compensation law during the preceding calendar year which have been reported to the State before August 1 bears to the total of wages subject to contributions under all State unemployment compensation laws during such calendar year which have been reported to the States before August 1.”
+&emsp;"(B) shall bear the same ratio to the total amount to be so transferred as the amount of wages subject to contributions under such State's unemployment compensation law during the preceding calendar year which have been reported to the State before August 1 bears to the total of wages subject to contributions under all State unemployment compensation laws during such calendar year which have been reported to the States before August 1."
 
 Subsec. (c)(2). Pub. L. 101–508, §5021(b), added subpars. (D) and (E) and struck out former subpar. (D) and last sentence which required a State's appropriation law to limit the total amount which may be obligated during a twelve-month or transitional period from its account.
 
-<b>1987</b>—Subsec. (a)(1). Pub. L. 100–203 inserted “and interest” after “all advances”.
+<b>1987</b>—Subsec. (a)(1). Pub. L. 100–203 inserted "and interest" after "all advances".
 
-<b>1982</b>—Subsec. (c)(2). Pub. L. 97–248, §192(a), substituted “thirty-four” for “twenty-four” wherever appearing, and “thirty-fourth” for “twenty-fourth” in provisions following subpar. (D).
+<b>1982</b>—Subsec. (c)(2). Pub. L. 97–248, §192(a), substituted "thirty-four" for "twenty-four" wherever appearing, and "thirty-fourth" for "twenty-fourth" in provisions following subpar. (D).
 
 Subsec. (c)(3). Pub. L. 97–248, §192(b), added par. (3).
 
-<b>1976</b>—Subsec. (a)(2). Pub. L. 94–273, §3(23) substituted “October” for “July”.
+<b>1976</b>—Subsec. (a)(2). Pub. L. 94–273, §3(23) substituted "October" for "July".
 
-Subsec. (a)(2)(A). Pub. L. 94–273, §2(20), substituted “September” for “June”.
+Subsec. (a)(2)(A). Pub. L. 94–273, §2(20), substituted "September" for "June".
 
-Subsec. (a)(2)(B). Pub. L. 94–273, §23, substituted “August” for “May” wherever appearing.
+Subsec. (a)(2)(B). Pub. L. 94–273, §23, substituted "August" for "May" wherever appearing.
 
-Subsec. (b)(1). Pub. L. 94–273, §3(23), substituted “October” for “July”.
+Subsec. (b)(1). Pub. L. 94–273, §3(23), substituted "October" for "July".
 
 Subsec. (c)(2). Pub. L. 94–273, §41, in subpar. (D) and provisions following subpar. (D) substituted provisions relating to determination based on a twelve-month period (as prescribed in the law of the State), or during a transitional period of less than twelve months caused by a change in the twelve-month period (as prescribed in the law of the State), for provisions relating to determination based on a fiscal year period.
 
@@ -288,35 +288,35 @@ Subsec. (c)(2). Pub. L. 94–273, §41, in subpar. (D) and provisions following 
 
 <b>1971</b>—Subsec. (b)(3). Pub. L. 92–224, §204(c), added par. (3).
 
-Subsec. (c)(2). Pub. L. 92–224, §1, substituted “twenty-four preceding fiscal years” and “such twenty-five fiscal years” for “fourteen preceding fiscal years” and “such fifteen fiscal years” in subpar. (D) of first sentence and “twenty-fourth preceding fiscal year” for “fourteenth preceding fiscal year” in second sentence.
+Subsec. (c)(2). Pub. L. 92–224, §1, substituted "twenty-four preceding fiscal years" and "such twenty-five fiscal years" for "fourteen preceding fiscal years" and "such fifteen fiscal years" in subpar. (D) of first sentence and "twenty-fourth preceding fiscal year" for "fourteenth preceding fiscal year" in second sentence.
 
 <b>1970</b>—Subsec. (a)(1). Pub. L. 91–373 inserted references to the limits provided in sections 1102(a) and 1105(b)(2) of this title, advances pursuant to section 1105(d) of this title, and the amount provided in section 1101(f)(3)(A) of this title.
 
-<b>1968</b>—Subsec. (c). Pub. L. 90–430 substituted in par. (2)(D)(i) “fourteen” for “nine”, in par. (2)(D)(ii) “fifteen” for “ten”, and in provisions following par. (2)(D) “fourteenth” for “ninth”.
+<b>1968</b>—Subsec. (c). Pub. L. 90–430 substituted in par. (2)(D)(i) "fourteen" for "nine", in par. (2)(D)(ii) "fifteen" for "ten", and in provisions following par. (2)(D) "fourteenth" for "ninth".
 
-<b>1963</b>—Subsec. (c)(2). Pub. L. 88–31 substituted “nine preceding fiscal years” for “four preceding fiscal years”, “ten fiscal years” for “five fiscal years” in cl. (D), and “ninth preceding fiscal year” for “fourth preceding fiscal year” in last sentence.
+<b>1963</b>—Subsec. (c)(2). Pub. L. 88–31 substituted "nine preceding fiscal years" for "four preceding fiscal years", "ten fiscal years" for "five fiscal years" in cl. (D), and "ninth preceding fiscal year" for "fourth preceding fiscal year" in last sentence.
 
-<b>1960</b>—Subsec. (a). Pub. L. 86–778 substituted provisions of par. (1) for first sentence of the section which read “So much of any amount transferred to the Unemployment Trust Fund at the close of any fiscal year under section 1101(a) of this title as is not credited to the Federal unemployment account under section 1102 of this title shall be credited (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund” and designated existing provisions of second sentence as part (2), substituting “transferred” for “credited”, and striking out “on or” before “before” in subpar. (A).
+<b>1960</b>—Subsec. (a). Pub. L. 86–778 substituted provisions of par. (1) for first sentence of the section which read "So much of any amount transferred to the Unemployment Trust Fund at the close of any fiscal year under section 1101(a) of this title as is not credited to the Federal unemployment account under section 1102 of this title shall be credited (as of the beginning of the succeeding fiscal year) to the accounts of the States in the Unemployment Trust Fund" and designated existing provisions of second sentence as part (2), substituting "transferred" for "credited", and striking out "on or" before "before" in subpar. (A).
 
-Subsec. (b). Pub. L. 86–778 redesignated existing provisions as par. (1) and cls. (1) and (2) thereof as subpars. (A) and (B), substituted “section 3304 of title 26” for “section 1603 of title 26”, in two places, and “transfer to such States’ account”, “transferred”, and “transfer” for “crediting to such States’ account”, “credited” and “credit”, respectively, except where already reading “shall transfer”, and added par. (2).
+Subsec. (b). Pub. L. 86–778 redesignated existing provisions as par. (1) and cls. (1) and (2) thereof as subpars. (A) and (B), substituted "section 3304 of title 26" for "section 1603 of title 26", in two places, and "transfer to such States' account", "transferred", and "transfer" for "crediting to such States' account", "credited" and "credit", respectively, except where already reading "shall transfer", and added par. (2).
 
-Subsec. (c). Pub. L. 86–778 substituted “transferred” for “credited”, wherever appearing, “obligation” for “expenditure” in par. (2)(B), “obligated” for “so used” in par. (2)(D), and “obligated for administration” for “used” in concluding par., inserted references to subsection (b) in pars. (1) and (2)(D), and struck out “any of” before “such five fiscal years” in par. (2)(D).
+Subsec. (c). Pub. L. 86–778 substituted "transferred" for "credited", wherever appearing, "obligation" for "expenditure" in par. (2)(B), "obligated" for "so used" in par. (2)(D), and "obligated for administration" for "used" in concluding par., inserted references to subsection (b) in pars. (1) and (2)(D), and struck out "any of" before "such five fiscal years" in par. (2)(D).
 
 #### Effective Date of 2009 Amendment
 
-Pub. L. 111–92, §7(b), Nov. 6, 2009, 123 Stat. 2988, provided that: “The amendment made by this section \[amending this section\] shall apply with respect to State applications submitted on and after January 1, 2010.”
+Pub. L. 111–92, §7(b), Nov. 6, 2009, 123 Stat. 2988, provided that: "The amendment made by this section \[amending this section\] shall apply with respect to State applications submitted on and after January 1, 2010."
 
 #### Effective Date of 1990 Amendment
 
-Pub. L. 101–508, title V, §5021(c), Nov. 5, 1990, 104 Stat. 1388–223, provided that: “The amendments made by this section \[amending this section\] shall apply to fiscal years beginning after the date of the enactment of this Act \[Nov. 5, 1990\].”
+Pub. L. 101–508, title V, §5021(c), Nov. 5, 1990, 104 Stat. 1388–223, provided that: "The amendments made by this section \[amending this section\] shall apply to fiscal years beginning after the date of the enactment of this Act \[Nov. 5, 1990\]."
 
 #### Effective Date of 1987 Amendment
 
-Pub. L. 100–203, title IX, §9155(d), Dec. 22, 1987, 101 Stat. 1330–327, provided that: “The amendments made by this section \[amending this section and sections 1105 and 1323 of this title\] shall apply to advances made on or after the date of the enactment of this Act \[Dec. 22, 1987\].”
+Pub. L. 100–203, title IX, §9155(d), Dec. 22, 1987, 101 Stat. 1330–327, provided that: "The amendments made by this section \[amending this section and sections 1105 and 1323 of this title\] shall apply to advances made on or after the date of the enactment of this Act \[Dec. 22, 1987\]."
 
 #### Regulations
 
-Pub. L. 111–5, div. B, title II, §2003(b), Feb. 17, 2009, 123 Stat. 443, provided that: “The Secretary of Labor may prescribe any regulations, operating instructions, or other guidance necessary to carry out the amendment made by subsection (a) \[amending this section\].”
+Pub. L. 111–5, div. B, title II, §2003(b), Feb. 17, 2009, 123 Stat. 443, provided that: "The Secretary of Labor may prescribe any regulations, operating instructions, or other guidance necessary to carry out the amendment made by subsection (a) \[amending this section\]."
 
-Pub. L. 109–91, title II, §203, Oct. 20, 2005, 119 Stat. 2094, provided that: “The Secretary of Labor may prescribe any operating instructions or regulations necessary to carry out this title \[amending this section\] and any amendment made by this title.”
+Pub. L. 109–91, title II, §203, Oct. 20, 2005, 119 Stat. 2094, provided that: "The Secretary of Labor may prescribe any operating instructions or regulations necessary to carry out this title \[amending this section\] and any amendment made by this title."
 

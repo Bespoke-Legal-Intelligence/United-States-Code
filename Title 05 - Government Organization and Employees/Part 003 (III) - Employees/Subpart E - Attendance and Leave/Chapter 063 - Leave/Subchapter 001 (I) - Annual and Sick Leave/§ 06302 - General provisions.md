@@ -8,13 +8,13 @@
 
 (d) The annual leave provided by this subchapter, including annual leave that will accrue to an employee during the year, may be granted at any time during the year as the head of the agency concerned may prescribe.
 
-(e) If an officer excepted from this subchapter by section 6301(2)(x)–(xiii) of this title, without abreak in service, again becomes subject to this subchapter on completion of his service as an excepted officer, the unused annual and sick leave standing to his credit when he was excepted from this subchapter is deemed to have remained to his credit.
+(e) If an officer excepted from this subchapter by section 6301(2)(x)–(xiii) of this title, without a break in service, again becomes subject to this subchapter on completion of his service as an excepted officer, the unused annual and sick leave standing to his credit when he was excepted from this subchapter is deemed to have remained to his credit.
 
 (f) An employee who uses excess annual leave credited because of administrative error may elect to refund the amount received for the days of excess leave by lump-sum or installment payments or to have the excess leave carried forward as a charge against later-accruing annual leave, unless repayment is waived under section 5584 of this title.
 
 (g) An employee who is being involuntarily separated from an agency due to a reduction in force or transfer of function under subchapter I of chapter 35 or section 3595 may elect to use annual leave to the employee's credit to remain on the agency's rolls after the date the employee would otherwise have been separated if, and only to the extent that, such additional time in a pay status will enable the employee to qualify for an immediate annuity under section 8336, 8412, 8414, or to qualify to carry health benefits coverage into retirement under section 8905(b).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 93–181, §4, Dec. 14, 1973, 87 Stat. 706; Pub. L. 95–519, §2, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §634\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–363; Pub. L. 105–277, div. A, §101(h) \[title VI, §653\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 517; Pub. L. 93–181, §4, Dec. 14, 1973, 87 Stat. 706; Pub. L. 95–519, §2, Oct. 25, 1978, 92 Stat. 1819; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §634\],Sept. 30, 1996, 110 Stat. 3009–314, 3009–363; Pub. L. 105–277, div. A, §101(h) \[title VI, §653\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–528.)
 
 Historical and Revision Notes
 

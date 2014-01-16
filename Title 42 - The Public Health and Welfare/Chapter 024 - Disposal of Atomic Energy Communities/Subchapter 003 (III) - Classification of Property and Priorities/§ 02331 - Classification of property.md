@@ -16,7 +16,7 @@ Prior to the date any residential property is first offered for sale at Los Alam
 
 #### Amendments
 
-<b>1962</b>—Subsec. (a). Pub. L. 87–719, §7, inserted “, or, in the case of Los Alamos, upon its inclusion within this chapter” after “chapter”.
+<b>1962</b>—Subsec. (a). Pub. L. 87–719, §7, inserted ", or, in the case of Los Alamos, upon its inclusion within this chapter" after "chapter".
 
 Subsec. (c). Pub. L. 87–719, §8, added subsec. (c).
 

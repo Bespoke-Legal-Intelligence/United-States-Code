@@ -40,13 +40,13 @@ The Board shall select a treasurer and as many assistant treasurers as it deems 
 
 #### Codification
 
-“Sections 3114, 3115, and 3118 of title 40” substituted in subsec. (i) for “the Act of February 26, 1931 (46 Stat. 1422, ch. 307, secs. 1 to 5, inclusive), as now compiled in section 258a to 258e, inclusive, of Title 40 of the United States Code” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+"Sections 3114, 3115, and 3118 of title 40" substituted in subsec. (i) for "the Act of February 26, 1931 (46 Stat. 1422, ch. 307, secs. 1 to 5, inclusive), as now compiled in section 258a to 258e, inclusive, of Title 40 of the United States Code" on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 Subsec. (j), last sentence, directed the directors of the Authority to report their recommendations to Congress not later than April 1, 1936, and has been omitted as executed.
 
 #### Amendments
 
-<b>2004</b>—Subsecs. (f), (i). Pub. L. 108–447 substituted “Board” for “board” wherever appearing.
+<b>2004</b>—Subsecs. (f), (i). Pub. L. 108–447 substituted "Board" for "board" wherever appearing.
 
 <b>1972</b>—Subsec. (f). Pub. L. 92–310 struck out provisions which required the treasurer and assistant treasurers to give bonds for the safekeeping of securities and moneys of the Corporation.
 
@@ -62,7 +62,7 @@ Subsec. (l). Act Aug. 31, 1935, §13, added subsec. (l).
 
 #### Change of Name
 
-Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted “Title 10, Armed Forces” which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
+Department of War designated Department of the Army and title of Secretary of War changed to Secretary of the Army by section 205(a) of act July 26, 1947, ch. 343, title II, 61 Stat. 501. Section 205(a) of act July 26, 1947, was repealed by section 53 of act Aug. 10, 1956, ch. 1041, 70A Stat. 641. Section 1 of act Aug. 10, 1956, enacted "Title 10, Armed Forces" which in sections 3010 to 3013 continued military Department of the Army under administrative supervision of Secretary of the Army.
 
 #### Effective Date of 2004 Amendment
 

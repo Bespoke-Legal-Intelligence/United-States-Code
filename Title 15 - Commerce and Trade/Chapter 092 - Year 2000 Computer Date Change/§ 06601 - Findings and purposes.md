@@ -42,11 +42,11 @@ Based upon the power of the Congress under Article I, Section 8, Clause 3 of the
 
 &emsp;(3) to encourage private and public parties alike to resolve disputes relating to year 2000 computer date-change problems by alternative dispute mechanisms in order to avoid costly and time-consuming litigation, to initiate those mechanisms as early as possible, and to encourage the prompt identification and correction of such problems; and
 
-&emsp;(4) to lessen the burdens on interstate commerce by discouraging insubstantial lawsuits while preserving the ability of individuals and businesses that have suffered real injury to obtain complete relief.
+&emsp;(4) to lessen the burdens on interstate commerce by discouraging insubstantial lawsuits while preserving the ability of individuals andbusinesses that have suffered real injury to obtain complete relief.
 
 (Pub. L. 106–37, §2, July 20, 1999, 113 Stat. 185.)
 
 #### Short Title
 
-Pub. L. 106–37, §1(a), July 20, 1999, 113 Stat. 185, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Y2K Act’.”
+Pub. L. 106–37, §1(a), July 20, 1999, 113 Stat. 185, provided that: "This Act \[enacting this chapter\] may be cited as the 'Y2K Act'."
 

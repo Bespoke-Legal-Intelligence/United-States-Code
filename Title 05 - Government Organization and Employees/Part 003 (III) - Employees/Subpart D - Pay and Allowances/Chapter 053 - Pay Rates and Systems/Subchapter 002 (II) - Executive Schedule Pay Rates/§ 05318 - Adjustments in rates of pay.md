@@ -30,7 +30,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1989 Amendment
 
-Pub. L. 101–194, title VII, §704(b), Nov. 30, 1989, 103 Stat. 1769, provided that: “This section and the amendments made by this section \[amending this section, section 31 of Title 2, The Congress, section 104 of Title 3, The President, and section 461 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] shall take effect on January 1, 1991.”
+Pub. L. 101–194, title VII, §704(b), Nov. 30, 1989, 103 Stat. 1769, provided that: “This section and the amendments made by this section \[amending this section, section 4501 of Title 2, The Congress, section 104 of Title 3, The President, and section 461 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as a note under this section\] shall take effect on January 1, 1991.”
 
 #### Salary Levels of Senior Government Officials
 
@@ -64,7 +64,7 @@ Judicial positions.—Effective the first day of the first applicable pay period
 
 “(b)
 
-Coordination Rule.—If a pay adjustment under subsection (a) is to be made for an office or position as of the same date as any other pay adjustment affecting such office or position, the adjustment under subsection (a) shall be made first.”
+Coordination Rule.—If a pay adjustment under subsection (a) is to be made for an office or position asof the same date as any other pay adjustment affecting such office or position, the adjustment under subsection (a) shall be made first.”
 
 #### Revision in Method by Which Annual Pay Adjustments for Certain Executive, Legislative, and Judicial Positions Are To Be Made
 
@@ -116,7 +116,7 @@ Amendment to titles 3, 5, and 28 of the united states code.—Section 104 of tit
 
 &emsp;&emsp;“(B)
 
-Amendment to the legislative reorganization act of 1946.—Section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) is amended by striking ‘corresponds to’ and all that follows thereafter through the period and inserting the following:
+Amendment to the legislative reorganization act of 1946.—Section 601(a)(2) of the Legislative Reorganization Act of 1946 (2 U.S.C. 31(2)) \[now 2 U.S.C. 4501(2)\] is amended by striking ‘corresponds to’ and all that follows thereafter through the period and inserting the following:
 
 > ‘corresponds to the most recent percentage change in the ECI (relative to the date described in the next sentence), as determined under section 704(a)(1) of the Ethics Reform Act of 1989. The appropriate date under this sentence is the first day of the fiscal year in which such adjustment in the rates of pay under the General Schedule takes effect.’.”
 
@@ -138,7 +138,7 @@ Section 305(a), (b), and (d) of H.R. 4120, as reported July 9, 1981, made applic
 
 Similar provisions were contained in Pub. L. 97–51, §101(c), Oct. 1, 1981, 95 Stat. 959, as amended by Pub. L. 97–85, Nov. 23, 1981, 95 Stat. 1098.
 
-Pub. L. 97–92, §141, Dec. 15, 1981, 95 Stat. 1200, provided that nothing in section 305 of H.R. 4120, made applicable by section 101(g) of Pub. L. 97–92, required that therate of salary or basic pay, payable to any individual for or on account of services performed after Dec. 31, 1981, be limited to or reduced to an amount which was less than $59,500 for pay corresponding to the rate of basic pay for level III of the Executive Schedule under section 5314 of this title; $58,500 for pay corresponding to the rate of basic pay for level IV of the Executive Schedule under section 5315 of this title; or $57,500 for pay corresponding to the rate of basic pay for level V of the Executive Schedule under section 5316 of this title. Any adjustment to the pay of an employee paid by the Clerk of the House was to result in pay no less than that of an employee paid by the Secretary of the Senate holding an equivalent position.
+Pub. L. 97–92, §141, Dec. 15, 1981, 95 Stat. 1200, provided that nothing in section 305 of H.R. 4120, made applicable by section 101(g) of Pub. L. 97–92, required that the rate of salary or basic pay, payable to any individual for or on account of services performed after Dec. 31, 1981, be limited to or reduced to an amount which was less than $59,500 for pay corresponding to the rate of basic pay for level III of the Executive Schedule under section 5314 of this title; $58,500 for pay corresponding to the rate of basic pay for level IV of the Executive Schedule under section 5315 of this title; or $57,500 for pay corresponding to the rate of basic pay for level V of the Executive Schedule under section 5316 of this title. Any adjustment to the pay of an employee paid by the Clerk of the House was to result in pay no less than that of an employee paid by the Secretary of the Senate holding an equivalent position.
 
 #### Fiscal Year 1981 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
@@ -148,7 +148,7 @@ Similar provisions were contained in Pub. L. 96–369, §101(c), Oct. 1, 1980, 9
 
 #### Fiscal Year 1980 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Pub. L. 96–86, §101(c), Oct. 12, 1979, 93 Stat. 657, for the fiscal year 1980, prohibited the use of funds available for payment to executive employees, including Members of Congress, entitled under existing law to approximately 12.9 percent increase in pay, to pay any such employee or official any sum in excess of 5.5 percent increase in existing pay, and such sum, if accepted, would be in lieu of the 12.9 percent due for such fiscal year. \[See Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.\]
+Pub. L. 96–86, §101(c), Oct. 12, 1979, 93 Stat. 657, for the fiscal year 1980, prohibited the use of funds available for payment to executive employees, including Members of Congress, entitled under existing law to approximately 12.9 percent increase in pay, to pay any such employee or official any sum in excess of 5.5 percent increase in existing pay, and such sum, if accepted, would be in lieu of the 12.9 percent due for such fiscal year. \[For information regarding constitutionality of certain provisions of section 101(c) of Pub. L. 96–86 as applied to Federal judges, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.\]
 
 #### Fiscal Year 1979 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
@@ -158,9 +158,9 @@ Identical provisions were enacted by Pub. L. 95–391, title III, §304, Sept. 3
 
 #### 1977 Comparability Adjustment Not Effective for Certain Positions
 
-Pub. L. 95–66, July 11, 1977, 91 Stat. 270, nullified the first adjustment in pay which would have been made after July 11, 1977, under the following provisions of law: the second sentence of section 104 of Title 3, The President; par. (2) of section 31 of Title 2, The Congress; section 461 of Title 28, Judiciary and Judicial Procedure; and section 5318 of this title.
+Pub. L. 95–66, July 11, 1977, 91 Stat. 270, nullified the first adjustment in pay which would have been made after July 11, 1977, under the following provisions of law: the second sentence of section 104 of Title 3, The President; par. (2) of section 4501 of Title 2, The Congress; section 461 of Title 28, Judiciary and Judicial Procedure; and section 5318 of this title.
 
 #### Fiscal Year 1977 Limitation on Use of Funds for Pay Adjustments for Certain Positions
 
-Pub. L. 94–440, title II, Oct. 1, 1976, 90 Stat. 1446, prohibited the use of funds appropriated in any Act to pay the salary of an individual in a position or office referred to in section 356 of Title 2, The Congress, at a rate exceeding the salary rate for such position or office in effect on Sept. 30, 1976, except increases submitted by the President pursuant to sections 351 to 364 of Title 2. \[See Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.\]
+Pub. L. 94–440, title II, Oct. 1, 1976, 90 Stat. 1446, prohibited the use of funds appropriated in any Act to pay the salary of an individual in a position or office referred to in section 356 of Title 2, The Congress, at a rate exceeding the salary rate for such position or office in effect on Sept. 30, 1976, except increases submitted by the President pursuant to sections 351 to 364 of Title 2. \[For information regarding constitutionality of certain provisions of title II of Pub. L. 94–440 as applied to Federal judges, see Congressional Research Service, The Constitution of the United States of America: Analysis and Interpretation, Appendix 1, Acts of Congress Held Unconstitutional in Whole or in Part by the Supreme Court of the United States.\]
 

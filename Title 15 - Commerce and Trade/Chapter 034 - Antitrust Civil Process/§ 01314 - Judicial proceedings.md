@@ -16,7 +16,7 @@ Whenever any person fails to comply with any civil investigative demand duly ser
 
 #### (c) Petition for order modifying or setting aside demand for production of product of discovery; grounds for relief; stay of compliance with demand and of running of time allowed for compliance with demand
 
-Whenever any such demand is an express demand for any product of discovery, the person from whom such discovery was obtained may file, at any time prior to compliance with such express demand, in the district court of the United States for the judicial district in which the proceeding in which such discovery was obtained is or was last pending, and serve upon any antitrust investigator named in the demand and upon the recipient of the demand, a petition for an order of such court modifying or setting aside those portions of the demand requiring production of any such product of discovery. Such petition shall specify each ground upon which the petitioner relies in seeking such relief and may be based upon any failure of such portions of the demand to comply with the provisions of this chapter, or upon any constitutional or other legal right or privilege of the petitioner. During the pendency of such petition, the court may stay, as it deems proper, compliance with the demand and the running of the time allowed for compliance with the demand.
+Whenever any such demand is an express demand for any product of discovery, the person from whom such discovery was obtained may file, at any time prior to compliance with such express demand, in the district court of the United States for the judicial district in which the proceeding in which such discovery was obtained is or was last pending, and serve upon any antitrust investigator named in the demand and upon the recipient of the demand, a petition for an order of such court modifying or setting aside those portions of the demand requiring production of any such product of discovery. Such petition shall specify each ground upon which the petitioner relies in seeking such relief and may be based upon any failure of such portions of the demand to comply with the provisions of this chapter, or upon any constitutionalor other legal right or privilege of the petitioner. During the pendency of such petition, the court may stay, as it deems proper, compliance with the demand and the running of the time allowed for compliance with the demand.
 
 #### (d) Petition for order requiring performance by custodian of duties; venue
 
@@ -38,7 +38,7 @@ Any documentary material, answers to written interrogatories, or transcripts of 
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 87–664, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
+This chapter, referred to in text, was in the original "this Act", meaning Pub. L. 87–664, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -52,9 +52,9 @@ Subsecs. (e) to (g). Pub. L. 96–349, §2(b)(5)(B), redesignated former subsecs
 
 <b>1976</b>—Subsec. (a). Pub. L. 94–435, §104(a), struck out provision which permitted a petition for an enforcement order to be filed in the judicial district where a person who had failed to comply with a demand and who transacted business in one or more districts, maintained his principal place of business, or in such other district, in which such person transacted business, as was agreed upon by the parties to the petition.
 
-Subsec. (b). Pub. L. 94–435, §104(b), (c), inserted “or within such period exceeding twenty days after service or in excess of such return date as may be prescribed in writing, subsequent to service, by any antitrust investigator named in the demand,” after “whichever period is shorter”, substituted “antitrust investigator” for “custodian” before “a petition for an order”, and inserted proviso that petitioner should comply with portions of a contested demand which are not being challenged.
+Subsec. (b). Pub. L. 94–435, §104(b), (c), inserted "or within such period exceeding twenty days after service or in excess of such return date as may be prescribed in writing, subsequent to service, by any antitrust investigator named in the demand," after "whichever period is shorter", substituted "antitrust investigator" for "custodian" before "a petition for an order", and inserted proviso that petitioner should comply with portions of a contested demand which are not being challenged.
 
-Subsec. (c). Pub. L. 94–435, §104(d), substituted “or answers to interrogatories delivered, or transcripts of oral testimony given” for “delivered”.
+Subsec. (c). Pub. L. 94–435, §104(d), substituted "or answers to interrogatories delivered, or transcripts of oral testimony given" for "delivered".
 
 Subsec. (f). Pub. L. 94–435, §104(e), added subsec. (f).
 

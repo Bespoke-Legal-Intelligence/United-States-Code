@@ -2,11 +2,11 @@
 
 #### (a) Definition of livestock
 
-In this section, the term “livestock” includes elk, reindeer, bison, horses, and deer.
+In this section, the term "livestock" includes elk, reindeer, bison, horses, and deer.
 
 #### (b) Availability of assistance
 
-In such amounts as are provided in advance in appropriation Acts, the Secretary of Agriculture may provide assistance to dairy and other livestock producers to cover economic losses incurred by such producers in connection with the production of livestock.
+In such amounts as are provided in advance in appropriation Acts, the Secretary of Agriculturemay provide assistance to dairy and other livestock producers to cover economic losses incurred by such producers in connection with the production of livestock.
 
 #### (c) Types of assistance
 
@@ -36,7 +36,7 @@ Section was enacted as part of the Farm Security and Rural Investment Act of 200
 
 #### Amendments
 
-<b>2005</b>—Subsec. (a). Pub. L. 109–97 substituted “bison, horses, and deer” for “and bison”.
+<b>2005</b>—Subsec. (a). Pub. L. 109–97 substituted "bison, horses, and deer" for "and bison".
 
 <b>2004</b>—Pub. L. 108–447 added subsec. (a) and redesignated former subsecs. (a) to (d) as (b) to (e), respectively.
 

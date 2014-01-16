@@ -170,7 +170,7 @@ Definitions.—In this section—
 
 &emsp;(1)
 
-Distributor.—The term “distributor” means an entity that contracts to distribute secondary transmissions from a satellite carrier and, either as a single channel or in a package with other programming, provides the secondary transmission either directly to individual subscribers or indirectly through other program distribution entities.
+Distributor.—The term "distributor" means an entity that contracts to distribute secondary transmissions from a satellite carrier and, either as a single channel or in a package with other programming, provides the secondary transmission either directly to individual subscribers or indirectly through other program distribution entities.
 
 &emsp;(2)
 
@@ -178,7 +178,7 @@ Local market.—
 
 &emsp;&emsp;(A)
 
-In general.—The term “local market”, in the case of both commercial and noncommercial television broadcast stations, means the designated market area in which a station is located, and—
+In general.—The term "local market", in the case of both commercial and noncommercial television broadcast stations, means the designated market area in which a station is located, and—
 
 &emsp;&emsp;&emsp;(i) in the case of a commercial television broadcast station, all commercial television broadcast stations licensed to a community within the same designated market area are within the same local market; and
 
@@ -190,7 +190,7 @@ County of license.—In addition to the area described in subparagraph (A), a st
 
 &emsp;&emsp;(C)
 
-Designated market area.—For purposes of subparagraph (A), the term “designated market area” means a designated market area, as determined by Nielsen Media Research and published in the 1999–2000 Nielsen Station Index Directory and Nielsen Station Index United States Television Household Estimates or any successor publication.
+Designated market area.—For purposes of subparagraph (A), the term "designated market area" means a designated market area, as determined by Nielsen Media Research and published in the 1999–2000 Nielsen Station Index Directory and Nielsen Station Index United States Television Household Estimates or any successor publication.
 
 &emsp;&emsp;(D)
 
@@ -198,23 +198,23 @@ Certain areas outside of any designated market area.—Any census area, borough,
 
 &emsp;(3)
 
-Low power television station.—The term “low power television station” means a low power TV station as defined in section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004. For purposes of this paragraph, the term “low power television station” includes a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations.
+Low power television station.—The term "low power television station" means a low power TV station as defined in section 74.701(f) of title 47, Code of Federal Regulations, as in effect on June 1, 2004. For purposes of this paragraph, the term "low power television station" includes a low power television station that has been accorded primary status as a Class A television licensee under section 73.6001(a) of title 47, Code of Federal Regulations.
 
 &emsp;(4)
 
-Network station; non-network station; satellite carrier; secondary transmission.—The terms “network station”, “non-network station”, “satellite carrier”, and “secondary transmission” have the meanings given such terms under section 119(d).
+Network station; non-network station; satellite carrier; secondary transmission.—The terms "network station", "non-network station", "satellite carrier", and "secondary transmission" have the meanings given such terms under section 119(d).
 
 &emsp;(5)
 
-Noncommercial educational broadcast station.—The term “noncommercial educational broadcast station” means a television broadcast station that is a noncommercial educational broadcast station as defined in section 397 of the Communications Act of 1934, as in effect on the date of the enactment of the Satellite Television Extension and Localism Act of 2010.
+Noncommercial educational broadcast station.—The term "noncommercial educational broadcast station" means a television broadcast station that is a noncommercial educational broadcast station as defined in section 397 of the Communications Act of 1934, as in effect on the date of the enactment of the Satellite Television Extension and Localism Act of 2010.
 
 &emsp;(6)
 
-Subscriber.—The term “subscriber” means a person or entity that receives a secondary transmission service from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor.
+Subscriber.—The term "subscriber" means a person or entity that receives a secondary transmission service from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor.
 
 &emsp;(7)
 
-Television broadcast station.—The term “television broadcast station”—
+Television broadcast station.—The term "television broadcast station"—
 
 &emsp;&emsp;(A) means an over-the-air, commercial or noncommercial television broadcast station licensed by the Federal Communications Commission under subpart E of part 73 of title 47, Code of Federal Regulations, except that such term does not include a low-power or translator television station; and
 
@@ -230,49 +230,49 @@ The date of the enactment of the Satellite Television Extension and Localism Act
 
 #### Amendments
 
-<b>2010</b>—Pub. L. 111–175, §103(a)(1), substituted “of local television programming by satellite” for “by satellite carriers within local markets” in section catchline.
+<b>2010</b>—Pub. L. 111–175, §103(a)(1), substituted "of local television programming by satellite" for "by satellite carriers within local markets" in section catchline.
 
 Subsec. (a). Pub. L. 111–175, §103(b), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to secondary transmissions of television broadcast stations by satellite carriers.
 
-Subsec. (b)(1). Pub. L. 111–175, §103(c)(1), substituted “station—” for “station a list identifying (by name in alphabetical order and street address, including county and zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission under subsection (a).” and added subpars. (A) and (B).
+Subsec. (b)(1). Pub. L. 111–175, §103(c)(1), substituted "station—" for "station a list identifying (by name in alphabetical order and street address, including county and zip code) all subscribers to which the satellite carrier makes secondary transmissions of that primary transmission under subsection (a)." and added subpars. (A) and (B).
 
-Subsec. (b)(2). Pub. L. 111–175, §103(c)(2), substituted “network—” for “network a list identifying (by name in alphabetical order and street address, including county and zip code) any subscribers who have been added or dropped as subscribers since the last submission under this subsection.” and added subpars. (A) and (B).
+Subsec. (b)(2). Pub. L. 111–175, §103(c)(2), substituted "network—" for "network a list identifying (by name in alphabetical order and street address, including county and zip code) any subscribers who have been added or dropped as subscribers since the last submission under this subsection." and added subpars. (A) and (B).
 
-Subsec. (c). Pub. L. 111–175, §103(d), inserted “for Certain Secondary Transmissions” after “Required” in heading and substituted “paragraphs (1), (2), and (3) of subsection (a)” for “subsection (a)” in text.
+Subsec. (c). Pub. L. 111–175, §103(d), inserted "for Certain Secondary Transmissions" after "Required" in heading and substituted "paragraphs (1), (2), and (3) of subsection (a)" for "subsection (a)" in text.
 
-Subsec. (f)(1). Pub. L. 111–175, §103(e)(2)(A), substituted “section 119, subject to statutory licensing by reason of paragraph (2)(A), (3), or (4) of subsection (a), or subject to” for “section 119 or” in introductory provisions.
+Subsec. (f)(1). Pub. L. 111–175, §103(e)(2)(A), substituted "section 119, subject to statutory licensing by reason of paragraph (2)(A), (3), or (4) of subsection (a), or subject to" for "section 119 or" in introductory provisions.
 
-Subsec. (f)(1)(B). Pub. L. 111–175, §103(e)(1)(A), substituted “$250” for “$5”.
+Subsec. (f)(1)(B). Pub. L. 111–175, §103(e)(1)(A), substituted "$250" for "$5".
 
-Subsec. (f)(2). Pub. L. 111–175, §103(e)(2)(A), substituted “section 119, subject to statutory licensing by reason of paragraph (2)(A), (3), or (4) of subsection (a), or subject to” for “section 119 or” in introductory provisions.
+Subsec. (f)(2). Pub. L. 111–175, §103(e)(2)(A), substituted "section 119, subject to statutory licensing by reason of paragraph (2)(A), (3), or (4) of subsection (a), or subject to" for "section 119 or" in introductory provisions.
 
-Subsec. (f)(2)(A)(ii), (B)(ii). Pub. L. 111–175, §103(e)(1)(B), substituted “$2,500,000” for “$250,000”.
+Subsec. (f)(2)(A)(ii), (B)(ii). Pub. L. 111–175, §103(e)(1)(B), substituted "$2,500,000" for "$250,000".
 
-Subsec. (g). Pub. L. 111–175, §103(e)(2)(B), substituted “section 119, paragraph (2)(A), (3), or (4) of subsection (a), or” for “section 119 or”.
+Subsec. (g). Pub. L. 111–175, §103(e)(2)(B), substituted "section 119, paragraph (2)(A), (3), or (4) of subsection (a), or" for "section 119 or".
 
-Subsec. (j)(1). Pub. L. 111–175, §103(f)(1), substituted “that contracts” for “which contracts”.
+Subsec. (j)(1). Pub. L. 111–175, §103(f)(1), substituted "that contracts" for "which contracts".
 
 Subsec. (j)(3). Pub. L. 111–175, §103(f)(4), added par. (3). Former par. (3) redesignated (4).
 
-Subsec. (j)(4). Pub. L. 111–175, §103(f)(3), redesignated par. (3) as (4) and inserted “non-network station;” after “Network station;” in heading and “ ‘non-network station’,” after “ ‘network station’,” in text. Former par. (4) redesignated (6).
+Subsec. (j)(4). Pub. L. 111–175, §103(f)(3), redesignated par. (3) as (4) and inserted "non-network station;" after "Network station;" in heading and " 'non-network station'," after " 'network station'," in text. Former par. (4) redesignated (6).
 
 Subsec. (j)(5). Pub. L. 111–175, §103(f)(5), added par. (5). Former par. (5) redesignated (7).
 
-Subsec. (j)(6). Pub. L. 111–175, §103(f)(6), amended par. (6) generally. Prior to amendment, text read as follows: “The term ‘subscriber’ means a person who receives a secondary transmission service from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor.”
+Subsec. (j)(6). Pub. L. 111–175, §103(f)(6), amended par. (6) generally. Prior to amendment, text read as follows: "The term 'subscriber' means a person who receives a secondary transmission service from a satellite carrier and pays a fee for the service, directly or indirectly, to the satellite carrier or to a distributor."
 
 Pub. L. 111–175, §103(f)(2), redesignated par. (4) as (6).
 
 Subsec. (j)(7). Pub. L. 111–175, §103(f)(2), redesignated par. (5) as (7).
 
-<b>2008</b>—Subsec. (d). Pub. L. 110–403, §209(a)(5)(A), struck out “and 509” after “506”.
+<b>2008</b>—Subsec. (d). Pub. L. 110–403, §209(a)(5)(A), struck out "and 509" after "506".
 
-Subsec. (e). Pub. L. 110–403, §209(a)(5)(B), substituted “section 510” for “sections 509 and 510”.
+Subsec. (e). Pub. L. 110–403, §209(a)(5)(B), substituted "section 510" for "sections 509 and 510".
 
-Subsec. (f)(1). Pub. L. 110–403, §209(a)(5)(C), struck out “and 509” after “506” in introductory provisions.
+Subsec. (f)(1). Pub. L. 110–403, §209(a)(5)(C), struck out "and 509" after "506" in introductory provisions.
 
 <b>2004</b>—Subsec. (j)(2)(D). Pub. L. 108–447 added subpar. (D).
 
-<b>2002</b>—Pub. L. 107–273 substituted “rights: Secondary” for “rights; secondary” in section catchline.
+<b>2002</b>—Pub. L. 107–273 substituted "rights: Secondary" for "rights; secondary" in section catchline.
 
 #### Effective Date of 2010 Amendment
 

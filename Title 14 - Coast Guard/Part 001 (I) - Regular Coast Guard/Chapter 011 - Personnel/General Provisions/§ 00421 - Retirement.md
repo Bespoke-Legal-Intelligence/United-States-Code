@@ -20,11 +20,11 @@ Subsection (b) is a codification of the only provision of title 14, U.S.C., 1946
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–348 substituted “rate” for “rating” in two places.
+<b>1986</b>—Subsec. (a). Pub. L. 99–348 substituted "rate" for "rating" in two places.
 
-<b>1985</b>—Subsec. (b). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
+<b>1985</b>—Subsec. (b). Pub. L. 99–145 substituted "rear admiral (lower half)" for "commodore".
 
 <b>1984</b>—Subsec. (a). Pub. L. 98–557 substituted reference to enlisted member for reference to enlisted man.
 
-<b>1983</b>—Subsec. (b). Pub. L. 97–417 substituted “commodore” for “rear admiral”.
+<b>1983</b>—Subsec. (b). Pub. L. 97–417 substituted "commodore" for "rear admiral".
 

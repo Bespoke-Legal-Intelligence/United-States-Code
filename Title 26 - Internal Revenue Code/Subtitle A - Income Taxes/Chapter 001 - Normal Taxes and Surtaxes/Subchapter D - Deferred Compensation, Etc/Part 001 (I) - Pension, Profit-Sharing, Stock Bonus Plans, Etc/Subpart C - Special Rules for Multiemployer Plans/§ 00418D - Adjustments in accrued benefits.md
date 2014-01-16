@@ -82,7 +82,7 @@ A plan may not recoup a benefit payment which is in excess of the amount payable
 
 #### (e) Inactive participant
 
-For purposes of this section, the term “inactive participant” means a person not in covered service under the plan who is in pay status under the plan or who has a nonforfeitable benefit under the plan.
+For purposes of this section, the term "inactive participant" means a person not in covered service under the plan who is in pay status under the plan or who has a nonforfeitable benefit under the plan.
 
 #### (f) Regulations
 

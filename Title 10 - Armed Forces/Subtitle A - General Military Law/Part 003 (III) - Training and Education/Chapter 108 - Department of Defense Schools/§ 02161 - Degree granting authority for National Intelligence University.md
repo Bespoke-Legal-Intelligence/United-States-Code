@@ -28,13 +28,13 @@ Congressional Notification Requirements.—(1) When seeking to establish degree 
 
 #### Amendments
 
-<b>2013</b>—Pub. L. 112–239 substituted “National Intelligence University” for “National Defense Intelligence College” wherever appearing in section catchline and text.
+<b>2013</b>—Pub. L. 112–239 substituted "National Intelligence University" for "National Defense Intelligence College" wherever appearing in section catchline and text.
 
 <b>2008</b>—Pub. L. 110–417 amended section generally. Prior to amendment, section related to conferral of academic degrees by the Joint Military Intelligence College.
 
-<b>1997</b>—Pub. L. 105–107 substituted “Joint Military Intelligence College: academic degrees” for “Defense Intelligence School: master of science of strategic intelligence” in section catchline and amended text generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary of Defense, the Commandant of the Defense Intelligence School may, upon recommendation by the faculty of such school, confer the degree of master of science of strategic intelligence upon graduates of the school who have fulfilled the requirements for that degree.”
+<b>1997</b>—Pub. L. 105–107 substituted "Joint Military Intelligence College: academic degrees" for "Defense Intelligence School: master of science of strategic intelligence" in section catchline and amended text generally. Prior to amendment, text read as follows: "Under regulations prescribed by the Secretary of Defense, the Commandant of the Defense Intelligence School may, upon recommendation by the faculty of such school, confer the degree of master of science of strategic intelligence upon graduates of the school who have fulfilled the requirements for that degree."
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–417, \[div. A\], title V, §543(j), Oct. 14, 2008, 122 Stat. 4465, provided that: “The amendments made by this section \[amending this section and sections 2163, 4314, 4321, 7048, 7101, 7102, 9314, and 9317 of this title\] shall apply to any degree granting authority established, modified, or redesignated on or after the date of enactment of this Act \[Oct. 14, 2008\] for an institution of professional military education referred to in such amendments.”
+Pub. L. 110–417, \[div. A\], title V, §543(j), Oct. 14, 2008, 122 Stat. 4465, provided that: "The amendments madeby this section \[amending this section and sections 2163, 4314, 4321, 7048, 7101, 7102, 9314, and 9317 of this title\] shall apply to any degree granting authority established, modified, or redesignated on or after the date of enactment of this Act \[Oct. 14, 2008\] for an institution of professional military education referred to in such amendments."
 

@@ -67,7 +67,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 2,000 | 93 | 20&nbsp;&nbsp; |
 | 2,100 | 96 | 21&nbsp;&nbsp; |
 | 2,200 | 99 | 22&nbsp;&nbsp; |
-| 2,300 | 101 | 23&nbsp;&nbsp; |
+| 2,300 | 101 | 23   |
 | 2,400 | 103 | 24&nbsp;&nbsp; |
 | 2,500 | 105 | 25&nbsp;&nbsp; |
 | 2,600 | 107 | 26&nbsp;&nbsp; |
@@ -84,7 +84,7 @@ Limitations.—Of the total number of members of a reserve component who are ser
 | 4,500 | 495 | 230&nbsp;&nbsp; |
 | 5,000 | 530 | 250&nbsp;&nbsp; |
 | 5,500 | 565 | 270&nbsp;&nbsp; |
-| 6,000 | 600 | 290   |
+| 6,000 | 600 | 290&nbsp;&nbsp; |
 | 7,000 | 670 | 330&nbsp;&nbsp; |
 | 8,000 | 740 | 370&nbsp;&nbsp; |
 | 10,000 | 800 | 400&nbsp;&nbsp; |
@@ -123,7 +123,7 @@ Secretarial Waiver.—(1) Upon determining that it is in the national interest t
 
 (e)
 
-Full-Time Reserve Component Duty Defined.—In this section, the term “full-time reserve component duty” has the meaning given the term in section 12011(e) of this title.
+Full-Time Reserve Component Duty Defined.—In this section, the term "full-time reserve component duty" has the meaning given the term in section 12011(e) of this title.
 
 (Added Pub. L. 103–337, div. A, title XVI, §1662(a)(1), Oct. 5, 1994, 108 Stat. 2987; amended Pub. L. 104–106, div. A, title IV, §414(b), title XV, §1501(b)(10), Feb. 10, 1996, 110 Stat. 288, 496; Pub. L. 105–261, div. A, title IV, §414(b), Oct. 17, 1998, 112 Stat. 1998; Pub. L. 106–65, div. A, title IV, §414(b), Oct. 5, 1999, 113 Stat. 586; Pub. L. 106–398, §1 \[\[div. A\], title IV, §§415(b), 421(c), 424(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–94 to 1654A–96; Pub. L. 107–107, div. A, title IV, §415(b), Dec. 28, 2001, 115 Stat. 1073; Pub. L. 108–375, div. A, title X, §1084(d)(34), Oct. 28, 2004, 118 Stat. 2063; Pub. L. 109–163, div. A, title V, §515(b)(1)(II), Jan. 6, 2006, 119 Stat. 3233; Pub. L. 110–417, \[div. A\], title V, §512(c), Oct. 14, 2008, 122 Stat. 4440.)
 
@@ -135,21 +135,21 @@ Provisions similar to those in this section were contained in section 517(b), (c
 
 <b>2008</b>—Subsec. (a). Pub. L. 110–417 inserted section of table relating to the Army National Guard and struck out corresponding former section.
 
-<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted “Navy Reserve” for “Naval Reserve” in table.
+<b>2006</b>—Subsec. (a). Pub. L. 109–163 substituted "Navy Reserve" for "Naval Reserve" in table.
 
-<b>2004</b>—Subsec. (a). Pub. L. 108–375 inserted colon after “Air National Guard” in table.
+<b>2004</b>—Subsec. (a). Pub. L. 108–375 inserted colon after "Air National Guard" in table.
 
 <b>2001</b>—Subsec. (a). Pub. L. 107–107 inserted heading and amended text of subsec. (a) generally. Prior to amendment, text consisted of table setting out maximum number of enlisted members in pay grades E–8 and E–9 who may be on active duty (other than for training) or on full-time National Guard duty (other than for training) as of the end of any fiscal year in connection with organizing, administering, recruiting, instructing, or training the reserve components or the National Guard.
 
-Subsec. (b). Pub. L. 107–107 inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: “Whenever the number of members serving in pay grade E–9 for duty described in subsection (a) is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8.”
+Subsec. (b). Pub. L. 107–107 inserted heading and amended text of subsec. (b) generally. Prior to amendment, text read as follows: "Whenever the number of members serving in pay grade E–9 for duty described in subsection (a) is less than the number authorized for that grade under subsection (a), the difference between the two numbers may be applied to increase the number authorized under such subsection for pay grade E–8."
 
-Subsec. (c). Pub. L. 107–107 inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: “Whenever under section 527 of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section.”
+Subsec. (c). Pub. L. 107–107 inserted heading and amended text of subsec. (c) generally. Prior to amendment, text read as follows: "Whenever under section 527 of this title the President may suspend the operation of any provision of section 523, 525, or 526 of this title, the Secretary of Defense may suspend the operation of any provision of this section. Any such suspension shall, if not sooner ended, end in the manner specified in section 527 for a suspension under that section."
 
-Subsec. (d). Pub. L. 107–107 inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: “Upon increasing under subsection (c)(2) of section 115 of this title the end strength that is authorized under subsection (a)(1)(B) of that section for a fiscal year for active-duty personnel and full-time National Guard duty personnel of an armed force who are to be paid from funds appropriated for reserve personnel, the Secretary of Defense may increase for that fiscal year the limitation that is set forth in subsection (a) of this section for the number of enlisted members of that armed force serving in any grade if the Secretary determines that such action is in the national interest. The percent of the increase may not exceed the percent by which the Secretary increases that end strength.”
+Subsec. (d). Pub. L. 107–107 inserted heading and amended text of subsec. (d) generally. Prior to amendment, text read as follows: "Upon increasing under subsection (c)(2) of section 115 of this title the end strength that is authorized under subsection (a)(1)(B) of that section for a fiscal year for active-duty personnel and full-time National Guard duty personnel of an armed force who are to be paid from funds appropriated for reserve personnel, the Secretary of Defense may increase for that fiscal year the limitation that is set forth in subsection (a) of this section for the number of enlisted members of that armed force serving in any grade if the Secretary determines that such action is in the national interest. The percent of the increase may not exceed the percent by which the Secretary increases that end strength."
 
 Subsec. (e). Pub. L. 107–107 added subsec. (e).
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(b)\], amended table generally, increasing the fiscalyear limitation on number of enlisted members in the Army in grade of E–9 from 645 to 764 and in grade of E–8 from 2,593 to 2,821, and in the Air Force in grade of E–9 from 405 to 502 and in grade of E–8 from 1,041 to 1,117.
+<b>2000</b>—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title IV, §415(b)\], amended table generally, increasing the fiscal year limitation on number of enlisted members in the Army in grade of E–9 from 645 to 764 and in grade of E–8 from 2,593 to 2,821, and in the Air Force in grade of E–9 from 405 to 502 and in grade of E–8 from 1,041 to 1,117.
 
 Subsec. (c). Pub. L. 106–398, §1 \[\[div. A\], title IV, §421(c)\], added subsec. (c).
 
@@ -159,7 +159,7 @@ Subsec. (d). Pub. L. 106–398, §1 \[\[div. A\], title IV, §424(b)\], added su
 
 <b>1998</b>—Subsec. (a). Pub. L. 105–261, in table, in grade E–9 increased figure for Army from 603 to 623 and for Air Force from 366 to 395, and in grade E–8 increased figure for Air Force from 890 to 997.
 
-<b>1996</b>—Pub. L. 104–106, §1501(b)(10), substituted “the National” for “National” in section catchline.
+<b>1996</b>—Pub. L. 104–106, §1501(b)(10), substituted "the National" for "National" in section catchline.
 
 Subsec. (a). Pub. L. 104–106, §414(b), in table, in grade E–9, increased figure for Army from 569 to 603, for Air Force from 328 to 366, and for Marine Corps from 14 to 20, and in grade E–8, increased figure for Air Force from 840 to 890 and for Marine Corps from 74 to 94. All other figures remained unchanged.
 

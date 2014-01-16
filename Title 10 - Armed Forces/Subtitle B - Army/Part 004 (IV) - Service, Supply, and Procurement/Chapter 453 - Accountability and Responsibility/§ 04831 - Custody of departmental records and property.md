@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 R.S. 217.
 
-The words “under the lawful control of the executive part of the Department of the Army” are substituted for the words “appertaining to the Department”.
+The words "under the lawful control of the executive part of the Department of the Army" are substituted for the words "appertaining to the Department".
 

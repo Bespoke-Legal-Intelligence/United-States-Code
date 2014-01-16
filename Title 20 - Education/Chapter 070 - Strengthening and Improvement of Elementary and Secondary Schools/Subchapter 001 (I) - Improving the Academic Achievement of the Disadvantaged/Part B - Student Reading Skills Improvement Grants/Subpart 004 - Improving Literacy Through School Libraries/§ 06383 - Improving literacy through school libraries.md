@@ -24,7 +24,7 @@ From the funds appropriated under section 6302(b)(4) of this title for a fiscal 
 
 #### (3) Definition of eligible local educational agency
 
-&emsp;In this section the term “eligible local educational agency” means—
+&emsp;In this section the term "eligible local educational agency" means—
 
 &emsp;&emsp;(A) in the case of a local educational agency receiving assistance made available under paragraph (1), a local educational agency in which 20 percent of the students served by the local educational agency are from families with incomes below the poverty line; and
 
@@ -72,7 +72,7 @@ From the funds appropriated under section 6302(b)(4) of this title for a fiscal 
 
 &emsp;Each State educational agency desiring assistance under this section shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary shall require. The application shall contain a description of—
 
-&emsp;&emsp;(A) how the State educational agency will assist eligible local educational agencies inmeeting the requirements of this section and in using scientifically based research to implement effective school library media programs; and
+&emsp;&emsp;(A) how the State educational agency will assist eligible local educational agencies in meeting the requirements of this section and in using scientifically based research to implement effective school library media programs; and
 
 &emsp;&emsp;(B) the standards and techniques the State educational agency will use to evaluate the quality and impact of activities carried out under this section by eligible local educational agencies to determine the need for technical assistance and whether to continue to provide additional funding to the agencies under this section.
 

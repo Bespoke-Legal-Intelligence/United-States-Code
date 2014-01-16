@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(G) A warning concerning the potential use of K nonimmigrant visas by United States citizens who have a history of committing domestic violence, sexual assault, child abuse, or other crimes and an explanation that such acts may not have resulted in a criminal record for such a citizen.
 
-&emsp;&emsp;(H) Notification of the requirement under subsection (d)(3)(A) of this section that international marriage brokers provide foreign national clients with background information gathered on United States clients from searches of Federal and State sex offender public registries and collected from United States clients regarding their marital history and domestic violence or other violent criminal history, but that such information may not be complete or accurate because the United States client may not have a criminal record or may not have truthfully reported their marital or criminal record.
+&emsp;&emsp;(H) Notification of the requirement under subsection (d)(3)(A) of this section that international marriage brokers provide foreign national clients with background information gathered on United States clients from searches of the National Sex Offender Public Website and collected from United States clients regarding their marital history and domestic violence or other violent criminal history, but that such information may not be complete or accurate because the United States client may not have a criminal record or may not have truthfully reported their marital or criminal record.
 
 #### (3) Summaries
 
@@ -50,7 +50,21 @@
 
 &emsp;&emsp;(ii) The Secretary of Homeland Security shall provide to the Secretary of State, for inclusion in the mailing under clause (i), a copy of the petition submitted by the petitioner for such applicant under subsection (d) or (r) of section 1184 of this title.
 
-&emsp;&emsp;(iii) The Secretary of Homeland Security shall provide to the Secretary of State any criminal background information the Secretary of Homeland Security possesses with respect to a petitioner under subsection (d) or (r) of section 1184 of this title. The Secretary of State, in turn, shall share any such criminal background information that is in government records or databases with the K nonimmigrant visa applicant who is the beneficiary of the petition. The visa applicant shall be informed that such criminal background information is based on available records and may not be complete. The Secretary of State also shall provide for the disclosure of such criminal background information to the visa applicant at the consular interview in the primary language of the visa applicant. Nothing in this clause shall be construed to authorize the Secretary of Homeland Security to conduct any new or additional criminal background check that is not otherwise conducted in the course of adjudicating such petitions.
+&emsp;&emsp;(iii) The Secretary of Homeland Security shall provide to the Secretary of State, for inclusion in the mailing described in clause (i), any criminal background information the Secretary of Homeland Security possesses with respect to a petitioner under subsection (d) or (r) of section 1184 of this title. The Secretary of State, in turn, shall share any such criminal background information that is in government records or databases with the K nonimmigrant visa applicant who is the beneficiary of the petition. The visa applicant shall be informed that such criminal background information is based on available records and may not be complete. The Secretary of State also shall provide for the disclosure of such criminal background information to the visa applicant at the consular interview in the primary language of the visa applicant.
+
+&emsp;&emsp;(iv) The Secretary of Homeland Security shall conduct a background check of the National Crime Information Center's Protection Order Database on each petitioner for a visa under subsection (d) or (r) of section 1184 of this title. Any appropriate information obtained from such background check—
+
+&emsp;&emsp;&emsp;(I) shall accompany the criminal background information provided by the Secretary of Homeland Security to the Secretary of State and shared by the Secretary of State with a beneficiary of a petition referred to in clause (iii); and
+
+&emsp;&emsp;&emsp;(II) shall not be used or disclosed for any other purpose unless expressly authorized by law.
+
+&emsp;&emsp;(v) The Secretary of Homeland Security shall create a cover sheet or other mechanism to accompany the information required to be provided to an applicant for a visa under subsection (d) or (r) of section 1184 of this title by clauses (i) through (iv) of this paragraph or by clauses (i) and (ii) of subsection (r)(4)(B) of such section 1184 of this title, that calls to the applicant's attention—
+
+&emsp;&emsp;&emsp;(I) whether the petitioner disclosed a protection order, a restraining order, or criminal history information on the visa petition;
+
+&emsp;&emsp;&emsp;(II) the criminal background information and information about any protection order obtained by the Secretary of Homeland Security regarding the petitioner in the course of adjudicating the petition; and
+
+&emsp;&emsp;&emsp;(III) whether the information the petitioner disclosed on the visa petition regarding any previous petitions filed under subsection (d) or (r) of such section 1184 of this title is consistent with the information in the multiple visa tracking database of the Department of Homeland Security, as described in subsection (r)(4)(A) of such section 1184 of this title.
 
 #### (B) Consular access
 
@@ -74,7 +88,7 @@
 
 &emsp;During an interview with an applicant for a K nonimmigrant visa, a consular officers shall—
 
-&emsp;&emsp;(A) provide information, in the primary language of the visa applicant, on protection orders or criminal convictions collected under subsection (a)(5)(A)(iii) of this section;
+&emsp;&emsp;(A) provide information, in the primary language of the visa applicant, on protection orders and criminal convictions collected under subsection (a)(5)(A)(iii) of this section;
 
 &emsp;&emsp;(B) provide a copy of the pamphlet developed under subsection (a)(1) of this section in English or another appropriate language and provide an oral summary, in the primary language of the visa applicant, of that pamphlet; and
 
@@ -90,17 +104,31 @@ In fulfilling the requirements of this section, no official of the Department of
 
 #### (d) Regulation of international marriage brokers
 
-#### (1) Prohibition on marketing children
+#### (1) Prohibition on marketing of or to children
 
-&emsp;An international marriage broker shall not provide any individual or entity with the personal contact information, photograph, or general information about the background or interests of any individual under the age of 18.
+#### (A) In general
+
+&emsp;&emsp;An international marriage broker shall not provide any individual or entity with the personal contact information, photograph, or general information about the background or interests of any individual under the age of 18.
+
+#### (B) Compliance
+
+&emsp;&emsp;To comply with the requirements of subparagraph (A), an international marriage broker shall—
+
+&emsp;&emsp;&emsp;(i) obtain a valid copy of each foreign national client's birth certificate or otherproof of age document issued by an appropriate government entity;
+
+&emsp;&emsp;&emsp;(ii) indicate on such certificate or document the date it was received by the international marriage broker;
+
+&emsp;&emsp;&emsp;(iii) retain the original of such certificate or document for 7 years after such date of receipt; and
+
+&emsp;&emsp;&emsp;(iv) produce such certificate or document upon request to an appropriate authority charged with the enforcement of this paragraph.
 
 #### (2) Requirements of international marriage brokers with respect to mandatory collection of background information
 
 #### (A) In general
 
-#### (i) Search of sex offender public registries
+#### (i) Search of sex offender public website
 
-&emsp;&emsp;&emsp;Each international marriage broker shall search the National Sex Offender Public Registry or State sex offender public registry, as required under paragraph (3)(A)(i).
+&emsp;&emsp;&emsp;Each international marriage broker shall search the National Sex Offender Public Website, as required under paragraph (3)(A)(i).
 
 #### (ii) Collection of background information
 
@@ -112,7 +140,7 @@ In fulfilling the requirements of this section, no official of the Department of
 
 &emsp;&emsp;&emsp;(i) Any temporary or permanent civil protection order or restraining order issued against the United States client.
 
-&emsp;&emsp;&emsp;(ii) Any Federal, State, or local arrest or conviction of the United States client for homicide, murder, manslaughter, assault, battery, domestic violence, rape, sexual assault, abusive sexual contact, sexual exploitation, incest, child abuse or neglect, torture, trafficking, peonage, holding hostage, involuntary servitude, slave trade, kidnapping, abduction, unlawful criminal restraint, false imprisonment, or stalking.
+&emsp;&emsp;&emsp;(ii) Any Federal, State, or local arrest or conviction of the United States client for homicide, murder, manslaughter, assault, battery, domestic violence, rape, sexual assault, abusive sexual contact, sexual exploitation, incest, child abuse or neglect, torture, trafficking, peonage, holding hostage, involuntary servitude, slave trade, kidnapping, abduction, unlawful criminal restraint, false imprisonment, stalking, or an attempt to commit any such crime.
 
 &emsp;&emsp;&emsp;(iii) Any Federal, State, or local arrest or conviction of the United States client for—
 
@@ -136,7 +164,7 @@ In fulfilling the requirements of this section, no official of the Department of
 
 &emsp;&emsp;An international marriage broker shall not provide any United States client or representative with the personal contact information of any foreign national client unless and until the international marriage broker has—
 
-&emsp;&emsp;&emsp;(i) performed a search of the National Sex Offender Public Registry, or of the relevant State sex offender public registry for any State not yet participating in the National Sex Offender Public Registry in which the United States client has resided during the previous 20 years, for information regarding the United States client;
+&emsp;&emsp;&emsp;(i) performed a search of the National Sex Offender Public Website for information regarding the United States client;
 
 &emsp;&emsp;&emsp;(ii) collected background information about the United States client required under paragraph (2);
 
@@ -144,9 +172,9 @@ In fulfilling the requirements of this section, no official of the Department of
 
 &emsp;&emsp;&emsp;&emsp;(I) in the foreign national client's primary language, a copy of any records retrieved from the search required under paragraph (2)(A)(i) or documentation confirming that such search retrieved no records;
 
-&emsp;&emsp;&emsp;&emsp;(II) in the foreign national client's primary language, a copy of the background information collected by the international marriage broker under paragraph (2)(B); and
+&emsp;&emsp;&emsp;&emsp;(II) in the foreign national client's primary language, a copy of the signed certification and accompanying documentation or attestation regarding the background information collected under paragraph (2)(B); and
 
-&emsp;&emsp;&emsp;&emsp;(III) in the foreign national client's primary language (or in English or other appropriate language if there is no translation available into the client's primarylanguage), the pamphlet developed under subsection (a)(1) of this section; and
+&emsp;&emsp;&emsp;&emsp;(III) in the foreign national client's primary language (or in English or other appropriate language if there is no translation available into the client's primary language), the pamphlet developed under subsection (a)(1) of this section; and
 
 &emsp;&emsp;&emsp;(iv) received from the foreign national client a signed, written consent, in the foreign national client's primary language, to release the foreign national client's personal contact information to the specific United States client.
 
@@ -154,13 +182,9 @@ In fulfilling the requirements of this section, no official of the Department of
 
 &emsp;&emsp;In fulfilling the requirements of this paragraph, an international marriage broker shall disclose the relationship of the United States client to individuals who were issued a protection order or restraining order as described in clause (i) of paragraph (2)(B), or of any other victims of crimes as described in clauses (ii) through (iv) of such paragraph, but shall not disclose the name or location information of such individuals.
 
-#### (C) Penalty for misuse of information
-
-&emsp;&emsp;A person who knowingly discloses, uses, or causes to be used any information obtained by an international marriage broker as a result of the obligations imposed on it under paragraph (2) and this paragraph for any purpose other than the disclosures required under this paragraph shall be fined in accordance with title 18 or imprisoned not more than 1 year, or both. These penalties are in addition to any other civil or criminal liability under Federal or State law which a person may be subject to for the misuse of that information, including to threaten, intimidate, or harass any individual. Nothing in this section shall prevent the disclosure of such information to law enforcement or pursuant to a court order.
-
 #### (4) Limitation on disclosure
 
-&emsp;An international marriage broker shall not provide the personal contact information of any foreign national client to any person or entity other than a United States client. Such information shall not be disclosed to potential United States clients or individuals who are being recruited to be United States clients or representatives.
+&emsp;An international marriage broker shall not provide the personal contact information of any foreign national client to any person orentity other than a United States client. Such information shall not be disclosed to potential United States clients or individuals who are being recruited to be United States clients or representatives.
 
 #### (5) Penalties
 
@@ -172,17 +196,49 @@ In fulfilling the requirements of this section, no official of the Department of
 
 #### (ii) Procedures for imposition of penalty
 
-&emsp;&emsp;&emsp;A penalty may be imposed under clause (i) by the Attorney General only after notice and an opportunity for an agency hearing on the record in accordance with subchapter II of chapter 5 of title 5 (popularly known as the Administrative Procedure Act).
+&emsp;&emsp;&emsp;At the discretion of the Attorney General, a penalty may be imposed under clause (i) either by a Federal judge, or by the Attorney General after notice and an opportunity for an agency hearing on the record in accordance with subchapter II of chapter 5 of title 5 (popularly known as the Administrative Procedure Act).
 
-#### (B) Federal criminal penalty
+#### (B) Federal criminal penalties
 
-&emsp;&emsp;In circumstances in or affecting interstate or foreign commerce, an international marriage broker that, within the special maritime and territorial jurisdiction of the United States, violates (or attempts to violate) paragraph (1), (2), (3), or (4) shall be fined in accordance with title 18 or imprisoned for not more than 5 years, or both.
+#### (i) Failure of international marriage brokers to comply with obligations
+
+&emsp;&emsp;&emsp;Except as provided in clause (ii), an international marriage broker that, in circumstances in or affecting interstate or foreign commerce, or within the special maritime and territorial jurisdiction of the United States—
+
+&emsp;&emsp;&emsp;&emsp;(I) except as provided in subclause (II), violates (or attempts to violate) paragraph (1), (2), (3), or (4) shall be fined in accordance with title 18 or imprisoned for not more than 1 year, or both; or
+
+&emsp;&emsp;&emsp;&emsp;(II) knowingly violates or attempts to violate paragraphs <sup>1</sup> (1), (2), (3), or (4) shall be fined in accordance with title 18 or imprisoned for not more than 5 years, or both.
+
+#### (ii) Misuse of information
+
+&emsp;&emsp;&emsp;A person who knowingly discloses, uses, or causes to be used any information obtained by an international marriage broker as a result of a requirement under paragraph (2) or (3) for any purpose other than the disclosures required under paragraph (3) shall be fined in accordance with title 18 or imprisoned for not more than 1 year, or both.
+
+#### (iii) Fraudulent failures of United States clients to make required self-disclosures
+
+&emsp;&emsp;&emsp;A person who knowingly and with intent to defraud another person outside the United States in order to recruit, solicit, entice, or induce that other person into entering a dating or matrimonial relationship, makes false or fraudulent representations regarding the disclosures described in clause (i), (ii), (iii), or (iv) of subsection (d)(2)(B), including by failing to make any such disclosures, shall be fined in accordance with title 18, imprisoned for not more than 1 year, or both.
+
+#### (iv) Relationship to other penalties
+
+&emsp;&emsp;&emsp;The penalties provided in clauses (i), (ii), and (iii) are in addition to any other civil or criminal liability under Federal or State law to which a person may be subject for the misuse of information, including misuse to threaten, intimidate, or harass any individual.
+
+#### (v) Construction
+
+&emsp;&emsp;&emsp;Nothing in this paragraph or paragraph (3) or (4) may be construed to prevent the disclosure of information to law enforcement or pursuant to a court order.
 
 #### (C) Additional remedies
 
-&emsp;&emsp;The penalties and remedies under this subsection are in addition to any other penalties or remedies available under law.
+&emsp;&emsp;The penalties and remedies under this subsection are in addition to any other penalties or remedies available under law including equitable remedies.
 
-#### (6) Nonpreemption
+#### (6) Enforcement
+
+#### (A) Authority
+
+&emsp;&emsp;The Attorney General shall be responsible for the enforcement of the provisions of this section, including the prosecution of civil and criminal penalties provided for by this section.
+
+#### (B) Consultation
+
+&emsp;&emsp;The Attorney General shall consult with the Director of the Office on Violence Against Women of the Department of Justice to develop policies and public education designed to promote enforcement of this section.
+
+#### (7) Nonpreemption
 
 &emsp;Nothing in this subsection shall preempt—
 
@@ -190,7 +246,7 @@ In fulfilling the requirements of this section, no official of the Department of
 
 &emsp;&emsp;(B) any other or further right or remedy available under law to any party utilizing the services of an international marriage broker.
 
-#### (7) Effective date
+#### (8) Effective date
 
 #### (A) In general
 
@@ -210,7 +266,7 @@ In this section:
 
 #### (2) Domestic violence
 
-&emsp;The term “domestic violence” has the meaning given such term in section 3 of this Act.<sup>1</sup>
+&emsp;The term “domestic violence” has the meaning given such term in section 3 of this Act.<sup>2</sup>
 
 #### (3) Foreign national client
 
@@ -220,7 +276,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;The term “international marriage broker” means a corporation, partnership, business, individual, or other legal entity, whether or not organized under any law of the United States, that charges fees for providing dating, matrimonial, matchmaking services, or social referrals between United States citizens or nationals or aliens lawfully admittedto the United States as permanent residents and foreign national clients by providing personal contact information or otherwise facilitating communication between individuals.
+&emsp;&emsp;The term “international marriage broker” means a corporation, partnership, business, individual, or other legal entity, whether or not organized under any law of the United States, that charges fees for providing dating, matrimonial, matchmaking services, or social referrals between United States citizens or nationals or aliens lawfully admitted to the United States as permanent residents and foreign national clients by providing personal contact information or otherwise facilitating communication between individuals.
 
 #### (B) Exceptions
 
@@ -266,13 +322,13 @@ In this section:
 
 &emsp;The term “United States client” means a United States citizen or other individual who resides in the United States and who utilizes the services of an international marriage broker, if a payment is made or a debt is incurred to utilize such services.
 
-#### (f) GAO study and report
+#### (f) GAO studies and reports
 
 #### (1) Study
 
 &emsp;The Comptroller General of the United States shall conduct a study—
 
-&emsp;&emsp;(A) on the impact of this section and section 832 <sup>1</sup> on the K nonimmigrant visa process, including specifically—
+&emsp;&emsp;(A) on the impact of this section and section 832 <sup>2</sup> on the K nonimmigrant visa process, including specifically—
 
 &emsp;&emsp;&emsp;(i) annual numerical changes in petitions for K nonimmigrant visas;
 
@@ -288,11 +344,11 @@ In this section:
 
 &emsp;&emsp;&emsp;(vii) the annual number of fiancé(e) and spousal K nonimmigrant visa petitions or family-based immigration petitions filed by petitioners or applicants who have concurrently filed other fiancé(e) or spousal K nonimmigrant visa petitioners or family-based immigration petitions; and
 
-&emsp;&emsp;&emsp;(viii) the annual and cumulative number of petitioners and applicants tracked in the multiple filings database established under paragraph (4) of section 1184(r) of this title, as added by this Act;
+&emsp;&emsp;&emsp;(viii) the annual and cumulative number of petitioners and applicants tracked inthe multiple filings database established under paragraph (4) of section 1184(r) of this title, as added by this Act;
 
 &emsp;&emsp;(B) regarding the number of international marriage brokers doing business in the United States, the number of marriages resulting from the services provided, and the extent of compliance with the applicable requirements of this section;
 
-&emsp;&emsp;(C) that assesses the accuracy and completeness of information gathered under section 832 <sup>1</sup> and this section from clients and petitioners by international marriage brokers, the Department of State, or the Department of Homeland Security;
+&emsp;&emsp;(C) that assesses the accuracy and completeness of information gathered under section 832 <sup>2</sup> and this section from clients and petitioners by international marriage brokers, the Department of State, or the Department of Homeland Security;
 
 &emsp;&emsp;(D) that examines, based on the information gathered, the extent to which persons with a history of violence are using either the K nonimmigrant visa process or the services of international marriage brokers, or both, and the extent to which such persons are providing accurate and complete information to the Department of State or the Department of Homeland Security and to international marriage brokers in accordance with subsections (a) and (d)(2)(B) of this section; and
 
@@ -306,7 +362,21 @@ In this section:
 
 &emsp;The Secretary of Homeland Security and the Secretary of State shall collect and maintain the data necessary for the Comptroller General of the United States to conduct the study required by paragraph (1).
 
-(Pub. L. 109–162, title VIII, §833, Jan. 5, 2006, 119 Stat. 3068.)
+#### (4) Continuing impact study and report
+
+#### (A) Study
+
+&emsp;&emsp;The Comptroller General shall conduct a study on the continuing impact of the implementation of this section and of section of <sup>3</sup> 1184 of this title on the process for granting K nonimmigrant visas, including specifically a study of the items described in subparagraphs (A) through (E) of paragraph (1).
+
+#### (B) Report
+
+&emsp;&emsp;Not later than 2 years after March 7, 2013, the Comptroller General shall submit to the Committee on the Judiciary of the Senate and the Committee on the Judiciary of the House of Representatives a report setting forth the results of the study conducted under subparagraph (A).
+
+#### (C) Data collection
+
+&emsp;&emsp;The Attorney General, the Secretary of Homeland Security, and the Secretary of State shall collect and maintain the data necessary for the Comptroller General to conduct the study required by paragraph (1)(A).
+
+(Pub. L. 109–162, title VIII, §833, Jan. 5, 2006, 119 Stat. 3068; Pub. L. 113–4, title VIII, §§807(b), 808(b)–(d), Mar. 7, 2013, 127 Stat. 113–116.)
 
 #### References in Text
 
@@ -322,5 +392,43 @@ Section was enacted as part of the International Marriage Broker Regulation Act 
 
 Section is comprised of section 833 of Pub. L. 109–162. Subsec. (g) of section 833 of Pub. L. 109–162 repealed section 1375 of this title.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Amendments
+
+<b>2013</b>—Subsec. (a)(2)(H). Pub. L. 113–4, §808(b), substituted “the National Sex Offender Public Website” for “Federal and State sex offender public registries”.
+
+Subsec. (a)(5)(A)(iii). Pub. L. 113–4, §807(b)(1)(A), substituted “State, for inclusion in the mailing described in clause (i), any” for “State any” in the first sentence and struck out the last sentence which read as follows: “Nothing in this clause shall be construed to authorize the Secretary of Homeland Security to conduct any new or additional criminal background check that is not otherwise conducted in the course of adjudicating such petitions.”
+
+Subsec. (a)(5)(A)(iv), (v). Pub. L. 113–4, §807(b)(1)(B), added cls. (iv) and (v).
+
+Subsec. (b)(1)(A). Pub. L. 113–4, §807(b)(2), substituted “orders and criminal” for “orders or criminal”.
+
+Subsec. (d)(1). Pub. L. 113–4, §808(c)(1), amended par. (1) generally. Prior to amendment, text read as follows: “An international marriage broker shall not provide any individual or entity with the personal contact information, photograph, or general information about the background or interests of any individual under the age of 18.”
+
+Subsec. (d)(2)(A)(i). Pub. L. 113–4, §808(c)(2)(A), substituted “website” for “registries” in heading and “Website,” for “Registry or State sex offender public registry,” in text.
+
+Subsec. (d)(2)(B)(ii). Pub. L. 113–4, §808(c)(2)(B), substituted “stalking, or an attempt to commit any such crime.” for “or stalking.”
+
+Subsec. (d)(3)(A)(i). Pub. L. 113–4, §808(c)(3)(A)(i), which directed substitution of “Website” for “Registry, or of the relevant State sex offender public registry for any State not yet participating in the National Sex Offender Public Registry, in which the United States client has resided during the previous 20 years,”, was executed by making the substitution for “Registry, or of the relevant State sex offender public registry for anyState not yet participating in the National Sex Offender Public Registry in which the United States client has resided during the previous 20 years,” to reflect the probable intent of Congress.
+
+Subsec. (d)(3)(A)(iii)(II). Pub. L. 113–4, §808(c)(3)(A)(ii), substituted “signed certification and accompanying documentation or attestation regarding the background information collected under paragraph (2)(B);” for “background information collected by the international marriage broker under paragraph (2)(B);”.
+
+Subsec. (d)(3)(C). Pub. L. 113–4, §808(c)(3)(B), struck out subpar. (C). Text read as follows: “A person who knowingly discloses, uses, or causes to be used any information obtained by an international marriage broker as a result of the obligations imposed on it under paragraph (2) and this paragraph for any purpose other than the disclosures required under this paragraph shall be fined in accordance with title 18 or imprisoned not more than 1 year, or both. These penalties are in addition to any other civil or criminal liability under Federal or State law which a person may be subject to for the misuse of that information, including to threaten, intimidate, or harass any individual. Nothing in this section shall prevent the disclosure of such information to law enforcement or pursuant to a court order.”
+
+Subsec. (d)(5)(A)(ii). Pub. L. 113–4, §808(c)(4)(A), substituted “At the discretion of the Attorney General, a penalty may be imposed under clause (i) either by a Federal judge, or by the Attorney General” for “A penalty may be imposed under clause (i) by the Attorney General only”.
+
+Subsec. (d)(5)(B). Pub. L. 113–4, §808(c)(4)(B), amended subpar. (B) generally. Prior to amendment, text read as follows: “In circumstances in or affecting interstate or foreign commerce, an international marriage broker that, within the special maritime and territorial jurisdiction of the United States, violates (or attempts to violate) paragraph (1), (2), (3), or (4) shall be fined in accordance with title 18 or imprisoned for not more than 5 years, or both.”
+
+Subsec. (d)(5)(C). Pub. L. 113–4, §808(c)(4)(C), substituted “including equitable remedies.” for period at end.
+
+Subsec. (d)(6) to (8). Pub. L. 113–4, §808(c)(5), (6), added par. (6) and redesignated former pars. (6) and (7) as (7) and (8), respectively.
+
+Subsec. (f). Pub. L. 113–4, §808(d)(1), substituted “studies and reports” for “study and report” in heading.
+
+Subsec. (f)(4). Pub. L. 113–4, §808(d)(2), added par. (4).
+
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

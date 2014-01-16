@@ -68,7 +68,7 @@ In implementing the program, the Secretary shall target resources to achieve the
 
 #### (3) Plan development exception
 
-&emsp;An owner may receive cost-share assistance under the program for the purpose of developing a management plan under subsection (e) of this section that provides for the treatment of acreage in excess of the acreage limitations specified in paragraphs (1)(A)(i) and (2), except that the owner's eligibility for cost-share assistance to implement approved activities and practices under the management plan remainssubject to the acreage limitation specified in paragraph (1)(A)(i) or, if the Secretary makes the determination described in paragraph (2), the acreage limitation specified in that paragraph.
+&emsp;An owner may receive cost-share assistance under the program for the purpose of developing a management plan under subsection (e) of this section that provides for the treatment of acreage in excess of the acreage limitations specified in paragraphs (1)(A)(i) and (2), except that the owner's eligibility for cost-share assistance to implement approved activities and practices under the management plan remains subject to the acreage limitation specified in paragraph (1)(A)(i) or, if the Secretary makes the determination described in paragraph (2), the acreage limitation specified in that paragraph.
 
 #### (e) Management plan
 
@@ -196,7 +196,7 @@ In this section:
 
 #### (1) Nonindustrial private forest lands
 
-&emsp;The term “nonindustrial private forest lands” means rural lands, as determined by the Secretary, that—
+&emsp;The term "nonindustrial private forest lands" means rural lands, as determined by the Secretary, that—
 
 &emsp;&emsp;(A) have existing tree cover or are suitable for growing trees; and
 
@@ -204,27 +204,27 @@ In this section:
 
 #### (2) Committee
 
-&emsp;The terms “State Forest Stewardship Coordinating Committee” and “Committee” means <sup>1</sup> a State Forest Stewardship Coordinating Committee established under section 2113(b) of this title.
+&emsp;The terms "State Forest Stewardship Coordinating Committee" and "Committee" means <sup>1</sup> a State Forest Stewardship Coordinating Committee established under section 2113(b) of this title.
 
 #### (3) Indian tribe
 
-&emsp;The term “Indian tribe” has the meaning given the term in section 450b of title 25.
+&emsp;The term "Indian tribe" has the meaning given the term in section 450b of title 25.
 
 #### (4) Owner
 
-&emsp;The term “owner” means an owner of nonindustrial private forest land.
+&emsp;The term "owner" means an owner of nonindustrial private forest land.
 
 #### (5) Program
 
-&emsp;The term “program” means the forest land enhancement program established by this section.
+&emsp;The term "program" means the forest land enhancement program established by this section.
 
 #### (6) Secretary
 
-&emsp;The term “Secretary” means the Secretary of Agriculture.
+&emsp;The term "Secretary" means the Secretary of Agriculture.
 
 #### (7) State forester
 
-&emsp;The term “State forester” means the director or other head of a State Forestry Agency or equivalent State official.
+&emsp;The term "State forester" means the director or other head of a State Forestry Agency or equivalent State official.
 
 (Pub. L. 95–313, §4, as added Pub. L. 107–171, title VIII, §8002(b), May 13, 2002, 116 Stat. 468.)
 
@@ -234,15 +234,15 @@ A prior section 2103, Pub. L. 95–313, §4, July 1, 1978, 92 Stat. 367; Pub. L.
 
 #### Use of Remaining Funds
 
-Pub. L. 107–171, title VIII, §8001(b), May 13, 2002, 116 Stat. 468, provided that: “Notwithstanding the amendment made by subsection (a) \[repealing former sections 2103 and 2103b of this title\], the Secretary of Agriculture may use funds appropriated for fiscal year 2002 for the forestry incentives program or the stewardship incentive program, but not expended before the date of enactment of this Act \[May 13, 2002\], to carry out sections 4 and 6 of the Cooperative Forestry Assistance Act of 1978 \[former sections 2103 and 2103b of this title\], as in effect on the date before the date of enactment of this Act.”
+Pub. L. 107–171, title VIII, §8001(b), May 13, 2002, 116 Stat. 468, provided that: "Notwithstanding the amendment made by subsection (a) \[repealing former sections 2103 and 2103b of this title\], the Secretary of Agriculture may use funds appropriated for fiscal year 2002 for the forestry incentives program or the stewardship incentive program, but not expended before the date of enactment of this Act \[May 13, 2002\], to carry out sections 4 and 6 of the Cooperative Forestry Assistance Act of 1978 \[former sections 2103 and 2103b of this title\], as in effect on the date before the date of enactment of this Act."
 
 #### Purposes of Forest Land Enhancement Program
 
-Pub. L. 107–171, title VIII, §8002(a), May 13, 2002, 116 Stat. 468, provided that: “The purposes of this section \[enacting this section and amending section 6962 of Title 7, Agriculture\] are—
+Pub. L. 107–171, title VIII, §8002(a), May 13, 2002, 116 Stat. 468, provided that: "The purposes of this section \[enacting this section and amending section 6962 of Title 7, Agriculture\] are—
 
-&emsp;“(1) to strengthen the commitment of the Secretary of Agriculture to sustainable forest management to enhance the productivity of timber, fish and wildlife habitat, soil and water quality, wetland, recreational resources, and aesthetic values of forest land; and
+&emsp;"(1) to strengthen the commitment of the Secretary of Agriculture to sustainable forest management to enhance the productivity of timber, fish and wildlife habitat, soil and water quality, wetland, recreational resources, and aesthetic values of forest land; and
 
-&emsp;“(2) to establish a coordinated and cooperative Federal, State, and local sustainable forestry program for the establishment, management, maintenance, enhancement, and restoration of forests on nonindustrial private forest land.”
+&emsp;"(2) to establish a coordinated and cooperative Federal, State, and local sustainable forestry program for the establishment, management, maintenance, enhancement, and restoration of forests on nonindustrial private forest land."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “mean”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "mean".</i>
 

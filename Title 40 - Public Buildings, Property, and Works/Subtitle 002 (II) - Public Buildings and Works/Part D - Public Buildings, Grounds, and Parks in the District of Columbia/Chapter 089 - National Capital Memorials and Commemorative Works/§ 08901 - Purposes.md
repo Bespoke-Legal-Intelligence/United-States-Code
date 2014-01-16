@@ -34,17 +34,17 @@ Pub. L. 99–652, §1, Nov. 14, 1986, 100 Stat. 3650.
 
 #### Amendments
 
-<b>2003</b>—Par. (2). Pub. L. 108–126 substituted “Columbia and its environs, and to encourage the location of commemorative works within the urban fabric of the District of Columbia;” for “Columbia;”.
+<b>2003</b>—Par. (2). Pub. L. 108–126 substituted "Columbia and its environs, and to encourage the location of commemorative works within the urban fabric of the District of Columbia;" for "Columbia;".
 
 #### Effective Date of 2003 Amendment
 
-Pub. L. 108–126, title II, §205, Nov. 17, 2003, 117 Stat. 1353, provided that: “Except for the provision in the amendment made by section 202(b) \[amending section 8908 of this title\] prohibiting a visitor center from being located in the Reserve (as defined in section 8902 of title 40, United States Code), nothing in this title \[see Short Title of 2003 Amendment note set out under section 101 of this title\] shall apply to a commemorative work for which a site was approved in accordance with chapter 89 of title 40, United States Code, prior to the date of enactment of this title \[Nov. 17, 2003\].”
+Pub. L. 108–126, title II, §205, Nov. 17, 2003, 117 Stat. 1353, provided that: "Except for the provision in the amendment made by section 202(b) \[amending section 8908 of this title\] prohibiting a visitor center from being located in the Reserve (as defined in section 8902 of title 40, United States Code), nothing in this title \[see Short Title of 2003 Amendment note set out under section 101 of this title\] shall apply to a commemorative work for which a site was approved in accordance with chapter 89 of title 40, United States Code, prior to the date of enactment of this title \[Nov. 17, 2003\]."
 
 #### Findings
 
-Pub. L. 108–126, title II, §202(a), Nov. 17, 2003, 117 Stat. 1349, provided that: “Congress finds that—
+Pub. L. 108–126, title II, §202(a), Nov. 17, 2003, 117 Stat. 1349, provided that: "Congress finds that—
 
-&emsp;“(1) the great cross-axis of the Mall in the District of Columbia, which generally extends from the United States Capitol to the Lincoln Memorial, and from the White House to the Jefferson Memorial, is a substantially completed work of civic art; and
+&emsp;"(1) the great cross-axis of the Mall in the District of Columbia, which generally extends from the United States Capitol to the Lincoln Memorial, and from the White House to the Jefferson Memorial, is a substantially completed work of civic art; and
 
-&emsp;“(2) to preserve the integrity of the Mall, a reserve area should be designated within the core of the great cross-axis of the Mall where the siting of new commemorative works is prohibited.”
+&emsp;"(2) to preserve the integrity of the Mall, a reserve area should be designated within the core of the great cross-axis of the Mall where the siting of new commemorative works is prohibited."
 

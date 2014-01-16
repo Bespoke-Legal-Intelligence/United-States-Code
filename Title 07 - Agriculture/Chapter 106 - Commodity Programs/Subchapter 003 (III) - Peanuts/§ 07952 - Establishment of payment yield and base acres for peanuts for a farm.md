@@ -70,7 +70,7 @@
 
 #### (4) Assignment deadlines
 
-&emsp;Not later than March 31, 2003, an historic peanut producer shall submit to the Secretary notice of the assignments made by the producer under this subsection. If an historic peanut producer fails to submit the notice by that date, the notice shall be submitted in such other manner as the Secretary may prescribe.
+&emsp;Not later than March 31, 2003, an historic peanut producer shall submit to the Secretarynotice of the assignments made by the producer under this subsection. If an historic peanut producer fails to submit the notice by that date, the notice shall be submitted in such other manner as the Secretary may prescribe.
 
 #### (c) Payment yield
 
@@ -130,7 +130,7 @@ The owner of a farm may reduce, at any time, the base acres for peanuts assigned
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (c) and (d), was in the original “this subtitle”, meaning subtitle C (§§1301–1310) of Pub. L. 107–171, title I, May 13, 2002, 116 Stat. 166, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
+This subchapter, referred to in subsecs. (c) and (d), was in the original "this subtitle", meaning subtitle C (§§1301–1310) of Pub. L. 107–171, title I, May 13, 2002, 116 Stat. 166, which is classified principally to this subchapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
 
 The Food Security Act of 1985, referred to in subsec. (f)(2)(B), is Pub. L. 99–198, Dec. 23, 1985, 99 Stat. 1354, as amended. Chapter 1 of subtitle D of title XII of the Act is classified generally to part I (§3830 et seq.) of subchapter IV of chapter 58 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title of 1985 Amendment note set out under section 1281 of this title and Tables.
 

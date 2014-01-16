@@ -1,6 +1,6 @@
 ### §1855. Timber set afire
 
-Whoever, willfully and without authority, sets on fire any timber, underbrush, or grass or other inflammable material upon the public domain or upon any lands owned or leased by or under the partial, concurrent, or exclusive jurisdiction of the United States, or under contract for purchase or for the acquisition of which condemnation proceedings have been instituted, or upon any Indian reservation or lands belonging to or occupied by any tribe or group of Indians under authority of the United States, or upon any Indian allotment while the title to the same shall be held in trust by the Government, or while the same shall remain inalienable by the allottee without the consent of the United States, shall be fined under this title or imprisoned not more than five years, or both.
+Whoever, willfully and without authority, sets on fire any timber, underbrush, or grass or otherinflammable material upon the public domain or upon any lands owned or leased by or under the partial, concurrent, or exclusive jurisdiction of the United States, or under contract for purchase or for the acquisition of which condemnation proceedings have been instituted, or upon any Indian reservation or lands belonging to or occupied by any tribe or group of Indians under authority of the United States, or upon any Indian allotment while the title to the same shall be held in trust by the Government, or while the same shall remain inalienable by the allottee without the consent of the United States, shall be fined under this title or imprisoned not more than five years, or both.
 
 This section shall not apply in the case of a fire set by an allottee in the reasonable exercise of his proprietary rights in the allotment.
 
@@ -12,13 +12,13 @@ Based on title 18, U.S.C., 1940 ed., §106 (Mar. 4, 1909, ch. 321, §52, 35 Stat
 
 Surplus verbiage and unnecessary enumerations were omitted.
 
-Words “without authority” were inserted near beginning of section so as to remove any doubt as to scope or meaning of section.
+Words "without authority" were inserted near beginning of section so as to remove any doubt as to scope or meaning of section.
 
-Reference to persons causing or procuring was omitted as unnecessary in view of definition of “principal” in section 2 of this title.
+Reference to persons causing or procuring was omitted as unnecessary in view of definition of "principal" in section 2 of this title.
 
 Minor verbal changes were made.
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–690 substituted “under this title” for “not more than $5,000” in first par.
+<b>1988</b>—Pub. L. 100–690 substituted "under this title" for "not more than $5,000" in first par.
 

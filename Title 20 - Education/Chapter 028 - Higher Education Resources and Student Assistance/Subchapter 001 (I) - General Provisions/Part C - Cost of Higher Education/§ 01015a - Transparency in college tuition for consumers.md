@@ -6,15 +6,15 @@ In this section:
 
 #### (1) College Navigator website
 
-&emsp;The term “College Navigator website” means the College Navigator website operated by the Department and includes any successor website.
+&emsp;The term "College Navigator website" means the College Navigator website operated by the Department and includes any successor website.
 
 #### (2) Cost of attendance
 
-&emsp;The term “cost of attendance” means the average annual cost of tuition and fees, room and board, books, supplies, and transportation for an institution of higher education for a first-time, full-time undergraduate student enrolled in the institution.
+&emsp;The term "cost of attendance" means the average annual cost of tuition and fees, room and board, books, supplies, and transportation for an institution of higher education for a first-time, full-time undergraduate student enrolled in the institution.
 
 #### (3) Net price
 
-&emsp;The term “net price” means the average yearly price actually charged to first-time, full-time undergraduate students receiving student aid at an institution of higher education after deducting such aid, which shall be determined by calculating the difference between—
+&emsp;The term "net price" means the average yearly price actually charged to first-time, full-time undergraduate students receiving student aid at an institution of higher education after deducting such aid, which shall be determined by calculating the difference between—
 
 &emsp;&emsp;(A) the institution's cost of attendance for the year for which the determination is made; and
 
@@ -26,7 +26,7 @@ In this section:
 
 #### (4) Tuition and fees
 
-&emsp;The term “tuition and fees” means the average annual cost of tuition and fees for an institution of higher education for first-time, full-time undergraduate students enrolled in the institution.
+&emsp;The term "tuition and fees" means the average annual cost of tuition and fees for an institution of higher education for first-time, full-time undergraduate students enrolled in the institution.
 
 #### (b) Calculations for public institutions
 
@@ -192,7 +192,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 &emsp;&emsp;(H) The percentages of first-time, full-time, degree- or certificate-seeking students enrolled at the institution, disaggregated by race and ethnic background.
 
-&emsp;&emsp;(I) The percentage of undergraduate students enrolled at the institution who are formally registered with the office of disability services of the institution (or the equivalent office) as students with disabilities, except that if such percentage is three percent or less, the institution shall report “three percent or less”.
+&emsp;&emsp;(I) The percentage of undergraduate students enrolled at the institution who are formally registered with the office of disability services of the institution (or the equivalent office) as students with disabilities, except that if such percentage is three percent or less, the institution shall report "three percent or less".
 
 &emsp;&emsp;(J) The percentages of first-time, full-time, degree- or certificate-seeking undergraduate students enrolled at the institution who obtain a degree or certificate within—
 
@@ -260,7 +260,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 #### (4) Data collection
 
-&emsp;The Commissioner for Education Statistics shall continue to update and improve the Integrated Postsecondary Education Data System (referred to in this section as “IPEDS”), including the reporting of information by institutions and the timeliness of the data collected.
+&emsp;The Commissioner for Education Statistics shall continue to update and improve the Integrated Postsecondary Education Data System (referred to in this section as "IPEDS"), including the reporting of information by institutions and the timeliness of the data collected.
 
 #### (5) Institution pricing summary page
 
@@ -368,7 +368,7 @@ The Secretary shall annually report on the College Navigator website, in charts 
 
 &emsp;&emsp;&emsp;(i) debt burden of such loan recipients, and their capacity to repay their education debts; and
 
-&emsp;&emsp;&emsp;(ii) the impact of such debt burden on the recipients’ course of study and post-graduation plans;
+&emsp;&emsp;&emsp;(ii) the impact of such debt burden on the recipients' course of study and post-graduation plans;
 
 &emsp;&emsp;(E) to describe the impact of the cost of attendance of postsecondary education in the determination by students of what institution of higher education to attend; and
 

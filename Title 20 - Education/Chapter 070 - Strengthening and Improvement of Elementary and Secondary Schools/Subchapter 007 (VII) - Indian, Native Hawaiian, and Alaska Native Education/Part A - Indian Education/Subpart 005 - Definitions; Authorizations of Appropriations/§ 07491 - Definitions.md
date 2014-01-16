@@ -4,7 +4,7 @@ For the purposes of this part:
 
 #### (1) Adult
 
-&emsp;The term “adult” means an individual who—
+&emsp;The term "adult" means an individual who—
 
 &emsp;&emsp;(A) has attained the age of 16 years; or
 
@@ -12,7 +12,7 @@ For the purposes of this part:
 
 #### (2) Free public education
 
-&emsp;The term “free public education” means education that is—
+&emsp;The term "free public education" means education that is—
 
 &emsp;&emsp;(A) provided at public expense, under public supervision and direction, and without tuition charge; and
 
@@ -20,7 +20,7 @@ For the purposes of this part:
 
 #### (3) Indian
 
-&emsp;The term “Indian” means an individual who is—
+&emsp;The term "Indian" means an individual who is—
 
 &emsp;&emsp;(A) a member of an Indian tribe or band, as membership is defined by the tribe or band, including—
 

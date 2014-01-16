@@ -42,7 +42,7 @@
 
 (e)(1) Members of the Commission shall serve without pay.
 
-(2) While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses in the samemanner as persons employed intermittently in the service of the Federal Government are allowed expenses under section 5703 of title 5, United States Code, except that per diem in lieu of subsistence shall be paid only to those members of the Commission who are not full-time officers or employees of the United States or Members of the Congress.
+(2) While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses in the same manner as persons employed intermittently in the service of the Federal Government are allowed expenses under section 5703 of title 5, United States Code, except that per diem in lieu of subsistence shall be paid only to those members of the Commission who are not full-time officers or employees of the United States or Members of the Congress.
 
 (f) The Chairman of the Commission shall be designated by the President from among members appointed under subsection (a)(1)(G).
 
@@ -52,9 +52,9 @@
 
 #### Amendments
 
-<b>1976</b>—Subsec. (a)(1)(E). Pub. L. 94–261, §1(a)(1), substituted “one member of the Federal judiciary appointed by the Chief Justice of the United States;” for “one Justice of the Supreme Court, appointed by the Chief Justice of the United States;”.
+<b>1976</b>—Subsec. (a)(1)(E). Pub. L. 94–261, §1(a)(1), substituted "one member of the Federal judiciary appointed by the Chief Justice of the United States;" for "one Justice of the Supreme Court, appointed by the Chief Justice of the United States;".
 
-Subsec. (e)(2). Pub. L. 94–261, §1(a)(2), substituted “section 5703 of title 5, United States Code” for “section 5703(b) of title 5, United States Code”.
+Subsec. (e)(2). Pub. L. 94–261, §1(a)(2), substituted "section 5703 of title 5, United States Code" for "section 5703(b) of title 5, United States Code".
 
 #### Termination of Commission
 

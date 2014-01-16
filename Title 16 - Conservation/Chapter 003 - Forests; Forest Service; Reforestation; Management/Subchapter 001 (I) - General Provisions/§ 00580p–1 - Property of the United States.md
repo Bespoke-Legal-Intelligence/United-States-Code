@@ -2,9 +2,9 @@
 
 The following are hereby declared the property of the United States:
 
-&emsp;(1) The name and character “Smokey Bear”.
+&emsp;(1) The name and character "Smokey Bear".
 
-&emsp;(2) The name and character “Woodsy Owl” and the associated slogan, “Give a Hoot, Don't Pollute”.
+&emsp;(2) The name and character "Woodsy Owl" and the associated slogan, "Give a Hoot, Don't Pollute".
 
 (Pub. L. 93–318, §2, June 22, 1974, 88 Stat. 245.)
 

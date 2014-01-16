@@ -94,7 +94,7 @@ The authority to select averages and statistically valid samples shall rest excl
 
 <b>2012</b>—Subsec. (f). Pub. L. 112–99 added subsec. (f).
 
-<b>1994</b>—Pub. L. 103–465, §269(b)(1), inserted “and countervailable subsidy rate” after “margin” in section catchline.
+<b>1994</b>—Pub. L. 103–465, §269(b)(1), inserted "and countervailable subsidy rate" after "margin" in section catchline.
 
 Pub. L. 103–465, §269(a), added subsec. (e).
 
@@ -102,11 +102,11 @@ Pub. L. 103–465, §229(a), amended section generally, substituting present pro
 
 #### Effective Date of 2012 Amendment
 
-Pub. L. 112–99, §2(b), Mar. 13, 2012, 126 Stat. 266, provided that: “Subsection (f) of section 777A of the Tariff Act of 1930 \[19 U.S.C. 1677f–1(f)\], as added by subsection (a) of this section, applies to—
+Pub. L. 112–99, §2(b), Mar. 13, 2012, 126 Stat. 266, provided that: "Subsection (f) of section 777A of the Tariff Act of 1930 \[19 U.S.C. 1677f–1(f)\], as added by subsection (a) of this section, applies to—
 
-&emsp;“(1) all investigations and reviews initiated pursuant to title VII of that Act (19 U.S.C. 1671 et seq.) on or after the date of the enactment of this Act \[Mar. 13, 2012\]; and
+&emsp;"(1) all investigations and reviews initiated pursuant to title VII of that Act (19 U.S.C. 1671 et seq.) on or after the date of the enactment of this Act \[Mar. 13, 2012\]; and
 
-&emsp;“(2) subject to subsection (c) of section 129 of the Uruguay Round Agreements Act (19 U.S.C. 3538), all determinations issued under subsection (b)(2) of that section on or after the date of the enactment of this Act.”
+&emsp;"(2) subject to subsection (c) of section 129 of the Uruguay Round Agreements Act (19 U.S.C. 3538), all determinations issued under subsection (b)(2) of that section on or after the date of the enactment of this Act."
 
 #### Effective Date of 1994 Amendment
 

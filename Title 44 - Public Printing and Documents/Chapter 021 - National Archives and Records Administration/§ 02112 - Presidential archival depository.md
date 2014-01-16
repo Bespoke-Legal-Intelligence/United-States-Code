@@ -12,11 +12,11 @@
 
 &emsp;(ii) maintain, operate, and protect the depository as a part of the national archives system; and
 
-&emsp;(C) accept, for and in the name of the United States, gifts offered for the purpose of making any physical or material change or addition to a Presidential archival depository.
+&emsp;(C) accept, for and in the name of the United States, gifts offered for the purpose of makingany physical or material change or addition to a Presidential archival depository.
 
 (2) The Archivist shall promulgate architectural and design standards applicable to Presidential archival depositories in order to ensure that such depositories (A) preserve Presidential records subject to chapter 22 of this title and papers and other historical materials accepted for deposit under section 2111 of this title and (B) contain adequate research facilities.
 
-(3) Prior to accepting and taking title to any land, facility, or equipment under subparagraph (A) of paragraph (1), or prior to entering intoany agreement under subparagraph (B) of such paragraph or any other agreement to accept or establish a Presidential archival depository, the Archivist shall submit a written report on the proposed Presidential archival depository to the President of the Senate and the Speaker of the House of Representatives. The report shall include—
+(3) Prior to accepting and taking title to any land, facility, or equipment under subparagraph (A) of paragraph (1), or prior to entering into any agreement under subparagraph (B) of such paragraph or any other agreement to accept or establish a Presidential archival depository, the Archivist shall submit a written report on the proposed Presidential archival depository to the President of the Senate and the Speaker of the House of Representatives. The report shall include—
 
 &emsp;(A) a description of the land, facility, and equipment offered as a gift or to be made available without transfer of title;
 
@@ -58,7 +58,7 @@
 
 (b) When the Archivist considers it to be in the public interest, he may deposit in a Presidential archival depository papers, documents, or other historical materials accepted under section 2111 of this title, or Federal records appropriate for preservation.
 
-(c) When the Archivist considers it to be in the public interest, he may exercise, with respect to papers, documents, or other historical materials deposited under this section, or otherwise, in a Presidential archival depository, all the functions and responsibilities otherwise vested in him pertaining to Federal records or other documentary materials in his custody or under his control. The Archivist, in negotiating for the deposit of Presidential historical materials, shall take steps to secure to the Government, as far as possible, the right to have continuous and permanent possession of the materials. Papers, documents, or other historical materials accepted and deposited under section 2111 of this title and this section are subject to restrictions as to their availability and use stated in writing by the donors or depositors, including the restriction that they shall be kept in a Presidential archival depository. The restrictions shall be respected for the period stated, or until revoked or terminated by the donors or depositors or by persons legally qualified to act on their behalf. Subject to the restrictions, the Archivist may dispose by sale, exchange, or otherwise, of papers, documents, or other materials which the Archivist determines to have no permanent value or historical interest or to be surplus to the needs of a Presidential archival depository. Only the first two sentences of this subsection shall apply to Presidential records as defined in section 2201(2) of this title.
+(c) When the Archivist considers it to be in the public interest, he may exercise, with respect to papers, documents, or other historical materials deposited under this section, or otherwise, in a Presidential archival depository, all the functions and responsibilities otherwise vested in him pertaining to Federal records or other documentary materials in his custody or under his control. The Archivist, in negotiating for the deposit of Presidential historical materials, shall take steps to secure to the Government, as far as possible, the right to have continuous and permanent possession of the materials. Papers, documents, or other historical materials accepted and deposited under section 2111 of this title and this section are subject to restrictions as to their availability and use stated in writing by the donors or depositors, including the restriction that they shall be kept in a Presidential archival depository. The restrictions shall be respected for the period stated, or until revoked or terminated by the donors or depositors or by persons legally qualified to act on their behalf. Subject to the restrictions, the Archivist may dispose by sale, exchange, or otherwise, of papers, documents, or other materials which theArchivist determines to have no permanent value or historical interest or to be surplus to the needs of a Presidential archival depository. Only the first two sentences of this subsection shall apply to Presidential records as defined in section 2201(2) of this title.
 
 (d) When the Archivist considers it to be in the public interest, he may cooperate with and assist a university, institution of higher learning, institute, foundation, or other organization or qualified individual to further or to conduct study or research in historical materials deposited in a Presidential archival depository.
 
@@ -116,7 +116,7 @@
 
 (B) For purposes of subparagraphs (A)(ii), (B)(i)(II), and (B)(ii)(II) of paragraph (3) the percentage of 60 percent shall apply instead of 20 percent.
 
-(C)(i) In this subparagraph, the term “base endowment amount” means the amount of the endowment required under paragraph (3).
+(C)(i) In this subparagraph, the term "base endowment amount" means the amount of the endowment required under paragraph (3).
 
 (ii)(I) The Archivist may give credits against the base endowment amount if the Archivist determines that the proposed Presidential archival depository will have construction features or equipment that are expected to result in quantifiable long-term savings to the Government with respect to the cost of facility operations.
 
@@ -142,29 +142,29 @@ A prior section 2112 was renumbered section 2116 of this title.
 
 #### Amendments
 
-<b>2008</b>—Subsec. (g)(5)(B). Pub. L. 110–404 substituted “60” for “40”.
+<b>2008</b>—Subsec. (g)(5)(B). Pub. L. 110–404 substituted "60" for "40".
 
-<b>2004</b>—Subsec. (e). Pub. L. 108–383 substituted “space, or for the occasional, non-official use of rooms and spaces (and services related to such use),” for “space”.
+<b>2004</b>—Subsec. (e). Pub. L. 108–383 substituted "space, or for the occasional, non-official use of rooms and spaces (and services related to such use)," for "space".
 
 <b>2003</b>—Subsec. (g)(5). Pub. L. 108–7 added par. (5).
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–323, §3(a), amended subsec. (a) generally, revising and restating as pars. (1) to (5) provisions of former undesignated pars. containing similar subject matter.
 
-Subsec. (g). Pub. L. 99–323, §3(b), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “When the Archivist considers it be in the public interest, he may accept gifts or bequests of money or other property for the purpose of maintaining, operating, protecting, or improving a Presidential archival depository. The proceeds of gifts or bequests, together with the proceeds from fees or from sales of historical materials, copies or reproductions, catalogs, or other items, having to do with a Presidential archival depository, shall be paid into the National Archives Trust Fund to be held, administered, and expended for the benefit and in the interest of the Presidential archival depository in connection with which they were received, including administrative and custodial expenses as the Archivist determines.”
+Subsec. (g). Pub. L. 99–323, §3(b), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: "When the Archivist considers it be in the public interest, he may accept gifts or bequests of money or other property for the purpose of maintaining, operating, protecting, or improving a Presidential archival depository. The proceeds of gifts or bequests, together with the proceeds from fees or from sales of historical materials, copies or reproductions, catalogs, or other items, having to do with a Presidential archival depository, shall be paid into the National Archives Trust Fund to be held, administered, and expended for the benefit and in the interest of the Presidential archival depository in connection with which they were received, including administrative and custodial expenses as the Archivist determines."
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–497, §107(a)(6), substituted “Archivist” for “Administrator of General Services” and “Archivist” for “Administrator” wherever appearing.
+<b>1984</b>—Subsec. (a). Pub. L. 98–497, §107(a)(6), substituted "Archivist" for "Administrator of General Services" and "Archivist" for "Administrator" wherever appearing.
 
-Subsecs. (b), (c). Pub. L. 98–497, §107(a)(6), substituted “Archivist” for “Administrator” and “section 2111” for “section 2107” wherever appearing.
+Subsecs. (b), (c). Pub. L. 98–497, §107(a)(6), substituted "Archivist" for "Administrator" and "section 2111" for "section 2107" wherever appearing.
 
-Subsecs. (d) to (g). Pub. L. 98–497, §107(a)(6), substituted “Archivist” for “Administrator” wherever appearing.
+Subsecs. (d) to (g). Pub. L. 98–497, §107(a)(6), substituted "Archivist" for "Administrator" wherever appearing.
 
 <b>1978</b>—Subsec. (c). Pub. L. 95–591 limited application of subsec. (c) when dealing with Presidential records.
 
-<b>1976</b>—Subsecs. (b), (c). Pub. L. 94–575 substituted reference to section “2107” for “3106”.
+<b>1976</b>—Subsecs. (b), (c). Pub. L. 94–575 substituted reference to section "2107" for "3106".
 
 #### Effective Date of 1986 Amendment
 
-Section 4 of Pub. L. 99–323 provided that: “Paragraphs (3) and (4) of section 2112(g) of title 44, United States Code (as added by the amendment made by section 3(b) of this Act) shall apply with respect to any Presidential archival depository created as a depository for the papers, documents, and other historical materials and Federal records pertaining to any President who takes the oath of office as President for the first time on or after January 20, 1985.”
+Section 4 of Pub. L. 99–323 provided that: "Paragraphs (3) and (4) of section 2112(g) of title 44, United States Code (as added by the amendment made by section 3(b) of this Act) shall apply with respect to any Presidential archival depository created as a depository for the papers, documents, and other historical materials and Federal records pertaining to any President who takes the oath of office as President for the first time on or after January 20, 1985."
 
 #### Effective Date of 1984 Amendment
 
@@ -178,37 +178,37 @@ Amendment by Pub. L. 95–591 effective with respect to Presidential records cre
 
 Pub. L. 110–404, §6(a), Oct. 13, 2008, 122 Stat. 4284, provided that:
 
-“(1)
+"(1)
 
 Provision of plan.—The Archivist of the United States shall provide to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives a 10-year capital improvement plan, in accordance with paragraph (2), for all Presidential archival depositories (as defined in section 2101 of title 44, United States Code), which shall include—
 
-&emsp;“(A) a prioritization of all capital projects at Presidential archival depositories that cost more than $1,000,000;
+&emsp;"(A) a prioritization of all capital projects at Presidential archival depositories that cost more than $1,000,000;
 
-&emsp;“(B) the current estimate of the cost of each capital project; and
+&emsp;"(B) the current estimate of the cost of each capital project; and
 
-&emsp;“(C) the basis upon which each cost estimate was developed.
+&emsp;"(C) the basis upon which each cost estimate was developed.
 
-“(2)
+"(2)
 
-Provided to congress.—The capital improvement plan shall be provided to the committees, as described in paragraph (1), at the same time as the first Budget of the United States Government after the dateof enactment of this Act \[Oct. 13, 2008\] is submitted to Congress.
+Provided to congress.—The capital improvement plan shall be provided to the committees, as described in paragraph (1), at the same time as the first Budget of the United States Government after the date of enactment of this Act \[Oct. 13, 2008\] is submitted to Congress.
 
-“(3)
+"(3)
 
 Annual updates and explanation of changes in cost estimates.—The Archivist of the United States shall provide to the Committee on Appropriations of the Senate and the Committee on Appropriations of the House of Representatives—
 
-&emsp;“(A) annual updates to the capital improvement plan described in paragraph (1) at the same time as each subsequent Budget of the United States Government is submitted to Congress; and
+&emsp;"(A) annual updates to the capital improvement plan described in paragraph (1) at the same time as each subsequent Budget of the United States Government is submitted to Congress; and
 
-&emsp;“(B) an explanation for any changes in cost estimates.”
+&emsp;"(B) an explanation for any changes in cost estimates."
 
 #### John Fitzgerald Kennedy Library
 
-Pub. L. 89–547, Aug. 27, 1966, 80 Stat. 370, provided: “That the Administrator of General Services is hereby authorized to accept title to the structure or structures to be erected and equipped at Cambridge, Massachusetts, by the John Fitzgerald Kennedy Library, Incorporated, to be transferred to the United States Government, without reimbursement, for use as a Presidential archival depository to be known as the John Fitzgerald Kennedy Library, and to maintain, operate, and protect such depository as a part of the National Archives system. The Administrator may enter into such agreements with the officers of the John Fitzgerald Kennedy Library, Incorporated, as are necessary to complete the transfer of title to the United States and may do so without regard to the provision of section 507(f)(1) of the Federal Property and Administrative Services Act of 1949, as amended (44 U.S.C. \[former\] 397(f)(1) \[now subsec. (a) of this section\], that the Administrator shall not enter into any such agreement until the expiration of the first period of sixty calendar days of continuous session of the Congress following the date on which a report in writing of any such proposed Presidential archival depository is transmitted by the Administrator to the President of the Senate and the Speaker of the House of Representatives.”
+Pub. L. 89–547, Aug. 27, 1966, 80 Stat. 370, provided: "That the Administrator of General Services is hereby authorized to accept title to the structure or structures to be erected and equipped at Cambridge, Massachusetts, by the John Fitzgerald Kennedy Library, Incorporated, to be transferred to the United States Government, without reimbursement, for use as a Presidential archival depository to be known as the John Fitzgerald Kennedy Library, and to maintain, operate, and protect such depository as a part of the National Archives system. The Administrator may enter into such agreements with the officers of the John Fitzgerald Kennedy Library, Incorporated, as are necessary to complete the transfer of title to the United States and may do so without regard to the provision of section 507(f)(1) of the Federal Property and Administrative Services Act of 1949, as amended (44 U.S.C. \[former\] 397(f)(1) \[now subsec. (a) of this section\], that the Administrator shall not enter into any such agreement until the expiration of the first period of sixty calendar days of continuous session of the Congress following the date on which a report in writing of any such proposed Presidential archival depository is transmitted by the Administrator to the President of the Senate and the Speaker of the House of Representatives."
 
 \[For transfer of certain functions of the Administrator of General Services under Pub. L. 89–547 to the Archivist of the United States, see section 103(b)(2) of Pub. L. 98–497, set out as a Transfer of Functions note under section 2102 of this title.\]
 
 #### Lyndon Baines Johnson Presidential Archival Depository
 
-Pub. L. 89–169, Sept. 6, 1965, 79 Stat. 648, provided: “That the Administrator of General Services is hereby authorized to enter into an agreement upon such terms and conditions as he determines proper with the University of Texas to utilize as the Lyndon Baines Johnson Archival Depository, land, buildings, and equipment of such university to be made available by it without transfer of title to the United States, and to maintain, operate and protect such depository as a part of the National Archives system. Such agreement may be entered into without regard to the provisions of section 507(f)(1) of the Federal Property and Administrative Services Act of 1949, as amended (44 U.S.C. \[former\] 397(f)(1)) \[now subsec. (a) of this section\], that the Administrator shall not enter into any such agreement until the expiration of the first period of sixty calendar days of continuous session of the Congress following the date on which a report in writing of any such proposed Presidential archival depository is transmitted by the Administrator to the President of the Senate and the Speaker of the House of Representatives.”
+Pub. L. 89–169, Sept. 6, 1965, 79 Stat. 648, provided: "That the Administrator of General Services is hereby authorized to enter into an agreement upon such terms and conditions as he determines proper with the University of Texas to utilize as the Lyndon Baines Johnson Archival Depository, land, buildings, and equipment of such university to be made available by it without transfer of title to the United States, and to maintain, operate and protect such depository as a part of the National Archives system. Such agreement may be entered into without regard to the provisions of section 507(f)(1) of the Federal Property and Administrative Services Act of 1949, as amended (44 U.S.C. \[former\] 397(f)(1)) \[now subsec. (a) of this section\], that the Administrator shall not enter into any such agreement until the expiration of the first period of sixty calendar days of continuous session of the Congress following the date on which a report in writing of any such proposed Presidential archival depository is transmitted by the Administrator to the President of the Senate and the Speaker of the House of Representatives."
 
 \[For transfer of certain functions of the Administrator of General Services under Pub. L. 89–169 to the Archivist of the United States, see section 103(b)(2) of Pub. L. 98–497, set out as a Transfer of Functions note under section 2102 of this title.\]
 

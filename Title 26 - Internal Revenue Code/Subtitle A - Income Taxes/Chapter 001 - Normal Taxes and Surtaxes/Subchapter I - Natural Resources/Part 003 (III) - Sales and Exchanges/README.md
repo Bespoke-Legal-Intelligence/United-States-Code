@@ -9,7 +9,7 @@
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–455, title XIX, §1901(b)(22)(A), Oct. 4, 1976, 90 Stat. 1798, struck out item 632 “Sale of oil or gas properties”.
+<b>1976</b>—Pub. L. 94–455, title XIX, §1901(b)(22)(A), Oct. 4, 1976, 90 Stat. 1798, struck out item 632 "Sale of oil or gas properties".
 
 <b>1964</b>—Pub. L. 88–272, title II, §227(b)(2), Feb. 26, 1964, 78 Stat. 98, inserted reference to domestic iron ore in item 631.
 

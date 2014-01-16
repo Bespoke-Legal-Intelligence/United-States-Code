@@ -12,13 +12,13 @@ All special taxes shall be imposed as of on the first day of July in each year, 
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–600 struck out “or 4461(a)(1) (coin-operated gaming devices)” after “(wagering)”.
+<b>1978</b>—Subsec. (a). Pub. L. 95–600 struck out "or 4461(a)(1) (coin-operated gaming devices)" after "(wagering)".
 
 <b>1976</b>—Subsec. (c). Pub. L. 94–455 struck out subsec. (c) which provided that all special taxes should be paid by stamp and made reference to subtitle F for authority of the Secretary to make assessments where special taxes have not been duly paid by stamp.
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–513 struck out references to tax imposed by sections 4721 (narcotic drugs) and 4751 (marihuana).
 
-<b>1965</b>—Subsec. (a). Pub. L. 89–44 substituted “4461(a)(1)” for “4461(2)”.
+<b>1965</b>—Subsec. (a). Pub. L. 89–44 substituted "4461(a)(1)" for "4461(2)".
 
 #### Effective Date of 1978 Amendment
 

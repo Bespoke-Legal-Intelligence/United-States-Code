@@ -10,5 +10,5 @@ Where any lands included within the boundary of the monument on the map referred
 
 (Pub. L. 100–225, title I, §104, Dec. 31, 1987, 101 Stat. 1540.)
 
-<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "section".</i>
 

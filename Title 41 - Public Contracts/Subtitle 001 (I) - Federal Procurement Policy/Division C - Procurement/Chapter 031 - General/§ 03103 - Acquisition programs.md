@@ -2,7 +2,7 @@
 
 (a)
 
-Congressional Policy.—It is the policy of Congress that the head of each executive agencyshould achieve, on average, 90 percent of the cost, performance, and schedule goals established for major acquisition programs of the agency.
+Congressional Policy.—It is the policy of Congress that the head of each executive agency should achieve, on average, 90 percent of the cost, performance, and schedule goals established for major acquisition programs of the agency.
 
 (b)
 

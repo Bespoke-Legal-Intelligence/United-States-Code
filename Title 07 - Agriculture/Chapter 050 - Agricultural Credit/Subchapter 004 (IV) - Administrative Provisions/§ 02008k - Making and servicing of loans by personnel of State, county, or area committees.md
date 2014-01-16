@@ -6,5 +6,5 @@ The Secretary shall use personnel of a State, county or area committee establish
 
 #### References in Text
 
-For definition of “this chapter”, referred to in text, see note set out under section 1921 of this title.
+For definition of "this chapter", referred to in text, see note set out under section 1921 of this title.
 

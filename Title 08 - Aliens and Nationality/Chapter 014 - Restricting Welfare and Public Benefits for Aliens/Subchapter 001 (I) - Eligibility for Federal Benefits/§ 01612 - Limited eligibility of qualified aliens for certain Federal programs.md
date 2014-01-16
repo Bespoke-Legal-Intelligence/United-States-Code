@@ -118,7 +118,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (J) Food stamp exception for certain children
 
-&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any individual who is under 18 years of age.
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described inparagraph (3)(B), paragraph (1) shall not apply to any individual who is under 18 years of age.
 
 #### (K) Food stamp exception for certain Hmong and Highland Laotians
 
@@ -170,7 +170,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of subclauses (I) and (II), the declaration required under this subclause of a qualified alien or victim of trafficking described in either such subclause is a declaration under penalty of perjury stating that the alien or victim has made a good faith effort to pursue United States citizenship, as determined by the Secretary of Homeland Security. The Commissioner of Social Security shall develop criteria as needed, in consultation with the Secretary of Homeland Security, for consideration of such declarations.
+&emsp;&emsp;&emsp;&emsp;&emsp;For purposes of subclauses (I) and (II), the declaration required underthis subclause of a qualified alien or victim of trafficking described in either such subclause is a declaration under penalty of perjury stating that the alien or victim has made a good faith effort to pursue United States citizenship, as determined by the Secretary of Homeland Security. The Commissioner of Social Security shall develop criteria as needed, in consultation with the Secretary of Homeland Security, for consideration of such declarations.
 
 #### (bb) Exception for children
 

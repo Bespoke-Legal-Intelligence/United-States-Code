@@ -8,7 +8,7 @@ In General.—Under regulations prescribed by the Administrator of General Servi
 
 &emsp;(B) a title that readily identifies the department, establishment, corporation, or agency that uses the vehicle and that is descriptive of the service for which the vehicle is used; and
 
-&emsp;(2) the legend “For official use only”.
+&emsp;(2) the legend "For official use only".
 
 (b)
 

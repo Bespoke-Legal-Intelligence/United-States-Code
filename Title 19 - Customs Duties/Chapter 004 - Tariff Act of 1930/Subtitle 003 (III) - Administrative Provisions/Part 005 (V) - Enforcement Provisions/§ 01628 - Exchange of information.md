@@ -40,5 +40,5 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “(3)”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "(3)".</i>
 

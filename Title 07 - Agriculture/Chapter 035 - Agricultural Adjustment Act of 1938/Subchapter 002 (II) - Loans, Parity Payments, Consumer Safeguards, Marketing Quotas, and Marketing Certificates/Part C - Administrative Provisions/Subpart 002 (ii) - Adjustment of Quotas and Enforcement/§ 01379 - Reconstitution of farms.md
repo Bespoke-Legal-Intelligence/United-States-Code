@@ -14,21 +14,21 @@ In any case in which the ownership of a tract of land is transferred from a pare
 
 &emsp;(6) neither the tract transferred from the parent farm nor the remaining portion of the parent farm receives allotments in excess of allotments for similar farms in the community having allotments of the commodity or commodities involved and such allotments are consistent with good land uses.
 
-(Feb. 16, 1938, ch. 30, title III, §379, as added Pub. L. 89–321, title VII, §707, Nov. 3, 1965, 79 Stat. 1211; amended Pub. L. 91–524, title IV, §404(4), title VI, §605(2), Nov. 30, 1970, 84 Stat. 1366, 1378; Pub. L. 98–180, title II, §212(b), Nov. 29, 1983, 97 Stat. 1149; Pub. L. 101–577, §2(c), Nov. 15, 1990, 104 Stat. 2856; Pub. L. 102–237, title I, §116(3), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 106–78, title VIII, §803(c)(6)(C), Oct. 22, 1999, 113 Stat. 1178; Pub. L. 108–357, title VI, §611(m), Oct. 22, 2004, 118 Stat. 1523.)
+(Feb. 16, 1938, ch. 30, title III, §379, as added Pub. L. 89–321, title VII, §707, Nov. 3, 1965, 79 Stat.1211; amended Pub. L. 91–524, title IV, §404(4), title VI, §605(2), Nov. 30, 1970, 84 Stat. 1366, 1378; Pub. L. 98–180, title II, §212(b), Nov. 29, 1983, 97 Stat. 1149; Pub. L. 101–577, §2(c), Nov. 15, 1990, 104 Stat. 2856; Pub. L. 102–237, title I, §116(3), Dec. 13, 1991, 105 Stat. 1841; Pub. L. 106–78, title VIII, §803(c)(6)(C), Oct. 22, 1999, 113 Stat. 1178; Pub. L. 108–357, title VI, §611(m), Oct. 22, 2004, 118 Stat. 1523.)
 
 #### Amendments
 
-<b>2004</b>—Pub. L. 108–357 struck out “(a)” before “In any case”, struck out “, but this clause (6) shall not be applicable in the case of burley tobacco” before period at end of par. (6), and struck out subsecs. (b) and (c), which related to combination of tracts in contiguous counties, and to burley tobacco poundage quota when a farm is divided through reconstitution, respectively.
+<b>2004</b>—Pub. L. 108–357 struck out "(a)" before "In any case", struck out ", but this clause (6) shall not be applicable in the case of burley tobacco" before period at end of par. (6), and struck out subsecs. (b) and (c), which related to combination of tracts in contiguous counties, and to burley tobacco poundage quota when a farm is divided through reconstitution, respectively.
 
-<b>1999</b>—Subsec. (b). Pub. L. 106–78 inserted “or flue-cured” after “Burley”.
+<b>1999</b>—Subsec. (b). Pub. L. 106–78 inserted "or flue-cured" after "Burley".
 
-<b>1991</b>—Subsecs. (a)(4) to (7), (c). Pub. L. 102–237 struck out “or” at end of par. (4), substituted “; or” for period at end of par. (5), substituted a period for “; or” at end of par. (6), and redesignated par. (7) as subsec. (c) and moved subsec. (c) to follow subsec. (b).
+<b>1991</b>—Subsecs. (a)(4) to (7), (c). Pub. L. 102–237 struck out "or" at end of par. (4), substituted "; or" for period at end of par. (5), substituted a period for "; or" at end of par. (6), and redesignated par. (7) as subsec. (c) and moved subsec. (c) to follow subsec. (b).
 
 <b>1990</b>—Subsec. (a)(7). Pub. L. 101–577 added par. (7).
 
 <b>1983</b>—Pub. L. 98–180 designated existing provisions as subsec. (a) and added subsec. (b).
 
-<b>1970</b>—Pub. L. 91–524 temporarily inserted provision that term “acreage allotments” include the farm base acreage allotments for upland cotton and the domestic allotment for wheat. See Effective and Termination Dates of 1970 Amendment note below.
+<b>1970</b>—Pub. L. 91–524 temporarily inserted provision that term "acreage allotments" include the farm base acreage allotments for upland cotton and the domestic allotment for wheat. See Effective and Termination Dates of 1970 Amendment note below.
 
 #### Effective Date of 2004 Amendment
 

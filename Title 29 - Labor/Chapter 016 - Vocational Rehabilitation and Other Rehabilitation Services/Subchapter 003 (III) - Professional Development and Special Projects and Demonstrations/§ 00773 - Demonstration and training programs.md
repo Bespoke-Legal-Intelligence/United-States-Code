@@ -62,11 +62,11 @@
 
 #### (A) Direct services
 
-&emsp;&emsp;The term “direct services” means vocational rehabilitation services, as described in section 723(a) of this title.
+&emsp;&emsp;The term "direct services" means vocational rehabilitation services, as described in section 723(a) of this title.
 
 #### (B) Eligible client
 
-&emsp;&emsp;The term “eligible client” means an individual with a disability, as defined in section 705(20)(A) of this title, who is not currently receiving services under an individualized plan for employment established through a designated State unit.
+&emsp;&emsp;The term "eligible client" means an individual with a disability, as defined in section 705(20)(A) of this title, who is not currently receiving services under an individualized plan for employment established through a designated State unit.
 
 #### (b) Special demonstration programs
 
@@ -262,7 +262,7 @@ A prior section 303 of Pub. L. 93–112 was classified to section 772 of this ti
 
 #### Amendments
 
-<b>2004</b>—Subsec. (c)(4)(A)(ii). Pub. L. 108–446, §305(h)(6), substituted “section 1471” for “section 1482(a)”.
+<b>2004</b>—Subsec. (c)(4)(A)(ii). Pub. L. 108–446, §305(h)(6), substituted "section 1471" for "section 1482(a)".
 
-Subsec. (c)(6). Pub. L. 108–446, §305(h)(5), substituted “section 1471” for “section 1482(a)”.
+Subsec. (c)(6). Pub. L. 108–446, §305(h)(5), substituted "section 1471" for "section 1482(a)".
 

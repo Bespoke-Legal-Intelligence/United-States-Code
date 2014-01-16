@@ -70,7 +70,7 @@ Not later than 180 days after the end of fiscal year 2005, the Comptroller Gener
 
 &emsp;(1) An assessment of the extent to which property and services acquired using authorities provided under this section contributed to the capacity of the Federal workforce to facilitate the mission of the Department as described in section 111 of this title.
 
-&emsp;(2) An assessment of the extent to which prices for property and services acquired using authorities provided under this section reflected the best value.
+&emsp;(2) An assessment of the extent to which prices for property and services acquired usingauthorities provided under this section reflected the best value.
 
 &emsp;(3) The number of employees designated by each executive agency under subsection (b)(1) of this section.
 

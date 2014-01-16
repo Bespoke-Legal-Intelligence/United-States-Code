@@ -28,5 +28,5 @@ The commencement of proceedings for judicial review under this section shall not
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–289 substituted “Director” for “Secretary” wherever appearing.
+<b>2008</b>—Pub. L. 110–289 substituted "Director" for "Secretary" wherever appearing.
 

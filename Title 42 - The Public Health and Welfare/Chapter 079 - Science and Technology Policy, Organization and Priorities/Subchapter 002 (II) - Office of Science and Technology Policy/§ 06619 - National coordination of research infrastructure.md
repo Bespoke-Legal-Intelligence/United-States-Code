@@ -10,7 +10,7 @@ The Director shall, through the National Science and Technology Council, coordin
 
 #### (c) Report
 
-The Director shall submit to Congress each year, together with documents submitted to Congress in support of the budget of the President for the fiscal year beginning in such year (as submitted pursuant to section 1105 of title31), a report, current as of the fiscal year ending in the year before such report is submitted, setting forth the following:
+The Director shall submit to Congress each year, together with documents submitted to Congress in support of the budget of the President for the fiscal year beginning in such year (as submitted pursuant to section 1105 of title 31), a report, current as of the fiscal year ending in the year before such report is submitted, setting forth the following:
 
 &emsp;(1) A description of the deficiencies in research infrastructure identified in accordance with subsection (a).
 

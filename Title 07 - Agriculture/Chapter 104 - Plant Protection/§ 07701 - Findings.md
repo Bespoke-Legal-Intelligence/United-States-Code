@@ -24,13 +24,13 @@ Congress finds that—
 
 #### References in Text
 
-This chapter, referred to in pars. (4) and (9), was in the original “this title”, meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in pars. (4) and (9), was in the original "this title", meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, known as the Plant Protection Act, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 
-Pub. L. 106–224, title IV, §401, June 20, 2000, 114 Stat. 438, provided that: “This title \[enacting this chapter, amending section 7759 of this title and section 129a of Title 21, Food and Drugs, and repealing sections 148, 148a, 148c to 148f, 149, 150, 150a to 150g, 150aa to 150jj, 151 to 154, 156 to 164, 164a, 167, 1651 to 1656, and 2801 to 2813 of this title, and provisions set out as notes under sections 147a, 150, 150aa, 151, and 1651 of this title\] may be cited as the ‘Plant Protection Act’.”
+Pub. L. 106–224, title IV, §401, June 20, 2000, 114 Stat. 438, provided that: "This title \[enacting this chapter, amending section 7759 of this title and section 129a of Title 21, Food and Drugs, and repealing sections 148, 148a, 148c to 148f, 149, 150, 150a to 150g, 150aa to 150jj, 151 to 154, 156 to 164, 164a, 167, 1651 to 1656, and 2801 to 2813 of this title, and provisions set out as notes under sections 147a, 150, 150aa, 151, and 1651 of this title\] may be cited as the 'Plant Protection Act'."
 
-Pub. L. 106–224, title IV, §451, as added by Pub. L. 108–412, §1, Oct. 30, 2004, 118 Stat. 2320, provided that: “This subtitle \[subtitle E (§§451–457) of title IV of Pub. L. 106–224, enacting subchapter V of this chapter\] may be cited as the ‘Noxious Weed Control and Eradication Act of 2004’.”
+Pub. L. 106–224, title IV, §451, as added by Pub. L. 108–412, §1, Oct. 30, 2004, 118 Stat. 2320, provided that: "This subtitle \[subtitle E (§§451–457) of title IV of Pub. L. 106–224, enacting subchapter V of this chapter\] may be cited as the 'Noxious Weed Control and Eradication Act of 2004'."
 
 #### Transfer of Functions
 
@@ -40,63 +40,63 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 
 Pub. L. 110–234, title X, §10204, May 22, 2008, 122 Stat. 1343, and Pub. L. 110–246, §4(a), title X, §10204, June 18, 2008, 122 Stat. 1664, 2105, provided that:
 
-“(a)
+"(a)
 
 In General.—Not later than 18 months after the date of enactment of this Act \[June 18, 2008\], the Secretary \[of Agriculture\] shall—
 
-&emsp;“(1) take action on each issue identified in the document entitled ‘Lessons Learned and Revisions under Consideration for APHIS’ Biotechnology Framework’, dated October 4, 2007; and
+&emsp;"(1) take action on each issue identified in the document entitled 'Lessons Learned and Revisions under Consideration for APHIS' Biotechnology Framework', dated October 4, 2007; and
 
-&emsp;“(2) as the Secretary considers appropriate, promulgate regulations to improve the management and oversight of articles regulated under the Plant Protection Act (7 U.S.C. 7701 et seq.).
+&emsp;"(2) as the Secretary considers appropriate, promulgate regulations to improve the management and oversight of articles regulated under the Plant Protection Act (7 U.S.C. 7701 et seq.).
 
-“(b)
+"(b)
 
 Inclusions.—In carrying out subsection (a), the Secretary shall take actions that are designed to enhance—
 
-&emsp;“(1) the quality and completeness of records;
+&emsp;"(1) the quality and completeness of records;
 
-&emsp;“(2) the availability of representative samples;
+&emsp;"(2) the availability of representative samples;
 
-&emsp;“(3) the maintenance of identity and control in the event of an unauthorized release;
+&emsp;"(3) the maintenance of identity and control in the event of an unauthorized release;
 
-&emsp;“(4) corrective actions in the event of an unauthorized release;
+&emsp;"(4) corrective actions in the event of an unauthorized release;
 
-&emsp;“(5) protocols for conducting molecular forensics;
+&emsp;"(5) protocols for conducting molecular forensics;
 
-&emsp;“(6) clarity in contractual agreements;
+&emsp;"(6) clarity in contractual agreements;
 
-&emsp;“(7) the use of the latest scientific techniques for isolation and confinement distances;
+&emsp;"(7) the use of the latest scientific techniques for isolation and confinement distances;
 
-&emsp;“(8) standards for quality management systems and effective research; and
+&emsp;"(8) standards for quality management systems and effective research; and
 
-&emsp;“(9) the design of electronic permits to store documents and other information relating to the permit and notification processes.
+&emsp;"(9) the design of electronic permits to store documents and other information relating to the permit and notification processes.
 
-“(c)
+"(c)
 
 Consideration.—In carrying out subsection (a), the Secretary shall consider—
 
-&emsp;“(1) establishing—
+&emsp;"(1) establishing—
 
-&emsp;&emsp;“(A) a system of risk-based categories to classify each regulated article;
+&emsp;&emsp;"(A) a system of risk-based categories to classify each regulated article;
 
-&emsp;&emsp;“(B) a means to identify regulated articles (including the retention of seed samples); and
+&emsp;&emsp;"(B) a means to identify regulated articles (including the retention of seed samples); and
 
-&emsp;&emsp;“(C) standards for isolation and containment distances; and
+&emsp;&emsp;"(C) standards for isolation and containment distances; and
 
-&emsp;“(2) requiring permit holders—
+&emsp;"(2) requiring permit holders—
 
-&emsp;&emsp;“(A) to maintain a positive chain of custody;
+&emsp;&emsp;"(A) to maintain a positive chain of custody;
 
-&emsp;&emsp;“(B) to provide for the maintenance of records;
+&emsp;&emsp;"(B) to provide for the maintenance of records;
 
-&emsp;&emsp;“(C) to provide for the accounting of material;
+&emsp;&emsp;"(C) to provide for the accounting of material;
 
-&emsp;&emsp;“(D) to conduct periodic audits;
+&emsp;&emsp;"(D) to conduct periodic audits;
 
-&emsp;&emsp;“(E) to establish an appropriate training program;
+&emsp;&emsp;"(E) to establish an appropriate training program;
 
-&emsp;&emsp;“(F) to provide contingency and corrective action plans; and
+&emsp;&emsp;"(F) to provide contingency and corrective action plans; and
 
-&emsp;&emsp;“(G) to submit reports as the Secretary considers to be appropriate.”
+&emsp;&emsp;"(G) to submit reports as the Secretary considers to be appropriate."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

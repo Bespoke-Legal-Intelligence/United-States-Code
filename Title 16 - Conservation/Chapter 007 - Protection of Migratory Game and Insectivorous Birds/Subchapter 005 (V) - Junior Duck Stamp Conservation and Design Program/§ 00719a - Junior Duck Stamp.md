@@ -48,21 +48,21 @@ Amounts received under subsection (b) of this section—
 
 #### Amendments
 
-<b>2006</b>—Subsec. (c). Pub. L. 109–166 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: “Amounts received under subsection (b) of this section—
+<b>2006</b>—Subsec. (c). Pub. L. 109–166 amended heading and text of subsec. (c) generally. Prior to amendment, text read as follows: "Amounts received under subsection (b) of this section—
 
-&emsp;“(1) shall be available to the Secretary until expended, without further appropriations, solely for—
+&emsp;"(1) shall be available to the Secretary until expended, without further appropriations, solely for—
 
-&emsp;&emsp;“(A) awards and scholarships to individuals who submit designs in competitions under subsection (a) of this section, that are—
+&emsp;&emsp;"(A) awards and scholarships to individuals who submit designs in competitions under subsection (a) of this section, that are—
 
-&emsp;&emsp;&emsp;“(i) selected in such a competition as winning designs; or
+&emsp;&emsp;&emsp;"(i) selected in such a competition as winning designs; or
 
-&emsp;&emsp;&emsp;“(ii) otherwise determined in such a competition to be superior;
+&emsp;&emsp;&emsp;"(ii) otherwise determined in such a competition to be superior;
 
-&emsp;&emsp;“(B) awards to schools and other participants to further education activities related to the conservation education goals of the Program; and
+&emsp;&emsp;"(B) awards to schools and other participants to further education activities related to the conservation education goals of the Program; and
 
-&emsp;&emsp;“(C) expenses for licensing and marketing under subsection (b) of this section; and
+&emsp;&emsp;"(C) expenses for licensing and marketing under subsection (b) of this section; and
 
-&emsp;“(2) may not be used for administrative expenses of the Program.”
+&emsp;"(2) may not be used for administrative expenses of the Program."
 
 <i><sup>1</sup></i><i> So in original. Subsec. (c), as amended by Pub. L. 109–166, does not contain a par. (2).</i>
 

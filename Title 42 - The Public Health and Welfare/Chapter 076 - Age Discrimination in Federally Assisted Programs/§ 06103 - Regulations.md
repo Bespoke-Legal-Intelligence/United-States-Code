@@ -14,7 +14,7 @@
 
 (3) Not later than ninety days after the Secretary publishes proposed regulations under paragraph (1), the Secretary shall publish in the Federal Register final general regulations to carry out the provisions of section 6102 of this title, after taking into consideration any comments received by the Secretary with respect to the regulations proposed under paragraph (1).
 
-(4) Not later than ninety days after the Secretary publishes final general regulations under paragraph (a)(3), the head of each Federal department or agency which extends Federal financial assistance to any program or activity by way of grant, entitlement, loan, or contract other than a contract of insurance or guaranty, shall transmit to the Secretary and publish in the Federal Register proposed regulations to carry out the provisions of section 6102 of this title and to provide appropriate investigative, conciliation, and enforcement procedures. Such regulations shall be consistent with the final general regulations issued by the Secretary, and shall not become effective until approved by the Secretary.
+(4) Not later than ninety days after the Secretary publishes final general regulations under paragraph (a)(3), the head of each Federal department or agency which extends Federal financial assistance to any program or activity by way of grant, entitlement, loan, or contract other than a contract of insurance or guaranty, shall transmit to the Secretary and publish in the Federal Register proposed regulations to carry out the provisions of section 6102 of this title and to provide appropriate investigative, conciliation, and enforcement procedures. Such regulations shall be consistent with the finalgeneral regulations issued by the Secretary, and shall not become effective until approved by the Secretary.
 
 (5) Notwithstanding any other provision of this section, no regulations issued pursuant to this section shall be effective before July 1, 1979.
 
@@ -42,19 +42,19 @@ The Age Discrimination in Employment Act of 1967 (29 U.S.C. 621–634), as amend
 
 #### Codification
 
-In subsec. (c)(1), “Job Training Partnership Act \[29 U.S.C. 1501 et seq.\]” substituted for “Comprehensive Employment and Training Act of 1974 (29 U.S.C. 801 et seq.), as amended” pursuant to section 183 of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357, which is classified to section 1592 of Title 29, Labor, and which provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act.
+In subsec. (c)(1), "Job Training Partnership Act \[29 U.S.C. 1501 et seq.\]" substituted for "Comprehensive Employment and Training Act of 1974 (29 U.S.C. 801 et seq.), as amended" pursuant to section 183 of the Job Training Partnership Act, Pub. L. 97–300, title I, Oct. 13, 1982, 96 Stat. 1357, which is classified to section 1592 of Title 29, Labor, and which provided in part that references in any other statute to the Comprehensive Employment and Training Act shall be deemed to refer to the Job Training Partnership Act.
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c)(1). Pub. L. 105–277 substituted “Nothing” for “Except with respect to any program or activity receiving Federal financial assistance for public service employment under the Job Training Partnership Act, nothing”.
+<b>1998</b>—Subsec. (c)(1). Pub. L. 105–277 substituted "Nothing" for "Except with respect to any program or activity receiving Federal financial assistance for public service employment under the Job Training Partnership Act, nothing".
 
 <b>1978</b>—Subsec. (a)(4). Pub. L. 95–478, §401(b)(1), provided that the regulations shall not become effective until approved by the Secretary.
 
-Subsec. (a)(5). Pub. L. 95–478, §401(b)(2), substituted “July 1, 1979” for “January 1, 1979”.
+Subsec. (a)(5). Pub. L. 95–478, §401(b)(2), substituted "July 1, 1979" for "January 1, 1979".
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a)(1) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a)(1) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1978 Amendment
 

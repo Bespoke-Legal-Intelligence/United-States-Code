@@ -14,7 +14,7 @@ Within the limits fixed by the Secretary in regulations under section 207(d) of 
 
 #### (d) Vacancies in grade for purposes of promotion
 
-The excess of the number so fixed for any grade in any category over the number of officers of the Regular Corps on active duty in such grade in such category (including in the case of the director grade, officers holding such grade in accordance with section 207(c) of this title) shall for the purpose of promotions constitute vacancies in such grade in such category. For purposes of this subsection, an officer who has been temporarily promoted or who is temporarilyholding the grade of director in accordance with section 207(c) of this title shall be deemed to hold the grade to which so promoted or which he is temporarily holding; but while he holds such promotion or grade, and while any officer is temporarily assigned to a position pursuant to section 206(c) of this title, the number fixed under subsection (c) of this section for the grade of his permanent rank shall be reduced by one.
+The excess of the number so fixed for any grade in any category over the number of officers of the Regular Corps on active duty in such grade in such category (including in the case of the director grade, officers holding such grade in accordance with section 207(c) of this title) shall for the purpose of promotions constitute vacancies in such grade in such category. For purposes of this subsection, an officer who has been temporarily promoted or who is temporarily holding the grade of director in accordance with section 207(c) of this title shall be deemed to hold the grade to which so promoted or which he is temporarily holding; but while he holds such promotion or grade, and while any officer is temporarily assigned to a position pursuant to section 206(c) of this title, the number fixed under subsection (c) of this section for the grade of his permanent rank shall be reduced by one.
 
 #### (e) Absence of vacancy in grade as affecting promotion
 
@@ -32,7 +32,7 @@ A prior section 209 of act July 1, 1944, was renumbered section 208 and is class
 
 #### Amendments
 
-<b>1979</b>—Subsec. (c). Pub. L. 96–76 substituted “warrant officer (W–1)” for “assistant”.
+<b>1979</b>—Subsec. (c). Pub. L. 96–76 substituted "warrant officer (W–1)" for "assistant".
 
 #### Effective Date of 1979 Amendment
 
@@ -40,7 +40,7 @@ Amendment by Pub. L. 96–76 effective Oct. 1, 1979, see section 314 of Pub. L. 
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education. Office of Surgeon General reestablished within the Office of the Assistant Secretary for Health, see Notice of Department of Health and Human Services, Office of the Assistant Secretary for Health, Mar. 30, 1987, 52 F.R. 11754.
 
 Functions of Federal Security Administrator transferred to Secretary of Health, Education, and Welfare and all agencies of Federal Security Agency transferred to Department of Health, Education, and Welfare by section 5 of Reorg. Plan No. 1 of 1953, set out as a note under section 3501 of this title. Federal Security Agency and office of Administrator abolished by section 8 of Reorg. Plan No. 1 of 1953. Secretary and Department of Health, Education, and Welfare redesignated Secretary and Department of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20.
 

@@ -10,11 +10,11 @@ In this section:
 
 #### (1) Native American
 
-&emsp;The term “Native American” means an individual who is of a tribe, people, or culture that is indigenous to the United States.
+&emsp;The term "Native American" means an individual who is of a tribe, people, or culture that is indigenous to the United States.
 
 #### (2) Native American-serving, nontribal institution
 
-&emsp;The term “Native American-serving, nontribal institution” means an institution of higher education, as defined in section 1001(a) of this title, that, at the time of application—
+&emsp;The term "Native American-serving, nontribal institution" means an institution of higher education, as defined in section 1001(a) of this title, that, at the time of application—
 
 &emsp;&emsp;(A) is an eligible institution under section 1058(b) of this title;
 
@@ -26,7 +26,7 @@ In this section:
 
 #### (1) Types of activities authorized
 
-&emsp;Grants awarded under this section shall be used by Native American-serving, nontribal institutions to assist such institutions to plan, develop, undertake, and carry out activities to improve and expand such institutions’ capacity to serve Native Americans and low-income individuals.
+&emsp;Grants awarded under this section shall be used by Native American-serving, nontribal institutions to assist such institutions to plan, develop, undertake, and carry out activities to improve and expand such institutions' capacity to serve Native Americans and low-income individuals.
 
 #### (2) Examples of authorized activities
 
@@ -48,7 +48,7 @@ In this section:
 
 &emsp;&emsp;(H) academic tutoring and counseling programs and student support services; and
 
-&emsp;&emsp;(I) education or counseling services designed to improve the financial and economic literacy of students or the students’ families.
+&emsp;&emsp;(I) education or counseling services designed to improve the financial and economic literacy of students or the students' families.
 
 #### (d) Application process
 

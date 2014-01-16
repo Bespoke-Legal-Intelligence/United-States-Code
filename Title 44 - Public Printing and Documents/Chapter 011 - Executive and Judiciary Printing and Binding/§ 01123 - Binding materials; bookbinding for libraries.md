@@ -12,7 +12,7 @@ This section incorporates all but the first sentence of former section 116. The 
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–113 struck out “the Patent Office,” after “the Surgeon General's Office,”.
+<b>1999</b>—Pub. L. 106–113 struck out "the Patent Office," after "the Surgeon General's Office,".
 
 #### Effective Date of 1999 Amendment
 

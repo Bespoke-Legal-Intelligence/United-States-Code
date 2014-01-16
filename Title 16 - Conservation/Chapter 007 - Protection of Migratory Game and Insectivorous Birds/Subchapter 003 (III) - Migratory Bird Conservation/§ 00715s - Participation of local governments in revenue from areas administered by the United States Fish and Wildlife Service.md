@@ -1,8 +1,8 @@
 ### §715s. Participation of local governments in revenue from areas administered by the United States Fish and Wildlife Service
 
-#### (a) Separate fund in the United States Treasury; availability of funds until expended; “National Wildlife Refuge System” defined
+#### (a) Separate fund in the United States Treasury; availability of funds until expended; "National Wildlife Refuge System" defined
 
-Beginning with the next full fiscal year and for each fiscal year thereafter, all revenues received by the Secretary of the Interior from the sale or other disposition of animals, salmonoidcarcassas,<sup>1</sup> timber, hay, grass, or other products of the soil, minerals, shells, sand, or gravel, from other privileges, or from leases for public accommodations or facilities incidental to but not in conflict with the basic purposes for which those areas of the National Wildlife Refuge System were established, during each fiscal year in connection with the operation and management of those areas of the National Wildlife Refuge System, National Fish Hatcheries, or other areas, that are solely or primarily administered by him, through the United States Fish and Wildlife Service, shall be covered into the United States Treasury and be reserved in a separate fund for disposition as hereafter prescribed. Amounts in the fund shall remain available until expended, and may be expended by the Secretary without further appropriation in the manner hereafter prescribed. The National Wildlife Refuge System (hereafter referred to as the “System”) includes those lands and waters administered by the Secretary as wildlife refuges, lands acquired or reserved for the protection and conservation of fish and wildlife that are listed pursuant to section 1533 of this title as endangered species or threatened species, wildlife ranges, game ranges, wildlife management areas, and waterfowl production areas established under any law, proclamation, Executive, or public land order.
+Beginning with the next full fiscal year and for each fiscal year thereafter, all revenues received by the Secretary of the Interior from the sale or other disposition of animals, salmonoid carcassas,<sup>1</sup> timber, hay, grass, or other products of the soil, minerals, shells, sand, or gravel, from other privileges, or from leases for public accommodations or facilities incidental to but not in conflict with the basic purposes for which those areas of the National Wildlife Refuge System were established, during each fiscal year in connection with the operation and management of those areas of the National Wildlife Refuge System, National Fish Hatcheries, or other areas, that are solely or primarily administered by him, through the United States Fish and Wildlife Service, shall be covered into the United States Treasury and be reserved in a separate fund for disposition as hereafter prescribed. Amounts in the fund shall remain available until expended, and may be expended by the Secretary without further appropriation in the manner hereafter prescribed. The National Wildlife Refuge System (hereafter referred to as the "System") includes those lands and waters administered by the Secretary as wildlife refuges, lands acquired or reserved for the protection and conservation of fish and wildlife that are listed pursuant to section 1533 of this title as endangered species or threatened species, wildlife ranges, game ranges, wildlife management areas, and waterfowl production areas established under any law, proclamation, Executive, or public land order.
 
 #### (b) Deduction of expenses
 
@@ -10,13 +10,13 @@ The Secretary may pay from the fund any necessary expenses incurred by him in co
 
 #### (c) Payment to counties
 
-(1) The Secretary shall pay out the fund, for each fiscal year beginning with the fiscal year ending September 30, 1979, to each county in which is situated any fee area whichever of the following amounts is greater:
+(1) The Secretary shall pay out <sup>2</sup> the fund, for each fiscal year beginning with the fiscal year ending September 30, 1979, to each county in which is situated any fee area whichever of the following amounts is greater:
 
 &emsp;(A) An amount equal to the product of 75 cents multiplied by the total acreage of that portion of the fee area which is located within such county.
 
 &emsp;(B) An amount equal to three-fourths of 1 per centum of the fair market value, as determined by the Secretary, of that portion of the fee area (excluding any improvements thereto made after the date of Federal acquisition) which is located within such county.
 
-&emsp;(C) An amount equal to 25 per centum of the net receipts collected by the Secretary in connection with the operation and management of such fee area during such fiscal year; but if a fee area is located in two or more counties, the amount each such county is entitled to shall be the amount which bears to such 25 per centum the same ratio as that portion of the fee area acreage which is within such county bears to the total acreage of such fee area.
+&emsp;(C) An amount equal to 25 per centum of the net receipts collected by the Secretary in connection with the operation and managementof such fee area during such fiscal year; but if a fee area is located in two or more counties, the amount each such county is entitled to shall be the amount which bears to such 25 per centum the same ratio as that portion of the fee area acreage which is within such county bears to the total acreage of such fee area.
 
 (2) At the end of each fiscal year the Secretary shall pay out of the fund for such fiscal year to each county in which any reserve area is situated, an amount equal to 25 per centum of the net receipts collected by the Secretary in connection with the operation and management of such area during such fiscal year: <i>Provided</i>, That when any such area is situated in more than one county the distributive share to each county from the aforesaid receipts shall be proportional to its acreage of such reserve area.
 
@@ -54,17 +54,17 @@ The Secretary shall carry out any revenue producing activity referred to in subs
 
 As used in this section—
 
-&emsp;(1) The term “Secretary” means the Secretary of the Interior.
+&emsp;(1) The term "Secretary" means the Secretary of the Interior.
 
-&emsp;(2) The term “fee area” means any area which was acquired in fee by the United States and is administered, either solely or primarily, by the Secretary through the Service.
+&emsp;(2) The term "fee area" means any area which was acquired in fee by the United States and is administered, either solely or primarily, by the Secretary through the Service.
 
-&emsp;(3) The term “reserve area” means any area of land withdrawn from the public domain and administered, either solely or primarily, by the Secretary through the Service.
+&emsp;(3) The term "reserve area" means any area of land withdrawn from the public domain and administered, either solely or primarily, by the Secretary through the Service.
 
-&emsp;(4) The term “Service” means the United States Fish and Wildlife Service.
+&emsp;(4) The term "Service" means the United States Fish and Wildlife Service.
 
-&emsp;(5) The term “county” means any county, parish, or organized or unorganized borough.
+&emsp;(5) The term "county" means any county, parish, or organized or unorganized borough.
 
-(June 15, 1935, ch. 261, title IV, §401, 49 Stat. 383; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232; Oct. 31, 1951, ch. 654, §2(13), 65 Stat. 707; Pub. L. 88–523, Aug. 30, 1964, 78 Stat. 701; Pub. L. 89–669, §8(b), Oct. 15, 1966, 80 Stat. 930; Pub. L. 93–205, §13(b), Dec. 28, 1973, 87 Stat. 902; Pub. L. 93–509, §4, Dec. 3, 1974, 88 Stat. 1603; Pub. L. 95–469, §1(a), Oct. 17, 1978, 92 Stat. 1319; Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.)
+(June 15, 1935, ch. 261, title IV, §401, 49 Stat. 383; 1939 Reorg. Plan No. II, §4(f), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1433; 1940 Reorg. Plan No. III, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232;Oct. 31, 1951, ch. 654, §2(13), 65 Stat. 707; Pub. L. 88–523, Aug. 30, 1964, 78 Stat. 701; Pub. L. 89–669, §8(b), Oct. 15, 1966, 80 Stat. 930; Pub. L. 93–205, §13(b), Dec. 28, 1973, 87 Stat. 902; Pub. L. 93–509, §4, Dec. 3, 1974, 88 Stat. 1603; Pub. L. 95–469, §1(a), Oct. 17, 1978, 92 Stat. 1319; Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068.)
 
 #### References in Text
 
@@ -74,19 +74,19 @@ The Migratory Bird Conservation Act, referred to in subsec. (e), is act Feb. 18,
 
 #### Codification
 
-The reference in subsec. (f) to “revenue producing activity referred to in subsection (a)(1), (2), and (3) of this section”, enacted as an amendment to subsec. (f) by section 1(a)(3) of Pub. L. 95–469, is a reference to the proposed amendment as set out on pg. 1 of House Report No. 95–1197 of the 95th Congress, 2d Session, May 15, 1978, and reading in part:
+The reference in subsec. (f) to "revenue producing activity referred to in subsection (a)(1), (2), and (3) of this section", enacted as an amendment to subsec. (f) by section 1(a)(3) of Pub. L. 95–469, is a reference to the proposed amendment as set out on pg. 1 of House Report No. 95–1197 of the 95th Congress, 2d Session, May 15, 1978, and reading in part:
 
-“(a) All revenues received during each fiscal year by the Secretary in connection with the operation and management of fee areas and reserve areas from—
+"(a) All revenues received during each fiscal year by the Secretary in connection with the operation and management of fee areas and reserve areas from—
 
-&emsp;“(1) the sale or disposition of animals, salmonoid carcasses, products of the soil (including, but not limited to, timber, hay, and grass), minerals (including, but not limited to, crude petroleum and natural gas), shells, sand, and gravel;
+&emsp;"(1) the sale or disposition of animals, salmonoid carcasses, products of the soil (including, but not limited to, timber, hay, and grass), minerals (including, but not limited to, crude petroleum and natural gas), shells, sand, and gravel;
 
-&emsp;“(2) leases for public accommodations or facilities incidental to, but not in conflict with, the major purposes of such areas; and
+&emsp;"(2) leases for public accommodations or facilities incidental to, but not in conflict with, the major purposes of such areas; and
 
-&emsp;“(3) other privileges;
+&emsp;"(3) other privileges;
 
-> shall be covered” which was not enacted by the Congress but subsec. (a) was amended as provided in the 1978 Amendment note below.
+> shall be covered" which was not enacted by the Congress but subsec. (a) was amended as provided in the 1978 Amendment note below.
 
-Section was not enacted as part of the “Migratory Bird Conservation Act” which comprises this subchapter.
+Section was not enacted as part of the "Migratory Bird Conservation Act" which comprises this subchapter.
 
 #### Amendments
 
@@ -94,7 +94,7 @@ Section was not enacted as part of the “Migratory Bird Conservation Act” whi
 
 <b>1978</b>—Subsec. (a). Pub. L. 95–469, §1(a)(1), authorized the separate fund in the United States Treasury to include revenues from sale or other disposition of salmonoid carcasses and extended the operation and management provision to areas of National Fish Hatcheries and other areas administered by the Secretary.
 
-Subsec. (b). Pub. L. 95–469, §1(a)(2), substituted “revenue-producing and revenue-sharing measures” for “revenue-producing measures set forth in subsection (a) of this section”.
+Subsec. (b). Pub. L. 95–469, §1(a)(2), substituted "revenue-producing and revenue-sharing measures" for "revenue-producing measures set forth in subsection (a) of this section".
 
 Subsec. (c). Pub. L. 95–469, §1(a)(3), in revising subsec. (c), substituted pars. (1) to (5) for prior text consisting of: introductory text authorizing expenditures solely for benefit of public schools and roads, now covered in par. (5)(C); par. (1) of first sentence, now included in par. (2); par. (2) of first sentence, now covered in pars. (1)(B), (C) and (4) in part; and second sentence now incorporated in par. (4)(B).
 
@@ -102,25 +102,25 @@ Subsec. (d). Pub. L. 95–469, §1(a)(3), substituted provision for authorizatio
 
 Subsec. (e). Pub. L. 95–469, §1(a)(3), in revising subsec. (e), substituted provision authorizing use of surplus funds for acquisition of suitable areas for migratory bird refuges for prior provision making remaining funds available for such land acquisition and eliminated provision prohibiting funds available for the Management of the National Wildlife Refuge System or for enforcement of the Migratory Bird Treaty Act from being diminished by the amendments made by Pub. L. 93–509 to this subsection unless by specific congressional enactment.
 
-Subsec. (f). Pub. L. 95–469, §1(a)(3), substituted “The Secretary shall carry out any revenue producing activity referred to in subsection (a)(1), (2), and (3) of this section within any fee area or reserve area subject to such terms, conditions, or regulations, including sales in the open markets, as the Secretary determines to be in the best interest of the United States.” for “The disposition or sale of surplus animals, minerals, and other products, the grant of privileges, and the carrying out of any other activities that result in the collection of revenues within any areas of the System may be accomplished upon such terms, conditions, or regulations, including sale in the open markets, as the Secretary shall determine to be in the best interest of the United States.” and reenacted substance of second sentence, setting out provision for regulations at beginning rather than end of sentence.
+Subsec. (f). Pub. L. 95–469, §1(a)(3), substituted "The Secretary shall carry out any revenue producing activity referred to in subsection (a)(1), (2), and (3) of this section within any fee area or reserve area subject to such terms, conditions, or regulations, including sales in the open markets, as the Secretary determines to be in the best interest of the United States." for "The disposition or sale of surplus animals, minerals, and other products, the grant of privileges, and the carrying out of any other activities that result in the collection of revenues within any areas of the System may be accomplished upon such terms, conditions, or regulations, including sale in the open markets, as the Secretary shall determine to be in the best interest of the United States." and reenacted substance of second sentence, setting out provision for regulations at beginning rather than end of sentence.
 
-Subsec. (g). Pub. L. 95–469, §1(a)(3), substituted definitions of certain terms for prior provision for supersedure by Pub. L. 88–523 of repealed paragraph of “Management of National Wildlife Refuges” in the General Appropriation Act, 1951, approved Sept. 6, 1950 (64 Stat. 595, 693 to 694).
+Subsec. (g). Pub. L. 95–469, §1(a)(3), substituted definitions of certain terms for prior provision for supersedure by Pub. L. 88–523 of repealed paragraph of "Management of National Wildlife Refuges" in the General Appropriation Act, 1951, approved Sept. 6, 1950 (64 Stat. 595, 693 to 694).
 
 Subsec. (h). Pub. L. 95–469, §1(a)(4), added subsec. (h).
 
 <b>1974</b>—Subsec. (e). Pub. L. 93–509 substituted provisions that moneys remaining in the fund after all payments under this section are made for any fiscal year shall be transferred to the Migratory Bird Conservation Fund and shall be available for land acquisition under the Migratory Bird Conservation Act with exception that the funds available for the management of the National Wildlife Refuge System or for enforcement of the Migratory Bird Treaty Act shall not be diminished for provisions that moneys remaining in the fund after all payments are made for any fiscal year may be used by the Secretary thereafter for management of the System, including but not limited to the construction, improvement, repair, and alteration of buildings, roads, and other facilities, and for enforcement of the Migratory Bird Treaty Act.
 
-<b>1973</b>—Subsec. (a). Pub. L. 93–205 substituted “listed pursuant to section 1533 of this title as endangered species or threatened species,” for “threatened with extinction,”.
+<b>1973</b>—Subsec. (a). Pub. L. 93–205 substituted "listed pursuant to section 1533 of this title as endangered species or threatened species," for "threatened with extinction,".
 
 <b>1966</b>—Subsec. (a). Pub. L. 89–669 defined the National Wildlife Refuge System to include lands acquired or reserved for the protection and conservation of fish and wildlife that are threatened with extinction.
 
-<b>1964</b>—Pub. L. 88–523 substituted provisions designated as subsecs. (a) to (g) for former provisions constituting one paragraph consisting of a first clause with three provisos and a second clause; required in subsec. (a) all receipts from the National Wildlife Refuge System to be covered into a separate fund in the United States Treasury, made the fund available until expended, provided for expenditures without further appropriation, and defined the National Wildlife Refuge System; incorporated the third proviso of the first clause and the second clause in subsec. (b) and the parenthetical matter of subsec. (c); incorporated in the reserved public lands provision of subsec. (c)(1) the formula of the first clause for returning twenty-five per centum of the net revenues from the System to the counties in which the producing refuges are located for the benefit of the public schools and roads therein; incorporated the first proviso of the first clause in subsec. (c)(1) proviso; substituted subsec. (c)(2) providing an option plan for payment of either 25 per centum of the net receipts from lands acquired in fee by the United States to the counties in which such acquired lands are located or three-fourths of 1 per centum of the adjusted cost of the acquired lands, whichever is higher, for the formula of the first clause for returning 25 per centum of the revenues; inserted provisions of subsecs. (d), (e), and (g); and incorporated the second proviso of the first clause in subsec. (f).
+<b>1964</b>—Pub. L. 88–523 substituted provisions designated as subsecs. (a) to (g) for former provisions constituting one paragraph consisting of a first clause with three provisos and a second clause; required in subsec. (a) all receipts from the National Wildlife Refuge System to be covered into a separate fund in the United States Treasury, made the fund available until expended, provided for expenditures without further appropriation, and defined the National Wildlife Refuge System; incorporated the third proviso of the first clause and the second clause in subsec. (b) and the parenthetical matter of subsec. (c); incorporated in the reserved public lands provision of subsec. (c)(1) the formula of the first clause for returning twenty-five per centum of the net revenues from the System to the counties in which the producing refuges are located for the benefit of the public schools and roads therein; incorporated the firstproviso of the first clause in subsec. (c)(1) proviso; substituted subsec. (c)(2) providing an option plan for payment of either 25 per centum of the net receipts from lands acquired in fee by the United States to the counties in which such acquired lands are located or three-fourths of 1 per centum of the adjusted cost of the acquired lands, whichever is higher, for the formula of the first clause for returning 25 per centum of the revenues; inserted provisions of subsecs. (d), (e), and (g); and incorporated the second proviso of the first clause in subsec. (f).
 
 <b>1951</b>—Act Oct. 31, 1951, in second proviso, inserted reference to application regulations of the Federal Property and Administrative Services Act of 1949, as amended, and, in third proviso, inserted reference to section 485 of Title 40.
 
 #### Effective Date of 1978 Amendment; Fiscal Year of Availability of Appropriation Authorization
 
-Pub. L. 95–469, §2, Oct. 17, 1978, 92 Stat. 1321, provided that: “The amendments made by this Act \[amending this section and sections 1603, 1605 and 1606 of former Title 31, Money and Finance\], shall apply with respect to payments made to counties under title IV of the Act of June 15, 1935 \[this section\], for the fiscal year ending September 30, 1979, and for fiscal years thereafter; except that the amendments made to such title IV \[this section\] which amend section 401(a) and (g), add paragraph (4) to section 401(c) \[subsecs. (a) and (g), and (c)(4) of this section\], and amend the title heading \[of this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 1978\]. No authorization for appropriation shall be available under this Act before the fiscal year ending September 30, 1980.”
+Pub. L. 95–469, §2, Oct. 17, 1978, 92 Stat. 1321, provided that: "The amendments made by this Act \[amending this section and sections 1603, 1605 and 1606 of former Title 31, Money and Finance\], shall apply with respect to payments made to counties under title IV of the Act of June 15, 1935 \[this section\], for the fiscal year ending September 30, 1979, and for fiscal years thereafter; except that the amendments made to such title IV \[this section\] which amend section 401(a) and (g), add paragraph (4) to section 401(c) \[subsecs. (a) and (g), and (c)(4) of this section\], and amend the title heading \[of this section\] shall take effect on the date of the enactment of this Act \[Oct. 17, 1978\]. No authorization for appropriation shall be available under this Act before the fiscal year ending September 30, 1980."
 
 #### Effective Date of 1973 Amendment
 
@@ -136,7 +136,9 @@ Transfer of functions of Secretary of Agriculture to Secretary of the Interior b
 
 #### Refuge Revenue Sharing
 
-Pub. L. 105–83, title I, §132, Nov. 14, 1997, 111 Stat. 1570, provided that: “Notwithstanding any other provision of law, hereafter the United States Fish and Wildlife Service may disburse to local entities impact funding pursuant to Refuge Revenue Sharing that is associated with Federal real property transferred to the United States Geological Survey from the United States Fish and Wildlife Service.”
+Pub. L. 105–83, title I, §132, Nov. 14, 1997, 111 Stat. 1570, provided that: "Notwithstanding any other provision of law, hereafter the United States Fish and Wildlife Service may disburse to local entities impact funding pursuant to Refuge Revenue Sharing that is associated with Federal real property transferred to the United States Geological Survey from the United States Fish and Wildlife Service."
 
-<i><sup>1</sup></i><i> So in original. Probably should be “carcasses,”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "carcasses,".</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by "of".</i>
 

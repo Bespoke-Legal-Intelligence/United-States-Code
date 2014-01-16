@@ -32,11 +32,11 @@ Historical and Revision Notes
 
 Oct. 15, 1982, Pub. L. 97–326, §8, 96 Stat. 1609.
 
-In subsection (a)(1), the words “operate and” are omitted as surplus. The words “United States Government” are substituted for “Federal” for consistency in the revised title and with other titles of the United States Code. The words “information system” are substituted for “data system” for consistency with 31:6102. The words “by the Director” are omitted as surplus.
+In subsection (a)(1), the words "operate and" are omitted as surplus. The words "United States Government" are substituted for "Federal" for consistency in the revised title and with other titles of the United States Code. The words "information system" are substituted for "data system" for consistency with 31:6102. The words "by the Director" are omitted as surplus.
 
-In subsection (b)(1), the words “the head of another executive agency” are substituted for “any authority of the executive branch of the Federal Government” for consistency in the revised title and with other titles of the Code.
+In subsection (b)(1), the words "the head of another executive agency" are substituted for "any authority of the executive branch of the Federal Government" for consistency in the revised title and with other titles of the Code.
 
-In subsection (b)(2), the words “the head of” are added for consistency in the revised title and with other titles of the Code.
+In subsection (b)(2), the words "the head of" are added for consistency in the revised title and with other titles of the Code.
 
 #### References in Text
 
@@ -44,11 +44,11 @@ Section 9 of the Federal Program Information Act, referred to in subsec. (a)(1),
 
 #### Amendments
 
-<b>1996</b>—Subsec. (c). Pub. L. 104–186 substituted “House Oversight” for “House Administration”.
+<b>1996</b>—Subsec. (c). Pub. L. 104–186 substituted "House Oversight" for "House Administration".
 
 <b>1986</b>—Subsec. (c). Pub. L. 99–547 added subsec. (c).
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–169 substituted “Director” for “Director of the Office of Management and Budget”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–169 substituted "Director" for "Director of the Office of Management and Budget".
 
 #### Change of Name
 

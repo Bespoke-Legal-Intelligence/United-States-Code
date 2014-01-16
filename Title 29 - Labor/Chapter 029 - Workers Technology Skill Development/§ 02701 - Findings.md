@@ -10,11 +10,11 @@ The Congress finds and declares the following:
 
 &emsp;(4) The Federal Government has an important role in encouraging and augmenting private sector efforts relating to the development, application, manufacture, and deployment of new and advanced technologies. The role should be to—
 
-&emsp;&emsp;(A) work with private companies, States, worker organizations, nonprofit organizations, and institutions of higher education to ensure the development, application, production, and implementation of new and advanced technologies to promote the improvement of workers’ skills, wages, job security, and working conditions, and a healthy environment;
+&emsp;&emsp;(A) work with private companies, States, worker organizations, nonprofit organizations, and institutions of higher education to ensure the development, application, production, and implementation of new and advanced technologies to promote the improvement of workers' skills, wages, job security, and working conditions, and a healthy environment;
 
 &emsp;&emsp;(B) encourage worker and worker organization participation in the development, commercialization, evaluation, selection, application, and implementation of new and advanced technologies in the workplace; and
 
-&emsp;&emsp;(C) promote the use and integration of new and advanced technologies in the workplace that enhance workers’ skills.
+&emsp;&emsp;(C) promote the use and integration of new and advanced technologies in the workplace that enhance workers' skills.
 
 &emsp;(5) In working with the private sector to promote the technological leadership and economic growth of the United States, the Federal Government has a responsibility to ensure that Federal technology programs help the United States to remain competitive and to maintain and improve living standards and to create and retain secure jobs in economically stable communities.
 
@@ -22,83 +22,83 @@ The Congress finds and declares the following:
 
 #### Short Title
 
-Section 541 of Pub. L. 103–382 provided that: “This part \[part D (§§541–547) of title V of Pub. L. 103–382, enacting this chapter\] may be cited as the ‘Workers Technology Skill Development Act’.”
+Section 541 of Pub. L. 103–382 provided that: "This part \[part D (§§541–547) of title V of Pub. L. 103–382, enacting this chapter\] may be cited as the 'Workers Technology Skill Development Act'."
 
-#### Study and Report on the “Digital Divide”
+#### Study and Report on the "Digital Divide"
 
 Pub. L. 106–313, title I, §115, Oct. 17, 2000, 114 Stat. 1262, provided that:
 
-“(a)
+"(a)
 
 Study.—The Secretary of Commerce shall conduct a review of existing public and private high-tech workforce training programs in the United States.
 
-“(b)
+"(b)
 
-Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 17, 2000\], the Secretary of Commerce shall submit a report to Congress setting forth the findings of the study conducted under subsection (a).”
+Report.—Not later than 18 months after the date of enactment of this Act \[Oct. 17, 2000\], the Secretary of Commerce shall submit a report to Congress setting forth the findings of the study conducted under subsection (a)."
 
 #### Report on Older Workers in Information Technology Field
 
 Pub. L. 105–277, div. C, title IV, §417, Oct. 21, 1998, 112 Stat. 2681–656, provided that:
 
-“(a)
+"(a)
 
 Study.—The Director of the National Science Foundation shall enter into a contract with the President of the National Academy of Sciences to conduct a study, using the best available data, assessing the status of older workers in the information technology field. The study shall consider the following:
 
-&emsp;“(1) The existence and extent of age discrimination in the information technology workplace.
+&emsp;"(1) The existence and extent of age discrimination in the information technology workplace.
 
-&emsp;“(2) The extent to which there is a difference, based on age, in—
+&emsp;"(2) The extent to which there is a difference, based on age, in—
 
-&emsp;&emsp;“(A) promotion and advancement;
+&emsp;&emsp;"(A) promotion and advancement;
 
-&emsp;&emsp;“(B) working hours;
+&emsp;&emsp;"(B) working hours;
 
-&emsp;&emsp;“(C) telecommuting;
+&emsp;&emsp;"(C) telecommuting;
 
-&emsp;&emsp;“(D) salary; and
+&emsp;&emsp;"(D) salary; and
 
-&emsp;&emsp;“(E) stock options, bonuses, and other benefits.
+&emsp;&emsp;"(E) stock options, bonuses, and other benefits.
 
-&emsp;“(3) The relationship between rates of advancement, promotion, and compensation to experience, skill level, education, and age.
+&emsp;"(3) The relationship between rates of advancement, promotion, and compensation to experience, skill level, education, and age.
 
-&emsp;“(4) Differences in skill level on the basis of age.
+&emsp;"(4) Differences in skill level on the basis of age.
 
-“(b)
+"(b)
 
-Report.—Not later than October 1, 2000, the Director of the National Science Foundation shall submit to the Committees on the Judiciary of the United States House of Representatives and the Senate a report containing the results of the study described in subsection (a).”
+Report.—Not later than October 1, 2000, the Director of the National Science Foundation shall submit to the Committees on the Judiciary of the United States House of Representatives and the Senate a report containing the results of the study described in subsection (a)."
 
 #### Report on High Technology Labor Market Needs
 
 Pub. L. 105–277, div. C, title IV, §418(a), Oct. 21, 1998, 112 Stat. 2681–656, provided that:
 
-“(1)
+"(1)
 
 In general.—The Director of the National Science Foundation shall conduct a study to assess labor market needs for workers with high technology skills during the next 10 years. The study shall investigate and analyze the following:
 
-&emsp;“(A) Future training and education needs of companies in the high technology and information technology sectors and future training and education needs of United States students to ensure that students’ skills at various levels are matched to the needs in such sectors.
+&emsp;"(A) Future training and education needs of companies in the high technology and information technology sectors and future training and education needs of United States students to ensure that students' skills at various levels are matched to the needs in such sectors.
 
-&emsp;“(B) An analysis of progress made by educators, employers, and government entities to improve the teaching and educational level of American students in the fields of math, science, computer science, and engineering since 1998.
+&emsp;"(B) An analysis of progress made by educators, employers, and government entities to improve the teaching and educational level of American students in the fields of math, science, computer science, and engineering since 1998.
 
-&emsp;“(C) An analysis of the number of United States workers currently or projected to work overseas in professional, technical, and managerial capacities.
+&emsp;"(C) An analysis of the number of United States workers currently or projected to work overseas in professional, technical, and managerial capacities.
 
-&emsp;“(D) The relative achievement rates of United States and foreign students in secondary schools in a variety of subjects, including math, science, computer science, English, and history.
+&emsp;"(D) The relative achievement rates of United States and foreign students in secondary schools in a variety of subjects, including math, science, computer science, English, and history.
 
-&emsp;“(E) The relative performance, by subject area, of United States and foreign students in postsecondary and graduate schools as compared to secondary schools.
+&emsp;"(E) The relative performance, by subject area, of United States and foreign students in postsecondary and graduate schools as compared to secondary schools.
 
-&emsp;“(F) The needs of the high technology sector for foreign workers with specific skills and the potential benefits and costs to United States employers, workers, consumers, postsecondary educational institutions, and the United States economy, from the entry of skilled foreign professionals in the fields of science and engineering.
+&emsp;"(F) The needs of the high technology sector for foreign workers with specific skills and the potential benefits and costs to United States employers, workers, consumers, postsecondary educational institutions, and the United States economy, from the entry of skilled foreign professionals in the fields of science and engineering.
 
-&emsp;“(G) The needs of the high technology sector to adapt products and services for export to particular local markets in foreign countries.
+&emsp;"(G) The needs of the high technology sector to adapt products and services for export to particular local markets in foreign countries.
 
-&emsp;“(H) An examination of the amount and trend of moving the production or performance of products and services now occurring in the United States abroad.
+&emsp;"(H) An examination of the amount and trend of moving the production or performance of products and services now occurring in the United States abroad.
 
-“(2)
+"(2)
 
 Report.—Not later than October 1, 2000, the Director of the National Science Foundation shall submit to the Committees on the Judiciary of the United States House of Representatives and the Senate a report containing the results of the study described in paragraph (1).
 
-“(3)
+"(3)
 
-Involvement.—The study under paragraph (1) shall be conducted in a manner that ensures the participation of individuals representing a variety of points of view.”
+Involvement.—The study under paragraph (1) shall be conducted in a manner that ensures the participation of individuals representing a variety of points of view."
 
 #### Twenty-First Century Workforce Commission
 
-Pub. L. 105–220, title III, subtitle C, Aug. 7, 1998, 112 Stat. 1087, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(15)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, known as the “Twenty-First Century Workforce Commission Act”, established the Commission to study all matters relating to the information technology workforce in the United States, including skills necessary to enter the information technology workforce, ways to expand the number of skilled information technology workers, and the relative efficacy of programs in the United States and foreign countries to train information technology workers, and to submit a report to the President and Congress of its findings, conclusions, and recommendations for legislative and administrative actions, and provided for powers of the Commission, compensation of members, employment of staff, authorization of appropriations, and termination of the Commission 90 days after submission of its final report, which was released June 27, 2000.
+Pub. L. 105–220, title III, subtitle C, Aug. 7, 1998, 112 Stat. 1087, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(15)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412, known as the "Twenty-First Century Workforce Commission Act", established the Commission to study all matters relating to the information technology workforce in the United States, including skills necessary to enter the information technology workforce, ways to expand the number of skilled information technology workers, and the relative efficacy of programs in the United States and foreign countries to train information technology workers, and to submit a report to the President and Congress of its findings, conclusions, and recommendations for legislative and administrative actions, and provided for powers of the Commission, compensation of members, employment of staff, authorization of appropriations, and termination of the Commission 90 days after submission of its final report, which was released June 27, 2000.
 

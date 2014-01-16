@@ -2,7 +2,7 @@
 
 #### (a) Purposes of subgrants
 
-A State educational agency may make a subgrant to an eligible entity from funds received by the agency under this subpart only if the entity agrees to expend the funds to improve the education of limited English proficient children, by assisting the children to learn English and meet challenging State academic content and student academic achievement standards. Incarrying out activities with such funds, the entity shall use approaches and methodologies based on scientifically based research on teaching limited English proficient children and immigrant children and youth for the following purposes:
+A State educational agency may make a subgrant to an eligible entity from funds received by the agency under this subpart only if the entity agrees to expend the funds to improve the education of limited English proficient children, by assisting the children to learn English and meet challenging State academic content and student academic achievement standards. In carrying out activities with such funds, the entity shall use approaches and methodologies based on scientifically based research on teaching limited English proficient children and immigrant children and youth for the following purposes:
 
 &emsp;(1) Developing and implementing new language instruction educational programs and academic content instruction programs for such children, and such children and youth, including programs of early childhood education, elementary school programs, and secondary school programs.
 
@@ -32,9 +32,9 @@ An eligible entity receiving funds under section 6824(a) of this title shall use
 
 &emsp;&emsp;(B) designed to enhance the ability of such teachers to understand and use curricula, assessment measures, and instruction strategies for limited English proficient children;
 
-&emsp;&emsp;(C) based on scientifically based research demonstrating the effectiveness of the professional development in increasing children's English proficiency or substantially increasing the subject matter knowledge, teaching knowledge, and teaching skills of such teachers; and
+&emsp;&emsp;(C) based on scientifically based research demonstrating the effectiveness of the professional development in increasing children's English proficiency or substantiallyincreasing the subject matter knowledge, teaching knowledge, and teaching skills of such teachers; and
 
-&emsp;&emsp;(D) of sufficient intensity and duration (which shall not include activities such as one-day or short-term workshops and conferences) to have a positive and lasting impact on the teachers’ performance in the classroom, except that this subparagraph shall not apply to an activity that is one component of a long-term, comprehensive professional development plan established by a teacher and the teacher's supervisor based on an assessment of the needs of the teacher, the supervisor, the students of the teacher, and any local educational agency employing the teacher.
+&emsp;&emsp;(D) of sufficient intensity and duration (which shall not include activities such as one-day or short-term workshops and conferences) to have a positive and lasting impact on the teachers' performance in the classroom, except that this subparagraph shall not apply to an activity that is one component of a long-term, comprehensive professional development plan established by a teacher and the teacher's supervisor based on an assessment of the needs of the teacher, the supervisor, the students of the teacher, and any local educational agency employing the teacher.
 
 #### (d) Authorized subgrantee activities
 
@@ -106,7 +106,7 @@ Subject to subsection (c) of this section, an eligible entity receiving funds un
 
 #### (g) Supplement, not supplant
 
-Federal funds made available under this subpart shall be used so as to supplement the level of Federal, State, and local public funds that, in the absence of such availability, would have been expended for programs for limited English proficient children and immigrant children and youth and in no case to supplant such Federal, State, and local public funds.
+Federal funds made available under this subpart shall be used so as to supplement the levelof Federal, State, and local public funds that, in the absence of such availability, would have been expended for programs for limited English proficient children and immigrant children and youth and in no case to supplant such Federal, State, and local public funds.
 
 (Pub. L. 89–10, title III, §3115, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1697.)
 

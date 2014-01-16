@@ -30,11 +30,11 @@ Section 653, act June 22, 1936, ch. 690, §911, 49 Stat. 1753, made provisions o
 
 Section 654, act June 22, 1936, ch. 690, §912, 49 Stat. 1754, provided that suits or proceedings, and claims barred on June 22, 1936, shall remain barred.
 
-Section 655, act June 22, 1936, ch. 690, §913, 49 Stat. 1754, defined “tax”, “processing tax,” “commodity”, “article”, “refund”, and “Agricultural Adjustment Act”.
+Section 655, act June 22, 1936, ch. 690, §913, 49 Stat. 1754, defined "tax", "processing tax," "commodity", "article", "refund", and "Agricultural Adjustment Act".
 
 Section 656, act June 22, 1936, ch. 690, §914, 49 Stat. 1754, related to authority of Commissioner of Internal Revenue.
 
-Section 657, act June 22, 1936, ch. 690, §915, 49 Stat. 1755, relating to salaries and administrative expenses,made funds available until June 30, 1937, and was not extended.
+Section 657, act June 22, 1936, ch. 690, §915, 49 Stat. 1755, relating to salaries and administrative expenses, made funds available until June 30, 1937, and was not extended.
 
 Section 658, act June 22, 1936, ch. 690, §916, 49 Stat. 1755, provided that Commissioner of Internal Revenue, with approval of Secretary of Agriculture, prescribe rules and regulations for carrying out provisions of sections 644 to 659 of this title.
 

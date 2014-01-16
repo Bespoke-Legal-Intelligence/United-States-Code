@@ -6,7 +6,7 @@ The Secretary of the military department concerned, under regulations prescribed
 
 &emsp;&emsp;(A) has less than six years of active commissioned service; or
 
-&emsp;&emsp;(B) is serving in the grade of second lieutenant or ensign and has been found notqualified for promotion to the grade of first lieutenant or lieutenant (junior grade); and
+&emsp;&emsp;(B) is serving in the grade of second lieutenant or ensign and has been found not qualified for promotion to the grade of first lieutenant or lieutenant (junior grade); and
 
 &emsp;(2) shall, unless the officer has been promoted, discharge any officer described in paragraph (1)(B) at the end of the 18-month period beginning on the date on which the officer is first found not qualified for promotion.
 
@@ -14,15 +14,15 @@ The Secretary of the military department concerned, under regulations prescribed
 
 #### Amendments
 
-<b>2008</b>—Pub. L. 110–181, §503(a)(2), substituted “six years” for “five years” in section catchline.
+<b>2008</b>—Pub. L. 110–181, §503(a)(2), substituted "six years" for "five years" in section catchline.
 
-Par. (1)(A). Pub. L. 110–181, §503(a)(1), substituted “six years” for “five years”.
+Par. (1)(A). Pub. L. 110–181, §503(a)(1), substituted "six years" for "five years".
 
-<b>2003</b>—Par. (2). Pub. L. 108–136 substituted “paragraph” for “clause”.
+<b>2003</b>—Par. (2). Pub. L. 108–136 substituted "paragraph" for "clause".
 
-<b>2001</b>—Pub. L. 107–107, §505(d)(4)(A), struck out “regular” before “commissioned officers” in section catchline.
+<b>2001</b>—Pub. L. 107–107, §505(d)(4)(A), struck out "regular" before "commissioned officers" in section catchline.
 
-Par. (1). Pub. L. 107–107, §505(d)(2), struck out “regular” before “officer” in introductory provisions and before “grade of first lieutenant” in subpar. (B).
+Par. (1). Pub. L. 107–107, §505(d)(2), struck out "regular" before "officer" in introductory provisions and before "grade of first lieutenant" in subpar. (B).
 
-<b>1984</b>—Par. (2). Pub. L. 98–525 substituted “18-month” for “eighteen-month”.
+<b>1984</b>—Par. (2). Pub. L. 98–525 substituted "18-month" for "eighteen-month".
 

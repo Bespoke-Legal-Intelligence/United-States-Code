@@ -46,5 +46,5 @@ Section is comprised of section 903 of Pub. L. 107–117. Subsec. (c)(2) of sect
 
 #### Effective Date of 2002 Amendment
 
-Pub. L. 107–206, title I, §903(c), Aug. 2, 2002, 116 Stat. 876, provided that: “The amendment made by this section \[amending this section and section 1961 of thistitle\] shall take effect as if included in the enactment of the Emergency Supplemental Act, 2002 \[Pub. L. 107–117, div. B\].”
+Pub. L. 107–206, title I, §903(c), Aug. 2, 2002, 116 Stat. 876, provided that: “The amendment made by this section \[amending this section and section 1961 of this title\] shall take effect as if included in the enactment of the Emergency Supplemental Act, 2002 \[Pub. L. 107–117, div. B\].”
 

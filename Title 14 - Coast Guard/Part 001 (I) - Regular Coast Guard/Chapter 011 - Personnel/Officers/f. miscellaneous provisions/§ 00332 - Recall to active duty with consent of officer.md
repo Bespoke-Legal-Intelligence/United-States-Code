@@ -8,9 +8,9 @@
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–241, §14(b), substituted “that officer's” for “his” and “that officer” for “he”.
+<b>1991</b>—Subsec. (a). Pub. L. 102–241, §14(b), substituted "that officer's" for "his" and "that officer" for "he".
 
-Subsec. (b). Pub. L. 102–241, §14(a), substituted “2” for “1”.
+Subsec. (b). Pub. L. 102–241, §14(a), substituted "2" for "1".
 
 <b>1970</b>—Subsec. (a). Pub. L. 91–278 struck out prohibition against recall to duty in time of peace of any officer on retired list who reached age of sixty-two years.
 

@@ -6,23 +6,23 @@ In this section:
 
 #### (1) Advisory Committee
 
-&emsp;The term “Advisory Committee” means the Climate Change Technology Advisory Committee established under subsection (f)(1) of this section.
+&emsp;The term "Advisory Committee" means the Climate Change Technology Advisory Committee established under subsection (f)(1) of this section.
 
 #### (2) Carbon sequestration
 
-&emsp;The term “carbon sequestration” means the capture of carbon dioxide through terrestrial, geological, biological, or other means, which prevents the release of carbon dioxide into the atmosphere.
+&emsp;The term "carbon sequestration" means the capture of carbon dioxide through terrestrial, geological, biological, or other means, which prevents the release of carbon dioxide into the atmosphere.
 
 #### (3) Committee
 
-&emsp;The term “Committee” means the Committee on Climate Change Technology established under subsection (b)(1) of this section.
+&emsp;The term "Committee" means the Committee on Climate Change Technology established under subsection (b)(1) of this section.
 
 #### (4) Developing country
 
-&emsp;The term “developing country” has the meaning given the term in section 13387(m) of this title.
+&emsp;The term "developing country" has the meaning given the term in section 13387(m) of this title.
 
 #### (5) Greenhouse gas
 
-&emsp;The term “greenhouse gas” means—
+&emsp;The term "greenhouse gas" means—
 
 &emsp;&emsp;(A) carbon dioxide;
 
@@ -38,11 +38,11 @@ In this section:
 
 #### (6) Greenhouse gas intensity
 
-&emsp;The term “greenhouse gas intensity” means the ratio of greenhouse gas emissions to economic output.
+&emsp;The term "greenhouse gas intensity" means the ratio of greenhouse gas emissions to economic output.
 
 #### (7) National Laboratory
 
-&emsp;The term “National Laboratory” has the meaning given the term in section 15801(3) <sup>1</sup> of this title.
+&emsp;The term "National Laboratory" has the meaning given the term in section 15801(3) <sup>1</sup> of this title.
 
 #### (b) Committee on Climate Change Technology
 
@@ -104,7 +104,7 @@ Not later than 180 days after the date on which the Committee is established und
 
 #### (1) In general
 
-&emsp;The Secretary shall conduct and make public an inventory and evaluation of greenhouse gas intensity reducing technologies that have been developed, or are under development, by the National Laboratories, other Federal research facilities, institutions of higher education, and the private sector to determine which technologies are suitable for commercialization and deployment.
+&emsp;The Secretary shall conduct and make public an inventory and evaluation of greenhousegas intensity reducing technologies that have been developed, or are under development, by the National Laboratories, other Federal research facilities, institutions of higher education, and the private sector to determine which technologies are suitable for commercialization and deployment.
 
 #### (2) Report
 
@@ -226,9 +226,9 @@ In carrying out greenhouse gas intensity reduction research and technology deplo
 
 #### References in Text
 
-Section 15801(3) of this title, referred to in subsec. (a)(7), was in the original “section 3(3) of the Energy Policy Act of 2005” and was translated as meaning section 2(3) of that Act to reflect the probable intent of Congress, because the Energy Policy Act of 2005 does not contain a section 3 and section 2(3) defines “National Laboratory”.
+Section 15801(3) of this title, referred to in subsec. (a)(7), was in the original "section 3(3) of the Energy Policy Act of 2005" and was translated as meaning section 2(3) of that Act to reflect the probable intent of Congress, because the Energy Policy Act of 2005 does not contain a section 3 and section 2(3) defines "National Laboratory".
 
-This subtitle, referred to in subsec. (j), appearing in the original, is unidentifiable because title XVI of Pub.L. 102–486, of which this section is a part, does not contain subtitles.
+This subtitle, referred to in subsec. (j), appearing in the original, is unidentifiable because title XVI of Pub. L. 102–486, of which this section is a part, does not contain subtitles.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

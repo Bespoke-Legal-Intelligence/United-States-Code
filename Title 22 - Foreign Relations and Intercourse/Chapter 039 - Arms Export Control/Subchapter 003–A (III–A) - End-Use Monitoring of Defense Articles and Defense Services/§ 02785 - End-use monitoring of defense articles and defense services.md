@@ -10,7 +10,7 @@
 
 &emsp;To the extent practicable, such program—
 
-&emsp;&emsp;(A) shall provide for the end-use monitoring of defense articles and defense services in accordance with the standards that apply for identifying high-risk exports for regular end-use verification developed under section 2778(g)(7) of this title (commonly referred to as the “Blue Lantern” program); and
+&emsp;&emsp;(A) shall provide for the end-use monitoring of defense articles and defense services in accordance with the standards that apply for identifying high-risk exports for regular end-use verification developed under section 2778(g)(7) of this title (commonly referred to as the "Blue Lantern" program); and
 
 &emsp;&emsp;(B) shall be designed to provide reasonable assurance that—
 
@@ -28,7 +28,7 @@ In carrying out the program established under subsection (a) of this section, th
 
 #### (c) Report to Congress
 
-Not later than 6 months after July 21, 1996, and annually thereafter as a part of the annual congressional presentation documents submitted under section 634 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394\], the President shalltransmit to the Congress a report describing the actions taken to implement this section, including a detailed accounting of the costs and number of personnel associated with the monitoring program and the numbers, range, and findings of end-use monitoring of United States transfers of small arms and light weapons.
+Not later than 6 months after July 21, 1996, and annually thereafter as a part of the annual congressional presentation documents submitted under section 634 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394\], the President shall transmit to the Congress a report describing the actions taken to implement this section, including a detailed accounting of the costs and number of personnel associated with the monitoring program and the numbers, range, and findings of end-use monitoring of United States transfers of small arms and light weapons.
 
 #### (d) Third country transfers
 
@@ -38,7 +38,7 @@ For purposes of this section, defense articles and defense services sold, leased
 
 #### References in Text
 
-This chapter, referred to in subsecs. (a)(1) and (d), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsecs. (a)(1) and (d), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1) and (d), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -48,13 +48,13 @@ Another section 40A of Pub. L. 90–629 is classified to section 2781 of this ti
 
 #### Amendments
 
-<b>2002</b>—Subsec. (c). Pub. L. 107–228 inserted “and the numbers, range, and findings of end-use monitoring of United States transfers of small arms and light weapons” before period at end.
+<b>2002</b>—Subsec. (c). Pub. L. 107–228 inserted "and the numbers, range, and findings of end-use monitoring of United States transfers of small arms and light weapons" before period at end.
 
 #### Effective Date
 
-Pub. L. 104–164, title I, §150(b), July 21, 1996, 110 Stat. 1437, provided that: “Section 40A of the Arms Export Control Act, as added by subsection (a) \[22 U.S.C. 2785\], applies with respect to defense articles and defense services provided before or after the date of the enactment of this Act \[July 21, 1996\].”
+Pub. L. 104–164, title I, §150(b), July 21, 1996, 110 Stat. 1437, provided that: "Section 40A of the Arms Export Control Act, as added by subsection (a) \[22 U.S.C. 2785\], applies with respect to defense articles and defense services provided before or after the date of the enactment of this Act \[July 21, 1996\]."
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State insofar as they relate to commercial exports licensed under this chapter, and to Secretary of Defense insofar as they relate to defense articles and defense services sold, leased, or transferred under the Foreign Military Sales Program, by section 1(n) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+For delegation of functions of the President under this section, with certain conditions, see section 1(p) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16130, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 

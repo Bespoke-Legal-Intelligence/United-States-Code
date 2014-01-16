@@ -5,7 +5,7 @@
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00077bb - &#8220;Corporation of Foreign Security Holders&#8221;; creation; principal office; branch offices](%C2%A7%2000077bb%20-%20%E2%80%9CCorporation%20of%20Foreign%20Security%20Holders%E2%80%9D%3B%20creation%3B%20principal%20office%3B%20branch%20offices.md)
+- [&sect; 00077bb - Corporation of Foreign Security Holders; creation; principal office; branch offices](%C2%A7%2000077bb%20-%20Corporation%20of%20Foreign%20Security%20Holders%3B%20creation%3B%20principal%20office%3B%20branch%20offices.md)
 - [&sect; 00077cc - Directors of Corporation; appointment, term of office, and removal](%C2%A7%2000077cc%20-%20Directors%20of%20Corporation%3B%20appointment%2C%20term%20of%20office%2C%20and%20removal.md)
 - [&sect; 00077dd - Powers and duties of Corporation, generally](%C2%A7%2000077dd%20-%20Powers%20and%20duties%20of%20Corporation%2C%20generally.md)
 - [&sect; 00077ee - Directors of Corporation, powers and duties generally](%C2%A7%2000077ee%20-%20Directors%20of%20Corporation%2C%20powers%20and%20duties%20generally.md)

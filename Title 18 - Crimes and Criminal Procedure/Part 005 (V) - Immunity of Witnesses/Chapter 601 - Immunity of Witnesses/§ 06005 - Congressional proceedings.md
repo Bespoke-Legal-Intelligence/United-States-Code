@@ -16,11 +16,11 @@
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–292, §5(1), inserted “or ancillary to” after “any proceeding before”.
+<b>1996</b>—Subsec. (a). Pub. L. 104–292, §5(1), inserted "or ancillary to" after "any proceeding before".
 
-Subsec. (b)(1), (2). Pub. L. 104–292, §5(2)(A), inserted “or ancillary to” after “a proceeding before”.
+Subsec. (b)(1), (2). Pub. L. 104–292, §5(2)(A), inserted "or ancillary to" after "a proceeding before".
 
 Subsec. (b)(3). Pub. L. 104–292, §5(2)(B), and Pub. L. 104–294, amended par. (3) identically, inserting period at end.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “title” for “part” before period at end.
+<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted "title" for "part" before period at end.
 

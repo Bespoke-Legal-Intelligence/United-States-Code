@@ -6,7 +6,7 @@ Within the boundaries of the park the Secretary may acquire lands and interests 
 
 #### (b) United States Coast Guard lands
 
-When all or any substantial portion of lands under the administration of the United States Coast Guard located within the park boundaries, including Loggerhead Key, have been determined by the United States Coast Guard to beexcess to its needs, such lands shall be transferred directly to the jurisdiction of the Secretary for the purposes of this subchapter. The United States Coast Guard may reserve the right in such transfer to maintain and utilize the existing lighthouse on Loggerhead Key in a manner consistent with the purposes of the United States Coast Guard and the purposes of this subchapter.
+When all or any substantial portion of lands under the administration of the United States Coast Guard located within the park boundaries, including Loggerhead Key, have been determined by the United States Coast Guard to be excess to its needs, such lands shall be transferred directly to the jurisdiction of the Secretary for the purposes of this subchapter. The United States Coast Guard may reserve the right in such transfer to maintain and utilize the existing lighthouse on Loggerhead Key in a manner consistent with the purposes of the United States Coast Guard and the purposes of this subchapter.
 
 #### (c) Administrative site
 
@@ -16,7 +16,7 @@ The Secretary is authorized to lease or to acquire, by purchase, donation, or ex
 
 #### References in Text
 
-Section 201 of the Act of June 28, 1980 (Public Law 96–287), referred to in subsec. (a), appears in a table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under section 431 of this title.
+Section 201 of the Act of June 28, 1980 (Public Law 96–287), referred to in subsec. (a), appears in a table under the heading "National Monuments Established Under Presidential Proclamation", set out as a note under section 431 of this title.
 
 #### Transfer of Functions
 

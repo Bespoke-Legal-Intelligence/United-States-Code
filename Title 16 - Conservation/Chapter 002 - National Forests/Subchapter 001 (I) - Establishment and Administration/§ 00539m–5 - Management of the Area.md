@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall consult with the Pueblo not less than twice each year, unless otherwisemutually agreed, concerning protection, preservation, and management of the Area (including proposed new uses and modified uses in the Area and authorizations that are anticipated during the next 6 months and were approved in the preceding 6 months).
+&emsp;The Secretary shall consult with the Pueblo not less than twice each year, unless otherwise mutually agreed, concerning protection, preservation, and management of the Area (including proposed new uses and modified uses in the Area and authorizations that are anticipated during the next 6 months and were approved in the preceding 6 months).
 
 #### (2) New uses
 

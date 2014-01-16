@@ -40,7 +40,7 @@ The Administrator shall develop, collect, evaluate, and coordinate information o
 
 #### (c) Model accounting system
 
-In order to assist State and local governments in determining the cost and revenues associated with the collection and disposal of solid waste and with resource recovery operations, the Administrator shall develop and publish a recommended model cost and revenue accounting system applicable to the solid waste management functions of State and local governments. Such system shall be in accordance with generally accepted accounting principles. The Administrator shall periodically, but not less frequently than once every five years, review such accounting system and revise it as necessary.
+In order to assist State and local governments in determining the cost and revenues associatedwith the collection and disposal of solid waste and with resource recovery operations, the Administrator shall develop and publish a recommended model cost and revenue accounting system applicable to the solid waste management functions of State and local governments. Such system shall be in accordance with generally accepted accounting principles. The Administrator shall periodically, but not less frequently than once every five years, review such accounting system and revise it as necessary.
 
 #### (d) Model codes
 
@@ -64,9 +64,9 @@ Upon request, the full range of alternative technologies, programs or processes 
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a)(3). Pub. L. 95–609 substituted “solid waste” for “discarded materials”.
+<b>1978</b>—Subsec. (a)(3). Pub. L. 95–609 substituted "solid waste" for "discarded materials".
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector,Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
+For transfer of certain enforcement functions of Administrator or other official of Environmental Protection Agency under this chapter to Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, then to Federal Coordinator for Alaska Natural Gas Transportation Projects, see note set out under section 6903 of this title.
 

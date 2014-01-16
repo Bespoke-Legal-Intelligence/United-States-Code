@@ -56,7 +56,7 @@ Not later than 180 days after submitting the report required by subsection (a), 
 
 #### Amendments
 
-<b>2012</b>—Subsec. (b). Pub. L. 112–158 substituted “a report, covering the 180-day period beginning on the date that is 30 days before the date on which the preceding report was required to be submitted by this section, that—” for “a report containing the matters required in the report under subsection (a)(1) for the 180-day period beginning on the date that is 30 days before the date on which the preceding report was required to be submitted by this section.” and added pars. (1) and (2).
+<b>2012</b>—Subsec. (b). Pub. L. 112–158 substituted "a report, covering the 180-day period beginning on the date that is 30 days before the date on which the preceding report was required to be submitted by this section, that—" for "a report containing the matters required in the report under subsection (a)(1) for the 180-day period beginning on the date that is 30 days before the date on which the preceding report was required to be submitted by this section." and added pars. (1) and (2).
 
 #### Delegation of Functions
 

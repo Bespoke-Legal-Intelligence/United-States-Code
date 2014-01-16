@@ -24,9 +24,9 @@ Implementation.—The Secretary shall develop a process for the oversight and mo
 
 #### Amendments
 
-<b>2012</b>—Subsec. (a). Pub. L. 112–141, §1517(a)(1), substituted “shall” for “may”.
+<b>2012</b>—Subsec. (a). Pub. L. 112–141, §1517(a)(1), substituted "shall" for "may".
 
-Subsec. (b). Pub. L. 112–141, §1517(a)(2), substituted “State government and” for “State and” in introductory provisions.
+Subsec. (b). Pub. L. 112–141, §1517(a)(2), substituted "State government and" for "State and" in introductory provisions.
 
 Subsec. (c). Pub. L. 112–141, §1517(a)(3), added subsec. (c).
 

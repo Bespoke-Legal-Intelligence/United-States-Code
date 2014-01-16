@@ -22,7 +22,7 @@ The reference to section 2392(d) of title 22 is substituted for the reference to
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–513 substituted “section 632(d) of the Foreign Assistance Act of 1961 (22 U.S.C. 2392(d))” for “section 2392(d) of title 22”.
+<b>1980</b>—Pub. L. 96–513 substituted "section 632(d) of the Foreign Assistance Act of 1961 (22 U.S.C. 2392(d))" for "section 2392(d) of title 22".
 
 #### Effective Date of 1980 Amendment
 

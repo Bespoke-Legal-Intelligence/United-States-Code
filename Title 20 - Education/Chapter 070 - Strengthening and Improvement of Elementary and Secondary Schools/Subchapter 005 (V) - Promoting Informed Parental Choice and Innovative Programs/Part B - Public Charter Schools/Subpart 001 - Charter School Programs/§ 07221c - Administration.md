@@ -60,7 +60,7 @@ The Secretary may waive any statutory or regulatory requirement over which the S
 
 #### (1) State educational agencies
 
-&emsp;Each State educational agency receiving a grant under this subpart shall use such grantfunds to award subgrants to one or more eligible applicants in the State to enable such applicant to plan and implement a charter school in accordance with this subpart, except that the State educational agency may reserve not more than 10 percent of the grant funds to support dissemination activities described in paragraph (6).
+&emsp;Each State educational agency receiving a grant under this subpart shall use such grant funds to award subgrants to one or more eligible applicants in the State to enable such applicant to plan and implement a charter school in accordance with this subpart, except that the State educational agency may reserve not more than 10 percent of the grant funds to support dissemination activities described in paragraph (6).
 
 #### (2) Eligible applicants
 
@@ -98,7 +98,7 @@ The Secretary may waive any statutory or regulatory requirement over which the S
 
 #### (5) Revolving loan funds
 
-&emsp;Each State educational agency receiving a grant pursuant to this subpart may reserve not more than 10 percent of the grant funds for the establishment of a revolving loan fund. Such fund may be used to make loans to eligible applicants that have received a subgrant under this subpart, under such terms as may be determined by the State educational agency, for the initial operation of the charter school grant program of the eligible applicant until such time as the recipient begins receiving ongoing operational support from State or local financing sources.
+&emsp;Each State educational agency receiving a grant pursuant to this subpart may reserve not more than 10 percent of the grant funds for the establishment of a revolving loan fund. Such fund may be used to make loans to eligible applicants that have received a subgrantunder this subpart, under such terms as may be determined by the State educational agency, for the initial operation of the charter school grant program of the eligible applicant until such time as the recipient begins receiving ongoing operational support from State or local financing sources.
 
 #### (6) Dissemination
 

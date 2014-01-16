@@ -30,7 +30,7 @@ The Secretary shall conduct in the Service, and encourage, cooperate with, and r
 
 (B) The Secretary shall conduct a comprehensive review of Federal programs of research on the biological effects of ionizing radiation.
 
-(3) The Secretary shall conduct and may support through grants and contracts research and studies on human nutrition, with particular emphasis on the role of nutrition in the prevention and treatment of disease and on the maintenance and promotion of health, and programs for the dissemination of information respecting human nutrition to health professionals and the public. In carrying out activities under this paragraph, the Secretary shall provide for the coordination of such of these activities as are performed by the different divisions within the Department of Health and Human Services and shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon request of such an entity and under appropriate arrangements for the payment of expenses, may conduct and support such activities for such entity.
+(3) The Secretary shall conduct and may support through grants and contracts research and studies on human nutrition, with particular emphasis on the role of nutrition in the prevention and treatment of disease and on the maintenance and promotion of health, and programs for the dissemination of information respecting human nutrition to health professionals and thepublic. In carrying out activities under this paragraph, the Secretary shall provide for the coordination of such of these activities as are performed by the different divisions within the Department of Health and Human Services and shall consult with entities of the Federal Government, outside of the Department of Health and Human Services, engaged in comparable activities. The Secretary, upon request of such an entity and under appropriate arrangements for the payment of expenses, may conduct and support such activities for such entity.
 
 (4) The Secretary shall publish a biennial report which contains—
 
@@ -68,49 +68,49 @@ The Secretary, acting through the Director of the Centers for Disease Control an
 
 <b>2006</b>—Subsec. (e). Pub. L. 109–450 added subsec. (e).
 
-<b>1993</b>—Subsec. (b)(4). Pub. L. 103–43 substituted “a biennial report” for “an annual report” in introductory provisions.
+<b>1993</b>—Subsec. (b)(4). Pub. L. 103–43 substituted "a biennial report" for "an annual report" in introductory provisions.
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–607 redesignated concluding provisions of subsec. (a) of section 242a of this title as subsec. (d) of this section, substituted “biomedical, behavioral, clinical, or other research (including research on mental health, including” for “research on mental health, including”, and substituted “drugs)” for “drugs,”.
+<b>1988</b>—Subsec. (d). Pub. L. 100–607 redesignated concluding provisions of subsec. (a) of section 242a of this title as subsec. (d) of this section, substituted "biomedical, behavioral, clinical, or other research (including research on mental health, including" for "research on mental health, including", and substituted "drugs)" for "drugs,".
 
-<b>1986</b>—Subsec. (a)(3). Pub. L. 99–570 struck out “or, in the case of mental health projects, by the National Advisory Mental Health Council;” after “Department supporting such projects” and struck out “or the National Advisory Mental Health Council” after “appropriate entity of the Department”.
+<b>1986</b>—Subsec. (a)(3). Pub. L. 99–570 struck out "or, in the case of mental health projects, by the National Advisory Mental Health Council;" after "Department supporting such projects" and struck out "or the National Advisory Mental Health Council" after "appropriate entity of the Department".
 
 Subsec. (c). Pub. L. 99–660 added subsec. (c).
 
-<b>1985</b>—Subsec. (a)(3). Pub. L. 99–158, §3(a)(5)(A), substituted “as are recommended by the advisory council to the entity of the Department supporting such projects or, in the case of mental health projects, by the National Advisory Mental Health Council; and make, upon recommendation of the advisory council to the appropriate entity of the Department or the National Advisory Mental Health Council, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research” for “as are recommended by the National Advisory Health Council, or, with respect to cancer, recommended by the National Cancer Advisory Board, or, with respect to mental health, recommended by the National Advisory Mental Health Council, or with respect to heart, blood vessel, lung, and blood diseases and blood resources, recommended by the National Heart, Lung, and Blood Advisory Council, or, with respect to dental diseases and conditions, recommended by the National Advisory Dental Research Council; and include in the grants for any such project grants of penicillin and other antibiotic compounds for use in such project; and make, upon recommendation of the National Advisory Health Council, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research: <i>Provided</i>, That such uniform percentage, not to exceed 15 per centum, as the Secretary may determine, of the amounts provided for grants for research projects for any fiscal year through the appropriations for the National Institutes of Health may be transferred from such appropriations to a separate account to be available for such research grants-in-aid for such fiscal year”.
+<b>1985</b>—Subsec. (a)(3). Pub. L. 99–158, §3(a)(5)(A), substituted "as are recommended by the advisory council to the entity of the Department supporting such projects or, in the case of mental health projects, by the National Advisory Mental Health Council; andmake, upon recommendation of the advisory council to the appropriate entity of the Department or the National Advisory Mental Health Council, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research" for "as are recommended by the National Advisory Health Council, or, with respect to cancer, recommended by the National Cancer Advisory Board, or, with respect to mental health, recommended by the National Advisory Mental Health Council, or with respect to heart, blood vessel, lung, and blood diseases and blood resources, recommended by the National Heart, Lung, and Blood Advisory Council, or, with respect to dental diseases and conditions, recommended by the National Advisory Dental Research Council; and include in the grants for any such project grants of penicillin and other antibiotic compounds for use in such project; and make, upon recommendation of the National Advisory Health Council, grants-in-aid to public or nonprofit universities, hospitals, laboratories, and other institutions for the general support of their research: <i>Provided</i>, That such uniform percentage, not to exceed 15 per centum, as the Secretary may determine, of the amounts provided for grants for research projects for any fiscal year through the appropriations for the National Institutes of Health may be transferred from such appropriations to a separate account to be available for such research grants-in-aid for such fiscal year".
 
-Subsec. (a)(8). Pub. L. 99–158, §3(a)(5)(B), substituted “recommendations of the advisory councils to the appropriate entities of the Department or, with respect to mental health, the National Advisory Mental Health Council, such additional means as the Secretary considers” for “recommendation of the National Advisory Health Council, or, with respect to cancer, upon recommendation of the National Cancer Advisory Board, or, with respect to mental health, upon recommendation of the National Advisory Mental Health Council, or, with respect to heart, blood vessel, lung, and blood diseases and blood resources, upon recommendation of the National Heart, Lung and Blood Advisory Council, or, with respect to dental diseases and conditions, upon recommendations of the National Advisory Dental Research Council, such additional means as he deems”.
+Subsec. (a)(8). Pub. L. 99–158, §3(a)(5)(B), substituted "recommendations of the advisory councils to the appropriate entities of the Department or, with respect to mental health, the National Advisory Mental Health Council, such additional means as the Secretary considers" for "recommendation of the National Advisory Health Council, or, with respect to cancer, upon recommendation of the National Cancer Advisory Board, or, with respect to mental health, upon recommendation of the National Advisory Mental Health Council, or, with respect to heart, blood vessel, lung, and blood diseases and blood resources, upon recommendation of the National Heart, Lung and Blood Advisory Council, or, with respect to dental diseases and conditions, upon recommendations of the National Advisory Dental Research Council, such additional means as he deems".
 
-<b>1978</b>—Pub. L. 95–622 designated existing provisions as subsec. (a), redesignated former pars. (a) to (h) as (1) to (8), respectively, substituted “Secretary” for “Surgeon General” wherever appearing, and inserted following par. (8) provisions relating to authority of Secretary to make available to individuals and entities substances and living organisms, and added subsec. (b).
+<b>1978</b>—Pub. L. 95–622 designated existing provisions as subsec. (a), redesignated former pars. (a) to (h) as (1) to (8), respectively, substituted "Secretary" for "Surgeon General" wherever appearing, and inserted following par. (8) provisions relating to authority of Secretary to make available to individuals and entities substances and living organisms, and added subsec. (b).
 
-<b>1976</b>—Subsecs. (c), (h). Pub. L. 94–278 substituted “heart, blood vessel, lung, and blood diseases and blood resources” for “heart diseases” and “National Heart, Lung and Blood Advisory Council” for “National Heart and Lung Advisory Council”.
+<b>1976</b>—Subsecs. (c), (h). Pub. L. 94–278 substituted "heart, blood vessel, lung, and blood diseases and blood resources" for "heart diseases" and "National Heart, Lung and Blood Advisory Council" for "National Heart and Lung Advisory Council".
 
-<b>1974</b>—Subsec. (c). Pub. L. 93–348, §104(a)(1), redesignated subsec. (d) as (c) and substituted “research projects” for “research or research training projects” in two places, “general support of their research” for “general support of their research and research training programs” and “research grants-in-aid” for “research and research training program grants-in-aid”. Former subsec. (c), authorizing Surgeon General to establish and maintain research fellowships in the Public Health Service with such stipends and allowances, including traveling and subsistence expenses, as he may deem necessary to procure the assistance of the most brilliant and promising research fellows from the United States and abroad, was struck out.
+<b>1974</b>—Subsec. (c). Pub. L. 93–348, §104(a)(1), redesignated subsec. (d) as (c) and substituted "research projects" for "research or research training projects" in two places, "general support of their research" for "general support of their research and research training programs" and "research grants-in-aid" for "research and research training program grants-in-aid". Former subsec. (c), authorizing Surgeon General to establish and maintain research fellowships in the Public Health Service with such stipends and allowances, including traveling and subsistence expenses, as he may deem necessary to procure the assistance of the most brilliant and promising research fellows from the United States and abroad, was struck out.
 
 Subsec. (d). Pub. L. 93–348, §104(a)(1)(C), redesignated subsec. (e) as (d).
 
-Pub. L. 93–282 substituted “mental health, including research on the use and effect of alcohol and other psychoactive drugs” for “the use and effect of drugs” in former concluding provisions of section 242a(a) of this title. See 1988 Amendment note above.
+Pub. L. 93–282 substituted "mental health, including research on the use and effect of alcohol and other psychoactive drugs" for "the use and effect of drugs" in former concluding provisions of section 242a(a) of this title. See 1988 Amendment note above.
 
 Subsecs. (e), (f). Pub. L. 93–348, §104(a)(1)(C), redesignated subsecs. (f) and (g) as (e) and (f), respectively. Former subsec. (e) redesignated (d).
 
-Subsec. (g). Pub. L. 93–352 struck out “during the fiscal year ending June 30, 1966, and each of the eight succeeding fiscal years” after “Enter into contracts”. Notwithstanding directory language that amendment be made to subsec. (h), the amendment was executed to subsec. (g) to reflect the probable intent of Congress and the intervening redesignation of subsec. (h) as (g) by Pub. L. 93–348.
+Subsec. (g). Pub. L. 93–352 struck out "during the fiscal year ending June 30, 1966, and each of the eight succeeding fiscal years" after "Enter into contracts". Notwithstanding directory language that amendment be made to subsec. (h), the amendment was executed to subsec. (g) to reflect the probable intent of Congress and the intervening redesignation of subsec. (h) as (g) by Pub. L. 93–348.
 
 Pub. L. 93–348, §104(a)(1)(C), redesignated subsec. (h) as (g). Former subsec. (g) redesignated (f).
 
 Subsecs. (h), (i). Pub. L. 93–348, §104(a)(1)(C), redesignated subsecs. (h) and (i) as (g) and (h), respectively.
 
-<b>1972</b>—Subsecs. (d), (i). Pub. L. 92–423 substituted “National Heart and Lung Advisory Council” for “National Advisory Heart Council”.
+<b>1972</b>—Subsecs. (d), (i). Pub. L. 92–423 substituted "National Heart and Lung Advisory Council" for "National Advisory Heart Council".
 
-<b>1971</b>—Subsecs. (d), (i). Pub. L. 92–218 substituted “National Cancer Advisory Board” for “National Advisory Cancer Council”.
+<b>1971</b>—Subsecs. (d), (i). Pub. L. 92–218 substituted "National Cancer Advisory Board" for "National Advisory Cancer Council".
 
 <b>1970</b>—Subsec. (d). Pub. L. 91–513 added subsec. (d). See 1988 Amendment note above.
 
-Subsec. (h). Pub. L. 91–515 substituted “eight” for “five” succeeding fiscal years.
+Subsec. (h). Pub. L. 91–515 substituted "eight" for "five" succeeding fiscal years.
 
-<b>1967</b>—Subsec. (h). Pub. L. 90–174 substituted “five” for “two” succeeding fiscal years.
+<b>1967</b>—Subsec. (h). Pub. L. 90–174 substituted "five" for "two" succeeding fiscal years.
 
 <b>1965</b>—Subsecs. (h), (i). Pub. L. 89–115 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-<b>1962</b>—Subsec. (d). Pub. L. 87–838 inserted “or research training” in two places.
+<b>1962</b>—Subsec. (d). Pub. L. 87–838 inserted "or research training" in two places.
 
 <b>1960</b>—Subsec. (d). Pub. L. 86–798 authorized the Surgeon General, upon recommendation of the National Advisory Health Council, to make grants to public or non-profit universities, hospitals, laboratories, and other institutions to support research and research training programs, and to make available for such research and research training programs, up to 15 per centum of amounts provided for research grants through the appropriations for the National Institutes of Health.
 
@@ -128,7 +128,7 @@ Subsec. (g). Act July 3, 1946, gave National Advisory Health Council the right t
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a)(7), and “Department of Health and Human Services” substituted for “Department of Health, Education, and Welfare” in subsec. (b)(1), (3), and (4)(D)(I), (II), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+"Secretary of Health and Human Services" substituted for "Secretary of Health, Education, and Welfare" in subsec. (a)(7), and "Department of Health and Human Services" substituted for "Department of Health, Education, and Welfare" in subsec. (b)(1), (3), and (4)(D)(I), (II), pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Effective Date of 1978 Amendment
 
@@ -136,7 +136,7 @@ Sections 261 and 262 of Pub. L. 95–622 provided that the amendments made by th
 
 #### Effective Date of 1974 Amendment
 
-Section 104(b) of Pub. L. 93–348 provided that: “The amendments made by subsection (a) \[amending this section and sections 242a, 282, 286a, 286b, 287a, 287b, 287d, 288a, 289c, 289c–1, 289g, 289k, and heading preceding section 289l of this title\] shall not apply with respect to commitments made before the date of the enactment of this Act \[July 12, 1974\] by the Secretary of Health, Education, and Welfare for research training under the provisions of the Public Health Service Act amended or repealed by subsection (a).”
+Section 104(b) of Pub. L. 93–348 provided that: "The amendments made by subsection (a) \[amending this section and sections 242a, 282, 286a, 286b, 287a, 287b, 287d,288a, 289c, 289c–1, 289g, 289k, and heading preceding section 289l of this title\] shall not apply with respect to commitments made before the date of the enactment of this Act \[July 12, 1974\] by the Secretary of Health, Education, and Welfare for research training under the provisions of the Public Health Service Act amended or repealed by subsection (a)."
 
 #### Effective Date of 1972 Amendment
 
@@ -148,33 +148,33 @@ Amendment by Pub. L. 92–218 effective 60 days after Dec. 23, 1971, or on such 
 
 #### Coordination of Data Surveys and Reports
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402, provided that: “The Secretary of Health and Human Services, through the Assistant Secretary for Planning and Evaluation, shall establish a clearinghouse for the consolidation and coordination of all Federal databases and reports regarding children's health.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title VII, §703(e)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–402, provided that: "The Secretary of Health and Human Services, through the Assistant Secretary for Planning and Evaluation, shall establish a clearinghouse for the consolidation and coordination of all Federal databases and reports regarding children's health."
 
 #### Female Genital Mutilation
 
 Pub. L. 104–134, title I, §101(d) \[title V, §520\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–250; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, provided that:
 
-“(a) Congress finds that—
+"(a) Congress finds that—
 
-&emsp;“(1) the practice of female genital mutilation is carried out by members of certain cultural and religious groups within the United States; and
+&emsp;"(1) the practice of female genital mutilation is carried out by members of certain cultural and religious groups within the United States; and
 
-&emsp;“(2) the practice of female genital mutilation often results in the occurrence of physical and psychological health effects that harm the women involved.
+&emsp;"(2) the practice of female genital mutilation often results in the occurrence of physical and psychological health effects that harm the women involved.
 
-“(b) The Secretary of Health and Human Services shall do the following:
+"(b) The Secretary of Health and Human Services shall do the following:
 
-&emsp;“(1) Compile data on the number of females living in the United States who have been subjected to female genital mutilation (whether in the United States or in their countries of origin), including a specification of the number of girls under the age of 18 who have been subjected to such mutilation.
+&emsp;"(1) Compile data on the number of females living in the United States who have been subjected to female genital mutilation (whether in the United States or in their countries of origin), including a specification of the number of girls under the age of 18 who have been subjected to such mutilation.
 
-&emsp;“(2) Identify communities in the United States that practice female genital mutilation, and design and carry out outreach activities to educate individuals in the communities on the physical and psychological health effects of such practice. Such outreach activities shall be designed and implemented in collaboration with representatives of the ethnic groups practicing such mutilation and with representatives of organizations with expertise in preventing such practice.
+&emsp;"(2) Identify communities in the United States that practice female genital mutilation, and design and carry out outreach activities to educate individuals in the communities on the physical and psychological health effects of such practice. Such outreach activities shall be designed and implemented in collaboration with representatives of the ethnic groups practicing such mutilation and with representatives of organizations with expertise in preventing such practice.
 
-&emsp;“(3) Develop recommendations for the education of students of schools of medicine and osteopathic medicine regarding female genital mutilation and complications arising from such mutilation. Such recommendations shall be disseminated to such schools.
+&emsp;"(3) Develop recommendations for the education of students of schools of medicine and osteopathic medicine regarding female genital mutilation and complications arising from such mutilation. Such recommendations shall be disseminated to such schools.
 
-“(c) For purposes of this section the term ‘female genital mutilation’ means the removal or infibulation (or both) of the whole or part of the clitoris, the labia minor, or the labia major.
+"(c) For purposes of this section the term 'female genital mutilation' means the removal or infibulation (or both) of the whole or part of the clitoris, the labia minor, or the labia major.
 
-“(d) The Secretary of Health and Human Services shall commence carrying out this section not later than 90 days after the date of enactment of this Act \[Apr. 26, 1996\].”
+"(d) The Secretary of Health and Human Services shall commence carrying out this section not later than 90 days after the date of enactment of this Act \[Apr. 26, 1996\]."
 
 #### Sentinel Disease Concept Study
 
-Pub. L. 103–43, title XIX, §1910, June 10, 1993, 107 Stat. 205, directed Secretary of Health and Human Services, in cooperation with Agency for Toxic Substances andDisease Registry and Centers for Disease Control and Prevention, to design and implement a pilot sentinel disease surveillance system for identifying relationship between occupation of household members and incidence of subsequent conditions or diseases in other members of household, and required Director of the National Institutes of Health to prepare and submit to Congress, not later than 4 years after June 10, 1993, a report concerning this project.
+Pub. L. 103–43, title XIX, §1910, June 10, 1993, 107 Stat. 205, directed Secretary of Health and Human Services, in cooperation with Agency for Toxic Substances and Disease Registry and Centers for Disease Control and Prevention, to design and implement a pilot sentinel disease surveillance system for identifying relationship between occupation of household members and incidence of subsequent conditions or diseases in other members of household, and required Director of the National Institutes of Health to prepare and submit to Congress, not later than 4 years after June 10, 1993, a report concerning this project.
 
 #### Study of Thyroid Morbidity for Hanford, Washington
 
@@ -190,29 +190,29 @@ Pub. L. 100–607, title VI, §632, Nov. 4, 1988, 102 Stat. 3147, provided that 
 
 #### Continuing Care for Psychiatric Patients in Former Clinical Research Center at National Institute on Drug Abuse
 
-Pub. L. 99–117, §10, Oct. 7, 1985, 99 Stat. 494, provided that: “In any fiscal year beginning after September 30, 1981, from funds appropriated for carrying out section 301 of the Public Health Service Act \[this section\] with respect to mental health, the Secretary of Health and Human Services may provide, by contract or otherwise, for the continuing care of psychiatric patients who were under active and continuous treatment at the National Institute on Drug Abuse Clinical Research Center on the date such Clinical Research Center ceased operations.”
+Pub. L. 99–117, §10, Oct. 7, 1985, 99 Stat. 494, provided that: "In any fiscal year beginning after September 30, 1981, from funds appropriated for carrying out section 301 of the Public Health Service Act \[42 U.S.C. 241\] with respect to mental health, the Secretary of Health and Human Services may provide, by contract or otherwise, for the continuing care of psychiatric patients who were under active and continuous treatment at the National Institute on Drug Abuse Clinical Research Center on the date such Clinical Research Center ceased operations."
 
 #### Analysis of Thyroid Cancer; Creation and Publication of Radioepidemiological Tables
 
 Pub. L. 97–414, §7, Jan. 4, 1983, 96 Stat. 2059, as amended by Pub. L. 109–482, title I, §104(b)(3)(A), Jan. 15, 2007, 120 Stat. 3694, provided that:
 
-“(a) In carrying out section 301 of the Public Health Service Act \[this section\], the Secretary of Health and Human Services shall—
+"(a) In carrying out section 301 of the Public Health Service Act \[42 U.S.C. 241\], the Secretary of Health and Human Services shall—
 
-&emsp;“(1) conduct scientific research and prepare analyses necessary to develop valid and credible assessments of the risks of thyroid cancer that are associated with thyroid doses of Iodine 131;
+&emsp;"(1) conduct scientific research and prepare analyses necessary to develop valid and credible assessments of the risks of thyroid cancer that are associated with thyroid doses of Iodine 131;
 
-&emsp;“(2) conduct scientific research and prepare analyses necessary to develop valid and credible methods to estimate the thyroid doses of Iodine 131 that are received by individuals from nuclear bomb fallout; and
+&emsp;"(2) conduct scientific research and prepare analyses necessary to develop valid and credible methods to estimate the thyroid doses of Iodine 131 that are received by individuals from nuclear bomb fallout; and
 
-&emsp;“(3) conduct scientific research and prepare analyses necessary to develop valid and credible assessments of the exposure to Iodine 131 that the American people received from the Nevada atmospheric nuclear bomb tests.
+&emsp;"(3) conduct scientific research and prepare analyses necessary to develop valid and credible assessments of the exposure to Iodine 131 that the American people received from the Nevada atmospheric nuclear bomb tests.
 
-“(b)(1) Within one year after the date of enactment of this Act \[Jan. 4, 1983\], the Secretary of Health and Human Services shall devise and publish radioepidemiological tables that estimate the likelihood that persons who have or have had any of the radiation related cancers and who have received specific doses prior to the onset of such disease developed cancer as a result of these doses. These tables shall show a probability of causation of developing each radiation related cancer associated with receipt of doses ranging from 1 millirad to 1,000 rads in terms of sex, age at time of exposure, time from exposure to the onset of the cancer in question, and such other categories as the Secretary, after consulting with appropriate scientific experts, determines to be relevant. Each probability of causation shall be calculated and displayed as a single percentage figure.
+"(b)(1) Within one year after the date of enactment of this Act \[Jan. 4, 1983\], the Secretary of Health and Human Services shall devise and publish radioepidemiological tables that estimate the likelihood that persons who have or have had any of the radiation related cancers and who have received specific doses prior to the onset of such disease developed cancer as a result of these doses. These tables shall show a probability of causation of developing each radiation related cancer associated with receipt of doses ranging from 1 millirad to 1,000 rads in terms of sex, age at time of exposure, time from exposure to the onset of the cancer in question, and such other categories as the Secretary, after consulting with appropriate scientific experts, determines to be relevant. Each probability of causation shall be calculated and displayed as a single percentage figure.
 
-“(2) At the time the Secretary of Health and Human Services publishes the tables pursuant to paragraph (1), such Secretary shall also publish—
+"(2) At the time the Secretary of Health and Human Services publishes the tables pursuant to paragraph (1), such Secretary shall also publish—
 
-&emsp;“(A) for the tables of each radiation related cancer, an evaluation which will assess the credibility, validity, and degree of certainty associated with such tables; and
+&emsp;"(A) for the tables of each radiation related cancer, an evaluation which will assess the credibility, validity, and degree of certainty associated with such tables; and
 
-&emsp;“(B) a compilation of the formulas that yielded the probabilities of causation listed in such tables. Such formulas shall be published in such a manner and together with information necessary to determine the probability of causation of any individual who has or has had a radiation related cancer and has received any given dose.
+&emsp;"(B) a compilation of the formulas that yielded the probabilities of causation listed in such tables. Such formulas shall be published in such a manner and together with information necessary to determine the probability of causation of any individual who has or has had a radiation related cancer and has received any given dose.
 
-“(3) The tables specified in paragraph (1) and the formulas specified in paragraph (2) shall be devised from the best available data that are most applicable to the United States, and shall be devised in accordance with the best available scientific procedures and expertise.”
+"(3) The tables specified in paragraph (1) and the formulas specified in paragraph (2) shall be devised from the best available data that are most applicable to the United States, and shall be devised in accordance with the best available scientific procedures and expertise."
 
 #### Termination of Advisory Committees
 
@@ -228,7 +228,7 @@ Ex. Ord. No. 13505, Mar. 9, 2009, 74 F.R. 10667, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Research involving human embryonic stem cells and human non-embryonic stem cells has the potential to lead to better understanding and treatment of many disabling diseases and conditions.Advances over the past decade in this promising scientific field have been encouraging, leading to broad agreement in the scientific community that the research should be supported by Federal funds.
+Section 1. <i>Policy</i>. Research involving human embryonic stem cells and human non-embryonic stem cells has the potential to lead to better understanding and treatment of many disabling diseases and conditions. Advances over the past decade in this promising scientific field have been encouraging, leading to broad agreement in the scientific community that the research should be supported by Federal funds.
 
 For the past 8 years, the authority of the Department of Health and Human Services, including the National Institutes of Health (NIH), to fund and conduct human embryonic stem cell research has been limited by Presidential actions. The purpose of this order is to remove these limitations on scientific inquiry, to expand NIH support for the exploration of human stem cell research, and in so doing to enhance the contribution of America's scientists to important new discoveries and new therapies for the benefit of humankind.
 
@@ -258,13 +258,41 @@ Memorandum of President of the United States, July 30, 2009, 74 F.R. 38885, prov
 
 Memorandum for the Heads of Executive Departments and Agencies
 
-As outlined in Executive Order 13505 of March 9, 2009, my Administration is committed to supporting and conducting ethically responsible, scientifically worthy human stem cell research, including human embryonic stem cell research, to the extent permitted by law. Pursuant to that order, the National Institutes of Health (NIH) published final “National Institutes of Health Guidelines for Human Stem Cell Research” (Guidelines), effective July 7, 2009. These Guidelines apply to the expenditure of NIH funds for research using human embryonic stem cells and certain uses of human induced pluripotent stem cells. The Guidelines are based on the principles that responsible research with human embryonic stem cells has the potential to improve our understanding of human biology and aid in the discovery of new ways to prevent and treat illness, and that individuals donating embryos for research purposes should do so freely, with voluntary and informed consent. These Guidelines will ensure that NIH-funded research adheres to the highest ethical standards.
+As outlined in Executive Order 13505 of March 9, 2009, my Administration is committed to supporting and conducting ethically responsible, scientifically worthy human stem cell research, including human embryonic stem cell research, to the extent permitted by law. Pursuant to that order, the National Institutes of Health (NIH) published final "National Institutes of Health Guidelines for Human Stem Cell Research" (Guidelines), effective July 7, 2009. These Guidelines apply to the expenditure of NIH funds for research using human embryonic stem cells and certain uses of human induced pluripotent stem cells. The Guidelines are based on the principles that responsible research with human embryonic stem cells has the potential to improve our understanding of human biology and aid in the discovery of new ways to prevent and treat illness, and that individuals donating embryos for research purposes should do so freely, with voluntary and informed consent. These Guidelines will ensure that NIH-funded research adheres to the highest ethical standards.
 
-In order to ensure that all federally funded human stem cell research is conducted according to these same principles and to promote a uniform Federal policy across the executive branch, I hereby direct the heads of executive departments and agencies that support and conduct stem cell research to adopt these Guidelines, to the fullest extent practicable in light of legal authorities and obligations. I also direct those departments and agencies to submit to the Director of the Office of Management and Budget (OMB), within 90 days, proposed additions or revisions to any other guidance, policies, or procedures related to human stem cell research, consistent with Executive Order 13505 and this memorandum. The Director of the OMB shall, in coordination with the Director of NIH, review these proposals to ensure consistent implementation of Executive Order 13505 and this memorandum.
+In order to ensure that all federally funded human stem cell research is conducted according to thesesame principles and to promote a uniform Federal policy across the executive branch, I hereby direct the heads of executive departments and agencies that support and conduct stem cell research to adopt these Guidelines, to the fullest extent practicable in light of legal authorities and obligations. I also direct those departments and agencies to submit to the Director of the Office of Management and Budget (OMB), within 90 days, proposed additions or revisions to any other guidance, policies, or procedures related to human stem cell research, consistent with Executive Order 13505 and this memorandum. The Director of the OMB shall, in coordination with the Director of NIH, review these proposals to ensure consistent implementation of Executive Order 13505 and this memorandum.
 
 This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person. Executive departments and agencies shall carry out the provisions of this memorandum to the extent permitted by law and consistent with their statutory and regulatory authorities and their enforcement mechanisms.
 
 The Director of the OMB is hereby authorized and directed to publish this memorandum in the Federal Register.
+
+Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Engaging in Public Health Research on the Causes and Prevention of Gun Violence
+
+Memorandum of President of the United States, Jan. 16, 2013, 78 F.R. 4295, provided that:
+
+Memorandum for the Secretary of Health and Human Services
+
+In addition to being a law enforcement challenge, gun violence is also a serious public health issue that affects thousands of individuals, families, and communities across the Nation. Each year in the United States there are approximately 30,000 firearm-related deaths, and approximately 11,000 of those deaths result from homicides. Addressing this critical issue requires a comprehensive, multifaceted approach.
+
+Recent research suggests that, in developing such an approach, a broader public health perspective is imperative. Significant strides can be made by assessing the causes of gun violence and the successful efforts in place for preventing the misuse of firearms. Taking these steps will improve our understanding of the gun violence epidemic and will aid in the continued development of gun violence prevention strategies.
+
+Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, I hereby direct the following:
+
+Section 1. <i>Research</i>. The Secretary of Health and Human Services (Secretary), through the Director of the Centers for Disease Control and Prevention and other scientific agencies within the Department of Health and Human Services, shall conduct or sponsor research into the causes of gun violence and the ways to prevent it. The Secretary shall begin by identifying the most pressing research questions with the greatest potential public health impact, and by assessing existing public health interventions being implemented across the Nation to prevent gun violence.
+
+Sec. 2. <i>General Provisions</i>. (a) Nothing in this memorandum shall be construed to impair or otherwise affect:
+
+(i) the authority granted by law to an executive department or agency, or the head thereof; or
+
+(ii) the functions of the Director of the Office of Management and Budget relating to budgetary, administrative, or legislative proposals.
+
+(b) This memorandum shall be implemented consistent with applicable law and subject to the availability of appropriations.
+
+(c) This memorandum is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or in equity by any party against the United States, its departments, agencies, or entities, its officers, employees, or agents, or any other person.
+
+Sec. 3. <i>Publication</i>. You are hereby authorized and directed to publish this memorandum in the Federal Register.
 
 Barack Obama.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

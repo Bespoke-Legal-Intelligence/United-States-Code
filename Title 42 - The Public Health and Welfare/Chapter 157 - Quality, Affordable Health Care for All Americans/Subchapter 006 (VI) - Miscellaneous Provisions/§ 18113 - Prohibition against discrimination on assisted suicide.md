@@ -6,7 +6,7 @@ The Federal Government, and any State or local government or health care provide
 
 #### (b) Definition
 
-In this section, the term “health care entity” includes an individual physician or other health care professional, a hospital, a provider-sponsored organization, a health maintenance organization, a health insurance plan, or any other kind of health care facility, organization, or plan.
+In this section, the term "health care entity" includes an individual physician or other health care professional, a hospital, a provider-sponsored organization, a health maintenance organization, a health insurance plan, or any other kind of health care facility, organization, or plan.
 
 #### (c) Construction and treatment of certain services
 
@@ -22,7 +22,7 @@ Nothing in subsection (a) shall be construed to apply to, or to affect, any limi
 
 #### (d) Administration
 
-The Office for Civil Rights of the Department of Health and Human Services is designated to receive complaints of discrimination based on this section.
+The Office for Civil Rights of the Department of Health and Human Services is designated toreceive complaints of discrimination based on this section.
 
 (Pub. L. 111–148, title I, §1553, Mar. 23, 2010, 124 Stat. 259.)
 

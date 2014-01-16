@@ -6,7 +6,7 @@ Based on the allocation amount computed under section 6432 of this title, the Se
 
 #### (b) Local subgrants
 
-Each State shall retain, for the purpose of carrying out subpart 2 of this part, funds generatedthroughout the State under part A of this subchapter based on children and youth residing in local correctional facilities, or attending community day programs for delinquent children and youth.
+Each State shall retain, for the purpose of carrying out subpart 2 of this part, funds generated throughout the State under part A of this subchapter based on children and youth residing in local correctional facilities, or attending community day programs for delinquent children and youth.
 
 (Pub. L. 89–10, title I, §1402, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1580.)
 

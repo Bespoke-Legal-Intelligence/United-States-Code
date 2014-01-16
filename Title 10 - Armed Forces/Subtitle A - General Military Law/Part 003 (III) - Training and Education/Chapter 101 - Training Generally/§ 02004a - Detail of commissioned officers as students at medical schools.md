@@ -54,11 +54,11 @@ Limitation on Details.—No agreement detailing an officer of the armed forces t
 
 #### Amendments
 
-<b>2009</b>—Subsec. (b)(1). Pub. L. 111–84, §1073(a)(18)(A), substituted “pay grade O–3” for “pay grade 0–3”.
+<b>2009</b>—Subsec. (b)(1). Pub. L. 111–84, §1073(a)(18)(A), substituted "pay grade O–3" for "pay grade 0–3".
 
 Subsec. (i). Pub. L. 111–84, §1073(a)(18)(B), inserted period at end.
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–181, §524(c)(2), substituted “subsection (b)” for “subsection (c)”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–181, §524(c)(2), substituted "subsection (b)" for "subsection (c)".
 
 Subsecs. (e) to (i). Pub. L. 110–181, §524(c)(1), added subsec. (e) and redesignated former subsecs. (e) to (h) as (f) to (i), respectively.
 

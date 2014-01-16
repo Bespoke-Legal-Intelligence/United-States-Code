@@ -20,19 +20,19 @@
 
 &emsp;&emsp;&emsp;(iv) plans for considering the impact of drug shortages on research and clinical trials; and
 
-&emsp;&emsp;&emsp;(v) an examination of whether to establish a “qualified manufacturing partner program”, as described in subparagraph (C).
+&emsp;&emsp;&emsp;(v) an examination of whether to establish a "qualified manufacturing partner program", as described in subparagraph (C).
 
 #### (C) Description of program
 
-&emsp;&emsp;In conducting the examination of a “qualified manufacturing partner program” under subparagraph (B)(v), the Secretary—
+&emsp;&emsp;In conducting the examination of a "qualified manufacturing partner program" under subparagraph (B)(v), the Secretary—
 
 &emsp;&emsp;&emsp;(i) shall take into account that—
 
-&emsp;&emsp;&emsp;&emsp;(I) a “qualified manufacturer”, for purposes of such program, would need to have the capability and capacity to supply products determined or anticipated to be in shortage; and
+&emsp;&emsp;&emsp;&emsp;(I) a "qualified manufacturer", for purposes of such program, would need to have the capability and capacity to supply products determined or anticipated to be in shortage; and
 
-&emsp;&emsp;&emsp;&emsp;(II) in examining the capability and capacity to supply products in shortage, the “qualified manufacturer” could have a site that manufactures a drug listed under section 356e of this title or have the capacity to produce drugs in response to a shortage within a rapid timeframe; and
+&emsp;&emsp;&emsp;&emsp;(II) in examining the capability and capacity to supply products in shortage, the "qualified manufacturer" could have a site that manufactures a drug listed under section 356e of this title or have the capacity to produce drugs in response to a shortage within a rapid timeframe; and
 
-&emsp;&emsp;&emsp;(ii) shall examine whether incentives are necessary to encourage the participation of “qualified manufacturers” in such a program.
+&emsp;&emsp;&emsp;(ii) shall examine whether incentives are necessary to encourage the participation of "qualified manufacturers" in such a program.
 
 #### (D) Consultation
 

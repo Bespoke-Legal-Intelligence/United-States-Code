@@ -6,9 +6,9 @@ The United States Information Agency (other than the Broadcasting Board of Gover
 
 #### Effective Date
 
-Pub. L. 105–277, div. G, subdiv. A, title XIII, §1301, Oct. 21, 1998, 112 Stat. 2681–776, provided that: “This title \[see Tables for classification\], and the amendments made by this title, shall take effect on the earlier of—
+Pub. L. 105–277, div. G, subdiv. A, title XIII, §1301, Oct. 21, 1998, 112 Stat. 2681–776, provided that: "This title \[see Tables for classification\], and the amendments made by this title, shall take effect on the earlier of—
 
-&emsp;“(1) October 1, 1999; or
+&emsp;"(1) October 1, 1999; or
 
-&emsp;“(2) the date of abolition \[Oct. 1, 1999\] of the United States Information Agency pursuant to the reorganization plan described in section 1601 \[22 U.S.C. 6601\].”
+&emsp;"(2) the date of abolition \[Oct. 1, 1999\] of the United States Information Agency pursuant to the reorganization plan described in section 1601 \[22 U.S.C. 6601\]."
 

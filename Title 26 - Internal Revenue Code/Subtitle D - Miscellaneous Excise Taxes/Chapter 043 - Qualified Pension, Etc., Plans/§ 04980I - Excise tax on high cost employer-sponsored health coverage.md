@@ -16,7 +16,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;The term “excess benefit” means, with respect to any applicable employer-sponsored coverage made available by an employer to an employee during any taxable period, the sum of the excess amounts determined under paragraph (2) for months during the taxable period.
+&emsp;The term "excess benefit" means, with respect to any applicable employer-sponsored coverage made available by an employer to an employee during any taxable period, the sum of the excess amounts determined under paragraph (2) for months during the taxable period.
 
 #### (2) Monthly excess amount
 
@@ -90,7 +90,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;&emsp;(I) such amount as so in effect, multiplied by
 
-&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for such year (determined by substituting the calendar year that is 2 years before such year for “1992” in subparagraph (B) thereof), increased by 1 percentage point in the case of determinations for calendar years beginning before 2020.
+&emsp;&emsp;&emsp;&emsp;(II) the cost-of-living adjustment determined under section 1(f)(3) for such year (determined by substituting the calendar year that is 2 years before such year for "1992" in subparagraph (B) thereof), increased by 1 percentage point in the case of determinations for calendar years beginning before 2020.
 
 &emsp;&emsp;&nbsp;If any amount determined under this clause is not a multiple of $50, such amount shall be rounded to the nearest multiple of $50.
 
@@ -102,7 +102,7 @@ For purposes of this section—
 
 #### (2) Coverage provider
 
-&emsp;For purposes of this subsection, the term “coverage provider” means each of the following:
+&emsp;For purposes of this subsection, the term "coverage provider" means each of the following:
 
 #### (A) Health insurance coverage
 
@@ -146,11 +146,11 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “applicable employer-sponsored coverage” means, with respect to any employee, coverage under any group health plan made available to the employee by an employer which is excludable from the employee's gross income under section 106, or would be so excludable if it were employer-provided coverage (within the meaning of such section 106).
+&emsp;&emsp;The term "applicable employer-sponsored coverage" means, with respect to any employee, coverage under any group health plan made available to the employee by an employer which is excludable from the employee's gross income under section 106, or would be so excludable if it were employer-provided coverage (within the meaning of such section 106).
 
 #### (B) Exceptions
 
-&emsp;&emsp;The term “applicable employer-sponsored coverage” shall not include—
+&emsp;&emsp;The term "applicable employer-sponsored coverage" shall not include—
 
 &emsp;&emsp;&emsp;(i) any coverage (whether through insurance or otherwise) described in section 9832(c)(1) (other than subparagraph (G) thereof) or for long-term care, or
 
@@ -186,7 +186,7 @@ For purposes of this section—
 
 #### (C) Archer MSAs and HSAs
 
-&emsp;&emsp;In the case of applicable employer-sponsored coverage consisting of coverage under an arrangement under which the employer makes contributions described in subsection (b) or (d) of section 106, the cost of the coverage shall be equal to the amount of employer contributions under the arrangement.
+&emsp;&emsp;In the case of applicable employer-sponsored coverage consisting of coverage underan arrangement under which the employer makes contributions described in subsection (b) or (d) of section 106, the cost of the coverage shall be equal to the amount of employer contributions under the arrangement.
 
 #### (D) Allocation on a monthly basis
 
@@ -194,7 +194,7 @@ For purposes of this section—
 
 #### (3) Employee
 
-&emsp;The term “employee” includes any former employee, surviving spouse, or other primary insured individual.
+&emsp;The term "employee" includes any former employee, surviving spouse, or other primary insured individual.
 
 #### (e) Penalty for failure to properly calculate excess benefit
 
@@ -222,7 +222,7 @@ For purposes of this section—
 
 #### (C) Waiver by Secretary
 
-&emsp;&emsp;In the case of any such failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the penalty imposed by paragraph (1), to theextent that the payment of such penalty would be excessive or otherwise inequitable relative to the failure involved.
+&emsp;&emsp;In the case of any such failure which is due to reasonable cause and not to willful neglect, the Secretary may waive part or all of the penalty imposed by paragraph (1), to the extent that the payment of such penalty would be excessive or otherwise inequitable relative to the failure involved.
 
 #### (f) Other definitions and special rules
 
@@ -240,7 +240,7 @@ For purposes of this section—
 
 #### (2) Qualified retiree
 
-&emsp;The term “qualified retiree” means any individual who—
+&emsp;The term "qualified retiree" means any individual who—
 
 &emsp;&emsp;(A) is receiving coverage by reason of being a retiree,
 
@@ -250,33 +250,33 @@ For purposes of this section—
 
 #### (3) Employees engaged in high-risk profession
 
-&emsp;The term “employees engaged in a high-risk profession” means law enforcement officers (as such term is defined in section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968), employees in fire protection activities (as such term is defined in section 3(y) of the Fair Labor Standards Act of 1938), individuals who provide out-of-hospital emergency medical care (including emergency medical technicians, paramedics, and first-responders), individuals whose primary work is longshore work (as defined in section 258(b) of the Immigration and Nationality Act (8 U.S.C. 1288(b)), determined without regard to paragraph (2) thereof), and individuals engaged in the construction, mining, agriculture (not including food processing), forestry, and fishing industries. Such term includes an employee who is retired from a high-risk profession described in the preceding sentence, if such employee satisfied the requirements of such sentence for a period of not less than 20 years during the employee's employment.
+&emsp;The term "employees engaged in a high-risk profession" means law enforcement officers (as such term is defined in section 1204 of the Omnibus Crime Control and Safe Streets Act of 1968), employees in fire protection activities (as such term is defined in section 3(y) of the Fair Labor Standards Act of 1938), individuals who provide out-of-hospital emergency medical care (including emergency medical technicians, paramedics, and first-responders), individuals whose primary work is longshore work (as defined in section 258(b) of the Immigration and Nationality Act (8 U.S.C. 1288(b)), determined without regard to paragraph (2) thereof), and individuals engaged in the construction, mining, agriculture (not including food processing), forestry, and fishing industries. Such term includes an employee who is retired from a high-risk profession described in the preceding sentence, if such employee satisfied the requirements of such sentence for a period of not less than 20 years during the employee's employment.
 
 #### (4) Group health plan
 
-&emsp;The term “group health plan” has the meaning given such term by section 5000(b)(1).
+&emsp;The term "group health plan" has the meaning given such term by section 5000(b)(1).
 
 #### (5) Health insurance coverage; health insurance issuer
 
 #### (A) Health insurance coverage
 
-&emsp;&emsp;The term “health insurance coverage” has the meaning given such term by section 9832(b)(1) (applied without regard to subparagraph (B) thereof, except as provided by the Secretary in regulations).
+&emsp;&emsp;The term "health insurance coverage" has the meaning given such term by section 9832(b)(1) (applied without regard to subparagraph (B) thereof, except as provided by the Secretary in regulations).
 
 #### (B) Health insurance issuer
 
-&emsp;&emsp;The term “health insurance issuer” has the meaning given such term by section 9832(b)(2).
+&emsp;&emsp;The term "health insurance issuer" has the meaning given such term by section 9832(b)(2).
 
 #### (6) Person that administers the plan benefits
 
-&emsp;The term “person that administers the plan benefits” shall include the plan sponsor if the plan sponsor administers benefits under the plan.
+&emsp;The term "person that administers the plan benefits" shall include the plan sponsor if the plan sponsor administers benefits under the plan.
 
 #### (7) Plan sponsor
 
-&emsp;The term “plan sponsor” has the meaning given such term in section 3(16)(B) of the Employee Retirement Income Security Act of 1974.
+&emsp;The term "plan sponsor" has the meaning given such term in section 3(16)(B) of the Employee Retirement Income Security Act of 1974.
 
 #### (8) Taxable period
 
-&emsp;The term “taxable period” means the calendar year or such shorter period as the Secretary may prescribe. The Secretary may have different taxable periods for employers of varying sizes.
+&emsp;The term "taxable period" means the calendar year or such shorter period as the Secretary may prescribe. The Secretary may have different taxable periods for employers of varying sizes.
 
 #### (9) Aggregation rules
 
@@ -304,49 +304,49 @@ Section 3(16)(B) of the Employee Retirement Income Security Act of 1974, referre
 
 #### Amendments
 
-<b>2010</b>—Subsec. (b)(3)(B). Pub. L. 111–152, §1401(a)(1), designated existing provisions as cl. (i), inserted heading, substituted “Except as provided in clause (ii), the annual” for “The annual”, and added cl. (ii).
+<b>2010</b>—Subsec. (b)(3)(B). Pub. L. 111–152, §1401(a)(1), designated existing provisions as cl. (i), inserted heading, substituted "Except as provided in clause (ii), the annual" for "The annual", and added cl. (ii).
 
-Subsec. (b)(3)(C). Pub. L. 111–152, §1401(a)(2)(A), struck out introductory provisions which read: “Except as provided in subparagraph (D)—”.
+Subsec. (b)(3)(C). Pub. L. 111–152, §1401(a)(2)(A), struck out introductory provisions which read: "Except as provided in subparagraph (D)—".
 
-Subsec. (b)(3)(C)(i). Pub. L. 111–152, §1401(a)(2)(B)(i), substituted “2018” for “2013” in heading and introductory provisions.
+Subsec. (b)(3)(C)(i). Pub. L. 111–152, §1401(a)(2)(B)(i), substituted "2018" for "2013" in heading and introductory provisions.
 
-Subsec. (b)(3)(C)(i)(I). Pub. L. 111–152, §1401(a)(2)(B)(ii), substituted “$10,200 multiplied by the health cost adjustment percentage (determined by only taking into account self-only coverage)” for “$8,500”.
+Subsec. (b)(3)(C)(i)(I). Pub. L. 111–152, §1401(a)(2)(B)(ii), substituted "$10,200 multiplied by the health cost adjustment percentage (determined by only taking into account self-only coverage)" for "$8,500".
 
-Subsec. (b)(3)(C)(i)(II). Pub. L. 111–152, §1401(a)(2)(B)(iii), substituted “$27,500 multiplied by the health cost adjustment percentage (determined by only taking into account coverage other than self-only coverage)” for “$23,000”.
+Subsec. (b)(3)(C)(i)(II). Pub. L. 111–152, §1401(a)(2)(B)(iii), substituted "$27,500 multiplied by the health cost adjustment percentage (determined by only taking into account coverage other than self-only coverage)" for "$23,000".
 
 Subsec. (b)(3)(C)(ii), (iii). Pub. L. 111–152, §1401(a)(2)(C), added cls. (ii) and (iii). Former cls. (ii) and (iii) redesignated (iv) and (v), respectively.
 
-Subsec. (b)(3)(C)(iv). Pub. L. 111–152, §1401(a)(2)(D), inserted “covered by the plan” after “whose employees” in introductory provisions, added subcls. (I) and (II), and struck out former subcls. (I) and (II) which read as follows:
+Subsec. (b)(3)(C)(iv). Pub. L. 111–152, §1401(a)(2)(D), inserted "covered by the plan" after "whose employees" in introductory provisions, added subcls. (I) and (II), and struck out former subcls. (I) and (II) which read as follows:
 
-“(I) the dollar amount in clause (i)(I) (determined after the application of subparagraph (D)) shall be increased by $1,350, and
+"(I) the dollar amount in clause (i)(I) (determined after the application of subparagraph (D)) shall be increased by $1,350, and
 
-“(II) the dollar amount in clause (i)(II) (determined after the application of subparagraph (D)) shall be increased by $3,000.”
+"(II) the dollar amount in clause (i)(II) (determined after the application of subparagraph (D)) shall be increased by $3,000."
 
 Pub. L. 111–152, §1401(a)(2)(C), redesignated cl. (ii) as (iv).
 
-Subsec. (b)(3)(C)(v). Pub. L. 111–152, §1401(a)(2)(E)(i), (ii), substituted “2018” for “2013” and “clauses (i) (after the application of clause (ii)) and (iv)” for “clauses (i) and (ii)” in introductory provisions.
+Subsec. (b)(3)(C)(v). Pub. L. 111–152, §1401(a)(2)(E)(i), (ii), substituted "2018" for "2013" and "clauses (i) (after the application of clause (ii)) and (iv)" for "clauses (i) and (ii)" in introductory provisions.
 
 Pub. L. 111–152, §1401(a)(2)(C), redesignated cl. (iii) as (v).
 
-Subsec. (b)(3)(C)(v)(II). Pub. L. 111–152, §1401(a)(2)(E)(iii), inserted “in the case of determinations for calendar years beginning before 2020” after “1 percentage point”.
+Subsec. (b)(3)(C)(v)(II). Pub. L. 111–152, §1401(a)(2)(E)(iii), inserted "in the case of determinations for calendar years beginning before 2020" after "1 percentage point".
 
 Subsec. (b)(3)(D). Pub. L. 111–152, §1401(a)(3), struck out subpar. (D) which provided transition rule for States with highest coverage costs.
 
-Subsec. (d)(1)(B)(i). Pub. L. 111–148, §10901(b), substituted “section 9832(c)(1) (other than subparagraph (G) thereof)” for “section 9832(c)(1)(A)”.
+Subsec. (d)(1)(B)(i). Pub. L. 111–148, §10901(b), substituted "section 9832(c)(1) (other than subparagraph (G) thereof)" for "section 9832(c)(1)(A)".
 
 Subsec. (d)(1)(B)(ii), (iii). Pub. L. 111–152, §1401(a)(4), added cl. (ii) and redesignated former cl. (ii) as (iii).
 
 Subsec. (d)(3). Pub. L. 111–152, §1401(a)(5), added par. (3).
 
-Subsec. (f)(3). Pub. L. 111–148, §10901(a), inserted “individuals whose primary work is longshore work (as defined in section 258(b) of the Immigration and Nationality Act (8 U.S.C. 1288(b)), determined without regard to paragraph (2) thereof),” before “and individuals engaged in the construction, mining”.
+Subsec. (f)(3). Pub. L. 111–148, §10901(a), inserted "individuals whose primary work is longshore work (as defined in section 258(b) of the Immigration and Nationality Act (8 U.S.C. 1288(b)), determined without regard to paragraph (2) thereof)," before "and individuals engaged in the construction, mining".
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–148, title X, §10901(c), Mar. 23, 2010, 124 Stat. 1016, as amended by Pub. L. 111–152, title I, §1401(b)(2), Mar. 30, 2010, 124 Stat. 1060, provided that: “The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017.”
+Pub. L. 111–148, title X, §10901(c), Mar. 23, 2010, 124 Stat. 1016, as amended by Pub. L. 111–152, title I, §1401(b)(2), Mar. 30, 2010, 124 Stat. 1060, provided that: "The amendments made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2017."
 
 #### Effective Date
 
-Pub. L. 111–148, title IX, §9001(c), Mar. 23, 2010, 124 Stat. 853, as amended by Pub. L. 111–152, title I, §1401(b)(1), Mar. 30, 2010, 124 Stat. 1060, provided that: “The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 2017.”
+Pub. L. 111–148, title IX, §9001(c), Mar. 23, 2010, 124 Stat. 853, as amended by Pub. L. 111–152, title I, §1401(b)(1), Mar. 30, 2010, 124 Stat. 1060, provided that: "The amendments made by this section \[enacting this section\] shall apply to taxable years beginning after December 31, 2017."
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a period.</i>
 

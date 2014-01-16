@@ -8,7 +8,7 @@ Articles entered under section 1752 of this title shall not be subject to any ma
 
 Articles entered under section 1752 of this title shall not be subject to the packaging, marking, or labeling requirements of the internal-revenue laws or of the Federal Alcohol Administration Act \[27 U.S.C. 201 et seq.\], except that any such article failing to comply with such requirements—
 
-&emsp;(1) shall be conspicuously marked prior to exhibition “Not labeled or packaged as required by law—not for sale”, and
+&emsp;(1) shall be conspicuously marked prior to exhibition "Not labeled or packaged as required by law—not for sale", and
 
 &emsp;(2) when entered for consumption under section 1753 of this title, shall not be released from customs custody until such packaging, marking, and labeling requirements have been complied with.
 
@@ -24,5 +24,5 @@ Chapter 51 of the Internal Revenue Code of 1986, referred to in subsec. (b), is 
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+<b>1986</b>—Subsec. (b). Pub. L. 99–514 substituted "Internal Revenue Code of 1986" for "Internal Revenue Code of 1954".
 

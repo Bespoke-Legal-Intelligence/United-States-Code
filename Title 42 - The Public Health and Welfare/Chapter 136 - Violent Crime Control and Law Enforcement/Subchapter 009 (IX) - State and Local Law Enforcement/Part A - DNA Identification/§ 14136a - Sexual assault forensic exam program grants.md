@@ -6,7 +6,7 @@ The Attorney General shall make grants to eligible entities to provide training,
 
 #### (b) Eligible entity
 
-For purposes of this section, the term “eligible entity” includes—
+For purposes of this section, the term "eligible entity" includes—
 
 &emsp;(1) States;
 
@@ -38,5 +38,5 @@ Section was enacted as part of the DNA Sexual Assault Justice Act of 2004 and al
 
 #### Amendments
 
-<b>2008</b>—Subsec. (c). Pub. L. 110–360 substituted “2009 through 2014” for “2005 through 2009”.
+<b>2008</b>—Subsec. (c). Pub. L. 110–360 substituted "2009 through 2014" for "2005 through 2009".
 

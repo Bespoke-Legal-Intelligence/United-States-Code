@@ -8,5 +8,5 @@
 
 #### Amendments
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–189 substituted “, handlers, and importers” for “and handlers” and “, handlers, or importers” for “or handlers”.
+<b>1993</b>—Subsec. (a). Pub. L. 103–189 substituted ", handlers, and importers" for "and handlers" and ", handlers, or importers" for "or handlers".
 

@@ -76,29 +76,29 @@ For transfer of functions of the Secretary of Agriculture relating to agricultur
 
 Pub. L. 110–234, title XI, §11010(a), (b), May 22, 2008, 122 Stat. 1359, and Pub. L. 110–246, §4(a), title XI, §11010(a), (b), June 18, 2008, 122 Stat. 1664, 2121, provided that:
 
-“(a)
+"(a)
 
 Voluntary Trichinae Certification.—
 
-&emsp;“(1)
+&emsp;"(1)
 
 Establishment.—Not later than 90 days after the date of the enactment of this Act \[June 18, 2008\], the Secretary of Agriculture shall establish a voluntary trichinae certification program. Such program shall include the facilitation of the export of pork products and certification services related to such products.
 
-&emsp;“(2)
+&emsp;"(2)
 
 Regulations.—The Secretary shall issue final regulations to implement the program under paragraph (1) not later than 90 days after the date of the enactment of this Act.
 
-&emsp;“(3)
+&emsp;"(3)
 
 Report.—If final regulations are not published in accordance with paragraph (2) within 90 days of the date of the enactment of this Act, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing—
 
-&emsp;&emsp;“(A) an explanation of why the final regulations have not been issued in accordance with paragraph (2); and
+&emsp;&emsp;"(A) an explanation of why the final regulations have not been issued in accordance with paragraph (2); and
 
-&emsp;&emsp;“(B) the date on which the Secretary expects to issue such final regulations.
+&emsp;&emsp;"(B) the date on which the Secretary expects to issue such final regulations.
 
-“(b)
+"(b)
 
-Funding.—Subject to the availability of appropriations under subsection (d)(1)(A) of section 10405 of the Animal Health Protection Act (7 U.S.C. 8304), as added by subsection (c), the Secretary shall use not less than $6,200,000 of the funds made available under such subsection to carry out subsection (a).”
+Funding.—Subject to the availability of appropriations under subsection (d)(1)(A) of section 10405 of the Animal Health Protection Act (7 U.S.C. 8304), as added by subsection (c), the Secretary shall use not less than $6,200,000 of the funds made available under such subsection to carry out subsection (a)."
 
 \[Pub. L. 110–234 and Pub. L. 110–246 enacted identical provisions. Pub. L. 110–234 was repealed by section 4(a) of Pub. L. 110–246, set out as a note under section 8701 of this title.\]
 

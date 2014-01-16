@@ -10,7 +10,7 @@ Provisions similar to those in this section were contained in sections 3362(f), 
 
 #### Amendments
 
-<b>2006</b>—Pub. L. 109–163 inserted “the day before” after “not later than”.
+<b>2006</b>—Pub. L. 109–163 inserted "the day before" after "not later than".
 
 #### Effective Date of 2006 Amendment
 

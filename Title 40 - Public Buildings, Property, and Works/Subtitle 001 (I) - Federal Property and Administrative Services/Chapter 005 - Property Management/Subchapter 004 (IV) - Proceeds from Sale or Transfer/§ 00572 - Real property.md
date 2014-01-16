@@ -44,7 +44,7 @@ Transfer to miscellaneous receipts.—At least once each year, excess amounts be
 
 &emsp;(4)
 
-Report.—A report of receipts, disbursements, and transfers to miscellaneous receipts under this subsection shall be made annually, in connection with the budget estimate, to the Director and to Congress.
+Report.—A report of receipts, disbursements, and transfers to miscellaneous receiptsunder this subsection shall be made annually, in connection with the budget estimate, to the Director and to Congress.
 
 (b)
 
@@ -56,11 +56,11 @@ Definitions.—In this subsection, the following definitions apply:
 
 &emsp;&emsp;(A)
 
-Military installation.—The term “military installation” has the meaning given that term in section 2687(e)(1) <sup>1</sup> of title 10.
+Military installation.—The term "military installation" has the meaning given that term in section 2687(e)(1) <sup>1</sup> of title 10.
 
 &emsp;&emsp;(B)
 
-Base closure law.—The term “base closure law” has the meaning given that term in section 101(a)(17) of title 10.
+Base closure law.—The term "base closure law" has the meaning given that term in section 101(a)(17) of title 10.
 
 &emsp;(2)
 
@@ -134,7 +134,7 @@ June 30, 1949, ch. 288, title II, §204(b), as added Aug. 31, 1954, ch. 1178, §
 
 June 30, 1949, ch. 288, title II, §204(h), as added Pub. L. 101–510, div. B, title XXVIII, §2805(3), Nov. 5, 1990, 104 Stat. 1786; Pub. L. 104–106, div. A, title XV, §1502(f)(7), div. B, title XXVIII, §2818(b), Feb. 10, 1996, 110 Stat. 510, 555; Pub. L. 106–65, title X, §1067(18), Oct. 5, 1999, 113 Stat. 775; Pub. L. 107–107, §2812, Dec. 28, 2001, 115 Stat. 1307.
 
-In subsection (b)(4), the words “section 13(g) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(g))” are omitted because 50 App.:1622(g) has been repealed.
+In subsection (b)(4), the words "section 13(g) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(g))" are omitted because 50 App.:1622(g) has been repealed.
 
 #### References in Text
 
@@ -142,11 +142,11 @@ Section 2687(e)(1) of title 10, referred to in subsec. (b)(1)(A), was redesignat
 
 #### Amendments
 
-<b>2006</b>—Subsec. (b)(1)(B). Pub. L. 109–163 substituted “section 101(a)(17) of title 10” for “section 2667(h)(2) of title 10”.
+<b>2006</b>—Subsec. (b)(1)(B). Pub. L. 109–163 substituted "section 101(a)(17) of title 10" for "section 2667(h)(2) of title 10".
 
 <b>2005</b>—Subsec. (a)(2)(A)(ii). Pub. L. 109–13 made technical correction to directory language of Pub. L. 108–447, §408. See 2004 Amendment note below.
 
-<b>2004</b>—Subsec. (a)(2)(A)(ii). Pub. L. 108–447, §408, as amended by Pub. L. 109–13, inserted “, highest and best use of property studies, utilization of property studies, deed compliance inspection, and the expenses incurred in a relocation” before period at end.
+<b>2004</b>—Subsec. (a)(2)(A)(ii). Pub. L. 108–447, §408, as amended by Pub. L. 109–13, inserted ", highest and best use of property studies, utilization of property studies, deed compliance inspection, and the expenses incurred in a relocation" before period at end.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

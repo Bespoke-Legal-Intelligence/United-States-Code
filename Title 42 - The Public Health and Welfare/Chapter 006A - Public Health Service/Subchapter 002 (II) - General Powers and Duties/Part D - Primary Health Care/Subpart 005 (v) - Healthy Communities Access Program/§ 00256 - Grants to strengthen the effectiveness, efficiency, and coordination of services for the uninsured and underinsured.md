@@ -36,7 +36,7 @@ To be eligible to receive a grant under this section, an entity shall be an enti
 
 &emsp;&emsp;(C) describes the activities that the applicant and the consortium propose to perform under the grant to further the objectives of this section;
 
-&emsp;&emsp;(D) demonstrates the consortium's ability to build on the current system (as of the date of submission of the application) for serving a community or geographic area of uninsured and underinsured individuals by involving providers who have traditionallyprovided a significant volume of care for that community;
+&emsp;&emsp;(D) demonstrates the consortium's ability to build on the current system (as of the date of submission of the application) for serving a community or geographic area of uninsured and underinsured individuals by involving providers who have traditionally provided a significant volume of care for that community;
 
 &emsp;&emsp;(E) demonstrates the consortium's ability to develop coordinated systems of care that either directly provide or ensure the prompt provision of a broad range of high-quality, accessible services, including, as appropriate, primary, secondary, and tertiary services, as well as substance abuse treatment and mental health services in a manner that assures continuity of care in the community or geographic area;
 
@@ -80,7 +80,7 @@ To be eligible to receive a grant under this section, an entity shall be an enti
 
 #### (A) In general
 
-&emsp;&emsp;In paragraph (2), the term “extraordinary circumstances” means an event (or events) that is outside of the control of the eligible entity that has prevented the eligible entity from fulfilling the objectives described by such entity in the application submitted under subsection (b)(2) of this section.
+&emsp;&emsp;In paragraph (2), the term "extraordinary circumstances" means an event (or events) that is outside of the control of the eligible entity that has prevented the eligible entity from fulfilling the objectives described by such entity in the application submitted under subsection (b)(2) of this section.
 
 #### (B) Examples
 
@@ -192,7 +192,7 @@ The Secretary may, either directly or by grant or contract, provide any entity t
 
 #### (i) Evaluation of program
 
-Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report that describes the extent to which projects fundedunder this section have been successful in improving the effectiveness, efficiency, and coordination of services for uninsured and underinsured individuals in the communities or geographic areas served by such projects, including whether the projects resulted in the provision of better quality health care for such individuals, and whether such care was provided at lower costs, than would have been provided in the absence of such projects.
+Not later than September 30, 2005, the Secretary shall prepare and submit to the appropriate committees of Congress a report that describes the extent to which projects funded under this section have been successful in improving the effectiveness, efficiency, and coordination of services for uninsured and underinsured individuals in the communities or geographic areas served by such projects, including whether the projects resulted in the provision of better quality health care for such individuals, and whether such care was provided at lower costs, than would have been provided in the absence of such projects.
 
 #### (j) Demonstration authority
 
@@ -226,25 +226,25 @@ Another prior section 256, act July 1, 1944, ch. 373, title III, §340, formerly
 
 Pub. L. 111–148, title X, §10504, Mar. 23, 2010, 124 Stat. 1004, provided that:
 
-“(a)
+"(a)
 
-In General.—Not later than 6 months after the date of enactment of this Act \[Mar. 23, 2010\], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’), acting through the Health Resources and Services Administration, shall establish a 3 year demonstration project in up to 10 States to provide access to comprehensive health care services to the uninsured at reduced fees. The Secretary shall evaluate the feasibility of expanding the project to additional States.
+In General.—Not later than 6 months after the date of enactment of this Act \[Mar. 23, 2010\], the Secretary of Health and Human Services (referred to in this section as the 'Secretary'), acting through the Health Resources and Services Administration, shall establish a 3 year demonstration project in up to 10 States to provide access to comprehensive health care services to the uninsured at reduced fees. The Secretary shall evaluate the feasibility of expanding the project to additional States.
 
-“(b)
+"(b)
 
 Eligibility.—To be eligible to participate in the demonstration project, an entity shall be a State-based, nonprofit, public-private partnership that provides access to comprehensive health care services to the uninsured at reduced fees. Each State in which a participant selected by the Secretary is located shall receive not more than $2,000,000 to establish and carry out the project for the 3-year demonstration period.
 
-“(c)
+"(c)
 
-Authorization.—There is authorized to be appropriated such sums as may be necessary to carry out this section.”
+Authorization.—There is authorized to be appropriated such sums as may be necessary to carry out this section."
 
 #### Purpose
 
-Pub. L. 107–251, title IV, §401, Oct. 26, 2002, 116 Stat. 1655, provided that: “The purpose of this title \[enacting this subpart and subpart X (§256f et seq.) of this part and provisions set out as a note under section 1396a of this title\] is to provide assistance to communities and consortia of health care providers and others, to develop or strengthen integrated community health care delivery systems that coordinate health care services for individuals who are uninsured or underinsured and to develop or strengthen activities related to providing coordinated care for individuals with chronic conditions who are uninsured or underinsured, through the—
+Pub. L. 107–251, title IV, §401, Oct. 26, 2002, 116 Stat. 1655, provided that: "The purpose of this title \[enacting this subpart and subpart X (§256f et seq.) of this part and provisions set out as a note under section 1396a of this title\] is to provide assistance to communities and consortia of health care providers and others, to develop or strengthen integrated community health care delivery systems that coordinate health care services for individuals who are uninsured or underinsured and to develop or strengthen activities related to providing coordinated care for individuals with chronic conditions who are uninsured or underinsured, through the—
 
-&emsp;“(1) coordination of services to allow individuals to receive efficient and higher quality care and to gain entry into and receive services from a comprehensive system of care;
+&emsp;"(1) coordination of services to allow individuals to receive efficient and higher quality care and to gain entry into and receive services from a comprehensive system of care;
 
-&emsp;“(2) development of the infrastructure for a health care delivery system characterized by effective collaboration, information sharing, and clinical and financial coordination among all providers of care in the community; and
+&emsp;"(2) development of the infrastructure for a health care delivery system characterized by effective collaboration, information sharing, and clinical and financial coordination among all providers of care in the community; and
 
-&emsp;“(3) provision of new Federal resources that do not supplant funding for existing Federal categorical programs that support entities providing services to low-income populations.”
+&emsp;"(3) provision of new Federal resources that do not supplant funding for existing Federal categorical programs that support entities providing services to low-income populations."
 

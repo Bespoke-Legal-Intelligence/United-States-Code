@@ -28,7 +28,7 @@ The President may lease defense articles in the stocks of the Department of Defe
 
 (1) Each lease agreement under this section shall be for a fixed duration which may not exceed (A) five years, and (B) a specified period of time required to complete major refurbishment work of the leased articles to be performed prior to the delivery of the leased articles, and shall provide that, at any time during the duration of the lease, the President may terminate the lease and require the immediate return of the leased articles.
 
-(2) In this subsection, the term “major refurbishment work” means work for which the period of performance is 6 months or more.
+(2) In this subsection, the term "major refurbishment work" means work for which the period of performance is 6 months or more.
 
 #### (c) Applicable statutory authorities
 
@@ -38,7 +38,7 @@ Defense articles in the stocks of the Department of Defense may be leased or loa
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1), was in the original “this Act”, meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+This chapter, referred to in subsec. (a)(1), was in the original "this Act", meaning Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1321, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 The Foreign Assistance Act of 1961, referred to in subsec. (c), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 2 of part II of that Act is classified generally to part II (§2311 et seq.) of subchapter II of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
@@ -50,53 +50,53 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>2002</b>—Subsec. (b). Pub. L. 107–228 designated existing provisions as par. (1), substituted “which may not exceed (A) five years, and (B) a specified period of time required to complete major refurbishment work of the leased articles to be performed prior to the delivery of the leased articles,” for “of not to exceed five years”, and added par. (2).
+<b>2002</b>—Subsec. (b). Pub. L. 107–228 designated existing provisions as par. (1), substituted "which may not exceed (A) five years, and (B) a specified period of time required to complete major refurbishment work of the leased articles to be performed prior to the delivery of the leased articles," for "of not to exceed five years", and added par. (2).
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277 substituted “the current fiscal year” for “1998” in par. (B).
+<b>1998</b>—Subsec. (a). Pub. L. 105–277 substituted "the current fiscal year" for "1998" in par. (B).
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–118 substituted “1998” for “1997” in par. (B).
+<b>1997</b>—Subsec. (a). Pub. L. 105–118 substituted "1998" for "1997" in par. (B).
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–164, §153(a), struck out “, or to any defense article which has passed three-quarters of its normal service life.” after “electronics interface projects” in second sentence and inserted after second sentence “The President may waive the requirement of paragraph (4) for reimbursement of depreciation for any defense article which has passed three-quarters of its normal service life if the President determines that to do so is important to the national security interest of the United States.”
+<b>1996</b>—Subsec. (a). Pub. L. 104–164, §153(a), struck out ", or to any defense article which has passed three-quarters of its normal service life." after "electronics interface projects" in second sentence and inserted after second sentence "The President may waive the requirement of paragraph (4) for reimbursement of depreciation for any defense article which has passed three-quarters of its normal service life if the President determines that to do so is important to the national security interest of the United States."
 
-Pub. L. 104–208 substituted “1997” for “1996” in par. (B).
+Pub. L. 104–208 substituted "1997" for "1996" in par. (B).
 
-Pub. L. 104–107 substituted “1996” for “1995” in par. (B).
+Pub. L. 104–107 substituted "1996" for "1995" in par. (B).
 
-Subsec. (a)(4). Pub. L. 104–164, §146, substituted “and, if the articles are lost or destroyed while leased—
+Subsec. (a)(4). Pub. L. 104–164, §146, substituted "and, if the articles are lost or destroyed while leased—
 
-&emsp;“(A) in the event the United States intends to replace the articles lost or destroyed, the replacement cost (less any depreciation in the value) of the articles; or
+&emsp;"(A) in the event the United States intends to replace the articles lost or destroyed, the replacement cost (less any depreciation in the value) of the articles; or
 
-&emsp;“(B) in the event the United States does not intend to replace the articles lost or destroyed, an amount not less than the actual value (less any depreciation in the value) specified in the lease agreement” for “and the replacement cost (less any depreciation in the value) of the articles if the articles are lost or destroyed while leased”.
+&emsp;"(B) in the event the United States does not intend to replace the articles lost or destroyed, an amount not less than the actual value (less any depreciation in the value) specified in the lease agreement" for "and the replacement cost (less any depreciation in the value) of the articles if the articles are lost or destroyed while leased".
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–306 substituted “1995” for “1994” in par. (B).
+<b>1994</b>—Subsec. (a). Pub. L. 103–306 substituted "1995" for "1994" in par. (B).
 
-Pub. L. 103–236 struck out “and” at end of par. (2), added par. (3), redesignated former par. (3) as (4), and substituted “paragraph (4)” for “paragraph (3)” in two places in provisions following par. (4).
+Pub. L. 103–236 struck out "and" at end of par. (2), added par. (3), redesignated former par. (3) as (4), and substituted "paragraph (4)" for "paragraph (3)" in two places in provisions following par. (4).
 
-<b>1993</b>—Subsec. (a). Pub. L. 103–87 substituted “1994” for “1993” in par. (B).
+<b>1993</b>—Subsec. (a). Pub. L. 103–87 substituted "1994" for "1993" in par. (B).
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–391 substituted “1993” for “1992” in par. (B).
+<b>1992</b>—Subsec. (a). Pub. L. 102–391 substituted "1993" for "1992" in par. (B).
 
 Pub. L. 102–266 added Pub. L. 102–145, §118. See 1991 Amendment note below.
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–145, §118, as added by Pub. L. 102–266, substituted “1992” for “1991” in par. (B). See Codification note above.
+<b>1991</b>—Subsec. (a). Pub. L. 102–145, §118, as added by Pub. L. 102–266, substituted "1992" for "1991" in par. (B). See Codification note above.
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–513 substituted “1991” for “1990” in par. (B).
+<b>1990</b>—Subsec. (a). Pub. L. 101–513 substituted "1991" for "1990" in par. (B).
 
-<b>1989</b>—Subsec. (a). Pub. L. 101–167 substituted “1990” for “1989” in par. (B).
+<b>1989</b>—Subsec. (a). Pub. L. 101–167 substituted "1990" for "1989" in par. (B).
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–461 substituted “1989” for “1988” in par. (B).
+<b>1988</b>—Subsec. (a). Pub. L. 100–461 substituted "1989" for "1988" in par. (B).
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–202 substituted “1988” for “1987” in par. (B).
+<b>1987</b>—Subsec. (a). Pub. L. 100–202 substituted "1988" for "1987" in par. (B).
 
 <b>1986</b>—Subsec. (a). Pub. L. 99–500 and Pub. L. 99–591 inserted provision authorizing the President to waive the requirements of par. (3) with respect to a lease which is made in exchange with the lessee for a lease on substantially reciprocal terms of defense articles for the Department of Defense and providing exceptions to such waiver authority.
 
 #### Effective Date of 1996 Amendment
 
-Pub. L. 104–164, title I, §153(b), July 21, 1996, 110 Stat. 1440, provided that: “The third sentence of section 61(a) of the Arms Export Control Act, as added by subsection (a)(2) \[22 U.S.C. 2796(a)\], shall apply only with respect to a defense article leased on or after the date of the enactment of this Act \[July 21, 1996\].”
+Pub. L. 104–164, title I, §153(b), July 21, 1996, 110 Stat. 1440, provided that: "The third sentence of section 61(a) of the Arms Export Control Act, as added by subsection (a)(2) \[22 U.S.C. 2796(a)\], shall apply only with respect to a defense article leased on or after the date of the enactment of this Act \[July 21, 1996\]."
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of Defense by section 1(r) of Ex. Ord. No. 11958, Jan. 18, 1977, 42 F.R. 4311, as amended, set out as a note under section 2751 of this title.
+For delegation of functions of the President under this section, see section 1(t) of Ex. Ord. No. 13637, Mar. 8, 2013, 78 F.R. 16131, set out as a note under section 2751 of this title. Functions were previously delegated by Ex. Ord. No. 11958, which was formerly set out as a note under section 2751 of this title and was revoked, subject to a savings provision, by section 4 of Ex. Ord. No. 13637.
 
-<i><sup>1</sup></i><i> So in original. The words “the fiscal year” probably should not appear.</i>
+<i><sup>1</sup></i><i> So in original. The words "the fiscal year" probably should not appear.</i>
 

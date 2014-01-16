@@ -6,7 +6,7 @@ Grants shall be made under this subchapter only in response to applications by t
 
 #### (b) Determination of support; factors considered
 
-The Secretary shall consult with the Secretary of Education to determine the reasonable number of students required to support a tribally controlled college or university. Consideration shall be given to such factors as tribal and cultural differences, isolation, the presence of alternate education sources, and proposed curriculum.
+The Secretary shall consult with the Secretary of Education to determine the reasonablenumber of students required to support a tribally controlled college or university. Consideration shall be given to such factors as tribal and cultural differences, isolation, the presence of alternate education sources, and proposed curriculum.
 
 #### (c) Priority and number of grants
 
@@ -20,19 +20,19 @@ In making grants pursuant to this section, the Secretary shall, to the extent pr
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–244, §901(b)(4), substituted “colleges or universities” for “community colleges” in section catchline.
+<b>1998</b>—Pub. L. 105–244, §901(b)(4), substituted "colleges or universities" for "community colleges" in section catchline.
 
-Subsec. (a). Pub. L. 105–244, §901(b)(5), (6), substituted “colleges or universities” for “community colleges” and “college or university” for “community college”.
+Subsec. (a). Pub. L. 105–244, §901(b)(5), (6), substituted "colleges or universities" for "community colleges" and "college or university" for "community college".
 
-Subsec. (b). Pub. L. 105–244, §901(b)(5), substituted “college or university” for “community college”.
+Subsec. (b). Pub. L. 105–244, §901(b)(5), substituted "college or university" for "community college".
 
-<b>1983</b>—Subsec. (a). Pub. L. 98–192, §6(b)(1), substituted “eligibility” for “feasibility”.
+<b>1983</b>—Subsec. (a). Pub. L. 98–192, §6(b)(1), substituted "eligibility" for "feasibility".
 
 Pub. L. 98–192, §4(b)(2), made a technical amendment to reference to section 1806 of this title to reflect renumbering of that section.
 
 Pub. L. 98–192, §3(b), inserted provision that such application include a description of the recordkeeping procedures for expenditure of funds as will allow Secretary to audit and monitor programs conducted with such funds.
 
-Subsec. (b). Pub. L. 98–192, §6(b)(2), substituted “Secretary of Education” for “Assistant Secretary of Education of the Department of Health, Education, and Welfare”.
+Subsec. (b). Pub. L. 98–192, §6(b)(2), substituted "Secretary of Education" for "Assistant Secretary of Education of the Department of Health, Education, and Welfare".
 
 <b>1982</b>—Subsec. (e). Pub. L. 97–375 struck out subsec. (e) which directed the Secretary to report to Congress on Jan. 15 of each year the current status of tribally controlled community colleges and his recommendations for needed action.
 
@@ -40,5 +40,5 @@ Subsec. (b). Pub. L. 98–192, §6(b)(2), substituted “Secretary of Education�
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of Title 20, Education.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be "an".</i>
 

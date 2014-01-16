@@ -16,17 +16,17 @@ Relationship to Other Defense Budget Formats.—The requirement in subsection (a
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in Pub. L. 101–510, div. A, title XIV, §1404, Nov.5, 1990, 104 Stat. 1675, which was set out as a note under section 114a \[now 221\] of this title, prior to repeal by Pub. L. 102–484, §1002(b).
+Provisions similar to those in this section were contained in Pub. L. 101–510, div. A, title XIV, §1404, Nov. 5, 1990, 104 Stat. 1675, which was set out as a note under section 114a \[now 221\] of this title, prior to repeal by Pub. L. 102–484, §1002(b).
 
 #### Amendments
 
-<b>2008</b>—Subsec. (a). Pub. L. 110–181, §944(a), amended last sentence generally. Prior to amendment, last sentence read as follows: “That budget shall be submitted for any fiscal year not later than 60 days after the date on which the President's budget for that fiscal year is submitted to Congress pursuant to section 1105 of title 31.”
+<b>2008</b>—Subsec. (a). Pub. L. 110–181, §944(a), amended last sentence generally. Prior to amendment, last sentence read as follows: "That budget shall be submitted for any fiscal year not later than 60 days after the date on which the President's budget for that fiscal year is submitted to Congress pursuant to section 1105 of title 31."
 
-Subsec. (b). Pub. L. 110–181, §944(b), substituted “on the basis of both major force programs and the core mission areas identified under the most recent quadrennial roles and missions review pursuant to section 118b of this title.” for “on the basis of major roles, missions, or forces of the Department of Defense.”
+Subsec. (b). Pub. L. 110–181, §944(b), substituted "on the basis of both major force programs and the core mission areas identified under the most recent quadrennial roles and missions review pursuant to section 118b of this title." for "on the basis of major roles, missions, or forces of the Department of Defense."
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–337 substituted “not later than 60 days after the date on which” for “at the same time that”.
+<b>1994</b>—Subsec. (a). Pub. L. 103–337 substituted "not later than 60 days after the date on which" for "at the same time that".
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–181, div. A, title IX, §944(c), Jan. 28, 2008, 122 Stat. 290, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to the future-years mission budget for fiscal year 2010 and each fiscal year thereafter.”
+Pub. L. 110–181, div. A, title IX, §944(c), Jan. 28, 2008, 122 Stat. 290, provided that: "The amendments made by this section \[amending this section\] shall apply with respect to the future-years mission budget for fiscal year 2010 and each fiscal year thereafter."
 

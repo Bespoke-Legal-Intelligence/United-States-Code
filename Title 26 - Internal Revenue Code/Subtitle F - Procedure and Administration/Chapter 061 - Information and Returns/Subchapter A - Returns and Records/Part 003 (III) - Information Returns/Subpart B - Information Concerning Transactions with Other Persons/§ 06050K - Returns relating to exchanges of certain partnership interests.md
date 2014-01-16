@@ -34,11 +34,11 @@ Every partnership required to make a return under subsection (a) shall furnish t
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b)(1). Pub. L. 104–168 substituted “name, address, and phone number of the information contact” for “name and address”.
+<b>1996</b>—Subsec. (b)(1). Pub. L. 104–168 substituted "name, address, and phone number of the information contact" for "name and address".
 
 <b>1986</b>—Subsec. (b). Pub. L. 99–514, §1501(c)(13), in amending subsec. (b) generally, substituted references to partnerships required to make a return for former references to partnerships making a return and references to persons whose name is required to be set forth for former references to persons whose name is set forth.
 
-Subsec. (c)(2). Pub. L. 99–514, §1811(b)(2), substituted “this section” for “this subsection”.
+Subsec. (c)(2). Pub. L. 99–514, §1811(b)(2), substituted "this section" for "this subsection".
 
 #### Effective Date of 1996 Amendment
 
@@ -50,11 +50,11 @@ Amendment by section 1501(c)(13) of Pub. L. 99–514 applicable to returns the d
 
 Amendment by section 1811(b)(2) of Pub. L. 99–514 applicable to partnership taxable years beginning after Oct. 22, 1986, see section 1811(b)(1)(B) of Pub. L. 99–514, set out as a note under section 6031 of this title.
 
-Amendment by section 1811(b)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, see section 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
+Amendment by section 1811(b)(2) of Pub. L. 99–514 effective, except as otherwise provided, as if included in the provisions of the Tax Reform Act of 1984, Pub. L. 98–369, div. A, to which such amendment relates, seesection 1881 of Pub. L. 99–514, set out as a note under section 48 of this title.
 
 #### Effective Date
 
-Pub. L. 98–369, div. A, title I, §149(d), July 18, 1984, 98 Stat. 690, provided that: “The amendments made by this section \[enacting this section and amending sections 6652 and 6678 of this title\] shall apply with respect to exchanges after December 31, 1984.”
+Pub. L. 98–369, div. A, title I, §149(d), July 18, 1984, 98 Stat. 690, provided that: "The amendments made by this section \[enacting this section and amending sections 6652 and 6678 of this title\] shall apply with respect to exchanges after December 31, 1984."
 
 #### Plan Amendments Not Required Until January 1, 1989
 

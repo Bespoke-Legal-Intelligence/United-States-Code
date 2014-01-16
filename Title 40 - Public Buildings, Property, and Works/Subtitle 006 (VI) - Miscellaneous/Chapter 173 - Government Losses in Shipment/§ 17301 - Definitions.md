@@ -4,11 +4,11 @@ In this chapter, the following definitions apply:
 
 &emsp;(1)
 
-Replacement.—The term “replacement” means payment, reimbursement, replacement, or duplication or the expenses incident to payment, reimbursement, replacement, or duplication.
+Replacement.—The term "replacement" means payment, reimbursement, replacement, or duplication or the expenses incident to payment, reimbursement, replacement, or duplication.
 
 &emsp;(2)
 
-Shipment.—The term “shipment”—
+Shipment.—The term "shipment"—
 
 &emsp;&emsp;(A) means the transportation, or the effecting of transportation, of valuables, without limitation as to the means or facilities used or by which the transportation is effected or the person to whom it is made; and
 
@@ -20,7 +20,7 @@ Valuables.—
 
 &emsp;&emsp;(A)
 
-Definition.—The term “valuables” means any articles or things or representatives of value—
+Definition.—The term "valuables" means any articles or things or representatives of value—
 
 &emsp;&emsp;&emsp;(i) in which the Government, its executive departments, independent establishments, and agencies, including wholly owned Government corporations, and officers and employees of the Government or its executive departments, independent establishments, and agencies while acting in their official capacity, have any interest, or in connection with which they have any obligation or responsibility; and
 
@@ -32,7 +32,7 @@ Requirement for declaring articles or things valuable.—The Secretary shall not
 
 &emsp;(4)
 
-Wholly owned government corporation.—The term “wholly owned Government corporation”—
+Wholly owned government corporation.—The term "wholly owned Government corporation"—
 
 &emsp;&emsp;(A) means any corporation, regardless of the law under which it is incorporated, the capital of which is entirely owned by the Government; and
 
@@ -68,11 +68,11 @@ July 8, 1937, ch. 444, §7, 50 Stat. 480; Aug. 10, 1939, ch. 665, §3, 53 Stat. 
 
 40:729(c).
 
-In this chapter, the words “wholly owned Government corporation” are substituted for “wholly owned corporation” for consistency in the revised title and with other titles of the United States Code.
+In this chapter, the words "wholly owned Government corporation" are substituted for "wholly owned corporation" for consistency in the revised title and with other titles of the United States Code.
 
-In clause (3)(A)(i), the words “direct or indirect” are omitted as unnecessary.
+In clause (3)(A)(i), the words "direct or indirect" are omitted as unnecessary.
 
-In clause (4)(A), the words “or laws” are omitted because of 1:1. The words “directly or indirectly” are omitted as unnecessary.
+In clause (4)(A), the words "or laws" are omitted because of 1:1. The words "directly or indirectly" are omitted as unnecessary.
 
-In clause (4)(B), the word “duly” is omitted as unnecessary.
+In clause (4)(B), the word "duly" is omitted as unnecessary.
 

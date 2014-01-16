@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—If a State maritime academy has an agreement with the Secretary of Transportation under section 51505 of this title, the Secretary may make an agreement with a student at the academy who is a citizen of the United States to make student incentive payments to the individual. An agreement with a student may not be effective for more than 4 academic years. The Secretary shall allocatepayments under this section among the various State maritime academies in an equitable manner.
+General Authority.—If a State maritime academy has an agreement with the Secretary of Transportation under section 51505 of this title, the Secretary may make an agreement with a student at the academy who is a citizen of the United States to make student incentive payments to the individual. An agreement with a student may not be effective for more than 4 academic years. The Secretary shall allocate payments under this section among the various State maritime academies in an equitable manner.
 
 (b)
 
@@ -68,7 +68,7 @@ Actions To Recover Cost.—To aid in the recovery of the cost of education provi
 
 &emsp;(2) make use of the Federal debt collection procedures in chapter 176 of title 28 or other applicable administrative remedies.
 
-(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1579; Pub. L. 109–163, div. A, title V, §515(g)(2)(A), Jan.6, 2006, 119 Stat. 3236; Pub. L. 109–364, div. C, title XXXV, §3508, Oct. 17, 2006, 120 Stat. 2517; Pub. L. 110–181, div. C, title XXXV, §§3523(a)(1), (b), 3526(d), (g), Jan. 28, 2008, 122 Stat. 598, 600, 602; Pub. L. 110–417, div. C, title XXXV, §3503, Oct. 14, 2008, 122 Stat. 4762; Pub. L. 111–8, div. I, title I, §177, Mar. 11, 2009, 123 Stat. 944; Pub. L. 111–84, div. C, title XXXV, §3507, Oct. 28, 2009, 123 Stat. 2721.)
+(Pub. L. 109–304, §8(b), Oct. 6, 2006, 120 Stat. 1579; Pub. L. 109–163, div. A, title V, §515(g)(2)(A), Jan. 6, 2006, 119 Stat. 3236; Pub. L. 109–364, div. C, title XXXV, §3508, Oct. 17, 2006, 120 Stat. 2517; Pub. L. 110–181, div. C, title XXXV, §§3523(a)(1), (b), 3526(d), (g), Jan. 28, 2008, 122 Stat. 598, 600, 602; Pub. L. 110–417, div. C, title XXXV, §3503, Oct. 14, 2008, 122 Stat. 4762; Pub. L. 111–8, div. I, title I, §177, Mar. 11, 2009, 123 Stat. 944; Pub. L. 111–84, div. C, title XXXV, §3507, Oct. 28, 2009, 123 Stat. 2721.)
 
 Historical and Revision Notes
 
@@ -112,11 +112,11 @@ June 29, 1936, ch. 858, title XIII, §1304(g)(1)–(5), (8), as added Pub. L. 96
 
 In subsection (a), the text of 46 App. U.S.C. 1295c(g)(8) is omitted as obsolete.
 
-In subsection (g), the words “bring a civil action” are substituted for “begin court proceedings” for consistency in the revised title and with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
+In subsection (g), the words "bring a civil action" are substituted for "begin court proceedings" for consistency in the revised title and with rule 2 of the Federal Rules of Civil Procedure (28 App. U.S.C.).
 
 #### Amendments
 
-<b>2009</b>—Pub. L. 111–84, §3507(a), substituted “and be paid in such installments as the Secretary shall determine” for “and be paid before the start of each academic year, as prescribed by the Secretary,” and “academy, as prescribed by the Secretary.” for “academy.”.
+<b>2009</b>—Pub. L. 111–84, §3507(a), substituted "and be paid in such installments as the Secretary shall determine" for "and be paid before the start of each academic year, as prescribed by the Secretary," and "academy, as prescribed by the Secretary." for "academy.".
 
 Pub. L. 111–8, §177, which directed amendment identical to that made by Pub. L. 110–417, §3503(1), (2), was repealed by Pub. L. 111–84, §3507(b), with Pub. L. 111–8, §177, to have no force or effect. See 2008 Amendment note below.
 
@@ -124,15 +124,15 @@ Pub. L. 111–8, §177, which directed amendment identical to that made by Pub. 
 
 Pub. L. 110–181, §3523(b), repealed Pub. L. 109–163, §515(g)(2)(A). See 2006 Amendment note below.
 
-Subsec. (b). Pub. L. 110–417, §3503(3), inserted “before the start of each academic year” after “and be paid”.
+Subsec. (b). Pub. L. 110–417, §3503(3), inserted "before the start of each academic year" after "and be paid".
 
-Pub. L. 110–417, §3503(1), (2), substituted “$8,000” for “$4,000” and inserted “tuition,” after “uniforms,”.
+Pub. L. 110–417, §3503(1), (2), substituted "$8,000" for "$4,000" and inserted "tuition," after "uniforms,".
 
-Subsec. (c). Pub. L. 110–181, §3526(d), incorporated the substance of the amendments by Pub. L. 109–364, §3508, into this section by striking out “Midshipman and” before “Enlisted” in heading and “midshipman and” before “enlisted” in text and inserting “or the Coast Guard Reserve” after “Reserve)”. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (c). Pub. L. 110–181, §3526(d), incorporated the substance of the amendments by Pub. L. 109–364, §3508, into this section by striking out "Midshipman and" before "Enlisted" in heading and "midshipman and" before "enlisted" in text and inserting "or the Coast Guard Reserve" after "Reserve)". See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-Pub. L. 110–181, §3523(a)(1), incorporated the substance of the amendments by Pub. L. 109–163, §515(g)(2)(A), into this section by substituting “Navy Reserve” for “Naval Reserve” in two places. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Pub. L. 110–181, §3523(a)(1), incorporated the substance of the amendments by Pub. L. 109–163, §515(g)(2)(A), into this section by substituting "Navy Reserve" for "Naval Reserve" in two places. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
-Subsec. (d)(4). Pub. L. 110–181, §3523(a)(1), incorporated the substance of the amendments by Pub. L. 109–163, §515(g)(2)(A), into this section by substituting “Navy Reserve” for “Naval Reserve” in two places. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
+Subsec. (d)(4). Pub. L. 110–181, §3523(a)(1), incorporated the substance of the amendments by Pub. L. 109–163, §515(g)(2)(A), into this section by substituting "Navy Reserve" for "Naval Reserve" in two places. See 2006 Amendment note below and section 18(a) of Pub. L. 109–304, set out as a Legislative Purpose and Construction note preceding section 101 of this title.
 
 <b>2006</b>—Pub. L. 109–364, §3508, which directed the amendment of section 1295c(g)(2) of the former Appendix to this title from which subsec. (c) of this section was derived, was repealed by Pub. L. 110–181, §3526(g). See 2008 Amendment note for subsec. (c) and Historical and Revision notes above.
 

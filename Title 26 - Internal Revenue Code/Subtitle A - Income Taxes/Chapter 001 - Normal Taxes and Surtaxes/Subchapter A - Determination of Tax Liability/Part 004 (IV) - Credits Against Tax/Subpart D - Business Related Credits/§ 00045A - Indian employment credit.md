@@ -20,17 +20,17 @@ For purposes of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified wages” means any wages paid or incurred by an employer for services performed by an employee while such employee is a qualified employee.
+&emsp;&emsp;The term "qualified wages" means any wages paid or incurred by an employer for services performed by an employee while such employee is a qualified employee.
 
 #### (B) Coordination with work opportunity credit
 
-&emsp;&emsp;The term “qualified wages” shall not include wages attributable to service rendered during the 1-year period beginning with the day the individual begins work for the employer if any portion of such wages is taken into account in determining the credit under section 51.
+&emsp;&emsp;The term "qualified wages" shall not include wages attributable to service rendered during the 1-year period beginning with the day the individual begins work for the employer if any portion of such wages is taken into account in determining the credit under section 51.
 
 #### (2) Qualified employee health insurance costs
 
 #### (A) In general
 
-&emsp;&emsp;The term “qualified employee health insurance costs” means any amount paid or incurred by an employer for health insurance to the extent such amount is attributable to coverage provided to any employee while such employee is a qualified employee.
+&emsp;&emsp;The term "qualified employee health insurance costs" means any amount paid or incurred by an employer for health insurance to the extent such amount is attributable to coverage provided to any employee while such employee is a qualified employee.
 
 #### (B) Exception for amounts paid under salary reduction arrangements
 
@@ -46,7 +46,7 @@ For purposes of this section—
 
 #### (1) In general
 
-&emsp;Except as otherwise provided in this subsection, the term “qualified employee” means, with respect to any period, any employee of an employer if—
+&emsp;Except as otherwise provided in this subsection, the term "qualified employee" means, with respect to any period, any employee of an employer if—
 
 &emsp;&emsp;(A) the employee is an enrolled member of an Indian tribe or the spouse of an enrolled member of an Indian tribe,
 
@@ -68,7 +68,7 @@ For purposes of this section—
 
 #### (5) Certain employees not eligible
 
-&emsp;The term “qualified employee” shall not include—
+&emsp;The term "qualified employee" shall not include—
 
 &emsp;&emsp;(A) any individual described in subparagraph (A), (B), or (C) of section 51(i)(1),
 
@@ -78,11 +78,11 @@ For purposes of this section—
 
 #### (6) Indian tribe defined
 
-&emsp;The term “Indian tribe” means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village, or regional or village corporation, as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;The term "Indian tribe" means any Indian tribe, band, nation, pueblo, or other organized group or community, including any Alaska Native village, or regional or village corporation, as defined in, or established pursuant to, the Alaska Native Claims Settlement Act (43 U.S.C. 1601 et seq.) which is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians.
 
 #### (7) Indian reservation defined
 
-&emsp;The term “Indian reservation” has the meaning given such term by section 168(j)(6).
+&emsp;The term "Indian reservation" has the meaning given such term by section 168(j)(6).
 
 #### (d) Early termination of employment by employer
 
@@ -132,7 +132,7 @@ For purposes of this section—
 
 #### (1) Wages
 
-&emsp;The term “wages” has the same meaning given to such term in section 51.
+&emsp;The term "wages" has the same meaning given to such term in section 51.
 
 #### (2) Controlled groups
 
@@ -170,43 +170,43 @@ The date of the enactment of this paragraph, referred to in subsec. (e)(4), is t
 
 #### Amendments
 
-<b>2013</b>—Subsec. (f). Pub. L. 112–240 substituted “December 31, 2013” for “December 31, 2011”.
+<b>2013</b>—Subsec. (f). Pub. L. 112–240 substituted "December 31, 2013" for "December 31, 2011".
 
-<b>2010</b>—Subsec. (f). Pub. L. 111–312 substituted “December 31, 2011” for “December 31, 2009”.
+<b>2010</b>—Subsec. (f). Pub. L. 111–312 substituted "December 31, 2011" for "December 31, 2009".
 
-<b>2008</b>—Subsec. (f). Pub. L. 110–343 substituted “December 31, 2009” for “December 31, 2007”.
+<b>2008</b>—Subsec. (f). Pub. L. 110–343 substituted "December 31, 2009" for "December 31, 2007".
 
-<b>2006</b>—Subsec. (f). Pub. L. 109–432 substituted “2007” for “2005”.
+<b>2006</b>—Subsec. (f). Pub. L. 109–432 substituted "2007" for "2005".
 
-<b>2004</b>—Subsec. (c)(3). Pub. L. 108–311, §404(b)(1), inserted “, except that the base period taken into account for purposes of such adjustment shall be the calendar quarter beginning October 1, 1993” before period at end.
+<b>2004</b>—Subsec. (c)(3). Pub. L. 108–311, §404(b)(1), inserted ", except that the base period taken into account for purposes of such adjustment shall be the calendar quarter beginning October 1, 1993" before period at end.
 
-Subsec. (f). Pub. L. 108–311, §315, substituted “December 31, 2005” for “December 31, 2004”.
+Subsec. (f). Pub. L. 108–311, §315, substituted "December 31, 2005" for "December 31, 2004".
 
-<b>2002</b>—Subsec. (f). Pub. L. 107–147 substituted “December 31, 2004” for “December 31, 2003”.
+<b>2002</b>—Subsec. (f). Pub. L. 107–147 substituted "December 31, 2004" for "December 31, 2003".
 
-<b>1998</b>—Subsec. (b)(1)(B). Pub. L. 105–206 substituted “work opportunity credit” for “targeted jobs credit” in heading.
+<b>1998</b>—Subsec. (b)(1)(B). Pub. L. 105–206 substituted "work opportunity credit" for "targeted jobs credit" in heading.
 
-<b>1996</b>—Subsec. (b)(1)(B). Pub. L. 104–188, which directed that subsec. (b)(1)(B) of this section be amended in the text by substituting “work opportunity credit” for “targeted jobs credit”, could not be executed because the words “targeted jobs credit” did not appear in the text.
+<b>1996</b>—Subsec. (b)(1)(B). Pub. L. 104–188, which directed that subsec. (b)(1)(B) of this section be amended in the text by substituting "work opportunity credit" for "targeted jobs credit", could not be executed because the words "targeted jobs credit" did not appear in the text.
 
 #### Effective Date of 2013 Amendment
 
-Pub. L. 112–240, title III, §304(b), Jan. 2, 2013, 126 Stat. 2329, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2011.”
+Pub. L. 112–240, title III, §304(b), Jan. 2, 2013, 126 Stat. 2329, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2011."
 
 #### Effective Date of 2010 Amendment
 
-Pub. L. 111–312, title VII, §732(b), Dec. 17, 2010, 124 Stat. 3317, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009.”
+Pub. L. 111–312, title VII, §732(b), Dec. 17, 2010, 124 Stat. 3317, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2009."
 
 #### Effective Date of 2008 Amendment
 
-Pub. L. 110–343, div. C, title III, §314(b), Oct. 3, 2008, 122 Stat. 3872, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2007.”
+Pub. L. 110–343, div. C, title III, §314(b), Oct. 3, 2008, 122 Stat. 3872, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2007."
 
 #### Effective Date of 2006 Amendment
 
-Pub. L. 109–432, div. A, title I, §111(b), Dec. 20, 2006, 120 Stat. 2940, provided that: “The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2005.”
+Pub. L. 109–432, div. A, title I, §111(b), Dec. 20, 2006, 120 Stat. 2940, provided that: "The amendment made by this section \[amending this section\] shall apply to taxable years beginning after December 31, 2005."
 
 #### Effective Date of 2004 Amendment
 
-Pub. L. 108–311, title IV, §404(f), Oct. 4, 2004, 118 Stat. 1188, provided that: “The amendments made by thissection \[amending this section and sections 403, 408, 415, 530, and 4972 of this title\] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16\] to which they relate.”
+Pub. L. 108–311, title IV, §404(f), Oct. 4, 2004, 118 Stat. 1188, provided that: "The amendments made by thissection \[amending this section and sections 403, 408, 415, 530, and 4972 of this title\] shall take effect as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001 \[Pub. L. 107–16\] to which they relate."
 
 #### Effective Date of 1996 Amendment
 
